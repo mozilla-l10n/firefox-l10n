@@ -1,0 +1,77 @@
+<!ENTITY itemGeneral.label "Jikelele">
+<!ENTITY itemUpdate.label "Hlaziya">
+<!ENTITY itemOffline.label "Kwimo Engeyo Yakusebenza &amp; Isithuba Esikwidisk Singakanani">
+<!-- General Settings -->
+
+
+<!ENTITY showCondensedAddresses.label "Bonisa kuphela igama lokubonisa labantu abakwincwadi yam yeedilesi">
+<!ENTITY showCondensedAddresses.accesskey "n">
+<!-- LOCALIZATION NOTE (markAsRead.label): This will concatenate with
+     "xxx seconds before marking a message as read", using a number and
+     (markAsReadEnd.label). -->
+
+<!ENTITY markAsRead.label "Linda">
+<!ENTITY markAsRead.accesskey "L">
+<!ENTITY markAsReadEnd.label "imizuzwana phambi kokuphawula umyalezo njengofundiweyo">
+<!ENTITY markAsReadEnd.accesskey "w">
+<!ENTITY showFolderColumns.label "Bonisa imiqolo eyehlayo eyandisiweyo kwisahlulo sefestile sesiqulathi seefayili">
+<!ENTITY showFolderColumns.accesskey "s">
+<!ENTITY rememberLastMsg.label "Khumbula umyalezo wokugqibela okhethiweyo">
+<!ENTITY rememberLastMsg.accesskey "l">
+<!ENTITY reuseExp.label "Vulela imiyalezo emitsha ngaphakathi:">
+<!ENTITY reuseExpRadio0.label "Ifestile entsha yomyalezo">
+<!ENTITY reuseExpRadio0.accesskey "s">
+<!ENTITY reuseExpRadio1.label "Ifestile ekhoyo yomyalezo">
+<!ENTITY reuseExpRadio1.accesskey "o">
+<!ENTITY connectionTimeout.label "Liphelile ixesha lomdibaniso: ">
+<!ENTITY connectionTimeout.accesskey "L">
+<!ENTITY connectionSeconds.label "imizuzwana">
+<!ENTITY configEditDesc.label "Ubumbeko Oselukwinqanaba Eliphambili">
+<!ENTITY configEdit.label "Umhleli Wobumbeko...">
+<!ENTITY configEdit.accesskey "m">
+<!-- Update -->
+
+<!ENTITY autoCheck.label "Kuqwalaselwa ngokuzenzekela iziganeko zohlaziyo apha:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "h">
+<!ENTITY enableAddonsUpdate.label "Installed Add-ons">
+<!ENTITY enableAddonsUpdate.accesskey "t">
+<!ENTITY checkNow.label "Qwalasela Ngoku...">
+<!ENTITY whenUpdatesFound.label "Xa iziganeko zohlaziyo eziya kwi-&brandShortName; zifunyenwe,">
+<!ENTITY modeAskMe.label "Ask me what I want to do">
+<!ENTITY modeAskMe.accesskey "k">
+<!ENTITY modeAutomatic.label "Automatically download and install the update">
+<!ENTITY modeAutomatic.accesskey "m">
+<!ENTITY modeAutoAddonWarn.label "Warn me if this will disable any of my add-ons">
+<!ENTITY modeAutoAddonWarn.accesskey "W">
+<!ENTITY showUpdates.label "Bonisa Imbali Yohlaziyo">
+<!ENTITY showUpdates.accesskey "I">
+<!-- Offline and Disk Space -->
+
+<!ENTITY offline.label "Imo engeyo yakusebenza">
+<!ENTITY textStartUp "Xa kuqaliswa kwakhona:">
+<!ENTITY radioRememberPrevState "Khumbula isimo sangaphambili sokungabikho kwemo yokusebenza">
+<!ENTITY radioRememberPrevState.accesskey "R">
+<!ENTITY radioAskMe "Ndicele isimo semo yokusebenza ngexesha lokuqalisa kwakhona">
+<!ENTITY radioAskMe.accesskey "u">
+<!ENTITY radioAlwaysOnline "Yiba soloko uqalisa kwimo yokusebenza">
+<!ENTITY radioAlwaysOnline.accesskey "l">
+
+<!ENTITY textGoingOnline "Uthumela imiyalezo engathunyelwanga xa ubusiya kwimo yokusebenza?">
+<!ENTITY radioAutoSend "Ewe">
+<!ENTITY radioAutoSend.accesskey "Y">
+<!ENTITY radioNotSend "Hayi">
+<!ENTITY radioNotSend.accesskey "N">
+<!ENTITY radioAskUnsent "Ndibuze">
+<!ENTITY radioAskUnsent.accesskey "s">
+<!ENTITY textGoingOffline "Uthoba umthwalo wemiyalezo wokusebenzisa kwimo engeyo yakusebenza xa usiya kule mo engeyo yakusebenza?">
+<!ENTITY radioAutoDownload "Ewe">
+<!ENTITY radioAutoDownload.accesskey "e">
+<!ENTITY radioNotDownload "Hayi">
+<!ENTITY radioNotDownload.accesskey "o">
+<!ENTITY radioAskDownload "Ndibuze">
+<!ENTITY radioAskDownload.accesskey "a">
+<!ENTITY Diskspace "Isithuba Kwidisk">
+<!ENTITY offlineCompact.label "Shwankathela iziqulathi zeefayili xa ziza kugcina kakhulu">
+<!ENTITY offlineCompact.accesskey "n">
+<!ENTITY kb.label "i-KB">

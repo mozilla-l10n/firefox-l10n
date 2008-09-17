@@ -1,0 +1,31 @@
+<!ENTITY editMenu.label "Hlela">
+<!ENTITY editMenu.accesskey "h">
+<!ENTITY undoCmd.label "Qhaqha okwenzileyo">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "q">
+<!ENTITY redoCmd.label "Phinda wenze">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "p">
+<!ENTITY cutCmd.label "Sika">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "k">
+<!ENTITY copyCmd.label "Kopa">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "k">
+<!ENTITY pasteCmd.label "Ncamathelisa">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "n">
+<!ENTITY deleteCmd.label "Cima">
+<!ENTITY deleteCmd.accesskey "c">
+<!ENTITY selectAllCmd.label "Khetha Konke">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "k">
+<!ENTITY findCmd.label "Fumana">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "F">
+<!ENTITY findAgainCmd.label "Fumana Kwakhona">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findAgainCmd.accesskey "k">
+<!ENTITY findPreviousCmd.label "Fumana Okwethuba Langaphambili">
+<!ENTITY findPreviousCmd.accesskey "n">

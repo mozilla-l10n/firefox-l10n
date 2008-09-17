@@ -1,0 +1,71 @@
+<!ENTITY fontsDialog.title "Iifonti">
+<!ENTITY window.width "39em">
+<!ENTITY window.macWidth "43em">
+<!ENTITY window.unixWidth "41em">
+
+<!ENTITY language.label "Iifonti ukwenzela:">
+<!ENTITY language.accesskey "I">
+
+<!ENTITY size.label "Ubukhulu:">
+<!ENTITY size.accesskey1 "b">
+<!ENTITY size.accesskey2 "k">
+
+<!ENTITY proportional.label "Ngolwalamano:">
+<!ENTITY proportional.accesskey "N">
+
+<!ENTITY serif.label "I-serif:">
+<!ENTITY serif.accesskey "I">
+<!ENTITY sans-serif.label "I-sans-serif:">
+<!ENTITY sans-serif.accesskey "n">
+<!ENTITY monospace.label "Isithuba esihamba sodwa:">
+<!ENTITY monospace.accesskey "I">
+<!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
+<!ENTITY fantasy.label "Iminqweno engamaphupha:">
+<!ENTITY fantasy.accesskey "I">
+<!ENTITY cursive.label "Umbhalo odityaniswayo:">
+<!ENTITY cursive.accesskey "U">
+
+<!ENTITY fontsize.units "amachokoza eskrinini">
+
+<!ENTITY font.langGroup.latin1 "ngokwaseNtshona">
+<!ENTITY font.langGroup.latin2 "ngokwaseYurophu eseMbindini ">
+<!ENTITY font.langGroup.japanese "ngokwesiJapan">
+<!ENTITY font.langGroup.trad-chinese "ngokwesiTshayina Somthonyama (Taiwan)">
+<!ENTITY font.langGroup.simpl-chinese "isiTshayina Esenziwe Lula">
+<!ENTITY font.langGroup.trad-chinese-hk "ngokwesiTshayina Somthonyama (Hong Kong)">
+<!ENTITY font.langGroup.korean "ngokwesiKorea">
+<!ENTITY font.langGroup.cyrillic "ngokwesiCyrillic">
+<!ENTITY font.langGroup.baltic "ngokwesiBaltic">
+<!ENTITY font.langGroup.el "ngokwesiGrike">
+<!ENTITY font.langGroup.turkish "ngokwesiTurkish">
+<!ENTITY font.langGroup.unicode "Ezinye Iilwimi">
+<!ENTITY font.langGroup.user-def "Kuchazelwe Umsebenzisi">
+<!ENTITY font.langGroup.thai "ngokwesiThai">
+<!ENTITY font.langGroup.hebrew "ngokwesiHebheru">
+<!ENTITY font.langGroup.arabic "ngokwesiArab">
+<!ENTITY font.langGroup.devanagari "ngokwesiDevanagari">
+<!ENTITY font.langGroup.tamil "ngokwesiTamil">
+<!ENTITY font.langGroup.armenian "ngokwesiArmenian">
+<!ENTITY font.langGroup.bengali "ngokwesiBengali">
+<!ENTITY font.langGroup.canadian "ngokwesiUnified Canadian Syllabary">
+<!ENTITY font.langGroup.ethiopic "ngokwesiEthiopic">
+<!ENTITY font.langGroup.georgian "ngokwesiGeorgia">
+<!ENTITY font.langGroup.gujarati "ngokwesiGujarati">
+<!ENTITY font.langGroup.gurmukhi "ngokwesiGurmukhi">
+<!ENTITY font.langGroup.khmer "ngokwesiKhmer">
+<!ENTITY font.langGroup.malayalam "ngokwesiMalayalam">
+<!-- Minimum font size -->
+<!ENTITY minSize.label "Owona mlinganiselo mncinci wefonti:">
+<!ENTITY minSize.accesskey "o">
+<!ENTITY minSize.none "Akukho">
+<!-- default font type -->
+
+<!ENTITY useDefaultFontSerif.label "I-serif">
+<!ENTITY useDefaultFontSansSerif.label "I-sans serif">
+
+<!ENTITY allowPagesToUse.label "Vumela amakhasi ukuba akhethe iifonti ezizezawo, endaweni yokukhethwe ndim ngentla">
+<!ENTITY allowPagesToUse.accesskey "V">
+
+<!ENTITY languages.customize.Charset.grouplabel "Ukufakwa Kweekhowudi Kwimibhalo Enjengoonobumba">
+<!ENTITY languages.customize.DefaultCharset.label "Ukufakwa Kweekhowudi Okuhlala Kukho Kwimibhalo Enjengoonobumba:">
+<!ENTITY languages.customize.DefaultCharset.accesskey "K">

@@ -1,0 +1,13 @@
+<!ENTITY notificationsDialog.title "Isandi Semeyile Entsha">
+<!ENTITY window.width "30em">
+
+<!ENTITY soundNotification.caption "Yenza Ubumbeko Lwesandi Semeyile Entsha">
+<!ENTITY preview.label "Jonga Isandi Phambi Koshicilelo">
+<!ENTITY preview.accesskey "n">
+<!ENTITY systemsound.label "Faka Kwisixokelelwano Isandi Semeyile Entsha">
+<!ENTITY systemsoundMac.label "Faka Kwisixokelelwano Isandi Sesiqaphelisi">
+<!ENTITY systemsound.accesskey "x">
+<!ENTITY customsound.label "Lungiselela ifayili ye .wav">
+<!ENTITY customsound.accesskey "L">
+<!ENTITY browse.label "Khangela...">
+<!ENTITY browse.accesskey "K">

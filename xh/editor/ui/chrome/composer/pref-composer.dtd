@@ -1,0 +1,37 @@
+<!-- extracted from content/pref-composer.xul -->
+<!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
+<!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
+
+
+<!ENTITY pref.composer.title "Composer">
+
+<!ENTITY saving "Kuyagcinwa">
+<!ENTITY AutoSaveCheck "Gcina ngokuzenzekela nganye nganye">
+<!ENTITY minText "imizuzu">
+
+<!ENTITY exterLegend.label "Abahleli Bangaphandle">
+<!ENTITY htmlSource "Umthombo we-HTML:">
+<!ENTITY imageeditor "Imifuziselo:">
+<!ENTITY chooseButton.label "Khetha">
+
+<!ENTITY recentFiles.title "Imenyu Yamakhasi Akutshanje">
+<!ENTITY documentsInMenu.label "Elonanani liphezulu lamakhasi adwelisiweyo:">
+<!ENTITY documentsInMenu.accesskey "n">
+
+<!ENTITY savingFiles.title "Xa Kugcinwa okanye Kupapashwa Amakhasi">
+<!ENTITY preserveExisting.label "Londoloza ulungiselelo olungumthombo oyintsusa">
+<!ENTITY preserveExisting.accesskey "L">
+<!ENTITY preserveExisting.tooltip "Londoloza uqhawuqhawulo lwemigca nolungiselelo oluyintsusa lwekhasi">
+<!ENTITY saveAssociatedFiles.label "Gcina imifuziselo nezinye iifayili ezinxulumeneyo xa ugcina amakhasi">
+<!ENTITY saveAssociatedFiles.accesskey "G">
+<!ENTITY showPublishDialog.label "Yiba soloko ubonisa ingxoxo Yopapasho xa upapasha amakhasi">
+<!ENTITY showPublishDialog.accesskey "Y">
+
+<!ENTITY composerEditing.label "Kuyahlelwa">
+<!ENTITY maintainStructure.label "Bamba ukumiswa kakuhle kwetheyibhile xa kufakwa okanye kucinywa iiseli">
+<!ENTITY maintainStructure.tooltip "Londoloza ubume boxande betheyibhile ngokufakela iiseli ngokuzenzekela emva kokufaka okanye kokucima iiseli">
+<!ENTITY maintainStructure.accesskey "B">
+<!ENTITY useCSS.label "Sebenzisa izimbo ze-CSS endaweni yeziqalelo ze-HTML neempawu zazo zoyelelwano">
+<!ENTITY useCSS.accesskey "S">
+<!ENTITY crInPCreatesNewP.label "Ukubuyela kumhlathi kusoloko kudala umhlathi omtsha">
+<!ENTITY crInPCreatesNewP.accesskey "U">

@@ -1,0 +1,7 @@
+<!ENTITY window.title "Lungiselela Okubhalwa Ngasentla">
+<!ENTITY addButton.label "Fakela">
+<!ENTITY addButton.accesskey "F">
+<!ENTITY removeButton.label "Susa">
+<!ENTITY removeButton.accesskey "S">
+<!ENTITY newMsgHeader.label "Umyalezo ongasentla kwekhasi omtsha:">
+<!ENTITY newMsgHeader.accesskey "U">

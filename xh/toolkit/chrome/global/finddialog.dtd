@@ -1,0 +1,22 @@
+<!-- extracted from finddialog.xul -->
+
+<!ENTITY findDialog.title "Fumanisa Eli Khasi">
+<!ENTITY findDialogFrame.title "Fumanisa Esi Sakhelo">
+<!ENTITY findField.label "Fumanisa ntoni:">
+<!ENTITY findField.accesskey "m">
+<!ENTITY caseSensitiveCheckbox.label "Ngqamanisa unobumba">
+<!ENTITY caseSensitiveCheckbox.accesskey "n">
+<!ENTITY wrapCheckbox.label "Qhuba ngokuzenzekela kumgca olandelayo">
+<!ENTITY wrapCheckbox.accesskey "Q">
+<!ENTITY backwardsCheckbox.label "Zingela ubuya umva">
+<!ENTITY backwardsCheckbox.accesskey "u">
+<!ENTITY findField.tooltip "Chwetheza igama elinye okanye ngaphezulu ukuze ukhangele oku">
+<!ENTITY findButton.label "Fumana Okulandelayo">
+<!ENTITY findButton.accesskey "F">
+<!ENTITY cancelButton.label "Rhoxisa">
+<!ENTITY closeButton.label "Vala">
+<!ENTITY up.label "Phezulu">
+<!ENTITY up.accesskey "P">
+<!ENTITY down.label "Phantsi">
+<!ENTITY down.accesskey "P">
+<!ENTITY direction.label "Intsingiselo">

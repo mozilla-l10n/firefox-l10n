@@ -1,0 +1,17 @@
+<!ENTITY virtualFolderProperties.title "Isiqulathi Seefayili Sokuzingela Esitsha Esigciniweyo">
+<!ENTITY name.label "Igama:">
+<!ENTITY name.accesskey "i">
+<!ENTITY description.label "Yila njengesiqulathi seefayili esonganyelweyo soku:">
+<!ENTITY description.accesskey "Y">
+<!ENTITY searchCriteriaText.label "Hlengahlengisa imiqathango yokuzingela esetyenziselwa olu zingelo lugciniweyo:">
+<!ENTITY searchCriteriaButton.label "Imiqathango Yokuzingela...">
+<!ENTITY searchCriteriaButton.accesskey "I">
+
+<!ENTITY searchTermCaption.label "Bumba imiqathango yokuzingela esetyenziselwa esi siqulathi seefayili sokuzingela esigciniweyo: ">
+
+<!ENTITY folderSelectionCaption.label "Khetha iziqulathi zeefayili zokuzingela: ">
+<!ENTITY chooseFoldersButton.label "Khetha...">
+<!ENTITY chooseFoldersButton.accesskey "e">
+
+<!ENTITY searchOnline.label "Zingela Imo Yokusebenza (Inika iziphumo zokuhlaziya ze-IMAP kunye neziqulathi zeefayili Ezitsha kodwa yandisa ixesha lokuvula isiqulathi)">
+<!ENTITY searchOnline.accesskey "I">

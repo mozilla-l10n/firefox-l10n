@@ -1,0 +1,12 @@
+
+<!ENTITY addressbookPicker.label "Incwadi Yeedilesi:">
+<!ENTITY searchInput.label "Kuzingelwa Oku:">
+<!ENTITY SearchNameOrEmail.label "Igama okanye Imeyile">
+
+<!ENTITY addtoToFieldMenu.label "Fakela ku-Kummandla">
+<!ENTITY addtoCcFieldMenu.label "Fakela kummandla we-Cc">
+<!ENTITY addtoBccFieldMenu.label "Fakela kummandla we-Bcc">
+
+<!ENTITY toButton.label "Fakela ku-Kwi:">
+<!ENTITY ccButton.label "Fakela kwi-Cc:">
+

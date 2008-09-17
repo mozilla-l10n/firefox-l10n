@@ -1,0 +1,7 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY mailViewSetupTitle.label "Ukumisela Ukujongwa Komyalezo">
+<!ENTITY mailViewHeading.label "Igama lokujonga Umyalezo:">
+<!ENTITY mailViewHeading.accesskey "a">
+<!ENTITY searchTermCaption.label "Xa kukhethwa oku kujonga, bonisa kuphela umyalezo othe:">
+

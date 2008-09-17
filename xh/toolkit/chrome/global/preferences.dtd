@@ -1,0 +1,5 @@
+<!ENTITY windowClose.key "w">
+<!ENTITY preferencesDefaultTitleMac.title "Izikhethwa">
+<!ENTITY preferencesDefaultTitleWin.title "Ekunokukhethwa kuko">
+<!ENTITY preferencesCloseButton.label "Vala">
+<!ENTITY preferencesCloseButton.accesskey "V">

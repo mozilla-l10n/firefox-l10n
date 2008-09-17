@@ -1,0 +1,58 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title "Umiselo Lwekhasi">
+
+<!ENTITY basic.tab "Ulungiselelo &amp; Ekukhethwa kuko">
+
+<!ENTITY formatGroup.label "Ulungiselelo">
+
+<!ENTITY orientation.label "Uqhelaniso:">
+<!ENTITY portrait "Umfanekiso">
+<!ENTITY landscape "Imbonakalo-mhlaba">
+
+<!ENTITY scale.label "Isikali:">
+<!ENTITY scalePercent "&#037;">
+
+<!ENTITY shrinkToFit.label "Finyeza Ukuze Kulingane Ububanzi Bekhasi">
+
+<!ENTITY optionsGroup.label "Ekunokukhethwa kuko">
+
+<!ENTITY printBG.label "Shicilela Okungasemva Eskrinini (imibala &amp; imifuziselo)">
+
+<!ENTITY advanced.tab "Imida &amp; Okubhalwe Ngasentla/Okubhalwe Ngasezantsi Ekhasini">
+
+<!ENTITY marginGroup.label "Imida (#1)">
+<!ENTITY marginUnits.inches "ii-intshi">
+<!ENTITY marginUnits.metric "iimilimitha">
+<!ENTITY marginTop.label "Kumphezulu:">
+<!ENTITY marginBottom.label "Emazantsi:">
+<!ENTITY marginLeft.label "Ekhohlo:">
+<!ENTITY marginRight.label "Ekunene:">
+
+<!ENTITY headerFooter.label "Okubhalwe ngasentla ekhasini &amp; Okubhalwe Ngasezantsi Ekhasini">
+
+<!ENTITY hfLeft.label "Ekhohlo:">
+<!ENTITY hfCenter.label "Esizikithini:">
+<!ENTITY hfRight.label "Ekunene:">
+<!ENTITY headerLeft.tip "Okubhalwe Ngasentla Ekhasini Ngasekhohlo">
+<!ENTITY headerCenter.tip "Okubhalwe Ngasentla Ekhasini Esizikithini">
+<!ENTITY headerRight.tip "Okubhalwe Ngasentla Ekhasini Ngasekunene">
+<!ENTITY footerLeft.tip "Okubhalwe Ngasezantsi Ekhasini Ngasekhohlo">
+<!ENTITY footerCenter.tip "Okubhalwe Ngasezantsi Ekhasini Esizikithini">
+<!ENTITY footerRight.tip "Okubhalwe Ngasezantsi Ekhasini Ngasekunene">
+
+<!ENTITY hfTitle "Isihloko">
+<!ENTITY hfTitle.code "[&amp;T]">
+<!ENTITY hfURL "URL">
+<!ENTITY hfURL.code "[&amp;U]">
+<!ENTITY hfDateAndTime "Umhla/Ixesha">
+<!ENTITY hfDateAndTime.code "&amp;D">
+<!ENTITY hfPage "Ikhasi #">
+<!ENTITY hfPage.code "[&amp;P]">
+<!ENTITY hfPageAndTotal "Ikhasi # le-#">
+<!ENTITY hfPageAndTotal.code "[&amp;PT]">
+<!ENTITY hfBlank "--akubhalwanga nto--">
+<!ENTITY hfCustom "Lungiselela...">
+
+<!ENTITY customPrompt.title "Lungiselela...">
+<!ENTITY customPrompt.prompt "Ngenisa isiqendu osilungiselele okubhalwe ngasentla/ngasezantsi ekhasini">

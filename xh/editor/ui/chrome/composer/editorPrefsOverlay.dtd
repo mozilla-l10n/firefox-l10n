@@ -1,0 +1,9 @@
+<!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
+
+<!ENTITY editorCheck.label "Composer">
+<!ENTITY editorCheck.accesskey "c">
+
+<!ENTITY compose.label "Umhlanganiseli">
+<!ENTITY editing.label "Imimiselo Yekhasi Elitsha">
+<!ENTITY toolbars.label "Izixwexwe Zezixhobo Zemiyalelo">
+<!ENTITY publish.label "Kuyapapashwa">

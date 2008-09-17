@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
+
+<!ENTITY title.label "Kuthotywa Umthwalo Wezatifikethi">
+<!ENTITY info.message "Kuzingelwa uvimba weefayili zezatifikethi zomamkeli. Oku kusenokuthatha imizuzu embalwa.">
+<!ENTITY stop.label "Nqumamisa Ukuzingela">

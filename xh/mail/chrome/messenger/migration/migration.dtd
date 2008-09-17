@@ -1,0 +1,31 @@
+
+<!ENTITY migrationWizard.title "Thatha Ngaphandle Umncedi">
+
+<!ENTITY importFrom.label "Thatha Ngaphandle Ekukhethwa Kuko, Imimiselo Yeeakhawunti, Incwadi Yeedilesi nezinye iinkcukacha ezivela:">
+<!ENTITY importFromUnix.label "Thatha Ngaphandle Izikhethwa, Imimiselo Yeeakhawunti, Incwadi Yeedilesi nezinye iinkcukacha ezivela:">
+
+<!ENTITY importFromNothing.label "Musa ukuthatha nantoni ngaphandle">
+<!ENTITY importFromNothing.accesskey "M">
+<!ENTITY importFromSeamonkey.label "i-Netscape 6, 7 okanye i-Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromNetscape4.label "i-Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromOExpress.label "i-Outlook Express">
+<!ENTITY importFromOExpress.accesskey "u">
+<!ENTITY importFromOutlook.label "i-Outlook">
+<!ENTITY importFromOutlook.accesskey "O">
+<!ENTITY importFromEudora.label "i-Eudora">
+<!ENTITY importFromEudora.accesskey "E">
+
+<!ENTITY importSource.title "Thatha Ngaphandle Imimiselo Neziqulathi Zeefayili Ezivela">
+<!ENTITY importItems.title "Amanqaku afanele Ukuthathwa Ngaphandle">
+<!ENTITY importItems.label "Khetha ukuba ngawaphi amanqaku anokuthathwa ngaphandle:">
+
+<!ENTITY migrating.title "Kuthathwa ngaphandle...">
+<!ENTITY migrating.label "Amanqaku alandelayo athathwa ngaphandle okwangoku...">
+
+<!ENTITY selectProfile.title "Khetha Inkangeleko Yesimo">
+<!ENTITY selectProfile.label "Iinkangeleko zesimo ezilandelayo ziyafumaneka kwaye zinokuthathwa ngaphandle zivela:">
+
+<!ENTITY done.title "Ukuthatha Ngaphandle Kugqityiwe">
+<!ENTITY done.label "Amanqaku alandelayo athathwe ngaphandle ngempumelelo:">

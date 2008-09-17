@@ -1,0 +1,33 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Ukugcina isithuba kwidisk, musa ukuthoba umthwalo:">
+<!ENTITY doNotDownload.label "Ukugcina isithuba kwidsk, musa ukuthoba umthwalo wokusebenzisa xa ukwimo engeyo yakusebenza:">
+<!ENTITY offlineNewFolder.label "Xa ndiyila iziqulathi zeefayili ezintsha, zikhethele ukuzisebenzisa kwimo engeyo yakusebenza">
+<!ENTITY offlineNewFolder.accesskey "n">
+<!ENTITY offlineNotDownload.label "Imiyalezo emikhulu kuneminye">
+<!ENTITY offlineNotDownload.accesskey "I">
+<!ENTITY kb.label "i-KB">
+<!ENTITY days.label "iintsuku">
+<!ENTITY daysOld.label "iintsuku ubudala">
+<!ENTITY message.label "imiyalezo">
+<!ENTITY nntpNotDownloadRead.label "Funda imiyalezo">
+<!ENTITY nntpNotDownloadRead.accesskey "F">
+<!ENTITY nntpDownloadMsg.label "Imiyalezo ethe chatha">
+<!ENTITY nntpDownloadMsg.accesskey "i">
+<!ENTITY retentionCleanup.label "Ukubuyiseleka kwesithuba sedisk, imiyalezo emidala isenokucinywa isigxina">
+<!ENTITY retentionKeepMsg.label "Cima imiyalezo ethe chatha">
+<!ENTITY retentionKeepMsg.accesskey "i">
+<!ENTITY retentionKeepAll.label "Musa ukucima nayiphi imiyalezo">
+<!ENTITY retentionKeepAll.accesskey "N">
+<!ENTITY retentionKeepNew.label "Cima yonke ngaphandle kowokugqibela">
+<!ENTITY retentionKeepNew.accesskey "m">
+<!ENTITY retentionKeepUnread.label "Yiba soloko ucima imiyalezo efundwayo">
+<!ENTITY retentionKeepUnread.accesskey "e">
+<!ENTITY nntpRemoveBody.label "Kuphela iziqu zemiyalezo enganeno">
+<!ENTITY nntpRemoveBody.accesskey "K">
+<!ENTITY offlineSelectNntp.label "Khetha amaqela eendaba ukwenzela ukusebenzisa kwimo engeyo yakusebenza...">
+<!ENTITY offlineSelectImap.label "Khetha iziqulathi zeefayili ukwenzela ukusebenzisa kwimo engeyo yakusebenza...">
+<!ENTITY offlineSelect.accesskey "S">
+<!ENTITY offlineDesc.label "Unokuthoba umthwalo wemiyalezo yakho kwindawo leyo ukuze ifumaneke xa usebenza kwimo engeyo yakusebenza.">
+<!ENTITY makeInboxMsgsAvailable.label "Yenza ukuba imiyalezo ibe khona ngaphakathi ebhokisini xa ndisebenza kwimo engeyo yakusebenza">
+<!ENTITY makeInboxMsgsAvailable.accesskey "b">
+<!ENTITY offlineGroupTitle.label "Imo engeyo yakusebenza">
+<!ENTITY diskspaceGroupTitle.label "Isithuba Kwidisk">

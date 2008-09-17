@@ -1,0 +1,22 @@
+<!ENTITY window.title "Izinxaxhi">
+<!ENTITY window.width "36em">
+
+<!ENTITY treehead.sitename.label "Isiza">
+<!ENTITY treehead.status.label "Isimo">
+<!ENTITY addpermission.label "Isiza Esitsha">
+<!ENTITY removepermission.label "Susa Isiza">
+<!ENTITY removepermission.accesskey "S">
+<!ENTITY removeallpermissions.label "Susa Zonke Iziza">
+<!ENTITY removeallpermissions.accesskey "u">
+<!ENTITY address.label "Idilesi yesiza sothungelwano:">
+<!ENTITY block.label "Nqanda">
+<!ENTITY block.accesskey "N">
+<!ENTITY session.label "Vumela Iseshoni">
+<!ENTITY session.accesskey "I">
+<!ENTITY allow.label "Vumela">
+<!ENTITY allow.accesskey "V">
+<!ENTITY windowClose.key "w">
+
+<!ENTITY button.close.label "Vala">
+<!ENTITY button.close.accesskey "V">
+

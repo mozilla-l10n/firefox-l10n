@@ -1,0 +1,53 @@
+<!ENTITY window.title "Imigqaliselo Yezihluzi">
+<!ENTITY subject.label "intloko">
+<!ENTITY sender.label "umthumeli">
+<!ENTITY date.label "umhla">
+<!ENTITY anyText.label "nasiphi isiqendu">
+<!ENTITY keyword.label "igama elisentloko">
+<!ENTITY age.label "ubudala ngokweentsuku">
+<!ENTITY to.label "ukuya">
+<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
+
+<!ENTITY cc.label "Cc">
+
+<!ENTITY status.label "isimo">
+<!ENTITY priority.label "ngokokubaluleka">
+<!ENTITY body.label "isiqu">
+<!ENTITY contains.label "kuqulethe">
+<!ENTITY nocontains.label "akuqulethanga">
+<!ENTITY filterName.label "Igama lesihluzi:">
+<!ENTITY filterName.accesskey "h">
+
+<!ENTITY junk.label "Ingxubevange">
+<!ENTITY notJunk.label "Asiyongxubevange">
+
+<!ENTITY lowestPriorityCmd.label "Okona kusezantsi">
+<!ENTITY lowPriorityCmd.label "Ezantsi">
+<!ENTITY normalPriorityCmd.label "Okuqhelekileyo">
+<!ENTITY highPriorityCmd.label "Phezulu">
+<!ENTITY highestPriorityCmd.label "Okona kuphezulu">
+
+<!ENTITY conditionDesc.label "Ukwenzela imiyalezo efikayo ethe:">
+<!ENTITY filterActionDesc.label "Yenza la manyathelo:">
+<!ENTITY filterActionDesc.accesskey "Y">
+
+<!ENTITY newFolderButton.label "Isiqulathi Seefayili Esitsha...">
+<!ENTITY newFolderButton.accesskey "I">
+<!-- New Style Filter Rule Actions -->
+
+<!ENTITY moveMessage.label "Shenxisela Umyalezo apha">
+<!ENTITY copyMessage.label "Kopela Umyalezo apha">
+<!ENTITY forwardTo.label "Gqithisela Phambili Umyalezo apha">
+<!ENTITY replyWithTemplate.label "Phendula Ngesakhelo Seenkcukacha">
+<!ENTITY markMessageRead.label "Phawula Njengesinokufundwa">
+<!ENTITY markMessageStarred.label "Add Star">
+<!ENTITY labelMessage.label "Faka Ileyibhile Kumyalezo Kanje">
+<!ENTITY setPriority.label "Misela Ngokokubaluleka apha">
+<!ENTITY addTag.label "Tag Message">
+<!ENTITY setJunkScore.label "Misela Isimo Sengxubevange apha">
+<!ENTITY deleteMessage.label "Cima Umyalezo">
+<!ENTITY deleteFromPOP.label "Cima Ukusuka Kwiseva ye-POP">
+<!ENTITY fetchFromPOP.label "Landa Ukusuka kwiseva ye-POP">
+<!ENTITY ignoreThread.label "Ungawuhoyi Umsonto">
+<!ENTITY watchThread.label "Gada Umsonto">
+

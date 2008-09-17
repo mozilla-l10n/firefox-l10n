@@ -1,0 +1,28 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "Iinkcazelo Ngeempawu Zezishicileli">
+
+<!ENTITY paperInput.label "Ubukhulu Bephepha:">
+
+<!ENTITY plexInput.label "Imo yokusebenza ye-plex:">
+
+<!ENTITY resolutionInput.label "Iskrini esibonakalyo/Umgangatho:">
+
+<!ENTITY cmdInput.label "Umyalelo Woshicilelo:">
+
+<!ENTITY jobTitleInput.label "Isihloko Somdebenzi:">
+
+<!ENTITY colorGroup.label "Umbala:">
+<!ENTITY grayRadio.label "Umlinganiselo Oboniswayo">
+<!ENTITY colorRadio.label "Umbala">
+
+<!ENTITY colorspaceInput.label "Isithuba sombala:">
+
+<!ENTITY fontsGroup.label "Iifonti:">
+<!ENTITY downloadFonts.label "Uthobela umthwalo weefonti kwisishicileli?">
+
+<!ENTITY edgeMarginInput.label "Isithuba ukusuka ekupheleni kwephepha ukuya kuMda">
+<!ENTITY topInput.label "Kumphezulu:">
+<!ENTITY bottomInput.label "Emazantsi:">
+<!ENTITY leftInput.label "Ekhohlo:">
+<!ENTITY rightInput.label "Ekunene:">

@@ -1,0 +1,20 @@
+<!ENTITY securityTitle.label "Ukhuseleko">
+<!ENTITY securityHeading.label "Ukuthumela nokufumana imiyalezo esayiniweyo nenoguqulelo oluntsonkothileyo, kufuneka uxele isatifikethi sokusayina samanani nesatifikethi soguqulelo oluntsonkothileyo.">
+<!ENTITY encryptionGroupTitle.label "Uguqulelo oluntsonkothileyo">
+<!ENTITY encryptionChoiceLabel.label "Ummiselo woguqulelo oluntsonkothileyo ohlala ukho xa kuthunyelwa imiyalezo:">
+<!ENTITY neverEncrypt.label "Ungaze (musa ukusebenzisa uguqulelo oluntsonkothileyo)">
+<!ENTITY alwaysEncryptMessage.label "Okufunekayo (akunakuthunyelwa myalezo de babe bonke abamkeli banezatifikethi)">
+<!ENTITY encryptionCert.message "Sebenzisa esi satifikethi ukuguqulela ngokuntsonkothileyo &amp; ususe ukuntsonkotha kwimiyalezo ethunyelwa kuwe:">
+<!ENTITY encryptionCert.notselected "Akukho satifikethi simiselweyo">
+<!ENTITY certificate.button "Khetha...">
+<!ENTITY certificate_clear.button "Sula">
+<!ENTITY signingGroupTitle.label "Ukusayina Ngokwamanani">
+<!ENTITY signMessage.label "Sayina imiyalezo ngokwamanani (ngokusebenzisa okuhlala kukho)">
+<!ENTITY signingCert.message "Sebenzisa esi satifikethi ekusayineni imiyalezo oyithumelayo ngokwamanani:">
+<!ENTITY signingCert.notselected "Akukho satifikethi simiselweyo">
+
+<!ENTITY certificates.label "Izatifikethi">
+<!ENTITY managecerts.label "Jonga Izatifikethi">
+<!ENTITY managecerts.accesskey "J">
+<!ENTITY managedevices.label "Izixhobo Zokhuseleko">
+<!ENTITY managedevices.accesskey "I">

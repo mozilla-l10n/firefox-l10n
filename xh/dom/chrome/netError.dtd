@@ -1,0 +1,49 @@
+<!ENTITY loadError.label "IImposiso Yekhasi Yokulayisha">
+<!ENTITY retry.label "Zama Kwakhona">
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "Ukudibanisa akuphumelelanga">
+<!ENTITY connectionFailure.longDesc "<p>Nangona isiza sibonakala sisebenza, isikhangeli asikwazanga kuqinisekisa umdibaniso</p><ul><li>Ingaba isiza esi asikho okwethutyana? Zama kwakhona emva kwethuba.</li><li>Ingaba akukwazi ukukhangela ezinye iziza?  Qwalasela umdibaniso womsebenzi wothungelwano lwekhompyutha.</li><li>Ingaba ikhompyutha yakho okanye umsebenzi wothungelwano ukhuselwe ngodonga lomlilo okanye ngommeli? Imimiselo engachanekanga isenokuphazamisa ukukhangela Kuthungelwano.</li></ul>">
+
+<!ENTITY deniedPortAccess.title "Isiqhagamshelanisi Sithintelwe ngenxa Yezizathu Zokhuseleko">
+<!ENTITY deniedPortAccess.longDesc "<p>Idilesi eceliweyo ixele isiqhagamshelanisi (umzk. <q>mozilla.org:80</q> malunga nesiqhagamshelanisi esingu-80 kwi-mozilla.org) esikholisa ukusetyenziselwa izizathu <em>okunye</em> kunokukhangela Ngothungelwano. Isikhangeli sirhoxise isicelo ukwenzela ukhuselo lwakho nokhuseleko ngokunjalo.</p>">
+
+<!ENTITY dnsNotFound.title "Idilesi Ayifunyenwanga">
+<!ENTITY dnsNotFound.longDesc "<p>Isikhangeli asiyifumenanga iseva engumamkeli yedilesi enikiweyo.</p><ul><li>Ingaba wenze impazamo xa uchwetheza ummandla wolwazi? (umzk. <q><strong>ww</strong>.mozilla.org</q> endaweni ka-<q><strong>www</strong>.mozilla.org</q>)</li><li>Uqinisekile ukuba le dilesi yommandla wolwazi ikhona?  Ubhaliso lwayo mhlawumbi luphelewe lixesha.</li><li>Akukwazi ukukhangela ezinye iziza?  Qwalasela umdibaniso wakho womsebenzi wothungelwano kunye nemimiselo yeseva ye-DNS.</li><li>Ingaba ikhompyutha yakho okanye umsebenzi wothungelwano ukhuselwe ngodonga lomlilo okanye ngommeli?  Imimiselo engachanekanga inokuphazamisana nokukhangela Ngothungelwano.</li></ul>">
+
+<!ENTITY fileNotFound.title "Ifayili Ayifunyenwanga">
+<!ENTITY fileNotFound.longDesc "<ul><li>Ingaba inqaku eli linikwe elinye igama, lishenxisiwe, okanye libekwe kwenye indawo?</li><li>Ingaba kukho imposiso yopelo, oonobumba abakhulu, okanye enye yokuchwetheza?</li><li>Ingaba uneemvume ezaneleyo zofikeleleko ukuya kwinqaku eliceliweyo?</li></ul>">
+
+<!ENTITY generic.title "Ayikwazi Kusiphetha Isicelo">
+<!ENTITY generic.longDesc "<p>Ulwazi olongezelelweyo malunga nale ngxaki okanye imposiso alukho okwangoku.</p>">
+
+<!ENTITY malformedURI.title "Idilesi Engasebenziyo">
+<!ENTITY malformedURI.longDesc "<p>Idilesi enikiweyo ayikho kulungiselelo olubonakalayo. Nceda qwalasela isixwexwe sendawo ekuyo ngenxa yeempazamo uze uzame kwakhona.</p>">
+
+<!ENTITY netInterrupt.title "Kuphazamiseke Uthutho Lweenkcukacha">
+<!ENTITY netInterrupt.longDesc "<p>Isikhangeli sidityaniswe ngempumelelo, kodwa umdibaniso uye waphazamiseka xa bekuthuthwa ulwazi.  Nceda zama kwakhona.</p><ul><li>Akukwazi ukukhanela ezinye iziza? Qwalasela umdibaniso womsebenzi wothungelwano lwekhompyutha.</li><li>Usenengxaki? Zidibanise nomlawuli wakho womsebenzi wothungelwano okanye umxhasi Wonxibelelwano ngoncedo olufunayo.</li></ul>">
+
+<!ENTITY netOffline.title "Imo Engeyo Yakusebenza">
+<!ENTITY netOffline.longDesc "<p>Isikhangeli sisebenza kwimo yokungasebenzi kwaye asikwazi kudibaniseka kwinqaku eliceliweyo.</p><ul><li>Ingaba ikhompyutha idityanisiwe kumsebenzi wothungelwano osebenzayo?</li><li>Beka isikhangeli kwimo yokusebenza uze uzame kwakhona.</li></ul>">
+
+<!ENTITY netReset.title "Ukudibaniseka Kuphazamisekile">
+<!ENTITY netReset.longDesc "<p>Unxulumaniso lomsebenzi wothungelwano uye waphazamiseka xa bekuthethathethwana ngomdibaniso. Nceda uzame kwakhona.</p>">
+
+<!ENTITY netTimeout.title "Umsebenzi wothungelwano Ugqithelwe Lixesha">
+<!ENTITY netTimeout.longDesc "<p>Isiza esiceliweyo asingqinelananga nesicelo somdibaniso kwaye isikhangeli siyekile ukulinda impendulo.</p><ul><li>Ingaba iseva ifumana ukusetyenziswa ngokugqithisileyo okanye yinto yethutyana?  Zama kwakhona emva kwethuba.</li><li>Akukwazi kukhangela ezinye iziza? Qwalasela umdibaniso womsebenzi wothungelwano wekhompyutha.</li><li>Ingaba ikhompyutha yakho okanye umsebenzi wothungelwano ukhuselwe ngodonga lomlilo okanye ngommeli?  Imimiselo engachanekanga inako ukuphazamisa ukukhangela Kothungelwano.</li><li>Usenengxaki? Qhagamshelana nomlawuli wakho womsebenzi wothungelwano okanye umxhasi Wonxibelelwano xa ufuna uncedo.</li></ul>">
+
+<!ENTITY protocolNotFound.title "Yinkqubo Yomthetho Engaziwayo">
+<!ENTITY protocolNotFound.longDesc "<p>Idilesi ixela inkqubo yomthetho (umzk. <q>wxyz://</q>) isikhangeli asiyiboni, ngoko ke isikhangeli asikwazi kudibana kakuhle nesiza.</p><ul><li> Uzama ukufikelela kwisilondolozi sesininzi okanye nezinye iinkonzo ezingezo zeziqendu? Qwalasela isiza malunga neemfuneko zesiza.</li><li>Ezinye iinkqubo zemithetho zisenokufuna inkqubo yeqela lesithathu okanye ii-plug-ins phambi kokuba isikhangeli sizibone.</li></ul>">
+
+<!ENTITY proxyConnectFailure.title "Iseva Engummeli Yale Umdibaniso">
+<!ENTITY proxyConnectFailure.longDesc "<p>Isikhangeli sibumbeke ukuze sisebenzise iseva engummeli, kodwa ummeli wale umdibaniso.</p><ul><li>Ingaba ubumbeko lommeli wesikhangeli luchanekile? Qwalasela imimiselo uze uzame kwakhona.</li><li>Ingaba inkonzo yommeli iyayivumela imisdibaniso evela kulo msebenzi wothungelwano?</li><li>Usenengxaki? Qhagamshelana nomlawuli wakho womsebenzi wothungelwano okanye umxhasi Wonxibelelwano xa ufuna uncedo.</li></ul>">
+
+<!ENTITY proxyResolveFailure.title "Iseva Yommeli Ayifunyenwanga">
+<!ENTITY proxyResolveFailure.longDesc "<p>Isikhangeli sibumbeke ukuze sisebenzise iseva yommeli, kodwa ummeli akafunyenwanga.</p><ul><li>Ingaba ubumbeko lommeli wesikhangeli uchanekile? Qwalasela imimiselo uze uzame kwakhona.</li><li>Ingaba ikhompyutha idityanisiwe kumsebenzi wothungelwano osebenzayo?</li><li>Usenengxaki? Qhagamshelana nomlawuli wakho womsebenzi wothungelwano okanye umxhasi Wonxibelelwano xa ufuna uncedo.</li></ul>">
+
+<!ENTITY redirectLoop.title "Tshintsha Intsingiselo ye-Loop">
+<!ENTITY redirectLoop.longDesc "<p>Isikhangeli siyekile ukuzama ukubuyisela inqaku eliceliweyo. Isiza sitshintsha intsingiselo yesicelo ngendlela engasayi kuze iphele.</p><ul><li>Ingaba ususe isakhono okanye uthintele ii-cookies ezifunwa sesi siza?</li><li><em>QAPHELA</em>: Ukuba ukwamkela ii-cookies zesiza akuyisombululi ingxaki, kungenzeka ukuba yingxaki yobumbeko lweseva, hayiikhompyutha yakho.</li></ul>">
+
+<!ENTITY unknownSocketType.title "Impendulo Ayichanekanga">
+<!ENTITY unknownSocketType.longDesc "<p>Isiza siphendule isicelo somsebenzi wothungelwano ngendlela engalindelekanga kwaye isikhangeli asinakuqhuba.</p>">

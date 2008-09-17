@@ -1,0 +1,91 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Editor Smiley Overlay.
+   -
+   - The Initial Developer of the Original Code is
+   - Neil Rashbrook.
+   - Portions created by the Initial Developer are Copyright (C) 2003
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -    Neil Rashbrook <neil@parkwaycc.co.uk>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!-- Smiley Menu items -->
+
+<!ENTITY insertSmiley.label "u-Smiley">
+<!ENTITY insertSmiley.accesskey "S">
+
+<!ENTITY smiley1Cmd.label "Ncuma">
+<!ENTITY smiley1Cmd.accesskey "N">
+<!ENTITY smiley1Cmd.tooltip "Faka ubuso obunoncumo">
+<!ENTITY smiley2Cmd.label "Finga">
+<!ENTITY smiley2Cmd.accesskey "F">
+<!ENTITY smiley2Cmd.tooltip "Faka ubuso obufingwe iintshiyi">
+<!ENTITY smiley3Cmd.label "Qhwanyaza">
+<!ENTITY smiley3Cmd.accesskey "Q">
+<!ENTITY smiley3Cmd.tooltip "Faka ubuso obuqhwanyazayo">
+<!ENTITY smiley4Cmd.label "Ulwimi-ngaphandle">
+<!ENTITY smiley4Cmd.accesskey "U">
+<!ENTITY smiley4Cmd.tooltip "Faka ubuso obunolwimi-ngaphandle">
+<!ENTITY smiley5Cmd.label "Kuyahlekwa">
+<!ENTITY smiley5Cmd.accesskey "K">
+<!ENTITY smiley5Cmd.tooltip "Faka ubuso obuhlekayo">
+<!ENTITY smiley6Cmd.label "Ukuba neentloni">
+<!ENTITY smiley6Cmd.accesskey "N">
+<!ENTITY smiley6Cmd.tooltip "Faka ubuso obuneentloni">
+<!ENTITY smiley7Cmd.label "Akuqinisekwanga ngesigqibo">
+<!ENTITY smiley7Cmd.accesskey "A">
+<!ENTITY smiley7Cmd.tooltip "Faka ubuso obungathathi sigqibo">
+<!ENTITY smiley8Cmd.label "Ukumangaliswa">
+<!ENTITY smiley8Cmd.accesskey "m">
+<!ENTITY smiley8Cmd.tooltip "Faka ubuso obumangalisiweyo">
+<!ENTITY smiley9Cmd.label "Ukwanga">
+<!ENTITY smiley9Cmd.accesskey "U">
+<!ENTITY smiley9Cmd.tooltip "Faka ubuso obuphuzayo">
+<!ENTITY smiley10Cmd.label "Khala">
+<!ENTITY smiley10Cmd.accesskey "K">
+<!ENTITY smiley10Cmd.tooltip "Faka ubuso obukhalayo">
+<!ENTITY smiley11Cmd.label "Kupholile">
+<!ENTITY smiley11Cmd.accesskey "K">
+<!ENTITY smiley11Cmd.tooltip "Faka ubuso obuzolileyo">
+<!ENTITY smiley12Cmd.label "Umlomo-Wemali">
+<!ENTITY smiley12Cmd.accesskey "U">
+<!ENTITY smiley12Cmd.tooltip "Faka ubuso bemali-umlomo">
+<!ENTITY smiley13Cmd.label "Unyawo-Emlonyeni">
+<!ENTITY smiley13Cmd.accesskey "y">
+<!ENTITY smiley13Cmd.tooltip "Faka ubuso bonyawo emlonyeni">
+<!ENTITY smiley14Cmd.label "Ukuba msulwa">
+<!ENTITY smiley14Cmd.accesskey "U">
+<!ENTITY smiley14Cmd.tooltip "Faka ubuso obumsulwa">
+<!ENTITY smiley15Cmd.label "Lila">
+<!ENTITY smiley15Cmd.accesskey "l">
+<!ENTITY smiley15Cmd.tooltip "Faka ubuso obulilayo">
+<!ENTITY smiley16Cmd.label "Imilebe-Itywiniwe">
+<!ENTITY smiley16Cmd.accesskey "i">
+<!ENTITY smiley16Cmd.tooltip "Faka imilebe-etywiniweyo">
+<!ENTITY SmileButton.tooltip "Faka ubuso obunoncumo">
+

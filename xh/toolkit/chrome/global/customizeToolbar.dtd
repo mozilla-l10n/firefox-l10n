@@ -1,0 +1,12 @@
+<!ENTITY dialog.title "Lungiselela Umgca wezixhobo zemiyalezo">
+<!ENTITY dialog.style "width: 635px; height: 400px;">
+<!ENTITY instructions.description "Unako ukufakela okanye ukususa amanqaku ngokuwarhuqela kwimigca yezixhobo zemiyalezo okanye ngokuwasusa kuzo.">
+<!ENTITY show.label "Bonisa:">
+<!ENTITY iconsAndText.label "Imiqondiso yokuqulathiweyo Nesiqendu">
+<!ENTITY icons.label "Imiqondiso yokuqulathiweyo">
+<!ENTITY text.label "Isiqendu">
+<!ENTITY useSmallIcons.label "Sebenzisa Imiqondiso Yokuqulathiweyo Emincinci">
+<!ENTITY restoreDefaultSet.label "Buyisela Ummiselo Ohlala Ukho">
+<!ENTITY addNewToolbar.label "Fakela Umgca Wezixhobo Zemiyalezo Omtsha">
+<!ENTITY saveChanges.label "Kwenziwe">
+<!ENTITY undoChanges.label "Qhaqha Iinguquko Ezenziweyo">

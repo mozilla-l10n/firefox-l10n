@@ -1,0 +1,22 @@
+<!ENTITY pluginWizard.title "Inkonzo Yokufumanisa i-Plugin">
+<!ENTITY pluginWizard.firstPage.title "Wamkelekile kwi-&pluginWizard.title;">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label "I-&brandShortName; ngoku iqwalasela ii-plugin ezikhoyo...">
+
+<!ENTITY pluginWizard.availablePluginsPage.title "Ukuthotywa Kwemithwalo yeePlugin Okukhoyo">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Ii-plugin ezilandelayo zikhona:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Cinezela u-Okulandelayo ukuze uhlohle ezi plugin.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI "Ezinye ii-plugin zisenokufuna ulwazi olufakelweyo kuwe ngethuba lokuhlohla.">
+
+<!ENTITY pluginWizard.licensePage.title "Iilayisensi ze-Plugin">
+<!ENTITY pluginWizard.licensePage.accept.label "Ndiyavuma.">
+<!ENTITY pluginWizard.licensePage.deny.label "Andivumi (i-plugin ayisayi kuhlohlwa).">
+
+<!ENTITY pluginWizard.installPluginsPage.title "Kuhlohlwa ii-Plugin">
+<!ENTITY pluginWizard.installPluginsPage.description.label "I-&brandShortName; ihlohla ii-plugin...">
+
+<!ENTITY pluginWizard.finalPage.description.label "I-&brandShortName; igqibile ukuhlohla ii-plugin ezilahlekileyo:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label "Fumanisa ngaphezulu ngee-Plugin okanye fumanisa ngokwenza ngesandla ii-plugin ezilahlekileyo.">
+<!ENTITY pluginWizard.finalPage.restart.label "I-&brandShortName; ifuna ukuphinda iqaliswe ukuze ii-plugin zisebenze.">
+

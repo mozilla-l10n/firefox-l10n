@@ -1,0 +1,40 @@
+<!ENTITY generalSettings.caption "Imimiselo Ehlala Ikho">
+<!ENTITY generalSettings.label "Yenza i-&brandShortName; inkqubo ehlala ikho ukwenzela:">
+<!ENTITY setDefaultMailClient.label "Imeyile">
+<!ENTITY setDefaultMailClient.accesskey "I">
+<!ENTITY setDefaultNewsClient.label "Iindaba">
+<!ENTITY setDefaultNewsClient.accesskey "I">
+<!ENTITY setDefaultFeedClient.label "Izondlo ze-RSS">
+<!ENTITY setDefaultFeedClient.accesskey "Z">
+<!ENTITY checkDefaultMailClient.label "I-&brandShortName; kufuneka iqwalasele ukuze ibone ukuba ingaba ngumxumi wemeyile ehlala ikho na xa kuqaliswa">
+<!ENTITY checkDefaultMailClient.accesskey "x">
+<!ENTITY defaultClientAdvanced.label "Kwinqanaba Eseliphambili...">
+<!ENTITY defaultClientAdvanced.accesskey "n">
+
+<!ENTITY windowSettings.label "Ubumbeko Lwefestile">
+<!ENTITY selectWindowLayout.label "Khetha ukumiswa kakuhle kwefestile okuthandayo ukwenzela Imeyile.">
+<!ENTITY selectWindowLayout.accesskey "K">
+
+<!ENTITY messengerStartPage.label "I-&brandShortName; Ikhasi Lokuqalisa">
+<!ENTITY enableStartPage.label "Xa i-&brandShortName; indululwa, bonisa Ikhasi Lokuqalisa kummandla womyalezo">
+<!ENTITY enableStartPage.accesskey "X">
+<!ENTITY location.label "Indawo yokuthile:">
+<!ENTITY location.accesskey "I">
+<!ENTITY useDefault.label "Buyisela Okuhlala KukhoRestore Default">
+<!ENTITY useDefault.accesskey "B">
+
+<!ENTITY bounceSystemDockIcon.label "Yenza njengokuphilayo umqondiso wokuqulathiweyo ophakamileyo">
+<!ENTITY bounceSystemDockIcon.accesskey "p">
+
+<!ENTITY newMessagesArrive.label "Xa kufika imiyalezo emitsha:">
+<!ENTITY playSound.label "Dlala isandi">
+<!ENTITY playSound.accesskey "D">
+<!ENTITY showAnimatedAlert.label "Bonisa isiqaphelisi">
+<!ENTITY showAnimatedAlert.accesskey "B">
+<!ENTITY soundbutton.label "Kwinqanaba Eseliphambili...">
+<!ENTITY soundbutton.accesskey "K">
+
+<!ENTITY showConnections.label "Imimiselo Yomdibaniso...">
+<!ENTITY showConnections.accesskey "d">
+<!ENTITY proxiesInfo.label "Fumanisa indlela i-&brandShortName; ezidibana ngayo Kunxibelelwano.">
+<!ENTITY connectionsInfo.caption "Umdibaniso">

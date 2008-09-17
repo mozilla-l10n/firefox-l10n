@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY newsBlogSubscriptions.label "Imirhumo ye-RSS">
+<!ENTITY subscriptionDesc.label "Qaphela: Ukususa okanye ukuguqula isiqulathi seefayili ukwenzela ukondla akusayi kuchaphazela amanqaku ebethotywe umthwal ngaphambili.">
+<!ENTITY feedTitle.label "Isihloko:">
+<!ENTITY location.label "Indawo yokuthile:">
+
+<!ENTITY button.addFeed.label "Fakela">
+<!ENTITY button.addFeed.accesskey "F">
+<!ENTITY button.editFeed.label "Hlela">
+<!ENTITY button.editFeed.accesskey "H">
+<!ENTITY button.removeFeed.label "Susa">
+<!ENTITY button.removeFeed.accesskey "S">
+<!ENTITY button.importOPML.label "Thatha ngaphandle">
+<!ENTITY button.importOPML.accesskey "T">
+<!ENTITY button.exportOPML.label "Thumela ngaphandle">
+<!ENTITY button.exportOPML.accesskey "P">
+
+<!ENTITY cmd.close.commandKey "w">

@@ -1,0 +1,12 @@
+<!ENTITY accountTitle.label "Imimiselo Yeeakhawunti">
+<!ENTITY accountSettingsDesc.label "Le ilandelayo yiakhawunti yohlobo olulodwa.  Akukho zimpawu zokuchonga ezinxulumene nayo.">
+<!ENTITY accountName.label "Igama Leakhawunti:">
+<!ENTITY accountName.accesskey "L">
+<!ENTITY messageStorage.label "Ulondolozo Lomyalezo">
+<!ENTITY emptyTrashOnExit.label "Lahla Inkunkuma xa Uphuma">
+<!ENTITY emptyTrashOnExit.accesskey "p">
+<!ENTITY localPath.label "Uvimba weefayili zendawo leyo:">
+<!ENTITY localPath.accesskey "Z">
+<!ENTITY localFolderPicker.label "Khetha Uvimba Weefayili Zendawo Leyo">
+<!ENTITY browseFolder.label "Khangela...">
+<!ENTITY browseFolder.accesskey "K">

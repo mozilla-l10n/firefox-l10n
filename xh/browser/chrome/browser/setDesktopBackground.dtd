@@ -1,0 +1,9 @@
+<!ENTITY position.label "Indawo Yokuthile:">
+<!ENTITY tile.label "Ithayili">
+<!ENTITY center.label "Embindini">
+<!ENTITY stretch.label "Twabulula">
+<!ENTITY preview.label "Ukujonga kwangaphambili">
+<!ENTITY color.label "Umbala:">
+<!ENTITY setDesktopBackground.title "Misela Okungasemva Kolwazi Oluseskrinini">
+<!ENTITY openDesktopPrefs.label "Vula Izikhethwa Ezikulwazi Oluseskrinini">
+<!ENTITY closeWindow.key "w">

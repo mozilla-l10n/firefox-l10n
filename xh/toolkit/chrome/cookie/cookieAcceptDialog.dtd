@@ -1,0 +1,20 @@
+<!ENTITY props.box.label "Malunga nale cookie">
+<!ENTITY props.name.label "Igama:">
+<!ENTITY props.value.label "Isiqulatho:">
+<!ENTITY props.domain.label "Umamkeli:">
+<!ENTITY props.path.label "Indlela yothungelwano:">
+<!ENTITY props.secure.label "Thumela Apha:">
+<!ENTITY props.expires.label "Kuphelelwa lixesha:">
+<!ENTITY props.policy.label "Umgaqonkqubo:">
+
+<!ENTITY button.allow.label "Vumela">
+<!ENTITY button.allow.accesskey "V">
+<!ENTITY button.session.label "Vumela Iseshoni">
+<!ENTITY button.session.accesskey "I">
+<!ENTITY button.deny.label "Khanyela">
+<!ENTITY button.deny.accesskey "K">
+
+<!ENTITY dialog.title "Qinisekisa i-cookie emiselwayo">
+<!ENTITY dialog.remember.label "Sebenzisa okukhethwe ndim malunga nazo zonke ii-cookie ezivela kwesi siza">
+<!ENTITY dialog.remember.accesskey "S">
+

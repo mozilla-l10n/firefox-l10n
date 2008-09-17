@@ -1,0 +1,23 @@
+<!ENTITY dialog.title "Buyisela Izamkelo">
+<!ENTITY receiptSettings.label "Buyisela Izamkelo">
+<!ENTITY requestReceipt.label "Xa uthumela imiyalezo, yiba soloko ucela isamkelo sokubuyisa">
+<!ENTITY requestReceipt.accesskey "X">
+<!ENTITY receiptArrive.label "Xa kufika isamkelo:">
+<!ENTITY leaveIt.label "Shiya kwibhokisi yam Yokufikayo">
+<!ENTITY leaveIt.accesskey "y">
+<!ENTITY moveToSent.label "Sishenxisele kwi-&quot;Sithunyelwe&quot; isiqulathi seefayili sam">
+<!ENTITY moveToSent.accesskey "s">
+<!ENTITY requestMDN.label "Xa ndifumana isicelo sesamkelo sokubuyisa:">
+<!ENTITY never.label "Ungaze uthumele isamkelo sokubuyisa">
+<!ENTITY never.accesskey "u">
+<!ENTITY returnSome.label "Vumela izamkelo ezibuyiswayo ukwenzela imiyalezo ethile">
+<!ENTITY returnSome.accesskey "i">
+<!ENTITY notInToCc.label "Ukuba andikho kwi-Iya okanye i-Cc yomyalezo:">
+<!ENTITY notInToCc.accesskey "b">
+<!ENTITY outsideDomain.label "Ukuba umthumeli ungaphandle kommandla wam wolwazi:">
+<!ENTITY outsideDomain.accesskey "u">
+<!ENTITY otherCases.label "Kuzo zonke ezinye iziganeko:">
+<!ENTITY otherCases.accesskey "z">
+<!ENTITY askMe.label "Ndibuze">
+<!ENTITY alwaysSend.label "Yiba soloko uthumela">
+<!ENTITY neverSend.label "Ungaze uthumele">

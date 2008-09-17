@@ -1,0 +1,18 @@
+<!ENTITY lookInMenuList.label "Bona ngaphakathi:">
+<!ENTITY lookInMenuList.accesskey "B">
+<!ENTITY textInput.label "Igama lefayili:">
+<!ENTITY textInput.accesskey "i">
+<!ENTITY filterMenuList.label "Iifayili ze simbo:">
+<!ENTITY filterMenuList.accesskey "s">
+<!ENTITY name.label "Igama">
+<!ENTITY size.label "Ubukhulu">
+<!ENTITY lastModified.label "Ihlengahlengiswe Okokugqibela">
+<!ENTITY permissions.label "Iimvume">
+<!ENTITY showHiddenFiles.label "Bonisa iifayili ezifihliweyo noovimba beefayili">
+<!ENTITY showHiddenFiles.accesskey "B">
+
+<!ENTITY noPermissionError.label "Akunayo imvume eyimfuneko yokubona lo vimba weefayili.">
+
+<!ENTITY folderUp.tooltiptext "Yiya phezulu ngenqanaba">
+<!ENTITY folderHome.tooltiptext "Yiya ekhaya">
+<!ENTITY folderNew.tooltiptext "Yila uvimba weefayili omtsha">

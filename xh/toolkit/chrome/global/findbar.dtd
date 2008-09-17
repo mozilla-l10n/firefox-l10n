@@ -1,0 +1,16 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
+<!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
+<!-- entities split out from browser.dtd -->
+
+<!ENTITY next.label "Next">
+<!ENTITY next.accesskey "N">
+<!ENTITY next.tooltip "Fumanisa isenzeko esilandelayo sebinzana lamagama">
+<!ENTITY previous.label "Previous">
+<!ENTITY previous.accesskey "P">
+<!ENTITY previous.tooltip "Fumanisa isenzeko sangaphambili sebinzana lamagama">
+<!ENTITY findCloseButton.tooltip "Vala Fumanisa isixwexwe somgca">
+<!ENTITY highlight.label "Khanyisa konke">
+<!ENTITY highlight.accesskey "k">
+<!ENTITY highlight.tooltiptext "Highlight all occurrences of the phrase">
+<!ENTITY caseSensitiveCheckbox.label "Ngqamanisa unobumba">
+<!ENTITY caseSensitiveCheckbox.accesskey "n">

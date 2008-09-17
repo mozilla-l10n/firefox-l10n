@@ -1,0 +1,64 @@
+<!ENTITY fontsDialog.title "Iifonti">
+<!ENTITY window.width "39em">
+<!ENTITY window.macWidth "43em">
+<!ENTITY window.unixWidth "41em">
+
+<!ENTITY language.label "Iifonti ukwenzela:">
+<!ENTITY language.accesskey "t">
+
+<!ENTITY typefaces.label "Isimbo sokuchwetheza">
+<!ENTITY sizes.label "Ubukhulu (bamachokoza eskrinini)">
+
+<!ENTITY proportional.label "Ngolwalamano:">
+<!ENTITY proportional.accesskey "N">
+
+<!ENTITY serif.label "i-Serif:">
+<!ENTITY serif.accesskey "s">
+<!ENTITY sans-serif.label "i-Sans-serif:">
+<!ENTITY sans-serif.accesskey "n">
+<!ENTITY monospace.label "Isithuba esihamba sodwa:">
+<!ENTITY monospace.accesskey "i">
+
+<!ENTITY fontsize.units "amachokoza eskrinini">
+
+<!ENTITY font.langGroup.latin1 "ngokwaseNtshona">
+<!ENTITY font.langGroup.latin2 "ngokwaseYurophu eseMbindini">
+<!ENTITY font.langGroup.japanese "ngokwesiJapan">
+<!ENTITY font.langGroup.trad-chinese "ngokwesiTshayina Somthonyama (Taiwan)">
+<!ENTITY font.langGroup.simpl-chinese "isiTshayina Esenziwe Lula">
+<!ENTITY font.langGroup.trad-chinese-hk "ngokwesiTshayina Somthonyama (Hong Kong)">
+<!ENTITY font.langGroup.korean "ngokwesiKorea">
+<!ENTITY font.langGroup.cyrillic "ngokwesiCyrillic">
+<!ENTITY font.langGroup.baltic "ngokwesiBaltic">
+<!ENTITY font.langGroup.el "ngokwesiGrike">
+<!ENTITY font.langGroup.turkish "ngokwesiTurkish">
+<!ENTITY font.langGroup.unicode "Ezinye Iilwimi">
+<!ENTITY font.langGroup.user-def "Kuchazelwe Umsebenzisi">
+<!ENTITY font.langGroup.thai "ngokwesiThai">
+<!ENTITY font.langGroup.hebrew "ngokwesiHebheru">
+<!ENTITY font.langGroup.arabic "ngokwesiArab">
+<!ENTITY font.langGroup.devanagari "ngokwesiDevanagari">
+<!ENTITY font.langGroup.tamil "ngokwesiTamil">
+<!ENTITY font.langGroup.armenian "ngokwesiArmenian">
+<!ENTITY font.langGroup.bengali "ngokwesiBengali">
+<!ENTITY font.langGroup.canadian "ngokwesiUnified Canadian Syllabary">
+<!ENTITY font.langGroup.ethiopic "ngokwesiEthiopic">
+<!ENTITY font.langGroup.georgian "ngokwesiGeorgia">
+<!ENTITY font.langGroup.gujarati "ngokwesiGujarati">
+<!ENTITY font.langGroup.gurmukhi "ngokwesiGurmukhi">
+<!ENTITY font.langGroup.khmer "ngokwesiKhmer">
+<!ENTITY font.langGroup.malayalam "ngokwesiMalayalam">
+<!-- Minimum font size -->
+
+<!ENTITY minSize.label "Owona mlinganiselo mncinci wefonti:">
+<!ENTITY minSize.accesskey "n">
+<!ENTITY minSize.none "Akukho">
+<!-- default font type -->
+
+<!ENTITY useDefaultFontSerif.label "I-Serif">
+<!ENTITY useDefaultFontSansSerif.label "i-Sans Serif">
+
+<!ENTITY newLanguages.label "Iilwimi ezintsha zinokubumbeka ngokusebenzisa Isigqeba Seelwimi.">
+
+<!ENTITY useDocumentFonts.label "Vumela imiyalezo ukuba isebenzise ezinye iifonti">
+<!ENTITY useDocumentFonts.accesskey "m">

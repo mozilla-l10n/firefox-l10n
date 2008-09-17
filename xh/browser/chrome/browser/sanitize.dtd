@@ -1,0 +1,20 @@
+<!ENTITY sanitizeDialog.title "Sula Iinkcukacha Zabucala">
+
+<!ENTITY sanitizeItems.label "Sula amanqaku alandelayo ngoku:">
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+
+<!ENTITY itemHistory.label "Kukhangelwa Imbali">
+<!ENTITY itemHistory.accesskey "K">
+<!ENTITY itemFormSearchHistory.label "Saved Form and Search History">
+<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemPasswords.label "Amagama Okugqithisa Agciniweyo">
+<!ENTITY itemPasswords.accesskey "O">
+<!ENTITY itemCookies.label "Ii-cookies">
+<!ENTITY itemCookies.accesskey "C">
+<!ENTITY itemCache.label "Uvimba wethutyana">
+<!ENTITY itemCache.accesskey "m">
+<!ENTITY itemDownloads.label "Thoba Umthwalo Wembali">
+<!ENTITY itemDownloads.accesskey "T">
+<!ENTITY itemSessions.label "Iiseshoni Ezinyanisekisiweyo">
+<!ENTITY itemSessions.accesskey "I">

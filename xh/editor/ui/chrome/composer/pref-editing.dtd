@@ -1,0 +1,28 @@
+<!ENTITY pref.editing.title "Imimiselo Yekhasi Elitsha">
+
+<!ENTITY authorName.label "Umbhali:">
+<!ENTITY authorName.accesskey "b">
+<!ENTITY pageColorHeader "Ukuvela Kwekhasi Okuhlala Kukho">
+
+<!ENTITY defaultColorsRadio.label "Imibala yomfundi ehlala ikho (Musa ukumisela imibala ekhasini)">
+<!ENTITY defaultColors.accesskey "d">
+<!ENTITY customColorsRadio.label "Sebenzisa imibala yokulungiselela:">
+<!ENTITY customColors.accesskey "c">
+
+<!ENTITY normalText.label "Isiqendu esiqhelekileyo">
+<!ENTITY normalText.accesskey "I">
+<!ENTITY linkText.label "Nxulumanisa isiqendu">
+<!ENTITY linkText.accesskey "N">
+<!ENTITY activeLinkText.label "Isiqendu sonxulumaniso esisebenzayo">
+<!ENTITY activeLinkText.accesskey "I">
+<!ENTITY visitedLinkText.label "Isiqendu sonxulumaniso esityelelweyo">
+<!ENTITY visitedLinkText.accesskey "I">
+<!ENTITY background.label "Okungasemva eskrinini:">
+<!ENTITY background.accesskey "O">
+<!ENTITY colon.character ":">
+
+<!ENTITY backgroundImage.label "Umfuziselo Ongasemva eskrinini:">
+<!ENTITY backgroundImage.accesskey "m">
+<!ENTITY chooseFile.label "Khetha Ifayili...">
+<!ENTITY chooseFile.accesskey "t">
+

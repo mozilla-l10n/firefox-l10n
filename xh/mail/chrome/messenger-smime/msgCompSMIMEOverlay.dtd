@@ -1,0 +1,25 @@
+<!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
+
+<!ENTITY securityMenu.label "Ukhuseleko">
+<!ENTITY securityMenu.accesskey "u">
+
+<!ENTITY menu_securityEncryptIfPossible.label "Guqulela ngokuntsonkothileyo ukuba Kuyenzeka">
+<!ENTITY menu_securityEncryptIfPossible.accesskey "K">
+
+<!ENTITY menu_securityEncryptRequire.label "Guqulela Ngokuntsonkothileyo Lo Myalezo">
+<!ENTITY menu_securityEncryptRequire.accesskey "G">
+
+<!ENTITY menu_securityNoEncryption.label "Musa Ukuguqulela Ngokuntsonkothileyo Lo Myalezo">
+<!ENTITY menu_securityNoEncryption.accesskey "U">
+
+<!ENTITY menu_securitySign.label "Ngokwamanani Sayina Lo Myalezo">
+<!ENTITY menu_securitySign.accesskey "S">
+
+<!ENTITY menu_securityStatus.label "Jonga Ukhuseleko Ulwazi">
+<!ENTITY menu_securityStatus.accesskey "U">
+
+<!ENTITY securityButton.label "Ukhuseleko">
+<!ENTITY securityButton.tooltip "Jonga okanye guqula imimiselo yokhuseleko">
+
+<!ENTITY menu_viewSecurityStatus.label "Ukhuseleko Lomyalezo Ulwazi">
+<!ENTITY menu_viewSecurityStatus.accesskey "U">

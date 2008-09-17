@@ -1,0 +1,10 @@
+<!ENTITY window.title "Izinxaxhi">
+<!ENTITY treehead.sitename.label "Isiza">
+<!ENTITY treehead.status.label "Isimo">
+<!ENTITY addpermission.label "Isiza Esitsha">
+<!ENTITY removepermission.label "Susa Isiza">
+<!ENTITY removeallpermissions.label "Susa Zonke Iziza">
+<!ENTITY address.label "Idilesi yesiza sothungelwano:">
+<!ENTITY block.label "Nqanda">
+<!ENTITY session.label "Vumela Iseshoni">
+<!ENTITY allow.label "Vumela">

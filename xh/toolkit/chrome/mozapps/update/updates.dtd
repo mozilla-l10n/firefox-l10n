@@ -1,0 +1,85 @@
+<!ENTITY updateWizard.title "Uhlaziyo Lwenkqubo">
+
+<!ENTITY window.width "36em">
+<!ENTITY window.macWidth "39em">
+
+<!ENTITY checking.title "Kuqwalaselwa iziganeko Zohlaziyo">
+<!ENTITY checking.label "&brandShortName; iqwalasela ngoku iziganeko zohlaziyo...">
+
+<!ENTITY cancel.label "Rhoxisa">
+<!ENTITY cancel.accesskey "R">
+
+<!ENTITY noupdatesfound.title "Akukho Ziganeko Zohlaziyo Zifunyenweyo">
+<!ENTITY noupdatesfound.intro "There are no new updates available. &brandShortName; may check 
+                                           periodically for new updates.">
+
+<!ENTITY updatesfound.title "Uhlaziyo Lukhona">
+
+<!ENTITY moreDetails.label "Iinkcukacha Ezithe Chatha &#0187;">
+<!ENTITY moreDetails.accesskey "I">
+<!ENTITY clickHere.label "Jonga ulwazi olungaphaya kolunikiweyo malunga nolu hlaziyo">
+
+<!ENTITY incompatible.warning "This update will cause some of your extensions and/or themes 
+                                           to stop working until they are updated.">
+<!ENTITY listIncompatible.label "Bonisa Uludwe">
+<!ENTITY listIncompatible.accesskey "U">
+
+<!ENTITY upgrade.evangelism "It is strongly recommended that you upgrade &brandShortName; 
+                                           as soon as possible.">
+
+<!ENTITY license.title "Imvumelwano Yelayisensi">
+<!ENTITY license.intro "To install this update you must agree to this license agreement. 
+                                           Please read it carefully:">
+<!ENTITY license.instructions "If you agree to the terms of this agreement, click I Agree 
+                                           below to continue installing this update.">
+
+<!ENTITY license.titleText "Software License Agreement">
+<!ENTITY license.introText "Terms and conditions for using this software.">
+<!ENTITY license.instructionText "Please read the following license agreement. Use the scroll bar to view the rest of this agreement.">
+<!ENTITY license.accept "I accept the terms of the License Agreement">
+<!ENTITY license.accept.accesskey "c">
+<!ENTITY license.decline "I do NOT accept the terms of the License Agreement">
+<!ENTITY license.decline.accesskey "T">
+
+<!ENTITY downloading.title "Kuthotywa Umthwalo Wohlaziyo">
+<!ENTITY downloading.intro "Kuthotywa Umthwalo wohlaziyo...">
+<!ENTITY connecting.label "Kudityaniswa kwiseva yohlaziyo...">
+<!ENTITY verificationFailedText.label "&brandShortName; was unable to verify the integrity of the 
+                                           incremental update it downloaded, so it is now downloading
+                                           the complete update package.">
+
+<!ENTITY details.link "Iinkcukacha">
+<!ENTITY pause.label "Isiqabu">
+<!ENTITY pause.accesskey "u">
+<!ENTITY close.label "Vala">
+<!ENTITY close.accesskey "V">
+
+<!ENTITY error.label "There were problems checking for, downloading or installing this 
+                                           update. &brandShortName; could not be updated because:">
+                                           
+<!ENTITY errorManual.label "You can update &brandShortName; manually by visiting this link
+                                           and downloading the latest version:">
+                                           
+<!ENTITY errorpatching.title "Aluphumelelanga Uhlaziyo">
+<!ENTITY errorpatching.intro "The partial Update could not be applied. 
+                                           &brandShortName; will try again by downloading a complete Update.">
+
+<!ENTITY finished.title "Uthotyiwe Umthwalo Wohlaziyo">
+<!ENTITY finished.text "The update was successfully downloaded and verified, and it will
+                                           be installed the next time &brandShortName; starts.">
+
+<!ENTITY finishedBackground.title "Uhlaziyo Lulungele Ukuhlohlwa">
+<!ENTITY finishedBackground.text "&brandShortName; has downloaded and verified an important update. 
+                                           Click the link below for more details.">
+<!ENTITY finishedBackground.name "Uhlaziyo:">
+<!ENTITY finishedBackground.more1 "Click Restart &brandShortName; Now to install the update now.">
+<!ENTITY finishedBackground.more2 "Click Later to close this dialog and continue working. &brandShortName;
+                                           will install the update the next time it starts.">
+
+<!ENTITY installed.title "Kuhlohlwe Uhlaziyo">
+<!ENTITY installed.intro "Uhlaziyo luhlohlwe ngempumelelo.">
+<!ENTITY whatsnew.label "Funda ngaphezulu malunga nokutsha...">
+
+<!ENTITY update.details.label "Iinkcukacha">
+<!ENTITY update.installedOn.label "Kuhlohlwe apha:">
+<!ENTITY update.status.label "Isimo:">

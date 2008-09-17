@@ -1,0 +1,13 @@
+
+<!ENTITY prefWindow.titleWin "Ekunokukhethwa kuko">
+<!ENTITY prefWindow.titleGNOME "I-&brandShortName; Izikhethwa">
+<!ENTITY prefWindow.styleWin "width: 44em; height: 38em;">
+<!ENTITY prefWindow.styleMac "width: 47em;">
+<!ENTITY prefWindow.styleUnix "width: 42em;">
+
+<!ENTITY paneGeneral.title "Jikelele">
+<!ENTITY paneDisplay.title "Bonisa">
+<!ENTITY paneComposition.title "Uhlanganiselo">
+<!ENTITY paneAttachments.title "Iziqhoboshelo">
+<!ENTITY panePrivacy.title "Okwabucala">
+<!ENTITY paneAdvanced.title "Kwinqanaba eseliphambili">

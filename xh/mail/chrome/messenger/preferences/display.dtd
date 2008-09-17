@@ -1,0 +1,69 @@
+<!ENTITY itemFormatting.label "Kwenziwa ulungiselelo">
+<!ENTITY itemTags.label "Tags">
+<!ENTITY itemFonts.label "Iifonti">
+
+<!ENTITY textBegin.label "Ukubonakala kwesiqendu esicatshulweyo nesingaxutywanga">
+<!ENTITY style.label "Isimbo:">
+<!ENTITY style.accesskey "m">
+<!ENTITY regularStyle.label "Okwesiqhelo">
+<!ENTITY bold.label "Ngqindilili">
+<!ENTITY italic.label "Ubhalo olukekeleyo">
+<!ENTITY boldItalic.label "Ubhalo Olungqindilili Olukekeleyo">
+<!ENTITY size.label "Ubukhulu:">
+<!ENTITY size.accesskey "u">
+<!ENTITY regularSize.label "Okwesiqhelo">
+<!ENTITY bigger.label "Obuthe chatha ngobukhulu">
+<!ENTITY smaller.label "Kuncinci kunokunye">
+<!ENTITY color.label "Umbala:">
+<!ENTITY color.accesskey "u">
+<!ENTITY displayWidth.label "Imiyalezo Yesiqendu Engaxutywanga">
+<!ENTITY plainText.label "Sebenzisa ifonti elandelayo:">
+<!ENTITY displayText.label "Xa kuboniswa imiyalezo yesiqendu ecatshulweyo nengaxutywanga:">
+<!ENTITY viewingPlainText.label "Xa kuboniswa imiyalezo yesiqendu engaxutywanga:">
+<!ENTITY fixedWidth.label "Ifonti yobubanzi obusisigxina">
+<!ENTITY fixedWidth.accesskey "g">
+<!ENTITY variableWidth.label "Ifonti yobubanzi obunokuguquguquka">
+<!ENTITY variableWidth.accesskey "I">
+<!ENTITY readingMessagesHeader.label "Ukwenzela imiyalezo engenayo">
+<!ENTITY messageWrapping.label "Ukugqithela Kumgca Olandelayo Komyalezo">
+<!ENTITY wrapInMsg.label "Gqithisela isiqendu kumgca olandelayo ukuze kulingane ububanzi befestile">
+<!ENTITY wrapInMsg.accesskey "G">
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY convertEmoticons.label "Bonisa imiqondiso yokuqulathiweyo enentshukumo njengezazobe">
+<!ENTITY convertEmoticons.accesskey "B">
+<!ENTITY htmlColors.label "Imiyalezo ye-HTML">
+<!ENTITY overrideSender.label "When displaying HTML messages, use the following:">
+<!ENTITY overrideSender.accesskey "n">
+<!ENTITY textColor.label "Umbala Wesiqendu:">
+<!ENTITY textColor.accesskey "U">
+<!ENTITY backgroundColor.label "Umbala Ongasemva Eskrinini:">
+<!ENTITY backgroundColor.accesskey "o">
+<!-- labels -->
+
+<!ENTITY displayTagsText.label "Tags can be used to categorize and prioritize your messages.">
+<!ENTITY addTagButton.label "Add">
+<!ENTITY addTagButton.accesskey "A">
+<!ENTITY editTagButton.label "Edit">
+<!ENTITY editTagButton.accesskey "E">
+<!ENTITY removeTagButton.label "Delete">
+<!ENTITY removeTagButton.accesskey "l">
+<!-- Fonts -->
+
+<!ENTITY fontsDescription.label "Yenza ubumbeko lweefonti ezisetyenziswa yi-&brandShortName;">
+<!ENTITY fontsCaption.label "Iifonti">
+<!ENTITY fontOptions.accesskey "I">
+<!ENTITY fontOptions.label "Iifonti...">
+<!-- Language settings -->
+
+
+<!ENTITY sendDefaultCharset.label "Imeyile Ephumayo:">
+<!ENTITY sendDefaultCharset.accesskey "p">
+<!ENTITY languagesTitle.label "Ukufakwa kweekhowudi kwimibhalo enjengoonobumba">
+<!ENTITY composingDescription.label "Misela ukufakwa kweekhowudi kwimibhalo enjengoonobumba ehlala ikho ukuze kuthunyelwe kwaye kufunyanwe imeyile">
+
+<!ENTITY viewDefaultCharsetList.label "Imeyile Efikayo:">
+<!ENTITY viewDefaultCharsetList.accesskey "I">
+<!ENTITY forceCharsetOverride.label "Sebenzisa ukufakwa kweekhowudi kwimibhalo enjengoonobumba okuhlala kukho kuyo yonke imiyalezo efikayo">
+<!ENTITY forceCharsetOverride.accesskey "b">
+<!ENTITY replyInDefaultCharset.label "Sebenzisa ukufakwa kweekhowudi kwimibhalo enjengoonobumba okuhlala kukho kwiimpendulo">
+<!ENTITY replyInDefaultCharset.accesskey "f">

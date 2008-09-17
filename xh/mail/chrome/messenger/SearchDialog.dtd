@@ -1,0 +1,75 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label "Zingela imiyalezo apha:">
+<!ENTITY searchHeading.accesskey "l">
+<!ENTITY searchSubfolders.label "Zingela iziqulathi zeefayili ezonganyelweyo">
+<!ENTITY searchSubfolders.accesskey "i">
+<!ENTITY resetButton.label "Sula">
+<!ENTITY resetButton.accesskey "S">
+<!ENTITY optionsButton.label "Ekunokukhethwa kuko">
+<!ENTITY closeButton.label "Vala">
+<!ENTITY openButton.label "Vula">
+<!ENTITY openButton.accesskey "a">
+<!ENTITY deleteButton.label "Cima">
+<!ENTITY deleteButton.accesskey "C">
+<!ENTITY searchDialogTitle.label "Zingela Imiyalezo">
+<!ENTITY conditionDesc.label "Zingela imiyalezo engqinelanayo:">
+<!ENTITY conditions.label "Imiqathango">
+<!ENTITY results.label "Iziphumo">
+<!ENTITY fileHereMenu.label "Fayila Apha">
+<!ENTITY fileHereMenu.accesskey "F">
+<!ENTITY fileButton.label "Ifayili">
+<!ENTITY fileButton.accesskey "a">
+<!ENTITY closeCmd.key "W">
+<!ENTITY goToFolderButton.label "Umyalezo Ovuliweyo Wesiqulathi Seefayili">
+<!ENTITY goToFolderButton.accesskey "t">
+<!ENTITY saveAsVFButton.label "Gcina Njengesiqulathi Seefayili Sokuzingela">
+<!ENTITY saveAsVFButton.accesskey "n">
+<!-- for ABSearchDialog.xul -->
+
+<!ENTITY abSearchHeading.label "Zingela apha:">
+<!ENTITY abSearchHeading.accesskey "a">
+<!ENTITY propertiesButton.label "Iinkcazelo ngeempawu">
+<!ENTITY propertiesButton.accesskey "I">
+<!ENTITY composeButton.label "Bhala">
+<!ENTITY composeButton.accesskey "B">
+<!ENTITY abSearchDialogTitle.label "Uzingelo Lwencwadi Yeedilesi Ekwinqanaba Eliphambili">
+<!-- Thread Pane -->
+
+<!ENTITY threadColumn.label "Umtya">
+<!ENTITY senderColumn.label "Umthumeli">
+<!ENTITY recipientColumn.label "Umamkeli">
+<!ENTITY subjectColumn.label "Intloko">
+<!ENTITY dateColumn.label "Umhla">
+<!ENTITY priorityColumn.label "Ngokokubaluleka">
+<!ENTITY tagsColumn.label "Tags">
+<!ENTITY accountColumn.label "Iakhawunti">
+<!ENTITY statusColumn.label "Isimo">
+<!ENTITY sizeColumn.label "Ubukhulu">
+<!ENTITY junkStatusColumn.label "Isimo Sengxubevange">
+<!ENTITY linesColumn.label "Imigca">
+<!ENTITY unreadColumn.label "Akufundwanga">
+<!ENTITY totalColumn.label "Isixa esipheleleyo">
+<!ENTITY readColumn.label "Funda">
+<!ENTITY starredColumn.label "Starred">
+<!ENTITY locationColumn.label "Indawo">
+<!ENTITY idColumn.label "Ulandelelwano Olwamkelweyo">
+<!-- Thread Pane Tooltips -->
+
+<!ENTITY columnChooser.tooltip "Nqomfa uze ukhethe imiqolo eyehlayo ukuze ubonise">
+<!ENTITY threadColumn.tooltip "Nqomfa ukuze ubonise imisonto yomyalezo">
+<!ENTITY senderColumn.tooltip "Nqomfa ukuze kuhlelahlelwe ngumthumeli">
+<!ENTITY recipientColumn.tooltip "Nqomfa ukuze kuhlelahlelwe ngumamkeli">
+<!ENTITY subjectColumn.tooltip "Nqomfa ukuze kuhlelahlelwe ngokwentloko">
+<!ENTITY dateColumn.tooltip "Nqomfa ukuze kuhlelahlelwe ngokwemihla">
+<!ENTITY priorityColumn.tooltip "Nqomfa ukuze kuhlelahlelwe ngokokubaluleka">
+<!ENTITY tagsColumn.tooltip "Click to sort by tags">
+<!ENTITY accountColumn.tooltip "Nqomfa ukuze kuhlelahlelwe ngokweakhawunti">
+<!ENTITY statusColumn.tooltip "Nqomfa ukuze kuhlelahlelwe ngokwesimo">
+<!ENTITY sizeColumn.tooltip "Nqomfa ukuze kuhlelahlelwe ngokobukhulu">
+<!ENTITY junkStatusColumn.tooltip "Nqomfa ukuze kuhlelahlelwe ngokwesimo sengxubevange">
+<!ENTITY unreadColumn.tooltip "Inani lemiyalezo engafundwanga emtyeni">
+<!ENTITY totalColumn.tooltip "Isixa esipheleleyo senani lemiyalezo emtyeni">
+<!ENTITY readColumn.tooltip "Nqomfa ukuze kuhlelahlelwe ngokufunda">
+<!ENTITY starredColumn.tooltip "Click to sort by star">
+<!ENTITY locationColumn.tooltip "Nqomfa ukuze uhlelahlele ngokwendawo">
+<!ENTITY idColumn.tooltip "Nqomfa ukuze kuhlelahlelwe ngokolandelelwano lolwamkelo">

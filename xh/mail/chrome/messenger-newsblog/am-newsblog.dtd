@@ -1,0 +1,20 @@
+<!ENTITY newsblogTitle.label "Imimiselo Yeeakhawunti ze-RSS">
+
+<!ENTITY biffStart.label "Qwalasela amanqaku amatsha qho ">
+<!ENTITY biffStart.accesskey "e">
+<!ENTITY biffEnd.label "imizuzu">
+
+<!ENTITY loginAtStartup.label "Qwalasela amanqaku amatsha ngexesha lokuqalisa">
+<!ENTITY loginAtStartup.accesskey "Q">
+
+<!ENTITY useQuickMode.label "Ngokusebenza okuhlala kukho, bonisa isihwankathelo senqaku endaweni yokulayisha ikhasi lothungelwano">
+<!ENTITY useQuickMode.accesskey "N">
+
+<!ENTITY manageSubscriptions.label "Lawula Imirhumo...">
+<!ENTITY manageSubscriptions.accesskey "L">
+<!-- entities from defaults/isp/rss.rdf -->
+
+<!ENTITY rss.accountName "Iindaba &amp; Blogs">
+<!ENTITY rss.wizardShortName "RSS">
+<!ENTITY rss.wizardLongName "Iindaba ze-RSS &amp; Blogs">
+<!ENTITY rss.hostName "Iindaba &amp; Blogs">

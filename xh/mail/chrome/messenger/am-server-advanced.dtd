@@ -1,0 +1,33 @@
+<!ENTITY serverAdvanced.label "Imimiselo Yeeakhawunti Ekwinqanaba Eliphambili">
+<!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY imapAdvanced.label "Imimiselo Yeseva ye-IMAP Ekwinqanaba Eliphambili">
+<!ENTITY serverDirectory.label "Iseva uvimba weefayili we-IMAP:">
+<!ENTITY serverDirectory.accesskey "u">
+<!ENTITY usingSubscription.label "Bonisa kuphela iziqulathi zeefayili ezikhutshelwa imirhumo">
+<!ENTITY usingSubscription.accesskey "n">
+<!ENTITY dualUseFolders.label "Iseva ixhasa iziqulathi zeefayili eziqulethe iziqulathi zeefayili ezonganyelweyo nemiyalezo">
+<!ENTITY dualUseFolders.accesskey "i">
+<!ENTITY useIdle.label "Sebenzisa umyalelo we-IDLE ukuba iseva iyawuxhasa">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "Inani elilelona liphezulu lemidibaniso yeseva eya kwisilondolozi esiqukezayo">
+<!ENTITY maximumConnectionsNumber.accesskey "I">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY namespaceDesc.label "These preferences specify the namespaces on your IMAP server">
+<!ENTITY personalNamespace.label "Izithuba zamagama obuqu bomntu:">
+<!ENTITY personalNamespace.accesskey "I">
+<!ENTITY publicNamespace.label "Kawonkewonke (kuyabelwana):">
+<!ENTITY publicNamespace.accesskey "o">
+<!ENTITY otherUsersNamespace.label "Abanye Abasebenzisi:">
+<!ENTITY otherUsersNamespace.accesskey "A">
+<!ENTITY overrideNamespaces.label "Vumela iseva ukuba ihambe ngaphezu kwezi zithuba zamagama">
+<!ENTITY overrideNamespaces.accesskey "V">
+<!ENTITY pop3Desc.label "Xa uthoba umthwalo wemeyile ezivelelayo yale seva, sebenzisa isiqulathi seefayili esilandelayo ukwenzela imeyile entsha:">
+<!ENTITY folderStorage.label "Apho kulondolozwa khona imeyile">
+<!ENTITY globalInbox.label "Okuphakathi Ebhokisini Kwelimiweyo (Iakhawunti Yeziqulathi Zeefayili Zendawo Leyo)">
+<!ENTITY globalInbox.accesskey "O">
+<!ENTITY accountDirectory.label "Okuphakathi ebhokisini ukwenzela le akhawunti yeseva">
+<!ENTITY accountDirectory.accesskey "E">
+<!ENTITY deferToServer.label "Okuphakathi ebhokisini ukwenzela iakhawunti eyahlukileyo">
+<!ENTITY deferToServer.accesskey "E">
+<!ENTITY deferGetNewMail.label "Bandakanya le seva xa ufumana imeyile entsha">
+<!ENTITY deferGetNewMail.accesskey "B">

@@ -1,0 +1,15 @@
+
+<!ENTITY history.title "Imbali Yohlaziyo">
+<!ENTITY history.intro "Iziganeko zohlaziyo ezilandelayo zihlohliwe:">
+<!ENTITY closebutton.label "Vala">
+                                     
+<!ENTITY detailsButton.label "Iinkcukacha">
+<!ENTITY detailsButton.accesskey "I">
+
+<!ENTITY noupdates.label "Akukho ziganeko zohlaziyo esezihlohliwe">
+
+<!ENTITY name.header "Igama Lohlaziyo">
+<!ENTITY date.header "Umhla Wokuhlohla">
+<!ENTITY type.header "Isimbo">
+<!ENTITY state.header "Umbuso">
+

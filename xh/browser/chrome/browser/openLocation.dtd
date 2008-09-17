@@ -1,0 +1,11 @@
+<!-- extracted from content/openLocation.xul -->
+
+<!ENTITY enter.label "Ngenisa indawo olukuyo uthungelwano (URL), okanye xela ifayili yalapho onqwenela ukuyivula:">
+<!ENTITY chooseFile.label "Khetha Ifayili...">
+<!ENTITY newWindow.label "Ifestile Entsha">
+<!ENTITY newTab.label "Isilungelelanisi Semigca Esitsha">
+<!ENTITY topWindow.label "Ifestile Yangoku">
+<!ENTITY caption.label "Vula Indawo Yothungelwano">
+<!ENTITY openWhere.label "Vulela ngaphakathi:">
+<!ENTITY example.label "Umzekelo: &vendorURL;">
+<!ENTITY openBtn.label "Vula">
