@@ -1,4 +1,3 @@
-<?xml version="1.0"?>
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -12,14 +11,14 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   - The Original Code is Google Calendar Provider code.
    -
    - The Initial Developer of the Original Code is
-   - OEone Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 2001
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   - Portions created by the Initial Developer are Copyright (C) 2006
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributor(s): Colin Phillips <colinp@oeone.com>
+   - Contributor(s):
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,24 +34,15 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!ENTITY gdata-provider.label "Google Aginda">
 
-<RDF:RDF xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-         xmlns:chrome="http://www.mozilla.org/rdf/chrome#">
+<!ENTITY gdata.privacy.default.label "Google standert">
+<!ENTITY gdata.privacy.default.accesskey "s">
 
-  <!-- list all the skins being supplied by this package -->
-  <RDF:Seq about="urn:mozilla:locale:root">
-    <RDF:li resource="urn:mozilla:locale:fy-NL"/>
-  </RDF:Seq>
+<!ENTITY gdata.migration.title "Allinnich-lêzenaginda’s migrearje">
+<!ENTITY gdata.migration.description "De Google Aginda-provider hat detektearre dat jo besteande aginda’s hawwe dy't Google Aginda allinnich yn allinnich-lêzenmodus benaderje kinen. As jo ien of mear fan dizze aginda’s opwerdearje wolle, selektearje dizze dan hjirûnder.">
+<!ENTITY gdata.migration.upgrade.label "Opwerdearje">
+<!ENTITY gdata.migration.upgrade.accesskey "O">
+<!ENTITY gdata.migration.showagain.label "Altyd kontrolearje">
 
-  <!-- locale information -->
-  <RDF:Description about="urn:mozilla:fy-NL"
-                   chrome:displayName="Frysk"
-                   chrome:name="fy-NL">
-    <chrome:packages>
-      <RDF:Seq about="urn:mozilla:locale:fy-NL:packages">
-        <RDF:li resource="urn:mozilla:locale:fy-NL:calendar"/>
-      </RDF:Seq>
-    </chrome:packages>
-  </RDF:Description>
-  <RDF:Description about="urn:mozilla:locale:fy-NL:calendar" chrome:localeVersion="1.5"/>
-</RDF:RDF>
+<!ENTITY gdata.reminder.action.sms.label "In tekstberjocht ferstjoere">

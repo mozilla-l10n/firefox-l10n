@@ -11,14 +11,15 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is mozilla.org code.
+   - The Original Code is Mozilla Calendar Preferences
    -
    - The Initial Developer of the Original Code is
-   - the Mozilla Organization.
-   - Portions created by the Initial Developer are Copyright (C) 1998-2002
+   - Matthew Willis
+   - Portions created by the Initial Developer are Copyright (C) 2006
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributor(s):
+   - Contributor(s): 
+   -   Cédric Corazza <cedric.corazza@wanadoo.fr>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,6 +35,23 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY calendarCmd.label  "Kalender">
-<!ENTITY calendarCmd.accesskey  "K">
-<!ENTITY calendarCmd.commandkey "8">
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+
+<!ENTITY pref.categories.add.title "Kategorie tafoegje">
+<!ENTITY pref.categories.addButton.label "Tafoegje…">
+<!ENTITY pref.categories.addButton.accesskey "">
+<!ENTITY pref.categories.edit.title "Kategorie bewurkje">
+<!ENTITY pref.categories.editButton.label "Bewurkje…">
+<!ENTITY pref.categories.editButton.accesskey "">
+<!ENTITY pref.categories.removeButton.label "Fuortsmite">
+<!ENTITY pref.categories.removeButton.accesskey "">
+<!ENTITY pref.categories.name.label "Namme">
+<!ENTITY pref.categories.color.label "Kleur">
+<!ENTITY pref.categories.usecolor.label "Kleur brûke">
+<!ENTITY pref.categories.none.label "(gjin)">
+<!ENTITY pref.categories.overwrite "Der bestiet al in kategorie mei dizze namme. \n Wolle jo dizze oerskruiwe?">
+<!ENTITY pref.categories.overwrite.title "Warskôging: dûbele namme">
+<!ENTITY pref.categories.noBlankCategories "Jo moatte in kategorienamme ynfiere.">

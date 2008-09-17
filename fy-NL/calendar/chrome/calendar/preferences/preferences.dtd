@@ -11,14 +11,18 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is mozilla.org code.
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
    -
    - The Initial Developer of the Original Code is
-   - the Mozilla Organization.
-   - Portions created by the Initial Developer are Copyright (C) 1998-2002
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
+   -   Mike Potter <mikep@oeone.com>
+   -   ArentJan Banck <ajbanck@planet.nl>
+   -   Eric Belhaire <belhaire@ief.u-psud.fr>
+   -   Matthew Willis <mattwillis@gmail.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,23 +38,15 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- Select addresses for mail message dialog -->
-<!ENTITY ab-selectAddressesDialog.title "Ynternet Appliance Dialooch- Selektearje Adressen">
-<!ENTITY ab-selectAddressesDialogHeader.label "Selektearje adressen">
-<!ENTITY ab-selectAddressesDialogLookIn.label "Sjoch yn: ">
-<!ENTITY ab-selectAddressesDialogNameColumn.label "Namme">
-<!ENTITY ab-selectAddressesDialogEmailColumn.label "Eameladres">
-<!ENTITY ab-selectAddressesDialogFor.label "Foar: ">
-<!ENTITY ab-selectAddressesDialogClearButton.label "Wisse">
-<!ENTITY ab-selectAddressesDialogToButton.label "Oan ">
-<!ENTITY ab-selectAddressesDialogCcButton.label "Cc ">
-<!ENTITY ab-selectAddressesDialogBccButton.label "Bcc ">
-<!ENTITY ab-selectAddressesDialogRemoveButton.label "Fuortsmite">
-<!ENTITY ab-selectAddressesDialogAddressTo.label "Adressearje berjocht oan:">
-<!ENTITY ab-selectAddressesDialogPrefixTo.label "Oan: ">
-<!ENTITY ab-selectAddressesDialogPrefixCc.label "CC: ">
-<!ENTITY ab-selectAddressesDialogPrefixBcc.label "Bcc: ">
-<!ENTITY ab-selectAddressesDialogNoEmailMessage.label "Gjin eameladres">
-<!ENTITY ab-selectAddressesDialogInvite.label "Utnoegje">
-<!ENTITY ab-selectAddressesDialogUninvite.label "Fuortsmite">
-<!ENTITY ab-selectAddressesDialogInviteList.label "Utnoegingslist:">
+<!ENTITY  prefWindow.titleWin     "Opsjes">
+<!ENTITY  prefWindow.titleGNOME   "&brandShortName;-foorkarren">
+<!ENTITY  prefWindow.styleWin     "width: 51em; height: 37em;">
+<!ENTITY  prefWindow.styleMac     "width: 51em;">
+<!ENTITY  prefWindow.styleGNOME   "width: 51em; height: 34.5em;">
+
+<!ENTITY  paneGeneral.title       "Algemien">
+<!ENTITY  paneAlarms.title        "Alarmen">
+<!ENTITY  paneCategories.title    "Kategorieën">
+<!ENTITY  paneViews.title         "Oersichten">
+<!ENTITY  paneTimezones.title     "Tiidsoane">
+<!ENTITY  paneAdvanced.title      "Avansearre">
