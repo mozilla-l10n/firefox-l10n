@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY newsBlogSubscriptions.label "Vhushumisi ha RSS">
+<!ENTITY subscriptionDesc.label "Tsumbudzo: U bvisa na u shandukisa foḽuda u itela u longela zwi nga si kwame zwiteṅwa zwo dzheniswaho kale.">
+<!ENTITY feedTitle.label "Thoho:">
+<!ENTITY location.label "Fhethu:">
+
+<!ENTITY button.addFeed.label "Dzhenisani">
+<!ENTITY button.addFeed.accesskey "D">
+<!ENTITY button.editFeed.label "Lulamisani">
+<!ENTITY button.editFeed.accesskey "L">
+<!ENTITY button.removeFeed.label "Bvisani">
+<!ENTITY button.removeFeed.accesskey "B">
+<!ENTITY button.importOPML.label "Ṱunḓani">
+<!ENTITY button.importOPML.accesskey "Ṱ">
+<!ENTITY button.exportOPML.label "Rumelani">
+<!ENTITY button.exportOPML.accesskey "R">
+
+<!ENTITY cmd.close.commandKey "w">

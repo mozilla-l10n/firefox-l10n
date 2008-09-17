@@ -1,0 +1,69 @@
+<!ENTITY itemFormatting.label "U Dzudzanya">
+<!ENTITY itemTags.label "Tags">
+<!ENTITY itemFonts.label "Miṅwalo">
+
+<!ENTITY textBegin.label "Tshivhumbeo tsha ḽiṅwalwa ḽi sa konḓi tsho topolwaho">
+<!ENTITY style.label "Tshitaela:">
+<!ENTITY style.accesskey "t">
+<!ENTITY regularStyle.label "Zwa nga misi">
+<!ENTITY bold.label "Ndenya">
+<!ENTITY italic.label "Tsendami">
+<!ENTITY boldItalic.label "Ndenya Tsendami">
+<!ENTITY size.label "Muelo:">
+<!ENTITY size.accesskey "m">
+<!ENTITY regularSize.label "Ya nga misi">
+<!ENTITY bigger.label "Khulwane nyana">
+<!ENTITY smaller.label "Ṱhukhu nyana">
+<!ENTITY color.label "Muvhala:">
+<!ENTITY color.accesskey "m">
+<!ENTITY displayWidth.label "Milaedza ya Ḽiṅwalwa ḽi sa Konḓi">
+<!ENTITY plainText.label "Shumisani munwalo u tevhelaho:">
+<!ENTITY displayText.label "Musi ni tshi ṱana milaedza ya ḽiṅwalwa ḽi sa konḓi ḽo topolwaho:">
+<!ENTITY viewingPlainText.label "Musi ni tshi tana milaedza ya ḽiṅwalwa lḽ sa konḓi:">
+<!ENTITY fixedWidth.label "Muṅwalo wa vhuphara wo lugiswaho">
+<!ENTITY fixedWidth.accesskey "m">
+<!ENTITY variableWidth.label "Muṅwalo wa vhuphara wo fhambananaho">
+<!ENTITY variableWidth.accesskey "M">
+<!ENTITY readingMessagesHeader.label "U itela milaedza i dzheneho">
+<!ENTITY messageWrapping.label "U itela milaedza i dzhenaho">
+<!ENTITY wrapInMsg.label "Putelani ḽiṅwalwa u itela uri ḽi fhelele kha vhuphara ha fasiṱere">
+<!ENTITY wrapInMsg.accesskey "P">
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY convertEmoticons.label "Ṱanani dziemoticon sa girafiki">
+<!ENTITY convertEmoticons.accesskey "Ṱ">
+<!ENTITY htmlColors.label "Milaedza ya HTML">
+<!ENTITY overrideSender.label "When displaying HTML messages, use the following:">
+<!ENTITY overrideSender.accesskey "n">
+<!ENTITY textColor.label "Muvhala wa Ḽiṅwalwa:">
+<!ENTITY textColor.accesskey "M">
+<!ENTITY backgroundColor.label "Muvhala wa Siangane:">
+<!ENTITY backgroundColor.accesskey "m">
+<!-- labels -->
+
+<!ENTITY displayTagsText.label "Tags can be used to categorize and prioritize your messages.">
+<!ENTITY addTagButton.label "Add">
+<!ENTITY addTagButton.accesskey "A">
+<!ENTITY editTagButton.label "Edit">
+<!ENTITY editTagButton.accesskey "E">
+<!ENTITY removeTagButton.label "Delete">
+<!ENTITY removeTagButton.accesskey "l">
+<!-- Fonts -->
+
+<!ENTITY fontsDescription.label "Vhekanyani miṅwalo yo shumiswaho nga &brandShortName;">
+<!ENTITY fontsCaption.label "Miṅwalo">
+<!ENTITY fontOptions.accesskey "M">
+<!ENTITY fontOptions.label "Miṅwalo...">
+<!-- Language settings -->
+
+
+<!ENTITY sendDefaultCharset.label "Meiḽi une wa khou ya Nnḓa:">
+<!ENTITY sendDefaultCharset.accesskey "m">
+<!ENTITY languagesTitle.label "U Khouda Tshiteṅwa">
+<!ENTITY composingDescription.label "Vhekanyani tshiteṅwa tsho dzivhiswaho tsha u khouda u rumela na u ṱanganedza meiḽi">
+
+<!ENTITY viewDefaultCharsetList.label "Meiḽi une wa khiou Dzhena:">
+<!ENTITY viewDefaultCharsetList.accesskey "M">
+<!ENTITY forceCharsetOverride.label "Shumisani tshiteṅwa tsho dzivhiswaho tsha u khouda kha milaedza yoṱhe ine ya khou dzhena">
+<!ENTITY forceCharsetOverride.accesskey "s">
+<!ENTITY replyInDefaultCharset.label "Shumisani tshiteṅwa tsho dzivhiswaho tsha u khouda kha phindulo">
+<!ENTITY replyInDefaultCharset.accesskey "t">

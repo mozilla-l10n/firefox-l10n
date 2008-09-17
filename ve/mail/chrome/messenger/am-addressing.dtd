@@ -1,0 +1,32 @@
+<!-- extracted from am-addressing.xul -->
+
+<!ENTITY addressing.label "U sika &amp; U rumela">
+<!ENTITY addressingGroupTitle.label "U Rumela">
+<!ENTITY addressingText.label "Musi ni tshi khou ṱoḓa ḓiresi:">
+<!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
+<!ENTITY useGlobal.label "Shumisani seva guṱe yanga ya LDAP ine nda i takalela kha hei mbalelano">
+<!ENTITY useGlobal.accesskey "S">
+<!ENTITY editDirectories.label "Lulamisani Tsumbanḓila...">
+<!ENTITY editDirectories.accesskey "L">
+<!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
+<!ENTITY directories.label "Shumisani seva ya LDAP yo fhambanaho:">
+<!ENTITY directories.accesskey "d">
+<!-- am-addressing.xul -->
+
+
+<!ENTITY compositionGroupTitle.label "Zwiitwa">
+<!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
+<!ENTITY useHtml.label "Itani mulaedza nga maitele a HTML">
+<!ENTITY useHtml.accesskey "I">
+<!ENTITY autoQuote.label "Vhuḓiiti topolani mulaedza wa vhukuma musi ni tshi fhindula">
+<!ENTITY autoQuote.accesskey "t">
+<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY then.label "U bva afho,">
+<!ENTITY then.accesskey "u">
+<!ENTITY aboveQuote.label "thomani phindulo yanga nga nṱha ha khouthu">
+<!ENTITY belowQuote.label "thomani phindulo yanga nga fhasi ha khouthu">
+<!ENTITY selectAndQuote.label "nangani khouthu">
+<!ENTITY place.label "nahone vheani tsaino yanga">
+<!ENTITY place.accesskey "v">
+<!ENTITY belowText.label "fhasi ha zwo topolwaho (zwi a ṱoḓea)">
+<!ENTITY aboveText.label "fhasi ha phindulo yanga (nṱha ha khouthu)">

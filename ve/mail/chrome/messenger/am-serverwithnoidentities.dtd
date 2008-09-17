@@ -1,0 +1,12 @@
+<!ENTITY accountTitle.label "Nzudzanyo ya Mbalelano">
+<!ENTITY accountSettingsDesc.label "Zwi tevhelaho afha ndi mbalelano yo khetheaho.  A huna tsumbavhune dzi kwamanywaho nayo.">
+<!ENTITY accountName.label "Mbalelano Dzina:">
+<!ENTITY accountName.accesskey "D">
+<!ENTITY messageStorage.label "Hu no Vhulungwa Mulaedza">
+<!ENTITY emptyTrashOnExit.label "Hukhuthani hu no dzula Mashika musi ni tshi Bva">
+<!ENTITY emptyTrashOnExit.accesskey "a">
+<!ENTITY localPath.label "Tsumbandila yapo:">
+<!ENTITY localPath.accesskey "T">
+<!ENTITY localFolderPicker.label "Nangani Tsumbandila Yapo">
+<!ENTITY browseFolder.label "Swaswarani...">
+<!ENTITY browseFolder.accesskey "S">

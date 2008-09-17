@@ -1,0 +1,37 @@
+<!-- extracted from content/pref-composer.xul -->
+<!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
+<!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
+
+
+<!ENTITY pref.composer.title "Composer">
+
+<!ENTITY saving "U vhulunga">
+<!ENTITY AutoSaveCheck "Vhulungani nga nothe tshinwe na tshinwe">
+<!ENTITY minText "miminete">
+
+<!ENTITY exterLegend.label "Vhululamisi ha nnḓa">
+<!ENTITY htmlSource "Tshiko tsha HTML:">
+<!ENTITY imageeditor "Zwiga:">
+<!ENTITY chooseButton.label "Nangani">
+
+<!ENTITY recentFiles.title "Menu wa Masiaṱari Ano">
+<!ENTITY documentsInMenu.label "Tshihulwanesa tshivhalo tsha masiaṱari o bulwaho:">
+<!ENTITY documentsInMenu.accesskey "t">
+
+<!ENTITY savingFiles.title "Musi ni tshi khou Vhulunga kana u Andadza Masiatari">
+<!ENTITY preserveExisting.label "Vhulungani nzudzanyo ya tshiko tsha vhukuma">
+<!ENTITY preserveExisting.accesskey "V">
+<!ENTITY preserveExisting.tooltip "I vhulunga u khauwa ha laini na nzudzanyo ya vhukuma ya siaṱari">
+<!ENTITY saveAssociatedFiles.label "Vhulungani zwifanyiso na dzinwe faela dzi elanaho musi ni tshi vhulunga masiaṱari">
+<!ENTITY saveAssociatedFiles.accesskey "V">
+<!ENTITY showPublishDialog.label "Tshifhinga tshothe sumbedzani nyambedzano ya u Andadza musi ni tshi andadza masiaṱari">
+<!ENTITY showPublishDialog.accesskey "T">
+
+<!ENTITY composerEditing.label "U lulamisa">
+<!ENTITY maintainStructure.label "Dzudzani mbonalo ya thebulu musi ni tshi dzhenisa kana u thutha dzisele">
+<!ENTITY maintainStructure.tooltip "I vhulunga tshivhumbeo tsha rekithengula tsha thebulu nga u engedza dzisele nga yothe nga murahu ha u dzhenisa kana u thutha dzisele">
+<!ENTITY maintainStructure.accesskey "D">
+<!ENTITY useCSS.label "Shumsani tshitaela tsha CSS nga nnda ha zwipida zwa HTML na ndeme">
+<!ENTITY useCSS.accesskey "S">
+<!ENTITY crInPCreatesNewP.label "U humela kha pharagirafu tshifhinga tshothe zwi vhumba pharagirafu ntswa">
+<!ENTITY crInPCreatesNewP.accesskey "U">

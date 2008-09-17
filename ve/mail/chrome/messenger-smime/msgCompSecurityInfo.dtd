@@ -1,0 +1,14 @@
+<!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
+
+<!ENTITY title.label "Tsireledzo ya Mulaedza">
+<!ENTITY subject.plaintextWarning "Dzhielani hezwi nzhele: Mitaladzi ya ṱhoho dza milaedza ya emeiḽi a i ṅwalwi nga khoudu na luthihi.">
+<!ENTITY status.heading "Zwire kha mulaedza wanu zwi ḓo rumelwa sa zwi tevhelaho:">
+<!ENTITY status.signed "Zwo sainiwa nga didzhithala:">
+<!ENTITY status.encrypted "Zwo ṅwalwa nga khoudu:">
+<!ENTITY status.certificates "Ṱhanziela:">
+<!ENTITY view.label "Vhonani">
+<!ENTITY view.accesskey "V">
+<!ENTITY tree.recipient "Muṱanganedzi">
+<!ENTITY tree.status "Maimo">
+<!ENTITY tree.issuedDate "Yo bviswa">
+<!ENTITY tree.expiresDate "I khou fhelelwa nga tshifhinga">

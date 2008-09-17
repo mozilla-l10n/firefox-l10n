@@ -1,0 +1,88 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!-- Window title -->
+
+
+<!ENTITY windowTitle.label "Anḓadzani Siaṱari">
+<!ENTITY windowTitleSettings.label "Anḓadzani Nzudzanyo">
+
+<!ENTITY publishTab.label "Anḓadzani">
+<!ENTITY settingsTab.label "Nzudzanyo">
+
+<!ENTITY publishButton.label "Anḓadzani">
+<!-- Publish Tab Panel -->
+
+<!ENTITY siteList.label "Dzina ḽa Saithi:">
+<!ENTITY siteList.tooltip "Nangani saithi ine na khou ṱoḓa u anḓadza yone">
+<!ENTITY newSiteButton.label "Saithi Ntswa">
+<!ENTITY siteDirList.label "Nangani kana ni thaiphe dzina la tsumbanḓila ine ya vha kha saithi yaṅu ya u anḓadza:">
+<!ENTITY siteDirList.tooltip "Nangani kana ni dzhenise dzina ḽa tsumbanḓila thukhu i songo bvelelaho ine na khou ṱoḓa u i anḓadza kha">
+<!ENTITY docDirList.label "Tsumbanḓila thukhu ya saithi ya heḽi siaṱari:">
+<!ENTITY publishImgCheckbox.label "Katela zwifanyiso na dziṅwe faela">
+<!ENTITY publishImgCheckbox.tooltip "Anḓadzani zwifanyiso na dziṅwe faela dzo laedzwaho nga heḽi siaṱari">
+<!ENTITY sameLocationRadio.label "Shumisani fhethu huthihi na siaṱari">
+<!ENTITY sameLocationRadio.tooltip "Anḓadzani dzifaela fhethu huthihi na siaṱari">
+<!ENTITY useSubdirRadio.label "Shumisani tsumbanḓila ṱhukhu ya hei saithi:">
+<!ENTITY useSubdir.tooltip "Nangani kana ni nange dzine la tsumbanḓila ṱhukhu i songo bvelelaho hune faela dza ḓo anḓadzwa hone">
+<!ENTITY chooseDirButton.label "Nangani...">
+<!ENTITY pageTitle.label "Ṱhoho ya Siaṱari:">
+<!ENTITY pageTitle.tooltip "Dzhenisani ṱhoho u itela u sumba siaṱari kha fasiṱere na kha tswayo dza bugu">
+<!ENTITY pageTitleExample.label "tsumbo: &quot;Siaṱari Ḽanga ḽa Web&quot;">
+<!ENTITY filename.label "Dzinaḽafaela:">
+<!ENTITY filename.tooltip "Dzhenisani dzila ḽa hei faela, zwi tshi katela '.html' ya siaṱari ḽa web">
+<!ENTITY filenameExample.label "tsumbo: &quot;siaṱariḽanga.html&quot;">
+<!ENTITY relatedDocs.label "Dziṅwe faela dza u anḓadza">
+<!ENTITY setDefaultButton.label "Dzudzanyani sa Tshidzivhisi">
+<!ENTITY setDefSiteAndDir.label "Dzudzanyani sa Saithi ya u Dzivhisa na Tsumbanḓila">
+<!ENTITY removeButton.label "Bvisani Saithi">
+<!-- Settings Tab Panel -->
+
+<!ENTITY publishSites.label "Anḓadzani Dzisaithi">
+<!ENTITY serverInfo.label "Vhuṱanzi ha Seva">
+<!ENTITY loginInfo.label "Vhuṱanzi ha u Loga">
+<!ENTITY siteName.label "Dzina ḽa Saithi:">
+<!ENTITY siteName.tooltip "Dzina ḽa miswaswo ḽine ḽa sumba hei saithi ya u anḓadza (tsumbo: 'SaithiYanga')">
+<!ENTITY siteUrl.label "Ḓiresi ya u anḓadza (tsumbo: 'ftp://ftp.myisp.com/dzinaḽangaḽaushumisa'):">
+<!ENTITY siteUrl.tooltip "Ḓiresi ya FTP:// kana HTTP:// yo ṅetshedzwaho nga ISP yaṅu kana tshumelo ya u kuvhanganya ya web">
+<!ENTITY browseUrl.label "Ḓiresi ya HTTP ya siaṱari ḽanu ḽa hayani (tsumbo: 'http://www.myisp.com/dzinaḽangaḽaushumisa'):">
+<!ENTITY browseUrl.tooltip "Ḓiresi ya HTTP:// ya tsumbanḓila ya hayani yaṅu (a i kateli dzina ḽa faela)">
+<!ENTITY username.label "Dzina ḽa mushumisi:">
+<!ENTITY username.tooltip "Dzina ḽa mushumisi ḽine na ḽi shumisa u ḽoga kha ISP yaṅu kana tshumelo ya u kuvhanganya ya web">
+<!ENTITY password.label "Phasiwede:">
+<!ENTITY password.tooltip "Phasiwede i elanaho na dzina ḽa mushumisi ḽanu">
+<!ENTITY savePassword.label "Vhulungani Phasiwede">
+<!ENTITY savePassword.tooltip "Nangani hezwi u itela u vhulunga phasiwede yanu yo tsireledzea ni tshi khou shumisa Mulanguli wa Phasiwede">

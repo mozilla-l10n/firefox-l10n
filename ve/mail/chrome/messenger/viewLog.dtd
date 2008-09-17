@@ -1,0 +1,8 @@
+<!ENTITY viewLog.title "U loga filitha">
+<!ENTITY viewLogInfo.text "Linwalwa la Logo ya filhitha lo shumiswaho u itela akhaundu iyi. Shumisani bogisi la tsedzuluso lire fhasi u itela u loga.">
+<!ENTITY clearLog.label "Fhelisani u Loga">
+<!ENTITY clearLog.accesskey "F">
+<!ENTITY enableLog.label "Tendelani Logo ya Filitha">
+<!ENTITY enableLog.accesskey "T">
+<!ENTITY closeLog.label "Valani">
+<!ENTITY closeLog.accesskey "v">

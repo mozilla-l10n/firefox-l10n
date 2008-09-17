@@ -1,0 +1,25 @@
+<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
+<!ENTITY windowTitle.label "Mbudziso ya Meiḽi ya HTML">
+
+<!ENTITY recipient.label "Vhaṅwe vha vhaṱanganedzi a vha ngo ṅwaliswa sa vhane vha kona u ṱanganedza meiḽi ya HTML.">
+
+<!ENTITY convertibleDefault.label "">
+<!ENTITY convertibleYes.label "Mulaedza waṋu u nga iswa kha ḽiṅwalwa ḽi sa kondi hu si na vhuṱanzi ho lozweaho.">
+<!ENTITY convertibleAltering.label "Mulaedza waṋu u nga iswa kha ḽiṅwalwa ḽi si na tshithu hu si na vhutanzi ha vhuṱhogwa ho lozweaho. Fhedzi-ha, nyimele ya ḽiṅwalwa ḽi sa konḓi i nga vhonala yo fhambana na zwe na zwi vhona kha yo muṅwali.">
+<!ENTITY convertibleNo.label "Fhedzi-ha, no shumisa nzudzanyo (tsumbo, mivhala) ine ya nga si kone u iselea kha linwalwa li sa kondi.">
+
+<!ENTITY question.label "Ni khou ṱoḓa u shandukisela mulaedza kha ḽiṅwalwa ḽi sa konḓi kana u u rumela nga HTML naho zwo ralo?">
+
+<!ENTITY plainTextAndHtml.label "Rumelani nga Ḽiṅwalwa ḽi sa Konḓi na HTML">
+<!ENTITY plainTextOnly.label "Rumelani nga Ḽiṅwalwa ḽi sa Konḓi Fhedzi">
+<!ENTITY htmlOnly.label "Rumelani nga HTML Fhedzi">
+
+<!ENTITY plainTextAndHtmlRecommended.label "Rumelani nga Ḽiṅwalwa ḽi sa Konḓi na HTML (zwi khou ṱoḓea)">
+<!ENTITY plainTextOnlyRecommended.label "Rumelani nga Ḽiṅwalwa ḽi sa Konḓi Fhedzi (zwi khou ṱoḓea)">
+<!ENTITY htmlOnlyRecommended.label "Rumelani nga HTML Fhedzi (zwi khou ṱoḓea)">
+<!ENTITY recommended.label "(zwi khou ṱoḓea)">
+
+<!ENTITY send.label "Rumelani">
+<!ENTITY cancel.label "Thuthani">
+<!ENTITY recipients.label "Vhaṱanganedzi...">
+<!ENTITY help.label "Thuso">

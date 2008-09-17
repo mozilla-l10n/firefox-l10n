@@ -1,0 +1,20 @@
+<!ENTITY newsblogTitle.label "Nzudzanyo ya Mbalelano ya RSS">
+
+<!ENTITY biffStart.label "Ṱolani zwiteṅwa zwiswa ">
+<!ENTITY biffStart.accesskey "Ṱ">
+<!ENTITY biffEnd.label "miminete">
+
+<!ENTITY loginAtStartup.label "Ṱolani zwiteṅwa zwiswa musi ni tshi thoma">
+<!ENTITY loginAtStartup.accesskey "Ṱ">
+
+<!ENTITY useQuickMode.label "Nga zwi sa ṱoḓei, sumbedzani pfufhifhadzo ya tshiteṅwa hu na uri ni dzhenise siaṱari ḽa web">
+<!ENTITY useQuickMode.accesskey "N">
+
+<!ENTITY manageSubscriptions.label "Langani Vhushumisi...">
+<!ENTITY manageSubscriptions.accesskey "L">
+<!-- entities from defaults/isp/rss.rdf -->
+
+<!ENTITY rss.accountName "News &amp; Blogs">
+<!ENTITY rss.wizardShortName "RSS">
+<!ENTITY rss.wizardLongName "RSS News &amp; Blogs">
+<!ENTITY rss.hostName "News &amp; Blogs">

@@ -1,0 +1,33 @@
+<!ENTITY doNotDownloadPop3Movemail.label "U vhulunga tshipiḓa kha disiki, ni songo kopa:">
+<!ENTITY doNotDownload.label "U vhulunga tshipiḓa kha disiki, ni songo kopa u itela u shumisa ofisini:">
+<!ENTITY offlineNewFolder.label "Musi ndi tshi vhumba dzifoḽuda ntswa, dzi nangeleni u shumisa ofisini">
+<!ENTITY offlineNewFolder.accesskey "v">
+<!ENTITY offlineNotDownload.label "Milaedza ndi mihulwane u fhirisa">
+<!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY kb.label "KB">
+<!ENTITY days.label "maḓuvha">
+<!ENTITY daysOld.label "maḓuvha a kale">
+<!ENTITY message.label "milaedza">
+<!ENTITY nntpNotDownloadRead.label "Vhalani milaedza">
+<!ENTITY nntpNotDownloadRead.accesskey "V">
+<!ENTITY nntpDownloadMsg.label "Milaedza ndi minzhi u fhirisa">
+<!ENTITY nntpDownloadMsg.accesskey "m">
+<!ENTITY retentionCleanup.label "U wana hafhu tshikhala kha disiki, milaedza ya kale i nga thuthiwa lwa tshoṱhe">
+<!ENTITY retentionKeepMsg.label "Thuthani milaedza ine ya fhira">
+<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "Ni songo thutha na mulaedza na muthihi">
+<!ENTITY retentionKeepAll.accesskey "M">
+<!ENTITY retentionKeepNew.label "Thuthani yoṱhe nga nnḓa ha wa u guma">
+<!ENTITY retentionKeepNew.accesskey "t">
+<!ENTITY retentionKeepUnread.label "Thuthani milaedza yo no vhaliwaho tshifhinga tshoṱhe">
+<!ENTITY retentionKeepUnread.accesskey "v">
+<!ENTITY nntpRemoveBody.label "Mitumbu ya milaedza ine ya vha fhasi ha">
+<!ENTITY nntpRemoveBody.accesskey "M">
+<!ENTITY offlineSelectNntp.label "Nangani zwigwada zwa mafhungo u itela u shumisa nnḓa ha ḽaini...">
+<!ENTITY offlineSelectImap.label "Nangani foḽuda u itela u shumisa nnḓa ha ḽanini...">
+<!ENTITY offlineSelect.accesskey "S">
+<!ENTITY offlineDesc.label "Ni nga kopa milaedza yanu henefho tsini u itela uri ni kone u i shumisa musi ni tshi khou shuma nnda ha ḽaini.">
+<!ENTITY makeInboxMsgsAvailable.label "Itani uri mulaedza u vhe hone kha bogisi langa ḽa zwo tanganedzwaho u itela musi ni tshi khou shuma nnḓa ha ḽaini">
+<!ENTITY makeInboxMsgsAvailable.accesskey "n">
+<!ENTITY offlineGroupTitle.label "Nnḓa ha ḽaini">
+<!ENTITY diskspaceGroupTitle.label "Tshikhala Disikini">

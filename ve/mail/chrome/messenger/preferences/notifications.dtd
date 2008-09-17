@@ -1,0 +1,13 @@
+<!ENTITY notificationsDialog.title "Mubvumo wa Meili Muswa">
+<!ENTITY window.width "30em">
+
+<!ENTITY soundNotification.caption "Vhekanyani Mubvumo wa Meili Muswa">
+<!ENTITY preview.label "Itani Mbonalonyangaredzi ya Mubvumo">
+<!ENTITY preview.accesskey "i">
+<!ENTITY systemsound.label "Mubvumo wa Sisiteme ya Meili Muswa">
+<!ENTITY systemsoundMac.label "Mubvumo wa Tsivhudzo ya Sisiteme">
+<!ENTITY systemsound.accesskey "m">
+<!ENTITY customsound.label "Faela ya mvelele .wav">
+<!ENTITY customsound.accesskey "M">
+<!ENTITY browse.label "Tswatswaro...">
+<!ENTITY browse.accesskey "T">

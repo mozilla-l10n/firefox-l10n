@@ -1,0 +1,60 @@
+<!ENTITY itemGeneral.label "Nga u Angaredza">
+<!ENTITY itemAutoComplete.label "U Rumela kha">
+<!ENTITY itemSpellCheck.label "Mupeleṱo">
+<!ENTITY itemSendFormat.label "Rumelani Maitele">
+
+<!ENTITY forwardReply.label "U rumela Mulaedza">
+<!ENTITY forwardMsg.label "Rumelani Milaedza:">
+<!ENTITY forwardMsg.accesskey "r">
+<!ENTITY inline.label "Ngomu ha ḽaini">
+<!ENTITY inline.accesskey "N">
+<!ENTITY asAttachment.label "Sa zwo nambatedzwaho">
+<!ENTITY asAttachment.accesskey "S">
+
+<!ENTITY sendingMessagesHeader.label "U Ṅwala Mulaedza">
+<!ENTITY spellCheck.label "Ṱolani mupeleṱo musi ni saathu u rumela">
+<!ENTITY spellCheck.accesskey "Ṱ">
+<!ENTITY spellCheckInline.label "Enable spell check as you type">
+<!ENTITY spellCheckInline.accesskey "n">
+<!ENTITY languagePopup.label "Luambo:">
+<!ENTITY languagePopup.accessKey "l">
+<!ENTITY downloadDictionaries.label "Vulani Ṱhalusaipfi Nnzhi">
+
+<!ENTITY useMIME.label "U itela milaedza ine ya vha na zwipiḓa zwa 8, shumisani u khouda ha MIME ha 'zwo topolwaho zwi no ganḓisea' E">
+<!ENTITY useMIME.accesskey "u">
+<!ENTITY warnOnSendAccelKey.label "Khwaṱhisedzani arali ni tshi khou shumisa nḓila dza tshikhau dza kha khiibodo musi ni tshi rumela mulaedza">
+<!ENTITY warnOnSendAccelKey.accesskey "k">
+<!ENTITY autoSave.label "Vhulungani nga Yoṱhe nga murahu ha">
+<!ENTITY autoSave.accesskey "v">
+<!ENTITY autoSaveEnd.label "miminete">
+<!ENTITY autoSaveEnd.accesskey "m">
+<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+<!ENTITY wrapOutMsg.label "Putelani milaedza ya ḽiṅwalwa ḽi si na tshithu kha">
+<!ENTITY wrapOutMsg.accesskey "h">
+<!ENTITY char.label "zwiteṅwa">
+
+<!ENTITY emailCollectionPicker.label "Engedzani ḓiresi dza emeiḽi nganoṱhe kha:">
+<!ENTITY emailCollectionPicker.accesskey "n">
+<!ENTITY addressingTitle.label "U Fhedziswa ha Ḓiresi nga Yoṱhe">
+<!ENTITY autocompleteText.label "Musi ni tshi khou rumela milaedza, ṱoḓani madzhenele ane a elana kha:">
+<!ENTITY addressingEnable.label "Yapo Bugu dza Ḓiresi">
+<!ENTITY addressingEnable.accesskey "B">
+<!ENTITY directories.label "Seva ya Tsumbunḓila:">
+<!ENTITY directories.accesskey "S">
+<!ENTITY editDirectories.label "Lulamisani Tsumbanḓila...">
+<!ENTITY editDirectories.accesskey "L">
+<!ENTITY matchText.label "Arali hu na zwine zwa elana kha bugu ya ḓiresi yapo:">
+<!ENTITY skipDirectory.label "Ni songo ṱola kha tsumbanḓila">
+
+<!ENTITY sendOptionsCaption.label "Rumelani na Khetho dza HTML">
+<!ENTITY sendOptionsDescription.label "Vhekanyani matshilele a maitele a ḽiṅwalwa">
+<!ENTITY sendOptions.label "Rumelani Maitele...">
+<!ENTITY sendOptions.accesskey "R">
+
+<!ENTITY htmlComposeDescription.label "Vhekanyani khetho dza HTML dzi songo tendelwaho">
+<!ENTITY htmlCompose.label "Khetho dza HTML...">
+<!ENTITY htmlCompose.accesskey "H">
+
+<!ENTITY returnReceiptsInfo.label "Sumbedzani uri hani &brandShortName; i fara zwiṱanganedzwa zwo humaho">
+<!ENTITY showReturnReceipts.label "Zwiṱanganedzwa zwo Humaho...">
+<!ENTITY showReturnReceipts.accesskey "Z">

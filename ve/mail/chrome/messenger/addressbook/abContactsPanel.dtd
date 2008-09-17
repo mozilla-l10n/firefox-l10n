@@ -1,0 +1,12 @@
+
+<!ENTITY addressbookPicker.label "Bugu ya Ḓiresi:">
+<!ENTITY searchInput.label "Ṱoḓani:">
+<!ENTITY SearchNameOrEmail.label "Dzina kana Emeiḽi">
+
+<!ENTITY addtoToFieldMenu.label "Engedzani kha buḓo ḽa Kha">
+<!ENTITY addtoCcFieldMenu.label "Engedzani kha buḓo ḽa Cc">
+<!ENTITY addtoBccFieldMenu.label "Engedzani kha buḓo ḽa Bcc">
+
+<!ENTITY toButton.label "Engedzani kha Kha:">
+<!ENTITY ccButton.label "Engedzani kha Cc:">
+

@@ -1,0 +1,85 @@
+<!ENTITY updateWizard.title "Khwinifhadzo ya Sofuthiwee">
+
+<!ENTITY window.width "36em">
+<!ENTITY window.macWidth "39em">
+
+<!ENTITY checking.title "U Ṱola Khwinifhadzo">
+<!ENTITY checking.label "&brandShortName; zwino ḽi khou ṱola khwinifhadzo...">
+
+<!ENTITY cancel.label "Fhelisani">
+<!ENTITY cancel.accesskey "F">
+
+<!ENTITY noupdatesfound.title "A Huna Khwinifhadzo dzo Wanalaho">
+<!ENTITY noupdatesfound.intro "There are no new updates available. &brandShortName; may check 
+                                           periodically for new updates.">
+
+<!ENTITY updatesfound.title "Khwinifhadzo dzi Hone">
+
+<!ENTITY moreDetails.label "Vhutanzi Vhunzhi &#0187;">
+<!ENTITY moreDetails.accesskey "V">
+<!ENTITY clickHere.label "View more information about this update">
+
+<!ENTITY incompatible.warning "This update will cause some of your extensions and/or themes 
+                                           to stop working until they are updated.">
+<!ENTITY listIncompatible.label "Sumbedzani Mutevhe">
+<!ENTITY listIncompatible.accesskey "M">
+
+<!ENTITY upgrade.evangelism "It is strongly recommended that you upgrade &brandShortName; 
+                                           as soon as possible.">
+
+<!ENTITY license.title "Thendelano ya Laisentsi">
+<!ENTITY license.intro "To install this update you must agree to this license agreement. 
+                                           Please read it carefully:">
+<!ENTITY license.instructions "If you agree to the terms of this agreement, click I Agree 
+                                           below to continue installing this update.">
+
+<!ENTITY license.titleText "Software License Agreement">
+<!ENTITY license.introText "Terms and conditions for using this software.">
+<!ENTITY license.instructionText "Please read the following license agreement. Use the scroll bar to view the rest of this agreement.">
+<!ENTITY license.accept "I accept the terms of the License Agreement">
+<!ENTITY license.accept.accesskey "c">
+<!ENTITY license.decline "I do NOT accept the terms of the License Agreement">
+<!ENTITY license.decline.accesskey "T">
+
+<!ENTITY downloading.title "U Longela Khwinifhadzo">
+<!ENTITY downloading.intro "U Longela Khwinifhadzo...">
+<!ENTITY connecting.label "U tumana na seva ya khwinifhadzo...">
+<!ENTITY verificationFailedText.label "&brandShortName; was unable to verify the integrity of the 
+                                           incremental update it downloaded, so it is now downloading
+                                           the complete update package.">
+
+<!ENTITY details.link "Zwidodombedzwa">
+<!ENTITY pause.label "Awelani">
+<!ENTITY pause.accesskey "a">
+<!ENTITY close.label "Valani">
+<!ENTITY close.accesskey "V">
+
+<!ENTITY error.label "There were problems checking for, downloading or installing this 
+                                           update. &brandShortName; could not be updated because:">
+                                           
+<!ENTITY errorManual.label "You can update &brandShortName; manually by visiting this link
+                                           and downloading the latest version:">
+                                           
+<!ENTITY errorpatching.title "Khwinifhadzo yo Kundelwa">
+<!ENTITY errorpatching.intro "The partial Update could not be applied. 
+                                           &brandShortName; will try again by downloading a complete Update.">
+
+<!ENTITY finished.title "Khwinifhadzo yo Dzhenisiwa">
+<!ENTITY finished.text "The update was successfully downloaded and verified, and it will
+                                           be installed the next time &brandShortName; starts.">
+
+<!ENTITY finishedBackground.title "Khwinifhadzo yo Dilugisela u Longela">
+<!ENTITY finishedBackground.text "&brandShortName; has downloaded and verified an important update. 
+                                           Click the link below for more details.">
+<!ENTITY finishedBackground.name "Khwinifhadzo:">
+<!ENTITY finishedBackground.more1 "Click Restart &brandShortName; Now to install the update now.">
+<!ENTITY finishedBackground.more2 "Click Later to close this dialog and continue working. &brandShortName;
+                                           will install the update the next time it starts.">
+
+<!ENTITY installed.title "Khwinifhadzo yo Longelwa">
+<!ENTITY installed.intro "Khwinifhadzo yo longelwa zwavhuḓi.">
+<!ENTITY whatsnew.label "Vhalani zwinzhi nga ha ndi zwifhio zwiswa...">
+
+<!ENTITY update.details.label "Zwidodombedzwa">
+<!ENTITY update.installedOn.label "Yo longelwa kha:">
+<!ENTITY update.status.label "Maimo:">

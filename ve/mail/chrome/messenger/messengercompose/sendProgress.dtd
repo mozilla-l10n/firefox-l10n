@@ -1,0 +1,17 @@
+<!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
+<!ENTITY sendWindow.title "U Rumela Milaedza">
+<!ENTITY titlePrefixSave "U Vhulunga Milaedza -">
+<!ENTITY titlePrefixSend "U Rumela Milaedza -">
+<!ENTITY status "Maimo:">
+<!ENTITY progress "Mvelaphanḓa:">
+<!-- LOCALIZATION NOTE (percentMsg):
+
+    This string is used to format the text to the right of the progress
+    meter.
+
+    #1 will be replaced by the percentage of the file that has been saved -->
+
+<!ENTITY percentMsg "#1&#037;">
+
+<!ENTITY messageSent "Mulaedza wanu wo rumeliwa">
+<!ENTITY messageSaved "Mulaedza wanu wo vhulungiwa">

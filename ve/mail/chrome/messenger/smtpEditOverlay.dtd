@@ -1,0 +1,23 @@
+<!ENTITY settings.caption "Nzudzanyo">
+<!ENTITY security.caption "Tsireledzo na Vhukwae">
+<!ENTITY serverName.label "Dzina ḽa Seva:">
+<!ENTITY serverName.accesskey "D">
+<!ENTITY serverDescription.label "Ṱhaluso:">
+<!ENTITY serverDescription.accesskey "Ṱ">
+<!ENTITY serverPort.label "Photho:">
+<!ENTITY serverPort.accesskey "P">
+<!ENTITY alwaysUseUsername.label "Shumisani dzina na phasiwede">
+<!ENTITY alwaysUseUsername.accesskey "S">
+<!ENTITY userName.label "Dzina ḽa Mushumisi:">
+<!ENTITY userName.accesskey "d">
+<!ENTITY isSecure.label "Shumisani vhutumani ho tsireledzeaho:">
+<!ENTITY neverSecure.label "A huna">
+<!ENTITY neverSecure.accesskey "A">
+<!ENTITY sometimesSecure.label "TLS, arali i hone">
+<!ENTITY sometimesSecure.accesskey "i">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSmtpS.label "SSL">
+<!ENTITY alwaysSmtpS.accesskey "L">
+<!ENTITY smtpEditTitle.label "Seva ya SMTP">
+<!ENTITY serverPortDefault.label "Yo Dzivhiswaho:">

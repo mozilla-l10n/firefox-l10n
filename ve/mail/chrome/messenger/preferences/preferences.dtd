@@ -1,0 +1,13 @@
+
+<!ENTITY prefWindow.titleWin "Khetho">
+<!ENTITY prefWindow.titleGNOME "&brandShortName; Zwitakalelwa">
+<!ENTITY prefWindow.styleWin "width: 44em; height: 38em;">
+<!ENTITY prefWindow.styleMac "width: 47em;">
+<!ENTITY prefWindow.styleUnix "width: 42em;">
+
+<!ENTITY paneGeneral.title "Nga u angaredza">
+<!ENTITY paneDisplay.title "Ṱanani">
+<!ENTITY paneComposition.title "U ṅwala">
+<!ENTITY paneAttachments.title "Zwiṱumetshedzwa">
+<!ENTITY panePrivacy.title "Tshidzumbe">
+<!ENTITY paneAdvanced.title "Yo bvelelaho">

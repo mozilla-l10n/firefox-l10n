@@ -1,0 +1,25 @@
+<!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
+
+<!ENTITY securityMenu.label "Tsireledzo">
+<!ENTITY securityMenu.accesskey "t">
+
+<!ENTITY menu_securityEncryptIfPossible.label "Ṅwalani nga Khoudu arali zwi tshi Konadzea">
+<!ENTITY menu_securityEncryptIfPossible.accesskey "K">
+
+<!ENTITY menu_securityEncryptRequire.label "Ṅwalani Hoyu Mulaedza nga Khoudu">
+<!ENTITY menu_securityEncryptRequire.accesskey "Ṅ">
+
+<!ENTITY menu_securityNoEncryption.label "Ni Songo Ṅwala Hoyu Mulaedza nga Khoudu">
+<!ENTITY menu_securityNoEncryption.accesskey "S">
+
+<!ENTITY menu_securitySign.label "Nga Didzhithala Sainani Hoyu Mulaedza">
+<!ENTITY menu_securitySign.accesskey "S">
+
+<!ENTITY menu_securityStatus.label "Lavhelesani Mulaedza wa Tsireledzo">
+<!ENTITY menu_securityStatus.accesskey "M">
+
+<!ENTITY securityButton.label "Tsireledzo">
+<!ENTITY securityButton.tooltip "Vhonani kana shandukisani nzudzanyo dza tsireledzo">
+
+<!ENTITY menu_viewSecurityStatus.label "Tsireledzo ya Mulaedza Vhuṱanzi">
+<!ENTITY menu_viewSecurityStatus.accesskey "V">

@@ -1,0 +1,35 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "Khophi &amp; Dzifoḽuda">
+<!ENTITY sendingPrefix.label "Musi ni tshi khou rumela milaedza, nga vhuḓiiti: ">
+<!ENTITY fccMailFolder.label "Longelani khophi kha:">
+<!ENTITY fccMailFolder.accesskey "L">
+<!ENTITY fccReplyFollowsParent.label "Place replies in the folder of the message being replied to">
+<!ENTITY fccReplyFollowsParent.accesskey "l">
+<!ENTITY chooseFolderButton.label "Nangani Foḽuda...">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Bcc hedzi ḓiresi dza emeiḽi:">
+<!ENTITY bccAddress.accesskey "B">
+<!ENTITY specialFolderTitle.label "Foḽuda dzo Khetheaho">
+<!ENTITY draftMailFolder.label "Dzudzani milaedza yo tou talatadzwaho ngomu kha:">
+<!ENTITY templateMailFolder.label "Dzudzani milaedza yo dzulaho yo ṅwalwa kha:">
+<!ENTITY saveMessageDlg.label "Sumbedzani vhudavhidzani ha khwaṱhisedzo musi mulaedza wo vhulungwa">
+<!ENTITY saveMessageDlg.accesskey "S">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "&quot; Rumelwa&quot; Folida kha:">
+<!ENTITY sentFolderOn.accesskey "r">
+<!ENTITY sentInOtherFolder.label "Zwiṅwe:">
+<!ENTITY sentInOtherFolder.accesskey "Z">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "&quot;Ṱhalathadzo&quot; Foḽuda kha:">
+<!ENTITY draftsFolderOn.accesskey "Ṱ">
+<!ENTITY draftInOtherFolder.label "Zwṅwe:">
+<!ENTITY draftInOtherFolder.accesskey "w">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "&quot;Zwo dzulaho zwo ṅwalwa&quot; Foḽuda kha:">
+<!ENTITY templatesFolderOn.accesskey "z">
+<!ENTITY templateInOtherFolder.label "Zwiṅwe:">
+<!ENTITY templateInOtherFolder.accesskey "i">
+<!ENTITY specialFoldersTitle.label "Thalathadzo na zwo Dzulaho zwo Ṅwalwa">
+<!ENTITY keepDrafts.label "Dzudzani thalathadzo ya milaedza kha:">
+<!ENTITY keepTempltes.label "Dzudzani thalathadzo ya zwo dzulaho zwo ṅwalwa kha:">

@@ -1,0 +1,29 @@
+<!ENTITY window.title "Fiḽitha dza Mulaedza">
+<!ENTITY nameColumn.label "Dzina ḽa Fiḽitha">
+<!ENTITY activeColumn.label "Yo tendelwa">
+<!ENTITY newButton.label "Ntswa...">
+<!ENTITY newButton.accesskey "N">
+<!ENTITY editButton.label "Lulamisani...">
+<!ENTITY editButton.accesskey "L">
+<!ENTITY deleteButton.label "Thuthani">
+<!ENTITY deleteButton.accesskey "t">
+<!ENTITY reorderUpButton.label "Sudzulutshelani Nṱha">
+<!ENTITY reorderUpButton.accesskey "N">
+<!ENTITY reorderDownButton.label "Sudzulutshelani fhasi">
+<!ENTITY reorderDownButton.accesskey "F">
+<!ENTITY filterHeader.label "Fiḽitha dzo tendelwaho dzi khou shumsiwa nga dzoṱhe nga maitele o sumbedziwaho afho fhasi.">
+<!ENTITY filtersForPrefix.label "Fiḽitha dza:">
+<!ENTITY filtersForPrefix.accesskey "F">
+<!ENTITY viewLogButton.label "Fiḽitha Ḽoga">
+<!ENTITY viewLogButton.accesskey "Ḽ">
+<!ENTITY runFilters.label "Shumisani Zwino">
+<!ENTITY runFilters.accesskey "S">
+<!ENTITY stopFilters.label "Imani">
+<!ENTITY stopFilters.accesskey "I">
+<!ENTITY folderPickerPrefix.label "Shumisani dzifilitha dzo nangiwaho kha:">
+<!ENTITY folderPickerPrefix.accesskey "s">
+<!ENTITY choosethis.label "nangani hei foḽuda">
+<!ENTITY choosethisnewsserver.label "nangani hei seva ya mafhungo">
+<!ENTITY helpButton.label "Thuso">
+<!ENTITY helpButton.accesskey "T">
+<!ENTITY closeCmd.key "W">

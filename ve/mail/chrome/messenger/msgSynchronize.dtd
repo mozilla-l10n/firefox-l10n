@@ -1,0 +1,19 @@
+<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
+<!ENTITY MsgSynchronize.label "Dzhenisani nahone ni Vhambedze Milaedza">
+<!ENTITY MsgSelect.label "Zwitenwa zwa u Shumisa Nnḓa ha laini">
+<!ENTITY MsgSyncDesc.label "Arali no no di nanga foluda dza meili kale kana zwigwada zwa mafhungo zwa u shumisa nnḓa ha laini, ni nga i dzhenisa na/kana i vhambedza zwino. Nga nnda ha zwenezwo, shumisani gunubu ya &quot;Nangani&quot; u itela u nanga foluda dza meili na zwigwada zwa mafhungo u itela u shumisa nnda ha laini.">
+<!ENTITY MsgSyncDirections.label "Dzhenisani na/kana ni vhambedze zwi tevhelaho:">
+<!ENTITY syncTypeMail.label "Milaedza ya meili">
+<!ENTITY syncTypeMail.accesskey "M">
+<!ENTITY syncTypeNews.label "Milaedza ya tshigwada tsha mafhungo">
+<!ENTITY syncTypeNews.accesskey "M">
+<!ENTITY sendMessage.label "Rumelani milaedza I Songo Rumeleaho">
+<!ENTITY sendMessage.accesskey "R">
+<!ENTITY workOffline.label "Shumani nnḓa ha laini arali u dzhenisa na/kana u vhambedza ho fhela">
+<!ENTITY workOffline.accesskey "S">
+<!ENTITY selectButton.label "Nangani...">
+<!ENTITY selectButton.accesskey "N">
+<!ENTITY MsgSelectDesc.label "Nangani foluda dza meili na zwigwada zwa mafhungo u itela u shumisa nnḓa ha laini.">
+<!ENTITY MsgSelectInd.label "Dzhenisani">
+<!ENTITY MsgSelectItems.label "Dzifoluda na Zwigwada zwa mafhungo">

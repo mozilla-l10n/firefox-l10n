@@ -1,0 +1,73 @@
+<!-- these things need to move into utilityOverlay.xul -->
+<!ENTITY offlineGoOfflineCmd.label "Shumani Nnḓa ha Ḽaini">
+<!ENTITY offlineGoOfflineCmd.accesskey "s">
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
+
+<!ENTITY fileMenu.label "Faela">
+<!ENTITY fileMenu.accesskey "f">
+<!ENTITY newMenu.label "Ntswa">
+<!ENTITY newMenu.accesskey "N">
+
+<!ENTITY editMenu.label "Dzudzanyani">
+<!ENTITY editMenu.accesskey "d">
+<!ENTITY undoCmd.label "Itululani">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "i">
+<!ENTITY redoCmd.label "Itani Hafhu">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "i">
+<!ENTITY cutCmd.label "Gerani">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "n">
+<!ENTITY copyCmd.label "Kopani">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "k">
+<!ENTITY pasteCmd.label "Nambatedzani">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "n">
+<!ENTITY deleteCmd.label "Thuthani">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "t">
+<!ENTITY selectAllCmd.label "Nangani Dzoṱhe">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "d">
+<!ENTITY preferencesCmd.label "Khetho...">
+<!ENTITY preferencesCmd.accesskey "K">
+<!ENTITY preferencesCmdUnix.label "Zwitakalelwa">
+<!ENTITY preferencesCmdUnix.accesskey "z">
+
+<!ENTITY findTypeTextCmd.label "Wanani Ḽinwalwa Musi Ni Tshi Khou Thaipha">
+<!ENTITY findTypeTextCmd.accesskey "Ḽ">
+
+<!ENTITY viewMenu.label "Lavhelesani">
+<!ENTITY viewMenu.accesskey "l">
+<!ENTITY viewToolbarsMenu.label "Zwibuloko zwa Zwishumiswa">
+<!ENTITY viewToolbarsMenu.accesskey "Z">
+<!ENTITY showTaskbarCmd.label "Buloko ya Maimo">
+<!ENTITY showTaskbarCmd.accesskey "B">
+
+<!ENTITY direct.label "Ngomu Ḽainini (tshithusedzi: a huna)">
+<!ENTITY direct.accesskey "n">
+<!ENTITY manual.label "Ngomu Ḽainini (tshithusedzi: nga u tou itiwa)">
+<!ENTITY manual.accesskey "n">
+<!ENTITY pac.label "Ngomu Ḽainini (tshithusedzi: nga tshothe)">
+<!ENTITY pac.accesskey "n">
+
+<!ENTITY proxy.label "Tshithusedzi Mbekanyo...">
+<!ENTITY proxy.accesskey "M">
+
+<!ENTITY findTypeTextCmd.key "/">
+<!ENTITY findTypeLinksCmd.key "'">
+
+<!ENTITY closeCmd.label "Valani">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "v">
+
+<!ENTITY quitApplicationCmd.label "Ibvani">
+<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY quitApplicationCmd.accesskey "i">
+
+<!ENTITY quitApplicationCmdUnix.label "Ṱuwani">
+<!ENTITY quitApplicationCmdUnix.accesskey "Ṱ">
+

@@ -1,0 +1,21 @@
+<!ENTITY emailSectionHdr.label "Emeiḽi">
+<!ENTITY readMsgsLink.label "Vhalani milaedza">
+<!ENTITY composeMsgLink.label "Vhalani mulaedza muswa">
+
+<!ENTITY newsSectionHdr.label "Zwigwada zwa mafhungo">
+<!ENTITY subscribeNewsLink.label "Langani vhuḓiṅwalisi ha tshigwada tsha mafhungo">
+
+<!ENTITY accountsSectionHdr.label "Accounts">
+<!ENTITY subscribeImapFolders.label "Manage folder subscriptions">
+<!ENTITY settingsLink.label "Vhonani nzudzanyo ya hei mbalelano">
+<!ENTITY newAcctLink.label "Vhumbani mbalelano ntswa">
+
+<!ENTITY advFeaturesSectionHdr.label "Zwitenwa zwo Bvelelaho">
+<!ENTITY searchMsgsLink.label "Ṱoḓani milaedza">
+<!ENTITY filtersLink.label "Langani filitha dza mulaedza">
+<!ENTITY junkSettings.label "Nzudzanyo ya meiḽi wa mashika">
+<!ENTITY offlineLink.label "Nzudzanyo ya nnḓa ha ḽaini">
+
+
+<!ENTITY rssSectionHdr.label "Mafhungo a RSS &amp; Blogs">
+<!ENTITY subscibeRSS.label "Langani vhuḓiṅwalisi">

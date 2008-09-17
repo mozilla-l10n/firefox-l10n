@@ -1,0 +1,27 @@
+<!ENTITY pane.title "Rasithi dzo Humaho">
+<!ENTITY useGlobalPrefs.label "Shumisani rasithi dzanga dzo humaho nga u angaredza dzine nda dzi takalela kha hei mbalelano">
+<!ENTITY useGlobalPrefs.accesskey "S">
+<!ENTITY useCustomPrefs.label "Khwinifhadzani rasithi dzo humaho kha hei mbalelano">
+<!ENTITY useCustomPrefs.accesskey "K">
+<!ENTITY requestReceipt.label "Musi ni tshi khou rumela milaedza, tshifhinga tshoṱhe humbelani rasithi yo humaho">
+<!ENTITY requestReceipt.accesskey "M">
+<!ENTITY receiptArrive.label "Musi rasithi i tshi swika:">
+<!ENTITY leaveIt.label "I litsheni kha Bogisi ḽanga ḽa zwo Tanganedzwaho">
+<!ENTITY leaveIt.accesskey "T">
+<!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
+<!ENTITY moveToSent.label "I sudzuluseleni kha foluda yanga ya &quot;Rumelwa&quot; foḽuda">
+<!ENTITY moveToSent.accesskey "I">
+<!ENTITY requestMDN.label "Musi ndi tshi ṱanganedza khumbelo ya rasithi yo humaho:">
+<!ENTITY returnSome.label "Tendelani rasithi yo humaho kha miṅwe milaedza">
+<!ENTITY returnSome.accesskey "u">
+<!ENTITY never.label "Ni songo vhuya na rumela rasithi yo humaho">
+<!ENTITY never.accesskey "N">
+<!ENTITY notInToCc.label "Arali ndi si ho kha Kha kana CC ya mulaedza:">
+<!ENTITY notInToCc.accesskey "K">
+<!ENTITY outsideDomain.label "Arali murumeli a si ho fhethu nthihi na nṋe:">
+<!ENTITY outsideDomain.accesskey "m">
+<!ENTITY otherCases.label "Kha zwiimo zwoṱhe:">
+<!ENTITY otherCases.accesskey "k">
+<!ENTITY askMe.label "Mmbudziseni">
+<!ENTITY alwaysSend.label "Rumelani tshifhinga tshoṱhe">
+<!ENTITY neverSend.label "Ni songo vhuya na rumela">

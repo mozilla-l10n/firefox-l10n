@@ -1,0 +1,133 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is mozilla.org code.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Terry Hayes <thayes@netscape.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!-- Values for changepassword.xul -->
+
+<!ENTITY setPassword.title "Shandukisani Phasiwede Khulwane">
+<!ENTITY setPassword.tokenName.label "Tshiimiswa tsha Tsireledzo">
+<!ENTITY setPassword.oldPassword.label "Phasiwede Ino:">
+<!ENTITY setPassword.newPassword.label "Phasiwede Ntswa:">
+<!ENTITY setPassword.reenterPassword.label "Phasiwde Ntswa (hafhu):">
+<!ENTITY setPassword.meter.label "Mitha wa ndeme ya phasiwede">
+<!ENTITY setPassword.meter.loading "U longela">
+<!-- Values for resetpassword.xul -->
+
+<!ENTITY resetPasswordButtonLabel "U dzudzanya hafhu">
+<!ENTITY resetPassword.title "Dzudzanyani Hafhu Phasiwede Khulwane">
+<!ENTITY resetPassword.text "Arali na dzudzanya hafhu phasiwede khulwane, web na meiḽi dzaṋu dzoṱhe dzo vhulungwaho, vhuṱanzi ha fomo, ṱhanziela dzaṋu inwi muṋe, na khii dza phuraivethe dzo ḓo hangwiwa. Ni na vhuṱanzi ho fhelelaho ha uri ni khou ṱoḓa u dzudzanya hafhu phasiwede yaṋu?">
+<!-- Values for getpassword.xul -->
+
+<!ENTITY getPassword.title "Dzhenisani Phasiwede Khulwane">
+<!ENTITY getPassword.tokenName.label "Tshiimiswa tsha Tsireledzo">
+<!ENTITY getPassword.password.label "Phasiwede:">
+<!-- These should be common -->
+
+<!ENTITY piperror.title "Vhukhakhi">
+<!ENTITY pipalert.title "Vhukhakhi - a thi koni u wana">
+<!-- Prefs panel strings -->
+
+<!ENTITY pref.security.general.lHeader "Tsireledzo">
+<!ENTITY pref.security.general.rHeader "Nzudzanyo dza tsireledzo nga u angaredza">
+<!ENTITY pref.security.general.header "Nzudzanyo dza tsireledzo nga u angaredza">
+<!ENTITY pref.security.general.level.title "Vhuimo ha Tsireledzo">
+<!ENTITY pref.security.general.paranoid.label "Shumisani nzudzanyo ya tsireledzo ine ya penga">
+<!ENTITY pref.security.general.certificates.title "Dziṱhanziela">
+<!ENTITY pref.security.general.manageCert.label "Langani Dziṱhanziela">
+<!-- Downloading a cert -->
+
+<!ENTITY downloadCert.title "U Longela ṱhanziela">
+<!ENTITY downloadCert.message1 "No humbelwa uri ni fulufhele Mulanguli wa Ṱhanziela muswa (CA).">
+<!ENTITY downloadCert.trustSSL "Fulufhelani hei CA u sumba dzi webusaithi.">
+<!ENTITY downloadCert.trustEmail "Fulufhelani hei CA u suma vhashumisi vha emeili.">
+<!ENTITY downloadCert.trustObjSign "Fulufhelani hei CA u sumba vhabveledzi vha sofuthiwee.">
+<!ENTITY downloadCert.message3 "Musi ni saathu u fulufhela hei CA kha mushumo muṅwe na muṅwe, ni tea u ṱola ṱhanziela yayo u thoma na phoḽisi na maitele (arali zwi hone).">
+<!ENTITY downloadCert.viewCert.label "Vhonani">
+<!ENTITY downloadCert.viewPolicy.label "Pholisi">
+<!ENTITY downloadCert.viewCert.text "Ṱolani ṱhanziela dza CA">
+<!ENTITY downloadCert.viewPolicy.text "Ṱolani ṱhanziela dza CA">
+<!-- Certificate Exists in database -->
+
+<!ENTITY caCertExists.title "Ṱhanziela i Hone">
+<!ENTITY caCertExists.message "Ṱhanziela yo no di dzula vha hone kale.">
+<!-- Strings for the MismatchDomain dialog  -->
+
+<!ENTITY domainMismatch.title "Vhukhakhi ha Tsireledzo: Dzina Ḽihulwane a Ḽi na ḽi Elanaho Nalo">
+<!ENTITY examineCert.label "Ṱolani Ṱhanziela">
+<!ENTITY examineCert.accesskey "O">
+<!-- Strings for the Server cert expired dialog  -->
+
+<!ENTITY serverCertExpired.continue "Ni nga tama u bvela phanḓa naho zwo ralo?">
+<!ENTITY serverCertExpired.accept.label "Bvelani phanda">
+<!-- Strings for the SSL client auth ask dialog -->
+
+<!ENTITY clientAuthAsk.title "Khumbelo ya Tsumbavhune ya Mushumisi">
+<!ENTITY clientAuthAsk.message1 "Hei saithi yo humbeliwa zwauri ni di bule nga ṱhanziela:">
+<!ENTITY clientAuthAsk.message2 "Nangani ṱhanziela uri ni I sumbedze sa ya u ditalusa:">
+<!ENTITY clientAuthAsk.message3 "Zwidodombedzwa nga ha ṱhanziela dzo nangwaho:">
+<!-- Strings for the cert picker dialog -->
+
+<!ENTITY certPicker.title "Nangani Ṱhanziela">
+<!ENTITY certPicker.info "Ṱhanziela:">
+<!ENTITY certPicker.detailsLabel "Zwidodombedzwa nga ha Ṱhanziela dzo nangwaho:">
+
+<!ENTITY pkcs12.setpassword.title "Nangani Phasiwede ya Thikhedzo ya Ṱhanziela">
+<!ENTITY pkcs12.setpassword.message "Phasiwede ya thikhedzo ya ṱhanziela ye na dzudzanya hafha i tsireledza faela ya thikhedzo ine na vha tsini na u i vhumba.  Ni tea u dzudzanya phasiwede u itela u bvela phanda na thikhedzo.">
+<!ENTITY pkcs12.setpassword.label1 "Phasiwede ya thikhedzo ya ṱhanziela:">
+<!ENTITY pkcs12.setpassword.label2 "Phasiwede ya thikhedzo ya ṱhanziela (hafhu):">
+<!ENTITY pkcs12.setpassword.reminder "Zwa vhuṱhogwa: Arali na hangwa phasiwede ya thikhedzo ya thanziela yanu, ni nga si kone u vhuedzedza hei thikhedzo nga murahu.  Ni khou humbelwa uri ni i rekhode fhethu ho tsireledzeaho.">
+
+<!ENTITY pkcs12.getpassword.title "Nyambedzano ya u Dzhena ya Phasiwede">
+<!ENTITY pkcs12.getpassword.message "Ni khou humbelwa uri ni dzhenise phasiwede yo shumiswaho u nwala nga khoudu thikhedzo ya hei thanziela.">
+
+<!ENTITY chooseToken.title "Nangani Nyambedzano ya Tshiga">
+<!ENTITY chooseToken.message1 "Ni khou humbelwa uri ni nange tshiga.">
+
+<!ENTITY escrowWarn.title "Khophi ya Khii ya u Nwala nga Khoudu">
+<!ENTITY escrowWarn.message1 "Zwa vhuṱhogwa: Mulanguli wa hei ṱhanziela o humbela u ita thikhedzo ya khii yaṋu ya u ṅwala nga khoudu ya phuraivethe.">
+<!ENTITY escrowWarn.benefit1 "Mbuelo ndi ya uri ni lozwa vhuswikeleli kha khii yaṋu ya u nwala nga khoudu ya phuraivethe, ni nga humbela khophi kha mulanguli wa hei ṱhanziela.">
+<!ENTITY escrowWarn.message2 "Fhedzi-ha, khii yaṋu ya u ṅwala khoudu ya phuraivethe i ḓo vhulungwa nga mulanguli wa ṱhanziela, nahone i nga shumiswa u vhala emeiḽi dzanu dzo ṅwalwaho nga khoudu kana maṅwalwa hu si na thendelo yaṋu.">
+
+<!ENTITY serverCrlNextupdate.message "Ni khou humbelwa uri ni humbele mulanguli wa sisiteme yanu uri a ni tsivhudze">
+<!-- Strings for the CreateCertInfo dialog  -->
+
+<!ENTITY createCertInfo.title "Hu Khou Itiwa Nga Khii Ya Phuraivethe">
+<!ENTITY createCertInfo.msg1 "U Itiwa ha Khii hu vhukati... Hezwi zwi nga dzhia miminete i si gathi...">
+<!ENTITY createCertInfo.msg2 "Ni khou humbelwa uri ni lindede...">
+<!-- Form Signing confirmation prompt -->
+
+<!ENTITY formSigning.title "Khumbelo ya u Saina Ḽiṅwalwa">
+<!ENTITY formSigning.cert "Ṱhanziela dza u Saina">
+<!ENTITY formSigning.confirmPassword "U khwaṱhisedza zwauri ni khou tenda u saina mulaedza wa linwalwa ni tshi khou shumisa ṱhanziela yo nangiwaho, ni khou humbelwa uri ni khwaṱhisedza nga u dzhenisa phasiwede khulwane:">

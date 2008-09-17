@@ -1,0 +1,40 @@
+<!ENTITY generalSettings.caption "Nzudzanyo dza Tshidzivhisi">
+<!ENTITY generalSettings.label "Itani nyito yau dzivhisa ya &brandShortName;:">
+<!ENTITY setDefaultMailClient.label "Meiḽi">
+<!ENTITY setDefaultMailClient.accesskey "M">
+<!ENTITY setDefaultNewsClient.label "Mafhungo">
+<!ENTITY setDefaultNewsClient.accesskey "M">
+<!ENTITY setDefaultFeedClient.label "RSS Kanzwa">
+<!ENTITY setDefaultFeedClient.accesskey "K">
+<!ENTITY checkDefaultMailClient.label "&brandShortName; should check to see if it is the default mail client when starting">
+<!ENTITY checkDefaultMailClient.accesskey "n">
+<!ENTITY defaultClientAdvanced.label "Advanced...">
+<!ENTITY defaultClientAdvanced.accesskey "d">
+
+<!ENTITY windowSettings.label "Mbekanyo ya Fasiṱere">
+<!ENTITY selectWindowLayout.label "Nangani mbonalonyangaredzi ya fasiṱere ine na i fulufhela u itela Meiḽi.">
+<!ENTITY selectWindowLayout.accesskey "N">
+
+<!ENTITY messengerStartPage.label "Siaṱari ḽa u Thoma ḽa &brandShortName;">
+<!ENTITY enableStartPage.label "Musi &brandShortName; ḽi tshi thoma, sumbedzani Siaṱari ḽa u Thoma fhethu ha mulaedza">
+<!ENTITY enableStartPage.accesskey "M">
+<!ENTITY location.label "Vhupo:">
+<!ENTITY location.accesskey "V">
+<!ENTITY useDefault.label "Vhuedzedzani Tshidzivhisi">
+<!ENTITY useDefault.accesskey "V">
+
+<!ENTITY bounceSystemDockIcon.label "Edzanimuthu kha tshiga tsha ḽiṅwalo">
+<!ENTITY bounceSystemDockIcon.accesskey "m">
+
+<!ENTITY newMessagesArrive.label "Musi mulaedza muswa u tshi swika:">
+<!ENTITY playSound.label "Lidzani muungo">
+<!ENTITY playSound.accesskey "L">
+<!ENTITY showAnimatedAlert.label "Sumbedzani tsivhudzo">
+<!ENTITY showAnimatedAlert.accesskey "S">
+<!ENTITY soundbutton.label "Advanced...">
+<!ENTITY soundbutton.accesskey "A">
+
+<!ENTITY showConnections.label "Nzudzanyo ya Vhuṱumani...">
+<!ENTITY showConnections.accesskey "n">
+<!ENTITY proxiesInfo.label "Sumbedza uri &brandShortName; ḽi ṱuma hani kha inthanete.">
+<!ENTITY connectionsInfo.caption "Vhuṱumani">

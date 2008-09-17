@@ -1,0 +1,77 @@
+<!ENTITY itemGeneral.label "Nga u angaredza">
+<!ENTITY itemUpdate.label "Khwinifhadza">
+<!ENTITY itemOffline.label "Nnda ha ḽaini &amp; Tshikhala tsha Disiki">
+<!-- General Settings -->
+
+
+<!ENTITY showCondensedAddresses.label "Sumbedzani anḓadzani dzina ḽa vhathu vhane vha vha kha bugu yanga ya ḓiresi fhedzi">
+<!ENTITY showCondensedAddresses.accesskey "d">
+<!-- LOCALIZATION NOTE (markAsRead.label): This will concatenate with
+     "xxx seconds before marking a message as read", using a number and
+     (markAsReadEnd.label). -->
+
+<!ENTITY markAsRead.label "Imaninyana">
+<!ENTITY markAsRead.accesskey "I">
+<!ENTITY markAsReadEnd.label "dzisekondo musi ni saathu u swaya mulaedza sa vhala">
+<!ENTITY markAsReadEnd.accesskey "d">
+<!ENTITY showFolderColumns.label "Sumbedzani khoḽomu dzo engedzedzwaho kha fasiṱere ḽa foḽuda">
+<!ENTITY showFolderColumns.accesskey "f">
+<!ENTITY rememberLastMsg.label "Humbulani mulaedza wa u fhedzisela u nangiwa">
+<!ENTITY rememberLastMsg.accesskey "n">
+<!ENTITY reuseExp.label "Vulani milaedza miswa kha:">
+<!ENTITY reuseExpRadio0.label "Fasiṱere la mulaedza muswa">
+<!ENTITY reuseExpRadio0.accesskey "s">
+<!ENTITY reuseExpRadio1.label "Fasiṱere ḽa mulaedza une wa vha hone">
+<!ENTITY reuseExpRadio1.accesskey "o">
+<!ENTITY connectionTimeout.label "Ṱhumanyo yo fhelelwa nga tshifhinga: ">
+<!ENTITY connectionTimeout.accesskey "Ṱ">
+<!ENTITY connectionSeconds.label "dzisekondo">
+<!ENTITY configEditDesc.label "Mbekanyo yo Bvelelaho">
+<!ENTITY configEdit.label "Mululamisi Muvhekanyi...">
+<!ENTITY configEdit.accesskey "a">
+<!-- Update -->
+
+<!ENTITY autoCheck.label "Automatically check for updates to:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "h">
+<!ENTITY enableAddonsUpdate.label "Installed Add-ons">
+<!ENTITY enableAddonsUpdate.accesskey "t">
+<!ENTITY checkNow.label "Ṱolani Zwino...">
+<!ENTITY whenUpdatesFound.label "When updates to &brandShortName; are found,">
+<!ENTITY modeAskMe.label "Ask me what I want to do">
+<!ENTITY modeAskMe.accesskey "k">
+<!ENTITY modeAutomatic.label "Automatically download and install the update">
+<!ENTITY modeAutomatic.accesskey "m">
+<!ENTITY modeAutoAddonWarn.label "Warn me if this will disable any of my add-ons">
+<!ENTITY modeAutoAddonWarn.accesskey "W">
+<!ENTITY showUpdates.label "Sumbedzani Khwinifhadzo ya Divhazwakale">
+<!ENTITY showUpdates.accesskey "K">
+<!-- Offline and Disk Space -->
+
+<!ENTITY offline.label "Nnḓa ha ḽaini">
+<!ENTITY textStartUp "Musi ni tshi khou thoma:">
+<!ENTITY radioRememberPrevState "Humbulani nyimele yo fhiraho ya ngomu ḽainini">
+<!ENTITY radioRememberPrevState.accesskey "R">
+<!ENTITY radioAskMe "Mmbudziseni nyimele ya ngomu ḽainini na u thoma">
+<!ENTITY radioAskMe.accesskey "u">
+<!ENTITY radioAlwaysOnline "Tshifhinga tshoṱhe thomani nga ngomu ḽainini">
+<!ENTITY radioAlwaysOnline.accesskey "l">
+
+<!ENTITY textGoingOnline "Ni khou ṱoḓa u rumela milaedza i songo rumelwaho musi ni tshi ya ḽainini?">
+<!ENTITY radioAutoSend "Ee">
+<!ENTITY radioAutoSend.accesskey "Y">
+<!ENTITY radioNotSend "Hai">
+<!ENTITY radioNotSend.accesskey "N">
+<!ENTITY radioAskUnsent "Mmbudziseni">
+<!ENTITY radioAskUnsent.accesskey "s">
+<!ENTITY textGoingOffline "Ni khou ṱoḓa u longela milaedza u itela u shumisa musi ni tshi ya nnḓa ha ḽaini?">
+<!ENTITY radioAutoDownload "Ee">
+<!ENTITY radioAutoDownload.accesskey "e">
+<!ENTITY radioNotDownload "Hai">
+<!ENTITY radioNotDownload.accesskey "o">
+<!ENTITY radioAskDownload "Mmbudziseni">
+<!ENTITY radioAskDownload.accesskey "a">
+<!ENTITY Diskspace "Tshikhala tsha disiki">
+<!ENTITY offlineCompact.label "Kwakwanyedzani dzifoḽuda musi I tshi ḓo vhulunga nga nṱha">
+<!ENTITY offlineCompact.accesskey "l">
+<!ENTITY kb.label "KB">

@@ -1,0 +1,17 @@
+<!ENTITY virtualFolderProperties.title "Foluda Ntswa ya zwe na Ṱoḓa zwo Vhulungwaho">
+<!ENTITY name.label "Dzina:">
+<!ENTITY name.accesskey "d">
+<!ENTITY description.label "Vhumbani sa foluda ṱhukhu ya:">
+<!ENTITY description.accesskey "V">
+<!ENTITY searchCriteriaText.label "Khwinifhadzani maitele a u toda o shumiswaho kha hezwi zwe na toda zwo vhulungwaho:">
+<!ENTITY searchCriteriaButton.label "Ṱodani Maitele...">
+<!ENTITY searchCriteriaButton.accesskey "Ṱ">
+
+<!ENTITY searchTermCaption.label "Vhekanyani maitele a u toda o shumiswaho kha hei foluda ya zwe na toda zwo vhulungwaho: ">
+
+<!ENTITY folderSelectionCaption.label "Ṋangani foluda dzine na khou toda u dzi toda: ">
+<!ENTITY chooseFoldersButton.label "Nangani...">
+<!ENTITY chooseFoldersButton.accesskey "a">
+
+<!ENTITY searchOnline.label "U Ṱoḓa Lainini (Zwi ni fha mvelele dzo fhelelaho dza IMAP na foluda Ntswa fhedzi zwi engedza tshifhinga tsha u vula foluda)">
+<!ENTITY searchOnline.accesskey "L">

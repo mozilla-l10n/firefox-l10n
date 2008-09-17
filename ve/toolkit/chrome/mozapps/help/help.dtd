@@ -1,0 +1,47 @@
+<!ENTITY printCmd.commandkey "p">
+
+<!ENTITY findOnCmd.commandkey "F">
+<!ENTITY findAgainCmd.commandkey "G">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY backButton.label "Murahu">
+<!ENTITY backButton.accesskey "M">
+<!ENTITY backButton.tooltip "Humelani murahu siaṱari ḽithihi">
+<!ENTITY forwardButton.label "Phanḓa">
+<!ENTITY forwardButton.accesskey "P">
+<!ENTITY forwardButton.tooltip "Iyani phanḓa siaṱari ḽithihi">
+<!ENTITY copyCmd.label "Copy">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY selectAllCmd.label "Select All">
+<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY goBackCmd.commandkey "[">
+<!ENTITY goForwardCmd.commandkey "]">
+<!ENTITY homeButton.label "Hayani">
+<!ENTITY homeButton.tooltip "Iyani kha Siaṱari ḽa Thusani u Thoma">
+<!ENTITY printButton.label "Ganḓisani">
+<!ENTITY printButton.tooltip "Ganḓisani heḽi siaṱari">
+<!ENTITY closeWindow.commandkey "W">
+
+<!ENTITY throbberItem.title "Tshisumbedzi tsha mushumo">
+<!ENTITY throbber.tooltip "Iyani kha Thuso kha sekisheni ya Thuso">
+
+<!ENTITY searchtab.label "Ṱoḓani">
+<!ENTITY searchtab.accesskey "Ṱ">
+<!ENTITY toctab.label "Zwire Ngomu">
+<!ENTITY toctab.accesskey "Z">
+
+<!ENTITY textZoomReduceCmd.commandkey "-">
+<!ENTITY textZoomEnlargeCmd.commandkey "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY textZoomResetCmd.commandkey "0">
+
+<!ENTITY helpSearch.commandkey "k">
+
+<!ENTITY zLevel.label "Tshifhinga tshoṱhe nga Nṱha">
+<!ENTITY zLevel.accesskey "N">
+
+<!ENTITY textZoomReduceBtn.label "Fhungudzani Muelo wa Ḽiṅwalwa">
+<!ENTITY textZoomReduceBtn.accesskey "F">
+<!ENTITY textZoomEnlargeBtn.label "Engedzani Muelo wa Ḽiṅwalwa">
+<!ENTITY textZoomEnlargeBtn.accesskey "E">

@@ -1,0 +1,22 @@
+<!-- extracted from am-advanced.xul -->
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpServer.label "Nzudzanyo ya Seva ine ya khou Bva (SMTP)">
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpDesc.label "Naho ni tshi kha bula seva ine ya khou ya nnḓa ine ya fhira nthihi (SMTP), hezwi zwi eletshedzwa fhedzi vhashumisi vho bvelelaho. U Dzudzanya seva nnzhi dza SMTP zwi nga vhanga vhukhakhai musi ni tshi khou rumela milaedza.">
+
+<!ENTITY smtpListAdd.label "Engedzani...">
+<!ENTITY smtpListAdd.accesskey "e">
+<!ENTITY smtpListEdit.label "Dzudzanyani...">
+<!ENTITY smtpListEdit.accesskey "D">
+<!ENTITY smtpListDelete.label "Bvisani">
+<!ENTITY smtpListDelete.accesskey "b">
+<!ENTITY smtpListSetDefault.label "Dzudzanyani Tshidzivhiswa">
+<!ENTITY smtpListSetDefault.accesskey "d">
+
+<!ENTITY serverDescription.label "Ṱhaluso: ">
+<!ENTITY serverName.label "Dzina ḽa Seva: ">
+<!ENTITY serverPort.label "Photho: ">
+<!ENTITY userName.label "Dzina ḽa Mushumisi: ">
+<!ENTITY useSecureConnection.label "Ṱhumanyo yo khwaṱhaho: ">

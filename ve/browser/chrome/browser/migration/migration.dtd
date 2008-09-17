@@ -1,0 +1,51 @@
+
+<!ENTITY migrationWizard.title "Wizathi yo Ṱundiwaho">
+
+<!ENTITY importFrom.label "Khetho dza u Ṱunda, Tswayo dza Bugu Ḓivhazwakale, Phasiwede na vhuṅwe vhuṱanzi vhune ha bva kha:">
+<!ENTITY importFromUnix.label "Zwitakalelwa zwo Ṱundiwaho, Tswayo dza Bugu, Ḓivhazwakale, Phasiwede na vhuṅwe vhuṱanzi vhune ha bva kha:">
+<!ENTITY importFromBookmarks.label "Ṱundani Tswayo dza Bugu u bva kha:">
+
+<!ENTITY importFromIE.label "Microsoft Inthanete Explorer">
+<!ENTITY importFromIE.accesskey "M">
+<!ENTITY importFromPhoenix.label "Firefox 0.8, Firebird kana Phoenix">
+<!ENTITY importFromPhoenix.accesskey "P">
+<!ENTITY importFromNothing.label "Ni songo tunda tshithu">
+<!ENTITY importFromNothing.accesskey "N">
+<!ENTITY importFromSeamonkey.label "Netcape 6, 7 kana Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromNetscape4.label "Netcape 4.x">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromOpera.label "Opera">
+<!ENTITY importFromOpera.accesskey "O">
+<!ENTITY importFromCamino.label "Camino">
+<!ENTITY importFromCamino.accesskey "C">
+<!ENTITY importFromSafari.label "Safari">
+<!ENTITY importFromSafari.accesskey "S">
+<!ENTITY importFromOmniWeb.label "OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey "W">
+<!ENTITY importFromICab.label "iCab">
+<!ENTITY importFromICab.accesskey "i">
+<!ENTITY importFromKonqueror.label "Konqueror">
+<!ENTITY importFromKonqueror.accesskey "K">
+<!ENTITY importFromEpiphany.label "Epiphany">
+<!ENTITY importFromEpiphany.accesskey "E">
+<!ENTITY importFromGaleon.label "Galeon">
+<!ENTITY importFromGaleon.accesskey "G">
+<!ENTITY importFromFile.label "U Bva kha Faela">
+<!ENTITY importFromFile.accesskey "U">
+
+<!ENTITY noMigrationSources.label "No programs that contain bookmarks, history or password data could be found.">
+
+<!ENTITY importSource.title "Import Settings and Data">
+<!ENTITY importItems.title "Zwiteṅwa zwa u ṱunḓa">
+<!ENTITY importItems.label "Nangani uri ndi zwifhio zwiteṅwa zwa u ṱunḓa:">
+
+<!ENTITY migrating.title "U Ṱunḓa...">
+<!ENTITY migrating.label "Zwiteṅwa zwitevhelaho zwi khou ṱunḓwa zwa zwino...">
+
+<!ENTITY selectProfile.title "Nangani Mbonwasia">
+<!ENTITY selectProfile.label "Mbonwasia dzi tevhelaho dzi hone uri dzi nga ṱunḓiwa u bva kha:">
+
+<!ENTITY done.title "U ṱunḓa ho Fhela">
+<!ENTITY done.label "Zwiteṅwa zwi tevhelaho zwo ṱunḓiwa zwavhuḓi:">
+

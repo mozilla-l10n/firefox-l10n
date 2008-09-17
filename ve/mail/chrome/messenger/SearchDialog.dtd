@@ -1,0 +1,75 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label "Todani milaedza kha:">
+<!ENTITY searchHeading.accesskey "t">
+<!ENTITY searchSubfolders.label "Todani foluda thukhu">
+<!ENTITY searchSubfolders.accesskey "t">
+<!ENTITY resetButton.label "Fhelisani">
+<!ENTITY resetButton.accesskey "F">
+<!ENTITY optionsButton.label "Dzikhetho">
+<!ENTITY closeButton.label "Valani">
+<!ENTITY openButton.label "Vulani">
+<!ENTITY openButton.accesskey "v">
+<!ENTITY deleteButton.label "Thuthani">
+<!ENTITY deleteButton.accesskey "T">
+<!ENTITY searchDialogTitle.label "Todani Milaedza">
+<!ENTITY conditionDesc.label "Todani milaedza ine ya elena na:">
+<!ENTITY conditions.label "Maitele">
+<!ENTITY results.label "Mvelele">
+<!ENTITY fileHereMenu.label "Faelani Hafha">
+<!ENTITY fileHereMenu.accesskey "F">
+<!ENTITY fileButton.label "Faela">
+<!ENTITY fileButton.accesskey "f">
+<!ENTITY closeCmd.key "W">
+<!ENTITY goToFolderButton.label "Vulani Foluda ya Mulaedza">
+<!ENTITY goToFolderButton.accesskey "f">
+<!ENTITY saveAsVFButton.label "Save as Search Folder">
+<!ENTITY saveAsVFButton.accesskey "v">
+<!-- for ABSearchDialog.xul -->
+
+<!ENTITY abSearchHeading.label "Search in:">
+<!ENTITY abSearchHeading.accesskey "h">
+<!ENTITY propertiesButton.label "Vhuvha">
+<!ENTITY propertiesButton.accesskey "V">
+<!ENTITY composeButton.label "Nwalani">
+<!ENTITY composeButton.accesskey "N">
+<!ENTITY abSearchDialogTitle.label "U Toda Bugu ya Diresi ho Bvelelaho">
+<!-- Thread Pane -->
+
+<!ENTITY threadColumn.label "Mutevhe">
+<!ENTITY senderColumn.label "Murumeli">
+<!ENTITY recipientColumn.label "Mutanganedzi">
+<!ENTITY subjectColumn.label "Thero">
+<!ENTITY dateColumn.label "Duvha">
+<!ENTITY priorityColumn.label "Ndeme">
+<!ENTITY tagsColumn.label "Tags">
+<!ENTITY accountColumn.label "Mbalelano">
+<!ENTITY statusColumn.label "Maimo">
+<!ENTITY sizeColumn.label "Muelo">
+<!ENTITY junkStatusColumn.label "Tshiimo tsha zwi si na mushumo">
+<!ENTITY linesColumn.label "Dzilaini">
+<!ENTITY unreadColumn.label "I Songo Vhalwaho">
+<!ENTITY totalColumn.label "Tshivhalo-Guṱe">
+<!ENTITY readColumn.label "Vhalani">
+<!ENTITY starredColumn.label "Starred">
+<!ENTITY locationColumn.label "Vhupo">
+<!ENTITY idColumn.label "Ndaela yo Ṱanganedzwa">
+<!-- Thread Pane Tooltips -->
+
+<!ENTITY columnChooser.tooltip "Kilikani u itela u nanga kholomu dza u ṱana">
+<!ENTITY threadColumn.tooltip "Kilikani u itela u tana mutevhe wa milaedza">
+<!ENTITY senderColumn.tooltip "Kilikani u itela u dzudzanya u ya nga murumeli">
+<!ENTITY recipientColumn.tooltip "Kilikani u itela u dzudzanya nga muṱanganedzi">
+<!ENTITY subjectColumn.tooltip "Kilikani u itela u dzudzanya nga thero">
+<!ENTITY dateColumn.tooltip "Kilikani u itela u dzudzanya nga ḓuvha">
+<!ENTITY priorityColumn.tooltip "Kilikani u itela u dzudzanya nga ndeme">
+<!ENTITY tagsColumn.tooltip "Click to sort by tags">
+<!ENTITY accountColumn.tooltip "Kilikani u itela u dzudzanya nga mbalelano">
+<!ENTITY statusColumn.tooltip "Kilikani u itela u dzudzanya nga maimo">
+<!ENTITY sizeColumn.tooltip "Kilikani u itela u dzudzanya nga muelo">
+<!ENTITY junkStatusColumn.tooltip "Kilikani u itela u dzudzanya tshiimo tsha zwi si na mushumo">
+<!ENTITY unreadColumn.tooltip "Tshivhalo tsha milaedza i songo vhaliwaho kha mutevhe">
+<!ENTITY totalColumn.tooltip "Tshivhalo gute tsha milaedza vhaliwaho kha mutevhe">
+<!ENTITY readColumn.tooltip "Kilikani u itela u dzudzanya nga u vhala">
+<!ENTITY starredColumn.tooltip "Click to sort by star">
+<!ENTITY locationColumn.tooltip "Kilikani u itela u dzudzanya nga vhupo">
+<!ENTITY idColumn.tooltip "Kilikani u itela u dzudzanya nga ndaela yo ṱanganedzwaho">
