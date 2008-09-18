@@ -50,7 +50,7 @@
 <!ENTITY pref.calendar.alarms.sound.preview.label "Spill av">
 <!ENTITY pref.calendar.alarms.sound.preview.accessKey "p">
 <!ENTITY pref.showalarmbox "Vis alarmboks">
-<!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "e">
+<!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "m">
 <!ENTITY pref.missedalarms "Vis tapte alarmer">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "a">
 <!ENTITY pref.calendar.alarms.defaults.label "Standardalarmer">
