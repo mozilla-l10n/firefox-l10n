@@ -5,20 +5,24 @@
 
 <!-- General Settings -->
 
-<!ENTITY showCondensedAddresses.label  "Mostrar solamente el nombre para personas de mi libreta de direcciones">
+<!ENTITY showCondensedAddresses.label  "Mostrar solamente el nombre para las personas de mi libreta de direcciones">
 <!ENTITY showCondensedAddresses.accesskey "p">
 
-<!-- LOCALIZATION NOTE (markAsRead.label): This will concatenate with
-     "xxx seconds before marking a message as read", using a number and
-     (markAsReadEnd.label). -->
-<!ENTITY markAsRead.label              "Esperar">
-<!ENTITY markAsRead.accesskey          "E">
-<!ENTITY markAsReadEnd.label           "segundos antes de marcar un mensaje como leído">
+<!ENTITY autoMarkAsRead.label          "Marcar automáticamente como leído">
+<!ENTITY autoMarkAsRead.accesskey      "A">
+<!ENTITY markAsReadNoDelay.label       "Inmediatamente al mostrarlo">
+<!ENTITY markAsReadNoDelay.accesskey   "d">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "Después de mostrarlo por ">
+<!ENTITY markAsReadDelay.accesskey     "e">
+<!ENTITY secondsLabel.label            "segundos">
 <!ENTITY showFolderColumns.label       "Mostrar columnas expandidas en la vista de carpetas">
 <!ENTITY showFolderColumns.accesskey   "x">
 <!ENTITY rememberLastMsg.label         "Recordar el último mensaje seleccionado">
 <!ENTITY rememberLastMsg.accesskey     "j">
-<!ENTITY openMsgIn.label               "Abrir menajes en:">
+<!ENTITY openMsgIn.label               "Abrir los menajes en:">
 <!ENTITY reuseExpRadio0.label          "Una nueva ventana de mensaje">
 <!ENTITY reuseExpRadio0.accesskey      "i">
 <!ENTITY reuseExpRadio1.label          "Una ventana de mensaje existente">
@@ -31,7 +35,7 @@
 <!ENTITY configEditDesc.label          "Configuración avanzada">
 <!ENTITY configEdit.label              "Editor de configuración...">
 <!ENTITY configEdit.accesskey          "g">
-<!ENTITY returnReceiptsInfo.label      "Determine como &brandShortName; maneja los avisos de recepción">
+<!ENTITY returnReceiptsInfo.label      "Determine cómo &brandShortName; maneja los avisos de recepción">
 <!ENTITY showReturnReceipts.label      "Avisos de recepción...">
 <!ENTITY showReturnReceipts.accesskey  "R">
 
@@ -49,7 +53,7 @@
 <!ENTITY modeAutomatic.accesskey        "d">
 <!ENTITY modeAutoAddonWarn.label             "Advertirme si se deshabilitarán extensiones o temas">
 <!ENTITY modeAutoAddonWarn.accesskey         "v">
-<!ENTITY showUpdates.label              "Mostrar historial de actualizaciones">
+<!ENTITY showUpdates.label              "Mostrar el historial de actualizaciones">
 <!ENTITY showUpdates.accesskey          "u">
 
 <!-- Networking and Disk Space -->
@@ -68,12 +72,12 @@
 <!ENTITY kb.label "KB">
 
 <!-- Certificates -->
-<!ENTITY certificatesInfo.label         "Administrar certificados, listas de revocación, verificación de certificados y dispositios de seguridad.">
+<!ENTITY certificatesInfo2.label        "Administrar certificados, listas de revocación, validación de certificados y dispositivos de seguridad.">
 <!ENTITY viewCertificates.label         "Ver certificados">
 <!ENTITY viewCertificates.accesskey     "a">
 <!ENTITY viewCRLs.label                 "Listas de revocación">
 <!ENTITY viewCRLs.accesskey             "e">
-<!ENTITY viewOCSP.label                 "Verificación">
-<!ENTITY viewOCSP.accesskey             "f">
+<!ENTITY validation.label               "Validación">
+<!ENTITY validation.accesskey           "d">
 <!ENTITY viewSecurityDevices.label      "Dispositivos de seguridad">
 <!ENTITY viewSecurityDevices.accesskey  "u">

@@ -1,9 +1,11 @@
 <!ENTITY  connectionsDialog.title       "Opciones de conexión">
 <!ENTITY  window.width                   "37em">
 
-<!ENTITY  proxyTitle.label              "Configurar proxys para acceder a Internet">
-<!ENTITY  directTypeRadio.label         "Conexión directa a Internet">
-<!ENTITY  directTypeRadio.accesskey     "d">
+<!ENTITY  proxyTitle.label              "Configurar proxies para acceder a Internet">
+<!ENTITY  noProxyTypeRadio.label        "Sin proxy">
+<!ENTITY  noProxyTypeRadio.accesskey    "y">
+<!ENTITY  systemTypeRadio.label         "Usar la configuración de proxy del sistema">
+<!ENTITY  systemTypeRadio.accesskey     "u">
 <!ENTITY  WPADTypeRadio.label           "Detectar automáticamente la configuración del proxy para esta red">
 <!ENTITY  WPADTypeRadio.accesskey       "y">
 <!ENTITY  manualTypeRadio.label         "Configuración manual de proxy:">
@@ -26,12 +28,11 @@
 <!ENTITY  socks4.accesskey              "k">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-<!ENTITY  port.label                    "Puerto:">
+<!ENTITY  HTTPport.label                "Puerto:">
 <!ENTITY  HTTPport.accesskey            "p">
+<!ENTITY  SSLport.label                 "Puerto:">
 <!ENTITY  SSLport.accesskey             "o">
-<!ENTITY  FTPport.accesskey             "r">
-<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY  gopherPort.accesskey          "">
+<!ENTITY  SOCKSport.label               "Puerto:">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Sin proxy para:">
 <!ENTITY  noproxy.accesskey             "n">

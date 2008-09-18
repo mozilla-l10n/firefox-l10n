@@ -10,6 +10,8 @@
 <!ENTITY inline.accesskey                     "I">
 <!ENTITY asAttachment.label                   "Como adjunto">
 <!ENTITY asAttachment.accesskey               "A">
+<!ENTITY addExtension.label                   "agregar la extensión al nombre de archivo">
+<!ENTITY addExtension.accesskey               "f">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Tipografía:">
@@ -32,8 +34,6 @@
 <!ENTITY languagePopup.accessKey              "g">
 <!ENTITY downloadDictionaries.label           "Descargar más diccionarios">
 
-<!ENTITY useMIME.label                        "Para mensajes que contengan caracteres en 8-bit, usar codificador MIME 'citas imprimibles' MIME">
-<!ENTITY useMIME.accesskey                    "o">
 <!ENTITY warnOnSendAccelKey.label             "Confirmar cuando se usan atajos de teclados para enviar mensajes">
 <!ENTITY warnOnSendAccelKey.accesskey         "i">
 <!ENTITY autoSave.label                       "Guardar todo automáticamente">
@@ -54,10 +54,10 @@
 <!ENTITY directories.accesskey                 "D">
 <!ENTITY editDirectories.label                 "Editar directorios...">
 <!ENTITY editDirectories.accesskey             "E">
-<!ENTITY matchText.label                       "Si hay una coincidencia en tu libreta de direcciones:">
+<!ENTITY matchText.label                       "Si hay una coincidencia en su libreta de direcciones:">
 <!ENTITY skipDirectory.label                   "No buscar en el directorio">
 
-<!ENTITY sendOptionsCaption.label              "Enviar y opcones de HTML">
+<!ENTITY sendOptionsCaption.label              "Enviar y opciones de HTML">
 <!ENTITY sendOptionsDescription.label          "Configurar el comportamiento del formato de texto">
 <!ENTITY sendOptions.label                     "Opciones de envío...">
-<!ENTITY sendOptions.accesskey                 "S">
+<!ENTITY sendOptions.accesskey                 "O">

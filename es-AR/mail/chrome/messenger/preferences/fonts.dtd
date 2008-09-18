@@ -7,7 +7,7 @@
 <!ENTITY  language.accesskey                      "t">
 
 <!ENTITY  typefaces.label                         "Tipografía">
-<!ENTITY  sizes.label                             "Tamaño (pixels)">
+<!ENTITY  sizes.label                             "Tamaño (pixeles)">
 <!ENTITY  proportionalSize.accesskey              "e">
 <!ENTITY  monospaceSize.accesskey                 "x">
 
@@ -21,7 +21,7 @@
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "m">
 
-<!ENTITY  fontsize.units                          "pixels">
+<!ENTITY  fontsize.units                          "pixeles">
 
 <!ENTITY  font.langGroup.latin1                   "Occidental">
 <!ENTITY  font.langGroup.latin2                   "Europeo central">
@@ -43,13 +43,13 @@
 <!ENTITY  font.langGroup.tamil                    "Tamil">
 <!ENTITY  font.langGroup.armenian                 "Armenio">
 <!ENTITY  font.langGroup.bengali                  "Bengalí">
-<!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
-<!ENTITY  font.langGroup.ethiopic                 "Ethiopic">
-<!ENTITY  font.langGroup.georgian                 "Georgian">
+<!ENTITY  font.langGroup.canadian                 "Silabario canadiense unificado">
+<!ENTITY  font.langGroup.ethiopic                 "Etíope">
+<!ENTITY  font.langGroup.georgian                 "Georgiano">
 <!ENTITY  font.langGroup.gujarati                 "Gujarati">
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
-<!ENTITY  font.langGroup.malayalam                "Malayalam">
+<!ENTITY  font.langGroup.malayalam                "Malayo">
 
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Tamaño mínimo de fuente:">
@@ -65,12 +65,13 @@
 <!ENTITY  useDocumentFonts.label                  "Permitir que los mensajes usen otras tipografías">
 <!ENTITY  useDocumentFonts.accesskey              "o">
 
-<!-- font scaling -->
-<!ENTITY  resolution.label                        "Mostrar resolución:">
-<!ENTITY  resolution.accesskey                    "r">
-<!-- LOCALIZATION NOTE (resolution.dpi): dpi stands for "dots per inch" -->
-<!ENTITY  resolution.dpi                          "dpi">
-<!-- LOCALIZATION NOTE (resolution.dpi): $val will be replaced by a numeric dpi value. -->
-<!ENTITY  resolution.dpival                       "$val &resolution.dpi;">
-<!ENTITY  resolution.system.label                 "Opción del sistema">
-<!ENTITY  resolution.other                        "Otra...">
+<!-- Language settings -->
+<!ENTITY sendDefaultCharset.label         "Correo saliente:">
+<!ENTITY sendDefaultCharset.accesskey     "s">
+<!ENTITY languagesTitle1.label            "Codificación de caracteres">
+<!ENTITY composingDescription.label       "Elija la codificación de caracteres predeterminada para enviar y recibir correo">
+
+<!ENTITY viewDefaultCharsetList.label     "Correo entrante:">
+<!ENTITY viewDefaultCharsetList.accesskey  "e">
+<!ENTITY replyInDefaultCharset2.label     "Usar en las respuestas la codificación de caracteres predeterminada cuando sea posible">
+<!ENTITY replyInDefaultCharset2.accesskey "h">
