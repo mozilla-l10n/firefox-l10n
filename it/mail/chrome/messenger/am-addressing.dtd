@@ -7,6 +7,7 @@
 <!ENTITY editDirectories.accesskey "M">
 <!ENTITY directories.label "Usa un diverso server LDAP:">
 <!ENTITY directories.accesskey "d">
+<!ENTITY directoriesNone.label "nessuna">
 <!ENTITY compositionGroupTitle.label "Composizione">
 <!ENTITY useHtml.label "Componi i messaggi in HTML">
 <!ENTITY useHtml.accesskey "C">
