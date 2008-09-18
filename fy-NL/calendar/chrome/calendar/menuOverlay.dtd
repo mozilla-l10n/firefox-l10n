@@ -133,7 +133,7 @@
 <!ENTITY toolbarsMenu.label                     "Arkbalken">
 <!ENTITY toolbarsMenu.accesskey                 "W">
 
-<!ENTITY calendar.toolbar.label                 "Agenda-arkbalke">
+<!ENTITY calendar.toolbar.label                 "Aginda-arkbalke">
 <!ENTITY calendar.toolbar.accesskey             "e">
 <!ENTITY task.toolbar.label                     "Taakarkbalke">
 <!ENTITY task.toolbar.accesskey                 "T">
@@ -156,7 +156,7 @@
 <!ENTITY calendar.displaytodos.checkbox.label       "Taken yn aginda toane">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "T">
 
-<!ENTITY calendar.menu.numberofweeks.label      "Grutte mearwikenoersicht">
+<!ENTITY calendar.menu.numberofweeks.label      "Grut mearwikenoersicht">
 <!ENTITY calendar.menu.numberofweeks.2          "Twa wiken">
 <!ENTITY calendar.menu.numberofweeks.3          "Trije wiken">
 <!ENTITY calendar.menu.numberofweeks.4          "Fjouwer wiken">

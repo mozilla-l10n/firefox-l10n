@@ -53,18 +53,18 @@
 <!ENTITY  event.menu.file.close.label                     "Slute">
 <!ENTITY  event.menu.file.close.accesskey                 "S">
 <!ENTITY  event.menu.file.save.label                      "Bewarje">
-<!ENTITY  event.menu.file.save.accesskey                  "O">
+<!ENTITY  event.menu.file.save.accesskey                  "w">
 <!ENTITY  event.menu.file.page.setup.label                "Side-ynstellings">
 <!ENTITY  event.menu.file.page.setup.accesskey            "i">
 <!ENTITY  event.menu.file.print.label                     "Ofdrukke">
 <!ENTITY  event.menu.file.print.accesskey                 "d">
 <!ENTITY  event.menu.file.exit.label                      "Ofslute">
-<!ENTITY  event.menu.file.exit.accesskey                  "A">
+<!ENTITY  event.menu.file.exit.accesskey                  "O">
 
 <!ENTITY  event.menu.edit.label                           "Bewurkje">
 <!ENTITY  event.menu.edit.accesskey                       "w">
 <!ENTITY  event.menu.edit.undo.label                      "Ungedien meitsje">
-<!ENTITY  event.menu.edit.undo.accesskey                  "O">
+<!ENTITY  event.menu.edit.undo.accesskey                  "U">
 <!ENTITY  event.menu.edit.redo.label                      "Op 'e nij útfiere">
 <!ENTITY  event.menu.edit.redo.accesskey                  "u">
 <!ENTITY  event.menu.edit.cut.label                       "Knippe">
@@ -82,7 +82,7 @@
 <!ENTITY  event.menu.view.toolbars.accesskey              "A">
 <!ENTITY  event.menu.view.toolbars.event.label            "Barrenarkbalke">
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "B">
-<!ENTITY  event.menu.view.toolbars.customize.label        "Oanpassen…">
+<!ENTITY  event.menu.view.toolbars.customize.label        "Oanpasse…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "O">
 <!ENTITY  event.menu.view.showlink.label                  "Byhearende keppeling toane">
 <!ENTITY  event.menu.view.showlink.accesskey              "k">
@@ -100,7 +100,7 @@
 <!ENTITY  event.menu.options.link.label                       "Keppeling tafoegje…">
 <!ENTITY  event.menu.options.link.accesskey                   "K">
 <!ENTITY  event.menu.options.timezone.label                   "Tiidsoane">
-<!ENTITY  event.menu.options.timezone.accesskey               "z">
+<!ENTITY  event.menu.options.timezone.accesskey               "s">
 <!ENTITY  event.menu.options.priority2.label                  "Prioriteit">
 <!ENTITY  event.menu.options.priority2.accesskey              "r">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Net spesifisearre">
@@ -153,7 +153,7 @@
 <!ENTITY event.title.textbox.label                        "Titel:" >
 <!ENTITY event.title.textbox.accesskey                    "T">
 <!ENTITY event.location.label                             "Lokaasje:" >
-<!ENTITY event.location.accesskey                         "i">
+<!ENTITY event.location.accesskey                         "a">
 <!ENTITY event.categories.label                           "Kategorie:">
 <!ENTITY event.categories.accesskey                       "K">
 <!ENTITY event.calendar.label                             "Aginda:" >
@@ -216,7 +216,7 @@
 <!ENTITY event.repeat.daily.label                       "Daagliks">
 <!ENTITY event.repeat.weekly.label                      "Wikeliks">
 <!ENTITY event.repeat.every.weekday.label               "Elke wikedei">
-<!ENTITY event.repeat.bi.weekly.label                   "Twawikliks">
+<!ENTITY event.repeat.bi.weekly.label                   "Twawikeliks">
 <!ENTITY event.repeat.monthly.label                     "Moanneliks">
 <!ENTITY event.repeat.yearly.label                      "Ierliks">
 <!ENTITY event.repeat.custom.label                      "Oanpast…">
@@ -326,7 +326,7 @@
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label              "Dielnimmers útnoegje">
 <!ENTITY event.organizer.label           "Organisator">
-<!ENTITY event.freebusy.suggest.slot     "Frije plak foarstelle:">
+<!ENTITY event.freebusy.suggest.slot     "Frij plak foarstelle:">
 <!ENTITY event.freebusy.next.slot        "Folgjende frije plak " >
 <!ENTITY event.freebusy.previous.slot    " Foarige frije plak" >
 <!ENTITY event.freebusy.zoom             "Zoomen:">

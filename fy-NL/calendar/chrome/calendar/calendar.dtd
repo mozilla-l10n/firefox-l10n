@@ -48,7 +48,7 @@
 <!ENTITY calendar.calendar.accesskey "A">
 
 
-<!ENTITY calendar.confirm.deleteallevents  "Witte jo seker dat jo alle selektearre barres fuortsmite wolle?" >
+<!ENTITY calendar.confirm.deleteallevents  "Witte jo seker dat jo alle selektearre barrens fuortsmite wolle?" >
 <!ENTITY calendar.confirm.deleteevent "Witte jo seker dat jo it folgjende barren fuortsmite wolle: " >
 <!ENTITY calendar.confirm.deleteuntitledevent "Witte jo seker dat jo it folgjende nammeleaze barren fuortsmite wolle?" >
 
@@ -105,8 +105,8 @@
 <!ENTITY calendar.unifinder.close.tooltip            "Barrens sykje en barrenslist slute">
 <!ENTITY calendar.find.key  "F">
 
-<!ENTITY calendar.today.button.tooltip            "Naei hjoed gean" >
-<!ENTITY calendar.todaypane.button.tooltip        "Finster Hjoed toanen" >
+<!ENTITY calendar.today.button.tooltip            "Nei hjoed gean" >
+<!ENTITY calendar.todaypane.button.tooltip        "Finster Hjoed toane" >
 <!ENTITY calendar.choosedate.button.tooltip       "Datum kieze om nei ta te gean" >
 <!ENTITY calendar.unifinder.button.tooltip        "Barrens sykje en toane" >
 
@@ -141,7 +141,7 @@
 
 <!ENTITY calendar.import.button.tooltip            "Barrens ymportearje út in lokaal bestân" >
 <!ENTITY calendar.export.button.tooltip            "Barrens eksportearje nei in lokaal bestân" >
-<!ENTITY calendar.subscribe.button.tooltip         "Aanmelden by in agindabestân op in oare masine" >
+<!ENTITY calendar.subscribe.button.tooltip         "Oanmelde by in agindabestân op in oare masine" >
 <!ENTITY calendar.publish.button.tooltip           "Barrens publisearje nei in oare masine" >
 
 <!ENTITY calendar.export.calendar                "Aginda eksportearje…" >
@@ -248,7 +248,7 @@
 <!ENTITY calendar.context.deletethisevent.accesskey   "D">
 <!ENTITY calendar.context.deletecompleteseries.label  "Folsleine reeks">
 <!ENTITY calendar.context.deletecompleteseries.accesskey   "r">
-<!ENTITY calendar.context.deletefutureevents.label     "Alle takomstige barren">
+<!ENTITY calendar.context.deletefutureevents.label     "Alle takomstige barrens">
 <!ENTITY calendar.context.deletefutureevents.accesskey "t">
 <!ENTITY calendar.context.deletefuturetasks.label     "Alle takomstige taken">
 <!ENTITY calendar.context.deletefuturetasks.accesskey "t">
@@ -310,7 +310,7 @@
 <!ENTITY calendar.context.properties.label             "Eigenskippen">
 <!ENTITY calendar.context.properties.accesskey         "E">
 
-<!ENTITY calendar.context.convertmenu.label               "Konvertearje nei">
+<!ENTITY calendar.context.convertmenu.label               "Konfertearje nei">
 <!ENTITY calendar.context.convertmenu.accesskey.mail      "n">
 <!ENTITY calendar.context.convertmenu.accesskey.calendar  "K">
 <!ENTITY calendar.context.convertmenu.event.label         "Barren…">
@@ -397,7 +397,7 @@
 <!ENTITY calendar.error.detail "Details…">
 <!ENTITY calendar.error.number "Flaternûmer:">
 <!ENTITY calendar.error.description "Beskriuwing:">
-<!ENTITY calendar.error.title "Der is in flater bart">
+<!ENTITY calendar.error.title "Der is in flater bard">
 
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
