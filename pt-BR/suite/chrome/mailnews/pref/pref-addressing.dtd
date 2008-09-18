@@ -15,4 +15,4 @@
 <!ENTITY editDirectories.accesskey "E">
 <!ENTITY matchText.label "Se houver um contato no seu catálogo local de endereços:">
 <!ENTITY skipDirectory.label "Não pesquisar no diretório">
-<!ENTITY directoriesNone.label                 "None">
+<!ENTITY directoriesNone.label "Nenhum">

@@ -34,6 +34,7 @@
 <!ENTITY images.label "Imagens">
 <!ENTITY locationBar.label "Barra de endereços">
 <!ENTITY popups.label "Janelas popup">
+<!ENTITY passwords.label "Senhas">
 
 
 <!-- Should be removed soon -->
@@ -42,4 +43,3 @@
 <!ENTITY  ssl.label                    "SSL">
 <!ENTITY  certs.label                  "Certificados">
 <!ENTITY  validation.label             "Validação">
-<!ENTITY passwords.label "Passwords">

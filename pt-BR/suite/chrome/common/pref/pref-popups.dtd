@@ -16,8 +16,8 @@
 <!ENTITY displayIcon.label "Exibir um ícone na barra de status">
 <!ENTITY displayIcon.accesskey "x">
 <!ENTITY popupNote.description 'NOTA: O bloqueio total de popups pode impedir o carregamento de algumas páginas - como janelas de login. Para desbloquear sites rapidamente, use o menu "Ferramentas" - "Popups". Mesmo se bloqueados, sites podem usar outros métodos para abrir janelas.'>
-<!ENTITY customSound.accesskey          "C">
-<!ENTITY customSound.label              "Custom sound file">
-<!ENTITY selectSound.filter             "Sounds">
-<!ENTITY systemSound.accesskey          "S">
-<!ENTITY systemSound.label              "System beep">
+<!ENTITY customSound.label              "Arquivo de som personalizado">
+<!ENTITY customSound.accesskey          "A">
+<!ENTITY selectSound.filter             "Sons">
+<!ENTITY systemSound.label              "Beep do sistema">
+<!ENTITY systemSound.accesskey          "B">
