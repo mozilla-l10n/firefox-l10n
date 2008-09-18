@@ -44,7 +44,7 @@
 <!ENTITY manualMarkModeMove.label       "Diese in den &quot;Junk&quot;-Ordner des Accounts verschieben">
 <!ENTITY manualMarkModeMove.accesskey   "D">
 <!ENTITY manualMarkModeDelete.label     "Diese löschen">
-<!ENTITY manualMarkModeDelete.accesskey "D">
+<!ENTITY manualMarkModeDelete.accesskey "s">
 
 <!ENTITY markAsRead.intro               "Nachrichten als gelesen markieren:">
 <!ENTITY autoMarkAsRead.label           "Wenn &brandShortName; sie als Junk erkennt">

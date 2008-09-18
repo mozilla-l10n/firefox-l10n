@@ -40,7 +40,7 @@
 <!ENTITY confirmMove.label                "Bestätigung beim Verschieben von Ordnern in den Papierkorb">
 <!ENTITY confirmMove.accesskey            "B">
 <!ENTITY useMessenger.label               "Bei MAPI-basierten Anwendungen Mail verwenden">
-<!ENTITY useMessenger.accesskey           "B">
+<!ENTITY useMessenger.accesskey           "e">
 <!ENTITY autounzip.label                  "Zip-Dateien bim Speichern von Attachments automatisch entpacken">
 <!ENTITY autounzip.accesskey              "Z">
 <!ENTITY preserveThreading.label          "Threads beim Sortieren erhalten">
@@ -54,7 +54,7 @@
 
 <!ENTITY messengerStartPage.caption       "Mail-Startseite">
 <!ENTITY enableStartPage.label            "Beim Aufrufen von Mail die Startseite im Nachrichtenbereich anzeigen">
-<!ENTITY enableStartPage.accesskey        "B">
+<!ENTITY enableStartPage.accesskey        "u">
 <!ENTITY location.label                   "Adresse:">
 <!ENTITY location.accesskey               "A">
 <!ENTITY useDefault.label                 "Auf Standard zurücksetzen">
@@ -63,12 +63,12 @@
 <!ENTITY rememberLastMsg.accesskey        "D">
 <!ENTITY toolbarIntro.caption             "Wählen Sie jene Schaltflächen, die in der Symbolleiste angezeigt werden sollen">
 <!ENTITY fileButton.label                 "Ablegen">
-<!ENTITY fileButton.accesskey             "D">
+<!ENTITY fileButton.accesskey             "g">
 <!ENTITY nextButton.label                 "Nächste">
 <!ENTITY nextButton.accesskey             "N">
 <!ENTITY junkMailButton.label             "Junk">
 <!ENTITY junkMailButton.accesskey         "J">
 <!ENTITY printButton.label                "Drucken">
-<!ENTITY printButton.accesskey            "D">
+<!ENTITY printButton.accesskey            "c">
 <!ENTITY stopButton.label                 "Stopp">
-<!ENTITY stopButton.accesskey             "S">
+<!ENTITY stopButton.accesskey             "o">
