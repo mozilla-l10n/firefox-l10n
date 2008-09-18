@@ -1,7 +1,5 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Para economizar espaço em disco, não receber:">
 <!ENTITY doNotDownload.label "Para economizar espaço em disco, não receber para leitura em modo desconectado:">
-<!ENTITY offlineNewFolder.label "Selecionar pastas para leitura em modo desconectado ao criar">
-<!ENTITY offlineNewFolder.accesskey "c">
 <!ENTITY offlineNotDownload.label "Mensagens com mais de">
 <!ENTITY offlineNotDownload.accesskey "A">
 <!ENTITY kb.label "KB">
@@ -24,16 +22,12 @@
 <!ENTITY nntpRemoveBody.label "Apenas o conteúdo de mensagens com menos de">
 <!ENTITY nntpRemoveBody.accesskey "C">
 <!ENTITY offlineSelectNntp.label "Newsgroups para leitura em modo desconectado...">
-<!ENTITY offlineSelectImap.label "Pastas para leitura em modo desconectado...">
+<!ENTITY offlineSelectNntp.accesskey "N">
 <!ENTITY offlineDesc.label "Você pode receber mensagens localmente para lê-las quando estiver em modo desconectado.">
-<!ENTITY makeInboxMsgsAvailable.label "Disponibilizar as mensagens na pasta Entrada ao desconectar">
-<!ENTITY makeInboxMsgsAvailable.accesskey "a">
 <!ENTITY offlineGroupTitle.label "Modo desconectado">
 <!ENTITY diskspaceGroupTitle.label "Espaço em disco">
-<!ENTITY offlineSelectImap.accesskey "w">
-<!ENTITY offlineSelectNntp.accesskey "P">
-<!ENTITY allFoldersOffline.accesskey "o">
-<!ENTITY allFoldersOffline.label "Keep messages for this account on this computer">
+<!ENTITY allFoldersOffline.label "Manter mensagens desta conta no computador">
+<!ENTITY allFoldersOffline.accesskey "M">
+<!ENTITY offlineImapAdvancedOffline.label "Avançado…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
-<!ENTITY offlineImapAdvancedOffline.label "Advanced…">
-<!ENTITY syncGroupTitle.label "Message Synchronizing">
+<!ENTITY syncGroupTitle.label "Sincronização de mensagens">

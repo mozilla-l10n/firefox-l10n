@@ -9,7 +9,6 @@
 <!ENTITY languages.customize.addButton.accesskey "A">
 <!ENTITY languages.customize.deleteButton.label "Excluir">
 <!ENTITY languages.customize.deleteButton.accesskey "X">
-<!ENTITY languages.customize.title.label "Personalizar idiomas">
 <!ENTITY languages.customize.add.title.label "Adicionar idiomas">
 <!ENTITY languages.customize.left.header "Codificação">
 <!ENTITY charset.customize.right.header "Selecione as codificações suportadas">
@@ -39,4 +38,4 @@
 <!ENTITY dontCheckSpelling.label "Nunca">
 <!ENTITY multilineCheckSpelling.label "Em caixas de texto de múltiplas linhas">
 <!ENTITY alwaysCheckSpelling.label "Em todas as caixas de texto">
-<!ENTITY languages.customize.title                      "Languages">
+<!ENTITY languages.customize.title "Idiomas">
