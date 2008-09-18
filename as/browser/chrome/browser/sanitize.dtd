@@ -1,0 +1,24 @@
+<!ENTITY sanitizeDialog.title         "ব্যক্তিগত তথ্য পৰিষ্কাৰ কৰক">
+
+<!ENTITY sanitizeItems.label          "নিম্নলিখিত বস্তু এতিয়াই পৰিষ্কাৰ কৰক:">
+<!ENTITY clearDataSettings.label      "মই &brandShortName; ক মোৰ ব্যক্তিগত তথ্য পৰিষ্কাৰ কৰিব ক'লে, সি আঁতৰাব লাগে:">
+
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+<!ENTITY itemHistory.label            "চৰণ কৰাৰ ইতিহাস">
+<!ENTITY itemHistory.accesskey        "B">
+<!ENTITY itemFormSearchHistory.label  "ৰক্ষা কৰা ফৰ্ম আৰু বিচৰাৰ ইতিহাস">
+<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemPasswords.label          "ৰক্ষা কৰা গুপ্তশব্দসমূহ">
+<!ENTITY itemPasswords.accesskey      "P">
+<!ENTITY itemCookies.label            "কুকিসমূহ">
+<!ENTITY itemCookies.accesskey        "C">
+<!ENTITY itemCache.label              "কেছে">
+<!ENTITY itemCache.accesskey          "a">
+<!ENTITY itemOfflineApps.label        "অফ-লাইন ৱেব ছাইটৰ তথ্য">
+<!ENTITY itemOfflineApps.accesskey    "O">
+<!ENTITY itemDownloads.label          "ডাউনলোডৰ ইতিহাস">
+<!ENTITY itemDownloads.accesskey      "D">
+<!ENTITY itemSessions.label           "আচল বুলি প্ৰমাণ কৰা অধিবেশন">
+<!ENTITY itemSessions.accesskey       "S">
+<!ENTITY window.width                 "30em">

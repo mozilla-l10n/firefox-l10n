@@ -1,0 +1,22 @@
+<!-- extracted from finddialog.xul -->
+
+<!ENTITY findDialog.title "এই পৃষ্ঠাত বিচাৰক">
+<!ENTITY findDialogFrame.title "এই ফ্ৰেমত বিচাৰক">
+<!ENTITY findField.label "কি বিচাৰিব:">
+<!ENTITY findField.accesskey "n">
+<!ENTITY caseSensitiveCheckbox.label "কেচৰ মিল চাওক">
+<!ENTITY caseSensitiveCheckbox.accesskey "c">
+<!ENTITY wrapCheckbox.label "মেৰাই লওক">
+<!ENTITY wrapCheckbox.accesskey "W">
+<!ENTITY backwardsCheckbox.label "পিছলৈ চাওক">
+<!ENTITY backwardsCheckbox.accesskey "b">
+<!ENTITY findField.tooltip "বিচাৰিবলৈ একাধিক শব্দ দিয়ক">
+<!ENTITY findButton.label "ইয়াৰ পিছৰ বিচাৰক">
+<!ENTITY findButton.accesskey "F">
+<!ENTITY cancelButton.label "বাতিল">
+<!ENTITY closeButton.label "বন্ধ কৰক">
+<!ENTITY up.label "Up">
+<!ENTITY up.accesskey "U">
+<!ENTITY down.label "তলৰ">
+<!ENTITY down.accesskey "D">
+<!ENTITY direction.label "দিশ">

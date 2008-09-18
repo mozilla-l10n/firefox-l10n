@@ -1,0 +1,125 @@
+<!--
+# ***** BEGIN LICENSE BLOCK *****
+# Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#
+# The contents of this file are subject to the Mozilla Public License Version
+# 1.1 (the "License"); you may not use this file except in compliance with
+# the License. You may obtain a copy of the License at
+# http://www.mozilla.org/MPL/
+#
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# for the specific language governing rights and limitations under the
+# License.
+#
+# The Original Code is Mozilla Communicator client code.
+#
+# The Initial Developer of the Original Code is Daniel Brooks.
+# Portions created by the Initial Developer are Copyright (C) 2001
+# the Initial Developer. All Rights Reserved.
+#
+# Contributor(s): Daniel Brooks <db48x@yahoo.com>
+#
+# Alternatively, the contents of this file may be used under the terms of
+# either the GNU General Public License Version 2 or later (the "GPL"), or
+# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# in which case the provisions of the GPL or the LGPL are applicable instead
+# of those above. If you wish to allow use of your version of this file only
+# under the terms of either the GPL or the LGPL, and not to allow others to
+# use your version of this file under the terms of the MPL, indicate your
+# decision by deleting the provisions above and replace them with the notice
+# and other provisions required by the LGPL or the GPL. If you do not delete
+# the provisions above, a recipient may use your version of this file under
+# the terms of any one of the MPL, the GPL or the LGPL.
+#
+# ***** END LICENSE BLOCK *****
+-->
+
+
+<!ENTITY  pageInfoWindow.width  "৪২৫">
+<!ENTITY  pageInfoWindow.height "৪৭০">
+
+<!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "নকল কৰক">
+<!ENTITY  copy.accesskey        "C">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "সকলো নিৰ্ব্বাচন কৰক">
+<!ENTITY  selectall.accesskey   "A">
+<!ENTITY  closeWindow.key       "w">
+
+<!ENTITY  generalTab            "সাধাৰণ">
+<!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalURL            "ঠিকনা:">
+<!ENTITY  generalMode           "প্ৰদৰ্শনৰ ধৰণ:">
+<!ENTITY  generalType           "ধৰণ:">
+<!ENTITY  generalSize           "আকাৰ:">
+<!ENTITY  generalReferrer       "উল্লেখ কৰা URL:">
+<!ENTITY  generalSource         "কেছেৰ উৎস:">
+<!ENTITY  generalModified       "সলনি কৰা হ'ল:">
+<!ENTITY  generalEncoding       "ইনকোডিং:">
+<!ENTITY  generalMetaName       "নাম">
+<!ENTITY  generalMetaContent    "বিষয়বস্তু">
+<!ENTITY  generalSecurityMore   "আৰু অধিক">
+<!ENTITY  generalSecurityMore.accesskey "o">
+
+
+<!ENTITY  mediaTab              "মিডিয়া">
+<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaLocation         "স্থান:">
+<!ENTITY  mediaText             "সম্বন্ধিত লিপি:">
+<!ENTITY  mediaHeader           "এই পৃষ্ঠাত থকা প্ৰতিৰূপ">
+<!ENTITY  mediaAltHeader        "বৈকল্পিক আখৰ">
+<!ENTITY  mediaAddress          "ঠিকনা">
+<!ENTITY  mediaType             "ধৰণ">
+<!ENTITY  mediaSize             "আকাৰ">
+<!ENTITY  mediaCount            "গণনা কৰ">
+<!ENTITY  mediaDimension        "আয়তন:">
+<!ENTITY  mediaEncryption       "গুপুত কৰণ:">
+<!ENTITY  mediaLongdesc         "দীঘল বিৱৰণ:">
+<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaSaveAs           "- হিচাপে ৰক্ষা কৰক...">
+<!ENTITY  mediaSaveAs.accesskey "S">
+<!ENTITY  mediaSaveAs2.accesskey "e">
+<!ENTITY  mediaPreview          "মিডিয়াৰ পূৰ্ব প্ৰদৰ্শন:">
+
+<!ENTITY  feedTab               "ফীড">
+<!ENTITY  feedTab.accesskey     "F">
+<!ENTITY  feedSubscribe         "বৰঙনি দিয়ক">
+<!ENTITY  feedSubscribe.accesskey "u">
+
+<!ENTITY  permTab               "অনুমতিসমূহ">
+<!ENTITY  permTab.accesskey     "P">
+<!ENTITY  permUseDefault        "অবিকল্পিত ব্যৱহাৰ কৰক">
+<!ENTITY  permAllow             "অনুমতি দিয়ক">
+<!ENTITY  permAllowSession      "অধিবেশনৰ কাৰণে অনুমতি দিয়ক">
+<!ENTITY  permBlock             "ৰোধ কৰক">
+<!ENTITY  permissionsFor        "-ৰ বাবে অনুমতি:">
+<!ENTITY  permImage             "প্ৰতিমূৰ্ত্তি তোলক">
+<!ENTITY  permPopup             "প'প-আপ সংযোগক্ষেত্ৰ খোলক">
+<!ENTITY  permCookie            "কুকি প্ৰতিষ্ঠা কৰক">
+<!ENTITY  permInstall           "থিম বা সম্প্ৰসাৰণ সংস্থাপন কৰক">
+
+<!ENTITY  securityTab           "সুৰক্ষা">
+<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityHeader        "এই পৃষ্ঠাৰ বাবে সুৰক্ষাৰ তথ্য">
+<!ENTITY  securityView.certView "প্ৰমাণপত্ৰ চাওক">
+<!ENTITY  securityView.accesskey "V">
+<!ENTITY  securityView.unknown   "অজ্ঞাত">
+
+
+<!ENTITY  securityView.identity.header   "ৱেব ছাইটৰ পৰিচয়">
+<!ENTITY  securityView.identity.owner    "গৰাকী: ">
+<!ENTITY  securityView.identity.domain   "ৱেব পৃষ্ঠা: ">
+<!ENTITY  securityView.identity.verifier "-ৰ দ্বাৰা প্ৰমাণিত কৰা হৈছে: ">
+
+<!ENTITY  securityView.privacy.header                   "গোপনীয়তা &amp; ইতিহাস">
+<!ENTITY  securityView.privacy.history                  "Have I visited this web site before today?">
+<!ENTITY  securityView.privacy.cookies                  "Is this web site storing information (cookies) on my computer?">
+<!ENTITY  securityView.privacy.viewCookies              "View Cookies">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.passwords                "Have I saved any passwords for this web site?">
+<!ENTITY  securityView.privacy.viewPasswords            "View Saved Passwords">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+
+<!ENTITY  securityView.technical.header                 "Technical Details">
+

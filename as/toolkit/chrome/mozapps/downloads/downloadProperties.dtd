@@ -1,0 +1,7 @@
+<!ENTITY dateStarted.label      "আৰম্ভ কৰা হ'ল:">
+<!ENTITY dateEnded.label        "অন্ত হ'ল:">
+<!ENTITY window.title           "গুণ">
+<!ENTITY downloadedFrom.label   "-ৰ পৰা:">
+<!ENTITY path.label             "-লৈ:">
+<!ENTITY acceptButton.label     "বন্ধ কৰক">
+<!ENTITY cmd.close.commandKey   "w">

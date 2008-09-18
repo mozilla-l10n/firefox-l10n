@@ -1,0 +1,88 @@
+<!ENTITY loadError.label "পৃষ্ঠা তোলোঁতে ভুল">
+<!ENTITY retry.label "পুনঃ চেষ্টা কৰক">
+
+<!-- Specific error messages -->
+
+<!ENTITY connectionFailure.title "সংযোগ কৰাত বিফল">
+<!ENTITY connectionFailure.longDesc "<p>যদিও ছাইটটো বৈধ, চৰকে সংযোগ কৰিব নোৱাৰিলে ।</p><ul><li>ছাইটটো অস্থায়ীভাবে পোৱা নাযায় নেকি ? পিছত পুনঃ চেষ্টা কৰক ।</li><li>আপুনি অন্য ছাইট চৰিব পৰা নাই নেকি ? কম্পিউটাৰৰ নে'টৱৰ্কৰ সংযোগ পৰীক্ষা কৰক ।</li><li>আপোনাৰ কম্পিউটাৰ বা নে'টৱৰ্ক ফায়াৰৱাল বা নিযুক্তকেৰে সুৰক্ষিত নেকি ? অশুদ্ধ পছন্দই ৱেব চৰণত ব্যাঘাত জন্মাব পাৰে ।</li></ul>">
+
+<!ENTITY deniedPortAccess.title "সুৰক্ষাৰ কাৰণত পৰ্টক সীমাবদ্ধ কৰা হৈছে">
+<!ENTITY deniedPortAccess.longDesc "<p>অনুৰোধ কৰা ঠিকনাত এটা পৰ্ট নিৰ্দ্দিষ্ট কৰা হৈছে (যেনে <q>mozilla.org:80</q> mozilla.org ত  প'ৰ্ট ৮০) যি সাধাৰণতে ৱেব চৰণৰ বাহিৰে <em>অন্যৰ</em>বাবে প্ৰয়োগ কৰা হয় ।  আপোনাৰ নিৰাপত্তা আৰু সুৰক্ষাৰ বাবে চৰকে এই অনুৰোধ বাতিল কৰিছে ।</p>">
+
+<!ENTITY dnsNotFound.title "ঠিকনা পোৱা ন'গ'ল">
+<!ENTITY dnsNotFound.longDesc "<p>দিয়া ধিকনাৰ বাবে চৰকে গৃহস্থ সেৱক বিচাৰি নাপালে ।</p><ul><li>আপুনি ডোমেইন লিখোঁতে ভুল কৰিলে নেকি ? (যেনে <q><strong>ww</strong>.mozilla.org</q> <q><strong>www</strong>.mozilla.org</q> ৰ স্থানত)</li><li>আপুনি নিশ্চিত নে এই ডোমেইন প্ৰস্তুত আছে ?  তাৰ পঞ্জিকৰণ অন্ত হ'ব পাৰে ।</li><li>আপুনি অন্য ছাইট চৰণ কৰিব পৰা নাই নেকি ? আপোনাৰ নে'টৱৰ্কৰ সংযোগ আৰু DNS সেৱকৰ পছন্দ পৰীক্ষা কৰক ।</li><li>আপোনাৰ কম্পিউটাৰ বা নে'টৱৰ্ক ফায়াৰৱাল বা নিযুক্তকেৰে সুৰক্ষিত নেকি ? অশুদ্ধ পছন্দই ৱেব চৰণত ব্যাঘাত জন্মাব পাৰে ।</li></ul>">
+
+<!ENTITY fileNotFound.title "নথিপত্ৰ পোৱা ন'গ'ল">
+<!ENTITY fileNotFound.longDesc "<ul><li>বস্তুটোক পুনঃ নামকৰণ, আঁতৰুৱা, বা পুনঃ স্থাপিত কৰা হৈছে নেকি ?</li><li>ঠিকনাত বানান, ডাঙৰ হাতৰ আখৰ, বা অান্য কোনো লিখাৰ ভুল হৈছে নেকি ?</li><li>অনুৰোধ কৰা বস্তৰ বাবে আপোনাৰ অভিগমৰ পৰ্যাপ্ত অনুমতি আছে নে ?</li></ul>">
+
+<!ENTITY generic.title "অনুৰোধ সম্পূৰ্ণ কৰিব নোৱাৰি">
+<!ENTITY generic.longDesc "<p>এই সমস্যা বা ভুলৰ অতিৰিক্ত তথ্য এতিয়া পোৱা নাযায় ।</p>">
+
+<!ENTITY malformedURI.title "অবৈধ ঠিকনা">
+<!ENTITY malformedURI.longDesc "<p>দিয়া ঠিকনাটো পৰিচিত আকৃতিত নাই । ভুলৰ বাবে অৱস্থানৰ বাত পৰীক্ষা কৰক আৰু পুনঃ চেষ্টা কৰক ।</p>">
+
+<!ENTITY netInterrupt.title "তথ্যৰ হস্তান্তৰ বিচ্ছিন্ন হৈছে">
+<!ENTITY netInterrupt.longDesc "<p>চৰকে সফলভাবে সংযোগ কৰিলে, কিন্তু তথ্য হস্তান্তৰ কৰোঁতে সংযোগত বিচ্ছিন্ন হৈছিল । অনুগ্ৰহ কৰি পুনঃ চেষ্টা কৰক ।</p><ul><li>আপুনি অন্য ছাইট চৰণ কৰিব পাৰিছে নে ? কম্পিউটাৰৰ নে'টৱৰ্ক সংযোগ  পৰীক্ষা কৰক ।</li><li>এতিয়াও সমস্যা হৈছে ? আপোনাৰ নে'টৱৰ্ক প্ৰশাসক বা ইন্টাৰ্নে'ট সেৱা আগবঢ়োৱা জনৰ সৈতে যোগাযোগ কৰক সহায়ৰ বাবে ।</li></ul>">
+
+<!ENTITY netOffline.title "অফলাইন ধৰণ">
+<!ENTITY netOffline.longDesc "<p>চৰক অফলাইন ধৰনত কাম কৰিছে আৰু অনুৰোধ কৰা বস্তুটোলৈ সংযোগ কৰিব নোৱাৰে ।</p><ul><li>এই কম্পিউটাৰ কোনো সক্ৰীয় নে'টৱৰ্কৰ সৈতে সংযোগ কৰা আছে নেকি ?</li><li>চৰকক অন-লাইন ধৰণত ৰাখক আৰু পুনঃ চেষ্টা কৰক ।</li></ul>">
+
+<!ENTITY contentEncodingError.title "বিষয়বস্তু গুপুতকৰণত ভুল">
+<!ENTITY contentEncodingError.longDesc "<p>আপুনি চাব বিচৰা পৃষ্ঠা দেখুৱাব নোৱাৰি কাৰণ তাত সংকোচনৰ এটা অসমৰ্থিত ধৰণ আছে ।</p><ul><li>এই সমস্যাৰ কথা জনাবলৈ ৱেব ছাইটৰ গৰাকীহঁতৰ সৈতে সম্পৰ্ক কৰক ।</li></ul>">
+
+<!ENTITY unsafeContentType.title "অসুৰক্ষিত নথিপত্ৰৰ ধৰণ">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>এই সমস্যাৰ কথা জনাবলৈ ৱেব ছাইটৰ গৰাকীহঁতৰ সৈতে সম্পৰ্ক কৰক ।</li>
+</ul>
+">
+
+<!ENTITY netReset.title "সংযোগ বিচ্ছিন্ন হৈছে">
+<!ENTITY netReset.longDesc "<p>এটা সংযোগ স্থাপন কৰাৰ সময়ত নে'টৱৰ্ক বিচ্ছিন্ন হৈছে । অনুগ্ৰহ কৰি পুনঃ চেষ্টা কৰক ।</p>">
+
+<!ENTITY netTimeout.title "নে'টৱৰ্কৰ সময়ৰ বিৰতি">
+<!ENTITY netTimeout.longDesc "<p>অনুৰোধ কৰা ছাইটে সংযোগৰ অনুৰোধলৈ কোনো উত্তৰ নিদিলে আৰু চৰকে উত্তৰলৈ প্ৰতীক্ষা নকৰা হ'ল ।</p><ul><li>সেৱকত অতিমাত্ৰাৰ অনুৰোধ বা অস্থায়ীভাবে নিষ্ক্ৰীয় হৈছে নেকি ? পিছত পুনঃ চেষ্টা কৰিব ।</li><li>আপুনি অন্য ছাইট চৰণ কৰিব পাৰিছেনে ? কম্পিউটাৰৰ নে'টৱৰ্ক সংযোগ পৰীক্ষা কৰক ।</li><li>আপোনাৰ কম্পিউটাৰ বা নে'টৱৰ্ক কোনো ফায়াৰ্ৱাল বা নিযিক্তকেৰে সংৰক্ষিত নেকি ? অশুদ্ধ পছন্দই ৱেব চৰণত বাধা দিছে ।</li><li>এতিয়াও সমস্যা হৈছে ? আপোনাৰ নে'টৱৰ্ক প্ৰশাসক বা ইন্টাৰ্নে'ট সেৱা দিয়া জনৰ সৈতে পৰামৰ্শ কৰক ।</li></ul>">
+
+<!ENTITY protocolNotFound.title "অজ্ঞাত আচাৰ-বিধি">
+<!ENTITY protocolNotFound.longDesc "<p>ঠিকনাই চৰকে বুজি নোপোৱা এটা আচাৰ বিধি দিছে (যেনে <q>wxyz://</q>) , সেইকাৰণে চৰকে সফলভাবে ছাইটলৈ সংযোগ কৰিব নোৱাৰে ।</p><ul><li>আপুনি মাল্টিমিডিয়া বা অন্য আখৰ নোহোৱা সেৱা অভিগম কৰিব খুজিছে নেকি ? অতিৰিক্ত প্ৰয়োজনৰ বাবে ছাইটটো পৰীক্ষা কৰক ।</li><li>কিছুমান আচাৰ-বিধিৰ বাবে তৃতীয় পক্ষীয় চালনাজ্ঞান বা প্লাগ-ইনৰ প্ৰয়োজন হয় সিহঁতক চৰকে চিনি পোৱাৰ আগতে ।</li></ul>">
+
+<!ENTITY proxyConnectFailure.title "নিযুক্তক সেৱকে সংযোগ নামানিলে">
+<!ENTITY proxyConnectFailure.longDesc "<p>চৰকক বিন্যাস কৰা হৈছে নিযুক্তক সেৱক ব্যৱহাৰ কৰিবলৈ, কিন্তু নিযুক্তকে সংযোগ স্বীকাৰ নকৰিলে ।</p><ul><li>চৰকৰ নিযুক্তকৰ বিন্যাস শুদ্ধ নে? পছন।দ পৰীক্ষা কৰি পুনঃ চেষ্টা কৰক ।</li><li>এই নে'টৱৰ্কৰ পৰা সংযোগ কৰা নিযুক্তকে আজ্ঞা দিয়ে নেকি ?</li><li>এতিয়াও সমস্যা হৈছে ? সহায়ৰ বাবে আপোনাৰ নে'টৱৰ্ক প্ৰশাসক বা ইন্টাৰ্নে'ট সেৱা দিয়া জনৰ সৈতে পৰামৰ্শ কৰক ।</li></ul>">
+
+<!ENTITY proxyResolveFailure.title "নিযুক্তক সেৱক পোৱা নাযায়">
+<!ENTITY proxyResolveFailure.longDesc "<p>চৰকক বিন্যাস কৰা হৈছে নিযুক্তক সেৱক ব্যৱহাৰ কৰিবলৈ, কিন্তু নিযুক্তকক পোৱা নাযায় ।</p><ul><li>চৰকৰ নিযুক্তকৰ বিন্যাস শুদ্ধ নে ?পছন্দ পৰীক্ষা কৰি পুনঃ চেষ্টা কৰক ।</li><li>কম্পিউটাৰ এটা সক্ৰীয় নে'টৱৰ্কৰ সৈতে সংযুক্ত নে ?</li><li>এতিয়াও সমস্যা হৈছে ? সহায়ৰ বাবে আপোনাৰ নে'টৱৰ্ক প্ৰশাসক বা ইন্টাৰ্নে'ট সেৱা দিয়া জনৰ সৈতে পৰামৰ্শ কৰক ।</li></ul>">
+
+<!ENTITY redirectLoop.title "লুপক পুনঃ দিশ দিয়ক">
+<!ENTITY redirectLoop.longDesc "<p>অনুৰোধ কৰা বস্তু উদ্ধাৰ কৰিবলৈ চৰকে বাদ দিলে । ছাইটে এনে ধৰণে অনুৰোধক পুনঃ দিশ দিছে যে ই কেতিয়াও সম্পুৰ্ণ ন'হ'ব ।</p><ul><li>এই ছাইটৰ বাবে প্ৰয়োজন হোৱা কুকি আপুনি নিষ্ক্ৰীয় বা ৰোধ কৰিছে নেকি ?</li><li><em>টোকা</em>: যদি ছাইটৰ কুকি গ্ৰহণ কৰিলে সমস্যাৰ সমাধান নহয়, এইটো অতি সম্ভব এটা সেৱকৰ বিন্যাসৰ সমস্যা, আপোনাৰ কম্পিউটাৰৰ নহয় ।</li></ul>">
+
+<!ENTITY unknownSocketType.title "অশুদ্ধ উত্তৰ">
+<!ENTITY unknownSocketType.longDesc "<p>নে'টৱৰ্কৰ অনুৰোধলৈ ছাইটে অপ্ৰত্যাশিতভাবে উত্তৰ দিলে আৰু চৰক আগবাঢ়িব নোৱাৰে ।</p>">
+
+<!ENTITY nssFailure2.title "সুৰক্ষিত সংযোগ বিফল">
+<!ENTITY nssFailure2.longDesc "<p>পোৱা তথ্য প্ৰমাণীকৰণ কৰিব নোৱাৰা বাবে আপুনি চাব বিচৰা পৃষ্ঠা দেখুৱাব নোৱাৰি ।</p><ul><li>এই সমস্যাৰ কথা জনাবলৈ ৱেব ছাইটৰ গৰাকীহঁতৰ সৈতে সম্পৰ্ক কৰক ।</li></ul>">
+
+<!ENTITY nssBadCert.title "সুৰক্ষিত সংযোগ বিফল">
+<!ENTITY nssBadCert.longDesc2 "<ul>
+<li>এইটো সেৱকৰ বিন্যাসৰ সমস্যা, বা কোনোবাই সেৱকক নকল কৰিব খুজিছে ।</li>
+<li>আপুনি অতিতত সফলভাবে সেৱকলৈ সংযোগ কৰা হ'লে, ভুল অস্থায়ী হ'ব পাৰে, আৰু আপুনি পিছত চেষ্টা কৰিব পাৰে ।</li>
+</ul>
+">
+
+<!ENTITY malwareBlocked.title "সন্দেহযুক্ত আক্ৰমণৰ ছাইট!">
+<!ENTITY malwareBlocked.longDesc "
+<p>আক্ৰমণৰ ছাইটে কাৰ্য্যক্ৰম সংস্থাপন কৰিব বিচাৰে যি ব্যক্তিগত তথ্য চুৰ কৰে, আপোনাৰ কম্পিউটাৰ অন্যক আক্ৰমণ কৰিব ব্যৱহাৰ কৰে, বা আপোনাৰ ব্যৱস্থাপ্ৰণালী নষ্ট কৰে ।</p>
+<p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
+">
+
+<!ENTITY phishingBlocked.title "Suspected Web Forgery!">
+<!ENTITY phishingBlocked.longDesc "
+<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
+<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
+">
+
+<!-- Include app-specific error messages - do not change this in localization!
+     Some applications might override netErrorApp.dtd with their specific version,
+     this inclusion needs to be intact for that approach to work correctly. -->
+<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
+%netErrorAppDTD;
+

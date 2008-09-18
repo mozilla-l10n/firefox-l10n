@@ -1,0 +1,8 @@
+<!-- extracted from institems.xul -->
+
+<!ENTITY dialog.title "চালনাজ্ঞানৰ সংস্থাপন">
+<!ENTITY warningText2.label "সন্দেহযুক্ত চালনাজ্ঞানে আপোনাৰ কম্পিউটাৰৰ হানি কৰিব পাৰে বা আপোনাৰ গোপন ভঙ্গ কৰিব পাৰে ।">
+<!ENTITY warningText3.label "আপুনি বিশ্বাসী উৎসৰ পৰাহে চালনাজ্ঞান সংস্থাপন কৰিব লাগে ।">
+
+<!ENTITY from.label "-ৰ পৰা:">
+

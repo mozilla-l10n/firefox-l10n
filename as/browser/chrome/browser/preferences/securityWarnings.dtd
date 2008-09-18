@@ -1,0 +1,13 @@
+<!ENTITY securityWarnings.title                   "সুৰক্ষাৰ সতৰ্কবাণী">
+
+<!ENTITY security.warn_when                       "সতৰ্কবাণীৰ সম্বাদ দেখুৱাব যেতিয়া:">
+<!ENTITY security.warn_entering_secure.label      "মই এতিয়া এটা এন্‌ক্ৰিপ্টেড পৃষ্ঠা চাব লৈছোঁ ।">
+<!ENTITY security.warn_entering_secure.accesskey  "v">
+<!ENTITY security.warn_entering_weak.label        "মই এতিয়া এনে এটা পৃষ্ঠা চাব লৈছো যি কম স্তৰৰ এন্‌ক্ৰিপছন ব্যৱহাৰ কৰে ।">
+<!ENTITY security.warn_entering_weak.accesskey    "g">
+<!ENTITY security.warn_leaving_secure.label       "এটা এন্‌ক্ৰিপ্ট নকৰা পৃষ্ঠাৰ বাবে এন্‌ক্ৰিপ্ট কৰা পৃষ্ঠা এৰিব লৈছোঁ ।">
+<!ENTITY security.warn_leaving_secure.accesskey   "l">
+<!ENTITY security.warn_submit_insecure.label      "এন্‌ক্ৰিপ্ট নকৰা তথ্য মই নিবেদন কৰিব লৈছোঁ ।">
+<!ENTITY security.warn_submit_insecure.accesskey  "s">
+<!ENTITY security.warn_viewing_mixed.label        "এন্‌ক্ৰিপ্টেড তথ্য নথকা এন্‌ক্ৰিপ্টেড পৃষ্ঠা চাব লৈছোঁ ।">
+<!ENTITY security.warn_viewing_mixed.accesskey    "u">

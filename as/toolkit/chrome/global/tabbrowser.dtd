@@ -1,0 +1,13 @@
+<!ENTITY  untitledTab            "(শিৰোনাম নোহোৱা)">
+<!ENTITY  newTab.label           "নতুন টেব">
+<!ENTITY  newTab.accesskey       "N">
+<!ENTITY  closeTab.label         "টেব বন্ধ কৰক">
+<!ENTITY  closeTab.accesskey         "c">
+<!ENTITY  closeOtherTabs.accesskey  "o">
+<!ENTITY  closeOtherTabs.label   "অন্য টেব বন্ধ কৰক">
+<!ENTITY  reloadAllTabs.label    "সকলো টেব পুনঃ তোলক">
+<!ENTITY  reloadAllTabs.accesskey         "A">
+<!ENTITY  reloadTab.label        "টেব পুনঃ তোলক">
+<!ENTITY  reloadTab.accesskey         "r">
+<!ENTITY  newTabButton.tooltip   "নতুন টেব খোলক">
+<!ENTITY  listAllTabs.label      "সকলকো টেবৰ তালিকা দিয়ক">

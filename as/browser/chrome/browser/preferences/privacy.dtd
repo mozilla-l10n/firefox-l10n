@@ -1,0 +1,55 @@
+<!ENTITY  history.label "ইতিহাস">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberBefore.label and rememberAfter.label appear on a single
+  line in preferences as follows:
+
+  &rememberBefore.label  [ textbox for number of days ]   &rememberAfter.label;
+-->
+<!ENTITY  rememberDaysBefore.label      "মোৰ ইতিহাস অতি কমেও ৰাখক">
+<!ENTITY  rememberDaysBefore.accesskey  "h">
+<!ENTITY  rememberDaysAfter2.label      "দিনলৈ">
+
+<!ENTITY  rememberForms.label           "ফৰ্ম আৰু বিচৰাৰ বাৰত দিয়া তথ্য মনত ৰাখিব">
+<!ENTITY  rememberForms.accesskey       "f">
+
+<!ENTITY  rememberDownloads.label       "মই ডাউন্‌লোড কৰা মনত ৰাখিব">
+<!ENTITY  rememberDownloads.accesskey   "d">
+
+
+<!ENTITY  cookies.label                 "কুকিসমূহ">
+
+<!ENTITY  acceptCookies.label           "ছাইটৰ পটা কুকি গ্ৰহণ কৰিব">
+<!ENTITY  acceptCookies.accesskey       "c">
+
+<!ENTITY  acceptThirdParty.label        "তৃতীয়-পক্ষীয় কুকি গ্ৰহণ কৰক">
+<!ENTITY  acceptThirdParty.accesskey    "p">
+
+<!ENTITY  keepUntil.label               "এই সময়লৈকে ৰাখিব:">
+<!ENTITY  keepUntil.accesskey           "K">
+
+<!ENTITY  expire.label                  "সিহঁত অন্ত নোহোৱালৈকে">
+<!ENTITY  close.label                   "মই &brandShortName; বন্ধ নকৰোঁ">
+<!ENTITY  askEachTime.label             "মোক প্ৰত্যেকবাৰেই সুধিব">
+
+<!ENTITY  cookieExceptions.label        "অব্যাহতি...">
+<!ENTITY  cookieExceptions.accesskey    "E">
+
+<!ENTITY  showCookies.label             "কুকি দেখুৱাওক...">
+<!ENTITY  showCookies.accesskey         "S">
+
+
+<!ENTITY  privateData.label             "ব্যক্তিগত তথ্য">
+
+<!ENTITY  alwaysClear.label              "মোৰ ব্যক্তিগত তথ্য সদায়ে পৰিষ্কাৰ কৰিব যেতিয়া মই &brandShortName; বন্ধ কৰোঁ">
+<!ENTITY  alwaysClear.accesskey          "w">
+
+<!ENTITY  askBeforeClear.label           "ব্যক্তিগত তথ্য পৰিষ্কাৰ কৰাৰ পূৰ্বে মোক সুধিব">
+<!ENTITY  askBeforeClear.accesskey       "A">
+
+<!ENTITY  clearDataSettings.label        "পছন্দ...">
+<!ENTITY  clearDataSettings.accesskey    "t">
+
+<!ENTITY  clearDataNow.label             "এতিয়া পৰিষ্কাৰ কৰক...">
+<!ENTITY  clearDataNow.label2            "এতিয়া পৰিষ্কাৰ কৰক">
+<!ENTITY  clearDataNow.accesskey         "N">

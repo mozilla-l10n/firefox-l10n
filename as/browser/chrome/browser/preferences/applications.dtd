@@ -1,0 +1,14 @@
+<!ENTITY  typeColumn.label        "বিষয়বস্তুৰ ধৰণ">
+<!ENTITY  typeColumn.accesskey    "T">
+
+<!ENTITY  actionColumn2.label     "কাৰ্য্য">
+<!ENTITY  actionColumn2.accesskey "A">
+
+<!ENTITY  focusSearch1.key        "f">
+<!ENTITY  focusSearch2.key        "k">
+
+<!ENTITY  filter.label            "বিচাৰক:">
+<!ENTITY  filter.accesskey        "S">
+
+<!ENTITY  clear.label             "পৰিষ্কাৰ কৰক">
+<!ENTITY  clear.accesskey         "l">

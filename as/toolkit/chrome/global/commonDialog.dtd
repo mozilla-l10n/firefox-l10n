@@ -1,0 +1,6 @@
+<!ENTITY header.label     "চমু উপাধি"> 
+<!ENTITY message.label    "ইয়াত উদাহৰণ লিপি লিখক ।">
+<!ENTITY editfield0.label "ব্যৱহাৰকৰোঁতাৰ নাম:"> 
+<!ENTITY editfield1.label "গুপ্তশব্দ:"> 
+<!ENTITY editfield2.label "গুপ্তশব্দ দৃঢ় কৰক:"> 
+<!ENTITY checkbox.label   "পৰীক্ষা কৰক"> 

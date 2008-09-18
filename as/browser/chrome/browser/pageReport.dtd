@@ -1,0 +1,9 @@
+<!ENTITY caption.label "বন্ধ কৰা প'প-আপ">
+
+<!ENTITY intro.label "অনুৰোধ নকৰা প'প-আপ সংযোগক্ষেত্ৰ প্ৰদৰ্শনৰ বাবে নিম্নলিখিত পৃষ্ঠাসমূহক ৰোধ কৰা হৈছে:">
+
+<!ENTITY done.label "কৰা হ'ল">
+<!ENTITY done.accesskey "D">
+
+<!ENTITY unblock.label "ছাইট ৰোধ নকৰিব">
+<!ENTITY unblock.accesskey "U">

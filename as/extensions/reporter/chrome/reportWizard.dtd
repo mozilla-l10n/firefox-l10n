@@ -1,0 +1,55 @@
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title                         "এটা ভঙা ৱেব ছাইটৰ প্ৰতিবেদন দিয়ক">
+
+<!ENTITY privacyNotice.label                        "গোপনীয়তাৰ চুক্তি">
+<!ENTITY reportWizardPrivacy.description            "This tool allows you to tell the Evangelism Team about web sites that do not work properly in &brandShortName;, or shut &brandShortName; out. This is your way to help us ensure the best possible experience for &brandShortName; users. Please take a moment to read the following to learn how we use the information we collect should you choose to participate.">
+<!ENTITY reportWizardMustAgree.description          "আগবাঢ়িবলৈ আপুনি ওপৰৰ গোপনীয়তাৰ চুক্তিৰ সৈতে সন্মত হ'ব লাগিব ।">
+
+<!ENTITY dontShowPrivacyStatement.label             "ওপৰৰ গোপনীয়তাৰ চুক্তি মই পঢ়িছোঁ আৰু সন্মত হৈছো ।">
+<!ENTITY dontShowPrivacyStatement.accesskey         "মই">
+
+<!ENTITY reportForm.label                           "প্ৰতিবেদন সম্পূৰ্ণ কৰক">
+
+<!ENTITY reportForm.description                     "আপুনি পোৱা সমস্যাৰ বিষয়ে আমাক কওক:">
+<!ENTITY reportForm.url.title                       "ৱেব ছাইটৰ URL:">
+
+<!ENTITY reportForm.behind_login.title              "ৱেব ছাইট গুপ্তশব্দৰে সংৰক্ষিত"><!-- No ":" at the end -->
+<!ENTITY reportForm.behind_login.accesskey          "P">
+
+<!ENTITY reportForm.problem_type.title              "সমস্যাৰ ধৰণ:">
+<!ENTITY reportForm.problem_type.accesskey          "T">
+
+<!ENTITY reportForm.problem_type.chooseOne.title    "এটা নিৰ্ব্বাচন কৰক...">
+
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+<!ENTITY reportForm.problem_type.item1.title        "চৰক সমৰ্থিত নহয়">
+<!ENTITY reportForm.problem_type.item2.title        "প্ৰৱেশ কৰিব নোৱাৰি">
+<!ENTITY reportForm.problem_type.item3.title        "প্লাগ-ইন দেখুওৱা হোৱা নাই">
+<!ENTITY reportForm.problem_type.item4.title        "অন্য বিষয়বস্তু নাই">
+<!ENTITY reportForm.problem_type.item5.title        "আচৰণ ভুল">
+<!ENTITY reportForm.problem_type.item6.title        "Appearance wrong">
+<!ENTITY reportForm.problem_type.item7.title        "Other problem">
+
+<!ENTITY reportForm.describe.title                  "Describe Problem:">
+<!ENTITY reportForm.describe.accesskey              "D">
+
+<!ENTITY reportForm.platform.title                  "Platform:">
+<!ENTITY reportForm.product.title                   "Product:">
+<!ENTITY reportForm.gecko.title                     "Gecko:">
+<!ENTITY reportForm.useragent.title                 "Useragent:">
+<!ENTITY reportForm.language.title                  "Language:">
+
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+<!ENTITY reportForm.email.title                     "Email (Optional):">
+<!ENTITY reportForm.email.accesskey                 "E">
+
+<!ENTITY reportForm.privacyPolicy.title             "Privacy Policy">
+<!ENTITY reportForm.privacyPolicy.tooltip           "View Privacy Policy">
+
+<!ENTITY reportResults.showDetail.title             "Show Details">
+<!ENTITY reportResults.showDetail.accesskey         "S">
+
+<!ENTITY sendReport.label                           "Sending Report">
+<!ENTITY sendReport.description                     "Sending Report to server...">
+
+<!ENTITY finish.label                               "Report Sent">

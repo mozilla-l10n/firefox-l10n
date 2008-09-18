@@ -1,0 +1,28 @@
+<!ENTITY no-properties.label   "কোনো গুণ নিৰ্দ্ধাৰণ কৰা হোৱা নাই ।">
+
+<!ENTITY caption.label         "পদাৰ্থৰ গুণ">
+<!ENTITY image-sec.label       "প্ৰতিৰূপৰ গুণ">
+<!ENTITY image-url.label       "স্থান:">
+<!ENTITY image-type.label      "ধৰণ:">
+<!ENTITY image-desc.label      "বিৱৰণ:">
+<!ENTITY image-alt.label       "বৈকল্পিক লিপি:">
+<!ENTITY image-size.label      "প্ৰতিমূৰ্ত্তিৰ আকাৰ:">
+
+<!ENTITY image-filesize.label  "নথিপত্ৰৰ আকাৰ:">
+<!ENTITY insdel-sec.label      "গুণসমূহক ভৰাওক/আঁতৰাওক">
+<!ENTITY insdel-cite.label     "তথ্য:">
+<!ENTITY insdel-date.label     "দিন:">
+<!ENTITY link-sec.label        "সংযোগৰ গুণ">
+<!ENTITY link-url.label        "ঠিকনা:">
+<!ENTITY link-target.label     "-ত খুলিব:">
+<!ENTITY link-type.label       "লক্ষ্যৰ ধৰণ:">
+<!ENTITY link-lang.label       "লক্ষ্যৰ ভাষা:">
+<!ENTITY link-rel.label        "সম্বন্ধ:">
+<!ENTITY link-rev.label        "ওলোটা সম্বন্ধ:">
+<!ENTITY link-ping.label       "জনোৱা হ'ব:">
+<!ENTITY misc-sec.label        "বিবিধ গুণ">
+<!ENTITY misc-lang.label       "আখৰৰ ভাষা:">
+<!ENTITY misc-title.label      "শিৰোনাম:">
+<!ENTITY misc-tblsummary.label "টেবিলৰ সাৰাংশ:">
+<!ENTITY quote-sec.label       "উদ্ধৃত বাক্যৰ গুণ">
+<!ENTITY quote-cite.label      "তথ্য:">

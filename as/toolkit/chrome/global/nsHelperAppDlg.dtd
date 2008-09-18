@@ -1,0 +1,43 @@
+<!ENTITY caption.label         "Opening #1">
+
+<!-- Localization note: The default intro text has 3 "inserts":
+        #1 - replaced with the descriptive text that describes the mime type
+             (e.g., "MSWord Document")
+        #2 - replaced with the mime type (e.g., "application/ms-word")
+        #3 - replaced with the filename (e.g., "manual.doc")
+        #4 - will be replaced by the brand name (e.g., "Mozilla")
+     If there is no descriptive text, then the alternative text is used which
+     has only insert #2.
+ -->
+<!ENTITY intro.label           "&quot;#3&quot; নথিপত্ৰ #2 (#1) ধৰণৰ, আৰু #4 এ নাজানে এই ধৰণৰ নথিপত্ৰ কেনেদৰে ব্যৱহাৰ কৰিব লাগে । নথিপত্ৰ ইয়াত আছে:">
+<!ENTITY intro.noDesc.label    "&quot;#3&quot; নথিপত্ৰ #2 (#1) ধৰণৰ, আৰু #4 এ নাজানে এই ধৰণৰ নথিপত্ৰ কেনেদৰে ব্যৱহাৰ কৰিব লাগে । নথিপত্ৰ ইয়াত আছে:">
+
+<!ENTITY intro.attachment.label "ছাইটে পৰামৰ্শ দিছে যে &quot;#3&quot; ক সংলাগী হিচাপে ধৰা হয় যেন । এইটো #2 (#1) ধৰণৰ আৰু ইয়াত আছে:">
+<!ENTITY intro.attachment.noDesc.label "ছাইটে পৰামৰ্শ দিছে যে &quot;#3&quot; ক সংলাগী হিচাপে ধৰা হয় যেন । এইটো #2 ধৰণৰ আৰু ইয়াত আছে:">
+
+<!ENTITY intro.sniffed.label "#4 এ সন্ধান কৰি পাইছে যে &quot;#3&quot;নথিপত্ৰ #2 (#1) ধৰণৰ হ'ব পাৰে । নথিপত্ৰ ইয়াত আছে:">
+<!ENTITY intro.sniffed.noDesc.label "#4 এ সন্ধান কৰি পাইছে যে &quot;#3&quot;নথিপত্ৰ #2  ধৰণৰ হ'ব পাৰে । নথিপত্ৰ ইয়াত আছে:">
+
+<!ENTITY prompt.label          "#1 এ নথিপত্ৰৰ লগত কি কৰিব লাগে?">
+
+<!ENTITY alwaysHandle.label     "এই ধৰণৰ নথিপত্ৰৰ বাবে সদায়ে এনেধৰণৰ কাৰ্য্য কৰিব">
+<!ENTITY alwaysHandle.accesskey "A">
+
+<!ENTITY saveToDisk.label      "ডিষ্কলৈ ৰক্ষা কৰক">
+<!ENTITY saveToDisk.accesskey  "S">
+
+<!ENTITY useSystemDefault.label        "অবিকল্পিত অনুপ্ৰয়োগেৰে খুলিব (#1)">
+<!ENTITY useSystemDefault.noDesc.label "অবিকল্পিত অনুপ্ৰয়োগেৰে খুলিব">
+<!ENTITY useSystemDefault.accesskey    "O">
+
+<!-- LOCALIZATION NOTE:  do not localize "#1" -->
+<!ENTITY openUsing.label       "-এৰে খোলক">
+<!ENTITY openUsing.accesskey   "w">
+
+<!ENTITY chooseApp.label       "নিৰ্ব্বাচন কৰক...">
+<!ENTITY chooseApp.accesskey   "C">
+
+<!ENTITY chooseAppFilePickerTitle "সহায়ক অনুপ্ৰয়োগ নিৰ্ব্বাচন কৰক">
+
+<!ENTITY badApp                 "আপুনি নিৰ্ধাৰণ কৰা অনুপ্ৰয়োগ পোৱা নাযায় (&quot;#1&quot;) । নথিপত্ৰৰনাম পৰীক্ষা কৰক বা অন্য অনুপ্ৰয়োগ নিৰ্ব্বাচন কৰক ।">
+<!ENTITY badApp.title           "অনুপ্ৰয়োগ পোৱা ন'গ'ল">

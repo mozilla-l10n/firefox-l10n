@@ -1,0 +1,8 @@
+<!ENTITY aboutDialog.title      "&brandFullName ৰ বিষয়ে;">
+<!ENTITY copyright              "Credits">
+<!ENTITY copyright.accesskey    "C">
+<!ENTITY aboutLink              "&lt; &brandFullName ৰ বিষয়ে;">
+<!ENTITY aboutLink.accesskey    "A">
+<!ENTITY aboutVersion           "version">
+<!ENTITY copyrightInfo          "&#169;1998-2008 Contributors. সকলো অধিকাৰ সংৰক্ষিত । Firefox আৰু 
+                                 Firefox পণ্যচিহ্নসমূহ Mozilla Foundation ৰ মাৰ্কা । সকলো অধিকাৰ সংৰক্ষিত ।">

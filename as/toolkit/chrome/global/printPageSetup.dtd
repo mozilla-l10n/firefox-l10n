@@ -1,0 +1,58 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title    "পৃষ্ঠাৰ ">
+
+<!ENTITY basic.tab           "আকৃতি দিয়াৰ &amp; বিকল্পসমূহ">
+
+<!ENTITY formatGroup.label   "আকৃতি">
+
+<!ENTITY orientation.label   "দিক্‌বিন্যাস:">
+<!ENTITY portrait            "প'ৰ্ট্ৰেইট">
+<!ENTITY landscape           "লেণ্ডস্কেপ">
+
+<!ENTITY scale.label         "মাপ:">
+<!ENTITY scalePercent        "&#037;">
+
+<!ENTITY shrinkToFit.label   "পৃষ্ঠাৰ বহলত খাপ খুৱাবলৈ সৰু কৰক">
+
+<!ENTITY optionsGroup.label  "বিকল্পসমূহ">
+
+<!ENTITY printBG.label       "পৃষ্ঠভূমি মূদ্ৰণ কৰক(ৰং &amp; প্ৰতিমূৰ্ত্তি)">
+
+<!ENTITY advanced.tab        "মাৰ্জিন &amp; হেডাৰ/ফুটাৰ">
+
+<!ENTITY marginGroup.label   "মাৰ্জিন (#1)">
+<!ENTITY marginUnits.inches  "ইঞ্চি">
+<!ENTITY marginUnits.metric  "মিলিমিটাৰ">
+<!ENTITY marginTop.label     "ওপৰৰ:">
+<!ENTITY marginBottom.label  "তলৰ:">
+<!ENTITY marginLeft.label    "বাওঁ:">
+<!ENTITY marginRight.label   "সোঁ:">
+
+<!ENTITY headerFooter.label  "হেডাৰ &amp; ফুটাৰ">
+
+<!ENTITY hfLeft.label        "বাওঁ:">
+<!ENTITY hfCenter.label      "মাজ:">
+<!ENTITY hfRight.label       "সোঁ:">
+<!ENTITY headerLeft.tip      "বাওঁফালৰ হেডাৰ">
+<!ENTITY headerCenter.tip    "মাজৰ হেডাৰ">
+<!ENTITY headerRight.tip     "সোঁফালৰ হেডাৰ">
+<!ENTITY footerLeft.tip      "বাওঁফালৰ ফুটাৰ">
+<!ENTITY footerCenter.tip    "মাজৰ ফুটাৰ">
+<!ENTITY footerRight.tip     "সোঁফালৰ ফুটাৰ">
+
+<!ENTITY hfTitle             "শিৰোনাম">
+<!ENTITY hfTitle.code        "[&amp;T]">
+<!ENTITY hfURL               "URL">
+<!ENTITY hfURL.code          "[&amp;U]">
+<!ENTITY hfDateAndTime       "দিন/সময়">
+<!ENTITY hfDateAndTime.code  "&amp;D">
+<!ENTITY hfPage              "পৃষ্ঠা #">
+<!ENTITY hfPage.code         "[&amp;P]">
+<!ENTITY hfPageAndTotal      "পৃষ্ঠা # # ৰ">
+<!ENTITY hfPageAndTotal.code "[&amp;PT]">
+<!ENTITY hfBlank             "--blank--">
+<!ENTITY hfCustom            "নিজৰ পছন্দৰ...">
+
+<!ENTITY customPrompt.title  "নিজৰ পছন্দৰ...">
+<!ENTITY customPrompt.prompt "আপোনাৰ নিজৰ পছন্দৰ হেডাৰ/ফুটাৰ আখৰ দিয়ক">

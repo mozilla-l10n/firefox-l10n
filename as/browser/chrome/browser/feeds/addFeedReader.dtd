@@ -1,0 +1,10 @@
+<!ENTITY addFeedReader.title
+  "ফীড ৰিডাৰ যোগ কৰক">
+<!ENTITY addAsDefault.label
+  "এইটোক মোৰ অবিকল্পিত ফীড ৰিডাৰ কৰক">
+<!ENTITY addAsDefault.accesskey
+  "M">
+<!ENTITY forSite.label
+  "ছাইট:">
+<!ENTITY feedReaderRegistered.title
+  "ফীড ৰিডাৰ ইতিমধ্যে পঞ্জিভূক্ত">

@@ -1,0 +1,32 @@
+<!ENTITY  downloadactionsWindow.title         "ডাউন্‌লোডৰ কাৰ্য্যসমূহ">
+<!ENTITY window.width                         "480">
+<!ENTITY window.height                        "310">
+
+<!ENTITY  fileTypesDescription.label          "নিম্নলিখিত নথিপত্ৰ ঊৰণৰ সৈতে সিহঁতৰ সম্বন্ধীয় কাৰ্য্য স্বয়ং কৰিব:">
+
+<!ENTITY  fileHandlerColumn.label             "কাৰ্য্য">
+<!ENTITY  fileHandlerColumn.accesskey         "A">
+<!ENTITY  fileTypeColumn.label                "নথিপত্ৰৰ ধৰণ">
+<!ENTITY  fileTypeColumn.accesskey            "T">
+<!ENTITY  fileMIMETypeColumn.label            "MIME ৰ ধৰণ">
+<!ENTITY  fileMIMETypeColumn.accesskey        "M">
+<!ENTITY  fileExtensionColumn.label           "সম্প্ৰসাৰণ">
+<!ENTITY  fileExtensionColumn.accesskey       "E">
+
+<!ENTITY  remove.label                        "কাৰ্য্য আঁতৰাওক">
+<!ENTITY  remove.accesskey                    "R">
+<!ENTITY  edit.label                          "কাৰ্য্য সলাওক...">
+<!ENTITY  edit.accesskey                      "C">
+
+<!ENTITY  windowClose.key                     "w">
+<!ENTITY  focusSearch1.key                    "f">
+<!ENTITY  focusSearch2.key                    "k">
+
+<!ENTITY  filter.label                        "বিচাৰক:">
+<!ENTITY  filter.accesskey                    "S">
+<!ENTITY  clear.label                         "পৰিষ্কাৰ কৰক">
+<!ENTITY  clear.accesskey                     "l">
+
+<!ENTITY  button.close.label                  "বন্ধ কৰক">
+<!ENTITY  button.close.accesskey              "o">
+

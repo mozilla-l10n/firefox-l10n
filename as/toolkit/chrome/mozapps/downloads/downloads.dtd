@@ -1,0 +1,46 @@
+<!ENTITY window.width                     "400">
+<!ENTITY window.height                    "300"> 
+
+<!ENTITY done.label                       "কৰা হ'ল">
+<!ENTITY canceled.label                   "বাতিল কৰা হ'ল">
+<!ENTITY installing.label                 "সংস্থাপন কৰা হৈছে...">
+
+<!ENTITY starting.label                   "আৰম্ভ কৰা হৈছে...">
+<!ENTITY failed.label                     "বিফল হ'ল">
+
+<!ENTITY downloads.title                  "ডাউন্‌লোড">
+
+<!ENTITY cmd.pause.label                  "ৰখক">
+<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.resume.label                 "পুনৰাৰম্ভ কৰক">
+<!ENTITY cmd.resume.accesskey             "R">
+<!ENTITY cmd.cancel.label                 "বাতিল">
+<!ENTITY cmd.cancel.accesskey             "C">
+<!ENTITY cmd.show.label                   "থকা ফোল্ডাৰ খোলক">
+<!ENTITY cmd.show.labelMac                "Finder ত দেখুৱাওক">
+<!ENTITY cmd.show.accesskey               "F">
+<!ENTITY cmd.show.accesskeyMac            "F">
+<!ENTITY cmd.open.label                   "খোলক">
+<!ENTITY cmd.open.accesskey               "O">
+<!ENTITY cmd.openWith.label               "-ৰ সৈতে খোলক...">
+<!ENTITY cmd.openWith.accesskey           "h">
+<!ENTITY cmd.retry.label                  "পুনঃ চেষ্টা কৰক">
+<!ENTITY cmd.retry.accesskey              "R">
+<!ENTITY cmd.remove.label                 "আঁতৰাওঁক">
+<!ENTITY cmd.remove.accesskey             "e">
+<!ENTITY cmd.properties.label             "গুণ">
+<!ENTITY cmd.properties.accesskey         "i">
+<!ENTITY cmd.info.commandKey              "i">
+
+<!ENTITY cmd.close.commandKey             "w">
+<!ENTITY cmd.close2.commandKey            "j">
+<!ENTITY cmd.close2Unix.commandKey        "y">
+<!ENTITY cmd.cleanUp.label                "পৰিষ্কাৰ কৰক">
+<!ENTITY cmd.cleanUp.tooltip              "তালিকাৰ পৰা সম্পূৰ্ণ হোৱা, বাতিল কৰা আৰু বিফল হোৱা ডাউন্‌লোড আঁতৰাই">
+<!ENTITY cmd.cleanUp.accesskey            "C">
+
+<!ENTITY closeWhenDone.label              "ডাউন্‌লোড সম্পূৰ্ণ হ'লে বন্ধ কৰক">
+<!ENTITY closeWhenDone.tooltip            "ডাউন্‌লোডৰ সংযোগক্ষেত্ৰ বন্ধ কৰে যেতিয়া সকলো নথিপত্ৰ ডাউন্‌লোড কৰা হয় ।">
+
+<!ENTITY filesSavedTo.label               "-লৈ সকলো নথিপত্ৰ ডাউন্‌লোড কৰা হৈছে:">
+<!ENTITY showFolder.label                 "এই ফোল্ডাৰ দেখুৱাওক">

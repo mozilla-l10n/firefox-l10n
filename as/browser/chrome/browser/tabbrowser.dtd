@@ -1,0 +1,18 @@
+<!ENTITY  untitledTab            "(শিৰোনাম নোহোৱা)">
+<!ENTITY  newTab.label           "নতুন টেব">
+<!ENTITY  newTab.accesskey       "N">
+<!ENTITY  closeTab.label         "টেব বন্ধ কৰক">
+<!ENTITY  closeTab.accesskey         "c">
+<!ENTITY  closeOtherTabs.accesskey  "o">
+<!ENTITY  closeOtherTabs.label   "অন্য টেব বন্ধ কৰক">
+<!ENTITY  reloadAllTabs.label    "সকলো টেব পুনঃ তুলি লওক">
+<!ENTITY  reloadAllTabs.accesskey         "A">
+<!ENTITY  reloadTab.label        "টেব পুনঃ তুলি লওক">
+<!ENTITY  reloadTab.accesskey         "r">
+<!ENTITY  listAllTabs.label      "সকলো টেব তালিকাভুক্ত কৰক">
+<!ENTITY  bookmarkAllTabs.label       "সকলো টেবক পত্ৰচিহ্ন দিয়ক…">
+<!ENTITY  bookmarkAllTabs.accesskey   "T">
+<!ENTITY  bookmarkThisTab.label       "এই টেবক পত্ৰচিহ্ন দিয়ক">
+<!ENTITY  bookmarkThisTab.accesskey   "B">
+<!ENTITY  undoCloseTab.label          "টেব বন্ধ কৰা কাৰ্য্য ওভতাওক">
+<!ENTITY  undoCloseTab.accesskey      "U">

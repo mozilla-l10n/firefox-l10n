@@ -1,0 +1,8 @@
+<!ENTITY  feedClick.label             "যেতিয়া মই ৱেব ফীডত ক্লিক কৰোঁ:">
+<!ENTITY  showPreview.label           "মোক এটা পূৰ্বপ্ৰদৰ্শন দেখুৱাব আৰু সুধিব কোনটো ফীডৰীডাৰ ব্যৱহাৰ কৰা হ'ব">
+<!ENTITY  showPreview.accesskey       "S">
+<!ENTITY  subscribeUsing.label        "-এইটো ব্যৱহাৰ কৰি ফীডলৈ বৰঙনি দিয়ক:">
+<!ENTITY  subscribeUsing.accesskey    "u">
+<!ENTITY  liveBookmarks.label         "জীৱন্ত পত্ৰচিহ্ন">
+<!ENTITY  chooseApplication.label     "অনুপ্ৰয়োগ নিৰ্ব্বাচন কৰক...">
+<!ENTITY  chooseApplication.accesskey     "C">

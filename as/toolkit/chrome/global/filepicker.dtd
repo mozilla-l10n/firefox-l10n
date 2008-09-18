@@ -1,0 +1,18 @@
+<!ENTITY lookInMenuList.label   "-ইয়াত চাওক:">
+<!ENTITY lookInMenuList.accesskey   "L">
+<!ENTITY textInput.label        "নথিপত্ৰৰ নাম:">
+<!ENTITY textInput.accesskey        "n">
+<!ENTITY filterMenuList.label   "এই ধৰণৰ নথিপত্ৰ:">
+<!ENTITY filterMenuList.accesskey   "t">
+<!ENTITY name.label             "নাম">
+<!ENTITY size.label             "আকাৰ">
+<!ENTITY lastModified.label     "যোৱাবাৰ সলনি কৰা">
+<!ENTITY permissions.label      "আজ্ঞাসমূহ">
+<!ENTITY showHiddenFiles.label  "লুকুৱা নথিপত্ৰ আৰু পঞ্জিকা দেখুৱাওক">
+<!ENTITY showHiddenFiles.accesskey  "S">
+
+<!ENTITY noPermissionError.label "You do not have the permissions necessary to view this directory.">
+
+<!ENTITY folderUp.tooltiptext   "Go up a level">
+<!ENTITY folderHome.tooltiptext "Go to home">
+<!ENTITY folderNew.tooltiptext  "Create new directory">

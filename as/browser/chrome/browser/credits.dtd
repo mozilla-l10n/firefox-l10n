@@ -1,0 +1,18 @@
+<!ENTITY brandMotto       "ৱেবক পুনঃ আৱিষ্কাৰ কৰক">
+<!ENTITY credit.leads     "যন্ত্ৰশাস্ত্ৰৰ নায়কসকল">
+<!ENTITY credit.thanks    "বিশেষ ধন্যবাদ এওঁলোকলৈ">
+
+<!ENTITY credit.thanks2      "এখেত সকললৈ বহু ধন্যবাদ">
+<!ENTITY credit.contributors2 "সহায়কৰোঁতাসকল">
+<!ENTITY credit.postthanks   "">
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation "<h3>অমিতাক্ষ ফুকন</h3><ul><li>Amitakhya Phukan</li></ul>">
+
+<!ENTITY credit.market      "বেপাৰ">
+<!ENTITY credit.memory      "-ৰ স্মৃতিত">
+<!ENTITY credit.poweredByGeckoReg "Powered by Gecko&reg;">

@@ -1,0 +1,10 @@
+<!ENTITY window.title                 "ব্যতিক্ৰম">
+<!ENTITY treehead.sitename.label      "ছাইট">
+<!ENTITY treehead.status.label        "অৱস্থা">
+<!ENTITY addpermission.label          "নতুন ছাইট">
+<!ENTITY removepermission.label       "ছাইট আঁতৰাওক">
+<!ENTITY removeallpermissions.label   "সকলো ছাইট আঁতৰাওক">
+<!ENTITY address.label                "ৱেব ছাইটৰ ঠিকনা:">
+<!ENTITY block.label                  "ৰোধ কৰক">
+<!ENTITY session.label                "অধিবেশনৰ বাবে আজ্ঞা দিয়ক">
+<!ENTITY allow.label                  "আজ্ঞা দিয়ক">

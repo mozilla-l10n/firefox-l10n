@@ -1,0 +1,51 @@
+
+<!ENTITY migrationWizard.title          "উইজাৰ্ড আমদানি কৰক">
+
+<!ENTITY importFrom.label               "-ৰ পৰা বিকল্প, পত্ৰচিহ্ন, ইতিহাস, গুপ্তশব্দ  আৰু অন্য তথ্যৰ আমদানি কৰক:">
+<!ENTITY importFromUnix.label           "-ৰ পৰা পছন্দ, পত্ৰচিহ্ন, ইতিহাস, গুপ্তশব্দ আৰু অন্য তথ্যৰ আমদানি কৰক:">
+<!ENTITY importFromBookmarks.label      "-ৰ পৰা পত্ৰচিহ্ন আমদানি কৰক:">
+
+<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromPhoenix.label        "Firefox 0.8, Firebird বা Phoenix">
+<!ENTITY importFromPhoenix.accesskey    "P">
+<!ENTITY importFromNothing.label        "একো আমদানি নকৰিব">
+<!ENTITY importFromNothing.accesskey    "D">
+<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 বা Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromNetscape4.label      "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromOpera.label          "Opera">
+<!ENTITY importFromOpera.accesskey      "O">
+<!ENTITY importFromCamino.label         "Camino">
+<!ENTITY importFromCamino.accesskey     "C">
+<!ENTITY importFromSafari.label         "Safari">
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromOmniWeb.label        "OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey    "W">
+<!ENTITY importFromICab.label           "iCab">
+<!ENTITY importFromICab.accesskey       "i">
+<!ENTITY importFromKonqueror.label      "Konqueror">
+<!ENTITY importFromKonqueror.accesskey  "K">
+<!ENTITY importFromEpiphany.label       "Epiphany">
+<!ENTITY importFromEpiphany.accesskey   "E">
+<!ENTITY importFromGaleon.label         "Galeon">
+<!ENTITY importFromGaleon.accesskey     "G">
+<!ENTITY importFromHTMLFile.label       "এখন HTML নথিপত্ৰৰ পৰা">
+<!ENTITY importFromHTMLFile.accesskey   "F">
+
+<!ENTITY noMigrationSources.label       "পত্ৰচিহ্ন, ইতিহাস বা গুপ্তশব্দৰ তথ্য থকা কোনো অনুপ্ৰয়োগ পোৱা ন'গ'ল ।">
+
+<!ENTITY importSource.title             "পছন্দ আৰু তথ্য আমদানি কৰক">
+<!ENTITY importItems.title              "আমদানি কৰিব লগা বস্তু">
+<!ENTITY importItems.label              "আমদানি কৰিব লগা বস্তু নিৰ্ব্বাচন কৰক:">
+
+<!ENTITY migrating.title                "আমদানি কৰা হৈছে...">
+<!ENTITY migrating.label                "নিম্নলিখিত বস্তু বৰ্ত্তমানে আমদানি কৰা হৈছে...">
+
+<!ENTITY selectProfile.title            "পাৰ্শ্বৰূপ নিৰ্ব্বাচন কৰক">
+<!ENTITY selectProfile.label            "-ৰ পৰা নিম্নলিখিত পাৰ্শ্বৰূপ আমদানি কৰিবলৈ পোৱা যায়:">
+
+<!ENTITY done.title                     "আমদানি সম্পূৰ্ণ হ'ল">
+<!ENTITY done.label                     "নিম্নলিখিত বস্তু সফলভাবে আমদানি কৰা হ'ল:">
+

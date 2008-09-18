@@ -1,0 +1,20 @@
+<!ENTITY sanitizeDialog.title         "ব্যক্তিগত তথ্য পৰিষ্কাৰ কৰক">
+
+<!ENTITY clearDataSettings.label      "&brandShortName; ক মই ব্যক্তিগত তথ্য পৰিষ্কাৰ কৰিবলৈ ক'লে, এইবোৰ পৰিষ্কাৰ হ'ব লাগে:">
+
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+<!ENTITY itemHistory.label            "বিচৰণৰ ইতিহাস">
+<!ENTITY itemHistory.accesskey        "B">
+<!ENTITY itemFormData.label           "সংৰক্ষিত ফৰ্মৰ তথ্য">
+<!ENTITY itemFormData.accesskey       "F">
+<!ENTITY itemPasswords.label          "সংৰক্ষিত গুপ্তশব্দ">
+<!ENTITY itemPasswords.accesskey      "P">
+<!ENTITY itemCookies.label            "কুকি">
+<!ENTITY itemCookies.accesskey        "C">
+<!ENTITY itemCache.label              "কেচে">
+<!ENTITY itemCache.accesskey          "a">
+<!ENTITY itemDownloads.label          "ডাউন্‌লোডৰ ইতিহাস">
+<!ENTITY itemDownloads.accesskey      "D">
+<!ENTITY itemSessions.label           "প্ৰমাণীকৰণ কৰা অধিবেশন">
+<!ENTITY itemSessions.accesskey       "S">

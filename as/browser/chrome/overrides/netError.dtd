@@ -1,0 +1,171 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "পৃষ্ঠা তোলোঁতে ভুল">
+<!ENTITY retry.label "পুনঃ চেষ্টা কৰক">
+
+<!-- Specific error messages -->
+
+<!ENTITY connectionFailure.title "সংযোগ কৰাত অক্ষম">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "এই ঠিকনা পৰিমিত">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "সেৱক পোৱা ন'গ'ল">
+<!ENTITY dnsNotFound.longDesc "
+<ul>
+  <li>বানানৰ ভুলৰ বাবে ঠইকনা পৰীক্ষা কৰক যেনে
+    <strong>ww</strong>.example.com
+    <strong>www</strong>.example.com</li> ৰ সলনি
+  <li>যদি আপুনি কোনো পৃষ্ঠা তুলি ল'ব পৰা নাই, আপোনাৰ কম্পিউটাৰৰ নে'টৱৰ্কৰ সংযোগ পৰীক্ষা কৰক ।</li>
+  <li>যদি আপোনাৰ কম্পিউটাৰ বা নে'টৱৰ্ক ফায়াৰ্ৱাল বা নিযুক্তকেৰ সংৰক্ষিত, &brandShortName; ৱেব অভিগম কৰিব পৰাৰ আজ্ঞা থকাটো নিশ্চিত কৰক ।</li>
+</ul>
+">
+
+<!ENTITY fileNotFound.title "নথিপত্ৰ পোৱা ন'গ'ল">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>ডাঙৰ হাতৰ আখৰ বা লিখাৰ ভুলৰ বাবে নথিপত্ৰৰ নাম পৰীক্ষা কৰক ।</li>
+  <li>নথিপত্ৰক গমন কৰা, পুনঃ নামকৰণ কৰা বা আঁতৰুৱাৰ বাবে পৰীক্ষা কৰক ।</li>
+</ul>
+">
+
+
+<!ENTITY generic.title "ক্ষমা কৰিব ।">
+<!ENTITY generic.longDesc "
+<p>&brandShortName; কিবা কাৰণৰ বাবে এই পৃষ্ঠা তুলি ল'ব নোৱাৰি ।</p>
+">
+
+<!ENTITY malformedURI.title "অবৈধ ঠিকনা">
+<!ENTITY malformedURI.longDesc "
+<ul>
+  <li>ৱেব ঠিকনা সাধাৰণতে এই ধৰণে লিখা হয়
+    <strong>http://www.example.com/</strong></li>
+  <li>ফৰ্ৱাৰ্ড স্লেছ ব্যৱহাৰ কৰাটো সুনিশ্চিত কৰক (i.e.
+    <strong>/</strong>).</li>
+</ul>
+">
+
+<!ENTITY netInterrupt.title "সংযোগ বিচ্ছিন্ন হৈছে">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY netOffline.title "অফলাইন ধৰণ">
+<!ENTITY netOffline.longDesc "
+<ul>
+  <li>&quot;অফলাইন হিচাপে কাম কৰক&quot; ক নথিপত্ৰৰ তালিকাত নিৰ্ব্বাচন কৰিব, তাৰ পিছত পুনঃ চেষ্টা কৰক ।</li>
+</ul>
+">
+
+<!ENTITY contentEncodingError.title "বিষয়বস্তু গুপুতকৰণত ভুল">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>এই সমস্যাৰ কথা জনাবলৈ ৱেব ছাইটৰ গৰাকীহঁতকৰ সৈতে সম্পৰ্ক কৰক ।</li>
+</ul>
+">
+
+<!ENTITY unsafeContentType.title "অসুৰক্ষিত নথিপত্ৰৰ ধৰণ">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>এই সমস্যাৰ কথা জনাবলৈ ৱেব ছাইটৰ গৰাকীহঁতকৰ সৈতে সম্পৰ্ক কৰক ।</li>
+</ul>
+">
+
+<!ENTITY netReset.title "সংযোগ পুনঃ প্ৰতিষ্ঠা কৰা হৈছে">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "সংযোত স্থাপনৰ সময়ৰ বিৰতি হৈছে">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY protocolNotFound.title "ঠিকনা বুজি পোৱা ন'গ'ল">
+<!ENTITY protocolNotFound.longDesc "
+<ul>
+  <li>এই ঠিকনা খুলিবলৈ আপুনি অন্য চালনাজ্ঞান সংস্থাপন কৰিব লগা হ'বও পাৰে ।</li>
+</ul>
+">
+
+<!ENTITY proxyConnectFailure.title "নিযুক্তক সেৱকে সংযোগ প্ৰত্যাখ্যান কৰিছে">
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>নিযুক্তকৰ পছন্দ শুদ্ধ হোৱাটো পৰীক্ষা কৰক ।</li>
+  <li>নিযুক্তক সেৱক সঠিকভাবে কাম কৰা নিশ্চিত কৰিবলৈ আপোনাৰ নে'টৱৰ্ক প্ৰশাসকক সংযোগ কৰক ।</li>
+</ul>
+">
+
+<!ENTITY proxyResolveFailure.title "নিযুক্তক সেৱক পোৱা ন'গ'ল">
+<!ENTITY proxyResolveFailure.longDesc "
+<ul>
+  <li>নিযুক্তকৰ পছন্দ শুদ্ধ হোৱাটো নিশ্চিত কৰিবলৈ পৰীক্ষা কৰক ।</li>
+  <li>আপোনাৰ কম্পিউটাৰৰ শুদ্ধভাবে কাম কৰা নে'টৱৰ্কৰ সংযোগ থকাটো পৰীক্ষা কৰক ।</li>
+  <li>যদি আপোনাৰ কম্পিউটাৰ বা নে'টৱৰ্ক ফায়াৰ্ৱাল বা নিযুক্তকেৰে সংৰক্ষিত, &brandShortName; এ ৱেব অভিগম কৰিব পৰাৰ আজ্ঞা থকাটো নিশ্চিত কৰক ।</li>
+</ul>
+">
+
+<!ENTITY redirectLoop.title "এই পৃষ্ঠাই শুদ্ধভাবে পুনঃ দিশ দিয়া নাই">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>এই সমস্যা কেতিয়াবা কুকি নিষ্ক্ৰীয় কৰি বা গ্ৰহণ নকৰি হ'ব পাৰে ।</li>
+</ul>
+">
+
+<!ENTITY unknownSocketType.title "সেৱকৰ পৰা অপ্ৰত্যাশিত উত্তৰ">
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>আপোনাৰ ব্যৱস্থাপ্ৰণালীত Personal Security Manager সংস্থাপিত হোৱা সুনিশ্চিত কৰক ।</li>
+  <li>এইটো সেৱকত মান প্ৰাপ্ত নথকা বিন্যাসৰ বাবেও হ'ব পাৰে ।</li>
+</ul>
+">
+
+
+<!ENTITY nssFailure2.title "সুৰক্ষিত সংযোগ বিফল হ'ল">
+<!ENTITY nssFailure2.longDesc "
+<ul>
+  <li>পোৱা তথ্যৰ প্ৰমাণীকৰণৰ পৰীক্ষা কৰিব নোৱাৰা বাবে আপুনি চাব বিচৰা পৃষ্ঠা দেখুৱাব নোৱাৰি ।</li>
+  <li>এই সমস্যাৰ কথা জনাবলৈ ৱেব ছাইটৰ গৰাকীহঁতকৰ সৈতে সম্পৰ্ক কৰক । বৈকল্পিকভাবে, এই ভঙা ছাইটৰ প্ৰতিবেদন কৰিবলৈ সহায় তালিকাৰ আদেশ ব্যৱহাৰ কৰক ।</li>
+</ul>
+">
+
+<!ENTITY nssBadCert.title "সুৰক্ষিত সংযোগ বিফল হ'ল">
+<!ENTITY nssBadCert.longDesc2 "
+<ul>
+  <li>এই সমস্যা সেৱকৰ বিন্যাসৰ বাবেও হ'ব পাৰে, বা কোনোবা বেলেগে সেৱক হোৱাৰ ভাও ধৰিছে ।</li>
+  <li>যদি অতিতত এই সেৱকৰ লগত সফলভাবে সংযোগ কৰিছে, ভুল অস্থায়ী হ'ব পাৰে, আৰু আপুনি পিছত পুনঃ চেষ্টা কৰিব পাৰে ।</li>
+</ul>
+">
+
+<!ENTITY sharedLongDesc "
+<ul>
+  <li>এই ছাইটতো অস্থায়ীভাবে পোৱা নাযাব বা অতি ব্যস্ত । কিছু সময়ৰ পিছত আকৌ চেষ্টা কৰিব ।</li>
+  <li>যদি কোনো পৃষ্ঠা তুলিব পৰা নাই, আপোনাৰ কম্পিউটাৰৰ নে'টৱৰ্ক সংযোগ পৰীক্ষা কৰক ।</li>
+  <li>যদি আপোনাৰ কম্পিউটাৰ বা নে'টৱৰ্ক ফায়াৰ্ৱাল বা নিযুক্তকেৰে সংৰক্ষিত, &brandShortName; এ ৱেব অভিগম কৰিব পৰাৰ আজ্ঞা থকাটো নিশ্চিত কৰক ।</li>
+</ul>
+">
+
+<!ENTITY malwareBlocked.title "আক্ৰমণৰ সংদেহযুক্ত ছাইট!">
+<!ENTITY malwareBlocked.longDesc "
+<p>আক্ৰমণৰ ছাইটে কাৰ্য্যক্ৰম সংস্থাপন কৰে যি ব্যক্তিগত তথ্য চুৰ কৰে, আপোনাৰ কম্পিউটাৰ অন্যক আক্ৰমণ কৰিবলৈ ব্যৱহাৰ কৰে, বা আপোনাৰ ব্যৱস্থাপ্ৰণালী ধ্বংস কৰে ।</p>
+<p>যিসকল গৰাকীয়ে নিজৰ ছাইট ভুল ভাবে আক্ৰমণৰ ছাইট হিচাপে প্ৰতিবেদন কৰা হৈছে বুলি ভাবে <a href='http://www.stopbadware.org/home/reviewinfo' > ত পৰীক্ষাৰ বাবে অনুৰোধ কৰিব পাৰে</a> ।</p>
+">
+
+<!ENTITY phishingBlocked.title "সন্দেহযুক্ত ৱেব জালিয়াতি!">
+<!ENTITY phishingBlocked.longDesc "
+<p>এই পৃষ্ঠাত কোনো ব্যক্তিগত তথ্য দিলে চিনাকিৰ চুৰি বা অন্য জালিয়াতি হ'ব পাৰে ।</p>
+<p>এই ধৰণৰ ৱেব জালিয়াতি ফিশ্বিং এটেক নামৰ কেলেংকাৰিত ব্যৱহাৰ হয়, য'ত জালী ৱেব পৃষ্ঠা আৰু ঈ-মেইল ব্যৱহাৰ কৰা হয় আপোনাৰ বিশ্বাসী উৎসক নকল কৰিবলৈ ।</p>
+">
+
+<!ENTITY securityOverride.linkText "বা আপুনি এটা ব্যতিক্ৰম যোগ কৰিব পাৰে…">
+<!ENTITY securityOverride.getMeOutOfHereButton "মোক ইয়াৰ পৰা লৈ যাওক!">
+<!ENTITY securityOverride.exceptionButtonLabel "ব্যতিক্ৰম যোগ কৰক…">
+
+<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to firefox. -->
+
+<!ENTITY securityOverride.warningText "
+<p>সম্পূৰ্ণ ভাবে বিশ্বাস নথকা ইন্টাৰ্নে'ট সংযোগ  বা এই সেৱকৰ বাবে সকিয়নি চোৱাৰ অভ্যাস নাথাকিলে আপুনি ব্যতিক্ৰম যোগ কৰিব নালাগে ।</p>
+
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+">
+

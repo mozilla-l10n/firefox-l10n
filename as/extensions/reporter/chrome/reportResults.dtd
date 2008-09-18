@@ -1,0 +1,14 @@
+<!ENTITY reportSite                  "ছাইট">
+<!ENTITY reportProblemType           "সমস্যাৰ ধৰণ">
+<!ENTITY reportDecsription           "বিৱৰণ">
+<!ENTITY reportPlatform              "মঞ্চ">
+<!ENTITY reportProduct               "নিৰ্গম">
+<!ENTITY reportoscpu                 "OS">
+<!ENTITY reportGecko                 "Gecko">
+<!ENTITY reportBuildConfig           "Build Config">
+<!ENTITY reportUseragent             "Useragent">
+<!ENTITY reportLanguage              "ভাষা">
+<!ENTITY reportEmail                 "ঈ-মেইল">
+<!ENTITY error                       "ভুলৰ বিৱৰণ">
+<!ENTITY faultCode                   "কোড">
+<!ENTITY faultMessage                "সম্বাদ">

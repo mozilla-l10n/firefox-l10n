@@ -1,0 +1,25 @@
+<!ENTITY license.part0     "প্ৰতিলিপিত হয়">
+<!ENTITY license.part1     "তাৰ">
+<!ENTITY license.contrib   "অংশগ্ৰহণকাৰীৰ দ্বাৰা">
+<!ENTITY license.part2     "আলৈখ্যনৰ চৰ্ত্তৰ">
+<!ENTITY license.part3     "মতে । সকলো অধিকাৰ সংৰক্ষিত ।">
+
+<!ENTITY about.version                "সংস্কৰণ">
+
+<!ENTITY about.copy.beforeLink        "প্ৰতিলিপিত &copy; 1998-2007 ">
+<!ENTITY about.copy.linkTitle         "অংশগ্ৰহণকাৰীৰ দ্বাৰা">
+<!ENTITY about.copy.afterLink         "Mozilla প্ৰকল্পলৈ ।">
+
+<!ENTITY about.license.beforeLink     "এই উৎপাদনৰ বিষয়ে">
+<!ENTITY about.license.linkTitle      "প্ৰমাণীকৰণৰ তথ্য">
+<!ENTITY about.license.afterLink      "পঢ়ক ।">
+
+<!ENTITY about.relnotes.beforeLink    "এই সংস্কৰণৰ বাবে">
+<!ENTITY about.relnotes.linkTitle     "মুক্তিৰ টোকা">
+<!ENTITY about.relnotes.afterLink     "পঢ়ক ।">
+
+<!ENTITY about.buildconfig.beforeLink "এই সংস্কৰণৰ বাবে ব্যৱহাৰ">
+<!ENTITY about.buildconfig.linkTitle  "কৰা গঠনৰ বিন্যাস">
+<!ENTITY about.buildconfig.afterLink  "চাওক ।">
+
+<!ENTITY about.buildIdentifier        "গঠনৰ চিহ্ন: ">
