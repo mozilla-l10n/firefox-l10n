@@ -38,6 +38,8 @@
 <!ENTITY sendUnsentCmd.accesskey "u">
 <!ENTITY subscribeCmd.label "Meld inn …">
 <!ENTITY subscribeCmd.accesskey "M">
+<!ENTITY deleteFolder.label "Slett mappe">
+<!ENTITY deleteFolder.accesskey "S">
 <!ENTITY renameFolder.label "Endre mappenavn …">
 <!ENTITY renameFolder.accesskey "E">
 <!ENTITY renameFolder.key "VK_F2">
@@ -439,6 +441,7 @@
 <!ENTITY backButton1.label "Tilbake">
 <!ENTITY goForwardButton1.label "Frem">
 <!ENTITY deleteButton.label "Slett">
+<!ENTITY undeleteButton.label "Angre sletting">
 <!ENTITY markButton.label "Merk">
 <!ENTITY printButton.label "Skriv ut">
 <!ENTITY stopButton.label "Stopp">
@@ -470,6 +473,7 @@
 <!ENTITY goForwardButton.tooltip "Gå frem en melding">
 <!ENTITY goBackButton.tooltip "Gå tilbake en melding">
 <!ENTITY deleteButton.tooltip "Slett valgt melding eller mappe">
+<!ENTITY undeleteButton.tooltip "Angre sletting av melding">
 <!ENTITY markButton.tooltip "Merk meldinger">
 <!ENTITY printButton.tooltip "Skriv ut denne meldingen">
 <!ENTITY stopButton.tooltip "Stopp denne overføringen">
@@ -623,12 +627,12 @@
 
 <!-- Remote Content Bar -->
 <!ENTITY remoteContentMessage1.label "Av hensyn til personvern har &brandShortName; blokkert bilder fra Internett.">
-<!ENTITY loadRemoteContentButton1.label "Last inn bilder">
+<!ENTITY loadRemoteContentButton2.label "Last inn bilder nå">
 
 <!-- Phishing Bar -->
-<!ENTITY phishingBarMessage1.label "Mulig e-postsvindel">
+<!ENTITY phishingBarMessage2.label "Denne meldingen kan være en svindel">
 <!ENTITY removePhishingBarButton1.label "Ignorer advarsel">
-<!ENTITY reportPhishingError.label "Dette er ikke e-postsvindel">
+<!ENTITY reportPhishingError1.label "Denne meldingen ser ikke ut til å være en svindel.">
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
@@ -636,6 +640,8 @@
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Legg til i adressebok …">
 <!ENTITY AddToAddressBook.accesskey "L">
+<!ENTITY AddDirectlyToAddressBook.label "Legg til i adressebok">
+<!ENTITY AddDirectlyToAddressBook.accesskey "L">
 <!ENTITY EditContact.label "Rediger kontakt …">
 <!ENTITY EditContact.accesskey "R">
 <!ENTITY ViewContact.label "Vis kontakt">
@@ -652,10 +658,10 @@
 <!ENTITY reportPhishingURL.accesskey "o">
 
 <!-- Content Pane Context Menu -->
-<!ENTITY saveLinkCmd.label "Lagre lenkemål">
-<!ENTITY saveLinkCmd.accesskey "r">
-<!ENTITY saveImageCmd.label "Lagre bilde">
-<!ENTITY saveImageCmd.accesskey "a">
+<!ENTITY saveLinkAsCmd.label "Lagre lenkemål som …">
+<!ENTITY saveLinkAsCmd.accesskey "r">
+<!ENTITY saveImageAsCmd.label "Lagre bilde som …">
+<!ENTITY saveImageAsCmd.accesskey "a">
 <!ENTITY copyCmd.label "Kopier">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY selectAllCmd.label "Merk alt">

@@ -35,28 +35,41 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField.label "Til: ">
-<!ENTITY fromField.label "Fra: ">
-<!ENTITY senderField.label "Avsender: ">
-<!ENTITY organizationField.label "Organisasjon: ">
-<!ENTITY replyToField.label "Svar til: ">
+<!ENTITY toField2.label "til ">
+<!ENTITY fromField2.label "fra ">
+<!ENTITY senderField2.label "avsender ">
+<!ENTITY organizationField2.label "organisasjon ">
+<!ENTITY replyToField2.label "svar-til ">
 
-<!ENTITY subjectField.label "Emne: ">
+<!ENTITY subjectField2.label "emne ">
 <!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField.label "Kopi: ">
-<!ENTITY bccField.label "Blind kopi: ">
-<!ENTITY newsgroupsField.label "Gruppe: ">
-<!ENTITY followupToField.label "Oppfølging: ">
-<!ENTITY tagsHdr.label "Merkelapper: ">
-<!ENTITY dateField.label "Dato: ">
-<!ENTITY userAgentField.label "Applikasjon: ">
-<!ENTITY referencesField.label "Referanser: ">
-<!ENTITY messageIdField.label "Meldingsid: ">
-<!ENTITY inReplyToField.label "Som-svar-til: ">
-<!ENTITY originalWebsite.label "Nettsted: ">
+<!ENTITY ccField2.label "kopi ">
+<!ENTITY bccField2.label "blind kopi ">
+<!ENTITY newsgroupsField2.label "gruppe ">
+<!ENTITY followupToField2.label "oppfølging ">
+<!ENTITY tagsHdr2.label "merkelapper ">
+<!ENTITY dateField2.label "dato ">
+<!ENTITY userAgentField2.label "applikasjon ">
+<!ENTITY referencesField2.label "referanser ">
+<!ENTITY messageIdField2.label "meldingsid ">
+<!ENTITY inReplyToField2.label "som-svar-til ">
+<!ENTITY originalWebsite2.label "nettsted ">
 <!ENTITY saveAll.label "Lagre alle …">
 
-<!ENTITY editMessage.label "Rediger utkast …">
+<!ENTITY editMessageDescription.label "Dette er et meldingsutkast">
+<!ENTITY editMessageButton.label "Rediger …">
+<!ENTITY replyButton.label "svar …">
+<!ENTITY forwardButton.label "videresend …">
+<!ENTITY junkButton.label "merk som uønsket">
+<!ENTITY trashButton.tooltiptext "slett">
+
+<!ENTITY otherActionsButton.label "andre handlinger">
+<!ENTITY saveAsMenuItem.label "lagre som…">
+<!ENTITY saveAsMenuItem.accesskey "s">
+<!ENTITY viewSourceMenuItem.label "vis kildekode …">
+<!ENTITY viewSourceMenuItem.accesskey "V">
+
+<!ENTITY hideDetailsButton.label "skjul detaljer">
 
 <!ENTITY openAttachmentCmd.label    "Åpne">
 <!ENTITY openAttachmentCmd.accesskey    "Å">
@@ -65,7 +78,7 @@
 <!ENTITY detachAttachmentCmd.label    "Splitt …">
 <!ENTITY deleteAttachmentCmd.label    "Slett">
 <!ENTITY saveAllAttachmentsCmd.label    "Lagre alle …">
-<!ENTITY saveAllAttachmentsCmd.accesskey        "L">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "L">
 <!ENTITY detachAllAttachmentsCmd.label    "Splitt alle …">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "S">
 <!ENTITY deleteAllAttachmentsCmd.label    "Slett alle …">
