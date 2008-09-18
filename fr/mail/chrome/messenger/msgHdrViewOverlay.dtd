@@ -35,28 +35,41 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField.label "Pour :">
-<!ENTITY fromField.label "De :">
-<!ENTITY senderField.label "Expéditeur : ">
-<!ENTITY organizationField.label "Organisation :">
-<!ENTITY replyToField.label "Réponse à :">
+<!ENTITY toField2.label "pour ">
+<!ENTITY fromField2.label "de ">
+<!ENTITY senderField2.label "expéditeur ">
+<!ENTITY organizationField2.label "organisation ">
+<!ENTITY replyToField2.label "réponse à ">
 
-<!ENTITY subjectField.label "Sujet :">
-<!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField.label "Copie à :">
-<!ENTITY bccField.label "Copie cachée à :">
-<!ENTITY newsgroupsField.label "Groupes :">
-<!ENTITY followupToField.label "Faire suivre à :">
-<!ENTITY tagsHdr.label "Étiquettes : ">
-<!ENTITY dateField.label "Date :">
-<!ENTITY userAgentField.label "Agent utilisateur :">
-<!ENTITY referencesField.label "Références : ">
-<!ENTITY messageIdField.label "Identifiant du message : ">
-<!ENTITY inReplyToField.label "En réponse à : ">
-<!ENTITY originalWebsite.label "Site Web : ">
+<!ENTITY subjectField2.label "sujet ">
+<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
+<!ENTITY ccField2.label "copie à ">
+<!ENTITY bccField2.label "copie cachée à ">
+<!ENTITY newsgroupsField2.label "groupes ">
+<!ENTITY followupToField2.label "faire suivre à ">
+<!ENTITY tagsHdr2.label "étiquettes ">
+<!ENTITY dateField2.label "date ">
+<!ENTITY userAgentField2.label "agent utilisateur ">
+<!ENTITY referencesField2.label "références ">
+<!ENTITY messageIdField2.label "identifiant du message ">
+<!ENTITY inReplyToField2.label "en réponse à ">
+<!ENTITY originalWebsite2.label "site Web ">
 <!ENTITY saveAll.label "Tout enregistrer…">
 
-<!ENTITY editMessage.label "Modifier le brouillon…">
+<!ENTITY editMessageDescription.label "Ceci est un brouillon">
+<!ENTITY editMessageButton.label "Modifier…">
+<!ENTITY replyButton.label "répondre…">
+<!ENTITY forwardButton.label "faire suivre à…">
+<!ENTITY junkButton.label "marquer comme indésirable">
+<!ENTITY trashButton.tooltiptext "supprimer">
+
+<!ENTITY otherActionsButton.label "autres actions">
+<!ENTITY saveAsMenuItem.label "enregistrer sous…">
+<!ENTITY saveAsMenuItem.accesskey "e">
+<!ENTITY viewSourceMenuItem.label "afficher la source…">
+<!ENTITY viewSourceMenuItem.accesskey "a">
+
+<!ENTITY hideDetailsButton.label "masquer les détails">
 
 <!ENTITY openAttachmentCmd.label "Ouvrir">
 <!ENTITY openAttachmentCmd.accesskey "O">

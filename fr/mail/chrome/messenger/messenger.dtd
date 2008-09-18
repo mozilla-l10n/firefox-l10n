@@ -629,12 +629,12 @@
 
 <!-- Remote Content Bar -->
 <!ENTITY remoteContentMessage1.label "Afin de protéger votre vie privée, les images distantes ont été bloquées.">
-<!ENTITY loadRemoteContentButton1.label "Télécharger les images">
+<!ENTITY loadRemoteContentButton2.label "Afficher les images maintenant">
 
 <!-- Phishing bar Bar -->
-<!ENTITY phishingBarMessage1.label "Suspicion de message frauduleux">
+<!ENTITY phishingBarMessage2.label "Ce message est peut-être frauduleux.">
 <!ENTITY removePhishingBarButton1.label "Ignorer l'avertissement">
-<!ENTITY reportPhishingError.label "Ce message n'est pas frauduleux">
+<!ENTITY reportPhishingError1.label "Ce message ne semble pas être frauduleux">
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
