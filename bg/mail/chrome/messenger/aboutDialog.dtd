@@ -1,0 +1,5 @@
+<!ENTITY aboutDialog.title "Относно &brandShortName;">
+<!ENTITY credits "Заслуги">
+<!ENTITY aboutLink "&lt; Относно &brandShortName;">
+<!ENTITY aboutVersion "версия">
+<!ENTITY copyrightText "©1998-2005 Сътрудници. Всички права запазени. Mozilla Thunderbird и логото на                                   Thunderbird са търговски марки на Mozilla Foundation.  Всички права                                  запазени.">

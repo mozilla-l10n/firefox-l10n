@@ -1,0 +1,12 @@
+<!ENTITY notificationsDialog.title "Звук за ново писмо">
+<!ENTITY window.width "30em">
+<!ENTITY soundNotification.caption "Настройка на звук за ново писмо">
+<!ENTITY preview.label "Прослушване">
+<!ENTITY preview.accesskey "ш">
+<!ENTITY systemsound.label "Системен звук за ново писмо">
+<!ENTITY systemsoundMac.label "Системен звук за известяване">
+<!ENTITY systemsound.accesskey "С">
+<!ENTITY customsound.label "Друг .wav файл">
+<!ENTITY customsound.accesskey "Д">
+<!ENTITY browse.label "Избор...">
+<!ENTITY browse.accesskey "р">

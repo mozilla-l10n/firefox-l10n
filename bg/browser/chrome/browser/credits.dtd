@@ -1,0 +1,15 @@
+<!ENTITY brandMotto "Преоткрийте Мрежата">
+<!ENTITY credit.thanks "Специални благодарности на">
+
+<!ENTITY credit.thanks2 "Благодарности на нашите">
+<!ENTITY credit.contributors2 "сътрудници">
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+
+<!ENTITY credit.translation "<h3>Преводачи</h3><ul><li>Златко Попов</li><li>Огнян Кулев</li><li>Милен Иванов</li></ul>">
+
+<!ENTITY credit.memory "В памет на">
+<!ENTITY credit.poweredByGeckoReg "Задвижван от Gecko&reg;">

@@ -1,0 +1,8 @@
+<!ENTITY addressbookPicker.label "Адресник:">
+<!ENTITY searchInput.label "Търсене за:">
+<!ENTITY SearchNameOrEmail.label "Име или адрес">
+<!ENTITY addtoToFieldMenu.label "Добавяне към поле До">
+<!ENTITY addtoCcFieldMenu.label "Добавяне към поле Копие (Cc)">
+<!ENTITY addtoBccFieldMenu.label "Добавяне към поле Скрито (Bcc)">
+<!ENTITY toButton.label "Добави към До:">
+<!ENTITY ccButton.label "Добави към Cc:">

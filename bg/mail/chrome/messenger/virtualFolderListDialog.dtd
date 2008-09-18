@@ -1,0 +1,4 @@
+<!ENTITY server.label "Регистрация:">
+<!ENTITY server.accesskey "Р">
+<!ENTITY virtualFolderListTitle.title "Избор на папка(и)">
+<!ENTITY virtualFolderDesc.label "Изберете папки за търсене:">

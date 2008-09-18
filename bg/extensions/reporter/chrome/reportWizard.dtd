@@ -1,0 +1,59 @@
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title "Съобщаване за развален сайт">
+
+<!ENTITY privacyNotice.label "Поверителност">
+<!ENTITY reportWizardPrivacy.description "Този инструмент позволява да съобщите на отбора „евангелисти“ за сайтове, които не се визуализират добре с &brandShortName; или направо спират програмата. Така можете да ни помогнете да подобрим &brandShortName;. Моля, отделете минутка и прочетете как използваме събраната информация от този род.">
+<!ENTITY reportWizardMustAgree.description "За да продължите, трябва да се съгласите с условията за поверителност по-горе.">
+
+<!ENTITY dontShowPrivacyStatement.label "Прочетох и приемам условията за поверителност.">
+<!ENTITY dontShowPrivacyStatement.accesskey "П">
+
+<!ENTITY reportForm.label "Попълване на доклад">
+
+<!ENTITY reportForm.description "Разкажете ни за намерения от вас проблем:">
+<!ENTITY reportForm.url.title "Адрес (URL) на сайта:">
+<!ENTITY reportForm.url.accesskey "U">
+<!-- No ":" at the end -->
+
+<!ENTITY reportForm.behind_login.title "Сайтът е защитен с парола">
+<!ENTITY reportForm.behind_login.accesskey "п">
+
+<!ENTITY reportForm.problem_type.title "Тип проблем:">
+<!ENTITY reportForm.problem_type.accesskey "Т">
+
+<!ENTITY reportForm.problem_type.chooseOne.title "Изберете един…">
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+
+<!ENTITY reportForm.problem_type.item1.title "Браузърът не се поддържа">
+<!ENTITY reportForm.problem_type.item2.title "Не мога да влезна">
+<!ENTITY reportForm.problem_type.item3.title "Не се показва приставка">
+<!ENTITY reportForm.problem_type.item4.title "Липсва съдържание">
+<!ENTITY reportForm.problem_type.item5.title "Държи се странно">
+<!ENTITY reportForm.problem_type.item6.title "Изглежда странно">
+<!ENTITY reportForm.problem_type.item7.title "Друг проблем">
+<!ENTITY reportForm.problem_type.item8.title "Равностоен достъп">
+<!ENTITY reportForm.problem_type.item9.title "Изходните данни са неверни">
+
+<!ENTITY reportForm.describe.title "Описание на проблема:">
+<!ENTITY reportForm.describe.accesskey "О">
+
+<!ENTITY reportForm.platform.title "Платформа:">
+<!ENTITY reportForm.product.title "Продукт:">
+<!ENTITY reportForm.gecko.title "Gecko:">
+<!ENTITY reportForm.useragent.title "Агент:">
+<!ENTITY reportForm.language.title "Език:">
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+
+<!ENTITY reportForm.email.title "Е-поща (не е задължително):">
+<!ENTITY reportForm.email.accesskey "Е">
+
+<!ENTITY reportForm.privacyPolicy.title "Поверителност">
+<!ENTITY reportForm.privacyPolicy.tooltip "Преглед на поверителността">
+
+<!ENTITY reportResults.showDetail.title "Подробности">
+<!ENTITY reportResults.showDetail.accesskey "П">
+
+<!ENTITY sendReport.label "Изпращане на доклад">
+<!ENTITY sendReport.description "Изпращане на доклада към сървъра…">
+
+<!ENTITY finish.label "Докладът е изпратен">

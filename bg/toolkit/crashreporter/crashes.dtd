@@ -1,0 +1,7 @@
+<!ENTITY crashes.title "Изпратени доклади за крашове">
+<!ENTITY id.heading "ID на доклад">
+<!ENTITY date.heading "Дата на изпращане">
+<!ENTITY noReports.label "Не са изпратени доклади за крашове.">
+<!ENTITY noConfig.label "Приложението не е настроено да показва доклади за крашове. За това настройката <code>breakpad.reportURL</code> трябва да бъде зададена.">
+<!ENTITY clearReports.label "Премахване на доклади">
+

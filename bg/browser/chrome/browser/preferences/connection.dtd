@@ -1,0 +1,44 @@
+
+<!ENTITY connectionsDialog.title "Настройки на свързването">
+<!ENTITY window.width "37em">
+<!ENTITY window.macWidth "39em">
+
+<!ENTITY proxyTitle.label "Настройване на прокси за достъп до Интернет">
+<!ENTITY noProxyTypeRadio.label "Пряко свързване с Интернет">
+<!ENTITY noProxyTypeRadio.accesskey "П">
+<!ENTITY systemTypeRadio.label "Използване на системните настройки за прокси">
+<!ENTITY systemTypeRadio.accesskey "И">
+<!ENTITY WPADTypeRadio.label "Автоматично откриване на прокси в мрежата">
+<!ENTITY WPADTypeRadio.accesskey "м">
+<!ENTITY manualTypeRadio.label "Ръчна настройка на прокси:">
+<!ENTITY manualTypeRadio.accesskey "Р">
+<!ENTITY autoTypeRadio.label "Адрес за автоматично настройване на прокси:">
+<!ENTITY autoTypeRadio.accesskey "А">
+<!ENTITY reload.label "Презареждане">
+<!ENTITY reload.accesskey "з">
+<!ENTITY ftp.label "Прокси за FTP:">
+<!ENTITY ftp.accesskey "F">
+<!ENTITY gopher.label "Прокси за Gopher:">
+<!ENTITY gopher.accesskey "G">
+<!ENTITY http.label "Прокси за HTTP:">
+<!ENTITY http.accesskey "H">
+<!ENTITY ssl.label "Прокси за SSL:">
+<!ENTITY ssl.accesskey "S">
+<!ENTITY socks.label "SOCKS хост:">
+<!ENTITY socks.accesskey "C">
+<!ENTITY socks4.label "SOCKS v4">
+<!ENTITY socks4.accesskey "4">
+<!ENTITY socks5.label "SOCKS v5">
+<!ENTITY socks5.accesskey "5">
+<!ENTITY port.label "Порт:">
+<!ENTITY HTTPport.accesskey "П">
+<!ENTITY SSLport.accesskey "о">
+<!ENTITY FTPport.accesskey "р">
+<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
+<!ENTITY gopherPort.accesskey "">
+<!ENTITY SOCKSport.accesskey "т">
+<!ENTITY noproxy.label "Без прокси за:">
+<!ENTITY noproxy.accesskey "Б">
+<!ENTITY noproxyExplain.label "Примери: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY shareproxy.label "Използване на този прокси сървър за всички протоколи">
+<!ENTITY shareproxy.accesskey "п">

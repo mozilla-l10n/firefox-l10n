@@ -1,0 +1,7 @@
+<!ENTITY window.title "Настройка на заглавки">
+<!ENTITY addButton.label "Добавяне">
+<!ENTITY addButton.accesskey "Д">
+<!ENTITY removeButton.label "Премахване">
+<!ENTITY removeButton.accesskey "П">
+<!ENTITY newMsgHeader.label "Нова заглавка на съобщение:">
+<!ENTITY newMsgHeader.accesskey "Н">

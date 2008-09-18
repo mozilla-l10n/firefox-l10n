@@ -1,0 +1,55 @@
+<!ENTITY history.label "История">
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
+-->
+
+<!ENTITY rememberDaysBefore.label "Запомняне на посетените страници от последните">
+<!ENTITY rememberDaysBefore.accesskey "З">
+<!ENTITY rememberDaysAfter2.label "дни">
+
+<!ENTITY rememberForms.label "Запомняне на информацията от формулярите и лентата за търсене">
+<!ENTITY rememberForms.accesskey "ф">
+
+<!ENTITY rememberDownloads.label "Запомняне на изтеглянията">
+<!ENTITY rememberDownloads.accesskey "и">
+
+
+<!ENTITY cookies.label "Бисквитки">
+
+<!ENTITY acceptCookies.label "Разрешаване на бисквитките">
+<!ENTITY acceptCookies.accesskey "Р">
+
+<!ENTITY acceptThirdParty.label "Разрешаване на бисквитките от трети страни">
+<!ENTITY acceptThirdParty.accesskey "ш">
+
+<!ENTITY keepUntil.label "Запазване до:">
+<!ENTITY keepUntil.accesskey "З">
+
+<!ENTITY expire.label "загуба на валидност">
+<!ENTITY close.label "затваряне на &brandShortName;">
+<!ENTITY askEachTime.label "питане всеки път">
+
+<!ENTITY cookieExceptions.label "Изключения…">
+<!ENTITY cookieExceptions.accesskey "И">
+
+<!ENTITY showCookies.label "Показване на бисквитките…">
+<!ENTITY showCookies.accesskey "б">
+
+
+<!ENTITY privateData.label "Лични данни">
+
+<!ENTITY alwaysClear.label "Изчистване на личните данни при затваряне на &brandShortName;">
+<!ENTITY alwaysClear.accesskey "з">
+
+<!ENTITY askBeforeClear.label "Питане преди изчистване на лични данни">
+<!ENTITY askBeforeClear.accesskey "П">
+
+<!ENTITY clearDataSettings.label "Настройване…">
+<!ENTITY clearDataSettings.accesskey "Н">
+
+<!ENTITY clearDataNow.label "Изчистване сега…">
+<!ENTITY clearDataNow.label2 "Изчистване сега">
+<!ENTITY clearDataNow.accesskey "И">

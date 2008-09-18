@@ -1,0 +1,42 @@
+<!ENTITY caption.label "Отваряне на #1">
+<!-- Localization note: The default intro text has 3 "inserts":
+        #1 - replaced with the descriptive text that describes the mime type
+             (e.g., "MSWord Document")
+        #2 - replaced with the mime type (e.g., "application/ms-word")
+        #3 - replaced with the filename (e.g., "manual.doc")
+        #4 - will be replaced by the brand name (e.g., "Mozilla")
+     If there is no descriptive text, then the alternative text is used which
+     has only insert #2.
+ -->
+
+<!ENTITY intro.label "Файлът &quot;#3&quot; е от тип #2 (#1) и #4 не знае как да работи с този тип файл. Файлът се намира в:">
+<!ENTITY intro.noDesc.label "Файлът &quot;#3&quot; е от тип #2 и #4 не знае как да работи с този тип файл. Файлът се намира в:">
+
+<!ENTITY intro.attachment.label "Сайтът предлага &quot;#3&quot; да се обработи като притурка. Неговия тип е #2 (#1) и се намира в:">
+<!ENTITY intro.attachment.noDesc.label "Сайтът предлага &quot;#3&quot; да се обработи като притурка. Неговия тип е #2 и се намира в:">
+
+<!ENTITY intro.sniffed.label "#4 разпознава файла &quot;#3&quot; като вид #2 (#1). Файлът се намира в:">
+<!ENTITY intro.sniffed.noDesc.label "#4 разпознава файла &quot;#3&quot; като вид #2. Файлът се намира в:">
+
+<!ENTITY prompt.label "Какво да прави #1 с този файл?">
+
+<!ENTITY alwaysHandle.label "Винаги да се извършва това действие, когато се обработват файлове от този тип.">
+<!ENTITY alwaysHandle.accesskey "В">
+
+<!ENTITY saveToDisk.label "Запис на диска">
+<!ENTITY saveToDisk.accesskey "д">
+
+<!ENTITY useSystemDefault.label "Отваряне с приложението по подразбиране (#1)">
+<!ENTITY useSystemDefault.noDesc.label "Отваряне с приложението по подразбиране">
+<!ENTITY useSystemDefault.accesskey "п">
+
+<!ENTITY openUsing.label "Отваряне с">
+<!ENTITY openUsing.accesskey "с">
+
+<!ENTITY chooseApp.label "Избиране…">
+<!ENTITY chooseApp.accesskey "И">
+
+<!ENTITY chooseAppFilePickerTitle "Изберете помощно приложение">
+
+<!ENTITY badApp "Приложението, което указвате (&quot;#1&quot;), не може да бъде открито. Проверете името на файла или изберете друго приложение.">
+<!ENTITY badApp.title "Приложението не е открито">

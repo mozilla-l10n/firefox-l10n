@@ -1,0 +1,32 @@
+<!-- extracted from am-copies.xul -->
+<!ENTITY copyAndFolderTitle.label "Копия и папки">
+<!ENTITY sendingPrefix.label "При изпращане на писмо, автоматично:">
+<!ENTITY fccMailFolder.label "Оставя се копие в:">
+<!ENTITY fccMailFolder.accesskey "О">
+<!ENTITY chooseFolderButton.label "Избор на папка...">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Скрито копие (Bcc) до тези адреси:">
+<!ENTITY bccAddress.accesskey "С">
+<!ENTITY specialFolderTitle.label "Специални папки">
+<!ENTITY draftMailFolder.label "Черновите на писмата се пазят в:">
+<!ENTITY templateMailFolder.label "Шаблоните за писма се пазят в:">
+<!ENTITY saveMessageDlg.label "Иска се потвърждение при запазване на писмо.">
+<!ENTITY saveMessageDlg.accesskey "И">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "Папка &quot;Изпратени&quot; в:">
+<!ENTITY sentFolderOn.accesskey "П">
+<!ENTITY sentInOtherFolder.label "Друга:">
+<!ENTITY sentInOtherFolder.accesskey "Д">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "Папка &quot;Чернови&quot; в:">
+<!ENTITY draftsFolderOn.accesskey "а">
+<!ENTITY draftInOtherFolder.label "Друга:">
+<!ENTITY draftInOtherFolder.accesskey "р">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "Папка &quot;Шаблони&quot; в:">
+<!ENTITY templatesFolderOn.accesskey "к">
+<!ENTITY templateInOtherFolder.label "Друга:">
+<!ENTITY templateInOtherFolder.accesskey "у">
+<!ENTITY specialFoldersTitle.label "Чернови и шаблони">
+<!ENTITY keepDrafts.label "Черновите на писмата се пазят в:">
+<!ENTITY keepTempltes.label "Шаблоните за писма се пазят в:">

@@ -1,0 +1,28 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "Отпечатване">
+
+<!ENTITY printDialog.title "Отпечатване">
+
+<!ENTITY fpDialog.title "Запис на файл">
+
+<!ENTITY fileCheck.label "Отпечатване във файл">
+<!ENTITY propertiesButton.label "Свойства…">
+<!ENTITY descText.label "Описание на принтера:">
+<!ENTITY printer.label "Принтер">
+<!ENTITY printerInput.label "Име на принтера:">
+
+<!ENTITY printrangeGroup.label "Отпечатване">
+<!ENTITY allpagesRadio.label "Всички страници">
+<!ENTITY rangeRadio.label "Страници">
+<!ENTITY frompageInput.label "от">
+<!ENTITY topageInput.label "до">
+<!ENTITY selectionRadio.label "Маркирания текст">
+
+<!ENTITY copies.label "Копия">
+<!ENTITY numCopies.label "Брой копия:">
+
+<!ENTITY printframeGroup.label "Отпечатване на рамките">
+<!ENTITY aslaidoutRadio.label "Както се виждат на екрана">
+<!ENTITY selectedframeRadio.label "Маркираната рамка">
+<!ENTITY eachframesepRadio.label "Всяка рамка поотделно">

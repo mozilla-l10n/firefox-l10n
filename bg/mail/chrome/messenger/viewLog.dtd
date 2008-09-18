@@ -1,0 +1,8 @@
+<!ENTITY viewLog.title "Журнал за филтрирането">
+<!ENTITY viewLogInfo.text "Журналът документира активността на филтрите, работили за тази поща. Използвайте контролната отметка, за да включите отчитането.">
+<!ENTITY clearLog.label "Изчистване">
+<!ENTITY clearLog.accesskey "И">
+<!ENTITY enableLog.label "Включване на регистрирането">
+<!ENTITY enableLog.accesskey "В">
+<!ENTITY closeLog.label "Затваряне">
+<!ENTITY closeLog.accesskey "З">

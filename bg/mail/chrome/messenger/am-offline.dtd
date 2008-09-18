@@ -1,0 +1,33 @@
+<!ENTITY doNotDownloadPop3Movemail.label "За икономия на дисково място, да не се свалят:">
+<!ENTITY doNotDownload.label "За икономия на дисково място, да не се сваля за употреба без връзка:">
+<!ENTITY offlineNewFolder.label "При създаване на нови папки, да се маркират за работа без връзка">
+<!ENTITY offlineNewFolder.accesskey "П">
+<!ENTITY offlineNotDownload.label "Писма по-големи от">
+<!ENTITY offlineNotDownload.accesskey "г">
+<!ENTITY kb.label "KB">
+<!ENTITY days.label "дни">
+<!ENTITY daysOld.label "дни">
+<!ENTITY message.label "писма">
+<!ENTITY nntpNotDownloadRead.label "Прочетени писма">
+<!ENTITY nntpNotDownloadRead.accesskey "П">
+<!ENTITY nntpDownloadMsg.label "Писма на повече от">
+<!ENTITY nntpDownloadMsg.accesskey "и">
+<!ENTITY retentionCleanup.label "За освобождаване на дисково място, старите писма, могат да бъдат изтривано необратимо">
+<!ENTITY retentionKeepMsg.label "Изтриване на писма на повече от">
+<!ENTITY retentionKeepMsg.accesskey "м">
+<!ENTITY retentionKeepAll.label "Не се изтриват никакви писма">
+<!ENTITY retentionKeepAll.accesskey "Н">
+<!ENTITY retentionKeepNew.label "Изтриване на всички без последното">
+<!ENTITY retentionKeepNew.accesskey "т">
+<!ENTITY retentionKeepUnread.label "Изтриване на писмото след прочитане">
+<!ENTITY retentionKeepUnread.accesskey "ч">
+<!ENTITY nntpRemoveBody.label "Само писма по-малки от">
+<!ENTITY nntpRemoveBody.accesskey "С">
+<!ENTITY offlineSelectNntp.label "Избор на форум за работа без връзка...">
+<!ENTITY offlineSelectImap.label "Избор на папки за работа без връзка...">
+<!ENTITY offlineSelect.accesskey "ф">
+<!ENTITY offlineDesc.label "Можете да свалите вашите писма, за бъдат те достъпни, когато работите без връзка с мрежата.">
+<!ENTITY makeInboxMsgsAvailable.label "Писмата в папка Получени да са достъпни при работа без връзка">
+<!ENTITY makeInboxMsgsAvailable.accesskey "у">
+<!ENTITY offlineGroupTitle.label "Без връзка">
+<!ENTITY diskspaceGroupTitle.label "Дисково място">

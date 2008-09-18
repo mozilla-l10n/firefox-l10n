@@ -1,0 +1,19 @@
+<!ENTITY about.version "версия">
+
+<!ENTITY about.copy.beforeLink "Авторски права &copy; 1998-2008 на">
+<!ENTITY about.copy.linkTitle "сътрудници">
+<!ENTITY about.copy.afterLink "на проекта Mozilla.">
+
+<!ENTITY about.license.beforeLink "Прочетете">
+<!ENTITY about.license.linkTitle "информацията за лиценза">
+<!ENTITY about.license.afterLink "на този продукт">
+
+<!ENTITY about.relnotes.beforeLink "Прочетете">
+<!ENTITY about.relnotes.linkTitle "бележките към изданието">
+<!ENTITY about.relnotes.afterLink "за тази версия.">
+
+<!ENTITY about.buildconfig.beforeLink "Вижте">
+<!ENTITY about.buildconfig.linkTitle "настройките на компилирането">
+<!ENTITY about.buildconfig.afterLink "използвани от тази версия.">
+
+<!ENTITY about.buildIdentifier "Идентификатор на компилирането:">

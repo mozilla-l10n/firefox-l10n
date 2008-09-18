@@ -1,0 +1,17 @@
+<!ENTITY newPagesIn.label "Отваряне на новите страници в:">
+<!ENTITY inNewWindow.label "нов прозорец:">
+<!ENTITY inNewWindow.accesskey "н">
+<!ENTITY inNewTab.label "нов подпрозорец">
+<!ENTITY inNewTab.accesskey "п">
+
+<!ENTITY warnCloseMultipleTabs.label "Предупреждение при затваряне на няколко подпрозореца">
+<!ENTITY warnCloseMultipleTabs.accesskey "з">
+
+<!ENTITY warnOpenManyTabs.label "Предупреждение, когато отварянето на няколко подпрозореца може да забави &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey "н">
+
+<!ENTITY showTabBar.label "Показване на лентата с подпрозорци винаги">
+<!ENTITY showTabBar.accesskey "л">
+
+<!ENTITY switchToNewTabs.label "Превключване към новоотворен подпрозорец">
+<!ENTITY switchToNewTabs.accesskey "о">

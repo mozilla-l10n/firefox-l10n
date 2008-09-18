@@ -1,0 +1,13 @@
+<!ENTITY securityWarnings.title "Предупреждения относно сигурността">
+
+<!ENTITY security.warn_when "Показвани предупреждения:">
+<!ENTITY security.warn_entering_secure.label "Ще бъде показана шифрована страница.">
+<!ENTITY security.warn_entering_secure.accesskey "ш">
+<!ENTITY security.warn_entering_weak.label "Ще бъде показана страница с ниско ниво на шифрованост.">
+<!ENTITY security.warn_entering_weak.accesskey "н">
+<!ENTITY security.warn_leaving_secure.label "Ще бъде напусната шифрована страница и заменена с нешифрована.">
+<!ENTITY security.warn_leaving_secure.accesskey "з">
+<!ENTITY security.warn_submit_insecure.label "Ще бъде изпратена нешифрована информация.">
+<!ENTITY security.warn_submit_insecure.accesskey "и">
+<!ENTITY security.warn_viewing_mixed.label "Ще бъде показана шифрована страница, която съдържа нешифровани елементи.">
+<!ENTITY security.warn_viewing_mixed.accesskey "Щ">

@@ -1,0 +1,7 @@
+<!ENTITY aboutDialog.title "Относно &brandFullName;">
+<!ENTITY copyright "Заслуги">
+<!ENTITY copyright.accesskey "З">
+<!ENTITY aboutLink "&lt; Относно &brandFullName;">
+<!ENTITY aboutLink.accesskey "О">
+<!ENTITY aboutVersion "версия">
+<!ENTITY copyrightInfo "&#169;1998-2008 Сътрудници. Всички права запазени. Firefox и логото на Firefox са търговски марки на фондация Mozilla. Всички права запазени.">

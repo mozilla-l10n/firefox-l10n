@@ -1,0 +1,6 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+<!ENTITY viewPicker.label "Показване на:">
+<!ENTITY viewPicker.accesskey "к">
+<!ENTITY viewPickerCustomView.label "Настройка...">
+<!ENTITY viewPickerAll.label "Всичко">
+<!ENTITY viewPickerUnread.label "Непрочетени">

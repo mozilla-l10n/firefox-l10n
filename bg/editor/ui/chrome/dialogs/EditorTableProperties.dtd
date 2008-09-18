@@ -1,0 +1,113 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY tableWindow.title "Свойства на таблицата">
+<!ENTITY applyButton.label "Прилагане">
+<!ENTITY applyButton.accesskey "П">
+<!ENTITY closeButton.label "Затваряне">
+<!ENTITY tableTab.label "Таблица">
+<!ENTITY cellTab.label "Клетки">
+<!ENTITY tableRows.label "Редове:">
+<!ENTITY tableRows.accessKey "Р">
+<!ENTITY tableColumns.label "Колони:">
+<!ENTITY tableColumns.accessKey "К">
+<!ENTITY tableHeight.label "Височина:">
+<!ENTITY tableHeight.accessKey "В">
+<!ENTITY tableWidth.label "Ширина:">
+<!ENTITY tableWidth.accessKey "Ш">
+<!ENTITY tableBorderSpacing.label "Контури и интервали">
+<!ENTITY tableBorderWidth.label "Контур:">
+<!ENTITY tableBorderWidth.accessKey "у">
+<!ENTITY tableSpacing.label "Интервал:">
+<!ENTITY tableSpacing.accessKey "И">
+<!ENTITY tablePadding.label "Отстъп:">
+<!ENTITY tablePadding.accessKey "О">
+<!ENTITY tablePxBetwCells.label "пиксела между клетките">
+<!ENTITY tablePxBetwBrdrCellContent.label "пиксела между контура на клетката и съдържанието">
+<!ENTITY tableAlignment.label "Подравняване на таблицата:">
+<!ENTITY tableAlignment.accessKey "д">
+<!ENTITY tableCaption.label "Caption:">
+<!ENTITY tableCaption.accessKey "n">
+<!ENTITY tableCaptionAbove.label "Над таблицата">
+<!ENTITY tableCaptionBelow.label "Под таблицата">
+<!ENTITY tableCaptionLeft.label "Отляво">
+<!ENTITY tableCaptionRight.label "Отдясно">
+<!ENTITY tableCaptionNone.label "Без">
+<!ENTITY tableInheritColor.label "(Нека цвета на таблицата прозира)">
+<!ENTITY cellPercent.label "процент от таблицата">
+<!ENTITY cellSelection.label "Селекция">
+<!ENTITY cellSelectCell.label "Клетка">
+<!ENTITY cellSelectRow.label "Ред">
+<!ENTITY cellSelectColumn.label "Колона">
+<!ENTITY cellSelectNext.label "Напред">
+<!ENTITY cellSelectNext.accessKey "п">
+<!ENTITY cellSelectPrevious.label "Назад">
+<!ENTITY cellSelectPrevious.accessKey "з">
+<!ENTITY cellApplyBeforeMove.label "Прилагане на промени преди смяната на селекцията">
+<!ENTITY cellKeepCurrentData.label "Запазване текущите настройки">
+<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
+<!ENTITY applyBeforeChange1.label "Текущите промени ще бъдат приложени">
+<!ENTITY applyBeforeChange2.label "преди смяна на селекцията">
+<!ENTITY cellRowSpan.label "Row Span:">
+<!ENTITY cellColSpan.label "Column Span:">
+<!ENTITY cellContentAlignment.label "Подравняване съдържание">
+<!ENTITY cellHorizontal.label "Хоризонтално:">
+<!ENTITY cellHorizontal.accessKey "Х">
+<!ENTITY cellVertical.label "Вертикално:">
+<!ENTITY cellVertical.accessKey "В">
+<!ENTITY cellStyle.label "Стил на клетка:">
+<!ENTITY cellStyle.accessKey "С">
+<!ENTITY cellNormal.label "Нормален">
+<!ENTITY cellHeader.label "Заглавка">
+<!ENTITY cellTextWrap.label "Пренасяне на текст:">
+<!ENTITY cellTextWrap.accessKey "П">
+<!ENTITY cellWrap.label "Пренасяне">
+<!ENTITY cellNoWrap.label "Без пренасяне">
+<!ENTITY cellAlignTop.label "Горе">
+<!ENTITY cellAlignMiddle.label "В средата">
+<!ENTITY cellAlignBottom.label "Долу">
+<!ENTITY cellAlignJustify.label "Двустранно">
+<!ENTITY cellAlignAtChar.label "At Character:">
+<!ENTITY cellInheritColor.label "(Нека цвета на таблицата прозира)">
+<!ENTITY cellUseCheckboxHelp.label "Използвайте кутийките за отмятане, за да определите кои свойства да се прилагат към избраните клетки">
+<!-- Used in both Table and Cell panels  -->
+<!ENTITY size.label "Размер">
+<!ENTITY pixels.label "пиксели">
+<!ENTITY backgroundColor.label "Фонов цвят:">
+<!ENTITY backgroundColor.accessKey "Ф">
+<!ENTITY AlignLeft.label "Ляво">
+<!ENTITY AlignCenter.label "Центриране">
+<!ENTITY AlignRight.label "Дясно">

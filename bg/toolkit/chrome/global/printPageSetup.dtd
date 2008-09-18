@@ -1,0 +1,53 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title "Настройване на страницата">
+
+<!ENTITY basic.tab "Формат и настройки">
+
+<!ENTITY formatGroup.label "Формат">
+
+<!ENTITY orientation.label "Ориентация:">
+<!ENTITY portrait "Портрет">
+<!ENTITY landscape "Пейзаж">
+
+<!ENTITY scale.label "Мащаб:">
+<!ENTITY scalePercent "&#037;">
+
+<!ENTITY shrinkToFit.label "Нагаждане до ширината на страницата">
+
+<!ENTITY optionsGroup.label "Настройки">
+
+<!ENTITY printBG.label "Отпечатване и на фона (с цветове и изображения)">
+
+<!ENTITY advanced.tab "Полета и горен/долен колонтитул">
+
+<!ENTITY marginGroup.label "Полета (#1)">
+<!ENTITY marginUnits.inches "инчове">
+<!ENTITY marginUnits.metric "милиметри">
+<!ENTITY marginTop.label "Отгоре:">
+<!ENTITY marginBottom.label "Отдолу:">
+<!ENTITY marginLeft.label "Отляво:">
+<!ENTITY marginRight.label "Отдясно:">
+
+<!ENTITY headerFooter.label "Горен и долен колонтитул">
+
+<!ENTITY hfLeft.label "Отляво:">
+<!ENTITY hfCenter.label "Център:">
+<!ENTITY hfRight.label "Отдясно:">
+<!ENTITY headerLeft.tip "Ляв горен колонтитул">
+<!ENTITY headerCenter.tip "Централен горен колонтитул">
+<!ENTITY headerRight.tip "Десен горен колонтитул">
+<!ENTITY footerLeft.tip "Ляв долен колонтитул">
+<!ENTITY footerCenter.tip "Централен долен колонтитул">
+<!ENTITY footerRight.tip "Десен долен колонтитул">
+
+<!ENTITY hfTitle "Заглавие">
+<!ENTITY hfURL "URL">
+<!ENTITY hfDateAndTime "Дата/час">
+<!ENTITY hfPage "Страница #">
+<!ENTITY hfPageAndTotal "Страница # от #">
+<!ENTITY hfBlank "--празно--">
+<!ENTITY hfCustom "Ръчно…">
+
+<!ENTITY customPrompt.title "Ръчно…">
+<!ENTITY customPrompt.prompt "Въведете ваш текст за горен/долен колонтитул">

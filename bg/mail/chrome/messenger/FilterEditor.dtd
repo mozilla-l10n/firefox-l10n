@@ -1,0 +1,44 @@
+<!ENTITY window.title "Правила за филтриране">
+<!ENTITY subject.label "тема">
+<!ENTITY sender.label "подател">
+<!ENTITY date.label "дата">
+<!ENTITY anyText.label "някакъв текст">
+<!ENTITY keyword.label "дума">
+<!ENTITY age.label "възраст в дни">
+<!ENTITY to.label "в">
+<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
+<!ENTITY cc.label "Cc">
+<!ENTITY status.label "състояние">
+<!ENTITY priority.label "приоритет">
+<!ENTITY body.label "тяло">
+<!ENTITY contains.label "съдържа">
+<!ENTITY nocontains.label "не съдържа">
+<!ENTITY filterName.label "Име на филтър:">
+<!ENTITY filterName.accesskey "И">
+<!ENTITY junk.label "Нежелана поща">
+<!ENTITY notJunk.label "Желана поща">
+<!ENTITY lowestPriorityCmd.label "По-нисък">
+<!ENTITY lowPriorityCmd.label "Нисък">
+<!ENTITY normalPriorityCmd.label "Нормален">
+<!ENTITY highPriorityCmd.label "Висок">
+<!ENTITY highestPriorityCmd.label "По-висок">
+<!ENTITY conditionDesc.label "За входящи писма, които:">
+<!ENTITY filterActionDesc.label "Изпълняват се следните действия:">
+<!ENTITY filterActionDesc.accesskey "л">
+<!ENTITY newFolderButton.label "Нова папка...">
+<!ENTITY newFolderButton.accesskey "о">
+<!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "Move Message to">
+<!ENTITY copyMessage.label "Copy Message to">
+<!ENTITY forwardTo.label "Препращане за:">
+<!ENTITY replyWithTemplate.label "Отговор с шаблон:">
+<!ENTITY markMessageRead.label "Mark As Read">
+<!ENTITY markMessageFlagged.label "Mark As Flagged">
+<!ENTITY labelMessage.label "Label Message As">
+<!ENTITY setPriority.label "Set Priority to">
+<!ENTITY setJunkScore.label "Установяване статус нежелана поща на:">
+<!ENTITY deleteMessage.label "Delete Message">
+<!ENTITY deleteFromPOP.label "Delete From POP Server">
+<!ENTITY fetchFromPOP.label "Fetch From POP Server">
+<!ENTITY ignoreThread.label "Ignore Thread">
+<!ENTITY watchThread.label "Наблюдаване на дискусия">

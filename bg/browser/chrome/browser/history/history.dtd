@@ -1,0 +1,28 @@
+<!ENTITY find.label "Търсене:">
+<!ENTITY find.accesskey "Т">
+<!ENTITY expand.label "Разгъване">
+<!ENTITY expand.accesskey "Р">
+<!ENTITY collapse.label "Сгъване">
+<!ENTITY collapse.accesskey "С">
+<!ENTITY byDate.label "Дата">
+<!ENTITY byDate.accesskey "Д">
+<!ENTITY bySite.label "Сайт">
+<!ENTITY bySite.accesskey "С">
+<!ENTITY view.label "Преглед по">
+<!ENTITY view.accesskey "г">
+<!ENTITY byMostVisited.label "Най-посещавани">
+<!ENTITY byMostVisited.accesskey "Н">
+<!ENTITY byLastVisited.label "Последно посещение">
+<!ENTITY byLastVisited.accesskey "П">
+<!ENTITY byDayAndSite.label "Дата и сайт">
+<!ENTITY byDayAndSite.accesskey "Д">
+<!ENTITY openLinkInWindow.label "Отваряне">
+<!ENTITY openLinkInWindow.accesskey "О">
+<!ENTITY openInNewTab.label "Отваряне в нов подпрозорец">
+<!ENTITY openInNewTab.accesskey "п">
+<!ENTITY openInNewWindow.label "Отваряне в нов прозорец">
+<!ENTITY openInNewWindow.accesskey "п">
+<!ENTITY bookmarkLink.label "Добавяне в отметките…">
+<!ENTITY bookmarkLink.accesskey "о">
+<!ENTITY copyLink.label "Копиране адреса на връзката">
+<!ENTITY copyLink.accesskey "К">

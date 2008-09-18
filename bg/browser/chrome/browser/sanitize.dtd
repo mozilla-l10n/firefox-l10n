@@ -1,0 +1,24 @@
+<!ENTITY sanitizeDialog.title "Изчистване на лични данни">
+
+<!ENTITY sanitizeItems.label "Ще бъдат изтрити:">
+<!ENTITY clearDataSettings.label "При изчистване на лични данни да бъдат изтрити:">
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+
+<!ENTITY itemHistory.label "История на сърфирането">
+<!ENTITY itemHistory.accesskey "И">
+<!ENTITY itemFormSearchHistory.label "Информация от формуляри и търсения">
+<!ENTITY itemFormSearchHistory.accesskey "ф">
+<!ENTITY itemPasswords.label "Пароли">
+<!ENTITY itemPasswords.accesskey "П">
+<!ENTITY itemCookies.label "Бисквитки">
+<!ENTITY itemCookies.accesskey "Б">
+<!ENTITY itemCache.label "Кеш">
+<!ENTITY itemCache.accesskey "К">
+<!ENTITY itemOfflineApps.label "Данни за сайтове">
+<!ENTITY itemOfflineApps.accesskey "Д">
+<!ENTITY itemDownloads.label "История на изтеглянията">
+<!ENTITY itemDownloads.accesskey "И">
+<!ENTITY itemSessions.label "Удостоверени сесии">
+<!ENTITY itemSessions.accesskey "У">
+<!ENTITY window.width "30em">

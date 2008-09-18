@@ -1,0 +1,4 @@
+<!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
+<!ENTITY title.label "Изтегляне на сертификати">
+<!ENTITY info.message "Търсене в директорията за сертификати на получатели. Може да отнеме няколко минути.">
+<!ENTITY stop.label "Спиране на търсенето">

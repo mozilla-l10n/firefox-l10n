@@ -1,0 +1,37 @@
+<!ENTITY startup.label "Начална страница">
+
+<!ENTITY startupPage.label "При стартиране на &brandShortName;:">
+<!ENTITY startupPage.accesskey "с">
+<!ENTITY startupHomePage.label "Показване на началната страница">
+<!ENTITY startupBlankPage.label "Показване на празна страница">
+<!ENTITY startupLastSession.label "Показване на под/прозорците от последния път">
+<!ENTITY location.label "Начална страница:">
+<!ENTITY location.accesskey "Н">
+<!ENTITY useCurrentPage.label "Текущата страница">
+<!ENTITY useCurrentPage.accesskey "Т">
+<!ENTITY useMultiple.label "Текущите страници">
+<!ENTITY useBookmark.label "Отметка">
+<!ENTITY useBookmark.accesskey "О">
+<!ENTITY restoreDefault.label "Стандартна страница">
+<!ENTITY restoreDefault.accesskey "С">
+
+<!ENTITY downloads.label "Изтегляния">
+
+<!ENTITY showWhenDownloading.label "Показване на прозореца на изтеглянията при изтегляне на файл">
+<!ENTITY showWhenDownloading.accesskey "и">
+<!ENTITY closeWhenDone.label "Затваряне при завършване на изтеглянията">
+<!ENTITY closeWhenDone.accesskey "З">
+<!ENTITY saveTo.label "Запис на файловете в">
+<!ENTITY saveTo.accesskey "З">
+<!ENTITY chooseFolderWin.label "Разглеждане…">
+<!ENTITY chooseFolderWin.accesskey "Р">
+<!ENTITY chooseFolderMac.label "Избиране…">
+<!ENTITY chooseFolderMac.accesskey "р">
+<!ENTITY alwaysAsk.label "Питане къде да се записват файловете">
+<!ENTITY alwaysAsk.accesskey "П">
+
+<!ENTITY addonsMgr.label "Добавки">
+<!ENTITY manageAddonsDescWin.label "Настройки на добавките">
+<!ENTITY manageAddonsDescUnix2.label "Настройване на добавките">
+<!ENTITY manageAddons.label "Управление на добавките…">
+<!ENTITY manageAddons.accesskey "У">

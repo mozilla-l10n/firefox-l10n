@@ -1,0 +1,31 @@
+<!-- extracted from am-main.xul -->
+<!ENTITY accountTitle.label "Настройки на регистрация">
+<!ENTITY accountName.label "Име на пощата:">
+<!ENTITY accountName.accesskey "И">
+<!ENTITY accountNameDesc.label "Името на пощата служи да идентифицира всяка регистрация">
+<!ENTITY identityTitle.label "Самоличност по подразбиране">
+<!ENTITY identityDesc.label "Всяка регистрация е уникална. Това е информация, която другите виждат, четейки вашите писма.">
+<!ENTITY name.label "Вашето име:">
+<!ENTITY name.accesskey "В">
+<!ENTITY email.label "Адрес на е-поща:">
+<!ENTITY email.accesskey "А">
+<!ENTITY replyTo.label "Адрес за отговор:">
+<!ENTITY replyTo.accesskey "р">
+<!ENTITY organization.label "Организация:">
+<!ENTITY organization.accesskey "ц">
+<!ENTITY signature.label "Добавяне на подпис:">
+<!ENTITY signature.accesskey "б">
+<!ENTITY edit.label "Промяна...">
+<!ENTITY choose.label "Избор...">
+<!ENTITY choose.accesskey "з">
+<!ENTITY editVCard.label "Промяна...">
+<!ENTITY editVCard.accesskey "м">
+<!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
+<!ENTITY attachVCard.label "Прикрепване на моята vCard към писмата">
+<!ENTITY attachVCard.accesskey "к">
+<!ENTITY manageIdentities.label "Управление на самоличността">
+<!ENTITY manageIdentities.accesskey "У">
+<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
+<!ENTITY smtpName.label "Изходящ сървър (SNTP):">
+<!ENTITY smtpName.accesskey "х">
+<!ENTITY smtpDefaultServer.label "Сървър по подразбиране">

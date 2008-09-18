@@ -1,0 +1,28 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "Свойства на принтера">
+
+<!ENTITY paperInput.label "Размер на хартията:">
+
+<!ENTITY plexInput.label "Режим plex:">
+
+<!ENTITY resolutionInput.label "Разрешаваща способност/качество:">
+
+<!ENTITY cmdInput.label "Команда за печат:">
+
+<!ENTITY jobTitleInput.label "Заглавие на задача">
+
+<!ENTITY colorGroup.label "Цвят:">
+<!ENTITY grayRadio.label "Степен на сивото">
+<!ENTITY colorRadio.label "Цвят">
+
+<!ENTITY colorspaceInput.label "Пространство на цветове">
+
+<!ENTITY fontsGroup.label "Шрифтове:">
+<!ENTITY downloadFonts.label "Изтегляне на шрифтове в принтера?">
+
+<!ENTITY edgeMarginInput.label "Празнина от края на хартията до полето (инчове)">
+<!ENTITY topInput.label "Отгоре:">
+<!ENTITY bottomInput.label "Отдолу:">
+<!ENTITY leftInput.label "Отляво:">
+<!ENTITY rightInput.label "Отдясно:">
