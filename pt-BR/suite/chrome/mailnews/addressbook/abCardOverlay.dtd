@@ -100,3 +100,8 @@
  but they should not be translated (same applied to phonetic id).
  Make sure the translation of label corresponds to the order of id.
 -->
+<!ENTITY Age.emptytext                  "Age">
+<!ENTITY Birthday.accesskey             "B">
+<!ENTITY Birthday.label                 "Birthday:">
+<!ENTITY Or.value                       "or">
+<!ENTITY Year.emptytext                 "Year">

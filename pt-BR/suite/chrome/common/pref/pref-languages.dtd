@@ -39,3 +39,4 @@
 <!ENTITY dontCheckSpelling.label "Nunca">
 <!ENTITY multilineCheckSpelling.label "Em caixas de texto de múltiplas linhas">
 <!ENTITY alwaysCheckSpelling.label "Em todas as caixas de texto">
+<!ENTITY languages.customize.title                      "Languages">

@@ -32,3 +32,8 @@
 <!ENTITY diskspaceGroupTitle.label "Espaço em disco">
 <!ENTITY offlineSelectImap.accesskey "w">
 <!ENTITY offlineSelectNntp.accesskey "P">
+<!ENTITY allFoldersOffline.accesskey "o">
+<!ENTITY allFoldersOffline.label "Keep messages for this account on this computer">
+<!ENTITY offlineImapAdvancedOffline.accesskey "A">
+<!ENTITY offlineImapAdvancedOffline.label "Advanced…">
+<!ENTITY syncGroupTitle.label "Message Synchronizing">
