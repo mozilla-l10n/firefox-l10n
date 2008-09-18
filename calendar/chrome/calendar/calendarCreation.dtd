@@ -37,7 +37,7 @@
 <!ENTITY wizard.label             "In nije aginda meitsje" >
 <!ENTITY wizard.description       "Jo aginda lokalisearje" >
 
-<!ENTITY initialpage.description    "Jo aginda kin op jo eigen kompjûter of op in oare kompjûter bewarre wurde, sadat dizze op ôfstân berikber is troch bygelyks freonen of kollega’s." >
+<!ENTITY initialpage.description    "Jo aginda kin op jo eigen kompjûter of op in oare kompjûter bewarre wurde, sadat dizze op ôfstân berikber is foar bygelyks freonen of kollega’s." >
 <!ENTITY initialpage.computer.label  "Op myn kompjûter">
 <!ENTITY initialpage.network.label  "Op it netwurk">
 

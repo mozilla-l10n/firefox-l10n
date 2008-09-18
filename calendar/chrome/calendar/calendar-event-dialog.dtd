@@ -49,10 +49,10 @@
 <!ENTITY newevent.status.confirmed.label    "Befestige" >
 <!ENTITY newevent.status.needsaction.label  "Hanneling fereaske" >
 <!ENTITY newevent.status.inprogress.label   "Dwaande" >
-<!ENTITY newevent.status.completed.label    "Folt\u00F4ge op" >
+<!ENTITY newevent.status.completed.label    "Foltôge op" >
 
 <!-- The following entity is for New Task dialog only -->
-<!ENTITY newtodo.percentcomplete.label      "&#37; folt\u00F4ge">
+<!ENTITY newtodo.percentcomplete.label      "&#37; foltôge">
 
 <!-- Alarm -->
 <!ENTITY alarm.units.minutes                "minuten" >
