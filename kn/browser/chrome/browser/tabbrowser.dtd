@@ -1,0 +1,18 @@
+<!ENTITY  untitledTab            "(ಶೀರ್ಷಿಕೆಯಿಲ್ಲದ)">
+<!ENTITY  newTab.label           "ಹೊಸ ಹಾಳೆ">
+<!ENTITY  newTab.accesskey       "N">
+<!ENTITY  closeTab.label         "ಹಾಳೆಯನ್ನು ಮುಚ್ಚು">
+<!ENTITY  closeTab.accesskey         "c">
+<!ENTITY  closeOtherTabs.accesskey  "o">
+<!ENTITY  closeOtherTabs.label   "ಇತರೆ ಹಾಳೆಗಳನ್ನು ಮುಚ್ಚು">
+<!ENTITY  reloadAllTabs.label    "ಎಲ್ಲಾ ಹಾಳೆಗಳನ್ನು ಮತ್ತೊಮ್ಮೆ ಲೋಡ್‌ ಮಾಡು">
+<!ENTITY  reloadAllTabs.accesskey         "A">
+<!ENTITY  reloadTab.label        "ಹಾಳೆಯನ್ನು ಇನ್ನೊಮ್ಮೆ ಲೋಡ್‌ ಮಾಡು">
+<!ENTITY  reloadTab.accesskey         "r">
+<!ENTITY  listAllTabs.label      "ಎಲ್ಲಾ ಹಾಳೆಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡು">
+<!ENTITY  bookmarkAllTabs.label       "ಎಲ್ಲಾ ಹಾಳೆಗಳನ್ನು ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡು…">
+<!ENTITY  bookmarkAllTabs.accesskey   "T">
+<!ENTITY  bookmarkThisTab.label       "ಈ ಹಾಳೆಯನ್ನು ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡು">
+<!ENTITY  bookmarkThisTab.accesskey   "B">
+<!ENTITY  undoCloseTab.label          "ಹಾಳೆ ಮುಚ್ಚಿದ್ದನ್ನು ರದ್ದುಮಾಡು">
+<!ENTITY  undoCloseTab.accesskey      "U">

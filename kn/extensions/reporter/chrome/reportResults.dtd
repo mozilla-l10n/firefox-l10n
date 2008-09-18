@@ -1,0 +1,15 @@
+<!ENTITY reportSite                  "ತಾಣ">
+<!ENTITY reportProblemType           "ತೊಂದರೆಯ ಪ್ರಕಾರ">
+<!ENTITY reportDecsription           "ವಿವರಣೆ">
+<!ENTITY reportPlatform              "ಪ್ಲಾಟ್‍ಫಾರ್ಮ್">
+<!ENTITY reportProduct               "ಉತ್ಪನ್ನ">
+<!ENTITY reportoscpu                 "OS">
+<!ENTITY reportGecko                 "Gecko">
+<!ENTITY reportBuildConfig           "ನಿರ್ಮಾಣ  ಸಂರಚನೆ">
+<!ENTITY reportUseragent             "ಬಳಕೆದಾರ ಮಧ್ಯವರ್ತಿ">
+<!ENTITY reportLanguage              "ಭಾಷೆ">
+<!ENTITY reportEmail                 "ಇಮೇಲ್">
+<!ENTITY error                       "ದೋಷ ವಿವರಗಳು">
+<!ENTITY faultCode                   "ಸಂಜ್ಞೆ">
+<!ENTITY faultMessage                "ಸಂದೇಶ">
+<!ENTITY reportCharset               "ಕ್ಯಾರ್ಸೆಟ್‌">

@@ -1,0 +1,48 @@
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "ಕುಗ್ಗಿಸು">
+<!ENTITY bringAllToFront.label    "ಎಲ್ಲವನ್ನೂ ಎದುರಿಗೆ ಬರುವಂತೆ ಮಾಡು">
+<!ENTITY zoomWindow.label         "ಹಿಗ್ಗಿಸು">
+<!ENTITY windowMenu.label         "ವಿಂಡೋ">
+
+<!ENTITY helpMenu.label           "ನೆರವು"> 
+<!ENTITY helpMenu.accesskey       "H"> 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "ನೆರವು"> 
+<!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY aboutCmd.label           "&brandFullName;ನ ಬಗ್ಗೆ">
+<!ENTITY aboutCmd.accesskey       "A">
+<!ENTITY helpContents.label       "ನೆರವಿನ ಅಂಶಗಳು">
+<!ENTITY helpContents.accesskey   "H">
+<!ENTITY helpContentsMac.label    "&brandShortName; ನೆರವು">
+<!ENTITY helpForIEUsers.label     "ಇಂಟರ್ನೆಟ್ ಎಕ್ಸ್‍ಪ್ಲೋರರ್ ಬಳಕೆದಾರರಿಗೆ">
+<!ENTITY helpForIEUsers.accesskey "I">
+<!ENTITY openHelp.commandkey      "VK_F1">
+<!-- LOCALIZATION NOTE openHelpMac2.commandkey and openHelpMac2.modifiers
+                       are all the necessary keys to hit OS X's open-help 
+                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
+<!ENTITY openHelpMac.commandkey           "/">
+<!ENTITY openHelpMac.modifiers            "accel,shift">
+<!ENTITY openHelpMac.frontendCommandkey   "?">
+<!ENTITY openHelpMac.frontendModifiers    "accel">
+
+<!ENTITY helpReleaseNotes.label         "ಬಿಡುಗಡೆ ಟಿಪ್ಪಣಿಗಳು">
+<!ENTITY helpReleaseNotes.accesskey     "N">
+<!ENTITY updateCmd.label                "ಅಪ್ಡೇಟ್‍ಗಳಿಗಾಗಿ ಪರೀಕ್ಷಿಸು...">
+<!ENTITY updateCmd.accesskey            "o">
+
+<!ENTITY preferencesCmdMac.label        "ಆದ್ಯತೆಗಳು...">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+
+<!ENTITY servicesMenuMac.label          "ಸೇವೆಗಳು">
+
+<!ENTITY hideThisAppCmdMac.label        "&brandShortName; ಅನ್ನು ಅಡಗಿಸು">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+
+<!ENTITY hideOtherAppsCmdMac.label      "ಇತರೆಯನ್ನು ಅಡಗಿಸು">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+
+<!ENTITY showAllAppsCmdMac.label        "ಎಲ್ಲವನ್ನೂ ತೋರಿಸು">

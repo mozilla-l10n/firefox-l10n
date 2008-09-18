@@ -1,0 +1,15 @@
+<!ENTITY brandMotto       "ಜಾಲವನ್ನು ಮತ್ತೆ ಹುಡುಕು">
+<!ENTITY credit.thanks    "ಇವರಿಗೆ ವಿಶೇಷ ಧನ್ಯವಾದಗಳು">
+
+<!ENTITY credit.thanks2      "ಇವರುಗಳಿಗೆ ಅನಂತಧನ್ಯವಾದಗಳು">
+<!ENTITY credit.contributors2 "ಕಾಣಿಕೆ ನೀಡಿದವರು">
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>ಅನುವಾದಕರ</h3><ul><li>ಹೆಸರು</li></ul>">
+-->
+<!ENTITY credit.translation "ಶಂಕರ್ ಪ್ರಸಾದ್ ಎಂ. ವಿ.">
+
+<!ENTITY credit.memory      "ಇವರ ಆತ್ಮೀಯ ನೆನಪಿನಲ್ಲಿ">
+<!ENTITY credit.poweredByGeckoReg "Gecko&reg; ನಿಂದ ಶಕ್ತಗೊಂಡಿದೆ">

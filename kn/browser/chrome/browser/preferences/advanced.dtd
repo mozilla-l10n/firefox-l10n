@@ -1,0 +1,106 @@
+<!-- Note: due to bug 143065, the only remaining accesskeys available to be used
+     in the Advanced pane are: "b", "j", "q", "z" -->
+
+<!ENTITY generalTab.label                "ಸಾಮಾನ್ಯ">
+
+<!ENTITY accessibility.label             "ನಿಲುಕಣೆ">
+
+<!ENTITY useCursorNavigation.label       "ಪುಟದಲ್ಲಿ ಸಂಚರಿಸಲು ಎಲ್ಲಾ ಸಮಯದಲ್ಲೂ ತೆರೆಸೂಚಕ ಕೀಲಿಗಳನ್ನು ಬಳಸು">
+<!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY searchStartTyping.label         "ನಾನು ಟೈಪಿಸಲು ಆರಂಭಿಸುತ್ತಿದ್ದಂತೆ ಪಠ್ಯಕ್ಕಾಗಿ ಹುಡುಕು">
+<!ENTITY searchStartTyping.accesskey     "x">
+
+<!ENTITY browsing.label                  "ವೀಕ್ಷಣೆ">
+
+<!ENTITY useAutoScroll.label             "ಸ್ವಯಂಚಲನೆಯನ್ನು(ಆಟೋ ಸ್ಕ್ರಾಲಿಂಗ್) ಬಳಸು">
+<!ENTITY useAutoScroll.accesskey         "a">
+<!ENTITY useSmoothScrolling.label        "ಮೃದು ಚಲನೆಯನ್ನು ಬಳಸು">
+<!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY checkSpelling.label             "ನಾನು ಟೈಪಿಸಿದಂತೆಲ್ಲಾ ಕಾಗುಣಿತವನ್ನು ಪರೀಕ್ಷಿಸು">
+<!ENTITY checkSpelling.accesskey         "t">
+
+
+
+
+<!ENTITY networkTab.label                "ಜಾಲಬಂಧ">
+
+<!ENTITY connection.label                "ಸಂಪರ್ಕ">
+
+<!ENTITY connectionDesc.label            "&brandShortName; ಹೇಗೆ ಅಂತರ್ಜಾಲಕ್ಕೆ ಸಂಪರ್ಕಿತಗೊಳ್ಳಬೇಕೆಂದು ಸಂರಚಿಸಿ ">
+<!ENTITY connectionSettings.label        "ಸಂಯೋಜನೆಗಳು...">
+<!ENTITY connectionSettings.accesskey    "e">
+
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "ಇಲ್ಲಿಯವರೆಗೆ ಬಳಸು">
+<!ENTITY useCacheBefore.accesskey        "U">
+<!ENTITY useCacheAfter.label             "ಕ್ಯಾಶೆಯಲ್ಲಿನ  MB ಸ್ಥಳಾವಕಾಶ ">
+
+
+<!ENTITY updateTab.label                 "ಅಪ್ಡೇಟ್‍">
+
+<!ENTITY autoCheck.label                 "ಇಲ್ಲಿಗೆ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅಪ್ಡೇಟುಗಳಿವೆಯೆ ಎಂದು ಹುಡುಕು:">
+<!ENTITY enableAppUpdate.label           "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAddonsUpdate.label        "ಅನುಸ್ಥಾಪಿಸಲಾದ ಆಡ್‍-ಆನ್‍ಗಳು">
+<!ENTITY enableAddonsUpdate.accesskey    "n">
+<!ENTITY enableSearchUpdate.label        "ಹುಡುಕು ಯಂತ್ರ">
+<!ENTITY enableSearchUpdate.accesskey    "h">
+<!ENTITY whenUpdatesFound.label          "&brandShortName; ಗಳಿಗೆ ಅಪ್ಡೇಟುಗಳು ಕಂಡುಬಂದಾಗ:">
+<!ENTITY askMe.label                     "ಏನು ಮಾಡಬೇಕೆಂದು ನನ್ನ ಅನುಮತಿ ಕೇಳು">
+<!ENTITY askMe.accesskey                 "k">
+<!ENTITY modeAutomatic.label             "ಅಪ್ಡೇಟುಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಡೌನ್‍ಲೋಡ್ ಮಾಡಿಕೊಂಡು ಅನುಸ್ಥಾಪಿಸು">
+<!ENTITY modeAutomatic.accesskey         "d">
+<!ENTITY modeAutoAddonWarn.label         "ಇದು ನನ್ನ ಯಾವುದೆ ಆಡ್-ಆನ್‍ಗಳನ್ನು ಅಶಕ್ತಗೊಳಿಸಿದರೆ ನನ್ನನ್ನು ಎಚ್ಚರಿಸು">
+<!ENTITY modeAutoAddonWarn.accesskey     "W">
+<!ENTITY updateHistory.label             "ಅಪ್ಡೇಟ್ ಇತಿಹಾಸವನ್ನು ತೋರಿಸು">
+<!ENTITY updateHistory.accesskey         "p">
+
+
+<!ENTITY encryptionTab.label             "ಗೂಢಲಿಪೀಕರಣ">
+
+<!ENTITY protocols.label                 "ಪ್ರೋಟೊಕಾಲ್‍ಗಳು">
+<!ENTITY useSSL3.label                   "SSL ೩.೦ ಅನ್ನು ಬಳಸು">
+<!ENTITY useSSL3.accesskey               "೩">
+<!ENTITY useTLS1.label                   "TLS ೧.೦ ಅನ್ನು ಬಳಸು">
+<!ENTITY useTLS1.accesskey               "೧">
+<!ENTITY certificates.label              "ಪ್ರಮಾಣಪತ್ರಗಳು">
+<!ENTITY certs.auto                      "ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಒಂದನ್ನು ಆರಿಸು">
+<!ENTITY certs.auto.accesskey            "l">
+<!ENTITY certs.ask                       "ಪ್ರತಿ ಬಾರಿಯೂ ನನ್ನ ಅನುಮತಿ ಕೇಳು">
+<!ENTITY certs.ask.accesskey             "i">
+<!ENTITY viewCerts.label                 "ಪ್ರಮಾಣಪತ್ರವನ್ನು ನೋಡು">
+<!ENTITY viewCerts.accesskey             "s">
+<!ENTITY viewCRLs.label                  "ರದ್ದು ಮಾಡಬೇಕಿರುವ ಪಟ್ಟಿಗಳು">
+<!ENTITY viewCRLs.accesskey              "R">
+<!ENTITY viewSecurityDevices.label       "ಸುರಕ್ಷತಾ ಸಾಧನಗಳು">
+<!ENTITY viewSecurityDevices.accesskey   "y">
+
+<!ENTITY systemDefaults.label            "ಗಣಕದ ಡಿಫಾಲ್ಟ್‍ಗಳು">
+<!ENTITY alwaysCheckDefault.label        "ಆರಂಭಗೊಳ್ಳುವಾಗ  &brandShortName; ವು ಡೀಫಾಲ್ಟ್‍ ವೀಕ್ಷಕವಾಗಿದೆಯೆ  ಎಂದು ಯಾವಾಗಲೂ ಪರೀಕ್ಷಿಸು"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey    "w">
+<!ENTITY checkNow.label                  "ಈಗ ಪರೀಕ್ಷಿಸು">
+<!ENTITY checkNow.accesskey              "N">
+<!ENTITY blockAutoRefresh.label          "ಜಾಲತಾಣಗಳು ಪುಟಗಳನ್ನು ಮರಳಿ  ನಿರ್ದೇಶಿಸಿದಾಗ ಅಥವ ಮತ್ತೊಮ್ಮೆ ಲೋಡ್‌ ಮಾಡಲು ಪ್ರಯತ್ನಿಸಿದಾಗ ನನಗೆ ತಿಳಿಸು">
+<!ENTITY blockAutoRefresh.accesskey      "b">
+<!ENTITY certSelection.description       "ಒಂದು ಪರಿಚಾರಕವು ನನ್ನ ಖಾಸಗಿ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಅಪೇಕ್ಷಿಸಿದಾಗ:">
+<!ENTITY clearCacheNow.label             "ಈಗಲೆ ತೆರವುಗೊಳಿಸು">
+<!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY offlineNotify.label             "ಒಂದು ಜಾಲತಾಣವು ಮಾಹಿತಯನ್ನು ಆಫ್‌ಲೈನ್‌ ಬಳಕೆಗಾಗಿ ಶೇಖರಿಸಿಡಲು ಕೇಳಿದಾಗ ನನಗೆ ತಿಳಿಸು">
+<!ENTITY offlineNotify.accesskey         "T">
+<!ENTITY offlineNotifyExceptions.label   "ವಿನಾಯಿತಿಗಳು…">
+<!ENTITY offlineNotifyExceptions.accesskey "x">
+
+<!ENTITY offlineAppsList.label           "ಈ ಕೆಳಗಿನ ಜಾಲತಾಣಗಳು ಆಫ್‌ಲೈನ್‌ ಬಳಕೆಗಾಗಿ ಮಾಹಿತಿಯನ್ನು ಶೇಖರಿಸಿಟ್ಟಿದೆ:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "ತೆಗೆದು ಹಾಕು…">
+<!ENTITY offlineAppsListRemove.accesskey "R">
+<!ENTITY offlineAppRemove.confirm        "ಆಫ್‌ಲೈನ್‌ ಮಾಹಿತಿಯನ್ನು ತೆಗೆದು ಹಾಕು">
+<!ENTITY verify2.label                   "ಮಾನ್ಯಗೊಳಿಕೆ">
+<!ENTITY verify2.accesskey               "V">
+<!ENTITY offlineStorage.label            "ಆಫ್‌ಲೈನ್ ಶೇಖರಣೆ">

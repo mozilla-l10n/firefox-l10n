@@ -1,0 +1,27 @@
+<!ENTITY no-properties.label   "ಗುಣಲಕ್ಷಣಗಳ ಯಾವುದೆ ಸೆಟ್‍ ಇಲ್ಲ.">
+
+<!ENTITY caption.label         "ಮೂಲ ಘಟಕದ(ಎಲಿಮೆಂಟ್)ಗುಣಲಕ್ಷಣಗಳು">
+<!ENTITY image-sec.label       "ಚಿತ್ರದ ಗುಣಲಕ್ಷಣಗಳು">
+<!ENTITY image-url.label       "ಸ್ಥಳ:">
+<!ENTITY image-desc.label      "ವಿವರಣೆ:">
+<!ENTITY image-alt.label       "ಪರ್ಯಾಯ ಪಠ್ಯ:">
+<!ENTITY image-filesize.label  "ಕಡತದ ಗಾತ್ರ:">
+<!ENTITY insdel-sec.label      "ಗುಣಲಕ್ಷಣಗಳನ್ನು  ತೂರಿಸು/ಅಳಿಸು">
+<!ENTITY insdel-cite.label     "ಮಾಹಿತಿ:">
+<!ENTITY insdel-date.label     "ದಿನಾಂಕ:">
+<!ENTITY link-sec.label        "ಕೊಂಡಿಯ  ಗುಣಲಕ್ಷಣಗಳು">
+<!ENTITY link-url.label        "ವಿಳಾಸ:">
+<!ENTITY link-target.label     "ಇದರಲ್ಲಿ ತೆರೆಯಲ್ಪಡುತ್ತದೆ:">
+<!ENTITY link-type.label       "ಗುರಿಯ ಬಗೆ:">
+<!ENTITY link-lang.label       "ಗುರಿಯ ಭಾಷೆ:">
+<!ENTITY link-rel.label        "ಸಂಬಂಧ:">
+<!ENTITY link-rev.label        "ವಿಲೋಮಗೊಂಡ ಸಂಬಂಧ:">
+<!ENTITY misc-sec.label        "ಇತರೆ ಗುಣಲಕ್ಷಣಗಳು">
+<!ENTITY misc-lang.label       "ಪಠ್ಯದ ಭಾಷೆ:">
+<!ENTITY misc-title.label      "ಶೀರ್ಷಿಕೆ:">
+<!ENTITY misc-tblsummary.label "ಪಟ್ಟಿಯ ಸಾರಾಂಶ:">
+<!ENTITY quote-sec.label       "ಉಲ್ಲೇಖ(ಕೋಟ್) ಗುಣಲಕ್ಷಣಗಳು">
+<!ENTITY quote-cite.label      "ಮಾಹಿತಿ:">
+<!ENTITY image-size.label      "ಚಿತ್ರದ ಉದ್ದ ಹಾಗು ಅಗಲ:">
+<!ENTITY image-type.label      "ಬಗೆ:">
+<!ENTITY link-ping.label       "ಸೂಚಿಸಲಾಗುವುದು:">

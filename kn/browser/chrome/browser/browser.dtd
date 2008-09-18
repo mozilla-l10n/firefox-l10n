@@ -1,0 +1,380 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+<!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+
+
+
+<!ENTITY tabCmd.label "ಹೊಸ ಹಾಳೆ(Tab)">
+<!ENTITY tabCmd.accesskey "T">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openLocationCmd.label "ತಾಣವನ್ನು ತೆರೆ...">
+<!ENTITY openLocationCmd.accesskey "L">
+<!ENTITY openFileCmd.label "ಕಡತವನ್ನು ತೆರೆ...">
+<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY printSetupCmd.label "ಪುಟದ ಹೊಂದಾಣಿಕೆಗಳು...">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "ಮುದ್ರಣ ಮುನ್ನೋಟ">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "ಮುದ್ರಿಸು...">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.commandkey "p">
+<!ENTITY import.label "ಆಮದು ಮಾಡಿಕೊ...">
+<!ENTITY import.accesskey "I">
+
+<!ENTITY goOfflineCmd.label "ಆಫ್‍ಲೈನ್‍ನಲ್ಲಿ ಕೆಲಸ ಮಾಡು">
+<!ENTITY goOfflineCmd.accesskey "w">
+
+<!ENTITY navbarCmd.label "ನ್ಯಾವಿಗೇಶನ್ ಉಪಕರಣಪಟ್ಟಿ">
+<!ENTITY navbarCmd.accesskey "N">
+<!ENTITY personalbarCmd.label "ಬುಕ್‍ಮಾರ್ಕುಗಳ  ಉಪಕರಣ ಪಟ್ಟಿ">
+<!ENTITY personalbarCmd.accesskey "B">
+<!ENTITY bookmarksToolbarItem.label "ಬುಕ್‍ಮಾರ್ಕುಗಳ  ಉಪಕರಣ ಪಟ್ಟಿ ಯ ಅಂಶಗಳು">
+<!ENTITY taskbarCmd.label "ಸ್ಥಿತಿ ಪಟ್ಟಿಕೆ">
+<!ENTITY taskbarCmd.accesskey "B">
+
+<!ENTITY pageSourceCmd.label "ಪುಟದ  ಮೂಲ">
+<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "ಪುಟದ ಮಾಹಿತಿ">
+<!ENTITY pageInfoCmd.accesskey "I">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY fullScreenCmd.label "ಪೂರ್ಣ ಪರದೆ">
+<!ENTITY fullScreenCmd.accesskey "F">
+
+<!ENTITY fullScreenMinimize.tooltip "ಕುಗ್ಗಿಸು">
+<!ENTITY fullScreenRestore.tooltip "ಮತ್ತೊಮ್ಮೆ ಸ್ಥಾಪಿಸು">
+<!ENTITY fullScreenClose.tooltip "ಮುಚ್ಚು">
+
+<!ENTITY closeWindow.label "ವಿಂಡೋವನ್ನು ಮುಚ್ಚು">
+
+<!ENTITY bookmarksMenu.label "ಬುಕ್‍ಮಾರ್ಕುಗಳು">
+<!ENTITY bookmarksMenu.accesskey "B">
+<!ENTITY subscribeToPageMenupopup.label "ಈ ಪುಟಕ್ಕೆ ಚಂದಾದಾರನಾಗಿಸು">
+<!ENTITY subscribeToPageMenuitem.label "ಈ ಪುಟಕ್ಕೆ ಚಂದಾದಾರನಾಗಿಸು...">
+<!ENTITY addCurPagesCmd.label "ಎಲ್ಲಾ ಹಾಳೆಗಳನ್ನು ಬುಕ್‍ಮಾರ್ಕ್ ಮಾಡು...">
+<!ENTITY bookmarkAllCmd.label "ಎಲ್ಲಾ ಹಾಳೆಗಳನ್ನು ಬುಕ್‍ಮಾರ್ಕ್‍ ಮಾಡು...">
+
+<!ENTITY backCmd.label                "ಹಿಂದಕ್ಕೆ">
+<!ENTITY backCmd.accesskey            "B">
+<!ENTITY backButton.tooltip           "ಒಂದು ಪುಟ ಹಿಂದಕ್ಕೆ ಹೋಗು">
+<!ENTITY forwardCmd.label             "ಮುಂದಕ್ಕೆ">
+<!ENTITY forwardCmd.accesskey         "F">
+<!ENTITY forwardButton.tooltip        "ಒಂದು ಪುಟ ಮುಂದಕ್ಕೆ ಹೋಗು">
+<!ENTITY backForwardMenu.tooltip      "ಇತ್ತೀಚಿನ ಪುಟಗಳು">
+<!ENTITY reloadCmd.label              "ಮತ್ತೊಮ್ಮೆ ಲೋಡ್ ಮಾಡು">
+<!ENTITY reloadCmd.accesskey          "R">
+<!ENTITY reloadButton.tooltip         "ಪ್ರಸಕ್ತ ಪುಟವನ್ನು ಮತ್ತೊಮ್ಮೆ ಲೋಡ್‍ ಮಾಡು">
+<!ENTITY stopCmd.label                "ನಿಲ್ಲು">
+<!ENTITY stopCmd.accesskey            "S">
+<!ENTITY stopCmd.macCommandKey        ".">
+<!ENTITY stopButton.tooltip           "ಈ ಪುಟವನ್ನು ಲೋಡ್ ಮಾಡುವುದನ್ನು ನಿಲ್ಲಿಸು">
+<!ENTITY goEndCap.tooltip             "ಸ್ಥಿತಿ ಪಟ್ಟಿಯಲ್ಲಿನ ವಿಳಾಸಕ್ಕೆ ತೆರಳು">
+<!ENTITY printButton.label            "ಮುದ್ರಿಸು">
+<!ENTITY printButton.tooltip          "ಈ ಪುಟವನ್ನು ಮುದ್ರಿಸು">
+
+<!ENTITY locationItem.title           "ಸ್ಥಳ">
+<!ENTITY searchItem.title             "ಹುಡುಕು">
+<!ENTITY throbberItem.title           "ಕ್ರಿಯಾಶೀಲತೆಯ ಸೂಚಕ">
+<!ENTITY bookmarksItem.title          "ಬುಕ್‍ಮಾರ್ಕುಗಳು">
+
+
+<!-- Toolbar items --> 
+<!ENTITY  homeButton.label            "ನೆಲೆ">
+
+<!ENTITY bookmarksButton.label          "ಬುಕ್‍ಮಾರ್ಕುಗಳು">
+<!ENTITY bookmarksButton.tooltip        "ನಿಮ್ಮ ಬುಕ್‍ಮಾರ್ಕುಗಳನ್ನು ತೋರಿಸು ">
+<!ENTITY bookmarksSidebarCmd.accesskey  "B">
+<!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+
+<!ENTITY historyButton.label            "ಇತಿಹಾಸ">
+<!ENTITY historyButton.tooltip          "ನೀವು ಇತ್ತೀಚೆಗೆ ನೋಡಿದ ಪುಟವನ್ನು ತೋರಿಸು">
+<!ENTITY historySidebarCmd.accesskey    "s">
+<!ENTITY historySidebarCmd.commandKey   "h">
+
+<!ENTITY toolsMenu.label              "ಉಪಕರಣಗಳು">
+<!ENTITY toolsMenu.accesskey          "T"> 
+
+<!ENTITY keywordfield.label           "ಈ ಹುಡುಕಾಟಕ್ಕೆ ಒಂದು ಮುಖ್ಯಪದವನ್ನು ಸೇರಿಸು...">
+<!ENTITY keywordfield.accesskey       "K">
+<!ENTITY search.label                 "ಜಾಲ ಹುಡುಕಾಟ">
+<!ENTITY search.accesskey             "S">
+<!ENTITY downloads.label              "ಡೌನ್‍ಲೋಡ್‍ಗಳು">
+<!ENTITY downloads.tooltip            "ನಡೆಯುತ್ತಿರುವ ಡೌನ್‍ಲೋಡ್‍ಗಳ ಪ್ರಗತಿಯನ್ನು ತೋರಿಸು">
+<!ENTITY downloads.accesskey          "D">
+<!ENTITY downloads.commandkey         "j">
+<!ENTITY downloadsUnix.commandkey     "y">
+<!ENTITY addons.label                 "ಆಡ್-ಆನ್‍ಗಳು">
+<!ENTITY addons.tooltip               "ಅನುಸ್ಥಾಪಿಸಲಾದ ಆಡ್-ಆನ್‍ಗಳನ್ನು  ತೋರಿಸು ಹಾಗು ನಿರ್ವಹಿಸು">
+<!ENTITY addons.accesskey             "A">
+
+<!ENTITY errorConsoleCmd.label        "ದೋಷ ಕನ್ಸೋಲ್">
+<!ENTITY errorConsoleCmd.accesskey    "C">
+
+<!ENTITY fileMenu.label         "ಕಡತ"> 
+<!ENTITY fileMenu.accesskey       "F">
+<!ENTITY newNavigatorCmd.label        "ಹೊಸ ವಿಂಡೋ">
+<!ENTITY newNavigatorCmd.key        "N">
+<!ENTITY newNavigatorCmd.accesskey      "N">
+
+<!ENTITY editMenu.label         "ಸಂಪಾದನೆ"> 
+<!ENTITY editMenu.accesskey       "E"> 
+<!ENTITY undoCmd.label            "ರದ್ದು ಮಾಡು">  
+<!ENTITY undoCmd.key            "Z">  
+<!ENTITY undoCmd.accesskey          "U"> 
+<!ENTITY redoCmd.label            "ಮತ್ತೊಮ್ಮೆ ಮಾಡು">  
+<!ENTITY redoCmd.key            "Y">  
+<!ENTITY redoCmd.accesskey          "R"> 
+<!ENTITY cutCmd.label           "ಕತ್ತರಿಸು">  
+<!ENTITY cutCmd.key             "X">  
+<!ENTITY cutCmd.accesskey         "t"> 
+<!ENTITY copyCmd.label            "ಕಾಪಿ ಮಾಡು">  
+<!ENTITY copyCmd.key            "C">  
+<!ENTITY copyCmd.accesskey          "C"> 
+<!ENTITY pasteCmd.label           "ಅಂಟಿಸು">  
+<!ENTITY pasteCmd.key           "V">  
+<!ENTITY pasteCmd.accesskey         "P"> 
+<!ENTITY deleteCmd.label          "ಅಳಿಸು">  
+<!ENTITY deleteCmd.key            "D">  
+<!ENTITY deleteCmd.accesskey        "D"> 
+<!ENTITY selectAllCmd.label         "ಎಲ್ಲವನ್ನೂ ಆರಿಸು">  
+<!ENTITY selectAllCmd.key         "A">  
+<!ENTITY selectAllCmd.accesskey       "A"> 
+<!ENTITY preferencesCmd.label       "ಆಯ್ಕೆಗಳು...">
+<!ENTITY preferencesCmd.accesskey     "O"> 
+<!ENTITY preferencesCmdUnix.label       "ಆದ್ಯತೆಗಳು">
+<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+
+<!ENTITY clearPrivateDataCmd.label            "ಖಾಸಗಿ ಮಾಹಿತಿಯನ್ನು ಅಳಿಸಿಹಾಕು">
+<!ENTITY clearPrivateDataCmd.accesskey        "P">
+
+<!ENTITY viewMenu.label         "ನೋಟ"> 
+<!ENTITY viewMenu.accesskey       "V"> 
+<!ENTITY viewToolbarsMenu.label       "ಉಪಕರಣ ಪಟ್ಟಿಗಳು"> 
+<!ENTITY viewToolbarsMenu.accesskey     "T"> 
+<!ENTITY viewSidebarMenu.label "ಬದಿಯ ಪಟ್ಟಿ">
+<!ENTITY viewSidebarMenu.accesskey "e">
+<!ENTITY viewCustomizeToolbar.label       "ನನ್ನಿಚ್ಛೆಗೆ ತಕ್ಕಂತೆ ಹೊಂದಿಸು..."> 
+<!ENTITY viewCustomizeToolbar.accesskey     "C"> 
+
+<!-- XXX historyMenu entities are used with or without places (bug 336058) -->
+<!ENTITY historyMenu.label "ಇತಿಹಾಸ">
+<!ENTITY historyMenu.accesskey "s">
+<!ENTITY historyUndoMenu.label "ಇತ್ತೀಚೆಗೆ ಮುಚ್ಚಲಾದ ಹಾಳೆಗಳು">
+
+<!-- XXX places only -->
+<!ENTITY historyHomeCmd.label "ನೆಲೆ">
+<!-- XXX remove below if places sticks -->
+<!-- XXX remove above if places sticks --> 
+
+
+<!ENTITY openCmd.commandkey           "l">
+<!ENTITY urlbar.accesskey             "d">
+
+<!-- 
+  Comment duplicated from browser-sets.inc:
+
+  Search Command Key Logic works like this:
+  
+  Unix: Ctrl+J (0.8, 0.9 support)
+        Ctrl+K (cross platform binding)
+  Mac:  Ctrl+K (cross platform binding)
+  Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat) 
+
+  We support Ctrl+K on all platforms now and advertise it in the menu since it is
+  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
+  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
+  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
+  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
+  for people to switch to Linux.
+
+  Do *not* tamper with these values without talking to ben@mozilla.org
+  
+ -->
+<!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
+<!ENTITY searchFocusUnix.commandkey   "j">
+
+<!ENTITY openLinkCmd.label            "ಹೊಸ  ವಿಂಡೋದಲ್ಲಿ ಕೊಂಡಿಯನ್ನುತೆರೆ">
+<!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkCmdInTab.label       "ಹೊಸ ಹಾಳೆಯಲ್ಲಿ ಕೊಂಡಿಯನ್ನುತೆರೆ">
+<!ENTITY openLinkCmdInTab.accesskey   "T">
+<!ENTITY openFrameCmd.label           "ಚೌಕಟ್ಟನ್ನು(ಫ್ರೇಮ್) ಹೊಸ ವಿಂಡೋದಲ್ಲಿ ತೆರೆಯಿರಿ">
+<!ENTITY openFrameCmd.accesskey       "W">
+<!ENTITY openFrameCmdInTab.label      "ಚೌಕಟ್ಟನ್ನು ಹೊಸ ಹಾಳೆಯಲ್ಲಿ ತೆರೆಯಿರಿ">
+<!ENTITY openFrameCmdInTab.accesskey  "T">
+<!ENTITY showOnlyThisFrameCmd.label     "ಕೇವಲ ಈ ಚೌಕಟ್ಟನ್ನು ಮಾತ್ರ ತೋರಿಸು">
+<!ENTITY showOnlyThisFrameCmd.accesskey "w">
+<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY reloadFrameCmd.label         "ಚೌಕಟ್ಟನ್ನು ಮತ್ತೊಮ್ಮೆ ಲೋಡ್‍ ಮಾಡು">
+<!ENTITY reloadFrameCmd.accesskey     "R">
+<!ENTITY viewPartialSourceForSelectionCmd.label "ಆಯ್ಕೆಯ ಮೂಲವನ್ನು ನೋಡು">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "MathML ಮೂಲವನ್ನು ನೋಡು">
+<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPageSourceCmd.label      "ಪುಟದ ಮೂಲವನ್ನು ನೋಡು">
+<!ENTITY viewPageSourceCmd.accesskey  "V">
+<!ENTITY viewFrameSourceCmd.label     "ಚೌಕಟ್ಟಿನ ಮೂಲವನ್ನು ನೋಡು">
+<!ENTITY viewFrameSourceCmd.accesskey "V">
+<!ENTITY viewPageInfoCmd.label        "ಪುಟದ ಮಾಹಿತಿಯನ್ನು ನೋಡು">
+<!ENTITY viewPageInfoCmd.accesskey    "I">
+<!ENTITY viewFrameInfoCmd.label       "ಚೌಕಟ್ಟಿನ ಮಾಹಿತಿಯನ್ನು ನೋಡು">
+<!ENTITY viewFrameInfoCmd.accesskey   "i">
+<!ENTITY viewImageCmd.label           "ಚಿತ್ರವನ್ನು ನೋಡು">
+<!ENTITY viewImageCmd.accesskey       "I">
+<!ENTITY viewBGImageCmd.label         "ಹಿನ್ನಲೆಯ ಚಿತ್ರವನ್ನು ನೋಡು">
+<!ENTITY viewBGImageCmd.accesskey     "w">
+<!ENTITY setDesktopBackgroundCmd.label      "ಗಣಕತೆರೆಯ ಹಿನ್ನಲೆಯಾಗಿ ಹೊಂದಿಸು...">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "S">
+<!ENTITY sendPageCmd.label            "ಕೊಂಡಿಯನ್ನು ಕಳುಹಿಸು...">
+<!ENTITY sendPageCmd.accesskey        "e">
+<!ENTITY savePageCmd.label            "ಈ ಪುಟವನ್ನು ಹೀಗೆ ಉಳಿಸು...">
+<!ENTITY savePageCmd.accesskey        "A">
+<!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2       "P">
+<!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY saveFrameCmd.label           "ಚೌಕಟ್ಟನ್ನು ಹೀಗೆ ಉಳಿಸು...">
+<!ENTITY saveFrameCmd.accesskey       "F">
+<!ENTITY saveLinkCmd.label            "ಕೊಂಡಿಯನ್ನು ಹೀಗೆ ಉಳಿಸು...">
+<!ENTITY saveLinkCmd.accesskey        "k">
+<!ENTITY sendLinkCmd.label            "ಕೊಂಡಿಯನ್ನು ಕಳುಹಿಸು..."> 
+<!ENTITY sendLinkCmd.accesskey        "d">
+<!ENTITY saveImageCmd.label           "ಚಿತ್ರವನ್ನು ಹೀಗೆ ಉಳಿಸು...">
+<!ENTITY saveImageCmd.accesskey       "v">
+<!ENTITY sendImageCmd.label           "ಚಿತ್ರವನ್ನು ಕಳುಹಿಸು...">
+<!ENTITY sendImageCmd.accesskey       "n">
+<!ENTITY copyLinkCmd.label            "ತಾಣದ ವಿಳಾಸವನ್ನು(ಲಿಂಕ್ ಲೋಕೇಶನ್)  ಕಾಪಿ ಮಾಡು">
+<!ENTITY copyLinkCmd.accesskey        "C">
+<!ENTITY copyImageCmd.label           "ಚಿತ್ರದ ತಾಣವನ್ನು ಕಾಪಿ ಮಾಡು">
+<!ENTITY copyImageCmd.accesskey       "o">
+<!ENTITY copyImageContentsCmd.label   "ಚಿತ್ರವನ್ನು ಕಾಪಿ ಮಾಡು">
+<!ENTITY copyImageContentsCmd.accesskey  "y"> 
+<!ENTITY blockImageCmd.accesskey       "g">
+<!ENTITY metadataCmd.label            "ಗುಣಲಕ್ಷಣಗಳು">
+<!ENTITY metadataCmd.accesskey        "P">
+<!ENTITY copyEmailCmd.label           "ಈ ಮೇಲ್ ವಿಳಾಸವನ್ನು ಕಾಪಿ ಮಾಡು">
+<!ENTITY copyEmailCmd.accesskey       "E">
+<!ENTITY thisFrameMenu.label              "ಈ ಚೌಕಟ್ಟು">
+<!ENTITY thisFrameMenu.accesskey          "h">
+
+<!-- + is above this key on many keyboards -->
+
+
+<!ENTITY newTabButton.tooltip           "ಒಂದು ಹೊಸ ಹಾಳೆಯನ್ನು ತೆರೆ">
+<!ENTITY newWindowButton.tooltip        "ಒಂದು ಹೊಸ ವಿಂಡೋವನ್ನು ತೆರೆ">
+<!ENTITY sidebarCloseButton.tooltip     "ಬದಿಯಪಟ್ಟಿಯನ್ನು ಮುಚ್ಚು">
+
+<!ENTITY cutButton.tooltip              "ಕತ್ತರಿಸು">
+<!ENTITY copyButton.tooltip             "ಕಾಪಿ ಮಾಡು">
+<!ENTITY pasteButton.tooltip            "ಅಂಟಿಸು">
+
+<!ENTITY quitApplicationCmdWin.label       "ಹೊರನಡೆ"> 
+<!ENTITY quitApplicationCmdWin.accesskey   "x">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY quitApplicationCmd.label       "ತ್ಯಜಿಸು"> 
+<!ENTITY quitApplicationCmd.accesskey   "Q">
+<!ENTITY quitApplicationCmdMac.label    "ತ್ಯಜಿಸು">
+<!ENTITY quitApplicationCmdMac.key      "Q">
+
+<!ENTITY closeCmd.label                 "ಮುಚ್ಚು">  
+<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.accesskey             "C">
+
+<!ENTITY pageStyleMenu.label "ಪುಟದ ಶೈಲಿ">
+<!ENTITY pageStyleMenu.accesskey "y">
+<!ENTITY pageStyleNoStyle.label "ಯಾವುದೇ ಶೈಲಿ ಇಲ್ಲ">
+<!ENTITY pageStyleNoStyle.accesskey "n">
+<!ENTITY pageStylePersistentOnly.label "ಮೂಲ  ಪುಟದ ಶೈಲಿ">
+<!ENTITY pageStylePersistentOnly.accesskey "b">
+
+<!ENTITY pageReportIcon.tooltip            "ಈ ಜಾಲ ತಾಣಕ್ಕೆ ಪುಟಿಕೆ ನಿರ್ಬಂಧಿಸುವಸಂಯೋಜನೆಗಳನ್ನು ಬದಲಾಯಿಸು">
+
+<!ENTITY allowPopups.accesskey "p">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, which is used in the "popup blocked" info bar . -->
+<!ENTITY editPopupSettingsUnix.label "ಪುಟಿಕೆಯನ್ನು ನಿರ್ಬಂಧಿಸುವ (ಪಾಪ್ಅಪ್ ಬ್ಲಾಕರ್)ಆದ್ಯತೆಗಳನ್ನು ಸಂಪಾದಿಸು...">
+<!ENTITY editPopupSettings.label "ಪುಟಿಕೆಯನ್ನು ನಿರ್ಬಂಧಿಸುವ (ಪಾಪ್ಅಪ್ ಬ್ಲಾಕರ್)ಆಯ್ಕೆಗಳನ್ನು ಸಂಪಾದಿಸು...">
+<!ENTITY editPopupSettings.accesskey "E">
+<!ENTITY dontShowMessage.accesskey "D">
+
+<!ENTITY bidiSwitchPageDirectionItem.label        "ಪುಟದ ದಿಕ್ಕನ್ನು ಬದಲಾಯಿಸು">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
+<!ENTITY bidiSwitchTextDirectionItem.label        "ಪಠ್ಯದ ದಿಕ್ಕನ್ನು ಬದಲಾಯಿಸು">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
+<!ENTITY findOnCmd.label     "ಈ ಪುಟದಲ್ಲಿ ಹುಡುಕು...">
+<!ENTITY findOnCmd.accesskey "F">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "ಮತ್ತೊಮ್ಮೆ ಹುಡುಕು">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY spellAddDictionaries.label "ಶಬ್ಧಕೋಶವನ್ನು ಸೇರಿಸು...">
+<!ENTITY spellAddDictionaries.accesskey "A">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
+<!ENTITY bookmarkPageCmd2.label       "ಈ ಪುಟವನ್ನು ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡು">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY bookmarkThisFrameCmd.label      "ಈ ಫ್ರೇಮ್ ಅನ್ನು ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡು">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "L">
+<!ENTITY bookmarkThisLinkCmd.label      "ಈ ಕೊಂಡಿಯನ್ನು ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡು">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY bookmarkThisPageCmd.label "ಈ ಪುಟವನ್ನು ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡು">
+<!ENTITY closeWindow.accesskey "d">
+<!ENTITY copyLinkTextCmd.accesskey    "x">
+<!ENTITY copyLinkTextCmd.label        "ಕೊಂಡಿಯ ಪಠ್ಯವನ್ನು ಕಾಪಿ ಮಾಡು">
+<!ENTITY sendImageCmd.label           "ಚಿತ್ರವನ್ನು ಕಳುಹಿಸು…">
+<!ENTITY downloadMonitor2.tooltip "ಡೌನ್‌ಲೋಡ್‌ಗಳ ವಿಂಡೊವನ್ನು ತೆರೆಯಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್ಕಿಸಿ">
+<!ENTITY editBookmark.cancel.label                   "ರದ್ದುಗೊಳಿಸು">
+<!ENTITY editBookmark.done.label                     "ಆಯಿತು">
+<!ENTITY editBookmark.edit.accessKey                 "E">
+<!ENTITY editBookmark.edit.label                     "ಸಂಪಾದನೆ…">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+<!ENTITY editBookmark.removeBookmark.label           "ಬುಕ್‌ಮಾರ್ಕನ್ನು ತೆಗೆದು ಹಾಕು">
+<!ENTITY editBookmark.undo.accessKey                 "U">
+<!ENTITY editBookmark.undo.label                     "ಮತ್ತೊಮ್ಮೆ ಮಾಡು">
+<!ENTITY errorConsoleCmd.commandkey   "j">
+<!ENTITY fullScreenAutohide.accesskey "H">
+<!ENTITY fullScreenAutohide.label "ಉಪಕರಣಪಟ್ಟಿಗಳನ್ನು ಅಡಗಿಸು">
+<!ENTITY fullScreenExit.accesskey "F">
+<!ENTITY fullScreenExit.label "ಪೂರ್ಣತೆರೆಯ ವಿಧಾನದಿಂದ ಹೊರನಡೆ">
+<!ENTITY fullZoom.label                 "ಗಾತ್ರ ಬದಲಿಸು">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomEnlargeCmd.label       "ಹಿಗ್ಗಿಸು">
+<!ENTITY fullZoomReduceCmd.accesskey    "O">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomReduceCmd.label        "ಕಿರಿದಾಗಿಸು">
+<!ENTITY fullZoomResetCmd.accesskey     "R">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+<!ENTITY fullZoomResetCmd.label         "ಮರುಹೊಂದಿಸು">
+<!ENTITY fullZoomToggleCmd.accesskey    "T">
+<!ENTITY fullZoomToggleCmd.label        "ಪಠ್ಯವನ್ನು ಮಾತ್ರ ಹಿಗ್ಗಿಸು">
+<!ENTITY identity.connectedTo "ನೀವು ಇದರೊಂದಿಗೆ ಸಂಪರ್ಕಿತಗೊಂಡಿದ್ದೀರಿ">
+<!ENTITY identity.moreInfoLinkText "ಹೆಚ್ಚಿನ ಮಾಹಿತಿ…">
+<!ENTITY identity.runBy "ಇದನ್ನು ನಡೆಸುತ್ತಿರುವವರು">
+<!ENTITY identity.unverifiedsite2 "ಈ ಜಾಲತಾಣವು ತನ್ನು ಗುರುತು ಮಾಹಿತಿಯನ್ನು ಒದಗಿಸಿಲ್ಲ.">
+<!ENTITY organizeBookmarks.label "ಬುಕ್‌ಮಾರ್ಕುಗಳನ್ನು ವ್ಯವಸ್ಥಿತಗೊಳಿಸು…">
+<!ENTITY printFrameCmd.accesskey      "P">
+<!ENTITY printFrameCmd.label          "ಫ್ರೇಮ್ ಅನ್ನು ಮುದ್ರಿಸು…">
+<!ENTITY showAllHistoryCmd.commandkey "H">
+<!ENTITY showAllHistoryCmd2.label "ಎಲ್ಲಾ ಇತಿಹಾಸವನ್ನು ತೋರಿಸು">
+<!ENTITY showImageCmd.accesskey       "S">
+<!ENTITY showImageCmd.label           "ಚಿತ್ರವನ್ನು ತೋರಿಸು">
+<!ENTITY urlbar.emptyText             "ಬುಕ್‌ಮಾರ್ಕುಗಳನ್ನು ಹಾಗು ಇತಿಹಾಸವನ್ನು ಹುಡುಕು">
+<!ENTITY fullZoom.accesskey             "Z">
+<!-- new bookmarks and history -->

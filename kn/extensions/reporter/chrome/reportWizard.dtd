@@ -1,0 +1,58 @@
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title                         "ಒಂದು ಭಿನ್ನಗೊಂಡ ಜಾಲ ತಾಣವನ್ನು ವರದಿ ಸಲ್ಲಿಸು">
+
+<!ENTITY privacyNotice.label                        "ಗೌಪ್ಯತಾ ನಿಯಮ">
+<!ENTITY reportWizardPrivacy.description            "ಈ ಉಪಕರಣವು ನಿಮಗೆ  &brandShortName;ನಲ್ಲಿ ಸರಿಯಾಗಿ ಕಾರ್ಯ ನಿರ್ವಹಿಸದ, ಅಥವ  &brandShortName; ನಲ್ಲಿ ಮುಚ್ಚಿ ಹೋಗುವ ಯಾವುದೆ ಜಾಲತಾಣಗಳ ಬಗ್ಗೆ  ಇವಾಂಜಿಲಿಸಮ್ ತಂಡಕ್ಕೆ ತಿಳಿಸಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ. ಇದರ ಮೂಲಕ ಬಳಕೆದಾರರಿಗೆ &brandShortName; ನ ಬಗ್ಗೆ ಉತ್ತಮ ಮಟ್ಟದ ಅನುಭವವನ್ನು ಹೊಂದುವಂತೆ ಮಾಡಲು  ನಮಗೆ ನೀವು ನೆರವು ನೀಡಿದಂತಾಗುತ್ತದೆ. ದಯವಿಟ್ಟು  ಸ್ವಲ್ಪ ನಿಮ್ಮ ಸಮಯ ವ್ಯಯಿಸಿ ,ಈ ಕೆಳಗಿರುವದನ್ನು ಓದುವ ಮೂಲಕ ನಾವು ಹೇಗೆ ಕಲೆಹಾಕಿದ ಮಾಹಿತಿಯನ್ನು ಬಳಸುತ್ತೇವೆ ಎಂದು ತಿಳಿದು ನಂತರ ನೀವು ಇದರಲ್ಲಿ ಭಾಗಿಯಾಗಬೇಕೆ ಇಲ್ಲವೆ ನಿರ್ಧರಿಸಿ.">
+<!ENTITY reportWizardMustAgree.description          "ಮುಂದುವರೆಯಲು ನೀವು ಗೌಪ್ಯತಾ ನಿಯಮವನ್ನು ಒಪ್ಪುವುದು ಅಗತ್ಯವಾಗುತ್ತದೆ.">
+
+<!ENTITY dontShowPrivacyStatement.label             "ಈ ಮೇಲಿನ ಗೌಪ್ಯತಾ ನಿಯಮವನ್ನು ನಾನು ಓದಿ ದ್ದೇನೆ ಹಾಗು ಒಪ್ಪಿದ್ದೇನೆ.">
+<!ENTITY dontShowPrivacyStatement.accesskey         "I">
+
+<!ENTITY reportForm.label                           "ವರದಿಯನ್ನು ತುಂಬಿಸಿ">
+
+<!ENTITY reportForm.description                     "ನಿಮಗೆ ಎದುರಾದ ತೊಂದರೆಯ ಬಗ್ಗೆ ಕೊಂಚ ಹೇಳಿ:">
+<!ENTITY reportForm.url.title                       "ಜಾಲ ತಾಣದ URL:">
+
+<!ENTITY reportForm.behind_login.title              "ಜಾಲ ತಾಣವು ಗುಪ್ತಪದಿಂದ-ಸಂರಕ್ಷಿತಗೊಂಡಿದೆ"><!-- ಇಲ್ಲ ":" ಕೊನೆಯಲ್ಲಿ -->
+<!ENTITY reportForm.behind_login.accesskey          "P">
+
+<!ENTITY reportForm.problem_type.title              "ತೊಂದರೆಯ ಪ್ರಕಾರ:">
+<!ENTITY reportForm.problem_type.accesskey          "T">
+
+<!ENTITY reportForm.problem_type.chooseOne.title    "ಒಂದನ್ನು ಆರಿಸಿ...">
+
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+<!ENTITY reportForm.problem_type.item1.title        "ವೀಕ್ಷಕವು ಬೆಂಬಲಿತವಾಗಿಲ್ಲ">
+<!ENTITY reportForm.problem_type.item2.title        "ಒಳಗೆ ಪ್ರವೇಶಿಸಲಾಗುತ್ತಿಲ್ಲ">
+<!ENTITY reportForm.problem_type.item3.title        "ಪ್ಲಗ್‍ಇನ್‍ನನ್ನು ತೋರಿಸಲಾಗಿಲ್ಲ">
+<!ENTITY reportForm.problem_type.item4.title        "ಇತರೆ ಅಂಶಗಳು ಕಾಣೆಯಾಗಿವೆ">
+<!ENTITY reportForm.problem_type.item5.title        "ವರ್ತನೆ ತಪ್ಪಾಗಿದೆ">
+<!ENTITY reportForm.problem_type.item6.title        "ತಪ್ಪಾದ ತೋರ್ಪಡಿಕೆ">
+<!ENTITY reportForm.problem_type.item7.title        "ಇತರೆ ತೊಂದರೆ">
+
+<!ENTITY reportForm.describe.title                  "ತೊಂದರೆಯನ್ನು ವಿವರಿಸಿ:">
+<!ENTITY reportForm.describe.accesskey              "D">
+
+<!ENTITY reportForm.platform.title                  "ಪ್ಲಾಟ್‍ಫಾರ್ಮ್:">
+<!ENTITY reportForm.product.title                   "ಉತ್ಪನ್ನ:">
+<!ENTITY reportForm.gecko.title                     "Gecko:">
+<!ENTITY reportForm.useragent.title                 "ಬಳಕೆದಾರಮಧ್ಯವರ್ತಿ:">
+<!ENTITY reportForm.language.title                  "ಭಾಷೆ:">
+
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+<!ENTITY reportForm.email.title                     "ಈ ಮೇಲ್ (ಐಚ್ಚಿಕ):">
+<!ENTITY reportForm.email.accesskey                 "E">
+
+<!ENTITY reportForm.privacyPolicy.title             "ಗೌಪ್ಯತಾ ನಿಯಮ">
+<!ENTITY reportForm.privacyPolicy.tooltip           "ಗೌಪ್ಯತಾ ನಿಯಮವನ್ನು ನೋಡು">
+
+<!ENTITY reportResults.showDetail.title             "ವಿವರಗಳನ್ನು ತೋರಿಸು">
+<!ENTITY reportResults.showDetail.accesskey         "S">
+
+<!ENTITY sendReport.label                           "ವರದಿಯನ್ನು ಕಳುಹಿಸಲಾಗುತ್ತಿದೆ">
+<!ENTITY sendReport.description                     "ಪರಿಚಾರಕಕ್ಕೆ ವರದಿಯನ್ನು ಕಳುಹಿಸಲಾಗುತ್ತಿದೆ...">
+
+<!ENTITY finish.label                               "ವರದಿಯನ್ನು ಕಳುಹಿಸಲಾಯಿತು">
+<!ENTITY reportForm.problem_type.item8.title        "ಅಸಮರ್ಥತೆಯ ನಿಲುಕಣೆ">
+<!ENTITY reportForm.problem_type.item9.title        "ಮುದ್ರಿಸಲಾದ ಔಟ್‌ಪುಟ್‌ ತಪ್ಪಾಗಿದೆ">
+<!ENTITY reportForm.url.accesskey                   "U">

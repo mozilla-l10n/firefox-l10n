@@ -1,0 +1,215 @@
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title  "ಲೈಬ್ರರಿ">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label        "ವ್ವವಸ್ಥಿತಗೊಳಿಸು">
+<!ENTITY organize.accesskey    "O">
+
+<!ENTITY file.accesskey                 "F">
+<!ENTITY file.close.label               "ಮುಚ್ಚು">
+<!ENTITY file.close.accesskey           "C">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY edit.label                     "ಸಂಪಾದನೆ">
+<!ENTITY edit.accesskey                 "E">
+<!ENTITY views.label                    "ನೋಟಗಳು">
+<!ENTITY views.accesskey                "V">
+<!ENTITY view.toolbar.label             "ಉಪಕರಣಪಟ್ಟಿ">
+<!ENTITY view.toolbar.accesskey         "o">
+<!ENTITY view.columns.label             "ಕಾಲಂಗಳನ್ನು ತೋರಿಸು">
+<!ENTITY view.columns.accesskey         "C">
+<!ENTITY view.sort.label                "ವಿಂಗಡಿಸು">
+<!ENTITY view.sort.accesskey            "S">
+<!ENTITY view.unsorted.label            "ವಿಂಗಡಿಸದೆ ಇರುವ">
+<!ENTITY view.unsorted.accesskey        "U">
+<!ENTITY view.sortAscending.label       "ವಿಂಗಡಣಾ ಕ್ರಮ ಅ > ಳ ">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "ವಿಂಗಡಣಾ ಕ್ರಮ ಳ > ಎ">
+<!ENTITY view.sortDescending.accesskey  "Z">
+<!ENTITY help.usingBookmarks.label      "ಬುಕ್‌ಮಾರ್ಕುಗಳನ್ನು ಬಳಸಿ">
+<!ENTITY help.usingBookmarks.accesskey  "B">
+<!ENTITY help.usingHistory.label        "ಇತಿಹಾಸವನ್ನು ಬಳಸಿ">
+<!ENTITY help.usingHistory.accesskey    "i">
+<!ENTITY help.advancedTips.label        "ಸುಧಾರಿತ ಸಲಹೆ ಹಾಗು ಉಪಾಯಗಳು">
+<!ENTITY help.advancedTips.accesskey    "T">
+
+<!ENTITY cmd.findInBookmarks.label      "ಬುಕ್‌ಮಾರ್ಕುಗಳಲ್ಲಿ ಹುಡುಕು…">
+<!ENTITY cmd.findInBookmarks.accesskey  "F">
+<!ENTITY cmd.findCurrent.label          "ಈಗಿನ ಸಂಗ್ರಹದಲ್ಲಿ ಹುಡುಕು…">
+<!ENTITY cmd.findCurrent.accesskey      "i">
+
+<!ENTITY cmd.exportHTML.label           "ಎಚ್‌ಟಿಎಂಲ್ ಅನ್ನು ಕಳುಹಿಸು…">
+<!ENTITY cmd.exportHTML.accesskey       "E">
+<!ENTITY cmd.importHTML.label           "ಎಚ್‌ಟಿಎಂಲ್ ಅನ್ನು ಪಡೆದುಕೊ…">
+<!ENTITY cmd.importHTML.accesskey       "I">
+
+<!ENTITY cmd.backup.label               "ಬ್ಯಾಕ್ಅಪ್…">
+<!ENTITY cmd.backup.accesskey           "B">
+<!ENTITY cmd.restore2.label             "ಮರುಸ್ಥಾಪಿಸು">
+<!ENTITY cmd.restore2.accesskey         "R">
+<!ENTITY cmd.restoreFromFile.label      "ಕಡತವನ್ನು ಆರಿಸು…">
+<!ENTITY cmd.restoreFromFile.accesskey  "C">
+
+<!ENTITY cmd.select_all.label "ಎಲ್ಲವನ್ನು ಆರಿಸು">
+<!ENTITY cmd.select_all.accesskey "A">
+<!ENTITY cmd.select_all.key "a">
+
+<!ENTITY cmd.edit_cut.label         "ಕತ್ತರಿಸು">
+<!ENTITY cmd.edit_cut.accesskey     "t">
+<!ENTITY cmd.edit_cut.key           "x">
+<!ENTITY cmd.edit_copy.label        "ಕಾಪಿ ಮಾಡು">
+<!ENTITY cmd.edit_copy.accesskey    "C">
+<!ENTITY cmd.edit_copy.key          "c">
+<!ENTITY cmd.edit_paste.label       "ಅಂಟಿಸು">
+<!ENTITY cmd.edit_paste.accesskey   "P">
+<!ENTITY cmd.edit_paste.key         "v">
+<!ENTITY cmd.edit_delete.label      "ಅಳಿಸು">
+<!ENTITY cmd.edit_delete.accesskey  "D">
+<!ENTITY cmd.edit_undo.label        "ರದ್ದು ಮಾಡು">
+<!ENTITY cmd.edit_undo.accesskey    "U">
+<!ENTITY cmd.edit_undo.key          "z">
+<!ENTITY cmd.edit_redo.label        "ಮತ್ತೊಮ್ಮೆ ಮಾಡು">
+<!ENTITY cmd.edit_redo.accesskey    "R">
+<!ENTITY cmd.edit_redo.key          "y">
+
+<!ENTITY cmd.open.label                  "ತೆರೆ">
+<!ENTITY cmd.open.accesskey              "O">
+<!ENTITY cmd.open_window.label           "ಹೊಸ ವಿಂಡೋದಲ್ಲಿ ತೆರೆ">
+<!ENTITY cmd.open_window.accesskey       "N">
+<!ENTITY cmd.open_tab.label              "ಹೊಸ ಹಾಳೆಯಲ್ಲಿ ತೆರೆ">
+<!ENTITY cmd.open_tab.accesskey          "w">
+<!ENTITY cmd.open_all_in_tabs.label      "ಎಲ್ಲಾ ಹಾಳೆಗಳಲ್ಲೂ ತೆರೆ">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
+
+<!ENTITY cmd.properties.label      "ಗುಣಲಕ್ಷಣಗಳು">
+<!ENTITY cmd.properties.accesskey  "i">
+
+<!ENTITY cmd.show_info.key  "i">
+
+<!ENTITY cmd.rename.label      "ಹೆಸರನ್ನು ಬದಲಾಯಿಸು">
+<!ENTITY cmd.rename.accesskey  "R">
+
+<!ENTITY cmd.sortby_name.label              "ಹೆಸರಿನಿಂದ ವಿಂಗಡಿಸು">
+<!ENTITY cmd.sortby_name.accesskey          "S">
+<!ENTITY cmd.context_sortby_name.accesskey  "r">
+
+<!ENTITY cmd.new_bookmark.label            "ಹೊಸ ಬುಕ್‌ಮಾರ್ಕ್…">
+<!ENTITY cmd.new_bookmark.accesskey        "B">
+<!ENTITY cmd.new_livemark.label            "ಹೊಸ ಲೈವ್ ಬುಕ್‌ಮಾರ್ಕ್…">
+<!ENTITY cmd.new_livemark.accesskey        "L">
+<!ENTITY cmd.new_folder.label              "ಹೊಸ ಕಡತಕೋಶ…">
+<!ENTITY cmd.new_folder.accesskey          "o">
+<!ENTITY cmd.context_new_folder.accesskey  "F">
+<!ENTITY cmd.new_separator.label           "ಹೊಸ ವಿಭಜಕ">
+<!ENTITY cmd.new_separator.accesskey       "S">
+
+<!ENTITY cmd.reloadLivebookmark.label      "ಲೈವ್ ಬುಕ್‌ಮಾರ್ಕ್ ಅನ್ನು ಮತ್ತೊಮ್ಮೆ ಲೋಡ್ ಮಾಡು">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
+<!ENTITY cmd.reloadMicrosummary.label      "ಲೈವ್ ಶೀರ್ಷಿಕೆಯನ್ನು ಮತ್ತೊಮ್ಮೆ ಲೋಡ್ ಮಾಡು">
+<!ENTITY cmd.reloadMicrosummary.accesskey  "R">
+
+<!ENTITY cmd.groupby_site.label      "ತಾಣದ ಆಧಾರದಲ್ಲಿ ಸಮೂಹಗೊಳಿಸು">
+<!ENTITY cmd.groupby_site.accesskey  "S">
+<!ENTITY cmd.groupby_page.label      "ಪುಟದ ಆಧಾರದಲ್ಲಿ ಸಮೂಹಗೊಳಿಸು">
+<!ENTITY cmd.groupby_page.accesskey  "P">
+<!ENTITY cmd.groupby_feed.label      "ಚಂದಾದಾರಿಕೆಯ ಆಧಾರದಲ್ಲಿ ಸಮೂಹಗೊಳಿಸು">
+<!ENTITY cmd.groupby_feed.accesskey  "S">
+<!ENTITY cmd.groupby_post.label      "ಪೋಸ್ಟ್ ಆಧಾರದಲ್ಲಿ ಸಮೂಹಗೊಳಿಸು">
+<!ENTITY cmd.groupby_post.accesskey  "P">
+
+<!ENTITY cmd.moveBookmarks.label                  "ಜರುಗಿಸು…">
+<!ENTITY cmd.moveBookmarks.accesskey              "M">
+
+<!ENTITY col.name.label          "ಹೆಸರು">
+<!ENTITY col.tags.label          "ಟ್ಯಾಗ್‌ಗಳು">
+<!ENTITY col.url.label           "ತಾಣ">
+<!ENTITY col.lastvisit.label     "ದಿನಾಂಕಕ್ಕೆ ತೆರಳು">
+<!ENTITY col.visitcount.label    "ಭೇಟಿ ಮಾಡಿದ ಲೆಕ್ಕ">
+<!ENTITY col.keyword.label       "ಮುಖ್ಯಪದ">
+<!ENTITY col.description.label   "ವಿವರಣೆ">
+<!ENTITY col.dateadded.label     "ಸೇರ್ಪಡಿಸಲಾದ">
+<!ENTITY col.lastmodified.label  "ಕೊನೆಯ  ಬಾರಿಗೆ ಮಾರ್ಪಡಿಸಲಾದ">
+
+<!ENTITY search.label                              "ಹುಡುಕು:">
+<!ENTITY search.accesskey                          "S">
+<!ENTITY search.collection.label                   "ಈಗಿನ ಸಂಗ್ರಹ ಮಾತ್ರ">
+<!ENTITY search.collection.accesskey               "C">
+<!ENTITY search.allBookmarks.label                 "ಎಲ್ಲಾ ಬುಕ್‌ಮಾರ್ಕುಗಳು">
+<!ENTITY search.allBookmarks.accesskey             "A">
+<!ENTITY search.scopeFolder.label                  "ಆರಿಸಲಾದ ಕಡತಕೋಶ">
+<!ENTITY search.scopeFolder.accesskey              "F">
+<!ENTITY search.scopeAll.label                     "ಎಲ್ಲಾ ಬುಕ್‌ಮಾರ್ಕುಗಳು">
+<!ENTITY search.scopeAll.accesskey                 "A">
+<!ENTITY search.scopeMenu.label                    "ಬುಕ್‌ಮಾರ್ಕ್ ಪರಿವಿಡಿ">
+<!ENTITY search.scopeMenu.accesskey                "M">
+<!ENTITY search.scopeToolbar.label                 "ಬುಕ್‌ಮಾರ್ಕುಗಳು ಉಪಕರಣಪಟ್ಟಿ">
+<!ENTITY search.scopeToolbar.accesskey             "T">
+<!ENTITY search.scopeDownloads.label               "ಡೌನ್‌ಲೋಡ್‌ಗಳು">
+<!ENTITY search.scopeDownloads.accesskey           "D">
+<!ENTITY search.scopeHistory.label                 "ಇತಿಹಾಸ">
+<!ENTITY search.scopeHistory.accesskey             "A">
+<!ENTITY search.scopeBarExpanderDown.tooltip       "ಹುಡುಕಾಟ ಬಿಲ್ಡರ್ ಅನ್ನು ತೋರಿಸು">
+<!ENTITY search.scopeBarExpanderUp.tooltip         "ಹುಡುಕಾಟ ಬಿಲ್ಡರ್ ಅನ್ನು ಅಡಗಿಸು">
+<!ENTITY saveSearch.label                          "ಉಳಿಸು">
+<!ENTITY saveSearch.accesskey                      "S">
+<!ENTITY moreCriteria.label                        "+">
+<!ENTITY advancedSearch.onlybookmarked.label       "ಕೇವಲ ಬುಕ್‌ಮಾರ್ಕುಗಳನ್ನು ಮಾತ್ರ ಹುಡುಕು">
+<!ENTITY advancedSearch.match.label                "ಹೊಂದಿಸು ">
+<!ENTITY advancedSearch.all.label                  "ಎಲ್ಲಾ">
+<!ENTITY advancedSearch.any.label                  "ಯಾವುದಾದರೂ">
+<!ENTITY advancedSearch.rules.label                "ಈ ಕೆಳಗಿನ ನಿಯಮಗಳಲ್ಲಿ:">
+<!ENTITY advancedSearch.subj_keyword.label         "ಈ ಪಠ್ಯವನ್ನು ಹೊಂದಿರುವ">
+<!ENTITY advancedSearch.subj_visited.label         "ಭೇಟಿ ಮಾಡಿಲಾದ">
+<!ENTITY advancedSearch.subj_location.label        "ತಾಣ">
+<!ENTITY advancedSearch.location_startswith.label  "ಹೀಗೆ ಆರಂಭಗೊಳ್ಳುತ್ತದೆ">
+<!ENTITY advancedSearch.location_is.label          "ಇದು">
+<!ENTITY advancedSearch.location_onsite.label      "ತಾಣದಲ್ಲಿದೆ">
+<!ENTITY advancedSearch.time_is.label              "ಇಲ್ಲಿ">
+<!ENTITY advancedSearch.time_before.label          "ಈ ಮೊದಲು">
+<!ENTITY advancedSearch.time_after.label           "ಇದರ ನಂತರ">
+<!ENTITY advancedSearch.time_inlast.label          "ಕೊನೆಯಲ್ಲಿ">
+<!ENTITY advancedSearch.last_days.label            "ದಿನಗಳು">
+<!ENTITY advancedSearch.last_weeks.label           "ವಾರಗಳು">
+<!ENTITY advancedSearch.last_months.label          "ತಿಂಗಳುಗಳು">
+<!ENTITY advancedSearch.plus.label                 "+">
+<!ENTITY advancedSearch.minus.label                "-">
+<!ENTITY advancedSearch.groupby.label              "ಹೀಗೆ ಸಮೂಹಗೊಳಿಸು: ">
+<!ENTITY advancedSearch.groupby_host.label         "ಅತಿಥೇಯ">
+<!ENTITY advancedSearch.groupby_domain.label       "ಕ್ಷೇತ್ರ">
+<!ENTITY advancedSearch.groupby_folder.label       "ಕಡತಕೋಶ">
+<!ENTITY advancedSearch.sortby.label               "ಹೀಗೆ ವಿಂಗಡಿಸು: ">
+<!ENTITY advancedSearch.sortby_title.label         "ಶೀರ್ಷಿಕೆ">
+<!ENTITY advancedSearch.sortby_date.label          "ದಿನಾಂಕ">
+<!ENTITY advancedSearch.sortby_visit.label         "ಭೇಟಿಯ ಲೆಕ್ಕ">
+<!ENTITY advancedSearch.sortby_url.label           "ಯುಆರ್ಎಲ್">
+<!ENTITY advancedSearch.sortby_asc.label           "ಏರಿಕೆ ಕ್ರಮ">
+<!ENTITY advancedSearch.sortby_desc.label          "ಇಳಿಕೆಕ್ರಮ">
+<!ENTITY advancedSearch.max.label                  "ಗರಿಷ್ಟ ಫಲಿತಾಂಶಗಳು: ">
+
+<!ENTITY cmd.find.key  "f">
+
+<!ENTITY feed.subscribe.label    "ಫೀಡ್">
+<!ENTITY feed.subscribe.tooltip  "ಚಂದಾದಾರನಾಗು">
+
+<!ENTITY view.detailsMacOSX.label  "ಪಟ್ಟಿ">
+<!ENTITY view.details.label        "ವಿವರಗಳು">
+<!ENTITY view.details.accesskey    "D">
+
+<!ENTITY view.addons.label   "ಆಡ್-ಆನ್‌ಗಳನ್ನು ನೋಡು">
+
+<!ENTITY maintenance.label      "ಆಮದು ಮಾಡಿಕೋ ಹಾಗು ಬ್ಯಾಕ್ಅಪ್ ತೆಗೆದುಕೋ">
+<!ENTITY maintenance.accesskey  "I">
+
+<!ENTITY backCmd.label       "ಹಿಂದಕ್ಕೆ">
+<!ENTITY backCmd.accesskey   "B">
+<!ENTITY backButton.tooltip  "ಹಿಂದಕ್ಕೆ ತೆರಳು">
+
+<!ENTITY forwardCmd.label       "ಮುಂದಕ್ಕೆ">
+<!ENTITY forwardCmd.accesskey   "F">
+<!ENTITY forwardButton.tooltip  "ಮುಂದಕ್ಕೆ ತೆರಳು">
+
+<!ENTITY detailsPane.more.label "ಹೆಚ್ಚು">
+<!ENTITY detailsPane.more.accesskey "e">
+<!ENTITY detailsPane.less.label "ಕಡಿಮೆ">
+<!ENTITY detailsPane.less.accesskey "e">
+<!ENTITY detailsPane.noPreviewAvailable.label "ಮುನ್ನೋಟ">
+<!ENTITY detailsPane.selectAnItemText.description "ಒಂದು ಅಂಶದ ಗುಣಲಕ್ಷಣಗಳನ್ನು  ನೋಡಲು ಹಾಗು ಸಂಪಾದಿಸಲು ಒಂದು ಆಂಶವನ್ನು ಆರಿಸಿ">

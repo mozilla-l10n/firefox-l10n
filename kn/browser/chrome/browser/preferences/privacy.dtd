@@ -1,0 +1,57 @@
+<!ENTITY  history.label "ಇತಿಹಾಸ">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberBefore.label and rememberAfter.label appear on a single
+  line in preferences as follows:
+
+  &rememberBefore.label  [ textbox for number of days ]   &rememberAfter.label;
+-->
+
+<!ENTITY  rememberForms.label           "ಫಾರ್ಮುಗಳಲ್ಲಿ ಹಾಗು ಹುಡುಕು ಪಟ್ಟಿಯಲ್ಲಿ ನಾನು ನಮೂದಿಸಿದ್ದನ್ನು ನೆನಪಿಟ್ಟುಕೊ">
+<!ENTITY  rememberForms.accesskey       "f">
+
+<!ENTITY  rememberDownloads.label       "ನಾನು  ಏನನ್ನು ಡೌನ್‍ಲೋಡ್‍ ಮಾಡಿದ್ದೇನೆ ಎಂಬುದನ್ನು ನೆನಪಿಟ್ಟುಕೊ">
+<!ENTITY  rememberDownloads.accesskey   "d">
+
+
+<!ENTITY  cookies.label                 "ಕುಕಿಗಳು">
+
+<!ENTITY  acceptCookies.label           "ಈ ತಾಣದಿಂದ ಕುಕಿಗಳನ್ನು ಅನುಮತಿಸು">
+<!ENTITY  acceptCookies.accesskey       "c">
+
+<!ENTITY  keepUntil.label               "ಇಲ್ಲಿಯವರೆಗೆ ಇರಿಸಿಕೋ:">
+<!ENTITY  keepUntil.accesskey           "K">
+
+<!ENTITY  expire.label                  "ಇದರ ಅವಧಿ ಅಂತ್ಯಗೊಳ್ಳುತ್ತದೆ">
+<!ENTITY  close.label                   "&brandShortName; ಅನ್ನು ನಾನು ಮುಚ್ಚುತ್ತೇನೆ">
+<!ENTITY  askEachTime.label             "ಪ್ರತಿ ಬಾರಿಯೂ ನನ್ನ ಅನುಮತಿಯನ್ನು ಪಡೆದುಕೋ">
+
+<!ENTITY  cookieExceptions.label        "ವಿನಾಯಿತಿಗಳು...">
+<!ENTITY  cookieExceptions.accesskey    "E">
+
+<!ENTITY  showCookies.label             "ಕುಕಿಗಳನ್ನು ತೋರಿಸು...">
+<!ENTITY  showCookies.accesskey         "S">
+
+
+<!ENTITY  privateData.label             "ಖಾಸಗಿ ಮಾಹಿತಿ">
+
+<!ENTITY  alwaysClear.label              "ನಾನು ಪ್ರತಿ ಬಾರಿಯೂ  &brandShortName;ಅನ್ನು ಮುಚ್ಚಿದಾಗ ಖಾಸಗಿ ಮಾಹಿತಿಯನ್ನು ಅಳಿಸಿಹಾಕು">
+<!ENTITY  alwaysClear.accesskey          "w">
+
+<!ENTITY  askBeforeClear.label           "ಖಾಸಗಿ ಮಾಹಿತಿಯನ್ನು ಅಳಿಸಿ ಹಾಕುವ ಮೊದಲು ನನ್ನ ಅನುಮತಿಯನ್ನು ಪಡೆದುಕೋ">
+<!ENTITY  askBeforeClear.accesskey       "A">
+
+<!ENTITY  clearDataSettings.label        "ಸಂಯೋಜನೆಗಳು...">
+<!ENTITY  clearDataSettings.accesskey    "t">
+
+<!ENTITY  clearDataNow.label             "ಈಗ ಅಳಿಸಿ ಹಾಕು...">
+<!ENTITY  clearDataNow.label2            "ಈಗ ಅಳಿಸಿ ಹಾಕು">
+<!ENTITY  clearDataNow.accesskey         "N">
+
+<!ENTITY  acceptThirdParty.label        "ಥರ್ಡ್‌  ಪಾರ್ಟಿ ಕುಕಿಗಳನ್ನು ಅಂಗೀಕರಿಸು">
+<!ENTITY  acceptThirdParty.accesskey    "p">
+
+<!ENTITY  rememberDaysBefore.label      "ದಯವಿಟ್ಟು ನನ್ನ ಇತಿಹಾಸವನ್ನು ಕಡೇ ಪಕ್ಷ">
+<!ENTITY  rememberDaysBefore.accesskey  "h">
+<!ENTITY  rememberDaysAfter2.label      "ದಿನಗಳವರೆಗೆ ಇರಿಸು">
+

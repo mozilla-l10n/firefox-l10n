@@ -1,0 +1,9 @@
+<!ENTITY caption.label "ನಿರ್ಬಂಧಿಸಲಾದ ಪುಟಿಕೆಗಳು">
+
+<!ENTITY intro.label "ಈ ಕೆಳಗಿನ ಪುಟಗಳಲ್ಲಿ ಅನಗತ್ಯ ಪುಟಿಕೆ ವಿಂಡೋಗಳನ್ನು ತೋರಿಸುವುದನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ:">
+
+<!ENTITY done.label "ಆಯಿತು">
+<!ENTITY done.accesskey "D">
+
+<!ENTITY unblock.label "ತಾಣವನ್ನು ಬ್ಲಾಕ್‍ ಮಾಡದಿರು">
+<!ENTITY unblock.accesskey "U">

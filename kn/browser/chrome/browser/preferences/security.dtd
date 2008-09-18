@@ -1,0 +1,50 @@
+<!ENTITY  warnAddonInstall.label        "ತಾಣಗಳು  ಆಡ್‍-ಆನ್‍ಗಳನ್ನು  ಅನುಸ್ಥಾಪಿಸಲು ಪ್ರಯತ್ನಿಸಿದಾಗ ನನ್ನನ್ನು ಎಚ್ಚರಿಸು">
+<!ENTITY  warnAddonInstall.accesskey    "W">
+
+<!-- LOCALIZATION NOTE (tellMaybeForgery.label):
+  The methods by which forged (phished) sites will be detected by phishing
+  providers will vary from human review to machine-based heuristics to a
+  combination of both, so it's important that this string and
+  useDownloadedList.label convey the meaning "suspected" (and not something like
+  "known").
+-->
+<!ENTITY  tellMaybeForgery.label     "ನಾನು ಭೇಟಿ ನೀಡುತ್ತಿರುವ ತಾಣವು  ನಕಲಿ ಎಂದು ಸಂಶಯವಿದ್ದರೆ  ನನಗೆ ಸೂಚಿಸು">
+<!ENTITY  tellMaybeForgery.accesskey "T">
+
+
+<!-- LOCALIZATION NOTE (askThirdParty.label):
+  The entities askThirdParty.label and askThirdPartyAfter.label appear on a
+  single line in preferences as follows:
+
+  &askThirdParty.label  [ menulist of phishing list providers ]   &askThirdPartyAfter.label;
+-->
+
+<!ENTITY  addonExceptions.label         "ವಿನಾಯಿತಿಗಳು...">
+<!ENTITY  addonExceptions.accesskey     "E">
+
+
+<!ENTITY  passwords.label               "ಗುಪ್ತಪದಗಳು">
+
+<!ENTITY  rememberPasswords.label       "ತಾಣಗಳಿಗಾಗಿ ಗುಪ್ತಪದವನ್ನು ನೆನಪಿನಲ್ಲಿಟ್ಟುಕೊ">
+<!ENTITY  rememberPasswords.accesskey   "R">
+<!ENTITY  passwordExceptions.label      "ವಿನಾಯಿತಿಗಳು...">
+<!ENTITY  passwordExceptions.accesskey  "x">
+
+<!ENTITY  useMasterPassword.label        "ಒಂದು ಮಾಸ್ಟರ್ ಗುಪ್ತಪದವನ್ನು ಬಳಸು">
+<!ENTITY  useMasterPassword.accesskey    "U">
+<!ENTITY  changeMasterPassword.label     "ಮಾಸ್ಟರ್ ಗುಪ್ತಪದವನ್ನು ಬದಲಾಯಿಸು...">
+<!ENTITY  changeMasterPassword.accesskey "M">
+
+
+
+<!ENTITY  warnings.label                "ಎಚ್ಚರಿಕಾ ಸಂದೇಶಗಳು">
+
+<!ENTITY  chooseWarnings.label          "ಜಾಲವನ್ನು ವೀಕ್ಷಿಸುವಾಗ ಯಾವ ಎಚ್ಚರಿಕಾ ಸಂದೇಶಗಳು ಕಾಣಿಸಿಕೊಳ್ಳಬೇಕು ಎಂದು ಆರಿಸಿ">
+
+<!ENTITY  warningSettings.label         "ಸಂಯೋಜನೆಗಳು...">
+<!ENTITY  warningSettings.accesskey     "S">
+
+<!ENTITY  savedPasswords.label            "ಉಳಿಸಲಾದ ಗುಪ್ತಪದಗಳು…">
+<!ENTITY  savedPasswords.accesskey        "P">
+<!ENTITY  tellMaybeAttackSite.label     "ನಾನು ಭೇಟಿ ನೀಡುತ್ತಿರುವ ತಾಣವು ಒಂದು ದಾಳಿಕಾರಕ ತಾಣವೆಂಬ ಅನುಮಾನವಿದ್ದರೆ ತಿಳಿಸು">
+<!ENTITY  tellMaybeAttackSite.accesskey "k">

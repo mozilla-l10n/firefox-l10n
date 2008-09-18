@@ -1,0 +1,43 @@
+<!ENTITY caption.label         "#1 ಅನ್ನು ತೆರೆಯಲಾಗುತ್ತಿದೆ">
+
+<!-- Localization note: The default intro text has 3 "inserts":
+        #1 - replaced with the descriptive text that describes the mime type
+             (e.g., "MSWord Document")
+        #2 - replaced with the mime type (e.g., "application/ms-word")
+        #3 - replaced with the filename (e.g., "manual.doc")
+        #4 - will be replaced by the brand name (e.g., "Mozilla")
+     If there is no descriptive text, then the alternative text is used which
+     has only insert #2.
+ -->
+<!ENTITY intro.label           "&quot;#3&quot; ಕಡತವು   #2 (#1) ಬಗೆಯದ್ದಾಗಿದೆ, ಹಾಗು #4  ಕ್ಕೆ ಈ ಪುಟವನ್ನು ಹೇಗೆ ನಿಭಾಯಿಸಬೇಕು ಎಂದು ತಿಳಿದಿಲ್ಲ. ಈ ಕಡತವು ಈ ಜಾಗದಲ್ಲಿದೆ:">
+<!ENTITY intro.noDesc.label    "&quot;#3&quot; ಕಡತವು   #2  ಬಗೆಯದ್ದಾಗಿದೆ, ಹಾಗು #4  ಕ್ಕೆ ಈ ಪುಟವನ್ನು ಹೇಗೆ ನಿಭಾಯಿಸಬೇಕು ಎಂದು ತಿಳಿದಿಲ್ಲ. ಈ ಕಡತವು ಈ ಜಾಗದಲ್ಲಿದೆ:">
+
+<!ENTITY intro.attachment.label "&quot;#3&quot; ಅನ್ನು ಒಂದು ಅಟ್ಯಾಚ್‍ಮೆಂಟ್ ಆಗಿ ನಿಭಾಯಿಸಬಹುದೆಂದು ಸೂಚಿಸಿದೆ. ಇದು  #2 (#1) ಬಗೆಯದ್ದಾಗಿದೆ ಹಾಗು ಈ ಜಾಗದಲ್ಲಿದೆ:">
+<!ENTITY intro.attachment.noDesc.label "&quot;#3&quot; ಅನ್ನು ಒಂದು ಅಟ್ಯಾಚ್‍ಮೆಂಟ್ ಆಗಿ ನಿಭಾಯಿಸಬಹುದೆಂದು ಸೂಚಿಸಿದೆ. ಇದು  #2  ಬಗೆಯದ್ದಾಗಿದೆ ಹಾಗು ಈ ಜಾಗದಲ್ಲಿದೆ:">
+
+<!ENTITY intro.sniffed.label "#4 ವು  &quot;#3&quot; ಕಡತವನ್ನು #2 (#1) ಬಗೆಯದ್ದಾಗಿರಬಹುದೆಂದು ಕಂಡುಕೊಂಡಿದೆ. ಈ ಕಡತವು ಈ ಜಾಗದಲ್ಲಿದೆ:">
+<!ENTITY intro.sniffed.noDesc.label "#4 ವು  &quot;#3&quot; ಕಡತವನ್ನು #2  ಬಗೆಯದ್ದಾಗಿರಬಹುದೆಂದು ಕಂಡುಕೊಂಡಿದೆ. ಈ ಕಡತವು ಈ ಜಾಗದಲ್ಲಿದೆ::">
+
+<!ENTITY prompt.label          "ಈ ಕಡತದೊಂದಿಗೆ #1 ಏನು ಮಾಡಬೇಕು?">
+
+<!ENTITY alwaysHandle.label     "ಈ ಬಗೆಯ ಕಡತಗಳನ್ನು  ಪ್ರತಿ ಭಾರಿನಿಭಾಯಿಸುವಾಗಲೂ ಹೀಗೆ ಮಾಡು">
+<!ENTITY alwaysHandle.accesskey "A">
+
+<!ENTITY saveToDisk.label      "ಇದನ್ನು ಕಡತಕ್ಕೆ ಉಳಿಸು">
+<!ENTITY saveToDisk.accesskey  "S">
+
+<!ENTITY useSystemDefault.label        "ಇದನ್ನು ಡೀಫಾಲ್ಟ್‍ ಅನ್ವಯದೊಂದಿಗೆ ತೆರೆ (#1)">
+<!ENTITY useSystemDefault.noDesc.label "ಇದನ್ನು ಡೀಫಾಲ್ಟ್‍ ಅನ್ವಯದೊಂದಿಗೆ ತೆರೆ">
+<!ENTITY useSystemDefault.accesskey    "O">
+
+<!-- LOCALIZATION NOTE:  do not localize "#1" -->
+<!ENTITY openUsing.label       "ಇದರೊಂದಿಗೆ ತೆರೆ">
+<!ENTITY openUsing.accesskey   "w">
+
+<!ENTITY chooseApp.label       "ಆರಿಸು...">
+<!ENTITY chooseApp.accesskey   "C">
+
+<!ENTITY chooseAppFilePickerTitle "ಸಹಾಯಕ ಅನ್ವಯವನ್ನು ಆರಿಸು">
+
+<!ENTITY badApp                 "ನೀವು ಸೂಚಿಸಿದ ಅನ್ವಯವು  (&quot;#1&quot;) ಕಂಡು ಬಂದಿಲ್ಲ. ಕಡತದ ಹೆಸರನ್ನು ಪರಿಶೀಲಿಸಿ ಅಥವ ಬೇರೊಂದು ಅನ್ವಯವನ್ನು ಆರಿಸಿ.">
+<!ENTITY badApp.title           "ಅನ್ವಯ ಕಂಡು ಬಂದಿಲ್ಲ">

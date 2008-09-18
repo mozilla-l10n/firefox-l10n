@@ -1,0 +1,54 @@
+<!ENTITY printCmd.commandkey            "p">
+
+<!ENTITY findOnCmd.commandkey           "F">
+<!ENTITY findAgainCmd.commandkey        "G">
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
+
+<!ENTITY backButton.label               "ಹಿಂದಕ್ಕೆ">
+<!ENTITY backButton.accesskey           "B">
+<!ENTITY backButton.tooltip             "ಒಂದು ಪುಟ ಹಿಂದಕ್ಕೆ ಹೋಗು">
+<!ENTITY forwardButton.label            "ಮುಂದಕ್ಕೆ">
+<!ENTITY forwardButton.accesskey        "F">
+<!ENTITY forwardButton.tooltip          "ಒಂದು ಪುಟ ಮುಂದಕ್ಕೆ ಹೋಗು">
+<!ENTITY copyCmd.label                  "ಕಾಪಿ ಮಾಡು">
+<!ENTITY copyCmd.accesskey              "C">
+<!ENTITY selectAllCmd.label             "ಎಲ್ಲವನ್ನೂ ಆರಿಸು">
+<!ENTITY selectAllCmd.accesskey         "A">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label               "ನೆಲೆ">
+<!ENTITY homeButton.tooltip             "ನೆರವಿನ ಆರಂಭಿಕ ಪುಟಕ್ಕೆ ತೆರಳು">
+<!ENTITY printButton.label              "ಮುದ್ರಿಸು">
+<!ENTITY printButton.tooltip            "ಈ ಪುಟವನ್ನು ಮುದ್ರಿಸು">
+<!ENTITY closeWindow.commandkey         "W">
+
+<!ENTITY searchtab.label    	  	"ಹುಡುಕು">
+<!ENTITY searchtab.accesskey            "S">
+<!ENTITY toctab.label       	  	"ವಿಷಯಗಳು">
+<!ENTITY toctab.accesskey               "C">
+
+<!ENTITY helpSearch.commandkey          "k">
+
+<!ENTITY zLevel.label                   "ಯಾವಾಗಲೂ ಮೇಲ್ಭಾಗದಲ್ಲಿ">
+<!ENTITY zLevel.accesskey               "T">
+
+<!ENTITY fullZoomReduceBtn.label        "ಕುಗ್ಗಿಸು">
+<!ENTITY fullZoomReduceBtn.accesskey    "O">
+<!ENTITY fullZoomEnlargeBtn.label       "ಹಿಗ್ಗಿಸು">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "I">
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- ಹೆಚ್ಚಿನ ಕೀಲಿಮಣೆಗಳಲ್ಲಿ +ಕೀಲಿಯು ಈ ಕೀಲಿಗಿಂತ ಮೇಲ್ಭಾಗದಲ್ಲಿ ಇರುತ್ತದೆ -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY searchClose.tooltip            "ಹುಡುಕಲಾದ ಫಲಿತಾಂಶಗಳನ್ನು ಮುಚ್ಚು">

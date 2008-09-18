@@ -1,0 +1,9 @@
+<!ENTITY aboutDialog.title      "&brandFullName;ನ ಬಗ್ಗೆ">
+<!ENTITY copyright              "ಮನ್ನಣೆಗಳು">
+<!ENTITY copyright.accesskey    "C">
+<!ENTITY aboutLink              "&lt; &brandFullName; ನ ಬಗ್ಗೆ">
+<!ENTITY aboutLink.accesskey    "A">
+<!ENTITY aboutVersion           "ಆವೃತ್ತಿ">
+<!ENTITY copyrightInfo          "&#169;1998-2008 ನಲ್ಲಿ ನೆರವಾದವರು. ಎಲ್ಲಾ ಹಕ್ಕುಗಳನ್ನು ಕಾದಿರಿಸಲಾಗಿದೆ. 
+					     ಫೈರ್ಫಾಕ್ಸ್‍  ಹಾಗು ಫೈರ್ಫಾಕ್ಸ್‍  ಲಾಂಛನಗಳು ಮೊಝಿಲ್ಲಾ ಫೌಂಡೇಶನ್ನಿನ ಟ್ರೇಡ್‍ಮಾರ್ಕ್‍ಗಳಾಗಿರುತ್ತವೆ. 
+					     ಎಲ್ಲಾ ಹಕ್ಕುಗಳನ್ನು ಕಾದಿರಿಸಲಾಗಿದೆ.">

@@ -1,0 +1,13 @@
+<!ENTITY securityWarnings.title                   "ಸುರಕ್ಷತಾ ಎಚ್ಚರಿಕೆಗಳು">
+
+<!ENTITY security.warn_when                       "ಈ ಕೆಳಗಿನ ಸಂದರ್ಭಗಳಲ್ಲಿ ಒಂದು ಎಚ್ಚರಿಕಾ ಸಂವಾದವನ್ನು ತೋರಿಸು:">
+<!ENTITY security.warn_entering_secure.label      "ನಾನು ಒಂದು ಗೂಢಲಿಪೀಕರಣಗೊಂಡ (ಎನ್ಕ್ರಿಪ್ಟ್‍ ಆದಂತಹ) ಪುಟವನ್ನು ನೋಡಲು ಅನುವಾದಾಗ.">
+<!ENTITY security.warn_entering_secure.accesskey  "v">
+<!ENTITY security.warn_entering_weak.label        "ಕೆಳ-ಮಟ್ಟದ ಗೂಢಲಿಪೀಕರಣವನ್ನು ಬಳಸುವ ಒಂದು ಪುಟವನ್ನು ವೀಕ್ಷಿಸಲು ಅನುವಾದಾಗ.">
+<!ENTITY security.warn_entering_weak.accesskey    "g">
+<!ENTITY security.warn_leaving_secure.label       "ಗೂಢಲಿಪೀಕರಣಗೊಳ್ಳದೆ ಇರುವುದಕ್ಕೆ ನಾನು ಒಂದು ಗೂಢಲಿಪೀಕರಣಗೊಂಡ ಪುಟವನ್ನು ಉಳಿಸಿದಾಗ.">
+<!ENTITY security.warn_leaving_secure.accesskey   "l">
+<!ENTITY security.warn_submit_insecure.label      "ಗೂಢಲಿಪೀಕರಣಗೊಳ್ಳದ ಮಾಹಿತಿಯನ್ನು ನಾನು ಒದಗಿಸಿದಾಗ.">
+<!ENTITY security.warn_submit_insecure.accesskey  "s">
+<!ENTITY security.warn_viewing_mixed.label        "ಗೂಢಲಿಪೀಕರಣಗೊಳ್ಳದೇ ಇರುವ ಮಾಹಿತಿಯನ್ನು ಹೊಂದಿರುವ  ಒಂದು  ಗೂಢಲಿಪೀಕರಣಗೊಂಡ ಪುಟವನ್ನು ವೀಕ್ಷಿಸುವಾಗ.">
+<!ENTITY security.warn_viewing_mixed.accesskey    "u">

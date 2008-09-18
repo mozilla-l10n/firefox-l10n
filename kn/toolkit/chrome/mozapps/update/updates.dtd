@@ -1,0 +1,79 @@
+<!ENTITY  updateWizard.title              "ತಂತ್ರಾಂಶ ನವೀಕರಣ">
+
+<!ENTITY  window.width                    "36em">
+<!ENTITY  window.macWidth                 "39em">
+
+<!ENTITY  checking.title                  "ನವೀಕರಣಗಳಿಗಾಗಿ ಹುಡುಕಲಾಗುತ್ತಿದೆ">
+<!ENTITY  checking.label                  "&brandShortName; ನವೀಕರಣಗಳಿಗಾಗಿ ಹುಡುಕುತ್ತಿದೆ...">
+
+<!ENTITY  cancel.label                    "ರದ್ದುಗೊಳಿಸು">
+<!ENTITY  cancel.accesskey                "C">
+
+<!ENTITY  noupdatesfound.title            "ಯಾವುದೆ ನವೀಕರಣಗಳು ಕಂಡು ಬಂದಿಲ್ಲ">
+<!ENTITY  noupdatesfound.intro            "ಯಾವುದು ಹೊಸ ನವೀಕರಣಗಳು ಲಭ್ಯವಿಲ್ಲ. &brandShortName; ವು ಕಾಲಕಾಲಕ್ಕೆ ಹೊಸ ನವೀಕರಣಗಳಿಗಾಗಿ ಹುಡುಕಬಲ್ಲದು.">
+
+
+<!ENTITY  clickHere.label                 "ಈ ನವೀಕರಣದ ಬಗೆಗಿನ ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ನೋಡಿ">
+
+<!ENTITY  incompatible.warning            "ಈ ನವೀಕರಣವು ನಿಮ್ಮ ಕೆಲವೊಂದು ಹಾಗು/ಅಥವ ಥೀಮ್‍ಗಳು ನವೀಕರಣಗೊಳ್ಳುವವರೆಗೆ ಅವು ಕೆಲಸ ಮಾಡದಂತೆ ತಡೆಯುತ್ತದೆ.">
+<!ENTITY  listIncompatible.label          "ಪಟ್ಟಿಯನ್ನು ತೋರಿಸು">
+<!ENTITY  listIncompatible.accesskey      "L">
+
+<!ENTITY  upgrade.evangelism              "ನೀವು ಸಾಧ್ಯವಾದಷ್ಟು ಬೇಗ  &brandShortName; ಅನ್ನು ನವೀಕರಿಸಲು ಬಲವಾಗಿ ಸಲಹೆ ಮಾಡಲಾಗುತ್ತದೆ..">
+
+
+<!ENTITY  license.instructions            "ಈ ಒಡಂಬಡಿಕೆಯ ಕರಾರಿಗೆ ಒಪ್ಪುವುದಾದರೆ,ಈ ನವೀಕರಣದ ಅನುಸ್ಥಾಪನೆಯನ್ನು   ಮುಂದುವರೆಸಲು ಕೆಳಗಿರುವ 'ಸಮ್ಮತಿಸುತ್ತೇನೆ' ಅನ್ನು ಕ್ಲಿಕ್ಕಿಸಿ.">
+
+<!ENTITY  license.titleText               "ತಂತ್ರಾಂಶ ಕರಾರು ಒಡಂಬಡಿಕೆ">
+<!ENTITY  license.introText               "ಈ ತಂತ್ರಾಂಶದ ಕಾಯ್ದೆ ಹಾಗು ನಿಯಮಗಳು.">
+<!ENTITY  license.instructionText         "ದಯವಿಟ್ಟು ಈ ಕೆಳಗಿನ ಕರಾರು ಒಡಂಬಡಿಕೆಯನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಓದಿ. ಈ ಒಡಂಬಡಿಕೆಯ ಮಿಕ್ಕುಳಿದ ಭಾಗವನ್ನು ನೋಡಲು ಚಲನ ಪಟ್ಟಿಯನ್ನು(scroll 
+                                           bar) ಬಳಸಿ.">
+<!ENTITY  license.accept                  "ಕರಾರು ಒಡಂಬಡಿಕೆಯ ಕಾಯ್ದೆಗಳನ್ನು ಒಪ್ಪಿಕೊ">
+<!ENTITY  license.accept.accesskey        "c">
+<!ENTITY  license.decline                 "ಇಲ್ಲ, ನಾನು ಕರಾರು ಒಡಂಬಡಿಕೆಯ ಕಾಯ್ದೆಗಳನ್ನು ಒಪ್ಪಿಕೊಳ್ಳುವುದಿಲ್ಲ">
+<!ENTITY  license.decline.accesskey       "T">
+
+<!ENTITY  downloading.title               "ನವೀಕರಣವನ್ನು ಡೌನ್‍ಲೋಡ್‍ ಮಾಡಲಾಗುತ್ತಿದೆ">
+<!ENTITY  downloading.intro               "ನವೀಕರಣವನ್ನು ಡೌನ್‍ಲೋಡ್‍ ಮಾಡಲಾಗುತ್ತಿದೆ...">
+<!ENTITY  connecting.label                "ನವೀಕರಣ ಪರಿಚಾರಕಕ್ಕೆ ಸಂಪರ್ಕಿಸಲಾಗುತ್ತಿದೆ...">
+<!ENTITY  verificationFailedText.label    "&brandShortName; ಡೌನ್‍ಲೋಡ್‍ ಮಾಡಿದಂತಹ ಏರಿಕೆಯ (ಇನ್‌ಕ್ರಿಮೆಂಟಲ್) ನವೀಕರಣದ ಸಮಗ್ರತೆಯನ್ನು ಪರಿಶೀಲಿಸಲಾಗಿಲ್ಲ. ಆದ್ದರಿಂದ ಈಗ  						               ಅದು ಸಂಪೂರ್ಣ ಪ್ಯಾಕೇಜನ್ನು ಡೌನ್‍ಲೋಡ್ ಮಾಡುತ್ತಿದೆ.">
+
+<!ENTITY  details.link                    "ವಿವರಗಳು">
+<!ENTITY  pause.label                     "ತಾತ್ಕಾಲಿಕವಾಗಿ ಸ್ಥಗಿತಗೊಳಿಸು">
+<!ENTITY  pause.accesskey                 "e">
+<!ENTITY  close.label                     "ಮುಚ್ಚು">
+<!ENTITY  close.accesskey                 "C">
+
+<!ENTITY  error.label                     "ಈ ನವೀಕರಣವನ್ನು ಹುಡುಕುವಾಗ, ಡೌನ್‍ಲೋಡ್ ಮಾಡುವಾಗ ಅಥವ ಅನುಸ್ಥಾಪಿಸುವಾಗ ತೊಂದರೆಗಳು ಎದುರಾಗಿದೆ. &brandShortName; ಈ 
+                        					               ನವೀಕರಣವನ್ನು ಅನುಸ್ಥಾಪಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ ಏಕೆಂದರೆ">
+                                           
+<!ENTITY  errorManual.label               "ನೀವು ಈ ಕೊಂಡಿಗೆ ಭೇಟಿ ನೀಡಿ ಅಲ್ಲಿಂದ ಇತ್ತೀಚಿನ ಒಂದು ಆವೃತ್ತಿಯನ್ನು ಡೌನ್‍ಲೋಡ್ ಮಾಡುವ ಮೂಲಕ  &brandShortName; ಅನ್ನು ಹಸ್ತಮುಖೇನ 
+                					                 ನವೀಕರಿಸಬಹುದಾಗಿದೆ:">
+                                           
+<!ENTITY  errorpatching.title             "ನವೀಕರಣ ವಿಫಲಗೊಂಡಿದೆ">
+<!ENTITY  errorpatching.intro             "ಆಂಶಿಕ ನವೀಕರಣವನ್ನು ಅನ್ವಯಿಸಲಾಗಿಲ್ಲ. 
+				                                                       ಒಂದು ಸಂಪೂರ್ಣ ನವೀಕರಣವನ್ನು ನವೀಕರಿಸುವ ಮೂಲಕ &brandShortName; ಮರಳಿ ಪ್ರಯತ್ನಿಸುತ್ತದೆ.">
+
+<!ENTITY  finished.title                  "ನವೀಕರಣವು ಡೌನ್‍ಲೋಡ್‍ ಮಾಡಲ್ಪಟ್ಟಿದೆ">
+<!ENTITY  finished.text                   "ನವೀಕರಣವು ಯಶಸ್ವಿಯಾಗಿ ಡೌನ್‍ಲೋಡ್ಆಗಿ  ಪರಿಶೀಲಸಲ್ಪಟ್ಟಿದೆ,ಹಾಗು  ಮುಂದಿನ ಬಾರಿ 
+                                           &brandShortName; ಆರಂಭಗೊಂಡಾಗ  ಅನುಸ್ಥಾಪಿತಗೊಳ್ಳುತ್ತದೆ.">
+
+<!ENTITY  finishedBackground.title        "ನವೀಕರಣವು ಅನುಸ್ಥಾಪನೆಗೆ ತಯಾರಾಗಿದೆ">
+<!ENTITY  finishedBackground.text         "&brandShortName; ಒಂದು ಪ್ರಮುಖ ನವೀಕರಣವನ್ನು ಡೌನ್‍ಲೋಡ್ ಮಾಡಿದೆ ಹಾಗು ಪರಿಶೀಲಿಸಿದೆ. 
+				                                                     ಹೆಚ್ಚಿನ ವಿವರಗಳಿಗಾಗಿ ಈ ಕೆಳಗೆ ಕ್ಲಿಕ್ಕಿಸಿ.">
+<!ENTITY  finishedBackground.name         "ನವೀಕರಣ:">
+<!ENTITY  finishedBackground.more1        "ನವೀಕರಣವನ್ನು ಈಗ ಅನುಸ್ಥಾಪಿಸಲು  '&brandShortName; ಅನ್ನು ಪುನರಾರಂಭಿಸು' ಅನ್ನು ಕ್ಲಿಕ್ಕಿಸಿ.">
+
+
+<!ENTITY  installed.title                 "ನವೀಕರಣವು ಅನುಸ್ಥಾಪಿತಗೊಂಡಿದೆ">
+<!ENTITY  installed.intro                 "ನವೀಕರಣವನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಅನುಸ್ಥಾಪಿಸಲಾಗಿದೆ.">
+<!ENTITY  whatsnew.label                  "ಹೊಸತೇನಿದೆ ಎನ್ನುವುದರ ಬಗ್ಗೆ ಹೆಚ್ಚಿನ ಮಾಹಿತಿಯನ್ನು ಓದಿ...">
+
+<!ENTITY  update.details.label            "ವಿವರಗಳು">
+<!ENTITY  update.installedOn.label        "ಅನುಸ್ಥಾಪಿತವಾದ ದಿನಾಂಕ:">
+<!ENTITY  update.status.label             "ಸ್ಥಿತಿ:">
+
+<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
+<!ENTITY  finishedBackground.textNotNow   "ಈ ಸಂವಾದವನ್ನು ಮುಚ್ಚಲು  ಹಾಗು  ನಿಮ್ಮ ಕೆಲಸವನ್ನು ಮುಂದುವರೆಸಲು 'ಈಗ ಬೇಡ' ಅನ್ನು ಕ್ಲಿಕ್ಕಿಸಿ .
+                                          &brandShortName; ಮುಂದಿನ ಬಾರಿಗೆ ಆರಂಭಗೊಂಡಾಗ ನವೀಕರಣಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸುತ್ತದೆ.">
+<!ENTITY  incompatibleChecking.label      "ನಿಮ್ಮಲ್ಲಿರುವ ಎಕ್ಸ್‍ಟೆನ್ಶನ್‌ಗಳು ಹಾಗು/ಅಥವ ಥೀಮ್‌ಗಳಿಗೆ ತೊಂದರೆ ಮಾಡುತ್ತವೆಯೆ ಎಂದು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ…">
