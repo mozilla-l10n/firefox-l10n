@@ -42,9 +42,9 @@
 <!ENTITY requestReceipt.accesskey     "B">
 <!ENTITY receiptArrive.label          "Wenn eine Empfangsbestätigung ankommt:">
 <!ENTITY leaveIt.label                "Im Posteingang belassen">
-<!ENTITY leaveIt.accesskey            "I">
+<!ENTITY leaveIt.accesskey            "P">
 <!ENTITY moveToSent.label             "In den Ordner für gesendete Nachrichten verschieben">
-<!ENTITY moveToSent.accesskey         "I">
+<!ENTITY moveToSent.accesskey         "O">
 <!ENTITY requestMDN.label             "Beim Empfang einer Anfrage auf eine Empfangsbestätigung:">
 <!ENTITY returnSome.label             "Empfangsbestätigungen für manche Nachrichten erlauben">
 <!ENTITY returnSome.accesskey         "E">
@@ -53,9 +53,9 @@
 <!ENTITY notInToCc.label              "Wenn ich nicht in der An- oder CC-Zeile der Nachricht stehe:">
 <!ENTITY notInToCc.accesskey          "W">
 <!ENTITY outsideDomain.label          "Wenn der Absender außerhalb meiner Domain ist:">
-<!ENTITY outsideDomain.accesskey      "W">
+<!ENTITY outsideDomain.accesskey      "A">
 <!ENTITY otherCases.label             "In allen anderen Fällen:">
-<!ENTITY otherCases.accesskey         "I">
+<!ENTITY otherCases.accesskey         "F">
 <!ENTITY askMe.label                  "Nachfragen">
 <!ENTITY alwaysSend.label             "Immer senden">
 <!ENTITY neverSend.label              "Nie senden">
