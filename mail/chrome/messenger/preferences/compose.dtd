@@ -46,6 +46,7 @@
 <!ENTITY addressingEnable.accesskey "u">
 <!ENTITY directories.label "Rubrica remota:">
 <!ENTITY directories.accesskey "R">
+<!ENTITY directoriesNone.label "nessuna">
 <!ENTITY editDirectories.label "Modifica cartelle…">
 <!ENTITY editDirectories.accesskey "M">
 <!ENTITY matchText.label "Se c'è una corrispondenza nelle rubriche locali:">

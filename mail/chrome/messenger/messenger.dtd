@@ -36,6 +36,8 @@
 <!ENTITY sendUnsentCmd.accesskey "U">
 <!ENTITY subscribeCmd.label "Sottoscrivi…">
 <!ENTITY subscribeCmd.accesskey "v">
+<!ENTITY deleteFolder.label "Cancella cartella">
+<!ENTITY deleteFolder.accesskey "e">
 <!ENTITY renameFolder.label "Rinomina cartelle…">
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2">
@@ -417,6 +419,7 @@
 <!ENTITY backButton1.label "Indietro">
 <!ENTITY goForwardButton1.label "Avanti">
 <!ENTITY deleteButton.label "Elimina">
+<!ENTITY undeleteButton.label "ripristina">
 <!ENTITY markButton.label "Marca">
 <!ENTITY printButton.label "Stampa">
 <!ENTITY stopButton.label "Stop">
@@ -446,6 +449,7 @@
 <!ENTITY goForwardButton.tooltip "Avanti di un messaggio">
 <!ENTITY goBackButton.tooltip "Indietro di un messaggio">
 <!ENTITY deleteButton.tooltip "Elimina i messaggi o le cartelle selezionate">
+<!ENTITY undeleteButton.tooltip "ripristina il messaggio selezionato">
 <!ENTITY markButton.tooltip "Spunta messaggi">
 <!ENTITY printButton.tooltip "Stampa questo messaggio">
 <!ENTITY stopButton.tooltip "Sospendi il trasferimento corrente">
@@ -492,6 +496,8 @@
 <!ENTITY folderContextProperties.accesskey "P">
 <!ENTITY folderContextFavoriteFolder.label "Cartella preferita">
 <!ENTITY folderContextFavoriteFolder.accesskey "p">
+<!ENTITY folderContextSettings.label "Impostazioni…">
+<!ENTITY folderContextSettings.accesskey "I">
 <!ENTITY SearchNameOrEmail.label "Nome o Email contengono:">
 <!ENTITY SearchNameOrEmail.accesskey "c">
 <!ENTITY clearButton.label "Pulisci">
@@ -500,6 +506,7 @@
 <!ENTITY searchFromMenu.label "Mittente">
 <!ENTITY searchSubjectOrFromMenu.label "Oggetto o mittente">
 <!ENTITY searchRecipient.label "A o Cc">
+<!ENTITY searchSubjectOrRecipientMenu.label "Oggetto, a o cc">
 <!ENTITY searchMessageBody.label "Messaggio completo">
 <!ENTITY saveAsVirtualFolderMenu.label "Salva la ricerca come cartella…">
 <!ENTITY threadColumn.label "Discussione">
@@ -576,13 +583,19 @@
 <!ENTITY junkBarButton1.label "Non indesiderata">
 <!ENTITY junkInfoButton.label "?">
 <!ENTITY remoteContentMessage1.label "Per proteggere la tua privacy le immagini remote sono state bloccate.">
-<!ENTITY loadRemoteContentButton1.label "Mostra immagini">
-<!ENTITY phishingBarMessage1.label "Sospetto truffa via posta">
+<!ENTITY loadRemoteContentButton2.label "Mosta l'immagine ora">
+<!ENTITY phishingBarMessage2.label "Questo messaggio potrebbe essere una frode">
 <!ENTITY removePhishingBarButton1.label "Ignorare gli avvisi">
-<!ENTITY reportPhishingError.label "Non è una frode">
+<!ENTITY reportPhishingError1.label "Questo messaggio non sembra essere una frode">
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY AddToAddressBook.label "Aggiungi in rubrica…">
 <!ENTITY AddToAddressBook.accesskey "A">
+<!ENTITY AddDirectlyToAddressBook.label "Aggiungi a rubrica">
+<!ENTITY AddDirectlyToAddressBook.accesskey "C">
+<!ENTITY EditContact.label "Modifica contatto…">
+<!ENTITY EditContact.accesskey "M">
+<!ENTITY ViewContact.label "Visualizza contatto">
+<!ENTITY ViewContact.accesskey "V">
 <!ENTITY SendMailTo.label "Scrivi email a">
 <!ENTITY SendMailTo.accesskey "S">
 <!ENTITY CopyEmailAddress.label "Copia indirizzo email">
@@ -593,10 +606,10 @@
 <!ENTITY BlockAddress.accesskey "B">
 <!ENTITY reportPhishingURL.label "Notifica i tentativi di frode">
 <!ENTITY reportPhishingURL.accesskey "o">
-<!ENTITY saveLinkCmd.label "Salva collegamento di destinazione">
-<!ENTITY saveLinkCmd.accesskey "v">
-<!ENTITY saveImageCmd.label "Salva immagine">
-<!ENTITY saveImageCmd.accesskey "v">
+<!ENTITY saveLinkAsCmd.label "Salva collegamento come…">
+<!ENTITY saveLinkAsCmd.accesskey "v">
+<!ENTITY saveImageAsCmd.label "Salva con nome…">
+<!ENTITY saveImageAsCmd.accesskey "v">
 <!ENTITY copyCmd.label "Copia">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "Seleziona tutto">

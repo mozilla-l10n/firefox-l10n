@@ -1,7 +1,7 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Al fine di risparmiare spazio su disco, non scaricare:">
 <!ENTITY doNotDownload.label "Al fine di risparmiare spazio su disco, non scaricare per un uso 'non in linea':">
-<!ENTITY offlineNewFolder.label "Quando vengono create nuove cartelle impostarle già per l'uso non in linea">
-<!ENTITY offlineNewFolder.accesskey "S">
+<!ENTITY allFoldersOffline.label "Lascia i messaggi per questo account in questo computer">
+<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Messaggi più grandi di:">
 <!ENTITY offlineNotDownload.accesskey "m">
 <!ENTITY kb.label "KB">
@@ -25,10 +25,7 @@
 <!ENTITY nntpRemoveBody.accesskey "o">
 <!ENTITY offlineSelectNntp.label "Selezionare i gruppi di discussione per uso non in linea…">
 <!ENTITY offlineSelectNntp.accesskey "S">
-<!ENTITY offlineSelectImap.label "Selezionare le cartelle per l'uso non in linea…">
-<!ENTITY offlineSelectImap.accesskey "S">
-<!ENTITY offlineDesc.label "È possibile scaricare localmente la posta in modo che sia ancora disponibile una volta disconnessi.">
-<!ENTITY makeInboxMsgsAvailable.label "Rendi disponibili i messaggi nella cartella &quot;Posta in arrivo&quot; anche non in linea">
-<!ENTITY makeInboxMsgsAvailable.accesskey "R">
-<!ENTITY offlineGroupTitle.label "Non in linea">
+<!ENTITY offlineImapAdvancedOffline.label "Avanzate…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "A">
+<!ENTITY syncGroupTitle.label "Sincronizzazione messaggio">
 <!ENTITY diskspaceGroupTitle.label "Spazio su disco">
