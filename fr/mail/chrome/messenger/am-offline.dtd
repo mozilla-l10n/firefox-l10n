@@ -1,7 +1,7 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Pour économiser de l'espace disque, ne pas télécharger :">
 <!ENTITY doNotDownload.label "Pour économiser de l'espace disque, ne pas télécharger pour utilisation hors ligne :">
-<!ENTITY offlineNewFolder.label "Lors de la création de dossiers, les sélectionner pour utilisation hors ligne">
-<!ENTITY offlineNewFolder.accesskey "h">
+<!ENTITY allFoldersOffline.label "Conserver les messages de ce compte sur cet ordinateur">
+<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Les messages dont la taille dépasse">
 <!ENTITY offlineNotDownload.accesskey "t">
 <!ENTITY kb.label "ko">
@@ -25,10 +25,7 @@
 <!ENTITY nntpRemoveBody.accesskey "o">
 <!ENTITY offlineSelectNntp.label "Sélection groupes pour utilisation hors ligne…">
 <!ENTITY offlineSelectNntp.accesskey "S">
-<!ENTITY offlineSelectImap.label "Sélection dossiers pour utilisation hors ligne…">
-<!ENTITY offlineSelectImap.accesskey "S">
-<!ENTITY offlineDesc.label "Il est possible de télécharger les messages localement afin de les rendre disponibles hors ligne.">
-<!ENTITY makeInboxMsgsAvailable.label "Rendre les messages de Courrier entrant disponibles hors ligne.">
-<!ENTITY makeInboxMsgsAvailable.accesskey "b">
-<!ENTITY offlineGroupTitle.label "Hors ligne">
+<!ENTITY offlineImapAdvancedOffline.label "Avancé…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "A">
+<!ENTITY syncGroupTitle.label "Synchronisation des messages">
 <!ENTITY diskspaceGroupTitle.label "Espace disque ">
