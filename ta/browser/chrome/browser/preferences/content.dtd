@@ -1,0 +1,37 @@
+<!ENTITY blockPopups.label "Block pop-up windows">
+<!ENTITY blockPopups.accesskey "B">
+<!ENTITY popupExceptions.label "விதிவிலக்குகள்...">
+<!ENTITY popupExceptions.accesskey "E">
+
+<!ENTITY loadImages.label "Load images automatically">
+<!ENTITY loadImages.accesskey "I">
+<!ENTITY exceptions.label "விதிவிலக்குகள்">
+<!ENTITY exceptions.accesskey "e">
+
+<!ENTITY enableJavaScript.label "Enable JavaScript">
+<!ENTITY enableJavaScript.accesskey "S">
+<!ENTITY advancedJS.label "உயர்நிலை...">
+<!ENTITY advancedJS.accesskey "v">
+
+<!ENTITY enableJava.label "Enable Java">
+<!ENTITY enableJava.accesskey "n">
+
+
+<!ENTITY fontsAndColors.label "Fonts &amp; Colors">
+
+<!ENTITY defaultFont.label "Default Font:">
+<!ENTITY defaultFont.accesskey "F">
+<!ENTITY defaultSize.label "அளவு:">
+<!ENTITY defaultSize.accesskey "I">
+
+<!ENTITY advancedFonts.label "உயர்நிலை...">
+<!ENTITY advancedFonts.accesskey "D">
+
+<!ENTITY colors.label "Colors...">
+<!ENTITY colors.accesskey "C">
+
+
+<!ENTITY languages.label "மொழிகள்">
+<!ENTITY chooseLanguage.label "Choose your preferred language for displaying pages">
+<!ENTITY chooseButton.label "தேர்ந்தெடு...">
+<!ENTITY chooseButton.accesskey "o">

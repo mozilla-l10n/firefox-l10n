@@ -1,0 +1,51 @@
+
+<!ENTITY migrationWizard.title "இறக்குமதி சாளரம்">
+
+<!ENTITY importFrom.label "இறக்குமதி தேர்வுகள், புத்தக குறிகள், வரலாறு, கடவுச்சொல் மற்றும் பிற தகவல்கள்:">
+<!ENTITY importFromUnix.label "இறக்குமதி தேர்வுகள், புத்தக குறிகள், வரலாறு, கடவுச்சொல் மற்றும் பிற தகவல்கள்:">
+<!ENTITY importFromBookmarks.label "இதிலிருந்து புத்தக குறிகளை பெற்றுக்கொள்:">
+
+<!ENTITY importFromIE.label "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey "M">
+<!ENTITY importFromPhoenix.label "Firefox 0.8, Firebird அல்லது Phoenix">
+<!ENTITY importFromPhoenix.accesskey "P">
+<!ENTITY importFromNothing.label "எதையும் ஏற்றுமதி செய்யாதே">
+<!ENTITY importFromNothing.accesskey "D">
+<!ENTITY importFromSeamonkey.label "Netscape 6, 7 அல்லது Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromNetscape4.label "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromOpera.label "Opera">
+<!ENTITY importFromOpera.accesskey "O">
+<!ENTITY importFromCamino.label "Camino">
+<!ENTITY importFromCamino.accesskey "C">
+<!ENTITY importFromSafari.label "Safari">
+<!ENTITY importFromSafari.accesskey "S">
+<!ENTITY importFromOmniWeb.label "OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey "W">
+<!ENTITY importFromICab.label "iCab">
+<!ENTITY importFromICab.accesskey "i">
+<!ENTITY importFromKonqueror.label "Konqueror">
+<!ENTITY importFromKonqueror.accesskey "K">
+<!ENTITY importFromEpiphany.label "Epiphany">
+<!ENTITY importFromEpiphany.accesskey "E">
+<!ENTITY importFromGaleon.label "Galeon">
+<!ENTITY importFromGaleon.accesskey "G">
+<!ENTITY importFromFile.label "கோப்பிலிருந்து">
+<!ENTITY importFromFile.accesskey "F">
+
+<!ENTITY noMigrationSources.label "No programs that contain bookmarks, history or password data could be found.">
+
+<!ENTITY importSource.title "அமைப்புகள் மற்றும் தகவல்களை இறக்குமதி செய்யவேண்டிய இடம்">
+<!ENTITY importItems.title "பெற்றுக்கொள்ள வேண்டிய உருப்படிகள்">
+<!ENTITY importItems.label "இறக்குமதி செய்ய தேர்வு செய்யப்பட்ட உருப்படிகள்:">
+
+<!ENTITY migrating.title "இறக்குமதி செய்யப்படுகிறது...">
+<!ENTITY migrating.label "கீழ்கண்ட உருப்படிகள் பெறப்படுகிறது...">
+
+<!ENTITY selectProfile.title "விவரத்தை தேர்வு செய்">
+<!ENTITY selectProfile.label "இதிலிருந்து பெற்றுக்கொள்ள கீழ்கண்ட கோப்புகள் உள்ளன:">
+
+<!ENTITY done.title "இறக்குமதி முடிந்தது">
+<!ENTITY done.label "கீழ்கண்ட உருப்படிகள் வெற்றிகரமாக பெறப்பட்டது:">
+

@@ -1,0 +1,22 @@
+<!ENTITY sanitizeDialog.title "Sanitize &brandShortName;">
+
+<!ENTITY sanitizeItems.label "Clear the following items now:">
+<!ENTITY clearDataSettings.label "When I ask &brandShortName; to clear my private data, it should erase:">
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+
+<!ENTITY itemHistory.label "உலாவல் வரலாறு">
+<!ENTITY itemHistory.accesskey "B">
+<!ENTITY itemFormSearchHistory.label "Saved Form and Search History">
+<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemPasswords.label "சேமிக்கப்பட்ட கடவுச்சொற்கள்">
+<!ENTITY itemPasswords.accesskey "P">
+<!ENTITY itemCookies.label "திடீர் நிரல்கள்">
+<!ENTITY itemCookies.accesskey "C">
+<!ENTITY itemCache.label "இடைமாற்றகம்">
+<!ENTITY itemCache.accesskey "a">
+<!ENTITY itemDownloads.label "இறக்கு வரலாறு">
+<!ENTITY itemDownloads.accesskey "D">
+<!ENTITY itemSessions.label "உறுதிப்படுத்தப்பட்ட அமர்வுகள்">
+<!ENTITY itemSessions.accesskey "S">
+<!ENTITY window.width "30em">

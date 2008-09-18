@@ -1,0 +1,23 @@
+<!ENTITY bookmarks.name.label                 "பெயர்:">
+<!ENTITY bookmarks.name.accesskey             "N">
+<!ENTITY bookmarks.location.label             "இருப்பிடம்:">
+<!ENTITY bookmarks.location.accesskey         "L">
+<!ENTITY bookmarks.keyword.label              "திறவுச் சொல்:">
+<!ENTITY bookmarks.keyword.accesskey          "K">
+<!ENTITY bookmarks.description.label          "விவரிப்பு:">
+<!ENTITY bookmarks.description.accesskey      "D">
+<!ENTITY bookmarks.liveTitlesSeparator.label  "நடப்புத் தலைப்புகள்">
+<!ENTITY bookmarks.createIn.label             "Create in:">
+<!ENTITY bookmarks.createIn.accesskey         "C">
+<!ENTITY bookmarks.feed_location.label        "Feed Location:">
+<!ENTITY bookmarks.feed_location.accesskey    "F">
+<!ENTITY bookmarks.site_location.label        "Site Location:">
+<!ENTITY bookmarks.site_location.accesskey    "S">
+<!ENTITY bookmarks.loadInSidebar.label        "Load this bookmark in the sidebar">
+<!ENTITY bookmarks.loadInSidebar.accesskey    "o">
+<!ENTITY bookmarks.bookmarksFolderItem.label  "பக்கக் குறிகள்">
+<!ENTITY bookmarks.toolbarFolderItem.label    "பக்கக குறிகளின் கருவிப்பட்டை">
+<!ENTITY bookmarks.expanderDown.tooltip       "Show all the bookmarks folders">
+<!ENTITY bookmarks.expanderUp.tooltip         "மறை">
+<!ENTITY bookmarks.newFolderButton.label      "புதிய கோப்புறை">
+<!ENTITY bookmarks.newFolderButton.accesskey  "e">

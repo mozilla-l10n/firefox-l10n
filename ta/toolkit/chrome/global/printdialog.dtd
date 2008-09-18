@@ -1,0 +1,28 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "அச்சடி">
+
+<!ENTITY printDialog.title "அச்சடி">
+
+<!ENTITY fpDialog.title "கோப்பை சேமி">
+
+<!ENTITY fileCheck.label "Print to File">
+<!ENTITY propertiesButton.label "பண்புகள்...">
+<!ENTITY descText.label "Printer Description:">
+<!ENTITY printer.label "அச்சியந்திரம்">
+<!ENTITY printerInput.label "அச்சியந்திரம்:">
+
+<!ENTITY printrangeGroup.label "அச்சு வரம்பு">
+<!ENTITY allpagesRadio.label "எல்லா பக்கங்களும்">
+<!ENTITY rangeRadio.label "பக்கங்கள்">
+<!ENTITY frompageInput.label "இதிலிருந்து">
+<!ENTITY topageInput.label "வரை">
+<!ENTITY selectionRadio.label "தேர்வு">
+
+<!ENTITY copies.label "நகல்கள்">
+<!ENTITY numCopies.label "நகல்களின் எண்ணிக்கை:">
+
+<!ENTITY printframeGroup.label "அச்சு சட்டங்கள்">
+<!ENTITY aslaidoutRadio.label "திரையில் வரையப்பட்டது போல்">
+<!ENTITY selectedframeRadio.label "தேர்ந்தெடுக்கப்பட்ட சட்டங்கள்">
+<!ENTITY eachframesepRadio.label "ஒவ்வொரு சட்டமும் தனித்தனியாக">

@@ -1,0 +1,29 @@
+<!ENTITY window.title "Message Filters">
+<!ENTITY nameColumn.label "Filter பெயர்">
+<!ENTITY activeColumn.label "Enabled">
+<!ENTITY newButton.label "புதிது...">
+<!ENTITY newButton.accesskey "N">
+<!ENTITY editButton.label "தொகுப்பு...">
+<!ENTITY editButton.accesskey "E">
+<!ENTITY deleteButton.label "நீக்கு">
+<!ENTITY deleteButton.accesskey "t">
+<!ENTITY reorderUpButton.label "நகர்த்து மேல்">
+<!ENTITY reorderUpButton.accesskey "U">
+<!ENTITY reorderDownButton.label "நகர்த்து கீழ்">
+<!ENTITY reorderDownButton.accesskey "D">
+<!ENTITY filterHeader.label "Enabled filters are run automatically in the order shown below.">
+<!ENTITY filtersForPrefix.label "Filters for:">
+<!ENTITY filtersForPrefix.accesskey "F">
+<!ENTITY viewLogButton.label "Filter Log">
+<!ENTITY viewLogButton.accesskey "L">
+<!ENTITY runFilters.label "Run Now">
+<!ENTITY runFilters.accesskey "R">
+<!ENTITY stopFilters.label "நிறுத்து">
+<!ENTITY stopFilters.accesskey "S">
+<!ENTITY folderPickerPrefix.label "Run selected filter(s) on:">
+<!ENTITY folderPickerPrefix.accesskey "c">
+<!ENTITY choosethis.label "இந்தக் கோப்புறையை தேர்ந்தெடு">
+<!ENTITY choosethisnewsserver.label "choose this news server">
+<!ENTITY helpButton.label "உதவி">
+<!ENTITY helpButton.accesskey "H">
+<!ENTITY closeCmd.key "W">

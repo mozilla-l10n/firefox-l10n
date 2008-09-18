@@ -1,0 +1,75 @@
+<!-- these things need to move into utilityOverlay.xul -->
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+
+
+<!ENTITY fileMenu.label "கோப்பு">
+<!ENTITY fileMenu.accesskey "f">
+<!ENTITY newMenu.label "புதிய">
+<!ENTITY newMenu.accesskey "N">
+
+<!ENTITY editMenu.label "தொகுப்பு">
+<!ENTITY editMenu.accesskey "e">
+<!ENTITY undoCmd.label "செய்ததுதவிர்">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "u">
+<!ENTITY redoCmd.label "தவிர்த்தது">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "r">
+<!ENTITY cutCmd.label "வெட்டு">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "நகலெடு">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "c">
+<!ENTITY pasteCmd.label "ஒட்டு">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY deleteCmd.label "நீக்கு">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "d">
+<!ENTITY selectAllCmd.label "அனைத்தும் தேர்ந்தெடு">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY preferencesCmd.label "விருப்பத்தேர்வுகள்...">
+<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY preferencesCmdUnix.label "தேர்ந்தெடுக்கப்பட்ட பொருள்கள்">
+<!ENTITY preferencesCmdUnix.accesskey "n">
+
+<!ENTITY findTypeTextCmd.label "Find Text As You Type">
+<!ENTITY findTypeTextCmd.accesskey "x">
+
+<!ENTITY viewMenu.label "தோற்றம்">
+<!ENTITY viewMenu.accesskey "v">
+<!ENTITY viewToolbarsMenu.label "கருவிப்பட்டைகள்">
+<!ENTITY viewToolbarsMenu.accesskey "T">
+<!ENTITY showTaskbarCmd.label "நிலைமை பட்டை">
+<!ENTITY showTaskbarCmd.accesskey "S">
+
+<!ENTITY direct.label "நிகஆநினுல (proxy: none)">
+<!ENTITY direct.accesskey "n">
+<!ENTITY manual.label "நிகஆநினுல (proxy: manual)">
+<!ENTITY manual.accesskey "m">
+<!ENTITY pac.label "நிகஆநினுல (proxy: auto)">
+<!ENTITY pac.accesskey "a">
+
+<!ENTITY proxy.label "Proxy Configuration...">
+<!ENTITY proxy.accesskey "C">
+
+<!ENTITY findTypeTextCmd.key "/">
+<!ENTITY findTypeLinksCmd.key "'">
+
+<!ENTITY closeCmd.label "மூடு">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "c">
+
+<!ENTITY closeWindow.label "Close Window">
+
+<!ENTITY quitApplicationCmd.label "முடிவு">
+<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY quitApplicationCmd.accesskey "x">
+
+<!ENTITY quitApplicationCmdUnix.label "விலக்கு">
+<!ENTITY quitApplicationCmdUnix.accesskey "q">
+
+<!ENTITY quitApplicationCmdMac.label "Quit &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey "q">

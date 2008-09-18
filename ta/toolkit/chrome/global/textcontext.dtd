@@ -1,0 +1,20 @@
+<!ENTITY cutCmd.label "வெட்டு">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "நகலெடு">
+<!ENTITY copyCmd.accesskey "c">
+<!ENTITY pasteCmd.label "ஒட்டு">
+<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY undoCmd.label "செய்யாதே">
+<!ENTITY undoCmd.accesskey "u">
+<!ENTITY selectAllCmd.label "அனைத்தையும் தேர்வு செய்">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY deleteCmd.label "நீக்கு">
+<!ENTITY deleteCmd.accesskey "d">
+
+<!ENTITY spellAddToDictionary.label "Add to dictionary">
+<!ENTITY spellAddToDictionary.accesskey "t">
+<!ENTITY spellEnable.label "Spell check this field">
+<!ENTITY spellEnable.accesskey "S">
+<!ENTITY spellNoSuggestions.label "(No spelling suggestions)">
+<!ENTITY spellDictionaries.label "மொழிகள்">
+<!ENTITY spellDictionaries.accesskey "l">

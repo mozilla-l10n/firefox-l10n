@@ -1,0 +1,15 @@
+<!ENTITY window.width "30em">
+
+<!ENTITY languages.customize.Header "மொழிகள்">
+<!ENTITY languages.customize.prefLangDescript "Web pages are sometimes offered in more than one language. Choose languages for displaying these web pages, in order of preference.">
+<!ENTITY languages.customize.active.label "விருப்பப்பட்ட வரிசையில் மொழிகள்:">
+<!ENTITY languages.customize.moveUp.label "மேலே நகர்த்து">
+<!ENTITY languages.customize.moveUp.accesskey "U">
+<!ENTITY languages.customize.moveDown.label "கீழே நகர்த்து">
+<!ENTITY languages.customize.moveDown.accesskey "D">
+<!ENTITY languages.customize.deleteButton.label "நீக்கு">
+<!ENTITY languages.customize.deleteButton.accesskey "R">
+<!ENTITY languages.customize.selectLanguage.label "மொழியை தேர்வு செய்து சேர்...">
+<!ENTITY languages.customize.addButton.label "சேர்">
+<!ENTITY languages.customize.addButton.accesskey "A">
+

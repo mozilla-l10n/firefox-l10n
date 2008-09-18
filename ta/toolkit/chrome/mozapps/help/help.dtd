@@ -1,0 +1,45 @@
+<!ENTITY printCmd.commandkey "p">
+
+<!ENTITY findOnCmd.commandkey "F">
+<!ENTITY findAgainCmd.commandkey "G">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY backButton.label "முந்தைய">
+<!ENTITY backButton.accesskey "B">
+<!ENTITY backButton.tooltip "Go back one page">
+<!ENTITY forwardButton.label "முன்னே">
+<!ENTITY forwardButton.accesskey "F">
+<!ENTITY forwardButton.tooltip "Go forward one page">
+<!ENTITY copyCmd.label "நகலெடு">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY selectAllCmd.label "அனைத்தும் தேர்ந்தெடு">
+<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY goBackCmd.commandkey "[">
+<!ENTITY goForwardCmd.commandkey "]">
+<!ENTITY homeButton.label "அகம்">
+<!ENTITY homeButton.tooltip "Go to the Help Start Page">
+<!ENTITY printButton.label "அச்சிடு">
+<!ENTITY printButton.tooltip "Print this page">
+<!ENTITY closeWindow.commandkey "W">
+
+<!ENTITY searchtab.label "தேடு">
+<!ENTITY searchtab.accesskey "S">
+<!ENTITY searchClose.tooltip "Close search results">
+<!ENTITY toctab.label "Contents">
+<!ENTITY toctab.accesskey "C">
+
+<!ENTITY fullZoomReduceCmd.commandkey "-">
+<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomResetCmd.commandkey "0">
+
+<!ENTITY helpSearch.commandkey "k">
+
+<!ENTITY zLevel.label "Always on Top">
+<!ENTITY zLevel.accesskey "T">
+
+<!ENTITY fullZoomReduceBtn.label "Zoom Out">
+<!ENTITY fullZoomReduceBtn.accesskey "O">
+<!ENTITY fullZoomEnlargeBtn.label "Zoom In">
+<!ENTITY fullZoomEnlargeBtn.accesskey "I">

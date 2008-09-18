@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
+
+<!ENTITY title.label "பதிவிறக்கமின்றது நற்சான்றிதழ்கள்">
+<!ENTITY info.message "Searching the directory for recipients' certificates. This may take a few minutes.">
+<!ENTITY stop.label "நிறுத்து ஆராய்கிறத">

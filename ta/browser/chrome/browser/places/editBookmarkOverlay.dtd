@@ -1,0 +1,13 @@
+<!ENTITY editBookmarkOverlay.name.label                      "பெயர்:">
+<!ENTITY editBookmarkOverlay.location.label                  "இருப்பிடம்:">
+<!ENTITY editBookmarkOverlay.feedLocation.label              "Feed Location:">
+<!ENTITY editBookmarkOverlay.siteLocation.label              "Site Location:">
+<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "நடப்புத் தலைப்புகள்">
+<!ENTITY editBookmarkOverlay.folder.label                    "Folder:">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Show all the bookmarks folders">
+<!ENTITY editBookmarkOverlay.expanderUp.tooltip              "மறை">
+<!ENTITY editBookmarkOverlay.tags.label                      "Tags:">
+<!ENTITY editBookmarkOverlay.description.label               "விவரிப்பு:">
+<!ENTITY editBookmarkOverlay.keyword.label                   "திறவுச் சொல்:">
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Show all tags">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Load this bookmark in the sidebar">

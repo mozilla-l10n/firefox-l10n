@@ -1,0 +1,14 @@
+
+<!ENTITY prefWindow.titleWin "விருப்பத்தேர்வுகள்">
+<!ENTITY prefWindow.titleGNOME "&brandShortName; Preferences">
+<!ENTITY prefWindow.styleWindows "width: 44em; min-height: 38.5em;">
+<!ENTITY prefWindow.styleMac "width: 47em;">
+<!ENTITY prefWindow.styleGNOME "width: 42em; min-height: 38em;">
+
+<!ENTITY paneGeneral.title "பொது">
+<!ENTITY paneDisplay.title "Display">
+<!ENTITY paneTags.title "குறிகள்">
+<!ENTITY paneComposition.title "Composition">
+<!ENTITY paneAttachments.title "உடனிணைப்புகள்">
+<!ENTITY panePrivacy.title "Privacy">
+<!ENTITY paneAdvanced.title "உயர்நிலை">

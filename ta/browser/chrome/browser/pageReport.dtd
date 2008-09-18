@@ -1,0 +1,9 @@
+<!ENTITY caption.label "தடை செய்யப்பட்ட தோன்றும் சாளரங்கள்">
+
+<!ENTITY intro.label "கீழ்கண்ட பக்கங்கள் அனுமதியற்ற தோன்றும் சாளரங்களை நிராகரிக்கும்:">
+
+<!ENTITY done.label "முடிந்தது">
+<!ENTITY done.accesskey "D">
+
+<!ENTITY unblock.label "வலைமனைக்கான தடை நீக்கு">
+<!ENTITY unblock.accesskey "U">

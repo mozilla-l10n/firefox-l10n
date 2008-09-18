@@ -1,0 +1,49 @@
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "சிறிதாக்கு">
+<!ENTITY bringAllToFront.label "அனைத்தையும் முன் கொண்டுவா">
+<!ENTITY zoomWindow.label "அளவு மாற்று">
+<!ENTITY windowMenu.label "சாளரம்">
+
+<!ENTITY helpMenu.label "உதவி">
+<!ENTITY helpMenu.accesskey "H">
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label "உதவி">
+<!ENTITY helpMenuWin.accesskey "H">
+<!ENTITY aboutCmd.label "அறிமுகம் &brandFullName;">
+<!ENTITY aboutCmd.accesskey "A">
+<!ENTITY helpContents.label "உதவி உள்ளடக்கங்கள்">
+<!ENTITY helpContents.accesskey "H">
+<!ENTITY helpContentsMac.label "&brandShortName; உதவி">
+<!ENTITY helpForIEUsers.label "இண்டர்நெட் எக்ஸ்ப்ளோரர் பயனர்களுக்கு">
+<!ENTITY helpForIEUsers.accesskey "I">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelpMac.commandkey "VK_HELP">
+<!-- LOCALIZATION NOTE openHelpMac2.commandkey and openHelpMac2.modifiers
+                       are all the necessary keys to hit OS X's open-help 
+                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
+<!ENTITY openHelpMac2.commandkey "/">
+<!ENTITY openHelpMac2.modifiers "accel,shift">
+<!ENTITY openHelpMac2.frontendCommandkey "?">
+<!ENTITY openHelpMac2.frontendModifiers "முடுக்கப்படு">
+
+<!ENTITY helpReleaseNotes.label "வெளியிடு விளக்க உரைகள்">
+<!ENTITY helpReleaseNotes.accesskey "N">
+<!ENTITY updateCmd.label "மேம்படுத்தலுக்கு சோதிக்கவும்...">
+<!ENTITY updateCmd.accesskey "o">
+
+<!ENTITY preferencesCmdMac.label "முன்னுரிமைகள்...">
+<!ENTITY preferencesCmdMac.commandkey ",">
+<!ENTITY preferencesCmdMac.modifiers "முடுக்கப்படு">
+
+<!ENTITY servicesMenuMac.label "சேவைகள்">
+
+<!ENTITY hideThisAppCmdMac.label "&brandShortName;ஐ மறைத்தல்">
+<!ENTITY hideThisAppCmdMac.commandkey "H">
+<!ENTITY hideThisAppCmdMac.modifiers "முடுக்கப்படு">
+
+<!ENTITY hideOtherAppsCmdMac.label "மற்றவற்றை மறைத்தல்">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
+
+<!ENTITY showAllAppsCmdMac.label "அனைத்தையும் காட்டுதல்">

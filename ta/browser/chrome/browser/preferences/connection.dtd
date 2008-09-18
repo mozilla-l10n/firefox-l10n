@@ -1,0 +1,42 @@
+
+<!ENTITY connectionsDialog.title "Connection Settings">
+<!ENTITY window.width "37em">
+<!ENTITY window.macWidth "39em">
+
+<!ENTITY proxyTitle.label "இணையத்தை அணுக ப்ராக்ஸியை அமை">
+<!ENTITY directTypeRadio.label "இணையத்துடன் நேரடியாக இணை">
+<!ENTITY directTypeRadio.accesskey "d">
+<!ENTITY WPADTypeRadio.label "இந்த வலைப்பின்னலுக்கான ப்ராக்ஸி அமைப்பை தானாக கண்டுபிடி">
+<!ENTITY WPADTypeRadio.accesskey "w">
+<!ENTITY manualTypeRadio.label "கைமுறையாக ப்ராக்ஸி அமைத்தல்">
+<!ENTITY manualTypeRadio.accesskey "m">
+<!ENTITY autoTypeRadio.label "தானாக ப்ராக்ஸி அமைக்க URL:">
+<!ENTITY autoTypeRadio.accesskey "a">
+<!ENTITY reload.label "மீளேற்று">
+<!ENTITY reload.accesskey "e">
+<!ENTITY ftp.label "FTP ப்ராக்ஸி:">
+<!ENTITY ftp.accesskey "F">
+<!ENTITY gopher.label "Gopher ப்ராக்ஸி:">
+<!ENTITY gopher.accesskey "G">
+<!ENTITY http.label "HTTP ப்ராக்ஸி:">
+<!ENTITY http.accesskey "h">
+<!ENTITY ssl.label "SSL ப்ராக்ஸி:">
+<!ENTITY ssl.accesskey "S">
+<!ENTITY socks.label "SOCKS புரவலன்:">
+<!ENTITY socks.accesskey "C">
+<!ENTITY socks4.label "SOCKS v4">
+<!ENTITY socks4.accesskey "K">
+<!ENTITY socks5.label "SOCKS v5">
+<!ENTITY socks5.accesskey "v">
+<!ENTITY port.label "துறை:">
+<!ENTITY HTTPport.accesskey "p">
+<!ENTITY SSLport.accesskey "o">
+<!ENTITY FTPport.accesskey "r">
+<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
+<!ENTITY gopherPort.accesskey "">
+<!ENTITY SOCKSport.accesskey "t">
+<!ENTITY noproxy.label "இதற்கு ப்ராக்ஸி இல்லை:">
+<!ENTITY noproxy.accesskey "n">
+<!ENTITY noproxyExplain.label "உதாரணம்: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY shareproxy.label "எல்லா விதிமுறைகளுக்கும் ஒரே ப்ராக்ஸியை பயன்படுத்து">
+<!ENTITY shareproxy.accesskey "x">

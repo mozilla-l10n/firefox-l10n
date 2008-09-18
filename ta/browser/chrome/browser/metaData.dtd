@@ -1,0 +1,27 @@
+<!ENTITY no-properties.label "பண்புகள் எதுவும் அமைக்கப்படவில்லை.">
+
+<!ENTITY caption.label "உறுப்புகளின் பண்புகள்">
+<!ENTITY image-sec.label "பிம்பங்களின் பண்புகள்">
+<!ENTITY image-url.label "இடம்:">
+<!ENTITY image-type.label "Type:">
+<!ENTITY image-desc.label "விளக்கம்:">
+<!ENTITY image-alt.label "மாற்று உரை:">
+<!ENTITY image-size.label "Image Dimensions:">
+<!ENTITY image-filesize.label "கோப்பின் அளவு:">
+<!ENTITY insdel-sec.label "பண்புகளை சொருகு/நீக்கு">
+<!ENTITY insdel-cite.label "தகவல்:">
+<!ENTITY insdel-date.label "தேதி:">
+<!ENTITY link-sec.label "இணைப்பு பண்புகள்">
+<!ENTITY link-url.label "முகவரி:">
+<!ENTITY link-target.label "இதில் திறக்கும்:">
+<!ENTITY link-type.label "இலக்கு வகை:">
+<!ENTITY link-lang.label "இலக்கு மொழி:">
+<!ENTITY link-rel.label "தொடர்பு:">
+<!ENTITY link-rev.label "தலைகீழ் தொடர்பு:">
+<!ENTITY link-ping.label "Will notify:">
+<!ENTITY misc-sec.label "மற்ற பண்புகள்">
+<!ENTITY misc-lang.label "உரை மொழி:">
+<!ENTITY misc-title.label "தலைப்பு:">
+<!ENTITY misc-tblsummary.label "அட்டவணை பண்புகள்:">
+<!ENTITY quote-sec.label "மேற்கோள் பண்புகள்">
+<!ENTITY quote-cite.label "தகவல்:">

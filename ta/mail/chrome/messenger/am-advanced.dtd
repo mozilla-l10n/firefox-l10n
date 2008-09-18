@@ -1,0 +1,23 @@
+<!-- extracted from am-advanced.xul -->
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpServer.label "Outgoing Server (SMTP) Settings">
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpDesc.label "Although you can specify more than one outgoing server (SMTP), this is only recommended for advanced users. Setting up multiple SMTP servers can cause errors when sending messages.">
+
+<!ENTITY smtpListAdd.label "கூட்டு...">
+<!ENTITY smtpListAdd.accesskey "d">
+<!ENTITY smtpListEdit.label "தொகுப்பு...">
+<!ENTITY smtpListEdit.accesskey "E">
+<!ENTITY smtpListDelete.label "அகற்று">
+<!ENTITY smtpListDelete.accesskey "m">
+<!ENTITY smtpListSetDefault.label "அமை முன்னிருப்பு">
+<!ENTITY smtpListSetDefault.accesskey "t">
+
+<!ENTITY serverDescription.label "விவரிப்பு: ">
+<!ENTITY serverName.label "வழங்கன் பெயர்: ">
+<!ENTITY serverPort.label "துறை: ">
+<!ENTITY userName.label "பயனர் பெயர்: ">
+<!ENTITY useSecureConnection.label "பாதுகாப்பான இணைப்பு: ">
+<!ENTITY useSecureAuthentication.label "பாதுகாப்பான உறுதிப்படுத்தல்: ">

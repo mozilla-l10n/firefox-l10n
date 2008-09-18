@@ -1,0 +1,24 @@
+<!ENTITY offlineDialog.title "Offline Settings">
+
+<!ENTITY textStartUp "When starting up:">
+<!ENTITY radioRememberPrevState "Remember previous online state">
+<!ENTITY radioRememberPrevState.accesskey "R">
+<!ENTITY radioAskMe "Ask me for online state at startup">
+<!ENTITY radioAskMe.accesskey "u">
+<!ENTITY radioAlwaysOnline "Always start up online">
+<!ENTITY radioAlwaysOnline.accesskey "l">
+
+<!ENTITY textGoingOnline "Send unsent messages when going online?">
+<!ENTITY radioAutoSend "ஆம்">
+<!ENTITY radioAutoSend.accesskey "Y">
+<!ENTITY radioNotSend "இல்லை">
+<!ENTITY radioNotSend.accesskey "N">
+<!ENTITY radioAskUnsent "என்னை கேள்">
+<!ENTITY radioAskUnsent.accesskey "s">
+<!ENTITY textGoingOffline "Download messages for offline use when going offline?">
+<!ENTITY radioAutoDownload "ஆம்">
+<!ENTITY radioAutoDownload.accesskey "e">
+<!ENTITY radioNotDownload "இல்லை">
+<!ENTITY radioNotDownload.accesskey "o">
+<!ENTITY radioAskDownload "என்னை கேள்">
+<!ENTITY radioAskDownload.accesskey "a">

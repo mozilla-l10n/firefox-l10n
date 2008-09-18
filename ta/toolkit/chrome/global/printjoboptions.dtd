@@ -1,0 +1,28 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "அச்சியந்திர பண்புகள்">
+
+<!ENTITY paperInput.label "பக்க அளவு:">
+
+<!ENTITY plexInput.label "Plex பாங்கு:">
+
+<!ENTITY resolutionInput.label "Resolution/Quality:">
+
+<!ENTITY cmdInput.label "Print கட்டளை:">
+
+<!ENTITY jobTitleInput.label "Job Title:">
+
+<!ENTITY colorGroup.label "நிறம்:">
+<!ENTITY grayRadio.label "கருப்புவெள்ளை">
+<!ENTITY colorRadio.label "நிறம்">
+
+<!ENTITY colorspaceInput.label "Colorspace:">
+
+<!ENTITY fontsGroup.label "Fonts:">
+<!ENTITY downloadFonts.label "Download fonts to printer?">
+
+<!ENTITY edgeMarginInput.label "தாளின் முனைக்கும் ஓரத்திற்கு உள்ள இடைவெளி(அங்குலத்தில்)">
+<!ENTITY topInput.label "மேல்:">
+<!ENTITY bottomInput.label "கீழ்:">
+<!ENTITY leftInput.label "இடம்:">
+<!ENTITY rightInput.label "வலம்:">

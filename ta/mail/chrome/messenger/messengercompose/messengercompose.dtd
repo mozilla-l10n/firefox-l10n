@@ -1,0 +1,285 @@
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+<!ENTITY msgComposeWindow.title "Compose: (no subject)">
+<!-- File Menu -->
+
+<!ENTITY fileMenu.label "கோப்பு">
+<!ENTITY fileMenu.accesskey "f">
+<!ENTITY newMenu.label "புதிது">
+<!ENTITY newMenu.accesskey "N">
+<!ENTITY newMessage.label "செய்தி">
+<!ENTITY newMessage.key "M">
+<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessage.accesskey "M">
+<!ENTITY newCard.label "Address Book Card...">
+<!ENTITY newCard.accesskey "c">
+<!ENTITY attachMenu.label "உடன் இணை">
+<!ENTITY attachMenu.accesskey "t">
+<!ENTITY attachFileCmd.label "File(s)...">
+<!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachPageCmd.label "Web Page...">
+<!ENTITY attachPageCmd.accesskey "W">
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCardCmd.label "Personal Card (vCard)">
+<!ENTITY attachVCardCmd.accesskey "P">
+<!ENTITY closeCmd.label "மூடு">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "c">
+<!ENTITY saveCmd.label "சேமி">
+<!ENTITY saveCmd.key "S">
+<!ENTITY saveCmd.accesskey "s">
+<!ENTITY saveAsCmd.label "எனச்சேமி">
+<!ENTITY saveAsCmd.accesskey "A">
+<!ENTITY saveAsFileCmd.label "File...">
+<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveAsDraftCmd.label "Draft">
+<!ENTITY saveAsDraftCmd.accesskey "D">
+<!ENTITY saveAsTemplateCmd.label "வார்ப்புரு">
+<!ENTITY saveAsTemplateCmd.accesskey "T">
+<!ENTITY sendNowCmd.label "Send Now">
+<!ENTITY sendCmd.keycode "VK_RETURN">
+<!ENTITY sendNowCmd.accesskey "d">
+<!ENTITY sendLaterCmd.label "Send Later">
+<!ENTITY sendLaterCmd.keycode "VK_RETURN">
+<!ENTITY sendLaterCmd.accesskey "L">
+<!ENTITY printSetupCmd.label "பக்க அமைவு...">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printCmd.label "அச்சிடு...">
+<!ENTITY printCmd.key "P">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY quitApplicationCmdWin.label "வெளியேறு">
+<!ENTITY quitApplicationCmdWin.accesskey "x">
+<!ENTITY quitApplicationCmd.label "விலக்கு">
+<!ENTITY quitApplicationCmd.accesskey "Q">
+<!ENTITY quitApplicationCmd.key "Q">
+<!-- Edit Menu -->
+
+<!ENTITY editMenu.label "தொகுப்பு">
+<!ENTITY editMenu.accesskey "e">
+<!ENTITY undoCmd.label "செய்ததுதவிர்">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "u">
+<!ENTITY redoCmd.label "தவிர்த்தது">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "r">
+<!ENTITY cutCmd.label "வெட்டு">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "நகலெடு">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "c">
+<!ENTITY pasteCmd.label "ஒட்டு">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY editRewrapCmd.label "Rewrap">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY editRewrapCmd.accesskey "w">
+<!ENTITY deleteCmd.label "நீக்கு">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "d">
+<!ENTITY selectAllCmd.label "அனைத்தும் தேர்ந்தெடு">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY findCmd.label "Find and Replace...">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "F">
+<!ENTITY findAgainCmd.label "மறுபடிக் கண்டறி">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "Find Previous">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.accesskey "v">
+<!-- View Menu -->
+
+<!ENTITY viewMenu.label "தோற்றம்">
+<!ENTITY viewMenu.accesskey "v">
+<!ENTITY viewToolbarsMenuNew.label "கருவிப்பட்டைகள்">
+<!ENTITY viewToolbarsMenuNew.accesskey "T">
+<!ENTITY showComposeToolbarCmd.label "அஞ்சல் கருவிப்பட்டை">
+<!ENTITY showComposeToolbarCmd.accesskey "o">
+<!ENTITY showFormatToolbarCmd.label "Formatting Toolbar">
+<!ENTITY showFormatToolbarCmd.accesskey "F">
+<!ENTITY showTaskbarCmd.label "நிலைமை பட்டை">
+<!ENTITY showTaskbarCmd.accesskey "S">
+<!ENTITY customizeToolbar.label "தனிப்பயனாக்கு...">
+<!ENTITY customizeToolbar.accesskey "C">
+
+<!ENTITY addressSidebar.label "Contacts Sidebar">
+<!ENTITY addressSidebar.accesskey "o">
+<!-- Format Menu -->
+
+<!ENTITY formatMenu.label "வடிவமை">
+<!ENTITY formatMenu.accesskey "o">
+<!-- Options Menu -->
+
+<!ENTITY optionsMenu.label "விருப்பத்தேர்வுகள்">
+<!ENTITY optionsMenu.accesskey "p">
+<!ENTITY checkSpellingCmd.label "Check Spelling...">
+<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd.key2 "VK_F7">
+<!ENTITY checkSpellingCmd.accesskey "h">
+<!ENTITY enableInlineSpellChecker.label "Spell Check As You Type">
+<!ENTITY enableInlineSpellChecker.accesskey "S">
+<!ENTITY quoteCmd.label "Quote Message">
+<!ENTITY quoteCmd.accesskey "Q">
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
+
+<!ENTITY attachVCard.label "Attach Personal Card (vCard)">
+<!ENTITY attachVCard.accesskey "v">
+
+<!ENTITY returnReceiptMenu.label "Return Receipt">
+<!ENTITY returnReceiptMenu.accesskey "t">
+<!ENTITY dsnMenu.label "Delivery Status Notification">
+<!ENTITY dsnMenu.accesskey "N">
+<!ENTITY outputFormatMenu.label "வடிவமை">
+<!ENTITY outputFormatMenu.accesskey "f">
+<!ENTITY autoFormatCmd.label "Auto-Detect">
+<!ENTITY autoFormatCmd.accesskey "a">
+<!ENTITY plainTextFormatCmd.label "Plain Text Only">
+<!ENTITY plainTextFormatCmd.accesskey "p">
+<!ENTITY htmlFormatCmd.label "Rich Text (HTML) Only">
+<!ENTITY htmlFormatCmd.accesskey "r">
+<!ENTITY bothFormatCmd.label "Plain and Rich (HTML) Text">
+<!ENTITY bothFormatCmd.accesskey "l">
+<!ENTITY priorityMenu.label "முதன்மை">
+<!ENTITY priorityMenu.accesskey "p">
+<!ENTITY priorityButton.label "Priority:">
+<!ENTITY lowestPriorityCmd.label "Lowest">
+<!ENTITY lowestPriorityCmd.accesskey "l">
+<!ENTITY lowPriorityCmd.label "Low">
+<!ENTITY lowPriorityCmd.accesskey "o">
+<!ENTITY normalPriorityCmd.label "இயல்பான">
+<!ENTITY normalPriorityCmd.accesskey "n">
+<!ENTITY highPriorityCmd.label "High">
+<!ENTITY highPriorityCmd.accesskey "i">
+<!ENTITY highestPriorityCmd.label "Highest">
+<!ENTITY highestPriorityCmd.accesskey "H">
+<!ENTITY fileCarbonCopyCmd.label "Send a Copy To">
+<!ENTITY fileCarbonCopyCmd.accesskey "d">
+<!ENTITY fileHereMenu.label "File Here">
+<!-- Tools Menu -->
+
+<!ENTITY tasksMenu.label "கருவிகள்">
+<!ENTITY tasksMenu.accesskey "T">
+<!ENTITY messengerCmd.label "அஞ்சல் &amp; செய்திகள் குழுகள்">
+<!ENTITY messengerCmd.accesskey "m">
+<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY addressBookCmd.label "முகவரிப் புத்தகம்">
+<!ENTITY addressBookCmd.accesskey "a">
+<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY accountManagerCmd.label "Account Settings...">
+<!ENTITY accountManagerCmd.accesskey "c">
+<!ENTITY accountManagerCmdUnix.accesskey "S">
+<!ENTITY preferencesCmd.label "விருப்பத்தேர்வுகள்...">
+<!ENTITY preferencesCmd.key "O">
+<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY preferencesCmdUnix.label "தேர்ந்தெடுக்கப்பட்ட பொருள்கள்">
+<!ENTITY preferencesCmdUnix.accesskey "n">
+<!--  Mac OS X Window Menu -->
+
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "சிறிதாக்கு">
+<!ENTITY bringAllToFront.label "Bring All to Front">
+<!ENTITY zoomWindow.label "பெரிதாக்கு">
+<!ENTITY windowMenu.label "சாளரம்">
+<!-- Help Menu -->
+
+<!ENTITY helpMenu.label "உதவி">
+<!ENTITY helpMenu.accesskey "H">
+<!ENTITY releaseCmd.label "வெளியிடு விளக்க உரைகள்">
+<!ENTITY releaseCmd.accesskey "R">
+<!ENTITY hintsAndTips.label "&brandShortName; Help">
+<!ENTITY hintsAndTips.accesskey "h">
+<!ENTITY hintsAndTipsMac.commandkey "?">
+<!ENTITY aboutCmd.label "About &brandShortName;">
+<!ENTITY aboutCmd.accesskey "A">
+<!-- Mail Toolbar -->
+
+<!ENTITY sendButton.label "அனுப்பு">
+<!ENTITY quoteButton.label "Quote">
+<!ENTITY addressButton.label "Contacts">
+<!ENTITY attachButton.label "உடன் இணை">
+<!ENTITY spellingButton.label "Spelling">
+<!ENTITY saveButton.label "சேமி">
+<!ENTITY throbberItem.title "Activity Indicator">
+<!-- Mail Toolbar Tooltips -->
+
+<!ENTITY sendButton.tooltip "Send this message now">
+<!ENTITY sendlaterButton.tooltip "Send this message later">
+<!ENTITY quoteButton.tooltip "Quote the previous message">
+<!ENTITY addressButton.tooltip "Select a recipient from an Address Book">
+<!ENTITY attachButton.tooltip "Include an attachment">
+<!ENTITY saveButton.tooltip "Save this message">
+<!ENTITY cutButton.tooltip "வெட்டு">
+<!ENTITY copyButton.tooltip "நகலெடு">
+<!ENTITY pasteButton.tooltip "ஒட்டு">
+<!-- Headers -->
+
+<!ENTITY fromAddr.label "From:">
+<!ENTITY fromAddr.accesskey "r">
+<!ENTITY toAddr.label "To:">
+<!ENTITY ccAddr.label "Cc:">
+<!ENTITY bccAddr.label "Bcc:">
+<!ENTITY replyAddr.label "Reply-To:">
+<!ENTITY newsgroupsAddr.label "செய்திகள் குழு:">
+<!ENTITY followupAddr.label "Followup-To:">
+<!ENTITY subject.label "Subject:">
+<!ENTITY subject.accesskey "S">
+<!ENTITY attachments.label "Attachments:">
+<!ENTITY attachments.accesskey "c">
+<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
+
+<!ENTITY formatToolbar.boldChar "B">
+<!ENTITY formatToolbar.italicChar "I">
+<!ENTITY formatToolbar.underlineChar "U">
+<!ENTITY SmileButton.tooltip "Insert a smiley face">
+<!ENTITY smiley1Cmd.label "Smile">
+<!ENTITY smiley2Cmd.label "Frown">
+<!ENTITY smiley3Cmd.label "Wink">
+<!ENTITY smiley4Cmd.label "Tongue-out">
+<!ENTITY smiley5Cmd.label "Laughing">
+<!ENTITY smiley6Cmd.label "Embarrassed">
+<!ENTITY smiley7Cmd.label "Undecided">
+<!ENTITY smiley8Cmd.label "Surprise">
+<!ENTITY smiley9Cmd.label "Kiss">
+<!ENTITY smiley10Cmd.label "Yell">
+<!ENTITY smiley11Cmd.label "Cool">
+<!ENTITY smiley12Cmd.label "Money-Mouth">
+<!ENTITY smiley13Cmd.label "Foot-in-Mouth">
+<!ENTITY smiley14Cmd.label "Innocent">
+<!ENTITY smiley15Cmd.label "Cry">
+<!ENTITY smiley16Cmd.label "Lips-are-Sealed">
+<!-- Message Pane Context Menu -->
+
+<!ENTITY spellCheckNoSuggestions.label "No Suggestions Found">
+<!ENTITY spellCheckIgnoreWord.label "Ignore Word">
+<!ENTITY spellCheckIgnoreWord.accesskey "I">
+<!ENTITY spellCheckAddToDictionary.label "Add to Dictionary">
+<!ENTITY spellCheckAddToDictionary.accesskey "n">
+<!ENTITY undo.label "செய்ததுதவிர்">
+<!ENTITY undo.accesskey "U">
+<!ENTITY cut.label "வெட்டு">
+<!ENTITY cut.accesskey "t">
+<!ENTITY copy.label "நகலெடு">
+<!ENTITY copy.accesskey "C">
+<!ENTITY paste.label "ஒட்டு">
+<!ENTITY paste.accesskey "P">
+<!ENTITY pasteQuote.label "Paste As Quotation">
+<!ENTITY pasteQuote.accesskey "Q">
+
+<!ENTITY openAttachment.label "திற">
+<!ENTITY openAttachment.accesskey "O">
+<!ENTITY delete.label "நீக்கு">
+<!ENTITY delete.accesskey "D">
+<!ENTITY selectAll.label "அனைத்தும் தேர்ந்தெடு">
+<!ENTITY selectAll.accesskey "A">
+<!ENTITY attachFile.label "Attach File(s)...">
+<!ENTITY attachFile.accesskey "F">
+<!ENTITY attachPage.label "Attach Web Page...">
+<!ENTITY attachPage.accesskey "W">
+<!-- Title for the address picker panel -->
+
+<!ENTITY addressesSidebarTitle.label "Contacts">
+

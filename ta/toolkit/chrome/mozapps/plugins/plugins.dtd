@@ -1,0 +1,23 @@
+<!ENTITY pluginWizard.title "சொருகு பொருள் கண்டறியும் சேவை">
+<!ENTITY pluginWizard.firstPage.title "Welcome to the &pluginWizard.title;">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; நிறுவன அடையாளம்; தற்போதுள்ள சொருகுபொருள்களை தேடுகிறது...">
+
+<!ENTITY pluginWizard.availablePluginsPage.title "ஏற்கெனவே உள்ள சொருகு பொருள் பதிவிறக்கங்கள்">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "கீழ்கண்ட பதிவிறக்கங்கள் உள்ளன:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "அடுத்து என்பதை க்ளிக் செய்து இந்த சொருகு பொருள்களை நிறுவவும்.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI "சில சொருகு பொருள்களை நிறுவ கூடுதல் தகவல்கள் தேவைப்படும்.">
+
+<!ENTITY pluginWizard.licensePage.title "சொருகு பொருள் உரிமம்">
+<!ENTITY pluginWizard.licensePage.accept.label "ஏற்கிறேன்.">
+<!ENTITY pluginWizard.licensePage.deny.label "நான் ஏற்கமாட்டேன்(சொருகு பொருளை நிறுவ முடியாது).">
+
+<!ENTITY pluginWizard.installPluginsPage.title "சொருகு பொருளை நிறுவுகிறது">
+<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName; நிறுவன அடையாளம்; சொருகுபொருளை நிறுவுகிறது...">
+
+<!ENTITY pluginWizard.finalPage.description.label "&brandShortName; நிறுவன அடையாளம்; இல்லாமல் போன சொருகுபொருள் நிறுவல் முடிந்தது:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label "காணாமல் போன சொருகுபொருள் பற்றி மேலும் தெரிந்துகொள்ளவும்.">
+<!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; needs to be restarted for the plugin(s) to work.">
+  
+<!ENTITY missingPlugin.label "Click here to download plugin.">

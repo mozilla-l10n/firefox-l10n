@@ -1,0 +1,595 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1999-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Sammy Ford
+   -   Blake Ross
+   -   Ryan Cassin (rcassin@supernova.org)
+   -   Daniel Glazman (glazman@netscape.com)
+   -   Stephen Donner (technutz@netscape.net)
+   -   R Veera Kumar       <veerakumar.r@gmail.com>       ( Tamil Translator )
+   -
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
+<!-- File menu items -->
+
+
+<!ENTITY fileMenu.label "கோப்பு">
+<!ENTITY filemenu.accesskey "f">
+<!ENTITY newBlankPageCmd.label "Composer Page">
+<!ENTITY newBlankPage.accesskey "P">
+<!ENTITY newMenu.label "புதிது">
+<!ENTITY openFileCmd.label "கோப்பைத் திற...">
+<!ENTITY fileopen.accesskey "o">
+<!ENTITY fileopen.keybinding "o">
+<!ENTITY openremoteCmd.label "Open Web Location...">
+<!ENTITY fileopenremote.accesskey "l">
+<!ENTITY fileopenremote.keybinding "l">
+<!ENTITY fileRecentMenu.label "Recent Pages">
+<!ENTITY filerecentmenu.accesskey "r">
+<!ENTITY fileRevert.label "பின் செல்">
+<!ENTITY filerevert.accesskey "v">
+<!ENTITY saveCmd.label "சேமி">
+<!ENTITY filesave.accesskey "s">
+<!ENTITY filesave.keybinding "s">
+<!ENTITY saveAsCmd.label "எனச்சேமி...">
+<!ENTITY filesaveas.accesskey "A">
+
+<!ENTITY publishCmd.label "வெளியீடு">
+<!ENTITY publishcmd.accesskey "b">
+<!ENTITY publishAsCmd.label "Publish As...">
+<!ENTITY publishas.accesskey "h">
+<!ENTITY exportToTextCmd.label "Export to Text...">
+<!ENTITY fileexporttotext.accesskey "T">
+<!ENTITY saveAsChangeEncodingCmd.label "Save And Change Character Encoding">
+<!ENTITY filesaveandchangeencoding.accesskey "E">
+<!ENTITY previewCmd.label "உலாவு பக்கம்">
+<!ENTITY filepreview.accesskey "w">
+<!ENTITY sendPageCmd.label "அனுப்பு பக்கம்...">
+<!ENTITY sendPage.accesskey "d">
+<!ENTITY printSetupCmd.label "பக்கம் அமைப்பு...">
+<!ENTITY fileprintsetup.accesskey "u">
+<!ENTITY printPreviewCmd.label "அச்சு முன்தோற்றம்">
+<!ENTITY fileprintpreview.accesskey "v">
+<!ENTITY printCmd.label "அச்சிடு...">
+<!ENTITY printButtonCmd.label "அச்சிடு...">
+<!ENTITY fileprint.accesskey "p">
+<!ENTITY fileprint.keybinding "p">
+<!ENTITY closeCmd.label "மூடு">
+<!ENTITY fileclose.accesskey "c">
+<!ENTITY fileclose.keybinding "w">
+<!ENTITY exitCmd.label "விலக்கு">
+<!ENTITY fileexit.accesskey "q">
+<!ENTITY fileexit.keybinding "q">
+<!-- Edit menu items -->
+
+<!ENTITY editMenu.label "தொகுப்பு">
+<!ENTITY editmenu.accesskey "e">
+<!ENTITY pasteNoFormatting.label "Paste Without Formatting">
+<!ENTITY pasteNoFormatting.accesskey "o">
+<!ENTITY pasteAs.label "Paste As">
+<!ENTITY pasteAs.accesskey "a">
+<!ENTITY publishSettings.label "Publishing Site Settings...">
+<!ENTITY publishSettings.accesskey "b">
+<!-- For a "Paste" submenu when more than 1 
+     clipboard formats are available -->
+
+<!ENTITY pasteHTMLCmd.label "ஹெச்டிஎம்எல்">
+<!ENTITY pasteHTML.accesskey "h">
+<!ENTITY pasteTextCmd.label "உரை">
+<!ENTITY pasteText.accesskey "t">
+<!ENTITY pasteImageCmd.label "படிமம்">
+<!ENTITY pasteImage.accesskey "i">
+<!ENTITY pasteRowsCmd.label "கிடக்கைகள்">
+<!ENTITY pasteRows.accesskey "r">
+<!ENTITY pasteColumnsCmd.label "நெடுக்கைகள்">
+<!ENTITY pasteColumns.accesskey "c">
+<!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
+     Set to: "Table" or "Nested Table" depending on context 
+     This accesskey must be in both strings -->
+<!ENTITY pasteTable.accesskey "a">
+<!ENTITY pasteLinkCmd.label "தொடுப்பு">
+<!ENTITY editpastelink.accesskey "l">
+<!ENTITY pasteAsQuotationCmd.label "Paste As Quotation">
+<!ENTITY editpastequotation.accesskey "q">
+<!ENTITY editpastequotation.keybinding "v">
+<!ENTITY editStripQuotesCmd.label "Strip Quotes">
+<!ENTITY editRewrapCmd.label "Rewrap">
+<!ENTITY findCmd.label "Find and Replace...">
+<!ENTITY editfind.accesskey "f">
+<!ENTITY editfind.keybinding "f">
+<!ENTITY editfind.keybinding2 "VK_F19">
+<!ENTITY findAgainCmd.label "மறுபடிக் கண்டறி">
+<!ENTITY editfindnext.accesskey "g">
+<!ENTITY editfindnext.keybinding "g">
+<!ENTITY editfindnext.keybinding2 "VK_F3">
+<!ENTITY findPrevCmd.label "கண்டறி முந்தையது">
+<!ENTITY editfindprev.accesskey "v">
+<!ENTITY editfindprev.keybinding "g">
+<!ENTITY editfindprev.keybinding2 "VK_F3">
+<!ENTITY enableInlineSpellChecker.label "Spellcheck As You Type">
+<!ENTITY enableInlineSpellChecker.accesskey "S">
+<!ENTITY checkSpellingCmd.label "Check Spelling">
+<!ENTITY editcheckspelling.accesskey "h">
+<!ENTITY editcheckspelling.keybinding "k">
+<!ENTITY validateCmd.label "செல்லுபடி செய் ஹெச்டிஎம்எல்">
+<!ENTITY validate.accesskey "v">
+<!ENTITY checkLinksCmd.label "Check Links">
+<!-- View menu items -->
+
+<!ENTITY viewPageSource.label "பக்கம் மூலம்">
+<!ENTITY viewpagesource.accesskey "s">
+<!ENTITY viewParagraphMarks.label "பத்தி குறிக்கள்">
+<!ENTITY viewparagraphmarks.accesskey "p">
+<!-- Insert menu items -->
+
+<!ENTITY insertMenu.label "செருகு">
+<!ENTITY insertmenu.accesskey "i">
+<!ENTITY insertLinkCmd.label "தொடுப்பு...">
+<!ENTITY insertlink.accesskey "l">
+<!ENTITY insertlink.keybinding "l">
+<!ENTITY insertAnchorCmd.label "Named Anchor...">
+<!ENTITY insertanchor.accesskey "A">
+<!ENTITY insertImageCmd.label "படிமம்...">
+<!ENTITY insertimage.accesskey "i">
+<!ENTITY insertImageMapCmd.label "படிமம் இயல்படம்...">
+<!ENTITY insertHLineCmd.label "கிடைமட்டக் கோடு">
+<!ENTITY inserthline.accesskey "o">
+<!ENTITY insertTableCmd.label "அட்டவணை...">
+<!ENTITY inserttable.accesskey "t">
+<!ENTITY insertFormMenu.label "படிவம்">
+<!ENTITY insertformmenu.accesskey "F">
+<!ENTITY insertHTMLCmd.label "ஹெச்டிஎம்எல்...">
+<!ENTITY insertHTMLCmd.accesskey "h">
+<!ENTITY insertCharsCmd.label "Characters and Symbols...">
+<!ENTITY insertchars.accesskey "C">
+<!ENTITY insertBreakCmd.label "வரி முறி">
+<!ENTITY insertbreak.accesskey "b">
+<!ENTITY insertBreakAllCmd.label "Break Below Image(s)">
+<!ENTITY insertbreakall.accesskey "k">
+<!-- Insert form menu items -->
+
+<!ENTITY insertFormCmd.label "Define Form...">
+<!ENTITY insertform.accesskey "D">
+<!ENTITY insertInputTagCmd.label "Form Field...">
+<!ENTITY insertinputtag.accesskey "e">
+<!ENTITY insertInputImageCmd.label "Form Image...">
+<!ENTITY insertinputimage.accesskey "I">
+<!ENTITY insertTextAreaCmd.label "உரைப் பகுதி...">
+<!ENTITY inserttextarea.accesskey "T">
+<!ENTITY insertSelectCmd.label "Selection List...">
+<!ENTITY insertselect.accesskey "S">
+<!ENTITY insertButtonCmd.label "Define Button...">
+<!ENTITY insertbutton.accesskey "B">
+<!ENTITY insertLabelCmd.label "Define Label">
+<!ENTITY insertlabel.accesskey "L">
+<!ENTITY insertFieldSetCmd.label "Define Field Set...">
+<!ENTITY insertfieldset.accesskey "F">
+<!ENTITY insertIsIndexCmd.label "சுட்டுவரிசைத் தேடு">
+<!ENTITY insertisindex.accesskey "x">
+<!-- Used just in context popup. -->
+
+<!ENTITY spellCheckNoSuggestions.label "(No Suggestions Found)">
+<!ENTITY spellCheckIgnoreWord.label "Ignore Word">
+<!ENTITY spellCheckIgnoreWord.accesskey "I">
+<!ENTITY spellCheckAddToDictionary.label "Add to Dictionary">
+<!ENTITY spellCheckAddToDictionary.accesskey "n">
+<!ENTITY createLinkCmd.label "உருவாக்கு தொடுப்பு...">
+<!ENTITY createlink.accesskey "k">
+<!ENTITY editLinkCmd.label "Edit Link in New Composer">
+<!ENTITY editlink.accesskey "i">
+<!-- (Toplevel Edit menu uses utilityOverlay) -->
+<!ENTITY undoCmd.label "செய்ததுதவிர்">
+<!ENTITY undo.accesskey "u">
+<!ENTITY redoCmd.label "தவிர்த்தது">
+<!ENTITY redo.accesskey "r">
+<!ENTITY cutCmd.label "வெட்டு">
+<!ENTITY cut.accesskey "t">
+<!ENTITY copyCmd.label "நகலெடு">
+<!ENTITY copy.accesskey "c">
+<!ENTITY pasteCmd.label "ஒட்டு">
+<!ENTITY paste.accesskey "p">
+<!ENTITY deleteCmd.label "நீக்கு">
+<!ENTITY delete.accesskey "d">
+<!ENTITY clearCmd.label "துடை">
+<!ENTITY clear.accesskey "l">
+<!ENTITY selectAllCmd.label "அனைத்தும் தேர்ந்தெடு">
+<!ENTITY selectall.accesskey "a">
+<!-- Font Face SubMenu -->
+
+<!ENTITY FontFaceSelect.tooltip "Choose a font">
+<!ENTITY fontfaceMenu.label "Font">
+<!ENTITY formatfontmenu.accesskey "f">
+<!ENTITY fontVarWidth.label "Variable Width">
+<!ENTITY fontvarwidth.accesskey "v">
+<!ENTITY fontFixedWidth.label "Fixed Width">
+<!ENTITY fontfixedwidth.accesskey "x">
+<!ENTITY formatfontfixed.keybinding "t">
+<!ENTITY fontHelveticaFont.label "Helvetica, Arial">
+<!ENTITY fonthelvetica.accesskey "l">
+<!ENTITY fontTimes.label "டைம்ஸ்">
+<!ENTITY fonttimes.accesskey "t">
+<!ENTITY fontCourier.label "கூரீயர்">
+<!ENTITY fontcourier.accesskey "c">
+<!ENTITY localfontfaceMenu.label "Local Fonts">
+<!ENTITY localfontmenu.accesskey "f">
+<!-- Font Size SubMenu -->
+
+<!ENTITY FontSizeSelect.tooltip "Choose a font size">
+<!ENTITY decreaseFontSize.label "Smaller">
+<!ENTITY decreasefontsize.accesskey "r">
+<!ENTITY decreaseFontSize.keybinding "-">
+<!ENTITY increaseFontSize.label "Larger">
+<!ENTITY increasefontsize.accesskey "g">
+<!ENTITY increaseFontSize.keybinding "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY increaseFontSize.keybinding2 "=">
+
+<!ENTITY fontsizeMenu.label "அளவு">
+<!ENTITY formatsizemenu.accesskey "z">
+<!ENTITY size-xx-smallCmd.label "xx-small">
+<!ENTITY size-xx-small.accesskey "a">
+<!ENTITY size-x-smallCmd.label "x-small">
+<!ENTITY size-x-small.accesskey "m">
+<!ENTITY size-smallCmd.label "small">
+<!ENTITY size-small.accesskey "s">
+<!ENTITY size-mediumCmd.label "ஊடகம்">
+<!ENTITY size-medium.accesskey "d">
+<!ENTITY size-largeCmd.label "large">
+<!ENTITY size-large.accesskey "l">
+<!ENTITY size-x-largeCmd.label "x-large">
+<!ENTITY size-x-large.accesskey "x">
+<!ENTITY size-xx-largeCmd.label "xx-large">
+<!ENTITY size-xx-large.accesskey "e">
+<!-- Font Style SubMenu -->
+
+<!ENTITY fontStyleMenu.label "உரை பாணி">
+<!ENTITY formatstylemenu.accesskey "s">
+<!ENTITY styleBoldCmd.label "தடிமன்">
+<!ENTITY stylebold.accesskey "b">
+<!ENTITY stylebold.keybinding "b">
+<!ENTITY styleItalicCmd.label "ஈட்டாலிக்">
+<!ENTITY styleitalic.accesskey "I">
+<!ENTITY styleitalic.keybinding "i">
+<!ENTITY styleUnderlineCmd.label "கீழ்க் கோடிடு">
+<!ENTITY styleunderline.accesskey "u">
+<!ENTITY styleunderline.keybinding "u">
+<!ENTITY styleStrikeThruCmd.label "Strikethrough">
+<!ENTITY stylestrikethru.accesskey "k">
+<!ENTITY styleSuperscriptCmd.label "Superscript">
+<!ENTITY stylesuperscript.accesskey "p">
+<!ENTITY styleSubscriptCmd.label "Subscript">
+<!ENTITY stylesubscript.accesskey "S">
+<!ENTITY styleNonbreakingCmd.label "Nonbreaking">
+<!ENTITY stylenonbreaking.accesskey "N">
+<!ENTITY styleEm.label "Emphasis">
+<!ENTITY styleEm.accesskey "e">
+<!ENTITY styleStrong.label "Stronger Emphasis">
+<!ENTITY styleStrong.accesskey "t">
+<!ENTITY styleCite.label "Citation">
+<!ENTITY styleCite.accesskey "c">
+<!ENTITY styleAbbr.label "Abbreviation">
+<!ENTITY styleAbbr.accesskey "A">
+<!ENTITY styleAcronym.label "Acronym">
+<!ENTITY styleAcronym.accesskey "r">
+<!ENTITY styleCode.label "குறிமுறை">
+<!ENTITY styleCode.accesskey "o">
+<!ENTITY styleSamp.label "Sample Output">
+<!ENTITY styleSamp.accesskey "m">
+<!ENTITY styleVar.label "Variable">
+<!ENTITY styleVar.accesskey "v">
+
+<!ENTITY formatFontColor.label "உரை நிறம்...">
+<!ENTITY formatfontcolor.accesskey "c">
+<!ENTITY tableOrCellColor.label "அட்டவணை அல்லது கலம் பின்புல நிறம்...">
+<!ENTITY tableOrCellColor.accesskey "B">
+
+<!ENTITY formatremovestyles.keybinding "y">
+<!ENTITY formatremovelinks.keybinding "k">
+<!ENTITY formatRemoveNamedAnchors.label "Remove Named Anchors">
+<!ENTITY formatRemoveNamedAnchors.accesskey "R">
+<!ENTITY formatremovenamedanchors.keybinding "a">
+
+<!ENTITY formatindent.keybinding "]">
+<!ENTITY formatoutdent.keybinding "[">
+<!ENTITY paragraphMenu.label "பத்தி">
+<!ENTITY formatparagraphmenu.accesskey "P">
+<!ENTITY paragraphParagraphCmd.label "பத்தி">
+<!ENTITY paragraphparagraph.accesskey "P">
+<!ENTITY heading1Cmd.label "Heading 1">
+<!ENTITY heading1.accesskey "1">
+<!ENTITY heading2Cmd.label "Heading 2">
+<!ENTITY heading2.accesskey "2">
+<!ENTITY heading3Cmd.label "Heading 3">
+<!ENTITY heading3.accesskey "3">
+<!ENTITY heading4Cmd.label "Heading 4">
+<!ENTITY heading4.accesskey "4">
+<!ENTITY heading5Cmd.label "Heading 5">
+<!ENTITY heading5.accesskey "5">
+<!ENTITY heading6Cmd.label "Heading 6">
+<!ENTITY heading6.accesskey "6">
+<!ENTITY paragraphAddressCmd.label "முகவரி">
+<!ENTITY paragraphaddress.accesskey "a">
+<!ENTITY paragraphPreformatCmd.label "Preformat">
+<!ENTITY paragraphpreformat.accesskey "f">
+<!ENTITY paragraphBlockquoteCmd.label "Blockquote">
+<!ENTITY paragraphblockquote.accesskey "b">
+<!-- List menu items -->
+
+<!ENTITY formatlistMenu.label "பட்டி">
+<!ENTITY formatlistmenu.accesskey "l">
+<!ENTITY noneCmd.label "எதுவுமில்லை">
+<!ENTITY none.accesskey "N">
+<!ENTITY listBulletCmd.label "Bulleted">
+<!ENTITY listbullet.accesskey "b">
+<!ENTITY listNumberedCmd.label "Numbered">
+<!ENTITY listnumbered.accesskey "m">
+<!ENTITY listTermCmd.label "நிபந்தனைகள்">
+<!ENTITY listterm.accesskey "t">
+<!ENTITY listDefinitionCmd.label "விவரம்">
+<!ENTITY listdefinition.accesskey "d">
+<!ENTITY listProps.label "பட்டி பண்புகள்...">
+<!ENTITY listprops.accesskey "l">
+
+<!ENTITY ParagraphSelect.tooltip "Choose a paragraph format">
+<!-- Shared in Paragraph, and Toolbar menulist -->
+<!ENTITY bodyTextCmd.label "Body Text">
+<!ENTITY bodytext.accesskey "T">
+<!-- isn't used in menu now, but may be added in future -->
+<!ENTITY advancedPropertiesCmd.label "உயர்நிலை பண்புகள்">
+<!ENTITY advancedproperties.accesskey "v">
+
+<!ENTITY NormalAbbr.label "உரை">
+<!ENTITY ParagraphAbbr.label "P">
+<!ENTITY Heading1Abbr.label "H1">
+<!ENTITY Heading2Abbr.label "H2">
+<!ENTITY Heading3Abbr.label "H3">
+<!ENTITY Heading4Abbr.label "H4">
+<!ENTITY Heading5Abbr.label "H5">
+<!ENTITY Heading6Abbr.label "H6">
+<!ENTITY BlockquoteAbbr.label "BQ">
+<!ENTITY AddressAbbr.label "Addr.">
+<!ENTITY PreformatAbbr.label "Pre.">
+<!-- Style Sheet submenu NOT IMPLEMENTED -->
+
+<!ENTITY stylesheetMenu.label "Apply Style Sheet">
+<!ENTITY formatstylesheetmenu.accesskey "y">
+<!-- Align menu items -->
+
+<!ENTITY alignMenu.label "சீரமை">
+<!ENTITY formatalignmenu.accesskey "a">
+<!ENTITY alignLeft.label "இடது">
+<!ENTITY alignleft.accesskey "l">
+<!ENTITY alignLeft.tooltip "Align Left">
+<!ENTITY alignCenter.label "மையம்">
+<!ENTITY aligncenter.accesskey "c">
+<!ENTITY alignCenter.tooltip "Align Center">
+<!ENTITY alignRight.label "வலது">
+<!ENTITY alignright.accesskey "r">
+<!ENTITY alignRight.tooltip "Align Right">
+<!ENTITY alignJustify.label "சரி என்று">
+<!ENTITY alignjustify.accesskey "j">
+<!ENTITY alignJustify.tooltip "Align Justified">
+<!-- Layer toolbar items -->
+
+<!ENTITY layer.tooltip "அடுக்கு">
+<!ENTITY layerSendToBack.tooltip "Send to Back">
+<!ENTITY layerBringToFront.tooltip "Bring to Front">
+
+<!ENTITY increaseIndent.label "மிகுந்து ஒரத்தில் இடம் விடு">
+<!ENTITY increaseindent.accesskey "i">
+<!ENTITY increaseindentkb "=">
+<!ENTITY decreaseIndent.label "குறைந்து ஒரத்தில் இடம் விடு">
+<!ENTITY decreaseindent.accesskey "D">
+<!ENTITY decreaseindentkb "-">
+
+<!ENTITY grid.label "Positioning grid">
+<!ENTITY grid.accesskey "t">
+
+<!ENTITY pageProperties.label "Page Title and Properties...">
+<!ENTITY pageproperties.accesskey "g">
+<!ENTITY colorsAndBackground.label "Page Colors and Background...">
+<!ENTITY colorsandbackground.accesskey "u">
+<!-- Table Menu -->
+
+<!ENTITY tableMenu.label "அட்டவணை">
+<!ENTITY tablemenu.accesskey "b">
+<!-- Select Submenu -->
+<!ENTITY tableSelectMenu.label "தேர்ந்தெடு">
+<!ENTITY tableselectmenu.accesskey "s">
+
+<!ENTITY tableSelectMenu2.label "அட்டவணை தேர்ந்தெடு">
+<!ENTITY tableInsertMenu2.label "அட்டவணை செருகு">
+<!ENTITY tableDeleteMenu2.label "அட்டவணை நீக்கு">
+<!-- Insert SubMenu -->
+
+<!ENTITY tableInsertMenu.label "செருகு">
+<!ENTITY tableinsertmenu.accesskey "i">
+<!ENTITY tableTable.label "அட்டவணை">
+<!ENTITY tabletable.accesskey "t">
+<!ENTITY tableRow.label "கிடக்கை">
+<!ENTITY tableRows.label "கிடக்கைகள்">
+<!ENTITY tablerow.accesskey "r">
+<!ENTITY tableRowAbove.label "கிடக்கை மேலாய்">
+<!-- uses tablerow.accesskey -->
+<!ENTITY tableRowBelow.label "கிடக்கை கீழே">
+<!ENTITY tablerowbelow.accesskey "b">
+<!ENTITY tableColumn.label "நெடுக்கை">
+<!ENTITY tableColumns.label "நெடுக்கைகள்">
+<!ENTITY tablecolumn.accesskey "o">
+<!ENTITY tableColumnBefore.label "முன் நெடுக்கை">
+<!-- uses tablecolumn.accesskey -->
+<!ENTITY tableColumnAfter.label "பின் நெடுக்கை">
+<!ENTITY tablecolumnafter.accesskey "a">
+<!ENTITY tableCell.label "கலம்">
+<!ENTITY tableCells.label "கலம்கள்">
+<!ENTITY tablecell.accesskey "c">
+<!ENTITY tableCellContents.label "கலம் உள்ளடக்கங்கள்">
+<!ENTITY tablecellcontents.accesskey "n">
+<!ENTITY tableAllCells.label "All Cells">
+<!ENTITY tableCellBefore.label "Cell Before">
+<!ENTITY tableallcells.accesskey "a">
+<!-- uses tablecell.accesskey -->
+<!ENTITY tableCellAfter.label "Cell After">
+<!ENTITY tablecellafter.accesskey "f">
+<!-- Delete SubMenu -->
+<!ENTITY tableDeleteMenu.label "நீக்கு">
+<!ENTITY tabledeletemenu.accesskey "D">
+
+<!ENTITY tableFix.label "Fix Table Layout">
+<!ENTITY tablefix.accesskey "f">
+<!-- text for "Join Cells" is in editor.properties 
+     ("JoinSelectedCells" and "JoinCellToRight")
+     the access key must exist in both of those strings
+     But value must be set here for accesskey to draw properly
+-->
+<!ENTITY tableJoinCells.label "j">
+<!ENTITY tablejoincells.accesskey "j">
+<!ENTITY tableSplitCell.label "Split Cell">
+<!ENTITY tablesplitcell.accesskey "c">
+<!ENTITY convertToTable.label "Create Table from Selection">
+<!ENTITY converttotable.accesskey "r">
+<!ENTITY tableProperties.label "அட்டவணை பண்புகள்...">
+<!ENTITY tableProperties.accesskey "o">
+<!-- Tools menu -->
+
+<!ENTITY toolsmenu.accesskey "l">
+<!ENTITY toolbrowser.accesskey "b">
+<!ENTITY toolplaineditor.accesskey "p">
+<!ENTITY toolsetfocus.accesskey "f">
+<!-- Toolbar-only items -->
+
+<!ENTITY menuBar.tooltip "பட்டிப் பட்டை">
+<!ENTITY compositionToolbar.tooltip "Composition கருவிப்பட்டை">
+<!ENTITY formatToolbar.tooltip "வடிவமைத்தல் கருவிப்பட்டை">
+<!ENTITY newToolbarCmd.tooltip "Create a new Composer page">
+<!ENTITY openToolbarCmd.label "திற">
+<!ENTITY openToolbarCmd.tooltip "Open a local file">
+<!ENTITY saveToolbarCmd.tooltip "Save file to a local location">
+<!ENTITY publishToolbarCmd.tooltip "Upload file to a remote location">
+<!ENTITY previewToolbarCmd.label "உலாவு">
+<!ENTITY previewToolbarCmd.tooltip "Load this page into Navigator">
+<!ENTITY printToolbarCmd.label "அச்சிடு">
+<!ENTITY printToolbarCmd.tooltip "Print this page">
+<!ENTITY findToolbarCmd.label "கண்டறி">
+<!ENTITY findToolbarCmd.tooltip "கண்டறி பக்கத்தில் உரையை">
+<!ENTITY spellToolbarCmd.label "Spell">
+<!ENTITY spellToolbarCmd.tooltip "Check spelling of selection or entire page">
+<!ENTITY imageToolbarCmd.label "படிமம்">
+<!ENTITY imageToolbarCmd.tooltip "Insert new image or edit selected image's properties">
+<!ENTITY hruleToolbarCmd.label "கிடைமட்டக் கோடு">
+<!ENTITY hruleToolbarCmd.tooltip "Insert horizontal line or edit selected line's properties">
+<!ENTITY tableToolbarCmd.label "அட்டவணை">
+<!ENTITY tableToolbarCmd.tooltip "Insert new table or edit selected table's properties">
+<!ENTITY linkToolbarCmd.label "தொடுப்பு">
+<!ENTITY linkToolbarCmd.tooltip "Insert new link or edit selected link's properties">
+<!ENTITY anchorToolbarCmd.label "நங்கூரம்">
+<!ENTITY anchorToolbarCmd.tooltip "Insert new named anchor or edit selected anchor's properties">
+<!ENTITY textColorCaption.label "உரை நிறம்">
+<!ENTITY TextColorButton.tooltip "Choose color for text">
+<!ENTITY BackgroundColorButton.tooltip "Choose color for background">
+<!ENTITY throbber.tooltip "Go to the &vendorShortName; home page">
+<!ENTITY HighlightColorButton.tooltip "Choose highlight color for text">
+<!-- Editor toolbar -->
+
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "Smaller font size">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "Larger font size">
+<!ENTITY boldToolbarCmd.tooltip "தடிமன்">
+<!ENTITY italicToolbarCmd.tooltip "Italic">
+<!ENTITY underlineToolbarCmd.tooltip "கீழ்க் கோடிடு">
+<!ENTITY bulletListToolbarCmd.tooltip "Apply or remove bulleted list">
+<!ENTITY numberListToolbarCmd.tooltip "Apply or remove numbered list">
+<!ENTITY outdentToolbarCmd.tooltip "Outdent text (move left)">
+<!ENTITY indentToolbarCmd.tooltip "Indent text (move right)">
+<!ENTITY AlignPopupButton.tooltip "Choose text alignment">
+<!ENTITY InsertPopupButton.tooltip "Insert a Link, Anchor, Image, Horizontal Line, or Table">
+<!ENTITY alignLeftButton.tooltip "Align text along left margin">
+<!ENTITY alignCenterButton.tooltip "Align text centered">
+<!ENTITY alignRightButton.tooltip "Align text along right margin">
+<!ENTITY alignjustifyButton.tooltip "Align text along left and right margins">
+<!-- Formatting toolbar not used, but may be in future -->
+
+<!ENTITY formatToolbar.boldChar "B">
+<!ENTITY formatToolbar.italicChar "I">
+<!ENTITY formatToolbar.underlineChar "U">
+<!-- Used with color pickers in Format toolbar and Format Menu -->
+
+<!ENTITY colorPicker.default.label "Reader's default color">
+<!ENTITY colorPicker.default.accesskey "r">
+<!ENTITY colorLabel.label "நிறம்:">
+<!ENTITY ok.label "OK">
+<!-- Display Mode toolbar and View menu items -->
+
+<!ENTITY NormalModeTab.label "இயல்பான">
+<!ENTITY NormalMode.label "இயல்பான தொகுப்புப் பாங்கு">
+<!ENTITY NormalMode.accesskey "n">
+<!ENTITY NormalMode.tooltip "Show table borders and named anchors">
+<!ENTITY AllTagsMode.label "ஹெச்டிஎம்எல் குறிகள்">
+<!ENTITY AllTagsMode.accesskey "A">
+<!ENTITY AllTagsMode.tooltip "Display icons for all HTML tags">
+
+<!ENTITY HTMLSourceMode.label "ஹெச்டிஎம்எல் மூலம்">
+<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
+<!ENTITY SourceMode.label "மூலம்">
+<!ENTITY HTMLSourceMode.accesskey "h">
+<!ENTITY HTMLSourceMode.tooltip "தொகுப்பு ஹெச்டிஎம்எல் மூலம்">
+<!ENTITY PreviewMode.label "முன்தோற்றம்">
+<!ENTITY PreviewMode.accesskey "p">
+<!ENTITY PreviewMode.tooltip "Display as WYSIWYG (as in Navigator)">
+<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
+     Use latin "ltr" if you want the <html> image to left of the 
+     'SourceMode.label' text defined above,
+     or use latin "rtl" if you want this image to the right of text
+     This is the value of the HTML 'dir' attribute
+-->
+
+<!ENTITY SourceTabDirection "ltr">
+<!-- Structure Toolbar Context Menu items -->
+
+<!ENTITY structSelect.label "தேர்ந்தெடு">
+<!ENTITY structSelect.accesskey "s">
+<!ENTITY structRemoveTag.label "அகற்று குறியை">
+<!ENTITY structRemoveTag.accesskey "r">
+<!ENTITY structChangeTag.label "மாற்று tag">
+<!ENTITY structChangeTag.accesskey "c">
+<!-- TOC manipulation -->
+
+<!ENTITY insertTOC.label "செருகு">
+<!ENTITY insertTOC.accesskey "i">
+<!ENTITY updateTOC.label "இற்றைப்படுத்து">
+<!ENTITY updateTOC.accesskey "u">
+<!ENTITY removeTOC.label "அகற்று">
+<!ENTITY removeTOC.accesskey "r">
+<!ENTITY tocMenu.label "Table of Contents...">
+<!ENTITY tocMenu.accesskey "b">

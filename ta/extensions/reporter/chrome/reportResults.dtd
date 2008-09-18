@@ -1,0 +1,15 @@
+<!ENTITY reportSite "தள">
+<!ENTITY reportProblemType "Problem Type">
+<!ENTITY reportDecsription "விவரிப்பு">
+<!ENTITY reportPlatform "Platform">
+<!ENTITY reportProduct "Product">
+<!ENTITY reportoscpu "OS">
+<!ENTITY reportGecko "Gecko">
+<!ENTITY reportBuildConfig "Build Config">
+<!ENTITY reportUseragent "Useragent">
+<!ENTITY reportLanguage "Language">
+<!ENTITY reportCharset               "Charset">
+<!ENTITY reportEmail "மின்னஞ்சல்">
+<!ENTITY error "Error Details">
+<!ENTITY faultCode "Code">
+<!ENTITY faultMessage "செய்தி">

@@ -1,0 +1,39 @@
+<!-- extracted from content/pref-composer.xul -->
+<!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
+<!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
+
+
+<!ENTITY pref.composer.title "Composer">
+
+<!ENTITY saving "சேமித்தல்">
+<!ENTITY AutoSaveCheck "Automatically save every">
+<!ENTITY minText "நிமிடம்கள்">
+
+<!ENTITY exterLegend.label "External Editors">
+<!ENTITY htmlSource "ஹெச்டிஎம்எல் மூலம்:">
+<!ENTITY imageeditor "படிமங்கள்:">
+<!ENTITY chooseButton.label "Choose">
+
+<!ENTITY recentFiles.title "Recent Pages Menu">
+<!ENTITY documentsInMenu.label "Maximum number of pages listed:">
+<!ENTITY documentsInMenu.accesskey "n">
+
+<!ENTITY savingFiles.title "When Saving or Publishing Pages">
+<!ENTITY preserveExisting.label "Preserve original source formatting">
+<!ENTITY preserveExisting.accesskey "P">
+<!ENTITY preserveExisting.tooltip "Preserves line breaks and page's original formatting">
+<!ENTITY saveAssociatedFiles.label "Save images and other associated files when saving pages">
+<!ENTITY saveAssociatedFiles.accesskey "S">
+<!ENTITY showPublishDialog.label "Always show Publish dialog when publishing pages">
+<!ENTITY showPublishDialog.accesskey "A">
+
+<!ENTITY composerEditing.label "தொகுப்பாக்கம்">
+<!ENTITY spellCheckInline.label "Check spelling as you type">
+<!ENTITY spellCheckInline.accesskey "C">
+<!ENTITY maintainStructure.label "Maintain table layout when inserting or deleting cells">
+<!ENTITY maintainStructure.tooltip "Preserves table's rectangular shape by automatically adding cells after inserting or deleting cells">
+<!ENTITY maintainStructure.accesskey "M">
+<!ENTITY useCSS.label "Use CSS styles instead of HTML elements and attributes">
+<!ENTITY useCSS.accesskey "U">
+<!ENTITY crInPCreatesNewP.label "Return in a paragraph always creates a new paragraph">
+<!ENTITY crInPCreatesNewP.accesskey "R">

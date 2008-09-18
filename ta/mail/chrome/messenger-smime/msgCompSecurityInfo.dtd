@@ -1,0 +1,14 @@
+<!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
+
+<!ENTITY title.label "செய்தி பாதுகாப்பு">
+<!ENTITY subject.plaintextWarning "Please note: Subject lines of email messages are never encrypted.">
+<!ENTITY status.heading "The contents of your message will be sent as follows:">
+<!ENTITY status.signed "Digitally signed:">
+<!ENTITY status.encrypted "மறையாக்கு பட்டது:">
+<!ENTITY status.certificates "நற்சான்றிதழ்கள்:">
+<!ENTITY view.label "தோற்றம்">
+<!ENTITY view.accesskey "V">
+<!ENTITY tree.recipient "பெறுநர்">
+<!ENTITY tree.status "நிலைமை">
+<!ENTITY tree.issuedDate "வெளியிடு தேதி">
+<!ENTITY tree.expiresDate "இறுதி">

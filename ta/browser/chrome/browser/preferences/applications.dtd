@@ -1,0 +1,14 @@
+<!ENTITY  typeColumn.label        "Content Type">
+<!ENTITY  typeColumn.accesskey    "T">
+
+<!ENTITY  actionColumn.label      "பயன்பாட்டு">
+<!ENTITY  actionColumn.accesskey  "A">
+
+<!ENTITY  focusSearch1.key        "f">
+<!ENTITY  focusSearch2.key        "k">
+
+<!ENTITY  filter.label            "தேடு:">
+<!ENTITY  filter.accesskey        "S">
+
+<!ENTITY  clear.label             "துடை">
+<!ENTITY  clear.accesskey         "l">

@@ -1,0 +1,53 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title "பக்க அமைப்பு">
+
+<!ENTITY basic.tab "வடிவம் &amp; தேர்வுகள்">
+
+<!ENTITY formatGroup.label "வடிவம்">
+
+<!ENTITY orientation.label "திசை:">
+<!ENTITY portrait "நீளவாக்கில்">
+<!ENTITY landscape "அகலவாக்கில்">
+
+<!ENTITY scale.label "அளவு:">
+<!ENTITY scalePercent "&#037;">
+
+<!ENTITY shrinkToFit.label "பக்க அகலத்துடன் பொருந்தும்படி சுருக்கு">
+
+<!ENTITY optionsGroup.label "தேர்வுகள்">
+
+<!ENTITY printBG.label "அச்சு பின்னணி (நிறங்கள் &amp; பிம்பங்கள்)">
+
+<!ENTITY advanced.tab "ஓரங்கள் &amp; மேல்குறிப்பு/அடிக்குறிப்பு">
+
+<!ENTITY marginGroup.label "ஓரங்கள் (#1)">
+<!ENTITY marginUnits.inches "அங்குலம்">
+<!ENTITY marginUnits.metric "மில்லி மீட்டர்கள்">
+<!ENTITY marginTop.label "மேல்:">
+<!ENTITY marginBottom.label "கீழ்:">
+<!ENTITY marginLeft.label "இடது:">
+<!ENTITY marginRight.label "வலது:">
+
+<!ENTITY headerFooter.label "மேல்குறிப்பு &amp; அடிகுறிப்பு">
+
+<!ENTITY hfLeft.label "இடது:">
+<!ENTITY hfCenter.label "மையம்:">
+<!ENTITY hfRight.label "வலது:">
+<!ENTITY headerLeft.tip "Left header">
+<!ENTITY headerCenter.tip "Center header">
+<!ENTITY headerRight.tip "Right header">
+<!ENTITY footerLeft.tip "Left footer">
+<!ENTITY footerCenter.tip "Center footer">
+<!ENTITY footerRight.tip "Right footer">
+
+<!ENTITY hfTitle "தலைப்பு">
+<!ENTITY hfURL "URL">
+<!ENTITY hfDateAndTime "தேதி/நேரம்">
+<!ENTITY hfPage "பக்கம் #">
+<!ENTITY hfPageAndTotal "பக்கம் # இல் #">
+<!ENTITY hfBlank "--வெற்று--">
+<!ENTITY hfCustom "தனிப்பயன்...">
+
+<!ENTITY customPrompt.title "தனிப்பயன்...">
+<!ENTITY customPrompt.prompt "உங்கள் தனிப்பயன் மேல்குறிப்பு/அடிக்குறிப்பு உரையை உள்ளிடவும்">

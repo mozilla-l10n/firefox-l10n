@@ -1,0 +1,92 @@
+<!-- Note: due to bug 143065, the only remaining accesskeys available to be used
+     in the Advanced pane are: "j", "o", "q", "z" -->
+
+<!ENTITY generalTab.label "பொதுவான">
+
+<!ENTITY accessibility.label "அணுகல்">
+
+<!ENTITY useCursorNavigation.label "Always use the cursor keys to navigate within pages">
+<!ENTITY useCursorNavigation.accesskey "c">
+<!ENTITY searchStartTyping.label "Search for text when I start typing">
+<!ENTITY searchStartTyping.accesskey "x">
+<!ENTITY blockAutoRefresh.label "Warn me when web sites try to redirect or reload the page">
+<!ENTITY blockAutoRefresh.accesskey "b">
+
+<!ENTITY browsing.label "உலாவுகிறது">
+
+<!ENTITY useAutoScroll.label "Use autoscrolling">
+<!ENTITY useAutoScroll.accesskey "a">
+<!ENTITY useSmoothScrolling.label "மென்மையாக உருள்வதை பயன்படுத்து">
+<!ENTITY useSmoothScrolling.accesskey "m">
+<!ENTITY checkSpelling.label "Check my spelling as I type">
+<!ENTITY checkSpelling.accesskey "t">
+
+<!ENTITY systemDefaults.label            "System Defaults">
+<!ENTITY alwaysCheckDefault.label        "Always check to see if &brandShortName; is the default browser on startup"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey    "w">
+<!ENTITY checkNow.label                  "Check Now">
+<!ENTITY checkNow.accesskey              "N">
+
+<!ENTITY networkTab.label "Network">
+
+<!ENTITY connection.label "Connection">
+
+<!ENTITY connectionDesc.label "Configure how &brandShortName; connects to the Internet">
+<!ENTITY connectionSettings.label "அமைப்புகள்...">
+<!ENTITY connectionSettings.accesskey "e">
+
+<!ENTITY cache.label "Cache">
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+
+<!ENTITY useCacheBefore.label "Use up to">
+<!ENTITY useCacheBefore.accesskey "U">
+<!ENTITY useCacheAfter.label "MB of space for the cache">
+<!ENTITY clearCacheNow.label             "Clear Now">
+<!ENTITY clearCacheNow.accesskey         "C">
+
+<!ENTITY updateTab.label "இற்றைப்படுத்து">
+
+<!ENTITY autoCheck.label "Automatically check for updates to:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "F">
+<!ENTITY enableAddonsUpdate.label "Installed Add-ons">
+<!ENTITY enableAddonsUpdate.accesskey "n">
+<!ENTITY enableSearchUpdate.label "Search Engines">
+<!ENTITY enableSearchUpdate.accesskey "h">
+<!ENTITY whenUpdatesFound.label "When updates to &brandShortName; are found,">
+<!ENTITY askMe.label "Ask me what I want to do">
+<!ENTITY askMe.accesskey "k">
+<!ENTITY modeAutomatic.label "Automatically download and install the update">
+<!ENTITY modeAutomatic.accesskey "d">
+<!ENTITY modeAutoAddonWarn.label "Warn me if this will disable any of my add-ons">
+<!ENTITY modeAutoAddonWarn.accesskey "W">
+<!ENTITY updateHistory.label "Show Update History">
+<!ENTITY updateHistory.accesskey "p">
+
+
+<!ENTITY encryptionTab.label "மறையாக்கம்">
+
+<!ENTITY protocols.label "Protocols">
+<!ENTITY useSSL3.label "SSL 3.0ஐ பயன்படுத்து">
+<!ENTITY useSSL3.accesskey "3">
+<!ENTITY useTLS1.label "TLS 1.0ஐ பயன்படுத்து">
+<!ENTITY useTLS1.accesskey "1">
+<!ENTITY certificates.label "நற்சான்றிதழ்கள்">
+<!ENTITY certselect.description "Decide how &brandShortName; selects a security certificate to present to web sites that require one:">
+<!ENTITY certs.auto "Select one automatically">
+<!ENTITY certs.auto.accesskey "l">
+<!ENTITY certs.ask "Ask me every time">
+<!ENTITY certs.ask.accesskey "i">
+<!ENTITY viewCerts.label "நற்சான்றிதழ்களை நோக்கு">
+<!ENTITY viewCerts.accesskey "s">
+<!ENTITY viewCRLs.label "Revocation Lists">
+<!ENTITY viewCRLs.accesskey "R">
+<!ENTITY verify2.label "செல்லுபடிச் சோதனை">
+<!ENTITY verify2.accesskey "V">
+<!ENTITY viewSecurityDevices.label "பாதுகாப்பு சாதனம்கள்">
+<!ENTITY viewSecurityDevices.accesskey "y">

@@ -1,0 +1,19 @@
+<!ENTITY brandMotto "உலாவி, மீளேற்றப்பட்டது">
+<!ENTITY credit.thanks "நன்றி">
+
+<!ENTITY credit.thanks2 "நன்றி">
+<!ENTITY credit.prethanks "">
+<!ENTITY credit.friends "நண்பர்கள்">
+<!ENTITY credit.and "&amp;">
+<!ENTITY credit.contributors "உதவியவர்களுக்கு">
+<!ENTITY credit.postthanks "">
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>R Veera Kumar</li></ul>">
+-->
+
+<!ENTITY credit.translation "R Veera Kumar">
+
+<!ENTITY credit.memory "நினைவில்">
+<!ENTITY credit.poweredByGecko "Powered by Gecko&trade;">

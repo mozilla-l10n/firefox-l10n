@@ -1,0 +1,20 @@
+<!ENTITY newsblogTitle.label "ஆர்எஸ்எஸ் கணக்கு அமைப்புகள்">
+
+<!ENTITY biffStart.label "Check for new articles every ">
+<!ENTITY biffStart.accesskey "k">
+<!ENTITY biffEnd.label "நிமிடம்கள்">
+
+<!ENTITY loginAtStartup.label "Check for new articles at startup">
+<!ENTITY loginAtStartup.accesskey "C">
+
+<!ENTITY useQuickMode.label "By default, show the article summary instead of loading the web page">
+<!ENTITY useQuickMode.accesskey "B">
+
+<!ENTITY manageSubscriptions.label "நிர்வாகி சந்தாகள்...">
+<!ENTITY manageSubscriptions.accesskey "M">
+<!-- entities from defaults/isp/rss.rdf -->
+
+<!ENTITY rss.accountName "செய்திகள் &amp; Blogs">
+<!ENTITY rss.wizardShortName "ஆர்எஸ்எஸ்">
+<!ENTITY rss.wizardLongName "ஆர்எஸ்எஸ் செய்திகள் &amp; Blogs">
+<!ENTITY rss.hostName "செய்திகள் &amp; Blogs">

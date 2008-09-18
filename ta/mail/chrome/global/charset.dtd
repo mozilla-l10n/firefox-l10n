@@ -1,0 +1,20 @@
+<!ENTITY charsetMenu.label "எழுழது குறியாக்கின்றது">
+<!ENTITY charsetMenu.accesskey "C">
+<!ENTITY charsetMenuAutodet.label "தானியங்கு கண்டுபிடி-கண்டுபிடி">
+<!ENTITY charsetMenuAutodet.accesskey "a">
+<!ENTITY charsetMenuMore.label "அதிக">
+<!ENTITY charsetMenuMore.accesskey "m">
+<!ENTITY charsetMenuMore1.label "மேற்கு ஐரோப்பாவின்">
+<!ENTITY charsetMenuMore1.accesskey "w">
+<!ENTITY charsetMenuMore2.label "கிழக்கு ஐரோப்பாவின்">
+<!ENTITY charsetMenuMore2.accesskey "E">
+<!ENTITY charsetMenuMore3.label "கிழக்கு ஆசியாவின்">
+<!ENTITY charsetMenuMore3.accesskey "A">
+<!ENTITY charsetMenuMore4.label "SE &amp; SW ஆசியாவின்">
+<!ENTITY charsetMenuMore4.accesskey "S">
+<!ENTITY charsetMenuMore5.label "மத்திய கிழக்கைச் சார்ந்த">
+<!ENTITY charsetMenuMore5.accesskey "M">
+<!ENTITY charsetMenuUnicode.label "யூணிகோட்">
+<!ENTITY charsetMenuUnicode.accesskey "U">
+<!ENTITY charsetCustomize.label "தனிப்பயனாக்கு...">
+<!ENTITY charsetCustomize.accesskey "c">

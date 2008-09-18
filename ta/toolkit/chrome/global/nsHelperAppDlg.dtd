@@ -1,0 +1,42 @@
+<!ENTITY caption.label "திறக்கிறது #1">
+<!-- Localization note: The default intro text has 3 "inserts":
+        #1 - replaced with the descriptive text that describes the mime type
+             (e.g., "MSWord Document")
+        #2 - replaced with the mime type (e.g., "application/ms-word")
+        #3 - replaced with the filename (e.g., "manual.doc")
+        #4 - will be replaced by the brand name (e.g., "Mozilla")
+     If there is no descriptive text, then the alternative text is used which
+     has only insert #2.
+ -->
+
+<!ENTITY intro.label "கோப்பின் &quot;#3&quot; வகை #2 (#1), மற்றும் #4 இந்த கோப்பு வகையை கையாளத்தெரியவில்லை. கோப்பு இருக்கும் இடம் :">
+<!ENTITY intro.noDesc.label "கோப்பின் &quot;#3&quot; வகை #2, மற்றும் #4 இந்த கோப்பு வகையை கையாளத்தெரியவில்லை. கோப்பு இருக்கும் இடம்:">
+
+<!ENTITY intro.attachment.label " வலைமனை  &quot;#3&quot; இணைப்புகோப்பாக செயல்பட வேண்டும் என வலியுறுத்துகிறது. இதன் வகை #2 (#1) இது இருக்குமிடம்:">
+<!ENTITY intro.attachment.noDesc.label "வலைமனை &quot;#3&quot;  இணைப்புகோப்பாக செயல்பட வேண்டும் என வலியுறுத்துகிறது. இதன் வகை #2 மற்றும் இருக்கும் இடம்:">
+
+<!ENTITY intro.sniffed.label "#4 has detected that the file &quot;#3&quot; is likely to be of type #2 (#1). The file is located at:">
+<!ENTITY intro.sniffed.noDesc.label "#4 has detected that the file &quot;#3&quot; is likely to be of type #2. The file is located at:">
+
+<!ENTITY prompt.label "இந்த கோப்பை #1 என்ன செய்வது?">
+
+<!ENTITY alwaysHandle.label "இந்த கோப்புகளை கையாளும் போது இவ்வகை செயல்களை செய்யவும்">
+<!ENTITY alwaysHandle.accesskey "A">
+
+<!ENTITY saveToDisk.label "இதை வட்டில் சேமி">
+<!ENTITY saveToDisk.accesskey "S">
+
+<!ENTITY useSystemDefault.label "இயல்பான பயன்பாட்டால் திற (#1)">
+<!ENTITY useSystemDefault.noDesc.label "இயல்பான பயன்பாட்டால் திற">
+<!ENTITY useSystemDefault.accesskey "O">
+
+<!ENTITY openUsing.label "இதனால் திற">
+<!ENTITY openUsing.accesskey "w">
+
+<!ENTITY chooseApp.label "தேர்வு செய்...">
+<!ENTITY chooseApp.accesskey "C">
+
+<!ENTITY chooseAppFilePickerTitle "உதவி பயன்பாட்டை தேர்வு செய்">
+
+<!ENTITY badApp "நீங்கள் குறிப்பிட்ட பயன்பாட்டை காணவில்லை (&quot;#1&quot;).  கோப்பின் பெயரை சோதிக்கவும் அல்லது வேறு பயன்பாட்டை தேர்வு செய்யவும்.">
+<!ENTITY badApp.title "பயன்பாடு காணவில்லை">

@@ -1,0 +1,28 @@
+<!ENTITY pref.editing.title "New Page Settings">
+
+<!ENTITY authorName.label "Author:">
+<!ENTITY authorName.accesskey "u">
+<!ENTITY pageColorHeader "Default Page Appearance">
+
+<!ENTITY defaultColorsRadio.label "Reader's default colors (Don't set colors in page)">
+<!ENTITY defaultColors.accesskey "d">
+<!ENTITY customColorsRadio.label "Use custom colors:">
+<!ENTITY customColors.accesskey "c">
+
+<!ENTITY normalText.label "இயல்பான உரை">
+<!ENTITY normalText.accesskey "N">
+<!ENTITY linkText.label "தொடுப்பு உரை">
+<!ENTITY linkText.accesskey "L">
+<!ENTITY activeLinkText.label "Active link text">
+<!ENTITY activeLinkText.accesskey "A">
+<!ENTITY visitedLinkText.label "Visited link text">
+<!ENTITY visitedLinkText.accesskey "V">
+<!ENTITY background.label "பின்புலம்:">
+<!ENTITY background.accesskey "B">
+<!ENTITY colon.character ":">
+
+<!ENTITY backgroundImage.label "பின்புலம் படிமம்:">
+<!ENTITY backgroundImage.accesskey "m">
+<!ENTITY chooseFile.label "கோப்பைத் தேர்ந்தெடு">
+<!ENTITY chooseFile.accesskey "o">
+
