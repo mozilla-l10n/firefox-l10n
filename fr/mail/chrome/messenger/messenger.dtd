@@ -40,6 +40,8 @@
 <!ENTITY sendUnsentCmd.accesskey "a">
 <!ENTITY subscribeCmd.label "S'abonner…">
 <!ENTITY subscribeCmd.accesskey "b">
+<!ENTITY deleteFolder.label "Supprimer le dossier">
+<!ENTITY deleteFolder.accesskey "S">
 <!ENTITY renameFolder.label "Renommer le dossier…">
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2"> 
