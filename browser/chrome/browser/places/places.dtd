@@ -185,7 +185,7 @@
 <!ENTITY advancedSearch.sortby_desc.label          "Absteigend">
 <!ENTITY advancedSearch.max.label                  "Maximale Ergebnisse: ">
 
-<!ENTITY cmd.find.key                              "s">
+<!ENTITY cmd.find.key                              "f">
 
 <!ENTITY feed.subscribe.label                      "Feed">
 <!ENTITY feed.subscribe.tooltip                    "Abonnieren">
