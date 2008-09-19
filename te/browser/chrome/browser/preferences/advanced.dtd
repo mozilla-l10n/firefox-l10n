@@ -1,0 +1,104 @@
+<!-- Note: due to bug 143065, the only remaining accesskeys available to be used
+     in the Advanced pane are: "b", "j", "q", "z" -->
+
+<!ENTITY generalTab.label                "సాధారణ">
+
+<!ENTITY accessibility.label             "వెసులుబాటు">
+
+<!ENTITY useCursorNavigation.label       "పేజీలమద్య సంచరణకు ఎల్లప్పుడు కర్సరు కీలను వుపయోగించండి">
+<!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY searchStartTyping.label         "నేను టైపుచేయడం ప్రారంభించినప్పటి నుంచి పాఠ్యము‍ కొరకు శోధించు">
+<!ENTITY searchStartTyping.accesskey     "x">
+
+<!ENTITY browsing.label                  "అన్వేషించు">
+
+<!ENTITY useAutoScroll.label             "స్వయంచాలకస్క్రోలింగ్ వుపయోగించు">
+<!ENTITY useAutoScroll.accesskey         "a">
+<!ENTITY useSmoothScrolling.label        "సున్నిత స్క్రోలింగ్ వుపయోగించు">
+<!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY checkSpelling.label             "నేను టైపుచేసిన విధంగా నాస్పెల్లింగ్ పరిశీలించు">
+<!ENTITY checkSpelling.accesskey         "t">
+
+
+
+<!ENTITY networkTab.label                "నెట్వర్కు">
+
+<!ENTITY connection.label                "అనుసంధానము">
+
+<!ENTITY connectionDesc.label            "&brandShortName; ఎలా ఇంటర్నెట్‌కు అనుసంధానించ బడుతోందో ఆకృతీకరించు">
+<!ENTITY connectionSettings.label        "అమరికలు...">
+<!ENTITY connectionSettings.accesskey    "e">
+
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "వరకు వుపయోగించు">
+<!ENTITY useCacheBefore.accesskey        "U">
+<!ENTITY useCacheAfter.label             "క్యాచీ కొరకు MB స్పేస్">
+
+
+<!ENTITY updateTab.label                 "నవీకరణ">
+
+<!ENTITY autoCheck.label                 "స్వయంచాలకంగా నవీకరణల కొరకు పరిశీలించు:">
+<!ENTITY enableAppUpdate.label           "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAddonsUpdate.label        "సంస్థాపించిన యాడ్-ఆన్స్‍‌">
+<!ENTITY enableAddonsUpdate.accesskey    "n">
+<!ENTITY enableSearchUpdate.label        "శోధన ఇంజన్స్‍‌">
+<!ENTITY enableSearchUpdate.accesskey    "h">
+<!ENTITY whenUpdatesFound.label          "ఎప్పుడు  &brandShortName;కు నవీకరణలు కనపడినప్పుడు :">
+<!ENTITY askMe.label                     "నేను ఏమిచేయాలనుకుంటానో  నన్ను అడుగు">
+<!ENTITY askMe.accesskey                 "k">
+<!ENTITY modeAutomatic.label             "నవీకరణను స్వయంచాలకంగా  డౌనులోడుచేసి సంస్థాపనచేయి">
+<!ENTITY modeAutomatic.accesskey         "d">
+<!ENTITY modeAutoAddonWarn.label         "ఇది నాయాడ్-ఆన్స్‍‌ వేటినైనా అచేతనపరుస్తుంటే నన్నువారించు">
+<!ENTITY modeAutoAddonWarn.accesskey     "W">
+<!ENTITY updateHistory.label             "నవీకరణ చరిత్రను చూపించు">
+<!ENTITY updateHistory.accesskey         "p">
+
+
+<!ENTITY encryptionTab.label             "ఎన్క్రిప్షను">
+
+<!ENTITY protocols.label                 "ప్రొటోకాల్స్‍">
+<!ENTITY useSSL3.label                   "SSL 3.0 ఉపయోగించు">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "TLS 1.0 ఉపయోగించు">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "ధృవీకరణపత్రాలు">
+
+<!ENTITY certs.auto                      "స్వయంచాలకంగా ఒకదానిని ఎంపికచేయి.">
+<!ENTITY certs.auto.accesskey            "l">
+<!ENTITY certs.ask                       "ప్రతిసారీ నన్నడుగు">
+<!ENTITY certs.ask.accesskey             "i">
+<!ENTITY viewCerts.label                 "ధృవీకరణపత్రాలను దర్శించు">
+<!ENTITY viewCerts.accesskey             "s">
+<!ENTITY viewCRLs.label                  " రీవొకేషన్ జాబితాలు">
+<!ENTITY viewCRLs.accesskey              "R">
+<!ENTITY viewSecurityDevices.label       "రక్షణ సాధనాలు">
+<!ENTITY viewSecurityDevices.accesskey   "y">
+<!ENTITY checkNow.accesskey              "N">
+<!ENTITY certSelection.description       "సేవిక నావ్యక్తగిత దృవీకరణపత్రం అభ్యర్ధించినప్పుడు:">
+<!ENTITY offlineAppsList.label           "ఆఫ్‌లైన్ వినియోగంకొరకు ఈక్రింది వెబ్‌సైటులు సమాచారాన్ని నిల్వవుంచినాయి:">
+<!ENTITY verify2.label                   "నిర్ధారణ">
+<!ENTITY offlineAppRemove.confirm        "ఆఫ్‌లైన్ డాటాను తీసివేయి">
+<!ENTITY offlineNotify.label             "వెబ్‌సైటు ఆఫ్‌లైన్ వుపయోగంకొరకు  డాటాను నిల్వచేయుటకు అడిగినప్పుడు నాకుచెప్పు">
+<!ENTITY offlineAppsListRemove.label     "తీసివేయి…">
+<!ENTITY offlineNotifyExceptions.accesskey "x">
+<!ENTITY checkNow.label                  "ఇప్పుడు పరిశీలించు">
+<!ENTITY blockAutoRefresh.label          "వెబ్‌సైటులు పేజీను మళ్ళించుటకు లేదా తిరిగి లోడుచేయుటకు ప్రయత్నిస్తున్నప్పుడు నన్ను హెచ్చరించు">
+<!ENTITY offlineAppsListRemove.accesskey "R">
+<!ENTITY systemDefaults.label            "సిస్టమ్ అప్రమేయాలు">
+<!ENTITY clearCacheNow.label             "ఇప్పుడు శుభ్రపరచు">
+<!ENTITY offlineStorage.label            "ఆఫ్‌లైన్ నిల్వ">
+<!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY verify2.accesskey               "V">
+<!ENTITY alwaysCheckDefault.label        "&brandShortName; ప్రారంభం అన్వేషణి అవునోకాదో ఎల్లప్పుడు పరిశీలించు">
+<!ENTITY offlineNotifyExceptions.label   "ఆక్షేపణలు…">
+<!ENTITY alwaysCheckDefault.accesskey    "w">
+<!ENTITY offlineNotify.accesskey         "T">
+<!ENTITY blockAutoRefresh.accesskey      "b">
+<!ENTITY offlineAppsList.height          "7em">

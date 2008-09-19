@@ -1,0 +1,27 @@
+<!ENTITY no-properties.label   "ఏ లక్షణాలు అమర్చలేదు.">
+
+<!ENTITY caption.label         "మూలక లక్షణాలు">
+<!ENTITY image-sec.label       "చిత్ర లక్షణాలు">
+<!ENTITY image-url.label       "స్థానము:">
+<!ENTITY image-desc.label      "వివరణ:">
+<!ENTITY image-alt.label       "పరిసంభంద పాఠ్యము:">
+<!ENTITY image-filesize.label  "ఫైలు యొక్క పరిమాణం:">
+<!ENTITY insdel-sec.label      "లక్షణాలను ప్రవేశపెట్టు/తొలగించు">
+<!ENTITY insdel-cite.label     "సమాచారం:">
+<!ENTITY insdel-date.label     "తారీఖు:">
+<!ENTITY link-sec.label        "లింకు లక్షణాలు">
+<!ENTITY link-url.label        "చిరునామా:">
+<!ENTITY link-target.label     "లో తెరువుము:">
+<!ENTITY link-type.label       "టార్గెట్ రకము:">
+<!ENTITY link-lang.label       "టార్గెట్ భాష:">
+<!ENTITY link-rel.label        "సంభందం:">
+<!ENTITY link-rev.label        "ముందుగాకలిగివున్న  అనుభందం:">
+<!ENTITY misc-sec.label        "చెడ్డగావున్న  లక్షణాలు">
+<!ENTITY misc-lang.label       "పాఠ్యము భాష:">
+<!ENTITY misc-title.label      "శీర్షిక:">
+<!ENTITY misc-tblsummary.label "పట్టిక సంగ్రహము:">
+<!ENTITY quote-sec.label       "క్వోట్ లక్షణాలు">
+<!ENTITY quote-cite.label      "సమాచారం:">
+<!ENTITY image-size.label      "చిత్రము కొలతలు:">
+<!ENTITY image-type.label      "రకము:">
+<!ENTITY link-ping.label       "తెలియజేయబడుతుంది:">

@@ -1,0 +1,29 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "ముద్రించు">
+
+<!ENTITY printDialog.title "ముద్రించు">
+
+<!ENTITY fpDialog.title "ఫైలును  భద్రపరచు">
+
+<!ENTITY fileCheck.label "ఫైలుకు  ముద్రించు">
+<!ENTITY propertiesButton.label "లక్షణాలు...">
+<!ENTITY descText.label "ముద్రణాయంత్రం   వివరణ:">
+<!ENTITY printer.label "ముద్రణాయంత్రం">
+<!ENTITY printerInput.label "ముద్రణాయంత్రం   నామము:">
+
+<!ENTITY printrangeGroup.label "ముద్రణా  వ్యాప్తి">
+<!ENTITY allpagesRadio.label "అన్ని  పేజీలు">
+<!ENTITY rangeRadio.label  "పేజీలు">
+<!ENTITY frompageInput.label  "నుండి">
+<!ENTITY topageInput.label  "వరకు">
+<!ENTITY selectionRadio.label "ఎంపిక">
+
+<!ENTITY copies.label "నకళ్ళు">
+<!ENTITY numCopies.label "నకళ్ళ  సంఖ్య:">
+
+<!ENTITY printframeGroup.label "ముద్రణ  ఫ్రేములు">
+<!ENTITY aslaidoutRadio.label "స్క్రీను  మీద  పడినట్లు గా">
+<!ENTITY selectedframeRadio.label  "ఎంపిక  చేసిన  ఫ్రేము">
+<!ENTITY eachframesepRadio.label  "ప్రతి  ఫ్రేము  విడివిడిగా">
+

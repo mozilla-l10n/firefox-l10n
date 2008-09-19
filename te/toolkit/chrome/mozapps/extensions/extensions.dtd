@@ -1,0 +1,166 @@
+<!ENTITY addons.title                     "Add-ons">
+
+<!-- Default window size for the addon manager in pixels -->
+<!ENTITY em.width                         "520">
+<!ENTITY em.height                        "380">
+
+<!ENTITY cmd.info.commandKey              "i">
+<!ENTITY cmd.options.commandKey           ",">
+<!ENTITY cmd.close.commandKey             "w">
+
+<!-- View labels -->
+<!ENTITY extensions.label                 "విస్తరణలు">
+<!ENTITY themes.label                     "థీమ్సు">
+<!ENTITY locales.label                    "భాషలు">
+<!ENTITY plugins.label                    "ప్లగ్ఇన్లు">
+<!ENTITY update.label                     "నవీకరణలు">
+<!ENTITY install.label                    "సంస్థాపన">
+
+<!-- Command Bar items -->
+<!ENTITY cmd.checkUpdatesAll.label        "నవీకరణలను  కనుగొనుము">
+<!ENTITY cmd.checkUpdatesAll.accesskey    "F">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "మీ  యాడ్-ఆన్స్‍‌కి  నవీకరణలను  కనుగొంటుంది">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "మీ  థీమ్సుకి  నవీకరణలను  కనుగొంటుంది">
+<!ENTITY cmd.installLocalFile.label       "సంస్థాపించు...">
+<!ENTITY cmd.installFileAddon.tooltip     "ఒక  యాడ్-ఆన్‌ను  సంస్థాపించు">
+<!ENTITY cmd.installFileTheme.tooltip     "ఒక  థీమ్‌ను  సంస్థాపించు">
+<!ENTITY cmd.installUpdatesAll.label      "నవీకరణలను  సంస్థాపించు">
+<!ENTITY cmd.installUpdatesAll.accesskey  "I">
+<!ENTITY cmd.installUpdatesAll.tooltip    "ఎంచుకున్న  నవీకరణలను  సంస్థాపించుతుంది">
+<!ENTITY cmd.skip.label                   "వదిలివేయి">
+<!ENTITY cmd.skip.accesskey               "S">
+<!ENTITY cmd.skip.tooltip                 "ఈ నవీకరణలను  వదిలివేయి">
+<!ENTITY cmd.continue.label               "కొనసాగించు">
+<!ENTITY cmd.continue.accesskey           "C">
+<!ENTITY cmd.continue.tooltip             "&brandShortName; లోడు చేయుట కొనసాగించుము">
+
+<!ENTITY cmd.enableAll.label              "అన్నిటిని  చేతనంచేయి">
+<!ENTITY cmd.enableAll.accesskey          "a">
+<!ENTITY cmd.enableAll.tooltip            "కనబడే  అన్ని  యాడ్-ఆన్‌లను  చేతనం చేయి">
+<!ENTITY cmd.disableAll.label             "అన్నిటిని  అచేతనం చేయి">
+<!ENTITY cmd.disableAll.accesskey         "s">
+<!ENTITY cmd.disableAll.tooltip           "అన్ని  కనిపించే  యాడ్-ఆన్స్‍‌ను  ప్రదర్శించు">
+
+<!-- Displayed in the selected Add-on's richlistitem and context menu -->
+<!ENTITY cmd.useTheme.label               "థీమ్‌ను  వుపయోగించు">
+<!ENTITY cmd.useTheme.accesskey           "T">
+<!ENTITY cmd.useTheme.tooltip             "&brandShortName; యొక్క  థీమ్‌ను  మార్చు">
+<!ENTITY cmd.options.label                "ఐచ్చికాలు">
+<!ENTITY cmd.options.accesskey            "O">
+<!ENTITY cmd.options.tooltip              "ఎంపికచేసిన  విస్తరణలకు  ఐచ్చికాలను  అమర్చండి">
+<!ENTITY cmd.optionsUnix.label            "అభీష్టాలు">
+<!ENTITY cmd.optionsUnix.accesskey        "r">
+<!ENTITY cmd.optionsUnix.tooltip          "ఎంపికచేసిన  విస్తరణలకు  ఆభీష్టాలను  సరిచేయండి">
+<!ENTITY cmd.enable.label                 "చేతనం">
+<!ENTITY cmd.enable.accesskey             "E">
+<!ENTITY cmd.enable.tooltip               "&brandShortName; పునఃప్రారంభమైనప్పుడు  ఈ  యాడ్-ఆన్స్‍‌ను చేతనం చేయి">
+<!ENTITY cmd.disable.label                "అచేతనం">
+<!ENTITY cmd.disable.accesskey            "D">
+<!ENTITY cmd.disable.tooltip              "&brandShortName; పునఃప్రారంభమైనప్పుడు  ఈ  యాడ్-ఆన్స్‍‌‌ను అచేతనం చేయి">
+<!ENTITY cmd.uninstall.label              "నిర్మీలించు">
+<!ENTITY cmd.uninstall2.accesskey         "U">
+<!ENTITY cmd.uninstall2.tooltip           "&brandShortName; పునఃప్రారంభమైనప్పుడు  ఈ  యాడ్-ఆన్స్‍‌ను  నిర్మూలించు">
+<!ENTITY cmd.cancelUninstall.label        "నిర్మూలన  రద్దుచేయి">
+<!ENTITY cmd.cancelUninstall.accesskey    "C">
+<!ENTITY cmd.cancelUninstall.tooltip      "ఈ  యాడ్-ఆన్  యొక్క  నిర్మూలన  రద్దుచేయి">
+<!ENTITY cmd.installUpdate.label          "నవీకరణ  సంస్థాపించు">
+<!ENTITY cmd.installUpdate.accesskey      "I">
+<!ENTITY cmd.installUpdate.tooltip        "ఈ యాడ్-ఆన్  కొరకు  ఒక  నవీకరణను  సంస్థాపించు">
+<!-- The selected add-on's cancel action button label -->
+<!ENTITY cancel.label                     "రద్దుచేయి">
+<!ENTITY cancel.accesskey                 "C">
+
+<!-- Only displayed in the selected Add-on's context menu -->
+<!ENTITY cmd.homepage.label               "నివాసపుటను దర్శించు">
+<!ENTITY cmd.homepage.accesskey           "H">
+<!ENTITY cmd.about2.label                 "ఈ  యాడ్-ఆన్  గురించి">
+<!ENTITY cmd.about.accesskey              "A">
+<!ENTITY cmd.checkUpdate.label            "నవీకరణను  కనుగొనుము">
+<!ENTITY cmd.checkUpdate.accesskey        "F">
+
+<!ENTITY cmd.includeUpdate.label          "నవీకరణను  చేర్చు">
+<!ENTITY cmd.includeUpdate.accesskey      "n">
+<!ENTITY includeUpdate.label              "ఈ నవీకరణను చేర్చు">
+<!ENTITY includeUpdate.accesskey          "n">
+<!ENTITY includeUpdate.tooltip            "నవీకరణలను  సంస్థాపించుచున్నప్పుడు  ఈ  యాడ్-ఆన్‌ను  చేర్చు">
+
+<!-- Status Messsages -->
+<!ENTITY needsDependencies.label          "అదనపు  అంశములు అవసరం.">
+<!ENTITY blocklisted.label                "మీ  రక్షణకొరకు  అచేతనం చేయబడింది.">
+<!ENTITY toBeDisabled.label               "&brandShortName; పునఃప్రారంభమైనప్పుడు  ఈ  యాడ్-ఆన్  అచేతనం చేయిబడుతుంది">
+<!ENTITY toBeEnabled.label                "&brandShortName; పునఃప్రారంభమైనప్పుడు  ఈ  యాడ్-ఆన్‌ను చేతనం చేయిబడుతుంది.">
+<!ENTITY toBeInstalled.label              "&brandShortName; పునఃప్రారంభమైనప్పుడు  ఈ  యాడ్-ఆన్   సంస్థాపించబడుతుంది.">
+<!ENTITY toBeUninstalled.label            "&brandShortName; పునఃప్రారంభమైనప్పుడు  ఈ  యాడ్-ఆన్  నిర్మూలించబడుతుంది.">
+
+<!ENTITY getExtensions.label              "విస్తరణలను  పొందు">
+<!ENTITY getThemes.label                  "థీమ్సను  పొందు">
+<!ENTITY previewNoThemeSelected.label     "ఏ  థీమ్  ఎంపికకాలేదు">
+<!ENTITY previewNoPreviewImage.label      "ఈ  థీమ్  ఉపదర్శన  చిత్రంను  కలిగిలేదు">
+<!ENTITY moreInfo.label                   "అధిక  సమాచారం">
+
+<!ENTITY updateSuccess.label              "నవీకరణ  సమర్ధవంతంగా  పూర్తైనది.">
+<!ENTITY installSuccess.label             "సంస్థాపన  సమర్ధవంతంగా  పూర్తైనది.">
+<!ENTITY installSuccessRestart.label      "సంస్థాపన పూర్తిచేయుటకు  పునఃప్రారంభించు.">
+<!ENTITY installWaiting.label             "వేచివుంది...">
+<!ENTITY installIncompatibleUpdate.label  "సారూప్యతను  పరిశీలిస్తోంది...">
+<!ENTITY installFinishing.label           "సంస్థాపించుచున్నది...">
+<!ENTITY installFailure.label             "సంస్థాపన  విఫలం.">
+<!ENTITY search.label                     "యాడ్-ఆన్స్‍‌ పొందు">
+<!ENTITY cmd.installLocalFile.accesskey   "n">
+<!ENTITY cmd.restartApp2.label            "&brandShortName; పునఃప్రారంభించు">
+<!ENTITY cmd.restartApp2.accesskey        "R">
+<!ENTITY cmd.restartApp2.tooltip          "మార్పులను ఆపాదించుటకు &brandShortName; పునఃప్రారంభించు">
+<!ENTITY cmd.cancelInstall.label          "సంస్థాపనను రద్దుచేయి">
+<!ENTITY cmd.cancelInstall.accesskey      "C">
+<!ENTITY cmd.cancelInstall.tooltip        "ఈ యాడ్-ఆన్ యొక్క సంస్థాపనను రద్దుచేయి">
+<!ENTITY cmd.cancelUpgrade.label          "నవీకరణను రద్దుచేయి">
+<!ENTITY cmd.cancelUpgrade.accesskey      "C">
+<!ENTITY cmd.cancelUpgrade.tooltip        "ఈ యాడ్-ఆన్ యొక్క నవీకరణను రద్దుచేయి">
+<!ENTITY cmd.showUpdateInfo.label         "సమాచారాన్ని చూపుము">
+<!ENTITY cmd.showUpdateInfo.accesskey     "S">
+<!ENTITY cmd.showUpdateInfo.tooltip       "ఈ నవీకరణల గురించి ఎక్కువసమాచారాన్ని చూపుము">
+<!ENTITY cmd.hideUpdateInfo.label         "సమాచారాన్ని మరుగుపరచుము">
+<!ENTITY cmd.hideUpdateInfo.accesskey     "H">
+<!ENTITY cmd.hideUpdateInfo.tooltip       "ఈ నవీకరణల గురించి సమాచారాన్ని మరుగుపరచుము">
+<!ENTITY cmd.installSearchResult.label     "&brandShortName;…కు జతచేయుము">
+<!ENTITY cmd.installSearchResult.accesskey "A">
+<!ENTITY cmd.installSearchResult.tooltip   "ఈ యాడ్-ఆన్‌ను  డౌన్‌లోడుచేయుము మరియు సంస్థాపించుము">
+<!ENTITY cancelInstall.label              "రద్దుచేయి">
+<!ENTITY cancelInstall.accesskey          "C">
+<!ENTITY cancelUpgrade.label              "రద్దుచేయి">
+<!ENTITY cancelUpgrade.accesskey          "C">
+<!ENTITY insecureUpdate.label             "సురక్షిత నవీకరణలను అందించుటలేదు.">
+<!ENTITY toBeUpdated.label                "&brandShortName; పునఃప్రారంభమైనప్పుడు ఈ యాడ్-ఆన్ నవీకరించబడుతుంది.">
+<!ENTITY getPlugins.label                 "ప్లగ్ఇన్స్‍‌ పొందుము">
+<!ENTITY searchAddons.label               "అన్ని యాడ్-ఆన్స్‍‌ను శోధించుము">
+<!ENTITY browseAddons.label               "అన్ని యాడ్-ఆన్స్‍‌ను అన్వేషించుము">
+<!ENTITY searchFailed.label               "&brandShortName; యాడ్-ఆన్స్‍‌ను పొందలేకపోయింది">
+<!ENTITY recommendedHeader.label          "సిఫార్స్‍‌చేయబడింది">
+<!ENTITY recommendedThrobber.label        "సిఫార్స్‍‌చేయబడిన యాడ్-ఆన్స్‍‌ను తీసుకొంటోంది">
+<!ENTITY searchThrobber.label             "యాడ్-ఆన్స్‍‌ శోధిస్తోంది">
+<!ENTITY resetSearch.label                "ఫలితాలను శుభ్రంచేయి">
+<!ENTITY noSearchResults.label            "అన్ని ఫలితాలు ఇప్పటికే సంస్థాపించబడివున్నాయి లేదా సారూప్యమైనవికావు.">
+<!ENTITY noRecommendedResults.label       "అన్ని సిఫార్స్‍‌లు ఇప్పటికే సంస్థాపించబడివున్నాయి లేదా సాపూప్యమైనవికావు.">
+<!ENTITY emptySearch.label                "ఏసరిపోలు యాడ్-ఆన్స్‍‌ లేవు">
+<!ENTITY emptySearch.button               "సరే">
+<!ENTITY cancelSearch.button              "రద్దుచేయి">
+<!ENTITY searchFailed.button              "సరే">
+<!ENTITY searchResultHomepage.value       "ఇంకా తెలుసుకోండి">
+<!ENTITY searchBox.label                  "అన్ని యాడ్-ఆన్స్‍‌ను శోదించు">
+<!ENTITY recommendedResults.label         "అన్ని సిఫార్స్‍‌చేయబడిన యాడ్-ఆన్స్‍‌ను చూడుము">
+<!ENTITY searchResultConnecting.label     "అనుసంధానిస్తోంది…">
+<!ENTITY searchResultInstalling.label     "సంస్థాపిస్తోంది…">
+<!ENTITY searchResultFailed.label         "సంస్థాపన విఫలమైంది">
+<!ENTITY searchResultInstalled.label      "సంస్థాపన పూర్తైంది">
+<!ENTITY addonTypeExtension.label         "పొడిగింపు">
+<!ENTITY addonTypeTheme.label             "థీమ్">
+<!ENTITY missingThumbnail.label           "ఉపదర్శనం లేదు">
+<!ENTITY infoNoAddonSelected.label        "ఏనవీకరణ ఎంపికచేయబడలేదు">
+<!ENTITY infoNoUpdateInfo.label           "ఈ నవీకరణ ఏఅదనపు సమాచారాన్ని కలిగిలేదు.">
+<!ENTITY infoUpdateInfoError.label        "ఈ నవీకరణగురించి సమాచారాన్ని లోడుచేయుటలో దోషమువుంది">
+<!ENTITY updateSuccessRestart.label       "నవీకరణ పూర్తిచేయుటకు పునఃప్రారంభించుము.">
+<!ENTITY progressStatus.label             "నవీకరణకొరకు పరిశీలిస్తోంది">
+<!ENTITY eula.title                       "అంతిమ-వినియోగదారి లైసెన్స్‍‌ ఒప్పందపత్రం">
+<!ENTITY eula.width                       "560px">
+<!ENTITY eula.height                      "400px">
+<!ENTITY eula.accept                      "ఆమోదించు మరియు సంస్థాపించు…">

@@ -1,0 +1,28 @@
+<!ENTITY find.label                "వెతుకు:">
+<!ENTITY find.accesskey            "S">
+<!ENTITY expand.label              "విస్తరణ">
+<!ENTITY expand.accesskey          "E">
+<!ENTITY collapse.label            "కూల్చు">
+<!ENTITY collapse.accesskey        "C">
+<!ENTITY byDate.label "రోజు ద్వారా">
+<!ENTITY byDate.accesskey "D">
+<!ENTITY bySite.label "సైటు ద్వారా">
+<!ENTITY bySite.accesskey "S">
+<!ENTITY view.label "దర్శించు">
+<!ENTITY view.accesskey "w">
+<!ENTITY byMostVisited.label "ఎక్కువ దర్శించినవాటి ద్వారా">
+<!ENTITY byMostVisited.accesskey "V">
+<!ENTITY byLastVisited.label "చివర దర్శించినవాటి ద్వారా">
+<!ENTITY byLastVisited.accesskey "L">
+<!ENTITY byDayAndSite.label "రోజు మరియు సైటు ద్వారా">
+<!ENTITY byDayAndSite.accesskey "t">
+<!ENTITY openLinkInWindow.label "తెరువు">
+<!ENTITY openLinkInWindow.accesskey "O">
+<!ENTITY openInNewTab.label "కొత్త టాబునందు తెరువు">
+<!ENTITY openInNewTab.accesskey "T">
+<!ENTITY openInNewWindow.label "కొత్త విండోనందు తెరువు">
+<!ENTITY openInNewWindow.accesskey "W">
+<!ENTITY bookmarkLink.label "ఈ లింకుని ఇష్టాంశము చేయి...">
+<!ENTITY bookmarkLink.accesskey "B">
+<!ENTITY copyLink.label "లింకు స్థానాన్ని నకలుతీయి">
+<!ENTITY copyLink.accesskey "C">

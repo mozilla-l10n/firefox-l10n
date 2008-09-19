@@ -1,0 +1,5 @@
+<!ENTITY  windowClose.key                         "w">
+<!ENTITY  preferencesDefaultTitleMac.title        "అభీష్టాలు">
+<!ENTITY  preferencesDefaultTitleWin.title        "ఐచ్చికాలు">
+<!ENTITY  preferencesCloseButton.label            "మూయి">
+<!ENTITY  preferencesCloseButton.accesskey        "C">

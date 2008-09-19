@@ -1,0 +1,18 @@
+<!ENTITY  untitledTab            "(శీర్షికలేని)">
+<!ENTITY  newTab.label           "కొత్త టాబ్">
+<!ENTITY  newTab.accesskey       "N">
+<!ENTITY  closeTab.label         "టాబ్ మూయుము">
+<!ENTITY  closeTab.accesskey         "c">
+<!ENTITY  closeOtherTabs.accesskey  "o">
+<!ENTITY  closeOtherTabs.label   "ఇతర టాబ్‌‌లను మూయి">
+<!ENTITY  reloadAllTabs.label    "అన్ని టాబ్‌లను తిరిగిలోడ్‌చేయి">
+<!ENTITY  reloadAllTabs.accesskey         "A">
+<!ENTITY  reloadTab.label        "టాబ్ తిరిగిలోడ్‌చేయి">
+<!ENTITY  reloadTab.accesskey         "r">
+<!ENTITY  listAllTabs.label      "అన్ని టాబ్‌లను జాబితాచేయి">
+<!ENTITY  bookmarkAllTabs.label       "అన్ని టాబ్‌లను ఇష్టాంశముచేయి…">
+<!ENTITY  bookmarkAllTabs.accesskey   "T">
+<!ENTITY  bookmarkThisTab.label       "ఈ టాబ్‌ను ఇష్టాంశముచేయి">
+<!ENTITY  bookmarkThisTab.accesskey   "B">
+<!ENTITY  undoCloseTab.label          "మూసిన టాబ్‌ను తిరిగివుంచు">
+<!ENTITY  undoCloseTab.accesskey      "U">

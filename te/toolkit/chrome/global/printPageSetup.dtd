@@ -1,0 +1,53 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title    "పేజీ అమర్పు">
+
+<!ENTITY basic.tab           "&amp; రూపంయొక్క  ఐచ్చికాలు">
+
+<!ENTITY formatGroup.label   "రూపం">
+
+<!ENTITY orientation.label   "సర్దుబాటు:">
+<!ENTITY portrait            "పోర్ట్రయిట్">
+<!ENTITY landscape           "లాండ్‌స్కేప్">
+
+<!ENTITY scale.label         "స్కేల్:">
+<!ENTITY scalePercent        "&#037;">
+
+<!ENTITY shrinkToFit.label   "పేజీ వెడల్పుకు  సరిపోవునట్లు  కుచింపుము">
+
+<!ENTITY optionsGroup.label  "ఐచ్చికాలు">
+
+<!ENTITY printBG.label       "ముద్రణ  బ్యాక్‌గ్రౌండ్ (వర్ణాలు  &amp; చిత్రాలు)">
+
+<!ENTITY advanced.tab        "మార్జిన్లు   &amp; పీఠక/భూమిక">
+
+<!ENTITY marginGroup.label   "మార్జిన్లు (#1)">
+<!ENTITY marginUnits.inches  "అంగుళాలు">
+<!ENTITY marginUnits.metric  "మిల్లీమీటర్లు">
+<!ENTITY marginTop.label     "పైన:">
+<!ENTITY marginBottom.label  "క్రింద:">
+<!ENTITY marginLeft.label    "ఎడమ:">
+<!ENTITY marginRight.label   "కుడి:">
+
+<!ENTITY headerFooter.label  "ఫీఠికలు   &amp; భూమికలు">
+
+<!ENTITY hfLeft.label        "ఎడమ:">
+<!ENTITY hfCenter.label      "మద్య:">
+<!ENTITY hfRight.label       "కుడి:">
+<!ENTITY headerLeft.tip      "ఎడమ  పీఠిక">
+<!ENTITY headerCenter.tip    "మద్య  పీఠిక">
+<!ENTITY headerRight.tip     "కుడి  పీఠిక">
+<!ENTITY footerLeft.tip      "ఎడమ  భూమిక">
+<!ENTITY footerCenter.tip    "మద్య  భూమిక">
+<!ENTITY footerRight.tip     "కుడి  భూమిక">
+
+<!ENTITY hfTitle             "శీర్షిక">
+<!ENTITY hfURL               "URL">
+<!ENTITY hfDateAndTime       "తేది/సమయం">
+<!ENTITY hfPage              "పేజీ   #">
+<!ENTITY hfPageAndTotal      " # యొక్క   పేజీ  #">
+<!ENTITY hfBlank             "--blank--">
+<!ENTITY hfCustom            "ఇష్టానుసారం...">
+
+<!ENTITY customPrompt.title  "ఇష్టానుసారం...">
+<!ENTITY customPrompt.prompt "మీ  ఇష్టానుసారమైన  పీఠిక/భూమిక   పాఠ్యమును   ప్రవేశపెట్టండి">

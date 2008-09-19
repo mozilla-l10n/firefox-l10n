@@ -1,0 +1,119 @@
+<!--
+# ***** BEGIN LICENSE BLOCK *****
+# Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#
+# The contents of this file are subject to the Mozilla Public License Version
+# 1.1 (the "License"); you may not use this file except in compliance with
+# the License. You may obtain a copy of the License at
+# http://www.mozilla.org/MPL/
+#
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# for the specific language governing rights and limitations under the
+# License.
+#
+# The Original Code is Mozilla Communicator client code.
+#
+# The Initial Developer of the Original Code is Daniel Brooks.
+# Portions created by the Initial Developer are Copyright (C) 2001
+# the Initial Developer. All Rights Reserved.
+#
+# Contributor(s): Daniel Brooks <db48x@yahoo.com>
+#
+# Alternatively, the contents of this file may be used under the terms of
+# either the GNU General Public License Version 2 or later (the "GPL"), or
+# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# in which case the provisions of the GPL or the LGPL are applicable instead
+# of those above. If you wish to allow use of your version of this file only
+# under the terms of either the GPL or the LGPL, and not to allow others to
+# use your version of this file under the terms of the MPL, indicate your
+# decision by deleting the provisions above and replace them with the notice
+# and other provisions required by the LGPL or the GPL. If you do not delete
+# the provisions above, a recipient may use your version of this file under
+# the terms of any one of the MPL, the GPL or the LGPL.
+#
+# ***** END LICENSE BLOCK *****
+-->
+
+
+
+
+
+<!ENTITY  pageInfoWindow.width  "425">
+<!ENTITY  pageInfoWindow.height "470">
+
+<!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "నకలుతీయి">
+<!ENTITY  copy.accesskey        "C">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "అన్నిటిని ఎన్నుకొనుము">
+<!ENTITY  selectall.accesskey   "A">
+<!ENTITY  closeWindow.key       "w">
+
+<!ENTITY  generalTab            "సాధారణ">
+
+<!ENTITY  generalURL            "చిరునామా:">
+<!ENTITY  generalMode           "రెండర్ రీతి:">
+<!ENTITY  generalType           "రకం:">
+<!ENTITY  generalSize           "పరిమాణం:">
+<!ENTITY  generalReferrer       "సంప్రదించుచున్న URL:">
+<!ENTITY  generalSource         "క్యాచీ మూలం:">
+<!ENTITY  generalModified       "సవరించిన:">
+<!ENTITY  generalEncoding       "ఎన్కోడింగ్:">
+
+<!ENTITY  generalMetaName       "నామము">
+<!ENTITY  generalMetaContent    "విషయసంగ్రహం">
+
+<!ENTITY  mediaTab              "మాధ్యమం">
+<!ENTITY  mediaAltHeader        "పరిసంభంద పాఠ్యము ">
+<!ENTITY  mediaAddress          "చిరునామా">
+<!ENTITY  mediaType             "రకం">
+<!ENTITY  mediaCount            "లెక్క">
+<!ENTITY  mediaLongdesc         "పొడవైన వివరణ:">
+<!ENTITY  mediaSaveAs           "ఇలా దాచు...">
+<!ENTITY  mediaSaveAs.accesskey "S">
+<!ENTITY  mediaPreview          "మాధ్యమం ఉపదర్శనం:">
+<!ENTITY  securityView.identity.header   "వెబ్‌ సైటు  గుర్తింపు">
+<!ENTITY  securityView.identity.domain   "వెబ్ సైటు: ">
+<!ENTITY  feedTab               "ఫీడ్స్‍‌">
+<!ENTITY  permUseDefault        "అప్రమేయాన్ని  వుపయోగించు">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  mediaDimension        "కొలతలు:">
+<!ENTITY  permAllow             "అనుమతించు">
+<!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  securityView.unknown   "తెలియని">
+<!ENTITY  securityView.certView "దృవీకరణపత్రాన్ని చూపించు">
+<!ENTITY  securityView.privacy.viewPasswords            "భద్రపరచిన సంకేతపదాలను దర్శించు">
+<!ENTITY  feedTab.accesskey     "F">
+<!ENTITY  feedSubscribe         "సబ్‌స్క్రైబ్">
+<!ENTITY  generalSecurityMore   "ఇంకా">
+<!ENTITY  mediaSaveAs2.accesskey "e">
+<!ENTITY  permTab.accesskey     "P">
+<!ENTITY  securityView.privacy.history                  "ఈరోజు ఇంతకుముందు నేను ఈవెబ్ సైటును దర్శించానా?">
+<!ENTITY  securityHeader        "ఈ పుటకు రక్షణ సమాచారం">
+<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  feedSubscribe.accesskey "u">
+<!ENTITY  permTab               "అనుమతులు">
+<!ENTITY  mediaText             "అనుభందిత పాఠ్యము:">
+<!ENTITY  securityView.identity.owner    "యజమాని: ">
+<!ENTITY  permImage             "చిత్రములను లోడుచేయి">
+<!ENTITY  generalSecurityMore.accesskey "o">
+<!ENTITY  mediaSize             "పరిమాణం">
+<!ENTITY  securityTab           "రక్షణ">
+<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  permAllowSession      "ఈ సెషన్‌కు అనుమతించు">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+<!ENTITY  securityView.identity.verifier "దీనిద్వారా నిర్ధారించబడింది: ">
+<!ENTITY  permInstall           "పొడిగింపులు లేదా థీమ్స్‍‌ను సంస్థాపించు">
+<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  permPopup             "పాప్-అప్ విండోలను తెరువుము">
+<!ENTITY  securityView.privacy.passwords                "ఈ సైటుకొరకు నేను ఏమైనా సంకేతపదాలను భద్రపరిచానా?">
+<!ENTITY  securityView.privacy.viewCookies              "కుకీలను దర్శించు">
+<!ENTITY  securityView.technical.header                 "సాంకేతిక వివరములు">
+<!ENTITY  mediaLocation         "స్థానము:">
+<!ENTITY  securityView.accesskey "V">
+<!ENTITY  securityView.privacy.header                   "గోప్యత &amp; చరిత్ర">
+<!ENTITY  securityView.privacy.cookies                  "ఈ వెబ్‌సైటు సమాచారాన్ని (కుకీలను)నాకంప్యూటర్‌నందు నిల్వవుంచుతోందా?">
+<!ENTITY  permCookie            "కుకీలను అమర్చు">
+<!ENTITY  permBlock             "నిరోధించు">
+<!ENTITY  permissionsFor        "దీనికొరకు అనుమతులు:">

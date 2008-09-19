@@ -1,0 +1,87 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is mozilla.org code.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David P. Drinan (ddrinan@netscape.com)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY  pref.validation.title                   "పరీక్షణ">
+
+<!ENTITY  validation.crl.caption                  "CRL">
+<!ENTITY  validation.crl.description              "CRL నిర్వహకిని  ఉపయోగించండి  దృవీకరణపత్ర  రివోకేషన్  జాబితాలను  (CRL)  నిర్వహించుటకు  అవి  మీదృవీకరణపత్ర  డాటాబేస్‌లో  నిల్వఉన్నాయి.">
+<!ENTITY  validation.managecrls.button            "CRLsను  నిర్వహించు...">
+<!ENTITY  validation.managecrls.accesskey         "M">
+<!ENTITY  validation.crlmanager.label             "CRLs నిర్వహించు">
+<!ENTITY  validation.crlname.label                "నామము">
+<!ENTITY  validation.crllastupdate.label          "చివరి  నవీకరణ">
+<!ENTITY  validation.crlnextupdate.label          "తర్వాతి  నవీకరణ">
+<!ENTITY  validation.crlautoupdateenabled.label   "స్వయంచాలక  నవీకరణ">
+<!ENTITY  validation.crlautoupdatestatus.label    "స్వయంచాలక  నవీకరణ  స్థితి">
+<!ENTITY  validation.deletecrl.label              "తొలగించు">
+<!ENTITY  validation.deletecrl.accesskey          "D">
+<!ENTITY  validation.updatecrl.label              "నవీకరణ">
+<!ENTITY  validation.updatecrl.accesskey          "U">
+<!ENTITY  validation.advanced.label               "అమరికలు">
+<!ENTITY  validation.advanced.accesskey           "S">
+
+<!ENTITY  validation.crl.autoupdate.title         "స్వయంచాలక CRL నవీకరణ  ఆభీష్టాలు">
+<!ENTITY  validation.crl.autoupdate.enable.label  "ఈ CRLకు  స్వయంచాలక  నవీకరణను  చేతనంచేయి">
+<!ENTITY  validation.crl.autoupdate.time.label1   "నవీకరణ">
+<!ENTITY  validation.crl.autoupdate.time.label2   "తర్వాతి  నవీకరణకు  ముందలి  రోజు(లు)">
+<!ENTITY  validation.crl.autoupdate.freq.label1   "నవీకరించు  ప్రతి ">
+<!ENTITY  validation.crl.autoupdate.freq.label2   "రోజు(ల) కి">
+<!ENTITY  validation.crl.autoupdate.url.label     "CRL దీనినుండి  దిగుమతి  అయ్యుంటుంది:">
+<!ENTITY  crl.import.status.title                 "CRL దిగుమతి  స్థితి">
+<!ENTITY  crl.import.success.message              "దృవీకరణపత్రం  రివోకేషన్  జాబితా (CRL) సమర్దవంతంగా  దిగుమతిచేయబడింది.">
+<!ENTITY  crl.issuer.label                        "దీని  ద్వారా  CRL ఇష్యూఅయింది:">
+<!ENTITY  crl.issuer.org.label                    "సంస్థ: ">
+<!ENTITY  crl.issuer.orgunit.label                "యూనిట్: ">
+<!ENTITY  crl.import.nextupdate.label             "తర్వాతి  నవీకరణ  : ">
+<!ENTITY  crl.autoupdate.fail.cnt.label           "ముందలి  ఒకదానితర్వతఒకటి  నవీకరణ  వైఫల్యాలు: ">
+<!ENTITY  crl.autoupdate.fail.reason.label        "చివరి  నవీకరణ  వైఫల్యం  వివరాలు: ">
+<!ENTITY  edit.button                             "అమరికలు">
+
+<!ENTITY validation.ocsp.caption                  "OCSP">
+<!ENTITY serviceURL.label                         "సేవా URL:">
+<!ENTITY serviceURL.accesskey                     "S">
+<!ENTITY signingCA.label                          "స్పందన  సైనర్:">
+<!ENTITY signingCA.accesskey                      "R">
+<!ENTITY  validation.crlmanager.description       "ఈ సర్టిఫికేట్ రీవొకేషన్ లిస్ట్స్‍‌ (CRL) సర్టిఫికేట్ డాటాబేస్‌నందు నిల్వవుంచబడతాయి:">
+<!ENTITY enableOCSP.label                         "సర్టిఫికేట్‌లయొక్క ప్రస్తుత నిర్ణీతకాలాన్ని నిర్ధారించుటకు ఆన్‌లైన్ సర్టిఫికేట్ స్టేటస్ ప్రొటోకాల్  (OCSPను ఉపయోగించు">
+<!ENTITY enableOCSP.accesskey                     "U">
+<!ENTITY certOCSP2.label                          "OCSP సేవికను తెలిపతే దృవీకరణపత్రంను పరీక్షించుము">
+<!ENTITY certOCSP2.accesskey                      "V">
+<!ENTITY proxyOCSP2.label                         "క్రింది OCSP సేవికను ఉపయోగించి దృవీకరణపత్రాలను పరీక్షించుము:">
+<!ENTITY proxyOCSP2.accesskey                     "a">
+<!ENTITY validation.requireOCSP.description       "OCSP సేవిక అనుసంధానం విఫలమైనప్పుడు, దృవీకరణపత్రంను చెల్లనిదని పరిగణించుము">
+<!ENTITY validation.requireOCSP.accesskey         "W">

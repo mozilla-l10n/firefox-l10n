@@ -1,0 +1,17 @@
+<!ENTITY newPagesIn.label             "కొత్త పుటులు దీనిలోనే తెరువబడాలి:">
+<!ENTITY inNewWindow.label            "ఒక కొత్త విండో">
+<!ENTITY inNewWindow.accesskey        "w">
+<!ENTITY inNewTab.label               "ఒక కొత్త  టాబు">
+<!ENTITY inNewTab.accesskey           "t">
+
+<!ENTITY warnCloseMultipleTabs.label  "బహుళ టాబులను మూయునపుడు నన్నుహెచ్చరించు">
+<!ENTITY warnCloseMultipleTabs.accesskey  "m">
+
+<!ENTITY warnOpenManyTabs.label       "&brandShortName; నిదానింప చేయగల బహుళ టాబులను తెరుచునపుడు నన్నువారించు">
+<!ENTITY warnOpenManyTabs.accesskey   "o">
+
+<!ENTITY showTabBar.label             "ఎల్లప్పుడు టాబుపట్టీని చూపుము">
+<!ENTITY showTabBar.accesskey         "b">
+
+<!ENTITY switchToNewTabs.label        "నేను కొత్త టాబునందు లింకుని తెరిచినప్పుడు,దానికి  సత్వరమే మారు">
+<!ENTITY switchToNewTabs.accesskey    "s">

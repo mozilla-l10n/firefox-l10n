@@ -1,0 +1,14 @@
+<!ENTITY  typeColumn.label        "సారము రకము">
+<!ENTITY  typeColumn.accesskey    "T">
+
+<!ENTITY  actionColumn2.label     "చర్య">
+<!ENTITY  actionColumn2.accesskey "A">
+
+<!ENTITY  focusSearch1.key        "f">
+<!ENTITY  focusSearch2.key        "k">
+
+<!ENTITY  filter.label            "శోధన:">
+<!ENTITY  filter.accesskey        "S">
+
+<!ENTITY  clear.label             "శుభ్రంచేయి">
+<!ENTITY  clear.accesskey         "l">

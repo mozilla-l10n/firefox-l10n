@@ -1,0 +1,54 @@
+<!ENTITY  history.label "History">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberBefore.label and rememberAfter.label appear on a single
+  line in preferences as follows:
+
+  &rememberBefore.label  [ textbox for number of days ]   &rememberAfter.label;
+-->
+
+<!ENTITY  rememberForms.label           "నేను ఫారాలలో మరియు శోధనపట్టీలో ఏమి ప్రవేశపెట్టానో గుర్తుంచుకో">
+<!ENTITY  rememberForms.accesskey       "f">
+
+<!ENTITY  rememberDownloads.label       "నేను ఏమి డౌనులోడు చేయాలో గుర్తుంచుకో">
+<!ENTITY  rememberDownloads.accesskey   "d">
+
+
+<!ENTITY  cookies.label                 "కుకీలు">
+
+<!ENTITY  acceptCookies.label           "కుకీలను సైటుల నుండి ఆమోదించు">
+<!ENTITY  acceptCookies.accesskey       "c">
+
+<!ENTITY  keepUntil.label               "దీనివరకు వుంచు:">
+<!ENTITY  keepUntil.accesskey           "K">
+
+<!ENTITY  expire.label                  "వాటికి కాలముతీరినది">
+<!ENTITY  close.label                   "నేను  &brandShortName; మూసితిని">
+<!ENTITY  askEachTime.label             "ప్రతిసారి నన్నడుగు">
+
+<!ENTITY  cookieExceptions.label        "ఎక్సెప్షన్లు...">
+<!ENTITY  cookieExceptions.accesskey    "E">
+
+<!ENTITY  showCookies.label             "కుకీలను చూపించు...">
+<!ENTITY  showCookies.accesskey         "S">
+
+
+<!ENTITY  privateData.label             "వ్యక్తిగత డాటా">
+
+<!ENTITY  alwaysClear.label              "నేను &brandShortName;మూసిన ప్రతిసారి నావ్యక్తిగత డాటాను చెరిపివేయి">
+<!ENTITY  alwaysClear.accesskey          "w">
+
+<!ENTITY  askBeforeClear.label           "వ్యక్తగత డాటాను చెరిపివేయుటకు ముందుగా నన్ను అడుగు">
+<!ENTITY  askBeforeClear.accesskey       "A">
+
+<!ENTITY  clearDataSettings.label        "అమరికలు...">
+<!ENTITY  clearDataSettings.accesskey    "t">
+
+<!ENTITY  clearDataNow.label             "ఇప్పుడు చెరిపివేయి...">
+<!ENTITY  clearDataNow.label2            "ఇప్పుడు చెరిపివేయి">
+<!ENTITY  clearDataNow.accesskey         "N">
+<!ENTITY  rememberDaysBefore.label      "నా చరిత్ర కనీసం ఇన్నిరోజులు వుంచుము">
+<!ENTITY  rememberDaysBefore.accesskey  "h">
+<!ENTITY  rememberDaysAfter2.label      "రోజులు">
+<!ENTITY  acceptThirdParty.label        "మూడో-వ్యక్తి కుకీలను ఆమోదించుము">
+<!ENTITY  acceptThirdParty.accesskey    "p">

@@ -1,0 +1,48 @@
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "చిన్నదిచేయి">
+<!ENTITY bringAllToFront.label    "అన్నీ ముందుకు తీసుకునిరా">
+<!ENTITY zoomWindow.label         "జూమ్">
+<!ENTITY windowMenu.label         "విండో">
+
+<!ENTITY helpMenu.label           "సహాయం"> 
+<!ENTITY helpMenu.accesskey       "H"> 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "సహాయం"> 
+<!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY aboutCmd.label           "&brandFullName; గురించి">
+<!ENTITY aboutCmd.accesskey       "A">
+<!ENTITY helpContents.label       "సహాయ విషయసంగ్రహాలు">
+<!ENTITY helpContents.accesskey   "H">
+<!ENTITY helpContentsMac.label    "&brandShortName; సహాయం">
+<!ENTITY helpForIEUsers.label     "ఇంటర్నెట్ ఎక్స్‍ప్లోరర్ వాడుకరుల కొరకు">
+<!ENTITY helpForIEUsers.accesskey "I">
+<!ENTITY openHelp.commandkey      "VK_F1">
+<!ENTITY openHelpMac.commandkey   "VK_HELP">
+<!-- LOCALIZATION NOTE openHelpMac2.commandkey and openHelpMac2.modifiers
+                       are all the necessary keys to hit OS X's open-help 
+                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
+<!ENTITY openHelpMac.modifiers            "ఎక్సెల్,షిప్ట్‍‌">
+<!ENTITY openHelpMac.frontendCommandkey   "?">
+<!ENTITY openHelpMac.frontendModifiers    "ఎక్సెల్">
+
+<!ENTITY helpReleaseNotes.label         "విడుదల నోడ్స్‍">
+<!ENTITY helpReleaseNotes.accesskey     "N">
+<!ENTITY updateCmd.label                "నవీకరణల కొరకు పరిశీలించు...">
+<!ENTITY updateCmd.accesskey            "o">
+
+<!ENTITY preferencesCmdMac.label        "అభీష్టాలు...">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "ఎక్సెల్">
+
+<!ENTITY servicesMenuMac.label          "సేవలు">
+
+<!ENTITY hideThisAppCmdMac.label        "&brandShortName;ను మరుగుపరచు">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "ఎక్సెల్">
+
+<!ENTITY hideOtherAppsCmdMac.label      "ఇతరాలను మరుగుపరచు">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "ఎక్సెల్,ఆల్ట్‍">
+
+<!ENTITY showAllAppsCmdMac.label        "అన్నీ చూపుము">

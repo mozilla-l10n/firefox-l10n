@@ -1,0 +1,215 @@
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title  "Library">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label        "Organize">
+<!ENTITY organize.accesskey    "O">
+
+<!ENTITY file.accesskey                 "F">
+<!ENTITY file.close.label               "మూయుము">
+<!ENTITY file.close.accesskey           "C">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY edit.label                     "సరిచేయి">
+<!ENTITY edit.accesskey                 "E">
+<!ENTITY views.label                    "దర్శనాలు">
+<!ENTITY views.accesskey                "V">
+<!ENTITY view.toolbar.label             "సాధనపట్టి">
+<!ENTITY view.toolbar.accesskey         "o">
+<!ENTITY view.columns.label             "నిలువువరుసలను చూపుము">
+<!ENTITY view.columns.accesskey         "C">
+<!ENTITY view.sort.label                "క్రమపరచు">
+<!ENTITY view.sort.accesskey            "S">
+<!ENTITY view.unsorted.label            "క్రమపరచని">
+<!ENTITY view.unsorted.accesskey        "U">
+<!ENTITY view.sortAscending.label       "A > Z క్రమపద్దతి">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Z > A క్రమపద్దతి">
+<!ENTITY view.sortDescending.accesskey  "Z">
+<!ENTITY help.usingBookmarks.label      "ఇష్టాంశములను వుపయోగించుట">
+<!ENTITY help.usingBookmarks.accesskey  "B">
+<!ENTITY help.usingHistory.label        "చరిత్రను వుపయోగించుట">
+<!ENTITY help.usingHistory.accesskey    "i">
+<!ENTITY help.advancedTips.label        "అధునాతన చిట్కాలు &amp; మెళుకువలు">
+<!ENTITY help.advancedTips.accesskey    "T">
+
+<!ENTITY cmd.findInBookmarks.label      "ఇష్టాంశములనందు కనుగొనుము…">
+<!ENTITY cmd.findInBookmarks.accesskey  "F">
+<!ENTITY cmd.findCurrent.label          "ప్రస్తుత సంకలనం(కలక్షన్)నందు కనుగొనుము…">
+<!ENTITY cmd.findCurrent.accesskey      "i">
+
+<!ENTITY cmd.exportHTML.label           "HTMLలా ఎగుమతిచేయి…">
+<!ENTITY cmd.exportHTML.accesskey       "E">
+<!ENTITY cmd.importHTML.label           "HTMLలా దిగుమతిచేయి…">
+<!ENTITY cmd.importHTML.accesskey       "I">
+
+<!ENTITY cmd.backup.label               "బ్యాక్అప్…">
+<!ENTITY cmd.backup.accesskey           "B">
+<!ENTITY cmd.restore2.label             "తిరిగివుంచు">
+<!ENTITY cmd.restore2.accesskey         "R">
+<!ENTITY cmd.restoreFromFile.label      "ఫైల్ ఎంచుకొనుము…">
+<!ENTITY cmd.restoreFromFile.accesskey  "C">
+
+<!ENTITY cmd.select_all.label "అన్నిటిని ఎంచుకొనుము">
+<!ENTITY cmd.select_all.accesskey "A">
+<!ENTITY cmd.select_all.key "a">
+
+<!ENTITY cmd.edit_cut.label         "కత్తిరించు">
+<!ENTITY cmd.edit_cut.accesskey     "t">
+<!ENTITY cmd.edit_cut.key           "x">
+<!ENTITY cmd.edit_copy.label        "నకలుతీయి">
+<!ENTITY cmd.edit_copy.accesskey    "C">
+<!ENTITY cmd.edit_copy.key          "c">
+<!ENTITY cmd.edit_paste.label       "అతికించు">
+<!ENTITY cmd.edit_paste.accesskey   "P">
+<!ENTITY cmd.edit_paste.key         "v">
+<!ENTITY cmd.edit_delete.label      "తొలగించు">
+<!ENTITY cmd.edit_delete.accesskey  "D">
+<!ENTITY cmd.edit_undo.label        "చేయవద్దు">
+<!ENTITY cmd.edit_undo.accesskey    "U">
+<!ENTITY cmd.edit_undo.key          "z">
+<!ENTITY cmd.edit_redo.label        "మళ్ళీచేయి">
+<!ENTITY cmd.edit_redo.accesskey    "R">
+<!ENTITY cmd.edit_redo.key          "y">
+
+<!ENTITY cmd.open.label                  "తెరువు">
+<!ENTITY cmd.open.accesskey              "O">
+<!ENTITY cmd.open_window.label           "కొత్త విండోనందు తెరువుము">
+<!ENTITY cmd.open_window.accesskey       "N">
+<!ENTITY cmd.open_tab.label              "కొత్త టాబ్‌నందు తెరువుము">
+<!ENTITY cmd.open_tab.accesskey          "w">
+<!ENTITY cmd.open_all_in_tabs.label      "అన్ని టాబ్‌లను తెరువుము">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
+
+<!ENTITY cmd.properties.label      "లక్షణములు">
+<!ENTITY cmd.properties.accesskey  "i">
+
+<!ENTITY cmd.show_info.key  "i">
+
+<!ENTITY cmd.rename.label      "పునఃనామకరణ">
+<!ENTITY cmd.rename.accesskey  "R">
+
+<!ENTITY cmd.sortby_name.label              "నామము ద్వారా క్రమపరచు">
+<!ENTITY cmd.sortby_name.accesskey          "S">
+<!ENTITY cmd.context_sortby_name.accesskey  "r">
+
+<!ENTITY cmd.new_bookmark.label            "కొత్త ఇష్టాంశము…">
+<!ENTITY cmd.new_bookmark.accesskey        "B">
+<!ENTITY cmd.new_livemark.label            "కొత్త లైవ్ ఇష్టాంశము…">
+<!ENTITY cmd.new_livemark.accesskey        "L">
+<!ENTITY cmd.new_folder.label              "కొత్త సంచయం…">
+<!ENTITY cmd.new_folder.accesskey          "o">
+<!ENTITY cmd.context_new_folder.accesskey  "F">
+<!ENTITY cmd.new_separator.label           "కొత్త సెపరేటర్">
+<!ENTITY cmd.new_separator.accesskey       "S">
+
+<!ENTITY cmd.reloadLivebookmark.label      "లైవ్ ఇష్టాంశమును తిరిగిలోడ్‌చేయి">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
+<!ENTITY cmd.reloadMicrosummary.label      "లైవ్ శీర్షికను తిరిగిలోడ్‌చేయి">
+<!ENTITY cmd.reloadMicrosummary.accesskey  "R">
+
+<!ENTITY cmd.groupby_site.label      "సైట్‌ననుసరించి సమూహంచేయి">
+<!ENTITY cmd.groupby_site.accesskey  "S">
+<!ENTITY cmd.groupby_page.label      "పేజీననుసరించి సమూహంచేయి">
+<!ENTITY cmd.groupby_page.accesskey  "P">
+<!ENTITY cmd.groupby_feed.label      "సబ్‌స్క్రిప్షన్ అనుసరించి  సమూహంచేయి">
+<!ENTITY cmd.groupby_feed.accesskey  "S">
+<!ENTITY cmd.groupby_post.label      "పోస్ట్‍‌ననుసరించి సమూహంచేయి">
+<!ENTITY cmd.groupby_post.accesskey  "P">
+
+<!ENTITY cmd.moveBookmarks.label                  "కదుపు…">
+<!ENTITY cmd.moveBookmarks.accesskey              "M">
+
+<!ENTITY col.name.label          "నామము">
+<!ENTITY col.tags.label          "టాగ్స్‍‌">
+<!ENTITY col.url.label           "స్థానము">
+<!ENTITY col.lastvisit.label     "తేదీ దర్శించు">
+<!ENTITY col.visitcount.label    "కౌంట్ దర్శించు">
+<!ENTITY col.keyword.label       "కీపదము">
+<!ENTITY col.description.label   "వివరణ">
+<!ENTITY col.dateadded.label     "జతచేయబడింది">
+<!ENTITY col.lastmodified.label  "చివరిగా సవరించిన">
+
+<!ENTITY search.label                              "శోధించు:">
+<!ENTITY search.accesskey                          "S">
+<!ENTITY search.collection.label                   "ప్రస్తుత సంకలనం మాత్రమే">
+<!ENTITY search.collection.accesskey               "C">
+<!ENTITY search.allBookmarks.label                 "అన్ని ఇష్టాంశములు">
+<!ENTITY search.allBookmarks.accesskey             "A">
+<!ENTITY search.scopeFolder.label                  "ఎంపికచేసిన సంచయం">
+<!ENTITY search.scopeFolder.accesskey              "F">
+<!ENTITY search.scopeAll.label                     "అన్ని ఇష్టాంశములు">
+<!ENTITY search.scopeAll.accesskey                 "A">
+<!ENTITY search.scopeMenu.label                    "ఇష్టాంశముల జాబితా">
+<!ENTITY search.scopeMenu.accesskey                "M">
+<!ENTITY search.scopeToolbar.label                 "ఇష్టాంశముల సాధనపట్టీ">
+<!ENTITY search.scopeToolbar.accesskey             "T">
+<!ENTITY search.scopeDownloads.label               "డౌన్‌లోడ్స్‍‌">
+<!ENTITY search.scopeDownloads.accesskey           "D">
+<!ENTITY search.scopeHistory.label                 "చరిత్ర">
+<!ENTITY search.scopeHistory.accesskey             "A">
+<!ENTITY search.scopeBarExpanderDown.tooltip       "శోధన బుల్డర్‌ను చూపుము">
+<!ENTITY search.scopeBarExpanderUp.tooltip         "శోధన బుల్డర్‌ను మరుగుపరచుము">
+<!ENTITY saveSearch.label                          "భద్రపరచు">
+<!ENTITY saveSearch.accesskey                      "S">
+<!ENTITY moreCriteria.label                        "+">
+<!ENTITY advancedSearch.onlybookmarked.label       "ఇష్టాంశములను మాత్రమే శోధించు">
+<!ENTITY advancedSearch.match.label                "సరిపోలిక ">
+<!ENTITY advancedSearch.all.label                  "అన్ని">
+<!ENTITY advancedSearch.any.label                  "ఏదైనా">
+<!ENTITY advancedSearch.rules.label                " క్రింది నియమాల యొక్క:">
+<!ENTITY advancedSearch.subj_keyword.label         "పాఠ్యమును కలిగివుంది">
+<!ENTITY advancedSearch.subj_visited.label         "దర్శించిన">
+<!ENTITY advancedSearch.subj_location.label        "స్థానము">
+<!ENTITY advancedSearch.location_startswith.label  "దీనితో ప్రారంభించిన">
+<!ENTITY advancedSearch.location_is.label          "వున్నది">
+<!ENTITY advancedSearch.location_onsite.label      "సైటుపైన వున్నది">
+<!ENTITY advancedSearch.time_is.label              "కు">
+<!ENTITY advancedSearch.time_before.label          "ముందల">
+<!ENTITY advancedSearch.time_after.label           "తర్వాత">
+<!ENTITY advancedSearch.time_inlast.label          "గత">
+<!ENTITY advancedSearch.last_days.label            "రోజులు">
+<!ENTITY advancedSearch.last_weeks.label           "వారాలు">
+<!ENTITY advancedSearch.last_months.label          "నెలలు">
+<!ENTITY advancedSearch.plus.label                 "+">
+<!ENTITY advancedSearch.minus.label                "-">
+<!ENTITY advancedSearch.groupby.label              "సమూహంగా: ">
+<!ENTITY advancedSearch.groupby_host.label         "హోస్ట్‍‌">
+<!ENTITY advancedSearch.groupby_domain.label       "డొమైన్">
+<!ENTITY advancedSearch.groupby_folder.label       "సంచయం">
+<!ENTITY advancedSearch.sortby.label               "దీనితో క్రమపరచు: ">
+<!ENTITY advancedSearch.sortby_title.label         "శీర్షిక">
+<!ENTITY advancedSearch.sortby_date.label          "తేది">
+<!ENTITY advancedSearch.sortby_visit.label         "కౌంట్ దర్శించు">
+<!ENTITY advancedSearch.sortby_url.label           "url">
+<!ENTITY advancedSearch.sortby_asc.label           "ఆరోహణ">
+<!ENTITY advancedSearch.sortby_desc.label          "అవరోహణ">
+<!ENTITY advancedSearch.max.label                  "గరిష్ట ఫలితాలు: ">
+
+<!ENTITY cmd.find.key  "f">
+
+<!ENTITY feed.subscribe.label    "ఫీడ్">
+<!ENTITY feed.subscribe.tooltip  "సబ్‌స్క్రైబ్">
+
+<!ENTITY view.detailsMacOSX.label  "జాబితా">
+<!ENTITY view.details.label        "వివరములు">
+<!ENTITY view.details.accesskey    "D">
+
+<!ENTITY view.addons.label   "యాడ్-ఆన్స్‍‌ను దర్శించు">
+
+<!ENTITY maintenance.label      "దిగుమతిచేయి మరియు బ్యాక్అప్‌చేయి">
+<!ENTITY maintenance.accesskey  "I">
+
+<!ENTITY backCmd.label       "వెనుకకు">
+<!ENTITY backCmd.accesskey   "B">
+<!ENTITY backButton.tooltip  "వెనుకకు వెళ్ళు">
+
+<!ENTITY forwardCmd.label       "ముందుకు">
+<!ENTITY forwardCmd.accesskey   "F">
+<!ENTITY forwardButton.tooltip  "ముందుకు వెళ్ళు">
+
+<!ENTITY detailsPane.more.label "ఎక్కువ">
+<!ENTITY detailsPane.more.accesskey "e">
+<!ENTITY detailsPane.less.label "తక్కువ">
+<!ENTITY detailsPane.less.accesskey "e">
+<!ENTITY detailsPane.noPreviewAvailable.label "ఉపదర్శనం">
+<!ENTITY detailsPane.selectAnItemText.description "అంశము యొక్క లక్షణములను దర్శించుటకు మరియు సరిచేయుటకు ఎంపికచేయుము">

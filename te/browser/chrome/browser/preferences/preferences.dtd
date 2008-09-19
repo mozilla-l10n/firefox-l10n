@@ -1,0 +1,13 @@
+<!ENTITY  prefWindow.titleWin     "ఇచ్చికాలు">
+<!ENTITY  prefWindow.titleGNOME   "&brandShortName; అభీష్టాలు">
+
+<!ENTITY  paneMain.title          "ప్రధాన">
+<!ENTITY  paneTabs.title          "టాబులు">
+<!ENTITY  paneContent.title       "విషయసంగ్రహం">
+<!ENTITY  panePrivacy.title       "ప్రైవసి">
+<!ENTITY  paneSecurity.title      "రక్షణ">
+<!ENTITY  paneAdvanced.title      "అధునాతన">
+<!ENTITY  prefWin.styleWin2       "వెడల్పు: 42em; కనీస-ఎత్తు: 39em;">
+<!ENTITY  prefWin.styleMac2       "వెడల్పు: 47em; కనీస-ఎత్తు: 40em;">
+<!ENTITY  prefWin.styleGNOME2     "వెడల్పు: 42em; కనీస-ఎత్తు: 39.5em;">
+<!ENTITY  paneApplications.title  "అనువర్తనాలు">

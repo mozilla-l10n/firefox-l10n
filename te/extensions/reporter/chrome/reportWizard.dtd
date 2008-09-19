@@ -1,0 +1,59 @@
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title                         "ఒక విరిగిన  వెబ్ సైటు  నివేదిక">
+
+<!ENTITY privacyNotice.label                        "రహస్య   విధానం">
+<!ENTITY reportWizardPrivacy.description            "ఈ  సాధనం  మిమ్ములను  సరైనవిధంగా  &brandShortName;లో పనిచేయని,లేదా  మూసివేయు  &brandShortName; వెబ్ సైటుల గురించి  ఇవాజిలిజమ్  సమూహంకు  తెలిపే వీలుకలిపిస్తుంది.
+&brandShortName; వాడుకరుల కొరకు  మంచి  సాద్యమైన  అనుభవాలను  అందించుటకు మీరు మాకు ఈ విధంగా సహాయంచేయగలరు.మేము సేకరించిన  సమాచారాన్ని  ఎలావుపయోగిస్తామో  తెలుసుకొని  మీరు  భాగస్వాములు కావటానికి దయచేసి  ఒక్కసారి క్రిందిదానిని  చదవండి .">
+<!ENTITY reportWizardMustAgree.description          "కొనసాగించుటకు  మీరు పైనతెలిపిన  రహస్య  విధానాన్ని  వొప్పుకోవాలి">
+
+<!ENTITY dontShowPrivacyStatement.label             "నేను  పైన  తెలిపిన  రహస్య  ఒప్పందాన్ని చదివి  ఆమోదిస్తున్నాను.">
+<!ENTITY dontShowPrivacyStatement.accesskey         "I">
+
+<!ENTITY reportForm.label                           "వివేదికను నింపుము">
+
+<!ENTITY reportForm.description                     "మీరు  ఎదుర్కొన్న   సమస్య  గురించి  మాకు  కొంచెం  చెప్పండి:">
+<!ENTITY reportForm.url.title                       "వెబ్‌ సైటు URL:">
+
+<!ENTITY reportForm.behind_login.title              "వెబ్  సైటు  సంకేతపదం-రక్షణలో  వుంది"><!-- No ":" at the end -->
+<!ENTITY reportForm.behind_login.accesskey          "P">
+
+<!ENTITY reportForm.problem_type.title              "సమస్య రకం:">
+<!ENTITY reportForm.problem_type.accesskey          "T">
+
+<!ENTITY reportForm.problem_type.chooseOne.title    "ఒక దానిని  ఎంచుకో...">
+
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+<!ENTITY reportForm.problem_type.item1.title        "బ్రౌజర్  మద్దతు  నివ్వడంలేదు">
+<!ENTITY reportForm.problem_type.item2.title        "లాగ్‌ ఇన్  అవ్వలేదు">
+<!ENTITY reportForm.problem_type.item3.title        "ప్లగ్ఇన్  చూపబడుటలేదు">
+<!ENTITY reportForm.problem_type.item4.title        "ఇతర  విషయసంగ్రహం  తప్పిపోయింది">
+<!ENTITY reportForm.problem_type.item5.title        "నడవడిక  సరికాదు">
+<!ENTITY reportForm.problem_type.item6.title        "కనబడువిధానం  సరికాదు">
+<!ENTITY reportForm.problem_type.item7.title        "ఇతర  సమస్య">
+
+<!ENTITY reportForm.describe.title                  "సమస్యను  వివరించు:">
+<!ENTITY reportForm.describe.accesskey              "D">
+
+<!ENTITY reportForm.platform.title                  "ప్లాట్‌ఫాం:">
+<!ENTITY reportForm.product.title                   "ఉత్పత్తి:">
+<!ENTITY reportForm.gecko.title                     "Gecko:">
+<!ENTITY reportForm.useragent.title                 "యూజర్ఏజంట్:">
+<!ENTITY reportForm.language.title                  "భాష:">
+
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+<!ENTITY reportForm.email.title                     "ఈమెయిల్ (మీఇష్టం):">
+<!ENTITY reportForm.email.accesskey                 "E">
+
+<!ENTITY reportForm.privacyPolicy.title             "రహస్య  విధానం">
+<!ENTITY reportForm.privacyPolicy.tooltip           "రహస్య  విధానంను  దర్శించు">
+
+<!ENTITY reportResults.showDetail.title             "వివరాలను  చూపుము">
+<!ENTITY reportResults.showDetail.accesskey         "S">
+
+<!ENTITY sendReport.label                           "నివేదికను  పంపుతున్నది">
+<!ENTITY sendReport.description                     "సేవికకు  నివేదికను  పంపుతున్నది...">
+
+<!ENTITY finish.label                               "నివేదిక  పంపబడింది">
+<!ENTITY reportForm.url.accesskey                   "U">
+<!ENTITY reportForm.problem_type.item8.title        "అశక్తక ఎక్సిస్">
+<!ENTITY reportForm.problem_type.item9.title        "ముద్రించిన అవుట్‌పుట్ తప్పు">

@@ -1,0 +1,51 @@
+<!ENTITY printCmd.commandkey            "p">
+
+<!ENTITY findOnCmd.commandkey           "F">
+<!ENTITY findAgainCmd.commandkey        "G">
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
+
+<!ENTITY backButton.label               "వెనుకకు">
+<!ENTITY backButton.accesskey           "B">
+<!ENTITY backButton.tooltip             "ఒక  పేజీ వెనుకకు వెళ్ళు">
+<!ENTITY forwardButton.label            "ముందుకు">
+<!ENTITY forwardButton.accesskey        "F">
+<!ENTITY forwardButton.tooltip          "ఒక పేజీ ముందుకు వెళ్ళు">
+<!ENTITY copyCmd.label                  "నకలుతీయి">
+<!ENTITY copyCmd.accesskey              "C">
+<!ENTITY selectAllCmd.label             "అన్నిటిని ఎంపికచేయి">
+<!ENTITY selectAllCmd.accesskey         "A">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label               "నివాసం">
+<!ENTITY homeButton.tooltip             "సహాయం  యొక్క  ప్రారంభ పేజీకు  వెళ్ళు">
+<!ENTITY printButton.label              "ముద్రించు">
+<!ENTITY printButton.tooltip            "ఈ  పేజీను  ముద్రించు">
+<!ENTITY closeWindow.commandkey         "W">
+
+<!ENTITY searchtab.label    	  	"శోధించు">
+<!ENTITY searchtab.accesskey            "S">
+<!ENTITY toctab.label       	  	"విషయసంగ్రహాలు">
+<!ENTITY toctab.accesskey               "C">
+
+<!ENTITY helpSearch.commandkey          "k">
+
+<!ENTITY zLevel.label                   "ఎల్లప్పుడూ  పైనేవుంచు">
+<!ENTITY zLevel.accesskey               "T">
+<!ENTITY searchClose.tooltip            "శోధన పలితాలను మూయుము">
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+<!ENTITY fullZoomReduceBtn.label        "జూమ్ తగ్గించు">
+<!ENTITY fullZoomReduceBtn.accesskey    "O">
+<!ENTITY fullZoomEnlargeBtn.label       "జూమ్ చేయి">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "I">

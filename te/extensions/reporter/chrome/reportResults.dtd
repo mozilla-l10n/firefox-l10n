@@ -1,0 +1,15 @@
+<!ENTITY reportSite                  "సైటు">
+<!ENTITY reportProblemType           "సమస్య  రకం">
+<!ENTITY reportDecsription           "వివరణ">
+<!ENTITY reportPlatform              "ప్లాట్‌ఫాం">
+<!ENTITY reportProduct               "ఉత్పత్తి">
+<!ENTITY reportoscpu                 "OS">
+<!ENTITY reportGecko                 "Gecko">
+<!ENTITY reportBuildConfig           "బుల్డ్‍ కాన్ఫిగ్">
+<!ENTITY reportUseragent             "యూజర్  ఏజంటు">
+<!ENTITY reportLanguage              "భాష">
+<!ENTITY reportEmail                 "ఈటపా">
+<!ENTITY error                       "దోషము యొక్క  వివరాలు">
+<!ENTITY faultCode                   "కోడ్">
+<!ENTITY faultMessage                "సందేశం">
+<!ENTITY reportCharset               "కార్‌సెట్">
