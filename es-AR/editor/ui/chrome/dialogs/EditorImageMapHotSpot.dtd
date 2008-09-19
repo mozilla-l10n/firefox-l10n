@@ -41,12 +41,12 @@
 
 <!ENTITY windowTitle.label "Hotspot Properties">
 
-<!ENTITY link.label				"Hotspot Link">
-<!ENTITY urlFieldset.label		"Hotspot URL:">
-<!ENTITY altFieldset.label		"Hotspot Alt Text:">
+<!ENTITY link.label				"Enlace de área sensible">
+<!ENTITY urlFieldset.label		"URL de área sensible:">
+<!ENTITY altFieldset.label		"Texto alt de área sensible:">
 <!ENTITY browseButton.label		"Examinar...">
-<!ENTITY targetFieldset.label	"Target Setting">
-<!ENTITY target.label			"Hotspot Target">
+<!ENTITY targetFieldset.label	"Establecer destino">
+<!ENTITY target.label			"Destino de área sensible">
 
 <!-- Targets -->
 <!ENTITY commonFieldset.label	"Destinos comunes:">

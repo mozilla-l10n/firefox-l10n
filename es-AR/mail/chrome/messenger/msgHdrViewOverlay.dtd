@@ -47,29 +47,33 @@
 <!ENTITY bccField.label "CCO: ">
 <!ENTITY newsgroupsField.label "Grupos de noticias: ">
 <!ENTITY followupToField.label "Redireccionar a: ">
-
+<!ENTITY tagsHdr.label "Tags: ">
 <!ENTITY dateField.label "Fecha: ">
 <!ENTITY userAgentField.label "Agente de usuario:">
-<!ENTITY originalWebsite.label "Sitio web:">
-<!ENTITY saveAll.label "Guardar todos...">
+<!ENTITY referencesField.label "Referencias: ">
+<!ENTITY messageIdField.label "ID del mensaje: ">
+<!ENTITY inReplyToField.label "En respues a: ">
+<!ENTITY originalWebsite.label "Pagina Web">
+<!ENTITY saveAll.label "Guardar todo...">
 
 <!ENTITY editMessage.label "Editar borrador...">
-<!ENTITY attachmentsTree.label "Adjuntos:">
 
 <!ENTITY openAttachmentCmd.label "Abrir">
 <!ENTITY openAttachmentCmd.accesskey "b">
 <!ENTITY saveAsAttachmentCmd.label "Guardar como...">
 <!ENTITY saveAsAttachmentCmd.accesskey "a">
-<!ENTITY printAttachmentCmd.label ".Imprimir">
-<!ENTITY printAttachmentCmd.accesskey "p">
 <!ENTITY detachAttachmentCmd.label    "Despegar ...">  
 <!ENTITY deleteAttachmentCmd.label    "Borrar">  
+<!ENTITY saveAllAttachmentsCmd.label    "Guardar todo…">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "g">
 <!ENTITY detachAllAttachmentsCmd.label    "Despegar todo...">  
 <!ENTITY detachAllAttachmentsCmd.accesskey    "D">  
 <!ENTITY deleteAllAttachmentsCmd.label    "Borrar todo...">  
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "r">  
-<!ENTITY saveAllAttachmentsCmd.label "Guardar todo...">
-<!ENTITY saveAllAttachmentsCmd.accesskey "G">
 
 <!ENTITY copyLinkCmd.label "Copiar dirección del enlace">
 <!ENTITY copyLinkCmd.accesskey "C">
+
+<!ENTITY CopyMessageId.label "Copiar ID del mensaje">
+<!ENTITY OpenMessageForMsgId.label "Abrir mensaje para ID">
+<!ENTITY OpenBrowserWithMsgId.label "Abrir navegador con ID del mensaje">
