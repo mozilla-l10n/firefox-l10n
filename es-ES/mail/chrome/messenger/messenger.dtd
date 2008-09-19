@@ -36,6 +36,8 @@
 <!ENTITY sendUnsentCmd.accesskey "o">
 <!ENTITY subscribeCmd.label "Suscribirse…">
 <!ENTITY subscribeCmd.accesskey "b">
+<!ENTITY deleteFolder.label "Eliminar carpeta">
+<!ENTITY deleteFolder.accesskey "E">
 <!ENTITY renameFolder.label "Renombrar carpeta…">
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2">
@@ -581,10 +583,10 @@
 <!ENTITY junkBarButton1.label "No es basura">
 <!ENTITY junkInfoButton.label "?">
 <!ENTITY remoteContentMessage1.label "Para proteger su privacidad, las imágenes remotas han sido bloqueadas.">
-<!ENTITY loadRemoteContentButton1.label "Cargar imágenes">
-<!ENTITY phishingBarMessage1.label "Posible mensaje fraudulento">
+<!ENTITY loadRemoteContentButton2.label "Mostrar ahora las imágenes">
+<!ENTITY phishingBarMessage2.label "Este mensaje puede ser fraudulento.">
 <!ENTITY removePhishingBarButton1.label "Ignorar advertencia">
-<!ENTITY reportPhishingError.label "Éste no es un mensaje fraudulento">
+<!ENTITY reportPhishingError1.label "Este mensaje no parece ser fraudulento.">
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY AddToAddressBook.label "Añadir a la libreta de direcciones…">
 <!ENTITY AddToAddressBook.accesskey "b">
