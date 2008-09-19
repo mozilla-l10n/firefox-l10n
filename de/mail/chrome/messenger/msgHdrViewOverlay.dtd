@@ -35,28 +35,41 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField.label "An: ">
-<!ENTITY fromField.label "Von: ">
-<!ENTITY senderField.label "Sender: ">
-<!ENTITY organizationField.label "Organisation:">
-<!ENTITY replyToField.label "Antwort an: ">
+<!ENTITY toField2.label "An ">
+<!ENTITY fromField2.label "Von ">
+<!ENTITY senderField2.label "Sender ">
+<!ENTITY organizationField2.label "Organisation ">
+<!ENTITY replyToField2.label "Antwort an ">
 
-<!ENTITY subjectField.label "Betreff: ">
+<!ENTITY subjectField2.label "Betreff ">
 <!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField.label "CC: ">
-<!ENTITY bccField.label "BCC: ">
-<!ENTITY newsgroupsField.label "Newsgruppen:">
-<!ENTITY followupToField.label "Followup an: ">
-<!ENTITY tagsHdr.label "Schlagwörter: ">
-<!ENTITY dateField.label "Datum: ">
-<!ENTITY userAgentField.label "User-Agent: ">
-<!ENTITY referencesField.label "Referenzen: ">
-<!ENTITY messageIdField.label "Nachrichten-ID: ">
-<!ENTITY inReplyToField.label "Als-Antwort-auf: ">
-<!ENTITY originalWebsite.label "Webseite:">
+<!ENTITY ccField2.label "CC ">
+<!ENTITY bccField2.label "BCC ">
+<!ENTITY newsgroupsField2.label "Newsgruppen ">
+<!ENTITY followupToField2.label "Followup an ">
+<!ENTITY tagsHdr2.label "Schlagwörter ">
+<!ENTITY dateField2.label "Datum ">
+<!ENTITY userAgentField2.label "User-Agent ">
+<!ENTITY referencesField2.label "Referenzen ">
+<!ENTITY messageIdField2.label "Nachrichten-ID ">
+<!ENTITY inReplyToField2.label "Als-Antwort-auf ">
+<!ENTITY originalWebsite2.label "Webseite ">
 <!ENTITY saveAll.label "Alles speichern…">
 
-<!ENTITY editMessage.label "Entwurf bearbeiten…">
+<!ENTITY editMessageDescription.label "Dies ist ein Nachrichten-Entwurf">
+<!ENTITY editMessageButton.label "Bearbeiten…">
+<!ENTITY replyButton.label "Antworten…">
+<!ENTITY forwardButton.label "Weiterleiten…">
+<!ENTITY junkButton.label "Als Junk markieren">
+<!ENTITY trashButton.tooltiptext "Löschen">
+
+<!ENTITY otherActionsButton.label "other actions">
+<!ENTITY saveAsMenuItem.label "save as…">
+<!ENTITY saveAsMenuItem.accesskey "S">
+<!ENTITY viewSourceMenuItem.label "view source…">
+<!ENTITY viewSourceMenuItem.accesskey "V">
+
+<!ENTITY hideDetailsButton.label "hide details">
 
 <!ENTITY openAttachmentCmd.label    "Öffnen">  
 <!ENTITY openAttachmentCmd.accesskey		"f">  

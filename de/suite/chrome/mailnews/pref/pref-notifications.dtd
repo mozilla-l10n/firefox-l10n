@@ -43,7 +43,7 @@
 <!ENTITY showAnimatedAlert.label          "Warnung anzeigen">
 <!ENTITY showAnimatedAlert.accesskey      "W">
 <!ENTITY showTrayIcon.label               "Ein Tray-Symbol anzeigen">
-<!ENTITY showTrayIcon.accesskey           "E">
+<!ENTITY showTrayIcon.accesskey           "T">
 <!ENTITY bounceSystemDockIcon.label       "Dock-Icon animieren">
 <!ENTITY bounceSystemDockIcon.accesskey   "D">
 <!ENTITY preview.label                    "Vorschau">
@@ -53,5 +53,5 @@
 <!ENTITY customsound.label                "Benutzerdefinierte Klang-Datei">
 <!ENTITY customsound.accesskey            "B">
 <!ENTITY browse.label                     "Durchsuchen…">
-<!ENTITY browse.accesskey                 "D">
+<!ENTITY browse.accesskey                 "u">
 <!ENTITY browse.title                     "Datei wählen">
