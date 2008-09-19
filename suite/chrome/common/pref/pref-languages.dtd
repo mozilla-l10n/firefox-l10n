@@ -1,34 +1,20 @@
 <!ENTITY languages.customize.prefLangDescript "Las páginas web están a veces disponibles en más de un idioma. Escoja los idiomas en los que prefiere ver las páginas web, en orden de preferencia.">
-<!ENTITY languages.customize.lHeader "Idiomas">
-<!ENTITY languages.customize.rHeader "Idiomas en los que se muestran las páginas web">
+<!ENTITY languages.customize.title "Idiomas">
 <!ENTITY langtitle.label "Idiomas para páginas web">
 <!ENTITY languages.customize.prefAddLangDescript "Seleccione los idiomas que quiera añadir.">
-<!ENTITY languages.customize.engOrder.label "1">
-<!ENTITY languages.customize.engOption.label "Inglés">
 <!ENTITY languages.customize.addButton.label "Añadir…">
 <!ENTITY languages.customize.addButton.accesskey "A">
 <!ENTITY languages.customize.deleteButton.label "Eliminar">
 <!ENTITY languages.customize.deleteButton.accesskey "R">
-<!ENTITY languages.customize.title.label "Personalizar idiomas">
 <!ENTITY languages.customize.add.title.label "Añadir idiomas">
-<!ENTITY languages.customize.left.header "Codificación de caracteres">
-<!ENTITY charset.customize.right.header "Seleccione las codificaciones de caracteres admitidas">
 <!ENTITY languages.customize.available.label "Idiomas:">
 <!ENTITY languages.customize.active.label "Idiomas en orden de preferencia:">
-<!ENTITY languages.customize.reorder.label "Reordenar">
-<!ENTITY languages.customize.remove.label "Eliminar">
-<!ENTITY languages.customize.additional.label "Conjuntos de caracteres disponibles">
-<!ENTITY languages.customize.add.label "Añadir">
 <!ENTITY languages.customize.others.label "Otros:">
 <!ENTITY languages.customize.others.accesskey "O">
-<!ENTITY languages.customize.Charset.grouplabel "Codificación de caracteres">
+<!ENTITY languages.customize.Charset.grouplabel "Codif. caracteres predeterminada">
 <!ENTITY languages.customize.DefaultCharset.label "Codificación predet.:">
 <!ENTITY languages.customize.DefaultCharset.accesskey "C">
 <!ENTITY languages.customize.others.examples "ej.: en-bz, ar-jo">
-<!ENTITY languages.customize.cancel.label "Cancelar">
-<!ENTITY languages.customize.save.label "Guardar">
-<!ENTITY languages.customize.ok.label "Aceptar">
-<!ENTITY languages.customize.save.popup "Por favor, reinicie el navegador para que los cambios tengan efecto…">
 <!ENTITY languages.customize.moveUp.label "Arriba">
 <!ENTITY languages.customize.moveUp.accesskey "A">
 <!ENTITY languages.customize.moveDown.label "Abajo">
