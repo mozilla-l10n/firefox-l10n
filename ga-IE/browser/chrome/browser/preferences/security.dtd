@@ -4,15 +4,15 @@
   The methods by which forged (phished) and attack sites will be detected by
   phishing providers will vary from human review to machine-based heuristics to a
   combination of both, so it's important that these strings and
-  useDownloadedList.label convey the meaning "suspected" (and not something like
+  useDownloadedList.label convey the meaning "reported" (and not something like
   "known").
 -->
 
-<!ENTITY tellMaybeAttackSite.label "Inis dom má tá amhras ar an suíomh ar a bhfuil mé ag féachaint faoi bheith ina shuíomh ionsaithe.">
-<!ENTITY tellMaybeAttackSite.accesskey "s">
+<!ENTITY tellMaybeAttackSite2.label "Cuir cosc ar shuímh ionsaithe">
+<!ENTITY tellMaybeAttackSite.accesskey "k">
 
-<!ENTITY tellMaybeForgery.label "Inis dom má tá an suíomh ar a bhfuil mé ag amharc ina chamscéim">
-<!ENTITY tellMaybeForgery.accesskey "I">
+<!ENTITY tellMaybeForgery2.label "Cuir cosc ar fhalsaíocht Ghréasáin">
+<!ENTITY tellMaybeForgery.accesskey "B">
 
 <!ENTITY addonExceptions.label "Eisceachtaí…">
 <!ENTITY addonExceptions.accesskey "E">
