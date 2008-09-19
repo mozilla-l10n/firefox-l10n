@@ -16,14 +16,14 @@
 <!ENTITY radioNotSend                     "Nein">
 <!ENTITY radioNotSend.accesskey           "N">
 <!ENTITY radioAskUnsent                   "Nachfragen">
-<!ENTITY radioAskUnsent.accesskey         "N">
+<!ENTITY radioAskUnsent.accesskey         "c">
 <!ENTITY textGoingOffline                 "Nachrichten beim Offline gehen für den Offline-Gebrauch herunterladen?">
 <!ENTITY radioAutoDownload                "Ja">
-<!ENTITY radioAutoDownload.accesskey      "J">
+<!ENTITY radioAutoDownload.accesskey      "a">
 <!ENTITY radioNotDownload                 "Nein">
-<!ENTITY radioNotDownload.accesskey       "N">
+<!ENTITY radioNotDownload.accesskey       "e">
 <!ENTITY radioAskDownload                 "Nachfragen">
-<!ENTITY radioAskDownload.accesskey       "N">
+<!ENTITY radioAskDownload.accesskey       "h">
 <!ENTITY Diskspace                        "Speicherplatz">
 <!ENTITY offlineCompact.label             "Ordner komprimieren, wenn das mehr spart als">
 <!ENTITY offlineCompact.accesskey         "O">

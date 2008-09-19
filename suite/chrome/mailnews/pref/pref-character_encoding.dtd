@@ -46,6 +46,6 @@
 <!ENTITY useMIME.label                   "Für Nachrichten, die 8-bit-Zeichen verwenden, 'Quoted Printable' MIME-Kodierung verwenden. Lassen Sie diese Option ausgeschaltet, um die Nachricht wie vorhanden zu senden.">
 <!ENTITY useMIME.accesskey               "F">
 <!ENTITY sendDefaultCharset.label        "Standard-Zeichensatz:">
-<!ENTITY sendDefaultCharset.accesskey    "S">
+<!ENTITY sendDefaultCharset.accesskey    "Z">
 <!ENTITY replyInDefaultCharset2.label    "Wenn möglich, diesen Standard-Zeichensatz in Antworten verwenden. (Wird dies nicht ausgewählt, so verwenden nur neue Nachrichten diesen Standard.)">
 <!ENTITY replyInDefaultCharset2.accesskey "W">

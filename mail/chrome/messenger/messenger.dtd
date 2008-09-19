@@ -41,6 +41,8 @@
 <!ENTITY sendUnsentCmd.accesskey "P">
 <!ENTITY subscribeCmd.label "Abonnieren…">
 <!ENTITY subscribeCmd.accesskey "a">
+<!ENTITY deleteFolder.label "Ordner löschen">
+<!ENTITY deleteFolder.accesskey "l">
 <!ENTITY renameFolder.label "Ordner umbenennen…">
 <!ENTITY renameFolder.accesskey "u">
 <!ENTITY renameFolder.key "VK_F2"> 
@@ -442,6 +444,7 @@
 <!ENTITY backButton1.label "Zurück">
 <!ENTITY goForwardButton1.label "Vor">
 <!ENTITY deleteButton.label "Löschen">
+<!ENTITY undeleteButton.label "Wiederherstellen">
 <!ENTITY markButton.label "Markieren">
 <!ENTITY printButton.label "Drucken">
 <!ENTITY stopButton.label "Stopp">
@@ -470,6 +473,7 @@
 <!ENTITY goForwardButton.tooltip "Eine Nachricht vorwärts in der Chonik der angesehenen Nachrichten">
 <!ENTITY goBackButton.tooltip "Eine Nachricht zurück in der Chonik der angesehenen Nachrichten">
 <!ENTITY deleteButton.tooltip "Gewählte Nachricht(en) oder Ordner löschen">
+<!ENTITY undeleteButton.tooltip "Gewählte Nachricht(en) nicht löschen">
 <!ENTITY markButton.tooltip "Gewählte Nachricht(en) markieren">
 <!ENTITY printButton.tooltip "Gewählte Nachricht(en) drucken">
 <!ENTITY stopButton.tooltip "Aktuelle Übertragung stoppen">
@@ -623,12 +627,12 @@
 
 <!-- Remote Content Bar -->
 <!ENTITY remoteContentMessage1.label "Das Nachladen externer Grafiken wurde blockiert, um Ihre Privatsphäre zu schützen.">
-<!ENTITY loadRemoteContentButton1.label "Grafiken laden">
+<!ENTITY loadRemoteContentButton2.label "Grafiken jetzt anzeigen">
 
 <!-- Phishing Bar -->
-<!ENTITY phishingBarMessage1.label "Diese Nachricht könnte ein Betrugsversuch (Phishing) sein.">
+<!ENTITY phishingBarMessage2.label "Diese Nachricht könnte ein Betrugsversuch (Phishing) sein.">
 <!ENTITY removePhishingBarButton1.label "Warnung ignorieren">
-<!ENTITY reportPhishingError.label "Kein Betrugsversuch">
+<!ENTITY reportPhishingError1.label "Diese Nachricht ist scheinbar kein Betrugsversuch">
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">

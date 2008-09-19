@@ -45,7 +45,7 @@
 <!ENTITY findButton.label                  "Suchen">
 <!ENTITY findButton.accesskey              "S">
 <!ENTITY directorySecure.label             "Sichere Verbindung (SSL) verwenden">
-<!ENTITY directorySecure.accesskey         "S">
+<!ENTITY directorySecure.accesskey         "V">
 <!ENTITY directoryLogin.label              "DN binden:">
 <!ENTITY directoryLogin.accesskey          "D">
 <!ENTITY advancedOptionsButton.label       "Erweiterte Optionen">
@@ -57,15 +57,15 @@
 <!ENTITY portNumber.label                  "Port-Nummer:">
 <!ENTITY portNumber.accesskey              "P">
 <!ENTITY searchFilter.label                "Suchfilter:">
-<!ENTITY searchFilter.accesskey            "S">
+<!ENTITY searchFilter.accesskey            "c">
 <!ENTITY scope.label                       "Umfang:">
 <!ENTITY scope.accesskey                   "U">
 <!ENTITY scopeOneLevel.label               "Eine Ebene">
-<!ENTITY scopeOneLevel.accesskey           "E">
+<!ENTITY scopeOneLevel.accesskey           "i">
 <!ENTITY scopeSubtree.label                "Unterbaum">
-<!ENTITY scopeSubtree.accesskey            "U">
+<!ENTITY scopeSubtree.accesskey            "a">
 <!ENTITY return.label                      "Nicht mehr als">
-<!ENTITY return.accesskey                  "N">
+<!ENTITY return.accesskey                  "m">
 <!ENTITY results.label                     "Ergebnisse zurückgeben">
 <!ENTITY offlineText.label                 "Sie können eine lokale Kopie dieses Verzeichnisses herunterladen, sodass es verfügbar ist, wenn Sie offline arbeiten.">
 <!-- Localization note: this is here because the width of the dialog 
