@@ -36,16 +36,16 @@
    - ***** END LICENSE BLOCK ***** -->
   
 <!ENTITY newBookmark.title          "File Bookmark">
-<!ENTITY selectFolder.title         "Choose Folder">
-<!ENTITY name.label                 "Name:">
+<!ENTITY selectFolder.title         "Seleccionar carpeta">
+<!ENTITY name.label                 "Nombre:">
 <!ENTITY name.accesskey             "N">
-<!ENTITY url.label                  "Location:">
+<!ENTITY url.label                  "Dirección:">
 <!ENTITY url.accesskey              "L">
 <!ENTITY shortcutURL.label          "Keyword:">
 <!ENTITY shortcutURL.accesskey      "K">
-<!ENTITY destination.label          "Destination:">
+<!ENTITY destination.label          "Destino:">
 <!ENTITY destination.accesskey      "D">
-<!ENTITY newFolder.label            "New Folder…">
+<!ENTITY newFolder.label            "Nueva carpeta…">
 <!ENTITY newFolder.accesskey        "w">
-<!ENTITY addGroup.label             "Bookmark this group of tabs">
+<!ENTITY addGroup.label             "Marcar este grupo de pestañas">
 <!ENTITY addGroup.accesskey         "B">

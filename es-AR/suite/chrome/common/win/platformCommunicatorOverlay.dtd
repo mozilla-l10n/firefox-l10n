@@ -2,15 +2,15 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate "accel" or "shift",
                          You may want to translate the Cmd.key and accesskey --> 
 
-<!ENTITY closeCmd.label                 "Close">  
+<!ENTITY closeCmd.label                 "Cerrar">  
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "c">
 
-<!ENTITY quitApplicationCmd.label       "Exit"> 
+<!ENTITY quitApplicationCmd.label       "Salir"> 
 <!ENTITY quitApplicationCmd.key         "Q"> 
 <!ENTITY quitApplicationCmd.accesskey   "x">
 
-<!ENTITY redoCmd.label                  "Redo">  
+<!ENTITY redoCmd.label                  "Rehacer">  
 <!ENTITY redoCmd.key                    "Y">  
 <!ENTITY redoCmd.accesskey              "r">
 
@@ -20,10 +20,10 @@
 <!ENTITY accel.emacs_conflict           "accel">
 
 <!-- Help viewer -->
-<!ENTITY openHelpCmd.label              "Help Contents">
+<!ENTITY openHelpCmd.label              "Contenido de la ayuda">
 <!ENTITY openHelpCmd.accesskey          "H">
 <!ENTITY openHelpCmd.key                "VK_F1">
-<!ENTITY helpForIEUsers.label           "For Internet Explorer Users">
+<!ENTITY helpForIEUsers.label           "Para usuarios de Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey       "I">
 
 <!-- Key labels, for mousewheel prefs -->
