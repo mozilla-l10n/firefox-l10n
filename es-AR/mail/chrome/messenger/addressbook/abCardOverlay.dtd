@@ -36,7 +36,7 @@ The Initial Developer of the Original Code is
  ***** END LICENSE BLOCK ***** -->
  
 <!ENTITY Contact.tab "Contacto">
-<!ENTITY Contact.accesskey "C">
+<!ENTITY Contact.accesskey               "C">
 <!ENTITY Name.box "Nombre">
 
 <!-- LOCALIZATION NOTE: 
@@ -96,46 +96,51 @@ The Initial Developer of the Original Code is
 <!ENTITY CellularNumber.accesskey "M">
 
 <!ENTITY Address.tab "Dirección">
-<!ENTITY Address.accesskey              "D">
+<!ENTITY Address.accesskey              "A">
 <!ENTITY Home.box "Casa">
 <!ENTITY HomeAddress.label "Dirección:">
-<!ENTITY HomeAddress.accesskey "d">
-<!ENTITY HomeAddress2.label "">
-<!ENTITY HomeAddress2.accesskey "">
+<!ENTITY HomeAddress.accesskey          "d">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label "Ciudad:">
-<!ENTITY HomeCity.accesskey "i">
+<!ENTITY HomeCity.accesskey             "u">
 <!ENTITY HomeState.label "Provincia/estado:">
-<!ENTITY HomeState.accesskey "s">
-<!ENTITY HomeZipCode.label "Código postal / ZIP:">
-<!ENTITY HomeZipCode.accesskey "Z">
+<!ENTITY HomeState.accesskey            "S">
+<!ENTITY HomeZipCode.label "Código postal:">
+<!ENTITY HomeZipCode.accesskey          "Z">
 <!ENTITY HomeCountry.label "País:">
-<!ENTITY HomeCountry.accesskey "P">
+<!ENTITY HomeCountry.accesskey          "u">
 <!ENTITY HomeWebPage.label "Página web:">
-<!ENTITY HomeWebPage.accesskey "w">
+<!ENTITY HomeWebPage.accesskey          "W">
 <!ENTITY Work.box "Trabajo">
 <!ENTITY JobTitle.label "Puesto:">
-<!ENTITY JobTitle.accesskey "e">
+<!ENTITY JobTitle.accesskey             "e">
 <!ENTITY Department.label "Departamento:">
-<!ENTITY Department.accesskey "m">
+<!ENTITY Department.accesskey           "m">
 <!ENTITY Company.label "Organización:">
-<!ENTITY Company.accesskey "O">
+<!ENTITY Company.accesskey              "O">
 <!ENTITY WorkAddress.label "Dirección:">
-<!ENTITY WorkAddress.accesskey "r">
+<!ENTITY WorkAddress.accesskey          "r">
 <!ENTITY WorkAddress2.label "">
-<!ENTITY WorkAddress2.accesskey "">
+<!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label "Ciudad:">
-<!ENTITY WorkCity.accesskey "i">
+<!ENTITY WorkCity.accesskey             "i">
 <!ENTITY WorkState.label "Provincia/estado:">
-<!ENTITY WorkState.accesskey "v">
-<!ENTITY WorkZipCode.label "Código postal / ZIP:">
-<!ENTITY WorkZipCode.accesskey "p">
+<!ENTITY WorkState.accesskey            "v">
+<!ENTITY WorkZipCode.label "Código postal:">
+<!ENTITY WorkZipCode.accesskey          "P">
 <!ENTITY WorkCountry.label "País:">
-<!ENTITY WorkCountry.accesskey "s">
+<!ENTITY WorkCountry.accesskey          "n">
 <!ENTITY WorkWebPage.label "Página web:">
-<!ENTITY WorkWebPage.accesskey "b">
+<!ENTITY WorkWebPage.accesskey          "b">
 
 <!ENTITY Other.tab "Otros">
-<!ENTITY Other.accesskey "t">
+<!ENTITY Other.accesskey                "t">
+<!ENTITY Birthday.label                 "Cumpleaños:">
+<!ENTITY Birthday.accesskey             "C">
+<!ENTITY Year.emptytext                 "Año">
+<!ENTITY Or.value                       "o">
+<!ENTITY Age.emptytext                  "Edad">
 <!ENTITY Custom1.label "Personalizado 1:">
 <!ENTITY Custom1.accesskey "1">
 <!ENTITY Custom2.label "Personalizado 2:">
@@ -145,4 +150,4 @@ The Initial Developer of the Original Code is
 <!ENTITY Custom4.label "Personalizado 4:">
 <!ENTITY Custom4.accesskey "4">
 <!ENTITY Notes.box "Notas">
-<!ENTITY Notes.accesskey "N">
+<!ENTITY Notes.accesskey                "N">
