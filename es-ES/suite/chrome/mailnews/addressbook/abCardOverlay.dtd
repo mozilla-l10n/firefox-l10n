@@ -81,6 +81,11 @@
 <!ENTITY WorkWebPage.accesskey "b">
 <!ENTITY Other.tab "Otros">
 <!ENTITY Other.accesskey "O">
+<!ENTITY Birthday.label "Cumpleaños:">
+<!ENTITY Birthday.accesskey "C">
+<!ENTITY Year.emptytext "Año">
+<!ENTITY Or.value "o">
+<!ENTITY Age.emptytext "Edad">
 <!ENTITY Custom1.label "Personalizado 1:">
 <!ENTITY Custom1.accesskey "1">
 <!ENTITY Custom2.label "Personalizado 2:">
