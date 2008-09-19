@@ -40,22 +40,22 @@
   useDownloadedList.label convey the meaning "suspected" (and not something like
   "known").
 -->
-<!ENTITY  tellMaybeAttackSite.label     "Tikrinti, ar įtariama, jog lankoma svetainė yra kenkėjiška">
-<!ENTITY  tellMaybeAttackSite.accesskey "k">
+<!ENTITY  tellMaybeAttackSite2.label     "Blokuoti svetaines, laikomas kenkėjiškomis">
+<!ENTITY  tellMaybeAttackSite.accesskey  "k">
 
-<!ENTITY  tellMaybeForgery.label        "Tikrinti, ar įtariama, jog lankoma svetainė yra netikra (apsimetanti kita svetaine)">
-<!ENTITY  tellMaybeForgery.accesskey    "T">
+<!ENTITY  tellMaybeForgery2.label        "Blokuoti svetaines, laikomas netikromis (apsimetančiomis kitomis svetainėmis)">
+<!ENTITY  tellMaybeForgery.accesskey     "T">
 
-<!ENTITY  addonExceptions.label         "Išimtys…">
-<!ENTITY  addonExceptions.accesskey     "m">
+<!ENTITY  addonExceptions.label          "Išimtys…">
+<!ENTITY  addonExceptions.accesskey      "m">
 
 
-<!ENTITY  passwords.label               "Slaptažodžiai">
+<!ENTITY  passwords.label                "Slaptažodžiai">
 
-<!ENTITY  rememberPasswords.label       "Įsiminti svetainių slaptažodžius">
-<!ENTITY  rememberPasswords.accesskey   "m">
-<!ENTITY  passwordExceptions.label      "Išimtys…">
-<!ENTITY  passwordExceptions.accesskey  "m">
+<!ENTITY  rememberPasswords.label        "Įsiminti svetainių slaptažodžius">
+<!ENTITY  rememberPasswords.accesskey    "m">
+<!ENTITY  passwordExceptions.label       "Išimtys…">
+<!ENTITY  passwordExceptions.accesskey   "m">
 
 <!ENTITY  useMasterPassword.label        "Naudoti pagrindinį slaptažodį">
 <!ENTITY  useMasterPassword.accesskey    "N">
