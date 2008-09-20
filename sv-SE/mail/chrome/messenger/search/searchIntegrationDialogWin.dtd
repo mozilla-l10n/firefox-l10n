@@ -1,0 +1,6 @@
+<!ENTITY searchIntegration.engineName "Windows-sökning">
+<!ENTITY searchIntegration.title "&searchIntegration.engineName;-integration">
+<!ENTITY searchIntegration.description "Vill du låta &searchIntegration.engineName; att indexera och söka i &brandShortName;s e-post- och diskussionsgruppsmeddelanden?">
+
+<!ENTITY searchIntegration.accept "Enable &searchIntegration.engineName;">
+<!ENTITY searchIntegration.cancel "Don't Enable &searchIntegration.engineName;">
