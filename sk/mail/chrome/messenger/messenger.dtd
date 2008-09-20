@@ -38,6 +38,8 @@
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Prihlásiť k odberu…">
 <!ENTITY subscribeCmd.accesskey "b">
+<!ENTITY deleteFolder.label "Odstrániť priečinok">
+<!ENTITY deleteFolder.accesskey "d">
 <!ENTITY renameFolder.label "Premenovať priečinok…">
 <!ENTITY renameFolder.accesskey "r">
 <!ENTITY renameFolder.key "VK_F2">
@@ -439,6 +441,7 @@
 <!ENTITY backButton1.label "Prejsť naspäť">
 <!ENTITY goForwardButton1.label "Prejsť dopredu">
 <!ENTITY deleteButton.label "Odstrániť">
+<!ENTITY undeleteButton.label "Zrušiť odstránenie">
 <!ENTITY markButton.label "Označiť">
 <!ENTITY printButton.label "Tlačiť">
 <!ENTITY stopButton.label "Zastaviť">
@@ -470,6 +473,7 @@
 <!ENTITY goForwardButton.tooltip "Prejsť o jednu správu dopredu">
 <!ENTITY goBackButton.tooltip "Prejsť o jednu správu naspäť">
 <!ENTITY deleteButton.tooltip "Odstrániť označenú správu alebo priečinok">
+<!ENTITY undeleteButton.tooltip "Zrušiť odstránenie označenej správy">
 <!ENTITY markButton.tooltip "Označiť správy">
 <!ENTITY printButton.tooltip "Vytlačiť vybranú správu">
 <!ENTITY stopButton.tooltip "Zastaviť aktuálny prenos">
@@ -623,19 +627,21 @@
 
 <!-- Remote Content Bar -->
 <!ENTITY remoteContentMessage1.label "Na ochranu vášho súkromia boli vzdialené obrázky zablokované.">
-<!ENTITY loadRemoteContentButton1.label "Načítať obrázky">
+<!ENTITY loadRemoteContentButton2.label "Zobraziť obrázky">
 
 <!-- Phishing Bar -->
-<!ENTITY phishingBarMessage1.label "Podozrivá správa">
+<!ENTITY phishingBarMessage2.label "Toto môže byť podvodná správa.">
 <!ENTITY removePhishingBarButton1.label "Ignorovať upozornenie">
-<!ENTITY reportPhishingError.label "Toto nie je podvodná správa">
+<!ENTITY reportPhishingError1.label "Zdá sa, že toto nie je podvodná správa.">
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
 
 <!-- Message Header Context Menu -->
-<!ENTITY AddToAddressBook.label "Pridať adresu do Adresára">
+<!ENTITY AddToAddressBook.label "Pridať do Adresára">
 <!ENTITY AddToAddressBook.accesskey "A">
+<!ENTITY AddDirectlyToAddressBook.label "Pridať do Adresára">
+<!ENTITY AddDirectlyToAddressBook.accesskey "A">
 <!ENTITY EditContact.label "Upraviť kontakt…">
 <!ENTITY EditContact.accesskey "U">
 <!ENTITY ViewContact.label "Zobraziť kontakt">
@@ -652,10 +658,10 @@
 <!ENTITY reportPhishingURL.accesskey "N">
 
 <!-- Content Pane Context Menu -->
-<!ENTITY saveLinkCmd.label "Uložiť cieľ odkazu">
-<!ENTITY saveLinkCmd.accesskey "c">
-<!ENTITY saveImageCmd.label "Uložiť obrázok">
-<!ENTITY saveImageCmd.accesskey "b">
+<!ENTITY saveLinkAsCmd.label "Uložiť cieľ odkazu ako…">
+<!ENTITY saveLinkAsCmd.accesskey "c">
+<!ENTITY saveImageAsCmd.label "Uložiť obrázok ako…">
+<!ENTITY saveImageAsCmd.accesskey "b">
 <!ENTITY copyCmd.label "Kopírovať">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY selectAllCmd.label "Vybrať všetko">

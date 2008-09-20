@@ -186,7 +186,7 @@
 <!ENTITY goNextCmd.day.label                    "Nasledujúci deň">
 <!ENTITY goNextCmd.week.label                   "Nasledujúci týždeň">
 <!ENTITY goNextCmd.month.label                  "Nasledujúci mesiac">
-<!ENTITY goNextCmd.all.accesskey                "N">
+<!ENTITY goNextCmd.all.accesskey                "a">
 
 <!ENTITY toolsMenu.label                        "Nástroje">
 <!ENTITY toolsMenu.accesskey                    "N">

@@ -18,7 +18,7 @@
 <!ENTITY markAsReadDelay.label          "Po">
 <!ENTITY markAsReadDelay.accesskey      "o">
 <!ENTITY secondsLabel.label             "sekundách od zobrazenia">
-<!ENTITY showFolderColumns.label        "Zobraziť rozbalené stĺpce v paneli priečinkov">
+<!ENTITY showFolderColumns.label        "Zobraziť stĺpce v paneli priečinkov">
 <!ENTITY showFolderColumns.accesskey    "Z">
 <!ENTITY rememberLastMsg.label          "Pamätať si naposledy označenú správu">
 <!ENTITY rememberLastMsg.accesskey      "s">
