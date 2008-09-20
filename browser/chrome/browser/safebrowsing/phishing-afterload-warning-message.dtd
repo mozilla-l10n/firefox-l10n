@@ -15,8 +15,6 @@
 <!ENTITY safeb.palm.notforgery.label2 "Dette er ikkje ei forfalsking">
 <!ENTITY safeb.palm.report.label "Kvifor vart denne sida blokkert?">
 
-<!ENTITY safeb.urlbaricon.tooltip "Denne sida kan vere farleg, klikk for info.">
-
 <!ENTITY safeb.blocked.malware.title "Rapportert åtaksside!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "Denne nettsida på <span id='malware_sitename'/> er rapportert som ei åtaksside og er blokkert basert på sikkerheitsinnstillingane dine.">
