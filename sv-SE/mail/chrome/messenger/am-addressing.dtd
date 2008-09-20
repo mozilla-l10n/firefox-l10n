@@ -42,6 +42,7 @@
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label                    "Använd en annan LDAP-server:">
 <!ENTITY directories.accesskey                "e">
+<!ENTITY directoriesNone.label                "Ingen">
 
 <!-- am-addressing.xul -->
 

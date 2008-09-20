@@ -139,6 +139,11 @@
 
 <!ENTITY Other.tab                      "Övrigt">
 <!ENTITY Other.accesskey                "Ö">
+<!ENTITY Birthday.label                 "Födelsedag:">
+<!ENTITY Birthday.accesskey             "F">
+<!ENTITY Year.emptytext                 "År">
+<!ENTITY Or.value                       "eller">
+<!ENTITY Age.emptytext                  "Ålder">
 <!ENTITY Custom1.label                  "Övrigt 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Övrigt 2:">

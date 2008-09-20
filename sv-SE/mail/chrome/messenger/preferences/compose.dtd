@@ -52,6 +52,7 @@
 <!ENTITY addressingEnable.accesskey            "L">
 <!ENTITY directories.label                     "Katalogserver:">
 <!ENTITY directories.accesskey                 "K">
+<!ENTITY directoriesNone.label                 "Ingen">
 <!ENTITY editDirectories.label                 "Redigera kataloger…">
 <!ENTITY editDirectories.accesskey             "R">
 <!ENTITY matchText.label                       "Om en matchande e-postadress hittas i lokala adressböcker:">
