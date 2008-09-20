@@ -1,45 +1,31 @@
 <!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
 
-<!ENTITY  languages.customize.prefLangDescript          "Webové stránky sú niekedy dostupné vo viac ako jednom jazyku. Vyberte a usporiadajte podľa priority jazyky, v ktorých sa majú stránky zobrazovať.">
-<!ENTITY languages.customize.lHeader                    "Jazyky">
-<!ENTITY languages.customize.rHeader                    "Jazyky, v ktorých sú zobrazované webové stránky">
+<!ENTITY languages.customize.prefLangDescript           "Webové stránky sú niekedy dostupné vo viac ako jednom jazyku. Vyberte a usporiadajte podľa priority jazyky, v ktorých sa majú stránky zobrazovať.">
+<!ENTITY languages.customize.title                      "Jazyky">
 <!ENTITY langtitle.label                                "Jazyky pre webové stránky">
 <!ENTITY languages.customize.prefAddLangDescript        "Vyberte jazyky, ktoré chcete pridať.">
-<!ENTITY languages.customize.engOrder.label             "1">
-<!ENTITY languages.customize.engOption.label            "Anglický">
 <!ENTITY languages.customize.addButton.label            "Pridať…">
 <!ENTITY languages.customize.addButton.accesskey        "a">
 <!ENTITY languages.customize.deleteButton.label         "Odstrániť">
-<!ENTITY languages.customize.deleteButton.accesskey     "r">
-<!ENTITY languages.customize.title.label			    "Prispôsobiť jazyky">
-<!ENTITY languages.customize.add.title.label		    "Pridať jazyky">
-<!ENTITY languages.customize.left.header			    "Kódovanie">
-<!ENTITY charset.customize.right.header		    "Vyberte podporované kódovanie">
+<!ENTITY languages.customize.deleteButton.accesskey     "d">
+<!ENTITY languages.customize.add.title.label		        "Pridať jazyky">
 <!ENTITY languages.customize.available.label            "Jazyky:">
 <!ENTITY languages.customize.active.label               "Jazyky v poradí podľa priority:">
-<!ENTITY languages.customize.reorder.label              "Usporiadať">
-<!ENTITY languages.customize.remove.label               "Odstrániť">
-<!ENTITY languages.customize.additional.label           "Dostupné kódovania">
-<!ENTITY languages.customize.add.label                  "Pridať">
 <!ENTITY languages.customize.others.label               "Ďalšie:">
 <!ENTITY languages.customize.others.accesskey           "a">
-<!ENTITY languages.customize.Charset.grouplabel         "Kódovanie">
-<!ENTITY languages.customize.DefaultCharset.label       "Predvolené kódovanie:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "P">
+<!ENTITY languages.customize.Charset.grouplabel         "Predvolené kódovanie">
+<!ENTITY languages.customize.DefaultCharset.label       "Kódovanie:">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "K">
 <!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
 <!ENTITY languages.customize.others.examples            "napr.: en-bz, ar-jo">
-<!ENTITY languages.customize.cancel.label		            "Zrušiť">
-<!ENTITY languages.customize.save.label                 "Uložiť">
-<!ENTITY languages.customize.ok.label                   "OK">
-<!ENTITY languages.customize.save.popup                 "Zmeny sa prejavia až po reštartovaní prehliadača…">
 <!ENTITY languages.customize.moveUp.label               "Posunúť nahor">
 <!ENTITY languages.customize.moveUp.accesskey           "h">
 <!ENTITY languages.customize.moveDown.label             "Posunúť nadol">
-<!ENTITY languages.customize.moveDown.accesskey         "d">
+<!ENTITY languages.customize.moveDown.accesskey         "n">
 
 <!ENTITY spelling.label                                 "Kontrola pravopisu">
 <!ENTITY checkSpelling.label                            "Pri písaní kontrolovať pravopis:">
-<!ENTITY checkSpelling.accesskey                        "P">
+<!ENTITY checkSpelling.accesskey                        "s">
 <!ENTITY dontCheckSpelling.label                        "Nikdy">
 <!ENTITY multilineCheckSpelling.label                   "Vo viacriadkových poliach">
 <!ENTITY alwaysCheckSpelling.label                      "Vo všetkých poliach">

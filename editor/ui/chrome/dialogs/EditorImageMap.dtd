@@ -45,60 +45,51 @@
 <!-- Menu Items -->
 <!-- File menu -->
 <!ENTITY mapfileMenu.label "Súbor">
-<!ENTITY mapfilemenu.accesskey "s">
+<!ENTITY mapfileMenu.accesskey "S">
 <!ENTITY clearCmd.label "Vymazať">
-<!ENTITY mapfileclear.accesskey "a">
+<!ENTITY clearCmd.accesskey "a">
 <!ENTITY closeCmd.label "Zavrieť">
-<!ENTITY mapfileclose.accesskey "c">
+<!ENTITY closeCmd.accesskey "Z">
 
 <!-- Edit menu -->
 <!ENTITY mapeditMenu.label "Upraviť">
-<!ENTITY mapeditmenu.accesskey "u">
+<!ENTITY mapeditMenu.accesskey "U">
 <!ENTITY cutCmd.label "Vystrihnúť">
-<!ENTITY mapeditcut.accesskey "t">
+<!ENTITY cutCmd.accesskey "V">
 <!ENTITY copyCmd.label "Kopírovať">
-<!ENTITY mapeditcopy.accesskey "c">
+<!ENTITY copyCmd.accesskey "K">
 <!ENTITY pasteCmd.label "Prilepiť">
-<!ENTITY mapeditpaste.accesskey "p">
+<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY selectallCmd.label "Vybrať všetko">
-<!ENTITY mapselectall.accesskey "s">
+<!ENTITY selectallCmd.accesskey "a">
 <!ENTITY propsCmd.label "Vlastnosti Hotspot">
-<!ENTITY mapeditprops.accesskey "h">
+<!ENTITY propsCmd.accesskey "H">
 
 <!-- View menu -->
 <!ENTITY mapviewMenu.label "Zobraziť">
-<!ENTITY mapviewmenu.accesskey "z">
+<!ENTITY mapviewMenu.accesskey "Z">
 <!ENTITY showhideTbarCmd.label "Skryť panel nástrojov">
-<!ENTITY mapviewtbar.accesskey "t">
+<!ENTITY showhideTbarCmd.accesskey "S">
 <!-- Scaling -->
 <!ENTITY mapviewScale.label "Mierka">
-<!ENTITY mapviewscale.accesskey "m">
+<!ENTITY mapviewScale.accesskey "M">
 <!ENTITY apercentCmd.label "100">
-<!ENTITY zoomone.accesskey "1">
+<!ENTITY apercentCmd.accesskey "1">
 <!ENTITY bpercentCmd.label "200">
-<!ENTITY zoomtwo.accesskey "2">
+<!ENTITY bpercentCmd.accesskey "2">
 <!ENTITY cpercentCmd.label "400">
-<!ENTITY zoomthree.accesskey "4">
-<!-- end scaling-->
-<!ENTITY contrastCmd.label "Kontrast">
-<!ENTITY contrast.accesskey "n">
-
-<!-- Help menu -->
-<!ENTITY maphelpMenu.label "Pomocník">
-<!ENTITY maphelpmenu.accesskey "p">
-<!ENTITY aboutCmd.label "O programe">
-<!ENTITY about.accesskey "b">
+<!ENTITY cpercentCmd.accesskey "4">
 
 <!ENTITY zoominCmd.label "Zväčšiť">
 <!ENTITY zoomoutCmd.label "Zmenšiť">
 <!ENTITY delSpotCmd.label "Zmazať bod">
 
 <!-- Keys -->
-<!ENTITY clear.accesskey "d">
-<!ENTITY selectall.accesskey "a">
-<!ENTITY close.accesskey "l">
-<!ENTITY cut.accesskey "x">
-<!ENTITY copy.accesskey "c">
-<!ENTITY paste.accesskey "v">
-<!ENTITY props.accesskey "p">
-<!ENTITY tbar.accesskey "t">
+<!ENTITY clear.key "d">
+<!ENTITY selectall.key "a">
+<!ENTITY close.key "l">
+<!ENTITY cut.key "x">
+<!ENTITY copy.key "c">
+<!ENTITY paste.key "v">
+<!ENTITY props.key "p">
+<!ENTITY tbar.key "t">

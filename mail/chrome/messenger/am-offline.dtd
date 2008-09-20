@@ -1,7 +1,7 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Kvôli úspore miesta na disku nepreberať:">
 <!ENTITY doNotDownload.label "Kvôli úspore miesta na disku nepreberať pre použitie v režime offline:">
-<!ENTITY offlineNewFolder.label "Pri vytváraní nových priečinkov ich označovať pre použitie v režime offline">
-<!ENTITY offlineNewFolder.accesskey "z">
+<!ENTITY allFoldersOffline.label "Ponechať správy tohto účtu v tomto počítači">
+<!ENTITY allFoldersOffline.accesskey "c">
 <!ENTITY offlineNotDownload.label "Správy väčšie ako ">
 <!ENTITY offlineNotDownload.accesskey "S">
 <!ENTITY kb.label "kB">
@@ -25,10 +25,7 @@
 <!ENTITY nntpRemoveBody.accesskey "t">
 <!ENTITY offlineSelectNntp.label "Vyberte diskusné skupiny, ktoré chcete používať v režime offline…">
 <!ENTITY offlineSelectNntp.accesskey "b">
-<!ENTITY offlineSelectImap.label "Vyberte priečinky, ktoré chcete používať v režime offline…">
-<!ENTITY offlineSelectImap.accesskey "c">
-<!ENTITY offlineDesc.label "Je možné prevziať správy na váš počítač tak, aby boli k dispozícii, keď pracujete v režime offline.">
-<!ENTITY makeInboxMsgsAvailable.label "Sprístupniť správy v priečinku Doručená pošta počas práce v režime offline.">
-<!ENTITY makeInboxMsgsAvailable.accesskey "f">
-<!ENTITY offlineGroupTitle.label "Režim offline">
+<!ENTITY offlineImapAdvancedOffline.label "Rozšírené…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "z">
+<!ENTITY syncGroupTitle.label "Synchronizácia správ">
 <!ENTITY diskspaceGroupTitle.label "Miesto na disku">

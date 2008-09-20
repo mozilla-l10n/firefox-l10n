@@ -5,13 +5,13 @@
   The methods by which forged (phished) and attack sites will be detected by
   phishing providers will vary from human review to machine-based heuristics to a
   combination of both, so it's important that these strings and
-   useDownloadedList.label convey the meaning "suspected" (and not something like
-   "known").
+  useDownloadedList.label convey the meaning "reported" (and not something like
+  "known").
  -->
-<!ENTITY  tellMaybeAttackSite.label     "Upozorniť v prípade, že je navštívená stránka škodlivá">
-<!ENTITY  tellMaybeAttackSite.accesskey "r">
+<!ENTITY  tellMaybeAttackSite2.label     "Blokovať nahlásené útočné stránky">
+<!ENTITY  tellMaybeAttackSite.accesskey  "B">
 
-<!ENTITY  tellMaybeForgery.label      "Upozorniť v prípade, že je navštívená stránka podvodná">
+<!ENTITY  tellMaybeForgery2.label     "Blokovať nahlásené podvodné stránky">
 <!ENTITY  tellMaybeForgery.accesskey  "o">
 
 <!ENTITY  addonExceptions.label         "Výnimky…">

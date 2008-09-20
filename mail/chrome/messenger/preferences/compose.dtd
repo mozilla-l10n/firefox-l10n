@@ -52,6 +52,7 @@
 <!ENTITY addressingEnable.accesskey          "L">
 <!ENTITY directories.label                   "Adresárový server:">
 <!ENTITY directories.accesskey               "A">
+<!ENTITY directoriesNone.label               "žiadny">
 <!ENTITY editDirectories.label               "Upraviť adresáre…">
 <!ENTITY editDirectories.accesskey           "U">
 <!ENTITY matchText.label                     "Ak niečo v lokálnom adresári zodpovedá:">

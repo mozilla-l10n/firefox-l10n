@@ -134,6 +134,11 @@
 
 <!ENTITY Other.tab                      "Ostatné">
 <!ENTITY Other.accesskey                "O">
+<!ENTITY Birthday.label                 "Dátum narodenia:">
+<!ENTITY Birthday.accesskey             "D">
+<!ENTITY Year.emptytext                 "Rok">
+<!ENTITY Or.value                       "alebo">
+<!ENTITY Age.emptytext                  "vek">
 <!ENTITY Custom1.label                  "Ostatné 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Ostatné 2:">

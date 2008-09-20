@@ -24,7 +24,7 @@
 <!ENTITY masterpass.label "Hlavné heslá">
 <!ENTITY ssl.label "SSL">
 <!ENTITY certs.label "Certifikáty">
-<!ENTITY validation.label "Overenie">
+<!ENTITY validation.label "Overovanie">
 <!ENTITY advance.label "Rozšírené">
 <!ENTITY down.label "Preberanie súborov">
 <!ENTITY cache.label "Vyrovnávacia pamäť">
