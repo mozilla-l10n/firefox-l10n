@@ -28,7 +28,7 @@
 <!ENTITY configEditDesc.label "Дополнительные настройки">
 <!ENTITY configEdit.label "Редактор настроек…">
 <!ENTITY configEdit.accesskey "д">
-<!ENTITY returnReceiptsInfo.label "Определите, как &brandShortName; обрабатывает уведомления о прочтении">
+<!ENTITY returnReceiptsInfo.label "Определите, как &brandShortName; должен обрабатывать уведомления о прочтении">
 <!ENTITY showReturnReceipts.label "Уведомления о прочтении…">
 <!ENTITY showReturnReceipts.accesskey "ч">
 <!ENTITY autoCheck.label "Автоматически проверять наличие обновлений для:">
@@ -48,7 +48,7 @@
 <!ENTITY showUpdates.accesskey "ж">
 <!ENTITY showConnections.label "Соединение…">
 <!ENTITY showConnections.accesskey "д">
-<!ENTITY proxiesInfo.label "Настройте параметры соединения &brandShortName; с Интернет.">
+<!ENTITY proxiesInfo.label "Настройка параметров соединения &brandShortName; с Интернет">
 <!ENTITY connectionsInfo.caption "Соединение">
 <!ENTITY offlineInfo.caption "Автономная работа">
 <!ENTITY offlineInfo.label "Настройка параметров автономной работы">

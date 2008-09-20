@@ -51,8 +51,8 @@
 <!ENTITY replaceButton.accessKey "м">
 <!ENTITY replaceAllButton.label "Заменить всё">
 <!ENTITY replaceAllButton.accessKey "е">
-<!ENTITY stopButton.label "Стоп">
-<!ENTITY stopButton.accessKey "С">
+<!ENTITY stopButton.label "Остановить">
+<!ENTITY stopButton.accessKey "с">
 <!ENTITY userDictionary.label "Словарь пользователя:">
 <!ENTITY moreDictionaries.label "Загрузить дополнительные словари…">
 <!ENTITY addToUserDictionaryButton.label "Добавить слово">

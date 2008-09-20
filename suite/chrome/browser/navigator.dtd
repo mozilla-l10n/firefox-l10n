@@ -149,7 +149,7 @@
 <!ENTITY forwardButton.tooltip "На следующую страницу">
 <!ENTITY reloadButton.label "Обновить">
 <!ENTITY reloadButton.tooltip "Обновить текущую страницу">
-<!ENTITY stopButton.label "Стоп">
+<!ENTITY stopButton.label "Остановить">
 <!ENTITY stopButton.tooltip "Прервать загрузку страницы">
 <!ENTITY searchButton.label "Поиск">
 <!ENTITY searchButton.tooltip "Введите слово в поле слева и нажмите «Поиск»">

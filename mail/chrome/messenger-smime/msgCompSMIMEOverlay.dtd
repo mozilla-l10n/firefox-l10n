@@ -12,5 +12,5 @@
 <!ENTITY menu_securityStatus.accesskey "с">
 <!ENTITY securityButton.label "Защита">
 <!ENTITY securityButton.tooltip "Просмотр или изменение параметров защиты">
-<!ENTITY menu_viewSecurityStatus.label "Информация о защите сообщения">
+<!ENTITY menu_viewSecurityStatus.label "Информация о защите">
 <!ENTITY menu_viewSecurityStatus.accesskey "И">

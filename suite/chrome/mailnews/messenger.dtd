@@ -29,7 +29,7 @@
 <!ENTITY getNewMsgForCmd.accesskey "н">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Всех учётных записей">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "В">
-<!ENTITY getAllNewMsgCmd.label "Получить все новые сообщения">
+<!ENTITY getAllNewMsgCmd.label "Все новые сообщения">
 <!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY getNextNMsgCmd.label "Получить следующие 500 новостных сообщений">
 <!ENTITY getNextNMsgCmd.accesskey "щ">
@@ -50,7 +50,7 @@
 <!ENTITY synchronizeOfflineCmd.accesskey "с">
 <!ENTITY settingsOfflineCmd.label "Параметры автономной работы…">
 <!ENTITY settingsOfflineCmd.accesskey "П">
-<!ENTITY downloadSelectedCmd.label "Получить выделенные сообщения">
+<!ENTITY downloadSelectedCmd.label "Получить выделенные">
 <!ENTITY downloadSelectedCmd.accesskey "в">
 <!ENTITY downloadFlaggedCmd.label "Получить сообщения, отмеченные флагом">
 <!ENTITY downloadFlaggedCmd.accesskey "ф">
@@ -62,7 +62,7 @@
 <!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "Параметры страницы…">
 <!ENTITY printSetupCmd.accesskey "а">
-<!ENTITY deleteMsgCmd.label "Удалить сообщение">
+<!ENTITY deleteMsgCmd.label "Удалить">
 <!ENTITY deleteMsgCmd.accesskey "У">
 <!ENTITY undeleteMsgCmd.label "Восстановить сообщение">
 <!ENTITY undeleteMsgCmd.accesskey "В">
@@ -205,9 +205,9 @@
 <!ENTITY viewAttachmentsInlineCmd.accesskey "П">
 <!ENTITY reloadCmd.label "Обновить">
 <!ENTITY reloadCmd.accesskey "О">
-<!ENTITY stopCmd.label "Стоп">
-<!ENTITY stopCmd.accesskey "С">
-<!ENTITY pageSourceCmd.label "Исходный текст сообщения">
+<!ENTITY stopCmd.label "Остановить">
+<!ENTITY stopCmd.accesskey "с">
+<!ENTITY pageSourceCmd.label "Исходный текст">
 <!ENTITY pageSourceCmd.accesskey "х">
 <!ENTITY pageSourceCmd.key "u">
 <!ENTITY translateMenu.label ".Перевести">
@@ -272,8 +272,8 @@
 <!ENTITY startPageCmd.accesskey "Н">
 <!ENTITY msgMenu.label "Сообщение">
 <!ENTITY msgMenu.accesskey "б">
-<!ENTITY newMsgCmd.label "Создать сообщение">
-<!ENTITY newMsgCmd.accesskey "Н">
+<!ENTITY newMsgCmd.label "Создать">
+<!ENTITY newMsgCmd.accesskey "з">
 <!ENTITY newNewMsgCmd.label "Сообщение">
 <!ENTITY newNewMsgCmd.accesskey "б">
 <!ENTITY replyMsgCmd.label "Ответить">
@@ -299,7 +299,7 @@
 <!ENTITY forwardAsInline.accesskey "Ч">
 <!ENTITY forwardAsAttachmentCmd.label "Вложение">
 <!ENTITY forwardAsAttachmentCmd.accesskey "В">
-<!ENTITY editMsgAsNewCmd.label "Редактировать сообщение как новое">
+<!ENTITY editMsgAsNewCmd.label "Редактировать как новое">
 <!ENTITY editMsgAsNewCmd.accesskey "Р">
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Создать фильтр…">
@@ -329,7 +329,7 @@
 <!ENTITY addSenderToAddressBookCmd.accesskey "Д">
 <!ENTITY addAllToAddressBookCmd.label ".Добавить всех в адресную книгу">
 <!ENTITY addAllToAddressBookCmd.accesskey "в">
-<!ENTITY tagMenu.label "Метка">
+<!ENTITY tagMenu.label "Присвоить метку">
 <!ENTITY tagMenu.accesskey "М">
 <!ENTITY tagCustomize.label "Настроить…">
 <!ENTITY tagCustomize.accesskey "Н">
@@ -376,7 +376,7 @@
 <!ENTITY markAsNotPhishCmd.label "Как не мошенническое">
 <!ENTITY markAsNotPhishCmd.accesskey "н">
 <!ENTITY markAsNotPhishCmd.key "p">
-<!ENTITY openMessageWindowCmd.label "Открыть сообщение">
+<!ENTITY openMessageWindowCmd.label "Открыть">
 <!ENTITY openMessageWindowCmd.accesskey "О">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY searchMailCmd.label "Поиск сообщений…">
@@ -413,7 +413,7 @@
 <!ENTITY deleteButton.label "Удалить">
 <!ENTITY markButton.label "Отметить">
 <!ENTITY printButton.label "Печать">
-<!ENTITY stopButton.label "Стоп">
+<!ENTITY stopButton.label "Остановить">
 <!ENTITY junkButton.label "Спам">
 <!ENTITY notJunkButton.label "Не спам">
 <!ENTITY menuBar.tooltip "Панель меню">
@@ -440,7 +440,7 @@
 <!ENTITY statusText.label "Готово">
 <!ENTITY unreadCountText.label "Непрочитанных:">
 <!ENTITY totalCountText.label " Всего:">
-<!ENTITY contextOpenNewWindow.label "Открыть сообщение в новом окне">
+<!ENTITY contextOpenNewWindow.label "Открыть в новом окне">
 <!ENTITY contextOpenNewWindow.accesskey "н">
 <!ENTITY contextEditAsNew.label "Редактировать как новое…">
 <!ENTITY contextEditAsNew.accesskey "Р">
@@ -464,7 +464,7 @@
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "д">
 <!ENTITY contextSaveAs.label "Сохранить как…">
 <!ENTITY contextSaveAs.accesskey "С">
-<!ENTITY contextPrint.label "Печать…">
+<!ENTITY contextPrint.label "Распечатать…">
 <!ENTITY contextPrint.accesskey "П">
 <!ENTITY contextPrintPreview.label "Предварительный просмотр">
 <!ENTITY contextPrintPreview.accesskey "р">

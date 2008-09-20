@@ -1,8 +1,8 @@
 <!ENTITY notificationsDialog2.title "Настройка уведомлений о приходе почты">
 <!ENTITY window.width "40em">
-<!ENTITY alertCustomization.intro "Выберите поля, показываемые в уведомлении о приходе почты:">
-<!ENTITY previewText.label "Предпросмотр текста сообщения">
-<!ENTITY previewText.accesskey "р">
+<!ENTITY alertCustomization.intro "Укажите поля, показываемые в уведомлении о приходе почты:">
+<!ENTITY previewText.label "Текст сообщения">
+<!ENTITY previewText.accesskey "к">
 <!ENTITY subject.label "Тема">
 <!ENTITY subject.accesskey "е">
 <!ENTITY sender.label "Отправитель">

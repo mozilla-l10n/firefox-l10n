@@ -18,8 +18,8 @@
 <!ENTITY viewLogButton.accesskey "Ж">
 <!ENTITY runFilters.label "Запустить">
 <!ENTITY runFilters.accesskey "З">
-<!ENTITY stopFilters.label "Стоп">
-<!ENTITY stopFilters.accesskey "С">
+<!ENTITY stopFilters.label "Остановить">
+<!ENTITY stopFilters.accesskey "с">
 <!ENTITY folderPickerPrefix.label "Запустить выбранные фильтры в папке:">
 <!ENTITY folderPickerPrefix.accesskey "З">
 <!ENTITY choosethis.label "выбрать эту папку">

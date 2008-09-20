@@ -45,7 +45,7 @@
 <!ENTITY results.label "Результаты поиска">
 <!ENTITY engine.column.label "Поисковые машины">
 <!ENTITY checkbox.column.label "Использовать">
-<!ENTITY stop.button.label "Стоп">
+<!ENTITY stop.button.label "Остановить">
 <!ENTITY customize.menuitem.label "Изменить категории…">
 <!ENTITY savesearch.button.label "Добавить в закладки">
 <!ENTITY next.button.label "Следующие">

@@ -96,7 +96,7 @@
 <!ENTITY selectAddressCmd.label "Выбрать адреса…">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "в">
-<!ENTITY checkSpellingCmd.label "Проверка орфографии…">
+<!ENTITY checkSpellingCmd.label "Проверить орфографию…">
 <!ENTITY checkSpellingCmd.key "K">
 <!ENTITY checkSpellingCmd.accesskey "ф">
 <!ENTITY enableInlineSpellChecker.label "Проверка орфографии при наборе текста">
@@ -148,7 +148,7 @@
 <!ENTITY attachButton.label "Вложить">
 <!ENTITY spellingButton.label "Орфография">
 <!ENTITY saveButton.label "Сохранить">
-<!ENTITY stopButton.label "Стоп">
+<!ENTITY stopButton.label "Остановить">
 <!ENTITY addressBar.tooltip "Панель адреса">
 <!ENTITY formatToolbar.tooltip "Панель форматирования">
 <!ENTITY sendButton.tooltip "Отправить это сообщение сейчас">

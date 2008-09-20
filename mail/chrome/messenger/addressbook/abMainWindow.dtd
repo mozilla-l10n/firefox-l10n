@@ -57,7 +57,7 @@
 <!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "У">
 <!ENTITY deleteAbCmd.label "Удалить адресную книгу">
-<!ENTITY deleteCardCmd.label "Удалить карточку">
+<!ENTITY deleteCardCmd.label "Удалить">
 <!ENTITY deleteCardsCmd2.label "Удалить карточки">
 <!ENTITY deleteListCmd.label "Удалить список">
 <!ENTITY deleteListsCmd.label "Удалить списки">

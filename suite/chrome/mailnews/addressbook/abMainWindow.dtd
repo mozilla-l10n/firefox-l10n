@@ -23,7 +23,7 @@
 <!ENTITY printSetupCmd.label "Параметры страницы…">
 <!ENTITY printSetupCmd.accesskey "а">
 <!ENTITY deleteAbCmd.label "Удалить адресную книгу">
-<!ENTITY deleteCardCmd.label "Удалить карточку">
+<!ENTITY deleteCardCmd.label "Удалить">
 <!ENTITY deleteCardsCmd.label "Удалить выбранные карточки">
 <!ENTITY deleteListCmd.label "Удалить список">
 <!ENTITY deleteListsCmd.label "Удалить выбранные списки">
