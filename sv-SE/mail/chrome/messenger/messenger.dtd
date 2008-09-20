@@ -73,9 +73,9 @@
 <!ENTITY subscribeCmd.label "Prenumerera…">
 <!ENTITY subscribeCmd.accesskey "p">
 <!ENTITY deleteFolder.label "Ta bort mapp">
-<!ENTITY deleteFolder.accesskey "m">
+<!ENTITY deleteFolder.accesskey "r">
 <!ENTITY renameFolder.label "Byt namn på mapp…">
-<!ENTITY renameFolder.accesskey "b">
+<!ENTITY renameFolder.accesskey "å">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Komprimera mappar">
 <!ENTITY compactFolder.accesskey "K">
@@ -475,6 +475,7 @@
 <!ENTITY backButton1.label "Bakåt">
 <!ENTITY goForwardButton1.label "Framåt">
 <!ENTITY deleteButton.label "Ta bort">
+<!ENTITY undeleteButton.label "Ångra borttagning">
 <!ENTITY markButton.label "Märk">
 <!ENTITY printButton.label "Skriv ut">
 <!ENTITY stopButton.label "Stopp">
