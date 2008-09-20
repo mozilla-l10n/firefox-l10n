@@ -10,5 +10,6 @@
 <!ENTITY manageSubscriptions.accesskey "M">
 <!ENTITY rss.accountName "חדשות ובלוגים">
 <!ENTITY rss.wizardShortName "RSS">
-<!ENTITY rss.wizardLongName "חדשות RSS ובלוגים">
+<!ENTITY rss.wizardLongName  "RSS חדשות ובלוגים">
+<!ENTITY rss.wizardLongName.accesskey "ח">
 <!ENTITY rss.hostName "חדשות ובלוגים">
