@@ -1,16 +1,16 @@
 <!ENTITY pane.title                 "Értesítés a kézbesítésről">
 <!ENTITY useGlobalPrefs.label       "A globális tértivevény-beállítások használata erre a postafiókra">
 <!ENTITY useGlobalPrefs.accesskey   "A">
-<!ENTITY useCustomPrefs.label       "Customize Delivery Status Notification for this account">
+<!ENTITY useCustomPrefs.label       "Tértivevényekkel kapcsolatos beállítások ehhez a postafiókhoz">
 <!ENTITY useCustomPrefs.accesskey   "T">
-<!ENTITY requestAlways.label        "When sending messages, always request a Delivery Status Notification">
-<!ENTITY requestAlways.accesskey    "W">
-<!ENTITY optionTitle.label          "Ask notification on :">
-<!ENTITY requestOnSucess.label      "Success in delivering">
+<!ENTITY requestAlways.label        "Tértivevény kérése minden elküldött üzenethez">
+<!ENTITY requestAlways.accesskey    "k">
+<!ENTITY optionTitle.label          "Értesítés kérése:">
+<!ENTITY requestOnSucess.label      "Sikeres kézbesítés">
 <!ENTITY requestOnSucess.accesskey  "S">
-<!ENTITY requestOnFailure.label     "Failure in delivering">
-<!ENTITY requestOnFailure.accesskey "F">
-<!ENTITY requestOnDelay.label       "Delay in delivering">
-<!ENTITY requestOnDelay.accesskey   "D">
-<!ENTITY requestNever.label         "Never receive Delivery Status Notification">
+<!ENTITY requestOnFailure.label     "Sikertelen kézbesítés">
+<!ENTITY requestOnFailure.accesskey "k">
+<!ENTITY requestOnDelay.label       "Késés a kézbesítésben">
+<!ENTITY requestOnDelay.accesskey   "s">
+<!ENTITY requestNever.label         "Nem kell tértivevény">
 <!ENTITY requestNever.accesskey     "N">

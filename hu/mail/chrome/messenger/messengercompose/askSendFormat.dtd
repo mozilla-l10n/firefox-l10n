@@ -6,11 +6,11 @@
 <!ENTITY question.label "Szeretné az üzenetet sima szöveggé alakítva elküldeni, vagy maradjon HTML formátumú?">
 
 <!ENTITY plainTextAndHtml.label "Küldés normál szövegként és HTML-ben">
-<!ENTITY plainTextAndHtml.accesskey "a">
+<!ENTITY plainTextAndHtml.accesskey "d">
 <!ENTITY plainTextOnly.label "Küldés csak normál szövegként">
-<!ENTITY plainTextOnly.accesskey "P">
+<!ENTITY plainTextOnly.accesskey "n">
 <!ENTITY htmlOnly.label "Küldés csak HTML-ben">
 <!ENTITY htmlOnly.accesskey "H">
 
 <!ENTITY send.label "Küldés">
-<!ENTITY send.accesskey "S">
+<!ENTITY send.accesskey "K">

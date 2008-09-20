@@ -8,7 +8,7 @@
 <!ENTITY releaseCmd.label "Verzióinformáció">
 <!ENTITY releaseCmd.accesskey "V">
 <!ENTITY openHelp.label "Tartalom">
-<!ENTITY openHelp.accesskey "H">
+<!ENTITY openHelp.accesskey "T">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "&brandShortName; Súgó">
 <!ENTITY openHelpMac2.commandkey   "?">

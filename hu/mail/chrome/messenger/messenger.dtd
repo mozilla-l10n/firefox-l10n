@@ -30,14 +30,16 @@
 <!ENTITY getNewMsgForCmd.accesskey "k">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Minden postafiók">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "M">
-<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Current Account">
-<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Aktuális postafiók">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "A">
 <!ENTITY getNextNMsgCmd.label "A következő 500 üzenet letöltése">
 <!ENTITY getNextNMsgCmd.accesskey "v">
 <!ENTITY sendUnsentCmd.label "Postázandó üzenetek elküldése">
 <!ENTITY sendUnsentCmd.accesskey "P">
 <!ENTITY subscribeCmd.label "Feliratkozás...">
 <!ENTITY subscribeCmd.accesskey "F">
+<!ENTITY deleteFolder.label "Mappa törlése">
+<!ENTITY deleteFolder.accesskey "l">
 <!ENTITY renameFolder.label "Mappa átnevezése...">
 <!ENTITY renameFolder.accesskey "a">
 <!ENTITY renameFolder.key "VK_F2">
@@ -92,8 +94,8 @@
 <!ENTITY selectThreadCmd.label "Témacsoport">
 <!ENTITY selectThreadCmd.accesskey "T">
 <!ENTITY selectThreadCmd.key "a">
-<!ENTITY selectFlaggedCmd.label "Starred Messages">
-<!ENTITY selectFlaggedCmd.accesskey "S">
+<!ENTITY selectFlaggedCmd.label "Csillagozott üzenetek">
+<!ENTITY selectFlaggedCmd.accesskey "C">
 <!ENTITY menuFavoriteFolder.label "Kedvencek mappa">
 <!ENTITY menuFavoriteFolder.accesskey "K">
 <!ENTITY folderPropsCmd.label "Tulajdonságok...">
@@ -141,7 +143,7 @@
 <!ENTITY unreadFolders.accesskey "O">
 <!ENTITY favoriteFolders.label "Kedvencek">
 <!ENTITY favoriteFolders.accesskey "K">
-<!ENTITY recentFolders.label "Recent">
+<!ENTITY recentFolders.label "Nemrég használt">
 <!ENTITY recentFolders.accesskey "N">
 
 <!-- Sort Menu -->
@@ -149,7 +151,7 @@
 <!ENTITY sortMenu.accesskey "R">
 <!ENTITY sortByDateCmd.label "Dátum">
 <!ENTITY sortByDateCmd.accesskey "D">
-<!ENTITY sortByReceivedCmd.label "Received">
+<!ENTITY sortByReceivedCmd.label "Beérkezés">
 <!ENTITY sortByReceivedCmd.accesskey "r">
 <!ENTITY sortByStarCmd.label "Csillag">
 <!ENTITY sortByStarCmd.accesskey "C">
@@ -290,7 +292,7 @@
 <!ENTITY prevUnreadMsgCmd.label "Olvasatlan üzenet">
 <!ENTITY prevUnreadMsgCmd.accesskey "O">
 <!ENTITY prevUnreadMsgCmd.key "p">
-<!ENTITY goForwardCmd.label "Forward">
+<!ENTITY goForwardCmd.label "Előre">
 <!ENTITY goForwardCmd.accesskey "E">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "Vissza">
@@ -316,7 +318,7 @@
 <!ENTITY replyToAllMsgCmd.label "Válasz mindenkinek">
 <!ENTITY replyToAllMsgCmd.accesskey  "m">
 <!ENTITY replyToAllMsgCmd.key  "r">
-<!ENTITY forwardMsgCmd.label "Forward">
+<!ENTITY forwardMsgCmd.label "Továbbítás">
 <!ENTITY forwardMsgCmd.accesskey "T">
 <!ENTITY forwardMsgCmd.key  "l">
 <!ENTITY forwardAsMenu.label "Továbbítás módja">
@@ -332,7 +334,7 @@
 <!ENTITY createFilter.accesskey "S">
 <!ENTITY moveMsgMenu.label "Áthelyezés">
 <!ENTITY moveMsgMenu.accesskey "h">
-<!ENTITY moveCopyMsgRecentMenu.label "Recent">
+<!ENTITY moveCopyMsgRecentMenu.label "Nemrég használt">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "N">
 <!ENTITY copyMessageLocation.label "Üzenet helyének másolása">
 <!ENTITY copyMessageLocation.accesskey "s">
@@ -344,8 +346,8 @@
 <!ENTITY killThreadMenu.label "Témacsoport kihagyása">
 <!ENTITY killThreadMenu.accesskey "k">
 <!ENTITY killThreadMenu.key "k">
-<!ENTITY killSubthreadMenu.label "Ignore Subthread">
-<!ENTITY killSubthreadMenu.accesskey "S">
+<!ENTITY killSubthreadMenu.label "Témacsoportrész kihagyása">
+<!ENTITY killSubthreadMenu.accesskey "r">
 <!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Témacsoport figyelése">
 <!ENTITY watchThreadMenu.accesskey "f">
@@ -422,23 +424,24 @@
 <!ENTITY filtersCmd.accesskey "s">
 <!ENTITY filtersApply.label "Szűrők futtatása a mappán">
 <!ENTITY filtersApply.accesskey "f">
-<!ENTITY filtersApplyToSelection.label "Run Filters on Selected Messages">
-<!ENTITY filtersApplyToSelection.accesskey "S">
-<!ENTITY filtersApplyToMessage.label "Run Filters on Message">
-<!ENTITY filtersApplyToMessage.accesskey "s">
+<!ENTITY filtersApplyToSelection.label "Szűrők futtatása a kijelölt üzeneteken">
+<!ENTITY filtersApplyToSelection.accesskey "k">
+<!ENTITY filtersApplyToMessage.label "Szűrők futtatása az üzeneten">
+<!ENTITY filtersApplyToMessage.accesskey "z">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Letöltés">
 <!ENTITY newMsgButton.label "Új üzenet">
 <!ENTITY replyButton.label "Válasz">
 <!ENTITY replyAllButton.label "Válasz mindenkinek">
-<!ENTITY forwardButton.label "Forward">
-<!ENTITY fileButton.label "File">
+<!ENTITY forwardButton.label "Továbbítás">
+<!ENTITY fileButton.label "Iktatás">
 <!ENTITY nextButton.label "Következő">
 <!ENTITY previousButton.label "Előző">
 <!ENTITY backButton1.label "Vissza">
-<!ENTITY goForwardButton1.label "Forward">
+<!ENTITY goForwardButton1.label "Előre">
 <!ENTITY deleteButton.label "Törlés">
+<!ENTITY undeleteButton.label "Törölt üzenet visszaállítása">
 <!ENTITY markButton.label "Megjelölés">
 <!ENTITY printButton.label "Nyomtatás">
 <!ENTITY stopButton.label "Leállítás">
@@ -458,7 +461,7 @@
 <!ENTITY clearButton.tooltip "Keresési feltétel törlése, minden üzenet megjelenítése">
 <!ENTITY getMsgButton.tooltip "Új üzenetek letöltése">
 <!ENTITY getAllNewMsgCmd.label "Összes új üzenet letöltése">
-<!ENTITY getAllNewMsgCmd.accesskey "G">
+<!ENTITY getAllNewMsgCmd.accesskey "s">
 <!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "Új üzenet létrehozása">
 <!ENTITY replyButton.tooltip "Az üzenet megválaszolása">
@@ -470,6 +473,7 @@
 <!ENTITY goForwardButton.tooltip "Ugrás egy üzenettel előre">
 <!ENTITY goBackButton.tooltip "Ugrás egy üzenettel hátra">
 <!ENTITY deleteButton.tooltip "A kijelölt üzenet vagy mappa törlése">
+<!ENTITY undeleteButton.tooltip "A kijelölt törölt üzenet visszaállítása">
 <!ENTITY markButton.tooltip "Az üzenet megjelölése">
 <!ENTITY printButton.tooltip "Az üzenet kinyomtatása">
 <!ENTITY stopButton.tooltip "Átvitel megszakítása">
@@ -477,7 +481,7 @@
 <!ENTITY notJunkButton.tooltip "A kijelölt üzenetek megjelölése nem szemétként">
 <!ENTITY addressBookButton.tooltip "A címjegyzék megjelenítése">
 <!ENTITY tagButton.tooltip "Üzenetek címkézése">
-<!ENTITY compactButton.tooltip "Remove deleted messages from selected folder">
+<!ENTITY compactButton.tooltip "Törölt üzenetek eltávolítása a kijelölt mappából">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Új címke...">
@@ -536,7 +540,7 @@
 <!ENTITY searchFromMenu.label "Feladó">
 <!ENTITY searchSubjectOrFromMenu.label "Tárgy vagy feladó">
 <!ENTITY searchRecipient.label "Címzett vagy másolatot kapott">
-<!ENTITY searchSubjectOrRecipientMenu.label "Subject, To or Cc">
+<!ENTITY searchSubjectOrRecipientMenu.label "Tárgy, címzett vagy másolatot kapott">
 <!ENTITY searchMessageBody.label "Teljes üzenet">
 <!ENTITY saveAsVirtualFolderMenu.label "Keresés mentése mappaként...">
 
@@ -556,7 +560,7 @@
 <!ENTITY unreadColumn.label "Olvasatlan">
 <!ENTITY totalColumn.label "Összesen">
 <!ENTITY readColumn.label "Olvasott">
-<!ENTITY receivedColumn.label "Received">
+<!ENTITY receivedColumn.label "Érkezési sorrend">
 <!ENTITY starredColumn.label "Csillagozott">
 <!ENTITY locationColumn.label "Hely">
 <!ENTITY idColumn.label "Érkezési sorrend">
@@ -597,13 +601,13 @@
 <!ENTITY contextReplyNewsgroup.accesskey "h">
 <!ENTITY contextReplyAll.label "Válasz mindenkinek">
 <!ENTITY contextReplyAll.accesskey "m">
-<!ENTITY contextForward.label "Forward">
+<!ENTITY contextForward.label "Továbbítás">
 <!ENTITY contextForward.accesskey "T">
 <!ENTITY contextForwardAsAttachment.label "Továbbítás mellékletként">
 <!ENTITY contextForwardAsAttachment.accesskey "o">
 <!ENTITY contextMoveMsgMenu.label "Áthelyezés">
 <!ENTITY contextMoveMsgMenu.accesskey "h">
-<!ENTITY contextMoveCopyMsgRecentMenu.label "Recent">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "Nemrég használt">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "N">
 <!ENTITY contextCopyMsgMenu.label "Átmásolás">
 <!ENTITY contextCopyMsgMenu.accesskey "m">
@@ -623,12 +627,12 @@
 
 <!-- Remote Content Bar -->
 <!ENTITY remoteContentMessage1.label "Adatai védelme érdekében a távoli képek blokkolva lettek.">
-<!ENTITY loadRemoteContentButton1.label "Képek betöltése">
+<!ENTITY loadRemoteContentButton2.label "Képek megjelenítése">
 
 <!-- Phishing Bar -->
-<!ENTITY phishingBarMessage1.label "Valószínűleg csaló e-mail">
+<!ENTITY phishingBarMessage2.label "Ez az üzenet becsapós lehet.">
 <!ENTITY removePhishingBarButton1.label "Figyelmen kívül hagyás">
-<!ENTITY reportPhishingError.label "Ez nem csaló e-mail">
+<!ENTITY reportPhishingError1.label "Ez az üzenet nem tűnik becsapósnak.">
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
@@ -636,10 +640,12 @@
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Felvétel a címjegyzékbe...">
 <!ENTITY AddToAddressBook.accesskey "F">
-<!ENTITY EditContact.label "Edit Contact...">
-<!ENTITY EditContact.accesskey "E">
-<!ENTITY ViewContact.label "View Contact">
-<!ENTITY ViewContact.accesskey "V">
+<!ENTITY AddDirectlyToAddressBook.label "Felvétel a címjegyzékbe">
+<!ENTITY AddDirectlyToAddressBook.accesskey "c">
+<!ENTITY EditContact.label "Névjegy szerkesztése...">
+<!ENTITY EditContact.accesskey "N">
+<!ENTITY ViewContact.label "Névjegy megtekintése">
+<!ENTITY ViewContact.accesskey "m">
 <!ENTITY SendMailTo.label "Levél írása">
 <!ENTITY SendMailTo.accesskey "L">
 <!ENTITY CopyEmailAddress.label "E-mail cím másolása">
@@ -652,10 +658,10 @@
 <!ENTITY reportPhishingURL.accesskey "c">
 
 <!-- Content Pane Context Menu -->
-<!ENTITY saveLinkCmd.label "Hivatkozás mentése">
-<!ENTITY saveLinkCmd.accesskey "n">
-<!ENTITY saveImageCmd.label "Kép mentése">
-<!ENTITY saveImageCmd.accesskey "m">
+<!ENTITY saveLinkAsCmd.label "Hivatkozás mentése más néven...">
+<!ENTITY saveLinkAsCmd.accesskey "k">
+<!ENTITY saveImageAsCmd.label "Kép mentése más néven...">
+<!ENTITY saveImageAsCmd.accesskey "s">
 <!ENTITY copyCmd.label "Másolás">
 <!ENTITY copyCmd.accesskey "M">
 <!ENTITY selectAllCmd.label "Minden kijelölése">

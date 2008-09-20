@@ -45,60 +45,51 @@
 <!-- Menu Items -->
 <!-- File menu -->
 <!ENTITY mapfileMenu.label "Fájl">
-<!ENTITY mapfilemenu.accesskey "f">
+<!ENTITY mapfileMenu.accesskey "f">
 <!ENTITY clearCmd.label "Törlés">
-<!ENTITY mapfileclear.accesskey "T">
+<!ENTITY clearCmd.accesskey "T">
 <!ENTITY closeCmd.label "Bezárás">
-<!ENTITY mapfileclose.accesskey "B">
+<!ENTITY closeCmd.accesskey "B">
 
 <!-- Edit menu -->
 <!ENTITY mapeditMenu.label "Szerkesztés">
-<!ENTITY mapeditmenu.accesskey "z">
+<!ENTITY mapeditMenu.accesskey "e">
 <!ENTITY cutCmd.label "Kivágás">
-<!ENTITY mapeditcut.accesskey "K">
+<!ENTITY cutCmd.accesskey "K">
 <!ENTITY copyCmd.label "Másolás">
-<!ENTITY mapeditcopy.accesskey "M">
+<!ENTITY copyCmd.accesskey "M">
 <!ENTITY pasteCmd.label "Beillesztés">
-<!ENTITY mapeditpaste.accesskey "B">
+<!ENTITY pasteCmd.accesskey "B">
 <!ENTITY selectallCmd.label "Mindent kijelöl">
-<!ENTITY mapselectall.accesskey "M">
+<!ENTITY selectallCmd.accesskey "i">
 <!ENTITY propsCmd.label "Interaktív terület tulajdonságai">
-<!ENTITY mapeditprops.accesskey "T">
+<!ENTITY propsCmd.accesskey "n">
 
 <!-- View menu -->
 <!ENTITY mapviewMenu.label "Nézet">
-<!ENTITY mapviewmenu.accesskey "N">
+<!ENTITY mapviewMenu.accesskey "N">
 <!ENTITY showhideTbarCmd.label "Eszköztár elrejtése">
-<!ENTITY mapviewtbar.accesskey "t">
+<!ENTITY showhideTbarCmd.accesskey "e">
 <!-- Scaling -->
 <!ENTITY mapviewScale.label "Skála">
-<!ENTITY mapviewscale.accesskey "S">
+<!ENTITY mapviewScale.accesskey "S">
 <!ENTITY apercentCmd.label "100">
-<!ENTITY zoomone.accesskey "1">
+<!ENTITY apercentCmd.accesskey "1">
 <!ENTITY bpercentCmd.label "200">
-<!ENTITY zoomtwo.accesskey "2">
+<!ENTITY bpercentCmd.accesskey "2">
 <!ENTITY cpercentCmd.label "400">
-<!ENTITY zoomthree.accesskey "4">
-<!-- end scaling-->
-<!ENTITY contrastCmd.label "Kontraszt">
-<!ENTITY contrast.accesskey "n">
-
-<!-- Help menu -->
-<!ENTITY maphelpMenu.label "Súgó">
-<!ENTITY maphelpmenu.accesskey "h">
-<!ENTITY aboutCmd.label "Névjegy">
-<!ENTITY about.accesskey "b">
+<!ENTITY cpercentCmd.accesskey "4">
 
 <!ENTITY zoominCmd.label "Nagyítás">
 <!ENTITY zoomoutCmd.label "Kicsinyítés">
 <!ENTITY delSpotCmd.label "Interaktív terület törlése">
 
 <!-- Keys -->
-<!ENTITY clear.accesskey "A">
-<!ENTITY selectall.accesskey "d">
-<!ENTITY close.accesskey "l">
-<!ENTITY cut.accesskey "x">
-<!ENTITY copy.accesskey "c">
-<!ENTITY paste.accesskey "v">
-<!ENTITY props.accesskey "p">
-<!ENTITY tbar.accesskey "t">
+<!ENTITY clear.key "d">
+<!ENTITY selectall.key "a">
+<!ENTITY close.key "l">
+<!ENTITY cut.key "x">
+<!ENTITY copy.key "c">
+<!ENTITY paste.key "v">
+<!ENTITY props.key "p">
+<!ENTITY tbar.key "t">

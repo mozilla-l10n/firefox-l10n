@@ -40,8 +40,8 @@
 <!ENTITY subscribeButton.accesskey    "F">
 <!ENTITY unsubscribeButton.label      "Leiratkozás">
 <!ENTITY unsubscribeButton.accesskey  "L">
-<!ENTITY newGroupsTab.label           "New Groups">
-<!ENTITY newGroupsTab.accesskey       "N">
+<!ENTITY newGroupsTab.label           "Új csoportok">
+<!ENTITY newGroupsTab.accesskey       "c">
 <!ENTITY refreshButton.label          "Frissítés">
 <!ENTITY refreshButton.accesskey      "F">
 <!ENTITY stopButton.label             "Leállítás">

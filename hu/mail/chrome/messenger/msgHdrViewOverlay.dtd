@@ -35,28 +35,41 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField.label "Címzett: ">
-<!ENTITY fromField.label "Feladó: ">
-<!ENTITY senderField.label "Küldő: ">
-<!ENTITY organizationField.label "Szervezet: ">
-<!ENTITY replyToField.label "Válaszcím: ">
+<!ENTITY toField2.label "címzett ">
+<!ENTITY fromField2.label "feladó ">
+<!ENTITY senderField2.label "küldő ">
+<!ENTITY organizationField2.label "szervezet ">
+<!ENTITY replyToField2.label "válaszcím ">
 
-<!ENTITY subjectField.label "Tárgy: ">
-<!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField.label "Másolat: ">
-<!ENTITY bccField.label "Rejtett másolat: ">
-<!ENTITY newsgroupsField.label "Hírcsoportok: ">
-<!ENTITY followupToField.label "Hírcsop. vál.: ">
-<!ENTITY tagsHdr.label "Címkék: ">
-<!ENTITY dateField.label "Dátum: ">
-<!ENTITY userAgentField.label "User-Agent: ">
-<!ENTITY referencesField.label "References: ">
-<!ENTITY messageIdField.label "Message-ID: ">
-<!ENTITY inReplyToField.label "In-Reply-To: ">
-<!ENTITY originalWebsite.label "Webhely: ">
+<!ENTITY subjectField2.label "tárgy ">
+<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
+<!ENTITY ccField2.label "másolat ">
+<!ENTITY bccField2.label "rejtett másolat ">
+<!ENTITY newsgroupsField2.label "hírcsoportok ">
+<!ENTITY followupToField2.label "hírcsop. vál. ">
+<!ENTITY tagsHdr2.label "címkék ">
+<!ENTITY dateField2.label "dátum ">
+<!ENTITY userAgentField2.label "user-agent ">
+<!ENTITY referencesField2.label "references ">
+<!ENTITY messageIdField2.label "message-id ">
+<!ENTITY inReplyToField2.label "in-reply-to ">
+<!ENTITY originalWebsite2.label "webhely ">
 <!ENTITY saveAll.label "Összes mentése...">
 
-<!ENTITY editMessage.label "Piszkozat szerkesztése...">
+<!ENTITY editMessageDescription.label "Ez egy piszkozat">
+<!ENTITY editMessageButton.label "Szerkesztés...">
+<!ENTITY replyButton.label "válasz...">
+<!ENTITY forwardButton.label "továbbítás...">
+<!ENTITY junkButton.label "megjelölés szemétként">
+<!ENTITY trashButton.tooltiptext "törlés">
+
+<!ENTITY otherActionsButton.label "egyéb művelet">
+<!ENTITY saveAsMenuItem.label "mentés másként...">
+<!ENTITY saveAsMenuItem.accesskey "m">
+<!ENTITY viewSourceMenuItem.label "forrás megtekintése...">
+<!ENTITY viewSourceMenuItem.accesskey "f">
+
+<!ENTITY hideDetailsButton.label "részletek elrejtése">
 
 <!ENTITY openAttachmentCmd.label    "Megnyitás">
 <!ENTITY openAttachmentCmd.accesskey    "M">

@@ -12,11 +12,11 @@
 <!ENTITY highPriorityCmd.label "Sürgős">
 <!ENTITY highestPriorityCmd.label "Rendkívül sürgős">
 
-<!ENTITY contextDesc.label "Apply filter when:">
-<!ENTITY contextDesc.accesskey "w">
-<!ENTITY contextIncoming.label "Checking Mail">
-<!ENTITY contextManual.label "Manually Run">
-<!ENTITY contextBoth.label "Checking Mail or Manually Run">
+<!ENTITY contextDesc.label "Szűrő alkalmazása:">
+<!ENTITY contextDesc.accesskey "S">
+<!ENTITY contextIncoming.label "Levelek ellenőrzésekor">
+<!ENTITY contextManual.label "Kézzel futtatva">
+<!ENTITY contextBoth.label "Levelek ellenőrzésekor vagy kézzel futtatva">
 <!ENTITY filterActionDesc.label "Műveletek végrehajtása:">
 <!ENTITY filterActionDesc.accesskey "v">
 
@@ -37,6 +37,6 @@
 <!ENTITY deleteFromPOP.label "Törlés a POP-kiszolgálóról">
 <!ENTITY fetchFromPOP.label "Letöltés a POP-kiszolgálóról">
 <!ENTITY ignoreThread.label "Témacsoport kihagyása">
-<!ENTITY ignoreSubthread.label "Ignore Subthread">
+<!ENTITY ignoreSubthread.label "Témacsoportrész kihagyása">
 <!ENTITY watchThread.label "Témacsoport figyelése">
 <!ENTITY stopExecution.label "Szűrő végrehajtásának leállítása">

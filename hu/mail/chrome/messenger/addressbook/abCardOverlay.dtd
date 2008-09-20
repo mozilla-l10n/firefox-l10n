@@ -136,6 +136,11 @@
 
 <!ENTITY Other.tab                      "Egyéb">
 <!ENTITY Other.accesskey                "E">
+<!ENTITY Birthday.label                 "Születési dátum:">
+<!ENTITY Birthday.accesskey             "S">
+<!ENTITY Year.emptytext                 "évente">
+<!ENTITY Or.value                       "vagy">
+<!ENTITY Age.emptytext                  "Kor">
 <!ENTITY Custom1.label                  "Egyéb 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Egyéb 2:">
