@@ -1,8 +1,8 @@
 <!ENTITY warnAddonInstall.label "Advertir cuando algún sitio intente instalar complementos">
 <!ENTITY warnAddonInstall.accesskey "v">
-<!ENTITY tellMaybeAttackSite.label "Señalar si el sitio que se está visitando es un posible foco de ataques">
+<!ENTITY tellMaybeAttackSite2.label "Bloqueado el sitio atacante reportado">
 <!ENTITY tellMaybeAttackSite.accesskey "q">
-<!ENTITY tellMaybeForgery.label "Mostrar si el sitio que se está visitando es sospechoso de engaño">
+<!ENTITY tellMaybeForgery2.label "Bloqueado el sitio falsificado reportado">
 <!ENTITY tellMaybeForgery.accesskey "s">
 <!ENTITY addonExceptions.label "Excepciones…">
 <!ENTITY addonExceptions.accesskey "E">
