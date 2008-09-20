@@ -11,7 +11,7 @@
 <!ENTITY  tellMaybeAttackSite2.label     "Blockera anmälda skadliga platser">
 <!ENTITY  tellMaybeAttackSite.accesskey "o">
 
-<!ENTITY  tellMaybeForgery2.label     "Blockera anmälda bluffar">
+<!ENTITY  tellMaybeForgery2.label     "Blockera anmälda webbförfalskningar">
 <!ENTITY  tellMaybeForgery.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "Undantag…">
