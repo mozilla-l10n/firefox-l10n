@@ -102,7 +102,7 @@
 <!ENTITY formatMenu.accesskey "Ф">
 <!ENTITY optionsMenu.label "Настройки">
 <!ENTITY optionsMenu.accesskey "й">
-<!ENTITY checkSpellingCmd.label "Проверка орфографии…">
+<!ENTITY checkSpellingCmd.label "Проверить орфографию…">
 <!ENTITY checkSpellingCmd.key "K">
 <!ENTITY checkSpellingCmd.key2 "VK_F7">
 <!ENTITY checkSpellingCmd.accesskey "ф">

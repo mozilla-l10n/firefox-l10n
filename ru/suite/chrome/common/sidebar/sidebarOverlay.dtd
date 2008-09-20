@@ -51,8 +51,8 @@
 <!ENTITY sidebarCmd.accesskey "Б">
 <!ENTITY sidebar.loading.label "Идёт загрузка…">
 <!ENTITY sidebar.loadstopped.label "Загрузка остановлена">
-<!ENTITY sidebar.loading.stop.label "Стоп">
-<!ENTITY sidebar.loading.stop.accesskey "С">
+<!ENTITY sidebar.loading.stop.label "Остановить">
+<!ENTITY sidebar.loading.stop.accesskey "с">
 <!ENTITY sidebar.no-panels.state "Боковая панель пуста.">
 <!ENTITY sidebar.no-panels.add "Вы можете добавить разделы, нажав на кнопку «Разделы».">
 <!ENTITY sidebar.no-panels.hide "Если вы хотите полностью скрыть боковую панель, выберите меню «Вид» и выберите пункт «Боковая панель» из меню «Показать/Скрыть».">

@@ -32,5 +32,5 @@
 <!ENTITY junkMailButton.accesskey "С">
 <!ENTITY printButton.label "Печать">
 <!ENTITY printButton.accesskey "е">
-<!ENTITY stopButton.label "Стоп">
-<!ENTITY stopButton.accesskey "о">
+<!ENTITY stopButton.label "Остановить">
+<!ENTITY stopButton.accesskey "с">

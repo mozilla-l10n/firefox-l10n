@@ -26,7 +26,7 @@
 <!ENTITY otherActionsButton.label "другие действия">
 <!ENTITY saveAsMenuItem.label "сохранить как…">
 <!ENTITY saveAsMenuItem.accesskey "с">
-<!ENTITY viewSourceMenuItem.label "исходный текст…">
+<!ENTITY viewSourceMenuItem.label "показать исходник…">
 <!ENTITY viewSourceMenuItem.accesskey "х">
 <!ENTITY hideDetailsButton.label "скрыть детали">
 <!ENTITY openAttachmentCmd.label "Открыть">
