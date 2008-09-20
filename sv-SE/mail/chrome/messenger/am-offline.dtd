@@ -33,8 +33,8 @@
 
 <!ENTITY doNotDownloadPop3Movemail.label "För att spara diskutrymme, hämta inte:">
 <!ENTITY doNotDownload.label "För att spara diskutrymme, hämta inte för nedkopplat läge:">
-<!ENTITY offlineNewFolder.label "Nya mappar ska kunna användas när jag arbetar nedkopplad">
-<!ENTITY offlineNewFolder.accesskey "N">
+<!ENTITY allFoldersOffline.label "Behåll det här kontots meddelanden på den här datorn">
+<!ENTITY allFoldersOffline.accesskey "B">
 <!ENTITY offlineNotDownload.label "Meddelanden större än">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY kb.label "kB">
@@ -49,7 +49,7 @@
 <!ENTITY retentionKeepMsg.label "Ta bort meddelanden äldre än">
 <!ENTITY retentionKeepMsg.accesskey "o">
 <!ENTITY retentionKeepAll.label "Ta inte bort några meddelanden">
-<!ENTITY retentionKeepAll.accesskey "b">
+<!ENTITY retentionKeepAll.accesskey "n">
 <!ENTITY retentionKeepNew.label "Ta bort alla utom de senaste">
 <!ENTITY retentionKeepNew.accesskey "a">
 <!ENTITY retentionKeepUnread.label "Ta alltid bort lästa meddelanden">
@@ -58,10 +58,7 @@
 <!ENTITY nntpRemoveBody.accesskey "å">
 <!ENTITY offlineSelectNntp.label "Välj diskussionsgrupper för nedkopplad användning…">
 <!ENTITY offlineSelectNntp.accesskey "V">
-<!ENTITY offlineSelectImap.label "Välj mappar för nedkopplad användning…">
-<!ENTITY offlineSelectImap.accesskey "V">
-<!ENTITY offlineDesc.label "Funktionen arbeta nedkopplad gör det möjligt att hämta meddelanden så att du kan läsa dem även när du arbetar nedkopplad.">
-<!ENTITY makeInboxMsgsAvailable.label "Inkommande meddelanden ska göras tillgängliga när jag arbetar nedkopplad">
-<!ENTITY makeInboxMsgsAvailable.accesskey "I">
-<!ENTITY offlineGroupTitle.label "Arbeta nedkopplad">
+<!ENTITY offlineImapAdvancedOffline.label "Avancerat…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "v">
+<!ENTITY syncGroupTitle.label "Synkronisera meddelanden">
 <!ENTITY diskspaceGroupTitle.label "Diskutrymme">
