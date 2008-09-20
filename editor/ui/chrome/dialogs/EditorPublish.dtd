@@ -53,19 +53,19 @@
 <!ENTITY newSiteButton.accesskey      "Ú">
 <!ENTITY docDirList.label             "Honlap könyvtára:">
 <!ENTITY docDirList.accesskey         "H">
-<!ENTITY docDirList.tooltip           "Choose or enter the name of the remote subdirectory for this page">
+<!ENTITY docDirList.tooltip           "Válassza ki vagy írja be a távoli könyvtár nevét ehhez az oldalhoz">
 <!ENTITY publishImgCheckbox.label     "Képekkel és egyéb fájlokkal">
-<!ENTITY publishImgCheckbox.accesskey "o">
+<!ENTITY publishImgCheckbox.accesskey "K">
 <!ENTITY publishImgCheckbox.tooltip   "Képek és egyéb hivatkozott fájlok közzététele">
 <!ENTITY sameLocationRadio.label      "Ugyanaz a hely, mint az oldalé">
 <!ENTITY sameLocationRadio.accesskey  "U">
 <!ENTITY sameLocationRadio.tooltip    "A fájlok közzététele ugyanazon a helyen, mint az oldal">
 <!ENTITY useSubdirRadio.label         "Használja ezt az alkönyvtárat a webhelyen:">
-<!ENTITY useSubdirRadio.accesskey     "d">
-<!ENTITY useSubdirRadio.tooltip       "Publish files to the selected remote subdirectory">
+<!ENTITY useSubdirRadio.accesskey     "H">
+<!ENTITY useSubdirRadio.tooltip       "A fájlok közzététele a kijelölt távoli alkönyvtárban">
 <!ENTITY otherDirList.tooltip         "Válassza ki vagy írja be a távoli alkönyvtár nevét, ahol közzéteszi az anyagot">
 <!ENTITY pageTitle.label              "Oldal címe:">
-<!ENTITY pageTitle.accesskey          "T">
+<!ENTITY pageTitle.accesskey          "O">
 <!ENTITY pageTitle.tooltip            "Adja meg az oldal címét, ami az ablak címsorában és a könyvjelzőben jelenik majd meg">
 <!ENTITY pageTitleExample.label       "pl.: „Az én honlapom”">
 <!ENTITY filename.label               "Fájlnév:">
@@ -87,17 +87,17 @@
 <!ENTITY siteName.accesskey           "e">
 <!ENTITY siteName.tooltip             "Egy tetszőleges név, amely azonosítja a közzététel helyét (pl.: 'Honlap')">
 <!ENTITY siteUrl.label                "Közzététel helyének címe (pl.: 'ftp://ftp.szolgaltato.hu/felhasznalonev'):">
-<!ENTITY siteUrl.accesskey            "a">
+<!ENTITY siteUrl.accesskey            "K">
 <!ENTITY siteUrl.tooltip              "Az FTP:// vagy a HTTP:// cím, amelyet a szolgáltatója vagy a honlapnak otthont adó szervezet adott meg">
 <!ENTITY browseUrl.label              "Az Ön honlapjának HTTP-címe (e.g.: 'http://www.myisp.com/myusername'):">
 <!ENTITY browseUrl.accesskey          "T">
 <!ENTITY browseUrl.tooltip            "Az Ön saját könyvtárának HTTP:// címe (ne adjon meg itt fájlnevet)">
 <!ENTITY username.label               "Felhasználói név:">
-<!ENTITY username.accesskey           "U">
+<!ENTITY username.accesskey           "F">
 <!ENTITY username.tooltip             "A felhasználói név, amit a szolgáltatóhoz való belépéshez használ">
 <!ENTITY password.label               "Jelszó:">
-<!ENTITY password.accesskey           "w">
+<!ENTITY password.accesskey           "J">
 <!ENTITY password.tooltip             "A felhasználói névhez tartozó jelszó">
 <!ENTITY savePassword.label           "Jelszó mentése">
-<!ENTITY savePassword.accesskey       "S">
+<!ENTITY savePassword.accesskey       "m">
 <!ENTITY savePassword.tooltip         "Ha ezt a lehetőséget választja, a jelszót biztonságosan eltárolja a Jelszókezelő">

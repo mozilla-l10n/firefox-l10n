@@ -49,18 +49,18 @@
 <!ENTITY  validation.advanced.label               "Beállítások">
 <!ENTITY validation.advanced.accesskey           "B">
 
-<!ENTITY  validation.crl.autoupdate.title         "Automatic CRL Update Preferences">
+<!ENTITY  validation.crl.autoupdate.title         "Az automatikus CRL-frissítés beállításai">
 <!ENTITY  validation.crl.autoupdate.enable.label  "A CRL automatikus frissítésének engedélyezése">
 <!ENTITY  validation.crl.autoupdate.time.label1   "Frissítés">
 <!ENTITY  validation.crl.autoupdate.time.label2   "nappal a következő frissítés dátuma előtt">
 <!ENTITY  validation.crl.autoupdate.freq.label1   "Frissítés">
 <!ENTITY  validation.crl.autoupdate.freq.label2   "naponként">
 <!ENTITY  validation.crl.autoupdate.url.label     "A CRL-t a következő helyről importálja:">
-<!ENTITY  crl.import.status.title                 "CRL Import Status">
-<!ENTITY  crl.import.success.message              "The Certificate Revocation List (CRL) was successfully imported.">
-<!ENTITY  crl.issuer.label                        "CRL Issued By:">
-<!ENTITY  crl.issuer.org.label                    "Organization: ">
-<!ENTITY  crl.issuer.orgunit.label                "Unit: ">
+<!ENTITY  crl.import.status.title                 "A CRL-importálás állapota">
+<!ENTITY  crl.import.success.message              "A visszavont tanúsítványok listája (CRL) sikeresen importálva.">
+<!ENTITY  crl.issuer.label                        "CRL kibocsátója: ">
+<!ENTITY  crl.issuer.org.label                    "Szervezet: ">
+<!ENTITY  crl.issuer.orgunit.label                "Egység: ">
 <!ENTITY  crl.import.nextupdate.label             "Következő frissítés: ">
 <!ENTITY  crl.autoupdate.fail.cnt.label           "Eddigi frissítési hibák: ">
 <!ENTITY  crl.autoupdate.fail.reason.label        "Utolsó hiba részletei: ">

@@ -2,7 +2,7 @@
 <!ENTITY migrationWizard.title          "Importálás varázsló">
 
 <!ENTITY importFromWin.label            "Beállítások, postafiókok, címjegyzékek, szűrők és egyéb adatok importálása:">
-<!ENTITY importFromNonWin.label         "Import Preferences, Account Settings, Address Book, Filters, and other data from:">
+<!ENTITY importFromNonWin.label         "Beállítások, postafiókok, címjegyzékek, szűrők és egyéb adatok importálása:">
 
 <!ENTITY importFromNothing.label        "Nincs importálás">
 <!ENTITY importFromNothing.accesskey    "N">
@@ -17,7 +17,7 @@
 <!ENTITY importFromEudora.label         "Eudora">
 <!ENTITY importFromEudora.accesskey     "E">
 
-<!ENTITY importSource.title             "Import Settings and Mail Folders">
+<!ENTITY importSource.title             "Beállítások és levélmappák importálása">
 <!ENTITY importItems.title              "Importálandó elemek">
 <!ENTITY importItems.label              "Válassza ki az importálni kívánt elemeket:">
 

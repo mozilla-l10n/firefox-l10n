@@ -5,13 +5,13 @@
   The methods by which forged (phished) and attack sites will be detected by
   phishing providers will vary from human review to machine-based heuristics to a
   combination of both, so it's important that these strings and
-  useDownloadedList.label convey the meaning "suspected" (and not something like
+  useDownloadedList.label convey the meaning "reported" (and not something like
   "known").
 -->
-<!ENTITY  tellMaybeAttackSite.label     "Figyelmeztetés gyaníthatóan támadó webhely látogatásakor">
+<!ENTITY  tellMaybeAttackSite2.label     "Bejelentett támadó webhelyek blokkolása">
 <!ENTITY tellMaybeAttackSite.accesskey "t">
 
-<!ENTITY  tellMaybeForgery.label     "Figyelmeztetés gyaníthatóan hamisított webhely látogatásakor">
+<!ENTITY  tellMaybeForgery2.label     "Bejelentett hamisított webhelyek blokkolása">
 <!ENTITY tellMaybeForgery.accesskey "h">
 
 <!ENTITY  addonExceptions.label         "Kivételek...">

@@ -1,5 +1,5 @@
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-<!ENTITY msgComposeWindow.title "Write: (no subject)">
+<!ENTITY msgComposeWindow.title "Új üzenet: (nincs tárgy)">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label "Fájl"> 
@@ -97,8 +97,8 @@
 <!ENTITY viewToolbarsMenuNew.label "Eszköztárak"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "E"> 
 <!ENTITY showCompositionToolbarCmd.label "Szerkesztés eszköztár">
-<!ENTITY showCompositionToolbarCmd.accesskey "o">
-<!ENTITY showFormattingBarCmd.label "Formatting Bar">
+<!ENTITY showCompositionToolbarCmd.accesskey "z">
+<!ENTITY showFormattingBarCmd.label "Formázás eszköztár">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Állapotsor">
 <!ENTITY showTaskbarCmd.accesskey "s">
@@ -263,8 +263,8 @@
 <!ENTITY delete.label "Törlés">
 <!ENTITY delete.accesskey "T">
 <!ENTITY renameAttachment.label "Átnevezés...">
-<!ENTITY renameAttachment.accesskey "R">
-<!ENTITY selectAll.label "Select All">
+<!ENTITY renameAttachment.accesskey "t">
+<!ENTITY selectAll.label "Minden kijelölése">
 <!ENTITY selectAll.accesskey "d">
 <!ENTITY attachFile.label "Fájlok csatolása...">
 <!ENTITY attachFile.accesskey "F">

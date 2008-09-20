@@ -1,7 +1,7 @@
 <!-- extracted from am-addressing.xul -->
 
-<!ENTITY addressing.label          "Composition &amp; Addressing">
-<!ENTITY addressingGroupTitle.label "Addressing">
+<!ENTITY addressing.label          "Szerkesztés és címzés">
+<!ENTITY addressingGroupTitle.label "Címzés">
 <!ENTITY addressingText.label      "E-mail címek keresésekor:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "A globális LDAP-kiszolgáló beállításainak használata ennél a postafióknál">
@@ -11,22 +11,23 @@
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Másik LDAP-kiszolgáló használata:">
 <!ENTITY directories.accesskey     "M">
+<!ENTITY directoriesNone.label     "Nincs">
 
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label "Composition">
+<!ENTITY compositionGroupTitle.label "Szerkesztés">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Levelek írása HTML formátumban">
 <!ENTITY useHtml.accesskey                    "L">
 <!ENTITY autoQuote.label                      "Válaszoláskor az eredeti szöveg automatikus idézése">
-<!ENTITY autoQuote.accesskey                  "m">
+<!ENTITY autoQuote.accesskey                  "V">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "Ez után">
-<!ENTITY then.accesskey                       "T">
+<!ENTITY then.accesskey                       "E">
 <!ENTITY aboveQuote.label                     "a válasz kezdése az idézett szöveg felett">
 <!ENTITY belowQuote.label                     "a válasz kezdése az idézett szöveg alatt">
 <!ENTITY selectAndQuote.label                 "az idézett szöveg kijelölése">
 <!ENTITY place.label                          "Az aláírás elhelyezése">
-<!ENTITY place.accesskey                      "s">
+<!ENTITY place.accesskey                      "A">
 <!ENTITY belowText.label                      "az idézet alá (javasolt)">
 <!ENTITY aboveText.label                      "a válasz alá (az idézet fölé)">

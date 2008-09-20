@@ -8,16 +8,16 @@
 <!ENTITY showCondensedAddresses.label  "Csak a név megjelenítése a címjegyzékben szereplő személyeknél">
 <!ENTITY showCondensedAddresses.accesskey "C">
 
-<!ENTITY autoMarkAsRead.label          "Automatically mark messages as read">
+<!ENTITY autoMarkAsRead.label          "Üzenetek automatikus megjelölése olvasottként">
 <!ENTITY autoMarkAsRead.accesskey      "A">
-<!ENTITY markAsReadNoDelay.label       "Immediately on display">
-<!ENTITY markAsReadNoDelay.accesskey   "d">
+<!ENTITY markAsReadNoDelay.label       "Megjelenítéskor azonnal">
+<!ENTITY markAsReadNoDelay.accesskey   "M">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "After displaying for">
+<!ENTITY markAsReadDelay.label         "Megjelenítés után">
 <!ENTITY markAsReadDelay.accesskey     "e">
-<!ENTITY secondsLabel.label            "másodperc">
+<!ENTITY secondsLabel.label            "másodperc múlva">
 <!ENTITY showFolderColumns.label       "Kibővített oszlopok megjelenítése a mappapanelon">
 <!ENTITY showFolderColumns.accesskey   "K">
 <!ENTITY rememberLastMsg.label         "Az utolsó kijelölés megjegyzése">
