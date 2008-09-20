@@ -22,7 +22,7 @@
  Contributor(s):
    Henrik Olsson <henriko@algonet.se>
    Mikael Hedberg <hedberg@novasphere.net>
-   Hasse Wallanger <jasajudeju@telia.com>
+   Hasse Wallanger <hasse@jasajudeju.se>
 
  Alternatively, the contents of this file may be used under the terms of
  either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -38,28 +38,41 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField.label "Till: ">
-<!ENTITY fromField.label "Från: ">
-<!ENTITY senderField.label "Avsändare: ">
-<!ENTITY organizationField.label "Organisation: ">
-<!ENTITY replyToField.label "Svara till: ">
+<!ENTITY toField2.label "till: ">
+<!ENTITY fromField2.label "från: ">
+<!ENTITY senderField2.label "avsändare: ">
+<!ENTITY organizationField2.label "organisation: ">
+<!ENTITY replyToField2.label "svara till: ">
 
-<!ENTITY subjectField.label "Ämne: ">
-<!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField.label "Kopia: ">
-<!ENTITY bccField.label "Dold kopia: ">
-<!ENTITY newsgroupsField.label "Diskussionsgrupper: ">
-<!ENTITY followupToField.label "Uppföljning till: ">
-<!ENTITY tagsHdr.label "Etiketter: ">
-<!ENTITY dateField.label "Datum: ">
-<!ENTITY userAgentField.label "Använt program: ">
-<!ENTITY referencesField.label "Referenser: ">
-<!ENTITY messageIdField.label "Meddelande-ID: ">
-<!ENTITY inReplyToField.label "Svar på: ">
-<!ENTITY originalWebsite.label "Webbplats: ">
+<!ENTITY subjectField2.label "ämne: ">
+<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
+<!ENTITY ccField2.label "kopia: ">
+<!ENTITY bccField2.label "dold kopia: ">
+<!ENTITY newsgroupsField2.label "diskussionsgrupper: ">
+<!ENTITY followupToField2.label "uppföljning till: ">
+<!ENTITY tagsHdr2.label "etiketter: ">
+<!ENTITY dateField2.label "datum: ">
+<!ENTITY userAgentField2.label "använt program: ">
+<!ENTITY referencesField2.label "referenser: ">
+<!ENTITY messageIdField2.label "meddelande-ID: ">
+<!ENTITY inReplyToField2.label "svar på: ">
+<!ENTITY originalWebsite2.label "webbplats: ">
 <!ENTITY saveAll.label "Spara alla…">
 
-<!ENTITY editMessage.label "Redigera utkast…">
+<!ENTITY editMessageDescription.label "Det här är ett utkast">
+<!ENTITY editMessageButton.label "Redigera…">
+<!ENTITY replyButton.label "svara…">
+<!ENTITY forwardButton.label "vidarebefordra…">
+<!ENTITY junkButton.label "märk som skräp">
+<!ENTITY trashButton.tooltiptext "ta bort">
+
+<!ENTITY otherActionsButton.label "andra åtgärder">
+<!ENTITY saveAsMenuItem.label "spara som…">
+<!ENTITY saveAsMenuItem.accesskey "s">
+<!ENTITY viewSourceMenuItem.label "visa källkod…">
+<!ENTITY viewSourceMenuItem.accesskey "v">
+
+<!ENTITY hideDetailsButton.label "dölj detaljer">
 
 <!ENTITY openAttachmentCmd.label    "Öppna">
 <!ENTITY openAttachmentCmd.accesskey    "p">

@@ -72,6 +72,8 @@
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Prenumerera…">
 <!ENTITY subscribeCmd.accesskey "p">
+<!ENTITY deleteFolder.label "Ta bort mapp">
+<!ENTITY deleteFolder.accesskey "m">
 <!ENTITY renameFolder.label "Byt namn på mapp…">
 <!ENTITY renameFolder.accesskey "b">
 <!ENTITY renameFolder.key "VK_F2">
@@ -504,6 +506,7 @@
 <!ENTITY goForwardButton.tooltip "Gå framåt ett meddelande">
 <!ENTITY goBackButton.tooltip "Gå bakåt ett meddelande">
 <!ENTITY deleteButton.tooltip "Tar bort markerat meddelande eller mapp">
+<!ENTITY undeleteButton.tooltip "Ångra borttagning av markerat meddelande">
 <!ENTITY markButton.tooltip "Märker meddelande">
 <!ENTITY printButton.tooltip "Skriv ut detta meddelande">
 <!ENTITY stopButton.tooltip "Avbryter pågående överföring">
@@ -570,6 +573,7 @@
 <!ENTITY searchFromMenu.label "Från">
 <!ENTITY searchSubjectOrFromMenu.label "Ämne eller Från">
 <!ENTITY searchRecipient.label "Till eller Kopia">
+<!ENTITY searchSubjectOrRecipientMenu.label "Ämne, Till eller Kopia">
 <!ENTITY searchMessageBody.label "Meddelandetext">
 <!ENTITY saveAsVirtualFolderMenu.label "Spara sökning som en mapp…">
 
@@ -656,12 +660,12 @@
 
 <!-- Remote Content Bar -->
 <!ENTITY remoteContentMessage1.label "För att skydda din personliga integritet har externa bilder blockerats.">
-<!ENTITY loadRemoteContentButton1.label "Hämta bilder">
+<!ENTITY loadRemoteContentButton2.label "Visa bilder nu">
 
 <!-- Phishing Bar -->
-<!ENTITY phishingBarMessage1.label "Misstänkt e-postbluff">
+<!ENTITY phishingBarMessage2.label "Det här meddelandet kan vara en bluff.">
 <!ENTITY removePhishingBarButton1.label "Ignorera varningen">
-<!ENTITY reportPhishingError.label "Det här är inte en e-postbluff">
+<!ENTITY reportPhishingError1.label "Det här meddelandet verkar inte vara en bluff.">
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
@@ -669,6 +673,8 @@
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Lägg till i adressbok…">
 <!ENTITY AddToAddressBook.accesskey "L">
+<!ENTITY AddDirectlyToAddressBook.label "Lägg till i adressboken">
+<!ENTITY AddDirectlyToAddressBook.accesskey "L">
 <!ENTITY EditContact.label "Redigera kontakt…">
 <!ENTITY EditContact.accesskey "R">
 <!ENTITY ViewContact.label "Visa kontakt">
@@ -685,10 +691,10 @@
 <!ENTITY reportPhishingURL.accesskey "R">
 
 <!-- Content Pane Context Menu -->
-<!ENTITY saveLinkCmd.label "Spara länkmål">
-<!ENTITY saveLinkCmd.accesskey "S">
-<!ENTITY saveImageCmd.label "Spara bild">
-<!ENTITY saveImageCmd.accesskey "b">
+<!ENTITY saveLinkAsCmd.label "Spara länk som…">
+<!ENTITY saveLinkAsCmd.accesskey "S">
+<!ENTITY saveImageAsCmd.label "Spara bild som…">
+<!ENTITY saveImageAsCmd.accesskey "b">
 <!ENTITY copyCmd.label "Kopiera">
 <!ENTITY copyCmd.accesskey "o">
 <!ENTITY selectAllCmd.label "Markera allt">
