@@ -11,15 +11,13 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is Mozilla Calendar Preferences
+   - The Original Code is Sun Microsystems code.
    -
-   - The Initial Developer of the Original Code is
-   - Matthew Willis
+   - The Initial Developer of the Original Code is Sun Microsystems.
    - Portions created by the Initial Developer are Copyright (C) 2006
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributor(s): 
-   -   Cédric Corazza <cedric.corazza@wanadoo.fr>
+   - Contributor(s): Thomas Benisch <thomas.benisch@sun.com>
    -   Proyecto NAVE (http://www.proyectonave.es/)
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -34,16 +32,15 @@
    - the provisions above, a recipient may use your version of this file under
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
-   - ***** END LICENSE BLOCK ***** -->
-<!ENTITY pref.mainbox.label "Configuración general">
-<!ENTITY pref.dateformat.label "Formato de texto de fecha:">
-<!ENTITY pref.dateformat.accesskey "F">
-<!ENTITY pref.dateformat.long "Largo">
-<!ENTITY pref.dateformat.short "Corto">
-<!ENTITY pref.defaultlength.label "Duración predeterminada de un evento:">
-<!ENTITY pref.defaultlength.accesskey "D">
-<!ENTITY pref.defaultsnoozelength.label "Duración predeterminada de retardo:">
-<!ENTITY pref.defaultsnoozelength.accesskey "u">
-<!ENTITY pref.refreshbox.label "Configuración de actualizaciones">
-<!ENTITY pref.autorefresh.label "Actualizar los calendarios cada">
-<!ENTITY pref.autorefresh.accesskey "A">
+   - ***** END LICENSE BLOCK *****
+-->
+<!ENTITY calendar.invitations.dialog.invitations.text "Invitaciones">
+<!ENTITY calendar.invitations.dialog.statusmessage.updating.text "Actualizando lista de invitaciones.">
+<!ENTITY calendar.invitations.dialog.statusmessage.noinvitations.text "No se han encontrado invitaciones sin confirmar.">
+<!ENTITY calendar.invitations.list.accept.button.label "Aceptar">
+<!ENTITY calendar.invitations.list.decline.button.label "Rechazar">
+<!ENTITY calendar.invitations.list.recurrentevent.text "Evento repetitivo">
+<!ENTITY calendar.invitations.list.alldayevent.text "Evento de día completo">
+<!ENTITY calendar.invitations.list.location.text "Lugar: ">
+<!ENTITY calendar.invitations.list.organizer.text "Organizador: ">
+<!ENTITY calendar.invitations.list.none.text "Ninguno">

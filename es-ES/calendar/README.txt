@@ -1,3 +1,2 @@
-For information about installing, running and configuring Sunbird 
-including a list of known issues and troubleshooting information, 
-refer to: http://www.mozilla.org/projects/calendar/
+Para información sobre cómo instalar, ejecutar y configurar Sunbird,
+incluyendo una lista de problemas conocidos e información sobre resolución de problemas, remítase a http://www.mozilla.org/projects/calendar/

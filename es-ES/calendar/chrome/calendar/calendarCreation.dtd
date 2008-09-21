@@ -44,6 +44,6 @@
 <!ENTITY locationpage.username.label "Nombre de usuario:">
 <!ENTITY locationpage.password.label "Contraseña:">
 <!ENTITY custompage.shortdescription "Personalizar su calendario">
-<!ENTITY custompage.longdescription "Puede dar un apodo a su calendario y colorear los eventos de éste">
+<!ENTITY custompage.longdescription "Puede dar un apodo a su calendario y colorear los eventos de éste.">
 <!ENTITY finishpage.shortdescription "Calendario creado">
-<!ENTITY finishpage.longdescription "Se ha creado su calendario">
+<!ENTITY finishpage.longdescription "Se ha creado su calendario.">

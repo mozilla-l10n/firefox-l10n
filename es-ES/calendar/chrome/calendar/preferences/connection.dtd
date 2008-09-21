@@ -34,13 +34,9 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY pref.showConnections.label "Configuración de conexión…">
-<!ENTITY pref.showConnections.accesskey "o">
-<!ENTITY pref.proxiesInfo.label "Determinar cómo se conecta a Internet &brandShortName;.">
-<!ENTITY pref.connectionsInfo.caption "Conexión">
 <!ENTITY connectionsDialog.title "Configuración de conexión">
-<!ENTITY window.width "42em">
-<!ENTITY window.macWidth "45em">
+<!ENTITY window.width "44em">
+<!ENTITY window.macWidth "47em">
 <!ENTITY proxyTitle.label "Configurar proxies para acceder a Internet">
 <!ENTITY directTypeRadio.label "Conexión directa a Internet">
 <!ENTITY directTypeRadio.accesskey "C">
@@ -50,8 +46,6 @@
 <!ENTITY manualTypeRadio.accesskey "m">
 <!ENTITY autoTypeRadio.label "URL de configuración automática del proxy:">
 <!ENTITY autoTypeRadio.accesskey "L">
-<!ENTITY configAutoconfigText.label "Ubicación de la configuración (URL):">
-<!ENTITY configAutoconfigText.accesskey "U">
 <!ENTITY reload.label "Recargar">
 <!ENTITY reload.accesskey "R">
 <!ENTITY ftp.label "Proxy FTP:">

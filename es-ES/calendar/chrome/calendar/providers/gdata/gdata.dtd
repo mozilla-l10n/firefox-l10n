@@ -11,15 +11,14 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is Mozilla Calendar Preferences
+   - The Original Code is Google Calendar Provider code.
    -
    - The Initial Developer of the Original Code is
-   - Matthew Willis
+   -   Philipp Kewisch <mozilla@kewis.ch>
    - Portions created by the Initial Developer are Copyright (C) 2006
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributor(s): 
-   -   Cédric Corazza <cedric.corazza@wanadoo.fr>
+   - Contributor(s):
    -   Proyecto NAVE (http://www.proyectonave.es/)
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -35,15 +34,12 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY pref.mainbox.label "Configuración general">
-<!ENTITY pref.dateformat.label "Formato de texto de fecha:">
-<!ENTITY pref.dateformat.accesskey "F">
-<!ENTITY pref.dateformat.long "Largo">
-<!ENTITY pref.dateformat.short "Corto">
-<!ENTITY pref.defaultlength.label "Duración predeterminada de un evento:">
-<!ENTITY pref.defaultlength.accesskey "D">
-<!ENTITY pref.defaultsnoozelength.label "Duración predeterminada de retardo:">
-<!ENTITY pref.defaultsnoozelength.accesskey "u">
-<!ENTITY pref.refreshbox.label "Configuración de actualizaciones">
-<!ENTITY pref.autorefresh.label "Actualizar los calendarios cada">
-<!ENTITY pref.autorefresh.accesskey "A">
+<!ENTITY gdata-provider.label "Google Calendar">
+<!ENTITY gdata.privacy.default.label "Predeterminado de Google">
+<!ENTITY gdata.privacy.default.accesskey "D">
+<!ENTITY gdata.migration.title "Migrar calendarios de sólo lectura">
+<!ENTITY gdata.migration.description "El proveedor de Google Calendar ha detectado que tiene calendarios existentes que sólo pueden acceder a Google Calendar en modo de sólo lectura. Si le gustaría actualizar alguno de estos calendarios, por favor, selecciónelos a continuación">
+<!ENTITY gdata.migration.upgrade.label "Actualizar">
+<!ENTITY gdata.migration.upgrade.accesskey "U">
+<!ENTITY gdata.migration.showagain.label "Comprobar siempre ">
+<!ENTITY gdata.reminder.action.sms.label "Enviar un mensaje de texto">
