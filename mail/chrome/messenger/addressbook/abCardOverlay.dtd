@@ -136,6 +136,11 @@
 
 <!ENTITY Other.tab                      "Overig">
 <!ENTITY Other.accesskey                "O">
+<!ENTITY Birthday.label                 "Verjaardag:">
+<!ENTITY Birthday.accesskey             "V">
+<!ENTITY Year.emptytext                 "Jaar">
+<!ENTITY Or.value                       "of">
+<!ENTITY Age.emptytext                  "Leeftijd">
 <!ENTITY Custom1.label                  "Overig 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Overig 2:">
