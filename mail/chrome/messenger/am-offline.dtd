@@ -1,7 +1,7 @@
 <!ENTITY doNotDownloadPop3Movemail.label "For å spare diskplass, ikkje last ned:">
 <!ENTITY doNotDownload.label "For å spare diskplass, ikkje last ned for fråkopla bruk:">
-<!ENTITY offlineNewFolder.label "Når eg opprettar nye mapper, merk dei for fråkopla bruk">
-<!ENTITY offlineNewFolder.accesskey "N">
+<!ENTITY allFoldersOffline.label "Behald meldingar for denne kontoen på datamaskina">
+<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Meldingar større enn">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY kb.label "KB">
@@ -25,10 +25,7 @@
 <!ENTITY nntpRemoveBody.accesskey "m">
 <!ENTITY offlineSelectNntp.label "Vel nyhendegrupper som skal lesast fråkopla">
 <!ENTITY offlineSelectNntp.accesskey "S">
-<!ENTITY offlineSelectImap.label "Vel mapper for fråkopla bruk ...">
-<!ENTITY offlineSelectImap.accesskey "S">
-<!ENTITY offlineDesc.label "Du kan laste ned meldingar lokalt, slik at dei vert tilgjengelege når du arbeider i fråkopla modus.">
-<!ENTITY makeInboxMsgsAvailable.label "Gjer meldingane i Innboksen tilgjengelege når eg arbeider fråkopla">
-<!ENTITY makeInboxMsgsAvailable.accesskey "G">
-<!ENTITY offlineGroupTitle.label "Fråkopla">
+<!ENTITY offlineImapAdvancedOffline.label "Avansert …">
+<!ENTITY offlineImapAdvancedOffline.accesskey "A">
+<!ENTITY syncGroupTitle.label "Meldingssynkronisering">
 <!ENTITY diskspaceGroupTitle.label "Diskplass">

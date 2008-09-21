@@ -22,9 +22,6 @@
 
 <!ENTITY     filter.label                   "Søk:">
 <!ENTITY     filter.accesskey               "S">
-<!ENTITY     clear.label                    "Tøm">
-<!ENTITY     clear.accesskey                "T">
 
 <!ENTITY     button.close.label             "Lat att">
 <!ENTITY     button.close.accesskey         "L">
-

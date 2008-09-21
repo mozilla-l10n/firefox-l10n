@@ -35,28 +35,41 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField.label "Til: ">
-<!ENTITY fromField.label "Frå: ">
-<!ENTITY senderField.label "Avsender: ">
-<!ENTITY organizationField.label "Organisasjon: ">
-<!ENTITY replyToField.label "Svar til: ">
+<!ENTITY toField2.label "til">
+<!ENTITY fromField2.label "frå">
+<!ENTITY senderField2.label "avsendar">
+<!ENTITY organizationField2.label "organisasjon">
+<!ENTITY replyToField2.label "svar-til">
 
-<!ENTITY subjectField.label "Emne: ">
-<!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField.label "Kopi: ">
-<!ENTITY bccField.label "Blindkopi: ">
-<!ENTITY newsgroupsField.label "Nyhendegrupper: ">
-<!ENTITY followupToField.label "Oppfølgjing til: ">
-<!ENTITY tagsHdr.label "Merkelappar: ">
-<!ENTITY dateField.label "Dato: ">
-<!ENTITY userAgentField.label "Applikasjon: ">
-<!ENTITY referencesField.label "References: ">
-<!ENTITY messageIdField.label "Meldings-ID: ">
-<!ENTITY inReplyToField.label "In-Reply-To: ">
-<!ENTITY originalWebsite.label "Nettstad: ">
+<!ENTITY subjectField2.label "emne ">
+<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
+<!ENTITY ccField2.label "kopi ">
+<!ENTITY bccField2.label "blindkopi">
+<!ENTITY newsgroupsField2.label "nyhendegruppe">
+<!ENTITY followupToField2.label "oppfølging">
+<!ENTITY tagsHdr2.label "merkelappar">
+<!ENTITY dateField2.label "dato ">
+<!ENTITY userAgentField2.label "brukarprogram">
+<!ENTITY referencesField2.label "referansar">
+<!ENTITY messageIdField2.label "meldings-ID">
+<!ENTITY inReplyToField2.label "som-svar-til">
+<!ENTITY originalWebsite2.label "nettstad">
 <!ENTITY saveAll.label "Lagre alle …">
 
-<!ENTITY editMessage.label "Rediger utkast …">
+<!ENTITY editMessageDescription.label "Dette er eit meldingsutkast">
+<!ENTITY editMessageButton.label "Rediger …">
+<!ENTITY replyButton.label "svar …">
+<!ENTITY forwardButton.label "vidaresend …">
+<!ENTITY junkButton.label "mek som uønskt">
+<!ENTITY trashButton.tooltiptext "slett">
+
+<!ENTITY otherActionsButton.label "andre handlingar">
+<!ENTITY saveAsMenuItem.label "lagre som …">
+<!ENTITY saveAsMenuItem.accesskey "S">
+<!ENTITY viewSourceMenuItem.label "vis kjeldekode …">
+<!ENTITY viewSourceMenuItem.accesskey "V">
+
+<!ENTITY hideDetailsButton.label "skjul detaljar">
 
 <!ENTITY openAttachmentCmd.label    "Opne">
 <!ENTITY openAttachmentCmd.accesskey    "Å">
