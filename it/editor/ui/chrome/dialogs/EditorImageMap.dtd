@@ -39,49 +39,43 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY windowTitle.label "Editor mappa dell'immagine">
 <!ENTITY mapfileMenu.label "File">
-<!ENTITY mapfilemenu.accesskey "F">
+<!ENTITY mapfileMenu.accesskey "f">
 <!ENTITY clearCmd.label "Rimuovi">
-<!ENTITY mapfileclear.accesskey "R">
+<!ENTITY clearCmd.accesskey "R">
 <!ENTITY closeCmd.label "Chiudi">
-<!ENTITY mapfileclose.accesskey "c">
+<!ENTITY closeCmd.accesskey "c">
 <!ENTITY mapeditMenu.label "Modifica">
-<!ENTITY mapeditmenu.accesskey "M">
+<!ENTITY mapeditMenu.accesskey "o">
 <!ENTITY cutCmd.label "Taglia">
-<!ENTITY mapeditcut.accesskey "t">
+<!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Copia">
-<!ENTITY mapeditcopy.accesskey "c">
+<!ENTITY copyCmd.accesskey "c">
 <!ENTITY pasteCmd.label "Incolla">
-<!ENTITY mapeditpaste.accesskey "i">
+<!ENTITY pasteCmd.accesskey "n">
 <!ENTITY selectallCmd.label "Seleziona tutto">
-<!ENTITY mapselectall.accesskey "s">
+<!ENTITY selectallCmd.accesskey "s">
 <!ENTITY propsCmd.label "Proprietà area collegamento">
-<!ENTITY mapeditprops.accesskey "P">
+<!ENTITY propsCmd.accesskey "a">
 <!ENTITY mapviewMenu.label "Visualizza">
-<!ENTITY mapviewmenu.accesskey "V">
+<!ENTITY mapviewMenu.accesskey "v">
 <!ENTITY showhideTbarCmd.label "Nascondi barra strumenti">
-<!ENTITY mapviewtbar.accesskey "b">
+<!ENTITY showhideTbarCmd.accesskey "t">
 <!ENTITY mapviewScale.label "Ridimensiona">
-<!ENTITY mapviewscale.accesskey "R">
+<!ENTITY mapviewScale.accesskey "S">
 <!ENTITY apercentCmd.label "100">
-<!ENTITY zoomone.accesskey "1">
+<!ENTITY apercentCmd.accesskey "1">
 <!ENTITY bpercentCmd.label "200">
-<!ENTITY zoomtwo.accesskey "2">
+<!ENTITY bpercentCmd.accesskey "2">
 <!ENTITY cpercentCmd.label "400">
-<!ENTITY zoomthree.accesskey "4">
-<!ENTITY contrastCmd.label "Contrasto">
-<!ENTITY contrast.accesskey "c">
-<!ENTITY maphelpMenu.label "Guida">
-<!ENTITY maphelpmenu.accesskey "G">
-<!ENTITY aboutCmd.label "Informazioni su">
-<!ENTITY about.accesskey "i">
+<!ENTITY cpercentCmd.accesskey "4">
 <!ENTITY zoominCmd.label "Aumenta zoom">
 <!ENTITY zoomoutCmd.label "Diminuisci zoom">
 <!ENTITY delSpotCmd.label "Elimina area">
-<!ENTITY clear.accesskey "d">
-<!ENTITY selectall.accesskey "a">
-<!ENTITY close.accesskey "l">
-<!ENTITY cut.accesskey "x">
-<!ENTITY copy.accesskey "c">
-<!ENTITY paste.accesskey "v">
-<!ENTITY props.accesskey "p">
-<!ENTITY tbar.accesskey "t">
+<!ENTITY clear.key "d">
+<!ENTITY selectall.key "a">
+<!ENTITY close.key "l">
+<!ENTITY cut.key "x">
+<!ENTITY copy.key "c">
+<!ENTITY paste.key "v">
+<!ENTITY props.key "p">
+<!ENTITY tbar.key "t">
