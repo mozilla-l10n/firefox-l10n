@@ -70,6 +70,7 @@
 <!ENTITY viewSourceMenuItem.accesskey "a">
 
 <!ENTITY hideDetailsButton.label "masquer les détails">
+<!ENTITY showDetailsButton.label "afficher les détails">
 
 <!ENTITY openAttachmentCmd.label "Ouvrir">
 <!ENTITY openAttachmentCmd.accesskey "O">
