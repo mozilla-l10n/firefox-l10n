@@ -67,7 +67,7 @@
 <!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "Параметры страницы…">
 <!ENTITY printSetupCmd.accesskey "а">
-<!ENTITY deleteMsgCmd.label "Удалить">
+<!ENTITY deleteMsgCmd.label "Удалить сообщение">
 <!ENTITY deleteMsgCmd.accesskey "У">
 <!ENTITY undeleteMsgCmd.label "Восстановить сообщение">
 <!ENTITY undeleteMsgCmd.accesskey "В">
