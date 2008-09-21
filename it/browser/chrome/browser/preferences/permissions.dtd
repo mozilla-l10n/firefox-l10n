@@ -7,6 +7,7 @@
 <!ENTITY removeallpermissions.label "Rimuovi tutti i siti">
 <!ENTITY removeallpermissions.accesskey "t">
 <!ENTITY address.label "Indirizzo del sito:">
+<!ENTITY address.accesskey "n">
 <!ENTITY block.label "Blocca">
 <!ENTITY block.accesskey "B">
 <!ENTITY session.label "Permetti per la sessione">
