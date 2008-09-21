@@ -27,19 +27,6 @@
 <!ENTITY startpage.pageInfo "För engelsk produktinformation, besök">
 <!ENTITY startpage.pageURL "http://www.mozilla.org/products/thunderbird/">
 
-<!ENTITY startpage.extra "<script type='text/javascript'>
-<![CDATA[
-function installDic(anchor)
-{
-   var params = { 'Svensk ordlista': anchor.getAttribute('href') };
-   InstallTrigger.install(params);
-}
-]]>
-</script><h2>Stavningskontroll</h2><p>Av licensskäl medföljer
-  tyvärr ingen svensk rättstavningsordlista i &brandShortName;. Vill du använda
-  en sådan kan du dock själv hämta en från webbplatsen
-  <a href='https://addons.mozilla.org/thunderbird/3064/'>Thunderbird Addons</a>
-  genom att klicka på <a href='http://releases.mozilla.org/pub/mozilla.org/extensions/svensk_ordlista/svensk_ordlista-1.4-fx+zm+tb.xpi'
-  onclick='installDic(this);return false'>denna länk</a>.</p>">
+<!ENTITY startpage.extra "">
 
 <!ENTITY startpage.poweredByGecko "Powered by Gecko.">
