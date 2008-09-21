@@ -1,8 +1,0 @@
-<!ENTITY junkLog.title "Levélszemétnapló">
-<!ENTITY junkLogInfo.text "A Levélszemétnapló dokumentálja a levélszemétszűrő tevékenységét ezen a postafiókon. Az alábbi jelölőnégyzet segítségével engedélyezhető a naplózás.">
-<!ENTITY clearLog.label "Napló törlése">
-<!ENTITY clearLog.accesskey "N">
-<!ENTITY enableLog.label "Levélszemétnapló engedélyezése">
-<!ENTITY enableLog.accesskey "L">
-<!ENTITY closeLog.label "Bezárás">
-<!ENTITY closeLog.accesskey "B">
