@@ -38,6 +38,8 @@
 <!ENTITY sendUnsentCmd.accesskey "u">
 <!ENTITY subscribeCmd.label "Abonner …">
 <!ENTITY subscribeCmd.accesskey "A">
+<!ENTITY deleteFolder.label "Slett mappe">
+<!ENTITY deleteFolder.accesskey "e">
 <!ENTITY renameFolder.label "Endre mappenamn …">
 <!ENTITY renameFolder.accesskey "E">
 <!ENTITY renameFolder.key "VK_F2">
@@ -439,6 +441,7 @@
 <!ENTITY backButton1.label "Tilbake">
 <!ENTITY goForwardButton1.label "Fram">
 <!ENTITY deleteButton.label "Slett">
+<!ENTITY undeleteButton.label "Angre sletting">
 <!ENTITY markButton.label "Merk">
 <!ENTITY printButton.label "Skriv ut">
 <!ENTITY stopButton.label "Stopp">
@@ -470,6 +473,7 @@
 <!ENTITY goForwardButton.tooltip "Gå fram ei melding">
 <!ENTITY goBackButton.tooltip "Gå tilbake ei melding">
 <!ENTITY deleteButton.tooltip "Slett meldinga eller mappa">
+<!ENTITY undeleteButton.tooltip "Angre sletting av melding">
 <!ENTITY markButton.tooltip "Merk meldingar">
 <!ENTITY printButton.tooltip "Skriv ut denne meldinga">
 <!ENTITY stopButton.tooltip "Stopp denne overføringa">
@@ -623,12 +627,12 @@
 
 <!-- Remote Content Bar -->
 <!ENTITY remoteContentMessage1.label "Av personvernomsyn er eksterne bilete blokkerte.">
-<!ENTITY loadRemoteContentButton1.label "Vis bilete">
+<!ENTITY loadRemoteContentButton2.label "Last inn bilete no">
 
 <!-- Phishing Bar -->
-<!ENTITY phishingBarMessage1.label "Mistenkt e-postsvindel">
+<!ENTITY phishingBarMessage2.label "Denne meldinga kan vere svindel">
 <!ENTITY removePhishingBarButton1.label "Ignorer åtvaring">
-<!ENTITY reportPhishingError.label "Dette er ikkje e-postsvindel">
+<!ENTITY reportPhishingError1.label "Denne meldinga ser ikkje ut til å vere svindel.">
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
@@ -636,6 +640,8 @@
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Legg til i adressebok …">
 <!ENTITY AddToAddressBook.accesskey "L">
+<!ENTITY AddDirectlyToAddressBook.label "Legg til i adressebok">
+<!ENTITY AddDirectlyToAddressBook.accesskey "B">
 <!ENTITY EditContact.label "Rediger kontakt …">
 <!ENTITY EditContact.accesskey "E">
 <!ENTITY ViewContact.label "Vis kontakt">

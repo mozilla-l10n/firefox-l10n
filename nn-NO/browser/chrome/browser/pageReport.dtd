@@ -1,9 +1,0 @@
-<!ENTITY caption.label "Blokkerte sprettoppvindauge">
-
-<!ENTITY intro.label "Følgjande nettstader vart hindra i å vise sprettoppvindauge:">
-
-<!ENTITY done.label "Ferdig">
-<!ENTITY done.accesskey "F">
-
-<!ENTITY unblock.label "Fjern blokkering av nettstad">
-<!ENTITY unblock.accesskey "r">

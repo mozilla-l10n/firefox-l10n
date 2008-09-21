@@ -8,10 +8,10 @@
   useDownloadedList.label convey the meaning "suspected" (and not something like
   "known").
 -->
-<!ENTITY  tellMaybeAttackSite.label     "Fortel meg om ei nettside er ei mistenkjeleg åtakside">
+<!ENTITY  tellMaybeAttackSite2.label     "Fortel meg om ei nettside er ei mistenkjeleg åtakside">
 <!ENTITY  tellMaybeAttackSite.accesskey "k">
 
-<!ENTITY  tellMaybeForgery.label     "Fortel meg dersom ei nettside er mistenkt for å vere svindel">
+<!ENTITY  tellMaybeForgery2.label     "Fortel meg dersom ei nettside er mistenkt for å vere svindel">
 <!ENTITY  tellMaybeForgery.accesskey "F">
 
 <!ENTITY  addonExceptions.label         "Unntak …">

@@ -45,60 +45,51 @@
 <!-- Menu Items -->
 <!-- File menu -->
 <!ENTITY mapfileMenu.label "Fil">
-<!ENTITY mapfilemenu.accesskey "F">
+<!ENTITY mapfileMenu.accesskey "f">
 <!ENTITY clearCmd.label "Tøm">
-<!ENTITY mapfileclear.accesskey "T">
+<!ENTITY clearCmd.accesskey "a">
 <!ENTITY closeCmd.label "Lat att">
-<!ENTITY mapfileclose.accesskey "L">
+<!ENTITY closeCmd.accesskey "c">
 
 <!-- Edit menu -->
 <!ENTITY mapeditMenu.label "Rediger">
-<!ENTITY mapeditmenu.accesskey "R">
+<!ENTITY mapeditMenu.accesskey "e">
 <!ENTITY cutCmd.label "Klipp ut">
-<!ENTITY mapeditcut.accesskey "u">
+<!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Kopier">
-<!ENTITY mapeditcopy.accesskey "K">
+<!ENTITY copyCmd.accesskey "c">
 <!ENTITY pasteCmd.label "Lim inn">
-<!ENTITY mapeditpaste.accesskey "L">
+<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY selectallCmd.label "Merk alt">
-<!ENTITY mapselectall.accesskey "V">
+<!ENTITY selectallCmd.accesskey "s">
 <!ENTITY propsCmd.label "Eigenskapar for aktive område">
-<!ENTITY mapeditprops.accesskey "e">
+<!ENTITY propsCmd.accesskey "h">
 
 <!-- View menu -->
 <!ENTITY mapviewMenu.label "Vis">
-<!ENTITY mapviewmenu.accesskey "V">
+<!ENTITY mapviewMenu.accesskey "v">
 <!ENTITY showhideTbarCmd.label "Skjul verktøylinje">
-<!ENTITY mapviewtbar.accesskey "r">
+<!ENTITY showhideTbarCmd.accesskey "t">
 <!-- Scaling -->
 <!ENTITY mapviewScale.label "Skaler">
-<!ENTITY mapviewscale.accesskey "S">
+<!ENTITY mapviewScale.accesskey "S">
 <!ENTITY apercentCmd.label "100">
-<!ENTITY zoomone.accesskey "1">
+<!ENTITY apercentCmd.accesskey "1">
 <!ENTITY bpercentCmd.label "200">
-<!ENTITY zoomtwo.accesskey "2">
+<!ENTITY bpercentCmd.accesskey "2">
 <!ENTITY cpercentCmd.label "400">
-<!ENTITY zoomthree.accesskey "4">
-<!-- end scaling-->
-<!ENTITY contrastCmd.label "Kontrast">
-<!ENTITY contrast.accesskey "K">
-
-<!-- Help menu -->
-<!ENTITY maphelpMenu.label "Hjelp">
-<!ENTITY maphelpmenu.accesskey "H">
-<!ENTITY aboutCmd.label "Om">
-<!ENTITY about.accesskey "O">
+<!ENTITY cpercentCmd.accesskey "4">
 
 <!ENTITY zoominCmd.label "Forstørr">
 <!ENTITY zoomoutCmd.label "Forminsk">
 <!ENTITY delSpotCmd.label "Slett område">
 
 <!-- Keys -->
-<!ENTITY clear.accesskey "T">
-<!ENTITY selectall.accesskey "a">
-<!ENTITY close.accesskey "L">
-<!ENTITY cut.accesskey "u">
-<!ENTITY copy.accesskey "K">
-<!ENTITY paste.accesskey "L">
-<!ENTITY props.accesskey "E">
-<!ENTITY tbar.accesskey "v">
+<!ENTITY clear.key "d">
+<!ENTITY selectall.key "a">
+<!ENTITY close.key "l">
+<!ENTITY cut.key "x">
+<!ENTITY copy.key "c">
+<!ENTITY paste.key "v">
+<!ENTITY props.key "p">
+<!ENTITY tbar.key "t">
