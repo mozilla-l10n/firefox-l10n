@@ -16,12 +16,16 @@
 <!ENTITY HTMLTab.accesskey "h">
 <!ENTITY PlainTextTab.label "מתחמי טקסט פשוט">
 <!ENTITY PlainTextTab.accesskey "p">
+<!ENTITY AddHtmlDomain.label          "הוסף…">
 <!-- ### ENTITY AddButton.label "הוסף..." -->
-<!ENTITY AddHtmlDomain.accesskey "a">
-<!ENTITY AddPlainText.accesskey "d">
+<!ENTITY AddHtmlDomain.accesskey "ה">
+<!ENTITY AddPlainText.label           "הוסף…">
+<!ENTITY AddPlainText.accesskey "ס">
+<!ENTITY DeleteHtmlDomain.label       "מחק">
 <!-- ### ENTITY DeleteButton.label "מחק" -->
-<!ENTITY DeleteHtmlDomain.accesskey "l">
-<!ENTITY DeletePlainText.accesskey "t">
+<!ENTITY DeleteHtmlDomain.accesskey "מ">
+<!ENTITY DeletePlainText.label        "מחק">
+<!ENTITY DeletePlainText.accesskey "ח">
 <!ENTITY add.htmltitle "הוסף שם מתחם HTML">
 <!ENTITY add.htmldomain "שם מתחם HTML:">
 <!ENTITY add.htmldomain.accesskey "d">

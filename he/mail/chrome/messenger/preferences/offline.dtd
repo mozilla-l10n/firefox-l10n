@@ -1,22 +1,22 @@
 <!ENTITY offlineDialog.title "הגדרות לא־מקוון">
 <!ENTITY textStartUp "בהפעלה:">
-<!-- ### ENTITY radioRememberPrevState "זכור מצב מקוון קודם" -->
+<!ENTITY radioRememberPrevState.label "זכור מצב מקוון קודם">
 <!ENTITY radioRememberPrevState.accesskey "ז">
-<!-- ### ENTITY radioAskMe "שאל אותי למצב מקוון בעת ההפעלה" -->
+<!ENTITY radioAskMe.label "שאל אותי למצב מקוון בעת ההפעלה">
 <!ENTITY radioAskMe.accesskey "מ">
-<!-- ### ENTITY radioAlwaysOnline "התחל תמיד במצב מקוון" -->
+<!ENTITY radioAlwaysOnline.label "התחל תמיד במצב מקוון">
 <!ENTITY radioAlwaysOnline.accesskey "ה">
 <!ENTITY textGoingOnline "לשלוח הודעות שלא נשלחו במעבר למצב מקוון?">
-<!-- ### ENTITY radioAutoSend "כן" -->
+<!ENTITY radioAutoSend.label "כן">
 <!ENTITY radioAutoSend.accesskey "כ">
-<!-- ### ENTITY radioNotSend "לא" -->
+<!ENTITY radioNotSend.label "לא">
 <!ENTITY radioNotSend.accesskey "א">
-<!-- ### ENTITY radioAskUnsent "שאל אותי" -->
+<!ENTITY radioAskUnsent.label "שאל אותי">
 <!ENTITY radioAskUnsent.accesskey "ש">
 <!ENTITY textGoingOffline "להוריד הודעות לשימוש לא־מקוון במעבר למצב לא מקוון?">
-<!-- ### ENTITY radioAutoDownload "כן" -->
-<!ENTITY radioAutoDownload.accesskey "ן">
-<!-- ### ENTITY radioNotDownload "לא" -->
+<!ENTITY radioAutoDownload.label "כן">
+<!ENTITY radioAutoDownload.accesskey "כ">
+<!ENTITY radioNotDownload.label "לא">
 <!ENTITY radioNotDownload.accesskey "ל">
-<!-- ### ENTITY radioAskDownload "שאל אותי" -->
+<!ENTITY radioAskDownload.label "שאל אותי">
 <!ENTITY radioAskDownload.accesskey "ש">

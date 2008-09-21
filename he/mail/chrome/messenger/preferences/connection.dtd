@@ -1,6 +1,12 @@
 <!ENTITY connectionsDialog.title "הגדרות חיבור">
 <!ENTITY window.width "46em">
 <!ENTITY proxyTitle.label "קבע תצורה לשרתים מתווכים לגישה לאינטרנט">
+
+<!ENTITY  noProxyTypeRadio.label        "ללא שרת מתווך">
+<!ENTITY  noProxyTypeRadio.accesskey    "ל">
+<!ENTITY  systemTypeRadio.label         "השתמש בהגדרות השרת המתווך של המערכת">
+<!ENTITY  systemTypeRadio.accesskey     "מ">
+
 <!-- ### ENTITY directTypeRadio.label "קשר ישיר לאינטרנט" -->
 <!-- ### ENTITY directTypeRadio.accesskey "ל" -->
 <!ENTITY WPADTypeRadio.label "זהה אוטומטית הגדרות שרת מתווך עבור רשת זו">
@@ -28,10 +34,13 @@
 <!ENTITY socks5.label "SOCKS v5">
 <!ENTITY socks5.accesskey "v">
 <!-- ### ENTITY port.label "שער:" -->
+<!ENTITY  HTTPport.label                "שער:">
 <!ENTITY HTTPport.accesskey "ש">
+<!ENTITY  SSLport.label                 "שער:">
 <!ENTITY SSLport.accesskey "ע">
 <!-- ### ENTITY FTPport.accesskey "r" -->
 <!-- ### ENTITY gopherPort.accesskey "" -->
+<!ENTITY  SOCKSport.label               "שער:">
 <!ENTITY SOCKSport.accesskey "ר">
 <!ENTITY noproxy.label "אין צורך בשרת מתווך עבור:">
 <!ENTITY noproxy.accesskey "ב">
