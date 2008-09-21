@@ -1,7 +1,7 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Om schijfruimte te besparen, niet downloaden:">
 <!ENTITY doNotDownload.label "Om schijfruimte te besparen, de volgende berichten niet downloaden voor offlinegebruik:">
-<!ENTITY offlineNewFolder.label "Nieuwe mappen selecteren voor offlinegebruik bij het aanmaken">
-<!ENTITY offlineNewFolder.accesskey "f">
+<!ENTITY allFoldersOffline.label "Berichten voor deze account op deze computer bewaren">
+<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Berichten groter dan">
 <!ENTITY offlineNotDownload.accesskey "r">
 <!ENTITY kb.label "KB">
@@ -25,10 +25,7 @@
 <!ENTITY nntpRemoveBody.accesskey "k">
 <!ENTITY offlineSelectNntp.label "Nieuwsgroepen voor offlinegebruik selecteren…">
 <!ENTITY offlineSelectNntp.accesskey "s">
-<!ENTITY offlineSelectImap.label "Mappen voor offlinegebruik selecteren…">
-<!ENTITY offlineSelectImap.accesskey "s">
-<!ENTITY offlineDesc.label "U kunt berichten downloaden en lokaal opslaan, zodat ze beschikbaar zijn als u offline werkt.">
-<!ENTITY makeInboxMsgsAvailable.label "Berichten in Postvak IN beschikbaar maken voor offlinegebruik">
-<!ENTITY makeInboxMsgsAvailable.accesskey "b">
-<!ENTITY offlineGroupTitle.label "Offline">
+<!ENTITY offlineImapAdvancedOffline.label "Uitgebreid…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "U">
+<!ENTITY syncGroupTitle.label "Berichten synchroniseren">
 <!ENTITY diskspaceGroupTitle.label "Schijfruimte">
