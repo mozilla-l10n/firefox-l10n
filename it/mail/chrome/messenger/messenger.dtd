@@ -419,7 +419,7 @@
 <!ENTITY backButton1.label "Indietro">
 <!ENTITY goForwardButton1.label "Avanti">
 <!ENTITY deleteButton.label "Elimina">
-<!ENTITY undeleteButton.label "ripristina">
+<!ENTITY undeleteButton.label "Ripristina">
 <!ENTITY markButton.label "Marca">
 <!ENTITY printButton.label "Stampa">
 <!ENTITY stopButton.label "Stop">
@@ -449,7 +449,7 @@
 <!ENTITY goForwardButton.tooltip "Avanti di un messaggio">
 <!ENTITY goBackButton.tooltip "Indietro di un messaggio">
 <!ENTITY deleteButton.tooltip "Elimina i messaggi o le cartelle selezionate">
-<!ENTITY undeleteButton.tooltip "ripristina il messaggio selezionato">
+<!ENTITY undeleteButton.tooltip "Ripristina il messaggio selezionato">
 <!ENTITY markButton.tooltip "Spunta messaggi">
 <!ENTITY printButton.tooltip "Stampa questo messaggio">
 <!ENTITY stopButton.tooltip "Sospendi il trasferimento corrente">

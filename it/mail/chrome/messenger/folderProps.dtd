@@ -54,7 +54,7 @@
 <!ENTITY daysOld.label "giorni">
 <!ENTITY message.label "messaggi">
 <!ENTITY retentionCleanup.label "Per recuperare spazio su disco i vecchi messaggi possono essere eliminati definitivamente">
-<!ENTITY retentionDeleteMsg.label "Cancella i messaggio più di">
+<!ENTITY retentionDeleteMsg.label "Cancella i messaggi più vecchi di">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Non eliminare alcun messaggio">
 <!ENTITY retentionKeepAll.accesskey "o">
