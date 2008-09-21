@@ -29,6 +29,7 @@
 <!ENTITY viewSourceMenuItem.label "ver código fuente…">
 <!ENTITY viewSourceMenuItem.accesskey "V">
 <!ENTITY hideDetailsButton.label "ocultar detalles">
+<!ENTITY showDetailsButton.label "mostrar detalles">
 <!ENTITY openAttachmentCmd.label "Abrir">
 <!ENTITY openAttachmentCmd.accesskey "b">
 <!ENTITY saveAsAttachmentCmd.label "Guardar como…">
