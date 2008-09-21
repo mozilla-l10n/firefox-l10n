@@ -63,13 +63,14 @@
 <!ENTITY junkButton.label "Als Junk markieren">
 <!ENTITY trashButton.tooltiptext "Löschen">
 
-<!ENTITY otherActionsButton.label "other actions">
-<!ENTITY saveAsMenuItem.label "save as…">
+<!ENTITY otherActionsButton.label "Andere Aktionen">
+<!ENTITY saveAsMenuItem.label "Speichern unter…">
 <!ENTITY saveAsMenuItem.accesskey "S">
-<!ENTITY viewSourceMenuItem.label "view source…">
-<!ENTITY viewSourceMenuItem.accesskey "V">
+<!ENTITY viewSourceMenuItem.label "Quelltext anzeigen…">
+<!ENTITY viewSourceMenuItem.accesskey "Q">
 
-<!ENTITY hideDetailsButton.label "hide details">
+<!ENTITY hideDetailsButton.label "Details ausblenden">
+<!ENTITY showDetailsButton.label "Details anzeigen">
 
 <!ENTITY openAttachmentCmd.label    "Öffnen">  
 <!ENTITY openAttachmentCmd.accesskey		"f">  
