@@ -29,6 +29,7 @@
 <!ENTITY viewSourceMenuItem.label "visualizza sorgente">
 <!ENTITY viewSourceMenuItem.accesskey "V">
 <!ENTITY hideDetailsButton.label "nascondi dettagli">
+<!ENTITY showDetailsButton.label "mostra dettagli">
 <!ENTITY openAttachmentCmd.label "Apri">
 <!ENTITY openAttachmentCmd.accesskey "A">
 <!ENTITY saveAsAttachmentCmd.label "Salva come…">

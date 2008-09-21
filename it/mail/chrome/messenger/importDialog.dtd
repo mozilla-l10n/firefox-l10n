@@ -11,7 +11,7 @@
 <!ENTITY importShortDesc.label "Importa posta, impostazioni, rubrica e filtri da altri programmi">
 <!ENTITY importDescription1.label "Questo proccesso importerà messaggi di posta, voci di rubrica, preferenze, e/o filtri da latri programmi di posta e rubriche comuni in &brandShortName;.">
 <!ENTITY importDescription2.label "Una volta importate, vi si potrà accedere da &brandShortName;.">
-<!ENTITY selectDescription.label "Selezionare il programma dal quale si desidera eseguire l'importazione:">
+<!ENTITY selectDescription.label "Selezionare il programma dal quale eseguire l'importazione:">
 <!ENTITY back.label "&lt; Indietro">
 <!ENTITY forward.label "Avanti &gt;">
 <!ENTITY finish.label "Finito">
