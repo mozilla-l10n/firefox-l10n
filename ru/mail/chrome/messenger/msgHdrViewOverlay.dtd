@@ -29,7 +29,7 @@
 <!ENTITY viewSourceMenuItem.label "показать исходник…">
 <!ENTITY viewSourceMenuItem.accesskey "х">
 <!ENTITY hideDetailsButton.label "скрыть детали">
-<!ENTITY showDetailsButton.label "показать подробности">
+<!ENTITY showDetailsButton.label "показать детали">
 <!ENTITY openAttachmentCmd.label "Открыть">
 <!ENTITY openAttachmentCmd.accesskey "О">
 <!ENTITY saveAsAttachmentCmd.label "Сохранить как…">
