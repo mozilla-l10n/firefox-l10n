@@ -54,21 +54,21 @@
 <!ENTITY messageIdField.label "ID del mensaje: ">
 <!ENTITY inReplyToField.label "En respues a: ">
 <!ENTITY originalWebsite.label "Pagina Web">
-<!ENTITY saveAll.label "Guardar todo...">
+<!ENTITY saveAll.label "Guardar todo…">
 
-<!ENTITY editMessage.label "Editar borrador...">
+<!ENTITY editMessage.label "Editar borrador…">
 
 <!ENTITY openAttachmentCmd.label "Abrir">
 <!ENTITY openAttachmentCmd.accesskey "b">
-<!ENTITY saveAsAttachmentCmd.label "Guardar como...">
+<!ENTITY saveAsAttachmentCmd.label "Guardar como…">
 <!ENTITY saveAsAttachmentCmd.accesskey "a">
-<!ENTITY detachAttachmentCmd.label    "Despegar ...">  
+<!ENTITY detachAttachmentCmd.label    "Despegar…">  
 <!ENTITY deleteAttachmentCmd.label    "Borrar">  
 <!ENTITY saveAllAttachmentsCmd.label    "Guardar todo…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "g">
-<!ENTITY detachAllAttachmentsCmd.label    "Despegar todo...">  
+<!ENTITY detachAllAttachmentsCmd.label    "Despegar todo…">  
 <!ENTITY detachAllAttachmentsCmd.accesskey    "D">  
-<!ENTITY deleteAllAttachmentsCmd.label    "Borrar todo...">  
+<!ENTITY deleteAllAttachmentsCmd.label    "Borrar todo…">  
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "r">  
 
 <!ENTITY copyLinkCmd.label "Copiar dirección del enlace">
