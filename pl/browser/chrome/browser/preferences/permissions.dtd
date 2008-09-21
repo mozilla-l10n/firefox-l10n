@@ -8,6 +8,7 @@
 <!ENTITY removeallpermissions.label   "Usuń wszystkie witryny">
 <!ENTITY removeallpermissions.accesskey "w">
 <!ENTITY address.label                "Adres witryny:">
+<!ENTITY address.accesskey            "A">
 <!ENTITY block.label                  "Zablokuj">
 <!ENTITY block.accesskey              "b">
 <!ENTITY session.label                "Zezwól na czas sesji">
