@@ -62,3 +62,6 @@
 <!-- ### ENTITY forceCharsetOverride.accesskey "ח" -->
 <!-- ### ENTITY replyInDefaultCharset.label "השתמש בקידוד התווים ברירת המחדל בהשבות" -->
 <!-- ### ENTITY replyInDefaultCharset.accesskey "ה" -->
+
+<!ENTITY replyInDefaultCharset2.label     "במידת האפשר, עשה שימוש בקידוד ברירת המחדל בתשובות">
+<!ENTITY replyInDefaultCharset2.accesskey "ש">

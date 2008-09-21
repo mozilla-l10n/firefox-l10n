@@ -1,7 +1,9 @@
 <!ENTITY prefWindow.titleWin "אפשרויות">
 <!ENTITY prefWindow.titleGNOME "העדפות &brandShortName;">
+<!ENTITY  prefWindow.styleWindows "width: 44em; min-height: 38.5em;">
 <!-- ### ENTITY prefWindow.styleWin "width: 46em; height: 38em;" -->
 <!ENTITY prefWindow.styleMac "width: 47em;">
+<!ENTITY  prefWindow.styleGNOME   "width: 42em; min-height: 38em;">
 <!-- ### ENTITY prefWindow.styleUnix "width: 42em;" -->
 <!ENTITY paneGeneral.title "כללי">
 <!ENTITY paneDisplay.title "תצוגה">

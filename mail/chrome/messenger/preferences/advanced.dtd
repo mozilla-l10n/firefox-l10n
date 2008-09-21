@@ -4,6 +4,19 @@
 <!ENTITY itemCertificates.label "אישורים">
 <!ENTITY showCondensedAddresses.label "הצג רק שמות תצוגה לאנשים שבפנקס הכתובות שלי">
 <!ENTITY showCondensedAddresses.accesskey "צ">
+
+<!ENTITY autoMarkAsRead.label          "סמן אוטומטית הודעות כנקראו">
+<!ENTITY autoMarkAsRead.accesskey      "א">
+
+<!ENTITY markAsReadNoDelay.label       "מיד עם הצגתה">
+<!ENTITY markAsReadNoDelay.accesskey   "מ">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "לאחר הצגה למשך">
+<!ENTITY markAsReadDelay.accesskey     "ל">
+
+
 <!-- ### ENTITY markAsRead.label "המתן" -->
 <!-- ### ENTITY markAsRead.accesskey "מ" -->
 <!-- ### ENTITY markAsReadEnd.label "שניות לפני סימון הודעה כנקראה" -->
@@ -55,6 +68,9 @@
 <!ENTITY offlineCompact.label "דחוס תיקיות כאשר זה יחסוך יותר מאשר">
 <!ENTITY offlineCompact.accesskey "ד">
 <!ENTITY kb.label 'ק"ב'>
+
+<!ENTITY certificatesInfo2.label        "נהל אישורים, רשימות ביטולים, אימות אושורים והתקני אבטחה.">
+
 <!-- ### ENTITY certificatesInfo.label "נהל אישורים, רשימות ביטולים, אימות אישורים והתקני אבטחה." -->
 <!ENTITY viewCertificates.label "הצג אישורים">
 <!ENTITY viewCertificates.accesskey "צ">

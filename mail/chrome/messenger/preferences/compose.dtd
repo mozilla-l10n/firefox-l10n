@@ -9,6 +9,10 @@
 <!ENTITY inline.accesskey "ב">
 <!ENTITY asAttachment.label "כנספח">
 <!ENTITY asAttachment.accesskey "נ">
+<!ENTITY addExtension.label                   "הוסף סיומת לשם הקובץ
+add extension to file name">
+<!ENTITY addExtension.accesskey               "ק">
+
 <!ENTITY htmlComposeHeader.label "HTML">
 <!ENTITY font.label "גופן:">
 <!ENTITY font.accesskey "פ">
@@ -46,6 +50,7 @@
 <!ENTITY addressingEnable.label "פנקסי כתובות מקומיים">
 <!ENTITY addressingEnable.accesskey "פ">
 <!ENTITY directories.label "שרת מדריך:">
+<!ENTITY directoriesNone.label                 "ללא">
 <!ENTITY directories.accesskey "ש">
 <!ENTITY editDirectories.label "ערוך ספריות...">
 <!ENTITY editDirectories.accesskey "ע">
