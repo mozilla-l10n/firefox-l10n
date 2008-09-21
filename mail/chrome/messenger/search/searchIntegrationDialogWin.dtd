@@ -1,5 +1,5 @@
 <!ENTITY searchIntegration.engineName "Ricerca di Windows">
 <!ENTITY searchIntegration.title "Integrazione &searchIntegration.engineName;">
-<!ENTITY searchIntegration.description "Si desidera abilitare &searchIntegration.engineName; per indicizzare e cercare dentro la posta ed i messaggi di news di &brandShortName;?">
+<!ENTITY searchIntegration.description "Consentire a &searchIntegration.engineName; l'indicizzazione e la ricerca nei messaggi di posta e news di &brandShortName;?">
 <!ENTITY searchIntegration.accept "Abilita &searchIntegration.engineName;">
 <!ENTITY searchIntegration.cancel "Non abilitare &searchIntegration.engineName;">
