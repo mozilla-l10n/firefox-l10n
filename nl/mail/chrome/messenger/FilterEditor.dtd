@@ -12,7 +12,11 @@
 <!ENTITY highPriorityCmd.label "Hoog">
 <!ENTITY highestPriorityCmd.label "Hoogst">
 
-<!ENTITY conditionDesc.label "Voor inkomende berichten:">
+<!ENTITY contextDesc.label "Filter toepassen bij het:">
+<!ENTITY contextDesc.accesskey "a">
+<!ENTITY contextIncoming.label "Controleren van E-mail">
+<!ENTITY contextManual.label "Handmatig activeren">
+<!ENTITY contextBoth.label "Cotroleren van E-mail of handmatig activeren">
 <!ENTITY filterActionDesc.label "Deze acties uitvoeren:">
 <!ENTITY filterActionDesc.accesskey "V">
 
