@@ -7,6 +7,7 @@
 <!ENTITY removeallpermissions.label "Удалить все сайты">
 <!ENTITY removeallpermissions.accesskey "в">
 <!ENTITY address.label "Адрес сайта:">
+<!ENTITY address.accesskey "д">
 <!ENTITY block.label "Блокировать">
 <!ENTITY block.accesskey "Б">
 <!ENTITY session.label "Разрешить на сессию">
