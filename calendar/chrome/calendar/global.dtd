@@ -72,13 +72,6 @@
 <!ENTITY day.6.Ddd.accesskey "V">
 <!ENTITY day.7.Ddd "Sáb">
 <!ENTITY day.7.Ddd.accesskey "S">
-<!ENTITY day.1.DDD "DOM">
-<!ENTITY day.2.DDD "LUN">
-<!ENTITY day.3.DDD "MAR">
-<!ENTITY day.4.DDD "MIE">
-<!ENTITY day.5.DDD "JUE">
-<!ENTITY day.6.DDD "VIE">
-<!ENTITY day.7.DDD "SAB">
 <!ENTITY day.1.name "Domingo">
 <!ENTITY day.2.name "Lunes">
 <!ENTITY day.3.name "Martes">
@@ -86,35 +79,27 @@
 <!ENTITY day.5.name "Jueves">
 <!ENTITY day.6.name "Viernes">
 <!ENTITY day.7.name "Sábado">
-<!ENTITY time.am "AM">
-<!ENTITY time.pm "PM">
-<!ENTITY month.1.MMM "ENE">
-<!ENTITY month.2.MMM "FEB">
-<!ENTITY month.3.MMM "MAR">
-<!ENTITY month.4.MMM "ABR">
-<!ENTITY month.5.MMM "MAY">
-<!ENTITY month.6.MMM "JUN">
-<!ENTITY month.7.MMM "JUL">
-<!ENTITY month.8.MMM "AGO">
-<!ENTITY month.9.MMM "SEP">
-<!ENTITY month.10.MMM "OCT">
-<!ENTITY month.11.MMM "NOV">
-<!ENTITY month.12.MMM "DIC">
-<!ENTITY time.AM "AM">
-<!ENTITY time.PM "PM">
-<!ENTITY more.label "MAS">
-<!ENTITY less.label "MENOS">
-<!ENTITY calendar.global.units.second "segundo">
-<!ENTITY calendar.global.units.seconds "segundos">
 <!ENTITY calendar.global.units.minute "minuto">
-<!ENTITY calendar.global.units.minutes "Minutos">
+<!ENTITY calendar.global.units.minutes "minutos">
 <!ENTITY calendar.global.units.hour "hora">
-<!ENTITY calendar.global.units.hours "Horas">
+<!ENTITY calendar.global.units.hours "horas">
 <!ENTITY calendar.global.units.day "día">
-<!ENTITY calendar.global.units.days "Días">
-<!ENTITY calendar.global.units.week "semana">
-<!ENTITY calendar.global.units.weeks "semanas">
-<!ENTITY calendar.global.units.month "mes">
-<!ENTITY calendar.global.units.months "meses">
-<!ENTITY calendar.global.units.year "año">
-<!ENTITY calendar.global.units.years "años">
+<!ENTITY calendar.global.units.days "días">
+<!ENTITY month.1.name "Enero">
+<!ENTITY month.2.name "Febrero">
+<!ENTITY month.3.name "Marzo">
+<!ENTITY month.4.name "Abril">
+<!ENTITY month.5.name "Mayo">
+<!ENTITY month.6.name "Junio">
+<!ENTITY month.7.name "Julio">
+<!ENTITY month.8.name "Agosto">
+<!ENTITY month.9.name "Septiembre">
+<!ENTITY month.10.name "Octubre">
+<!ENTITY month.11.name "Noviembre">
+<!ENTITY month.12.name "Diciembre">
+<!ENTITY onemonthbackward.tooltip "Un mes hacia atrás">
+<!ENTITY onemonthforward.tooltip "Un mes hacia delante">
+<!ENTITY showToday.tooltip "Ir a hoy">
+<!ENTITY onedayforward.tooltip "Un día hacia delante">
+<!ENTITY onedaybackward.tooltip "Un día hacia atrás">
+<!ENTITY showselectedday.tooltip "Mostrar eventos para el día seleccionado">

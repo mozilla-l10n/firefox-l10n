@@ -19,10 +19,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Mike Potter <mikep@oeone.com>
-   -   ArentJan Banck <ajbanck@planet.nl>
-   -   Eric Belhaire <belhaire@ief.u-psud.fr>
-   -   Matthew Willis <mattwillis@gmail.com>
    -   Cédric Corazza <cedric.corazza@wanadoo.fr>
    -   Proyecto NAVE (http://www.proyectonave.es/)
    -
@@ -39,28 +35,22 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY pref.calendar.view.allview.caption "General">
-<!ENTITY pref.calendar.view.dayandweekviews.caption "Vistas diaria y semanal">
-<!ENTITY pref.calendar.view.multiweekview.caption "Vista multisemana">
-<!ENTITY pref.calendar.view.workweek.caption "Semana laboral">
-<!ENTITY pref.weekstarts.label "Comenzar la semana en:">
-<!ENTITY pref.weekstarts.accesskey "z">
-<!ENTITY pref.daysoff.label "Incluir estos días en la semana laboral:">
-<!ENTITY pref.calendar.view.daystart.label "El día comienza a las:">
-<!ENTITY pref.calendar.view.daystart.accesskey "d">
-<!ENTITY pref.calendar.view.dayend.label "El día termina a las:">
-<!ENTITY pref.calendar.view.dayend.accesskey "t">
-<!ENTITY pref.calendar.view.visiblehours.label "Mostrar:">
-<!ENTITY pref.calendar.view.visiblehours.accesskey "o">
-<!ENTITY pref.calendar.view.visiblehoursend.label "horas a la vez">
-<!ENTITY pref.numberofweeks.label "Semanas a mostrar por omisión (incluyendo semanas previas):">
-<!ENTITY pref.numberofweeks.accesskey "e">
-<!ENTITY pref.numberofpreviousweeks.label "Semanas previas a mostrar:">
-<!ENTITY pref.numberofpreviousweeks.accesskey "p">
-<!ENTITY pref.numberofweeks.0 "ninguna">
-<!ENTITY pref.numberofweeks.1 "1 semana">
-<!ENTITY pref.numberofweeks.2 "2 semanas">
-<!ENTITY pref.numberofweeks.3 "3 semanas">
-<!ENTITY pref.numberofweeks.4 "4 semanas">
-<!ENTITY pref.numberofweeks.5 "5 semanas">
-<!ENTITY pref.numberofweeks.6 "6 semanas">
+<!ENTITY event.title.label "Editar elemento">
+<!ENTITY newevent.from.label "Desde">
+<!ENTITY newevent.to.label "Hasta">
+<!ENTITY newevent.attendees.sendEmail.label "Invitar a los asistentes por correo electrónico">
+<!ENTITY newevent.status.label "Estado">
+<!ENTITY newevent.status.accesskey "E">
+<!ENTITY newevent.status.none.label "No especificado">
+<!ENTITY newevent.status.cancelled.label "Cancelada">
+<!ENTITY newevent.status.tentative.label "Tentativo">
+<!ENTITY newevent.status.confirmed.label "Confirmado">
+<!ENTITY newevent.status.needsaction.label "Necesita intervención">
+<!ENTITY newevent.status.inprogress.label "En proceso">
+<!ENTITY newevent.status.completed.label "Completado el">
+<!ENTITY newtodo.percentcomplete.label "&#037; completo">
+<!ENTITY alarm.units.minutes "minutos">
+<!ENTITY alarm.units.hours "horas">
+<!ENTITY alarm.units.days "días">
+<!ENTITY newevent.before.label "antes">
+<!ENTITY newevent.after.label "tras">

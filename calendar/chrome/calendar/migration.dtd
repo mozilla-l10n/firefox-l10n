@@ -11,15 +11,14 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is Mozilla Calendar Preferences
+   - The Original Code is Calendar migration code.
    -
    - The Initial Developer of the Original Code is
-   - Matthew Willis
+   -   Joey Minta <jminta@gmail.com>
    - Portions created by the Initial Developer are Copyright (C) 2006
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributor(s): 
-   -   Cédric Corazza <cedric.corazza@wanadoo.fr>
+   - Contributor(s):
    -   Proyecto NAVE (http://www.proyectonave.es/)
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -35,15 +34,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY pref.mainbox.label "Configuración general">
-<!ENTITY pref.dateformat.label "Formato de texto de fecha:">
-<!ENTITY pref.dateformat.accesskey "F">
-<!ENTITY pref.dateformat.long "Largo">
-<!ENTITY pref.dateformat.short "Corto">
-<!ENTITY pref.defaultlength.label "Duración predeterminada de un evento:">
-<!ENTITY pref.defaultlength.accesskey "D">
-<!ENTITY pref.defaultsnoozelength.label "Duración predeterminada de retardo:">
-<!ENTITY pref.defaultsnoozelength.accesskey "u">
-<!ENTITY pref.refreshbox.label "Configuración de actualizaciones">
-<!ENTITY pref.autorefresh.label "Actualizar los calendarios cada">
-<!ENTITY pref.autorefresh.accesskey "A">
+<!ENTITY migration.title "&brandFullName;: importación de datos">
+<!ENTITY migration.welcome "Bienvenido">
+<!ENTITY migration.importing "Importando">
+<!ENTITY migration.list.description "&brandShortName; puede importar datos de calendario de muchas aplicaciones populares. Se han encontrado datos de las siguientes aplicaciones en su ordenador. Por favor, seleccione de cuáles de estos le gustaría importar datos.">
+<!ENTITY migration.progress.description "Importando datos seleccionados">

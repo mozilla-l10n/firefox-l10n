@@ -42,7 +42,7 @@
 <!ENTITY prefWindow.titleGNOME "Preferencias de &brandShortName;">
 <!ENTITY prefWindow.styleWin "width: 47em; height: 37em;">
 <!ENTITY prefWindow.styleMac "width: 47em;">
-<!ENTITY prefWindow.styleGNOME "width: 47em; height: 34.5em;">
+<!ENTITY prefWindow.styleGNOME "width: 50em; height: 37.5em;">
 <!ENTITY paneGeneral.title "General">
 <!ENTITY paneAlarms.title "Alarmas">
 <!ENTITY paneCategories.title "Categorías">

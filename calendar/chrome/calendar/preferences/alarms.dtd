@@ -59,6 +59,5 @@
 <!ENTITY pref.defalarmlen4events.accesskey "P">
 <!ENTITY pref.defalarmlen4todos.label "Preaviso de alarma antes de una tarea:">
 <!ENTITY pref.defalarmlen4todos.accesskey "v">
-<!ENTITY pref.alarmbox.label "Alarmas">
 <!ENTITY pref.defaultemail.label "Dirección predet. a la que enviar las alarmas:">
 <!ENTITY pref.defaulttext.label "Texto predeterminado de las alarmas:">

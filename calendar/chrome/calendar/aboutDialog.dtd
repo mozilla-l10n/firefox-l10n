@@ -20,6 +20,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s): Matthew Willis <mattwillis@gmail.com>
+   -                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
    -   Proyecto NAVE (http://www.proyectonave.es/)
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -36,34 +37,18 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY aboutDialog.title "Acerca de &brandFullName;">
-<!ENTITY copyright "Créditos">
-<!ENTITY aboutLink "&lt; Acerca de &brandFullName;">
+<!ENTITY copyright.label "Créditos">
+<!ENTITY copyright.accesskey "C">
+<!ENTITY aboutLink.label "&lt; Acerca de &brandFullName;">
+<!ENTITY aboutLink.accesskey "A">
 <!ENTITY aboutVersion "versión">
-<!ENTITY copyrightText "©1998-2006 Colaboradores. Todos los derechos
+<!ENTITY copyrightText "©1998-2008 Colaboradores. Todos los derechos
                                  reservados. Mozilla Sunbird, Sunbird, y los
                                  logos de Sunbird son marcas comerciales de
                                  Mozilla Foundation. Todos los derechos reservados.">
 <!ENTITY brandMotto "Ya es hora">
-<!ENTITY credit.leads "Dirección de ingeniería">
-<!ENTITY credit.core "Equipo de desarrollo principal">
-<!ENTITY credit.gecko "Motor de renderizado Gecko">
 <!ENTITY credit.thanks "Agradecimiento especial a">
 <!ENTITY credit.translation "Traducción por NAVE">
-<!ENTITY credit.visuals "Coordinador de diseño visual">
-<!ENTITY credit.theme "Diseño de temas">
-<!ENTITY credit.brand "Identidad de marca">
-<!ENTITY credit.web "Diseño de web">
-<!ENTITY credit.update "Mozilla Update">
-<!ENTITY credit.qalead "Dirección del control de calidad">
-<!ENTITY credit.qa "Control de calidad">
-<!ENTITY credit.build "Compilación y publicación">
-<!ENTITY credit.infra "Soporte a la infraestructura">
-<!ENTITY credit.support "Recursos de apoyo">
-<!ENTITY credit.manage "Gestión del proyecto">
-<!ENTITY credit.marketleads "Dirección de marketing">
-<!ENTITY credit.market "Marketing">
-<!ENTITY credit.creators "Creado por">
-<!ENTITY credit.memory "Dedicado cariñosamente a">
 <!ENTITY credit.powered "Basado en">
 <!ENTITY license.and "y">
 <!ENTITY cmdClose.macKey "W">
