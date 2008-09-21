@@ -61,8 +61,8 @@
 <!ENTITY  generalEncoding       "Kodowanie:" >
 <!ENTITY  generalMetaName       "Nazwa" >
 <!ENTITY  generalMetaContent    "Treści" >
-<!ENTITY  generalSecurityMore   "Więcej">
-<!ENTITY  generalSecurityMore.accesskey "W">
+<!ENTITY  generalSecurityDetails            "Szczegóły">
+<!ENTITY  generalSecurityDetails.accesskey  "S">
 
 <!ENTITY  mediaTab              "Media" >
 <!ENTITY  mediaTab.accesskey    "M">
