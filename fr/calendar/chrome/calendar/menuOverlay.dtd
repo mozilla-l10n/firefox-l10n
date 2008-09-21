@@ -49,11 +49,11 @@
 
 <!ENTITY event.new.todo                         "Nouvelle tâche…">
 <!ENTITY event.new.todo.key                     "T">
-<!ENTITY event.new.todo.accesskey               "v">
+<!ENTITY event.new.todo.accesskey               "o">
 
 <!ENTITY calendar.new.server.label              "Nouvel agenda…">
 <!ENTITY calendar.new.server.key                "L">
-<!ENTITY calendar.new.server.accesskey          "a">
+<!ENTITY calendar.new.server.accesskey          "A">
 
 <!ENTITY calendar.open.file.label               "Ouvrir un fichier…">
 <!ENTITY calendar.open.file.key                 "O">

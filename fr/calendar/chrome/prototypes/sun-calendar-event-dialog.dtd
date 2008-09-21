@@ -283,7 +283,7 @@
 <!ENTITY event.recurrence.pattern.yearly.week.5.label        "Jeudi">
 <!ENTITY event.recurrence.pattern.yearly.week.6.label        "Vendredi">
 <!ENTITY event.recurrence.pattern.yearly.week.7.label        "Samedi">
-<!ENTITY event.recurrence.of.label                           "le" >
+<!ENTITY event.recurrence.of.label                           "de" >
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label      "Janvier">
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label      "Février">
 <!ENTITY event.recurrence.pattern.yearly.month2.3.label      "Mars">
