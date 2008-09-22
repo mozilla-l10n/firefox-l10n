@@ -10,7 +10,8 @@
 <!ENTITY  cancel.accesskey                "C">
 
 <!ENTITY  noupdatesfound.title            "No s'ha trobat cap actualització">
-<!ENTITY  noupdatesfound.intro            "No hi ha cap actualització nova disponible. El &brandShortName; comprovarà periòdicament si hi ha noves actualitzacions.">
+<!ENTITY  noupdatesautoenabled.intro      "No hi ha cap actualització disponible. El &brandShortName; comprovarà periòdicament si hi ha noves actualitzacions.">
+<!ENTITY  noupdatesautodisabled.intro     "No hi ha cap actualització disponible. Torneu-ho a provar més endavant o habiliteu la comprovació d'actualitzacions automàtica del &brandShortName;.">
 
 <!ENTITY  incompatibleChecking.label      "S'està comprovant si l'actualització pot causar problemes amb les vostres extensions i/o temes…">
 <!ENTITY  clickHere.label                 "Feu clic ací per a més informació general quant a aquesta actualització">

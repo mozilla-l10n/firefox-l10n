@@ -40,6 +40,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.clearList.tooltip "Elimina les baixades acabades, canceŀlades o que han fallat de la llista.">
 <!ENTITY cmd.clearList.accesskey "a">
 <!ENTITY cmd.find.commandKey              "f">
+<!ENTITY cmd.search.commandKey            "k">
 
 <!ENTITY closeWhenDone.label "Tanca quan les baixades acabin">
 <!ENTITY closeWhenDone.tooltip "Tanca la finestra de baixades quan tots els fitxers s'hagin baixat">
