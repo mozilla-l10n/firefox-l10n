@@ -36,8 +36,8 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Selecteer versie">
-<!ENTITY conflictWarning.label "Deze pagina is gewijzigd door een ander programma, terwijl u ook nog niet-opgeslagen veranderingen in Composer hebt.">
-<!ENTITY conflictResolve.label "Selecteer welke versie u wilt behouden:">
-<!ENTITY keepCurrentPageButton.label "Behoud de wijzigingen op deze pagina">
-<!ENTITY useOtherPageButton.label "Pas de andere wijzigingen op deze pagina toe">
+<!ENTITY windowTitle.label "Selektearje ferzje">
+<!ENTITY conflictWarning.label "Dizze side is wizige troch in oar programma, wylst jo ek noch net-bewarre feroarings yn Composer hawwe.">
+<!ENTITY conflictResolve.label "Selektearje hokker ferzje jo behâlde wolle:">
+<!ENTITY keepCurrentPageButton.label "Behâld de wiziging op dizze side">
+<!ENTITY useOtherPageButton.label "Pas de oare wizigings op dizze side ta">

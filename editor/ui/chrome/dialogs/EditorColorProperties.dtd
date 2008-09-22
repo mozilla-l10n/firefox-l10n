@@ -36,26 +36,26 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Paginakleuren en achtergrond">
-<!ENTITY pageColors.label "Paginakleuren">
-<!ENTITY defaultColorsRadio.label "Standaardkleuren van lezer (kleuren niet in pagina vastleggen)">
+<!ENTITY windowTitle.label "Sidekleuren en eftergrûn">
+<!ENTITY pageColors.label "Sidekleuren">
+<!ENTITY defaultColorsRadio.label "Standertkleuren fan lêzer (kleuren net yn side fêstlizze)">
 <!ENTITY defaultColorsRadio.accessKey "S">
-<!ENTITY defaultColorsRadio.tooltip "Alleen de kleurinstellingen van de browser van de lezer gebruiken">
-<!ENTITY customColorsRadio.label "Aangepaste kleuren gebruiken:">
-<!ENTITY customColorsRadio.accessKey "g">
-<!ENTITY customColorsRadio.tooltip "Deze kleurinstellingen overschrijven de browserinstellingen van de lezer">
+<!ENTITY defaultColorsRadio.tooltip "Allinnich de kleurynstellings fan de browser fan de lêzer brûke">
+<!ENTITY customColorsRadio.label "Oanpaste kleuren brûke:">
+<!ENTITY customColorsRadio.accessKey "p">
+<!ENTITY customColorsRadio.tooltip "Dizze kleurynstellings oerskriuwe de browserynstellings fan de lêzer">
 
 <!ENTITY normalText.label "Normale tekst">
 <!ENTITY normalText.accessKey "N">
-<!ENTITY linkText.label "Koppelingstekst">
-<!ENTITY linkText.accessKey "o">
-<!ENTITY activeLinkText.label "Actieve koppeling">
+<!ENTITY linkText.label "Keppelingstekst">
+<!ENTITY linkText.accessKey "e">
+<!ENTITY activeLinkText.label "Aktive keppeling">
 <!ENTITY activeLinkText.accessKey "A">
-<!ENTITY visitedLinkText.label "Bezochte koppeling">
+<!ENTITY visitedLinkText.label "Besochte keppeling">
 <!ENTITY visitedLinkText.accessKey "B">
-<!ENTITY background.label "Achtergrond:">
+<!ENTITY background.label "Eftergrûn:">
 <!ENTITY background.accessKey "t">
 <!ENTITY colon.character ":">
-<!ENTITY backgroundImage.label "Achtergrondafbeelding:">
-<!ENTITY backgroundImage.accessKey "h">
-<!ENTITY backgroundImage.tooltip "Een afbeeldingsbestand als achtergrond voor uw pagina gebruiken">
+<!ENTITY backgroundImage.label "Eftergrûndôfbylding:">
+<!ENTITY backgroundImage.accessKey "f">
+<!ENTITY backgroundImage.tooltip "In ôfbyldingsbestân as eftergrûn foar jo side brûke">

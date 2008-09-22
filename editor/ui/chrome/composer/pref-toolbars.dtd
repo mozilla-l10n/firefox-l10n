@@ -34,38 +34,38 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.toolbars.title    "Werkbalken">
+<!ENTITY pref.toolbars.title    "Arkbalken">
 
-<!ENTITY composition.caption    "Deze knoppen tonen in de compositiewerkbalk:">
+<!ENTITY composition.caption    "Dizze knoppen toane yn de komposysje-arkbalke:">
 
-<!ENTITY new.label              "Nieuw">
-<!ENTITY open.label             "Openen">
-<!ENTITY save.label             "Opslaan">
-<!ENTITY publish.label          "Publiceren">
-<!ENTITY preview.label          "Bekijken">
-<!ENTITY cut.label              "Knippen">
-<!ENTITY copy.label             "Kopiëren">
-<!ENTITY paste.label            "Plakken">
-<!ENTITY print.label            "Afdrukken">
-<!ENTITY find.label             "Zoeken">
-<!ENTITY image.label            "Afbeelding">
-<!ENTITY hline.label            "H. lijn">
+<!ENTITY new.label              "Nij">
+<!ENTITY open.label             "Iepenje">
+<!ENTITY save.label             "Bewarje">
+<!ENTITY publish.label          "Publisearje">
+<!ENTITY preview.label          "Besjjen">
+<!ENTITY cut.label              "Knippe">
+<!ENTITY copy.label             "Kopiearje">
+<!ENTITY paste.label            "Plakke">
+<!ENTITY print.label            "Ofdrukke">
+<!ENTITY find.label             "Sykje">
+<!ENTITY image.label            "Ofbylding">
+<!ENTITY hline.label            "H. line">
 <!ENTITY table.label            "Tabel">
-<!ENTITY link.label             "Koppeling">
-<!ENTITY anchor.label           "Ankerverwijzing">
+<!ENTITY link.label             "Keppeling">
+<!ENTITY anchor.label           "Ankerferwizing">
 
-<!ENTITY formatting.caption     "Deze knoppen tonen in de opmaakwerkbalk:">
+<!ENTITY formatting.caption     "Dizze knoppen toane yn de opmaakarkbalke:">
 
-<!ENTITY smaller.label          "Kleiner">
-<!ENTITY larger.label           "Groter">
-<!ENTITY bold.label             "Vet">
+<!ENTITY smaller.label          "Lytser">
+<!ENTITY larger.label           "Grutter">
+<!ENTITY bold.label             "Fet">
 <!ENTITY bullets.label          "Bollen">
-<!ENTITY numbers.label          "Nummers">
-<!ENTITY italic.label           "Cursief">
-<!ENTITY outdent.label          "Uitspringen">
-<!ENTITY indent.label           "Inspringen">
-<!ENTITY underline.label        "Onderstrepen">
+<!ENTITY numbers.label          "Nûmers">
+<!ENTITY italic.label           "Skreef">
+<!ENTITY outdent.label          "Utspringe">
+<!ENTITY indent.label           "Ynspringe">
+<!ENTITY underline.label        "Understreekje">
 
-<!ENTITY absolutePosition.label "Absolute positionering">
-<!ENTITY decreaseZIndex.label   "Naar achteren sturen">
-<!ENTITY increaseZIndex.label   "Naar voren brengen">
+<!ENTITY absolutePosition.label "Absolute posysjonearing">
+<!ENTITY decreaseZIndex.label   "Nei achteren stjoere">
+<!ENTITY increaseZIndex.label   "Nei foaren bringe">

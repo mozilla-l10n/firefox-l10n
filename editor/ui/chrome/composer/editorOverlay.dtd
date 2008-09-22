@@ -43,39 +43,39 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "Bestand">
+<!ENTITY fileMenu.label "Bestân">
 <!ENTITY filemenu.accesskey "B">
-<!ENTITY newBlankPageCmd.label "Composer-pagina">
+<!ENTITY newBlankPageCmd.label "Composer-side">
 <!ENTITY newBlankPage.accesskey "p">
-<!ENTITY newMenu.label "Nieuw">
-<!ENTITY openFileCmd.label "Bestand openen...">
-<!ENTITY fileopen.accesskey "o">
+<!ENTITY newMenu.label "Nij">
+<!ENTITY openFileCmd.label "Bestân iepenje...">
+<!ENTITY fileopen.accesskey "i">
 <!ENTITY fileopen.keybinding "o">
-<!ENTITY openremoteCmd.label "Internetlocatie openen">
+<!ENTITY openremoteCmd.label "Ynternetlokaasje iepenje">
 <!ENTITY fileopenremote.accesskey "l">
 <!ENTITY fileopenremote.keybinding "l">
-<!ENTITY fileRecentMenu.label "Recente pagina’s">
+<!ENTITY fileRecentMenu.label "Resinte siden">
 <!ENTITY filerecentmenu.accesskey "R">
-<!ENTITY fileRevert.label "Terugkeren">
+<!ENTITY fileRevert.label "Tebekgean">
 <!ENTITY filerevert.accesskey "T">
-<!ENTITY saveCmd.label "Opslaan">
-<!ENTITY filesave.accesskey "p">
+<!ENTITY saveCmd.label "Bewarje">
+<!ENTITY filesave.accesskey "w">
 <!ENTITY filesave.keybinding "s">
-<!ENTITY saveAsCmd.label "Opslaan als...">
+<!ENTITY saveAsCmd.label "Bewarje as...">
 <!ENTITY filesaveas.accesskey "s">
 
-<!ENTITY publishCmd.label "Publiceren">
-<!ENTITY publishcmd.accesskey "u">
-<!ENTITY publishAsCmd.label "Publiceren als...">
-<!ENTITY publishas.accesskey "c">
-<!ENTITY exportToTextCmd.label "Exporteren als tekst...">
-<!ENTITY fileexporttotext.accesskey "x">
-<!ENTITY saveAsChangeEncodingCmd.label "Opslaan en tekenset wijzigen">
+<!ENTITY publishCmd.label "Publisearje">
+<!ENTITY publishcmd.accesskey "s">
+<!ENTITY publishAsCmd.label "Publisearje as...">
+<!ENTITY publishas.accesskey "a">
+<!ENTITY exportToTextCmd.label "Eksportearje as tekst...">
+<!ENTITY fileexporttotext.accesskey "k">
+<!ENTITY saveAsChangeEncodingCmd.label "Bewarje en tekenset wizigje">
 <!ENTITY filesaveandchangeencoding.accesskey "w">
-<!ENTITY previewCmd.label "Pagina bekijken">
+<!ENTITY previewCmd.label "Side besjen">
 <!ENTITY filepreview.accesskey "b">
-<!ENTITY sendPageCmd.label "Pagina verzenden...">
-<!ENTITY sendPage.accesskey "v">
+<!ENTITY sendPageCmd.label "Side ferstjoere...">
+<!ENTITY sendPage.accesskey "f">
 <!ENTITY printSetupCmd.label "Pagina-instellingen...">
 <!ENTITY fileprintsetup.accesskey "i">
 <!ENTITY printPreviewCmd.label "Afdrukvoorbeeld">
@@ -485,28 +485,6 @@
 <!ENTITY toolbrowser.accesskey "b">
 <!ENTITY toolplaineditor.accesskey "p">
 <!ENTITY toolsetfocus.accesskey "f">
-
-<!-- Debug menu items -->
-<!ENTITY debugMenu.label "Debug">
-<!ENTITY newEditorTestPage.label "Composer met testpagina">
-<!ENTITY textEditorCmd.label "Platte-teksteditor">
-<!ENTITY outputTextCmd.label "Uitvoertekst">
-<!ENTITY outputHTMLCmd.label "HTML-uitvoer">
-<!ENTITY insertTextCmd.label "Tekst invoegen">
-<!ENTITY testSelectionCmd.label "Selectie testen">
-<!ENTITY testTableLayoutCmd.label "Tabellay-out testen">
-<!ENTITY testDocumentCmd.label "Document testen">
-<!ENTITY showEmbeddedCmd.label "Ingebedde objecten tonen">
-<!ENTITY dumpContentCmd.label "Inhoudsboom tonen">
-<!ENTITY runUnitTestsCmd.label "Eenheidstests uitvoeren">
-<!ENTITY dumpUndoStack.label "Stack voor ongedaan maken tonen">
-<!ENTITY dumpRedoStack.label "Stack voor opnieuw uitvoeren tonen">
-<!ENTITY executeJSTransactionViaTxmgr.label "JS-transactie via transactiebeheerder uitvoeren">
-<!ENTITY executeJSTransactionViaEditor.label "JS-transactie via editor uitvoeren">
-<!ENTITY startLogCmd.label "Log starten">
-<!ENTITY stopLogCmd.label "Log stoppen">
-<!ENTITY runLogCmd.label "Log uitvoeren">
-<!ENTITY setFocusCmd.label "Focus instellen">
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Menubalk">

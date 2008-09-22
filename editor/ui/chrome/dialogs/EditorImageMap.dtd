@@ -40,38 +40,38 @@
 <!-- These strings are for use specifically in the editor's image map dialog. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Afbeeldingsrastereditor">
+<!ENTITY windowTitle.label "Ofbyldingsrasterbewurker">
 
 <!-- Menu Items -->
 <!-- File menu -->
-<!ENTITY mapfileMenu.label "Bestand">
-<!ENTITY mapfilemenu.accesskey "f">
-<!ENTITY clearCmd.label "Wissen">
-<!ENTITY mapfileclear.accesskey "a">
-<!ENTITY closeCmd.label "Sluiten">
-<!ENTITY mapfileclose.accesskey "c">
+<!ENTITY mapfileMenu.label "Bestân">
+<!ENTITY mapfilemenu.accesskey "B">
+<!ENTITY clearCmd.label "Wisse">
+<!ENTITY mapfileclear.accesskey "W">
+<!ENTITY closeCmd.label "Slute">
+<!ENTITY mapfileclose.accesskey "S">
 
 <!-- Edit menu -->
-<!ENTITY mapeditMenu.label "Bewerken">
+<!ENTITY mapeditMenu.label "Bewurkje">
 <!ENTITY mapeditmenu.accesskey "w">
-<!ENTITY cutCmd.label "Knippen">
+<!ENTITY cutCmd.label "Knippe">
 <!ENTITY mapeditcut.accesskey "K">
-<!ENTITY copyCmd.label "Kopiëren">
+<!ENTITY copyCmd.label "Kopiearje">
 <!ENTITY mapeditcopy.accesskey "o">
-<!ENTITY pasteCmd.label "Plakken">
+<!ENTITY pasteCmd.label "Plakke">
 <!ENTITY mapeditpaste.accesskey "P">
-<!ENTITY selectallCmd.label "Alles selecteren">
+<!ENTITY selectallCmd.label "Alles selektearje">
 <!ENTITY mapselectall.accesskey "s">
-<!ENTITY propsCmd.label "Hotspot-eigenschappen">
+<!ENTITY propsCmd.label "Hotspot-eigenskippen">
 <!ENTITY mapeditprops.accesskey "h">
 
 <!-- View menu -->
-<!ENTITY mapviewMenu.label "Beeld">
+<!ENTITY mapviewMenu.label "Byld">
 <!ENTITY mapviewmenu.accesskey "d">
-<!ENTITY showhideTbarCmd.label "Werkbalk verbergen">
+<!ENTITY showhideTbarCmd.label "Arkbalke ferstoppe">
 <!ENTITY mapviewtbar.accesskey "t">
 <!-- Scaling -->
-<!ENTITY mapviewScale.label "Schaal">
+<!ENTITY mapviewScale.label "Skeal">
 <!ENTITY mapviewscale.accesskey "S">
 <!ENTITY apercentCmd.label "100">
 <!ENTITY zoomone.accesskey "1">
@@ -80,18 +80,18 @@
 <!ENTITY cpercentCmd.label "400">
 <!ENTITY zoomthree.accesskey "4">
 <!-- end scaling-->
-<!ENTITY contrastCmd.label "Contrast">
+<!ENTITY contrastCmd.label "Kontrast">
 <!ENTITY contrast.accesskey "n">
 
 <!-- Help menu -->
 <!ENTITY maphelpMenu.label "Help">
 <!ENTITY maphelpmenu.accesskey "H">
-<!ENTITY aboutCmd.label "Over">
+<!ENTITY aboutCmd.label "Oer">
 <!ENTITY about.accesskey "O">
 
-<!ENTITY zoominCmd.label "Inzoomen">
-<!ENTITY zoomoutCmd.label "Uitzoomen">
-<!ENTITY delSpotCmd.label "Punt verwijderen">
+<!ENTITY zoominCmd.label "Ynzoome">
+<!ENTITY zoomoutCmd.label "Utzoome">
+<!ENTITY delSpotCmd.label "Punt fuortsmite">
 
 <!-- Keys -->
 <!ENTITY clear.accesskey "d">

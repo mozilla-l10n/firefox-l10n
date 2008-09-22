@@ -34,19 +34,19 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Veldverzamelingseigenschappen">
+<!ENTITY windowTitle.label "Fjildsammelingseigenskippen">
 
-<!ENTITY Legend.label "Legenda">
+<!ENTITY Legend.label "Leginda">
 <!ENTITY Legend.accesskey "L">
 
-<!ENTITY EditLegendText.label "Legenda bewerken:">
+<!ENTITY EditLegendText.label "Leginda bewurkje:">
 <!ENTITY EditLegendText.accesskey "b">
-<!ENTITY LegendAlign.label "Legenda uitlijnen:">
+<!ENTITY LegendAlign.label "Leginda útlinje:">
 <!ENTITY LegendAlign.accesskey "A">
-<!ENTITY AlignDefault.label "Standaard">
+<!ENTITY AlignDefault.label "Standert">
 <!ENTITY AlignLeft.label "Links">
-<!ENTITY AlignCenter.label "Gecentreerd">
-<!ENTITY AlignRight.label "Rechts">
+<!ENTITY AlignCenter.label "Sintreard">
+<!ENTITY AlignRight.label "Rjochts">
 
-<!ENTITY RemoveFieldSet.label "Veldverzameling verwijderen">
-<!ENTITY RemoveFieldSet.accesskey "R">
+<!ENTITY RemoveFieldSet.label "Fjildsammeling fuortsmite">
+<!ENTITY RemoveFieldSet.accesskey "f">

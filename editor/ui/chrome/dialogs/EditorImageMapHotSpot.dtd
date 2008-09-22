@@ -39,20 +39,20 @@
 
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "Hotspot-eigenschappen">
+<!ENTITY windowTitle.label "Hotspot-eigenskippen">
 
-<!ENTITY link.label				"Hotspot-koppeling">
+<!ENTITY link.label				"Hotspot-keppeling">
 <!ENTITY urlFieldset.label		"Hotspot-URL:">
 <!ENTITY altFieldset.label		"Hotspot-Alt-tekst:">
-<!ENTITY browseButton.label		"Bladeren...">
-<!ENTITY targetFieldset.label	"Doelinstelling">
+<!ENTITY browseButton.label		"Blêdzje...">
+<!ENTITY targetFieldset.label	"Doelynstelling">
 <!ENTITY target.label			"Hotspot-doel">
 
 <!-- Targets -->
-<!ENTITY commonFieldset.label	"Gemeenzaam doel:">
-<!ENTITY none.value				"(geen)">
-<!ENTITY same.value				"Zelfde frame">
-<!ENTITY whole.value			"Hele pagina">
-<!ENTITY new.value				"Nieuw venster">
-<!ENTITY parent.value			"Ouderframe">
+<!ENTITY commonFieldset.label	"Mienskiplik doel:">
+<!ENTITY none.value				"(gjin)">
+<!ENTITY same.value				"Selde frame">
+<!ENTITY whole.value			"Hiele side">
+<!ENTITY new.value				"Nij finster">
+<!ENTITY parent.value			"Alderframe">
 

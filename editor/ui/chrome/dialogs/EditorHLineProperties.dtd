@@ -37,24 +37,24 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Horizontale-lijneigenschappen">
+<!ENTITY windowTitle.label "Horisontale-lijneigenskippen">
 
-<!ENTITY dimensionsBox.label "Afmetingen">
-<!ENTITY heightEditField.label "Hoogte:">
+<!ENTITY dimensionsBox.label "Ofmjittings">
+<!ENTITY heightEditField.label "Hichte:">
 <!ENTITY heightEditField.accessKey "H">
 <!ENTITY widthEditField.label "Breedte:">
 <!ENTITY widthEditField.accessKey "B">
-<!ENTITY pixelsPopup.value "pixels">
-<!ENTITY alignmentBox.label "Uitlijning">
+<!ENTITY pixelsPopup.value "piksels">
+<!ENTITY alignmentBox.label "Utlijning">
 <!ENTITY leftRadio.value "Links">
 <!ENTITY leftRadio.accessKey "L">
 <!ENTITY centerRadio.value "Midden">
 <!ENTITY centerRadio.accessKey "M">
-<!ENTITY rightRadio.value "Rechts">
+<!ENTITY rightRadio.value "Rjochts">
 <!ENTITY rightRadio.accessKey "R">
 
-<!ENTITY threeDShading.label "3D-schaduwing">
+<!ENTITY threeDShading.label "3D-skaad">
 <!ENTITY threeDShading.accessKey "s">
-<!ENTITY saveSettings.label "Als standaard gebruiken">
-<!ENTITY saveSettings.accessKey "G">
-<!ENTITY saveSettings.tooltip "Deze instellingen voor het invoegen van nieuwe horizontale lijnen bewaren">
+<!ENTITY saveSettings.label "As standert brûke">
+<!ENTITY saveSettings.accessKey "B">
+<!ENTITY saveSettings.tooltip "Dizze ynstellings foar it ynfoegjen fan nije horisontale lijnen bewarje">
