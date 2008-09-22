@@ -137,8 +137,8 @@
 <!ENTITY editfindprev.accesskey "a">
 <!ENTITY editfindprev.keybinding "G">
 <!ENTITY editfindprev.keybinding2 "VK_F3">
-<!ENTITY enableInlineSpellChecker.label "Spellcheck As You Type">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
+<!ENTITY enableInlineSpellChecker.label "Verificar ortografia ao digitar">
+<!ENTITY enableInlineSpellChecker.accesskey "V">
 <!ENTITY checkSpellingCmd.label "Verificar ortografia">
 <!ENTITY editcheckspelling.accesskey "V">
 <!ENTITY editcheckspelling.keybinding "K">
