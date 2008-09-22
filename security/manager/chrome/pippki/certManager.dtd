@@ -91,7 +91,7 @@
 <!ENTITY certmgr.deletecert.aftername         "Tem certeza que deseja excluir este certificado?">
 <!ENTITY certmgr.deleteusercert.title         "Excluir seu certificado">
 <!ENTITY certmgr.deleteusercert.beforename    "Você solicitou excluir o certificado:">
-<!ENTITY certmgr.deleteusercert.aftername     "Uma vez que você exclua este certificado, você não poderá ler o mail que foi criptografada com ele.">
+<!ENTITY certmgr.deleteusercert.aftername     "Uma vez que você exclua este certificado, não conseguirá ler emails criptografados com ele.">
 
 <!ENTITY certmgr.certname                     "Nome do certificado">
 <!ENTITY certmgr.certserver                   "Servidor">
