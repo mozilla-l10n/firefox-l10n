@@ -22,9 +22,6 @@
 
 <!ENTITY     filter.label                   "Localizar:">
 <!ENTITY     filter.accesskey               "z">
-<!ENTITY     clear.label                    "Limpar">
-<!ENTITY     clear.accesskey                "L">
 
 <!ENTITY     button.close.label             "Fechar">
 <!ENTITY     button.close.accesskey         "F">
-

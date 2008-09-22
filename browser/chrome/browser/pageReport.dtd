@@ -1,9 +1,0 @@
-<!ENTITY caption.label "Janelas popup bloqueadas">
-
-<!ENTITY intro.label "Estas páginas foram impedidas de abrir janelas não solicitadas:">
-
-<!ENTITY done.label "Fechar">
-<!ENTITY done.accesskey "F">
-
-<!ENTITY unblock.label "Desbloquear site">
-<!ENTITY unblock.accesskey "D">

@@ -60,7 +60,7 @@
 <!ENTITY bookmarksMenu.label "Favoritos">
 <!ENTITY bookmarksMenu.accesskey "v">
 <!ENTITY bookmarkThisPageCmd.label "Adicionar página">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY bookmarkThisPageCmd.commandkey "D">
 <!ENTITY subscribeToPageMenupopup.label "Inscrever RSS">
 <!ENTITY subscribeToPageMenuitem.label "Inscrever RSS…">
 <!ENTITY addCurPagesCmd.label "Adicionar todas as abas…">
@@ -122,7 +122,7 @@
 
 <!ENTITY errorConsoleCmd.label        "Console de erros">
 <!ENTITY errorConsoleCmd.accesskey    "s">
-<!ENTITY errorConsoleCmd.commandkey   "j">
+<!ENTITY errorConsoleCmd.commandkey   "J">
 
 <!ENTITY fileMenu.label         "Arquivo"> 
 <!ENTITY fileMenu.accesskey       "A">
@@ -222,6 +222,8 @@
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Código-fonte da seleção">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Código-fonte MathML">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "f">
 <!ENTITY viewPageSourceCmd.label      "Código-fonte">
 <!ENTITY viewPageSourceCmd.accesskey  "f">
@@ -276,7 +278,7 @@
 <!ENTITY metadataCmd.label            "Propriedades">
 <!ENTITY metadataCmd.accesskey        "i">
 <!ENTITY copyEmailCmd.label           "Copiar email">
-<!ENTITY copyEmailCmd.accesskey       "a">
+<!ENTITY copyEmailCmd.accesskey       "o">
 <!ENTITY thisFrameMenu.label              "Este frame">
 <!ENTITY thisFrameMenu.accesskey          "t">
 
@@ -346,10 +348,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "c">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "Alterar a direção da página">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "n">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Alterar a direção do texto">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "x">
+<!ENTITY bidiSwitchPageDirectionItem.label        "Alterar direção da página">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "e">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Alterar direção do texto">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "A">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "x">
 
 <!ENTITY findOnCmd.label     "Localizar…">
@@ -365,7 +367,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Concluir">
 <!ENTITY editBookmark.cancel.label                   "Cancelar">
-<!ENTITY editBookmark.removeBookmark.label           "Excluir favorito">
+<!ENTITY editBookmark.removeBookmark.label           "Excluir">
 <!ENTITY editBookmark.removeBookmark.accessKey       "x">
 <!ENTITY editBookmark.undo.label                     "Desfazer">
 <!ENTITY editBookmark.undo.accessKey                 "D">

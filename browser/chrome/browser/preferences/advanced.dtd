@@ -30,8 +30,8 @@
 
 <!ENTITY connection.label                "Conexão">
 
-<!ENTITY connectionDesc.label            "Configure como o &brandShortName; conecta-se à internet.">
-<!ENTITY connectionSettings.label        "Configurar…">
+<!ENTITY connectionDesc.label            "Determine como o &brandShortName; conecta-se à internet.">
+<!ENTITY connectionSettings.label        "Configurar conexão…">
 <!ENTITY connectionSettings.accesskey    "C">
 
 <!ENTITY offlineStorage.label            "Armazenamento offline">
@@ -45,7 +45,7 @@
 <!ENTITY useCacheBefore.label            "Usar no máximo">
 <!ENTITY useCacheBefore.accesskey        "s">
 <!ENTITY useCacheAfter.label             "MB de espaço para o cache">
-<!ENTITY clearCacheNow.label             "Limpar agora">
+<!ENTITY clearCacheNow.label             "Limpar cache agora">
 <!ENTITY clearCacheNow.accesskey         "L">
 
 <!ENTITY updateTab.label                 "Atualizações">

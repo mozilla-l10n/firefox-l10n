@@ -8,6 +8,7 @@
 <!ENTITY removeallpermissions.label   "Excluir tudo">
 <!ENTITY removeallpermissions.accesskey "t">
 <!ENTITY address.label                "Endereço do site:">
+<!ENTITY address.accesskey            "n">
 <!ENTITY block.label                  "Bloquear">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "Excluir ao sair">
