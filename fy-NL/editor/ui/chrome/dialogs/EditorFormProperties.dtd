@@ -34,20 +34,20 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Formuliereigenschappen">
+<!ENTITY windowTitle.label "Formuliereigenskippen">
 
-<!ENTITY Settings.label "Instellingen">
+<!ENTITY Settings.label "Ynstellings">
 
-<!ENTITY FormName.label "Formuliernaam:">
+<!ENTITY FormName.label "Formuliernamme:">
 <!ENTITY FormName.accesskey "N">
-<!ENTITY FormAction.label "Actie-URL:">
+<!ENTITY FormAction.label "Aksjie-URL:">
 <!ENTITY FormAction.accesskey "A">
-<!ENTITY FormMethod.label "Methode:">
+<!ENTITY FormMethod.label "Metoade:">
 <!ENTITY FormMethod.accesskey "M">
 <!ENTITY FormEncType.label "Encoding:">
 <!ENTITY FormEncType.accesskey "c">
 <!ENTITY FormTarget.label "Doelframe:">
 <!ENTITY FormTarget.accesskey "D">
 
-<!ENTITY RemoveForm.label "Formulier verwijderen">
-<!ENTITY RemoveForm.accesskey "v">
+<!ENTITY RemoveForm.label "Formulier fuortsmite">
+<!ENTITY RemoveForm.accesskey "f">

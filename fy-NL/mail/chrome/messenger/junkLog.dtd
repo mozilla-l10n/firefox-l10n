@@ -1,8 +1,0 @@
-<!ENTITY junkLog.title "Ongewenste-berichtenlogboek">
-<!ENTITY junkLogInfo.text "Het ongewenste-berichtenlogboek is een bestand dat de activiteit van de ongewenste-berichtenverwerking bijhoudt. Gebruik het selectievakje om het loggen te activeren.">
-<!ENTITY clearLog.label "Logboek wissen">
-<!ENTITY clearLog.accesskey "W">
-<!ENTITY enableLog.label "Ongewenste-berichtenlogboek activeren">
-<!ENTITY enableLog.accesskey "A">
-<!ENTITY closeLog.label "Sluiten">
-<!ENTITY closeLog.accesskey "S">

@@ -34,26 +34,26 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Knopeigenschappen">
+<!ENTITY windowTitle.label "Knopeigenskippen">
 
-<!ENTITY Settings.label "Instellingen">
+<!ENTITY Settings.label "Ynstellings">
 
 <!ENTITY ButtonType.label "Type">
 <!ENTITY ButtonType.accesskey "T">
-<!ENTITY submit.value "Verzenden">
-<!ENTITY reset.value "Wissen">
+<!ENTITY submit.value "Ferstjoere">
+<!ENTITY reset.value "Wisse">
 <!ENTITY button.value "Knop">
 
-<!ENTITY ButtonName.label "Naam:">
+<!ENTITY ButtonName.label "Namme:">
 <!ENTITY ButtonName.accesskey "N">
-<!ENTITY ButtonValue.label "Waarde:">
+<!ENTITY ButtonValue.label "Wearde:">
 <!ENTITY ButtonValue.accesskey "W">
-<!ENTITY tabIndex.label "Tabindex:">
-<!ENTITY tabIndex.accesskey "i">
-<!ENTITY ButtonDisabled.label "Uitgeschakeld">
+<!ENTITY tabIndex.label "Tabyndeks:">
+<!ENTITY tabIndex.accesskey "y">
+<!ENTITY ButtonDisabled.label "Utskeakel">
 <!ENTITY ButtonDisabled.accesskey "U">
-<!ENTITY AccessKey.label "Toegangssleutel:">
+<!ENTITY AccessKey.label "Tagongskaai:">
 <!ENTITY AccessKey.accesskey "s">
 
-<!ENTITY RemoveButton.label "Knop verwijderen">
-<!ENTITY RemoveButton.accesskey "v">
+<!ENTITY RemoveButton.label "Knop fuortsmite">
+<!ENTITY RemoveButton.accesskey "f">

@@ -39,21 +39,18 @@
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
 <!ENTITY editorWindow.titlemodifier 					"Composer"> 
 <!ENTITY editorWindow.titlemodifiermenuseparator 		" - ">
-<!ENTITY textEditorWindow.titlemodifier 				"Tekstbewurker"> 
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- View menu items -->
 <!ENTITY viewMenu.label 								"Byld">
 <!ENTITY viewmenu.accesskey 							"B">
-<!ENTITY compositionToolbarCmd.label 					"Komposysjearkbalke">
+<!ENTITY compositionToolbarCmd.label 					"Komposysje-arkbalke">
 <!ENTITY compositiontb.accesskey 						"K">
 <!ENTITY formattingToolbarCmd.label 					"Opmaakarkbalke">
 <!ENTITY formattingtb.accesskey 						"O">
 <!ENTITY editmodeToolbarCmd.label 						"Bewurkingsarkbalke">
 <!ENTITY editmodetb.accesskey 							"a">
-<!ENTITY taskbarCmd.label 								"Steatbalke">
-<!ENTITY taskbarCmd.accesskey 							"S">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label 								"Opmaak">

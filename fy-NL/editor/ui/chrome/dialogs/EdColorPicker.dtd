@@ -47,7 +47,7 @@
 <!ENTITY palette.label "Palet:">
 <!ENTITY standardPalette.label "Standert">
 <!ENTITY webPalette.label "Alle webkleuren">
-<!ENTITY background.label "Eftergrûnd foar:">
+<!ENTITY background.label "Eftergrûn foar:">
 <!ENTITY background.accessKey "E">
 <!ENTITY table.label "Tabel">
 <!ENTITY table.accessKey "T">
