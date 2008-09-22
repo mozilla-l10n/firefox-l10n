@@ -60,8 +60,8 @@
 <!ENTITY  generalEncoding       "Koodaus:">
 <!ENTITY  generalMetaName       "Nimi">
 <!ENTITY  generalMetaContent    "Sisältö">
-<!ENTITY  generalSecurityMore   "Lisää">
-<!ENTITY  generalSecurityMore.accesskey "L">
+<!ENTITY  generalSecurityDetails   "Lisätietoja">
+<!ENTITY  generalSecurityDetails.accesskey "L">
 
 <!ENTITY  mediaTab               "Media">
 <!ENTITY  mediaTab.accesskey    "M">
