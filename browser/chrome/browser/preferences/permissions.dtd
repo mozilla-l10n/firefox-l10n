@@ -8,6 +8,7 @@
 <!ENTITY removeallpermissions.label    "Poista kaikki sivustot">
 <!ENTITY removeallpermissions.accesskey "k">
 <!ENTITY address.label                 "Sivuston osoite:">
+<!ENTITY address.accesskey            "i">
 <!ENTITY block.label                   "Estä">
 <!ENTITY block.accesskey               "E">
 <!ENTITY session.label                 "Salli istunnon ajaksi">
