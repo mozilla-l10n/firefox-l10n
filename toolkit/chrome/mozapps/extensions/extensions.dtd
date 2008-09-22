@@ -23,7 +23,7 @@
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Localizar atualizações de suas extensões">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Localizar atualizações de seus temas">
 <!ENTITY cmd.installLocalFile.label       "Instalar…">
-<!ENTITY cmd.installLocalFile.accesskey   "n">
+<!ENTITY cmd.installLocalFile.accesskey   "I">
 <!ENTITY cmd.installFileAddon.tooltip     "Instalar um complemento">
 <!ENTITY cmd.installFileTheme.tooltip     "Instalar um tema">
 <!ENTITY cmd.installUpdatesAll.label      "Instalar atualizações">
@@ -164,7 +164,7 @@
 
 <!ENTITY progressStatus.label             "Verificando atualizações">
 
-<!ENTITY eula.title                       "Acordo de Licença para Usuário Final">
+<!ENTITY eula.title                       "Acordo de licença para o usuário final">
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "Aceitar e instalar…">
