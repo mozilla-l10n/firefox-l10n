@@ -39,15 +39,13 @@
 
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-<!ENTITY aboutWarningTitle.label "Isto pode anular sua garantia!">
+<!ENTITY aboutWarningTitle.label "HIC SUNT DRACONES">
 <!ENTITY aboutWarningText.label "A modificação destas configurações avançadas pode prejudicar a estabilidade, a segurança e o desempenho do programa. Você deve continuar somente se estiver seguro do que estiver fazendo.">
 <!ENTITY aboutWarningButton.label "Serei cuidadoso, eu prometo!">
 <!ENTITY aboutWarningCheckbox.label "Exibir este alerta na próxima vez">
 
 <!ENTITY filterPrefs.label "Localizar:">
 <!ENTITY filterPrefs.accesskey "o">
-<!ENTITY showAll.label "Limpar">
-<!ENTITY showAll.accesskey "L">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Nome">
@@ -77,7 +75,7 @@
 <!ENTITY new.accesskey "N">
 <!ENTITY string.label "String…">
 <!ENTITY string.accesskey "S">
-<!ENTITY integer.label "Inteira…">
-<!ENTITY integer.accesskey "I">
+<!ENTITY integer.label "Número inteiro…">
+<!ENTITY integer.accesskey "N">
 <!ENTITY boolean.label "Boolean…">
 <!ENTITY boolean.accesskey "B">

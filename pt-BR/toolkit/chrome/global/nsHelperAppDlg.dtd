@@ -9,14 +9,14 @@
      If there is no descriptive text, then the alternative text is used which
      has only insert #2.
  -->
-<!ENTITY intro.label           "O arquivo &quot;#3&quot; é do tipo #2 (#1). O #4 não sabe como tratá-lo. O arquivo está localizado em:">
-<!ENTITY intro.noDesc.label    "O arquivo &quot;#3&quot; é do tipo #2. O #4 não sabe como tratá-lo. O arquivo está localizado em:">
+<!ENTITY intro.label           "O arquivo “#3” é do tipo #2 (#1). O #4 não sabe como tratá-lo. O arquivo está localizado em:">
+<!ENTITY intro.noDesc.label    "O arquivo “#3” é do tipo #2. O #4 não sabe como tratá-lo. O arquivo está localizado em:">
 
-<!ENTITY intro.attachment.label "O site recomendou que &quot;#3&quot; seja tratado como um anexo. É do tipo #2 (#1) e localizado em:">
-<!ENTITY intro.attachment.noDesc.label "O site recomendou que &quot;#3&quot; seja tratado como um anexo. É do tipo #2 e localizado em:">
+<!ENTITY intro.attachment.label "O site recomendou que “#3” seja tratado como um anexo. É do tipo #2 (#1) e localizado em:">
+<!ENTITY intro.attachment.noDesc.label "O site recomendou que “#3” seja tratado como um anexo. É do tipo #2 e localizado em:">
 
-<!ENTITY intro.sniffed.label "O #4 detectou que o arquivo &quot;#3&quot; é provavelmente do tipo #2 (#1). O arquivo está localizado em:">
-<!ENTITY intro.sniffed.noDesc.label "O #4 detectou que o arquivo &quot;#3&quot; é provavelmente do tipo #2. O arquivo está localizado em:">
+<!ENTITY intro.sniffed.label "O #4 detectou que o arquivo “#3” é provavelmente do tipo #2 (#1). O arquivo está localizado em:">
+<!ENTITY intro.sniffed.noDesc.label "O #4 detectou que o arquivo “#3” é provavelmente do tipo #2. O arquivo está localizado em:">
 
 <!ENTITY prompt.label          "O que o #1 deve fazer?">
 
@@ -38,5 +38,5 @@
 
 <!ENTITY chooseAppFilePickerTitle "Selecionar programa">
 
-<!ENTITY badApp                 "O programa que você selecionou (&quot;#1&quot;) não foi encontrado. Verifique o nome do arquivo ou escolha outro programa.">
+<!ENTITY badApp                 "O programa que você selecionou (“#1”) não foi encontrado. Verifique o nome do arquivo ou escolha outro programa.">
 <!ENTITY badApp.title           "Programa não localizado">
