@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label             "Les nouvelles pages doivent s'ouvrir dans :">
-<!ENTITY inNewWindow.label            "une nouvelle fenêtre">
-<!ENTITY inNewWindow.accesskey        "u">
-<!ENTITY inNewTab.label               "un nouvel onglet">
-<!ENTITY inNewTab.accesskey           "n">
+<!ENTITY newWindowsAsTabs.label       "Ouvrir un nouvel onglet au lieu d'une nouvelle fenêtre">
+<!ENTITY newWindowsAsTabs.accesskey   "O">
 
 <!ENTITY warnCloseMultipleTabs.label     "Avertir lors de la fermeture de plusieurs onglets">
 <!ENTITY warnCloseMultipleTabs.accesskey "A">
