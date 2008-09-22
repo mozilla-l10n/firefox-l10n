@@ -10,8 +10,11 @@
 <!ENTITY  cancel.accesskey                "A">
 
 <!ENTITY  noupdatesfound.title            "Geen updates gevonden">
-<!ENTITY  noupdatesfound.intro            "Er zijn geen nieuwe updates beschikbaar. &brandShortName; kan
+<!ENTITY  noupdatesautoenabled.intro      "Er zijn geen nieuwe updates beschikbaar. &brandShortName; kan
                                            periodiek controleren op nieuwe updates.">
+<!ENTITY  noupdatesautodisabled.intro     "Er zijn geen nieuwe updates beschikbaar. Controleer later of activeer
+                                           &brandShortName;'s automatische updatecontrole.">
+
 
 <!ENTITY  incompatibleChecking.label      "Bezig met controleren of deze update problemen kan veroorzaken met uw extensies en/of thema’s…">
 <!ENTITY  clickHere.label                 "Meer informatie over deze update bekijken">

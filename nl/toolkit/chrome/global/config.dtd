@@ -45,8 +45,6 @@
 
 <!ENTITY filterPrefs.label "Filter:">
 <!ENTITY filterPrefs.accesskey "F">
-<!ENTITY showAll.label "Alles tonen">
-<!ENTITY showAll.accesskey "A">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Voorkeurnaam">

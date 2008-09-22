@@ -2,7 +2,7 @@
 
 <!ENTITY dialog.title            "Programmatuurinstallatie">
 <!ENTITY dialog.style            "width: 45em">
-<!ENTITY warningMain.label       "Installeer alleen add-ons van auteurs die u vertrouwt.">
+<!ENTITY warningPrimary.label    "Installeer alleen add-ons van auteurs die u vertrouwt.">
 <!ENTITY warningSecondary.label  "Kwaadwillende programmatuur kan uw computer beschadigen of uw privacy schenden.">
 
 <!ENTITY from.label "van:">
