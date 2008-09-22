@@ -1,6 +1,6 @@
 <!ENTITY urlbar.label "adresų juostoje paspaudus Vald+Įvesti">
 <!ENTITY urlbar.accesskey "a">
-<!ENTITY middleClick.label "spragtelėjus saitą viduriniu pelės klavišu, kairiuoju pelės kartu su „Vald“ klavišu arba paspaudus Vald+Įvesti">
+<!ENTITY middleClick.label "spustelėjus saitą viduriniu pelės klavišu, kairiuoju pelės kartu su „Vald“ klavišu arba paspaudus Vald+Įvesti">
 <!ENTITY middleClick.accesskey "v">
 
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the

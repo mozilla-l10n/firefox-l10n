@@ -55,7 +55,7 @@
 <!ENTITY sidebar.loading.stop.accesskey "S">
 
 <!ENTITY sidebar.no-panels.state     "Šiuo metu parankinėje nėra kortelių.">
-<!ENTITY sidebar.no-panels.add       'Nauja kortelė įtraukiama spragtelėjus parankinės viršuje esantį mygtuką „Kortelės“.'>
+<!ENTITY sidebar.no-panels.add       'Nauja kortelė įtraukiama spustelėjus parankinės viršuje esantį mygtuką „Kortelės“.'>
 <!ENTITY sidebar.no-panels.hide      'Jei norite užverti parankinę, pagrindinio meniu punkte „Rodymas“ pašalinkite žymėjimą (varnelę) šalia „Parankinė“'>
 <!ENTITY sidebar.sbDirectory.label   "Parankinės katalogas…">
 

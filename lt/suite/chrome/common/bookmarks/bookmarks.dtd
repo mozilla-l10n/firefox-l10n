@@ -95,25 +95,25 @@
 
 <!ENTITY treecol.name.label             "Pavadinimas">
 <!ENTITY treecol.name.accesskey         "P">
-<!ENTITY treecol.name.tooltip           "Spragtelėkite, jei norite surikiuoti pagal pavadinimą">
+<!ENTITY treecol.name.tooltip           "Spustelėkite, jei norite surikiuoti pagal pavadinimą">
 <!ENTITY treecol.url.label              "Adresas">
 <!ENTITY treecol.url.accesskey          "A">
-<!ENTITY treecol.url.tooltip            "Spragtelėkite, jei norite surikiuoti pagal adresą">
+<!ENTITY treecol.url.tooltip            "Spustelėkite, jei norite surikiuoti pagal adresą">
 <!ENTITY treecol.shortcut.label         "Reikšminis žodis">
 <!ENTITY treecol.shortcut.accesskey     "R">
-<!ENTITY treecol.shortcut.tooltip       "Spragtelėkite, jei norite surikiuoti pagal reikšminį žodį">
+<!ENTITY treecol.shortcut.tooltip       "Spustelėkite, jei norite surikiuoti pagal reikšminį žodį">
 <!ENTITY treecol.description.label      "Aprašas">
 <!ENTITY treecol.description.accesskey  "š">
-<!ENTITY treecol.description.tooltip    "Spragtelėkite, jei norite surikiuoti pagal aprašą">
+<!ENTITY treecol.description.tooltip    "Spustelėkite, jei norite surikiuoti pagal aprašą">
 <!ENTITY treecol.addedon.label          "Įtrauktas">
 <!ENTITY treecol.addedon.accesskey      "t">
-<!ENTITY treecol.addedon.tooltip        "Spragtelėkite, jei norite surikiuoti pagal įtraukimo datą ir laiką">
+<!ENTITY treecol.addedon.tooltip        "Spustelėkite, jei norite surikiuoti pagal įtraukimo datą ir laiką">
 <!ENTITY treecol.lastmod.label          "Atnaujintas">
 <!ENTITY treecol.lastmod.accesskey      "n">
-<!ENTITY treecol.lastmod.tooltip        "Spragtelėkite, jei norite surikiuoti pagal atnaujinimo datą ir laiką">
+<!ENTITY treecol.lastmod.tooltip        "Spustelėkite, jei norite surikiuoti pagal atnaujinimo datą ir laiką">
 <!ENTITY treecol.lastvisit.label        "Paskiausiai aplankytas">
 <!ENTITY treecol.lastvisit.accesskey    "l">
-<!ENTITY treecol.lastvisit.tooltip      "Spragtelėkite, jei norite surikiuoti pagal paskiausio aplankymo datą ir laiką">
+<!ENTITY treecol.lastvisit.tooltip      "Spustelėkite, jei norite surikiuoti pagal paskiausio aplankymo datą ir laiką">
 
 <!ENTITY bookmarksWindowTitle.label     "Adresynas">
 

@@ -41,7 +41,7 @@
 <!ENTITY allengines.label         "Visos ieškyklės">
 <!ENTITY within.label             "Kur:">
 <!ENTITY using.label              "Naudojant">
-<!ENTITY choose.label             "Pasirinkite ieškyklę ir spragtelėkite „Ieškoti“">
+<!ENTITY choose.label             "Pasirinkite ieškyklę ir spustelėkite „Ieškoti“">
 <!ENTITY results.label            "Paieškos rezultatai">
 <!ENTITY engine.column.label      "ieškyklės">
 <!ENTITY checkbox.column.label    "Pažymėti">

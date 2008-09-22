@@ -33,7 +33,7 @@
 <!-- LOCALIZATION NOTE : FILE Cache prefs dialog -->
 <!ENTITY pref.cache.title                "Podėlis">
 <!ENTITY pref.cache.caption              "Podėlio parinktys">
-<!ENTITY cachePara                       "Podėlyje laikomos dažniausiai lankomų tinklalapių kopijos. Spragtelėjus naršyklės mygtukų juostoje „Iš naujo“, visada bus atsiųsta vėliausia tinklalapio versija.">
+<!ENTITY cachePara                       "Podėlyje laikomos dažniausiai lankomų tinklalapių kopijos. Spustelėjus naršyklės mygtukų juostoje „Iš naujo“, visada bus atsiųsta vėliausia tinklalapio versija.">
 <!ENTITY diskCache.label                 "Podėlis:">
 <!ENTITY diskCache.accesskey             "o">
 <!ENTITY mbytes                          "MB">
