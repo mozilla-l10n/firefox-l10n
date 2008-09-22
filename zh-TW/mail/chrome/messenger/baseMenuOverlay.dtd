@@ -1,0 +1,20 @@
+<!-- Help Menu -->
+<!ENTITY helpMenu.label "說明">
+<!ENTITY helpMenu.accesskey "H">
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label "說明">
+<!ENTITY helpMenuWin.accesskey "H">
+<!ENTITY releaseCmd.label "版本資訊">
+<!ENTITY releaseCmd.accesskey "R">
+<!ENTITY openHelp.label "使用說明">
+<!ENTITY openHelp.accesskey "H">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelpMac.label "&brandShortName; 說明">
+<!ENTITY openHelpMac2.commandkey   "？">
+<!ENTITY openHelpMac2.modifiers    "accel">
+
+<!ENTITY updateCmd.label "檢查更新…">
+<!ENTITY updateCmd.accesskey "o">
+<!ENTITY aboutCmd.label "關於 &brandFullName;">
+<!ENTITY aboutCmd.accesskey "a">

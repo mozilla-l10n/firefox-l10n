@@ -34,10 +34,10 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-<!ENTITY nameColumn.label "名稱">
-<!ENTITY unreadColumn.label "未讀">
-<!ENTITY totalColumn.label "全部">
-<!ENTITY folderSizeColumn.label "大小">
+<!ENTITY nameColumn.label   "名稱"> 
+<!ENTITY unreadColumn.label "未讀"> 
+<!ENTITY totalColumn.label "全部"> 
+<!ENTITY folderSizeColumn.label "大小"> 
 <!ENTITY accounts.label "帳號">
 <!-- LOCALIZATION NOTE (accounts.img) : DONT_TRANSLATE -->
 <!ENTITY accounts.img "chrome://messenger/skin/local-mailhost.gif">

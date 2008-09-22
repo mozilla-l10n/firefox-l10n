@@ -13,8 +13,8 @@
 <!ENTITY signingCert.message "使用此憑證簽署你寄出的郵件:">
 <!ENTITY signingCert.notselected "無憑證設定">
 
-<!ENTITY certificates.label "憑證">
-<!ENTITY managecerts.label "憑證">
-<!ENTITY managecerts.accesskey "V">
-<!ENTITY managedevices.label "管理安全裝置">
+<!ENTITY certificates.label     "憑證">
+<!ENTITY managecerts.label      "憑證">
+<!ENTITY managecerts.accesskey  "V">
+<!ENTITY managedevices.label    "管理安全裝置">
 <!ENTITY managedevices.accesskey "S">

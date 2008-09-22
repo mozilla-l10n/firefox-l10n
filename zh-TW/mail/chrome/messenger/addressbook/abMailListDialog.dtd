@@ -35,24 +35,24 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
+
 <!-- Title -->
-
-<!ENTITY mailListWindow.title "群組寄信名單">
+<!ENTITY mailListWindow.title           "群組寄信名單">
 <!-- Labels -->
-<!ENTITY addToAddressBook.label "新增到: ">
+<!ENTITY addToAddressBook.label         "新增到: ">
 
-<!ENTITY ListName.label "群組名稱: ">
-<!ENTITY ListNickName.label "群組暱稱: ">
-<!ENTITY ListDescription.label "描述: ">
+<!ENTITY ListName.label                 "群組名稱: ">
+<!ENTITY ListNickName.label             "群組暱稱: ">
+<!ENTITY ListDescription.label          "描述: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label "在下列輸入要加入群組寄信名單中的 Email 地址:">
-<!ENTITY RemoveButton.label "移除">
-<!ENTITY UpButton.label "上移">
-<!ENTITY DownButton.label "下移">
-<!-- Access Keys -->
+<!ENTITY AddressTitle.label             "在下列輸入要加入群組寄信名單中的 Email 地址:">
+<!ENTITY RemoveButton.label             "移除">
+<!ENTITY UpButton.label                 "上移">
+<!ENTITY DownButton.label               "下移">
 
-<!ENTITY addToAddressBook.accesskey "A">
-<!ENTITY ListName.accesskey "L">
-<!ENTITY ListNickName.accesskey "N">
-<!ENTITY ListDescription.accesskey "e">
+<!-- Access Keys -->
+<!ENTITY addToAddressBook.accesskey     "A">
+<!ENTITY ListName.accesskey             "L">
+<!ENTITY ListNickName.accesskey         "N">
+<!ENTITY ListDescription.accesskey      "e">
 

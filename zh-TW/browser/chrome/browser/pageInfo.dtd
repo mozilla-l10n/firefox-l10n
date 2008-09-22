@@ -60,8 +60,8 @@
 <!ENTITY  generalEncoding       "字元編碼:">
 <!ENTITY  generalMetaName       "名稱">
 <!ENTITY  generalMetaContent    "內容">
-<!ENTITY  generalSecurityMore   "更多資訊">
-<!ENTITY  generalSecurityMore.accesskey "o">
+<!ENTITY  generalSecurityDetails   "詳細資訊">
+<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "媒體">
 <!ENTITY  mediaTab.accesskey    "M">

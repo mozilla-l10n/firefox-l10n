@@ -35,6 +35,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY createVFDialog.title "即時搜尋資料夾">
-<!ENTITY virtualFolder.label "輸入即時搜尋資料夾的名稱: ">
-<!ENTITY virtualFolder.accesskey "E">
+<!ENTITY createVFDialog.title              "即時搜尋資料夾">
+<!ENTITY virtualFolder.label               "輸入即時搜尋資料夾的名稱: ">
+<!ENTITY virtualFolder.accesskey           "E">

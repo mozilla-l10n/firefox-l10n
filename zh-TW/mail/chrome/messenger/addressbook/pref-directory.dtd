@@ -34,20 +34,20 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-<!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 
-<!ENTITY pref.ldap.window.title "LDAP 目錄伺服器">
-<!ENTITY directory.label "新增目錄">
+<!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
+<!ENTITY pref.ldap.window.title    "LDAP 目錄伺服器">
+<!ENTITY directory.label           "新增目錄">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label "LDAP 目錄伺服器:">
+<!ENTITY directories.label         "LDAP 目錄伺服器:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
-<!ENTITY directoriesText.label "選擇 LDAP 目錄伺服器:">
+<!ENTITY directoriesText.label     "選擇 LDAP 目錄伺服器:">
 <!ENTITY directoriesText.accesskey "S">
 <!-- LOCALIZATION NOTE (autocomplete.title) : do not translate "LDAP" in below line -->
-<!ENTITY autocomplete.title "LDAP 目錄伺服器">
-<!ENTITY addDirectory.label "新增">
-<!ENTITY addDirectory.accesskey "a">
-<!ENTITY editDirectory.label "編輯">
-<!ENTITY editDirectory.accesskey "e">
-<!ENTITY deleteDirectory.label "刪除">
-<!ENTITY deleteDirectory.accesskey "d">
+<!ENTITY autocomplete.title        "LDAP 目錄伺服器">
+<!ENTITY addDirectory.label        "新增">
+<!ENTITY addDirectory.accesskey    "A">
+<!ENTITY editDirectory.label       "編輯">
+<!ENTITY editDirectory.accesskey   "E">
+<!ENTITY deleteDirectory.label     "刪除">
+<!ENTITY deleteDirectory.accesskey "D">

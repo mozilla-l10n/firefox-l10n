@@ -36,6 +36,6 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY fieldMapExport.title "匯出通訊錄">
-<!ENTITY fieldMapExport.add "增加欄位 ->">
-<!ENTITY fieldMapExport.addAll "全部加入 ->">
-<!ENTITY fieldList.label "通訊錄欄位">
+<!ENTITY fieldMapExport.add    "增加欄位 ->">
+<!ENTITY fieldMapExport.addAll  "全部加入 ->">
+<!ENTITY fieldList.label   "通訊錄欄位">
