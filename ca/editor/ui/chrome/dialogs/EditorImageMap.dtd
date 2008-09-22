@@ -48,60 +48,55 @@
 <!-- Menu Items -->
 <!-- File menu -->
 <!ENTITY mapfileMenu.label "Fitxer">
-<!ENTITY mapfilemenu.accesskey "f">
+<!ENTITY mapfileMenu.accesskey "F">
 <!ENTITY clearCmd.label "Esborra">
-<!ENTITY mapfileclear.accesskey "a">
+<!ENTITY clearCmd.accesskey "a">
 <!ENTITY closeCmd.label "Tanca">
-<!ENTITY mapfileclose.accesskey "c">
+<!ENTITY closeCmd.accesskey "c">
 
 <!-- Edit menu -->
 <!ENTITY mapeditMenu.label "Edita">
-<!ENTITY mapeditmenu.accesskey "e">
+<!ENTITY mapeditMenu.accesskey "E">
 <!ENTITY cutCmd.label "Retalla">
-<!ENTITY mapeditcut.accesskey "t">
+<!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Copia">
-<!ENTITY mapeditcopy.accesskey "c">
+<!ENTITY copyCmd.accesskey "c">
 <!ENTITY pasteCmd.label "Enganxa">
-<!ENTITY mapeditpaste.accesskey "x">
+<!ENTITY pasteCmd.accesskey "x">
 <!ENTITY selectallCmd.label "Selecciona-ho tot">
-<!ENTITY mapselectall.accesskey "s">
+<!ENTITY selectallCmd.accesskey "a">
 <!ENTITY propsCmd.label "Propietats del focus">
-<!ENTITY mapeditprops.accesskey "h">
+<!ENTITY propsCmd.accesskey "f">
 
 <!-- View menu -->
 <!ENTITY mapviewMenu.label "Visualitza">
-<!ENTITY mapviewmenu.accesskey "v">
+<!ENTITY mapviewMenu.accesskey "V">
 <!ENTITY showhideTbarCmd.label "Amaga la barra d'eines">
-<!ENTITY mapviewtbar.accesskey "t">
+<!ENTITY showhideTbarCmd.accesskey "g">
 <!-- Scaling -->
 <!ENTITY mapviewScale.label "Escala">
-<!ENTITY mapviewscale.accesskey "S">
+<!ENTITY mapviewScale.accesskey "S">
 <!ENTITY apercentCmd.label "100">
-<!ENTITY zoomone.accesskey "1">
+<!ENTITY apercentCmd.accesskey "1">
 <!ENTITY bpercentCmd.label "200">
-<!ENTITY zoomtwo.accesskey "2">
+<!ENTITY bpercentCmd.accesskey "2">
 <!ENTITY cpercentCmd.label "400">
-<!ENTITY zoomthree.accesskey "4">
-<!-- end scaling-->
-<!ENTITY contrastCmd.label "Contrast">
-<!ENTITY contrast.accesskey "n">
+<!ENTITY cpercentCmd.accesskey "4">
 
-<!-- Help menu -->
-<!ENTITY maphelpMenu.label "Ajuda">
-<!ENTITY maphelpmenu.accesskey "j">
-<!ENTITY aboutCmd.label "Quant a">
-<!ENTITY about.accesskey "Q">
+<!ENTITY zoominCmd.label "Amplia el zoom">
+<!ENTITY zoomoutCmd.label "Redueix el zoom">
+<!ENTITY delSpotCmd.label "Suprimeix el punt">
 
 <!ENTITY zoominCmd.label "Amplia el zoom">
 <!ENTITY zoomoutCmd.label "Redueix el zoom">
 <!ENTITY delSpotCmd.label "Suprimeix el punt">
 
 <!-- Keys -->
-<!ENTITY clear.accesskey "d">
-<!ENTITY selectall.accesskey "a">
-<!ENTITY close.accesskey "l">
-<!ENTITY cut.accesskey "x">
-<!ENTITY copy.accesskey "c">
-<!ENTITY paste.accesskey "v">
-<!ENTITY props.accesskey "p">
-<!ENTITY tbar.accesskey "t">
+<!ENTITY clear.key "d">
+<!ENTITY selectall.key "a">
+<!ENTITY close.key "l">
+<!ENTITY cut.key "x">
+<!ENTITY copy.key "c">
+<!ENTITY paste.key "v">
+<!ENTITY props.key "p">
+<!ENTITY tbar.key "t">
