@@ -63,8 +63,8 @@
 <!ENTITY  generalEncoding       "Koduotė:">
 <!ENTITY  generalMetaName       "Vardas">
 <!ENTITY  generalMetaContent    "Reikšmė">
-<!ENTITY  generalSecurityMore   "Išsamiau">
-<!ENTITY  generalSecurityMore.accesskey "I">
+<!ENTITY  generalSecurityDetails            "Išsamiau">
+<!ENTITY  generalSecurityDetails.accesskey  "I">
 
 <!ENTITY  mediaTab              "Įvairialypė terpė">
 <!ENTITY  mediaTab.accesskey    "t">
