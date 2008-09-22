@@ -60,8 +60,8 @@
 <!ENTITY  generalEncoding       "Kodearring:">
 <!ENTITY  generalMetaName       "Namme">
 <!ENTITY  generalMetaContent    "Ynhâld">
-<!ENTITY  generalSecurityMore   "Mear">
-<!ENTITY  generalSecurityMore.accesskey "M">
+<!ENTITY  generalSecurityDetails   "Details">
+<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "Media">
 <!ENTITY  mediaTab.accesskey    "M">
@@ -85,13 +85,13 @@
 <!ENTITY  feedSubscribe         "abonnearje">
 <!ENTITY  feedSubscribe.accesskey "a">
 
-<!ENTITY  permTab               "Tastemmings">
+<!ENTITY  permTab               "Tastimmings">
 <!ENTITY  permTab.accesskey     "T">
 <!ENTITY  permUseDefault        "Standert brûke">
 <!ENTITY  permAllow             "Tastean">
 <!ENTITY  permAllowSession      "Tastean foar sesje">
 <!ENTITY  permBlock             "Blokkearje">
-<!ENTITY  permissionsFor        "Tastemmings foar:">
+<!ENTITY  permissionsFor        "Tastimmings foar:">
 <!ENTITY  permImage             "Ofbyldings lade">
 <!ENTITY  permPopup             "Popupfinster iepenje">
 <!ENTITY  permCookie            "Cookies ynstelle">
