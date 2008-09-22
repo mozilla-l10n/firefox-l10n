@@ -8,6 +8,7 @@
 <!ENTITY removeallpermissions.label   "Fjern alle nettsted">
 <!ENTITY removeallpermissions.accesskey "a">
 <!ENTITY address.label                "Adressen til nettstedet:">
+<!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Blokker">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "Tillat for programøkten">

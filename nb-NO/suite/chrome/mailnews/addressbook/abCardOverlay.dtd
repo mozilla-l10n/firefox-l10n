@@ -136,6 +136,11 @@
 
 <!ENTITY Other.tab                      "Annet">
 <!ENTITY Other.accesskey                "A">
+<!ENTITY Birthday.label                 "Bursdag:">
+<!ENTITY Birthday.accesskey             "B">
+<!ENTITY Year.emptytext                 "År">
+<!ENTITY Or.value                       "eller">
+<!ENTITY Age.emptytext                  "Alder">
 <!ENTITY Custom1.label                  "Egendefinert 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Egendefinert 2:">

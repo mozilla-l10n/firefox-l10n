@@ -70,6 +70,7 @@
 <!ENTITY viewSourceMenuItem.accesskey "V">
 
 <!ENTITY hideDetailsButton.label "skjul detaljer">
+<!ENTITY showDetailsButton.label "vis detaljer">
 
 <!ENTITY openAttachmentCmd.label    "Åpne">
 <!ENTITY openAttachmentCmd.accesskey    "Å">

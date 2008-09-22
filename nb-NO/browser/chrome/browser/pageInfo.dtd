@@ -60,8 +60,8 @@
 <!ENTITY  generalEncoding       "Tegnkoding:">
 <!ENTITY  generalMetaName       "Navn">
 <!ENTITY  generalMetaContent    "Innhold">
-<!ENTITY  generalSecurityMore   "Mer">
-<!ENTITY  generalSecurityMore.accesskey "M">
+<!ENTITY  generalSecurityDetails   "Detaljer">
+<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "Media">
 <!ENTITY  mediaTab.accesskey    "M">
