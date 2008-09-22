@@ -50,7 +50,7 @@
 <!ENTITY locationEditField.tooltip "Digite o endereço ou nome do arquivo da imagem">
 <!ENTITY title.label "Descrição:">
 <!ENTITY title.accessKey "D">
-<!ENTITY title.tooltip "O atributo 'title', normalmente exibido através de um balão quando apontado pelo mouse">
+<!ENTITY title.tooltip "O atributo “title”, normalmente exibido como um balão quando apontado pelo mouse">
 <!ENTITY altText.label "Texto substituto:">
 <!ENTITY altText.accessKey "T">
 <!ENTITY altTextEditField.tooltip "Forneça um texto que possa substituir a imagem">

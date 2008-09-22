@@ -52,8 +52,6 @@
 <!ENTITY formattingtb.accesskey "f">
 <!ENTITY editmodeToolbarCmd.label "Modo de edição">
 <!ENTITY editmodetb.accesskey "E">
-<!ENTITY taskbarCmd.label "Barra de status">
-<!ENTITY taskbarCmd.accesskey "s">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Format">

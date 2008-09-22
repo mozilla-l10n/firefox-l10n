@@ -22,7 +22,7 @@
 <!ENTITY  preserveExisting.label        "Preserve original source formatting">
 <!ENTITY  preserveExisting.accesskey    "P">
 <!ENTITY  preserveExisting.tooltip      "Preserves line breaks and page's original formatting">
-<!ENTITY  saveAssociatedFiles.label     "Save images and other associated files when saving pages">
+<!ENTITY  saveAssociatedFiles.label     "Salvar imagens e outros arquivos associados ao salvar páginas">
 <!ENTITY  saveAssociatedFiles.accesskey "S">
 <!ENTITY  showPublishDialog.label       "Always show Publish dialog when publishing pages">
 <!ENTITY  showPublishDialog.accesskey   "A">

@@ -46,84 +46,51 @@
 <!-- Menu Items -->
 <!-- File menu -->
 <!ENTITY mapfileMenu.label "Arquivo">
-<!ENTITY mapfilemenu.accesskey "A">
+<!ENTITY mapfileMenu.accesskey "A">
 <!ENTITY clearCmd.label "Limpar">
-<!ENTITY mapfileclear.accesskey "a">
+<!ENTITY clearCmd.accesskey "L">
 <!ENTITY closeCmd.label "Fechar">
-<!ENTITY mapfileclose.accesskey "c">
+<!ENTITY closeCmd.accesskey "F">
 
 <!-- Edit menu -->
 <!ENTITY mapeditMenu.label "Editar">
-<!ENTITY mapeditmenu.accesskey "E">
+<!ENTITY mapeditMenu.accesskey "E">
 <!ENTITY cutCmd.label "Recortar">
-<!ENTITY mapeditcut.accesskey "t">
+<!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Copiar">
-<!ENTITY mapeditcopy.accesskey "c">
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "Colar">
-<!ENTITY mapeditpaste.accesskey "p">
+<!ENTITY pasteCmd.accesskey "o">
 <!ENTITY selectallCmd.label "Selecionar tudo">
-<!ENTITY mapselectall.accesskey "s">
+<!ENTITY selectallCmd.accesskey "S">
 <!ENTITY propsCmd.label "Hotspot Properties">
-<!ENTITY mapeditprops.accesskey "h">
+<!ENTITY propsCmd.accesskey "h">
 
 <!-- View menu -->
 <!ENTITY mapviewMenu.label "Exibir">
-<!ENTITY mapviewmenu.accesskey "v">
+<!ENTITY mapviewMenu.accesskey "x">
 <!ENTITY showhideTbarCmd.label "Ocultar barra de ferramentas">
-<!ENTITY mapviewtbar.accesskey "t">
+<!ENTITY showhideTbarCmd.accesskey "O">
 <!-- Scaling -->
-<!ENTITY mapviewScale.label "Scale">
-<!ENTITY mapviewscale.accesskey "S">
+<!ENTITY mapviewScale.label "Escala">
+<!ENTITY mapviewScale.accesskey "E">
 <!ENTITY apercentCmd.label "100">
-<!ENTITY zoomone.accesskey "1">
+<!ENTITY apercentCmd.accesskey "1">
 <!ENTITY bpercentCmd.label "200">
-<!ENTITY zoomtwo.accesskey "2">
+<!ENTITY bpercentCmd.accesskey "2">
 <!ENTITY cpercentCmd.label "400">
-<!ENTITY zoomthree.accesskey "4">
-<!-- end scaling-->
-<!ENTITY contrastCmd.label "Contrast">
-<!ENTITY contrast.accesskey "n">
-
-<!-- Help menu -->
-<!ENTITY maphelpMenu.label "Ajuda">
-<!ENTITY maphelpmenu.accesskey "u">
-<!ENTITY aboutCmd.label "Sobre">
-<!ENTITY about.accesskey "b">
+<!ENTITY cpercentCmd.accesskey "4">
 
 <!ENTITY zoominCmd.label "Aumentar zoom">
 <!ENTITY zoomoutCmd.label "Diminuir zoom">
 <!ENTITY delSpotCmd.label "Delete Spot">
 
 <!-- Keys -->
-<!ENTITY clear.accesskey "d">
-<!ENTITY selectall.accesskey "a">
-<!ENTITY close.accesskey "l">
-<!ENTITY cut.accesskey "x">
-<!ENTITY copy.accesskey "c">
-<!ENTITY paste.accesskey "v">
-<!ENTITY props.accesskey "p">
-<!ENTITY tbar.accesskey "t"><!ENTITY apercentCmd.accesskey "1">
-<!ENTITY bpercentCmd.accesskey "2">
-
-<!-- Keys -->
-<!ENTITY clear.key "d">
-<!ENTITY clearCmd.accesskey "a">
-<!ENTITY close.key "l">
-<!ENTITY closeCmd.accesskey "c">
-<!ENTITY copy.key "c">
-<!ENTITY copyCmd.accesskey "c">
-<!ENTITY cpercentCmd.accesskey "4">
-<!ENTITY cut.key "x">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY mapeditMenu.accesskey "e">
-<!ENTITY mapfileMenu.accesskey "f">
-<!ENTITY mapviewMenu.accesskey "v">
-<!ENTITY mapviewScale.accesskey "S">
-<!ENTITY paste.key "v">
-<!ENTITY pasteCmd.accesskey "p">
-<!ENTITY props.key "p">
-<!ENTITY propsCmd.accesskey "h">
-<!ENTITY selectall.key "a">
-<!ENTITY selectallCmd.accesskey "s">
-<!ENTITY showhideTbarCmd.accesskey "t">
-<!ENTITY tbar.key "t">
+<!ENTITY clear.key "D">
+<!ENTITY selectall.key "A">
+<!ENTITY close.key "L">
+<!ENTITY cut.key "X">
+<!ENTITY copy.key "C">
+<!ENTITY paste.key "V">
+<!ENTITY props.key "P">
+<!ENTITY tbar.key "T">
