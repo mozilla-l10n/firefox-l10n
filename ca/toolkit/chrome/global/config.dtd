@@ -48,8 +48,6 @@
 
 <!ENTITY filterPrefs.label "Filtre:">
 <!ENTITY filterPrefs.accesskey "i">
-<!ENTITY showAll.label "Mostra-ho tot">
-<!ENTITY showAll.accesskey "M">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Nom de la preferència">
