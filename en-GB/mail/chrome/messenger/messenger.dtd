@@ -38,6 +38,8 @@
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Subscribe…">
 <!ENTITY subscribeCmd.accesskey "b">
+<!ENTITY deleteFolder.label "Delete Folder">
+<!ENTITY deleteFolder.accesskey "e">
 <!ENTITY renameFolder.label "Rename Folder…">
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2">
@@ -439,6 +441,7 @@
 <!ENTITY backButton1.label "Back">
 <!ENTITY goForwardButton1.label "Forwards">
 <!ENTITY deleteButton.label "Delete">
+<!ENTITY undeleteButton.label "Undelete">
 <!ENTITY markButton.label "Mark">
 <!ENTITY printButton.label "Print">
 <!ENTITY stopButton.label "Stop">
@@ -470,6 +473,7 @@
 <!ENTITY goForwardButton.tooltip "Go forwards one message">
 <!ENTITY goBackButton.tooltip "Go back one message">
 <!ENTITY deleteButton.tooltip "Delete selected message or folder">
+<!ENTITY undeleteButton.tooltip "Undelete selected message">
 <!ENTITY markButton.tooltip "Mark messages">
 <!ENTITY printButton.tooltip "Print this message">
 <!ENTITY stopButton.tooltip "Stop the current transfer">
@@ -536,6 +540,7 @@
 <!ENTITY searchFromMenu.label "From">
 <!ENTITY searchSubjectOrFromMenu.label "Subject or From">
 <!ENTITY searchRecipient.label "To or Cc">
+<!ENTITY searchSubjectOrRecipientMenu.label "Subject, To or Cc">
 <!ENTITY searchMessageBody.label "Entire Message">
 <!ENTITY saveAsVirtualFolderMenu.label "Save Search as a Folder…">
 
@@ -622,12 +627,12 @@
 
 <!-- Remote Content Bar -->
 <!ENTITY remoteContentMessage1.label "To protect your privacy, remote images have been blocked.">
-<!ENTITY loadRemoteContentButton1.label "Load Images">
+<!ENTITY loadRemoteContentButton2.label "Display Images Now">
 
 <!-- Phishing Bar -->
-<!ENTITY phishingBarMessage1.label "Suspected Email Scam">
+<!ENTITY phishingBarMessage2.label "This message may be a scam.">
 <!ENTITY removePhishingBarButton1.label "Ignore Warning">
-<!ENTITY reportPhishingError.label "This isn't an email scam">
+<!ENTITY reportPhishingError1.label "This message doesn't appear to be a scam.">
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
@@ -635,6 +640,8 @@
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Add to Address Book…">
 <!ENTITY AddToAddressBook.accesskey "B">
+<!ENTITY AddDirectlyToAddressBook.label "Add to Address Book">
+<!ENTITY AddDirectlyToAddressBook.accesskey "B">
 <!ENTITY EditContact.label "Edit Contact…">
 <!ENTITY EditContact.accesskey "E">
 <!ENTITY ViewContact.label "View Contact">
@@ -651,10 +658,10 @@
 <!ENTITY reportPhishingURL.accesskey "o">
 
 <!-- Content Pane Context Menu -->
-<!ENTITY saveLinkCmd.label "Save Link Target">
-<!ENTITY saveLinkCmd.accesskey "r">
-<!ENTITY saveImageCmd.label "Save Image">
-<!ENTITY saveImageCmd.accesskey "v">
+<!ENTITY saveLinkAsCmd.label "Save Link As…">
+<!ENTITY saveLinkAsCmd.accesskey "k">
+<!ENTITY saveImageAsCmd.label "Save Image As…">
+<!ENTITY saveImageAsCmd.accesskey "v">
 <!ENTITY copyCmd.label "Copy">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "Select All">
