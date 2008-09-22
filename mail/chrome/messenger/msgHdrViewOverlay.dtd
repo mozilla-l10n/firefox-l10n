@@ -70,6 +70,7 @@
 <!ENTITY viewSourceMenuItem.accesskey "f">
 
 <!ENTITY hideDetailsButton.label "részletek elrejtése">
+<!ENTITY showDetailsButton.label "részletek megjelenítése">
 
 <!ENTITY openAttachmentCmd.label    "Megnyitás">
 <!ENTITY openAttachmentCmd.accesskey    "M">
