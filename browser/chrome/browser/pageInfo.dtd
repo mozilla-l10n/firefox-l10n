@@ -60,8 +60,8 @@
 <!ENTITY generalEncoding "Kódování:">
 <!ENTITY generalMetaName "Název">
 <!ENTITY generalMetaContent "Obsah">
-<!ENTITY generalSecurityMore "Více">
-<!ENTITY generalSecurityMore.accesskey "V">
+<!ENTITY  generalSecurityDetails "Podrobnosti">
+<!ENTITY  generalSecurityDetails.accesskey "P">
 
 <!ENTITY mediaTab "Média">
 <!ENTITY mediaTab.accesskey "M">
