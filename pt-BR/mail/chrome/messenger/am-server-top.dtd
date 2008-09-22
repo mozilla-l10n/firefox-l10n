@@ -3,9 +3,9 @@
 <!ENTITY securitySettings.label "Configurações de segurança">
 <!ENTITY serverSettings.label "Receber mensagens">
 <!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
-<!ENTITY popServer.label "Servidor de mensagens POP">
+<!ENTITY popServer.label "Servidor POP">
 <!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
-<!ENTITY imapServer.label "Servidor de mensagens IMAP">
+<!ENTITY imapServer.label "Servidor IMAP">
 <!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
 <!ENTITY newsServer.label "Servidor de news (NNTP)">
 <!ENTITY webmail.label "Conta de webmail">
@@ -41,7 +41,7 @@
 <!ENTITY useSecAuth.accesskey "r">
 <!ENTITY leaveOnServer.label "Manter mensagens no servidor">
 <!ENTITY leaveOnServer.accesskey "M">
-<!ENTITY headersOnly.label "Receber apenas os cabeçalhos">
+<!ENTITY headersOnly.label "Receber somente os cabeçalhos">
 <!ENTITY headersOnly.accesskey "b">
 <!ENTITY deleteByAgeFromServer.label "Por no máximo">
 <!ENTITY deleteByAgeFromServer.accesskey "O">
@@ -57,8 +57,8 @@
 <!ENTITY deleteMessagePrefix.label "Ao excluir uma mensagem:">
 <!ENTITY modelMoveToTrash.label "Mover para esta pasta:">
 <!ENTITY modelMoveToTrash.accesskey "o">
-<!ENTITY modelMarkDeleted.label "Apenas marcar como excluída">
-<!ENTITY modelMarkDeleted.accesskey "A">
+<!ENTITY modelMarkDeleted.label "Somente marcar como excluída">
+<!ENTITY modelMarkDeleted.accesskey "S">
 <!ENTITY modelDeleteImmediately.label "Excluir imediatamente">
 <!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
@@ -76,12 +76,10 @@
 <!ENTITY maxMessagesStart.accesskey "e">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "mensagens">
-<!ENTITY alwaysAuthenticate.label "Sempre pedir autenticação ao conectar-se a este servidor">
+<!ENTITY alwaysAuthenticate.label "Sempre solicitar autenticação ao conectar-se a este servidor">
 <!ENTITY alwaysAuthenticate.accesskey "m">
 <!ENTITY newsrcFilePath.label "Arquivo newsrc:">
-<!ENTITY newsrcFilePath.accesskey "w">
 <!ENTITY localPath.label "Pasta local:">
-<!ENTITY localPath.accesskey "o">
 <!ENTITY abbreviate.label "Exibir nomes de newsgroups na área de pastas como:">
 <!ENTITY abbreviateOn.label "Nome completo (exemplo: netscape.public.mozilla.mail-news)">
 <!ENTITY abbreviateOff.label "Nomes abreviados (exemplo: n.p.m.mail-news)">

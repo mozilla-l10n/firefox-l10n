@@ -1,8 +1,8 @@
 <!ENTITY itemFormatting.label             "Formatação">
-<!ENTITY itemTags.label                   "Marcadores">
+<!ENTITY itemTags.label                   "Tags">
 <!ENTITY itemFonts.label                  "Fontes">
 
-<!ENTITY textBegin.label                  "Quoted plain text appearance">
+<!ENTITY textBegin.label                  "Aparência de texto sem formatação citado">
 <!ENTITY style.label                      "Estilo:">
 <!ENTITY style.accesskey                  "E">
 <!ENTITY regularStyle.label               "Regular">
@@ -37,10 +37,10 @@
 <!ENTITY convertEmoticons.accesskey    "R">
 
 <!-- labels -->
-<!ENTITY displayTagsText.label    "Os marcadores podem ser usados para organizar suas mensagens.">
-<!ENTITY addTagButton.label       "Novo…">
+<!ENTITY displayTagsText.label    "As tags podem ser usadas para organizar suas mensagens.">
+<!ENTITY addTagButton.label       "Nova…">
 <!ENTITY addTagButton.accesskey   "N">
-<!ENTITY editTagButton.label      "Editar">
+<!ENTITY editTagButton.label      "Editar…">
 <!ENTITY editTagButton.accesskey   "E">
 <!ENTITY removeTagButton.label    "Excluir">
 <!ENTITY removeTagButton.accesskey "x">

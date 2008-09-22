@@ -1,8 +1,8 @@
 
 <!ENTITY migrationWizard.title          "Assistente de importação">
 
-<!ENTITY importFrom.label               "Importar opções, configurações da conta, catálogos de endereços e outras informações do:">
-<!ENTITY importFromUnix.label           "Importar preferências, configurações da conta, catálogos de endereços e outras informações do:">
+<!ENTITY importFromWin.label            "Importar opções, configurações da conta, catálogos de endereços, filtros e outras informações do:">
+<!ENTITY importFromNonWin.label         "Importar preferências, configurações da conta, catálogos de endereços, filtros e outras informações do:">
 
 <!ENTITY importFromNothing.label        "Não importar nada">
 <!ENTITY importFromNothing.accesskey    "N">
@@ -22,7 +22,7 @@
 <!ENTITY importItems.label              "Importar este itens:">
 
 <!ENTITY migrating.title                "Importando…">
-<!ENTITY migrating.label                "Estes itens estão sendo importados...">
+<!ENTITY migrating.label                "Estes itens estão sendo importados…">
 
 <!ENTITY selectProfile.title            "Selecione o perfil">
 <!ENTITY selectProfile.label            "Estes perfis estão disponíveis para importação:">

@@ -5,9 +5,9 @@
 <!ENTITY neverAsk.accesskey           "S">
 <!ENTITY desktop.label                "Área de trabalho">
 <!ENTITY downloads.label              "Meus downloads">
-<!ENTITY chooseFolderWin.label        "Procurar...">
+<!ENTITY chooseFolderWin.label        "Procurar…">
 <!ENTITY chooseFolderWin.accesskey    "P">
-<!ENTITY chooseFolderMac.label        "Procurar...">
+<!ENTITY chooseFolderMac.label        "Procurar…">
 <!ENTITY chooseFolderMac.accesskey    "P">
 
 
@@ -18,7 +18,7 @@
 
 <!ENTITY fileTypeColName.label        "Tipo de arquivo">
 <!ENTITY fileHandlerColName.label     "Programa">
-<!ENTITY editFileHandler.label        "Propriedades da ação...">
+<!ENTITY editFileHandler.label        "Propriedades da ação…">
 <!ENTITY editFileHandler.accesskey    "P">
 <!ENTITY removeFileHandler.label      "Excluir">
 <!ENTITY removeFileHandler.accesskey  "x">

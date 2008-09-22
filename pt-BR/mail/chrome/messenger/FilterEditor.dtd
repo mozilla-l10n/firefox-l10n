@@ -4,7 +4,7 @@
 <!ENTITY filterName.accesskey "N">
 
 <!ENTITY junk.label "Spam">
-<!ENTITY notJunk.label "Não spam">
+<!ENTITY notJunk.label "Não é spam">
 
 <!ENTITY lowestPriorityCmd.label "Baixíssima">
 <!ENTITY lowPriorityCmd.label "Baixa">
@@ -12,11 +12,15 @@
 <!ENTITY highPriorityCmd.label "Alta">
 <!ENTITY highestPriorityCmd.label "Altíssima">
 
-<!ENTITY conditionDesc.label "Ao receber mensagens que satisfaçam:">
+<!ENTITY contextDesc.label "Aplicar filtro ao:">
+<!ENTITY contextDesc.accesskey "A">
+<!ENTITY contextIncoming.label "Receber">
+<!ENTITY contextManual.label "Aplicar manualmente">
+<!ENTITY contextBoth.label "Receber ou aplicar manualmente">
 <!ENTITY filterActionDesc.label "Executar estas ações:">
 <!ENTITY filterActionDesc.accesskey "x">
 
-<!ENTITY newFolderButton.label "Nova pasta...">
+<!ENTITY newFolderButton.label "Nova pasta…">
 <!ENTITY newFolderButton.accesskey "N">
 
 <!-- New Style Filter Rule Actions -->
@@ -25,13 +29,14 @@
 <!ENTITY forwardTo.label "Encaminhar para">
 <!ENTITY replyWithTemplate.label "Responder com o modelo">
 <!ENTITY markMessageRead.label "Marcar como lida">
-<!ENTITY markMessageStarred.label "Adicionar estrela">
+<!ENTITY markMessageStarred.label "Marcar com estrela">
 <!ENTITY setPriority.label "Definir prioridade como">
-<!ENTITY addTag.label "Aplicar marcador na mensagem">
+<!ENTITY addTag.label "Aplicar tag na mensagem">
 <!ENTITY setJunkScore.label "Definir status de spam para">
 <!ENTITY deleteMessage.label "Excluir">
 <!ENTITY deleteFromPOP.label "Excluir do servidor POP">
 <!ENTITY fetchFromPOP.label "Carregar do servidor POP">
 <!ENTITY ignoreThread.label "Ignorar tópico">
+<!ENTITY ignoreSubthread.label "Ignore Subthread">
 <!ENTITY watchThread.label "Monitorar tópico">
-<!ENTITY stopExecution.label "Stop Filter Execution">
+<!ENTITY stopExecution.label "Interromper a aplicação do filtro">

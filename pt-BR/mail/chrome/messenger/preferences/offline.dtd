@@ -1,11 +1,11 @@
-<!ENTITY offlineDialog.title "Configurações offline">
+<!ENTITY offlineDialog.title "Configurar modo offline">
 
 <!ENTITY textStartUp "Iniciar no modo offline?">
-<!ENTITY radioRememberPrevState.label "Remember previous online state">
-<!ENTITY radioRememberPrevState.accesskey "A">
-<!ENTITY radioAskMe.label "Ask me for online state at startup">
+<!ENTITY radioRememberPrevState.label "Somente se já estava no modo offline">
+<!ENTITY radioRememberPrevState.accesskey "t">
+<!ENTITY radioAskMe.label "Perguntar">
 <!ENTITY radioAskMe.accesskey "e">
-<!ENTITY radioAlwaysOnline.label "Always start up online">
+<!ENTITY radioAlwaysOnline.label "Nunca">
 <!ENTITY radioAlwaysOnline.accesskey "u">
 
 <!ENTITY textGoingOnline "Ao sair do modo offline enviar as mensagens da pasta Saída?">

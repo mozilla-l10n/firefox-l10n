@@ -1,16 +1,18 @@
 <!ENTITY addressbookPicker.label            "Catálogo:">
-<!ENTITY addressbookPicker.accesskey        "C">
+<!ENTITY addressbookPicker.accesskey        "t">
 <!ENTITY searchInput.label                  "Localizar:">
 <!ENTITY searchInput.accesskey              "z">
 <!ENTITY SearchNameOrEmail.label            "Nome ou email">
 
+<!ENTITY deleteAddrBookCard.label           "Excluir">
+<!ENTITY addrBookCardProperties.label       "Propriedades">
 <!ENTITY addtoToFieldMenu.label             "Adicionar ao Para">
 <!ENTITY addtoCcFieldMenu.label             "Adicionar ao Cc">
 <!ENTITY addtoBccFieldMenu.label            "Adicionar ao Cco">
 
-<!ENTITY toButton.label                     "Para: xxx">
+<!ENTITY toButton.label                     "Adicionar ao Para:">
 <!ENTITY toButton.accesskey                 "P">
-<!ENTITY ccButton.label                     "Cc: xxx">
+<!ENTITY ccButton.label                     "Adicionar ao Cc:">
 <!ENTITY ccButton.accesskey                 "C">
-<!ENTITY bccButton.label                    "Add to Bcc:">
-<!ENTITY bccButton.accesskey                "B">
+<!ENTITY bccButton.label                    "Adicionar ao Cco:">
+<!ENTITY bccButton.accesskey                "n">

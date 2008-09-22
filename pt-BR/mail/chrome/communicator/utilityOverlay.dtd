@@ -30,7 +30,7 @@
 <!ENTITY selectAllCmd.label          "Selecionar tudo">
 <!ENTITY selectAllCmd.key          "a">
 <!ENTITY selectAllCmd.accesskey        "S">
-<!ENTITY preferencesCmd.label        "Opções...">
+<!ENTITY preferencesCmd.label        "Opções…">
 <!ENTITY preferencesCmd.accesskey      "o">
 <!ENTITY preferencesCmdUnix.label       "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey     "P">

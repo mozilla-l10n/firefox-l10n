@@ -45,7 +45,7 @@
 <!ENTITY findButton.label                  "Localizar">
 <!ENTITY findButton.accesskey              "z">
 <!ENTITY directorySecure.label             "Usar conexão segura (SSL)">
-<!ENTITY directorySecure.accesskey         "L">
+<!ENTITY directorySecure.accesskey         "U">
 <!ENTITY directoryLogin.label              "Bind DN: ">
 <!ENTITY directoryLogin.accesskey          "D">
 <!ENTITY advancedOptionsButton.label       "Opções avançadas…">
@@ -55,17 +55,17 @@
 <!ENTITY Advanced.tab                      "Avançado">
 <!ENTITY advancedOptionsTitle.label        "Opções avançadas…">
 <!ENTITY portNumber.label                  "Porta: ">
-<!ENTITY portNumber.accesskey              "t">
+<!ENTITY portNumber.accesskey              "P">
 <!ENTITY searchFilter.label                "Filtro de pesquisa: ">
 <!ENTITY searchFilter.accesskey            "F">
 <!ENTITY scope.label                       "Escopo: ">
 <!ENTITY scope.accesskey                   "E">
 <!ENTITY scopeOneLevel.label               "Um nível">
-<!ENTITY scopeOneLevel.accesskey           "m">
+<!ENTITY scopeOneLevel.accesskey           "U">
 <!ENTITY scopeSubtree.label                "Subárvore">
-<!ENTITY scopeSubtree.accesskey            "u">
+<!ENTITY scopeSubtree.accesskey            "S">
 <!ENTITY return.label                      "Não retornar mais de">
-<!ENTITY return.accesskey                  "o">
+<!ENTITY return.accesskey                  "N">
 <!ENTITY results.label                     "resultados">
 <!ENTITY offlineText.label                 "Você pode fazer uma cópia local deste diretório para usá-lo quando estiver offline.">
 <!-- Localization note: this is here because the width of the dialog 

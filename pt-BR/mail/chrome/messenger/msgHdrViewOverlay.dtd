@@ -35,38 +35,50 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField.label "Para:">
-<!ENTITY fromField.label "De:">
-<!ENTITY senderField.label "Emissor:">
-<!ENTITY organizationField.label "Empresa:">
-<!ENTITY replyToField.label "Responder a:">
+<!ENTITY toField2.label "para">
+<!ENTITY fromField2.label "de">
+<!ENTITY senderField2.label "emissor">
+<!ENTITY organizationField2.label "empresa">
+<!ENTITY replyToField2.label "responder a">
 
-<!ENTITY subjectField.label "Assunto:">
-<!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField.label "Cc: ">
-<!ENTITY bccField.label "Cco:">
-<!ENTITY newsgroupsField.label "Newsgroups:">
-<!ENTITY followupToField.label "Followup-To:">
-<!ENTITY tagsHdr.label "Marcadores:">
-<!ENTITY dateField.label "Data:">
-<!ENTITY userAgentField.label "User-Agent:">
-<!ENTITY referencesField.label "References: ">
-<!ENTITY messageIdField.label "Message-ID: ">
-<!ENTITY inReplyToField.label "In-Reply-To: ">
-<!ENTITY originalWebsite.label "Página web: ">
-<!ENTITY saveAll.label "Salvar tudo...">
+<!ENTITY subjectField2.label "assunto">
+<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
+<!ENTITY ccField2.label "cc ">
+<!ENTITY bccField2.label "cco">
+<!ENTITY newsgroupsField2.label "newsgroups ">
+<!ENTITY followupToField2.label "followup-to ">
+<!ENTITY tagsHdr2.label "tags ">
+<!ENTITY dateField2.label "data">
+<!ENTITY userAgentField2.label "user-agent ">
+<!ENTITY referencesField2.label "references ">
+<!ENTITY messageIdField2.label "message-id ">
+<!ENTITY inReplyToField2.label "in-reply-to ">
+<!ENTITY originalWebsite2.label "website ">
+<!ENTITY saveAll.label "Salvar tudo…">
 
-<!ENTITY editMessage.label "Editar rascunho">
+<!ENTITY editMessageDescription.label "Esta mensagem é um rascunho">
+<!ENTITY editMessageButton.label "Editar">
+<!ENTITY replyButton.label "responder…">
+<!ENTITY forwardButton.label "encaminhar…">
+<!ENTITY junkButton.label "marcar como spam">
+<!ENTITY trashButton.tooltiptext "excluir">
+
+<!ENTITY otherActionsButton.label "outras ações">
+<!ENTITY saveAsMenuItem.label "salvar como…">
+<!ENTITY saveAsMenuItem.accesskey "s">
+<!ENTITY viewSourceMenuItem.label "código-fonte…">
+<!ENTITY viewSourceMenuItem.accesskey "f">
+
+<!ENTITY hideDetailsButton.label "ocultar detalhes">
+<!ENTITY showDetailsButton.label "exibir detalhes">
 
 <!ENTITY openAttachmentCmd.label    "Abrir">
 <!ENTITY openAttachmentCmd.accesskey    "A">
-<!ENTITY saveAsAttachmentCmd.label    "Salvar como...">
+<!ENTITY saveAsAttachmentCmd.label    "Salvar como…">
 <!ENTITY saveAsAttachmentCmd.accesskey    "l">
-<!ENTITY printAttachmentCmd.label    ".Imprimir">
-<!ENTITY printAttachmentCmd.accesskey    "I">
 <!ENTITY detachAttachmentCmd.label    "Desanexar…">
 <!ENTITY deleteAttachmentCmd.label    "Excluir">
-<!ENTITY saveAllAttachmentsCmd.label    "Salvar todos...">
+<!ENTITY saveAllAttachmentsCmd.label    "Salvar todos…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "S">
 <!ENTITY detachAllAttachmentsCmd.label    "Desanexar todos…">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "t">

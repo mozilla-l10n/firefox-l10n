@@ -14,7 +14,7 @@
 <!ENTITY searchMsgsLink.label         "Pesquisar"> 
 <!ENTITY filtersLink.label            "Criar filtros para mensagens">
 <!ENTITY junkSettings.label           "Configurações de spam">
-<!ENTITY offlineLink.label            "Configurações offline">
+<!ENTITY offlineLink.label            "Configurar modo offline">
 
 <!ENTITY rssSectionHdr.label          "Novidades RSS"> 
 <!ENTITY subscibeRSS.label            "Configurar inscrições">

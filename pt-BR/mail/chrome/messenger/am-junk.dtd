@@ -1,11 +1,11 @@
 <!ENTITY junkSettings.label "Anti-spam">
-<!ENTITY trainingWarning.label "Se ativado, você deve primeiro treinar o &brandShortName; a identificar mensagens indesejadas através do botão 'Spam'. Você precisa identificar tanto as mensagens que são spam como as que não são.">
+<!ENTITY trainingWarning.label "Se ativado, você deve primeiro treinar o &brandShortName; a identificar mensagens indesejadas através do botão “Spam”. Você precisa identificar tanto as mensagens que são spam como as que não são.">
 <!ENTITY level.label "Identificar spam ao receber mensagens desta conta">
 <!ENTITY level.accesskey "I">
 
 <!ENTITY move.label "Mover novos spans para:">
 <!ENTITY move.accesskey "M">
-<!ENTITY junkFolderOn.label "Pasta &quot;Spam&quot; da conta:">
+<!ENTITY junkFolderOn.label "Pasta “Spam” da conta:">
 <!ENTITY junkFolderOn.accesskey "P">
 <!ENTITY otherFolder.label "Outra pasta:">
 <!ENTITY otherFolder.accesskey "O">

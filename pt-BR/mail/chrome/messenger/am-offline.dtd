@@ -1,7 +1,7 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Para economizar espaço em disco, não receber:">
 <!ENTITY doNotDownload.label "Para economizar espaço em disco, não receber para leitura offline:">
-<!ENTITY offlineNewFolder.label "Ao criar pastas selecioná-las para leitura offline">
-<!ENTITY offlineNewFolder.accesskey "o">
+<!ENTITY allFoldersOffline.label "Manter mensagens desta conta neste computador">
+<!ENTITY allFoldersOffline.accesskey "M">
 <!ENTITY offlineNotDownload.label "Mensagens com mais de">
 <!ENTITY offlineNotDownload.accesskey "s">
 <!ENTITY kb.label "KB">
@@ -20,15 +20,12 @@
 <!ENTITY retentionKeepNew.label "Excluir todas menos as últimas">
 <!ENTITY retentionKeepNew.accesskey "E">
 <!ENTITY retentionKeepUnread.label "Sempre excluir as mensagens lidas">
-<!ENTITY retentionKeepUnread.accesskey "r">
-<!ENTITY nntpRemoveBody.label "Apenas o conteúdo de mensagens com menos de">
-<!ENTITY nntpRemoveBody.accesskey "A">
-<!ENTITY offlineSelectNntp.label "Selecionar newsgroups para leitura offline...">
+<!ENTITY retentionKeepUnread.accesskey "S">
+<!ENTITY nntpRemoveBody.label "Somente o conteúdo de mensagens com menos de">
+<!ENTITY nntpRemoveBody.accesskey "S">
+<!ENTITY offlineSelectNntp.label "Selecionar newsgroups para leitura offline…">
 <!ENTITY offlineSelectNntp.accesskey "S">
-<!ENTITY offlineSelectImap.label "Selecionar pastas para leitura offline...">
-<!ENTITY offlineSelectImap.accesskey "S">
-<!ENTITY offlineDesc.label "Você pode receber mensagens localmente para lê-las quando estiver no modo offline.">
-<!ENTITY makeInboxMsgsAvailable.label "Ao entrar no modo offline disponibilizar as mensagens na pasta Entrada">
-<!ENTITY makeInboxMsgsAvailable.accesskey "A">
-<!ENTITY offlineGroupTitle.label "Offline">
+<!ENTITY offlineImapAdvancedOffline.label "Avançado…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "A">
+<!ENTITY syncGroupTitle.label "Sincronizar mensagens">
 <!ENTITY diskspaceGroupTitle.label "Espaço em disco">

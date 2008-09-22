@@ -3,14 +3,16 @@
 <!ENTITY viewPicker.label "Visualizar:">
 <!ENTITY viewPicker.accesskey "V">
 <!ENTITY viewAll.label "Tudo">
-<!ENTITY viewAll.accesskey "T">
+<!ENTITY viewAll.accesskey "u">
 <!ENTITY viewUnread.label "Não lidas">
 <!ENTITY viewUnread.accesskey "N">
-<!ENTITY viewTags.label "Marcadores">
-<!ENTITY viewTags.accesskey "M">
-<!ENTITY viewCustomViews.label "Visualizações personalizadas">
+<!ENTITY viewNotDeleted.label "Not Deleted">
+<!ENTITY viewNotDeleted.accesskey "D">
+<!ENTITY viewTags.label "Tags">
+<!ENTITY viewTags.accesskey "T">
+<!ENTITY viewCustomViews.label "Visualizações">
 <!ENTITY viewCustomViews.accesskey "V">
-<!ENTITY viewVirtualFolder.label "Salvar como pasta...">
+<!ENTITY viewVirtualFolder.label "Salvar como pasta…">
 <!ENTITY viewVirtualFolder.accesskey "S">
-<!ENTITY viewCustomizeView.label "Personalizar...">
+<!ENTITY viewCustomizeView.label "Personalizar…">
 <!ENTITY viewCustomizeView.accesskey "P">

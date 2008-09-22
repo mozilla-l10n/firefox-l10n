@@ -6,20 +6,20 @@
 <!ENTITY newMenu.label                                  "Novo">
 <!ENTITY newMenu.accesskey                              "N">
 <!ENTITY newCard.label                                  "Contato…">
-<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newCard.accesskey                              "C">
 <!ENTITY newCard.key                                    "n">
 <!ENTITY newListCmd.label                               "Lista de emails…">
-<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey                           "L">
 <!ENTITY newAddressBookCmd.label                        "Catálogo…">
 <!ENTITY newAddressBookCmd.accesskey                    "a">
 <!ENTITY newLDAPDirectoryCmd.label                      "Diretório LDAP…">
-<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Mensagem">
 <!ENTITY newMessageCmd.key                              "m">
 <!ENTITY newMessageCmd.accesskey                        "M">
+<!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
+<!ENTITY osxAddressBook.label                           "Usar o catálogo de endereços do Mac OS X">
+<!ENTITY osxAddressBook.accesskey                       "U">
 <!ENTITY closeCmd.label                                 "Fechar">
 <!ENTITY closeCmd.key                                   "w">
 <!ENTITY closeCmd.accesskey                             "F">
@@ -31,7 +31,6 @@
 <!ENTITY printPreviewAddressBook.accesskey              "V">
 <!ENTITY printCardViewCmd.label                         "Imprimir contato…">
 <!ENTITY printCardViewCmd.accesskey                     "I">
-<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->
 <!ENTITY printCardViewCmd.key                           "p">
 <!ENTITY printAddressBook.label                         "Imprimir catálogo…">
 <!ENTITY printAddressBook.accesskey                     "a">
@@ -65,7 +64,10 @@
 <!ENTITY deleteCmd.accesskey                            "x">
 <!ENTITY deleteAbCmd.label                              "Excluir catálogo">
 <!ENTITY deleteCardCmd.label                            "Excluir contato">
-<!ENTITY deleteCardsCmd.label                           "Excluir contatos selecionados">
+<!ENTITY deleteCardsCmd2.label                          "Excluir contatos">
+<!ENTITY deleteListCmd.label                            "Excluir lista de emails">
+<!ENTITY deleteListsCmd.label                           "Excluir listas de emails">
+<!ENTITY deleteItemsCmd.label                           "Excluir itens">
 <!ENTITY selectAllCmd.label                             "Selecionar tudo">
 <!ENTITY selectAllCmd.key                               "a">
 <!ENTITY searchAddressesCmd.key                         "F">
@@ -76,7 +78,6 @@
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesCmd.label                            "Propriedades">
-<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY propertiesCmd.accesskey                        "i">
 <!ENTITY propertiesCmd.key                              "I">
 
@@ -89,7 +90,7 @@
 <!ENTITY showAbToolbarCmd.accesskey                     "a">
 <!ENTITY showTaskbarCmd.label                           "Barra de status">
 <!ENTITY showTaskbarCmd.accesskey                       "s">
-<!ENTITY customizeToolbar.label                         "Personalizar...">
+<!ENTITY customizeToolbar.label                         "Personalizar…">
 <!ENTITY customizeToolbar.accesskey                     "P">
 <!ENTITY showCardPane.label                             "Detalhes do contato">
 <!ENTITY showCardPane.accesskey                         "D">
@@ -110,28 +111,17 @@
 <!ENTITY messengerCmd.label                             "Mensagens">
 <!ENTITY messengerCmd.accesskey                         "M">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY searchAddressesCmd.label                       "Pesquisar catálogo...">
+<!ENTITY searchAddressesCmd.label                       "Pesquisar catálogo…">
 <!ENTITY searchAddressesCmd.accesskey                   "e">
 <!ENTITY importCmd.label                                "Importar…">
 <!ENTITY importCmd.accesskey                            "i">
 <!ENTITY exportCmd.label                                "Exportar…">
 <!ENTITY exportCmd.accesskey                            "x">
-<!ENTITY preferencesCmd.label                           "Opções...">
+<!ENTITY preferencesCmd.label                           "Opções…">
 <!ENTITY preferencesCmd.key                             "o">
 <!ENTITY preferencesCmd.accesskey                       "o">
 <!ENTITY preferencesCmdUnix.label                       "Preferências">
-<!ENTITY preferencesCmdUnix.accesskey                   "P"> 
-
-<!-- Help Menu -->
-<!ENTITY helpMenu.label                                 "Ajuda">
-<!ENTITY helpMenu.accesskey                             "u">
-<!ENTITY releaseCmd.label                               "Notas da versão">
-<!ENTITY releaseCmd.accesskey                           "N">
-<!ENTITY hintsAndTips.label                             "Ajuda do &brandShortName;">
-<!ENTITY hintsAndTips.accesskey                         "u">
-<!ENTITY hintsAndTipsMac.commandkey                     "?">
-<!ENTITY aboutCmd.label                                 "Sobre o &brandShortName;">
-<!ENTITY aboutCmd.accesskey                             "S">
+<!ENTITY preferencesCmdUnix.accesskey                   "P">
 
 <!-- Address Book Toolbar and Context Menus -->  
 <!ENTITY newcardButton.label                            "Novo contato">
@@ -200,18 +190,6 @@
 <!ENTITY _PhoneticName.label                            "Nome fonético">
 <!ENTITY _PhoneticName.accesskey                        "f">
 
-<!-- Results pane context menu -->
-<!ENTITY composeEmail.label                             "Nova mensagem">
-<!ENTITY composeEmail.accesskey                         "N">
-<!ENTITY deleteAddrBookCard.label                       "Excluir">
-<!ENTITY deleteAddrBookCard.accesskey                   "x">
-<!ENTITY newAddrBookCard.label                          "Novo contato...">
-<!ENTITY newAddrBookCard.accesskey                      "c">
-<!ENTITY newAddrBookMailingList.label                   "Nova lista de emails…">
-<!ENTITY newAddrBookMailingList.accesskey               "l">
-<!ENTITY addrBookCardProperties.label                   "Propriedades">
-<!ENTITY addrBookCardProperties.accesskey               "P">
-
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 <!ENTITY contact.heading                                "Contato">
@@ -233,5 +211,5 @@
 <!ENTITY windowMenu.label "Janela">
 <!ENTITY minimizeWindow.label "Minimizar">
 <!ENTITY minimizeWindow.key "M">
-<!ENTITY bringAllToFront.label "Trazer todos para frente">
-<!ENTITY zoomWindow.label "Zoom">
+<!ENTITY bringAllToFront.label "Trazer Todas para Frente">
+<!ENTITY zoomWindow.label "Ampliar/Reduzir">

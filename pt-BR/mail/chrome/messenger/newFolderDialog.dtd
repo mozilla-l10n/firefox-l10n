@@ -45,5 +45,5 @@
 <!ENTITY description.accesskey      "C">
 <!ENTITY folderRestriction1.label   "Este servidor tem restrições a pastas de dois tipos especiais.">
 <!ENTITY folderRestriction2.label   "Permitir que sua nova pasta contenha:">
-<!ENTITY foldersOnly.label          "Apenas pastas">
-<!ENTITY messagesOnly.label         "Apenas mensagens">
+<!ENTITY foldersOnly.label          "Somente pastas">
+<!ENTITY messagesOnly.label         "Somente mensagens">

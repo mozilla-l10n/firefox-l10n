@@ -6,7 +6,7 @@
 <!ENTITY question.label "Deseja efetuar alguma conversão?">
 
 <!ENTITY plainTextAndHtml.label "Enviar junto uma versão sem formatação">
-<!ENTITY plainTextAndHtml.accesskey "a">
+<!ENTITY plainTextAndHtml.accesskey "n">
 <!ENTITY plainTextOnly.label "Enviar só uma versão sem formatação">
 <!ENTITY plainTextOnly.accesskey "E">
 <!ENTITY htmlOnly.label "Enviar só no formato original">

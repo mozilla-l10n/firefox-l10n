@@ -6,12 +6,12 @@
 <!ENTITY forwardReply.label                   "Encaminhando mensagens">
 <!ENTITY forwardMsg.label                     "Encaminhar como:">
 <!ENTITY forwardMsg.accesskey                 "h">
-<!ENTITY inline.label                         "Junto ao texto da mensagem">
-<!ENTITY inline.accesskey                     "J">
+<!ENTITY inline.label                         "Texto na mensagem">
+<!ENTITY inline.accesskey                     "T">
 <!ENTITY asAttachment.label                   "Anexo">
 <!ENTITY asAttachment.accesskey               "x">
-<!ENTITY addExtension.label                   "add extension to file name">
-<!ENTITY addExtension.accesskey               "f">
+<!ENTITY addExtension.label                   "Adic. extensão ao nome do arq.">
+<!ENTITY addExtension.accesskey               "A">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Fonte:">
@@ -19,7 +19,7 @@
 <!ENTITY size.label                           "Tamanho:">
 <!ENTITY size.accesskey                       "T">
 <!ENTITY fontColor.label                      "Cor do texto:">
-<!ENTITY fontColor.accesskey                  "x">
+<!ENTITY fontColor.accesskey                  "C">
 <!ENTITY bgColor.label                        "Cor do plano de fundo:">
 <!ENTITY bgColor.accesskey                    "u">
 <!ENTITY restoreHTMLDefaults.label            "Restaurar o padrão">
@@ -34,8 +34,6 @@
 <!ENTITY languagePopup.accessKey              "I">
 <!ENTITY downloadDictionaries.label           "Mais dicionários">
 
-<!ENTITY useMIME.label                        "Em mensagens com caracteres não ASCII, usar a codificação MIME 'quoted printable'">
-<!ENTITY useMIME.accesskey                    "n">
 <!ENTITY warnOnSendAccelKey.label             "Confirmar ao usar um atalho do teclado para enviar mensagens">
 <!ENTITY warnOnSendAccelKey.accesskey         "o">
 <!ENTITY autoSave.label                       "Salvar automaticamente a cada">
@@ -51,15 +49,16 @@
 <!ENTITY addressingTitle.label                 "Autocompletar endereços">
 <!ENTITY autocompleteText.label                "Ao endereçar mensagens, procurar por contatos em:">
 <!ENTITY addressingEnable.label                "Catálogos de endereços locais">
-<!ENTITY addressingEnable.accesskey            "t">
+<!ENTITY addressingEnable.accesskey            "C">
 <!ENTITY directories.label                     "Servidor de diretório:">
-<!ENTITY directories.accesskey                 "r">
+<!ENTITY directories.accesskey                 "S">
+<!ENTITY directoriesNone.label                 "Nenhum">
 <!ENTITY editDirectories.label                 "Editar diretórios…">
-<!ENTITY editDirectories.accesskey             "d">
+<!ENTITY editDirectories.accesskey             "E">
 <!ENTITY matchText.label                       "Se houver um contato no seu catálogo local de endereços:">
 <!ENTITY skipDirectory.label                   "Não pesquisar no diretório">
 
 <!ENTITY sendOptionsCaption.label              "Formato de envio e HTML">
 <!ENTITY sendOptionsDescription.label          "Configure o comportamento do formato de texto.">
 <!ENTITY sendOptions.label                     "Formato de envio…">
-<!ENTITY sendOptions.accesskey                 "F">
+<!ENTITY sendOptions.accesskey                 "m">

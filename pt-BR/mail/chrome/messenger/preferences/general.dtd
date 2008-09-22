@@ -26,7 +26,7 @@
 <!ENTITY playSound1.accesskey              "c">
 <!ENTITY showAnimatedAlert.label          "Mostrar um alerta">
 <!ENTITY showAnimatedAlert.accesskey      "M">
-<!ENTITY customizeMailAlert.label         "Personalizar...">
+<!ENTITY customizeMailAlert.label         "Personalizar…">
 <!ENTITY customizeMailAlert.accesskey     "z">
 
 <!ENTITY soundNotification1.caption       "Som">
