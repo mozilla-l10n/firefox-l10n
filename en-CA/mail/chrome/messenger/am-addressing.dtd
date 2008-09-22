@@ -11,6 +11,7 @@
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Use a different LDAP server:">
 <!ENTITY directories.accesskey     "d">
+<!ENTITY directoriesNone.label     "None">
 
 <!-- am-addressing.xul -->
 
@@ -19,7 +20,7 @@
 <!ENTITY useHtml.label                        "Compose messages in HTML format">
 <!ENTITY useHtml.accesskey                    "C">
 <!ENTITY autoQuote.label                      "Automatically quote the original message when replying">
-<!ENTITY autoQuote.accesskey                  "q">
+<!ENTITY autoQuote.accesskey                  "m">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "Then,">
 <!ENTITY then.accesskey                       "T">
@@ -27,6 +28,6 @@
 <!ENTITY belowQuote.label                     "start my reply below the quote">
 <!ENTITY selectAndQuote.label                 "select the quote">
 <!ENTITY place.label                          "and place my signature">
-<!ENTITY place.accesskey                      "p">
+<!ENTITY place.accesskey                      "s">
 <!ENTITY belowText.label                      "below the quote (recommended)">
 <!ENTITY aboveText.label                      "below my reply (above the quote)">
