@@ -60,8 +60,8 @@
 <!ENTITY generalEncoding "Ionchódú:">
 <!ENTITY generalMetaName "Ainm">
 <!ENTITY generalMetaContent "Ábhar">
-<!ENTITY generalSecurityMore "Tuilleadh">
-<!ENTITY generalSecurityMore.accesskey "o">
+<!ENTITY generalSecurityDetails "Mionsonraí">
+<!ENTITY generalSecurityDetails.accesskey "D">
 
 <!ENTITY mediaTab "Meáin">
 <!ENTITY mediaTab.accesskey "B">
