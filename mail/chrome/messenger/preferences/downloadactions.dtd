@@ -15,7 +15,7 @@
 
 <!ENTITY  remove.label                        "Excluir ação">
 <!ENTITY  remove.accesskey                    "x">
-<!ENTITY  edit.label                          "Propriedades da ação...">
+<!ENTITY  edit.label                          "Propriedades da ação…">
 <!ENTITY  edit.accesskey                      "P">
 
 <!ENTITY  windowClose.key                     "W">

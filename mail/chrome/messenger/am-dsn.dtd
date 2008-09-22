@@ -1,10 +1,10 @@
-<!ENTITY pane.title                 "Delivery Status Notification">
-<!ENTITY useGlobalPrefs.label       "Use my global Delivery Status Notification preferences for this account">
+<!ENTITY pane.title                 "Notificação de status da entrega">
+<!ENTITY useGlobalPrefs.label       "Usar minhas preferências globais de notificação de status da entrega para esta conta">
 <!ENTITY useGlobalPrefs.accesskey   "U">
-<!ENTITY useCustomPrefs.label       "Customize Delivery Status Notification for this account">
-<!ENTITY useCustomPrefs.accesskey   "C">
-<!ENTITY requestAlways.label        "When sending messages, always request a Delivery Status Notification">
-<!ENTITY requestAlways.accesskey    "W">
+<!ENTITY useCustomPrefs.label       "Personalizar a notificação de status da entrega para esta conta">
+<!ENTITY useCustomPrefs.accesskey   "P">
+<!ENTITY requestAlways.label        "Sempre solicitar uma notificação de status da entrega">
+<!ENTITY requestAlways.accesskey    "S">
 <!ENTITY optionTitle.label          "Ask notification on :">
 <!ENTITY requestOnSucess.label      "Success in delivering">
 <!ENTITY requestOnSucess.accesskey  "S">
@@ -12,5 +12,5 @@
 <!ENTITY requestOnFailure.accesskey "F">
 <!ENTITY requestOnDelay.label       "Delay in delivering">
 <!ENTITY requestOnDelay.accesskey   "D">
-<!ENTITY requestNever.label         "Never receive Delivery Status Notification">
+<!ENTITY requestNever.label         "Nunca receber notificação de status da entrega">
 <!ENTITY requestNever.accesskey     "N">

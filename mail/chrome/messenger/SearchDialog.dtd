@@ -22,7 +22,7 @@
 <!ENTITY closeCmd.key                "w"> 
 <!ENTITY goToFolderButton.label      "Abrir pasta da mensagem">
 <!ENTITY goToFolderButton.accesskey  "b">
-<!ENTITY saveAsVFButton.label        "Salvar como pasta de pesquisa...">
+<!ENTITY saveAsVFButton.label        "Salvar como pasta de pesquisa…">
 <!ENTITY saveAsVFButton.accesskey    "S">
 
 <!-- for ABSearchDialog.xul -->
@@ -41,7 +41,7 @@
 <!ENTITY subjectColumn.label "Assunto">
 <!ENTITY dateColumn.label "Data">
 <!ENTITY priorityColumn.label "Prioridade">
-<!ENTITY tagsColumn.label "Marcadores">
+<!ENTITY tagsColumn.label "Tags">
 <!ENTITY accountColumn.label "Conta">
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Tamanho">
@@ -50,7 +50,7 @@
 <!ENTITY unreadColumn.label "Não lidas">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Lida">
-<!ENTITY receivedColumn.label "Received">
+<!ENTITY receivedColumn.label "Data de recebimento">
 <!ENTITY starredColumn.label "Com estrela">
 <!ENTITY locationColumn.label "Pasta">
 <!ENTITY idColumn.label "Ordem de chegada">
@@ -63,7 +63,7 @@
 <!ENTITY subjectColumn.tooltip "Clique para ordenar pelo assunto">
 <!ENTITY dateColumn.tooltip "Clique para ordenar pela data">
 <!ENTITY priorityColumn.tooltip "Clique para ordenar pela prioridade">
-<!ENTITY tagsColumn.tooltip "Clique para ordenar pelos marcadores">
+<!ENTITY tagsColumn.tooltip "Clique para ordenar pelas tags">
 <!ENTITY accountColumn.tooltip "Clique para ordenar pela conta">
 <!ENTITY statusColumn.tooltip "Clique para ordenar pelo status">
 <!ENTITY sizeColumn.tooltip "Clique para ordenar pelo tamanho">
@@ -71,7 +71,7 @@
 <!ENTITY unreadColumn.tooltip "Número de mensagens não lidas do tópico">
 <!ENTITY totalColumn.tooltip "Número de mensagens do tópico">
 <!ENTITY readColumn.tooltip "Clique para ordenar por mensagem lida">
-<!ENTITY receivedColumn.tooltip "Click to sort by date received">
+<!ENTITY receivedColumn.tooltip "Clique para ordenar pela data de recebimento">
 <!ENTITY starredColumn.tooltip "Clique para ordenar pela estrela">
 <!ENTITY locationColumn.tooltip "Clique para ordenar pela pasta">
 <!ENTITY idColumn.tooltip "Clique para ordenar pela ordem de chegada">

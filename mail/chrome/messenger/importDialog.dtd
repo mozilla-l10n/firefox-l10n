@@ -20,6 +20,7 @@
  the Initial Developer. All Rights Reserved.
 
  Contributor(s):
+     Jeff Beckley <beckley@qualcomm.com>
 
  Alternatively, the contents of this file may be used under the terms of
  either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -44,17 +45,19 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 -->
 
 <!ENTITY importDialog.windowTitle "Assistente de importação">
+<!ENTITY importDialog.allTitle    "Importar tudo">
 <!ENTITY importDialog.mailTitle   "Mensagens">
 <!ENTITY importDialog.addressbookTitle "Catálogos de endereços">
 <!ENTITY importDialog.settingsTitle "Configurações">
+<!ENTITY importDialog.filtersTitle "Filtros">
 
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
 
-<!ENTITY importTitle.label        "Assistente de importação de mensagens do &brandShortName;">
-<!ENTITY importDesc.label         "Importar mail, catálogos de endereços e configurações de outros programas">
+<!ENTITY importTitle.label        "Assistente de importação do &brandShortName;">
+<!ENTITY importShortDesc.label    "Importar mail, catálogos de endereços, configurações e filtros de outros programas">
 
-<!ENTITY importDescription.label  "Este assistente importará para o &brandShortName; mensagens, nomes do catálogo de endereços e/ou opções de outros programas e formatos de catálogo de endereços mais comuns.">
+<!ENTITY importDescription1.label "Este assistente importará para o &brandShortName; mensagens, nomes do catálogo de endereços, filtros e/ou opções de outros programas e formatos mais comuns de catálogo de endereços.">
 <!ENTITY importDescription2.label "Uma vez importados, você poderá acessá-los no &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Por favor, selecione o tipo de arquivo que você deseja importar:">
@@ -64,7 +67,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY finish.label             "Concluir">
 <!ENTITY cancel.label             "Cancelar">
 
-<!ENTITY select.label             "Selecione o que você deseja importar:">
+<!ENTITY select.label             "ou selecione o que deseja importar:">
 
 <!ENTITY title.label              "Título">
 <!ENTITY processing.label         "Importando…">

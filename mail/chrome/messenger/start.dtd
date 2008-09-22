@@ -10,18 +10,18 @@
 <!ENTITY startpage.messageGroups "Agrupamento de mensagens">
 <!ENTITY startpage.privacyProtect "Proteção a privacidade">
 
-<!ENTITY startpage.junkControlURL "http://www.mozilla-world.org/pt-BR/products/thunderbird/junkmail">
-<!ENTITY startpage.rssReaderURL "http://www.mozilla-world.org/pt-BR/products/thunderbird/rss">
-<!ENTITY startpage.globalInboxURL "http://www.mozilla-world.org/pt-BR/products/thunderbird/global-inbox">
-<!ENTITY startpage.searchFoldersURL "http://www.mozilla-world.org/pt-BR/products/thunderbird/search-folders">
-<!ENTITY startpage.messageGroupsURL "http://www.mozilla-world.org/pt-BR/products/thunderbird/message-grouping">
-<!ENTITY startpage.privacyProtectURL "http://www.mozilla-world.org/pt-BR/products/thunderbird/privacy-protection">
+<!ENTITY startpage.junkControlURL "http://br.mozdev.org/thunderbird/spam">
+<!ENTITY startpage.rssReaderURL "http://br.mozdev.org/thunderbird/rss">
+<!ENTITY startpage.globalInboxURL "http://br.mozdev.org/thunderbird/contas">
+<!ENTITY startpage.searchFoldersURL "http://br.mozdev.org/thunderbird/pasta-de-pesquisa">
+<!ENTITY startpage.messageGroupsURL "http://br.mozdev.org/thunderbird/agrupar">
+<!ENTITY startpage.privacyProtectURL "http://br.mozdev.org/thunderbird/privacidade">
 
 <!ENTITY startpage.moreInfo "Ajuda">
 
 <!ENTITY startpage.help "Central Thunderbird">
 <!ENTITY startpage.helpInfo "Para dúvidas e dicas, visite a">
-<!ENTITY startpage.helpURL "http://www.mozilla-world.org/pt-BR/products/thunderbird/support">
+<!ENTITY startpage.helpURL "http://br.mozdev.org/thunderbird/central/">
 
 <!ENTITY startpage.page "página oficial do Thunderbird">
 <!ENTITY startpage.pageInfo "Para outras informações, visite a">

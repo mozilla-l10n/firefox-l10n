@@ -7,7 +7,7 @@
 <!ENTITY junkMail.intro "Defina suas configurações padrão para spam. Opções específicas para cada conta podem ser definidas em Configurar contas.">
 <!ENTITY manualMark.label "Quando eu marcar mensagens como spam:">
 <!ENTITY manualMark.accesskey "Q">
-<!ENTITY manualMarkModeMove.label "Mover para a pasta &quot;Spam&quot; da conta">
+<!ENTITY manualMarkModeMove.label "Mover para a pasta “Spam” da conta">
 <!ENTITY manualMarkModeMove.accesskey "o">
 <!ENTITY manualMarkModeDelete.label "Excluir">
 <!ENTITY manualMarkModeDelete.accesskey "x">
@@ -22,7 +22,7 @@
 
 <!-- Phishing Detector -->
 <!ENTITY phishingDetector1.intro  "O &brandShortName; pode verificar se mensagens são possíveis fraudes (também conhecidas como phishing scam), detectando as técnicas de falsificação mais comuns.">
-<!ENTITY enablePhishingDetector1.label    "Alertar se a mensagem exibida é um possível golpe">
+<!ENTITY enablePhishingDetector1.label    "Alertar se a mensagem exibida for um possível golpe">
 <!ENTITY enablePhishingDetector1.accesskey  "A">
 <!ENTITY useDownloadedList.label "Receber e usar uma lista de possíveis fraudes de email">
 <!ENTITY useDownloadedList.accesskey "U">
@@ -34,7 +34,7 @@
 <!ENTITY  masterPassword.intro        "Ao ser definida, a senha mestra protege todas as suas senhas - mas você deve fornecê-la uma vez por sessão.">
 <!ENTITY  setMasterPassword.label     "Senha mestra">
 <!ENTITY  setMasterPassword.accesskey "S">
-<!ENTITY  removeMasterPassword.label  "Excluir a senha mestra...">
+<!ENTITY  removeMasterPassword.label  "Excluir a senha mestra…">
 <!ENTITY  removeMasterPassword.accesskey "x">
 <!ENTITY  editPasswords.label         "Editar senhas memorizadas">
 <!ENTITY  editPasswords.accesskey     "E">

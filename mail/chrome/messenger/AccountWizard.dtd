@@ -20,7 +20,7 @@
 <!ENTITY identityDesc.label "Cada conta tem sua própria identidade, que é a informação que identifica você aos destinatários das suas mensagens.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY fullnameDesc.label "Forneça o nome que você quer que seja exibido no campo &quot;De&quot; das mensagens que você envia.">
+<!ENTITY fullnameDesc.label "Forneça o nome que você quer que seja exibido no campo “De” das mensagens que você envia.">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
@@ -46,7 +46,7 @@
 <!ENTITY incomingServerLabel.label "Receber mensagens por este servidor:">
 <!ENTITY incomingServerLabel.accesskey "R">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Forneça o nome do servidor de news NNTP (exemplo: &quot;news.meuprovedor.com.br&quot;).">
+<!ENTITY newsServerNameDesc.label "Forneça o nome do servidor de news NNTP (exemplo: “news.meuprovedor.com.br”).">
 <!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
 <!ENTITY smtpServerTitle.label "Servidor de envio (SMTP)">
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
@@ -80,7 +80,7 @@
 <!ENTITY loginTitle.label "Nomes de usuário">
 <!ENTITY usernameDesc.label "Forneça o nome de usuário com o qual você receberá as mensagens">
 <!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(exemplo: &quot;jsmith&quot;).">
+<!ENTITY usernameExample.label "(exemplo: “jsmith”).">
 <!ENTITY usernameLabel.label "Nome de usuário:">
 <!ENTITY usernameLabel.accesskey "u">
 <!ENTITY usernameSmtpDesc.label "Forneça o nome de usuário do servidor SMTP (usado para enviar mensagens) dado a você pelo seu provedor de email. Normalmente é o mesmo nome de usuário usado para receber mensagens.">
@@ -103,7 +103,7 @@
 
 <!ENTITY accnameTitle.label "Nome da conta">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
-<!ENTITY accnameDesc.label "Forneça o nome pelo qual você quer se referir a esta conta (por exemplo: &quot;Conta do trabalho&quot;, &quot;Casa&quot; ou &quot;Conta de News&quot;).">
+<!ENTITY accnameDesc.label "Forneça o nome pelo qual você quer se referir a esta conta (por exemplo: “Conta do trabalho”, “Casa” ou “Conta de News”).">
 <!ENTITY accnameExample.label "Por exemplo: Conta do trabalho, Casa ou Conta de News">
 <!ENTITY accnameLabel.label "Nome da conta:">
 <!ENTITY accnameLabel.accesskey "t">

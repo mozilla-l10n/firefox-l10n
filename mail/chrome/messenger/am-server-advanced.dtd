@@ -4,7 +4,7 @@
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "Servidor de diretórios IMAP:">
 <!ENTITY serverDirectory.accesskey "I">
-<!ENTITY usingSubscription.label "Exibir apenas as pastas inscritas">
+<!ENTITY usingSubscription.label "Exibir somente as pastas inscritas">
 <!ENTITY usingSubscription.accesskey "x">
 <!ENTITY dualUseFolders.label "O servidor suporta pastas que contêm subpastas e mensagens">
 <!ENTITY dualUseFolders.accesskey "s">

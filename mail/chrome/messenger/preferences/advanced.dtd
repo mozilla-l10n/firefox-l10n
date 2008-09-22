@@ -5,28 +5,32 @@
 
 <!-- General Settings -->
 
-<!ENTITY showCondensedAddresses.label  "Exibir apenas o nome para pessoas em meus contatos">
-<!ENTITY showCondensedAddresses.accesskey "x">
+<!ENTITY showCondensedAddresses.label  "Para pessoas em meus contatos, exibir somente o nome">
+<!ENTITY showCondensedAddresses.accesskey "P">
 
-<!-- LOCALIZATION NOTE (markAsRead.label): This will concatenate with
-     "xxx seconds before marking a message as read", using a number and
-     (markAsReadEnd.label). -->
-<!ENTITY markAsRead.label              "Aguardar">
-<!ENTITY markAsRead.accesskey          "a">
-<!ENTITY markAsReadEnd.label           "segundos antes de marcar mensagens como lidas">
+<!ENTITY autoMarkAsRead.label          "Marcar automaticamente mensagens como lidas">
+<!ENTITY autoMarkAsRead.accesskey      "M">
+<!ENTITY markAsReadNoDelay.label       "Ao exibir">
+<!ENTITY markAsReadNoDelay.accesskey   "A">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "Ao exibir por">
+<!ENTITY markAsReadDelay.accesskey     "o">
+<!ENTITY secondsLabel.label            "segundos">
 <!ENTITY showFolderColumns.label       "Exibir o seletor de colunas no painel de pastas">
-<!ENTITY showFolderColumns.accesskey   "b">
+<!ENTITY showFolderColumns.accesskey   "x">
 <!ENTITY rememberLastMsg.label         "Lembrar da última mensagem selecionada">
 <!ENTITY rememberLastMsg.accesskey     "L">
-<!ENTITY openMsgIn.label               "Open messages in:">
+<!ENTITY openMsgIn.label               "Abrir mensagens em:">
 <!ENTITY reuseExpRadio0.label          "Nova janela">
-<!ENTITY reuseExpRadio0.accesskey      "v">
+<!ENTITY reuseExpRadio0.accesskey      "N">
 <!ENTITY reuseExpRadio1.label          "Janela existente">
 <!ENTITY reuseExpRadio1.accesskey      "J">
 <!ENTITY reuseExpRadio2.label          "Nova aba">
 <!ENTITY reuseExpRadio2.accesskey      "N">
-<!ENTITY connectionTimeout.label       "Tempo limite da conexão:">
-<!ENTITY connectionTimeout.accesskey   "x">
+<!ENTITY connectionTimeout.label       "Tempo limite de conexão:">
+<!ENTITY connectionTimeout.accesskey   "T">
 <!ENTITY connectionSeconds.label       "segundos">
 <!ENTITY configEditDesc.label          "Configuração avançada:">
 <!ENTITY configEdit.label              "Editor de config…">
@@ -38,7 +42,7 @@
 <!-- Update -->
 <!ENTITY autoCheck.label                "Verificar automaticamente se há atualizações para:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "h">
+<!ENTITY enableAppUpdate.accesskey      "T">
 <!ENTITY enableAddonsUpdate.label       "Complementos instalados">
 <!ENTITY enableAddonsUpdate.accesskey   "C">
 <!ENTITY checkNow.label                 "Verificar agora…">
@@ -53,27 +57,27 @@
 <!ENTITY showUpdates.accesskey          "H">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showConnections.label         "Conexão…">
+<!ENTITY showConnections.label         "Configurar conexão…">
 <!ENTITY showConnections.accesskey     "C">
 <!ENTITY proxiesInfo.label             "Determine como o &brandShortName; conecta-se à internet.">
 <!ENTITY connectionsInfo.caption       "Conexão">
 <!ENTITY offlineInfo.caption           "Offline">
 <!ENTITY offlineInfo.label             "Configure o modo offline.">
-<!ENTITY showOffline.label             "Offline...">
-<!ENTITY showOffline.accesskey         "O">
+<!ENTITY showOffline.label             "Configurar modo offline…">
+<!ENTITY showOffline.accesskey         "o">
 
 <!ENTITY Diskspace "Espaço em disco">
 <!ENTITY offlineCompact.label "Condensar pastas se puder liberar pelo menos">
-<!ENTITY offlineCompact.accesskey "C">
+<!ENTITY offlineCompact.accesskey "n">
 <!ENTITY kb.label "KB">
 
 <!-- Certificates -->
-<!ENTITY certificatesInfo.label         "Gerenciar certificados, listas de revogação, comprovação de certificados e dispositivos de segurança.">
+<!ENTITY certificatesInfo2.label        "Gerencie certificados, listas de revogação, validação de certificados e dispositivos de segurança.">
 <!ENTITY viewCertificates.label         "Certificados">
 <!ENTITY viewCertificates.accesskey     "C">
 <!ENTITY viewCRLs.label                 "Revogações">
 <!ENTITY viewCRLs.accesskey             "R">
-<!ENTITY viewOCSP.label                 "Homologação">
-<!ENTITY viewOCSP.accesskey             "H">
+<!ENTITY validation.label               "Validação">
+<!ENTITY validation.accesskey           "V">
 <!ENTITY viewSecurityDevices.label      "Disp. de segurança">
 <!ENTITY viewSecurityDevices.accesskey  "D">

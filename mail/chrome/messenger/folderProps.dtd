@@ -45,7 +45,7 @@
 <!ENTITY folderCharsetTab.label                  "Codificação padrão:">
 <!ENTITY folderCharsetTab.accesskey              "C">
 <!ENTITY folderCharsetOverride.label             "Usar em todas as mensagens da pasta (ignorar codificação de cada mensagem e seleção automática)">
-<!ENTITY folderCharsetOverride.accesskey         "a">
+<!ENTITY folderCharsetOverride.accesskey         "U">
 <!ENTITY folderRebuildSummaryFile.label          "Recriar índice">
 <!ENTITY folderRebuildSummaryFile.accesskey      "R">
 <!ENTITY folderRebuildSummaryFileTip.label       "Recriar arquivo de índice"> 
@@ -57,8 +57,8 @@
 <!ENTITY daysOld.label "dias">
 <!ENTITY message.label "mensagens">
 <!ENTITY retentionCleanup.label "Para recuperar espaço em disco, mensagens antigas podem ser permanentemente excluídas.">
-<!ENTITY retentionKeepMsg.label "Excluir mensagens com mais de">
-<!ENTITY retentionKeepMsg.accesskey "x">
+<!ENTITY retentionDeleteMsg.label "Excluir mensagens com mais de">
+<!ENTITY retentionDeleteMsg.accesskey "x">
 <!ENTITY retentionKeepAll.label "Não excluir nenhuma mensagem">
 <!ENTITY retentionKeepAll.accesskey "N">
 <!ENTITY retentionKeepNew.label "Excluir todas menos as últimas">
@@ -83,7 +83,7 @@
 
 <!ENTITY folderProps.information.label           "Informação:">
 <!ENTITY folderProps.name.label                  "Nome:">
-<!ENTITY folderProps.name.accesskey              "o">
+<!ENTITY folderProps.name.accesskey              "N">
 <!ENTITY folderProps.location.label              "Endereço:">
 <!ENTITY folderProps.location.accesskey          "E">
 

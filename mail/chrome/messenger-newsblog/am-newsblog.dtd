@@ -17,4 +17,5 @@
 <!ENTITY rss.accountName            "Novidades RSS">
 <!ENTITY rss.wizardShortName        "RSS">  
 <!ENTITY rss.wizardLongName         "Conta de RSS">
+<!ENTITY rss.wizardLongName.accesskey "R">
 <!ENTITY rss.hostName               "Novidades RSS">

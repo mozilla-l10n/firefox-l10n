@@ -107,7 +107,7 @@
 <!ENTITY HomeState.label                "Estado:">
 <!ENTITY HomeState.accesskey            "E">
 <!ENTITY HomeZipCode.label              "CEP:">
-<!ENTITY HomeZipCode.accesskey          "C">
+<!ENTITY HomeZipCode.accesskey          "P">
 <!ENTITY HomeCountry.label              "País:">
 <!ENTITY HomeCountry.accesskey          "P">
 <!ENTITY HomeWebPage.label              "Endereço na web:">
@@ -128,7 +128,7 @@
 <!ENTITY WorkState.label                "Estado:">
 <!ENTITY WorkState.accesskey            "E">
 <!ENTITY WorkZipCode.label              "CEP:">
-<!ENTITY WorkZipCode.accesskey          "C">
+<!ENTITY WorkZipCode.accesskey          "P">
 <!ENTITY WorkCountry.label              "País:">
 <!ENTITY WorkCountry.accesskey          "P">
 <!ENTITY WorkWebPage.label              "Endereço na web:">
@@ -136,6 +136,11 @@
 
 <!ENTITY Other.tab                      "Outros">
 <!ENTITY Other.accesskey                "O">
+<!ENTITY Birthday.label                 "Aniversário:">
+<!ENTITY Birthday.accesskey             "A">
+<!ENTITY Year.emptytext                 "Ano">
+<!ENTITY Or.value                       "ou">
+<!ENTITY Age.emptytext                  "Idade">
 <!ENTITY Custom1.label                  "Personalizado 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Personalizado 2:">

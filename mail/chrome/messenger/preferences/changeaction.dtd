@@ -15,7 +15,7 @@
 <!ENTITY  saveToDefaultFolder.accesskey       "d">
 <!ENTITY  saveToThisFolder.label              "in this folder:">
 <!ENTITY  saveToThisFolder.accesskey          "h">
-<!ENTITY  chooseFolder.label                  "Procurar...">
+<!ENTITY  chooseFolder.label                  "Procurar…">
 <!ENTITY  chooseFolder.accesskey              "P">
 <!ENTITY  saveToAskMe.label                   "perguntar onde salvar o arquivo">
 <!ENTITY  saveToAskMe.accesskey               "e">

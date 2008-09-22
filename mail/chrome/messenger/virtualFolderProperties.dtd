@@ -7,7 +7,7 @@
 <!ENTITY searchTermCaption.label "Usar estes critérios de pesquisa:">
 
 <!ENTITY folderSelectionCaption.label "Pesquisar em:">
-<!ENTITY chooseFoldersButton.label "Selecionar...">
+<!ENTITY chooseFoldersButton.label "Selecionar…">
 <!ENTITY chooseFoldersButton.accesskey "S">
 
 <!ENTITY searchOnline.label "Pesquisa online (resultados atualizados em pastas IMAP e news - demora mais para abrir a pasta)">

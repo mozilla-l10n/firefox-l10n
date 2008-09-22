@@ -16,7 +16,7 @@
 <!ENTITY attachMenu.accesskey "x">
 <!ENTITY attachFileCmd.label "Arquivos…">
 <!ENTITY attachFileCmd.accesskey "A">
-<!ENTITY attachPageCmd.label "Página da web...">
+<!ENTITY attachPageCmd.label "Página da web…">
 <!ENTITY attachPageCmd.accesskey "w">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "vCard">
@@ -96,13 +96,13 @@
 <!ENTITY viewMenu.accesskey "x">
 <!ENTITY viewToolbarsMenuNew.label "Barras de ferramentas"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "B"> 
-<!ENTITY showComposeToolbarCmd.label "Padrão">
-<!ENTITY showComposeToolbarCmd.accesskey "a">
-<!ENTITY showFormatToolbarCmd.label "Formatação">
-<!ENTITY showFormatToolbarCmd.accesskey "f">
+<!ENTITY showCompositionToolbarCmd.label "Padrão">
+<!ENTITY showCompositionToolbarCmd.accesskey "a">
+<!ENTITY showFormattingBarCmd.label "Barra de formatação">
+<!ENTITY showFormattingBarCmd.accesskey "f">
 <!ENTITY showTaskbarCmd.label "Barra de status">
 <!ENTITY showTaskbarCmd.accesskey "s">
-<!ENTITY customizeToolbar.label "Personalizar...">
+<!ENTITY customizeToolbar.label "Personalizar…">
 <!ENTITY customizeToolbar.accesskey "P">
 
 <!ENTITY addressSidebar.label "Painel de contatos"> 
@@ -130,7 +130,7 @@
 
 <!ENTITY returnReceiptMenu.label "Confirmação de leitura">
 <!ENTITY returnReceiptMenu.accesskey "o">
-<!ENTITY dsnMenu.label "Delivery Status Notification">
+<!ENTITY dsnMenu.label "Notificação de status da entrega">
 <!ENTITY dsnMenu.accesskey "N">
 <!ENTITY outputFormatMenu.label "Formatação">
 <!ENTITY outputFormatMenu.accesskey "F">
@@ -171,7 +171,7 @@
 <!ENTITY accountManagerCmd.label "Configurar contas…">
 <!ENTITY accountManagerCmd.accesskey "n">
 <!ENTITY accountManagerCmdUnix.accesskey "n">
-<!ENTITY preferencesCmd.label "Opções...">
+<!ENTITY preferencesCmd.label "Opções…">
 <!ENTITY preferencesCmd.key "o">
 <!ENTITY preferencesCmd.accesskey "o">
 <!ENTITY preferencesCmdUnix.label       "Preferências">
@@ -180,20 +180,9 @@
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "M">
 <!ENTITY minimizeWindow.label "Minimizar">
-<!ENTITY bringAllToFront.label "Trazer todos para frente">
-<!ENTITY zoomWindow.label "Zoom"> 
-<!ENTITY windowMenu.label "Janela"> 
-
-<!-- Help Menu -->
-<!ENTITY helpMenu.label "Ajuda">
-<!ENTITY helpMenu.accesskey "u"> 
-<!ENTITY releaseCmd.label "Notas da versão">
-<!ENTITY releaseCmd.accesskey "N"> 
-<!ENTITY hintsAndTips.label "Ajuda do &brandShortName;">
-<!ENTITY hintsAndTips.accesskey "u"> 
-<!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY aboutCmd.label "Sobre o &brandShortName;">
-<!ENTITY aboutCmd.accesskey "S">
+<!ENTITY bringAllToFront.label "Trazer Todas para Frente">
+<!ENTITY zoomWindow.label "Ampliar/Reduzir"> 
+<!ENTITY windowMenu.label "Janela">
 
 <!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Enviar agora">
@@ -273,6 +262,8 @@
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY delete.label "Excluir">
 <!ENTITY delete.accesskey "x">
+<!ENTITY renameAttachment.label "Renomear…">
+<!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "Selecionar tudo">
 <!ENTITY selectAll.accesskey "S">
 <!ENTITY attachFile.label "Anexar arquivos…">

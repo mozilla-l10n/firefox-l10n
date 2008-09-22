@@ -20,6 +20,6 @@
 <!ENTITY alwaysSTARTTLS.label "STARTTLS">
 <!ENTITY alwaysSTARTTLS.accesskey "T">
 <!ENTITY alwaysSMTPOverSSL.label "SMTP-over-SSL">
-<!ENTITY alwaysSMTPOverSSL.accesskey "L">
+<!ENTITY alwaysSMTPOverSSL.accesskey "M">
 <!ENTITY smtpEditTitle.label "Servidor de envio (SMTP)">
 <!ENTITY serverPortDefault.label "Padrão:">
