@@ -60,8 +60,8 @@
 <!ENTITY  generalEncoding       "Kódolás:">
 <!ENTITY  generalMetaName       "Név">
 <!ENTITY  generalMetaContent    "Tartalom">
-<!ENTITY  generalSecurityMore   "Több">
-<!ENTITY generalSecurityMore.accesskey "T">
+<!ENTITY  generalSecurityDetails   "Részletek">
+<!ENTITY generalSecurityDetails.accesskey "R">
 
 <!ENTITY  mediaTab              "Média">
 <!ENTITY mediaTab.accesskey    "M">
