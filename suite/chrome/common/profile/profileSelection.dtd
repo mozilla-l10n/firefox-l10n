@@ -50,6 +50,6 @@
 
 <!ENTITY availableProfiles.label     "Esami profiliai">
 
-<!ENTITY introStart.label            "Jei norite pradėti seansą su asmeninio profilio duomenimis (Jūsų elektroniniais laiškais, nuostatomis ir kita individualia informacija), prašom pasirinkti iš sąrašo Jūsų profilio pavadinimą ir spragtelėti „&start.label;“.">
-<!ENTITY introSwitch.label           "Jei norite pradėti dirbti su kitu profiliu (jame yra elektroniniai laiškai, nuostatos ir kita individuali informacija), prašom pasirinkti iš sąrašo profilio pavadinimą ir spragtelėti „&select.label;“.">
+<!ENTITY introStart.label            "Jei norite pradėti seansą su asmeninio profilio duomenimis (Jūsų elektroniniais laiškais, nuostatomis ir kita individualia informacija), prašom pasirinkti iš sąrašo Jūsų profilio pavadinimą ir spustelėti „&start.label;“.">
+<!ENTITY introSwitch.label           "Jei norite pradėti dirbti su kitu profiliu (jame yra elektroniniai laiškai, nuostatos ir kita individuali informacija), prašom pasirinkti iš sąrašo profilio pavadinimą ir spustelėti „&select.label;“.">
 <!ENTITY profileManagerText.label    "„&brandShortName;“ nuostatos, tinklaviečių adresynas, laiškai ir kt. informacija laikoma naudotojo profilyje.">

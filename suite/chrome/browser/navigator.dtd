@@ -212,9 +212,9 @@
 <!ENTITY stopButton.label             "Stabdyti">
 <!ENTITY stopButton.tooltip           "Stabdyti šio tinklalapio atsiuntimą">
 <!ENTITY searchButton.label           "Ieškoti">
-<!ENTITY searchButton.tooltip         "Surinkite žodį ar frazę adresų juostoje (laukelyje kairėje) ir spragtelėkite „Ieškoti“">
+<!ENTITY searchButton.tooltip         "Surinkite žodį ar frazę adresų juostoje (laukelyje kairėje) ir spustelėkite „Ieškoti“">
 <!ENTITY goButton.label               "Eiti">
-<!ENTITY goButton.tooltip             "Adresų juostoje surinkite adresą ir spragtelėkite „Eiti“">
+<!ENTITY goButton.tooltip             "Adresų juostoje surinkite adresą ir spustelėkite „Eiti“">
 <!ENTITY printButton.label            "Spausdinti">
 <!ENTITY printButton.tooltip          "Spausdinti šį tinklalapį">
 

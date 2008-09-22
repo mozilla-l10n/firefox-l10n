@@ -60,23 +60,23 @@
 <!ENTITY idColumn.label "Atsiuntimo eilė">
 
 <!--Tooltips-->
-<!ENTITY columnChooser.tooltip "Spragtelėkite ir pasirinkite, kuriuos stulpelius rodyti">
-<!ENTITY threadColumn.tooltip "Spragtelėjus čia, bus rodomos laiškų gijos"> 
-<!ENTITY fromColumn.tooltip "Spragtelėkite, jei reikia surikiuoti pagal autorių">
-<!ENTITY recipientColumn.tooltip "Spragtelėkite, jei reikia surikiuoti pagal gavėją">
+<!ENTITY columnChooser.tooltip "Spustelėkite ir pasirinkite, kuriuos stulpelius rodyti">
+<!ENTITY threadColumn.tooltip "Spustelėjus čia, bus rodomos laiškų gijos"> 
+<!ENTITY fromColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal autorių">
+<!ENTITY recipientColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal gavėją">
 <!ENTITY attachmentColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal priedus">
-<!ENTITY subjectColumn.tooltip "Spragtelėkite, jei reikia surikiuoti pagal laiško temą">
-<!ENTITY dateColumn.tooltip "Spragtelėkite, jei reikia surikiuoti pagal laiško datą">
-<!ENTITY priorityColumn.tooltip "Spragtelėkite, jei reikia surikiuoti pagal laiško prioritetą">
+<!ENTITY subjectColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal laiško temą">
+<!ENTITY dateColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal laiško datą">
+<!ENTITY priorityColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal laiško prioritetą">
 <!ENTITY tagsColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal gaires">
 <!ENTITY accountColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal paskyrą">
-<!ENTITY statusColumn.tooltip "Spragtelėkite, jei reikia surikiuoti pagal būseną">
-<!ENTITY sizeColumn.tooltip "Spragtelėkite, jei reikia surikiuoti pagal dydį">
-<!ENTITY junkStatusColumn.tooltip "Spragtelėkite, jei reikia surikiuoti pagal šlamšto statusą">
+<!ENTITY statusColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal būseną">
+<!ENTITY sizeColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal dydį">
+<!ENTITY junkStatusColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal šlamšto statusą">
 <!ENTITY unreadColumn.tooltip "Neskaitytų laiškų skaičius gijoje">
 <!ENTITY totalColumn.tooltip "Laiškų skaičius gijoje">
-<!ENTITY readColumn.tooltip "Spragtelėkite, jei reikia surikiuoti pagal skaitytus laiškus">
-<!ENTITY receivedColumn.tooltip "Spragtelėkite, jei reikia surikiuoti pagal gavimo datą">
-<!ENTITY flagColumn.tooltip "Spragtelėkite, jei reikia surikiuoti pagal gairelę">
-<!ENTITY locationColumn.tooltip "Spragtelėkite, jei reikia surikiuoti pagal vietą">
-<!ENTITY idColumn.tooltip "Spragtelėkite, jei reikia surikiuoti pagal gavimo eilę">
+<!ENTITY readColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal skaitytus laiškus">
+<!ENTITY receivedColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal gavimo datą">
+<!ENTITY flagColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal gairelę">
+<!ENTITY locationColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal vietą">
+<!ENTITY idColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal gavimo eilę">
