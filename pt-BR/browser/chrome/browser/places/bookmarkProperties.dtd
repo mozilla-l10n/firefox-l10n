@@ -12,7 +12,7 @@
 <!ENTITY bookmarks.feed_location.label        "End. do RSS:">
 <!ENTITY bookmarks.feed_location.accesskey    "E">
 <!ENTITY bookmarks.site_location.label        "End. do site:">
-<!ENTITY bookmarks.site_location.accesskey    "d">
+<!ENTITY bookmarks.site_location.accesskey    "s">
 <!ENTITY bookmarks.loadInSidebar.label        "Carregar no painel">
 <!ENTITY bookmarks.loadInSidebar.accesskey    "C">
 <!ENTITY bookmarks.expanderDown.tooltip       "Exibir todas as pastas dos favoritos">

@@ -7,8 +7,4 @@
 <!ENTITY  focusSearch1.key        "f">
 <!ENTITY  focusSearch2.key        "k">
 
-<!ENTITY  filter.label            "Localizar:">
-<!ENTITY  filter.accesskey        "z">
-
-<!ENTITY  clear.label             "Limpar">
-<!ENTITY  clear.accesskey         "l">
+<!ENTITY  filter.emptytext        "Localizar">

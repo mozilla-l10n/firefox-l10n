@@ -120,7 +120,7 @@
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
 
 <!ENTITY col.name.label          "Nome">
-<!ENTITY col.tags.label          "Marcadores">
+<!ENTITY col.tags.label          "Tags">
 <!ENTITY col.url.label           "Endereço">
 <!ENTITY col.lastvisit.label     "Data da visita">
 <!ENTITY col.visitcount.label    "Número de visitas">
@@ -208,8 +208,8 @@
 <!ENTITY forwardButton.tooltip  "Avançar">
 
 <!ENTITY detailsPane.more.label "Mais">
-<!ENTITY detailsPane.more.accesskey "s">
+<!ENTITY detailsPane.more.accesskey "M">
 <!ENTITY detailsPane.less.label "Menos">
-<!ENTITY detailsPane.less.accesskey "s">
+<!ENTITY detailsPane.less.accesskey "M">
 <!ENTITY detailsPane.noPreviewAvailable.label "Visualizar">
 <!ENTITY detailsPane.selectAnItemText.description "Selecione um item para exibí-lo e editar suas propriedades.">
