@@ -1,0 +1,6 @@
+<!ENTITY searchIntegration.engineName "Cuardach Windows">
+<!ENTITY searchIntegration.title "Comhtháthú &searchIntegration.engineName;">
+<!ENTITY searchIntegration.description "Would you like to enable &searchIntegration.engineName; to index and search through &brandShortName; mail and news messages?">
+
+<!ENTITY searchIntegration.accept "Cumasaigh &searchIntegration.engineName;">
+<!ENTITY searchIntegration.cancel "Ná Cumasaigh &searchIntegration.engineName;">

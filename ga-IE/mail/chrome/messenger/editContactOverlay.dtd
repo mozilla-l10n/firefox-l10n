@@ -1,0 +1,11 @@
+<!ENTITY editContactName.label "Ainm:">
+<!ENTITY editContactName.accesskey "N">
+
+<!ENTITY editContactEmail.label "Ríomhphost:">
+<!ENTITY editContactEmail.accesskey "R">
+
+<!ENTITY editContactPanelCancel.label "Cealaigh">
+<!ENTITY editContactPanelCancel.accesskey "C">
+
+<!ENTITY editContactPanelDone.label "Críochnaithe">
+<!ENTITY editContactPanelDone.accesskey "C">
