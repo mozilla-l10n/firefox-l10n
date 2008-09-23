@@ -38,6 +38,8 @@
 <!ENTITY sendUnsentCmd.accesskey "z">
 <!ENTITY subscribeCmd.label "Abonneren…">
 <!ENTITY subscribeCmd.accesskey "e">
+<!ENTITY deleteFolder.label "Map verwijderen">
+<!ENTITY deleteFolder.accesskey "a">
 <!ENTITY renameFolder.label "Mapnaam wijzigen…">
 <!ENTITY renameFolder.accesskey "M">
 <!ENTITY renameFolder.key "VK_F2">
@@ -422,6 +424,10 @@
 <!ENTITY filtersCmd.accesskey "B">
 <!ENTITY filtersApply.label "Filters toepassen op map">
 <!ENTITY filtersApply.accesskey "t">
+<!ENTITY filtersApplyToSelection.label "Fiters toepassen op geselecteerde berichten">
+<!ENTITY filtersApplyToSelection.accesskey "s">
+<!ENTITY filtersApplyToMessage.label "Filters toepassen op bericht">
+<!ENTITY filtersApplyToMessage.accesskey "s">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "E-mail ophalen">
@@ -435,6 +441,7 @@
 <!ENTITY backButton1.label "Terug">
 <!ENTITY goForwardButton1.label "Vooruit">
 <!ENTITY deleteButton.label "Verwijderen">
+<!ENTITY undeleteButton.label "Verwijderen ongedaan maken">
 <!ENTITY markButton.label "Markeren">
 <!ENTITY printButton.label "Afdrukken">
 <!ENTITY stopButton.label "Stoppen">
@@ -466,6 +473,7 @@
 <!ENTITY goForwardButton.tooltip "Een bericht vooruit gaan">
 <!ENTITY goBackButton.tooltip "Een bericht terug gaan">
 <!ENTITY deleteButton.tooltip "Geselecteerde bericht of map verwijderen">
+<!ENTITY undeleteButton.tooltip "Geselecteerde bericht terugplaatsen">
 <!ENTITY markButton.tooltip "Berichten markeren">
 <!ENTITY printButton.tooltip "Dit bericht afdrukken">
 <!ENTITY stopButton.tooltip "Huidige verbinding verbreken">
@@ -518,6 +526,8 @@
 <!ENTITY folderContextProperties.accesskey "E">
 <!ENTITY folderContextFavoriteFolder.label "Favoriete map">
 <!ENTITY folderContextFavoriteFolder.accesskey "F">
+<!ENTITY folderContextSettings.label "Instellingen…">
+<!ENTITY folderContextSettings.accesskey "i">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Naam of e-mail bevat:">
@@ -528,8 +538,9 @@
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Onderwerp">
 <!ENTITY searchFromMenu.label "Van">
-<!ENTITY searchSubjectOrFromMenu.label "Onderwerp of van">
+<!ENTITY searchSubjectOrFromMenu.label "Onderwerp of Van">
 <!ENTITY searchRecipient.label "Aan of Cc">
+<!ENTITY searchSubjectOrRecipientMenu.label "Onderwerp, Aan of Cc">
 <!ENTITY searchMessageBody.label "Hele bericht">
 <!ENTITY saveAsVirtualFolderMenu.label "Zoekopdracht als een map bewaren…">
 
@@ -616,12 +627,12 @@
 
 <!-- Remote Content Bar -->
 <!ENTITY remoteContentMessage1.label "Om uw privacy te beschermen zijn afbeeldingen op afstand geblokkeerd.">
-<!ENTITY loadRemoteContentButton1.label "Afbeeldingen laden">
+<!ENTITY loadRemoteContentButton2.label "Afbeeldingen tonen">
 
 <!-- Phishing Bar -->
-<!ENTITY phishingBarMessage1.label "Verdachte e-mailscam">
+<!ENTITY phishingBarMessage1.label "Dit bericht kan e-mailscam zijn">
 <!ENTITY removePhishingBarButton1.label "Waarschuwing negeren">
-<!ENTITY reportPhishingError.label "Dit is geen e-mailscam">
+<!ENTITY reportPhishingError1.label "Dit bericht lijkt geen e-mailscam.">
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
@@ -629,6 +640,12 @@
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Toevoegen aan adresboek…">
 <!ENTITY AddToAddressBook.accesskey "v">
+<!ENTITY AddDirectlyToAddressBook.label "Toevoegen aan adresboek">
+<!ENTITY AddDirectlyToAddressBook.accesskey "v">
+<!ENTITY EditContact.label "Contact bewerken…">
+<!ENTITY EditContact.accesskey "b">
+<!ENTITY ViewContact.label "Contact bekijken">
+<!ENTITY ViewContact.accesskey "C">
 <!ENTITY SendMailTo.label "Bericht opstellen aan">
 <!ENTITY SendMailTo.accesskey "B">
 <!ENTITY CopyEmailAddress.label "E-mailadres kopiëren">
@@ -641,10 +658,10 @@
 <!ENTITY reportPhishingURL.accesskey "o">
 
 <!-- Content Pane Context Menu -->
-<!ENTITY saveLinkCmd.label "Koppelingsdoel opslaan">
-<!ENTITY saveLinkCmd.accesskey "d">
-<!ENTITY saveImageCmd.label "Afbeelding opslaan">
-<!ENTITY saveImageCmd.accesskey "p">
+<!ENTITY saveLinkAsCmd.label "Koppelingsdoel opslaan als…">
+<!ENTITY saveLinkAsCmd.accesskey "d">
+<!ENTITY saveImageAsCmd.label "Afbeelding opslaan als…">
+<!ENTITY saveImageAsCmd.accesskey "p">
 <!ENTITY copyCmd.label "Kopiëren">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY selectAllCmd.label "Alles selecteren">

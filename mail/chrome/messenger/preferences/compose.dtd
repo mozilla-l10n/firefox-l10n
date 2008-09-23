@@ -34,8 +34,6 @@
 <!ENTITY languagePopup.accessKey              "T">
 <!ENTITY downloadDictionaries.label           "Meer woordenboeken downloaden">
 
-<!ENTITY useMIME.label                        "‘Quoted printable’ MIME-codering gebruiken voor berichten die 8-bits tekens bevatten">
-<!ENTITY useMIME.accesskey                    "o">
 <!ENTITY warnOnSendAccelKey.label             "Bevestiging vragen bij gebruik van sneltoets om berichten te verzenden">
 <!ENTITY warnOnSendAccelKey.accesskey         "B">
 <!ENTITY autoSave.label                       "Elke">
@@ -54,6 +52,7 @@
 <!ENTITY addressingEnable.accesskey            "r">
 <!ENTITY directories.label                     "Directoryserver:">
 <!ENTITY directories.accesskey                 "y">
+<!ENTITY directoriesNone.label                 "Geen">
 <!ENTITY editDirectories.label                 "Directory’s bewerken…">
 <!ENTITY editDirectories.accesskey             "w">
 <!ENTITY matchText.label                       "Als er een overeenkomst is in uw lokale adresboeken:">
