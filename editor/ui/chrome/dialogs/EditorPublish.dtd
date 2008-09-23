@@ -67,11 +67,11 @@
 <!ENTITY pageTitle.label              "Paginatitel:">
 <!ENTITY pageTitle.accesskey          "t">
 <!ENTITY pageTitle.tooltip            "Voer een titel in om de pagina te identificeren in het venster en in bladwijzers">
-<!ENTITY pageTitleExample.label       "bv. &quot;Mijn webpagina&quot;">
+<!ENTITY pageTitleExample.label       "bv. “Mijn webpagina”">
 <!ENTITY filename.label               "Bestandsnaam:">
 <!ENTITY filename.accesskey           "B">
 <!ENTITY filename.tooltip             "Voer een naam in voor dit bestand, eindigend op ‘html’ voor een webpagina">
-<!ENTITY filenameExample.label        "bv. &quot;mypage.html&quot;">
+<!ENTITY filenameExample.label        "bv. “mypage.html”">
 <!ENTITY relatedDocs.label            "Andere bestanden om te publiceren">
 <!ENTITY setDefaultButton.label       "Als standaard instellen">
 <!ENTITY setDefaultButton.accesskey   "d">
