@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label             "Las páginas nuevas se deberán abrir en:">
-<!ENTITY inNewWindow.label            "una nueva ventana">
-<!ENTITY inNewWindow.accesskey        "v">
-<!ENTITY inNewTab.label               "una nueva pestaña">
-<!ENTITY inNewTab.accesskey           "t">
+<!ENTITY newWindowsAsTabs.label       "Abrir páginas nuevas en nuevas pestañas">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
 
 <!ENTITY warnCloseMultipleTabs.label  "Avisarme cuando cierre múltiples pestañas">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
