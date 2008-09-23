@@ -52,4 +52,4 @@ pref("calendar.week.d6saturdaysoff", true);
 pref("general.useragent.locale", "@AB_CD@");
 
 # categories
-pref("calendar.categories.names", "Anniversaire de mariage,Anniversaire,Affaire,Appels,Clients,Compétitions,Consommation,Préférés,Suivis,Cadeaux,Congés,Idées,Problèmes,Divers,Personnel,Projets,Jour férié,Statut,Fournisseurs,Voyages,Vacances");
+pref("calendar.categories.names", "Anniversaire,Affaire,Appels,Cadeaux,Clients,Compétitions,Congés,Congrès,Consommation,Divers,Fournisseurs,Idées,Jour férié,Personnel,Préférés,Problèmes,Professionnel,Projets,Réunion,Suivis,Voyages");
