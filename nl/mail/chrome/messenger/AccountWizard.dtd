@@ -20,12 +20,12 @@
 <!ENTITY identityDesc.label "Elke account heeft een identiteit. Dit is de informatie die u identificeert bij anderen als ze berichten van u ontvangen.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY fullnameDesc.label "Voer de naam in die u wilt gebruiken in het &quot;Van&quot;-veld van uw uitgaande berichten">
+<!ENTITY fullnameDesc.label "Voer de naam in die u wilt gebruiken in het “Van”-veld van uw uitgaande berichten">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
 	1, do not translate two of "&quot;"
 	2, Use localized full name instead of "John Smith"
 -->
-<!ENTITY fullnameExample.label "(bijvoorbeeld &quot;Jan Smit&quot;).">
+<!ENTITY fullnameExample.label "(bijvoorbeeld “Jan Smit”).">
 <!ENTITY fullnameLabel.label "Uw naam:">
 <!ENTITY fullnameLabel.accesskey "U">
 
@@ -42,15 +42,15 @@
 <!ENTITY incomingServerTypeDesc.label "Selecteer het type van uw inkomende e-mailserver.">
 <!ENTITY incomingServerTypeLabel.label "Servertype:">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Voer de naam in van uw inkomende server (bijvoorbeeld &quot;pop.example.net&quot;).">
+<!ENTITY incomingServerNameDesc.label "Voer de naam in van uw inkomende server (bijvoorbeeld “pop.example.net”).">
 <!ENTITY incomingServerLabel.label "Inkomende server:">
 <!ENTITY incomingServerLabel.accesskey "o">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Voer de naam in van uw nieuwsserver (NNTP) (bijvoorbeeld &quot;news.example.net&quot;).">
+<!ENTITY newsServerNameDesc.label "Voer de naam in van uw nieuwsserver (NNTP) (bijvoorbeeld “news.example.net”).">
 <!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
 <!ENTITY smtpServerTitle.label "Uitgaande server (SMTP)">
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "Voer de naam in van uw uitgaande server (SMTP) (bijvoorbeeld &quot;smtp.example.net&quot;).">
+<!ENTITY smtpServerDesc.label "Voer de naam in van uw uitgaande server (SMTP) (bijvoorbeeld “smtp.example.net”).">
 <!ENTITY smtpServerLabel.label "Uitgaande server:">
 <!ENTITY smtpServerLabel.accesskey "d">
 <!ENTITY newsServerLabel.label "Nieuwsgroepserver:">
@@ -72,15 +72,15 @@
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
 -->
-<!ENTITY haveSmtp1.prefix "Uw bestaande uitgaande (SMTP-)server, &quot;">
-<!ENTITY haveSmtp1.suffix "&quot;, zal worden gebruikt. U kunt de instellingen van de uitgaande e-mailserver aanpassen door te kiezen voor Accountinstellingen in het menu Extra.">
+<!ENTITY haveSmtp1.prefix "Uw bestaande uitgaande (SMTP-)server, “">
+<!ENTITY haveSmtp1.suffix "”, zal worden gebruikt. U kunt de instellingen van de uitgaande e-mailserver aanpassen door te kiezen voor Accountinstellingen in het menu Extra.">
 
 <!-- Entities for Login page -->
 
 <!ENTITY loginTitle.label "Gebruikersnamen">
 <!ENTITY usernameDesc.label "Voer de inkomende gebruikersnaam in die u van uw e-mailprovider hebt gekregen">
 <!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(bijvoorbeeld &quot;jsmit&quot;).">
+<!ENTITY usernameExample.label "(bijvoorbeeld “jsmit”).">
 <!ENTITY usernameLabel.label "Inkomende gebruikersnaam:">
 <!ENTITY usernameLabel.accesskey "k">
 <!ENTITY usernameSmtpDesc.label "Voer de uitgaande gebruikersnaam in die u van uw e-mailprovider hebt gekregen (dit is meestal dezelfde als uw inkomende gebruikersnaam).">

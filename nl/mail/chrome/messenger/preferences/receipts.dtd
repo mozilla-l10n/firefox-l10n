@@ -5,7 +5,7 @@
 <!ENTITY receiptArrive.label "Als een leesbevestiging aankomt:">
 <!ENTITY leaveIt.label "Deze in mijn Postvak IN laten staan">
 <!ENTITY leaveIt.accesskey "l">
-<!ENTITY moveToSent.label "Deze naar mijn map &quot;Verzonden&quot; verplaatsen">
+<!ENTITY moveToSent.label "Deze naar mijn map “Verzonden” verplaatsen">
 <!ENTITY moveToSent.accesskey "v">
 <!ENTITY requestMDN.label "Als een verzoek voor een leesbevestiging aankomt:">
 <!ENTITY never.label "Nooit een leesbevestiging sturen">

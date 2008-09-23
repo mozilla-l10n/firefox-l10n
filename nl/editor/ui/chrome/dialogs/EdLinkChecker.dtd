@@ -39,7 +39,7 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label     "Afbeeldings- en koppelingslocaties controleren">
 <!ENTITY urlsNotFound.label    "De volgende afbeeldings- of koppelingslocaties werden niet gevonden:">
-<!ENTITY notFoundKey.label     "(&quot;X&quot; = bestand niet gevonden, &quot;?&quot; = time-out tijdens verbindingspoging.)">
+<!ENTITY notFoundKey.label     "(“X” = bestand niet gevonden, “?” = time-out tijdens verbindingspoging.)">
 <!ENTITY changeUrlButton.label "Locatie van geselecteerde item wijzigen">
 <!ENTITY succeeded.label       "Geslaagd">
 <!ENTITY failed.label          "Mislukt">

@@ -41,7 +41,7 @@
 <!ENTITY setColor1.label "Klik op een kleur of">
 <!ENTITY setColor2.label "voer een HTML-kleurcode in">
 <!ENTITY setColor2.accessKey "v">
-<!ENTITY setColorExample.label "(bv.: &quot;#0000ff&quot; of &quot;blue&quot;):">
+<!ENTITY setColorExample.label "(bv.: “#0000ff” of “blue”):">
 <!ENTITY default.label "Standaard">
 <!ENTITY default.accessKey "S">
 <!ENTITY palette.label "Palet:">
