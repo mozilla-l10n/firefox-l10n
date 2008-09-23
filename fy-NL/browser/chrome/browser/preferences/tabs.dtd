@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label             "Nije sides moatte iepene wurde yn:">
-<!ENTITY inNewWindow.label            "in nij finster">
-<!ENTITY inNewWindow.accesskey        "f">
-<!ENTITY inNewTab.label               "in nij ljepblêd">
-<!ENTITY inNewTab.accesskey           "l">
+<!ENTITY newWindowsAsTabs.label       "Iepenje nije skermen ynstee dêrfan yn in nij ljepblêd">
+<!ENTITY newWindowsAsTabs.label       "l">
 
 <!ENTITY warnCloseMultipleTabs.label  "My warskôgje by it sluten fan mear ljepblêden">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
