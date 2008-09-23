@@ -51,7 +51,7 @@
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title  "Voer hoofdwachtwoord in">
-<!ENTITY getPassword.tokenName.label "Beveiligingsapparaat">
+<!ENTITY getPassword.tokenName2.label "Beveiligingsapparaat:">
 <!ENTITY getPassword.password.label "Wachtwoord:">
 
 <!-- These should be common -->
@@ -129,3 +129,7 @@
 <!ENTITY protectedAuth.title "Beschermde tokenauthenticatie">
 <!ENTITY protectedAuth.msg "Authenticeer bij de token. Authenticatiemethode hangt af van het type van uw token.">
 <!ENTITY protectedAuth.tokenName.label "Token:">
+
+<!ENTITY certErrorDlg.title "Beveiligde verbinding mislukt">
+<!ENTITY certErrorDlg.info1 "Dit kan een probleem met de serverconfiguratie zijn of iemand probeert de server na tebootsen.">
+<!ENTITY certErrorDlg.info2 "Als u in het verleden wel met succes heeft verbonden met deze server kan het iets tijdelijks zijn en kunt u het later nog een keer proberen.">
