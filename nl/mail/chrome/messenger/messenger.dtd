@@ -630,7 +630,7 @@
 <!ENTITY loadRemoteContentButton2.label "Afbeeldingen tonen">
 
 <!-- Phishing Bar -->
-<!ENTITY phishingBarMessage1.label "Dit bericht kan e-mailscam zijn">
+<!ENTITY phishingBarMessage2.label "Dit bericht kan e-mailscam zijn">
 <!ENTITY removePhishingBarButton1.label "Waarschuwing negeren">
 <!ENTITY reportPhishingError1.label "Dit bericht lijkt geen e-mailscam.">
 
