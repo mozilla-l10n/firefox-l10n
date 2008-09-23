@@ -7,7 +7,7 @@
 <!ENTITY loginAtStartup.label "En iniciar, comprova si hi ha nous articles">
 <!ENTITY loginAtStartup.accesskey "i">
 
-<!ENTITY useQuickMode.label "Per defecte, mostra el resum de l'article en lloc de carregar la pàgina web">
+<!ENTITY useQuickMode.label "Per defecte, mostra el resum de l'article en comptes de carregar la pàgina web">
 <!ENTITY useQuickMode.accesskey "f">
 
 <!ENTITY manageSubscriptions.label "Gestiona les subscripcions...">
@@ -17,4 +17,5 @@
 <!ENTITY rss.accountName            "Blocs i canals RSS">
 <!ENTITY rss.wizardShortName        "RSS">  
 <!ENTITY rss.wizardLongName         "Blocs i canals RSS">
+<!ENTITY rss.wizardLongName.accesskey "R">
 <!ENTITY rss.hostName               "Blocs i canals RSS">

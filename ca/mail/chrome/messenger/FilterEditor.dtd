@@ -12,7 +12,11 @@
 <!ENTITY highPriorityCmd.label "Alta">
 <!ENTITY highestPriorityCmd.label "Màxima">
 
-<!ENTITY conditionDesc.label "Per als missatges d'entrada que coincideixin amb:">
+<!ENTITY contextDesc.label "Aplica el filtre quan:">
+<!ENTITY contextDesc.accesskey "q">
+<!ENTITY contextIncoming.label "Es comprova el correu">
+<!ENTITY contextManual.label "S'executa manualment">
+<!ENTITY contextBoth.label "Es comprova el correu o s'executa manualment">
 <!ENTITY filterActionDesc.label "Realitza les següents accions:">
 <!ENTITY filterActionDesc.accesskey "z">
 

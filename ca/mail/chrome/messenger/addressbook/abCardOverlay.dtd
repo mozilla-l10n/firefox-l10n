@@ -140,6 +140,11 @@
 
 <!ENTITY Other.tab "Altres">
 <!ENTITY Other.accesskey                "A">
+<!ENTITY Birthday.label                 "Aniversari:">
+<!ENTITY Birthday.accesskey             "v">
+<!ENTITY Year.emptytext                 "Any">
+<!ENTITY Or.value                       "o">
+<!ENTITY Age.emptytext                  "Edat">
 <!ENTITY Custom1.label "Personalitzat 1:">
 <!ENTITY Custom1.accesskey "1">
 <!ENTITY Custom2.label "Personalitzat 2:">
