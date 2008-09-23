@@ -6,7 +6,7 @@
 <!ENTITY serverDescription.accesskey "D">
 <!ENTITY serverPort.label "שער:">
 <!ENTITY serverPort.accesskey "P">
-!ENTITY alwaysUseUsername.label "השתמש בשם וסיסמה">
+<!ENTITY alwaysUseUsername.label "השתמש בשם וסיסמה">
 <!ENTITY alwaysUseUsername.accesskey "U">
 <!ENTITY userName.label "שם משתמש:">
 <!ENTITY userName.accesskey "m">
