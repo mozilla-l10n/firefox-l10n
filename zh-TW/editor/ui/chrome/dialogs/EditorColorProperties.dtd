@@ -34,8 +34,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!-- Window title -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label "顏色與背景">
 <!ENTITY pageColors.label "頁面文字顏色:">
 <!ENTITY defaultColorsRadio.label "使用瀏覽器的色彩設定(本網頁不指定色彩)">

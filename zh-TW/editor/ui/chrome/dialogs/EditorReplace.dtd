@@ -35,8 +35,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!-- extracted from EdReplace.xul -->
 
+<!-- extracted from EdReplace.xul -->
 
 <!ENTITY replaceDialog.title "尋找並取代">
 <!ENTITY findField.label "尋找文字:">
@@ -56,6 +56,6 @@
 <!ENTITY replaceAndFindButton.label "取代與尋找">
 <!ENTITY replaceAndFindButton.accesskey "d">
 <!ENTITY replaceAllButton.label "全部取代">
-<!ENTITY replaceAllButton.accesskey "A">
+<!ENTITY replaceAllButton.accesskey "a">
 <!ENTITY closeButton.label "關閉">
 <!ENTITY notFoundWarning.label "找不到你所指定的文字">

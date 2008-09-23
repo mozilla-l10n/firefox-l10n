@@ -1,7 +1,7 @@
-<!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
 
-<!ENTITY editorCheck.label "Composer">
-<!ENTITY editorCheck.accesskey "c">
+<!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
+<!ENTITY editorCheck.label "設計師">
+<!ENTITY editorCheck.accesskey "C">
 
 <!ENTITY compose.label "設計師">
 <!ENTITY editing.label "編輯設定">

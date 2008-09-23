@@ -36,23 +36,23 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!-- Window title -->
 
+<!-- Window title -->
 
 <!ENTITY windowTitle.label "Hotspot 屬性">
 
-<!ENTITY link.label "Hotspot 鏈結">
-<!ENTITY urlFieldset.label "Hotspot 網址(URL):">
-<!ENTITY altFieldset.label "Hotspot 替代文字:">
-<!ENTITY browseButton.label "瀏覽...">
-<!ENTITY targetFieldset.label "目標設定">
-<!ENTITY target.label "Hotspot 目標">
-<!-- Targets -->
+<!ENTITY link.label				"Hotspot 鏈結">
+<!ENTITY urlFieldset.label		"Hotspot 網址(URL):">
+<!ENTITY altFieldset.label		"Hotspot 替代文字:">
+<!ENTITY browseButton.label		"瀏覽...">
+<!ENTITY targetFieldset.label	"目標設定">
+<!ENTITY target.label			"Hotspot 目標">
 
-<!ENTITY commonFieldset.label "一般目標">
-<!ENTITY none.value "(無)">
-<!ENTITY same.value "同頁框">
-<!ENTITY whole.value "整個頁面">
-<!ENTITY new.value "新視窗">
-<!ENTITY parent.value "上層頁框">
+<!-- Targets -->
+<!ENTITY commonFieldset.label	"一般目標">
+<!ENTITY none.value				"(無)">
+<!ENTITY same.value				"同頁框">
+<!ENTITY whole.value			"整個頁面">
+<!ENTITY new.value				"新視窗">
+<!ENTITY parent.value			"上層頁框">
 

@@ -40,7 +40,7 @@
 <!ENTITY Legend.accesskey "L">
 
 <!ENTITY EditLegendText.label "編輯說明(Legend):">
-<!ENTITY EditLegendText.accesskey "T">
+<!ENTITY EditLegendText.accesskey "t">
 <!ENTITY LegendAlign.label "對齊方式:">
 <!ENTITY LegendAlign.accesskey "A">
 <!ENTITY AlignDefault.label "預設值">

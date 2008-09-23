@@ -34,15 +34,15 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
-
-<!ENTITY editorWindow.titlemodifier "Composer">
+<!ENTITY editorWindow.titlemodifier "設計師"> 
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
+
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
+
 <!-- View menu items -->
-
-
 <!ENTITY viewMenu.label "檢視">
 <!ENTITY viewmenu.accesskey "v">
 <!ENTITY compositionToolbarCmd.label "編輯工具列">
@@ -51,17 +51,15 @@
 <!ENTITY formattingtb.accesskey "f">
 <!ENTITY editmodeToolbarCmd.label "編輯模式工具列">
 <!ENTITY editmodetb.accesskey "E">
-<!ENTITY taskbarCmd.label "狀態列">
-<!ENTITY taskbarCmd.accesskey "S">
-<!-- Format menu items -->
 
+<!-- Format menu items -->
 <!ENTITY formatMenu.label "格式">
 <!ENTITY formatmenu.accesskey "o">
 
 <!ENTITY helpMenu.label "說明">
 <!ENTITY aboutCmd.label "關於">
-<!-- Display Mode Toolbar -->
 
+<!-- Display Mode Toolbar -->
 <!ENTITY editMode.label "編輯模式:">
 
 <!ENTITY statusText.label "文件載入完成">

@@ -36,69 +36,60 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!-- These strings are for use specifically in the editor's image map dialog. -->
+
 <!-- Window title -->
-
-
 <!ENTITY windowTitle.label "圖片 Map 編輯器">
+
 <!-- Menu Items -->
 <!-- File menu -->
-
 <!ENTITY mapfileMenu.label "檔案">
-<!ENTITY mapfilemenu.accesskey "f">
+<!ENTITY mapfileMenu.accesskey "F">
 <!ENTITY clearCmd.label "清除">
-<!ENTITY mapfileclear.accesskey "a">
+<!ENTITY clearCmd.accesskey "a">
 <!ENTITY closeCmd.label "關閉">
-<!ENTITY mapfileclose.accesskey "c">
+<!ENTITY closeCmd.accesskey "C">
+
 <!-- Edit menu -->
-
 <!ENTITY mapeditMenu.label "編輯">
-<!ENTITY mapeditmenu.accesskey "e">
+<!ENTITY mapeditMenu.accesskey "E">
 <!ENTITY cutCmd.label "剪下">
-<!ENTITY mapeditcut.accesskey "t">
+<!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "複製">
-<!ENTITY mapeditcopy.accesskey "c">
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "貼上">
-<!ENTITY mapeditpaste.accesskey "p">
+<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY selectallCmd.label "全選">
-<!ENTITY mapselectall.accesskey "s">
+<!ENTITY selectallCmd.accesskey "S">
 <!ENTITY propsCmd.label "Hotspot 屬性">
-<!ENTITY mapeditprops.accesskey "h">
-<!-- View menu -->
+<!ENTITY propsCmd.accesskey "H">
 
+<!-- View menu -->
 <!ENTITY mapviewMenu.label "檢視">
-<!ENTITY mapviewmenu.accesskey "v">
+<!ENTITY mapviewMenu.accesskey "V">
 <!ENTITY showhideTbarCmd.label "隱藏工具列">
-<!ENTITY mapviewtbar.accesskey "t">
+<!ENTITY showhideTbarCmd.accesskey "T">
 <!-- Scaling -->
 <!ENTITY mapviewScale.label "縮放">
-<!ENTITY mapviewscale.accesskey "S">
+<!ENTITY mapviewScale.accesskey "S">
 <!ENTITY apercentCmd.label "100">
-<!ENTITY zoomone.accesskey "1">
+<!ENTITY apercentCmd.accesskey "1">
 <!ENTITY bpercentCmd.label "200">
-<!ENTITY zoomtwo.accesskey "2">
+<!ENTITY bpercentCmd.accesskey "2">
 <!ENTITY cpercentCmd.label "400">
-<!ENTITY zoomthree.accesskey "4">
-<!-- end scaling-->
-<!ENTITY contrastCmd.label "對比">
-<!ENTITY contrast.accesskey "n">
-<!-- Help menu -->
-
-<!ENTITY maphelpMenu.label "說明">
-<!ENTITY maphelpmenu.accesskey "h">
-<!ENTITY aboutCmd.label "關於本程式">
-<!ENTITY about.accesskey "b">
+<!ENTITY cpercentCmd.accesskey "4">
 
 <!ENTITY zoominCmd.label "放大">
 <!ENTITY zoomoutCmd.label "縮小">
 <!ENTITY delSpotCmd.label "刪除 Hotsopt">
-<!-- Keys -->
 
-<!ENTITY clear.accesskey "d">
-<!ENTITY selectall.accesskey "a">
-<!ENTITY close.accesskey "l">
-<!ENTITY cut.accesskey "x">
-<!ENTITY copy.accesskey "c">
-<!ENTITY paste.accesskey "v">
-<!ENTITY props.accesskey "p">
-<!ENTITY tbar.accesskey "t">
+<!-- Keys -->
+<!ENTITY clear.key "d">
+<!ENTITY selectall.key "a">
+<!ENTITY close.key "l">
+<!ENTITY cut.key "x">
+<!ENTITY copy.key "c">
+<!ENTITY paste.key "v">
+<!ENTITY props.key "p">
+<!ENTITY tbar.key "t">

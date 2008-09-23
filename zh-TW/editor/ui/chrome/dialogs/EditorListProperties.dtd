@@ -34,9 +34,9 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
+
 <!-- Window title -->
-
-
 <!ENTITY windowTitle.label "清單屬性">
 
 <!ENTITY ListType.label "清單(List)型式:">

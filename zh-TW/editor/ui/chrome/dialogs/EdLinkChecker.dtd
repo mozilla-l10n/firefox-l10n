@@ -35,12 +35,12 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!-- Window title -->
 
-<!ENTITY windowTitle.label "檢查圖片與鏈結網址">
-<!ENTITY urlsNotFound.label "找不到底下的圖片或鏈結網址:">
-<!ENTITY notFoundKey.label "(&quot;X&quot; = 找不到檔案, &quot;?&quot; = 連線逾時)">
+<!-- Window title -->
+<!ENTITY windowTitle.label     "檢查圖片與鏈結網址">
+<!ENTITY urlsNotFound.label    "找不到底下的圖片或鏈結網址:">
+<!ENTITY notFoundKey.label     "(&quot;X&quot; = 找不到檔案, &quot;?&quot; = 連線逾時)">
 <!ENTITY changeUrlButton.label "改變所選項目的位址">
-<!ENTITY succeeded.label "成功">
-<!ENTITY failed.label "失敗">
-<!ENTITY closeButton.label "關閉">
+<!ENTITY succeeded.label       "成功">
+<!ENTITY failed.label          "失敗">
+<!ENTITY closeButton.label     "關閉">

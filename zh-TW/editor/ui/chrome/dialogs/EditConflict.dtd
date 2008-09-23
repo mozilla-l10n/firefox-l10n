@@ -34,8 +34,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!-- Window title -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label "選擇編輯中被變動的處理方式">
 <!ENTITY conflictWarning.label "在你還沒儲存變動前這個文件就被其它程式修改了!! ">
 <!ENTITY conflictResolve.label "選擇要保留的版本:">

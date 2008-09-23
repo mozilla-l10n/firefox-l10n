@@ -35,18 +35,18 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!-- Window title -->
+<!ENTITY siteUrl.label         "網址URL:">
+<!ENTITY docSubdir.label       "頁面目錄:">
+<!ENTITY otherSubdir.label     "圖片目錄:">
 
-<!ENTITY siteUrl.label "網址URL:">
-<!ENTITY docSubdir.label "頁面目錄:">
-<!ENTITY otherSubdir.label "圖片目錄:">
+<!ENTITY status.label          "發佈中...">
+<!ENTITY fileList.label        "發佈狀態">
+<!ENTITY statusHeader.label    "狀態">
+<!ENTITY filenameHeader.label  "檔案名稱">
+<!ENTITY succeeded.label       "成功">
+<!ENTITY failed.label          "失敗">
 
-<!ENTITY status.label "發佈中...">
-<!ENTITY fileList.label "發佈狀態">
-<!ENTITY statusHeader.label "狀態">
-<!ENTITY filenameHeader.label "檔案名稱">
-<!ENTITY succeeded.label "成功">
-<!ENTITY failed.label "失敗">
-
-<!ENTITY keepOpen "發佈成功後不關閉此視窗。">
-<!ENTITY closeButton.label "關閉">
+<!ENTITY keepOpen              "發佈成功後不關閉此視窗。">
+<!ENTITY closeButton.label     "關閉">

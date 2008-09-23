@@ -40,7 +40,7 @@
 <!ENTITY Settings.accesskey "S">
 
 <!ENTITY EditLabelText.label "編輯文字:">
-<!ENTITY EditLabelText.accesskey "T">
+<!ENTITY EditLabelText.accesskey "t">
 <!ENTITY LabelFor.label "對此控制項(Control):">
 <!ENTITY LabelFor.accesskey "F">
 <!ENTITY AccessKey.label "存取鍵:">

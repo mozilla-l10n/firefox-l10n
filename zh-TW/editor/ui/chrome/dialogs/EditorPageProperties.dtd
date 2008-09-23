@@ -34,8 +34,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!-- Window title -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label "頁面屬性">
 <!ENTITY location.label "位址:">
 <!ENTITY lastModified.label "上次修改:">

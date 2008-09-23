@@ -34,9 +34,9 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
+
 <!-- Window title -->
-
-
 <!ENTITY windowTitle.label "水平線屬性">
 
 <!ENTITY dimensionsBox.label "大小">
@@ -46,11 +46,11 @@
 <!ENTITY widthEditField.accessKey "W">
 <!ENTITY pixelsPopup.value "像素">
 <!ENTITY alignmentBox.label "對齊">
-<!ENTITY leftRadio.value "向左">
+<!ENTITY leftRadio.label "靠左">
 <!ENTITY leftRadio.accessKey "L">
-<!ENTITY centerRadio.value "靠中">
+<!ENTITY centerRadio.label "置中">
 <!ENTITY centerRadio.accessKey "C">
-<!ENTITY rightRadio.value "向右">
+<!ENTITY rightRadio.label "靠右">
 <!ENTITY rightRadio.accessKey "R">
 
 <!ENTITY threeDShading.label "3D 立體效果">

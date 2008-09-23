@@ -10,7 +10,7 @@
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation "<h3>翻譯與本地化</h3><ul><li>Hung-Te Lin 林弘德</li><li>Wei-Lun Sun 孫偉倫</li><li>賴韋辰</li></ul>">
+<!ENTITY credit.translation "<h3>翻譯與本地化</h3><ul><li>Hung-Te Lin 林弘德</li><li>Wei-Lun Sun 孫偉倫</li><li>Wei-Chen Lai 賴韋辰</li></ul>">
 
 <!ENTITY credit.visuals     "整體視覺設計">
 <!ENTITY credit.theme       "佈景主題設計">
