@@ -15,7 +15,7 @@
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
 <!ENTITY markAsReadDelay.label         "לאחר הצגה למשך">
 <!ENTITY markAsReadDelay.accesskey     "ל">
-
+<!ENTITY secondsLabel.label            "שניות">
 
 <!-- ### ENTITY markAsRead.label "המתן" -->
 <!-- ### ENTITY markAsRead.accesskey "מ" -->
@@ -25,6 +25,7 @@
 <!ENTITY showFolderColumns.accesskey "ה">
 <!ENTITY rememberLastMsg.label "זכור את ההודעה האחרונה שנבחרה">
 <!ENTITY rememberLastMsg.accesskey "כ">
+<!ENTITY openMsgIn.label               "פתח הודעות חדשות:">
 <!-- ### ENTITY reuseExp.label "פתח הודעות חדשות:" -->
 <!ENTITY reuseExpRadio0.label "בחלון הודעה חדש">
 <!ENTITY reuseExpRadio0.accesskey "ד">
@@ -78,5 +79,7 @@
 <!ENTITY viewCRLs.accesskey "ר">
 <!-- ### ENTITY viewOCSP.label "אימות" -->
 <!-- ### ENTITY viewOCSP.accesskey "א" -->
+<!ENTITY validation.label               "אימות">
+<!ENTITY validation.accesskey           "א">
 <!ENTITY viewSecurityDevices.label "התקני אבטחה">
 <!ENTITY viewSecurityDevices.accesskey "ה">
