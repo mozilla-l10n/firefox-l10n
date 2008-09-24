@@ -1,7 +1,7 @@
 <!ENTITY  warnAddonInstall.label        "අඩවිය ඇඩෝන ස්ථාපනයට සැරසෙන විට මට අවවාද කරන්න">
 <!ENTITY  warnAddonInstall.accesskey    "W">
 
-<!-- LOCALIZATION NOTE (tellMaybeForgery.label):
+<!-- LOCALIZATION NOTE ():
   The methods by which forged (phished) sites will be detected by phishing
   providers will vary from human review to machine-based heuristics to a
   combination of both, so it's important that this string and
