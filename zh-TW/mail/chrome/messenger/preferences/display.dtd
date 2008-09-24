@@ -49,4 +49,4 @@
 <!ENTITY fontAndEncodingsDescription.label  "設定 &brandShortName; 使用的字型和字元編碼">
 <!ENTITY fontsAndEncodingsCaption.label      "字型與字元編碼">
 <!ENTITY fontOptions.accesskey   "F">
-<!ENTITY fontOptions.label       "F">
+<!ENTITY fontOptions.label       "字型…">
