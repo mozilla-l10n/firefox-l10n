@@ -39,7 +39,7 @@
 <!ENTITY calendar.subscriptions.dialog.title                            "Aginda-abonneminten">
 <!ENTITY calendar.subscriptions.dialog.search.label.value               "Aginda’s toane mei de tekst:">
 <!ENTITY calendar.subscriptions.dialog.search.button.label              "Sykje">
-<!ENTITY calendar.subscriptions.dialog.select.label.value               "Selektear aginda’s om op te abonnearjen:">
+<!ENTITY calendar.subscriptions.dialog.select.label.value               "Selektearje aginda’s om op te abonnearjen:">
 <!ENTITY calendar.subscriptions.dialog.subscribe.button.label           "Abonnearje">
 <!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label         "Abonnemint opsizze">
 <!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label         "Sykje…">

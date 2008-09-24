@@ -52,7 +52,7 @@
 
 <!ENTITY calendar.new.server.label              "Nije aginda…">
 <!ENTITY calendar.new.server.key                "L">
-<!ENTITY calendar.new.server.accesskey          "n">
+<!ENTITY calendar.new.server.accesskey          "a">
 
 <!ENTITY calendar.open.file.label               "Agindabestân iepenje…">
 <!ENTITY calendar.open.file.key                 "O">
@@ -63,7 +63,7 @@
 <!ENTITY event.edit.event.accesskey             "w">
 
 <!ENTITY event.delete.event                     "Selektearre barren fuortsmite">
-<!ENTITY event.delete.event.accesskey           "v">
+<!ENTITY event.delete.event.accesskey           "f">
 
 <!ENTITY event.delete.tasks                     "Selektearre taken fuortsmite">
 <!ENTITY event.delete.tasks.accesskey           "t">
@@ -87,7 +87,7 @@
 <!ENTITY calendar.subscribe.label               "Oanmelde by aginda op oare kompjûter…">
 <!ENTITY calendar.subscribe.accesskey           "m">
 
-<!ENTITY calendar.reloadserver.label            "Aginda’s op ôfstân ferferse">
+<!ENTITY calendar.reloadserver.label            "Aginda’s op ôfstân ferfarskje">
 <!ENTITY calendar.reloadserver.key              "R">
 <!ENTITY calendar.reloadserver.accesskey        "r">
 
@@ -131,7 +131,7 @@
 <!ENTITY calendar.selectall.accesskey           "A">
 
 <!ENTITY toolbarsMenu.label                     "Arkbalken">
-<!ENTITY toolbarsMenu.accesskey                 "W">
+<!ENTITY toolbarsMenu.accesskey                 "A">
 
 <!ENTITY calendar.toolbar.label                 "Aginda-arkbalke">
 <!ENTITY calendar.toolbar.accesskey             "e">
@@ -156,7 +156,7 @@
 <!ENTITY calendar.displaytodos.checkbox.label       "Taken yn aginda toane">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "T">
 
-<!ENTITY calendar.menu.numberofweeks.label      "Grut mearwikenoersicht">
+<!ENTITY calendar.menu.numberofweeks.label      "Grut mearwikenoersjoch">
 <!ENTITY calendar.menu.numberofweeks.2          "Twa wiken">
 <!ENTITY calendar.menu.numberofweeks.3          "Trije wiken">
 <!ENTITY calendar.menu.numberofweeks.4          "Fjouwer wiken">

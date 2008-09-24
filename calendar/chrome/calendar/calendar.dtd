@@ -53,13 +53,13 @@
 <!ENTITY calendar.confirm.deleteuntitledevent "Witte jo seker dat jo it folgjende nammeleaze barren fuortsmite wolle?" >
 
 <!ENTITY calendar.flat.topbar.choosedate       "Gean nei datum" >
-<!ENTITY calendar.flat.topbar.dayview          "Dei-oersicht" >
+<!ENTITY calendar.flat.topbar.dayview          "Dei-oersjoch" >
 <!ENTITY calendar.dayview.accesskey            "D" >
-<!ENTITY calendar.flat.topbar.weekview         "Wike-oersicht" >
+<!ENTITY calendar.flat.topbar.weekview         "Wyk-oersjoch" >
 <!ENTITY calendar.weekview.accesskey           "k" >
-<!ENTITY calendar.flat.topbar.monthview        "Moanne-oersicht" >
+<!ENTITY calendar.flat.topbar.monthview        "Moanne-oersjoch" >
 <!ENTITY calendar.monthview.accesskey          "M" >
-<!ENTITY calendar.flat.topbar.multiweekview    "Oersicht mearere wiken" >
+<!ENTITY calendar.flat.topbar.multiweekview    "Oersicht mear wiken" >
 <!ENTITY calendar.multiweekview.accesskey      "e" >
 <!ENTITY calendar.dayView.key                  "1" >
 <!ENTITY calendar.weekView.key                 "2" >
@@ -83,7 +83,7 @@
 <!ENTITY calendar.events.filter.all.label "Alle barrens">
 <!ENTITY calendar.events.filter.today.label "Barrens fan hjoed">
 <!ENTITY calendar.events.filter.future.label "Alle kommende barrens">
-<!ENTITY calendar.events.filter.current.label "Momenteel selektearre dei">
+<!ENTITY calendar.events.filter.current.label "No selektearre dei">
 <!ENTITY calendar.events.filter.next7Days.label "Barrens yn de kommende 7 dagen">
 <!ENTITY calendar.events.filter.next14Days.label "Barrens yn de kommende 14 dagen">
 <!ENTITY calendar.events.filter.next31Days.label "Barrens yn de kommende 31 dagen">
@@ -110,10 +110,10 @@
 <!ENTITY calendar.choosedate.button.tooltip       "Datum kieze om nei ta te gean" >
 <!ENTITY calendar.unifinder.button.tooltip        "Barrens sykje en toane" >
 
-<!ENTITY calendar.day.button.tooltip            "Nei dei-oersicht oerskeakelje" >
-<!ENTITY calendar.week.button.tooltip           "Nei wike-oersicht oerskeakelje" >
-<!ENTITY calendar.month.button.tooltip          "Nei moanne-oersicht oerskeakelje" >
-<!ENTITY calendar.multiweek.button.tooltip      "Nei oersicht foar mear wiken oerskeakelje" >
+<!ENTITY calendar.day.button.tooltip            "Nei dei-oersjoch oerskeakelje" >
+<!ENTITY calendar.week.button.tooltip           "Nei wyk-oersjoch oerskeakelje" >
+<!ENTITY calendar.month.button.tooltip          "Nei moanne-oersjoch oerskeakelje" >
+<!ENTITY calendar.multiweek.button.tooltip      "Nei oersjoch foar mear wiken oerskeakelje" >
 
 <!ENTITY calendar.nextday.button.tooltip        "Folgjende dei" >
 <!ENTITY calendar.prevday.button.tooltip        "Foarige dei" >
@@ -152,8 +152,8 @@
 <!ENTITY calendar.publish.button.label             "Publisearje" >
 <!ENTITY calendar.unifinder.button.label           "Barrens sykje" >
 
-<!ENTITY calendar.remotereload.button.label   "Ferferse" >
-<!ENTITY calendar.remotereload.button.tooltip   "Alle aginda’s op ôfstân ferferse" >
+<!ENTITY calendar.remotereload.button.label   "Ferfarskje" >
+<!ENTITY calendar.remotereload.button.tooltip   "Alle aginda’s op ôfstân ferfarskje" >
 
 <!ENTITY calendar.day.button.label              "Dei" >
 <!ENTITY calendar.week.button.label             "Wike" >
@@ -161,7 +161,7 @@
 <!ENTITY calendar.multiweek.button.label        "Mear wiken" >
 <!ENTITY calendar.onlyworkday.checkbox.label    "Allinnich wurkdagen" >
 <!ENTITY calendar.onlyworkday.checkbox.accesskey  "r" >
-<!ENTITY calendar.displaytodos.checkbox.label   "Taken yn oersicht" >
+<!ENTITY calendar.displaytodos.checkbox.label   "Taken yn oersjoch" >
 <!ENTITY calendar.displaytodos.checkbox.accesskey "c" >
 <!ENTITY calendar.completedtasks.checkbox.label     "Foltôge taken toane" >
 <!ENTITY calendar.completedtasks.checkbox.accesskey "F" >
@@ -190,7 +190,7 @@
 <!ENTITY calendar.task.filter.today.accesskey       "H">
 <!ENTITY calendar.task.filter.next7days.label       "Kommende sân dagen">
 <!ENTITY calendar.task.filter.next7days.accesskey   "s">
-<!ENTITY calendar.task.filter.notstarted.label      "Net-begûnne taken">
+<!ENTITY calendar.task.filter.notstarted.label      "Net-begûne taken">
 <!ENTITY calendar.task.filter.notstarted.accesskey  "e">
 <!ENTITY calendar.task.filter.overdue.label         "Efterstallige taken">
 <!ENTITY calendar.task.filter.overdue.accesskey     "f">
@@ -301,7 +301,7 @@
 <!ENTITY calendar.context.findcalendar.accesskey       "s" >
 <!ENTITY calendar.context.deleteserver.label           "Aginda fuortsmite">
 <!ENTITY calendar.context.deleteserver.accesskey       "f">
-<!ENTITY calendar.context.reloadserver.label           "Aginda’s op oare kompjûter(s) ferferse">
+<!ENTITY calendar.context.reloadserver.label           "Aginda’s op oare kompjûter(s) ferfarskje">
 <!ENTITY calendar.context.reloadserver.accesskey       "o">
 <!ENTITY calendar.context.publish.label                "Aginda publisearje">
 <!ENTITY calendar.context.publish.accesskey            "p">
@@ -334,8 +334,8 @@
 <!ENTITY calendar.alarm.location.label              "Lokaasje:" >
 <!ENTITY calendar.alarm.details.label               "Details…" >
 
-<!ENTITY calendar.alarm.snoozefor.label             "Sluimerjen foar" >
-<!ENTITY calendar.alarm.snoozeallfor.label          "Alle sluimerje foar" >
+<!ENTITY calendar.alarm.snoozefor.label             "Slommerje foar" >
+<!ENTITY calendar.alarm.snoozeallfor.label          "Alle slommerje foar" >
 <!ENTITY calendar.alarm.title.label                 "Aginda-alarm" >
 <!ENTITY calendar.alarm.dismiss.label               "Utskeakelje" >
 <!ENTITY calendar.alarm.dismissall.label            "Alle útskeakelje" >
@@ -386,7 +386,7 @@
 <!ENTITY calendar.print.title.label "Titel:">
 <!ENTITY calendar.print.layout.label "Lay-out:">
 <!ENTITY calendar.print.range.label "Of te drukken">
-<!ENTITY calendar.print.currentview.label "Barrens yn aktuele oersicht">
+<!ENTITY calendar.print.currentview.label "Barrens yn aktuele oersjoch">
 <!ENTITY calendar.print.selected.label "Selektearre barrens">
 <!ENTITY calendar.print.custom.label "Oanpast datumberyk:">
 <!ENTITY calendar.print.from.label "Fan:">
