@@ -55,7 +55,7 @@
 <!ENTITY calendar.open.file.key                 "O">
 <!ENTITY calendar.open.file.accesskey           "O">
 
-<!ENTITY event.edit.event                       "Edita la selecció...">
+<!ENTITY event.edit.event                       "Edita la selecció…">
 <!ENTITY event.edit.event.key                   "E">
 <!ENTITY event.edit.event.accesskey             "E">
 
@@ -65,7 +65,7 @@
 <!ENTITY event.delete.tasks                     "Suprimeix les tasques seleccionades">
 <!ENTITY event.delete.tasks.accesskey           "p">
 
-<!ENTITY calendar.print.label                   "Imprimeix...">
+<!ENTITY calendar.print.label                   "Imprimeix…">
 <!ENTITY calendar.print.key                     "P">
 <!ENTITY calendar.print.accesskey               "p">
 
@@ -88,7 +88,7 @@
 <!ENTITY calendar.reloadserver.key              "R">
 <!ENTITY calendar.reloadserver.accesskey        "z">
 
-<!ENTITY calendar.publish.label                 "Publica...">
+<!ENTITY calendar.publish.label                 "Publica…">
 <!ENTITY calendar.publish.accesskey             "b">
 <!ENTITY calendar.publish.calendar.label        "Publica el calendari…">
 <!ENTITY calendar.publish.calendar.accesskey    "b">
@@ -138,7 +138,7 @@
 <!ENTITY mode.toolbar.label                     "Mode de la barra d'eines">
 <!ENTITY mode.toolbar.accesskey                 "M">
 
-<!ENTITY calendar.menu.customize.label          "Personalitza...">
+<!ENTITY calendar.menu.customize.label          "Personalitza…">
 <!ENTITY calendar.menu.customize.accesskey      "z">
 
 <!ENTITY showStatusBarCmd.label                 "Barra d'estat">

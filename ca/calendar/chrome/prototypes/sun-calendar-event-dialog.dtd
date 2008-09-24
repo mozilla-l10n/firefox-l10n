@@ -204,7 +204,7 @@
 <!ENTITY event.reminder.1day.before.label                 "1 dia abans" >
 <!ENTITY event.reminder.2days.before.label                "2 dies abans" >
 <!ENTITY event.reminder.1week.before.label                "1 setmana abans" >
-<!ENTITY event.reminder.custom.label                      "Personalitzat..." >
+<!ENTITY event.reminder.custom.label                      "Personalitzat…" >
 
 <!ENTITY event.reminder.multiple.label                    "Recordatoris múltiples…" >
 
@@ -219,7 +219,7 @@
 <!ENTITY event.repeat.bi.weekly.label                   "Cada dues setmanes">
 <!ENTITY event.repeat.monthly.label                     "Mensualment">
 <!ENTITY event.repeat.yearly.label                      "Anualment">
-<!ENTITY event.repeat.custom.label                      "Personalitzat...">
+<!ENTITY event.repeat.custom.label                      "Personalitzat…">
 
 <!ENTITY event.recurrence.pattern.label                 "Patró de repetició">
 <!ENTITY event.recurrence.occurs.label                  "Es repeteix" >
