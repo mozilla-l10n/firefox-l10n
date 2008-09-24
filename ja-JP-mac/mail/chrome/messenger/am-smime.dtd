@@ -1,16 +1,16 @@
 <!ENTITY securityTitle.label		"セキュリティ">
-<!ENTITY securityHeading.label		"署名または暗号化されたメッセージを送受信するときには、電子署名証明書と暗号化証明書の両方を指定する必要があります。">
+<!ENTITY securityHeading.label		"署名や暗号化されたメッセージを送受信するには、デジタル署名証明書と暗号化証明書の両方を指定する必要があります。">
 <!ENTITY encryptionGroupTitle.label	"暗号化">
 <!ENTITY encryptionChoiceLabel.label	"メッセージ送信時に使用するデフォルト暗号化設定:">
 <!ENTITY neverEncrypt.label		"暗号化しない">
 <!ENTITY alwaysEncryptMessage.label	"暗号化する (すべての受信者が証明書を持っていなければ送信できません)">
-<!ENTITY encryptionCert.message		"あなたへのメッセージの暗号化と復号化に使用する証明書:">
-<!ENTITY encryptionCert.notselected	"証明書が設定されていません。">
+<!ENTITY encryptionCert.message		"あなたへのメッセージの暗号化と復号に使用する証明書:">
+<!ENTITY encryptionCert.notselected	"証明書が設定されていません">
 <!ENTITY certificate.button		"選択...">
 <!ENTITY certificate_clear.button	"消去">
-<!ENTITY signingGroupTitle.label	"電子署名">
-<!ENTITY signMessage.label		"メッセージに電子署名をする (デフォルトの動作)">
-<!ENTITY signingCert.message		"メッセージの電子署名に使用する証明書:">
+<!ENTITY signingGroupTitle.label	"デジタル署名">
+<!ENTITY signMessage.label		"メッセージにデジタル署名する (デフォルトの動作)">
+<!ENTITY signingCert.message		"メッセージのデジタル署名に使用する証明書:">
 <!ENTITY signingCert.notselected	"証明書が設定されていません">
 
 <!ENTITY certificates.label		"証明書">

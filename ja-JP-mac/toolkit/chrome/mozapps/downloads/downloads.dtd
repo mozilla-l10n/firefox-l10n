@@ -39,6 +39,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.clearList.tooltip		"ファイルのダウンロード履歴を消去します">
 <!ENTITY cmd.clearList.accesskey	"C">
 <!ENTITY cmd.find.commandKey		"f">
+<!ENTITY cmd.search.commandKey		"k">
 
 <!ENTITY closeWhenDone.label		"ダウンロードが完了時に閉じる">
 <!ENTITY closeWhenDone.tooltip		"すべてのファイルのダウンロードが完了したときに、ダウンロードマネージャを閉じます">

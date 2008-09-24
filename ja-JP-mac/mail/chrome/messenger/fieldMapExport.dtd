@@ -35,7 +35,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY fieldMapExport.title	"アドレス帳のエクスポート">
+<!ENTITY fieldMapExport.title	"アドレス帳を書き出す">
 <!ENTITY fieldMapExport.add	"フィールドを追加 -&gt;">
 <!ENTITY fieldMapExport.addAll	"すべて追加 -&gt;">
-<!ENTITY fieldList.label	"アドレスフィールド"> 
+<!ENTITY fieldList.label	"アドレスフィールド">

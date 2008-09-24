@@ -20,6 +20,9 @@
    -
    - Contributor(s): Neil Rashbrook <neil@parkwaycc.co.uk>
    -
+   - Localizer(s):
+   -   dynamis
+   -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
    - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
@@ -32,52 +35,49 @@
    - the provisions above, a recipient may use your version of this file under
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
-   -  update by
-   -     Teiji Matsuba <matsuba@dream.com>
-   -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "選択リストの情報">
+<!ENTITY windowTitle.label		"選択リストの情報">
 
-<!ENTITY Select.label "選択リスト(select)">
-<!ENTITY SelectName.label "リスト名(name):">
-<!ENTITY SelectName.accesskey "N">
-<!ENTITY SelectSize.label "行数(size):">
-<!ENTITY SelectSize.accesskey "H">
-<!ENTITY SelectMultiple.label "複数選択可(multiple)">
-<!ENTITY SelectMultiple.accesskey "M">
-<!ENTITY SelectDisabled.label "無効化(disabled)">
-<!ENTITY SelectDisabled.accesskey "D">
-<!ENTITY SelectTabIndex.label "タブの順番(tabindex):">
-<!ENTITY SelectTabIndex.accesskey "I">
+<!ENTITY Select.label			"選択リスト">
+<!ENTITY SelectName.label		"名前:">
+<!ENTITY SelectName.accesskey		"N">
+<!ENTITY SelectSize.label		"選択肢の数:">
+<!ENTITY SelectSize.accesskey		"H">
+<!ENTITY SelectMultiple.label		"複数選択可">
+<!ENTITY SelectMultiple.accesskey	"M">
+<!ENTITY SelectDisabled.label		"無効化">
+<!ENTITY SelectDisabled.accesskey	"D">
+<!ENTITY SelectTabIndex.label		"タブインデックス:">
+<!ENTITY SelectTabIndex.accesskey	"I">
 
-<!ENTITY OptGroup.label "項目グループ(optgroup)">
-<!ENTITY OptGroupLabel.label "グループ名(label):">
-<!ENTITY OptGroupLabel.accesskey "L">
-<!ENTITY OptGroupDisabled.label "無効化(disabled)">
-<!ENTITY OptGroupDisabled.accesskey "D">
+<!ENTITY OptGroup.label			"選択項目グループ">
+<!ENTITY OptGroupLabel.label		"ラベル:">
+<!ENTITY OptGroupLabel.accesskey	"L">
+<!ENTITY OptGroupDisabled.label		"無効化">
+<!ENTITY OptGroupDisabled.accesskey	"D">
 
-<!ENTITY Option.label "項目(option)">
-<!ENTITY OptionText.label "項目テキスト:">
-<!ENTITY OptionText.accesskey "T">
-<!ENTITY OptionValue.label "項目の値(value):">
-<!ENTITY OptionValue.accesskey "V">
-<!ENTITY OptionSelected.label "初期値を選択(selected)">
-<!ENTITY OptionSelected.accesskey "S">
-<!ENTITY OptionDisabled.label "無効化(disabled)">
-<!ENTITY OptionDisabled.accesskey "D">
+<!ENTITY Option.label			"選択項目">
+<!ENTITY OptionText.label		"テキスト:">
+<!ENTITY OptionText.accesskey		"T">
+<!ENTITY OptionValue.label		"値:">
+<!ENTITY OptionValue.accesskey		"V">
+<!ENTITY OptionSelected.label		"初期値を選択に">
+<!ENTITY OptionSelected.accesskey	"S">
+<!ENTITY OptionDisabled.label		"無効化">
+<!ENTITY OptionDisabled.accesskey	"D">
 
-<!ENTITY TextHeader.label "テキスト">
-<!ENTITY ValueHeader.label "値">
-<!ENTITY SelectedHeader.label "初期選択">
+<!ENTITY TextHeader.label		"テキスト">
+<!ENTITY ValueHeader.label		"値">
+<!ENTITY SelectedHeader.label		"初期選択">
 
-<!ENTITY AddOption.label "項目の追加">
-<!ENTITY AddOption.accesskey "O">
-<!ENTITY AddOptGroup.label "項目グループの追加">
-<!ENTITY AddOptGroup.accesskey "G">
-<!ENTITY RemoveElement.label "削除">
-<!ENTITY RemoveElement.accesskey "R">
-<!ENTITY MoveElementUp.label "上に移動">
-<!ENTITY MoveElementUp.accesskey "U">
-<!ENTITY MoveElementDown.label "下に移動">
-<!ENTITY MoveElementDown.accesskey "D">
+<!ENTITY AddOption.label		"選択項目を追加">
+<!ENTITY AddOption.accesskey		"O">
+<!ENTITY AddOptGroup.label		"グループを追加">
+<!ENTITY AddOptGroup.accesskey		"G">
+<!ENTITY RemoveElement.label		"削除">
+<!ENTITY RemoveElement.accesskey	"R">
+<!ENTITY MoveElementUp.label		"上に移動">
+<!ENTITY MoveElementUp.accesskey	"U">
+<!ENTITY MoveElementDown.label		"下に移動">
+<!ENTITY MoveElementDown.accesskey	"D">

@@ -35,19 +35,19 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY fieldMapImport.title			"アドレス帳をインポート">
+<!ENTITY fieldMapImport.title			"アドレス帳の読み込み">
 <!ENTITY fieldMapImport.size			"width: 40em; height: 30em;"><!-- (^^; width: 40em; height: 30em; -->
-<!ENTITY fieldMapImport.recordNumber		"インポートするデータ項目:">
-<!ENTITY fieldMapImport.next			"次へ">
+<!ENTITY fieldMapImport.recordNumber		"読み込むデータ項目:">
+<!ENTITY fieldMapImport.next.label		"次へ">
 <!ENTITY fieldMapImport.next.accesskey		"N">
-<!ENTITY fieldMapImport.previous		"戻る">
+<!ENTITY fieldMapImport.previous.label		"戻る">
 <!ENTITY fieldMapImport.previous.accesskey	"P">
-<!ENTITY fieldMapImport.text			"左右に表示されたアドレス帳のフィールドを &quot;上へ&quot; ボタンと &quot;下へ&quot; ボタンで適切に合わせてください。">
-<!ENTITY fieldMapImport.up			"上へ">
+<!ENTITY fieldMapImport.text			"左右に表示されたアドレス帳のフィールドを “上へ” ボタンと “下へ” ボタンで適切に合わせてください。">
+<!ENTITY fieldMapImport.up.label		"上へ">
 <!ENTITY fieldMapImport.up.accesskey		"U">
-<!ENTITY fieldMapImport.down			"下へ">
+<!ENTITY fieldMapImport.down.label		"下へ">
 <!ENTITY fieldMapImport.down.accesskey		"D">
 <!ENTITY fieldMapImport.fieldListTitle		"アドレス帳のフィールド">
-<!ENTITY fieldMapImport.dataTitle		"インポートするデータ">
-<!ENTITY fieldMapImport.skipFirstRecord		"最初のレコードにはフィールド名を含む">
+<!ENTITY fieldMapImport.dataTitle		"読み込むデータ">
+<!ENTITY fieldMapImport.skipFirstRecord.label	"最初のレコードにはフィールド名を含む">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey	"F">

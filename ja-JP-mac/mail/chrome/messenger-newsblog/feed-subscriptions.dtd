@@ -1,6 +1,6 @@
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label	"RSS フィードの購読">
-<!ENTITY subscriptionDesc.label		"注意: フィードのフォルダを削除または変更しても、既にダウンロードした記事はそのまま残ります。">
+<!ENTITY newsBlogSubscriptions.label	"フィードの購読">
+<!ENTITY subscriptionDesc.label		"注意: フィードのフォルダを削除または変更しても、すでにダウンロードした記事はそのまま残ります。">
 <!ENTITY feedTitle.label		"タイトル:">
 <!ENTITY location.label			"URL:">
 
@@ -10,9 +10,9 @@
 <!ENTITY button.editFeed.accesskey	"E">
 <!ENTITY button.removeFeed.label	"削除">
 <!ENTITY button.removeFeed.accesskey	"R">
-<!ENTITY button.importOPML.label	"インポート">
+<!ENTITY button.importOPML.label	"読み込む">
 <!ENTITY button.importOPML.accesskey	"I">
-<!ENTITY button.exportOPML.label	"エクスポート">
+<!ENTITY button.exportOPML.label	"書き出す">
 <!ENTITY button.exportOPML.accesskey	"X">
 
 <!ENTITY cmd.close.commandKey		"w">

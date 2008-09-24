@@ -47,8 +47,6 @@
 <!ENTITY filenameHeader.label		"ファイル名">
 <!ENTITY succeeded.label		"成功">
 <!ENTITY failed.label			"失敗">
-<!ENTITY troubleshooting.label		"トラブルシューティング">
-<!ENTITY troubleshooting.accessKey	"T">
 
 <!ENTITY keepOpen			"アップロード完了後もこのウインドウを開いたままにする。">
 <!ENTITY closeButton.label		"閉じる">

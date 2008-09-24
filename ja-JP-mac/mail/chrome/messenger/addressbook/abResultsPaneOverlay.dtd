@@ -44,7 +44,7 @@
 <!ENTITY PrimaryEmail.accesskey			"E">
 <!ENTITY Company.label				"組織">
 <!ENTITY Company.accesskey			"z">
-<!ENTITY _PhoneticName.label			"ふりがな">
+<!ENTITY _PhoneticName.label			"よみがな">
 <!ENTITY _PhoneticName.accesskey		"o">
 <!ENTITY NickName.label				"ニックネーム">
 <!ENTITY NickName.accesskey			"i">
@@ -70,15 +70,3 @@
 <!ENTITY sortAscending.accesskey		"A">
 <!ENTITY sortDescending.label			"降順">
 <!ENTITY sortDescending.accesskey		"D">
-
-<!-- context menu -->
-<!ENTITY composeEmail.label			"メールを作成">
-<!ENTITY composeEmail.accesskey			"C">
-<!ENTITY deleteAddrBookCard.label		"削除">
-<!ENTITY deleteAddrBookCard.accesskey		"D">
-<!ENTITY newAddrBookCard.label			"新規カード...">
-<!ENTITY newAddrBookCard.accesskey		"N">
-<!ENTITY newAddrBookMailingList.label		"新規アドレスリスト...">
-<!ENTITY newAddrBookMailingList.accesskey	"M">
-<!ENTITY addrBookCardProperties.label		"カードの情報">
-<!ENTITY addrBookCardProperties.accesskey	"P">

@@ -1,25 +1,20 @@
-<!ENTITY generalSettings.caption		"デフォルトのアプリケーション">
-<!ENTITY generalSettings.label			"&brandShortName; を次のデフォルトのアプリケーションに設定する:">
-<!ENTITY setDefaultMailClient.label		"メール">
-<!ENTITY setDefaultMailClient.accesskey		"M">
-<!ENTITY setDefaultNewsClient.label		"ニュース">
-<!ENTITY setDefaultNewsClient.accesskey		"N">
-<!ENTITY setDefaultFeedClient.label		"RSS フィード">
-<!ENTITY setDefaultFeedClient.accesskey		"F">
-<!ENTITY checkDefaultMailClient.label		"&brandShortName; が起動するとき、次のデフォルトメールクライアントとして設定されているか確認する">
-<!ENTITY checkDefaultMailClient.accesskey	"n">
-<!ENTITY defaultClientAdvanced.label		"詳細設定...">
-<!ENTITY defaultClientAdvanced.accesskey	"d">
-
-<!ENTITY windowSettings.label		"ウインドウ設定">
-<!ENTITY selectWindowLayout.label	"ウインドウの表示形式を選択してください">
-<!ENTITY selectWindowLayout.accesskey	"S">
+<!ENTITY systemDefaults.label		"デフォルトクライアント">
+<!ENTITY alwaysCheckDefault.label	"起動時に &brandShortName; がデフォルトクライアントとして設定されているか確認する">
+<!ENTITY alwaysCheckDefault.accesskey	"l">
+<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
+  There's some sort of bug which makes wrapping checkboxes not properly reflow,
+  causing the bottom border of the groupbox to be cut off; set this
+  appropriately if your localization causes this checkbox to wrap.
+-->
+<!ENTITY alwaysCheckDefault.height	"3em">
+<!ENTITY checkNow.label			"今すぐ確認">
+<!ENTITY checkNow.accesskey		"N">
 
 <!ENTITY messengerStartPage.label	"&brandShortName; スタートページ">
-<!ENTITY enableStartPage.label		"&brandShortName; が起動するとき、メッセージ領域にスタートページを表示する">
+<!ENTITY enableStartPage.label		"起動時にメッセージペインにスタートページを表示する">
 <!ENTITY enableStartPage.accesskey	"W">
 <!ENTITY location.label			"URL:">
-<!ENTITY location.accesskey		"L">
+<!ENTITY location1.accesskey		"o">
 <!ENTITY useDefault.label		"デフォルトに戻す">
 <!ENTITY useDefault.accesskey		"R">
 
@@ -28,13 +23,20 @@
 
 <!ENTITY newMessagesArrive.label	"新着メッセージの通知"><!-- (^^; When new messages arrive: -->
 <!ENTITY playSound.label		"音を鳴らす">
-<!ENTITY playSound.accesskey		"P">
-<!ENTITY showAnimatedAlert.label	"警告を表示する">
+<!ENTITY playSound1.accesskey		"d">
+<!ENTITY showAnimatedAlert.label	"デスクトップ通知を表示する">
 <!ENTITY showAnimatedAlert.accesskey	"S">
-<!ENTITY soundbutton.label		"詳細設定...">
-<!ENTITY soundbutton.accesskey		"A">
+<!ENTITY customizeMailAlert.label	"設定...">
+<!ENTITY customizeMailAlert.accesskey	"C">
 
-<!ENTITY showConnections.label		"接続設定...">
-<!ENTITY showConnections.accesskey	"o">
-<!ENTITY proxiesInfo.label		"インターネットへの接続方法を設定します。">
-<!ENTITY connectionsInfo.caption	"接続">
+<!ENTITY soundNotification1.caption	"サウンド">
+<!ENTITY play.label			"再生">
+<!ENTITY play.accesskey			"P">
+<!ENTITY systemsound.label		"システムの新着メール通知音">
+<!ENTITY systemsoundMac.label		"システムの警告音">
+<!ENTITY systemsoundMac.accesskey	"y">
+<!ENTITY systemsound.accesskey		"y">
+<!ENTITY customsound.label		"次のサウンドファイルを使用する:">
+<!ENTITY customsound.accesskey		"U">
+<!ENTITY browse.label			"選択...">
+<!ENTITY browse.accesskey		"B">

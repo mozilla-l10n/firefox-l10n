@@ -10,7 +10,8 @@
 <!ENTITY  cancel.accesskey		"C">
 
 <!ENTITY  noupdatesfound.title		"更新が見つかりませんでした">
-<!ENTITY  noupdatesfound.intro		"新しい更新はありませんでした。&brandShortName; は新しい更新がないか定期的に確認します。">
+<!ENTITY  noupdatesautoenabled.intro	"更新が見つかりませんでした。&brandShortName; は定期的に更新を確認します。">
+<!ENTITY  noupdatesautodisabled.intro	"更新が見つかりませんでした。後で再度試すか、&brandShortName; の自動更新を有効化してください。">
 
 <!ENTITY  incompatibleChecking.label	"この更新により拡張機能やテーマに問題が起きないか確認しています...">
 <!ENTITY  clickHere.label		"更新の詳細を表示する">

@@ -12,7 +12,7 @@
 <!ENTITY menu_securityNoEncryption.label	"このメッセージを暗号化しない">
 <!ENTITY menu_securityNoEncryption.accesskey	"N">
 
-<!ENTITY menu_securitySign.label		"このメッセージに電子署名する">
+<!ENTITY menu_securitySign.label		"このメッセージにデジタル署名する">
 <!ENTITY menu_securitySign.accesskey		"S">
 
 <!ENTITY menu_securityStatus.label		"セキュリティ情報を見る">

@@ -6,7 +6,6 @@
 <!ENTITY emptyTrashOnExit.label		"終了時にゴミ箱を空にする">
 <!ENTITY emptyTrashOnExit.accesskey	"x">
 <!ENTITY localPath.label		"メッセージの保存先:">
-<!ENTITY localPath.accesskey		"L">
 <!ENTITY localFolderPicker.label	"メッセージデータの保存先を選択してください">
 <!ENTITY browseFolder.label		"選択...">
 <!ENTITY browseFolder.accesskey		"B">

@@ -94,7 +94,7 @@
 <!ENTITY makePageBackgroundCheckbox.label	"背景画像として使用する">
 <!ENTITY makePageBackgroundCheckbox.tooltip	"画像をページの背景画像として使用します">
 <!ENTITY editImageButton.label			"画像を編集">
-<!ENTITY editImageButton.tooltip		"別のプログラムで画像を編集します">
+<!ENTITY editImageButton.tooltip		"別のアプリケーションで画像を編集します">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label		"フォーム">

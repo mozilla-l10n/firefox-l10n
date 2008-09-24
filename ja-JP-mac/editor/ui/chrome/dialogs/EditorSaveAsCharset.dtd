@@ -47,7 +47,4 @@
 <!ENTITY documentTitleTitle.label "ページタイトル">
 <!ENTITY documentCharsetTitle.label "文字エンコーディング">
 <!ENTITY documentCharsetDesc.label "保存時の文字エンコーディングを選択してください:">
-<!ENTITY documentExportToText.label "テキストでエクスポート">
-
-
-
+<!ENTITY documentExportToText.label "テキストで書き出す">

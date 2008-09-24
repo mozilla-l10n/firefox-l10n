@@ -24,6 +24,9 @@
    -   Lorenzo Colitti   <lorenzo@colitti.com>
    -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
    -
+   - Localizer(s):
+   -   dynamis
+   -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
    - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
@@ -38,13 +41,16 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY folderProps.windowtitle.label           "情報">
+<!ENTITY folderProps.windowtitle.label		"情報">
 
 <!ENTITY generalInfo.label			"一般情報">
 <!ENTITY folderCharsetTab.label			"デフォルト文字エンコーディング:">
 <!ENTITY folderCharsetTab.accesskey		"E">
 <!ENTITY folderCharsetOverride.label		"この設定をフォルダ内のすべてのメッセージに適用する (各メッセージの文字エンコーディング指定や自動判別結果を無視する)">
 <!ENTITY folderCharsetOverride.accesskey	"A">
+<!ENTITY folderRebuildSummaryFile.label		"索引を再構築">
+<!ENTITY folderRebuildSummaryFile.accesskey	"R">
+<!ENTITY folderRebuildSummaryFileTip.label	"要約ファイルを再構築します">
 
 <!ENTITY retention.label			"保管ポリシー"><!-- (^^; Retention Policy -->
 <!ENTITY retentionUseDefault.label		"サーバの設定を使用する">
@@ -52,10 +58,11 @@
 <!ENTITY days.label				"日">
 <!ENTITY daysOld.label				"日">
 <!ENTITY message.label				"メッセージ">
-<!ENTITY retentionCleanup.label			"ディスク領域は古いメッセージを完全に削除するまで解放されません。">
-<!ENTITY retentionKeepMsg.label			"次の日数以上経過したメッセージを削除する">
-<!ENTITY retentionKeepMsg.accesskey		"m">
-<!ENTITY retentionKeepAll.label			"メッセージを削除しない">
+<!ENTITY retentionCleanup.label			"古いメッセージを恒久的に削除してディスク領域を開放できます。">
+<!-- (^^; 以下 am-offline.dtd にもあり -->
+<!ENTITY retentionDeleteMsg.label		"送信日時から次の日数以上経過したメッセージを削除する">
+<!ENTITY retentionDeleteMsg.accesskey		"m">
+<!ENTITY retentionKeepAll.label			"メッセージを自動削除しない">
 <!ENTITY retentionKeepAll.accesskey		"A">
 <!ENTITY retentionKeepNew.label			"次の数のメッセージを残して削除する">
 <!ENTITY retentionKeepNew.accesskey		"l">
@@ -71,9 +78,6 @@
 <!ENTITY offlineFolder.button.label		"今すぐダウンロード">
 <!ENTITY offlineFolder.button.accesskey		"D">
 
-<!ENTITY offlineFolder.check.label		"このフォルダをオフラインで使用する">
-<!ENTITY offlineFolder.button.label		"今すぐダウンロード">
-
 <!ENTITY selectofflineNewsgroup.check.label	"このニュースグループをオフラインで使用する">
 <!ENTITY selectofflineNewsgroup.check.accesskey	"o">
 <!ENTITY UseDefaultofflineNewsgroup.check.label	"アカウント設定のデフォルトを使用する">
@@ -83,15 +87,17 @@
 <!ENTITY folderProps.information.label		"情報:">
 <!ENTITY folderProps.name.label			"名前:">
 <!ENTITY folderProps.name.accesskey		"N">
+<!ENTITY folderProps.location.label		"場所:">
+<!ENTITY folderProps.location.accesskey		"L">
 
-<!ENTITY folderSharingTab.label			"共有"><!-- (^^; IMAP フォルダのプロパティ…動作要確認 -->
+<!ENTITY folderSharingTab.label			"共有">
 <!ENTITY privilegesDesc.label			"フォルダをネットワークユーザと共有し、アクセス権を表示や設定する">
 <!ENTITY privileges.button.label		"アクセス権限...">
 <!ENTITY privileges.button.accesskey		"P">
 <!ENTITY permissionsDesc.label			"以下のアクセス権限があります:">
 <!ENTITY folderType.label			"フォルダの種類:">
 
-<!ENTITY folderQuotaTab.label			"クォータ">
+<!ENTITY folderQuotaTab.label			"クォータ"><!-- (^^; RFC 2087 -->
 <!ENTITY folderQuotaRoot.label			"クォータルート:">
-<!ENTITY folderQuotaUsage.label			"使用:">
-<!ENTITY folderQuotaStatus.label		"状態:">
+<!ENTITY folderQuotaUsage.label			"使用容量:">
+<!ENTITY folderQuotaStatus.label		"状態割合:">

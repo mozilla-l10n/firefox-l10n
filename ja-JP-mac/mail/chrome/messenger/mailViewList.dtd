@@ -1,5 +1,4 @@
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
-<!ENTITY mailViewListTitle.label "メッセージビュー設定">
-<!ENTITY viewName.label "ビュー名">
-
+<!ENTITY mailViewListTitle.label	"絞り込み条件の設定">
+<!ENTITY viewName.label			"絞り込み条件名">

@@ -40,6 +40,8 @@
 <!ENTITY subscribeButton.accesskey	"S">
 <!ENTITY unsubscribeButton.label	"購読を解除">
 <!ENTITY unsubscribeButton.accesskey	"U">
+<!ENTITY newGroupsTab.label		"新しいグループ">
+<!ENTITY newGroupsTab.accesskey		"N">
 <!ENTITY refreshButton.label		"更新">
 <!ENTITY refreshButton.accesskey	"R">
 <!ENTITY stopButton.label		"中止">

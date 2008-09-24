@@ -35,7 +35,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY newDirectoryTitle.label	"LDAP サーバの情報">
+<!ENTITY newDirectoryTitle.label	"LDAP ディレクトリサーバの情報">
 <!ENTITY directoryName.label		"名前: ">
 <!ENTITY directoryName.accesskey	"n">
 <!ENTITY directoryHostname.label	"ホスト名: ">
@@ -67,9 +67,7 @@
 <!ENTITY return.label			"検索結果を">
 <!ENTITY return.accesskey		"r">
 <!ENTITY results.label			"件以上は表示しない">
-<!ENTITY offlineText.label		"オフライン作業時に利用できるよう、このディレクトリのコピーをローカルにダウンロードできます。">
-<!ENTITY downloadNowButton.label	"今すぐダウンロード">
-<!ENTITY downloadNowButton.accesskey	"D">
+<!ENTITY offlineText.label		"オフラインでも利用できるようにディレクトリのコピーをローカルにダウンロードしておくことができます。">
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.

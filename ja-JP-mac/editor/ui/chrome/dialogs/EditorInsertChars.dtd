@@ -19,8 +19,7 @@
    - Portions created by the Initial Developer are Copyright (C) 1998-1999 
    - the Initial Developer. All Rights Reserved.
    - 
-   - Contributor(s):
-   - Translated to Japanese by
+   - Localizer(s):
    -   Tsukasa Maruyama <mal@mozilla.gr.jp>
    -   Teiji Matsuba <matsuba@dream.com>
    -   dynamis
@@ -41,14 +40,14 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label	"文字を挿入">
-<!ENTITY category.label		"カテゴリ">
+<!ENTITY windowTitle.label	"文字や記号を挿入">
+<!ENTITY category.label		"文字種別">
 <!ENTITY letter.label		"英字:">
 <!ENTITY letter.accessKey	"L">
 <!ENTITY character.label	"文字:">
 <!ENTITY character.accessKey	"C">
-<!ENTITY accentUpper.label	"アクセント大文字">
-<!ENTITY accentLower.label	"アクセント小文字">
+<!ENTITY accentUpper.label	"アクセント付き大文字">
+<!ENTITY accentLower.label	"アクセント付き小文字">
 <!ENTITY otherUpper.label	"その他の大文字">
 <!ENTITY otherLower.label	"その他の小文字">
 <!ENTITY commonSymbols.label	"一般記号">
