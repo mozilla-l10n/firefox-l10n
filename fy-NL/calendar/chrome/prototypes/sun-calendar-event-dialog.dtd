@@ -99,7 +99,7 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "S">
 <!ENTITY  event.menu.options.link.label                       "Keppeling tafoegje…">
 <!ENTITY  event.menu.options.link.accesskey                   "K">
-<!ENTITY  event.menu.options.timezone.label                   "Tiidsoane">
+<!ENTITY  event.menu.options.timezone.label                   "Tiidsône">
 <!ENTITY  event.menu.options.timezone.accesskey               "s">
 <!ENTITY  event.menu.options.priority2.label                  "Prioriteit">
 <!ENTITY  event.menu.options.priority2.accesskey              "r">
@@ -174,7 +174,7 @@
 <!ENTITY task.status.accesskey                            "S">
 <!ENTITY event.repeat.label                               "Werhelje:" >
 <!ENTITY event.repeat.accesskey                           "r">
-<!ENTITY event.reminder.label                             "Werinnering:" >
+<!ENTITY event.reminder.label                             "Warskôging:" >
 <!ENTITY event.reminder.accesskey                         "n">
 <!ENTITY event.description.label                          "Beskriuwing:" >
 <!ENTITY event.description.accesskey                      "w">
@@ -191,7 +191,7 @@
 <!ENTITY event.url.label                                  "Byhearende keppeling:" >
 <!ENTITY event.priority2.label                            "Prioriteit:">
 
-<!ENTITY event.reminder.none.label                        "Gjin werinnering " >
+<!ENTITY event.reminder.none.label                        "Gjin warskôging " >
 <!ENTITY event.reminder.5minutes.before.label             "5 minuten dêrfoar" >
 <!ENTITY event.reminder.10minutes.before.label            "10 minuten dêrfoar" >
 <!ENTITY event.reminder.15minutes.before.label            "15 minuten dêrfoar" >
@@ -206,31 +206,31 @@
 <!ENTITY event.reminder.1week.before.label                "1 wike dêrfoar" >
 <!ENTITY event.reminder.custom.label                      "Oanpast…" >
 
-<!ENTITY event.reminder.multiple.label                    "Mear werinneringen…" >
+<!ENTITY event.reminder.multiple.label                    "Mear warskôgings…" >
 
 <!-- Recurrence dialog -->
 
 <!ENTITY recurrence.title.label                         "Werhelling bewurkje">
 
 <!ENTITY event.repeat.does.not.repeat.label             "Net werhelje">
-<!ENTITY event.repeat.daily.label                       "Daagliks">
-<!ENTITY event.repeat.weekly.label                      "Wikeliks">
-<!ENTITY event.repeat.every.weekday.label               "Elke wikedei">
-<!ENTITY event.repeat.bi.weekly.label                   "Twawikeliks">
-<!ENTITY event.repeat.monthly.label                     "Moanneliks">
+<!ENTITY event.repeat.daily.label                       "Deistich">
+<!ENTITY event.repeat.weekly.label                      "Wykliks">
+<!ENTITY event.repeat.every.weekday.label               "Elke wykdei">
+<!ENTITY event.repeat.bi.weekly.label                   "Twawykliks">
+<!ENTITY event.repeat.monthly.label                     "Moanliks">
 <!ENTITY event.repeat.yearly.label                      "Jierliks">
 <!ENTITY event.repeat.custom.label                      "Oanpast…">
 
 <!ENTITY event.recurrence.pattern.label                 "Werhellingspatroan">
 <!ENTITY event.recurrence.occurs.label                  "Werhelle:" >
-<!ENTITY event.recurrence.day.label                     "daagliks" >
-<!ENTITY event.recurrence.week.label                    "wikeliks" >
-<!ENTITY event.recurrence.month.label                   "moanneliks" >
+<!ENTITY event.recurrence.day.label                     "deistich" >
+<!ENTITY event.recurrence.week.label                    "wykliks" >
+<!ENTITY event.recurrence.month.label                   "moanliks" >
 <!ENTITY event.recurrence.year.label                    "jierliks" >
 
 <!ENTITY event.recurrence.pattern.every.label           "Elke" >
 <!ENTITY repeat.units.days.both                         "dei (dagen)" >
-<!ENTITY event.recurrence.pattern.every.weekday.label   "Elke wikedei" >
+<!ENTITY event.recurrence.pattern.every.weekday.label   "Elke wykdei" >
 
 <!ENTITY event.recurrence.pattern.weekly.every.label    "Elke" >
 <!ENTITY repeat.units.weeks.both                        "wike(n)">
@@ -307,16 +307,16 @@
 
 <!-- Reminder dialog -->
 
-<!ENTITY reminder.title.label                           "Oanpaste werinnering">
-<!ENTITY reminder.dialogtitle.label                     "Werinneringen ynstelle">
-<!ENTITY reminder.reminderDetails.label                 "Werinneringsdetails">
-<!ENTITY reminder.action.label                          "Aksje foar de werinnering kieze">
+<!ENTITY reminder.title.label                           "Oanpaste warskôging">
+<!ENTITY reminder.dialogtitle.label                     "Warskôgings ynstelle">
+<!ENTITY reminder.reminderDetails.label                 "Warskôgingsdetails">
+<!ENTITY reminder.action.label                          "Aksje foar de warskôging kieze">
 <!ENTITY reminder.action.alert.label                    "In warskôging toane">
 <!ENTITY reminder.action.email.label                    "In e-mail stjoere">
 <!ENTITY reminder.new.label                             "Nij">
 <!ENTITY reminder.delete.label                          "Fuortsmite">
 <!ENTITY reminder.relation.start.label                  "it barren begjint">
-<!ENTITY reminder.relation.end.label                    "it barren eindiget">
+<!ENTITY reminder.relation.end.label                    "it barren einiget">
 <!ENTITY reminder.add.label                             "Tafoegje">
 <!ENTITY reminder.add.accesskey                         "T">
 <!ENTITY reminder.remove.label                          "Fuortsmite">
@@ -338,7 +338,7 @@
 
 <!-- Timezone dialog -->
 
-<!ENTITY timezone.title.label            "Spesifisearje de tiidsoane">
+<!ENTITY timezone.title.label            "Spesifisearje de tiidsône">
 
 <!-- Read-Only dialog -->
 
@@ -352,7 +352,7 @@
 <!ENTITY read.only.accept.label          "Ik sil oanwêzich wêze">
 <!ENTITY read.only.decline.label         "Ik sil net oanwêzich wêze">
 <!ENTITY read.only.needs.action.label    "Ik sil letter befestigje">
-<!ENTITY read.only.reminder.label        "Werinnering:">
+<!ENTITY read.only.reminder.label        "Warskôging:">
 <!ENTITY read.only.attendees.label       "Dielnimmers">
 <!ENTITY read.only.description.label     "Beskriuwing">
 <!ENTITY read.only.documents.label       "Dokuminten">

@@ -47,8 +47,8 @@
 <!ENTITY pref.dateformat.short "Koart"  >
 <!ENTITY pref.defaultlength.label "Standert barrensdjoer:" >
 <!ENTITY pref.defaultlength.accesskey "b">
-<!ENTITY pref.defaultsnoozelength.label "Standert sluimerdjoer:" >
+<!ENTITY pref.defaultsnoozelength.label "Standert slommerdjoer:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "s">
-<!ENTITY pref.refreshbox.label "Ferfersingsynstellings" >
-<!ENTITY pref.autorefresh.label "Aginda’s ferferse om de" >
+<!ENTITY pref.refreshbox.label "Ferfarskingsynstellings" >
+<!ENTITY pref.autorefresh.label "Aginda’s ferfarskje om de" >
 <!ENTITY pref.autorefresh.accesskey "r" >
