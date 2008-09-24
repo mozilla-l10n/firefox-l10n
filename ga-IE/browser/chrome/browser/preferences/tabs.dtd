@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label "Ba chóir leathanaigh nua a oscailt:">
-<!ENTITY inNewWindow.label "i bhfuinneog nua">
-<!ENTITY inNewWindow.accesskey "f">
-<!ENTITY inNewTab.label "i gcluaisín nua">
-<!ENTITY inNewTab.accesskey "c">
+<!ENTITY newWindowsAsTabs.label "Oscail fuinneoga nua i gcluaisín nua">
+<!ENTITY newWindowsAsTabs.accesskey "g">
 
 <!ENTITY warnCloseMultipleTabs.label "Tabhair rabhadh dom agus cluaisíní iomadúla á ndúnadh">
 <!ENTITY warnCloseMultipleTabs.accesskey "m">
