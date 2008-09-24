@@ -52,12 +52,13 @@
 <!ENTITY addressingEnable.accesskey            "A">
 <!ENTITY directories.label                     "Servidor de directorios:">
 <!ENTITY directories.accesskey                 "D">
-<!ENTITY editDirectories.label                 "Editar directorios...">
+<!ENTITY directoriesNone.label                 "Ninguno">
+<!ENTITY editDirectories.label                 "Editar directorios…">
 <!ENTITY editDirectories.accesskey             "E">
 <!ENTITY matchText.label                       "Si hay una coincidencia en su libreta de direcciones:">
 <!ENTITY skipDirectory.label                   "No buscar en el directorio">
 
 <!ENTITY sendOptionsCaption.label              "Enviar y opciones de HTML">
 <!ENTITY sendOptionsDescription.label          "Configurar el comportamiento del formato de texto">
-<!ENTITY sendOptions.label                     "Opciones de envío...">
+<!ENTITY sendOptions.label                     "Opciones de envío…">
 <!ENTITY sendOptions.accesskey                 "O">
