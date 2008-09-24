@@ -218,7 +218,7 @@
 <!ENTITY event.repeat.every.weekday.label               "Elke wikedei">
 <!ENTITY event.repeat.bi.weekly.label                   "Twawikeliks">
 <!ENTITY event.repeat.monthly.label                     "Moanneliks">
-<!ENTITY event.repeat.yearly.label                      "Ierliks">
+<!ENTITY event.repeat.yearly.label                      "Jierliks">
 <!ENTITY event.repeat.custom.label                      "Oanpast…">
 
 <!ENTITY event.recurrence.pattern.label                 "Werhellingspatroan">
@@ -226,7 +226,7 @@
 <!ENTITY event.recurrence.day.label                     "daagliks" >
 <!ENTITY event.recurrence.week.label                    "wikeliks" >
 <!ENTITY event.recurrence.month.label                   "moanneliks" >
-<!ENTITY event.recurrence.year.label                    "ierliks" >
+<!ENTITY event.recurrence.year.label                    "jierliks" >
 
 <!ENTITY event.recurrence.pattern.every.label           "Elke" >
 <!ENTITY repeat.units.days.both                         "dei (dagen)" >
@@ -256,7 +256,7 @@
 <!ENTITY event.recurrence.repeat.recur.label            "Werhelje op dei(dagen)">
 
 <!ENTITY event.recurrence.every.label                        "Elke:" >
-<!ENTITY repeat.units.years.both                             "ier" >
+<!ENTITY repeat.units.years.both                             "jier" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Elke" >
 <!ENTITY event.recurrence.pattern.yearly.every.weekday.label "Elke" >
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "jannewaris" >
