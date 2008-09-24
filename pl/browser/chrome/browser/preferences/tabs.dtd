@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label             "Nowe strony powinny być otwierane:">
-<!ENTITY inNewWindow.label            "w nowym oknie">
-<!ENTITY inNewWindow.accesskey        "o">
-<!ENTITY inNewTab.label               "w nowej karcie">
-<!ENTITY inNewTab.accesskey           "k">
+<!ENTITY newWindowsAsTabs.label       "Otwieraj nowe karty zamiast nowych okien">
+<!ENTITY newWindowsAsTabs.accesskey   "O">
 
 <!ENTITY warnCloseMultipleTabs.label      "Ostrzegaj przed zamknięciem wielu kart">
 <!ENTITY warnCloseMultipleTabs.accesskey  "t">
