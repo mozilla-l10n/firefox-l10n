@@ -36,12 +36,12 @@
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Conversación">
-<!ENTITY senderColumn.label "Remitente">
+<!ENTITY fromColumn.label "De">
 <!ENTITY recipientColumn.label "Destinatario">
 <!ENTITY subjectColumn.label "Asunto">
 <!ENTITY dateColumn.label "Fecha">
 <!ENTITY priorityColumn.label "Prioridad">
-<!ENTITY labelColumn.label "Etiqueta">
+<!ENTITY tagsColumn.label "Etiquetas">
 <!ENTITY accountColumn.label "Cuenta">
 <!ENTITY statusColumn.label "Estado">
 <!ENTITY sizeColumn.label "Tamaño">

@@ -1,16 +1,20 @@
 <!-- extracted from am-addressing.xul -->
+
 <!ENTITY addressing.label "Redacción y direcciones">
 <!ENTITY addressingGroupTitle.label "Direcciones">
 <!ENTITY addressingText.label "Cuando se busquen direcciones:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label "Utilizar mis preferencias de servidor LDAP globales para esta cuenta">
 <!ENTITY useGlobal.accesskey "U">
-<!ENTITY editDirectories.label "Editar directorios...">
+<!ENTITY editDirectories.label "Editar directorios…">
 <!ENTITY editDirectories.accesskey "E">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "Utilizar un servidor LDAP diferente:">
 <!ENTITY directories.accesskey "D">
+<!ENTITY directoriesNone.label     "Ninguno">
+
 <!-- am-addressing.xul -->
+
 <!ENTITY compositionGroupTitle.label "Redacción">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label "Redactar mensajes en formato HTML">

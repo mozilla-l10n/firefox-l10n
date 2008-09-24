@@ -56,7 +56,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importTitle.label "Asistente de &brandShortName; para importar correo">
 <!ENTITY importShortDesc.label "Importar correo, libretas de direcciones, configuraciones y filtros de otros programas">
 
-<!ENTITY importDescription.label "Este asistente importará los mensajes de correo, entradas en la libreta de direcciones, y/o preferencias desde otros programas y archivos de direcciones en el correo de &brandShortName;.">
+<!ENTITY importDescription1.label "Este asistente importará los mensajes de correo, entradas en la libreta de direcciones, preferencias y/o filtros desde otros programas y libretas de direcciones a &brandShortName;.">
 <!ENTITY importDescription2.label "Cuando hayan sido importados, podrá acceder a ellos desde el correo de &brandShortName; y/o la libreta de direcciones.">
 
 <!ENTITY selectDescription.label "Por favor, seleccione el programa del que quiere importar datos:">

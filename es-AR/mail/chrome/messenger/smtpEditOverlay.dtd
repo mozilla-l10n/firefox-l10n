@@ -1,23 +1,25 @@
 <!ENTITY settings.caption "Opciones">
-<!ENTITY security.caption "Seguridad y Autenticación">
+<!ENTITY security.caption "Seguridad y autenticación">
 <!ENTITY serverName.label "Nombre del servidor:">
 <!ENTITY serverName.accesskey "s">
 <!ENTITY serverDescription.label "Descripción:">
 <!ENTITY serverDescription.accesskey "D">
 <!ENTITY serverPort.label "Puerto:">
 <!ENTITY serverPort.accesskey "P">
-<!ENTITY alwaysUseUsername.label "Utilizar nombre y contraseña">
+<!ENTITY alwaysUseUsername.label "Usar nombre y contraseña">
 <!ENTITY alwaysUseUsername.accesskey "U">
 <!ENTITY userName.label "Nombre de usuario:">
 <!ENTITY userName.accesskey "m">
+<!ENTITY useSecAuth.label "Utilizar autenticación segura">
+<!ENTITY useSecAuth.accesskey "i">
 <!ENTITY isSecure.label "Utilizar conexión segura:">
 <!ENTITY neverSecure.label "No">
 <!ENTITY neverSecure.accesskey "N">
-<!ENTITY sometimesSecure.label "TLS, si está disponible">
-<!ENTITY sometimesSecure.accesskey "b">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSmtpS.label "SSL">
-<!ENTITY alwaysSmtpS.accesskey "L">
+<!ENTITY sometimesSTARTTLS.label "STARTTLS, si está disponible">
+<!ENTITY sometimesSTARTTLS.accesskey "a">
+<!ENTITY alwaysSTARTTLS.label "STARTTLS">
+<!ENTITY alwaysSTARTTLS.accesskey "T">
+<!ENTITY alwaysSMTPOverSSL.label "SMTP-sobre-SSL">
+<!ENTITY alwaysSMTPOverSSL.accesskey "L">
 <!ENTITY smtpEditTitle.label "Servidor SMTP">
 <!ENTITY serverPortDefault.label "Predeterminado:">

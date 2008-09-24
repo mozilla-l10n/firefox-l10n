@@ -1,7 +1,7 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Para ahorrar espacio en disco, no descargar:">
 <!ENTITY doNotDownload.label "Para ahorrar espacio en disco, no descargar para su uso sin conexión:">
-<!ENTITY offlineNewFolder.label "Al crear carpetas nuevas, seleccionarlas para el modo sin conexión">
-<!ENTITY offlineNewFolder.accesskey "c">
+<!ENTITY allFoldersOffline.label "Mantener mensajes para esta cuenta en esta computadora">
+<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Mensajes de tamaño superior a">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY kb.label "KB">
@@ -25,10 +25,7 @@
 <!ENTITY nntpRemoveBody.accesskey "o">
 <!ENTITY offlineSelectNntp.label "Seleccionar grupos de noticias para su uso sin conexión…">
 <!ENTITY offlineSelectNntp.accesskey "S">
-<!ENTITY offlineSelectImap.label "Seleccionar carpetas para su uso sin conexión…">
-<!ENTITY offlineSelectImap.accesskey "S">
-<!ENTITY offlineDesc.label "Puede descargar sus mensajes localmente para tenerlos disponibles cuando trabaje sin conexión.">
-<!ENTITY makeInboxMsgsAvailable.label "Hacer que los mensajes en mi carpeta de entrada estén disponibles cuando trabaje desconectado">
-<!ENTITY makeInboxMsgsAvailable.accesskey "b">
-<!ENTITY offlineGroupTitle.label "Sin conexión">
+<!ENTITY offlineImapAdvancedOffline.label "Avanzadas…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "A">
+<!ENTITY syncGroupTitle.label "Sincronización de mensajes">
 <!ENTITY diskspaceGroupTitle.label "Espacio en disco">
