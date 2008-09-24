@@ -68,7 +68,7 @@
 <!ENTITY modify.accesskey "U">
 <!ENTITY toggle.label "Prepnúť">
 <!ENTITY toggle.accesskey "P">
-<!ENTITY reset.label "Obnoviť">
+<!ENTITY reset.label "Obnoviť predvolenú hodnotu">
 <!ENTITY reset.accesskey "b">
 <!ENTITY new.label "Nové">
 <!ENTITY new.accesskey "o">

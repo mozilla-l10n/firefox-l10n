@@ -70,6 +70,7 @@
 <!ENTITY viewSourceMenuItem.accesskey "z">
 
 <!ENTITY hideDetailsButton.label "skryť detaily">
+<!ENTITY showDetailsButton.label "zobraziť detaily">
 
 <!ENTITY openAttachmentCmd.label "Otvoriť">
 <!ENTITY openAttachmentCmd.accesskey "O">
