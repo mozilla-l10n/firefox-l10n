@@ -34,7 +34,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY header.title		"ツールバー">
+<!ENTITY pref.toolbars.title	"ツールバー">
 
 <!ENTITY composition.caption	"構成ツールバーに次のボタンを表示する:">
 

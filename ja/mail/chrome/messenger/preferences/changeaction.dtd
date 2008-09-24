@@ -1,13 +1,13 @@
 <!-- (^^; browser/preferences/changeaction.dtd とほぼ同一(Thunderbird では一部しか使用されない) -->
 
-<!ENTITY  changeAction.title		"添付ファイルを開く時の動作設定">
+<!ENTITY  changeAction.title		"動作設定の変更">
 <!ENTITY  window.width			"36em">
 
-<!ENTITY  whenDownloading.label		"この種類の添付ファイルを開く時は次のように処理する:">
+<!ENTITY  whenDownloading.label		"この種類の添付ファイルを開くときは次のように処理する:">
 
-<!ENTITY  openDefault.label		"既定のアプリケーションで開く:">
+<!ENTITY  openDefault.label		"既定のプログラムで開く:">
 <!ENTITY  openDefault.accesskey		"O">
-<!ENTITY  openApplication.label		"指定したアプリケーションで開く:">
+<!ENTITY  openApplication.label		"指定したプログラムで開く:">
 <!ENTITY  openApplication.accesskey	"e">
 <!ENTITY  changeApp.label		"参照...">
 <!ENTITY  changeApp.accesskey		"B">

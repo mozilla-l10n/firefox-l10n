@@ -1,22 +1,21 @@
-<!ENTITY  lHeader			"新しいページの設定">
-<!ENTITY  rHeader			"新しいページの既定の設定">
+<!ENTITY  pref.editing.title		"新しいページの設定">
 
 <!ENTITY  authorName.label		"作成者:">
 <!ENTITY  authorName.accesskey		"u">
 <!ENTITY  pageColorHeader		"既定のページ設定">
 
-<!ENTITY defaultColorsRadio.label	"読者指定の配色を使う (ページの配色を指定しない)">
+<!ENTITY defaultColorsRadio.label	"ページで配色を指定しない">
 <!ENTITY defaultColors.accesskey	"d">
 <!ENTITY customColorsRadio.label	"配色を指定する:">
 <!ENTITY customColors.accesskey		"c">
 
-<!ENTITY normalText.label		"普通のテキスト">
+<!ENTITY normalText.label		"通常のテキスト">
 <!ENTITY normalText.accesskey		"N">
-<!ENTITY linkText.label			"リンクのテキスト">
+<!ENTITY linkText.label			"リンクテキスト">
 <!ENTITY linkText.accesskey		"L">
-<!ENTITY activeLinkText.label		"アクティブなリンクのテキスト">
+<!ENTITY activeLinkText.label		"アクティブリンク">
 <!ENTITY activeLinkText.accesskey	"A">
-<!ENTITY visitedLinkText.label		"訪問済みリンクのテキスト">
+<!ENTITY visitedLinkText.label		"訪問済リンク">
 <!ENTITY visitedLinkText.accesskey	"V">
 <!ENTITY background.label		"背景:">
 <!ENTITY background.accesskey		"B">

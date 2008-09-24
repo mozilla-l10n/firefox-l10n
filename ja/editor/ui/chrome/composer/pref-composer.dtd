@@ -2,14 +2,12 @@
 
 <!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
 
-<!--LOCALIZATION NOTE (title.label): DONT_TRANSLATE -->
-<!ENTITY  title.label			"Composer">
-<!ENTITY  lHeader			"Composer">
-<!ENTITY  rHeader			"Web ページオーサリングの設定">
+<!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
+<!ENTITY  pref.composer.title           "Composer">
 
 <!ENTITY  saving			"保存">
 <!ENTITY  AutoSaveCheck			""><!-- (^^; Automatically save every -->
-<!ENTITY  minText			"分毎に自動保存する"><!-- (^^; minutes -->
+<!ENTITY  minText			"分ごとに自動保存する"><!-- (^^; minutes -->
 
 <!ENTITY  exterLegend.label		"外部エディタ">
 <!ENTITY  htmlSource			"HTML ソース:">
@@ -30,8 +28,10 @@
 <!ENTITY  showPublishDialog.accesskey	"A">
 
 <!ENTITY  composerEditing.label		"編集">
+<!ENTITY  spellCheckInline.label	"自動スペルチェックを使用する">
+<!ENTITY  spellCheckInline.accesskey	"C">
 <!ENTITY  maintainStructure.label	"表にセルを挿入や削除するときにレイアウトを維持する">
-<!ENTITY  maintainStructure.tooltip	"表にセルを挿入や削除しても、表が長方形になるよう自動的にセルを追加します">
+<!ENTITY  maintainStructure.tooltip	"表にセルを挿入や削除しても、表全体で四角形になるよう自動的にセルを追加します">
 <!ENTITY  maintainStructure.accesskey	"M">
 <!ENTITY  useCSS.label			"HTML 要素と属性ではなく CSS によってスタイルを設定する">
 <!ENTITY  useCSS.accesskey		"U">

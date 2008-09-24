@@ -4,29 +4,26 @@
    - The contents of this file are subject to the Mozilla Public License Version
    - 1.1 (the "License"); you may not use this file except in compliance with
    - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/ 
-   - 
+   - http://www.mozilla.org/MPL/
+   -
    - Software distributed under the License is distributed on an "AS IS" basis,
    - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
    - for the specific language governing rights and limitations under the
    - License.
-   - 
+   -
    - The Original Code is Mozilla Communicator client code, released
    - March 31, 1998.
    -
    - The Initial Developer of the Original Code is
    - Netscape Communications Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 1998-1999 
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
    - the Initial Developer. All Rights Reserved.
-   - 
+   -
    - Contributor(s):
-   - 
-   - Translated to Japanese by
-   -            Kazu Yamamoto <kazu@mozilla.gr.jp>
-   -            Ryoichi Furukawa <furu@mozilla.gr.jp>
-   -            Tsukasa Maruyama <mal@mozilla.gr.jp>
-   -            Teiji Matsuba <matsuba@dream.com>
-   - 
+   -
+   - Localizer(s):
+   -   dynamis
+   -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
    - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
@@ -38,30 +35,30 @@
    - and other provisions required by the GPL or the LGPL. If you do not delete
    - the provisions above, a recipient may use your version of this file under
    - the terms of any one of the MPL, the GPL or the LGPL.
-   - 
+   -
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "ページの配色と背景">
-<!ENTITY pageColors.label "ページの配色">
-<!ENTITY defaultColorsRadio.label "読者の既定の色 (ページに配色を設定しない)">
-<!ENTITY defaultColorsRadio.accessKey "D">
-<!ENTITY defaultColorsRadio.tooltip "ビューア(読者)のブラウザからの色設定だけを使用する">
-<!ENTITY customColorsRadio.label "ユーザ定義色の使用:">
-<!ENTITY customColorsRadio.accessKey "C">
-<!ENTITY customColorsRadio.tooltip "これらの色設定はビューアのブラウザ設定を上書きします">
+<!ENTITY windowTitle.label		"ページの配色と背景">
+<!ENTITY pageColors.label		"ページの配色">
+<!ENTITY defaultColorsRadio.label	"ページで配色を指定しない">
+<!ENTITY defaultColorsRadio.accessKey	"D">
+<!ENTITY defaultColorsRadio.tooltip	"読者の使用する既定の色を使用します">
+<!ENTITY customColorsRadio.label	"配色を指定する:">
+<!ENTITY customColorsRadio.accessKey	"C">
+<!ENTITY customColorsRadio.tooltip	"読者の使用する既定の色を上書き指定します">
 
-<!ENTITY normalText.label "普通の文字列">
-<!ENTITY normalText.accessKey "N">
-<!ENTITY linkText.label "リンク">
-<!ENTITY linkText.accessKey "L">
-<!ENTITY activeLinkText.label "アクティブなリンク">
-<!ENTITY activeLinkText.accessKey "A">
-<!ENTITY visitedLinkText.label "訪問済みのリンク">
-<!ENTITY visitedLinkText.accessKey "V">
-<!ENTITY background.label "背景:">
-<!ENTITY background.accessKey "B">
-<!ENTITY colon.character ":">
-<!ENTITY backgroundImage.label "背景画像:">
-<!ENTITY backgroundImage.accessKey "m">
-<!ENTITY backgroundImage.tooltip "画像ファイルをページの背景として使用する">
+<!ENTITY normalText.label		"通常のテキスト">
+<!ENTITY normalText.accessKey		"N">
+<!ENTITY linkText.label			"リンクテキスト">
+<!ENTITY linkText.accessKey		"L">
+<!ENTITY activeLinkText.label		"アクティブリンク">
+<!ENTITY activeLinkText.accessKey	"A">
+<!ENTITY visitedLinkText.label		"訪問済リンク">
+<!ENTITY visitedLinkText.accessKey	"V">
+<!ENTITY background.label		"背景:">
+<!ENTITY background.accessKey		"B">
+<!ENTITY colon.character		":">
+<!ENTITY backgroundImage.label		"背景画像:">
+<!ENTITY backgroundImage.accessKey	"m">
+<!ENTITY backgroundImage.tooltip	"画像ファイルをページの背景として使用します">

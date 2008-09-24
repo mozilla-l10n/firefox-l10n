@@ -1,11 +1,8 @@
 <!ENTITY virtualFolderProperties.title	"新しい検索フォルダ">
 <!ENTITY name.label			"名前:">
-<!ENTITY name.accesskey			"n">
+<!ENTITY name.accesskey			"N">
 <!ENTITY description.label		"作成先:">
 <!ENTITY description.accesskey		"C">
-<!ENTITY searchCriteriaText.label	"検索フォルダで使用する検索条件:">
-<!ENTITY searchCriteriaButton.label	"検索条件...">
-<!ENTITY searchCriteriaButton.accesskey	"S">
 
 <!ENTITY searchTermCaption.label	"検索フォルダで使用する検索条件を設定してください:">
 
@@ -14,4 +11,4 @@
 <!ENTITY chooseFoldersButton.accesskey	"h">
 
 <!ENTITY searchOnline.label		"オンラインで検索 (IMAP や ニュースフォルダでも最新の結果が得られますが、フォルダを開くのに時間がかかります)">
-<!ENTITY searchOnline.accesskey		"O">
+<!ENTITY searchOnline.accesskey		"S">

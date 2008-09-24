@@ -20,6 +20,13 @@
    -
    - Contributor(s): Neil Rashbrook <neil@parkwaycc.co.uk>
    -
+   - Localizer(s):
+   -   Kazu Yamamoto <kazu@mozilla.gr.jp>
+   -   Ryoichi Furukawa <furu@mozilla.gr.jp>
+   -   Tsukasa Maruyama <mal@mozilla.gr.jp>
+   -   Teiji Matsuba <matsuba@dream.com>
+   -   dynamis
+   -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
    - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
@@ -32,55 +39,49 @@
    - the provisions above, a recipient may use your version of this file under
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
-   - Translated to Japanese by
-   -            Kazu Yamamoto <kazu@mozilla.gr.jp>
-   -            Ryoichi Furukawa <furu@mozilla.gr.jp>
-   -            Tsukasa Maruyama <mal@mozilla.gr.jp>
-   -            Teiji Matsuba <matsuba@dream.com>
-   -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "入力のプロパティ">
-<!ENTITY windowTitleImage.label "画像のプロパティ">
+<!ENTITY windowTitle.label		"フォーム要素のプロパティ">
+<!ENTITY windowTitleImage.label		"イメージボタンのプロパティ">
 
-<!ENTITY InputType.label "入力形式(type)">
-<!ENTITY InputType.accesskey "T">
-<!ENTITY text.value "一行入力(text)">
-<!ENTITY password.value "パスワード(password)">
-<!ENTITY checkbox.value "チェックボックス(checkbox)">
-<!ENTITY radio.value "ラジオボタン(radio)">
-<!ENTITY submit.value "送信ボタン(submit)">
-<!ENTITY reset.value "クリアボタン(reset)">
-<!ENTITY file.value "ファイル選択(file)">
-<!ENTITY hidden.value "隠し項目(hidden)">
-<!ENTITY image.value "画像(image)">
-<!ENTITY button.value "ボタン(button)">
+<!ENTITY InputType.label		"フォーム要素の種類">
+<!ENTITY InputType.accesskey		"T">
+<!ENTITY text.value			"一行入力フィールド">
+<!ENTITY password.value			"パスワード入力フィールド">
+<!ENTITY checkbox.value			"チェックボックス">
+<!ENTITY radio.value			"ラジオボタン">
+<!ENTITY submit.value			"送信ボタン">
+<!ENTITY reset.value			"リセットボタン">
+<!ENTITY file.value			"ファイル選択ボタン">
+<!ENTITY hidden.value			"隠しフィールド">
+<!ENTITY image.value			"イメージボタン">
+<!ENTITY button.value			"ボタン">
 
-<!ENTITY InputSettings.label "入力設定">
-<!ENTITY InputName.label "項目名(name):">
-<!ENTITY GroupName.label "項目グループ名(name):">
-<!ENTITY Name.accesskey "N">
-<!ENTITY InputValue.label "値(value):">
-<!ENTITY InitialValue.label "初期値(value):">
-<!ENTITY Value.accesskey "V">
-<!ENTITY InputChecked.label "初期値を選択に(checked)">
-<!ENTITY InputChecked.accesskey "C">
-<!ENTITY InputSelected.label "初期値を選択に(selected)">
-<!ENTITY InputSelected.accesskey "S">
-<!ENTITY InputReadOnly.label "表示のみ(readonly)">
-<!ENTITY InputReadOnly.accesskey "R">
-<!ENTITY InputDisabled.label "無効化(disabled)">
-<!ENTITY InputDisabled.accesskey "D">
-<!ENTITY tabIndex.label "タブの順番(tabindex):">
-<!ENTITY tabIndex.accesskey "I">
-<!ENTITY TextSize.label "入力の幅(size):">
-<!ENTITY TextSize.accesskey "F">
-<!ENTITY TextLength.label "入力の最大文字数(maxlength):">
-<!ENTITY TextLength.accesskey "L">
-<!ENTITY AccessKey.label "アクセスキー(accesskey):">
-<!ENTITY AccessKey.accesskey "K">
-<!ENTITY Accept.label "MIMEタイプ(accept):">
-<!ENTITY Accept.accesskey "A">
+<!ENTITY InputSettings.label		"入力設定">
+<!ENTITY InputName.label		"名前:">
+<!ENTITY GroupName.label		"グループ名:">
+<!ENTITY Name.accesskey			"N">
+<!ENTITY InputValue.label		"値:">
+<!ENTITY InitialValue.label		"初期値:">
+<!ENTITY Value.accesskey		"V">
+<!ENTITY InputChecked.label		"初期値を選択に">
+<!ENTITY InputChecked.accesskey		"C">
+<!ENTITY InputSelected.label		"初期値を選択に">
+<!ENTITY InputSelected.accesskey	"S">
+<!ENTITY InputReadOnly.label		"表示のみ">
+<!ENTITY InputReadOnly.accesskey	"R">
+<!ENTITY InputDisabled.label		"無効化">
+<!ENTITY InputDisabled.accesskey	"D">
+<!ENTITY tabIndex.label			"タブインデックス:">
+<!ENTITY tabIndex.accesskey		"I">
+<!ENTITY TextSize.label			"フィールドの幅:">
+<!ENTITY TextSize.accesskey		"F">
+<!ENTITY TextLength.label		"最大文字数:">
+<!ENTITY TextLength.accesskey		"L">
+<!ENTITY AccessKey.label		"アクセスキー:">
+<!ENTITY AccessKey.accesskey		"K">
+<!ENTITY Accept.label			"MIME タイプ:">
+<!ENTITY Accept.accesskey		"A">
 
-<!ENTITY ImageProperties.label "画像プロパティ...">
-<!ENTITY ImageProperties.accesskey "E">
+<!ENTITY ImageProperties.label		"画像のプロパティ...">
+<!ENTITY ImageProperties.accesskey	"E">

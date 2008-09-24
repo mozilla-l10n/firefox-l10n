@@ -20,6 +20,9 @@
    -
    - Contributor(s): Neil Rashbrook <neil@parkwaycc.co.uk>
    -
+   - Localizer(s):
+   -   dynamis
+   -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
    - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
@@ -32,37 +35,34 @@
    - the provisions above, a recipient may use your version of this file under
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
-   -  Update by 
-   -   Teiji Matusba <matsuba@dream.com>
-   - 
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "テキストエリアのプロパティ">
+<!ENTITY windowTitle.label		"テキストエリアのプロパティ">
 
-<!ENTITY Settings.label "設定">
+<!ENTITY Settings.label			"設定">
 
-<!ENTITY TextAreaName.label "項目名(name):">
-<!ENTITY TextAreaName.accessKey "N">
-<!ENTITY TextAreaRows.label "行数(rows):">
-<!ENTITY TextAreaRows.accessKey "R">
-<!ENTITY TextAreaCols.label "幅(cols):">
-<!ENTITY TextAreaCols.accessKey "C">
-<!ENTITY TextAreaReadOnly.label "表示のみ(readonly)">
-<!ENTITY TextAreaReadOnly.accessKey "O">
-<!ENTITY TextAreaDisabled.label "無効化(disabled)">
-<!ENTITY TextAreaDisabled.accessKey "D">
-<!ENTITY TextAreaTabIndex.label "タブの順番(tabindex):">
-<!ENTITY TextAreaTabIndex.accessKey "I">
-<!ENTITY TextAreaAccessKey.label "アクセスキー(accesskey):">
-<!ENTITY TextAreaAccessKey.accessKey "K">
-<!ENTITY InitialText.label "初期テキスト:">
-<!ENTITY InitialText.accessKey "T">
+<!ENTITY TextAreaName.label		"名前:">
+<!ENTITY TextAreaName.accessKey		"N">
+<!ENTITY TextAreaRows.label		"行数:">
+<!ENTITY TextAreaRows.accessKey		"R">
+<!ENTITY TextAreaCols.label		"幅:">
+<!ENTITY TextAreaCols.accessKey		"C">
+<!ENTITY TextAreaReadOnly.label		"表示のみ">
+<!ENTITY TextAreaReadOnly.accessKey	"O">
+<!ENTITY TextAreaDisabled.label		"無効化">
+<!ENTITY TextAreaDisabled.accessKey	"D">
+<!ENTITY TextAreaTabIndex.label		"タブインデックス:">
+<!ENTITY TextAreaTabIndex.accessKey	"I">
+<!ENTITY TextAreaAccessKey.label	"アクセスキー:">
+<!ENTITY TextAreaAccessKey.accessKey	"K">
+<!ENTITY InitialText.label		"テキストの初期値:">
+<!ENTITY InitialText.accessKey		"T">
 
-<!ENTITY TextAreaWrap.label "改行方法:">
-<!ENTITY TextAreaWrap.accessKey "W">
-<!ENTITY WrapDefault.value "標準">
-<!ENTITY WrapOff.value "なし(off)">
-<!ENTITY WrapHard.value "改行して送信(hard)">
-<!ENTITY WrapSoft.value "改行して表示(soft)">
-<!ENTITY WrapPhysical.value "物理改行(physical)">
-<!ENTITY WrapVirtual.value "論理改行(virtual)">
+<!ENTITY TextAreaWrap.label		"改行方法:">
+<!ENTITY TextAreaWrap.accessKey		"W">
+<!ENTITY WrapDefault.value		"標準">
+<!ENTITY WrapOff.value			"自動改行しない">
+<!ENTITY WrapHard.value			"自動改行する(hard)">
+<!ENTITY WrapSoft.value			"表示のみ改行(soft)">
+<!ENTITY WrapPhysical.value		"自動改行する(physical)">
+<!ENTITY WrapVirtual.value		"表示のみ改行(virtual)">

@@ -3,7 +3,7 @@
 <!ENTITY msgComposeWindow.title		"作成: (件名なし)">
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label			"ファイル"> 
+<!ENTITY fileMenu.label			"ファイル">
 <!ENTITY fileMenu.accesskey		"f">
 <!ENTITY newMenu.label			"新規作成">
 <!ENTITY newMenu.accesskey		"N">
@@ -22,8 +22,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label		"vCard">
 <!ENTITY attachVCardCmd.accesskey	"P">
-<!ENTITY closeCmd.label			"閉じる">  
-<!ENTITY closeCmd.key			"W">  
+<!ENTITY closeCmd.label			"閉じる">
+<!ENTITY closeCmd.key			"W">
 <!ENTITY closeCmd.accesskey		"c">
 <!ENTITY saveCmd.label			"保存">
 <!ENTITY saveCmd.key			"S">
@@ -36,12 +36,10 @@
 <!ENTITY saveAsDraftCmd.accesskey	"D">
 <!ENTITY saveAsTemplateCmd.label	"テンプレート">
 <!ENTITY saveAsTemplateCmd.accesskey	"T">
-<!ENTITY offlineGoOfflineCmd.label	"オフラインにする">
-<!ENTITY offlineGoOfflineCmd.accesskey	"w">
 <!ENTITY sendNowCmd.label		"今すぐ送信">
 <!ENTITY sendCmd.keycode		"VK_RETURN">
 <!ENTITY sendNowCmd.accesskey		"d">
-<!ENTITY sendLaterCmd.label		"あとで送信">
+<!ENTITY sendLaterCmd.label		"後で送信">
 <!ENTITY sendLaterCmd.keycode		"VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey		"L">
 <!ENTITY printSetupCmd.label		"ページ設定...">
@@ -49,9 +47,9 @@
 <!ENTITY printCmd.label			"印刷...">
 <!ENTITY printCmd.key			"P">
 <!ENTITY printCmd.accesskey		"P">
-<!ENTITY quitApplicationCmdWin.label	"終了"> 
+<!ENTITY quitApplicationCmdWin.label	"終了">
 <!ENTITY quitApplicationCmdWin.accesskey "x">
-<!ENTITY quitApplicationCmd.label	"終了"> 
+<!ENTITY quitApplicationCmd.label	"終了">
 <!ENTITY quitApplicationCmd.accesskey	"Q">
 <!ENTITY quitApplicationCmd.key		"Q">
 
@@ -74,6 +72,7 @@
 <!ENTITY pasteCmd.key			"V">
 <!ENTITY pasteCmd.accesskey		"p">
 <!ENTITY editRewrapCmd.label		"再改行">
+<!ENTITY editRewrapCmd.key		"R">
 <!ENTITY editRewrapCmd.accesskey	"w">
 <!ENTITY deleteCmd.label		"削除">
 <!ENTITY deleteCmd.key			"D">
@@ -94,18 +93,18 @@
 <!ENTITY findPrevCmd.accesskey		"v">
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label			"表示">
-<!ENTITY viewMenu.accesskey		"v">
-<!ENTITY viewToolbarsMenuNew.label	"ツールバー">
-<!ENTITY viewToolbarsMenuNew.accesskey	"T">
-<!ENTITY showComposeToolbarCmd.label	"メールツールバー">
-<!ENTITY showComposeToolbarCmd.accesskey "o">
-<!ENTITY showFormatToolbarCmd.label	"書式ツールバー">
-<!ENTITY showFormatToolbarCmd.accesskey	"F">
-<!ENTITY showTaskbarCmd.label		"ステータスバー">
-<!ENTITY showTaskbarCmd.accesskey	"S">
-<!ENTITY customizeToolbar.label		"カスタマイズ...">
-<!ENTITY customizeToolbar.accesskey	"C">
+<!ENTITY viewMenu.label				"表示">
+<!ENTITY viewMenu.accesskey			"v">
+<!ENTITY viewToolbarsMenuNew.label		"ツールバー">
+<!ENTITY viewToolbarsMenuNew.accesskey		"T">
+<!ENTITY showCompositionToolbarCmd.label	"編集ツールバー">
+<!ENTITY showCompositionToolbarCmd.accesskey	"o">
+<!ENTITY showFormattingBarCmd.label		"書式バー">
+<!ENTITY showFormattingBarCmd.accesskey		"F">
+<!ENTITY showTaskbarCmd.label			"ステータスバー">
+<!ENTITY showTaskbarCmd.accesskey		"S">
+<!ENTITY customizeToolbar.label			"カスタマイズ...">
+<!ENTITY customizeToolbar.accesskey		"C">
 
 <!ENTITY addressSidebar.label		"アドレスサイドバー"><!-- (^^; Contacts Sidebar -->
 <!ENTITY addressSidebar.accesskey	"o">
@@ -121,7 +120,7 @@
 <!ENTITY checkSpellingCmd.key		"K">
 <!ENTITY checkSpellingCmd.key2		"VK_F7">
 <!ENTITY checkSpellingCmd.accesskey	"h">
-<!ENTITY enableInlineSpellChecker.label	"Spell As You Type"><!-- (^^; 未訳 -->
+<!ENTITY enableInlineSpellChecker.label	"自動スペルチェック"><!-- en-US: Spell Check As You Type -->
 <!ENTITY enableInlineSpellChecker.accesskey	"S">
 <!ENTITY quoteCmd.label			"メッセージを引用">
 <!ENTITY quoteCmd.accesskey		"Q">
@@ -130,8 +129,10 @@
 <!ENTITY attachVCard.label		"vCard を添付">
 <!ENTITY attachVCard.accesskey		"v">
 
-<!ENTITY returnReceiptMenu.label	"開封確認">
+<!ENTITY returnReceiptMenu.label	"開封確認の返送を求める"><!-- en-US Return Receipt -->
 <!ENTITY returnReceiptMenu.accesskey	"t">
+<!ENTITY dsnMenu.label			"Delivery Status Notification"><!-- (^^; -->
+<!ENTITY dsnMenu.accesskey		"N">
 <!ENTITY outputFormatMenu.label		"書式">
 <!ENTITY outputFormatMenu.accesskey	"f">
 <!ENTITY autoFormatCmd.label		"自動判別">
@@ -175,7 +176,7 @@
 <!ENTITY preferencesCmd.key		"O">
 <!ENTITY preferencesCmd.accesskey	"O">
 <!ENTITY preferencesCmdUnix.label	"設定">
-<!ENTITY preferencesCmdUnix.accesskey	"n"> 
+<!ENTITY preferencesCmdUnix.accesskey	"n">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key		"m">
@@ -183,17 +184,6 @@
 <!ENTITY bringAllToFront.label		"すべてを前面に移動">
 <!ENTITY zoomWindow.label		"拡大/縮小">
 <!ENTITY windowMenu.label		"ウィンドウ">
-
-<!-- Help Menu -->
-<!ENTITY helpMenu.label			"ヘルプ">
-<!ENTITY helpMenu.accesskey		"H">
-<!ENTITY releaseCmd.label		"リリースノート">
-<!ENTITY releaseCmd.accesskey		"R">
-<!ENTITY hintsAndTips.label		"&brandFullName; ヘルプ"><!-- (^^; messenger.dtd の同項目にあわせて &brandShortName; を &brandFullName;  :pink -->
-<!ENTITY hintsAndTips.accesskey		"h">
-<!ENTITY hintsAndTipsMac.commandkey	"?">
-<!ENTITY aboutCmd.label			"&brandFullName; について"><!-- (^^; messenger.dtd の同項目にあわせて &brandShortName; を &brandFullName;  :pink -->
-<!ENTITY aboutCmd.accesskey		"A">
 
 <!-- Mail Toolbar -->
 <!ENTITY sendButton.label		"送信">
@@ -206,12 +196,11 @@
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip		"このメッセージを今すぐ送信する">
-<!ENTITY sendlaterButton.tooltip	"このメッセージを後で送信する"> 
+<!ENTITY sendlaterButton.tooltip	"このメッセージを後で送信する">
 <!ENTITY quoteButton.tooltip		"前のメッセージを引用する">
 <!ENTITY addressButton.tooltip		"アドレス帳から受信者を選択する">
 <!ENTITY attachButton.tooltip		"このメッセージにファイルを添付する">
 <!ENTITY saveButton.tooltip		"このメッセージを保存する">
-<!ENTITY throbber.tooltip		"&vendorShortName; のホームページへ移動する">
 <!ENTITY cutButton.tooltip		"切り取り">
 <!ENTITY copyButton.tooltip		"コピー">
 <!ENTITY pasteButton.tooltip		"貼り付け">
@@ -274,6 +263,8 @@
 <!ENTITY openAttachment.accesskey	"O">
 <!ENTITY delete.label			"削除">
 <!ENTITY delete.accesskey		"D">
+<!ENTITY renameAttachment.label		"名前を変更...">
+<!ENTITY renameAttachment.accesskey	"R">
 <!ENTITY selectAll.label		"すべて選択">
 <!ENTITY selectAll.accesskey		"A">
 <!ENTITY attachFile.label		"ファイルを添付...">

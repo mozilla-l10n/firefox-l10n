@@ -1,8 +1,8 @@
 
 <!ENTITY migrationWizard.title		"設定移行ウィザード">
 
-<!ENTITY importFrom.label		"オプション、アカウント設定、アドレス帳その他のデータのインポートする対象を選んでください:">
-<!ENTITY importFromUnix.label		"設定、アカウント設定、アドレス帳その他のデータのインポートする対象を選んでください:">
+<!ENTITY importFromWin.label		"オプション、アカウント設定、アドレス帳、フィルタ、その他のデータのインポートする対象を選んでください:">
+<!ENTITY importFromNonWin.label		"設定、アカウント設定、アドレス帳、フィルタ、その他のデータのインポートする対象を選んでください:">
 
 <!ENTITY importFromNothing.label	"設定をインポートしない">
 <!ENTITY importFromNothing.accesskey	"D">
@@ -21,7 +21,7 @@
 <!ENTITY importItems.title		"インポートする項目">
 <!ENTITY importItems.label		"インポートする項目を選択してください:">
 
-<!ENTITY migrating.title		"インポート中...">
+<!ENTITY migrating.title		"インポートしています...">
 <!ENTITY migrating.label		"次の項目を現在インポートしています...">
 
 <!ENTITY selectProfile.title		"プロファイルの選択">
@@ -29,4 +29,3 @@
 
 <!ENTITY done.title			"インポート完了">
 <!ENTITY done.label			"次のデータが正常にインポートされました:">
-

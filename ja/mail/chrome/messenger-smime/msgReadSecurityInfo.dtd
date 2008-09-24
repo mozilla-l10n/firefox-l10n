@@ -5,6 +5,6 @@
 <!ENTITY encryptionCert.label	"暗号化証明書を表示">
 
 <!ENTITY signer.name		"署名者:">
-<!ENTITY recipient.name		"暗号化:">
+<!ENTITY recipient.name		"次の受信者用に暗号化:">
 <!ENTITY email.address		"メールアドレス:">
-<!ENTITY issuer.name		"証明書の発行元:">
+<!ENTITY issuer.name		"証明書の発行者:">

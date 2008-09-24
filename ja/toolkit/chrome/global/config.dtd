@@ -47,9 +47,7 @@
 <!ENTITY aboutWarningCheckbox.label	"次回もこの警告を表示する">
 
 <!ENTITY filterPrefs.label	"フィルタ:">
-<!ENTITY filterPrefs.accesskey	"I">
-<!ENTITY showAll.label		"すべて表示">   
-<!ENTITY showAll.accesskey	"W">
+<!ENTITY filterPrefs.accesskey	"F">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label	"設定名">

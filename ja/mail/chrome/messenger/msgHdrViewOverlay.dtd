@@ -21,6 +21,9 @@
 
  Contributor(s):
 
+ Localizer(s):
+   dynamis
+
  Alternatively, the contents of this file may be used under the terms of
  either the GNU General Public License Version 2 or later (the "GPL"), or
  the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
@@ -35,42 +38,59 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField.label			"宛先: ">
-<!ENTITY fromField.label		"差出人: ">
-<!ENTITY senderField.label		"送信者: ">
-<!ENTITY organizationField.label	"組織: ">
-<!ENTITY replyToField.label		"返信先: ">
+<!ENTITY toField2.label				"宛先 ">
+<!ENTITY fromField2.label			"差出人 ">
+<!ENTITY senderField2.label			"送信者 ">
+<!ENTITY organizationField2.label		"組織 ">
+<!ENTITY replyToField2.label			"返信先 ">
 
-<!ENTITY subjectField.label		"件名: ">
+<!ENTITY subjectField2.label			"件名 ">
 <!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField.label			"Cc: ">
-<!ENTITY bccField.label			"Bcc: ">
-<!ENTITY newsgroupsField.label		"ニュースグループ: ">
-<!ENTITY followupToField.label		"Followup-To: ">
+<!ENTITY ccField2.label				"Cc ">
+<!ENTITY bccField2.label			"Bcc ">
+<!ENTITY newsgroupsField2.label			"ニュースグループ ">
+<!ENTITY followupToField2.label			"Followup-To ">
+<!ENTITY tagsHdr2.label				"タグ ">
+<!ENTITY dateField2.label			"送信日時 ">
+<!ENTITY userAgentField2.label			"User-Agent ">
+<!ENTITY referencesField2.label			"references ">
+<!ENTITY messageIdField2.label			"message-id ">
+<!ENTITY inReplyToField2.label			"in-reply-to ">
+<!ENTITY originalWebsite2.label			"Web サイト ">
+<!ENTITY saveAll.label				"すべて保存...">
 
-<!ENTITY dateField.label		"送信日時: ">
-<!ENTITY userAgentField.label		"User-Agent: ">
-<!ENTITY originalWebsite.label		"Web サイト: ">
-<!ENTITY saveAll.label			"すべて保存..">
+<!ENTITY editMessageDescription.label		"このメッセージは下書きです">
+<!ENTITY editMessageButton.label		"編集...">
+<!ENTITY replyButton.label			"返信...">
+<!ENTITY forwardButton.label			"転送...">
+<!ENTITY junkButton.label			"迷惑メールとしてマーク">
+<!ENTITY trashButton.tooltiptext		"削除">
 
-<!ENTITY editMessage.label		"下書きを編集...">
-<!ENTITY attachmentsTree.label		"添付:">
+<!ENTITY otherActionsButton.label		"その他の動作">
+<!ENTITY saveAsMenuItem.label			"名前を付けて保存...">
+<!ENTITY saveAsMenuItem.accesskey		"S">
+<!ENTITY viewSourceMenuItem.label		"ソースを表示">
+<!ENTITY viewSourceMenuItem.accesskey		"V">
+
+<!ENTITY hideDetailsButton.label		"詳細を隠す">
+<!ENTITY showDetailsButton.label		"詳細を表示">
 
 <!ENTITY openAttachmentCmd.label		"開く">
 <!ENTITY openAttachmentCmd.accesskey		"O">
 <!ENTITY saveAsAttachmentCmd.label		"名前を付けて保存...">
 <!ENTITY saveAsAttachmentCmd.accesskey		"A">
-<!ENTITY printAttachmentCmd.label		".印刷">
-<!ENTITY printAttachmentCmd.accesskey		"P">
-<!ENTITY detachAttachmentCmd.label		"分離...">  
-<!ENTITY deleteAttachmentCmd.label		"削除">  
+<!ENTITY detachAttachmentCmd.label		"添付ファイルを分離...">
+<!ENTITY deleteAttachmentCmd.label		"削除">
 <!ENTITY saveAllAttachmentsCmd.label		"すべて保存...">
 <!ENTITY saveAllAttachmentsCmd.accesskey	"S">
-<!ENTITY detachAllAttachmentsCmd.label		"すべて分離...">  
-<!ENTITY detachAllAttachmentsCmd.accesskey	"D">  
-<!ENTITY deleteAllAttachmentsCmd.label		"すべて削除...">  
-<!ENTITY deleteAllAttachmentsCmd.accesskey	"E">  
+<!ENTITY detachAllAttachmentsCmd.label		"すべて分離...">
+<!ENTITY detachAllAttachmentsCmd.accesskey	"D">
+<!ENTITY deleteAllAttachmentsCmd.label		"すべて削除...">
+<!ENTITY deleteAllAttachmentsCmd.accesskey	"E">
 
-<!ENTITY copyLinkCmd.label			"リンクの URL をコピー">
+<!ENTITY copyLinkCmd.label			"リンク URL をコピー">
 <!ENTITY copyLinkCmd.accesskey			"C">
 
+<!ENTITY CopyMessageId.label			"メッセージ ID をコピー">
+<!ENTITY OpenMessageForMsgId.label		"次の ID のメッセージを開く">
+<!ENTITY OpenBrowserWithMsgId.label		"次のメッセージ ID をブラウザで開く">

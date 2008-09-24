@@ -1,10 +1,9 @@
-<!-- (^^; preferences/receipts.dtd が使用され、これは使われない様子 -->
 <!ENTITY pane.title			"開封確認">
-<!ENTITY useGlobalPrefs.label		"このアカウントでは通常の開封確認設定を使う">
+<!ENTITY useGlobalPrefs.label		"このアカウントでは共通の開封確認設定を使う">
 <!ENTITY useGlobalPrefs.accesskey	"U">
-<!ENTITY useCustomPrefs.label		"このアカウントでは開封確認の設定をカスタマイズする">
+<!ENTITY useCustomPrefs.label		"このアカウントでは開封確認の設定を個別に指定する">
 <!ENTITY useCustomPrefs.accesskey	"C">
-<!ENTITY requestReceipt.label		"メッセージ送信時に毎回開封確認の返送を求める">
+<!ENTITY requestReceipt.label		"送信メッセージについて、毎回開封確認の返送を求める">
 <!ENTITY requestReceipt.accesskey	"W">
 <!ENTITY receiptArrive.label		"開封確認が届いたとき:">
 <!ENTITY leaveIt.label			"受信トレイに残す">

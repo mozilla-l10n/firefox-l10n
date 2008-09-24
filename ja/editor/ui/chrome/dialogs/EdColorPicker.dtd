@@ -21,9 +21,7 @@
    - 
    - Contributor(s):
    - 
-   - Translated to Japanese by
-   -   Tsukasa Maruyama <mal@mozilla.gr.jp>
-   -   Teiji Matsuba <matsuba@dream.com>
+   - Localizer(s):
    -   dynamis
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -43,16 +41,16 @@
 <!ENTITY windowTitle.label		"色">
 <!ENTITY lastPickedColor.label		"最後に選んだ色">
 <!ENTITY lastPickedColor.accessKey	"L">
-<!ENTITY setColor1.label		"色をクリックするか、">
-<!ENTITY setColor2.label		"HTML の色文字列を入力してください">
+<!ENTITY setColor1.label		"パレット中の色をクリックするか"><!-- (^^; 全角16字くらいまで -->
+<!ENTITY setColor2.label		"使用する色名を入力してください"><!-- (^^; 全角16字くらいまで -->
 <!ENTITY setColor2.accessKey		"H">
-<!ENTITY setColorExample.label		"(例：&quot;#0000ff&quot; や &quot;blue&quot; など):">
+<!ENTITY setColorExample.label		"(例: &quot;#0000ff&quot; や &quot;blue&quot; など):">
 <!ENTITY default.label			"既定">
 <!ENTITY default.accessKey		"D">
 <!ENTITY palette.label			"パレット:">
 <!ENTITY standardPalette.label		"標準">
-<!ENTITY webPalette.label		"すべての Web 配色">
-<!ENTITY background.label		"背景:">
+<!ENTITY webPalette.label		"Web セーフカラー">
+<!ENTITY background.label		"対象:"><!-- en-US: Background for: -->
 <!ENTITY background.accessKey		"B">
 <!ENTITY table.label			"表">
 <!ENTITY table.accessKey		"T">

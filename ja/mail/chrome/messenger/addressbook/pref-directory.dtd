@@ -36,8 +36,7 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
-<!ENTITY window.title			"LDAP サーバ"><!-- (^^; 複数形だし LDAP サーバリスト とした方がよいか？ -->
-<!ENTITY pane.title			"ディレクトリ">
+<!ENTITY pref.ldap.window.title		"LDAP ディレクトリサーバ">
 <!ENTITY directory.label		"ディレクトリを追加">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label		"LDAP サーバ:">

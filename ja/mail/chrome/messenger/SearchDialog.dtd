@@ -23,7 +23,7 @@
 <!ENTITY goToFolderButton.label		"メッセージフォルダを開く">
 <!ENTITY goToFolderButton.accesskey	"r">
 <!ENTITY saveAsVFButton.label		"検索フォルダとして保存"><!-- (^^; Save as Search Folder -->
-<!ENTITY saveAsVFButton.accesskey	"a">
+<!ENTITY saveAsVFButton.accesskey	"v">
 
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label		"次の中からカードを検索:">
@@ -32,16 +32,16 @@
 <!ENTITY propertiesButton.accesskey	"P">
 <!ENTITY composeButton.label		"新しいメッセージ">
 <!ENTITY composeButton.accesskey	"W">
-<!ENTITY abSearchDialogTitle.label	"アドレス帳の高度な検索">
+<!ENTITY abSearchDialogTitle.label	"アドレスを検索">
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label		"スレッド">
-<!ENTITY senderColumn.label		"送信者">
+<!ENTITY fromColumn.label		"差出人">
 <!ENTITY recipientColumn.label		"受信者">
 <!ENTITY subjectColumn.label		"件名">
 <!ENTITY dateColumn.label		"送信日時">
 <!ENTITY priorityColumn.label		"重要度">
-<!ENTITY labelColumn.label		"ラベル">
+<!ENTITY tagsColumn.label		"タグ">
 <!ENTITY accountColumn.label		"アカウント">
 <!ENTITY statusColumn.label		"状態"> 
 <!ENTITY sizeColumn.label		"サイズ">
@@ -50,26 +50,28 @@
 <!ENTITY unreadColumn.label		"未読">
 <!ENTITY totalColumn.label		"合計">
 <!ENTITY readColumn.label		"既読">
-<!ENTITY flagColumn.label		"フラグ">
+<!ENTITY starredColumn.label		"スターあり">
+<!ENTITY receivedColumn.label		"受信日時">
 <!ENTITY locationColumn.label		"フォルダ">
 <!ENTITY idColumn.label			"受信順">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip		"クリックすると表示する列を選択できます">
-<!ENTITY threadColumn.tooltip		"クリックするとスレッド形式でメッセージを表示します">
-<!ENTITY senderColumn.tooltip		"クリックすると送信者で並べ替えて表示します">
-<!ENTITY recipientColumn.tooltip	"クリックすると受信者で並べ替えて表示します">
-<!ENTITY subjectColumn.tooltip		"クリックすると件名で並べ替えて表示します">
-<!ENTITY dateColumn.tooltip		"クリックすると送信日時で並べ替えて表示します">
-<!ENTITY priorityColumn.tooltip		"クリックすると重要度で並べ替えて表示します">
-<!ENTITY labelColumn.tooltip		"クリックするとラベルで並べ替えて表示します">
-<!ENTITY accountColumn.tooltip		"クリックするとアカウントで並べ替えて表示します">
-<!ENTITY statusColumn.tooltip		"クリックすると状態で並べ替えて表示します">
-<!ENTITY sizeColumn.tooltip		"クリックするとサイズで並べ替えて表示します">
-<!ENTITY junkStatusColumn.tooltip	"クリックすると迷惑マークで並べ替えて表示します">
+<!ENTITY threadColumn.tooltip		"クリックするとメッセージをスレッド形式で表示します">
+<!ENTITY fromColumn.tooltip		"クリックすると差出人で並べ替えます">
+<!ENTITY recipientColumn.tooltip	"クリックすると受信者で並べ替えます">
+<!ENTITY subjectColumn.tooltip		"クリックすると件名で並べ替えます">
+<!ENTITY dateColumn.tooltip		"クリックすると送信日時で並べ替えます">
+<!ENTITY priorityColumn.tooltip		"クリックすると重要度で並べ替えます">
+<!ENTITY tagsColumn.tooltip		"クリックするとタグで並べ替えます">
+<!ENTITY accountColumn.tooltip		"クリックするとアカウントで並べ替えます">
+<!ENTITY statusColumn.tooltip		"クリックすると状態で並べ替えます">
+<!ENTITY sizeColumn.tooltip		"クリックするとサイズで並べ替えます">
+<!ENTITY junkStatusColumn.tooltip	"クリックすると迷惑マークの有無で並べ替えます">
 <!ENTITY unreadColumn.tooltip		"スレッドの未読メッセージ数">
 <!ENTITY totalColumn.tooltip		"スレッドの合計メッセージ数">
-<!ENTITY readColumn.tooltip		"クリックすると既読かどうかで並べ替えて表示します">
-<!ENTITY flagColumn.tooltip		"クリックするとフラグの有無で並べ替えて表示します">
-<!ENTITY locationColumn.tooltip		"クリックするとフォルダで並べ替えて表示します">
-<!ENTITY idColumn.tooltip		"クリックすると受信した順で並べ替えて表示します">
+<!ENTITY readColumn.tooltip		"クリックすると既読かどうかで並べ替えます">
+<!ENTITY receivedColumn.tooltip		"クリックすると受信日時で並べ替えます">
+<!ENTITY starredColumn.tooltip		"クリックするとスターの有無で並べ替えます">
+<!ENTITY locationColumn.tooltip		"クリックするとフォルダで並べ替えます">
+<!ENTITY idColumn.tooltip		"クリックすると受信した順で並べ替えます">

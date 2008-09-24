@@ -6,15 +6,15 @@
 <!ENTITY subscribeNewsLink.label	"購読するニュースグループを管理する"> 
 
 <!ENTITY accountsSectionHdr.label	"アカウント"> 
-<!ENTITY subscribeImapFolders.label	"購読するフォルダを管理する"><!-- (^^; フォルダは "購読" か？ -->
+<!ENTITY subscribeImapFolders.label	"購読するフォルダを管理する">
 <!ENTITY settingsLink.label		"このアカウントの設定を表示する"> 
 <!ENTITY newAcctLink.label		"新しいアカウントを作成する"> 
 
-<!ENTITY advFeaturesSectionHdr.label	"高度な機能"><!-- (^^; Advanced Features -->
+<!ENTITY advFeaturesSectionHdr.label	"高度な機能">
 <!ENTITY searchMsgsLink.label		"メッセージを検索する"> 
 <!ENTITY filtersLink.label		"メッセージフィルタの設定を変更する">
 <!ENTITY junkSettings.label		"迷惑メールフィルタの設定を変更する">
 <!ENTITY offlineLink.label		"オフライン作業の設定を変更する">
 
-<!ENTITY rssSectionHdr.label		"ニュースとブログ"><!-- (^^; RSS News &amp; Blogs -->
-<!ENTITY subscibeRSS.label		"購読するニュースやブログを管理する"><!-- (^^; Manage subscriptions -->
+<!ENTITY rssSectionHdr.label		"ニュースとブログ">
+<!ENTITY subscibeRSS.label		"購読するニュースやブログを管理する">

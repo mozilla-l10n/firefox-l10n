@@ -40,8 +40,8 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label	"テーブルに変換">
-<!ENTITY instructions1.label	"Composer は各段落を新しいテーブルの行に変換します。">
+<!ENTITY windowTitle.label	"表に変換">
+<!ENTITY instructions1.label	"各段落を新しい表の行に変換します。">
 <!ENTITY instructions2.label	"選択部分を列に区切る文字を選んでください:">
 <!ENTITY commaRadio.label	"カンマ">
 <!ENTITY spaceRadio.label	"スペース">

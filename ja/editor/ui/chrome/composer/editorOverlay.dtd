@@ -143,12 +143,14 @@
 <!ENTITY editfindprev.accesskey		"v">
 <!ENTITY editfindprev.keybinding	"g">
 <!ENTITY editfindprev.keybinding2	"VK_F3">
+<!ENTITY enableInlineSpellChecker.label	"自動スペルチェック">
+<!ENTITY enableInlineSpellChecker.accesskey	"S">
 <!ENTITY checkSpellingCmd.label		"スペルチェック">
+<!ENTITY editcheckspelling.accesskey	"h">
+<!ENTITY editcheckspelling.keybinding	"k">
 <!ENTITY validateCmd.label		"HTML の妥当性検証">
 <!ENTITY validate.accesskey		"v">
 <!ENTITY checkLinksCmd.label		"リンクチェック">
-<!ENTITY editcheckspelling.accesskey	"s">
-<!ENTITY editcheckspelling.keybinding	"k">
 
 <!-- View menu items -->
 <!ENTITY viewPageSource.label		"ページのソースを表示">
@@ -162,7 +164,7 @@
 <!ENTITY insertLinkCmd.label		"リンク...">
 <!ENTITY insertlink.accesskey		"l">
 <!ENTITY insertlink.keybinding		"l">
-<!ENTITY insertAnchorCmd.label		"ターゲット...">
+<!ENTITY insertAnchorCmd.label		"アンカー...">
 <!ENTITY insertanchor.accesskey		"A">
 <!ENTITY insertImageCmd.label		"画像...">
 <!ENTITY insertimage.accesskey		"i">
@@ -175,7 +177,7 @@
 <!ENTITY insertformmenu.accesskey	"F">
 <!ENTITY insertHTMLCmd.label		"HTML...">
 <!ENTITY insertHTMLCmd.accesskey	"h">
-<!ENTITY insertCharsCmd.label		"文字と記号...">
+<!ENTITY insertCharsCmd.label		"文字や記号...">
 <!ENTITY insertchars.accesskey		"C">
 <!ENTITY insertBreakCmd.label		"改行">
 <!ENTITY insertbreak.accesskey		"b">
@@ -203,6 +205,11 @@
 <!ENTITY insertisindex.accesskey	"x">
 
 <!-- Used just in context popup. -->
+<!ENTITY spellCheckNoSuggestions.label	"(候補なし)">
+<!ENTITY spellCheckIgnoreWord.label	"単語を無視">
+<!ENTITY spellCheckIgnoreWord.accesskey	"I">
+<!ENTITY spellCheckAddToDictionary.label	"辞書に追加">
+<!ENTITY spellCheckAddToDictionary.accesskey	"n">
 <!ENTITY createLinkCmd.label		"リンクを作成...">
 <!ENTITY createlink.accesskey		"k">
 <!ENTITY editLinkCmd.label		"リンクを新しい Composer で編集">
@@ -321,7 +328,7 @@
 <!ENTITY formatindent.keybinding	"]">
 <!ENTITY formatoutdent.keybinding	"[">
 <!ENTITY paragraphMenu.label		"段落">
-<!ENTITY formatparagraphmenu.accesskey	"p">
+<!ENTITY formatparagraphmenu.accesskey	"P">
 <!ENTITY paragraphParagraphCmd.label	"段落 &lt;P&gt;">
 <!ENTITY paragraphparagraph.accesskey	"P">
 <!ENTITY heading1Cmd.label		"見出し1 &lt;H1&gt;">
@@ -348,15 +355,15 @@
 <!ENTITY formatlistmenu.accesskey	"l">
 <!ENTITY noneCmd.label			"なし">
 <!ENTITY none.accesskey			"N">
-<!ENTITY listBulletCmd.label		"記号付き">
+<!ENTITY listBulletCmd.label		"行頭文字付きリスト"><!-- Bulleted -->
 <!ENTITY listbullet.accesskey		"b">
-<!ENTITY listNumberedCmd.label		"番号付き">
+<!ENTITY listNumberedCmd.label		"番号付きリスト">
 <!ENTITY listnumbered.accesskey		"m">
-<!ENTITY listTermCmd.label		"用語の定義">
+<!ENTITY listTermCmd.label		"定義リスト - 用語">
 <!ENTITY listterm.accesskey		"t">
-<!ENTITY listDefinitionCmd.label	"用語の解説">
+<!ENTITY listDefinitionCmd.label	"定義リスト - 説明">
 <!ENTITY listdefinition.accesskey	"d">
-<!ENTITY listProps.label		"箇条書きのプロパティ...">
+<!ENTITY listProps.label		"リストのプロパティ...">
 <!ENTITY listprops.accesskey		"l">
 
 <!ENTITY ParagraphSelect.tooltip	"段落の形式を選択">
@@ -416,7 +423,7 @@
 
 <!ENTITY pageProperties.label		"ページのタイトルとプロパティ...">
 <!ENTITY pageproperties.accesskey	"g">
-<!ENTITY colorsAndBackground.label	"ページの色と背景...">
+<!ENTITY colorsAndBackground.label	"ページの配色と背景...">
 <!ENTITY colorsandbackground.accesskey	"u">
 
 <!-- Table Menu -->
@@ -475,9 +482,9 @@
 <!ENTITY tablejoincells.accesskey	"j">
 <!ENTITY tableSplitCell.label		"セルの分割">
 <!ENTITY tablesplitcell.accesskey	"c">
-<!ENTITY convertToTable.label		"選択部分からテーブルを作成">
+<!ENTITY convertToTable.label		"選択部分から表を作成">
 <!ENTITY converttotable.accesskey	"r">
-<!ENTITY tableProperties.label		"テーブルのプロパティ...">
+<!ENTITY tableProperties.label		"表のプロパティ...">
 <!ENTITY tableProperties.accesskey	"o">
 
 <!-- Tools menu -->
@@ -486,28 +493,6 @@
 <!ENTITY toolplaineditor.accesskey	"p">
 <!ENTITY toolsetfocus.accesskey		"f">
 
-<!-- Debug menu items -->
-<!ENTITY debugMenu.label		"デバッグ">
-<!ENTITY newEditorTestPage.label	"テストページの Composer">
-<!ENTITY textEditorCmd.label		"プレーンテキストエディタ">
-<!ENTITY outputTextCmd.label		"テキストの出力">
-<!ENTITY outputHTMLCmd.label		"HTML の出力">
-<!ENTITY insertTextCmd.label		"テキストを挿入">
-<!ENTITY testSelectionCmd.label		"選択個所のテスト">
-<!ENTITY testTableLayoutCmd.label	"テーブルレイアウトのテスト">
-<!ENTITY testDocumentCmd.label		"文書のテスト">
-<!ENTITY showEmbeddedCmd.label		"埋め込みオブジェクトを表示する">
-<!ENTITY dumpContentCmd.label		"Dump Content Tree">
-<!ENTITY runUnitTestsCmd.label		"単体テストの実行">
-<!ENTITY dumpUndoStack.label		"Dump Undo Stack">
-<!ENTITY dumpRedoStack.label		"Dump Redo Stack">
-<!ENTITY executeJSTransactionViaTxmgr.label	"トランザクションマネージャで JavaScript トランザクション実行">
-<!ENTITY executeJSTransactionViaEditor.label	"エディタで JavaScript トランザクション実行">
-<!ENTITY startLogCmd.label		"ログを開始">
-<!ENTITY stopLogCmd.label		"ログを停止">
-<!ENTITY runLogCmd.label		"ログの実行">
-<!ENTITY setFocusCmd.label		"フォーカスのセット">
-
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip		"メニューバー">
 <!ENTITY compositionToolbar.tooltip	"一般ツールバー">
@@ -515,31 +500,31 @@
 <!ENTITY newToolbarCmd.tooltip		"新しい Composer ページを作成します">
 <!ENTITY openToolbarCmd.label		"開く">
 <!ENTITY openToolbarCmd.tooltip		"ファイルを開く">
-<!ENTITY saveToolbarCmd.tooltip		"ローカルの URL にファイルを保存">
-<!ENTITY publishToolbarCmd.tooltip	"リモートの URL にファイルをアップロード">
+<!ENTITY saveToolbarCmd.tooltip		"ローカル URL にファイルを保存します">
+<!ENTITY publishToolbarCmd.tooltip	"リモート URL にファイルをアップロードします">
 <!ENTITY previewToolbarCmd.label	"参照">
-<!ENTITY previewToolbarCmd.tooltip	"このページを Navigator で読み込む">
+<!ENTITY previewToolbarCmd.tooltip	"このページをブラウザで読み込む">
 <!ENTITY printToolbarCmd.label		"印刷">
 <!ENTITY printToolbarCmd.tooltip	"ページを印刷">
 <!ENTITY findToolbarCmd.label		"検索">
-<!ENTITY findToolbarCmd.tooltip		"ページ内で文字列の検索">
+<!ENTITY findToolbarCmd.tooltip		"ページ内で文字列を検索します">
 <!ENTITY spellToolbarCmd.label		"スペル">
-<!ENTITY spellToolbarCmd.tooltip	"選択範囲またはページ全体のスペルチェック">
+<!ENTITY spellToolbarCmd.tooltip	"選択範囲またはページ全体のスペルチェックをします">
 <!ENTITY imageToolbarCmd.label		"画像">
-<!ENTITY imageToolbarCmd.tooltip	"新しい画像を挿入するか、選択した画像のプロパティを編集">
+<!ENTITY imageToolbarCmd.tooltip	"新しい画像を挿入するか、選択した画像のプロパティを編集します">
 <!ENTITY hruleToolbarCmd.label		"水平線">
-<!ENTITY hruleToolbarCmd.tooltip	"新しい水平線を挿入するか、選択した線のプロパティを編集">
+<!ENTITY hruleToolbarCmd.tooltip	"新しい水平線を挿入するか、選択した線のプロパティを編集します">
 <!ENTITY tableToolbarCmd.label		"表">
-<!ENTITY tableToolbarCmd.tooltip	"新しい表を挿入するか、選択した表のプロパティを編集">
+<!ENTITY tableToolbarCmd.tooltip	"新しい表を挿入するか、選択した表のプロパティを編集します">
 <!ENTITY linkToolbarCmd.label		"リンク">
-<!ENTITY linkToolbarCmd.tooltip		"新しいリンクを挿入するか、選択したリンクのプロパティを編集">
-<!ENTITY anchorToolbarCmd.label		"ターゲット">
-<!ENTITY anchorToolbarCmd.tooltip	"新しい名前付きアンカーを挿入するか、選択したアンカーのプロパティを編集">
+<!ENTITY linkToolbarCmd.tooltip		"新しいリンクを挿入するか、選択したリンクのプロパティを編集します">
+<!ENTITY anchorToolbarCmd.label		"アンカー">
+<!ENTITY anchorToolbarCmd.tooltip	"新しい名前付きアンカーを挿入するか、選択したアンカーのプロパティを編集します">
 <!ENTITY textColorCaption.label		"文字色">
-<!ENTITY TextColorButton.tooltip	"テキストの色を選択">
+<!ENTITY TextColorButton.tooltip	"テキストの色を選択します">
 <!ENTITY BackgroundColorButton.tooltip	"背景の色を選択">
-<!ENTITY throbber.tooltip		"&vendorShortName; ホームページに行く">
-<!ENTITY HighlightColorButton.tooltip	"テキストの背景色を選択">
+<!ENTITY throbber.tooltip		"&vendorShortName; ホームページに行きます">
+<!ENTITY HighlightColorButton.tooltip	"テキストの背景色を選択します">
 
 <!-- Editor toolbar -->
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip	"フォントサイズを縮小します">
@@ -551,12 +536,12 @@
 <!ENTITY numberListToolbarCmd.tooltip	"番号付きリストを適用または解除します">
 <!ENTITY outdentToolbarCmd.tooltip	"左インデント (左へ移動)">
 <!ENTITY indentToolbarCmd.tooltip	"右インデント (右へ移動)">
-<!ENTITY AlignPopupButton.tooltip	"テキストの配置を選択">
-<!ENTITY InsertPopupButton.tooltip	"リンク・アンカー・画像・水平線・テーブルを挿入します。">
-<!ENTITY alignLeftButton.tooltip	"左マージンに沿ってテキストを配置します">
-<!ENTITY alignCenterButton.tooltip	"テキストを中央に寄せます">
-<!ENTITY alignRightButton.tooltip	"右マージンに沿ってテキストを配置します">
-<!ENTITY alignjustifyButton.tooltip	"左右マージンに沿ってテキストを配置します">
+<!ENTITY AlignPopupButton.tooltip	"テキストの配置を選択します">
+<!ENTITY InsertPopupButton.tooltip	"リンク、アンカー、画像、水平線、表を挿入します">
+<!ENTITY alignLeftButton.tooltip	"テキストを左揃えにします">
+<!ENTITY alignCenterButton.tooltip	"テキストを中央揃えにします">
+<!ENTITY alignRightButton.tooltip	"テキストを右揃えにします">
+<!ENTITY alignjustifyButton.tooltip	"テキストを均等割り付けにします">
 
 <!-- Formatting toolbar not used, but may be in future -->
 <!ENTITY formatToolbar.boldChar		"B">
@@ -573,19 +558,19 @@
 <!ENTITY NormalModeTab.label		"標準">
 <!ENTITY NormalMode.label		"通常の編集モード">
 <!ENTITY NormalMode.accesskey		"n">
-<!ENTITY NormalMode.tooltip		"表の枠と名前付きアンカーを表示">
+<!ENTITY NormalMode.tooltip		"表の枠と名前付きアンカーを表示します">
 <!ENTITY AllTagsMode.label		"HTML タグ">
 <!ENTITY AllTagsMode.accesskey		"A">
-<!ENTITY AllTagsMode.tooltip		"すべての HTML タグ用にアイコンを表示">
+<!ENTITY AllTagsMode.tooltip		"すべての HTML タグ用にアイコンを表示します">
 
 <!ENTITY HTMLSourceMode.label		"HTML ソース">
-<!-- Toolbar has an image with		"HTML" text, so don't include it in the string -->
+<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
 <!ENTITY SourceMode.label		"ソース">
 <!ENTITY HTMLSourceMode.accesskey	"h">
-<!ENTITY HTMLSourceMode.tooltip		"HTML ソースを編集">
+<!ENTITY HTMLSourceMode.tooltip		"HTML ソースを編集します">
 <!ENTITY PreviewMode.label		"プレビュー">
 <!ENTITY PreviewMode.accesskey		"p">
-<!ENTITY PreviewMode.tooltip		"WYSIWYG (Navigator 内表示と同じように) で表示">
+<!ENTITY PreviewMode.tooltip		"ブラウザと同じように表示します (WYSIWYG)"><!-- en-US: Display as WYSIWYG (as in Navigator) -->
 
 <!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
      Use latin "ltr" if you want the <html> image to left of the 

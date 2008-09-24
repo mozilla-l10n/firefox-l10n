@@ -50,11 +50,11 @@
 <!ENTITY widthEditField.accessKey	"W">
 <!ENTITY pixelsPopup.value		"px">
 <!ENTITY alignmentBox.label		"配置">
-<!ENTITY leftRadio.value		"左">
+<!ENTITY leftRadio.label		"左">
 <!ENTITY leftRadio.accessKey		"L">
-<!ENTITY centerRadio.value		"中央">
+<!ENTITY centerRadio.label		"中央">
 <!ENTITY centerRadio.accessKey		"C">
-<!ENTITY rightRadio.value		"右">
+<!ENTITY rightRadio.label		"右">
 <!ENTITY rightRadio.accessKey		"R">
 
 <!ENTITY threeDShading.label		"影付き">
