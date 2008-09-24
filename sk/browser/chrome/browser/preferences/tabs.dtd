@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label             "Nové stránky sa majú otvárať:">
-<!ENTITY inNewWindow.label            "v novom okne">
-<!ENTITY inNewWindow.accesskey        "o">
-<!ENTITY inNewTab.label               "na novej karte">
-<!ENTITY inNewTab.accesskey           "k">
+<!ENTITY newWindowsAsTabs.label       "Nové okná otvárať ako novú kartu">
+<!ENTITY newWindowsAsTabs.accesskey   "N">
 
 <!ENTITY warnCloseMultipleTabs.label      "Upozorniť pri zatváraní viacerých kariet">
 <!ENTITY warnCloseMultipleTabs.accesskey  "z">

@@ -52,7 +52,7 @@ pref("calendar.week.d6saturdaysoff", true);
 pref("general.useragent.locale", "@AB_CD@");
 
 # categories
-pref("calendar.categories.names", "Výročie,Narodeniny,Jednanie,Telefonát,Klienti,Súťaže,Zákazník,Obľúbené,Sledovanie,Darček,Voľný čas,Nápady,Problémy,Rôzne,Súkromné,Projekty,Sviatok,Stav,Dodávatelia,Cestovanie,Dovolenka");
+pref("calendar.categories.names", "Výročie,Narodeniny,Jednanie,Telefonát,Klienti,Súťaže,Zákazník,Obľúbené,Sledovanie,Darček,Voľný čas,Nápady,Problémy,Stretnutie,Rôzne,Súkromné,Projekty,Sviatok,Stav,Dodávatelia,Cestovanie,Dovolenka");
 
 
 

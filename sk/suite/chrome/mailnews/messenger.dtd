@@ -384,8 +384,8 @@
 <!ENTITY watchThreadMenu.label "Sledovať vlákno">
 <!ENTITY watchThreadMenu.accesskey "S">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Súbor sem">
-<!ENTITY fileHereMenu.accesskey "S">
+<!ENTITY fileHereMenu.label "Presunúť sem">
+<!ENTITY fileHereMenu.accesskey "P">
 <!ENTITY copyHereMenu.label "Kopírovať sem">
 <!ENTITY copyHereMenu.accesskey "K">
 <!ENTITY addSenderToAddressBookCmd.label ".Pridať odosielateľa do Adresára">
