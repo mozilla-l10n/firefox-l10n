@@ -38,40 +38,54 @@
 <!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
 
 
-<!ENTITY toField.label "A:">
-<!ENTITY fromField.label "De:">
-<!ENTITY senderField.label "Remitent: ">
-<!ENTITY organizationField.label "Organització:">
-<!ENTITY replyToField.label "Respon-a:">
+<!ENTITY toField2.label "a ">
+<!ENTITY fromField2.label "de ">
+<!ENTITY senderField2.label "remitent ">
+<!ENTITY organizationField2.label "organització ">
+<!ENTITY replyToField2.label "respon-a ">
 
-<!ENTITY subjectField.label "Assumpte">
+<!ENTITY subjectField2.label "assumpte">
 <!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField.label "Cc:">
-<!ENTITY bccField.label "Cco:">
-<!ENTITY newsgroupsField.label "Grups de discussió:">
-<!ENTITY followupToField.label "Seguiment-a:">
-<!ENTITY tagsHdr.label "Etiquetes: ">
-<!ENTITY dateField.label "Data:">
-<!ENTITY userAgentField.label "Agent-d'usuari:">
-<!ENTITY referencesField.label "Referències: ">
-<!ENTITY messageIdField.label "ID-missatge: ">
-<!ENTITY inReplyToField.label "En-resposta-a: ">
-<!ENTITY originalWebsite.label "Lloc web:">
-<!ENTITY saveAll.label "Desa-ho tot..">
+<!ENTITY ccField2.label "cc ">
+<!ENTITY bccField2.label "cco ">
+<!ENTITY newsgroupsField2.label "grups de discussió ">
+<!ENTITY followupToField2.label "seguiment-a ">
+<!ENTITY tagsHdr2.label "etiquetes ">
+<!ENTITY dateField2.label "data ">
+<!ENTITY userAgentField2.label "agent-d'usuari ">
+<!ENTITY referencesField2.label "referències ">
+<!ENTITY messageIdField2.label "id-missatge ">
+<!ENTITY inReplyToField2.label "en-resposta-a ">
+<!ENTITY originalWebsite2.label "lloc web ">
+<!ENTITY saveAll.label "Desa-ho tot…">
 
-<!ENTITY editMessage.label "Edita l'esborrany">
+<!ENTITY editMessageDescription.label "Aço és un esborrany">
+<!ENTITY editMessageButton.label "Edita…">
+<!ENTITY replyButton.label "respon…">
+<!ENTITY forwardButton.label "reenvia…">
+<!ENTITY junkButton.label "marca com a brossa">
+<!ENTITY trashButton.tooltiptext "suprimeix">
+
+<!ENTITY otherActionsButton.label "altres accions">
+<!ENTITY saveAsMenuItem.label "anomena i desa…">
+<!ENTITY saveAsMenuItem.accesskey "s">
+<!ENTITY viewSourceMenuItem.label "visualitza el codi font…">
+<!ENTITY viewSourceMenuItem.accesskey "v">
+
+<!ENTITY hideDetailsButton.label "mostra'n els detalls">
+<!ENTITY showDetailsButton.label "amaga'n els detalls">
 
 <!ENTITY openAttachmentCmd.label "Obre">
 <!ENTITY openAttachmentCmd.accesskey "O">
-<!ENTITY saveAsAttachmentCmd.label "Anomena i desa...">
+<!ENTITY saveAsAttachmentCmd.label "Anomena i desa…">
 <!ENTITY saveAsAttachmentCmd.accesskey "A">
-<!ENTITY detachAttachmentCmd.label    "Separa ...">  
+<!ENTITY detachAttachmentCmd.label    "Separa…">  
 <!ENTITY deleteAttachmentCmd.label    "Suprimeix">  
-<!ENTITY saveAllAttachmentsCmd.label "Desa-ho tot...">
+<!ENTITY saveAllAttachmentsCmd.label "Desa-ho tot…">
 <!ENTITY saveAllAttachmentsCmd.accesskey "D">
-<!ENTITY detachAllAttachmentsCmd.label    "Separa-ho tot...">  
+<!ENTITY detachAllAttachmentsCmd.label    "Separa-ho tot…">  
 <!ENTITY detachAllAttachmentsCmd.accesskey    "S">  
-<!ENTITY deleteAllAttachmentsCmd.label    "Suprimeix-ho tot...">  
+<!ENTITY deleteAllAttachmentsCmd.label    "Suprimeix-ho tot…">  
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "u">  
 
 <!ENTITY copyLinkCmd.label "Copia la ubicació de l'enllaç">

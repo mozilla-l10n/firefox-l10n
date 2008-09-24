@@ -63,8 +63,8 @@
 <!ENTITY daysOld.label "dies d'antiguitat">
 <!ENTITY message.label "missatges">
 <!ENTITY retentionCleanup.label "Per a recuperar espai de disc, els missatges antics poden suprimir-se permanentment">
-<!ENTITY retentionKeepMsg.label "Suprimeix els missatges de més de">
-<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionDeleteMsg.label "Suprimeix els missatges de més de">
+<!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "No suprimeixis cap missatge">
 <!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepNew.label "Suprimeix-ho tot excepte els darrers">
