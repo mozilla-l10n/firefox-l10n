@@ -1,11 +1,5 @@
-
-
-<!ENTITY newPagesIn.label             "නව පිටු විවෘත කළ යුත්තේ:">
-<!ENTITY inNewWindow.label            "නව කවුළුවක් තුළ">
-<!ENTITY inNewWindow.accesskey        "w">
-<!ENTITY inNewTab.label               "නව ටැබ් තුළ">
-<!ENTITY inNewTab.accesskey           "t">
-
+<!ENTITY newWindowsAsTabs.label       "නව කවුළු නව තැබ් තළ විවෘත කරන්න">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
 <!ENTITY warnCloseMultipleTabs.label  "ටැබ් කිහිපයක් වසා දැමීමේදී අනතුරු අගවන්න">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
