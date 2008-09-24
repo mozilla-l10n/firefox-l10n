@@ -101,14 +101,14 @@
 <!ENTITY BPProps.FunctionName.label "Funció">
 <!ENTITY BPProps.TriggerCount.label "Compte d'activacions">
 <!ENTITY BPProps.OneTime.label      "Buida el punt de ruptura després de la primera activació">
-<!ENTITY BPProps.Then.label         "Després...">
-<!ENTITY BPProps.ConditionalCheck.label      "Quan s'activi, executa...">
+<!ENTITY BPProps.Then.label         "Després…">
+<!ENTITY BPProps.ConditionalCheck.label      "Quan s'activi, executa…">
 <!ENTITY BPProps.NeverStopRadio.label        "Continua independentment del resultat">
 <!ENTITY BPProps.AlwaysStopRadio.label       "Atura't independentment del resultat">
 <!ENTITY BPProps.ConditionalBreakRadio.label "Atura't si el resultat és cert">
 <!ENTITY BPProps.EarlyReturnRadio.label  "Retorn avançat del cridador amb el resultat">
 <!ENTITY BPProps.PassExceptionsCheck.label   "Passa les excepcions al cridador">
 <!ENTITY BPProps.LogResultCheck.label        "Registra el resultat">
-<!ENTITY BPProps.Apply.label  "Sol·licita">
+<!ENTITY BPProps.Apply.label  "Soŀlicita">
 <!ENTITY BPProps.Revert.label "Reverteix">
 <!ENTITY BPProps.Close.label  "Tanca">
