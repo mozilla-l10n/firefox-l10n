@@ -8,9 +8,8 @@
   useDownloadedList.label convey the meaning "suspected" (and not something like
   "known").
 -->
-<!ENTITY  tellMaybeForgery.label     "මම ගමන් කරන අඩවිය වංචාවන් සඳහා සැක කර ඇත්නම් මට දන්වන්න">
 <!ENTITY  tellMaybeForgery.accesskey "T">
-
+<!ENTITY  tellMaybeForgery2.label     "වංචාවන් සඳහා සැක කර ඇත්නම් අවහිර කරන්න">
 
 
 <!-- LOCALIZATION NOTE (askThirdParty.label):
@@ -47,4 +46,4 @@
 <!ENTITY  warningSettings.accesskey     "S">
 <!ENTITY  savedPasswords.label            "සුරැකු රහස්පද…">
 <!ENTITY  savedPasswords.accesskey        "P">
-<!ENTITY  tellMaybeAttackSite.label     "මා පිවිසෙන අඩවිය මෙම පද්ධතියේ ආරක්‍ෂාවට හානිකරයැයි සැක සහිත නම් දන්වන්න">
+<!ENTITY  tellMaybeAttackSite2.label     "ආක්‍රමණික අඩවියක් නම් අවහිර කරන්න">
