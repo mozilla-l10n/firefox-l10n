@@ -1,0 +1,4 @@
+<!-- New Tag Dialog -->
+<!ENTITY newTagDialog.title	"新規タグ">
+<!ENTITY name.label		"タグ名:">
+<!ENTITY name.accesskey		"T">
