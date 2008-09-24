@@ -306,7 +306,7 @@
 <!ENTITY calendar.context.publish.label                "Publier l'agenda…">
 <!ENTITY calendar.context.publish.accesskey            "b">
 <!ENTITY calendar.context.export.label                 "Exporter l'agenda…">
-<!ENTITY calendar.context.export.accesskey             "E">
+<!ENTITY calendar.context.export.accesskey             "x">
 <!ENTITY calendar.context.properties.label             "Propriétés">
 <!ENTITY calendar.context.properties.accesskey         "P">
 

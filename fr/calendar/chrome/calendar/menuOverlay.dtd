@@ -49,7 +49,7 @@
 
 <!ENTITY event.new.todo                         "Nouvelle tâche…">
 <!ENTITY event.new.todo.key                     "T">
-<!ENTITY event.new.todo.accesskey               "o">
+<!ENTITY event.new.todo.accesskey               "T">
 
 <!ENTITY calendar.new.server.label              "Nouvel agenda…">
 <!ENTITY calendar.new.server.key                "L">
@@ -81,9 +81,9 @@
 <!ENTITY calendar.import.accesskey              "i">
 
 <!ENTITY calendar.export.calendar.label         "Exporter l'agenda…">
-<!ENTITY calendar.export.calendar.accesskey     "E">
+<!ENTITY calendar.export.calendar.accesskey     "x">
 <!ENTITY calendar.export.selection.label        "Exporter la sélection…">
-<!ENTITY calendar.export.selection.accesskey    "o">
+<!ENTITY calendar.export.selection.accesskey    "t">
 
 <!ENTITY calendar.subscribe.label               "S'abonner à un agenda distant…">
 <!ENTITY calendar.subscribe.accesskey           "s">
