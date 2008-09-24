@@ -363,7 +363,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Wurdboeken tafoegje...">
 <!ENTITY spellAddDictionaries.accesskey "W">
 
-<!ENTITY editBookmark.done.label                      "Fêstlizze">
+<!ENTITY editBookmark.done.label                      "Bewarje">
 <!ENTITY editBookmark.cancel.label                   "Annulearje">
 <!ENTITY editBookmark.removeBookmark.label           "Blêdwizer fuortsmite">
 <!ENTITY editBookmark.removeBookmark.accessKey       "F">
