@@ -1,0 +1,9 @@
+<!ENTITY defaultClient.title "Client par défaut">
+<!ENTITY defaultClient.intro "Utiliser &brandShortName; comme client par défaut pour :">
+
+<!ENTITY browser.label "La navigation">
+<!ENTITY email.label "Les courriels">
+<!ENTITY newsgroups.label "Les groupes de discussion">
+
+<!ENTITY checkOnStartup.label "Toujours faire cette vérification au démarrage de &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "T">
