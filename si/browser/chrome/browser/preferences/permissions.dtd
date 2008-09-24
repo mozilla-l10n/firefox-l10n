@@ -3,7 +3,7 @@
 
 <!ENTITY treehead.sitename.label      "අඩවිය">
 <!ENTITY treehead.status.label        "තත්ත්වය">
-
+<!ENTITY address.accesskey            "d">
 <!ENTITY removepermission.label       "අඩවිය ඉවත් කරන්න">
 <!ENTITY removepermission.accesskey   "R">
 <!ENTITY removeallpermissions.label   "සියලු අඩවීන් ඉවත් කරන්න">
