@@ -1,0 +1,16 @@
+<!ENTITY pane.title                 "Afleverstatusnotificatie">
+<!ENTITY useGlobalPrefs.label       "Mijn algemene afleverstatusnotificatievoorkeuren gebruiken voor deze account">
+<!ENTITY useGlobalPrefs.accesskey   "M">
+<!ENTITY useCustomPrefs.label       "Afleverstatusnotificatie aanpassen voor deze account">
+<!ENTITY useCustomPrefs.accesskey   "p">
+<!ENTITY requestAlways.label        "Altijd een afleverstatusnotificatie vragen bij het verzenden van berichten">
+<!ENTITY requestAlways.accesskey    "A">
+<!ENTITY optionTitle.label          "Notificatie vragen bij :">
+<!ENTITY requestOnSucess.label      "Succesvol afleveren">
+<!ENTITY requestOnSucess.accesskey  "S">
+<!ENTITY requestOnFailure.label     "Fout bij afleveren">
+<!ENTITY requestOnFailure.accesskey "F">
+<!ENTITY requestOnDelay.label       "Vertraging bij afleveren">
+<!ENTITY requestOnDelay.accesskey   "V">
+<!ENTITY requestNever.label         "Nooit een afleverstatusnotificatie ontvangen">
+<!ENTITY requestNever.accesskey     "N">
