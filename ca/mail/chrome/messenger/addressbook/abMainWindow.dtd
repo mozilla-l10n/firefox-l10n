@@ -5,16 +5,16 @@
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Nou">
 <!ENTITY newMenu.accesskey "N">
-<!ENTITY newCard.label "Targeta de la llibreta d'adreces...">
+<!ENTITY newCard.label "Targeta de la llibreta d'adreces…">
 <!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newCard.accesskey "c">
 <!ENTITY newCard.key "N">
-<!ENTITY newListCmd.label "Llista de correu...">
+<!ENTITY newListCmd.label "Llista de correu…">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey "L">
-<!ENTITY newAddressBookCmd.label "Llibreta d'adreces...">
+<!ENTITY newAddressBookCmd.label "Llibreta d'adreces…">
 <!ENTITY newAddressBookCmd.accesskey "b">
-<!ENTITY newLDAPDirectoryCmd.label "Directori LDAP...">
+<!ENTITY newLDAPDirectoryCmd.label "Directori LDAP…">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey "D">
 <!ENTITY newMessageCmd.label "Missatge">
@@ -26,17 +26,17 @@
 <!ENTITY closeCmd.label "Tanca">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "c">
-<!ENTITY printSetupCmd.label "Configuració de la pàgina...">
+<!ENTITY printSetupCmd.label "Configuració de la pàgina…">
 <!ENTITY printSetupCmd.accesskey "g">
 <!ENTITY printPreviewCardViewCmd.label "Exemple d'impressió de la targeta	">
 <!ENTITY printPreviewCardViewCmd.accesskey "t">
 <!ENTITY printPreviewAddressBook.label "Exemple d'impressió de la llibreta d'adreces	">
 <!ENTITY printPreviewAddressBook.accesskey "b">
-<!ENTITY printCardViewCmd.label "Imprimeix la targeta...">
+<!ENTITY printCardViewCmd.label "Imprimeix la targeta…">
 <!ENTITY printCardViewCmd.accesskey "p">
 <!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->
 <!ENTITY printCardViewCmd.key "P">
-<!ENTITY printAddressBook.label "Imprimeix la llibreta d'adreces...">
+<!ENTITY printAddressBook.label "Imprimeix la llibreta d'adreces…">
 <!ENTITY printAddressBook.accesskey "a">
 
 <!ENTITY quitApplicationCmdWin.label "Surt">
@@ -81,7 +81,7 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "false">
-<!ENTITY propertiesCmd.label "Propietats...">
+<!ENTITY propertiesCmd.label "Propietats…">
 <!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY propertiesCmd.accesskey "i">
 <!ENTITY propertiesCmd.key "i">
@@ -95,7 +95,7 @@
 <!ENTITY showAbToolbarCmd.accesskey "r">
 <!ENTITY showTaskbarCmd.label "Barra d'estat">
 <!ENTITY showTaskbarCmd.accesskey "s">
-<!ENTITY customizeToolbar.label "Personalitza...">
+<!ENTITY customizeToolbar.label "Personalitza…">
 <!ENTITY customizeToolbar.accesskey "P">
 <!ENTITY showCardPane.label "Subfinestra de la targeta">
 <!ENTITY showCardPane.accesskey "b">
@@ -116,13 +116,13 @@
 <!ENTITY messengerCmd.label "Missatgeria">
 <!ENTITY messengerCmd.accesskey "M">
 <!ENTITY messengerCmd.commandkey "1">
-<!ENTITY searchAddressesCmd.label "Cerca les adreces...">
+<!ENTITY searchAddressesCmd.label "Cerca les adreces…">
 <!ENTITY searchAddressesCmd.accesskey "e">
-<!ENTITY importCmd.label "Importa...">
+<!ENTITY importCmd.label "Importa…">
 <!ENTITY importCmd.accesskey "I">
-<!ENTITY exportCmd.label "Exporta...">
+<!ENTITY exportCmd.label "Exporta…">
 <!ENTITY exportCmd.accesskey "E">
-<!ENTITY preferencesCmd.label "Opcions...">
+<!ENTITY preferencesCmd.label "Opcions…">
 <!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferències">

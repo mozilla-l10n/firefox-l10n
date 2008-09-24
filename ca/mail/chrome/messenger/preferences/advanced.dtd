@@ -33,10 +33,10 @@
 <!ENTITY connectionTimeout.accesskey   "m">
 <!ENTITY connectionSeconds.label       "segons">
 <!ENTITY configEditDesc.label          "Configuració avançada">
-<!ENTITY configEdit.label              "Editor de configuració...">
+<!ENTITY configEdit.label              "Editor de configuració…">
 <!ENTITY configEdit.accesskey          "g">
 <!ENTITY returnReceiptsInfo.label      "Determina com el &brandShortName; gestiona els avisos de rebuda">
-<!ENTITY showReturnReceipts.label      "Avisos de rebuda...">
+<!ENTITY showReturnReceipts.label      "Avisos de rebuda…">
 <!ENTITY showReturnReceipts.accesskey  "r">
 
 
@@ -46,7 +46,7 @@
 <!ENTITY enableAppUpdate.accesskey      "T">
 <!ENTITY enableAddonsUpdate.label       "Complements instaŀlats">
 <!ENTITY enableAddonsUpdate.accesskey   "m">
-<!ENTITY checkNow.label                 "Comprova-ho ara...">
+<!ENTITY checkNow.label                 "Comprova-ho ara…">
 <!ENTITY whenUpdatesFound.label         "Quan es trobin actualitzacions del &brandShortName;,">
 <!ENTITY modeAskMe.label                "Demana'm què vull fer">
 <!ENTITY modeAskMe.accesskey            "D">
@@ -58,13 +58,13 @@
 <!ENTITY showUpdates.accesskey          "u">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showConnections.label         "Connexió...">
+<!ENTITY showConnections.label         "Connexió…">
 <!ENTITY showConnections.accesskey     "n">
 <!ENTITY proxiesInfo.label             "Determina com el &brandShortName; es connecta a Internet.">
 <!ENTITY connectionsInfo.caption       "Connexió">
 <!ENTITY offlineInfo.caption           "Fora de línia">
 <!ENTITY offlineInfo.label             "Configura els paràmetres de fora de línia">
-<!ENTITY showOffline.label             "Fora de línia...">
+<!ENTITY showOffline.label             "Fora de línia…">
 <!ENTITY showOffline.accesskey         "o">
 
 <!ENTITY Diskspace "Espai de disc">

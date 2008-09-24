@@ -7,7 +7,7 @@
 <!ENTITY searchTermCaption.label "Configureu el criteri de cerca que s'utilitza per a aquesta carpeta de cerca desada:">
 
 <!ENTITY folderSelectionCaption.label "Seleccioneu les carpetes que voleu cercar:">
-<!ENTITY chooseFoldersButton.label "Trieu...">
+<!ENTITY chooseFoldersButton.label "Trieu…">
 <!ENTITY chooseFoldersButton.accesskey "T">
 
 <!ENTITY searchOnline.label "Cerca en línia (dóna resultats actualitzats de les carpetes d'IMAP i dels grups de discussió, però triga més temps a l'hora d'obrir la carpeta)">

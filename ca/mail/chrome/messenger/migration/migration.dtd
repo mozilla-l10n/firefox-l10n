@@ -21,8 +21,8 @@
 <!ENTITY importItems.title "Elements per importar">
 <!ENTITY importItems.label "Seleccioneu quins elements voleu importar:">
 
-<!ENTITY migrating.title "S'està important...">
-<!ENTITY migrating.label "Els següents elements s'estan important en aquests moments...">
+<!ENTITY migrating.title "S'està important…">
+<!ENTITY migrating.label "Els següents elements s'estan important en aquests moments…">
 
 <!ENTITY selectProfile.title "Seleccioneu un perfil">
 <!ENTITY selectProfile.label "Els següents perfils estan disponibles per importar-se des de:">

@@ -23,7 +23,7 @@
 <!ENTITY retentionKeepNew.accesskey "r">
 <!ENTITY retentionKeepUnread.label "Suprimeix sempre els missatges llegits">
 <!ENTITY retentionKeepUnread.accesskey "u">
-<!ENTITY offlineSelectNntp.label "Seleccioneu els grups de discussió per ús fora de línia...">
+<!ENTITY offlineSelectNntp.label "Seleccioneu els grups de discussió per ús fora de línia…">
 <!ENTITY offlineSelectNntp.accesskey "S">
 <!ENTITY offlineImapAdvancedOffline.label "Avançat…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">

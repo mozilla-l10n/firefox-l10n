@@ -6,9 +6,9 @@
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpDesc.label "Només cal indicar un servidor de sortida (SMTP), encara que tingueu diversos comptes de correu. Introduïu el nom del servidor per als missatges de sortida.">
 
-<!ENTITY smtpListAdd.label  "Afegeix...">
+<!ENTITY smtpListAdd.label  "Afegeix…">
 <!ENTITY smtpListAdd.accesskey  "f">
-<!ENTITY smtpListEdit.label "Edita...">
+<!ENTITY smtpListEdit.label "Edita…">
 <!ENTITY smtpListEdit.accesskey "E">
 <!ENTITY smtpListDelete.label "Suprimeix">
 <!ENTITY smtpListDelete.accesskey "m">

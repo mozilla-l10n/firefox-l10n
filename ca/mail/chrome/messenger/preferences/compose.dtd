@@ -53,13 +53,13 @@
 <!ENTITY directories.label                     "Servidor de directori:">
 <!ENTITY directories.accesskey                 "d">
 <!ENTITY directoriesNone.label                 "Cap">
-<!ENTITY editDirectories.label                 "Edita els directoris...">
+<!ENTITY editDirectories.label                 "Edita els directoris…">
 <!ENTITY editDirectories.accesskey             "E">
 <!ENTITY matchText.label                       "Si no hi ha cap coincidència a les vostres llibretes d'adreces locals:">
 <!ENTITY skipDirectory.label                   "No cerquis en el directori">
 
 <!ENTITY sendOptionsCaption.label              "Enviament i opcions HTML">
 <!ENTITY sendOptionsDescription.label          "Configura el comportament del format de text">
-<!ENTITY sendOptions.label                     "Opcions d'enviament...">
+<!ENTITY sendOptions.label                     "Opcions d'enviament…">
 <!ENTITY sendOptions.accesskey                 "v">
 

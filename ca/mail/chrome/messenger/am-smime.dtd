@@ -6,7 +6,7 @@
 <!ENTITY alwaysEncryptMessage.label "Sempre (inhabilita l'enviament tret que tots els destinataris tinguin un certificat)">
 <!ENTITY encryptionCert.message "Utilitza el certificat personal següent:">
 <!ENTITY encryptionCert.notselected "No s'ha definit cap certificat">
-<!ENTITY certificate.button "Seleccioneu...">
+<!ENTITY certificate.button "Seleccioneu…">
 <!ENTITY certificate_clear.button "Buida">
 <!ENTITY signingGroupTitle.label "Signatura digital">
 <!ENTITY signMessage.label "Signa els missatges digitalment">

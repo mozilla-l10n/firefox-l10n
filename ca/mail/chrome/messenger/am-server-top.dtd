@@ -83,12 +83,12 @@
 <!ENTITY abbreviate.label "Mostra els noms dels grups de discussió a la subfinestra de la carpeta de la Missatgeria com a:">
 <!ENTITY abbreviateOn.label "Noms sencers (per exemple, «netscape.public.mozilla.mail-news»)">
 <!ENTITY abbreviateOff.label "Noms abreujats (per exemple, «n.p.m.mail-news»)">
-<!ENTITY advancedButton.label "Avançat...">
+<!ENTITY advancedButton.label "Avançat…">
 <!ENTITY serverDefaultCharset.label "Codificació de caràcters per defecte:">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY localFolderPicker.label "Seleccioneu el directori local">
-<!ENTITY browseFolder.label "Navega...">
+<!ENTITY browseFolder.label "Navega…">
 <!ENTITY browseFolder.accesskey "N">
 <!ENTITY newsrcPicker.label "Selecciona el fitxer newsrc">
-<!ENTITY browseNewsrc.label "Navega...">
+<!ENTITY browseNewsrc.label "Navega…">
 <!ENTITY browseNewsrc.accesskey "e">

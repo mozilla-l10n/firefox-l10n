@@ -12,7 +12,7 @@
 <!ENTITY viewTags.accesskey "t">
 <!ENTITY viewCustomViews.label "Visualitzacions personalitzades">
 <!ENTITY viewCustomViews.accesskey "V">
-<!ENTITY viewVirtualFolder.label "Desa la visualització com una carpeta...">
+<!ENTITY viewVirtualFolder.label "Desa la visualització com una carpeta…">
 <!ENTITY viewVirtualFolder.accesskey "s">
-<!ENTITY viewCustomizeView.label "Personalitza...">
+<!ENTITY viewCustomizeView.label "Personalitza…">
 <!ENTITY viewCustomizeView.accesskey "z">

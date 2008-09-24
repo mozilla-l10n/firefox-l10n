@@ -20,7 +20,7 @@
 <!ENTITY filterActionDesc.label "Realitza les següents accions:">
 <!ENTITY filterActionDesc.accesskey "z">
 
-<!ENTITY newFolderButton.label "Carpeta nova...">
+<!ENTITY newFolderButton.label "Carpeta nova…">
 <!ENTITY newFolderButton.accesskey "n">
 
 <!ENTITY moveMessage.label "Mou el missatge a">

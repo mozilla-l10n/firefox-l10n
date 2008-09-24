@@ -6,7 +6,7 @@
 <!ENTITY fccMailFolder.accesskey "D">
 <!ENTITY fccReplyFollowsParent.label "Deixa les respostes en la carpeta del missatge que es respon">
 <!ENTITY fccReplyFollowsParent.accesskey "l">
-<!ENTITY chooseFolderButton.label "Trieu una carpeta...">
+<!ENTITY chooseFolderButton.label "Trieu una carpeta…">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Cco una altra adreça:">
 <!ENTITY bccAddress.accesskey "C">

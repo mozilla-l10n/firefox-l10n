@@ -12,7 +12,7 @@
 <!ENTITY sendMessage.accesskey "v">
 <!ENTITY workOffline.label "Treballa fora de línia en completar la baixada i/o sincronització">
 <!ENTITY workOffline.accesskey "f">
-<!ENTITY selectButton.label "Seleccioneu...">
+<!ENTITY selectButton.label "Seleccioneu…">
 <!ENTITY selectButton.accesskey "S">
 <!ENTITY MsgSelectDesc.label "Seleccioneu les carpetes de correu i els grups de discussió que voleu utilitzar fora de línia. Com més en seleccioneu, més augmentarà el temps de baixada.">
 <!ENTITY MsgSelectInd.label "Baixa">

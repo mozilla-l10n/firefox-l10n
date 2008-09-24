@@ -30,7 +30,7 @@
 <!ENTITY selectAllCmd.label "Selecciona-ho tot">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY preferencesCmd.label "Opcions...">
+<!ENTITY preferencesCmd.label "Opcions…">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferències">
 <!ENTITY preferencesCmdUnix.accesskey "n">
@@ -52,7 +52,7 @@
 <!ENTITY pac.label "En línia (servidor intermediari: automàtic)">
 <!ENTITY pac.accesskey "a">
 
-<!ENTITY proxy.label "Configuració del servidor intermediari...">
+<!ENTITY proxy.label "Configuració del servidor intermediari…">
 <!ENTITY proxy.accesskey "C">
 
 <!ENTITY findTypeTextCmd.key        "/">

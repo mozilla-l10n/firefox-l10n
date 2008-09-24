@@ -2,7 +2,7 @@
 
 <!ENTITY accountManagerTitle.label "Paràmetres del compte">
 
-<!ENTITY addAccountButton.label "Afegeix un compte...">
+<!ENTITY addAccountButton.label "Afegeix un compte…">
 <!ENTITY addAccountButton.accesskey "o">
 <!ENTITY setDefaultButton.label "Defineix com a predeterminat">
 <!ENTITY setDefaultButton.accesskey "f">

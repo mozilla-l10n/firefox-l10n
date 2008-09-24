@@ -15,7 +15,7 @@
 
 <!ENTITY  remove.label                        "Suprimeix l'acció">
 <!ENTITY  remove.accesskey                    "r">
-<!ENTITY  edit.label                          "Canvia l'acció...">
+<!ENTITY  edit.label                          "Canvia l'acció…">
 <!ENTITY  edit.accesskey                      "n">
 
 <!ENTITY  windowClose.key                     "w">

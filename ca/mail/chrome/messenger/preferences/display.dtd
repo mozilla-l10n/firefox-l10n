@@ -49,4 +49,4 @@
 <!ENTITY fontAndEncodingsDescription.label       "Configura els tipus de lletra i les codificacions que utilitza el &brandShortName;">
 <!ENTITY fontsAndEncodingsCaption.label      "Tipus de lletres i codificacions">
 <!ENTITY fontOptions.accesskey   "T">
-<!ENTITY fontOptions.label       "Tipus de lletres...">
+<!ENTITY fontOptions.label       "Tipus de lletres…">

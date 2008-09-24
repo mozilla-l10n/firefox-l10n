@@ -10,7 +10,7 @@
 <!ENTITY useQuickMode.label "Per defecte, mostra el resum de l'article en comptes de carregar la pàgina web">
 <!ENTITY useQuickMode.accesskey "f">
 
-<!ENTITY manageSubscriptions.label "Gestiona les subscripcions...">
+<!ENTITY manageSubscriptions.label "Gestiona les subscripcions…">
 <!ENTITY manageSubscriptions.accesskey "G">
 
 <!-- entities from defaults/isp/rss.rdf -->

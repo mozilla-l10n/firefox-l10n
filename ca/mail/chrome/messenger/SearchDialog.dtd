@@ -28,7 +28,7 @@
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label "Cerca a:">
 <!ENTITY abSearchHeading.accesskey   "e">
-<!ENTITY propertiesButton.label "Propietats...">
+<!ENTITY propertiesButton.label "Propietats…">
 <!ENTITY propertiesButton.accesskey "P">
 <!ENTITY composeButton.label "Redacta">
 <!ENTITY composeButton.accesskey "d">

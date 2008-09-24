@@ -1,9 +1,9 @@
 <!ENTITY window.title "Filtres de missatge">
 <!ENTITY nameColumn.label "Nom del filtre">
 <!ENTITY activeColumn.label "Habilitat">
-<!ENTITY newButton.label "Nou...">
+<!ENTITY newButton.label "Nou…">
 <!ENTITY newButton.accesskey "N">
-<!ENTITY editButton.label "Edita...">
+<!ENTITY editButton.label "Edita…">
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "Suprimeix">
 <!ENTITY deleteButton.accesskey "u">

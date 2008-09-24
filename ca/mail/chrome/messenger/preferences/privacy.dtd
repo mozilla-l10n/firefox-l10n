@@ -36,7 +36,7 @@
 <!ENTITY  masterPassword.intro        "Un cop definida, la contrasenya mestra protegeix totes les vostres contrasenyes - però heu d'introduir-la un cop per cada sessió.">
 <!ENTITY  setMasterPassword.label     "Contrasenya mestra">
 <!ENTITY  setMasterPassword.accesskey "m">
-<!ENTITY  removeMasterPassword.label  "Suprimeix la contrasenya mestra...">
+<!ENTITY  removeMasterPassword.label  "Suprimeix la contrasenya mestra…">
 <!ENTITY  removeMasterPassword.accesskey "r">
 <!ENTITY  editPasswords.label         "Edita les contrasenyes desades">
 <!ENTITY  editPasswords.accesskey     "i">

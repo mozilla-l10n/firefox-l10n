@@ -5,20 +5,20 @@
 <!ENTITY neverAsk.accesskey           "s">
 <!ENTITY desktop.label                "Escriptori">
 <!ENTITY downloads.label              "Baixades">
-<!ENTITY chooseFolderWin.label        "Navega...">
+<!ENTITY chooseFolderWin.label        "Navega…">
 <!ENTITY chooseFolderWin.accesskey    "N">
-<!ENTITY chooseFolderMac.label        "Tria...">
+<!ENTITY chooseFolderMac.label        "Tria…">
 <!ENTITY chooseFolderMac.accesskey    "T">
 
 
 <!ENTITY fileTypes.label              "Accions de baixada">
-<!ENTITY configureActions.label       "Visualitza i edita les accions...">
+<!ENTITY configureActions.label       "Visualitza i edita les accions…">
 <!ENTITY configureActions.accesskey   "V">
 <!ENTITY fileTypesDescription.label   "El &brandShortName; pot desar o obrir automàticament adjuncions de cert tipus:">
 
 <!ENTITY fileTypeColName.label        "Tipus de fitxer">
 <!ENTITY fileHandlerColName.label     "Aplicació">
-<!ENTITY editFileHandler.label        "Canvia l'acció...">
+<!ENTITY editFileHandler.label        "Canvia l'acció…">
 <!ENTITY editFileHandler.accesskey    "a">
 <!ENTITY removeFileHandler.label      "Suprimeix">
 <!ENTITY removeFileHandler.accesskey  "r">

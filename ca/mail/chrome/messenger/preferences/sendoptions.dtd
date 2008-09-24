@@ -17,9 +17,9 @@
 <!ENTITY HTMLTab.accesskey            "H">
 <!ENTITY PlainTextTab.label           "Dominis de text net">
 <!ENTITY PlainTextTab.accesskey       "t">
-<!ENTITY AddHtmlDomain.label              "Afegeix...">
+<!ENTITY AddHtmlDomain.label              "Afegeix…">
 <!ENTITY AddHtmlDomain.accesskey      "A">
-<!ENTITY AddPlainText.label           "Afegeix...">
+<!ENTITY AddPlainText.label           "Afegeix…">
 <!ENTITY AddPlainText.accesskey       "A">
 <!ENTITY DeleteHtmlDomain.label           "Suprimeix">
 <!ENTITY DeleteHtmlDomain.accesskey   "u">

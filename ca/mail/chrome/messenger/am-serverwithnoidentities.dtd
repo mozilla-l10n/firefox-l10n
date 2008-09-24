@@ -7,5 +7,5 @@
 <!ENTITY emptyTrashOnExit.accesskey "B">
 <!ENTITY localPath.label "Directori local:">
 <!ENTITY localFolderPicker.label "Ubicació de les carpetes locals:">
-<!ENTITY browseFolder.label "Navega...">
+<!ENTITY browseFolder.label "Navega…">
 <!ENTITY browseFolder.accesskey "v">
