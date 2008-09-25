@@ -309,7 +309,6 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY newTabButton.tooltip           "Nouvel onglet">
 <!ENTITY newWindowButton.tooltip        "Nouvelle fenêtre">
 <!ENTITY sidebarCloseButton.tooltip     "Fermer le panneau latéral">
 

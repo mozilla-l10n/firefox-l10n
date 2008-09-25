@@ -16,3 +16,4 @@
 <!ENTITY  bookmarkThisTab.accesskey "u">
 <!ENTITY  undoCloseTab.label "Annuler la fermeture de l'onglet">
 <!ENTITY  undoCloseTab.accesskey "e">
+<!ENTITY  newTabButton.tooltip "Ouvrir un nouvel onglet">
