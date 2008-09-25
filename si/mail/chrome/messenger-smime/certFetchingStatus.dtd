@@ -1,5 +1,5 @@
 <!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
 
-<!ENTITY title.label "Downloading Certificates">
-<!ENTITY info.message "Searching the directory for recipients' certificates. This may take a few minutes.">
-<!ENTITY stop.label "Stop Searching">
+<!ENTITY title.label "සහතික බාගතකිරීම">
+<!ENTITY info.message "නාමාවලිය තුළ ලබන්නාගේ සහතික සොයයි. මේ සඳහා විනාඩි කිහිපයක් ගතවනු ඇත.">
+<!ENTITY stop.label "සෙවීම කවතන්න">

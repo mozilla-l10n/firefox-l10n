@@ -15,8 +15,9 @@
 <!ENTITY smtpListSetDefault.label "පෙරනිමි සැකසුම">
 <!ENTITY smtpListSetDefault.accesskey "t">
 
-<!ENTITY serverDescription.label "විස්තඑය: ">
+<!ENTITY serverDescription.label "විස්තරය: ">
 <!ENTITY serverName.label "සේවාදායක නම: ">
 <!ENTITY serverPort.label "විවරය (Port): ">
 <!ENTITY userName.label   "පරිශීලක නම: ">
 <!ENTITY useSecureConnection.label   "ආරක්ෂක සම්බන්ධතාවය: ">
+<!ENTITY useSecureAuthentication.label   "ආරක්ෂක සත්‍යාපනය: ">

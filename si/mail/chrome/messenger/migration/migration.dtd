@@ -1,8 +1,7 @@
 
 <!ENTITY migrationWizard.title          "ආයාත විශාරද">
-
-<!ENTITY importFrom.label               "වරණ, ගිණුම් සැකසුම්, ලිපින පොත් සහ වෙනත් දත්ත ආයාත කරන්න (වෙතින්):">
-<!ENTITY importFromUnix.label           "මනාපයන්, ගිණුම් සැකසුම්, ලිපින පොත් සහ වෙනත් දත්ත ආයාත කරන්න (වෙතින්):">
+<!ENTITY importFromWin.label            "වරණ, ගිණුම් සැකසුම්, ලිපින පොත, පෙරයන්, සහ අනෙකුත් දත්ත ආයාත කිරීම (වෙතින්):">
+<!ENTITY importFromNonWin.label         "මනාපයන්, ගිණුම් සැකසුම්, ලිපින පොත, පෙරයන්, සහ අනෙකුත් දත්ත ආයාත කිරීම (වෙතින්):">
 
 <!ENTITY importFromNothing.label        "කිසිවක් ආයාත නොකරන්න">
 <!ENTITY importFromNothing.accesskey    "D">
@@ -24,8 +23,8 @@
 <!ENTITY migrating.title                "ආයාත කරමින් සිටී...">
 <!ENTITY migrating.label                "පහත අයිතමයන් මේ වනවිට ආයාත කරමින් සිටී...">
 
-<!ENTITY selectProfile.title            "පැතිකඩ තෝරන්න">
-<!ENTITY selectProfile.label            "පහත පැතිකඩ ආයාත කිරීම සඳහා තිබේ (වෙතින්):">
+<!ENTITY selectProfile.title            "පැතිකඩ (Profile) තෝරන්න">
+<!ENTITY selectProfile.label            "පහත පැතිකඩ (Profile) ආයාත කිරීම සඳහා තිබේ (වෙතින්):">
 
 <!ENTITY done.title                     "ආයාත කරීම අවසන්">
 <!ENTITY done.label                     "පහත අයිතමයන් සාර්ථකව ආයාත කරන ලදී:">

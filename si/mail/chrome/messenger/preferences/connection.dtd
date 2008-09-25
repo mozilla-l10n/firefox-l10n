@@ -2,26 +2,26 @@
 <!ENTITY  connectionsDialog.title       "සම්බන්ධතාවය සැකසීම">
 <!ENTITY  window.width                   "37em">
 
-<!ENTITY  proxyTitle.label              "අන්තර්ජාලයට පිවිසීමට Proxy සේවාදායක වින්‍යාසය">
-<!ENTITY  directTypeRadio.label         "අන්තර්ජාලයට සෘජු සබඳතාවයකි">
-<!ENTITY  directTypeRadio.accesskey     "D">
-<!ENTITY  WPADTypeRadio.label           "මෙම ජාලය සඳහා  ස්ව-හැඳුනුම් proxy සැකසුමකි">
+<!ENTITY  proxyTitle.label              "අන්තර්ජාලයට පිවිසීමට ප්‍රොක්සි සේවාදායක වින්‍යාසය">
+<!ENTITY  noProxyTypeRadio.label        "ප්‍රොක්සි නැත">
+<!ENTITY  noProxyTypeRadio.accesskey    "y">
+<!ENTITY  systemTypeRadio.label         "පද්ධති ප්‍රොක්සි සැකසුම් භාවිතා කරන්න">
+<!ENTITY  systemTypeRadio.accesskey     "u">
+<!ENTITY  WPADTypeRadio.label           "මෙම ජාලය සඳහා  ස්ව-හැඳුනුම් ප්‍රොක්සි සැකසුමකි">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
-<!ENTITY  manualTypeRadio.label         "වින්‍යාසය මවිසින් කරනු ඇත(Manual proxy conf):">
+<!ENTITY  manualTypeRadio.label         "වින්‍යාසය  පරිශීලක විසින් කරනු ඇත(Manual proxy conf):">
 <!ENTITY  manualTypeRadio.accesskey     "M">
 <!ENTITY  autoTypeRadio.label           "ස්වයංක්‍රීය ප්‍රොක්සි වින්‍යාස URL:">
 <!ENTITY  autoTypeRadio.accesskey       "A">
-<!ENTITY  configAutoconfigText.label    "වින්‍යාස පිහිටුම(URL):">
-<!ENTITY  configAutoconfigText.accesskey "U">
-<!ENTITY  reload.label                  "නැවත ලබා ගන්න">
+<!ENTITY  reload.label                  "ප්‍රතිපූරණය">
 <!ENTITY  reload.accesskey              "l">
-<!ENTITY  ftp.label                     "FTP ප්‍රොක්සිය:">
+<!ENTITY  ftp.label                     "FTP ප්‍රොක්සි :">
 <!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  gopher.label                  "Gopher ප්‍රොක්සිය:">
+<!ENTITY  gopher.label                  "Gopher ප්‍රොක්සි :">
 <!ENTITY  gopher.accesskey              "G">
-<!ENTITY  http.label                    "HTTP ප්‍රොක්සිය:">
+<!ENTITY  http.label                    "HTTP ප්‍රොක්සි :">
 <!ENTITY  http.accesskey                "H">
-<!ENTITY  ssl.label                     "SSL ප්‍රොක්සිය:">
+<!ENTITY  ssl.label                     "SSL ප්‍රොක්සි :">
 <!ENTITY  ssl.accesskey                 "S">
 <!ENTITY  socks.label                   "SOCKS ධාරකය:">
 <!ENTITY  socks.accesskey               "C">
@@ -29,15 +29,14 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-<!ENTITY  port.label                    "විවරය:">
-<!ENTITY  HTTPport.accesskey            "P">
+<!ENTITY  HTTPport.label                "විවරය (Port):">
+<!ENTITY  HTTPport.accesskey            "p">
+<!ENTITY  SSLport.label                 "විවරය (Port):">
 <!ENTITY  SSLport.accesskey             "o">
-<!ENTITY  FTPport.accesskey             "r">
-<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY  gopherPort.accesskey          "">
+<!ENTITY  SOCKSport.label               "විවරය (Port):">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "ම්වා සඳහා ප්‍රොක්සි අවශ්‍ය නොවේ:">
 <!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "උදාහරණ: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "මෙම proxy සේවාදායකය සියළු සම්මුති (protocols) සඳහා භාවිතා කරන්න">
+<!ENTITY  shareproxy.label              "මෙම ප්‍රොක්සි සේවාදායකය සියළු සම්මුති (protocols) සඳහා භාවිතා කරන්න">
 <!ENTITY  shareproxy.accesskey          "x">

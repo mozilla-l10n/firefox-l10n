@@ -1,7 +1,7 @@
 <!ENTITY itemGeneral.label                   "සාමාන්‍ය">
 <!ENTITY itemAutoComplete.label              "ලිපිනයන්">
-<!ENTITY itemSpellCheck.label                "අක්ෂර වින්‍යාස">
-<!ENTITY itemSendFormat.label                "හැඩතලය යවන්න">
+<!ENTITY itemSpellCheck.label                "අක්ෂර වින්‍යාසය">
+<!ENTITY itemSendFormat.label                "යවන හැඩතල">
 
 <!ENTITY forwardReply.label                   "ලිපි යොමුකිරීම්">
 <!ENTITY forwardMsg.label                     "ලිපි යොමුකිරීම:">
@@ -10,6 +10,8 @@
 <!ENTITY inline.accesskey                     "I">
 <!ENTITY asAttachment.label                   "ඇමුණුමක් ලෙස">
 <!ENTITY asAttachment.accesskey               "A">
+<!ENTITY addExtension.label                   "දිගු කිරීම ගොනු නමට එක් කරන්න">
+<!ENTITY addExtension.accesskey               "f">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "අකුරු:">
@@ -24,22 +26,19 @@
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
 
 <!ENTITY sendingMessagesHeader.label          "ලිපි ලිවීම">
-<!ENTITY spellCheck.label                     "යැවීමට පෙර අක්ෂර වින්‍යාස පරීක්ෂා කරන්න">
+<!ENTITY spellCheck.label                     "යැවීමට පෙර අක්ෂර වින්‍යාසය පරීක්ෂා කරන්න">
 <!ENTITY spellCheck.accesskey                 "C">
-<!ENTITY spellCheckInline.label               "ඔබ ටයිප් කළ දෙයෙහි අක්ෂර වින්‍යාස පරීක්ෂාව බල ගන්වන්න">
+<!ENTITY spellCheckInline.label               "ලියන විටදීම අක්ෂර වින්‍යාස පරීක්ෂාව බලැති කරන්න">
 <!ENTITY spellCheckInline1.accesskey           "k">
 <!ENTITY languagePopup.label                  "භාෂාව:">
 <!ENTITY languagePopup.accessKey              "g">
-<!ENTITY downloadDictionaries.label           "වැඩිපුර ශබ්දකෝශ භාගත කරන්න">
+<!ENTITY downloadDictionaries.label           "තවත් ශබ්දකෝෂ බාගත කිරීම">
 
-<!ENTITY useMIME.label                        "8-bit අනුලකුණු අන්තර්ගත හසුන් සඳහා 'quoted printable' MIME කේතනය භාවිතා කරන්න">
-<!ENTITY useMIME.accesskey                    "o">
-<!ENTITY warnOnSendAccelKey.label             "හසුන් යැවීමට යතුරු පුවරු කෙටි මං භාවිතා කරන විට තහවුරු කරන්න">
+<!ENTITY warnOnSendAccelKey.label             "Confirm when using keyboard shortcut to send message">
 <!ENTITY warnOnSendAccelKey.accesskey         "i">
 <!ENTITY autoSave.label                       "සෑම විනාඩි ">
 <!ENTITY autoSave.accesskey                   "u">
 <!ENTITY autoSaveEnd.label                    "වරක් ස්වයංව සුරකින්න">
-<!ENTITY autoSaveEnd.accesskey                "m">
 <!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
 <!ENTITY wrapOutMsg.label                     "පේළි කඩන්නේ අකුරු">
 <!ENTITY wrapOutMsg.accesskey                 "l">
@@ -49,17 +48,18 @@
 <!ENTITY emailCollectionPicker.accesskey       "t">
 <!ENTITY addressingTitle.label                 "ලිපින සවයං-පූර්ණය">
 <!ENTITY autocompleteText.label                "ලිපින යෙදීමේදී, ගැලපෙන යෙදීම් බලන්නේ:">
-<!ENTITY addressingEnable.label                "පෙදෙසි ලිපින පොත්">
+<!ENTITY addressingEnable.label                "පෙදෙසි (Local) ලිපින පොත්">
 <!ENTITY addressingEnable.accesskey            "A">
-<!ENTITY directories.label                     "ශබ්දකෝෂ සේවාදායකය:">
+<!ENTITY directories.label                     "ඩිරෙක්ටරි සේවාදායකය:">
 <!ENTITY directories.accesskey                 "D">
-<!ENTITY editDirectories.label                 "ශබ්දකෝෂ සංස්කරණය කරන්න...">
+<!ENTITY directoriesNone.label                 "කිසිවක් නැත">
+<!ENTITY editDirectories.label                 "ඩිරෙක්ටරි සැකසුම්...">
 <!ENTITY editDirectories.accesskey             "E">
-<!ENTITY matchText.label                       "ඔබගේ පෙදෙසි ලිපින පොත තුළ ගැළපීමක් තිබේ නම්:">
-<!ENTITY skipDirectory.label                   "ශබ්දකෝෂය තුළ සොයන්න එපා">
+<!ENTITY matchText.label                       "ඔබගේ පෙදෙසි (Local) ලිපින පොත් තුළ ගැලපුමක් ඇතිවිට:">
+<!ENTITY skipDirectory.label                   "ඩිරෙක්ටරි තුළ සෙවීම් නොකරන්න">
 
-<!ENTITY sendOptionsCaption.label              "යැවීම සහ HTML වරණ">
-<!ENTITY sendOptionsDescription.label          "පෙළ හැඩතල හැසිරීම වින්‍යාස කරන්න">
+<!ENTITY sendOptionsCaption.label              "යැවීම් සහ HTML වරණ">
+<!ENTITY sendOptionsDescription.label          "පාඨ හැඩතල හැසිරීම් වින්‍යාස කිරීම">
 <!ENTITY sendOptions.label                     "යැවීම් වරණ...">
 <!ENTITY sendOptions.accesskey                 "S">
 

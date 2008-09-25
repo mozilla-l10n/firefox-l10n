@@ -1,5 +1,5 @@
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-<!ENTITY msgComposeWindow.title "සකසනය: (විෂයයක් නැත)">
+<!ENTITY msgComposeWindow.title "ලිපි ලිවීම: (විෂයය යොදා නැත)">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label "ගොනු"> 
@@ -19,7 +19,7 @@
 <!ENTITY attachPageCmd.label "වෙබ් පිටුවක්...">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Personal Card (vCard)">
+<!ENTITY attachVCardCmd.label "පෞද්ගලික පත (vCard)">
 <!ENTITY attachVCardCmd.accesskey "P">
 <!ENTITY closeCmd.label "වසන්න">
 <!ENTITY closeCmd.key "W">
@@ -64,13 +64,14 @@
 <!ENTITY cutCmd.label "කපන්න">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "t"> 
-<!ENTITY copyCmd.label "කොපි කරන්න">
+<!ENTITY copyCmd.label "පිටපත් කරන්න">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "c"> 
 <!ENTITY pasteCmd.label "අලවන්න">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY editRewrapCmd.label "Rewrap">
+<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "මකන්න">
 <!ENTITY deleteCmd.key "D">
@@ -95,10 +96,10 @@
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenuNew.label "මෙවලම් තීරු"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "T"> 
-<!ENTITY showComposeToolbarCmd.label "ලිපි මෙවලම් තීරුව">
-<!ENTITY showComposeToolbarCmd.accesskey "o">
-<!ENTITY showFormatToolbarCmd.label "හැඩගැසුම් මෙවලම් තීරුව">
-<!ENTITY showFormatToolbarCmd.accesskey "F">
+<!ENTITY showCompositionToolbarCmd.label "ලිපි ලිවීමේ මෙවලම් තීරුව">
+<!ENTITY showCompositionToolbarCmd.accesskey "o">
+<!ENTITY showFormattingBarCmd.label "හැඩතැසුම් මෙවලම් තීරුව">
+<!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "තත්ත්ව තීරුව">
 <!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY customizeToolbar.label "රිසිකරණය...">
@@ -114,30 +115,32 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "වරණ">
 <!ENTITY optionsMenu.accesskey "p">
-<!ENTITY checkSpellingCmd.label "අක්ෂර වින්‍යාස පරීක්ෂා කරන්න...">
+<!ENTITY checkSpellingCmd.label "අක්ෂර වින්‍යාස පරීක්ෂාව...">
 <!ENTITY checkSpellingCmd.key "K">
 <!ENTITY checkSpellingCmd.key2 "VK_F7">
 <!ENTITY checkSpellingCmd.accesskey "h">
-<!ENTITY enableInlineSpellChecker.label "ඔබ ටයිප් කළ දෙයහි අක්ෂර වින්‍යාස පරීක්ෂා කරන්න">
+<!ENTITY enableInlineSpellChecker.label "ලියන විටදීම අක්ෂර වින්‍යාස පරීක්ෂාව කරන්න">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY quoteCmd.label "උපුටා දක්වන්න">
 <!ENTITY quoteCmd.accesskey "Q">
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCard.label "Personal Card (vCard) සම්බන්ධ කරන්න">
+<!ENTITY attachVCard.label "පෞද්ගලික පත (vCard) අමුණන්න">
 <!ENTITY attachVCard.accesskey "v">
 
 <!ENTITY returnReceiptMenu.label "ලදුපත්">
 <!ENTITY returnReceiptMenu.accesskey "t">
+<!ENTITY dsnMenu.label "බෙදාහැරීමේ තත්ත්ව නිවේදනය">
+<!ENTITY dsnMenu.accesskey "N">
 <!ENTITY outputFormatMenu.label "හැඩගැසුම්">
 <!ENTITY outputFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "ස්ව-හැඳුනුම">
 <!ENTITY autoFormatCmd.accesskey "A">
-<!ENTITY plainTextFormatCmd.label "සාමාන්‍ය පාඨ (Plain Text) පමණි">
+<!ENTITY plainTextFormatCmd.label "සාමාන්‍ය පාඨ පමණි">
 <!ENTITY plainTextFormatCmd.accesskey "P">
-<!ENTITY htmlFormatCmd.label "සරු පෙළ (HTML) පමණි">
+<!ENTITY htmlFormatCmd.label "Rich Text (HTML) Only">
 <!ENTITY htmlFormatCmd.accesskey "R">
-<!ENTITY bothFormatCmd.label "සරල සහ සරු (HTML) පෙළ">
+<!ENTITY bothFormatCmd.label "Plain and Rich (HTML) Text">
 <!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "ප්‍රමුඛතාවය">
 <!ENTITY priorityMenu.accesskey "P">
@@ -154,7 +157,7 @@
 <!ENTITY highestPriorityCmd.accesskey "H">
 <!ENTITY fileCarbonCopyCmd.label "පිටපතක් යවන්න">
 <!ENTITY fileCarbonCopyCmd.accesskey "d">
-<!ENTITY fileHereMenu.label "File Here">
+<!ENTITY fileHereMenu.label "මෙහි ගොනුගත කරන්න">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "මෙවලම්">
@@ -181,25 +184,14 @@
 <!ENTITY zoomWindow.label "විශාලනය"> 
 <!ENTITY windowMenu.label "කවළු"> 
 
-<!-- Help Menu -->
-<!ENTITY helpMenu.label "උදව්">
-<!ENTITY helpMenu.accesskey "H"> 
-<!ENTITY releaseCmd.label "Release Notes">
-<!ENTITY releaseCmd.accesskey "R"> 
-<!ENTITY hintsAndTips.label "&brandShortName; උදව්">
-<!ENTITY hintsAndTips.accesskey "H"> 
-<!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY aboutCmd.label "&brandShortName; පිළිබඳ">
-<!ENTITY aboutCmd.accesskey "A">
-
 <!-- Mail Toolbar -->
 <!ENTITY sendButton.label "යවන්න">
 <!ENTITY quoteButton.label "උපුටා දක්වන්න">
 <!ENTITY addressButton.label "සබදතා">
 <!ENTITY attachButton.label "ඇමුණුම්">
-<!ENTITY spellingButton.label "අක්ෂර වින්‍යාස">
+<!ENTITY spellingButton.label "අක්ෂර වින්‍යාසය">
 <!ENTITY saveButton.label "සුරකින්න">
-<!ENTITY throbberItem.title "සක්‍රිය දර්ශකය">
+<!ENTITY throbberItem.title "ක්‍රියාකාරීත්ව දර්ශකය">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "මෙම ලිපිය දැන් යැවීමට"> 
@@ -209,7 +201,7 @@
 <!ENTITY attachButton.tooltip "ඇමුණුමක් ඇතුලත් කිරීමට"> 
 <!ENTITY saveButton.tooltip "මෙම ලිපිය සුරැකීමට"> 
 <!ENTITY cutButton.tooltip              "කොටස කපා ගැනීමට">
-<!ENTITY copyButton.tooltip             "කොපි කිරීමට">
+<!ENTITY copyButton.tooltip             "පිටපත් කිරීමට">
 <!ENTITY pasteButton.tooltip            "අැලවීමට">
 
 <!-- Headers -->
@@ -220,7 +212,7 @@
 <!ENTITY bccAddr.label "රහස්‍ය පිටපත්:"> 
 <!ENTITY replyAddr.label "පිළිතුරු මෙයට:"> 
 <!ENTITY newsgroupsAddr.label "පුවත්සමූහ:"> 
-<!ENTITY followupAddr.label "අනුව යන්නේ:"> 
+<!ENTITY followupAddr.label "පසුවිපරම් මෙයට:"> 
 <!ENTITY subject.label "මාතෘකාව:">
 <!ENTITY subject.accesskey "S">
 <!ENTITY attachments.label "ඇමුණුම්:">
@@ -250,16 +242,16 @@
 <!ENTITY smiley16Cmd.label "Lips-are-Sealed">
 
 <!-- Message Pane Context Menu -->
-<!ENTITY spellCheckNoSuggestions.label "යෝජනා නැත">
+<!ENTITY spellCheckNoSuggestions.label "යෝජනා හමු නොවීය">
 <!ENTITY spellCheckIgnoreWord.label "වචනය නොසලකා හරින්න">
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "ශබ්දකෝෂයට එකතු කරන්න">
+<!ENTITY spellCheckAddToDictionary.label "ශබ්දකෝෂයට එක් කරන්න">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY undo.label "අහෝසි">
 <!ENTITY undo.accesskey "U">
 <!ENTITY cut.label "කපන්න">
 <!ENTITY cut.accesskey "t">
-<!ENTITY copy.label "කොපි කරන්න">
+<!ENTITY copy.label "පිටපත් කරන්න">
 <!ENTITY copy.accesskey "C">
 <!ENTITY paste.label "අලවන්න">
 <!ENTITY paste.accesskey "P">
@@ -270,6 +262,8 @@
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "මකන්න">
 <!ENTITY delete.accesskey "D">
+<!ENTITY renameAttachment.label "යළි නම් කරන්න…">
+<!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "සියල්ල තෝරන්න">
 <!ENTITY selectAll.accesskey "A">
 <!ENTITY attachFile.label "ගොනු(ව) අමුණන්න...">

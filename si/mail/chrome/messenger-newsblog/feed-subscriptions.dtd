@@ -1,18 +1,18 @@
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "RSS Subscriptions">
-<!ENTITY subscriptionDesc.label "Note: Removing or changing the folder for a feed will not affect previously downloaded articles.">
-<!ENTITY feedTitle.label "Title:">
-<!ENTITY location.label  "Location:">
+<!ENTITY newsBlogSubscriptions.label "RSS දායකත්වයන්">
+ <!ENTITY subscriptionDesc.label "සටහන: පෝෂකයක් සඳහා ෆෝල්ඩරය ඉවත් කිරීම හෝ වෙනස් කිරීම පෙරදී භාගත කළ ලිපි (articles) වලට බල නොපායි.">
+<!ENTITY feedTitle.label "සිරස්තලය:">
+<!ENTITY location.label  "ස්ථානය:">
 
-<!ENTITY button.addFeed.label       "Add">
+<!ENTITY button.addFeed.label       "එක් කරන්න">
 <!ENTITY button.addFeed.accesskey   "A">
-<!ENTITY button.editFeed.label      "Edit">
+<!ENTITY button.editFeed.label      "සැකසුම්">
 <!ENTITY button.editFeed.accesskey  "E">
-<!ENTITY button.removeFeed.label "Remove">
+<!ENTITY button.removeFeed.label "ඉවත් කරන්න">
 <!ENTITY button.removeFeed.accesskey   "R">
-<!ENTITY button.importOPML.label "Import">
+<!ENTITY button.importOPML.label "ආයාත">
 <!ENTITY button.importOPML.accesskey   "I">
-<!ENTITY button.exportOPML.label "Export">
+<!ENTITY button.exportOPML.label "නිර්යාත">
 <!ENTITY button.exportOPML.accesskey   "X">
 
 <!ENTITY cmd.close.commandKey             "w">

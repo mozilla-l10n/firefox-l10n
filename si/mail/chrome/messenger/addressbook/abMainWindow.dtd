@@ -5,21 +5,21 @@
 <!ENTITY fileMenu.accesskey                             "f">
 <!ENTITY newMenu.label                                  "නව">
 <!ENTITY newMenu.accesskey                              "N">
-<!ENTITY newCard.label                                  "ලිපින පොතේ පිටුවක්...">
-<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newCard.label                                  "ලිපින පොතේ පිටුවක්…">
 <!ENTITY newCard.accesskey                              "C">
 <!ENTITY newCard.key                                    "N">
-<!ENTITY newListCmd.label                               "තැපැල් ලැයිස්තුව...">
-<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newListCmd.label                               "තැපැල් ලැයිස්තුව…">
 <!ENTITY newListCmd.accesskey                           "L">
-<!ENTITY newAddressBookCmd.label                        "ලිපින පොතක්...">
+<!ENTITY newAddressBookCmd.label                        "ලිපින පොතක්…">
 <!ENTITY newAddressBookCmd.accesskey                    "B">
-<!ENTITY newLDAPDirectoryCmd.label                      "LDAP ඩිරෙක්ට්‍රිය...">
-<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newLDAPDirectoryCmd.label                      "LDAP ඩිරෙක්ටරිය…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "ලිපියක්">
 <!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "m">
+<!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
+<!ENTITY osxAddressBook.label                           "Mac OS X ලිපින පොත භාවිතා කරන්න">
+<!ENTITY osxAddressBook.accesskey                       "O">
 <!ENTITY closeCmd.label                                 "වසන්න">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "c">
@@ -31,7 +31,6 @@
 <!ENTITY printPreviewAddressBook.accesskey              "B">
 <!ENTITY printCardViewCmd.label                         "පිටුව මුද්‍රණය...">
 <!ENTITY printCardViewCmd.accesskey                     "p">
-<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->
 <!ENTITY printCardViewCmd.key                           "P">
 <!ENTITY printAddressBook.label                         "ලිපින පොත මුද්‍රණය...">
 <!ENTITY printAddressBook.accesskey                     "A">
@@ -54,7 +53,7 @@
 <!ENTITY cutCmd.label                                   "කපන්න">
 <!ENTITY cutCmd.key                                     "X">
 <!ENTITY cutCmd.accesskey                               "t">
-<!ENTITY copyCmd.label                                  "කොපි කරන්න">
+<!ENTITY copyCmd.label                                  "පිටපත් කරන්න">
 <!ENTITY copyCmd.key                                    "C">
 <!ENTITY copyCmd.accesskey                              "c">
 <!ENTITY pasteCmd.label                                 "අලවන්න">
@@ -65,23 +64,25 @@
 <!ENTITY deleteCmd.accesskey                            "d">
 <!ENTITY deleteAbCmd.label                              "ලිපින පොත මකන්න">
 <!ENTITY deleteCardCmd.label                            "පිටුව මකන්න">
-<!ENTITY deleteCardsCmd.label                           "තෝරාගත් පිටු මකන්න">
+<!ENTITY deleteCardsCmd2.label                          "පිටු මකන්න">
+<!ENTITY deleteListCmd.label                            "ලැයිස්තුව මකන්න">
+<!ENTITY deleteListsCmd.label                           "ලැයිස්තුව මකන්න">
+<!ENTITY deleteItemsCmd.label                           "අයිතමයන් මකන්න">
 <!ENTITY selectAllCmd.label                             "සියල්ල තෝරන්න">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
 <!ENTITY selectAllCmd.accesskey                         "a">
-<!ENTITY swapFirstNameLastNameCmd.label                 "පළමු/අවසාන නම හුවමාරු කරන්න">
+<!ENTITY swapFirstNameLastNameCmd.label                 "මුල්/අවසන් නම හුවමාරු කරන්න">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesCmd.label                            "ලක්ෂණ...">
-<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY propertiesCmd.accesskey                        "i">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label                                 "දැකුම්">
+<!ENTITY viewMenu.label                                 "දසුන්">
 <!ENTITY viewMenu.accesskey                             "v">
 <!ENTITY viewToolbarsMenu.label                         "මෙවලම් තීරු">
 <!ENTITY viewToolbarsMenu.accesskey                     "T"> 
@@ -91,7 +92,7 @@
 <!ENTITY showTaskbarCmd.accesskey                       "S">
 <!ENTITY customizeToolbar.label                         "රිසිකරණය...">
 <!ENTITY customizeToolbar.accesskey                     "C">
-<!ENTITY showCardPane.label                             "Card සාරාංශ කවුඵව">
+<!ENTITY showCardPane.label                             "කාඩ්පත් සාරාංශ කවුළුව">
 <!ENTITY showCardPane.accesskey                         "C">
 <!ENTITY menu_ShowNameAs.label                          "නම මෙසේ පෙන්වන්න">
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
@@ -120,18 +121,7 @@
 <!ENTITY preferencesCmd.key                             "O">
 <!ENTITY preferencesCmd.accesskey                       "O">
 <!ENTITY preferencesCmdUnix.label                       "මනාපයන්">
-<!ENTITY preferencesCmdUnix.accesskey                   "n"> 
-
-<!-- Help Menu -->
-<!ENTITY helpMenu.label                                 "උදව්">
-<!ENTITY helpMenu.accesskey                             "H">
-<!ENTITY releaseCmd.label                               "නිකුතු සටහන්">
-<!ENTITY releaseCmd.accesskey                           "R">
-<!ENTITY hintsAndTips.label                             "&brandShortName; උදවු">
-<!ENTITY hintsAndTips.accesskey                         "h">
-<!ENTITY hintsAndTipsMac.commandkey                     "?">
-<!ENTITY aboutCmd.label                                 "&brandShortName; පිළිබඳ">
-<!ENTITY aboutCmd.accesskey                             "A">
+<!ENTITY preferencesCmdUnix.accesskey                   "n">
 
 <!-- Address Book Toolbar and Context Menus -->  
 <!ENTITY newcardButton.label                            "අලුත් පිටුවක්">
@@ -142,18 +132,18 @@
 <!ENTITY editButton.accesskey                           "P">
 <!ENTITY newmsgButton.label                             "නව ලිපියක් ලියන්න">
 <!ENTITY newmsgButton.accesskey                         "W">
-<!ENTITY newIM.label                                    "ක්ෂණික හසුන">
+<!ENTITY newIM.label                                    "ක්ෂණික පණිවිඩ">
 <!ENTITY newIM.accesskey                                "I">
 <!ENTITY deleteButton.label                             "මකන්න">
 <!ENTITY deleteButton.accesskey                         "D">
-<!ENTITY throbberItem.title                             "සක්‍රිය දර්ශකය">
+<!ENTITY throbberItem.title                             "ක්‍රියාකාරීත්ව දර්ශකය">
 
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newcardButton.tooltip                          "ලිපින පොතට නව පිටුවක් එක් කිරීමට">
 <!ENTITY newlistButton.tooltip                          "නව ලැයිස්තුවක් සෑදීමට">
-<!ENTITY editButton.tooltip                             "තෝරාගත් පිටිවේ වෙනස්කම් සිදුකිරීමට">
+<!ENTITY editButton.tooltip                             "තෝරාගත් පිටිවේ වෙනස්කම් කිරීමට">
 <!ENTITY newmsgButton.tooltip                           "ලිපියක් යැවීමට">
-<!ENTITY newIM.tooltip                                  "ක්ෂණික හසුනක් යැවීම හෝ කතාබස් කිරීම">
+<!ENTITY newIM.tooltip                                  "ක්ෂණික පණිවිඩක් හෝ කතාබහ යැවීමට">
 <!ENTITY deleteButton.tooltip                           "තෝරාගත් පිටුව හෝ පොත මකා දැමීමට">
 
 <!-- Dir Tree header -->
@@ -162,7 +152,7 @@
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "නම හෝ වි. තැ. ලිපිනය">
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
-<!ENTITY advancedButton.tooltip                         "වැඩිදුර ලිපින සෙවුම">
+<!ENTITY advancedButton.tooltip                         "වැඩිමනත් ලිපින සෙවුම්">
 <!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "Quick Search">
 
@@ -171,11 +161,11 @@
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "වි. තැ. ලිපිනය">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ScreenName.label                               "තිර නම">
+<!ENTITY ScreenName.label                               "Screen Name">
 <!ENTITY ScreenName.accesskey                           "S">
 <!ENTITY Company.label                                  "ආයතනය">
-<!ENTITY Company.accesskey                              "O">
-<!ENTITY NickName.label                                 "විකල්පනාමය">
+<!ENTITY Company.accesskey                              "z">
+<!ENTITY NickName.label                                 "විකල්ප නාමය">
 <!ENTITY NickName.accesskey                             "i">
 <!ENTITY SecondEmail.label                              "අතිරේක වි. තැ. ලිපිනය">
 <!ENTITY SecondEmail.accesskey                          "l">
@@ -197,20 +187,8 @@
 <!ENTITY sortAscending.accesskey                        "A">
 <!ENTITY sortDescending.label                           "අවරෝහණ පිළිවෙළට">
 <!ENTITY sortDescending.accesskey                       "D">
-<!ENTITY _PhoneticName.label                            "වාග්විෂයක නම">
+<!ENTITY _PhoneticName.label                            "Phonetic Name">
 <!ENTITY _PhoneticName.accesskey                        "o">
-
-<!-- Results pane context menu -->
-<!ENTITY composeEmail.label                             "ලිපියක් ලිවීමට">
-<!ENTITY composeEmail.accesskey                         "C">
-<!ENTITY deleteAddrBookCard.label                       "මකන්න">
-<!ENTITY deleteAddrBookCard.accesskey                   "D">
-<!ENTITY newAddrBookCard.label                          "අලුත් පිටුවක්...">
-<!ENTITY newAddrBookCard.accesskey                      "N">
-<!ENTITY newAddrBookMailingList.label                   "නව තැපැල් ලැයිස්තුව...">
-<!ENTITY newAddrBookMailingList.accesskey               "M">
-<!ENTITY addrBookCardProperties.label                   "ලක්ෂණ">
-<!ENTITY addrBookCardProperties.accesskey               "P">
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
@@ -224,14 +202,14 @@
 <!ENTITY addresses.heading                              "ලිපිනයන්">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "සිතියම ලබාගන්න">
-<!ENTITY mapIt.tooltip                                  "වෙබ් මඟින් මෙම ලිපිනයෙහි සිතියම පෙන්වන්න">
-                                          ‍
+<!ENTITY mapIt.tooltip                                  "මෙම ලිපිනයේ සිතියමක් වෙබ් තුළින් පෙන්වන්න">
+
 <!-- Status Bar -->
 <!ENTITY statusText.label "">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label "කවුළුව">
-<!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "හකුලන්න">
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "සියල්ල මතුපිටට ගෙනෙන්න">
 <!ENTITY zoomWindow.label "විශාලනය">

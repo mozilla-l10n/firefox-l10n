@@ -1,33 +1,33 @@
-<!ENTITY serverAdvanced.label "උසස් ගිණුම් සැකසුම්">
+<!ENTITY serverAdvanced.label "වැඩිමනත් ගිණුම් සැකසුම්">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY imapAdvanced.label "උසස් IMAP සේවාදායක සැකසුම්">
-<!ENTITY serverDirectory.label "IMAP සේවාදායක ඩිරෙක්ට්‍රිය:">
+<!ENTITY imapAdvanced.label "වැඩිමනත් IMAP සේවාදායක සැකසුම්">
+<!ENTITY serverDirectory.label "IMAP සේවාදායක ඩිරෙක්ටරි:">
 <!ENTITY serverDirectory.accesskey "d">
-<!ENTITY usingSubscription.label "දායක ගොනුව පමණක් පෙන්වන්න">
+<!ENTITY usingSubscription.label "දායක වූ ෆෝල්ඩර පමණක් පෙන්වන්න">
 <!ENTITY usingSubscription.accesskey "w">
-<!ENTITY dualUseFolders.label "උප ෆෝල්ඩර සහ හසුන් අඩංගු ෆෝල්ඩරවලට සේවාදායකය සහයෝගය දක්වයි">
+<!ENTITY dualUseFolders.label "ලිපි සහ උප-ෆෝල්ඩර අඩංගු සේවාදායකය ආධාර කරන ෆෝල්ඩර">
 <!ENTITY dualUseFolders.accesskey "f">
-<!ENTITY useIdle.label "සේවාදායකය එයට සහයෝගය දක්වන්නේ නම් IDLE විධානය භාවිතා කරන්න">
+<!ENTITY useIdle.label "Use IDLE command if the server supports it">
 <!ENTITY useIdle.accesskey "I">
-<!ENTITY maximumConnectionsNumber.label "හැඹිලියට ඇති උපරිම සේවාදායක සබැඳුම් සංඛ්‍යාව">
+<!ENTITY maximumConnectionsNumber.label "Maximum number of server connections to cache">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY namespaceDesc.label "මෙම මනාප ඔබගේ IMAP සේවාදායකයෙහි namespaces නියම වශයෙන් සඳහන් කරයි">
-<!ENTITY personalNamespace.label "පෞද්ගලික namespace:">
+<!ENTITY namespaceDesc.label "These preferences specify the namespaces on your IMAP server">
+<!ENTITY personalNamespace.label "Personal namespace:">
 <!ENTITY personalNamespace.accesskey "P">
-<!ENTITY publicNamespace.label "Public (හවුල්):">
+<!ENTITY publicNamespace.label "Public (shared):">
 <!ENTITY publicNamespace.accesskey "u">
 <!ENTITY otherUsersNamespace.label "වෙනත් පරිශීලකයින්:">
 <!ENTITY otherUsersNamespace.accesskey "O">
-<!ENTITY overrideNamespaces.label "මෙම namespaces ප්‍රතික්ෂේප කිරීමට සේවාදායකයට ඉඩාදන්න">
+<!ENTITY overrideNamespaces.label "Allow server to override these namespaces">
 <!ENTITY overrideNamespaces.accesskey "A">
-<!ENTITY pop3Desc.label "මෙම සේවාදායකයෙන් POP3 තැපැල් භාගත කරන විට, නව තැපැල් සඳහා පහත ෆෝල්ඩරය භාවිතා කරන්න:" >
-<!ENTITY folderStorage.label "තැපැල් ගබඩා කරන්නේ කොහේද">
-<!ENTITY globalInbox.label "Global Inbox (පෙදෙසි ෆෝල්ඩර ගිණුම)">
+<!ENTITY pop3Desc.label "When downloading POP3 mail from this server, use the following folder for new mail:" >
+<!ENTITY folderStorage.label "ලිපි ගබඩා කරනු ලබන්නේ">
+<!ENTITY globalInbox.label "Global Inbox (Local Folders Account)">
 <!ENTITY globalInbox.accesskey "G">
-<!ENTITY accountDirectory.label "සේවාදායකයේ ගිණුම සඳහා Inbox">
+<!ENTITY accountDirectory.label "Inbox for this server's account">
 <!ENTITY accountDirectory.accesskey "S">
-<!ENTITY deferToServer.label "විවිධ ගිණුම් සඳහා Inbox">
+<!ENTITY deferToServer.label "Inbox for different account">
 <!ENTITY deferToServer.accesskey "D">
-<!ENTITY deferGetNewMail.label "නව තැපැල් ලබා ගන්නා විට මෙම සේවාදායකය අඩංගු කරන්න">
+<!ENTITY deferGetNewMail.label "නව ලිපි ලබාගන්නා විට මෙම සේවාදායකය ඇතුලත් කරන්න">
 <!ENTITY deferGetNewMail.accesskey "I">

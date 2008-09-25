@@ -1,10 +1,10 @@
 <!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
 
-<!ENTITY status.label "Message Security">
-<!ENTITY signatureCert.label "View Signature Certificate">
-<!ENTITY encryptionCert.label "View Encryption Certificate">
+<!ENTITY status.label "ලිපි ආරක්ෂාව">
+<!ENTITY signatureCert.label "අත්සන් සහතිකය පෙන්වීම">
+<!ENTITY encryptionCert.label "සංකේතන සහතිකය පෙන්වීම">
 
-<!ENTITY signer.name "Signed by:">
-<!ENTITY recipient.name "Encrypted for:">
-<!ENTITY email.address "Email address:">
-<!ENTITY issuer.name "Certificate issued by:">
+<!ENTITY signer.name "අත්සන් කළේ:">
+<!ENTITY recipient.name "සඳහා සංකේතනය කළ:">
+<!ENTITY email.address "වි.තැ. ලිපිනය:">
+<!ENTITY issuer.name "සහතිකය නිකුත් කළේ:">

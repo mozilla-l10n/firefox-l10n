@@ -46,5 +46,5 @@
 <!ENTITY addresses.heading           "ලිපිනයන්">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label           "සිතියම ලබාගන්න">
-<!ENTITY mapIt.tooltip               "වෙබ් මඟින් මෙම ලිපිනයෙහි සිතියම පෙන්වන්න">
+<!ENTITY mapIt.tooltip               "මෙම ලිපිනයේ සිතියමක් වෙබ් තුළින් පෙන්වන්න">
 

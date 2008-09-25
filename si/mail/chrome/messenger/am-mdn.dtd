@@ -18,7 +18,7 @@
 <!ENTITY never.accesskey              "N">
 <!ENTITY notInToCc.label              "මම ලිපියේ ලබන්නා තීරුවේ හෝ පිටපත් තීරුවේ නොසිටීනම්:">
 <!ENTITY notInToCc.accesskey          "T">
-<!ENTITY outsideDomain.label          "එවන්නා මගේ (domain) අඩවියෙන් පිට අයෙකු නම්:">
+<!ENTITY outsideDomain.label          "එවන්නා මගේ වසමෙන් (domain) පිට අයෙකු නම්:">
 <!ENTITY outsideDomain.accesskey      "s">
 <!ENTITY otherCases.label             "අනෙක් සියළු අවස්ථාවන්හිදී:">
 <!ENTITY otherCases.accesskey         "o">

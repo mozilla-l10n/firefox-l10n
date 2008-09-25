@@ -1,20 +1,21 @@
-<!ENTITY newsblogTitle.label "RSS Account Settings">
+<!ENTITY newsblogTitle.label "RSS ගිණුම් සැකසුම්">
 
-<!ENTITY biffStart.label "Check for new articles every ">
+<!ENTITY biffStart.label "සෑම විනාඩි ">
 <!ENTITY biffStart.accesskey "k">
-<!ENTITY biffEnd.label "minutes">
+<!ENTITY biffEnd.label "ට වරක් නව ලිපි (articles) සඳහා පරීක්ෂා කරන්න">
 
-<!ENTITY loginAtStartup.label "Check for new articles at startup"> 
+<!ENTITY loginAtStartup.label "ආරම්භයේදී නව ලිපි (articles) සඳහා පරීක්ෂා කරන්න"> 
 <!ENTITY loginAtStartup.accesskey "C">
 
-<!ENTITY useQuickMode.label "By default, show the article summary instead of loading the web page"> 
+<!ENTITY useQuickMode.label "පෙරනිමි ලෙස, වෙබ් පිටුව පූරණය කරනවා වෙනුවට ලිපි සාරාංශය (article summary) පෙන්වන්න"> 
 <!ENTITY useQuickMode.accesskey "B">
 
-<!ENTITY manageSubscriptions.label "Manage Subscriptions..."> 
+<!ENTITY manageSubscriptions.label "දායකත්වයන් කළමණාකරනය..."> 
 <!ENTITY manageSubscriptions.accesskey "M">
 
 <!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName            "News &amp; Blogs">
+<!ENTITY rss.accountName            "ප්‍රවෘත්ති සහ බ්ලොග්ස්">
 <!ENTITY rss.wizardShortName        "RSS">  
-<!ENTITY rss.wizardLongName         "RSS News &amp; Blogs">
-<!ENTITY rss.hostName               "News &amp; Blogs">
+<!ENTITY rss.wizardLongName         "RSS ප්‍රවෘත්ති සහ බ්ලොග්ස්">
+<!ENTITY rss.wizardLongName.accesskey "R">
+<!ENTITY rss.hostName               "ප්‍රවෘත්ති සහ බ්ලොග්ස්">

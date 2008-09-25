@@ -3,23 +3,15 @@
 
 <!ENTITY recipient.label "සමහර ලබන්නන් HTML ආකාර ලිපි ලැබීමට හැකි අය බව ලැයිස්තු ගත කර නොමැත.">
 
-<!ENTITY convertibleDefault.label "">
-<!ENTITY convertibleYes.label "ඔබගේ පණිවිඩය තොරතුරු වලට හානියක් නොවන සේ සාමාන්‍ය පාඨ (plain text) බවට පරිවර්තනය කළ හැකිය.">
-<!ENTITY convertibleAltering.label "ඔබගේ පණිවිඩය තොරතුරු වලට හානියක් නොවන සේ සාමාන්‍ය පාඨ (plain text) බවට පරිවර්තනය කළ හැකිය. කෙසේ වෙතත් සාමාන්‍ය පාඨ (plain text)ලිපිය ඔබ ලිවීමේදී දකින ආකාරයට වඩා වෙනස් ආකාරයකට දිස්විය හැකිය.">
-<!ENTITY convertibleNo.label "කෙසේ වෙතත්, ඔබ භාවාතා කළ හැඩගැසුම් (උදා වර්ණ) සාමාන්‍ය පාඨ (plain text)බවට පරිවර්තනය නොවනු ඇත.">
-
 <!ENTITY question.label "පණිවිඩය සාමාන්‍ය පාඨ (plain text) බවට පරිවර්තනය කරන්නේද නොඑසේනම් කෙසේ හෝ HTML ආකාරයෙන් යවන්නද?">
 
 <!ENTITY plainTextAndHtml.label "සාමාන්‍ය පාඨ (plain text)හා HTML දෙයාකාරයෙන්ම යවන්න">
+<!ENTITY plainTextAndHtml.accesskey "a">
 <!ENTITY plainTextOnly.label "සාමාන්‍ය පාඨ (plain text) ආකාරයෙන් පමණත් යවන්න">
+<!ENTITY plainTextOnly.accesskey "P">
 <!ENTITY htmlOnly.label "HTML ආකාරයෙන් පමණත් යවන්න">
-
-<!ENTITY plainTextAndHtmlRecommended.label "සාමාන්‍ය පාඨ (plain text)හා HTML ආකාරයෙන් යවන්න (අනුමතකළ)">
-<!ENTITY plainTextOnlyRecommended.label "සාමාන්‍ය පාඨ (plain text) ආකාරයෙන් පමණත් යවන්න (අනුමතකළ)">
-<!ENTITY htmlOnlyRecommended.label "HTML ආකාරයෙන් පමණත් යවන්න (අනුමතකළ)">
-<!ENTITY recommended.label "(අනුමතකළ)">
+<!ENTITY htmlOnly.accesskey "H">
 
 <!ENTITY send.label "යවන්න">
-<!ENTITY cancel.label "එපා (Cancel)">
-<!ENTITY recipients.label "ලබන්නන්...">
-<!ENTITY help.label "උදව් ">
+<!ENTITY send.accesskey "S">
+

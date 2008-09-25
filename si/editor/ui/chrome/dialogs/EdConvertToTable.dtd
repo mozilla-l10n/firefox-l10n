@@ -32,17 +32,17 @@
    - and other provisions required by the GPL or the LGPL. If you do not delete
    - the provisions above, a recipient may use your version of this file under
    - the terms of any one of the MPL, the GPL or the LGPL.
-   -
+   -                                                    
    - ***** END LICENSE BLOCK ***** -->
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "වගුවට පරිවර්තනය කරන්න">
-<!ENTITY instructions1.label   "තෝරාගැනීම තුළ සෑම ඡේදයක් සඳහා නව වගු පේළියක් සකසනය මඟින් සාදයි.">
-<!ENTITY instructions2.label   "තේරීම තීරුවලට විභේදනය කිරීමට භාවිතා කරන අනුලකුණ තෝරන්න:">
-<!ENTITY commaRadio.label      "කොමාව">
-<!ENTITY spaceRadio.label      "අවකාශය">
-<!ENTITY otherRadio.label      "වෙනත් අනුලකුණ:">
-<!ENTITY deleteCharCheck.label "විභේදක අනුලකුණ මකන්න">
-<!ENTITY collapseSpaces.label  "අමතර අවකාශ නොසලකා හරින්න">
-<!ENTITY collapseSpaces.tooltip "යාබද අවකාශ එක විභේදකයකට පරිවර්තනය කරන්න Convert adjacent spaces to one separator">
+<!ENTITY windowTitle.label "වගුවට හැරවීම">
+<!ENTITY instructions1.label   "සකසනය තෝරාගත් කොටස තුළ සෑම ඡේදයක් සඳහාම නව වගුවක් සාදයි.">
+<!ENTITY instructions2.label   "තෝරාගත් කොටස තීරුවලට වෙන්කිරීම සඳහා භාවිතා කරන අකුර තෝරන්න:">
+<!ENTITY commaRadio.label      "කොමා ලකුණ">
+<!ENTITY spaceRadio.label      "හිඩස (Space)">
+<!ENTITY otherRadio.label      "වෙනත් අකුරක්:">
+<!ENTITY deleteCharCheck.label "වෙන්කරන අකුර මකන්න">
+<!ENTITY collapseSpaces.label  "අතිරේක හිඩස් නොසලකා හරින්න">
+<!ENTITY collapseSpaces.tooltip "එකළඟ පිහිටි හිඩස් එක් වෙන්කරන අකුරක් බවට හරවන්න">

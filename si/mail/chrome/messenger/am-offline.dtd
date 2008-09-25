@@ -1,7 +1,7 @@
 <!ENTITY doNotDownloadPop3Movemail.label "ඩිස්කයේ ඉඩ ඉතිරි කර ගැනීම සඳහා භාගත නොකරන්න:">
 <!ENTITY doNotDownload.label "ඩිස්කයේ ඉඩ ඉතිරි කිරීමට, අසම්බන්ධිතව භාවාතා කිරීම සඳහා භාගත නොකරන්න:">
-<!ENTITY offlineNewFolder.label "මම නව ෆෝල්ඩර සාදන විට,ඒවා අසම්බන්ධිතව ක්‍රියාකිරීම සඳහා තෝරන්න">
-<!ENTITY offlineNewFolder.accesskey "c">
+<!ENTITY allFoldersOffline.label "මෙම පරිගණකහේ මෙම ගිණුම සඳහා ලිපි තබාගන්න">
+<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY kb.label "kB ට වඩා විශාල ලිපි">
@@ -24,10 +24,8 @@
 <!ENTITY nntpRemoveBody.label "ලිපියේ බඳ (ට වඩා) කුඩා">
 <!ENTITY nntpRemoveBody.accesskey "O">
 <!ENTITY offlineSelectNntp.label "අසම්බන්ධිතව භාවාතා කිරීම සඳහා පුවත්සමූහ තෝරන්න...">
-<!ENTITY offlineSelectImap.label "අසම්බන්ධිතව ක්‍රියාකිරීම සඳහා ෆෝල්ඩර තෝරන්න...">
-<!ENTITY offlineSelect.accesskey "S">
-<!ENTITY offlineDesc.label "ඔබට ඔබගේ ලිපි සමීපව (locally) භාගත කළ හැකිය. එවිට ඔබ අසම්බන්ධිතව ක්‍රියාත්මක වන විට ඒවා ඔබ සඳහා පවතී.">
-<!ENTITY makeInboxMsgsAvailable.label "ලදලිපි ෆෝල්ඩරය් ඇති ලිපි අසම්බන්ධිතව ක්‍රියාත්මක වන විටද ප්‍රයොජනයට ගත හැකි සේ තබන්න">
-<!ENTITY makeInboxMsgsAvailable.accesskey "b">
-<!ENTITY offlineGroupTitle.label "අසම්බන්ධිතව ක්‍රියා කරන්න">
+<!ENTITY offlineSelectNntp.accesskey "S">
+<!ENTITY offlineImapAdvancedOffline.label "වැඩිමනත්…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "A">
+<!ENTITY syncGroupTitle.label "ලිපි සම්මුහුර්තකරණය(Synchronizing)">
 <!ENTITY diskspaceGroupTitle.label "ඩිස්ක ධාරිතාව">

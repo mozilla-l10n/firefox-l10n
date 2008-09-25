@@ -1,30 +1,30 @@
-<!ENTITY credit.title     "&brandFullName; Credits">
+<!ENTITY credit.title     "&brandFullName; ප්‍රණාමය">
 <!ENTITY brandMotto       "Thunderbirds Are Go!">
 <!ENTITY credit.leads     "Engineering Leads">
 <!ENTITY credit.core      "Core Development Posse">
 <!ENTITY credit.gecko     "Gecko Layout Engine">
-<!ENTITY credit.thanks    "Special Thanks To">
+<!ENTITY credit.thanks    "විශේෂ ස්තුතිය">
 
 <!-- localization credits look like this: -->
 <!--
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation "<h3>Localisation</h3><ul><li>Mark Tyndall</li><li>David Bartlett</li><li>Constantine Murenin</li></ul>">
+<!ENTITY credit.translation "<h3>Localisation</h3><ul><li>Rohana Dasanayaka</li><li>Mahesha Hatharasinghe</li><li>Chamara Disanayake</li><li>Kasun Karunarathne</li></ul>">
 
-<!ENTITY credit.visuals     "දෘෂ්ටි සැලසුම් සම්බන්ධීකාරක">
-<!ENTITY credit.theme       "තේමා සැලසුම">
-<!ENTITY credit.brand       "වර්ග අනන්‍යතාවය">
-<!ENTITY credit.web         "වෙබ් සැලසුම">
-<!ENTITY credit.update      "මොසිල්ලා යාවත්කාලීන">
-<!ENTITY credit.qalead      "තත්ව සහතික මූලිකත්වය">
-<!ENTITY credit.qa          "තත්ව සහතික">
-<!ENTITY credit.build       "සෑදීම සහ නිකුත් කිරීම">
-<!ENTITY credit.infra       "යටිතල ව්‍යූහ සහාය">
-<!ENTITY credit.support     "සහාය සම්පත්">
-<!ENTITY credit.manage      "ව්‍යාපෘති කළමනාකරණය">
-<!ENTITY credit.marketleads "අලෙවි මූලිකත්වය">
-<!ENTITY credit.market      "අලෙවි">
-<!ENTITY credit.creators    "නිපදවන ලද්දේ">
+<!ENTITY credit.visuals     "Visual Design Coordinator">
+<!ENTITY credit.theme       "Theme Design">
+<!ENTITY credit.brand       "Brand Identity">
+<!ENTITY credit.web         "Web Design">
+<!ENTITY credit.update      "Mozilla Update">
+<!ENTITY credit.qalead      "Quality Assurance Lead">
+<!ENTITY credit.qa          "Quality Assurance">
+<!ENTITY credit.build       "Build and Release">
+<!ENTITY credit.infra       "Infrastructure Support">
+<!ENTITY credit.support     "Support Resources">
+<!ENTITY credit.manage      "Project Management">
+<!ENTITY credit.marketleads "Marketing Leads">
+<!ENTITY credit.market      "Marketing">
+<!ENTITY credit.creators    "Created By">
 <!ENTITY credit.memory      "In Fond Memory Of">
-<!ENTITY credit.poweredByGecko "Powered by Gecko&trade;">
+<!ENTITY credit.poweredByGecko "බලගැන්වීම Gecko&trade;">

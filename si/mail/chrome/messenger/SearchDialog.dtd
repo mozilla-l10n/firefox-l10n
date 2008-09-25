@@ -15,7 +15,7 @@
 <!ENTITY conditionDesc.label         "මෙයට ගැලපෙන ලිපි සොයන්න:">
 <!ENTITY conditions.label            "නිර්ණායකය(Criteria)">
 <!ENTITY results.label               "ප්‍රතිඵල">
-<!ENTITY fileHereMenu.label          "File Here">
+<!ENTITY fileHereMenu.label          "මෙහි ගොනුගත කරන්න">
 <!ENTITY fileHereMenu.accesskey      "F">
 <!ENTITY fileButton.label            "ගොනු">
 <!ENTITY fileButton.accesskey        "i">
@@ -36,12 +36,12 @@
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "සබැඳි">
-<!ENTITY senderColumn.label "එවන්නා">
+<!ENTITY fromColumn.label "වෙතින්">
 <!ENTITY recipientColumn.label "ලබන්නා">
 <!ENTITY subjectColumn.label "විෂයය">
 <!ENTITY dateColumn.label "දිනය">
 <!ENTITY priorityColumn.label "ප්‍රමුඛතාවය">
-<!ENTITY tagsColumn.label "Tags">
+<!ENTITY tagsColumn.label "ටැග්">
 <!ENTITY accountColumn.label "ගිණුම">
 <!ENTITY statusColumn.label "තත්ත්වය">
 <!ENTITY sizeColumn.label "විශාලත්වය">
@@ -50,6 +50,7 @@
 <!ENTITY unreadColumn.label "නොකියවූ">
 <!ENTITY totalColumn.label "එකතුව">
 <!ENTITY readColumn.label "කියවූ">
+<!ENTITY receivedColumn.label "ලැබුණු">
 <!ENTITY starredColumn.label "Starred">
 <!ENTITY locationColumn.label "ස්ථානය">
 <!ENTITY idColumn.label "ලැබුණු පිළිටවළ">
@@ -57,12 +58,12 @@
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "පෙන්වීම සඳහා තීරු තේරීමට ක්ලික් කරන්න">
 <!ENTITY threadColumn.tooltip "බැඳි ලිපි පෙන්වීමට ක්ලික් කරන්න"> 
-<!ENTITY senderColumn.tooltip "එවන්නා අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
+<!ENTITY fromColumn.tooltip "එවන්නා අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY recipientColumn.tooltip "ලබන්නා අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY subjectColumn.tooltip "විෂයය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY dateColumn.tooltip "දිනය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY priorityColumn.tooltip "ප්‍රමුඛතාවය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY tagsColumn.tooltip "Click to sort by tags">
+<!ENTITY tagsColumn.tooltip "ටැග් අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY accountColumn.tooltip "ගිණුම අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY statusColumn.tooltip "තත්ත්වය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY sizeColumn.tooltip "විශාලත්වය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
@@ -70,6 +71,7 @@
 <!ENTITY unreadColumn.tooltip "සබැඳිලිපි තුළ ඇති නොකියවූ ලිපි ගණන">
 <!ENTITY totalColumn.tooltip "සබැඳිලිපි තුළ ඇති මුළු ලිපි ගණන">
 <!ENTITY readColumn.tooltip "කියවීම අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
+<!ENTITY receivedColumn.tooltip "ලැබුණු දිනය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY starredColumn.tooltip "Click to sort by star">
 <!ENTITY locationColumn.tooltip "ස්ථානය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY idColumn.tooltip "ලැබුණු අනුපිළිවෙළට අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">

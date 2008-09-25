@@ -35,8 +35,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY messageMarkByDate.label "Mark Messages as Read by Date">
-<!ENTITY markByDateLower.label "Mark messages as read from:">
+<!ENTITY messageMarkByDate.label "දිනය අනුව ලිපි කියවූ සේ සලකුණු කරන්න">
+<!ENTITY markByDateLower.label "වෙතින් වූ ලිපි කියවූ සේ සලකුණු කරන්න:">
 <!ENTITY markByDateLower.accesskey "f">
 <!ENTITY markByDateUpper.accesskey "T">
-<!ENTITY markByDateUpper.label "To:">
+<!ENTITY markByDateUpper.label "වෙත:">

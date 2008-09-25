@@ -1,6 +1,6 @@
 <!ENTITY window.title "ලිපි පෙරනයන්">
 <!ENTITY nameColumn.label "පෙරහනේ නම">
-<!ENTITY activeColumn.label "බලය ඇති (Enabled)">
+<!ENTITY activeColumn.label "බලැති (Enabled)">
 <!ENTITY newButton.label "නව...">
 <!ENTITY newButton.accesskey "N">
 <!ENTITY editButton.label "සැකසුම්...">
@@ -11,7 +11,7 @@
 <!ENTITY reorderUpButton.accesskey "U">
 <!ENTITY reorderDownButton.label "පහලට යවන්න">
 <!ENTITY reorderDownButton.accesskey "D">
-<!ENTITY filterHeader.label "පහත අනුපිළවෙළට බලය ඇති (Enabled) පෙරහන් ස්වයංක්‍රීයව යොදවනු.">
+<!ENTITY filterHeader.label "පහත අනුපිළවෙළට බලැති (Enabled) පෙරහන් ස්වයංක්‍රීයව යොදවනු.">
 <!ENTITY filtersForPrefix.label "(සඳහා) පෙරහන්:">
 <!ENTITY filtersForPrefix.accesskey "F">
 <!ENTITY viewLogButton.label "පෙරහන් ලොග් සටහන">
@@ -23,7 +23,7 @@
 <!ENTITY folderPickerPrefix.label "තෝරාගත් පෙරහන් මේ මත යොදවන්න:">
 <!ENTITY folderPickerPrefix.accesskey "c">
 <!ENTITY choosethis.label "මේ ෆෝල්ඩරය තෝරන්න">
-<!ENTITY choosethisnewsserver.label "choose this news server">
+<!ENTITY choosethisnewsserver.label "මෙම පුවත් සේවාදායකය තෝරන්න">
 <!ENTITY helpButton.label "උදව්">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W"> 

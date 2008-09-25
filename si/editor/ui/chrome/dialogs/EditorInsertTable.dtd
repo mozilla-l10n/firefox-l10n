@@ -36,9 +36,9 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "වගුවක් ඇතුඵ කරන්න">
+<!ENTITY windowTitle.label "වගු ඇතුළු කිරීම">
 
-<!ENTITY size.label "ප්‍රමාණය">
+<!ENTITY size.label "විශාලත්වය">
 <!ENTITY numRowsEditField.label "පේළි:">
 <!ENTITY numRowsEditField.accessKey "R">
 <!ENTITY numColumnsEditField.label "තීරු:">
@@ -47,5 +47,5 @@
 <!ENTITY widthEditField.accessKey "W">
 <!ENTITY borderEditField.label "දාරය:">
 <!ENTITY borderEditField.accessKey "B">
-<!ENTITY borderEditField.tooltip "වගු දාර සංඛ්‍යාව හෝ දාර නොමැති නම් බින්දුව(0) ටයිප් කරන්න">
-<!ENTITY pixels.label "පික්සල">
+<!ENTITY borderEditField.tooltip "වගුවේ දාරය සඳහා අගයක් ඇතුළු කරන්න, හෝ දාරයක් නැති වගුවක් සඳහා (0) ඇතුළු කරන්න">
+<!ENTITY pixels.label "පික්සෙල්">

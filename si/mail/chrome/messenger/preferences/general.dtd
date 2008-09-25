@@ -11,7 +11,7 @@
 <!ENTITY checkNow.accesskey         "N">
 
 <!ENTITY messengerStartPage.label         "&brandShortName; ආරම්භක පිටුව">
-<!ENTITY enableStartPage.label            "&brandShortName; දියත් කිරීමේදී, ආරම්භක පිටුව ලිපි පෙදෙසේ පෙන්වන්න">
+<!ENTITY enableStartPage.label            "&brandShortName; දියත් කිරීමේදී, ආරම්භක පිටුව ලිපි පෙදෙසේ (message area) පෙන්වන්න">
 <!ENTITY enableStartPage.accesskey        "W">
 <!ENTITY location.label                   "ස්ථානය:">
 <!ENTITY location1.accesskey               "o">

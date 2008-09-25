@@ -37,16 +37,16 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "අනුලකුණ ඇතුඵ කරන්න">
-<!ENTITY category.label "ප්‍රවර්ගය">
-<!ENTITY letter.label "ලිපිය:">
+<!ENTITY windowTitle.label "අනුලකුණු ඇතුළු කිරීම">
+<!ENTITY category.label "වර්ගය">
+<!ENTITY letter.label "අකුර:">
 <!ENTITY letter.accessKey "L">
 <!ENTITY character.label "අනුලකුණ:">
 <!ENTITY character.accessKey "C">
-<!ENTITY accentUpper.label "ලොකු අකුරු උච්චාරණය කරන්න">
-<!ENTITY accentLower.label "කුඩා අකුරු උච්චාරණය කරන්න">
-<!ENTITY otherUpper.label "වෙනත් ලොකු අකුරු උච්චාරණය කරන්න">
+<!ENTITY accentUpper.label "Accent Uppercase">
+<!ENTITY accentLower.label "Accent Lowercase">
+<!ENTITY otherUpper.label "වෙනත් කැපිටල් අකුරු">
 <!ENTITY otherLower.label "වෙනත් කුඩා අකුරු">
-<!ENTITY commonSymbols.label "පොදු සංකේතය">
-<!ENTITY insertButton.label "ඇතුඵ කිරීම">
-<!ENTITY closeButton.label "අවසන් කිරීම">
+<!ENTITY commonSymbols.label "පොදු ලකුණු">
+<!ENTITY insertButton.label "ඇතුළු කරන්න">
+<!ENTITY closeButton.label "වහන්න">

@@ -1,20 +1,7 @@
 <!ENTITY window.title "පෙරහන සඳහා නියමයන්">
-<!ENTITY subject.label "විෂයය">
-<!ENTITY sender.label "එවන්නා">
-<!ENTITY date.label "දිනය">
-<!ENTITY anyText.label "any text">
-<!ENTITY keyword.label "keyword">
-<!ENTITY age.label "වයස (දින)">
-<!ENTITY to.label "වෙත">
 
 <!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
-<!ENTITY cc.label "පිටපත්">
 
-<!ENTITY status.label "තත්ත්වය">
-<!ENTITY priority.label "ප්‍රමුඛතාවය">
-<!ENTITY body.label "බඳ">
-<!ENTITY contains.label "අඩංගු වූ">
-<!ENTITY nocontains.label "අඩංගු නොවූ">
 <!ENTITY filterName.label "පෙරහනේ නම:">
 <!ENTITY filterName.accesskey "i">
 
@@ -27,7 +14,11 @@
 <!ENTITY highPriorityCmd.label "ඉහළ">
 <!ENTITY highestPriorityCmd.label "ඉහළම">
 
-<!ENTITY conditionDesc.label "ලැබෙන ලිපි සඳහා:">
+<!ENTITY contextDesc.label "පෙරහන යොදන්නේ:">
+<!ENTITY contextDesc.accesskey "w">
+<!ENTITY contextIncoming.label "නව ලිපි සඳහා පරීක්ෂා කරන විට">
+<!ENTITY contextManual.label "පරිශීලක යෙදීමේදී (Manually Run)">
+<!ENTITY contextBoth.label "නව ලිපි සඳහා පරීක්ෂා කරන විට හෝ පරිශීලක යෙදීමේදී">
 <!ENTITY filterActionDesc.label "මේවා ක්‍රියාත්මක කරනු:">
 <!ENTITY filterActionDesc.accesskey "P">
 
@@ -41,14 +32,15 @@
 <!ENTITY replyWithTemplate.label "ආකෘතිය සමඟ පිළිතුරු ලිවීම">
 <!ENTITY markMessageRead.label "කියවූ ලෙස සළකුණු කරන්න">
 <!ENTITY markMessageStarred.label "Add Star">
-<!ENTITY labelMessage.label "Label Message As">
-<!ENTITY setPriority.label "Set Priority to">
-<!ENTITY addTag.label "Tag Message">
+<!ENTITY setPriority.label "ප්‍රමුඛතාවය සකසන්න">
+<!ENTITY addTag.label "ටැග් ලිපිය">
 <!ENTITY setJunkScore.label "Set Junk Status to">
 <!ENTITY deleteMessage.label "ලිපි මකන්න">
-<!ENTITY deleteFromPOP.label "Delete From POP Server">
-<!ENTITY fetchFromPOP.label "Fetch From POP Server">
-<!ENTITY ignoreThread.label "Ignore Thread">
-<!ENTITY watchThread.label "Watch Thread">
+<!ENTITY deleteFromPOP.label "POP සේවාදායකයෙන් මකන්න">
+<!ENTITY fetchFromPOP.label "POP සේවාදායකයෙන් ගෙනෙන්න">
+<!ENTITY ignoreThread.label "සබැඳි නොසලකන්න">
+<!ENTITY ignoreSubthread.label "උපසබැඳි නොසලකන්න">
+<!ENTITY watchThread.label "සබැඳි රැකගන්න">
+<!ENTITY stopExecution.label "පෙරහන ක්‍රියාකාරීත්වය නවතන්න">
 
 

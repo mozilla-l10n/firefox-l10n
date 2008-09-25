@@ -1,14 +1,22 @@
 
 <!ENTITY addressbookPicker.label            "ලිපින පොත:">
+<!ENTITY addressbookPicker.accesskey        "k">
 <!ENTITY searchInput.label                  "සොයන්න:">
+<!ENTITY searchInput.accesskey              "o">
 <!ENTITY SearchNameOrEmail.label            "නම හෝ වි.තැ. ලිපිනය">
 
-<!ENTITY addtoToFieldMenu.label             "ලබන්නා තීරුවට යවනු">
-<!ENTITY addtoCcFieldMenu.label             "පිටපත් තීරුවට යවනු">
-<!ENTITY addtoBccFieldMenu.label            "රහස්‍ය පිටපත් තීරුවට යවනු">
+<!ENTITY deleteAddrBookCard.label           "මකන්න">
+<!ENTITY addrBookCardProperties.label       "ලක්ෂණ">
+<!ENTITY addtoToFieldMenu.label             "ලබන්නා තීරුවට යවන්න">
+<!ENTITY addtoCcFieldMenu.label             "පිටපත් තීරුවට යවන්න">
+<!ENTITY addtoBccFieldMenu.label            "රහස්‍ය පිටපත් තීරුවට යවන්න">
 
-<!ENTITY toButton.label                     "ලබන්නා තීරුවට යවනු:">
-<!ENTITY ccButton.label                     "පිටපත් තීරුවට යවනු:">
+<!ENTITY toButton.label                     "ලබන්නා තීරුවට යවන්න:">
+<!ENTITY toButton.accesskey                 "A">
+<!ENTITY ccButton.label                     "පිටපත් තීරුවට යවන්න:">
+<!ENTITY ccButton.accesskey                 "d">
+<!ENTITY bccButton.label                    "රහස්‍ය පිටපත් තීරුවට යවන්න:">
+<!ENTITY bccButton.accesskey                "B">
 
 
 

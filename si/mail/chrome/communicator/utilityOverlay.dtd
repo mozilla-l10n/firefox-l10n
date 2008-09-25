@@ -18,7 +18,7 @@
 <!ENTITY cutCmd.label						"කපන්න">  
 <!ENTITY cutCmd.key							"X">  
 <!ENTITY cutCmd.accesskey					"t"> 
-<!ENTITY copyCmd.label						"කොපි කරන්න">  
+<!ENTITY copyCmd.label						"පිටපත් කරන්න">  
 <!ENTITY copyCmd.key						"C">  
 <!ENTITY copyCmd.accesskey					"C"> 
 <!ENTITY pasteCmd.label						"අලවන්න">  
@@ -35,7 +35,7 @@
 <!ENTITY preferencesCmdUnix.label       "මනාපයන්">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY findTypeTextCmd.label "ටයිප් කරන විට පාඨ සොයන්න">
+<!ENTITY findTypeTextCmd.label "ටයිප් කරන විට පාඨ සොයන්න (Find Text As You Type)">
 <!ENTITY findTypeTextCmd.accesskey "x">
 
 <!ENTITY viewMenu.label					"දැකුම්"> 
@@ -45,14 +45,14 @@
 <!ENTITY showTaskbarCmd.label					"තත්ත්ව තීරුව">  
 <!ENTITY showTaskbarCmd.accesskey				"S"> 
 
-<!ENTITY direct.label                                   "සබැඳි (ප්‍රොක්සි: කිසිසේත් නැත)">
+<!ENTITY direct.label                                   "සම්බන්ධිත (ප්‍රොක්සි: නැත)">
 <!ENTITY direct.accesskey                               "n">
-<!ENTITY manual.label                                   "සබැඳි (ප්‍රොක්සි: හස්තීය)">
+<!ENTITY manual.label                                   "සම්බන්ධිත (ප්‍රොක්සි: manual)">
 <!ENTITY manual.accesskey                               "m">
-<!ENTITY pac.label                                      "සබැඳි (ප්‍රොක්සි: ස්වයං)">
+<!ENTITY pac.label                                      "සම්බන්ධිත (ප්‍රොක්සි: ස්වයංක්‍රීය)">
 <!ENTITY pac.accesskey                                  "a">
 
-<!ENTITY proxy.label                                    "ප්‍රොක්සි වින්‍යාස කිරීම...">
+<!ENTITY proxy.label                                    "ප්‍රොක්සි වින්‍යාස (Configuration) කිරීම...">
 <!ENTITY proxy.accesskey                                "C">
 
 <!ENTITY findTypeTextCmd.key        "/">
@@ -70,4 +70,7 @@
 
 <!ENTITY quitApplicationCmdUnix.label	"පිටවීම"> 
 <!ENTITY quitApplicationCmdUnix.accesskey	"Q">
+
+<!ENTITY quitApplicationCmdMac.label  "&brandShortName; පිටවීම">
+<!ENTITY quitApplicationCmdMac.accesskey  "q">
 

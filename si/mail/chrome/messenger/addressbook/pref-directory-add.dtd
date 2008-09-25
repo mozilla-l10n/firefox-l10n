@@ -35,39 +35,39 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY newDirectoryTitle.label           "ඩිරෙක්ට්‍රි සේවාදායක ගුණාංග">
+<!ENTITY newDirectoryTitle.label           "ඩිරෙක්ටරි සේවාදායක ලක්ෂණ">
 <!ENTITY directoryName.label               "නම: ">
 <!ENTITY directoryName.accesskey           "N">
-<!ENTITY directoryHostname.label           "ධාරක නම:">
+<!ENTITY directoryHostname.label           "ධාරක නම: ">
 <!ENTITY directoryHostname.accesskey       "o">
 <!ENTITY directoryBaseDN.label             "Base DN: ">
 <!ENTITY directoryBaseDN.accesskey         "B">
 <!ENTITY findButton.label                  "සොයන්න">
 <!ENTITY findButton.accesskey              "F">
-<!ENTITY directorySecure.label             "(SSL) ආරක්ෂක සබැඳිය භාවිතා කරන්න">
+<!ENTITY directorySecure.label             "ආරක්ෂිත සබඳතාවය භාවිතා කරන්න (SSL)">
 <!ENTITY directorySecure.accesskey         "U">
 <!ENTITY directoryLogin.label              "Bind DN: ">
 <!ENTITY directoryLogin.accesskey          "i">
-<!ENTITY advancedOptionsButton.label       "උසස් වරණ">
+<!ENTITY advancedOptionsButton.label       "වැඩිමනත් වරණ">
 <!ENTITY advancedOptionsButton.accesskey   "A">
-<!ENTITY General.tab                       "සාමාන්‍යය">
-<!ENTITY Offline.tab                       "නොබැඳි">
-<!ENTITY Advanced.tab                      "උසස්">
-<!ENTITY advancedOptionsTitle.label        "උසස් වරණ">
-<!ENTITY portNumber.label                  "විවර අංකය: ">
+<!ENTITY General.tab                       "සාමාන්‍ය">
+<!ENTITY Offline.tab                       "අසම්බන්ධිත">
+<!ENTITY Advanced.tab                      "වැඩිමනත්">
+<!ENTITY advancedOptionsTitle.label        "වැඩිමනත් වරණ">
+<!ENTITY portNumber.label                  "Port අංකය: ">
 <!ENTITY portNumber.accesskey              "P">
 <!ENTITY searchFilter.label                "සෙවුම් පෙරහන: ">
 <!ENTITY searchFilter.accesskey            "f">
-<!ENTITY scope.label                       "විෂය පථය: ">
+<!ENTITY scope.label                       "විෂයය පථය: ">
 <!ENTITY scope.accesskey                   "c">
-<!ENTITY scopeOneLevel.label               "එක මට්ටම">
+<!ENTITY scopeOneLevel.label               "One Level">
 <!ENTITY scopeOneLevel.accesskey           "L">
-<!ENTITY scopeSubtree.label                "උප රුක">
+<!ENTITY scopeSubtree.label                "Subtree">
 <!ENTITY scopeSubtree.accesskey            "S">
 <!ENTITY return.label                      "Don't return more than">
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "ප්‍රතිඵල">
-<!ENTITY offlineText.label                 "මෙම ඩිරෙක්ට්‍රියේ පෙදෙසි පිටපතක් ඔබට භාගත කළ හැකිය so that it is available for use when you are working offline.">
+<!ENTITY offlineText.label                 "You can download a local copy of this directory so that it is available for use when you are working offline.">
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.

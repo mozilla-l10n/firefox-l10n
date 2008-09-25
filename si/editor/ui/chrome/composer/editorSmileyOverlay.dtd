@@ -36,56 +36,56 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Smiley Menu items -->
-<!ENTITY insertSmiley.label "සිනහව">
+<!ENTITY insertSmiley.label "Smiley">
 <!ENTITY insertSmiley.accesskey "S">
 
-<!ENTITY smiley1Cmd.label "සිනා වෙන්න">
+<!ENTITY smiley1Cmd.label "Smile">
 <!ENTITY smiley1Cmd.accesskey "S">
-<!ENTITY smiley1Cmd.tooltip "සිනහවන මුහුණක් ඇතුඵ කරන්න">
-<!ENTITY smiley2Cmd.label "රැවීම">
+<!ENTITY smiley1Cmd.tooltip "smiley face ඇතුළත් කරන්න">
+<!ENTITY smiley2Cmd.label "Frown">
 <!ENTITY smiley2Cmd.accesskey "F">
-<!ENTITY smiley2Cmd.tooltip "රැවුම් මුහුණක් ඇතුඵ කරන්න">
-<!ENTITY smiley3Cmd.label "ඉඟි මැරීම">
+<!ENTITY smiley2Cmd.tooltip "frowning face ඇතුළත් කරන්න">
+<!ENTITY smiley3Cmd.label "Wink">
 <!ENTITY smiley3Cmd.accesskey "W">
-<!ENTITY smiley3Cmd.tooltip "ඉඟි මරන මුහුණක් ඇතුඵ කරන්න">
+<!ENTITY smiley3Cmd.tooltip "winking face ඇතුළත් කරන්න">
 <!ENTITY smiley4Cmd.label "Tongue-out">
 <!ENTITY smiley4Cmd.accesskey "T">
-<!ENTITY smiley4Cmd.tooltip "tongue-out මුහුණක් ඇතුඵ කරන්න">
-<!ENTITY smiley5Cmd.label "සිනහවන">
+<!ENTITY smiley4Cmd.tooltip "tongue-out face ඇතුළත් කරන්න">
+<!ENTITY smiley5Cmd.label "Laughing">
 <!ENTITY smiley5Cmd.accesskey "L">
-<!ENTITY smiley5Cmd.tooltip "සිනහවන මුහුණක් ඇතුඵ කරන්න">
-<!ENTITY smiley6Cmd.label "අපහසුවට පත්වූ">
+<!ENTITY smiley5Cmd.tooltip "laughing face ඇතුළත් කරන්න">
+<!ENTITY smiley6Cmd.label "Embarrassed">
 <!ENTITY smiley6Cmd.accesskey "E">
-<!ENTITY smiley6Cmd.tooltip "අපහසුවට පත්වූ මුහුණක් ඇතුඵ කරන්න">
-<!ENTITY smiley7Cmd.label "අවිනිශ්චිත">
+<!ENTITY smiley6Cmd.tooltip "embarrassed face ඇතුළත් කරන්න">
+<!ENTITY smiley7Cmd.label "Undecided">
 <!ENTITY smiley7Cmd.accesskey "U">
-<!ENTITY smiley7Cmd.tooltip "අවිනිශ්චිත මුහුණක් ඇතුඵ කරන්න">
-<!ENTITY smiley8Cmd.label "විස්මය">
+<!ENTITY smiley7Cmd.tooltip "undecided face ඇතුළත් කරන්න">
+<!ENTITY smiley8Cmd.label "Surprise">
 <!ENTITY smiley8Cmd.accesskey "p">
-<!ENTITY smiley8Cmd.tooltip "විස්මිත මුහුණක් ඇතුඵ කරන්න">
-<!ENTITY smiley9Cmd.label "සිප ගැනීම">
+<!ENTITY smiley8Cmd.tooltip "surprised face ඇතුළත් කරන්න">
+<!ENTITY smiley9Cmd.label "Kiss">
 <!ENTITY smiley9Cmd.accesskey "K">
-<!ENTITY smiley9Cmd.tooltip "සිප ගන්නා මුහුණක් ඇතුඵ කරන්න">
-<!ENTITY smiley10Cmd.label "කෑගැසීම">
+<!ENTITY smiley9Cmd.tooltip "kissing face ඇතුළත් කරන්න">
+<!ENTITY smiley10Cmd.label "Yell">
 <!ENTITY smiley10Cmd.accesskey "Y">
-<!ENTITY smiley10Cmd.tooltip "කෑගසන මුහුණක් ඇතුඵ කරන්න">
-<!ENTITY smiley11Cmd.label "උදාසීන">
+<!ENTITY smiley10Cmd.tooltip "yelling face ඇතුළත් කරන්න">
+<!ENTITY smiley11Cmd.label "Cool">
 <!ENTITY smiley11Cmd.accesskey "C">
-<!ENTITY smiley11Cmd.tooltip "උදාසීන මුහුණක් ඇතුඵ කරන්න">
+<!ENTITY smiley11Cmd.tooltip "cool face ඇතුළත් කරන්න">
 <!ENTITY smiley12Cmd.label "Money-Mouth">
 <!ENTITY smiley12Cmd.accesskey "M">
-<!ENTITY smiley12Cmd.tooltip "money-mouth මුහුණක් ඇතුඵ කරන්න">
+<!ENTITY smiley12Cmd.tooltip "money-mouth face ඇතුළත් කරන්න">
 <!ENTITY smiley13Cmd.label "Foot-in-Mouth">
 <!ENTITY smiley13Cmd.accesskey "o">
-<!ENTITY smiley13Cmd.tooltip "foot-in-mouth මුහුණක් ඇතුඵ කරන්න">
-<!ENTITY smiley14Cmd.label "අහිංසක">
+<!ENTITY smiley13Cmd.tooltip "foot-in-mouth face ඇතුළත් කරන්න">
+<!ENTITY smiley14Cmd.label "Innocent">
 <!ENTITY smiley14Cmd.accesskey "I">
-<!ENTITY smiley14Cmd.tooltip "අහිංසක මුහුණක් ඇතුඵ කරන්න">
-<!ENTITY smiley15Cmd.label "ඇඬීම">
+<!ENTITY smiley14Cmd.tooltip "innocent face ඇතුළත් කරන්න">
+<!ENTITY smiley15Cmd.label "Cry">
 <!ENTITY smiley15Cmd.accesskey "r">
-<!ENTITY smiley15Cmd.tooltip "අඬන මුහුණක් ඇතුඵ කරන්න">
+<!ENTITY smiley15Cmd.tooltip "crying face ඇතුළත් කරන්න">
 <!ENTITY smiley16Cmd.label "Lips-are-Sealed">
 <!ENTITY smiley16Cmd.accesskey "a">
-<!ENTITY smiley16Cmd.tooltip "lips-are-sealed මුහුණක් ඇතුඵ කරන්න">
-<!ENTITY SmileButton.tooltip "සිනහ මුහුණක් ඇතුඵ කරන්න">
+<!ENTITY smiley16Cmd.tooltip "lips-are-sealed face ඇතුළත් කරන්න">
+<!ENTITY SmileButton.tooltip "smiley face ඇතුළත් කරන්න">
 

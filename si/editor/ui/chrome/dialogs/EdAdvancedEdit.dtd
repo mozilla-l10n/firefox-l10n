@@ -46,7 +46,7 @@
 <!ENTITY tree.valueHeader.label         "අගය">
 <!ENTITY tabHTML.label                  "HTML ගතිලක්ෂණ">
 <!ENTITY tabCSS.label                   "පේළිගත විලාසය">
-<!ENTITY tabJSE.label                   "ජාවාස්ක්‍රිප්ට් අංග">
+<!ENTITY tabJSE.label                   "ජාවාකේත අංග">
 
 <!ENTITY editAttribute.label    "ඉහත අයිතමයන්ගේ අගයයන් සැකසීම සඳහා ඒ මත ක්ලික් කරන්න">
 <!ENTITY removeAttribute.label  "ඉවත් කරන්න">

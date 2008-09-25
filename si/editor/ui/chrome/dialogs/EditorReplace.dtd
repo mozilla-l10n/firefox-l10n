@@ -38,24 +38,24 @@
 
 <!-- extracted from EdReplace.xul -->
 
-<!ENTITY replaceDialog.title "සොයාගෙන ප්‍රතිස්ථාපනය කරන්න">
-<!ENTITY findField.label "සෙවුම් පෙළ:">
+<!ENTITY replaceDialog.title "Find and Replace">
+<!ENTITY findField.label "පාඨ :">
 <!ENTITY findField.accesskey "n">
-<!ENTITY replaceField.label "සමඟ ප්‍රතිස්ථාපනය කරන්න">
+<!ENTITY replaceField.label "Replace with:">
 <!ENTITY replaceField.accesskey "e">
-<!ENTITY caseSensitiveCheckbox.label "කැපිටල්/කුඩකුරු ගළපන්න">
+<!ENTITY caseSensitiveCheckbox.label "Match upper/lower case">
 <!ENTITY caseSensitiveCheckbox.accesskey "c">
-<!ENTITY wrapCheckbox.label "Wrap around">
+<!ENTITY wrapCheckbox.label "පේළි කඩන්න">
 <!ENTITY wrapCheckbox.accesskey "W">
-<!ENTITY backwardsCheckbox.label "පසු සෙවුම">
+<!ENTITY backwardsCheckbox.label "පසුපසට සොයන්න">
 <!ENTITY backwardsCheckbox.accesskey "b">
-<!ENTITY findNextButton.label "ඊලඟ සොයන්න">
+<!ENTITY findNextButton.label "ඊළඟ ගැලපුම සොයන්න">
 <!ENTITY findNextButton.accesskey "F">
-<!ENTITY replaceButton.label "ප්‍රතිස්ථාපනය කරන්න">
+<!ENTITY replaceButton.label "Replace">
 <!ENTITY replaceButton.accesskey "R">
-<!ENTITY replaceAndFindButton.label "ප්‍රතිස්ථාපනය කර සොයන්න">
+<!ENTITY replaceAndFindButton.label "Replace and Find">
 <!ENTITY replaceAndFindButton.accesskey "d">
-<!ENTITY replaceAllButton.label "සියල්ල ප්‍රතිස්ථාපනය කරන්න">
+<!ENTITY replaceAllButton.label "Replace All">
 <!ENTITY replaceAllButton.accesskey "A">
-<!ENTITY closeButton.label "අවසන් කරන්න">
-<!ENTITY notFoundWarning.label "ඇතුඵ කරන ලද පෙළ ‍සොයාගත නොහැක.">
+<!ENTITY closeButton.label "වහන්න">
+<!ENTITY notFoundWarning.label "ඔබ අතුලත් කළ පාඨ හමු නොවීය.">

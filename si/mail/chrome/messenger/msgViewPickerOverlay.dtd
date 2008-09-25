@@ -6,11 +6,13 @@
 <!ENTITY viewAll.accesskey "A">
 <!ENTITY viewUnread.label "නොකියවූ">
 <!ENTITY viewUnread.accesskey "U">
-<!ENTITY viewTags.label "Tags">
+<!ENTITY viewNotDeleted.label "නොමැකූ">
+<!ENTITY viewNotDeleted.accesskey "D">
+<!ENTITY viewTags.label "ටැග්">
 <!ENTITY viewTags.accesskey "T">
-<!ENTITY viewCustomViews.label "Custom Views">
+<!ENTITY viewCustomViews.label "රිසිකරණ පෙන්වීම්">
 <!ENTITY viewCustomViews.accesskey "V">
-<!ENTITY viewVirtualFolder.label "Save View as a Folder...">
+<!ENTITY viewVirtualFolder.label "පෙන්වීම ෆෙි්ල්ඩරයක් සේ සුරකින්න...">
 <!ENTITY viewVirtualFolder.accesskey "S">
 <!ENTITY viewCustomizeView.label "රිසිකරණය...">
 <!ENTITY viewCustomizeView.accesskey "C">

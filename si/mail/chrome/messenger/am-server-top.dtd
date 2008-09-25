@@ -14,7 +14,7 @@
 <!ENTITY serverName.accesskey "S">
 <!ENTITY userName.label "පරිශීලක නම:">
 <!ENTITY userName.accesskey "N">
-<!ENTITY port.label "විවරය:">
+<!ENTITY port.label "විවරය (Port):">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "පෙරනිමි:">
 <!ENTITY savePassword.label "රහස් පදය සුරකින්න">
@@ -50,15 +50,17 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "ස්වයංක්‍රීයව අලුත් ලිපි භාගත කරන්න">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY hostname.label "සේවාදායක ධාරක නම">
+<!ENTITY hostname.label "සේවාදායක ධාරක නම (Hostname)">
 <!ENTITY username.label "ඔඹගේ පිරුම් නම">
 <!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
 <!ENTITY popServerTitle.label "POP සේවාදායක තොරතුරු">
 <!ENTITY deleteMessagePrefix.label "මම ලිපියක් මකන විට:">
-<!ENTITY deleteMessagePrefix.accesskey "W">
 <!ENTITY modelMoveToTrash.label "එය මැකූලිපි ෆෝල්ඩරයට දමන්න">
+<!ENTITY modelMoveToTrash.accesskey "o">
 <!ENTITY modelMarkDeleted.label "එය මැකූ ලෙස ලකුණු කරන්න">
+<!ENTITY modelMarkDeleted.accesskey "k">
 <!ENTITY modelDeleteImmediately.label "එය එසැනින්ම ඉවත් කරන්න">
+<!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "පිටවීමේදී (&quot;Expunge&quot;) ලදලිපි ෆෝලඩරය හිස් කරන්න">
 <!ENTITY expungeOnExit.accesskey "E">
@@ -76,19 +78,17 @@
 <!ENTITY maxMessagesEnd.label "ට වඩා වැඩි ලිපි භාගත කිරීමට පෙර විමසන්න">
 <!ENTITY alwaysAuthenticate.label "ෙම සේවාදායකයට සම්බන්ධ වීමේදී සෑමවිටම අනන්‍යතාවය තහවුරු කරවාගන්න">
 <!ENTITY alwaysAuthenticate.accesskey "w">
-<!ENTITY newsrcFilePath.label "newsrc ගොනුව:">
-<!ENTITY newsrcFilePath.accesskey "f">
-<!ENTITY localPath.label "සමීප ෆෝල්ඩරය:">
-<!ENTITY localPath.accesskey "L">
-<!ENTITY abbreviate.label "තැපැල් ෆෝල්ඩර කවුඵව තුළ පුවත් කණ්ඩායම් නම් පෙන්වන්න:">
-<!ENTITY abbreviateOn.label "සම්පූර්ණ නම් (නිදසුන් සඳහා, 'netscape.public.mozilla.mail-news')">
-<!ENTITY abbreviateOff.label "කෙටි නම් (නිදසුන් සඳහා, 'n.p.m.mail-news')">
+<!ENTITY newsrcFilePath.label "newsrc file:">
+<!ENTITY localPath.label "පෙදෙසි ඩිරෙක්ටරිය (Local directory):">
+<!ENTITY abbreviate.label "Show newsgroup names in the Mail Folder pane as:">
+<!ENTITY abbreviateOn.label "සම්පූර්ණ නම් (උදාහරණ, 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "කෙටිකළ නම් (උදාහරණ, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "වැඩිමනත්...">
-<!ENTITY serverDefaultCharset.label "පෙරනිමි අකුරු කේතනයන්:">
+<!ENTITY serverDefaultCharset.label "පෙරනිමි (Default) අකුරු කේතනයන්:">
 <!ENTITY advancedButton.accesskey "v">
-<!ENTITY localFolderPicker.label "සමීප ෆෝල්ඩරය තෝරන්න">
+<!ENTITY localFolderPicker.label "පෙදෙසි ෆෝල්ඩරය තෝරන්න">
 <!ENTITY browseFolder.label "පිරික්සන්න...">
 <!ENTITY browseFolder.accesskey "B">
-<!ENTITY newsrcPicker.label "newsrc ගොනුව තෝරන්න">
+<!ENTITY newsrcPicker.label "Select newsrc File">
 <!ENTITY browseNewsrc.label "පිරික්සන්න...">
 <!ENTITY browseNewsrc.accesskey "e">

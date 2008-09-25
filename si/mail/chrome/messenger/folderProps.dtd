@@ -39,7 +39,6 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY folderProps.windowtitle.label           "ලක්ෂණ">
-
 <!ENTITY generalInfo.label                       "සාමාන්‍ය තොරතුරු">
 <!ENTITY folderCharsetTab.label                  "පෛරනිමි (Default) අකුරු කේතනයන්:">
 <!ENTITY folderCharsetTab.accesskey              "E">
@@ -49,50 +48,51 @@
 <!ENTITY folderRebuildSummaryFile.accesskey      "R">
 <!ENTITY folderRebuildSummaryFileTip.label       "Rebuild Summary File">
 
-
-<!ENTITY retention.label "Retention Policy">
-<!ENTITY retentionUseDefault.label  "Use server defaults">
+<!ENTITY retention.label "තබාගැනීමේ පිළිවෙත">
+<!ENTITY retentionUseDefault.label  "සේවාදායක පෛරනිමි භාවිතා කරන්න">
 <!ENTITY retentionUseDefault.accesskey "d">
-<!ENTITY days.label "days">
-<!ENTITY daysOld.label "days old">
-<!ENTITY message.label "messages">
-<!ENTITY retentionCleanup.label "To recover disc space, old messages can be permanently deleted">
-<!ENTITY retentionKeepMsg.label "Delete messages more than">
-<!ENTITY retentionKeepMsg.accesskey "m">
-<!ENTITY retentionKeepAll.label "Don't delete any messages">
+<!ENTITY days.label "දින">
+<!ENTITY daysOld.label "දිනකට වඩා පැරණි ලිපි">
+<!ENTITY message.label "ලිපි">
+<!ENTITY retentionCleanup.label "ඩිස්කයේ ඉඩ ලබා ගැනීමට, පැරණි ලිපි ස්ථිරව මැකිය හැකිය">
+<!ENTITY retentionDeleteMsg.label "මීට වැඩි ලිපි මකා දමන්න">
+<!ENTITY retentionDeleteMsg.accesskey "m">
+ <!ENTITY retentionKeepAll.label "කිසිඳු ලිපියක් මකන්න එපා">
 <!ENTITY retentionKeepAll.accesskey "A">
-<!ENTITY retentionKeepNew.label "Delete all but the last">
+<!ENTITY retentionKeepNew.label "අවසාන ලිපිය හැර සියල්ල මකන්න">
 <!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "Always delete read messages">
+<!ENTITY retentionKeepUnread.label "සෑමවිටම කියවූ ලිපි මකන්න">
 <!ENTITY retentionKeepUnread.accesskey "r">
 
 <!ENTITY folderOfflineTab.label                  "අසම්බන්ධිත">
-<!ENTITY folderCheckForNewMessages.label         "Check this folder for new messages">
+<!ENTITY folderCheckForNewMessages.label         "නව ලිපි සඳහා මෙම ෆෝල්ඩරය පරීක්ෂා කරන්න">
 <!ENTITY folderCheckForNewMessages.accesskey     "C">
 
-<!ENTITY offlineFolder.check.label               "Select this folder for offline use">
+<!ENTITY offlineFolder.check.label               "අසම්බන්ධිතව භාවිතාව සඳහා මෙම ෆෝල්ඩරය තෝරන්න">
 <!ENTITY offlineFolder.check.accesskey           "S">
-<!ENTITY offlineFolder.button.label              "Download Now">
+<!ENTITY offlineFolder.button.label              "දැන් බාගත කරන්න">
 <!ENTITY offlineFolder.button.accesskey          "D">
 
-<!ENTITY selectofflineNewsgroup.check.label      "Select this newsgroup for offline use">
+<!ENTITY selectofflineNewsgroup.check.label      "අසම්බන්ධිතව භාවිතාව සඳහා මෙම පුවත්සමූහය තෝරන්න">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "o">
-<!ENTITY UseDefaultofflineNewsgroup.check.label  "Use the default from account settings ">
-<!ENTITY offlineNewsgroup.button.label           "Download Now">
+<!ENTITY UseDefaultofflineNewsgroup.check.label  "ගිණුම් සැකසුමේ පෛරනිමි භාවිතා කරන්න">
+<!ENTITY offlineNewsgroup.button.label           "දැන් බාගත කරන්න">
 <!ENTITY offlineNewsgroup.button.accesskey       "D">
 
 <!ENTITY folderProps.information.label           "තොරතුරු:">
 <!ENTITY folderProps.name.label                  "නම:">
 <!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.location.label              "ස්ථානය:">
+<!ENTITY folderProps.location.accesskey          "L">
 
-<!ENTITY folderSharingTab.label                  "Sharing">
-<!ENTITY privilegesDesc.label                    "Share this and other folders with network users and display and set access privileges">
-<!ENTITY privileges.button.label                 "Privileges...">
+<!ENTITY folderSharingTab.label                  "බෙදාගැනීම">
+<!ENTITY privilegesDesc.label                    "මෙය සහ අනෙකුත් ෆෝල්ඩරයන් ජාලයේ පරිශීලකයින් සමඟ බෙදාගැනීම, ප්‍රවේශ වරප්‍රසාදයන් සැකසීම සහ පෙන්වීම">
+<!ENTITY privileges.button.label                 "වරප්‍රසාදයන්...">
 <!ENTITY privileges.button.accesskey             "P">
-<!ENTITY permissionsDesc.label                   "You have the following permissions:">
-<!ENTITY folderType.label                        "Folder Type:">
+<!ENTITY permissionsDesc.label                   "ඔබට පහත අවසරයන් ඇත:">
+<!ENTITY folderType.label                        "ෆෝල්ඩර ආකාරය:">
 
 <!ENTITY folderQuotaTab.label                    "Quota">
 <!ENTITY folderQuotaRoot.label                   "Quota Root:">
-<!ENTITY folderQuotaUsage.label                  "Usage:">
-<!ENTITY folderQuotaStatus.label                 "Status:">
+<!ENTITY folderQuotaUsage.label                  "භාවිතාව:">
+<!ENTITY folderQuotaStatus.label                 "තත්ත්වය:">

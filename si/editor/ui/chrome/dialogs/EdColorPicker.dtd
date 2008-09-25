@@ -39,17 +39,17 @@
 <!ENTITY lastPickedColor.label "අවසන් වරට තෝරාගත් වර්ණය">
 <!ENTITY lastPickedColor.accessKey "L">
 <!ENTITY setColor1.label "වර්ණයක් මත ක්ලික් කිරීම හෝ">
-<!ENTITY setColor2.label "HTML වර්ණ අක්ෂරයන් ඇතුළත් කරන්න">
+<!ENTITY setColor2.label "HTML වර්ණ අක්ෂරයන් ඇතුලත් කරන්න">
 <!ENTITY setColor2.accessKey "H">
-<!ENTITY setColorExample.label "(නිදසුන: &quot;#0000ff&quot; හෝ &quot;blue&quot;):">
-<!ENTITY default.label "පෙරනිමිය">
+<!ENTITY setColorExample.label "(උදා: &quot;#0000ff&quot; or &quot;blue&quot;):">
+<!ENTITY default.label "පෙරනිමි">
 <!ENTITY default.accessKey "D">
-<!ENTITY palette.label "වර්ණ ඵලකය:">
+<!ENTITY palette.label "ඵලකය (Palette):">
 <!ENTITY standardPalette.label "සම්මත">
 <!ENTITY webPalette.label "සියලු වෙබ් වර්ණ">
-<!ENTITY background.label "පසුබිම සඳහා:">
+<!ENTITY background.label "පසුබාම සඳහා:">
 <!ENTITY background.accessKey "B">
 <!ENTITY table.label "වගුව">
 <!ENTITY table.accessKey "T">
-<!ENTITY cell.label "කොටුව">
+<!ENTITY cell.label "කොටු(ව)">
 <!ENTITY cell.accessKey "C">

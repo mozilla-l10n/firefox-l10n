@@ -8,12 +8,12 @@
 <!ENTITY syncTypeMail.accesskey "M">
 <!ENTITY syncTypeNews.label "Newsgroup messages">
 <!ENTITY syncTypeNews.accesskey "N">
-<!ENTITY sendMessage.label "Send Unsent messages">
+<!ENTITY sendMessage.label "නොයැවූ ලිපි යවන්න">
 <!ENTITY sendMessage.accesskey "S">
 <!ENTITY workOffline.label "Work offline once download and/or synchronisation is complete">
 <!ENTITY workOffline.accesskey "W">
-<!ENTITY selectButton.label "Select...">
+<!ENTITY selectButton.label "තෝරන්න...">
 <!ENTITY selectButton.accesskey "E">
 <!ENTITY MsgSelectDesc.label "Choose mail folders and newsgroups for offline use.">
-<!ENTITY MsgSelectInd.label "Download">
-<!ENTITY MsgSelectItems.label "Folders and Newsgroups">
+<!ENTITY MsgSelectInd.label "බාගත කරන්න">
+<!ENTITY MsgSelectItems.label "ෆෝල්ඩර සහ පුවත්සමූහ">

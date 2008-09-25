@@ -3,7 +3,7 @@
 <!ENTITY alwaysAsk.accesskey          "A">
 <!ENTITY neverAsk.label               "සියළු ඇමුණුම් මෙම ෆෝල්ඩරයට සුරකින්න:">
 <!ENTITY neverAsk.accesskey           "S">
-<!ENTITY desktop.label                "වැඩතලය">
+<!ENTITY desktop.label                "Desktop">
 <!ENTITY downloads.label              "My Downloads">
 <!ENTITY chooseFolderWin.label        "පිරික්සන්න...">
 <!ENTITY chooseFolderWin.accesskey    "B">
@@ -11,7 +11,7 @@
 <!ENTITY chooseFolderMac.accesskey    "C">
 
 
-<!ENTITY fileTypes.label              "භාගත ක්‍රියාවන්">
+<!ENTITY fileTypes.label              "බාගත ක්‍රියාවන්">
 <!ENTITY configureActions.label       "ක්‍රියාව පෙන්වීම සහ සැකසුම් කිරීම...">
 <!ENTITY configureActions.accesskey   "V">
 <!ENTITY fileTypesDescription.label   "කිසියම් ගොනු ආකාරයක ඇමුණුමක් ස්වයංක්‍රීයවම සුරැකීමට හෝ විවෘන කිරීමට &brandShortName; ට හැකිය.">

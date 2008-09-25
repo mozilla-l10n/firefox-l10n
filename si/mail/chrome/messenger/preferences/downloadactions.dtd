@@ -1,4 +1,4 @@
-<!ENTITY  downloadactionsWindow.title         "භාගත ක්‍රියාවන්">
+<!ENTITY  downloadactionsWindow.title         "බාගත ක්‍රියාවන්">
 <!ENTITY  window.width                         "480">
 <!ENTITY  window.height                        "310">
 
@@ -8,7 +8,7 @@
 <!ENTITY  fileHandlerColumn.accesskey         "A">
 <!ENTITY  fileTypeColumn.label                "ගොනු ආකාරය">
 <!ENTITY  fileTypeColumn.accesskey            "T">
-<!ENTITY  fileMIMETypeColumn.label            "MIME වර්ගය">
+<!ENTITY  fileMIMETypeColumn.label            "MIME Type">
 <!ENTITY  fileMIMETypeColumn.accesskey        "M">
 <!ENTITY  fileExtensionColumn.label           "දිගුව">
 <!ENTITY  fileExtensionColumn.accesskey       "E">

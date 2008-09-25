@@ -7,7 +7,7 @@
 <!ENTITY  language.accesskey                      "t">
 
 <!ENTITY  typefaces.label                         "Typeface">
-<!ENTITY  sizes.label                             "තරම (පික්සල)">
+<!ENTITY  sizes.label                             "විශාලත්වය (පික්සෙල්)">
 <!ENTITY  proportionalSize.accesskey              "e">
 <!ENTITY  monospaceSize.accesskey                 "x">
 
@@ -21,35 +21,35 @@
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "m">
 
-<!ENTITY  fontsize.units                          "pixels">
+<!ENTITY  fontsize.units                          "පික්සෙල්">
 
 <!ENTITY  font.langGroup.latin1                   "Western">
 <!ENTITY  font.langGroup.latin2                   "Central European">
-<!ENTITY  font.langGroup.japanese                 "Japanese">
+<!ENTITY  font.langGroup.japanese                 "ජපන්">
 <!ENTITY  font.langGroup.trad-chinese             "Traditional Chinese (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Simplified Chinese">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Traditional Chinese (Hong Kong)">
-<!ENTITY  font.langGroup.korean                   "Korean">
+<!ENTITY  font.langGroup.korean                   "කොරියානු">
 <!ENTITY  font.langGroup.cyrillic                 "Cyrillic">
 <!ENTITY  font.langGroup.baltic                   "Baltic">
-<!ENTITY  font.langGroup.el                       "Greek">
+<!ENTITY  font.langGroup.el                       "ග්‍රීක">
 <!ENTITY  font.langGroup.turkish                  "Turkish">
-<!ENTITY  font.langGroup.unicode                  "Other Languages">
+<!ENTITY  font.langGroup.unicode                  "වෙනත් භාෂාවන්">
 <!ENTITY  font.langGroup.user-def                 "User Defined">
-<!ENTITY  font.langGroup.thai                     "Thai">
+<!ENTITY  font.langGroup.thai                     "තායි">
 <!ENTITY  font.langGroup.hebrew                   "Hebrew">
-<!ENTITY  font.langGroup.arabic                   "Arabic">
+<!ENTITY  font.langGroup.arabic                   "අරාබි">
 <!ENTITY  font.langGroup.devanagari               "Devanagari">
-<!ENTITY  font.langGroup.tamil                    "Tamil">
+<!ENTITY  font.langGroup.tamil                    "දමිල">
 <!ENTITY  font.langGroup.armenian                 "Armenian">
-<!ENTITY  font.langGroup.bengali                  "Bengali">
+<!ENTITY  font.langGroup.bengali                  "බෙංගාලි">
 <!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
 <!ENTITY  font.langGroup.ethiopic                 "Ethiopic">
 <!ENTITY  font.langGroup.georgian                 "Georgian">
-<!ENTITY  font.langGroup.gujarati                 "Gujarati">
+<!ENTITY  font.langGroup.gujarati                 "ගුජරාටි">
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
-<!ENTITY  font.langGroup.malayalam                "Malayalam">
+<!ENTITY  font.langGroup.malayalam                "මලයාලම්">
 
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "අවම අකුරු විශාලත්වය:">
@@ -73,7 +73,5 @@
 
 <!ENTITY viewDefaultCharsetList.label     "ලැබෙන ලිපි:">
 <!ENTITY viewDefaultCharsetList.accesskey "I">
-<!ENTITY forceCharsetOverride.label       "පෙරනිමි (default) අකුරු කේතනයන් සියළු ලැබෙන ලිපි සඳහා යොදවන්න">
-<!ENTITY forceCharsetOverride.accesskey   "A">
-<!ENTITY replyInDefaultCharset.label      "පිළිතුරු යැවීමේදී පෙරනිමි (default) අකුරු කේතනයන් භාවිතා කරන්න">
-<!ENTITY replyInDefaultCharset.accesskey  "h">
+<!ENTITY replyInDefaultCharset2.label     "හැකි විටදී, පිළිතුරු ලිවීමෙිදී පෙරනිමි අනුලකුණු කේතනය භාවිතා කරන්න">
+<!ENTITY replyInDefaultCharset2.accesskey "h">

@@ -6,11 +6,12 @@
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "Use my global LDAP server preferences for this account">
 <!ENTITY useGlobal.accesskey       "U">
-<!ENTITY editDirectories.label     "ඩිරෙක්ට්‍රිය සංස්කරණය කරන්න...">
+<!ENTITY editDirectories.label     "ඩිරෙක්ටරි සැකසුම්...">
 <!ENTITY editDirectories.accesskey "E">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label         "විවිධ LDAP සේවාදායකයක් භාවිතා කරන්න">
+<!ENTITY directories.label         "වෙනත් LDAP සේවාදායකයක් භාවිතා කරන්න:">
 <!ENTITY directories.accesskey     "d">
+<!ENTITY directoriesNone.label     "කිසිවක් නැත">
 
 <!-- am-addressing.xul -->
 

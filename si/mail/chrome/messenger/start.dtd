@@ -43,4 +43,4 @@ function installDic(anchor)
 <a href="http://www.mozilla.org/products/thunderbird/dictionaries.html">Details
   and other languages</a>.</p>'>
 
-<!ENTITY startpage.poweredByGecko "Powered by Gecko.">
+<!ENTITY startpage.poweredByGecko "බලගැන්වුම Gecko.">

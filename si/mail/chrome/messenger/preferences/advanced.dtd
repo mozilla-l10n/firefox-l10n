@@ -8,29 +8,32 @@
 <!ENTITY showCondensedAddresses.label  "මගේ ලිපින පොතේ අඩංගු අයගේ පෙන්වන නම පමණක් ප්‍රදර්ශණය කරන්න">
 <!ENTITY showCondensedAddresses.accesskey "p">
 
+<!ENTITY autoMarkAsRead.label          "ස්වයංක්‍රීයව ලිපිය කියවූවා සේ ලකුණු කරන්නේ">
+<!ENTITY autoMarkAsRead.accesskey      "A">
+<!ENTITY markAsReadNoDelay.label       "පෙන්වූ විගසම">
+<!ENTITY markAsReadNoDelay.accesskey   "d">
 <!-- LOCALIZATION NOTE (markAsRead.label): This will concatenate with
      "xxx seconds before marking a message as read", using a number and
      (markAsReadEnd.label). -->
-<!ENTITY markAsRead.label              "ලිපිය කියවූ සේ සළකුණු කරන තුරු තත්ත්පර කිහිපයක් ">
-<!ENTITY markAsRead.accesskey          "W">
-<!ENTITY markAsReadEnd.label           "රැදී සිටින්න">
-<!ENTITY markAsReadEnd.accesskey       "d">
-<!ENTITY showFolderColumns.label       "ෆෝල්ඩර කවුඵව තුළ විහිදුනු තීරු පෙන්වන්න">
+<!ENTITY markAsReadDelay.label         "පෙන්වා තත්පර">
+<!ENTITY markAsReadDelay.accesskey     "e">
+<!ENTITY secondsLabel.label            "ට පසු">
+<!ENTITY showFolderColumns.label       "විදහළු තීරු ෆෝල්ඩර කවුළුවේ පෙන්වන්න">
 <!ENTITY showFolderColumns.accesskey   "l">
 <!ENTITY rememberLastMsg.label         "අවසන් වරට තේරූ ලිපිය මතක තබාගන්න">
 <!ENTITY rememberLastMsg.accesskey     "b">
-<!ENTITY reuseExp.label                "නව ලිපි විවෘත කරන්නේ:">
+<!ENTITY openMsgIn.label               "ලිපි විවෘත කරන්නේ:">
 <!ENTITY reuseExpRadio0.label          "නව ලිපි කවුළුවක් තුළ">
 <!ENTITY reuseExpRadio0.accesskey      "i">
 <!ENTITY reuseExpRadio1.label          "පවතින ලිපි කවුළුවක් තුළ">
 <!ENTITY reuseExpRadio1.accesskey      "x">
-<!ENTITY reuseExpRadio2.label          "නව ලිපි තීරයක් තුළ">
+<!ENTITY reuseExpRadio2.label          "නව ලිපි ටැබයක් තුළ">
 <!ENTITY reuseExpRadio2.accesskey      "Z">
 <!ENTITY connectionTimeout.label       "සම්බන්ධතාවය කාළය ඉක්මවීය: ">
 <!ENTITY connectionTimeout.accesskey   "C">
 <!ENTITY connectionSeconds.label       "තත්ත්පර">
 <!ENTITY configEditDesc.label          "වැඩිමනත් වින්‍යාස කිරීම්">
-<!ENTITY configEdit.label              "වින්‍යාස සකසනය...">
+<!ENTITY configEdit.label              "Config Editor...">
 <!ENTITY configEdit.accesskey          "g">
 <!ENTITY returnReceiptsInfo.label      "&brandShortName; ලදුපත් හසුරුවන ආකාරය නිර්ණය කිරීම">
 <!ENTITY showReturnReceipts.label      "ලදුපත්...">
@@ -48,7 +51,7 @@
 <!ENTITY modeAskMe.accesskey            "k">
 <!ENTITY modeAutomatic.label            "ස්වයංක්‍රීයව භාගත කර ස්ථාපනය කරන්න">
 <!ENTITY modeAutomatic.accesskey        "m">
-<!ENTITY modeAutoAddonWarn.label        "මෙය මගේ කිසියම් එක්-කිරීමක් අබල කරන්නේ නම් අනතුරු අඟවන්න">
+<!ENTITY modeAutoAddonWarn.label        "මෙය මගේ කිසියම් එක්-කිරීමක් අබල (disable) කරන්නේ නම් අනතුරු අඟවන්න">
 <!ENTITY modeAutoAddonWarn.accesskey    "-">
 <!ENTITY showUpdates.label              "යාවත්කාලීන ඉතිහාසය පෙන්වන්න">
 <!ENTITY showUpdates.accesskey          "y">
@@ -69,12 +72,12 @@
 <!ENTITY kb.label "kB">
 
 <!-- Certificates -->
-<!ENTITY certificatesInfo.label         "සහතික කළමනාකරණය, අවලංගු කිරීම් ලැයිස්තු, සහතික තහවුරු කිරීම සහ ආරක්ෂක ආම්පන්න.">
-<!ENTITY viewCertificates.label         "සහතික පෙන්වන්න">
+<!ENTITY certificatesInfo2.label        "සහතික,අහෝසිකිරීමේ ලැයිස්තුව, සහතික වලංගුකරණය සහ ආරක්‍ෂක මෙවලම් කළමණාකරණය.">
+<!ENTITY viewCertificates.label         "සහතික පෙන්වීම">
 <!ENTITY viewCertificates.accesskey     "a">
-<!ENTITY viewCRLs.label                 "අවලංගු කිරීම් ලැයිස්තු">
+<!ENTITY viewCRLs.label                 "අහෝසිකිරීමේ ලැයිස්තුව">
 <!ENTITY viewCRLs.accesskey             "e">
-<!ENTITY viewOCSP.label                 "තහවුරු කිරීම">
-<!ENTITY viewOCSP.accesskey             "f">
-<!ENTITY viewSecurityDevices.label      "ආරක්ෂක ආම්පන්න">
+<!ENTITY validation.label               "වලංගුකරණය">
+<!ENTITY validation.accesskey           "d">
+<!ENTITY viewSecurityDevices.label      "ආරක්‍ෂක මෙවලම්">
 <!ENTITY viewSecurityDevices.accesskey  "u">

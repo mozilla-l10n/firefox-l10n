@@ -3,7 +3,7 @@
 
 <!ENTITY email.label "විද්‍යුත් තැපැල්">
 <!ENTITY newsgroups.label "පුවත්සමූහ">
-<!ENTITY rss.label "RSS Feeds">
+<!ENTITY rss.label "RSS පෝෂක">
 
 <!ENTITY checkOnStartup.label "&brandShortName; ආරම්භකරන සෑම විටම මෙම පරීක්ෂා කිරීම කරන්න">
 <!ENTITY checkOnStartup.accesskey "A">

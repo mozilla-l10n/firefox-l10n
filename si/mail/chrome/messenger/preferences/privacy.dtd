@@ -1,23 +1,18 @@
-<!ENTITY itemGeneral.label       "සාමාන්‍ය">
 <!ENTITY itemJunk.label          "නිසරු ලිපි">
 <!ENTITY itemPhishing.label      "Email Scams">
 <!ENTITY itemPasswords.label     "රහස්පද">
-<!ENTITY itemAntiVirus.label     "වයිරස් විරෝධී">
-
-<!ENTITY disableImageInMailNews.label  "දුරස්ථ රූප ලිපි තුළට ලබා ගැනීම (loading of remote images) අවහිර කරන්න">
-<!ENTITY disableImageInMailNews.accesskey "B">
-<!ENTITY allowRemoteImagesForFriends.label  "එවන්නා මෙතුළ සිටී නම් දුරස්ථ රූප ලිපි තුළට ලබා ගැනීමට ඉඩ දෙන්න:">
-<!ENTITY allowRemoteImagesForFriends.accesskey "A">
-<!ENTITY enbJsCheckMailNews.label      "ලිපි තුළ ඇති Block JavaScript අවහිර කරන්න">
-<!ENTITY enbJsCheckMailNews.accesskey  "J">
+<!ENTITY itemAntiVirus.label     "වෛරස-විරෝධී">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "ඔබගේ පෙරනිමි නිසරු ලිපි සැකසුම් සාදන්න. ගිණුමට විශේෂිත වූ නිසරු ලිපි සැකසුම් ගිණුමේ සැකසුම් තුළ දී වින්‍යාස කළ හැකිය.">
 <!ENTITY manualMark.label "මම ලිපි නිසරු ලෙස සළකුණු කළ විටදී:">
+<!ENTITY manualMark.accesskey "W">
 <!ENTITY manualMarkModeMove.label "ඒවා ගිණුමේ &quot;නිසරු ලිපි&quot; ෆෝල්ඩරයට ගෙන යන්න">
+<!ENTITY manualMarkModeMove.accesskey "o">
 <!ENTITY markAsReadOnSpam.label "කියවන විට නිසරු සේ හඳුනා ගැනීම සඳහා සළකුණු කරන්න">
-<!ENTITY markAsReadOnSpam.acesskey "k">
+<!ENTITY markAsReadOnSpam.accesskey "k">
 <!ENTITY manualMarkModeDelete.label "ඒවා මකන්න">
+<!ENTITY manualMarkModeDelete.accesskey "t">
 <!ENTITY enableJunkLogging.label "නිසරු ලිපි පෙරණය ලොග් කිරීම බලැති කරන්න">
 <!ENTITY enableJunkLogging.accesskey "g">
 <!ENTITY openJunkLog.label "ලොග් සටහන පෙන්වන්න">
@@ -50,10 +45,10 @@
 <!ENTITY antiVirus.accesskey  "l">
 
 <!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
-<!ENTITY antiVirusCaption.label "වයිරස් විරෝධී">
+<!ENTITY antiVirusCaption.label "වෛරස-විරෝධී">
 <!ENTITY paswords.label         "රහස්පද">
 <!ENTITY emailScams.label       "Email Scams">
 <!ENTITY junkMail.label         "නිසරු ලිපි">
-<!ENTITY itemIntrusions.label   "අයුතු ඇතුඵ වීම්">
-<!ENTITY itemIntrusionsAndPasswords.label  "අයුතු ඇතුඵ වීම් සහ මුරපද">
+<!ENTITY itemIntrusions.label   "Intrusions">
+<!ENTITY itemIntrusionsAndPasswords.label  "Intrusions &amp; Passwords">
 <!ENTITY itemJunkMail.label     "නිසරු ලිපි">

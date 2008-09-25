@@ -1,9 +1,9 @@
 <!ENTITY  changeAction.title                  "ක්‍රියාව වෙනස් කිරීම">
 <!ENTITY  window.width                         "36em">
 
-<!ENTITY  whenDownloading.label               "මේ ආකාරයේ ගොනු භාගත කරන විටදී:">
+<!ENTITY  whenDownloading.label               "මේ ආකාරයේ ගොනු බාගත කරන විටදී:">
 
-<!ENTITY  openDefault.label                   "ඒවා පෙරනිමි යෙඳුම සමඟ විවෘත කරන්න:">
+<!ENTITY  openDefault.label                   "ඒවා පෙරනිමි (default) යෙඳුම සමඟ විවෘත කරන්න:">
 <!ENTITY  openDefault.accesskey               "O">
 <!ENTITY  openApplication.label               "ඒවා මෙම යෙඳුම සමඟ විවෘත කරන්න::">
 <!ENTITY  openApplication.accesskey           "e">
@@ -11,13 +11,13 @@
 <!ENTITY  changeApp.accesskey                 "B">
 <!ENTITY  saveToDisk.label                    "ඕවා මගේ පරිගණකය තුළ සුරකින්න">
 <!ENTITY  saveToDisk.accesskey                "S">
-<!ENTITY  saveToDefaultFolder.label           "පෙරනිමි භාගත ෆෝල්ඩරය තුළ">
+<!ENTITY  saveToDefaultFolder.label           "පෙරනිමි (default) බාගත ෆෝල්ඩරය තුළ">
 <!ENTITY  saveToDefaultFolder.accesskey       "d">
 <!ENTITY  saveToThisFolder.label              "මෙම ෆෝල්ඩරය තුළ:">
 <!ENTITY  saveToThisFolder.accesskey          "h">
-<!ENTITY  chooseFolder.label                  "Browse...">
+<!ENTITY  chooseFolder.label                  "විරික්සන්න...">
 <!ENTITY  chooseFolder.accesskey              "w">
 <!ENTITY  saveToAskMe.label                   "සුරකින්නේ කොතැනටදැයි විමසන්න">
 <!ENTITY  saveToAskMe.accesskey               "a">
-<!ENTITY  usePlugin.label                     "මෙම පේනු මෘදුකාංගය භාවිතා කරන්න:">
+<!ENTITY  usePlugin.label                     "මෙම ප්ලගීනය භාවිතා කරන්න:">
 <!ENTITY  usePlugin.accesskey                 "P">

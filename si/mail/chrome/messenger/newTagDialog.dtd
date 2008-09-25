@@ -1,4 +1,4 @@
 <!-- New Tag Dialog -->
-<!ENTITY newTagDialog.title      "Create New Tag">
-<!ENTITY name.label              "Tag Name:">
+<!ENTITY newTagDialog.title      "නව ටැගයක් සාදන්න">
+<!ENTITY name.label              "ටැග් නම:">
 <!ENTITY name.accesskey             "T">

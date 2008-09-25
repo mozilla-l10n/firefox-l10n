@@ -36,18 +36,18 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "පෞද්ගලික ශබ්දාකා්ශය">
+<!ENTITY windowTitle.label "පෞද්ගලික ශබ්දකෝෂය">
 
-<!ENTITY wordEditField.label "නව වචන:">
+<!ENTITY wordEditField.label "නව වදනක්:">
 <!ENTITY wordEditField.accessKey "N">
-<!ENTITY AddButton.label "එකතු කරන්න">
+<!ENTITY AddButton.label "එක් කරන්න">
 <!ENTITY AddButton.accessKey "A">
-<!ENTITY DictionaryList.label "ශබ්දාකා්ශය තුළ වචන:">
+<!ENTITY DictionaryList.label "ශබ්දකෝෂයේ වචන:">
 <!ENTITY DictionaryList.accessKey "W">
-<!ENTITY ReplaceButton.label "ප්‍රතිස්ථාපනය කරන්න">
+<!ENTITY ReplaceButton.label "Replace">
 <!ENTITY ReplaceButton.accessKey "R">
 <!ENTITY RemoveButton.label "ඉවත් කරන්න">
 <!ENTITY RemoveButton.accessKey "e">
 
-<!ENTITY CloseButton.label "අවසන් කරන්න">
+<!ENTITY CloseButton.label "වහන්න">
 <!ENTITY CloseButton.accessKey "C">

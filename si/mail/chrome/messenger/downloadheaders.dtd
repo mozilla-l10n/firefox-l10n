@@ -44,7 +44,7 @@
 	 Either label could be set to null ("") if required grammatically.
 -->
 
-<!ENTITY download.label     "භාගත කිරීම">
+<!ENTITY download.label     "බාගත කිරීම">
 <!ENTITY download.accesskey "o">
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
 <!ENTITY headers.label      "ශීර්ෂයන්">

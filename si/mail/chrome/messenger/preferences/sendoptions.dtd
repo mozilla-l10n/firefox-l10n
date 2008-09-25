@@ -17,11 +17,13 @@
 <!ENTITY HTMLTab.accesskey            "H">
 <!ENTITY PlainTextTab.label           "සාමාන්‍ය පාඨ අඩවි">
 <!ENTITY PlainTextTab.accesskey       "P">
-<!ENTITY AddButton.label              "එක් කරන්න...">
+<!ENTITY AddHtmlDomain.label          "එක් කරන්න…">
 <!ENTITY AddHtmlDomain.accesskey      "A">
+<!ENTITY AddPlainText.label           "එක් කරන්න…">
 <!ENTITY AddPlainText.accesskey       "d">
-<!ENTITY DeleteButton.label           "මකන්න">
+<!ENTITY DeleteHtmlDomain.label       "මකන්න">
 <!ENTITY DeleteHtmlDomain.accesskey   "l">
+<!ENTITY DeletePlainText.label        "මකන්න">
 <!ENTITY DeletePlainText.accesskey    "t">
 
 <!ENTITY add.htmltitle                "HTML අඩවි නාම එක් කිරීම">
