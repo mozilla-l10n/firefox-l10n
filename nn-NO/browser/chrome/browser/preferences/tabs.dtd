@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label             "Når ei lenkje opnar eit nytt vindauge, opne henne i:">
-<!ENTITY inNewWindow.label            "eit nytt vindauge">
-<!ENTITY inNewWindow.accesskey        "e">
-<!ENTITY inNewTab.label               "ei ny fane">
-<!ENTITY inNewTab.accesskey           "n">
+<!ENTITY newWindowsAsTabs.label       "Opne nye vindauge i ei fane i staden">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
 
 <!ENTITY warnCloseMultipleTabs.label  "Åtvar meg når eg lèt att eit vindauge med fleire faner">
 <!ENTITY warnCloseMultipleTabs.accesskey  "v">

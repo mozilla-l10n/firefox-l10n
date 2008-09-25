@@ -8,6 +8,7 @@
 <!ENTITY removeallpermissions.label   "Fjern alle nettstader">
 <!ENTITY removeallpermissions.accesskey "a">
 <!ENTITY address.label                "Adressa til nettstaden:">
+<!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Blokker">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "Tillat i økta">

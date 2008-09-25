@@ -60,8 +60,8 @@
 <!ENTITY  generalEncoding       "Koding:">
 <!ENTITY  generalMetaName       "Namn">
 <!ENTITY  generalMetaContent    "Innhald">
-<!ENTITY  generalSecurityMore   "Meir">
-<!ENTITY  generalSecurityMore.accesskey "M">
+<!ENTITY  generalSecurityDetails   "Detaljar">
+<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "Media">
 <!ENTITY  mediaTab.accesskey    "M">
