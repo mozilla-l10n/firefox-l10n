@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label  "Nové stránky otevírat:">
-<!ENTITY inNewWindow.label "v novém okně">
-<!ENTITY inNewWindow.accesskey "n">
-<!ENTITY inNewTab.label "v novém panelu">
-<!ENTITY inNewTab.accesskey "o">
+<!ENTITY newWindowsAsTabs.label "Otevírat nová okna v panelech">
+<!ENTITY newWindowsAsTabs.accesskey "O">
 
 <!ENTITY warnCloseMultipleTabs.label "Varovat, pokud zavírám okno s více panely">
 <!ENTITY warnCloseMultipleTabs.accesskey "a">

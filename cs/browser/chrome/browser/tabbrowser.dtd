@@ -16,4 +16,4 @@
 <!ENTITY bookmarkThisTab.accesskey "P">
 <!ENTITY undoCloseTab.label "Otevřít zavřený panel">
 <!ENTITY undoCloseTab.accesskey "t">
-
+<!ENTITY newTabButton.tooltip "Otevře nový panel">

@@ -136,6 +136,11 @@
 
 <!ENTITY Other.tab "Ostatní">
 <!ENTITY Other.accesskey "O">
+<!ENTITY Birthday.label "Narozeniny:">
+<!ENTITY Birthday.accesskey "N">
+<!ENTITY Year.emptytext "rok">
+<!ENTITY Or.value "nebo">
+<!ENTITY Age.emptytext "věk">
 <!ENTITY Custom1.label "Položka 1:">
 <!ENTITY Custom1.accesskey "1">
 <!ENTITY Custom2.label "Položka 2:">
