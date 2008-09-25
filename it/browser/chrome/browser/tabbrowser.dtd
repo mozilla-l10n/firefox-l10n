@@ -16,3 +16,4 @@
 <!ENTITY bookmarkThisTab.accesskey "Q">
 <!ENTITY undoCloseTab.label "Riapri scheda chiusa">
 <!ENTITY undoCloseTab.accesskey "h">
+<!ENTITY newTabButton.tooltip "Apri una nuova scheda">
