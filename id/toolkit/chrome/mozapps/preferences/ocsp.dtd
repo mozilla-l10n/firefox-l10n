@@ -8,6 +8,6 @@
 <!ENTITY serviceURL.label "URL Layanan:">
 <!ENTITY serviceURL.accesskey "L">
 <!ENTITY signingCA.label "Penandatangan Penjawab:">
-<!ENTITY signingCA.accesskey "R">
+<!ENTITY signingCA.accesskey "P">
 <!ENTITY requireOCSP.label "Jika sambungan ke server OCSP gagal, perlakukan sertifikat sebagai tidak sah.">
 <!ENTITY requireOCSP.accesskey "s">

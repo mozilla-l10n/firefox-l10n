@@ -32,6 +32,7 @@
 <!ENTITY cmd.clearList.tooltip "Menghapus unduhan yang telah selesai, dibatalkan, dan gagal dari daftar">
 <!ENTITY cmd.clearList.accesskey "h">
 <!ENTITY cmd.find.commandKey "f">
+<!ENTITY cmd.search.commandKey "k">
 <!ENTITY closeWhenDone.label "Tutup setelah unduhan selesai">
 <!ENTITY closeWhenDone.tooltip "Menutup jendela Unduhan setelah semua berkas selesai diunduh">
 <!ENTITY showFolder.label "Tampilkan Folder ini">

@@ -35,50 +35,32 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY pref.validation.title "Validasi">
-<!ENTITY validation.crl.caption "CRL">
-<!ENTITY validation.crl.description "Gunakan Pengelola CRL untuk mengelola Certificate Revocation Lists (CRL) yang tersimpan di basis data sertifikat Anda.">
-<!ENTITY validation.managecrls.button "Kelola CRL…">
-<!ENTITY validation.managecrls.accesskey "K">
 <!ENTITY validation.crlmanager.label "Kelola CRL">
-<!ENTITY validation.crlmanager.description "Daftar Pencabutan Sertifikat (CRL) berikut tersimpan pada basis data sertifikat anda:">
+<!ENTITY validation.crlmanager.description "Daftar Pencabutan Sertifikat (CRL) berikut tersimpan dalam basis data sertifikat anda:">
 <!ENTITY validation.crlname.label "Nama">
 <!ENTITY validation.crllastupdate.label "Pemutakhiran Terakhir">
-<!ENTITY validation.crlnextupdate.label "Pemutakhiran Berikutnya">
+<!ENTITY validation.crlnextupdate.label "Pemutakhiran Selanjutnya">
 <!ENTITY validation.crlautoupdateenabled.label "Pemutakhiran Otomatis">
 <!ENTITY validation.crlautoupdatestatus.label "Status Pemutakhiran Otomatis">
 <!ENTITY validation.deletecrl.label "Hapus">
 <!ENTITY validation.deletecrl.accesskey "H">
 <!ENTITY validation.updatecrl.label "Pemutakhiran">
-<!ENTITY validation.updatecrl.accesskey "U">
+<!ENTITY validation.updatecrl.accesskey "m">
 <!ENTITY validation.advanced.label "Pengaturan">
 <!ENTITY validation.advanced.accesskey "P">
 <!ENTITY validation.crl.autoupdate.title "Pengaturan Pemutakhiran CRL Otomatis">
-<!ENTITY validation.crl.autoupdate.enable.label "Aktifkan Pemutakhiran Otomatis untuk CRL ini">
+<!ENTITY validation.crl.autoupdate.enable.label "Aktifkan Pemutakhiran Otomatis untuk CRL berikut">
 <!ENTITY validation.crl.autoupdate.time.label1 "Pemutakhiran">
-<!ENTITY validation.crl.autoupdate.time.label2 "Hari sebelum tanggal Pemutakhiran Berikut">
-<!ENTITY validation.crl.autoupdate.freq.label1 "Perbarui setiap">
+<!ENTITY validation.crl.autoupdate.time.label2 "Hari sebelum Tanggal Pemutakhiran selanjutnya">
+<!ENTITY validation.crl.autoupdate.freq.label1 "Mutakhirkan setiap">
 <!ENTITY validation.crl.autoupdate.freq.label2 "Hari">
-<!ENTITY validation.crl.autoupdate.url.label "CRL akan diimpor Dari:">
+<!ENTITY validation.crl.autoupdate.url.label "CRL akan diimpor dari:">
 <!ENTITY crl.import.status.title "Status Impor CRL">
-<!ENTITY crl.import.success.message "Certificate Revocation List (CRL) berhasil diimpor.">
+<!ENTITY crl.import.success.message "Daftar Pencabutan Seritifikat (CRL) sukses diimpor.">
 <!ENTITY crl.issuer.label "CRL Diterbitkan Oleh:">
-<!ENTITY crl.issuer.org.label "Organisasi: ">
+<!ENTITY crl.issuer.org.label "Organisasi:">
 <!ENTITY crl.issuer.orgunit.label "Unit: ">
-<!ENTITY crl.import.nextupdate.label "Pemutakhiran Berikut Pada: ">
-<!ENTITY crl.autoupdate.fail.cnt.label "Kegagalan Berturut Pemutakhiran Sebelumnya: ">
-<!ENTITY crl.autoupdate.fail.reason.label "Detil Kegagalan Pemutakhiran Terakhir: ">
+<!ENTITY crl.import.nextupdate.label "Pemutakhiran Selanjutnya Pada:">
+<!ENTITY crl.autoupdate.fail.cnt.label "Kegagalan Rangkaian Pemutakhiran Sebelumnya">
+<!ENTITY crl.autoupdate.fail.reason.label "Keterangan Kegagalan Pemutakhiran Terakhir:">
 <!ENTITY edit.button "Pengaturan">
-<!ENTITY validation.ocsp.caption "OCSP">
-<!ENTITY enableOCSP.label "Gunakan Online Certificate Status Protocol (OCSP) untuk mengkonfirmasi validitas sertifikat">
-<!ENTITY enableOCSP.accesskey "G">
-<!ENTITY certOCSP2.label "Periksa validitas sertifikat jika OCSP server telah ditentukan sertifikat tersebut.">
-<!ENTITY certOCSP2.accesskey "v">
-<!ENTITY proxyOCSP2.label "Periksa validitas seluruh sertifikat dengan server OCSP berikut:">
-<!ENTITY proxyOCSP2.accesskey "s">
-<!ENTITY serviceURL.label "URL Layanan:">
-<!ENTITY serviceURL.accesskey "L">
-<!ENTITY signingCA.label "Penandatangan Penjawab:">
-<!ENTITY signingCA.accesskey "R">
-<!ENTITY validation.requireOCSP.description "Jika sambungan ke server OCSP gagal, perlakukan sertifikat sebagai sertifikat tidak sah">
-<!ENTITY validation.requireOCSP.accesskey "g">

@@ -6,8 +6,10 @@
 <!ENTITY cancel.label "Batal">
 <!ENTITY cancel.accesskey "B">
 <!ENTITY noupdatesfound.title "Versi Baru Tidak Ditemukan">
-<!ENTITY noupdatesfound.intro "Belum ada versi baru yang tersedia. &brandShortName; mungkin akan memeriksa
-                                           secara periodik untuk versi baru.">
+<!ENTITY noupdatesautoenabled.intro "Belum ada versi baru yang tersedia. &brandShortName; akan memeriksa
+                                           versi baru secara periodik.">
+<!ENTITY noupdatesautodisabled.intro "Belum ada versi baru yang tersedia. Periksa kembali nanti atau aktifkan
+                                           pemeriksaan versi baru otomatis pada &brandShortName;.">
 <!ENTITY incompatibleChecking.label "Memeriksa apakah pemasangan versi baru akan bermasalah dengan ekstensi dan/atau tema anda…">
 <!ENTITY clickHere.label "Lihat informasi lebih lanjut tentang pemutakhiran ini">
 <!ENTITY incompatible.warning "Pemutakhiran ini akan menyebabkan sebagian ekstensi dan/atau tema Anda
