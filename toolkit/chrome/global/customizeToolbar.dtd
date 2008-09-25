@@ -31,7 +31,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY dialog.title             "Priemonių juostų tvarkymas">
-<!ENTITY dialog.style             "width: 660px; height: 400px;">
+<!ENTITY dialog.style             "width: 720px; height: 400px;">
 <!ENTITY instructions.description "Nuvilkite mygtukus ir elementus į programos lango priemonių juostas.">
 <!ENTITY show.label               "Ant mygtukų rodyti:">
 <!ENTITY iconsAndText.label       "piktogramas ir tekstą">
