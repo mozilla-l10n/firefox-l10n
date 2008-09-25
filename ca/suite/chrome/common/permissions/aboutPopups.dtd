@@ -1,9 +1,0 @@
-<!ENTITY windowtitle.label "Quant a les finestres emergents">
-
-<!ENTITY popupDesc.label "Aquest lloc web ha obert una finestra emergent no soŀlicitada. El &brandShortName; pot evitar que s'obrin finestres emergents sense el vostre permís. Quan es bloca una finestra emergent, el &brandShortName; pot configurar-se per a mostrar una icona en la barra d'estat.">
-<!ENTITY popupDescAlt.label "El &brandShortName; pot evitar que les finestres emergents s'obrin sense el vostre permís. Quan es bloca una finestra emergent, el &brandShortName; pot configurar-se per a mostrar una icona en la barra d'estat.">
-<!ENTITY popupNote1.label "Per a definir les preferències per a controlar les finestres emergents, obriu el menú Edita i trieu Preferències. A la categoria Privadesa i seguretat, feu clic a Finestres emergents.">
-<!ENTITY popupNote2.label "Voldríeu blocar les finestres emrgents i definir-ne ara les preferències?">
-
-<!ENTITY acceptButton.label "Sí">
-<!ENTITY cancelButton.label "No">

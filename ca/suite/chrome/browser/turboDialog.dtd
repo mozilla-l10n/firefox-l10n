@@ -1,4 +1,0 @@
-<!ENTITY exitWarningMsg.label "L'inici ràpid és actiu, i, per tant, el &brandShortName; roman a la memòria i es pot tornar a iniciar ràpidament. Per sortir-ne completament feu clic amb el botó dret a la icona del &brandShortName;.">
-<!ENTITY exitWarningTitle.label "Inici ràpid">
-<!ENTITY exitWarningCheckbox.label "No em tornis a mostrar aquest missatge">
-<!ENTITY exitWarningCheckbox.accesskey "N">
