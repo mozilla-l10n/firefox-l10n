@@ -627,7 +627,7 @@
 
 <!-- Remote Content Bar -->
 <!ENTITY remoteContentMessage1.label "Para proteger su privacidad, se han bloqueado las imágenes remotas.">
-<!ENTITY loadRemoteContentButton.label "Mostrar imágenes ahora">
+<!ENTITY loadRemoteContentButton2.label "Mostrar imágenes ahora">
 
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Este mensaje puede ser una trampa.">
