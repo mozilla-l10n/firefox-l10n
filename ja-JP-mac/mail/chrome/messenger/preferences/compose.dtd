@@ -4,11 +4,11 @@
 <!ENTITY itemSendFormat.label			"送信形式">
 
 <!ENTITY forwardReply.label			"メッセージの転送">
-<!ENTITY forwardMsg.label			"メッセージを転送するとき元のメッセージを:"><!-- (^^; Forward messages: -->
+<!ENTITY forwardMsg.label			"転送元のメッセージを:">
 <!ENTITY forwardMsg.accesskey			"w">
 <!ENTITY inline.label				"メール本文に含める">
 <!ENTITY inline.accesskey			"I">
-<!ENTITY asAttachment.label			"ファイルとして添付する">
+<!ENTITY asAttachment.label			"ファイルとして添付">
 <!ENTITY asAttachment.accesskey			"A">
 <!ENTITY addExtension.label			"ファイル名に拡張子を付加する">
 <!ENTITY addExtension.accesskey			"f">

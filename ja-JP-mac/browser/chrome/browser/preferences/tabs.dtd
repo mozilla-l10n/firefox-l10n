@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label		"新しく別の場所にページを開くとき:">
-<!ENTITY inNewWindow.label		"新規ウインドウで開く">
-<!ENTITY inNewWindow.accesskey		"w">
-<!ENTITY inNewTab.label			"新規タブで開く">
-<!ENTITY inNewTab.accesskey		"t">
+<!ENTITY newWindowsAsTabs.label		"新規ウインドウではなく新規タブで開く">
+<!ENTITY newWindowsAsTabs.accesskey	"t">
 
 <!ENTITY warnCloseMultipleTabs.label	"同時に複数のタブを閉じるときは確認する">
 <!ENTITY warnCloseMultipleTabs.accesskey "m">
