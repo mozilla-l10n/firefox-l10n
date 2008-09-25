@@ -1,14 +1,16 @@
 <!ENTITY viewPicker.label "הצג:">
-<!ENTITY viewPicker.accesskey "i">
+<!ENTITY viewPicker.accesskey "צ">
 <!ENTITY viewAll.label "הכל">
-<!ENTITY viewAll.accesskey "A">
+<!ENTITY viewAll.accesskey "כ">
 <!ENTITY viewUnread.label "לא נקרא">
-<!ENTITY viewUnread.accesskey "U">
+<!ENTITY viewUnread.accesskey "ל">
+<!ENTITY viewNotDeleted.label "לא נמחק">
+<!ENTITY viewNotDeleted.accesskey "מ">
 <!ENTITY viewTags.label "תווית">
-<!ENTITY viewTags.accesskey "T">
+<!ENTITY viewTags.accesskey "ת">
 <!ENTITY viewCustomViews.label "תצוגות מותאמות אישית">
-<!ENTITY viewCustomViews.accesskey "V">
+<!ENTITY viewCustomViews.accesskey "א">
 <!ENTITY viewVirtualFolder.label "שמור תצוגה כתיקייה...">
-<!ENTITY viewVirtualFolder.accesskey "S">
+<!ENTITY viewVirtualFolder.accesskey "ש">
 <!ENTITY viewCustomizeView.label "התאמה אישית...">
-<!ENTITY viewCustomizeView.accesskey "C">
+<!ENTITY viewCustomizeView.accesskey "ה">

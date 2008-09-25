@@ -1,6 +1,7 @@
 <!ENTITY migrationWizard.title "אשף היבוא">
-<!-- ### ENTITY importFrom.label "יבא אפשרויות, הגדרות חשבון, פנקס כתובות ונתונים נוספים מ:" -->
+<!ENTITY importFromWin.label "יבא אפשרויות, הגדרות חשבון, פנקס כתובות ונתונים נוספים מ:">
 <!-- ### ENTITY importFromUnix.label "יבא העדפות, הגדרות חשבון, פנקס כתובות ונתונים נוספים מ:" -->
+<!ENTITY importFromNonWin.label         "יבא העדפות, הגדרות חשבון, פנקס כתובות ונתונים נוספים מ:">
 <!ENTITY importFromNothing.label "אל תייבא דבר">
 <!ENTITY importFromNothing.accesskey "D">
 <!ENTITY importFromSeamonkey.label "Netscape 6, 7 או Mozilla 1.x">
