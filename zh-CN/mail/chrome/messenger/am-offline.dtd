@@ -1,7 +1,7 @@
 <!ENTITY doNotDownloadPop3Movemail.label "为了节省磁盘空间，请不要下载：">
 <!ENTITY doNotDownload.label "为了节省磁盘空间，请不要下载供脱机使用：">
-<!ENTITY offlineNewFolder.label "当我创建新文件夹时，将它们设为可用于脱机工作">
-<!ENTITY offlineNewFolder.accesskey "c">
+<!ENTITY allFoldersOffline.label "在此计算机中保留本帐号的消息">
+<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "消息大小超过">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY kb.label "千字节">
@@ -25,10 +25,7 @@
 <!ENTITY nntpRemoveBody.accesskey "O">
 <!ENTITY offlineSelectNntp.label "选择用于脱机工作的新闻组…">
 <!ENTITY offlineSelectNntp.accesskey "S">
-<!ENTITY offlineSelectImap.label "选择用于脱机工作的文件夹…">
-<!ENTITY offlineSelectImap.accesskey "S">
-<!ENTITY offlineDesc.label "您可以将消息下载到本地，以便在您脱机工作时仍可用。">
-<!ENTITY makeInboxMsgsAvailable.label "让我“收件箱”中的消息在我脱机工作时仍可用。">
-<!ENTITY makeInboxMsgsAvailable.accesskey "k">
-<!ENTITY offlineGroupTitle.label "脱机">
+<!ENTITY offlineImapAdvancedOffline.label "高级…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "A">
+<!ENTITY syncGroupTitle.label "消息同步">
 <!ENTITY diskspaceGroupTitle.label "磁盘空间">

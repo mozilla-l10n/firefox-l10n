@@ -11,33 +11,43 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is Mozilla.org.
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
    -
    - The Initial Developer of the Original Code is
    - Netscape Communications Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 2003
+   - Portions created by the Initial Developer are Copyright (C) 1999
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Daniel Glazman (glazman@netscape.com) (Original author)
    -   
    -
    - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
    - in which case the provisions of the GPL or the LGPL are applicable instead
    - of those above. If you wish to allow use of your version of this file only
    - under the terms of either the GPL or the LGPL, and not to allow others to
    - use your version of this file under the terms of the MPL, indicate your
    - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - and other provisions required by the GPL or the LGPL. If you do not delete
    - the provisions above, a recipient may use your version of this file under
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY windowTitle.label "吸附至表格">
-<!ENTITY enableSnapToGrid.label "启用表格吸附">
-<!ENTITY enableSnapToGrid.accessKey "e">
-<!ENTITY sizeEditField.label "大小:">
-<!ENTITY sizeEditField.accessKey "S">
-<!ENTITY pixelsLabel.value "像素">
+<!ENTITY editorWindow.titlemodifier "编写器">
+<!ENTITY editorWindow.titlemodifiermenuseparator " - ">
+<!ENTITY viewMenu.label "查看">
+<!ENTITY viewmenu.accesskey "v">
+<!ENTITY compositionToolbarCmd.label "编写工具栏">
+<!ENTITY compositiontb.accesskey "c">
+<!ENTITY formattingToolbarCmd.label "格式工具栏">
+<!ENTITY formattingtb.accesskey "f">
+<!ENTITY editmodeToolbarCmd.label "编辑模式工具栏">
+<!ENTITY editmodetb.accesskey "E">
+<!ENTITY formatMenu.label "格式">
+<!ENTITY formatmenu.accesskey "o">
+<!ENTITY helpMenu.label "帮助">
+<!ENTITY aboutCmd.label "关于">
+<!ENTITY editMode.label "编辑模式:">
+<!ENTITY statusText.label "完成载入页面">

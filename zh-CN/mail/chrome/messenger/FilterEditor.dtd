@@ -8,7 +8,11 @@
 <!ENTITY normalPriorityCmd.label "正常">
 <!ENTITY highPriorityCmd.label "高">
 <!ENTITY highestPriorityCmd.label "最高">
-<!ENTITY conditionDesc.label "对于新消息，如果：">
+<!ENTITY contextDesc.label "执行过滤器，当：">
+<!ENTITY contextDesc.accesskey "w">
+<!ENTITY contextIncoming.label "检查邮件">
+<!ENTITY contextManual.label "手动运行">
+<!ENTITY contextBoth.label "检查邮件或者手动运行">
 <!ENTITY filterActionDesc.label "执行动作:">
 <!ENTITY filterActionDesc.accesskey "P">
 <!ENTITY newFolderButton.label "新建文件夹…">
