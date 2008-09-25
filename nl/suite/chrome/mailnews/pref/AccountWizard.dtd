@@ -72,15 +72,15 @@
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
 -->
-<!ENTITY haveSmtp1.prefix "Uw bestaande uitgaande (SMTP-)server, &quot;">
-<!ENTITY haveSmtp1.suffix "&quot;, zal worden gebruikt. U kunt de instellingen van de uitgaande e-mailserver aanpassen door te kiezen voor Accountinstellingen in het menu Extra.">
+<!ENTITY haveSmtp1.prefix "Uw bestaande uitgaande (SMTP-)server, “">
+<!ENTITY haveSmtp1.suffix "”, zal worden gebruikt. U kunt de instellingen van de uitgaande e-mailserver aanpassen door te kiezen voor Accountinstellingen in het menu Extra.">
 
 <!-- Entities for Login page -->
 
 <!ENTITY loginTitle.label "Gebruikersnamen">
 <!ENTITY usernameDesc.label "Voer de inkomende gebruikersnaam in die u van uw e-mailprovider hebt gekregen">
 <!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(bijvoorbeeld &quot;jsmit&quot;).">
+<!ENTITY usernameExample.label "(bijvoorbeeld “jsmit”).">
 <!ENTITY usernameLabel.label "Inkomende gebruikersnaam:">
 <!ENTITY usernameLabel.accesskey "k">
 <!ENTITY usernameSmtpDesc.label "Voer de uitgaande gebruikersnaam in die u van uw e-mailprovider hebt gekregen (dit is meestal dezelfde als uw inkomende gebruikersnaam).">
@@ -90,20 +90,20 @@
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "Uw bestaande uitgaande (SMTP-)gebruikersnaam, &quot;">
-<!ENTITY haveSmtp2.suffix "&quot;, zal worden gebruikt. U kunt de instellingen van de uitgaande e-mailserver aanpassen door te kiezen voor Accountinstellingen in het menu Extra.">
+<!ENTITY haveSmtp2.prefix "Uw bestaande uitgaande (SMTP-)gebruikersnaam, “">
+<!ENTITY haveSmtp2.suffix "”, zal worden gebruikt. U kunt de instellingen van de uitgaande e-mailserver aanpassen door te kiezen voor Accountinstellingen in het menu Extra.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "Uw uitgaande (SMTP-)server, &quot;">
-<!ENTITY haveSmtp3.suffix "&quot;, is identiek aan uw inkomende server, uw inkomende gebruikersnaam zal worden gebruikt om toegang te krijgen. U kunt de instellingen van de uitgaande e-mailserver aanpassen door te kiezen voor Accountinstellingen in het menu Extra.">
+<!ENTITY haveSmtp3.prefix "Uw uitgaande (SMTP-)server, “">
+<!ENTITY haveSmtp3.suffix "”, is identiek aan uw inkomende server, uw inkomende gebruikersnaam zal worden gebruikt om toegang te krijgen. U kunt de instellingen van de uitgaande e-mailserver aanpassen door te kiezen voor Accountinstellingen in het menu Extra.">
 
 <!-- Entities for Account name page -->
 
 <!ENTITY accnameTitle.label "Accountnaam">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
-<!ENTITY accnameDesc.label "Voer de naam in voor deze account (bijvoorbeeld &quot;Werkaccount&quot;, &quot;Thuisaccount&quot; of &quot;Nieuwsaccount&quot;).">
+<!ENTITY accnameDesc.label "Voer de naam in voor deze account (bijvoorbeeld “Werkaccount”, “Thuisaccount” of “Nieuwsaccount”).">
 <!ENTITY accnameExample.label "Bijvoorbeeld Werkaccount, Thuisaccount of Nieuwsaccount">
 <!ENTITY accnameLabel.label "Accountnaam:">
 <!ENTITY accnameLabel.accesskey "A">
