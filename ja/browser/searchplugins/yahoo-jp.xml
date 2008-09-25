@@ -4,7 +4,7 @@
 <Description>Yahoo Search</Description>
 <InputEncoding>UTF-8</InputEncoding>
 <Url type="application/x-suggestions+json" method="GET"
-     template="http://api.search.yahoo.co.jp/AssistSearchService/V2/webassistSearch">
+     template="http://search.yahooapis.jp/AssistSearchService/V2/webassistSearch">
   <Param name="p" value="{searchTerms}"/>
   <Param name="output" value="fxjson"/>
 </Url>

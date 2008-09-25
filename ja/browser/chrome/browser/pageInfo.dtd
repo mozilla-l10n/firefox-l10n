@@ -62,9 +62,8 @@
 <!ENTITY  generalEncoding		"文字エンコーディング:">
 <!ENTITY  generalMetaName		"名前">
 <!ENTITY  generalMetaContent		"値">
-
-<!ENTITY  generalSecurityMore		"詳細">
-<!ENTITY  generalSecurityMore.accesskey	"o">
+<!ENTITY  generalSecurityDetails	"詳細">
+<!ENTITY  generalSecurityDetails.accesskey	"D">
 
 <!ENTITY  mediaTab			"メディア">
 <!ENTITY  mediaTab.accesskey		"M">

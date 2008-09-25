@@ -54,7 +54,7 @@
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel		"リセット">
 <!ENTITY resetPassword.title			"マスターパスワードのリセット">
-<!ENTITY resetPassword.text			"マスターパスワードをリセットすると、保存されているすべてのメールパスワード、個人証明書、秘密鍵が失われます。本当にマスターパスワードをリセットしてもよろしいですか？">
+<!ENTITY resetPassword.text			"マスターパスワードをリセットすると、保存されているすべての Web やメールのパスワード、フォームデータ、個人証明書、秘密鍵が失われます。本当にマスターパスワードをリセットしてもよろしいですか？">
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title			"マスターパスワードの入力">
@@ -136,7 +136,7 @@
 <!ENTITY protectedAuth.title			"保護されたトークン認証">
 <!ENTITY protectedAuth.msg			"トークンの認証を行ってください。認証方法は使用するトークンの種類によって異なります。"><!-- (^^; -->
 <!ENTITY protectedAuth.tokenName.label		"トークン:">
-<!-- (^^; 後回し -->
-<!ENTITY certErrorDlg.title			"保護された接続ができませんでした">
-<!ENTITY certErrorDlg.info1			"This could be a problem with the server's configuration or it could be someone trying to impersonate the server.">
-<!ENTITY certErrorDlg.info2			"If you have connected to this server successfully in the past the error may be temporary and you can try again later.">
+<!-- (^^; SEE ALSO: dom/chrome/netError.dtd -->
+<!ENTITY certErrorDlg.title			"安全な接続ができませんでした">
+<!ENTITY certErrorDlg.info1			"サーバの設定に問題があるか、誰かが正規のサーバになりすましている可能性があります。">
+<!ENTITY certErrorDlg.info2			"以前は正常に接続できていた場合、この問題は恐らく一時的なものですので、後で再度試してみてください。">

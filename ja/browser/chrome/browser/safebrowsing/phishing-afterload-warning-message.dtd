@@ -16,8 +16,6 @@
 <!ENTITY safeb.palm.notforgery.label2	"誤警告を報告..."><!-- en-US: This isn't a web forgery -->
 <!ENTITY safeb.palm.report.label	"このサイトがブロックされる理由">
 
-<!ENTITY safeb.urlbaricon.tooltip	"このページは危険かもしれません。クリックすると詳細を表示します。">
-
 <!ENTITY safeb.blocked.malware.title		"攻撃サイトとして報告されています！">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc	"この Web サイト (<span id='malware_sitename'/>) は攻撃サイトであると報告されており、セキュリティ設定に従いブロックされました。">

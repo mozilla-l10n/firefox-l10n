@@ -7,8 +7,4 @@
 <!ENTITY  focusSearch1.key		"f">
 <!ENTITY  focusSearch2.key		"k">
 
-<!ENTITY  filter.label			"検索:">
-<!ENTITY  filter.accesskey		"S">
-
-<!ENTITY  clear.label			"消去">
-<!ENTITY  clear.accesskey		"l">
+<!ENTITY  filter.emptytext		"検索:">

@@ -8,6 +8,7 @@
 <!ENTITY removeallpermissions.label	"すべてのサイトを削除">
 <!ENTITY removeallpermissions.accesskey	"e">
 <!ENTITY address.label			"サイトのアドレス:">
+<!ENTITY address.accesskey		"d">
 <!ENTITY block.label			"不許可">
 <!ENTITY block.accesskey		"B">
 <!ENTITY session.label			"現在のセッションのみ">
