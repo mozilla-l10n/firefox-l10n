@@ -31,6 +31,8 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!--LOCALIZATION NOTE : FILE Lists preferences categories that appear on the left of the preferences dialog -->
+<!ENTITY prefWindow.title            "Nuostatos">
+<!ENTITY categoryHeader              "Nuostatų grupės">
 <!ENTITY appear.label                "Išvaizda">
 <!ENTITY content.label               "Turinys">
 <!ENTITY fonts.label                 "Šriftai">
