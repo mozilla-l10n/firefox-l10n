@@ -243,7 +243,6 @@
 <!ENTITY fullZoomToggleCmd.accesskey "т">
 <!ENTITY fullZoom.label "Масштаб">
 <!ENTITY fullZoom.accesskey "ш">
-<!ENTITY newTabButton.tooltip "Открыть новую вкладку">
 <!ENTITY newWindowButton.tooltip "Открыть новое окно">
 <!ENTITY sidebarCloseButton.tooltip "Закрыть боковую панель">
 <!ENTITY cutButton.tooltip "Вырезать">
