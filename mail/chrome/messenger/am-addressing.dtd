@@ -7,6 +7,7 @@
 <!ENTITY editDirectories.accesskey "E">
 <!ENTITY directories.label "使用其他 LDAP 服务器：">
 <!ENTITY directories.accesskey "d">
+<!ENTITY directoriesNone.label "无">
 <!ENTITY compositionGroupTitle.label "编写">
 <!ENTITY useHtml.label "以 HTML 格式编写消息">
 <!ENTITY useHtml.accesskey "C">

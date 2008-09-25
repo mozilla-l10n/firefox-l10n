@@ -30,8 +30,6 @@
 <!ENTITY languagePopup.label "语言：">
 <!ENTITY languagePopup.accessKey "g">
 <!ENTITY downloadDictionaries.label "下载更多字典">
-<!ENTITY useMIME.label "对于包含 8 位字符的消息，请使用 'quoted printable' MIME 编码。">
-<!ENTITY useMIME.accesskey "o">
 <!ENTITY warnOnSendAccelKey.label "当使用键盘快捷键发送消息时需确认">
 <!ENTITY warnOnSendAccelKey.accesskey "i">
 <!ENTITY autoSave.label "自动保存，每隔">
@@ -48,6 +46,7 @@
 <!ENTITY addressingEnable.accesskey "A">
 <!ENTITY directories.label "目录服务器：">
 <!ENTITY directories.accesskey "D">
+<!ENTITY directoriesNone.label "无">
 <!ENTITY editDirectories.label "编辑目录…">
 <!ENTITY editDirectories.accesskey "E">
 <!ENTITY matchText.label "如果在本地通讯录中有匹配的：">

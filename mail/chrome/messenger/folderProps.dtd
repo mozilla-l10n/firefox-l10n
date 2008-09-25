@@ -44,7 +44,7 @@
 <!ENTITY folderCharsetTab.accesskey "E">
 <!ENTITY folderCharsetOverride.label "对所有消息使用默认设置（单条消息的字符编码设置以及自动检测设置将被忽略）">
 <!ENTITY folderCharsetOverride.accesskey "A">
-<!ENTITY folderRebuildSummaryFile.label "重建">
+<!ENTITY folderRebuildSummaryFile.label "重建索引">
 <!ENTITY folderRebuildSummaryFile.accesskey "R">
 <!ENTITY folderRebuildSummaryFileTip.label "重建概要文件">
 <!ENTITY retention.label "保留策略">
@@ -54,8 +54,8 @@
 <!ENTITY daysOld.label "天的消息">
 <!ENTITY message.label "消息">
 <!ENTITY retentionCleanup.label "将旧消息永久删除可释放更多的磁盘空间">
-<!ENTITY retentionKeepMsg.label "删除超过">
-<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionDeleteMsg.label "删除超过">
+<!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "不要删除任何消息">
 <!ENTITY retentionKeepAll.accesskey "A">
 <!ENTITY retentionKeepNew.label "删除所有邮件，但保留最近的">

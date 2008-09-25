@@ -31,7 +31,7 @@
 <!ENTITY smtpServerLabel.label "外发服务器:">
 <!ENTITY smtpServerLabel.accesskey "O">
 <!ENTITY newsServerLabel.label "新闻组服务器:">
-<!ENTITY newsServerLabel.accesskey "N">
+<!ENTITY newsServerLabel.accesskey "w">
 <!ENTITY imapType.label "IMAP 邮件服务器">
 <!ENTITY imapType.accesskey "I">
 <!ENTITY popType.label "POP 邮件服务器">

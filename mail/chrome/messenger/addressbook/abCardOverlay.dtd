@@ -81,6 +81,11 @@
 <!ENTITY WorkWebPage.accesskey "b">
 <!ENTITY Other.tab "其他">
 <!ENTITY Other.accesskey "h">
+<!ENTITY Birthday.label "生日：">
+<!ENTITY Birthday.accesskey "B">
+<!ENTITY Year.emptytext "年">
+<!ENTITY Or.value "或者">
+<!ENTITY Age.emptytext "年纪">
 <!ENTITY Custom1.label "定制 1：">
 <!ENTITY Custom1.accesskey "1">
 <!ENTITY Custom2.label "定制 2：">
