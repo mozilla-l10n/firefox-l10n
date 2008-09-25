@@ -61,8 +61,8 @@
 <!ENTITY  generalEncoding       "Kodning:">
 <!ENTITY  generalMetaName       "Namn">
 <!ENTITY  generalMetaContent    "Innehåll">
-<!ENTITY  generalSecurityMore   "Mer">
-<!ENTITY  generalSecurityMore.accesskey "e">
+<!ENTITY  generalSecurityDetails   "Detaljer">
+<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "Media">
 <!ENTITY  mediaTab.accesskey    "M">
