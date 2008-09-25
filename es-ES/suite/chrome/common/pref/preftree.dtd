@@ -1,3 +1,5 @@
+<!ENTITY prefWindow.title "Preferencias">
+<!ENTITY categoryHeader "Categoría">
 <!ENTITY appear.label "Apariencia">
 <!ENTITY content.label "Contenido">
 <!ENTITY fonts.label "Tipos de letra">
