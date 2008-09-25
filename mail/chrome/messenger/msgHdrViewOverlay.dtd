@@ -54,7 +54,19 @@
 <!ENTITY originalWebsite2.label "website ">
 <!ENTITY saveAll.label "שמור הכל…">
 
+<!ENTITY otherActionsButton.label "פעולות אחרות">
+<!ENTITY saveAsMenuItem.label "שמור בשם…">
+<!ENTITY saveAsMenuItem.accesskey "ש">
+<!ENTITY viewSourceMenuItem.label "הצג מקור…">
+<!ENTITY viewSourceMenuItem.accesskey "מ">
+<!ENTITY hideDetailsButton.label "הסתר פרטים">
 
+<!ENTITY editMessageDescription.label "זוהי הודעת טיוטא">
+<!ENTITY editMessageButton.label "עריכה…">
+<!ENTITY replyButton.label "תגובה…">
+<!ENTITY forwardButton.label "העבר…">
+<!ENTITY junkButton.label "סמן בתור זבל">
+<!ENTITY trashButton.tooltiptext "מחק">
 
 <!ENTITY CopyMessageId.label "העתק מזהה הודעה">
 <!ENTITY OpenMessageForMsgId.label "פתח הודעה לפי מזהה">

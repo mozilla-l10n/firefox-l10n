@@ -6,3 +6,5 @@
 <!-- ### ENTITY percentMsg "#1&#037;" -->
 <!-- ### ENTITY messageSent "ההודעה שלך נשלחה" -->
 <!-- ### ENTITY messageSaved "ההודעה שלך נשמרה" -->
+<!ENTITY status.label "מצב:">
+<!ENTITY progress.label "התקדמות:">
