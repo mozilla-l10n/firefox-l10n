@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label             "Nya sidor ska öppnas i:">
-<!ENTITY inNewWindow.label            "ett nytt fönster">
-<!ENTITY inNewWindow.accesskey        "e">
-<!ENTITY inNewTab.label               "en ny flik">
-<!ENTITY inNewTab.accesskey           "n">
+<!ENTITY newWindowsAsTabs.label       "Öppna nya fönster i nya flikar i stället">
+<!ENTITY newWindowsAsTabs.accesskey   "n">
 
 <!ENTITY warnCloseMultipleTabs.label  "Varna när jag stänger flera flikar">
 <!ENTITY warnCloseMultipleTabs.accesskey  "V">
