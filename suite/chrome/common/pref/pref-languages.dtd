@@ -1,26 +1,16 @@
 <!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
 
 <!ENTITY languages.customize.prefLangDescript "Webové stránky jsou někdy k dispozici v několika jazycích. Zvolte jazyky v takovém pořadí, v jakém se mají používat pro zobrazování webových stránek.">
-<!ENTITY languages.customize.lHeader "Jazyky">
-<!ENTITY languages.customize.rHeader "Jazyky používané pro zobrazování stránek">
+<!ENTITY languages.customize.title "Jazyky">
 <!ENTITY langtitle.label "Jazyky webových stránek">
 <!ENTITY languages.customize.prefAddLangDescript "Vyberte jazyk nebo jazyky, které chcete přidat.">
-<!ENTITY languages.customize.engOrder.label "1">
-<!ENTITY languages.customize.engOption.label "Angličtina">
 <!ENTITY languages.customize.addButton.label "Přidat…">
 <!ENTITY languages.customize.addButton.accesskey "P">
 <!ENTITY languages.customize.deleteButton.label "Odebrat">
 <!ENTITY languages.customize.deleteButton.accesskey "D">
-<!ENTITY languages.customize.title.label "Upravit jazyky">
-<!ENTITY languages.customize.add.title.label "Přidání jazyka(ů)">
-<!ENTITY languages.customize.left.header "Znaková sada">
-<!ENTITY charset.customize.right.header "Zvolte podporované znakové sady">
+<!ENTITY languages.customize.add.title.label "Přidat jazyky">
 <!ENTITY languages.customize.available.label "Jazyky:">
 <!ENTITY languages.customize.active.label "Jazyky v pořadí, v jakém se mají používat:">
-<!ENTITY languages.customize.reorder.label "Změnit pořadí">
-<!ENTITY languages.customize.remove.label "Odebrat">
-<!ENTITY languages.customize.additional.label "Dostupné znakové sady">
-<!ENTITY languages.customize.add.label "Přidat">
 <!ENTITY languages.customize.others.label "Ostatní:">
 <!ENTITY languages.customize.others.accesskey "O">
 <!ENTITY languages.customize.Charset.grouplabel "Znaková sada">
@@ -28,10 +18,6 @@
 <!ENTITY languages.customize.DefaultCharset.accesskey "Z">
 <!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
 <!ENTITY languages.customize.others.examples "Např.: en-bz, ar-jo">
-<!ENTITY languages.customize.cancel.label "Zrušit">
-<!ENTITY languages.customize.save.label "Uložit">
-<!ENTITY languages.customize.ok.label "OK">
-<!ENTITY languages.customize.save.popup "Aby se uskutečněné změny projevily, prosím, ukončete a znovu spusťte váš prohlížeč…">
 <!ENTITY languages.customize.moveUp.label "Přesunout výše">
 <!ENTITY languages.customize.moveUp.accesskey "s">
 <!ENTITY languages.customize.moveDown.label "Přesunout níže">

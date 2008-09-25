@@ -309,7 +309,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label "Velikost stránky">
 <!ENTITY fullZoom.accesskey "V">
 
-<!ENTITY newTabButton.tooltip "Otevře nový panel">
 <!ENTITY newWindowButton.tooltip "Otevře nové okno">
 <!ENTITY sidebarCloseButton.tooltip "Zavře postranní lištu">
 

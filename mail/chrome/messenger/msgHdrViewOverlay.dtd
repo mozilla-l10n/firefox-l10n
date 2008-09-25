@@ -35,28 +35,42 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField.label "Komu: ">
-<!ENTITY fromField.label "Od: ">
-<!ENTITY senderField.label "Odesílatel: "> 
-<!ENTITY organizationField.label "Organizace:">
-<!ENTITY replyToField.label "Odpověď: ">
+<!ENTITY toField2.label "komu ">
+<!ENTITY fromField2.label "od ">
+<!ENTITY senderField2.label "odesílatel ">
+<!ENTITY organizationField2.label "organizace ">
+<!ENTITY replyToField2.label "odpověď ">
 
-<!ENTITY subjectField.label "Předmět:">
-<!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField.label "Kopie: ">
-<!ENTITY bccField.label "Skrytá kopie: ">
-<!ENTITY newsgroupsField.label "Diskusní skupiny: ">
-<!ENTITY followupToField.label "Pokračování do: ">
-<!ENTITY tagsHdr.label "Štítky: ">
-<!ENTITY dateField.label "Datum: ">
-<!ENTITY userAgentField.label "Poštovní klient: ">
-<!ENTITY referencesField.label "Reference: ">
-<!ENTITY messageIdField.label "Id zprávy: ">
-<!ENTITY inReplyToField.label "V odpovědi na: ">
-<!ENTITY originalWebsite.label "Webový server: ">
+<!ENTITY subjectField2.label "předmět ">
+<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
+<!ENTITY ccField2.label "kopie ">
+<!ENTITY bccField2.label "skrytá kopie ">
+<!ENTITY newsgroupsField2.label "diskusní skupiny ">
+<!ENTITY followupToField2.label "pokračování v ">
+<!ENTITY tagsHdr2.label "štítky ">
+<!ENTITY dateField2.label "datum ">
+<!ENTITY userAgentField2.label "poštovní klient ">
+<!ENTITY referencesField2.label "reference ">
+<!ENTITY messageIdField2.label "id zprávy ">
+<!ENTITY inReplyToField2.label "v odpovědi na ">
+<!ENTITY originalWebsite2.label "webový server ">
 <!ENTITY saveAll.label "Uložit vše…">
 
-<!ENTITY editMessage.label "Upravit rozepsané…">
+<!ENTITY editMessageDescription.label "Tato zpráva je koncept">
+<!ENTITY editMessageButton.label "Upravit…">
+<!ENTITY replyButton.label "odpovědět…">
+<!ENTITY forwardButton.label "přeposlat…">
+<!ENTITY junkButton.label "označit jako nevyžadaná">
+<!ENTITY trashButton.tooltiptext "smazat">
+
+<!ENTITY otherActionsButton.label "další akce">
+<!ENTITY saveAsMenuItem.label "uložit jako…">
+<!ENTITY saveAsMenuItem.accesskey "u">
+<!ENTITY viewSourceMenuItem.label "zobrazit zdrojový kód…">
+<!ENTITY viewSourceMenuItem.accesskey "z">
+
+<!ENTITY hideDetailsButton.label "skrýt podrobnosti">
+<!ENTITY showDetailsButton.label "zobrazit podrobnosti">
 
 <!ENTITY openAttachmentCmd.label "Otevřít">
 <!ENTITY openAttachmentCmd.accesskey "O">

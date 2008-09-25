@@ -38,8 +38,10 @@
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Správce odebírání…">
 <!ENTITY subscribeCmd.accesskey "S">
+<!ENTITY deleteFolder.label "Smazat složku">
+<!ENTITY deleteFolder.accesskey "m">
 <!ENTITY renameFolder.label "Přejmenovat složku…">
-<!ENTITY renameFolder.accesskey "m">
+<!ENTITY renameFolder.accesskey "j">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Provést údržbu složek">
 <!ENTITY compactFolder.accesskey "t">
@@ -625,12 +627,12 @@
 
 <!-- Remote Content Bar -->
 <!ENTITY remoteContentMessage1.label "Kvůli ochraně vašeho soukromí byly zablokovány vzdálené obrázky.">
-<!ENTITY loadRemoteContentButton1.label "Nahrát obrázky">
+<!ENTITY loadRemoteContentButton2.label "Zobrazit obrázky">
 
 <!-- Phishing Bar -->
-<!ENTITY phishingBarMessage1.label "Podezření na podvodný e-mail">
+<!ENTITY phishingBarMessage2.label "Tato zpráva může být podvodný e-mail.">
 <!ENTITY removePhishingBarButton1.label "Ignorovat varování">
-<!ENTITY reportPhishingError.label "Není podvodný e-mail">
+<!ENTITY reportPhishingError1.label "Tato zpráva nevypadá jako podvodný e-mail.">
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
