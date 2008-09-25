@@ -340,7 +340,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY newTabButton.tooltip           "Öppna en ny flik">
 <!ENTITY newWindowButton.tooltip        "Öppna ett nytt fönster">
 <!ENTITY sidebarCloseButton.tooltip     "Stäng Sidofält">
 

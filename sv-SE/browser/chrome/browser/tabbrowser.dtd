@@ -48,3 +48,4 @@
 <!ENTITY  bookmarkThisTab.accesskey   "B">
 <!ENTITY  undoCloseTab.label          "Ångra Stäng flik">
 <!ENTITY  undoCloseTab.accesskey      "Å">
+<!ENTITY  newTabButton.tooltip        "Öppna en ny flik">
