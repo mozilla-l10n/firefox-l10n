@@ -15,4 +15,4 @@
 <!ENTITY  bookmarkThisTab.label       "Marcar esta pestaña">
 <!ENTITY  bookmarkThisTab.accesskey   "M">
 <!ENTITY  undoCloseTab.label          "Deshacer cerrar pestaña">
-<!ENTITY  undoCloseTab.accesskey      "h">
+<!ENTITY  undoCloseTab.accesskey      "h"><!ENTITY  newTabButton.tooltip        "Abrir una nueva pestaña">
