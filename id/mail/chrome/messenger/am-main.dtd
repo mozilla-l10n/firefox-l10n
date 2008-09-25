@@ -1,0 +1,28 @@
+<!ENTITY accountTitle.label "Pengaturan Akun">
+<!ENTITY accountName.label "Nama Akun:">
+<!ENTITY accountName.accesskey "N">
+<!ENTITY accountNameDesc.label "Nama akun yang digunakan untuk mengidentifikasi setiap akun">
+<!ENTITY identityTitle.label "Identitas Default">
+<!ENTITY identityDesc.label "Setiap akun memiliki satu identitas. Identitas ini akan digunakan oleh orang lain untuk mengenali anda saat mereka membaca pesan anda.">
+<!ENTITY name.label "Nama Anda:">
+<!ENTITY name.accesskey "A">
+<!ENTITY email.label "Alamat Email:">
+<!ENTITY email.accesskey "E">
+<!ENTITY replyTo.label "Alamat Balasan:">
+<!ENTITY replyTo.accesskey "B">
+<!ENTITY organization.label "Organisasi:">
+<!ENTITY organization.accesskey "O">
+<!ENTITY signature.label "Tambahkan tanda tangan ini:">
+<!ENTITY signature.accesskey "t">
+<!ENTITY edit.label "Ubah…">
+<!ENTITY choose.label "Pilih…">
+<!ENTITY choose.accesskey "P">
+<!ENTITY editVCard.label "Ubah Kartu Nama…">
+<!ENTITY editVCard.accesskey "n">
+<!ENTITY attachVCard.label "Lampirkan vCard saya pada pesan">
+<!ENTITY attachVCard.accesskey "v">
+<!ENTITY manageIdentities.label "Kelola Identitas…">
+<!ENTITY manageIdentities.accesskey "I">
+<!ENTITY smtpName.label "Server Pengirim (SMTP):">
+<!ENTITY smtpName.accesskey "P">
+<!ENTITY smtpDefaultServer.label "Gunakan Server Default">

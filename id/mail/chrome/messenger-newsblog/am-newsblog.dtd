@@ -1,0 +1,15 @@
+<!ENTITY newsblogTitle.label "Pengaturan Akun RSS">
+<!ENTITY biffStart.label "Periksa artikel baru setiap">
+<!ENTITY biffStart.accesskey "k">
+<!ENTITY biffEnd.label "menit">
+<!ENTITY loginAtStartup.label "Periksa artikel baru saat memulai aplikasi">
+<!ENTITY loginAtStartup.accesskey "P">
+<!ENTITY useQuickMode.label "Tampilkan ringkasan artikel tanpa memuat halaman web sebagai pengaturan default">
+<!ENTITY useQuickMode.accesskey "T">
+<!ENTITY manageSubscriptions.label "Kelola Langganan…">
+<!ENTITY manageSubscriptions.accesskey "K">
+<!ENTITY rss.accountName "Blog &amp; Berita">
+<!ENTITY rss.wizardShortName "RSS">
+<!ENTITY rss.wizardLongName "RSS Blog &amp; Berita">
+<!ENTITY rss.wizardLongName.accesskey "R">
+<!ENTITY rss.hostName "Blog &amp; Berita">

@@ -1,0 +1,57 @@
+<!ENTITY itemGeneral.label "Utama">
+<!ENTITY itemAutoComplete.label "Alamat">
+<!ENTITY itemSpellCheck.label "Pengecek Ejaan">
+<!ENTITY itemSendFormat.label "Format Pengiriman">
+<!ENTITY forwardReply.label "Meneruskan Pesan">
+<!ENTITY forwardMsg.label "Teruskan pesan:">
+<!ENTITY forwardMsg.accesskey "T">
+<!ENTITY inline.label "Tidak Terpisah">
+<!ENTITY inline.accesskey "I">
+<!ENTITY asAttachment.label "Sebagai Lampiran">
+<!ENTITY asAttachment.accesskey "A">
+<!ENTITY addExtension.label "tambahkan ekstensi di belakang nama berkas">
+<!ENTITY addExtension.accesskey "b">
+<!ENTITY htmlComposeHeader.label "HTML">
+<!ENTITY font.label "Font:">
+<!ENTITY font.accesskey "n">
+<!ENTITY size.label "Ukuran:">
+<!ENTITY size.accesskey "U">
+<!ENTITY fontColor.label "Warna Teks:">
+<!ENTITY fontColor.accesskey "W">
+<!ENTITY bgColor.label "Warna Latar Belakang:">
+<!ENTITY bgColor.accesskey "W">
+<!ENTITY restoreHTMLDefaults.label "Kembalikan Nilai Default">
+<!ENTITY restoreHTMLDefaults.accesskey "K">
+<!ENTITY sendingMessagesHeader.label "Menyusun Pesan">
+<!ENTITY spellCheck.label "Periksa ejaan sebelum mengirim">
+<!ENTITY spellCheck.accesskey "e">
+<!ENTITY spellCheckInline.label "Aktifkan pengecek ejaan saat mengetik">
+<!ENTITY spellCheckInline1.accesskey "k">
+<!ENTITY languagePopup.label "Bahasa:">
+<!ENTITY languagePopup.accessKey "B">
+<!ENTITY downloadDictionaries.label "Unduh Kamus Lainnya">
+<!ENTITY warnOnSendAccelKey.label "Konfirmasi dengan menggunakan tombol cepat papan ketik untuk mengirim pesan">
+<!ENTITY warnOnSendAccelKey.accesskey "i">
+<!ENTITY autoSave.label "Simpan Otomatis setiap">
+<!ENTITY autoSave.accesskey "O">
+<!ENTITY autoSaveEnd.label "menit">
+<!ENTITY wrapOutMsg.label "Potong pesan dalam format teks biasa pada">
+<!ENTITY wrapOutMsg.accesskey "l">
+<!ENTITY char.label "karakter">
+<!ENTITY emailCollectionPicker.label "Otomatis tambahkan alamat email keluar ke:">
+<!ENTITY emailCollectionPicker.accesskey "t">
+<!ENTITY addressingTitle.label "Otomatis Melengkapi Alamat">
+<!ENTITY autocompleteText.label "Saat memberi alamat pada pesan, cari item yang cocok di:">
+<!ENTITY addressingEnable.label "Buku Alamat Lokal">
+<!ENTITY addressingEnable.accesskey "A">
+<!ENTITY directories.label "Server Direktori:">
+<!ENTITY directories.accesskey "D">
+<!ENTITY directoriesNone.label "Tidak ada">
+<!ENTITY editDirectories.label "Ubah Direktori…">
+<!ENTITY editDirectories.accesskey "E">
+<!ENTITY matchText.label "Jika ada yang cocok dengan buku alamat lokal saya:">
+<!ENTITY skipDirectory.label "Jangan mencari pada direktori">
+<!ENTITY sendOptionsCaption.label "Pengaturan Pengiriman dan HTML">
+<!ENTITY sendOptionsDescription.label "Atur pemformatan teks">
+<!ENTITY sendOptions.label "Pengaturan Pengiriman…">
+<!ENTITY sendOptions.accesskey "P">

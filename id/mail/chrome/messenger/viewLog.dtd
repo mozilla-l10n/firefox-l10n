@@ -1,0 +1,8 @@
+<!ENTITY viewLog.title "Log Filter">
+<!ENTITY viewLogInfo.text "Log filter merekam filter yang telah dijalankan pada akun ini. Gunakan kotak centang berikut untuk mengaktifkan proses logging.">
+<!ENTITY clearLog.label "Bersihkan Log">
+<!ENTITY clearLog.accesskey "B">
+<!ENTITY enableLog.label "Aktifkan Log Filter">
+<!ENTITY enableLog.accesskey "A">
+<!ENTITY closeLog.label "Tutup">
+<!ENTITY closeLog.accesskey "u">

@@ -1,0 +1,9 @@
+<!--null-->
+<!ENTITY all.label "Unduh semua header">
+<!ENTITY all.accesskey "U">
+<!ENTITY download.label "Unduh">
+<!ENTITY download.accesskey "U">
+<!ENTITY headers.label "header">
+<!ENTITY headers.accesskey "h">
+<!ENTITY mark.label "Tandai sudah dibaca untuk header sisa">
+<!ENTITY mark.accesskey "T">

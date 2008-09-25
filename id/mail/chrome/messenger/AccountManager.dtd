@@ -1,0 +1,13 @@
+<!ENTITY accountManagerTitle.label "Pengaturan Akun">
+<!ENTITY addAccountButton.label "Tambah Akun…">
+<!ENTITY addAccountButton.accesskey "T">
+<!ENTITY setDefaultButton.label "Atur sebagai Default">
+<!ENTITY setDefaultButton.accesskey "A">
+<!ENTITY duplicateButton.label "Gandakan">
+<!ENTITY removeButton.label "Hapus Akun">
+<!ENTITY removeButton.accesskey "H">
+<!ENTITY nameCol.label "Nama">
+<!ENTITY duplicate.label "Gandakan">
+<!ENTITY accountManager.size "width: 68em; height: 50em;">
+<!ENTITY macAccountManager.size "width: 60em; height: 50em;">
+<!ENTITY accountTree.width "width: 20em;">

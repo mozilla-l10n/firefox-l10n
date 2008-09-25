@@ -1,0 +1,7 @@
+<!ENTITY defaultClient.title "Klien Default">
+<!ENTITY defaultClient.intro "Gunakan &brandShortName; sebagai klien default untuk:">
+<!ENTITY email.label "Email">
+<!ENTITY newsgroups.label "Newsgroup">
+<!ENTITY rss.label "Feed RSS">
+<!ENTITY checkOnStartup.label "Selalu periksa saat memulai &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "S">

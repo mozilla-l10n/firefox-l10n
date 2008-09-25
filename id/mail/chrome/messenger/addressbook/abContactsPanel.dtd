@@ -1,0 +1,16 @@
+<!ENTITY addressbookPicker.label "Buku Alamat:">
+<!ENTITY addressbookPicker.accesskey "B">
+<!ENTITY searchInput.label "Cari:">
+<!ENTITY searchInput.accesskey "C">
+<!ENTITY SearchNameOrEmail.label "Nama atau Email">
+<!ENTITY deleteAddrBookCard.label "Hapus">
+<!ENTITY addrBookCardProperties.label "Properti">
+<!ENTITY addtoToFieldMenu.label "Tambahkan ke kotak">
+<!ENTITY addtoCcFieldMenu.label "Tambahkan ke kotak Cc">
+<!ENTITY addtoBccFieldMenu.label "Tambahkan ke kotak Bcc">
+<!ENTITY toButton.label "Tambahkan ke Kepada:">
+<!ENTITY toButton.accesskey "A">
+<!ENTITY ccButton.label "Tambahkan ke Cc:">
+<!ENTITY ccButton.accesskey "c">
+<!ENTITY bccButton.label "Tambahkan ke Bcc:">
+<!ENTITY bccButton.accesskey "B">

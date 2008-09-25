@@ -1,0 +1,24 @@
+<!ENTITY startpage.welcome "Selamat datang di &brandFullName;!">
+<!ENTITY startpage.intro "&brandFullName; adalah program pembaca email dan news open source nan tangguh.">
+<!ENTITY startpage.features "Fitur">
+<!ENTITY startpage.junkControl "Pengaturan Email Junk Adaptif">
+<!ENTITY startpage.rssReader "Pembaca RSS">
+<!ENTITY startpage.globalInbox "Kotak Masuk Global">
+<!ENTITY startpage.searchFolders "Folder Pencarian Tersimpan">
+<!ENTITY startpage.messageGroups "Pengelompokan Pesan">
+<!ENTITY startpage.privacyProtect "Perlindungan Privasi">
+<!ENTITY startpage.junkControlURL "http://www.mozilla.org/products/thunderbird/junkmail.html">
+<!ENTITY startpage.rssReaderURL "http://www.mozilla.org/products/thunderbird/rss.html">
+<!ENTITY startpage.globalInboxURL "http://www.mozilla.org/products/thunderbird/global-inbox.html">
+<!ENTITY startpage.searchFoldersURL "http://www.mozilla.org/products/thunderbird/search-folders.html">
+<!ENTITY startpage.messageGroupsURL "http://www.mozilla.org/products/thunderbird/message-grouping.html">
+<!ENTITY startpage.privacyProtectURL "http://www.mozilla.org/products/thunderbird/privacy-protection.html">
+<!ENTITY startpage.moreInfo "Lebih Lanjut">
+<!ENTITY startpage.help "Bantuan Thunderbird">
+<!ENTITY startpage.helpInfo "Untuk daftar pertanyaan yang sering diajukan, tips, dan bantuan umum lainnya, kunjungi ">
+<!ENTITY startpage.helpURL "http://www.mozilla.org/support/thunderbird/">
+<!ENTITY startpage.page "Halaman Produk Thunderbird">
+<!ENTITY startpage.pageInfo "Untuk informasi produk, kunjungi ">
+<!ENTITY startpage.pageURL "http://www.mozilla.org/products/thunderbird/">
+<!ENTITY startpage.extra "">
+<!ENTITY startpage.poweredByGecko "Didukung oleh Gecko.">

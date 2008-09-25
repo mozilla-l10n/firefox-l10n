@@ -1,0 +1,16 @@
+<!ENTITY pane.title "Peringatan Status Pengiriman">
+<!ENTITY useGlobalPrefs.label "Gunakan pengaturan global Peringatan Status Pengiriman untuk akun ini">
+<!ENTITY useGlobalPrefs.accesskey "G">
+<!ENTITY useCustomPrefs.label "Atur terpisah pengaturan Peringatan Status Pengiriman untuk akun ini">
+<!ENTITY useCustomPrefs.accesskey "t">
+<!ENTITY requestAlways.label "Ketika mengirim pesan, selalu minta Peringatan Status Pengiriman">
+<!ENTITY requestAlways.accesskey "m">
+<!ENTITY optionTitle.label "Minta peringatan pada :">
+<!ENTITY requestOnSucess.label "Pengiriman sukses">
+<!ENTITY requestOnSucess.accesskey "s">
+<!ENTITY requestOnFailure.label "Pengiriman gagal">
+<!ENTITY requestOnFailure.accesskey "g">
+<!ENTITY requestOnDelay.label "Pengiriman tertunda">
+<!ENTITY requestOnDelay.accesskey "t">
+<!ENTITY requestNever.label "Jangan gunakan Peringatan Status Pengiriman">
+<!ENTITY requestNever.accesskey "J">

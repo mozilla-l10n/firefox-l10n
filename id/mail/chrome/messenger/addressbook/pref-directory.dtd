@@ -1,0 +1,13 @@
+<!--null-->
+<!ENTITY pref.ldap.window.title "Server Direktori LDAP">
+<!ENTITY directory.label "Tambahkan direktori">
+<!ENTITY directories.label "Server Direktori LDAP:">
+<!ENTITY directoriesText.label "Pilih Server Direktori LDAP:">
+<!ENTITY directoriesText.accesskey "P">
+<!ENTITY autocomplete.title "Server Direktori LDAP">
+<!ENTITY addDirectory.label "Tambah">
+<!ENTITY addDirectory.accesskey "T">
+<!ENTITY editDirectory.label "Ubah">
+<!ENTITY editDirectory.accesskey "U">
+<!ENTITY deleteDirectory.label "Hapus">
+<!ENTITY deleteDirectory.accesskey "H">

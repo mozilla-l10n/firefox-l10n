@@ -1,0 +1,45 @@
+<!ENTITY itemFormatting.label "Format">
+<!ENTITY itemTags.label "Tag">
+<!ENTITY itemFonts.label "Huruf">
+<!ENTITY textBegin.label "Tampilan teks biasa untuk kutipan">
+<!ENTITY style.label "Gaya:">
+<!ENTITY style.accesskey "y">
+<!ENTITY regularStyle.label "Reguler">
+<!ENTITY bold.label "Tebal">
+<!ENTITY italic.label "Miring">
+<!ENTITY boldItalic.label "Tebal Miring">
+<!ENTITY size.label "Ukuran:">
+<!ENTITY size.accesskey "U">
+<!ENTITY regularSize.label "Reguler">
+<!ENTITY bigger.label "Lebih Besar">
+<!ENTITY smaller.label "Lebih kecil">
+<!ENTITY color.label "Warna:">
+<!ENTITY color.accesskey "W">
+<!ENTITY displayWidth.label "Pesan Teks Biasa">
+<!ENTITY plainText.label "Gunakan huruf berikut:">
+<!ENTITY displayText.label "Saat menampilkan kutipan dalam pesan dalam format teks biasa:">
+<!ENTITY viewingPlainText.label "Saat menampilkan pesan dalam format teks biasa:">
+<!ENTITY fixedWidth.label "Huruf lebar tetap">
+<!ENTITY fixedWidth.accesskey "t">
+<!ENTITY variableWidth.label "Huruf dengan lebar bervariasi">
+<!ENTITY variableWidth.accesskey "V">
+<!ENTITY readingMessagesHeader.label "Untuk pesan masuk">
+<!ENTITY colors.label "Warna">
+<!ENTITY overrideColors.label "Saat menampilkan pesan gunakan warna berikut:">
+<!ENTITY textColor.label "Warna Teks:">
+<!ENTITY textColor.accesskey "T">
+<!ENTITY backgroundColor.label "Warna Latar Belakang:">
+<!ENTITY backgroundColor.accesskey "W">
+<!ENTITY convertEmoticons.label "Tampilkan emotikon dengan gambar">
+<!ENTITY convertEmoticons.accesskey "D">
+<!ENTITY displayTagsText.label "Tag dapat digunakan untuk mengelompokkan dan memprioritaskan pesan.">
+<!ENTITY addTagButton.label "Tambah">
+<!ENTITY addTagButton.accesskey "A">
+<!ENTITY editTagButton.label "Ubah">
+<!ENTITY editTagButton.accesskey "U">
+<!ENTITY removeTagButton.label "Hapus">
+<!ENTITY removeTagButton.accesskey "H">
+<!ENTITY fontAndEncodingsDescription.label "Atur huruf dan pengodean yang digunakan &brandShortName;">
+<!ENTITY fontsAndEncodingsCaption.label "Huruf &amp; Pengodean">
+<!ENTITY fontOptions.accesskey "F">
+<!ENTITY fontOptions.label "Huruf…">

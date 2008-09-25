@@ -1,0 +1,16 @@
+<!ENTITY securityMenu.label "Keamanan">
+<!ENTITY securityMenu.accesskey "e">
+<!ENTITY menu_securityEncryptIfPossible.label "Dienkripsi jika Dimungkinkan">
+<!ENTITY menu_securityEncryptIfPossible.accesskey "e">
+<!ENTITY menu_securityEncryptRequire.label "Enkripsikan Pesan Ini">
+<!ENTITY menu_securityEncryptRequire.accesskey "E">
+<!ENTITY menu_securityNoEncryption.label "Jangan Enkripsi Pesan Ini">
+<!ENTITY menu_securityNoEncryption.accesskey "J">
+<!ENTITY menu_securitySign.label "Tandatangani Pesan Ini Secara Dijital">
+<!ENTITY menu_securitySign.accesskey "D">
+<!ENTITY menu_securityStatus.label "Tampilkan Info Keamanan">
+<!ENTITY menu_securityStatus.accesskey "I">
+<!ENTITY securityButton.label "Keamanan">
+<!ENTITY securityButton.tooltip "Tampilkan atau Ubah Pengaturan Keamanan">
+<!ENTITY menu_viewSecurityStatus.label "Info Keamanan Pesan">
+<!ENTITY menu_viewSecurityStatus.accesskey "I">

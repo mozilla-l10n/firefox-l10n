@@ -1,0 +1,45 @@
+<!ENTITY itemJunk.label "Junk">
+<!ENTITY itemPhishing.label "Penipuan Email">
+<!ENTITY itemPasswords.label "Kata Sandi">
+<!ENTITY itemAntiVirus.label "Anti-Virus">
+<!ENTITY junkMail.intro "Atur pengaturan email junk default.
+Pengaturan email junk pada setiap akun dapat diatur pada Pengaturan Akun.">
+<!ENTITY manualMark.label "Saat menandai pesan sebagai pesan junk:">
+<!ENTITY manualMark.accesskey "S">
+<!ENTITY manualMarkModeMove.label "Pindahkan ke folder &quot;Junk&quot; akun">
+<!ENTITY manualMarkModeMove.accesskey "o">
+<!ENTITY manualMarkModeDelete.label "Hapus berikut">
+<!ENTITY manualMarkModeDelete.accesskey "t">
+<!ENTITY markAsReadOnSpam.label "Tandai sudah dibaca pada pesan yang dianggap sebagai Junk">
+<!ENTITY markAsReadOnSpam.accesskey "d">
+<!ENTITY enableJunkLogging.label "Aktifkan logging filter junk">
+<!ENTITY enableJunkLogging.accesskey "g">
+<!ENTITY openJunkLog.label "Tampilkan log">
+<!ENTITY openJunkLog.accesskey "l">
+<!ENTITY resetTrainingData.label "Reset Data Training">
+<!ENTITY resetTrainingData.accesskey "D">
+<!ENTITY phishingDetector1.intro "&brandShortName; dapat menganalisis pesan yang mungkin berisi penipuan (scam) yang menggunakan teknik-teknik yang umum untuk menipu anda.">
+<!ENTITY enablePhishingDetector1.label "Beritahu jika pesan yang sedang dibaca adalah tersangka penipuan lewat email">
+<!ENTITY enablePhishingDetector1.accesskey "e">
+<!ENTITY useDownloadedList.label "Gunakan daftar tersangka penipuan email yang diunduh dari Internet">
+<!ENTITY useDownloadedList.accesskey "U">
+<!ENTITY savedPasswords.intro "&brandShortName; dapat menyimpan informasi kata sandi untuk semua akun anda sehingga anda tidak perlu mengetikkan ulang informasi log-masuk anda berkali-kali.">
+<!ENTITY encryptEnabled.label "Gunakan kata sandi utama untuk mengenkripsi semua kata sandi simpanan">
+<!ENTITY encryptEnabled.accesskey "s">
+<!ENTITY masterPassword.intro "Jika diatur Kata Sandi Utama melindungi semua kata sandi anda - tetapi anda harus mengetikkannya sekali dalam satu sesi.">
+<!ENTITY setMasterPassword.label "Kata Sandi Utama">
+<!ENTITY setMasterPassword.accesskey "M">
+<!ENTITY removeMasterPassword.label "Hapus Kata Sandi Utama…">
+<!ENTITY removeMasterPassword.accesskey "U">
+<!ENTITY editPasswords.label "Ubah Kata Sandi Simpanan">
+<!ENTITY editPasswords.accesskey "i">
+<!ENTITY antiVirus.intro "&brandShortName; dapat memudahkan perangkat lunak anti-virus untuk menganalisis pesan email masuk dari virus sebelum disimpan secara lokal.">
+<!ENTITY antiVirus.label "Izinkan perangkat lunak anti-virus untuk memasukkan pesan secara terpisah ke dalam karantina">
+<!ENTITY antiVirus.accesskey "l">
+<!ENTITY antiVirusCaption.label "Anti-Virus">
+<!ENTITY paswords.label "Kata Sandi">
+<!ENTITY emailScams.label "Email Penipuan">
+<!ENTITY junkMail.label "Email Junk">
+<!ENTITY itemIntrusions.label "Penyusupan Gangguan">
+<!ENTITY itemIntrusionsAndPasswords.label "Kata Sandi &amp; Penyusupan Gangguan">
+<!ENTITY itemJunkMail.label "Email Junk">

@@ -1,0 +1,4 @@
+<!ENTITY mailViewSetupTitle.label "Pengaturan Tampilan Pesan">
+<!ENTITY mailViewHeading.label "Nama tampilan pesan:">
+<!ENTITY mailViewHeading.accesskey "n">
+<!ENTITY searchTermCaption.label "Saat tampilan ini dipilih, hanya tampilkan pesan yang:">

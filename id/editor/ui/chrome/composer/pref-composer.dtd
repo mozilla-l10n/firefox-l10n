@@ -1,0 +1,29 @@
+<!ENTITY pref.composer.title "Composer">
+<!ENTITY saving "Menyimpan">
+<!ENTITY AutoSaveCheck "Simpan otomatis setiap">
+<!ENTITY minText "menit">
+<!ENTITY exterLegend.label "Program Penyunting Eksternal">
+<!ENTITY htmlSource "Kode Sumber HTML:">
+<!ENTITY imageeditor "Gambar:">
+<!ENTITY chooseButton.label "Pilih">
+<!ENTITY recentFiles.title "Menu Halaman Terakhir">
+<!ENTITY documentsInMenu.label "Jumlah halaman terakhir yang tampil">
+<!ENTITY documentsInMenu.accesskey "j">
+<!ENTITY savingFiles.title "Saat Menyimpan atau Menerbitkan Halaman">
+<!ENTITY preserveExisting.label "Jangan ubah format kode sumber asli">
+<!ENTITY preserveExisting.accesskey "J">
+<!ENTITY preserveExisting.tooltip "Jaga pemotongan baris dan halaman sesuai dengan format aslinya">
+<!ENTITY saveAssociatedFiles.label "Simpan gambar dan berkas terkait lainnya saat menyimpan halaman">
+<!ENTITY saveAssociatedFiles.accesskey "S">
+<!ENTITY showPublishDialog.label "Selalu tampilkan dialog Penerbitan saat menerbitkan halaman">
+<!ENTITY showPublishDialog.accesskey "A">
+<!ENTITY composerEditing.label "Penyuntingan">
+<!ENTITY spellCheckInline.label "Periksa ejaan saat mengetik">
+<!ENTITY spellCheckInline.accesskey "p">
+<!ENTITY maintainStructure.label "Jaga layout tabel saat menyisipkan atau menghapus sel">
+<!ENTITY maintainStructure.tooltip "Jaga bentuk tabel agar selalu persegi dengan menambah sel secara otomatis setelah menyisipkan atau menghapus sel">
+<!ENTITY maintainStructure.accesskey "M">
+<!ENTITY useCSS.label "Gunakan style CSS tanpa menggunakan elemen HTML dan atributnya">
+<!ENTITY useCSS.accesskey "U">
+<!ENTITY crInPCreatesNewP.label "Tombol Enter pada paragraf selalu membuat paragraf baru">
+<!ENTITY crInPCreatesNewP.accesskey "R">

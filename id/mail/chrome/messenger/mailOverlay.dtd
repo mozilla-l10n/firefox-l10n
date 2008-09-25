@@ -1,0 +1,6 @@
+<!ENTITY newMessageCmd2.key "B">
+<!ENTITY newMessageCmd.key "M">
+<!ENTITY newMessageCmd.label "Pesan">
+<!ENTITY newMessageCmd.accesskey "P">
+<!ENTITY newCardCmd.label "Kartu Nama…">
+<!ENTITY newCardCmd.accesskey "K">

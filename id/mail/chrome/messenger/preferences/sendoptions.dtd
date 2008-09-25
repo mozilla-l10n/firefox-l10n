@@ -1,0 +1,35 @@
+<!ENTITY dialog.title "Pengaturan Pengiriman">
+<!ENTITY sendMail.title "Format Teks">
+<!ENTITY sendMaildesc.label "Saat mengirim pesan dalam format HTML dan salah satu atau lebih penerima tidak didaftar mempunyai kemampuan menerima format HTML:">
+<!ENTITY askMe.label "Tanyakan saya">
+<!ENTITY askMe.accesskey "k">
+<!ENTITY convertPlain.label "Ganti format pesan ke teks biasa">
+<!ENTITY convertPlain.accesskey "b">
+<!ENTITY sendHTML.label "Kirim saja dengan format HTML">
+<!ENTITY sendHTML.accesskey "s">
+<!ENTITY sendBoth.label "Kirim pesan dalam kedua format teks biasa dan HTML">
+<!ENTITY sendBoth.accesskey "e">
+<!ENTITY receiveHTML.label "Jika anda tahu penerima tertentu dapat menerima email HTML, matikan pilihan 'Kirim email sebagai teks biasa (tanpa HTML)' pada kartu nama penerima di Buku Alamat.">
+<!ENTITY override.label "Catatan: Gunakan Buku Alamat untuk menentukan format teks yang diinginkan untuk penerima.">
+<!ENTITY domaindesc.label "Ketika anda mengirim sebuah pesan kepada alamat yang nama domainnya terdaftar di bawah ini, &brandShortName; akan secara otomatis mengirim pesan tersebut dalam format yang ditentukan.">
+<!ENTITY HTMLTab.label "Domain HTML">
+<!ENTITY HTMLTab.accesskey "h">
+<!ENTITY PlainTextTab.label "Domain Teks Biasa">
+<!ENTITY PlainTextTab.accesskey "b">
+<!ENTITY AddHtmlDomain.label "Tambah…">
+<!ENTITY AddHtmlDomain.accesskey "a">
+<!ENTITY AddPlainText.label "Tambah…">
+<!ENTITY AddPlainText.accesskey "T">
+<!ENTITY DeleteHtmlDomain.label "Hapus">
+<!ENTITY DeleteHtmlDomain.accesskey "H">
+<!ENTITY DeletePlainText.label "Hapus">
+<!ENTITY DeletePlainText.accesskey "H">
+<!ENTITY add.htmltitle "Tambah Nama Domain HTML">
+<!ENTITY add.htmldomain "Nama Domain HTML:">
+<!ENTITY add.htmldomain.accesskey "d">
+<!ENTITY add.plaintexttitle "Tambah Nama Domain Teks Biasa">
+<!ENTITY add.plaintextdomain "Nama Domain Teks Biasa:">
+<!ENTITY add.plaintext.accesskey "d">
+<!ENTITY domainnameError.title "Kesalahan Nama Domain">
+<!ENTITY duplicationError.label "Nama domain @string@ sudah ada dalam daftar ini.">
+<!ENTITY dualEntryError.label "Nama domain tidak dapat disertakan pada daftar HTML dan Teks Biasa sekaligus. Nama domain @string@ sudah ada.">

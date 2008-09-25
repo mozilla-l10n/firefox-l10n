@@ -1,0 +1,5 @@
+<!ENTITY searchIntegration.engineName "Windows Search">
+<!ENTITY searchIntegration.title "Integrasi dengan &searchIntegration.engineName;">
+<!ENTITY searchIntegration.description "Apakah anda ingin untuk mengaktifkan &searchIntegration.engineName; agar dapat mengindeks dan mencari pesan email dan news pada &brandShortName;?">
+<!ENTITY searchIntegration.accept "Aktifkan &searchIntegration.engineName;">
+<!ENTITY searchIntegration.cancel "Jangan Aktifkan &searchIntegration.engineName;">

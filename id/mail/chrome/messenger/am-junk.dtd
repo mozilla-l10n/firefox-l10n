@@ -1,0 +1,17 @@
+<!ENTITY junkSettings.label "Pengaturan Pesan Junk">
+<!ENTITY trainingWarning.label 'Jika diaktifkan, anda perlu untuk "melatih" &brandShortName; agar dapat mengidentifikasi email junk dengan menggunakan tombol Junk pada toolbar untuk menandai apakah pesan merupakan pesan junk. Anda perlu mengidentifikasi mana yang pesan junk dan mana yang bukan.'>
+<!ENTITY level.label "Gunakan kontrol email junk adaptif untuk akun ini">
+<!ENTITY level.accesskey "a">
+<!ENTITY move.label "Pindahkan pesan junk ke:">
+<!ENTITY move.accesskey "P">
+<!ENTITY junkFolderOn.label "Folder &quot;Junk&quot; di:">
+<!ENTITY junkFolderOn.accesskey "d">
+<!ENTITY otherFolder.label "Lainnya:">
+<!ENTITY otherFolder.accesskey "l">
+<!ENTITY purge1.label "Otomatis hapus pesan junk yang lebih lama dari">
+<!ENTITY purge1.accesskey "L">
+<!ENTITY purge2.label "hari">
+<!ENTITY whitelist.label "Jangan tandai pesan sebagai pesan junk jika pengirim ada di:">
+<!ENTITY whitelist.accesskey "d">
+<!ENTITY ispHeaders.label "Percayai header email junk yang dikirim oleh">
+<!ENTITY ispHeaders.accesskey "P">

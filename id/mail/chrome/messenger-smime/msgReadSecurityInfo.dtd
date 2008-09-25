@@ -1,0 +1,7 @@
+<!ENTITY status.label "Keamanan Pesan">
+<!ENTITY signatureCert.label "Tampilkan Sertifikat Tandatangan">
+<!ENTITY encryptionCert.label "Tampilkan Sertifikat Enkripsi">
+<!ENTITY signer.name "Ditandatangani oleh:">
+<!ENTITY recipient.name "Dienkripsi untuk:">
+<!ENTITY email.address "Alamat email:">
+<!ENTITY issuer.name "Sertifikat diterbitkan oleh:">

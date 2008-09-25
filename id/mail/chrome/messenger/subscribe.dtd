@@ -1,0 +1,17 @@
+<!--null-->
+<!ENTITY subscribeDialog.title "Berlangganan">
+<!ENTITY subscribeButton.label "Berlangganan">
+<!ENTITY subscribeButton.accesskey "L">
+<!ENTITY unsubscribeButton.label "Berhenti Langganan">
+<!ENTITY unsubscribeButton.accesskey "i">
+<!ENTITY newGroupsTab.label "Grup Baru">
+<!ENTITY newGroupsTab.accesskey "G">
+<!ENTITY refreshButton.label "Muat Ulang">
+<!ENTITY refreshButton.accesskey "U">
+<!ENTITY stopButton.label "Berhenti">
+<!ENTITY stopButton.accesskey "h">
+<!ENTITY server.label "Akun:">
+<!ENTITY server.accesskey "A">
+<!ENTITY subscribedHeader.label "Berlangganan">
+<!ENTITY namefield.label "Tampilkan item yang berisi:">
+<!ENTITY namefield.accesskey "i">

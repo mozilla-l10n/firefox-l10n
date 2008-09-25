@@ -1,0 +1,29 @@
+<!ENTITY window.title "Filter Pesan">
+<!ENTITY nameColumn.label "Nama Filter">
+<!ENTITY activeColumn.label "Aktifkan">
+<!ENTITY newButton.label "Baru…">
+<!ENTITY newButton.accesskey "B">
+<!ENTITY editButton.label "Ubah…">
+<!ENTITY editButton.accesskey "U">
+<!ENTITY deleteButton.label "Hapus">
+<!ENTITY deleteButton.accesskey "H">
+<!ENTITY reorderUpButton.label "Naikkan">
+<!ENTITY reorderUpButton.accesskey "N">
+<!ENTITY reorderDownButton.label "Turunkan">
+<!ENTITY reorderDownButton.accesskey "T">
+<!ENTITY filterHeader.label "Filter yang aktif akan dijalankan secara otomatis sesuai urutan di bawah ini.">
+<!ENTITY filtersForPrefix.label "Filter untuk:">
+<!ENTITY filtersForPrefix.accesskey "F">
+<!ENTITY viewLogButton.label "Log Filter">
+<!ENTITY viewLogButton.accesskey "L">
+<!ENTITY runFilters.label "Jalankan Sekarang">
+<!ENTITY runFilters.accesskey "J">
+<!ENTITY stopFilters.label "Hentikan">
+<!ENTITY stopFilters.accesskey "H">
+<!ENTITY folderPickerPrefix.label "Jalankan Filter yang Terpilih pada:">
+<!ENTITY folderPickerPrefix.accesskey "a">
+<!ENTITY choosethis.label "pilih folder ini">
+<!ENTITY choosethisnewsserver.label "pilih server news ini">
+<!ENTITY helpButton.label "Bantuan">
+<!ENTITY helpButton.accesskey "B">
+<!ENTITY closeCmd.key "W">

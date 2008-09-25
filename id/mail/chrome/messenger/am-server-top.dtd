@@ -1,0 +1,77 @@
+<!ENTITY securitySettings.label "Pengaturan Keamanan">
+<!ENTITY serverSettings.label "Pengaturan Server">
+<!ENTITY popServer.label "Server Mail POP">
+<!ENTITY imapServer.label "Server Mail IMAP">
+<!ENTITY newsServer.label "Server News (NNTP)">
+<!ENTITY webmail.label "Akun Webmail">
+<!ENTITY serverType.label "Jenis Server:">
+<!ENTITY serverName.label "Nama Server:">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY userName.label "Nama Pengguna:">
+<!ENTITY userName.accesskey "N">
+<!ENTITY port.label "Port:">
+<!ENTITY port.accesskey "P">
+<!ENTITY serverPortDefault.label "Default:">
+<!ENTITY savePassword.label "Simpan kata sandi">
+<!ENTITY biffStart.label "Periksa pesan baru setiap">
+<!ENTITY biffStart.accesskey "p">
+<!ENTITY biffEnd.label "menit">
+<!ENTITY isSecure.label "Gunakan sambungan aman (SSL)">
+<!ENTITY isSecure.accesskey "k">
+<!ENTITY socketType.label "Gunakan sambungan aman:">
+<!ENTITY neverSecure.label "Tidak pernah">
+<!ENTITY neverSecure.accesskey "T">
+<!ENTITY sometimesSecure.label "TLS, jika tersedia">
+<!ENTITY sometimesSecure.accesskey "a">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSSL.label "SSL">
+<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY useSecAuth.label "Gunakan otentikasi aman">
+<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY leaveOnServer.label "Tinggalkan pesan di server">
+<!ENTITY leaveOnServer.accesskey "g">
+<!ENTITY headersOnly.label "Ambil header saja">
+<!ENTITY headersOnly.accesskey "h">
+<!ENTITY deleteByAgeFromServer.label "Hingga">
+<!ENTITY deleteByAgeFromServer.accesskey "H">
+<!ENTITY daysEnd.label "hari">
+<!ENTITY deleteOnServer2.label "Hingga saya hapus">
+<!ENTITY deleteOnServer2.accesskey "h">
+<!ENTITY downloadOnBiff.label "Otomatis mengunduh pesan baru">
+<!ENTITY downloadOnBiff.accesskey "m">
+<!ENTITY hostname.label "Hostname Server">
+<!ENTITY username.label "Nama Log-Masuk Anda">
+<!ENTITY popServerTitle.label "Informasi Server POP">
+<!ENTITY deleteMessagePrefix.label "Ketika saya menghapus pesan:">
+<!ENTITY modelMoveToTrash.label "Pindahkan ke folder:">
+<!ENTITY modelMoveToTrash.accesskey "o">
+<!ENTITY modelMarkDeleted.label "Hanya tandai dengan status dihapus">
+<!ENTITY modelMarkDeleted.accesskey "h">
+<!ENTITY modelDeleteImmediately.label "Langsung buang">
+<!ENTITY modelDeleteImmediately.accesskey "b">
+<!ENTITY expungeOnExit.label "Bersihkan (&quot;Hilangkan/Expunge&quot;) Kotak Masuk saat Keluar">
+<!ENTITY expungeOnExit.accesskey "B">
+<!ENTITY emptyTrashOnExit.label "Kosongkan Tong Sampah saat Keluar">
+<!ENTITY emptyTrashOnExit.accesskey "k">
+<!ENTITY loginAtStartup.label "Periksa pesan baru saat memulai program">
+<!ENTITY loginAtStartup.accesskey "P">
+<!ENTITY maxMessagesStart.label "Tanyakan sebelum mengunduh pesan lebih dari">
+<!ENTITY maxMessagesStart.accesskey "m">
+<!ENTITY maxMessagesEnd.label "pesan">
+<!ENTITY alwaysAuthenticate.label "Selalu kirimkan permintaan otentikasi ketika tersambung dengan server ini">
+<!ENTITY alwaysAuthenticate.accesskey "S">
+<!ENTITY newsrcFilePath.label "berkas newsrc">
+<!ENTITY localPath.label "Direktori lokal">
+<!ENTITY abbreviate.label "Tampilkan nama newsgroup pada panel Folder Email sebagai:">
+<!ENTITY abbreviateOn.label "Nama lengkap (Contohnya 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "Singkatan (Contohnya, 'n.p.m.mail-news')">
+<!ENTITY advancedButton.label "Khusus…">
+<!ENTITY advancedButton.accesskey "K">
+<!ENTITY serverDefaultCharset.label "Pengodean Karakter Default:">
+<!ENTITY localFolderPicker.label "Pilih Direktori Lokal">
+<!ENTITY browseFolder.label "Telusuri…">
+<!ENTITY browseFolder.accesskey "T">
+<!ENTITY newsrcPicker.label "Pilih Berkas newsrc">
+<!ENTITY browseNewsrc.label "Telusuri…">
+<!ENTITY browseNewsrc.accesskey "t">

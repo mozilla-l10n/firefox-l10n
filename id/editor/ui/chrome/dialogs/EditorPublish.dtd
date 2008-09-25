@@ -1,0 +1,95 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY windowTitle.label "Penerbitan Halaman">
+<!ENTITY windowTitleSettings.label "Pengaturan Penerbitan">
+<!ENTITY publishTab.label "Penerbitan">
+<!ENTITY settingsTab.label "Pengaturan">
+<!ENTITY publishButton.label "Terbitkan">
+<!ENTITY siteList.label "Nama Situs:">
+<!ENTITY siteList.accesskey "n">
+<!ENTITY siteList.tooltip "Pilih situs untuk tempat penerbitan">
+<!ENTITY newSiteButton.label "Situs Baru">
+<!ENTITY newSiteButton.accesskey "B">
+<!ENTITY docDirList.label "Subdirektori pada situs untuk halaman ini:">
+<!ENTITY docDirList.accesskey "S">
+<!ENTITY docDirList.tooltip "Pilih atau masukkan nama subdirektori daring untuk halaman ini">
+<!ENTITY publishImgCheckbox.label "Sertakan gambar dan berkas lainnya">
+<!ENTITY publishImgCheckbox.accesskey "g">
+<!ENTITY publishImgCheckbox.tooltip "Sertakan gambar dan berkas lainnya yang dirujuk halaman ini dalam penerbitan">
+<!ENTITY sameLocationRadio.label "Gunakan lokasi yang sama dengan halaman ini">
+<!ENTITY sameLocationRadio.accesskey "G">
+<!ENTITY sameLocationRadio.tooltip "Terbitkan berkas pada lokasi yang sama dengan halaman">
+<!ENTITY useSubdirRadio.label "Gunakan subdirektori situs berikut:">
+<!ENTITY useSubdirRadio.accesskey "d">
+<!ENTITY useSubdirRadio.tooltip "Terbitkan berkas pada subdirektori daring yang terpilih">
+<!ENTITY otherDirList.tooltip "Pilih atau masukkan nama subdirektori daring tempat berkas akan diterbitkan">
+<!ENTITY pageTitle.label "Judul Halaman:">
+<!ENTITY pageTitle.accesskey "J">
+<!ENTITY pageTitle.tooltip "Masukkan sebuah judul untuk mengidentifikasikan halaman pada jendela dan bookmark">
+<!ENTITY pageTitleExample.label "contoh: &quot;Halaman Webku&quot;">
+<!ENTITY filename.label "Nama berkas:">
+<!ENTITY filename.accesskey "N">
+<!ENTITY filename.tooltip "Masukkan nama untuk berkas ini, termasuk '.html' untuk halaman web">
+<!ENTITY filenameExample.label "contoh,: &quot;halamanwebku.html&quot;">
+<!ENTITY relatedDocs.label "Berkas lain untuk diterbitkan">
+<!ENTITY setDefaultButton.label "Atur sebagai Default">
+<!ENTITY setDefaultButton.accesskey "D">
+<!ENTITY setDefSiteAndDir.label "Atur sebagai Situs dan Direktori Default">
+<!ENTITY removeButton.label "Hapus Situs">
+<!ENTITY removeButton.accesskey "H">
+<!ENTITY publishSites.label "Situs Penerbitan">
+<!ENTITY serverInfo.label "Informasi Server">
+<!ENTITY loginInfo.label "Informasi Log-masuk">
+<!ENTITY siteName.label "Nama Situs:">
+<!ENTITY siteName.accesskey "n">
+<!ENTITY siteName.tooltip "Nama alias (nick) untuk mengenali situs penerbitan ini (contoh: 'Situsku')">
+<!ENTITY siteUrl.label "Alamat penerbitan (contoh: 'ftp://ftp.myisp.com/namapengguna'):">
+<!ENTITY siteUrl.accesskey "a">
+<!ENTITY siteUrl.tooltip "Alamat FTP:// atau HTTP:// yang disediakan oleh ISP atau layanan hosting web anda">
+<!ENTITY browseUrl.label "Alamat HTTP untuk beranda anda (contoh: 'http://http.myisp.com/namapengguna'):">
+<!ENTITY browseUrl.accesskey "T">
+<!ENTITY browseUrl.tooltip "Alamat HTTP:// untuk direktori home anda (jangan sertakan nama berkas)">
+<!ENTITY username.label "Nama pengguna:">
+<!ENTITY username.accesskey "N">
+<!ENTITY username.tooltip "Nama pengguna yang anda gunakan untuk log-masuk ke ISP anda atau layanan hosting web">
+<!ENTITY password.label "Kata Sandi:">
+<!ENTITY password.accesskey "K">
+<!ENTITY password.tooltip "Kata sandi yang bersesuaian dengan nama pengguna anda">
+<!ENTITY savePassword.label "Simpan Kata Sandi">
+<!ENTITY savePassword.accesskey "S">
+<!ENTITY savePassword.tooltip "Aktifkan pilihan ini untuk menyimpan kata sandi anda secara aman dengan Pengelola Kata Sandi">

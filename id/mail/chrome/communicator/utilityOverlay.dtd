@@ -1,0 +1,60 @@
+<!ENTITY fileMenu.label "Berkas">
+<!ENTITY fileMenu.accesskey "B">
+<!ENTITY newMenu.label "Baru">
+<!ENTITY newMenu.accesskey "B">
+<!ENTITY editMenu.label "Ubah">
+<!ENTITY editMenu.accesskey "U">
+<!ENTITY undoCmd.label "Batal">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "B">
+<!ENTITY redoCmd.label "Ulangi">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "U">
+<!ENTITY cutCmd.label "Potong">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "P">
+<!ENTITY copyCmd.label "Salin">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "S">
+<!ENTITY pasteCmd.label "Tempel">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "T">
+<!ENTITY deleteCmd.label "Hapus">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "H">
+<!ENTITY selectAllCmd.label "Pilih Semua">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY preferencesCmd.label "Pengaturan…">
+<!ENTITY preferencesCmd.accesskey "P">
+<!ENTITY preferencesCmdUnix.label "Pengaturan">
+<!ENTITY preferencesCmdUnix.accesskey "P">
+<!ENTITY findTypeTextCmd.label "Cari Saat Mengetik">
+<!ENTITY findTypeTextCmd.accesskey "g">
+<!ENTITY viewMenu.label "Tampilan">
+<!ENTITY viewMenu.accesskey "T">
+<!ENTITY viewToolbarsMenu.label "Toolbar">
+<!ENTITY viewToolbarsMenu.accesskey "T">
+<!ENTITY showTaskbarCmd.label "Bar Status">
+<!ENTITY showTaskbarCmd.accesskey "S">
+<!ENTITY direct.label "Online (proxy: tidak ada)">
+<!ENTITY direct.accesskey "n">
+<!ENTITY manual.label "Online (proxy: manual)">
+<!ENTITY manual.accesskey "m">
+<!ENTITY pac.label "Online (proxy: otomatis)">
+<!ENTITY pac.accesskey "o">
+<!ENTITY proxy.label "Konfigurasi Proxy…">
+<!ENTITY proxy.accesskey "K">
+<!ENTITY findTypeTextCmd.key "/">
+<!ENTITY findTypeLinksCmd.key "'">
+<!ENTITY closeCmd.label "Tutup">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "T">
+<!ENTITY closeWindow.label "Tutup Jendela">
+<!ENTITY quitApplicationCmd.label "Keluar">
+<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY quitApplicationCmd.accesskey "K">
+<!ENTITY quitApplicationCmdUnix.label "Keluar">
+<!ENTITY quitApplicationCmdUnix.accesskey "K">
+<!ENTITY quitApplicationCmdMac.label "Keluar dari &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey "K">

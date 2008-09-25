@@ -1,0 +1,17 @@
+<!ENTITY MsgSynchronize.label "Unduh dan Sinkronkan Pesan">
+<!ENTITY MsgSelect.label "Item untuk Penggunaan Offline">
+<!ENTITY MsgSyncDesc.label "Jika anda telah memilih folder email atau newsgroup untuk penggunaan offline, anda dapat mengunduh dan/atau menyinkronkannya sekarang. Jika tidak, gunakan tombol &quot;Pilih&quot; untuk memilih folder dan newsgroup untuk penggunaan offline.">
+<!ENTITY MsgSyncDirections.label "Unduh dan/atau sinkronkan item berikut:">
+<!ENTITY syncTypeMail.label "Pesan email">
+<!ENTITY syncTypeMail.accesskey "M">
+<!ENTITY syncTypeNews.label "Pesan newsgroup">
+<!ENTITY syncTypeNews.accesskey "N">
+<!ENTITY sendMessage.label "Kirim pesan yang belum terkirim">
+<!ENTITY sendMessage.accesskey "s">
+<!ENTITY workOffline.label "Aktifkan mode offline setelah proses mengunduh dan/atau penyinkronan selesai.">
+<!ENTITY workOffline.accesskey "A">
+<!ENTITY selectButton.label "Pilih…">
+<!ENTITY selectButton.accesskey "P">
+<!ENTITY MsgSelectDesc.label "Pilih folder email dan newsgroup untuk penggunaan offline.">
+<!ENTITY MsgSelectInd.label "Unduh">
+<!ENTITY MsgSelectItems.label "Folder dan Newsgroup">

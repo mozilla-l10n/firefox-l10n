@@ -1,0 +1,70 @@
+<!ENTITY searchHeading.label "Cari pesan dari:">
+<!ENTITY searchHeading.accesskey "p">
+<!ENTITY searchSubfolders.label "Cari subfolder">
+<!ENTITY searchSubfolders.accesskey "e">
+<!ENTITY resetButton.label "Bersihkan">
+<!ENTITY resetButton.accesskey "B">
+<!ENTITY optionsButton.label "Pengaturan">
+<!ENTITY closeButton.label "Tutup">
+<!ENTITY openButton.label "Buka">
+<!ENTITY openButton.accesskey "b">
+<!ENTITY deleteButton.label "Hapus">
+<!ENTITY deleteButton.accesskey "H">
+<!ENTITY searchDialogTitle.label "Cari Pesan">
+<!ENTITY conditionDesc.label "Cari pesan yang cocok dengan:">
+<!ENTITY conditions.label "Kriteria">
+<!ENTITY results.label "Hasil">
+<!ENTITY fileHereMenu.label "Berkas di Sini">
+<!ENTITY fileHereMenu.accesskey "S">
+<!ENTITY fileButton.label "Berkas">
+<!ENTITY fileButton.accesskey "B">
+<!ENTITY closeCmd.key "W">
+<!ENTITY goToFolderButton.label "Buka Folder Pesan">
+<!ENTITY goToFolderButton.accesskey "r">
+<!ENTITY saveAsVFButton.label "Simpan sebagai Folder Pencarian">
+<!ENTITY saveAsVFButton.accesskey "F">
+<!ENTITY abSearchHeading.label "Cari di:">
+<!ENTITY abSearchHeading.accesskey "C">
+<!ENTITY propertiesButton.label "Properti">
+<!ENTITY propertiesButton.accesskey "P">
+<!ENTITY composeButton.label "Tulis">
+<!ENTITY composeButton.accesskey "T">
+<!ENTITY abSearchDialogTitle.label "Pencarian Canggih Daftar Alamat">
+<!ENTITY threadColumn.label "Alur Bahasan">
+<!ENTITY fromColumn.label "Dari">
+<!ENTITY recipientColumn.label "Penerima">
+<!ENTITY subjectColumn.label "Subyek">
+<!ENTITY dateColumn.label "Tanggal">
+<!ENTITY priorityColumn.label "Prioritas">
+<!ENTITY tagsColumn.label "Tag">
+<!ENTITY accountColumn.label "Akun">
+<!ENTITY statusColumn.label "Status">
+<!ENTITY sizeColumn.label "Besar">
+<!ENTITY junkStatusColumn.label "Status Junk">
+<!ENTITY linesColumn.label "Baris">
+<!ENTITY unreadColumn.label "Belum dibaca">
+<!ENTITY totalColumn.label "Total">
+<!ENTITY readColumn.label "Baca">
+<!ENTITY receivedColumn.label "Diterima">
+<!ENTITY starredColumn.label "Berbintang">
+<!ENTITY locationColumn.label "Lokasi">
+<!ENTITY idColumn.label "Urut berdasar Diterima">
+<!ENTITY columnChooser.tooltip "Klik untuk memilih kolom yang ingin ditampilkan">
+<!ENTITY threadColumn.tooltip "Klik untuk menampilkan alur bahasan pesan">
+<!ENTITY fromColumn.tooltip "Klik untuk mengurut berdasar nama pengirim">
+<!ENTITY recipientColumn.tooltip "Klik untuk mengurut berdasar nama penerima">
+<!ENTITY subjectColumn.tooltip "Klik untuk mengurut berdasar subyek">
+<!ENTITY dateColumn.tooltip "Klik untuk mengurut berdasar tanggal">
+<!ENTITY priorityColumn.tooltip "Klik untuk mengurut berdasar prioritas">
+<!ENTITY tagsColumn.tooltip "Klik untuk mengurut berdasar tag">
+<!ENTITY accountColumn.tooltip "Klik untuk mengurut berdasar nama akun">
+<!ENTITY statusColumn.tooltip "Klik untuk mengurut berdasarkan status">
+<!ENTITY sizeColumn.tooltip "Klik untuk mengurut berdasar besar pesan">
+<!ENTITY junkStatusColumn.tooltip "Klik untuk mengurut berdasar status junk">
+<!ENTITY unreadColumn.tooltip "Jumlah pesan yang belum dibaca dalam alur bahasan">
+<!ENTITY totalColumn.tooltip "Jumlah pesan dalam alur bahasan">
+<!ENTITY readColumn.tooltip "Klik untuk mengurut berdasar pembacaan">
+<!ENTITY receivedColumn.tooltip "Klik untuk mengurut berdasar tanggal diterima">
+<!ENTITY starredColumn.tooltip "Klik untuk mengurut berdasarkan bintang">
+<!ENTITY locationColumn.tooltip "Klik untuk mengurut berdasar lokasi">
+<!ENTITY idColumn.tooltip "Klik untuk mengurut berdasarkan penerimaan">

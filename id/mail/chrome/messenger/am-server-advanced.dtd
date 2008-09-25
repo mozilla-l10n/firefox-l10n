@@ -1,0 +1,31 @@
+<!ENTITY serverAdvanced.label "Pengaturan Akun Canggih">
+<!ENTITY imapAdvanced.label "Pengaturan Server IMAP Canggih">
+<!ENTITY serverDirectory.label "Direktori server IMAP:">
+<!ENTITY serverDirectory.accesskey "d">
+<!ENTITY usingSubscription.label "Hanya tampilkan folder yang dilanggan">
+<!ENTITY usingSubscription.accesskey "l">
+<!ENTITY dualUseFolders.label "Server mendukung folder yang berisi subfolder dan pesan">
+<!ENTITY dualUseFolders.accesskey "f">
+<!ENTITY useIdle.label "Gunakan perintah IDLE jika server mendukung fitur ini">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "Jumlah sambungan maksimum ke server yang di-cache">
+<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!ENTITY namespaceDesc.label "Pengaturan ini menentukan namespace pada server IMAP anda">
+<!ENTITY personalNamespace.label "Namespace personal:">
+<!ENTITY personalNamespace.accesskey "P">
+<!ENTITY publicNamespace.label "Publik (berbagi-pakai):">
+<!ENTITY publicNamespace.accesskey "b">
+<!ENTITY otherUsersNamespace.label "Pengguna Lain:">
+<!ENTITY otherUsersNamespace.accesskey "L">
+<!ENTITY overrideNamespaces.label "Izinkan server untuk mengganti namespace ini">
+<!ENTITY overrideNamespaces.accesskey "I">
+<!ENTITY pop3Desc.label "Ketika mengunduh email pop dari server ini, gunakan folder berikut untuk email baru:">
+<!ENTITY folderStorage.label "Tempat menyimpan email">
+<!ENTITY globalInbox.label "Kotak Masuk Global (Akun Lokal Folder)">
+<!ENTITY globalInbox.accesskey "G">
+<!ENTITY accountDirectory.label "Kotak masuk untuk akun server ini">
+<!ENTITY accountDirectory.accesskey "S">
+<!ENTITY deferToServer.label "Kotak masuk untuk akun yang lain">
+<!ENTITY deferToServer.accesskey "l">
+<!ENTITY deferGetNewMail.label "Sertakan server ini saat mengunduh email baru">
+<!ENTITY deferGetNewMail.accesskey "S">

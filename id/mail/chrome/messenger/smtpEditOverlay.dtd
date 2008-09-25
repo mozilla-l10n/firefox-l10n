@@ -1,0 +1,25 @@
+<!ENTITY settings.caption "Pengaturan">
+<!ENTITY security.caption "Keamanan dan Otentikasi">
+<!ENTITY serverName.label "Nama Server:">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY serverDescription.label "Keterangan:">
+<!ENTITY serverDescription.accesskey "K">
+<!ENTITY serverPort.label "Port:">
+<!ENTITY serverPort.accesskey "P">
+<!ENTITY alwaysUseUsername.label "Gunakan nama pengguna dan kata sandi">
+<!ENTITY alwaysUseUsername.accesskey "n">
+<!ENTITY userName.label "Nama Pengguna:">
+<!ENTITY userName.accesskey "N">
+<!ENTITY useSecAuth.label "Gunakan otentikasi aman">
+<!ENTITY useSecAuth.accesskey "a">
+<!ENTITY isSecure.label "Gunakan sambungan aman:">
+<!ENTITY neverSecure.label "Tidak">
+<!ENTITY neverSecure.accesskey "T">
+<!ENTITY sometimesSTARTTLS.label "STARTTLS, jika tersedia">
+<!ENTITY sometimesSTARTTLS.accesskey "a">
+<!ENTITY alwaysSTARTTLS.label "STARTTLS">
+<!ENTITY alwaysSTARTTLS.accesskey "T">
+<!ENTITY alwaysSMTPOverSSL.label "SMTP-over-SSL">
+<!ENTITY alwaysSMTPOverSSL.accesskey "L">
+<!ENTITY smtpEditTitle.label "Server SMTP">
+<!ENTITY serverPortDefault.label "Default:">

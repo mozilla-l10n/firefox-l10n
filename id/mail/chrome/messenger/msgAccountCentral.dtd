@@ -1,0 +1,16 @@
+<!ENTITY emailSectionHdr.label "Email">
+<!ENTITY readMsgsLink.label "Pesan Terbaca">
+<!ENTITY composeMsgLink.label "Tulis pesan baru">
+<!ENTITY newsSectionHdr.label "Newsgroup">
+<!ENTITY subscribeNewsLink.label "Kelola langganan newsgroup">
+<!ENTITY accountsSectionHdr.label "Akun">
+<!ENTITY subscribeImapFolders.label "Kelola langganan folder">
+<!ENTITY settingsLink.label "Tampilkan pengaturan akun ini">
+<!ENTITY newAcctLink.label "Buat akun baru">
+<!ENTITY advFeaturesSectionHdr.label "Fitur Canggih">
+<!ENTITY searchMsgsLink.label "Cari pesan">
+<!ENTITY filtersLink.label "Kelola penyaring pesan">
+<!ENTITY junkSettings.label "Pengaturan email junk">
+<!ENTITY offlineLink.label "Pengaturan offline">
+<!ENTITY rssSectionHdr.label "Berita &amp; Blog RSS">
+<!ENTITY subscibeRSS.label "Kelola langganan">

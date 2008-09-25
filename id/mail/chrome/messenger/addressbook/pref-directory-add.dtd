@@ -1,0 +1,35 @@
+<!--null-->
+<!ENTITY newDirectoryTitle.label "Properti Server Direktori">
+<!ENTITY directoryName.label "Nama:">
+<!ENTITY directoryName.accesskey "N">
+<!ENTITY directoryHostname.label "Nama host:">
+<!ENTITY directoryHostname.accesskey "h">
+<!ENTITY directoryBaseDN.label "Base DN: ">
+<!ENTITY directoryBaseDN.accesskey "b">
+<!ENTITY findButton.label "Cari">
+<!ENTITY findButton.accesskey "C">
+<!ENTITY directorySecure.label "Gunakan sambungan aman (SSL)">
+<!ENTITY directorySecure.accesskey "S">
+<!ENTITY directoryLogin.label "Bind DN: ">
+<!ENTITY directoryLogin.accesskey "i">
+<!ENTITY advancedOptionsButton.label "Pengaturan Canggih">
+<!ENTITY advancedOptionsButton.accesskey "a">
+<!ENTITY General.tab "Umum">
+<!ENTITY Offline.tab "Offline">
+<!ENTITY Advanced.tab "Canggih">
+<!ENTITY advancedOptionsTitle.label "Pengaturan Canggih">
+<!ENTITY portNumber.label "Nomor port:">
+<!ENTITY portNumber.accesskey "P">
+<!ENTITY searchFilter.label "Filter pencarian:">
+<!ENTITY searchFilter.accesskey "f">
+<!ENTITY scope.label "Lingkup:">
+<!ENTITY scope.accesskey "l">
+<!ENTITY scopeOneLevel.label "Satu Tingkat">
+<!ENTITY scopeOneLevel.accesskey "t">
+<!ENTITY scopeSubtree.label "Cabang">
+<!ENTITY scopeSubtree.accesskey "c">
+<!ENTITY return.label "Jangan kembalikan hasil lebih dari">
+<!ENTITY return.accesskey "J">
+<!ENTITY results.label "item">
+<!ENTITY offlineText.label "Anda dapat mengunduh salinan lokal direktori ini sehingga tersedia untuk digunakan saat dalam mode offline.">
+<!ENTITY newDirectoryWidth "36em">

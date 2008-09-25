@@ -1,0 +1,69 @@
+<!ENTITY itemGeneral.label "Utama">
+<!ENTITY itemUpdate.label "Pemutakhiran">
+<!ENTITY itemNetworking.label "Jaringan &amp; Ruang Disk">
+<!ENTITY itemCertificates.label "Sertifikat">
+<!ENTITY showCondensedAddresses.label "Hanya tampilkan nama tampilan untuk orang yang ada pada buku alamat saya.">
+<!ENTITY showCondensedAddresses.accesskey "p">
+<!ENTITY autoMarkAsRead.label "Otomatis tandai pesan saya sudah dibaca">
+<!ENTITY autoMarkAsRead.accesskey "A">
+<!ENTITY markAsReadNoDelay.label "Langsung saat ditampilkan">
+<!ENTITY markAsReadNoDelay.accesskey "d">
+<!ENTITY markAsReadDelay.label "Setelah ditampilkan ">
+<!ENTITY markAsReadDelay.accesskey "e">
+<!ENTITY secondsLabel.label "detik">
+<!ENTITY showFolderColumns.label "Tampilkan kolom yang diekspansi pada panel folder">
+<!ENTITY showFolderColumns.accesskey "l">
+<!ENTITY rememberLastMsg.label "Ingat pesan terakhir yang terpilih">
+<!ENTITY rememberLastMsg.accesskey "t">
+<!ENTITY openMsgIn.label "Buka pesan di:">
+<!ENTITY reuseExpRadio0.label "Jendela pesan baru">
+<!ENTITY reuseExpRadio0.accesskey "J">
+<!ENTITY reuseExpRadio1.label "Jendela pesan yang sudah tampil">
+<!ENTITY reuseExpRadio1.accesskey "a">
+<!ENTITY reuseExpRadio2.label "Tab pesan baru">
+<!ENTITY reuseExpRadio2.accesskey "T">
+<!ENTITY connectionTimeout.label "Sambungan kehabisan waktu:">
+<!ENTITY connectionTimeout.accesskey "K">
+<!ENTITY connectionSeconds.label "detik">
+<!ENTITY configEditDesc.label "Konfigurasi Canggih">
+<!ENTITY configEdit.label "Penyunting Konfigurasi…">
+<!ENTITY configEdit.accesskey "g">
+<!ENTITY returnReceiptsInfo.label "Mengatur penanganan tanda konfirmasi diterima (return receipt) oleh &brandShortName;">
+<!ENTITY showReturnReceipts.label "Tanda Konfirmasi Diterima…">
+<!ENTITY showReturnReceipts.accesskey "R">
+<!ENTITY autoCheck.label "Otomatis cek versi baru untuk:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "T">
+<!ENTITY enableAddonsUpdate.label "Pengaya Terpasang">
+<!ENTITY enableAddonsUpdate.accesskey "g">
+<!ENTITY checkNow.label "Periksa Sekarang…">
+<!ENTITY whenUpdatesFound.label "Bila versi baru &brandShortName; ditemukan:">
+<!ENTITY modeAskMe.label "Tanya saya">
+<!ENTITY modeAskMe.accesskey "s">
+<!ENTITY modeAutomatic.label "Otomatis diunduh dan dipasang">
+<!ENTITY modeAutomatic.accesskey "p">
+<!ENTITY modeAutoAddonWarn.label "Peringatkan jika Pengaya terpasang akan dimatikan">
+<!ENTITY modeAutoAddonWarn.accesskey "t">
+<!ENTITY showUpdates.label "Tampilkan Riwayat Versi Baru…">
+<!ENTITY showUpdates.accesskey "y">
+<!ENTITY showConnections.label "Sambungan…">
+<!ENTITY showConnections.accesskey "n">
+<!ENTITY proxiesInfo.label "Mengatur bagaimana &brandShortName; tersambung ke Internet">
+<!ENTITY connectionsInfo.caption "Sambungan">
+<!ENTITY offlineInfo.caption "Offline">
+<!ENTITY offlineInfo.label "Atur pengaturan offline">
+<!ENTITY showOffline.label "Offline…">
+<!ENTITY showOffline.accesskey "O">
+<!ENTITY Diskspace "Ruang Disk">
+<!ENTITY offlineCompact.label "Padatkan folder jika menghemat lebih dari">
+<!ENTITY offlineCompact.accesskey "P">
+<!ENTITY kb.label "KB">
+<!ENTITY certificatesInfo2.label "Kelola sertifikat, daftar pencabutan, daftar validasi, dan perangkat keamanan.">
+<!ENTITY viewCertificates.label "Tampilkan Sertifikat">
+<!ENTITY viewCertificates.accesskey "a">
+<!ENTITY viewCRLs.label "Daftar Pencabutan">
+<!ENTITY viewCRLs.accesskey "c">
+<!ENTITY validation.label "Validasi">
+<!ENTITY validation.accesskey "d">
+<!ENTITY viewSecurityDevices.label "Perangkat Keamanan">
+<!ENTITY viewSecurityDevices.accesskey "k">

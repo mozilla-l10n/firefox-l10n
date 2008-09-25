@@ -1,0 +1,26 @@
+<!--null-->
+<!ENTITY importDialog.windowTitle "Impor">
+<!ENTITY importDialog.allTitle "Impor semuanya">
+<!ENTITY importDialog.mailTitle "Email">
+<!ENTITY importDialog.addressbookTitle "Buku Alamat">
+<!ENTITY importDialog.settingsTitle "Pengaturan">
+<!ENTITY importDialog.filtersTitle "Filter">
+<!ENTITY window.width "40em">
+<!ENTITY window.macWidth "45em">
+<!ENTITY importTitle.label "Wizard Impor &brandShortName;">
+<!ENTITY importShortDesc.label "Impor Email, Buku Alamat, Pengaturan, dan Filter dari program lainnya">
+<!ENTITY importDescription1.label "Wizard berikut akan mengimpor pesan email, item buku alamat, pengaturan, dan/atau filter dari program pembaca email lainnya dan buku alamat dalam format yang umum ke &brandShortName;.">
+<!ENTITY importDescription2.label "Setelah selesai diimpor, anda akan dapat mengakses informasi tersebut dari &brandShortName;.">
+<!ENTITY selectDescription.label "Pilih jenis berkas yang ingin diimpor:">
+<!ENTITY back.label "&lt; Mundur">
+<!ENTITY forward.label "Maju &gt;">
+<!ENTITY finish.label "Selesai">
+<!ENTITY cancel.label "Batal">
+<!ENTITY select.label "atau pilih yang ingin diimpor:">
+<!ENTITY title.label "Judul">
+<!ENTITY processing.label "Mengimpor…">
+<!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x menggunakan satu alamat untuk setiap kartu nama sedangkan &brandShortName; menggunakan dua alamat untuk setiap kartu nama (Rumah dan Kantor).">
+<!ENTITY FieldDiscInputText2.label "Pilih kategori tempat menyimpan alamat email hasil proses impor:">
+<!ENTITY FieldDiscWarning.label "Kategori ini akan digunakan oleh item yang ada pada buku alamat terpilih:">
+<!ENTITY importDialog.homeTitle "Rumah">
+<!ENTITY importDialog.workTitle "Kantor">

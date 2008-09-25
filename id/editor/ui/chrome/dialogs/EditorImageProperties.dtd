@@ -1,0 +1,97 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY windowTitle.label "Properti Gambar">
+<!ENTITY pixelsPopup.value "piksel">
+<!ENTITY percentPopup.value "persen">
+<!ENTITY locationEditField.label "Lokasi Gambar:">
+<!ENTITY locationEditField.accessKey "L">
+<!ENTITY locationEditField.tooltip "Masukkan nama berkas atau lokasi gambar">
+<!ENTITY title.label "Tooltip:">
+<!ENTITY title.accessKey "T">
+<!ENTITY title.tooltip "Atribut 'title' pada HTML untuk ditampilkan sebagai tooltip">
+<!ENTITY altText.label "Teks alternatif:">
+<!ENTITY altText.accessKey "a">
+<!ENTITY altTextEditField.tooltip "Teks yang ditampilkan sebagai ganti tampilan gambar">
+<!ENTITY noAltText.label "Jangan gunakan teks alternatif">
+<!ENTITY noAltText.accessKey "J">
+<!ENTITY previewBox.label "Pratinjau Gambar">
+<!ENTITY MoreFewerButton.tooltip "Tampilkan properti lebih banyak atau lebih sedikit untuk diubah">
+<!ENTITY actualSize.label "Ukuran Asli:">
+<!ENTITY actualSizeRadio.label "Ukuran Asli">
+<!ENTITY actualSizeRadio.accessKey "A">
+<!ENTITY actualSizeRadio.tooltip "Kembalikan ukuran menjadi ukuran gambar asli">
+<!ENTITY customSizeRadio.label "Ukuran Suka-suka">
+<!ENTITY customSizeRadio.accessKey "S">
+<!ENTITY customSizeRadio.tooltip "Ubah ukuran gambar untuk ditampilkan dalam halaman">
+<!ENTITY heightEditField.label "Tinggi:">
+<!ENTITY heightEditField.accessKey "T">
+<!ENTITY widthEditField.label "Lebar:">
+<!ENTITY widthEditField.accessKey "L">
+<!ENTITY constrainCheckbox.label "Kendala">
+<!ENTITY constrainCheckbox.accessKey "K">
+<!ENTITY constrainCheckbox.tooltip "Selalu jaga perbandingan lebar/tinggi">
+<!ENTITY imagemapBox.label "Map Gambar">
+<!ENTITY removeImageMapButton.label "Hapus">
+<!ENTITY removeImageMapButton.accessKey "H">
+<!ENTITY editImageMapButton.label "Ubah…">
+<!ENTITY editImageMapButton.tooltip "Buat hotspot yang dapat diklik untuk gambar ini">
+<!ENTITY alignment.label "Ratakan Teks ke Gambar">
+<!ENTITY bottomPopup.value "Di bawah gambar">
+<!ENTITY topPopup.value "Di atas gambar">
+<!ENTITY centerPopup.value "Di tengah">
+<!ENTITY wrapRightPopup.value "Potong di kanan">
+<!ENTITY wrapLeftPopup.value "Potong di kiri">
+<!ENTITY spacingBox.label "Spasi">
+<!ENTITY spacingBox.tooltip "Masukkan jumlah spasi untuk jarak di sekeliling gambar">
+<!ENTITY leftRightEditField.label "Kiri dan Kanan:">
+<!ENTITY leftRightEditField.accessKey "K">
+<!ENTITY topBottomEditField.label "Atas dan Bawah:">
+<!ENTITY topBottomEditField.accessKey "A">
+<!ENTITY borderEditField.label "Pita Tepian Padat:">
+<!ENTITY borderEditField.accessKey "t">
+<!ENTITY showImageLinkBorder.label "Tampilkan pita tepian di sekeliling gambar dengan tautan">
+<!ENTITY showImageLinkBorder.accessKey "B">
+<!ENTITY makePageBackgroundCheckbox.label "Atur Menjadi Latar Belakang Halaman">
+<!ENTITY makePageBackgroundCheckbox.tooltip "Gunakan gambar sebagai latar belakang halaman">
+<!ENTITY editImageButton.label "Sunting Gambar">
+<!ENTITY editImageButton.tooltip "Sunting berkas gambar pada program lainnya">
+<!ENTITY imageInputTab.label "Form">
+<!ENTITY imageLocationTab.label "Lokasi">
+<!ENTITY imageDimensionsTab.label "Dimensi">
+<!ENTITY imageAppearanceTab.label "Tampilan">
+<!ENTITY imageLinkTab.label "Tautan">

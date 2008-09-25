@@ -1,0 +1,7 @@
+<!ENTITY window.title "Sesuaikan Header">
+<!ENTITY addButton.label "Tambah">
+<!ENTITY addButton.accesskey "T">
+<!ENTITY removeButton.label "Hapus">
+<!ENTITY removeButton.accesskey "H">
+<!ENTITY newMsgHeader.label "Header pesan baru:">
+<!ENTITY newMsgHeader.accesskey "B">

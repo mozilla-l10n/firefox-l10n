@@ -1,0 +1,33 @@
+<!ENTITY systemDefaults.label "Nilai Default Sistem">
+<!ENTITY alwaysCheckDefault.label "Selalu periksa apakah &brandShortName; adalah pembaca email default saat memulai">
+<!ENTITY alwaysCheckDefault.accesskey "l">
+<!ENTITY alwaysCheckDefault.height "3em">
+<!ENTITY checkNow.label "Periksa Sekarang">
+<!ENTITY checkNow.accesskey "N">
+<!ENTITY messengerStartPage.label "Halaman Awal &brandShortName;">
+<!ENTITY enableStartPage.label "Saat &brandShortName; dimulai tampilkan Halaman Awal pada panel pesan">
+<!ENTITY enableStartPage.accesskey "W">
+<!ENTITY location.label "Lokasi:">
+<!ENTITY location1.accesskey "o">
+<!ENTITY useDefault.label "Kembalikan Nilai Default">
+<!ENTITY useDefault.accesskey "K">
+<!ENTITY bounceSystemDockIcon.label "Tampilkan animasi ikon dock">
+<!ENTITY bounceSystemDockIcon.accesskey "i">
+<!ENTITY newMessagesArrive.label "Saat pesan baru datang:">
+<!ENTITY playSound.label "Mainkan suara">
+<!ENTITY playSound1.accesskey "S">
+<!ENTITY showAnimatedAlert.label "Tampilkan peringatan">
+<!ENTITY showAnimatedAlert.accesskey "g">
+<!ENTITY customizeMailAlert.label "Pengaturan…">
+<!ENTITY customizeMailAlert.accesskey "P">
+<!ENTITY soundNotification1.caption "Suara">
+<!ENTITY play.label "Mainkan">
+<!ENTITY play.accesskey "M">
+<!ENTITY systemsound.label "Suara default dari sistem untuk email baru">
+<!ENTITY systemsoundMac.label "Suara Peringatan dari Sistem">
+<!ENTITY systemsoundMac.accesskey "S">
+<!ENTITY systemsound.accesskey "b">
+<!ENTITY customsound.label "Gunakan berkas suara berikut">
+<!ENTITY customsound.accesskey "U">
+<!ENTITY browse.label "Telusuri…">
+<!ENTITY browse.accesskey "T">

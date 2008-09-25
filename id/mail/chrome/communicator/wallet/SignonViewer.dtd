@@ -1,0 +1,15 @@
+<!ENTITY windowtitle.label "Pengelola Kata Sandi">
+<!ENTITY windowalttitle.label "Pengelola Form: Situs">
+<!ENTITY tab.signonsstored.label "Kata Sandi Disimpan">
+<!ENTITY tab.signonsnotstored.label "Kata Sandi Tidak Disimpan">
+<!ENTITY tab.nopreview.label "Form Tidak Dipratinjau">
+<!ENTITY tab.nocapture.label "Form Tidak Disimpan">
+<!ENTITY spiel.signonsstored.label "Pengelola Kata Sandi telah menyimpan informasi log-masuk untuk situs berikut:">
+<!ENTITY spiel.signonsnotstored.label "Pengelola Kata Sandi tidak akan menyimpan informasi log-masuk untuk situs berikut:">
+<!ENTITY spiel.nopreview.label "Pengelola Form tidak akan membuat pratinjau form dari situs berikut sebelum mengisinya secara otomatis untuk anda:">
+<!ENTITY spiel.nocapture.label "Pengelola Form tidak akan bertanya lagi untuk menyimpan form pada situs berikut:">
+<!ENTITY treehead.site.label "Situs">
+<!ENTITY treehead.username.label "Nama Pengguna">
+<!ENTITY treehead.password.label "Kata Sandi">
+<!ENTITY remove.label "Hapus">
+<!ENTITY removeall.label "Hapus Semua">

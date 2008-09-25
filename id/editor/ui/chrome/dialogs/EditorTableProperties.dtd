@@ -1,0 +1,112 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY tableWindow.title "Properti Tabel">
+<!ENTITY applyButton.label "Terapkan">
+<!ENTITY applyButton.accesskey "T">
+<!ENTITY closeButton.label "Tutup">
+<!ENTITY tableTab.label "Tabel">
+<!ENTITY cellTab.label "Sel">
+<!ENTITY tableRows.label "Baris:">
+<!ENTITY tableRows.accessKey "B">
+<!ENTITY tableColumns.label "Kolom:">
+<!ENTITY tableColumns.accessKey "K">
+<!ENTITY tableHeight.label "Tinggi:">
+<!ENTITY tableHeight.accessKey "T">
+<!ENTITY tableWidth.label "Lebar:">
+<!ENTITY tableWidth.accessKey "L">
+<!ENTITY tableBorderSpacing.label "Pita Tepian dan Lebar Spasi">
+<!ENTITY tableBorderWidth.label "Pita tepian:">
+<!ENTITY tableBorderWidth.accessKey "t">
+<!ENTITY tableSpacing.label "Lebar spasi:">
+<!ENTITY tableSpacing.accessKey "L">
+<!ENTITY tablePadding.label "Padding:">
+<!ENTITY tablePadding.accessKey "P">
+<!ENTITY tablePxBetwCells.label "piksel antar sel">
+<!ENTITY tablePxBetwBrdrCellContent.label "piksel antara pita tepian sel dan isi">
+<!ENTITY tableAlignment.label "Rata Tabel:">
+<!ENTITY tableAlignment.accessKey "R">
+<!ENTITY tableCaption.label "Judul:">
+<!ENTITY tableCaption.accessKey "J">
+<!ENTITY tableCaptionAbove.label "Di atas Tabel">
+<!ENTITY tableCaptionBelow.label "Di bawah Tabel">
+<!ENTITY tableCaptionLeft.label "Di kiri Tabel">
+<!ENTITY tableCaptionRight.label "Di kanan Tabel">
+<!ENTITY tableCaptionNone.label "Tidak ada">
+<!ENTITY tableInheritColor.label "(Warna latar halaman tembus pandang)">
+<!ENTITY cellPercent.label "persen lebar tabel">
+<!ENTITY cellSelection.label "Pilihan">
+<!ENTITY cellSelectCell.label "Sel">
+<!ENTITY cellSelectRow.label "Baris">
+<!ENTITY cellSelectColumn.label "Kolom">
+<!ENTITY cellSelectNext.label "Lanjut">
+<!ENTITY cellSelectNext.accessKey "L">
+<!ENTITY cellSelectPrevious.label "Sebelumnya">
+<!ENTITY cellSelectPrevious.accessKey "n">
+<!ENTITY cellApplyBeforeMove.label "Terapkan perubahan sebelum mengubah pilihan">
+<!ENTITY cellKeepCurrentData.label "Gunakan pengaturan sekarang">
+<!ENTITY applyBeforeChange1.label "Perubahan yang ada akan diterapkan">
+<!ENTITY applyBeforeChange2.label "sebelum mengubah pilihan.">
+<!ENTITY cellRowSpan.label "Gabungan Baris:">
+<!ENTITY cellColSpan.label "Gabungan Kolom:">
+<!ENTITY cellContentAlignment.label "Rata Isi">
+<!ENTITY cellHorizontal.label "Mendatar:">
+<!ENTITY cellHorizontal.accessKey "M">
+<!ENTITY cellVertical.label "Tegak:">
+<!ENTITY cellVertical.accessKey "T">
+<!ENTITY cellStyle.label "Gaya Sel:">
+<!ENTITY cellStyle.accessKey "G">
+<!ENTITY cellNormal.label "Normal">
+<!ENTITY cellHeader.label "Judul">
+<!ENTITY cellTextWrap.label "Pemotongan Teks:">
+<!ENTITY cellTextWrap.accessKey "T">
+<!ENTITY cellWrap.label "Potong">
+<!ENTITY cellNoWrap.label "Jangan dipotong">
+<!ENTITY cellAlignTop.label "Di atas">
+<!ENTITY cellAlignMiddle.label "Di tengah">
+<!ENTITY cellAlignBottom.label "Di dasar">
+<!ENTITY cellAlignJustify.label "Kiri-Kanan">
+<!ENTITY cellAlignAtChar.label "Pada Karakter:">
+<!ENTITY cellInheritColor.label "(Warna latar tabel tembus pandang)">
+<!ENTITY cellUseCheckboxHelp.label "Gunakan kotak centang untuk menentukan properti mana yang akan diterapkan pada sel yang terpilih">
+<!ENTITY size.label "Ukuran">
+<!ENTITY pixels.label "piksel">
+<!ENTITY backgroundColor.label "Warna Latar Belakang:">
+<!ENTITY backgroundColor.accessKey "W">
+<!ENTITY AlignLeft.label "Kiri">
+<!ENTITY AlignCenter.label "Tengah">
+<!ENTITY AlignRight.label "Kanan">

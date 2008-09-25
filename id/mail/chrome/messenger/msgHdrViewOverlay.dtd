@@ -1,0 +1,49 @@
+<!--null-->
+<!ENTITY toField2.label "kepada">
+<!ENTITY fromField2.label "dari">
+<!ENTITY senderField2.label "pengirim">
+<!ENTITY organizationField2.label "organisasi">
+<!ENTITY replyToField2.label "balas-ke">
+<!ENTITY subjectField2.label "judul-subyek">
+<!ENTITY ccField2.label "cc ">
+<!ENTITY bccField2.label "bcc">
+<!ENTITY newsgroupsField2.label "newsgroup">
+<!ENTITY followupToField2.label "tindak-lanjut">
+<!ENTITY tagsHdr2.label "tag">
+<!ENTITY dateField2.label "tanggal">
+<!ENTITY userAgentField2.label "agen-pengguna">
+<!ENTITY referencesField2.label "referensi">
+<!ENTITY messageIdField2.label "id-pesan">
+<!ENTITY inReplyToField2.label "sebagai-balasan-kepada">
+<!ENTITY originalWebsite2.label "situs-web">
+<!ENTITY saveAll.label "Simpan Semua…">
+<!ENTITY editMessageDescription.label "Pesan ini masih konsep">
+<!ENTITY editMessageButton.label "Sunting…">
+<!ENTITY replyButton.label "balas…">
+<!ENTITY forwardButton.label "teruskan…">
+<!ENTITY junkButton.label "tandai sebagai junk">
+<!ENTITY trashButton.tooltiptext "hapus">
+<!ENTITY otherActionsButton.label "aksi lainnya">
+<!ENTITY saveAsMenuItem.label "simpan sebagai…">
+<!ENTITY saveAsMenuItem.accesskey "S">
+<!ENTITY viewSourceMenuItem.label "tampilkan kode sumber…">
+<!ENTITY viewSourceMenuItem.accesskey "s">
+<!ENTITY hideDetailsButton.label "sembunyikan detil">
+<!ENTITY showDetailsButton.label "show details">
+<!ENTITY openAttachmentCmd.label "Buka">
+<!ENTITY openAttachmentCmd.accesskey "B">
+<!ENTITY saveAsAttachmentCmd.label "Simpan dengan Nama…">
+<!ENTITY saveAsAttachmentCmd.accesskey "A">
+<!ENTITY detachAttachmentCmd.label "Pisahkan…">
+<!ENTITY deleteAttachmentCmd.label "Hapus">
+<!ENTITY saveAllAttachmentsCmd.label "Simpan Semua…">
+<!ENTITY saveAllAttachmentsCmd.accesskey "S">
+<!ENTITY detachAllAttachmentsCmd.label "Pisahkan Semua…">
+<!ENTITY detachAllAttachmentsCmd.accesskey "s">
+<!ENTITY deleteAllAttachmentsCmd.label "Hapus Semua…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "E">
+<!ENTITY copyLinkCmd.label "Salin Lokasi Tautan">
+<!ENTITY copyLinkCmd.accesskey "S">
+<!ENTITY CopyMessageId.label "Salin ID-Pesan">
+<!ENTITY OpenMessageForMsgId.label "Buka Pesan dengan ID">
+<!ENTITY OpenBrowserWithMsgId.label "Buka Browser dengan ID-Pesan">

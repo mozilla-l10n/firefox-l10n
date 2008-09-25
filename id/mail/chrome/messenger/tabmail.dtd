@@ -1,0 +1,12 @@
+<!ENTITY untitledTab "(tak berjudul)">
+<!ENTITY newTab.label "Tab baru">
+<!ENTITY newTab.accesskey "b">
+<!ENTITY closeTab.label "Tutup tab">
+<!ENTITY closeTab.accesskey "u">
+<!ENTITY closeOtherTabs.accesskey "L">
+<!ENTITY closeOtherTabs.label "Tutup Tab Lainnya">
+<!ENTITY reloadAllTabs.label "Muat Ulang Semua Tab">
+<!ENTITY reloadAllTabs.accesskey "A">
+<!ENTITY reloadTab.label "Muat Ulang Tab">
+<!ENTITY reloadTab.accesskey "u">
+<!ENTITY listAllTabs.label "Daftar semua tab">

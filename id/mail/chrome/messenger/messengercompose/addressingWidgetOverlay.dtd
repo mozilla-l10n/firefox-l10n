@@ -1,0 +1,6 @@
+<!ENTITY toAddr.label "Kepada:">
+<!ENTITY ccAddr.label "Cc:">
+<!ENTITY bccAddr.label "Bcc:">
+<!ENTITY replyAddr.label "Balas ke:">
+<!ENTITY newsgroupsAddr.label "Newsgroup:">
+<!ENTITY followupAddr.label "Lanjutan Ke:">

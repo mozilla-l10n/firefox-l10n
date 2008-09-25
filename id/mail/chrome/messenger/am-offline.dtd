@@ -1,0 +1,31 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Untuk menghemat ruang disk, jangan unduh:">
+<!ENTITY doNotDownload.label "Untuk menghemat ruang disk, jangan unduh pesan untuk penggunaan offline:">
+<!ENTITY allFoldersOffline.label "Tinggalkan pesan untuk akun ini pada komputer ini">
+<!ENTITY allFoldersOffline.accesskey "o">
+<!ENTITY offlineNotDownload.label "Pesan lebih besar dari">
+<!ENTITY offlineNotDownload.accesskey "P">
+<!ENTITY kb.label "KB">
+<!ENTITY days.label "hari">
+<!ENTITY daysOld.label "hari">
+<!ENTITY message.label "pesan">
+<!ENTITY nntpNotDownloadRead.label "Membaca pesan">
+<!ENTITY nntpNotDownloadRead.accesskey "M">
+<!ENTITY nntpDownloadMsg.label "Pesan lebih dari">
+<!ENTITY nntpDownloadMsg.accesskey "e">
+<!ENTITY retentionCleanup.label "Untuk mengembalikan ruang disk, pesan yang sudah lama dapat dihapus secara permanen">
+<!ENTITY retentionKeepMsg.label "Hapus pesan yang lebih dari">
+<!ENTITY retentionKeepMsg.accesskey "l">
+<!ENTITY retentionKeepAll.label "Jangan hapus pesan sama sekali">
+<!ENTITY retentionKeepAll.accesskey "J">
+<!ENTITY retentionKeepNew.label "Hapus dan sisakan">
+<!ENTITY retentionKeepNew.accesskey "s">
+<!ENTITY retentionKeepUnread.label "Selalu hapus pesan yang sudah dibaca">
+<!ENTITY retentionKeepUnread.accesskey "b">
+<!ENTITY nntpRemoveBody.label "Jika isi pesan kurang dari">
+<!ENTITY nntpRemoveBody.accesskey "P">
+<!ENTITY offlineSelectNntp.label "Pilih newgroup untuk penggunaan offline…">
+<!ENTITY offlineSelectNntp.accesskey "P">
+<!ENTITY offlineImapAdvancedOffline.label "Canggih…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "A">
+<!ENTITY syncGroupTitle.label "Proses Sinkronisasi Pesan">
+<!ENTITY diskspaceGroupTitle.label "Ruang Disk">
