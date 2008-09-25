@@ -1,0 +1,7 @@
+<!ENTITY searchIntegration.engineName "חיפוש של Windows">
+<!ENTITY searchIntegration.title "&searchIntegration.engineName; Integration">
+<!ENTITY searchIntegration.description 'האם ברצונך להפעיל את &searchIntegration.engineName; כדי לאנדקס ולחפש הודעות דוא"ל וקבוצות דיון של &brandShortName;?'>
+<!-- ### לתרגם לעברית את המילה "לאנדקס" -->
+
+<!ENTITY searchIntegration.accept "הפעל את &searchIntegration.engineName;">
+<!ENTITY searchIntegration.cancel "אל תפעיל את &searchIntegration.engineName;">
