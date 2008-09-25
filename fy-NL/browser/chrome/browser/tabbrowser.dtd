@@ -16,3 +16,4 @@
 <!ENTITY  bookmarkThisTab.accesskey    	"D">
 <!ENTITY  undoCloseTab.label          	"Ljepblêd slute ûngedien meitsje">
 <!ENTITY  undoCloseTab.accesskey      	"m">
+<!ENTITY  newTabButton.tooltip          "In nij ljepblêd iepenje">
