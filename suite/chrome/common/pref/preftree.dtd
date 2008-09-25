@@ -1,3 +1,5 @@
+<!ENTITY prefWindow.title "Настройки">
+<!ENTITY categoryHeader "Категория">
 <!ENTITY appear.label "Внешний вид">
 <!ENTITY content.label "Содержимое">
 <!ENTITY fonts.label "Шрифты">
