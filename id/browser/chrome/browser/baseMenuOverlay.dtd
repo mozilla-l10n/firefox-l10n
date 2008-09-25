@@ -1,6 +1,6 @@
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Kecilkan">
-<!ENTITY bringAllToFront.label "Bawa Semua ke Depan">
+<!ENTITY bringAllToFront.label "Tampilkan Semua ke Latar Depan">
 <!ENTITY zoomWindow.label "Perbesaran">
 <!ENTITY windowMenu.label "Jendela">
 <!ENTITY helpMenu.label "Bantuan">

@@ -1,8 +1,8 @@
 <!ENTITY warnAddonInstall.label "Peringatkan jika situs web mencoba memasang Pengaya">
 <!ENTITY warnAddonInstall.accesskey "g">
-<!ENTITY tellMaybeAttackSite.label "Beritahukan jika situs yang dikunjungi diduga sebagai tersangka situs penyerang">
+<!ENTITY tellMaybeAttackSite2.label "Blokir tersangka situs penyerang">
 <!ENTITY tellMaybeAttackSite.accesskey "y">
-<!ENTITY tellMaybeForgery.label "Beritahukan jika situs yang dikunjungi diduga sebagai tersangka pemalsuan web">
+<!ENTITY tellMaybeForgery2.label "Blokir tersangka pemalsuan web">
 <!ENTITY tellMaybeForgery.accesskey "w">
 <!ENTITY addonExceptions.label "Pengecualian…">
 <!ENTITY addonExceptions.accesskey "p">

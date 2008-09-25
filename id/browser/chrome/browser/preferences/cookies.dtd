@@ -18,7 +18,5 @@
 <!ENTITY focusSearch2.key "k">
 <!ENTITY filter.label "Cari:">
 <!ENTITY filter.accesskey "c">
-<!ENTITY clear.label "Bersihkan">
-<!ENTITY clear.accesskey "b">
 <!ENTITY button.close.label "Tutup">
 <!ENTITY button.close.accesskey "t">

@@ -11,7 +11,6 @@
 <!ENTITY safeb.palm.decline.statustext "Tutup pesan peringatan">
 <!ENTITY safeb.palm.notforgery.label2 "Halaman berikut bukan tersangka pemalsuan web…">
 <!ENTITY safeb.palm.report.label "Mengapa situs ini diblokir?">
-<!ENTITY safeb.urlbaricon.tooltip "Halaman berikut kemungkinan berbahaya. Klik untuk selengkapnya.">
 <!ENTITY safeb.blocked.malware.title "Telah Dilaporkan sebagai Situs Penyerang!">
 <!ENTITY safeb.blocked.malware.shortDesc "Situs web di <span id='malware_sitename'/> telah dilaporkan sebagai situs penyerang dan telah diblokir berdasarkan pengaturan keamanan anda.">
 <!ENTITY safeb.blocked.malware.longDesc "<p>Situs penyerang mencoba memasang program yang dapat mencuri informasi pribadi, menggunakan komputer untuk menyerang komputer lain atau merusak sistem.</p>

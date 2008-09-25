@@ -20,8 +20,8 @@
 <!ENTITY generalEncoding "Pengodean:">
 <!ENTITY generalMetaName "Nama">
 <!ENTITY generalMetaContent "Isi">
-<!ENTITY generalSecurityMore "Lanjut">
-<!ENTITY generalSecurityMore.accesskey "l">
+<!ENTITY generalSecurityDetails "Detil">
+<!ENTITY generalSecurityDetails.accesskey "D">
 <!ENTITY mediaTab "Media">
 <!ENTITY mediaTab.accesskey "M">
 <!ENTITY mediaLocation "Lokasi:">

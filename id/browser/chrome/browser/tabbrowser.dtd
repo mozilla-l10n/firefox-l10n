@@ -16,3 +16,4 @@
 <!ENTITY bookmarkThisTab.accesskey "k">
 <!ENTITY undoCloseTab.label "Batalkan Menutup Tab">
 <!ENTITY undoCloseTab.accesskey "B">
+<!ENTITY newTabButton.tooltip "Buka tab baru">

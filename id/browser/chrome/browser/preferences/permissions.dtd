@@ -7,6 +7,7 @@
 <!ENTITY removeallpermissions.label "Hapus Semua Situs">
 <!ENTITY removeallpermissions.accesskey "e">
 <!ENTITY address.label "Alamat situs web:">
+<!ENTITY address.accesskey "A">
 <!ENTITY block.label "Blokir">
 <!ENTITY block.accesskey "b">
 <!ENTITY session.label "Izinkan untuk Sesi ini">

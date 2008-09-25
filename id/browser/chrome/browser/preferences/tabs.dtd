@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label "Halaman baru akan dibuka di:">
-<!ENTITY inNewWindow.label "jendela baru">
-<!ENTITY inNewWindow.accesskey "j">
-<!ENTITY inNewTab.label "tab baru">
-<!ENTITY inNewTab.accesskey "t">
+<!ENTITY newWindowsAsTabs.label "Buka jendela baru pada tab baru">
+<!ENTITY newWindowsAsTabs.accesskey "j">
 <!ENTITY warnCloseMultipleTabs.label "Ingatkan jika akan menutup banyak tab sekaligus">
 <!ENTITY warnCloseMultipleTabs.accesskey "u">
 <!ENTITY warnOpenManyTabs.label "Ingatkan jika membuka banyak tab sekaligus akan membuat &brandShortName; melambat">

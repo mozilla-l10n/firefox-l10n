@@ -183,7 +183,7 @@
 <!ENTITY showImageCmd.accesskey "G">
 <!ENTITY viewImageCmd.label "Lihat Gambar">
 <!ENTITY viewImageCmd.accesskey "G">
-<!ENTITY viewBGImageCmd.label "Lihat Gambar Latar">
+<!ENTITY viewBGImageCmd.label "Lihat Gambar Latar Belakang">
 <!ENTITY viewBGImageCmd.accesskey "L">
 <!ENTITY setDesktopBackgroundCmd.label "Jadikan sebagai Latar Belakang Desktop…">
 <!ENTITY setDesktopBackgroundCmd.accesskey "D">
@@ -243,7 +243,6 @@
 <!ENTITY fullZoomToggleCmd.accesskey "T">
 <!ENTITY fullZoom.label "Perbesaran">
 <!ENTITY fullZoom.accesskey "b">
-<!ENTITY newTabButton.tooltip "Buka Tab Baru">
 <!ENTITY newWindowButton.tooltip "Buka jendela baru">
 <!ENTITY sidebarCloseButton.tooltip "Tutup bar samping">
 <!ENTITY cutButton.tooltip "Potong">

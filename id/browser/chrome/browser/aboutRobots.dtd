@@ -1,10 +1,10 @@
 <!ENTITY robots.pagetitle "Gort! Klaatu barada nikto!">
-<!ENTITY robots.errorTitleText "Welcome Humans!">
-<!ENTITY robots.errorShortDescText "We have come to visit you in peace and with goodwill!">
-<!ENTITY robots.errorLongDesc1 "Robots may not injure a human being or, through inaction, allow a human being to come to harm.">
-<!ENTITY robots.errorLongDesc2 "Robots have seen things you people wouldn't believe.">
-<!ENTITY robots.errorLongDesc3 "Robots are Your Plastic Pal Who's Fun To Be With.">
-<!ENTITY robots.errorLongDesc4 "Robots have shiny metal posteriors which should not be bitten.">
-<!ENTITY robots.errorTrailerDescText "And they have a plan.">
+<!ENTITY robots.errorTitleText "Jumpa Lagi Manusia!">
+<!ENTITY robots.errorShortDescText "Kami telah berkunjung untuk anda dalam damai dan bersilaturahmi!">
+<!ENTITY robots.errorLongDesc1 "Robot tidak boleh menyakiti manusia atau secara tak langsung mencelakakannya.">
+<!ENTITY robots.errorLongDesc2 "Robot telah melihat banyak hal yang tidak akan anda percayai.">
+<!ENTITY robots.errorLongDesc3 "Robot adalah Sahabat Metal Teman Bersuka-ria Anda.">
+<!ENTITY robots.errorLongDesc4 "Robot mempunyai kulit metal berkilau yang bukan untuk dirusak.">
+<!ENTITY robots.errorTrailerDescText "Dan mereka punya rencana.">
 <!ENTITY robots.imgtitle "Frakkin' Toasters">
-<!ENTITY robots.dontpress "Please do not press this button again.">
+<!ENTITY robots.dontpress "Mohon tidak mengklik tombol ini lagi.">
