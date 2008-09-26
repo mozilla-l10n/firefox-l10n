@@ -40,12 +40,12 @@
 
 <!ENTITY FormName.label "Formuliernamme:">
 <!ENTITY FormName.accesskey "N">
-<!ENTITY FormAction.label "Aksjie-URL:">
+<!ENTITY FormAction.label "Aksje-URL:">
 <!ENTITY FormAction.accesskey "A">
 <!ENTITY FormMethod.label "Metoade:">
 <!ENTITY FormMethod.accesskey "M">
-<!ENTITY FormEncType.label "Encoding:">
-<!ENTITY FormEncType.accesskey "c">
+<!ENTITY FormEncType.label "Kodearing:">
+<!ENTITY FormEncType.accesskey "K">
 <!ENTITY FormTarget.label "Doelframe:">
 <!ENTITY FormTarget.accesskey "D">
 

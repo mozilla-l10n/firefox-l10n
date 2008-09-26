@@ -79,7 +79,7 @@
 
 <!-- Customize Toolbar Dialog -->
 <!ENTITY customize.toolbar.selector.label    "Arkbalke:">
-<!ENTITY customize.toolbar.selector.mode     "Modusarkbalke">
+<!ENTITY customize.toolbar.selector.mode     "Moadusarkbalke">
 <!ENTITY customize.toolbar.selector.mail     "E-mailarkbalke">
 <!ENTITY customize.toolbar.selector.calendar "Aginda-arkbalke">
 <!ENTITY customize.toolbar.selector.task     "Taakarkbalke">
@@ -99,7 +99,7 @@
 
 <!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "Barrens toane yn finster Hjoed">
-<!ENTITY lightning.calendarproperties.showtasks.label           "Taken toane yn finster Hjoed en takenmodus">
+<!ENTITY lightning.calendarproperties.showtasks.label           "Taken toane yn finster Hjoed en takenmoadus">
 <!ENTITY lightning.calendarproperties.email.label               "E-mail:">
 
 <!-- iMIP Bar (meeting support) -->

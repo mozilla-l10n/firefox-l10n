@@ -35,10 +35,10 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY Window.title        "Inhoudsopgave">
-<!ENTITY buildToc.label      "Inhoudsopgave maken van:">
-<!ENTITY style.label         "Stijl:">
-<!ENTITY tag.label           "Code:">
+<!ENTITY Window.title        "Ynhâldsopgave">
+<!ENTITY buildToc.label      "Ynhâldsopgave meitsje fan:">
+<!ENTITY style.label         "Styl:">
+<!ENTITY tag.label           "Koade:">
 <!ENTITY class.label         "Klasse:">
 <!ENTITY header1.label       "Niveau 1">
 <!ENTITY header2.label       "Niveau 2">
@@ -46,5 +46,5 @@
 <!ENTITY header4.label       "Niveau 4">
 <!ENTITY header5.label       "Niveau 5">
 <!ENTITY header6.label       "Niveau 6">
-<!ENTITY makeReadOnly.label  "De inhoudsopgave alleen-lezen maken">
-<!ENTITY orderedList.label   "Alle regels in de inhoudsopgave nummeren">
+<!ENTITY makeReadOnly.label  "De ynhâldsopgave allinnich-lêze meitsje">
+<!ENTITY orderedList.label   "Alle riges yn de ynhâldsopgave nûmerje">

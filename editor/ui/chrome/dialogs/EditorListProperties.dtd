@@ -37,18 +37,18 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Lijsteigenschappen">
+<!ENTITY windowTitle.label "Listeigenskippen">
 
-<!ENTITY ListType.label "Lijsttype">
-<!ENTITY bulletStyle.label "Opsommingsstijl:">
-<!ENTITY startingNumber.label "Starten bij:">
+<!ENTITY ListType.label "Listtype">
+<!ENTITY bulletStyle.label "Opsommingsstyl:">
+<!ENTITY startingNumber.label "Starte by:">
 <!ENTITY startingNumber.accessKey "S">
-<!ENTITY none.value "Geen">
-<!ENTITY bulletList.value "Opsommingslijst (niet genummerd)">
-<!ENTITY numberList.value "Genummerde lijst">
-<!ENTITY definitionList.value "Definitielijst">
-<!ENTITY changeListMsg.label "Bij veranderen van het lijsttype:">
-<!ENTITY changeEntireListRadio.label "Gehele lijst veranderen">
-<!ENTITY changeEntireListRadio.accessKey "v">
-<!ENTITY changeSelectedRadio.label "Alleen de geselecteerde items veranderen">
+<!ENTITY none.value "Gjin">
+<!ENTITY bulletList.value "Opsommingslist (net nûmere)">
+<!ENTITY numberList.value "Nûmere list">
+<!ENTITY definitionList.value "Definysjelist">
+<!ENTITY changeListMsg.label "By feroarjen fan it listtype:">
+<!ENTITY changeEntireListRadio.label "Hiele list feroarje">
+<!ENTITY changeEntireListRadio.accessKey "f">
+<!ENTITY changeSelectedRadio.label "Allinnich de selektearre items feroarje">
 <!ENTITY changeSelectedRadio.accessKey "i">

@@ -5,35 +5,35 @@
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
 <!ENTITY  pref.composer.title           "Composer">
 
-<!ENTITY  saving                        "Opslaan">
-<!ENTITY  AutoSaveCheck                 "Automatisch opslaan elke">
+<!ENTITY  saving                        "Bewarje">
+<!ENTITY  AutoSaveCheck                 "Automatysk bewarje elke">
 <!ENTITY  minText                       "minuten">
 
-<!ENTITY  exterLegend.label             "Externe editors">
-<!ENTITY  htmlSource                    "HTML-bron:">
-<!ENTITY  imageeditor                   "Afbeeldingen:">
-<!ENTITY  chooseButton.label            "Kiezen">
+<!ENTITY  exterLegend.label             "Eksterne bewurkers">
+<!ENTITY  htmlSource                    "HTML-boarne:">
+<!ENTITY  imageeditor                   "Ofbyldings:">
+<!ENTITY  chooseButton.label            "Kieze">
 
-<!ENTITY  recentFiles.title             "Menu recente pagina’s">
-<!ENTITY  documentsInMenu.label         "Maximumaantal getoonde pagina’s:">
+<!ENTITY  recentFiles.title             "Menu resinte siden">
+<!ENTITY  documentsInMenu.label         "Maksimumoantal toande siden:">
 <!ENTITY  documentsInMenu.accesskey     "n">
 
-<!ENTITY  savingFiles.title             "Bij het opslaan of publiceren van pagina’s">
-<!ENTITY  preserveExisting.label        "Originele bronopmaak behouden">
+<!ENTITY  savingFiles.title             "By it bewarjen of publisearjen fan siden">
+<!ENTITY  preserveExisting.label        "Orsjinele boarne-opmaak behâlde">
 <!ENTITY  preserveExisting.accesskey    "b">
-<!ENTITY  preserveExisting.tooltip      "Behoudt nieuwe regels en de originele opmaak van de pagina">
-<!ENTITY  saveAssociatedFiles.label     "Afbeeldingen en andere geassocieerde bestanden opslaan bij het opslaan van pagina’s">
-<!ENTITY  saveAssociatedFiles.accesskey "A">
-<!ENTITY  showPublishDialog.label       "Altijd publiceerdialoog tonen bij het publiceren van pagina’s">
+<!ENTITY  preserveExisting.tooltip      "Behâldt nije rigels en de orsjinele opmaak fan de side">
+<!ENTITY  saveAssociatedFiles.label     "Ofbyldings en oare assosjearre bestannen bewarje by it bewarjen fan siden">
+<!ENTITY  saveAssociatedFiles.accesskey "O">
+<!ENTITY  showPublishDialog.label       "Altyd publiseardialooch toane by it publisearjen fan siden">
 <!ENTITY  showPublishDialog.accesskey   "d">
 
-<!ENTITY  composerEditing.label         "Bewerken">
-<!ENTITY  spellCheckInline.label        "Spelling controleren tijdens het typen">
+<!ENTITY  composerEditing.label         "Bewurkje">
+<!ENTITY  spellCheckInline.label        "Stavering kontrolearje tiidens it typen">
 <!ENTITY  spellCheckInline.accesskey    "S">
-<!ENTITY  maintainStructure.label       "Tabellay-out behouden bij het invoegen of verwijderen van cellen">
-<!ENTITY  maintainStructure.tooltip     "Behoudt de rechthoekige vorm van de tabel door automatisch cellen bij te voegen na het verwijderen of invoegen van cellen">
+<!ENTITY  maintainStructure.label       "Tabellay-out behâlde by it yngoegjen of fuortsmiten fan sellen">
+<!ENTITY  maintainStructure.tooltip     "Behâldt de rjochthoekige foarm fan de tabel troch automatysk sellen by te foegjen nei it fuortsmiten of ynfoegjen fan sellen">
 <!ENTITY  maintainStructure.accesskey   "T">
-<!ENTITY  useCSS.label                  "CSS-stijl gebruiken in plaats van HTML-elementen en -attributen">
+<!ENTITY  useCSS.label                  "CSS-styl brûke in stee fan HTML-eleminten en -attributen">
 <!ENTITY  useCSS.accesskey              "C">
-<!ENTITY  crInPCreatesNewP.label        "Nieuwe regel in alinea creëert steeds een nieuwe alinea">
+<!ENTITY  crInPCreatesNewP.label        "Nije rigel yn alinea makket hieltyd in nije alinea">
 <!ENTITY  crInPCreatesNewP.accesskey    "r">

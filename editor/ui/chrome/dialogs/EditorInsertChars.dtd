@@ -37,16 +37,16 @@
 
 
    <!-- Window title -->
-<!ENTITY windowTitle.label "Tekens invoegen">
-<!ENTITY category.label "Categorie">
+<!ENTITY windowTitle.label "Tekens ynfoegje">
+<!ENTITY category.label "Kategorie">
 <!ENTITY letter.label "Letter:">
 <!ENTITY letter.accessKey "L">
 <!ENTITY character.label "Teken:">
 <!ENTITY character.accessKey "T">
-<!ENTITY accentUpper.label "Hoofdletters met accent">
-<!ENTITY accentLower.label "Kleine letters met accent">
-<!ENTITY otherUpper.label "Andere hoofdletters">
-<!ENTITY otherLower.label "Andere kleine letters">
-<!ENTITY commonSymbols.label "Algemene symbolen">
-<!ENTITY insertButton.label "Invoegen">
-<!ENTITY closeButton.label "Sluiten">
+<!ENTITY accentUpper.label "Hadletters mei aksent">
+<!ENTITY accentLower.label "Lytse letters mei aksent">
+<!ENTITY otherUpper.label "Oare haadletters">
+<!ENTITY otherLower.label "Oare lytse letters">
+<!ENTITY commonSymbols.label "Algemiene symboalen">
+<!ENTITY insertButton.label "Ynfoegje">
+<!ENTITY closeButton.label "Slute">
