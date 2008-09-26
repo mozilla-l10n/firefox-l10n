@@ -647,6 +647,10 @@
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Dodaj adres do książki adresowej">
 <!ENTITY AddToAddressBook.accesskey "D">
+<!ENTITY EditContact.label          "Edytuj kontakt…">
+<!ENTITY EditContact.accesskey      "E">
+<!ENTITY ViewContact.label          "Wyświetl kontakt">
+<!ENTITY ViewContact.accesskey      "W">
 <!ENTITY SendMailTo.label "Wyślij wiadomość do">
 <!ENTITY SendMailTo.accesskey "W">
 <!ENTITY CopyEmailAddress.label "Kopiuj adres e-mail">
