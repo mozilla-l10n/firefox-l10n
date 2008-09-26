@@ -2,7 +2,6 @@
 <!ENTITY pref.advanced.title        "Geavanceerd">
 
 <!ENTITY prefEnableJava.caption     "Eigenschappen die helpen webpagina’s te interpreteren">
-<!ENTITY prefEnableJava.caption     "Java-eigenschappen">
 
 <!ENTITY enbJavaCheck.label         "Java inschakelen">
 <!ENTITY enbJavaCheck.accesskey     "J">
@@ -11,3 +10,7 @@
 <!ENTITY systemPrefCheck.label      "Gebruik systeemvoorkeur">
 <!ENTITY systemPrefCheck.accesskey  "S">
 <!ENTITY systemPref.desc            "Met deze optie gebruikt &brandShortName; de systeemvoorkeuren. Deze systeeminstellingen overschrijven de voorkeuren van &brandShortName;.">
+
+<!ENTITY prefCheckDefault.caption   "Systeemintegratie">
+<!ENTITY prefCheckDefaultClient.label "Controleer de standaard applicatie-instellingen bij het opstarten">
+<!ENTITY prefCheckDefaultClient.accesskey "C">

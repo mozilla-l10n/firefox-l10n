@@ -1,6 +1,6 @@
-<!-- extracted from content/preftree.xul -->
-
 <!--LOCALIZATION NOTE : FILE Lists preferences categories that appear on the left of the preferences dialog -->
+<!ENTITY prefWindow.title "Voorkeuren">
+<!ENTITY categoryHeader "Categorie">
 <!ENTITY appear.label "Vormgeving">
 <!ENTITY content.label "Inhoud">
 <!ENTITY fonts.label "Lettertypen">
@@ -20,6 +20,11 @@
 <!ENTITY cookies.label "Cookies">
 <!ENTITY images.label "Afbeeldingen">
 <!ENTITY popups.label "Popupvensters">
+<!ENTITY passwords.label "Wachtwoorden">
+<!ENTITY masterpass.label "Hoofdwachtwoorden">
+<!ENTITY ssl.label "SSL">
+<!ENTITY certs.label "Certificaten">
+<!ENTITY validation.label "Validatie">
 <!ENTITY advance.label "Geavanceerd">
 <!ENTITY down.label "Ophalen">
 <!ENTITY cache.label "Buffers">
