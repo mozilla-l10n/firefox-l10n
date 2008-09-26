@@ -14,3 +14,5 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label "Узнать о плагинах подробнее или найти недостающие плагины вручную.">
 <!ENTITY pluginWizard.finalPage.restart.label "Для работы плагина(ов) необходимо перезапустить &brandShortName;.">
 <!ENTITY missingPlugin.label "Нажмите здесь, чтобы загрузить плагин.">
+<!ENTITY disabledPlugin.label "Плагин для этого содержимого был отключён. Для управления вашими плагинами щёлкните здесь.">
+<!ENTITY blockedPlugin.label "Этот плагин был заблокирован в целях вашей безопасности.">
