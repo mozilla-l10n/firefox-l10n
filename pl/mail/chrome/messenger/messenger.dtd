@@ -442,6 +442,7 @@
 <!ENTITY backButton1.label "Wstecz">
 <!ENTITY goForwardButton1.label "Do przodu">
 <!ENTITY deleteButton.label "Usuń">
+<!ENTITY undeleteButton.label    "Przywróć">
 <!ENTITY markButton.label "Oznacz">
 <!ENTITY printButton.label "Drukuj">
 <!ENTITY stopButton.label "Zatrzymaj">
@@ -473,6 +474,7 @@
 <!ENTITY goForwardButton.tooltip "Przejdź o jedną wiadomość do przodu">
 <!ENTITY goBackButton.tooltip "Przejdź o jedną wiadomość wstecz">
 <!ENTITY deleteButton.tooltip "Usuń wybraną wiadomość albo folder">
+<!ENTITY undeleteButton.tooltip "Przywróć usuniętą wiadomość">
 <!ENTITY markButton.tooltip "Oznacz wiadomości">
 <!ENTITY printButton.tooltip "Drukuj wiadomość">
 <!ENTITY stopButton.tooltip "Zatrzymaj bieżący transfer">
