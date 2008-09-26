@@ -53,15 +53,15 @@
 <!ENTITY folderRebuildSummaryFile.accesskey      "r">
 <!ENTITY folderRebuildSummaryFileTip.label       "Przebuduj plik podsumowania">
 
-<!ENTITY retention.label "Reguły przechowywania wiadomości"> 
-<!ENTITY retentionUseDefault.label  "Używaj domyślnych ustawień serwera"> 
-<!ENTITY retentionUseDefault.accesskey "d"> 
+<!ENTITY retention.label              "Reguły przechowywania wiadomości">
+<!ENTITY retentionUseDefault.label    "Używaj domyślnych ustawień serwera">
+<!ENTITY retentionUseDefault.accesskey "d">
 <!ENTITY days.label "dni">
 <!ENTITY daysOld.label "dni">
 <!ENTITY message.label "najnowszych wiadomości">
 <!ENTITY retentionCleanup.label "W celu zaoszczędzenia miejsca na dysku, stare wiadomości mogą być nieodwracalnie usuwane">
-<!ENTITY retentionKeepMsg.label "Usuń wiadomości starsze niż">
-<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionDeleteMsg.label     "Usuń wiadomości starsze niż">
+<!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Nie usuwaj żadnych wiadomości">
 <!ENTITY retentionKeepAll.accesskey "A">
 <!ENTITY retentionKeepNew.label "Usuń wszystko, oprócz">
