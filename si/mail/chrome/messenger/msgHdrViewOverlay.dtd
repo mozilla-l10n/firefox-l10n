@@ -34,7 +34,7 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-
+<!ENTITY showDetailsButton.label "show details">
 <!ENTITY toField2.label "වෙත: ">
 <!ENTITY fromField2.label "වෙතින්: ">
 <!ENTITY senderField2.label "එවන්නා: ">
