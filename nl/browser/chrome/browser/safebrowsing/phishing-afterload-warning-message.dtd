@@ -15,8 +15,6 @@
 <!ENTITY safeb.palm.notforgery.label2 "Dit is geen webvervalsing…">
 <!ENTITY safeb.palm.report.label "Waarom werd deze website geblokkeerd?">
 
-<!ENTITY safeb.urlbaricon.tooltip "Deze pagina is misschien gevaarlijk; klik voor details.">
-
 <!ENTITY safeb.blocked.malware.title "Gerapporteerde aanvalsite!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "De website op <span id='malware_sitename'/> is gerapporteerd als een aanvalsite en is geblokkeerd op basis van uw beveiligingsinstellingen.">

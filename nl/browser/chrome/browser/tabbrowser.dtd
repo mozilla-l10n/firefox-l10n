@@ -16,3 +16,4 @@
 <!ENTITY  bookmarkThisTab.accesskey    "m">
 <!ENTITY  undoCloseTab.label          "Tabblad sluiten ongedaan maken">
 <!ENTITY  undoCloseTab.accesskey      "o">
+<!ENTITY  newTabButton.tooltip        "Open een nieuw tabblad">

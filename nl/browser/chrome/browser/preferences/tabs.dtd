@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label             "Nieuwe pagina’s moeten worden geopend in:">
-<!ENTITY inNewWindow.label            "een nieuw venster">
-<!ENTITY inNewWindow.accesskey        "v">
-<!ENTITY inNewTab.label               "een nieuw tabblad">
-<!ENTITY inNewTab.accesskey           "t">
+<!ENTITY newWindowsAsTabs.label       "Open nieuwe vensters in een nieuwe tabblad">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
 
 <!ENTITY warnCloseMultipleTabs.label  "Mij waarschuwen bij het sluiten van meerdere tabbladen">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">

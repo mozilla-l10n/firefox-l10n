@@ -7,8 +7,4 @@
 <!ENTITY  focusSearch1.key        "f">
 <!ENTITY  focusSearch2.key        "k">
 
-<!ENTITY  filter.label            "Zoeken:">
-<!ENTITY  filter.accesskey        "Z">
-
-<!ENTITY  clear.label             "Wissen">
-<!ENTITY  clear.accesskey         "W">
+<!ENTITY  filter.emptytext        "Zoeken">

@@ -22,9 +22,6 @@
 
 <!ENTITY     filter.label                   "Zoeken:">
 <!ENTITY     filter.accesskey               "Z">
-<!ENTITY     clear.label                    "Wissen">
-<!ENTITY     clear.accesskey                "W">
 
 <!ENTITY     button.close.label             "Sluiten">
 <!ENTITY     button.close.accesskey         "S">
-

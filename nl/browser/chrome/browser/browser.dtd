@@ -222,6 +222,8 @@
 <!ENTITY reloadFrameCmd.accesskey     "n">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Bron van selectie bekijken">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML-bron bekijken">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "B">
 <!ENTITY viewPageSourceCmd.label      "Paginabron bekijken">
 <!ENTITY viewPageSourceCmd.accesskey  "b">
@@ -307,7 +309,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Zoomen">
 <!ENTITY fullZoom.accesskey             "o">
 
-<!ENTITY newTabButton.tooltip           "Een nieuw tabblad openen">
 <!ENTITY newWindowButton.tooltip        "Een nieuw venster openen">
 <!ENTITY sidebarCloseButton.tooltip     "Zijbalk sluiten">
 
