@@ -638,12 +638,12 @@
 
 <!-- Remote Content Bar -->
 <!ENTITY remoteContentMessage1.label	"W celu ochrony prywatności, zdalne obrazki zostały zablokowane." >
-<!ENTITY loadRemoteContentButton1.label "Pobierz obrazki">
+<!ENTITY loadRemoteContentButton2.label "Wyświetl obrazki">
 
 <!-- Phshing Bar -->
-<!ENTITY phishingBarMessage1.label	"Podejrzenie oszustwa pocztowego" >
+<!ENTITY phishingBarMessage2.label      "Ta wiadomość może być próbą oszustwa.">
 <!ENTITY removePhishingBarButton1.label	"Zignoruj ostrzeżenie" >
-<!ENTITY reportPhishingError.label	"Ta wiadomość nie jest fałszywa" >
+<!ENTITY reportPhishingError1.label     "Ta wiadomość nie wygląda na próbę oszustwa.">
 
 <!-- Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
