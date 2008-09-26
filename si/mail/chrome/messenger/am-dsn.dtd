@@ -1,0 +1,16 @@
+<!ENTITY pane.title                 "බෙදාහැරීම් තත්ත්වය දැනුම්දීම">
+<!ENTITY useGlobalPrefs.label       "Use my global Delivery Status Notification preferences for this account">
+<!ENTITY useGlobalPrefs.accesskey   "U">
+<!ENTITY useCustomPrefs.label       "මෙම ගිණුම සඳහා බෙදාහැරීම් තත්ත්වය දැනුම්දීම රිසිකරණය">
+<!ENTITY useCustomPrefs.accesskey   "C">
+<!ENTITY requestAlways.label        "ලිපි යවන විට, සෑමවිටම බෙදාහැරීම් තත්ත්වය දැනුම්දීම ඉල්ලා සිටින්න">
+<!ENTITY requestAlways.accesskey    "W">
+<!ENTITY optionTitle.label          "දැනුම්දීම ඉල්ලනු ලබන්කේ :">
+<!ENTITY requestOnSucess.label      "බෙදාහැරීම සාර්ථක විට">
+<!ENTITY requestOnSucess.accesskey  "S">
+<!ENTITY requestOnFailure.label     "බෙදාහැරීම ුසාර්ථක විට">
+<!ENTITY requestOnFailure.accesskey "F">
+<!ENTITY requestOnDelay.label       "බෙදාහැරීම ප්‍රමාදවන විට">
+<!ENTITY requestOnDelay.accesskey   "D">
+<!ENTITY requestNever.label         "කිසිවිට බෙදාහැරීම් තත්ත්වය දැනුම්දීම භාර නොගනී">
+<!ENTITY requestNever.accesskey     "N">
