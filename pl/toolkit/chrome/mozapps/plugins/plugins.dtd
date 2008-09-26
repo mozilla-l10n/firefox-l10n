@@ -21,3 +21,5 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "Aby wtyczka została uruchomiona, niezbędne jest ponowne uruchomienie programu &brandShortName;.">
 
 <!ENTITY missingPlugin.label                                 "Kliknij tutaj, aby pobrać wtyczkę.">
+<!ENTITY disabledPlugin.label                                "Wtyczka obsługująca treść tego rodzaju została wyłączona. Kliknij, by zarządzać wtyczkami.">
+<!ENTITY blockedPlugin.label                                 "Wtyczka zablokowana z przyczyn bezpieczeństwa.">

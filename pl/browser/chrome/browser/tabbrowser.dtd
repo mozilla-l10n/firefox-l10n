@@ -16,3 +16,4 @@
 <!ENTITY  bookmarkThisTab.accesskey    "z">
 <!ENTITY  undoCloseTab.label          "Przywróć zamkniętą kartę">
 <!ENTITY  undoCloseTab.accesskey      "P">
+<!ENTITY newTabButton.tooltip "Otwórz nową kartę" >
