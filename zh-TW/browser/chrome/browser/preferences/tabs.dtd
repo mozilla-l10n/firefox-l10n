@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label             "新頁面要開啟於:">
-<!ENTITY inNewWindow.label            "新視窗">
-<!ENTITY inNewWindow.accesskey        "w">
-<!ENTITY inNewTab.label               "新分頁">
-<!ENTITY inNewTab.accesskey           "t">
+<!ENTITY newWindowsAsTabs.label       "以新分頁取代新視窗">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
 
 <!ENTITY warnCloseMultipleTabs.label  "關閉多個分頁前發出警告">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">

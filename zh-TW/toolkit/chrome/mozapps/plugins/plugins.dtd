@@ -21,3 +21,5 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; 重新啟動後才能使用這些外掛程式。">
   
 <!ENTITY missingPlugin.label                                 "按這裡下載外掛程式。">
+<!ENTITY disabledPlugin.label                                "用於此內容的外掛已停用。請按此處管理外掛。">
+<!ENTITY blockedPlugin.label                                 "此外掛已阻擋以保護你的電腦。">
