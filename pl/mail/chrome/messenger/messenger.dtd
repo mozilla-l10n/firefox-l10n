@@ -663,10 +663,10 @@
 <!ENTITY reportPhishingURL.accesskey "g">
 
 <!-- Content Pane Context Menu -->
-<!ENTITY saveLinkCmd.label   "Zapisz element docelowy">
-<!ENTITY saveLinkCmd.accesskey "s">
-<!ENTITY saveImageCmd.label   "Zapisz obrazek">
-<!ENTITY saveImageCmd.accesskey "Z">
+<!ENTITY saveLinkAsCmd.label      "Zapisz element docelowy jako…">
+<!ENTITY saveLinkAsCmd.accesskey  "s">
+<!ENTITY saveImageAsCmd.label     "Zapisz obrazek jako…">
+<!ENTITY saveImageAsCmd.accesskey "Z">
 <!ENTITY copyCmd.label "Kopiuj">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY selectAllCmd.label "Zaznacz wszystko">
