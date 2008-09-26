@@ -315,7 +315,8 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY fullZoomToggleCmd.accesskey    "k">
 <!ENTITY fullZoom.label                 "Powiększenie">
 <!ENTITY fullZoom.accesskey             "w">
-
+ 
+<!ENTITY newTabButton.tooltip "Otwórz nową kartę" >
 <!ENTITY newWindowButton.tooltip "Otwórz nowe okno" >
 <!ENTITY sidebarCloseButton.tooltip     "Zamknij panel boczny">
 
