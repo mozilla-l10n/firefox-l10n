@@ -21,3 +21,5 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; muss neugestartet werden, damit installierte Plugins funktionieren.">
   
 <!ENTITY missingPlugin.label                                 "Klicken Sie hier, um das Plugin herunterzuladen.">
+<!ENTITY disabledPlugin.label                                "Das Plugin für diesen Inhalt ist deaktiviert. Klicken Sie hier, um Plugins zu verwalten.">
+<!ENTITY blockedPlugin.label                                 "Dieses Plugin wurde zu Ihrem Schutz blockiert.">
