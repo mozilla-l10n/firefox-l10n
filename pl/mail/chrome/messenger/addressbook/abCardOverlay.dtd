@@ -134,6 +134,11 @@
 <!ENTITY WorkWebPage.accesskey 			"n">
 <!ENTITY Other.tab 				"Inne">
 <!ENTITY Other.accesskey 			"e">
+<!ENTITY Birthday.label        "Urodziny:">
+<!ENTITY Birthday.accesskey    "U">
+<!ENTITY Year.emptytext        "Rok">
+<!ENTITY Or.value              "lub">
+<!ENTITY Age.emptytext         "wiek">
 <!ENTITY Custom1.label 				"Informacja 1:">
 <!ENTITY Custom1.accesskey 			"1">
 <!ENTITY Custom2.label 				"Informacja 2:">
