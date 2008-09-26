@@ -39,7 +39,7 @@
 
 <!ENTITY downloading.title "Descargando actualizaciones">
 <!ENTITY downloading.intro "Descargando la actualización…">
-<!ENTITY connecting.label "Connectando al servidor de actualizaciones…">
+<!ENTITY connecting.label "Conectando al servidor de actualizaciones…">
 <!ENTITY verificationFailedText.label "&brandShortName; no pudo verificar la integridad de la
                                            actualización incremental que se descargó, por lo tanto se descargará
                                            el paquete de actualización completo.">
