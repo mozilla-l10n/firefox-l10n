@@ -12,7 +12,7 @@
 <!ENTITY newVirtualFolderCmd.label "සුරැකූ සෙවුමක්...">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newAccountCmd.label "ගිණුමක්...">
-<!ENTITY newAccountCmd.accesskey "A">‍
+<!ENTITY newAccountCmd.accesskey "A">
 <!ENTITY openMessageMenu.label "විවෘත කරන්න">
 <!ENTITY openMessageFileCmd.label "සුරැකූ ලිපියක් අරින්න...">
 <!ENTITY openMessageFileCmd.accesskey "O">
