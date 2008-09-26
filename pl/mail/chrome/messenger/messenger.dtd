@@ -525,6 +525,8 @@
 <!ENTITY folderContextProperties.accesskey "i">
 <!ENTITY folderContextFavoriteFolder.label "Ulubiony folder">
 <!ENTITY folderContextFavoriteFolder.accesskey "U">
+<!ENTITY folderContextSettings.label       "Ustawienia…">
+<!ENTITY folderContextSettings.accesskey   "a">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Imię, nazwisko lub e-mail zawiera:">
