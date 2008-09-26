@@ -38,6 +38,8 @@
 <!ENTITY sendUnsentCmd.accesskey "W">
 <!ENTITY subscribeCmd.label 			"Menedżer subskrypcji…">
 <!ENTITY subscribeCmd.accesskey "S">
+<!ENTITY deleteFolder.label            "Usuń folder">
+<!ENTITY deleteFolder.accesskey        "e">
 <!ENTITY renameFolder.label 			"Zmień nazwę folderu…">
 <!ENTITY renameFolder.accesskey "m">
 <!ENTITY renameFolder.key "VK_F2">
