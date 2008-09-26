@@ -1,0 +1,26 @@
+<!ENTITY newBookmark.title "അടയാളം ചേര്‍ക്കുക">
+<!ENTITY newbookmark.label "&brandShortName; ഈ പേജിലേക്ക്‌ ഒരു അടയാളം ചേര്‍ക്കുന്നതാണ്‌">
+<!ENTITY name.label "പേര്‌ ">
+<!ENTITY name.accesskey "N">
+<!ENTITY keyword.label "കീവേര്‍ഡ്‌:">
+<!ENTITY keyword.accesskey "K">
+<!ENTITY microsummary.label "ലൈവ്‌ തലക്കെട്ടുകള്‍ ">
+<!ENTITY url.label "സ്ഥിതി ചെയ്യുന്നിടം">
+<!ENTITY url.accesskey "L">
+<!ENTITY button.createin.label "ഇതില്‍ നിര്‍മ്മിക്കുക &lt;&lt;">
+<!ENTITY button.createin.accesskey "C">
+<!ENTITY button.createin2.label "ഇതില്‍ നിര്‍മ്മിക്കുക &lt;&lt;">
+<!ENTITY createin.label "ഇതില്‍ നിര്‍മ്മിക്കുക:">
+<!ENTITY createin.accesskey "C">
+<!ENTITY moveto.label "ഇങ്ങോട്ട്‌ മാറ്റുക:">
+<!ENTITY moveto.accesskey "M">
+<!ENTITY button.newfolder.label "പുതിയ ഫോള്‍ഡര്‍ ">
+<!ENTITY button.newfolder.accesskey "o">
+<!ENTITY alwayscreateinfolder.label "ഈ ഡയലോഗ് ഇനി കാണിക്കുവാന്‍ പാടില്ല">
+<!ENTITY alwayscreateinfolder.accesskey "a">
+<!ENTITY dontshowmessage.tooltip "ഈ ഓപ്ഷന്‍ തെരഞ്ഞെടുക്കുമ്പോള്‍, പേജ്‌ നല്‍കുന്ന തലക്കെട്ട്‌ വെച്ച്‌ പുതിയ അടയാളങ്ങള്‍ ചേര്‍ക്കുന്നതാണ്‌ ">
+<!ENTITY selectFolder.label "ഫോള്‍ഡര്‍ തെരഞ്ഞെടുക്കുക ">
+<!ENTITY expanderDown.tooltip "എല്ലാ അടയാളങ്ങളുടെ ഫോള്‍ഡറുകളും കാണിക്കുക ">
+<!ENTITY expanderUp.tooltip "ഒളിപ്പിക്കുക">
+<!ENTITY acceptButton.label "ചേര്‍ക്കുക ">
+<!ENTITY bookmarksToolbar.label "അടയാള ഉപകരണപ്പട്ട ">

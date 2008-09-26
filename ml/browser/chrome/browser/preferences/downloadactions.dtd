@@ -1,0 +1,25 @@
+<!ENTITY downloadactionsWindow.title "ഡൌണ്‍ലോഡ്‌ നടപടികള്‍">
+<!ENTITY window.width "480">
+<!ENTITY window.height "310">
+<!ENTITY fileTypesDescription.label "താഴെ പറയുന്ന ഫയല്‍ ടൈപ്പുകള്‍ക്ക്‌ ബന്ധപ്പെട്ട നടപടികള്‍ തനിയെ ചെയ്യുക">
+<!ENTITY fileHandlerColumn.label "നടപടി ">
+<!ENTITY fileHandlerColumn.accesskey "A">
+<!ENTITY fileTypeColumn.label "ഫയലിന്റെ തരം">
+<!ENTITY fileTypeColumn.accesskey "T">
+<!ENTITY fileMIMETypeColumn.label "MIME തരം">
+<!ENTITY fileMIMETypeColumn.accesskey "M">
+<!ENTITY fileExtensionColumn.label "എക്സ്റ്റെന്‍ഷന്‍">
+<!ENTITY fileExtensionColumn.accesskey "E">
+<!ENTITY remove.label "നടപടി നീക്കം ചെയ്യുക">
+<!ENTITY remove.accesskey "R">
+<!ENTITY edit.label "നടപടി മാറ്റുക ">
+<!ENTITY edit.accesskey "C">
+<!ENTITY windowClose.key "w">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+<!ENTITY filter.label "തിരഞ്ഞു കണ്ടെത്തുക">
+<!ENTITY filter.accesskey "S">
+<!ENTITY clear.label "വൃത്തിയാകുക ">
+<!ENTITY clear.accesskey "l">
+<!ENTITY button.close.label "അടയ്ക്കുക ">
+<!ENTITY button.close.accesskey "o">

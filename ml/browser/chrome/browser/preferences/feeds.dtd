@@ -1,0 +1,8 @@
+<!ENTITY feedClick.label "ഞാന്‍ ഒരു വെബ്‌ ഫീഡില്‍ ക്ലിക്ക്‌ ചെയ്യുമ്പോള്‍">
+<!ENTITY showPreview.label "എന്നെ ഒരു തിരനോട്ടം കാണിച്ചതിനു ശേഷം ഏത്‌ ഫീഡ്‌ റീഡര്‍ ഉപയോഗിക്കണം എന്ന് എന്നോട്‌ ചോദിക്കുക">
+<!ENTITY showPreview.accesskey "S">
+<!ENTITY subscribeUsing.label "ഇതുപയോഗിച്ച്‌ ഫീഡിന്‌ subscribe ചെയ്യുക:">
+<!ENTITY subscribeUsing.accesskey "u">
+<!ENTITY liveBookmarks.label "ലൈവ്‌ അടയാളങ്ങള്‍">
+<!ENTITY chooseApplication.label "അപ്ലിക്കേഷന്‍ തെരഞ്ഞെടുക്കുക">
+<!ENTITY chooseApplication.accesskey "C">

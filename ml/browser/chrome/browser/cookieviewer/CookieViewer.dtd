@@ -1,0 +1,15 @@
+<!--null-->
+<!ENTITY div.cookiesonsystem.label "താങ്കളുടെ കമ്പ്യൂട്ടറില്‍ സൂക്ഷിച്ചിരിക്കുന്ന കുക്കികള്‍ കാണുകയും നീക്കുകയും ചെയ്യുക ">
+<!ENTITY treehead.cookiename.label "കൂക്കിയുടെ പേര്‌">
+<!ENTITY treehead.cookiedomain.label "സൈറ്റ്‌">
+<!ENTITY treehead.infoselected.label "തിരഞ്ഞെടുത്ത കുക്കിയെപ്പറ്റിയുള്ള വിവരങ്ങള്‍">
+<!ENTITY button.removecookie.label "കൂക്കി നീക്കം ചെയ്യുക  ">
+<!ENTITY button.removeallcookies.label "എല്ലാ കുക്കികളും നീക്കം ചെയ്യുക ">
+<!ENTITY props.name.label "പേര്‌:">
+<!ENTITY props.value.label "ഉള്ളടക്കം:">
+<!ENTITY props.domain.label "ഹോസ്റ്റ്‌:">
+<!ENTITY props.path.label "പാത :">
+<!ENTITY props.secure.label "Send For:">
+<!ENTITY props.expires.label "കാലാവധി കഴിയുന്നത്‌:">
+<!ENTITY window.title "സൂക്ഷിച്ചിരിക്കുന്ന കൂക്കികള്‍">
+<!ENTITY checkbox.label "നീക്കംചെയ്ത കുക്കികള്‍ അയച്ച്‌ സൈറ്റുകളെ ഭാവിയില്‍ കുക്കി സൂക്ഷിക്കുന്നതില്‍ നിന്നും വിലക്കുക">

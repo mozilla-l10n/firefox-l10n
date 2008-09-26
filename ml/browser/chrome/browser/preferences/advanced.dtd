@@ -1,0 +1,63 @@
+<!ENTITY generalTab.label "പൊതുവായവ">
+<!ENTITY accessibility.label "ആക്സസ്സെബിലിറ്റി ">
+<!ENTITY useCursorNavigation.label "പേജുകള്‍ക്കുള്ളില്‍ നീങ്ങുവാന്‍ കഴ്‌സര്‍ കീ ഉപയോഗിക്കുക">
+<!ENTITY useCursorNavigation.accesskey "c">
+<!ENTITY searchStartTyping.label "ഞാന്‍ ടൈപ്പ്‌ ചെയ്യുമ്പോള്‍ തന്നെ വാക്കുകള്‍ക്കായി തെരയുക">
+<!ENTITY searchStartTyping.accesskey "x">
+<!ENTITY browsing.label "തിരഞ്ഞുകൊണ്ടിരിക്കുന്നു ">
+<!ENTITY useAutoScroll.label "ഓട്ടോ സ്ക്രോളിംഗ്‌ ഉപയോഗിക്കുക ">
+<!ENTITY useAutoScroll.accesskey "a">
+<!ENTITY useSmoothScrolling.label "സ്മൂത്ത്‌ സ്ക്രോളിംഗ്‌ ഉപയോഗിക്കുക ">
+<!ENTITY useSmoothScrolling.accesskey "m">
+<!ENTITY checkSpelling.label "ഞാന്‍ ടൈപ്പ്‌ ചെയ്യുന്നതനുസരിച്ച്‌ സ്പെല്ലിംഗ്‌ ചെക്ക്‌ ചെയ്യുക ">
+<!ENTITY checkSpelling.accesskey "t">
+<!ENTITY languages.label "ഭാഷകള്‍ ">
+<!ENTITY chooseLanguage.label "പേജുകള്‍ കാണുവാന്‍ നിങ്ങള്‍ക്ക്‌ താല്‍പര്യമുള്ള ഭാഷ തെരഞ്ഞെടുക്കുക ">
+<!ENTITY chooseButton.label "തിരഞ്ഞെടുക്കുക ">
+<!ENTITY chooseButton.accesskey "o">
+<!ENTITY networkTab.label "നെറ്റ്‌വര്‍ക്ക്‌">
+<!ENTITY connection.label "കണക്ഷന്‍">
+<!ENTITY connectionDesc.label "&brandShortName; ഇന്റര്‍നെറ്റുമായി എങ്ങനെ ചെയ്യണമെന്നത്‌ കോണ്‍ഫിഗര്‍ ചെയ്യുക ">
+<!ENTITY connectionSettings.label "ക്രമീകരണങ്ങള്‍ ">
+<!ENTITY connectionSettings.accesskey "e">
+<!ENTITY cache.label "കേഷ്‌ ">
+<!ENTITY useCacheBefore.label "ഇത്രവരെ ഉപയോഗിക്കുക">
+<!ENTITY useCacheBefore.accesskey "U">
+<!ENTITY useCacheAfter.label "കേഷിനു വേണ്ടിയുള്ള ഇട MB-യില്‍ ">
+<!ENTITY updateTab.label "അപ്പ്ഡേറ്റ്‌ ">
+<!ENTITY autoCheck.label "തന്നെത്താന്‍ അപ്പ്ഡേറ്റുകള്‍ക്കുവേണ്ടി തിരയുക:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "F">
+<!ENTITY enableAddonsUpdate.label "ഇന്‍സ്റ്റാള്‍ ചെയ്തിരിക്കുന്ന ആഡ്‌-ഓണുകള്‍ ">
+<!ENTITY enableAddonsUpdate.accesskey "n">
+<!ENTITY enableSearchUpdate.label "സെര്‍ച്ച്‌ എഞ്ചിനുകള്‍">
+<!ENTITY enableSearchUpdate.accesskey "h">
+<!ENTITY whenUpdatesFound.label "&brandShortName; ന്റെ അപ്പ്ഡേറ്റുകള്‍ കണ്ടെത്തുമ്പോള്‍">
+<!ENTITY askMe.label "എന്ത്‌ ചെയ്യണം എന്നു ചോദിക്കുക">
+<!ENTITY askMe.accesskey "k">
+<!ENTITY modeAutomatic.label "തന്നെത്താന്‍ ഡൌണ്‍ലോഡ്‌ ചെയ്തു അപ്പ്ഡേറ്റ്‌ ഇന്‍സ്റ്റാള്‍ ചെയ്യുക:">
+<!ENTITY modeAutomatic.accesskey "d">
+<!ENTITY modeAutoAddonWarn.label "ഇത്‌ ഏതെങ്കിലും ആഡ്‌-ഓണിനെ നിര്‍വീര്യമാക്കുമെങ്കില്‍ എനിക്ക്‌ മുന്നറിയിപ്പ്‌ നല്‍കുക ">
+<!ENTITY modeAutoAddonWarn.accesskey "W">
+<!ENTITY updateHistory.label "അപ്പ്‌ഡേറ്റ്‌ ചരിത്രം കാണിക്കുക ">
+<!ENTITY updateHistory.accesskey "p">
+<!ENTITY encryptionTab.label "എന്‍ക്രിപ്ഷന്‍">
+<!ENTITY protocols.label "പ്രോട്ടോകോളൂകള്‍ ">
+<!ENTITY useSSL3.label "ഉപSSL 3.0 യോഗിക്കുക">
+<!ENTITY useSSL3.accesskey "3">
+<!ENTITY useTLS1.label "TLS 1.0 ഉപയോഗിക്കുക">
+<!ENTITY useTLS1.accesskey "1">
+<!ENTITY certificates.label "സര്‍റ്റിഫിക്കറ്റുകള്‍">
+<!ENTITY certselect.description "വെബ്‌ സൈറ്റിന്‌ സര്‍റ്റിഫിക്കറ്റ്‌ ആവശ്യമായി വരുമ്പോള്‍ ">
+<!ENTITY certs.auto "ഒന്ന് തനിയെ തെരഞ്ഞെടുക്കുക ">
+<!ENTITY certs.auto.accesskey "l">
+<!ENTITY certs.ask "ഒരോ തവണയും ചോദിക്കുക">
+<!ENTITY certs.ask.accesskey "i">
+<!ENTITY viewCerts.label "സര്‍ട്ടിഫിക്കറ്റുകള്‍ കാണുക">
+<!ENTITY viewCerts.accesskey "s">
+<!ENTITY viewCRLs.label "റിവോക്കേഷന്‍ ലിസ്റ്റ്‌ ">
+<!ENTITY viewCRLs.accesskey "R">
+<!ENTITY verify.label "വേരിഫിക്കേഷന്‍">
+<!ENTITY verify.accesskey "V">
+<!ENTITY viewSecurityDevices.label "സുരക്ഷാ ഉപകരണങ്ങള്‍ ">
+<!ENTITY viewSecurityDevices.accesskey "y">

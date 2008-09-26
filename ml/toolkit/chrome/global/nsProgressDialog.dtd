@@ -1,0 +1,73 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Progress Dialog.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2002
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Bill Law       <law@netscape.com>
+   -   Aaron Kaluszka <ask@swva.net>
+   -   
+   -   
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY defaultTitle "സൂക്ഷിച്ചുകൊണ്ടിരിക്കുന്നു ">
+<!ENTITY savingTitle "#1-ല്‍ #2&#037; സൂക്ഷിച്ചിരിക്കുന്നു ">
+<!ENTITY savingSource "ഇതില്‍ നിന്നും സൂക്ഷിക്കുന്നു ">
+
+<!ENTITY savingTarget "എവിടേക്ക്:">
+
+<!ENTITY openingTitle "#1-ല്‍ #2&#037; പൂര്‍ത്തിയായിരിക്കുന്നു ">
+<!ENTITY openingSource "ഇതില്‍ നിന്നും തുറക്കുന്നു ">
+
+<!ENTITY openingTarget "With:">
+<!ENTITY unknownSavingTitle "#1 &#037;S സൂക്ഷിച്ചുകൊണ്ടിരിക്കുന്നു ">
+<!ENTITY unknownOpeningTitle "#2 തുറക്കുന്നു">
+<!ENTITY status "സ്ഥിതി ">
+
+<!ENTITY timeElapsed "എത്റ സമയം കഴിഞ്ഞിരിക്കുന്നു:">
+<!ENTITY timeLeft "ബാക്കിയുള്ള സമയം:">
+<!ENTITY progress "പുരോഗതി:">
+
+<!ENTITY keep "ഡൌണ്‍ലോഡ്‌ പൂര്‍ത്തിയായതിനു ശേഷം ഈ ജാലകം തുറന്നു വെയ്ക്കുക">
+<!ENTITY cancel "റദ്ദാക്കുക">
+<!ENTITY pause "താല്‍ക്കാലികമായി നിര്‍ത്തുക">
+<!ENTITY resume "തുടരുക ">
+<!ENTITY close "അടയ്ക്കുക ">
+<!ENTITY reveal "ഫയല്‍ സ്ഥിതി ചെയ്യുന്നിടം കാണിക്കുക">
+
+<!ENTITY launch "ഫയല്‍ ലഭ്യമാക്കുക">
+
+<!ENTITY pausedMsg "ഡൌണ്‍ലോഡ്‌ താല്‍ക്കാലികമായി നിര്‍ത്തിയിരിക്കുന്നു">
+<!ENTITY progressMsg "#1kB of #2kB (at #3kB/sec)">
+<!ENTITY unknownTime "അറിയില്ലാത്തത്‌ ">
+<!ENTITY longTimeFormat "#1:#2:#3">
+<!ENTITY shortTimeFormat "#2:#3">
+<!ENTITY completeMsg "കഴിഞ്ഞിരിക്കുന്നു, #2 kB ഡൌണ്‍ലോട് ചെയ്തു (#1 സമയം കഴിഞ്ഞിരിക്കുന്നു)">
+<!ENTITY percentMsg "#1&#037;">

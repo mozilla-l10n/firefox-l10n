@@ -1,0 +1,34 @@
+<!ENTITY startup.label "തുടക്കം">
+<!ENTITY startupPage.label "&brandShortName; തുടങ്ങുമ്പോള്‍">
+<!ENTITY startupPage.accesskey "s">
+<!ENTITY startupHomePage.label "എന്റെ പ്രധാന പേജ്‌ കാണിക്കുക">
+<!ENTITY startupBlankPage.label "ഒരു ശൂന്യമായ പേജ്‌ കാണിക്കുക ">
+<!ENTITY startupLastSession.label "എന്റെ കഴിഞ്ഞ തവണത്തെ ജാലകങ്ങളും ടാബുകളും കാണിക്കുക ">
+<!ENTITY location.label "പ്രധാന പേജ്‌">
+<!ENTITY location.accesskey "H">
+<!ENTITY useCurrentPage.label "ഇപ്പോഴത്തെ പേജ്‌ ഉപയോഗിക്കുക ">
+<!ENTITY useCurrentPage.accesskey "C">
+<!ENTITY useMultiple.label "ഇപ്പോഴത്തെ പേജുകള്‍ ഉപയോഗിക്കുക">
+<!ENTITY useBookmark.label "അടയാളം ഉപയോഗിക്കുക">
+<!ENTITY useBookmark.accesskey "B">
+<!ENTITY restoreDefault.label "ഡിഫോള്‍ട്ടിലേക്ക്‌ പുനസ്ഥാപിക്കുക ">
+<!ENTITY restoreDefault.accesskey "R">
+<!ENTITY downloads.label "ഡൌണ്‍ലോഡുകള്‍">
+<!ENTITY showWhenDownloading.label "ഫയല്‍ ഡൌണ്‍ലോഡ്‌ ചെയ്യുമ്പോള്‍ ഡൌണ്‍ലോഡ്‌ ജാലകം കാണിക്കുക ">
+<!ENTITY showWhenDownloading.accesskey "D">
+<!ENTITY closeWhenDone.label "എല്ലാ ഡൌണ്‍ലോഡുകളും തീര്‍ന്നു കഴിയുമ്പോള്‍ ഇത്‌ അടയ്ക്കുക">
+<!ENTITY closeWhenDone.accesskey "w">
+<!ENTITY saveTo.label "ഫയലുകള്‍ ഇവിടെ സൂക്ഷിക്കുക">
+<!ENTITY saveTo.accesskey "v">
+<!ENTITY chooseFolderWin.label "തിരയുക">
+<!ENTITY chooseFolderWin.accesskey "o">
+<!ENTITY chooseFolderMac.label "തിരഞ്ഞെടുക്കുക ">
+<!ENTITY chooseFolderMac.accesskey "e">
+<!ENTITY alwaysAsk.label "ഫയലുകള്‍ എവിടെ സൂക്ഷിക്കണം എന്നു എപ്പോഴും ചോദിക്കുക">
+<!ENTITY alwaysAsk.accesskey "A">
+<!ENTITY systemDefaults.label "സിസ്റ്റം ഡിഫോള്‍ട്ടുകള്‍ ">
+<!ENTITY alwaysCheckDefault.label "&brandShortName; ഡിഫോള്‍ട്ട്‌ ബ്രൌസര്‍ ആണോ എന്നത്‌ സ്റ്റാര്‍ട്ട്‌ ചെയ്യുമ്പോള്‍ എല്ലാ തവണയും പരിശോധിക്കുക">
+<!ENTITY alwaysCheckDefault.accesskey "y">
+<!ENTITY alwaysCheckDefault.height "3em">
+<!ENTITY checkNow.label "ഇപ്പോള്‍ ചെക്ക്‌ ചെയ്യുക ">
+<!ENTITY checkNow.accesskey "N">

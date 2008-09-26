@@ -1,0 +1,28 @@
+<!ENTITY find.label "തിരഞ്ഞു കണ്ടെത്തുക">
+<!ENTITY find.accesskey "S">
+<!ENTITY expand.label "വികസിപ്പിക്കുക">
+<!ENTITY expand.accesskey "E">
+<!ENTITY collapse.label "ചുരുക്കുക">
+<!ENTITY collapse.accesskey "C">
+<!ENTITY byDate.label "തിയതി അനുസരിച്ച്‌ ">
+<!ENTITY byDate.accesskey "D">
+<!ENTITY bySite.label "സൈറ്റ്‌ അനുസരിച്ച്‌">
+<!ENTITY bySite.accesskey "S">
+<!ENTITY view.label "കാണുക ">
+<!ENTITY view.accesskey "w">
+<!ENTITY byMostVisited.label "കൂടുതല്‍ തവണ സന്ദര്‍ശിച്ചത്‌ അനുസരിച്ച്‌ ">
+<!ENTITY byMostVisited.accesskey "V">
+<!ENTITY byLastVisited.label "ഒടുവില്‍ സന്ദര്‍ശിച്ചത്‌ അനുസരിച്ച്‌ ">
+<!ENTITY byLastVisited.accesskey "L">
+<!ENTITY byDayAndSite.label "തിയതിയും സൈറ്റും അനുസരിച്ച്‌ ">
+<!ENTITY byDayAndSite.accesskey "t">
+<!ENTITY openLinkInWindow.label "തുറക്കുക">
+<!ENTITY openLinkInWindow.accesskey "O">
+<!ENTITY openInNewTab.label "പുതിയ റ്റാബില്‍ തുറക്കുക">
+<!ENTITY openInNewTab.accesskey "T">
+<!ENTITY openInNewWindow.label "പുതിയ ജാലകത്തില്‍ തുറക്കുക ">
+<!ENTITY openInNewWindow.accesskey "W">
+<!ENTITY bookmarkLink.label "ഈ ലിങ്ക്‌ അടയാളപ്പെടുത്തുക">
+<!ENTITY bookmarkLink.accesskey "B">
+<!ENTITY copyLink.label "ലിങ്ക്ന്റെ വിലാസം പകര്‍ത്തുക">
+<!ENTITY copyLink.accesskey "C">

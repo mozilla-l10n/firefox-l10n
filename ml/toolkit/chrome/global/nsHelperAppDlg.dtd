@@ -1,0 +1,30 @@
+<!ENTITY caption.label "#1 തുറക്കുന്നു">
+
+<!ENTITY intro.label "ഈ ഫയല്‍ &quot;#3&quot;, #2(#1)തരത്തില്‍ പെട്ടതാണ്‌. ഈ ഫയല്‍ എങ്ങനെ കൈകാര്യം ചെയ്യണം എന്ന് #4-ന്‌ അറിയില്ല. ഈ ഫയല്‍ സ്ഥിതി ചെയ്യുന്നിടം: ">
+<!ENTITY intro.noDesc.label "ഈ ഫയല്‍ &quot;#3&quot;, #2തരത്തില്‍ പെട്ടതാണ്‌. ഈ ഫയല്‍ എങ്ങനെ കൈകാര്യം ചെയ്യണം എന്ന് #4-ന്‌ അറിയില്ല. ഈ ഫയല്‍ സ്ഥിതി ചെയ്യുന്നിടം:">
+<!ENTITY intro.attachment.label "&quot;#3&quot;-നെ ഒരു അറ്റാച്ച്‌മന്റ്‌ ആയി കൈകാര്യം ചെയ്യുവാന്‍ സൈറ്റ്‌ നിര്‍ദ്ദേശിച്ചിരിക്കുന്നു. അത്‌ #2(#1)തരത്തില്‍ പെട്ടതാണ്‌, സ്ഥിതിചെയ്യുന്നിടം">
+<!ENTITY intro.attachment.noDesc.label "&quot;#3&quot;-നെ ഒരു അറ്റാച്ച്‌മന്റ്‌ ആയി കൈകാര്യം ചെയ്യുവാന്‍ സൈറ്റ്‌ നിര്‍ദ്ദേശിച്ചിരിക്കുന്നു. അത്‌ #2 തരത്തില്‍ പെട്ടതാണ്‌, സ്ഥിതിചെയ്യുന്നിടം">
+<!ENTITY intro.sniffed.label "ഫയല്‍ &quot;#3&quot; #2 (#1) തരത്തില്‍ പെട്ടതാവാന്‍ സാധ്യതയുണ്ട്‌ എന്ന് #4 കണ്ടെത്തിയിരിക്കുന്നു. ഈ ഫയല്‍ സ്ഥിതി ചെയ്യുന്നിടം:">
+<!ENTITY intro.sniffed.noDesc.label "ഫയല്‍ &quot;#3&quot; #2 തരത്തില്‍ പെട്ടതാവാന്‍ സാധ്യതയുണ്ട്‌ എന്ന് #4 കണ്ടെത്തിയിരിക്കുന്നു. ഈ ഫയല്‍ സ്ഥിതി ചെയ്യുന്നിടം:">
+
+<!ENTITY prompt.label "#1 ഈ ഫയല്‍ കൊണ്ട്‌ എന്തു ചെയ്യും?">
+<!ENTITY alwaysHandle.label "ഈ തരത്തിലുള്ള ഫയലുകള്‍ കൈകാര്യം ചെയ്യുമ്പോള്‍ എപ്പോഴും ഈ നടപടി സ്വീകരിക്കുക">
+<!ENTITY alwaysHandle.accesskey "A">
+<!ENTITY saveToDisk.label "ഡിസ്ക്കിലേക്ക്‌ സൂക്ഷിക്കുക">
+<!ENTITY saveToDisk.accesskey "S">
+
+<!ENTITY useSystemDefault.label "സ്വതവേയുള്ള പ്റയോഗമായ (#1) ഉപയോഗിച്ച് ഈ ഫയല്‍ തുറക്കുക ">
+<!ENTITY useSystemDefault.noDesc.label "സ്വതവേയുള്ള പ്റയോഗമുപയോഗിച്ച് തുറക്കുക">
+
+<!ENTITY useSystemDefault.accesskey "O">
+
+<!ENTITY openUsing.label "ഇത് തുറക്കേണ്ട പ്റയോഗം">
+
+<!ENTITY openUsing.accesskey "w">
+<!ENTITY chooseApp.label "തിരഞ്ഞെടുക്കുക ">
+<!ENTITY chooseApp.accesskey "C">
+
+<!ENTITY chooseAppFilePickerTitle "സഹായത്തിന് ആവശ്യമുള്ള പ്റയോഗം തെരഞ്ഞെടുക്കുക ">
+<!ENTITY badApp "നിങ്ങള്‍ പറഞ്ഞിരിക്കുന്ന പ്റയോഗം  (&quot;#1&quot;) കണ്ടെത്താനായില്ല.  ഫയലിന്റെ പേര്  ശരിയാണോ എന്നുറപ്പാക്കുക അല്ലെങ്കില്‍ മറ്റൊരു പ്റയോഗം തിരഞ്ഞെടുക്കുക.">
+<!ENTITY badApp.title "പ്റയോഗം കണ്ടെത്താനായില്ല ">
+

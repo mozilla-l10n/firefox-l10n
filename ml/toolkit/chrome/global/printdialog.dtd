@@ -1,0 +1,28 @@
+<!ENTITY printButton.label "അച്ചടിക്കുക ">
+<!ENTITY printDialog.title "അച്ചടിക്കുക ">
+<!ENTITY fpDialog.title "ഫയല്‍ സൂക്ഷിക്കുക">
+<!ENTITY fileCheck.label "ഫയലിലേക്ക്‌ അച്ചടിക്കുക">
+<!ENTITY propertiesButton.label "ഗുണവിശേഷതകള്‍...">
+<!ENTITY descText.label "പ്രിന്റര്‍ വിവരണം ">
+<!ENTITY printer.label "പ്രിന്റര്‍">
+
+
+<!ENTITY printerInput.label " പ്റിന്ററിന്റെ പേര്:">
+<!ENTITY printrangeGroup.label "പ്റിന്ററിന്റെ പരിധി">
+
+<!ENTITY allpagesRadio.label "എല്ലാ പേജുകളും ">
+<!ENTITY rangeRadio.label "പേജുകള്‍ ">
+
+
+<!ENTITY frompageInput.label "എവിടെ നിന്നും">
+<!ENTITY topageInput.label "എവിടേക്ക്">
+<!ENTITY selectionRadio.label "തിരഞ്ഞെടുക്കല്‍">
+<!ENTITY copies.label "പകറ്‍പ്പുകള്‍">
+
+<!ENTITY numCopies.label "പകര്‍പ്പുകളൊടെ എണ്ണം ">
+<!ENTITY printframeGroup.label "ഫ്രേയിമുകള്‍ പ്രിന്റ്‌ ചെയ്യുക ">
+<!ENTITY aslaidoutRadio.label "സ്ക്രീനില്‍ നിരത്തിയിരിക്കുന്നതു പോലെ">
+
+<!ENTITY selectedframeRadio.label "തിരഞ്ഞെടുത്ത ഫ്റെയിം">
+
+<!ENTITY eachframesepRadio.label "ഒരോ ഫ്രെയിമും വെവ്വേറെ ">

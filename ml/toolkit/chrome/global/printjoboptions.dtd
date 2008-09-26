@@ -1,0 +1,17 @@
+<!ENTITY printJobOptions.title "പ്രിന്റര്‍ ഗുണവിശേഷതകള്‍">
+<!ENTITY paperInput.label "പപ്പര്‍ വലിപ്പം ">
+<!ENTITY plexInput.label "Plex mode:">
+<!ENTITY resolutionInput.label "Resolution/Quality:">
+<!ENTITY cmdInput.label "Print Command:">
+<!ENTITY jobTitleInput.label "Job Title:">
+<!ENTITY colorGroup.label "കളര്‍ ">
+<!ENTITY grayRadio.label "GreyScale">
+<!ENTITY colorRadio.label "കളര്‍ ">
+<!ENTITY colorspaceInput.label "Colourspace:">
+<!ENTITY fontsGroup.label "ഫോണ്ടുകള്‍ ">
+<!ENTITY downloadFonts.label "പ്രിന്റെറിലേക്ക്‌ ഫോണ്ടുകള്‍ ഡൌണ്‍ലോഡ്‌ ചെയ്യുക? ">
+<!ENTITY edgeMarginInput.label "പേപ്പറിന്റെ അറ്റത്തുനിന്നും മാര്‍ജിനിലേക്കുള്ള വിടവ്‌ ">
+<!ENTITY topInput.label "Top:">
+<!ENTITY bottomInput.label "അടിവശം">
+<!ENTITY leftInput.label "ഇടത്‌">
+<!ENTITY rightInput.label "വലത്‌">

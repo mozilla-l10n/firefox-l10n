@@ -1,0 +1,10 @@
+<!ENTITY window.title "വിട്ടുവീഴ്ചകള്‍">
+<!ENTITY treehead.sitename.label "സൈറ്റ്‌">
+<!ENTITY treehead.status.label "സ്ഥിതി ">
+<!ENTITY addpermission.label "പുതിയ സൈറ്റ്‌ ">
+<!ENTITY removepermission.label "സൈറ്റ് നീക്കം ചെയ്യുക">
+<!ENTITY removeallpermissions.label "എല്ലാ സൈറ്റുകളും നീക്കം ചെയ്യുക">
+<!ENTITY address.label "വെബ്‌ സൈറ്റിന്റെ വിലാസം ">
+<!ENTITY block.label "തടയുക ">
+<!ENTITY session.label "ഈ സെഷന്‌ അനുവദിക്കുക">
+<!ENTITY allow.label "അനുവദിക്കുക ">

@@ -1,0 +1,20 @@
+<!ENTITY safeb.palm.warning.title "വെബ്‌ പകര്‍ത്തല്‍ തട്ടിപ്പ്‌ സംശയിക്കുന്നു">
+<!ENTITY safeb.palm.message.p1 "This page has been reported as a web forgery designed to trick users into sharing personal or financial information. Entering any personal information on this page may result in identity theft or other fraud.  ">
+<!ENTITY safeb.palm.message.p1.linkText "കൂടുതല്‍ വായിക്കുക »">
+<!ENTITY safeb.palm.p1.linkStatusText "കൂടുതല്‍ വായിക്കുക ">
+<!ENTITY safeb.palm.message.p2.start "These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust. You can find out more about ">
+<!ENTITY safeb.palm.message.p2.linkText "&brandShortName എങ്ങനെ താങ്കളെ സംരക്ഷിക്കുന്നു">
+<!ENTITY safeb.palm.message.p2.end "ഫിഷിംഗ്‌ ആക്രമണങ്ങളില്‍ നിന്നും">
+<!ENTITY safeb.palm.accept.label "ഇവിടുന്നു പുറത്തുകടത്തുക!">
+<!ENTITY safeb.palm.accept.statustext "ആസ്ഥാനപേജിലേക്ക്‌ പോകുക">
+<!ENTITY safeb.palm.decline.label "ഈ മുന്നറിയിപ്പ്‌ അവഗണിക്കുക">
+<!ENTITY safeb.palm.decline.statustext "മുന്നറിയിപ്പ്‌ അടയ്ക്കുക">
+<!ENTITY safeb.palm.notforgery.label "ഇതു വെബ്‌ പകര്‍ത്തല്‍ തട്ടിപ്പ്‌ അല്ല">
+<!ENTITY safeb.palm.addbutton.label "കരിമ്പട്ടയിലേക്ക്‌ ചേര്‍ക്കുക">
+<!ENTITY safeb.palm.addbutton.tooltip "കരിമ്പട്ടയിലേക്ക്‌ ചേര്‍ക്കുക">
+<!ENTITY safeb.palm.toolmenu.label "സുരക്ഷിതമായ ബ്രൌസിങ്ങ്‌">
+<!ENTITY safeb.palm.toolmenu.pref.label "മുന്‍ഗണനകള്‍...">
+<!ENTITY safeb.palm.toolmenu.reportphishing.label "Phishing അറിയിക്കുക">
+<!ENTITY safeb.palm.toolmenu.showphishingtestpage.label "പരീക്ഷണ പേജ് തുറക്കുക">
+<!ENTITY safeb.palm.provider.logo.tooltip "സുരക്ഷാ ബ്രൌസിങ്ങിന്റെ മുന്നറിയിപ്പ്‌">
+<!ENTITY safeb.urlbaricon.tooltip "ഈ പേജ്‌ അപകടം നിറഞ്ഞതാകാം; വിശദാംശങ്ങള്‍ക്കായി click ചെയ്യുക">

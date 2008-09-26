@@ -1,0 +1,44 @@
+<!ENTITY window.width "400">
+<!ENTITY window.height "300">
+<!ENTITY done.label "കഴിഞ്ഞിരിക്കുന്നു ">
+<!ENTITY canceled.label "റദ്ദാക്കിയിരിക്കുന്നു ">
+<!ENTITY installing.label "ഇന്‍സ്റ്റോള്‍ ചെയ്തുകൊണ്ടിരിക്കുന്നു">
+<!ENTITY starting.label "തുടങ്ങുന്നു">
+<!ENTITY failed.label "പരാജയപ്പെട്ടിരിക്കുന്നു ">
+<!ENTITY downloads.title "ഡൌണ്‍ലോഡുകള്‍">
+<!ENTITY cmd.pause.label "താല്‍ക്കാലികമായി നിര്‍ത്തുക">
+<!ENTITY cmd.pause.accesskey "P">
+<!ENTITY cmd.resume.label "തുടരുക ">
+<!ENTITY cmd.resume.accesskey "R">
+<!ENTITY cmd.cancel.label "റദ്ദാക്കുക">
+<!ENTITY cmd.cancel.accesskey "C">
+<!ENTITY cmd.show.label "ഉള്‍പെട്ട ഫോള്‍ഡര്‍ തുറക്കുക">
+<!ENTITY cmd.show.labelMac "ഫൈന്‍ഡറില്‍ കാണിക്കുക">
+<!ENTITY cmd.show.accesskey "F">
+<!ENTITY cmd.show.accesskeyMac "F">
+<!ENTITY cmd.open.label "തുറക്കുക">
+<!ENTITY cmd.open.accesskey "O">
+
+<!ENTITY cmd.openWith.label "തുറക്കേണ്ട പ്റയോഗം...">
+
+<!ENTITY cmd.openWith.accesskey "h">
+<!ENTITY cmd.retry.label "വീണ്ടും ശ്രമിക്കുക">
+<!ENTITY cmd.retry.accesskey "R">
+<!ENTITY cmd.remove.label "നീക്കം ചെയ്യുക ">
+<!ENTITY cmd.remove.accesskey "e">
+<!ENTITY cmd.properties.label "ഗുണവിശേഷതകള്‍">
+<!ENTITY cmd.properties.accesskey "i">
+<!ENTITY cmd.info.commandKey "i">
+<!ENTITY cmd.close.commandKey "w">
+<!ENTITY cmd.close2.commandKey "j">
+<!ENTITY cmd.close2Unix.commandKey "y">
+
+<!ENTITY cmd.cleanUp.label "വെടിപ്പാക്കുക">
+<!ENTITY cmd.cleanUp.tooltip "ലിസ്റ്റില്‍ നിന്നും പൂറ്‍ത്തിയാക്കിയതും റദ്ദാക്കിയതും പരാജയപ്പെട്ടതുമായ 
+ഡൌണ്‍ലോടുകള്‍ നീക്കം ചെയ്യുന്നു">
+
+<!ENTITY cmd.cleanUp.accesskey "C">
+<!ENTITY closeWhenDone.label "ഡൌണ്‍ലോഡുകള്‍ കഴിയുമ്പോള്‍ അടയ്ക്കുക ">
+<!ENTITY closeWhenDone.tooltip "എല്ലാ ഫയലുകളും ഡൌണ്‍ലോഡ്‌ ചെയ്തു കഴിയുമ്പോള്‍ ഡൌണ്‍ലോഡ്‌ ജാലകം അടയ്ക്കുക ">
+<!ENTITY filesSavedTo.label "എല്ലാ ഫയലുകളും ഇതിലേക്ക്‌ ഡൌണ്‍ലോഡ്‌ ചെയ്തിരിക്കുന്നു ">
+<!ENTITY showFolder.label "ഈ ഫോള്‍ഡര്‍ കാണിക്കുക ">

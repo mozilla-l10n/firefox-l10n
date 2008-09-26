@@ -1,0 +1,13 @@
+<!ENTITY untitledTab "(തലക്കെട്ടില്ലാത്ത)">
+<!ENTITY newTab.label "പുതിയ റ്റാബ്‌ ">
+<!ENTITY newTab.accesskey "N">
+<!ENTITY closeTab.label "റ്റാബ്‌ അടയ്ക്കുക">
+<!ENTITY closeTab.accesskey "c">
+<!ENTITY closeOtherTabs.accesskey "o">
+<!ENTITY closeOtherTabs.label "മറ്റ്‌ ടാബുകള്‍ അടയ്ക്കുക ">
+<!ENTITY reloadAllTabs.label "എല്ലാ റ്റാബുകളും പുതുക്കുക">
+<!ENTITY reloadAllTabs.accesskey "A">
+<!ENTITY reloadTab.label "റ്റാബ്‌ പുതുക്കുക">
+<!ENTITY reloadTab.accesskey "r">
+<!ENTITY newTabButton.tooltip "പുതിയ റ്റാബ്‌ തുറക്കുക ">
+<!ENTITY listAllTabs.label "എല്ലാ ടാബുകളും ലിസ്റ്റ് ചെയ്യുക ">
