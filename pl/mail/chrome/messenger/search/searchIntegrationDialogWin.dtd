@@ -1,0 +1,6 @@
+<!ENTITY searchIntegration.engineName  "Windows - wyszukiwanie">
+<!ENTITY searchIntegration.title       "Integracja z &searchIntegration.engineName;">
+<!ENTITY searchIntegration.description "Czy włączyć obsługę &searchIntegration.engineName; dla indeksowania i wyszukiwania wiadomości w programie &brandShortName;?">
+
+<!ENTITY searchIntegration.accept      "Włącz obsługę &searchIntegration.engineName;">
+<!ENTITY searchIntegration.cancel      "Nie włączaj obsługi &searchIntegration.engineName;">
