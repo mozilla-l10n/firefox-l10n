@@ -8,6 +8,7 @@
 <!ENTITY removeallpermissions.label   "Alle websites verwijderen">
 <!ENTITY removeallpermissions.accesskey "A">
 <!ENTITY address.label                "Adres van de website:">
+<!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Blokkeren">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "Toestaan voor sessie">

@@ -8,10 +8,10 @@
   useDownloadedList.label convey the meaning "suspected" (and not something like
   "known").
 -->
-<!ENTITY  tellMaybeAttackSite.label     "Mij vertellen of de website die ik bezoek een vermoedelijke aanvalsite is">
+<!ENTITY  tellMaybeAttackSite2.label     "Blokkeer gerapporteerde aanvalsites">
 <!ENTITY  tellMaybeAttackSite.accesskey "a">
 
-<!ENTITY  tellMaybeForgery.label     "Mij vertellen of de website die ik bezoek een vermoedelijke vervalsing is">
+<!ENTITY  tellMaybeForgery2.label     "Blokkeer gerapporteerde web vervalsingen">
 <!ENTITY  tellMaybeForgery.accesskey "v">
 
 <!ENTITY  addonExceptions.label          "Uitzonderingen…">
