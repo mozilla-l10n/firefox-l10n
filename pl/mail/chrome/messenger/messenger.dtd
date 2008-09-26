@@ -646,7 +646,9 @@
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Dodaj adres do książki adresowej">
-<!ENTITY AddToAddressBook.accesskey "D">
+<!ENTITY AddToAddressBook.accesskey "k">
+<!ENTITY AddDirectlyToAddressBook.label     "Dodaj do książki adresowej">
+<!ENTITY AddDirectlyToAddressBook.accesskey "D">
 <!ENTITY EditContact.label          "Edytuj kontakt…">
 <!ENTITY EditContact.accesskey      "E">
 <!ENTITY ViewContact.label          "Wyświetl kontakt">
