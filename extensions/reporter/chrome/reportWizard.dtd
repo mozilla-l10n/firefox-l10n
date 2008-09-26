@@ -31,7 +31,7 @@
 <!ENTITY reportForm.problem_type.item6.title        "Falsche Anzeige">
 <!ENTITY reportForm.problem_type.item7.title        "Anderes Problem">
 <!ENTITY reportForm.problem_type.item8.title        "Zugriff für Behinderte">
-<!ENTITY reportForm.problem_type.item9.title        "Drucker-Augabe ist falsch">
+<!ENTITY reportForm.problem_type.item9.title        "Drucker-Ausgabe ist falsch">
 
 <!ENTITY reportForm.describe.title                  "Problembeschreibung:">
 <!ENTITY reportForm.describe.accesskey              "P">
