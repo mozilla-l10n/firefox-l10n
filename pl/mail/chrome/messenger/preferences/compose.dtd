@@ -54,6 +54,7 @@
 <!ENTITY addressingEnable.accesskey "h">
 <!ENTITY directories.label "na serwerze usług katalogowych:">
 <!ENTITY directories.accesskey "o">
+<!ENTITY directoriesNone.label           "brak">
 <!ENTITY editDirectories.label 			"Edytuj katalogi…">
 <!ENTITY editDirectories.accesskey "E">
 <!ENTITY matchText.label "Jeżeli znaleziono pasującą pozycję w lokalnych książkach adresowych:">
