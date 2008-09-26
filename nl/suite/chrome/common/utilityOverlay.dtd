@@ -77,6 +77,8 @@
 <!ENTITY pac.accesskey                          "a">
 <!ENTITY wpad.label                             "Online (proxy: autodetectie)">
 <!ENTITY wpad.accesskey                         "d">
+<!ENTITY system.label                                   "Online (Proxy: Systeemproxy)">
+<!ENTITY system.accesskey                               "S">
 
 <!ENTITY proxy.label                            "Proxyconfiguratie…">
 <!ENTITY proxy.accesskey                        "P">

@@ -9,6 +9,3 @@
 
 <!ENTITY  filter.label            "Zoeken:">
 <!ENTITY  filter.accesskey        "Z">
-
-<!ENTITY  clear.label             "Wissen">
-<!ENTITY  clear.accesskey         "W">
