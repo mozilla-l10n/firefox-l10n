@@ -36,16 +36,16 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Tabel invoegen">
+<!ENTITY windowTitle.label "Tabel ynfoegje">
 
-<!ENTITY size.label "Grootte">
-<!ENTITY numRowsEditField.label "Rijen:">
+<!ENTITY size.label "Grutte">
+<!ENTITY numRowsEditField.label "Rigen:">
 <!ENTITY numRowsEditField.accessKey "R">
 <!ENTITY numColumnsEditField.label "Kolommen:">
 <!ENTITY numColumnsEditField.accessKey "K">
 <!ENTITY widthEditField.label "Breedte:">
 <!ENTITY widthEditField.accessKey "B">
-<!ENTITY borderEditField.label "Rand:">
-<!ENTITY borderEditField.accessKey "a">
-<!ENTITY borderEditField.tooltip "Typ een nummer voor de tabelrand, of typ nul (0) voor geen rand">
-<!ENTITY pixels.label "pixels">
+<!ENTITY borderEditField.label "Râne:">
+<!ENTITY borderEditField.accessKey "n">
+<!ENTITY borderEditField.tooltip "Typ in nûmer foar de tabelrâne, of typ nul (0) foar gjin râne">
+<!ENTITY pixels.label "piksels">

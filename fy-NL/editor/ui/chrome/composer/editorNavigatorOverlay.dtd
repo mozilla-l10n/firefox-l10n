@@ -1,7 +1,7 @@
 
 <!ENTITY editPageCmd.label                "Side bewurkje yn Composer"> 
-<!ENTITY editPageCmd.accesskey            "e">
+<!ENTITY editPageCmd.accesskey            "b">
 
 <!ENTITY editLinkCmd.label                "Keppeling bewurkje yn Composer">
-<!ENTITY editLinkCmd.accesskey            "E">
+<!ENTITY editLinkCmd.accesskey            "C">
 

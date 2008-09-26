@@ -21,7 +21,7 @@
 <!ENTITY background.accesskey       "E">
 <!ENTITY colon.character            ":">
 
-<!ENTITY backgroundImage.label      "Eftergrûndôfbylding:">
+<!ENTITY backgroundImage.label      "Eftergrûnôfbylding:">
 <!ENTITY backgroundImage.accesskey  "f">
 <!ENTITY chooseFile.label           "Bestân kieze...">
 <!ENTITY chooseFile.accesskey       "k">

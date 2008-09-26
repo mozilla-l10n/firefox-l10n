@@ -37,13 +37,13 @@
 
 <!ENTITY AdvancedEditButton.label "Avanseard bewurkje...">
 <!ENTITY AdvancedEditButton.accessKey "s">
-<!ENTITY AdvancedEditButton.tooltip "Tafoegjen of oanpasse fan HTML-attributen, stylattributen en JavaSkript">
+<!ENTITY AdvancedEditButton.tooltip "Tafoegje of oanpasse fan HTML-attributen, stylattributen en JavaSkript">
 <!ENTITY chooseButton.label "Bestân kieze...">
 <!ENTITY chooseFile.accessKey "k">
 <!ENTITY chooseFileLink.accessKey "k">
 <!ENTITY makeUrlRelative.label "URL is relatief ten opsichte fan sidelokaasje">
 <!ENTITY makeUrlRelative.accessKey "U">
-<!ENTITY makeUrlRelative.tooltip "Wikselje tusken relatieve en absolute URL. Jo moatte de side earst bewarje om hjirtusken te wikseljen kinne.">
+<!ENTITY makeUrlRelative.tooltip "Wikselje tusken relatieve en absolute URL. Jo moatte de side earst bewarje om hjirtusken wikseljen te kinne.">
 
 <!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.accessKey "l">

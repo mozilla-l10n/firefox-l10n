@@ -34,47 +34,47 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Formulierveldeigenschappen">
-<!ENTITY windowTitleImage.label "Formulierafbeeldingseigenschappen">
+<!ENTITY windowTitle.label "Formulierfjildeigenskippen">
+<!ENTITY windowTitleImage.label "Formulierôfbyldingseigenskippen">
 
-<!ENTITY InputType.label "Veldtype">
+<!ENTITY InputType.label "Fjildtype">
 <!ENTITY InputType.accesskey "t">
 <!ENTITY text.value "Tekst">
-<!ENTITY password.value "Paswoord">
-<!ENTITY checkbox.value "Vakje">
+<!ENTITY password.value "Wachtwurd">
+<!ENTITY checkbox.value "Fakje">
 <!ENTITY radio.value "Radioknop">
-<!ENTITY submit.value "Verzendknop">
-<!ENTITY reset.value "Wisknop">
-<!ENTITY file.value "Bestand">
-<!ENTITY hidden.value "Verborgen">
-<!ENTITY image.value "Afbeelding">
+<!ENTITY submit.value "Ferstjoerknop">
+<!ENTITY reset.value "Wiskknop">
+<!ENTITY file.value "Bestân">
+<!ENTITY hidden.value "Ferstoppe">
+<!ENTITY image.value "Ofbylding">
 <!ENTITY button.value "Knop">
 
-<!ENTITY InputSettings.label "Veldinstellingen">
-<!ENTITY InputName.label "Veldnaam:">
-<!ENTITY GroupName.label "Groepsnaam:">
+<!ENTITY InputSettings.label "Fjildynstellings">
+<!ENTITY InputName.label "Fjildnamme:">
+<!ENTITY GroupName.label "Groepsnamme:">
 <!ENTITY Name.accesskey "n">
-<!ENTITY InputValue.label "Veldwaarde:">
-<!ENTITY InitialValue.label "Initiële waarde:">
-<!ENTITY Value.accesskey "I">
-<!ENTITY InputChecked.label "Initieel aangevinkt">
-<!ENTITY InputChecked.accesskey "a">
-<!ENTITY InputSelected.label "Initieel geselecteerd">
+<!ENTITY InputValue.label "Fjildwearde:">
+<!ENTITY InitialValue.label "Ynisjele wearde:">
+<!ENTITY Value.accesskey "Y">
+<!ENTITY InputChecked.label "Ynisjeel oanfinkt">
+<!ENTITY InputChecked.accesskey "o">
+<!ENTITY InputSelected.label "Ynisjeel selektearre">
 <!ENTITY InputSelected.accesskey "s">
-<!ENTITY InputReadOnly.label "Alleen lezen">
+<!ENTITY InputReadOnly.label "Allinnic lêze">
 <!ENTITY InputReadOnly.accesskey "l">
-<!ENTITY InputDisabled.label "Uitgeschakeld">
+<!ENTITY InputDisabled.label "Utskeakele">
 <!ENTITY InputDisabled.accesskey "U">
-<!ENTITY tabIndex.label "Tabindex:">
-<!ENTITY tabIndex.accesskey "i">
-<!ENTITY TextSize.label "Veldgrootte:">
+<!ENTITY tabIndex.label "Tabyndeks:">
+<!ENTITY tabIndex.accesskey "y">
+<!ENTITY TextSize.label "Fjildgrutte:">
 <!ENTITY TextSize.accesskey "g">
-<!ENTITY TextLength.label "Maximumlengte:">
+<!ENTITY TextLength.label "Maksimumlingte:">
 <!ENTITY TextLength.accesskey "l">
-<!ENTITY AccessKey.label "Sneltoets:">
+<!ENTITY AccessKey.label "Fluchtoets:">
 <!ENTITY AccessKey.accesskey "t">
-<!ENTITY Accept.label "Geaccepteerde types:">
+<!ENTITY Accept.label "Akseptearre typen:">
 <!ENTITY Accept.accesskey "a">
 
-<!ENTITY ImageProperties.label "Afbeeldingseigenschappen...">
+<!ENTITY ImageProperties.label "Ofbyldingseigenskippen...">
 <!ENTITY ImageProperties.accesskey "e">

@@ -56,6 +56,6 @@
 <!ENTITY background.label "Eftergrûn:">
 <!ENTITY background.accessKey "t">
 <!ENTITY colon.character ":">
-<!ENTITY backgroundImage.label "Eftergrûndôfbylding:">
+<!ENTITY backgroundImage.label "Eftergrûnôfbylding:">
 <!ENTITY backgroundImage.accessKey "f">
 <!ENTITY backgroundImage.tooltip "In ôfbyldingsbestân as eftergrûn foar jo side brûke">
