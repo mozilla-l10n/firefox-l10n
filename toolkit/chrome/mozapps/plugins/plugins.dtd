@@ -14,3 +14,5 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label "Más acerca de Plugins o buscar manualmente los plugins que faltan.">
 <!ENTITY pluginWizard.finalPage.restart.label "Se necesita reiniciar &brandShortName; para que funcionen los plugins.">
 <!ENTITY missingPlugin.label "Pulsar aquí para descargar el plugin.">
+<!ENTITY disabledPlugin.label "Se ha desactivado el plugin para este contenido. Pulse aquí para administrar sus plugins.">
+<!ENTITY blockedPlugin.label "Se ha bloqueado este plugin para su protección.">
