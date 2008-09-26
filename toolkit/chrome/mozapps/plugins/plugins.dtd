@@ -21,3 +21,5 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; moet opnieuw worden opgestart om de plug-in(s) te laten werken.">
 
 <!ENTITY missingPlugin.label                                 "Klik hier om de plug-in te downloaden.">
+<!ENTITY disabledPlugin.label                                "De plug-in voor deze inhoud is uitgeschakeld. Klik hier om uw plug-ins te beheren.">
+<!ENTITY blockedPlugin.label                                 "Deze plug-in is geblokkeerd voor uw bescherming.">
