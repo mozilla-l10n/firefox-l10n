@@ -1,0 +1,7 @@
+
+<!ENTITY editPageCmd.label                "සකසනය තුළ පිටුව සැකසීම"> 
+<!ENTITY editPageCmd.accesskey            "e">
+
+<!ENTITY editLinkCmd.label                "සකසනය තුළ සබැඳිය සැකසීම">
+<!ENTITY editLinkCmd.accesskey            "E">
+
