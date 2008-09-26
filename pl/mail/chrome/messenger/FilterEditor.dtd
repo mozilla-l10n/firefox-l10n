@@ -11,7 +11,11 @@
 <!ENTITY highPriorityCmd.label "Wysoki">
 <!ENTITY highestPriorityCmd.label "Najwyższy">
 
-<!ENTITY conditionDesc.label "W stosunku do przychodzących wiadomości:">
+<!ENTITY contextDesc.label          "Stosuj filtr podczas:">
+<!ENTITY contextDesc.accesskey      "S">
+<!ENTITY contextIncoming.label      "Sprawdzania poczty">
+<!ENTITY contextManual.label        "Ręcznego uruchamiania">
+<!ENTITY contextBoth.label          "Sprawdzania poczty lub ręcznego uruchamiania">
 <!ENTITY filterActionDesc.label 	"…wykonaj następujące czynności:">
 <!ENTITY filterActionDesc.accesskey "y">
 
