@@ -1,7 +1,7 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Pobrane wiadomości przechowywane są lokalnie na komputerze użytkownika. Aby zaoszczędzić miejsce na dysku:">
 <!ENTITY doNotDownload.label "Wiadomości udostępniane w trybie offline przechowywane są lokalnie na komputerze użytkownika. Aby zaoszczędzić miejsce na dysku:">
-<!ENTITY offlineNewFolder.label "Tworząc nowe foldery automatycznie dodawaj je do listy folderów dostępnych offline">
-<!ENTITY offlineNewFolder.accesskey "f">
+<!ENTITY allFoldersOffline.label       "Przechowuj wiadomości dla tego konta lokalnie na komputerze">
+<!ENTITY allFoldersOffline.accesskey   "k">
 <!ENTITY offlineNotDownload.label "Nie pobieraj wiadomości większych niż">
 <!ENTITY offlineNotDownload.accesskey "p">
 <!ENTITY kb.label "KB">
@@ -25,10 +25,7 @@
 <!ENTITY nntpRemoveBody.accesskey "U">
 <!ENTITY offlineSelectNntp.label 		"Wybierz grupy dostępne w trybie offline…">
 <!ENTITY offlineSelectNntp.accesskey 		"g">
-<!ENTITY offlineSelectImap.label 		"Wybierz foldery dostępne w trybie offline…">
-<!ENTITY offlineSelectImap.accesskey 		"f">
-<!ENTITY offlineDesc.label "Wiadomości wybranych kont i folderów mogą zostać pobrane z serwera, aby były dostępne w trybie offline. Naciśnij poniższy przycisk, aby dokonać wyboru, które konta lub grupy dyskusyjne będą dostępne w trybie offline.">
-<!ENTITY makeInboxMsgsAvailable.label "Udostępnij wiadomości folderu Odebrane w trybie offline">
-<!ENTITY makeInboxMsgsAvailable.accesskey "b">
-<!ENTITY offlineGroupTitle.label "Tryb offline">
+<!ENTITY offlineImapAdvancedOffline.label     "Zaawansowane…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "Z">
+<!ENTITY syncGroupTitle.label                 "Synchronizacja wiadomości">
 <!ENTITY diskspaceGroupTitle.label "Miejsce na dysku">
