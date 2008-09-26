@@ -309,15 +309,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Lupa">
 <!ENTITY fullZoom.accesskey             "L">
 
-<!ENTITY newTabButton.tooltip "Otvorí novú kartu">
-<!ENTITY newWindowButton.tooltip "Otvorí nové okno">
-<!ENTITY sidebarCloseButton.tooltip "Zavrieť bočný panel">
+<!ENTITY newWindowButton.tooltip        "Otvorí nové okno">
+<!ENTITY sidebarCloseButton.tooltip     "Zavrieť bočný panel">
 
-<!ENTITY cutButton.tooltip "Vystrihnúť">
-<!ENTITY copyButton.tooltip "Kopírovať">
-<!ENTITY pasteButton.tooltip "Prilepiť">
+<!ENTITY cutButton.tooltip              "Vystrihnúť">
+<!ENTITY copyButton.tooltip             "Kopírovať">
+<!ENTITY pasteButton.tooltip            "Prilepiť">
 
-<!ENTITY quitApplicationCmdWin.label "Koniec">
+<!ENTITY quitApplicationCmdWin.label    "Koniec">
 <!ENTITY quitApplicationCmdWin.accesskey "K">
 <!ENTITY goBackCmd.commandKey          "[">
 <!ENTITY goForwardCmd.commandKey       "]">

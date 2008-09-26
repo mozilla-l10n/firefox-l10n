@@ -1,6 +1,8 @@
 <!-- extracted from content/preftree.xul -->
 
 <!--LOCALIZATION NOTE : FILE Lists preferences categories that appear on the left of the preferences dialog -->
+<!ENTITY prefWindow.title "Možnosti">
+<!ENTITY categoryHeader "Kategória">
 <!ENTITY appear.label "Vzhľad">
 <!ENTITY content.label "Obsah">
 <!ENTITY fonts.label "Písma">
