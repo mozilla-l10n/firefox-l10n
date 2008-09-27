@@ -38,7 +38,7 @@
 <!ENTITY editTagButton.label "Modifica">
 <!ENTITY editTagButton.accesskey "M">
 <!ENTITY removeTagButton.label "Elimina">
-<!ENTITY removeTagButton.accesskey "C">
+<!ENTITY removeTagButton.accesskey "i">
 <!ENTITY fontAndEncodingsDescription.label "Impostazione dei caratteri e della codifica usata da &brandShortName;">
 <!ENTITY fontsAndEncodingsCaption.label "Caratteri e codifica">
 <!ENTITY fontOptions.accesskey "C">

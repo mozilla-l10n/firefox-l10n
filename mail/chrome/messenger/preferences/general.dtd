@@ -8,7 +8,7 @@
 <!ENTITY enableStartPage.label "All'apertura di &brandShortName; mostra la pagina iniziale nell'area messaggi">
 <!ENTITY enableStartPage.accesskey "d">
 <!ENTITY location.label "Posizione:">
-<!ENTITY location1.accesskey "o">
+<!ENTITY location1.accesskey "z">
 <!ENTITY useDefault.label "Ripristina predefinita">
 <!ENTITY useDefault.accesskey "R">
 <!ENTITY bounceSystemDockIcon.label "Anima l'icona nel dock">

@@ -37,7 +37,7 @@
 <!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "giorni">
 <!ENTITY deleteOnServer2.label "finchè non vengono eliminati">
-<!ENTITY deleteOnServer2.accesskey "z">
+<!ENTITY deleteOnServer2.accesskey "h">
 <!ENTITY downloadOnBiff.label "Scarica automaticamente nuovi messaggi">
 <!ENTITY downloadOnBiff.accesskey "m">
 <!ENTITY hostname.label "Nome server">

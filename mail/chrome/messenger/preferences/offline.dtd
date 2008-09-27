@@ -8,14 +8,14 @@
 <!ENTITY radioAlwaysOnline.accesskey "l">
 <!ENTITY textGoingOnline "Invia i messaggi in attesa subito dopo essersi collegati?">
 <!ENTITY radioAutoSend.label "Si">
-<!ENTITY radioAutoSend.accesskey "ì">
+<!ENTITY radioAutoSend.accesskey "S">
 <!ENTITY radioNotSend.label "No">
 <!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent.label "Chiedimelo">
 <!ENTITY radioAskUnsent.accesskey "c">
 <!ENTITY textGoingOffline "Scarica i messaggi per essere usati non in linea quando ci si scollega?">
 <!ENTITY radioAutoDownload.label "Si">
-<!ENTITY radioAutoDownload.accesskey "ì">
+<!ENTITY radioAutoDownload.accesskey "i">
 <!ENTITY radioNotDownload.label "No">
 <!ENTITY radioNotDownload.accesskey "o">
 <!ENTITY radioAskDownload.label "Chiedere">
