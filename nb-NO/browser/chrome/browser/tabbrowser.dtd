@@ -16,3 +16,4 @@
 <!ENTITY  bookmarkThisTab.accesskey   "k">
 <!ENTITY  undoCloseTab.label          "Angre lukking av fane">
 <!ENTITY  undoCloseTab.accesskey      "n">
+<!ENTITY  newTabButton.tooltip        "Åpner en ny fane">

@@ -21,3 +21,5 @@
 <!ENTITY pluginWizard.finalPage.restart.label               "&brandShortName; må startes på nytt for at programtillegget/ene skal fungere.">
 
 <!ENTITY missingPlugin.label                                 "Trykk her for å laste ned programtillegget.">
+<!ENTITY disabledPlugin.label                                "Programtillegget for denne innholdstypen er avslått. Trykk her for å behandle programtilleggene dine.">
+<!ENTITY blockedPlugin.label                                 "Dette programtillegget er blokkert for å beskytte deg.">
