@@ -21,3 +21,5 @@
 <!ENTITY pluginWizard.finalPage.restart.label "Pro dokončení instalace zásuvného modulu je potřeba aplikaci &brandShortName; restartovat.">
 
 <!ENTITY missingPlugin.label "Klepněte zde pro stažení chybějícího zásuvného modulu.">
+<!ENTITY disabledPlugin.label "Zásuvný modul pro tento obsah byl zakázán. Klepněte zde pro správu vašich zásuvných modulů.">
+<!ENTITY blockedPlugin.label "Tento zásuvný modul je z důvodů vaší ochrany zabokován.">
