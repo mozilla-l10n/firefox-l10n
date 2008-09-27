@@ -53,3 +53,5 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; måste startas om för att insticksmodulerna ska fungera.">
   
 <!ENTITY missingPlugin.label                                 "Klicka här för att hämta insticksmodulen.">
+<!ENTITY disabledPlugin.label                                "Insticksmodulen för den här typen av innehåll har avaktiverats. Klicka här för att hantera dina insticksmoduler.">
+<!ENTITY blockedPlugin.label                                 "Den här insticksmodulen är blockerad av säkerhetsskäl.">
