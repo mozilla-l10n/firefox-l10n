@@ -186,7 +186,7 @@
 <!ENTITY bccAddr.label "Ccn:">
 <!ENTITY replyAddr.label "Rispondi a:">
 <!ENTITY newsgroupsAddr.label "Gruppo discussione:">
-<!ENTITY followupAddr.label "Seguito a:">
+<!ENTITY followupAddr.label "Inoltra a:">
 <!ENTITY subject.label "Oggetto:">
 <!ENTITY subject.accesskey "g">
 <!ENTITY attachments.label "Allegati:">
