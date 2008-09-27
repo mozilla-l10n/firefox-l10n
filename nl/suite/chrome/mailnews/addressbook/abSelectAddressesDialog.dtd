@@ -55,8 +55,6 @@
 <!ENTITY lookIn.label                        "Kijk in:">
 <!ENTITY for.accesskey                       "o">
 <!ENTITY for.label                           "voor:">
-<!ENTITY clearButton.accesskey               "W">
-<!ENTITY clearButton.label                   "Wissen">
 <!ENTITY addressMessageTo.label              "Bericht adresseren aan:">
 
 <!-- Tooltips items -->  

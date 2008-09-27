@@ -16,7 +16,7 @@
 <!ENTITY contextDesc.accesskey "a">
 <!ENTITY contextIncoming.label "Controleren van E-mail">
 <!ENTITY contextManual.label "Handmatig activeren">
-<!ENTITY contextBoth.label "Cotroleren van E-mail of handmatig activeren">
+<!ENTITY contextBoth.label "Controleren van E-mail of handmatig activeren">
 <!ENTITY filterActionDesc.label "Deze acties uitvoeren:">
 <!ENTITY filterActionDesc.accesskey "V">
 

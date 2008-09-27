@@ -50,6 +50,7 @@
 <!ENTITY autocompleteText.label                "Kijk tijdens het adresseren van berichten naar overeenkomende items in:">
 <!ENTITY directories.label                     "Mapserver:">
 <!ENTITY directories.accesskey                 "M">
+<!ENTITY directoriesNone.label                 "Geen">
 <!ENTITY editDirectories.label                 "Mappen bewerken…">
 <!ENTITY editDirectories.accesskey             "E">
 <!ENTITY matchText.label                       "Als er een overeenkomst is in uw lokale adresboeken:">
