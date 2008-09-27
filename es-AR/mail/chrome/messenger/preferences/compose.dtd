@@ -5,38 +5,38 @@
 
 <!ENTITY forwardReply.label                   "Reenviar mensajes">
 <!ENTITY forwardMsg.label                     "Reenviar mensajes:">
-<!ENTITY forwardMsg.accesskey                 "f">
+<!ENTITY forwardMsg.accesskey                 "m">
 <!ENTITY inline.label                         "Incorporado">
 <!ENTITY inline.accesskey                     "I">
 <!ENTITY asAttachment.label                   "Como adjunto">
-<!ENTITY asAttachment.accesskey               "A">
+<!ENTITY asAttachment.accesskey               "a">
 <!ENTITY addExtension.label                   "agregar la extensión al nombre de archivo">
-<!ENTITY addExtension.accesskey               "f">
+<!ENTITY addExtension.accesskey               "n">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Tipografía:">
-<!ENTITY font.accesskey                       "n">
+<!ENTITY font.accesskey                       "g">
 <!ENTITY size.label                           "Tamaño:">
-<!ENTITY size.accesskey                       "z">
+<!ENTITY size.accesskey                       "T">
 <!ENTITY fontColor.label                      "Color del texto:">
 <!ENTITY fontColor.accesskey                  "x">
 <!ENTITY bgColor.label                        "Color de fondo:">
-<!ENTITY bgColor.accesskey                    "B">
+<!ENTITY bgColor.accesskey                    "f">
 <!ENTITY restoreHTMLDefaults.label            "Restaurar predeterminados">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
 
 <!ENTITY sendingMessagesHeader.label          "Escribiendo mensajes">
 <!ENTITY spellCheck.label                     "Verificar ortografía antes de enviar">
-<!ENTITY spellCheck.accesskey                 "C">
-<!ENTITY spellCheckInline.label               "Habilitar ortografía mientras se escribe">
-<!ENTITY spellCheckInline1.accesskey           "n">
+<!ENTITY spellCheck.accesskey                 "V">
+<!ENTITY spellCheckInline.label               "Verificar ortografía mientras se escribe">
+<!ENTITY spellCheckInline1.accesskey           "e">
 <!ENTITY languagePopup.label                  "Idioma:">
-<!ENTITY languagePopup.accessKey              "g">
+<!ENTITY languagePopup.accessKey              "I">
 <!ENTITY downloadDictionaries.label           "Descargar más diccionarios">
 
 <!ENTITY warnOnSendAccelKey.label             "Confirmar cuando se usan atajos de teclados para enviar mensajes">
-<!ENTITY warnOnSendAccelKey.accesskey         "i">
-<!ENTITY autoSave.label                       "Guardar todo automáticamente">
+<!ENTITY warnOnSendAccelKey.accesskey         "C">
+<!ENTITY autoSave.label                       "Guardar todo automáticamente cada">
 <!ENTITY autoSave.accesskey                   "u">
 <!ENTITY autoSaveEnd.label                    "minutos">
 <!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
@@ -45,13 +45,13 @@
 <!ENTITY char.label                           "caracteres">
 
 <!ENTITY emailCollectionPicker.label           "Añadir automáticamente las direcciones de correo salientes a mi:">
-<!ENTITY emailCollectionPicker.accesskey       "t">
+<!ENTITY emailCollectionPicker.accesskey       "s">
 <!ENTITY addressingTitle.label                 "Autocompletar direcciones">
 <!ENTITY autocompleteText.label                "Al escribir una dirección, buscar coincidencias en:">
 <!ENTITY addressingEnable.label                "Libretas de direcciones locales">
-<!ENTITY addressingEnable.accesskey            "A">
+<!ENTITY addressingEnable.accesskey            "d">
 <!ENTITY directories.label                     "Servidor de directorios:">
-<!ENTITY directories.accesskey                 "D">
+<!ENTITY directories.accesskey                 "S">
 <!ENTITY directoriesNone.label                 "Ninguno">
 <!ENTITY editDirectories.label                 "Editar directorios…">
 <!ENTITY editDirectories.accesskey             "E">

@@ -1,6 +1,6 @@
 <!ENTITY itemGeneral.label       "General">
 <!ENTITY itemUpdate.label        "Actualización">
-<!ENTITY itemNetworking.label    "Red &amp; espacio en disco">
+<!ENTITY itemNetworking.label    "Red y espacio en disco">
 <!ENTITY itemCertificates.label  "Certificados">
 
 <!-- General Settings -->
@@ -19,24 +19,24 @@
 <!ENTITY markAsReadDelay.accesskey     "e">
 <!ENTITY secondsLabel.label            "segundos">
 <!ENTITY showFolderColumns.label       "Mostrar columnas expandidas en la vista de carpetas">
-<!ENTITY showFolderColumns.accesskey   "x">
+<!ENTITY showFolderColumns.accesskey   "v">
 <!ENTITY rememberLastMsg.label         "Recordar el último mensaje seleccionado">
 <!ENTITY rememberLastMsg.accesskey     "j">
 <!ENTITY openMsgIn.label               "Abrir los menajes en:">
 <!ENTITY reuseExpRadio0.label          "Una nueva ventana de mensaje">
-<!ENTITY reuseExpRadio0.accesskey      "i">
+<!ENTITY reuseExpRadio0.accesskey      "U">
 <!ENTITY reuseExpRadio1.label          "Una ventana de mensaje existente">
 <!ENTITY reuseExpRadio1.accesskey      "x">
 <!ENTITY reuseExpRadio2.label          "Una nueva pestaña de mensaje">
-<!ENTITY reuseExpRadio2.accesskey      "Z">
+<!ENTITY reuseExpRadio2.accesskey      "p">
 <!ENTITY connectionTimeout.label       "Tiempo de espera de conexión: ">
 <!ENTITY connectionTimeout.accesskey   "C">
 <!ENTITY connectionSeconds.label       "segundos">
 <!ENTITY configEditDesc.label          "Configuración avanzada">
-<!ENTITY configEdit.label              "Editor de configuración...">
+<!ENTITY configEdit.label              "Editor de configuración…">
 <!ENTITY configEdit.accesskey          "g">
 <!ENTITY returnReceiptsInfo.label      "Determine cómo &brandShortName; maneja los avisos de recepción">
-<!ENTITY showReturnReceipts.label      "Avisos de recepción...">
+<!ENTITY showReturnReceipts.label      "Avisos de recepción…">
 <!ENTITY showReturnReceipts.accesskey  "R">
 
 <!-- Update -->
@@ -44,31 +44,31 @@
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "T">
 <!ENTITY enableAddonsUpdate.label    "Agregados instalados">
-<!ENTITY enableAddonsUpdate.accesskey "M">
-<!ENTITY checkNow.label                 "Buscar ahora...">
+<!ENTITY enableAddonsUpdate.accesskey "i">
+<!ENTITY checkNow.label                 "Buscar ahora…">
 <!ENTITY whenUpdatesFound.label         "Cuando se encuentren actualizaciones para &brandShortName;,">
 <!ENTITY modeAskMe.label                "Preguntarme qué hacer">
-<!ENTITY modeAskMe.accesskey            "A">
+<!ENTITY modeAskMe.accesskey            "h">
 <!ENTITY modeAutomatic.label            "Descargar e instalar automáticamente la actualización">
 <!ENTITY modeAutomatic.accesskey        "d">
 <!ENTITY modeAutoAddonWarn.label             "Advertirme si se deshabilitarán extensiones o temas">
-<!ENTITY modeAutoAddonWarn.accesskey         "v">
+<!ENTITY modeAutoAddonWarn.accesskey         "t">
 <!ENTITY showUpdates.label              "Mostrar el historial de actualizaciones">
 <!ENTITY showUpdates.accesskey          "u">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showConnections.label         "Conexión...">
+<!ENTITY showConnections.label         "Conexión…">
 <!ENTITY showConnections.accesskey     "n">
 <!ENTITY proxiesInfo.label             "Determine como &brandShortName; se conecta a Internet.">
 <!ENTITY connectionsInfo.caption       "Conexión">
 <!ENTITY offlineInfo.caption           "Sin conexión">
 <!ENTITY offlineInfo.label             "Configure las opciones 'Sin conexión'">
-<!ENTITY showOffline.label             "Sin conexión...">
-<!ENTITY showOffline.accesskey         "O">
+<!ENTITY showOffline.label             "Sin conexión…">
+<!ENTITY showOffline.accesskey         "S">
 
 <!ENTITY Diskspace "Espacio en disco">
 <!ENTITY offlineCompact.label "Compactar carpetas cuando se recuperarán más de">
-<!ENTITY offlineCompact.accesskey "v">
+<!ENTITY offlineCompact.accesskey "e">
 <!ENTITY kb.label "KB">
 
 <!-- Certificates -->

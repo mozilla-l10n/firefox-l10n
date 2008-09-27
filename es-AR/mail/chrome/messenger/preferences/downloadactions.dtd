@@ -15,7 +15,7 @@
 
 <!ENTITY  remove.label                        "Remover acción">
 <!ENTITY  remove.accesskey                    "R">
-<!ENTITY  edit.label                          "Cambiar acción...">
+<!ENTITY  edit.label                          "Cambiar acción…">
 <!ENTITY  edit.accesskey                      "C">
 
 <!ENTITY  windowClose.key                     "w">
@@ -28,5 +28,5 @@
 <!ENTITY  clear.accesskey                     "l">
 
 <!ENTITY  button.close.label                  "Cerrar">
-<!ENTITY  button.close.accesskey              "o">
+<!ENTITY  button.close.accesskey              "e">
 

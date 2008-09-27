@@ -96,7 +96,7 @@ The Initial Developer of the Original Code is
 <!ENTITY CellularNumber.accesskey "M">
 
 <!ENTITY Address.tab "Dirección">
-<!ENTITY Address.accesskey              "A">
+<!ENTITY Address.accesskey              "D">
 <!ENTITY Home.box "Casa">
 <!ENTITY HomeAddress.label "Dirección:">
 <!ENTITY HomeAddress.accesskey          "d">
@@ -107,9 +107,9 @@ The Initial Developer of the Original Code is
 <!ENTITY HomeState.label "Provincia/estado:">
 <!ENTITY HomeState.accesskey            "S">
 <!ENTITY HomeZipCode.label "Código postal:">
-<!ENTITY HomeZipCode.accesskey          "Z">
+<!ENTITY HomeZipCode.accesskey          "g">
 <!ENTITY HomeCountry.label "País:">
-<!ENTITY HomeCountry.accesskey          "u">
+<!ENTITY HomeCountry.accesskey          "P">
 <!ENTITY HomeWebPage.label "Página web:">
 <!ENTITY HomeWebPage.accesskey          "W">
 <!ENTITY Work.box "Trabajo">
@@ -130,7 +130,7 @@ The Initial Developer of the Original Code is
 <!ENTITY WorkZipCode.label "Código postal:">
 <!ENTITY WorkZipCode.accesskey          "P">
 <!ENTITY WorkCountry.label "País:">
-<!ENTITY WorkCountry.accesskey          "n">
+<!ENTITY WorkCountry.accesskey          "a">
 <!ENTITY WorkWebPage.label "Página web:">
 <!ENTITY WorkWebPage.accesskey          "b">
 

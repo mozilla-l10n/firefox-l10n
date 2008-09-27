@@ -5,20 +5,20 @@
 <!ENTITY neverAsk.accesskey           "S">
 <!ENTITY desktop.label                "Escritorio">
 <!ENTITY downloads.label              "Mis descargas">
-<!ENTITY chooseFolderWin.label        "Examinar...">
-<!ENTITY chooseFolderWin.accesskey    "B">
-<!ENTITY chooseFolderMac.label        "Elegir...">
-<!ENTITY chooseFolderMac.accesskey    "C">
+<!ENTITY chooseFolderWin.label        "Examinar…">
+<!ENTITY chooseFolderWin.accesskey    "x">
+<!ENTITY chooseFolderMac.label        "Elegir…">
+<!ENTITY chooseFolderMac.accesskey    "E">
 
 
 <!ENTITY fileTypes.label              "Acciones de descarga">
-<!ENTITY configureActions.label       "Ver y editar acciones...">
+<!ENTITY configureActions.label       "Ver y editar acciones…">
 <!ENTITY configureActions.accesskey   "V">
 <!ENTITY fileTypesDescription.label   "&brandShortName; puede abrir o guardar adjuntos de los siguientes tipos automáticamente.">
 
 <!ENTITY fileTypeColName.label              "Tipos de archivo">
 <!ENTITY fileHandlerColName.label     "Aplicación">
-<!ENTITY editFileHandler.label        "Cambiar acción...">
+<!ENTITY editFileHandler.label        "Cambiar acción…">
 <!ENTITY editFileHandler.accesskey    "a">
 <!ENTITY removeFileHandler.label      "Borrar">
 <!ENTITY removeFileHandler.accesskey  "r">

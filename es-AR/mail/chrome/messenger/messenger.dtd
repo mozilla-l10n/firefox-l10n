@@ -50,7 +50,7 @@
 <!ENTITY importCmd.label "Importar…">
 <!ENTITY importCmd.accesskey "p">
 <!ENTITY offlineMenu.label "Sin conexión">
-<!ENTITY offlineMenu.accesskey "l">
+<!ENTITY offlineMenu.accesskey "x">
 <!ENTITY offlineGoOfflineCmd.label "Trabajar sin conexión">
 <!ENTITY offlineGoOfflineCmd.accesskey "x">
 <!ENTITY synchronizeOfflineCmd.label "Descargar/sincronizar ahora…">
@@ -418,7 +418,7 @@
 <!ENTITY runJunkControls.accesskey "u">
 <!ENTITY deleteJunk.label "Borrar mensajes marcados como basura en la carpeta">
 <!ENTITY deleteJunk.accesskey "B">
-<!ENTITY errorConsoleCmd.label "Consola de errires">
+<!ENTITY errorConsoleCmd.label "Consola de errores">
 <!ENTITY errorConsoleCmd.accesskey "n">
 <!ENTITY filtersCmd.label "Filtros de mensaje…">
 <!ENTITY filtersCmd.accesskey "F">

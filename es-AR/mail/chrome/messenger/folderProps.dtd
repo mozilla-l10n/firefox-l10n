@@ -58,7 +58,7 @@
 <!ENTITY retentionCleanup.label "Para recuperar espacio en disco, los mensajes viejos pueden ser borrados permanentemente">
 <!ENTITY retentionDeleteMsg.label "Borrar mensajes de más de">
 <!ENTITY retentionDeleteMsg.accesskey "m">
-<!ENTITY retentionKeepAll.label "No borrar ningúun mensaje">
+<!ENTITY retentionKeepAll.label "No borrar ningún mensaje">
 <!ENTITY retentionKeepAll.accesskey "A">
 <!ENTITY retentionKeepNew.label "Borrar todos menos los últimos">
 <!ENTITY retentionKeepNew.accesskey "l">

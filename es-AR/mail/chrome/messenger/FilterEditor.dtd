@@ -1,7 +1,7 @@
 <!ENTITY window.title "Reglas de filtrado">
 
 <!ENTITY filterName.label "Nombre del filtro">
-<!ENTITY filterName.accesskey "i">
+<!ENTITY filterName.accesskey "f">
 
 <!ENTITY junk.label "Basura">
 <!ENTITY notJunk.label "No es basura">
@@ -13,14 +13,14 @@
 <!ENTITY highestPriorityCmd.label "La más alta">
 
 <!ENTITY contextDesc.label "Aplicar el filtro cuando:">
-<!ENTITY contextDesc.accesskey "w">
-<!ENTITY contextIncoming.label "Buscar correo">
-<!ENTITY contextManual.label "Ejecutarlo manualmente">
-<!ENTITY contextBoth.label "Buscar correo o ejecutar manualmente">
+<!ENTITY contextDesc.accesskey "A">
+<!ENTITY contextIncoming.label "Se busca correo">
+<!ENTITY contextManual.label "se ejecute manualmente">
+<!ENTITY contextBoth.label "se busca correo o se ejecute manualmente">
 <!ENTITY filterActionDesc.label "Ejecutar estas acciones:">
-<!ENTITY filterActionDesc.accesskey "P">
+<!ENTITY filterActionDesc.accesskey "E">
 
-<!ENTITY newFolderButton.label "Nueva carpeta...">
+<!ENTITY newFolderButton.label "Nueva carpeta…">
 <!ENTITY newFolderButton.accesskey "N">
 
 <!-- New Style Filter Rule Actions -->

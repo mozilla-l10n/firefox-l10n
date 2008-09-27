@@ -5,16 +5,16 @@
 <!ENTITY fileMenu.accesskey "A">
 <!ENTITY newMenu.label "Nuevo">
 <!ENTITY newMenu.accesskey "N">
-<!ENTITY newCard.label "Tarjeta de la libreta de direcciones...">
+<!ENTITY newCard.label "Tarjeta de la libreta de direcciones…">
 <!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newCard.accesskey "C">
 <!ENTITY newCard.key "N">
-<!ENTITY newListCmd.label "Lista de correo...">
+<!ENTITY newListCmd.label "Lista de correo…">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey "L">
-<!ENTITY newAddressBookCmd.label "Libreta de direcciones...">
+<!ENTITY newAddressBookCmd.label "Libreta de direcciones…">
 <!ENTITY newAddressBookCmd.accesskey "b">
-<!ENTITY newLDAPDirectoryCmd.label "Directorio LDAP...">
+<!ENTITY newLDAPDirectoryCmd.label "Directorio LDAP…">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey "D">
 <!ENTITY newMessageCmd.label "Mensaje">
@@ -26,7 +26,7 @@
 <!ENTITY closeCmd.label "Cerrar">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "C">
-<!ENTITY printSetupCmd.label "Configurar página...">
+<!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCardViewCmd.label "Vista preliminar de la tarjeta">
 <!ENTITY printPreviewCardViewCmd.accesskey "V">
@@ -36,7 +36,7 @@
 <!ENTITY printCardViewCmd.accesskey "p">
 <!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->
 <!ENTITY printCardViewCmd.key "P">
-<!ENTITY printAddressBook.label "Imprimir libreta de direcciones...">
+<!ENTITY printAddressBook.label "Imprimir libreta de direcciones…">
 <!ENTITY printAddressBook.accesskey "a">
 
 <!ENTITY quitApplicationCmdWin.label "Salir">
@@ -81,7 +81,7 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label "Propiedades...">
+<!ENTITY propertiesCmd.label "Propiedades…">
 <!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY propertiesCmd.accesskey "i">
 <!ENTITY propertiesCmd.key "i">
@@ -95,7 +95,7 @@
 <!ENTITY showAbToolbarCmd.accesskey "o">
 <!ENTITY showTaskbarCmd.label "Barra de estado">
 <!ENTITY showTaskbarCmd.accesskey "s">
-<!ENTITY customizeToolbar.label "Personalizar...">
+<!ENTITY customizeToolbar.label "Personalizar…">
 <!ENTITY customizeToolbar.accesskey "P">
 <!ENTITY showCardPane.label "Resumen de las tarjetas">
 <!ENTITY showCardPane.accesskey "t">
@@ -116,16 +116,16 @@
 <!ENTITY messengerCmd.label "Correo y noticias">
 <!ENTITY messengerCmd.accesskey "o">
 <!ENTITY messengerCmd.commandkey "1">
-<!ENTITY searchAddressesCmd.label "Buscar direcciones...">
+<!ENTITY searchAddressesCmd.label "Buscar direcciones…">
 <!ENTITY searchAddressesCmd.accesskey "s">
-<!ENTITY importCmd.label "Importar...">
+<!ENTITY importCmd.label "Importar…">
 <!ENTITY importCmd.accesskey "I">
-<!ENTITY exportCmd.label "Exportar...">
+<!ENTITY exportCmd.label "Exportar…">
 <!ENTITY exportCmd.accesskey "E">
-<!ENTITY preferencesCmd.label "Preferencias...">
+<!ENTITY preferencesCmd.label "Preferencias…">
 <!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "f">
-<!ENTITY preferencesCmdUnix.label "Preferencias...">
+<!ENTITY preferencesCmdUnix.label "Preferencias…">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
 <!-- Address Book Toolbar and Context Menus -->
@@ -179,7 +179,7 @@
 <!ENTITY JobTitle.label "Cargo">
 <!ENTITY JobTitle.accesskey "C">
 <!ENTITY CellularNumber.label "Teléfono celular">
-<!ENTITY CellularNumber.accesskey "M">
+<!ENTITY CellularNumber.accesskey "u">
 <!ENTITY PagerNumber.label "Buscapersonas">
 <!ENTITY PagerNumber.accesskey "p">
 <!ENTITY FaxNumber.label "Fax">

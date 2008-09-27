@@ -1,7 +1,7 @@
 <!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label "Asistente de cuentas">
-<!ENTITY accountWizard.size "width: 40em; height: 38em;">
+<!ENTITY accountWizard.size "width: 42em; height: 38em;">
 
 <!-- Entities for Account Type page -->
 
@@ -10,9 +10,9 @@
 <!ENTITY accountTypeDesc.label "Este asistente recogerá la información necesaria para configurar una cuenta de correo o noticias. Si desconoce la información que se le pide, por favor póngase en contacto con el administrador del sistema o su proveedor de Internet.">
 <!ENTITY accountTypeDirections.label "Seleccione el tipo de cuenta que quiere configurar:">
 <!ENTITY accountTypeMail.label "Cuenta de correo electrónico">
-<!ENTITY accountTypeMail.accesskey "m">
+<!ENTITY accountTypeMail.accesskey "e">
 <!ENTITY accountTypeNews.label "Cuenta de noticias">
-<!ENTITY accountTypeNews.accesskey "w">
+<!ENTITY accountTypeNews.accesskey "n">
 
 <!-- Entities for Identity page -->
 
@@ -106,7 +106,7 @@
 <!ENTITY accnameDesc.label "Introduzca el nombre por el que desea referirse a esta cuenta (por ejemplo, &quot;Cuenta del trabajo&quot;, &quot;Cuenta de casa&quot; o &quot;Cuenta de noticias&quot;).">
 <!ENTITY accnameExample.label "Por ejemplo: Cuenta del trabajo, Cuenta de casa, o Cuenta de noticias">
 <!ENTITY accnameLabel.label "Nombre de cuenta:">
-<!ENTITY accnameLabel.accesskey "a">
+<!ENTITY accnameLabel.accesskey "N">
 
 <!-- Entities for Done (Congratulations) page -->
 

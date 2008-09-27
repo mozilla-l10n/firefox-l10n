@@ -53,7 +53,7 @@
 
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Tamaño mínimo de fuente:">
-<!ENTITY minSize.accesskey                        "z">
+<!ENTITY minSize.accesskey                        "a">
 <!ENTITY minSize.none                             "Ninguno">
 
 <!-- default font type -->
@@ -67,11 +67,11 @@
 
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Correo saliente:">
-<!ENTITY sendDefaultCharset.accesskey     "s">
+<!ENTITY sendDefaultCharset.accesskey     "C">
 <!ENTITY languagesTitle1.label            "Codificación de caracteres">
 <!ENTITY composingDescription.label       "Elija la codificación de caracteres predeterminada para enviar y recibir correo">
 
 <!ENTITY viewDefaultCharsetList.label     "Correo entrante:">
-<!ENTITY viewDefaultCharsetList.accesskey  "e">
+<!ENTITY viewDefaultCharsetList.accesskey  "r">
 <!ENTITY replyInDefaultCharset2.label     "Usar en las respuestas la codificación de caracteres predeterminada cuando sea posible">
-<!ENTITY replyInDefaultCharset2.accesskey "h">
+<!ENTITY replyInDefaultCharset2.accesskey "U">

@@ -1,6 +1,6 @@
 <!-- extracted from AccountManager.xul -->
 <!ENTITY accountManagerTitle.label "Configuración de la cuenta">
-<!ENTITY addAccountButton.label "Añadir cuenta...">
+<!ENTITY addAccountButton.label "Añadir cuenta…">
 <!ENTITY addAccountButton.accesskey "A">
 <!ENTITY setDefaultButton.label "Definir como predeterminada">
 <!ENTITY setDefaultButton.accesskey "f">

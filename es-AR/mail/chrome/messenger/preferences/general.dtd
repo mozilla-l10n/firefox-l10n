@@ -1,5 +1,5 @@
 <!ENTITY systemDefaults.label              "Predeterminados del sistema">
-<!ENTITY alwaysCheckDefault.label          "Siempre verificar si &brandShortName; es el cliente de correo al iniciar">
+<!ENTITY alwaysCheckDefault.label          "Siempre verificar si &brandShortName; es el cliente de correo predeterminado al iniciar">
 <!ENTITY alwaysCheckDefault.accesskey      "l">
 <!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
   There's some sort of bug which makes wrapping checkboxes not properly reflow,
@@ -7,11 +7,11 @@
   appropriately if your localization causes this checkbox to wrap.
 -->
 <!ENTITY alwaysCheckDefault.height  "3em">
-<!ENTITY checkNow.label             "Verificar ya">
-<!ENTITY checkNow.accesskey         "N">
+<!ENTITY checkNow.label             "Verificar ahora">
+<!ENTITY checkNow.accesskey         "V">
 
 <!ENTITY messengerStartPage.label         "Página de inicio de &brandShortName;">
-<!ENTITY enableStartPage.label            "Cundo se inicie &brandShortName;, muestre la página de inicio en el área de mensajes">
+<!ENTITY enableStartPage.label            "Cunado se inicie &brandShortName;, muestre la página de inicio en el área de mensajes">
 <!ENTITY enableStartPage.accesskey        "i">
 <!ENTITY location.label                   "Dirección:">
 <!ENTITY location1.accesskey               "c">
@@ -25,18 +25,18 @@
 <!ENTITY playSound.label                  "Reproducir un sonido">
 <!ENTITY playSound1.accesskey              "p">
 <!ENTITY showAnimatedAlert.label          "Mostrar una alerta">
-<!ENTITY showAnimatedAlert.accesskey      "s">
-<!ENTITY customizeMailAlert.label         "Personalizar...">
+<!ENTITY showAnimatedAlert.accesskey      "M">
+<!ENTITY customizeMailAlert.label         "Personalizar…">
 <!ENTITY customizeMailAlert.accesskey     "z">
 
 <!ENTITY soundNotification1.caption       "Sonido">
 <!ENTITY play.label                       "Reproducir">
-<!ENTITY play.accesskey                   "P">
+<!ENTITY play.accesskey                   "d">
 <!ENTITY systemsound.label                "Sonido del sistema para un nuevo mensaje">
 <!ENTITY systemsoundMac.label             "Alerta de sonido del sistema">
-<!ENTITY systemsoundMac.accesskey         "y">
-<!ENTITY systemsound.accesskey            "y">
+<!ENTITY systemsoundMac.accesskey         "s">
+<!ENTITY systemsound.accesskey            "S">
 <!ENTITY customsound.label                "Usar el siguiente archivo de sonido">
 <!ENTITY customsound.accesskey            "U">
-<!ENTITY browse.label                     "Examinar...">
-<!ENTITY browse.accesskey                 "B">
+<!ENTITY browse.label                     "Examinar…">
+<!ENTITY browse.accesskey                 "x">

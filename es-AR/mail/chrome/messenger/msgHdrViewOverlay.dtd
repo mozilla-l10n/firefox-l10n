@@ -65,7 +65,7 @@
 
 <!ENTITY otherActionsButton.label "otras acciones">
 <!ENTITY saveAsMenuItem.label "guardar como…">
-<!ENTITY saveAsMenuItem.accesskey "S">
+<!ENTITY saveAsMenuItem.accesskey "g">
 <!ENTITY viewSourceMenuItem.label "ver fuente…">
 <!ENTITY viewSourceMenuItem.accesskey "V">
 
