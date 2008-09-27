@@ -5,7 +5,7 @@
 <!ENTITY editContactEmail.accesskey "E">
 
 <!ENTITY editContactPanelCancel.label "Avbryt">
-<!ENTITY editContactPanelCancel.accesskey "C">
+<!ENTITY editContactPanelCancel.accesskey "A">
 
-<!ENTITY editContactPanelDone.label "Ok">
-<!ENTITY editContactPanelDone.accesskey "D">
+<!ENTITY editContactPanelDone.label "OK">
+<!ENTITY editContactPanelDone.accesskey "O">

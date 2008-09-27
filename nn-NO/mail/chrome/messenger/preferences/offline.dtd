@@ -8,14 +8,14 @@
 <!ENTITY radioAlwaysOnline.label "Start alltid opp pålogga">
 <!ENTITY radioAlwaysOnline.accesskey "t">
 
-<!ENTITY textGoingOnline "Sende usende meldingar når eg koplar til?">
+<!ENTITY textGoingOnline "Send usende meldingar når eg koplar til?">
 <!ENTITY radioAutoSend.label "Ja">
 <!ENTITY radioAutoSend.accesskey "J">
 <!ENTITY radioNotSend.label "Nei">
 <!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent.label "Spr meg">
 <!ENTITY radioAskUnsent.accesskey "S">
-<!ENTITY textGoingOffline "Laste ned meldingar for fråkopla bruk når eg koplar i frå?">
+<!ENTITY textGoingOffline "Last ned meldingar for fråkopla bruk når eg koplar i frå?">
 <!ENTITY radioAutoDownload.label "Ja">
 <!ENTITY radioAutoDownload.accesskey "a">
 <!ENTITY radioNotDownload.label "Nei">
