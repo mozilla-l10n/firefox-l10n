@@ -1,5 +1,5 @@
 <!ENTITY junkSettings.label "Søppel-e-post-innstillingar">
-<!ENTITY trainingWarning.label "Skal du ha han påslegen, lyt du først trene &brandShortName; opp til å kjenne att søppel-e-postar ved å bruke Søppelverktøylinjeknappen til å merke meldingar som søppel eller ikkje søppel. Du må identifisere både søppel-e-postar og ikkje-søppel-e-postar.">
+<!ENTITY trainingWarning.label "Skal du ha han påslegen, må du først trene &brandShortName; opp til å kjenne att søppel-e-postar ved å bruke Søppelverktøylinjeknappen til å merke meldingar som søppel eller ikkje søppel. Du må identifisere både søppel-e-postar og ikkje-søppel-e-postar.">
 <!ENTITY level.label "Slå på søppel-e-postkontroll for denne kontoen">
 <!ENTITY level.accesskey "E">
 

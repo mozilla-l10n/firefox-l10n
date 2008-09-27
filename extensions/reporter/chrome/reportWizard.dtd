@@ -3,7 +3,7 @@
 
 <!ENTITY privacyNotice.label                        "Personvern">
 <!ENTITY reportWizardPrivacy.description            "Dette verktøyet gjer det mogleg for deg å tipse støttegruppa om nettstadar som ikkje verkar skikkeleg i &brandShortName;, eller rett og slett stengjer &brandShortName; ute. På den måten kan du lett ta del i å gjere &brandShortName;-opplevinga så god som mogleg! Gjer vel og les den følgjande teksten, for å lære korleis vi nyttar informasjonen som vert samla inn om du vel å ta del i informasjonssamlinga.">
-<!ENTITY reportWizardMustAgree.description          "For å halde fram lyt du godkjenne personvern-avtalen ovanfor.">
+<!ENTITY reportWizardMustAgree.description          "For å halde fram må du godkjenne personvern-avtalen ovanfor.">
 
 <!ENTITY dontShowPrivacyStatement.label             "Eg har lese og godkjent personvern-avtalen.">
 <!ENTITY dontShowPrivacyStatement.accesskey         "E">

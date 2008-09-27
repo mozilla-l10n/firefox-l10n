@@ -54,9 +54,9 @@
 <!ENTITY pref.missedalarms "Vis tapte alarmar">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "a">
 <!ENTITY pref.calendar.alarms.defaults.label "Standardalarmar">
-<!ENTITY pref.defalarm4events.label "Standard alarminstilling for hendingar:">
+<!ENTITY pref.defalarm4events.label "Standard alarminnstilling for hendingar:">
 <!ENTITY pref.defalarm4events.accesskey "e">
-<!ENTITY pref.defalarm4todos.label "Standard alarminstilling for oppgåver:">
+<!ENTITY pref.defalarm4todos.label "Standard alarminnstilling for oppgåver:">
 <!ENTITY pref.defalarm4todos.accesskey "a">
 <!ENTITY pref.alarm.on "På">
 <!ENTITY pref.alarm.off "Av">

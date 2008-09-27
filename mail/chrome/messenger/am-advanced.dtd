@@ -4,7 +4,7 @@
 <!ENTITY smtpServer.label "Innstillingar for utgåande SMTP-tenar">
 
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Berre en utgåande SMTP-tenar treng å vere oppgjeve, sjølv om du har fleire e-postkontoar. Skriv inn namnet på tenaren du vil bruke for utgåande meldinger.">
+<!ENTITY smtpDesc.label "Berre ein utgåande SMTP-tenar treng å vere oppgjeve, sjølv om du har fleire e-postkontoar. Skriv inn namnet på tenaren du vil bruke for utgåande meldingar.">
 
 <!ENTITY smtpListAdd.label  "Legg til …">
 <!ENTITY smtpListAdd.accesskey  "L">
