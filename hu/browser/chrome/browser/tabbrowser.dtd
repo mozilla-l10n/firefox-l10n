@@ -16,3 +16,4 @@
 <!ENTITY bookmarkThisTab.accesskey   "A">
 <!ENTITY  undoCloseTab.label          "Lapbezárás visszavonása">
 <!ENTITY undoCloseTab.accesskey      "v">
+<!ENTITY  newTabButton.tooltip        "Új lap megnyitása">

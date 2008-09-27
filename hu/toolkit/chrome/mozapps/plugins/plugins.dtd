@@ -21,3 +21,6 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "A bővítmények használata előtt a &brandShortName; programot újra kell indítani.">
   
 <!ENTITY missingPlugin.label                                 "Kattintson ide a bővítmény letöltéséhez.">
+<!ENTITY disabledPlugin.label                                "Az ehhez a tartalomhoz tartozó bővítmény le van tiltva. Kattintson ide a bővítmények kezeléséhez.
+">
+<!ENTITY blockedPlugin.label                                 "Az Ön védelme érdekében ez a bővítmény le lett tiltva.">
