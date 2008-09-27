@@ -219,7 +219,7 @@
 <!ENTITY reloadCmd.label "Ricarica">
 <!ENTITY reloadCmd.accesskey "R">
 <!ENTITY stopCmd.label "Interrompi">
-<!ENTITY stopCmd.accesskey "S">
+<!ENTITY stopCmd.accesskey "I">
 <!ENTITY textZoomEnlargeCmd.label "Aumentare">
 <!ENTITY textZoomEnlargeCmd.accesskey "A">
 <!ENTITY textZoomEnlargeCmd.commandkey "+">
@@ -618,7 +618,7 @@
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY copyImageCmd.label "Copia indirizzo immagine">
 <!ENTITY copyImageCmd.accesskey "o">
-<!ENTITY copyEmailCmd.label "Copia indirizzo di posta">
+<!ENTITY copyEmailCmd.label "Copia indirizzo email">
 <!ENTITY copyEmailCmd.accesskey "i">
 <!ENTITY statusText.label "Fatto">
 <!ENTITY minimizeWindow.label "Contrai">

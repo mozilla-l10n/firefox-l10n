@@ -18,9 +18,9 @@
 <!ENTITY retentionKeepAll.label "Non eliminare alcun messaggio">
 <!ENTITY retentionKeepAll.accesskey "c">
 <!ENTITY retentionKeepNew.label "Eliminare tutto meno gli ultimi">
-<!ENTITY retentionKeepNew.accesskey "b">
+<!ENTITY retentionKeepNew.accesskey "E">
 <!ENTITY retentionKeepUnread.label "Eliminare sempre i messaggi letti">
-<!ENTITY retentionKeepUnread.accesskey "w">
+<!ENTITY retentionKeepUnread.accesskey "s">
 <!ENTITY nntpRemoveBody.label "Solo i messaggi non più vecchi di ">
 <!ENTITY nntpRemoveBody.accesskey "o">
 <!ENTITY offlineSelectNntp.label "Selezionare i gruppi di discussione per uso non in linea…">

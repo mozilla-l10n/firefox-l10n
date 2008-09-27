@@ -19,7 +19,7 @@
 <!ENTITY runFilters.label "Esegui ora">
 <!ENTITY runFilters.accesskey "o">
 <!ENTITY stopFilters.label "Interrompi">
-<!ENTITY stopFilters.accesskey "S">
+<!ENTITY stopFilters.accesskey "t">
 <!ENTITY folderPickerPrefix.label "Esegui i filtri scelti su:">
 <!ENTITY folderPickerPrefix.accesskey "i">
 <!ENTITY choosethis.label "scegli questa cartella">
