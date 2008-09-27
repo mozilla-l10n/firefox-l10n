@@ -38,5 +38,5 @@
 <!ENTITY messageMarkByDate.label "Merk meldingar som lesne etter dato">
 <!ENTITY markByDateLower.label "Merk meldingar som lesne frå:">
 <!ENTITY markByDateLower.accesskey "M">
-<!ENTITY markByDateUpper.accesskey "T">
 <!ENTITY markByDateUpper.label "Til:">
+<!ENTITY markByDateUpper.accesskey "T">

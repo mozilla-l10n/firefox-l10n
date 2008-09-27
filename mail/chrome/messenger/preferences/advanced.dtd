@@ -28,7 +28,7 @@
 <!ENTITY reuseExpRadio1.label          "Eit eksisterande meldingsvindauge">
 <!ENTITY reuseExpRadio1.accesskey      "E">
 <!ENTITY reuseExpRadio2.label          "Ei ny meldingsfane">
-<!ENTITY reuseExpRadio2.accesskey      "Z">
+<!ENTITY reuseExpRadio2.accesskey      "n">
 <!ENTITY connectionTimeout.label       "Tidsavbrot for tilkoplingar: ">
 <!ENTITY connectionTimeout.accesskey   "T">
 <!ENTITY connectionSeconds.label       "sekund">

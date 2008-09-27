@@ -1,6 +1,6 @@
 <!ENTITY junkLog.title "Logg for søppelpost">
 <!ENTITY junkLogInfo.label "Loggføring av kontrollaktiviteten for søppel-e-post.">
 <!ENTITY clearLog.label "Tøm logg">
-<!ENTITY clearLog.accesskey "C">
+<!ENTITY clearLog.accesskey "T">
 <!ENTITY closeLog.label "Lat att">
-<!ENTITY closeLog.accesskey "o">
+<!ENTITY closeLog.accesskey "L">

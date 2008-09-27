@@ -107,8 +107,8 @@ OS/2 Installation Instructions
 
      3. Keep in mind that the unzip process creates a directory "thunderbird"
      below the location you point it to, e.g.
-        unzip thunderbird-1.0.1.en-US.os2.zip -d c:thunderbird-1.0.1
-     will unpack Thunderbird into c:thunderbird-1.0.1thunderbird.
+        unzip thunderbird-1.0.1.en-US.os2.zip -d c:\thunderbird-1.0.1
+     will unpack Thunderbird into c:\thunderbird-1.0.1\thunderbird.
 
      4. Make sure that you are _not_ unpacking over an old installation. This is
      known to cause problems.
@@ -128,23 +128,23 @@ same DLL, some extra steps may be required to run them concurrently.
 
 One workaround is the LIBPATHSTRICT variable. To run Thunderbird one can create
 a CMD script like the following example (where an installation of Thunderbird
-exists in the directory d:internetthunderbird is assumed):
+exists in the directory d:\internet\thunderbird is assumed):
 
    set LIBPATHSTRICT=T
    rem The next line may be needed when a different Mozilla program is listed in LIBPATH
-   rem set BEGINLIBPATH=d:internetthunderbird
+   rem set BEGINLIBPATH=d:\internet\thunderbird
    rem The next line is only needed to run two different versions of Thunderbird
    rem set MOZ_NO_REMOTE=1
    d:
-   cd d:internetthunderbird
+   cd d:\internet\thunderbird
    thunderbird.exe %1 %2 %3 %4 %5 %6 %7 %8 %9
 
 Similarly, one can create a program object to start Thunderbird using the
 following settings:
 
    Path and file name: *
-   Parameters:         /c set LIBPATHSTRICT=T & .thunderbird.exe "%*"
-   Working directory:  d:internetthunderbird
+   Parameters:         /c set LIBPATHSTRICT=T & .\thunderbird.exe "%*"
+   Working directory:  d:\internet\thunderbird
 
 (One might need to add MOZ_NO_REMOTE and/or BEGINLIBPATH as in the CMD script
 above depending on the system configuration.)
@@ -166,9 +166,9 @@ the case of an update even when using ZIP packages, set the variable
 MOZILLA_HOME to a directory of your choice. You can do this either in Config.sys
 or in a script or using a program object as listed above. If you add
 
-   set MOZILLA_HOME=f:Data
+   set MOZILLA_HOME=f:\Data
 
-the Thunderbird user profile will be created in "f:DataThunderbird".
+the Thunderbird user profile will be created in "f:\Data\Thunderbird".
 
 If you are migrating from Mozilla, Thunderbird's import routine will only find
 the existing Mozilla profile data if MOZILLA_HOME is correctly set to point to

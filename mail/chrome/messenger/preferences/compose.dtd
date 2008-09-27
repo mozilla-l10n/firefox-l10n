@@ -14,8 +14,8 @@
 <!ENTITY addExtension.accesskey               "f">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
-<!ENTITY font.label                           "Font:">
-<!ENTITY font.accesskey                       "n">
+<!ENTITY font.label                           "Skrifttype:">
+<!ENTITY font.accesskey                       "p">
 <!ENTITY size.label                           "Storleik:">
 <!ENTITY size.accesskey                       "r">
 <!ENTITY fontColor.label                      "Tekstfarge:">

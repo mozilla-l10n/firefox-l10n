@@ -52,7 +52,7 @@
 <!ENTITY pac.label                                      "Tilkopla (automatisk mellomtenar)">
 <!ENTITY pac.accesskey                                  "a">
 
-<!ENTITY proxy.label                                    "Innstillingar for mellomtenar ...">
+<!ENTITY proxy.label                                    "Innstillingar for mellomtenar …">
 <!ENTITY proxy.accesskey                                "m">
 
 <!ENTITY findTypeTextCmd.key        "/">
