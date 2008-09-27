@@ -34,8 +34,8 @@
 <!ENTITY addTag.label "Merk melding">
 <!ENTITY setJunkScore.label "Sett reklamestatus">
 <!ENTITY deleteMessage.label "Slett melding">
-<!ENTITY deleteFromPOP.label "Slett frå POP3-tenaren">
-<!ENTITY fetchFromPOP.label "Hent frå POP3-tenaren">
+<!ENTITY deleteFromPOP.label "Slett frå POP-tenaren">
+<!ENTITY fetchFromPOP.label "Hent frå POP-tenaren">
 <!ENTITY ignoreThread.label "Ignorer tråd">
 <!ENTITY ignoreSubthread.label "Ignorer deltråd">
 <!ENTITY watchThread.label "Følg tråd">

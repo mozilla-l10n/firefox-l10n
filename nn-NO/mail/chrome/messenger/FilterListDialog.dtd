@@ -1,6 +1,6 @@
 <!ENTITY window.title "Meldingsfilter">
 <!ENTITY nameColumn.label "Filternamn">
-<!ENTITY activeColumn.label "Påslegen">
+<!ENTITY activeColumn.label "Slått på">
 <!ENTITY newButton.label "Nytt …">
 <!ENTITY newButton.accesskey "N">
 <!ENTITY editButton.label "Rediger …">

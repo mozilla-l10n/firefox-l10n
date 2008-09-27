@@ -8,7 +8,7 @@
 <!ENTITY fccReplyFollowsParent.accesskey "v">
 <!ENTITY chooseFolderButton.label "Vel mappe …">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Send blindkopi (BCC) til desse e-postadressene">
+<!ENTITY bccAddress.label "Send blindkopi (BCC) til desse e-postadressene:">
 <!ENTITY bccAddress.accesskey "b">
 <!ENTITY specialFolderTitle.label "Spesialmapper">
 <!ENTITY draftMailFolder.label "Ta vare på meldingsutkast i:">
@@ -18,18 +18,18 @@
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "«Sendt»-mappa på:">
 <!ENTITY sentFolderOn.accesskey "d">
-<!ENTITY sentInOtherFolder.label "Anna:">
+<!ENTITY sentInOtherFolder.label "Anna mappe:">
 <!ENTITY sentInOtherFolder.accesskey "A">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "«Utkast»-mappa på:">
 <!ENTITY draftsFolderOn.accesskey "U">
-<!ENTITY draftInOtherFolder.label "Anna:">
+<!ENTITY draftInOtherFolder.label "Anna mappe:">
 <!ENTITY draftInOtherFolder.accesskey "n">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "«Malar»-mappa på:">
 <!ENTITY templatesFolderOn.accesskey "M">
-<!ENTITY templateInOtherFolder.label "Anna:">
+<!ENTITY templateInOtherFolder.label "Anna mappe:">
 <!ENTITY templateInOtherFolder.accesskey "n">
-<!ENTITY specialFoldersTitle.label "Utkast og mala">
+<!ENTITY specialFoldersTitle.label "Utkast og malar">
 <!ENTITY keepDrafts.label "Ta vare på meldingsutkast i:">
 <!ENTITY keepTempltes.label "Ta vare på meldingsmalar i:">

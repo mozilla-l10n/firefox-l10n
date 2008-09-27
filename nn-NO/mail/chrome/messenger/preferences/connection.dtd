@@ -4,7 +4,7 @@
 <!ENTITY  proxyTitle.label              "Konfigurer mellomtenarar for tilgang til Internett">
 <!ENTITY  noProxyTypeRadio.label        "Ingen mellomtenar">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
-<!ENTITY  systemTypeRadio.label         "Bruk systeminstillingar for mellomtenar">
+<!ENTITY  systemTypeRadio.label         "Bruk systeminnstillingar for mellomtenar">
 <!ENTITY  systemTypeRadio.accesskey     "u">
 <!ENTITY  WPADTypeRadio.label           "Oppdag mellomtenar-innstillingane for dette nettverket automatisk">
 <!ENTITY  WPADTypeRadio.accesskey       "w">

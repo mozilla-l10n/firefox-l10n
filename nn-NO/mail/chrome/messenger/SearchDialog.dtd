@@ -28,7 +28,7 @@
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "Søk i:">
 <!ENTITY abSearchHeading.accesskey   "S">
-<!ENTITY propertiesButton.label      "Eigenskapar ...">
+<!ENTITY propertiesButton.label      "Eigenskapar …">
 <!ENTITY propertiesButton.accesskey  "p">
 <!ENTITY composeButton.label         "Skriv ny e-post til">
 <!ENTITY composeButton.accesskey     "n">
