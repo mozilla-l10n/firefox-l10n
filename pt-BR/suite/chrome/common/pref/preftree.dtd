@@ -4,7 +4,7 @@
 <!ENTITY themes.label "Temas">
 <!ENTITY navigator.label "Navigator">
 <!ENTITY history.label "Histórico">
-<!ENTITY bidi.label "Opções Bidi">
+<!ENTITY bidi.label "Opções Bidirecionais">
 <!ENTITY languages.label "Idiomas">
 <!ENTITY applications.label "Programas">
 <!ENTITY smartBrowse.label "Navegação Inteligente">
@@ -36,6 +36,9 @@
 <!ENTITY popups.label "Janelas popup">
 <!ENTITY passwords.label "Senhas">
 
+<!ENTITY categoryHeader "Categoria">
+<!--LOCALIZATION NOTE : FILE Lists preferences categories that appear on the left of the preferences dialog -->
+<!ENTITY prefWindow.title "Preferências">
 
 <!-- Should be removed soon -->
 
