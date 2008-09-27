@@ -10,7 +10,7 @@
 <!ENTITY  WPADTypeRadio.accesskey       "A">
 <!ENTITY  manualTypeRadio.label         "Manuelle mellomtjener-innstillinger:">
 <!ENTITY  manualTypeRadio.accesskey     "M">
-<!ENTITY  autoTypeRadio.label           "Automatisk konfigurasjons-adresse:">
+<!ENTITY  autoTypeRadio.label           "Automatisk konfigurasjonsadresse:">
 <!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "Oppdater">
 <!ENTITY  reload.accesskey              "O">

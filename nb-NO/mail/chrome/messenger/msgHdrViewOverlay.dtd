@@ -64,7 +64,7 @@
 <!ENTITY trashButton.tooltiptext "slett">
 
 <!ENTITY otherActionsButton.label "andre handlinger">
-<!ENTITY saveAsMenuItem.label "lagre som…">
+<!ENTITY saveAsMenuItem.label "lagre som …">
 <!ENTITY saveAsMenuItem.accesskey "s">
 <!ENTITY viewSourceMenuItem.label "vis kildekode …">
 <!ENTITY viewSourceMenuItem.accesskey "V">
