@@ -36,7 +36,7 @@
 <!ENTITY sendUnsentCmd.accesskey "U">
 <!ENTITY subscribeCmd.label "Sottoscrivi…">
 <!ENTITY subscribeCmd.accesskey "v">
-<!ENTITY deleteFolder.label "Cancella cartella">
+<!ENTITY deleteFolder.label "Elimina cartella">
 <!ENTITY deleteFolder.accesskey "e">
 <!ENTITY renameFolder.label "Rinomina cartelle…">
 <!ENTITY renameFolder.accesskey "R">
@@ -79,7 +79,7 @@
 <!ENTITY undeleteMsgsCmd.accesskey "p">
 <!ENTITY cancelNewsMsgsCmd.label "Cancella messaggi selezionati">
 <!ENTITY cancelNewsMsgsCmd.accesskey "n">
-<!ENTITY deleteFolderCmd.label "Elimina la cartella">
+<!ENTITY deleteFolderCmd.label "Elimina cartella">
 <!ENTITY deleteFolderCmd.accesskey "E">
 <!ENTITY unsubscribeNewsgroupCmd.label "Annulla Sottoscrizione">
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "n">
@@ -144,7 +144,7 @@
 <!ENTITY sortByReceivedCmd.label "Ricevuto">
 <!ENTITY sortByReceivedCmd.accesskey "v">
 <!ENTITY sortByStarCmd.label "Speciale">
-<!ENTITY sortByStarCmd.accesskey "D">
+<!ENTITY sortByStarCmd.accesskey "S">
 <!ENTITY sortByAttachmentsCmd.label "Allegati">
 <!ENTITY sortByAttachmentsCmd.accesskey "g">
 <!ENTITY sortByPriorityCmd.label "Priorità">
@@ -218,7 +218,7 @@
 <!ENTITY viewAttachmentsInlineCmd.accesskey "t">
 <!ENTITY reloadCmd.label "Ricarica">
 <!ENTITY reloadCmd.accesskey "R">
-<!ENTITY stopCmd.label "Stop">
+<!ENTITY stopCmd.label "Interrompi">
 <!ENTITY stopCmd.accesskey "S">
 <!ENTITY textZoomEnlargeCmd.label "Aumentare">
 <!ENTITY textZoomEnlargeCmd.accesskey "A">
@@ -422,7 +422,7 @@
 <!ENTITY undeleteButton.label "Ripristina">
 <!ENTITY markButton.label "Marca">
 <!ENTITY printButton.label "Stampa">
-<!ENTITY stopButton.label "Stop">
+<!ENTITY stopButton.label "Interrompi">
 <!ENTITY throbberItem.title "Indicatore di attività">
 <!ENTITY updatesItem.title "Aggiornamenti">
 <!ENTITY junkButton.label "Indesiderata">
@@ -452,12 +452,12 @@
 <!ENTITY undeleteButton.tooltip "Ripristina il messaggio selezionato">
 <!ENTITY markButton.tooltip "Spunta messaggi">
 <!ENTITY printButton.tooltip "Stampa questo messaggio">
-<!ENTITY stopButton.tooltip "Sospendi il trasferimento corrente">
+<!ENTITY stopButton.tooltip "Interrompi il trasferimento corrente">
 <!ENTITY junkButton.tooltip "Marca il messaggio selezionato come posta indesiderata">
 <!ENTITY notJunkButton.tooltip "Rimuovi il marchio posta indesiderata">
 <!ENTITY addressBookButton.tooltip "Apri la rubrica">
 <!ENTITY tagButton.tooltip "Etichetta messaggi">
-<!ENTITY compactButton.tooltip "Rimuovere i messaggi cancellati dalla cartella selezionata">
+<!ENTITY compactButton.tooltip "Rimuovere i messaggi eliminati dalla cartella selezionata">
 <!ENTITY addNewTag.label "Nuova etichetta…">
 <!ENTITY addNewTag.accesskey "N">
 <!ENTITY folderColumn.label "Nome">
@@ -620,7 +620,7 @@
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyEmailCmd.label "Copia indirizzo di posta">
 <!ENTITY copyEmailCmd.accesskey "i">
-<!ENTITY statusText.label "Documento: completato">
+<!ENTITY statusText.label "Fatto">
 <!ENTITY minimizeWindow.label "Contrai">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Porta tutto in primo piano">

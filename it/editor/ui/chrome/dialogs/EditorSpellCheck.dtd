@@ -51,13 +51,13 @@
 <!ENTITY replaceButton.accessKey "S">
 <!ENTITY replaceAllButton.label "Sostituisci tutti">
 <!ENTITY replaceAllButton.accessKey "t">
-<!ENTITY stopButton.label "Stop">
+<!ENTITY stopButton.label "Interrompi">
 <!ENTITY stopButton.accessKey "p">
 <!ENTITY userDictionary.label "Dizionario personale:">
-<!ENTITY moreDictionaries.label "Scarica altri dizionari...">
+<!ENTITY moreDictionaries.label "Scarica altri dizionari…">
 <!ENTITY addToUserDictionaryButton.label "Aggiungi vocabolo">
 <!ENTITY addToUserDictionaryButton.accessKey "A">
-<!ENTITY editUserDictionaryButton.label "Modifica...">
+<!ENTITY editUserDictionaryButton.label "Modifica…">
 <!ENTITY editUserDictionaryButton.accessKey "M">
 <!ENTITY recheckButton.label "Ricontrolla pagina">
 <!ENTITY recheckButton.accessKey "R">

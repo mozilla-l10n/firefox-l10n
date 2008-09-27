@@ -1,9 +1,9 @@
 <!ENTITY aboutDialog.title "Informazioni su &brandFullName;">
-<!ENTITY credits.label "Riconoscimenti">
-<!ENTITY credits.accesskey "R">
-<!ENTITY aboutLink.label "&lt& Informazioni su &brandFullName;">
-<!ENTITY aboutLink.accesskey "n">
-<!ENTITY aboutVersion "versione">
+<!ENTITY credits.label "Credits">
+<!ENTITY credits.accesskey "C">
+<!ENTITY aboutLink.label "&lt; informazioni su &brandFullName;">
+<!ENTITY aboutLink.accesskey "I">
+<!ENTITY aboutVersion "version">
 <!ENTITY copyrightText "©1998-2008 Collaboratori. Tutti i diritti riservati. Mozilla Thunderbird ed i
 	loghi Thunderbird sono marchi registrati della Mozilla Foundation.
 	Tutti i diritti sono riservati.">

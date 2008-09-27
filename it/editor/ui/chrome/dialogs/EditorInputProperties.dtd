@@ -73,5 +73,5 @@
 <!ENTITY AccessKey.accesskey "o">
 <!ENTITY Accept.label "Tipi accettati:">
 <!ENTITY Accept.accesskey "a">
-<!ENTITY ImageProperties.label "Proprietà immagine...">
+<!ENTITY ImageProperties.label "Proprietà immagine…">
 <!ENTITY ImageProperties.accesskey "m">

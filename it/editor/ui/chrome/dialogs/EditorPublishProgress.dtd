@@ -39,7 +39,7 @@
 <!ENTITY siteUrl.label "URL sito:">
 <!ENTITY docSubdir.label "Percorso pagina:">
 <!ENTITY otherSubdir.label "Percorso immagini:">
-<!ENTITY status.label "Pubblicazione in corso...">
+<!ENTITY status.label "Pubblicazione in corso…">
 <!ENTITY fileList.label "Stato pubblicazione">
 <!ENTITY statusHeader.label "Stato">
 <!ENTITY filenameHeader.label "Nome file">

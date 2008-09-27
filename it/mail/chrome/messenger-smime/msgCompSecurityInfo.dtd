@@ -7,6 +7,6 @@
 <!ENTITY view.label "Visualizza">
 <!ENTITY view.accesskey "V">
 <!ENTITY tree.recipient "Destinatario:">
-<!ENTITY tree.status "Stato:">
+<!ENTITY tree.status "Stato">
 <!ENTITY tree.issuedDate "Rilasciato il:">
 <!ENTITY tree.expiresDate "Scadenza:">

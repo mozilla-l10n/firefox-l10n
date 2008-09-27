@@ -22,7 +22,7 @@
 <!ENTITY replyButton.label "risposta…">
 <!ENTITY forwardButton.label "inoltra…">
 <!ENTITY junkButton.label "marca come indesiderata">
-<!ENTITY trashButton.tooltiptext "cancella">
+<!ENTITY trashButton.tooltiptext "elimina">
 <!ENTITY otherActionsButton.label "altre azioni">
 <!ENTITY saveAsMenuItem.label "salva con nome…">
 <!ENTITY saveAsMenuItem.accesskey "S">

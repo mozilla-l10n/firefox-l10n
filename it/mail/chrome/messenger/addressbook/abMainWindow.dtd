@@ -68,7 +68,7 @@
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY swapFirstNameLastNameCmd.label "Scambia Nome/Cognome">
 <!ENTITY swapFirstNameLastNameCmd.accesskey "m">
-<!ENTITY hideSwapFnLnUI "vero">
+<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesCmd.label "Proprietà…">
 <!ENTITY propertiesCmd.accesskey "r">
 <!ENTITY propertiesCmd.key "i">

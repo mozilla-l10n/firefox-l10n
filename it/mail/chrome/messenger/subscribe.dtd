@@ -8,7 +8,7 @@
 <!ENTITY newGroupsTab.accesskey "N">
 <!ENTITY refreshButton.label "Aggiorna">
 <!ENTITY refreshButton.accesskey "A">
-<!ENTITY stopButton.label "Stop">
+<!ENTITY stopButton.label "Interrompi">
 <!ENTITY stopButton.accesskey "t">
 <!ENTITY server.label "Account:">
 <!ENTITY server.accesskey "c">

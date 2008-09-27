@@ -47,17 +47,17 @@
 <!ENTITY newSiteButton.accesskey "N">
 <!ENTITY docDirList.label "Percorso nel sito per la pagina:">
 <!ENTITY docDirList.accesskey "S">
-<!ENTITY docDirList.tooltip "Choose or enter the name of the remote subdirectory for this page">
+<!ENTITY docDirList.tooltip "Scegli o digita il nome della sottocartella remota per questa pagina">
 <!ENTITY publishImgCheckbox.label "Includi immagini e altri file">
-<!ENTITY publishImgCheckbox.accesskey "n">
+<!ENTITY publishImgCheckbox.accesskey "I">
 <!ENTITY publishImgCheckbox.tooltip "Pubblica le immagini e gli altri file cui si fa riferimento in questa pagina">
 <!ENTITY sameLocationRadio.label "Utilizza lo stesso percorso della pagina">
 <!ENTITY sameLocationRadio.accesskey "U">
 <!ENTITY sameLocationRadio.tooltip "Pubblica i file nella stesso percorso della pagina">
 <!ENTITY useSubdirRadio.label "Utilizza questa sottocartella:">
-<!ENTITY useSubdirRadio.accesskey "z">
-<!ENTITY useSubdirRadio.tooltip "Pubblica i file nella cartella remota selezionata">
-<!ENTITY otherDirList.tooltip "Scegliere o scrivere il nome della cartella remota in cui saranno pubblicati i file">
+<!ENTITY useSubdirRadio.accesskey "t">
+<!ENTITY useSubdirRadio.tooltip "Pubblica i file nella sottocartella remota scelta">
+<!ENTITY otherDirList.tooltip "Scegli o digita il nome della sottocartella in cui saranno pubblicati i file">
 <!ENTITY pageTitle.label "Titolo pagina:">
 <!ENTITY pageTitle.accesskey "T">
 <!ENTITY pageTitle.tooltip "Inserire un titolo per identificare la pagina nella finestra e nei segnalibri">
@@ -68,7 +68,7 @@
 <!ENTITY filenameExample.label "es.: &quot;lamiapagina.html&quot;">
 <!ENTITY relatedDocs.label "Altri file da pubblicare">
 <!ENTITY setDefaultButton.label "Imposta come predefinito">
-<!ENTITY setDefaultButton.accesskey "D">
+<!ENTITY setDefaultButton.accesskey "p">
 <!ENTITY setDefSiteAndDir.label "Imposta come cartella e sito predefiniti">
 <!ENTITY removeButton.label "Rimuovi sito">
 <!ENTITY removeButton.accesskey "R">
@@ -79,7 +79,7 @@
 <!ENTITY siteName.accesskey "e">
 <!ENTITY siteName.tooltip "Un nome che identifica questo sito di pubblicazione (ad es. 'mioSito')">
 <!ENTITY siteUrl.label "Percorso di pubblicazione (ad es.: 'ftp://ftp.isp.com/nomeutente'):">
-<!ENTITY siteUrl.accesskey "P">
+<!ENTITY siteUrl.accesskey "a">
 <!ENTITY siteUrl.tooltip "L'indirizzo ftp:// o http:// fornito dal proprio ISP o servizio di hosting web">
 <!ENTITY browseUrl.label "Indirizzo HTTP della pagina home (ad es.: 'http://www.isp.com/nomeutente'):">
 <!ENTITY browseUrl.accesskey "T">

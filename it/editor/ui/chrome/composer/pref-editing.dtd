@@ -19,5 +19,5 @@
 <!ENTITY colon.character ":">
 <!ENTITY backgroundImage.label "Immagine di sfondo:">
 <!ENTITY backgroundImage.accesskey "I">
-<!ENTITY chooseFile.label "Scegli file...">
+<!ENTITY chooseFile.label "Scegli file…">
 <!ENTITY chooseFile.accesskey "S">

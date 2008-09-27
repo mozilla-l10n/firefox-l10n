@@ -15,7 +15,7 @@
 <!ENTITY bounceSystemDockIcon.accesskey "i">
 <!ENTITY newMessagesArrive.label "All'arrivo di un messaggio:">
 <!ENTITY playSound.label "Riproduci un suono">
-<!ENTITY playSound1.accesskey "E">
+<!ENTITY playSound1.accesskey "o">
 <!ENTITY showAnimatedAlert.label "Mostra un avviso">
 <!ENTITY showAnimatedAlert.accesskey "M">
 <!ENTITY customizeMailAlert.label "Personalizza…">

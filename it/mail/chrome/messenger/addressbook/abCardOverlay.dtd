@@ -3,9 +3,9 @@
 <!ENTITY Contact.accesskey "C">
 <!ENTITY Name.box "Nome">
 <!ENTITY NameField1.id "FirstName">
-<!ENTITY NameField2.id "Cognome">
-<!ENTITY PhoneticField1.id "Nome (Fonetico)">
-<!ENTITY PhoneticField2.id "Ultimo nome fonetico">
+<!ENTITY NameField2.id "LastName">
+<!ENTITY PhoneticField1.id "PhoneticFirstName">
+<!ENTITY PhoneticField2.id "PhoneticLastName">
 <!ENTITY NameField1.label "Nome:">
 <!ENTITY NameField1.accesskey "N">
 <!ENTITY NameField2.label "Cognome:">

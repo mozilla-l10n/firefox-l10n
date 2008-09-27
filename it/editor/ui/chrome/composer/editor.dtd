@@ -35,7 +35,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY editorWindow.titlemodifier "Compositore">
+<!ENTITY editorWindow.titlemodifier "Composer">
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 <!ENTITY viewMenu.label "Visualizza">
 <!ENTITY viewmenu.accesskey "V">
