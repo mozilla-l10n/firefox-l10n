@@ -422,7 +422,6 @@
 <!ENTITY markAllReadCmd.label "Alles als gelezen">
 <!ENTITY markAllReadCmd.accesskey "A">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markAllReadCmdUnix.key "m">
 <!ENTITY markFlaggedCmd.label "Flag">
 <!ENTITY markFlaggedCmd.accesskey "F">
 <!ENTITY markFlaggedCmd.key "i">
@@ -453,6 +452,10 @@
 <!ENTITY filtersCmd.label "Berichtenfilters…">
 <!ENTITY filtersCmd.accesskey "B">
 <!ENTITY filtersApply.label "Filters toepassen op map">
+<!ENTITY filtersApplyToSelection.label "Fiters toepassen op geselecteerde berichten">
+<!ENTITY filtersApplyToSelection.accesskey "s">
+<!ENTITY filtersApplyToMessage.label "Filters toepassen op bericht">
+<!ENTITY filtersApplyToMessage.accesskey "s">
 <!ENTITY filtersApply.accesskey "t">
 <!ENTITY runJunkControls.label "Ongewenste-berichtenverwerking uitvoeren op map">
 <!ENTITY runJunkControls.accesskey "u">
@@ -488,7 +491,6 @@
 <!ENTITY mailToolbar.tooltip "E-mail werkbalk">
 <!ENTITY locationToolbar.tooltip "Locatie werkbalk">
 <!ENTITY advancedButton.tooltip "Uitgebreid berichten zoeken">
-<!ENTITY clearButton.tooltip "Zoekcriteria wissen en alle berichten laten zien">
 <!ENTITY getMsgButton.tooltip "Nieuwe berichten ophalen">
 <!ENTITY newMsgButton.tooltip "Nieuw bericht aanmaken">
 <!ENTITY replyButton.tooltip "Geselecteerde bericht beantwoorden">
@@ -573,8 +575,10 @@
 <!ENTITY folderContextSearchMessages.accesskey "z">
 <!ENTITY folderContextProperties.label "Eigenschappen…">
 <!ENTITY folderContextProperties.accesskey "E">
+<!ENTITY folderContextSettings.label "Instellingen…">
+<!ENTITY folderContextSettings.accesskey "i">
 
-<!---SearchBar-->
+<!-- Search Bar -->
 <!-- also used by addressbook -->
 <!ENTITY SearchSubjectOrFrom.label "Onderwerp of afzender bevat:">
 <!ENTITY SearchSubjectOrFrom.accesskey "O">
@@ -582,9 +586,6 @@
 <!ENTITY SearchNameOrEmail.accesskey "N">
 <!ENTITY advancedButton.label "Advanced…">
 <!ENTITY advancedButton.accesskey "A">
-
-<!ENTITY clearButton.label "Wissen">
-<!ENTITY clearButton.accesskey "W">
 
 <!ENTITY all.label "Alle">
 <!ENTITY all.accesskey "A">

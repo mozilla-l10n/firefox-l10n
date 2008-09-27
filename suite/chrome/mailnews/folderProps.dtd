@@ -60,8 +60,8 @@
 <!ENTITY retentionDownloadMsg.label "Berichten meer dan">
 <!ENTITY retentionDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "Om schijfruimte vrij te maken, kunnen oude berichten permanent worden verwijderd">
-<!ENTITY retentionKeepMsg.label "Berichten verwijderen die ouder zijn dan">
-<!ENTITY retentionKeepMsg.accesskey "o">
+<!ENTITY retentionDeleteMsg.label "Berichten verwijderen die ouder zijn dan">
+<!ENTITY retentionDeleteMsg.accesskey "o">
 <!ENTITY retentionKeepAll.label "Geen berichten verwijderen">
 <!ENTITY retentionKeepAll.accesskey "n">
 <!ENTITY retentionKeepNew.label "Alle berichten verwijderen, behalve de laatste">

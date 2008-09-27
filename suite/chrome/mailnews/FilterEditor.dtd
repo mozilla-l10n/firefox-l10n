@@ -66,14 +66,19 @@
 <!ENTITY highPriorityCmd.label "Hoog">
 <!ENTITY highestPriorityCmd.label "Hoogst">
 
-<!ENTITY conditionDesc.label "Voor inkomende berichten:">
+<!ENTITY contextDesc.label "Filter toepassen bij het:">
+<!ENTITY contextDesc.accesskey "a">
+<!ENTITY contextIncoming.label "Controleren van E-mail">
+<!ENTITY contextManual.label "Handmatig activeren">
+<!ENTITY contextBoth.label "Controleren van E-mail of handmatig activeren">
+
 <!ENTITY filterActionDesc.label "Deze acties uitvoeren:">
 <!ENTITY filterActionDesc.accesskey "V">
 
 <!ENTITY newFolderButton.label "Nieuwe map…">
 <!ENTITY newFolderButton.accesskey "N">
 
-<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
+<!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Bericht verplaatsen naar">
 <!ENTITY copyMessage.label "Bericht kopiëren naar">
 <!ENTITY forwardTo.label "Bericht doorsturen naar">
