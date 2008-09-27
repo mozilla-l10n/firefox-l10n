@@ -5,15 +5,15 @@
 <!ENTITY  noProxyTypeRadio.label        "Sin proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Usar la configuración de proxy del sistema">
-<!ENTITY  systemTypeRadio.accesskey     "u">
+<!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "Detectar automáticamente la configuración del proxy para esta red">
-<!ENTITY  WPADTypeRadio.accesskey       "y">
+<!ENTITY  WPADTypeRadio.accesskey       "D">
 <!ENTITY  manualTypeRadio.label         "Configuración manual de proxy:">
 <!ENTITY  manualTypeRadio.accesskey     "m">
 <!ENTITY  autoTypeRadio.label           "URL de configuración automática de proxy:">
 <!ENTITY  autoTypeRadio.accesskey       "a">
 <!ENTITY  reload.label                  "Recargar">
-<!ENTITY  reload.accesskey              "l">
+<!ENTITY  reload.accesskey              "R">
 <!ENTITY  ftp.label                     "Proxy FTP:">
 <!ENTITY  ftp.accesskey                 "f">
 <!ENTITY  gopher.label                  "Proxy Gopher:">

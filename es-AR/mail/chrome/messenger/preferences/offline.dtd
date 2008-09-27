@@ -6,18 +6,18 @@
 <!ENTITY radioAskMe.label "Preguntarme el estado al iniciar">
 <!ENTITY radioAskMe.accesskey "u">
 <!ENTITY radioAlwaysOnline.label "Siempre iniciar conectado">
-<!ENTITY radioAlwaysOnline.accesskey "l">
+<!ENTITY radioAlwaysOnline.accesskey "c">
 
 <!ENTITY textGoingOnline "¿Enviar mensajes pendientes al conectarse?">
 <!ENTITY radioAutoSend.label "Si">
-<!ENTITY radioAutoSend.accesskey "Y">
+<!ENTITY radioAutoSend.accesskey "S">
 <!ENTITY radioNotSend.label "No">
 <!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent.label "Preguntarme">
-<!ENTITY radioAskUnsent.accesskey "s">
+<!ENTITY radioAskUnsent.accesskey "P">
 <!ENTITY textGoingOffline "¿Descargar mensaje para usar cuando no este conectado al desconectarme?">
 <!ENTITY radioAutoDownload.label "Si">
-<!ENTITY radioAutoDownload.accesskey "e">
+<!ENTITY radioAutoDownload.accesskey "i">
 <!ENTITY radioNotDownload.label "No">
 <!ENTITY radioNotDownload.accesskey "o">
 <!ENTITY radioAskDownload.label "Preguntarme">
