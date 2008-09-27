@@ -6,9 +6,9 @@
 <!ENTITY manualMark.label "Quando un messaggio viene riconosciuto come posta indesiderata:">
 <!ENTITY manualMark.accesskey "Q">
 <!ENTITY manualMarkModeMove.label "Spostalo nella cartella &quot;Indesiderata&quot; dell'utente">
-<!ENTITY manualMarkModeMove.accesskey "o">
+<!ENTITY manualMarkModeMove.accesskey "s">
 <!ENTITY manualMarkModeDelete.label "Eliminali">
-<!ENTITY manualMarkModeDelete.accesskey "C">
+<!ENTITY manualMarkModeDelete.accesskey "n">
 <!ENTITY markAsReadOnSpam.label "Marca letti i messaggi riconosciuti come posta indesiderata">
 <!ENTITY markAsReadOnSpam.accesskey "e">
 <!ENTITY enableJunkLogging.label "Abilita rapporto posta indesiderata">
