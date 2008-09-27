@@ -16,3 +16,4 @@
 <!ENTITY  bookmarkThisTab.accesskey   "B">
 <!ENTITY  undoCloseTab.label          "Angre Lat att fane">
 <!ENTITY  undoCloseTab.accesskey      "A">
+<!ENTITY  newTabButton.tooltip        "Opne ei ny fane">
