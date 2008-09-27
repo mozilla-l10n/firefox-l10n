@@ -3,23 +3,23 @@
 <!ENTITY fromField2.label "da">
 <!ENTITY senderField2.label "mittente">
 <!ENTITY organizationField2.label "organizzazione">
-<!ENTITY replyToField2.label "risposta-a">
+<!ENTITY replyToField2.label "rispondi a">
 <!ENTITY subjectField2.label "oggetto">
 <!ENTITY ccField2.label "cc ">
 <!ENTITY bccField2.label "ccn">
-<!ENTITY newsgroupsField2.label "newsgroups ">
-<!ENTITY followupToField2.label "inoltra-a">
+<!ENTITY newsgroupsField2.label "gruppi di discussione">
+<!ENTITY followupToField2.label "inoltra a">
 <!ENTITY tagsHdr2.label "tags ">
 <!ENTITY dateField2.label "data">
 <!ENTITY userAgentField2.label "user-agent ">
 <!ENTITY referencesField2.label "riferimenti">
 <!ENTITY messageIdField2.label "message-id ">
-<!ENTITY inReplyToField2.label "in-risposta-a">
+<!ENTITY inReplyToField2.label "in risposta a">
 <!ENTITY originalWebsite2.label "sito web">
 <!ENTITY saveAll.label "Salva tutti..">
 <!ENTITY editMessageDescription.label "Questa è una bozza">
 <!ENTITY editMessageButton.label "Modifica…">
-<!ENTITY replyButton.label "risposta…">
+<!ENTITY replyButton.label "rispondi…">
 <!ENTITY forwardButton.label "inoltra…">
 <!ENTITY junkButton.label "marca come indesiderata">
 <!ENTITY trashButton.tooltiptext "elimina">

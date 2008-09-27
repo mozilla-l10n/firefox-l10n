@@ -1,5 +1,5 @@
 <!ENTITY aboutDialog.title "Informazioni su &brandFullName;">
-<!ENTITY credits.label "Credits">
+<!ENTITY credits.label "Riconoscimenti">
 <!ENTITY credits.accesskey "C">
 <!ENTITY aboutLink.label "&lt; informazioni su &brandFullName;">
 <!ENTITY aboutLink.accesskey "I">
