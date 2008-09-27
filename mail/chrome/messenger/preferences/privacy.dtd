@@ -7,7 +7,7 @@
 <!ENTITY manualMark.accesskey "Q">
 <!ENTITY manualMarkModeMove.label "Spostalo nella cartella &quot;Indesiderata&quot; dell'utente">
 <!ENTITY manualMarkModeMove.accesskey "o">
-<!ENTITY manualMarkModeDelete.label "Cancellali">
+<!ENTITY manualMarkModeDelete.label "Eliminali">
 <!ENTITY manualMarkModeDelete.accesskey "C">
 <!ENTITY markAsReadOnSpam.label "Marca letti i messaggi riconosciuti come posta indesiderata">
 <!ENTITY markAsReadOnSpam.accesskey "e">
@@ -23,12 +23,12 @@
 <!ENTITY useDownloadedList.label "Usa una lista scaricata di sospette truffe elettroniche">
 <!ENTITY useDownloadedList.accesskey "U">
 <!ENTITY savedPasswords.intro "&brandShortName;  può memorizzare le password per tutti gli account in modo che non sia necessario reinserirle ogni volta.">
-<!ENTITY encryptEnabled.label "Usa una Password principale per cifrare le password memorizzate.">
+<!ENTITY encryptEnabled.label "Usa una password principale per cifrare le password memorizzate.">
 <!ENTITY encryptEnabled.accesskey "s">
-<!ENTITY masterPassword.intro "Una volta impostata, la Password principale proteggerà tutte le altre password; sarà però obbligatorio digitarla una volta per sessione.">
+<!ENTITY masterPassword.intro "Una volta impostata, la password principale proteggerà tutte le altre password; sarà però obbligatorio digitarla una volta per sessione.">
 <!ENTITY setMasterPassword.label "Password principale">
 <!ENTITY setMasterPassword.accesskey "P">
-<!ENTITY removeMasterPassword.label "Elimina la Password principale…">
+<!ENTITY removeMasterPassword.label "Elimina la password principale…">
 <!ENTITY removeMasterPassword.accesskey "R">
 <!ENTITY editPasswords.label "Modifica password salvate">
 <!ENTITY editPasswords.accesskey "i">

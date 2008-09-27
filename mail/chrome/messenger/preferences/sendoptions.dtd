@@ -20,9 +20,9 @@
 <!ENTITY AddHtmlDomain.accesskey "a">
 <!ENTITY AddPlainText.label "Aggiungere…">
 <!ENTITY AddPlainText.accesskey "g">
-<!ENTITY DeleteHtmlDomain.label "Cancellare">
+<!ENTITY DeleteHtmlDomain.label "Eliminare">
 <!ENTITY DeleteHtmlDomain.accesskey "l">
-<!ENTITY DeletePlainText.label "Cancellare">
+<!ENTITY DeletePlainText.label "Eliminare">
 <!ENTITY DeletePlainText.accesskey "E">
 <!ENTITY add.htmltitle "Aggiungere un dominio HTML:">
 <!ENTITY add.htmldomain "Nome dominio HTML:">

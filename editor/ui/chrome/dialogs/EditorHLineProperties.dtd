@@ -45,7 +45,7 @@
 <!ENTITY alignmentBox.label "Allineamento">
 <!ENTITY leftRadio.label "Sinistra">
 <!ENTITY leftRadio.accessKey "S">
-<!ENTITY centerRadio.label "Center">
+<!ENTITY centerRadio.label "Centra">
 <!ENTITY centerRadio.accessKey "C">
 <!ENTITY rightRadio.label "Destra">
 <!ENTITY rightRadio.accessKey "D">

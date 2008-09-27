@@ -26,10 +26,10 @@
 <!ENTITY setPriority.label "Imposta priorità a">
 <!ENTITY addTag.label "Etichetta il messaggio">
 <!ENTITY setJunkScore.label "Imposta stato indesiderata a">
-<!ENTITY deleteMessage.label "Cancella il messaggio">
-<!ENTITY deleteFromPOP.label "Cancella dal server POP">
+<!ENTITY deleteMessage.label "Elimina messaggio">
+<!ENTITY deleteFromPOP.label "Elimina dal server POP">
 <!ENTITY fetchFromPOP.label "Scarica dal server POP">
 <!ENTITY ignoreThread.label "Ignora la discussione">
 <!ENTITY ignoreSubthread.label "Ignora le sotto discussioni">
 <!ENTITY watchThread.label "Tieni d'occhio la discussione">
-<!ENTITY stopExecution.label "Ferma l'esecuzione dei filtri">
+<!ENTITY stopExecution.label "Interrompi l'esecuzione dei filtri">

@@ -33,10 +33,10 @@
 <!ENTITY leaveOnServer.accesskey "g">
 <!ENTITY headersOnly.label "Preleva soltanto le intestazioni">
 <!ENTITY headersOnly.accesskey "r">
-<!ENTITY deleteByAgeFromServer.label "Cancella i messaggi dal server dopo">
+<!ENTITY deleteByAgeFromServer.label "non più di">
 <!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "giorni">
-<!ENTITY deleteOnServer2.label "Fino alla loro cancellazione">
+<!ENTITY deleteOnServer2.label "finchè non vengono eliminati">
 <!ENTITY deleteOnServer2.accesskey "z">
 <!ENTITY downloadOnBiff.label "Scarica automaticamente nuovi messaggi">
 <!ENTITY downloadOnBiff.accesskey "m">
@@ -50,7 +50,7 @@
 <!ENTITY modelMarkDeleted.accesskey "e">
 <!ENTITY modelDeleteImmediately.label "Rimuovilo immediatamente">
 <!ENTITY modelDeleteImmediately.accesskey "R">
-<!ENTITY expungeOnExit.label "All'uscita pulisci la Posta in Arrivo (&quot;Expunge&quot;)">
+<!ENTITY expungeOnExit.label "All'uscita pulisci la Posta in arrivo (&quot;Expunge&quot;)">
 <!ENTITY expungeOnExit.accesskey "E">
 <!ENTITY emptyTrashOnExit.label "Svuota cestino all'uscita">
 <!ENTITY emptyTrashOnExit.accesskey "u">

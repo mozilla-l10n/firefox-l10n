@@ -18,7 +18,7 @@
 <!ENTITY viewLogButton.accesskey "R">
 <!ENTITY runFilters.label "Esegui ora">
 <!ENTITY runFilters.accesskey "o">
-<!ENTITY stopFilters.label "Stop">
+<!ENTITY stopFilters.label "Interrompi">
 <!ENTITY stopFilters.accesskey "S">
 <!ENTITY folderPickerPrefix.label "Esegui i filtri scelti su:">
 <!ENTITY folderPickerPrefix.accesskey "i">

@@ -45,10 +45,10 @@
 <!ENTITY newBlankPageCmd.label "Pagina">
 <!ENTITY newBlankPage.accesskey "P">
 <!ENTITY newMenu.label "Nuovo">
-<!ENTITY openFileCmd.label "Apri file...">
+<!ENTITY openFileCmd.label "Apri file…">
 <!ENTITY fileopen.accesskey "A">
 <!ENTITY fileopen.keybinding "o">
-<!ENTITY openremoteCmd.label "Apri indirizzo web...">
+<!ENTITY openremoteCmd.label "Apri indirizzo web…">
 <!ENTITY fileopenremote.accesskey "w">
 <!ENTITY fileopenremote.keybinding "l">
 <!ENTITY fileRecentMenu.label "Pagine recenti">
@@ -58,26 +58,26 @@
 <!ENTITY saveCmd.label "Salva">
 <!ENTITY filesave.accesskey "S">
 <!ENTITY filesave.keybinding "s">
-<!ENTITY saveAsCmd.label "Salva come...">
+<!ENTITY saveAsCmd.label "Salva come…">
 <!ENTITY filesaveas.accesskey "v">
 <!ENTITY publishCmd.label "Pubblica">
 <!ENTITY publishcmd.accesskey "P">
-<!ENTITY publishAsCmd.label "Pubblica con nome...">
+<!ENTITY publishAsCmd.label "Pubblica con nome…">
 <!ENTITY publishas.accesskey "l">
-<!ENTITY exportToTextCmd.label "Esporta come testo...">
+<!ENTITY exportToTextCmd.label "Esporta come testo…">
 <!ENTITY fileexporttotext.accesskey "o">
 <!ENTITY saveAsChangeEncodingCmd.label "Salva e cambia codifica caratteri">
 <!ENTITY filesaveandchangeencoding.accesskey "r">
 <!ENTITY previewCmd.label "Anteprima nel browser">
 <!ENTITY filepreview.accesskey "b">
-<!ENTITY sendPageCmd.label "Invia pagina...">
-<!ENTITY sendPage.accesskey "d">
-<!ENTITY printSetupCmd.label "Imposta pagina...">
+<!ENTITY sendPageCmd.label "Invio pagina…">
+<!ENTITY sendPage.accesskey "n">
+<!ENTITY printSetupCmd.label "Imposta pagina…">
 <!ENTITY fileprintsetup.accesskey "I">
 <!ENTITY printPreviewCmd.label "Anteprima di stampa">
 <!ENTITY fileprintpreview.accesskey "d">
-<!ENTITY printCmd.label "Stampa...">
-<!ENTITY printButtonCmd.label "Stampa...">
+<!ENTITY printCmd.label "Stampa…">
+<!ENTITY printButtonCmd.label "Stampa…">
 <!ENTITY fileprint.accesskey "m">
 <!ENTITY fileprint.keybinding "p">
 <!ENTITY closeCmd.label "Chiudi">
@@ -92,7 +92,7 @@
 <!ENTITY pasteNoFormatting.accesskey "f">
 <!ENTITY pasteAs.label "Incolla come">
 <!ENTITY pasteAs.accesskey "o">
-<!ENTITY publishSettings.label "Impostazioni pubblicazione del sito...">
+<!ENTITY publishSettings.label "Impostazioni pubblicazione…">
 <!ENTITY publishSettings.accesskey "m">
 <!ENTITY pasteHTMLCmd.label "HTML">
 <!ENTITY pasteHTML.accesskey "H">
@@ -112,7 +112,7 @@
 <!ENTITY editpastequotation.keybinding "v">
 <!ENTITY editStripQuotesCmd.label "Elimina virgolette">
 <!ENTITY editRewrapCmd.label "Riordina colonne">
-<!ENTITY findCmd.label "Trova e sostituisci...">
+<!ENTITY findCmd.label "Trova e sostituisci…">
 <!ENTITY editfind.accesskey "v">
 <!ENTITY editfind.keybinding "f">
 <!ENTITY editfind.keybinding2 "VK_F19">
@@ -125,7 +125,7 @@
 <!ENTITY editfindprev.keybinding "g">
 <!ENTITY editfindprev.keybinding2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Controlla ortografia durante la digitazione">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
+<!ENTITY enableInlineSpellChecker.accesskey "C">
 <!ENTITY checkSpellingCmd.label "Controllo ortografico">
 <!ENTITY editcheckspelling.accesskey "o">
 <!ENTITY editcheckspelling.keybinding "k">
@@ -138,43 +138,43 @@
 <!ENTITY viewparagraphmarks.accesskey "p">
 <!ENTITY insertMenu.label "Inserisci">
 <!ENTITY insertmenu.accesskey "I">
-<!ENTITY insertLinkCmd.label "Collegamento...">
+<!ENTITY insertLinkCmd.label "Collegamento…">
 <!ENTITY insertlink.accesskey "C">
 <!ENTITY insertlink.keybinding "l">
-<!ENTITY insertAnchorCmd.label "Ancora...">
+<!ENTITY insertAnchorCmd.label "Ancora…">
 <!ENTITY insertanchor.accesskey "A">
-<!ENTITY insertImageCmd.label "Immagine...">
+<!ENTITY insertImageCmd.label "Immagine…">
 <!ENTITY insertimage.accesskey "I">
-<!ENTITY insertImageMapCmd.label "Mappa immagine...">
+<!ENTITY insertImageMapCmd.label "Mappa immagine…">
 <!ENTITY insertHLineCmd.label "Separatore orizzontale">
 <!ENTITY inserthline.accesskey "S">
-<!ENTITY insertTableCmd.label "Tabella...">
+<!ENTITY insertTableCmd.label "Tabella…">
 <!ENTITY inserttable.accesskey "T">
 <!ENTITY insertFormMenu.label "Modulo">
 <!ENTITY insertformmenu.accesskey "M">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
-<!ENTITY insertCharsCmd.label "Caratteri e simboli...">
+<!ENTITY insertCharsCmd.label "Caratteri e simboli…">
 <!ENTITY insertchars.accesskey "r">
 <!ENTITY insertBreakCmd.label "Caporiga">
 <!ENTITY insertbreak.accesskey "p">
 <!ENTITY insertBreakAllCmd.label "A capo dopo immagini">
 <!ENTITY insertbreakall.accesskey "d">
-<!ENTITY insertFormCmd.label "Creazione modulo...">
+<!ENTITY insertFormCmd.label "Creazione modulo…">
 <!ENTITY insertform.accesskey "r">
-<!ENTITY insertInputTagCmd.label "Campo modulo...">
+<!ENTITY insertInputTagCmd.label "Campo modulo…">
 <!ENTITY insertinputtag.accesskey "C">
-<!ENTITY insertInputImageCmd.label "Immagine modulo...">
+<!ENTITY insertInputImageCmd.label "Immagine modulo…">
 <!ENTITY insertinputimage.accesskey "m">
-<!ENTITY insertTextAreaCmd.label "Area di testo...">
+<!ENTITY insertTextAreaCmd.label "Area di testo…">
 <!ENTITY inserttextarea.accesskey "A">
 <!ENTITY insertSelectCmd.label "Lista di selezione..">
 <!ENTITY insertselect.accesskey "L">
-<!ENTITY insertButtonCmd.label "Definisci pulsante...">
+<!ENTITY insertButtonCmd.label "Crea pulsante…">
 <!ENTITY insertbutton.accesskey "p">
 <!ENTITY insertLabelCmd.label "Crea etichetta">
 <!ENTITY insertlabel.accesskey "t">
-<!ENTITY insertFieldSetCmd.label "Crea gruppo campi...">
+<!ENTITY insertFieldSetCmd.label "Crea gruppo campi…">
 <!ENTITY insertfieldset.accesskey "g">
 <!ENTITY insertIsIndexCmd.label "Indice ricerca">
 <!ENTITY insertisindex.accesskey "I">
@@ -183,7 +183,7 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Aggiungi al dizionario">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY createLinkCmd.label "Crea collegamento...">
+<!ENTITY createLinkCmd.label "Crea collegamento…">
 <!ENTITY createlink.accesskey "l">
 <!ENTITY editLinkCmd.label "Modifica collegamento in Compositore">
 <!ENTITY editlink.accesskey "M">
@@ -278,9 +278,9 @@
 <!ENTITY styleSamp.accesskey "i">
 <!ENTITY styleVar.label "Variabile">
 <!ENTITY styleVar.accesskey "V">
-<!ENTITY formatFontColor.label "Colore testo...">
+<!ENTITY formatFontColor.label "Colore testo…">
 <!ENTITY formatfontcolor.accesskey "o">
-<!ENTITY tableOrCellColor.label "Colore di sfondo tabella o cella...">
+<!ENTITY tableOrCellColor.label "Colore di sfondo tabella o cella…">
 <!ENTITY tableOrCellColor.accesskey "C">
 <!ENTITY formatremovestyles.keybinding "y">
 <!ENTITY formatremovelinks.keybinding "k">
@@ -323,7 +323,7 @@
 <!ENTITY listterm.accesskey "T">
 <!ENTITY listDefinitionCmd.label "Definizioni">
 <!ENTITY listdefinition.accesskey "D">
-<!ENTITY listProps.label "Proprietà elenco...">
+<!ENTITY listProps.label "Proprietà elenco…">
 <!ENTITY listprops.accesskey "r">
 <!ENTITY ParagraphSelect.tooltip "Sceglie un formato per il paragrafo">
 <!ENTITY bodyTextCmd.label "Corpo del testo">
@@ -368,9 +368,9 @@
 <!ENTITY decreaseindentkb "-">
 <!ENTITY grid.label "Griglia di posizionamento">
 <!ENTITY grid.accesskey "G">
-<!ENTITY pageProperties.label "Titolo e proprietà pagina...">
+<!ENTITY pageProperties.label "Titolo e proprietà pagina…">
 <!ENTITY pageproperties.accesskey "T">
-<!ENTITY colorsAndBackground.label "Sfondo e colori pagina...">
+<!ENTITY colorsAndBackground.label "Sfondo e colori pagina…">
 <!ENTITY colorsandbackground.accesskey "f">
 <!ENTITY tableMenu.label "Tabella">
 <!ENTITY tablemenu.accesskey "T">
@@ -415,7 +415,7 @@
 <!ENTITY tablesplitcell.accesskey "D">
 <!ENTITY convertToTable.label "Crea tabella da selezione">
 <!ENTITY converttotable.accesskey "r">
-<!ENTITY tableProperties.label "Proprietà tabella...">
+<!ENTITY tableProperties.label "Proprietà tabella…">
 <!ENTITY tableProperties.accesskey "P">
 <!ENTITY toolsmenu.accesskey "l">
 <!ENTITY toolbrowser.accesskey "b">
@@ -430,7 +430,7 @@
 <!ENTITY saveToolbarCmd.tooltip "Salva la pagina localmente">
 <!ENTITY publishToolbarCmd.tooltip "Memorizza i file presso un indirizzo remoto">
 <!ENTITY previewToolbarCmd.label "Anteprima">
-<!ENTITY previewToolbarCmd.tooltip "Carica la pagina nel browser">
+<!ENTITY previewToolbarCmd.tooltip "Apri la pagina nel browser">
 <!ENTITY printToolbarCmd.label "Stampa">
 <!ENTITY printToolbarCmd.tooltip "Stampa la pagina">
 <!ENTITY findToolbarCmd.label "Trova">
@@ -487,7 +487,7 @@
 <!ENTITY HTMLSourceMode.tooltip "Modifica sorgente HTML">
 <!ENTITY PreviewMode.label "Anteprima">
 <!ENTITY PreviewMode.accesskey "A">
-<!ENTITY PreviewMode.tooltip "Mostra come WYSIWYG (come in Navigator)">
+<!ENTITY PreviewMode.tooltip "Mostra come WYSIWYG (come nel browser)">
 <!ENTITY SourceTabDirection "ltr">
 <!ENTITY structSelect.label "Seleziona">
 <!ENTITY structSelect.accesskey "S">
@@ -501,5 +501,5 @@
 <!ENTITY updateTOC.accesskey "A">
 <!ENTITY removeTOC.label "Elimina">
 <!ENTITY removeTOC.accesskey "E">
-<!ENTITY tocMenu.label "Indice argomenti...">
+<!ENTITY tocMenu.label "Indice argomenti…">
 <!ENTITY tocMenu.accesskey "n">

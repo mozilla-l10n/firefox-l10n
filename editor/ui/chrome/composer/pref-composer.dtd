@@ -1,4 +1,4 @@
-<!ENTITY pref.composer.title "Compositore">
+<!ENTITY pref.composer.title "Composer">
 <!ENTITY saving "Salvataggio in corso">
 <!ENTITY AutoSaveCheck "Salvare automaticamente ogni">
 <!ENTITY minText "minuti">
@@ -20,8 +20,8 @@
 <!ENTITY composerEditing.label "Modifica">
 <!ENTITY spellCheckInline.label "Controlla ortografia durante la digitazione">
 <!ENTITY spellCheckInline.accesskey "C">
-<!ENTITY maintainStructure.label "Mantenere lo schema della tabella durante l'inserimento o la cancellazione di celle">
-<!ENTITY maintainStructure.tooltip "Preservare la forma rettangolare della tabella aggiungendo automaticamente celle dopo l'inserimento o la cancellazione di celle">
+<!ENTITY maintainStructure.label "Mantenere la struttura della tabella durante l'inserimento o l'eliminazione di celle">
+<!ENTITY maintainStructure.tooltip "Preservare la forma rettangolare della tabella aggiungendo automaticamente celle dopo l'inserimento o l'eliminazione di celle">
 <!ENTITY maintainStructure.accesskey "a">
 <!ENTITY useCSS.label "Utilizza stili CSS al posto di elementi ed attributi HTML">
 <!ENTITY useCSS.accesskey "U">

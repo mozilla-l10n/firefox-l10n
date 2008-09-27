@@ -41,7 +41,7 @@
 <!ENTITY findField.accesskey "o">
 <!ENTITY replaceField.label "Sostituisci con:">
 <!ENTITY replaceField.accesskey "n">
-<!ENTITY caseSensitiveCheckbox.label "Maiuscole/minuscole">
+<!ENTITY caseSensitiveCheckbox.label "Sensibile a maiuscole/minuscole">
 <!ENTITY caseSensitiveCheckbox.accesskey "M">
 <!ENTITY wrapCheckbox.label "Riparti dall'inizio dopo la fine del documento">
 <!ENTITY wrapCheckbox.accesskey "R">

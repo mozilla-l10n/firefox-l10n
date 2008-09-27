@@ -5,7 +5,7 @@
 <!ENTITY releaseCmd.label "Note di rilascio">
 <!ENTITY releaseCmd.accesskey "N">
 <!ENTITY openHelp.label "Contenuti della Guida">
-<!ENTITY openHelp.accesskey "H">
+<!ENTITY openHelp.accesskey "C">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "Aiuto di &brandShortName;">
 <!ENTITY openHelpMac2.commandkey "?">

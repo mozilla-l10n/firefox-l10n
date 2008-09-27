@@ -2,14 +2,14 @@
 <!ENTITY importDialog.windowTitle "Importa">
 <!ENTITY importDialog.allTitle "Importa tutto">
 <!ENTITY importDialog.mailTitle "Posta">
-<!ENTITY importDialog.addressbookTitle "Rubrica">
+<!ENTITY importDialog.addressbookTitle "Rubriche">
 <!ENTITY importDialog.settingsTitle "Impostazioni">
 <!ENTITY importDialog.filtersTitle "Filtri">
 <!ENTITY window.width "45em">
 <!ENTITY window.macWidth "50em">
 <!ENTITY importTitle.label "Importazione guidata di &brandShortName;">
 <!ENTITY importShortDesc.label "Importa posta, impostazioni, rubrica e filtri da altri programmi">
-<!ENTITY importDescription1.label "Questo proccesso importerà messaggi di posta, voci di rubrica, preferenze, e/o filtri da latri programmi di posta e rubriche comuni in &brandShortName;.">
+<!ENTITY importDescription1.label "Questo proccesso importerà in &brandShortName; messaggi di posta, voci di rubrica, preferenze e/o filtri da altri programmi di posta e rubriche comuni.">
 <!ENTITY importDescription2.label "Una volta importate, vi si potrà accedere da &brandShortName;.">
 <!ENTITY selectDescription.label "Selezionare il programma dal quale eseguire l'importazione:">
 <!ENTITY back.label "&lt; Indietro">
@@ -23,4 +23,4 @@
 <!ENTITY FieldDiscInputText2.label "Selezionare la categoria nella quale immagazzinare gli indirizzi di posta importati:">
 <!ENTITY FieldDiscWarning.label "Questa sezione sarà utilizzata per tutte le voci della rubrica selezionata: ">
 <!ENTITY importDialog.homeTitle "Casa">
-<!ENTITY importDialog.workTitle "Ufficio">
+<!ENTITY importDialog.workTitle "Lavoro">
