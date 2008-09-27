@@ -222,6 +222,8 @@
 <!ENTITY reloadFrameCmd.accesskey     "O">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Vis kjeldekode for vald tekst">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Vis MathML-kjeldekode">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Vis kjeldekode for sida">
 <!ENTITY viewPageSourceCmd.accesskey  "k">
@@ -307,7 +309,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Forstørre">
 <!ENTITY fullZoom.accesskey             "F">
 
-<!ENTITY newTabButton.tooltip           "Opnar ny fane">
 <!ENTITY newWindowButton.tooltip        "Opnar nytt vindauge">
 <!ENTITY sidebarCloseButton.tooltip     "Lat att sidestolpen">
 
