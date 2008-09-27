@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label             "Új oldalak megnyitása:">
-<!ENTITY inNewWindow.label            "új ablakban">
-<!ENTITY inNewWindow.accesskey        "a">
-<!ENTITY inNewTab.label               "új lapon">
-<!ENTITY inNewTab.accesskey           "l">
+<!ENTITY newWindowsAsTabs.label       "Új ablakok megnyitása új lapokon">
+<!ENTITY newWindowsAsTabs.accesskey   "a">
 
 <!ENTITY warnCloseMultipleTabs.label  "Figyelmeztetés több lap bezárása előtt">
 <!ENTITY warnCloseMultipleTabs.accesskey  "t">

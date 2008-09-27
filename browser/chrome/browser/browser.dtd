@@ -309,7 +309,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Nagyítás">
 <!ENTITY fullZoom.accesskey             "N">
 
-<!ENTITY newTabButton.tooltip           "Új lap megnyitása">
 <!ENTITY newWindowButton.tooltip        "Új ablak megnyitása">
 <!ENTITY sidebarCloseButton.tooltip     "Oldalsáv bezárása">
 
