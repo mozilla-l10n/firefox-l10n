@@ -1,8 +1,8 @@
 <!ENTITY warnAddonInstall.label "Папярэджваць мяне, калі пляцоўкі спрабуюць усталяваць дадаткі">
 <!ENTITY warnAddonInstall.accesskey "П">
-<!ENTITY tellMaybeAttackSite.label "Папярэджваць мяне, калі старонка, якую я наведваю, падазраецца як нападная">
+<!ENTITY tellMaybeAttackSite2.label "Блакаваць вядомыя нападныя пляцоўкі">
 <!ENTITY tellMaybeAttackSite.accesskey "я">
-<!ENTITY tellMaybeForgery.label "Папярэджваць мяне, калі я наведваю пляцоўку, якая падазраецца як падробка">
+<!ENTITY tellMaybeForgery2.label "Блакаваць вядомыя пляцоўкі-падробкі">
 <!ENTITY tellMaybeForgery.accesskey "П">
 <!ENTITY addonExceptions.label "Выключэнні…">
 <!ENTITY addonExceptions.accesskey "В">

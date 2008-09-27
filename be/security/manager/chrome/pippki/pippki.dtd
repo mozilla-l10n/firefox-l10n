@@ -46,7 +46,7 @@
 <!ENTITY resetPassword.title "Скіданне галоўнага пароля">
 <!ENTITY resetPassword.text "Калі вы пазбавіцеся вашага галоўнага пароля, усе вашы захаваныя паролі сеціва і э-пошты, даныя формаў, асабістыя пасведчанні і прыватныя ключы згубяцца. Вы сапраўды хочаце скінуць ваш галоўны пароль? ">
 <!ENTITY getPassword.title "Увод галоўнага пароля">
-<!ENTITY getPassword.tokenName.label "Збудова бяспекі">
+<!ENTITY getPassword.tokenName2.label "Збудова бяспекі:">
 <!ENTITY getPassword.password.label "Пароль:">
 <!ENTITY piperror.title "Памылка">
 <!ENTITY pipalert.title "Памылка - немагчыма аднавіць">

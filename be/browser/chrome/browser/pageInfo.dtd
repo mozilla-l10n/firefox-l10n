@@ -20,8 +20,8 @@
 <!ENTITY generalEncoding "Кадаванне:">
 <!ENTITY generalMetaName "Назва">
 <!ENTITY generalMetaContent "Змест">
-<!ENTITY generalSecurityMore "Больш">
-<!ENTITY generalSecurityMore.accesskey "Б">
+<!ENTITY generalSecurityDetails "Падрабязнасці">
+<!ENTITY generalSecurityDetails.accesskey "д">
 <!ENTITY mediaTab "Медыя">
 <!ENTITY mediaTab.accesskey "М">
 <!ENTITY mediaLocation "Месцазнаходжанне:">

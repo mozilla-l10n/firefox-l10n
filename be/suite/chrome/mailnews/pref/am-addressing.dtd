@@ -9,6 +9,7 @@
 <!ENTITY editDirectories.accesskey "Р">
 <!ENTITY directories.label "Карыстацца іншым паслугачом LDAP:">
 <!ENTITY directories.accesskey "і">
+<!ENTITY directoriesNone.label "Няма">
 <!ENTITY compositionGroupTitle.label "Укладанне">
 <!ENTITY useHtml.label "Укладаць лісты ў фармаце HTML">
 <!ENTITY useHtml.accesskey "У">

@@ -1,9 +1,12 @@
 <!ENTITY aboutDialog.title "Пра &brandFullName;">
 <!ENTITY copyright "Удзельнікі">
 <!ENTITY copyright.accesskey "У">
+<!ENTITY copyrightGNOME.accesskey "е">
 <!ENTITY aboutLink "&lt; Пра &brandFullName;">
 <!ENTITY aboutLink.accesskey "П">
 <!ENTITY aboutVersion "версія">
+<!ENTITY closeCmdGNOME.label "Закрыць">
+<!ENTITY closeCmdGNOME.accesskey "к">
 <!ENTITY copyrightInfo "©1998-2008 Укладчыкі. Усе правы абаронены. Firefox і эмблема
                                  Firefox – гандлёвыя маркі Mozilla Foundation.
                                  Усе правы абаронены.">

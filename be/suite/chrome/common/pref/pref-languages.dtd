@@ -1,34 +1,20 @@
 <!ENTITY languages.customize.prefLangDescript "Часам старонкі сеціва даступны ў некалькіх мовах. Выберыце мовы для адлюстравання старонак сеціва ў парадку пераваг. ">
-<!ENTITY languages.customize.lHeader "Мовы">
-<!ENTITY languages.customize.rHeader "Мовы, у якіх старонкі сеціва адлюстроўваюцца">
+<!ENTITY languages.customize.title "Мовы">
 <!ENTITY langtitle.label "Мовы старонак сеціва">
 <!ENTITY languages.customize.prefAddLangDescript "Выберыце мову(ы), якія вы жадаеце дадаць.">
-<!ENTITY languages.customize.engOrder.label "1">
-<!ENTITY languages.customize.engOption.label "Англійская">
 <!ENTITY languages.customize.addButton.label "Дадаць…">
 <!ENTITY languages.customize.addButton.accesskey "Д">
 <!ENTITY languages.customize.deleteButton.label "Выдаліць">
 <!ENTITY languages.customize.deleteButton.accesskey "д">
-<!ENTITY languages.customize.title.label "Наладзіць мовы">
 <!ENTITY languages.customize.add.title.label "Дадаць мовы">
-<!ENTITY languages.customize.left.header "Кадоўкі знакаў">
-<!ENTITY charset.customize.right.header "Выберыце сукупнасці знакаў, якія падтрымліваюцца">
 <!ENTITY languages.customize.available.label "Мовы:">
 <!ENTITY languages.customize.active.label "Мовы ў парадку пераваг:">
-<!ENTITY languages.customize.reorder.label "Пераўпарадкаваць">
-<!ENTITY languages.customize.remove.label "Выдаліць">
-<!ENTITY languages.customize.additional.label "Даступныя сукупнасці знакаў">
-<!ENTITY languages.customize.add.label "Дадаць">
 <!ENTITY languages.customize.others.label "Іншыя:">
 <!ENTITY languages.customize.others.accesskey "І">
-<!ENTITY languages.customize.Charset.grouplabel "Кадоўка знакаў">
-<!ENTITY languages.customize.DefaultCharset.label "Змоўчная кадоўка знакаў:">
-<!ENTITY languages.customize.DefaultCharset.accesskey "З">
+<!ENTITY languages.customize.Charset.grouplabel "Змоўчная кадоўка знакаў">
+<!ENTITY languages.customize.DefaultCharset.label "Кадоўка знакаў:">
+<!ENTITY languages.customize.DefaultCharset.accesskey "К">
 <!ENTITY languages.customize.others.examples "напрыклад: en-bz, ar-jo">
-<!ENTITY languages.customize.cancel.label "Скасаваць">
-<!ENTITY languages.customize.save.label "Захаваць">
-<!ENTITY languages.customize.ok.label "Добра">
-<!ENTITY languages.customize.save.popup "Перазапусціце азіральнік, калі ласка, каб змяненні набылі моц…">
 <!ENTITY languages.customize.moveUp.label "Рухаць угору">
 <!ENTITY languages.customize.moveUp.accesskey "г">
 <!ENTITY languages.customize.moveDown.label "Рухаць уніз">

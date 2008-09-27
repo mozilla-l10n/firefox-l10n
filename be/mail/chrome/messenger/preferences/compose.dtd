@@ -46,6 +46,7 @@
 <!ENTITY addressingEnable.accesskey "м">
 <!ENTITY directories.label "На паслугачу дырэкторыяў:">
 <!ENTITY directories.accesskey "д">
+<!ENTITY directoriesNone.label "Няма">
 <!ENTITY editDirectories.label "Рэдагаваць дырэкторыі…">
 <!ENTITY editDirectories.accesskey "Р">
 <!ENTITY matchText.label "Калі існуе супадзенне ў вашых мясцовых адрасных кнігах:">

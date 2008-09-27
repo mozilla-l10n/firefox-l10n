@@ -17,7 +17,7 @@
 <!ENTITY HTMLdomaintitle.label "HTML дамены">
 <!ENTITY HTMLdomaintitle.accesskey "M">
 <!ENTITY PlainTexttitle.label "Дамены простага тэксту">
-<!ENTITY PlainTexttitle.accesskey "П">
+<!ENTITY PlainTexttitle.accesskey "п">
 <!ENTITY AddButton.label "Дадаць…">
 <!ENTITY AddHtmlDomain.accesskey "Д">
 <!ENTITY AddPlainText.accesskey "а">
@@ -26,10 +26,7 @@
 <!ENTITY DeletePlainText.accesskey "л">
 <!ENTITY add.htmltitle "Дадаць назву HTML дамену">
 <!ENTITY add.htmldomain "Назва HTML дамену:">
-<!ENTITY add.htmldomain.accesskey "Д">
 <!ENTITY add.plaintexttitle "Дадаць назву дамену простага тэксту">
 <!ENTITY add.plaintextdomain "Назва дамену простага тэксту:">
-<!ENTITY add.plaintext.accesskey "а">
 <!ENTITY domainnameError.title "Памылка назвы дамену">
-<!ENTITY duplicationError.label "Назва дамену @string@ ужо існуе  ў гэтым спісе.">
-<!ENTITY dualEntryError.label "Назва дамену не можа з'яўляцца адначасова ў HTML спісе і спісе простага тэксту. Назва дамену @string@ ўжо існуе.">
+<!ENTITY invalidEntryError.label "Назва дамену @string@ няспраўная і будзе ігнаравацца. Спраўныя назвы даменаў павінны ўключаць прынамсі адну '.' і знакі з таго ці іншага яе боку.">

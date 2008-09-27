@@ -40,9 +40,7 @@
 <!ENTITY aboutWarningButton.label "Я буду абачлівым, абяцаю!">
 <!ENTITY aboutWarningCheckbox.label "Паказваць гэтае папярэджанне наступным разам">
 <!ENTITY filterPrefs.label "Сіта:">
-<!ENTITY filterPrefs.accesskey "і">
-<!ENTITY showAll.label "Паказаць усе">
-<!ENTITY showAll.accesskey "ь">
+<!ENTITY filterPrefs.accesskey "С">
 <!ENTITY prefColumn.label "Назва перавагі">
 <!ENTITY lockColumn.label "Статус">
 <!ENTITY typeColumn.label "Тып">

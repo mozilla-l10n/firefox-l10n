@@ -1,23 +1,35 @@
 <!--null-->
-<!ENTITY toField.label "Да:">
-<!ENTITY fromField.label "Ад:">
-<!ENTITY senderField.label "Адпраўнік:">
-<!ENTITY organizationField.label "Установа:">
-<!ENTITY replyToField.label "Зваротны адрас:">
-<!ENTITY subjectField.label "Тэма:">
-<!ENTITY ccField.label "Са:">
-<!ENTITY bccField.label "Сса:">
-<!ENTITY newsgroupsField.label "Навінакупы:">
-<!ENTITY followupToField.label "Водгук-Да: ">
-<!ENTITY tagsHdr.label "Меткі:">
-<!ENTITY dateField.label "Дата:">
-<!ENTITY userAgentField.label "Праграма">
-<!ENTITY referencesField.label "Спасылкі:">
-<!ENTITY messageIdField.label "Вызначальнік-ліста:">
-<!ENTITY inReplyToField.label "У-адказ-на:">
-<!ENTITY originalWebsite.label "Пляцоўка сеціва:">
+<!ENTITY toField2.label "да">
+<!ENTITY fromField2.label "ад">
+<!ENTITY senderField2.label "адпраўнік">
+<!ENTITY organizationField2.label "установа">
+<!ENTITY replyToField2.label "зваротны адрас">
+<!ENTITY subjectField2.label "тэма">
+<!ENTITY ccField2.label "СА">
+<!ENTITY bccField2.label "ССА">
+<!ENTITY newsgroupsField2.label "навінакупы">
+<!ENTITY followupToField2.label "водгук-да">
+<!ENTITY tagsHdr2.label "тэгі">
+<!ENTITY dateField2.label "дата">
+<!ENTITY userAgentField2.label "дзеяч-карыстальніка">
+<!ENTITY referencesField2.label "спасылкі">
+<!ENTITY messageIdField2.label "вызначальнік-ліста">
+<!ENTITY inReplyToField2.label "у-адказе">
+<!ENTITY originalWebsite2.label "пляцоўка сеціва">
 <!ENTITY saveAll.label "Захаваць усе…">
-<!ENTITY editMessage.label "Рэдагаваць чарнавік…">
+<!ENTITY editMessageDescription.label "Чарнавік ліста">
+<!ENTITY editMessageButton.label "Праўка…">
+<!ENTITY replyButton.label "даказаць…">
+<!ENTITY forwardButton.label "накіраваць…">
+<!ENTITY junkButton.label "пазначыць лухтой">
+<!ENTITY trashButton.tooltiptext "выдаліць">
+<!ENTITY otherActionsButton.label "іншыя дзеянні">
+<!ENTITY saveAsMenuItem.label "захаваць як…">
+<!ENTITY saveAsMenuItem.accesskey "я">
+<!ENTITY viewSourceMenuItem.label "прагледзець зыходнік…">
+<!ENTITY viewSourceMenuItem.accesskey "г">
+<!ENTITY hideDetailsButton.label "схаваць падрабязнасці">
+<!ENTITY showDetailsButton.label "паказаць падрабязнасці">
 <!ENTITY openAttachmentCmd.label "Адчыніць">
 <!ENTITY openAttachmentCmd.accesskey "А">
 <!ENTITY saveAsAttachmentCmd.label "Захаваць як…">

@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label "Новыя старонкі павінны адчыняцца ў:">
-<!ENTITY inNewWindow.label "новым вакне">
-<!ENTITY inNewWindow.accesskey "в">
-<!ENTITY inNewTab.label "новай устаўцы">
-<!ENTITY inNewTab.accesskey "у">
+<!ENTITY newWindowsAsTabs.label "Адкрываць новыя вокны ў новых устаўках">
+<!ENTITY newWindowsAsTabs.accesskey "у">
 <!ENTITY warnCloseMultipleTabs.label "Папярэджваць пра зачыненне шматлікіх уставак">
 <!ENTITY warnCloseMultipleTabs.accesskey "ш">
 <!ENTITY warnOpenManyTabs.label "Папярэджваць мяне, калі адкрыццё шматлікіх уставак можа замарудзіць &brandShortName;">

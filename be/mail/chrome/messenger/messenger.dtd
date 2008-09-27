@@ -36,6 +36,8 @@
 <!ENTITY sendUnsentCmd.accesskey "ь">
 <!ENTITY subscribeCmd.label "Падпісацца…">
 <!ENTITY subscribeCmd.accesskey "п">
+<!ENTITY deleteFolder.label "Выдаліць папку">
+<!ENTITY deleteFolder.accesskey "д">
 <!ENTITY renameFolder.label "Перайменаваць папку…">
 <!ENTITY renameFolder.accesskey "й">
 <!ENTITY renameFolder.key "VK_F2">
@@ -417,6 +419,7 @@
 <!ENTITY backButton1.label "Назад">
 <!ENTITY goForwardButton1.label "Наперад">
 <!ENTITY deleteButton.label "Выдаліць">
+<!ENTITY undeleteButton.label "Адмяніць выдаленне">
 <!ENTITY markButton.label "Пазначыць">
 <!ENTITY printButton.label "Друкаваць">
 <!ENTITY stopButton.label "Прыпыніць">
@@ -446,6 +449,7 @@
 <!ENTITY goForwardButton.tooltip "Перамясціцца да наступнага ліста">
 <!ENTITY goBackButton.tooltip "Перамясціцца да папярэдняга ліста">
 <!ENTITY deleteButton.tooltip "Выдаліць вылучаны ліст ці папку">
+<!ENTITY undeleteButton.tooltip "Адмяніць выдаленне вылучанага ліста">
 <!ENTITY markButton.tooltip "Пазначыць лісты">
 <!ENTITY printButton.tooltip "Надрукаваць гэты ліст">
 <!ENTITY stopButton.tooltip "Прыпыніць цяперашні перанос">
@@ -502,6 +506,7 @@
 <!ENTITY searchFromMenu.label "Ад">
 <!ENTITY searchSubjectOrFromMenu.label "Тэма або Ад">
 <!ENTITY searchRecipient.label "Да ці Са">
+<!ENTITY searchSubjectOrRecipientMenu.label "Тэма, Да ці СА">
 <!ENTITY searchMessageBody.label "Гэты ліст">
 <!ENTITY saveAsVirtualFolderMenu.label "Захаваць пошук як папку…">
 <!ENTITY threadColumn.label "Нізка">
@@ -578,13 +583,15 @@
 <!ENTITY junkBarButton1.label "Не лухта">
 <!ENTITY junkInfoButton.label "?">
 <!ENTITY remoteContentMessage1.label "Каб абараніць ваша адасабленне, адлеглыя малюнкі затрыманы.">
-<!ENTITY loadRemoteContentButton1.label "Загрузіць малюнкі">
-<!ENTITY phishingBarMessage1.label "Падазраецца як э-паштовая ашука">
+<!ENTITY loadRemoteContentButton2.label "Паказаць малюнкі зараз">
+<!ENTITY phishingBarMessage2.label "Гэты ліст можа быць ашукай.">
 <!ENTITY removePhishingBarButton1.label "Ігнараваць папярэджанне">
-<!ENTITY reportPhishingError.label "Гэта не э-паштовая ашука">
+<!ENTITY reportPhishingError1.label "Гэты ліст не падобны на ашуку.">
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY AddToAddressBook.label "Дадаць у адрасную кнігу…">
 <!ENTITY AddToAddressBook.accesskey "к">
+<!ENTITY AddDirectlyToAddressBook.label "Дадаць у адрасную кнігу">
+<!ENTITY AddDirectlyToAddressBook.accesskey "к">
 <!ENTITY EditContact.label "Правіць сувязь…">
 <!ENTITY EditContact.accesskey "П">
 <!ENTITY ViewContact.label "Прагляд сувязі">
@@ -599,10 +606,10 @@
 <!ENTITY BlockAddress.accesskey "Б">
 <!ENTITY reportPhishingURL.label "Паведаміць пра э-паштовую ашуку">
 <!ENTITY reportPhishingURL.accesskey "П">
-<!ENTITY saveLinkCmd.label "Захаваць мэту спасылкі">
-<!ENTITY saveLinkCmd.accesskey "М">
-<!ENTITY saveImageCmd.label "Захаваць малюнак">
-<!ENTITY saveImageCmd.accesskey "З">
+<!ENTITY saveLinkAsCmd.label "Захаваць спасылку як…">
+<!ENTITY saveLinkAsCmd.accesskey "с">
+<!ENTITY saveImageAsCmd.label "Захаваць малюнак як…">
+<!ENTITY saveImageAsCmd.accesskey "м">
 <!ENTITY copyCmd.label "Капіяваць">
 <!ENTITY copyCmd.accesskey "К">
 <!ENTITY selectAllCmd.label "Вылучыць усё">

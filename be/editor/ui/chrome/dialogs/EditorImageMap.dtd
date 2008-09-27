@@ -39,49 +39,43 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY windowTitle.label "Рэдактар мапы малюнка">
 <!ENTITY mapfileMenu.label "Файл">
-<!ENTITY mapfilemenu.accesskey "Ф">
+<!ENTITY mapfileMenu.accesskey "ф">
 <!ENTITY clearCmd.label "Ачысціць">
-<!ENTITY mapfileclear.accesskey "ы">
+<!ENTITY clearCmd.accesskey "А">
 <!ENTITY closeCmd.label "Зачыніць">
-<!ENTITY mapfileclose.accesskey "ч">
+<!ENTITY closeCmd.accesskey "ч">
 <!ENTITY mapeditMenu.label "Праўка">
-<!ENTITY mapeditmenu.accesskey "П">
+<!ENTITY mapeditMenu.accesskey "п">
 <!ENTITY cutCmd.label "Выразаць">
-<!ENTITY mapeditcut.accesskey "р">
+<!ENTITY cutCmd.accesskey "р">
 <!ENTITY copyCmd.label "Капіяваць">
-<!ENTITY mapeditcopy.accesskey "К">
+<!ENTITY copyCmd.accesskey "к">
 <!ENTITY pasteCmd.label "Уставіць">
-<!ENTITY mapeditpaste.accesskey "У">
+<!ENTITY pasteCmd.accesskey "у">
 <!ENTITY selectallCmd.label "Вылучыць усё">
-<!ENTITY mapselectall.accesskey "У">
+<!ENTITY selectallCmd.accesskey "ё">
 <!ENTITY propsCmd.label "Уласцівасці плямы">
-<!ENTITY mapeditprops.accesskey "У">
+<!ENTITY propsCmd.accesskey "я">
 <!ENTITY mapviewMenu.label "Прагляд">
-<!ENTITY mapviewmenu.accesskey "г">
+<!ENTITY mapviewMenu.accesskey "г">
 <!ENTITY showhideTbarCmd.label "Схаваць паліцу прыладаў">
-<!ENTITY mapviewtbar.accesskey "П">
+<!ENTITY showhideTbarCmd.accesskey "ц">
 <!ENTITY mapviewScale.label "Павялічэнне">
-<!ENTITY mapviewscale.accesskey "в">
+<!ENTITY mapviewScale.accesskey "э">
 <!ENTITY apercentCmd.label "100">
-<!ENTITY zoomone.accesskey "1">
+<!ENTITY apercentCmd.accesskey "1">
 <!ENTITY bpercentCmd.label "200">
-<!ENTITY zoomtwo.accesskey "2">
+<!ENTITY bpercentCmd.accesskey "2">
 <!ENTITY cpercentCmd.label "450">
-<!ENTITY zoomthree.accesskey "4">
-<!ENTITY contrastCmd.label "Кантраст">
-<!ENTITY contrast.accesskey "К">
-<!ENTITY maphelpMenu.label "Даведка">
-<!ENTITY maphelpmenu.accesskey "Д">
-<!ENTITY aboutCmd.label "Пра">
-<!ENTITY about.accesskey "П">
+<!ENTITY cpercentCmd.accesskey "4">
 <!ENTITY zoominCmd.label "Павялічыць">
 <!ENTITY zoomoutCmd.label "Паменшыць">
 <!ENTITY delSpotCmd.label "Выдаліць пляму">
-<!ENTITY clear.accesskey "ы">
-<!ENTITY selectall.accesskey "У">
-<!ENTITY close.accesskey "ч">
-<!ENTITY cut.accesskey "р">
-<!ENTITY copy.accesskey "К">
-<!ENTITY paste.accesskey "У">
-<!ENTITY props.accesskey "У">
-<!ENTITY tbar.accesskey "t">
+<!ENTITY clear.key "d">
+<!ENTITY selectall.key "a">
+<!ENTITY close.key "l">
+<!ENTITY cut.key "x">
+<!ENTITY copy.key "c">
+<!ENTITY paste.key "v">
+<!ENTITY props.key "p">
+<!ENTITY tbar.key "t">

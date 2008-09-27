@@ -81,6 +81,11 @@
 <!ENTITY WorkWebPage.accesskey "С">
 <!ENTITY Other.tab "Іншае">
 <!ENTITY Other.accesskey "ш">
+<!ENTITY Birthday.label "Дзень нараджэння:">
+<!ENTITY Birthday.accesskey "р">
+<!ENTITY Year.emptytext "Год">
+<!ENTITY Or.value "ці">
+<!ENTITY Age.emptytext "Узрост">
 <!ENTITY Custom1.label "Іншае 1:">
 <!ENTITY Custom1.accesskey "1">
 <!ENTITY Custom2.label "Іншае 2:">

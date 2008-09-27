@@ -12,6 +12,7 @@
 <!ENTITY autocompleteText.label "Калі адрасуюцца лісты, шукаць адпаведныя запісы ў:">
 <!ENTITY directories.label "Паслугачы дырэкторыяў:">
 <!ENTITY directories.accesskey "Д">
+<!ENTITY directoriesNone.label "Няма">
 <!ENTITY editDirectories.label "Рэдагаваць дырэкторыі…">
 <!ENTITY editDirectories.accesskey "Р">
 <!ENTITY matchText.label "Калі існуе супадзенне ў вашых мясцовых адрасных кнігах:">

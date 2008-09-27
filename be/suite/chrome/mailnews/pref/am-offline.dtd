@@ -1,7 +1,7 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Каб захаваць дыскавую прастору, не загружаць:">
 <!ENTITY doNotDownload.label "Каб захаваць дыскавую прастору, не загружаць для карыстання па-за сеткаю:">
-<!ENTITY offlineNewFolder.label "Калі я ствараю новыя папкі, вылучыць іх для ўжывання па-за сеткай">
-<!ENTITY offlineNewFolder.accesskey "К">
+<!ENTITY allFoldersOffline.label "Захоўваць лісты з гэтага рахунку на гэтым кампутары">
+<!ENTITY allFoldersOffline.accesskey "З">
 <!ENTITY offlineNotDownload.label "Лісты, большыя чым">
 <!ENTITY offlineNotDownload.accesskey "б">
 <!ENTITY kb.label "КБ">
@@ -25,10 +25,7 @@
 <!ENTITY nntpRemoveBody.accesskey "Т">
 <!ENTITY offlineSelectNntp.label "Вылучыць навінакупы для карыстання па-за сеткаю…">
 <!ENTITY offlineSelectNntp.accesskey "с">
-<!ENTITY offlineSelectImap.label "Вылучыць папкі для карыстання па-за сеткаю…">
-<!ENTITY offlineSelectImap.accesskey "с">
-<!ENTITY offlineDesc.label "Вы можаце загружаць вашы лісты мясцова, такім чынам яны будуць даступны, калі вы працуеце па-за сеткай.">
-<!ENTITY makeInboxMsgsAvailable.label "Зрабіць лісты ў маёй папцы Атрыманыя даступнымі для працы па-за сеткай">
-<!ENTITY makeInboxMsgsAvailable.accesskey "р">
-<!ENTITY offlineGroupTitle.label "Па-за сеткай">
+<!ENTITY offlineImapAdvancedOffline.label "Пашыраны…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "П">
+<!ENTITY syncGroupTitle.label "Сінхранізацыя лістоў">
 <!ENTITY diskspaceGroupTitle.label "Дыскавая прастора">
