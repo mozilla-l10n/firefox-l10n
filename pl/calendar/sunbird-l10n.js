@@ -19,6 +19,8 @@
 # the Initial Developer. All Rights Reserved.
 #
 # Contributor(s):
+#   Marek Stępień <marcoos@aviary.pl> (Polish localization)
+#   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl (Polish localization)
 #
 # Alternatively, the contents of this file may be used under the terms of
 # either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -52,4 +54,4 @@ pref("calendar.week.d6saturdaysoff", true);
 pref("general.useragent.locale", "@AB_CD@");
 
 # categories
-pref("calendar.categories.names", "Rocznica,Urodziny,Biznes,Rozmowy,Klienci,Konkurencja,Ulubione,Kontynuacja,Prezenty,Święta,Pomysły,Problemy,Różne,Osobiste,Projekty,Święto państwowe,Dostawcy,Podróż,Wakacje");
+pref("calendar.categories.names", "Rocznica,Urodziny,Biznes,Rozmowy,Klienci,Konkurencja,Ulubione,Kontynuacja,Prezenty,Święta,Pomysły,Problemy,Spotkanie,Różne,Osobiste,Projekty,Święto państwowe,Dostawcy,Podróż,Wakacje");
