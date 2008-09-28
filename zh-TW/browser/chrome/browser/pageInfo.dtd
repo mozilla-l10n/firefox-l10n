@@ -105,7 +105,7 @@
 <!ENTITY  securityView.unknown   "未知">
 
 
-<!ENTITY  securityView.identity.header   "網站身份">
+<!ENTITY  securityView.identity.header   "網站身分">
 <!ENTITY  securityView.identity.owner    "擁有者: ">
 <!ENTITY  securityView.identity.domain   "網站: ">
 <!ENTITY  securityView.identity.verifier "驗證機構: ">

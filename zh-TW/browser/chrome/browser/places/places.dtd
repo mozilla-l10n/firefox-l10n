@@ -73,9 +73,9 @@
 
 <!ENTITY cmd.open.label                  "開啟">
 <!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "在新視窗中開啟">
+<!ENTITY cmd.open_window.label           "用新視窗開啟">
 <!ENTITY cmd.open_window.accesskey       "n">
-<!ENTITY cmd.open_tab.label              "在新分頁中開啟">
+<!ENTITY cmd.open_tab.label              "用新分頁開啟">
 <!ENTITY cmd.open_tab.accesskey          "w">
 <!ENTITY cmd.open_all_in_tabs.label      "全部用分頁開啟">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "O">
@@ -129,7 +129,7 @@
 <!ENTITY col.dateadded.label     "加入日期">
 <!ENTITY col.lastmodified.label  "最後更改日期">
 
-<!ENTITY search.label                              "搜尋範圍:">
+<!ENTITY search.label                              "尋找:">
 <!ENTITY search.accesskey                          "S">
 <!ENTITY search.collection.label                   "僅限目前書籤集">
 <!ENTITY search.collection.accesskey               "C">
