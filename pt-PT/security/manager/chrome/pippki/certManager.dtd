@@ -116,11 +116,11 @@
 <!ENTITY certmgr.export.label "Exportar...">
 <!ENTITY certmgr.export.accesskey "x">
 <!ENTITY certmgr.delete2.label "Apagar...">
-<!ENTITY certmgr.delete2.accesskey "D">
+<!ENTITY certmgr.delete2.accesskey "p">
 <!ENTITY certmgr.backup2.label "Cópia de Segurança...">
 <!ENTITY certmgr.backup2.accesskey "C">
 <!ENTITY certmgr.backupall2.label "Copiar todos...">
-<!ENTITY certmgr.backupall2.accesskey "k">
+<!ENTITY certmgr.backupall2.accesskey "t">
 <!ENTITY certmgr.restore2.label "Importar...">
 <!ENTITY certmgr.restore2.accesskey "m">
 <!ENTITY certmgr.details.label "Campos do certificado">
