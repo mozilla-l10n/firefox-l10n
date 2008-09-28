@@ -44,7 +44,7 @@
 <!ENTITY setPassword.meter.loading "Caricamento">
 <!ENTITY resetPasswordButtonLabel "Rimuovi">
 <!ENTITY resetPassword.title "Rimozione password principale">
-<!ENTITY resetPassword.text "L'azzeramento della password principale comporterà la perdita di tutte le password di posta e dei siti web, dei dati dei moduli, dei certificati personali, e delle chiavi private memorizzate. Si è certi di voler azzerare la password generale?">
+<!ENTITY resetPassword.text "La rimozione della password principale comporterà la perdita di tutte le password di posta e dei siti web, dei dati dei moduli, dei certificati personali e delle chiavi private memorizzate. Rimuovere la password principale?">
 <!ENTITY getPassword.title "Inserimento password principale">
 <!ENTITY getPassword.tokenName2.label "Dispositivo di sicurezza:">
 <!ENTITY getPassword.password.label "Password:">
