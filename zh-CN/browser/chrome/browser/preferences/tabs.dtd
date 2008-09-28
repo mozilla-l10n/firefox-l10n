@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label "新页面应该打开到:">
-<!ENTITY inNewWindow.label "新窗口">
-<!ENTITY inNewWindow.accesskey "w">
-<!ENTITY inNewTab.label "新标签页">
-<!ENTITY inNewTab.accesskey "t">
+<!ENTITY newWindowsAsTabs.label "需要打开新建窗口时用标签页替代">
+<!ENTITY newWindowsAsTabs.accesskey "t">
 <!ENTITY warnCloseMultipleTabs.label "关闭多个标签页时警告我">
 <!ENTITY warnCloseMultipleTabs.accesskey "m">
 <!ENTITY warnOpenManyTabs.label "打开多个可能会影响 &brandShortName; 速度的标签页时警告我">

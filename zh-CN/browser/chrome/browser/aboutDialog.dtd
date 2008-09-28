@@ -1,8 +1,11 @@
 <!ENTITY aboutDialog.title "关于 &brandFullName;">
 <!ENTITY copyright "贡献者">
 <!ENTITY copyright.accesskey "C">
+<!ENTITY copyrightGNOME.accesskey "r">
 <!ENTITY aboutLink "&lt; 关于 &brandFullName;">
 <!ENTITY aboutLink.accesskey "A">
 <!ENTITY aboutVersion "版本">
+<!ENTITY closeCmdGNOME.label "关闭">
+<!ENTITY closeCmdGNOME.accesskey "C">
 <!ENTITY copyrightInfo "©1998-2008 贡献者。 保留所有权。 Firefox 以及
                                  Firefox 标志均为 Mozilla 基金会持有的商标。保留所有权。">

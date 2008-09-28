@@ -18,7 +18,5 @@
 <!ENTITY focusSearch2.key "k">
 <!ENTITY filter.label "搜索：">
 <!ENTITY filter.accesskey "S">
-<!ENTITY clear.label "清空">
-<!ENTITY clear.accesskey "l">
 <!ENTITY button.close.label "关闭">
 <!ENTITY button.close.accesskey "C">

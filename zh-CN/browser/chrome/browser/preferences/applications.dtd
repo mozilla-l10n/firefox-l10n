@@ -4,7 +4,4 @@
 <!ENTITY actionColumn2.accesskey "A">
 <!ENTITY focusSearch1.key "f">
 <!ENTITY focusSearch2.key "k">
-<!ENTITY filter.label "搜索:">
-<!ENTITY filter.accesskey "S">
-<!ENTITY clear.label "清除">
-<!ENTITY clear.accesskey "l">
+<!ENTITY filter.emptytext "搜索">
