@@ -18,7 +18,7 @@
 <!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "m">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
-<!ENTITY osxAddressBook.label                           "Use Mac OS X Address Book">
+<!ENTITY osxAddressBook.label                           "Folosește agenda de contacte Mac OS X">
 <!ENTITY osxAddressBook.accesskey                       "O">
 <!ENTITY closeCmd.label                                 "Închide">
 <!ENTITY closeCmd.key                                   "w">
@@ -67,7 +67,7 @@
 <!ENTITY deleteCardsCmd2.label                          "Șterge cardurile">
 <!ENTITY deleteListCmd.label                            "Șterge lista">
 <!ENTITY deleteListsCmd.label                           "Șterge listele">
-<!ENTITY deleteItemsCmd.label                           "Delete Items">
+<!ENTITY deleteItemsCmd.label                           "Șterge elementele">
 <!ENTITY selectAllCmd.label                             "Selectează tot">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "F">

@@ -2,7 +2,7 @@
 <!ENTITY credits.label          "Merite">
 <!ENTITY credits.accesskey      "M">
 <!ENTITY aboutLink.label        "&lt; Despre &brandFullName;">
-<!ENTITY aboutLink.accesskey    "a">
+<!ENTITY aboutLink.accesskey    "D">
 <!ENTITY aboutVersion           "versiunea">
 <!ENTITY copyrightText          "&#169;1998-2007 Contributors. All Rights Reserved. Mozilla Thunderbird and the 
                                  Thunderbird logos are trademarks of the Mozilla Foundation.  All rights 

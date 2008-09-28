@@ -1,7 +1,7 @@
 
 <!ENTITY migrationWizard.title          "Asistent de import">
 
-<!ENTITY importFromWin.label            "Import Options, Account Settings, Address Book, Filters and other data from:">
+<!ENTITY importFromWin.label            "Opțiuni de import, setări de cont, agende de contacte, filtre și alte date din:">
 <!ENTITY importFromNonWin.label         "Importă preferințele, setările contului, agenda de contacte, filtrele și alte date din:">
 
 <!ENTITY importFromNothing.label        "Nu importa nimic">

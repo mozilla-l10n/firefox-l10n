@@ -56,8 +56,8 @@
 <!ENTITY daysOld.label "zile">
 <!ENTITY message.label "mesaje">
 <!ENTITY retentionCleanup.label "Pentru economisirea spațiului pe disc, se pot șterge permanent mesajele vechi.">
-<!ENTITY retentionKeepMsg.label "Șterge mesajele mai vechi de">
-<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionDeleteMsg.label "Șterge mesajele mai vechi de">
+<!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Nu șterge nici un mesaj">
 <!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepNew.label "Șterge toate în afară de ultimele">

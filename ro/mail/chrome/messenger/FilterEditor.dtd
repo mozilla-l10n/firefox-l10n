@@ -37,6 +37,6 @@
 <!ENTITY deleteFromPOP.label "Șterge de pe serverul POP">
 <!ENTITY fetchFromPOP.label "Adu de pe serverul POP">
 <!ENTITY ignoreThread.label "Ignoră conversația">
-<!ENTITY ignoreSubthread.label "Ignore Subthread">
+<!ENTITY ignoreSubthread.label "Ignoră conversația din interior">
 <!ENTITY watchThread.label "Urmărește conversația">
 <!ENTITY stopExecution.label "Oprește executarea filtrului">

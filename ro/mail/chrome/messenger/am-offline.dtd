@@ -1,7 +1,7 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Pentru a economisi spațiul pe disc, nu descărca:">
 <!ENTITY doNotDownload.label "Pentru a economisi spațiul pe disc, nu descărca pentru utilizare în mod deconectat:">
-<!ENTITY offlineNewFolder.label "Când creez dosare noi, marchează-le pentru utilizare în mod deconectat">
-<!ENTITY offlineNewFolder.accesskey "C">
+<!ENTITY allFoldersOffline.label "Keep messages for this account on this computer">
+<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Mesaje mai mari de">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY kb.label "KO">
@@ -25,10 +25,7 @@
 <!ENTITY nntpRemoveBody.accesskey "p">
 <!ENTITY offlineSelectNntp.label "Alegeți grupurile de news pentru utilizare în mod deconectat...">
 <!ENTITY offlineSelectNntp.accesskey "A">
-<!ENTITY offlineSelectImap.label "Alegeți dosarele pentru utilizare în mod deconectat...">
-<!ENTITY offlineSelectImap.accesskey "A">
-<!ENTITY offlineDesc.label "Puteți descărca mesajele local pentru a le avea la dispoziție cât timp lucrați în mod deconectat.">
-<!ENTITY makeInboxMsgsAvailable.label "Fă mesajele din căsuța poștală disponibile când lucrez deconectat">
-<!ENTITY makeInboxMsgsAvailable.accesskey "b">
-<!ENTITY offlineGroupTitle.label "Offline">
+<!ENTITY offlineImapAdvancedOffline.label "Avansat...">
+<!ENTITY offlineImapAdvancedOffline.accesskey "A">
+<!ENTITY syncGroupTitle.label "Message Synchronizing">
 <!ENTITY diskspaceGroupTitle.label "Spațiu pe disc">

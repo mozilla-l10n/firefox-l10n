@@ -63,7 +63,7 @@
 <!ENTITY useSubdirRadio.label         "Folosește acest subdirector de pe sait:">
 <!ENTITY useSubdirRadio.accesskey     "d">
 <!ENTITY useSubdirRadio.tooltip       "Publică fișierele în directorul de la distanță selectat">
-<!ENTITY otherDirList.tooltip         "Choose or enter name of remote subdirectory where files will be published">
+<!ENTITY otherDirList.tooltip         "Alegeți sau introduceți numele unui subdirector la distanță unde se vor publica fișierele">
 <!ENTITY pageTitle.label              "Titlu pagină:">
 <!ENTITY pageTitle.accesskey          "T">
 <!ENTITY pageTitle.tooltip            "Introduceți un titlu care să identifice pagina în fereastră și în semnele de carte">

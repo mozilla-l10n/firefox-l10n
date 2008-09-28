@@ -52,6 +52,7 @@
 <!ENTITY addressingEnable.accesskey            "A">
 <!ENTITY directories.label                     "Server de directoare:">
 <!ENTITY directories.accesskey                 "d">
+<!ENTITY directoriesNone.label                 "Niciunul">
 <!ENTITY editDirectories.label                 "Editează directoarele...">
 <!ENTITY editDirectories.accesskey             "E">
 <!ENTITY matchText.label                       "Dacă se găsește ceva potrivit în agendele locale de contacte:">
