@@ -25,18 +25,18 @@
 <!ENTITY  noupdates.wizard.title          "Ingen kompatible programtillegg funne">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; fann ikkje oppdateringar til dei ikkje-kompatible programtillegga dine.">
 <!ENTITY  noupdates.error.desc            "Det oppstod nokre problem ved søk etter oppdateringar.">
-<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; vil med jamne mellomrom sjekke, og informere deg når kompatible versjonar for desse progamtillegga vert funne.">
+<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; vil med jamne mellomrom sjå etter, og informere deg når kompatible versjonar for desse progamtillegga vert funne.">
 
 <!ENTITY  finished.wizard.title           "Oppdatering fullført">
 <!ENTITY  finished.top.label              "&brandShortName; har installert dei tilgjengelege oppdateringene for programtillegga dine.">
-<!ENTITY  finished.checkDisabled.desc     "&brandShortName; kan med jamne mellomrom sjekke, og informere deg når kompatible versjonar for progamtillegga vert funne.">
-<!ENTITY  finished.checkEnabled.desc      "&brandShortName; vil med jamne mellomrom sjekke, og informere deg når kompatible versjonar for progamtillegga vert funne.">
+<!ENTITY  finished.checkDisabled.desc     "&brandShortName; kan med jamne mellomrom sjå etter, og informere deg når kompatible versjonar for progamtillegga vert funne.">
+<!ENTITY  finished.checkEnabled.desc      "&brandShortName; vil med jamne mellomrom sjå etter, og informere deg når kompatible versjonar for progamtillegga vert funne.">
 
 <!ENTITY  adminDisabled.wizard.title      "Klarte ikkje å sjå etter oppdateringar">
 <!ENTITY  adminDisabled.warning.label     "Det er ikkje mogleg å sjå etter oppdateringar for ikkje-kompatible programtillegg fordi programvareinstallasjonen for &brandShortName; er slått av. Kontakt systemansvarleg for hjelp.">
 
-<!ENTITY  versioninfo.wizard.title        "Sjekkar kompatibliteten til programtillegga">
-<!ENTITY  versioninfo.top.label           "Sjekkar kompatibliteten til programtillegga dine med denne versjonen av &brandShortName;.">
+<!ENTITY  versioninfo.wizard.title        "Kontrollerer kompatibliteten til programtillegga">
+<!ENTITY  versioninfo.top.label           "Kontrollerer kompatibliteten til programtillegga dine med denne versjonen av &brandShortName;.">
 <!ENTITY  versioninfo.waiting             "Dette kan ta nokre minutt …">
 
 <!ENTITY  installerrors.wizard.title      "Problem med å installere oppdateringane">

@@ -30,7 +30,7 @@
 <!ENTITY getNewMsgForCmd.accesskey "H">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Alle kontoar">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
-<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Noverande konto">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Denne kontoen">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "N">
 <!ENTITY getNextNMsgCmd.label "Hent neste 500 meldingar i nyhendegruppa">
 <!ENTITY getNextNMsgCmd.accesskey "N">

@@ -1,5 +1,5 @@
-<!ENTITY systemDefaults.label              "Standardinnstillingane åt systemet">
-<!ENTITY alwaysCheckDefault.label          "Sjekk alltid om &brandShortName; er standard e-postklient ved oppstart">
+<!ENTITY systemDefaults.label              "Systemstandard">
+<!ENTITY alwaysCheckDefault.label          "Kontroller alltid om &brandShortName; er standard e-postprogram ved oppstart">
 <!ENTITY alwaysCheckDefault.accesskey      "l">
 <!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
   There's some sort of bug which makes wrapping checkboxes not properly reflow,
@@ -7,7 +7,7 @@
   appropriately if your localization causes this checkbox to wrap.
 -->
 <!ENTITY alwaysCheckDefault.height  "3em">
-<!ENTITY checkNow.label             "Sjekk no">
+<!ENTITY checkNow.label             "Kontroller no">
 <!ENTITY checkNow.accesskey         "N">
 
 <!ENTITY messengerStartPage.label         "&brandShortName; startside">

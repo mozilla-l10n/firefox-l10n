@@ -21,9 +21,9 @@
 <!ENTITY checkSpelling.accesskey         "K">
 
 <!ENTITY systemDefaults.label            "Systemstandard">
-<!ENTITY alwaysCheckDefault.label        "Sjekk alltid om &brandShortName; er standard nettlesar ved oppstart"><!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "Kontroller alltid om &brandShortName; er standard nettlesar ved oppstart"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "S">
-<!ENTITY checkNow.label                  "Sjekk no">
+<!ENTITY checkNow.label                  "Kontroller no">
 <!ENTITY checkNow.accesskey              "n">
 
 <!ENTITY networkTab.label                "Nettverk">

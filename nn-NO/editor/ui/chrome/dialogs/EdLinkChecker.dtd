@@ -37,7 +37,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label     "Sjekk bilet- og lenkjeadresser">
+<!ENTITY windowTitle.label     "Kontroller bilet- og lenkjeadresser">
 <!ENTITY urlsNotFound.label    "Dei følgjande bilet- eller lenkjeadressene vart ikkje funne:">
 <!ENTITY notFoundKey.label     "(«X» = fil ikkje funnen, «?» = brukte for lang tid på å kople til.)">
 <!ENTITY changeUrlButton.label "Endre adresse for valt element">

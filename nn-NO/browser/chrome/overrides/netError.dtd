@@ -20,7 +20,7 @@
     <strong>www</strong>.døme.no</li>
   <li>Dersom du ikkje klarer å laste noka side som helst, kontroller at nettverkssambandet til datamaskinen 
     er i orden.</li>
-  <li>Dersom datamaskina di eller nettverket er verna av ein brannmur eller mellomtenar, sjekk at
+  <li>Dersom datamaskina di eller nettverket er verna av ein brannmur eller mellomtenar, kontroller at
     &brandShortName; har løyve til å få tilgjenge til Internett.</li>
 </ul>
 ">
@@ -29,7 +29,7 @@
 <!ENTITY fileNotFound.longDesc "
 <ul>
   <li>Kontroller filnamnet etter skilnader i store/små bokstavar eller andre skrivefeil.</li>
-  <li>Sjekk om fila har vorte flytta, endra namn eller vorte sletta.</li>
+  <li>Kontroller om fila har vorte flytta, endra namn eller vorte sletta.</li>
 </ul>
 ">
 

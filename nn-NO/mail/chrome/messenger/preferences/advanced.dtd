@@ -45,7 +45,7 @@
 <!ENTITY enableAppUpdate.accesskey      "T">
 <!ENTITY enableAddonsUpdate.label       "Mine tema og utvidingar">
 <!ENTITY enableAddonsUpdate.accesskey   "M">
-<!ENTITY checkNow.label                 "Sjekk no …">
+<!ENTITY checkNow.label                 "Oppdater no …">
 <!ENTITY whenUpdatesFound.label         "Når oppdateringar til &brandShortName; vert funne,">
 <!ENTITY modeAskMe.label                "Spør meg kva som skal gjerast">
 <!ENTITY modeAskMe.accesskey            "p">

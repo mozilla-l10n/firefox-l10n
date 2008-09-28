@@ -1,5 +1,5 @@
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
-<!ENTITY mailViewListTitle.label "Innstillingar for meldingssyningar">
-<!ENTITY viewName.label "Namn på syning">
+<!ENTITY mailViewListTitle.label "Innstillingar for meldingsvisingar">
+<!ENTITY viewName.label "Namn på vising">
 

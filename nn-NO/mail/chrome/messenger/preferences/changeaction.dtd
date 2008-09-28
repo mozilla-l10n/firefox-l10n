@@ -9,7 +9,7 @@
 <!ENTITY  openApplication.accesskey           "e">
 <!ENTITY  changeApp.label                     "Bla gjennom …">
 <!ENTITY  changeApp.accesskey                 "B">
-<!ENTITY  saveToDisk.label                    "Lagre på mi datamaskin">
+<!ENTITY  saveToDisk.label                    "Lagre dei på mi datamaskin">
 <!ENTITY  saveToDisk.accesskey                "S">
 <!ENTITY  saveToDefaultFolder.label           "i standard nedlastingsmappe">
 <!ENTITY  saveToDefaultFolder.accesskey       "d">

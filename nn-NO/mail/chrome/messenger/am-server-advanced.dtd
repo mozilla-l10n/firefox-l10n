@@ -6,7 +6,7 @@
 <!ENTITY serverDirectory.accesskey "T">
 <!ENTITY usingSubscription.label "Berre vis mapper du tingar">
 <!ENTITY usingSubscription.accesskey "I">
-<!ENTITY dualUseFolders.label "Tenaren støttar mapper som inneheld under-mapper og meldingar">
+<!ENTITY dualUseFolders.label "Tenaren støttar mapper som inneheld undermapper og meldingar">
 <!ENTITY dualUseFolders.accesskey "T">
 <!ENTITY useIdle.label "Bruk IDLE-kommandoen om tenaren støttar det">
 <!ENTITY useIdle.accesskey "I">
@@ -20,11 +20,11 @@
 <!ENTITY publicNamespace.accesskey "N">
 <!ENTITY otherUsersNamespace.label "Andre brukarar:">
 <!ENTITY otherUsersNamespace.accesskey "B">
-<!ENTITY overrideNamespaces.label "Lat tenaren overstyra desse namneromma">
+<!ENTITY overrideNamespaces.label "Tillat tenaren å overstyre desse namneromma">
 <!ENTITY overrideNamespaces.accesskey "A">
-<!ENTITY pop3Desc.label "Bruk følgjande mappe for nye meldingar når det vert lasta ned meldingar frå denne POP3-kontoen:" >
+<!ENTITY pop3Desc.label "Nye meldingar lasta ned frå POP3-tenaren skal lagrast i denne mappa:" >
 <!ENTITY folderStorage.label "Kvar skal e-posten lagrast?">
-<!ENTITY globalInbox.label "Global innboks («Lokale Mapper»-kontoen)">
+<!ENTITY globalInbox.label "Global innboks («Lokale mapper»-kontoen)">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Innboksen i kontoen til denne tenaren">
 <!ENTITY accountDirectory.accesskey "D">

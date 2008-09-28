@@ -1,9 +1,9 @@
 <!ENTITY securityTitle.label "Sikkerheit">
-<!ENTITY securityHeading.label "For å sende og ta i mot signerte eller krypterte meldingar, bør du leggje inn både eit digitalt - og eit krypteringssertifikat.">
+<!ENTITY securityHeading.label "For å sende og ta i mot signerte eller krypterte meldingar, bør du leggje inn både eit digitalt signatursertifikat og eit krypteringssertifikat.">
 <!ENTITY encryptionGroupTitle.label "Kryptering">
 <!ENTITY encryptionChoiceLabel.label "Standard krypteringsval under sending av meldingar:">
 <!ENTITY neverEncrypt.label "Aldri (ikkje bruk kryptering)">
-<!ENTITY alwaysEncryptMessage.label "Alltid (kan ikkje sende utan at alle mottakarane har sertifikat)">
+<!ENTITY alwaysEncryptMessage.label "Påkravd (kan ikkje sende utan at alle mottakarane har sertifikat)">
 <!ENTITY encryptionCert.message "Bruk dette sertifikatet til å kryptere og dekryptere meldingar sendt til deg:">
 <!ENTITY encryptionCert.notselected "Inkje sertifikat vald">
 <!ENTITY certificate.button "Vel …">
