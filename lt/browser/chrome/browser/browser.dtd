@@ -339,7 +339,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Mastelis">
 <!ENTITY fullZoom.accesskey             "m">
 
-<!ENTITY newTabButton.tooltip           "Atverti naują kortelę">
 <!ENTITY newWindowButton.tooltip        "Atverti naują langą">
 <!ENTITY sidebarCloseButton.tooltip     "Užverti parankinę">
 
