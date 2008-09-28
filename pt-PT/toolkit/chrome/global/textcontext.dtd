@@ -1,7 +1,7 @@
 <!ENTITY cutCmd.label "Cortar">
 <!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Copiar">
-<!ENTITY copyCmd.accesskey "C">
+<!ENTITY copyCmd.accesskey "c">
 <!ENTITY pasteCmd.label "Colar">
 <!ENTITY pasteCmd.accesskey "o">
 <!ENTITY undoCmd.label "Anular">

@@ -1,21 +1,20 @@
-<!ENTITY emailSectionHdr.label        "Correio Electrónico"> 
-<!ENTITY readMsgsLink.label           "Ler mensagens"> 
-<!ENTITY composeMsgLink.label         "Escrever nova mensagem"> 
+<!ENTITY emailSectionHdr.label "Correio Electrónico">
+<!ENTITY readMsgsLink.label "Ler mensagens">
+<!ENTITY composeMsgLink.label "Escrever nova mensagem">
 
-<!ENTITY newsSectionHdr.label         "Grupos de Discussão"> 
-<!ENTITY subscribeNewsLink.label      "Gerir subscrições de Grupos de Discussão"> 
+<!ENTITY newsSectionHdr.label "Grupos de Discussão">
+<!ENTITY subscribeNewsLink.label "Gerir subscrições de Grupos de Discussão">
 
-<!ENTITY accountsSectionHdr.label     "Contas"> 
-<!ENTITY subscribeImapFolders.label   "Gerir Pasta de subscrições">
-<!ENTITY settingsLink.label           "Ver configurações para esta conta"> 
-<!ENTITY newAcctLink.label            "Criar uma nova conta"> 
+<!ENTITY accountsSectionHdr.label "Contas">
+<!ENTITY subscribeImapFolders.label "Gerir Pasta de subscrições">
+<!ENTITY settingsLink.label "Ver configurações para esta conta">
+<!ENTITY newAcctLink.label "Criar uma nova conta">
 
-<!ENTITY advFeaturesSectionHdr.label  "Configurações Avançadas"> 
-<!ENTITY searchMsgsLink.label         "Procurar mensagens"> 
-<!ENTITY filtersLink.label            "Gerir filtros de mensagens">
-<!ENTITY junkSettings.label           "Configurações de lixo electrónico">
-<!ENTITY offlineLink.label            "Configurações quando Desligado">
+<!ENTITY advFeaturesSectionHdr.label "Configurações Avançadas">
+<!ENTITY searchMsgsLink.label "Procurar mensagens">
+<!ENTITY filtersLink.label "Gerir filtros de mensagens">
+<!ENTITY junkSettings.label "Configurações de lixo electrónico">
+<!ENTITY offlineLink.label "Configurações quando Desligado">
 
-
-<!ENTITY rssSectionHdr.label          "Notícias RSS e Blogs"> 
-<!ENTITY subscibeRSS.label            "Gerir subscrições">
+<!ENTITY rssSectionHdr.label "Notícias RSS e Blogs">
+<!ENTITY subscibeRSS.label "Gerir subscrições">

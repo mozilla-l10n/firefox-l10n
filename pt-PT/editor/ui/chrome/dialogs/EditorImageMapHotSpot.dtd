@@ -36,23 +36,23 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!-- Window title -->
+
 
 <!ENTITY windowTitle.label "Propriedades do Hotspot">
 
-<!ENTITY link.label				"Ligação do Hotspot">
-<!ENTITY urlFieldset.label		"URL do Hotspot:">
-<!ENTITY altFieldset.label		"Hotspot Alt Text:">
-<!ENTITY browseButton.label		"Procurar...">
-<!ENTITY targetFieldset.label	"Configurações do alvo">
-<!ENTITY target.label			"Alvo do Hotspot">
-
+<!ENTITY link.label "Ligação do Hotspot">
+<!ENTITY urlFieldset.label "URL do Hotspot:">
+<!ENTITY altFieldset.label "Hotspot Alt Text:">
+<!ENTITY browseButton.label "Procurar...">
+<!ENTITY targetFieldset.label "Configurações do alvo">
+<!ENTITY target.label "Alvo do Hotspot">
 <!-- Targets -->
-<!ENTITY commonFieldset.label	"Alvos Comuns:">
-<!ENTITY none.value				"(nenhum)">
-<!ENTITY same.value				"A mesma Frame">
-<!ENTITY whole.value			"A página inteira">
-<!ENTITY new.value				"Nova Janela">
-<!ENTITY parent.value			"Parent Frame">
+
+<!ENTITY commonFieldset.label "Alvos Comuns:">
+<!ENTITY none.value "(nenhum)">
+<!ENTITY same.value "A mesma Frame">
+<!ENTITY whole.value "A página inteira">
+<!ENTITY new.value "Nova Janela">
+<!ENTITY parent.value "Parent Frame">
 

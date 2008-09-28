@@ -1,7 +1,7 @@
 <!ENTITY lookInMenuList.label "Procurar em:">
 <!ENTITY lookInMenuList.accesskey "P">
 <!ENTITY textInput.label "Nome do ficheiro:">
-<!ENTITY textInput.accesskey "N">
+<!ENTITY textInput.accesskey "n">
 <!ENTITY filterMenuList.label "Ficheiros do tipo:">
 <!ENTITY filterMenuList.accesskey "t">
 <!ENTITY name.label "Nome">

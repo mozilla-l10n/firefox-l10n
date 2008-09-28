@@ -2,6 +2,6 @@
 
 <!ENTITY mailViewSetupTitle.label "Configuração da visualização da Mensagem">
 <!ENTITY mailViewHeading.label "Nome da visualização da Mensagem :">
-<!ENTITY mailViewHeading.accesskey "N">
+<!ENTITY mailViewHeading.accesskey "n">
 <!ENTITY searchTermCaption.label "Quando esta visualização é seleccionada, mostrar apenas mensagens que:">
 

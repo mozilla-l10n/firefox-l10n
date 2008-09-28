@@ -4,7 +4,7 @@
 <!ENTITY editfield1.label "Senha:">
 <!ENTITY editfield2.label "Confirmar senha:">
 <!ENTITY checkbox.label "verificar">
-<!ENTITY copyCmd.label    "Copiar">
+<!ENTITY copyCmd.label "Copiar">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "Seleccionar tudo">
 <!ENTITY selectAllCmd.accesskey "T">

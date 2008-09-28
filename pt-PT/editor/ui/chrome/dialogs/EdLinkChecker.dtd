@@ -35,12 +35,12 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!-- Window title -->
-<!ENTITY windowTitle.label     "Verifique a Localização da Imagem e da ligação">
-<!ENTITY urlsNotFound.label    "As localizações seguintes da imagem ou ligação não foram encontrados:">
-<!ENTITY notFoundKey.label     "(&quot;X&quot; = ficheiro não encontrado, &quot;?&quot; = expirou ao tentar ligar.)">
+
+<!ENTITY windowTitle.label "Verifique a Localização da Imagem e da ligação">
+<!ENTITY urlsNotFound.label "As localizações seguintes da imagem ou ligação não foram encontrados:">
+<!ENTITY notFoundKey.label "(&quot;X&quot; = ficheiro não encontrado, &quot;?&quot; = expirou ao tentar ligar.)">
 <!ENTITY changeUrlButton.label "Mudar a Localização do Item Seleccionado">
-<!ENTITY succeeded.label       "Sucesso">
-<!ENTITY failed.label          "Falhou">
-<!ENTITY closeButton.label     "Fechar">
+<!ENTITY succeeded.label "Sucesso">
+<!ENTITY failed.label "Falhou">
+<!ENTITY closeButton.label "Fechar">

@@ -34,16 +34,16 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
-
 <!-- Window title -->
+
+
 <!ENTITY windowTitle.label "Propriedades da Imagem">
 
 <!ENTITY pixelsPopup.value "pixéis">
 <!ENTITY percentPopup.value "percentagem">
-
 <!-- These are in the Location tab panel -->
+
 <!ENTITY locationEditField.label "Localização da Imagem:">
 <!ENTITY locationEditField.accessKey "L">
 <!ENTITY locationEditField.tooltip "Escreva o nome ou a localização da imagem">
@@ -54,13 +54,13 @@
 <!ENTITY altText.accessKey "A">
 <!ENTITY altTextEditField.tooltip "Escrever  texto a mostrar em vez da imagem">
 <!ENTITY noAltText.label "Não usar texto alternativo">
-<!ENTITY noAltText.accessKey "u">
+<!ENTITY noAltText.accessKey "U">
 
 <!ENTITY previewBox.label "Pré-Visualizar Imagem">
 <!ENTITY MoreFewerButton.tooltip "Mostrar mais ou menos propriedades de edição">
-
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
+
 <!ENTITY actualSize.label "Tamanho Actual:">
 <!ENTITY actualSizeRadio.label "Tamanho Actual">
 <!ENTITY actualSizeRadio.accessKey "A">
@@ -69,29 +69,29 @@
 <!ENTITY customSizeRadio.accessKey "P">
 <!ENTITY customSizeRadio.tooltip "Alterar o tamanho da imagem como apresentado na página">
 <!ENTITY heightEditField.label "Altura:">
-<!ENTITY heightEditField.accessKey "l">
+<!ENTITY heightEditField.accessKey "L">
 <!ENTITY widthEditField.label "Largura:">
 <!ENTITY widthEditField.accessKey "L">
 <!ENTITY constrainCheckbox.label "Contrair">
 <!ENTITY constrainCheckbox.accessKey "C">
 <!ENTITY constrainCheckbox.tooltip "Manter a razão de apresentação da imagem">
-
 <!-- These controls are in the Image Map box of the expanded area -->
+
 <!ENTITY imagemapBox.label "Mapa de Imagem">
 <!ENTITY removeImageMapButton.label "Remover">
 <!ENTITY removeImageMapButton.accessKey "R">
 <!ENTITY editImageMapButton.label "Editar...">
 <!ENTITY editImageMapButton.tooltip "Criar clique do hotspots para esta imagem">
-
 <!-- These are the options for image alignment -->
+
 <!ENTITY alignment.label "Alinhar o texto à Imagem">
 <!ENTITY bottomPopup.value "No Fundo">
 <!ENTITY topPopup.value "No Topo">
 <!ENTITY centerPopup.value "No Centro">
 <!ENTITY wrapRightPopup.value "Wrap à direita">
 <!ENTITY wrapLeftPopup.value "Wrap à esquerda">
-
 <!-- These controls are in the Spacing Box -->
+
 <!ENTITY spacingBox.label "Espaçamento">
 <!ENTITY spacingBox.tooltip "Escreva um número para a quantidade de espaço ao redor da imagem">
 <!ENTITY leftRightEditField.label "Esquerda e Direita:">
@@ -100,18 +100,18 @@
 <!ENTITY topBottomEditField.accessKey "T">
 <!ENTITY borderEditField.label "Limite Sólido:">
 <!ENTITY borderEditField.accessKey "L">
-
 <!-- These controls are in the Link Box -->
+
 <!ENTITY showImageLinkBorder.label "Mostrar Limite ao redor da ligação à imagem">
 <!ENTITY showImageLinkBorder.accessKey "M">
-
 <!-- These controls may be added some day; currently not used -->
+
 <!ENTITY makePageBackgroundCheckbox.label "Fazer Fundo da Página">
 <!ENTITY makePageBackgroundCheckbox.tooltip "Usar imagem como fundo para a sua página">
 <!ENTITY editImageButton.label "Editar Imagem">
 <!ENTITY editImageButton.tooltip "Editar ficheiro de imagem noutro programa">
-
 <!-- These tabs are currently used in the image input dialog -->
+
 <!ENTITY imageInputTab.label "Formulário">
 <!ENTITY imageLocationTab.label "Localização">
 <!ENTITY imageDimensionsTab.label "Dimensões">

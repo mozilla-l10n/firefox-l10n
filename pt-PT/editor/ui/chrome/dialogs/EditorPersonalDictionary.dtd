@@ -34,8 +34,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Dicionário Pessoal">
 
 <!ENTITY wordEditField.label "Nova palavra:">

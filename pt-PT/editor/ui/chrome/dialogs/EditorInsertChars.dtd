@@ -34,13 +34,13 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-
 <!-- Window title -->
+
+
 <!ENTITY windowTitle.label "Inserir Caractere">
 <!ENTITY category.label "Categoria">
 <!ENTITY letter.label "Carta:">
-<!ENTITY letter.accessKey "a">
+<!ENTITY letter.accessKey "A">
 <!ENTITY character.label "Caractere:">
 <!ENTITY character.accessKey "C">
 <!ENTITY accentUpper.label "Acentuar Uppercase">

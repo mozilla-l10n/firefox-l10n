@@ -35,8 +35,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!-- extracted from EdReplace.xul -->
+
 
 <!ENTITY replaceDialog.title "Procurar e Substituir">
 <!ENTITY findField.label "Procurar texto:">
@@ -44,7 +44,7 @@
 <!ENTITY replaceField.label "Substituir por:">
 <!ENTITY replaceField.accesskey "u">
 <!ENTITY caseSensitiveCheckbox.label "Igualar">
-<!ENTITY caseSensitiveCheckbox.accesskey "I">
+<!ENTITY caseSensitiveCheckbox.accesskey "i">
 <!ENTITY wrapCheckbox.label "Wrap around">
 <!ENTITY wrapCheckbox.accesskey "W">
 <!ENTITY backwardsCheckbox.label "Pesquisar para trás">

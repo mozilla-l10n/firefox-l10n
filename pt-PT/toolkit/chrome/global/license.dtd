@@ -1,8 +1,5 @@
-<!ENTITY license.part0     "é">
-<!ENTITY license.part1     "pelos seus">
-<!ENTITY license.contrib   "colaboradores">
-<!ENTITY license.part2     "de acordo com os termos definidos no documento ">
-<!ENTITY license.part3     ". Todos os direitos reservados.">
-
-
-
+<!ENTITY license.part0 "é">
+<!ENTITY license.part1 "pelos seus">
+<!ENTITY license.contrib "colaboradores">
+<!ENTITY license.part2 "de acordo com os termos definidos no documento ">
+<!ENTITY license.part3 ". Todos os direitos reservados.">

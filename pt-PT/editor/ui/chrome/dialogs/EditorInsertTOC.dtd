@@ -35,16 +35,16 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY Window.title        "Tabela de Conteúdos">
-<!ENTITY buildToc.label      "Construir tabela de conteúdos a partir de:">
-<!ENTITY style.label         "Estilo:">
-<!ENTITY tag.label           "Etiqueta:">
-<!ENTITY class.label         "Classe:">
-<!ENTITY header1.label       "Nível 1">
-<!ENTITY header2.label       "Nível 2">
-<!ENTITY header3.label       "Nível 3">
-<!ENTITY header4.label       "Nível 4">
-<!ENTITY header5.label       "Nível 5">
-<!ENTITY header6.label       "Nível 6">
-<!ENTITY makeReadOnly.label  "Tornar a tabela de conteúdos apenas de leitura">
-<!ENTITY orderedList.label   "Numerar todas as entradas da tabela de conteúdo">
+<!ENTITY Window.title "Tabela de Conteúdos">
+<!ENTITY buildToc.label "Construir tabela de conteúdos a partir de:">
+<!ENTITY style.label "Estilo:">
+<!ENTITY tag.label "Etiqueta:">
+<!ENTITY class.label "Classe:">
+<!ENTITY header1.label "Nível 1">
+<!ENTITY header2.label "Nível 2">
+<!ENTITY header3.label "Nível 3">
+<!ENTITY header4.label "Nível 4">
+<!ENTITY header5.label "Nível 5">
+<!ENTITY header6.label "Nível 6">
+<!ENTITY makeReadOnly.label "Tornar a tabela de conteúdos apenas de leitura">
+<!ENTITY orderedList.label "Numerar todas as entradas da tabela de conteúdo">

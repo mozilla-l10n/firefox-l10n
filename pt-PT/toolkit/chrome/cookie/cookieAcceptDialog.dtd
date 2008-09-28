@@ -9,11 +9,10 @@
 <!ENTITY button.allow.label "Permitir">
 <!ENTITY button.allow.accesskey "P">
 <!ENTITY button.session.label "Permitir para esta sessão">
-<!ENTITY button.session.accesskey "e">
+<!ENTITY button.session.accesskey "E">
 <!ENTITY button.deny.label "Negar">
 <!ENTITY button.deny.accesskey "N">
 
 <!ENTITY dialog.title "Confirmar a definição de cookie">
 <!ENTITY dialog.remember.label "Utilizar a minha opção para todas as cookies deste sítio">
 <!ENTITY dialog.remember.accesskey "U">
-

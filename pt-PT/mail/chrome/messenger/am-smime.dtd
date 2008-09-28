@@ -13,8 +13,8 @@
 <!ENTITY signingCert.message "Usar este certificado para assinar digitalmente as mensagens que envia:">
 <!ENTITY signingCert.notselected "Nenhum certificado preparado">
 
-<!ENTITY certificates.label     "Certificados">
-<!ENTITY managecerts.label      "Ver Certificados">
-<!ENTITY managecerts.accesskey  "e">
-<!ENTITY managedevices.label    "Dispositivos de Segurança ">
+<!ENTITY certificates.label "Certificados">
+<!ENTITY managecerts.label "Ver Certificados">
+<!ENTITY managecerts.accesskey "E">
+<!ENTITY managedevices.label "Dispositivos de Segurança ">
 <!ENTITY managedevices.accesskey "D">

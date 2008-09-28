@@ -1,19 +1,19 @@
 <!-- Feed Properties Dialog -->
-<!ENTITY window.title             "Propriedades da Fonte">
+<!ENTITY window.title "Propriedades da Fonte">
 
-<!ENTITY feedFolder.label         "Armazenar itens em: ">
-<!ENTITY feedFolder.accesskey     "A">
+<!ENTITY feedFolder.label "Armazenar itens em: ">
+<!ENTITY feedFolder.accesskey "A">
 
-<!ENTITY feedLocation.label       "URL da Fonte:">
-<!ENTITY feedLocation.accesskey   "E">
+<!ENTITY feedLocation.label "URL da Fonte:">
+<!ENTITY feedLocation.accesskey "E">
 
-<!ENTITY choosethisfolder.label   "escolher esta pasta">
+<!ENTITY choosethisfolder.label "escolher esta pasta">
 
-<!ENTITY quickMode.label          "Mostrar o sumário do artigo em vez de carregar a página web">
-<!ENTITY quickMode.accesskey      "s">
+<!ENTITY quickMode.label "Mostrar o sumário do artigo em vez de carregar a página web">
+<!ENTITY quickMode.accesskey "s">
 
-<!ENTITY copyLinkCmd.label        "Copiar ligação"> 
-<!ENTITY copyLinkCmd.accesskey    "p"> 
+<!ENTITY copyLinkCmd.label "Copiar ligação">
+<!ENTITY copyLinkCmd.accesskey "P">
 
-<!ENTITY pasteLinkCmd.label       "Colar">
-<!ENTITY pasteLinkCmd.accesskey   "o">
+<!ENTITY pasteLinkCmd.label "Colar">
+<!ENTITY pasteLinkCmd.accesskey "O">

@@ -1,5 +1,5 @@
 <!ENTITY editMenu.label "Editar">
-<!ENTITY editMenu.accesskey "E">
+<!ENTITY editMenu.accesskey "e">
 <!ENTITY undoCmd.label "Anular">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "u">
@@ -11,7 +11,7 @@
 <!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Copiar">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "C">
+<!ENTITY copyCmd.accesskey "c">
 <!ENTITY pasteCmd.label "Colar">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "o">

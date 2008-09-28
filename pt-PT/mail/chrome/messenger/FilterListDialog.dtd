@@ -2,9 +2,9 @@
 <!ENTITY nameColumn.label "Nome do Filtro">
 <!ENTITY activeColumn.label "Activado">
 <!ENTITY newButton.label "Novo...">
-<!ENTITY newButton.accesskey "n">
+<!ENTITY newButton.accesskey "N">
 <!ENTITY editButton.label "Editar...">
-<!ENTITY editButton.accesskey "e">
+<!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "Eliminar">
 <!ENTITY deleteButton.accesskey "l">
 <!ENTITY reorderUpButton.label "Mover para Cima">
@@ -13,11 +13,11 @@
 <!ENTITY reorderDownButton.accesskey "B">
 <!ENTITY filterHeader.label "Os filtros ligados estão a funcionar automaticamente na ordem mostrada em baixo.">
 <!ENTITY filtersForPrefix.label "Filtros para:">
-<!ENTITY filtersForPrefix.accesskey "o">
+<!ENTITY filtersForPrefix.accesskey "O">
 <!ENTITY viewLogButton.label "Registo do Filtro">
-<!ENTITY viewLogButton.accesskey "g">
+<!ENTITY viewLogButton.accesskey "G">
 <!ENTITY runFilters.label "Ligar Agora">
-<!ENTITY runFilters.accesskey "r">
+<!ENTITY runFilters.accesskey "R">
 <!ENTITY stopFilters.label "Parar">
 <!ENTITY stopFilters.accesskey "P">
 <!ENTITY folderPickerPrefix.label "Ligar o(s) filtro(s) seleccionado(s) para:">
@@ -25,5 +25,5 @@
 <!ENTITY choosethis.label "Escolher esta pasta">
 <!ENTITY choosethisnewsserver.label "Escolher este servidor de notícias">
 <!ENTITY helpButton.label "Ajuda">
-<!ENTITY helpButton.accesskey "u">
-<!ENTITY closeCmd.key "W">  
+<!ENTITY helpButton.accesskey "U">
+<!ENTITY closeCmd.key "W">

@@ -34,8 +34,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Seleccionar as Alterações de Edição">
 <!ENTITY conflictWarning.label "Esta página foi alterada por outro programa, mas também tem alterações não guardadas no Compositor.">
 <!ENTITY conflictResolve.label "Seleccionar que versão manter:">

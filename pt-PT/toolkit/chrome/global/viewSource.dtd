@@ -1,8 +1,8 @@
 <!-- extracted from content/viewSource.xul -->
-<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE -->
+<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
 
 <!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
@@ -14,15 +14,21 @@
 <!ENTITY savePageCmd.accesskey "G">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Configurar página...">
-<!ENTITY pageSetupCmd.accesskey "C">
+<!ENTITY pageSetupCmd.accesskey "c">
 <!ENTITY printPreviewCmd.label "Pré-visualizar impressão">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Imprimir...">
 <!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.commandkey "P">
 <!ENTITY closeCmd.label "Fechar">
-<!ENTITY closeCmd.accesskey "e">
+<!ENTITY closeCmd.accesskey "E">
 <!ENTITY closeCmd.commandkey "W">
+<!-- LOCALIZATION NOTE :
+textEnlarge.commandkey3, textReduce.commandkey2 and
+textReset.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
 
 <!ENTITY textEnlarge.commandkey "+">
 <!ENTITY textEnlarge.commandkey2 "=">
@@ -33,7 +39,7 @@
 <!ENTITY textReset.commandkey2 "">
 
 <!ENTITY goToLineCmd.label "Ir para a linha...">
-<!ENTITY goToLineCmd.accesskey "l">
+<!ENTITY goToLineCmd.accesskey "L">
 <!ENTITY goToLineCmd.commandkey "l">
 
 <!ENTITY viewMenu.label "Ver">
@@ -44,7 +50,7 @@
 <!ENTITY menu_wrapLongLines.title "Moldar linhas longas">
 <!ENTITY menu_wrapLongLines.accesskey "M">
 <!ENTITY menu_highlightSyntax.label "Destacar sintaxe">
-<!ENTITY menu_highlightSyntax.accesskey "x">
+<!ENTITY menu_highlightSyntax.accesskey "X">
 <!ENTITY menu_textSize.label "Tamanho do texto">
 <!ENTITY menu_textSize.accesskey "T">
 <!ENTITY menu_textEnlarge.label "Aumentar">

@@ -38,18 +38,26 @@
 <!ENTITY certmgr.title "Gestor de certificados">
 
 <!ENTITY certmgr.tab.mine "Os seus certificados">
+<!ENTITY certmgr.tab.others2 "Pessoas">
+<!ENTITY certmgr.tab.websites3 "Servidores">
 <!ENTITY certmgr.tab.ca "Autoridades">
+<!ENTITY certmgr.tab.orphan2 "Outros">
 
 <!ENTITY certmgr.ca.builtins "CAs embutidos">
 <!ENTITY certmgr.ca.mycas "CAs geridos por si">
 
 <!ENTITY certmgr.mine "Tem certificados destas organizações que o identificam:">
 <!ENTITY certmgr.others "Tem certificados num ficheiro que identificam estas pessoas:">
+<!ENTITY certmgr.websites2 "Tem certificados guardados que identificam estes servidores:">
 <!ENTITY certmgr.cas "Tem certificados num ficheiro que identificam estas autoridades de certificação:">
+<!ENTITY certmgr.orphans "Tem certificados guardados que não encaixam em nenhuma das outras categorias:">
 
 <!ENTITY certmgr.detail.general_tab.title "Geral">
+<!ENTITY certmgr.detail.general_tab.accesskey "G">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Detalhes">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 
+<!ENTITY certmgr.pending.label "A verificar o certificado...">
 <!ENTITY certmgr.subjectinfo.label "Emitido para">
 <!ENTITY certmgr.issuerinfo.label "Emitido por">
 <!ENTITY certmgr.validity.label "Validade">
@@ -85,6 +93,9 @@
 <!ENTITY certmgr.deleteusercert.aftername "Assim que eliminar este certificado, não será capaz de ler correio que tenha sido cifrado com ele.">
 
 <!ENTITY certmgr.certname "Nome do certificado">
+<!ENTITY certmgr.certserver "Servidor">
+<!ENTITY certmgr.typesofoverrides "Excepções">
+<!ENTITY certmgr.override_lifetime "Tempo de Vida">
 <!ENTITY certmgr.tokenname "Dispositivo de segurança">
 <!ENTITY certmgr.purpose "Objectivos">
 <!ENTITY certmgr.issued "Emitido em">
@@ -93,55 +104,44 @@
 <!ENTITY certmgr.serial "Número de série">
 
 <!ENTITY certmgr.close.label "Fechar">
-<!ENTITY certmgr.close.accesskey "e">
+<!ENTITY certmgr.close.accesskey "E">
+<!ENTITY certmgr.view2.label "Ver...">
+<!ENTITY certmgr.view2.accesskey "V">
+<!ENTITY certmgr.edit2.label "Editar...">
+<!ENTITY certmgr.edit2.accesskey "E">
 <!ENTITY certmgr.editca.label "Editar confiança na CA">
 <!ENTITY certmgr.editca.accesskey "d">
 <!ENTITY certmgr.add.label "Adicionar">
 <!ENTITY certmgr.add.accesskey "A">
+<!ENTITY certmgr.export.label "Exportar...">
+<!ENTITY certmgr.export.accesskey "x">
+<!ENTITY certmgr.delete2.label "Apagar...">
+<!ENTITY certmgr.delete2.accesskey "D">
+<!ENTITY certmgr.backup2.label "Cópia de Segurança...">
+<!ENTITY certmgr.backup2.accesskey "C">
+<!ENTITY certmgr.backupall2.label "Copiar todos...">
+<!ENTITY certmgr.backupall2.accesskey "k">
+<!ENTITY certmgr.restore2.label "Importar...">
+<!ENTITY certmgr.restore2.accesskey "m">
 <!ENTITY certmgr.details.label "Campos do certificado">
 <!ENTITY certmgr.details.accesskey "C">
 <!ENTITY certmgr.fields.label "Valor do campo">
 <!ENTITY certmgr.fields.accesskey "V">
 <!ENTITY certmgr.hierarchy.label "Hierarquia do certificado">
 <!ENTITY certmgr.hierarchy.accesskey "H">
+<!ENTITY certmgr.addException.label "Adicionar Excepção...">
+<!ENTITY certmgr.addException.accesskey "x">
 
-<!ENTITY certmgr.tab.others2                  "Pessoas">
-<!ENTITY certmgr.tab.websites3                "Servidores">
-<!ENTITY certmgr.tab.orphan2                  "Outros">
-<!ENTITY certmgr.websites2                    "Tem certificados guardados que identificam estes servidores:">
-<!ENTITY certmgr.orphans                      "Tem certificados guardados que não encaixam em nenhuma das outras categorias:">
-<!ENTITY certmgr.detail.general_tab.accesskey "G">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
-<!ENTITY certmgr.pending.label                "A verificar o certificado...">
-<!ENTITY certmgr.certserver                   "Servidor">
-<!ENTITY certmgr.typesofoverrides             "Excepções">
-<!ENTITY certmgr.override_lifetime            "Tempo de Vida">
-<!ENTITY certmgr.view2.label                  "Ver...">
-<!ENTITY certmgr.view2.accesskey              "V">
-<!ENTITY certmgr.edit2.label                  "Editar...">
-<!ENTITY certmgr.edit2.accesskey              "E">
-<!ENTITY certmgr.export.label                 "Exportar...">
-<!ENTITY certmgr.export.accesskey             "x">
-<!ENTITY certmgr.delete2.label                "Apagar...">
-<!ENTITY certmgr.delete2.accesskey            "D">
-<!ENTITY certmgr.backup2.label                "Cópia de Segurança...">
-<!ENTITY certmgr.backup2.accesskey            "C">
-<!ENTITY certmgr.backupall2.label             "Copiar todos...">
-<!ENTITY certmgr.backupall2.accesskey         "k">
-<!ENTITY certmgr.restore2.label               "Importar...">
-<!ENTITY certmgr.restore2.accesskey           "m">
-<!ENTITY certmgr.addException.label           "Adicionar Excepção...">
-<!ENTITY certmgr.addException.accesskey       "x">
-<!ENTITY exceptionMgr.title                   "Adicionar Excepção de Segurança">
-<!ENTITY exceptionMgr.exceptionButton         "Confirmar Excepção de Segurança">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "C">
-<!ENTITY exceptionMgr.supplementalWarning     "Bancos, lojas e outros sítios públicos legítimos não lhe pedem para fazer isto.">
-<!ENTITY exceptionMgr.certlocation.caption2   "Servidor">
-<!ENTITY exceptionMgr.certlocation.url        "Localização:">
-<!ENTITY exceptionMgr.certlocation.download   "Obter Certificado">
-<!ENTITY exceptionMgr.certlocation.accesskey  "O">
-<!ENTITY exceptionMgr.certstatus.caption      "Estado do Certificado">
-<!ENTITY exceptionMgr.certstatus.viewCert     "Ver...">
-<!ENTITY exceptionMgr.certstatus.accesskey    "V">
-<!ENTITY exceptionMgr.permanent.label         "Gravar esta excepção permanentemente">
-<!ENTITY exceptionMgr.permanent.accesskey     "p">
+<!ENTITY exceptionMgr.title "Adicionar Excepção de Segurança">
+<!ENTITY exceptionMgr.exceptionButton "Confirmar Excepção de Segurança">
+<!ENTITY exceptionMgr.exceptionButtonAccess "C">
+<!ENTITY exceptionMgr.supplementalWarning "Bancos, lojas e outros sítios públicos legítimos não lhe pedem para fazer isto.">
+<!ENTITY exceptionMgr.certlocation.caption2 "Servidor">
+<!ENTITY exceptionMgr.certlocation.url "Localização:">
+<!ENTITY exceptionMgr.certlocation.download "Obter Certificado">
+<!ENTITY exceptionMgr.certlocation.accesskey "O">
+<!ENTITY exceptionMgr.certstatus.caption "Estado do Certificado">
+<!ENTITY exceptionMgr.certstatus.viewCert "Ver...">
+<!ENTITY exceptionMgr.certstatus.accesskey "V">
+<!ENTITY exceptionMgr.permanent.label "Gravar esta excepção permanentemente">
+<!ENTITY exceptionMgr.permanent.accesskey "P">

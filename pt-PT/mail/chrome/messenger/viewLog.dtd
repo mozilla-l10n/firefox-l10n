@@ -5,5 +5,4 @@
 <!ENTITY enableLog.label "Activar o Registo do Filtro">
 <!ENTITY enableLog.accesskey "A">
 <!ENTITY closeLog.label "Fechar">
-<!ENTITY closeLog.accesskey "F">
-
+<!ENTITY closeLog.accesskey "f">

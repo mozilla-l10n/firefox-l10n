@@ -34,17 +34,17 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-
 <!-- Box Headings -->
-<!ENTITY contact.heading             "Contacto">
-<!ENTITY home.heading                "Casa">
-<!ENTITY other.heading               "Outro">
-<!ENTITY phone.heading               "Telefone">
-<!ENTITY work.heading                "Trabalho">
+
+<!ENTITY contact.heading "Contacto">
+<!ENTITY home.heading "Casa">
+<!ENTITY other.heading "Outro">
+<!ENTITY phone.heading "Telefone">
+<!ENTITY work.heading "Trabalho">
 <!-- Special Box Headings, for mailing lists -->
-<!ENTITY description.heading         "Descrição">
-<!ENTITY addresses.heading           "Endereços">
+<!ENTITY description.heading "Descrição">
+<!ENTITY addresses.heading "Endereços">
 <!-- For Map It! -->
-<!ENTITY mapItButton.label           "Mapa">
-<!ENTITY mapIt.tooltip               "Mostrar um mapa desta morada através da Web">
+<!ENTITY mapItButton.label "Mapa">
+<!ENTITY mapIt.tooltip "Mostrar um mapa desta morada através da Web">
 

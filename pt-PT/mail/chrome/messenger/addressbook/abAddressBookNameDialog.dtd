@@ -34,7 +34,7 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-
 <!-- Labels -->
-<!ENTITY name.label			"Nome do Livro de Endereços">
-<!ENTITY name.accesskey  "L">
+
+<!ENTITY name.label "Nome do Livro de Endereços">
+<!ENTITY name.accesskey "L">

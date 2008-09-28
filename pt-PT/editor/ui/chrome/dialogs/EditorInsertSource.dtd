@@ -34,8 +34,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Inserir HTML">
 <!ENTITY sourceEditField.label "Introduzir texto e etiquetas HTML:">
 <!ENTITY example.label "Exemplo: ">

@@ -1,7 +1,7 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Para ter espaço em disco, não transferir:">
 <!ENTITY doNotDownload.label "Para ter espaço em disco, não transferir para usar no modo desligado:">
-<!ENTITY offlineNewFolder.label "Quando criar novas pastas, seleccioná-las para usar no modo desligado">
-<!ENTITY offlineNewFolder.accesskey "Q">
+<!ENTITY allFoldersOffline.label "Keep messages for this account on this computer">
+<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Mensagens maiores que ">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY kb.label "KB">
@@ -9,7 +9,7 @@
 <!ENTITY daysOld.label "dias de idade">
 <!ENTITY message.label "mensagens">
 <!ENTITY nntpNotDownloadRead.label "Ler mensagens">
-<!ENTITY nntpNotDownloadRead.accesskey "L">
+<!ENTITY nntpNotDownloadRead.accesskey "l">
 <!ENTITY nntpDownloadMsg.label "Mais mensagens que">
 <!ENTITY nntpDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente eliminadas">
@@ -20,15 +20,12 @@
 <!ENTITY retentionKeepNew.label "Apagar todas menos as últimas">
 <!ENTITY retentionKeepNew.accesskey "l">
 <!ENTITY retentionKeepUnread.label "Apagar sempre todas as mensagens lidas">
-<!ENTITY retentionKeepUnread.accesskey "A">
+<!ENTITY retentionKeepUnread.accesskey "a">
 <!ENTITY nntpRemoveBody.label "Apenas se corpo da mensagem for menor que">
-<!ENTITY nntpRemoveBody.accesskey "p">
+<!ENTITY nntpRemoveBody.accesskey "P">
 <!ENTITY offlineSelectNntp.label "Seleccione grupos de discussão para usar no modo desligado...">
 <!ENTITY offlineSelectNntp.accesskey "S">
-<!ENTITY offlineSelectImap.label "Seleccione pastas para usar no modo desligado...">
-<!ENTITY offlineSelectImap.accesskey "S">
-<!ENTITY offlineDesc.label "Pode transferir as suas mensagens localmente para que elas estejam disponíveis quando trabalha no modo desligado.">
-<!ENTITY makeInboxMsgsAvailable.label "Permitir disponibilidade das mensagens na caixa de entrada quando no modo desligado">
-<!ENTITY makeInboxMsgsAvailable.accesskey "i">
-<!ENTITY offlineGroupTitle.label "Modo Desligado">
+<!ENTITY offlineImapAdvancedOffline.label "Advanced…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "A">
+<!ENTITY syncGroupTitle.label "Message Synchronizing">
 <!ENTITY diskspaceGroupTitle.label "Espaço em Disco">
