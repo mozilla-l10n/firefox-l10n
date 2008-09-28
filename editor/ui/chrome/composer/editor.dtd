@@ -48,6 +48,6 @@
 <!ENTITY formatMenu.label "Formato">
 <!ENTITY formatmenu.accesskey "r">
 <!ENTITY helpMenu.label "Guida">
-<!ENTITY aboutCmd.label ".Informazioni su...">
+<!ENTITY aboutCmd.label ".Informazioni su…">
 <!ENTITY editMode.label "Modalità composizione:">
 <!ENTITY statusText.label "Documento: Completato">
