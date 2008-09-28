@@ -59,7 +59,7 @@
 <!ENTITY copyCmd.label "Copiar">
 <!ENTITY copyCmd.accesskey "c">
 <!ENTITY pasteCmd.label "Colar">
-<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY pasteCmd.accesskey "l">
 <!ENTITY selectallCmd.label "Seleccionar Tudo">
 <!ENTITY selectallCmd.accesskey "s">
 <!ENTITY propsCmd.label "Propriedades do Hotspot">
