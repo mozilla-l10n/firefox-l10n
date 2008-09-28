@@ -5,14 +5,14 @@
   The methods by which forged (phished) and attack sites will be detected by
   phishing providers will vary from human review to machine-based heuristics to a
   combination of both, so it's important that these strings and
-  useDownloadedList.label convey the meaning "suspected" (and not something like
+  useDownloadedList.label convey the meaning "reported" (and not something like
   "known").
 -->
-<!ENTITY  tellMaybeAttackSite.label     "Spune-mi dacă saitul pe care-l vizitez e suspect de atac">
-<!ENTITY  tellMaybeAttackSite.accesskey "c">
+<!ENTITY  tellMaybeAttackSite2.label     "Blochează saiturile raportate ca fiind de atac">
+<!ENTITY  tellMaybeAttackSite.accesskey "s">
 
-<!ENTITY  tellMaybeForgery.label     "Spune-mi dacă saitul pe care-l vizitez e suspect de a fi contrafăcut">
-<!ENTITY  tellMaybeForgery.accesskey "t">
+<!ENTITY  tellMaybeForgery2.label     "Blochează saiturile raportate ca falsuri">
+<!ENTITY  tellMaybeForgery.accesskey "f">
 
 <!ENTITY  addonExceptions.label         "Excepții...">
 <!ENTITY  addonExceptions.accesskey     "E">

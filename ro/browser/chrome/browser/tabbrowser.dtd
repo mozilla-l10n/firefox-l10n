@@ -16,3 +16,4 @@
 <!ENTITY  bookmarkThisTab.accesskey   "P">
 <!ENTITY  undoCloseTab.label          "Anulează închiderea filei">
 <!ENTITY  undoCloseTab.accesskey      "u">
+<!ENTITY  newTabButton.tooltip        "Deschide o filă nouă">
