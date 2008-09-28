@@ -1,20 +1,5 @@
 <!ENTITY window.title "Правила фільтрації">
-<!ENTITY subject.label "тема">
-<!ENTITY sender.label "відправник">
-<!ENTITY date.label "дата">
-<!ENTITY anyText.label "будь-який текст">
-<!ENTITY keyword.label "ключове слово">
-<!ENTITY age.label "вік в днях">
-<!ENTITY to.label "кому">
 
-<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
-<!ENTITY cc.label "копія">
-
-<!ENTITY status.label "стан">
-<!ENTITY priority.label "важливість">
-<!ENTITY body.label "тіло">
-<!ENTITY contains.label "містить">
-<!ENTITY nocontains.label "не містить">
 <!ENTITY filterName.label "Назва фільтру:">
 <!ENTITY filterName.accesskey "І">
 
@@ -27,7 +12,6 @@
 <!ENTITY highPriorityCmd.label "високу">
 <!ENTITY highestPriorityCmd.label "найвищу">
 
-<!ENTITY conditionDesc.label "Для вхідних повідомлень, які задовольняють:">
 <!ENTITY filterActionDesc.label "Виконувати наступні дії:">
 <!ENTITY filterActionDesc.accesskey "и">
 
@@ -35,20 +19,27 @@
 <!ENTITY newFolderButton.accesskey "т">
 
 <!-- New Style Filter Rule Actions -->
-<!ENTITY moveMessage.label "Перемістити повідомлення у">
-<!ENTITY copyMessage.label "Копіювати повідомлення у">
 <!ENTITY forwardTo.label "Переслати повідомлення до">
 <!ENTITY replyWithTemplate.label "Відповісти за шаблоном">
 <!ENTITY markMessageRead.label "Відмітити як прочитане">
 <!ENTITY markMessageStarred.label "Додати зірочку">
-<!ENTITY labelMessage.label "Відзначити повідомлення як">
 <!ENTITY setPriority.label "Змінити важливість на">
 <!ENTITY addTag.label "Позначити повідомлення">
 <!ENTITY setJunkScore.label "Встановити ознаку спаму">
-<!ENTITY deleteMessage.label "Вилучити повідомлення">
 <!ENTITY deleteFromPOP.label "Вилучити з поштового сервера">
 <!ENTITY fetchFromPOP.label "Завантажити з поштового сервера">
 <!ENTITY ignoreThread.label "Пропустити обговорення">
 <!ENTITY watchThread.label "Відстежувати обговорення">
+<!ENTITY copyMessage.label "Перемістити повідомлення у">
+<!ENTITY deleteMessage.label "Вилучити повідомлення">
+<!ENTITY moveMessage.label "Перемістити повідомлення у">
 
 
+<!-- FIXME: localize -->
+<!ENTITY contextBoth.label "Checking Mail or Manually Run">
+<!ENTITY contextDesc.accesskey "w">
+<!ENTITY contextDesc.label "Apply filter when:">
+<!ENTITY contextIncoming.label "Checking Mail">
+<!ENTITY contextManual.label "Manually Run">
+<!ENTITY ignoreSubthread.label "Ignore Subthread">
+<!ENTITY stopExecution.label "Stop Filter Execution">

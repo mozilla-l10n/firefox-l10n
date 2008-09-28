@@ -36,7 +36,6 @@
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Обговорення">
-<!ENTITY senderColumn.label "Відправник">
 <!ENTITY recipientColumn.label "Адресат">
 <!ENTITY subjectColumn.label "Тема">
 <!ENTITY dateColumn.label "Дата">
@@ -55,9 +54,9 @@
 <!ENTITY idColumn.label "Порядок отримання">
 
 <!-- Thread Pane Tooltips -->
+<!-- FIXME: клацнути, скоротити -->
 <!ENTITY columnChooser.tooltip "Натисніть, щоб вибрати колонки для відображення">
 <!ENTITY threadColumn.tooltip "Натисніть тут, щоб переглянути обговорення"> 
-<!ENTITY senderColumn.tooltip "Натисніть тут, щоб відсортувати повідомлення за відправником">
 <!ENTITY recipientColumn.tooltip "Натисніть тут, щоб відсортувати повідомлення за адресатом">
 <!ENTITY subjectColumn.tooltip "Натисніть тут, щоб відсортувати повідомлення за темою">
 <!ENTITY dateColumn.tooltip "Натисніть тут, щоб відсортувати повідомлення за датою">
@@ -73,3 +72,7 @@
 <!ENTITY starredColumn.tooltip "Натисніть тут, щоб відсортувати повідомлення за міткою зірки">
 <!ENTITY locationColumn.tooltip "Натисніть тут, щоб відсортувати повідомлення за їх розташуванням">
 <!ENTITY idColumn.tooltip "Натисніть тут, щоб відсортувати повідомлення за порядком отримання">
+<!ENTITY fromColumn.label "Відправник">
+<!ENTITY fromColumn.tooltip "Натисніть тут, щоб відсортувати повідомлення за відправником">
+<!ENTITY receivedColumn.label "Отримано">
+<!ENTITY receivedColumn.tooltip "Натисніть тут щоб відсортувати повідомлення за датою отримання">
