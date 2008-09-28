@@ -19,7 +19,7 @@
 <!ENTITY newMessageCmd.accesskey                        "m">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
 <!ENTITY osxAddressBook.label                           "Folosește agenda de contacte Mac OS X">
-<!ENTITY osxAddressBook.accesskey                       "O">
+<!ENTITY osxAddressBook.accesskey                       "o">
 <!ENTITY closeCmd.label                                 "Închide">
 <!ENTITY closeCmd.key                                   "w">
 <!ENTITY closeCmd.accesskey                             "h">

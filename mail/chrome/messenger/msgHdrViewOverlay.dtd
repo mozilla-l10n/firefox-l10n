@@ -53,24 +53,24 @@
 <!ENTITY referencesField2.label "references ">
 <!ENTITY messageIdField2.label "message-id ">
 <!ENTITY inReplyToField2.label "in-reply-to ">
-<!ENTITY originalWebsite2.label "website ">
+<!ENTITY originalWebsite2.label "sait web ">
 <!ENTITY saveAll.label "Salvează toate...">
 
-<!ENTITY editMessageDescription.label "This is a draft message">
+<!ENTITY editMessageDescription.label "Acesta e un mesaj netrimis, o ciornă">
 <!ENTITY editMessageButton.label "Editează…">
-<!ENTITY replyButton.label "reply…">
-<!ENTITY forwardButton.label "forward…">
-<!ENTITY junkButton.label "mark as junk">
+<!ENTITY replyButton.label "răspunde…">
+<!ENTITY forwardButton.label "înaintează…">
+<!ENTITY junkButton.label "marchează ca spam">
 <!ENTITY trashButton.tooltiptext "șterge">
 
-<!ENTITY otherActionsButton.label "other actions">
-<!ENTITY saveAsMenuItem.label "save as…">
-<!ENTITY saveAsMenuItem.accesskey "S">
-<!ENTITY viewSourceMenuItem.label "view source…">
-<!ENTITY viewSourceMenuItem.accesskey "V">
+<!ENTITY otherActionsButton.label "alte acțiuni">
+<!ENTITY saveAsMenuItem.label "salvează ca…">
+<!ENTITY saveAsMenuItem.accesskey "s">
+<!ENTITY viewSourceMenuItem.label "vezi sursa…">
+<!ENTITY viewSourceMenuItem.accesskey "v">
 
-<!ENTITY hideDetailsButton.label "hide details">
-<!ENTITY showDetailsButton.label "show details">
+<!ENTITY hideDetailsButton.label "ascunde detaliile">
+<!ENTITY showDetailsButton.label "arată detalii">
 
 <!ENTITY openAttachmentCmd.label    "Deschide">
 <!ENTITY openAttachmentCmd.accesskey    "D">

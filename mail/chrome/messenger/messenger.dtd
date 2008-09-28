@@ -346,8 +346,8 @@
 <!ENTITY killThreadMenu.label "Ignoră conversația">
 <!ENTITY killThreadMenu.accesskey "I">
 <!ENTITY killThreadMenu.key "K">
-<!ENTITY killSubthreadMenu.label "Ignore Subthread">
-<!ENTITY killSubthreadMenu.accesskey "S">
+<!ENTITY killSubthreadMenu.label "Ignoră conversația din interior">
+<!ENTITY killSubthreadMenu.accesskey "s">
 <!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Urmărește conversația">
 <!ENTITY watchThreadMenu.accesskey "U">
@@ -644,7 +644,7 @@
 <!ENTITY AddDirectlyToAddressBook.accesskey "A">
 <!ENTITY EditContact.label "Editează contactul…">
 <!ENTITY EditContact.accesskey "E">
-<!ENTITY ViewContact.label "View Contact">
+<!ENTITY ViewContact.label "Vizualizare contact">
 <!ENTITY ViewContact.accesskey "V">
 <!ENTITY SendMailTo.label "Compune mesaj către">
 <!ENTITY SendMailTo.accesskey "s">
