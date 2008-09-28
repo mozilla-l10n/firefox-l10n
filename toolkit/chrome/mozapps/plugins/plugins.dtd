@@ -21,3 +21,5 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; trebuie repornit pentru ca plugin-urile să funcționeze.">
   
 <!ENTITY missingPlugin.label                                 "Clic aici pentru a descărca plugin-ul.">
+<!ENTITY disabledPlugin.label                                "Plugin-ul pentru acest conținut a fost dezactivat. Clic aici pentru a gestiona plugin-urile.">
+<!ENTITY blockedPlugin.label                                 "Plugin-ul a fost dezactivat pentru protecția dumneavoastră.">
