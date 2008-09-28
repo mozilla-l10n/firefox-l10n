@@ -71,3 +71,5 @@
 <!ENTITY quitApplicationCmdUnix.label	"Вихід"> 
 <!ENTITY quitApplicationCmdUnix.accesskey	"х">
 
+<!ENTITY quitApplicationCmdMac.accesskey  "З">
+<!ENTITY quitApplicationCmdMac.label  "Закрити &brandShortName;">
