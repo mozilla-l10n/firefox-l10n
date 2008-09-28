@@ -424,9 +424,9 @@
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "Filtrează dosarul">
 <!ENTITY filtersApply.accesskey "r">
-<!ENTITY filtersApplyToSelection.label "Run Filters on Selected Messages">
-<!ENTITY filtersApplyToSelection.accesskey "S">
-<!ENTITY filtersApplyToMessage.label "Run Filters on Message">
+<!ENTITY filtersApplyToSelection.label "Rulează filtrele pe mesajele selectate">
+<!ENTITY filtersApplyToSelection.accesskey "s">
+<!ENTITY filtersApplyToMessage.label "Rulează filtrele pe mesaj">
 <!ENTITY filtersApplyToMessage.accesskey "s">
 
 <!-- Mail Toolbar -->
@@ -473,7 +473,7 @@
 <!ENTITY goForwardButton.tooltip "Mergi la mesajul următor">
 <!ENTITY goBackButton.tooltip "Mergi la mesajul precedent">
 <!ENTITY deleteButton.tooltip "Șterge mesajul sau dosarul selectat">
-<!ENTITY undeleteButton.tooltip "Undelete selected message">
+<!ENTITY undeleteButton.tooltip "Recuperează mesajul selectat">
 <!ENTITY markButton.tooltip "Marchează mesajele">
 <!ENTITY printButton.tooltip "Tipărește acest mesaj">
 <!ENTITY stopButton.tooltip "Oprește transferul curent">
@@ -540,7 +540,7 @@
 <!ENTITY searchFromMenu.label "Expeditor">
 <!ENTITY searchSubjectOrFromMenu.label "Subiect sau expeditor">
 <!ENTITY searchRecipient.label "Destinatar sau CC">
-<!ENTITY searchSubjectOrRecipientMenu.label "Subject, To or Cc">
+<!ENTITY searchSubjectOrRecipientMenu.label "Subiect, Către sau CC">
 <!ENTITY searchMessageBody.label "Mesajul întreg">
 <!ENTITY saveAsVirtualFolderMenu.label "Salvează căutarea ca dosar...">
 
@@ -627,12 +627,12 @@
 
 <!-- Remote Content Bar -->
 <!ENTITY remoteContentMessage1.label "Pentru a vă proteja intimitatea, nu s-au încărcat imaginile aflate la distanță.">
-<!ENTITY loadRemoteContentButton2.label "Display Images Now">
+<!ENTITY loadRemoteContentButton2.label "Afișează imaginile acum">
 
 <!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "This message may be a scam.">
+<!ENTITY phishingBarMessage2.label "Mesajul acesta poate fi o înșelătorie.">
 <!ENTITY removePhishingBarButton1.label "Ignoră avertismentul">
-<!ENTITY reportPhishingError1.label "This message doesn't appear to be a scam.">
+<!ENTITY reportPhishingError1.label "Acest mesaj nu pare a fi o înșelătorie.">
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "K">
@@ -640,9 +640,9 @@
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Adaugă la contacte...">
 <!ENTITY AddToAddressBook.accesskey "c">
-<!ENTITY AddDirectlyToAddressBook.label "Add to Address Book">
-<!ENTITY AddDirectlyToAddressBook.accesskey "B">
-<!ENTITY EditContact.label "Edit Contact…">
+<!ENTITY AddDirectlyToAddressBook.label "Adaugă la agenda de contacte">
+<!ENTITY AddDirectlyToAddressBook.accesskey "A">
+<!ENTITY EditContact.label "Editează contactul…">
 <!ENTITY EditContact.accesskey "E">
 <!ENTITY ViewContact.label "View Contact">
 <!ENTITY ViewContact.accesskey "V">

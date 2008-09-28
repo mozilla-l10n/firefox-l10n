@@ -136,8 +136,8 @@
 
 <!ENTITY Other.tab                      "Altele">
 <!ENTITY Other.accesskey                "h">
-<!ENTITY Birthday.label                 "Birthday:">
-<!ENTITY Birthday.accesskey             "B">
+<!ENTITY Birthday.label                 "Zi de naștere:">
+<!ENTITY Birthday.accesskey             "Z">
 <!ENTITY Year.emptytext                 "An">
 <!ENTITY Or.value                       "sau">
 <!ENTITY Age.emptytext                  "Vârsta">
