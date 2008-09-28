@@ -3,7 +3,7 @@
 <!ENTITY securitySettings.label "Innstillingar for sikkerheit">
 <!ENTITY serverSettings.label "Tenarinnstillingar">
 <!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
-<!ENTITY popServer.label "Meldingstenar (POP3)">
+<!ENTITY popServer.label "Meldingstenar (POP)">
 <!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
 <!ENTITY imapServer.label "Meldingstenar (IMAP)">
 <!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
@@ -76,7 +76,7 @@
 <!ENTITY maxMessagesStart.accesskey "M">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "meldingar">
-<!ENTITY alwaysAuthenticate.label "Spør alltid etter autentisering når eg koplar til denne tenaren">
+<!ENTITY alwaysAuthenticate.label "Spør alltid etter autentisering ved tilkopling til denne tenaren">
 <!ENTITY alwaysAuthenticate.accesskey "A">
 <!ENTITY newsrcFilePath.label "newsrc-fil:">
 <!ENTITY localPath.label "Lokal mappe:">

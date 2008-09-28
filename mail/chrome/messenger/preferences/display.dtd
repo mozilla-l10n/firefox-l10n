@@ -2,7 +2,7 @@
 <!ENTITY itemTags.label                   "Merkelappar">
 <!ENTITY itemFonts.label                  "Skrifttypar">
 
-<!ENTITY textBegin.label                  "Sitert tekst-utsjånad">
+<!ENTITY textBegin.label                  "Vising av sitert tekst">
 <!ENTITY style.label                      "Stil:">
 <!ENTITY style.accesskey                  "t">
 <!ENTITY regularStyle.label               "Vanleg">

@@ -50,7 +50,7 @@
 <!ENTITY folderRebuildSummaryFileTip.label       "Bygg opp oppsummeringsfil på nytt"> 
      
 <!ENTITY retention.label "Ivaretaking av meldingar">
-<!ENTITY retentionUseDefault.label  "Bruk tenaren sin standard">
+<!ENTITY retentionUseDefault.label  "Bruk tenar-standard">
 <!ENTITY retentionUseDefault.accesskey "B">
 <!ENTITY days.label "dagar">
 <!ENTITY daysOld.label "dagar gamle">

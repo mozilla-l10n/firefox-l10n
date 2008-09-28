@@ -1,19 +1,19 @@
-<!ENTITY itemJunk.label          "Søppelpost">
+<!ENTITY itemJunk.label          "Uønskt">
 <!ENTITY itemPhishing.label      "E-postsvindel">
 <!ENTITY itemPasswords.label     "Passord">
 <!ENTITY itemAntiVirus.label     "Anti-virus">
 
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "Gå til kontoinnstillingar for å konfigurere spesifikke søppel-e-post-innstillingar for denne kontoen.">
-<!ENTITY manualMark.label "Når eg merkar meldingar som søppel:">
+<!ENTITY junkMail.intro "Gå til kontoinnstillingar for å konfigurere spesifikke uønskt e-post-innstillingar for denne kontoen.">
+<!ENTITY manualMark.label "Når eg merkar meldingar som uønskt:">
 <!ENTITY manualMark.accesskey "N">
-<!ENTITY manualMarkModeMove.label "Flytt dei til &quot;Søppel&quot;-mappa">
+<!ENTITY manualMarkModeMove.label "Flytt dei til &quot;Uønskt&quot;-mappa">
 <!ENTITY manualMarkModeMove.accesskey "F">
 <!ENTITY manualMarkModeDelete.label "Slett dei">
 <!ENTITY manualMarkModeDelete.accesskey "t">
-<!ENTITY markAsReadOnSpam.label "Merk søppelmeldingar som lesne">
+<!ENTITY markAsReadOnSpam.label "Merk uønskte meldingar som lesne">
 <!ENTITY markAsReadOnSpam.accesskey "k">
-<!ENTITY enableJunkLogging.label "Slå på søppelfilterlogging">
+<!ENTITY enableJunkLogging.label "Slå på uønskt-filter-logging">
 <!ENTITY enableJunkLogging.accesskey "g">
 <!ENTITY openJunkLog.label "Vis logg">
 <!ENTITY openJunkLog.accesskey "h">
@@ -48,7 +48,7 @@
 <!ENTITY antiVirusCaption.label "Antivirus">
 <!ENTITY paswords.label         "Passord">
 <!ENTITY emailScams.label       "E-postsvindel">
-<!ENTITY junkMail.label         "Søppelpost">
+<!ENTITY junkMail.label         "Uønskt">
 <!ENTITY itemIntrusions.label   "Intrengingar">
 <!ENTITY itemIntrusionsAndPasswords.label  "Intrengingar og passord">
-<!ENTITY itemJunkMail.label     "Søppelpost">
+<!ENTITY itemJunkMail.label     "Uønskt>

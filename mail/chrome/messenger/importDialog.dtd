@@ -60,20 +60,20 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription1.label "Denne vegvisaren vil importere e-postmeldingar, oppføringar i adressebøker, innstillingar og/eller filter frå andre e-postprogram og vanlege adressebokformat til &brandShortName;.">
 <!ENTITY importDescription2.label "Når dei er importerte, vil du kunne bruke dei i &brandShortName; e-post og nyhendegrupper og/eller adressebok.">
 
-<!ENTITY selectDescription.label  "Vel programmet du vil importere frå:">
+<!ENTITY selectDescription.label  "Vel filtypen du ønskjer å importere:">
 
 <!ENTITY back.label               "&lt; Tilbake">
 <!ENTITY forward.label            "Neste &gt;">
 <!ENTITY finish.label             "Ferdig">
 <!ENTITY cancel.label             "Avbryt">
 
-<!ENTITY select.label             "Vel typen materiell du vil importere:">
+<!ENTITY select.label             "eller vel typen materiell du vil importere:">
 
 <!ENTITY title.label              "Tittel">
 <!ENTITY processing.label         "Importerer …">
 
 <!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x har ei postadresse for kvart kort, medan &brandShortName; har to (heim og adresse)">
 <!ENTITY FieldDiscInputText2.label  "Vel kategorien som du vil lagre dei importerte e-postadressene i:">
-<!ENTITY FieldDiscWarning.label  "Denne kategorien vil verte brukt for alle elementa i den valde adresseboka:">
+<!ENTITY FieldDiscWarning.label  "Denne kategorien vil bli brukt for alle elementa i den valde adresseboka:">
 <!ENTITY importDialog.homeTitle  "Heim">
 <!ENTITY importDialog.workTitle  "Arbeid">

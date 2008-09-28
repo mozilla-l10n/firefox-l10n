@@ -143,7 +143,7 @@
 <!ENTITY editcheckspelling.keybinding "k">
 <!ENTITY validateCmd.label "Kontroller HTML">
 <!ENTITY validate.accesskey "v">
-<!ENTITY checkLinksCmd.label "Sjekk lenkjer">
+<!ENTITY checkLinksCmd.label "Kontroller lenkjer">
 
 <!-- View menu items -->
 <!ENTITY viewPageSource.label "Kjeldekode for sida">

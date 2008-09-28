@@ -181,7 +181,7 @@
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Minimer">
 <!ENTITY bringAllToFront.label "Send alle til framgrunnen">
-<!ENTITY zoomWindow.label "Vindaugsforstørring"> 
+<!ENTITY zoomWindow.label "Forstørr"> 
 <!ENTITY windowMenu.label "Vindauge">
 
 <!-- Mail Toolbar -->
@@ -225,9 +225,9 @@
 <!ENTITY formatToolbar.underlineChar "U">
 <!ENTITY SmileButton.tooltip "Set inn smilefjes">
 <!ENTITY smiley1Cmd.label "Smil">
-<!ENTITY smiley2Cmd.label "Rynkar panna">
+<!ENTITY smiley2Cmd.label "Rynker panna">
 <!ENTITY smiley3Cmd.label "Blink">
-<!ENTITY smiley4Cmd.label "Geip">
+<!ENTITY smiley4Cmd.label "Tunga-ut">
 <!ENTITY smiley5Cmd.label "Ler">
 <!ENTITY smiley6Cmd.label "Brydd">
 <!ENTITY smiley7Cmd.label "Ubestemt">

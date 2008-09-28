@@ -43,6 +43,6 @@
 <!ENTITY gdata.migration.description "Tilbydaren av Googlekalender har oppdaga at du har kalendrar som berre kan få tilgang til Googlekalender i skriveverna modus. Dersom du vil oppgradere nokon av desse kalendrane, vel kva for nokre under">
 <!ENTITY gdata.migration.upgrade.label "Oppgrader">
 <!ENTITY gdata.migration.upgrade.accesskey "U">
-<!ENTITY gdata.migration.showagain.label "Sjekk alltid">
+<!ENTITY gdata.migration.showagain.label "Kontroller alltid">
 
 <!ENTITY gdata.reminder.action.sms.label "Send ei tekstmelding">

@@ -5,7 +5,7 @@
 <!ENTITY messageStorage.label "Meldingslagring">
 <!ENTITY emptyTrashOnExit.label "Tøm bosskorga når du sluttar av">
 <!ENTITY emptyTrashOnExit.accesskey "ø">
-<!ENTITY localPath.label "Lokal katalog:">
-<!ENTITY localFolderPicker.label "Vel lokal katalog:">
+<!ENTITY localPath.label "Lokal mappe:">
+<!ENTITY localFolderPicker.label "Vel lokal mappe:">
 <!ENTITY browseFolder.label "Bla gjennom …">
 <!ENTITY browseFolder.accesskey "B">

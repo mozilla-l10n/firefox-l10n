@@ -158,7 +158,7 @@
 <!ENTITY installSuccessRestart.label      "Start om for å fullføre installeringa.">
 <!ENTITY updateSuccessRestart.label       "Start om for å fullføre oppdateringa.">
 <!ENTITY installWaiting.label             "Ventar …">
-<!ENTITY installIncompatibleUpdate.label  "Sjekkar kompatibilitet …">
+<!ENTITY installIncompatibleUpdate.label  "Kontrollerer kompatibilitet …">
 <!ENTITY installFinishing.label           "Installerer …">
 <!ENTITY installFailure.label             "Mislykka installering">
 
