@@ -1,4 +1,4 @@
-<!ENTITY setPassword.title "Modifica password principale">
+<!ENTITY setPassword.title "Cambio password principale">
 <!ENTITY setPassword.tokenName.label "Dispositivo di sicurezza">
 <!ENTITY setPassword.oldPassword.label "Password attuale:">
 <!ENTITY setPassword.newPassword.label "Inserire una nuova password:">
