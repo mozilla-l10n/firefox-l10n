@@ -373,7 +373,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.edit.label                     "編輯…">
 <!ENTITY editBookmark.edit.accessKey                 "E">
 
-<!ENTITY identity.unverifiedsite2 "本網站沒有提供身分識別資訊。">
+<!ENTITY identity.unverifiedsite2 "此網站沒有提供身分識別資訊。">
 <!ENTITY identity.connectedTo "你已連線到">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
