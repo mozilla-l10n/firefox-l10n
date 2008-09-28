@@ -1,7 +1,0 @@
-<!ENTITY caption.label "已阻止的弹出窗口">
-<!ENTITY intro.label "下列页面将被禁止显示
-未经请求的弹出窗口：">
-<!ENTITY done.label "完成">
-<!ENTITY done.accesskey "D">
-<!ENTITY unblock.label "允许弹出站点">
-<!ENTITY unblock.accesskey "U">
