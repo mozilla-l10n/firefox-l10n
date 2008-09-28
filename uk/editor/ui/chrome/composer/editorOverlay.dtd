@@ -487,26 +487,6 @@
 <!ENTITY toolsetfocus.accesskey "ф">
 
 <!-- Debug menu items -->
-<!ENTITY debugMenu.label "Відладка">
-<!ENTITY newEditorTestPage.label "Компонувальник з тестовою сторінкою">
-<!ENTITY textEditorCmd.label "Текстовий редактор">
-<!ENTITY outputTextCmd.label "Виведення тексту">
-<!ENTITY outputHTMLCmd.label "Виведення HTML">
-<!ENTITY insertTextCmd.label "Вставити текст">
-<!ENTITY testSelectionCmd.label "Перевірити виділення">
-<!ENTITY testTableLayoutCmd.label "Перевірити структуру таблиці">
-<!ENTITY testDocumentCmd.label "Перевірити документ">
-<!ENTITY showEmbeddedCmd.label "Показати вбудовані об’єкти">
-<!ENTITY dumpContentCmd.label "Очистити дерево вмісту">
-<!ENTITY runUnitTestsCmd.label "Тестувати блоки">
-<!ENTITY dumpUndoStack.label "Очистити буфер «Повернути»">
-<!ENTITY dumpRedoStack.label "Очистити буфер «Повторити»">
-<!ENTITY executeJSTransactionViaTxmgr.label "Виконати транзакцію JavaScript через Менеджер транзакцій">
-<!ENTITY executeJSTransactionViaEditor.label "Виконати транзакцію JavaScript через Компонувальник">
-<!ENTITY startLogCmd.label "Почати протокол">
-<!ENTITY stopLogCmd.label "Закінчити протокол">
-<!ENTITY runLogCmd.label "Виконати протокол">
-<!ENTITY setFocusCmd.label "Встановити фокус">
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Панель меню">

@@ -38,9 +38,6 @@
 <!ENTITY AdvancedEditButton.label "Додатково…">
 <!ENTITY AdvancedEditButton.accessKey "Д">
 <!ENTITY AdvancedEditButton.tooltip "Додавання або зміна HTML-атрибутів, атрибутів стилів і JavaScript">
-<!ENTITY chooseButton.label "Вибрати файл…">
-<!ENTITY chooseFile.accessKey "б">
-<!ENTITY chooseFileLink.accessKey "В">
 <!ENTITY makeUrlRelative.label "Відносний URL">
 <!ENTITY makeUrlRelative.accessKey "с">
 <!ENTITY makeUrlRelative.tooltip "Змінити абсолютний URL на відносний. Перед зміною вам потрібно зберегти сторінку.">
@@ -48,3 +45,8 @@
 <!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.label "Введіть адресу веб-сторінки, локального файлу або виберіть якір або заголовок з ім’ям із списку:">
 <!ENTITY LinkURLEditField.accessKey "а">
+
+<!ENTITY chooseFileButton.accessKey "ф">
+<!ENTITY chooseFileButton.label "Вибрати файл…">
+<!ENTITY chooseFileLinkButton.accessKey "а">
+<!ENTITY chooseFileLinkButton.label "Вибрати файл…">

@@ -47,8 +47,6 @@
 <!ENTITY filenameHeader.label  "Ім’я файлу">
 <!ENTITY succeeded.label       "Успіх">
 <!ENTITY failed.label          "Невдача">
-<!ENTITY troubleshooting.label "Розв’язання проблем">
-<!ENTITY troubleshooting.accessKey "Р">
 
 <!ENTITY keepOpen              "Не ховати це вікно після закінчення публікації.">
 <!ENTITY closeButton.label     "Закрити">

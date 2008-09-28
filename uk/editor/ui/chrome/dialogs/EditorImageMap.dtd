@@ -45,60 +45,53 @@
 <!-- Menu Items -->
 <!-- File menu -->
 <!ENTITY mapfileMenu.label "Файл">
-<!ENTITY mapfilemenu.accesskey "Ф">
+<!ENTITY mapfileMenu.accesskey "Ф">
 <!ENTITY clearCmd.label "Очистити">
-<!ENTITY mapfileclear.accesskey "О">
+<!ENTITY clearCmd.accesskey "О">
+<!ENTITY clear.key "d">
 <!ENTITY closeCmd.label "Закрити">
-<!ENTITY mapfileclose.accesskey "З">
+<!ENTITY close.key "l">
+<!ENTITY closeCmd.accesskey "З">
+
 
 <!-- Edit menu -->
 <!ENTITY mapeditMenu.label "Правка">
-<!ENTITY mapeditmenu.accesskey "П">
+<!ENTITY mapeditMenu.accesskey "П">
 <!ENTITY cutCmd.label "Вирізати">
-<!ENTITY mapeditcut.accesskey "В">
+<!ENTITY cut.key "x">
+<!ENTITY cutCmd.accesskey "В">
 <!ENTITY copyCmd.label "Копіювати">
-<!ENTITY mapeditcopy.accesskey "К">
+<!ENTITY copy.key "c">
+<!ENTITY copyCmd.accesskey "К">
 <!ENTITY pasteCmd.label "Вставити">
-<!ENTITY mapeditpaste.accesskey "т">
+<!ENTITY paste.key "v">
+<!ENTITY pasteCmd.accesskey "т">
 <!ENTITY selectallCmd.label "Виділити все">
-<!ENTITY mapselectall.accesskey "с">
+<!ENTITY selectall.key "a">
+<!ENTITY selectallCmd.accesskey "с">
 <!ENTITY propsCmd.label "Властивості активної ділянки">
-<!ENTITY mapeditprops.accesskey "т">
+<!ENTITY props.key "p">
+<!ENTITY propsCmd.accesskey "л">
 
 <!-- View menu -->
 <!ENTITY mapviewMenu.label "Вигляд">
-<!ENTITY mapviewmenu.accesskey "В">
+<!ENTITY mapviewMenu.accesskey "В">
 <!ENTITY showhideTbarCmd.label "Сховати панель інструментів">
-<!ENTITY mapviewtbar.accesskey "х">
+<!ENTITY tbar.key "t">
+<!ENTITY showhideTbarCmd.accesskey "п">
 <!-- Scaling -->
 <!ENTITY mapviewScale.label "Масштаб">
-<!ENTITY mapviewscale.accesskey "М">
+<!ENTITY mapviewScale.accesskey "М">
 <!ENTITY apercentCmd.label "100">
-<!ENTITY zoomone.accesskey "1">
+<!ENTITY apercentCmd.accesskey "1">
 <!ENTITY bpercentCmd.label "200">
-<!ENTITY zoomtwo.accesskey "2">
+<!ENTITY bpercentCmd.accesskey "2">
 <!ENTITY cpercentCmd.label "400">
-<!ENTITY zoomthree.accesskey "4">
+<!ENTITY cpercentCmd.accesskey "4">
 <!-- end scaling-->
-<!ENTITY contrastCmd.label "Контраст">
-<!ENTITY contrast.accesskey "К">
 
 <!-- Help menu -->
-<!ENTITY maphelpMenu.label "Довідка">
-<!ENTITY maphelpmenu.accesskey "Д">
-<!ENTITY aboutCmd.label "Про програму">
-<!ENTITY about.accesskey "П">
 
 <!ENTITY zoominCmd.label "Наблизити">
 <!ENTITY zoomoutCmd.label "Віддалити">
 <!ENTITY delSpotCmd.label "Вилучити ділянку">
-
-<!-- Keys -->
-<!ENTITY clear.accesskey "ч">
-<!ENTITY selectall.accesskey "с">
-<!ENTITY close.accesskey "з">
-<!ENTITY cut.accesskey "р">
-<!ENTITY copy.accesskey "к">
-<!ENTITY paste.accesskey "в">
-<!ENTITY props.accesskey "н">
-<!ENTITY tbar.accesskey "п">

@@ -47,42 +47,62 @@
 
 <!-- Publish Tab Panel -->
 <!ENTITY siteList.label           "Назва сайту:">
+<!ENTITY siteList.accesskey       "Н">
 <!ENTITY siteList.tooltip         "Виберіть сайт, що ви його хочете опубілкувати">
 <!ENTITY newSiteButton.label      "Новий сайт">
-<!ENTITY siteDirList.label        "Оберіть або введіть ім’я теки з вашим сайтом:">
-<!ENTITY siteDirList.tooltip      "Оберіть або введіть ім’я віддаленого підкаталогу для публікації">
+<!ENTITY newSiteButton.accesskey  "о">
 <!ENTITY docDirList.label         "Підтека сайту для цієї сторінки:">
+<!ENTITY docDirList.accesskey     "П">
+<!ENTITY docDirList.tooltip       "Виберіть або введіть ім’я підкаталога для цієї сторінки">
 <!ENTITY publishImgCheckbox.label "Включити зображення та інші файли">
+<!ENTITY publishImgCheckbox.accesskey "з">
 <!ENTITY publishImgCheckbox.tooltip "Опублікувати зображення та інші файли, на які посилається ця сторінка">
 <!ENTITY sameLocationRadio.label  "Використовувати місцезнаходження сторінки">
 <!ENTITY sameLocationRadio.tooltip "Публікувати файли в те ж місце, куди й сторінку">
+<!ENTITY sameLocationRadio.accesskey  "т">
 <!ENTITY useSubdirRadio.label     "Використовувати цю підтеку сайта:">
-<!ENTITY useSubdir.tooltip        "Оберіть або введіть ім’я віддаленого підкаталогу для публікації файлів">
-<!ENTITY chooseDirButton.label    "Оберіть…">
+<!ENTITY useSubdirRadio.accesskey "п">
+<!ENTITY useSubdirRadio.tooltip   "Опублікувати файли у вказаний віддалений підкаталог">
+
 <!ENTITY pageTitle.label          "Найва сторінки:">
+<!ENTITY pageTitle.accesskey      "Н">
 <!ENTITY pageTitle.tooltip        "Введіть назву для ідентифікації сторінки в вікні браузера та в закладках">
 <!ENTITY pageTitleExample.label   "напр., «Моя веб-сторінка»">
 <!ENTITY filename.label           "Ім’я файлу:">
+<!ENTITY filename.accesskey       "Ф">
 <!ENTITY filename.tooltip         "Введіть ім’я цього файлу, включаючи '.html' для веб-сторінки">
 <!ENTITY filenameExample.label    "напр., «mypage.html»">
 <!ENTITY relatedDocs.label        "Інші файли для публікації">
 <!ENTITY setDefaultButton.label   "Встановити за замовчанням">
+<!ENTITY setDefaultButton.accesskey "ч">
 <!ENTITY setDefSiteAndDir.label   "Встановити як сайт і теку за замовчуванням">
 <!ENTITY removeButton.label       "Стерти сайт">
+<!ENTITY removeButton.accesskey   "С">
 
 <!-- Settings Tab Panel -->
 <!ENTITY publishSites.label   "Публікація сайтів">
 <!ENTITY serverInfo.label     "Інформація про сервер">
 <!ENTITY loginInfo.label      "Інформація для входу">
 <!ENTITY siteName.label       "Ім’я сайту:">
+<!ENTITY siteName.accesskey   "І">
 <!ENTITY siteName.tooltip     "Нік, що ідентифікує опубліковуваний сайт (напр., 'MySite')">
 <!ENTITY siteUrl.label        "Адреса публікації (напр., 'ftp://ftp.myisp.com/myusername'):">
+<!ENTITY siteUrl.accesskey    "А">
 <!ENTITY siteUrl.tooltip      "FTP:// або HTTP:// -адреса, вказана вашим провайдером або службою хостингу">
 <!ENTITY browseUrl.label      "HTTP-адреса вашої домашньої сторінки (напр., 'http://www.myisp.com/myusername'):">
 <!ENTITY browseUrl.tooltip    "HTTP-адреса вашого домашнього каталогу (без імені файлу)">
+<!ENTITY browseUrl.accesskey  "а">
 <!ENTITY username.label       "Ім’я користувача:">
+<!ENTITY username.accesskey   "к">
 <!ENTITY username.tooltip     "Ім’я, що ви під ним входите до вашого ISP чи служби хостингу">
 <!ENTITY password.label       "Пароль:">
+<!ENTITY password.accesskey   "П">
 <!ENTITY password.tooltip     "Пароль, пов’язаний з вашим ім’ям користувача">
 <!ENTITY savePassword.label   "Запам’ятати пароль">
-<!ENTITY savePassword.tooltip "Оберіть для безпечного збереження гасла, використовуючи Менеджер паролів">
+<!-- FIXME: check -->
+<!ENTITY savePassword.tooltip "Оберіть для безпечного збереження пароля, використовуючи Менеджер паролів">
+<!ENTITY savePassword.accesskey "п">
+
+<!-- FIXME: localize -->
+<!ENTITY otherDirList.tooltip         "Choose or enter name of remote subdirectory where files will be published">
+

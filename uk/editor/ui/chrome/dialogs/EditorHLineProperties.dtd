@@ -46,11 +46,8 @@
 <!ENTITY widthEditField.accessKey "Ш">
 <!ENTITY pixelsPopup.value "пікселів">
 <!ENTITY alignmentBox.label "Вирівнювання">
-<!ENTITY leftRadio.value "Вліво">
 <!ENTITY leftRadio.accessKey "В">
-<!ENTITY centerRadio.value "По центру">
 <!ENTITY centerRadio.accessKey "П">
-<!ENTITY rightRadio.value "Вправо">
 <!ENTITY rightRadio.accessKey "п">
 
 <!ENTITY threeDShading.label "3D-тінь">
@@ -58,3 +55,7 @@
 <!ENTITY saveSettings.label "Використовувати за умовчанням">
 <!ENTITY saveSettings.accessKey "к">
 <!ENTITY saveSettings.tooltip "Зберегти ці параметри, щоб використовувати їх при вставці нових роздільників">
+
+<!ENTITY centerRadio.label "По центру">
+<!ENTITY leftRadio.label "Вліво">
+<!ENTITY rightRadio.label "Вправо">
