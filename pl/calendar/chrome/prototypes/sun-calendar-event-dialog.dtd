@@ -261,6 +261,16 @@
 <!ENTITY repeat.units.years.both                             "lat" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "" >
 <!ENTITY event.recurrence.pattern.yearly.every.weekday.label "" >
+
+<!-- LOCALIZATON NOTE
+     Some languages use a preposition when describing dates:
+     Portuguese: 6 de Setembro
+     English: 6 [of] September
+     event.recurrence.pattern.yearly.of.label is "of" in
+     Edit recurrence window -> Recurrence pattern -> Repeat yearly
+-->
+<!ENTITY event.recurrence.pattern.yearly.of.label            "" >
+
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "stycznia" >
 <!ENTITY event.recurrence.pattern.yearly.month.2.label       "lutego" >
 <!ENTITY event.recurrence.pattern.yearly.month.3.label       "marca" >
