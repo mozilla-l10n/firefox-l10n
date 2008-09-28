@@ -22,4 +22,4 @@
 
 <!ENTITY missingPlugin.label "Klepněte zde pro stažení chybějícího zásuvného modulu.">
 <!ENTITY disabledPlugin.label "Zásuvný modul pro tento obsah byl zakázán. Klepněte zde pro správu vašich zásuvných modulů.">
-<!ENTITY blockedPlugin.label "Tento zásuvný modul je z důvodů vaší ochrany zabokován.">
+<!ENTITY blockedPlugin.label "Tento zásuvný modul je z důvodů vaší ochrany zablokován.">
