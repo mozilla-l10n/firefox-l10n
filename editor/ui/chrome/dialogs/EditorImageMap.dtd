@@ -85,11 +85,11 @@
 <!ENTITY delSpotCmd.label "Șterge zonă">
 
 <!-- Keys -->
-<!ENTITY clear.key "d">
-<!ENTITY selectall.key "a">
-<!ENTITY close.key "l">
-<!ENTITY cut.key "x">
-<!ENTITY copy.key "c">
-<!ENTITY paste.key "v">
-<!ENTITY props.key "p">
+<!ENTITY clear.key "C">
+<!ENTITY selectall.key "o">
+<!ENTITY close.key "c">
+<!ENTITY cut.key "T">
+<!ENTITY copy.key "C">
+<!ENTITY paste.key "p">
+<!ENTITY props.key "P">
 <!ENTITY tbar.key "t">
