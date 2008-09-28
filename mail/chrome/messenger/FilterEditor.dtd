@@ -8,11 +8,11 @@
 <!ENTITY normalPriorityCmd.label "Normale">
 <!ENTITY highPriorityCmd.label "Alta">
 <!ENTITY highestPriorityCmd.label "Massima">
-<!ENTITY contextDesc.label "Applica il filtro quando:">
+<!ENTITY contextDesc.label "Applica il filtro:">
 <!ENTITY contextDesc.accesskey "A">
 <!ENTITY contextIncoming.label "durante il controllo della posta">
 <!ENTITY contextManual.label "manualmente">
-<!ENTITY contextBoth.label "Durante il controllo della posta o in modalità manuale">
+<!ENTITY contextBoth.label "durante il controllo della posta o in modalità manuale">
 <!ENTITY filterActionDesc.label "Esegui queste azioni:">
 <!ENTITY filterActionDesc.accesskey "E">
 <!ENTITY newFolderButton.label "Nuova cartella…">
