@@ -1,6 +1,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Pentru a economisi spațiul pe disc, nu descărca:">
 <!ENTITY doNotDownload.label "Pentru a economisi spațiul pe disc, nu descărca pentru utilizare în mod deconectat:">
-<!ENTITY allFoldersOffline.label "Keep messages for this account on this computer">
+<!ENTITY allFoldersOffline.label "Păstrează mesajele contului pe acest calculator">
 <!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Mesaje mai mari de">
 <!ENTITY offlineNotDownload.accesskey "M">
@@ -27,5 +27,5 @@
 <!ENTITY offlineSelectNntp.accesskey "A">
 <!ENTITY offlineImapAdvancedOffline.label "Avansat...">
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
-<!ENTITY syncGroupTitle.label "Message Synchronizing">
+<!ENTITY syncGroupTitle.label "Sincronizare mesaje">
 <!ENTITY diskspaceGroupTitle.label "Spațiu pe disc">

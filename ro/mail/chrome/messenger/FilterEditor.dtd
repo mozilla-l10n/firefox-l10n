@@ -12,11 +12,11 @@
 <!ENTITY highPriorityCmd.label "Înaltă">
 <!ENTITY highestPriorityCmd.label "F. înaltă">
 
-<!ENTITY contextDesc.label "Apply filter when:">
-<!ENTITY contextDesc.accesskey "w">
-<!ENTITY contextIncoming.label "Checking Mail">
-<!ENTITY contextManual.label "Manually Run">
-<!ENTITY contextBoth.label "Checking Mail or Manually Run">
+<!ENTITY contextDesc.label "Aplică filtrul când:">
+<!ENTITY contextDesc.accesskey "A">
+<!ENTITY contextIncoming.label "Se verifică mesajele">
+<!ENTITY contextManual.label "Rulează manual">
+<!ENTITY contextBoth.label "Se verifică mailul sau se rulează manual">
 <!ENTITY filterActionDesc.label "Efectuează următoarele acțiuni:">
 <!ENTITY filterActionDesc.accesskey "E">
 

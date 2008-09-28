@@ -6,8 +6,8 @@
 <!ENTITY viewAll.accesskey "a">
 <!ENTITY viewUnread.label "Necitite">
 <!ENTITY viewUnread.accesskey "N">
-<!ENTITY viewNotDeleted.label "Not Deleted">
-<!ENTITY viewNotDeleted.accesskey "D">
+<!ENTITY viewNotDeleted.label "Nu este șters">
+<!ENTITY viewNotDeleted.accesskey "N">
 <!ENTITY viewTags.label "Etichete">
 <!ENTITY viewTags.accesskey "t">
 <!ENTITY viewCustomViews.label "Vederi personalizate">
