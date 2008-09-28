@@ -45,6 +45,7 @@
 
 <!ENTITY filterPrefs.label "Filtre :">
 <!ENTITY filterPrefs.accesskey "I">
+<!ENTITY focusFilter.key "f">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Nom de l'option">
