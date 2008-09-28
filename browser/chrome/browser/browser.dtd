@@ -243,7 +243,6 @@
 <!ENTITY fullZoomToggleCmd.accesskey "T">
 <!ENTITY fullZoom.label "缩放">
 <!ENTITY fullZoom.accesskey "Z">
-<!ENTITY newTabButton.tooltip "打开新的标签页">
 <!ENTITY newWindowButton.tooltip "打开新窗口">
 <!ENTITY sidebarCloseButton.tooltip "关闭侧栏">
 <!ENTITY cutButton.tooltip "剪切">

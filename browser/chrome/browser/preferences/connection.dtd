@@ -19,9 +19,9 @@
 <!ENTITY gopher.label "Gopher 代理：">
 <!ENTITY gopher.accesskey "G">
 <!ENTITY http.label "HTTP 代理：">
-<!ENTITY http.accesskey "H">
+<!ENTITY http.accesskey "x">
 <!ENTITY ssl.label "SSL 代理：">
-<!ENTITY ssl.accesskey "S">
+<!ENTITY ssl.accesskey "L">
 <!ENTITY socks.label "SOCKS 主机：">
 <!ENTITY socks.accesskey "C">
 <!ENTITY socks4.label "SOCKS v4">
@@ -38,4 +38,4 @@
 <!ENTITY noproxy.accesskey "n">
 <!ENTITY noproxyExplain.label "例如：.mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY shareproxy.label "为所有协议使用相同代理">
-<!ENTITY shareproxy.accesskey "x">
+<!ENTITY shareproxy.accesskey "s">

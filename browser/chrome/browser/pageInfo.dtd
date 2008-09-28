@@ -20,8 +20,8 @@
 <!ENTITY generalEncoding "编码：">
 <!ENTITY generalMetaName "名称">
 <!ENTITY generalMetaContent "内容">
-<!ENTITY generalSecurityMore "更多">
-<!ENTITY generalSecurityMore.accesskey "o">
+<!ENTITY generalSecurityDetails "详细信息">
+<!ENTITY generalSecurityDetails.accesskey "D">
 <!ENTITY mediaTab "媒体">
 <!ENTITY mediaTab.accesskey "M">
 <!ENTITY mediaLocation "地址：">

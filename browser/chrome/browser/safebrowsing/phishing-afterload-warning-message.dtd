@@ -11,7 +11,6 @@
 <!ENTITY safeb.palm.decline.statustext "关闭警告">
 <!ENTITY safeb.palm.notforgery.label2 "这不是欺诈网站…">
 <!ENTITY safeb.palm.report.label "为何要阻止此站点？">
-<!ENTITY safeb.urlbaricon.tooltip "此页面可能具有危险性；点击查看详细信息。">
 <!ENTITY safeb.blocked.malware.title "已报告的攻击站点！">
 <!ENTITY safeb.blocked.malware.shortDesc "位于 <span id='malware_sitename'/> 的站点已经被报告为攻击网站，而且已根据您的安全首选项而阻止。">
 <!ENTITY safeb.blocked.malware.longDesc "<p>攻击站点会安装用于盗窃隐私信息的程序，或使用您的计算机来攻击其他人，或者损坏您的系统。</p>
