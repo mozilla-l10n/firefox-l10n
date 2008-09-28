@@ -1,12 +1,12 @@
-<!ENTITY offlineDialog.title       "Configurações do Modo Desligado">
+<!ENTITY offlineDialog.title "Configurações do Modo Desligado">
 
-<!ENTITY textStartUp   "Ao iniciar:">
+<!ENTITY textStartUp "Ao iniciar:">
 <!ENTITY radioRememberPrevState.label "Lembrar o último estado">
 <!ENTITY radioRememberPrevState.accesskey "L">
 <!ENTITY radioAskMe.label "Perguntar-me qual o estado ao iniciar">
 <!ENTITY radioAskMe.accesskey "g">
 <!ENTITY radioAlwaysOnline.label "Iniciar Sempre Ligado">
-<!ENTITY radioAlwaysOnline.accesskey "I">
+<!ENTITY radioAlwaysOnline.accesskey "i">
 
 <!ENTITY textGoingOnline "Enviar mensagens ao ficar Ligado?">
 <!ENTITY radioAutoSend.label "Sim">
@@ -14,7 +14,7 @@
 <!ENTITY radioNotSend.label "Não">
 <!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent.label "Perguntar-me">
-<!ENTITY radioAskUnsent.accesskey "P">
+<!ENTITY radioAskUnsent.accesskey "p">
 <!ENTITY textGoingOffline "Transferir mensagens para uso quando estiver no Modo Desligado?">
 <!ENTITY radioAutoDownload.label "Sim">
 <!ENTITY radioAutoDownload.accesskey "i">

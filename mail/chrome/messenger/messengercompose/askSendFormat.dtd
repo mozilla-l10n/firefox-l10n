@@ -8,9 +8,9 @@
 <!ENTITY plainTextAndHtml.label "Enviar em Formato de Texto e HTML">
 <!ENTITY plainTextAndHtml.accesskey "a">
 <!ENTITY plainTextOnly.label "Enviar apenas em Formato de Texto">
-<!ENTITY plainTextOnly.accesskey "x">
+<!ENTITY plainTextOnly.accesskey "X">
 <!ENTITY htmlOnly.label "Enviar apenas em Formato HTML">
 <!ENTITY htmlOnly.accesskey "H">
 
 <!ENTITY send.label "Enviar">
-<!ENTITY send.accesskey "n">
+<!ENTITY send.accesskey "N">

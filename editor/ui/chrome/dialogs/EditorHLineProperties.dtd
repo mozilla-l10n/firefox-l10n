@@ -34,14 +34,14 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-
 <!-- Window title -->
+
+
 <!ENTITY windowTitle.label "Propriedades Horizontais da Linha">
 
 <!ENTITY dimensionsBox.label "Dimensões">
 <!ENTITY heightEditField.label "Altura:">
-<!ENTITY heightEditField.accessKey "l">
+<!ENTITY heightEditField.accessKey "L">
 <!ENTITY widthEditField.label "Largura:">
 <!ENTITY widthEditField.accessKey "L">
 <!ENTITY pixelsPopup.value "pixéis">

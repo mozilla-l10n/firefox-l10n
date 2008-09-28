@@ -10,28 +10,27 @@
 <!ENTITY cancel.accesskey "C">
 
 <!ENTITY noupdatesfound.title "Não foram encontradas actualizações">
-<!ENTITY  noupdatesautoenabled.intro      "Não há actualizações disponíveis. &brandShortName; vai procurar actualizações regularmente.">
-<!ENTITY  noupdatesautodisabled.intro     "Não há actualizações disponíveis. Por favor verifique mais tarde ou ligue a verificação automática de actualizações do &brandShortName;.">
+<!ENTITY noupdatesautoenabled.intro "Não há actualizações disponíveis. &brandShortName; vai procurar actualizações regularmente.">
+<!ENTITY noupdatesautodisabled.intro "Não há actualizações disponíveis. Por favor verifique mais tarde ou ligue a verificação automática de actualizações do &brandShortName;.">
 
-<!ENTITY  incompatibleChecking.label      "Verificar se esta actualização vai causar problemas com as suas extensões e/ou temas...">
+<!ENTITY incompatibleChecking.label "Verificar se esta actualização vai causar problemas com as suas extensões e/ou temas...">
 <!ENTITY clickHere.label "Ver mais informações sobre esta actualização">
 
 <!ENTITY incompatible.warning "Esta actualização fará com que algumas das suas extensões e/ou temas deixem de funcionar até serem actualizados.">
 <!ENTITY listIncompatible.label "Mostrar lista">
-<!ENTITY listIncompatible.accesskey "l">
+<!ENTITY listIncompatible.accesskey "L">
 
 <!ENTITY upgrade.evangelism "É altamente recomendado que actualize o &brandShortName; o mais depressa possível.">
 
 <!ENTITY license.instructions "Se concordar com os termos do acordo, clique Concordo (em baixo) para prosseguir com a instalação desta actualização.">
 
-<!ENTITY  license.titleText               "Acordo de licenciamento de software">
-<!ENTITY  license.introText               "Termos e condições para usar este software.">
-<!ENTITY  license.instructionText         "Por favor, leia o acordo de licenciamento seguinte. Use a barra lateral para ver o resto deste acordo.">
-<!ENTITY  license.accept                  "Aceito os termos do Acordo de Licenciamento">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "NÃO aceito os termos do Acordo de Licenciamento">
-<!ENTITY  license.decline.accesskey       "e">
-
+<!ENTITY license.titleText "Acordo de licenciamento de software">
+<!ENTITY license.introText "Termos e condições para usar este software.">
+<!ENTITY license.instructionText "Por favor, leia o acordo de licenciamento seguinte. Use a barra lateral para ver o resto deste acordo.">
+<!ENTITY license.accept "Aceito os termos do Acordo de Licenciamento">
+<!ENTITY license.accept.accesskey "c">
+<!ENTITY license.decline "NÃO aceito os termos do Acordo de Licenciamento">
+<!ENTITY license.decline.accesskey "e">
 
 <!ENTITY downloading.title "A transferir actualização">
 <!ENTITY downloading.intro "A transferir a actualização...">
@@ -42,12 +41,12 @@
 <!ENTITY pause.label "Pausar">
 <!ENTITY pause.accesskey "u">
 <!ENTITY close.label "Fechar">
-<!ENTITY close.accesskey "e">
+<!ENTITY close.accesskey "E">
 
 <!ENTITY error.label "Ocorreram problemas na verificação, transferência ou na instalação da actualização. O &brandShortName; não pode ser actualizado porque:">
-
+                                           
 <!ENTITY errorManual.label "Pode actualizar manualmente o &brandShortName; visitando esta ligação e transferindo a versão mais recente da aplicação:">
-
+                                           
 <!ENTITY errorpatching.title "A actualização falhou">
 <!ENTITY errorpatching.intro "A actualização parcial não pode ser aplicada. O &brandShortName; vai tentar novamente, transferindo o pacote de actualização completo.">
 
@@ -55,13 +54,14 @@
 <!ENTITY finished.text "A actualização foi transferida e verificada com sucesso. Deve reiniciar o &brandShortName; para que a actualização possa ser instalada.">
 
 <!ENTITY finishedBackground.title "Actualização Pronta a Instalar">
-<!ENTITY  finishedBackground.text         "O &brandShortName; transferiu e validou uma actualização importante.
-                                           Carregue na ligação abaixo para obter mais detalhes.">
-<!ENTITY  finishedBackground.name         "Actualização:">
-<!ENTITY  finishedBackground.more1        "Carregue em Recomeçar &brandShortName; Agora para instalar a actualização de imediato.">
+<!ENTITY finishedBackground.text "O &brandShortName; transferiu e validou uma actualização importante. 
+Carregue na ligação abaixo para obter mais detalhes.">
+<!ENTITY finishedBackground.name "Actualização:">
+<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
+<!ENTITY finishedBackground.more1 "Carregue em Recomeçar &brandShortName; Agora para instalar a actualização de imediato.">
 <!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!ENTITY  finishedBackground.textNotNow   "Carregue em Agora Não para fechar esta janela e continue a trabalhar. O &brandShortName;
-                                           irá instalar a actualização da próxima vez que iniciar.">
+<!ENTITY finishedBackground.textNotNow "Carregue em Agora Não para fechar esta janela e continue a trabalhar. O &brandShortName; 
+irá instalar a actualização da próxima vez que iniciar.">
 
 <!ENTITY installed.title "Actualização instalada">
 <!ENTITY installed.intro "A actualização foi instalada com sucesso.">

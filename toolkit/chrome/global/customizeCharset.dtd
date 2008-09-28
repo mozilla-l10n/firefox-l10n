@@ -45,6 +45,6 @@
 <!ENTITY add.label "Adicionar">
 <!ENTITY add.accessKey "A">
 <!ENTITY moveUp.label "Mover para cima">
-<!ENTITY moveUp.accessKey "c">
+<!ENTITY moveUp.accessKey "C">
 <!ENTITY moveDown.label "Mover para baixo">
-<!ENTITY moveDown.accessKey "b">
+<!ENTITY moveDown.accessKey "B">

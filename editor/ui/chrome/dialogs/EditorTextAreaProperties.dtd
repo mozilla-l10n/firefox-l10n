@@ -51,7 +51,7 @@
 <!ENTITY TextAreaTabIndex.label "Index do Separador:">
 <!ENTITY TextAreaTabIndex.accessKey "I">
 <!ENTITY TextAreaAccessKey.label "Chave de Acesso:">
-<!ENTITY TextAreaAccessKey.accessKey "h">
+<!ENTITY TextAreaAccessKey.accessKey "H">
 <!ENTITY InitialText.label "Texto Inicial:">
 <!ENTITY InitialText.accessKey "T">
 
@@ -63,4 +63,3 @@
 <!ENTITY WrapSoft.value "Suave">
 <!ENTITY WrapPhysical.value "Físico">
 <!ENTITY WrapVirtual.value "Virtual">
-

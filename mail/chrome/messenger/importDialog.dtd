@@ -35,45 +35,45 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-
 <!--
 LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
 Netscape Communicator, Please translate using the brandname in respective 
 languages for Netscape Communicator 4 releases.
-LOCALIZATION NOTE : Do not translate any of the occurances of the word 
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
 "&brandShortName;" below.
 -->
 
+
 <!ENTITY importDialog.windowTitle "Importar">
-<!ENTITY importDialog.allTitle    "Importar tudo">
-<!ENTITY importDialog.mailTitle   "Correio">
+<!ENTITY importDialog.allTitle "Importar tudo">
+<!ENTITY importDialog.mailTitle "Correio">
 <!ENTITY importDialog.addressbookTitle "Livros de Endereços">
 <!ENTITY importDialog.settingsTitle "Definições">
 <!ENTITY importDialog.filtersTitle "Filtros">
 
-<!ENTITY  window.width            "40em">
-<!ENTITY  window.macWidth         "45em">
+<!ENTITY window.width "40em">
+<!ENTITY window.macWidth "45em">
 
-<!ENTITY importTitle.label        "&brandShortName; Assistente de Importação do Correio">
-<!ENTITY importShortDesc.label         "Importar Correio, Livros de Endereços e Configurações de outros programas">
+<!ENTITY importTitle.label "&brandShortName; Assistente de Importação do Correio">
+<!ENTITY importShortDesc.label "Importar Correio, Livros de Endereços e Configurações de outros programas">
 
-<!ENTITY importDescription1.label  "Este assistente vai importar mensagens de correio, entradas do Livro de Endereços, e/ou personalizações de outros programas de correio e formatos de livros de endereços comuns para o Correio do &brandShortName;.">
+<!ENTITY importDescription1.label "Este assistente vai importar mensagens de correio, entradas do Livro de Endereços, e/ou personalizações de outros programas de correio e formatos de livros de endereços comuns para o Correio do &brandShortName;.">
 <!ENTITY importDescription2.label "Ao serem importadas, poderá aceder a elas a partir do Correio e/ou Livro de Endereços do &brandShortName;.">
 
-<!ENTITY selectDescription.label  "Por favor seleccione o programa do qual deseja importar:">
+<!ENTITY selectDescription.label "Por favor seleccione o programa do qual deseja importar:">
 
-<!ENTITY back.label               "&lt; Retroceder">
-<!ENTITY forward.label            "Seguinte &gt;">
-<!ENTITY finish.label             "Concluir">
-<!ENTITY cancel.label             "Cancelar">
+<!ENTITY back.label "&lt; Retroceder">
+<!ENTITY forward.label "Seguinte &gt;">
+<!ENTITY finish.label "Concluir">
+<!ENTITY cancel.label "Cancelar">
 
-<!ENTITY select.label             "Seleccione o tipo e que material a importar:">
+<!ENTITY select.label "Seleccione o tipo e que material a importar:">
 
-<!ENTITY title.label              "Título">
-<!ENTITY processing.label         "A importar...">
+<!ENTITY title.label "Título">
+<!ENTITY processing.label "A importar...">
 
-<!ENTITY FieldDiscInputText1.label  "O Netscape Communicator 4.x tem um endereço de correio para cada cartão, enquanto que o &brandShortName; tem dois (Casa e Trabalho).">
-<!ENTITY FieldDiscInputText2.label  "Seleccione a categoria na qual você quer guardar os endereços de correio guardados:">
-<!ENTITY FieldDiscWarning.label  "Esta categoria será usada para todas as entradas seleccionadas no Livro de Endereços: ">
-<!ENTITY importDialog.homeTitle  "Casa">
-<!ENTITY importDialog.workTitle  "Trabalho">
+<!ENTITY FieldDiscInputText1.label "O Netscape Communicator 4.x tem um endereço de correio para cada cartão, enquanto que o &brandShortName; tem dois (Casa e Trabalho).">
+<!ENTITY FieldDiscInputText2.label "Seleccione a categoria na qual você quer guardar os endereços de correio guardados:">
+<!ENTITY FieldDiscWarning.label "Esta categoria será usada para todas as entradas seleccionadas no Livro de Endereços: ">
+<!ENTITY importDialog.homeTitle "Casa">
+<!ENTITY importDialog.workTitle "Trabalho">

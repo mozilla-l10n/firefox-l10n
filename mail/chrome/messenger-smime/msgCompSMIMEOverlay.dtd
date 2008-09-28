@@ -13,7 +13,7 @@
 <!ENTITY menu_securityNoEncryption.accesskey "N">
 
 <!ENTITY menu_securitySign.label "Assinar Digitalmente esta Mensagem">
-<!ENTITY menu_securitySign.accesskey "s">
+<!ENTITY menu_securitySign.accesskey "S">
 
 <!ENTITY menu_securityStatus.label "Ver Informação sobra a Segurança">
 <!ENTITY menu_securityStatus.accesskey "I">
@@ -22,4 +22,4 @@
 <!ENTITY securityButton.tooltip "Ver ou Alterar as configurações de segurança">
 
 <!ENTITY menu_viewSecurityStatus.label "Mensagem de Informação sobre a Segurança">
-<!ENTITY menu_viewSecurityStatus.accesskey "n">
+<!ENTITY menu_viewSecurityStatus.accesskey "N">

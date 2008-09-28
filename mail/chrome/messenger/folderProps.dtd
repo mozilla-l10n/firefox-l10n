@@ -38,62 +38,62 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY folderProps.windowtitle.label           "Propriedades">
+<!ENTITY folderProps.windowtitle.label "Propriedades">
 
-<!ENTITY generalInfo.label                       "Informação Geral">
-<!ENTITY folderCharsetTab.label                  "Codificação Pré-Definida:">
-<!ENTITY folderCharsetTab.accesskey              "E">
-<!ENTITY folderCharsetOverride.label             "Aplicar pré-definições a todas as mensagens na pasta (as configurações de codificação de caracteres de mensagens e auto-detecção será ignorada)">
-<!ENTITY folderCharsetOverride.accesskey         "A">
-<!ENTITY folderRebuildSummaryFile.label          "Reconstruir Índice">
-<!ENTITY folderRebuildSummaryFile.accesskey      "R">
-<!ENTITY folderRebuildSummaryFileTip.label       "Reconstruir Sumário do Ficheiro">      
-
+<!ENTITY generalInfo.label "Informação Geral">
+<!ENTITY folderCharsetTab.label "Codificação Pré-Definida:">
+<!ENTITY folderCharsetTab.accesskey "E">
+<!ENTITY folderCharsetOverride.label "Aplicar pré-definições a todas as mensagens na pasta (as configurações de codificação de caracteres de mensagens e auto-detecção será ignorada)">
+<!ENTITY folderCharsetOverride.accesskey "A">
+<!ENTITY folderRebuildSummaryFile.label "Reconstruir Índice">
+<!ENTITY folderRebuildSummaryFile.accesskey "R">
+<!ENTITY folderRebuildSummaryFileTip.label "Reconstruir Sumário do Ficheiro">
+     
 <!ENTITY retention.label "Política de Retenção">
-<!ENTITY retentionUseDefault.label  "Usar pré-definições do servidor">
+<!ENTITY retentionUseDefault.label "Usar pré-definições do servidor">
 <!ENTITY retentionUseDefault.accesskey "d">
 <!ENTITY days.label "dias">
 <!ENTITY daysOld.label "dias de idade">
 <!ENTITY message.label "mensagens">
 <!ENTITY retentionCleanup.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente eliminadas">
-<!ENTITY retentionKeepMsg.label "Apagar mensagens com mais de">
-<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionDeleteMsg.label "Delete messages more than">
+<!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Não apagar nenhuma mensagem">
-<!ENTITY retentionKeepAll.accesskey "g">
+<!ENTITY retentionKeepAll.accesskey "G">
 <!ENTITY retentionKeepNew.label "Apagar todas menos as últimas">
 <!ENTITY retentionKeepNew.accesskey "l">
 <!ENTITY retentionKeepUnread.label "Apagar sempre todas as mensagens lidas">
-<!ENTITY retentionKeepUnread.accesskey "A">
+<!ENTITY retentionKeepUnread.accesskey "a">
 
-<!ENTITY folderOfflineTab.label                  "Modo Desligado">
-<!ENTITY folderCheckForNewMessages.label         "Procurar novas mensagens nesta pasta">
-<!ENTITY folderCheckForNewMessages.accesskey     "n">
+<!ENTITY folderOfflineTab.label "Modo Desligado">
+<!ENTITY folderCheckForNewMessages.label "Procurar novas mensagens nesta pasta">
+<!ENTITY folderCheckForNewMessages.accesskey "N">
 
-<!ENTITY offlineFolder.check.label               "Seleccionar esta pasta para uso em modo desligado">
-<!ENTITY offlineFolder.check.accesskey           "S">
-<!ENTITY offlineFolder.button.label              "Transferir Agora">
-<!ENTITY offlineFolder.button.accesskey          "T">
+<!ENTITY offlineFolder.check.label "Seleccionar esta pasta para uso em modo desligado">
+<!ENTITY offlineFolder.check.accesskey "S">
+<!ENTITY offlineFolder.button.label "Transferir Agora">
+<!ENTITY offlineFolder.button.accesskey "T">
 
-<!ENTITY selectofflineNewsgroup.check.label      "Seleccionar este grupo de discussão para uso em modo desligado">
-<!ENTITY selectofflineNewsgroup.check.accesskey  "o">
-<!ENTITY UseDefaultofflineNewsgroup.check.label  "Usar pré-definição a partir das configurações de conta ">
-<!ENTITY offlineNewsgroup.button.label           "Transferir Agora">
-<!ENTITY offlineNewsgroup.button.accesskey       "T">
+<!ENTITY selectofflineNewsgroup.check.label "Seleccionar este grupo de discussão para uso em modo desligado">
+<!ENTITY selectofflineNewsgroup.check.accesskey "o">
+<!ENTITY UseDefaultofflineNewsgroup.check.label "Usar pré-definição a partir das configurações de conta ">
+<!ENTITY offlineNewsgroup.button.label "Transferir Agora">
+<!ENTITY offlineNewsgroup.button.accesskey "T">
 
-<!ENTITY folderProps.information.label           "Informação:">
-<!ENTITY folderProps.name.label                  "Nome:">
-<!ENTITY folderProps.name.accesskey              "N">
-<!ENTITY folderProps.location.label              "Localização:">
-<!ENTITY folderProps.location.accesskey          "L">
+<!ENTITY folderProps.information.label "Informação:">
+<!ENTITY folderProps.name.label "Nome:">
+<!ENTITY folderProps.name.accesskey "N">
+<!ENTITY folderProps.location.label "Localização:">
+<!ENTITY folderProps.location.accesskey "L">
 
-<!ENTITY folderSharingTab.label                  "Partilhar">
-<!ENTITY privilegesDesc.label                    "Partilhar esta ou outra Pasta com utilizadores da rede e mostrar e configurar os privilégios de acesso">
-<!ENTITY privileges.button.label                 "Privilégios...">
-<!ENTITY privileges.button.accesskey             "P">
-<!ENTITY permissionsDesc.label                   "Tem as Seguintes permissões:">
-<!ENTITY folderType.label                        "Tipo de Pasta:">
+<!ENTITY folderSharingTab.label "Partilhar">
+<!ENTITY privilegesDesc.label "Partilhar esta ou outra Pasta com utilizadores da rede e mostrar e configurar os privilégios de acesso">
+<!ENTITY privileges.button.label "Privilégios...">
+<!ENTITY privileges.button.accesskey "P">
+<!ENTITY permissionsDesc.label "Tem as Seguintes permissões:">
+<!ENTITY folderType.label "Tipo de Pasta:">
 
-<!ENTITY folderQuotaTab.label                    "Quota">
-<!ENTITY folderQuotaRoot.label                   "Quota Base:">
-<!ENTITY folderQuotaUsage.label                  "Em Uso:">
-<!ENTITY folderQuotaStatus.label                 "Estado:">
+<!ENTITY folderQuotaTab.label "Quota">
+<!ENTITY folderQuotaRoot.label "Quota Base:">
+<!ENTITY folderQuotaUsage.label "Em Uso:">
+<!ENTITY folderQuotaStatus.label "Estado:">

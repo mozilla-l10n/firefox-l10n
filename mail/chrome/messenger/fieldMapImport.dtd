@@ -51,5 +51,3 @@
 <!ENTITY fieldMapImport.dataTitle "Dados do registo a importar">
 <!ENTITY fieldMapImport.skipFirstRecord.label "O primeiro registo contém o campo dos nomes">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "O">
-
-

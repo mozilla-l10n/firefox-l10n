@@ -13,7 +13,7 @@
 <!ENTITY serverName.label "Nome do Servidor:">
 <!ENTITY serverName.accesskey "S">
 <!ENTITY userName.label "Nome de Utilizador:">
-<!ENTITY userName.accesskey "e">
+<!ENTITY userName.accesskey "E">
 <!ENTITY port.label "Porta:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Pré-Definido:">
@@ -42,7 +42,7 @@
 <!ENTITY leaveOnServer.label "Deixar mensagens no servidor">
 <!ENTITY leaveOnServer.accesskey "v">
 <!ENTITY headersOnly.label "Apenas Cabeçalhos Fetch">
-<!ENTITY headersOnly.accesskey "F">
+<!ENTITY headersOnly.accesskey "f">
 <!ENTITY deleteByAgeFromServer.label "Pelo menos">
 <!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "dias">
@@ -66,14 +66,14 @@
 <!ENTITY expungeOnExit.accesskey "E">
 <!ENTITY emptyTrashOnExit.label "Esvaziar Lixo ao Sair">
 <!ENTITY emptyTrashOnExit.accesskey "x">
-<!ENTITY loginAtStartup.label "Verificar por novas mensagens ao Arranque"> 
-<!ENTITY loginAtStartup.accesskey "q">
-<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+<!ENTITY loginAtStartup.label "Verificar por novas mensagens ao Arranque">
+<!ENTITY loginAtStartup.accesskey "Q">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
- of messages between them
+   of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Perguntar-me antes de transferir mais do que">
-<!ENTITY maxMessagesStart.accesskey "P">
+<!ENTITY maxMessagesStart.accesskey "p">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "mensagens">
 <!ENTITY alwaysAuthenticate.label "pedir sempre autenticação ao ligar a este servidor">
@@ -84,7 +84,7 @@
 <!ENTITY abbreviateOn.label "Nomes Completos (Por exemplo, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Abrevie nomes (Por exemplo, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Avançadas...">
-<!ENTITY advancedButton.accesskey "A">
+<!ENTITY advancedButton.accesskey "a">
 <!ENTITY serverDefaultCharset.label "Codificação Pré-definida:">
 <!ENTITY localFolderPicker.label "Seleccione Pasta Local">
 <!ENTITY browseFolder.label "Navegar...">

@@ -45,8 +45,8 @@
 <!ENTITY openWith.accesskey "o">
 <!ENTITY other.label "Outro...">
 
-<!ENTITY  saveFile.label              "Gravar Ficheiro">
-<!ENTITY  saveFile.accesskey          "G">
+<!ENTITY saveFile.label "Gravar Ficheiro">
+<!ENTITY saveFile.accesskey "g">
 
 <!ENTITY rememberChoice.label "Fazer isto automaticamente para ficheiros deste tipo de agora em diante.">
 <!ENTITY rememberChoice.accesskey "a">
@@ -58,4 +58,4 @@
 <!ENTITY chooseHandler.label "Navegar...">
 <!ENTITY chooseHandler.accesskey "N">
 
-<!ENTITY  unknownPromptText.label     "Quer guardar este ficheiro?">
+<!ENTITY unknownPromptText.label "Quer guardar este ficheiro?">

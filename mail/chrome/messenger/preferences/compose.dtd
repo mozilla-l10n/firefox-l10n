@@ -1,65 +1,64 @@
-<!ENTITY itemGeneral.label                   "Geral">
-<!ENTITY itemAutoComplete.label              "Endereçamento">
-<!ENTITY itemSpellCheck.label                "Ortografia">
-<!ENTITY itemSendFormat.label                "Formato a Enviar">
+<!ENTITY itemGeneral.label "Geral">
+<!ENTITY itemAutoComplete.label "Endereçamento">
+<!ENTITY itemSpellCheck.label "Ortografia">
+<!ENTITY itemSendFormat.label "Formato a Enviar">
 
-<!ENTITY forwardReply.label                   "Reencaminhar mensagens">
-<!ENTITY forwardMsg.label                     "Reencaminhar:">
-<!ENTITY forwardMsg.accesskey                 "R">
-<!ENTITY inline.label                         "Em linha">
-<!ENTITY inline.accesskey                     "l">
-<!ENTITY asAttachment.label                   "Como anexo">
-<!ENTITY asAttachment.accesskey               "x">
-<!ENTITY addExtension.label                   "adicionar extensão ao nome do ficheiro">
-<!ENTITY addExtension.accesskey               "f">
+<!ENTITY forwardReply.label "Reencaminhar mensagens">
+<!ENTITY forwardMsg.label "Reencaminhar:">
+<!ENTITY forwardMsg.accesskey "r">
+<!ENTITY inline.label "Em linha">
+<!ENTITY inline.accesskey "L">
+<!ENTITY asAttachment.label "Como anexo">
+<!ENTITY asAttachment.accesskey "X">
+<!ENTITY addExtension.label "adicionar extensão ao nome do ficheiro">
+<!ENTITY addExtension.accesskey "f">
 
-<!ENTITY htmlComposeHeader.label              "HTML">
-<!ENTITY font.label                           "Fonte:">
-<!ENTITY font.accesskey                       "F">
-<!ENTITY size.label                           "Tamanho:">
-<!ENTITY size.accesskey                       "T">
-<!ENTITY fontColor.label                      "Cor do texto:">
-<!ENTITY fontColor.accesskey                  "x">
-<!ENTITY bgColor.label                        "Cor de Fundo:">
-<!ENTITY bgColor.accesskey                    "u">
-<!ENTITY restoreHTMLDefaults.label            "Restaurar pré-definição">
-<!ENTITY restoreHTMLDefaults.accesskey        "R">
+<!ENTITY htmlComposeHeader.label "HTML">
+<!ENTITY font.label "Fonte:">
+<!ENTITY font.accesskey "f">
+<!ENTITY size.label "Tamanho:">
+<!ENTITY size.accesskey "t">
+<!ENTITY fontColor.label "Cor do texto:">
+<!ENTITY fontColor.accesskey "x">
+<!ENTITY bgColor.label "Cor de Fundo:">
+<!ENTITY bgColor.accesskey "U">
+<!ENTITY restoreHTMLDefaults.label "Restaurar pré-definição">
+<!ENTITY restoreHTMLDefaults.accesskey "R">
 
-<!ENTITY sendingMessagesHeader.label          "Compor Mensagens">
-<!ENTITY spellCheck.label                     "Verificar ortografia antes de enviar">
-<!ENTITY spellCheck.accesskey                 "V">
-<!ENTITY spellCheckInline.label               "Verificar ortografia ao escrever">
-<!ENTITY spellCheckInline1.accesskey           "V">
-<!ENTITY languagePopup.label                  "Idioma:">
-<!ENTITY languagePopup.accessKey              "I">
-<!ENTITY downloadDictionaries.label           "Transferir mais Dicionários">
+<!ENTITY sendingMessagesHeader.label "Compor Mensagens">
+<!ENTITY spellCheck.label "Verificar ortografia antes de enviar">
+<!ENTITY spellCheck.accesskey "V">
+<!ENTITY spellCheckInline.label "Verificar ortografia ao escrever">
+<!ENTITY spellCheckInline1.accesskey "V">
+<!ENTITY languagePopup.label "Idioma:">
+<!ENTITY languagePopup.accessKey "i">
+<!ENTITY downloadDictionaries.label "Transferir mais Dicionários">
 
-<!ENTITY useMIME.label                        "para mensagens que contêm letras de 8-bit, usar codificação MIME">
-<!ENTITY useMIME.accesskey                    "s">
-<!ENTITY warnOnSendAccelKey.label             "Confirmar quando usar atalhos do teclado para enviar mensagem">
-<!ENTITY warnOnSendAccelKey.accesskey         "i">
-<!ENTITY autoSave.label                       "Guardar Automaticamente a cada">
-<!ENTITY autoSave.accesskey                   "a">
-<!ENTITY autoSaveEnd.label                    "minutos">
+<!ENTITY warnOnSendAccelKey.label "Confirmar quando usar atalhos do teclado para enviar mensagem">
+<!ENTITY warnOnSendAccelKey.accesskey "i">
+<!ENTITY autoSave.label "Guardar Automaticamente a cada">
+<!ENTITY autoSave.accesskey "a">
+<!ENTITY autoSaveEnd.label "minutos">
 <!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
-<!ENTITY wrapOutMsg.label                     "Limitar mensagens de texto a">
-<!ENTITY wrapOutMsg.accesskey                 "t">
-<!ENTITY char.label                           "caracteres">
+<!ENTITY wrapOutMsg.label "Limitar mensagens de texto a">
+<!ENTITY wrapOutMsg.accesskey "t">
+<!ENTITY char.label "caracteres">
 
-<!ENTITY emailCollectionPicker.label           "Ao enviar adicionar automaticamente endereços ao:">
-<!ENTITY emailCollectionPicker.accesskey       "t">
-<!ENTITY addressingTitle.label                 "Completar Endereços Automaticamente">
-<!ENTITY autocompleteText.label                "Ao endereçar mensagens, verificar por equivalências no:">
-<!ENTITY addressingEnable.label                "Livro de Endereços Local">
-<!ENTITY addressingEnable.accesskey            "L">
-<!ENTITY directories.label                     "Servidor de Directoria:">
-<!ENTITY directories.accesskey                 "D">
-<!ENTITY editDirectories.label                 "Editar Directorias...">
-<!ENTITY editDirectories.accesskey             "E">
-<!ENTITY matchText.label                       "Se existir uma correspondência no Livro de Endereços Local:">
-<!ENTITY skipDirectory.label                   "Não pesquisar nesta Directoria">
+<!ENTITY emailCollectionPicker.label "Ao enviar adicionar automaticamente endereços ao:">
+<!ENTITY emailCollectionPicker.accesskey "t">
+<!ENTITY addressingTitle.label "Completar Endereços Automaticamente">
+<!ENTITY autocompleteText.label "Ao endereçar mensagens, verificar por equivalências no:">
+<!ENTITY addressingEnable.label "Livro de Endereços Local">
+<!ENTITY addressingEnable.accesskey "L">
+<!ENTITY directories.label "Servidor de Directoria:">
+<!ENTITY directories.accesskey "D">
+<!ENTITY directoriesNone.label "None">
+<!ENTITY editDirectories.label "Editar Directorias...">
+<!ENTITY editDirectories.accesskey "E">
+<!ENTITY matchText.label "Se existir uma correspondência no Livro de Endereços Local:">
+<!ENTITY skipDirectory.label "Não pesquisar nesta Directoria">
 
-<!ENTITY sendOptionsCaption.label              "Enviar e opções HTML">
-<!ENTITY sendOptionsDescription.label          "Configurar o comportamento do formato de texto.">
-<!ENTITY sendOptions.label                     "Opções de Envio...">
-<!ENTITY sendOptions.accesskey                 "E">
+<!ENTITY sendOptionsCaption.label "Enviar e opções HTML">
+<!ENTITY sendOptionsDescription.label "Configurar o comportamento do formato de texto.">
+<!ENTITY sendOptions.label "Opções de Envio...">
+<!ENTITY sendOptions.accesskey "E">

@@ -34,38 +34,38 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.toolbars.title    "Barras de Ferramentas">
+<!ENTITY pref.toolbars.title "Barras de Ferramentas">
 
-<!ENTITY composition.caption    "Mostrar estes botões na Barra de Ferramentas Compor:">
+<!ENTITY composition.caption "Mostrar estes botões na Barra de Ferramentas Compor:">
 
-<!ENTITY new.label              "Nova">
-<!ENTITY open.label             "Abrir">
-<!ENTITY save.label             "Guardar">
-<!ENTITY publish.label          "Publicar">
-<!ENTITY preview.label          "Pré-Visualizar">
-<!ENTITY cut.label              "Cortar">
-<!ENTITY copy.label             "Copiar">
-<!ENTITY paste.label            "Colar">
-<!ENTITY print.label            "Imprimir">
-<!ENTITY find.label             "Procurar">
-<!ENTITY image.label            "Imagem">
-<!ENTITY hline.label            "H. Line">
-<!ENTITY table.label            "Tabela">
-<!ENTITY link.label             "Ligação">
-<!ENTITY anchor.label           "Âncora">
+<!ENTITY new.label "Nova">
+<!ENTITY open.label "Abrir">
+<!ENTITY save.label "Guardar">
+<!ENTITY publish.label "Publicar">
+<!ENTITY preview.label "Pré-Visualizar">
+<!ENTITY cut.label "Cortar">
+<!ENTITY copy.label "Copiar">
+<!ENTITY paste.label "Colar">
+<!ENTITY print.label "Imprimir">
+<!ENTITY find.label "Procurar">
+<!ENTITY image.label "Imagem">
+<!ENTITY hline.label "H. Line">
+<!ENTITY table.label "Tabela">
+<!ENTITY link.label "Ligação">
+<!ENTITY anchor.label "Âncora">
 
-<!ENTITY formatting.caption     "Mostrar botões na Barra de Ferramentas Formatar:">
+<!ENTITY formatting.caption "Mostrar botões na Barra de Ferramentas Formatar:">
 
-<!ENTITY smaller.label          "Menor">
-<!ENTITY larger.label           "Maior">
-<!ENTITY bold.label             "Negrito">
-<!ENTITY bullets.label          "Bullets">
-<!ENTITY numbers.label          "Números">
-<!ENTITY italic.label           "Itálico">
-<!ENTITY outdent.label          "Outdent">
-<!ENTITY indent.label           "Indent">
-<!ENTITY underline.label        "Sublinhado">
+<!ENTITY smaller.label "Menor">
+<!ENTITY larger.label "Maior">
+<!ENTITY bold.label "Negrito">
+<!ENTITY bullets.label "Bullets">
+<!ENTITY numbers.label "Números">
+<!ENTITY italic.label "Itálico">
+<!ENTITY outdent.label "Outdent">
+<!ENTITY indent.label "Indent">
+<!ENTITY underline.label "Sublinhado">
 
 <!ENTITY absolutePosition.label "Posicionamento absoluto">
-<!ENTITY decreaseZIndex.label   "Enviar para Trás">
-<!ENTITY increaseZIndex.label   "Enviar para Frente">
+<!ENTITY decreaseZIndex.label "Enviar para Trás">
+<!ENTITY increaseZIndex.label "Enviar para Frente">

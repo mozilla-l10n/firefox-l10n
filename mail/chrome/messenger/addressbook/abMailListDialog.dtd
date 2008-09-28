@@ -35,24 +35,24 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-
 <!-- Title -->
-<!ENTITY mailListWindow.title           "Mailing List">
+
+<!ENTITY mailListWindow.title "Mailing List">
 <!-- Labels -->
-<!ENTITY addToAddressBook.label         "Adicionar a: ">
+<!ENTITY addToAddressBook.label "Adicionar a: ">
 
-<!ENTITY ListName.label                 "Listar Nome: ">
-<!ENTITY ListNickName.label             "Listar Alcunha: ">
-<!ENTITY ListDescription.label          "Descrição: ">
+<!ENTITY ListName.label "Listar Nome: ">
+<!ENTITY ListNickName.label "Listar Alcunha: ">
+<!ENTITY ListDescription.label "Descrição: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Escreva os endereços de correio electrónico para os adicionar à mailing list:">
-<!ENTITY RemoveButton.label             "Remover">
-<!ENTITY UpButton.label                 "Mover para Cima">
-<!ENTITY DownButton.label               "Mover para Baixo">
-
+<!ENTITY AddressTitle.label "Escreva os endereços de correio electrónico para os adicionar à mailing list:">
+<!ENTITY RemoveButton.label "Remover">
+<!ENTITY UpButton.label "Mover para Cima">
+<!ENTITY DownButton.label "Mover para Baixo">
 <!-- Access Keys -->
-<!ENTITY addToAddressBook.accesskey     "A">
-<!ENTITY ListName.accesskey             "L">
-<!ENTITY ListNickName.accesskey         "l">
-<!ENTITY ListDescription.accesskey      "e">
+
+<!ENTITY addToAddressBook.accesskey "A">
+<!ENTITY ListName.accesskey "L">
+<!ENTITY ListNickName.accesskey "L">
+<!ENTITY ListDescription.accesskey "e">
 

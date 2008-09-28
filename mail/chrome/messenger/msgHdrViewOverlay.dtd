@@ -35,46 +35,59 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField.label "Para: ">
-<!ENTITY fromField.label "De: ">
-<!ENTITY senderField.label "Remetente: ">
-<!ENTITY organizationField.label "Organização: ">
-<!ENTITY replyToField.label "Responder-Para: ">
+<!ENTITY toField2.label "to ">
+<!ENTITY fromField2.label "from ">
+<!ENTITY senderField2.label "sender ">
+<!ENTITY organizationField2.label "organization ">
+<!ENTITY replyToField2.label "reply-to ">
 
-<!ENTITY subjectField.label "Assunto: ">
-<!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField.label "Cc: ">
-<!ENTITY bccField.label "Bcc: ">
-<!ENTITY newsgroupsField.label "Grupos de discussão: ">
-<!ENTITY followupToField.label "Reencaminhar para: ">
-<!ENTITY tagsHdr.label "Etiquetas: ">
-<!ENTITY dateField.label "Data: ">
-<!ENTITY userAgentField.label "User-Agent: ">
-<!ENTITY referencesField.label "Referências: ">
-<!ENTITY messageIdField.label "Message-ID: ">
-<!ENTITY inReplyToField.label "Em-Resposta-Para: ">
-<!ENTITY originalWebsite.label "Sítio web: ">
+<!ENTITY subjectField2.label "subject ">
+<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
+<!ENTITY ccField2.label "cc ">
+<!ENTITY bccField2.label "bcc ">
+<!ENTITY newsgroupsField2.label "newsgroups ">
+<!ENTITY followupToField2.label "followup-to ">
+<!ENTITY tagsHdr2.label "tags ">
+<!ENTITY dateField2.label "date ">
+<!ENTITY userAgentField2.label "user-agent ">
+<!ENTITY referencesField2.label "references ">
+<!ENTITY messageIdField2.label "message-id ">
+<!ENTITY inReplyToField2.label "in-reply-to ">
+<!ENTITY originalWebsite2.label "website ">
 <!ENTITY saveAll.label "Guardar tudo..">
 
-<!ENTITY editMessage.label "Editar Rascunho...">
+<!ENTITY editMessageDescription.label "This is a draft message">
+<!ENTITY editMessageButton.label "Edit…">
+<!ENTITY replyButton.label "reply…">
+<!ENTITY forwardButton.label "forward…">
+<!ENTITY junkButton.label "mark as junk">
+<!ENTITY trashButton.tooltiptext "delete">
 
-<!ENTITY openAttachmentCmd.label    "Abrir">  
-<!ENTITY openAttachmentCmd.accesskey		"A">  
-<!ENTITY saveAsAttachmentCmd.label    "Guardar como...">  
-<!ENTITY saveAsAttachmentCmd.accesskey		"G"> 
-<!ENTITY detachAttachmentCmd.label    "Separar…">
-<!ENTITY deleteAttachmentCmd.label    "Eliminar">
-<!ENTITY saveAllAttachmentsCmd.label    "Guardar Tudo...">  
-<!ENTITY saveAllAttachmentsCmd.accesskey		"u">  
-<!ENTITY detachAllAttachmentsCmd.label    "Separar todos...">  
-<!ENTITY detachAllAttachmentsCmd.accesskey    "e">  
-<!ENTITY deleteAllAttachmentsCmd.label    "Eliminar Tudo...">  
-<!ENTITY deleteAllAttachmentsCmd.accesskey    "l">  
+<!ENTITY otherActionsButton.label "other actions">
+<!ENTITY saveAsMenuItem.label "save as…">
+<!ENTITY saveAsMenuItem.accesskey "S">
+<!ENTITY viewSourceMenuItem.label "view source…">
+<!ENTITY viewSourceMenuItem.accesskey "V">
 
-<!ENTITY copyLinkCmd.label        "Copiar ligação">  
-<!ENTITY copyLinkCmd.accesskey		"p">   
+<!ENTITY hideDetailsButton.label "hide details">
+<!ENTITY showDetailsButton.label "show details">
+
+<!ENTITY openAttachmentCmd.label "Abrir">
+<!ENTITY openAttachmentCmd.accesskey "A">
+<!ENTITY saveAsAttachmentCmd.label "Guardar como...">
+<!ENTITY saveAsAttachmentCmd.accesskey "G">
+<!ENTITY detachAttachmentCmd.label "Separar…">
+<!ENTITY deleteAttachmentCmd.label "Eliminar">
+<!ENTITY saveAllAttachmentsCmd.label "Guardar Tudo...">
+<!ENTITY saveAllAttachmentsCmd.accesskey "U">
+<!ENTITY detachAllAttachmentsCmd.label "Separar todos...">
+<!ENTITY detachAllAttachmentsCmd.accesskey "E">
+<!ENTITY deleteAllAttachmentsCmd.label "Eliminar Tudo...">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "L">
+
+<!ENTITY copyLinkCmd.label "Copiar ligação">
+<!ENTITY copyLinkCmd.accesskey "P">
 
 <!ENTITY CopyMessageId.label "Copiar Message-ID">
 <!ENTITY OpenMessageForMsgId.label "Abrir Mensagem Para ID">
 <!ENTITY OpenBrowserWithMsgId.label "Abrir Navegador Com Message-ID">
-

@@ -7,7 +7,7 @@
 <!ENTITY profileCreationExplanation_3.text "Se é apenas um utilizador a usar esta cópia do &brandShortName;, deve ter pelo menos um perfil. Se desejar, poderá criar múltiplos perfis para si próprio para guardar diferentes conjuntos de definições e preferências. Por exemplo, pode querer ter perfis separados para utilização profissional e pessoal.">
 <!ENTITY profileCreationExplanation_4.text "Para começar com a criação do seu perfil, pressione Seguinte.">
 <!ENTITY profileCreationExplanation_4Mac.text "Para começar a criar o seu perfil, pressione Continuar.">
-<!ENTITY profileCreationExplanation_4Gnome.text  "Para começar a criar o seu perfil, carregue em Seguinte.">
+<!ENTITY profileCreationExplanation_4Gnome.text "Para começar a criar o seu perfil, carregue em Seguinte.">
 <!-- Second wizard page -->
 
 <!ENTITY profileCreationIntro.text "Se já criou vários perfis poderá diferenciá-los pelos seus nomes. Poderá utilizar o nome fornecido automaticamente ou utilizar um à sua escolha.">

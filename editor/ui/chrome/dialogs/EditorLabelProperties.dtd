@@ -44,7 +44,7 @@
 <!ENTITY LabelFor.label "Para o Controlo:">
 <!ENTITY LabelFor.accesskey "P">
 <!ENTITY AccessKey.label "Chave de Acesso:">
-<!ENTITY AccessKey.accesskey "h">
+<!ENTITY AccessKey.accesskey "H">
 
 <!ENTITY RemoveLabel.label "Remover Etiqueta">
 <!ENTITY RemoveLabel.accesskey "R">

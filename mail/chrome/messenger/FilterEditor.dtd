@@ -1,7 +1,7 @@
 <!ENTITY window.title "Regras dos Filtros">
 
 <!ENTITY filterName.label "Nome do Filtro:">
-<!ENTITY filterName.accesskey "N">
+<!ENTITY filterName.accesskey "n">
 
 <!ENTITY junk.label "Lixo Electrónico">
 <!ENTITY notJunk.label "Não é Lixo Electrónico">
@@ -12,14 +12,18 @@
 <!ENTITY highPriorityCmd.label "Alta">
 <!ENTITY highestPriorityCmd.label "Muito Alta">
 
-<!ENTITY conditionDesc.label "Para mensagens que cheguem:">
+<!ENTITY contextDesc.label "Apply filter when:">
+<!ENTITY contextDesc.accesskey "w">
+<!ENTITY contextIncoming.label "Checking Mail">
+<!ENTITY contextManual.label "Manually Run">
+<!ENTITY contextBoth.label "Checking Mail or Manually Run">
 <!ENTITY filterActionDesc.label "Efectuar estas acções:">
-<!ENTITY filterActionDesc.accesskey "f">
+<!ENTITY filterActionDesc.accesskey "F">
 
 <!ENTITY newFolderButton.label "Nova pasta...">
-<!ENTITY newFolderButton.accesskey "o">
-
+<!ENTITY newFolderButton.accesskey "O">
 <!-- New Style Filter Rule Actions -->
+
 <!ENTITY moveMessage.label "Mover Mensagem para">
 <!ENTITY copyMessage.label "Copiar Mensagem para">
 <!ENTITY forwardTo.label "Reencaminhar Mensagem para">
@@ -36,4 +40,3 @@
 <!ENTITY ignoreSubthread.label "Ignorar Sub-tópico">
 <!ENTITY watchThread.label "Ver Tópico">
 <!ENTITY stopExecution.label "Parar Execução do Filtro">
-

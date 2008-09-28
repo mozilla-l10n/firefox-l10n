@@ -34,16 +34,16 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-
 <!-- Labels -->
-<!ENTITY subscribechoosethis.label			"Escolher este servidor de notícias">
-<!ENTITY subscribeclickhere.label			"Clique aqui para escolher o servidor de notícias">
-<!ENTITY newfolderchoosethis.label			"Escolha isto para o parent">
-<!ENTITY newfolderclickhere.label			"Clique aqui para seleccionar">
-<!ENTITY renamefolderchoosethis.label			"Escolher esta pasta">
-<!ENTITY renamefolderclickhere.label			"Clique aqui para escolher uma pasta">
-<!ENTITY filemessageschoosethis.label			"Escolher esta pasta">
-<!ENTITY filemessagesclickhere.label			"Clique aqui para escolher uma pasta">
-<!ENTITY chooseaccountclickhere.label			"Clique aqui para seleccionar uma conta">
-<!ENTITY choosefolderclickhere.label			"Clique aqui para seleccionar uma pasta">
-<!ENTITY chooseserverToDeferTo.label      "Clique aqui para seleccionar uma conta para guardar mensagens">
+
+<!ENTITY subscribechoosethis.label "Escolher este servidor de notícias">
+<!ENTITY subscribeclickhere.label "Clique aqui para escolher o servidor de notícias">
+<!ENTITY newfolderchoosethis.label "Escolha isto para o parent">
+<!ENTITY newfolderclickhere.label "Clique aqui para seleccionar">
+<!ENTITY renamefolderchoosethis.label "Escolher esta pasta">
+<!ENTITY renamefolderclickhere.label "Clique aqui para escolher uma pasta">
+<!ENTITY filemessageschoosethis.label "Escolher esta pasta">
+<!ENTITY filemessagesclickhere.label "Clique aqui para escolher uma pasta">
+<!ENTITY chooseaccountclickhere.label "Clique aqui para seleccionar uma conta">
+<!ENTITY choosefolderclickhere.label "Clique aqui para seleccionar uma pasta">
+<!ENTITY chooseserverToDeferTo.label "Clique aqui para seleccionar uma conta para guardar mensagens">

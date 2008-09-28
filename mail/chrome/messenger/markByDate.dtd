@@ -38,5 +38,5 @@
 <!ENTITY messageMarkByDate.label "Marcar mensagens como lidas">
 <!ENTITY markByDateLower.label "Marcar como lidas para:">
 <!ENTITY markByDateLower.accesskey "M">
-<!ENTITY markByDateUpper.accesskey "A">
 <!ENTITY markByDateUpper.label "Para:">
+<!ENTITY markByDateUpper.accesskey "A">

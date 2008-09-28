@@ -34,7 +34,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-   
-<!ENTITY createVFDialog.title              "Guardar Pesquisa">
-<!ENTITY virtualFolder.label               "Introduza um nome para a sua pasta guardada: ">
-<!ENTITY virtualFolder.accesskey           "I">
+
+<!ENTITY createVFDialog.title "Guardar Pesquisa">
+<!ENTITY virtualFolder.label "Introduza um nome para a sua pasta guardada: ">
+<!ENTITY virtualFolder.accesskey "I">

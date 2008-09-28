@@ -1,11 +1,11 @@
-<!ENTITY notificationsDialog2.title       "Personalizar Novo Alerta de Correio">
-<!ENTITY window.width                     "30em">
+<!ENTITY notificationsDialog2.title "Personalizar Novo Alerta de Correio">
+<!ENTITY window.width "30em">
 
-<!ENTITY alertCustomization.intro         "Escolha os campos que devem aparecer nos alertas:">
-<!ENTITY previewText.label                "Resumo da Mensagem">
-<!ENTITY previewText.accesskey            "M">
-<!ENTITY subject.label                    "Assunto">
-<!ENTITY subject.accesskey                "A">
-<!ENTITY sender.label                     "Remetente">
-<!ENTITY sender.accesskey                 "R">
+<!ENTITY alertCustomization.intro "Escolha os campos que devem aparecer nos alertas:">
+<!ENTITY previewText.label "Resumo da Mensagem">
+<!ENTITY previewText.accesskey "M">
+<!ENTITY subject.label "Assunto">
+<!ENTITY subject.accesskey "A">
+<!ENTITY sender.label "Remetente">
+<!ENTITY sender.accesskey "r">
 

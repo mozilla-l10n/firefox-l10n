@@ -50,7 +50,7 @@
 
 <!ENTITY OptGroup.label "Opções de Grupo">
 <!ENTITY OptGroupLabel.label "Etiqueta:">
-<!ENTITY OptGroupLabel.accesskey "t">
+<!ENTITY OptGroupLabel.accesskey "T">
 <!ENTITY OptGroupDisabled.label "Desactivado">
 <!ENTITY OptGroupDisabled.accesskey "D">
 

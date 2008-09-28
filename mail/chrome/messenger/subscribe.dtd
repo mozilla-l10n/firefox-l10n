@@ -35,21 +35,21 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY subscribeDialog.title        "Subscrever">
-<!ENTITY subscribeButton.label        "Subscrever">
-<!ENTITY subscribeButton.accesskey    "n">
-<!ENTITY unsubscribeButton.label      "Não subscrever">
-<!ENTITY unsubscribeButton.accesskey  "u">
-<!ENTITY newGroupsTab.label           "Novos Grupos">
-<!ENTITY newGroupsTab.accesskey       "N">
-<!ENTITY refreshButton.label          "Actualizar">
-<!ENTITY refreshButton.accesskey      "A">
-<!ENTITY stopButton.label             "Parar">
-<!ENTITY stopButton.accesskey         "a">
-<!ENTITY server.label                 "Conta:">
-<!ENTITY server.accesskey             "t">
-<!ENTITY subscribedHeader.label       "Subscrever">
+<!ENTITY subscribeDialog.title "Subscrever">
+<!ENTITY subscribeButton.label "Subscrever">
+<!ENTITY subscribeButton.accesskey "S">
+<!ENTITY unsubscribeButton.label "Não subscrever">
+<!ENTITY unsubscribeButton.accesskey "U">
+<!ENTITY newGroupsTab.label "Novos Grupos">
+<!ENTITY newGroupsTab.accesskey "N">
+<!ENTITY refreshButton.label "Actualizar">
+<!ENTITY refreshButton.accesskey "A">
+<!ENTITY stopButton.label "Parar">
+<!ENTITY stopButton.accesskey "A">
+<!ENTITY server.label "Conta:">
+<!ENTITY server.accesskey "T">
+<!ENTITY subscribedHeader.label "Subscrever">
 <!-- commenting out until bug 38906 is fixed 
-<!ENTITY messagesHeader.label         "Mensagen"> -->
-<!ENTITY namefield.label              "Mostrar itens que contenham:">
-<!ENTITY namefield.accesskey          "s">
+<!ENTITY messagesHeader.label         "Messages"> -->
+<!ENTITY namefield.label "Mostrar itens que contenham:">
+<!ENTITY namefield.accesskey "S">

@@ -34,35 +34,35 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY GeneratedName.label                   "Nome">
-<!ENTITY GeneratedName.accesskey               "N">
-<!ENTITY PrimaryEmail.label                    "Correio Electrónico">
-<!ENTITY PrimaryEmail.accesskey                "E">
-<!ENTITY Company.label                         "Empresa">
-<!ENTITY Company.accesskey                     "m">
-<!ENTITY _PhoneticName.label                   "Nome Fonético">
-<!ENTITY _PhoneticName.accesskey               "F">
-<!ENTITY NickName.label                        "Alcunha">
-<!ENTITY NickName.accesskey                    "A">
-<!ENTITY SecondEmail.label                     "Correio Electrónico alternativo">
-<!ENTITY SecondEmail.accesskey                 "r">
-<!ENTITY Department.label                      "Departamento">
-<!ENTITY Department.accesskey                  "r">
-<!ENTITY JobTitle.label                        "Cargo">
-<!ENTITY JobTitle.accesskey                    "C">
-<!ENTITY CellularNumber.label                  "Telemóvel">
-<!ENTITY CellularNumber.accesskey              "v">
-<!ENTITY PagerNumber.label                     "Pager">
-<!ENTITY PagerNumber.accesskey                 "P">
-<!ENTITY FaxNumber.label                       "Fax">
-<!ENTITY FaxNumber.accesskey                   "F">
-<!ENTITY HomePhone.label                       "Telefone Casa">
-<!ENTITY HomePhone.accesskey                   "l">
-<!ENTITY WorkPhone.label                       "Telefone Trabalho">
-<!ENTITY WorkPhone.accesskey                   "a">
-<!ENTITY ScreenName.label                      "Nome a Mostrar">
-<!ENTITY ScreenName.accesskey                  "M">
-<!ENTITY sortAscending.label                   "Ordem Crescente">
-<!ENTITY sortAscending.accesskey               "O">
-<!ENTITY sortDescending.label                  "Ordem Decrescente">
-<!ENTITY sortDescending.accesskey              "r">
+<!ENTITY GeneratedName.label "Nome">
+<!ENTITY GeneratedName.accesskey "N">
+<!ENTITY PrimaryEmail.label "Correio Electrónico">
+<!ENTITY PrimaryEmail.accesskey "E">
+<!ENTITY Company.label "Empresa">
+<!ENTITY Company.accesskey "m">
+<!ENTITY _PhoneticName.label "Nome Fonético">
+<!ENTITY _PhoneticName.accesskey "f">
+<!ENTITY NickName.label "Alcunha">
+<!ENTITY NickName.accesskey "a">
+<!ENTITY SecondEmail.label "Correio Electrónico alternativo">
+<!ENTITY SecondEmail.accesskey "r">
+<!ENTITY Department.label "Departamento">
+<!ENTITY Department.accesskey "r">
+<!ENTITY JobTitle.label "Cargo">
+<!ENTITY JobTitle.accesskey "C">
+<!ENTITY CellularNumber.label "Telemóvel">
+<!ENTITY CellularNumber.accesskey "V">
+<!ENTITY PagerNumber.label "Pager">
+<!ENTITY PagerNumber.accesskey "P">
+<!ENTITY FaxNumber.label "Fax">
+<!ENTITY FaxNumber.accesskey "F">
+<!ENTITY HomePhone.label "Telefone Casa">
+<!ENTITY HomePhone.accesskey "L">
+<!ENTITY WorkPhone.label "Telefone Trabalho">
+<!ENTITY WorkPhone.accesskey "A">
+<!ENTITY ScreenName.label "Nome a Mostrar">
+<!ENTITY ScreenName.accesskey "M">
+<!ENTITY sortAscending.label "Ordem Crescente">
+<!ENTITY sortAscending.accesskey "O">
+<!ENTITY sortDescending.label "Ordem Decrescente">
+<!ENTITY sortDescending.accesskey "R">

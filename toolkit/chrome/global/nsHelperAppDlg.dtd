@@ -21,7 +21,7 @@
 <!ENTITY prompt.label "O que deve o #1 fazer com este ficheiro?">
 
 <!ENTITY alwaysHandle.label "Executar esta acção sempre que trabalhar com ficheiros deste tipo">
-<!ENTITY alwaysHandle.accesskey "s">
+<!ENTITY alwaysHandle.accesskey "S">
 
 <!ENTITY saveToDisk.label "Guardá-lo no disco">
 <!ENTITY saveToDisk.accesskey "G">
@@ -29,7 +29,6 @@
 <!ENTITY useSystemDefault.label "Abri-lo com a aplicação por omissão (#1)">
 <!ENTITY useSystemDefault.noDesc.label "Abri-lo com a aplicação por omissão">
 <!ENTITY useSystemDefault.accesskey "A">
-<!-- LOCALIZATION NOTE:  do not localize "#1" -->
 
 <!ENTITY openUsing.label "Abri-lo com">
 <!ENTITY openUsing.accesskey "c">

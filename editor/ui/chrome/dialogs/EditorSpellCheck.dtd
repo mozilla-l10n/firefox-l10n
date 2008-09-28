@@ -34,8 +34,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Verificar Escrita">
 
 <!ENTITY misspelledWord.label "Palavra errada:">
@@ -66,6 +66,6 @@
 <!ENTITY closeButton.label "Fechar">
 <!ENTITY closeButton.accessKey "F">
 <!ENTITY sendButton.label "Enviar">
-<!ENTITY sendButton.accessKey "n">
+<!ENTITY sendButton.accessKey "N">
 <!ENTITY languagePopup.label "Idioma:">
 <!ENTITY languagePopup.accessKey "I">

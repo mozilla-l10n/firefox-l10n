@@ -34,18 +34,18 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Inserir Tabela">
 
 <!ENTITY size.label "Tamanho">
 <!ENTITY numRowsEditField.label "Linhas:">
-<!ENTITY numRowsEditField.accessKey "n">
+<!ENTITY numRowsEditField.accessKey "N">
 <!ENTITY numColumnsEditField.label "Colunas:">
 <!ENTITY numColumnsEditField.accessKey "C">
 <!ENTITY widthEditField.label "Largura:">
 <!ENTITY widthEditField.accessKey "L">
 <!ENTITY borderEditField.label "Limite:">
-<!ENTITY borderEditField.accessKey "i">
+<!ENTITY borderEditField.accessKey "I">
 <!ENTITY borderEditField.tooltip "Escreva um número para o limite da tabela, ou escreva zero (0) para nenhum limite">
 <!ENTITY pixels.label "pixéis">

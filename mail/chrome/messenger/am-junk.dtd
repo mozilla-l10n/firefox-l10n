@@ -6,9 +6,9 @@
 <!ENTITY move.label "Mover as novas mensagens de lixo electrónico para:">
 <!ENTITY move.accesskey "M">
 <!ENTITY junkFolderOn.label "A Pasta &quot;Lixo&quot; em:">
-<!ENTITY junkFolderOn.accesskey "x">
+<!ENTITY junkFolderOn.accesskey "X">
 <!ENTITY otherFolder.label "Outro:">
-<!ENTITY otherFolder.accesskey "r">
+<!ENTITY otherFolder.accesskey "R">
 <!ENTITY purge1.label "Apagar automaticamente o lixo electrónico com mais de">
 <!ENTITY purge1.accesskey "g">
 <!ENTITY purge2.label "dias">

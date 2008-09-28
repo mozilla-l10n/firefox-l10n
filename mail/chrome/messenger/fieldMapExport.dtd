@@ -36,6 +36,6 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY fieldMapExport.title "Exportar Livro de Endereços">
-<!ENTITY fieldMapExport.add		"Adicionar Campo ->">
-<!ENTITY fieldMapExport.addAll	"Adicionar todos ->">
-<!ENTITY fieldList.label   "Campo do Endereço"> 
+<!ENTITY fieldMapExport.add "Adicionar Campo ->">
+<!ENTITY fieldMapExport.addAll "Adicionar todos ->">
+<!ENTITY fieldList.label "Campo do Endereço">

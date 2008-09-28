@@ -35,14 +35,14 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-   
 <!-- Labels -->
-<!ENTITY newFolderDialog.title      "Nova pasta">
-<!ENTITY name.label                 "Nome:">
-<!ENTITY name.accesskey             "N">
-<!ENTITY description.label          "Criar como sub-pasta de:">
-<!ENTITY description.accesskey      "C">
-<!ENTITY folderRestriction1.label   "Este servidor restringe pastas de dois modos especiais.">
-<!ENTITY folderRestriction2.label   "Permitir que a sua pasta contenha:">
-<!ENTITY foldersOnly.label          "Apenas Pastas">
-<!ENTITY messagesOnly.label         "Apenas mensagens">
+   
+<!ENTITY newFolderDialog.title "Nova pasta">
+<!ENTITY name.label "Nome:">
+<!ENTITY name.accesskey "n">
+<!ENTITY description.label "Criar como sub-pasta de:">
+<!ENTITY description.accesskey "c">
+<!ENTITY folderRestriction1.label "Este servidor restringe pastas de dois modos especiais.">
+<!ENTITY folderRestriction2.label "Permitir que a sua pasta contenha:">
+<!ENTITY foldersOnly.label "Apenas Pastas">
+<!ENTITY messagesOnly.label "Apenas mensagens">

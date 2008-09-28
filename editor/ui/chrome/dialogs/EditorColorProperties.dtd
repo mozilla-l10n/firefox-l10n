@@ -34,8 +34,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Cores da Página e Fundo">
 <!ENTITY pageColors.label "Cores da página">
 <!ENTITY defaultColorsRadio.label "Cores pré-definidas do Leitor (Não aplica cores na página)">

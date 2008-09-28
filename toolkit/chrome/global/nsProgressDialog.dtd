@@ -90,7 +90,7 @@
 
 <!ENTITY progressMsg "#1KB de #2KB (a #3KB/seg)">
 <!-- LOCALIZATION NOTE (unknownTime):
-
+    
     This string is used when the time remaining is unknown. -->
 
 <!ENTITY unknownTime "Desconhecido">

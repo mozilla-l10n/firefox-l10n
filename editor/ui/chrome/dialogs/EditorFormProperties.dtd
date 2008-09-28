@@ -47,7 +47,7 @@
 <!ENTITY FormEncType.label "Codificação:">
 <!ENTITY FormEncType.accesskey "ç">
 <!ENTITY FormTarget.label "Frame de destino:">
-<!ENTITY FormTarget.accesskey "v">
+<!ENTITY FormTarget.accesskey "T">
 
 <!ENTITY RemoveForm.label "Remover Formulário">
 <!ENTITY RemoveForm.accesskey "R">

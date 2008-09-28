@@ -34,13 +34,13 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-
 <!-- Window title -->
+
+
 <!ENTITY windowTitle.label "Snap para a Grelha">
 
 <!ENTITY enableSnapToGrid.label "Activar o Snap para a Grelha">
-<!ENTITY enableSnapToGrid.accessKey "A">
+<!ENTITY enableSnapToGrid.accessKey "a">
 
 <!ENTITY sizeEditField.label "Tamanho:">
 <!ENTITY sizeEditField.accessKey "T">

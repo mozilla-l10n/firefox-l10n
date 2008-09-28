@@ -1,5 +1,4 @@
 <!-- folder pane context menu item -->
-<!ENTITY folderContextRSSSubscribe.label    "Subscrever...">
-<!ENTITY folderContextRSSSubscribe.accesskey   "b">
-
+<!ENTITY folderContextRSSSubscribe.label "Subscrever...">
+<!ENTITY folderContextRSSSubscribe.accesskey "b">
 

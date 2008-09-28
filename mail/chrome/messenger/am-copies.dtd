@@ -17,7 +17,7 @@
 <!ENTITY saveMessageDlg.accesskey "s">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "Pasta &quot;Enviados&quot; em:">
-<!ENTITY sentFolderOn.accesskey "a">
+<!ENTITY sentFolderOn.accesskey "A">
 <!ENTITY sentInOtherFolder.label "Outro:">
 <!ENTITY sentInOtherFolder.accesskey "O">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->

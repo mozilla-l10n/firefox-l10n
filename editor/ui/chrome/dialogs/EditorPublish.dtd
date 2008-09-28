@@ -34,70 +34,70 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-
 <!-- Window title -->
-<!ENTITY windowTitle.label         "Publicar Página">
+
+
+<!ENTITY windowTitle.label "Publicar Página">
 <!ENTITY windowTitleSettings.label "Definições de Publicação">
 
-<!ENTITY publishTab.label         "Publicar">
-<!ENTITY settingsTab.label        "Definições">
+<!ENTITY publishTab.label "Publicar">
+<!ENTITY settingsTab.label "Definições">
 
-<!ENTITY publishButton.label      "Publicar">
-
+<!ENTITY publishButton.label "Publicar">
 <!-- Publish Tab Panel -->
-<!ENTITY siteList.label           "Nome do Sítio:">
-<!ENTITY siteList.accesskey           "e">
-<!ENTITY siteList.tooltip         "Escolha o sítio em que quer publicar">
-<!ENTITY newSiteButton.label      "Novo Sítio">
-<!ENTITY newSiteButton.accesskey      "N">
-<!ENTITY docDirList.label             "Sub-directoria do Sítio para esta página:">
-<!ENTITY docDirList.accesskey         "S">
-<!ENTITY docDirList.tooltip          "Escolher ou introduzir nome da subdirectoria remota a publicar para">
+
+<!ENTITY siteList.label "Nome do Sítio:">
+<!ENTITY siteList.accesskey "e">
+<!ENTITY siteList.tooltip "Escolha o sítio em que quer publicar">
+<!ENTITY newSiteButton.label "Novo Sítio">
+<!ENTITY newSiteButton.accesskey "N">
+<!ENTITY docDirList.label "Sub-directoria do Sítio para esta página:">
+<!ENTITY docDirList.accesskey "S">
+<!ENTITY docDirList.tooltip "Escolher ou introduzir nome da subdirectoria remota a publicar para">
 <!ENTITY publishImgCheckbox.label "Incluir imagens e outros ficheiros">
 <!ENTITY publishImgCheckbox.accesskey "u">
 <!ENTITY publishImgCheckbox.tooltip "Publicar imagens e outros ficheiros referenciados por esta página">
-<!ENTITY sameLocationRadio.label  "Utilizar a mesma localização da página">
-<!ENTITY sameLocationRadio.accesskey  "U">
+<!ENTITY sameLocationRadio.label "Utilizar a mesma localização da página">
+<!ENTITY sameLocationRadio.accesskey "U">
 <!ENTITY sameLocationRadio.tooltip "Publicar ficheiros para a mesma localização da página">
-<!ENTITY useSubdirRadio.label     "Utilizar a sub-directoria deste sítio:">
-<!ENTITY useSubdirRadio.accesskey     "d">
-<!ENTITY useSubdirRadio.tooltip        "Publicar ficheiros para a sub-directoria remota seleccionada">
-<!ENTITY otherDirList.tooltip    "Escolha ou introduza o nome da subdirectoria remota onde os ficheiros serão publicados">
-<!ENTITY pageTitle.label          "Título da Página:">
-<!ENTITY pageTitle.accesskey          "T">
-<!ENTITY pageTitle.tooltip        "Introduza um título para identificar a página na janela e nos marcadores">
-<!ENTITY pageTitleExample.label   "e.g.: &quot;My Web Page&quot;">
-<!ENTITY filename.label           "Nome do ficheiro:">
-<!ENTITY filename.accesskey           "F">
-<!ENTITY filename.tooltip         "Introduza um nome para este ficheiro, incluindo'.html' para páginas web">
-<!ENTITY filenameExample.label    "e.g,: &quot;mypage.html&quot;">
-<!ENTITY relatedDocs.label        "Outros ficheiros para publicar">
-<!ENTITY setDefaultButton.label   "Aplicar como Pré-Definição">
-<!ENTITY setDefaultButton.accesskey   "D">
-<!ENTITY setDefSiteAndDir.label   "Aplicar como Site e Directoria pré-definida">
-<!ENTITY removeButton.label       "Remover Sítio">
-<!ENTITY removeButton.accesskey       "R">
-
+<!ENTITY useSubdirRadio.label "Utilizar a sub-directoria deste sítio:">
+<!ENTITY useSubdirRadio.accesskey "d">
+<!ENTITY useSubdirRadio.tooltip "Publicar ficheiros para a sub-directoria remota seleccionada">
+<!ENTITY otherDirList.tooltip "Escolha ou introduza o nome da subdirectoria remota onde os ficheiros serão publicados">
+<!ENTITY pageTitle.label "Título da Página:">
+<!ENTITY pageTitle.accesskey "T">
+<!ENTITY pageTitle.tooltip "Introduza um título para identificar a página na janela e nos marcadores">
+<!ENTITY pageTitleExample.label "e.g.: &quot;My Web Page&quot;">
+<!ENTITY filename.label "Nome do ficheiro:">
+<!ENTITY filename.accesskey "F">
+<!ENTITY filename.tooltip "Introduza um nome para este ficheiro, incluindo'.html' para páginas web">
+<!ENTITY filenameExample.label "e.g,: &quot;mypage.html&quot;">
+<!ENTITY relatedDocs.label "Outros ficheiros para publicar">
+<!ENTITY setDefaultButton.label "Aplicar como Pré-Definição">
+<!ENTITY setDefaultButton.accesskey "D">
+<!ENTITY setDefSiteAndDir.label "Aplicar como Site e Directoria pré-definida">
+<!ENTITY removeButton.label "Remover Sítio">
+<!ENTITY removeButton.accesskey "R">
 <!-- Settings Tab Panel -->
-<!ENTITY publishSites.label   "Sites de Publicação">
-<!ENTITY serverInfo.label     "Informação do Servidor">
-<!ENTITY loginInfo.label      "Informação de inicio de sessão">
-<!ENTITY siteName.label       "Nome do Sítio:">
-<!ENTITY siteName.accesskey           "e">
-<!ENTITY siteName.tooltip     "Uma alcunha que identifique este sítio de publicação (ex.: 'MeuSítio')">
-<!ENTITY siteUrl.label        "Endereço de Publicação (ex.: 'ftp://ftp.meuisp.com/meunodedeutilizador'):">
-<!ENTITY siteUrl.accesskey            "ç">
-<!ENTITY siteUrl.tooltip      "O endereço FTP:// ou HTTP://  fornecido pelo seu ISP ou servidor de serviço web">
-<!ENTITY browseUrl.label      "Endereço HTTP da sua página pessoal (ex.: 'http://www.meuisp.com/meunodedeutilizador'):">
-<!ENTITY browseUrl.accesskey          "T">
-<!ENTITY browseUrl.tooltip    "O endereço HTTP:// da sua directoria (não incluir o nome do ficheiro)">
-<!ENTITY username.label       "Nome de utilizador:">
-<!ENTITY username.accesskey           "U">
-<!ENTITY username.tooltip     "O nome de utilizador que usa para iniciar sessão no seu ISP ou servidor de serviço web">
-<!ENTITY password.label       "Senha:">
-<!ENTITY password.accesskey           "n">
-<!ENTITY password.tooltip     "A Senha associada ao seu nome de utilizador">
-<!ENTITY savePassword.label   "Guardar Senha">
-<!ENTITY savePassword.accesskey       "S">
+
+<!ENTITY publishSites.label "Sites de Publicação">
+<!ENTITY serverInfo.label "Informação do Servidor">
+<!ENTITY loginInfo.label "Informação de inicio de sessão">
+<!ENTITY siteName.label "Nome do Sítio:">
+<!ENTITY siteName.accesskey "e">
+<!ENTITY siteName.tooltip "Uma alcunha que identifique este sítio de publicação (ex.: 'MeuSítio')">
+<!ENTITY siteUrl.label "Endereço de Publicação (ex.: 'ftp://ftp.meuisp.com/meunodedeutilizador'):">
+<!ENTITY siteUrl.accesskey "ç">
+<!ENTITY siteUrl.tooltip "O endereço FTP:// ou HTTP://  fornecido pelo seu ISP ou servidor de serviço web">
+<!ENTITY browseUrl.label "Endereço HTTP da sua página pessoal (ex.: 'http://www.meuisp.com/meunodedeutilizador'):">
+<!ENTITY browseUrl.accesskey "T">
+<!ENTITY browseUrl.tooltip "O endereço HTTP:// da sua directoria (não incluir o nome do ficheiro)">
+<!ENTITY username.label "Nome de utilizador:">
+<!ENTITY username.accesskey "U">
+<!ENTITY username.tooltip "O nome de utilizador que usa para iniciar sessão no seu ISP ou servidor de serviço web">
+<!ENTITY password.label "Senha:">
+<!ENTITY password.accesskey "n">
+<!ENTITY password.tooltip "A Senha associada ao seu nome de utilizador">
+<!ENTITY savePassword.label "Guardar Senha">
+<!ENTITY savePassword.accesskey "S">
 <!ENTITY savePassword.tooltip "Seleccione isto para guardar a sua senha em segurança utilizando o Gestor de Senhas">

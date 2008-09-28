@@ -34,20 +34,20 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
-<!ENTITY pref.ldap.window.title    "Servidores de Directoria LDAP">
-<!ENTITY directory.label           "Adicionar Directoria">
+
+<!ENTITY pref.ldap.window.title "Servidores de Directoria LDAP">
+<!ENTITY directory.label "Adicionar Directoria">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label         "Servidor de Directoria LDAP:">
+<!ENTITY directories.label "Servidor de Directoria LDAP:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
-<!ENTITY directoriesText.label     "Seleccione um  Servidor de Directoria LDAP:">
+<!ENTITY directoriesText.label "Seleccione um  Servidor de Directoria LDAP:">
 <!ENTITY directoriesText.accesskey "S">
 <!-- LOCALIZATION NOTE (autocomplete.title) : do not translate "LDAP" in below line -->
-<!ENTITY autocomplete.title        "Servidor de Directoria LDAP">
-<!ENTITY addDirectory.label        "Adicionar">
-<!ENTITY addDirectory.accesskey    "A">
-<!ENTITY editDirectory.label       "Editar">
-<!ENTITY editDirectory.accesskey   "E">
-<!ENTITY deleteDirectory.label     "Eliminar">
+<!ENTITY autocomplete.title "Servidor de Directoria LDAP">
+<!ENTITY addDirectory.label "Adicionar">
+<!ENTITY addDirectory.accesskey "a">
+<!ENTITY editDirectory.label "Editar">
+<!ENTITY editDirectory.accesskey "e">
+<!ENTITY deleteDirectory.label "Eliminar">
 <!ENTITY deleteDirectory.accesskey "l">

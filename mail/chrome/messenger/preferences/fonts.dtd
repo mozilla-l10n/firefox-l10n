@@ -1,78 +1,77 @@
-<!ENTITY  fontsAndEncodingsDialog.title           "Tipos de Letra e Codificações">
-<!ENTITY  window.width                            "55em">
-<!ENTITY  window.macWidth                         "46em">
-<!ENTITY  window.unixWidth                        "46em">
+<!ENTITY fontsAndEncodingsDialog.title "Tipos de Letra e Codificações">
+<!ENTITY window.width "55em">
+<!ENTITY window.macWidth "46em">
+<!ENTITY window.unixWidth "46em">
 
-<!ENTITY  language.label                          "Tipo de letra para:">
-<!ENTITY  language.accesskey                      "T">
+<!ENTITY language.label "Tipo de letra para:">
+<!ENTITY language.accesskey "t">
 
-<!ENTITY  typefaces.label                         "Typeface">
-<!ENTITY  sizes.label                             "Tamanho (pixéis)">
-<!ENTITY  proportionalSize.accesskey              "e">
-<!ENTITY  monospaceSize.accesskey                 "x">
+<!ENTITY typefaces.label "Typeface">
+<!ENTITY sizes.label "Tamanho (pixéis)">
+<!ENTITY proportionalSize.accesskey "e">
+<!ENTITY monospaceSize.accesskey "x">
 
-<!ENTITY  proportional.label                      "Proporcional:">
-<!ENTITY  proportional.accesskey                  "P">
+<!ENTITY proportional.label "Proporcional:">
+<!ENTITY proportional.accesskey "P">
 
-<!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Monospace:">
-<!ENTITY  monospace.accesskey                     "M">
+<!ENTITY serif.label "Serif:">
+<!ENTITY serif.accesskey "s">
+<!ENTITY sans-serif.label "Sans-serif:">
+<!ENTITY sans-serif.accesskey "n">
+<!ENTITY monospace.label "Monospace:">
+<!ENTITY monospace.accesskey "m">
 
-<!ENTITY  fontsize.units                          "pixéis">
+<!ENTITY fontsize.units "pixéis">
 
-<!ENTITY  font.langGroup.latin1                   "Ocidental">
-<!ENTITY  font.langGroup.latin2                   "Europa Central">
-<!ENTITY  font.langGroup.japanese                 "Japonês">
-<!ENTITY  font.langGroup.trad-chinese             "Chinês Tradicional (Taiwan)">
-<!ENTITY  font.langGroup.simpl-chinese            "Chinês Simplificado">
-<!ENTITY  font.langGroup.trad-chinese-hk          "Chinês Tradicional (Hong Kong)">
-<!ENTITY  font.langGroup.korean                   "Coreano">
-<!ENTITY  font.langGroup.cyrillic                 "Círilico">
-<!ENTITY  font.langGroup.baltic                   "Báltico">
-<!ENTITY  font.langGroup.el                       "Grego">
-<!ENTITY  font.langGroup.turkish                  "Turco">
-<!ENTITY  font.langGroup.unicode                  "Outra Línguas">
-<!ENTITY  font.langGroup.user-def                 "Definido pelo utilizador">
-<!ENTITY  font.langGroup.thai                     "Tailandês">
-<!ENTITY  font.langGroup.hebrew                   "Hebraico">
-<!ENTITY  font.langGroup.arabic                   "Árabe">
-<!ENTITY  font.langGroup.devanagari               "Devanagari">
-<!ENTITY  font.langGroup.tamil                    "Tamil">
-<!ENTITY  font.langGroup.armenian                 "Arménio">
-<!ENTITY  font.langGroup.bengali                  "Bengali">
-<!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
-<!ENTITY  font.langGroup.ethiopic                 "Etíope">
-<!ENTITY  font.langGroup.georgian                 "Georgiano">
-<!ENTITY  font.langGroup.gujarati                 "Gujarati">
-<!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
-<!ENTITY  font.langGroup.khmer                    "Khmer">
-<!ENTITY  font.langGroup.malayalam                "Malayalam">
-
+<!ENTITY font.langGroup.latin1 "Ocidental">
+<!ENTITY font.langGroup.latin2 "Europa Central">
+<!ENTITY font.langGroup.japanese "Japonês">
+<!ENTITY font.langGroup.trad-chinese "Chinês Tradicional (Taiwan)">
+<!ENTITY font.langGroup.simpl-chinese "Chinês Simplificado">
+<!ENTITY font.langGroup.trad-chinese-hk "Chinês Tradicional (Hong Kong)">
+<!ENTITY font.langGroup.korean "Coreano">
+<!ENTITY font.langGroup.cyrillic "Círilico">
+<!ENTITY font.langGroup.baltic "Báltico">
+<!ENTITY font.langGroup.el "Grego">
+<!ENTITY font.langGroup.turkish "Turco">
+<!ENTITY font.langGroup.unicode "Outra Línguas">
+<!ENTITY font.langGroup.user-def "Definido pelo utilizador">
+<!ENTITY font.langGroup.thai "Tailandês">
+<!ENTITY font.langGroup.hebrew "Hebraico">
+<!ENTITY font.langGroup.arabic "Árabe">
+<!ENTITY font.langGroup.devanagari "Devanagari">
+<!ENTITY font.langGroup.tamil "Tamil">
+<!ENTITY font.langGroup.armenian "Arménio">
+<!ENTITY font.langGroup.bengali "Bengali">
+<!ENTITY font.langGroup.canadian "Unified Canadian Syllabary">
+<!ENTITY font.langGroup.ethiopic "Etíope">
+<!ENTITY font.langGroup.georgian "Georgiano">
+<!ENTITY font.langGroup.gujarati "Gujarati">
+<!ENTITY font.langGroup.gurmukhi "Gurmukhi">
+<!ENTITY font.langGroup.khmer "Khmer">
+<!ENTITY font.langGroup.malayalam "Malayalam">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Tamanho mínimo da letra:">
-<!ENTITY minSize.accesskey                        "i">
-<!ENTITY minSize.none                             "Nenhum">
 
+<!ENTITY minSize.label "Tamanho mínimo da letra:">
+<!ENTITY minSize.accesskey "i">
+<!ENTITY minSize.none "Nenhum">
 <!-- default font type -->
-<!ENTITY  useDefaultFontSerif.label               "Serif">
-<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
-<!ENTITY  newLanguages.label                      "Novos Idiomas podem ser configurados usando o painel de Idiomas.">
+<!ENTITY useDefaultFontSerif.label "Serif">
+<!ENTITY useDefaultFontSansSerif.label "Sans Serif">
 
-<!ENTITY  useDocumentFonts.label                  "Permitir que as Mensagens usem outros tipos de letra">
-<!ENTITY  useDocumentFonts.accesskey              "P">
+<!ENTITY newLanguages.label "Novos Idiomas podem ser configurados usando o painel de Idiomas.">
 
+<!ENTITY useDocumentFonts.label "Permitir que as Mensagens usem outros tipos de letra">
+<!ENTITY useDocumentFonts.accesskey "p">
 <!-- Language settings -->
-<!ENTITY sendDefaultCharset.label         "Para mensagens enviadas:">
-<!ENTITY sendDefaultCharset.accesskey     "m">
-<!ENTITY languagesTitle1.label				    "Codificações pré-definidas">
-<!ENTITY composingDescription.label       "Definir as codificações pré-definidas para receber e enviar mensagens.">
 
-<!ENTITY viewDefaultCharsetList.label     "Para mensagens recebidas:">
-<!ENTITY viewDefaultCharsetList.accesskey	"a">
-<!ENTITY replyInDefaultCharset2.label      "Usar a codificação pré-definida em respostas">
-<!ENTITY replyInDefaultCharset2.accesskey  "U">
+<!ENTITY sendDefaultCharset.label "Para mensagens enviadas:">
+<!ENTITY sendDefaultCharset.accesskey "m">
+<!ENTITY languagesTitle1.label "Codificações pré-definidas">
+<!ENTITY composingDescription.label "Definir as codificações pré-definidas para receber e enviar mensagens.">
 
+<!ENTITY viewDefaultCharsetList.label "Para mensagens recebidas:">
+<!ENTITY viewDefaultCharsetList.accesskey "A">
+<!ENTITY replyInDefaultCharset2.label "Usar a codificação pré-definida em respostas">
+<!ENTITY replyInDefaultCharset2.accesskey "u">
