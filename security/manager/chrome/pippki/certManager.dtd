@@ -50,7 +50,7 @@
 <!ENTITY certmgr.orphans "您文件中的证书不符合其他任何种类:">
 <!ENTITY certmgr.detail.general_tab.title "常规">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
-<!ENTITY certmgr.detail.prettyprint_tab.title "细节">
+<!ENTITY certmgr.detail.prettyprint_tab.title "详细信息">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 <!ENTITY certmgr.pending.label "正在核实证书…">
 <!ENTITY certmgr.subjectinfo.label "发行给">
