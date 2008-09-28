@@ -121,8 +121,8 @@
 <!ENTITY event.menu.options.privacy.private.accesskey "r">
 <!ENTITY event.menu.options.show.time.label "Zobrazit čas jako">
 <!ENTITY event.menu.options.show.time.accesskey "j">
-<!ENTITY event.menu.options.show.time.busy.label "Zaměstnaný">
-<!ENTITY event.menu.options.show.time.busy.accesskey "m">
+<!ENTITY event.menu.options.show.time.busy.label "Obsazený">
+<!ENTITY event.menu.options.show.time.busy.accesskey "b">
 <!ENTITY event.menu.options.show.time.free.label "Volný">
 <!ENTITY event.menu.options.show.time.free.accesskey "l">
 
@@ -303,7 +303,7 @@
 <!ENTITY event.recurrence.pattern.yearly.month2.6.label "červen">
 <!ENTITY event.recurrence.pattern.yearly.month2.7.label "červenec">
 <!ENTITY event.recurrence.pattern.yearly.month2.8.label "srpen">
-<!ENTITY event.recurrence.pattern.yearly.month2.9.label "zárí">
+<!ENTITY event.recurrence.pattern.yearly.month2.9.label "září">
 <!ENTITY event.recurrence.pattern.yearly.month2.10.label "říjen">
 <!ENTITY event.recurrence.pattern.yearly.month2.11.label "listopad">
 <!ENTITY event.recurrence.pattern.yearly.month2.12.label "prosinec">
@@ -311,7 +311,7 @@
 <!ENTITY event.recurrence.range.label "Rozsah opakování">
 <!ENTITY event.recurrence.forever.label "Žádné konečné datum">
 <!ENTITY event.recurrence.repeat.for.label "Naplánovat na">
-<!ENTITY event.recurrence.appointments.label "schůzky(ek)">
+<!ENTITY event.recurrence.appointments.label "opakování">
 <!ENTITY event.repeat.until.label "Opakovat do">
 <!ENTITY event.recurrence.preview.label "Náhled">
 
@@ -325,7 +325,7 @@
 <!ENTITY reminder.action.email.label "Poslat e-mail">
 <!ENTITY reminder.new.label "Nový">
 <!ENTITY reminder.delete.label "Smazat">
-<!ENTITY reminder.relation.start.label "událost zančne">
+<!ENTITY reminder.relation.start.label "událost začne">
 <!ENTITY reminder.relation.end.label "událost skončí">
 <!ENTITY reminder.add.label "Přidat">
 <!ENTITY reminder.add.accesskey "P">
