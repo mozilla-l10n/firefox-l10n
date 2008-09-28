@@ -309,7 +309,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Mărime text">
 <!ENTITY fullZoom.accesskey             "M">
 
-<!ENTITY newTabButton.tooltip           "Deschide o filă nouă">
 <!ENTITY newWindowButton.tooltip        "Deschide o fereastră nouă">
 <!ENTITY sidebarCloseButton.tooltip     "Închide bara laterală">
 

@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label             "Noile pagini ar trebui deschise în:">
-<!ENTITY inNewWindow.label            "o fereastră nouă">
-<!ENTITY inNewWindow.accesskey        "f">
-<!ENTITY inNewTab.label               "o filă nouă">
-<!ENTITY inNewTab.accesskey           "i">
+<!ENTITY newWindowsAsTabs.label       "Deschide ferestrele noi în file">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
 
 <!ENTITY warnCloseMultipleTabs.label  "Avertizează la închiderea mai multor file">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
