@@ -45,60 +45,51 @@
 <!-- Menu Items -->
 <!-- File menu -->
 <!ENTITY mapfileMenu.label "Fișier">
-<!ENTITY mapfilemenu.accesskey "F">
+<!ENTITY mapfileMenu.accesskey "F">
 <!ENTITY clearCmd.label "Golește">
-<!ENTITY mapfileclear.accesskey "A">
+<!ENTITY clearCmd.accesskey "G">
 <!ENTITY closeCmd.label "Închide">
-<!ENTITY mapfileclose.accesskey "C">
+<!ENTITY closeCmd.accesskey "n">
 
 <!-- Edit menu -->
 <!ENTITY mapeditMenu.label "Editare">
-<!ENTITY mapeditmenu.accesskey "E">
+<!ENTITY mapeditMenu.accesskey "E">
 <!ENTITY cutCmd.label "Taie">
-<!ENTITY mapeditcut.accesskey "T">
+<!ENTITY cutCmd.accesskey "T">
 <!ENTITY copyCmd.label "Copiază">
-<!ENTITY mapeditcopy.accesskey "C">
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "Lipește">
-<!ENTITY mapeditpaste.accesskey "P">
+<!ENTITY pasteCmd.accesskey "L">
 <!ENTITY selectallCmd.label "Selectează tot">
-<!ENTITY mapselectall.accesskey "S">
+<!ENTITY selectallCmd.accesskey "S">
 <!ENTITY propsCmd.label "Proprietăți zonă sensibilă">
-<!ENTITY mapeditprops.accesskey "h">
+<!ENTITY propsCmd.accesskey "P">
 
 <!-- View menu -->
 <!ENTITY mapviewMenu.label "Vizualizare">
-<!ENTITY mapviewmenu.accesskey "v">
+<!ENTITY mapviewMenu.accesskey "V">
 <!ENTITY showhideTbarCmd.label "Ascunde bara de unelte">
-<!ENTITY mapviewtbar.accesskey "T">
+<!ENTITY showhideTbarCmd.accesskey "A">
 <!-- Scaling -->
 <!ENTITY mapviewScale.label "Scală">
-<!ENTITY mapviewscale.accesskey "S">
+<!ENTITY mapviewScale.accesskey "S">
 <!ENTITY apercentCmd.label "100">
-<!ENTITY zoomone.accesskey "1">
+<!ENTITY apercentCmd.accesskey "1">
 <!ENTITY bpercentCmd.label "200">
-<!ENTITY zoomtwo.accesskey "2">
+<!ENTITY bpercentCmd.accesskey "2">
 <!ENTITY cpercentCmd.label "400">
-<!ENTITY zoomthree.accesskey "4">
-<!-- end scaling-->
-<!ENTITY contrastCmd.label "Contrast">
-<!ENTITY contrast.accesskey "N">
-
-<!-- Help menu -->
-<!ENTITY maphelpMenu.label "Ajutor">
-<!ENTITY maphelpmenu.accesskey "h">
-<!ENTITY aboutCmd.label "Despre">
-<!ENTITY about.accesskey "D">
+<!ENTITY cpercentCmd.accesskey "4">
 
 <!ENTITY zoominCmd.label "Apropie">
 <!ENTITY zoomoutCmd.label "Depărtează">
 <!ENTITY delSpotCmd.label "Șterge zonă">
 
 <!-- Keys -->
-<!ENTITY clear.accesskey "d">
-<!ENTITY selectall.accesskey "A">
-<!ENTITY close.accesskey "L">
-<!ENTITY cut.accesskey "X">
-<!ENTITY copy.accesskey "C">
-<!ENTITY paste.accesskey "v">
-<!ENTITY props.accesskey "P">
-<!ENTITY tbar.accesskey "T">
+<!ENTITY clear.key "d">
+<!ENTITY selectall.key "a">
+<!ENTITY close.key "l">
+<!ENTITY cut.key "x">
+<!ENTITY copy.key "c">
+<!ENTITY paste.key "v">
+<!ENTITY props.key "p">
+<!ENTITY tbar.key "t">
