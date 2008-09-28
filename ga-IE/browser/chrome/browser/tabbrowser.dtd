@@ -16,3 +16,4 @@
 <!ENTITY bookmarkThisTab.accesskey "B">
 <!ENTITY undoCloseTab.label "Cealaigh Dúnadh an Chluaisín">
 <!ENTITY undoCloseTab.accesskey "C">
+<!ENTITY newTabButton.tooltip "Oscail cluaisín nua">

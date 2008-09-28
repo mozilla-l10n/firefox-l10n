@@ -310,7 +310,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label "Súmáil">
 <!ENTITY fullZoom.accesskey "S">
 
-<!ENTITY newTabButton.tooltip "Oscail cluaisín nua">
 <!ENTITY newWindowButton.tooltip "Oscail fuinneog nua">
 <!ENTITY sidebarCloseButton.tooltip "Dún an barra taoibh">
 

@@ -21,3 +21,5 @@
 <!ENTITY pluginWizard.finalPage.restart.label "Ní mór &brandShortName; a atosú chun an forlíontán (na forlíontáin) a chur ag obair.">
   
 <!ENTITY missingPlugin.label "Cliceáil anseo chun an forlíontán a íosluchtú.">
+<!ENTITY disabledPlugin.label "The plugin for this content has been disabled. Click here to manage your plugins.">
+<!ENTITY blockedPlugin.label "This plugin has been blocked for your protection.">
