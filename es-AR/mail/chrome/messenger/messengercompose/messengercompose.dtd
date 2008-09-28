@@ -47,7 +47,7 @@
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY quitApplicationCmdWin.label "Salir">
-<!ENTITY quitApplicationCmdWin.accesskey "x">
+<!ENTITY quitApplicationCmdWin.accesskey "S">
 <!ENTITY quitApplicationCmd.label "Salir">
 <!ENTITY quitApplicationCmd.accesskey "S">
 <!ENTITY quitApplicationCmd.key "Q">
