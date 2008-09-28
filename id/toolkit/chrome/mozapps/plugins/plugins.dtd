@@ -14,3 +14,5 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label "Cari tahu tentang Plugin atau cari sendiri plugin-nya.">
 <!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; perlu direstart agar plugin bisa bekerja.">
 <!ENTITY missingPlugin.label "Klik di sini untuk mengunduh plugin.">
+<!ENTITY disabledPlugin.label "Plugin untuk isi berikut telah dimatikan. Klik di sini untuk mengelola plugin anda.">
+<!ENTITY blockedPlugin.label "Plugin berikut telah diblokir untuk keamanan anda.">
