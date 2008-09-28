@@ -30,7 +30,7 @@
 <!ENTITY  composerEditing.label         "Ao Editar">
 <!ENTITY  spellCheckInline.label        "Verificar ortografia enquanto escreve">
 <!ENTITY  spellCheckInline.accesskey    "V">
-<<!ENTITY  maintainStructure.label       "Manter o esquema da tabela ao inserir ou eliminar células">
+<!ENTITY  maintainStructure.label       "Manter o esquema da tabela ao inserir ou eliminar células">
 <!ENTITY  maintainStructure.tooltip     "Preservar a forma rectangular da tabela adicionando células automaticamente ao inserir ou apagar células">
 <!ENTITY  maintainStructure.accesskey   "r">
 <!ENTITY  useCSS.label                  "Utilizar estilos CSS em vez de elementos e atributos HTML">
