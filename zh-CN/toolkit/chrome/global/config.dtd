@@ -40,9 +40,7 @@
 <!ENTITY aboutWarningButton.label "我保证会小心">
 <!ENTITY aboutWarningCheckbox.label "下次仍显示此警告文本">
 <!ENTITY filterPrefs.label "过滤器：">
-<!ENTITY filterPrefs.accesskey "I">
-<!ENTITY showAll.label "全部显示">
-<!ENTITY showAll.accesskey "W">
+<!ENTITY filterPrefs.accesskey "F">
 <!ENTITY prefColumn.label "首选项名称">
 <!ENTITY lockColumn.label "状态">
 <!ENTITY typeColumn.label "类型">

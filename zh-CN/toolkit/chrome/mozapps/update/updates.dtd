@@ -6,7 +6,9 @@
 <!ENTITY cancel.label "取消">
 <!ENTITY cancel.accesskey "C">
 <!ENTITY noupdatesfound.title "没有更新">
-<!ENTITY noupdatesfound.intro "没有更新可用。 &brandShortName; 可自动定期检查更新。">
+<!ENTITY noupdatesautoenabled.intro "无可用更新。 &brandShortName; 将定期检查更新。">
+<!ENTITY noupdatesautodisabled.intro "无可用更新。 请稍后重试或者启用
+                                           &brandShortName; 自动更新检查功能。">
 <!ENTITY incompatibleChecking.label "检查该更新是否会导致现有的扩展或主题出现问题…">
 <!ENTITY clickHere.label "查看此更新的更多信息">
 <!ENTITY incompatible.warning "此更新可能导致您的某些扩展或者主题失效，直到它们也被更新。">

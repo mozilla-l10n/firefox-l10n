@@ -32,6 +32,7 @@
 <!ENTITY cmd.clearList.tooltip "从列表中移除已完成、已取消或已失败下载项">
 <!ENTITY cmd.clearList.accesskey "C">
 <!ENTITY cmd.find.commandKey "f">
+<!ENTITY cmd.search.commandKey "k">
 <!ENTITY closeWhenDone.label "下载全部完成之后自动关闭">
 <!ENTITY closeWhenDone.tooltip "下载全部完成之后自动关闭下载窗口">
 <!ENTITY showFolder.label "显示此文件夹">

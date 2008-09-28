@@ -46,7 +46,7 @@
 <!ENTITY resetPassword.title "重置主密码">
 <!ENTITY resetPassword.text "如果重置主密码，您存储的所有Web和e-mail密码、表单数据、个人证书，还有私钥都将被忘记。您确定要重置主密码吗？">
 <!ENTITY getPassword.title "输入主密码">
-<!ENTITY getPassword.tokenName.label "安全设备">
+<!ENTITY getPassword.tokenName2.label "安全设备：">
 <!ENTITY getPassword.password.label "密码:">
 <!ENTITY piperror.title "错误">
 <!ENTITY pipalert.title "错误－无法恢复">
@@ -101,3 +101,6 @@
 <!ENTITY protectedAuth.title "保护的记号验证">
 <!ENTITY protectedAuth.msg "请验证该记号。认证方式依赖于记号的类型。">
 <!ENTITY protectedAuth.tokenName.label "记号：">
+<!ENTITY certErrorDlg.title "安全连接失败">
+<!ENTITY certErrorDlg.info1 "这可能是服务器配置的问题，或者由于有人冒充该服务器导致。">
+<!ENTITY certErrorDlg.info2 "如果您之前成功连接过该服务器，那么此错误可能是暂时的，请稍后重试。">
