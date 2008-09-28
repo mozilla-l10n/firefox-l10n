@@ -39,6 +39,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.clearList.tooltip "Прибирає завершені, скасовані та невдалі завантаження зі списку">
 <!ENTITY cmd.clearList.accesskey "О">
 <!ENTITY cmd.find.commandKey "f">
+<!ENTITY cmd.search.commandKey            "k">
 
 <!ENTITY closeWhenDone.label "Закрити після завершення завантажень">
 <!ENTITY closeWhenDone.tooltip "Закрити вікно із списком завантажень після завантаження всіх файлів">

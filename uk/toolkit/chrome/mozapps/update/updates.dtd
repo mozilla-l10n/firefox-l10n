@@ -10,7 +10,9 @@
 <!ENTITY cancel.accesskey "и">
 
 <!ENTITY noupdatesfound.title "Оновлення відсутні">
-<!ENTITY noupdatesfound.intro "Оновлення відсутні. &brandShortName; може періодично перевіряти наявність оновлень.">
+<!ENTITY  noupdatesautoenabled.intro      "Оновлення відсутні. &brandShortName; буде періодично перевіряти наявніть оновлень.">
+<!-- FIXME: localize -->
+<!ENTITY  noupdatesautodisabled.intro     "There are no updates available. Please check again later or enable &brandShortName;'s automatic update checking.">
 
 <!ENTITY incompatibleChecking.label "Перевірка чи не спричинить це оновлення проблем з вашими розширеннями та/чи темами…">
 <!ENTITY clickHere.label "Переглянути докладнішу інформацію про це оновлення">
@@ -62,7 +64,7 @@
 
 <!ENTITY installed.title "Оновлення встановлено">
 <!ENTITY installed.intro "Оновлення було успішно встановлено.">
-<!ENTITY whatsnew.label "Зміни в новій версії..">
+<!ENTITY whatsnew.label "Зміни в новій версії…">
 
 <!ENTITY update.details.label "Подробиці">
 <!ENTITY update.installedOn.label "Встановлено:">

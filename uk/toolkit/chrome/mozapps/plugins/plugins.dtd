@@ -21,3 +21,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label "Для роботи модуля(ів) потрібно перезапустити &brandShortName;. ">
   
 <!ENTITY missingPlugin.label "Клацніть тут щоб завантажити модуль.">
+
+<!-- FIXME: localize -->
+<!ENTITY blockedPlugin.label                                 "This plugin has been blocked for your protection.">
+<!ENTITY disabledPlugin.label                                "The plugin for this content has been disabled. Click here to manage your plugins.">

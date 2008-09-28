@@ -45,8 +45,6 @@
 
 <!ENTITY filterPrefs.label "Фільтр:">
 <!ENTITY filterPrefs.accesskey "і">
-<!ENTITY showAll.label "Показати все">
-<!ENTITY showAll.accesskey "о">
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "Ім’я налаштування">
