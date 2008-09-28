@@ -3,7 +3,7 @@
 <!ENTITY zoomEnlargeCmd.commandkey "+">
 <!ENTITY zoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 
-<!ENTITY zoomReduceCmd.label "Plus Petit">
+<!ENTITY zoomReduceCmd.label "Plus petit">
 <!ENTITY zoomReduceCmd.accesskey "P">
 <!ENTITY zoomReduceCmd.commandkey "-">
 
