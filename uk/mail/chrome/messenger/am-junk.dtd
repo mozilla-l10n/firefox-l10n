@@ -3,8 +3,11 @@
 <!ENTITY level.accesskey "В">
 
 <!ENTITY move.label "Переміщати спам в:">
+<!ENTITY move.accesskey "м">
 <!ENTITY junkFolderOn.label "Теку «Спам» на:">
+<!ENTITY junkFolderOn.accesskey "с">
 <!ENTITY otherFolder.label "Інше:">
+<!ENTITY otherFolder.accesskey "і">
 <!ENTITY purge1.label "Автоматично вилучати спам, давніший за">
 <!ENTITY purge1.accesskey "д">
 <!ENTITY purge2.label "днів">
@@ -16,4 +19,3 @@
 <!ENTITY ispHeaders.accesskey "р">
 
 <!ENTITY junkSettings.label "Налаштування спаму">
-

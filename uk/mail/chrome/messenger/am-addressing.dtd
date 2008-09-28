@@ -30,3 +30,4 @@
 <!ENTITY place.accesskey                      "і">
 <!ENTITY belowText.label                      "під цитатою (рекомендовано)">
 <!ENTITY aboveText.label                      "під відповіддю (над цитатою)">
+<!ENTITY directoriesNone.label     "Жодного"

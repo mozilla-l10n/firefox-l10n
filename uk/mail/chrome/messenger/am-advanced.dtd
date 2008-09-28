@@ -20,3 +20,6 @@
 <!ENTITY serverPort.label "Порт: ">
 <!ENTITY userName.label   "Ім’я користувача: ">
 <!ENTITY useSecureConnection.label   "Захищений зв’язок: ">
+
+<!-- FIXME: localize -->
+<!ENTITY useSecureAuthentication.label   "Secure Authentication: ">
