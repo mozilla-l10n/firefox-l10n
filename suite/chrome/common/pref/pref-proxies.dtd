@@ -1,22 +1,27 @@
-<!ENTITY pref.proxies.title "Proxies">
-<!ENTITY pref.proxies.desc "A Proxy is a network service that can filter and speed up your Internet connection.">
-<!ENTITY proxyTitle.label "Proxies instellen voor toegang tot het Internet">
-<!ENTITY directTypeRadio.label "Directe verbinding met het Internet">
-<!ENTITY directTypeRadio.accesskey "D">
-<!ENTITY manualTypeRadio.label "Handmatige proxy-instellingen">
-<!ENTITY manualTypeRadio.accesskey "H">
-<!ENTITY wpadTypeRadio.label "Automatically discover the proxy configuration">
-<!ENTITY wpadTypeRadio.accesskey "A">
-<!ENTITY autoTypeRadio.label "URL voor automatische proxy-instelling:">
-<!ENTITY autoTypeRadio.accesskey "U">
-<!ENTITY reload.label "Herladen">
-<!ENTITY reload.accesskey "L">
-<!ENTITY http.label "HTTP proxy:">
-<!ENTITY http.accesskey "X">
-<!ENTITY port.label "Poort:">
-<!ENTITY HTTPport.accesskey "P">
-<!ENTITY advanced.label "Advanced…">
-<!ENTITY advanced.accesskey "v">
-<!ENTITY noproxy.label "Geen proxy voor:">
-<!ENTITY noproxy.accesskey "N">
-<!ENTITY noproxyExplain.label "Voorbeeld: .mozilla.org, .net.nz">
+<!-- extracted from content/pref-proxies.xul -->
+
+<!--LOCALIZATION NOTE : FILE The Proxies preferences dialog --><!ENTITY pref.proxies.title "Proxies">
+<!ENTITY  pref.proxies.title            "Proxies">
+<!ENTITY  pref.proxies.desc             "A Proxy is a network service that can filter and speed up your Internet connection.">
+<!ENTITY  proxyTitle.label              "Proxies instellen voor toegang tot het Internet">
+<!ENTITY  directTypeRadio.label         "Directe verbinding met het Internet">
+<!ENTITY  directTypeRadio.accesskey     "D">
+<!ENTITY  systemTypeRadio.label         "Systeem proxy-instellingen gebruiken">
+<!ENTITY  systemTypeRadio.accesskey     "s">
+<!ENTITY  manualTypeRadio.label         "Handmatige proxy-instellingen">
+<!ENTITY  manualTypeRadio.accesskey     "H">
+<!ENTITY  wpadTypeRadio.label           "Proxyconfiguratie automatich ontdekken">
+<!ENTITY  wpadTypeRadio.accesskey       "A">
+<!ENTITY  autoTypeRadio.label           "URL voor automatische proxyconfiguratie:">
+<!ENTITY  autoTypeRadio.accesskey       "U">
+<!ENTITY  reload.label                  "Herladen">
+<!ENTITY  reload.accesskey              "L">
+<!ENTITY  http.label                    "HTTP proxy:">
+<!ENTITY  http.accesskey                "X">
+<!ENTITY  port.label                    "Poort:">
+<!ENTITY  HTTPport.accesskey            "P">
+<!ENTITY  advanced.label                "Uitgebreid…">
+<!ENTITY  advanced.accesskey            "v">
+<!ENTITY  noproxy.label                 "Geen proxy voor:">
+<!ENTITY  noproxy.accesskey             "N">
+<!ENTITY  noproxyExplain.label          "Voorbeeld: .mozilla.org, .net.nz, 192.168.1.0/24">

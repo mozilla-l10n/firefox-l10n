@@ -1,28 +1,31 @@
-<!ENTITY pref.proxies.advanced.title "Uitgebreide proxy voorkeuren">
-<!ENTITY protocols.caption "Protocol-Specific Proxies">
-<!ENTITY protocols.description "Dezelfde proxy kan alle hier genoemde protecollen verwerken">
-<!ENTITY ftp.label "FTP Proxy:">
-<!ENTITY ftp.accesskey "F">
-<!ENTITY gopher.label "Gopher Proxy:">
-<!ENTITY gopher.accesskey "G">
-<!ENTITY http.label "HTTP Proxy:">
-<!ENTITY http.accesskey "T">
-<!ENTITY reuseProxy.label "HTTP proxy-instellingen begruiken voor alle protocolen">
-<!ENTITY reuseProxy.accesskey "U">
-<!ENTITY ssl.label "SSL Proxy:">
-<!ENTITY ssl.accesskey "S">
-<!ENTITY socks.caption "Algemene proxy">
-<!ENTITY socks.description "Een SOCKS proxy is een algemen proxy die soms gebruikt wordt in een kantooromgeving">
-<!ENTITY socks.label "SOCKS Proxy:">
-<!ENTITY socks.accesskey "O">
-<!ENTITY socks4.label "SOCKS v4">
-<!ENTITY socks4.accesskey "C">
-<!ENTITY socks5.label "SOCKS v5">
-<!ENTITY socks5.accesskey "K">
-<!ENTITY socksRemoteDNS.label "Use for resolving hostnames (recommended for SOCKS v5)">
-<!ENTITY socksRemoteDNS.accesskey "e">
-<!ENTITY port.label "Port:">
-<!ENTITY HTTPport.accesskey "P">
-<!ENTITY SSLport.accesskey "o">
-<!ENTITY FTPport.accesskey "r">
-<!ENTITY SOCKSport.accesskey "t">
+<!--LOCALIZATION NOTE : FILE The Advanced Proxy Preferences dialog -->
+<!ENTITY pref.proxies.advanced.title  "Uitgebreide proxy voorkeuren">
+<!ENTITY protocols.caption            "Protocol-Specific Proxies">
+<!ENTITY protocols.description        "Dezelfde proxy kan alle hier genoemde protecollen verwerken">
+<!ENTITY http.label                   "HTTP Proxy:">
+<!ENTITY http.accesskey               "T">
+<!ENTITY ssl.label                    "SSL Proxy:">
+<!ENTITY ssl.accesskey                "S">
+<!ENTITY ftp.label                    "FTP Proxy:">
+<!ENTITY ftp.accesskey                "F">
+<!ENTITY gopher.label                 "Gopher Proxy:">
+<!ENTITY gopher.accesskey             "G">
+<!ENTITY reuseProxy.label             "HTTP proxy-instellingen begruiken voor alle protocolen">
+<!ENTITY reuseProxy.accesskey         "U">
+<!ENTITY port.label                   "Port:">
+<!ENTITY HTTPPort.accesskey           "P">
+<!ENTITY SSLPort.accesskey            "o">
+<!ENTITY FTPPort.accesskey            "r">
+<!ENTITY  gopherPort.accesskey        "">
+
+<!ENTITY socks.caption                "Algemene proxy">
+<!ENTITY socks.description            "Een SOCKS proxy is een algemen proxy die soms gebruikt wordt in een kantooromgeving">
+<!ENTITY socks.label                  "SOCKS Proxy:">
+<!ENTITY socks.accesskey              "O">
+<!ENTITY socks4.label                 "SOCKS v4">
+<!ENTITY socks4.accesskey             "C">
+<!ENTITY socks5.label                 "SOCKS v5">
+<!ENTITY socks5.accesskey             "K">
+<!ENTITY socksRemoteDNS.label         "Use for resolving hostnames (recommended for SOCKS v5)">
+<!ENTITY socksRemoteDNS.accesskey     "e">
+<!ENTITY SOCKSport.accesskey          "t">
