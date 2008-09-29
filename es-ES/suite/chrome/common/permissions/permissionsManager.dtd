@@ -6,6 +6,7 @@
 <!ENTITY removeall.label "Eliminar todos los sitios">
 <!ENTITY removeall.accesskey "e">
 <!ENTITY address.label "Dirección del sitio web:">
+<!ENTITY address.accesskey "D">
 <!ENTITY block.label "Bloquear">
 <!ENTITY block.accesskey "B">
 <!ENTITY session.label "Permitir durante la sesión">
