@@ -22,7 +22,7 @@
 <!ENTITY  acceptCookies.label           "Sites podem definir cookies">
 <!ENTITY  acceptCookies.accesskey       "S">
 
-<!ENTITY  acceptThirdParty.label        "Aceitar cookies de outros sites">
+<!ENTITY  acceptThirdParty.label        "Aceitar cookies de sites externos">
 <!ENTITY  acceptThirdParty.accesskey    "t">
 
 <!ENTITY  keepUntil.label               "Preservar cookies até:">

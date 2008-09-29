@@ -18,7 +18,7 @@
 <!ENTITY safeb.blocked.malware.title "Site denunciado como foco de ataques!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "O site <span id='malware_sitename'/> foi denunciado como sendo um foco de ataques e foi bloqueado baseado em suas preferências de segurança.">
-<!ENTITY safeb.blocked.malware.longDesc "<p>Focos de ataques são sites que tentam instalar programas que roubam informações pessoais, usam o seu computador para atacar outros ou danificam o seu sistema.</p>
+<!ENTITY safeb.blocked.malware.longDesc "<p>Focos de ataques são sites que tentam instalar aplicativos que roubam informações pessoais, usam o seu computador para atacar outros ou danificam o seu sistema.</p>
 <p>Alguns destes sites intencionalmente distribuem software nocivo, mas muitos são comprometidos sem o conhecimento ou permissão de seus responsáveis.</p>">
 
 <!ENTITY safeb.blocked.phishing.title "Site denunciado como fraude!">

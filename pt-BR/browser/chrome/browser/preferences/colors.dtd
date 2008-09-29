@@ -1,5 +1,5 @@
 <!ENTITY  colorsDialog.title              "Cores">
-<!ENTITY  window.width                    "45em">
+<!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  allowPagesToUse.label           "Páginas podem usar outras cores">
