@@ -42,7 +42,7 @@
 <!ENTITY setColor1.label "Clique em uma cor ou">
 <!ENTITY setColor2.label "forneça uma string de cor HTML">
 <!ENTITY setColor2.accessKey "C">
-<!ENTITY setColorExample.label "(exemplo: &quot;#0000ff&quot; ou &quot;blue&quot;):">
+<!ENTITY setColorExample.label "(exemplo: “#0000ff” ou “blue”):">
 <!ENTITY default.label "Padrão">
 <!ENTITY default.accessKey "d">
 <!ENTITY palette.label "Palete:">

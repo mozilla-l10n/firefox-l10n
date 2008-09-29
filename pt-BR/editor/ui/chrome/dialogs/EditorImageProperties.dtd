@@ -110,7 +110,7 @@
 <!ENTITY makePageBackgroundCheckbox.label "Make Page Background">
 <!ENTITY makePageBackgroundCheckbox.tooltip "Usar imagem com plano de fundo para esta página">
 <!ENTITY editImageButton.label "Editar imagem">
-<!ENTITY editImageButton.tooltip "Editar arquivo de imagem em outro programa">
+<!ENTITY editImageButton.tooltip "Editar arquivo de imagem em outro aplicativo">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Formulário">
