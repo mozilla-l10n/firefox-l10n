@@ -14,3 +14,5 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label "Знайсці больш звестак пра ўбудовы або знайсці адсутныя ўбудовы ўручную.">
 <!ENTITY pluginWizard.finalPage.restart.label "Трэба перазапусціць &brandShortName;, каб убудова(ы) пачала(і) працаваць.">
 <!ENTITY missingPlugin.label "Пстрыкніце тут, каб загрузіць убудову.">
+<!ENTITY disabledPlugin.label "Убудова для гэтага змесціва забаронена. Пстрыкніце тут, каб кіраваць вашымі ўбудовамі.">
+<!ENTITY blockedPlugin.label "Гэтая ўбудова заблакавана для вашай абароны.">
