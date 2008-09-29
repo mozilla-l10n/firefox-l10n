@@ -65,6 +65,7 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "ה">
 <!ENTITY editRewrapCmd.label "בצע מחדש גלישת שורות">
+<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "מחק">
 <!ENTITY deleteCmd.key "D">
@@ -91,6 +92,10 @@
 <!-- ### ENTITY showComposeToolbarCmd.accesskey "ד" -->
 <!-- ### ENTITY showFormatToolbarCmd.label "סרגל כלים עיצוב" -->
 <!-- ### ENTITY showFormatToolbarCmd.accesskey "ע" -->
+<!ENTITY showCompositionToolbarCmd.label "סרגל כלים כתיבה">
+<!ENTITY showCompositionToolbarCmd.accesskey "כ">
+<!ENTITY showFormattingBarCmd.label "סרגל עיצוב">
+<!ENTITY showFormattingBarCmd.accesskey "ע">
 <!ENTITY showTaskbarCmd.label "שורת מצב">
 <!ENTITY showTaskbarCmd.accesskey "ש">
 <!ENTITY customizeToolbar.label "התאמה אישית...">
@@ -113,6 +118,8 @@
 <!ENTITY attachVCard.accesskey "v">
 <!ENTITY returnReceiptMenu.label "קבלה חוזרת">
 <!ENTITY returnReceiptMenu.accesskey "t">
+<!ENTITY dsnMenu.label "יידוע מצב קבלה">
+<!ENTITY dsnMenu.accesskey "י">
 <!ENTITY outputFormatMenu.label "עיצוב">
 <!ENTITY outputFormatMenu.accesskey "f">
 <!ENTITY autoFormatCmd.label "זיהוי אוטומטי">
@@ -236,6 +243,8 @@
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "מחק">
 <!ENTITY delete.accesskey "ח">
+<!ENTITY renameAttachment.label "שנה שם…">
+<!ENTITY renameAttachment.accesskey "ש">
 <!ENTITY selectAll.label "בחר הכל">
 <!ENTITY selectAll.accesskey "ב">
 <!ENTITY attachFile.label "צרף קובץ (קבצים)...">
