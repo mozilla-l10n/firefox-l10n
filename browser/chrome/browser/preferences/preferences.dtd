@@ -10,7 +10,7 @@
 <!ENTITY  paneMain.title          "Principal">
 <!ENTITY  paneTabs.title          "Abas">
 <!ENTITY  paneContent.title       "Conteúdo">
-<!ENTITY  paneApplications.title  "Programas">
+<!ENTITY  paneApplications.title  "Aplicativos">
 <!ENTITY  panePrivacy.title       "Privacidade">
 <!ENTITY  paneSecurity.title      "Segurança">
 <!ENTITY  paneAdvanced.title      "Avançado">

@@ -8,7 +8,7 @@
 <!ENTITY file.accesskey                 "q">
 <!ENTITY file.close.label               "Fechar">
 <!ENTITY file.close.accesskey           "F">
-<!ENTITY cmd.close.key                  "w">
+<!ENTITY cmd.close.key                  "W">
 <!ENTITY edit.label                     "Editar">
 <!ENTITY edit.accesskey                 "E">
 <!ENTITY views.label                    "Exibir">
@@ -51,25 +51,25 @@
 
 <!ENTITY cmd.select_all.label "Selecionar tudo">
 <!ENTITY cmd.select_all.accesskey "S">
-<!ENTITY cmd.select_all.key "a">
+<!ENTITY cmd.select_all.key "A">
 
 <!ENTITY cmd.edit_cut.label         "Recortar">
 <!ENTITY cmd.edit_cut.accesskey     "t">
-<!ENTITY cmd.edit_cut.key           "x">
+<!ENTITY cmd.edit_cut.key           "X">
 <!ENTITY cmd.edit_copy.label        "Copiar">
 <!ENTITY cmd.edit_copy.accesskey    "C">
-<!ENTITY cmd.edit_copy.key          "c">
+<!ENTITY cmd.edit_copy.key          "C">
 <!ENTITY cmd.edit_paste.label       "Colar">
 <!ENTITY cmd.edit_paste.accesskey   "o">
-<!ENTITY cmd.edit_paste.key         "v">
+<!ENTITY cmd.edit_paste.key         "V">
 <!ENTITY cmd.edit_delete.label      "Excluir">
 <!ENTITY cmd.edit_delete.accesskey  "x">
 <!ENTITY cmd.edit_undo.label        "Desfazer">
 <!ENTITY cmd.edit_undo.accesskey    "D">
-<!ENTITY cmd.edit_undo.key          "z">
+<!ENTITY cmd.edit_undo.key          "Z">
 <!ENTITY cmd.edit_redo.label        "Refazer">
 <!ENTITY cmd.edit_redo.accesskey    "R">
-<!ENTITY cmd.edit_redo.key          "y">
+<!ENTITY cmd.edit_redo.key          "Y">
 
 <!ENTITY cmd.open.label                  "Abrir">
 <!ENTITY cmd.open.accesskey              "r">
@@ -83,7 +83,7 @@
 <!ENTITY cmd.properties.label      "Propriedades">
 <!ENTITY cmd.properties.accesskey  "P">
 
-<!ENTITY cmd.show_info.key  "i">
+<!ENTITY cmd.show_info.key  "I">
 
 <!ENTITY cmd.rename.label      "Renomear">
 <!ENTITY cmd.rename.accesskey  "m">
@@ -185,7 +185,7 @@
 <!ENTITY advancedSearch.sortby_desc.label          "ordem decrescente">
 <!ENTITY advancedSearch.max.label                  "Máximo de resultados: ">
 
-<!ENTITY cmd.find.key  "f">
+<!ENTITY cmd.find.key  "F">
 
 <!ENTITY feed.subscribe.label    "RSS">
 <!ENTITY feed.subscribe.tooltip  "Inscrever">

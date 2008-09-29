@@ -1,14 +1,11 @@
-<!ENTITY newPagesIn.label             "Novas páginas devem ser abertas:">
-<!ENTITY inNewWindow.label            "Em nova janela">
-<!ENTITY inNewWindow.accesskey        "m">
-<!ENTITY inNewTab.label               "Em nova aba">
-<!ENTITY inNewTab.accesskey           "E">
+<!ENTITY newWindowsAsTabs.label       "Abrir novas janelas em novas abas">
+<!ENTITY newWindowsAsTabs.accesskey   "b">
 
 <!ENTITY warnCloseMultipleTabs.label  "Alertar ao fechar várias abas">
 <!ENTITY warnCloseMultipleTabs.accesskey  "A">
 
 <!ENTITY warnOpenManyTabs.label       "Alertar que o carregamento de muitas abas pode tornar o &brandShortName; lento">
-<!ENTITY warnOpenManyTabs.accesskey   "t">
+<!ENTITY warnOpenManyTabs.accesskey   "e">
 
 <!ENTITY showTabBar.label             "Sempre exibir a barra de abas">
 <!ENTITY showTabBar.accesskey         "S">

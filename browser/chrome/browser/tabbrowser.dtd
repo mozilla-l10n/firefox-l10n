@@ -16,3 +16,4 @@
 <!ENTITY  bookmarkThisTab.accesskey   "d">
 <!ENTITY  undoCloseTab.label          "Reabrir aba">
 <!ENTITY  undoCloseTab.accesskey      "b">
+<!ENTITY  newTabButton.tooltip        "Abrir uma nova aba">

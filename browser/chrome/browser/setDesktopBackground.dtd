@@ -6,4 +6,4 @@
 <!ENTITY color.label                "Cor:">
 <!ENTITY setDesktopBackground.title "Definir papel de parede">
 <!ENTITY openDesktopPrefs.label     "Abrir preferências da área de trabalho">
-<!ENTITY closeWindow.key            "w">
+<!ENTITY closeWindow.key            "W">

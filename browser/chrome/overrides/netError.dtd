@@ -80,7 +80,7 @@
 <!ENTITY protocolNotFound.title "O endereço não foi compreendido">
 <!ENTITY protocolNotFound.longDesc "
 <ul>
-  <li>Pode ser necessário instalar algum programa para abrir este necessário.</li>
+  <li>Pode ser necessário instalar algum aplicativo para abrir este endereço.</li>
 </ul>
 ">
 
@@ -142,7 +142,7 @@
 
 <!ENTITY malwareBlocked.title "Site suspeito de ser um foco de ataques!">
 <!ENTITY malwareBlocked.longDesc "
-<p>Focos de ataques são sites que tentam instalar programas que roubam informações pessoais, usam o seu computador para atacar outros ou danificam o seu sistema.</p>
+<p>Focos de ataques são sites que tentam instalar aplicativos que roubam informações pessoais, usam o seu computador para atacar outros ou danificam o seu sistema.</p>
 <p>Proprietários de sites que acreditem estar sendo injustamente classificados como um foco de ataques podem <a href='http://www.stopbadware.org/home/reviewinfo' >solicitar uma reavaliação</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Site suspeito de ser uma fraude!">

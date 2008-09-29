@@ -57,7 +57,7 @@
 <!ENTITY  generalSize           "Tamanho:">
 <!ENTITY  generalReferrer       "Página de origem:">
 <!ENTITY  generalSource         "Origem do cache:">
-<!ENTITY  generalModified       "Modificado em:">
+<!ENTITY  generalModified       "Modificada em:">
 <!ENTITY  generalEncoding       "Codificação:">
 <!ENTITY  generalMetaName       "Nome">
 <!ENTITY  generalMetaContent    "Valor">
