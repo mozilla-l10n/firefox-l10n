@@ -5,7 +5,7 @@
 
 <!ENTITY pluginWizard.availablePluginsPage.title             "Download dos plugins disponíveis">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "Estes plugins estão disponíveis:">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Clique em Avançar para instalar os plugins selecionados.">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Clique em “Avançar” para instalar os plugins selecionados.">
 <!ENTITY pluginWizard.availablePluginsPage.installerUI       "Alguns plugins podem solicitar mais informações durante a instalação.">
 
 <!ENTITY pluginWizard.licensePage.title                      "Licenças do plugin">
@@ -21,3 +21,5 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "O &brandShortName; precisa ser reiniciado para que os plugins funcionem.">
   
 <!ENTITY missingPlugin.label                                 "Clique aqui para instalar o plugin">
+<!ENTITY disabledPlugin.label                                "O plugin deste conteúdo foi desativado. Clique aqui para gerenciar seus plugins.">
+<!ENTITY blockedPlugin.label                                 "Este plugin foi bloqueado para sua proteção.">

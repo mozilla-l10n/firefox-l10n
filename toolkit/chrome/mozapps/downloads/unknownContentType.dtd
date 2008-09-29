@@ -44,7 +44,7 @@
 
 <!ENTITY  openWith.label              "Abrir com:">
 <!ENTITY  openWith.accesskey          "A">
-<!ENTITY  other.label                 "Outro programa…">
+<!ENTITY  other.label                 "Outro aplicativo…">
 
 <!ENTITY  saveFile.label              "Salvar arquivo">
 <!ENTITY  saveFile.accesskey          "S">

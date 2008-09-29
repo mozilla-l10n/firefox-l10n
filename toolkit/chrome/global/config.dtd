@@ -40,7 +40,7 @@
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 <!ENTITY aboutWarningTitle.label "HIC SUNT DRACONES">
-<!ENTITY aboutWarningText.label "A modificação destas configurações avançadas pode prejudicar a estabilidade, a segurança e o desempenho do programa. Você deve continuar somente se estiver seguro do que estiver fazendo.">
+<!ENTITY aboutWarningText.label "A modificação destas configurações avançadas pode prejudicar a estabilidade, a segurança e o desempenho deste aplicativo. Você deve continuar somente se estiver seguro do que estiver fazendo.">
 <!ENTITY aboutWarningButton.label "Serei cuidadoso, eu prometo!">
 <!ENTITY aboutWarningCheckbox.label "Exibir este alerta na próxima vez">
 
@@ -62,7 +62,7 @@
 <!ENTITY copyPref.label "Copiar">
 <!ENTITY copyPref.accesskey "C">
 <!ENTITY copyName.label "Copiar nome">
-<!ENTITY copyName.accesskey "C">
+<!ENTITY copyName.accesskey "o">
 <!ENTITY copyValue.label "Copiar valor">
 <!ENTITY copyValue.accesskey "v">
 <!ENTITY modify.label "Editar…">

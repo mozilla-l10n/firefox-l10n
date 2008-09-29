@@ -1,4 +1,4 @@
-<!ENTITY  updateWizard.title              "Atualização de programa">
+<!ENTITY  updateWizard.title              "Atualização de aplicativo">
 
 <!ENTITY  window.width                    "36em">
 <!ENTITY  window.macWidth                 "39em">
@@ -22,10 +22,10 @@
 
 <!ENTITY  upgrade.evangelism              "É enfaticamente recomendado que você atualize o &brandShortName; assim que for possível.">
 
-<!ENTITY  license.instructions            "Caso concorde com os termos deste acordo, clique abaixo em “Eu concordo” para continuar com a instalação desta atualização.">
+<!ENTITY  license.instructions            "Se concordar com os termos deste acordo, clique abaixo em “Eu concordo” para continuar com a instalação desta atualização.">
 
-<!ENTITY  license.titleText               "Acordo de licença de software">
-<!ENTITY  license.introText               "Termos e condições para o uso deste software.">
+<!ENTITY  license.titleText               "Acordo de licença de aplicativo">
+<!ENTITY  license.introText               "Termos e condições para o uso deste aplicativo.">
 <!ENTITY  license.instructionText         "Por favor, leia o acordo de licença. Use a barra de rolagem para examinar o restante do acordo.">
 <!ENTITY  license.accept                  "Eu aceito os termos do acordo de licença">
 <!ENTITY  license.accept.accesskey        "E">
@@ -35,7 +35,7 @@
 <!ENTITY  downloading.title               "Recebendo a atualização">
 <!ENTITY  downloading.intro               "Recebendo a atualização…">
 <!ENTITY  connecting.label                "Conectando-se ao servidor de atualização…">
-<!ENTITY  verificationFailedText.label    "O &brandShortName; não pôde comprovar a integridade da atualização incremental recebida. O pacote de atualização completo está sendo recebido.">
+<!ENTITY  verificationFailedText.label    "O &brandShortName; não pôde comprovar a integridade da atualização incremental que foi recebida. O pacote de atualização completo está sendo recebido.">
 
 <!ENTITY  details.link                    "Detalhes">
 <!ENTITY  pause.label                     "Pausa">
@@ -51,11 +51,10 @@
 <!ENTITY  errorpatching.intro             "A atualização incremental não pôde ser aplicada. O &brandShortName; tentará de novo recebendo a atualização completa.">
 
 <!ENTITY  finished.title                  "Atualização recebida">
-<!ENTITY  finished.text                   "A atualização foi recebida e verificada com êxito.
-Será instalada quando o &brandShortName; for reiniciado.">
+<!ENTITY  finished.text                   "A atualização foi recebida e verificada com êxito. Será instalada quando o &brandShortName; for reiniciado.">
 
 <!ENTITY  finishedBackground.title        "Atualização pronta para instalar">
-<!ENTITY  finishedBackground.text         "O &brandShortName; recebeu e verificou uma importante atualização. Clique no link abaixo para mais detalhes.">
+<!ENTITY  finishedBackground.text         "O &brandShortName; recebeu e verificou uma importante atualização. Clique no link abaixo para mais informações.">
 <!ENTITY  finishedBackground.name         "Atualização:">
 <!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
 <!ENTITY  finishedBackground.more1        "Clique em “Reiniciar o &brandShortName; agora” para instalar a atualização.">
