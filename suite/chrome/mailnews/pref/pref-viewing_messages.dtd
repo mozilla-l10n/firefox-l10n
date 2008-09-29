@@ -50,12 +50,9 @@
 <!ENTITY color.label                      "Kleur:">
 <!ENTITY color.accesskey                  "K">
 <!ENTITY displayPlainText.caption         "Platte tekstberichten">
-<!ENTITY plainTextFont.label              "Volgende lettertype wijdte gebruiken">
+<!ENTITY fontPlainText.label              "Lettertype:">
+<!ENTITY fontPlainText.accesskey          "L">
 <!ENTITY displayQuoted.label              "Geciteerde-berichteninstellingen">
-<!ENTITY fixedWidth.label                 "Vaste-breedte-lettertype">
-<!ENTITY fixedWidth.accesskey             "V">
-<!ENTITY variableWidth.label              "Variabele-breedte-lettertype">
-<!ENTITY variableWidth.accesskey          "r">
 <!ENTITY readingMessagesHeader.label      "Voor inkomende berichten">
 <!ENTITY messageWrapping.label            "Berichtterugloop">
 <!ENTITY wrapInMsg.label                  "Pas de tekst zodat het past binnen de vensterbreedte">
@@ -82,3 +79,5 @@
 <!ENTITY existingWindowRadio.accesskey    "e">
 <!ENTITY disableContent.label             "Blokkkeer afbeeldingen en andere inhoud van bronnen op afstand">
 <!ENTITY disableContent.accesskey         "B">
+<!ENTITY showCondensedAddresses.label     "Van mensen in mijn adresboek alleen weergavenaam tonen">
+<!ENTITY showCondensedAddresses.accesskey "m">
