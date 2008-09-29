@@ -26,8 +26,8 @@
 <!ENTITY saveToDisk.label      "Salvar">
 <!ENTITY saveToDisk.accesskey  "S">
 
-<!ENTITY useSystemDefault.label        "Abrir com #1 (o programa padrão)">
-<!ENTITY useSystemDefault.noDesc.label "Abrir com o programa padrão">
+<!ENTITY useSystemDefault.label        "Abrir com #1 (o aplicativo padrão)">
+<!ENTITY useSystemDefault.noDesc.label "Abrir com o aplicativo padrão">
 <!ENTITY useSystemDefault.accesskey    "A">
 
 <!ENTITY openUsing.label       "Abrir com">
@@ -36,7 +36,7 @@
 <!ENTITY chooseApp.label       "Procurar…">
 <!ENTITY chooseApp.accesskey   "P">
 
-<!ENTITY chooseAppFilePickerTitle "Selecionar programa">
+<!ENTITY chooseAppFilePickerTitle "Selecionar aplicativo">
 
-<!ENTITY badApp                 "O programa que você selecionou (“#1”) não foi encontrado. Verifique o nome do arquivo ou escolha outro programa.">
-<!ENTITY badApp.title           "Programa não localizado">
+<!ENTITY badApp                 "O aplicativo que você selecionou (“#1”) não foi encontrado. Verifique o nome do arquivo ou escolha outro aplicativo.">
+<!ENTITY badApp.title           "Aplicativo não localizado">

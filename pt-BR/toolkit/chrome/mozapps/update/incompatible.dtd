@@ -1,7 +1,7 @@
 
 <!ENTITY  incompatible.title        "Itens incompatíveis">
 <!ENTITY  incompatible.intro        "Estes itens não são compatíveis com a atualização do &brandShortName; e serão desativados quando ela for instalada:">
-<!ENTITY  incompatible.update       "O &brandShortName; periodicamente verificará se há atualizações deles a fim de descobrir a disponibilidade de versões compatíveis.">
+<!ENTITY  incompatible.update       "O &brandShortName; periodicamente verificará se há atualizações deles a fim de encontrar versões compatíveis.">
 <!ENTITY  incompatible.suffix       "A atualização do &brandShortName; contém importantes aprimoramentos de segurança. Para sua proteção, é enfaticamente recomendado que você atualize o &brandShortName; (mesmo que algumas extensões e temas tornem-se incompatíveis).">
                                      
 <!ENTITY  closebutton.label         "Fechar">
