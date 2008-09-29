@@ -308,7 +308,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label "Масштаб">
 <!ENTITY fullZoom.accesskey "ш">
 
-<!ENTITY newTabButton.tooltip "Відкрити нову вкладку">
 <!ENTITY newWindowButton.tooltip "Відкрити нове вікно">
 <!ENTITY sidebarCloseButton.tooltip "Закрити бічну панель">
 

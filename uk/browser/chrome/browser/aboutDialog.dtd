@@ -1,7 +1,10 @@
 <!ENTITY aboutDialog.title "Про &brandFullName;">
 <!ENTITY copyright "Учасники проекту">
 <!ENTITY copyright.accesskey "У">
+<!ENTITY copyrightGNOME.accesskey   "У">
 <!ENTITY aboutLink "&lt; Про &brandFullName;">
 <!ENTITY aboutLink.accesskey "П">
 <!ENTITY aboutVersion "версія">
 <!ENTITY copyrightInfo "©1998-2008 Автори коду Mozilla. Всі права захищені. Mozilla Firefox  і логотипи Mozilla Firefox є торговими марками фундації Mozilla.">
+<!ENTITY closeCmdGNOME.accesskey    "З">
+<!ENTITY closeCmdGNOME.label        "Закрити">
