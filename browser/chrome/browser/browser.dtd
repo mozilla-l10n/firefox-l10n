@@ -243,7 +243,6 @@
 <!ENTITY fullZoomToggleCmd.accesskey "p">
 <!ENTITY fullZoom.label "Tamaño">
 <!ENTITY fullZoom.accesskey "T">
-<!ENTITY newTabButton.tooltip "Abrir una pestaña nueva">
 <!ENTITY newWindowButton.tooltip "Abrir una ventana nueva">
 <!ENTITY sidebarCloseButton.tooltip "Cerrar panel lateral">
 <!ENTITY cutButton.tooltip "Cortar">
