@@ -46,11 +46,11 @@
 <!ENTITY widthEditField.accessKey "B">
 <!ENTITY pixelsPopup.value "piksels">
 <!ENTITY alignmentBox.label "Utlijning">
-<!ENTITY leftRadio.value "Links">
+<!ENTITY leftRadio.label "Links">
 <!ENTITY leftRadio.accessKey "L">
-<!ENTITY centerRadio.value "Midden">
+<!ENTITY centerRadio.label "Midden">
 <!ENTITY centerRadio.accessKey "M">
-<!ENTITY rightRadio.value "Rjochts">
+<!ENTITY rightRadio.label "Rjochts">
 <!ENTITY rightRadio.accessKey "R">
 
 <!ENTITY threeDShading.label "3D-skaad">
