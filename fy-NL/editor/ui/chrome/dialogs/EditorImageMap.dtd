@@ -47,58 +47,49 @@
 <!ENTITY mapfileMenu.label "Bestân">
 <!ENTITY mapfilemenu.accesskey "B">
 <!ENTITY clearCmd.label "Wisse">
-<!ENTITY mapfileclear.accesskey "W">
+<!ENTITY clearCmd.accesskey "W">
 <!ENTITY closeCmd.label "Slute">
-<!ENTITY mapfileclose.accesskey "S">
+<!ENTITY closeCmd.accesskey "S">
 
 <!-- Edit menu -->
 <!ENTITY mapeditMenu.label "Bewurkje">
 <!ENTITY mapeditmenu.accesskey "w">
 <!ENTITY cutCmd.label "Knippe">
-<!ENTITY mapeditcut.accesskey "K">
+<!ENTITY cutCmd.accesskey "K">
 <!ENTITY copyCmd.label "Kopiearje">
-<!ENTITY mapeditcopy.accesskey "o">
+<!ENTITY copyCmd.accesskey "o">
 <!ENTITY pasteCmd.label "Plakke">
-<!ENTITY mapeditpaste.accesskey "P">
+<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY selectallCmd.label "Alles selektearje">
-<!ENTITY mapselectall.accesskey "s">
+<!ENTITY selectallCmd.accesskey "s">
 <!ENTITY propsCmd.label "Hotspot-eigenskippen">
-<!ENTITY mapeditprops.accesskey "h">
+<!ENTITY propsCmd.accesskey "h">
 
 <!-- View menu -->
 <!ENTITY mapviewMenu.label "Byld">
 <!ENTITY mapviewmenu.accesskey "d">
 <!ENTITY showhideTbarCmd.label "Arkbalke ferstoppe">
-<!ENTITY mapviewtbar.accesskey "t">
+<!ENTITY showhideTbarCmd.accesskey "t">
 <!-- Scaling -->
 <!ENTITY mapviewScale.label "Skeal">
 <!ENTITY mapviewscale.accesskey "S">
 <!ENTITY apercentCmd.label "100">
-<!ENTITY zoomone.accesskey "1">
+<!ENTITY apercentCmd.accesskey "1">
 <!ENTITY bpercentCmd.label "200">
-<!ENTITY zoomtwo.accesskey "2">
+<!ENTITY bpercentCmd.accesskey "2">
 <!ENTITY cpercentCmd.label "400">
-<!ENTITY zoomthree.accesskey "4">
-<!-- end scaling-->
-<!ENTITY contrastCmd.label "Kontrast">
-<!ENTITY contrast.accesskey "n">
-
-<!-- Help menu -->
-<!ENTITY maphelpMenu.label "Help">
-<!ENTITY maphelpmenu.accesskey "H">
-<!ENTITY aboutCmd.label "Oer">
-<!ENTITY about.accesskey "O">
+<!ENTITY cpercentCmd.accesskey "4">
 
 <!ENTITY zoominCmd.label "Ynzoome">
 <!ENTITY zoomoutCmd.label "Utzoome">
 <!ENTITY delSpotCmd.label "Punt fuortsmite">
 
 <!-- Keys -->
-<!ENTITY clear.accesskey "d">
-<!ENTITY selectall.accesskey "a">
-<!ENTITY close.accesskey "l">
-<!ENTITY cut.accesskey "x">
-<!ENTITY copy.accesskey "c">
-<!ENTITY paste.accesskey "v">
-<!ENTITY props.accesskey "p">
-<!ENTITY tbar.accesskey "t">
+<!ENTITY clear.key "d">
+<!ENTITY selectall.key "a">
+<!ENTITY close.key "l">
+<!ENTITY cut.key "x">
+<!ENTITY copy.key "c">
+<!ENTITY paste.key "v">
+<!ENTITY props.key "p">
+<!ENTITY tbar.key "t">
