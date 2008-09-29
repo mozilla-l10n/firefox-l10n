@@ -66,14 +66,9 @@
 <!-- Add HTML Domain Name -->
 <!ENTITY add.htmltitle                "HTML domeinnaam toevoegen">
 <!ENTITY add.htmldomain               "HTML domeinnaam:">
-<!ENTITY add.htmldomain.accesskey     "H">
 <!ENTITY add.plaintexttitle           "Platte tekstdomeinnaam toevoegen">
 <!ENTITY add.plaintextdomain          "Platte tekstdomeinnaam:">
-<!ENTITY add.plaintext.accesskey      "P">
 
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
 <!ENTITY domainnameError.title        "Domeinnaam fout">
-<!ENTITY duplicationError.label       "De domeinnaam @string@ bestaat al in de lijst.">
-
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY dualEntryError.label         "Een domeinnaam mag niet voorkomen in zowel de HTML als de platte tekst lijst. De domeinnaam @string@ bestaat al.">
+<!ENTITY invalidEntryError.label      "De Domeinnaam @string@ is ongeldig en wordt genegeerd. Geldige domeinnamen bevatten minstens een '.' met karakters aan elke kant daarvan.">
