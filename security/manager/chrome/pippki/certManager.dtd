@@ -76,8 +76,8 @@
 <!ENTITY certmgr.editsslcert.title            "Editar as configurações de confiança dos certificados do site">
 <!ENTITY certmgr.editcert.edittrust           "Editar as configurações de confiança:">
 <!ENTITY certmgr.editcert.trustssl            "O certificado pode identificar sites">
-<!ENTITY certmgr.editcert.trustemail          "O certificado pode identificar usuários de mail">
-<!ENTITY certmgr.editcert.trustobjsign        "O certificado pode identificar desenvolvedores de programas">
+<!ENTITY certmgr.editcert.trustemail          "O certificado pode identificar usuários de email">
+<!ENTITY certmgr.editcert.trustobjsign        "O certificado pode identificar desenvolvedores de aplicativos">
 <!ENTITY certmgr.editsslcert.edittrust        "Editar configurações de confiança do certificado">
 <!ENTITY certmgr.editsslcert.dotrust          "Considerar confiável a autenticidade deste certificado">
 <!ENTITY certmgr.editsslcert.donttrust        "Não considerar confiável a autenticidade deste certificado">
