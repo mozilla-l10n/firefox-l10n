@@ -20,4 +20,6 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label "Informeu-vos sobre els connectors o cerqueu manualments els connectors que hi manquen.">
 <!ENTITY pluginWizard.finalPage.restart.label "Cal que es reiniciï el &brandShortName; per a que els connectors funcionin.">
 <!ENTITY missingPlugin.label                                 "Feu clic ací per a baixar el connector.">
+<!ENTITY disabledPlugin.label                                "S'ha inhabilitat el connector per a aquest contingut. Feu clic ací per a gestionar els vostres connectors.">
+<!ENTITY blockedPlugin.label                                 "S'ha blocat aquest connector per la vostra protecció.">
 
