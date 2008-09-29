@@ -10,8 +10,10 @@
 <!ENTITY cancel.accesskey "N">
 
 <!ENTITY noupdatesfound.title "Neniu ĝisdatigo trovita">
-<!ENTITY noupdatesfound.intro "Ne estas novaj ĝisdatigoj disponeblaj. &brandShortName; povas kontroli 
-periode ĉu estas novaj ĝisdatigoj.">
+<!ENTITY noupdatesautoenabled.intro "There are no updates available. &brandShortName; will check
+                                           periodically for updates.">
+<!ENTITY noupdatesautodisabled.intro "There are no updates available. Please check again later or enable
+                                           &brandShortName;'s automatic update checking.">
 
 <!ENTITY incompatibleChecking.label "Kontrolo, ĉu tiu ĉi ĝisdatigo okazigos problemojn al viaj etendoprogramoj kaj/aŭ etosoj…">
 <!ENTITY clickHere.label "Vidi plian informon pri ĉi tiu ĝisdatigo">

@@ -222,6 +222,8 @@
 <!ENTITY reloadFrameCmd.accesskey "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Vidi fonton de selekto">
 <!ENTITY viewPartialSourceForMathMLCmd.label "Vidi fonton de MathML">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label "Vidi fonton de paĝo">
 <!ENTITY viewPageSourceCmd.accesskey "V">

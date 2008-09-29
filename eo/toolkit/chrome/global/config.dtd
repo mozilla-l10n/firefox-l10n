@@ -45,8 +45,6 @@
 
 <!ENTITY filterPrefs.label "Filtrilo:">
 <!ENTITY filterPrefs.accesskey "I">
-<!ENTITY showAll.label "Montri ĉion">
-<!ENTITY showAll.accesskey "O">
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "Nomo de prefero">

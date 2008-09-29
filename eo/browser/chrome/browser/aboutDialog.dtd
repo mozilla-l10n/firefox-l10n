@@ -1,9 +1,12 @@
 <!ENTITY aboutDialog.title "Pri &brandFullName;">
-<!ENTITY copyright "Kreditoj">
+<!ENTITY copyright "Agnosko">
 <!ENTITY copyright.accesskey "K">
+<!ENTITY copyrightGNOME.accesskey "r">
 <!ENTITY aboutLink "&lt; Pri &brandFullName;">
 <!ENTITY aboutLink.accesskey "A">
 <!ENTITY aboutVersion "versio">
+<!ENTITY closeCmdGNOME.label "Fermi">
+<!ENTITY closeCmdGNOME.accesskey "F">
 <!ENTITY copyrightInfo "&#169;1998-2008 Contributors. All Rights Reserved. Firefox and the 
-                                 Firefox logos are trademarks of the Mozilla Foundation.  All rights 
-                                 reserved.">
+Firefox logos are trademarks of the Mozilla Foundation.  All rights 
+reserved.">

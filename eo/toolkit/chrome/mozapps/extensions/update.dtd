@@ -6,7 +6,7 @@
 <!ENTITY offline.toggleOffline.accesskey "K">
 
 <!ENTITY mismatch.win.title "Nekongruaj kromprogramoj">
-<!ENTITY mismatch.top.label "La jenaj kromprogramoj ne kongruas kun tiu ĉi versio de
+<!ENTITY mismatch.top.label "La jenaj kromprogramoj ne kongruas kun tiu ĉi versio de 
 &brandShortName; kaj tial ili estis malaktivigitaj:">
 <!ENTITY mismatch.bottom.label "&brandShortName; povas kontroli ĉu ekzistas kongruaj versioj 
 de tiuj ĉi kromprogramoj.">
@@ -30,14 +30,14 @@ estas nuntempe malaktiva. Vi povas ŝanĝi tiun agordon malsupre.">
 nekongruaj kromprogramoj.">
 <!ENTITY noupdates.error.desc "Okazis kelkaj problemoj dum la klopodo trovi ĝisdatigojn.">
 <!ENTITY noupdates.checkEnabled.desc "&brandShortName; regule kontrolos kaj informos al vi 
- ĉu ekzistas kongruaj ĝisdatigoj por tiuj ĉi kromprogramoj.">
+ĉu ekzistas kongruaj ĝisdatigoj por tiuj ĉi kromprogramoj.">
 
 <!ENTITY finished.wizard.title "Kongruaj kromprogramoj instalitaj">
 <!ENTITY finished.top.label "&brandShortName; instalis la ĝisdatigojn por viaj kromprogramoj.">
 <!ENTITY finished.checkDisabled.desc "&brandShortName; povas regule kontroli kaj informi al vi 
 kiam ĝisdatigoj por kromprogramoj estas trovitaj.">
 <!ENTITY finished.checkEnabled.desc "&brandShortName; regule kontrolos kaj informos al vi 
-
+ 
 kiam ĝisdatigoj por kromprogramoj estos trovitaj.">
 
 <!ENTITY adminDisabled.wizard.title "Ne eblas kontroli la ekziston de ĝisdatigoj">

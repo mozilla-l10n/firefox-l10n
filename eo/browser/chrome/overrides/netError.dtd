@@ -10,27 +10,26 @@
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Aliro al tiu ĉi adreso estas limigata">
-<!ENTITY deniedPortAccess.longDesc "Project-Id-Version: netError.dtd
+<!ENTITY deniedPortAccess.longDesc "Project-Id-Version: netError.dtd 
 Report-Msgid-Bugs-To: 
-POT-Creation-Date: 2008-04-22 15:54+0200
-PO-Revision-Date: 2008-05-26 03:29-0300
-Last-Translator: Eduardo Trapani
-Language-Team: Esperanto <es@li.org>
-MIME-Version: 1.0
-Content-Type: text/plain; charset=UTF-8
-Content-Transfer-Encoding: 8bit
-Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;
-X-Generator: KBabel 1.11.4
-X-Accelerator-Marker: 
-">
+POT-Creation-Date: 2008-04-22 15:54+0200 
+PO-Revision-Date: 2008-05-26 03:29-0300 
+Last-Translator: Eduardo Trapani 
+Language-Team: Esperanto <es@li.org> 
+MIME-Version: 1.0 
+Content-Type: text/plain; charset=UTF-8 
+Content-Transfer-Encoding: 8bit 
+Plural-Forms: nplurals=INTEGER; plural=EXPRESSION; 
+X-Generator: KBabel 1.11.4 
+X-Accelerator-Marker: ">
 
 <!ENTITY dnsNotFound.title "Servilo ne trovita">
 <!ENTITY dnsNotFound.longDesc "<ul> 
 <li>Kontrolu ĉu estas eraroj en la adreso, kiel 
 <strong>ww</strong>.example.com anstataŭ<strong>www</strong>.example.com</li> 
 <li>Se vi ne sukcesas vi iun ajn paĝon, 
-kontrolu la retan konekton de via komputilo.</li> <li>Se via komputilo aŭ reto estas protektata de retbarilo aŭ
- retperanto, certiĝu ke 
+kontrolu la retan konekton de via komputilo.</li> <li>Se via komputilo aŭ reto estas protektata de retbarilo aŭ 
+retperanto, certiĝu ke 
 &brandShortName; rajtas aliri la TTT.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Dosiero ne trovita">
@@ -138,9 +137,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningText "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
-
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
-">
+<!ENTITY securityOverride.warningText "<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p> 
+ 
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/> 
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>">

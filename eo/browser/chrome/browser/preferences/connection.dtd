@@ -21,7 +21,7 @@
 <!ENTITY gopher.label "Gopher peranto:">
 <!ENTITY gopher.accesskey "G">
 <!ENTITY http.label "HTTP peranto:">
-<!ENTITY http.accesskey "N">
+<!ENTITY http.accesskey "n">
 <!ENTITY ssl.label "SSL peranto:">
 <!ENTITY ssl.accesskey "S">
 <!ENTITY socks.label "SOCKS servilo:">

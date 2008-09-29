@@ -15,8 +15,6 @@
 <!ENTITY safeb.palm.notforgery.label2 "Tio ĉi ne estas retfalsaĵo…">
 <!ENTITY safeb.palm.report.label "Kial tiu ĉi retejo estis blokita?">
 
-<!ENTITY safeb.urlbaricon.tooltip "Tiu ĉi paĝo povas esti danĝera, alklaku por pliaj detaloj.">
-
 <!ENTITY safeb.blocked.malware.title "Denoncita ataka retejo!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "La retejo ĉe <span id='malware_sitename'/> estis denoncita kiel ataka retejo kaj ĝi estis blokita surbaze de viaj sekurecaj preferoj.">

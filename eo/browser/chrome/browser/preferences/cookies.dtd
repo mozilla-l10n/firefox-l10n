@@ -22,9 +22,6 @@
 
 <!ENTITY filter.label "Serĉi">
 <!ENTITY filter.accesskey "S">
-<!ENTITY clear.label "Malplenigi">
-<!ENTITY clear.accesskey "p">
 
 <!ENTITY button.close.label "Fermi">
 <!ENTITY button.close.accesskey "F">
-
