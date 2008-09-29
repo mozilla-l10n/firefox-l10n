@@ -39,7 +39,9 @@
 <!ENTITY     treehead.cookieexpires.label   "Galioja iki"> 
 <!ENTITY     treehead.infoselected.label    "Informacija apie pažymėtą slapuką">
 <!ENTITY     button.removecookie.label      "Pašalinti slapuką">
+<!ENTITY     button.removecookie.accesskey  "š">
 <!ENTITY     button.removeallcookies.label  "Pašalinti visus slapukus">
+<!ENTITY     button.removeallcookies.accesskey "v">
 
 <!ENTITY     props.name.label               "Vardas:">
 <!ENTITY     props.value.label              "Kita informacija:">
@@ -52,14 +54,21 @@
 <!ENTITY     treehead.status.label          "Leidimas">
 <!ENTITY     windowtitle.label              "Slapukų tvarkytuvė">
 <!ENTITY     buttonaccept.label             "Užverti">
+<!ENTITY     buttonaccept.accesskey         "U">
 
 <!ENTITY     blockSite.label                "Neleisti">
+<!ENTITY     blockSite.accesskey            "N">
 <!ENTITY     allowSite.label                "Leisti">
+<!ENTITY     allowSite.accesskey            "L">
 <!ENTITY     allowSiteSession.label         "Tik vienam seansui">
+<!ENTITY     allowSiteSession.accesskey     "s">
 <!ENTITY     removepermission.label         "Pašalinti svetainę">
+<!ENTITY     removepermission.accesskey     "š">
 <!ENTITY     removeallpermissions.label     "Pašalinti visas svetaines">
+<!ENTITY     removeallpermissions.accesskey "v">
 
 <!ENTITY     canSet.label                   "gali įrašyti slapukus">
 <!ENTITY     cannotSet.label                "negali įrašyti slapukų">
 
-<!ENTITY     checkbox.label                 "Svetainėms, kurių slapukai jau buvo pašalinti, neleisti jų įrašyti iš naujo">
+<!ENTITY     futureCookies.label            "Svetainėms, kurių slapukai jau buvo pašalinti, neleisti jų įrašyti iš naujo">
+<!ENTITY     futureCookies.accesskey        "b">
