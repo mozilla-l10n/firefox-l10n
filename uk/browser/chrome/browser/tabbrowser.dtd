@@ -16,3 +16,4 @@
 <!ENTITY bookmarkThisTab.accesskey "в">
 <!ENTITY undoCloseTab.label "Повернути закриту вкладку">
 <!ENTITY undoCloseTab.accesskey "з">
+<!ENTITY newTabButton.tooltip "Відкрити нову вкладку">

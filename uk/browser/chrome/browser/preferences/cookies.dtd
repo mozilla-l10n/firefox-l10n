@@ -22,8 +22,6 @@
 
 <!ENTITY filter.label "Пошук:">
 <!ENTITY filter.accesskey "о">
-<!ENTITY clear.label "Очистити">
-<!ENTITY clear.accesskey "и">
 
 <!ENTITY button.close.label "Закрити">
 <!ENTITY button.close.accesskey "а">
