@@ -1,8 +1,3 @@
-<!ENTITY newPagesIn.label "Нові сторінки повинні відкриватися в:">
-<!ENTITY inNewWindow.label "новому вікні">
-<!ENTITY inNewWindow.accesskey "о">
-<!ENTITY inNewTab.label "новій вкладці">
-<!ENTITY inNewTab.accesskey "о">
 
 <!ENTITY warnCloseMultipleTabs.label "Видавати попередження, коли я намагаюся закрити вікно з декількома вкладками">
 <!ENTITY warnCloseMultipleTabs.accesskey "и">
@@ -15,3 +10,6 @@
 
 <!ENTITY switchToNewTabs.label "При відкритті посилання в новій вкладці зробити її активною">
 <!ENTITY switchToNewTabs.accesskey "и">
+
+<!ENTITY newWindowsAsTabs.label       "Відкривати замість нових вікон нові вкладки">
+<!ENTITY newWindowsAsTabs.accesskey   "в">

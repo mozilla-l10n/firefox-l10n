@@ -15,8 +15,6 @@
 <!ENTITY safeb.palm.notforgery.label2 "Це не шахрайство…">
 <!ENTITY safeb.palm.report.label "Чому цей сайт заблоковано?">
 
-<!ENTITY safeb.urlbaricon.tooltip "Ця сторінка може бути небезпечною; клацніть для отримання подробиць.">
-
 <!ENTITY safeb.blocked.malware.title "Сайт підозрюється у атаці!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "Цей сайт, <span id='malware_sitename'/>, відомий як зловмисний і тому був заблокований згідно з вашими вподобаннями безпеки.">
