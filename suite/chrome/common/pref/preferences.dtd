@@ -1,0 +1,38 @@
+<!ENTITY prefWindow.title "Preferencias">
+<!ENTITY categoryHeader "Categoría">
+<!ENTITY appear.label "Apariencia">
+<!ENTITY content.label "Contenido">
+<!ENTITY fonts.label "Tipos de letra">
+<!ENTITY colors.label "Colores">
+<!ENTITY navigator.label "Navegador">
+<!ENTITY history.label "Historial">
+<!ENTITY bidi.label "Opciones bidireccionales">
+<!ENTITY languages.label "Idiomas">
+<!ENTITY applications.label "Aplic. auxiliares">
+<!ENTITY locationBar.label "Barra de direcciones">
+<!ENTITY tabWindows.label "Navegación con pestañas">
+<!ENTITY compose.label "Composer">
+<!ENTITY editing.label "Configuración de página nueva">
+<!ENTITY publish.label "Publicar">
+<!ENTITY offline.label "Sin conexión">
+<!ENTITY security.label "Privacidad y seguridad">
+<!ENTITY cookies.label "Cookies">
+<!ENTITY images.label "Imágenes">
+<!ENTITY popups.label "Ventanas emergentes">
+<!ENTITY passwords.label "Contraseñas">
+<!ENTITY masterpass.label "Contraseñas maestras">
+<!ENTITY ssl.label "SSL">
+<!ENTITY certs.label "Certificados">
+<!ENTITY validation.label "Validación">
+<!ENTITY advance.label "Avanzadas">
+<!ENTITY down.label "Descargar">
+<!ENTITY cache.label "Caché">
+<!ENTITY proxies.label "Proxies">
+<!ENTITY httpnetworking.label "Config. de HTTP">
+<!ENTITY smart.label "Instalación de software">
+<!ENTITY download.label "Descargas">
+<!ENTITY keynav.label "Navegación con teclado">
+<!ENTITY search.label "Búsqueda en Internet">
+<!ENTITY policies.label "Políticas de seguridad">
+<!ENTITY mousewheel.label "Rueda del ratón">
+<!ENTITY scriptsAndWindows.label "Scripts y plugins">
