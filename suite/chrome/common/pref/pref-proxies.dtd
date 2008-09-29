@@ -19,7 +19,7 @@
 <!ENTITY  http.label                    "HTTP proxy:">
 <!ENTITY  http.accesskey                "X">
 <!ENTITY  port.label                    "Poort:">
-<!ENTITY  HTTPport.accesskey            "P">
+<!ENTITY  HTTPPort.accesskey            "P">
 <!ENTITY  advanced.label                "Uitgebreid…">
 <!ENTITY  advanced.accesskey            "v">
 <!ENTITY  noproxy.label                 "Geen proxy voor:">
