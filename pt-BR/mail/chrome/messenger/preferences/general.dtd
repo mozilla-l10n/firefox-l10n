@@ -1,5 +1,5 @@
 <!ENTITY systemDefaults.label              "Padrões do sistema">
-<!ENTITY alwaysCheckDefault.label          "Ao iniciar, verificar se o &brandShortName; é o programa de email padrão">
+<!ENTITY alwaysCheckDefault.label          "Ao iniciar, verificar se o &brandShortName; é o aplicativo de email padrão">
 <!ENTITY alwaysCheckDefault.accesskey      "o">
 <!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
   There's some sort of bug which makes wrapping checkboxes not properly reflow,

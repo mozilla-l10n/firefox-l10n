@@ -1,7 +1,7 @@
 <!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label "Assistente de contas">
-<!ENTITY accountWizard.size "width: 45em; height: 38em;">
+<!ENTITY accountWizard.size "width: 40em; height: 38em;">
 
 <!-- Entities for Account Type page -->
 
@@ -25,7 +25,7 @@
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
 -->
-<!ENTITY fullnameExample.label "(exemplo: &quot;Marcos Silva&quot;).">
+<!ENTITY fullnameExample.label "(exemplo: “Marcos Silva”).">
 <!ENTITY fullnameLabel.label "Nome:">
 <!ENTITY fullnameLabel.accesskey "N">
 
@@ -42,7 +42,7 @@
 <!ENTITY incomingServerTypeDesc.label "Tipo de servidor usado para receber mensagens:">
 <!ENTITY incomingServerTypeLabel.label "Tipo do servidor:">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Forneça o nome do servidor usado para receber mensagens (exemplo: &quot;mail.example.net&quot;).">
+<!ENTITY incomingServerNameDesc.label "Forneça o nome do servidor usado para receber mensagens (exemplo: “mail.exemplo.com”).">
 <!ENTITY incomingServerLabel.label "Receber mensagens por este servidor:">
 <!ENTITY incomingServerLabel.accesskey "R">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
@@ -72,8 +72,8 @@
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
 -->
-<!ENTITY haveSmtp1.prefix "O servidor SMTP atual, &quot;">
-<!ENTITY haveSmtp1.suffix "&quot;, será usado para enviar mensagens. Modifique pelo menu Ferramentas - Configurar contas.">
+<!ENTITY haveSmtp1.prefix "O servidor SMTP atual, “">
+<!ENTITY haveSmtp1.suffix "”, será usado para enviar mensagens. Modifique pelo menu “Ferramentas”, “Configurar contas”.">
 
 <!-- Entities for Login page -->
 
@@ -90,14 +90,14 @@
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "O nome de usuário do servidor SMTP, &quot;">
-<!ENTITY haveSmtp2.suffix "&quot;, será usado para enviar mensagens. Modifique pelo menu Ferramentas - Configurar contas.">
+<!ENTITY haveSmtp2.prefix "O nome de usuário do servidor SMTP, “">
+<!ENTITY haveSmtp2.suffix "”, será usado para enviar mensagens. Modifique pelo menu “Ferramentas”, “Configurar contas”.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "O servidor SMTP (usado para enviar mensagens), &quot;">
-<!ENTITY haveSmtp3.suffix "&quot;, é o mesmo servidor usado para receber mensagens. Será usado o mesmo nome de usuário. Você pode modificar estas opções no menu Ferramentas - Configurar contas.">
+<!ENTITY haveSmtp3.prefix "O servidor SMTP (usado para enviar mensagens), “">
+<!ENTITY haveSmtp3.suffix "”, é o mesmo servidor usado para receber mensagens. Será usado o mesmo nome de usuário. Você pode modificar estas opções pelo menu “Ferramentas”, “Configurar contas”.">
 
 <!-- Entities for Account name page -->
 
@@ -117,7 +117,7 @@
 <!ENTITY smtpServerNamePrefix.label "Enviar por este servidor SMTP:">
 <!ENTITY newsServerNamePrefix.label "Nome do servidor de news (NNTP):">
 <!ENTITY downloadOnLogin.label "Receber as mensagens agora">
-<!ENTITY deferStorageDesc.label "Desmarque a opção abaixo se quiser receber as mensagens desta conta em um espaço separado, sem misturar com as Pastas Locais.">
-<!ENTITY deferStorage.label "Usar a caixa de entrada global (receber mensagens nas Pastas Locais)">
-<!ENTITY clickFinish.label "Clique em Concluir para salvar estas configurações e sair do assistente de contas.">
-<!ENTITY clickFinish.labelMac "Clique em Concluir para salvar estas configurações e sair do assistente de contas.">
+<!ENTITY deferStorageDesc.label "Desmarque a opção abaixo se quiser receber as mensagens desta conta em um espaço separado. Se deixar marcado, serão usadas as pastas da conta Pastas Locais.">
+<!ENTITY deferStorage.label "Receber mensagens na conta Pastas Locais">
+<!ENTITY clickFinish.label "Clique em “Concluir” para salvar estas configurações e sair do assistente de contas.">
+<!ENTITY clickFinish.labelMac "Clique em “Concluir” para salvar estas configurações e sair do assistente de contas.">

@@ -40,9 +40,9 @@
 <!ENTITY  editPasswords.accesskey     "E">
 
 <!-- Anti Virus -->
-<!ENTITY antiVirus.intro      "O &brandShortName; pode facilitar a análise de novas mensagens por programas antivírus antes que elas sejam armazenadas localmente.">
-<!ENTITY antiVirus.label      "Programas antivírus podem colocar uma mensagem recebida em quarentena">
-<!ENTITY antiVirus.accesskey  "P">
+<!ENTITY antiVirus.intro      "O &brandShortName; pode facilitar a análise de novas mensagens por antivírus antes que elas sejam armazenadas localmente.">
+<!ENTITY antiVirus.label      "Aplicativos antivírus podem colocar uma mensagem recebida em quarentena">
+<!ENTITY antiVirus.accesskey  "A">
 
 <!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
 <!ENTITY antiVirusCaption.label "Antivírus">

@@ -25,7 +25,7 @@
 <!ENTITY pop3Desc.label "Ao receber mensagens POP deste servidor, salvá-las na:" >
 <!ENTITY folderStorage.label "Onde armazenas mensagens">
 <!ENTITY globalInbox.label "Pasta Entrada da conta Pastas Locais">
-<!ENTITY globalInbox.accesskey "s">
+<!ENTITY globalInbox.accesskey "E">
 <!ENTITY accountDirectory.label "Pasta Entrada de uma conta própria">
 <!ENTITY accountDirectory.accesskey "P">
 <!ENTITY deferToServer.label "Pasta Entrada de outra conta:">

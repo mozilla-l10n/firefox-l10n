@@ -3,9 +3,9 @@
 
 <!ENTITY  whenDownloading.label               "Ao receber este tipo de arquivo:">
 
-<!ENTITY  openDefault.label                   "Abrir com o programa padrão:">
+<!ENTITY  openDefault.label                   "Abrir com o aplicativo padrão:">
 <!ENTITY  openDefault.accesskey               "A">
-<!ENTITY  openApplication.label               "Abrir com o programa:">
+<!ENTITY  openApplication.label               "Abrir com o aplicativo:">
 <!ENTITY  openApplication.accesskey           "b">
 <!ENTITY  changeApp.label                     "Procurar…">
 <!ENTITY  changeApp.accesskey                 "P">
