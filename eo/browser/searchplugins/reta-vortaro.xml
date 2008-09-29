@@ -7,5 +7,6 @@
 <Url type="text/html" method="GET" template="http://www.reta-vortaro.de/cgi-bin/sercxu.pl">
   <Param name="sercxata" value="{searchTerms}"/>
   <Param name="kadroj" value="1"/>
+  <Param name="from" value="mozilla"/>
 </Url>
 </SearchPlugin>
