@@ -1,9 +1,3 @@
-#expand <!ENTITY  lang.version          "__MOZILLA_LOCALE_VERSION__">
-
 <!ENTITY  brandShortName        "Thunderbird">
-
 <!ENTITY  brandFullName         "Mozilla Thunderbird">
-
-<!ENTITY  vendorShortName       "Mozilla Thunderbird">
-
-<!ENTITY  sidebarName           "Sidebalke">
+<!ENTITY  vendorShortName       "Mozilla">
