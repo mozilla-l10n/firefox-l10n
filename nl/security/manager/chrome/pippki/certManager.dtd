@@ -119,12 +119,12 @@
 <!ENTITY certmgr.delete2.accesskey            "V">
 <!ENTITY certmgr.backup2.label                "Reservekopie maken…">
 <!ENTITY certmgr.backup2.accesskey            "R">
-<!ENTITY certmgr.backupall2.label             "Reservekopie van alles maken…">
+<!ENTITY certmgr.backupall2.label             "Reservekopie van alle maken…">
 <!ENTITY certmgr.backupall2.accesskey         "k">
 <!ENTITY certmgr.restore2.label               "Importeren…">
-<!ENTITY certmgr.restore2.accesskey           "I">
+<!ENTITY certmgr.restore2.accesskey           "m">
 <!ENTITY certmgr.details.label                "Certificaatvelden">
-<!ENTITY certmgr.details.accesskey            "F">
+<!ENTITY certmgr.details.accesskey            "f">
 <!ENTITY certmgr.fields.label                 "Veldwaarde">
 <!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "Certificaathiërarchie">

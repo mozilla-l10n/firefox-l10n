@@ -1,11 +1,11 @@
 <!-- Entities for the Sample Extension Options Dialog go here -->
-<!ENTITY reportWizard.title                         "Defecte website rapporteren">
+<!ENTITY reportWizard.title                         "Een defecte website rapporteren">
 
-<!ENTITY privacyNotice.label                        "Privacyovereenkomst">
-<!ENTITY reportWizardPrivacy.description            "Dit hulpprogramma stelt u in staat om het evangelisatieteam in te lichten over websites die niet goed in &brandShortName; werken of &brandShortName; uitsluiten. Dit is uw manier om ons te helpen de best mogelijke ervaring voor &brandShortName;-gebruikers te verzekeren. Neem even de tijd om het volgende te lezen over hoe wij omgaan met de informatie die we verzamelen als u besluit mee te doen.">
-<!ENTITY reportWizardMustAgree.description          "Om verder te gaan moet u met de bovenstaande privacyovereenkomst instemmen.">
+<!ENTITY privacyNotice.label                        "Privacybeleid">
+<!ENTITY reportWizardPrivacy.description            "Dit hulpprogramma stelt u in staat het evangelisatieteam in te lichten over websites die niet goed in &brandShortName; werken of &brandShortName; uitsluiten. Dit is uw manier om ons te helpen de best mogelijke ervaring voor &brandShortName;-gebruikers te verzekeren. Neem even de tijd om het volgende te lezen over hoe wij omgaan met de informatie die we verzamelen als u besluit mee te doen.">
+<!ENTITY reportWizardMustAgree.description          "Om verder te gaan dient u akkoord te gaan met het bovenstaande privacybeleid.">
 
-<!ENTITY dontShowPrivacyStatement.label             "Ik heb de bovenstaande privacyovereenkomst gelezen en geaccepteerd.">
+<!ENTITY dontShowPrivacyStatement.label             "Ik heb het bovenstaande privacybeleid gelezen en geaccepteerd.">
 <!ENTITY dontShowPrivacyStatement.accesskey         "I">
 
 <!ENTITY reportForm.label                           "Rapport invullen">
@@ -18,7 +18,7 @@
 <!ENTITY reportForm.behind_login.accesskey          "W">
 
 <!ENTITY reportForm.problem_type.title              "Probleemtype:">
-<!ENTITY reportForm.problem_type.accesskey          "T">
+<!ENTITY reportForm.problem_type.accesskey          "t">
 
 <!ENTITY reportForm.problem_type.chooseOne.title    "Kies er één…">
 
@@ -26,7 +26,7 @@
 <!ENTITY reportForm.problem_type.item1.title        "Browser wordt niet ondersteund">
 <!ENTITY reportForm.problem_type.item2.title        "Kan niet inloggen">
 <!ENTITY reportForm.problem_type.item3.title        "Plug-in wordt niet getoond">
-<!ENTITY reportForm.problem_type.item4.title        "Andere inhoud mist">
+<!ENTITY reportForm.problem_type.item4.title        "Andere inhoud ontbreekt">
 <!ENTITY reportForm.problem_type.item5.title        "Reageert verkeerd">
 <!ENTITY reportForm.problem_type.item6.title        "Verschijnt verkeerd">
 <!ENTITY reportForm.problem_type.item7.title        "Ander probleem">
@@ -46,13 +46,13 @@
 <!ENTITY reportForm.email.title                     "E-mail (optioneel):">
 <!ENTITY reportForm.email.accesskey                 "E">
 
-<!ENTITY reportForm.privacyPolicy.title             "Privacyovereenkomst">
-<!ENTITY reportForm.privacyPolicy.tooltip           "Privacyovereenkomst bekijken">
+<!ENTITY reportForm.privacyPolicy.title             "Privacybeleid">
+<!ENTITY reportForm.privacyPolicy.tooltip           "Privacybeleid bekijken">
 
 <!ENTITY reportResults.showDetail.title             "Details tonen">
-<!ENTITY reportResults.showDetail.accesskey         "S">
+<!ENTITY reportResults.showDetail.accesskey         "D">
 
-<!ENTITY sendReport.label                           "Rapport aan het verzenden">
-<!ENTITY sendReport.description                     "Het rapport naar de server aan het verzenden…">
+<!ENTITY sendReport.label                           "Rapport verzenden">
+<!ENTITY sendReport.description                     "Rapport naar server verzenden…">
 
 <!ENTITY finish.label                               "Rapport verzonden">
