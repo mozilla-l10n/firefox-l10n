@@ -1,5 +1,5 @@
-<!ENTITY defaultClient.title  "Programa padrão">
-<!ENTITY defaultClient.intro  "Tornar o &brandShortName; o programa padrão para:">
+<!ENTITY defaultClient.title  "Aplicativo padrão">
+<!ENTITY defaultClient.intro  "Tornar o &brandShortName; o aplicativo padrão para:">
 
 <!ENTITY email.label "Email">
 <!ENTITY newsgroups.label "Newsgroups">

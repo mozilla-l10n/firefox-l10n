@@ -17,7 +17,7 @@
 <!ENTITY importFromEudora.label         "Eudora">
 <!ENTITY importFromEudora.accesskey     "E">
 
-<!ENTITY importSource.title             "Selecione o programa de email">
+<!ENTITY importSource.title             "Selecione o aplicativo de email">
 <!ENTITY importItems.title              "Itens">
 <!ENTITY importItems.label              "Importar este itens:">
 

@@ -17,7 +17,7 @@
 <!ENTITY fileTypesDescription.label   "O &brandShortName; pode salvar/abrir automaticamente anexos dos tipos definidos.">
 
 <!ENTITY fileTypeColName.label        "Tipo de arquivo">
-<!ENTITY fileHandlerColName.label     "Programa">
+<!ENTITY fileHandlerColName.label     "Aplicativo">
 <!ENTITY editFileHandler.label        "Propriedades da ação…">
 <!ENTITY editFileHandler.accesskey    "P">
 <!ENTITY removeFileHandler.label      "Excluir">
