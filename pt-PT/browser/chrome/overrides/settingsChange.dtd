@@ -38,5 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY settingsChangePreferences.label "As configurações podem ser mudadas no separador Aplicações nas Preferências do &brandShortName;.">
-<!ENTITY settingsChangeOptions.label "As configurações podem ser mudadas no separador Aplicações nas Opções do &brandShortName;.">
+<!ENTITY  settingsChangePreferences.label  "As configurações podem ser mudadas no separador Aplicações nas Preferências do &brandShortName;.">
+<!ENTITY  settingsChangeOptions.label      "As configurações podem ser mudadas no separador Aplicações nas Opções do &brandShortName;.">

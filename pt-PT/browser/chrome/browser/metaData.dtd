@@ -3,10 +3,10 @@
 <!ENTITY caption.label "Propriedades do elemento">
 <!ENTITY image-sec.label "Propriedades da imagem">
 <!ENTITY image-url.label "Localização:">
-<!ENTITY image-type.label "Tipo:">
+<!ENTITY image-type.label      "Tipo:">
 <!ENTITY image-desc.label "Descrição:">
 <!ENTITY image-alt.label "Texto alternativo:">
-<!ENTITY image-size.label "Dimensões da Imagem:">
+<!ENTITY image-size.label      "Dimensões da Imagem:">
 <!ENTITY image-filesize.label "Tamanho do ficheiro:">
 <!ENTITY insdel-sec.label "Inserir/Eliminar propriedades">
 <!ENTITY insdel-cite.label "Informação:">
@@ -18,7 +18,7 @@
 <!ENTITY link-lang.label "Idioma de destino:">
 <!ENTITY link-rel.label "Relação:">
 <!ENTITY link-rev.label "Relação invertida:">
-<!ENTITY link-ping.label "Notifica:">
+<!ENTITY link-ping.label       "Notifica:">
 <!ENTITY misc-sec.label "Propriedades diversas">
 <!ENTITY misc-lang.label "Idioma do texto:">
 <!ENTITY misc-title.label "Título:">

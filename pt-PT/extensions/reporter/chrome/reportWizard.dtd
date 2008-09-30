@@ -12,11 +12,10 @@
 
 <!ENTITY reportForm.description "Fale-nos um pouco do(s) problema(s) que encontrou:">
 <!ENTITY reportForm.url.title "Endereço do sítio Web (URL):">
-<!ENTITY reportForm.url.accesskey "U">
-<!-- No ":" at the end -->
+<!ENTITY reportForm.url.accesskey                   "U">
 
 <!ENTITY reportForm.behind_login.title "O sítio está protegido por senha">
-<!ENTITY reportForm.behind_login.accesskey "P">
+<!ENTITY reportForm.behind_login.accesskey "p">
 
 <!ENTITY reportForm.problem_type.title "Tipo do problema:">
 <!ENTITY reportForm.problem_type.accesskey "T">
@@ -31,8 +30,8 @@
 <!ENTITY reportForm.problem_type.item5.title "Comportamento errado">
 <!ENTITY reportForm.problem_type.item6.title "Aparência incorrecta">
 <!ENTITY reportForm.problem_type.item7.title "Outro problema">
-<!ENTITY reportForm.problem_type.item8.title "Acesso por deficientes">
-<!ENTITY reportForm.problem_type.item9.title "Resultado da impressão está errado">
+<!ENTITY reportForm.problem_type.item8.title        "Acesso por deficientes">
+<!ENTITY reportForm.problem_type.item9.title        "Resultado da impressão está errado">
 
 <!ENTITY reportForm.describe.title "Descreva o problema:">
 <!ENTITY reportForm.describe.accesskey "D">

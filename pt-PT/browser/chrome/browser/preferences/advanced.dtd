@@ -7,25 +7,24 @@
 <!ENTITY useCursorNavigation.label "Utilizar sempre as teclas do cursor para navegar nas páginas">
 <!ENTITY useCursorNavigation.accesskey "c">
 <!ENTITY searchStartTyping.label "Procurar ao escrever">
-<!ENTITY searchStartTyping.accesskey "e">
-<!ENTITY blockAutoRefresh.label "Avise-me quando os sítios web que visito tentam redirecionar ou recarregar a página">
-<!ENTITY blockAutoRefresh.accesskey "r">
+<!ENTITY searchStartTyping.accesskey "E">
+<!ENTITY blockAutoRefresh.label          "Avise-me quando os sítios web que visito tentam redirecionar ou recarregar a página">
+<!ENTITY blockAutoRefresh.accesskey      "r">
 
 <!ENTITY browsing.label "Navegação">
 
-<!ENTITY useAutoScroll.label "Utilizar deslocamento automático">
-<!ENTITY useAutoScroll.accesskey "u">
+<!ENTITY useAutoScroll.label             "Utilizar deslocamento automático">
+<!ENTITY useAutoScroll.accesskey         "U">
 <!ENTITY useSmoothScrolling.label "Suavizar o deslocamento">
 <!ENTITY useSmoothScrolling.accesskey "d">
-<!ENTITY checkSpelling.label "Verificar a minha ortografia durante a escrita">
-<!ENTITY checkSpelling.accesskey "t">
+<!ENTITY checkSpelling.label             "Verificar a minha ortografia durante a escrita">
+<!ENTITY checkSpelling.accesskey         "t">
 
-<!ENTITY systemDefaults.label "Pré-definições do Sistema">
-<!--XXX-->
-<!ENTITY alwaysCheckDefault.label "Verifique sempre ao arrancar se o &brandShortName; é o navegador por omissão">
-<!ENTITY alwaysCheckDefault.accesskey "s">
-<!ENTITY checkNow.label "Verifique Agora">
-<!ENTITY checkNow.accesskey "A">
+<!ENTITY systemDefaults.label            "Pré-definições do Sistema">
+<!ENTITY alwaysCheckDefault.label        "Verifique sempre ao arrancar se o &brandShortName; é o navegador por omissão"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey    "s">
+<!ENTITY checkNow.label                  "Verifique Agora">
+<!ENTITY checkNow.accesskey              "A">
 
 <!ENTITY networkTab.label "Rede">
 
@@ -35,27 +34,27 @@
 <!ENTITY connectionSettings.label "Definições...">
 <!ENTITY connectionSettings.accesskey "e">
 
-<!ENTITY offlineStorage.label "Armazenamento em modo Desligado">
+<!ENTITY offlineStorage.label            "Armazenamento em modo Desligado">
+
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-
 <!ENTITY useCacheBefore.label "Utilizar até">
 <!ENTITY useCacheBefore.accesskey "U">
 <!ENTITY useCacheAfter.label "MB de espaço em disco para a cache">
-<!ENTITY clearCacheNow.label "Limpara Agora">
-<!ENTITY clearCacheNow.accesskey "G">
+<!ENTITY clearCacheNow.label             "Limpara Agora">
+<!ENTITY clearCacheNow.accesskey         "g">
 
-<!ENTITY updateTab.label "Actualizar">
+<!ENTITY updateTab.label                 "Actualizar">
 
 <!ENTITY autoCheck.label "Verificar automaticamente a existência de actualizações para:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "F">
-<!ENTITY enableAddonsUpdate.label "Extras instalados">
-<!ENTITY enableAddonsUpdate.accesskey "n">
+<!ENTITY enableAddonsUpdate.label        "Extras instalados">
+<!ENTITY enableAddonsUpdate.accesskey    "n">
 <!ENTITY enableSearchUpdate.label "Motores de pesquisa">
 <!ENTITY enableSearchUpdate.accesskey "m">
 <!ENTITY whenUpdatesFound.label "Quando forem encontradas actualizações para o &brandShortName;:">
@@ -63,21 +62,21 @@
 <!ENTITY askMe.accesskey "q">
 <!ENTITY modeAutomatic.label "Transferir e instalar automaticamente a actualização">
 <!ENTITY modeAutomatic.accesskey "i">
-<!ENTITY modeAutoAddonWarn.label "Avisar se este procedimento desactivar algum dos meus extras">
-<!ENTITY modeAutoAddonWarn.accesskey "V">
+<!ENTITY modeAutoAddonWarn.label         "Avisar se este procedimento desactivar algum dos meus extras">
+<!ENTITY modeAutoAddonWarn.accesskey     "v">
 <!ENTITY updateHistory.label "Mostrar o histórico das actualizações">
 <!ENTITY updateHistory.accesskey "h">
 
-<!ENTITY offlineNotify.label "Informa-me quando um sítio web pede para guardar dados para uso desligado">
-<!ENTITY offlineNotify.accesskey "I">
-<!ENTITY offlineNotifyExceptions.label "Excepções...">
+<!ENTITY offlineNotify.label             "Informa-me quando um sítio web pede para guardar dados para uso desligado">
+<!ENTITY offlineNotify.accesskey         "I">
+<!ENTITY offlineNotifyExceptions.label   "Excepções...">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList.label "Os seguintes sítios web têm dados instalados para usar no modo desligado:">
-<!ENTITY offlineAppsList.height "7em">
-<!ENTITY offlineAppsListRemove.label "Remover...">
+<!ENTITY offlineAppsList.label           "Os seguintes sítios web têm dados instalados para usar no modo desligado:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Remover...">
 <!ENTITY offlineAppsListRemove.accesskey "R">
-<!ENTITY offlineAppRemove.confirm "Remover dados do modo desligado">
+<!ENTITY offlineAppRemove.confirm        "Remover dados do modo desligado">
 
 <!ENTITY encryptionTab.label "Cifra">
 
@@ -93,10 +92,10 @@
 <!ENTITY certs.ask "Perguntar sempre">
 <!ENTITY certs.ask.accesskey "g">
 <!ENTITY viewCerts.label "Ver certificados">
-<!ENTITY viewCerts.accesskey "c">
+<!ENTITY viewCerts.accesskey "C">
 <!ENTITY viewCRLs.label "Listas de revogação">
 <!ENTITY viewCRLs.accesskey "V">
-<!ENTITY verify2.label "Validação">
-<!ENTITY verify2.accesskey "V">
-<!ENTITY viewSecurityDevices.label "Dispositivos de Segurança">
-<!ENTITY viewSecurityDevices.accesskey "g">
+<!ENTITY verify2.label                   "Validação">
+<!ENTITY verify2.accesskey               "V">
+<!ENTITY viewSecurityDevices.label       "Dispositivos de Segurança">
+<!ENTITY viewSecurityDevices.accesskey   "g">

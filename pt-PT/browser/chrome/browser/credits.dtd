@@ -1,14 +1,14 @@
 <!ENTITY brandMotto "Redescobrir a web">
 <!ENTITY credit.thanks "Agradecimentos especiais">
 
-<!ENTITY credit.thanks2 "Muito obrigado aos nossos">
-<!ENTITY credit.contributors2 "colaboradores">
+<!ENTITY credit.thanks2      "Muito obrigado aos nossos">
+<!ENTITY credit.contributors2 "colaboradores" >
+
 <!-- localization credits look like this: -->
 <!--
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-
 <!ENTITY credit.translation "<h3>Tradutores</h3><ul><li>André Barbosa</li><li>António Manuel Dias</li><li>Artur Araújo</li><li>Bruno Duarte</li><li>Bruno Queirós</li><li>Carlos Rodrigues</li><li>Carlos Simão</li><li>Cláudio Esperança</li><li>Diogo Santos</li><li>Francisco Castanheiro</li><li>Henrique Costa</li><li>João Miguel Neves</li><li>Marco Sousa</li><li>Pedro Antunes</li><li>Pedro Figueira</li><li>Rita Farinha</li></ul>">
 
 <!ENTITY credit.memory "Em memória de">
