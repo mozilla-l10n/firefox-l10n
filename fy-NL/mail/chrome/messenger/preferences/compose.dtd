@@ -10,6 +10,8 @@
 <!ENTITY inline.accesskey                     "I">
 <!ENTITY asAttachment.label                   "Als bijlage">
 <!ENTITY asAttachment.accesskey               "b">
+<!ENTITY addExtension.label                   "Extensie aan bestandsnaam toevoegen">
+<!ENTITY addExtension.accesskey               "t">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Lettertype:">
@@ -32,8 +34,6 @@
 <!ENTITY languagePopup.accessKey              "T">
 <!ENTITY downloadDictionaries.label           "Meer woordenboeken downloaden">
 
-<!ENTITY useMIME.label                        "‘Quoted printable’ MIME-codering gebruiken voor berichten die 8-bits tekens bevatten">
-<!ENTITY useMIME.accesskey                    "o">
 <!ENTITY warnOnSendAccelKey.label             "Bevestiging vragen bij gebruik van sneltoets om berichten te verzenden">
 <!ENTITY warnOnSendAccelKey.accesskey         "B">
 <!ENTITY autoSave.label                       "Elke">
@@ -52,12 +52,13 @@
 <!ENTITY addressingEnable.accesskey            "r">
 <!ENTITY directories.label                     "Directoryserver:">
 <!ENTITY directories.accesskey                 "y">
-<!ENTITY editDirectories.label                 "Directory’s bewerken...">
+<!ENTITY directoriesNone.label                 "Geen">
+<!ENTITY editDirectories.label                 "Directory’s bewerken…">
 <!ENTITY editDirectories.accesskey             "w">
 <!ENTITY matchText.label                       "Als er een overeenkomst is in uw lokale adresboeken:">
 <!ENTITY skipDirectory.label                   "Niet in de directory zoeken">
 
 <!ENTITY sendOptionsCaption.label              "HTML- en verzendopties">
 <!ENTITY sendOptionsDescription.label          "Tekstopmaakgedrag configureren">
-<!ENTITY sendOptions.label                     "Verzendopties...">
+<!ENTITY sendOptions.label                     "Verzendopties…">
 <!ENTITY sendOptions.accesskey                 "V">

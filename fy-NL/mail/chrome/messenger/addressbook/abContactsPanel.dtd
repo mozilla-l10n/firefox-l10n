@@ -1,10 +1,11 @@
-
 <!ENTITY addressbookPicker.label            "Adresboek:">
 <!ENTITY addressbookPicker.accesskey        "k">
 <!ENTITY searchInput.label                  "Zoeken naar:">
 <!ENTITY searchInput.accesskey              "o">
 <!ENTITY SearchNameOrEmail.label            "Naam of e-mail">
 
+<!ENTITY deleteAddrBookCard.label           "Verwijderen">
+<!ENTITY addrBookCardProperties.label       "Eigenschappen">
 <!ENTITY addtoToFieldMenu.label             "Toevoegen aan Aan-veld">
 <!ENTITY addtoCcFieldMenu.label             "Toevoegen aan CC-veld">
 <!ENTITY addtoBccFieldMenu.label            "Toevoegen aan Bcc-veld">
@@ -13,5 +14,5 @@
 <!ENTITY toButton.accesskey                 "A">
 <!ENTITY ccButton.label                     "Cc: toevoegen">
 <!ENTITY ccButton.accesskey                 "C">
-<!ENTITY bccButton.label                    "BCc: toevoegen">
+<!ENTITY bccButton.label                    "Bcc: toevoegen">
 <!ENTITY bccButton.accesskey                "B">

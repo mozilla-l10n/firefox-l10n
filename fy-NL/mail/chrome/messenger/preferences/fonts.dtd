@@ -73,7 +73,5 @@
 
 <!ENTITY viewDefaultCharsetList.label     "Inkomende e-mailberichten:">
 <!ENTITY viewDefaultCharsetList.accesskey "I">
-<!ENTITY forceCharsetOverride.label       "Standaard tekenset toepassen op alle berichten">
-<!ENTITY forceCharsetOverride.accesskey   "o">
-<!ENTITY replyInDefaultCharset.label      "Standaard tekenset gebruiken in antwoorden">
-<!ENTITY replyInDefaultCharset.accesskey  "b">
+<!ENTITY replyInDefaultCharset2.label     "Wanneer mogelijk, standaard tekenset gebruiken in antwoorden">
+<!ENTITY replyInDefaultCharset2.accesskey  "b">

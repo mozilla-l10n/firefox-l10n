@@ -10,13 +10,13 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "B">
-<!ENTITY newCard.label "Adresboekkaart...">
+<!ENTITY newCard.label "Adresboekkaart…">
 <!ENTITY newCard.accesskey "A">
 <!ENTITY attachMenu.label "Bijlage">
 <!ENTITY attachMenu.accesskey "B">
-<!ENTITY attachFileCmd.label "Bestand(en)...">
+<!ENTITY attachFileCmd.label "Bestand(en)…">
 <!ENTITY attachFileCmd.accesskey "B">
-<!ENTITY attachPageCmd.label "Webpagina...">
+<!ENTITY attachPageCmd.label "Webpagina…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Persoonlijke visitekaart (vCard)">
@@ -29,7 +29,7 @@
 <!ENTITY saveCmd.accesskey "O">
 <!ENTITY saveAsCmd.accesskey "l">
 <!ENTITY saveAsCmd.label "Opslaan als">
-<!ENTITY saveAsFileCmd.label "Bestand...">
+<!ENTITY saveAsFileCmd.label "Bestand…">
 <!ENTITY saveAsFileCmd.accesskey "B">
 <!ENTITY saveAsDraftCmd.label "Concept">
 <!ENTITY saveAsDraftCmd.accesskey "C">
@@ -41,15 +41,15 @@
 <!ENTITY sendLaterCmd.label "Later verzenden">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "z">
-<!ENTITY printSetupCmd.label "Pagina-instellingen...">
+<!ENTITY printSetupCmd.label "Pagina-instellingen…">
 <!ENTITY printSetupCmd.accesskey "P">
-<!ENTITY printCmd.label "Afdrukken...">
+<!ENTITY printCmd.label "Afdrukken…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "d">
-<!ENTITY quitApplicationCmdWin.label "Afsluiten">
-<!ENTITY quitApplicationCmdWin.accesskey "A">
-<!ENTITY quitApplicationCmd.label "Afsluiten">
-<!ENTITY quitApplicationCmd.accesskey "A">
+<!ENTITY quitApplicationCmdWin.label                    "Afsluiten">
+<!ENTITY quitApplicationCmdWin.accesskey                "A">
+<!ENTITY quitApplicationCmd.label                       "Afsluiten">
+<!ENTITY quitApplicationCmd.accesskey                   "A">
 <!ENTITY quitApplicationCmd.key "Q">
 
 <!-- Edit Menu -->
@@ -79,7 +79,7 @@
 <!ENTITY selectAllCmd.label "Alles selecteren">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY findCmd.label "Zoeken en vervangen...">
+<!ENTITY findCmd.label "Zoeken en vervangen…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "Z">
 <!ENTITY findAgainCmd.label "Opnieuw zoeken">
@@ -96,13 +96,13 @@
 <!ENTITY viewMenu.accesskey "L">
 <!ENTITY viewToolbarsMenuNew.label "Werkbalken">
 <!ENTITY viewToolbarsMenuNew.accesskey "W">
-<!ENTITY showComposeToolbarCmd.label "E-mailwerkbalk">
-<!ENTITY showComposeToolbarCmd.accesskey "E">
-<!ENTITY showFormatToolbarCmd.label "Opmaakwerkbalk">
-<!ENTITY showFormatToolbarCmd.accesskey "O">
+<!ENTITY showCompositionToolbarCmd.label "Compositiewerkbalk">
+<!ENTITY showCompositionToolbarCmd.accesskey "C">
+<!ENTITY showFormattingBarCmd.label "Opmaakwerkbalk">
+<!ENTITY showFormattingBarCmd.accesskey "O">
 <!ENTITY showTaskbarCmd.label "Statusbalk">
 <!ENTITY showTaskbarCmd.accesskey "S">
-<!ENTITY customizeToolbar.label "Aanpassen...">
+<!ENTITY customizeToolbar.label "Aanpassen…">
 <!ENTITY customizeToolbar.accesskey "A">
 
 <!ENTITY addressSidebar.label "Adressenzijbalk">
@@ -115,7 +115,7 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Opties">
 <!ENTITY optionsMenu.accesskey "O">
-<!ENTITY checkSpellingCmd.label "Spelling controleren...">
+<!ENTITY checkSpellingCmd.label "Spelling controleren…">
 <!ENTITY checkSpellingCmd.key "K">
 <!ENTITY checkSpellingCmd.key2 "VK_F7">
 <!ENTITY checkSpellingCmd.accesskey "c">
@@ -130,6 +130,8 @@
 
 <!ENTITY returnReceiptMenu.label "Leesbevestiging">
 <!ENTITY returnReceiptMenu.accesskey "L">
+<!ENTITY dsnMenu.label "Afleverstatusnotificatie">
+<!ENTITY dsnMenu.accesskey "A">
 <!ENTITY outputFormatMenu.label "Opmaak">
 <!ENTITY outputFormatMenu.accesskey "O">
 <!ENTITY autoFormatCmd.label "Automatisch herkennen ">
@@ -166,10 +168,10 @@
 <!ENTITY addressBookCmd.label "Adresboek">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.commandkey "2">
-<!ENTITY accountManagerCmd.label "Accountinstellingen...">
+<!ENTITY accountManagerCmd.label "Accountinstellingen…">
 <!ENTITY accountManagerCmd.accesskey "c">
 <!ENTITY accountManagerCmdUnix.accesskey "i">
-<!ENTITY preferencesCmd.label "Opties...">
+<!ENTITY preferencesCmd.label "Opties…">
 <!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Voorkeuren">
@@ -181,17 +183,6 @@
 <!ENTITY bringAllToFront.label "Alles naar voren brengen">
 <!ENTITY zoomWindow.label "Zoom">
 <!ENTITY windowMenu.label "Venster">
-
-<!-- Help Menu -->
-<!ENTITY helpMenu.label "Help">
-<!ENTITY helpMenu.accesskey "H">
-<!ENTITY releaseCmd.label "Uitgaveopmerkingen">
-<!ENTITY releaseCmd.accesskey "U">
-<!ENTITY hintsAndTips.label "&brandShortName; Help">
-<!ENTITY hintsAndTips.accesskey "h">
-<!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY aboutCmd.label "Over &brandShortName;">
-<!ENTITY aboutCmd.accesskey "T">
 
 <!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Verzenden">
@@ -271,11 +262,13 @@
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "Verwijderen">
 <!ENTITY delete.accesskey "V">
+<!ENTITY renameAttachment.label "Hernoemen…">
+<!ENTITY renameAttachment.accesskey "H">
 <!ENTITY selectAll.label "Alles selecteren">
 <!ENTITY selectAll.accesskey "A">
-<!ENTITY attachFile.label "Bestand(en) koppelen...">
+<!ENTITY attachFile.label "Bestand(en) koppelen…">
 <!ENTITY attachFile.accesskey "B">
-<!ENTITY attachPage.label "Webpagina koppelen...">
+<!ENTITY attachPage.label "Webpagina koppelen…">
 <!ENTITY attachPage.accesskey "W">
 
 <!-- Title for the address picker panel -->

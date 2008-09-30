@@ -35,10 +35,8 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY chooseAddressBook.label         "Toevoegen aan: ">
-<!ENTITY chooseAddressBook.accesskey     "o">
-
 <!ENTITY Contact.tab                     "Contact">
+<!ENTITY Contact.accesskey               "C">
 <!ENTITY Name.box                        "Naam">
 
 <!-- LOCALIZATION NOTE: 
@@ -61,7 +59,7 @@
 <!ENTITY NameField1.label               "Voornaam:">
 <!ENTITY NameField1.accesskey           "V">
 <!ENTITY NameField2.label               "Achternaam:">
-<!ENTITY NameField2.accesskey           "A">
+<!ENTITY NameField2.accesskey           "h">
 <!ENTITY PhoneticField1.label           "Fonetisch:">
 <!ENTITY PhoneticField2.label           "Fonetisch:">
 <!ENTITY DisplayName.label              "Weergave:">
@@ -98,27 +96,51 @@
 <!ENTITY CellularNumber.accesskey       "M">
 
 <!ENTITY Address.tab                    "Adres">
+<!ENTITY Address.accesskey              "A">
 <!ENTITY Home.box                       "Thuis">
 <!ENTITY HomeAddress.label              "Adres:">
+<!ENTITY HomeAddress.accesskey          "d">
 <!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Woonplaats:">
+<!ENTITY HomeCity.accesskey             "W">
 <!ENTITY HomeState.label                "Provincie:">
+<!ENTITY HomeState.accesskey            "v">
 <!ENTITY HomeZipCode.label              "Postcode:">
+<!ENTITY HomeZipCode.accesskey          "P">
 <!ENTITY HomeCountry.label              "Land:">
+<!ENTITY HomeCountry.accesskey          "L">
 <!ENTITY HomeWebPage.label              "Webpagina:">
+<!ENTITY HomeWebPage.accesskey          "g">
 <!ENTITY Work.box                       "Werk">
 <!ENTITY JobTitle.label                 "Titel:">
+<!ENTITY JobTitle.accesskey             "e">
 <!ENTITY Department.label               "Afdeling:">
+<!ENTITY Department.accesskey           "f">
 <!ENTITY Company.label                  "Organisatie:">
+<!ENTITY Company.accesskey              "i">
 <!ENTITY WorkAddress.label              "Adres:">
+<!ENTITY WorkAddress.accesskey          "r">
 <!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Stad:">
+<!ENTITY WorkCity.accesskey             "S">
 <!ENTITY WorkState.label                "Provincie:">
+<!ENTITY WorkState.accesskey            "v">
 <!ENTITY WorkZipCode.label              "Postcode:">
+<!ENTITY WorkZipCode.accesskey          "c">
 <!ENTITY WorkCountry.label              "Land:">
+<!ENTITY WorkCountry.accesskey          "n">
 <!ENTITY WorkWebPage.label              "Webpagina:">
+<!ENTITY WorkWebPage.accesskey          "b">
 
 <!ENTITY Other.tab                      "Overig">
+<!ENTITY Other.accesskey                "O">
+<!ENTITY Birthday.label                 "Verjaardag:">
+<!ENTITY Birthday.accesskey             "V">
+<!ENTITY Year.emptytext                 "Jaar">
+<!ENTITY Or.value                       "of">
+<!ENTITY Age.emptytext                  "Leeftijd">
 <!ENTITY Custom1.label                  "Overig 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Overig 2:">
@@ -128,3 +150,4 @@
 <!ENTITY Custom4.label                  "Overig 4:">
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.box                      "Aantekeningen">
+<!ENTITY Notes.accesskey                "n">

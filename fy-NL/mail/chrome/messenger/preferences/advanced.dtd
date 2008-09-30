@@ -1,19 +1,23 @@
-<!ENTITY itemGeneral.label       "Algemeen">
-<!ENTITY itemUpdate.label        "Update">
-<!ENTITY itemNetworking.label    "Netwerk &amp; schijfruimte">
-<!ENTITY itemCertificates.label  "Certificaten">
+<!ENTITY itemGeneral.label       "Algemien">
+<!ENTITY itemUpdate.label        "Fernijing">
+<!ENTITY itemNetworking.label    "Netwurk &amp; skiifromte">
+<!ENTITY itemCertificates.label  "Sertifikaten">
 
 <!-- General Settings -->
 
 <!ENTITY showCondensedAddresses.label  "Van mensen in mijn adresboek alleen weergavenaam tonen">
 <!ENTITY showCondensedAddresses.accesskey "m">
 
-<!-- LOCALIZATION NOTE (markAsRead.label): This will concatenate with
-     "xxx seconds before marking a message as read", using a number and
-     (markAsReadEnd.label). -->
-<!ENTITY markAsRead.label              "Berichten als gelezen markeren na">
-<!ENTITY markAsRead.accesskey          "B">
-<!ENTITY markAsReadEnd.label           "seconden">
+<!ENTITY autoMarkAsRead.label             "Berichten automatisch als gelezen markeren">
+<!ENTITY autoMarkAsRead.accesskey         "A">
+<!ENTITY markAsReadNoDelay.label          "Onmiddelijk op het scherm">
+<!ENTITY markAsReadNoDelay.accesskey      "O">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "Na het tonen voor">
+<!ENTITY markAsReadDelay.accesskey        "N">
+<!ENTITY secondsLabel.label               "seconden">
 <!ENTITY showFolderColumns.label       "Uitgebreide kolommen weergeven in mappenvenster">
 <!ENTITY showFolderColumns.accesskey   "k">
 <!ENTITY rememberLastMsg.label         "Laatst geselecteerde bericht onthouden">
@@ -29,10 +33,10 @@
 <!ENTITY connectionTimeout.accesskey   "j">
 <!ENTITY connectionSeconds.label       "seconden">
 <!ENTITY configEditDesc.label          "Uitgebreide configuratie">
-<!ENTITY configEdit.label              "Configuratie-editor...">
+<!ENTITY configEdit.label              "Configuratie-editor…">
 <!ENTITY configEdit.accesskey          "f">
 <!ENTITY returnReceiptsInfo.label      "Bepalen hoe &brandShortName; omgaat met leesbevestigingen">
-<!ENTITY showReturnReceipts.label      "Leesbevestigingen...">
+<!ENTITY showReturnReceipts.label      "Leesbevestigingen…">
 <!ENTITY showReturnReceipts.accesskey  "L">
 
 <!-- Update -->
@@ -41,7 +45,7 @@
 <!ENTITY enableAppUpdate.accesskey      "T">
 <!ENTITY enableAddonsUpdate.label       "Geïnstalleerde add-ons">
 <!ENTITY enableAddonsUpdate.accesskey   "G">
-<!ENTITY checkNow.label                 "Nu controleren...">
+<!ENTITY checkNow.label                 "Nu controleren…">
 <!ENTITY whenUpdatesFound.label         "Als er updates voor &brandShortName; worden gevonden:">
 <!ENTITY modeAskMe.label                "Mij vragen wat ik wil doen">
 <!ENTITY modeAskMe.accesskey            "r">
@@ -53,13 +57,13 @@
 <!ENTITY showUpdates.accesskey          "d">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showConnections.label         "Verbinding...">
+<!ENTITY showConnections.label         "Verbinding…">
 <!ENTITY showConnections.accesskey     "e">
 <!ENTITY proxiesInfo.label             "Bepalen hoe &brandShortName; verbinding maakt met het internet">
 <!ENTITY connectionsInfo.caption       "Verbinding">
 <!ENTITY offlineInfo.caption           "Offline">
 <!ENTITY offlineInfo.label             "Offline-instellingen configureren">
-<!ENTITY showOffline.label             "Offline...">
+<!ENTITY showOffline.label             "Offline…">
 <!ENTITY showOffline.accesskey         "O">
 
 <!ENTITY Diskspace "Schijfruimte">
@@ -68,12 +72,12 @@
 <!ENTITY kb.label "KB">
 
 <!-- Certificates -->
-<!ENTITY certificatesInfo.label         "Certificaten, herroepingslijsten, certificaatverificatie en beveiligingsapparaten beheren.">
+<!ENTITY certificatesInfo2.label        "Certificaten, intrekkingslijsten, certificaatvalidatie en beveiligingsapparaten beheren.">
 <!ENTITY viewCertificates.label         "Certificaten bekijken">
 <!ENTITY viewCertificates.accesskey     "C">
-<!ENTITY viewCRLs.label                 "Herroepingslijsten">
-<!ENTITY viewCRLs.accesskey             "H">
-<!ENTITY viewOCSP.label                 "Verificatie">
-<!ENTITY viewOCSP.accesskey             "V">
+<!ENTITY viewCRLs.label                 "Intrekkingslijsten">
+<!ENTITY viewCRLs.accesskey             "I">
+<!ENTITY validation.label               "Validatie">
+<!ENTITY validation.accesskey           "V">
 <!ENTITY viewSecurityDevices.label      "Beveiligingsapparaten">
 <!ENTITY viewSecurityDevices.accesskey  "B">

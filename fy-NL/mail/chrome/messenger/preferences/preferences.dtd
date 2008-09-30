@@ -1,14 +1,14 @@
 
-<!ENTITY prefWindow.titleWin      "Opties">
-<!ENTITY prefWindow.titleGNOME    "&brandShortName;-voorkeuren">
-<!ENTITY prefWindow.styleWin      "width: 55em; height: 41em;">
+<!ENTITY prefWindow.titleWin      "Opsjes">
+<!ENTITY prefWindow.titleGNOME    "&brandShortName;-foarkarren">
+<!ENTITY prefWindow.styleWindows  "width: 55em; min-height: 41em;">
 <!ENTITY prefWindow.styleMac      "width: 56em;">
-<!ENTITY prefWindow.styleUnix     "width: 55em; height: 36em;">
+<!ENTITY prefWindow.styleGNOME    "width: 55em; min-height: 38em;">
 
-<!ENTITY paneGeneral.title        "Algemeen">
-<!ENTITY paneDisplay.title        "Weergave">
+<!ENTITY paneGeneral.title        "Algemien">
+<!ENTITY paneDisplay.title        "Werjefte">
 <!ENTITY paneTags.title           "Labels">
-<!ENTITY paneComposition.title    "Opstellen">
-<!ENTITY paneAttachments.title    "Bijlagen">
+<!ENTITY paneComposition.title    "Opstelle">
+<!ENTITY paneAttachments.title    "Taheaksels">
 <!ENTITY panePrivacy.title        "Privacy">
-<!ENTITY paneAdvanced.title       "Geavanceerd">
+<!ENTITY paneAdvanced.title       "Avansearre">

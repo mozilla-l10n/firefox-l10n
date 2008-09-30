@@ -20,6 +20,7 @@
  the Initial Developer. All Rights Reserved.
 
  Contributor(s):
+     Jeff Beckley <beckley@qualcomm.com>
 
  Alternatively, the contents of this file may be used under the terms of
  either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -44,33 +45,36 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 -->
 
 <!ENTITY importDialog.windowTitle "Importeren">
-<!ENTITY importDialog.mailTitle "E-mail">
+<!ENTITY importDialog.allTitle    "Alles importeren">
+<!ENTITY importDialog.mailTitle   "E-mail">
 <!ENTITY importDialog.addressbookTitle "Adresboeken">
 <!ENTITY importDialog.settingsTitle "Instellingen">
+<!ENTITY importDialog.filtersTitle "Filters">
+
 
 <!ENTITY  window.width            "42em">
 <!ENTITY  window.macWidth         "45em">
 
-<!ENTITY importTitle.label "&brandShortName; E-mail-importwizard">
-<!ENTITY importDesc.label "E-mail, adresboek en instellingen van andere programma’s importeren">
+<!ENTITY importTitle.label        "&brandShortName;-importeerwizard">
+<!ENTITY importShortDesc.label    "E-mail, adresboeken, instellingen en filters van andere programma’s importeren">
 
-<!ENTITY importDescription.label "Deze wizard zal e-mailberichten, adresboekgegevens en/of instellingen van andere e-mailprogramma’s en bekende adresboekformaten importeren in &brandShortName;. ">
-<!ENTITY importDescription2.label "Zodra ze geïmporteerd zijn kunt u ze bereiken vanuit &brandShortName; E-mail en/of Adresboek.">
+<!ENTITY importDescription1.label "Deze wizard zal e-mailberichten, adresboekgegevens, voorkeuren en/of filters van andere e-mailprogramma’s en bekende adresboekformaten importeren in &brandShortName;.">
+<!ENTITY importDescription2.label "Als deze eenmaal zijn geïmporteerd kunt u ze gebruiken in &brandShortName;.">
 
-<!ENTITY selectDescription.label "Selecteer het programma waarvan u wilt importeren:">
+<!ENTITY selectDescription.label  "Selecteer het type bestand dat u wilt importeren:">
 
-<!ENTITY back.label "&lt; Vorige">
-<!ENTITY forward.label "Volgende &gt;">
-<!ENTITY finish.label "Voltooien">
-<!ENTITY cancel.label "Annuleren">
+<!ENTITY back.label               "&lt; Vorige">
+<!ENTITY forward.label            "Volgende &gt;">
+<!ENTITY finish.label             "Voltooien">
+<!ENTITY cancel.label             "Annuleren">
 
-<!ENTITY select.label "Selecteer het materiaaltype om te importeren:">
+<!ENTITY select.label             "of selecteer het type gegevens om te importeren:">
 
-<!ENTITY title.label "Titel">
-<!ENTITY processing.label "Importeren...">
+<!ENTITY title.label              "Titel">
+<!ENTITY processing.label         "Importeren…">
 
-<!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x heeft één e-mailadres op elke kaart, terwijl &brandShortName; er twee heeft (Thuis en Werk).">
-<!ENTITY FieldDiscInputText2.label "Selecteer de categorie waarin u de geïmporteerde e-mailadressen wilt opslaan:">
-<!ENTITY FieldDiscWarning.label "Deze categorie zal worden gebruikt voor alle gegevens van het geselecteerde adresboek:">
-<!ENTITY importDialog.homeTitle "Thuis">
-<!ENTITY importDialog.workTitle "Werk">
+<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x heeft één e-mailadres op elke kaart, terwijl &brandShortName; er twee heeft (Thuis en Werk).">
+<!ENTITY FieldDiscInputText2.label  "Selecteer de categorie waarin u de geïmporteerde e-mailadressen wilt opslaan:">
+<!ENTITY FieldDiscWarning.label  "Deze categorie zal worden gebruikt voor alle gegevens van het geselecteerde adresboek: ">
+<!ENTITY importDialog.homeTitle  "Thuis">
+<!ENTITY importDialog.workTitle  "Werk">
