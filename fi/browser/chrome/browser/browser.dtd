@@ -222,6 +222,8 @@
 <!ENTITY reloadFrameCmd.accesskey      "ä">
 <!ENTITY viewPartialSourceForSelectionCmd.label  "Näytä valinnan lähdekoodi">
 <!ENTITY viewPartialSourceForMathMLCmd.label     "Näytä MathML-lähdekoodi">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey  "n">
 <!ENTITY viewPageSourceCmd.label       "Näytä sivun lähdekoodi">
 <!ENTITY viewPageSourceCmd.accesskey   "k">
@@ -307,7 +309,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Sivun suurennus">
 <!ENTITY fullZoom.accesskey             "S">
 
-<!ENTITY newTabButton.tooltip            "Avaa uusi välilehti">
 <!ENTITY newWindowButton.tooltip         "Avaa uusi ikkuna">
 <!ENTITY sidebarCloseButton.tooltip      "Sulje sivupaneeli">
 

@@ -16,3 +16,4 @@
 <!ENTITY  bookmarkThisTab.accesskey   "L">
 <!ENTITY  undoCloseTab.label          "Kumoa Sulje välilehti">
 <!ENTITY  undoCloseTab.accesskey      "K">
+<!ENTITY  newTabButton.tooltip        "Avaa uusi välilehti">

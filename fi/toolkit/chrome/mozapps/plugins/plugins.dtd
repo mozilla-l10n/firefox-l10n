@@ -21,3 +21,5 @@
 <!ENTITY pluginWizard.finalPage.restart.label                 "Käynnistä &brandShortName; uudestaan, jotta liitännäiset rupeaisivat toimimaan.">
 
 <!ENTITY missingPlugin.label                                 "Lataa liitännäinen tästä.">
+<!ENTITY disabledPlugin.label                                "Tämän sisällön tarvitsema liitännäinen on poistettu käytöstä. Avaa liitännäisten hallinta napsauttamalla tästä.">
+<!ENTITY blockedPlugin.label                                 "Tämän liitännäisen toiminta on estetty turvallisuussyistä.">
