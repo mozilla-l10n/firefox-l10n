@@ -1,5 +1,6 @@
 
 <!ENTITY address.label "כתובת אתר:">
+<!ENTITY address.accesskey            "כ">
 <!ENTITY allow.accesskey "ש">
 <!ENTITY allow.label "הרשה">
 <!ENTITY block.accesskey "ח">
