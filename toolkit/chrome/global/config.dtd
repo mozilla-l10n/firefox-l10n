@@ -23,8 +23,6 @@
 <!ENTITY prefColumnHeader.tooltip "לחץ לסידור">
 <!ENTITY reset.accesskey "א">
 <!ENTITY reset.label "אתחול">
-<!-- ### ENTITY showAll.accesskey "ה" -->
-<!-- ### ENTITY showAll.label "הראה הכל" -->
 <!ENTITY string.accesskey "ח">
 <!ENTITY string.label "מחרוזת">
 <!ENTITY toggle.accesskey "ה">

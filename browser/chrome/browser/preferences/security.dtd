@@ -8,11 +8,9 @@
   useDownloadedList.label convey the meaning "suspected" (and not something like
   "known").
 -->
-<!-- ### ENTITY  tellMaybeAttackSite.label     "דווח לי אם האתר שאני מבקר בו חשוד כאתר תוקפני" -->
 <!ENTITY  tellMaybeAttackSite2.label     "חסום אתרים שדווחו כאתרי תקיפה">
 <!ENTITY  tellMaybeAttackSite.accesskey "ת">
 
-<!-- ### ENTITY tellMaybeForgery.label "דווח לי אם האתר שאני מבקר בו חשוד בזיוף" -->
 <!ENTITY  tellMaybeForgery2.label     "חסום אתרים שדווחו כאתרי זיוף">
 <!ENTITY tellMaybeForgery.accesskey "ז">
 

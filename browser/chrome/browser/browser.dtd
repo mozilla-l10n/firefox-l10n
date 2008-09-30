@@ -231,7 +231,6 @@
 <!ENTITY copyEmailCmd.accesskey "כ">
 <!ENTITY thisFrameMenu.label "מסגרת זו">
 <!ENTITY thisFrameMenu.accesskey "ג">
-<!-- ### ENTITY newTabButton.tooltip "פתח לשונית חדשה" -->
 <!ENTITY newWindowButton.tooltip "פתח חלון חדש">
 <!ENTITY sidebarCloseButton.tooltip "סגור את סרגל הצד">
 <!ENTITY cutButton.tooltip "גזור">

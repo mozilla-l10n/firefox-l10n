@@ -8,8 +8,3 @@
 <!ENTITY  focusSearch2.key        "k">
 
 <!ENTITY  filter.emptytext        "חיפוש">
-<!-- ### ENTITY  filter.label            "חפש:" -->
-<!-- ### ENTITY  filter.accesskey        "ח" -->
-
-<!-- ### ENTITY  clear.label             "מחק" -->
-<!-- ### ENTITY  clear.accesskey         "מ" -->
