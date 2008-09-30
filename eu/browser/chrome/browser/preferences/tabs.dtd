@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label "Ireki orri berriak:">
-<!ENTITY inNewWindow.label "leiho berri batean">
-<!ENTITY inNewWindow.accesskey "h">
-<!ENTITY inNewTab.label "fitxa berri batean">
-<!ENTITY inNewTab.accesskey "t">
+<!ENTITY newWindowsAsTabs.label "Ireki leiho berriak fitxa berrian ordez">
+<!ENTITY newWindowsAsTabs.accesskey "t">
 
 <!ENTITY warnCloseMultipleTabs.label "Ohar nazazu fitxa anitz ixterakoan">
 <!ENTITY warnCloseMultipleTabs.accesskey "n">

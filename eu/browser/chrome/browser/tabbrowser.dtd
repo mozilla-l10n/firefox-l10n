@@ -16,3 +16,4 @@
 <!ENTITY bookmarkThisTab.accesskey "F">
 <!ENTITY undoCloseTab.label "Desegin fitxa ixtea">
 <!ENTITY undoCloseTab.accesskey "D">
+<!ENTITY newTabButton.tooltip "Ireki fitxa berria">

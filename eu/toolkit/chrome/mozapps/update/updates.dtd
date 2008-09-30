@@ -10,10 +10,10 @@
 <!ENTITY cancel.accesskey "U">
 
 <!ENTITY noupdatesfound.title "Ez da eguneraketarik aurkitu">
-<!ENTITY noupdatesautoenabled.intro "There are no updates available. &brandShortName; will check
-                                           periodically for updates.">
-<!ENTITY noupdatesautodisabled.intro "There are no updates available. Please check again later or enable
-                                           &brandShortName;'s automatic update checking.">
+<!ENTITY noupdatesautoenabled.intro "There are no updates available. &brandShortName; will check 
+periodically for updates.">
+<!ENTITY noupdatesautodisabled.intro "There are no updates available. Please check again later or enable 
+&brandShortName;'s automatic update checking.">
 
 <!ENTITY incompatibleChecking.label "Eguneraketa honek zure hedapen edo gaiekin arazoak sor ditzaken egiaztatzen...">
 <!ENTITY clickHere.label "Ikusi eguneraketa honi buruzko xehetasun gehiago">
