@@ -44,8 +44,6 @@
 
 <!ENTITY filterPrefs.label "ਫਿਲਟਰ:">
 <!ENTITY filterPrefs.accesskey "I">
-<!ENTITY showAll.label "ਸਭ ਵੇਖਾਓ">
-<!ENTITY showAll.accesskey "W">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "ਮੇਰੀ ਪਸੰਦ ਦਾ ਨਾਂ">

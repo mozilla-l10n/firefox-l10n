@@ -16,3 +16,4 @@
 <!ENTITY  bookmarkThisTab.accesskey    "B">
 <!ENTITY  undoCloseTab.label          "ਬੰਦ ਕੀਤੀ ਟੈਬ ਵਾਪਸ ਖੋਲ੍ਹੋ">
 <!ENTITY  undoCloseTab.accesskey      "U">
+<!ENTITY  newTabButton.tooltip        "ਇੱਕ ਨਵੀਂ ਟੈਬ ਖੋਲ੍ਹੋ">

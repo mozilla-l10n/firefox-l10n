@@ -7,8 +7,9 @@
 <!ENTITY removepermission.label       "ਸਾਇਟ ਹਟਾਓ">
 <!ENTITY removeallpermissions.label   "ਸਭ ਸਾਇਟਾਂ ਹਟਾਓ">
 <!ENTITY removepermission.accesskey   "R">
-<!ENTITY address.label                "ਵੈਬ ਸਾਇਟ ਐਡਰੈੱਸ:">
 <!ENTITY removeallpermissions.accesskey "e">
+<!ENTITY address.label                "ਵੈਬ ਸਾਇਟ ਐਡਰੈੱਸ:">
+<!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "ਪਾਬੰਦੀ">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "ਇਸ ਸ਼ੈਸ਼ਨ ਲਈ">

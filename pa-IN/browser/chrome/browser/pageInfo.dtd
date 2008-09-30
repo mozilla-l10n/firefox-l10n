@@ -60,8 +60,8 @@
 <!ENTITY  generalEncoding       "ਇੰਕੋਡਿੰਗ:">
 <!ENTITY  generalMetaName       "ਨਾਂ">
 <!ENTITY  generalMetaContent    "ਸਮੱਗਰੀ">
-<!ENTITY  generalSecurityMore   "ਹੋਰ">
-<!ENTITY  generalSecurityMore.accesskey "o">
+<!ENTITY  generalSecurityDetails   "ਵੇਰਵਾ">
+<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "ਮੀਡਿਆ">
 <!ENTITY  mediaTab.accesskey    "M">

@@ -8,18 +8,11 @@
   useDownloadedList.label convey the meaning "suspected" (and not something like
   "known").
 -->
-<!ENTITY  tellMaybeAttackSite.label     "ਮੈਨੂੰ ਦੱਸੋ, ਜਦੋਂ ਕਿ ਸਾਇਟ, ਜੋ ਕਿ ਮੈਂ ਵੇਖ ਰਿਹਾ ਹੋਵਾਂ, ਉਹ ਇੱਕ ਸ਼ੱਕੀ ਹਮਲਾਵਰ ਸਾਇਟ ਹੋਵੇ">
+<!ENTITY  tellMaybeAttackSite2.label     "ਅਟੈਕ ਸਾਈਟ ਵਜੋਂ ਰਿਪੋਰਟ ਕੀਤੀਆਂ ਸਾਈਟਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ">
 <!ENTITY  tellMaybeAttackSite.accesskey "k">
 
-<!ENTITY  tellMaybeForgery.label     "ਮੈਨੂੰ ਜਾਣਕਾਰੀ ਦਿਓ, ਜੇਕਰ ਮੇਰੇ ਵਲੋਂ ਖੋਲ੍ਹੀ ਸਾਇਟ ਇੱਕ ਸ਼ੱਕੀ ਜ਼ਾਲ੍ਹਸਾਜ਼ੀ ਹੋਵੇ">
-<!ENTITY  tellMaybeForgery.accesskey "T">
-
-<!-- LOCALIZATION NOTE (askThirdParty.label):
-  The entities askThirdParty.label and askThirdPartyAfter.label appear on a
-  single line in preferences as follows:
-
-  &askThirdParty.label  [ menulist of phishing list providers ]   &askThirdPartyAfter.label;
--->
+<!ENTITY  tellMaybeForgery2.label     "ਵੈੱਬ ਜਾਲ੍ਹਸਾਜ਼ੀ ਰਿਪੋਰਟ ਕੀਤੀਆਂ ਸਾਈਟਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ">
+<!ENTITY  tellMaybeForgery.accesskey "B">
 
 <!ENTITY  addonExceptions.label         "ਛੋਟ...">
 <!ENTITY  addonExceptions.accesskey     "E">

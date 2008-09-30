@@ -1,17 +1,14 @@
-<!ENTITY newPagesIn.label             "ਨਵੇਂ ਪੇਜ਼ਾਂ ਨੂੰ ਖੋਲ੍ਹਣਾ ਹੈ:">
-<!ENTITY inNewWindow.label            "ਇੱਕ ਨਵੀਂ ਵਿੰਡੋ">
-<!ENTITY inNewWindow.accesskey        "w">
-<!ENTITY inNewTab.label               "ਇੱਕ ਨਵੀਂ ਟੈਬ">
-<!ENTITY inNewTab.accesskey           "t">
+<!ENTITY newWindowsAsTabs.label       "Open new windows in a new tab instead">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
 
-<!ENTITY warnCloseMultipleTabs.label  "ਮੈਨੂੰ ਸਾਵਧਾਨ ਕਰੋ, ਜਦੋਂ ਕਈ ਟੈਬਾਂ ਬੰਦ ਕਰਾਂ">
+<!ENTITY warnCloseMultipleTabs.label  "Warn me when closing multiple tabs">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
-<!ENTITY warnOpenManyTabs.label       "ਮੈਨੂੰ ਸਾਵਧਾਨ ਕਰੋ, ਜਦੋਂ ਬਹੁਤੀਆਂ ਟੈਬਾਂ ਖੋਲ੍ਹਣ ਨਾਲ &brandShortName; ਹੌਲੀ ਹੋ ਜਾਂਦਾ ਹੋਵੇ।">
+<!ENTITY warnOpenManyTabs.label       "Warn me when opening multiple tabs might slow down &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "o">
 
-<!ENTITY showTabBar.label             "ਹਮੇਸ਼ਾ ਟੈਬ ਬਾਰ ਵੇਖੋ">
+<!ENTITY showTabBar.label             "Always show the tab bar">
 <!ENTITY showTabBar.accesskey         "b">
 
-<!ENTITY switchToNewTabs.label        "ਜਦੋਂ ਮੈਂ ਇੱਕ ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਇੱਕ ਲਿੰਕ ਖੋਲ੍ਹਾਂ ਤਾਂ ਫੌਰੀ (ਤੁਰੰਤ) ਉਸ ਲਈ ਸਵਿੱਚ ਕਰੋ।">
+<!ENTITY switchToNewTabs.label        "When I open a link in a new tab, switch to it immediately">
 <!ENTITY switchToNewTabs.accesskey    "s">

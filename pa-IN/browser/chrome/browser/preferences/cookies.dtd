@@ -22,8 +22,6 @@
 
 <!ENTITY     filter.label                   "ਖੋਜ:">
 <!ENTITY     filter.accesskey               "S">
-<!ENTITY     clear.label                    "ਸਾਫ਼ ਕਰੋ">
-<!ENTITY     clear.accesskey                "l">
 
 <!ENTITY     button.close.label             "ਬੰਦ ਕਰੋ">
 <!ENTITY     button.close.accesskey         "C">

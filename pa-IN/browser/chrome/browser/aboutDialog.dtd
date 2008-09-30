@@ -1,9 +1,12 @@
 <!ENTITY aboutDialog.title      "&brandFullName; ਬਾਰੇ">
 <!ENTITY copyright              "ਮਾਣ">
 <!ENTITY copyright.accesskey    "C">
+<!ENTITY copyrightGNOME.accesskey   "r">
 <!ENTITY aboutLink              "&lt; &brandFullName; ਬਾਰੇ">
 <!ENTITY aboutLink.accesskey    "A">
 <!ENTITY aboutVersion           "ਵਰਜਨ">
+<!ENTITY closeCmdGNOME.label        "ਬੰਦ ਕਰੋ">  
+<!ENTITY closeCmdGNOME.accesskey    "C">
 <!ENTITY copyrightInfo          "&#169;੧੯੯੮-੨੦੦੮ ਲਈ ਯੋਗਦਾਨੀ । ਸਭ ਹੱਕ ਫਾਇਰਫਾਕਸ ਅਤੇ 
                                  ਫਾਇਰਫਾਕਸ ਲੋਗੋ Mozilla ਫਾਊਡੇਸ਼ਨ ਦੇ ਮਾਰਕੇ (ਟਰੇਂਡਮਾਰਕ) ਹਨ। ਸਭ
                                  ਰਾਖਵੇਂ ਹਨ।">

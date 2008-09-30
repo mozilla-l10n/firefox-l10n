@@ -10,7 +10,10 @@
 <!ENTITY  cancel.accesskey                "C">
 
 <!ENTITY  noupdatesfound.title            "ਕੋਈ ਅੱਪਡੇਟ ਨਹੀਂ ਮਿਲਿਆ ਹੈ">
-<!ENTITY  noupdatesfound.intro            "ਕੋਈ ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ। &brandShortName; ਲਗਾਤਾਰ ਨਵੇਂ ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ  ਕਰ ਸਕਦਾ ਹੈ।">
+<!ENTITY  noupdatesautoenabled.intro      "There are no updates available. &brandShortName; will check
+                                           periodically for updates.">
+<!ENTITY  noupdatesautodisabled.intro     "There are no updates available. Please check again later or enable
+                                           &brandShortName;'s automatic update checking.">
 
 <!ENTITY  clickHere.label                 "ਇਸ ਅੱਪਡੇਟ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਪਰਾਪਤ ਕਰਨ ਲਈ ਇੱਥੇ ਦਬਾਉ">
 
