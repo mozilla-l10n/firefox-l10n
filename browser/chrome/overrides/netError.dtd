@@ -31,16 +31,6 @@
 <!ENTITY netOffline.title "Modo desligado">
 <!ENTITY netOffline.longDesc " <ul> <li>Desmarque a opção &quot;Trabalhar em modo desligado&quot; no menu Ficheiro, e tente novamente.</li> </ul> ">
 
-<!ENTITY contentEncodingError.title "Erro de Codificação de Conteúdo">
-<!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Por favor informe os donos do sítio web do problema.</li> 
-</ul>">
-
-<!ENTITY unsafeContentType.title "Tipo de Ficheiro Inseguro">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Por favor informe os donos do sítio web do problema.</li> 
-</ul>">
-
 <!ENTITY netReset.title "A ligação foi reposta">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
@@ -62,38 +52,55 @@
 <!ENTITY unknownSocketType.title "Resposta inesperada do servidor">
 <!ENTITY unknownSocketType.longDesc " <ul> <li>Verifique se o seu sistema tem o Personal Security Manager instalado.</li> <li>Isto pode ser causado por uma configuração não comum no servidor.</li> </ul> ">
 
+<!ENTITY sharedLongDesc " <ul> <li>O sítio pode estar temporariamente indisponível ou demasiado ocupado. Tente novamente dentro de alguns momentos.</li> <li>Se não conseguir visualizar nenhuma página, verifique a ligação do seu computador à rede.</li> <li>Se o seu computador ou rede estão protegidos por uma firewall ou um proxy, verifique se o &brandShortName; tem permissão de acesso à Internet.</li> </ul> ">
+<!ENTITY contentEncodingError.title "Erro de Codificação de Conteúdo">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Por favor informe os donos do sítio web do problema.</li>
+</ul>
+">
+
+<!ENTITY unsafeContentType.title "Tipo de Ficheiro Inseguro">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Por favor informe os donos do sítio web do problema.</li>
+</ul>
+">
+
 <!ENTITY nssFailure2.title "Ligação Segura Falhada">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>A página que está a tentar ver não pode ser mostrada porque não foi possível verificar a autenticidade dos dados recebidos.</li> 
-<li>Por favor informe os donos do sítio web do problema. Alternativamente, use o comando no menu Ajuda para reportar o mau funcionamendo deste sítio.</li> 
-</ul>">
+<!ENTITY nssFailure2.longDesc "
+<ul>
+  <li>A página que está a tentar ver não pode ser mostrada porque não foi possível verificar a autenticidade dos dados recebidos.</li>
+  <li>Por favor informe os donos do sítio web do problema. Alternativamente, use o comando no menu Ajuda para reportar o mau funcionamendo deste sítio.</li>
+</ul>
+">
 
 <!ENTITY nssBadCert.title "Ligação Segura Falhada">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Este pode ser um problema com a configuração do servidor ou pode ser alguém a tentar fazer-se passar por este servidor.</li> 
-<li>Se se ligou a este servidor no passado, o erro pode ser temporário e pode tentar mais tarde.</li> 
-</ul>">
-
-<!ENTITY sharedLongDesc " <ul> <li>O sítio pode estar temporariamente indisponível ou demasiado ocupado. Tente novamente dentro de alguns momentos.</li> <li>Se não conseguir visualizar nenhuma página, verifique a ligação do seu computador à rede.</li> <li>Se o seu computador ou rede estão protegidos por uma firewall ou um proxy, verifique se o &brandShortName; tem permissão de acesso à Internet.</li> </ul> ">
+<!ENTITY nssBadCert.longDesc2 "
+<ul>
+  <li>Este pode ser um problema com a configuração do servidor ou pode ser alguém a tentar fazer-se passar por este servidor.</li>
+  <li>Se se ligou a este servidor no passado, o erro pode ser temporário e pode tentar mais tarde.</li>
+</ul>
+">
 
 <!ENTITY malwareBlocked.title "Suspeita de Sítio Maligno!">
-<!ENTITY malwareBlocked.longDesc "<p>Sítios de ataque tentam instalar programas que roubam a sua informação pessoal, usam o seu computador para atacar outros ou causam danos ao seus sistema.</p> 
-<p>Os donos de sítios web que acreditam que os seus sítios foram reportados erroneamente como um sítio de ataque pode <a href='http://www.stopbadware.org/home/reviewinfo' >pedir uma revisão da situação</a>.</p>">
+<!ENTITY malwareBlocked.longDesc "
+<p>Sítios de ataque tentam instalar programas que roubam a sua informação pessoal, usam o seu computador para atacar outros ou causam danos ao seus sistema.</p>
+<p>Os donos de sítios web que acreditam que os seus sítios foram reportados erroneamente como um sítio de ataque pode <a href='http://www.stopbadware.org/home/reviewinfo' >pedir uma revisão da situação</a>.</p>
+">
 
 <!ENTITY phishingBlocked.title "Suspeita de Engodo!">
-<!ENTITY phishingBlocked.longDesc "<p>Introduzir qualquer informação pessoal nesta página pode resultar em roubo de identidade ou outro tipo de fraude.</p> 
-<p>Este tipo de falsificações web são usadas em esquemas conhecidos como ataques de engodo, em que páginas web fraudulentas e mensagens de correio electrónico são utilizadas para imitar fontes em que confia.</p>">
+<!ENTITY phishingBlocked.longDesc "
+<p>Introduzir qualquer informação pessoal nesta página pode resultar em roubo de identidade ou outro tipo de fraude.</p>
+<p>Este tipo de falsificações web são usadas em esquemas conhecidos como ataques de engodo, em que páginas web fraudulentas e mensagens de correio electrónico são utilizadas para imitar fontes em que confia.</p>
+">
 
 <!ENTITY securityOverride.linkText "Ou pode adicionar uma excepção...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Tirem-me daqui!">
 <!ENTITY securityOverride.exceptionButtonLabel "Adicionar excepção...">
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to firefox. -->
+<!ENTITY securityOverride.warningText "
+<p>Não deve adicionar uma excepção se estiver a utilizar uma ligação à Internet em que não confie plenamente ou se não está habituado a ver um aviso deste servidor.</p>
 
-
-<!ENTITY securityOverride.warningText "<p>Não deve adicionar uma excepção se estiver a utilizar uma ligação à Internet em que não confie plenamente ou se não está habituado a ver um aviso deste servidor.</p> 
- 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/> 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>">
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+">

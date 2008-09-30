@@ -6,8 +6,8 @@
 <!ENTITY security.warn_entering_weak.label "Estou prestes a visualizar uma página que utiliza uma cifra fraca.">
 <!ENTITY security.warn_entering_weak.accesskey "g">
 <!ENTITY security.warn_leaving_secure.label "Deixar uma página cifrada para uma que não é cifrada.">
-<!ENTITY security.warn_leaving_secure.accesskey "d">
+<!ENTITY security.warn_leaving_secure.accesskey "D">
 <!ENTITY security.warn_submit_insecure.label "Envio informação que não é cifrada.">
-<!ENTITY security.warn_submit_insecure.accesskey "e">
+<!ENTITY security.warn_submit_insecure.accesskey "E">
 <!ENTITY security.warn_viewing_mixed.label "Estou prestes a visualizar uma página cifrada que contém algumas informações não cifradas.">
 <!ENTITY security.warn_viewing_mixed.accesskey "u">

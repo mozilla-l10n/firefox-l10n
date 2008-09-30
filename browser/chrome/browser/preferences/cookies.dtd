@@ -22,6 +22,9 @@
 
 <!ENTITY filter.label "Procurar:">
 <!ENTITY filter.accesskey "P">
+<!ENTITY clear.label "Limpar">
+<!ENTITY clear.accesskey "l">
 
 <!ENTITY button.close.label "Fechar">
-<!ENTITY button.close.accesskey "E">
+<!ENTITY button.close.accesskey "e">
+
