@@ -243,7 +243,6 @@
 <!ENTITY fullZoomToggleCmd.accesskey "т">
 <!ENTITY fullZoom.label "Павялічэнне">
 <!ENTITY fullZoom.accesskey "П">
-<!ENTITY newTabButton.tooltip "Адчыніць новую ўстаўку">
 <!ENTITY newWindowButton.tooltip "Адчыніць новае вакно">
 <!ENTITY sidebarCloseButton.tooltip "Зачыніць палічку">
 <!ENTITY cutButton.tooltip "Выразаць">

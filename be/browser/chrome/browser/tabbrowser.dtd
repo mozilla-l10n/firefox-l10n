@@ -16,3 +16,4 @@
 <!ENTITY bookmarkThisTab.accesskey "к">
 <!ENTITY undoCloseTab.label "Адмена закрыцця ўстаўкі">
 <!ENTITY undoCloseTab.accesskey "А">
+<!ENTITY newTabButton.tooltip "Адкрыць новую ўстаўку">
