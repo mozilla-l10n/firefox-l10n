@@ -1,9 +1,0 @@
-<!ENTITY caption.label "Заблоковані виринаючі вікна">
-
-<!ENTITY intro.label "Заблоковано виринаючі вікна з наступних сторінок:">
-
-<!ENTITY done.label "Гаразд">
-<!ENTITY done.accesskey "з">
-
-<!ENTITY unblock.label "Розблокувати сайт">
-<!ENTITY unblock.accesskey "Р">
