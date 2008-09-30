@@ -62,7 +62,7 @@
 <!ENTITY modelDeleteImmediately.label "Le supprimer immédiatement">
 <!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Nettoyer le dossier « Courrier entrant » en quittant &brandShortName;.">
+<!ENTITY expungeOnExit.label "Nettoyer le dossier « Courrier entrant » lors de la sortie.">
 <!ENTITY expungeOnExit.accesskey "y">
 <!ENTITY emptyTrashOnExit.label "Vider la corbeille lors de la sortie">
 <!ENTITY emptyTrashOnExit.accesskey "b">
