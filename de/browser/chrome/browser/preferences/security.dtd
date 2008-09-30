@@ -5,13 +5,13 @@
   The methods by which forged (phished) and attack sites will be detected by
   phishing providers will vary from human review to machine-based heuristics to a
   combination of both, so it's important that these strings and
-  useDownloadedList.label convey the meaning "suspected" (and not something like
+  useDownloadedList.label convey the meaning "reported" (and not something like
   "known").
 -->
-<!ENTITY  tellMaybeAttackSite.label     "Hinweis anzeigen, falls die besuchte Webseite als attackierende Website eingeschätzt wird">
-<!ENTITY  tellMaybeAttackSite.accesskey "H">
-<!ENTITY  tellMaybeForgery.label     "Hinweis anzeigen, falls die besuchte Webseite als Betrugsversuch eingeschätzt wird">
-<!ENTITY  tellMaybeForgery.accesskey "f">
+<!ENTITY  tellMaybeAttackSite2.label     "Webseite blockieren, wenn sie als attackierend gemeldet wurde">
+<!ENTITY  tellMaybeAttackSite.accesskey "b">
+<!ENTITY  tellMaybeForgery2.label     "Webseite blockieren, wenn sie als Betrugsversuch gemeldet wurde">
+<!ENTITY  tellMaybeForgery.accesskey "g">
 
 <!ENTITY  addonExceptions.label         "Ausnahmen…">
 <!ENTITY  addonExceptions.accesskey     "A">
