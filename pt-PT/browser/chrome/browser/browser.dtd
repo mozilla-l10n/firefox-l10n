@@ -306,7 +306,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Mudar tamanho">
 <!ENTITY fullZoom.accesskey             "t">
 
-<!ENTITY newTabButton.tooltip "Abrir um novo separador">
 <!ENTITY newWindowButton.tooltip "Abrir uma nova janela">
 <!ENTITY sidebarCloseButton.tooltip "Fechar barra lateral">
 
