@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label "Novas páginas devem ser visualizadas:">
-<!ENTITY inNewWindow.label "numa nova janela">
-<!ENTITY inNewWindow.accesskey "v">
-<!ENTITY inNewTab.label "num novo separador">
-<!ENTITY inNewTab.accesskey "s">
+<!ENTITY newWindowsAsTabs.label       "Abrir novas janelas num separador">
+<!ENTITY newWindowsAsTabs.accesskey   "s">
 
 <!ENTITY warnCloseMultipleTabs.label  "Avisar ao fechar uma janela com múltiplos separadores">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">

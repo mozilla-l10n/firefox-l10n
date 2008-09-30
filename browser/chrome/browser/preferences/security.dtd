@@ -7,8 +7,8 @@
   useDownloadedList.label convey the meaning "suspected" (and not something like
   "known").
 -->
-<!ENTITY  tellMaybeForgery.label     "Avisar se o sítio que estou a visitar é uma possível falsificação">
-<!ENTITY  tellMaybeForgery.accesskey "f">
+<!ENTITY  tellMaybeForgery2.label     "Bloquear sítios reportados como falsificações">
+<!ENTITY  tellMaybeForgery.accesskey "B">
 
 <!ENTITY addonExceptions.label "Excepções...">
 <!ENTITY addonExceptions.accesskey "x">
@@ -35,5 +35,5 @@
 <!ENTITY warningSettings.label "Definições...">
 <!ENTITY warningSettings.accesskey "D">
 
-<!ENTITY  tellMaybeAttackSite.label     "Diga-me se o sítio que estou a visitar é suspeito de ser um sítio de ataque">
+<!ENTITY  tellMaybeAttackSite2.label     "Bloquear sítios reportados como sítios de ataque">
 <!ENTITY  tellMaybeAttackSite.accesskey "q">

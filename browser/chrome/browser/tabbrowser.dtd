@@ -16,3 +16,4 @@
 <!ENTITY  bookmarkThisTab.accesskey    "d">
 <!ENTITY  undoCloseTab.label          "Reabrir Separador Fechado">
 <!ENTITY  undoCloseTab.accesskey      "a">
+<!ENTITY  newTabButton.tooltip        "Abrir novo separador">
