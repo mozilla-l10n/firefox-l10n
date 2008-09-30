@@ -1,20 +1,21 @@
-<!ENTITY newsblogTitle.label "RSS-accountinstellingen">
+<!ENTITY newsblogTitle.label "RSS-akkountynstellings">
 
-<!ENTITY biffStart.label "Op nieuwe artikelen controleren na elke">
-<!ENTITY biffStart.accesskey "c">
+<!ENTITY biffStart.label "Op nije artikelen kontrolearje nei elke">
+<!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label "minuten">
 
-<!ENTITY loginAtStartup.label "Op nieuwe artikelen controleren bij opstarten">
+<!ENTITY loginAtStartup.label "Op nije artikelen kontrolearje by opstarten">
 <!ENTITY loginAtStartup.accesskey "o">
 
-<!ENTITY useQuickMode.label "Standaard de artikelsamenvatting weergeven i.p.v. de webpagina te laden">
+<!ENTITY useQuickMode.label "Standert de artikelgearfetting werjaan y.s.f. de webside te laden">
 <!ENTITY useQuickMode.accesskey "S">
 
-<!ENTITY manageSubscriptions.label "Abonnementen beheren...">
+<!ENTITY manageSubscriptions.label "Abonneminten behearje…">
 <!ENTITY manageSubscriptions.accesskey "b">
 
 <!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName            "Nieuws &amp; Blogs">
+<!ENTITY rss.accountName            "Nijs &amp; Blogs">
 <!ENTITY rss.wizardShortName        "RSS">
-<!ENTITY rss.wizardLongName         "RSS-nieuws &amp; -blogs">
-<!ENTITY rss.hostName               "Nieuws &amp; Blogs">
+<!ENTITY rss.wizardLongName         "RSS-nijs &amp; -blogs">
+<!ENTITY rss.wizardLongName.accesskey "R">                                      
+<!ENTITY rss.hostName               "Nijs &amp; Blogs">

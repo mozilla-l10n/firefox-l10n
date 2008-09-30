@@ -35,19 +35,21 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY subscribeDialog.title "Abonneren">
-<!ENTITY subscribeButton.label "Abonneren">
-<!ENTITY subscribeButton.accesskey "b">
-<!ENTITY unsubscribeButton.label "Abonnement opzeggen">
-<!ENTITY unsubscribeButton.accesskey "z">
-<!ENTITY refreshButton.label "Vernieuwen">
-<!ENTITY refreshButton.accesskey "V">
-<!ENTITY stopButton.label "Stoppen">
-<!ENTITY stopButton.accesskey "S">
-<!ENTITY server.label "Account:">
-<!ENTITY server.accesskey "A">
-<!ENTITY subscribedHeader.label "Abonneren">
+<!ENTITY subscribeDialog.title        "Abonnearje">
+<!ENTITY subscribeButton.label        "Abonnearje">
+<!ENTITY subscribeButton.accesskey    "b">
+<!ENTITY unsubscribeButton.label      "Abonnemint opsizze">
+<!ENTITY unsubscribeButton.accesskey  "o">
+<!ENTITY newGroupsTab.label           "Nije groepen">
+<!ENTITY newGroupsTab.accesskey       "N">
+<!ENTITY refreshButton.label          "Fernije">
+<!ENTITY refreshButton.accesskey      "V">
+<!ENTITY stopButton.label             "Stoppe">
+<!ENTITY stopButton.accesskey         "S">
+<!ENTITY server.label                 "Akkount:">
+<!ENTITY server.accesskey             "A">
+<!ENTITY subscribedHeader.label       "Abonnearje">
 <!-- commenting out until bug 38906 is fixed 
-<!ENTITY messagesHeader.label         "Messages"> -->
-<!ENTITY namefield.label "Nieuwsgroepen die bevatten:">
-<!ENTITY namefield.accesskey "N">
+<!ENTITY messagesHeader.label         "Berichten"> -->
+<!ENTITY namefield.label              "Nijsgroepen toane mei de tekst:">
+<!ENTITY namefield.accesskey          "t">

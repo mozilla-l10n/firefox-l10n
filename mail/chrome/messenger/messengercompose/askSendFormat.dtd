@@ -3,23 +3,14 @@
 
 <!ENTITY recipient.label "Van een aantal geadresseerden staat niet geregistreerd of ze HTML-e-mail kunnen ontvangen.">
 
-<!ENTITY convertibleDefault.label "">
-<!ENTITY convertibleYes.label "Uw bericht kan worden geconverteerd naar platte tekst zonder informatie te verliezen">
-<!ENTITY convertibleAltering.label "Uw bericht kan worden geconverteerd naar platte tekst zonder belangrijke informatie te verliezen. De platte-tekstversie kan er echter anders uitzien dan zoals het er uitzag bij het opstellen.">
-<!ENTITY convertibleNo.label "U hebt echter opmaak gebruikt (bijv. kleuren) die niet kan worden geconverteerd naar platte tekst.">
-
-<!ENTITY question.label "Wilt u het bericht converteren naar platte tekst of verzenden als HTML?">
+<!ENTITY question.label "Wilt u het bericht converteren naar platte tekst of toch verzenden als HTML?">
 
 <!ENTITY plainTextAndHtml.label "Als platte tekst en HTML verzenden">
+<!ENTITY plainTextAndHtml.accesskey "a">
 <!ENTITY plainTextOnly.label "Alleen als platte tekst verzenden">
+<!ENTITY plainTextOnly.accesskey "p">
 <!ENTITY htmlOnly.label "Alleen als HTML verzenden">
-
-<!ENTITY plainTextAndHtmlRecommended.label "Als platte tekst en HTML verzenden (aanbevolen)">
-<!ENTITY plainTextOnlyRecommended.label "Alleen als platte tekst verzenden (aanbevolen)">
-<!ENTITY htmlOnlyRecommended.label "Alleen als HTML verzenden">
-<!ENTITY recommended.label "(aanbevolen)">
+<!ENTITY htmlOnly.accesskey "H">
 
 <!ENTITY send.label "Verzenden">
-<!ENTITY cancel.label "Annuleren">
-<!ENTITY recipients.label "Geadresseerden...">
-<!ENTITY help.label "Help">
+<!ENTITY send.accesskey "V">

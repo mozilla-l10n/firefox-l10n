@@ -2,8 +2,10 @@
 <!ENTITY  window.width                  "41em">
 
 <!ENTITY  proxyTitle.label              "Proxy’s voor toegang tot het internet configureren">
-<!ENTITY  directTypeRadio.label         "Directe verbinding met het internet">
-<!ENTITY  directTypeRadio.accesskey     "D">
+<!ENTITY  noProxyTypeRadio.label        "Geen proxy">
+<!ENTITY  noProxyTypeRadio.accesskey    "y">
+<!ENTITY  systemTypeRadio.label         "Systeem proxyinstellingen gebruiken">
+<!ENTITY  systemTypeRadio.accesskey     "u">
 <!ENTITY  WPADTypeRadio.label           "Proxyinstellingen voor dit netwerk automatisch detecteren">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
 <!ENTITY  manualTypeRadio.label         "Handmatige proxyconfiguratie:">
@@ -26,12 +28,11 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-<!ENTITY  port.label                    "Poort:">
+<!ENTITY  HTTPport.label                "Poort:">
 <!ENTITY  HTTPport.accesskey            "P">
+<!ENTITY  SSLport.label                 "Poort:">
 <!ENTITY  SSLport.accesskey             "o">
-<!ENTITY  FTPport.accesskey             "r">
-<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY  gopherPort.accesskey          "">
+<!ENTITY  SOCKSport.label               "Poort:">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Geen proxy voor:">
 <!ENTITY  noproxy.accesskey             "n">

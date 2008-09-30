@@ -1,24 +1,24 @@
 <!ENTITY offlineDialog.title       "Offline-instellingen">
 
 <!ENTITY textStartUp   "Bij het opstarten:">
-<!ENTITY radioRememberPrevState "Vorige onlinestaat hanteren">
+<!ENTITY radioRememberPrevState.label "Vorige onlinestaat hanteren">
 <!ENTITY radioRememberPrevState.accesskey "h">
-<!ENTITY radioAskMe "Mij de onlinestaat vragen">
+<!ENTITY radioAskMe.label "Mij de onlinestaat vragen">
 <!ENTITY radioAskMe.accesskey "s">
-<!ENTITY radioAlwaysOnline "Altijd online opstarten">
+<!ENTITY radioAlwaysOnline.label "Altijd online opstarten">
 <!ENTITY radioAlwaysOnline.accesskey "o">
 
 <!ENTITY textGoingOnline "Wilt u niet-verzonden berichten verzenden als u online gaat?">
-<!ENTITY radioAutoSend "Ja">
+<!ENTITY radioAutoSend.label "Ja">
 <!ENTITY radioAutoSend.accesskey "J">
-<!ENTITY radioNotSend "Nee">
+<!ENTITY radioNotSend.label "Nee">
 <!ENTITY radioNotSend.accesskey "N">
-<!ENTITY radioAskUnsent "Mij vragen">
+<!ENTITY radioAskUnsent.label "Mij vragen">
 <!ENTITY radioAskUnsent.accesskey "v">
 <!ENTITY textGoingOffline "Wilt u berichten downloaden voor offlinegebruik voordat u offline gaat?">
-<!ENTITY radioAutoDownload "Ja">
+<!ENTITY radioAutoDownload.label "Ja">
 <!ENTITY radioAutoDownload.accesskey "a">
-<!ENTITY radioNotDownload "Nee">
+<!ENTITY radioNotDownload.label "Nee">
 <!ENTITY radioNotDownload.accesskey "e">
-<!ENTITY radioAskDownload "Mij vragen">
+<!ENTITY radioAskDownload.label "Mij vragen">
 <!ENTITY radioAskDownload.accesskey "r">

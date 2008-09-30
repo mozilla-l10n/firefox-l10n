@@ -66,15 +66,3 @@
 <!ENTITY sortAscending.accesskey "p">
 <!ENTITY sortDescending.label "Aflopend">
 <!ENTITY sortDescending.accesskey "f">
-
-<!-- context menu -->
-<!ENTITY composeEmail.label "E-mail opstellen aan:">
-<!ENTITY composeEmail.accesskey "o">
-<!ENTITY deleteAddrBookCard.label "Verwijderen">
-<!ENTITY deleteAddrBookCard.accesskey "V">
-<!ENTITY newAddrBookCard.label "Nieuwe kaart...">
-<!ENTITY newAddrBookCard.accesskey "k">
-<!ENTITY newAddrBookMailingList.label "Nieuwe mailinglijst...">
-<!ENTITY newAddrBookMailingList.accesskey "l">
-<!ENTITY addrBookCardProperties.label "Eigenschappen">
-<!ENTITY addrBookCardProperties.accesskey "E">

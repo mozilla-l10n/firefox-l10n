@@ -5,8 +5,7 @@
 <!ENTITY messageStorage.label "Berichtenopslag">
 <!ENTITY emptyTrashOnExit.label "Prullenbak leegmaken bij afsluiten">
 <!ENTITY emptyTrashOnExit.accesskey "P">
-<!ENTITY localPath.label "Lokale directory">
-<!ENTITY localPath.accesskey "L">
+<!ENTITY localPath.label "Lokale map">
 <!ENTITY localFolderPicker.label "Selecteer lokale map">
-<!ENTITY browseFolder.label "Bladeren...">
+<!ENTITY browseFolder.label "Bladeren…">
 <!ENTITY browseFolder.accesskey "B">

@@ -70,27 +70,25 @@
 <!ENTITY loginAtStartup.accesskey "o">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-	 of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Mij vragen voor het downloaden van meer dan">
 <!ENTITY maxMessagesStart.accesskey "v">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "berichten">
-<!ENTITY alwaysAuthenticate.label "Altijd verzoeken om verificatie bij verbinden met deze server">
+<!ENTITY alwaysAuthenticate.label "Altijd verzoeken om authenticatie bij verbinden met deze server">
 <!ENTITY alwaysAuthenticate.accesskey "z">
 <!ENTITY newsrcFilePath.label "newsrc-bestand:">
-<!ENTITY newsrcFilePath.accesskey "r">
-<!ENTITY localPath.label "Lokale directory">
-<!ENTITY localPath.accesskey "y">
+<!ENTITY localPath.label "Lokale map">
 <!ENTITY abbreviate.label "Nieuwsgroepnamen in het berichtenmapvenster tonen als:">
 <!ENTITY abbreviateOn.label "Volledige namen (bijvoorbeeld ‘netscape.public.mozilla.mail-news’)">
 <!ENTITY abbreviateOff.label "Afgekorte namen (bijvoorbeeld ‘n.p.m.mail-news’)">
-<!ENTITY advancedButton.label "Geavanceerd...">
+<!ENTITY advancedButton.label "Geavanceerd…">
 <!ENTITY serverDefaultCharset.label "Standaard tekenset:">
 <!ENTITY advancedButton.accesskey "G">
 <!ENTITY localFolderPicker.label "Selecteer lokale map">
-<!ENTITY browseFolder.label "Bladeren...">
+<!ENTITY browseFolder.label "Bladeren…">
 <!ENTITY browseFolder.accesskey "B">
 <!ENTITY newsrcPicker.label "newsrc-bestand selecteren">
-<!ENTITY browseNewsrc.label "Bladeren...">
+<!ENTITY browseNewsrc.label "Bladeren…">
 <!ENTITY browseNewsrc.accesskey "e">

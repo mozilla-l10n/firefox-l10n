@@ -103,16 +103,16 @@ Installatie-instructies voor OS/2
 
      1. Klik op de "Zip"-koppeling op de website waarvan u Thunderbird ophaalt om het
      ZIP-pakket te downloaden. Dit bestand heeft waarschijnlijk een naam als
-     thunderbird-*-os2.zip, waar de "*" vervangen is door het versienummer van 
-     Thunderbird.
+     thunderbird-x.x.x.nl.os2.zip, waar de "x.x.x" is vervangen door het versienummer
+     van Thunderbird.
 
      2. Navigeer naar de plaats waar u het bestand hebt gedownload en pak het 
      uit met uw favoriete uitpakprogamma.
 
      3. Denk eraan dat het uitpakken een map "thunderbird" creëert in de locatie 
-     waar u het heen stuurt,
-        unzip thunderbird-1.0.7-os2.zip -d c:\thunderbird-1.0.6
-     zal bv. Thunderbird uitpakken in c:\thunderbird-1.0.6\thunderbird.
+     waar u het heen stuurt. Zo zal bv.
+        unzip thunderbird-1.0.1.nl.os2.zip -d c:\thunderbird-1.0.1
+     Thunderbird uitpakken in c:\thunderbird-1.0.1\thunderbird.
 
      4. Zorg ervoor dat u _niet_ uitpakt over een vorige installatie. Dit levert
      wel vaker problemen op.
@@ -127,7 +127,7 @@ Verschillende versies tegelijk laten lopen
 ------------------------------------------
 
 Omdat verschillende leden van de Mozilla-familie (Mozilla, Firefox, Thunderbird,
-IBM Web Browser...) verschillende, incompatibele versies van dezelfde DLL kunnen
+IBM Web Browser…) verschillende, incompatibele versies van dezelfde DLL kunnen
 gebruiken, kunnen enkele extra stappen vereist zijn om deze tegelijk te laten
 lopen.
 
@@ -184,17 +184,13 @@ ernaar verwijst.
 Andere belangrijke omgevingsvariabelen
 --------------------------------------
 
-Enkele omgevingsvariabelen kunnen worden gebruikt om speciaal gedrag van Thunderbird
+Er kunnen enkele omgevingsvariabelen worden gebruikt om speciaal gedrag van Thunderbird
 op OS/2 te controleren:
 
 - set NSPR_OS2_NO_HIRES_TIMER=1
   Dit zorgt ervoor dat Thunderbird de hogeresolutietimer van OS/2 niet gebruikt.
-  Stel dit in als andere applicaties die de hogeresolutietimer gebruiken 
-  (mediaprogramma’s) zich vreemd gedragen.
-
-- set MOZILLA_USE_EXTENDED_FT2LIB=T
-  Als u de Innotek Font Engine hebt geïnstalleerd schakelt deze variabele
-  speciale functies in Thunderbird in om met unicodekarakters om te gaan.
+  Stel dit in als andere toepassingen die de hogeresolutietimer gebruiken 
+  (multimediaprogramma’s) zich vreemd gedragen.
 
 - set MOZ_NO_REMOTE=1
   Gebruik dit om twee versies van Thunderbird tegelijk te draaien (zoals bv. een
@@ -210,11 +206,18 @@ Bekende problemen met de OS/2-versie
 Problemen voor alle platformen worden bij elke milestone-uitgave gewoonlijk
 opgesomd in de uitgaveopmerkingen.
 
-- Bug 167884, "100% CPU load when viewing site [tiling transparent PNG]":
-  https://bugzilla.mozilla.org/show_bug.cgi?id=167884
-Op OS/2 komt het voor dat Mozilla’s weergavemodule erg traag werkt bij websites
-die kleine, herhaalde beelden met transparantie voor hun lay-out gebruiken.
-Dit heeft ook invloed op de weergave van HTML-e-mailberichten in Thunderbird.
+- Thunderbird zal een geluidsmelding geven bij het kopiëren van meer dan 64 kB aan
+  tekst naar het klembord. Dit gebeurt om gebruikers erop te attenderen dat vele
+  toepassingen (in het bijzonder de systeemeditor, EPM en toepassingen die worden
+  uitgevoerd in VIO-vensters) niet meer dan deze hoeveelheid kunnen plakken.
 
-Andere bekende problemen kunnen worden gevonden onder de koppeling "Current Open
+- Thunderbird kan geen gebruik maken van OS/2-lettertypen zoals WarpSans en andere welke
+  niet beschikbaar zijn in het Type1- of TrueType-formaat. Het is daarom raadzaam
+  om het "Workplace Sans"-lettertype te installeren vanaf
+     http://users.socis.ca/~ataylo00/creative/fonts/
+  of
+     http://hobbes.nmsu.edu/cgi-bin/h-search?key=wpsu_ttf
+  welke Thunderbird zal gebruiken als vervanger van WarpSans.
+
+Andere bekende problemen zijn te vinden onder de koppeling "Current Open
 Warpzilla Bugs" op de OS/2 Mozilla-pagina <http://www.mozilla.org/ports/os2/>.

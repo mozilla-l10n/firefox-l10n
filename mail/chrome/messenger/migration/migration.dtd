@@ -1,8 +1,8 @@
 
 <!ENTITY migrationWizard.title "Importeerassistent">
 
-<!ENTITY importFrom.label "Importeer opties, accountinstellingen, adresboek en andere gegevens uit:">
-<!ENTITY importFromUnix.label "Importeer voorkeuren, accountinstellingen, adresboek en andere gegevens uit:">
+<!ENTITY importFromWin.label "Opties, accountinstellingen, adresboek, filters en andere gegevens importeren uit:">
+<!ENTITY importFromNonWin.label "Voorkeuren, accountinstellingen, adresboek en andere gegevens importeren uit:">
 
 <!ENTITY importFromNothing.label "Niets importeren">
 <!ENTITY importFromNothing.accesskey "t">
@@ -21,8 +21,8 @@
 <!ENTITY importItems.title "Te importeren items">
 <!ENTITY importItems.label "Selecteer de te importeren items:">
 
-<!ENTITY migrating.title "Bezig met importeren...">
-<!ENTITY migrating.label "De volgende items worden momenteel geïmporteerd...">
+<!ENTITY migrating.title "Bezig met importeren…">
+<!ENTITY migrating.label "De volgende items worden momenteel geïmporteerd…">
 
 <!ENTITY selectProfile.title "Profiel selecteren">
 <!ENTITY selectProfile.label "De volgende profielen zijn beschikbaar om uit te importeren:">
