@@ -40,8 +40,8 @@
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 
 <!-- These strings are for use specifically in the editor's link dialog. -->
-<!ENTITY windowTitle.label "Opslaan en tekencodering veranderen">
-<!ENTITY documentTitleTitle.label "Paginatitel">
-<!ENTITY documentCharsetTitle.label "Tekencodering">
-<!ENTITY documentCharsetDesc.label "Selecteer de tekencodering waarin u het document wil opslaan:">
-<!ENTITY documentExportToText.label "Exporteren naar tekst">
+<!ENTITY windowTitle.label "Bewarje en tekenkodearing feroarje">
+<!ENTITY documentTitleTitle.label "Sidetitel">
+<!ENTITY documentCharsetTitle.label "Tekenkodearing">
+<!ENTITY documentCharsetDesc.label "Selektearje de tekenkodearing wêryn jo it dokumint bewarje wolle:">
+<!ENTITY documentExportToText.label "Eksportearje nei tekst">

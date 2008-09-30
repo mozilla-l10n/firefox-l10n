@@ -34,32 +34,32 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Tekstgebiedeigenschappen">
+<!ENTITY windowTitle.label "Tekstgebiedeigenskippen">
 
-<!ENTITY Settings.label "Instellingen">
+<!ENTITY Settings.label "Ynstellings">
 
-<!ENTITY TextAreaName.label "Veldnaam:">
+<!ENTITY TextAreaName.label "Fjildnamme:">
 <!ENTITY TextAreaName.accessKey "n">
-<!ENTITY TextAreaRows.label "Rijen:">
+<!ENTITY TextAreaRows.label "Rigen:">
 <!ENTITY TextAreaRows.accessKey "R">
 <!ENTITY TextAreaCols.label "Kolommen:">
 <!ENTITY TextAreaCols.accessKey "K">
-<!ENTITY TextAreaReadOnly.label "Alleen lezen">
+<!ENTITY TextAreaReadOnly.label "Allinnich lêze">
 <!ENTITY TextAreaReadOnly.accessKey "A">
-<!ENTITY TextAreaDisabled.label "Uitgeschakeld">
-<!ENTITY TextAreaDisabled.accessKey "D">
-<!ENTITY TextAreaTabIndex.label "Tabindex:">
-<!ENTITY TextAreaTabIndex.accessKey "i">
-<!ENTITY TextAreaAccessKey.label "Sneltoets:">
-<!ENTITY TextAreaAccessKey.accessKey "S">
-<!ENTITY InitialText.label "Initiële tekst:">
+<!ENTITY TextAreaDisabled.label "Utskeakele">
+<!ENTITY TextAreaDisabled.accessKey "U">
+<!ENTITY TextAreaTabIndex.label "Tabyndeks:">
+<!ENTITY TextAreaTabIndex.accessKey "y">
+<!ENTITY TextAreaAccessKey.label "Fluchtoets:">
+<!ENTITY TextAreaAccessKey.accessKey "F">
+<!ENTITY InitialText.label "Ynisjle tekst:">
 <!ENTITY InitialText.accessKey "t">
 
-<!ENTITY TextAreaWrap.label "Terugloopmodus:">
+<!ENTITY TextAreaWrap.label "Tebekrinmoadus:">
 <!ENTITY TextAreaWrap.accessKey "m">
-<!ENTITY WrapDefault.value "Standaard">
-<!ENTITY WrapOff.value "Uit">
-<!ENTITY WrapHard.value "Hard">
-<!ENTITY WrapSoft.value "Zacht">
+<!ENTITY WrapDefault.value "Standert">
+<!ENTITY WrapOff.value "Ut">
+<!ENTITY WrapHard.value "Hurd">
+<!ENTITY WrapSoft.value "Sêft">
 <!ENTITY WrapPhysical.value "Fysiek">
-<!ENTITY WrapVirtual.value "Virtueel">
+<!ENTITY WrapVirtual.value "Firtueel">

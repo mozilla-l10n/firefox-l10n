@@ -35,7 +35,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Ankerverwijzingseigenschappen">
-<!ENTITY anchorNameEditField.label "Ankernaam:">
+<!ENTITY windowTitle.label "Ankerferwizingseigenskippen">
+<!ENTITY anchorNameEditField.label "Ankernamme:">
 <!ENTITY anchorNameEditField.accessKey "A">
-<!ENTITY nameInput.tooltip "Voer een unieke naam in voor deze ankerverwijzing (doel)">
+<!ENTITY nameInput.tooltip "Fier in unieke namme yn foar dizze ankerferwizing (doel)">

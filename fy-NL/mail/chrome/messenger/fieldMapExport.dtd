@@ -35,7 +35,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY fieldMapExport.title "Adresboek exporteren">
-<!ENTITY fieldMapExport.add "Veld toevoegen ->">
-<!ENTITY fieldMapExport.addAll "Alles toevoegen ->">
-<!ENTITY fieldList.label "Adresvelden">
+<!ENTITY fieldMapExport.title "Adresboek eksportearje">
+<!ENTITY fieldMapExport.add "Fjild tafoegje ->">
+<!ENTITY fieldMapExport.addAll "Alles tafoegje ->">
+<!ENTITY fieldList.label "Adresfjilden">

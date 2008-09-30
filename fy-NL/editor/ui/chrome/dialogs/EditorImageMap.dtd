@@ -45,7 +45,7 @@
 <!-- Menu Items -->
 <!-- File menu -->
 <!ENTITY mapfileMenu.label "Bestân">
-<!ENTITY mapfilemenu.accesskey "B">
+<!ENTITY mapfileMenu.accesskey "B">
 <!ENTITY clearCmd.label "Wisse">
 <!ENTITY clearCmd.accesskey "W">
 <!ENTITY closeCmd.label "Slute">
@@ -53,7 +53,7 @@
 
 <!-- Edit menu -->
 <!ENTITY mapeditMenu.label "Bewurkje">
-<!ENTITY mapeditmenu.accesskey "w">
+<!ENTITY mapeditMenu.accesskey "w">
 <!ENTITY cutCmd.label "Knippe">
 <!ENTITY cutCmd.accesskey "K">
 <!ENTITY copyCmd.label "Kopiearje">
@@ -67,12 +67,12 @@
 
 <!-- View menu -->
 <!ENTITY mapviewMenu.label "Byld">
-<!ENTITY mapviewmenu.accesskey "d">
+<!ENTITY mapviewMenu.accesskey "d">
 <!ENTITY showhideTbarCmd.label "Arkbalke ferstoppe">
 <!ENTITY showhideTbarCmd.accesskey "t">
 <!-- Scaling -->
 <!ENTITY mapviewScale.label "Skeal">
-<!ENTITY mapviewscale.accesskey "S">
+<!ENTITY mapviewScale.accesskey "S">
 <!ENTITY apercentCmd.label "100">
 <!ENTITY apercentCmd.accesskey "1">
 <!ENTITY bpercentCmd.label "200">
