@@ -16,3 +16,4 @@
 <!ENTITY  bookmarkThisTab.accesskey   "B">
 <!ENTITY  undoCloseTab.label          "වැසීම අහෝසි කරන්න">
 <!ENTITY  undoCloseTab.accesskey      "U">
+<!ENTITY  newTabButton.tooltip        "නව ටැබයක් විවෘත කරන්න">
