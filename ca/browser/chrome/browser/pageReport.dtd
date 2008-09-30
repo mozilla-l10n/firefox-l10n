@@ -1,9 +1,0 @@
-<!ENTITY caption.label "Emergents blocades">
-
-<!ENTITY intro.label "S'ha evitat que les següents pàgines mostrin finestres emergents no soŀlicitades:">
-
-<!ENTITY done.label "Fet">
-<!ENTITY done.accesskey "F">
-
-<!ENTITY unblock.label "Desbloca la ubicació">
-<!ENTITY unblock.accesskey "u">

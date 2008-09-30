@@ -57,8 +57,8 @@
 <!ENTITY generalEncoding "Codificació:">
 <!ENTITY generalMetaName "Nom">
 <!ENTITY generalMetaContent "Contingut">
-<!ENTITY generalSecurityMore   "Més">
-<!ENTITY generalSecurityMore.accesskey "s">
+<!ENTITY  generalSecurityDetails   "Detalls">
+<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY mediaTab "Multimèdia">
 <!ENTITY mediaTab.accesskey        "M">

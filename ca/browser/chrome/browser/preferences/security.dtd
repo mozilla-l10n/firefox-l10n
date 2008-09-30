@@ -9,10 +9,10 @@
   "known").
 -->
 
-<!ENTITY  tellMaybeAttackSite.label     "Avisa'm si el lloc que estigui visitant pogués ser sospitós de ser un lloc atacant">
+<!ENTITY  tellMaybeAttackSite2.label     "Bloca els llocs web que s'ha informat que són atacants">
 <!ENTITY  tellMaybeAttackSite.accesskey "s">
 
-<!ENTITY  tellMaybeForgery.label     "Avisa'm si el lloc que estigui visitant pogués ser sospitós de ser una falsificació">
+<!ENTITY  tellMaybeForgery2.label     "Bloca els llocs web que s'ha informat que són falsificacions">
 <!ENTITY  tellMaybeForgery.accesskey "v">
 
 <!ENTITY  addonExceptions.label         "Excepcions…">

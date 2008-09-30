@@ -157,7 +157,7 @@
 <!ENTITY preferencesCmdUnix.label "Preferències">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
-<!ENTITY clearPrivateDataCmd.label            "Neteja les dades personals">
+<!ENTITY clearPrivateDataCmd.label            "Neteja les dades privades">
 <!ENTITY clearPrivateDataCmd.accesskey        "j">
 
 <!ENTITY viewMenu.label "Visualitza">
@@ -306,7 +306,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Mida de la pàgina">
 <!ENTITY fullZoom.accesskey             "d">
 
-<!ENTITY newTabButton.tooltip "Obre una nova pestanya">
 <!ENTITY newWindowButton.tooltip "Obre una nova finestra">
 <!ENTITY sidebarCloseButton.tooltip "Tanca la barra lateral">
 

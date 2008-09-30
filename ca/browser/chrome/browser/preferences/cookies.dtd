@@ -22,8 +22,6 @@
 
 <!ENTITY     filter.label                   "Cerca:">
 <!ENTITY     filter.accesskey               "a">
-<!ENTITY     clear.label                    "Neteja">
-<!ENTITY     clear.accesskey                "j">
 
 <!ENTITY     button.close.label             "Tanca">
 <!ENTITY     button.close.accesskey         "c">

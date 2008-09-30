@@ -45,16 +45,16 @@
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
-<!ENTITY newMessage.label "Nou missatge">
-<!ENTITY newMessage.accesskey "N">
-<!ENTITY newFolderCmd.label "Carpeta...">
-<!ENTITY newFolderCmd.accesskey "C">
-<!ENTITY newVirtualFolderCmd.label "Cerca desada...">
+<!ENTITY newMessage.label "Redacta un missatge">
+<!ENTITY newMessage.accesskey "n">
+<!ENTITY newFolderCmd.label "Crea una carpeta…">
+<!ENTITY newFolderCmd.accesskey "c">
+<!ENTITY newVirtualFolderCmd.label "Crea una cerca desada…">
 <!ENTITY newVirtualFolderCmd.accesskey "d">
-<!ENTITY newAccountCmd.label "Compte...">
+<!ENTITY newAccountCmd.label "Compte…">
 <!ENTITY newAccountCmd.accesskey "o">
 <!ENTITY openMessageMenu.label "Obre">
-<!ENTITY openMessageFileCmd.label "Obre el missatge desat...">
+<!ENTITY openMessageFileCmd.label "Obre el missatge desat…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Adjuncions">
 <!ENTITY openAttachmentCmd.accesskey "A">
@@ -79,33 +79,33 @@
 <!ENTITY sendUnsentCmd.label "Envia els missatges per enviar">
 <!ENTITY sendUnsentCmd.accesskey "l">
 <!ENTITY loadFirstDraft.label "Carrega el primer esborrany">
-<!ENTITY subscribeCmd.label "Subscriu a un grup de discussió...">
+<!ENTITY subscribeCmd.label "Subscriu a un grup de discussió…">
 <!ENTITY subscribeCmd.accesskey "b">
-<!ENTITY renameFolder.label "Canvia el nom de la carpeta...">
+<!ENTITY renameFolder.label "Canvia el nom de la carpeta…">
 <!ENTITY renameFolder.accesskey "r">
 <!ENTITY compactFolders.label "Compacta les carpetes">
 <!ENTITY compactFolder.accesskey "t">
 <!ENTITY emptyTrashCmd.label "Buida la paperera">
 <!ENTITY emptyTrashCmd.accesskey "d">
-<!ENTITY importCmd.label "Importa...">
+<!ENTITY importCmd.label "Importa…">
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY offlineMenu.label "Fora de línia">
 <!ENTITY offlineMenu.accesskey "l">
-<!ENTITY synchronizeOfflineCmd.label "Baixa/Sincronitza ara...">
+<!ENTITY synchronizeOfflineCmd.label "Baixa/Sincronitza ara…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "Paràmetres de fora de línia...">
+<!ENTITY settingsOfflineCmd.label "Paràmetres de fora de línia…">
 <!ENTITY settingsOfflineCmd.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Recupera els missatges seleccionats">
 <!ENTITY downloadSelectedCmd.accesskey "m">
 <!ENTITY downloadFlaggedCmd.label "Recupera els missatges senyalats">
 <!ENTITY downloadFlaggedCmd.accesskey "y">
-<!ENTITY printCmd.label "Imprimeix...">
+<!ENTITY printCmd.label "Imprimeix…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Exemple d'impressió">
 <!ENTITY printPreviewCmd.accesskey "x">
 <!ENTITY printPreviewCmd.key "v">
-<!ENTITY printSetupCmd.label "Configuració de la pàgina...">
+<!ENTITY printSetupCmd.label "Configuració de la pàgina…">
 <!ENTITY printSetupCmd.accesskey "g">
 
 <!-- Edit Menu -->
@@ -134,15 +134,15 @@
 <!ENTITY selectFlaggedCmd.accesskey "y">
 <!ENTITY selectInvertCmd.label ".Inverteix la selecció">
 <!ENTITY selectInvertCmd.accesskey "I">
-<!ENTITY filtersCmd.label "Filtres de missatge...">
+<!ENTITY filtersCmd.label "Filtres de missatge…">
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "Executa els filtres a la carpeta">
 <!ENTITY filtersApply.accesskey "r">
-<!ENTITY folderPropsCmd.label "Propietats...">
-<!ENTITY folderPropsFolderCmd.label "Propietats de la carpeta...">
-<!ENTITY folderPropsNewsgroupCmd.label "Propietats del grup de discussió...">
+<!ENTITY folderPropsCmd.label "Propietats…">
+<!ENTITY folderPropsFolderCmd.label "Propietats de la carpeta…">
+<!ENTITY folderPropsNewsgroupCmd.label "Propietats del grup de discussió…">
 <!ENTITY folderPropsCmd.accesskey "o">
-<!ENTITY accountManagerCmd.label "Paràmetres dels comptes...">
+<!ENTITY accountManagerCmd.label "Paràmetres dels comptes…">
 <!ENTITY accountManagerCmd.accesskey "P">
 <!ENTITY undoDeleteMsgCmd.label "Desfés Suprimeix el missatge">
 <!ENTITY redoDeleteMsgCmd.label "Refés Suprimeix el missatge">
@@ -273,7 +273,7 @@
 <!ENTITY searchMenu.label "Cerca">
 <!ENTITY searchMenu.accesskey "C">
 
-<!ENTITY findCmd.label "Cerca a aquest missatge...">
+<!ENTITY findCmd.label "Cerca a aquest missatge…">
 <!ENTITY findCmd.accesskey "m">
 <!ENTITY findCmd.key "f">
 <!ENTITY findAgainCmd.label "Torna a cercar">
@@ -294,7 +294,7 @@
 <!ENTITY searchParentParentCmd.label ".Cerca en el &lt;pare del pare&gt; del">
 <!ENTITY searchParentParentCmd.accesskey "">
 
-<!ENTITY searchMailCmd.label "Cerca els missatges...">
+<!ENTITY searchMailCmd.label "Cerca els missatges…">
 <!ENTITY searchMailCmd.accesskey "e">
 <!ENTITY searchMailCmd.key "s">
 
@@ -366,7 +366,7 @@
 <!ENTITY editMsgAsNewCmd.label "Edita el missatge com si fos nou">
 <!ENTITY editMsgAsNewCmd.accesskey "d">
 <!ENTITY editMsgAsNewCmd.key "e">
-<!ENTITY createFilter.label "Crea un filtre...">
+<!ENTITY createFilter.label "Crea un filtre…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgMenu.label "Mou">
 <!ENTITY moveMsgMenu.accesskey "u">
@@ -390,7 +390,7 @@
 <!ENTITY addAllToAddressBookCmd.accesskey "A">
 <!ENTITY tagMenu.label "Etiqueta">
 <!ENTITY tagMenu.accesskey "q">
-<!ENTITY tagCustomize.label "Personalitza...">
+<!ENTITY tagCustomize.label "Personalitza…">
 <!ENTITY tagCustomize.accesskey "P">
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
@@ -412,7 +412,7 @@
 <!ENTITY markThreadAsReadCmd.label "Cadena com a llegida">
 <!ENTITY markThreadAsReadCmd.accesskey "m">
 <!ENTITY markThreadAsReadCmd.key "r">
-<!ENTITY markReadByDateCmd.label "Llegits per data...">
+<!ENTITY markReadByDateCmd.label "Llegits per data…">
 <!ENTITY markReadByDateCmd.accesskey "d">
 <!ENTITY markReadByDateCmd.key "c">
 <!ENTITY markAllReadCmd.label "Tots llegits">
@@ -489,7 +489,7 @@
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Obre el missatge en una finestra nova">
 <!ENTITY contextOpenNewWindow.accesskey "f">
-<!ENTITY contextEditAsNew.label "Edita'l com si fos nou...">
+<!ENTITY contextEditAsNew.label "Edita'l com si fos nou…">
 <!ENTITY contextEditAsNew.accesskey "E">
 <!ENTITY contextReplySender.label "Respon només al remitent">
 <!ENTITY contextReplySender.accesskey "r">
@@ -505,9 +505,9 @@
 <!ENTITY contextMoveMsgMenu.accesskey "o">
 <!ENTITY contextCopyMsgMenu.label "Copia a">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
-<!ENTITY contextSaveAs.label "Anomena i desa...">
+<!ENTITY contextSaveAs.label "Anomena i desa…">
 <!ENTITY contextSaveAs.accesskey "s">
-<!ENTITY contextPrint.label "Imprimeix...">
+<!ENTITY contextPrint.label "Imprimeix…">
 <!ENTITY contextPrint.accesskey "I">
 <!ENTITY contextPrintPreview.label "Exemple d'impressió">
 <!ENTITY contextPrintPreview.accesskey "x">
@@ -529,7 +529,7 @@
 <!ENTITY folderContextCompact.accesskey "t">
 <!ENTITY folderContextEmptyTrash.label "Buida la paperera">
 <!ENTITY folderContextEmptyTrash.accesskey "d">
-<!ENTITY folderContextSendUnsentMessages.label "Envia els missatges per enviar...">
+<!ENTITY folderContextSendUnsentMessages.label "Envia els missatges per enviar…">
 <!ENTITY folderContextSendUnsentMessages.accesskey "l">
 <!ENTITY folderContextUnsubscribe.label "Cancel·la la subscripció">
 <!ENTITY folderContextUnsubscribe.accesskey "u">
@@ -537,13 +537,13 @@
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "l">
 <!ENTITY folderContextMarkMailFolderRead.label "Marca la carpeta com a llegida">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "M">
-<!ENTITY folderContextNew.label "Subcarpeta nova...">
+<!ENTITY folderContextNew.label "Crea una subcarpeta…">
 <!ENTITY folderContextNew.accesskey "n">
-<!ENTITY folderContextSubscribe.label "Subscriu a un grup de discussió...">
+<!ENTITY folderContextSubscribe.label "Subscriu a un grup de discussió…">
 <!ENTITY folderContextSubscribe.accesskey "b">
-<!ENTITY folderContextSearchMessages.label "Cerca missatges...">
+<!ENTITY folderContextSearchMessages.label "Cerca missatges…">
 <!ENTITY folderContextSearchMessages.accesskey "i">
-<!ENTITY folderContextProperties.label "Propietats...">
+<!ENTITY folderContextProperties.label "Propietats…">
 <!ENTITY folderContextProperties.accesskey "o">
 <!ENTITY folderContextCopyLocation.label "Copia la ubicació de la carpeta">
 <!ENTITY folderContextCopyLocation.accesskey "C">
@@ -554,7 +554,7 @@
 <!ENTITY SearchSubjectOrSender.accesskey "s">
 <!ENTITY SearchNameOrEmail.label "El nom o l'adreça electrònica conté:">
 <!ENTITY SearchNameOrEmail.accesskey "n">
-<!ENTITY advancedButton.label "Avançat...">
+<!ENTITY advancedButton.label "Avançat…">
 <!ENTITY advancedButton.accesskey "A">
 
 <!ENTITY clearButton.label "Buida">
@@ -563,10 +563,10 @@
 <!ENTITY all.label "Tot">
 <!ENTITY all.accesskey "T">
 
-<!ENTITY searchAddressesCmd.label "Cerca les adreces...">
+<!ENTITY searchAddressesCmd.label "Cerca a les adreces…">
 <!ENTITY searchAddressesCmd.accesskey "d">
 
-<!ENTITY junkMailCmd.label "Controls del correu brossa...">
+<!ENTITY junkMailCmd.label "Controls del correu brossa…">
 <!ENTITY junkMailCmd.accesskey "b">
 
 <!ENTITY runJunkControls.label "Executa els controls de brossa a la carpeta">

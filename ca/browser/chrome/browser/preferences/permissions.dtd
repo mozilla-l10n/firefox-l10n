@@ -8,6 +8,7 @@
 <!ENTITY removeallpermissions.label   "Suprimeix tots els llocs">
 <!ENTITY removeallpermissions.accesskey "e">
 <!ENTITY address.label                "Adreça del lloc web:">
+<!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Bloca">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "Permet per a aquesta sessió">

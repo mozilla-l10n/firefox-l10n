@@ -15,8 +15,6 @@
 <!ENTITY safeb.palm.notforgery.label2 "Açò no és cap falsificació web…">
 <!ENTITY safeb.palm.report.label "Per què s'ha blocat aquest lloc?">
 
-<!ENTITY safeb.urlbaricon.tooltip "Aquesta pàgina podria ser perillosa; feu clic per a més detalls.">
-
 <!ENTITY safeb.blocked.malware.title "S'ha informat que el lloc web és atacant!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "S'ha informat que el lloc web a <span id='malware_sitename'/> seria atacant, i s'ha blocat d'acord amb les vostres preferències de seguretat.">

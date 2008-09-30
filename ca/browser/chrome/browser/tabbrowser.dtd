@@ -16,4 +16,5 @@
 <!ENTITY  bookmarkThisTab.accesskey    "y">
 <!ENTITY  undoCloseTab.label          "Desfés tancar la pestanya">
 <!ENTITY  undoCloseTab.accesskey      "D">
+<!ENTITY  newTabButton.tooltip        "Obre una pestanya nova">
 
