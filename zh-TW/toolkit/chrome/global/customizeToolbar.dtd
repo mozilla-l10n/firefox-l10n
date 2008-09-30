@@ -1,6 +1,6 @@
 <!ENTITY dialog.title             "自訂工具列">
 <!ENTITY dialog.style             "width: 635px; height: 400px;">
-<!ENTITY instructions.description "你可以拖放下面的物件到工具列上以新增或由工具列拖下來刪除。">
+<!ENTITY instructions.description "你可以藉由拖放的動作新增或移除工具列上的物件。">
 <!ENTITY show.label               "顯示:">
 <!ENTITY iconsAndText.label       "圖示與文字">
 <!ENTITY icons.label              "圖示">

@@ -179,7 +179,7 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "搜尋書籤及瀏覽記錄">
+<!ENTITY urlbar.emptyText             "尋找書籤及瀏覽記錄">
 <!ENTITY urlbar.accesskey             "d">
 
 <!-- 

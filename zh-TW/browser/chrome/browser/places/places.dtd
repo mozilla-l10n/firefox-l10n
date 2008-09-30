@@ -67,7 +67,7 @@
 <!ENTITY cmd.edit_undo.label        "復原">
 <!ENTITY cmd.edit_undo.accesskey    "U">
 <!ENTITY cmd.edit_undo.key          "z">
-<!ENTITY cmd.edit_redo.label        "取消復原">
+<!ENTITY cmd.edit_redo.label        "取消「復原」">
 <!ENTITY cmd.edit_redo.accesskey    "R">
 <!ENTITY cmd.edit_redo.key          "y">
 
@@ -147,12 +147,12 @@
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "瀏覽記錄">
 <!ENTITY search.scopeHistory.accesskey             "H">
-<!ENTITY search.scopeBarExpanderDown.tooltip       "顯示搜尋條件建立器">
-<!ENTITY search.scopeBarExpanderUp.tooltip         "隱藏搜尋條件建立器">
+<!ENTITY search.scopeBarExpanderDown.tooltip       "顯示尋找條件建立器">
+<!ENTITY search.scopeBarExpanderUp.tooltip         "隱藏尋找條件建立器">
 <!ENTITY saveSearch.label                          "儲存">
 <!ENTITY saveSearch.accesskey                      "S">
 <!ENTITY moreCriteria.label                        "+">
-<!ENTITY advancedSearch.onlybookmarked.label       "只搜尋書籤項目">
+<!ENTITY advancedSearch.onlybookmarked.label       "只尋找書籤項目">
 <!ENTITY advancedSearch.match.label                "符合下列 ">
 <!ENTITY advancedSearch.all.label                  "所有">
 <!ENTITY advancedSearch.any.label                  "任一">
@@ -183,7 +183,7 @@
 <!ENTITY advancedSearch.sortby_url.label           "網址">
 <!ENTITY advancedSearch.sortby_asc.label           "遞增排序">
 <!ENTITY advancedSearch.sortby_desc.label          "遞減排序">
-<!ENTITY advancedSearch.max.label                  "最大搜尋結果: ">
+<!ENTITY advancedSearch.max.label                  "最大尋找結果: ">
 
 <!ENTITY cmd.find.key  "f">
 
