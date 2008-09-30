@@ -13,6 +13,7 @@
 <!ENTITY  bookmarkAllTabs.label       "Lesezeichen für alle Tabs hinzufügen…">
 <!ENTITY  bookmarkAllTabs.accesskey   "L">
 <!ENTITY  bookmarkThisTab.label        "Lesezeichen für diesen Tab hinzufügen">
-<!ENTITY  bookmarkThisTab.accesskey    "T">
+<!ENTITY  bookmarkThisTab.accesskey   "T">
 <!ENTITY  undoCloseTab.label          "Geschlossenen Tab wiederherstellen">
 <!ENTITY  undoCloseTab.accesskey      "G">
+<!ENTITY  newTabButton.tooltip        "Öffnet einen neuen Tab">
