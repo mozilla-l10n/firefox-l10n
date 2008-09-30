@@ -310,7 +310,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label "Pligrandigilo">
 <!ENTITY fullZoom.accesskey "P">
 
-<!ENTITY newTabButton.tooltip "Malfermi novan folion">
 <!ENTITY newWindowButton.tooltip "Malfermi novan fenestron">
 <!ENTITY sidebarCloseButton.tooltip "Fermi flankan strion">
 

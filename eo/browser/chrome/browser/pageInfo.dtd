@@ -60,8 +60,8 @@
 <!ENTITY generalEncoding "Enkodigo:">
 <!ENTITY generalMetaName "Nomo">
 <!ENTITY generalMetaContent "Enhavo">
-<!ENTITY generalSecurityMore "Pli">
-<!ENTITY generalSecurityMore.accesskey "o">
+<!ENTITY generalSecurityDetails "Detaloj">
+<!ENTITY generalSecurityDetails.accesskey "d">
 
 <!ENTITY mediaTab "Komunikrimedoj">
 <!ENTITY mediaTab.accesskey "M">

@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label "Novaj paĝoj devus esti malfermitaj en:">
-<!ENTITY inNewWindow.label "nova fenestro">
-<!ENTITY inNewWindow.accesskey "f">
-<!ENTITY inNewTab.label "nova folio">
-<!ENTITY inNewTab.accesskey "o">
+<!ENTITY newWindowsAsTabs.label       "Malfermi novajn fenestrojn en novaj folioj anstatŭe">
+<!ENTITY newWindowsAsTabs.accesskey   "f">
 
 <!ENTITY warnCloseMultipleTabs.label "Atentigi min antaŭ ol fermi plurajn foliojn">
 <!ENTITY warnCloseMultipleTabs.accesskey "m">

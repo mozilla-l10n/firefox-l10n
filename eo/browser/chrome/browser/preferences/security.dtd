@@ -8,11 +8,11 @@
   "known").
 -->
 
-<!ENTITY tellMaybeAttackSite.label "Block reported attack sites">
+<!ENTITY tellMaybeAttackSite2.label "Bloki raportitajn atakajn retejojn">
 <!ENTITY tellMaybeAttackSite.accesskey "a">
 
-<!ENTITY tellMaybeForgery.label "Block reported web forgeries">
-<!ENTITY tellMaybeForgery.accesskey "D">
+<!ENTITY tellMaybeForgery2.label "Bloki raportitajn retajn falsaĵojn">
+<!ENTITY tellMaybeForgery.accesskey "f">
 
 <!ENTITY addonExceptions.label "Esceptoj…">
 <!ENTITY addonExceptions.accesskey "E">
