@@ -9,10 +9,10 @@
 
 <!ENTITY choosethisfolder.label "Tria aquesta carpeta">
 
-<!ENTITY quickMode.label "Mostra el resum de l'article en lloc de carregar la pàgina web">
+<!ENTITY quickMode.label "Mostra el resum de l'article en comptes de carregar la pàgina web">
 <!ENTITY quickMode.accesskey "M">
 
-<!ENTITY copyLinkCmd.label        "Copia la ubicació de l'enllaç"> 
+<!ENTITY copyLinkCmd.label        "Copia l'enllaç"> 
 <!ENTITY copyLinkCmd.accesskey    "C">
 
 <!ENTITY pasteLinkCmd.label       "Enganxa">

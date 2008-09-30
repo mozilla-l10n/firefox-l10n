@@ -43,7 +43,7 @@
 <!ENTITY windowTitle.label "Comprova les ubicacions de la imatge i l'enllaç">
 <!ENTITY urlsNotFound.label "No s'ha trobat la imatge següent o les ubicacions de l'enllaç: ">
 <!ENTITY notFoundKey.label "(&quot;X&quot; = no s'ha trobat el fitxer, &quot;?&quot; = s'ha excedit el temps de connexió.)">
-<!ENTITY changeUrlButton.label "Canvia la ubicació de l'ítem seleccionat">
+<!ENTITY changeUrlButton.label "Canvia la ubicació de l'element seleccionat">
 <!ENTITY succeeded.label "Amb èxit">
 <!ENTITY failed.label "Ha fallat">
 <!ENTITY closeButton.label     "Tanca">

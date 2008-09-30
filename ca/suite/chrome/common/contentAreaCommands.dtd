@@ -72,7 +72,7 @@
 <!ENTITY copyCmd.accesskey "c">
 <!ENTITY selectAllCmd.label "Selecciona-ho tot">
 <!ENTITY selectAllCmd.accesskey "l">
-<!ENTITY copyLinkCmd.label "Copia la ubicació de l'enllaç">
+<!ENTITY copyLinkCmd.label "Copia l'enllaç">
 <!ENTITY copyLinkCmd.accesskey "n">
 <!ENTITY copyImageCmd.label "Copia la ubicació de la imatge">
 <!ENTITY copyImageCmd.accesskey "m">

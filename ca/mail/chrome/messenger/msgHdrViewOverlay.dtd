@@ -88,7 +88,7 @@
 <!ENTITY deleteAllAttachmentsCmd.label    "Suprimeix-ho tot…">  
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "u">  
 
-<!ENTITY copyLinkCmd.label "Copia la ubicació de l'enllaç">
+<!ENTITY copyLinkCmd.label "Copia l'enllaç">
 <!ENTITY copyLinkCmd.accesskey "C">
 
 <!ENTITY CopyMessageId.label "Copia l'ID-missatge">
