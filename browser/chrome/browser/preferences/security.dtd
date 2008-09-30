@@ -1,32 +1,38 @@
 <!ENTITY warnAddonInstall.label "Avisar quando os sítios tentam instalar extras">
 <!ENTITY warnAddonInstall.accesskey "I">
-<!-- LOCALIZATION NOTE (tellMaybeForgery.label):
-  The methods by which forged (phished) sítios will be detected by phishing
-  providers will vary from human review to machine-based heuristics to a
-  combination of both, so it's important that this string and
-  useDownloadedList.label convey the meaning "suspected" (and not something like
+<!-- LOCALIZATION NOTE (tellMaybeForgery.label, tellMaybeAttackSite.label):
+  The methods by which forged (phished) and attack sites will be detected by
+  phishing providers will vary from human review to machine-based heuristics to a
+  combination of both, so it's important that these strings and
+  useDownloadedList.label convey the meaning "reported" (and not something like
   "known").
 -->
-<!ENTITY  tellMaybeForgery.label     "Avisar se o sítio que estou a visitar é uma possível falsificação">
-<!ENTITY  tellMaybeForgery.accesskey "f">
+
+<!ENTITY tellMaybeAttackSite2.label "Block reported attack sites">
+<!ENTITY tellMaybeAttackSite.accesskey "q">
+
+<!ENTITY tellMaybeForgery2.label "Block reported web forgeries">
+<!ENTITY tellMaybeForgery.accesskey "f">
 
 <!ENTITY addonExceptions.label "Excepções...">
-<!ENTITY addonExceptions.accesskey "x">
+<!ENTITY addonExceptions.accesskey "X">
 
-<!ENTITY  passwords.label               "Senhas">
 
-<!ENTITY  rememberPasswords.label       "Memorizar as senhas para sítios">
-<!ENTITY  rememberPasswords.accesskey   "r">
-<!ENTITY  passwordExceptions.label      "Excepções...">
-<!ENTITY  passwordExceptions.accesskey  "x">
+<!ENTITY passwords.label "Senhas">
 
-<!ENTITY  useMasterPassword.label        "Utilizar uma senha mestra">
-<!ENTITY  useMasterPassword.accesskey    "U">
-<!ENTITY  changeMasterPassword.label     "Alterar a senha mestra...">
-<!ENTITY  changeMasterPassword.accesskey "m">
+<!ENTITY rememberPasswords.label "Memorizar as senhas para sítios">
+<!ENTITY rememberPasswords.accesskey "R">
+<!ENTITY passwordExceptions.label "Excepções...">
+<!ENTITY passwordExceptions.accesskey "x">
 
-<!ENTITY  savedPasswords.label            "Senhas guardadas...">
-<!ENTITY  savedPasswords.accesskey        "S">
+<!ENTITY useMasterPassword.label "Utilizar uma senha mestra">
+<!ENTITY useMasterPassword.accesskey "U">
+<!ENTITY changeMasterPassword.label "Alterar a senha mestra...">
+<!ENTITY changeMasterPassword.accesskey "M">
+
+<!ENTITY savedPasswords.label "Senhas guardadas...">
+<!ENTITY savedPasswords.accesskey "S">
+
 
 <!ENTITY warnings.label "Avisos de Segurança">
 
@@ -34,6 +40,3 @@
 
 <!ENTITY warningSettings.label "Definições...">
 <!ENTITY warningSettings.accesskey "D">
-
-<!ENTITY  tellMaybeAttackSite.label     "Diga-me se o sítio que estou a visitar é suspeito de ser um sítio de ataque">
-<!ENTITY  tellMaybeAttackSite.accesskey "q">

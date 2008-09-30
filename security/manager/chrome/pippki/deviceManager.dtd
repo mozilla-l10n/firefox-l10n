@@ -44,7 +44,7 @@
 <!ENTITY devmgr.version.label "Versão">
 
 <!ENTITY devmgr.button.changeslotname.label "Mudar o nome da ranhura">
-<!ENTITY devmgr.button.changeslotname.accesskey "r">
+<!ENTITY devmgr.button.changeslotname.accesskey "R">
 <!ENTITY devmgr.button.login.label "Iniciar sessão">
 <!ENTITY devmgr.button.login.accesskey "n">
 <!ENTITY devmgr.button.logout.label "Terminar sessão">

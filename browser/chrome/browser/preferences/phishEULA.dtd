@@ -1,5 +1,4 @@
-<!ENTITY phishDlg.title  "Termos de Serviço da Protecção de Engodo">
-
+<!ENTITY phishDlg.title "Termos de Serviço da Protecção de Engodo">
 <!-- LOCALIZATION NOTE:
      The following entities contain sizing information for the phishing privacy
      agreement dialog, which is opened when you select the "Check by asking"
@@ -7,11 +6,12 @@
      already agreed with the policy for that provider; once you agree to a
      provider's policy, you don't see it again).
 -->
-<!ENTITY phishDlg.height      "40em">
-<!ENTITY phishDlg.width       "35em">
 
-<!ENTITY acceptToS.label      "Aceito os termos de serviço da Protecção de Engodo">
-<!ENTITY declineToS.label     "NÃO aceito os termos de serviço da Protecção de Engodo">
+<!ENTITY phishDlg.height "40em">
+<!ENTITY phishDlg.width "35em">
 
-<!ENTITY accept.label         "Aceitar e Continuar">
-<!ENTITY cancel.label         "Cancelar">
+<!ENTITY acceptToS.label "Aceito os termos de serviço da Protecção de Engodo">
+<!ENTITY declineToS.label "NÃO aceito os termos de serviço da Protecção de Engodo">
+
+<!ENTITY accept.label "Aceitar e Continuar">
+<!ENTITY cancel.label "Cancelar">

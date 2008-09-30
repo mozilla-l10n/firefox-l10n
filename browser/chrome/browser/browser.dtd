@@ -1,7 +1,7 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
-
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
@@ -9,7 +9,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
 <!ENTITY tabCmd.label "Novo separador">
-<!ENTITY tabCmd.accesskey "e">
+<!ENTITY tabCmd.accesskey "E">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Abrir endereço...">
 <!ENTITY openLocationCmd.accesskey "B">
@@ -55,7 +55,7 @@
 <!ENTITY fullScreenExit.accesskey "I">
 
 <!ENTITY closeWindow.label "Fechar Janela">
-<!ENTITY closeWindow.accesskey "J">
+<!ENTITY closeWindow.accesskey "j">
 
 <!ENTITY bookmarksMenu.label "Marcadores">
 <!ENTITY bookmarksMenu.accesskey "M">
@@ -81,7 +81,7 @@
 <!ENTITY stopCmd.accesskey "P">
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Pára de carregar esta página">
-<!ENTITY goEndCap.tooltip             "Ir para o endereço da Barra de Localização">
+<!ENTITY goEndCap.tooltip "Ir para o endereço da Barra de Localização">
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY printButton.tooltip "Imprimir esta página">
 
@@ -89,8 +89,8 @@
 <!ENTITY searchItem.title "Pesquisar">
 <!ENTITY throbberItem.title "Indicador de actividade">
 <!ENTITY bookmarksItem.title "Marcadores">
-
 <!-- Toolbar items --> 
+
 <!ENTITY homeButton.label "Início">
 
 <!ENTITY bookmarksButton.label "Marcadores">
@@ -113,7 +113,7 @@
 <!ENTITY search.accesskey "W">
 <!ENTITY downloads.label "Transferências">
 <!ENTITY downloads.tooltip "Mostra o progresso das transferências correntes">
-<!ENTITY downloads.accesskey "r">
+<!ENTITY downloads.accesskey "R">
 <!ENTITY downloads.commandkey "j">
 <!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label "Extras">
@@ -122,7 +122,7 @@
 
 <!ENTITY errorConsoleCmd.label "Consola de erros">
 <!ENTITY errorConsoleCmd.accesskey "C">
-<!ENTITY errorConsoleCmd.commandkey   "j">
+<!ENTITY errorConsoleCmd.commandkey "j">
 
 <!ENTITY fileMenu.label "Ficheiro">
 <!ENTITY fileMenu.accesskey "F">
@@ -134,7 +134,7 @@
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY undoCmd.label "Anular">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "u">
+<!ENTITY undoCmd.accesskey "U">
 <!ENTITY redoCmd.label "Refazer">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "R">
@@ -152,7 +152,7 @@
 <!ENTITY deleteCmd.accesskey "P">
 <!ENTITY selectAllCmd.label "Seleccionar tudo">
 <!ENTITY selectAllCmd.key "t">
-<!ENTITY selectAllCmd.accesskey "t">
+<!ENTITY selectAllCmd.accesskey "T">
 <!ENTITY preferencesCmd.label "Opções...">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferências">
@@ -181,7 +181,6 @@
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.emptyText "Procurar em Marcadores e Histórico">
 <!ENTITY urlbar.accesskey "A">
-
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -203,6 +202,7 @@
   Do *not* tamper with these values without talking to ben@mozilla.org
   
  -->
+
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
@@ -216,12 +216,14 @@
 <!ENTITY openFrameCmdInTab.label "Abrir a frame num novo separador">
 <!ENTITY openFrameCmdInTab.accesskey "S">
 <!ENTITY showOnlyThisFrameCmd.label "Mostrar apenas esta frame">
-<!ENTITY showOnlyThisFrameCmd.accesskey "a">
+<!ENTITY showOnlyThisFrameCmd.accesskey "A">
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY reloadFrameCmd.label "Recarregar a frame">
 <!ENTITY reloadFrameCmd.accesskey "C">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Ver código fonte da selecção">
 <!ENTITY viewPartialSourceForMathMLCmd.label "Ver código fonte MathML">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label "Ver código fonte da página">
 <!ENTITY viewPageSourceCmd.accesskey "O">
@@ -230,21 +232,21 @@
 <!ENTITY viewPageInfoCmd.label "Ver informação da página">
 <!ENTITY viewPageInfoCmd.accesskey "I">
 <!ENTITY viewFrameInfoCmd.label "Ver informação da frame">
-<!ENTITY viewFrameInfoCmd.accesskey "i">
-<!ENTITY showImageCmd.label           "Mostrar Imagem">
-<!ENTITY showImageCmd.accesskey       "s">
+<!ENTITY viewFrameInfoCmd.accesskey "I">
+<!ENTITY showImageCmd.label "Mostrar Imagem">
+<!ENTITY showImageCmd.accesskey "S">
 <!ENTITY viewImageCmd.label "Ver imagem">
 <!ENTITY viewImageCmd.accesskey "V">
 <!ENTITY viewBGImageCmd.label "Ver imagem de fundo">
 <!ENTITY viewBGImageCmd.accesskey "v">
 <!ENTITY setDesktopBackgroundCmd.label "Definir como fundo do ambiente de trabalho...">
-<!ENTITY setDesktopBackgroundCmd.accesskey "e">
+<!ENTITY setDesktopBackgroundCmd.accesskey "E">
 <!ENTITY bookmarkPageCmd2.label "Adicionar aos marcadores...">
 <!ENTITY bookmarkPageCmd2.accesskey "m">
 <!ENTITY bookmarkThisLinkCmd.label "Adicionar esta ligação aos marcadores...">
 <!ENTITY bookmarkThisLinkCmd.accesskey "M">
 <!ENTITY bookmarkThisFrameCmd.label "Adicionar esta frame aos marcadores...">
-<!ENTITY bookmarkThisFrameCmd.accesskey "M">
+<!ENTITY bookmarkThisFrameCmd.accesskey "m">
 <!ENTITY sendPageCmd.label "Enviar ligação...">
 <!ENTITY sendPageCmd.accesskey "v">
 <!ENTITY savePageCmd.label "Guardar página como...">
@@ -254,8 +256,8 @@
 <!ENTITY savePageCmd.commandkey "s">
 <!ENTITY saveFrameCmd.label "Guardar frame como...">
 <!ENTITY saveFrameCmd.accesskey "G">
-<!ENTITY printFrameCmd.label          "Imprimir frame...">
-<!ENTITY printFrameCmd.accesskey      "P">
+<!ENTITY printFrameCmd.label "Imprimir frame...">
+<!ENTITY printFrameCmd.accesskey "P">
 <!ENTITY saveLinkCmd.label "Guardar ligação como...">
 <!ENTITY saveLinkCmd.accesskey "l">
 <!ENTITY sendLinkCmd.label "Enviar ligação...">
@@ -265,9 +267,9 @@
 <!ENTITY sendImageCmd.label "Enviar imagem...">
 <!ENTITY sendImageCmd.accesskey "e">
 <!ENTITY copyLinkCmd.label "Copiar endereço da ligação">
-<!ENTITY copyLinkCmd.accesskey "C">
-<!ENTITY copyLinkTextCmd.label        "Copiar Ligação do Texto">
-<!ENTITY copyLinkTextCmd.accesskey    "x">
+<!ENTITY copyLinkCmd.accesskey "c">
+<!ENTITY copyLinkTextCmd.label "Copiar Ligação do Texto">
+<!ENTITY copyLinkTextCmd.accesskey "x">
 <!ENTITY copyImageCmd.label "Copiar endereço da imagem">
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyImageContentsCmd.label "Copiar a imagem">
@@ -279,34 +281,35 @@
 <!ENTITY copyEmailCmd.accesskey "E">
 <!ENTITY thisFrameMenu.label "Esta frame">
 <!ENTITY thisFrameMenu.accesskey "f">
-
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
-<!ENTITY fullZoomEnlargeCmd.label       "Aumentar o tamanho do texto">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "A">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+
+
+<!ENTITY fullZoomEnlargeCmd.label "Aumentar o tamanho do texto">
+<!ENTITY fullZoomEnlargeCmd.accesskey "A">
+<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label        "Diminuir o tamanho do texto">
-<!ENTITY fullZoomReduceCmd.accesskey    "D">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomReduceCmd.label "Diminuir o tamanho do texto">
+<!ENTITY fullZoomReduceCmd.accesskey "D">
+<!ENTITY fullZoomReduceCmd.commandkey "-">
+<!ENTITY fullZoomReduceCmd.commandkey2 "">
 
-<!ENTITY fullZoomResetCmd.label         "Voltar ao início">
-<!ENTITY fullZoomResetCmd.accesskey     "V">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
+<!ENTITY fullZoomResetCmd.label "Voltar ao início">
+<!ENTITY fullZoomResetCmd.accesskey "V">
+<!ENTITY fullZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomResetCmd.commandkey2 "">
 
-<!ENTITY fullZoomToggleCmd.label        "Aumentar Apenas Texto">
-<!ENTITY fullZoomToggleCmd.accesskey    "T">
-<!ENTITY fullZoom.label                 "Mudar tamanho">
-<!ENTITY fullZoom.accesskey             "t">
+<!ENTITY fullZoomToggleCmd.label "Aumentar Apenas Texto">
+<!ENTITY fullZoomToggleCmd.accesskey "T">
+<!ENTITY fullZoom.label "Mudar tamanho">
+<!ENTITY fullZoom.accesskey "T">
 
-<!ENTITY newTabButton.tooltip "Abrir um novo separador">
 <!ENTITY newWindowButton.tooltip "Abrir uma nova janela">
 <!ENTITY sidebarCloseButton.tooltip "Fechar barra lateral">
 
@@ -315,7 +318,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pasteButton.tooltip "Colar">
 
 <!ENTITY quitApplicationCmdWin.label "Sair">
-<!ENTITY quitApplicationCmdWin.accesskey "S">
+<!ENTITY quitApplicationCmdWin.accesskey "s">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label "Sair">
@@ -325,7 +328,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY closeCmd.label "Fechar">
 <!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "e">
+<!ENTITY closeCmd.accesskey "E">
 
 <!ENTITY pageStyleMenu.label "Estilo de página">
 <!ENTITY pageStyleMenu.accesskey "s">
@@ -362,14 +365,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Adicionar dicionários...">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
-<!ENTITY editBookmark.done.label                      "Concluído">
-<!ENTITY editBookmark.cancel.label                   "Cancelar">
-<!ENTITY editBookmark.removeBookmark.label           "Apagar Marcador">
-<!ENTITY editBookmark.removeBookmark.accessKey       "A">
-<!ENTITY editBookmark.undo.label                     "Desfazer">
-<!ENTITY editBookmark.undo.accessKey                 "D">
-<!ENTITY editBookmark.edit.label                     "Editar...">
-<!ENTITY editBookmark.edit.accessKey                 "E">
+<!ENTITY editBookmark.done.label "Concluído">
+<!ENTITY editBookmark.cancel.label "Cancelar">
+<!ENTITY editBookmark.removeBookmark.label "Apagar Marcador">
+<!ENTITY editBookmark.removeBookmark.accessKey "A">
+<!ENTITY editBookmark.undo.label "Desfazer">
+<!ENTITY editBookmark.undo.accessKey "D">
+<!ENTITY editBookmark.edit.label "Editar...">
+<!ENTITY editBookmark.edit.accessKey "E">
 
 <!ENTITY identity.unverifiedsite2 "Este sítio web não fornece informação de identidade.">
 <!ENTITY identity.connectedTo "Está ligado a">

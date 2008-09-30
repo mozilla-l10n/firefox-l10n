@@ -8,7 +8,7 @@
 <!ENTITY reportBuildConfig "Configuração da compilação">
 <!ENTITY reportUseragent "Agente do utilizador">
 <!ENTITY reportLanguage "Idioma">
-<!ENTITY reportCharset               "Código de caracteres">
+<!ENTITY reportCharset "Código de caracteres">
 <!ENTITY reportEmail "Endereço de correio electrónico">
 <!ENTITY error "Detalhes do erro">
 <!ENTITY faultCode "Código">
