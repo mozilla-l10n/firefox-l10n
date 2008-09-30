@@ -298,19 +298,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.label "Urrundu">
 <!ENTITY fullZoomReduceCmd.accesskey "U">
 <!ENTITY fullZoomReduceCmd.commandkey "-">
-<!ENTITY fullZoomReduceCmd.commandkey2 "">
+<!ENTITY fullZoomReduceCmd.commandkey2 "_">
 
 <!ENTITY fullZoomResetCmd.label "Berrezarri">
 <!ENTITY fullZoomResetCmd.accesskey "R">
 <!ENTITY fullZoomResetCmd.commandkey "0">
-<!ENTITY fullZoomResetCmd.commandkey2 "">
+<!ENTITY fullZoomResetCmd.commandkey2 "=">
 
 <!ENTITY fullZoomToggleCmd.label "Testua soilik">
 <!ENTITY fullZoomToggleCmd.accesskey "T">
 <!ENTITY fullZoom.label "Zooma">
 <!ENTITY fullZoom.accesskey "Z">
 
-<!ENTITY newTabButton.tooltip "Ireki fitxa berri bat">
 <!ENTITY newWindowButton.tooltip "Ireki leiho berri bat">
 <!ENTITY sidebarCloseButton.tooltip "Itxi alboko barra">
 
@@ -371,7 +370,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.removeBookmark.label "Kendu laster-marka">
 <!ENTITY editBookmark.removeBookmark.accessKey "K">
 <!ENTITY editBookmark.undo.label "Desegin">
-<!ENTITY editBookmark.undo.accessKey "U">
+<!ENTITY editBookmark.undo.accessKey "D">
 <!ENTITY editBookmark.edit.label "Editatu…">
 <!ENTITY editBookmark.edit.accessKey "E">
 

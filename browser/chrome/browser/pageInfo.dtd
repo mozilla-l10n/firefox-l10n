@@ -59,9 +59,9 @@
 <!ENTITY generalModified "Aldatuta:">
 <!ENTITY generalEncoding "Kodeketa:">
 <!ENTITY generalMetaName "Izena">
-<!ENTITY generalMetaContent "Edukia:">
-<!ENTITY generalSecurityMore "Gehiago">
-<!ENTITY generalSecurityMore.accesskey "o">
+<!ENTITY generalMetaContent "Edukia">
+<!ENTITY generalSecurityDetails "Xehetasunak">
+<!ENTITY generalSecurityDetails.accesskey "X">
 
 <!ENTITY mediaTab "Multimedia">
 <!ENTITY mediaTab.accesskey "M">
