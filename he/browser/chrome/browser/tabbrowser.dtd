@@ -11,9 +11,10 @@
 <!ENTITY  reloadTab.accesskey         "ט">
 <!ENTITY  listAllTabs.label      "רשימת כל הלשוניות">
 
-<!ENTITY  bookmarkAllTabs.label       "צור סימנייה לכל הלשוניות...">
+<!ENTITY  bookmarkAllTabs.label       "צור סימניה לכל הלשוניות…">
 <!ENTITY  bookmarkAllTabs.accesskey   "כ">
 <!ENTITY  bookmarkThisTab.label       "צור סימניה ללשונית זו">
 <!ENTITY  bookmarkThisTab.accesskey   "ז">
 <!ENTITY  undoCloseTab.label          "בטל סגירת לשונית">
 <!ENTITY  undoCloseTab.accesskey      "ב">
+<!ENTITY  newTabButton.tooltip        "פתח בלשונית חדשה">

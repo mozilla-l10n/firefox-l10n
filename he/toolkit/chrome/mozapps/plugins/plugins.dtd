@@ -14,3 +14,5 @@
 <!ENTITY pluginWizard.licensePage.deny.label "אינני מסכים (התוסף לא יותקן).">
 <!ENTITY pluginWizard.licensePage.title "רשיונות תוסף">
 <!ENTITY pluginWizard.title "שירות חיפוש תוספים">
+<!ENTITY disabledPlugin.label                                "התוסף לתוכן זה מנוטרל. לחץ כאן כדי לנהל את התוספים שלך.">
+<!ENTITY blockedPlugin.label                                "תוסף זה נחסם כדי להגן עליך.">

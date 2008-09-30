@@ -61,8 +61,10 @@
 <!ENTITY  generalEncoding       "קידוד:">
 <!ENTITY  generalMetaName       "שם">
 <!ENTITY  generalMetaContent    "תוכן">
-<!ENTITY  generalSecurityMore   "עוד">
-<!ENTITY  generalSecurityMore.accesskey "ע">
+<!-- ### ENTITY  generalSecurityMore   "עוד" -->
+<!-- ### ENTITY  generalSecurityMore.accesskey "ע" -->
+<!ENTITY  generalSecurityDetails   "פרטים">
+<!ENTITY  generalSecurityDetails.accesskey "פ">
 
 <!ENTITY  mediaTab              "מדיה">
 <!ENTITY  mediaTab.accesskey    "מ">
@@ -73,7 +75,8 @@
 <!ENTITY  mediaType             "סוג">
 <!ENTITY  mediaSize             "גודל">
 <!ENTITY  mediaCount            "כמות">
-<!ENTITY  mediaDimension        "מימדים:"><!ENTITY  mediaLongdesc         "תיאור:">
+<!ENTITY  mediaDimension        "מימדים:">
+<!ENTITY  mediaLongdesc         "תיאור:">
 <!ENTITY  mediaBlockImage.accesskey "ח">
 <!ENTITY  mediaSaveAs           "שמור בשם...">
 <!ENTITY  mediaSaveAs.accesskey "ש">
