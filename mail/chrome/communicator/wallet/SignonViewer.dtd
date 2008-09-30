@@ -5,8 +5,8 @@
 <!ENTITY     tab.nopreview.label           "Noait besjoene formulieren">
 <!ENTITY     tab.nocapture.label           "Noait bewarre formulieren">
 
-<!ENTITY     spiel.signonsstored.label     "Wachtwurdbehearder hat lochyn-ynformaasje bewarre foar de folgjende websteeën:">
-<!ENTITY     spiel.signonsnotstored.label  "Wachtwurdbehearder sil noait lochyn-ynformaasje bewarje foar de folgjende websteeën:">
+<!ENTITY     spiel.signonsstored.label     "Wachtwurdbehearder hat logyn-ynformaasje bewarre foar de folgjende websteeën:">
+<!ENTITY     spiel.signonsnotstored.label  "Wachtwurdbehearder sil noait logyn-ynformaasje bewarje foar de folgjende websteeën:">
 <!ENTITY     spiel.nopreview.label         "Formulierbehearder sil noait formulieren fan de folgjende websteeën foarút besjen eardat se foar jo yn te foljen:">
 <!ENTITY     spiel.nocapture.label         "Formulierbehearder sil noait freegje om formulieren fan de folgjende websteeën te bewarjen:">
 

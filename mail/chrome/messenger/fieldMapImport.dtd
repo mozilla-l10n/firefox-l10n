@@ -35,19 +35,19 @@
 
  ***** END LICENSE BLOCK ***** -->
  
-<!ENTITY fieldMapImport.title "Adresboek importeren">
+<!ENTITY fieldMapImport.title "Adresboek ymportearje">
 <!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
-<!ENTITY fieldMapImport.dataTitle "Record-data om te importeren">
-<!ENTITY fieldMapImport.down "Omlaag verplaatsen">
-<!ENTITY fieldMapImport.down.accesskey "l">
-<!ENTITY fieldMapImport.fieldListTitle "Adresboekvelden">
-<!ENTITY fieldMapImport.next "Volgende">
-<!ENTITY fieldMapImport.next.accesskey "V">
-<!ENTITY fieldMapImport.previous "Vorige">
+<!ENTITY fieldMapImport.recordNumber "Ymportearre gegevens fan rekord:">
+<!ENTITY fieldMapImport.next.label "Folgjende">
+<!ENTITY fieldMapImport.next.accesskey "F">
+<!ENTITY fieldMapImport.previous.label "Foarige">
 <!ENTITY fieldMapImport.previous.accesskey "o">
-<!ENTITY fieldMapImport.recordNumber "Geïmporteerde data van record:">
-<!ENTITY fieldMapImport.text "Gebruik Omhoog verplaatsen en Omlaag verplaatsen om de adresboekvelden aan de linkerkant te laten overeenkomen met de juiste te importeren data aan de rechterkant. Vink onderdelen die u niet wilt importeren uit.">
-<!ENTITY fieldMapImport.up "Omhoog verplaatsen">
+<!ENTITY fieldMapImport.text "Brûk Omheech ferpleatse en Omleech ferpleatse om de adresboekfjlden oan de linkerkant oerienkomme te litten mei de goede te ymportearjen gegevens oan de rjochterkant. Fink ûnderdielen dy't jo net ymportearje woll út.">
+<!ENTITY fieldMapImport.up.label "Omheech ferpleatse">
 <!ENTITY fieldMapImport.up.accesskey "h">
-<!ENTITY fieldMapImport.skipFirstRecord "Eerste record bevat veldnamen">
+<!ENTITY fieldMapImport.down.label "Omleech ferpleatse">
+<!ENTITY fieldMapImport.down.accesskey "l">
+<!ENTITY fieldMapImport.fieldListTitle "Adresboekfjlden">
+<!ENTITY fieldMapImport.dataTitle "Rekord-gegevens om te ymportearjen">
+<!ENTITY fieldMapImport.skipFirstRecord.label "Earste rekord hat fjildnammen">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "E">

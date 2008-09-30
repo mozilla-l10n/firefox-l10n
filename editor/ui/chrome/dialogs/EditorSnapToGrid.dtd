@@ -37,12 +37,12 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Op rooster vastmaken">
+<!ENTITY windowTitle.label "Op raster fêstmeitsje">
 
-<!ENTITY enableSnapToGrid.label "Op rooster vastmaken activeren">
+<!ENTITY enableSnapToGrid.label "Op raster fêstmeitsje aktifearje">
 <!ENTITY enableSnapToGrid.accessKey "r">
 
-<!ENTITY sizeEditField.label "Grootte:">
+<!ENTITY sizeEditField.label "Grutte:">
 <!ENTITY sizeEditField.accessKey "G">
 
-<!ENTITY pixelsLabel.value "pixels">
+<!ENTITY pixelsLabel.value "piksels">

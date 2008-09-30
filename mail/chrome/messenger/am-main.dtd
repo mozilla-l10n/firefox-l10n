@@ -1,6 +1,6 @@
 <!-- extracted from am-main.xul -->
 
-<!ENTITY accountTitle.label "Accountinstellingen">
+<!ENTITY accountTitle.label "Akkountynstellings">
 <!ENTITY accountName.label "Accountnaam:">
 <!ENTITY accountName.accesskey "A">
 <!ENTITY accountNameDesc.label "De accountnaam wordt gebruikt om elke account te identificeren">
@@ -16,16 +16,16 @@
 <!ENTITY organization.accesskey "O">
 <!ENTITY signature.label "Deze ondertekening invoegen:">
 <!ENTITY signature.accesskey "D">
-<!ENTITY edit.label "Bewerken...">
-<!ENTITY choose.label "Kiezen...">
+<!ENTITY edit.label "Bewerken…">
+<!ENTITY choose.label "Kiezen…">
 <!ENTITY choose.accesskey "K">
-<!ENTITY editVCard.label "Kaart bewerken...">
+<!ENTITY editVCard.label "Kaart bewerken…">
 <!ENTITY editVCard.accesskey "b">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 <!ENTITY attachVCard.label "vCard aan berichten koppelen">
 <!ENTITY attachVCard.accesskey "v">
 
-<!ENTITY manageIdentities.label "Identiteiten beheren...">
+<!ENTITY manageIdentities.label "Identiteiten beheren…">
 <!ENTITY manageIdentities.accesskey "h">
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->

@@ -36,18 +36,18 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Persoonlijk woordenboek">
+<!ENTITY windowTitle.label "Persoanlik wurdboek">
 
-<!ENTITY wordEditField.label "Nieuw woord:">
+<!ENTITY wordEditField.label "Nij wurd:">
 <!ENTITY wordEditField.accessKey "N">
-<!ENTITY AddButton.label "Toevoegen">
+<!ENTITY AddButton.label "Tafoegje">
 <!ENTITY AddButton.accessKey "T">
-<!ENTITY DictionaryList.label "Woorden in woordenboek">
+<!ENTITY DictionaryList.label "Wurden yn wurdboek">
 <!ENTITY DictionaryList.accessKey "W">
-<!ENTITY ReplaceButton.label "Vervangen">
+<!ENTITY ReplaceButton.label "Ferfange">
 <!ENTITY ReplaceButton.accessKey "a">
-<!ENTITY RemoveButton.label "Verwijderen">
-<!ENTITY RemoveButton.accessKey "V">
+<!ENTITY RemoveButton.label "Fuortsmite">
+<!ENTITY RemoveButton.accessKey "F">
 
-<!ENTITY CloseButton.label "Sluiten">
+<!ENTITY CloseButton.label "Slute">
 <!ENTITY CloseButton.accessKey "S">

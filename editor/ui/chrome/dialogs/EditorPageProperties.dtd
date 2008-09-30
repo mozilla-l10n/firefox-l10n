@@ -36,15 +36,15 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Pagina-eigenschappen">
-<!ENTITY location.label "Locatie:">
-<!ENTITY lastModified.label "Laatst gewijzigd:">
+<!ENTITY windowTitle.label "Side-eigenskippen">
+<!ENTITY location.label "Lokaasje:">
+<!ENTITY lastModified.label "Lêst wizige:">
 <!ENTITY titleInput.label "Titel:">
 <!ENTITY titleInput.accessKey "T">
 <!ENTITY authorInput.label "Auteur:">
 <!ENTITY authorInput.accessKey "A">
-<!ENTITY descriptionInput.label "Beschrijving:">
+<!ENTITY descriptionInput.label "Beskriuwing:">
 <!ENTITY descriptionInput.accessKey "B">
-<!ENTITY locationNewPage.label "[Nieuwe pagina, nog niet opgeslagen]">
-<!ENTITY EditHEADSource1.label "Geavanceerde gebruikers:">
-<!ENTITY EditHEADSource2.label "Om andere inhoud van het lt;head&gt;-gebied te bewerken, gebruik quot;HTML-bron&quot; in het menu Beeld of de Bewerkingswerkbalk.">
+<!ENTITY locationNewPage.label "[Nije side, noch net bewarre]">
+<!ENTITY EditHEADSource1.label "Avansearre brûkers:">
+<!ENTITY EditHEADSource2.label "Om oare ynhâld fan it lt;head&gt;-gebiet te bewurkjen, brûk quot;HTML-boarne&quot; yn it menu Byld of de Bewurkingsarkbalk.">
