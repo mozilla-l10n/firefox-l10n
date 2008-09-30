@@ -7,6 +7,8 @@
 <!ENTITY language.accesskey "T">
 
 <!ENTITY size.label "Tamanho:">
+<!ENTITY sizeProportional.accesskey "z">
+<!ENTITY sizeMonospace.accesskey "e">
 
 <!ENTITY proportional.label "Proporcional:">
 <!ENTITY proportional.accesskey "P">
@@ -45,10 +47,10 @@
 <!ENTITY font.langGroup.gurmukhi "Gurmukhi">
 <!ENTITY font.langGroup.khmer "Cambodjano">
 <!ENTITY font.langGroup.malayalam "Malaio">
-<!ENTITY  font.langGroup.oriya                    "Oriya">
-<!ENTITY  font.langGroup.telugu                   "Telugu">
-<!ENTITY  font.langGroup.kannada                  "Kannada">
-<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY font.langGroup.oriya "Oriya">
+<!ENTITY font.langGroup.telugu "Telugu">
+<!ENTITY font.langGroup.kannada "Kannada">
+<!ENTITY font.langGroup.sinhala "Sinhala">
 <!-- Minimum font size -->
 <!ENTITY minSize.label "Tamanho mínimo:">
 <!ENTITY minSize.accesskey "m">
@@ -64,6 +66,3 @@
 <!ENTITY languages.customize.Charset.grouplabel "Codificação de caracteres">
 <!ENTITY languages.customize.DefaultCharset.label "Codificação de caracteres por omissão:">
 <!ENTITY languages.customize.DefaultCharset.accesskey "C">
-
-<!ENTITY  sizeProportional.accesskey              "z">
-<!ENTITY  sizeMonospace.accesskey                 "e">

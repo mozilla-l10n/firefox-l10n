@@ -40,8 +40,8 @@
 
 <!ENTITY allowScripts.label "Permitir que os scripts:">
 
-<!ENTITY moveResizeWindows.label        "Movam ou redimensionem janelas existentes">
-<!ENTITY moveResizeWindows.accesskey    "r">
+<!ENTITY moveResizeWindows.label "Movam ou redimensionem janelas existentes">
+<!ENTITY moveResizeWindows.accesskey "R">
 <!ENTITY raiseLowerWindows.label "Minimizem ou maximizem janelas">
 <!ENTITY raiseLowerWindows.accesskey "M">
 <!ENTITY disableContextMenus.label "Desactivem ou substituam menus de contexto">

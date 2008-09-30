@@ -116,7 +116,7 @@
 <!ENTITY certmgr.export.label "Exportar...">
 <!ENTITY certmgr.export.accesskey "x">
 <!ENTITY certmgr.delete2.label "Apagar...">
-<!ENTITY certmgr.delete2.accesskey "p">
+<!ENTITY certmgr.delete2.accesskey "P">
 <!ENTITY certmgr.backup2.label "Cópia de Segurança...">
 <!ENTITY certmgr.backup2.accesskey "C">
 <!ENTITY certmgr.backupall2.label "Copiar todos...">

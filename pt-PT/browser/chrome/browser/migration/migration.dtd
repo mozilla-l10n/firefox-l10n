@@ -32,7 +32,7 @@
 <!ENTITY importFromGaleon.label "Galeon">
 <!ENTITY importFromGaleon.accesskey "G">
 <!ENTITY importFromHTMLFile.label "De um ficheiro HTML">
-<!ENTITY importFromHTMLFile.accesskey "f">
+<!ENTITY importFromHTMLFile.accesskey "F">
 
 <!ENTITY noMigrationSources.label "Não foram encontrados programas que contenham marcadores, histórico ou senhas.">
 

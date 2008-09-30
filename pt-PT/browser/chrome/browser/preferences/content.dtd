@@ -1,34 +1,37 @@
 <!ENTITY blockPopups.label "Bloquear janelas de popup">
 <!ENTITY blockPopups.accesskey "B">
 <!ENTITY popupExceptions.label "Excepções...">
-<!ENTITY popupExceptions.accesskey "x">
+<!ENTITY popupExceptions.accesskey "X">
 
 <!ENTITY loadImages.label "Carregar imagens automaticamente">
 <!ENTITY loadImages.accesskey "I">
+<!ENTITY exceptions.label "Excepções...">
+<!ENTITY exceptions.accesskey "x">
 
 <!ENTITY enableJavaScript.label "Activar JavaScript">
 <!ENTITY enableJavaScript.accesskey "S">
 <!ENTITY advancedJS.label "Avançado...">
 <!ENTITY advancedJS.accesskey "v">
 
-<!ENTITY  enableJava.label            "Activar Java">
-<!ENTITY  enableJava.accesskey        "J">
+<!ENTITY enableJava.label "Activar Java">
+<!ENTITY enableJava.accesskey "j">
 
-<!ENTITY  fontsAndColors.label        "Tipos e Cores de Letras">
 
-<!ENTITY exceptions.label "Excepções...">
-<!ENTITY exceptions.accesskey "x">
+<!ENTITY fontsAndColors.label "Tipos e Cores de Letras">
 
-<!ENTITY advancedFonts.label "Avançado...">
-<!ENTITY advancedFonts.accesskey "d">
-<!ENTITY colors.label "Cores...">
-<!ENTITY colors.accesskey "C">
-<!ENTITY  defaultSize.label           "Tamanho:">
-<!ENTITY  defaultSize.accesskey       "n">
 <!ENTITY defaultFont.label "Tipo de letra por omissão:">
 <!ENTITY defaultFont.accesskey "O">
+<!ENTITY defaultSize.label "Tamanho:">
+<!ENTITY defaultSize.accesskey "N">
 
-<!ENTITY languages.label              "Idiomas">
-<!ENTITY chooseLanguage.label         "Escolha a sua língua preferida para mostrar as páginas">
-<!ENTITY chooseButton.label           "Escolha...">
-<!ENTITY chooseButton.accesskey       "o">
+<!ENTITY advancedFonts.label "Avançado...">
+<!ENTITY advancedFonts.accesskey "D">
+
+<!ENTITY colors.label "Cores...">
+<!ENTITY colors.accesskey "C">
+
+
+<!ENTITY languages.label "Idiomas">
+<!ENTITY chooseLanguage.label "Escolha a sua língua preferida para mostrar as páginas">
+<!ENTITY chooseButton.label "Escolha...">
+<!ENTITY chooseButton.accesskey "o">

@@ -1,18 +1,14 @@
-<!ENTITY newPagesIn.label "Novas páginas devem ser visualizadas:">
-<!ENTITY inNewWindow.label "numa nova janela">
-<!ENTITY inNewWindow.accesskey "v">
-<!ENTITY inNewTab.label "num novo separador">
-<!ENTITY inNewTab.accesskey "s">
+<!ENTITY newWindowsAsTabs.label "Open new windows in a new tab instead">
+<!ENTITY newWindowsAsTabs.accesskey "t">
 
-<!ENTITY warnCloseMultipleTabs.label  "Avisar ao fechar uma janela com múltiplos separadores">
-<!ENTITY warnCloseMultipleTabs.accesskey  "m">
+<!ENTITY warnCloseMultipleTabs.label "Avisar ao fechar uma janela com múltiplos separadores">
+<!ENTITY warnCloseMultipleTabs.accesskey "m">
 
-<!ENTITY warnOpenManyTabs.label       "Avisar quando a abertura de múltiplos separadores diminuir o desempenho do &brandShortName;">
-<!ENTITY warnOpenManyTabs.accesskey   "o">
+<!ENTITY warnOpenManyTabs.label "Avisar quando a abertura de múltiplos separadores diminuir o desempenho do &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey "o">
 
 <!ENTITY showTabBar.label "Mostrar sempre a barra dos separadores">
 <!ENTITY showTabBar.accesskey "b">
 
 <!ENTITY switchToNewTabs.label "Mostrar imediatamente o separador quando se abre uma nova ligação">
 <!ENTITY switchToNewTabs.accesskey "s">
-
