@@ -61,8 +61,6 @@
 <!ENTITY  generalEncoding       "קידוד:">
 <!ENTITY  generalMetaName       "שם">
 <!ENTITY  generalMetaContent    "תוכן">
-<!-- ### ENTITY  generalSecurityMore   "עוד" -->
-<!-- ### ENTITY  generalSecurityMore.accesskey "ע" -->
 <!ENTITY  generalSecurityDetails   "פרטים">
 <!ENTITY  generalSecurityDetails.accesskey "פ">
 

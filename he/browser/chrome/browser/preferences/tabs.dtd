@@ -1,11 +1,6 @@
 <!ENTITY newWindowsAsTabs.label       "פתח חלונות חדשים כלשוניות חדשות">
 <!ENTITY newWindowsAsTabs.accesskey   "ל">
 
-<!-- ### ENTITY newPagesIn.label "דפים חדשים יפתחו:" -->
-<!-- ### ENTITY inNewWindow.label "בחלון חדש" -->
-<!-- ### ENTITY inNewWindow.accesskey "ח" -->
-<!-- ### ENTITY inNewTab.label "בלשונית חדשה" -->
-<!-- ### ENTITY inNewTab.accesskey "ל" -->
 <!ENTITY warnCloseMultipleTabs.label "הזהר אותי בסגירת מספר לשוניות">
 <!ENTITY warnCloseMultipleTabs.accesskey "ה">
 <!ENTITY warnOpenManyTabs.label "הזהר אותי בפתיחת כמות לשוניות שעלולה להאט את &brandShortName;">
