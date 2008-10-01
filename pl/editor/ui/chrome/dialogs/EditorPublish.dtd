@@ -25,6 +25,7 @@
    -		Zbigniew Braniecki <gandalf@aviary.pl> (Polish localization)
    -		Piotr Komoda <pitreck@aviary.pl> (Polish localization)
    -		Marek Stępień <marcoos@aviary.pl> (Polish localization)
+   -		Stefan Plewako <splewako@aviary.pl> (Polish localization)
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -58,7 +59,7 @@
 <!ENTITY docDirList.tooltip           "Wskaż lub wprowadź nazwę zdalnego podkatalogu dla tej strony">
 <!ENTITY publishImgCheckbox.label     "Dołącz obrazki oraz inne pliki" >
 <!ENTITY publishImgCheckbox.tooltip   "Wraz ze stroną WWW opublikuj obrazki i inne powiązane pliki" >
-<!ENTITY publishImgCheckbox.accesskey "W">
+<!ENTITY publishImgCheckbox.accesskey "c">
 <!ENTITY sameLocationRadio.label      "Użyj tej samej lokalizacji, co strona" >
 <!ENTITY sameLocationRadio.tooltip    "Zachowaj pliki w tym samym katalogu co plik strony WWW" >
 <!ENTITY sameLocationRadio.accesskey  "U">
