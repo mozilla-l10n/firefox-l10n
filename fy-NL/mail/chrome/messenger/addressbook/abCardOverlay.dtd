@@ -35,9 +35,9 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY Contact.tab                     "Contact">
-<!ENTITY Contact.accesskey               "C">
-<!ENTITY Name.box                        "Naam">
+<!ENTITY Contact.tab "Kontakt">
+<!ENTITY Contact.accesskey	"K">
+<!ENTITY Name.box "Namme">
 
 <!-- LOCALIZATION NOTE: 
  NameField1, NameField2, PhoneticField1, PhoneticField2
@@ -56,98 +56,98 @@
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
 <!ENTITY PhoneticField2.id              "PhoneticLastName"> 
 
-<!ENTITY NameField1.label               "Voornaam:">
-<!ENTITY NameField1.accesskey           "V">
-<!ENTITY NameField2.label               "Achternaam:">
-<!ENTITY NameField2.accesskey           "h">
-<!ENTITY PhoneticField1.label           "Fonetisch:">
-<!ENTITY PhoneticField2.label           "Fonetisch:">
-<!ENTITY DisplayName.label              "Weergave:">
-<!ENTITY DisplayName.accesskey          "W">
-<!ENTITY NickName.label                 "Bijnaam:">
-<!ENTITY NickName.accesskey             "B">
+<!ENTITY NameField1.label "Foarnamme:">
+<!ENTITY NameField1.accesskey "F">
+<!ENTITY NameField2.label "Efternamme:">
+<!ENTITY NameField2.accesskey "E">
+<!ENTITY PhoneticField1.label "Fonetysk:">
+<!ENTITY PhoneticField2.label "Fonetysk:">
+<!ENTITY DisplayName.label "Werjefte:">
+<!ENTITY DisplayName.accesskey "W">
+<!ENTITY NickName.label "Bynamme:">
+<!ENTITY NickName.accesskey "B">
 
-<!ENTITY Internet.box                   "Internet">
-<!ENTITY PrimaryEmail.label             "E-mail:">
-<!ENTITY PrimaryEmail.accesskey         "E">
-<!ENTITY SecondEmail.label              "Alternatieve e-mail:">
-<!ENTITY SecondEmail.accesskey          "l">
-<!ENTITY PreferMailFormat.label         "Verkiest berichten te ontvangen opgesteld als:">
-<!ENTITY PreferMailFormat.accesskey     "c">
-<!ENTITY PlainText.label                "Platte tekst">
-<!ENTITY HTML.label                     "HTML">
-<!ENTITY Unknown.label                  "Onbekend">
-<!ENTITY ScreenName.label               "Schermnaam:">
-<!ENTITY ScreenName.accesskey           "S">
+<!ENTITY Internet.box "Ynternet">
+<!ENTITY PrimaryEmail.label "E-mail:">
+<!ENTITY PrimaryEmail.accesskey "m">
+<!ENTITY SecondEmail.label "Alternative e-mail:">
+<!ENTITY SecondEmail.accesskey "A">
+<!ENTITY PreferMailFormat.label "Wol it leafst berjochten ûntfange opsteld as:">
+<!ENTITY PreferMailFormat.accesskey "H">
+<!ENTITY PlainText.label "Platte tekst">
+<!ENTITY HTML.label "HTML">
+<!ENTITY Unknown.label "Unbekend">
+<!ENTITY ScreenName.label "Skermnamme:">
+<!ENTITY ScreenName.accesskey "S">
 
-<!ENTITY allowRemoteContent.label       "Afbeeldingen op afstand in HTML-e-mail toestaan.">
+<!ENTITY allowRemoteContent.label       "Ofbyldings op ôfstân yn HTML-e-mail tastean.">
 <!ENTITY allowRemoteContent.accesskey   "d">
 
-<!ENTITY Phones.box                     "Telefoon">
-<!ENTITY WorkPhone.label                "Werk">
-<!ENTITY WorkPhone.accesskey            "r">
-<!ENTITY HomePhone.label                "Thuis:">
-<!ENTITY HomePhone.accesskey            "T">
-<!ENTITY FaxNumber.label                "Fax:">
-<!ENTITY FaxNumber.accesskey            "F">
-<!ENTITY PagerNumber.label              "Pieper:">
-<!ENTITY PagerNumber.accesskey          "P">
-<!ENTITY CellularNumber.label           "Mobiel:">
-<!ENTITY CellularNumber.accesskey       "M">
+<!ENTITY Phones.box "Telefoan">
+<!ENTITY WorkPhone.label "Wurk">
+<!ENTITY WorkPhone.accesskey "r">
+<!ENTITY HomePhone.label "Thús">
+<!ENTITY HomePhone.accesskey "T">
+<!ENTITY FaxNumber.label "Faks:">
+<!ENTITY FaxNumber.accesskey "k">
+<!ENTITY PagerNumber.label "Piper:">
+<!ENTITY PagerNumber.accesskey "P">
+<!ENTITY CellularNumber.label "Mobyl:">
+<!ENTITY CellularNumber.accesskey "M">
 
-<!ENTITY Address.tab                    "Adres">
-<!ENTITY Address.accesskey              "A">
-<!ENTITY Home.box                       "Thuis">
-<!ENTITY HomeAddress.label              "Adres:">
-<!ENTITY HomeAddress.accesskey          "d">
-<!ENTITY HomeAddress2.label             "">
+<!ENTITY Address.tab "Adres">
+<!ENTITY Address.accesskey	"A">
+<!ENTITY Home.box "Thús">
+<!ENTITY HomeAddress.label "Adres:">
+<!ENTITY HomeAddress.accesskey	"d">
+<!ENTITY HomeAddress2.label "">
 <!ENTITY HomeAddress2.accesskey         "">
-<!ENTITY HomeCity.label                 "Woonplaats:">
-<!ENTITY HomeCity.accesskey             "W">
-<!ENTITY HomeState.label                "Provincie:">
-<!ENTITY HomeState.accesskey            "v">
-<!ENTITY HomeZipCode.label              "Postcode:">
+<!ENTITY HomeCity.label "Wenplak:">
+<!ENTITY HomeCity.accesskey	"W">
+<!ENTITY HomeState.label "Provinsje:">
+<!ENTITY HomeState.accesskey	"v">
+<!ENTITY HomeZipCode.label "Postkoade:">
 <!ENTITY HomeZipCode.accesskey          "P">
-<!ENTITY HomeCountry.label              "Land:">
+<!ENTITY HomeCountry.label "Lân">
 <!ENTITY HomeCountry.accesskey          "L">
-<!ENTITY HomeWebPage.label              "Webpagina:">
-<!ENTITY HomeWebPage.accesskey          "g">
-<!ENTITY Work.box                       "Werk">
-<!ENTITY JobTitle.label                 "Titel:">
+<!ENTITY HomeWebPage.label "Webstee:">
+<!ENTITY HomeWebPage.accesskey	"s">
+<!ENTITY Work.box "Wurk">
+<!ENTITY JobTitle.label "Titel:">
 <!ENTITY JobTitle.accesskey             "e">
-<!ENTITY Department.label               "Afdeling:">
+<!ENTITY Department.label "Ofdieling:">
 <!ENTITY Department.accesskey           "f">
-<!ENTITY Company.label                  "Organisatie:">
+<!ENTITY Company.label "Organisaasje:">
 <!ENTITY Company.accesskey              "i">
-<!ENTITY WorkAddress.label              "Adres:">
+<!ENTITY WorkAddress.label "Adres:">
 <!ENTITY WorkAddress.accesskey          "r">
-<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.label "">
 <!ENTITY WorkAddress2.accesskey         "">
-<!ENTITY WorkCity.label                 "Stad:">
+<!ENTITY WorkCity.label "Plak:">
 <!ENTITY WorkCity.accesskey             "S">
-<!ENTITY WorkState.label                "Provincie:">
+<!ENTITY WorkState.label "Provinsje:">
 <!ENTITY WorkState.accesskey            "v">
-<!ENTITY WorkZipCode.label              "Postcode:">
-<!ENTITY WorkZipCode.accesskey          "c">
-<!ENTITY WorkCountry.label              "Land:">
+<!ENTITY WorkZipCode.label "Postkoade:">
+<!ENTITY WorkZipCode.accesskey          "k">
+<!ENTITY WorkCountry.label "Lân">
 <!ENTITY WorkCountry.accesskey          "n">
-<!ENTITY WorkWebPage.label              "Webpagina:">
+<!ENTITY WorkWebPage.label "Webstee:">
 <!ENTITY WorkWebPage.accesskey          "b">
 
-<!ENTITY Other.tab                      "Overig">
+<!ENTITY Other.tab "Oars">
 <!ENTITY Other.accesskey                "O">
-<!ENTITY Birthday.label                 "Verjaardag:">
-<!ENTITY Birthday.accesskey             "V">
-<!ENTITY Year.emptytext                 "Jaar">
+<!ENTITY Birthday.label                 "Jierdei:">
+<!ENTITY Birthday.accesskey             "d">
+<!ENTITY Year.emptytext                 "Jier">
 <!ENTITY Or.value                       "of">
-<!ENTITY Age.emptytext                  "Leeftijd">
-<!ENTITY Custom1.label                  "Overig 1:">
-<!ENTITY Custom1.accesskey              "1">
-<!ENTITY Custom2.label                  "Overig 2:">
-<!ENTITY Custom2.accesskey              "2">
-<!ENTITY Custom3.label                  "Overig 3:">
-<!ENTITY Custom3.accesskey              "3">
-<!ENTITY Custom4.label                  "Overig 4:">
-<!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.box                      "Aantekeningen">
+<!ENTITY Age.emptytext                  "Leeftiid">
+<!ENTITY Custom1.label "Oars 1:">
+<!ENTITY Custom1.accesskey "1">
+<!ENTITY Custom2.label "Oars 2:">
+<!ENTITY Custom2.accesskey "2">
+<!ENTITY Custom3.label "Oars 3:">
+<!ENTITY Custom3.accesskey "3">
+<!ENTITY Custom4.label "Oars 4:">
+<!ENTITY Custom4.accesskey "4">
+<!ENTITY Notes.box "Oantekenings">
 <!ENTITY Notes.accesskey                "n">
