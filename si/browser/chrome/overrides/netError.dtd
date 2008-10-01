@@ -50,7 +50,7 @@
 <!ENTITY netOffline.title "නොබැඳි ආකාරය">
 <!ENTITY netOffline.longDesc "
 <ul>
-  <li>ගොනු මෙනුව තුළ &quot;අසම්බන්ධිතව ක්‍රියා කරන්න&quot; සලකුණු කිරීම ඉවත්කර යළි උත්සාහ කරන්න.</li>
+  <li>ගොනු මෙනුව තුළ &quot; නොබැඳිව ක්‍රියා කරන්න &quot; සලකුණු කිරීම ඉවත්කර යළි උත්සාහ කරන්න.</li>
 </ul>
 ">
 <!ENTITY contentEncodingError.title "අන්තර්ගත සංකේතාංකන දෝෂය">
