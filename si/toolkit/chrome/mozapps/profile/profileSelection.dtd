@@ -42,7 +42,7 @@
 
 <!ENTITY            profilename.label      "පැතිකඩ නාමය:">
 
-<!ENTITY            start.label            "&brandShortName; ආරම්ඹීම">
+<!ENTITY            start.label            "&brandShortName; ආරඹීම">
 <!ENTITY            exit.label             "පිටවීම">
 
 <!ENTITY            availprofiles.label    "භාවිතයට ඇති පැතිකඩ">
@@ -55,7 +55,7 @@
 <!ENTITY            deleteButton.accesskey "D">
 
 <!-- manager entities -->
-<!ENTITY            pmDescription.label    "&brandShortName; ඔබේ සැසුම්, අභිප්‍රේත සහ පරිශීලක පැතිකඩේ ඇති වෙනත් තොරතුරු ගබඩා කරයි.">
+<!ENTITY            pmDescription.label    "&brandShortName; ඔබේ සැකසුම්, අභිප්‍රේත සහ පරිශීලක පැතිකඩේ ඇති වෙනත් තොරතුරු ගබඩා කරයි.">
 
 <!ENTITY            offlineState.label    "නොබැඳිව ක්‍රියා කරන්න">
 <!ENTITY            offlineState.accesskey "o">
