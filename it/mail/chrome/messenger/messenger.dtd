@@ -583,7 +583,7 @@
 <!ENTITY junkBarButton1.label "Non indesiderata">
 <!ENTITY junkInfoButton.label "?">
 <!ENTITY remoteContentMessage1.label "Per proteggere la tua privacy le immagini remote sono state bloccate.">
-<!ENTITY loadRemoteContentButton2.label "Mosta l'immagine ora">
+<!ENTITY loadRemoteContentButton2.label "Mostra immagini">
 <!ENTITY phishingBarMessage2.label "Questo messaggio potrebbe essere una frode">
 <!ENTITY removePhishingBarButton1.label "Ignorare gli avvisi">
 <!ENTITY reportPhishingError1.label "Questo messaggio non sembra essere una frode">
