@@ -59,7 +59,9 @@
 <!ENTITY saveAsMenuItem.accesskey "ש">
 <!ENTITY viewSourceMenuItem.label "הצג מקור…">
 <!ENTITY viewSourceMenuItem.accesskey "מ">
+
 <!ENTITY hideDetailsButton.label "הסתר פרטים">
+<!ENTITY showDetailsButton.label "הצג פרטים">
 
 <!ENTITY editMessageDescription.label "זוהי הודעת טיוטא">
 <!ENTITY editMessageButton.label "עריכה…">
