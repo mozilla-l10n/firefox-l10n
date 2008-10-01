@@ -9,10 +9,6 @@
 <!ENTITY  cancel.label                    "रद्द करें">
 <!ENTITY  cancel.accesskey                "C">
 
-
-<!ENTITY  noupdatesfound.intro            "अब कोई नया अद्यतन उपलब्ध नहीं है. &brandShortName; नये अद्यतन के लिये क्रमिक रूप से जांचेगा.">
-
-
 <!ENTITY  clickHere.label                 "इस अद्यतन के बारे में ज्यादा सूचना देखें">
 
 <!ENTITY  incompatible.warning            "यह अद्यतन आपके कुछ विस्तार का कारण और/या थीम को काम करने से रोकने के लिये जबतक वे अद्यतन किये जाते हैं.">
@@ -72,3 +68,7 @@
 <!ENTITY  update.installedOn.label        "इसपर संस्थापित:">
 <!ENTITY  update.status.label             "स्थिति:">
 <!ENTITY  noupdatesfound.title            "कोई अद्यतन नहीं मिला">
+
+<!ENTITY  noupdatesautodisabled.intro     "कोई अद्यतन उपलब्ध नहीं है. कृपया बाद में फिर जाँचें या                                            &brandShortName; के स्वचालित अद्यतन जाँच सक्रिय करें.">
+<!ENTITY  noupdatesautoenabled.intro      "कोई अद्यतन उपलब्ध नहीं है. &brandShortName; आवधिक रूप से अद्यतनों की जाँच करेगा.">
+

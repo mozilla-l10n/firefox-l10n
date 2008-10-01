@@ -39,7 +39,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.clearList.tooltip            "पूर्ण, रद्द किया हुआ, और विफल डाउनलोड को सूची से हटाता है">
 <!ENTITY cmd.clearList.accesskey          "C">
 <!ENTITY cmd.find.commandKey              "f">
-
+<!ENTITY cmd.search.commandKey            "k">
 <!ENTITY closeWhenDone.label              "डाउनलोड के पूरा होने पर बंद करें">
 <!ENTITY closeWhenDone.tooltip            "डाउनलोड विंडो बंद करें जब सभी फाइलें डाउनलोड करना बंद कर दे">
 

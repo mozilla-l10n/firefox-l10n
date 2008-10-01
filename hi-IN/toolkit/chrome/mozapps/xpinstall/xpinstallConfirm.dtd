@@ -2,8 +2,8 @@
 
 <!ENTITY dialog.title            "सॉफ्टवेयर संस्थापन">
 <!ENTITY dialog.style            "width: 45em">
-<!ENTITY warningMain.label       "सिर्फ उन्हीं सहयुक्तियों को संस्थापित करें जिसके लेखक को आप भरोसा करते हैं.">
 <!ENTITY warningSecondary.label  "दुर्भावना पूर्ण सॉफ़्टवेयर आपकी कंप्यूटर को क्षति पहुंचा सकते हैं या आपकी निजता का उल्लंघन कर सकते हैं.">
 
 <!ENTITY from.label "इससे:">
+<!ENTITY warningPrimary.label    "सिर्फ उन्हीं सहयुक्तियों को संस्थापित करें जिसके लेखक को आप भरोसा करते हैं.">
 

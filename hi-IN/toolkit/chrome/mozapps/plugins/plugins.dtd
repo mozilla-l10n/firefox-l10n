@@ -16,3 +16,5 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label "प्लग-इन्स के बारे में अधिक जानने के लिये या अपनेआप अनुपस्थित प्लग-इन्स खोजने के लिये।">
 <!ENTITY pluginWizard.finalPage.restart.label "प्लग-इन को कार्य करने के लिये &brandShortName;. को पुनःआरम्भ करने की आवश्यकता है।">
 
+<!ENTITY blockedPlugin.label                                 "यह प्लगिन आपकी सुरक्षा के लिए रोका गया है.">
+<!ENTITY disabledPlugin.label                                "इस सामग्री के लिए प्लगिन निष्क्रिय किया गया है. अपने प्लगिन के प्रबंधन के लिए यहाँ क्लिक करें.">
