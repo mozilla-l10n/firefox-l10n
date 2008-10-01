@@ -8,7 +8,7 @@
 <!ENTITY  noupdates.label           "තවම යාවත්කාල කිරීම් ස්ථාලනය කර නොමැත">
 
 <!ENTITY  name.header               "යාවත්කාල කිරීමේ නම">
-<!ENTITY  date.header               "ස්ථාපනය කල දිනය">
+<!ENTITY  date.header               "ස්ථාපනය කළ දිනය">
 <!ENTITY  type.header               "වර්ගය">
 <!ENTITY  state.header              "තත්වය">
 

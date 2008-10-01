@@ -54,15 +54,14 @@
 <!ENTITY  errorpatching.intro             "අඩ යාවත්කාල කිරීම් යෙදවිය නොහැක. 
                                            &brandShortName; සම්පූර්ණ වෙළුම බාගත කරගැනීමෙන් පසු නැවත උත්සහ කරන්න.">
 
-<!ENTITY  finished.title                  "යාවත්කාල කිරීම් භාගත වී ඇත">
-<!ENTITY  finished.text                   "යාවත්කාල කිරීම සාර්ථක ලෙස බාගත වී හා ස්ථීර වී අවසන්, ඊලගට &brandShortName; පටන්ගැනීමේදී  
-                                           එය ස්ථාපනය වනු ඇත.">
+<!ENTITY  finished.title                  "යාවත්කාල කිරීම් බාගත විය">
+<!ENTITY  finished.text                   "යාවත්කාල කිරීම සාර්ථකව බාගත විය, යළි &brandShortName; ඇරඹමේදී එය ස්ථාපනය වනු ඇත.">
 
 <!ENTITY  finishedBackground.title        "යාවත්කාල කිරීම් ස්ථාපනය සඳහා සූදානම්">
 <!ENTITY  finishedBackground.text         "&brandShortName; වැදගත් යාවත්කාල කිරීම් බාගත කර හා ස්ථීර කර ඇත.
                                            වැඩි තොරතුරු සදහා පහත පුරුක මත ක්ලික් කරන්න.">
 <!ENTITY  finishedBackground.name         "යාවත්කාල කිරීම:">
-<!ENTITY  finishedBackground.more1        "දැන් යාවත්කාල කිරීම් ස්ථාපනයට නම් &brandShortName; හී යලි අරඹන්න  මත ක්ලික් කරන්න.">
+<!ENTITY  finishedBackground.more1        "දැන් යාවත්කාල කිරීම් ස්ථාපනයට නම් &brandShortName; හී යළි අරඹන්න මත ක්ලික් කරන්න.">
 
 
 <!ENTITY  installed.title                 "යාවත්කාල කිරීම ස්ථාපිතයි">
@@ -72,6 +71,5 @@
 <!ENTITY  update.details.label            "තොරතුරු">
 <!ENTITY  update.installedOn.label        "ස්ථාපිත දිනය:">
 <!ENTITY  update.status.label             "තත්වය:">
-<!ENTITY  finishedBackground.textNotNow   "Click Not Now to close this dialog and continue working. &brandShortName;
-                                           will install the update the next time it starts.">
-<!ENTITY  incompatibleChecking.label      "Checking if this update will cause problems with your extensions and/or themes…">
+<!ENTITY  finishedBackground.textNotNow   "මෙම සංවාද කොටුව වසා කාර්යය කිරීම සඳහා දැන් නොවේ යන්න ක්ලික් කරන්න. &brandShortName; යළි ඇරඹූ විටෙක යාවත්කාලීනය ස්ථාපනය වනු ඇත.">
+<!ENTITY  incompatibleChecking.label      "මෙම යාවත්කාලීන කිරීම ඔබේ දිගුවන් සහ/හෝ තේමා සමඟ ගැටලු ඇති කරයි ද යන්න පිරික්සමින්…">

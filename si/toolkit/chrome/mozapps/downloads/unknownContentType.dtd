@@ -3,7 +3,7 @@
 
 <!ENTITY  intro.label                 "ඔබ විවෘත කිරීමට තෝරන ලදි">
 <!ENTITY  from.label                  "සිට:">
-<!ENTITY  actionQuestion.label        "&brandShortName; වන ගොනුව සමග කරනුයේ කුමක්ද?">
+<!ENTITY  actionQuestion.label        "&brandShortName; මෙ ගොනුව සමග කුමක් කළ යුතුද?">
 
 <!ENTITY  openWith.label              "සමඟ විවෘත කරන්න">
 <!ENTITY  openWith.accesskey          "o">
@@ -22,4 +22,4 @@
 <!ENTITY  chooseHandler.label         "පිරික්සන්න...">
 <!ENTITY  chooseHandler.accesskey     "B">
 
-<!ENTITY  unknownPromptText.label     "ඔබ මෙම ගොනුව සුරැකීමට කැමතිද?">
+<!ENTITY  unknownPromptText.label     "ඔබ මෙම ගොනුව සුරකීමට කැමතිද?">
