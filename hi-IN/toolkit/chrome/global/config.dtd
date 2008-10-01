@@ -45,8 +45,6 @@
 
 <!ENTITY filterPrefs.label "फ़िल्टर:">
 <!ENTITY filterPrefs.accesskey "I">
-<!ENTITY showAll.label "सभी दिखाएँ">
-<!ENTITY showAll.accesskey "W">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "वरीयता नाम">
