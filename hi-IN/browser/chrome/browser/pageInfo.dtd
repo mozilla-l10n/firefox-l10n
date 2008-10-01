@@ -60,8 +60,10 @@
 <!ENTITY  generalEncoding       "ऐन्कोडिंग:">
 <!ENTITY  generalMetaName       "नाम">
 <!ENTITY  generalMetaContent    "अंतर्वस्तु">
-<!ENTITY  generalSecurityMore   "अधिक">
-<!ENTITY  generalSecurityMore.accesskey "o">
+
+<!ENTITY  generalSecurityDetails   "विवरण">
+<!ENTITY  generalSecurityDetails.accesskey "D">
+
 
 <!ENTITY  mediaTab              "मीडिया">
 <!ENTITY  mediaTab.accesskey    "M">
