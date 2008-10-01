@@ -119,7 +119,7 @@
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
 
 <!ENTITY col.name.label          "නම">
-<!ENTITY col.tags.label          "ටැග්">
+<!ENTITY col.tags.label          "ලේබල">
 <!ENTITY col.url.label           "පිහිටුම">
 <!ENTITY col.lastvisit.label     "පිවිසි දිනය">
 <!ENTITY col.visitcount.label    "පිවිසුම් එකතුව">
