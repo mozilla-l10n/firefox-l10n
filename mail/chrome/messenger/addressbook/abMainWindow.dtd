@@ -1,215 +1,215 @@
 <!ENTITY addressbookWindow.title "Adresboek">
 
 <!-- File Menu -->
-<!ENTITY fileMenu.label                                 "Bestand">
+<!ENTITY fileMenu.label                                 "Bestân">
 <!ENTITY fileMenu.accesskey                             "B">
-<!ENTITY newMenu.label                                  "Nieuw">
+<!ENTITY newMenu.label                                  "Nij">
 <!ENTITY newMenu.accesskey                              "N">
 <!ENTITY newCard.label                                  "Adresboekkaart…">
 <!ENTITY newCard.accesskey                              "A">
 <!ENTITY newCard.key                                    "N">
-<!ENTITY newListCmd.label                               "Mailinglijst…">
+<!ENTITY newListCmd.label                               "Mailinglist…">
 <!ENTITY newListCmd.accesskey                           "M">
 <!ENTITY newAddressBookCmd.label                        "Adresboek…">
 <!ENTITY newAddressBookCmd.accesskey                    "r">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP-directory…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
-<!ENTITY newMessageCmd.label                            "Bericht">
+<!ENTITY newMessageCmd.label                            "Berjocht">
 <!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "B">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
-<!ENTITY osxAddressBook.label                           "Mac OS X Adresboek gebruiken">
+<!ENTITY osxAddressBook.label                           "Mac OS X Adresboek brûke">
 <!ENTITY osxAddressBook.accesskey                       "O">
-<!ENTITY closeCmd.label                                 "Sluiten">
+<!ENTITY closeCmd.label                                 "Slute">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "S">
-<!ENTITY printSetupCmd.label                            "Pagina-instellingen…">
+<!ENTITY printSetupCmd.label                            "Side-ynstellings…">
 <!ENTITY printSetupCmd.accesskey                        "P">
-<!ENTITY printPreviewCardViewCmd.label                  "Afdrukvoorbeeld kaart">
+<!ENTITY printPreviewCardViewCmd.label                  "Ofdrukfoarbyld kaart">
 <!ENTITY printPreviewCardViewCmd.accesskey              "v">
 <!ENTITY printPreviewAddressBook.label                  "Afdrukvoorbeeld adresboek">
 <!ENTITY printPreviewAddressBook.accesskey              "b">
-<!ENTITY printCardViewCmd.label                         "Kaart afdrukken…">
+<!ENTITY printCardViewCmd.label                         "Kaart ôfdrukke…">
 <!ENTITY printCardViewCmd.accesskey                     "d">
 <!ENTITY printCardViewCmd.key                           "P">
-<!ENTITY printAddressBook.label                         "Adresboek afdrukken…">
+<!ENTITY printAddressBook.label                         "Adresboek ôfdrukke…">
 <!ENTITY printAddressBook.accesskey                     "f">
 
-<!ENTITY quitApplicationCmdWin.label                    "Afsluiten">
-<!ENTITY quitApplicationCmdWin.accesskey                "A">
-<!ENTITY quitApplicationCmd.label                       "Afsluiten">
-<!ENTITY quitApplicationCmd.accesskey                   "A">
+<!ENTITY quitApplicationCmdWin.label                    "Ofslute">
+<!ENTITY quitApplicationCmdWin.accesskey                "O">
+<!ENTITY quitApplicationCmd.label                       "Ofslute">
+<!ENTITY quitApplicationCmd.accesskey                   "O">
 <!ENTITY quitApplicationCmd.key                         "Q">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.label                                 "Bewerken">
+<!ENTITY editMenu.label                                 "Bewurkje">
 <!ENTITY editMenu.accesskey                             "W">
-<!ENTITY undoCmd.label                                  "Ongedaan maken">
+<!ENTITY undoCmd.label                                  "Ungedien meitsje">
 <!ENTITY undoCmd.key                                    "Z">
 <!ENTITY undoCmd.accesskey                              "O">
-<!ENTITY redoCmd.label                                  "Opnieuw uitvoeren">
+<!ENTITY redoCmd.label                                  "Op 'e nij útfiere">
 <!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "u">
-<!ENTITY cutCmd.label                                   "Knippen">
+<!ENTITY redoCmd.accesskey                              "n">
+<!ENTITY cutCmd.label                                   "Knippe">
 <!ENTITY cutCmd.key                                     "X">
 <!ENTITY cutCmd.accesskey                               "N">
-<!ENTITY copyCmd.label                                  "Kopiëren">
+<!ENTITY copyCmd.label                                  "Kopiearje">
 <!ENTITY copyCmd.key                                    "C">
 <!ENTITY copyCmd.accesskey                              "K">
-<!ENTITY pasteCmd.label                                 "Plakken">
+<!ENTITY pasteCmd.label                                 "Plakke">
 <!ENTITY pasteCmd.key                                   "V">
 <!ENTITY pasteCmd.accesskey                             "P">
-<!ENTITY deleteCmd.label                                "Verwijderen">
+<!ENTITY deleteCmd.label                                "Fuortsmite">
 <!ENTITY deleteCmd.key                                  "D">
-<!ENTITY deleteCmd.accesskey                            "V">
-<!ENTITY deleteAbCmd.label                              "Adresboek verwijderen">
-<!ENTITY deleteCardCmd.label                            "Kaart verwijderen">
-<!ENTITY deleteCardsCmd2.label                          "Kaarten verwijderen">
-<!ENTITY deleteListCmd.label                            "Lijst verwijderen">
-<!ENTITY deleteListsCmd.label                           "Lijsten verwijderen">
-<!ENTITY deleteItemsCmd.label                           "Items verwijderen">
-<!ENTITY selectAllCmd.label                             "Alles selecteren">
+<!ENTITY deleteCmd.accesskey                            "F">
+<!ENTITY deleteAbCmd.label                              "Adresboek fuortsmite">
+<!ENTITY deleteCardCmd.label                            "Kaart fuortsmite">
+<!ENTITY deleteCardsCmd2.label                          "Kaarten fuortsmite">
+<!ENTITY deleteListCmd.label                            "List fuortsmite">
+<!ENTITY deleteListsCmd.label                           "Listen fuortsmite">
+<!ENTITY deleteItemsCmd.label                           "Items fuortsmite">
+<!ENTITY selectAllCmd.label                             "Alles fuortsmite">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
 <!ENTITY selectAllCmd.accesskey                         "A">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Voor-/achternaam wisselen">
+<!ENTITY swapFirstNameLastNameCmd.label                 "Foar-/achternamme wikselje">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "W">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI                                 "true">
-<!ENTITY propertiesCmd.label                            "Eigenschappen…">
+<!ENTITY propertiesCmd.label                            "Eigenskippen…">
 <!ENTITY propertiesCmd.accesskey                        "E">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label                                 "Beeld">
+<!ENTITY viewMenu.label                                 "Byld">
 <!ENTITY viewMenu.accesskey                             "L">
-<!ENTITY viewToolbarsMenu.label                         "Werkbalken">
+<!ENTITY viewToolbarsMenu.label                         "Arkbalken">
 <!ENTITY viewToolbarsMenu.accesskey                     "W">
-<!ENTITY showAbToolbarCmd.label                         "Adresboekwerkbalk">
+<!ENTITY showAbToolbarCmd.label                         "Adresboekarkbalke">
 <!ENTITY showAbToolbarCmd.accesskey                     "A">
-<!ENTITY showTaskbarCmd.label                           "Statusbalk">
+<!ENTITY showTaskbarCmd.label                           "Steatbalke">
 <!ENTITY showTaskbarCmd.accesskey                       "S">
-<!ENTITY customizeToolbar.label                         "Aanpassen…">
+<!ENTITY customizeToolbar.label                         "Oanpasse…">
 <!ENTITY customizeToolbar.accesskey                     "A">
-<!ENTITY showCardPane.label                             "Samenvattingsvenster">
+<!ENTITY showCardPane.label                             "Gearfettingsfinster">
 <!ENTITY showCardPane.accesskey                         "S">
-<!ENTITY menu_ShowNameAs.label                          "Namen weergeven als">
+<!ENTITY menu_ShowNameAs.label                          "Nammen werjaan as">
 <!ENTITY menu_ShowNameAs.accesskey                      "L">
-<!ENTITY firstLastCmd.label                             "Voornaam, achternaam">
+<!ENTITY firstLastCmd.label                             "Foarnamme, achternamme">
 <!ENTITY firstLastCmd.accesskey                         "V">
-<!ENTITY lastFirstCmd.label                             "Achternaam, voornaam">
+<!ENTITY lastFirstCmd.label                             "Achternamme, foarnamme">
 <!ENTITY lastFirstCmd.accesskey                         "A">
-<!ENTITY displayNameCmd.label                           "Weergavenaam">
+<!ENTITY displayNameCmd.label                           "Werjeftenamme">
 <!ENTITY displayNameCmd.accesskey                       "W">
-<!ENTITY sortMenu.label                                 "Sorteren op">
+<!ENTITY sortMenu.label                                 "Sortearje op">
 <!ENTITY sortMenu.accesskey                             "o">
 
 <!-- Tools Menu -->
-<!ENTITY tasksMenu.label                                "Extra">
-<!ENTITY tasksMenu.accesskey                            "x">
-<!ENTITY messengerCmd.label                             "E-mail &amp; nieuwsgroepen">
+<!ENTITY tasksMenu.label                                "Ekstra">
+<!ENTITY tasksMenu.accesskey                            "k">
+<!ENTITY messengerCmd.label                             "E-mail &amp; nijsgroepen">
 <!ENTITY messengerCmd.accesskey                         "m">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY searchAddressesCmd.label                       "Adressen zoeken…">
+<!ENTITY searchAddressesCmd.label                       "Adressen sykje">
 <!ENTITY searchAddressesCmd.accesskey                   "d">
-<!ENTITY importCmd.label                                "Importeren…">
-<!ENTITY importCmd.accesskey                            "I">
-<!ENTITY exportCmd.label                                "Exporteren…">
+<!ENTITY importCmd.label                                "Ymportearje">
+<!ENTITY importCmd.accesskey                            "Y">
+<!ENTITY exportCmd.label                                "Eksportearje">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd.label                           "Opties…">
+<!ENTITY preferencesCmd.label                           "Opsjes…">
 <!ENTITY preferencesCmd.key                             "O">
 <!ENTITY preferencesCmd.accesskey                       "O">
-<!ENTITY preferencesCmdUnix.label                       "Voorkeuren">
-<!ENTITY preferencesCmdUnix.accesskey                   "V">
+<!ENTITY preferencesCmdUnix.label                       "Foarkarren">
+<!ENTITY preferencesCmdUnix.accesskey                   "F">
 
 <!-- Address Book Toolbar and Context Menus -->  
-<!ENTITY newcardButton.label                            "Nieuwe kaart">
+<!ENTITY newcardButton.label                            "Nije kaart">
 <!ENTITY newcardButton.accesskey                        "k">
-<!ENTITY newlistButton.label                            "Nieuwe lijst">
+<!ENTITY newlistButton.label                            "Nije list">
 <!ENTITY newlistButton.accesskey                        "l">
-<!ENTITY editButton.label                               "Eigenschappen">
+<!ENTITY editButton.label                               "Eigenskippen">
 <!ENTITY editButton.accesskey                           "E">
-<!ENTITY newmsgButton.label                             "Opstellen">
+<!ENTITY newmsgButton.label                             "Opstelle">
 <!ENTITY newmsgButton.accesskey                         "O">
-<!ENTITY newIM.label                                    "Instant-bericht">
-<!ENTITY newIM.accesskey                                "I">
-<!ENTITY deleteButton.label                             "Verwijderen">
-<!ENTITY deleteButton.accesskey                         "V">
-<!ENTITY throbberItem.title                             "Activiteitsindicator">
+<!ENTITY newIM.label                                    "Ynstant-berjocht">
+<!ENTITY newIM.accesskey                                "Y">
+<!ENTITY deleteButton.label                             "Fuortsmite">
+<!ENTITY deleteButton.accesskey                         "F">
+<!ENTITY throbberItem.title                             "Aktiviteitsyndikator">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newcardButton.tooltip                          "Nieuwe adresboekkaart aanmaken">
-<!ENTITY newlistButton.tooltip                          "Nieuwe lijst aanmaken">
-<!ENTITY editButton.tooltip                             "Geselecteerde kaart aanpassen">
-<!ENTITY newIM.tooltip                                  "Een instant-bericht sturen of chatten">
-<!ENTITY newmsgButton.tooltip                           "E-mailbericht sturen">
-<!ENTITY deleteButton.tooltip                           "Geselecteerde kaart of adresboek verwijderen">
+<!ENTITY newcardButton.tooltip                          "Nije adresboekkaart oanmeitsje">
+<!ENTITY newlistButton.tooltip                          "Nije list oanmeitsje">
+<!ENTITY editButton.tooltip                             "Selektearre kaart oanpasse">
+<!ENTITY newIM.tooltip                                  "In ynstant-berjocht stjoere of chatte">
+<!ENTITY newmsgButton.tooltip                           "E-mailberjocht stjoeren">
+<!ENTITY deleteButton.tooltip                           "Selektearre kaart of adresboek fuortsmite">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Adresboeken">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label                        "Naam of e-mail">
+<!ENTITY SearchNameOrEmail.label                        "Namme of e-mail">
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
-<!ENTITY advancedButton.tooltip                         "Uitgebreid adres zoeken">
+<!ENTITY advancedButton.tooltip                         "Wiidweid adres zoeken">
 <!ENTITY quickSearchCmd.key                             "k">
-<!ENTITY searchItem.title                               "Snel zoeken">
+<!ENTITY searchItem.title                               "Fluch sykje">
 
 <!-- Results Pane -->
-<!ENTITY GeneratedName.label                            "Naam">
+<!ENTITY GeneratedName.label                            "Namme">
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "E-mail">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ScreenName.label                               "Schermnaam">
+<!ENTITY ScreenName.label                               "Skermnamme">
 <!ENTITY ScreenName.accesskey                           "S">
-<!ENTITY Company.label                                  "Organisatie">
+<!ENTITY Company.label                                  "Organisaasje">
 <!ENTITY Company.accesskey                              "r">
-<!ENTITY NickName.label                                 "Bijnaam">
+<!ENTITY NickName.label                                 "Bynamme">
 <!ENTITY NickName.accesskey                             "B">
-<!ENTITY SecondEmail.label                              "Alternatieve e-mail">
+<!ENTITY SecondEmail.label                              "Alternative e-mail">
 <!ENTITY SecondEmail.accesskey                          "l">
-<!ENTITY Department.label                               "Afdeling">
+<!ENTITY Department.label                               "Ofdieling">
 <!ENTITY Department.accesskey                           "d">
 <!ENTITY JobTitle.label                                 "Titel">
 <!ENTITY JobTitle.accesskey                             "i">
-<!ENTITY CellularNumber.label                           "Mobiel">
+<!ENTITY CellularNumber.label                           "Mobyl">
 <!ENTITY CellularNumber.accesskey                       "M">
-<!ENTITY PagerNumber.label                              "Pieper">
+<!ENTITY PagerNumber.label                              "Piper">
 <!ENTITY PagerNumber.accesskey                          "P">
-<!ENTITY FaxNumber.label                                "Fax">
+<!ENTITY FaxNumber.label                                "Faks">
 <!ENTITY FaxNumber.accesskey                            "F">
-<!ENTITY HomePhone.label                                "Telefoon thuis">
+<!ENTITY HomePhone.label                                "Telefoan thús">
 <!ENTITY HomePhone.accesskey                            "T">
-<!ENTITY WorkPhone.label                                "Telefoon werk">
+<!ENTITY WorkPhone.label                                "Telefoan wurk">
 <!ENTITY WorkPhone.accesskey                            "w">
-<!ENTITY sortAscending.label                            "Oplopend">
+<!ENTITY sortAscending.label                            "Opgeand">
 <!ENTITY sortAscending.accesskey                        "O">
-<!ENTITY sortDescending.label                           "Aflopend">
-<!ENTITY sortDescending.accesskey                       "A">
-<!ENTITY _PhoneticName.label                            "Fonetische naam">
+<!ENTITY sortDescending.label                           "Delgeand">
+<!ENTITY sortDescending.accesskey                       "D">
+<!ENTITY _PhoneticName.label                            "Fonetyske namme">
 <!ENTITY _PhoneticName.accesskey                        "F">
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-<!ENTITY contact.heading                                "Contact">
-<!ENTITY home.heading                                   "Thuis">
-<!ENTITY other.heading                                  "Overig">
-<!ENTITY phone.heading                                  "Telefoon">
-<!ENTITY work.heading                                   "Werk">
+<!ENTITY contact.heading                                "Kontakt">
+<!ENTITY home.heading                                   "Thús">
+<!ENTITY other.heading                                  "Oars">
+<!ENTITY phone.heading                                  "Telefoan">
+<!ENTITY work.heading                                   "Wurk">
 <!-- Special Box Headings, for mailing lists -->
-<!ENTITY description.heading                            "Beschrijving">
+<!ENTITY description.heading                            "Beskriuwing">
 <!ENTITY addresses.heading                              "Adressen">
 <!-- For Map It! -->
-<!ENTITY mapItButton.label                              "Plattegrond">
-<!ENTITY mapIt.tooltip                                  "De kaart van dit adres laten zien op het internet">
+<!ENTITY mapItButton.label                              "Plattegrûn">
+<!ENTITY mapIt.tooltip                                  "De kaart fan dit adres toane op it ynternet">
 
 <!-- Status Bar -->
 <!ENTITY statusText.label                               "">
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY windowMenu.label                               "Venster">
-<!ENTITY minimizeWindow.label                           "Minimaliseren">
+<!ENTITY windowMenu.label                               "Finster">
+<!ENTITY minimizeWindow.label                           "Minimalisearje">
 <!ENTITY minimizeWindow.key                             "m">
-<!ENTITY bringAllToFront.label                          "Alles naar voren brengen">
+<!ENTITY bringAllToFront.label                          "Bring alles nei foaren">
 <!ENTITY zoomWindow.label                               "Zoom">

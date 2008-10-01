@@ -36,14 +36,14 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Box Headings -->
-<!ENTITY contact.heading "Contact">
-<!ENTITY home.heading "Thuis">
-<!ENTITY other.heading "Overig">
-<!ENTITY phone.heading "Telefoon">
-<!ENTITY work.heading "Werk">
+<!ENTITY contact.heading "Kontakt">
+<!ENTITY home.heading "Thús">
+<!ENTITY other.heading "Oar">
+<!ENTITY phone.heading "Telefoan">
+<!ENTITY work.heading "Wurk">
 <!-- Special Box Headings, for mailing lists -->
-<!ENTITY description.heading "Beschrijving">
+<!ENTITY description.heading "Beskriuwing">
 <!ENTITY addresses.heading "Adressen">
 <!-- For Map It! -->
-<!ENTITY mapItButton.label "Plattegrond">
-<!ENTITY mapIt.tooltip "Een kaart van dit adres laten zien op het internet">
+<!ENTITY mapItButton.label "Plattegrûn">
+<!ENTITY mapIt.tooltip "In kaart fan dit adres sjen litte op it ynternet">
