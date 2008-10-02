@@ -8,7 +8,7 @@
 <!ENTITY exceptions.label "Salbuespenak...">
 <!ENTITY exceptions.accesskey "s">
 
-<!ENTITY enableJavaScript.label "Gaitu JavaScript ">
+<!ENTITY enableJavaScript.label "Gaitu JavaScript">
 <!ENTITY enableJavaScript.accesskey "A">
 <!ENTITY advancedJS.label "Aurreratua...">
 <!ENTITY advancedJS.accesskey "r">

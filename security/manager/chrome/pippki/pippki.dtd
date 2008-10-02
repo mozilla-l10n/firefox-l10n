@@ -51,7 +51,7 @@
 <!-- Values for getpassword.xul -->
 
 <!ENTITY getPassword.title "Idatzi pasahitz nagusia">
-<!ENTITY getPassword.tokenName2.label "Security Device:">
+<!ENTITY getPassword.tokenName2.label "Segurtasun gailua:">
 <!ENTITY getPassword.password.label "Pasahitza:">
 <!-- These should be common -->
 
@@ -130,6 +130,6 @@
 <!ENTITY protectedAuth.msg "Mesedez token-ean autentifikatu. Autentifikazio metodoa token moetaren arabera aldatzen da.">
 <!ENTITY protectedAuth.tokenName.label "Token-a:">
 
-<!ENTITY certErrorDlg.title "Secure Connection Failed">
-<!ENTITY certErrorDlg.info1 "This could be a problem with the server's configuration or it could be someone trying to impersonate the server.">
-<!ENTITY certErrorDlg.info2 "If you have connected to this server successfully in the past the error may be temporary and you can try again later.">
+<!ENTITY certErrorDlg.title "Konexio seguruak huts egin du">
+<!ENTITY certErrorDlg.info1 "Hau zerbitzariaren konfigurazioaren arazo bat izan daiteke edo norbait zerbitzariaren itxura ematen saiatzen ari da.">
+<!ENTITY certErrorDlg.info2 "Lehenago zerbitzari honetara konektatzea lortu baduzu baliteke aldiroko errore bat izatea eta beranduago saia zaitezke.">
