@@ -241,7 +241,7 @@
 <!ENTITY viewBGImageCmd.accesskey "a">
 <!ENTITY setDesktopBackgroundCmd.label "Jarri idazmahaiaren atzeko planoan...">
 <!ENTITY setDesktopBackgroundCmd.accesskey "J">
-<!ENTITY bookmarkPageCmd2.label "Egin orri honen laster-marka ">
+<!ENTITY bookmarkPageCmd2.label "Egin orri honen laster-marka">
 <!ENTITY bookmarkPageCmd2.accesskey "m">
 <!ENTITY bookmarkThisLinkCmd.label "Egin lotura honen laster-marka">
 <!ENTITY bookmarkThisLinkCmd.accesskey "L">
