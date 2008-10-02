@@ -223,73 +223,45 @@
     är synliga, dubbelklicka på Webbläsare för att veckla upp listan.)</li>
 </ol>
 
-<p>Inställningspanelen Hjälpprogram låter dig ange hur olika filtyper ska 
-  öppnas av andra program i &brandShortName;:</p>
-
+<p>Inställningspanelen Hjälpprogram låter dig välja program och applikationer 
+  för att hantera olika slags innehåll (t.ex. PDF-dokument). Den visar en lista 
+  över innehållstyper och låter dig välja en applikation för varje typ. För att 
+  göra ett urval i listan, använd sökfältet. Text som matas in där begränsar 
+  listan till poster, vilka har denna text antingen i typbeskrivningen eller den 
+  för närvarande markerade åtgärden.</p>
+<p>Du kan välja ett lokalt program för att hantera en typ. För en del typer kan 
+  du också välja en webbapplikation för att hantera typen. Välj
+  <!-- en funktion (såsom <a href="glossary.xhtml#live_bookmark">Live Bookmarks</a> för
+  feeds) eller --> en <a href="glossary.xhtml#plugin">insticksmodul</a> i &brandShortName; 
+  för att hantera typen eller spara typen på din dator.</p>
+<p>För att välja en applikation för en typ, markera typen i listan. Den nuvarande 
+  applikationen för typen uppträder då i en meny. Öppna menyn och markera den 
+  applikation du vill ska hantera typen. Beroende på den faktiska typen, kan du:</p>
 <ul>
-  <li><strong>Ange vilka program som ska hantera olika filtyper</strong>:
-    <ul>
-      <li><strong>Filtyper</strong>: Visar filtyper som
-        &brandShortName; använder. Markera en av dem för att visa följande
-        information:
-        <ul>
-          <li><strong>Beskrivning</strong>: Visar en beskrivning av den
-            markerade filtypen.</li>
-          <li><strong>Filnamnsändelse(r)</strong>: Visar filändelse(r) för den
-            markerade filtypen.</li>
-          <li><strong>Hanteras av</strong>: Visar vad &brandShortName; ska göra när
-            filer av denna typ påträffas.</li>
-        </ul>
-      </li>
-      <li><strong>Ny typ</strong>: Klicka på denna för att lägga till
-        en ny filtyp. Du kommer att se en dialogruta:
-        <ul>
-          <li><strong>MIME-typ</strong>: Ange MIME-typen för filtypen du vill
-            lägga till.</li>
-          <li><strong>Beskrivning</strong>: Skriv in en beskrivning av filtypen
-            du vill lägga till.</li>
-          <li><strong>Filnamnsändelse</strong>: Ange filändelsen för filtypen du
-            vill lägga till.</li>
-          <li><strong>När en fil av denna typ påträffas</strong>: Välj ett
-            alternativ med alternativknappen:
-            <ul>
-              <li><strong>Öppna med förvalt program</strong>: Gör så att
-                filen öppnas med det förvalda programmet i dina
-                systeminställningar.</li>
-              <li><strong>Öppna med</strong>: Gör så att filen öppnas med det
-                program	du anger. Använd knappen Välj för att hitta 
-                programmet på hårddisken</li>
-              <li><strong>Spara på disk</strong>: Filen kommer att sparas
-                på hårddisken.</li>
-            </ul>
-          </li>
-          <li><strong>Fråga alltid innan filer av denna typ hanteras</strong>: 
-            Markera den här rutan om du vill bli
-            tillfrågad vad du vill göra med filen varje gång filer av den här
-            typen påträffas.</li>
-        </ul>
-      </li>
-      <li><strong>Redigera</strong>: Klicka på denna för att ändra hur
-        en markerad filtyp ska hanteras.</li>
-      <li><strong>Ta bort</strong>: Klicka på denna för att ta bort en
-        markerad filtyp.</li>
-    </ul>
-  </li>
-  <li><strong>Tjänst för att hitta insticksmoduler</strong>:
-    <ul>
-      <li><strong>Använd alltid Plug-in Finder Service (PFS) för att hämta 
-        insticksmoduler</strong>: Välj detta för att alltid använda Plugin 
-        Finder Service (PFS) närhelst &brandShortName; behöver en ny
-        insticksmodul. Om denna ruta inte är markerad kommer PFS endast att
-        användas när en insticksmoduladress inte angivits av webbsidan som
-        kräver insticksmodulen.</li>
-    </ul>
-  </li>
+  <li>Välja ett program genom att markera det i menyn. Om du vill att ett lokalt 
+    program, som inte finns i menyn, ska hantera typen, markera
+    <strong>Använd annat…</strong> i menyn och bläddra till dess plats.</li>
+  <li>Välja en <!-- funktion eller --> insticksmodul genom att markera den i menyn.</li>
+  <li>Spara filer av den här typen på din dator genom att markera
+    <strong>Spara fil</strong> i menyn. Om du har markerat inställningen
+    <strong>Spara automatiskt hämtade filer till specificerad mapp</strong>
+    i panelen <strong>Hämtning av filer</strong>, kommer &brandShortName; automatiskt 
+    att spara innehåll av den här typen på din dator. Annars kommer &brandShortName; 
+    att fråga efter lagringsplats på din dator, när du råkar på filtypen.</li>
+  <li>Beordra &brandShortName; att <strong>alltid fråga</strong> vad som ska göras 
+    när typen råkas på. Om du väljer detta alternativ, kommer en dialogruta alltid 
+    att visas vid åtkomst av filer av denna typ, och du kan välja vidare hur den 
+    specifika filen ska hanteras.</li>
 </ul>
 
-<p>För mer information om hantering av olika filtyper i &brandShortName;, se
+<p><strong>OBS!</strong> När en insticksmodul finns tillgänglig för att hantera 
+  en typ, samtidigt som du väljer en annan applikation för den typen, kommer 
+  &brandShortName; bara att använda din valda applikation då du får direkt åtkomst 
+  till typen. När typen finns inbäddad på en webbsida, kommer &brandShortName; att 
+  fortsätta använda insticksmodulen för att hantera den. Se även
   <a href="nav_help.xhtml#plugins_and_downloads">Insticksmoduler och hämtning
-  av filer</a>.</p>
+  av filer</a>.
+</p>
 
 <p>[<a href="#navigator_preferences">Återvänd till början av avsnittet</a>]</p>
 

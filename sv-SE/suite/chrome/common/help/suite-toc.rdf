@@ -42,7 +42,7 @@
         <rdf:li> <rdf:Description ID="nav-doc-search" nc:name="Söka på webben" nc:link="nav_help.xhtml#searching_the_web"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-printsave" nc:name="Kopiera, spara och skriva ut sidor" nc:link="nav_help.xhtml#copying_saving_and_printing_pages"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-language" nc:name="Använda språk och innehåll från andra länder" nc:link="nav_help.xhtml#using_languages_and_international_content"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-pluginsdownloads" nc:name="Insticksmoduler och filhämtningar" nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-pluginsdownloads" nc:name="Insticksmoduler och hämtning av filer" nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-ses" nc:name="Förbättra hastigheten och effektiviteten" nc:link="nav_help.xhtml#improving_speed_and_efficiency"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-proxies" nc:name="Proxyservrar" nc:link="nav_help.xhtml#proxies"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-page-info" nc:name="Visa sidinformation" nc:link="page_info_help.xhtml"/> </rdf:li>
@@ -146,7 +146,7 @@
 <rdf:Description about="#mail">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc"	nc:name="Komma igång med e-postklienten" nc:link="mail_help.xhtml#getting_started_with_mozilla_mail_and_newsgroups" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc"	nc:name="Komma igång med E-post" nc:link="mail_help.xhtml#getting_started_with_mozilla_mail_and_newsgroups" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-read" nc:name="Läsa meddelanden" nc:link="mail_help.xhtml#reading_messages" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-send" nc:name="Skicka meddelanden" nc:link="mail_help.xhtml#sending_messages" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-html" nc:name="Skapa HTML-meddelanden" nc:link="mail_help.xhtml#creating_html_mail_messages" /> </rdf:li>
@@ -154,9 +154,9 @@
         <rdf:li> <rdf:Description ID="mail-doc-delete" nc:name="Ta bort meddelanden" nc:link="mail_help.xhtml#deleting_messages" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-address" nc:name="Använda adressböcker" nc:link="mail_help.xhtml#using_address_books" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-folders" nc:name="Organisera dina meddelanden" nc:link="mail_help.xhtml#organizing_your_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-junk" nc:name="Kontrollera skräppost" nc:link="mail_help.xhtml#controlling_junk_mail" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-junk" nc:name="Ha kontroll över skräppost" nc:link="mail_help.xhtml#controlling_junk_mail" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-importing-other" nc:name="Importera e-post från andra program" nc:link="mail_help.xhtml#importing_mail_from_other_programs" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-news" nc:name="Komma igång med diskussionsgrupper" nc:link="mail_help.xhtml#getting_started_with_newsgroups" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-news" nc:name="Komma igång med Grupper" nc:link="mail_help.xhtml#getting_started_with_newsgroups" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-offline" nc:name="Arbeta i nedkopplat läge" nc:link="mail_help.xhtml#working_offline" /> </rdf:li>
         <rdf:li> <rdf:Description ID="sign-encrypt" nc:name="Signera och kryptera meddelanden" nc:link="mail_sec_help.xhtml#signing_and_encrypting_messages" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-account-settings" nc:name="Kontoinställningar för E-post och Grupper" nc:link="mail_help.xhtml#mail_and_newsgroups_account_settings" /> </rdf:li>
@@ -169,8 +169,8 @@
  <rdf:Description about="#mail-doc">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-setup" nc:name="Använda kontoguiden"  nc:link="mail_help.xhtml#using_the_mail_account_setup_wizard"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add" nc:name="Lägga till ytterligare konton"  nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-setup" nc:name="Använda kontouppläggningsguiden"  nc:link="mail_help.xhtml#using_the_mail_account_setup_wizard"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add" nc:name="Lägga upp ytterligare konton"  nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-change" nc:name="Ändra inställningarna för ett konto"  nc:link="mail_help.xhtml#changing_the_settings_for_an_account"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -183,7 +183,7 @@
         <rdf:li> <rdf:Description ID="mail-doc-view" nc:name="Välja hur du visar e-postklientfönstret"  nc:link="mail_help.xhtml#choosing_how_you_view_the_mail_window"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-thread" nc:name="Ordna och gruppera meddelanden"  nc:link="mail_help.xhtml#sorting_and_threading_messages"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-printsave" nc:name="Spara och skriva ut meddelanden"  nc:link="mail_help.xhtml#saving_and_printing_messages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-scripts" nc:name="Kontrollera bilder, skript och insticksmoduler"  nc:link="mail_help.xhtml#controlling_images_scripts_and_plugins"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-scripts" nc:name="Ha kontroll över bilder, skript och insticksmoduler"  nc:link="mail_help.xhtml#controlling_images_scripts_and_plugins"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -191,14 +191,14 @@
   <rdf:Description about="#mail-doc-send">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-send-compose" nc:name="Skriva e-postmeddelanden och diskussionsinlägg" nc:link="mail_help.xhtml#composing_mail_and_newsgroup_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-compose" nc:name="Skriva meddelanden" nc:link="mail_help.xhtml#composing_mail_and_newsgroup_messages" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-send-new" nc:name="Använda skrivfönstret" nc:link="mail_help.xhtml#using_the_message_composition_window" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-send-address" nc:name="Adressera ett meddelande" nc:link="mail_help.xhtml#addressing_a_message" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-send-options" nc:name="Välja alternativ för att skicka ett meddelande" nc:link="mail_help.xhtml#selecting_message_sending_options" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-send-reply" nc:name="Besvara ett meddelande" nc:link="mail_help.xhtml#replying_to_a_message" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send-forward" nc:name="Vidarebefodra ett meddelande" nc:link="mail_help.xhtml#forwarding_a_message" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-forward" nc:name="Vidarebefordra ett meddelande" nc:link="mail_help.xhtml#forwarding_a_message" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-send-receipt" nc:name="Bekräfta att ditt meddelande har öppnats" nc:link="mail_help.xhtml#confirming_that_your_message_was_opened" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send-edit" nc:name="Spara och redigera ett meddelandeutkast" nc:link="mail_help.xhtml#saving_and_editing_a_message_draft" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-edit" nc:name="Spara och redigera ett utkast" nc:link="mail_help.xhtml#saving_and_editing_a_message_draft" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-send-template" nc:name="Skapa och använda mallar" nc:link="mail_help.xhtml#creating_and_using_templates" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -208,9 +208,9 @@
     <nc:subheadings>
       <rdf:Seq>
         <rdf:li> <rdf:Description ID="mail-doc-html-use" nc:name="Använda HTML i dina meddelanden" nc:link="mail_help.xhtml#using_html_in_your_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-html-options" nc:name="Välja alternativ för att skicka HTML-meddelanden" nc:link="mail_help.xhtml#choosing_html_mail_sending_options" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-html-options" nc:name="Välja alternativ för att skicka ett HTML-meddelande" nc:link="mail_help.xhtml#choosing_html_mail_sending_options" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-html-address" nc:name="Ange mottagare av HTML-meddelanden" nc:link="mail_help.xhtml#specifying_recipients_for_html_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-html-source" nc:name="Visa källkoden för HTML-meddelanden" nc:link="mail_help.xhtml#viewing_the_message_source_for_html_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-html-source" nc:name="Visa HTML-meddelandens kod" nc:link="mail_help.xhtml#viewing_the_message_source_for_html_messages" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-html-question" nc:name="Använda dialogrutan Fråga om HTML-meddelanden" nc:link="mail_help.xhtml#using_the_html_mail_question_dialog_box" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -246,13 +246,13 @@
   <rdf:Description about="#mail-doc-address">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-add-about" nc:name="Om adressböcker" nc:link="mail_help.xhtml#about_address_books" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-names" nc:name="Lägga till poster i adressböckerna" nc:link="mail_help.xhtml#adding_entries_to_your_address_books" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-about" nc:name="Om e-postadressböcker" nc:link="mail_help.xhtml#about_address_books" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-names" nc:name="Lägga till poster i dina adressböcker" nc:link="mail_help.xhtml#adding_entries_to_your_address_books" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-add-book" nc:name="Skapa en ny adressbok" nc:link="mail_help.xhtml#creating_a_new_address_book" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-add-card" nc:name="Skapa ett nytt adresskort" nc:link="mail_help.xhtml#creating_a_new_address_book_card" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-add-list" nc:name="Skapa en sändlista" nc:link="mail_help.xhtml#creating_a_mailing_list" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-add-listedit" nc:name="Redigera en sändlista" nc:link="mail_help.xhtml#editing_a_mailing_list" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_ab_search" nc:name="Söka i adressböcker och kataloger" nc:link="mail_help.xhtml#searching_address_books_and_directories" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_ab_search" nc:name="Söka i adressböcker" nc:link="mail_help.xhtml#searching_address_books_and_directories" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-add-import" nc:name="Importera adressböcker" nc:link="mail_help.xhtml#importing_address_books" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-add-export" nc:name="Exportera adressböcker" nc:link="mail_help.xhtml#exporting_address_books" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-add-sync-LDAP-add" nc:name="Lägga till och ta bort LDAP-kataloger" nc:link="mail_help.xhtml#adding_and_removing_ldap_directories" /> </rdf:li>
@@ -264,7 +264,7 @@
 <rdf:Description about="#mail-doc-add-card">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-card-properties" nc:name="Redigera egenskaper för ett adresskort" nc:link="mail_help.xhtml#viewing_or_editing_card_properties" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-card-properties" nc:name="Redigera kortegenskaper" nc:link="mail_help.xhtml#viewing_or_editing_card_properties" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -293,8 +293,8 @@
         <rdf:li> <rdf:Description ID="folder-copying" nc:name="Flytta eller kopiera en mapp" nc:link="mail_help.xhtml#moving_or_copying_a_folder"/> </rdf:li>
         <rdf:li> <rdf:Description ID="folder-opening" nc:name="Arkivera meddelanden i mappar" nc:link="mail_help.xhtml#filing_messages_in_folders"/> </rdf:li>
         <rdf:li> <rdf:Description ID="folder-sharing" nc:name="Dela mappar" nc:link="mail_help.xhtml#sharing_folders_with_other_users"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="tagging-messages" nc:name="Märka meddelanden med etiketter" nc:link="mail_help.xhtml#tagging_messages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-flagging" nc:name="Märka eller flagga meddelanden" nc:link="mail_help.xhtml#marking_or_flagging_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="tagging-messages" nc:name="Förse meddelanden med etiketter" nc:link="mail_help.xhtml#tagging_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-flagging" nc:name="Märka ut eller flagga meddelanden" nc:link="mail_help.xhtml#marking_or_flagging_messages"/> </rdf:li>
         <rdf:li> <rdf:Description ID="message-views-using" nc:name="Använda meddelandevyer" nc:link="mail_help.xhtml#using_message_views"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-filters" nc:name="Skapa meddelandefilter" nc:link="mail_help.xhtml#creating_message_filters"/> </rdf:li>
         <rdf:li> <rdf:Description ID="search-mailnews" nc:name="Söka igenom meddelanden" nc:link="mail_help.xhtml#searching_through_messages"/> </rdf:li>
@@ -313,9 +313,9 @@
 <rdf:Description about="#tagging-messages">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="tag-apply" nc:name="Märka med en etikett" nc:link="mail_help.xhtml#applying_a_tag"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="tag-apply" nc:name="Förse med en etikett" nc:link="mail_help.xhtml#applying_a_tag"/> </rdf:li>
         <rdf:li> <rdf:Description ID="tag-customize" nc:name="Anpassa etiketter" nc:link="mail_help.xhtml#customizing_tags"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="tag-sort" nc:name="Sortera meddelanden med etiketter" nc:link="mail_help.xhtml#sorting_messages_by_tags"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="tag-sort" nc:name="Sortera meddelanden på etiketter" nc:link="mail_help.xhtml#sorting_messages_by_tags"/> </rdf:li>
         <rdf:li> <rdf:Description ID="tag-remove" nc:name="Ta bort etiketter" nc:link="mail_help.xhtml#removing_tags"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -324,7 +324,7 @@
 <rdf:Description about="#message-views-using">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="message-views-create-new" nc:name="Skapa en anpassad vy" nc:link="mail_help.xhtml#creating_a_custom_view"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="message-views-create-new" nc:name="Skapa en egen vy" nc:link="mail_help.xhtml#creating_a_custom_view"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -332,7 +332,7 @@
 <rdf:Description about="#mail-filters">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="send-filter" nc:name="Filtrera meddelanden från en speciell avsändare" nc:link="mail_help.xhtml#filtering_messages_from_a_specific_sender"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="send-filter" nc:name="Filtrera meddelanden från en specifik avsändare" nc:link="mail_help.xhtml#filtering_messages_from_a_specific_sender"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -348,9 +348,9 @@
 <rdf:Description about="#mail-junk">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-junk-controls" nc:name="Använd skräppostkontrollen" nc:link="mail_help.xhtml#using_junk_mail_controls" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-junk-options" nc:name="Alternativ för skräppostkontroll" nc:link="mail_help.xhtml#junk_controls_options" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-junk-filters" nc:name="Skräppostkontroll och filter" nc:link="mail_help.xhtml#junk_controls_and_filters" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-junk-controls" nc:name="Använda skräppostkontrollen" nc:link="mail_help.xhtml#using_junk_mail_controls" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-junk-options" nc:name="Alternativ för skräppostkontrollen" nc:link="mail_help.xhtml#junk_controls_options" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-junk-filters" nc:name="Skräppostkontrollen och filter" nc:link="mail_help.xhtml#junk_controls_and_filters" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-junk-phishing" nc:name="Upptäcka nätfiske" nc:link="mail_help.xhtml#phishing_detection" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -368,13 +368,13 @@
   <rdf:Description about="#mail-doc-news">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-subscribe" nc:name="Prenumerera på diskussionsgrupper" nc:link="mail_help.xhtml#subscribing_to_newsgroups"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-reading-news" nc:name="Läsa gruppinlägg" nc:link="mail_help.xhtml#reading_newsgroup_messages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-posting" nc:name="Posta gruppinlägg" nc:link="mail_help.xhtml#posting_newsgroup_messages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-replying-news" nc:name="Medverka i en pågående diskussion" nc:link="mail_help.xhtml#contributing_to_ongoing_discussions"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-subscribe" nc:name="Prenumerera på grupper" nc:link="mail_help.xhtml#subscribing_to_newsgroups"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-reading-news" nc:name="Läsa diskussionsgruppinlägg" nc:link="mail_help.xhtml#reading_newsgroup_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-posting" nc:name="Posta diskussionsgruppinlägg" nc:link="mail_help.xhtml#posting_newsgroup_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-replying-news" nc:name="Bidra till pågående diskussioner" nc:link="mail_help.xhtml#contributing_to_ongoing_discussions"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-monitoring" nc:name="Bevaka trådar" nc:link="mail_help.xhtml#monitoring_threads"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-delete-news" nc:name="Ta bort en diskussionsgrupp" nc:link="mail_help.xhtml#removing_a_newsgroup"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-add-newsserver" nc:name="Lägga till en diskussionsgruppserver" nc:link="mail_help.xhtml#adding_a_newsgroup_server"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-delete-news" nc:name="Ta bort en grupp" nc:link="mail_help.xhtml#removing_a_newsgroup"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-add-newsserver" nc:name="Lägga till en gruppserver" nc:link="mail_help.xhtml#adding_a_newsgroup_server"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -382,15 +382,15 @@
 <rdf:Description about="#mail-doc-offline">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-offline-setup" nc:name="Ställa in e-postklienten för nedkopplat läge" nc:link="mail_help.xhtml#setting_up_mozilla_mail_and_newsgroups_to_work_offline"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-offline-inbox" nc:name="Hämta inkorgen" nc:link="mail_help.xhtml#downloading_your_inbox_for_offline_use"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-offline-folder" nc:name="Hämta en särskild mapp" nc:link="mail_help.xhtml#downloading_an_individual_folder_for_offline_use"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-offline-setup" nc:name="Ställa in e-postklienten för att arbeta nedkopplad" nc:link="mail_help.xhtml#setting_up_mozilla_mail_and_newsgroups_to_work_offline"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-offline-inbox" nc:name="Hämta din inkorg" nc:link="mail_help.xhtml#downloading_your_inbox_for_offline_use"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-offline-folder" nc:name="Hämta en enskild mapp" nc:link="mail_help.xhtml#downloading_an_individual_folder_for_offline_use"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-offline-flagged" nc:name="Hämta markerade eller flaggade meddelanden" nc:link="mail_help.xhtml#downloading_selected_or_flagged_messages_for_offline_use"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-offline-directory" nc:name="Hämta katalogobjekt" nc:link="mail_help.xhtml#downloading_directory_entries_for_offline_use"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-offline-accounts" nc:name="Ställa in dina konton för nedkopplat läge" nc:link="mail_help.xhtml#setting_up_your_accounts_for_working_offline"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-offline-items" nc:name="Välja poster för visning i nedkopplat läge" nc:link="mail_help.xhtml#selecting_items_for_offline_viewing"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-offline-directory" nc:name="Hämta katalogposter" nc:link="mail_help.xhtml#downloading_directory_entries_for_offline_use"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-offline-accounts" nc:name="Ställa in dina konton för att arbeta nedkopplad" nc:link="mail_help.xhtml#setting_up_your_accounts_for_working_offline"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-offline-items" nc:name="Markera poster för visning nedkopplad" nc:link="mail_help.xhtml#selecting_items_for_offline_viewing"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-offline-sync" nc:name="Hämta och synkronisera dina meddelanden" nc:link="mail_help.xhtml#downloading_and_synchronizing_your_messages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-offline-go" nc:name="Arbeta i nedkopplat läge och återansluta senare" nc:link="mail_help.xhtml#working_offline_and_reconnecting_later"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-offline-go" nc:name="Arbeta nedkopplad och återansluta senare" nc:link="mail_help.xhtml#working_offline_and_reconnecting_later"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -399,12 +399,12 @@
     <nc:subheadings>
       <rdf:Seq>
         <rdf:li> <rdf:Description ID="sign-encrypt-about" nc:name="Elektroniska signaturer och kryptering" nc:link="mail_sec_help.xhtml#about_digital_signatures_and_encryption" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="sign-encrypt-get" nc:name="Få tag på andra personers certifikat" nc:link="mail_sec_help.xhtml#getting_other_peoples_certificates" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="sign-encrypt-get" nc:name="Få rätt på andra personers certifikat" nc:link="mail_sec_help.xhtml#getting_other_peoples_certificates" /> </rdf:li>
         <rdf:li> <rdf:Description ID="sign-encrypt-config" nc:name="Konfigurera säkerhetsinställningar" nc:link="mail_sec_help.xhtml#configuring_security_settings" /> </rdf:li>
         <rdf:li> <rdf:Description ID="sign-encrypt-signing" nc:name="Signera och kryptera ett nytt meddelande" nc:link="mail_sec_help.xhtml#signing_and_encrypting_a_new_message" /> </rdf:li>
         <rdf:li> <rdf:Description ID="sign-encrypt-read" nc:name="Läsa signerade och krypterade meddelanden" nc:link="mail_sec_help.xhtml#reading_signed_and_encrypted_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="compose_security" nc:name="Meddelandesäkerhet - Skrivfönstret" nc:link="mail_sec_help.xhtml#message_security_compose_window" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="received_security" nc:name="Meddelandesäkerhet - Mottagna meddelanden" nc:link="mail_sec_help.xhtml#message_security_received_message" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="compose_security" nc:name="Meddelandesäkerhet - Skrivfönster" nc:link="mail_sec_help.xhtml#message_security_compose_window" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="received_security" nc:name="Meddelandesäkerhet - Mottaget meddelande" nc:link="mail_sec_help.xhtml#message_security_received_message" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -425,13 +425,14 @@
         <rdf:li> <rdf:Description ID="mail_account_identity" nc:name="Kontoinställningar"  nc:link="mail_help.xhtml#account_settings"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-choose" nc:name="Serverinställningar"  nc:link="mail_help.xhtml#server_settings"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail_copies" nc:name="Kopior och mappar"  nc:link="mail_help.xhtml#copies_and_folders"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_addressing_settings" nc:name="Skriva och adressera"  nc:link="mail_help.xhtml#addressing"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-offline-space" nc:name="Nedkopplat läge och diskutrymme"  nc:link="mail_help.xhtml#offline_and_disk_space"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_addressing_settings" nc:name="Skriva &amp; Adressera"  nc:link="mail_help.xhtml#addressing"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-offline-space" nc:name="Nedkopplad &amp; Diskutrymme"  nc:link="mail_help.xhtml#offline_and_disk_space"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-account-receipts" nc:name="Mottagningskvitton" nc:link="mail_help.xhtml#return_receipts"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-account-junk" nc:name="Skräppost (spam)" nc:link="mail_help.xhtml#junk_settings"/> </rdf:li>
+<!-- Staemmer inte : fel ordning; oever och under ska byta plats -->
+        <rdf:li> <rdf:Description ID="mail-account-junk" nc:name="Skräppostinställningar" nc:link="mail_help.xhtml#junk_settings"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail_security_settings" nc:name="Säkerhet"  nc:link="mail_help.xhtml#security"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail_local_folders_settings" nc:name="Lokala mappar"  nc:link="mail_help.xhtml#local_folders"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_smtp" nc:name="Server för utgående e-post (SMTP)"  nc:link="mail_help.xhtml#outgoing_server"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_smtp" nc:name="Server för utgående (SMTP)"  nc:link="mail_help.xhtml#outgoing_server"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -441,10 +442,10 @@
       <rdf:Seq>
         <rdf:li> <rdf:Description ID="mail-doc-choose-IMAP" nc:name="Om IMAP"  nc:link="mail_help.xhtml#about_internet_message_access_protocol"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-choose-POP" nc:name="Om POP"  nc:link="mail_help.xhtml#about_post_office_protocol"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_server_imap" nc:name="Inställningar för IMAP-server"  nc:link="mail_help.xhtml#imap_server_settings"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-imap-advanced" nc:name="Avancerade inställningar för IMAP-server"  nc:link="mail_help.xhtml#advanced_imap_server_settings"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_server_pop3" nc:name="Inställningar för POP-server"  nc:link="mail_help.xhtml#pop_server_settings"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_server_nntp" nc:name="Inställningar för diskussionsgruppserver"  nc:link="mail_help.xhtml#news_server_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_server_imap" nc:name="IMAP-serverinställningar"  nc:link="mail_help.xhtml#imap_server_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-imap-advanced" nc:name="Avancerade IMAP-serverinställningar"  nc:link="mail_help.xhtml#advanced_imap_server_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_server_pop3" nc:name="POP-serverinställningar"  nc:link="mail_help.xhtml#pop_server_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_server_nntp" nc:name="Diskussionsgruppserverinställningar"  nc:link="mail_help.xhtml#news_server_settings"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -454,7 +455,7 @@
       <rdf:Seq>
         <rdf:li> <rdf:Description ID="mail_offline_imap" nc:name="IMAP"  nc:link="mail_help.xhtml#offline_and_disk_space_settings_imap"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail_offline_pop3" nc:name="POP"  nc:link="mail_help.xhtml#disk_space_settings"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_offline_nntp" nc:name="Grupper"  nc:link="mail_help.xhtml#offline_and_disk_space_settings_nntp"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_offline_nntp" nc:name="Diskussionsgrupper"  nc:link="mail_help.xhtml#offline_and_disk_space_settings_nntp"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -477,12 +478,12 @@
         <rdf:li> <rdf:Description ID="mail_prefs_notifications" nc:name="Varskoendesignaler" nc:link="mail_help.xhtml#notifications"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail_prefs_messages" nc:name="Skriva meddelanden" nc:link="mail_help.xhtml#composition"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail_prefs_formatting" nc:name="Skicka i format" nc:link="mail_help.xhtml#send_format"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_prefs_addressing" nc:name="Adressböcker" nc:link="mail_help.xhtml#addressing_preferences"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-prefs-junk" nc:name="Skräppost (spam)" nc:link="mail_help.xhtml#global_junk_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_addressing" nc:name="Adressera" nc:link="mail_help.xhtml#addressing_preferences"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-prefs-junk" nc:name="Skräppost" nc:link="mail_help.xhtml#global_junk_settings"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-prefs-tags" nc:name="Etiketter" nc:link="mail_help.xhtml#tags"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-prefs-receipts" nc:name="Mottagningskvitton" nc:link="mail_help.xhtml#return_receipts_preferences"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail_prefs_character_encoding" nc:name="Teckenkodning" nc:link="mail_help.xhtml#character_encoding"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_prefs_offline" nc:name="Nedkopplat/Utrymme" nc:link="mail_help.xhtml#offline_and_disk_space_preferences"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_offline" nc:name="Nedkopplad och Diskutrymme" nc:link="mail_help.xhtml#offline_and_disk_space_preferences"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -791,7 +792,7 @@
         <rdf:li><rdf:Description ID="using-priv-help-forms" nc:name="Använda Formulärhanteraren" nc:link="using_priv_help.xhtml#using_the_form_manager"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-priv-help-encrypt" nc:name="Kryptera lagrade, känsliga uppgifter" nc:link="using_priv_help.xhtml#encrypting_stored_sensitive_information"/> </rdf:li>
         <rdf:li><rdf:Description ID="images-help-managing" nc:name="Hantera bilder" nc:link="using_priv_help.xhtml#managing_images"/> </rdf:li>
-        <rdf:li><rdf:Description ID="pop_up_blocking" nc:name="Styra över extrafönster" nc:link="cs_priv_prefs_popup.xhtml"/> </rdf:li>
+        <rdf:li><rdf:Description ID="pop_up_blocking" nc:name="Ha kontroll över extrafönster" nc:link="cs_priv_prefs_popup.xhtml"/> </rdf:li>
         <rdf:li><rdf:Description ID="sec_gen" nc:name="Inställningar för Integritet och säkerhet" nc:link="privsec_help.xhtml"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -933,7 +934,7 @@
         <rdf:li><rdf:Description ID="using-help-certs-manage" nc:name="Hantera certifikat" nc:link="using_certs_help.xhtml#managing_certificates"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-help-certs-devices" nc:name="Hantera smartkort och andra säkerhetsenheter" nc:link="using_certs_help.xhtml#managing_smart_cards_and_other_security_devices"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-help-certs-ssl" nc:name="Hantera varningar och inställningar för SSL" nc:link="using_certs_help.xhtml#managing_ssl_warnings_and_settings"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-help-certs-validation" nc:name="Styra över validering" nc:link="using_certs_help.xhtml#controlling_validation"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-help-certs-validation" nc:name="Ha kontroll över validering" nc:link="using_certs_help.xhtml#controlling_validation"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-help-certs-context-help" nc:name="Certifikatsinställningar" nc:link="certs_prefs_help.xhtml#certificate_settings"/> </rdf:li>
 
       </rdf:Seq>

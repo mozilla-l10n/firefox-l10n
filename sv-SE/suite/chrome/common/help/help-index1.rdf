@@ -683,7 +683,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="IMAP:server_settings"
-         nc:name="inställningar för IMAP-server"
+         nc:name="IMAP-serverinställningar"
          nc:link="mail_help.xhtml#imap_server_settings"/>
      </rdf:li>	
      <rdf:li>
@@ -1364,7 +1364,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:HTML_Message_Source"
-         nc:name="HTML-meddelandes källkod"
+         nc:name="HTML-meddelandens kod"
          nc:link="mail_help.xhtml#viewing_the_message_source_for_html_messages"/>
      </rdf:li>
     <rdf:li>
@@ -1452,15 +1452,15 @@
          nc:name="spara bilagor"
          nc:link="mail_help.xhtml#saving_attachments"/>
      </rdf:li>
-    <rdf:li>
-       <rdf:Description ID="Mail_and_Newsgroups:saving_messages_drafts"
-         nc:name="spara meddelandeutkast"
-         nc:link="mail_help.xhtml#saving_and_editing_a_message_draft"/>
-     </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:saving_and_printing_messages"
          nc:name="spara och skriva ut meddelanden"
          nc:link="mail_help.xhtml#saving_and_printing_messages"/>
+     </rdf:li>
+    <rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:saving_messages_drafts"
+         nc:name="spara utkast till meddelande"
+         nc:link="mail_help.xhtml#saving_and_editing_a_message_draft"/>
      </rdf:li>
        <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:message_searching"
@@ -1601,7 +1601,7 @@
    <nc:subheadings>
      <rdf:Seq><rdf:li>
        <rdf:Description ID="POP:server_settings"
-         nc:name="inställningar för POP-server"
+         nc:name="POP-serverinställningar"
          nc:link="mail_help.xhtml#pop_server_settings"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
