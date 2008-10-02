@@ -42,7 +42,7 @@
 <!-- Menu Items -->
 <!-- File menu -->
 <!ENTITY mapfileMenu.label "파일">
-<!ENTITY mapfilemenu.accesskey "f">
+<!ENTITY mapfileMenu.accesskey "f">
 <!ENTITY clearCmd.label "지우기">
 <!ENTITY clearCmd.accesskey "a">
 <!ENTITY closeCmd.label "닫기">
@@ -50,7 +50,7 @@
 
 <!-- Edit menu -->
 <!ENTITY mapeditMenu.label "편집">
-<!ENTITY mapeditmenu.accesskey "e">
+<!ENTITY mapeditMenu.accesskey "e">
 <!ENTITY cutCmd.label "잘라내기">
 <!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "복사하기">

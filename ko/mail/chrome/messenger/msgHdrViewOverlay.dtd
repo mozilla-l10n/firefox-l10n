@@ -8,8 +8,12 @@
 <!ENTITY bccField2.label "숨은 참조:">
 <!ENTITY newsgroupsField2.label "뉴스 그룹:">
 <!ENTITY followupToField2.label "전달:">
+<!ENTITY tagsHdr2.label "태그: ">
 <!ENTITY dateField2.label "날짜:">
 <!ENTITY userAgentField2.label "사용자 에이전트:">
+<!ENTITY referencesField2.label "참조:">
+<!ENTITY messageIdField2.label "Message-id:">
+<!ENTITY inReplyToField2.label "회신 주소:">
 <!ENTITY originalWebsite2.label "웹 사이트: ">
 <!ENTITY saveAll.label "모두 선택…">
 
