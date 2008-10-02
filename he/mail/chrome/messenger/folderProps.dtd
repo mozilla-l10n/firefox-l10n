@@ -56,6 +56,9 @@
 <!ENTITY retentionCleanup.label "בכדי להשיג שטח דיסק, הודעות ישנות יכולות להמחק לצמיתות">
 <!-- ### ENTITY retentionKeepMsg.label "מחק הודעות מלפני" -->
 <!-- ### ENTITY retentionKeepMsg.accesskey "m" -->
+
+<!ENTITY retentionDeleteMsg.label "מחק הודעות בנות יותר מאשר">
+<!ENTITY retentionDeleteMsg.accesskey "י">
 <!ENTITY retentionKeepAll.label "אל תמחק שום הודעה">
 <!ENTITY retentionKeepAll.accesskey "A">
 <!ENTITY retentionKeepNew.label "מחק הכל מלבד">
@@ -74,9 +77,13 @@
 <!ENTITY UseDefaultofflineNewsgroup.check.label "השתמש בברירת המחדל מתוך הגדרות חשבון">
 <!ENTITY offlineNewsgroup.button.label "הורד עכשיו">
 <!ENTITY offlineNewsgroup.button.accesskey "D">
+
 <!ENTITY folderProps.information.label "מידע:">
 <!ENTITY folderProps.name.label "שם:">
-<!ENTITY folderProps.name.accesskey "N">
+<!ENTITY folderProps.name.accesskey "ש">
+<!ENTITY folderProps.location.label              "מיקום:">
+<!ENTITY folderProps.location.accesskey          "מ">
+
 <!ENTITY folderSharingTab.label "שיתוף">
 <!ENTITY privilegesDesc.label "שתף תיקייה זו ותיקיות אחרות עם משתמשים אחרים ברשת והצג והגדר הרשאות גישה">
 <!ENTITY privileges.button.label "הרשאות...">
