@@ -8,14 +8,22 @@
 <!ENTITY normalPriorityCmd.label "기본">
 <!ENTITY highPriorityCmd.label "상위">
 <!ENTITY highestPriorityCmd.label "최상위">
-<!ENTITY conditionDesc.label "받은 메시지 조건:">
+
+<!ENTITY contextDesc.label "Apply filter when:">
+<!ENTITY contextDesc.accesskey "w">
+<!ENTITY contextIncoming.label "Checking Mail">
+<!ENTITY contextManual.label "Manually Run">
+<!ENTITY contextBoth.label "Checking Mail or Manually Run">
 <!ENTITY filterActionDesc.label "다음 방식으로 처리:">
 <!ENTITY filterActionDesc.accesskey "P">
+
 <!ENTITY newFolderButton.label "새 폴더…">
 <!ENTITY newFolderButton.accesskey "N">
-<!ENTITY moveMessage.label "폴더로 이동">
-<!ENTITY copyMessage.label "폴더로 복사">
-<!ENTITY forwardTo.label "전달하기:">
+
+<!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "메시지 이동 위치:">
+<!ENTITY copyMessage.label "메시지 복사 위치:">
+<!ENTITY forwardTo.label "메시지 전달 위치:">
 <!ENTITY replyWithTemplate.label "템플릿으로 회신:">
 <!ENTITY markMessageRead.label "읽음으로 표시">
 <!ENTITY markMessageStarred.label "별표 추가">
@@ -27,5 +35,5 @@
 <!ENTITY ignoreThread.label "글타래 무시">
 <!ENTITY ignoreSubthread.label "하위 글타래 무시">
 <!ENTITY watchThread.label "글타래 보기">
-<!ENTITY addTag.label "메시지 태그">
+<!ENTITY addTag.label "태그 작성">
 <!ENTITY stopExecution.label "필터 실행 중단">

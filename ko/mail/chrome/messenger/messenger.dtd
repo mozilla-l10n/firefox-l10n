@@ -1,6 +1,8 @@
 <!ENTITY messengerWindow.title "메일 및 뉴스 그룹">
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
+
+<!-- File Menu -->
 <!ENTITY newFolderCmd.label "폴더…">
 <!ENTITY newFolderCmd.accesskey "F">
 <!ENTITY newTabCmd.label "새 탭">
@@ -36,6 +38,8 @@
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "구독…">
 <!ENTITY subscribeCmd.accesskey "b">
+<!ENTITY deleteFolder.label "폴더 삭제">
+<!ENTITY deleteFolder.accesskey "e">
 <!ENTITY renameFolder.label "폴더 이름 바꾸기…">
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2">
@@ -94,6 +98,11 @@
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "폴더에 규칙 실행">
 <!ENTITY filtersApply.accesskey "R">
+<!ENTITY filtersApplyToSelection.label "선택한 메시지에 규칙 실행">
+<!ENTITY filtersApplyToSelection.accesskey "S">
+<!ENTITY filtersApplyToMessage.label "메시지에 규칙 실행">
+<!ENTITY filtersApplyToMessage.accesskey "s">
+
 <!ENTITY folderPropsCmd.label "속성…">
 <!ENTITY folderPropsFolderCmd.label "폴더 속성…">
 <!ENTITY folderPropsNewsgroupCmd.label "뉴스 그룹 속성…">
@@ -387,6 +396,7 @@
 <!ENTITY backButton1.label "뒤로">
 <!ENTITY goForwardButton1.label "앞으로">
 <!ENTITY deleteButton.label "삭제">
+<!ENTITY undeleteButton.label "복구">
 <!ENTITY markButton.label "표시">
 <!ENTITY printButton.label "인쇄">
 <!ENTITY stopButton.label "중지">
@@ -411,6 +421,7 @@
 <!ENTITY goForwardButton.tooltip "한 메세지 않으로 가기">
 <!ENTITY goBackButton.tooltip "한 메세지 뒤로 가기">
 <!ENTITY deleteButton.tooltip "선택한 메시지나 폴더 삭제">
+<!ENTITY undeleteButton.tooltip "선택한 메시지 삭제 복구">
 <!ENTITY markButton.tooltip "메시지 표시">
 <!ENTITY printButton.tooltip "메시지 인쇄">
 <!ENTITY stopButton.tooltip "전송 중지">
@@ -447,12 +458,16 @@
 <!ENTITY folderContextSearchMessages.accesskey "S">
 <!ENTITY folderContextProperties.label "속성…">
 <!ENTITY folderContextProperties.accesskey "P">
+<!ENTITY folderContextSettings.label "설정…">
+<!ENTITY folderContextSettings.accesskey "e">
+
 <!ENTITY SearchNameOrEmail.label "포함된 이름이나 메일 주소:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
 <!ENTITY clearButton.label "삭제">
 <!ENTITY clearButton.accesskey "C">
 <!ENTITY searchSubjectMenu.label "제목">
 <!ENTITY searchRecipient.label "받는 사람 또는 참조">
+<!ENTITY searchSubjectOrRecipientMenu.label "제폭, 받는 사람 또는 참조">
 <!ENTITY searchMessageBody.label "메시지 전체">
 <!ENTITY saveAsVirtualFolderMenu.label "폴더로 검색 저장…">
 <!ENTITY threadColumn.label "글타래">
@@ -520,10 +535,17 @@
 <!ENTITY contextDelete.label "삭제">
 <!ENTITY contextDelete.accesskey "D">
 <!ENTITY junkInfoButton.label "?">
-<!ENTITY loadRemoteContentButton1.label "그림 보기">
+<!ENTITY loadRemoteContentButton2.label "그림 표시">
 <!ENTITY quickSearchCmd.key "k">
+
 <!ENTITY AddToAddressBook.label "주소록에 추가…">
 <!ENTITY AddToAddressBook.accesskey "B">
+<!ENTITY AddDirectlyToAddressBook.label "주소록에 바로 추가">
+<!ENTITY AddDirectlyToAddressBook.accesskey "B">
+<!ENTITY EditContact.label "연락처 편집…">
+<!ENTITY EditContact.accesskey "E">
+<!ENTITY ViewContact.label "연락처 보기">
+<!ENTITY ViewContact.accesskey "V">
 <!ENTITY SendMailTo.label "메일 쓰기">
 <!ENTITY SendMailTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "메일 주소 복사">
@@ -591,16 +613,17 @@
 <!ENTITY junkBarMessage1.label "스팸 메일">
 <!ENTITY junkBarButton1.label "스팸 아님">
 <!ENTITY remoteContentMessage1.label "개인 정보를 보호하기 위해 원격 이미지 파일을 차단 합니다.">
-<!ENTITY phishingBarMessage1.label "사기 의심 메일">
+<!ENTITY phishingBarMessage2.label "사기 의심 메일 입니다.">
 <!ENTITY removePhishingBarButton1.label "경고 무시">
-<!ENTITY reportPhishingError.label "사기 메일 아님">
-<!ENTITY saveLinkCmd.label "링크 저장">
-<!ENTITY saveLinkCmd.accesskey "r">
-<!ENTITY saveImageCmd.label "그림 저장">
-<!ENTITY saveImageCmd.accesskey "v">
-<!ENTITY copyCmd.label "Copy">
+<!ENTITY reportPhishingError1.label "사기 메일이 아닙니다.">
+
+<!ENTITY saveLinkAsCmd.label "다른 이름으로 링크 저장…">
+<!ENTITY saveLinkAsCmd.accesskey "k">
+<!ENTITY saveImageAsCmd.label "다른 이름으로 그림 저장…">
+<!ENTITY saveImageAsCmd.accesskey "v">
+<!ENTITY copyCmd.label "복사">
 <!ENTITY copyCmd.accesskey "C">
-<!ENTITY selectAllCmd.label "모드 선택">
+<!ENTITY selectAllCmd.label "모두 선택">
 <!ENTITY selectAllCmd.accesskey "A">
 <!ENTITY copyLinkCmd.label "링크 주소 복사">
 <!ENTITY copyLinkCmd.accesskey "C">
@@ -608,6 +631,7 @@
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyEmailCmd.label "메일 주소 복사">
 <!ENTITY copyEmailCmd.accesskey "E">
+
 <!ENTITY preferencesCmdMac.label "환경 설정…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY preferencesCmdMac.modifiers "accel">

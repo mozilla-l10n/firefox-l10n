@@ -1,0 +1,11 @@
+<!ENTITY editContactName.label "이름:">
+<!ENTITY editContactName.accesskey "N">
+
+<!ENTITY editContactEmail.label "메일주소:">
+<!ENTITY editContactEmail.accesskey "E">
+
+<!ENTITY editContactPanelCancel.label "취소">
+<!ENTITY editContactPanelCancel.accesskey "C">
+
+<!ENTITY editContactPanelDone.label "완료">
+<!ENTITY editContactPanelDone.accesskey "D">

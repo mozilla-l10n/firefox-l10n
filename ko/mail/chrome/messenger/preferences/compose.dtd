@@ -30,8 +30,6 @@
 <!ENTITY languagePopup.label "언어:">
 <!ENTITY languagePopup.accessKey "g">
 <!ENTITY downloadDictionaries.label "기타 사전 다운로드">
-<!ENTITY useMIME.label "8-비트 문자를 포함한 메시지는 'quoted-printable' MIME 인코딩 사용">
-<!ENTITY useMIME.accesskey "o">
 <!ENTITY warnOnSendAccelKey.label "메시지를 보낼 때 단축키 사용 확인">
 <!ENTITY warnOnSendAccelKey.accesskey "i">
 <!ENTITY autoSave.label "항상 자동 저장">
@@ -48,6 +46,7 @@
 <!ENTITY addressingEnable.accesskey "A">
 <!ENTITY directories.label "디렉토리 서버">
 <!ENTITY directories.accesskey "D">
+<!ENTITY directoriesNone.label "없음">
 <!ENTITY editDirectories.label "디렉토리 편집…">
 <!ENTITY editDirectories.accesskey "E">
 <!ENTITY matchText.label "내부 주소록과 일치하면:">

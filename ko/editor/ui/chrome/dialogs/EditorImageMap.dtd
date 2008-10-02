@@ -44,53 +44,48 @@
 <!ENTITY mapfileMenu.label "파일">
 <!ENTITY mapfilemenu.accesskey "f">
 <!ENTITY clearCmd.label "지우기">
-<!ENTITY mapfileclear.accesskey "a">
+<!ENTITY clearCmd.accesskey "a">
 <!ENTITY closeCmd.label "닫기">
-<!ENTITY mapfileclose.accesskey "c">
+<!ENTITY closeCmd.accesskey "c">
+
 <!-- Edit menu -->
 <!ENTITY mapeditMenu.label "편집">
 <!ENTITY mapeditmenu.accesskey "e">
 <!ENTITY cutCmd.label "잘라내기">
-<!ENTITY mapeditcut.accesskey "t">
+<!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "복사하기">
-<!ENTITY mapeditcopy.accesskey "c">
+<!ENTITY copyCmd.accesskey "c">
 <!ENTITY pasteCmd.label "붙여넣기">
-<!ENTITY mapeditpaste.accesskey "p">
+<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY selectallCmd.label "모두 선택">
-<!ENTITY mapselectall.accesskey "s">
+<!ENTITY selectallCmd.accesskey "s">
 <!ENTITY propsCmd.label "Hotsopt 속성">
-<!ENTITY mapeditprops.accesskey "h">
+<!ENTITY propsCmd.accesskey "h">
 <!-- View menu -->
 <!ENTITY mapviewMenu.label "보기">
-<!ENTITY mapviewmenu.accesskey "v">
+<!ENTITY mapviewMenu.accesskey "v">
 <!ENTITY showhideTbarCmd.label "도구 모음 감추기">
-<!ENTITY mapviewtbar.accesskey "t">
+<!ENTITY showhideTbarCmd.accesskey "t">
 <!-- Scaling -->
 <!ENTITY mapviewScale.label "크기">
-<!ENTITY mapviewscale.accesskey "S">
+<!ENTITY mapviewScale.accesskey "S">
 <!ENTITY apercentCmd.label "100">
-<!ENTITY zoomone.accesskey "1">
+<!ENTITY apercentCmd.accesskey "1">
 <!ENTITY bpercentCmd.label "200">
-<!ENTITY zoomtwo.accesskey "2">
+<!ENTITY bpercentCmd.accesskey "2">
 <!ENTITY cpercentCmd.label "400">
-<!ENTITY zoomthree.accesskey "4">
-<!-- end scaling-->
-<!ENTITY contrastCmd.label "색조">
-<!ENTITY contrast.accesskey "n">
-<!-- Help menu -->
-<!ENTITY maphelpMenu.label "도움말">
-<!ENTITY maphelpmenu.accesskey "h">
-<!ENTITY aboutCmd.label "소개">
-<!ENTITY about.accesskey "b">
+<!ENTITY cpercentCmd.accesskey "4">
+
 <!ENTITY zoominCmd.label "확대">
 <!ENTITY zoomoutCmd.label "축소">
 <!ENTITY delSpotCmd.label "Spot 삭제">
-<!-- Keys -->
-<!ENTITY clear.accesskey "d">
-<!ENTITY selectall.accesskey "a">
-<!ENTITY close.accesskey "l">
-<!ENTITY cut.accesskey "x">
-<!ENTITY copy.accesskey "c">
-<!ENTITY paste.accesskey "v">
-<!ENTITY props.accesskey "p">
-<!ENTITY tbar.accesskey "t">
+
+<!-- Key -->
+<!ENTITY clear.key "d">
+<!ENTITY selectall.key "a">
+<!ENTITY close.key "l">
+<!ENTITY cut.key "x">
+<!ENTITY copy.key "c">
+<!ENTITY paste.key "v">
+<!ENTITY props.key "p">
+<!ENTITY tbar.key "t">

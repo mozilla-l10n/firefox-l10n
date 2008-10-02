@@ -120,6 +120,11 @@
 <!ENTITY WorkWebPage.accesskey          "b">
 <!ENTITY Other.tab                      "기타:">
 <!ENTITY Other.accesskey                "h">
+<!ENTITY Birthday.label                 "생일:">
+<!ENTITY Birthday.accesskey             "B">
+<!ENTITY Year.emptytext                 "태어난 해">
+<!ENTITY Or.value                       "or">
+<!ENTITY Age.emptytext                  "나이">
 <!ENTITY Custom1.label                  "사용자 정의1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "사용자 정의2:">

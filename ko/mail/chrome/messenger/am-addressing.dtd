@@ -10,6 +10,7 @@
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "다른 LDAP 서버 사용:">
 <!ENTITY directories.accesskey     "d">
+<!ENTITY directoriesNone.label     "없음">
 <!-- am-addressing.xul -->
 <!ENTITY compositionGroupTitle.label "메시지 쓰기">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->

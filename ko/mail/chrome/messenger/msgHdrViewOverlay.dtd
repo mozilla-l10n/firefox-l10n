@@ -1,36 +1,51 @@
-<!ENTITY toField.label "받는 사람:">
-<!ENTITY fromField.label "보낸 사람:">
-<!ENTITY senderField.label "보낸 사람: ">
-<!ENTITY organizationField.label "조직:">
-<!ENTITY replyToField.label "회신 주소:">
-<!ENTITY subjectField.label "제목:">
-<!ENTITY ccField.label "참조:">
-<!ENTITY bccField.label "숨은 참조:">
-<!ENTITY newsgroupsField.label "뉴스 그룹:">
-<!ENTITY followupToField.label "전달:">
-<!ENTITY dateField.label "날짜:">
-<!ENTITY userAgentField.label "사용자 에이전트:">
-<!ENTITY originalWebsite.label "웹 사이트: ">
+<!ENTITY toField2.label "받는 사람:">
+<!ENTITY fromField2.label "보낸 사람:">
+<!ENTITY senderField2.label "보낸 사람: ">
+<!ENTITY organizationField2.label "조직:">
+<!ENTITY replyToField2.label "회신 주소:">
+<!ENTITY subjectField2.label "제목:">
+<!ENTITY ccField2.label "cc ">
+<!ENTITY bccField2.label "숨은 참조:">
+<!ENTITY newsgroupsField2.label "뉴스 그룹:">
+<!ENTITY followupToField2.label "전달:">
+<!ENTITY dateField2.label "날짜:">
+<!ENTITY userAgentField2.label "사용자 에이전트:">
+<!ENTITY originalWebsite2.label "웹 사이트: ">
 <!ENTITY saveAll.label "모두 선택…">
-<!ENTITY editMessage.label "임시 보관함 편집…">
-<!ENTITY openAttachmentCmd.label "Open">
+
+<!ENTITY editMessageDescription.label "임시 보관함 편집">
+<!ENTITY editMessageButton.label "편집…">
+<!ENTITY replyButton.label "답장…">
+<!ENTITY forwardButton.label "전달…">
+<!ENTITY junkButton.label "스팸 표시">
+<!ENTITY trashButton.tooltiptext "삭제">
+
+<!ENTITY otherActionsButton.label "기타 기능">
+<!ENTITY saveAsMenuItem.label "다른 이름으로 저장…">
+<!ENTITY saveAsMenuItem.accesskey "S">
+<!ENTITY viewSourceMenuItem.label "소스 보기…">
+<!ENTITY viewSourceMenuItem.accesskey "V">
+
+
+<!ENTITY hideDetailsButton.label "상세 정보 숨기기">
+<!ENTITY showDetailsButton.label "상세 정보 보기">
+
+<!ENTITY openAttachmentCmd.label "열기">
 <!ENTITY openAttachmentCmd.accesskey "O">
-<!ENTITY saveAsAttachmentCmd.label "Save As…">
+<!ENTITY saveAsAttachmentCmd.label "다른 이름으로 저장…">
 <!ENTITY saveAsAttachmentCmd.accesskey "A">
-<!ENTITY detachAttachmentCmd.label "Detach …">
-<!ENTITY deleteAttachmentCmd.label "Delete">
-<!ENTITY saveAllAttachmentsCmd.label "Save All…">
+<!ENTITY detachAttachmentCmd.label "첨부 삭제…">
+<!ENTITY deleteAttachmentCmd.label "삭제">
+<!ENTITY saveAllAttachmentsCmd.label "모두 저장…">
 <!ENTITY saveAllAttachmentsCmd.accesskey "S">
-<!ENTITY detachAllAttachmentsCmd.label "Detach All…">
+<!ENTITY detachAllAttachmentsCmd.label "모든 첨부 삭제…">
 <!ENTITY detachAllAttachmentsCmd.accesskey "D">
-<!ENTITY deleteAllAttachmentsCmd.label "Delete All…">
+<!ENTITY deleteAllAttachmentsCmd.label "모두 삭제…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "E">
-<!ENTITY copyLinkCmd.label "Copy Link Location">
+
+<!ENTITY copyLinkCmd.label "링크 주소 복사">
 <!ENTITY copyLinkCmd.accesskey "C">
-<!ENTITY tagsHdr.label "태그: ">
-<!ENTITY referencesField.label "References: ">
-<!ENTITY messageIdField.label "Message-ID: ">
-<!ENTITY inReplyToField.label "In-Reply-To: ">
-<!ENTITY CopyMessageId.label "Copy Message-ID">
-<!ENTITY OpenMessageForMsgId.label "Open Message For ID">
-<!ENTITY OpenBrowserWithMsgId.label "Open Browser With Message-ID">
+
+<!ENTITY CopyMessageId.label "Message-ID 복사하기">
+<!ENTITY OpenMessageForMsgId.label "Message-ID로 열기">
+<!ENTITY OpenBrowserWithMsgId.label "Message-ID로 웹 브라우저 열기">
