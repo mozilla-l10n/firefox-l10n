@@ -5,6 +5,3 @@
 <!ENTITY copyrightInfo "&#169;1998-2008 모든 저작권은 개발자에게 있습니다. Firefox와 Firefox 로고는 Mozilla Foundation의 상표이며, 모든 권한이 있습니다.">
 <!ENTITY copyright.accesskey "C">
 <!ENTITY aboutLink.accesskey "A">
-<!ENTITY closeCmdGNOME.accesskey    "C">
-<!ENTITY closeCmdGNOME.label        "닫기">
-<!ENTITY copyrightGNOME.accesskey   "r">
