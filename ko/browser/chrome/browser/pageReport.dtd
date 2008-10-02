@@ -1,9 +1,0 @@
-<!ENTITY caption.label "팝업창 차단">
-
-<!ENTITY intro.label "다음 페이지로부터는 요청하지 않은 팝업창을 열지 않습니다.">
-
-<!ENTITY done.label "완료">
-<!ENTITY done.accesskey "D">
-
-<!ENTITY unblock.label "사이트 차단 해제">
-<!ENTITY unblock.accesskey "U">
