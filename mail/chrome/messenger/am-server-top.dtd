@@ -62,7 +62,8 @@
 <!ENTITY alwaysAuthenticate.label "תמיד בקש אימות בעת התחברות לשרת זה">
 <!ENTITY alwaysAuthenticate.accesskey "w">
 <!-- ### ENTITY newsrcFilePath.label "קובץ newsrc:‏" -->
-<!ENTITY newsrcFilePath.accesskey "f">
+<!-- ### ENTITY newsrcFilePath.accesskey "f" -->
+<!ENTITY newsrcFilePath.label "קובץ newsrc:">
 <!ENTITY localPath.label "ספרייה מקומית:">
 <!-- ### ENTITY localPath.accesskey "L" -->
 <!ENTITY abbreviate.label "הצג שמות קבוצות דיון בחלונית תיקיות הדואר בצורת:">

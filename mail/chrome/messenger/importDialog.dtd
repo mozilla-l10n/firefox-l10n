@@ -1,13 +1,67 @@
-<!--null-->
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 2001
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+     Jeff Beckley <beckley@qualcomm.com>
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!--
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
+Netscape Communicator, Please translate using the brandname in respective 
+languages for Netscape Communicator 4 releases.
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
+"&brandShortName;" below.
+-->
+
 <!ENTITY importDialog.windowTitle "יבוא">
+<!ENTITY importDialog.allTitle    "יבא הכל">
 <!ENTITY importDialog.mailTitle "דואר">
 <!ENTITY importDialog.addressbookTitle "פנקסי כתובות">
 <!ENTITY importDialog.settingsTitle "הגדרות">
+<!ENTITY importDialog.filtersTitle "מסננים">
+
 <!ENTITY window.width "40em">
 <!ENTITY window.macWidth "45em">
+
 <!ENTITY importTitle.label "אשף יבוא הדואר של &brandShortName;">
+<!ENTITY importShortDesc.label    "יבא דואר, פנקסי כתובות, הגדרות ומסננים מתוכנות אחרות">
+
 <!-- ### ENTITY importDesc.label "יבוא דואר, פנקסי כתובות והגדרות מתוכניות אחרות" -->
 <!-- ### ENTITY importDescription.label "אשף זה ייבא הודעות דואר, כתובות מפנקסי כתובות ו/או העדפות מתוכניות דואר אחרות ותבניות פנקסי כתובות נפוצות לתוך דואר &brandShortName;." -->
+
+<!ENTITY importDescription1.label "אשף זה ייבא את כל הודעות הדואר, פריטים מפנקס הכתובות, העדפות ו/או מסננים מתוכנות דואר אחרות ומבני פנקסי כתובות מקובלים לתוך &brandShortName;.">
+
 <!ENTITY importDescription2.label "לאחר שהם ייובאו, תוכל לגשת אליהם מתוך הדואר ו/או פנקס הכתובות של &brandShortName;.">
 <!ENTITY selectDescription.label "אנא בחר את התוכנה שמתוכה ברצונך לייבא:">
 <!ENTITY back.label "&lt; הקודם">

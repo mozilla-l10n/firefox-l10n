@@ -15,3 +15,8 @@
 <!ENTITY fieldMapImport.dataTitle "נתוני רשומה ליבוא">
 <!-- ### ENTITY fieldMapImport.skipFirstRecord "רשומה ראשונה כוללת שמות שדה" -->
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "F">
+<!ENTITY fieldMapImport.down.label "הזז מטה">
+<!ENTITY fieldMapImport.up.label "הזז מעלה">
+<!ENTITY fieldMapImport.next.label "הבא">
+<!ENTITY fieldMapImport.previous.label "קודם">
+<!ENTITY fieldMapImport.skipFirstRecord.label "רשומה ראשונה מכילה את שמות השדות">
