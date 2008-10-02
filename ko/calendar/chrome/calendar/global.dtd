@@ -35,29 +35,6 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY time.midnight "자정" >
-<!ENTITY time.1 "오전 1:00" >
-<!ENTITY time.2 "오전 2:00" >
-<!ENTITY time.3 "오전 3:00" >
-<!ENTITY time.4 "오전 4:00" >
-<!ENTITY time.5 "오전 5:00" >
-<!ENTITY time.6 "오전 6:00" >
-<!ENTITY time.7 "오전 7:00" >
-<!ENTITY time.8 "오전 8:00" >
-<!ENTITY time.9 "오전 9:00" >
-<!ENTITY time.10 "오전 10:00" >
-<!ENTITY time.11 "오전 11:00" >
-<!ENTITY time.noon "정오" >
-<!ENTITY time.13 "오후 1:00" >
-<!ENTITY time.14 "오후 2:00" >
-<!ENTITY time.15 "오후 3:00" >
-<!ENTITY time.16 "오후 4:00" >
-<!ENTITY time.17 "오후 5:00" >
-<!ENTITY time.18 "오후 6:00" >
-<!ENTITY time.19 "오후 7:00" >
-<!ENTITY time.20 "오후 8:00" >
-<!ENTITY time.21 "오후 9:00" >
-<!ENTITY time.22 "오후 10:00" >
-<!ENTITY time.23 "오후 11:00" >
 
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
