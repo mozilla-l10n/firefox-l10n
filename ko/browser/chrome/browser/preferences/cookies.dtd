@@ -22,8 +22,6 @@
 
 <!ENTITY     filter.label                   "검색:">
 <!ENTITY     filter.accesskey               "S">
-<!ENTITY     clear.label                    "지우기">
-<!ENTITY     clear.accesskey                "l">
 
 <!ENTITY     button.close.label             "닫기">
 <!ENTITY     button.close.accesskey         "C">

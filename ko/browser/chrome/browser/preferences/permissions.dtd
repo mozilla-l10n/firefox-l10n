@@ -7,6 +7,7 @@
 <!ENTITY removeallpermissions.label "모두 제거">
 <!ENTITY removeallpermissions.accesskey "e">
 <!ENTITY address.label "웹 사이트 주소:">
+<!ENTITY address.accesskey "d">
 <!ENTITY block.label "차단">
 <!ENTITY block.accesskey "B">
 <!ENTITY session.label "세션 허가">

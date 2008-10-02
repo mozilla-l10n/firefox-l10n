@@ -39,4 +39,6 @@
 <!ENTITY cmd.clearList.tooltip "목록에서 다운로드 완료, 취소, 실패 항목 제거 하기">
 <!ENTITY cmd.clearList.accesskey "C">
 <!ENTITY cmd.find.commandKey     "f">
+<!ENTITY cmd.search.commandKey            "k">
+
 <!ENTITY searchBox.label "파일 검색…">

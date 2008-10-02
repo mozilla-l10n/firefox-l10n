@@ -1,6 +1,6 @@
 <!ENTITY warnAddonInstall.label "부가 기능을 설치하고자 할 때 알려주기">
 <!ENTITY warnAddonInstall.accesskey "W">
-<!ENTITY tellMaybeForgery.label "현재 웹 사이트가 위조 페이지로 보일 경우 알려주기">
+<!ENTITY tellMaybeForgery2.label "알려진 위조 사이트 차단">
 <!ENTITY tellMaybeForgery.accesskey "T">
 <!ENTITY addonExceptions.label "예외 목록…">
 <!ENTITY addonExceptions.accesskey "E">
@@ -19,5 +19,5 @@
 <!ENTITY chooseWarnings.label "웹 사이트 이동 시 확인하고 싶은 경고 내용을 선택 하십시오.">
 <!ENTITY warningSettings.label "설정…">
 <!ENTITY warningSettings.accesskey "S">
-<!ENTITY tellMaybeAttackSite.label "현재 웹 사이트가 공격 페이지로 보일 경우 알려주기">
+<!ENTITY tellMaybeAttackSite2.label "알려진 공격 사이트 차단">
 <!ENTITY tellMaybeAttackSite.accesskey "k">

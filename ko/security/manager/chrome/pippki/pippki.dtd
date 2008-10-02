@@ -9,7 +9,7 @@
 <!ENTITY resetPassword.title "기본 암호 재설정">
 <!ENTITY resetPassword.text "기본 암호를 재설정하면 저장된 웹과 전자 메일 암호, 폼 데이터, 개인 인증서, 그리고 비밀키에 접근하지 못하게됩니다. 정말로 기본 암호를 재설정하시겠습니까?">
 <!ENTITY getPassword.title "기본 암호 입력">
-<!ENTITY getPassword.tokenName.label "보안 장치">
+<!ENTITY getPassword.tokenName2.label "보안 장치">
 <!ENTITY getPassword.password.label "암호:">
 <!ENTITY piperror.title "오류">
 <!ENTITY pipalert.title "오류 - 복구할 수 없음">
@@ -65,3 +65,8 @@
 <!ENTITY protectedAuth.title "잠금 방식 토큰 인증">
 <!ENTITY protectedAuth.msg "토큰을 인증해주십시오. 인증 방식은 토큰의 유형에 따라 다릅니다.">
 <!ENTITY protectedAuth.tokenName.label "토큰:">
+
+<!ENTITY certErrorDlg.title "보안 연결 실패">
+<!ENTITY certErrorDlg.info1 "연결하려는 보안 서버의 설정이 잘못되어 있거나 서버 연결 도중 오류가 났을 수 있습니다.">
+<!ENTITY certErrorDlg.info2 "만약 여러분이 이전에 연결에 문제가 없었다면 일시적인 문제일 수 있으므로 잠시 기다린 후에 재시도 하시기 바랍니다.">
+

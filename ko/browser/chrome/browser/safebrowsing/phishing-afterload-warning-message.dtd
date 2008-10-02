@@ -11,7 +11,6 @@
 <!ENTITY safeb.palm.decline.statustext "경고 닫기">
 <!ENTITY safeb.palm.notforgery.label2 "피싱 사이트 아님…">
 <!ENTITY safeb.palm.report.label "차단 이유 상세 정보">
-<!ENTITY safeb.urlbaricon.tooltip "이 웹 페이지는 매우 위험합니다. 자세한 내용은 이곳을 클릭하십시오.">
 
 <!ENTITY safeb.blocked.malware.title "공격 사이트 보고!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

@@ -1,13 +1,13 @@
-<!ENTITY newPagesIn.label "링크 여는 방법:">
-<!ENTITY inNewWindow.label "새 창에서 열기">
-<!ENTITY inNewWindow.accesskey "w">
-<!ENTITY inNewTab.label "새 탭에서 열기">
-<!ENTITY inNewTab.accesskey "t">
+<!ENTITY newWindowsAsTabs.label       "새 탭 대신 새 창으로 열기">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
+
 <!ENTITY warnCloseMultipleTabs.label "다중 탭을 가진 창을 닫을 때 알려주기">
 <!ENTITY warnCloseMultipleTabs.accesskey "m">
 <!ENTITY warnOpenManyTabs.label "다중 탭을 열어서 &brandShortName;이 느려질 때 알려주기">
 <!ENTITY warnOpenManyTabs.accesskey "o">
+
 <!ENTITY showTabBar.label "탭 도구 모음을 항상 보이기">
 <!ENTITY showTabBar.accesskey "b">
+
 <!ENTITY switchToNewTabs.label "새 탭에 링크를 열 때 바로 전환">
 <!ENTITY switchToNewTabs.accesskey "s">

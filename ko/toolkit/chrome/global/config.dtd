@@ -1,7 +1,5 @@
 <!ENTITY filterPrefs.label "필터:">
 <!ENTITY filterPrefs.accesskey "I">
-<!ENTITY showAll.label "모두 보기">
-<!ENTITY showAll.accesskey "W">
 <!ENTITY prefColumn.label "설정 이름">
 <!ENTITY lockColumn.label "상태">
 <!ENTITY typeColumn.label "유형">
