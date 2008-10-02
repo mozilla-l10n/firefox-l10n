@@ -2,13 +2,14 @@
 <!ENTITY treehead.sitename.label "Сайт">
 <!ENTITY treehead.status.label "Статус">
 <!ENTITY remove.label "Удалить сайт">
-<!ENTITY remove.accesskey "У">
+<!ENTITY remove.accesskey "д">
 <!ENTITY removeall.label "Удалить все сайты">
-<!ENTITY removeall.accesskey "У">
+<!ENTITY removeall.accesskey "е">
 <!ENTITY address.label "Адрес сайта:">
+<!ENTITY address.accesskey "д">
 <!ENTITY block.label "Блокировать">
-<!ENTITY block.accesskey "Б">
+<!ENTITY block.accesskey "л">
 <!ENTITY session.label "Разрешить на сессию">
 <!ENTITY session.accesskey "с">
 <!ENTITY allow.label "Разрешить">
-<!ENTITY allow.accesskey "Р">
+<!ENTITY allow.accesskey "з">
