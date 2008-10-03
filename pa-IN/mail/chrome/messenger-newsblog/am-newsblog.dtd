@@ -15,6 +15,7 @@
 
 <!-- entities from defaults/isp/rss.rdf -->
 <!ENTITY rss.accountName            "ਖ਼ਬਰਾਂ &amp; ਬੀ-ਲਾਗ">
-<!ENTITY rss.wizardShortName        "RSS">  
+<!ENTITY rss.wizardShortName        "RSS">
+<!ENTITY rss.wizardLongName.accesskey "R">
 <!ENTITY rss.wizardLongName         "RSS ਖ਼ਬਰਾਂ &amp; ਬੀ-ਲਾਗ">
 <!ENTITY rss.hostName               "ਖ਼ਬਰਾਂ &amp; ਬੀ-ਲਾਗ">

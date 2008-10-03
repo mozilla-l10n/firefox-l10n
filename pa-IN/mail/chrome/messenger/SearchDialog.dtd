@@ -36,7 +36,8 @@
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "ਮਾਮਲਾ">
-<!ENTITY senderColumn.label "ਭੇਜਣ ਵਾਲਾ">
+<!ENTITY fromColumn.label "From">
+
 <!ENTITY recipientColumn.label "ਪ੍ਰਾਪਤ ਕਰਤਾ">
 <!ENTITY subjectColumn.label "ਵਿਸ਼ਾ">
 <!ENTITY dateColumn.label "ਮਿਤੀ">
@@ -50,14 +51,15 @@
 <!ENTITY unreadColumn.label "ਨਾ-ਪੜੇ">
 <!ENTITY totalColumn.label "ਕੁੱਲ">
 <!ENTITY readColumn.label "ਪੜੇ">
+<!ENTITY receivedColumn.label "Received">
 <!ENTITY starredColumn.label "ਤਾਰੇ ਸਮੇਤ">
 <!ENTITY locationColumn.label "ਸਥਿਤੀ">
 <!ENTITY idColumn.label "ਪ੍ਰਾਪਤੀ ਕ੍ਰਮ">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "ਵੇਖਣ ਲਈ ਕਾਲਮ ਚੁਣਨ ਲਈ ਇੱਥੇ ਦਬਾਓ">
-<!ENTITY threadColumn.tooltip "ਸੁਨੇਹਾ ਮਾਮਲੇ ਵੇਖਣ ਲ਼ਈ ਇੱਥੇ ਦਬਾਓ"> 
-<!ENTITY senderColumn.tooltip "ਭੇਜਣ ਵਾਲੇ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
+<!ENTITY threadColumn.tooltip "ਸੁਨੇਹਾ ਮਾਮਲੇ ਵੇਖਣ ਲਈ ਇੱਥੇ ਦਬਾਓ"> 
+<!ENTITY fromColumn.tooltip "Click to sort by from">
 <!ENTITY recipientColumn.tooltip "ਪ੍ਰਾਪਤ ਕਰਨ ਵਾਲੇ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
 <!ENTITY subjectColumn.tooltip "ਵਿਸ਼ੇ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
 <!ENTITY dateColumn.tooltip "ਮਿਤੀ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
@@ -70,6 +72,7 @@
 <!ENTITY unreadColumn.tooltip "ਮਾਮਲੇ ਵਿੱਚ ਕੁੱਲ ਨਾ ਪੜੇ ਸੁਨੇਹੇ">
 <!ENTITY totalColumn.tooltip "ਮਾਮਲੇ ਵਿੱਚ ਕੁੱਲ ਸੁਨੇਹਿਆਂ ਦੀ ਗਿਣਤੀ">
 <!ENTITY readColumn.tooltip "ਪੜਨ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
+<!ENTITY receivedColumn.tooltip "Click to sort by date received">
 <!ENTITY starredColumn.tooltip "ਤਾਰੇ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
 <!ENTITY locationColumn.tooltip "ਸਥਿਤੀ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
 <!ENTITY idColumn.tooltip "ਪ੍ਰਾਪਤ ਕ੍ਰਮ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">

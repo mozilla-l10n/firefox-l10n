@@ -6,7 +6,6 @@
 <!ENTITY emptyTrashOnExit.label "ਬੰਦ ਕਰਨ ਤੇ ਰੱਦੀ ਖਾਲੀ ਕਰੋ">
 <!ENTITY emptyTrashOnExit.accesskey "x">
 <!ENTITY localPath.label "ਸਥਾਨਿਕ ਡਾਇਰੈਕਟਰੀ:">
-<!ENTITY localPath.accesskey "L">
 <!ENTITY localFolderPicker.label "ਸਥਾਨਿਕ ਡਾਇਰੈਕਟਰੀ ਚੁਣੋ">
 <!ENTITY browseFolder.label "ਝਲਕ...">
 <!ENTITY browseFolder.accesskey "B">

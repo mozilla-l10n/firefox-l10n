@@ -1,11 +1,18 @@
+<!ENTITY addressbookPicker.label            "Address Book:">
+<!ENTITY addressbookPicker.accesskey        "k">
+<!ENTITY searchInput.label                  "Search For:">
+<!ENTITY searchInput.accesskey              "o">
+<!ENTITY SearchNameOrEmail.label            "Name or Email">
 
-<!ENTITY addressbookPicker.label            "ਸਿਰਨਾਵਾਂ ਕਿਤਾਬ:">
-<!ENTITY searchInput.label                  "ਇਸ ਲਈ ਖੋਜ:">
-<!ENTITY SearchNameOrEmail.label            "ਨਾਂ ਜਾਂ ਈ-ਮੇਲ">
+<!ENTITY deleteAddrBookCard.label           "Delete">
+<!ENTITY addrBookCardProperties.label       "Properties">
+<!ENTITY addtoToFieldMenu.label             "Add to To field">
+<!ENTITY addtoCcFieldMenu.label             "Add to Cc field">
+<!ENTITY addtoBccFieldMenu.label            "Add to Bcc field">
 
-<!ENTITY addtoToFieldMenu.label             "ਵੱਲ ਖੇਤਰ ਵਿੱਚ ਸ਼ਾਮਿਲ">
-<!ENTITY addtoCcFieldMenu.label             "Cc ਖੇਤਰ ਵਿੱਚ ਸ਼ਾਮਿਲ">
-<!ENTITY addtoBccFieldMenu.label            "Bcc ਖੇਤਰ ਵਿੱਚ ਸ਼ਾਮਿਲ">
-
-<!ENTITY toButton.label                     "ਵੱਲ ਸ਼ਾਮਿਲ:">
-<!ENTITY ccButton.label                     "Cc ਵੱਲ ਸ਼ਾਮਿਲ:">
+<!ENTITY toButton.label                     "Add to To:">
+<!ENTITY toButton.accesskey                 "A">
+<!ENTITY ccButton.label                     "Add to Cc:">
+<!ENTITY ccButton.accesskey                 "d">
+<!ENTITY bccButton.label                    "Add to Bcc:">
+<!ENTITY bccButton.accesskey                "B">

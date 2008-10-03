@@ -80,9 +80,7 @@
 <!ENTITY alwaysAuthenticate.label "ਇਸ ਸਰਵਰ ਨਾਲ ਜੁੜਨ ਸਮੇਂ ਹਮੇਸ਼ਾ ਪਰਮਾਣਕਿਤਾ ਲਈ ਬੇਨਤੀ ਕਰੋ">
 <!ENTITY alwaysAuthenticate.accesskey "w">
 <!ENTITY newsrcFilePath.label "newsrc ਫਾਇਲ:">
-<!ENTITY newsrcFilePath.accesskey "f">
 <!ENTITY localPath.label "ਸਥਾਨਕ ਡਾਇਰੈਕਟਰੀ:">
-<!ENTITY localPath.accesskey "L">
 <!ENTITY abbreviate.label "ਪੱਤਰ ਫੋਲਡਰ ਵਿੱਚ ਖ਼ਬਰਸਾਰ ਸਮੂਹ ਦਾ ਨਾਂ ਇਸਤਰਾਂ ਵੇਖਾਓ:">
 <!ENTITY abbreviateOn.label "ਪੂਰਾ ਨਾਂ (ਉਦਾਹਰਨ ਲਈ, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "ਸੰਖੇਪ ਨਾਂ (ਉਦਾਹਰਨ ਲਈ, 'n.p.m.mail-news')">

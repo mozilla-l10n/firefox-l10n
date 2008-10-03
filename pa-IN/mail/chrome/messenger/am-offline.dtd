@@ -1,33 +1,31 @@
-<!ENTITY doNotDownloadPop3Movemail.label "ਡਿਸਕ ਥਾਂ ਬਚਾਉਣ ਲਈ ਕਦੇ ਵੀ ਡਾਊਨਲੋਡ ਨਾ ਕਰੋ:">
-<!ENTITY doNotDownload.label "ਡਿਸਕ ਥਾਂ ਬਚਾਉਣ ਲਈ, ਆਫਲਾਇਨ ਡਾਊਨਲੋਡ ਨਾ ਇਸਤੇਮਾਲ ਕਰੋ:">
-<!ENTITY offlineNewFolder.label "ਜਦੋਂ ਮੈਂ ਫੋਲਡਰ ਬਣਾਵਾਂ ਤਾਂ ਉਸ ਨੂੰ ਆਫਲਾਇਨ ਡਾਊਨਲੋਡ ਲਈ ਚੁਣ ਲਵੋ">
-<!ENTITY offlineNewFolder.accesskey "c">
-<!ENTITY offlineNotDownload.label "ਇਸ ਤੋਂ ਵੱਡੇ ਸੁਨੇਹੇ">
+<!ENTITY doNotDownloadPop3Movemail.label "To save disk space, do not download:">
+<!ENTITY doNotDownload.label "To save disk space, do not download for offline use:">
+<!ENTITY allFoldersOffline.label "Keep messages for this account on this computer">
+<!ENTITY allFoldersOffline.accesskey "o">
+<!ENTITY offlineNotDownload.label "Messages larger than">
 <!ENTITY offlineNotDownload.accesskey "M">
-<!ENTITY kb.label "ਕਿਬਾ">
-<!ENTITY days.label "ਦਿਨ">
-<!ENTITY daysOld.label "ਦਿਨ ਪੁਰਾਣੇ">
-<!ENTITY message.label "ਸੁਨੇਹੇ">
-<!ENTITY nntpNotDownloadRead.label "ਸੁਨੇਹੇ ਪੜੋ">
-<!ENTITY nntpNotDownloadRead.accesskey "R">
-<!ENTITY nntpDownloadMsg.label "ਤੋਂ ਜਿਆਦਾ ਸੁਨੇਹੇ">
+<!ENTITY kb.label "KB">
+<!ENTITY days.label "days">
+<!ENTITY daysOld.label "days old">
+<!ENTITY message.label "messages">
+<!ENTITY nntpNotDownloadRead.label "Read messages">
+<!ENTITY nntpNotDownloadRead.accesskey "d">
+<!ENTITY nntpDownloadMsg.label "Messages more than">
 <!ENTITY nntpDownloadMsg.accesskey "e">
-<!ENTITY retentionCleanup.label "ਡਿਸਕ ਥਾਂ ਪਰਾਪਤ ਕਰਨ ਲਈ, ਪੁਰਾਣੇ ਸੁਨੇਹੇ ਹਮੇਸ਼ਾ ਲਈ ਹਟਾਏ ਜਾ ਸਕਦੇ ਹਨ">
-<!ENTITY retentionKeepMsg.label "ਸੁਨੇਹੇ ਹਟਾਓ">
-<!ENTITY retentionKeepMsg.accesskey "m">
-<!ENTITY retentionKeepAll.label "ਕੋਈ ਸੁਨੇਹਾ ਨਾ ਹਟਾਓ">
-<!ENTITY retentionKeepAll.accesskey "A">
-<!ENTITY retentionKeepNew.label "ਸਭ ਹਟਾਓ, ਪਰ ਆਖਰੀ">
-<!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "ਪੜੇ ਸੁਨੇਹੇ ਹਮੇਸ਼ਾ ਹਟਾਓ">
-<!ENTITY retentionKeepUnread.accesskey "r">
-<!ENTITY nntpRemoveBody.label "ਸੁਨੇਹਾ ਮੁੱਖ ਭਾਗ ਇਸ ਤੋਂ ਘੱਟ ਹੋਵੇ">
+<!ENTITY retentionCleanup.label "To recover disk space, old messages can be permanently deleted">
+<!ENTITY retentionKeepMsg.label "Delete messages more than">
+<!ENTITY retentionKeepMsg.accesskey "t">
+<!ENTITY retentionKeepAll.label "Don't delete any messages">
+<!ENTITY retentionKeepAll.accesskey "n">
+<!ENTITY retentionKeepNew.label "Delete all but the last">
+<!ENTITY retentionKeepNew.accesskey "b">
+<!ENTITY retentionKeepUnread.label "Always delete read messages">
+<!ENTITY retentionKeepUnread.accesskey "w">
+<!ENTITY nntpRemoveBody.label "Only message bodies less than">
 <!ENTITY nntpRemoveBody.accesskey "O">
-<!ENTITY offlineSelectNntp.label "ਆਫਲਾਇਨ ਸੈਟਿੰਗ ਲਈ ਖ਼ਬਰ-ਸਮੂਹ ਚੁਣੋ...">
-<!ENTITY offlineSelectImap.label "ਆਫਲਾਇਨ ਵਰਤਣ ਲਈ ਫੋਲਡਰ ਚੁਣੋ...">
-<!ENTITY offlineSelect.accesskey "S">
-<!ENTITY offlineDesc.label "ਤੁਸੀਂ ਆਪਣੇ ਸੁਨੇਹੇ ਸਥਾਨਿਕ ਡਾਊਨਲੋਡ ਕਰ ਸਕਦੇ ਹੋ, ਤਾਂ ਕਿ ਆਫਲਾਇਨ ਹੋਣ ਤੇ ਤੁਸੀਂ ਇਸਤੇਮਾਲ ਕਰ ਸਕਦੇ ਹੋ।">
-<!ENTITY makeInboxMsgsAvailable.label "ਜਦੋਂ ਮੈਂ ਆਫਲਾਇਨ ਕੰਮ ਕਰਾਂ ਤਾਂ ਸੁਨੇਹੇ ਮੇਰੇ ਆਉਣਬਕਸੇ(Inbox) ਵਿੱਚ ਉੱਪਲੱਬਧ ਕਰਵਾਉ">
-<!ENTITY makeInboxMsgsAvailable.accesskey "b">
-<!ENTITY offlineGroupTitle.label "ਆਫਲਾਇਨ">
-<!ENTITY diskspaceGroupTitle.label "ਡਿਸਕ ਥਾਂ">
+<!ENTITY offlineSelectNntp.label "Select newsgroups for offline use…">
+<!ENTITY offlineSelectNntp.accesskey "S">
+<!ENTITY offlineImapAdvancedOffline.label "Advanced…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "A">
+<!ENTITY syncGroupTitle.label "Message Synchronizing">
+<!ENTITY diskspaceGroupTitle.label "Disk Space">

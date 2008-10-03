@@ -1,60 +1,54 @@
-
-<!ENTITY itemJunk.label          "ਕੂੜਾ">
-<!ENTITY itemPhishing.label      "ਈ-ਮੇਲ ਘਪਲਾ">
-<!ENTITY itemPasswords.label     "ਗੁਪਤ-ਕੋਡ">
-<!ENTITY itemAntiVirus.label     "ਐਂਟੀ-ਵਾਇਰਸ">
-
-
-
+<!ENTITY itemJunk.label          "Junk">
+<!ENTITY itemPhishing.label      "E-mail Scams">
+<!ENTITY itemPasswords.label     "Passwords">
+<!ENTITY itemAntiVirus.label     "Anti-Virus">
 
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "ਖਾਸ ਖਾਤੇ ਨਾਲ ਸਬੰਧਿਤ ਕੂੜਾ ਪੱਤਰ ਸਥਾਪਨ ਲਈ ਖਾਤਾ ਸਥਾਪਨ ਉੱਤੇ ਜਾਓ।">
-<!ENTITY manualMark.label "ਜਦੋਂ ਮੈਂ ਸੁਨੇਹਿਆਂ ਨੂੰ ਕੂੜਾ ਬਣਾਵਾਂ:">
+<!ENTITY junkMail.intro "Set your default junk mail settings. Account-specific junk mail settings can be configured in Account Settings.">
+<!ENTITY manualMark.label "When I mark messages as junk:">
 <!ENTITY manualMark.accesskey "W">
-<!ENTITY manualMarkModeMove.label "ਉਹਨਾਂ ਨੂੰ ਖਾਤੇ ਦੇ &quot;ਕੂੜਾ&quot; ਫੋਲਡਰ 'ਚ ਭੇਜੋ">
+<!ENTITY manualMarkModeMove.label "Move them to the account's &quot;Junk&quot; folder">
 <!ENTITY manualMarkModeMove.accesskey "o">
-<!ENTITY manualMarkModeDelete.label "ਉਨ੍ਹਾਂ ਨੂੰ ਹਟਾਓ">
+<!ENTITY manualMarkModeDelete.label "Delete them">
 <!ENTITY manualMarkModeDelete.accesskey "t">
-
-<!ENTITY markAsReadOnSpam.label "ਕੂੜਾ ਬਣੇ ਸੁਨੇਹੇ ਪੜ੍ਹੇ ਬਣਾਓ">
-
-<!ENTITY manualMarkModeDelete.label "ਉਹਨਾਂ ਨੂੰ ਹਟਾਓ">
-<!ENTITY enableJunkLogging.label "ਕੂੜਾ ਫਿਲਟਰ ਲਾਗ ਰੱਖਣਾ ਯੋਗ">
+<!ENTITY markAsReadOnSpam.label "Mark messages determined to be Junk as read">
+<!ENTITY markAsReadOnSpam.accesskey "k">
+<!ENTITY enableJunkLogging.label "Enable junk filter logging">
 <!ENTITY enableJunkLogging.accesskey "g">
-<!ENTITY openJunkLog.label "ਲਾਗ ਵੇਖਾਓ">
+<!ENTITY openJunkLog.label "Show log">
 <!ENTITY openJunkLog.accesskey "h">
-<!ENTITY resetTrainingData.label "ਟਰੇਨਿੰਗ ਡਾਟਾ ਮੁੜ-ਸੈੱਟ">
+<!ENTITY resetTrainingData.label "Reset Training Data">
 <!ENTITY resetTrainingData.accesskey "D">
 
 <!-- Phishing Detector -->
-<!ENTITY phishingDetector1.intro  "&brandShortName; ਸ਼ੱਕੀ ਪੱਤਰਾਂ ਵਿੱਚ ਘਪਲੇ ਵਾਸਤੇ ਸੁਨੇਹਿਆਂ ਦੀ ਤੁਹਾਨੂੰ ਧੋਖਾ ਦੇਣ ਦੇ ਆਮ ਢੰਗਾਂ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਜਾਂਚ ਕਰ ਸਕਦਾ ਹੈ।">
-<!ENTITY enablePhishingDetector1.label    "ਮੈਨੂੰ ਦੱਸੋ ਜੇ ਇੱਕ ਸੁਨੇਹਾ, ਜੋ ਮੈਂ ਪੜ੍ਹ ਰਿਹਾ ਹੈ, ਉਹ ਸ਼ੱਕੀ ਹੈ">
+<!ENTITY phishingDetector1.intro  "&brandShortName; can analyze messages for suspected email scams by looking for common techniques used to deceive you.">
+<!ENTITY enablePhishingDetector1.label    "Tell me if the message I'm reading is a suspected email scam">
 <!ENTITY enablePhishingDetector1.accesskey  "e">
-<!ENTITY useDownloadedList.label "ਸ਼ੱਕੀ ਈ-ਮੇਲ ਘਪਲਿਆਂ ਦੀ ਡਾਊਨਲੋਡ ਕੀਤੀ ਸੂਚੀ ਵਰਤੋਂ">
+<!ENTITY useDownloadedList.label "Use a downloaded list of suspected email scams">
 <!ENTITY useDownloadedList.accesskey "U">
 
 <!-- Passwords -->
-<!ENTITY savedPasswords.intro         "&brandShortName; ਤੁਹਾਡੇ ਸਭ ਖਾਤਿਆਂ ਲਈ ਗੁਪਤ-ਕੋਡ ਜਾਣਕਾਰੀ ਨੂੰ ਸੰਭਾਲ ਕੇ ਰੱਖ ਸਕਦਾ ਹੈ, ਜਿਸ ਕਰਕੇ ਤੁਹਾਨੂੰ ਲਾਗਿੰਨ ਹੋਣ ਲਈ ਜਾਣਕਾਰੀ ਨੂੰ ਵਾਰ ਵਾਰ ਨਹੀਂ ਦੇਣਾ ਪੈਂਦਾ ਹੈ।">
-<!ENTITY  encryptEnabled.label        "ਸੰਭਾਲੇ ਗੁਪਤ-ਕੋਡਾਂ ਨੂੰ ਹੋਰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਇੱਕ ਮਾਸਟਰ ਗੁਪਤ-ਕੋਡ ਵਰਤੋਂ">
+<!ENTITY savedPasswords.intro         "&brandShortName; can remember password information for all of your accounts so you do not need to re-enter your login details.">
+<!ENTITY  encryptEnabled.label        "Use a master password to encrypt stored passwords">
 <!ENTITY  encryptEnabled.accesskey    "s">
-<!ENTITY  masterPassword.intro        "ਜਦੋਂ ਦਿੱਤਾ ਗਿਆ ਤਾਂ ਮਾਸਟਰ ਗੁਪਤ-ਕੋਡ ਤੁਹਾਡੇ ਸਭ ਗੁਪਤ-ਕੋਡਾਂ ਦੀ ਸੁਰੱਖਿਆ ਕਰੇਗਾ, ਪਰ ਇੱਕ ਤੁਹਾਨੂੰ ਹਰ ਅਜਲਾਸ ਵਿੱਚ ਇੱਕ ਵਾਰ ਦੇਣਾ ਪਵੇਗਾ।">
-<!ENTITY  setMasterPassword.label     "ਮਾਸਟਰ ਗੁਪਤ-ਕੋਡ">
+<!ENTITY  masterPassword.intro        "When set, the Master Password protects all your passwords - but you must enter it once per session.">
+<!ENTITY  setMasterPassword.label     "Master Password">
 <!ENTITY  setMasterPassword.accesskey "M">
-<!ENTITY  removeMasterPassword.label  "ਮਾਸਟਰ ਗੁਪਤ-ਕੋਡ...">
+<!ENTITY  removeMasterPassword.label  "Remove Master Password…">
 <!ENTITY  removeMasterPassword.accesskey "R">
-<!ENTITY  editPasswords.label         "ਸੰਭਾਲੇ ਗੁਪਤ-ਕੋਡ ਸੋਧ">
+<!ENTITY  editPasswords.label         "Edit Saved Passwords">
 <!ENTITY  editPasswords.accesskey     "i">
 
 <!-- Anti Virus -->
-<!ENTITY antiVirus.intro      "&brandShortName; ਨੇ ਐਂਟੀ-ਵਾਇਰਸ ਸਾਫਟਵੇਅਰ ਲਈ ਸੁਨੇਹਿਆਂ ਨੂੰ ਸੰਭਾਲਣ ਤੋਂ ਪਹਿਲਾਂ ਇਹਨਾਂ ਦੀ ਜਾਂਚ ਕਰਨ ਨੂੰ ਹੁਣ ਆਸਾਨ ਬਣਾ ਦਿੱਤਾ ਹੈ।">
-<!ENTITY antiVirus.label      "ਐਂਟੀ-ਵਾਇਰਸ ਕਲਾਂਇਟਾਂ ਨੂੰ ਆਉਣ ਵਾਲੇ ਇੱਕਲੇ ਇੱਕਲੇ ਸੁਨੇਹਿਆਂ ਦੀ ਜਾਂਚ ਕਰਨ ਦੀ ਇਜ਼ਾਜਤ ਦਿਓ">
+<!ENTITY antiVirus.intro      "&brandShortName; can make it easy for anti-virus software to analyze incoming mail messages for viruses before they are stored locally.">
+<!ENTITY antiVirus.label      "Allow anti-virus clients to quarantine individual incoming messages">
 <!ENTITY antiVirus.accesskey  "l">
 
 <!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
-<!ENTITY antiVirusCaption.label "ਐਂਟੀ-ਵਾਇਰਸ">
-<!ENTITY paswords.label         "ਗੁਪਤ-ਕੋਡ">
-<!ENTITY emailScams.label       "ਈ-ਮੇਲ ਘਪਲਾ">
-<!ENTITY junkMail.label         "ਕੂੜਾ ਪੱਤਰ">
+<!ENTITY antiVirusCaption.label "Anti-Virus">
+<!ENTITY paswords.label         "Passwords">
+<!ENTITY emailScams.label       "Email Scams">
+<!ENTITY junkMail.label         "Junk Mail">
 <!ENTITY itemIntrusions.label   "Intrusions">
 <!ENTITY itemIntrusionsAndPasswords.label  "Intrusions &amp; Passwords">
-<!ENTITY itemJunkMail.label     "ਕੂੜਾ ਪੱਤਰ">
+<!ENTITY itemJunkMail.label     "Junk Mail">

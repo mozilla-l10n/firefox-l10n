@@ -19,5 +19,4 @@
 <!ENTITY serverPort.label "ਪੋਰਟ: ">
 <!ENTITY userName.label   "ਉਪਭੋਗੀ ਨਾਂ: ">
 <!ENTITY useSecureConnection.label   "ਸੁਰੱਖਿਅਤ ਕੁਨੈਕਸ਼ਨ: ">
-
-
+<!ENTITY useSecureAuthentication.label   "Secure Authentication: ">

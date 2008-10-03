@@ -56,8 +56,8 @@
 <!ENTITY daysOld.label "ਦਿਨ ਪੁਰਾਣੇ">
 <!ENTITY message.label "ਸੁਨੇਹੇ">
 <!ENTITY retentionCleanup.label "ਡਿਸਕ ਥਾਂ ਨੂੰ ਮੁੜ-ਪਰਾਪਤ ਕਰਨ ਲਈ, ਪੁਰਾਣੇ ਸੁਨਹਿਆਂ ਨੂੰ ਹਮੇਸ਼ਾ ਲਈ ਹਟਾਇਆ ਜਾ ਸਕਦਾ ਹੈ">
-<!ENTITY retentionKeepMsg.label "ਸੁਨੇਹੇ ਹਟਾਓ">
-<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionDeleteMsg.label "Delete messages more than">
+<!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "ਕੋਈ ਸੁਨੇਹਾ ਨਾ ਹਟਾਓ">
 <!ENTITY retentionKeepAll.accesskey "A">
 <!ENTITY retentionKeepNew.label "ਸਭ ਹਟਾਓ, ਪਰ ਆਖਰੀ">
@@ -83,6 +83,8 @@
 <!ENTITY folderProps.information.label  "ਜਾਣਕਾਰੀ:">
 <!ENTITY folderProps.name.label	        "ਨਾਂ:">
 <!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.location.label              "Location:">
+<!ENTITY folderProps.location.accesskey          "L">
 
 <!ENTITY folderSharingTab.label                             "ਸਾਂਝ">
 <!ENTITY privilegesDesc.label  "ਇਹ ਅਤੇ ਹੋਰ ਫੋਲਡਰ ਨੈੱਟਵਰਕ ਉਪਭੋਗੀ ਨਾਲ ਸਾਂਝੇ ਕਰੋ ਅਤੇ ਵੇਖਾਓ ਤੇ ਅਧਿਕਾਰ ਨਿਰਧਾਰਿਤ ਕਰੋ">

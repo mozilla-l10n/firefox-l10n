@@ -35,7 +35,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY fieldMapExport.title "ਸਿਰਨਾਵਾਂ ਕਿਤਾਬ ਨਿਰਯਾਤ">
-<!ENTITY fieldMapExport.add		"ਖੇਤਰ ਸ਼ਾਮਿਲ ->">
-<!ENTITY fieldMapExport.addAll	"ਸਭ ਸ਼ਾਮਿਲ ->">
-<!ENTITY fieldList.label   "ਸਿਰਨਾਵਾਂ ਖੇਤਰ"> 
+<!ENTITY fieldMapExport.title "Export Address Book">
+<!ENTITY fieldMapExport.add    "Add Field ->">
+<!ENTITY fieldMapExport.addAll  "Add All ->">
+<!ENTITY fieldList.label   "Address Fields">

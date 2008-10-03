@@ -63,7 +63,7 @@
 <!ENTITY closeCmd.key			"W">  
 <!ENTITY closeCmd.accesskey		"c">
 
-<!ENTITY closeWindow.label "ਝਰੋਖਾ ਬੰਦ ਕਰੋ">
+<!ENTITY closeWindow.label "ਵਿੰਡੋ ਬੰਦ ਕਰੋ">
 
 <!ENTITY quitApplicationCmd.label	"ਬਾਹਰ"> 
 <!ENTITY quitApplicationCmd.key		"Q"> 
@@ -71,3 +71,7 @@
 
 <!ENTITY quitApplicationCmdUnix.label	"ਬਾਹਰ"> 
 <!ENTITY quitApplicationCmdUnix.accesskey	"q">
+
+
+<!ENTITY quitApplicationCmdMac.label  "&brandShortName; ਬੰਦ ਕਰੋ">
+<!ENTITY quitApplicationCmdMac.accesskey  "q">
