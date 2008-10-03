@@ -237,8 +237,8 @@
 <!ENTITY unreadMsgsCmd.accesskey "s">
 <!ENTITY threadsWithUnreadCmd.label "Trådar med olästa meddelanden">
 <!ENTITY threadsWithUnreadCmd.accesskey "T">
-<!ENTITY watchedThreadsWithUnreadCmd.label "Trådar som bevakas med olästa meddelanden">
-<!ENTITY watchedThreadsWithUnreadCmd.accesskey "b">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Bevakade trådar med olästa">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "B">
 <!ENTITY ignoredThreadsCmd.label "Ignorerade trådar">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
 <!ENTITY headersMenu.label "Huvud">
@@ -395,7 +395,7 @@
 <!ENTITY addSenderToAddressBookCmd.accesskey "s">
 <!ENTITY addAllToAddressBookCmd.label ".Lägg till alla i adressbok">
 <!ENTITY addAllToAddressBookCmd.accesskey "a">
-<!ENTITY tagMenu.label "Märk med etikett">
+<!ENTITY tagMenu.label "Förse med etikett">
 <!ENTITY tagMenu.accesskey "d">
 <!ENTITY tagCustomize.label "Anpassa…">
 <!ENTITY tagCustomize.accesskey "A">
@@ -425,12 +425,11 @@
 <!ENTITY markAllReadCmd.label "Alla som lästa">
 <!ENTITY markAllReadCmd.accesskey "A">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markAllReadCmdUnix.key "m">
 <!ENTITY markFlaggedCmd.label "Flagga">
 <!ENTITY markFlaggedCmd.accesskey "F">
 <!ENTITY markFlaggedCmd.key "i">
-<!ENTITY markAsJunkCmd.label "Som skräppost">
-<!ENTITY markAsJunkCmd.accesskey "s">
+<!ENTITY markAsJunkCmd.label "Som Skräppost">
+<!ENTITY markAsJunkCmd.accesskey "S">
 <!ENTITY markAsJunkCmd.key "j">
 <!ENTITY markAsNotJunkCmd.label "Som Ej skräppost">
 <!ENTITY markAsNotJunkCmd.accesskey "E">
@@ -457,6 +456,10 @@
 <!ENTITY filtersCmd.accesskey "M">
 <!ENTITY filtersApply.label "Kör filter på mapp">
 <!ENTITY filtersApply.accesskey "r">
+<!ENTITY filtersApplyToSelection.label "Kör filter på markerade meddelanden">
+<!ENTITY filtersApplyToSelection.accesskey "d">
+<!ENTITY filtersApplyToMessage.label "Kör filter på meddelande">
+<!ENTITY filtersApplyToMessage.accesskey "d">
 <!ENTITY runJunkControls.label "Kör skräppostkontroll på mappens meddelanden">
 <!ENTITY runJunkControls.accesskey "k">
 <!ENTITY deleteJunk.label "Ta bort meddelanden märkta som skräppost från mappen">
@@ -486,12 +489,11 @@
 <!ENTITY junkButton.label "Skräppost">
 <!ENTITY notJunkButton.label "Ej skräppost">
 
-<!--Tooltips-->
+<!-- Tooltips -->
 <!ENTITY menuBar.tooltip "Menyrad">
 <!ENTITY mailToolbar.tooltip "Verktyg för e-post">
 <!ENTITY locationToolbar.tooltip "Navigationsfält">
 <!ENTITY advancedButton.tooltip "Avancerad meddelandesökning">
-<!ENTITY clearButton.tooltip "Nollställ sökkriterier och visa alla meddelanden">
 <!ENTITY getMsgButton.tooltip "Hämta nya meddelanden">
 <!ENTITY newMsgButton.tooltip "Skapa ett nytt meddelande">
 <!ENTITY replyButton.tooltip "Besvara meddelandet">
@@ -576,18 +578,17 @@
 <!ENTITY folderContextSearchMessages.accesskey "S">
 <!ENTITY folderContextProperties.label "Egenskaper…">
 <!ENTITY folderContextProperties.accesskey "a">
+<!ENTITY folderContextSettings.label "Inställningar…">
+<!ENTITY folderContextSettings.accesskey "I">
 
-<!---SearchBar-->
+<!-- SearchBar -->
 <!-- also used by addressbook -->
 <!ENTITY SearchSubjectOrFrom.label "Ämne eller Från innehåller:">
 <!ENTITY SearchSubjectOrFrom.accesskey "Ä">
-<!ENTITY SearchNameOrEmail.label "Namn eller meddelande innehåller:">
+<!ENTITY SearchNameOrEmail.label "Namn eller adress innehåller:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
 <!ENTITY advancedButton.label "Avancerat…">
 <!ENTITY advancedButton.accesskey "c">
-
-<!ENTITY clearButton.label "Rensa">
-<!ENTITY clearButton.accesskey "R">
 
 <!ENTITY all.label "Alla">
 <!ENTITY all.accesskey "A">

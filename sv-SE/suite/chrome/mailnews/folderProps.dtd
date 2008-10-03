@@ -63,8 +63,8 @@
 <!ENTITY retentionDownloadMsg.label              "Meddelanden äldre än">
 <!ENTITY retentionDownloadMsg.accesskey          "M">
 <!ENTITY retentionCleanup.label                  "Behåll:">
-<!ENTITY retentionKeepMsg.label                  "Meddelanden som kommit de senaste">
-<!ENTITY retentionKeepMsg.accesskey              "e">
+<!ENTITY retentionDeleteMsg.label "Ta bort meddelanden äldre än">
+<!ENTITY retentionDeleteMsg.accesskey "e">
 <!ENTITY retentionKeepAll.label                  "Alla meddelanden">
 <!ENTITY retentionKeepAll.accesskey              "l">
 <!ENTITY retentionKeepNew.label                  "De senaste">
@@ -76,12 +76,12 @@
 <!ENTITY folderCheckForNewMessages.label         "Kontrollera om denna mapp har nya meddelanden">
 <!ENTITY folderCheckForNewMessages.accesskey     "K">
 
-<!ENTITY offlineFolder.check.label                          "Den här mappen ska kunna användas när jag arbetar i nedkopplat läge">
+<!ENTITY offlineFolder.check.label                          "Den här mappen ska kunna användas nedkopplad">
 <!ENTITY offlineFolder.check.accesskey           "D">
 <!ENTITY offlineFolder.button.label                         "Hämta nu">
 <!ENTITY offlineFolder.button.accesskey          "ä">
 
-<!ENTITY selectofflineNewsgroup.check.label                 "Den här diskussionsgruppen ska kunna användas när jag arbetar i nedkopplat läge">
+<!ENTITY selectofflineNewsgroup.check.label                 "Den här diskussionsgruppen ska kunna användas nedkopplad">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "e">
 <!ENTITY UseDefaultofflineNewsgroup.check.label             "Använd förinställning för kontot ">
 <!ENTITY offlineNewsgroup.button.label                      "Hämta nu">

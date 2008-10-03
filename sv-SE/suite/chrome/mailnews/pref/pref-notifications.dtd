@@ -51,7 +51,7 @@
 <!ENTITY preview.accesskey                "y">
 <!ENTITY systemsound.label                "Systemljudsignal för ny e-post">
 <!ENTITY systemsound.accesskey            "m">
-<!ENTITY customsound.label                "Egen .wav-fil">
+<!ENTITY customsound.label                "Egen ljudfil">
 <!ENTITY customsound.accesskey            "E">
 <!ENTITY browse.label                     "Välj…">
 <!ENTITY browse.accesskey                 "ä">

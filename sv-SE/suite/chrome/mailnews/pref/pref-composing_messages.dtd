@@ -45,7 +45,9 @@
 <!ENTITY asAttachment.label                   "Som bilaga">
 <!ENTITY asAttachment.accesskey               "g">
 
-<!ENTITY warnOnSendAccelKey.label             "Varna innan meddelanden skickas med tangentbordets genvägar">
+<!ENTITY replyQuoteInline.label               "Citera infogade bilagor i svar">
+<!ENTITY replyQuoteInline.accesskey           "C">
+<!ENTITY warnOnSendAccelKey.label             "Varna innan meddelanden skickas med kortkommandon">
 <!ENTITY warnOnSendAccelKey.accesskey         "V">
 <!-- LOCALIZATION NOTE (autoSave.label): This will concatenate with
      "xxx minutes", using a number and (autoSaveEnd.label). -->

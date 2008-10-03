@@ -53,12 +53,9 @@
 <!ENTITY color.label                      "Färg:">
 <!ENTITY color.accesskey                  "ä">
 <!ENTITY displayPlainText.caption         "Oformaterade textmeddelanden">
-<!ENTITY plainTextFont.label              "Använd teckensnitt med:">
+<!ENTITY fontPlainText.label              "Teckensnitt:">
+<!ENTITY fontPlainText.accesskey          "c">
 <!ENTITY displayQuoted.label              "Inställningar för citerad text:">
-<!ENTITY fixedWidth.label                 "Teckensnitt med fast breddsteg">
-<!ENTITY fixedWidth.accesskey             "f">
-<!ENTITY variableWidth.label              "Teckensnitt med variabelt breddsteg">
-<!ENTITY variableWidth.accesskey          "v">
 <!ENTITY readingMessagesHeader.label      "Inkommande meddelanden">
 <!ENTITY messageWrapping.label            "Radbrytning">
 <!ENTITY wrapInMsg.label                  "Radbryt text till fönsterbredd">
@@ -75,7 +72,7 @@
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
 <!ENTITY markAsReadDelay.label           "Efter visning under">
-<!ENTITY markAsReadDelay.accesskey       "u">
+<!ENTITY markAsReadDelay.accesskey       "f">
 <!ENTITY secondsLabel.label              "sekunder">
 
 <!ENTITY openingMessages.label            "Öppna meddelanden i:">
@@ -85,4 +82,5 @@
 <!ENTITY existingWindowRadio.accesskey    "e">
 <!ENTITY disableContent.label             "Blockera bilder och annat innehåll från externa källor">
 <!ENTITY disableContent.accesskey         "B">
-
+<!ENTITY showCondensedAddresses.label     "Visa endast skärmnamn på personer i min adressbok">
+<!ENTITY showCondensedAddresses.accesskey "V">

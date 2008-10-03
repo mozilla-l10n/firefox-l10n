@@ -10,3 +10,7 @@
 <!ENTITY systemPrefCheck.label      "Använd inställningar från systemet">
 <!ENTITY systemPrefCheck.accesskey  "ä">
 <!ENTITY systemPref.desc            "Med detta valalternativ tar &brandShortName; över inställningar från systemet. Dessa systeminställningar kommer att åsidosätta &brandShortName;s inställningar.">
+
+<!ENTITY prefCheckDefault.caption   "Systemintegrering">
+<!ENTITY prefCheckDefaultClient.label "Kontrollera inställningar för förvalda program vid uppstart">
+<!ENTITY prefCheckDefaultClient.accesskey "K">

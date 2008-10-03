@@ -1,0 +1,9 @@
+<!ENTITY defaultClient.title  "Förvalt program">
+<!ENTITY defaultClient.intro  "Använd &brandShortName; som förvalt program för:">
+
+<!ENTITY browser.label "Webbläsare">
+<!ENTITY email.label "E-post">
+<!ENTITY newsgroups.label "Diskussionsgrupper">
+
+<!ENTITY checkOnStartup.label "Kontrollera alltid detta när du startar &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "K">

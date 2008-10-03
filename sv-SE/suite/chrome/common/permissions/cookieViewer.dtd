@@ -7,7 +7,9 @@
 <!ENTITY     treehead.cookieexpires.label   "Förfaller"> 
 <!ENTITY     treehead.infoselected.label    "Information om den valda kakan">
 <!ENTITY     button.removecookie.label      "Ta bort kakan">
+<!ENTITY     button.removecookie.accesskey  "T">
 <!ENTITY     button.removeallcookies.label  "Ta bort alla kakor">
+<!ENTITY     button.removeallcookies.accesskey "a">
 
 <!ENTITY     props.name.label               "Namn:">
 <!ENTITY     props.value.label              "Information:">
@@ -20,14 +22,21 @@
 <!ENTITY     treehead.status.label          "Status">
 <!ENTITY     windowtitle.label              "Kakhanteraren">
 <!ENTITY     buttonaccept.label             "Stäng">
+<!ENTITY     buttonaccept.accesskey         "S">
 
 <!ENTITY     blockSite.label                "Blockera">
+<!ENTITY     blockSite.accesskey            "B">
 <!ENTITY     allowSite.label                "Tillåt">
+<!ENTITY     allowSite.accesskey            "å">
 <!ENTITY     allowSiteSession.label         "Tillfälliga">
+<!ENTITY     allowSiteSession.accesskey     "f">
 <!ENTITY     removepermission.label         "Ta bort">
+<!ENTITY     removepermission.accesskey     "T">
 <!ENTITY     removeallpermissions.label     "Ta bort alla">
+<!ENTITY     removeallpermissions.accesskey "a">
 
 <!ENTITY     canSet.label                   "får lagra kakor">
 <!ENTITY     cannotSet.label                "får inte lagra kakor">
 
-<!ENTITY     checkbox.label                 "Låt inte webbplatser vars kakor du har tagit bort lagra nya kakor">
+<!ENTITY     futureCookies.label            "Låt inte webbplatser vars kakor du har tagit bort lagra nya kakor">
+<!ENTITY     futureCookies.accesskey        "L">

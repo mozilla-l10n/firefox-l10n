@@ -59,8 +59,6 @@
 <!ENTITY lookIn.accesskey                    "S"> 
 <!ENTITY for.label                           "efter:"> 
 <!ENTITY for.accesskey                       "e"> 
-<!ENTITY clearButton.label                   "Rensa">
-<!ENTITY clearButton.accesskey               "a">
 <!ENTITY addressMessageTo.label              "Adressera meddelande till:"> 
 
 <!-- Tooltips items -->  

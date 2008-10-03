@@ -3,8 +3,8 @@
 
 <!ENTITY addAccountButton.label "Lägg till konto…">
 <!ENTITY addAccountButton.accesskey "L">
-<!ENTITY setDefaultButton.label "Ange som standard">
-<!ENTITY setDefaultButton.accesskey "g">
+<!ENTITY setDefaultButton.label "Gör till förvalt">
+<!ENTITY setDefaultButton.accesskey "G">
 <!ENTITY duplicateButton.label "Duplikat">
 <!ENTITY removeButton.label "Ta bort konto">
 <!ENTITY removeButton.accesskey "T">

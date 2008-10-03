@@ -9,8 +9,8 @@
 <!ENTITY deleteButton.accesskey "b">
 <!ENTITY reorderUpButton.label "Flytta upp">
 <!ENTITY reorderUpButton.accesskey "u">
-<!ENTITY reorderDownButton.label "Flytta ner">
-<!ENTITY reorderDownButton.accesskey "r">
+<!ENTITY reorderDownButton.label "Flytta ned">
+<!ENTITY reorderDownButton.accesskey "d">
 <!ENTITY filterHeader.label "Aktiva filterregler körs i följande ordning.">
 <!ENTITY filtersForPrefix.label "Filter för:">
 <!ENTITY filtersForPrefix.accesskey "F">

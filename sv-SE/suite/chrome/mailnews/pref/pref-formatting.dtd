@@ -42,14 +42,14 @@
 <!ENTITY sendMail.label               "Skicka i format">
 <!ENTITY sendMaildesc.label           "Gör så här när meddelanden i HTML-format ska skickas till mottagare som inte är registrerade för att ta emot den här typen av meddelanden:">
 <!ENTITY askMe.label                  "Fråga hur det ska skickas (e-postklienten ber dig att välja ett format)">
-<!ENTITY askMe.accesskey              "a">
+<!ENTITY askMe.accesskey              "F">
 <!ENTITY convertPlain.label           "Konvertera meddelandet till oformaterad text (viss formatering kan gå förlorad)">
 <!ENTITY convertPlain.accesskey       "K">
 <!ENTITY sendHTML.label               "Skicka meddelandet i HTML-format trots allt (vissa mottagare kanske inte kan läsa det)">
 <!ENTITY sendHTML.accesskey           "S">
 <!ENTITY sendBoth.label               "Skicka meddelandet som både oformaterad text och HTML (tar upp mer diskutrymme)">
-<!ENTITY sendBoth.accesskey           "e">
-<!ENTITY override.label               "Du kan åsidosätta inställningarna i ett meddelande via Alternativ-menyn i fönstret för att skriva meddelanden.">
+<!ENTITY sendBoth.accesskey           "c">
+<!ENTITY override.label               "Du kan åsidosätta inställningarna i ett meddelande via menyn Alternativ i fönstret för att skriva meddelanden.">
 <!ENTITY receiveHTML.label            "Om du vet att en viss mottagare kan ta emot e-post som skickas i HTML-format, kan du ändra valet för 'Föredrar att få meddelanden som:' på mottagarens kort i adressboken.">
 
 <!-- Html and Plain Text Domains  -->
@@ -66,18 +66,12 @@
 <!ENTITY DeleteHtmlDomain.accesskey   "b">
 <!ENTITY DeletePlainText.accesskey    "r">
 
-<!-- Add HTML Domain Name -->
-<!ENTITY add.htmltitle                "Lägg till domän">
-<!ENTITY add.htmldomain               "Domän kapabel att ta emot formaterad text (HTML):">
-<!ENTITY add.htmldomain.accesskey     "d">
-<!ENTITY add.plaintexttitle           "Lägg till domän">
-<!ENTITY add.plaintextdomain          "Domän som bara ska ha oformaterad text:">
-<!ENTITY add.plaintext.accesskey      "d">
+<!-- Add Domain Name -->
+<!ENTITY add.htmltitle                "Lägg till HTML-domännamn">
+<!ENTITY add.htmldomain               "HTML-domännamn:">
+<!ENTITY add.plaintexttitle           "Lägg till textdomännamn">
+<!ENTITY add.plaintextdomain          "Textdomännamn:">
 
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
 <!ENTITY domainnameError.title        "Felaktigt domännamn">
-<!ENTITY duplicationError.label       "Domännamnet @string@ är redan upplagt i listan.">
-
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY dualEntryError.label         "Domännamnet kan inte finnas i båda listorna samtidigt. Domännamnet @string@ är redan upplagt.">
-
+<!ENTITY invalidEntryError.label      "Domännamnet @string@ är ogiltigt och kommer att ignoreras. Giltiga domännamns måste ha minst en '.' och bokstäver på var sida om den.">

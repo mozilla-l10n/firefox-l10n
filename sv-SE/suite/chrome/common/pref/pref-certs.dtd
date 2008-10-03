@@ -11,21 +11,22 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is Mozilla Communicator.
+   - The Original Code is mozilla.org code.
    -
    - The Initial Developer of the Original Code is
    - Netscape Communications Corp.
-   - Portions created by the Initial Developer are Copyright (C) 1999
+   - Portions created by the Initial Developer are Copyright (C) 2001
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Stephen Lamm <slamm@netscape.com>
+   -   Bob Lord <lord@netscape.com>
+   -   Terry Hayes <thayes@netscape.com>
    -   Mikael Hedberg <hedberg@novasphere.net>
-   -   Lars P M <larspeemm@netscape.net>
+   -   Hasse Wallanger <jasajudeju@telia.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
    - in which case the provisions of the GPL or the LGPL are applicable instead
    - of those above. If you wish to allow use of your version of this file only
    - under the terms of either the GPL or the LGPL, and not to allow others to
@@ -37,22 +38,18 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- Translater says: Ignore the NOTE below -->
-<!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the term "Character Encoding"  -->
-<!ENTITY charset.customize.title.label			    "Anpassa teckenkodning">
-<!ENTITY charset.customize.left.header			    "Teckenkodning">
-<!ENTITY charset.customize.right.header			    "Välj teckenkodningar som stöds">
-<!ENTITY charset.customize.current.label        "Aktiva teckenkodningar">
-<!ENTITY charset.customize.reorder.label        "Ordna om">
-<!ENTITY charset.customize.remove.label         "Ta bort">
-<!ENTITY charset.customize.additional.label     "Tillgängliga teckenkodningar">
-<!ENTITY charset.customize.add.label            "Lägg till">
-<!ENTITY charset.customize.cancel.label		    "Avbryt">
-<!ENTITY charset.customize.save.label           "Spara">
-<!ENTITY charset.customize.save.popup           "Starta om webbläsaren så att ändringarna träder i kraft…">
-<!ENTITY charset.customize.moveUp.label         "Upp">
-<!ENTITY charset.customize.moveUp.accesskey     "u">
-<!ENTITY charset.customize.moveDown.label       "Ned">
-<!ENTITY charset.customize.moveDown.accesskey   "d">
+<!ENTITY  resetsettings.label      "Återställ inställningar">
+<!ENTITY  resetpreferences.label   "Återställ inställningar…">
+<!ENTITY  managecerts.caption      "Hantera certifikat">
+<!ENTITY  managecerts.text         "Använd Certifikathanteraren för att hantera dina personliga certifikat samt andras certifikat och certifikatutfärdare.">
+<!ENTITY  managecerts.button       "Hantera certifikat…">
+<!ENTITY  managecerts.accesskey    "c">
+<!ENTITY  managedevices.caption    "Hantera säkerhetsenheter">
+<!ENTITY  managedevices.text       "Klicka på denna knapp för att hantera säkerhetsenheter (som t.ex. smartkort).">
+<!ENTITY  managedevices.button     "Hantera säkerhetsenheter…">
+<!ENTITY  managedevices.accesskey  "s">
 
+<!ENTITY  ssl.label                "SSL">
 
+<!ENTITY  pref.certs.title         "Certifikat">
+<!ENTITY  certs.label              "Certifikat">

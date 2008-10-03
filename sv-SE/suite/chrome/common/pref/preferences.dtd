@@ -1,6 +1,6 @@
-<!-- extracted from content/preftree.xul -->
-
 <!--LOCALIZATION NOTE : FILE Lists preferences categories that appear on the left of the preferences dialog -->
+<!ENTITY prefWindow.title "Inställningar">
+<!ENTITY categoryHeader "Kategori">
 <!ENTITY appear.label "Utseende">
 <!ENTITY content.label "Innehåll">
 <!ENTITY fonts.label "Teckensnitt">
@@ -20,6 +20,11 @@
 <!ENTITY cookies.label "Kakor">
 <!ENTITY images.label "Bilder">
 <!ENTITY popups.label "Extrafönster">
+<!ENTITY passwords.label "Lösenord">
+<!ENTITY masterpass.label "Huvudlösenord">
+<!ENTITY ssl.label "SSL">
+<!ENTITY certs.label "Certifikat">
+<!ENTITY validation.label "Validering">
 <!ENTITY advance.label "Avancerat">
 <!ENTITY down.label "Hämta">
 <!ENTITY cache.label "Cache">

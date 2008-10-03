@@ -1,4 +1,4 @@
-<!ENTITY pref.popups.title              "Extrafönster (popup)">
+<!ENTITY pref.popups.title              "Extrafönster">
 
 <!ENTITY pref.popups.caption            "Extrafönster">
 
@@ -12,13 +12,18 @@
 
 <!ENTITY whenBlock.description          "När ett extrafönster har blockerats:">
 <!ENTITY playSound.label                "Ge en ljudsignal:">
-<!ENTITY playSound.accesskey            "l">
+<!ENTITY playSound.accesskey            "e">
+<!ENTITY systemSound.label              "Systemets pipsignal">
+<!ENTITY systemSound.accesskey          "S">
+<!ENTITY customSound.label              "Anpassad ljudfil">
+<!ENTITY customSound.accesskey          "A">
 
 <!ENTITY selectSound.label              "Välj…">
 <!ENTITY selectSound.accesskey          "ä">
 <!ENTITY previewSound.label             "Lyssna">
 <!ENTITY previewSound.accesskey         "y">
-<!ENTITY selectSound.title              "Välj en ljudfil">
+<!ENTITY selectSound.title              "Välj ljud för fönsterblockering">
+<!ENTITY selectSound.filter             "Ljud">
 
 <!ENTITY displayIcon.label              "Visa en ikon i statusfältet">
 <!ENTITY displayIcon.accesskey          "V">

@@ -1,37 +1,23 @@
 <!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
 
 <!ENTITY  languages.customize.prefLangDescript          "Webbsidor kan ibland finnas på mer än ett språk. Ange prioritetsordning för språk på webbsidorna.">
-<!ENTITY languages.customize.lHeader                    "Språk">
-<!ENTITY languages.customize.rHeader                    "Språk på vilka webbsidor visas">
+<!ENTITY languages.customize.title                      "Språk">
 <!ENTITY langtitle.label                                "Språk för webbsidor">
 <!ENTITY languages.customize.prefAddLangDescript        "Markera det eller de språk du vill lägga till.">
-<!ENTITY languages.customize.engOrder.label             "1">
-<!ENTITY languages.customize.engOption.label            "Engelska">
 <!ENTITY languages.customize.addButton.label            "Lägg till…">
 <!ENTITY languages.customize.addButton.accesskey        "L">
 <!ENTITY languages.customize.deleteButton.label         "Ta bort">
-<!ENTITY languages.customize.deleteButton.accesskey     "T">
-<!ENTITY languages.customize.title.label			    "Anpassa språk">
-<!ENTITY languages.customize.add.title.label		    "Lägg till språk">
-<!ENTITY languages.customize.left.header			    "Teckenkodning">
-<!ENTITY charset.customize.right.header		    "Välj teckenkodningar som stöds">
+<!ENTITY languages.customize.deleteButton.accesskey     "b">
+<!ENTITY languages.customize.add.title.label		"Lägg till språk">
 <!ENTITY languages.customize.available.label            "Språk:">
 <!ENTITY languages.customize.active.label               "Språk i prioritetsordning:">
-<!ENTITY languages.customize.reorder.label              "Ordna om">
-<!ENTITY languages.customize.remove.label               "Ta bort">
-<!ENTITY languages.customize.additional.label           "Tillgängliga teckenuppsättningar">
-<!ENTITY languages.customize.add.label                  "Lägg till">
 <!ENTITY languages.customize.others.label               "Övriga:">
 <!ENTITY languages.customize.others.accesskey           "Ö">
-<!ENTITY languages.customize.Charset.grouplabel         "Teckenkodning">
-<!ENTITY languages.customize.DefaultCharset.label       "Förinställd teckenkodning:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "F">
+<!ENTITY languages.customize.Charset.grouplabel         "Förinställd teckenkodning">
+<!ENTITY languages.customize.DefaultCharset.label       "Teckenkodning:">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "T">
 <!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
 <!ENTITY languages.customize.others.examples            "t.ex.: en-bz, ar-jo">
-<!ENTITY languages.customize.cancel.label		        "Avbryt">
-<!ENTITY languages.customize.save.label                 "Spara">
-<!ENTITY languages.customize.ok.label                   "OK">
-<!ENTITY languages.customize.save.popup                 "Starta om webbläsaren så att ändringarna träder i kraft…">
 <!ENTITY languages.customize.moveUp.label               "Flytta upp">
 <!ENTITY languages.customize.moveUp.accesskey           "u">
 <!ENTITY languages.customize.moveDown.label             "Flytta ned">

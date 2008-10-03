@@ -69,7 +69,12 @@
 <!ENTITY highPriorityCmd.label "Hög">
 <!ENTITY highestPriorityCmd.label "Högsta">
 
-<!ENTITY conditionDesc.label "För inkommande meddelanden som:">
+<!ENTITY contextDesc.label "Använd filter vid:">
+<!ENTITY contextDesc.accesskey "A">
+<!ENTITY contextIncoming.label "E-posthämtning">
+<!ENTITY contextManual.label "Manuell körning">
+<!ENTITY contextBoth.label "E-posthämtning eller manuell körning">
+
 <!ENTITY filterActionDesc.label "Gör följande:">
 <!ENTITY filterActionDesc.accesskey "G">
 
@@ -85,7 +90,7 @@
 <!ENTITY markMessageStarred.label "Märk som flaggat">
 <!ENTITY labelMessage.label "Etikettera meddelandet som">
 <!ENTITY setPriority.label "Sätt prioritet till">
-<!ENTITY addTag.label "Märk med etikett">
+<!ENTITY addTag.label "Förse med etikett">
 <!ENTITY setJunkScore.label "Sätt skräppoststatus till:">
 <!ENTITY deleteMessage.label "Ta bort meddelandet">
 <!ENTITY deleteFromPOP.label "Ta bort från POP-server">

@@ -49,7 +49,7 @@
 <!ENTITY findButton.accesskey              "S">
 <!ENTITY directorySecure.label             "Använd säker anslutning (SSL)">
 <!ENTITY directorySecure.accesskey         "L">
-<!ENTITY directoryLogin.label              "Bind DN">
+<!ENTITY directoryLogin.label              "Bind-DN">
 <!ENTITY directoryLogin.accesskey          "i">
 <!ENTITY advancedOptionsButton.label       "Avancerade alternativ">
 <!ENTITY advancedOptionsButton.accesskey   "c">
@@ -67,8 +67,8 @@
 <!ENTITY scopeOneLevel.accesskey           "å">
 <!ENTITY scopeSubtree.label                "Rekursivt">
 <!ENTITY scopeSubtree.accesskey            "u">
-<!ENTITY return.label                      "Ge aldrig fler resultat än">
-<!ENTITY return.accesskey                  "r">
+<!ENTITY return.label                      "Returnera inte fler än">
+<!ENTITY return.accesskey                  "R">
 <!ENTITY results.label                     "resultat">
 <!ENTITY offlineText.label                 "Du kan hämta en lokal kopia av denna katalog så att den är tillgänglig även när du arbetar i nedkopplat läge.">
 <!-- Localization note: this is here because the width of the dialog 

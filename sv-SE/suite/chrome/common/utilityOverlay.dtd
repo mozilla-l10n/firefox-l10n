@@ -69,14 +69,16 @@
 <!ENTITY aboutCommPluginsCmd.label			"Om insticksmoduler">
 <!ENTITY aboutCommPluginsCmd.accesskey		"m">
 
-<!ENTITY direct.label                       "Uppkopplad (proxy: ingen)">
-<!ENTITY direct.accesskey                   "i">
-<!ENTITY manual.label                       "Uppkopplad (proxy: manuell)">
-<!ENTITY manual.accesskey                   "m">
-<!ENTITY pac.label                          "Uppkopplad (proxy: auto)">
-<!ENTITY pac.accesskey                      "a">
-<!ENTITY wpad.label                         "Uppkopplad (proxy: automatisk)">
-<!ENTITY wpad.accesskey                     "u">
+<!ENTITY direct.label                                   "Uppkopplad (proxy: ingen)">
+<!ENTITY direct.accesskey                               "i">
+<!ENTITY manual.label                                   "Uppkopplad (proxy: manuell)">
+<!ENTITY manual.accesskey                               "m">
+<!ENTITY pac.label                                      "Uppkopplad (proxy: auto)">
+<!ENTITY pac.accesskey                                  "a">
+<!ENTITY wpad.label                                     "Uppkopplad (proxy: automatisk)">
+<!ENTITY wpad.accesskey                                 "u">
+<!ENTITY system.label                                   "Uppkopplad (proxy: systemproxy)">
+<!ENTITY system.accesskey                               "s">
 
 <!ENTITY proxy.label                        "Proxykonfiguration…">
 <!ENTITY proxy.accesskey                    "P">

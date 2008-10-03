@@ -25,4 +25,3 @@
 <!ENTITY prefetchTitle.label          "Förhandshämtning av länkade sidor">
 <!ENTITY enablePrefetch.label "Förhandshämta webbsidor vid inaktivitet, så att länkade sidor i för förhandshämtning anpassade webbsidor kan läsas in snabbare.">
 <!ENTITY enablePrefetch.accesskey     "F">
-<!-- <!ENTITY prefetchDesc.label           "If you check this item, &brandShortName; will follow special directives from websites to prefetch content while the browser is idle.  Websites designed to take advantage of this feature will appear to load quicker."> -->

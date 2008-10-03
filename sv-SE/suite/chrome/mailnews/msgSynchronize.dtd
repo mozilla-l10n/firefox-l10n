@@ -9,7 +9,7 @@
 <!ENTITY syncTypeNews.accesskey "g">
 <!ENTITY sendMessage.label "Skicka meddelanden som inte har skickats">
 <!ENTITY sendMessage.accesskey "S">
-<!ENTITY workOffline.label "Arbeta i nedkopplat läge när hämta/synkronisering är klar">
+<!ENTITY workOffline.label "Arbeta i nedkopplat läge när hämta/synkronisera är klart">
 <!ENTITY workOffline.accesskey "A">
 <!ENTITY selectButton.label "Välj…">
 <!ENTITY selectButton.accesskey "V">
