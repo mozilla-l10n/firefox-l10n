@@ -35,6 +35,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY time.midnight "자정" >
+<!ENTITY time.noon "정오" >
 
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
