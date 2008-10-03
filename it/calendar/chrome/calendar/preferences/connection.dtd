@@ -37,8 +37,8 @@
 <!ENTITY connectionsDialog.title "Impostazioni connessione">
 <!ENTITY window.width "37em">
 <!ENTITY window.macWidth "39em">
-<!ENTITY proxyTitle.label "Configurazione dei proxy per l'accesso a internet">
-<!ENTITY directTypeRadio.label "Connessione diretta a internet">
+<!ENTITY proxyTitle.label "Configurazione dei proxy per l'accesso a Internet">
+<!ENTITY directTypeRadio.label "Connessione diretta a Internet">
 <!ENTITY directTypeRadio.accesskey "d">
 <!ENTITY WPADTypeRadio.label "Trova automaticamente le impostazioni del proxy per questa rete">
 <!ENTITY WPADTypeRadio.accesskey "v">

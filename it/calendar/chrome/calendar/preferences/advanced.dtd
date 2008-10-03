@@ -20,6 +20,7 @@
    -
    - Contributor(s):
    -   Matthew Willis <lilmatt@mozilla.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
    -   Iacopo Benesperi
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -38,9 +39,10 @@
 <!ENTITY pref.calendar.advanced.generalTab.label "Generale">
 <!ENTITY pref.calendar.advanced.passwordsTab.label "Password">
 <!ENTITY pref.calendar.advanced.updateTab.label "Aggiorna">
+<!ENTITY pref.calendar.advanced.encryptionTab.label "Cifratura">
 <!ENTITY pref.calendar.advanced.showConnections.label "Impostazioni connessione…">
 <!ENTITY pref.calendar.advanced.showConnections.accesskey "o">
-<!ENTITY pref.calendar.advanced.proxiesInfo.label "Determina come &brandShortName; si connette ad internet">
+<!ENTITY pref.calendar.advanced.proxiesInfo.label "Determina come &brandShortName; si connette a Internet">
 <!ENTITY pref.calendar.advanced.configEdit.caption "Configurazione avanzata">
 <!ENTITY pref.calendar.advanced.configEdit.button "Editor di configurazione…">
 <!ENTITY pref.calendar.advanced.configEdit.accesskey "E">
@@ -56,7 +58,7 @@
 <!ENTITY pref.calendar.advanced.update.enableAppUpdate.label "&brandShortName;">
 <!ENTITY pref.calendar.advanced.update.enableAppUpdate.accesskey "S">
 <!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.label "Componenti aggiuntivi installati">
-<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.accesskey "o">
+<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.accesskey "C">
 <!ENTITY pref.calendar.advanced.update.whenUpdatesFound.label "Quando viene trovato un aggiornamento per &brandShortName;:">
 <!ENTITY pref.calendar.advanced.update.modeAskMe.label "Chiedi cosa fare">
 <!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "h">
@@ -65,4 +67,23 @@
 <!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "Avvisa se verranno disattivati dei componenti aggiuntivi">
 <!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "v">
 <!ENTITY pref.calendar.advanced.update.showHistory.label "Mostra cronologia aggiornamenti">
-<!ENTITY pref.calendar.advanced.update.showHistory.accesskey "n">
+<!ENTITY pref.calendar.advanced.update.showHistory.accesskey "M">
+<!ENTITY pref.calendar.advanced.encryption.protocols.label "Protocolli">
+<!ENTITY pref.calendar.advanced.encryption.useSSL3.label "Usa SSL 3.0">
+<!ENTITY pref.calendar.advanced.encryption.useSSL3.accesskey "3">
+<!ENTITY pref.calendar.advanced.encryption.useTLS1.label "Usa TLS 1.0">
+<!ENTITY pref.calendar.advanced.encryption.useTLS1.accesskey "1">
+<!ENTITY pref.calendar.advanced.encryption.certificates.label "Certificati">
+<!ENTITY pref.calendar.advanced.encryption.certSelection.description "Quando un server richiede il mio certificato personale:">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto "selezionane uno automaticamente">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto.accesskey "s">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask "chiedimi ogni volta">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "c">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.label "Visualizza certificati">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.accesskey "V">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "Liste revoche">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.accesskey "L">
+<!ENTITY pref.calendar.advanced.encryption.verify2.label "Validazione">
+<!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "V">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label "Dispositivi di sicurezza">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "D">

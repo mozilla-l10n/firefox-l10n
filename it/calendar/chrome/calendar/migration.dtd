@@ -39,4 +39,3 @@
 <!ENTITY migration.importing "Importazione">
 <!ENTITY migration.list.description "&brandShortName; può importare dati dai calendari di molte applicazioni famose. Sono stati trovati sul proprio computer dati delle seguenti applicazioni. Per favore selezionare da quali di queste si vogliono importare dei dati.">
 <!ENTITY migration.progress.description "Importazione dati selezionati">
-<!ENTITY migration.finished.description "Importazione dati completata.">
