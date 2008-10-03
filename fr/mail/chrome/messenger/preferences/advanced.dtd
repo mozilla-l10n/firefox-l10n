@@ -29,9 +29,6 @@
 <!ENTITY reuseExpRadio1.accesskey      "n">
 <!ENTITY reuseExpRadio2.label          "un nouvel onglet de message">
 <!ENTITY reuseExpRadio2.accesskey      "o">
-<!ENTITY connectionTimeout.label       "Temps limite pour la connexion : ">
-<!ENTITY connectionTimeout.accesskey   "T">
-<!ENTITY connectionSeconds.label       "secondes">
 <!ENTITY configEditDesc.label          "Configuration avancée">
 <!ENTITY configEdit.label              "Éditeur de configuration…">
 <!ENTITY configEdit.accesskey          "d">
@@ -57,9 +54,9 @@
 <!ENTITY showUpdates.accesskey          "A">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showConnections.label         "Paramètres de connexion…">
-<!ENTITY showConnections.accesskey     "o">
-<!ENTITY proxiesInfo.label             "Détermine comment &brandShortName; accède à Internet.">
+<!ENTITY showSettings.label            "Paramètres…">
+<!ENTITY showSettings.accesskey        "o">
+<!ENTITY proxiesConfigure.label        "Détermine comment &brandShortName; accède à Internet">
 <!ENTITY connectionsInfo.caption       "Connexion">
 <!ENTITY offlineInfo.caption           "Hors ligne">
 <!ENTITY offlineInfo.label             "Configurer les paramètres hors ligne">
