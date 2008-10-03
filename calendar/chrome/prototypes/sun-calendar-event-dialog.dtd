@@ -191,7 +191,7 @@
 <!ENTITY event.url.label                                  "Related hivatkozás:" >
 <!ENTITY event.priority2.label                            "Sürgősség:">
 
-<!ENTITY event.reminder.none.label                        "Nincs emlékeztető" >
+<!ENTITY event.reminder.none.label                        "Nincs emlékeztető " >
 <!ENTITY event.reminder.5minutes.before.label             "5 perccel előtte" >
 <!ENTITY event.reminder.10minutes.before.label            "10 perccel előtte" >
 <!ENTITY event.reminder.15minutes.before.label            "15 perccel előtte" >
@@ -259,6 +259,16 @@
 <!ENTITY repeat.units.years.both                             "évente" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Minden" >
 <!ENTITY event.recurrence.pattern.yearly.every.weekday.label "Minden" >
+
+<!-- LOCALIZATON NOTE
+     Some languages use a preposition when describing dates:
+     Portuguese: 6 de Setembro
+     English: 6 [of] September
+     event.recurrence.pattern.yearly.of.label is "of" in
+     Edit recurrence window -> Recurrence pattern -> Repeat yearly
+-->
+<!ENTITY event.recurrence.pattern.yearly.of.label            "." >
+
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "Január" >
 <!ENTITY event.recurrence.pattern.yearly.month.2.label       "Február" >
 <!ENTITY event.recurrence.pattern.yearly.month.3.label       "Március" >
@@ -327,7 +337,7 @@
 <!ENTITY invite.title.label              "Résztvevők meghívása">
 <!ENTITY event.organizer.label           "Szervező">
 <!ENTITY event.freebusy.suggest.slot     "Időablak javasolása:">
-<!ENTITY event.freebusy.next.slot        "Következő hely" >
+<!ENTITY event.freebusy.next.slot        "Következő hely " >
 <!ENTITY event.freebusy.previous.slot    " Előző hely" >
 <!ENTITY event.freebusy.zoom             "Nagyítás:">
 <!ENTITY event.freebusy.plus             "Következő óra" >
