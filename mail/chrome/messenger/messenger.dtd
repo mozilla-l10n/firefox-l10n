@@ -25,19 +25,21 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Txantiloia">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
-<!ENTITY getNewMsgCmd.label "Hartu Mezu Berriak">
-<!ENTITY getNewMsgCmd.accesskey "H">
 <!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "Hartu honen Mezu Berriak:">
 <!ENTITY getNewMsgForCmd.accesskey "o">
-<!ENTITY getAllNewMsgCmd.label "Mezu Berri Guztiak Hartu">
-<!ENTITY getAllNewMsgCmd.key "t">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "All Accounts">
+<!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Current Account">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
 <!ENTITY getNextNMsgCmd.label "Hartu Hurrengo 500 Berrien Mezuak">
 <!ENTITY getNextNMsgCmd.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Bidali Bidaligabeko Mezuak">
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Harpidetu...">
 <!ENTITY subscribeCmd.accesskey "r">
+<!ENTITY deleteFolder.label "Delete Folder">
+<!ENTITY deleteFolder.accesskey "e">
 <!ENTITY renameFolder.label "Izena Aldatu Karpetari...">
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2">
@@ -92,6 +94,8 @@
 <!ENTITY selectThreadCmd.label "Haria">
 <!ENTITY selectThreadCmd.accesskey "H">
 <!ENTITY selectThreadCmd.key "a">
+<!ENTITY selectFlaggedCmd.label "Starred Messages">
+<!ENTITY selectFlaggedCmd.accesskey "S">
 <!ENTITY menuFavoriteFolder.label "Karpeta Gogokoena">
 <!ENTITY menuFavoriteFolder.accesskey "a">
 <!ENTITY folderPropsCmd.label "Propietateak...">
@@ -343,6 +347,9 @@
 <!ENTITY killThreadMenu.label "Ezikusi Haria">
 <!ENTITY killThreadMenu.accesskey "E">
 <!ENTITY killThreadMenu.key "k">
+<!ENTITY killSubthreadMenu.label "Ignore Subthread">
+<!ENTITY killSubthreadMenu.accesskey "S">
+<!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Ikusi Haria">
 <!ENTITY watchThreadMenu.accesskey "I">
 <!ENTITY watchThreadMenu.key "w">
@@ -408,8 +415,6 @@
 <!ENTITY addressBookCmd.label "Helbide Liburua">
 <!ENTITY addressBookCmd.accesskey "h">
 <!ENTITY addressBookCmd.commandkey "2">
-<!ENTITY junkMailCmd.label "Zabor Posta Kontrolak...">
-<!ENTITY junkMailCmd.accesskey "Z">
 <!ENTITY runJunkControls.label "Zabor-posta Kontrolak Karpetan Aplikatu...">
 <!ENTITY runJunkControls.accesskey "p">
 <!ENTITY deleteJunk.label "Ezabatu Karpetan dauden Zabor-mezuak">
@@ -420,23 +425,10 @@
 <!ENTITY filtersCmd.accesskey "I">
 <!ENTITY filtersApply.label "Iragazkiak Exekutatu Aukeratutako Karpetan">
 <!ENTITY filtersApply.accesskey "R">
-<!-- Help Menu -->
-
-<!ENTITY helpMenu.label "Laguntza">
-<!ENTITY helpMenu.accesskey "L">
-<!-- LOCALIZATION NOTE some localizations of Windows use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label "Laguntza">
-<!ENTITY helpMenuWin.accesskey "L">
-<!ENTITY releaseCmd.label "Bertsio Oharrak">
-<!ENTITY releaseCmd.accesskey "R">
-<!ENTITY hintsAndTips.label "&brandFullName; Laguntza">
-<!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY hintsAndTips.accesskey "l">
-<!ENTITY updateCmd.label "Eguneraketak Bilatu...">
-<!ENTITY updateCmd.accesskey "l">
-<!ENTITY aboutCmd.label "&brandFullName;(r)i buruz">
-<!ENTITY aboutCmd.accesskey "B">
+<!ENTITY filtersApplyToSelection.label "Run Filters on Selected Messages">
+<!ENTITY filtersApplyToSelection.accesskey "S">
+<!ENTITY filtersApplyToMessage.label "Run Filters on Message">
+<!ENTITY filtersApplyToMessage.accesskey "s">
 <!-- Mail Toolbar -->
 
 <!ENTITY getMsgButton.label "Hartu Posta">
@@ -450,6 +442,7 @@
 <!ENTITY backButton1.label "Back">
 <!ENTITY goForwardButton1.label "Forward">
 <!ENTITY deleteButton.label "Ezabatu">
+<!ENTITY undeleteButton.label "Undelete">
 <!ENTITY markButton.label "Markatu">
 <!ENTITY printButton.label "Inprimatu">
 <!ENTITY stopButton.label "Gelditu">
@@ -462,11 +455,15 @@
 <!ENTITY mailViewsToolbarItem.title "Posta Bistaratzeak">
 <!ENTITY folderLocationToolbarItem.title "Karpeta Kokapena">
 <!ENTITY tagButton.label "Etiketa">
+<!ENTITY compactButton.label "Compact">
 <!-- Mail Toolbar Tooltips-->
 
 <!ENTITY advancedButton.tooltip "Helbide bilaketa aurreratua">
 <!ENTITY clearButton.tooltip "Bilaketa irizpidea garbitu eta sarrera guztiak erakutsi">
 <!ENTITY getMsgButton.tooltip "Hartu mezu berriak">
+<!ENTITY getAllNewMsgCmd.label "Mezu Berri Guztiak Hartu">
+<!ENTITY getAllNewMsgCmd.accesskey "G">
+<!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "Sortu mezu berria">
 <!ENTITY replyButton.tooltip "Erantzun mezuari">
 <!ENTITY replyAllButton.tooltip "Erantzun bidaltzaileari eta hartzaile guztiei">
@@ -477,6 +474,7 @@
 <!ENTITY goForwardButton.tooltip "Mezu bat aurrera Joan">
 <!ENTITY goBackButton.tooltip "Mezu bat atzera Joan">
 <!ENTITY deleteButton.tooltip "Ezabatu hautatutako mezua edo karpeta">
+<!ENTITY undeleteButton.tooltip "Undelete selected message">
 <!ENTITY markButton.tooltip "Markatu mezuak">
 <!ENTITY printButton.tooltip "Inprimatu mezu hau">
 <!ENTITY stopButton.tooltip "Gelditu uneko transferentzia">
@@ -484,6 +482,7 @@
 <!ENTITY notJunkButton.tooltip "Markatu aukeratutako mezuak ez zabor-posta gisa">
 <!ENTITY addressBookButton.tooltip "Joan helbide liburura">
 <!ENTITY tagButton.tooltip "Etiketen mezuak">
+<!ENTITY compactButton.tooltip "Remove deleted messages from selected folder">
 <!-- Tags Menu Popup -->
 
 <!ENTITY addNewTag.label "Etiketa Berria...">
@@ -528,6 +527,8 @@
 <!ENTITY folderContextProperties.accesskey "P">
 <!ENTITY folderContextFavoriteFolder.label "Karpeta Gogokoena">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
+<!ENTITY folderContextSettings.label "Settings…">
+<!ENTITY folderContextSettings.accesskey "e">
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label "Izena edo ePostak badauka:">
@@ -540,6 +541,7 @@
 <!ENTITY searchFromMenu.label "From">
 <!ENTITY searchSubjectOrFromMenu.label "Subject or From">
 <!ENTITY searchRecipient.label "Nori edo Cc">
+<!ENTITY searchSubjectOrRecipientMenu.label "Subject, To or Cc">
 <!ENTITY searchMessageBody.label "Mezu Osoa">
 <!ENTITY saveAsVirtualFolderMenu.label "Gorde Bilaketa Karpeta bat gisa...">
 <!-- Thread Pane -->
@@ -626,12 +628,12 @@
 <!-- Remote Content Bar -->
 
 <!ENTITY remoteContentMessage1.label "To protect your privacy, remote images have been blocked.">
-<!ENTITY loadRemoteContentButton1.label "Load Images">
+<!ENTITY loadRemoteContentButton2.label "Display Images Now">
 <!-- Phishing Bar -->
 
-<!ENTITY phishingBarMessage1.label "Suspected Email Scam">
+<!ENTITY phishingBarMessage2.label "This message may be a scam.">
 <!ENTITY removePhishingBarButton1.label "Ignore Warning">
-<!ENTITY reportPhishingError.label "This isn't an email scam">
+<!ENTITY reportPhishingError1.label "This message doesn't appear to be a scam.">
 <!-- Quick Search Bar -->
 
 <!ENTITY quickSearchCmd.key "k">
@@ -639,22 +641,28 @@
 
 <!ENTITY AddToAddressBook.label "Gehitu Helbide-liburuan...">
 <!ENTITY AddToAddressBook.accesskey "B">
+<!ENTITY AddDirectlyToAddressBook.label "Add to Address Book">
+<!ENTITY AddDirectlyToAddressBook.accesskey "B">
+<!ENTITY EditContact.label "Edit Contact…">
+<!ENTITY EditContact.accesskey "E">
+<!ENTITY ViewContact.label "View Contact">
+<!ENTITY ViewContact.accesskey "V">
 <!ENTITY SendMailTo.label "Idatzi Mezua honi:">
 <!ENTITY SendMailTo.accesskey "z">
 <!ENTITY CopyEmailAddress.label "Kopiatu ePosta Helbidea">
 <!ENTITY CopyEmailAddress.accesskey "K">
-<!ENTITY CreateFilter.label "Iragazkia Mezutik Sortu...">
-<!ENTITY CreateFilter.accesskey "G">
+<!ENTITY CreateFilterFrom.label "Create Filter From…">
+<!ENTITY CreateFilterFrom.accesskey "F">
 <!ENTITY BlockAddress.label "Blokeatu Helbideak">
 <!ENTITY BlockAddress.accesskey "A">
 <!ENTITY reportPhishingURL.label "Report Email Scam">
 <!ENTITY reportPhishingURL.accesskey "o">
 <!-- Content Pane Context Menu -->
 
-<!ENTITY saveLinkCmd.label "Save Link Target">
-<!ENTITY saveLinkCmd.accesskey "r">
-<!ENTITY saveImageCmd.label "Save Image">
-<!ENTITY saveImageCmd.accesskey "v">
+<!ENTITY saveLinkAsCmd.label "Save Link As…">
+<!ENTITY saveLinkAsCmd.accesskey "k">
+<!ENTITY saveImageAsCmd.label "Save Image As…">
+<!ENTITY saveImageAsCmd.accesskey "v">
 <!ENTITY copyCmd.label "Kopiatu">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY selectAllCmd.label "Select All">

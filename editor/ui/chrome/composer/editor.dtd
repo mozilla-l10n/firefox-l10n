@@ -51,8 +51,6 @@
 <!ENTITY formattingtb.accesskey "f">
 <!ENTITY editmodeToolbarCmd.label "Edizio modu tresna-barra">
 <!ENTITY editmodetb.accesskey "E">
-<!ENTITY taskbarCmd.label "Egoera barra">
-<!ENTITY taskbarCmd.accesskey "E">
 <!-- Format menu items -->
 
 <!ENTITY formatMenu.label "Formatua">

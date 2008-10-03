@@ -6,11 +6,11 @@
 <!ENTITY move.label "Eraman zabor mezu berriak hona:">
 <!ENTITY move.accesskey "M">
 <!ENTITY junkFolderOn.label "&quot;Zabor Posta&quot; karpeta hemen:">
-<!ENTITY junkFolderOn.accesskey "o">
+<!ENTITY junkFolderOn.accesskey "O">
 <!ENTITY otherFolder.label "Beste bat:">
-<!ENTITY otherFolder.accesskey "s">
+<!ENTITY otherFolder.accesskey "S">
 <!ENTITY purge1.label "Automatikoki ezabatu hau baino zabor posta zaharragoa:">
-<!ENTITY purge1.accesskey "U">
+<!ENTITY purge1.accesskey "u">
 <!ENTITY purge2.label "egun">
 
 <!ENTITY whitelist.label "Ez markatu mezua zabor gisa bidaltzailea hemen badago: ">

@@ -17,4 +17,5 @@
 <!ENTITY rss.accountName "Berriak eta blogak">
 <!ENTITY rss.wizardShortName "RSS">
 <!ENTITY rss.wizardLongName "RSS berriak eta blogak">
+<!ENTITY rss.wizardLongName.accesskey "R">
 <!ENTITY rss.hostName "Berriak eta blogak">

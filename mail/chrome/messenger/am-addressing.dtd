@@ -11,6 +11,7 @@
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "Beste LDAP zerbitzari bat erabili:">
 <!ENTITY directories.accesskey "d">
+<!ENTITY directoriesNone.label "None">
 <!-- am-addressing.xul -->
 
 
@@ -22,7 +23,7 @@
 <!ENTITY autoQuote.accesskey "z">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label "Orduan,">
-<!ENTITY then.accesskey "o">
+<!ENTITY then.accesskey "O">
 <!ENTITY aboveQuote.label "hasi nire erantzuna aipamen-testuaren aurretik">
 <!ENTITY belowQuote.label "hasi nire erantzuna aipamen-testuaren ondoren">
 <!ENTITY selectAndQuote.label "zita aukeratu">

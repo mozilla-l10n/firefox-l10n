@@ -79,9 +79,7 @@
 <!ENTITY alwaysAuthenticate.label "Zerbitzari honetara konektatzen naizen guztietan autentifikazioa eskatu">
 <!ENTITY alwaysAuthenticate.accesskey "g">
 <!ENTITY newsrcFilePath.label "newsrc fitxategia:">
-<!ENTITY newsrcFilePath.accesskey "f">
 <!ENTITY localPath.label "Direktorio lokala:">
-<!ENTITY localPath.accesskey "L">
 <!ENTITY abbreviate.label "Erakutsi honela berri-taldeen izenak Posta-karpetaren panelean:">
 <!ENTITY abbreviateOn.label "Izen osoak (adibidez, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Izen laburtuak (adibidez, 'n.p.m.mail-news')">
