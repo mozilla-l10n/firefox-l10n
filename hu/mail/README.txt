@@ -1,3 +1,4 @@
-For information about installing, running and configuring Thunderbird
-including a list of known issues and troubleshooting information, 
-refer to: http://getthunderbird.com/releases/
+A Thunderbird telepítésével, futtatásával és beállításával kapcsolatos
+információkért, beleértve az ismert hibák felsorolását és a hiba-
+elhárítási tanácsokat is, látogassa meg a következõ weboldalt: 
+http://getthunderbird.com/releases/
