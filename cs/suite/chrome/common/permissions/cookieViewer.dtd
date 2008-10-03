@@ -7,7 +7,9 @@
 <!ENTITY treehead.cookieexpires.label "Vyprší">
 <!ENTITY treehead.infoselected.label "Informace o vybraném cookie">
 <!ENTITY button.removecookie.label "Odebrat cookie">
+<!ENTITY button.removecookie.accesskey "O">
 <!ENTITY button.removeallcookies.label "Odebrat všechny cookies">
+<!ENTITY button.removeallcookies.accesskey "d">
 
 <!ENTITY props.name.label "Název cookie:">
 <!ENTITY props.value.label "Data uložená v cookie:">
@@ -19,15 +21,22 @@
 <!ENTITY treehead.sitename.label "Site">
 <!ENTITY treehead.status.label "Stav">
 <!ENTITY windowtitle.label "Správce cookies">
-<!ENTITY buttonaccept.label "Close">
+<!ENTITY buttonaccept.label "Zavřít">
+<!ENTITY buttonaccept.accesskey "Z">
 
 <!ENTITY blockSite.label "Blokovat">
+<!ENTITY blockSite.accesskey "B">
 <!ENTITY allowSite.label "Povolit">
+<!ENTITY allowSite.accesskey "P">
 <!ENTITY allowSiteSession.label "Relace">
+<!ENTITY allowSiteSession.accesskey "R">
 <!ENTITY removepermission.label "Odebrat server">
+<!ENTITY removepermission.accesskey "O">
 <!ENTITY removeallpermissions.label "Odebrat všechny servery">
+<!ENTITY removeallpermissions.accesskey "d">
 
 <!ENTITY canSet.label "může uložit cookies">
 <!ENTITY cannotSet.label "nemůže uložit cookies">
 
-<!ENTITY checkbox.label "Zakázat opětovné použití odebraných cookies">
+<!ENTITY futureCookies.label "Zakázat stránkám znovu nastavit odebrané cookie">
+<!ENTITY futureCookies.accesskey "Z">
