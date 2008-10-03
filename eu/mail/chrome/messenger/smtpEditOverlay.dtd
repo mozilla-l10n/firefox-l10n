@@ -10,12 +10,12 @@
 <!ENTITY alwaysUseUsername.accesskey "E">
 <!ENTITY userName.label "Erabiltzaile-izena:">
 <!ENTITY userName.accesskey "n">
-<!ENTITY useSecAuth.label "Use secure authentication">
+<!ENTITY useSecAuth.label "Erabili identifikazio segurua">
 <!ENTITY useSecAuth.accesskey "i">
 <!ENTITY isSecure.label "Erabili konexio segurua (SSL):">
 <!ENTITY neverSecure.label "Ez">
 <!ENTITY neverSecure.accesskey "E">
-<!ENTITY sometimesSTARTTLS.label "STARTTLS, if available">
+<!ENTITY sometimesSTARTTLS.label "STARTTLS, erabilgarri badago">
 <!ENTITY sometimesSTARTTLS.accesskey "a">
 <!ENTITY alwaysSTARTTLS.label "STARTTLS">
 <!ENTITY alwaysSTARTTLS.accesskey "T">

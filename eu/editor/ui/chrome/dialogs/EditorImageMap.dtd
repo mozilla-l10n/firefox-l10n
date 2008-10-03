@@ -45,60 +45,51 @@
 <!-- File menu -->
 
 <!ENTITY mapfileMenu.label "Fitxategia">
-<!ENTITY mapfilemenu.accesskey "f">
+<!ENTITY mapfileMenu.accesskey "f">
 <!ENTITY clearCmd.label "Garbitu">
-<!ENTITY mapfileclear.accesskey "a">
+<!ENTITY clearCmd.accesskey "a">
 <!ENTITY closeCmd.label "Itxi">
-<!ENTITY mapfileclose.accesskey "x">
+<!ENTITY closeCmd.accesskey "x">
 <!-- Edit menu -->
 
 <!ENTITY mapeditMenu.label "Editatu">
-<!ENTITY mapeditmenu.accesskey "e">
+<!ENTITY mapeditMenu.accesskey "e">
 <!ENTITY cutCmd.label "Ebaki">
-<!ENTITY mapeditcut.accesskey "k">
+<!ENTITY cutCmd.accesskey "k">
 <!ENTITY copyCmd.label "Kopiatu">
-<!ENTITY mapeditcopy.accesskey "x">
+<!ENTITY copyCmd.accesskey "k">
 <!ENTITY pasteCmd.label "Itsasi">
-<!ENTITY mapeditpaste.accesskey "I">
+<!ENTITY pasteCmd.accesskey "s">
 <!ENTITY selectallCmd.label "Hautatu dena">
-<!ENTITY mapselectall.accesskey "h">
+<!ENTITY selectallCmd.accesskey "d">
 <!ENTITY propsCmd.label "Bero-gune propietateak">
-<!ENTITY mapeditprops.accesskey "g">
+<!ENTITY propsCmd.accesskey "B">
 <!-- View menu -->
 
 <!ENTITY mapviewMenu.label "Ikusi">
-<!ENTITY mapviewmenu.accesskey "v">
+<!ENTITY mapviewMenu.accesskey "k">
 <!ENTITY showhideTbarCmd.label "Tresna-barra ezkutatu">
-<!ENTITY mapviewtbar.accesskey "k">
+<!ENTITY showhideTbarCmd.accesskey "t">
 <!-- Scaling -->
 <!ENTITY mapviewScale.label "Eskala">
-<!ENTITY mapviewscale.accesskey "S">
+<!ENTITY mapviewScale.accesskey "s">
 <!ENTITY apercentCmd.label "100">
-<!ENTITY zoomone.accesskey "1">
+<!ENTITY apercentCmd.accesskey "1">
 <!ENTITY bpercentCmd.label "200">
-<!ENTITY zoomtwo.accesskey "2">
+<!ENTITY bpercentCmd.accesskey "2">
 <!ENTITY cpercentCmd.label "400">
-<!ENTITY zoomthree.accesskey "4">
-<!-- end scaling-->
-<!ENTITY contrastCmd.label "Nabardura">
-<!ENTITY contrast.accesskey "n">
-<!-- Help menu -->
-
-<!ENTITY maphelpMenu.label "Laguntza">
-<!ENTITY maphelpmenu.accesskey "g">
-<!ENTITY aboutCmd.label "Honi buruz">
-<!ENTITY about.accesskey "b">
+<!ENTITY cpercentCmd.accesskey "4">
 
 <!ENTITY zoominCmd.label "Zoom gehiago">
 <!ENTITY zoomoutCmd.label "Zoom gutxiago">
 <!ENTITY delSpotCmd.label "Ezabatu anuntzioa">
 <!-- Keys -->
 
-<!ENTITY clear.accesskey "z">
-<!ENTITY selectall.accesskey "a">
-<!ENTITY close.accesskey "l">
-<!ENTITY cut.accesskey "x">
-<!ENTITY copy.accesskey "x">
-<!ENTITY paste.accesskey "v">
-<!ENTITY props.accesskey "I">
-<!ENTITY tbar.accesskey "k">
+<!ENTITY clear.key "z">
+<!ENTITY selectall.key "a">
+<!ENTITY close.key "l">
+<!ENTITY cut.key "x">
+<!ENTITY copy.key "c">
+<!ENTITY paste.key "v">
+<!ENTITY props.key "p">
+<!ENTITY tbar.key "t">

@@ -21,5 +21,5 @@
 <!ENTITY pluginWizard.finalPage.restart.label "Instalatutako plugin-ek &brandShortName; berrabiaraztea behar dute.">
   
 <!ENTITY missingPlugin.label "Egizu klik hemen plugin-a deskargatzeko.">
-<!ENTITY disabledPlugin.label "Eduki honetarako plugin-a ezgaitua izan da.Klikatu hemen plugin-ak kudatzeko.">
-<!ENTITY blockedPlugin.label "Plugin hau zu babesteko blokeatua izan da.">
+<!ENTITY disabledPlugin.label "The plugin for this content has been disabled. Click here to manage your plugins.">
+<!ENTITY blockedPlugin.label "This plugin has been blocked for your protection.">

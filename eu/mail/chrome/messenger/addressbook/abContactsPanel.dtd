@@ -4,6 +4,8 @@
 <!ENTITY searchInput.accesskey "u">
 <!ENTITY SearchNameOrEmail.label "Izena edo ePosta">
 
+<!ENTITY deleteAddrBookCard.label "Ezabatu">
+<!ENTITY addrBookCardProperties.label "Propietateak">
 <!ENTITY addtoToFieldMenu.label "Gehitu Nori eremura">
 <!ENTITY addtoCcFieldMenu.label "Gehitu Kopia eremura">
 <!ENTITY addtoBccFieldMenu.label "Gehitu Ezkutuko Kopia eremura">

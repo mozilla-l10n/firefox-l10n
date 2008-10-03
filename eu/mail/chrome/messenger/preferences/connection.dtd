@@ -2,8 +2,10 @@
 <!ENTITY window.width "46em">
 
 <!ENTITY proxyTitle.label "Konfiguratu Internetera Sartzeko Proxy-ak">
-<!ENTITY directTypeRadio.label "Zuzeneko Internet konexioa">
-<!ENTITY directTypeRadio.accesskey "z">
+<!ENTITY noProxyTypeRadio.label "No proxy">
+<!ENTITY noProxyTypeRadio.accesskey "y">
+<!ENTITY systemTypeRadio.label "Use system proxy settings">
+<!ENTITY systemTypeRadio.accesskey "u">
 <!ENTITY WPADTypeRadio.label "Sare honetako proxy ezarpenak automatikoki detektatu">
 <!ENTITY WPADTypeRadio.accesskey "d">
 <!ENTITY manualTypeRadio.label "Eskuzko proxy konfigurazioa:">

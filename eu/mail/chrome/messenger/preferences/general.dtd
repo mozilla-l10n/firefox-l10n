@@ -32,7 +32,7 @@
 <!ENTITY soundNotification1.caption "Sound">
 <!ENTITY play.label "Play">
 <!ENTITY play.accesskey "P">
-<!ENTITY systemsound.label "Default system sound for new mail">
+<!ENTITY systemsound.label "new mail">
 <!ENTITY systemsoundMac.label "System Alert Sound">
 <!ENTITY systemsoundMac.accesskey "y">
 <!ENTITY systemsound.accesskey "y">

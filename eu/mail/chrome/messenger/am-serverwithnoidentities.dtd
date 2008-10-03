@@ -6,7 +6,6 @@
 <!ENTITY emptyTrashOnExit.label "Hustu zakarrotzia irteterakoan">
 <!ENTITY emptyTrashOnExit.accesskey "i">
 <!ENTITY localPath.label "Direktorio lokala:">
-<!ENTITY localPath.accesskey "L">
 <!ENTITY localFolderPicker.label "Hautatu Direktorio Lokala">
 <!ENTITY browseFolder.label "Arakatu...">
 <!ENTITY browseFolder.accesskey "A">

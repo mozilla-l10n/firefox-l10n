@@ -20,6 +20,7 @@
  the Initial Developer. All Rights Reserved.
 
  Contributor(s):
+     Jeff Beckley <beckley@qualcomm.com>
 
  Alternatively, the contents of this file may be used under the terms of
  either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -44,17 +45,19 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 
 <!ENTITY importDialog.windowTitle "Inportatu">
+<!ENTITY importDialog.allTitle "Import everything">
 <!ENTITY importDialog.mailTitle "Posta">
 <!ENTITY importDialog.addressbookTitle "Helbide-liburuak">
 <!ENTITY importDialog.settingsTitle "Ezarpenak">
+<!ENTITY importDialog.filtersTitle "Filters">
 
 <!ENTITY window.width "40em">
 <!ENTITY window.macWidth "45em">
 
 <!ENTITY importTitle.label "&brandShortName; Posta Inportatzeko Laguntzailea">
-<!ENTITY importDesc.label "Inportatu mezuak, helbide-liburuak eta ezarpenak beste programetatik">
+<!ENTITY importShortDesc.label "Import Mail, Address Books, Settings, and Filters from other programs">
 
-<!ENTITY importDescription.label "Laguntzaile honek mezuak, helbide-liburuko sarrerak edo/eta hobespenak inportatuko ditu beste posta-programetatik eta helbide-liburu formatu komunetatik &brandShortName; Postara.">
+<!ENTITY importDescription1.label "This wizard will import mail messages, address book entries, preferences, and/or filters from other mail programs and common address book formats into &brandShortName;.">
 <!ENTITY importDescription2.label "Inportatu ondoren, &brandShortName; Postatik edo/eta helbide-liburutik ikusi ahal izango dituzu.">
 
 <!ENTITY selectDescription.label "Hautatu zein programatatik inportatu nahi duzun:">

@@ -6,20 +6,20 @@
 <!ENTITY newMenu.label "Berria">
 <!ENTITY newMenu.accesskey "B">
 <!ENTITY newCard.label "Helbide-liburu Txartela...">
-<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newCard.accesskey "C">
 <!ENTITY newCard.key "N">
 <!ENTITY newListCmd.label "Posta Zerrenda...">
-<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey "L">
 <!ENTITY newAddressBookCmd.label "Helbide Liburua...">
 <!ENTITY newAddressBookCmd.accesskey "L">
 <!ENTITY newLDAPDirectoryCmd.label "LDAP Direktorioa...">
-<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey "D">
 <!ENTITY newMessageCmd.label "Mezua">
 <!ENTITY newMessageCmd.key "M">
 <!ENTITY newMessageCmd.accesskey "m">
+<!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
+<!ENTITY osxAddressBook.label "Erabili Mac OS X helbide-liburua">
+<!ENTITY osxAddressBook.accesskey "O">
 <!ENTITY closeCmd.label "Itxi">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "i">
@@ -31,7 +31,6 @@
 <!ENTITY printPreviewAddressBook.accesskey "B">
 <!ENTITY printCardViewCmd.label "Inprimatu txartela...">
 <!ENTITY printCardViewCmd.accesskey "p">
-<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->
 <!ENTITY printCardViewCmd.key "P">
 <!ENTITY printAddressBook.label "Helbide Liburua Inprimatu ...">
 <!ENTITY printAddressBook.accesskey "A">
@@ -64,9 +63,12 @@
 <!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "e">
 <!ENTITY deleteAbCmd.label "Helbide Liburua Ezabatu">
-<!ENTITY deleteCardCmd.label "Txartela Ezabatu">
-<!ENTITY deleteCardsCmd.label "Aukeratutako Txartelak Ezabatu">
-<!ENTITY selectAllCmd.label "Dena Hautatu">
+<!ENTITY deleteCardCmd.label "Ezabatu txartela">
+<!ENTITY deleteCardsCmd2.label "Ezabatu txartelak">
+<!ENTITY deleteListCmd.label "Ezbatu zerrenda">
+<!ENTITY deleteListsCmd.label "Ezbatu zerrendak">
+<!ENTITY deleteItemsCmd.label "Ezabatu elementuak">
+<!ENTITY selectAllCmd.label "Dena hautatu">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY searchAddressesCmd.key "f">
 <!ENTITY selectAllCmd.accesskey "e">
@@ -76,7 +78,6 @@
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesCmd.label "Propietateak...">
-<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY propertiesCmd.accesskey "i">
 <!ENTITY propertiesCmd.key "i">
 <!-- View Menu -->
@@ -121,17 +122,6 @@
 <!ENTITY preferencesCmd.accesskey "A">
 <!ENTITY preferencesCmdUnix.label "Hobespenak">
 <!ENTITY preferencesCmdUnix.accesskey "n">
-<!-- Help Menu -->
-
-<!ENTITY helpMenu.label "Laguntza">
-<!ENTITY helpMenu.accesskey "L">
-<!ENTITY releaseCmd.label "Bertsio-oharrak">
-<!ENTITY releaseCmd.accesskey "R">
-<!ENTITY hintsAndTips.label "&brandShortName; Laguntza">
-<!ENTITY hintsAndTips.accesskey "l">
-<!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY aboutCmd.label "&brandShortName;(r)i Buruz">
-<!ENTITY aboutCmd.accesskey "B">
 <!-- Address Book Toolbar and Context Menus -->  
 
 <!ENTITY newcardButton.label "Txartel Berria">
@@ -199,18 +189,6 @@
 <!ENTITY sortDescending.accesskey "B">
 <!ENTITY _PhoneticName.label "Izen Fonetikoa">
 <!ENTITY _PhoneticName.accesskey "o">
-<!-- Results pane context menu -->
-
-<!ENTITY composeEmail.label "Mezua prestatu nori:">
-<!ENTITY composeEmail.accesskey "M">
-<!ENTITY deleteAddrBookCard.label "Ezabatu">
-<!ENTITY deleteAddrBookCard.accesskey "E">
-<!ENTITY newAddrBookCard.label "Txartel berria...">
-<!ENTITY newAddrBookCard.accesskey "T">
-<!ENTITY newAddrBookMailingList.label "Posta Zerrenda Berria...">
-<!ENTITY newAddrBookMailingList.accesskey "S">
-<!ENTITY addrBookCardProperties.label "Propietateak">
-<!ENTITY addrBookCardProperties.accesskey "P">
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 

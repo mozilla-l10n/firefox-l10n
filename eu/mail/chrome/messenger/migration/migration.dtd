@@ -1,8 +1,8 @@
 
 <!ENTITY migrationWizard.title "Inportazio Laguntzailea">
 
-<!ENTITY importFrom.label "Aukerak, Kontu ezarpenak, helbide-liburua eta beste datuak hemendik inportatu:">
-<!ENTITY importFromUnix.label "Hobespenak, Kontu ezarpenak, helbide-liburua eta beste datuak hemendik inportatu:">
+<!ENTITY importFromWin.label "Import Options, Account Settings, Address Book, Filters and other data from:">
+<!ENTITY importFromNonWin.label "Import Preferences, Account Settings, Address Book, Filters, and other data from:">
 
 <!ENTITY importFromNothing.label "Ezer ez inportatu">
 <!ENTITY importFromNothing.accesskey "E">
