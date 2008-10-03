@@ -14,10 +14,11 @@
    - The Original Code is Sun Microsystems code.
    -
    - The Initial Developer of the Original Code is Sun Microsystems.
-   - Portions created by the Initial Developer are Copyright (C) 2006
+   - Portions created by the Initial Developer are Copyright (C) 2008
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributor(s): Thomas Benisch <thomas.benisch@sun.com>
+   - Contributor(s):
+   -   Thomas Benisch <thomas.benisch@sun.com>
    -   Iacopo Benesperi
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -34,4 +35,11 @@
    -
    - ***** END LICENSE BLOCK *****
 -->
-<!ENTITY lightning.sidebar.invitations.label "Inviti">
+<!ENTITY calendar.subscriptions.dialog.title "Sottoscrivi calendari">
+<!ENTITY calendar.subscriptions.dialog.search.label.value "Mostra i calendari che contengono:">
+<!ENTITY calendar.subscriptions.dialog.search.button.label "Cerca">
+<!ENTITY calendar.subscriptions.dialog.select.label.value "Selezionare i calendari da sottoscrivere:">
+<!ENTITY calendar.subscriptions.dialog.subscribe.button.label "Sottoscrivi">
+<!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label "Rimuovi sottoscrizione">
+<!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label "Cerca…">
+<!ENTITY calendar.subscriptions.dialog.statusmessage.nomatches.label "Nessun risultato trovato.">
