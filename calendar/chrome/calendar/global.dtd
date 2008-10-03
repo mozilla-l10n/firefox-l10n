@@ -35,29 +35,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY time.midnight "Mezzanotte">
-<!ENTITY time.1 "1:00 am">
-<!ENTITY time.2 "2:00 am">
-<!ENTITY time.3 "3:00 am">
-<!ENTITY time.4 "4:00 am">
-<!ENTITY time.5 "5:00 am">
-<!ENTITY time.6 "6:00 am">
-<!ENTITY time.7 "7:00 am">
-<!ENTITY time.8 "8:00 am">
-<!ENTITY time.9 "9:00 am">
-<!ENTITY time.10 "10:00 am">
-<!ENTITY time.11 "11:00 am">
 <!ENTITY time.noon "Mezzogiorno">
-<!ENTITY time.13 "1:00 pm">
-<!ENTITY time.14 "2:00 pm">
-<!ENTITY time.15 "3:00 pm">
-<!ENTITY time.16 "4:00 pm">
-<!ENTITY time.17 "5:00 pm">
-<!ENTITY time.18 "6:00 pm">
-<!ENTITY time.19 "7:00 pm">
-<!ENTITY time.20 "8:00 pm">
-<!ENTITY time.21 "9:00 pm">
-<!ENTITY time.22 "10:00 pm">
-<!ENTITY time.23 "11:00 pm">
 <!ENTITY day.1.Ddd "Dom">
 <!ENTITY day.1.Ddd.accesskey "D">
 <!ENTITY day.2.Ddd "Lun">
@@ -72,13 +50,6 @@
 <!ENTITY day.6.Ddd.accesskey "V">
 <!ENTITY day.7.Ddd "Sab">
 <!ENTITY day.7.Ddd.accesskey "S">
-<!ENTITY day.1.DDD "DOM">
-<!ENTITY day.2.DDD "LUN">
-<!ENTITY day.3.DDD "MAR">
-<!ENTITY day.4.DDD "MER">
-<!ENTITY day.5.DDD "GIO">
-<!ENTITY day.6.DDD "VEN">
-<!ENTITY day.7.DDD "SAB">
 <!ENTITY day.1.name "Domenica">
 <!ENTITY day.2.name "Lunedì">
 <!ENTITY day.3.name "Martedì">
@@ -86,35 +57,27 @@
 <!ENTITY day.5.name "Giovedì">
 <!ENTITY day.6.name "Venerdì">
 <!ENTITY day.7.name "Sabato">
-<!ENTITY time.am "am">
-<!ENTITY time.pm "pm">
-<!ENTITY month.1.MMM "GEN">
-<!ENTITY month.2.MMM "FEB">
-<!ENTITY month.3.MMM "MAR">
-<!ENTITY month.4.MMM "APR">
-<!ENTITY month.5.MMM "MAG">
-<!ENTITY month.6.MMM "GIU">
-<!ENTITY month.7.MMM "LUG">
-<!ENTITY month.8.MMM "AGO">
-<!ENTITY month.9.MMM "SET">
-<!ENTITY month.10.MMM "OTT">
-<!ENTITY month.11.MMM "NOV">
-<!ENTITY month.12.MMM "DIC">
-<!ENTITY time.AM "am">
-<!ENTITY time.PM "pm">
-<!ENTITY more.label "+">
-<!ENTITY less.label "-">
-<!ENTITY calendar.global.units.second "secondo">
-<!ENTITY calendar.global.units.seconds "secondi">
 <!ENTITY calendar.global.units.minute "minuto">
 <!ENTITY calendar.global.units.minutes "minuti">
 <!ENTITY calendar.global.units.hour "ora">
 <!ENTITY calendar.global.units.hours "ore">
 <!ENTITY calendar.global.units.day "giorno">
 <!ENTITY calendar.global.units.days "giorni">
-<!ENTITY calendar.global.units.week "settimana">
-<!ENTITY calendar.global.units.weeks "settimane">
-<!ENTITY calendar.global.units.month "mese">
-<!ENTITY calendar.global.units.months "mesi">
-<!ENTITY calendar.global.units.year "anno">
-<!ENTITY calendar.global.units.years "anni">
+<!ENTITY month.1.name "Gennaio">
+<!ENTITY month.2.name "Febbraio">
+<!ENTITY month.3.name "Marzo">
+<!ENTITY month.4.name "Aprile">
+<!ENTITY month.5.name "Maggio">
+<!ENTITY month.6.name "Giugno">
+<!ENTITY month.7.name "Luglio">
+<!ENTITY month.8.name "Agosto">
+<!ENTITY month.9.name "Settembre">
+<!ENTITY month.10.name "Ottobre">
+<!ENTITY month.11.name "Novembre">
+<!ENTITY month.12.name "Dicembre">
+<!ENTITY onemonthbackward.tooltip "Un mese indietro">
+<!ENTITY onemonthforward.tooltip "Un mese avanti">
+<!ENTITY showToday.tooltip "Vai a oggi">
+<!ENTITY onedayforward.tooltip "Un giorno avanti">
+<!ENTITY onedaybackward.tooltip "Un giorno indietro">
+<!ENTITY showselectedday.tooltip "Mostra eventi per il giorno selezionato">

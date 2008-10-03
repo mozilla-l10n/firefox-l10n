@@ -37,13 +37,13 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY pref.mainbox.label "Impostazioni generali">
 <!ENTITY pref.dateformat.label "Formato testo data:">
-<!ENTITY pref.dateformat.accesskey "D">
+<!ENTITY pref.dateformat.accesskey "F">
 <!ENTITY pref.dateformat.long "Lungo">
 <!ENTITY pref.dateformat.short "Corto">
 <!ENTITY pref.defaultlength.label "Durata predefinita evento:">
-<!ENTITY pref.defaultlength.accesskey "E">
+<!ENTITY pref.defaultlength.accesskey "D">
 <!ENTITY pref.defaultsnoozelength.label "Durata predefinita snooze:">
-<!ENTITY pref.defaultsnoozelength.accesskey "S">
+<!ENTITY pref.defaultsnoozelength.accesskey "u">
 <!ENTITY pref.refreshbox.label "Ricarica impostazioni">
 <!ENTITY pref.autorefresh.label "Ricarica calendari ogni">
 <!ENTITY pref.autorefresh.accesskey "R">

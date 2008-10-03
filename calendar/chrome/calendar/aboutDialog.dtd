@@ -39,34 +39,16 @@
 <!ENTITY aboutDialog.title "Informazioni su &brandFullName;">
 <!ENTITY copyright.label "Crediti">
 <!ENTITY copyright.accesskey "C">
-<!ENTITY aboutLink.label "&lt; Informazioni su &brandFullName;">
-<!ENTITY aboutLink.accesskey "I">
+<!ENTITY aboutLink.label "&lt; Crediti">
+<!ENTITY aboutLink.accesskey "C">
 <!ENTITY aboutVersion "versione">
-<!ENTITY copyrightText "©1998-2007 Collaboratori. Tutti i diritti
+<!ENTITY copyrightText "©1998-2008 Collaboratori. Tutti i diritti
                                  riservati. Mozilla Sunbird, Sunbird, e il
                                  logo Sunbird sono marchi registrati della
                                  Mozilla Foundation. Tutti i diritti riservati.">
 <!ENTITY brandMotto "È tempo!">
-<!ENTITY credit.leads "Direzione ingegnerizzazione">
-<!ENTITY credit.core "Team di sviluppo core">
-<!ENTITY credit.gecko "Motore di rendering Gecko">
 <!ENTITY credit.thanks "Ringraziamenti speciali a">
 <!ENTITY credit.translation "Iacopo Benesperi">
-<!ENTITY credit.visuals "Coordinatore visual design">
-<!ENTITY credit.theme "Disegno tema">
-<!ENTITY credit.brand "Identità marchio">
-<!ENTITY credit.web "Web design">
-<!ENTITY credit.update "Mozilla Update">
-<!ENTITY credit.qalead "Direzione controllo qualità">
-<!ENTITY credit.qa "Controllo qualità">
-<!ENTITY credit.build "Rilasci e build">
-<!ENTITY credit.infra "Supporto infrastruttura">
-<!ENTITY credit.support "Risorse di supporto">
-<!ENTITY credit.manage "Direzione progetto">
-<!ENTITY credit.marketleads "Direzione marketing">
-<!ENTITY credit.market "Marketing">
-<!ENTITY credit.creators "Creato da">
-<!ENTITY credit.memory "In cara memoria di">
 <!ENTITY credit.powered "Powered by">
 <!ENTITY license.and "e">
 <!ENTITY cmdClose.macKey "W">

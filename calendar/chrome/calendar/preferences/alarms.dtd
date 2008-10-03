@@ -52,13 +52,12 @@
 <!ENTITY pref.defalarm4events.label "Impostazione predefinita allarme per gli eventi:">
 <!ENTITY pref.defalarm4events.accesskey "z">
 <!ENTITY pref.defalarm4todos.label "Impostazione predefinita allarme per le attività:">
-<!ENTITY pref.defalarm4todos.accesskey "I">
-<!ENTITY pref.alarm.on "On">
-<!ENTITY pref.alarm.off "Off">
+<!ENTITY pref.defalarm4todos.accesskey "n">
+<!ENTITY pref.alarm.on "Attivo">
+<!ENTITY pref.alarm.off "Non attivo">
 <!ENTITY pref.defalarmlen4events.label "Tempo di attivazione allarme prima dell'evento:">
 <!ENTITY pref.defalarmlen4events.accesskey "T">
 <!ENTITY pref.defalarmlen4todos.label "Tempo di attivazione allarme prima dell'attività:">
 <!ENTITY pref.defalarmlen4todos.accesskey "o">
-<!ENTITY pref.alarmbox.label "Allarmi">
 <!ENTITY pref.defaultemail.label "Indirizzo predefinito a cui inviare gli allarmi:">
 <!ENTITY pref.defaulttext.label "Testo predefinito per gli allarmi:">

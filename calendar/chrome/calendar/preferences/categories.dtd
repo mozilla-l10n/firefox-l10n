@@ -35,7 +35,6 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY pref.categories.label "Categorie">
 <!ENTITY pref.categories.add.title "Aggiungi categoria">
 <!ENTITY pref.categories.addButton.label "Aggiungi...">
 <!ENTITY pref.categories.addButton.accesskey "A">
