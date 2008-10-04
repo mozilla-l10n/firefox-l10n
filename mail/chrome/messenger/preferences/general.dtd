@@ -31,3 +31,9 @@
 <!ENTITY customsound.accesskey "ש">
 <!ENTITY browse.label "עיון...">
 <!ENTITY browse.accesskey "ע">
+
+<!ENTITY addonsMgr.label                  "תוספות">
+<!ENTITY manageAddonsDescWin.label        "שנה אפשרויות של התוספות שלך">
+<!ENTITY manageAddonsDescUnix2.label      "שנה העדפות של התוספות שלך">
+<!ENTITY manageAddons.label               "נהל תוספות…">
+<!ENTITY manageAddons.accesskey           "נ">
