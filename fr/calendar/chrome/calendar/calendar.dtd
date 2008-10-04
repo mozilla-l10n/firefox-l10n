@@ -286,7 +286,7 @@
 <!ENTITY progress.level.100.accesskey "T">
 
 <!ENTITY priority.level.none                "Non spécifiée">
-<!ENTITY priority.level.none.accesskey      "A">
+<!ENTITY priority.level.none.accesskey      "o">
 <!ENTITY priority.level.low                 "Basse">
 <!ENTITY priority.level.low.accesskey       "B">
 <!ENTITY priority.level.normal              "Normale">
