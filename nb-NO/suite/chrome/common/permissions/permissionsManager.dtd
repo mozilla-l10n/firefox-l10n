@@ -6,6 +6,7 @@
 <!ENTITY removeall.label                "Fjern alle nettsted">
 <!ENTITY removeall.accesskey            "e">
 <!ENTITY address.label                  "Adresse til nettstedet:">
+<!ENTITY address.accesskey              "d">
 <!ENTITY block.label                    "Blokker">
 <!ENTITY block.accesskey                "B">
 <!ENTITY session.label                  "Tillat for programøkt">

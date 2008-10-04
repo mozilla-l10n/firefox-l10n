@@ -44,7 +44,7 @@
 <!ENTITY renameFolder.accesskey "E">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Komprimer mapper">
-<!ENTITY compactFolder.accesskey    "K">
+<!ENTITY compactFolders.accesskey    "K">
 <!ENTITY emptyTrashCmd.label "Tøm søppelkasse">
 <!ENTITY emptyTrashCmd.accesskey    "T">
 <!ENTITY importCmd.label "Importer …">
@@ -282,8 +282,8 @@
 <!ENTITY nextStarredMsgCmd.label "Melding med stjerne">
 <!ENTITY nextStarredMsgCmd.accesskey "M">
 <!ENTITY nextUnreadThread.label "Ulest tråd">
-<!ENTITY nextUnreadThreadCmd.accesskey "t">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "t">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Forrige">
 <!ENTITY prevMenu.accesskey "F">
 <!ENTITY prevMsgCmd.label "Melding">

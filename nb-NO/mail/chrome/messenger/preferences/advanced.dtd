@@ -20,8 +20,6 @@
 <!ENTITY secondsLabel.label            "sekunder">
 <!ENTITY showFolderColumns.label       "Vis ekspanderte kolonner i mappevisning">
 <!ENTITY showFolderColumns.accesskey   "i">
-<!ENTITY rememberLastMsg.label         "Husk den sist valgte meldingen">
-<!ENTITY rememberLastMsg.accesskey     "H">
 <!ENTITY openMsgIn.label               "Åpne nye meldinger i:">
 <!ENTITY reuseExpRadio0.label          "Et nytt vindu">
 <!ENTITY reuseExpRadio0.accesskey      "y">
@@ -29,9 +27,6 @@
 <!ENTITY reuseExpRadio1.accesskey      "e">
 <!ENTITY reuseExpRadio2.label          "En ny meldingsfane">
 <!ENTITY reuseExpRadio2.accesskey      "n">
-<!ENTITY connectionTimeout.label       "Tidsavbrudd for tilkoblinger: ">
-<!ENTITY connectionTimeout.accesskey   "T">
-<!ENTITY connectionSeconds.label       "sekunder">
 <!ENTITY configEditDesc.label          "Avanserte innstillinger">
 <!ENTITY configEdit.label              "Konfigurasjonseditor …">
 <!ENTITY configEdit.accesskey          "o">
@@ -57,9 +52,9 @@
 <!ENTITY showUpdates.accesskey          "V">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showConnections.label         "Tilkobling …">
-<!ENTITY showConnections.accesskey     "T">
-<!ENTITY proxiesInfo.label             "Bestem hvordan &brandShortName; kobler til Internett.">
+<!ENTITY showSettings.label            "Innstillinger …">
+<!ENTITY showSettings.accesskey        "I">
+<!ENTITY proxiesConfigure.label        "Bestem hvordan &brandShortName; kobler til Internett">
 <!ENTITY connectionsInfo.caption       "Tilkobling">
 <!ENTITY offlineInfo.caption           "Frakoblet">
 <!ENTITY offlineInfo.label             "Konfigurer innstillinger for frakoblet modus">
@@ -71,12 +66,24 @@
 <!ENTITY offlineCompact.accesskey "K">
 <!ENTITY kb.label "KB">
 
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Bruk opptil">
+<!ENTITY useCacheBefore.accesskey        "B">
+<!ENTITY useCacheAfter.label             " MB diskplass for hurtiglager">
+<!ENTITY clearCacheNow.label             "Tøm nå">
+<!ENTITY clearCacheNow.accesskey         "T">
+
 <!-- Certificates -->
 <!ENTITY certificatesInfo2.label        "Behandle sertifikater, tilbakekallingslister, sertifikatvalidering og sikkerhetsenheter.">
 <!ENTITY viewCertificates.label         "Vis sertifikater">
 <!ENTITY viewCertificates.accesskey     "V">
 <!ENTITY viewCRLs.label                 "Tilbakekallingslister">
-<!ENTITY viewCRLs.accesskey             "R">
+<!ENTITY viewCRLs.accesskey             "T">
 <!ENTITY validation.label               "Validering">
 <!ENTITY validation.accesskey           "V">
 <!ENTITY viewSecurityDevices.label      "Sikkerhetsenheter">

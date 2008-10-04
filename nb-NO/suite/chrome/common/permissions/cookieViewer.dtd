@@ -7,7 +7,9 @@
 <!ENTITY     treehead.cookieexpires.label   "Utgår"> 
 <!ENTITY     treehead.infoselected.label    "Informasjon om valgt infokapsel">
 <!ENTITY     button.removecookie.label      "Slett infokapsel">
+<!ENTITY     button.removecookie.accesskey  "S">
 <!ENTITY     button.removeallcookies.label  "Slett alle infokapsler">
+<!ENTITY     button.removeallcookies.accesskey "e">
 
 <!ENTITY     props.name.label               "Navn:">
 <!ENTITY     props.value.label              "Innhold:">
@@ -20,14 +22,21 @@
 <!ENTITY     treehead.status.label          "Status">
 <!ENTITY     windowtitle.label              "Infokapsler">
 <!ENTITY     buttonaccept.label             "Lukk">
+<!ENTITY     buttonaccept.accesskey         "L">
 
 <!ENTITY     blockSite.label                "Blokker">
+<!ENTITY     blockSite.accesskey            "B">
 <!ENTITY     allowSite.label                "Tillat">
+<!ENTITY     allowSite.accesskey            "T">
 <!ENTITY     allowSiteSession.label         "Programøkt">
+<!ENTITY     allowSiteSession.accesskey     "P">
 <!ENTITY     removepermission.label         "Slett nettsted">
+<!ENTITY     removepermission.accesskey     "n">
 <!ENTITY     removeallpermissions.label     "Slett alle nettsted">
+<!ENTITY     removeallpermissions.accesskey "a">
 
 <!ENTITY     canSet.label                   "kan sette infokapsler">
 <!ENTITY     cannotSet.label                "kan ikke sette infokapsler">
 
-<!ENTITY     checkbox.label                 "Ikke tillat nettsted som eide slettede infokapsler å sette de på nytt">
+<!ENTITY     futureCookies.label            "Ikke tillat nettsted som eide slettede infokapsler å sette infokapsler i fremtiden">
+<!ENTITY     futureCookies.accesskey        "k">
