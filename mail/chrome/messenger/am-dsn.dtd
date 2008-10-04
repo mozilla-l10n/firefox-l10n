@@ -1,0 +1,16 @@
+<!ENTITY pane.title                 "יידוע מצב משלוח">
+<!ENTITY useGlobalPrefs.label       "השתמש בהעדפות יידוע מצב משלוח הכלליות שלי לחשבון זה">
+<!ENTITY useGlobalPrefs.accesskey   "כ">
+<!ENTITY useCustomPrefs.label       "התאמה אישית של יידוע מצב משלוח עבור חשבון זה">
+<!ENTITY useCustomPrefs.accesskey   "ה">
+<!ENTITY requestAlways.label        "כאשר שולחים הודעה, בקש תמיד יידוע מצב משלוח">
+<!ENTITY requestAlways.accesskey    "ב">
+<!ENTITY optionTitle.label          "בקש יידוע כאשר:">
+<!ENTITY requestOnSucess.label      "נשלח בהצלחה">
+<!ENTITY requestOnSucess.accesskey  "נ">
+<!ENTITY requestOnFailure.label     "כשל במשלוח">
+<!ENTITY requestOnFailure.accesskey "כ">
+<!ENTITY requestOnDelay.label       "השהייה במשלוח">
+<!ENTITY requestOnDelay.accesskey   "ה">
+<!ENTITY requestNever.label         "אל תקבל יידוע מצב משלוח">
+<!ENTITY requestNever.accesskey     "א">
