@@ -20,8 +20,6 @@
 <!ENTITY secondsLabel.label            "secondes">
 <!ENTITY showFolderColumns.label       "Afficher les colonnes optionnelles dans la liste des dossiers">
 <!ENTITY showFolderColumns.accesskey   "f">
-<!ENTITY rememberLastMsg.label         "Se souvenir du dernier message sélectionné">
-<!ENTITY rememberLastMsg.accesskey     "e">
 <!ENTITY openMsgIn.label               "Ouvrir les messages dans :">
 <!ENTITY reuseExpRadio0.label          "une nouvelle fenêtre">
 <!ENTITY reuseExpRadio0.accesskey      "U">
