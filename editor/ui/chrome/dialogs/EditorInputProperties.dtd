@@ -52,7 +52,7 @@
 
 <!ENTITY InputSettings.label "Feldeinstellungen">
 <!ENTITY InputName.label "Feldname:">
-<!ENTITY InputName.accesskey "n"
+<!ENTITY InputName.accesskey "n">
 <!ENTITY GroupName.label "Gruppenname:">
 <!ENTITY GroupName.accesskey "r">
 <!ENTITY InputValue.label "Feldwert:">
