@@ -1,19 +1,18 @@
+<!-- Menu items:  the . means that the menu item isn't implemented yet -->
+
 <!ENTITY aboutCmd.label ".אודות">
 <!ENTITY compositionToolbarCmd.label "סרגל כלים עריכה">
-<!ENTITY compositiontb.accesskey "c">
+<!ENTITY compositionToolbarCmd.accesskey "ע">
 <!ENTITY editMode.label "מצב עריכה:">
 <!ENTITY editmodeToolbarCmd.label "סרגל כלים מצב עריכה">
-<!ENTITY editmodetb.accesskey "E">
+<!ENTITY editmodeToolbarCmd.accesskey "מ">
 <!ENTITY editorWindow.titlemodifier "Composer">
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 <!ENTITY formatMenu.label "עיצוב">
-<!ENTITY formatmenu.accesskey "o">
+<!ENTITY formatMenu.accesskey "ע">
 <!ENTITY formattingToolbarCmd.label "סרגל כלים עיצוב">
-<!ENTITY formattingtb.accesskey "f">
+<!ENTITY formattingToolbarCmd.accesskey "צ">
 <!ENTITY helpMenu.label "עזרה">
 <!ENTITY statusText.label "טעינת דף הסתיימה">
-<!-- ### ENTITY taskbarCmd.accesskey "S" -->
-<!-- ### ENTITY taskbarCmd.label "שורת מצב" -->
-<!-- ### ENTITY textEditorWindow.titlemodifier "עורך טקסט" -->
 <!ENTITY viewMenu.label "תצוגה">
-<!ENTITY viewmenu.accesskey "v">
+<!ENTITY viewMenu.accesskey "ת">

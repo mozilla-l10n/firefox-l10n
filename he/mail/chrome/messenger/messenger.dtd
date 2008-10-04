@@ -47,7 +47,7 @@
 <!ENTITY renameFolder.accesskey "ש">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "כווץ תיקיות">
-<!ENTITY compactFolder.accesskey "כ">
+<!ENTITY compactFolders.accesskey "כ">
 <!ENTITY emptyTrashCmd.label "רוקן אשפה">
 <!ENTITY emptyTrashCmd.accesskey "א">
 <!ENTITY importCmd.label "יבוא...">
@@ -273,8 +273,8 @@
 <!ENTITY nextStarredMsgCmd.label "הודעה מסומנת בכוכבית">
 <!ENTITY nextStarredMsgCmd.accesskey "ס">
 <!ENTITY nextUnreadThread.label "נושא דיון שלא נקרא">
-<!ENTITY nextUnreadThreadCmd.accesskey "נ">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "נ">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "הקודם">
 <!ENTITY prevMenu.accesskey "ה">
 <!ENTITY prevMsgCmd.label "הודעה">

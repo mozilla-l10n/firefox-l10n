@@ -1,30 +1,34 @@
-<!ENTITY Accept.accesskey "A">
+<!ENTITY Accept.accesskey "ק">
 <!ENTITY Accept.label "קבל סוגים:">
-<!ENTITY AccessKey.accesskey "K">
+<!ENTITY AccessKey.accesskey "מ">
 <!ENTITY AccessKey.label "מקש גישה:">
 <!ENTITY GroupName.label "שם קבוצה:">
-<!ENTITY ImageProperties.accesskey "E">
+<!ENTITY GroupName.accesskey "ש">
+<!ENTITY ImageProperties.accesskey "ת">
 <!ENTITY ImageProperties.label "מאפייני תמונה...">
 <!ENTITY InitialValue.label "ערך התחלתי:">
+<!ENTITY InitialValue.accesskey "ה">
 <!ENTITY InputChecked.accesskey "C">
 <!ENTITY InputChecked.label "מסומן מההתחלה">
 <!ENTITY InputDisabled.accesskey "D">
 <!ENTITY InputDisabled.label "לא מאופשר">
 <!ENTITY InputName.label "שם שדה:">
-<!ENTITY InputReadOnly.accesskey "R">
+<!ENTITY InputName.accesskey "ש">
+<!ENTITY InputReadOnly.accesskey "ק">
 <!ENTITY InputReadOnly.label "קריאה בלבד">
-<!ENTITY InputSelected.accesskey "S">
+<!ENTITY InputSelected.accesskey "ת">
 <!ENTITY InputSelected.label "נבחר מההתחלה">
 <!ENTITY InputSettings.label "הגדרות שדה">
-<!ENTITY InputType.accesskey "T">
+<!ENTITY InputType.accesskey "ס">
 <!ENTITY InputType.label "סוג שדה">
 <!ENTITY InputValue.label "ערך שדה:">
-<!ENTITY Name.accesskey "N">
-<!ENTITY TextLength.accesskey "L">
+<!ENTITY InputValue.accesskey "ע">
+<!-- ### ENTITY Name.accesskey "N" -->
+<!ENTITY TextLength.accesskey "א">
 <!ENTITY TextLength.label "אורך מקסימלי:">
-<!ENTITY TextSize.accesskey "F">
+<!ENTITY TextSize.accesskey "ג">
 <!ENTITY TextSize.label "גודל שדה:">
-<!ENTITY Value.accesskey "V">
+<!-- ### ENTITY Value.accesskey "ע" -->
 <!ENTITY button.value "כפתור">
 <!ENTITY checkbox.value "תיבת סימון">
 <!ENTITY file.value "קובץ">
