@@ -13,3 +13,4 @@
 <!ENTITY serverPort.label "שער: ">
 <!ENTITY userName.label "שם משתמש: ">
 <!ENTITY useSecureConnection.label "קשר מאובטח: ">
+<!ENTITY useSecureAuthentication.label   "אימות מאובטח: ">

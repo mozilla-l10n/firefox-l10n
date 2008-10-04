@@ -472,5 +472,14 @@
 <!ENTITY validateCmd.label "בדוק תקינות HTML‏">
 <!ENTITY viewPageSource.label "מקור של הדף">
 <!ENTITY viewParagraphMarks.label "סימני פסקה">
-<!ENTITY viewpagesource.accesskey "s">
-<!ENTITY viewparagraphmarks.accesskey "p">
+<!ENTITY viewpagesource.accesskey "מ">
+<!ENTITY viewparagraphmarks.accesskey "ס">
+<!ENTITY enableInlineSpellChecker.accesskey "ב">
+<!ENTITY enableInlineSpellChecker.label "בדוק איות תוך כדי הקלדה">
+<!ENTITY spellCheckAddToDictionary.accesskey "ה">
+<!ENTITY spellCheckAddToDictionary.label "הוסף למילון">
+<!ENTITY spellCheckIgnoreWord.accesskey "ע">
+<!ENTITY spellCheckIgnoreWord.label "התעלם ממילה">
+
+<!-- Used just in context popup. -->
+<!ENTITY spellCheckNoSuggestions.label "(לא נמצאו המלצות)">

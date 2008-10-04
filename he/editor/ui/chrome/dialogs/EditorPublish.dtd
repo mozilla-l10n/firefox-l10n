@@ -41,3 +41,22 @@
 <!ENTITY username.tooltip "שם המשתמש המשמש אותך להתחברות אל ספק הגישה שלך או שירות איחסון האתרים">
 <!ENTITY windowTitle.label "דף פירסום">
 <!ENTITY windowTitleSettings.label "הגדרות פרסום">
+<!ENTITY browseUrl.accesskey          "ע">
+<!ENTITY docDirList.accesskey         "ת">
+<!ENTITY docDirList.tooltip           "בחר או הכנס שם של תת תיקייה מרוחקת עבור דף זה">
+<!ENTITY filename.accesskey           "ק">
+<!ENTITY newSiteButton.accesskey      "ח">
+<!ENTITY otherDirList.tooltip         "בחר או הכנס שם של תיקייה מרוחקת שקבצים יפורסמו אליה">
+<!ENTITY pageTitle.accesskey          "כ">
+<!ENTITY password.accesskey           "ס">
+<!ENTITY publishImgCheckbox.accesskey "כ">
+<!ENTITY removeButton.accesskey       "ה">
+<!ENTITY sameLocationRadio.accesskey  "א">
+<!ENTITY savePassword.accesskey       "ר">
+<!ENTITY setDefaultButton.accesskey   "ב">
+<!ENTITY siteList.accesskey           "ש">
+<!ENTITY siteName.accesskey           "ש">
+<!ENTITY siteUrl.accesskey            "כ">
+<!ENTITY useSubdirRadio.accesskey     "ת">
+<!ENTITY useSubdirRadio.tooltip       "פרסם קבצים לתיקייה מרוחקת נבחרת">
+<!ENTITY username.accesskey           "מ">

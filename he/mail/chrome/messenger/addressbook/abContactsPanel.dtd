@@ -6,3 +6,12 @@
 <!ENTITY addtoBccFieldMenu.label "הוסף לשדה עותק סמוי">
 <!ENTITY toButton.label "הוסף לשורה אל:">
 <!ENTITY ccButton.label "הוסף לעותק:">
+<!ENTITY addrBookCardProperties.label       "מאפיינים">
+<!ENTITY addressbookPicker.accesskey        "פ">
+<!ENTITY bccButton.accesskey                "ס">
+<!ENTITY bccButton.label                    "הוסף עותק סמוי:">
+<!ENTITY ccButton.accesskey                 "d">
+
+<!ENTITY deleteAddrBookCard.label           "מחיקה">
+<!ENTITY searchInput.accesskey              "ח">
+<!ENTITY toButton.accesskey                 "א">

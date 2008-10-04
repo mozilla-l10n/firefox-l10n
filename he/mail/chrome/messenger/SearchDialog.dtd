@@ -66,3 +66,7 @@
 <!ENTITY starredColumn.tooltip "לחץ למיון לפי כוכבית">
 <!ENTITY locationColumn.tooltip "לחץ למיון לפי מיקום">
 <!ENTITY idColumn.tooltip "לחץ למיון לפי סדר הקבלה">
+<!ENTITY fromColumn.label "שולח">
+<!ENTITY fromColumn.tooltip "לחץ למיון לפי שולח">
+<!ENTITY receivedColumn.label "התקבלה">
+<!ENTITY receivedColumn.tooltip "לחץ למיון לפי תאריך קבלה">

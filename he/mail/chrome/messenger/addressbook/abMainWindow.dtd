@@ -196,3 +196,10 @@
 <!ENTITY minimizeWindow.label "מזער חלון">
 <!ENTITY bringAllToFront.label "הבא הכל לקידמה">
 <!ENTITY zoomWindow.label "הגדל חלון">
+<!ENTITY deleteCardsCmd2.label                          "מחק כרטיסים">
+<!ENTITY deleteItemsCmd.label                           "מחק פרטים">
+<!ENTITY deleteListCmd.label                            "מחק רשימה">
+<!ENTITY deleteListsCmd.label                           "מחק רשימות">
+<!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
+<!ENTITY osxAddressBook.label                           "Use Mac OS X Address Book">
+<!ENTITY osxAddressBook.accesskey                       "O">

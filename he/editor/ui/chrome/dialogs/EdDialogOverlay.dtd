@@ -9,3 +9,7 @@
 <!ENTITY makeUrlRelative.accessKey "r">
 <!ENTITY makeUrlRelative.label "ה־URL הוא יחסי למיקום הדף">
 <!ENTITY makeUrlRelative.tooltip "החלף בין URL יחסי ומוחלט. עליך תחילה לשמור את הדף כדי להחליף זאת.">
+<!ENTITY chooseFileButton.accessKey "ק">
+<!ENTITY chooseFileButton.label "בחר קובץ...">
+<!ENTITY chooseFileLinkButton.accessKey "ב">
+<!ENTITY chooseFileLinkButton.label "בחר קובץ...">
