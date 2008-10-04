@@ -1,0 +1,11 @@
+<!ENTITY editContactName.label "שם:">
+<!ENTITY editContactName.accesskey "ש">
+
+<!ENTITY editContactEmail.label 'דוא"ל:'>
+<!ENTITY editContactEmail.accesskey "ד">
+
+<!ENTITY editContactPanelCancel.label "ביטול">
+<!ENTITY editContactPanelCancel.accesskey "ב">
+
+<!ENTITY editContactPanelDone.label "סיום">
+<!ENTITY editContactPanelDone.accesskey "ס">
