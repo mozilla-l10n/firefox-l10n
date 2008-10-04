@@ -80,9 +80,7 @@
 <!ENTITY cellSelectPrevious.accessKey     "P">
 <!ENTITY cellApplyBeforeMove.label        "Appliquer les changements avant de changer la sélection">
 <!ENTITY cellKeepCurrentData.label        "Garder les paramètres courants">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label         "Les changements actuels vont être appliqués">
-<!ENTITY applyBeforeChange2.label         "avant de changer la sélection.">
+<!ENTITY applyBeforeChange.label          "Les changements actuels vont être appliqués avant de changer la sélection.">
 <!ENTITY cellRowSpan.label                "Fusion des lignes :">
 <!ENTITY cellColSpan.label                "Fusion des colonnes :">
 <!ENTITY cellContentAlignment.label       "Alignement du contenu :">
