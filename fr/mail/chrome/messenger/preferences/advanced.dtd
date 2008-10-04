@@ -68,6 +68,19 @@
 <!ENTITY offlineCompact.accesskey "C">
 <!ENTITY kb.label "Ko">
 
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+
+<!ENTITY useCacheBefore.label            "Utiliser jusqu'à">
+<!ENTITY useCacheBefore.accesskey        "U">
+<!ENTITY useCacheAfter.label             "Mo d'espace disque pour le cache">
+<!ENTITY clearCacheNow.label             "Vider le cache maintenant">
+<!ENTITY clearCacheNow.accesskey         "V">
+
 <!-- Certificates -->
 <!ENTITY certificatesInfo2.label       "Gérer les certificats, les listes de révocation, la validation des certificats et les périphériques de sécurité.">
 <!ENTITY viewCertificates.label        "Voir les certificats">
