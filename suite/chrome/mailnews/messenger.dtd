@@ -83,7 +83,7 @@
 <!ENTITY renameFolder.label "Renommer le dossier…">
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY compactFolders.label "Compacter les dossiers">
-<!ENTITY compactFolder.accesskey "C">
+<!ENTITY compactFolders.accesskey "C">
 <!ENTITY emptyTrashCmd.label "Vider la corbeille">
 <!ENTITY emptyTrashCmd.accesskey "V">
 <!ENTITY offlineMenu.label "Déconnecter">
@@ -311,8 +311,8 @@
 <!ENTITY nextFlaggedMsgCmd.accesskey "c">
 <!ENTITY nextUnflaggedMsgCmd.label "Message non coché">
 <!ENTITY nextUnreadThread.label "Discussion non lue">
-<!ENTITY nextUnreadThreadCmd.accesskey "n">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "n">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Précédent">
 <!ENTITY prevMenu.accesskey "P">
 <!ENTITY prevMsgCmd.label "Message">
@@ -326,7 +326,7 @@
 <!ENTITY goForwardCmd.label "Suivant">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Message coché">
-<!ENTITY previousFlaggedMsgCmd.accesskey "c">
+<!ENTITY prevFlaggedMsgCmd.accesskey "c">
 <!ENTITY backCmd.label "Retour">
 <!ENTITY backCmd.accesskey "R">
 <!ENTITY forwardCmd.label "Suivant">
