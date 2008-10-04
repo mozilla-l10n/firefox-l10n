@@ -81,8 +81,7 @@
 <!ENTITY cellApplyBeforeMove.label        "Änderungen vor Auswahländerung anwenden">
 <!ENTITY cellKeepCurrentData.label        "Aktuelle Eistellungen behalten">
 <!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label         "Aktuelle Änderungen werden angewendet">
-<!ENTITY applyBeforeChange2.label         "bevor die Auswahl verändert wird.">
+<!ENTITY applyBeforeChange.label          "Aktuelle Änderungen werden angewendet bevor die Auswahl verändert wird.">
 <!ENTITY cellRowSpan.label                "Zeilen-Spanne:">
 <!ENTITY cellColSpan.label                "Spalten-Spanne:">
 <!ENTITY cellContentAlignment.label       "Inhalt ausrichten:">
