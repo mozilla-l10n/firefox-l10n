@@ -14,7 +14,7 @@
 <!ENTITY enableStartPage.label            "Beim Aufrufen von &brandShortName; die Startseite anzeigen">
 <!ENTITY enableStartPage.accesskey        "S">
 <!ENTITY location.label                   "Adresse:">
-<!ENTITY location1.accesskey               "A">
+<!ENTITY location1.accesskey              "A">
 <!ENTITY useDefault.label                 "Standard wiederherstellen">
 <!ENTITY useDefault.accesskey             "w">
 
@@ -23,7 +23,7 @@
 
 <!ENTITY newMessagesArrive.label          "Wenn neue Nachrichten eintreffen">
 <!ENTITY playSound.label                  "Einen Klang abspielen">
-<!ENTITY playSound1.accesskey              "e">
+<!ENTITY playSound1.accesskey             "e">
 <!ENTITY showAnimatedAlert.label          "Eine Benachrichtigung anzeigen">
 <!ENTITY showAnimatedAlert.accesskey      "n">
 <!ENTITY customizeMailAlert.label         "Anpassen…">
@@ -40,3 +40,9 @@
 <!ENTITY customsound.accesskey            "u">
 <!ENTITY browse.label                     "Durchsuchen…">
 <!ENTITY browse.accesskey                 "D">
+
+<!ENTITY addonsMgr.label                  "Add-ons">
+<!ENTITY manageAddonsDescWin.label        "Add-on-Einstellungen ändern">
+<!ENTITY manageAddonsDescUnix2.label      "Add-on-Optionen ändern">
+<!ENTITY manageAddons.label               "Add-ons verwalten…">
+<!ENTITY manageAddons.accesskey           "v">
