@@ -1,0 +1,105 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Thunderbird Preferences System
+   -
+   - The Initial Developer of the Original Code is
+   - Scott MacGregor
+   - Portions created by the Initial Developer are Copyright (C) 2005
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Matthew Willis <lilmatt@mozilla.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+
+<!-- https://bugzilla.mozilla.org/show_bug.cgi?id=382822 -->
+
+<!ENTITY pref.calendar.advanced.generalTab.label "Üldine">
+<!ENTITY pref.calendar.advanced.passwordsTab.label "Paroolid">
+<!ENTITY pref.calendar.advanced.updateTab.label "Uuendamine">
+<!ENTITY pref.calendar.advanced.encryptionTab.label "Krüptimine">
+
+
+<!-- General -->
+<!ENTITY pref.calendar.advanced.showConnections.label     "Ühenduse sätted…">
+<!ENTITY pref.calendar.advanced.showConnections.accesskey "Ü">
+<!ENTITY pref.calendar.advanced.proxiesInfo.label         "Määra, kuidas &brandShortName; internetti ühendub">
+<!ENTITY pref.calendar.advanced.configEdit.caption "Täpsem häälestus">
+<!ENTITY pref.calendar.advanced.configEdit.button "Konfiguratsiooni readktor…">
+<!ENTITY pref.calendar.advanced.configEdit.accesskey "K">
+
+<!-- Passwords -->
+<!ENTITY pref.calendar.advanced.savedPasswords.intro "&brandShortName; võib kõigi sinu kalendrite jaoks paroole meeles pidada, et sa ei peaks neid korduvalt sisestama.">
+<!ENTITY pref.calendar.advanced.useMasterPassword.label "Kasuta ülemparooli paroolide krüptimiseks">
+<!ENTITY pref.calendar.advanced.useMasterPassword.accesskey "p">
+<!ENTITY pref.calendar.advanced.masterPassword.intro "Kui ülemparool on määratud, kaitseb see sinu paroole, kuid sa pead selle sisestama korra seansi jooksul.">
+<!ENTITY pref.calendar.advanced.changeMasterPassword.label "Muuda ülemparooli…">
+<!ENTITY pref.calendar.advanced.changeMasterPassword.accesskey "M">
+<!ENTITY pref.calendar.advanced.viewPasswords.label "Vaata salvestatud paroole…">
+<!ENTITY pref.calendar.advanced.viewPasswords.accesskey "V">
+
+<!-- Update -->
+<!ENTITY pref.calendar.advanced.update.autoCheck.label "Järgmisi uuendusi kontrollitakse automaatselt:">
+<!ENTITY pref.calendar.advanced.update.enableAppUpdate.label "&brandShortName;">
+<!ENTITY pref.calendar.advanced.update.enableAppUpdate.accesskey "r">
+<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.label "Paigaldatud lisad">
+<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.accesskey "l">
+<!ENTITY pref.calendar.advanced.update.whenUpdatesFound.label "Kui &brandShortName;ile leitakse uuendusi:">
+<!ENTITY pref.calendar.advanced.update.modeAskMe.label "Küsitakse, mida teha">
+<!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "s">
+<!ENTITY pref.calendar.advanced.update.modeAuto.label "Uuendused laaditakse alla ja paigaldatakse automaatselt">
+<!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "d">
+<!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "Hoiatatakse, kui see keelab mõne lisa">
+<!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "o">
+<!ENTITY pref.calendar.advanced.update.showHistory.label "Näita uuenduste ajalugu…">
+<!ENTITY pref.calendar.advanced.update.showHistory.accesskey "n">
+
+<!-- Encryption -->
+<!ENTITY pref.calendar.advanced.encryption.protocols.label "Protokollid">
+<!ENTITY pref.calendar.advanced.encryption.useSSL3.label "Kasuta SSL 3.0">
+<!ENTITY pref.calendar.advanced.encryption.useSSL3.accesskey "3">
+<!ENTITY pref.calendar.advanced.encryption.useTLS1.label "Kasuta TLS 1.0">
+<!ENTITY pref.calendar.advanced.encryption.useTLS1.accesskey "1">
+<!ENTITY pref.calendar.advanced.encryption.certificates.label "Sertifikaadid">
+<!ENTITY pref.calendar.advanced.encryption.certSelection.description "Kui server küsib minu isiklikku sertifikaati:">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto "Vali üks automaatselt">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto.accesskey "a">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask "Küsi minult iga kord">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "i">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.label "Näita sertifikaate">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.accesskey "f">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "Tühistusnimekirjad">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.accesskey "T">
+<!ENTITY pref.calendar.advanced.encryption.verify2.label "Valideerimine">
+<!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "e">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label "Turvaseadmed">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "u">
