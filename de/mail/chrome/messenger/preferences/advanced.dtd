@@ -29,9 +29,6 @@
 <!ENTITY reuseExpRadio1.accesskey      "v">
 <!ENTITY reuseExpRadio2.label          "neuem Tab">
 <!ENTITY reuseExpRadio2.accesskey      "u">
-<!ENTITY connectionTimeout.label       "Abbruch (Timeout) der Verbindung nach">
-<!ENTITY connectionTimeout.accesskey   "A">
-<!ENTITY connectionSeconds.label       "Sekunden">
 <!ENTITY configEditDesc.label          "Erweiterte Konfiguration (about:config):">
 <!ENTITY configEdit.label              "Konfiguration bearbeiten…">
 <!ENTITY configEdit.accesskey          "K">
@@ -57,12 +54,12 @@
 <!ENTITY showUpdates.accesskey          "U">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showConnections.label          "Verbindung…">
-<!ENTITY showConnections.accesskey      "V">
-<!ENTITY proxiesInfo.label              "Proxies für den Zugriff auf das Internet konfigurieren:">
+<!ENTITY showSettings.label             "Einstellungen…">
+<!ENTITY showSettings.accesskey         "E">
+<!ENTITY proxiesConfigure.label         "Festlegen wie sich &brandShortName; mit dem Internet verbindet">
 <!ENTITY connectionsInfo.caption        "Verbindung">
 <!ENTITY offlineInfo.caption            "Offline">
-<!ENTITY offlineInfo.label              "Das Verhalten im Offline-Modus konfigurieren:">
+<!ENTITY offlineInfo.label              "Das Verhalten des Offline-Modus konfigurieren">
 <!ENTITY showOffline.label              "Offline…">
 <!ENTITY showOffline.accesskey          "O">
 
