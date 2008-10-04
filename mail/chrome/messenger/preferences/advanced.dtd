@@ -20,8 +20,6 @@
 <!ENTITY secondsLabel.label            "Sekunden">
 <!ENTITY showFolderColumns.label       "Info-Spalten in der Ordner-Liste anzeigen">
 <!ENTITY showFolderColumns.accesskey   "I">
-<!ENTITY rememberLastMsg.label         "Die zuletzt gewählte Nachricht merken">
-<!ENTITY rememberLastMsg.accesskey     "D">
 <!ENTITY openMsgIn.label               "Nachricht durch Doppelklick öffnen in:">
 <!ENTITY reuseExpRadio0.label          "neuem Fenster">
 <!ENTITY reuseExpRadio0.accesskey      "n">
