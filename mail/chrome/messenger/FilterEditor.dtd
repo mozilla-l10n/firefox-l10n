@@ -41,3 +41,12 @@
 <!ENTITY fetchFromPOP.label "טען משרת POP">
 <!ENTITY ignoreThread.label "התעלם מנושא דיון">
 <!ENTITY watchThread.label "עקוב אחר נושא דיון">
+
+<!ENTITY contextBoth.label "בודק דואר או מורץ ידנית">
+
+<!ENTITY contextDesc.accesskey "כ">
+<!ENTITY contextDesc.label "הפעל מסננים כאשר:">
+<!ENTITY contextIncoming.label "בודק דואר">
+<!ENTITY contextManual.label "מורץ ידנית">
+<!ENTITY ignoreSubthread.label "התעלם מתת שרשור">
+<!ENTITY stopExecution.label "הפסק הפעלת מסננים">

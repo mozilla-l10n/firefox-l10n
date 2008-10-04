@@ -72,3 +72,29 @@
 <!ENTITY Custom4.label "מותאם אישית 4:">
 <!ENTITY Custom4.accesskey "4">
 <!ENTITY Notes.box "הערות">
+<!ENTITY Address.accesskey              "כ">
+<!ENTITY Age.emptytext                  "גיל">
+<!ENTITY Birthday.accesskey             "ל">
+<!ENTITY Birthday.label                 "תאריך לידה:">
+<!ENTITY Company.accesskey              "ח">
+<!ENTITY Contact.accesskey               "ק">
+<!ENTITY Department.accesskey           "מ">
+<!ENTITY HomeAddress.accesskey          "כ">
+<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.accesskey             "ע">
+<!ENTITY HomeCountry.accesskey          "א">
+<!ENTITY HomeState.accesskey            "מ">
+<!ENTITY HomeWebPage.accesskey          "א">
+<!ENTITY HomeZipCode.accesskey          "ק">
+<!ENTITY JobTitle.accesskey             "e">
+<!ENTITY Notes.accesskey                "ה">
+<!ENTITY Or.value                       "או">
+<!ENTITY Other.accesskey                "ח">
+<!ENTITY WorkAddress.accesskey          "כ">
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.accesskey             "ע">
+<!ENTITY WorkCountry.accesskey          "א">
+<!ENTITY WorkState.accesskey            "מ">
+<!ENTITY WorkWebPage.accesskey          "א">
+<!ENTITY WorkZipCode.accesskey          "ק">
+<!ENTITY Year.emptytext                 "שנה">

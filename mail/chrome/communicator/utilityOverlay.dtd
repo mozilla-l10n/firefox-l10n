@@ -56,3 +56,6 @@
 <!ENTITY quitApplicationCmd.accesskey "צ">
 <!ENTITY quitApplicationCmdUnix.label "יציאה">
 <!ENTITY quitApplicationCmdUnix.accesskey "צ">
+<!ENTITY quitApplicationCmdMac.accesskey  "q">
+
+<!ENTITY quitApplicationCmdMac.label  "צא מ־&brandShortName;">

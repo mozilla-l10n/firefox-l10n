@@ -21,3 +21,4 @@
 <!ENTITY place.accesskey "p">
 <!ENTITY belowText.label "מתחת לציטוט (מומלץ)">
 <!ENTITY aboveText.label "מתחת לתשובתי (מעל הציטוט)">
+<!ENTITY directoriesNone.label     "ללא">

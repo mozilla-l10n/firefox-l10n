@@ -23,5 +23,7 @@
 <!ENTITY savingFiles.title "בעת שמירת או פרסום דפים">
 <!ENTITY showPublishDialog.accesskey "A">
 <!ENTITY showPublishDialog.label 'תמיד הראה את תיבת הדו־שיח "פרסם" בעת פרסום דפים'>
-<!ENTITY useCSS.accesskey "U">
+<!ENTITY useCSS.accesskey "ה">
 <!ENTITY useCSS.label "השתמש בסגנונות CSS במקום רכיבי ותכונות HTML">
+<!ENTITY  spellCheckInline.accesskey    "ב">
+<!ENTITY  spellCheckInline.label        "בדוק איות תוך כדי הקלדה">
