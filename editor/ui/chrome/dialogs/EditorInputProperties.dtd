@@ -52,11 +52,13 @@
 
 <!ENTITY InputSettings.label "Feldeinstellungen">
 <!ENTITY InputName.label "Feldname:">
+<!ENTITY InputName.accesskey "n"
 <!ENTITY GroupName.label "Gruppenname:">
-<!ENTITY Name.accesskey "N">
+<!ENTITY GroupName.accesskey "r">
 <!ENTITY InputValue.label "Feldwert:">
+<!ENTITY InputValue.accesskey "w">
 <!ENTITY InitialValue.label "Anfangswert:">
-<!ENTITY Value.accesskey "W">
+<!ENTITY InitialValue.accesskey "f">
 <!ENTITY InputChecked.label "Anfangs angehakt">
 <!ENTITY InputChecked.accesskey "A">
 <!ENTITY InputSelected.label "Anfangs ausgewählt">
@@ -68,13 +70,13 @@
 <!ENTITY tabIndex.label "Tab-Index:">
 <!ENTITY tabIndex.accesskey "I">
 <!ENTITY TextSize.label "Feldgröße:">
-<!ENTITY TextSize.accesskey "G">
+<!ENTITY TextSize.accesskey "g">
 <!ENTITY TextLength.label "Maximallänge:">
 <!ENTITY TextLength.accesskey "l">
 <!ENTITY AccessKey.label "Zugriffstaste:">
 <!ENTITY AccessKey.accesskey "T">
 <!ENTITY Accept.label "Typen akzeptieren:">
-<!ENTITY Accept.accesskey "a">
+<!ENTITY Accept.accesskey "y">
 
 <!ENTITY ImageProperties.label "Grafik-Eigenschaften…">
 <!ENTITY ImageProperties.accesskey "E">
