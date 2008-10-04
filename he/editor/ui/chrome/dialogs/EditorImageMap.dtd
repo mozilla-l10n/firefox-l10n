@@ -1,51 +1,51 @@
-<!ENTITY about.accesskey "b">
-<!ENTITY aboutCmd.label "אודות">
+<!-- ### ENTITY about.accesskey "b" -->
+<!-- ### ENTITY aboutCmd.label "אודות" -->
 <!ENTITY apercentCmd.label "100">
 <!ENTITY bpercentCmd.label "200">
-<!ENTITY clear.accesskey "d">
+<!-- ### ENTITY clear.accesskey "d" -->
 <!ENTITY clearCmd.label "נקה">
-<!ENTITY close.accesskey "l">
+<!-- ### ENTITY close.accesskey "l" -->
 <!ENTITY closeCmd.label "סגור">
-<!ENTITY contrast.accesskey "n">
-<!ENTITY contrastCmd.label "ניגודיות">
-<!ENTITY copy.accesskey "c">
+<!-- ### ENTITY contrast.accesskey "n" -->
+<!-- ### ENTITY contrastCmd.label "ניגודיות" -->
+<!-- ### ENTITY copy.accesskey "c" -->
 <!ENTITY copyCmd.label "העתק">
 <!ENTITY cpercentCmd.label "400">
-<!ENTITY cut.accesskey "x">
+<!-- ### ENTITY cut.accesskey "x" -->
 <!ENTITY cutCmd.label "גזור">
 <!ENTITY delSpotCmd.label "מחק נקודה">
 <!ENTITY mapeditMenu.label "עריכה">
-<!ENTITY mapeditcopy.accesskey "c">
-<!ENTITY mapeditcut.accesskey "t">
-<!ENTITY mapeditmenu.accesskey "e">
-<!ENTITY mapeditpaste.accesskey "p">
-<!ENTITY mapeditprops.accesskey "h">
+<!-- ### ENTITY mapeditcopy.accesskey "c" -->
+<!-- ### ENTITY mapeditcut.accesskey "t"  -->
+<!-- ### ENTITY mapeditmenu.accesskey "e" -->
+<!-- ### ENTITY mapeditpaste.accesskey "p" -->
+<!-- ### ENTITY mapeditprops.accesskey "h" -->
 <!ENTITY mapfileMenu.label "קובץ">
-<!ENTITY mapfileclear.accesskey "a">
-<!ENTITY mapfileclose.accesskey "c">
-<!ENTITY mapfilemenu.accesskey "f">
-<!ENTITY maphelpMenu.label "עזרה">
-<!ENTITY maphelpmenu.accesskey "h">
-<!ENTITY mapselectall.accesskey "s">
+<!-- ### ENTITY mapfileclear.accesskey "a" -->
+<!-- ### ENTITY mapfileclose.accesskey "c" -->
+<!-- ### ENTITY mapfilemenu.accesskey "f" -->
+<!-- ### ENTITY maphelpMenu.label "עזרה" -->
+<!-- ### ENTITY maphelpmenu.accesskey "h" -->
+<!-- ### ENTITY mapselectall.accesskey "s" -->
 <!ENTITY mapviewMenu.label "תצוגה">
 <!ENTITY mapviewScale.label "קנה מידה">
-<!ENTITY mapviewmenu.accesskey "v">
-<!ENTITY mapviewscale.accesskey "S">
-<!ENTITY mapviewtbar.accesskey "t">
-<!ENTITY paste.accesskey "v">
+<!-- ### ENTITY mapviewmenu.accesskey "v" -->
+<!-- ### ENTITY mapviewscale.accesskey "S" -->
+<!-- ### ENTITY mapviewtbar.accesskey "t" -->
+<!-- ### ENTITY paste.accesskey "v" -->
 <!ENTITY pasteCmd.label "הדבק">
-<!ENTITY props.accesskey "p">
+<!-- ### ENTITY props.accesskey "p" -->
 <!ENTITY propsCmd.label "מאפייני נקודות חמות">
-<!ENTITY selectall.accesskey "a">
+<!-- ### ENTITY selectall.accesskey "a" -->
 <!ENTITY selectallCmd.label "בחר הכל">
 <!ENTITY showhideTbarCmd.label "הסתר סרגל כלים">
-<!ENTITY tbar.accesskey "t">
+<!-- ### ENTITY tbar.accesskey "t" -->
 <!ENTITY windowTitle.label "עורך מיפוי תמונה">
 <!ENTITY zoominCmd.label "הגדל">
-<!ENTITY zoomone.accesskey "1">
+<!-- ### ENTITY zoomone.accesskey "1" -->
 <!ENTITY zoomoutCmd.label "הקטן">
-<!ENTITY zoomthree.accesskey "4">
-<!ENTITY zoomtwo.accesskey "2">
+<!-- ### ENTITY zoomthree.accesskey "4" -->
+<!-- ### ENTITY zoomtwo.accesskey "2" -->
 <!ENTITY apercentCmd.accesskey "1">
 <!ENTITY bpercentCmd.accesskey "2">
 
