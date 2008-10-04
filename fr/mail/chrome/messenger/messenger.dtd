@@ -46,7 +46,7 @@
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2"> 
 <!ENTITY compactFolders.label "Compacter les dossiers">
-<!ENTITY compactFolder.accesskey "C">
+<!ENTITY compactFolders.accesskey "C">
 <!ENTITY emptyTrashCmd.label "Vider la corbeille">
 <!ENTITY emptyTrashCmd.accesskey "V">
 <!ENTITY importCmd.label "Importer…">
@@ -284,8 +284,8 @@
 <!ENTITY nextStarredMsgCmd.label "Message suivi">
 <!ENTITY nextStarredMsgCmd.accesskey "v">
 <!ENTITY nextUnreadThread.label "Discussion non lue">
-<!ENTITY nextUnreadThreadCmd.accesskey "s">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "s">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Précédent">
 <!ENTITY prevMenu.accesskey "r">
 <!ENTITY prevMsgCmd.label "Message">

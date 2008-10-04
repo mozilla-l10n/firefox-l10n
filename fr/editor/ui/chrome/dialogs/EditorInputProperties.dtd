@@ -52,11 +52,13 @@
 
 <!ENTITY InputSettings.label "Paramètres du champ">
 <!ENTITY InputName.label "Nom du champ :">
+<!ENTITY InputName.accesskey "o">
 <!ENTITY GroupName.label "Nom du groupe :">
-<!ENTITY Name.accesskey "N">
+<!ENTITY GroupName.accesskey "N">
 <!ENTITY InputValue.label "Valeur du champ :">
+<!ENTITY InputValue.accesskey "u">
 <!ENTITY InitialValue.label "Valeur initiale :">
-<!ENTITY Value.accesskey "V">
+<!ENTITY InitialValue.accesskey "V">
 <!ENTITY InputChecked.label "Initialement coché">
 <!ENTITY InputChecked.accesskey "c">
 <!ENTITY InputSelected.label "Initialement sélectionné">
