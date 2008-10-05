@@ -34,32 +34,32 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
-
 <!ENTITY editorWindow.titlemodifier "Composer">
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
+
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
+
 <!-- View menu items -->
-
-
 <!ENTITY viewMenu.label "Ver">
-<!ENTITY viewmenu.accesskey "v">
+<!ENTITY viewMenu.accesskey "v">
 <!ENTITY compositionToolbarCmd.label "Barra de Ferramentas de Composição">
-<!ENTITY compositiontb.accesskey "C">
+<!ENTITY compositionToolbarCmd.accesskey "C">
 <!ENTITY formattingToolbarCmd.label "Barra de Ferramentas de Formatação">
-<!ENTITY formattingtb.accesskey "F">
+<!ENTITY formattingToolbarCmd.accesskey "F">
 <!ENTITY editmodeToolbarCmd.label "Editar Modo da barra de Ferramentas">
-<!ENTITY editmodetb.accesskey "E">
-<!-- Format menu items -->
+<!ENTITY editmodeToolbarCmd.accesskey "E">
 
+<!-- Format menu items -->
 <!ENTITY formatMenu.label "Formato">
-<!ENTITY formatmenu.accesskey "o">
+<!ENTITY formatMenu.accesskey "o">
 
 <!ENTITY helpMenu.label "Ajuda">
 <!ENTITY aboutCmd.label ".Sobre">
-<!-- Display Mode Toolbar -->
 
+<!-- Display Mode Toolbar -->
 <!ENTITY editMode.label "Modo de Edição:">
 
 <!ENTITY statusText.label "Carregamento da página efectuado">
