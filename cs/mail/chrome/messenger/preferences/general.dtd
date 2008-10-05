@@ -1,5 +1,5 @@
 <!ENTITY systemDefaults.label "Nastavení systému">
-<!ENTITY alwaysCheckDefault.label "Při startu kontrolovat, zda je &brandShortName; výchozím poštovním klientem">
+<!ENTITY alwaysCheckDefault.label "Při startu aplikace &brandShortName; kontrolovat, zda je výchozím poštovním klientem">
 <!ENTITY alwaysCheckDefault.accesskey "t">
 <!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
  There's some sort of bug which makes wrapping checkboxes not properly reflow,
@@ -11,7 +11,7 @@
 <!ENTITY checkNow.accesskey "n">
 
 <!ENTITY messengerStartPage.label "Úvodní stránka pošty">
-<!ENTITY enableStartPage.label "Při spuštění aplikace &brandShortName; zobrazovat úvodní stránku v oblasti zpráv">
+<!ENTITY enableStartPage.label "Při spuštění aplikace &brandShortName; zobrazit úvodní stránku">
 <!ENTITY enableStartPage.accesskey "s">
 <!ENTITY location.label "Adresa:">
 <!ENTITY location1.accesskey "A">
@@ -21,7 +21,7 @@
 <!ENTITY bounceSystemDockIcon.label "Animovat ikonku v doku">
 <!ENTITY bounceSystemDockIcon.accesskey "A">
 
-<!ENTITY newMessagesArrive.label "Při příchodu nové zprávy:">
+<!ENTITY newMessagesArrive.label "Při příchodu nové zprávy">
 <!ENTITY playSound.label "Přehrát zvuk">
 <!ENTITY playSound1.accesskey "P">
 <!ENTITY showAnimatedAlert.label "Zobrazit upozornění">
