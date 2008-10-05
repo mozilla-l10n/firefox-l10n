@@ -27,4 +27,3 @@
 <!-- <!ENTITY enablePrefetch.label         "Enable link prefetching"> -->
 <!ENTITY enablePrefetch.label "Durant la inactivitat, prepara les pàgines web designades de manera que els enllaços que incloguin es carreguin més ràpidament.">
 <!ENTITY enablePrefetch.accesskey "D">
-<!-- <!ENTITY prefetchDesc.label           "If you check this item, &brandShortName; will follow special directives from websites to prefetch content while the browser is idle.  Websites designed to take advantage of this feature will appear to load quicker."> -->
