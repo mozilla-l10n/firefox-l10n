@@ -46,17 +46,19 @@
 <!ENTITY submit.value "Botão Submeter">
 <!ENTITY reset.value "Botão Reiniciar">
 <!ENTITY file.value "Ficheiro">
-<!ENTITY hidden.value "Escondido">
+<!ENTITY hidden.value "Oculto">
 <!ENTITY image.value "Imagem">
 <!ENTITY button.value "Botão">
 
 <!ENTITY InputSettings.label "Configurações do Campo">
 <!ENTITY InputName.label "Nome do Campo:">
+<!ENTITY InputName.accesskey "N">
 <!ENTITY GroupName.label "Nome do Grupo:">
-<!ENTITY Name.accesskey "N">
+<!ENTITY GroupName.accesskey "N">
 <!ENTITY InputValue.label "Valor do Campo:">
+<!ENTITY InputValue.accesskey "V">
 <!ENTITY InitialValue.label "Valor Inicial:">
-<!ENTITY Value.accesskey "V">
+<!ENTITY InitialValue.accesskey "V">
 <!ENTITY InputChecked.label "Verificado Inicialmente">
 <!ENTITY InputChecked.accesskey "E">
 <!ENTITY InputSelected.label "Seleccionado Inicialmente">

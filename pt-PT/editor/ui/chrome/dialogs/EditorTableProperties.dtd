@@ -80,9 +80,7 @@
 <!ENTITY cellSelectPrevious.accessKey "A">
 <!ENTITY cellApplyBeforeMove.label "Aplicar alterações antes de alterar selecção">
 <!ENTITY cellKeepCurrentData.label "Manter configurações actuais">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label "As Modificações actuais serão aplicadas">
-<!ENTITY applyBeforeChange2.label "antes de alterar a selecção.">
+<!ENTITY applyBeforeChange.label "As Modificações actuais serão aplicadas antes de alterar a selecção.">
 <!ENTITY cellRowSpan.label "Span da Linha:">
 <!ENTITY cellColSpan.label "Span da Coluna:">
 <!ENTITY cellContentAlignment.label "Alinhamento do Conteúdo">
@@ -105,8 +103,8 @@
 <!ENTITY cellAlignAtChar.label "SEM Caracteres:">
 <!ENTITY cellInheritColor.label "(Apresentar a cor da tabela através)">
 <!ENTITY cellUseCheckboxHelp.label "Utilizar caixas de selecção para determinar quais as propriedades a aplicar a todas as células seleccionadas">
-<!-- Used in both Table and Cell panels  -->
 
+<!-- Used in both Table and Cell panels  -->
 <!ENTITY size.label "Tamanho">
 <!ENTITY pixels.label "pixéis">
 <!ENTITY backgroundColor.label "Cor de Fundo:">
