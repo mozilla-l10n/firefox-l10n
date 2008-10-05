@@ -86,7 +86,7 @@
 <!ENTITY renameFolder.label "Pervardyti aplanką…">
 <!ENTITY renameFolder.accesskey "e">
 <!ENTITY compactFolders.label "Suglaudinti aplankus">
-<!ENTITY compactFolder.accesskey		"d">
+<!ENTITY compactFolders.accesskey		"g">
 <!ENTITY emptyTrashCmd.label "Išvalyti šiukšlinę">
 <!ENTITY emptyTrashCmd.accesskey		"v">
 <!ENTITY importCmd.label "Importuoti…">
@@ -328,8 +328,8 @@
 <!ENTITY nextFlaggedMsgCmd.accesskey "r">
 <!ENTITY nextUnflaggedMsgCmd.label "gairele nepažymėtą laišką">
 <!ENTITY nextUnreadThread.label "giją neskaitytų laiškų">
-<!ENTITY nextUnreadThreadCmd.accesskey "i">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "i">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Į ankstesnį">
 <!ENTITY prevMenu.accesskey "a">
 <!ENTITY prevMsgCmd.label "laišką">
@@ -343,7 +343,7 @@
 <!ENTITY goForwardCmd.label "Pirmyn">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "gairele pažymėtą laišką">
-<!ENTITY previousFlaggedMsgCmd.accesskey "a">
+<!ENTITY prevFlaggedMsgCmd.accesskey "a">
 <!ENTITY backCmd.label ".Atgal">
 <!ENTITY backCmd.accesskey "t">
 <!ENTITY forwardCmd.label ".Persiųsti">
