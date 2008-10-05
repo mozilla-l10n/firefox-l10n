@@ -108,7 +108,7 @@
 <!ENTITY editmenu.accesskey "e">
 <!ENTITY editpastelink.accesskey "l">
 <!ENTITY editpastequotation.accesskey "q">
-<!ENTITY editpastequotation.keybinding "v">
+<!-- ### ENTITY editpastequotation.keybinding "v" -->
 <!-- ### ENTITY executeJSTransactionViaEditor.label "הפעל פקודת JS דרך עורך" -->
 <!-- ### ENTITY executeJSTransactionViaTxmgr.label "בצע העברות JS דרך מנהל העברות" -->
 <!ENTITY exitCmd.label "יציאה">
@@ -309,6 +309,7 @@
 <!ENTITY pasteLinkCmd.label "קישור">
 <!ENTITY pasteNoFormatting.accesskey "o">
 <!ENTITY pasteNoFormatting.label "הדבק ללא עיצוב">
+<!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteRows.accesskey "r">
 <!ENTITY pasteRowsCmd.label "שורות">
 <!ENTITY pasteTable.accesskey "a">
