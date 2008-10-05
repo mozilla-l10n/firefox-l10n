@@ -112,6 +112,7 @@
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "Formatar">
 <!ENTITY formatMenu.accesskey "m">
+
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Opções">
 <!ENTITY optionsMenu.accesskey "o">
@@ -158,6 +159,7 @@
 <!ENTITY fileCarbonCopyCmd.label "Guardar uma cópia em">
 <!ENTITY fileCarbonCopyCmd.accesskey "g">
 <!ENTITY fileHereMenu.label "(Nesta pasta)">
+
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Ferramentas">
 <!ENTITY tasksMenu.accesskey "F">
