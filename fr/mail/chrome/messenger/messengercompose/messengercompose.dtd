@@ -70,6 +70,7 @@
 <!ENTITY pasteCmd.label "Coller">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "o">
+<!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY editRewrapCmd.label "Reformater">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "o">

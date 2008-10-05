@@ -96,6 +96,7 @@
 <!ENTITY editmenu.accesskey "n">
 <!ENTITY pasteNoFormatting.label "Coller sans mise en forme">
 <!ENTITY pasteNoFormatting.accesskey "s">
+<!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Coller comme">
 <!ENTITY pasteAs.accesskey "c">
 <!ENTITY publishSettings.label "Paramètres de publication des sites…">
@@ -121,7 +122,6 @@
 <!ENTITY editpastelink.accesskey "l">
 <!ENTITY pasteAsQuotationCmd.label "Coller comme une citation">
 <!ENTITY editpastequotation.accesskey "i">
-<!ENTITY editpastequotation.keybinding "v">
 <!ENTITY editStripQuotesCmd.label "Enlever les citations">
 <!ENTITY editRewrapCmd.label "Repaginer">
 <!ENTITY findCmd.label "Rechercher…">
