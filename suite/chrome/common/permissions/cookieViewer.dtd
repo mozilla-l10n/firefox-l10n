@@ -8,7 +8,9 @@
 <!ENTITY treehead.cookieexpires.label "Expira">
 <!ENTITY treehead.infoselected.label "Detalhes do cookie selecionado">
 <!ENTITY button.removecookie.label "Excluir cookie">
+<!ENTITY button.removecookie.accesskey "E">
 <!ENTITY button.removeallcookies.label "Excluir todos">
+<!ENTITY button.removeallcookies.accesskey "t">
 <!ENTITY props.name.label "Nome:">
 <!ENTITY props.value.label "Valor:">
 <!ENTITY props.domain.label "Servidor:">
@@ -20,10 +22,15 @@
 <!ENTITY treehead.status.label "Status">
 <!ENTITY windowtitle.label "Cookies">
 <!ENTITY blockSite.label "Bloquear">
+<!ENTITY blockSite.accesskey "B">
 <!ENTITY allowSite.label "Permitir">
+<!ENTITY allowSite.accesskey "P">
 <!ENTITY allowSiteSession.label "Sessão">
+<!ENTITY allowSiteSession.accesskey "S">
 <!ENTITY removepermission.label "Excluir site">
+<!ENTITY removepermission.accesskey "E">
 <!ENTITY removeallpermissions.label "Excluir todos">
+<!ENTITY removeallpermissions.accesskey "t">
 <!ENTITY removeimage.label "Excluir site">
 <!ENTITY removeallimages.label "Excluir todos">
 <!ENTITY canSet.label "OK">
@@ -31,4 +38,7 @@
 <!ENTITY canLoad.label "pode carregar imagens">
 <!ENTITY cannotLoad.label "não pode carregar imagens">
 <!ENTITY checkbox.label "Não aceitar novos cookies de sites que tiveram cookies removidos">
-<!ENTITY     buttonaccept.label             "Fechar">
+<!ENTITY buttonaccept.label "Fechar">
+<!ENTITY buttonaccept.accesskey "F">
+<!ENTITY futureCookies.label "Não permitir que sites que tenham cookies removidos armazenem cookies futuramente">
+<!ENTITY futureCookies.accesskey "N">
