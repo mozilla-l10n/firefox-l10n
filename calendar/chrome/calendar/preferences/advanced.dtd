@@ -1,0 +1,102 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Thunderbird Preferences System
+   -
+   - The Initial Developer of the Original Code is
+   - Scott MacGregor
+   - Portions created by the Initial Developer are Copyright (C) 2005
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Matthew Willis <lilmatt@mozilla.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+
+<!ENTITY pref.calendar.advanced.generalTab.label "כללי">
+<!ENTITY pref.calendar.advanced.passwordsTab.label "סיסמאות">
+<!ENTITY pref.calendar.advanced.updateTab.label "עדכונים">
+<!ENTITY pref.calendar.advanced.encryptionTab.label "הצפנה">
+
+<!-- General -->
+<!ENTITY pref.calendar.advanced.showConnections.label     "הגדרות חיבור…">
+<!ENTITY pref.calendar.advanced.showConnections.accesskey "ח">
+<!ENTITY pref.calendar.advanced.proxiesInfo.label         "קבע כיצד &brandShortName; מתחבר לאינטרנט">
+<!ENTITY pref.calendar.advanced.configEdit.caption "הגדרות מתקדמות">
+<!ENTITY pref.calendar.advanced.configEdit.button "עורך הגדרות…">
+<!ENTITY pref.calendar.advanced.configEdit.accesskey "ע">
+
+<!-- Passwords -->
+<!ENTITY pref.calendar.advanced.savedPasswords.intro "&brandShortName; יכול לזכור את הסיסמאות לכל לוחות השנה שלך, כך שלא תצטרך להכניס שוב את פרטי ההתחברות שלך.">
+<!ENTITY pref.calendar.advanced.useMasterPassword.label "השתמש בסיסמה ראשית כדי להצפין את הסיסמאות השמורות">
+<!ENTITY pref.calendar.advanced.useMasterPassword.accesskey "ס">
+<!ENTITY pref.calendar.advanced.masterPassword.intro "כאשר נקבעת, הסיסמה הראשית מגנה על כל הסיסמאות שלך, אבל אתה תצטרך להכניס אותה מחדש בכל הפעלה של התוכנה.">
+<!ENTITY pref.calendar.advanced.changeMasterPassword.label "שנה סיסמה ראשית…">
+<!ENTITY pref.calendar.advanced.changeMasterPassword.accesskey "ש">
+<!ENTITY pref.calendar.advanced.viewPasswords.label "הצג סיסמאות שמורות…">
+<!ENTITY pref.calendar.advanced.viewPasswords.accesskey "ה">
+
+<!-- Update -->
+<!ENTITY pref.calendar.advanced.update.autoCheck.label "בדוק עדכונים אוטומטית עבור:">
+<!ENTITY pref.calendar.advanced.update.enableAppUpdate.label "&brandShortName;">
+<!ENTITY pref.calendar.advanced.update.enableAppUpdate.accesskey "r">
+<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.label "תוספות מותקנות">
+<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.accesskey "ת">
+<!ENTITY pref.calendar.advanced.update.whenUpdatesFound.label "כאשר קיימים עדכונים עבור &brandShortName;:">
+<!ENTITY pref.calendar.advanced.update.modeAskMe.label "שאל אותי מה ברצוני לעשות">
+<!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "ש">
+<!ENTITY pref.calendar.advanced.update.modeAuto.label "הורד והתקן את העדכון בצורה אוטומטית">
+<!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "ה">
+<!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "הזהר אותי במידה ועדכון זה ינטרל תוספות מותקנות">
+<!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "ז">
+<!ENTITY pref.calendar.advanced.update.showHistory.label "הצג היסטוריית עדכונים…">
+<!ENTITY pref.calendar.advanced.update.showHistory.accesskey "ה">
+
+<!-- Encryption -->
+<!ENTITY pref.calendar.advanced.encryption.protocols.label "פרוטוקולים">
+<!ENTITY pref.calendar.advanced.encryption.useSSL3.label "השתמש ב־SSL 3.0">
+<!ENTITY pref.calendar.advanced.encryption.useSSL3.accesskey "3">
+<!ENTITY pref.calendar.advanced.encryption.useTLS1.label "השתמש ב־TLS 1.0">
+<!ENTITY pref.calendar.advanced.encryption.useTLS1.accesskey "1">
+<!ENTITY pref.calendar.advanced.encryption.certificates.label "אישורים">
+<!ENTITY pref.calendar.advanced.encryption.certSelection.description "כאשר שרת מבקש את האישור הפרטי שלי:">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto "בחר אישור בצורה אוטומטית">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto.accesskey "ב">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask "שאל אותי בכל פעם">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "ש">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.label "הצג אישורים">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.accesskey "א">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "רשימות ביטולים">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.accesskey "ב">
+<!ENTITY pref.calendar.advanced.encryption.verify2.label "אימות">
+<!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "מ">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label "אביזרי אבטחה">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "ר">
