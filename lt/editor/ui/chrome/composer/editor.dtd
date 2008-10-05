@@ -47,17 +47,17 @@
 
 <!-- View menu items -->
 <!ENTITY viewMenu.label "Rodymas">
-<!ENTITY viewmenu.accesskey "R">
+<!ENTITY viewMenu.accesskey "R">
 <!ENTITY compositionToolbarCmd.label "Taisos mygtukų juosta">
-<!ENTITY compositiontb.accesskey "T">
+<!ENTITY compositionToolbarCmd.accesskey "T">
 <!ENTITY formattingToolbarCmd.label "Formatavimo priemonių juosta">
-<!ENTITY formattingtb.accesskey "F">
+<!ENTITY formattingToolbarCmd.accesskey "F">
 <!ENTITY editmodeToolbarCmd.label "Taisos veiksenų juosta">
-<!ENTITY editmodetb.accesskey "v">
+<!ENTITY editmodeToolbarCmd.accesskey "v">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formatas">
-<!ENTITY formatmenu.accesskey "F">
+<!ENTITY formatMenu.accesskey "F">
 
 <!ENTITY helpMenu.label "Žinynas">
 <!ENTITY aboutCmd.label ".Apie">
@@ -66,4 +66,3 @@
 <!ENTITY editMode.label "Taisos veiksena:">
 
 <!ENTITY statusText.label "Tinklalapis įkeltas">
-

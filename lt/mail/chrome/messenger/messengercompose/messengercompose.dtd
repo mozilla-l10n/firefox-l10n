@@ -101,6 +101,7 @@
 <!ENTITY pasteCmd.label "Įdėti">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "d">
+<!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY editRewrapCmd.label "Laužyti iš naujo">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "n">

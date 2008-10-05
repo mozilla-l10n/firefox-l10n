@@ -51,8 +51,6 @@
 <!ENTITY secondsLabel.label            "sek.">
 <!ENTITY showFolderColumns.label       "Rodyti pašto aplankų polangio stulpelius">
 <!ENTITY showFolderColumns.accesskey   "d">
-<!ENTITY rememberLastMsg.label         "Įsiminti paskiausiai pažymėtą laišką">
-<!ENTITY rememberLastMsg.accesskey     "ž">
 <!ENTITY openMsgIn.label               "Atveriamą laišką rodyti:">
 <!ENTITY reuseExpRadio0.label          "naujame lange">
 <!ENTITY reuseExpRadio0.accesskey      "n">
@@ -60,9 +58,6 @@
 <!ENTITY reuseExpRadio1.accesskey      "t">
 <!ENTITY reuseExpRadio2.label          "naujoje kortelėje">
 <!ENTITY reuseExpRadio2.accesskey      "k">
-<!ENTITY connectionTimeout.label       "Prisijungimo laiko limitas: ">
-<!ENTITY connectionTimeout.accesskey   "r">
-<!ENTITY connectionSeconds.label       "sek.">
 <!ENTITY configEditDesc.label          "Papildoma sąranka (patyrusiems naudotojams).">
 <!ENTITY configEdit.label              "Visų parametrų sąrašas…">
 <!ENTITY configEdit.accesskey          "a">
@@ -88,9 +83,9 @@
 <!ENTITY showUpdates.accesskey          "ž">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showConnections.label         "Ryšys…">
-<!ENTITY showConnections.accesskey     "R">
-<!ENTITY proxiesInfo.label             "Parinkite „&brandShortName;“ interneto ryšio nuostatas">
+<!ENTITY showSettings.label            "Nuostatos…">
+<!ENTITY showSettings.accesskey        "N">
+<!ENTITY proxiesConfigure.label        "Parinkite „&brandShortName;“ ryšio su internetu nuostatas">
 <!ENTITY connectionsInfo.caption       "Ryšys">
 <!ENTITY offlineInfo.caption           "Atsijungimas nuo tinklo">
 <!ENTITY offlineInfo.label             "Parinkite darbo atsijungus nuo tinklo nuostatas">
@@ -102,6 +97,18 @@
 <!ENTITY offlineCompact.accesskey "S">
 <!ENTITY kb.label "KB">
 
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label           "Podėliui skirti iki">
+<!ENTITY useCacheBefore.accesskey       "P">
+<!ENTITY useCacheAfter.label            "MB disko atminties">
+<!ENTITY clearCacheNow.label            "Išvalyti dabar">
+<!ENTITY clearCacheNow.accesskey        "v">
+
 <!-- Certificates -->
 <!ENTITY certificatesInfo2.label        "Parinkite liudijimų, atšauktų liudijimų sąrašų, liudijimų patikros ir saugumo priemonių nuostatas.">
 <!ENTITY viewCertificates.label         "Liudijimų peržiūra">
@@ -112,4 +119,3 @@
 <!ENTITY validation.accesskey           "P">
 <!ENTITY viewSecurityDevices.label      "Saugumo priemonės">
 <!ENTITY viewSecurityDevices.accesskey  "S">
-

@@ -76,7 +76,7 @@
 <!ENTITY renameFolder.accesskey "e">
 <!ENTITY renameFolder.key "VK_F2"> 
 <!ENTITY compactFolders.label "Suglaudinti aplankus">
-<!ENTITY compactFolder.accesskey	"d">
+<!ENTITY compactFolders.accesskey	"g">
 <!ENTITY emptyTrashCmd.label "Išvalyti šiukšlinę">
 <!ENTITY emptyTrashCmd.accesskey		"v">
 <!ENTITY importCmd.label "Importuoti…">
@@ -314,8 +314,8 @@
 <!ENTITY nextStarredMsgCmd.label "žvaigždute pažymėtą laišką">
 <!ENTITY nextStarredMsgCmd.accesskey "Ž">
 <!ENTITY nextUnreadThread.label "giją neskaitytų laiškų">
-<!ENTITY nextUnreadThreadCmd.accesskey "i">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "i">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Į ankstesnį">
 <!ENTITY prevMenu.accesskey "a">
 <!ENTITY prevMsgCmd.label "laišką">
