@@ -23,14 +23,14 @@
 <!ENTITY fixedWidth.label "Neproporcionální písmo">
 <!ENTITY fixedWidth.accesskey "N">
 <!ENTITY variableWidth.label "Proporcionální písmo">
-<!ENTITY variableWidth.accesskey "P">
+<!ENTITY variableWidth.accesskey "r">
 <!ENTITY readingMessagesHeader.label "Pro příchozí zprávy">
-<!ENTITY colors.label "Colors">
-<!ENTITY overrideColors.label "When displaying messages, use the following colors:">
+<!ENTITY colors.label "Barvy">
+<!ENTITY overrideColors.label "Při zobrazení zpráv použít následující barvy:">
 <!ENTITY textColor.label "Barva textu:">
-<!ENTITY textColor.accesskey "B">
+<!ENTITY textColor.accesskey "t">
 <!ENTITY backgroundColor.label "Barva pozadí:">
-<!ENTITY backgroundColor.accesskey "B">
+<!ENTITY backgroundColor.accesskey "p">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-) -->
 <!ENTITY convertEmoticons.label "Zobrazit emotivní značky jako ikony">
@@ -48,5 +48,5 @@
 <!-- Fonts -->
 <!ENTITY fontAndEncodingsDescription.label "Nastavení písem a znakové sady aplikace &brandShortName;">
 <!ENTITY fontsAndEncodingsCaption.label "Písma a znaková sada">
-<!ENTITY fontOptions.accesskey "P">
+<!ENTITY fontOptions.accesskey "m">
 <!ENTITY fontOptions.label "Písma…">
