@@ -13,6 +13,7 @@
    -
    - Contributor(s):
    -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+	-   Rimas Kudelis <rq@akl.lt>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -70,3 +71,9 @@
 <!ENTITY customsound.accesskey            "u">
 <!ENTITY browse.label                     "Parinkti…">
 <!ENTITY browse.accesskey                 "r">
+
+<!ENTITY addonsMgr.label                  "Programos priedai">
+<!ENTITY manageAddonsDescWin.label        "Keisti naudojamų priedų nustatas">
+<!ENTITY manageAddonsDescUnix2.label      "Keisti naudojamų priedų nuostatas">
+<!ENTITY manageAddons.label               "Tvarkyti priedus…">
+<!ENTITY manageAddons.accesskey           "T">

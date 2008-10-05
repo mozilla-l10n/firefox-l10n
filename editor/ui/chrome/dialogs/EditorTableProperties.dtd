@@ -21,6 +21,7 @@
    -
    - Contributor(s):
 	-   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+	-   Rimas Kudelis <rq@akl.lt>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -79,11 +80,9 @@
 <!ENTITY cellSelectNext.accessKey         "o">
 <!ENTITY cellSelectPrevious.label         "Ankstesnis">
 <!ENTITY cellSelectPrevious.accessKey     "n">
-<!ENTITY cellApplyBeforeMove.label        "Įtraukti pakeitimus prieš pažymint kitą lentelės dalį">
+<!ENTITY cellApplyBeforeMove.label        "Pritaikyti pakeitimus prieš pažymint kitą lentelės dalį">
 <!ENTITY cellKeepCurrentData.label        "Įsiminti šias nuostatas">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label         "Pakeitimai bus įtraukti">
-<!ENTITY applyBeforeChange2.label         "perėjus prie kitos lentelės dalies.">
+<!ENTITY applyBeforeChange.label          "Pakeitimai bus pritaikyti prieš pažymint kitą lentelės dalį.">
 <!ENTITY cellRowSpan.label                "Eilutės plotis (langeliais):">
 <!ENTITY cellColSpan.label                "Stulpelio aukštis (langeliais):">
 <!ENTITY cellContentAlignment.label       "Langelio turinio lygiuotė">
