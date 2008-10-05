@@ -135,7 +135,7 @@
 <!ENTITY exceptionMgr.title                   "Sicherheits-Ausnahmeregel hinzufügen">
 <!ENTITY exceptionMgr.exceptionButton         "Sicherheits-Ausnahmeregel bestätigen">
 <!ENTITY exceptionMgr.exceptionButtonAccess   "S">
-<!ENTITY exceptionMgr.supplementalWarning     "Seriöse Banken, Geschäfte und andere öffentliche Seiten werden Sie nicht bitten, derartiges zu tun.">
+<!ENTITY exceptionMgr.supplementalWarning     "Seriöse Banken, Geschäfte und andere öffentliche Seiten werden Sie nicht bitten, Derartiges zu tun.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Server">
 <!ENTITY exceptionMgr.certlocation.url        "Adresse:">
 <!ENTITY exceptionMgr.certlocation.download   "Zertifikat herunterladen">
