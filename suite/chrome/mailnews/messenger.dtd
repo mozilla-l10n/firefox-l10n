@@ -83,7 +83,7 @@
 <!ENTITY renameFolder.label "Ordner umbenennen…">
 <!ENTITY renameFolder.accesskey "O">
 <!ENTITY compactFolders.label "Account-Ordner komprimieren">
-<!ENTITY compactFolder.accesskey		"O">
+<!ENTITY compactFolders.accesskey		"O">
 <!ENTITY emptyTrashCmd.label "Papierkorb leeren">
 <!ENTITY emptyTrashCmd.accesskey		"P">
 <!ENTITY offlineMenu.label "Offline">
@@ -311,8 +311,8 @@
 <!ENTITY nextFlaggedMsgCmd.accesskey "G">
 <!ENTITY nextUnflaggedMsgCmd.label "Ungekennzeichnete Nachricht">
 <!ENTITY nextUnreadThread.label "Ungelesener Thread">
-<!ENTITY nextUnreadThreadCmd.accesskey "T">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "T">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Vorherige">
 <!ENTITY prevMenu.accesskey "V">
 <!ENTITY prevMsgCmd.label "Nachricht">
@@ -326,7 +326,7 @@
 <!ENTITY goForwardCmd.label "Vor">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Gekennzeichnete Nachricht">
-<!ENTITY previousFlaggedMsgCmd.accesskey "k">
+<!ENTITY prevFlaggedMsgCmd.accesskey "k">
 <!ENTITY backCmd.label ".Zurück">
 <!ENTITY backCmd.accesskey ".">
 <!ENTITY forwardCmd.label ".Vor">

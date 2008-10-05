@@ -45,31 +45,31 @@
 <!-- Menu Items -->
 <!-- File menu -->
 <!ENTITY mapfileMenu.label "Datei">
-<!ENTITY mapfileMenu.accesskey "d">
+<!ENTITY mapfileMenu.accesskey "D">
 <!ENTITY clearCmd.label "Leeren">
-<!ENTITY clearCmd.accesskey "r">
+<!ENTITY clearCmd.accesskey "L">
 <!ENTITY closeCmd.label "Schließen">
-<!ENTITY closeCmd.accesskey "s">
+<!ENTITY closeCmd.accesskey "c">
 
 <!-- Edit menu -->
 <!ENTITY mapeditMenu.label "Bearbeiten">
-<!ENTITY mapeditMenu.accesskey "b">
+<!ENTITY mapeditMenu.accesskey "B">
 <!ENTITY cutCmd.label "Ausschneiden">
-<!ENTITY cutCmd.accesskey "h">
+<!ENTITY cutCmd.accesskey "u">
 <!ENTITY copyCmd.label "Kopieren">
-<!ENTITY copyCmd.accesskey "k">
+<!ENTITY copyCmd.accesskey "K">
 <!ENTITY pasteCmd.label "Einfügen">
-<!ENTITY pasteCmd.accesskey "e">
+<!ENTITY pasteCmd.accesskey "E">
 <!ENTITY selectallCmd.label "Alles auswählen">
-<!ENTITY selectallCmd.accesskey "a">
+<!ENTITY selectallCmd.accesskey "A">
 <!ENTITY propsCmd.label "Hotspot-Eigenschaften">
-<!ENTITY propsCmd.accesskey "h">
+<!ENTITY propsCmd.accesskey "H">
 
 <!-- View menu -->
 <!ENTITY mapviewMenu.label "Ansicht">
-<!ENTITY mapviewMenu.accesskey "a">
+<!ENTITY mapviewMenu.accesskey "n">
 <!ENTITY showhideTbarCmd.label "Symbolleiste verstecken">
-<!ENTITY showhideTbarCmd.accesskey "l">
+<!ENTITY showhideTbarCmd.accesskey "y">
 <!-- Scaling -->
 <!ENTITY mapviewScale.label "Skalieren">
 <!ENTITY mapviewScale.accesskey "S">
