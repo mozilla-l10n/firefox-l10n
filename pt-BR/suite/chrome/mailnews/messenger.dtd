@@ -40,7 +40,7 @@
 <!ENTITY renameFolder.label "Renomear pasta...">
 <!ENTITY renameFolder.accesskey "M">
 <!ENTITY compactFolders.label "Otimizar pastas">
-<!ENTITY compactFolder.accesskey "t">
+<!ENTITY compactFolders.accesskey "t">
 <!ENTITY emptyTrashCmd.label "Esvaziar lixeira">
 <!ENTITY emptyTrashCmd.accesskey "v">
 <!ENTITY importCmd.label "Importar...">
@@ -258,20 +258,18 @@
 <!ENTITY nextFlaggedMsgCmd.accesskey "Z">
 <!ENTITY nextUnflaggedMsgCmd.label "Mensagem não sinalizada">
 <!ENTITY nextUnreadThread.label "Tópico não lido">
-<!ENTITY nextUnreadThreadCmd.accesskey "T">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "T">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Anterior">
 <!ENTITY prevMenu.accesskey "A">
 <!ENTITY prevMsgCmd.label "Mensagem">
 <!ENTITY prevMsgCmd.accesskey "M">
-<!ENTITY previousMsgCmd.key "b">
-<!ENTITY previousMsgCmd.accesskey "M">
 <!ENTITY prevUnreadMsgCmd.label "Mensagem não lida">
 <!ENTITY prevUnreadMsgCmd.accesskey "L">
 <!ENTITY previousUnreadMsgCmd.key "p">
 <!ENTITY previousUnreadMsgCmd.accesskey "l">
 <!ENTITY prevFlaggedMsgCmd.label "Mensagem sinalizada">
-<!ENTITY previousFlaggedMsgCmd.accesskey "z">
+<!ENTITY prevFlaggedMsgCmd.accesskey "z">
 <!ENTITY backCmd.label ".Voltar">
 <!ENTITY backCmd.accesskey "V">
 <!ENTITY forwardCmd.label "Encaminhar">
