@@ -96,6 +96,7 @@
 <!ENTITY editmenu.accesskey "B">
 <!ENTITY pasteNoFormatting.label "Einfügen ohne Formatierung">
 <!ENTITY pasteNoFormatting.accesskey "m">
+<!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Einfügen als">
 <!ENTITY pasteAs.accesskey "a">
 <!ENTITY publishSettings.label "Publizierungssite-Einstellungen…">
@@ -121,7 +122,6 @@
 <!ENTITY editpastelink.accesskey "L">
 <!ENTITY pasteAsQuotationCmd.label "Als Zitat einfügen">
 <!ENTITY editpastequotation.accesskey "Z">
-<!ENTITY editpastequotation.keybinding "v">
 <!ENTITY editStripQuotesCmd.label "Ausschnitt-Zitat">
 <!ENTITY editRewrapCmd.label "Neu umbrechen">
 <!ENTITY findCmd.label "Suchen und ersetzen…">
