@@ -1,4 +1,3 @@
-
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
 <!ENTITY pref.advanced.title          "Avançat">
 
@@ -7,18 +6,12 @@
 <!ENTITY enbJavaCheck.label "Habilita el Java">
 <!ENTITY enbJavaCheck.accesskey "J">
 
-<!ENTITY prefTurbo.caption "Inici ràpid">
-<!ENTITY enableTurbo.label "Mantingues el &brandShortName; en memòria per a millorar-ne l'inici">
-<!ENTITY enableTurboCheck.accesskey "t">
-
-<!ENTITY prefTurbo.desc             "Si activeu aquest element, part del &brandShortName; romandrà en memòria encara que no es faci servir, permetent llavors que s'iniciï més ràpid en cridar-se.">
-
-<!ENTITY prefJvmConf.caption        "Selecció d'una versió Java (després de cap canvi cal reiniciar)">
-<!ENTITY jvm.name                   "Versió">
-<!ENTITY jvm.home                   "Camí">
-
 <!ENTITY systemPref.caption "Preferències del sistema">
 <!ENTITY systemPrefCheck.label "Utilitza les preferències des del sistema">
 <!ENTITY systemPrefCheck.accesskey "s">
 <!ENTITY systemPref.desc "Marqueu aquest quadre per a heretar les preferències del sistema. Els paràmetres del sistema substituiran les preferències del &brandShortName;.">
+
+<!ENTITY prefCheckDefault.caption   "Integració al sistema">
+<!ENTITY prefCheckDefaultClient.label "Comproveu els paràmetres d'aplicació per defecte a l'inici">
+<!ENTITY prefCheckDefaultClient.accesskey "C">
 
