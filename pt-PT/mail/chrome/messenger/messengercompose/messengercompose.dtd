@@ -1,7 +1,7 @@
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Edição: (assunto em branco)">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY fileMenu.label "Ficheiro">
 <!ENTITY fileMenu.accesskey "f">
 <!ENTITY newMenu.label "Novo">
@@ -51,8 +51,8 @@
 <!ENTITY quitApplicationCmd.label "Sair">
 <!ENTITY quitApplicationCmd.accesskey "S">
 <!ENTITY quitApplicationCmd.key "q">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "e">
 <!ENTITY undoCmd.label "Anular">
@@ -70,6 +70,7 @@
 <!ENTITY pasteCmd.label "Colar">
 <!ENTITY pasteCmd.key "v">
 <!ENTITY pasteCmd.accesskey "o">
+<!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY editRewrapCmd.label "Reformatar quebras de linha">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "b">
@@ -90,8 +91,8 @@
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.accesskey "a">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "v">
 <!ENTITY viewToolbarsMenuNew.label "Barras de Ferramentas">
@@ -107,12 +108,11 @@
 
 <!ENTITY addressSidebar.label "Painel de contactos">
 <!ENTITY addressSidebar.accesskey "a">
-<!-- Format Menu -->
 
+<!-- Format Menu -->
 <!ENTITY formatMenu.label "Formatar">
 <!ENTITY formatMenu.accesskey "m">
 <!-- Options Menu -->
-
 <!ENTITY optionsMenu.label "Opções">
 <!ENTITY optionsMenu.accesskey "o">
 <!ENTITY checkSpellingCmd.label "Verificar ortografia...">
@@ -123,8 +123,8 @@
 <!ENTITY enableInlineSpellChecker.accesskey "E">
 <!ENTITY quoteCmd.label "Citar a mensagem">
 <!ENTITY quoteCmd.accesskey "T">
-<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCard.label "Anexar vCard">
 <!ENTITY attachVCard.accesskey "v">
 
@@ -159,7 +159,6 @@
 <!ENTITY fileCarbonCopyCmd.accesskey "g">
 <!ENTITY fileHereMenu.label "(Nesta pasta)">
 <!-- Tools Menu -->
-
 <!ENTITY tasksMenu.label "Ferramentas">
 <!ENTITY tasksMenu.accesskey "F">
 <!ENTITY messengerCmd.label "Correio e Grupos de Discussão">
@@ -176,15 +175,15 @@
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey "p">
-<!--  Mac OS X Window Menu -->
 
+<!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "M">
 <!ENTITY minimizeWindow.label "Minimizar">
 <!ENTITY bringAllToFront.label "Trazer tudo para frente">
 <!ENTITY zoomWindow.label "Zoom">
 <!ENTITY windowMenu.label "Janela">
-<!-- Mail Toolbar -->
 
+<!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Enviar">
 <!ENTITY quoteButton.label "Citar">
 <!ENTITY addressButton.label "Contactos">
@@ -192,8 +191,8 @@
 <!ENTITY spellingButton.label "Ortografia">
 <!ENTITY saveButton.label "Guardar">
 <!ENTITY throbberItem.title "Indicador de actividade">
-<!-- Mail Toolbar Tooltips -->
 
+<!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Enviar esta mensagem agora">
 <!ENTITY sendlaterButton.tooltip "Enviar mensagem mais tarde">
 <!ENTITY quoteButton.tooltip "Citar a mensagem anterior">
@@ -203,8 +202,8 @@
 <!ENTITY cutButton.tooltip "Cortar">
 <!ENTITY copyButton.tooltip "Copiar">
 <!ENTITY pasteButton.tooltip "Colar">
-<!-- Headers -->
 
+<!-- Headers -->
 <!ENTITY fromAddr.label "De:">
 <!ENTITY fromAddr.accesskey "d">
 <!ENTITY toAddr.label "Para:">
@@ -217,9 +216,9 @@
 <!ENTITY subject.accesskey "S">
 <!ENTITY attachments.label "Anexos:">
 <!ENTITY attachments.accesskey "n">
+
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
-
 <!ENTITY formatToolbar.boldChar "B">
 <!ENTITY formatToolbar.italicChar "I">
 <!ENTITY formatToolbar.underlineChar "U">
@@ -240,8 +239,8 @@
 <!ENTITY smiley14Cmd.label "Ingénuo">
 <!ENTITY smiley15Cmd.label "Choro">
 <!ENTITY smiley16Cmd.label "Boca fechada">
-<!-- Message Pane Context Menu -->
 
+<!-- Message Pane Context Menu -->
 <!ENTITY spellCheckNoSuggestions.label "Sem sugestões">
 <!ENTITY spellCheckIgnoreWord.label "Ignorar Palavra">
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
@@ -270,7 +269,7 @@
 <!ENTITY attachFile.accesskey "N">
 <!ENTITY attachPage.label "Anexar página da web...">
 <!ENTITY attachPage.accesskey "W">
-<!-- Title for the address picker panel -->
 
+<!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Contactos">
 
