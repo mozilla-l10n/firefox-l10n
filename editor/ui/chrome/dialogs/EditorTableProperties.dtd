@@ -80,9 +80,7 @@
 <!ENTITY cellSelectPrevious.accessKey     "o">
 <!ENTITY cellApplyBeforeMove.label        "Wijzigingen toepassen voor het wijzigen van de selectie">
 <!ENTITY cellKeepCurrentData.label        "Huidige instellingen behouden">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label         "Huidige wijzigingen zullen worden toegepast">
-<!ENTITY applyBeforeChange2.label         "voor het wijzigen van de selectie.">
+<!ENTITY applyBeforeChange.label          "Current changes will be applied before changing the selection.">
 <!ENTITY cellRowSpan.label                "Rijbreedte:">
 <!ENTITY cellColSpan.label                "Kolombreedte:">
 <!ENTITY cellContentAlignment.label       "Inhoud uitlijnen">

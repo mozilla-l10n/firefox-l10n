@@ -1,19 +1,19 @@
-<!ENTITY messengerWindow.title "E-mail &amp; nieuwsgroepen">
+<!ENTITY messengerWindow.title "E-mail &amp; nijsgroepen">
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Map…">
 <!ENTITY newFolderCmd.accesskey "M">
-<!ENTITY newTabCmd.label "Nieuw tabblad">
-<!ENTITY newTabCmd.accesskey "t">
-<!ENTITY closeTabCmd.label "Tabblad sluiten">
+<!ENTITY newTabCmd.label "Nij ljepblêd">
+<!ENTITY newTabCmd.accesskey "l">
+<!ENTITY closeTabCmd.label "Ljepblêd slute">
 <!ENTITY closeTabCmd.accesskey "e">
-<!ENTITY newVirtualFolderCmd.label "Opgeslagen zoekopdracht…">
+<!ENTITY newVirtualFolderCmd.label "Bewarre sykopdracht…">
 <!ENTITY newVirtualFolderCmd.accesskey "O">
-<!ENTITY newAccountCmd.label "Account…">
+<!ENTITY newAccountCmd.label "Abonnemint…">
 <!ENTITY newAccountCmd.accesskey "A">
-<!ENTITY openMessageMenu.label "Openen">
+<!ENTITY openMessageMenu.label "Iepenje">
 <!ENTITY openMessageFileCmd.label "Opgeslagen bericht openen…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Bijlagen">
@@ -44,7 +44,7 @@
 <!ENTITY renameFolder.accesskey "M">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Mappen comprimeren">
-<!ENTITY compactFolder.accesskey "c">
+<!ENTITY compactFolders.accesskey "c">
 <!ENTITY emptyTrashCmd.label "Prullenbak leegmaken">
 <!ENTITY emptyTrashCmd.accesskey "P">
 <!ENTITY importCmd.label "Importeren…">
@@ -269,46 +269,46 @@
 <!ENTITY searchAddressesCmd.accesskey "A">
 
 <!-- Go Menu -->
-<!ENTITY goMenu.label "Ga">
+<!ENTITY goMenu.label "Gean">
 <!ENTITY goMenu.accesskey "G">
-<!ENTITY nextMenu.label "Volgende">
-<!ENTITY nextMenu.accesskey "V">
-<!ENTITY nextMsgCmd.label "Bericht">
+<!ENTITY nextMenu.label "Folgjende">
+<!ENTITY nextMenu.accesskey "F">
+<!ENTITY nextMsgCmd.label "Berjocht">
 <!ENTITY nextMsgCmd.accesskey "B">
 <!ENTITY nextMsgCmd.key "f">
-<!ENTITY nextUnreadMsgCmd.label "Ongelezen bericht">
-<!ENTITY nextUnreadMsgCmd.accesskey "O">
+<!ENTITY nextUnreadMsgCmd.label "Net lêzen berjocht">
+<!ENTITY nextUnreadMsgCmd.accesskey "N">
 <!ENTITY nextUnreadMsgCmd.key "n">
-<!ENTITY nextStarredMsgCmd.label "Bericht met ster">
+<!ENTITY nextStarredMsgCmd.label "Berjocht mei stjer">
 <!ENTITY nextStarredMsgCmd.accesskey "s">
-<!ENTITY nextUnreadThread.label "Ongelezen conversatie">
-<!ENTITY nextUnreadThreadCmd.accesskey "c">
-<!ENTITY nextUnreadThreadCmd.key "t">
-<!ENTITY prevMenu.label "Vorige">
+<!ENTITY nextUnreadThread.label "Net lêzen konfersaasje">
+<!ENTITY nextUnreadThread.accesskey "k">
+<!ENTITY nextUnreadThread.key "t">
+<!ENTITY prevMenu.label "Foarige">
 <!ENTITY prevMenu.accesskey "r">
-<!ENTITY prevMsgCmd.label "Bericht">
+<!ENTITY prevMsgCmd.label "Berjocht">
 <!ENTITY prevMsgCmd.accesskey "B">
 <!ENTITY prevMsgCmd.key "b">
-<!ENTITY prevUnreadMsgCmd.label "Ongelezen bericht">
-<!ENTITY prevUnreadMsgCmd.accesskey "O">
+<!ENTITY prevUnreadMsgCmd.label "Net lêzen berjocht">
+<!ENTITY prevUnreadMsgCmd.accesskey "e">
 <!ENTITY prevUnreadMsgCmd.key "p">
-<!ENTITY goForwardCmd.label "Vooruit">
+<!ENTITY goForwardCmd.label "Foarút">
 <!ENTITY goForwardCmd.accesskey "o">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY goBackCmd.label "Terug">
+<!ENTITY goBackCmd.label "Tebek">
 <!ENTITY goBackCmd.accesskey "e">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY prevStarredMsgCmd.label "Bericht met ster">
+<!ENTITY prevStarredMsgCmd.label "Berjocht mei stjer">
 <!ENTITY prevStarredMsgCmd.accesskey "s">
-<!ENTITY startPageCmd.label "E-mail-startpagina">
+<!ENTITY startPageCmd.label "E-mail-startside">
 <!ENTITY startPageCmd.accesskey "s">
-<!ENTITY msgMenu.label "Bericht">
+<!ENTITY msgMenu.label "Berjocht">
 <!ENTITY msgMenu.accesskey "e">
-<!ENTITY newMsgCmd.label "Nieuw bericht">
+<!ENTITY newMsgCmd.label "Nij berjocht">
 <!ENTITY newMsgCmd.accesskey "N">
-<!ENTITY newNewMsgCmd.label "Bericht">
+<!ENTITY newNewMsgCmd.label "Berjocht">
 <!ENTITY newNewMsgCmd.accesskey "B">
-<!ENTITY replyMsgCmd.label "Beantwoorden">
+<!ENTITY replyMsgCmd.label "Beantwurdzje">
 <!ENTITY replyMsgCmd.accesskey "a">
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Afzender beantwoorden">

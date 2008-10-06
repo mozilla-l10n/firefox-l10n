@@ -92,13 +92,14 @@
 <!ENTITY fileexit.keybinding "q">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "Bewerken">
+<!ENTITY editMenu.label "Bewurkje">
 <!ENTITY editmenu.accesskey "w">
-<!ENTITY pasteNoFormatting.label "Plakken zonder opmaak">
+<!ENTITY pasteNoFormatting.label "Plakke sûnder opmaak">
 <!ENTITY pasteNoFormatting.accesskey "m">
-<!ENTITY pasteAs.label "Plakken als">
+<!ENTITY pasteNoFormatting.key "V">
+<!ENTITY pasteAs.label "Plakke as">
 <!ENTITY pasteAs.accesskey "P">
-<!ENTITY publishSettings.label "Publicatiewebsite-instellingen...">
+<!ENTITY publishSettings.label "Publikaasjewebstee-ynstellings...">
 <!ENTITY publishSettings.accesskey "b">
 
 <!-- For a "Paste" submenu when more than 1 
@@ -107,9 +108,9 @@
 <!ENTITY pasteHTML.accesskey "H">
 <!ENTITY pasteTextCmd.label "Tekst">
 <!ENTITY pasteText.accesskey "T">
-<!ENTITY pasteImageCmd.label "Afbeelding">
-<!ENTITY pasteImage.accesskey "A">
-<!ENTITY pasteRowsCmd.label "Rijen">
+<!ENTITY pasteImageCmd.label "Ofbylding">
+<!ENTITY pasteImage.accesskey "O">
+<!ENTITY pasteRowsCmd.label "Rigen">
 <!ENTITY pasteRows.accesskey "R">
 <!ENTITY pasteColumnsCmd.label "Kolommen">
 <!ENTITY pasteColumns.accesskey "K">
@@ -117,33 +118,32 @@
      Set to: "Table" or "Nested Table" depending on context 
      This accesskey must be in both strings -->
 <!ENTITY pasteTable.accesskey "a">
-<!ENTITY pasteLinkCmd.label "Koppeling">
+<!ENTITY pasteLinkCmd.label "Keppeling">
 <!ENTITY editpastelink.accesskey "l">
-<!ENTITY pasteAsQuotationCmd.label "Plakken als citaat">
-<!ENTITY editpastequotation.accesskey "c">
-<!ENTITY editpastequotation.keybinding "v">
-<!ENTITY editStripQuotesCmd.label "Quoteringstekens verwijderen">
-<!ENTITY editRewrapCmd.label "Opnieuw uitlijnen">
-<!ENTITY findCmd.label "Zoeken en vervangen...">
-<!ENTITY editfind.accesskey "Z">
+<!ENTITY pasteAsQuotationCmd.label "Plakke als sitaat">
+<!ENTITY editpastequotation.accesskey "s">
+<!ENTITY editStripQuotesCmd.label "Kwotearingstekens fuortsmite">
+<!ENTITY editRewrapCmd.label "Op 'e nij útlinje">
+<!ENTITY findCmd.label "Sykje en ferfange...">
+<!ENTITY editfind.accesskey "S">
 <!ENTITY editfind.keybinding "f">
 <!ENTITY editfind.keybinding2 "VK_F19">
-<!ENTITY findAgainCmd.label "Opnieuw zoeken">
-<!ENTITY editfindnext.accesskey "w">
+<!ENTITY findAgainCmd.label "Op 'e nij sykje">
+<!ENTITY editfindnext.accesskey "n">
 <!ENTITY editfindnext.keybinding "g">
 <!ENTITY editfindnext.keybinding2 "VK_F3">
-<!ENTITY findPrevCmd.label "Vorige zoeken">
+<!ENTITY findPrevCmd.label "Foarige sykje">
 <!ENTITY editfindprev.accesskey "i">
 <!ENTITY editfindprev.keybinding "g">
 <!ENTITY editfindprev.keybinding2 "VK_F3">
-<!ENTITY enableInlineSpellChecker.label "Spelling controleren tijdens typen">
+<!ENTITY enableInlineSpellChecker.label "Stavering kontrolearje tiidens typen">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd.label "Spelling controleren">
+<!ENTITY checkSpellingCmd.label "Stavering kontrolearje">
 <!ENTITY editcheckspelling.accesskey "c">
 <!ENTITY editcheckspelling.keybinding "k">
-<!ENTITY validateCmd.label "HTML valideren">
+<!ENTITY validateCmd.label "HTML falidearje">
 <!ENTITY validate.accesskey "M">
-<!ENTITY checkLinksCmd.label "Koppelingen controleren">
+<!ENTITY checkLinksCmd.label "Keppelings kontrolearje">
 
 <!-- View menu items -->
 <!ENTITY viewPageSource.label "Paginabron">
