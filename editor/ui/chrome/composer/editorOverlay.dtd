@@ -96,6 +96,7 @@
 <!ENTITY editmenu.accesskey "a">
 <!ENTITY pasteNoFormatting.label "Vložit bez formátování">
 <!ENTITY pasteNoFormatting.accesskey "f">
+<!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Vložit jako">
 <!ENTITY pasteAs.accesskey "j">
 <!ENTITY publishSettings.label "Nastavení pro publikování…">
@@ -121,7 +122,6 @@
 <!ENTITY editpastelink.accesskey "l">
 <!ENTITY pasteAsQuotationCmd.label "Vložit jako citaci">
 <!ENTITY editpastequotation.accesskey "c">
-<!ENTITY editpastequotation.keybinding "v">
 <!ENTITY editStripQuotesCmd.label "Odstranit uvozovky">
 <!ENTITY editRewrapCmd.label "Zalomit">
 <!ENTITY findCmd.label "Najít/nahradit…">

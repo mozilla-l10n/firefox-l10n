@@ -83,7 +83,7 @@
 <!ENTITY renameFolder.label "Přejmenovat složku…">
 <!ENTITY renameFolder.accesskey "M">
 <!ENTITY compactFolders.label "Provést údržbu složek">
-<!ENTITY compactFolder.accesskey "t">
+<!ENTITY compactFolders.accesskey "t">
 <!ENTITY emptyTrashCmd.label "Vysypat koš">
 <!ENTITY emptyTrashCmd.accesskey "y">
 <!ENTITY offlineMenu.label "Režim offline">
@@ -311,8 +311,8 @@
 <!ENTITY nextFlaggedMsgCmd.accesskey "P">
 <!ENTITY nextUnflaggedMsgCmd.label "Zpráva bez praporku">
 <!ENTITY nextUnreadThread.label "Nepřečtené vlákno">
-<!ENTITY nextUnreadThreadCmd.accesskey "T">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "T">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Předchozí">
 <!ENTITY prevMenu.accesskey "P">
 <!ENTITY prevMsgCmd.label "Message">
@@ -326,7 +326,7 @@
 <!ENTITY goForwardCmd.label "Vpřed">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Zpráva s praporkem">
-<!ENTITY previousFlaggedMsgCmd.accesskey "F">
+<!ENTITY prevFlaggedMsgCmd.accesskey "r">
 <!ENTITY backCmd.label ".Zpět">
 <!ENTITY backCmd.accesskey "Z">
 <!ENTITY forwardCmd.label ".Vpřed">
