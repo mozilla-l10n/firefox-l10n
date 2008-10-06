@@ -47,17 +47,17 @@
 
 <!-- View menu items -->
 <!ENTITY viewMenu.label "Widok">
-<!ENTITY viewmenu.accesskey "W">
+<!ENTITY viewMenu.accesskey "W">
 <!ENTITY compositionToolbarCmd.label "Pasek narzędzi edycji">
-<!ENTITY compositiontb.accesskey "t">
+<!ENTITY compositionToolbarCmd.accesskey "t">
 <!ENTITY formattingToolbarCmd.label "Pasek narzędzi formatowania">
-<!ENTITY formattingtb.accesskey "r">
+<!ENTITY formattingToolbarCmd.accesskey "r">
 <!ENTITY editmodeToolbarCmd.label "Pasek trybu edycji">
-<!ENTITY editmodetb.accesskey "e">
+<!ENTITY editmodeToolbarCmd.accesskey "e">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Format">
-<!ENTITY formatmenu.accesskey "F">
+<!ENTITY formatMenu.accesskey "F">
 
 <!ENTITY helpMenu.label "Pomoc">
 <!ENTITY aboutCmd.label "Informacje o">
