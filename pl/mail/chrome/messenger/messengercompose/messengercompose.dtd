@@ -70,6 +70,7 @@
 <!ENTITY pasteCmd.label "Wklej">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "e">
+<!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY editRewrapCmd.label "Zawiń wiersze">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "Z">
