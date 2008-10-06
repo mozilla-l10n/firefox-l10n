@@ -20,8 +20,6 @@
 <!ENTITY secondsLabel.label "sekundách">
 <!ENTITY showFolderColumns.label "Zobrazit rozšířené sloupce v panelu složek">
 <!ENTITY showFolderColumns.accesskey "r">
-<!ENTITY rememberLastMsg.label "Pamatovat si poslední vybranou zprávu">
-<!ENTITY rememberLastMsg.accesskey "m">
 <!ENTITY openMsgIn.label "Otevírat zprávy v:">
 <!ENTITY reuseExpRadio0.label "Novém okně">
 <!ENTITY reuseExpRadio0.accesskey "N">
@@ -29,9 +27,6 @@
 <!ENTITY reuseExpRadio1.accesskey "A">
 <!ENTITY reuseExpRadio2.label "Novém panelu">
 <!ENTITY reuseExpRadio2.accesskey "p">
-<!ENTITY connectionTimeout.label "Časový limit spojení: ">
-<!ENTITY connectionTimeout.accesskey "l">
-<!ENTITY connectionSeconds.label "sekund">
 <!ENTITY configEditDesc.label "Rozšířená konfigurace">
 <!ENTITY configEdit.label "Editor předvoleb…">
 <!ENTITY configEdit.accesskey "E">
@@ -57,9 +52,9 @@
 <!ENTITY showUpdates.accesskey "Z"> 
 
 <!-- Networking and Disk Space -->
-<!ENTITY showConnections.label "Nastavení připojení…">
-<!ENTITY showConnections.accesskey "s">
-<!ENTITY proxiesInfo.label "Konfigurovat připojení aplikace &brandShortName; k Internetu">
+<!ENTITY showSettings.label "Nastavení">
+<!ENTITY showSettings.accesskey "N">
+<!ENTITY proxiesConfigure.label "Konfigurovat připojení aplikace &brandShortName; k Internetu">
 <!ENTITY connectionsInfo.caption "Připojení">
 <!ENTITY offlineInfo.caption "Režim offline">
 <!ENTITY offlineInfo.label "Konfigurovat režim offline">
@@ -70,6 +65,18 @@
 <!ENTITY offlineCompact.label "Provést údržbu složek, pokud se tím ušetří přes">
 <!ENTITY offlineCompact.accesskey "k">
 <!ENTITY kb.label "kB">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label "Použít až">
+<!ENTITY useCacheBefore.accesskey "P">
+<!ENTITY useCacheAfter.label "MB diskové vyrovnávací paměti">
+<!ENTITY clearCacheNow.label "Vymazat">
+<!ENTITY clearCacheNow.accesskey "m">
 
 <!-- Certificates -->
 <!ENTITY certificatesInfo2.label "Spravovat certifikáty, seznamy zneplatnění, ověřování certifikátů a bezpečnostní zařízení">

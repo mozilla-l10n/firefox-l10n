@@ -34,6 +34,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY tableWindow.title "Vlastnosti tabulky">
 <!ENTITY applyButton.label "Použít">
 <!ENTITY applyButton.accesskey "P">
@@ -67,6 +68,7 @@
 <!ENTITY tableCaptionRight.label "Pravá část tabulky">
 <!ENTITY tableCaptionNone.label "Žádný">
 <!ENTITY tableInheritColor.label "(Průhledné pozadí tabulky)">
+
 <!ENTITY cellPercent.label "procent tabulky">
 <!ENTITY cellSelection.label "Výběr">
 <!ENTITY cellSelectCell.label "Buňka">
@@ -78,9 +80,7 @@
 <!ENTITY cellSelectPrevious.accessKey "P">
 <!ENTITY cellApplyBeforeMove.label "Použij změny před změnou označení">
 <!ENTITY cellKeepCurrentData.label "Zachovat aktuální nastavení">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label "Stávající změny budou uplatněny">
-<!ENTITY applyBeforeChange2.label "před změnou označení.">
+<!ENTITY applyBeforeChange.label "Stávající změny budou uplatněny před změnou označení.">
 <!ENTITY cellRowSpan.label "Rozpětí přes řádky:">
 <!ENTITY cellColSpan.label "Rozpětí přes sloupce:">
 <!ENTITY cellContentAlignment.label "Zarovnání obsahu">
