@@ -33,8 +33,10 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY windowTitle.label "Vlastnosti položky formuláře">
 <!ENTITY windowTitleImage.label "Vlastnosti obrázku formuláře">
+
 <!ENTITY InputType.label "Typ pole">
 <!ENTITY InputType.accesskey "p">
 <!ENTITY text.value "Text">
@@ -47,13 +49,16 @@
 <!ENTITY hidden.value "Skrytý">
 <!ENTITY image.value "Obrázek">
 <!ENTITY button.value "Tlačítko">
+
 <!ENTITY InputSettings.label "Nastavení pole">
 <!ENTITY InputName.label "Název pole:">
+<!ENTITY InputName.accesskey "N">
 <!ENTITY GroupName.label "Název skupiny:">
-<!ENTITY Name.accesskey "N">
+<!ENTITY GroupName.accesskey "N">
 <!ENTITY InputValue.label "Hodnota pole:">
+<!ENTITY InputValue.accesskey "H">
 <!ENTITY InitialValue.label "Počáteční hodnota:">
-<!ENTITY Value.accesskey "H">
+<!ENTITY InitialValue.accesskey "H">
 <!ENTITY InputChecked.label "Zaškrtnuto">
 <!ENTITY InputChecked.accesskey "Z">
 <!ENTITY InputSelected.label "Vybráno">
@@ -72,5 +77,6 @@
 <!ENTITY AccessKey.accesskey "k">
 <!ENTITY Accept.label "Akceptovat typy:">
 <!ENTITY Accept.accesskey "A">
+
 <!ENTITY ImageProperties.label "Vlastnosti obrázku:">
 <!ENTITY ImageProperties.accesskey "o">

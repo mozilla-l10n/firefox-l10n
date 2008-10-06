@@ -70,6 +70,7 @@
 <!ENTITY pasteCmd.label "Vložit">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "l">
+<!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY editRewrapCmd.label "Zalomit">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "l">
