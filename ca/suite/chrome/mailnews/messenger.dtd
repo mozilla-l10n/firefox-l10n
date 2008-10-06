@@ -548,7 +548,7 @@
 <!ENTITY folderContextCopyLocation.label "Copia la ubicació de la carpeta">
 <!ENTITY folderContextCopyLocation.accesskey "C">
 
-<!---SearchBar-->
+<!-- SearchBar -->
 <!-- also used by addressbook -->
 <!ENTITY SearchSubjectOrSender.label "L'assumpte o el remitent conté:">
 <!ENTITY SearchSubjectOrSender.accesskey "s">
