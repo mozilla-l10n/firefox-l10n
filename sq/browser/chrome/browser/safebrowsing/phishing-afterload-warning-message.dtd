@@ -2,7 +2,6 @@
 <!ENTITY safeb.palm.accept.statustext "Kalo te faqja ime hyrëse">
 <!ENTITY safeb.palm.decline.label "Shpërfille këtë sinjalizim">
 <!ENTITY safeb.palm.decline.statustext "Mbylle sinjalizimin" >
-<!ENTITY safeb.urlbaricon.tooltip "Kjo faqe mund të jetë e rrezikshme; klikoni për hollësi.">
 <!ENTITY safeb.palm.warning.title "Sajesë e Dyshyar Web">
 <!ENTITY safeb.palm.message.p1 "Kjo faqe është raportuar si një sajesë web e hartuar për të rrejtur përdoruesit me qëllim zbulimi të dhënash vetjake ose financiare. Dhënia e çfarëdo të dhëne vetjake në këtë faqe mund të sjellë përvetësim të identitetit ose tjetër të ngjashme. &#160;">
 <!ENTITY safeb.palm.message.p1.linkText "Lexoni për më tepër &#187;">

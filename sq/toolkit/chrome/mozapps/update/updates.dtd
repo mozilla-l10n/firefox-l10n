@@ -14,8 +14,8 @@
 <!ENTITY  cancel.accesskey                "A">
 
 <!ENTITY  noupdatesfound.title            "Nuk u Gjetën Përditësime">
-<!ENTITY  noupdatesfound.intro            "Nuk ka përditësime të passhëm. &brandShortName;-i mund të kontrollojë 
-                                           periodikisht për përditësime të rinj.">
+<!ENTITY  noupdatesautoenabled.intro      "Nuk ka përditësime të passhëm. &brandShortName;-i do të kontrollojë periodikisht për përditësime.">
+<!ENTITY  noupdatesautodisabled.intro     "Nuk ka përditësime të passhëm. Ju lutem kontrolloni më vonë ose aktivizoni te &brandShortName;-i  kontrollin e vetvetishëm për përditësime.">
 
 <!ENTITY  clickHere.label                 "Shihni më tepër të dhëna rreth këtij përditësimi">
 <!ENTITY  incompatible.warning            "Ky përditësim do të bëjë që ca nga zgjerimet dhe/ose tema tuajat

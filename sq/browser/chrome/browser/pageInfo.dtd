@@ -60,8 +60,8 @@
 <!ENTITY  generalEncoding       "Kodim:">
 <!ENTITY  generalMetaName       "Emër">
 <!ENTITY  generalMetaContent    "Përmbajtje">
-<!ENTITY  generalSecurityMore   "Më tepër">
-<!ENTITY  generalSecurityMore.accesskey "m">
+<!ENTITY  generalSecurityDetails   "Hollësi">
+<!ENTITY  generalSecurityDetails.accesskey "H">
 
 <!ENTITY  mediaTab              "Media">
 <!ENTITY  mediaTab.accesskey    "M">
@@ -119,14 +119,3 @@
 <!ENTITY  mediaDimension        "Përmasa:">
 <!ENTITY  mediaLocation         "Vend:">
 <!ENTITY  mediaText             "Tekst Shoqërues:">
-
-
-
-
-
-
-
-
-
-
-

@@ -22,8 +22,6 @@
 
 <!ENTITY     filter.label                   "Kërko:">
 <!ENTITY     filter.accesskey               "K">
-<!ENTITY     clear.label                    "Pastro">
-<!ENTITY     clear.accesskey                "P">
 
 <!ENTITY     button.close.label             "Mbylle">
 <!ENTITY     button.close.accesskey         "M">

@@ -36,3 +36,4 @@
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.showMac.label                "Shfaq në Gjetës">
 <!ENTITY cmd.showMac.accesskey            "S">
+<!ENTITY cmd.search.commandKey            "k">

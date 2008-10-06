@@ -251,7 +251,6 @@
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Këtë Kornizë">
 <!ENTITY thisFrameMenu.accesskey          "h">
-<!ENTITY newTabButton.tooltip           "Hap skedë të re">
 <!ENTITY newWindowButton.tooltip        "Hap dritare të re">
 <!ENTITY sidebarCloseButton.tooltip     "Mbyll anështyllën">
 <!ENTITY cutButton.tooltip              "Prije">

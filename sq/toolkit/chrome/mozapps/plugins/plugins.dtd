@@ -13,5 +13,6 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label "Mësoni më tepër rreth Shtojcash ose gjeni dorazi shtojca që mungojnë.">
 <!ENTITY pluginWizard.finalPage.restart.label "Që shtojcat të mund të punojnë, lypset rinisje e &brandShortName;-it.">
 <!ENTITY pluginWizard.firstPage.title "Mirësevini te &pluginWizard.title;">
-
 <!ENTITY missingPlugin.label                                 "Për shkarkimin e shtojcës, klikoni këtu.">
+<!ENTITY disabledPlugin.label                                "Shtojca për këtë përmbajtje është e çaktivizuar. Për administrimin e shtojcave tuaja, klikoni këtu.">
+<!ENTITY blockedPlugin.label                                 "Kjo shtojcë është bblokuar, me qëllim mbrojtjen tuaj.">

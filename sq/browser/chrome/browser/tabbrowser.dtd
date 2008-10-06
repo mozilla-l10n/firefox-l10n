@@ -16,3 +16,4 @@
 <!ENTITY  undoCloseTab.accesskey      "Z">
 <!ENTITY  bookmarkThisTab.label       "Faqeruaj Këtë Skedë">
 <!ENTITY  bookmarkThisTab.accesskey   "F">
+<!ENTITY  newTabButton.tooltip        "Hap skedë të re">

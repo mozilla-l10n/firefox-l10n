@@ -1,8 +1,6 @@
-<!ENTITY newPagesIn.label             "Faqet e reja do të duhej të hapeshin në:">
-<!ENTITY inNewWindow.label            "dritare të re">
-<!ENTITY inNewWindow.accesskey        "d">
-<!ENTITY inNewTab.label               "skedë të re">
-<!ENTITY inNewTab.accesskey           "s">
+<!ENTITY newWindowsAsTabs.label       "Dritaret e reja hapi më mirë si skedë të re">
+<!ENTITY newWindowsAsTabs.accesskey   "s">
+
 <!ENTITY warnCloseMultipleTabs.label  "Sinjalizomë kur mbyll shumë skeda">
 <!ENTITY warnCloseMultipleTabs.accesskey  "i">
 

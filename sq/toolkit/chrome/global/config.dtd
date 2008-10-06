@@ -19,8 +19,6 @@
 <!ENTITY prefColumnHeader.tooltip "Kliko për të renditur">
 <!ENTITY reset.accesskey "C">
 <!ENTITY reset.label "Ricakto">
-<!ENTITY showAll.accesskey "Q">
-<!ENTITY showAll.label "Shfaq Tërë">
 <!ENTITY string.accesskey "G">
 <!ENTITY string.label "Varg">
 <!ENTITY toggle.accesskey "M">

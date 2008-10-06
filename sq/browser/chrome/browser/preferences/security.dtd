@@ -7,10 +7,10 @@
   useDownloadedList.label convey the meaning "suspected" (and not something like
   "known").
 -->
-<!ENTITY  tellMaybeAttackSite.label     "Tregomë nëse &quot;site&quot;-i që po vizitoj është &quot;site&quot; i dyshuar për sulme">
+<!ENTITY  tellMaybeAttackSite2.label     "Blloko &quot;site&quot;-e të raportuar për sulme">
 <!ENTITY  tellMaybeAttackSite.accesskey "l">
-<!ENTITY  tellMaybeForgery.label     "Tregomë nëse &quot;site&quot;-i që po vizitoj është i dyshuar si sajesë">
-<!ENTITY  tellMaybeForgery.accesskey "a">
+<!ENTITY  tellMaybeForgery.label     "Blloko sajesa web të raportuara">
+<!ENTITY  tellMaybeForgery.accesskey "b">
 
 <!ENTITY  addonExceptions.label         "Përjashtime...">
 <!ENTITY  addonExceptions.accesskey     "j">
