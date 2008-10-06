@@ -5,64 +5,64 @@
 
 <!-- General Settings -->
 
-<!ENTITY showCondensedAddresses.label  "Van mensen in mijn adresboek alleen weergavenaam tonen">
+<!ENTITY showCondensedAddresses.label  "Fan minsken yn myn adresboek allinnich werjeftenamme toane">
 <!ENTITY showCondensedAddresses.accesskey "m">
 
-<!ENTITY autoMarkAsRead.label             "Berichten automatisch als gelezen markeren">
+<!ENTITY autoMarkAsRead.label             "Berjochten automatysk as lêzen markearje">
 <!ENTITY autoMarkAsRead.accesskey         "A">
-<!ENTITY markAsReadNoDelay.label          "Onmiddelijk op het scherm">
+<!ENTITY markAsReadNoDelay.label          "Direkt op it skerm">
 <!ENTITY markAsReadNoDelay.accesskey      "O">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label            "Na het tonen voor">
+<!ENTITY markAsReadDelay.label            "Nei it toanen foar">
 <!ENTITY markAsReadDelay.accesskey        "N">
-<!ENTITY secondsLabel.label               "seconden">
-<!ENTITY showFolderColumns.label       "Uitgebreide kolommen weergeven in mappenvenster">
+<!ENTITY secondsLabel.label               "sekonden">
+<!ENTITY showFolderColumns.label       "Wiidweide kolommen werjaan yn mappenfinster">
 <!ENTITY showFolderColumns.accesskey   "k">
-<!ENTITY openMsgIn.label               "Nieuwe berichten openen in:">
-<!ENTITY reuseExpRadio0.label          "Een nieuw berichtvenster">
+<!ENTITY openMsgIn.label               "Nije berjochten iepenje yn:">
+<!ENTITY reuseExpRadio0.label          "In nij berjochtfinster">
 <!ENTITY reuseExpRadio0.accesskey      "i">
-<!ENTITY reuseExpRadio1.label          "Een bestaand berichtvenster">
+<!ENTITY reuseExpRadio1.label          "In besteand berjochtfinster">
 <!ENTITY reuseExpRadio1.accesskey      "a">
-<!ENTITY reuseExpRadio2.label          "Een nieuw berichttabblad">
-<!ENTITY reuseExpRadio2.accesskey      "w">
-<!ENTITY configEditDesc.label          "Uitgebreide configuratie">
-<!ENTITY configEdit.label              "Configuratie-editor…">
+<!ENTITY reuseExpRadio2.label          "In nij berjochtljepblêd">
+<!ENTITY reuseExpRadio2.accesskey      "l">
+<!ENTITY configEditDesc.label          "Wiidweide konfiguraasje">
+<!ENTITY configEdit.label              "Konfiguraasje-bewurker…">
 <!ENTITY configEdit.accesskey          "f">
-<!ENTITY returnReceiptsInfo.label      "Bepalen hoe &brandShortName; omgaat met leesbevestigingen">
-<!ENTITY showReturnReceipts.label      "Leesbevestigingen…">
+<!ENTITY returnReceiptsInfo.label      "Bepale hoe't &brandShortName; omgiet mei lêsbefestigings">
+<!ENTITY showReturnReceipts.label      "Lêsbefestigings…">
 <!ENTITY showReturnReceipts.accesskey  "L">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                "Automatisch controleren op updates voor:">
+<!ENTITY autoCheck.label                "Automatysk kontrolearje op fernijings foar:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "T">
-<!ENTITY enableAddonsUpdate.label       "Geïnstalleerde add-ons">
-<!ENTITY enableAddonsUpdate.accesskey   "G">
-<!ENTITY checkNow.label                 "Nu controleren…">
-<!ENTITY whenUpdatesFound.label         "Als er updates voor &brandShortName; worden gevonden:">
-<!ENTITY modeAskMe.label                "Mij vragen wat ik wil doen">
+<!ENTITY enableAddonsUpdate.label       "Ynstallearre tafoegings">
+<!ENTITY enableAddonsUpdate.accesskey   "Y">
+<!ENTITY checkNow.label                 "No kontrolearje…">
+<!ENTITY whenUpdatesFound.label         "As der fernijings foar &brandShortName; fûn wurde:">
+<!ENTITY modeAskMe.label                "My freegje wat ik dwaan wol">
 <!ENTITY modeAskMe.accesskey            "r">
-<!ENTITY modeAutomatic.label            "Automatisch de update downloaden en installeren">
-<!ENTITY modeAutomatic.accesskey        "u">
-<!ENTITY modeAutoAddonWarn.label        "Mij waarschuwen als dit een van mijn add-ons zal uitschakelen">
+<!ENTITY modeAutomatic.label            "Automatysk de fernijing ynlade en ynstallearje">
+<!ENTITY modeAutomatic.accesskey        "f">
+<!ENTITY modeAutoAddonWarn.label        "My warskôgje as dit ien fan myn tafoegngs útskeakelje sil">
 <!ENTITY modeAutoAddonWarn.accesskey    "s">
-<!ENTITY showUpdates.label              "Updategeschiedenis tonen">
+<!ENTITY showUpdates.label              "Fernijingsskiednis toane">
 <!ENTITY showUpdates.accesskey          "d">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showConnections.label         "Verbinding…">
-<!ENTITY showConnections.accesskey     "e">
-<!ENTITY proxiesInfo.label             "Bepalen hoe &brandShortName; verbinding maakt met het internet">
-<!ENTITY connectionsInfo.caption       "Verbinding">
-<!ENTITY offlineInfo.caption           "Offline">
-<!ENTITY offlineInfo.label             "Offline-instellingen configureren">
-<!ENTITY showOffline.label             "Offline…">
-<!ENTITY showOffline.accesskey         "O">
+<!ENTITY showSettings.label         	"Ynstellings...">
+<!ENTITY showSettings.accesskey    		"n">
+<!ENTITY proxiesConfigure.label			"Konfigurearje hoe't &brandShortName; ferbining makket mei it ynternet">
+<!ENTITY connectionsInfo.caption		"Ferbining">
+<!ENTITY offlineInfo.caption			"Sûnder ferbining">
+<!ENTITY offlineInfo.label				"Sûnder ferbining-ynstellings konfigurearje">
+<!ENTITY showOffline.label				"Sûnder ferbining...">
+<!ENTITY showOffline.accesskey			"S">
 
-<!ENTITY Diskspace "Schijfruimte">
-<!ENTITY offlineCompact.label "Mappen comprimeren als het meer bespaart dan">
+<!ENTITY Diskspace "Skiifromte">
+<!ENTITY offlineCompact.label "Mappen ynpakke as it mear besparret as">
 <!ENTITY offlineCompact.accesskey "p">
 <!ENTITY kb.label "KB">
 
@@ -79,12 +79,12 @@
 <!ENTITY clearCacheNow.accesskey         "N">
 
 <!-- Certificates -->
-<!ENTITY certificatesInfo2.label        "Certificaten, intrekkingslijsten, certificaatvalidatie en beveiligingsapparaten beheren.">
-<!ENTITY viewCertificates.label         "Certificaten bekijken">
-<!ENTITY viewCertificates.accesskey     "C">
-<!ENTITY viewCRLs.label                 "Intrekkingslijsten">
-<!ENTITY viewCRLs.accesskey             "I">
-<!ENTITY validation.label               "Validatie">
-<!ENTITY validation.accesskey           "V">
-<!ENTITY viewSecurityDevices.label      "Beveiligingsapparaten">
+<!ENTITY certificatesInfo2.label        "Sertifikaten, ynlûklisten, sertifikaatfalidaasje en befeiligingsapparaten beheare.">
+<!ENTITY viewCertificates.label         "Sertifikaten besjen">
+<!ENTITY viewCertificates.accesskey     "S">
+<!ENTITY viewCRLs.label                 "Ynlûklisten">
+<!ENTITY viewCRLs.accesskey             "Y">
+<!ENTITY validation.label               "Falidaasje">
+<!ENTITY validation.accesskey           "F">
+<!ENTITY viewSecurityDevices.label      "Befeiligingsapparaten">
 <!ENTITY viewSecurityDevices.accesskey  "B">

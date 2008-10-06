@@ -54,7 +54,7 @@
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label 								"Opmaak">
-<!ENTITY formatmenu.accesskey 							"M">
+<!ENTITY formatMenu.accesskey 							"M">
 
 <!ENTITY helpMenu.label 								"Help">
 <!ENTITY aboutCmd.label 								".Oer">
