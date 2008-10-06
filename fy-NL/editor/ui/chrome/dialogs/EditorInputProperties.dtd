@@ -52,11 +52,13 @@
 
 <!ENTITY InputSettings.label "Fjildynstellings">
 <!ENTITY InputName.label "Fjildnamme:">
+<!ENTITY InputName.accesskey "d">
 <!ENTITY GroupName.label "Groepsnamme:">
-<!ENTITY Name.accesskey "n">
+<!ENTITY GroupName.accesskey "n">
 <!ENTITY InputValue.label "Fjildwearde:">
+<!ENTITY InputValue.accesskey "F">
 <!ENTITY InitialValue.label "Ynisjele wearde:">
-<!ENTITY Value.accesskey "Y">
+<!ENTITY InitialValue.accesskey "w">
 <!ENTITY InputChecked.label "Ynisjeel oanfinkt">
 <!ENTITY InputChecked.accesskey "o">
 <!ENTITY InputSelected.label "Ynisjeel selektearre">

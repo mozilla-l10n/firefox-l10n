@@ -20,8 +20,6 @@
 <!ENTITY secondsLabel.label               "seconden">
 <!ENTITY showFolderColumns.label       "Uitgebreide kolommen weergeven in mappenvenster">
 <!ENTITY showFolderColumns.accesskey   "k">
-<!ENTITY rememberLastMsg.label         "Laatst geselecteerde bericht onthouden">
-<!ENTITY rememberLastMsg.accesskey     "n">
 <!ENTITY openMsgIn.label               "Nieuwe berichten openen in:">
 <!ENTITY reuseExpRadio0.label          "Een nieuw berichtvenster">
 <!ENTITY reuseExpRadio0.accesskey      "i">
@@ -29,9 +27,6 @@
 <!ENTITY reuseExpRadio1.accesskey      "a">
 <!ENTITY reuseExpRadio2.label          "Een nieuw berichttabblad">
 <!ENTITY reuseExpRadio2.accesskey      "w">
-<!ENTITY connectionTimeout.label       "Wachttijd voor verbinding: ">
-<!ENTITY connectionTimeout.accesskey   "j">
-<!ENTITY connectionSeconds.label       "seconden">
 <!ENTITY configEditDesc.label          "Uitgebreide configuratie">
 <!ENTITY configEdit.label              "Configuratie-editor…">
 <!ENTITY configEdit.accesskey          "f">
@@ -70,6 +65,18 @@
 <!ENTITY offlineCompact.label "Mappen comprimeren als het meer bespaart dan">
 <!ENTITY offlineCompact.accesskey "p">
 <!ENTITY kb.label "KB">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Brûk oant">
+<!ENTITY useCacheBefore.accesskey        "o">
+<!ENTITY useCacheAfter.label             "MB skiifromte foar de buffer">
+<!ENTITY clearCacheNow.label             "No wiskje">
+<!ENTITY clearCacheNow.accesskey         "N">
 
 <!-- Certificates -->
 <!ENTITY certificatesInfo2.label        "Certificaten, intrekkingslijsten, certificaatvalidatie en beveiligingsapparaten beheren.">

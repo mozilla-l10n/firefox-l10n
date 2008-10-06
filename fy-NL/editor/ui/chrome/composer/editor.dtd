@@ -44,13 +44,13 @@
 
 <!-- View menu items -->
 <!ENTITY viewMenu.label 								"Byld">
-<!ENTITY viewmenu.accesskey 							"B">
+<!ENTITY viewMenu.accesskey 							"B">
 <!ENTITY compositionToolbarCmd.label 					"Komposysje-arkbalke">
-<!ENTITY compositiontb.accesskey 						"K">
+<!ENTITY compositionToolbarCmd.accesskey 				"K">
 <!ENTITY formattingToolbarCmd.label 					"Opmaakarkbalke">
-<!ENTITY formattingtb.accesskey 						"O">
+<!ENTITY formattingToolbarCmd.accesskey 				"O">
 <!ENTITY editmodeToolbarCmd.label 						"Bewurkingsarkbalke">
-<!ENTITY editmodetb.accesskey 							"a">
+<!ENTITY editmodeToolbarCmd.accesskey 					"a">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label 								"Opmaak">
