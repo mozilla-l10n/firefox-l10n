@@ -82,8 +82,7 @@
 <!ENTITY cellSelectPrevious.accessKey "d">
 <!ENTITY cellApplyBeforeMove.label "Zastosuj zmiany przed zmianą zaznaczenia">
 <!ENTITY cellKeepCurrentData.label "Zachowaj bieżące ustawienia">
-<!ENTITY applyBeforeChange1.label "Uwaga: wprowadzone zmiany będą zastosowane">
-<!ENTITY applyBeforeChange2.label "przy przejściu do następnego elementu.">
+<!ENTITY applyBeforeChange.label "Uwaga: wprowadzone zmiany będą zastosowane przy przejściu do następnego elementu.">
 <!ENTITY cellRowSpan.label "Rozpiętość wiersza:">
 <!ENTITY cellColSpan.label "Rozpiętość kolumny:">
 <!ENTITY cellContentAlignment.label "Wyrównanie zawartości">
