@@ -44,7 +44,7 @@
 <!ENTITY renameFolder.accesskey "m">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Porządkuj foldery">
-<!ENTITY compactFolder.accesskey "f">
+<!ENTITY compactFolders.accesskey "f">
 <!ENTITY emptyTrashCmd.label "Opróżnij Kosz">
 <!ENTITY emptyTrashCmd.accesskey "r">
 <!ENTITY importCmd.label 			"Importuj…">
@@ -284,9 +284,9 @@
 <!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextStarredMsgCmd.label "Wiadomość oznaczona gwiazdką">
 <!ENTITY nextStarredMsgCmd.accesskey "O">
-<!ENTITY nextUnreadThread.label "Nieprzeczytany wątek">
-<!ENTITY nextUnreadThreadCmd.accesskey "w">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.label      "Nieprzeczytany wątek">
+<!ENTITY nextUnreadThread.accesskey  "w">
+<!ENTITY nextUnreadThread.key        "t">
 <!ENTITY prevMenu.label "Poprzednia">
 <!ENTITY prevMenu.accesskey "P">
 <!ENTITY prevMsgCmd.label "Wiadomość">
