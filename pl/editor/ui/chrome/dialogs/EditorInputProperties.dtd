@@ -14,11 +14,13 @@
 <!ENTITY button.value "Przycisk" >
 <!ENTITY InputSettings.label "Ustawienia pola" >
 <!ENTITY InputName.label "Nazwa pola:" >
+<!ENTITY InputName.accesskey    "p">
 <!ENTITY GroupName.label "Nazwa grupy:" >
-<!ENTITY Name.accesskey "N" >
+<!ENTITY GroupName.accesskey    "N" >
 <!ENTITY InputValue.label "Wartość pola:" >
+<!ENTITY InputValue.accesskey   "a">
 <!ENTITY InitialValue.label "Wartość początkowa:" >
-<!ENTITY Value.accesskey "W" >
+<!ENTITY InitialValue.accesskey "W" >
 <!ENTITY InputChecked.label "Początkowo zaznaczony" >
 <!ENTITY InputChecked.accesskey "P" >
 <!ENTITY InputSelected.label "Początkowo wybrany" >
