@@ -341,7 +341,7 @@
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY spellAddDictionaries.label "Додај речници…">
 <!ENTITY spellAddDictionaries.accesskey "а">
-<!ENTITY editBookmark.done.label "Готово">
+<!ENTITY editBookmark.done.label "Во ред">
 <!ENTITY editBookmark.cancel.label "Откажи">
 <!ENTITY editBookmark.removeBookmark.label "Отстрани го обележувачот">
 <!ENTITY editBookmark.removeBookmark.accessKey "р">
