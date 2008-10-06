@@ -34,9 +34,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.toolbars.title    "ਸੰਦ-ਪੱਟੀ">
+<!ENTITY pref.toolbars.title    "ਟੂਲਬਾਰ">
 
-<!ENTITY composition.caption "ਸੰਪਾਦਕ ਸੰਦ-ਪੱਟੀ ਵਿੱਚ ਇਹ ਬਟਨ ਵੇਖਾਓ:">
+<!ENTITY composition.caption "ਸੰਪਾਦਕ ਟੂਲਬਾਰ ਵਿੱਚ ਇਹ ਬਟਨ ਵੇਖੋ:">
 
 <!ENTITY new.label "ਨਵਾਂ">
 <!ENTITY open.label "ਖੋਲ੍ਹੋ">
@@ -44,17 +44,17 @@
 <!ENTITY publish.label "ਪ੍ਰਕਾਸ਼ਨ">
 <!ENTITY preview.label "ਝਲਕ">
 <!ENTITY cut.label "ਕੱਟੋ">
-<!ENTITY copy.label "ਨਕਲ">
+<!ENTITY copy.label "ਕਾਪੀ ਕਰੋ">
 <!ENTITY paste.label "ਚੇਪੋ">
-<!ENTITY print.label "ਛਾਪੋ">
+<!ENTITY print.label "ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY find.label "ਖੋਜ">
 <!ENTITY image.label "ਚਿੱਤਰ">
-<!ENTITY hline.label "ਖਿ. ਰੇਖਾ">
-<!ENTITY table.label "ਸਾਰਣੀ">
-<!ENTITY link.label "ਸਬੰਧ">
-<!ENTITY anchor.label "ਅੰਕਰ">
+<!ENTITY hline.label "ਹਰੀਜੱਟਲ ਲਾਈਨ">
+<!ENTITY table.label "ਟੇਬਲ">
+<!ENTITY link.label "ਲਿੰਕ">
+<!ENTITY anchor.label "ਐਂਕਰ">
 
-<!ENTITY formatting.caption "ਫਾਰਮੈਟ ਸੰਦ-ਪੱਟੀ ਵਿੱਚ ਇਹ ਬਟਨ ਵੇਖਾਓ:">
+<!ENTITY formatting.caption "ਫਾਰਮੈਟ ਟੂਲਬਾਰ ਵਿੱਚ ਇਹ ਬਟਨ ਵੇਖੋ:">
 
 <!ENTITY smaller.label "ਛੋਟਾ">
 <!ENTITY larger.label "ਵੱਡਾ">
@@ -64,7 +64,7 @@
 <!ENTITY italic.label "ਤਿਰਛਾ">
 <!ENTITY outdent.label "ਹਾਸ਼ੀਏ ਦੇ ਨੇੜੇ">
 <!ENTITY indent.label "ਹਾਸ਼ੀਏ ਤੋਂ ਦੂਰ">
-<!ENTITY underline.label "ਹੇਠਾਂ ਰੇਖਾ">
+<!ENTITY underline.label "ਹੇਠਾਂ ਲਾਈਨ">
 
 <!ENTITY absolutePosition.label "ਅਸਲੀ ਸਥਿਤੀ">
 <!ENTITY decreaseZIndex.label "ਪਿੱਛੇ ਭੇਜੋ">

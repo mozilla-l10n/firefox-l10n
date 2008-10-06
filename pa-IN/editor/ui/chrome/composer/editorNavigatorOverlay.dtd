@@ -1,7 +1,7 @@
 
-<!ENTITY editPageCmd.label                "ਸੰਪਾਦਕ 'ਚ ਸਫ਼ਾ ਸੋਧ"> 
+<!ENTITY editPageCmd.label                "ਸੰਪਾਦਕ 'ਚ ਪੇਜ਼ ਸੋਧ"> 
 <!ENTITY editPageCmd.accesskey            "e">
 
-<!ENTITY editLinkCmd.label                "ਸੰਪਾਦਕ 'ਚ ਸਬੰਧ ਸੋਧ">
+<!ENTITY editLinkCmd.label                "ਸੰਪਾਦਕ 'ਚ ਲਿੰਕ ਸੋਧ">
 <!ENTITY editLinkCmd.accesskey            "E">
 

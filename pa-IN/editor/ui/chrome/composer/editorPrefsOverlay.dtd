@@ -4,6 +4,6 @@
 <!ENTITY editorCheck.accesskey "c">
 
 <!ENTITY compose.label "ਸੰਪਾਦਕ">
-<!ENTITY editing.label "ਨਵਾਂ ਸਫ਼ਾ ਸਥਾਪਨ">
-<!ENTITY toolbars.label "ਸੰਦ-ਪੱਟੀ">
-<!ENTITY publish.label "ਪ੍ਰਕਾਸ਼ਨ">
+<!ENTITY editing.label "ਨਵੀਂ ਪੇਜ਼ ਸੈਟਿੰਗ">
+<!ENTITY toolbars.label "ਟੂਲਬਾਰ">
+<!ENTITY publish.label "ਪਬਲਿਸ਼">

@@ -567,7 +567,7 @@
 <!ENTITY structSelect.accesskey     "s">
 <!ENTITY structRemoveTag.label      "ਟੈਗ ਹਟਾਓ">
 <!ENTITY structRemoveTag.accesskey  "r">
-<!ENTITY structChangeTag.label      "ਟੈਗ ਤਬਦੀਲ">
+<!ENTITY structChangeTag.label      "ਟੈਗ ਬਦਲੋ">
 <!ENTITY structChangeTag.accesskey  "c">
 
 <!-- TOC manipulation -->
@@ -577,5 +577,5 @@
 <!ENTITY updateTOC.accesskey      "u">
 <!ENTITY removeTOC.label          "ਹਟਾਓ">
 <!ENTITY removeTOC.accesskey      "r">
-<!ENTITY tocMenu.label            "ਤਤਕਰਾ...">
+<!ENTITY tocMenu.label            "ਇੰਡੈਕਸ...">
 <!ENTITY tocMenu.accesskey        "b">
