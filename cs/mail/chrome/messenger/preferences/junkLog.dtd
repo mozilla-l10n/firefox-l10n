@@ -1,6 +1,6 @@
-<!ENTITY junkLog.title "Log soubor nevyžádané pošty">
-<!ENTITY junkLogInfo.label "Povolit logování nevyžádané pošty.">
-<!ENTITY clearLog.label "Smazat log">
+<!ENTITY junkLog.title "Žurnál nevyžádané pošty">
+<!ENTITY junkLogInfo.label "Povolit žurnál nevyžádané pošty.">
+<!ENTITY clearLog.label "Smazat žurnál">
 <!ENTITY clearLog.accesskey "m">
 <!ENTITY closeLog.label "Zavřít">
 <!ENTITY closeLog.accesskey "Z">

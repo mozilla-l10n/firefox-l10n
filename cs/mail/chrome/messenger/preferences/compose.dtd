@@ -5,37 +5,37 @@
 
 <!ENTITY forwardReply.label "Přeposílání zpráv">
 <!ENTITY forwardMsg.label "Přeposílat zprávy:">
-<!ENTITY forwardMsg.accesskey "P">
+<!ENTITY forwardMsg.accesskey "s">
 <!ENTITY inline.label "Vloženě">
-<!ENTITY inline.accesskey "V">
+<!ENTITY inline.accesskey "l">
 <!ENTITY asAttachment.label "Jako přílohu">
 <!ENTITY asAttachment.accesskey "J">
 <!ENTITY addExtension.label "Přiřadit rozšíření ke jménu souboru">
-<!ENTITY addExtension.accesskey "s">
+<!ENTITY addExtension.accesskey "b">
 
 <!ENTITY htmlComposeHeader.label "HTML">
 <!ENTITY font.label "Písmo:">
-<!ENTITY font.accesskey "P">
+<!ENTITY font.accesskey "m">
 <!ENTITY size.label "Velikost:">
 <!ENTITY size.accesskey "V">
 <!ENTITY fontColor.label "Text:">
 <!ENTITY fontColor.accesskey "T">
 <!ENTITY bgColor.label "Pozadí:">
-<!ENTITY bgColor.accesskey "z">
+<!ENTITY bgColor.accesskey "P">
 <!ENTITY restoreHTMLDefaults.label "Obnovit výchozí">
 <!ENTITY restoreHTMLDefaults.accesskey "O">
 
 <!ENTITY sendingMessagesHeader.label "Vytváření zpráv">
 <!ENTITY spellCheck.label "Při odesílání zpráv kontrolovat pravopis">
-<!ENTITY spellCheck.accesskey "r">
+<!ENTITY spellCheck.accesskey "k">
 <!ENTITY spellCheckInline.label "Povolit kontrolu pravopisu při psaní">
-<!ENTITY spellCheckInline1.accesskey "n">
+<!ENTITY spellCheckInline1.accesskey "P">
 <!ENTITY languagePopup.label "Jazyk:">
-<!ENTITY languagePopup.accessKey "y">
+<!ENTITY languagePopup.accessKey "J">
 <!ENTITY downloadDictionaries.label "Stáhnout další slovníky">
 
 <!ENTITY warnOnSendAccelKey.label "Při odeslání zprávy pomocí klávesové zkratky požadovat potvrzení">
-<!ENTITY warnOnSendAccelKey.accesskey "P">
+<!ENTITY warnOnSendAccelKey.accesskey "i">
 <!ENTITY autoSave.label "Automaticky ukládat každých">
 <!ENTITY autoSave.accesskey "A">
 <!ENTITY autoSaveEnd.label "minut">
@@ -61,4 +61,4 @@
 <!ENTITY sendOptionsCaption.label "Předvolby HTML a odesílání">
 <!ENTITY sendOptionsDescription.label "Nastavení chování textového formátu ">
 <!ENTITY sendOptions.label "Předvolby odesílání…">
-<!ENTITY sendOptions.accesskey "o">
+<!ENTITY sendOptions.accesskey "e">
