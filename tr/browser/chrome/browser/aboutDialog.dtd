@@ -5,3 +5,8 @@
 <!ENTITY aboutLink.accesskey    "a">
 <!ENTITY aboutVersion           "sürüm">
 <!ENTITY copyrightInfo          "&#169;1998 - 2008 Katkıda bulunan herkes. Her hakkı saklıdır. Firefox ve Firefox simgesi Mozilla Vakfı'nın kayıtlı markalarıdır ve tüm hakları saklıdır. Bazı kayıtlı marka hakları Charlton Co. izniyle kullanılmaktadır.">
+
+<!ENTITY closeCmdGNOME.label        "Kapat">
+<!ENTITY closeCmdGNOME.accesskey    "K">
+<!ENTITY copyrightGNOME.accesskey   "e">
+

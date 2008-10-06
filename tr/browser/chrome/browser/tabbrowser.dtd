@@ -16,3 +16,5 @@
 <!ENTITY  bookmarkThisTab.accesskey   "B">
 <!ENTITY  undoCloseTab.label          "Kapaltılan sekmeyi aç">
 <!ENTITY  undoCloseTab.accesskey      "K">
+<!ENTITY  newTabButton.tooltip        "Yeni sekme aç">
+

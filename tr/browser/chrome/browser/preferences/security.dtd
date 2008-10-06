@@ -30,11 +30,12 @@
 
 <!ENTITY  savedPasswords.label            "Kayıtlı parolalar...">
 <!ENTITY  savedPasswords.accesskey        "p">
-
-
 <!ENTITY  warnings.label                "Uyarı iletileri">
-
 <!ENTITY  chooseWarnings.label          "İnternette gezinirken hangi uyarıları almak istediğinizi seçin">
 
 <!ENTITY  warningSettings.label         "Ayarlar...">
 <!ENTITY  warningSettings.accesskey     "A">
+
+<!ENTITY  tellMaybeAttackSite2.label     "Bildirilen saldırı sitelerini engelle">
+<!ENTITY  tellMaybeForgery2.label     "Bildirilen sahtekârlıkları engelle">
+

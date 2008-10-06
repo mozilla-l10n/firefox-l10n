@@ -21,3 +21,6 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "Eklentilerin çalışması için &brandShortName; kapatılıp tekrar açılması gerekli.">
   
 <!ENTITY missingPlugin.label                                 "Eklentiyi indirmek için tıklayınız.">
+<!ENTITY disabledPlugin.label                                "Yan uygulama bu içerikte devre dışı. Yan uygulamarlarınızı yönetmek için buraya tıklayın.">
+<!ENTITY blockedPlugin.label                                 "Bu yan eklenti sizi korumak için engellendi.">
+

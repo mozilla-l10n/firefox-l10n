@@ -9,3 +9,6 @@
 
 <!ENTITY switchToNewTabs.label        "Bir bağlantıyı yeni bir sekmede açtığımda hemen o sekmeye geç">
 <!ENTITY switchToNewTabs.accesskey    "s">
+<!ENTITY newWindowsAsTabs.label       "Yeni pencereleri yeni sekmede aç">
+<!ENTITY newWindowsAsTabs.accesskey   "c">
+

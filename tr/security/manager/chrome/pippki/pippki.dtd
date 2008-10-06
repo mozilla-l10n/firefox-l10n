@@ -132,3 +132,5 @@
 <!ENTITY certErrorDlg.title "Secure Connection Failed">
 <!ENTITY certErrorDlg.info1 "Bu, sunucunun yapılandırılmasından ya da sunucuyu taklit etmeye çalışan biri yüzünden kaynaklanan bir sorun olabilir.">
 <!ENTITY certErrorDlg.info2 "Sunucuya daha önce başarıyla bağlandıysanız, bu sorun geçici olabilir ve daha sonra yeniden deneyebilirsiniz.">
+<!ENTITY getPassword.tokenName2.label "Güvenlik aygıtı:">
+
