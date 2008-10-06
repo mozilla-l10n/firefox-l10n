@@ -1,45 +1,50 @@
-<!ENTITY systemDefaults.label  		"Ustawienia systemowe">
-<!ENTITY alwaysCheckDefault.label      	"Przy uruchamianiu sprawdzaj, czy &brandShortName; jest domyślnym programem pocztowym">
-<!ENTITY alwaysCheckDefault.accesskey  	"P">
+<!ENTITY systemDefaults.label         "Ustawienia systemowe">
+<!ENTITY alwaysCheckDefault.label     "Przy uruchamianiu sprawdzaj, czy &brandShortName; jest domyślnym programem pocztowym">
+<!ENTITY alwaysCheckDefault.accesskey "P">
 
 <!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
   There's some sort of bug which makes wrapping checkboxes not properly reflow,
   causing the bottom border of the groupbox to be cut off; set this
   appropriately if your localization causes this checkbox to wrap.
 -->
-<!ENTITY alwaysCheckDefault.height  "3em">
+<!ENTITY alwaysCheckDefault.height "3em">
 
-<!ENTITY checkNow.label             	"Sprawdź teraz">
-<!ENTITY checkNow.accesskey         	"S">
+<!ENTITY checkNow.label            "Sprawdź teraz">
+<!ENTITY checkNow.accesskey        "S">
 
-<!ENTITY messengerStartPage.label         "Strona startowa programu &brandShortName;">
-<!ENTITY enableStartPage.label            "Po uruchomieniu programu wyświetl poniższą stronę startową w oknie wiadomości:">
-<!ENTITY enableStartPage.accesskey        "h">
-<!ENTITY location.label                   "Adres:">
-<!ENTITY location1.accesskey               "A">
-<!ENTITY useDefault.label                 "Przywróć domyślną">
-<!ENTITY useDefault.accesskey             "d">
+<!ENTITY messengerStartPage.label  "Strona startowa programu &brandShortName;">
+<!ENTITY enableStartPage.label     "Po uruchomieniu programu wyświetl poniższą stronę startową w oknie wiadomości:">
+<!ENTITY enableStartPage.accesskey "h">
+<!ENTITY location.label            "Adres:">
+<!ENTITY location1.accesskey       "A">
+<!ENTITY useDefault.label          "Przywróć domyślną">
+<!ENTITY useDefault.accesskey      "d">
 
-<!ENTITY bounceSystemDockIcon.label       "Włącz animacje dla ikony w doku">
-<!ENTITY bounceSystemDockIcon.accesskey   "c">
+<!ENTITY bounceSystemDockIcon.label     "Włącz animacje dla ikony w doku">
+<!ENTITY bounceSystemDockIcon.accesskey "c">
 
-<!ENTITY newMessagesArrive.label          "Po odebraniu nowej wiadomości:">
-<!ENTITY playSound.label                  "odtwórz dźwięk">
-<!ENTITY playSound1.accesskey              "o">
-<!ENTITY showAnimatedAlert.label          "wyświetl informację">
-<!ENTITY showAnimatedAlert.accesskey      "w">
-<!ENTITY customizeMailAlert.label 		"Dostosuj…">
-<!ENTITY customizeMailAlert.accesskey     "t">
+<!ENTITY newMessagesArrive.label   "Po odebraniu nowej wiadomości:">
+<!ENTITY playSound.label           "odtwórz dźwięk">
+<!ENTITY playSound1.accesskey      "o">
+<!ENTITY showAnimatedAlert.label   "wyświetl informację">
+<!ENTITY showAnimatedAlert.accesskey  "w">
+<!ENTITY customizeMailAlert.label     "Dostosuj…">
+<!ENTITY customizeMailAlert.accesskey "t">
 
-<!ENTITY soundNotification1.caption       "Dźwięk">
-<!ENTITY play.label                       "Odtwarzaj">
-<!ENTITY play.accesskey                   "z">
-<!ENTITY systemsound.label                "domyślny systemowy dźwięk powiadomienia o nowej poczcie">
-<!ENTITY systemsoundMac.label             "systemowy dźwięk powiadomienia">
-<!ENTITY systemsoundMac.accesskey         "e">
-<!ENTITY systemsound.accesskey            "e">
-<!ENTITY customsound.label                "użyj pliku">
-<!ENTITY customsound.accesskey            "u">
-<!ENTITY browse.label 				"Przeglądaj…">
-<!ENTITY browse.accesskey                 "g">
+<!ENTITY soundNotification1.caption   "Dźwięk">
+<!ENTITY play.label                "Odtwarzaj">
+<!ENTITY play.accesskey            "z">
+<!ENTITY systemsound.label         "domyślny systemowy dźwięk powiadomienia o nowej poczcie">
+<!ENTITY systemsoundMac.label      "systemowy dźwięk powiadomienia">
+<!ENTITY systemsoundMac.accesskey  "e">
+<!ENTITY systemsound.accesskey     "e">
+<!ENTITY customsound.label         "użyj pliku">
+<!ENTITY customsound.accesskey     "u">
+<!ENTITY browse.label              "Przeglądaj…">
+<!ENTITY browse.accesskey          "g">
 
+<!ENTITY addonsMgr.label           "Dodatki">
+<!ENTITY manageAddonsDescWin.label "Zmień opcje zainstalowanych dodatków">
+<!ENTITY manageAddonsDescUnix2.label "Zmień preferencje zainstalowanych dodatków">
+<!ENTITY manageAddons.label        "Zarządzaj dodatkami…">
+<!ENTITY manageAddons.accesskey    "a">
