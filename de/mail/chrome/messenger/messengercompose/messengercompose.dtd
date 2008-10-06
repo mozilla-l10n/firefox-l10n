@@ -70,6 +70,7 @@
 <!ENTITY pasteCmd.label "Einfügen">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "E">
+<!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY editRewrapCmd.label "Neu umbrechen">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "u">
