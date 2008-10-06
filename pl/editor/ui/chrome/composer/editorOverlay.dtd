@@ -124,7 +124,6 @@
 <!ENTITY editpastelink.accesskey "l">
 <!ENTITY pasteAsQuotationCmd.label "Wklej jako cytat">
 <!ENTITY editpastequotation.accesskey "y">
-<!ENTITY editpastequotation.keybinding "v">
 <!ENTITY editStripQuotesCmd.label "Usuń cytaty">
 <!ENTITY editRewrapCmd.label "Zawiń wiersze">
 <!ENTITY findCmd.label 				"Znajdź i zamień…">
