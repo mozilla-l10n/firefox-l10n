@@ -12,7 +12,7 @@
 <!ENTITY newListCmd.accesskey                           "M">
 <!ENTITY newAddressBookCmd.label                        "Adresboek…">
 <!ENTITY newAddressBookCmd.accesskey                    "r">
-<!ENTITY newLDAPDirectoryCmd.label                      "LDAP-directory…">
+<!ENTITY newLDAPDirectoryCmd.label                      "LDAP-map…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Berjocht">
 <!ENTITY newMessageCmd.key                              "M">
@@ -27,7 +27,7 @@
 <!ENTITY printSetupCmd.accesskey                        "P">
 <!ENTITY printPreviewCardViewCmd.label                  "Ofdrukfoarbyld kaart">
 <!ENTITY printPreviewCardViewCmd.accesskey              "v">
-<!ENTITY printPreviewAddressBook.label                  "Afdrukvoorbeeld adresboek">
+<!ENTITY printPreviewAddressBook.label                  "Ofdrukfoarbyld adresboek">
 <!ENTITY printPreviewAddressBook.accesskey              "b">
 <!ENTITY printCardViewCmd.label                         "Kaart ôfdrukke…">
 <!ENTITY printCardViewCmd.accesskey                     "d">
@@ -143,7 +143,7 @@
 <!ENTITY newlistButton.tooltip                          "Nije list oanmeitsje">
 <!ENTITY editButton.tooltip                             "Selektearre kaart oanpasse">
 <!ENTITY newIM.tooltip                                  "In ynstant-berjocht stjoere of chatte">
-<!ENTITY newmsgButton.tooltip                           "E-mailberjocht stjoeren">
+<!ENTITY newmsgButton.tooltip                           "E-mailberjocht stjoere">
 <!ENTITY deleteButton.tooltip                           "Selektearre kaart of adresboek fuortsmite">
 
 <!-- Dir Tree header -->
@@ -152,7 +152,7 @@
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Namme of e-mail">
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
-<!ENTITY advancedButton.tooltip                         "Wiidweid adres zoeken">
+<!ENTITY advancedButton.tooltip                         "Breder adres sykje">
 <!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title                               "Fluch sykje">
 

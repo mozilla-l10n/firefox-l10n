@@ -1,25 +1,25 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY securityMenu.label "Beveiliging">
-<!ENTITY securityMenu.accesskey "v">
+<!ENTITY securityMenu.label "Befeiliging">
+<!ENTITY securityMenu.accesskey "f">
 
-<!ENTITY menu_securityEncryptIfPossible.label "Versleutelen indien mogelijk">
+<!ENTITY menu_securityEncryptIfPossible.label "Fersiferje as it mooglik is">
 <!ENTITY menu_securityEncryptIfPossible.accesskey "m">
 
-<!ENTITY menu_securityEncryptRequire.label "Bericht versleutelen">
-<!ENTITY menu_securityEncryptRequire.accesskey "v">
+<!ENTITY menu_securityEncryptRequire.label "Berjocht fersiferje">
+<!ENTITY menu_securityEncryptRequire.accesskey "f">
 
-<!ENTITY menu_securityNoEncryption.label "Bericht niet versleutelen">
+<!ENTITY menu_securityNoEncryption.label "Berjocht net fersiferje">
 <!ENTITY menu_securityNoEncryption.accesskey "N">
 
-<!ENTITY menu_securitySign.label "Bericht digitaal ondertekenen">
-<!ENTITY menu_securitySign.accesskey "O">
+<!ENTITY menu_securitySign.label "Berjocht digitaal ûndertekenje">
+<!ENTITY menu_securitySign.accesskey "d">
 
-<!ENTITY menu_securityStatus.label "Beveiligingsinfo bekijken">
-<!ENTITY menu_securityStatus.accesskey "I">
+<!ENTITY menu_securityStatus.label "Befeiligingsynformaasje besjen">
+<!ENTITY menu_securityStatus.accesskey "Y">
 
-<!ENTITY securityButton.label "Beveiliging">
-<!ENTITY securityButton.tooltip "Beveiligingsinstellingen bekijken of veranderen">
+<!ENTITY securityButton.label "Befeiliging">
+<!ENTITY securityButton.tooltip "Befeiligingsynstellings besjen of wizigje">
 
-<!ENTITY menu_viewSecurityStatus.label "Beveiligingsinfo">
-<!ENTITY menu_viewSecurityStatus.accesskey "I">
+<!ENTITY menu_viewSecurityStatus.label "Befeiligingsynformaasje">
+<!ENTITY menu_viewSecurityStatus.accesskey "Y">

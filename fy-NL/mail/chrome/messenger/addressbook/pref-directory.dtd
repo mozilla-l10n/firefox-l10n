@@ -36,18 +36,18 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
-<!ENTITY pref.ldap.window.title    "LDAP-directoryservers">
-<!ENTITY directory.label           "Voeg een directory toe">
+<!ENTITY pref.ldap.window.title    "LDAP-maptsjinners">
+<!ENTITY directory.label           "Foegje in map ta">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label         "LDAP-directoryserver:">
+<!ENTITY directories.label         "LDAP-maptsjinner:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
-<!ENTITY directoriesText.label     "Selecteer een LDAP-directoryserver:">
+<!ENTITY directoriesText.label     "Selektearje in LDAP-maptsjinner:">
 <!ENTITY directoriesText.accesskey "S">
 <!-- LOCALIZATION NOTE (autocomplete.title) : do not translate "LDAP" in below line -->
-<!ENTITY autocomplete.title        "LDAP-directoryserver">
-<!ENTITY addDirectory.label        "Toevoegen">
+<!ENTITY autocomplete.title        "LDAP-maptsjinner">
+<!ENTITY addDirectory.label        "Tafoegje">
 <!ENTITY addDirectory.accesskey    "T">
-<!ENTITY editDirectory.label       "Bewerken">
+<!ENTITY editDirectory.label       "Bewurkje">
 <!ENTITY editDirectory.accesskey   "B">
-<!ENTITY deleteDirectory.label     "Verwijderen">
-<!ENTITY deleteDirectory.accesskey "V">
+<!ENTITY deleteDirectory.label     "Fuortsmite">
+<!ENTITY deleteDirectory.accesskey "F">
