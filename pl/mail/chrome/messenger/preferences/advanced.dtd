@@ -29,9 +29,6 @@
 <!ENTITY reuseExpRadio1.accesskey      "m">
 <!ENTITY reuseExpRadio2.label          "nowej karcie wiadomości">
 <!ENTITY reuseExpRadio2.accesskey      "k">
-<!ENTITY connectionTimeout.label       "Limit czasu prób połączenia: ">
-<!ENTITY connectionTimeout.accesskey   "L">
-<!ENTITY connectionSeconds.label       "sekund">
 <!ENTITY configEditDesc.label          "Konfiguracja zaawansowana">
 <!ENTITY configEdit.label 			"Edytor ustawień…">
 <!ENTITY configEdit.accesskey          "E">
@@ -58,9 +55,9 @@
 <!ENTITY showUpdates.accesskey          "h">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showConnections.label 			"Połączenie…">
-<!ENTITY showConnections.accesskey     "P">
-<!ENTITY proxiesInfo.label             "Określ, w jaki sposób &brandShortName; ma się łączyć z Internetem.">
+<!ENTITY showSettings.label            "Ustawienia…">
+<!ENTITY showSettings.accesskey        "U">
+<!ENTITY proxiesConfigure.label        "Określ, w jaki sposób &brandShortName; ma się łączyć z Internetem">
 <!ENTITY connectionsInfo.caption       "Połączenie">
 <!ENTITY offlineInfo.caption           "Tryb offline">
 <!ENTITY offlineInfo.label             "Ustawienia trybu offline">
