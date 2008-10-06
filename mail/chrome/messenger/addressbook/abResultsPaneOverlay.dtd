@@ -34,35 +34,35 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY GeneratedName.label "Naam">
+<!ENTITY GeneratedName.label "Namme">
 <!ENTITY GeneratedName.accesskey "N">
 <!ENTITY PrimaryEmail.label "E-mail">
 <!ENTITY PrimaryEmail.accesskey "m">
-<!ENTITY Company.label "Organisatie">
+<!ENTITY Company.label "Organisaasje">
 <!ENTITY Company.accesskey "O">
-<!ENTITY _PhoneticName.label "Fonetische naam">
+<!ENTITY _PhoneticName.label "Fonetyske namme">
 <!ENTITY _PhoneticName.accesskey "c">
-<!ENTITY NickName.label "Bijnaam">
+<!ENTITY NickName.label "Bynamme">
 <!ENTITY NickName.accesskey "B">
-<!ENTITY SecondEmail.label "Alternatieve e-mail">
+<!ENTITY SecondEmail.label "Alternative e-mail">
 <!ENTITY SecondEmail.accesskey "A">
-<!ENTITY Department.label "Afdeling">
+<!ENTITY Department.label "Ofdieling">
 <!ENTITY Department.accesskey "d">
 <!ENTITY JobTitle.label "Titel">
 <!ENTITY JobTitle.accesskey "T">
-<!ENTITY CellularNumber.label "Mobiel">
-<!ENTITY CellularNumber.accesskey "i">
-<!ENTITY PagerNumber.label "Pieper">
+<!ENTITY CellularNumber.label "Mobyl">
+<!ENTITY CellularNumber.accesskey "y">
+<!ENTITY PagerNumber.label "Piper">
 <!ENTITY PagerNumber.accesskey "r">
-<!ENTITY FaxNumber.label "Fax">
+<!ENTITY FaxNumber.label "Faks">
 <!ENTITY FaxNumber.accesskey "x">
-<!ENTITY HomePhone.label "Telefoon thuis">
+<!ENTITY HomePhone.label "Telefoon thús">
 <!ENTITY HomePhone.accesskey "f">
-<!ENTITY WorkPhone.label "Telefoon werk">
+<!ENTITY WorkPhone.label "Telefoon wurk">
 <!ENTITY WorkPhone.accesskey "w">
-<!ENTITY ScreenName.label "Schermnaam">
+<!ENTITY ScreenName.label "Skermnamme">
 <!ENTITY ScreenName.accesskey "S">
-<!ENTITY sortAscending.label "Oplopend">
+<!ENTITY sortAscending.label "Opgeand">
 <!ENTITY sortAscending.accesskey "p">
-<!ENTITY sortDescending.label "Aflopend">
-<!ENTITY sortDescending.accesskey "f">
+<!ENTITY sortDescending.label "Delgeand">
+<!ENTITY sortDescending.accesskey "d">
