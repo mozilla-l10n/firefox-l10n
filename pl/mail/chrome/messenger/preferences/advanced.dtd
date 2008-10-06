@@ -20,8 +20,6 @@
 <!ENTITY secondsLabel.label 			"sekund">
 <!ENTITY showFolderColumns.label       "Wyświetl nagłówki kolumn panelu folderów">
 <!ENTITY showFolderColumns.accesskey   "f">
-<!ENTITY rememberLastMsg.label         "Pamiętaj ostatnią zaznaczoną wiadomość">
-<!ENTITY rememberLastMsg.accesskey     "a">
 <!ENTITY openMsgIn.label               "Otwieraj wiadomości w:">
 <!ENTITY reuseExpRadio0.label          "nowym oknie wiadomości">
 <!ENTITY reuseExpRadio0.accesskey      "n">
