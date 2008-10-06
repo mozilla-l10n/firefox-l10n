@@ -309,7 +309,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Metin boyutu">
 <!ENTITY fullZoom.accesskey             "M">
 
-<!ENTITY newTabButton.tooltip           "Yeni bir sekme açar">
 <!ENTITY newWindowButton.tooltip        "Yeni bir pencere açar">
 <!ENTITY sidebarCloseButton.tooltip     "Kenar çubuğunu kapat">
 

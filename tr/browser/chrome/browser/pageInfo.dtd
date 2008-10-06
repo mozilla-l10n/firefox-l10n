@@ -60,8 +60,6 @@
 <!ENTITY  generalEncoding       "Kodlama:">
 <!ENTITY  generalMetaName       "Adı:">
 <!ENTITY  generalMetaContent    "İçerik:">
-<!ENTITY  generalSecurityMore   "Devamı">
-<!ENTITY  generalSecurityMore.accesskey "D">
 
 <!ENTITY  mediaTab              "Ortam">
 <!ENTITY  mediaTab.accesskey    "O">

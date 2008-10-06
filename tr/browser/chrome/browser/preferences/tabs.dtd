@@ -1,9 +1,3 @@
-<!ENTITY newPagesIn.label             "Yeni sayfalar burada açılsın:">
-<!ENTITY inNewWindow.label            "yeni pencerede">
-<!ENTITY inNewWindow.accesskey        "e">
-<!ENTITY inNewTab.label               "yeni sekmede">
-<!ENTITY inNewTab.accesskey           "s">
-
 <!ENTITY warnCloseMultipleTabs.label  "Çok sayıda sekme kapatılırken beni uyar">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
 

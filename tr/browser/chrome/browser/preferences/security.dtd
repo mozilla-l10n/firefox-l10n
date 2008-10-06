@@ -8,10 +8,8 @@
   useDownloadedList.label convey the meaning "suspected" (and not something like
   "known").
 -->
-<!ENTITY  tellMaybeAttackSite.label     "Ziyaret ettiğim sitenin saldırı sitesi olduğundan şüpheleniliyorsa bana haber ver">
 <!ENTITY  tellMaybeAttackSite.accesskey "h">
 
-<!ENTITY  tellMaybeForgery.label     "Açtığım sitede sahtekârlık şüphesi olup olmadığına bak">
 <!ENTITY  tellMaybeForgery.accesskey "t">
 
 <!ENTITY  addonExceptions.label         "Ayrıcalıklar...">
