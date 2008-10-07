@@ -140,6 +140,7 @@
 <!ENTITY checkSpellingCmd.accesskey "c">
 <!ENTITY checkSpellingCmd.key "k">
 <!ENTITY validateCmd.label "HTML falidearje">
+<!ENTITY validateCmd.accesskey "H">
 <!ENTITY checkSpellingCmd.accesskey "M">
 <!ENTITY checkLinksCmd.label "Keppelings kontrolearje">
 
