@@ -41,10 +41,10 @@
 <!ENTITY InputType.accesskey "T">
 <!ENTITY text.value "Text">
 <!ENTITY password.value "Heslo">
-<!ENTITY checkbox.value "Zaškrtávacie pole">
+<!ENTITY checkbox.value "Označovacie pole">
 <!ENTITY radio.value "Prepínač">
 <!ENTITY submit.value "Odosielacie tlačidlo">
-<!ENTITY reset.value "Resetovacie tlačidlo">
+<!ENTITY reset.value "Tlačidlo vynulovania">
 <!ENTITY file.value "Súbor">
 <!ENTITY hidden.value "Skryté">
 <!ENTITY image.value "Obrázok">
@@ -52,15 +52,17 @@
 
 <!ENTITY InputSettings.label "Nastavenie poľa">
 <!ENTITY InputName.label "Názov poľa">
+<!ENTITY InputName.accesskey "N">
 <!ENTITY GroupName.label "Názov skupiny:">
-<!ENTITY Name.accesskey "N">
+<!ENTITY GroupName.accesskey "N">
 <!ENTITY InputValue.label "Hodnota poľa:">
+<!ENTITY InputValue.accesskey "H">
 <!ENTITY InitialValue.label "Pôvodná hodnota:">
-<!ENTITY Value.accesskey "P">
+<!ENTITY InitialValue.accesskey "h">
 <!ENTITY InputChecked.label "Na začiatku označené">
-<!ENTITY InputChecked.accesskey "N">
+<!ENTITY InputChecked.accesskey "z">
 <!ENTITY InputSelected.label "Na začiatku označené">
-<!ENTITY InputSelected.accesskey "N">
+<!ENTITY InputSelected.accesskey "z">
 <!ENTITY InputReadOnly.label "Iba na čítanie">
 <!ENTITY InputReadOnly.accesskey "I">
 <!ENTITY InputDisabled.label "Zakázané">

@@ -4,9 +4,9 @@
 <!ENTITY authorName.accesskey      "A">
 <!ENTITY pageColorHeader           "Predvolený vzhľad stránky">
 
-<!ENTITY defaultColorsRadio.label  "Použiť farby čitateľa (nenastavovať farby na stránke)">
+<!ENTITY defaultColors.label       "Použiť farby čitateľa (nenastavovať farby na stránke)">
 <!ENTITY defaultColors.accesskey   "f">
-<!ENTITY customColorsRadio.label   "Použiť vlastné farby:">
+<!ENTITY customColors.label        "Použiť vlastné farby:">
 <!ENTITY customColors.accesskey    "v">
 
 <!ENTITY normalText.label          "Normálny text">

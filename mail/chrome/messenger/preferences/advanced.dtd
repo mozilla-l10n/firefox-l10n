@@ -20,8 +20,6 @@
 <!ENTITY secondsLabel.label             "sekundách od zobrazenia">
 <!ENTITY showFolderColumns.label        "Zobraziť stĺpce v paneli priečinkov">
 <!ENTITY showFolderColumns.accesskey    "Z">
-<!ENTITY rememberLastMsg.label          "Pamätať si naposledy označenú správu">
-<!ENTITY rememberLastMsg.accesskey      "s">
 <!ENTITY openMsgIn.label                "Správy otvárať v:">
 <!ENTITY reuseExpRadio0.label           "V novom okne správy">
 <!ENTITY reuseExpRadio0.accesskey       "n">
@@ -29,9 +27,6 @@
 <!ENTITY reuseExpRadio1.accesskey       "x">
 <!ENTITY reuseExpRadio2.label           "Na novej karte správy">
 <!ENTITY reuseExpRadio2.accesskey       "k">
-<!ENTITY connectionTimeout.label        "Časový limit pripojenia:">
-<!ENTITY connectionTimeout.accesskey    "m">
-<!ENTITY connectionSeconds.label        "sekúnd">
 <!ENTITY configEditDesc.label           "Pokročilé nastavenia">
 <!ENTITY configEdit.label               "Editor nastavení…">
 <!ENTITY configEdit.accesskey           "E">
@@ -57,9 +52,9 @@
 <!ENTITY showUpdates.accesskey          "h">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showConnections.label          "Nastavenia…">
-<!ENTITY showConnections.accesskey      "N">
-<!ENTITY proxiesInfo.label              "Nastaviť spôsob, akým sa &brandShortName; pripája k sieti Internet">
+<!ENTITY showSettings.label             "Nastavenia…">
+<!ENTITY showSettings.accesskey         "N">
+<!ENTITY proxiesConfigure.label         "Nastaviť spôsob, akým sa &brandShortName; pripája k sieti Internet">
 <!ENTITY connectionsInfo.caption        "Pripojenie">
 <!ENTITY offlineInfo.caption            "Režim offline">
 <!ENTITY offlineInfo.label              "Konfigurácia nastavení režimu offline">
@@ -70,6 +65,18 @@
 <!ENTITY offlineCompact.label           "Vykonať údržbu priečinkov, ak sa tým ušetrí viac ako">
 <!ENTITY offlineCompact.accesskey       "V">
 <!ENTITY kb.label                       "kB">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Vyhradiť">
+<!ENTITY useCacheBefore.accesskey        "h">
+<!ENTITY useCacheAfter.label             "MB diskového priestoru">
+<!ENTITY clearCacheNow.label             "Vymazať teraz">
+<!ENTITY clearCacheNow.accesskey         "e">
 
 <!-- Certificates -->
 <!ENTITY certificatesInfo2.label        "Správa certifikátov, zrušené certifikáty, overenie certifikátov a bezpečnostných zariadení.">
