@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+<!-- ***** BEGIN LICENSE BLCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -46,21 +46,21 @@
 <!ENTITY fileMenu.label "Bestân">
 <!ENTITY fileMenu.accesskey "B">
 <!ENTITY newBlankPageCmd.label "Composer-side">
-<!ENTITY newBlankPage.accesskey "p">
+<!ENTITY newBlankPageCmd.accesskey "p">
 <!ENTITY newMenu.label "Nij">
 <!ENTITY openFileCmd.label "Bestân iepenje...">
 <!ENTITY openFileCmd.accesskey "i">
-<!ENTITY openFileCmd.keybinding "O">
+<!ENTITY openFileCmd.key "O">
 <!ENTITY openRemoteCmd.label "Ynternetlokaasje iepenje">
 <!ENTITY openRemoteCmd.accesskey "l">
-<!ENTITY openRemoteCmd.keybinding "l">
+<!ENTITY openRemoteCmd.key "l">
 <!ENTITY fileRecentMenu.label "Resinte siden">
 <!ENTITY fileRecentMenu.accesskey "R">
 <!ENTITY fileRevert.label "Tebekgean">
 <!ENTITY fileRevert.accesskey "T">
 <!ENTITY saveCmd.label "Bewarje">
 <!ENTITY saveCmd.accesskey "w">
-<!ENTITY saveCmd.keybinding "s">
+<!ENTITY saveCmd.key "s">
 <!ENTITY saveAsCmd.label "Bewarje as...">
 <!ENTITY saveAsCmd.accesskey "s">
 
@@ -84,10 +84,10 @@
 <!ENTITY printButtonCmd.label "Ofdrukke...">
 <!ENTITY printCmd.label "Ofdrukke...">
 <!ENTITY printCmd.accesskey "d">
-<!ENTITY printCmd.keybinding "p">
+<!ENTITY printCmd.key "p">
 <!ENTITY closeCmd.label "Slute">
 <!ENTITY closeCmd.accesskey "S">
-<!ENTITY closeCmd.keybinding "W">
+<!ENTITY closeCmd.key "W">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Bewurkje">
@@ -115,7 +115,7 @@
 <!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
      Set to: "Table" or "Nested Table" depending on context 
      This accesskey must be in both strings -->
-<!ENTITY pasteTable.accesskey "a">
+<!ENTITY pasteTableCmd.accesskey "a">
 <!ENTITY pasteLinkCmd.label "Keppeling">
 <!ENTITY pasteLinkCmd.accesskey "l">
 <!ENTITY pasteAsQuotationCmd.label "Plakke als sitaat">
@@ -138,7 +138,7 @@
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd.label "Stavering kontrolearje">
 <!ENTITY checkSpellingCmd.accesskey "c">
-<!ENTITY checkSpellingCmd.keybinding "k">
+<!ENTITY checkSpellingCmd.key "k">
 <!ENTITY validateCmd.label "HTML falidearje">
 <!ENTITY checkSpellingCmd.accesskey "M">
 <!ENTITY checkLinksCmd.label "Keppelings kontrolearje">
@@ -231,9 +231,9 @@
 <!ENTITY fontVarWidth.accesskey "F">
 <!ENTITY fontFixedWidth.label "Fêste breedte">
 <!ENTITY fontFixedWidth.accesskey "b">
-<!ENTITY formatfontfixed.keybinding "t">
-<!ENTITY fontHelveticaFont.label "Helvetica, Arial">
-<!ENTITY fontHelveticaFont.accesskey "H">
+<!ENTITY fontFixedWidth.key "t">
+<!ENTITY fontHelvetica.label "Helvetica, Arial">
+<!ENTITY fontHelvetica.accesskey "H">
 <!ENTITY fontTimes.label "Times">
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
@@ -245,14 +245,14 @@
 <!ENTITY FontSizeSelect.tooltip "Tekengrutte kieze">
 <!ENTITY decreaseFontSize.label "Lytser">
 <!ENTITY decreaseFontSize.accesskey "n">
-<!ENTITY decreaseFontSize.keybinding "-">
+<!ENTITY decreaseFontSize.key "-">
 <!ENTITY increaseFontSize.label "Grutter">
 <!ENTITY increaseFontSize.accesskey "o">
 <!ENTITY increaseFontSize.key "+">
 <!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
 
-<!ENTITY fontsizeMenu.label "Grutte">
-<!ENTITY fontsizeMenu.accesskey "G">
+<!ENTITY fontSizeMenu.label "Grutte">
+<!ENTITY fontSizeMenu.accesskey "G">
 <!ENTITY size-xx-smallCmd.label "xx-lyts">
 <!ENTITY size-xx-smallCmd.accesskey "e">
 <!ENTITY size-x-smallCmd.label "x-lyts">
@@ -273,13 +273,13 @@
 <!ENTITY fontStyleMenu.accesskey "s">
 <!ENTITY styleBoldCmd.label "Fet">
 <!ENTITY styleBoldCmd.accesskey "F">
-<!ENTITY styleBoldCmd.keybinding "b">
+<!ENTITY styleBoldCmd.key "b">
 <!ENTITY styleItalicCmd.label "Kursief">
 <!ENTITY styleItalicCmd.accesskey "K">
-<!ENTITY styleItalicCmd.keybinding "i">
+<!ENTITY styleItalicCmd.key "i">
 <!ENTITY styleUnderlineCmd.label "Understreekje">
 <!ENTITY styleUnderlineCmd.accesskey "U">
-<!ENTITY styleUnderlineCmd.keybinding "u">
+<!ENTITY styleUnderlineCmd.key "u">
 <!ENTITY styleStrikeThruCmd.label "Trochstreekje">
 <!ENTITY styleStrikeThruCmd.accesskey "D">
 <!ENTITY styleSuperscriptCmd.label "Superskript">
@@ -350,8 +350,8 @@
 <!ENTITY listTermCmd.accesskey "T">
 <!ENTITY listDefinitionCmd.label "Definysje">
 <!ENTITY listDefinitionCmd.accesskey "D">
-<!ENTITY listProps.label "Listeigenskippen...">
-<!ENTITY listProps.accesskey "L">
+<!ENTITY listPropsCmd.label "Listeigenskippen...">
+<!ENTITY listPropsCmd.accesskey "L">
 
 <!ENTITY ParagraphSelect.tooltip "Alineaopmaak kieze">
 <!-- Shared in Paragraph, and Toolbar menulist -->
