@@ -44,17 +44,17 @@
 
 <!-- View menu items -->
 <!ENTITY viewMenu.label "Zobraziť">
-<!ENTITY viewmenu.accesskey "Z">
+<!ENTITY viewMenu.accesskey "Z">
 <!ENTITY compositionToolbarCmd.label "Panel Nová správa">
-<!ENTITY compositiontb.accesskey "n">
+<!ENTITY compositionToolbarCmd.accesskey "N">
 <!ENTITY formattingToolbarCmd.label "Panel Formátovanie">
-<!ENTITY formattingtb.accesskey "F">
+<!ENTITY formattingToolbarCmd.accesskey "F">
 <!ENTITY editmodeToolbarCmd.label "Panel Režimy úprav">
-<!ENTITY editmodetb.accesskey "o">
+<!ENTITY editmodeToolbarCmd.accesskey "R">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formát">
-<!ENTITY formatmenu.accesskey "F">
+<!ENTITY formatMenu.accesskey "F">
 
 <!ENTITY helpMenu.label "Pomocník">
 <!ENTITY aboutCmd.label ".O programe">

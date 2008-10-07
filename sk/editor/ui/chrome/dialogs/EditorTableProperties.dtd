@@ -80,9 +80,7 @@
 <!ENTITY cellSelectPrevious.accessKey "e">
 <!ENTITY cellApplyBeforeMove.label "Aplikovať zmeny pred presunom">
 <!ENTITY cellKeepCurrentData.label "Nechať aktuálne nastavenie">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label "Aktuálne zmeny budú použité">
-<!ENTITY applyBeforeChange2.label "pred zmenou výberu.">
+<!ENTITY applyBeforeChange.label "Aktuálne zmeny sa prejavia pri zmene výberu.">
 <!ENTITY cellRowSpan.label "Rozsah riadku:">
 <!ENTITY cellColSpan.label "Rozsah stĺpca:">
 <!ENTITY cellContentAlignment.label "Zarovnanie obsahu">

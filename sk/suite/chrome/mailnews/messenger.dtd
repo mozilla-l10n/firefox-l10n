@@ -83,7 +83,7 @@
 <!ENTITY renameFolder.label "Premenovať priečinok…">
 <!ENTITY renameFolder.accesskey "r">
 <!ENTITY compactFolders.label "Vykonať údržbu priečinkov">
-<!ENTITY compactFolder.accesskey "V">
+<!ENTITY compactFolders.accesskey "V">
 <!ENTITY emptyTrashCmd.label "Vyprázdniť kôš">
 <!ENTITY emptyTrashCmd.accesskey "z">
 <!ENTITY offlineMenu.label "Režim offline">
@@ -311,8 +311,8 @@
 <!ENTITY nextFlaggedMsgCmd.accesskey "o">
 <!ENTITY nextUnflaggedMsgCmd.label "Neoznačená správu">
 <!ENTITY nextUnreadThread.label "Neprečítané vlákno">
-<!ENTITY nextUnreadThreadCmd.accesskey "t">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "t">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Predchádzajúca">
 <!ENTITY prevMenu.accesskey "P">
 <!ENTITY prevMsgCmd.label "Správa">
@@ -326,7 +326,7 @@
 <!ENTITY goForwardCmd.label "Dopredu">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Správu označenú vlajkou">
-<!ENTITY previousFlaggedMsgCmd.accesskey "v">
+<!ENTITY prevFlaggedMsgCmd.accesskey "v">
 <!ENTITY backCmd.label "Naspäť">
 <!ENTITY backCmd.accesskey "s">
 <!ENTITY forwardCmd.label ".Dopredu">

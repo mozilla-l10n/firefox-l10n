@@ -44,7 +44,7 @@
 <!ENTITY renameFolder.accesskey "r">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Vykonať údržbu priečinkov">
-<!ENTITY compactFolder.accesskey "V">
+<!ENTITY compactFolders.accesskey "V">
 <!ENTITY emptyTrashCmd.label "Vyprázdniť kôš">
 <!ENTITY emptyTrashCmd.accesskey "z">
 <!ENTITY importCmd.label "Import…">
@@ -282,8 +282,8 @@
 <!ENTITY nextStarredMsgCmd.label "Správa s hviezdičkou">
 <!ENTITY nextStarredMsgCmd.accesskey "h">
 <!ENTITY nextUnreadThread.label "Neprečítané vlákno">
-<!ENTITY nextUnreadThreadCmd.accesskey "t">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "t">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Predchádzajúca">
 <!ENTITY prevMenu.accesskey "P">
 <!ENTITY prevMsgCmd.label "Správa">
