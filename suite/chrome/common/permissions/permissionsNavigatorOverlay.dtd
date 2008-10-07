@@ -1,18 +1,18 @@
-<!ENTITY cookieMessageTitle.label "Изменились права на сохранение cookies">
-<!ENTITY cookieDisplayCookiesCmd.label "Управление сохранёнными cookies">
+<!ENTITY cookieMessageTitle.label "Изменились права на сохранение кук">
+<!ENTITY cookieDisplayCookiesCmd.label "Управление сохранёнными куками">
 <!ENTITY cookieDisplayCookiesCmd.accesskey "У">
-<!ENTITY cookieAllowCookiesCmd.label "Разблокировать cookies с этого сайта">
+<!ENTITY cookieAllowCookiesCmd.label "Разблокировать куки с этого сайта">
 <!ENTITY cookieAllowCookiesCmd.accesskey "Р">
-<!ENTITY cookieAllowCookiesMsg.label "Cookies этого сайта больше не будут блокироваться.">
-<!ENTITY cookieAllowSessionCookiesCmd.label "Разрешить cookies с этого сайта на один сеанс">
+<!ENTITY cookieAllowCookiesMsg.label "Куки этого сайта больше не будут блокироваться.">
+<!ENTITY cookieAllowSessionCookiesCmd.label "Разрешить куки с этого сайта на один сеанс">
 <!ENTITY cookieAllowSessionCookiesCmd.accesskey "е">
-<!ENTITY cookieAllowSessionCookiesMsg.label "Сайт сможет сохранять cookies только на один сеанс.">
+<!ENTITY cookieAllowSessionCookiesMsg.label "Сайт сможет сохранять куки только на один сеанс.">
 <!ENTITY cookieCookiesDefaultCmd.label "Права по умолчанию">
 <!ENTITY cookieCookiesDefaultCmd.accesskey "П">
-<!ENTITY cookieCookiesDefaultMsg.label "Cookies с этого сайта будут сохраняться на основе настроек по умолчанию.">
-<!ENTITY cookieBlockCookiesCmd.label "Блокировать cookies с этого сайта">
+<!ENTITY cookieCookiesDefaultMsg.label "Куки с этого сайта будут сохраняться на основе настроек по умолчанию.">
+<!ENTITY cookieBlockCookiesCmd.label "Блокировать куки с этого сайта">
 <!ENTITY cookieBlockCookiesCmd.accesskey "Б">
-<!ENTITY cookieBlockCookiesMsg.label "Cookies этого сайта всегда будут отклоняться.">
+<!ENTITY cookieBlockCookiesMsg.label "Куки этого сайта всегда будут отклоняться.">
 <!ENTITY cookieImageMessageTitle.label "Изменились права на загрузку изображений">
 <!ENTITY cookieDisplayImagesCmd.label "Управление правами на загрузку изображений">
 <!ENTITY cookieDisplayImagesCmd.accesskey "У">
@@ -31,7 +31,7 @@
 <!ENTITY cookieManagePopups.accesskey "У">
 <!ENTITY cookieTutorialCmd.label "Понимание приватности">
 <!ENTITY cookieTutorialCmd.accesskey "П">
-<!ENTITY cookieCookieManager.label "Менеджер cookies">
+<!ENTITY cookieCookieManager.label "Менеджер кук">
 <!ENTITY cookieCookieManager.accesskey "е">
 <!ENTITY cookieImageManager.label "Менеджер изображений">
 <!ENTITY cookieImageManager.accesskey "и">

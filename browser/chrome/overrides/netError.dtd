@@ -78,9 +78,8 @@
 <!ENTITY redirectLoop.title "Неверное перенаправление на странице">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>Эта проблема может возникать при отключении или запрещении принятия cookies.</li>
-</ul>
-">
+   <li>Эта проблема может возникать при отключении или запрещении принятия кук.</li>
+</ul> ">
 <!ENTITY unknownSocketType.title "Неизвестный/неопознанный ответ сервера">
 <!ENTITY unknownSocketType.longDesc "
 <ul>

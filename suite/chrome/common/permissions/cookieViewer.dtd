@@ -1,14 +1,14 @@
-<!ENTITY tab.cookiesonsystem.label "Сохранённые cookies">
-<!ENTITY tab.bannedservers.label "Сайты с cookies">
-<!ENTITY div.bannedservers.label "Сайты, которые могут и не могут сохранять cookies на вашем компьютере.">
-<!ENTITY div.cookiesonsystem.label "Просмотр и удаление cookies, хранящихся на вашем компьютере.">
-<!ENTITY treehead.cookiename.label "Имя cookie">
+<!ENTITY tab.cookiesonsystem.label "Сохранённые куки">
+<!ENTITY tab.bannedservers.label "Сайты с куками">
+<!ENTITY div.bannedservers.label "Сайты, которые могут и не могут сохранять куки на вашем компьютере.">
+<!ENTITY div.cookiesonsystem.label "Просмотр и удаление кук, хранящихся на вашем компьютере.">
+<!ENTITY treehead.cookiename.label "Имя куки">
 <!ENTITY treehead.cookiedomain.label "Сайт">
 <!ENTITY treehead.cookieexpires.label "Срок действия">
-<!ENTITY treehead.infoselected.label "Информация о выбранном cookie">
-<!ENTITY button.removecookie.label "Удалить cookie">
+<!ENTITY treehead.infoselected.label "Информация о выбранном куке">
+<!ENTITY button.removecookie.label "Удалить куку">
 <!ENTITY button.removecookie.accesskey "д">
-<!ENTITY button.removeallcookies.label "Удалить все cookies">
+<!ENTITY button.removeallcookies.label "Удалить все куки">
 <!ENTITY button.removeallcookies.accesskey "с">
 <!ENTITY props.name.label "Имя:">
 <!ENTITY props.value.label "Информация:">
@@ -18,7 +18,7 @@
 <!ENTITY props.expires.label "Срок действия:">
 <!ENTITY treehead.sitename.label "Сайт">
 <!ENTITY treehead.status.label "Статус">
-<!ENTITY windowtitle.label "Менеджер cookies">
+<!ENTITY windowtitle.label "Менеджер кук">
 <!ENTITY buttonaccept.label "Закрыть">
 <!ENTITY buttonaccept.accesskey "к">
 <!ENTITY blockSite.label "Блокировать">
@@ -31,7 +31,7 @@
 <!ENTITY removepermission.accesskey "а">
 <!ENTITY removeallpermissions.label "Удалить все сайты">
 <!ENTITY removeallpermissions.accesskey "с">
-<!ENTITY canSet.label "может сохранять cookies">
-<!ENTITY cannotSet.label "не может сохранять cookies">
-<!ENTITY futureCookies.label "Не принимать удалённые cookies снова">
+<!ENTITY canSet.label "может сохранять куки">
+<!ENTITY cannotSet.label "не может сохранять куки">
+<!ENTITY futureCookies.label "Не принимать удалённые куки снова">
 <!ENTITY futureCookies.accesskey "р">

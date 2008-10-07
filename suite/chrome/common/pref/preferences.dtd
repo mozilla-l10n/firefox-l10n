@@ -16,7 +16,7 @@
 <!ENTITY publish.label "Публикация">
 <!ENTITY offline.label "Автономная работа">
 <!ENTITY security.label "Приватность и защита">
-<!ENTITY cookies.label "Cookies">
+<!ENTITY cookies.label "Куки">
 <!ENTITY images.label "Изображения">
 <!ENTITY popups.label "Всплывающие окна">
 <!ENTITY passwords.label "Пароли">
