@@ -4,9 +4,9 @@
 <!ENTITY  authorName.accesskey      "u">
 <!ENTITY  pageColorHeader           "Standert side-presintaasje">
 
-<!ENTITY defaultColorsRadio.label   "Standertkleuren lêzer (kleuren net fêstlizze)">
+<!ENTITY defaultColors.label	   "Standertkleuren lêzer (kleuren net fêstlizze)">
 <!ENTITY defaultColors.accesskey    "S">
-<!ENTITY customColorsRadio.label    "Brûk oanpaste kleuren:">
+<!ENTITY customColors.label		    "Brûk oanpaste kleuren:">
 <!ENTITY customColors.accesskey     "B">
 
 <!ENTITY normalText.label           "Normale tekst">
