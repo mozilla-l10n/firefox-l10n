@@ -152,7 +152,7 @@
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "כותרת:" >
 <!ENTITY event.title.textbox.accesskey                    "כ">
-<!ENTITY event.location.label                             "מיקום >
+<!ENTITY event.location.label                             "מיקום" >
 <!ENTITY event.location.accesskey                         "מ">
 <!ENTITY event.categories.label                           "קטגוריה:">
 <!ENTITY event.categories.accesskey                       "ק">
@@ -236,7 +236,7 @@
 <!ENTITY repeat.units.weeks.both                        "שבועות" >
 <!ENTITY event.recurrence.on.label                      "On:" >
 
-<!ENTITY event.recurrene.pattern.monthly.every.label   "כל" >
+<!ENTITY event.recurrence.pattern.monthly.every.label   "כל" >
 <!ENTITY repeat.units.months.both                       "חודשים" >
 <!ENTITY event.recurrence.the.label                     "" >
 <!ENTITY event.recurrence.repeat.first.label            "הראשון">
