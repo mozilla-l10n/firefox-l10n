@@ -42,7 +42,7 @@
 <!ENTITY renameFolder.accesskey "и">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Сжать папки">
-<!ENTITY compactFolder.accesskey "ж">
+<!ENTITY compactFolders.accesskey "ж">
 <!ENTITY emptyTrashCmd.label "Очистить «Удалённые»">
 <!ENTITY emptyTrashCmd.accesskey "ч">
 <!ENTITY importCmd.label "Импорт…">
@@ -216,22 +216,23 @@
 <!ENTITY bodyAsPlaintext.accesskey "т">
 <!ENTITY viewAttachmentsInlineCmd.label "Показывать вложения в теле сообщения">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "П">
-<!ENTITY reloadCmd.label "Обновить">
-<!ENTITY reloadCmd.accesskey "О">
-<!ENTITY stopCmd.label "Остановить">
-<!ENTITY stopCmd.accesskey "с">
-<!ENTITY textZoomEnlargeCmd.label "Увеличить">
-<!ENTITY textZoomEnlargeCmd.accesskey "в">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
-<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY textZoomReduceCmd.label "Уменьшить">
-<!ENTITY textZoomReduceCmd.accesskey "м">
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomResetCmd.commandkey "0">
-<!ENTITY textZoomResetCmd.label "Обычный">
-<!ENTITY textZoomResetCmd.accesskey "О">
-<!ENTITY textSize.label "Размер шрифта">
-<!ENTITY textSize.accesskey "Р">
+<!ENTITY fullZoomEnlargeCmd.label "Увеличить">
+<!ENTITY fullZoomEnlargeCmd.accesskey "в">
+<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomReduceCmd.label "Уменьшить">
+<!ENTITY fullZoomReduceCmd.accesskey "м">
+<!ENTITY fullZoomReduceCmd.commandkey "-">
+<!ENTITY fullZoomReduceCmd.commandkey2 "">
+<!ENTITY fullZoomResetCmd.label "Сбросить">
+<!ENTITY fullZoomResetCmd.accesskey "б">
+<!ENTITY fullZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomResetCmd.commandkey2 "">
+<!ENTITY fullZoomToggleCmd.label "Только текст">
+<!ENTITY fullZoomToggleCmd.accesskey "т">
+<!ENTITY fullZoom.label "Масштаб">
+<!ENTITY fullZoom.accesskey "ш">
 <!ENTITY pageSourceCmd.label "Исходный текст">
 <!ENTITY pageSourceCmd.accesskey "х">
 <!ENTITY pageSourceCmd.key "u">
@@ -266,8 +267,8 @@
 <!ENTITY nextStarredMsgCmd.label "отмеченное звёздочкой сообщение">
 <!ENTITY nextStarredMsgCmd.accesskey "з">
 <!ENTITY nextUnreadThread.label "непрочитанное обсуждение">
-<!ENTITY nextUnreadThreadCmd.accesskey "о">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "о">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Предыдущее…">
 <!ENTITY prevMenu.accesskey "П">
 <!ENTITY prevMsgCmd.label "сообщение">

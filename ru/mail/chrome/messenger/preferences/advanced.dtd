@@ -13,8 +13,6 @@
 <!ENTITY secondsLabel.label "сек.">
 <!ENTITY showFolderColumns.label "Показывать дополнительные колонки в окне дерева папок">
 <!ENTITY showFolderColumns.accesskey "к">
-<!ENTITY rememberLastMsg.label "Запоминать последнее выбранное сообщение">
-<!ENTITY rememberLastMsg.accesskey "п">
 <!ENTITY openMsgIn.label "Открывать новые сообщения в:">
 <!ENTITY reuseExpRadio0.label "новом окне">
 <!ENTITY reuseExpRadio0.accesskey "о">
@@ -22,9 +20,6 @@
 <!ENTITY reuseExpRadio1.accesskey "с">
 <!ENTITY reuseExpRadio2.label "новой вкладке">
 <!ENTITY reuseExpRadio2.accesskey "к">
-<!ENTITY connectionTimeout.label "Время ожидания соединения:">
-<!ENTITY connectionTimeout.accesskey "ж">
-<!ENTITY connectionSeconds.label "сек.">
 <!ENTITY configEditDesc.label "Дополнительные настройки">
 <!ENTITY configEdit.label "Редактор настроек…">
 <!ENTITY configEdit.accesskey "д">
@@ -46,9 +41,9 @@
 <!ENTITY modeAutoAddonWarn.accesskey "е">
 <!ENTITY showUpdates.label "Показать журнал обновлений">
 <!ENTITY showUpdates.accesskey "ж">
-<!ENTITY showConnections.label "Соединение…">
-<!ENTITY showConnections.accesskey "д">
-<!ENTITY proxiesInfo.label "Настройка параметров соединения &brandShortName; с Интернет">
+<!ENTITY showSettings.label "Настроить…">
+<!ENTITY showSettings.accesskey "с">
+<!ENTITY proxiesConfigure.label "Настройте параметры соединения &brandShortName; с Интернет">
 <!ENTITY connectionsInfo.caption "Соединение">
 <!ENTITY offlineInfo.caption "Автономная работа">
 <!ENTITY offlineInfo.label "Настройка параметров автономной работы">
@@ -58,6 +53,11 @@
 <!ENTITY offlineCompact.label "Сжимать папки, если при этом высвободится более">
 <!ENTITY offlineCompact.accesskey "м">
 <!ENTITY kb.label "КБ">
+<!ENTITY useCacheBefore.label "Использовать до">
+<!ENTITY useCacheBefore.accesskey "И">
+<!ENTITY useCacheAfter.label "МБ на диске для кэша">
+<!ENTITY clearCacheNow.label "Очистить сейчас">
+<!ENTITY clearCacheNow.accesskey "ч">
 <!ENTITY certificatesInfo2.label "Управление сертификатами, списками отзыва сертификатов, настройками OCSP и устройствами защиты.">
 <!ENTITY viewCertificates.label "Просмотр сертификатов">
 <!ENTITY viewCertificates.accesskey "ф">

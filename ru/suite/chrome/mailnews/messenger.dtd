@@ -41,7 +41,7 @@
 <!ENTITY renameFolder.label "Переименовать папку…">
 <!ENTITY renameFolder.accesskey "и">
 <!ENTITY compactFolders.label "Сжать папки">
-<!ENTITY compactFolder.accesskey "ж">
+<!ENTITY compactFolders.accesskey "ж">
 <!ENTITY emptyTrashCmd.label "Очистить «Удалённые»">
 <!ENTITY emptyTrashCmd.accesskey "ч">
 <!ENTITY offlineMenu.label "Автономная работа">
@@ -248,8 +248,8 @@
 <!ENTITY nextFlaggedMsgCmd.accesskey "ф">
 <!ENTITY nextUnflaggedMsgCmd.label "Не отмеченное флагом сообщение">
 <!ENTITY nextUnreadThread.label "непрочитанное обсуждение">
-<!ENTITY nextUnreadThreadCmd.accesskey "о">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "о">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Предыдущее…">
 <!ENTITY prevMenu.accesskey "П">
 <!ENTITY prevMsgCmd.label "сообщение">
@@ -263,7 +263,7 @@
 <!ENTITY goForwardCmd.label "Вперёд">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Отмеченное флагом сообщение">
-<!ENTITY previousFlaggedMsgCmd.accesskey "ф">
+<!ENTITY prevFlaggedMsgCmd.accesskey "ф">
 <!ENTITY backCmd.label ".Назад">
 <!ENTITY backCmd.accesskey "Н">
 <!ENTITY forwardCmd.label ".Вперёд">

@@ -64,6 +64,7 @@
 <!ENTITY pasteCmd.label "Вставить">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "с">
+<!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY editRewrapCmd.label "Переформатировать">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "е">

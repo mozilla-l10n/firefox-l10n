@@ -50,11 +50,13 @@
 <!ENTITY button.value "Кнопка">
 <!ENTITY InputSettings.label "Параметры поля">
 <!ENTITY InputName.label "Имя поля:">
+<!ENTITY InputName.accesskey "п">
 <!ENTITY GroupName.label "Имя группы:">
-<!ENTITY Name.accesskey "я">
+<!ENTITY GroupName.accesskey "г">
 <!ENTITY InputValue.label "Значение поля:">
+<!ENTITY InputValue.accesskey "н">
 <!ENTITY InitialValue.label "Первоначальное значение:">
-<!ENTITY Value.accesskey "н">
+<!ENTITY InitialValue.accesskey "в">
 <!ENTITY InputChecked.label "Отмечено первоначально">
 <!ENTITY InputChecked.accesskey "О">
 <!ENTITY InputSelected.label "Выбрано первоначально">
