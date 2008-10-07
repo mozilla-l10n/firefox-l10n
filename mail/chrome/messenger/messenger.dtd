@@ -38,8 +38,8 @@
 <!ENTITY sendUnsentCmd.accesskey "e">
 <!ENTITY subscribeCmd.label "Subscrever...">
 <!ENTITY subscribeCmd.accesskey "b">
-<!ENTITY deleteFolder.label "Delete Folder">
-<!ENTITY deleteFolder.accesskey "e">
+<!ENTITY deleteFolder.label "Eliminar pasta">
+<!ENTITY deleteFolder.accesskey "E">
 <!ENTITY renameFolder.label "Renomear pasta...">
 <!ENTITY renameFolder.accesskey "M">
 <!ENTITY renameFolder.key "VK_F2">
@@ -226,22 +226,33 @@
 <!ENTITY bodyAsPlaintext.accesskey "S">
 <!ENTITY viewAttachmentsInlineCmd.label "Mostrar anexos na mensagem">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "A">
-<!ENTITY reloadCmd.label "Recarregar">
-<!ENTITY reloadCmd.accesskey "R">
-<!ENTITY stopCmd.label "Parar">
-<!ENTITY stopCmd.accesskey "P">
-<!ENTITY textZoomEnlargeCmd.label "Aumentar">
-<!ENTITY textZoomEnlargeCmd.accesskey "A">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
-<!ENTITY textZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY textZoomReduceCmd.label "Diminuir">
-<!ENTITY textZoomReduceCmd.accesskey "D">
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomResetCmd.commandkey "0">
-<!ENTITY textZoomResetCmd.label "Normal">
-<!ENTITY textZoomResetCmd.accesskey "N">
-<!ENTITY textSize.label "Tamanho do texto">
-<!ENTITY textSize.accesskey "x">
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY fullZoomEnlargeCmd.label       "Aumentar">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "A">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY fullZoomReduceCmd.label        "Diminuir">
+<!ENTITY fullZoomReduceCmd.accesskey    "O">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
+<!ENTITY fullZoomResetCmd.label         "Reiniciar">
+<!ENTITY fullZoomResetCmd.accesskey     "R">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY fullZoomToggleCmd.label        "Aumentar apenas texto">
+<!ENTITY fullZoomToggleCmd.accesskey    "t">
+<!ENTITY fullZoom.label                 "Zoom">
+<!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY pageSourceCmd.label "Código-fonte">
 <!ENTITY pageSourceCmd.accesskey "f">
@@ -425,9 +436,9 @@
 <!ENTITY filtersApply.label "Correr os filtros na Pasta">
 <!ENTITY filtersApply.accesskey "C">
 <!ENTITY filtersApplyToSelection.label "Correr filtros nas mensagens seleccionadas">
-<!ENTITY filtersApplyToSelection.accesskey "S">
+<!ENTITY filtersApplyToSelection.accesskey "s">
 <!ENTITY filtersApplyToMessage.label "Correr filtros na mensagem">
-<!ENTITY filtersApplyToMessage.accesskey "s">
+<!ENTITY filtersApplyToMessage.accesskey "r">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Obter correio">
@@ -441,7 +452,7 @@
 <!ENTITY backButton1.label "Anterior">
 <!ENTITY goForwardButton1.label "Seguinte">
 <!ENTITY deleteButton.label "Eliminar">
-<!ENTITY undeleteButton.label "Undelete">
+<!ENTITY undeleteButton.label "Não eliminar">
 <!ENTITY markButton.label "Marcar">
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY stopButton.label "Parar">
@@ -473,7 +484,7 @@
 <!ENTITY goForwardButton.tooltip "Avançar uma mensagem">
 <!ENTITY goBackButton.tooltip "Recuar uma mensagem">
 <!ENTITY deleteButton.tooltip "Apagar mensagem ou pasta seleccionada">
-<!ENTITY undeleteButton.tooltip "Undelete selected message">
+<!ENTITY undeleteButton.tooltip "Não apagar a mensagem seleccionada">
 <!ENTITY markButton.tooltip "Marcar mensagens">
 <!ENTITY printButton.tooltip "Imprimir esta mensagem">
 <!ENTITY stopButton.tooltip "Parar a transferência actual">
@@ -526,12 +537,12 @@
 <!ENTITY folderContextProperties.accesskey "O">
 <!ENTITY folderContextFavoriteFolder.label "Pasta de Marcadores">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
-<!ENTITY folderContextSettings.label "Settings…">
+<!ENTITY folderContextSettings.label "Definições…">
 <!ENTITY folderContextSettings.accesskey "e">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label "Localizar nome ou endereço de correio:">
-<!ENTITY SearchNameOrEmail.accesskey "Z">
+<!ENTITY SearchNameOrEmail.label "Nome ou endereço de correio contém:">
+<!ENTITY SearchNameOrEmail.accesskey "ç">
 <!ENTITY clearButton.label "Limpar">
 <!ENTITY clearButton.accesskey "L">
 
@@ -540,7 +551,7 @@
 <!ENTITY searchFromMenu.label "De">
 <!ENTITY searchSubjectOrFromMenu.label "Assunto ou Remetente">
 <!ENTITY searchRecipient.label "Para ou Cc">
-<!ENTITY searchSubjectOrRecipientMenu.label "Subject, To or Cc">
+<!ENTITY searchSubjectOrRecipientMenu.label "Assunto, Para ou Cc">
 <!ENTITY searchMessageBody.label "Mensagem Inteira">
 <!ENTITY saveAsVirtualFolderMenu.label "Guardar Pesquisa como pasta...">
 
@@ -627,12 +638,12 @@
 
 <!-- Remote Content Bar -->
 <!ENTITY remoteContentMessage1.label "Para proteger a sua privacidade, o &brandShortName; bloqueou imagens remotas nesta mensagem.">
-<!ENTITY loadRemoteContentButton2.label "Display Images Now">
+<!ENTITY loadRemoteContentButton2.label "Mostrar imagens agora">
 
 <!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "This message may be a scam.">
+<!ENTITY phishingBarMessage2.label "Esta mensagem pode ser um engôdo.">
 <!ENTITY removePhishingBarButton1.label "Ignorar Aviso">
-<!ENTITY reportPhishingError1.label "This message doesn't appear to be a scam.">
+<!ENTITY reportPhishingError1.label "Esta mensagem não parece ser engôdo.">
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
@@ -640,11 +651,11 @@
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Adicionar ao Livro de Endereços...">
 <!ENTITY AddToAddressBook.accesskey "C">
-<!ENTITY AddDirectlyToAddressBook.label "Add to Address Book">
-<!ENTITY AddDirectlyToAddressBook.accesskey "B">
-<!ENTITY EditContact.label "Edit Contact…">
+<!ENTITY AddDirectlyToAddressBook.label "Adicionar ao livro de endereços">
+<!ENTITY AddDirectlyToAddressBook.accesskey "v">
+<!ENTITY EditContact.label "Edita contacto…">
 <!ENTITY EditContact.accesskey "E">
-<!ENTITY ViewContact.label "View Contact">
+<!ENTITY ViewContact.label "Ver contacto">
 <!ENTITY ViewContact.accesskey "V">
 <!ENTITY SendMailTo.label "Nova mensagem para">
 <!ENTITY SendMailTo.accesskey "n">
@@ -658,10 +669,10 @@
 <!ENTITY reportPhishingURL.accesskey "d">
 
 <!-- Content Pane Context Menu -->
-<!ENTITY saveLinkAsCmd.label "Save Link As…">
-<!ENTITY saveLinkAsCmd.accesskey "k">
-<!ENTITY saveImageAsCmd.label "Save Image As…">
-<!ENTITY saveImageAsCmd.accesskey "v">
+<!ENTITY saveLinkAsCmd.label "Guardar ligação como…">
+<!ENTITY saveLinkAsCmd.accesskey "G">
+<!ENTITY saveImageAsCmd.label "Guardar imagem como…">
+<!ENTITY saveImageAsCmd.accesskey "u">
 <!ENTITY copyCmd.label "Copiar">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "Seleccionar Tudo">
