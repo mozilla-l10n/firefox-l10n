@@ -1,7 +1,7 @@
 <!ENTITY bookmarks.name.label "Nombre:">
 <!ENTITY bookmarks.name.accesskey "N">
 <!ENTITY bookmarks.location.label "Ubicación:">
-<!ENTITY bookmarks.location.accesskey "b">
+<!ENTITY bookmarks.location.accesskey "L">
 <!ENTITY bookmarks.keyword.label "Palabra clave:">
 <!ENTITY bookmarks.keyword.accesskey "l">
 <!ENTITY bookmarks.description.label "Descripción:">
