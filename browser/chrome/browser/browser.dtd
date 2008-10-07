@@ -239,7 +239,7 @@
 <!ENTITY fullZoomResetCmd.accesskey "б">
 <!ENTITY fullZoomResetCmd.commandkey "0">
 <!ENTITY fullZoomResetCmd.commandkey2 "">
-<!ENTITY fullZoomToggleCmd.label "Только текст ">
+<!ENTITY fullZoomToggleCmd.label "Только текст">
 <!ENTITY fullZoomToggleCmd.accesskey "т">
 <!ENTITY fullZoom.label "Масштаб">
 <!ENTITY fullZoom.accesskey "ш">

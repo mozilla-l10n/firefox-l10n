@@ -79,8 +79,7 @@
 <!ENTITY cellSelectPrevious.accessKey "П">
 <!ENTITY cellApplyBeforeMove.label "Применить внесённые поправки перед изменением выделения">
 <!ENTITY cellKeepCurrentData.label "Сохранить текущие параметры">
-<!ENTITY applyBeforeChange1.label "Перед изменением выделения">
-<!ENTITY applyBeforeChange2.label "будут применены текущие поправки.">
+<!ENTITY applyBeforeChange.label "Перед изменением выделения будут применены текущие поправки.">
 <!ENTITY cellRowSpan.label "Объединение строк:">
 <!ENTITY cellColSpan.label "Объединение столбцов:">
 <!ENTITY cellContentAlignment.label "Выравнивание содержимого">

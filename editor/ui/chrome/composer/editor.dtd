@@ -35,18 +35,18 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY editorWindow.titlemodifier "Composer">
+<!ENTITY editorWindow.titlemodifier "Композер">
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 <!ENTITY viewMenu.label "Вид">
-<!ENTITY viewmenu.accesskey "В">
+<!ENTITY viewMenu.accesskey "и">
 <!ENTITY compositionToolbarCmd.label "Панель компоновки">
-<!ENTITY compositiontb.accesskey "П">
+<!ENTITY compositionToolbarCmd.accesskey "к">
 <!ENTITY formattingToolbarCmd.label "Панель форматирования">
-<!ENTITY formattingtb.accesskey "ф">
+<!ENTITY formattingToolbarCmd.accesskey "ф">
 <!ENTITY editmodeToolbarCmd.label "Панель режимов редактирования">
-<!ENTITY editmodetb.accesskey "р">
+<!ENTITY editmodeToolbarCmd.accesskey "р">
 <!ENTITY formatMenu.label "Формат">
-<!ENTITY formatmenu.accesskey "Ф">
+<!ENTITY formatMenu.accesskey "м">
 <!ENTITY helpMenu.label "Справка">
 <!ENTITY aboutCmd.label ".О программе">
 <!ENTITY editMode.label "Режим редактирования:">
