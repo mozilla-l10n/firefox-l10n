@@ -3,9 +3,9 @@
 <!ENTITY authorName.label "Autor:">
 <!ENTITY authorName.accesskey "u">
 <!ENTITY pageColorHeader "Výchozí vzhled stránky">
-<!ENTITY defaultColorsRadio.label "Neurčovat barvy (nenastavovat barvy na stránce)">
+<!ENTITY defaultColors.label "Neurčovat barvy (nenastavovat barvy na stránce)">
 <!ENTITY defaultColors.accesskey "n">
-<!ENTITY customColorsRadio.label "Použít vlastní barvy:">
+<!ENTITY customColors.label "Použít vlastní barvy:">
 <!ENTITY customColors.accesskey "p">
 <!ENTITY normalText.label "Běžný text">
 <!ENTITY normalText.accesskey "n">
