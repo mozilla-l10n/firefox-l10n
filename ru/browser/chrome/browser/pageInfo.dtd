@@ -51,7 +51,7 @@
 <!ENTITY permissionsFor "Разрешения для:">
 <!ENTITY permImage "Загружать изображения">
 <!ENTITY permPopup "Открывать всплывающие окна">
-<!ENTITY permCookie "Устанавливать Cookies">
+<!ENTITY permCookie "Устанавливать куки">
 <!ENTITY permInstall "Устанавливать расширения или темы">
 <!ENTITY securityTab "Защита">
 <!ENTITY securityTab.accesskey "щ">
@@ -65,9 +65,9 @@
 <!ENTITY securityView.identity.verifier "Подтверждено:">
 <!ENTITY securityView.privacy.header "Приватность и История">
 <!ENTITY securityView.privacy.history "Посещал ли я этот веб-сайт ранее?">
-<!ENTITY securityView.privacy.cookies "Хранит ли этот сайт информацию (cookies) на моём компьютере?">
-<!ENTITY securityView.privacy.viewCookies "Просмотреть Cookies">
-<!ENTITY securityView.privacy.viewCookies.accessKey "k">
+<!ENTITY securityView.privacy.cookies "Хранит ли этот сайт информацию (куки) на моём компьютере?">
+<!ENTITY securityView.privacy.viewCookies "Просмотреть куки">
+<!ENTITY securityView.privacy.viewCookies.accessKey "с">
 <!ENTITY securityView.privacy.passwords "Сохранял ли я для этого веб-сайта какие-либо пароли?">
 <!ENTITY securityView.privacy.viewPasswords "Просмотреть сохранённые пароли">
 <!ENTITY securityView.privacy.viewPasswords.accessKey "с">
