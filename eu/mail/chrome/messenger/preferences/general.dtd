@@ -32,11 +32,11 @@
 <!ENTITY soundNotification1.caption "Sound">
 <!ENTITY play.label "Play">
 <!ENTITY play.accesskey "P">
-<!ENTITY systemsound.label "new mail">
-<!ENTITY systemsoundMac.label "System Alert Sound">
-<!ENTITY systemsoundMac.accesskey "y">
-<!ENTITY systemsound.accesskey "y">
-<!ENTITY customsound.label "Use the following sound file">
+<!ENTITY systemsound.label "SLehentsitako sistema soinua posta berriarentzat">
+<!ENTITY systemsoundMac.label "Sistema alerta soinua">
+<!ENTITY systemsoundMac.accesskey "i">
+<!ENTITY systemsound.accesskey "i">
+<!ENTITY customsound.label "Hurrengo soinu fitxategia erabili">
 <!ENTITY customsound.accesskey "U">
 <!ENTITY browse.label "Browse...">
 <!ENTITY browse.accesskey "B">

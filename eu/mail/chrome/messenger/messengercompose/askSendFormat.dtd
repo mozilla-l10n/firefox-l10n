@@ -7,10 +7,10 @@
 
 <!ENTITY plainTextAndHtml.label "Bidali Testu Arrunt eta HTML gisa">
 <!ENTITY plainTextAndHtml.accesskey "a">
-<!ENTITY plainTextOnly.label "Bidali Testu Arrunt gisa Soilik">
-<!ENTITY plainTextOnly.accesskey "P">
+<!ENTITY plainTextOnly.label "Bidali Ttstu arrunt gisa soilik">
+<!ENTITY plainTextOnly.accesskey "T">
 <!ENTITY htmlOnly.label "Bidali HTML gisa Soilik">
 <!ENTITY htmlOnly.accesskey "H">
 
 <!ENTITY send.label "Bidali">
-<!ENTITY send.accesskey "S">
+<!ENTITY send.accesskey "L">
