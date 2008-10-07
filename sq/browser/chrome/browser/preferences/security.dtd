@@ -9,7 +9,7 @@
 -->
 <!ENTITY  tellMaybeAttackSite2.label     "Blloko &quot;site&quot;-e të raportuar për sulme">
 <!ENTITY  tellMaybeAttackSite.accesskey "l">
-<!ENTITY  tellMaybeForgery.label     "Blloko sajesa web të raportuara">
+<!ENTITY  tellMaybeForgery2.label     "Blloko sajesa web të raportuara">
 <!ENTITY  tellMaybeForgery.accesskey "b">
 
 <!ENTITY  addonExceptions.label         "Përjashtime...">
