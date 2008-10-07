@@ -229,22 +229,33 @@
 <!ENTITY bodyAsPlaintext.accesskey "Z">
 <!ENTITY viewAttachmentsInlineCmd.label "Pokaż załączniki w treści wiadomości">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "c">
-<!ENTITY reloadCmd.label "Odśwież">
-<!ENTITY reloadCmd.accesskey "O">
-<!ENTITY stopCmd.label "Zatrzymaj">
-<!ENTITY stopCmd.accesskey "Z">
-<!ENTITY textZoomEnlargeCmd.label "Zwiększ">
-<!ENTITY textZoomEnlargeCmd.accesskey "W">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
-<!ENTITY textZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY textZoomReduceCmd.label "Zmniejsz">
-<!ENTITY textZoomReduceCmd.accesskey "M">
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomResetCmd.commandkey "0">
-<!ENTITY textZoomResetCmd.label     "Normalny">
-<!ENTITY textZoomResetCmd.accesskey "N"> 
-<!ENTITY textSize.label             "Rozmiar tekstu">
-<!ENTITY textSize.accesskey         "z">
+
+<!-- LOCALIZATION NOTE : fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and fullZoomResetCmd.commandkey2
+  are alternative acceleration keys for zoom.
+
+  If shift key is needed with your locale popular keyboard for them, you can use these alternative items.
+  Otherwise, their values should be empty. -->
+
+<!ENTITY fullZoomEnlargeCmd.label       "Powiększ">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "w">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="><!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY fullZoomReduceCmd.label        "Pomniejsz">
+<!ENTITY fullZoomReduceCmd.accesskey    "m">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
+<!ENTITY fullZoomResetCmd.label         "Rozmiar pierwotny">
+<!ENTITY fullZoomResetCmd.accesskey     "R">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY fullZoomToggleCmd.label        "Powiększaj tylko tekst">
+<!ENTITY fullZoomToggleCmd.accesskey    "k">
+<!ENTITY fullZoom.label                 "Powiększenie">
+<!ENTITY fullZoom.accesskey             "w">
 
 <!ENTITY pageSourceCmd.label "Źródło wiadomości">
 <!ENTITY pageSourceCmd.accesskey "d">
