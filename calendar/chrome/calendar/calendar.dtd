@@ -45,13 +45,8 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- General -->
-<!ENTITY calendar.file.default.name  "Mano kalendorius" >
 <!ENTITY calendar.calendar.label     "Kalendorius">
 <!ENTITY calendar.calendar.accesskey "K">
-
-<!ENTITY calendar.confirm.deleteallevents  "Ar tikrai norite pašalinti visus pažymėtus įvykius?" >
-<!ENTITY calendar.confirm.deleteevent "Ar tikrai norite pašalinti įvykį: " >
-<!ENTITY calendar.confirm.deleteuntitledevent "Ar tikrai norite pašalinti šį neįvardytą įvykį?" >
 
 <!ENTITY calendar.flat.topbar.choosedate       "Eiti į datą…" >
 <!ENTITY calendar.flat.topbar.dayview          "Diena" >
