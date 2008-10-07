@@ -226,22 +226,33 @@
 <!ENTITY bodyAsPlaintext.accesskey "P">
 <!ENTITY viewAttachmentsInlineCmd.label "Zobrazit vloženou přílohu">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "l">
-<!ENTITY reloadCmd.label "Znovu načíst">
-<!ENTITY reloadCmd.accesskey "o">
-<!ENTITY stopCmd.label "Zastavit">
-<!ENTITY stopCmd.accesskey "s">
-<!ENTITY textZoomEnlargeCmd.label "Zvětšit">
-<!ENTITY textZoomEnlargeCmd.accesskey "v">
-<!ENTITY textZoomEnlargeCmd.commandkey "+"><!-- + is above this key on many keyboards -->
-<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY textZoomReduceCmd.label "Zmenšit">
-<!ENTITY textZoomReduceCmd.accesskey "m">
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomResetCmd.commandkey "0">
-<!ENTITY textZoomResetCmd.label "Normální">
-<!ENTITY textZoomResetCmd.accesskey "N">
-<!ENTITY textSize.label "Velikost textu">
-<!ENTITY textSize.accesskey "V">
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY fullZoomEnlargeCmd.label "Zvětšit">
+<!ENTITY fullZoomEnlargeCmd.accesskey "v">
+<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="><!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY fullZoomReduceCmd.label "Zmenšit">
+<!ENTITY fullZoomReduceCmd.accesskey "m">
+<!ENTITY fullZoomReduceCmd.commandkey "-">
+<!ENTITY fullZoomReduceCmd.commandkey2 "">
+
+<!ENTITY fullZoomResetCmd.label "Normální">
+<!ENTITY fullZoomResetCmd.accesskey "N">
+<!ENTITY fullZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomResetCmd.commandkey2 "">
+
+<!ENTITY fullZoomToggleCmd.label "Pouze velikost textu">
+<!ENTITY fullZoomToggleCmd.accesskey "t">
+<!ENTITY fullZoom.label "Velikost stránky">
+<!ENTITY fullZoom.accesskey "V">
 
 <!ENTITY pageSourceCmd.label "Zdrojový kód zprávy">
 <!ENTITY pageSourceCmd.accesskey "r">
