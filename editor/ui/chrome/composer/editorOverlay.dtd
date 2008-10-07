@@ -145,9 +145,9 @@
 
 <!-- View menu items -->
 <!ENTITY viewPageSource.label "Code source de la page">
-<!ENTITY viewpagesource.accesskey "s">
+<!ENTITY viewPageSource.accesskey "s">
 <!ENTITY viewParagraphMarks.label "Marques de paragraphe">
-<!ENTITY viewparagraphmarks.accesskey "p">
+<!ENTITY viewParagraphMarks.accesskey "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Insérer">
@@ -158,7 +158,7 @@
 <!ENTITY insertAnchorCmd.label "Ancre…">
 <!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "Image…">
-<!ENTITY insertimage.accesskey "i">
+<!ENTITY insertImageCmd.accesskey "I">
 <!ENTITY insertImageMapCmd.label "Carte d'images…">
 <!ENTITY insertHLineCmd.label "Ligne horizontale">
 <!ENTITY insertHLineCmd.accesskey "h">
@@ -251,8 +251,8 @@
 <!ENTITY increaseFontSize.key "+">
 <!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
 
-<!ENTITY fontsizeMenu.label "Taille">
-<!ENTITY fontsizeMenu.accesskey "i">
+<!ENTITY fontSizeMenu.label "Taille">
+<!ENTITY fontSizeMenu.accesskey "i">
 <!ENTITY size-xx-smallCmd.label "Très très petite">
 <!ENTITY size-xx-smallCmd.accesskey "e">
 <!ENTITY size-x-smallCmd.label "Très petite">
