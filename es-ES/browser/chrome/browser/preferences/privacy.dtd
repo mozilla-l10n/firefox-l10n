@@ -10,7 +10,7 @@
 <!ENTITY acceptCookies.label "Aceptar cookies">
 <!ENTITY acceptCookies.accesskey "c">
 <!ENTITY acceptThirdParty.label "Incluso las de terceros">
-<!ENTITY acceptThirdParty.accesskey "p">
+<!ENTITY acceptThirdParty.accesskey "r">
 <!ENTITY keepUntil.label "Mantener hasta que:">
 <!ENTITY keepUntil.accesskey "M">
 <!ENTITY expire.label "caduquen">
