@@ -4,9 +4,9 @@
 <!ENTITY  authorName.accesskey      "A">
 <!ENTITY  pageColorHeader           "Standard-Seitenerscheinung">
 
-<!ENTITY defaultColorsRadio.label   "Standardfarben des Lesers (Keine Farben in Seite setzen)">
+<!ENTITY defaultColors.label        "Standardfarben des Lesers (Keine Farben in Seite setzen)">
 <!ENTITY defaultColors.accesskey    "s">
-<!ENTITY customColorsRadio.label    "Eigene Farben verwenden:">
+<!ENTITY customColors.label         "Eigene Farben verwenden:">
 <!ENTITY customColors.accesskey     "e">
 
 <!ENTITY normalText.label           "Normaler Text">
