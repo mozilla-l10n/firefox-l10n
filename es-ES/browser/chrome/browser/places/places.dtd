@@ -50,7 +50,7 @@
 <!ENTITY cmd.edit_cut.accesskey "t">
 <!ENTITY cmd.edit_cut.key "x">
 <!ENTITY cmd.edit_copy.label "Copiar">
-<!ENTITY cmd.edit_copy.accesskey "o">
+<!ENTITY cmd.edit_copy.accesskey "C">
 <!ENTITY cmd.edit_copy.key "c">
 <!ENTITY cmd.edit_paste.label "Pegar">
 <!ENTITY cmd.edit_paste.accesskey "P">
