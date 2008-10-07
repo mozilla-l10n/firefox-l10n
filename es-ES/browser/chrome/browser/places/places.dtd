@@ -37,7 +37,7 @@
 <!ENTITY cmd.exportHTML.accesskey "E">
 <!ENTITY cmd.importHTML.label "Importar HTML…">
 <!ENTITY cmd.importHTML.accesskey "I">
-<!ENTITY cmd.backup.label "Copia…">
+<!ENTITY cmd.backup.label "Copiar…">
 <!ENTITY cmd.backup.accesskey "C">
 <!ENTITY cmd.restore2.label "Restaurar">
 <!ENTITY cmd.restore2.accesskey "R">
@@ -66,9 +66,9 @@
 <!ENTITY cmd.open.label "Abrir">
 <!ENTITY cmd.open.accesskey "A">
 <!ENTITY cmd.open_window.label "Abrir en una ventana nueva">
-<!ENTITY cmd.open_window.accesskey "N">
+<!ENTITY cmd.open_window.accesskey "b">
 <!ENTITY cmd.open_tab.label "Abrir en una pestaña nueva">
-<!ENTITY cmd.open_tab.accesskey "t">
+<!ENTITY cmd.open_tab.accesskey "v">
 <!ENTITY cmd.open_all_in_tabs.label "Abrir todo en pestañas">
 <!ENTITY cmd.open_all_in_tabs.accesskey "O">
 <!ENTITY cmd.properties.label "Propiedades">
