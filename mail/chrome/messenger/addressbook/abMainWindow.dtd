@@ -5,11 +5,11 @@
 <!ENTITY fileMenu.accesskey "f">
 <!ENTITY newMenu.label "Berria">
 <!ENTITY newMenu.accesskey "B">
-<!ENTITY newCard.label "Helbide-liburu Txartela...">
-<!ENTITY newCard.accesskey "C">
+<!ENTITY newCard.label "Helbide-liburu txartela...">
+<!ENTITY newCard.accesskey "T">
 <!ENTITY newCard.key "N">
-<!ENTITY newListCmd.label "Posta Zerrenda...">
-<!ENTITY newListCmd.accesskey "L">
+<!ENTITY newListCmd.label "Posta-zerrenda...">
+<!ENTITY newListCmd.accesskey "Z">
 <!ENTITY newAddressBookCmd.label "Helbide Liburua...">
 <!ENTITY newAddressBookCmd.accesskey "L">
 <!ENTITY newLDAPDirectoryCmd.label "LDAP Direktorioa...">

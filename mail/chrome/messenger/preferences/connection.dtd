@@ -29,9 +29,9 @@
 <!ENTITY socks5.label "SOCKS v5">
 <!ENTITY socks5.accesskey "v">
 <!ENTITY HTTPport.label "Ataka:">
-<!ENTITY HTTPport.accesskey "p">
+<!ENTITY HTTPport.accesskey "k">
 <!ENTITY SSLport.label "Ataka:">
-<!ENTITY SSLport.accesskey "o">
+<!ENTITY SSLport.accesskey "a">
 <!ENTITY SOCKSport.label "Ataka:">
 <!ENTITY SOCKSport.accesskey "t">
 <!ENTITY noproxy.label "Proxy-rik ez hauentzat:">

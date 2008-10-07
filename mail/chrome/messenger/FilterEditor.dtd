@@ -12,11 +12,11 @@
 <!ENTITY highPriorityCmd.label "Altua">
 <!ENTITY highestPriorityCmd.label "Altuena">
 
-<!ENTITY contextDesc.label "Apply filter when:">
-<!ENTITY contextDesc.accesskey "w">
-<!ENTITY contextIncoming.label "Checking Mail">
-<!ENTITY contextManual.label "Manually Run">
-<!ENTITY contextBoth.label "Checking Mail or Manually Run">
+<!ENTITY contextDesc.label "Iragazkia noiz aplikatu:">
+<!ENTITY contextDesc.accesskey "z">
+<!ENTITY contextIncoming.label "Posta arakatzean">
+<!ENTITY contextManual.label "Eskuz exekutatu">
+<!ENTITY contextBoth.label "Posta arakatzean edo eskuz exekutatzen">
 <!ENTITY filterActionDesc.label "Ekintza hau egin:">
 <!ENTITY filterActionDesc.accesskey "E">
 
@@ -37,6 +37,6 @@
 <!ENTITY deleteFromPOP.label "Ezabatu POP Zerbitzaritik">
 <!ENTITY fetchFromPOP.label "POP Zerbitzaritik Deskargatu">
 <!ENTITY ignoreThread.label "Haria alde batera utzi">
-<!ENTITY ignoreSubthread.label "Ignore Subthread">
-<!ENTITY watchThread.label "Ikusi haria">
-<!ENTITY stopExecution.label "Stop Filter Execution">
+<!ENTITY ignoreSubthread.label "Azpiaria alde batetara utzi">
+<!ENTITY watchThread.label "Ikusi aria">
+<!ENTITY stopExecution.label "Gelditu iragazki exekuzioa">

@@ -40,8 +40,8 @@
 <!ENTITY subscribeButton.accesskey "H">
 <!ENTITY unsubscribeButton.label "Harpidetza kendu">
 <!ENTITY unsubscribeButton.accesskey "H">
-<!ENTITY newGroupsTab.label "New Groups">
-<!ENTITY newGroupsTab.accesskey "N">
+<!ENTITY newGroupsTab.label "Berri-taldeak">
+<!ENTITY newGroupsTab.accesskey "B">
 <!ENTITY refreshButton.label "Freskatu">
 <!ENTITY refreshButton.accesskey "F">
 <!ENTITY stopButton.label "Gelditu">
