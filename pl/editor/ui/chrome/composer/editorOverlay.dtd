@@ -98,6 +98,7 @@
 <!ENTITY editMenu.accesskey          "E">
 <!ENTITY pasteNoFormatting.label     "Wklej bez formatowania">
 <!ENTITY pasteNoFormatting.accesskey "f">
+<!ENTITY pasteNoFormatting.key       "V">
 <!ENTITY pasteAs.label               "Wklej jako">
 <!ENTITY pasteAs.accesskey           "a">
 <!ENTITY publishSettings.label       "Ustawienia publikowanej witryny…">
@@ -193,7 +194,7 @@
 <!ENTITY insertLabelCmd.label          "Zdefiniuj etykietę">
 <!ENTITY insertLabelCmd.accesskey      "Z">
 <!ENTITY insertFieldSetCmd.label       "Zdefiniuj zestaw pól…">
-<!ENTITY insertFieldsetCmd.accesskey   "n">
+<!ENTITY insertFieldSetCmd.accesskey   "n">
 <!ENTITY insertIsIndexCmd.label        "Indeks wyszukiwania">
 <!ENTITY insertIsIndexCmd.accesskey    "w">
 
@@ -206,7 +207,7 @@
 <!ENTITY createLinkCmd.label                 "Wstaw odnośnik…">
 <!ENTITY createLinkCmd.accesskey             "W">
 <!ENTITY editLinkCmd.label                   "Edytuj odnośnik w nowym oknie Kompozytora Stron">
-<!ENTITY editlink.accesskey                  "E">
+<!ENTITY editLinkCmd.accesskey               "E">
 <!-- (Toplevel Edit menu uses utilityOverlay) -->
 <!ENTITY undoCmd.label            "Cofnij">
 <!ENTITY undoCmd.accesskey        "C">
@@ -223,7 +224,7 @@
 <!ENTITY clearCmd.label           "Wyczyść">
 <!ENTITY clearCmd.accesskey       "c">
 <!ENTITY selectAllCmd.label       "Zaznacz wszystko">
-<!ENTITY selectallCmd.accesskey   "a">
+<!ENTITY selectAllCmd.accesskey   "a">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip       "Wybierz czcionkę">
@@ -428,7 +429,7 @@
 
 <!-- Insert SubMenu -->
 <!ENTITY tableInsertMenu.label       "Wstaw">
-<!ENTITY tableInsertmenu.accesskey   "s">
+<!ENTITY tableInsertMenu.accesskey   "s">
 <!ENTITY tableTable.label            "Tabelę">
 <!ENTITY tableTable.accesskey        "T">
 <!ENTITY tableRow.label              "Wiersz">
