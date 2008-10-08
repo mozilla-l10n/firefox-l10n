@@ -80,9 +80,7 @@
 <!ENTITY cellSelectPrevious.accessKey "S">
 <!ENTITY cellApplyBeforeMove.label "Cuir athruithe i bhfeidhm roimh an rogha a athrú">
 <!ENTITY cellKeepCurrentData.label "Coimeád na socruithe reatha">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label "Cuirfear na hathruithe reatha i bhfeidhm">
-<!ENTITY applyBeforeChange2.label "roimh an rogha a athrú.">
+<!ENTITY applyBeforeChange.label "Cuirfear na hathruithe reatha i bhfeidhm roimh an rogha a athrú.">
 <!ENTITY cellRowSpan.label "Réise na Rónna:">
 <!ENTITY cellColSpan.label "Réise na gColún:">
 <!ENTITY cellContentAlignment.label "Ailíniú Inneachair">

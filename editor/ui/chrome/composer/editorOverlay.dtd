@@ -44,58 +44,57 @@
 
 
 <!ENTITY fileMenu.label "Comhad">
-<!ENTITY filemenu.accesskey "f">
+<!ENTITY fileMenu.accesskey "C">
 <!ENTITY newBlankPageCmd.label "Leathanach Cumadóra">
-<!ENTITY newBlankPage.accesskey "R">
+<!ENTITY newBlankPageCmd.accesskey "L">
 <!ENTITY newMenu.label "Nua">
 <!ENTITY openFileCmd.label "Oscail Comhad…">
-<!ENTITY fileopen.accesskey "o">
-<!ENTITY fileopen.keybinding "o">
-<!ENTITY openremoteCmd.label "Oscail Suíomh Gréasáin…">
-<!ENTITY fileopenremote.accesskey "l">
-<!ENTITY fileopenremote.keybinding "l">
+<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY openFileCmd.key "O">
+<!ENTITY openRemoteCmd.label "Oscail Suíomh Gréasáin…">
+<!ENTITY openRemoteCmd.accesskey "S">
+<!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "Leathanaigh Dheireanacha">
-<!ENTITY filerecentmenu.accesskey "r">
+<!ENTITY fileRecentMenu.accesskey "R">
 <!ENTITY fileRevert.label "Fill">
-<!ENTITY filerevert.accesskey "v">
+<!ENTITY fileRevert.accesskey "f">
 <!ENTITY saveCmd.label "Sábháil">
-<!ENTITY filesave.accesskey "s">
-<!ENTITY filesave.keybinding "s">
+<!ENTITY saveCmd.accesskey "S">
+<!ENTITY saveCmd.key "S">
 <!ENTITY saveAsCmd.label "Sábháil Mar…">
-<!ENTITY filesaveas.accesskey "W">
+<!ENTITY saveAsCmd.accesskey "A">
 
 <!ENTITY publishCmd.label "Foilsigh">
-<!ENTITY publishcmd.accesskey "b">
+<!ENTITY publishCmd.accesskey "s">
+<!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Foilsigh Mar…">
-<!ENTITY publishas.accesskey "h">
+<!ENTITY publishAsCmd.accesskey "h">
 <!ENTITY exportToTextCmd.label "Easpórtáil mar Théacs…">
-<!ENTITY fileexporttotext.accesskey "T">
+<!ENTITY exportToTextCmd.accesskey "T">
 <!ENTITY saveAsChangeEncodingCmd.label "Sábháil agus Athraigh Ionchódú na gCarachtar">
-<!ENTITY filesaveandchangeencoding.accesskey "E">
+<!ENTITY saveAsChangeEncodingCmd.accesskey "I">
 <!ENTITY previewCmd.label "Brabhsáil an Leathanach">
-<!ENTITY filepreview.accesskey "B">
+<!ENTITY previewCmd.accesskey "b">
 <!ENTITY sendPageCmd.label "Seol Leathanach…">
-<!ENTITY sendPage.accesskey "S">
+<!ENTITY sendPageCmd.accesskey "l">
 <!ENTITY printSetupCmd.label "Socrú Leathanaigh…">
-<!ENTITY fileprintsetup.accesskey "c">
+<!ENTITY printSetupCmd.accesskey "l">
 <!ENTITY printPreviewCmd.label "Réamhamharc Priontála">
-<!ENTITY fileprintpreview.accesskey "v">
-<!ENTITY printCmd.label "Priontáil…">
+<!ENTITY printPreviewCmd.accesskey "r">
 <!ENTITY printButtonCmd.label "Priontáil…">
-<!ENTITY fileprint.accesskey "p">
-<!ENTITY fileprint.keybinding "p">
+<!ENTITY printCmd.label "Priontáil…">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.key "R">
 <!ENTITY closeCmd.label "Dún">
-<!ENTITY fileclose.accesskey "D">
-<!ENTITY fileclose.keybinding "w">
-<!ENTITY exitCmd.label "Scoir">
-<!ENTITY fileexit.accesskey "q">
-<!ENTITY fileexit.keybinding "q">
+<!ENTITY closeCmd.accesskey "D">
+<!ENTITY closeCmd.key "W">
 <!-- Edit menu items -->
 
 <!ENTITY editMenu.label "Eagar">
-<!ENTITY editmenu.accesskey "l">
+<!ENTITY editMenu.accesskey "E">
 <!ENTITY pasteNoFormatting.label "Greamaigh Gan Formáidiú">
 <!ENTITY pasteNoFormatting.accesskey "g">
+<!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Greamaigh Mar">
 <!ENTITY pasteAs.accesskey "a">
 <!ENTITY publishSettings.label "Socruithe an tSuímh Fhoilsithe…">
@@ -104,98 +103,97 @@
      clipboard formats are available -->
 
 <!ENTITY pasteHTMLCmd.label "HTML">
-<!ENTITY pasteHTML.accesskey "h">
+<!ENTITY pasteHTMLCmd.accesskey "H">
 <!ENTITY pasteTextCmd.label "Téacs">
-<!ENTITY pasteText.accesskey "t">
+<!ENTITY pasteTextCmd.accesskey "T">
 <!ENTITY pasteImageCmd.label "Íomhá">
-<!ENTITY pasteImage.accesskey "m">
+<!ENTITY pasteImageCmd.accesskey "O">
 <!ENTITY pasteRowsCmd.label "Rónna">
-<!ENTITY pasteRows.accesskey "r">
+<!ENTITY pasteRowsCmd.accesskey "R">
 <!ENTITY pasteColumnsCmd.label "Colúin">
-<!ENTITY pasteColumns.accesskey "c">
+<!ENTITY pasteColumnsCmd.accesskey "C">
 <!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
      Set to: "Table" or "Nested Table" depending on context 
      This accesskey must be in both strings -->
-<!ENTITY pasteTable.accesskey "a">
+<!ENTITY pasteTableCmd.accesskey "a">
 <!ENTITY pasteLinkCmd.label "Nasc">
-<!ENTITY editpastelink.accesskey "N">
-<!ENTITY pasteAsQuotationCmd.label "Greamaigh Mar Athfhriotal">
-<!ENTITY editpastequotation.accesskey "q">
-<!ENTITY editpastequotation.keybinding "v">
+<!ENTITY pasteLinkCmd.accesskey "N">
+<!ENTITY pasteAsQuotationCmd.label "Greamaigh mar Athfhriotal">
+<!ENTITY pasteAsQuotationCmd.accesskey "A">
 <!ENTITY editStripQuotesCmd.label "Bain Comharthaí Athfhriotail">
 <!ENTITY editRewrapCmd.label "Timfhill Arís">
 <!ENTITY findCmd.label "Aimsigh agus Athchuir…">
-<!ENTITY editfind.accesskey "f">
-<!ENTITY editfind.keybinding "f">
-<!ENTITY editfind.keybinding2 "VK_F19">
-<!ENTITY findAgainCmd.label "Cuardaigh Arís">
-<!ENTITY editfindnext.accesskey "C">
-<!ENTITY editfindnext.keybinding "C">
-<!ENTITY editfindnext.keybinding2 "VK_F3">
+<!ENTITY findCmd.accesskey "A">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.key2 "VK_F19">
+<!ENTITY findAgainCmd.label "Aimsigh Arís">
+<!ENTITY findAgainCmd.accesskey "m">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Roimhe Seo">
-<!ENTITY editfindprev.accesskey "v">
-<!ENTITY editfindprev.keybinding "C">
-<!ENTITY editfindprev.keybinding2 "VK_F3">
+<!ENTITY findPrevCmd.accesskey "r">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Litriú Beo">
 <!ENTITY enableInlineSpellChecker.accesskey "L">
 <!ENTITY checkSpellingCmd.label "Seiceáil Litriú">
-<!ENTITY editcheckspelling.accesskey "h">
-<!ENTITY editcheckspelling.keybinding "k">
+<!ENTITY checkSpellingCmd.accesskey "e">
+<!ENTITY checkSpellingCmd.key "K">
 <!ENTITY validateCmd.label "Bailíochtaigh HTML">
-<!ENTITY validate.accesskey "v">
+<!ENTITY validateCmd.accesskey "B">
 <!ENTITY checkLinksCmd.label "Seiceáil Naisc">
 <!-- View menu items -->
 
 <!ENTITY viewPageSource.label "Foinse an Leathanaigh">
-<!ENTITY viewpagesource.accesskey "s">
+<!ENTITY viewPageSource.accesskey "S">
 <!ENTITY viewParagraphMarks.label "Marcanna Ailt">
-<!ENTITY viewparagraphmarks.accesskey "p">
+<!ENTITY viewParagraphMarks.accesskey "M">
 <!-- Insert menu items -->
 
 <!ENTITY insertMenu.label "Ionsáigh">
-<!ENTITY insertmenu.accesskey "i">
+<!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd.label "Nasc…">
-<!ENTITY insertlink.accesskey "N">
-<!ENTITY insertlink.keybinding "l">
-<!ENTITY insertAnchorCmd.label "Ancaire Ainmnithe…">
-<!ENTITY insertanchor.accesskey "W">
+<!ENTITY insertLinkCmd.accesskey "N">
+<!ENTITY insertLinkCmd.key "L">
+<!ENTITY insertAnchorCmd.label "Named Anchor…">
+<!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "Íomhá…">
-<!ENTITY insertimage.accesskey "m">
+<!ENTITY insertImageCmd.accesskey "O">
 <!ENTITY insertImageMapCmd.label "Mapa Íomhá…">
 <!ENTITY insertHLineCmd.label "Líne Chothrománach">
-<!ENTITY inserthline.accesskey "o">
+<!ENTITY insertHLineCmd.accesskey "c">
 <!ENTITY insertTableCmd.label "Tábla…">
-<!ENTITY inserttable.accesskey "t">
+<!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertFormMenu.label "Foirm">
-<!ENTITY insertformmenu.accesskey "F">
+<!ENTITY insertFormMenu.accesskey "F">
 <!ENTITY insertHTMLCmd.label "HTML…">
-<!ENTITY insertHTMLCmd.accesskey "h">
-<!ENTITY insertCharsCmd.label "Carachtair agus Siombailí…">
-<!ENTITY insertchars.accesskey "C">
+<!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertCharsCmd.label "Characters and Symbols…">
+<!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakCmd.label "Briseadh Líne">
-<!ENTITY insertbreak.accesskey "b">
+<!ENTITY insertBreakCmd.accesskey "B">
 <!ENTITY insertBreakAllCmd.label "Bris faoi Íomhá(nna)">
-<!ENTITY insertbreakall.accesskey "k">
+<!ENTITY insertBreakAllCmd.accesskey "s">
 <!-- Insert form menu items -->
 
-<!ENTITY insertFormCmd.label "Sainigh Foirm…">
-<!ENTITY insertform.accesskey "D">
-<!ENTITY insertInputTagCmd.label "Réimse Foirme…">
-<!ENTITY insertinputtag.accesskey "l">
-<!ENTITY insertInputImageCmd.label "Íomhá Fhoirme…">
-<!ENTITY insertinputimage.accesskey "I">
-<!ENTITY insertTextAreaCmd.label "Limistéar Téacs…">
-<!ENTITY inserttextarea.accesskey "T">
-<!ENTITY insertSelectCmd.label "Liosta Roghnúchán…">
-<!ENTITY insertselect.accesskey "S">
-<!ENTITY insertButtonCmd.label "Sainigh Cnaipe…">
-<!ENTITY insertbutton.accesskey "B">
+<!ENTITY insertFormCmd.label "Define Form…">
+<!ENTITY insertFormCmd.accesskey "D">
+<!ENTITY insertInputTagCmd.label "Form Field…">
+<!ENTITY insertInputTagCmd.accesskey "e">
+<!ENTITY insertInputImageCmd.label "Form Image…">
+<!ENTITY insertInputImageCmd.accesskey "I">
+<!ENTITY insertTextAreaCmd.label "Text Area…">
+<!ENTITY insertTextAreaCmd.accesskey "T">
+<!ENTITY insertSelectCmd.label "Selection List…">
+<!ENTITY insertSelectCmd.accesskey "S">
+<!ENTITY insertButtonCmd.label "Define Button…">
+<!ENTITY insertButtonCmd.accesskey "B">
 <!ENTITY insertLabelCmd.label "Sainigh Lipéad">
-<!ENTITY insertlabel.accesskey "L">
+<!ENTITY insertLabelCmd.accesskey "L">
 <!ENTITY insertFieldSetCmd.label "Sainigh Tacar Réimsí…">
-<!ENTITY insertfieldset.accesskey "F">
+<!ENTITY insertFieldSetCmd.accesskey "R">
 <!ENTITY insertIsIndexCmd.label "Cuardach Innéacs">
-<!ENTITY insertisindex.accesskey "L">
+<!ENTITY insertIsIndexCmd.accesskey "c">
 <!-- Used just in context popup. -->
 
 <!ENTITY spellCheckNoSuggestions.label "(Níl Aon Mholadh)">
@@ -204,99 +202,99 @@
 <!ENTITY spellCheckAddToDictionary.label "Cuir san Fhoclóir">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY createLinkCmd.label "Cruthaigh Nasc…">
-<!ENTITY createlink.accesskey "k">
+<!ENTITY createLinkCmd.accesskey "n">
 <!ENTITY editLinkCmd.label "Cuir Nasc in Eagar i gCumadóir Nua">
-<!ENTITY editlink.accesskey "i">
+<!ENTITY editLinkCmd.accesskey "i">
 <!-- (Toplevel Edit menu uses utilityOverlay) -->
 <!ENTITY undoCmd.label "Cealaigh">
-<!ENTITY undo.accesskey "u">
+<!ENTITY undoCmd.accesskey "L">
 <!ENTITY redoCmd.label "Athfheidhmigh">
-<!ENTITY redo.accesskey "r">
+<!ENTITY redoCmd.accesskey "F">
 <!ENTITY cutCmd.label "Gearr">
-<!ENTITY cut.accesskey "t">
+<!ENTITY cutCmd.accesskey "g">
 <!ENTITY copyCmd.label "Cóipeáil">
-<!ENTITY copy.accesskey "c">
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "Greamaigh">
-<!ENTITY paste.accesskey "p">
+<!ENTITY pasteCmd.accesskey "R">
 <!ENTITY deleteCmd.label "Scrios">
-<!ENTITY delete.accesskey "S">
+<!ENTITY deleteCmd.accesskey "S">
 <!ENTITY clearCmd.label "Bánaigh">
-<!ENTITY clear.accesskey "B">
+<!ENTITY clearCmd.accesskey "b">
 <!ENTITY selectAllCmd.label "Roghnaigh Uile">
-<!ENTITY selectall.accesskey "a">
+<!ENTITY selectAllCmd.accesskey "U">
 <!-- Font Face SubMenu -->
 
 <!ENTITY FontFaceSelect.tooltip "Roghnaigh cló">
 <!ENTITY fontfaceMenu.label "Cló">
-<!ENTITY formatfontmenu.accesskey "f">
+<!ENTITY fontfaceMenu.accesskey "C">
 <!ENTITY fontVarWidth.label "Il-leithead">
-<!ENTITY fontvarwidth.accesskey "v">
+<!ENTITY fontVarWidth.accesskey "I">
 <!ENTITY fontFixedWidth.label "Aonleithead">
-<!ENTITY fontfixedwidth.accesskey "L">
-<!ENTITY formatfontfixed.keybinding "t">
-<!ENTITY fontHelveticaFont.label "Helvetica, Arial">
-<!ENTITY fonthelvetica.accesskey "l">
+<!ENTITY fontFixedWidth.accesskey "n">
+<!ENTITY fontFixedWidth.key "T">
+<!ENTITY fontHelvetica.label "Helvetica, Arial">
+<!ENTITY fontHelvetica.accesskey "l">
 <!ENTITY fontTimes.label "Times">
-<!ENTITY fonttimes.accesskey "t">
+<!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
-<!ENTITY fontcourier.accesskey "c">
+<!ENTITY fontCourier.accesskey "C">
 <!ENTITY localfontfaceMenu.label "Clónna Logánta">
-<!ENTITY localfontmenu.accesskey "f">
+<!ENTITY localfontfaceMenu.accesskey "C">
 <!-- Font Size SubMenu -->
 
 <!ENTITY FontSizeSelect.tooltip "Roghnaigh clómhéid">
 <!ENTITY decreaseFontSize.label "Níos Lú">
-<!ENTITY decreasefontsize.accesskey "r">
-<!ENTITY decreaseFontSize.keybinding "-">
+<!ENTITY decreaseFontSize.accesskey "s">
+<!ENTITY decreaseFontSize.key "-">
 <!ENTITY increaseFontSize.label "Níos Mó">
-<!ENTITY increasefontsize.accesskey "C">
-<!ENTITY increaseFontSize.keybinding "+">
+<!ENTITY increaseFontSize.accesskey "m">
+<!ENTITY increaseFontSize.key "+">
 <!-- + is above this key on many keyboards -->
-<!ENTITY increaseFontSize.keybinding2 "=">
+<!ENTITY increaseFontSize.key2 "=">
 
-<!ENTITY fontsizeMenu.label "Méid">
-<!ENTITY formatsizemenu.accesskey "z">
+<!ENTITY fontSizeMenu.label "Méid">
+<!ENTITY fontSizeMenu.accesskey "d">
 <!ENTITY size-xx-smallCmd.label "fíorbheag">
-<!ENTITY size-xx-small.accesskey "f">
+<!ENTITY size-xx-smallCmd.accesskey "r">
 <!ENTITY size-x-smallCmd.label "an-bheag">
-<!ENTITY size-x-small.accesskey "a">
+<!ENTITY size-x-smallCmd.accesskey "n">
 <!ENTITY size-smallCmd.label "beag">
-<!ENTITY size-small.accesskey "b">
+<!ENTITY size-smallCmd.accesskey "b">
 <!ENTITY size-mediumCmd.label "measartha">
-<!ENTITY size-medium.accesskey "s">
+<!ENTITY size-mediumCmd.accesskey "s">
 <!ENTITY size-largeCmd.label "mór">
-<!ENTITY size-large.accesskey "m">
+<!ENTITY size-largeCmd.accesskey "m">
 <!ENTITY size-x-largeCmd.label "an-mhór">
-<!ENTITY size-x-large.accesskey "L">
+<!ENTITY size-x-largeCmd.accesskey "a">
 <!ENTITY size-xx-largeCmd.label "ollmhór">
-<!ENTITY size-xx-large.accesskey "l">
+<!ENTITY size-xx-largeCmd.accesskey "o">
 <!-- Font Style SubMenu -->
 
 <!ENTITY fontStyleMenu.label "Stíl Téacs">
-<!ENTITY formatstylemenu.accesskey "s">
+<!ENTITY fontStyleMenu.accesskey "S">
 <!ENTITY styleBoldCmd.label "Trom">
-<!ENTITY stylebold.accesskey "b">
-<!ENTITY stylebold.keybinding "b">
+<!ENTITY styleBoldCmd.accesskey "T">
+<!ENTITY styleBoldCmd.key "B">
 <!ENTITY styleItalicCmd.label "Iodálach">
-<!ENTITY styleitalic.accesskey "I">
-<!ENTITY styleitalic.keybinding "i">
+<!ENTITY styleItalicCmd.accesskey "I">
+<!ENTITY styleItalicCmd.key "I">
 <!ENTITY styleUnderlineCmd.label "Líne Faoi">
-<!ENTITY styleunderline.accesskey "u">
-<!ENTITY styleunderline.keybinding "u">
+<!ENTITY styleUnderlineCmd.accesskey "L">
+<!ENTITY styleUnderlineCmd.key "U">
 <!ENTITY styleStrikeThruCmd.label "Línte Trí">
-<!ENTITY stylestrikethru.accesskey "k">
+<!ENTITY styleStrikeThruCmd.accesskey "t">
 <!ENTITY styleSuperscriptCmd.label "Forscript">
-<!ENTITY stylesuperscript.accesskey "p">
+<!ENTITY styleSuperscriptCmd.accesskey "p">
 <!ENTITY styleSubscriptCmd.label "Foscript">
-<!ENTITY stylesubscript.accesskey "S">
+<!ENTITY styleSubscriptCmd.accesskey "S">
 <!ENTITY styleNonbreakingCmd.label "Gan Briseadh">
-<!ENTITY stylenonbreaking.accesskey "N">
+<!ENTITY styleNonbreakingCmd.accesskey "N">
 <!ENTITY styleEm.label "Béim">
-<!ENTITY styleEm.accesskey "b">
+<!ENTITY styleEm.accesskey "B">
 <!ENTITY styleStrong.label "Béim Níos Troime">
 <!ENTITY styleStrong.accesskey "t">
 <!ENTITY styleCite.label "Lua">
-<!ENTITY styleCite.accesskey "l">
+<!ENTITY styleCite.accesskey "L">
 <!ENTITY styleAbbr.label "Giorrúchán">
 <!ENTITY styleAbbr.accesskey "G">
 <!ENTITY styleAcronym.label "Acrainm">
@@ -306,67 +304,63 @@
 <!ENTITY styleSamp.label "Aschur Samplach">
 <!ENTITY styleSamp.accesskey "m">
 <!ENTITY styleVar.label "Athróg">
-<!ENTITY styleVar.accesskey "a">
+<!ENTITY styleVar.accesskey "A">
 
 <!ENTITY formatFontColor.label "Dath Téacs…">
-<!ENTITY formatfontcolor.accesskey "c">
+<!ENTITY formatFontColor.accesskey "C">
 <!ENTITY tableOrCellColor.label "Dath Cúlra an Tábla nó na Cille…">
 <!ENTITY tableOrCellColor.accesskey "B">
 
-<!ENTITY formatremovestyles.keybinding "y">
-<!ENTITY formatremovelinks.keybinding "k">
+<!ENTITY formatRemoveStyles.key "Y">
+<!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Bain Ancairí Ainmnithe">
 <!ENTITY formatRemoveNamedAnchors.accesskey "R">
-<!ENTITY formatremovenamedanchors.keybinding "a">
+<!ENTITY formatRemoveNamedAnchors.key "W">
 
-<!ENTITY formatindent.keybinding "]">
-<!ENTITY formatoutdent.keybinding "[">
 <!ENTITY paragraphMenu.label "Alt">
-<!ENTITY formatparagraphmenu.accesskey "R">
+<!ENTITY paragraphMenu.accesskey "A">
 <!ENTITY paragraphParagraphCmd.label "Alt">
-<!ENTITY paragraphparagraph.accesskey "R">
+<!ENTITY paragraphParagraphCmd.accesskey "A">
 <!ENTITY heading1Cmd.label "Ceannteideal 1">
-<!ENTITY heading1.accesskey "1">
+<!ENTITY heading1Cmd.accesskey "1">
 <!ENTITY heading2Cmd.label "Ceannteideal 2">
-<!ENTITY heading2.accesskey "2">
+<!ENTITY heading2Cmd.accesskey "2">
 <!ENTITY heading3Cmd.label "Ceannteideal 3">
-<!ENTITY heading3.accesskey "3">
+<!ENTITY heading3Cmd.accesskey "3">
 <!ENTITY heading4Cmd.label "Ceannteideal 4">
-<!ENTITY heading4.accesskey "4">
+<!ENTITY heading4Cmd.accesskey "4">
 <!ENTITY heading5Cmd.label "Ceannteideal 5">
-<!ENTITY heading5.accesskey "5">
+<!ENTITY heading5Cmd.accesskey "5">
 <!ENTITY heading6Cmd.label "Ceannteideal 6">
-<!ENTITY heading6.accesskey "6">
+<!ENTITY heading6Cmd.accesskey "6">
 <!ENTITY paragraphAddressCmd.label "Seoladh">
-<!ENTITY paragraphaddress.accesskey "a">
+<!ENTITY paragraphAddressCmd.accesskey "A">
 <!ENTITY paragraphPreformatCmd.label "Réamhfhormáidiú">
-<!ENTITY paragraphpreformat.accesskey "f">
-<!ENTITY paragraphBlockquoteCmd.label "Athfhriotal bloic">
-<!ENTITY paragraphblockquote.accesskey "b">
+<!ENTITY paragraphPreformatCmd.accesskey "f">
 <!-- List menu items -->
 
 <!ENTITY formatlistMenu.label "Liosta">
-<!ENTITY formatlistmenu.accesskey "l">
-<!ENTITY noneCmd.label "Gan sonrú">
-<!ENTITY none.accesskey "N">
+<!ENTITY formatlistMenu.accesskey "L">
+<!ENTITY noneCmd.label "None">
+<!ENTITY noneCmd.accesskey "N">
 <!ENTITY listBulletCmd.label "Le hUrchair">
-<!ENTITY listbullet.accesskey "b">
+<!ENTITY listBulletCmd.accesskey "U">
 <!ENTITY listNumberedCmd.label "Uimhrithe">
-<!ENTITY listnumbered.accesskey "m">
+<!ENTITY listNumberedCmd.accesskey "m">
 <!ENTITY listTermCmd.label "Téarma">
-<!ENTITY listterm.accesskey "t">
+<!ENTITY listTermCmd.accesskey "T">
 <!ENTITY listDefinitionCmd.label "Sainmhíniú">
-<!ENTITY listdefinition.accesskey "S">
-<!ENTITY listProps.label "Airíonna Liosta…">
-<!ENTITY listprops.accesskey "l">
+<!ENTITY listDefinitionCmd.accesskey "S">
+<!ENTITY listPropsCmd.label "List Properties…">
+<!ENTITY listPropsCmd.accesskey "L">
 
 <!ENTITY ParagraphSelect.tooltip "Roghnaigh formáid ailt">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Príomhthéacs">
-<!ENTITY bodytext.accesskey "T">
+<!ENTITY bodyTextCmd.accesskey "T">
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Ardairíonna">
-<!ENTITY advancedproperties.accesskey "v">
+<!ENTITY advancedPropertiesCmd.accesskey "r">
 
 <!ENTITY NormalAbbr.label "Téacs">
 <!ENTITY ParagraphAbbr.label "R">
@@ -379,25 +373,21 @@
 <!ENTITY BlockquoteAbbr.label "BQ">
 <!ENTITY AddressAbbr.label "Seol.">
 <!ENTITY PreformatAbbr.label "Réamh.">
-<!-- Style Sheet submenu NOT IMPLEMENTED -->
-
-<!ENTITY stylesheetMenu.label "Cuir Stílbhileog i bhFeidhm">
-<!ENTITY formatstylesheetmenu.accesskey "y">
 <!-- Align menu items -->
 
 <!ENTITY alignMenu.label "Ailínigh">
-<!ENTITY formatalignmenu.accesskey "a">
+<!ENTITY alignMenu.accesskey "A">
 <!ENTITY alignLeft.label "Ar Chlé">
-<!ENTITY alignleft.accesskey "l">
+<!ENTITY alignLeft.accesskey "C">
 <!ENTITY alignLeft.tooltip "Ailínigh Ar Chlé">
-<!ENTITY alignCenter.label "Láraithe">
-<!ENTITY aligncenter.accesskey "c">
+<!ENTITY alignCenter.label "Lár">
+<!ENTITY alignCenter.accesskey "L">
 <!ENTITY alignCenter.tooltip "Ailínigh sa lár">
 <!ENTITY alignRight.label "Ar Dheis">
-<!ENTITY alignright.accesskey "r">
+<!ENTITY alignRight.accesskey "D">
 <!ENTITY alignRight.tooltip "Ailínigh Ar Dheis">
-<!ENTITY alignJustify.label "Comhfhadaithe">
-<!ENTITY alignjustify.accesskey "C">
+<!ENTITY alignJustify.label "Comhfhadaigh">
+<!ENTITY alignJustify.accesskey "C">
 <!ENTITY alignJustify.tooltip "Ailínigh Comhfhadaithe">
 <!-- Layer toolbar items -->
 
@@ -406,86 +396,84 @@
 <!ENTITY layerBringToFront.tooltip "Tabhair chun Tosaigh">
 
 <!ENTITY increaseIndent.label "Méadaigh Eang">
-<!ENTITY increaseindent.accesskey "i">
-<!ENTITY increaseindentkb "=">
+<!ENTITY increaseIndent.accesskey "I">
+<!ENTITY increaseIndent.key "]">
 <!ENTITY decreaseIndent.label "Laghdaigh Eang">
-<!ENTITY decreaseindent.accesskey "D">
-<!ENTITY decreaseindentkb "-">
+<!ENTITY decreaseIndent.accesskey "D">
+<!ENTITY decreaseIndent.key "[">
 
 <!ENTITY grid.label "Greille suite">
 <!ENTITY grid.accesskey "t">
 
 <!ENTITY pageProperties.label "Teideal an Leathanaigh agus Airíonna…">
-<!ENTITY pageproperties.accesskey "C">
-<!ENTITY colorsAndBackground.label "Dathanna agus Cúlra an Leathanaigh…">
-<!ENTITY colorsandbackground.accesskey "u">
+<!ENTITY pageProperties.accesskey "t">
+<!ENTITY colorsAndBackground.label "Dathanna an Leathanaigh agus Cúlra…">
+<!ENTITY colorsAndBackground.accesskey "c">
 <!-- Table Menu -->
 
 <!ENTITY tableMenu.label "Tábla">
-<!ENTITY tablemenu.accesskey "b">
+<!ENTITY tableMenu.accesskey "b">
 <!-- Select Submenu -->
+
 <!ENTITY tableSelectMenu.label "Roghnaigh">
-<!ENTITY tableselectmenu.accesskey "s">
+<!ENTITY tableSelectMenu.accesskey "R">
 
 <!ENTITY tableSelectMenu2.label "Roghnú Tábla">
+<!ENTITY tableSelectMenu2.accesskey "R">
 <!ENTITY tableInsertMenu2.label "Ionsá Tábla">
+<!ENTITY tableInsertMenu2.accesskey "I">
 <!ENTITY tableDeleteMenu2.label "Scriosadh Tábla">
+<!ENTITY tableDeleteMenu2.accesskey "D">
 <!-- Insert SubMenu -->
 
 <!ENTITY tableInsertMenu.label "Ionsáigh">
-<!ENTITY tableinsertmenu.accesskey "i">
+<!ENTITY tableInsertMenu.accesskey "I">
 <!ENTITY tableTable.label "Tábla">
-<!ENTITY tabletable.accesskey "t">
+<!ENTITY tableTable.accesskey "T">
 <!ENTITY tableRow.label "Ró">
 <!ENTITY tableRows.label "Ró(nna)">
-<!ENTITY tablerow.accesskey "r">
+<!ENTITY tableRow.accesskey "R">
 <!ENTITY tableRowAbove.label "Ró Thuas">
-<!-- uses tablerow.accesskey -->
+<!ENTITY tableRowAbove.accesskey "R">
 <!ENTITY tableRowBelow.label "Ró Thíos">
-<!ENTITY tablerowbelow.accesskey "b">
+<!ENTITY tableRowBelow.accesskey "T">
 <!ENTITY tableColumn.label "Colún">
 <!ENTITY tableColumns.label "Colú(i)n">
-<!ENTITY tablecolumn.accesskey "o">
+<!ENTITY tableColumn.accesskey "o">
 <!ENTITY tableColumnBefore.label "Colún Roimhe">
-<!-- uses tablecolumn.accesskey -->
+<!ENTITY tableColumnBefore.accesskey "o">
 <!ENTITY tableColumnAfter.label "Colún ina Dhiaidh">
-<!ENTITY tablecolumnafter.accesskey "a">
+<!ENTITY tableColumnAfter.accesskey "A">
 <!ENTITY tableCell.label "Cill">
 <!ENTITY tableCells.label "Cill/Cealla">
-<!ENTITY tablecell.accesskey "c">
+<!ENTITY tableCell.accesskey "C">
 <!ENTITY tableCellContents.label "Inneachar Cille">
-<!ENTITY tablecellcontents.accesskey "n">
+<!ENTITY tableCellContents.accesskey "n">
 <!ENTITY tableAllCells.label "Gach Cill">
+<!ENTITY tableAllCells.accesskey "A">
 <!ENTITY tableCellBefore.label "Cill Roimhe">
-<!ENTITY tableallcells.accesskey "a">
-<!-- uses tablecell.accesskey -->
+<!ENTITY tableCellBefore.accesskey "C">
 <!ENTITY tableCellAfter.label "Cill ina Dhiaidh">
-<!ENTITY tablecellafter.accesskey "f">
+<!ENTITY tableCellAfter.accesskey "n">
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Scrios">
-<!ENTITY tabledeletemenu.accesskey "D">
+<!ENTITY tableDeleteMenu.accesskey "S">
 
 <!ENTITY tableFix.label "Deisigh Leagan Amach an Tábla">
-<!ENTITY tablefix.accesskey "f">
+<!ENTITY tableFix.accesskey "I">
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
 <!ENTITY tableJoinCells.label "j">
-<!ENTITY tablejoincells.accesskey "j">
+<!ENTITY tableJoinCells.accesskey "j">
 <!ENTITY tableSplitCell.label "Roinn Cill">
-<!ENTITY tablesplitcell.accesskey "c">
+<!ENTITY tableSplitCell.accesskey "C">
 <!ENTITY convertToTable.label "Cruthaigh Tábla ón Ábhar Roghnaithe">
-<!ENTITY converttotable.accesskey "r">
+<!ENTITY convertToTable.accesskey "r">
 <!ENTITY tableProperties.label "Airíonna an Tábla…">
 <!ENTITY tableProperties.accesskey "o">
-<!-- Tools menu -->
-
-<!ENTITY toolsmenu.accesskey "l">
-<!ENTITY toolbrowser.accesskey "b">
-<!ENTITY toolplaineditor.accesskey "p">
-<!ENTITY toolsetfocus.accesskey "f">
 <!-- Toolbar-only items -->
 
 <!ENTITY menuBar.tooltip "Barra Roghchláir">
