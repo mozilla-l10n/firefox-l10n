@@ -1,19 +1,19 @@
-<!ENTITY about.version                "version">
+<!ENTITY about.version                "גירסה">
 
-<!ENTITY about.copy.beforeLink        "Copyright &copy; 1998-2006 by">
-<!ENTITY about.copy.linkTitle         "contributors">
-<!ENTITY about.copy.afterLink         "to the Mozilla Project.">
+<!ENTITY about.copy.beforeLink        "כל הזכויות שמורות &copy; 1998-2008 ">
+<!ENTITY about.copy.linkTitle         "תורמים">
+<!ENTITY about.copy.afterLink         "לפרוייקט Mozilla.">
 
-<!ENTITY about.license.beforeLink     "Read the">
-<!ENTITY about.license.linkTitle      "licensing information">
-<!ENTITY about.license.afterLink      "for this product.">
+<!ENTITY about.license.beforeLink     "קרא את">
+<!ENTITY about.license.linkTitle      "מידע הרישוי">
+<!ENTITY about.license.afterLink      "למוצר זה.">
 
-<!ENTITY about.relnotes.beforeLink    "Read the">
-<!ENTITY about.relnotes.linkTitle     "release notes">
-<!ENTITY about.relnotes.afterLink     "for this version.">
+<!ENTITY about.relnotes.beforeLink    "קרא את">
+<!ENTITY about.relnotes.linkTitle     "הערות השחרור">
+<!ENTITY about.relnotes.afterLink     "לגירסה זו.">
 
-<!ENTITY about.buildconfig.beforeLink "See the">
-<!ENTITY about.buildconfig.linkTitle  "build configuration">
-<!ENTITY about.buildconfig.afterLink  "used for this version.">
+<!ENTITY about.buildconfig.beforeLink "ראה את">
+<!ENTITY about.buildconfig.linkTitle  "הגדרות הבנייה">
+<!ENTITY about.buildconfig.afterLink  "שנעשה בהן שימוש בגירסה זו.">
 
-<!ENTITY about.buildIdentifier        "Build identifier: ">
+<!ENTITY about.buildIdentifier        "מזהה בנייה: ">
