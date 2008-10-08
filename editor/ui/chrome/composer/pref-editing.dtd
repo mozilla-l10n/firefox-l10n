@@ -1,8 +1,8 @@
-<!ENTITY  pref.editing.title        "Nije-side-ynstellings">
+<!ENTITY pref.editing.title        "Nije-side-ynstellings">
 
-<!ENTITY  authorName.label          "Auteur:">
-<!ENTITY  authorName.accesskey      "u">
-<!ENTITY  pageColorHeader           "Standert side-presintaasje">
+<!ENTITY authorName.label          "Auteur:">
+<!ENTITY authorName.accesskey      "u">
+<!ENTITY pageColorHeader           "Standert side-presintaasje">
 
 <!ENTITY defaultColors.label	   "Standertkleuren lêzer (kleuren net fêstlizze)">
 <!ENTITY defaultColors.accesskey    "S">
