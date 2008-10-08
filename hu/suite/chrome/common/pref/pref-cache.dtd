@@ -1,6 +1,6 @@
-<!-- extracted from content/pref-cache.xul -->
-<!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
+﻿<!-- extracted from content/pref-cache.xul -->
 
+<!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
 <!ENTITY pref.cache.title "Gyorsítótár">
 <!ENTITY pref.cache.caption "Gyorsítótár mérete">
 <!ENTITY cachePara "A gyorsítótár a gyakran látogatott weboldalakról tart egy másolatot a lemezen. Ez csökkenti az internetkapcsolat idejét. (Az oldal legfrissebb változata a 'Frissítés' gombbal tölthető be.)">
@@ -26,4 +26,3 @@
 <!ENTITY prefetchTitle.label "Hivatkozások betöltése">
 <!ENTITY enablePrefetch.label "Előre letölti a weboldalakat a böngészés holtidejében, így az erre felkészített weboldalak hivatkozásai gyorsabban töltődnek majd be.">
 <!ENTITY enablePrefetch.accesskey "E">
-<!-- <!ENTITY prefetchDesc.label              "If you check this item, &brandShortName; will follow special directives from websites to prefetch content while the browser is idle.  Websites designed to take advantage of this feature will appear to load quicker."> -->
