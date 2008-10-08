@@ -47,7 +47,7 @@
 <!ENTITY renameFolder.accesskey "u">
 <!ENTITY renameFolder.key "VK_F2"> 
 <!ENTITY compactFolders.label "Alle Ordner des Kontos komprimieren">
-<!ENTITY compactFolder.accesskey		"k">
+<!ENTITY compactFolders.accesskey		"k">
 <!ENTITY emptyTrashCmd.label "Papierkorb leeren">
 <!ENTITY emptyTrashCmd.accesskey		"l">
 <!ENTITY importCmd.label "Importieren…">
@@ -296,8 +296,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextStarredMsgCmd.label "Gekennzeichnete Nachricht">
 <!ENTITY nextStarredMsgCmd.accesskey "k">
 <!ENTITY nextUnreadThread.label "Ungelesenes Thema">
-<!ENTITY nextUnreadThreadCmd.accesskey "T">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "T">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Vorherige">
 <!ENTITY prevMenu.accesskey "v">
 <!ENTITY prevMsgCmd.label "Nachricht">
