@@ -39,6 +39,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.clearList.tooltip            "Puhastab lõpetatud, katkestatud ja ebaõnnestunud allalaadimised nimekirjast">
 <!ENTITY cmd.clearList.accesskey          "P">
 <!ENTITY cmd.find.commandKey              "f">
+<!ENTITY cmd.search.commandKey            "k">
 
 <!ENTITY closeWhenDone.label              "Sulge, kui allalaadimised on lõppenud">
 <!ENTITY closeWhenDone.tooltip            "Sulgeb allalaadimiste akna, kui kõik failid on alla laaditud">

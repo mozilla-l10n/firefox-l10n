@@ -21,3 +21,5 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; tuleb pluginate töölehakkamiseks taaskäivitada.">
 
 <!ENTITY missingPlugin.label                                 "Plugina tõmbamiseks klõpsa siia.">
+<!ENTITY disabledPlugin.label                                "Plugin seda tüüpi sisu jaoks on keelatud. Klõpsa siia, et hallata oma pluginaid.">
+<!ENTITY blockedPlugin.label                                 "See plugin on sinu kaitseks blokeeritud.">

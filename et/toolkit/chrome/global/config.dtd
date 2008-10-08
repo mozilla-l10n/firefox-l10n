@@ -45,8 +45,6 @@
 
 <!ENTITY filterPrefs.label "Filter:">
 <!ENTITY filterPrefs.accesskey "I">
-<!ENTITY showAll.label "Näita kõiki">
-<!ENTITY showAll.accesskey "T">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Eelistuse nimi">

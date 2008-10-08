@@ -10,8 +10,10 @@
 <!ENTITY cancel.accesskey                "L">
 
 <!ENTITY noupdatesfound.title            "Uuendusi ei leitud">
-<!ENTITY noupdatesfound.intro            "Uuendusi ei ole praegu saadaval. &brandShortName; võib regulaarselt 
-                                          kontrollida uuenduste olemasolu.">
+<!ENTITY  noupdatesautoenabled.intro     "Uuendusi ei ole praegu saadaval. &brandShortName; kontrollib uuendusi
+                                          regulaarselt.">
+<!ENTITY  noupdatesautodisabled.intro    "Uuendusi ei ole praegu saadaval. Palun kontrolli hiljem uuesti või
+                                          luba &brandShortName;il automaatne uuenduste kontrollimine.">
 
 <!ENTITY incompatibleChecking.label      "Kontrollitakse, kas uuendus võib põhjustada probleeme olemasolevate laienduste ja/või teemadega...">
 <!ENTITY clickHere.label                 "Rohkem teavet uuenduse kohta">
