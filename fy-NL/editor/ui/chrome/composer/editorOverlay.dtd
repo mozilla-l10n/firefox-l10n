@@ -54,7 +54,7 @@
 <!ENTITY openRemoteCmd.label "Ynternetlokaasje iepenje">
 <!ENTITY openRemoteCmd.accesskey "l">
 <!ENTITY openRemoteCmd.key "l">
-<!ENTITY fileRecentMenu.label "Resinte siden">
+<!ENTITY fileRecentMenu.label "Resinte sides">
 <!ENTITY fileRecentMenu.accesskey "R">
 <!ENTITY fileRevert.label "Tebekgean">
 <!ENTITY fileRevert.accesskey "T">
