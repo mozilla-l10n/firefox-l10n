@@ -46,7 +46,6 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- General -->
-<!ENTITY calendar.file.default.name  "Kalendarz" >
 <!ENTITY calendar.calendar.label     "Kalendarz">
 <!ENTITY calendar.calendar.accesskey "K">
 
