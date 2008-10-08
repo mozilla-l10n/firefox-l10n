@@ -43,14 +43,8 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- General -->
 
-<!ENTITY calendar.file.default.name "M'fhéilire">
 <!ENTITY calendar.calendar.label "Féilire">
 <!ENTITY calendar.calendar.accesskey "F">
-
-
-<!ENTITY calendar.confirm.deleteallevents "An bhfuil tú cinnte gur mian leat gach imeacht roghnaithe a scriosadh?">
-<!ENTITY calendar.confirm.deleteevent "An bhfuil tú cinnte gur mian leat an t-imeacht leis an teideal seo a scriosadh: ">
-<!ENTITY calendar.confirm.deleteuntitledevent "An bhfuil tú cinnte gur mian leat an t-imeacht seo gan teideal a scriosadh?">
 
 <!ENTITY calendar.flat.topbar.choosedate "Téigh go Dáta">
 <!ENTITY calendar.flat.topbar.dayview "Amharc Lae">

@@ -20,8 +20,6 @@
 <!ENTITY secondsLabel.label "soicind">
 <!ENTITY showFolderColumns.label "Taispeáin colúin fhairsingithe i bpána na bhfillteán">
 <!ENTITY showFolderColumns.accesskey "l">
-<!ENTITY rememberLastMsg.label "Meabhraigh an teachtaireacht roghnaithe is déanaí">
-<!ENTITY rememberLastMsg.accesskey "b">
 <!ENTITY openMsgIn.label "Oscail teachtaireachtaí:">
 <!ENTITY reuseExpRadio0.label "I bhfuinneog nua teachtaireachta">
 <!ENTITY reuseExpRadio0.accesskey "n">
@@ -29,9 +27,6 @@
 <!ENTITY reuseExpRadio1.accesskey "f">
 <!ENTITY reuseExpRadio2.label "I gcluaisín nua teachtaireachta">
 <!ENTITY reuseExpRadio2.accesskey "Z">
-<!ENTITY connectionTimeout.label "Teorainn ama an cheangail: ">
-<!ENTITY connectionTimeout.accesskey "C">
-<!ENTITY connectionSeconds.label "soicind">
 <!ENTITY configEditDesc.label "Cumraíocht Chasta">
 <!ENTITY configEdit.label "Eagarthóir Cumraíochta…">
 <!ENTITY configEdit.accesskey "g">
@@ -57,9 +52,9 @@
 <!ENTITY showUpdates.accesskey "n">
 <!-- Networking and Disk Space -->
 
-<!ENTITY showConnections.label "Ceangal…">
-<!ENTITY showConnections.accesskey "c">
-<!ENTITY proxiesInfo.label "Socraigh conas a nascfar &brandShortName; leis an Idirlíon.">
+<!ENTITY showSettings.label "Socruithe…">
+<!ENTITY showSettings.accesskey "r">
+<!ENTITY proxiesConfigure.label "Cumraigh conas a cheanglófar &brandShortName; leis an Idirlíon">
 <!ENTITY connectionsInfo.caption "Ceangal">
 <!ENTITY offlineInfo.caption "As Líne">
 <!ENTITY offlineInfo.label "Cumraigh socruithe as líne">
@@ -70,6 +65,18 @@
 <!ENTITY offlineCompact.label "Dlúthaigh fillteáin má sábhálfar níos mó ná">
 <!ENTITY offlineCompact.accesskey "b">
 <!ENTITY kb.label "kB">
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+
+<!ENTITY useCacheBefore.label "Úsáid suas le">
+<!ENTITY useCacheBefore.accesskey "S">
+<!ENTITY useCacheAfter.label "MB spás don taisce">
+<!ENTITY clearCacheNow.label "Bánaigh Anois">
+<!ENTITY clearCacheNow.accesskey "B">
 <!-- Certificates -->
 
 <!ENTITY certificatesInfo2.label "Bainistiú na dteastas, na liostaí cúlghairme, na ngléasanna slándála agus fhíorú na dteastas.">

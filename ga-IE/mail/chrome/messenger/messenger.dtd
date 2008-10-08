@@ -44,7 +44,7 @@
 <!ENTITY renameFolder.accesskey "A">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Dlúthaigh Fillteáin">
-<!ENTITY compactFolder.accesskey "F">
+<!ENTITY compactFolders.accesskey "F">
 <!ENTITY emptyTrashCmd.label "Folmhaigh an Bosca Bruscair">
 <!ENTITY emptyTrashCmd.accesskey "b">
 <!ENTITY importCmd.label "Iompórtáil…">
@@ -226,23 +226,34 @@
 <!ENTITY bodyAsPlaintext.accesskey "G">
 <!ENTITY viewAttachmentsInlineCmd.label "Taispeáint Inlíne na nIatán">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "I">
-<!ENTITY reloadCmd.label "Athluchtaigh">
-<!ENTITY reloadCmd.accesskey "A">
-<!ENTITY stopCmd.label "Stad">
-<!ENTITY stopCmd.accesskey "S">
-<!ENTITY textZoomEnlargeCmd.label "Clómhéid Níos Mó">
-<!ENTITY textZoomEnlargeCmd.accesskey "M">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+
+<!ENTITY fullZoomEnlargeCmd.label "Súmáil Isteach">
+<!ENTITY fullZoomEnlargeCmd.accesskey "I">
+<!ENTITY fullZoomEnlargeCmd.commandkey "+">
 <!-- + is above this key on many keyboards -->
-<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY textZoomReduceCmd.label "Clómhéid Níos Lú">
-<!ENTITY textZoomReduceCmd.accesskey "L">
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomResetCmd.commandkey "0">
-<!ENTITY textZoomResetCmd.label "Gnáthmhéid">
-<!ENTITY textZoomResetCmd.accesskey "N">
-<!ENTITY textSize.label "Clómhéid">
-<!ENTITY textSize.accesskey "m">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY fullZoomReduceCmd.label "Súmáil Amach">
+<!ENTITY fullZoomReduceCmd.accesskey "A">
+<!ENTITY fullZoomReduceCmd.commandkey "-">
+<!ENTITY fullZoomReduceCmd.commandkey2 "">
+
+<!ENTITY fullZoomResetCmd.label "Athshocraigh">
+<!ENTITY fullZoomResetCmd.accesskey "R">
+<!ENTITY fullZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomResetCmd.commandkey2 "">
+
+<!ENTITY fullZoomToggleCmd.label "Súmáil Téacs Amháin">
+<!ENTITY fullZoomToggleCmd.accesskey "T">
+<!ENTITY fullZoom.label "Súmáil">
+<!ENTITY fullZoom.accesskey "S">
 
 <!ENTITY pageSourceCmd.label "Foinse Teachtaireachtaí">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -283,8 +294,8 @@
 <!ENTITY nextStarredMsgCmd.label "Teachtaireacht Marcáilte">
 <!ENTITY nextStarredMsgCmd.accesskey "M">
 <!ENTITY nextUnreadThread.label "Snáithe Gan Léamh">
-<!ENTITY nextUnreadThreadCmd.accesskey "T">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "T">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Siar">
 <!ENTITY prevMenu.accesskey "S">
 <!ENTITY prevMsgCmd.label "Teachtaireacht">

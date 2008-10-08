@@ -4,9 +4,9 @@
 <!ENTITY authorName.accesskey "d">
 <!ENTITY pageColorHeader "Cuma Réamhshocraithe na Leathanach">
 
-<!ENTITY defaultColorsRadio.label "Dathanna réamhshocraithe an léitheora (Ná socraigh dathanna sa leathanach)">
+<!ENTITY defaultColors.label "Dathanna réamhshocraithe an léitheora (ná socraigh dathanna sa leathanach)">
 <!ENTITY defaultColors.accesskey "d">
-<!ENTITY customColorsRadio.label "Úsáid dathanna saincheaptha:">
+<!ENTITY customColors.label "Úsáid dathanna saincheaptha:">
 <!ENTITY customColors.accesskey "c">
 
 <!ENTITY normalText.label "Gnáththéacs">

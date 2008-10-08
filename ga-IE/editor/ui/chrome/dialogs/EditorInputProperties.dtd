@@ -52,11 +52,13 @@
 
 <!ENTITY InputSettings.label "Socruithe Réimse">
 <!ENTITY InputName.label "Ainm Réimse:">
+<!ENTITY InputName.accesskey "R">
 <!ENTITY GroupName.label "Ainm Grúpa:">
-<!ENTITY Name.accesskey "N">
+<!ENTITY GroupName.accesskey "N">
 <!ENTITY InputValue.label "Luach Réimse:">
+<!ENTITY InputValue.accesskey "L">
 <!ENTITY InitialValue.label "Luach Tosaigh:">
-<!ENTITY Value.accesskey "V">
+<!ENTITY InitialValue.accesskey "T">
 <!ENTITY InputChecked.label "Roghnaithe ar dTús">
 <!ENTITY InputChecked.accesskey "O">
 <!ENTITY InputSelected.label "Roghnaithe ar dTús">

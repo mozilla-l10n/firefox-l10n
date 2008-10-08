@@ -44,17 +44,17 @@
 
 
 <!ENTITY viewMenu.label "Amharc">
-<!ENTITY viewmenu.accesskey "v">
+<!ENTITY viewMenu.accesskey "A">
 <!ENTITY compositionToolbarCmd.label "Barra Cumadóireachta">
-<!ENTITY compositiontb.accesskey "c">
+<!ENTITY compositionToolbarCmd.accesskey "C">
 <!ENTITY formattingToolbarCmd.label "Barra Formáidithe">
-<!ENTITY formattingtb.accesskey "f">
+<!ENTITY formattingToolbarCmd.accesskey "F">
 <!ENTITY editmodeToolbarCmd.label "Barra Eagarthóireachta">
-<!ENTITY editmodetb.accesskey "E">
+<!ENTITY editmodeToolbarCmd.accesskey "E">
 <!-- Format menu items -->
 
 <!ENTITY formatMenu.label "Formáid">
-<!ENTITY formatmenu.accesskey "o">
+<!ENTITY formatMenu.accesskey "o">
 
 <!ENTITY helpMenu.label "Cabhair">
 <!ENTITY aboutCmd.label "Maidir Le">
@@ -63,4 +63,3 @@
 <!ENTITY editMode.label "Mód Eagarthóireachta:">
 
 <!ENTITY statusText.label "Leathanach luchtaithe">
-
