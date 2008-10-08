@@ -1,0 +1,5 @@
+<!ENTITY addFeedReader.title  "Dodajanje bralnika virov">
+<!ENTITY addAsDefault.label  "Naj bo to moj privzeti bralnik virov">
+<!ENTITY addAsDefault.accesskey  "p">
+<!ENTITY forSite.label  "Stran:">
+<!ENTITY feedReaderRegistered.title  "Bralnik virov že registriran">

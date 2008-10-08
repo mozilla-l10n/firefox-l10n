@@ -1,0 +1,13 @@
+<!ENTITY ocspDialog.title "Preverjanje certifikatov">
+<!ENTITY enableOCSP.label "Uporabi protokol za sprotno preverjanje certifikata (OCSP) za potrditev trenutne veljavnosti certifikatov">
+<!ENTITY enableOCSP.accesskey "U">
+<!ENTITY certOCSP2.label "Preveri certifikat, če določa strežnik OCSP">
+<!ENTITY certOCSP2.accesskey "P">
+<!ENTITY proxyOCSP2.label "Preveri vse certifikate z uporabo naslednjega strežnika OCSP:">
+<!ENTITY proxyOCSP2.accesskey "v">
+<!ENTITY serviceURL.label "URI storitve:">
+<!ENTITY serviceURL.accesskey "S">
+<!ENTITY signingCA.label "Podpisnik odgovora:">
+<!ENTITY signingCA.accesskey "P">
+<!ENTITY requireOCSP.label "Ko povezava strežnika OCSP spodleti, obravnavaj certifikat kot neveljaven">
+<!ENTITY requireOCSP.accesskey "K">

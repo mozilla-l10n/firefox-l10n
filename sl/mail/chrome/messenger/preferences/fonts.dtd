@@ -1,0 +1,74 @@
+<!ENTITY  fontsDialog.title                       "Pisave">
+<!ENTITY  window.width                            "45em">
+<!ENTITY  window.macWidth                         "47em">
+<!ENTITY  window.unixWidth                        "45em">
+
+<!ENTITY  language.label                          "Pisave za:">
+<!ENTITY  language.accesskey                      "v">
+
+<!ENTITY  typefaces.label                         "Pisava">
+<!ENTITY  sizes.label                             "Velikost">
+
+<!ENTITY  proportional.label                      "Spremenljiva pisava:">
+<!ENTITY  proportional.accesskey                  "s">
+
+<!ENTITY  serif.label                             "Serif:">
+<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  sans-serif.label                        "Sans-serif:">
+<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  monospace.label                         "Enoširinska pisava:">
+<!ENTITY  monospace.accesskey                     "e">
+
+<!ENTITY  fontsize.units                          "pike">
+
+<!ENTITY  font.langGroup.latin1                   "zahodno">
+<!ENTITY  font.langGroup.latin2                   "srednjeevropsko">
+<!ENTITY  font.langGroup.japanese                 "japonsko">
+<!ENTITY  font.langGroup.trad-chinese             "tradicionalno kitajsko (Tajvan)">
+<!ENTITY  font.langGroup.simpl-chinese            "poenostavljeno kitajsko">
+<!ENTITY  font.langGroup.trad-chinese-hk          "tradicionalno kitajsko (Hong Kong)">
+<!ENTITY  font.langGroup.korean                   "korejsko">
+<!ENTITY  font.langGroup.cyrillic                 "cirilica">
+<!ENTITY  font.langGroup.baltic                   "baltsko">
+<!ENTITY  font.langGroup.el                       "grško">
+<!ENTITY  font.langGroup.turkish                  "turško">
+<!ENTITY  font.langGroup.unicode                  "Unicode">
+<!ENTITY  font.langGroup.user-def                 "uporabniško določeno">
+<!ENTITY  font.langGroup.thai                     "tajsko">
+<!ENTITY  font.langGroup.hebrew                   "hebrejsko">
+<!ENTITY  font.langGroup.arabic                   "arabsko">
+<!ENTITY  font.langGroup.devanagari               "devanagari">
+<!ENTITY  font.langGroup.tamil                    "tamilsko">
+<!ENTITY  font.langGroup.armenian                 "armensko">
+<!ENTITY  font.langGroup.bengali                  "bengalsko">
+<!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
+<!ENTITY  font.langGroup.ethiopic                 "etiopsko">
+<!ENTITY  font.langGroup.georgian                 "gruzijsko">
+<!ENTITY  font.langGroup.gujarati                 "gujarati">
+<!ENTITY  font.langGroup.gurmukhi                 "gurmukhi">
+<!ENTITY  font.langGroup.khmer                    "kmersko">
+<!ENTITY  font.langGroup.malayalam                "malajalamsko">
+
+<!-- Minimum font size -->
+<!ENTITY minSize.label                            "Najmanjša velikost pisav:">
+<!ENTITY minSize.accesskey                        "m">
+<!ENTITY minSize.none                             "je ni">
+
+<!-- default font type -->
+<!ENTITY  useDefaultFontSerif.label               "Serif">
+<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
+
+<!ENTITY  newLanguages.label                      "Druge jezike lahko določite z nastavitvami jezikov.">
+
+<!ENTITY  useDocumentFonts.label                   "Dovoli sporočilom, da uporabljajo lastne pisave namesto mojih izborov">
+<!ENTITY  useDocumentFonts.accesskey               "h">
+
+<!-- font scaling -->
+<!ENTITY  resolution.label                        "Prikazovalna ločljivost:">
+<!ENTITY  resolution.accesskey                    "r">
+<!-- LOCALIZATION NOTE (resolution.dpi): dpi stands for "dots per inch" -->
+<!ENTITY  resolution.dpi                          "dpi">
+<!-- LOCALIZATION NOTE (resolution.dpi): $val will be replaced by a numeric dpi value. -->
+<!ENTITY  resolution.dpival                       "$val &resolution.dpi;">
+<!ENTITY  resolution.system.label                 "Sistemska nastavitev">
+<!ENTITY  resolution.other                        "Drugo ...">

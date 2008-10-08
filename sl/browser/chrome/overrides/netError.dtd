@@ -1,0 +1,138 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Napaka pri nalaganju strani">
+<!ENTITY retry.label "Poskusite ponovno">
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "Povezava neuspešna">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "Ta naslov je onemogočen">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "Strežnika ni mogoče najti">
+<!ENTITY dnsNotFound.longDesc "<ul> 
+<li>Morda ste se zmotili pri črkovanju naslova 
+(npr. <strong>ww</strong>.mozilla.org namesto <strong>www</strong>.mozilla.org).</li> 
+<li>Če prihaja do tega problema z več stranmi, imate morda napačne nastavitve povezave in DNS.</li> 
+<li>Če uporabljate proxy ali požarni zid, se prepričajte, da so vaše nastavitve pravilne.</li> 
+</ul>">
+
+<!ENTITY fileNotFound.title "Datoteke ni mogoče najti">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Preverite, ali je datoteka zapisana s pravilno velikostjo črk.</li> 
+<li>Preverite, ali je bila datoteka preimenovana, izbrisana ali premaknjena.</li> 
+</ul>">
+
+
+<!ENTITY generic.title "Ups.">
+<!ENTITY generic.longDesc "<p>&brandShortName; ne more naložiti te strani.</p>">
+
+<!ENTITY malformedURI.title "Neveljaven naslov">
+<!ENTITY malformedURI.longDesc "<ul> 
+<li>Spletni naslovi so običajno zapisani v naslednji obliki: 
+<strong>http://www.primer.si/</strong></li> 
+<li>Prepričajte se, da uporabljate ustrezno poševnico (tj. 
+<strong>/</strong>).</li> 
+</ul>">
+
+<!ENTITY netInterrupt.title "Povezava je bila prekinjena">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY netOffline.title "Brez povezave">
+<!ENTITY netOffline.longDesc "<ul> 
+<li>Odstranite možnost &quot;Delaj v brezpovezavnem načinu&quot; v meniju Datoteka, nato pa poskusite znova.</li> 
+</ul>">
+
+<!ENTITY contentEncodingError.title "Napaka pri kodiranju vsebine">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>O napaki obvestite lastnike spletne strani.</li> 
+</ul>">
+
+<!ENTITY unsafeContentType.title "Nevarna vrsta datoteke">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>O napaki obvestite lastnike spletne strani.</li> 
+</ul>">
+
+<!ENTITY netReset.title "Povezava je bila obnovljena">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "Dovoljeni čas pretekel">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY protocolNotFound.title "Naslova ni bilo moč razumeti">
+<!ENTITY protocolNotFound.longDesc "<ul> 
+<li>Za odpiranje tega naslova boste morda potrebovali dodaten program.</li> 
+</ul>">
+
+<!ENTITY proxyConnectFailure.title "Strežnik proxy zavrača povezave">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Preverite nastavitve proxyja in se prepričajte, da so pravilne.</li> 
+<li>Pri skrbniku svojega omrežja preverite, da strežnik proxy deluje.</li> 
+</ul>">
+
+<!ENTITY proxyResolveFailure.title "Strežnika proxy ni mogoče najti">
+<!ENTITY proxyResolveFailure.longDesc "<ul> 
+<li>Preverite nastavitve proxyja in se prepričajte, da so pravilne.</li> 
+<li>Preverite, ali ima vaš računalnik delujočo omrežno povezavo.</li> 
+<li>Če uporabljate strežnik proxy ali požarni zid, se prepričajte, 
+da ima &brandShortName; dovoljenja za dostop do spleta.</li> 
+</ul>">
+
+<!ENTITY redirectLoop.title "Stran se ne preusmerja pravilno">
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>Težavo lahko povzroča onemogočanje ali zavračanje piškotov.</li> 
+</ul>">
+
+<!ENTITY unknownSocketType.title "Nepričakovan odgovor strežnika">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Prepričajte se, da je nameščen upravitelj osebne varnosti.</li> 
+<li>Vzrok napaki je lahko nestandardna nastavitev strežnika.</li> 
+</ul>">
+
+<!ENTITY nssFailure2.title "Varna povezava ni uspela">
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>Strani, ki si jo želite ogledati, ni mogoče prikazati, ker ni mogoče preveriti pristnosti sprejetih podatkov.</li> 
+<li>O napaki lahko obvestite lastnike spletne strani, ali uporabite ukaz v meniju Pomoč in pošljite poročilo o napaki na strani.</li> 
+</ul>">
+
+<!ENTITY nssBadCert.title "Varna povezava ni uspela">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Napaka lahko izvira iz nastavitev strežnika, ali pa nekdo poskuša 
+oponašati njegovo delovanje, da bi vas preslepil.</li> 
+<li>Če ste se v preteklosti že uspešno povezovali na ta strežnik, je napaka morda 
+začasna in lahko poskusite ponovno pozneje.</li> 
+</ul>">
+
+<!ENTITY sharedLongDesc "<ul> 
+<li>Stran je morda začasno nedosegljiva ali preobremenjena. 
+Poskusite ponovno nekoliko pozneje.</li> 
+<li>Če ne uspete naložiti nobene strani, preverite povezavo 
+svojega računalnika do interneta.</li> 
+<li>Če uporabljate proxy ali požarni zid, se prepričajte, 
+da ima &brandShortName; dovoljenja za dostop do spleta.</li> 
+</ul>">
+
+<!ENTITY malwareBlocked.title "Morebitna napadalna stran!">
+<!ENTITY malwareBlocked.longDesc "<p>Napadalne strani poskušajo namestiti programe, ki kradejo osebne podatke, uporabljajo vaš računalnik za napad na druge ali poškodujejo vaš sistem.</p> 
+<p>Lastniki spletnih strani, ki verjemejo, da je bila njihova stran prijavljena pomotoma, lahko <a href='http://www.stopbadware.org/home/reviewinfo' >zahtevajo preverjanje</a>.</p>">
+
+<!ENTITY phishingBlocked.title "Morebitna spletna prevara!">
+<!ENTITY phishingBlocked.longDesc "<p>Vnos osebnih podatkov na tej strani lahko pripelje do kraje identitete ali drugih zlorab.</p> 
+<p>Tovrstne spletne prevare se uporabljajo v zlorabah, znanih kot lažno predstavljanje, kjer zlonamerne spletne strani ali elektronska pošta oponašajo vire, ki jim zaupate.</p>">
+
+<!ENTITY securityOverride.linkText "Lahko pa dodate izjemo...">
+<!ENTITY securityOverride.getMeOutOfHereButton "Odpelji me na domačo stran!">
+<!ENTITY securityOverride.exceptionButtonLabel "Dodaj izjemo...">
+<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to firefox. -->
+
+
+<!ENTITY securityOverride.warningText "<p>Če uporabljate internetno povezavo, ki ji ne zaupate v celoti, ali niste navajeni na opozorila za ta strežnik, ne dodajajte izjeme.</p> 
+ 
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/> 
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>">

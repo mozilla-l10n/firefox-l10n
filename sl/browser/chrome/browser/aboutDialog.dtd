@@ -1,0 +1,9 @@
+<!ENTITY aboutDialog.title "O &brandFullName;u">
+<!ENTITY copyright "O avtorjih">
+<!ENTITY copyright.accesskey "a">
+<!ENTITY aboutLink "&lt; O &brandShortName;u">
+<!ENTITY aboutLink.accesskey "O">
+<!ENTITY aboutVersion "različice">
+<!ENTITY copyrightInfo "&#169;1998-2008 Sodelavci. Vse pravice pridržane. Firefox in 
+logotip Firefoxa sta blagovni znamki Mozilla Foundation.  Vse pravice 
+pridržane.">

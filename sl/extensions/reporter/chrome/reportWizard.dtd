@@ -1,0 +1,59 @@
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title "Poročilo o pokvarjeni spletni strani">
+
+<!ENTITY privacyNotice.label "Izjava o zasebnosti">
+<!ENTITY reportWizardPrivacy.description "To orodje vam omogoča, da ekipi Evangelism Team sporočite strani, ki ne delujejo pravilno v &brandShortName;u oziroma ga zaprejo. Na ta način nam lahko pomagate zagotoviti najboljšo izkušnjo za uporabnike programa &brandShortName;. Vzemite si trenutek za pregled sledeče vsebine, ki pojasnjuje, kako uporabljamo podatke, če se boste odločili sodelovati.">
+<!ENTITY reportWizardMustAgree.description "Za nadaljevanje se morate strinjati z zgornjo izjavo o zasebnosti.">
+
+<!ENTITY dontShowPrivacyStatement.label "Prebral(a) sem in se strinjam z zgornjo izjavo o zasebnosti.">
+<!ENTITY dontShowPrivacyStatement.accesskey "I">
+
+<!ENTITY reportForm.label "Izpolnite poročilo">
+
+<!ENTITY reportForm.description "Povejte nam nekaj več o težavi, s katero ste se srečali:">
+<!ENTITY reportForm.url.title "URL spletne strani:">
+<!ENTITY reportForm.url.accesskey "U">
+<!-- No ":" at the end -->
+
+<!ENTITY reportForm.behind_login.title "Spletna stran je varovana z geslom">
+<!ENTITY reportForm.behind_login.accesskey "P">
+
+<!ENTITY reportForm.problem_type.title "Vrsta težave:">
+<!ENTITY reportForm.problem_type.accesskey "T">
+
+<!ENTITY reportForm.problem_type.chooseOne.title "Izberite eno...">
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+
+<!ENTITY reportForm.problem_type.item1.title "Brskalnik ni podprt">
+<!ENTITY reportForm.problem_type.item2.title "Prijava ni mogoča">
+<!ENTITY reportForm.problem_type.item3.title "Vstavek ni prikazan">
+<!ENTITY reportForm.problem_type.item4.title "Manjka druga vsebina">
+<!ENTITY reportForm.problem_type.item5.title "Napačno obnašanje">
+<!ENTITY reportForm.problem_type.item6.title "Napačen videz">
+<!ENTITY reportForm.problem_type.item7.title "Druga težava">
+<!ENTITY reportForm.problem_type.item8.title "Ljudje s posebnimi potrebami">
+<!ENTITY reportForm.problem_type.item9.title "Natisnjen izhod je napačen">
+
+<!ENTITY reportForm.describe.title "Opis težave:">
+<!ENTITY reportForm.describe.accesskey "O">
+
+<!ENTITY reportForm.platform.title "Platforma:">
+<!ENTITY reportForm.product.title "Izdelek:">
+<!ENTITY reportForm.gecko.title "Gecko:">
+<!ENTITY reportForm.useragent.title "Useragent:">
+<!ENTITY reportForm.language.title "Jezik:">
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+
+<!ENTITY reportForm.email.title "E-pošta (izbirno):">
+<!ENTITY reportForm.email.accesskey "E">
+
+<!ENTITY reportForm.privacyPolicy.title "Izjava o zasebnosti">
+<!ENTITY reportForm.privacyPolicy.tooltip "Ogled izjave o zasebnosti">
+
+<!ENTITY reportResults.showDetail.title "Prikaz podrobnosti">
+<!ENTITY reportResults.showDetail.accesskey "P">
+
+<!ENTITY sendReport.label "Pošiljanje poročila">
+<!ENTITY sendReport.description "Pošiljanje poročila na strežnik ...">
+
+<!ENTITY finish.label "Poročilo poslano">

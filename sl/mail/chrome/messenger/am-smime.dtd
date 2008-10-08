@@ -1,0 +1,20 @@
+<!ENTITY securityTitle.label "Varnost">
+<!ENTITY securityHeading.label "Za pošiljanje in sprejemanje podpisanih ali šifriranih sporočil morate izbrati tako certifikat za digitalno podpisovanje kot tudi šifrirni certifikat.">
+<!ENTITY encryptionGroupTitle.label "Šifriranje">
+<!ENTITY encryptionChoiceLabel.label "Privzete nastavitve šifriranja za pošiljanje sporočil:">
+<!ENTITY neverEncrypt.label "nikoli (ne uporabi šifriranja)">
+<!ENTITY alwaysEncryptMessage.label "vselej (ni mogoče poslati sporočila, če vsi prejemniki nimajo certifikatov)">
+<!ENTITY encryptionCert.message "Uporabi naslednji certifikat za šifriranje in dešifriranje sporočil, poslanih k vam:">
+<!ENTITY encryptionCert.notselected "Ni nastavljenih certifikatov">
+<!ENTITY certificate.button "Izberi ...">
+<!ENTITY certificate_clear.button "Počisti">
+<!ENTITY signingGroupTitle.label "Digitalno podpisovanje">
+<!ENTITY signMessage.label "Digitalno podpisuj sporočila (privzeto)">
+<!ENTITY signingCert.message "Uporabi naslednji certifikat za digitalno podpisovanje sporočil, ki jih pošiljate:">
+<!ENTITY signingCert.notselected "Ni nastavljenih certifikatov">
+
+<!ENTITY certificates.label     "Upravljaj s certifikati in napravami">
+<!ENTITY managecerts.label      "Upravljaj s certifikati ...">
+<!ENTITY managecerts.accesskey  "U">
+<!ENTITY managedevices.label    "Upravljaj z varnostnimi napravami ...">
+<!ENTITY managedevices.accesskey "v">

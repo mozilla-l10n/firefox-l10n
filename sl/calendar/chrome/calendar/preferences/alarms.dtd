@@ -1,0 +1,68 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Calendar Preferences
+   -
+   - The Initial Developer of the Original Code is
+   - Matthew Willis
+   - Portions created by the Initial Developer are Copyright (C) 2006
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): 
+   -   Cédric Corazza <cedric.corazza@wanadoo.fr>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+
+<!ENTITY pref.alarmgoesoff.label "Ko se sproži alarm:">
+<!ENTITY pref.playasound "predvajaj zvok">
+<!ENTITY pref.calendar.alarms.playsound.accessKey "p">
+<!ENTITY pref.calendar.alarms.sound.useDefault.label "uporabi privzeti zvok">
+<!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "z">
+<!ENTITY pref.calendar.alarms.sound.browse.label "Prebrskaj …">
+<!ENTITY pref.calendar.alarms.sound.browse.accessKey "b">
+<!ENTITY pref.calendar.alarms.sound.preview.label "Predogled">
+<!ENTITY pref.calendar.alarms.sound.preview.accessKey "P">
+<!ENTITY pref.showalarmbox "Prikaži sporočilo o alarmu">
+<!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "p">
+<!ENTITY pref.missedalarms "Prikaži zgrešene alarme">
+<!ENTITY pref.calendar.alarms.missedAlarms.accessKey "z">
+<!ENTITY pref.calendar.alarms.defaults.label "Privzete nastavitve za alarm">
+<!ENTITY pref.defalarm4events.label "Privzeta nastavitev alarma za dogodke:">
+<!ENTITY pref.defalarm4events.accesskey "g">
+<!ENTITY pref.defalarm4todos.label "Privzeta nastavitev alarma za opravke:">
+<!ENTITY pref.defalarm4todos.accesskey "v">
+<!ENTITY pref.alarm.on "vklopljen">
+<!ENTITY pref.alarm.off "izklopljen">
+<!ENTITY pref.defalarmlen4events.label "Privzeti čas sprožitve alarma pred dogodkom:">
+<!ENTITY pref.defalarmlen4events.accesskey "d">
+<!ENTITY pref.defalarmlen4todos.label "Privzeti čas sprožitve alarma pred opravkom:">
+<!ENTITY pref.defalarmlen4todos.accesskey "o">
+<!ENTITY pref.defaultemail.label "Privzeti naslov za pošiljanje alarmov:">
+<!ENTITY pref.defaulttext.label "Privzeto besedilo za alarm:">

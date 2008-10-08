@@ -1,0 +1,15 @@
+<!ENTITY brandMotto "Ponovno odkrijte svet">
+<!ENTITY credit.thanks "Posebne zahvale">
+
+<!ENTITY credit.thanks2 "Z zahvalami našim">
+<!ENTITY credit.contributors2 "sodelavcev">
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+
+<!ENTITY credit.translation "<h3>Prevajalci</h3><ul><li>Aleks Reinhardt</li><li>Matjaž Horvat</li><li>Urška Colner</li><li>Martin Srebotnjak</li></ul>">
+
+<!ENTITY credit.memory "V spomin na">
+<!ENTITY credit.poweredByGeckoReg "Uporablja Gecko&reg;">

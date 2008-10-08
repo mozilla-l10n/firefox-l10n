@@ -1,0 +1,31 @@
+
+<!ENTITY migrationWizard.title          "Čarovnik za uvoz">
+
+<!ENTITY importFrom.label               "Uvozi možnosti, nastavitve računa, adresar in druge podatke iz:">
+<!ENTITY importFromUnix.label           "Uvozi nastavitve, nastavitve računa, adresar in druge podatke iz:">
+
+<!ENTITY importFromNothing.label        "Ne uvozi ničesar">
+<!ENTITY importFromNothing.accesskey    "N">
+<!ENTITY importFromSeamonkey.label      "Netscapea 6, 7 ali Mozille 1.x">
+<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromNetscape4.label      "Netscapea 4.x">
+<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromOExpress.label       "Outlook Expressa">
+<!ENTITY importFromOExpress.accesskey   "u">
+<!ENTITY importFromOutlook.label        "Outlooka">
+<!ENTITY importFromOutlook.accesskey    "O">
+<!ENTITY importFromEudora.label         "Eudore">
+<!ENTITY importFromEudora.accesskey     "E">
+
+<!ENTITY importSource.title             "Uvoz nastavitev in poštnih map">
+<!ENTITY importItems.title              "Možnosti uvoza">
+<!ENTITY importItems.label              "Izberite, kaj želite uvoziti:">
+
+<!ENTITY migrating.title                "Uvoz ...">
+<!ENTITY migrating.label                "Trenutno se uvaža sledeče ...">
+
+<!ENTITY selectProfile.title            "Izbira profila">
+<!ENTITY selectProfile.label            "Uvoz je možen iz naslednjih profilov:">
+
+<!ENTITY done.title                     "Konec uvoza">
+<!ENTITY done.label                     "Uspešno je bilo uvoženo naslednje:">

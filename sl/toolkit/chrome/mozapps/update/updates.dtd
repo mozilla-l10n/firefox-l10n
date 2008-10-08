@@ -1,0 +1,70 @@
+<!ENTITY updateWizard.title "Posodobitev programske opreme">
+
+<!ENTITY window.width "39em">
+<!ENTITY window.macWidth "42em">
+
+<!ENTITY checking.title "Iščem posodobitve">
+<!ENTITY checking.label "&brandShortName; išče posodobitve ...">
+
+<!ENTITY cancel.label "Prekliči">
+<!ENTITY cancel.accesskey "P">
+
+<!ENTITY noupdatesfound.title "Ni najdenih posodobitev">
+<!ENTITY noupdatesfound.intro "Na voljo ni nobenih posodobitev. &brandShortName; lahko periodično išče posodobitve.">
+
+<!ENTITY incompatibleChecking.label "Preverjanje morebitnih težav z vašimi razširitvami in temami, ki jih lahko povzroči ta posodobitev ...">
+<!ENTITY clickHere.label "Kliknite sem za več splošnih podatkov o tej posodobitvi">
+
+<!ENTITY incompatible.warning "Ta posodobitev bo povzročila, da nekatere vaše razširitve ne bodo delovale, dokler tudi njih ne posodobite.">
+<!ENTITY listIncompatible.label "Pokaži seznam">
+<!ENTITY listIncompatible.accesskey "S">
+
+<!ENTITY upgrade.evangelism "Močno vam priporočamo, da posodobite &brandShortName; takoj, ko bo to mogoče.">
+
+<!ENTITY license.instructions "Če se strinjate s pogoji licence, kliknite gumb Strinjam se za nadaljevanje namestitve.">
+
+<!ENTITY license.titleText "Licenčna pogodba za programsko opremo">
+<!ENTITY license.introText "Pogoji uporabe te programske opreme.">
+<!ENTITY license.instructionText "Prosim, preberite spodnjo licenčno pogodbo. Uporabite drsnik za pregled celotnega besedila.">
+<!ENTITY license.accept "Sprejmem pogoje licence">
+<!ENTITY license.accept.accesskey "S">
+<!ENTITY license.decline "Ne sprejmem pogojev licence">
+<!ENTITY license.decline.accesskey "N">
+
+<!ENTITY downloading.title "Prenos posodobitve">
+<!ENTITY downloading.intro "Prenašam posodobitev ...">
+<!ENTITY connecting.label "Povezujem se na posodobitveni strežnik ...">
+<!ENTITY verificationFailedText.label "Ker ne morem preveriti integritete prenešene posodobitve po stopnjah, zdaj prenašam celotno posodobitveni paket.">
+
+<!ENTITY details.link "Podrobnosti">
+<!ENTITY pause.label "Premor">
+<!ENTITY pause.accesskey "r">
+<!ENTITY close.label "Zapri">
+<!ENTITY close.accesskey "Z">
+
+<!ENTITY error.label "Pri iskanju, prenosu ali namestitvi te posodobitve je prišlo do napak zaradi:">
+                                           
+<!ENTITY errorManual.label "Program lahko posodobite ročno, če obiščete naslednjo povezavo in prenesete najnovejšo različico:">
+                                           
+<!ENTITY errorpatching.title "Posodobitev neuspešna">
+<!ENTITY errorpatching.intro "Delne posodobitve ne morem namestiti. Prenešena bo celotna posodobitev.">
+
+<!ENTITY finished.title "Posodobitev prenešena">
+<!ENTITY finished.text "Posodobitev se je uspešno prenesla in preverila. Za njeno namestitev morate ponovno zagnati &brandShortName;.">
+
+<!ENTITY finishedBackground.title "Posodobitev pripravljena na namestitev">
+<!ENTITY finishedBackground.text "&brandShortName; je končal prenos pomembne posodobitve. Kliknite na spodnjo povezavo za podrobnosti.">
+<!ENTITY finishedBackground.name "Posodobitev:">
+<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
+<!ENTITY finishedBackground.more1 "Kliknite gumb Ponovno zaženi zdaj, če želite zapreti vsa okna programa in namestiti posodobitev.">
+<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
+<!ENTITY finishedBackground.textNotNow "Kliknite Zaenkrat ne, če želite zaprti pogovorno okno in nadaljevati z delom. 
+&brandShortName; bo posodobitev namestil ob naslednjem zagonu.">
+
+<!ENTITY installed.title "Posodobitev nameščena">
+<!ENTITY installed.intro "Posodobitev se je uspešno namestila.">
+<!ENTITY whatsnew.label "Preberite več o novostih ...">
+
+<!ENTITY update.details.label "Podrobnosti">
+<!ENTITY update.installedOn.label "Datum namestitve:">
+<!ENTITY update.status.label "Stanje:">

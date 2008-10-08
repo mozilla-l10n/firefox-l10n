@@ -1,0 +1,12 @@
+
+<!ENTITY history.title "Zgodovina posodobitev">
+<!ENTITY history.intro "Namestili ste naslednje posodobitve:">
+<!ENTITY closebutton.label "Zapri">
+                                     
+<!ENTITY noupdates.label "Namestili niste še nobene posodobitve">
+
+<!ENTITY name.header "Ime posodobitve">
+<!ENTITY date.header "Datum namestitve">
+<!ENTITY type.header "Vrsta">
+<!ENTITY state.header "Stanje">
+

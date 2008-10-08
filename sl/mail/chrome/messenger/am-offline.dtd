@@ -1,0 +1,33 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Zaradi varčevanja s prostorom na disku ne prenesi:">
+<!ENTITY doNotDownload.label "Zaradi varčevanja s prostorom na disku ne prenesi za uporabo brez povezave:">
+<!ENTITY offlineNewFolder.label "Novoustvarjeni imeniki naj bodo nastavljeni za uporabo v stanju brez povezave">
+<!ENTITY offlineNewFolder.accesskey "u">
+<!ENTITY offlineNotDownload.label "sporočil, večjih od">
+<!ENTITY offlineNotDownload.accesskey "S">
+<!ENTITY kb.label "kB">
+<!ENTITY days.label "dneh">
+<!ENTITY daysOld.label "dni">
+<!ENTITY message.label "sporočil">
+<!ENTITY nntpNotDownloadRead.label "Prebrana sporočila">
+<!ENTITY nntpNotDownloadRead.accesskey "R">
+<!ENTITY nntpDownloadMsg.label "Sporočila, starejša od">
+<!ENTITY nntpDownloadMsg.accesskey "e">
+<!ENTITY retentionCleanup.label "Ohrani:">
+<!ENTITY retentionKeepMsg.label "sporočila, prejeta v zadnjih">
+<!ENTITY retentionKeepMsg.accesskey "z">
+<!ENTITY retentionKeepAll.label "vsa sporočila">
+<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepNew.label "najnovejših">
+<!ENTITY retentionKeepNew.accesskey "n">
+<!ENTITY retentionKeepUnread.label "samo neprebrana sporočila">
+<!ENTITY retentionKeepUnread.accesskey "s">
+<!ENTITY nntpRemoveBody.label "samo sporočila, stara manj kot">
+<!ENTITY nntpRemoveBody.accesskey "O">
+<!ENTITY offlineSelectNntp.label "Izberi novičarske skupine za uporabo brez povezave ...">
+<!ENTITY offlineSelectImap.label "Izberi imenike za uporabo brez povezave ...">
+<!ENTITY offlineSelect.accesskey "z">
+<!ENTITY offlineDesc.label "Sporočila lahko prenesete tudi na lokalno mesto, tako da so vam na voljo tudi, ko niste povezani s strežnikom.">
+<!ENTITY makeInboxMsgsAvailable.label "Sporočila v imeniku Prejeto naj bodo na voljo v stanju brez povezave">
+<!ENTITY makeInboxMsgsAvailable.accesskey "b">
+<!ENTITY offlineGroupTitle.label "Brez povezave">
+<!ENTITY diskspaceGroupTitle.label "Prostor na disku">

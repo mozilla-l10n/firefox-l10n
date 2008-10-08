@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
+
+<!ENTITY title.label "Prenos certifikatov">
+<!ENTITY info.message "Preiskujem imenik za naslovnikove certifikate. To lahko traja nekaj minut.">
+<!ENTITY stop.label "Prekini iskanje">

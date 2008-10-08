@@ -1,0 +1,24 @@
+<!ENTITY sanitizeDialog.title "Počisti zasebne podatke">
+
+<!ENTITY sanitizeItems.label "Počisti naslednje vsebine zdaj:">
+<!ENTITY clearDataSettings.label "Ko programu &brandShortName; naročim brisanje zasebnih podatkov, naj izbriše:">
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+
+<!ENTITY itemHistory.label "zgodovino obiskanih strani">
+<!ENTITY itemHistory.accesskey "Z">
+<!ENTITY itemFormSearchHistory.label "podatke o obrazcih in iskanjih">
+<!ENTITY itemFormSearchHistory.accesskey "O">
+<!ENTITY itemPasswords.label "shranjena gesla">
+<!ENTITY itemPasswords.accesskey "G">
+<!ENTITY itemCookies.label "piškote">
+<!ENTITY itemCookies.accesskey "P">
+<!ENTITY itemCache.label "predpomnilnik">
+<!ENTITY itemCache.accesskey "d">
+<!ENTITY itemOfflineApps.label "podatke pri delu brez povezave">
+<!ENTITY itemOfflineApps.accesskey "B">
+<!ENTITY itemDownloads.label "zgodovino prenosov">
+<!ENTITY itemDownloads.accesskey "R">
+<!ENTITY itemSessions.label "overovljene seje">
+<!ENTITY itemSessions.accesskey "S">
+<!ENTITY window.width "30em">

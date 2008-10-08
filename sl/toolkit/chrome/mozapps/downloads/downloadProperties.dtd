@@ -1,0 +1,7 @@
+<!ENTITY dateStarted.label      "Začeto:">
+<!ENTITY dateEnded.label        "Končano:">
+<!ENTITY window.title           "Lastnosti">
+<!ENTITY downloadedFrom.label   "Od:">
+<!ENTITY path.label             "V:">
+<!ENTITY acceptButton.label     "Zapri">
+<!ENTITY cmd.close.commandKey   "w">

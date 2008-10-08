@@ -1,0 +1,102 @@
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label "Splošno">
+
+<!ENTITY accessibility.label "Dostopnost">
+
+<!ENTITY useCursorNavigation.label "Vselej uporabi tipke na tipkovnici za navigacijo po straneh">
+<!ENTITY useCursorNavigation.accesskey "t">
+<!ENTITY searchStartTyping.label "Ko začnem tipkati, začni iskati">
+<!ENTITY searchStartTyping.accesskey "s">
+<!ENTITY blockAutoRefresh.label "Opozori me, ko se želijo spletne strani preusmeriti ali ponovno naložiti">
+<!ENTITY blockAutoRefresh.accesskey "m">
+
+<!ENTITY browsing.label "Brskanje">
+
+<!ENTITY useAutoScroll.label "Uporabljaj samodrsenje">
+<!ENTITY useAutoScroll.accesskey "s">
+<!ENTITY useSmoothScrolling.label "Uporabljaj gladko drsenje">
+<!ENTITY useSmoothScrolling.accesskey "g">
+<!ENTITY checkSpelling.label "Preverjaj črkovanje besed, medtem ko pišem">
+<!ENTITY checkSpelling.accesskey "b">
+
+<!ENTITY systemDefaults.label "Privzete vrednosti">
+<!--XXX-->
+<!ENTITY alwaysCheckDefault.label "Ob zagonu vedno preveri, ali je &brandShortName; privzet brskalnik">
+<!ENTITY alwaysCheckDefault.accesskey "v">
+<!ENTITY checkNow.label "Preveri zdaj">
+<!ENTITY checkNow.accesskey "E">
+
+<!ENTITY networkTab.label "Mreža">
+
+<!ENTITY connection.label "Povezava">
+
+<!ENTITY connectionDesc.label "Določite, kako naj se &brandShortName; poveže na internet.">
+<!ENTITY connectionSettings.label "Nastavitve ...">
+<!ENTITY connectionSettings.accesskey "n">
+
+<!ENTITY offlineStorage.label "Hramba za delo brez povezave">
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+
+<!ENTITY useCacheBefore.label "Uporabi največ">
+<!ENTITY useCacheBefore.accesskey "U">
+<!ENTITY useCacheAfter.label "MB prostora za predpomnjenje.">
+<!ENTITY clearCacheNow.label "Počisti zdaj">
+<!ENTITY clearCacheNow.accesskey "O">
+
+<!ENTITY updateTab.label "Posodobitev">
+
+<!ENTITY autoCheck.label "Samodejno preverjaj, če obstajajo posodobitve za:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "F">
+<!ENTITY enableAddonsUpdate.label "nameščene razširitve in teme">
+<!ENTITY enableAddonsUpdate.accesskey "z">
+<!ENTITY enableSearchUpdate.label "iskalnike">
+<!ENTITY enableSearchUpdate.accesskey "i">
+<!ENTITY whenUpdatesFound.label "Če obstajajo posodobitve za &brandShortName;:">
+<!ENTITY askMe.label "me vprašaj, kaj storiti">
+<!ENTITY askMe.accesskey "k">
+<!ENTITY modeAutomatic.label "samodejno prenesi in namesti posodobitev">
+<!ENTITY modeAutomatic.accesskey "p">
+<!ENTITY modeAutoAddonWarn.label "opozori me, če bo to onemogočilo nameščene razširitve in teme">
+<!ENTITY modeAutoAddonWarn.accesskey "O">
+<!ENTITY updateHistory.label "Pokaži zgodovino posodobitev">
+<!ENTITY updateHistory.accesskey "z">
+
+<!ENTITY offlineNotify.label "Opozori me, ko želi spletna stran shraniti podatke za delo brez povezave">
+<!ENTITY offlineNotify.accesskey "T">
+<!ENTITY offlineNotifyExceptions.label "Izjeme ...">
+<!ENTITY offlineNotifyExceptions.accesskey "i">
+
+<!ENTITY offlineAppsList.label "Naslednje spletne strani so shranile podatke za delo brez povezave:">
+<!ENTITY offlineAppsList.height "7em">
+<!ENTITY offlineAppsListRemove.label "Odstrani ...">
+<!ENTITY offlineAppsListRemove.accesskey "R">
+<!ENTITY offlineAppRemove.confirm "Odstrani ">
+
+<!ENTITY encryptionTab.label "Šifriranje">
+
+<!ENTITY protocols.label "Protokoli">
+<!ENTITY useSSL3.label "Uporabljaj SSL 3.0">
+<!ENTITY useSSL3.accesskey "3">
+<!ENTITY useTLS1.label "Uporabljaj TLS 1.0">
+<!ENTITY useTLS1.accesskey "1">
+<!ENTITY certificates.label "Certifikati">
+<!ENTITY certSelection.description "Ko strežnik zahteva moj osebni certifikat:">
+<!ENTITY certs.auto "ga izberi samodejno">
+<!ENTITY certs.auto.accesskey "s">
+<!ENTITY certs.ask "me vsakokrat vprašaj">
+<!ENTITY certs.ask.accesskey "k">
+<!ENTITY viewCerts.label "Preglej certifikate">
+<!ENTITY viewCerts.accesskey "c">
+<!ENTITY viewCRLs.label "Zavrnitveni seznami">
+<!ENTITY viewCRLs.accesskey "Z">
+<!ENTITY verify2.label "Preverjanje">
+<!ENTITY verify2.accesskey "V">
+<!ENTITY viewSecurityDevices.label "Varnostne naprave">
+<!ENTITY viewSecurityDevices.accesskey "v">

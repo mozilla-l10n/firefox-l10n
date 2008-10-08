@@ -1,0 +1,23 @@
+<!ENTITY pluginWizard.title "Storitev iskanja dodatkov">
+<!ENTITY pluginWizard.firstPage.title "Dobrodošli v storitvi iskanja dodatkov">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; išče dodatke ...">
+
+<!ENTITY pluginWizard.availablePluginsPage.title "Dodatki na voljo">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Sledeči dodatki so na voljo:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Kliknite gumb Naprej za namestitev teh dodatkov.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI "Nekateri dodatki lahko zahtevajo dodatne podatke od vas med namestitvijo.">
+
+<!ENTITY pluginWizard.licensePage.title "Licence dodatkov">
+<!ENTITY pluginWizard.licensePage.accept.label "Strinjam se.">
+<!ENTITY pluginWizard.licensePage.deny.label "Ne strinjam se (dodatek se ne bo namestil).">
+
+<!ENTITY pluginWizard.installPluginsPage.title "Nameščanje dodatkov">
+<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName; namešča dodatke ...">
+
+<!ENTITY pluginWizard.finalPage.description.label "&brandShortName; je končal z namestitvijo manjkajočih dodatkov:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label "Več o dodatkih in ročnem iskanju le-teh.">
+<!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; morate ponovno zagnati, preden bodo novi dodatki začeli delovati.">
+  
+<!ENTITY missingPlugin.label "Kliknite sem za prenos dodatka.">

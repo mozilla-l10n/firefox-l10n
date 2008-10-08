@@ -1,0 +1,33 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "Kopije in imeniki">
+<!ENTITY sendingPrefix.label "Pri pošiljanju sporočil samodejno:">
+<!ENTITY fccMailFolder.label "naredi kopijo v:">
+<!ENTITY fccMailFolder.accesskey "P">
+<!ENTITY chooseFolderButton.label "Izberi ...">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Bcc sledeče naslove:">
+<!ENTITY bccAddress.accesskey "B">
+<!ENTITY specialFolderTitle.label "Posebni imeniki">
+<!ENTITY draftMailFolder.label "Shranjuj osnutke sporočil v:">
+<!ENTITY templateMailFolder.label "Shranjuj predloge sporočil v:">
+<!ENTITY saveMessageDlg.label "Pokaži potrditveno okno, ko se sporočilo shrani">
+<!ENTITY saveMessageDlg.accesskey "S">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "imenik &quot;Poslano&quot; na:">
+<!ENTITY sentFolderOn.accesskey "e">
+<!ENTITY sentInOtherFolder.label "ostalo:">
+<!ENTITY sentInOtherFolder.accesskey "O">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "imenik &quot;Osnutki&quot; na:">
+<!ENTITY draftsFolderOn.accesskey "O">
+<!ENTITY draftInOtherFolder.label "ostalo:">
+<!ENTITY draftInOtherFolder.accesskey "t">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "imenik &quot;Predloge&quot; na:">
+<!ENTITY templatesFolderOn.accesskey "m">
+<!ENTITY templateInOtherFolder.label "ostalo:">
+<!ENTITY templateInOtherFolder.accesskey "l">
+<!ENTITY specialFoldersTitle.label "Osnutki in predloge">
+<!ENTITY keepDrafts.label "Ohrani osnutke sporočil v:">
+<!ENTITY keepTempltes.label "Shranjuj predloge sporočil v:">

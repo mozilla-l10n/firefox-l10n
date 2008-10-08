@@ -1,0 +1,66 @@
+<!ENTITY itemFormatting.label             "Urejanje">
+<!ENTITY itemLabels.label                 "Oznake">
+<!ENTITY itemFonts.label                  "Pisave">
+
+<!ENTITY textBegin.label                  "Videz citiranega navadnega besedila">
+<!ENTITY style.label                      "Slog:">
+<!ENTITY style.accesskey                  "s">
+<!ENTITY regularStyle.label               "navadno">
+<!ENTITY bold.label                       "krepko">
+<!ENTITY italic.label                     "poševno">
+<!ENTITY boldItalic.label                 "krepko poševno">
+<!ENTITY size.label                       "Velikost:">
+<!ENTITY size.accesskey                   "V">
+<!ENTITY regularSize.label                "navadna">
+<!ENTITY bigger.label                     "večja">
+<!ENTITY smaller.label                    "manjša">
+<!ENTITY color.label                      "Barva:">
+<!ENTITY color.accesskey                  "B">
+<!ENTITY displayWidth.label               "Sporočila v navadnem besedilu">
+<!ENTITY plainText.label				          "Uporabi naslednjo pisavo:">
+<!ENTITY displayText.label				        "Ob prikazu citiranega dela besedila sporočila:">
+<!ENTITY viewingPlainText.label			      "Ob prikazu sporočil v navadnem besedilu:">
+<!ENTITY fixedWidth.label                 "pisavo stalne širine">
+<!ENTITY fixedWidth.accesskey             "s">
+<!ENTITY variableWidth.label              "pisavo spremenljive širine">
+<!ENTITY variableWidth.accesskey          "p">
+<!ENTITY readingMessagesHeader.label      "Za vhodna sporočila">
+<!ENTITY messageWrapping.label            "Prilagajanje sporočila oknu">
+<!ENTITY wrapInMsg.label                  "Prilagodi besedilo širini okna">
+<!ENTITY wrapInMsg.accesskey              "l">
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY convertEmoticons.label           "Prikaži smeške kot slike">
+<!ENTITY convertEmoticons.accesskey       "s">
+<!ENTITY htmlColors.label                 "Sporočila HTML">
+<!ENTITY overrideSender.label             "Ob prikazu sporočil HTML messages uporabi sledeče:">
+<!ENTITY overrideSender.accesskey         "e"> 
+<!ENTITY  textColor.label                 "Barva besedila:">
+<!ENTITY  textColor.accesskey             "b">
+<!ENTITY  backgroundColor.label           "Barva ozadja:">
+<!ENTITY  backgroundColor.accesskey       "o">
+
+<!-- labels -->
+<!ENTITY labelsSettings.label       "Oznake">
+<!ENTITY displayLabelsText.label    "Z oznakami lahko kategorizirate svoja sporočila.">
+<!ENTITY restoreDefaults.label      "Ponastavi">
+<!ENTITY restoreDefaults.accesskey  "n">
+
+<!-- Fonts -->
+<!ENTITY fontsDescription.label       "Določite pisave, ki naj jih uporablja &brandShortName;.">
+<!ENTITY fontsCaption.label      "Pisave">
+<!ENTITY fontOptions.accesskey   "P">
+<!ENTITY fontOptions.label       "Pisave ...">
+
+<!-- Language settings -->
+
+<!ENTITY sendDefaultCharset.label         "Izhodna pošta:">
+<!ENTITY sendDefaultCharset.accesskey     "i">
+<!ENTITY languagesTitle.label				  "Nabori znakov">
+<!ENTITY composingDescription.label       "Nastavite privzete nabore znakov za pošiljanje in prejemanje pošte.">
+
+<!ENTITY viewDefaultCharsetList.label     "Vhodna pošta:">
+<!ENTITY viewDefaultCharsetList.accesskey	"v">
+<!ENTITY forceCharsetOverride.label       "Uporabi privzeti nabor znakov za vsa vhodna sporočila">
+<!ENTITY forceCharsetOverride.accesskey   "p">
+<!ENTITY replyInDefaultCharset.label      "Uporabi privzeti nabor znakov za odgovore">
+<!ENTITY replyInDefaultCharset.accesskey   "o">

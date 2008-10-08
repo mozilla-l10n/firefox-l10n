@@ -1,0 +1,73 @@
+<!-- these things need to move into utilityOverlay.xul -->
+<!ENTITY  offlineGoOfflineCmd.label                 "Brez povezave">
+<!ENTITY  offlineGoOfflineCmd.accesskey             "v">
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
+<!ENTITY fileMenu.label					"Datoteka"> 
+<!ENTITY fileMenu.accesskey				"d">
+<!ENTITY newMenu.label						"Novo">
+<!ENTITY newMenu.accesskey					"N">
+
+<!ENTITY editMenu.label					"Urejanje"> 
+<!ENTITY editMenu.accesskey				"e"> 
+<!ENTITY undoCmd.label						"Razveljavi">  
+<!ENTITY undoCmd.key						"Z">  
+<!ENTITY undoCmd.accesskey					"z"> 
+<!ENTITY redoCmd.label						"Ponovi">  
+<!ENTITY redoCmd.key						"Y">  
+<!ENTITY redoCmd.accesskey					"o"> 
+<!ENTITY cutCmd.label						"Izreži">  
+<!ENTITY cutCmd.key							"X">  
+<!ENTITY cutCmd.accesskey					"I"> 
+<!ENTITY copyCmd.label						"Kopiraj">  
+<!ENTITY copyCmd.key						"C">  
+<!ENTITY copyCmd.accesskey					"K"> 
+<!ENTITY pasteCmd.label						"Prilepi">  
+<!ENTITY pasteCmd.key						"V">  
+<!ENTITY pasteCmd.accesskey					"p"> 
+<!ENTITY deleteCmd.label					"Izbriši">  
+<!ENTITY deleteCmd.key						"D">  
+<!ENTITY deleteCmd.accesskey				"b"> 
+<!ENTITY selectAllCmd.label					"Izberi vse">  
+<!ENTITY selectAllCmd.key					"A">  
+<!ENTITY selectAllCmd.accesskey				"v"> 
+<!ENTITY preferencesCmd.label				"Možnosti ...">
+<!ENTITY preferencesCmd.accesskey			"M"> 
+<!ENTITY preferencesCmdUnix.label       "Nastavitve">
+<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+
+<!ENTITY findTypeTextCmd.label "Najdi besedilo med tipkanjem">
+<!ENTITY findTypeTextCmd.accesskey "d">
+
+<!ENTITY viewMenu.label					"Pogled"> 
+<!ENTITY viewMenu.accesskey				"p"> 
+<!ENTITY viewToolbarsMenu.label				"Pokaži ali skrij"> 
+<!ENTITY viewToolbarsMenu.accesskey			"k"> 
+<!ENTITY showTaskbarCmd.label					"Vrstica stanja">  
+<!ENTITY showTaskbarCmd.accesskey				"S"> 
+
+<!ENTITY direct.label                                   "Na mreži (brez proxyja)">
+<!ENTITY direct.accesskey                               "n">
+<!ENTITY manual.label                                   "Na mreži (ročni proxy)">
+<!ENTITY manual.accesskey                               "m">
+<!ENTITY pac.label                                      "Na mreži (samodejni proxy)">
+<!ENTITY pac.accesskey                                  "a">
+
+<!ENTITY proxy.label                                    "Nastavitve proxyja ...">
+<!ENTITY proxy.accesskey                                "N">
+
+<!ENTITY findTypeTextCmd.key        "/">
+<!ENTITY findTypeLinksCmd.key       "'">
+
+<!ENTITY closeCmd.label			"Zapri">  
+<!ENTITY closeCmd.key			"W">  
+<!ENTITY closeCmd.accesskey		"Z">
+
+<!ENTITY quitApplicationCmd.label	"Izhod"> 
+<!ENTITY quitApplicationCmd.key		"Q"> 
+<!ENTITY quitApplicationCmd.accesskey	"I">
+
+<!ENTITY quitApplicationCmdUnix.label	"Izhod"> 
+<!ENTITY quitApplicationCmdUnix.accesskey	"I">
+

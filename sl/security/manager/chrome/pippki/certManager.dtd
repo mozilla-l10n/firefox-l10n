@@ -1,0 +1,147 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is mozilla.org code.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Ian McGreer <mcgreer@netscape.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY certmgr.title "Certificate Manager">
+
+<!ENTITY certmgr.tab.mine "Vaši certifikati">
+<!ENTITY certmgr.tab.others2 "Ljudje">
+<!ENTITY certmgr.tab.websites3 "Strežniki">
+<!ENTITY certmgr.tab.ca "Overitelji">
+<!ENTITY certmgr.tab.orphan2 "Drugi">
+
+<!ENTITY certmgr.ca.builtins "Vgrajeni overitelji">
+<!ENTITY certmgr.ca.mycas "Overitelji, ki jih upravljate">
+
+<!ENTITY certmgr.mine "Imate certifikate naslednjih organizacij, ki predstavljajo vas:">
+<!ENTITY certmgr.others "Imate certifikate, ki predstavljajo naslednje ljudi:">
+<!ENTITY certmgr.websites2 "Imate certifikate, ki predstavljajo naslednje strežnike:">
+<!ENTITY certmgr.cas "Imate certifikate, ki predstavljajo naslednje overitelje:">
+<!ENTITY certmgr.orphans "Imate certifikate, ki ne spadajo v nobeno izmed drugih kategorij:">
+
+<!ENTITY certmgr.detail.general_tab.title "Splošno">
+<!ENTITY certmgr.detail.general_tab.accesskey "S">
+<!ENTITY certmgr.detail.prettyprint_tab.title "Podrobnosti">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
+
+<!ENTITY certmgr.pending.label "Poteka preverjanje certifikatov…">
+<!ENTITY certmgr.subjectinfo.label "Izdano za:">
+<!ENTITY certmgr.issuerinfo.label "Izdajatelj:">
+<!ENTITY certmgr.validity.label "Veljavnost">
+<!ENTITY certmgr.fingerprints.label "Prstni odtisi">
+<!ENTITY certmgr.certdetail.title "Podrobnosti certifikata">
+<!ENTITY certmgr.certdetail.cn "Splošno ime (CN):">
+<!ENTITY certmgr.certdetail.o "Organizacija (O)">
+<!ENTITY certmgr.certdetail.ou "Organizacijska enota (OU)">
+<!ENTITY certmgr.certdetail.serialnumber "Serijska številka">
+<!ENTITY certmgr.certdetail.sha1fingerprint "Prstni odtis SHA1">
+<!ENTITY certmgr.certdetail.md5fingerprint "Prstni odtis MD5">
+
+<!ENTITY certmgr.editcert.title "Urejanje nastavitev varnostnih certifikatov">
+<!ENTITY certmgr.editcacert.title "Urejanje nastavitev zaupanja overiteljem (CA)">
+<!ENTITY certmgr.editsslcert.title "Urejanje nastavitev zaupanja spletnim stranem">
+<!ENTITY certmgr.editcert.edittrust "Spremeni nastavitve zaupanja:">
+<!ENTITY certmgr.editcert.trustssl "Ta certifikat lahko predstavlja spletne strani.">
+<!ENTITY certmgr.editcert.trustemail "Ta certifikat lahko predstavlja uporabnike e-pošte.">
+<!ENTITY certmgr.editcert.trustobjsign "Ta certifikat lahko predstavlja izdelovalce programov.">
+<!ENTITY certmgr.editsslcert.edittrust "Urejanje nastavitev zaupanja certifikata:">
+<!ENTITY certmgr.editsslcert.dotrust "Zaupaj avtentičnosti tega certifikata.">
+<!ENTITY certmgr.editsslcert.donttrust "Ne zaupaj avtentičnosti tega certifikata.">
+<!ENTITY certmgr.editemailcert.title "Urejanje nastavitev zaupanja e-poštnim certifikatom">
+<!ENTITY certmgr.editemailcert.edittrust "Urejanje nastavitev zaupanja certifikata:">
+<!ENTITY certmgr.editemailcert.dotrust "Zaupaj verodostojnosti tega certifikata.">
+<!ENTITY certmgr.editemailcert.donttrust "Ne zaupaj verodostojnosti tega certifikata.">
+
+<!ENTITY certmgr.deletecert.title "Izbriši certifikat">
+<!ENTITY certmgr.deletecert.beforename "Zahtevali ste izbris tega certifikata:">
+<!ENTITY certmgr.deletecert.aftername "Ste prepričani, da želite izbrisati ta certifikat?">
+<!ENTITY certmgr.deleteusercert.title "Izbris certifikata">
+<!ENTITY certmgr.deleteusercert.beforename "Zahtevali ste izbris certifikata:">
+<!ENTITY certmgr.deleteusercert.aftername "Ko bo certifikat izbrisan, ne boste mogli brati pošte, šifrirane z njim.">
+
+<!ENTITY certmgr.certname "Ime certifikata">
+<!ENTITY certmgr.certserver "Strežnik">
+<!ENTITY certmgr.typesofoverrides "Izjeme">
+<!ENTITY certmgr.override_lifetime "Življenjska doba">
+<!ENTITY certmgr.tokenname "Varnostna naprava">
+<!ENTITY certmgr.purpose "Nameni">
+<!ENTITY certmgr.issued "Izdan dne">
+<!ENTITY certmgr.expires "Preteče dne">
+<!ENTITY certmgr.email "E-mail naslov">
+<!ENTITY certmgr.serial "Serijska številka">
+
+<!ENTITY certmgr.close.label "Zapri">
+<!ENTITY certmgr.close.accesskey "Z">
+<!ENTITY certmgr.view2.label "Pogled…">
+<!ENTITY certmgr.view2.accesskey "P">
+<!ENTITY certmgr.edit2.label "Urejanje…">
+<!ENTITY certmgr.edit2.accesskey "E">
+<!ENTITY certmgr.editca.label "Spremeni zaupanje overitelja">
+<!ENTITY certmgr.editca.accesskey "s">
+<!ENTITY certmgr.add.label "Dodaj">
+<!ENTITY certmgr.add.accesskey "D">
+<!ENTITY certmgr.export.label "Izvozi…">
+<!ENTITY certmgr.export.accesskey "i">
+<!ENTITY certmgr.delete2.label "Zbriši…">
+<!ENTITY certmgr.delete2.accesskey "Z">
+<!ENTITY certmgr.backup2.label "Varnostna kopija…">
+<!ENTITY certmgr.backup2.accesskey "K">
+<!ENTITY certmgr.backupall2.label "Varnostna kopija vseh">
+<!ENTITY certmgr.backupall2.accesskey "v">
+<!ENTITY certmgr.restore2.label "Uvozi…">
+<!ENTITY certmgr.restore2.accesskey "u">
+<!ENTITY certmgr.details.label "Polja certifikata">
+<!ENTITY certmgr.details.accesskey "O">
+<!ENTITY certmgr.fields.label "Vrednost polja">
+<!ENTITY certmgr.fields.accesskey "R">
+<!ENTITY certmgr.hierarchy.label "Hierarhija certifikatov">
+<!ENTITY certmgr.hierarchy.accesskey "H">
+<!ENTITY certmgr.addException.label "Dodaj izjemo…">
+<!ENTITY certmgr.addException.accesskey "i">
+
+<!ENTITY exceptionMgr.title "Dodaj varnostno izjemo">
+<!ENTITY exceptionMgr.exceptionButton "Potrdi varnostno izjemo">
+<!ENTITY exceptionMgr.exceptionButtonAccess "z">
+<!ENTITY exceptionMgr.supplementalWarning "Uveljavljene banke, trgovine in druge javne strani vas ne bodo prosile za to.">
+<!ENTITY exceptionMgr.certlocation.caption2 "Strežnik">
+<!ENTITY exceptionMgr.certlocation.url "Lokacija:">
+<!ENTITY exceptionMgr.certlocation.download "Dobi certifikat">
+<!ENTITY exceptionMgr.certlocation.accesskey "G">
+<!ENTITY exceptionMgr.certstatus.caption "Stanje certifikata">
+<!ENTITY exceptionMgr.certstatus.viewCert "Pogled…">
+<!ENTITY exceptionMgr.certstatus.accesskey "V">
+<!ENTITY exceptionMgr.permanent.label "Trajno shrani izjemo">
+<!ENTITY exceptionMgr.permanent.accesskey "T">

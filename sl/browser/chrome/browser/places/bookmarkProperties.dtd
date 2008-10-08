@@ -1,0 +1,21 @@
+<!ENTITY bookmarks.name.label "Ime:">
+<!ENTITY bookmarks.name.accesskey "I">
+<!ENTITY bookmarks.location.label "Lokacija:">
+<!ENTITY bookmarks.location.accesskey "L">
+<!ENTITY bookmarks.keyword.label "Ključna beseda:">
+<!ENTITY bookmarks.keyword.accesskey "K">
+<!ENTITY bookmarks.description.label "Opis:">
+<!ENTITY bookmarks.description.accesskey "O">
+<!ENTITY bookmarks.liveTitlesSeparator.label "Živi napisi">
+<!ENTITY bookmarks.createIn.label "Ustvari v:">
+<!ENTITY bookmarks.createIn.accesskey "U">
+<!ENTITY bookmarks.feed_location.label "Lokacija vira:">
+<!ENTITY bookmarks.feed_location.accesskey "V">
+<!ENTITY bookmarks.site_location.label "Lokacija strani:">
+<!ENTITY bookmarks.site_location.accesskey "S">
+<!ENTITY bookmarks.loadInSidebar.label "Naloži zaznamek v stransko vrstico">
+<!ENTITY bookmarks.loadInSidebar.accesskey "o">
+<!ENTITY bookmarks.expanderDown.tooltip "Prikaži vse mape zaznamkov">
+<!ENTITY bookmarks.expanderUp.tooltip "Skrij">
+<!ENTITY bookmarks.newFolderButton.label "Nova mapa">
+<!ENTITY bookmarks.newFolderButton.accesskey "o">

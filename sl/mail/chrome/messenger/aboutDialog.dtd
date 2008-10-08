@@ -1,0 +1,7 @@
+<!ENTITY aboutDialog.title      "O &brandShortName;u">
+<!ENTITY credits                "O avtorjih">
+<!ENTITY aboutLink              "&lt; O &brandShortName;u">
+<!ENTITY aboutVersion           "različice">
+<!ENTITY copyrightText          "&#169;1998-2005 Sodelavci. Vse pravice pridržane. Mozilla Thunderbird in logotip 
+                                 Thunderbird sta zaščiteni znamki The Mozilla Foundation. Vse pravice
+                                 pridržane.">

@@ -1,0 +1,7 @@
+<!ENTITY startDescription.label "Spletna stran je poskušala odpreti nezahtevano okno! Vsakokrat, ko &brandShortName; prepreči tovrstna okna, ki se pojavljajo brez vašega dovoljenja, boste videli ikono v vrstici stanja v opozorilo.">
+
+<!ENTITY endDescription.label "Če želite videti, katerim stranem je bilo preprečeno prikazovanje nezahtevanih oken, lahko kliknete na to ikono. Tu lahko tem stranem tudi posebej dovolite odpiranje tovrstnih oken, če mislite, da so potrebna za pravilno delovanje strani.">
+
+<!ENTITY caption.label "O prepovedovanju nezahtevanih oken">
+
+<!ENTITY done.label "Končano">

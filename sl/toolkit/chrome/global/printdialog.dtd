@@ -1,0 +1,28 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "Natisni">
+
+<!ENTITY printDialog.title "Tiskanje">
+
+<!ENTITY fpDialog.title "Shranjevanje datoteke">
+
+<!ENTITY fileCheck.label "Natisni v datoteko">
+<!ENTITY propertiesButton.label "Lastnosti ...">
+<!ENTITY descText.label "Opis tiskalnika:">
+<!ENTITY printer.label "Tiskalnik">
+<!ENTITY printerInput.label "Tiskalnik:">
+
+<!ENTITY printrangeGroup.label "Obseg tiskanja">
+<!ENTITY allpagesRadio.label "Vse strani">
+<!ENTITY rangeRadio.label "Strani">
+<!ENTITY frompageInput.label "iz">
+<!ENTITY topageInput.label "v">
+<!ENTITY selectionRadio.label "Izbrano">
+
+<!ENTITY copies.label "Kopije">
+<!ENTITY numCopies.label "Število kopij:">
+
+<!ENTITY printframeGroup.label "Tiskanje okvirjev">
+<!ENTITY aslaidoutRadio.label "Kot postavljeno na zaslonu">
+<!ENTITY selectedframeRadio.label "Izbrani okvir">
+<!ENTITY eachframesepRadio.label "Vsak okvir posebej">

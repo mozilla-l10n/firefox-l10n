@@ -1,0 +1,55 @@
+<!ENTITY history.label "Zgodovina">
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
+-->
+
+<!ENTITY rememberDaysBefore.label "Obdrži zgodovino vsaj">
+<!ENTITY rememberDaysBefore.accesskey "z">
+<!ENTITY rememberDaysAfter2.label "dni">
+
+<!ENTITY rememberForms.label "Shrani podatke, ki jih vnesem v obrazce na spletnih straneh in v vrstici iskanja.">
+<!ENTITY rememberForms.accesskey "p">
+
+<!ENTITY rememberDownloads.label "Zapomni si prenose datotek.">
+<!ENTITY rememberDownloads.accesskey "d">
+
+
+<!ENTITY cookies.label "Piškoti">
+
+<!ENTITY acceptCookies.label "Dovoli stranem, da ustvarijo piškote.">
+<!ENTITY acceptCookies.accesskey "p">
+
+<!ENTITY acceptThirdParty.label "Sprejmi piškote tretjih strani">
+<!ENTITY acceptThirdParty.accesskey "p">
+
+<!ENTITY keepUntil.label "Obdrži jih:">
+<!ENTITY keepUntil.accesskey "O">
+
+<!ENTITY expire.label "dokler ne pretečejo">
+<!ENTITY close.label "dokler ne zaprem &brandShortName;a">
+<!ENTITY askEachTime.label "vsakokrat me vprašaj">
+
+<!ENTITY cookieExceptions.label "Izjeme ...">
+<!ENTITY cookieExceptions.accesskey "Z">
+
+<!ENTITY showCookies.label "Pokaži piškote ...">
+<!ENTITY showCookies.accesskey "K">
+
+
+<!ENTITY privateData.label "Zasebni podatki">
+
+<!ENTITY alwaysClear.label "Vselej počisti zasebne podatke, ko se zapre &brandShortName;">
+<!ENTITY alwaysClear.accesskey "v">
+
+<!ENTITY askBeforeClear.label "Vprašaj me pred čiščenjem zasebnih podatkov">
+<!ENTITY askBeforeClear.accesskey "P">
+
+<!ENTITY clearDataSettings.label "Nastavitve ...">
+<!ENTITY clearDataSettings.accesskey "n">
+
+<!ENTITY clearDataNow.label "Počisti zdaj ...">
+<!ENTITY clearDataNow.label2 "Počisti zdaj">
+<!ENTITY clearDataNow.accesskey "Z">

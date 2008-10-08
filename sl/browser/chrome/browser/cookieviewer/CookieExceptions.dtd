@@ -1,0 +1,10 @@
+<!ENTITY window.title                 "Izjeme">
+<!ENTITY treehead.sitename.label      "Stran">
+<!ENTITY treehead.status.label        "Stanje">
+<!ENTITY addpermission.label          "Nova stran">
+<!ENTITY removepermission.label       "Odstrani stran">
+<!ENTITY removeallpermissions.label   "Odstrani vse strani">
+<!ENTITY address.label                "Naslov strani:">
+<!ENTITY block.label                  "Prepovej">
+<!ENTITY session.label                "Dovoli v tej seji">
+<!ENTITY allow.label                  "Dovoli">

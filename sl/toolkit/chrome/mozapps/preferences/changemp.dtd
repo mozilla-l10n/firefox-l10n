@@ -1,0 +1,9 @@
+<!ENTITY setPassword.title "Sprememba glavnega gesla">
+<!ENTITY setPassword.tokenName.label "Varnostna naprava">
+<!ENTITY setPassword.oldPassword.label "Trenutno geslo:">
+<!ENTITY setPassword.newPassword.label "Vnesite novo geslo:">
+<!ENTITY setPassword.reenterPassword.label "Ponovno vnesite novo geslo:">
+<!ENTITY setPassword.meter.label "Merilnik kakovosti gesla">
+<!ENTITY setPassword.meter.loading "Nalagam">
+<!ENTITY masterPasswordDescription.label "Glavno geslo ščiti podatke, kot so gesla za spletne strani. Če ustvarite glavno geslo, ga boste morali vnesti enkrat na sejo, ko &brandShortName; prvikrat poskusi uporabiti shranjene podatke.">
+<!ENTITY masterPasswordWarning.label "Prosim, prepričajte se, da si boste glavno geslo zapomnili, sicer ne boste mogli dostopati do z njim zaščitenih podatkov.">

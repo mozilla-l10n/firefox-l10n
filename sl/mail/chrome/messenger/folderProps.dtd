@@ -1,0 +1,94 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David Bienvenu <bienvenu@netscape.com>
+   -   Mohan Bhamidipati <mohanb@netscape.com>
+   -   Lorenzo Colitti   <lorenzo@colitti.com>
+   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY folderProps.windowtitle.label           "Lastnosti">
+
+<!ENTITY generalInfo.label                       "Splošne informacije">
+<!ENTITY folderCharsetTab.label                  "Privzeti nabor znakov:">
+<!ENTITY folderCharsetTab.accesskey              "n">
+<!ENTITY folderCharsetOverride.label             "Uporabi privzeti nabor za vsa sporočila v imeniku (posamezne nastavitve nabora znakov in samozaznavanja bodo prezrte)">
+<!ENTITY folderCharsetOverride.accesskey         "v">
+
+<!ENTITY retention.label "Zadrževanje sporočil">
+<!ENTITY retentionUseDefault.label  "Uporabi privzete nastavitve strežnika">
+<!ENTITY retentionUseDefault.accesskey "p">
+<!ENTITY days.label "dni">
+<!ENTITY daysOld.label "dni">
+<!ENTITY message.label "sporočil">
+<!ENTITY retentionCleanup.label "Če želite prihraniti prostor na disku, se lahko stara sporočila samodejno brišejo.">
+<!ENTITY retentionKeepMsg.label "Izbriši sporočila, starejša od">
+<!ENTITY retentionKeepMsg.accesskey "s">
+<!ENTITY retentionKeepAll.label "Ne izbriši nobenih sporočil">
+<!ENTITY retentionKeepAll.accesskey "n">
+<!ENTITY retentionKeepNew.label "Izbriši vse razen zadnjih">
+<!ENTITY retentionKeepNew.accesskey "z">
+<!ENTITY retentionKeepUnread.label "Vselej izbriši prebrana sporočila">
+<!ENTITY retentionKeepUnread.accesskey "p">
+
+<!ENTITY folderOfflineTab.label                  "Brez povezave">
+<!ENTITY folderCheckForNewMessages.label         "Preglej ta imenik za nova sporočila">
+<!ENTITY folderCheckForNewMessages.accesskey     "p">
+
+<!ENTITY offlineFolder.check.label               "Izberi ta imenik za uporabo v stanju brez povezave">
+<!ENTITY offlineFolder.check.accesskey           "S">
+<!ENTITY offlineFolder.button.label              "Prenesi zdaj">
+<!ENTITY offlineFolder.button.accesskey          "z">
+
+<!ENTITY selectofflineNewsgroup.check.label      "Izberi to novičarsko skupino za uporabo v stanju brez povezave">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "b">
+<!ENTITY UseDefaultofflineNewsgroup.check.label  "Uporabi privzeto iz nastavitev računa">
+<!ENTITY offlineNewsgroup.button.label           "Prenesi zdaj">
+<!ENTITY offlineNewsgroup.button.accesskey       "p">
+
+<!ENTITY folderProps.information.label           "Informacije:">
+<!ENTITY folderProps.name.label                  "Ime:">
+<!ENTITY folderProps.name.accesskey              "I">
+
+<!ENTITY folderSharingTab.label                  "Skupna raba">
+<!ENTITY privilegesDesc.label                    "Dovoli souporabo tega in ostalih imenikov omrežnim uporabnikom in prikaži in nastavi dostopne pravice">
+<!ENTITY privileges.button.label                 "Pravice ...">
+<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY permissionsDesc.label                   "Imate naslednja dovoljenja:">
+<!ENTITY folderType.label                        "Vrsta imenika:">
+
+<!ENTITY folderQuotaTab.label                    "Vsebinska omejitev">
+<!ENTITY folderQuotaRoot.label                   "Koren vsebinske omejitve:">
+<!ENTITY folderQuotaUsage.label                  "Poraba:">
+<!ENTITY folderQuotaStatus.label                 "Stanje:">

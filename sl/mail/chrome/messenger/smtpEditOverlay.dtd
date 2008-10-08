@@ -1,0 +1,23 @@
+<!ENTITY settings.caption "Nastavitve">
+<!ENTITY security.caption "Varnost in avtentikacija">
+<!ENTITY serverName.label "Ime strežnika:">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY serverDescription.label "Opis:">
+<!ENTITY serverDescription.accesskey "O">
+<!ENTITY serverPort.label "Vrata:">
+<!ENTITY serverPort.accesskey "V">
+<!ENTITY alwaysUseUsername.label "Uporabi ime in geslo">
+<!ENTITY alwaysUseUsername.accesskey "U">
+<!ENTITY userName.label "Uporabniško ime:">
+<!ENTITY userName.accesskey "m">
+<!ENTITY isSecure.label "Uporabi varno povezavo:">
+<!ENTITY neverSecure.label "Ne">
+<!ENTITY neverSecure.accesskey "N">
+<!ENTITY sometimesSecure.label "TLS, če je na voljo">
+<!ENTITY sometimesSecure.accesskey "j">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSmtpS.label "SSL">
+<!ENTITY alwaysSmtpS.accesskey "L">
+<!ENTITY smtpEditTitle.label "Strežnik SMTP">
+<!ENTITY serverPortDefault.label "Privzeto:">

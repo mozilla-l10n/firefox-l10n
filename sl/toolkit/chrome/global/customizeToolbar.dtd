@@ -1,0 +1,12 @@
+<!ENTITY dialog.title "Urejanje orodne vrstice">
+<!ENTITY dialog.style "width: 650px; height: 400px;">
+<!ENTITY instructions.description "Elemente lahko dodate oziroma odstranite tako, da jih povlečete na orodno vrstico oziroma z nje.">
+<!ENTITY show.label "Prikaži:">
+<!ENTITY iconsAndText.label "Oboje">
+<!ENTITY icons.label "Ikone">
+<!ENTITY text.label "Besedilo">
+<!ENTITY useSmallIcons.label "Majhne ikone">
+<!ENTITY restoreDefaultSet.label "Privzeta postavitev">
+<!ENTITY addNewToolbar.label "Nova vrstica">
+<!ENTITY saveChanges.label "Končaj">
+<!ENTITY undoChanges.label "Razveljavi spremembe">

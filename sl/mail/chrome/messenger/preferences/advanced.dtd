@@ -1,0 +1,80 @@
+<!ENTITY itemGeneral.label       "Splošno">
+<!ENTITY itemUpdate.label        "Posodobitev">
+<!ENTITY itemOffline.label       "Delo brez povezave in disk">
+
+<!-- General Settings -->
+
+<!ENTITY showCondensedAddresses.label  "Za ljudi v mojem adresarju prikaži le njihovo ime">
+<!ENTITY showCondensedAddresses.accesskey "p">
+
+<!-- LOCALIZATION NOTE (markAsRead.label): This will concatenate with
+     "xxx seconds before marking a message as read", using a number and
+     (markAsReadEnd.label). -->
+<!ENTITY markAsRead.label              "Počakaj">
+<!ENTITY markAsRead.accesskey          "P">
+<!ENTITY markAsReadEnd.label           "sekund pred označitvijo sporočila za prebranega">
+<!ENTITY markAsReadEnd.accesskey       "d">
+<!ENTITY showFolderColumns.label       "Prikaži razširjene stolpce v predelu imenikov">
+<!ENTITY showFolderColumns.accesskey   "i">
+<!ENTITY rememberLastMsg.label         "Zapomni si nazadnje izbrano sporočilo">
+<!ENTITY rememberLastMsg.accesskey     "Z">
+<!ENTITY reuseExp.label                "Odpri nova sporočila v:">
+<!ENTITY reuseExpRadio0.label          "novem sporočilnem oknu">
+<!ENTITY reuseExpRadio0.accesskey      "n">
+<!ENTITY reuseExpRadio1.label          "obstoječem sporočilnem oknu">
+<!ENTITY reuseExpRadio1.accesskey      "o">
+<!ENTITY connectionTimeout.label       "Najdaljši čas poskušanja vzpostavitve povezave: ">
+<!ENTITY connectionTimeout.accesskey   "N">
+<!ENTITY connectionSeconds.label       "sekund">
+<!ENTITY configEditDesc.label          "Napredne nastavitve">
+<!ENTITY configEdit.label              "Urejevalnik nastavitev ...">
+<!ENTITY configEdit.accesskey          "U">
+
+<!-- Update -->
+<!ENTITY autoCheck.label                "Samodejno preverjaj, če obstajajo posodobitve za:">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "T">
+<!ENTITY enableExtensionUpdate.label    "nameščene razširitve in teme">
+<!ENTITY enableExtensionUpdate.accesskey "z">
+<!ENTITY checkNow.label                 "Preveri zdaj ...">
+<!ENTITY appCheckNow.accesskey          "P">
+<!ENTITY extensionsCheckNow.accesskey   "d">
+<!ENTITY whenUpdatesFound.label         "Če obstajajo posodobitve za &brandShortName;:">
+<!ENTITY modeAskMe.label                "me vprašaj, kaj storiti">
+<!ENTITY modeAskMe.accesskey            "v">
+<!ENTITY modeAutomatic.label            "samodejno prenesi in namesti posodobitev">
+<!ENTITY modeAutomatic.accesskey        "p">
+<!ENTITY modeAutoWarn.label             "opozori me, če bo to onemogočilo nameščene razširitve in teme">
+<!ENTITY modeAutoWarn.accesskey         "o">
+<!ENTITY showUpdates.label              "Prikaži zgodovino posodobitev">
+<!ENTITY showUpdates.accesskey          "s">
+
+
+<!-- Offline and Disk Space -->
+<!ENTITY offline.label  "Delo brez povezave">
+<!ENTITY textStartUp   "Ob zagonu:">
+<!ENTITY radioRememberPrevState "upoštevaj prejšnje stanje povezave">
+<!ENTITY radioRememberPrevState.accesskey "u">
+<!ENTITY radioAskMe "me vprašaj za stanje povezave">
+<!ENTITY radioAskMe.accesskey "v">
+<!ENTITY radioAlwaysOnline "vselej začni delo s povezavo">
+<!ENTITY radioAlwaysOnline.accesskey "z">
+
+<!ENTITY textGoingOnline "Naj ob začetku dela s povezavo pošljem neposlana sporočila?">
+<!ENTITY radioAutoSend "Da">
+<!ENTITY radioAutoSend.accesskey "D">
+<!ENTITY radioNotSend "Ne">
+<!ENTITY radioNotSend.accesskey "N">
+<!ENTITY radioAskUnsent "Vprašaj me">
+<!ENTITY radioAskUnsent.accesskey "V">
+<!ENTITY textGoingOffline "Naj pred začetkom dela brez povezave prenesem sporočila?">
+<!ENTITY radioAutoDownload "Da">
+<!ENTITY radioAutoDownload.accesskey "a">
+<!ENTITY radioNotDownload "Ne">
+<!ENTITY radioNotDownload.accesskey "e">
+<!ENTITY radioAskDownload "Vprašaj me">
+<!ENTITY radioAskDownload.accesskey "p">
+<!ENTITY Diskspace "Prostor na disku">
+<!ENTITY offlineCompact.label "Stisni imenike, ko to prihrani več kot">
+<!ENTITY offlineCompact.accesskey "S">
+<!ENTITY kb.label "kB">

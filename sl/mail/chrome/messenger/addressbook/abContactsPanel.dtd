@@ -1,0 +1,16 @@
+
+<!ENTITY addressbookPicker.label            "Adresar:">
+<!ENTITY searchInput.label                  "Išči po:">
+<!ENTITY SearchNameOrEmail.label            "Ime ali e-pošta">
+
+<!ENTITY addtoToFieldMenu.label             "Dodaj v polje Za">
+<!ENTITY addtoCcFieldMenu.label             "Dodaj v polje Cc">
+<!ENTITY addtoBccFieldMenu.label            "Dodaj v polje Bcc">
+
+<!ENTITY toButton.label                     "Dodaj v Za:">
+<!ENTITY ccButton.label                     "Dodaj v Cc:">
+
+
+
+
+

@@ -1,0 +1,51 @@
+<!ENTITY window.title "Pravila za filtriranje">
+<!ENTITY subject.label "zadeva">
+<!ENTITY sender.label "pošiljatelj">
+<!ENTITY date.label "datum">
+<!ENTITY anyText.label "katerokoli besedilo">
+<!ENTITY keyword.label "ključna beseda">
+<!ENTITY age.label "starost v dneh">
+<!ENTITY to.label "za">
+
+<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
+<!ENTITY cc.label "Cc">
+
+<!ENTITY status.label "stanje">
+<!ENTITY priority.label "prednost">
+<!ENTITY body.label "telo">
+<!ENTITY contains.label "vsebuje">
+<!ENTITY nocontains.label "ne vsebuje">
+<!ENTITY filterName.label "Ime filtra:">
+<!ENTITY filterName.accesskey "i">
+
+<!ENTITY junk.label "Neželeno">
+<!ENTITY notJunk.label "Ni neželeno">
+
+<!ENTITY lowestPriorityCmd.label "najnižja">
+<!ENTITY lowPriorityCmd.label "nizka">
+<!ENTITY normalPriorityCmd.label "navadna">
+<!ENTITY highPriorityCmd.label "visoka">
+<!ENTITY highestPriorityCmd.label "najvišja">
+
+<!ENTITY conditionDesc.label "Za prispela sporočila, pri katerih se:">
+<!ENTITY filterActionDesc.label "Izvedi to dejanje:">
+<!ENTITY filterActionDesc.accesskey "i">
+
+<!ENTITY newFolderButton.label "Nov imenik ...">
+<!ENTITY newFolderButton.accesskey "N">
+
+<!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "Premakni sporočilo v">
+<!ENTITY copyMessage.label "Kopiraj sporočilo v">
+<!ENTITY forwardTo.label "Posreduj na naslov">
+<!ENTITY replyWithTemplate.label "Odgovori s predlogo">
+<!ENTITY markMessageRead.label "Označi sporočilo kot prebrano">
+<!ENTITY markMessageFlagged.label "Označi sporočilo z zastavico">
+<!ENTITY labelMessage.label "Označi sporočilo z barvo">
+<!ENTITY setPriority.label "Spremeni prednost v">
+<!ENTITY setJunkScore.label "Nastavi stanje neželenega na">
+<!ENTITY deleteMessage.label "Izbriši sporočilo">
+<!ENTITY deleteFromPOP.label "Izbriši s strežnika POP">
+<!ENTITY fetchFromPOP.label "Prenesi telo sporočila s strežnika POP">
+<!ENTITY ignoreThread.label "Ignoriraj nit">
+<!ENTITY watchThread.label "Spremljaj nit">

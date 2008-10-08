@@ -1,0 +1,7 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY mailViewSetupTitle.label "Nastavitve pogledov sporočil">
+<!ENTITY mailViewHeading.label "Ime pogleda sporočil:">
+<!ENTITY mailViewHeading.accesskey "e">
+<!ENTITY searchTermCaption.label "Ko je izbran ta pogled, prikaži le sporočila, ki:">
+

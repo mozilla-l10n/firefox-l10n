@@ -1,0 +1,23 @@
+
+<!ENTITY  header2.label             "Domača stran">
+<!ENTITY  location.label            "Naslov(i):">
+<!ENTITY  location.accesskey        "a">
+<!ENTITY  useCurrent.label          "Uporabi trenutno stran">
+<!ENTITY  useCurrent.accesskey      "t">
+<!ENTITY  useCurrentMultiple.label  "Uporabi trenutne strani">
+<!ENTITY  useBookmark.label         "Uporabi zaznamek ...">
+<!ENTITY  useBookmark.accesskey     "z">
+<!ENTITY  useBlank.label            "Uporabi prazno stran">
+<!ENTITY  useBlank.accesskey        "p">
+
+<!ENTITY defaultBrowserGroup.label  "Privzeti brskalnik">
+<!ENTITY checkForDefault.label      "&brandShortName; naj ob zagonu preveri, če je privzeti brskalnik.">
+<!ENTITY checkForDefault.accesskey  "z">
+<!ENTITY checkNow.label             "Preveri zdaj">
+<!ENTITY checkNow.accesskey         "d">
+
+<!ENTITY showConnections.label      "Nastavitve povezave ...">
+<!ENTITY showConnections.accesskey  "o">
+<!ENTITY proxiesInfo.label          "Določite, kako naj se &brandShortName; poveže na internet.">
+<!ENTITY connectionsInfo.caption    "Povezava">
+

@@ -1,0 +1,28 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "Lastnosti tiskalnika">
+
+<!ENTITY paperInput.label "Velikost papirja:">
+
+<!ENTITY plexInput.label "Način plex:">
+
+<!ENTITY resolutionInput.label "Resolucija/Kakovost:">
+
+<!ENTITY cmdInput.label "Ukaz za tiskanje:">
+
+<!ENTITY jobTitleInput.label "Ime naloge:">
+
+<!ENTITY colorGroup.label "Barva:">
+<!ENTITY grayRadio.label "Odtenki sive">
+<!ENTITY colorRadio.label "Barvno">
+
+<!ENTITY colorspaceInput.label "Barvni prostor:">
+
+<!ENTITY fontsGroup.label "Pisave:">
+<!ENTITY downloadFonts.label "Naložim pisave na tiskalnik?">
+
+<!ENTITY edgeMarginInput.label "Velikost roba">
+<!ENTITY topInput.label "Zgoraj:">
+<!ENTITY bottomInput.label "Spodaj:">
+<!ENTITY leftInput.label "Levo:">
+<!ENTITY rightInput.label "Desno:">

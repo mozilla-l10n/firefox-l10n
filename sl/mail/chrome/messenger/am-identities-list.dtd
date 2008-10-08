@@ -1,0 +1,8 @@
+<!ENTITY identitiesListTitle.label "Identitete, povezane s tem računom">
+<!ENTITY identitiesListDesc.label "Podpora večim identitetam">
+<!ENTITY identitiesListAdd.label  "Dodaj ...">
+<!ENTITY identitiesListAdd.accesskey  "d">
+<!ENTITY identitiesListEdit.label "Urejaj ...">
+<!ENTITY identitiesListEdit.accesskey "E">
+<!ENTITY identitiesListDelete.label "Izbriši">
+<!ENTITY identitiesListDelete.accesskey "z">

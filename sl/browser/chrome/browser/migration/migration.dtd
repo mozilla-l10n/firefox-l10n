@@ -1,0 +1,51 @@
+
+<!ENTITY migrationWizard.title "Čarovnik za uvoz">
+
+<!ENTITY importFrom.label "Uvozi možnosti, zaznamke, zgodovino, gesla in ostale podatke iz:">
+<!ENTITY importFromUnix.label "Uvozi nastavitve, zaznamke, zgodovino, gesla in ostale podatke iz:">
+<!ENTITY importFromBookmarks.label "Zaznamke uvozi iz:">
+
+<!ENTITY importFromIE.label "Microsoft Internet Explorerja">
+<!ENTITY importFromIE.accesskey "M">
+<!ENTITY importFromPhoenix.label "Firefoxa 0.8, Firebirda ali Phoenixa">
+<!ENTITY importFromPhoenix.accesskey "P">
+<!ENTITY importFromNothing.label "Ne uvozi ničesar">
+<!ENTITY importFromNothing.accesskey "N">
+<!ENTITY importFromSeamonkey.label "Netscapea 6, 7 ali Mozille 1.x">
+<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromNetscape4.label "Netscapea 4.x">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromOpera.label "Opere">
+<!ENTITY importFromOpera.accesskey "O">
+<!ENTITY importFromCamino.label "Camina">
+<!ENTITY importFromCamino.accesskey "C">
+<!ENTITY importFromSafari.label "Safarija">
+<!ENTITY importFromSafari.accesskey "S">
+<!ENTITY importFromOmniWeb.label "OmniWeba">
+<!ENTITY importFromOmniWeb.accesskey "W">
+<!ENTITY importFromICab.label "iCaba">
+<!ENTITY importFromICab.accesskey "i">
+<!ENTITY importFromKonqueror.label "Konquerorja">
+<!ENTITY importFromKonqueror.accesskey "K">
+<!ENTITY importFromEpiphany.label "Epiphanyja">
+<!ENTITY importFromEpiphany.accesskey "E">
+<!ENTITY importFromGaleon.label "Galeona">
+<!ENTITY importFromGaleon.accesskey "G">
+<!ENTITY importFromHTMLFile.label "From an HTML File">
+<!ENTITY importFromHTMLFile.accesskey "F">
+
+<!ENTITY noMigrationSources.label "Ne najdem nobenega programa z zaznamki, zgodovino ali gesli za uvoz.">
+
+<!ENTITY importSource.title "Uvoz nastavitev in podatkov">
+<!ENTITY importItems.title "Možnosti uvoza">
+<!ENTITY importItems.label "Izberite, kaj želite uvoziti:">
+
+<!ENTITY migrating.title "Uvoz ...">
+<!ENTITY migrating.label "Trenutno se uvaža sledeče ...">
+
+<!ENTITY selectProfile.title "Izbira profila">
+<!ENTITY selectProfile.label "Uvoz je možen iz naslednjih profilov:">
+
+<!ENTITY done.title "Konec uvoza">
+<!ENTITY done.label "Uspešno je bilo uvoženo naslednje:">
+

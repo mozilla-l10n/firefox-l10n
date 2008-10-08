@@ -1,0 +1,17 @@
+<!ENTITY newPagesIn.label "Nove strani odpri v:">
+<!ENTITY inNewWindow.label "novem oknu">
+<!ENTITY inNewWindow.accesskey "o">
+<!ENTITY inNewTab.label "novem zavihku">
+<!ENTITY inNewTab.accesskey "z">
+
+<!ENTITY warnCloseMultipleTabs.label "Opozori me ob zapiranju večih zavihkov naenkrat">
+<!ENTITY warnCloseMultipleTabs.accesskey "z">
+
+<!ENTITY warnOpenManyTabs.label "Opozori me, ko lahko odpiranje veliko zavihkov naenkrat upočasni &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey "p">
+
+<!ENTITY showTabBar.label "Vselej prikaži vrstico z zavihki">
+<!ENTITY showTabBar.accesskey "v">
+
+<!ENTITY switchToNewTabs.label "Ko odprem povezavo v novem zavihku, takoj prikaži ta zavihek v ospredju">
+<!ENTITY switchToNewTabs.accesskey "k">

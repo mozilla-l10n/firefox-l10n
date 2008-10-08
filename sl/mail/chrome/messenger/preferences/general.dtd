@@ -1,0 +1,41 @@
+<!ENTITY generalSettings.caption           "Splošne nastavitve">
+<!ENTITY generalSettings.label             "Naj bo &brandShortName; privzeti program za:">
+<!ENTITY setDefaultMailClient.label        "pošto">
+<!ENTITY setDefaultMailClient.accesskey    "p">
+<!ENTITY setDefaultNewsClient.label        "novice">
+<!ENTITY setDefaultNewsClient.accesskey    "n">
+<!ENTITY setDefaultFeedClient.label        "vire RSS">
+<!ENTITY setDefaultFeedClient.accesskey    "v">
+
+<!ENTITY checkDefaultMailClient.label      "&brandShortName; naj ob zagonu preveri, če je privzeti program za pošto.">
+<!ENTITY checkDefaultMailClient.accesskey  "z">
+<!ENTITY defaultClientAdvanced.label       "Napredno ...">
+<!ENTITY defaultClientAdvanced.accesskey   "r">
+
+<!ENTITY windowSettings.label             "Postavitev v oknu">
+<!ENTITY selectWindowLayout.label         "Izberite postavitev v oknu, ki ga želite.">
+<!ENTITY selectWindowLayout.accesskey     "z">
+
+<!ENTITY messengerStartPage.label         "Začetna stran &brandShortName;a">
+<!ENTITY enableStartPage.label            "Ko se &brandShortName; zažene, naj se prikaže začetna stran v prostoru za sporočila.">
+<!ENTITY enableStartPage.accesskey        "K">
+<!ENTITY location.label                   "Naslov:">
+<!ENTITY location.accesskey               "N">
+<!ENTITY useDefault.label                 "Uporabi privzeto stran">
+<!ENTITY useDefault.accesskey             "R">
+
+<!ENTITY bounceSystemDockIcon.label       "Animiraj ikono programa">
+<!ENTITY bounceSystemDockIcon.accesskey   "i">
+
+<!ENTITY newMessagesArrive.label          "Ko prispe novo sporočilo:">
+<!ENTITY playSound.label                  "zaigraj zvok">
+<!ENTITY playSound.accesskey              "Z">
+<!ENTITY showAnimatedAlert.label          "prikaži opozorilo">
+<!ENTITY showAnimatedAlert.accesskey      "o">
+<!ENTITY soundbutton.label                "Napredno ...">
+<!ENTITY soundbutton.accesskey            "N">
+
+<!ENTITY showConnections.label      "Nastavitve povezave ...">
+<!ENTITY showConnections.accesskey  "o">
+<!ENTITY proxiesInfo.label          "Določite, kako naj se &brandShortName; poveže na internet.">
+<!ENTITY connectionsInfo.caption    "Povezava">

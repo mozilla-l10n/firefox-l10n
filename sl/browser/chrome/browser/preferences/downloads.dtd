@@ -1,0 +1,23 @@
+<!ENTITY askOnSave.label              "Imenik prenosov">
+<!ENTITY alwaysAsk.label              "Za vsako datoteko posebej me vprašaj, kam jo shraniti">
+<!ENTITY alwaysAsk.accesskey          "v">
+<!ENTITY neverAsk.label               "Shrani vse datoteke na isto mesto:">
+<!ENTITY neverAsk.accesskey           "s">
+<!ENTITY desktop.label                "na namizje">
+<!ENTITY downloads.label              "v imenik Moji prenosi">
+<!ENTITY chooseFolderWin.label        "Brskaj ...">
+<!ENTITY chooseFolderWin.accesskey    "B">
+<!ENTITY chooseFolderMac.label        "Izberi ...">
+<!ENTITY chooseFolderMac.accesskey    "I">
+
+<!ENTITY downloadManagerWindow.label  "Upravitelj prenosov">
+<!ENTITY showWhenStarting.label       "Prikaži upravitelja prenosov ob začetku prenosa">
+<!ENTITY showWhenStarting.accesskey   "z">
+<!ENTITY closeWhenDone.label          "in ga zapri, ko so vsi prenosi končani">
+<!ENTITY closeWhenDone.accesskey      "k">
+
+<!ENTITY fileTypes.label              "Dejanja ob prenosu">
+<!ENTITY configureActions.label       "Preglej in spremeni dejanja ...">
+<!ENTITY configureActions.accesskey   "P">
+<!ENTITY fileTypesDescription.label   "&brandShortName; lahko samodejno prenese ali odpre datoteke določenih vrst.">
+

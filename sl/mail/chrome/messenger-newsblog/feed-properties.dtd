@@ -1,0 +1,16 @@
+<!-- Feed Properties Dialog -->
+<!ENTITY window.title             "Nastavitve prenosa">
+
+<!ENTITY feedFolder.label         "Shrani članke v: ">
+<!ENTITY feedFolder.accesskey     "S">
+
+<!ENTITY feedLocation.label       "Prenesi URI: ">
+<!ENTITY feedLocation.accesskey   "U">
+
+<!ENTITY choosethisfolder.label   "izberi ta imenik">
+
+<!ENTITY quickMode.label          "Prikaži povzetek članka in ne nalagaj spletne strani">
+<!ENTITY quickMode.accesskey      "P">
+
+<!ENTITY copyLinkCmd.label        "Kopiraj mesto povezave"> 
+<!ENTITY copyLinkCmd.accesskey    "K"> 
