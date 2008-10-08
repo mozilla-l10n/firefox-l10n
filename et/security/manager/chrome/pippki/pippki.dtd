@@ -51,7 +51,7 @@
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title "Sisesta ülemparool">
-<!ENTITY getPassword.tokenName.label "Turvaseade">
+<!ENTITY getPassword.tokenName2.label "Turvaseade:">
 <!ENTITY getPassword.password.label "Parool:">
 
 <!-- These should be common -->
@@ -129,3 +129,7 @@
 <!ENTITY protectedAuth.title "Kaitstud turvamärgi autentimine">
 <!ENTITY protectedAuth.msg "Palun autendi turvamärk. Autentimise meetod oleneb sinu turvamärgist.">
 <!ENTITY protectedAuth.tokenName.label "Turvamärk:">
+
+<!ENTITY certErrorDlg.title "Turvaline ühendus ebaõnnestus">
+<!ENTITY certErrorDlg.info1 "Probleem võib olla serveri seadetes või siis üritab keegi välja paista selle serverina.">
+<!ENTITY certErrorDlg.info2 "Kui oled selle serveriga eelnevalt õnnestunult ühendunud, siis võib viga olla ajutine ning sa võid hiljem uuesti proovida.">
