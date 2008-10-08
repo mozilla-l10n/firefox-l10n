@@ -309,7 +309,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                         "Suurendamine">
 <!ENTITY fullZoom.accesskey                     "u">
 
-<!ENTITY newTabButton.tooltip                   "Ava uus kaart">
 <!ENTITY newWindowButton.tooltip                "Ava uus aken">
 <!ENTITY sidebarCloseButton.tooltip             "Sulge külgriba">
 

@@ -1,8 +1,11 @@
-<!ENTITY aboutDialog.title      "&brandFullName;i teave">
-<!ENTITY copyright              "Autorid">
-<!ENTITY copyright.accesskey    "A">
-<!ENTITY aboutLink              "&lt; &brandFullName;i teave">
-<!ENTITY aboutLink.accesskey    "t">
-<!ENTITY aboutVersion           "versioon">
-<!ENTITY copyrightInfo          "&#169;1998-2008 Autorid. Kõik õigused kaitstud. Firefox ja Firefoxi logod 
-                                on Mozilla Foundation'i kaubamärgid.  Kõik õigused kaitstud.">
+<!ENTITY aboutDialog.title        "&brandFullName;i teave">
+<!ENTITY copyright                "Autorid">
+<!ENTITY copyright.accesskey      "A">
+<!ENTITY copyrightGNOME.accesskey "r">
+<!ENTITY aboutLink                "&lt; &brandFullName;i teave">
+<!ENTITY aboutLink.accesskey      "t">
+<!ENTITY aboutVersion             "versioon">
+<!ENTITY closeCmdGNOME.label      "Sulge">
+<!ENTITY closeCmdGNOME.accesskey  "S">
+<!ENTITY copyrightInfo            "&#169;1998-2008 Autorid. Kõik õigused kaitstud. Firefox ja Firefoxi logod 
+                                  on Mozilla Foundation'i kaubamärgid.  Kõik õigused kaitstud.">
