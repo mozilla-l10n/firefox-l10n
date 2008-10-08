@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label                "Uued lehed avanevad:">
-<!ENTITY inNewWindow.label               "uues aknas">
-<!ENTITY inNewWindow.accesskey           "a">
-<!ENTITY inNewTab.label                  "uuel kaardil">
-<!ENTITY inNewTab.accesskey              "k">
+<!ENTITY newWindowsAsTabs.label          "Uued aknad avatakse uuel kaardil">
+<!ENTITY newWindowsAsTabs.accesskey      "U">
 
 <!ENTITY warnCloseMultipleTabs.label     "Hoiatus, kui suletakse mitut kaarti korraga">
 <!ENTITY warnCloseMultipleTabs.accesskey "H">

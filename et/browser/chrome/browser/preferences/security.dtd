@@ -8,10 +8,10 @@
   useDownloadedList.label convey the meaning "suspected" (and not something like
   "known").
 -->
-<!ENTITY tellMaybeAttackSite.label      "Hoiatus, kui külastavat veebilehte peetakse ründavaks">
+<!ENTITY tellMaybeAttackSite2.label     "Ründavad lehed blokeeritakse">
 <!ENTITY tellMaybeAttackSite.accesskey  "o">
 
-<!ENTITY tellMaybeForgery.label         "Veebivõltsingus kahtlustatavast veebilehest teavitatakse">
+<!ENTITY tellMaybeForgery2.label         "Veebivõltsingus kahtlustatavad veebilehed blokeeritakse">
 <!ENTITY tellMaybeForgery.accesskey     "V">
 
 <!ENTITY addonExceptions.label          "Erandid...">

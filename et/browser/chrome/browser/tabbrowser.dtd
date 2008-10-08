@@ -16,3 +16,4 @@
 <!ENTITY  bookmarkThisTab.accesskey "j">
 <!ENTITY  undoCloseTab.label        "Võta kaardi sulgemine tagasi">
 <!ENTITY  undoCloseTab.accesskey    "g">
+<!ENTITY  newTabButton.tooltip      "Ava uus kaart">

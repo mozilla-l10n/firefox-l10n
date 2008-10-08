@@ -60,8 +60,8 @@
 <!ENTITY generalEncoding                               "Kodeering:">
 <!ENTITY generalMetaName                               "Nimi">
 <!ENTITY generalMetaContent                            "Sisu">
-<!ENTITY generalSecurityMore                           "Veel">
-<!ENTITY generalSecurityMore.accesskey                 "V">
+<!ENTITY generalSecurityDetails                           "Veel">
+<!ENTITY generalSecurityDetails.accesskey                 "V">
 
 <!ENTITY mediaTab                                      "Meedia">
 <!ENTITY mediaTab.accesskey                            "M">

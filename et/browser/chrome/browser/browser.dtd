@@ -115,7 +115,8 @@
 <!ENTITY downloads.label                        "Allalaadimised">
 <!ENTITY downloads.tooltip                      "Vaata käimasolevate allalaadimiste edenemist">
 <!ENTITY downloads.accesskey                    "A">
-<!ENTITY downloads.commandkey                   "j"> <!ENTITY downloadsUnix.commandkey     "y">
+<!ENTITY downloads.commandkey                   "j">
+<!ENTITY downloadsUnix.commandkey               "y">
 <!ENTITY addons.label                           "Lisad">
 <!ENTITY addons.tooltip                         "Vaata ja halda paigaldatud lisasid">
 <!ENTITY addons.accesskey                       "L">
@@ -223,6 +224,8 @@
 <!ENTITY reloadFrameCmd.accesskey               "L">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Vaata valiku lähtekoodi">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Vaata MathML lähtekoodi">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey         "e">
 <!ENTITY viewPageSourceCmd.label                "Vaata veebilehe lähtekoodi">
 <!ENTITY viewPageSourceCmd.accesskey            "t">

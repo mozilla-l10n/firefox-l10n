@@ -7,8 +7,4 @@
 <!ENTITY  focusSearch1.key        "F">
 <!ENTITY  focusSearch2.key        "K">
 
-<!ENTITY  filter.label            "Otsing:">
-<!ENTITY  filter.accesskey        "O">
-
-<!ENTITY  clear.label             "Puhasta">
-<!ENTITY  clear.accesskey         "P">
+<!ENTITY  filter.emptytext        "Otsi">

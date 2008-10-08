@@ -22,8 +22,6 @@
 
 <!ENTITY filter.label                      "Otsimine:">
 <!ENTITY filter.accesskey                  "s">
-<!ENTITY clear.label                       "Puhasta">
-<!ENTITY clear.accesskey                   "h">
 
 <!ENTITY button.close.label                "Sulge">
 <!ENTITY button.close.accesskey            "u">

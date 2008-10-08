@@ -15,8 +15,6 @@
 <!ENTITY safeb.palm.notforgery.label2     "See ei ole veebivõltsing">
 <!ENTITY safeb.palm.report.label          "Miks see leht blokeeriti?">
 
-<!ENTITY safeb.urlbaricon.tooltip         "See veebileht võib olla ohtlik: klõpsa detailide vaatamiseks.">
-
 <!ENTITY safeb.blocked.malware.title      "Teavitati ründavast veebilehest!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc  "Veebileht aadressil <span id='malware_sitename'/> raporteeriti kui ründav leht ja see blokeeriti arvestades sinu turvalisuse seadeid.">
