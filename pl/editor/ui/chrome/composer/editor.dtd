@@ -23,6 +23,7 @@
    -    Marek Wawoczny <gmbh@mozillapl.org> (Polish translation)
    -    Piotr Bartecki <pbartecki@mozillapl.org> (Polish translation)
    -    Piotr Komoda <gorky@civ.pl> (Polish translation)
+   -    Stefan Plewako <splewako@aviary.pl> (Polish translation)
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -46,23 +47,23 @@
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- View menu items -->
-<!ENTITY viewMenu.label "Widok">
-<!ENTITY viewMenu.accesskey "W">
-<!ENTITY compositionToolbarCmd.label "Pasek narzędzi edycji">
-<!ENTITY compositionToolbarCmd.accesskey "t">
-<!ENTITY formattingToolbarCmd.label "Pasek narzędzi formatowania">
-<!ENTITY formattingToolbarCmd.accesskey "r">
-<!ENTITY editmodeToolbarCmd.label "Pasek trybu edycji">
-<!ENTITY editmodeToolbarCmd.accesskey "e">
+<!ENTITY viewMenu.label                  "Widok">
+<!ENTITY viewMenu.accesskey              "W">
+<!ENTITY compositionToolbarCmd.label     "Pasek narzędzi edycji">
+<!ENTITY compositionToolbarCmd.accesskey "k">
+<!ENTITY formattingToolbarCmd.label      "Pasek narzędzi formatowania">
+<!ENTITY formattingToolbarCmd.accesskey  "r">
+<!ENTITY editmodeToolbarCmd.label        "Pasek trybu edycji">
+<!ENTITY editmodeToolbarCmd.accesskey    "e">
 
 <!-- Format menu items -->
-<!ENTITY formatMenu.label "Format">
+<!ENTITY formatMenu.label     "Format">
 <!ENTITY formatMenu.accesskey "F">
 
-<!ENTITY helpMenu.label "Pomoc">
-<!ENTITY aboutCmd.label "Informacje o">
+<!ENTITY helpMenu.label   "Pomoc">
+<!ENTITY aboutCmd.label   "Informacje o">
 
 <!-- Display Mode Toolbar -->
-<!ENTITY editMode.label "Tryb edycji:">
+<!ENTITY editMode.label   "Tryb edycji:">
 
 <!ENTITY statusText.label "Zakończono wczytywanie strony">
