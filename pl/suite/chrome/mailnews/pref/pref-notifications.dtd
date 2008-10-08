@@ -50,7 +50,7 @@
 <!ENTITY preview.accesskey "d">
 <!ENTITY systemsound.label "Systemowy dźwięk powiadomienia o nowej wiadomości">
 <!ENTITY systemsound.accesskey "M">
-<!ENTITY customsound.label "Własny plik dźwiękowy (*.wav)">
+<!ENTITY customsound.label "Custom sound file">
 <!ENTITY customsound.accesskey "W">
 <!ENTITY browse.label "Przeglądaj…">
 <!ENTITY browse.accesskey "P">

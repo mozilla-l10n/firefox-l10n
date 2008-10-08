@@ -40,7 +40,7 @@
 <!ENTITY subscribeButton.accesskey "S">
 <!ENTITY unsubscribeButton.label "Anuluj subskrypcję">
 <!ENTITY unsubscribeButton.accesskey "U">
-<!ENTITY newGroupsTab.label "New Groups">
+<!ENTITY newGroupsTab.label "Nowe grupy">
 <!ENTITY newGroupsTab.accesskey "N">
 <!ENTITY refreshButton.label "Odśwież">
 <!ENTITY refreshButton.accesskey "O">

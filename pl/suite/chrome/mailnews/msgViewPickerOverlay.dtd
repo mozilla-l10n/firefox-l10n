@@ -4,7 +4,7 @@
 <!ENTITY viewAll.accesskey "s">
 <!ENTITY viewUnread.label "Nieprzeczytane">
 <!ENTITY viewUnread.accesskey "N">
-<!ENTITY viewNotDeleted.label "Not Deleted">
+<!ENTITY viewNotDeleted.label "Nieusunięte">
 <!ENTITY viewNotDeleted.accesskey "D">
 <!ENTITY viewTags.label "Etykiety">
 <!ENTITY viewTags.accesskey "T">

@@ -37,29 +37,29 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY importDialog.windowTitle "Kreator importu">
-<!ENTITY importDialog.allTitle "Import everything">
+<!ENTITY importDialog.allTitle "Importowanie wszystkich danych">
 <!ENTITY importDialog.mailTitle "Wiadomości pocztowe">
 <!ENTITY importDialog.addressbookTitle "Książki adresowe">
 <!ENTITY importDialog.settingsTitle "Ustawienia">
-<!ENTITY importDialog.filtersTitle "Filters">
+<!ENTITY importDialog.filtersTitle "Filtry">
 
 <!ENTITY window.width "40em">
 <!ENTITY window.macWidth "45em">
 
-<!ENTITY importTitle.label "&brandShortName; Import Wizard">
-<!ENTITY importShortDesc.label "Import Mail, Address Books, Settings, and Filters from other programs">
+<!ENTITY importTitle.label "Kreator importu">
+<!ENTITY importShortDesc.label "Kreator umożliwia import poczty, książek adresowych, ustawień oraz filtrów z innych programów.">
 
-<!ENTITY importDescription1.label "This wizard will import mail messages, address book entries, preferences, and/or filters from other mail programs and common address book formats into &brandShortName;.">
-<!ENTITY importDescription2.label "Once they have been imported, you will be able to access them from within &brandShortName;.">
+<!ENTITY importDescription1.label "Za pomocą Kreatora importu możliwe jest przeprowadzenie automatycznej konwersji danych z innych popularnych programów pocztowych do programu &brandShortName;. W tym celu należy wybrać rodzaj importowanych danych, a następnie nacisnąć Dalej.">
+<!ENTITY importDescription2.label "Po zakończeniu importu wszystkie dane będą dostępne bezpośrednio w programie &brandShortName;.">
 
-<!ENTITY selectDescription.label "Please select the type of file that you would like to import:">
+<!ENTITY selectDescription.label "Wybierz program lub format pliku, z którego będą importowane dane:">
 
 <!ENTITY back.label "&lt; Wstecz">
 <!ENTITY forward.label "Dalej &gt;">
 <!ENTITY finish.label "Zakończ">
 <!ENTITY cancel.label "Anuluj">
 
-<!ENTITY select.label "or select the type of material to import:">
+<!ENTITY select.label "lub wybierz rodzaj danych, które zostaną importowane:">
 
 <!ENTITY title.label "Tytuł">
 <!ENTITY processing.label "Importowanie…">

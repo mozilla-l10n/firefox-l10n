@@ -206,11 +206,11 @@
 <!ENTITY pasteQuote.label "Wklej jako cytat">
 <!ENTITY pasteQuote.accesskey "y">
 
-<!ENTITY openAttachment.label "Open">
+<!ENTITY openAttachment.label "Otwórz">
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "Usuń">
 <!ENTITY delete.accesskey "U">
-<!ENTITY renameAttachment.label "Rename…">
+<!ENTITY renameAttachment.label "Zmień nazwę…">
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "Zaznacz wszystko">
 <!ENTITY selectAll.accesskey "w">

@@ -66,7 +66,12 @@
 <!ENTITY highPriorityCmd.label "Wysoki">
 <!ENTITY highestPriorityCmd.label "Najwyższy">
 
-<!ENTITY conditionDesc.label "Dla przychodzących wiadomości, które:">
+<!ENTITY contextDesc.label "Stosuj filtr podczas:">
+<!ENTITY contextDesc.accesskey "w">
+<!ENTITY contextIncoming.label "Sprawdzania poczty">
+<!ENTITY contextManual.label "Ręcznego uruchamiania">
+<!ENTITY contextBoth.label "Sprawdzania poczty lub ręcznego uruchamiania">
+
 <!ENTITY filterActionDesc.label "wykonaj następujące czynności:">
 <!ENTITY filterActionDesc.accesskey "y">
 
@@ -88,6 +93,6 @@
 <!ENTITY deleteFromPOP.label "Usuń z serwera POP">
 <!ENTITY fetchFromPOP.label "Pobierz treść z serwera POP">
 <!ENTITY ignoreThread.label "Ignoruj wątek">
-<!ENTITY ignoreSubthread.label "Ignore Subthread">
+<!ENTITY ignoreSubthread.label "Ignoruj odpowiedzi">
 <!ENTITY watchThread.label "Śledź wątek">
-<!ENTITY stopExecution.label "Stop Filter Execution">
+<!ENTITY stopExecution.label "Zatrzymaj wykonywanie filtru">

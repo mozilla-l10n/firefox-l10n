@@ -20,6 +20,7 @@
  the Initial Developer. All Rights Reserved.
 
  Contributor(s):
+   Ian Neal <iann_bugzilla@blueyonder.co.uk>
 
  Alternatively, the contents of this file may be used under the terms of
  either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -63,17 +64,12 @@
 <!ENTITY DeleteHtmlDomain.accesskey "U">
 <!ENTITY DeletePlainText.accesskey "s">
 
-<!-- Add HTML Domain Name -->
+<!-- Add Domain Name -->
 <!ENTITY add.htmltitle "Dodaj domenę - HTML">
 <!ENTITY add.htmldomain "Nazwa domeny, której użytkownicy preferują otrzymywanie wiadomości w formacie HTML:">
-<!ENTITY add.htmldomain.accesskey "d">
 <!ENTITY add.plaintexttitle "Dodaj domenę - format tekstowy">
 <!ENTITY add.plaintextdomain "Nazwa domeny, której użytkownicy preferują otrzymywanie wiadomości w formacie tekstowym:">
-<!ENTITY add.plaintext.accesskey "d">
 
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
 <!ENTITY domainnameError.title "Błąd nazwy domeny">
-<!ENTITY duplicationError.label "Domena @string@ już istnieje na liście.">
-
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY dualEntryError.label "Listy domyślnego formatowania HTML i tekstowego nie mogą zawierać jednakowych domen. Nazwa domeny @string@ istnieje już na jednej z list.">
+<!ENTITY invalidEntryError.label "The domain name @string@ is invalid and will be ignored. Valid domain names must include at least one '.' and characters on either side of it.">

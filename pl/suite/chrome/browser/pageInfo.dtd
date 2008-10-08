@@ -93,7 +93,7 @@
 <!ENTITY mediaAltHeader "Tekst alternatywny">
 <!ENTITY mediaAddress "Adres">
 <!ENTITY mediaType "Typ">
-<!ENTITY mediaSize "Size">
+<!ENTITY mediaSize "Rozmiar">
 <!ENTITY mediaCount "Liczba">
 <!ENTITY mediaDimensions "Wymiary zadeklarowane:">
 <!ENTITY mediaPhysDimensions "Wymiary rzeczywiste">
@@ -105,43 +105,43 @@
 <!ENTITY mediaSaveAs2.accesskey "e">
 <!ENTITY mediaPreview "Podgląd mediów:">
 
-<!ENTITY feedTab "Feeds">
+<!ENTITY feedTab "Kanały">
 <!ENTITY feedTab.accesskey "F">
-<!ENTITY feedSubscribe "Subscribe">
+<!ENTITY feedSubscribe "Subskrybuj">
 <!ENTITY feedSubscribe.accesskey "u">
 
-<!ENTITY permTab "Permissions">
+<!ENTITY permTab "Uprawnienia">
 <!ENTITY permTab.accesskey "P">
-<!ENTITY permUseDefault "Use Default">
-<!ENTITY permAllow "Allow">
-<!ENTITY permAllowSession "Allow for Session">
-<!ENTITY permBlock "Block">
-<!ENTITY permissionsFor "Permissions for:">
-<!ENTITY permImage "Load Images">
+<!ENTITY permUseDefault "Użyj domyślnych">
+<!ENTITY permAllow "Zezwól">
+<!ENTITY permAllowSession "Zezwól na czas sesji">
+<!ENTITY permBlock "Blokuj">
+<!ENTITY permissionsFor "Uprawnienia dla:">
+<!ENTITY permImage "Wczytywanie obrazków">
 <!ENTITY permPopup "Open Popup Windows">
-<!ENTITY permCookie "Set Cookies">
-<!ENTITY permInstall "Install Extensions or Themes">
+<!ENTITY permCookie "Zapisywanie ciasteczek">
+<!ENTITY permInstall "Instalacja rozszerzeń i motywów">
 
-<!ENTITY securityTab "Security">
+<!ENTITY securityTab "Bezpieczeństwo">
 <!ENTITY securityTab.accesskey "S">
-<!ENTITY securityHeader "Security information for this page">
-<!ENTITY securityView.certView "View Certificate">
+<!ENTITY securityHeader "Informacje dotyczące bezpieczeństwa tej strony">
+<!ENTITY securityView.certView "Wyświetl certyfikat">
 <!ENTITY securityView.accesskey "V">
-<!ENTITY securityView.unknown "Unknown">
+<!ENTITY securityView.unknown "Nieznany">
 
 
-<!ENTITY securityView.identity.header "Web Site Identity">
-<!ENTITY securityView.identity.owner "Owner: ">
-<!ENTITY securityView.identity.domain "Web site: ">
-<!ENTITY securityView.identity.verifier "Verified by: ">
+<!ENTITY securityView.identity.header "Tożsamość witryny">
+<!ENTITY securityView.identity.owner "Właściciel: ">
+<!ENTITY securityView.identity.domain "Witryna: ">
+<!ENTITY securityView.identity.verifier "Zweryfikowane przez: ">
 
-<!ENTITY securityView.privacy.header "Privacy &amp; History">
+<!ENTITY securityView.privacy.header "Prywatność i historia">
 <!ENTITY securityView.privacy.history "Have I visited this website before today?">
-<!ENTITY securityView.privacy.cookies "Is this web site storing information (cookies) on my computer?">
-<!ENTITY securityView.privacy.viewCookies "View Cookies">
+<!ENTITY securityView.privacy.cookies "Czy ta witryna przechowuje informacje na tym komputerze (ciasteczka)?">
+<!ENTITY securityView.privacy.viewCookies "Wyświetl ciasteczka">
 <!ENTITY securityView.privacy.viewCookies.accessKey "k">
-<!ENTITY securityView.privacy.passwords "Have I saved any passwords for this web site?">
-<!ENTITY securityView.privacy.viewPasswords "View Saved Passwords">
+<!ENTITY securityView.privacy.passwords "Czy hasła użyte na tej witrynie zostały zapisane?">
+<!ENTITY securityView.privacy.viewPasswords "Wyświetl zapisane hasła">
 <!ENTITY securityView.privacy.viewPasswords.accessKey "w">
 
-<!ENTITY securityView.technical.header "Technical Details">
+<!ENTITY securityView.technical.header "Szczegóły techniczne">

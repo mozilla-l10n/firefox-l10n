@@ -120,4 +120,4 @@
 <!ENTITY deferStorageDesc.label "Zaznaczenie tej opcji spowoduje, że konto to stanie się częścią globalnej skrzynki odbiorczej. W przeciwnym wypadku poczta dla tego konta będzie przechowywana w swoich własnych folderach. Konto to będzie wtedy widoczne jako konto najwyższego poziomu.">
 <!ENTITY deferStorage.label "Użyj Globalnej skrzynki odbiorczej (poczta będzie przechowywana w Folderach lokalnych)">
 <!ENTITY clickFinish.label 'Kliknij przycisk "Zakończ", aby zapamiętać wprowadzone dane i zakończyć konfigurację konta.'>
-<!ENTITY clickFinish.labelMac "Click Done to save these settings and exit the Account Wizard.">
+<!ENTITY clickFinish.labelMac 'Kliknij przycisk "Zakończ", aby zapamiętać wprowadzone dane i zakończyć konfigurację konta.'>

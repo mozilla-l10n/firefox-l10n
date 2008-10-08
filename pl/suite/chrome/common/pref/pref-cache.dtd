@@ -25,4 +25,3 @@
 <!ENTITY prefetchTitle.label "Wstępne pobieranie ">
 <!ENTITY enablePrefetch.label "Pobierz wstępnie strony WWW w trakcie bezczynności, aby strony wskazywane przez odnośniki, były szybciej otwierane">
 <!ENTITY enablePrefetch.accesskey "p">
-<!-- <!ENTITY prefetchDesc.label              "If you check this item, &brandShortName; will follow special directives from websites to prefetch content while the browser is idle.  Websites designed to take advantage of this feature will appear to load quicker."> -->

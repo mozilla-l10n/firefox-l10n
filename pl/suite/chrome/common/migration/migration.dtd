@@ -1,4 +1,4 @@
-<!ENTITY migrationWizard.title "Import Wizard">
+<!ENTITY migrationWizard.title "Importowanie ustawień i danych">
 
 <!ENTITY importAllFrom.label "Import All Items from:">
 <!ENTITY importBookmarksFrom.label "Import Bookmarks from:">
@@ -9,18 +9,18 @@
 <!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromFile.label "File">
 <!ENTITY importFromFile.accesskey "F">
-<!ENTITY importFromNothing.label "Don't import anything">
+<!ENTITY importFromNothing.label "Nie importuj niczego">
 <!ENTITY importFromNothing.accesskey "D">
 
-<!ENTITY importSource.title "Import Settings and Data">
-<!ENTITY importItems.title "Items to Import">
-<!ENTITY importItems.label "Select which items to import:">
+<!ENTITY importSource.title "Importuj ustawienia i dane">
+<!ENTITY importItems.title "Elementy do zaimportowania">
+<!ENTITY importItems.label "Wybierz elementy do zaimportowania:">
 
-<!ENTITY selectProfile.title "Select Profile">
-<!ENTITY selectProfile.label "The following profiles are available to import from:">
+<!ENTITY selectProfile.title "Wybierz profil">
+<!ENTITY selectProfile.label "Następujące profile można zaimportować z:">
 
-<!ENTITY migrating.title "Importing…">
-<!ENTITY migrating.label "The following items are currently being imported…">
+<!ENTITY migrating.title "Importuję…">
+<!ENTITY migrating.label "Następujące elementy są właśnie importowane…">
 
-<!ENTITY done.title "Import Complete">
-<!ENTITY done.label "The following items were successfully imported:">
+<!ENTITY done.title "Import zakończony">
+<!ENTITY done.label "Następujące elementy zostały pomyślnie zaimportowane:">

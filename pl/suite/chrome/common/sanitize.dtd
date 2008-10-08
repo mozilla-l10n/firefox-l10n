@@ -1,21 +1,21 @@
-<!ENTITY sanitizeDialog.title "Clear Private Data">
-<!ENTITY sanitizeItems.label "Clear the following items now:">
+<!ENTITY sanitizeDialog.title "Czyszczenie danych prywatnych">
+<!ENTITY sanitizeItems.label "Wyczyść następujące elementy:">
 
-<!ENTITY itemHistory.label "Browsing History">
+<!ENTITY itemHistory.label "historię przeglądanych stron">
 <!ENTITY itemHistory.accesskey "B">
-<!ENTITY itemDownloads.label "Download History">
+<!ENTITY itemDownloads.label "historię pobieranych plików">
 <!ENTITY itemDownloads.accesskey "D">
-<!ENTITY itemFormSearchHistory.label "Saved Form and Search History">
+<!ENTITY itemFormSearchHistory.label "dane formularzy i historię wyszukiwania">
 <!ENTITY itemFormSearchHistory.accesskey "F">
-<!ENTITY itemCache.label "Cache">
+<!ENTITY itemCache.label "pamięć podręczną">
 <!ENTITY itemCache.accesskey "a">
-<!ENTITY itemCookies.label "Cookies">
+<!ENTITY itemCookies.label "ciasteczka">
 <!ENTITY itemCookies.accesskey "C">
-<!ENTITY itemOfflineApps.label "Offline Website Data">
+<!ENTITY itemOfflineApps.label "dane witryn trybu offline">
 <!ENTITY itemOfflineApps.accesskey "O">
-<!ENTITY itemPasswords.label "Saved Passwords">
+<!ENTITY itemPasswords.label "zapamiętane hasła">
 <!ENTITY itemPasswords.accesskey "P">
-<!ENTITY itemSessions.label "Authenticated Sessions">
+<!ENTITY itemSessions.label "sesje uwierzytelnione">
 <!ENTITY itemSessions.accesskey "S">
 
 <!ENTITY sanitizeButton.label "Clear Private Data Now">

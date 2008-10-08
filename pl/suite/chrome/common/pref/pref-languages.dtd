@@ -1,37 +1,23 @@
 <!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
 
 <!ENTITY languages.customize.prefLangDescript "Niektóre strony WWW dostępne są w kilku wersjach językowych. SeaMonkey wykorzysta poniższą listę preferencji do wyboru wersji językowej pobieranych dokumentów. Pierwszy język na liście ma największy priorytet.">
-<!ENTITY languages.customize.lHeader "Języki">
-<!ENTITY languages.customize.rHeader "Języki, w których oglądane są strony WWW">
+<!ENTITY languages.customize.title "Languages">
 <!ENTITY langtitle.label "Języki">
 <!ENTITY languages.customize.prefAddLangDescript "Wybierz język, który zostanie dodany do listy preferencji.">
-<!ENTITY languages.customize.engOrder.label "J">
-<!ENTITY languages.customize.engOption.label "Angielski">
 <!ENTITY languages.customize.addButton.label "Dodaj…">
 <!ENTITY languages.customize.addButton.accesskey "D">
 <!ENTITY languages.customize.deleteButton.label "Usuń">
 <!ENTITY languages.customize.deleteButton.accesskey "U">
-<!ENTITY languages.customize.title.label "Dostosuj języki">
 <!ENTITY languages.customize.add.title.label "Dodaj język">
-<!ENTITY languages.customize.left.header "Kodowanie znaków">
-<!ENTITY charset.customize.right.header "Wybierz obsługiwane kodowania">
 <!ENTITY languages.customize.available.label "Języki:">
 <!ENTITY languages.customize.active.label "Lista preferowanych wersji językowych:">
-<!ENTITY languages.customize.reorder.label "Przestaw">
-<!ENTITY languages.customize.remove.label "Usuń">
-<!ENTITY languages.customize.additional.label "Dostępne zestawy znaków">
-<!ENTITY languages.customize.add.label "Dodaj">
 <!ENTITY languages.customize.others.label "Inne:">
 <!ENTITY languages.customize.others.accesskey "I">
-<!ENTITY languages.customize.Charset.grouplabel "Kodowanie znaków">
-<!ENTITY languages.customize.DefaultCharset.label "Domyślne kodowanie znaków:">
+<!ENTITY languages.customize.Charset.grouplabel "Default Character Encoding">
+<!ENTITY languages.customize.DefaultCharset.label "Character Encoding:">
 <!ENTITY languages.customize.DefaultCharset.accesskey "D">
 <!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
 <!ENTITY languages.customize.others.examples "(wprowadź kod języka, np.: en-bz, ar-jo)">
-<!ENTITY languages.customize.cancel.label "Anuluj">
-<!ENTITY languages.customize.save.label "Zapisz">
-<!ENTITY languages.customize.ok.label "OK">
-<!ENTITY languages.customize.save.popup "Uruchom ponownie przeglądarkę, aby zmienione preferencje zostały użyte…">
 <!ENTITY languages.customize.moveUp.label "Przenieś w górę">
 <!ENTITY languages.customize.moveUp.accesskey "g">
 <!ENTITY languages.customize.moveDown.label "Przenieś w dół">

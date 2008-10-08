@@ -50,12 +50,9 @@
 <!ENTITY color.label "Kolor:">
 <!ENTITY color.accesskey "K">
 <!ENTITY displayPlainText.caption "Wiadomości tekstowe">
-<!ENTITY plainTextFont.label "Użyj następującej szerokości czcionki:">
+<!ENTITY fontPlainText.label "Font:">
+<!ENTITY fontPlainText.accesskey "F">
 <!ENTITY displayQuoted.label "Ustawienia cytowanych wiadomości:">
-<!ENTITY fixedWidth.label "Czcionka o stałej szerokości">
-<!ENTITY fixedWidth.accesskey "s">
-<!ENTITY variableWidth.label "Czcionka o zmiennej szerokości">
-<!ENTITY variableWidth.accesskey "z">
 <!ENTITY readingMessagesHeader.label "Dla nadchodzących wiadomości">
 <!ENTITY messageWrapping.label "Zawijanie wiadomości">
 <!ENTITY wrapInMsg.label "Zawijaj tekst, aby mieścił się w oknie">
@@ -67,12 +64,12 @@
 <!ENTITY autoMarkAsRead.label "Automatically mark messages as read">
 <!ENTITY autoMarkAsRead.accesskey "A">
 <!ENTITY markAsReadNoDelay.label "Immediately on display">
-<!ENTITY markAsReadNoDelay.accesskey "d">
+<!ENTITY markAsReadNoDelay.accesskey "m">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
 <!ENTITY markAsReadDelay.label "After displaying for">
-<!ENTITY markAsReadDelay.accesskey "e">
+<!ENTITY markAsReadDelay.accesskey "t">
 <!ENTITY secondsLabel.label "seconds">
 
 <!ENTITY openingMessages.label "Otwierając wiadomości wyświetl je w:">
@@ -82,3 +79,5 @@
 <!ENTITY existingWindowRadio.accesskey "e">
 <!ENTITY disableContent.label "Blokuj obrazki i inną treść ze zdalnych serwerów">
 <!ENTITY disableContent.accesskey "B">
+<!ENTITY showCondensedAddresses.label "Show only display name for people in my address book">
+<!ENTITY showCondensedAddresses.accesskey "o">

@@ -13,12 +13,17 @@
 <!ENTITY whenBlock.description "Wykonaj poniższe czynności, gdy zostanie zablokowane wyskakujące okno:">
 <!ENTITY playSound.label "Odtwórz dźwięk:">
 <!ENTITY playSound.accesskey "O">
+<!ENTITY systemSound.label "System beep">
+<!ENTITY systemSound.accesskey "S">
+<!ENTITY customSound.label "Custom sound file">
+<!ENTITY customSound.accesskey "C">
 
 <!ENTITY selectSound.label "Przeglądaj…">
 <!ENTITY selectSound.accesskey "e">
 <!ENTITY previewSound.label "Odtwórz">
 <!ENTITY previewSound.accesskey "O">
 <!ENTITY selectSound.title "Wybierz dźwięk odgrywany podczas blokowania wyskakującego okna ">
+<!ENTITY selectSound.filter "Sounds">
 
 <!ENTITY displayIcon.label "Display an icon in the browser status bar">
 <!ENTITY displayIcon.accesskey "D">

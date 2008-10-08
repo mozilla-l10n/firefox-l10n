@@ -55,9 +55,9 @@
 <!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
 <!ENTITY popServerTitle.label "Konfiguracja serwera POP">
 <!ENTITY deleteMessagePrefix.label "Wiadomość usunięta lokalnie:">
-<!ENTITY modelMoveToTrash.label "Move it to this folder:">
+<!ENTITY modelMoveToTrash.label "zostanie przeniesiona do folderu:">
 <!ENTITY modelMoveToTrash.accesskey "o">
-<!ENTITY modelMarkDeleted.label "Just mark it as deleted">
+<!ENTITY modelMarkDeleted.label "zostanie oznaczona jako usunięta">
 <!ENTITY modelMarkDeleted.accesskey "k">
 <!ENTITY modelDeleteImmediately.label "Zostanie natychmiast usunięta">
 <!ENTITY modelDeleteImmediately.accesskey "d">

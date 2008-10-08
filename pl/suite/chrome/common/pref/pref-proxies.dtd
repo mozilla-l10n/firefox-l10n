@@ -5,6 +5,8 @@
 <!ENTITY proxyTitle.label "Konfiguracja proxy do połączenia z Internetem">
 <!ENTITY directTypeRadio.label "Bezpośrednie połączenie z Internetem">
 <!ENTITY directTypeRadio.accesskey "d">
+<!ENTITY systemTypeRadio.label "Use system proxy settings">
+<!ENTITY systemTypeRadio.accesskey "U">
 <!ENTITY manualTypeRadio.label "Własna konfiguracja proxy">
 <!ENTITY manualTypeRadio.accesskey "W">
 <!ENTITY wpadTypeRadio.label "Automatycznie wykryj ustawienia proxy dla tej sieci">
@@ -16,7 +18,7 @@
 <!ENTITY http.label "Serwer proxy:">
 <!ENTITY http.accesskey "S">
 <!ENTITY port.label "Port:">
-<!ENTITY HTTPport.accesskey "o">
+<!ENTITY HTTPPort.accesskey "o">
 <!ENTITY advanced.label "Zaawansowane…">
 <!ENTITY advanced.accesskey "Z">
 <!ENTITY noproxy.label "Nie używaj proxy dla:">

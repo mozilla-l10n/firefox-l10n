@@ -60,8 +60,8 @@
 <!ENTITY retentionDownloadMsg.label "Więcej wiadomości niż">
 <!ENTITY retentionDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "W celu zaoszczędzenia miejsca na dysku, stare wiadomości mogą być nieodwracalnie usuwane">
-<!ENTITY retentionKeepMsg.label "Usuń wiadomości starsze niż">
-<!ENTITY retentionKeepMsg.accesskey "s">
+<!ENTITY retentionDeleteMsg.label "Usuń wiadomości starsze niż">
+<!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Nie usuwaj żadnych wiadomości">
 <!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepNew.label "Usuń wszystko, oprócz">
@@ -87,7 +87,7 @@
 <!ENTITY folderProps.information.label "Informacje:">
 <!ENTITY folderProps.name.label "Nazwa:">
 <!ENTITY folderProps.name.accesskey "N">
-<!ENTITY folderProps.location.label "Location:">
+<!ENTITY folderProps.location.label "Położenie:">
 <!ENTITY folderProps.location.accesskey "L">
 
 <!ENTITY folderSharingTab.label "Współużytkowanie">
