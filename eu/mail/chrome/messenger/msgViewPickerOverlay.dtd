@@ -6,6 +6,8 @@
 <!ENTITY viewAll.accesskey "A">
 <!ENTITY viewUnread.label "Irakurri-gabea">
 <!ENTITY viewUnread.accesskey "G">
+<!ENTITY viewNotDeleted.label "Ez ezabatua">
+<!ENTITY viewNotDeleted.accesskey "E">
 <!ENTITY viewTags.label "Etiketak">
 <!ENTITY viewTags.accesskey "T">
 <!ENTITY viewCustomViews.label "Pertsonalizatutako Ikuspegiak">

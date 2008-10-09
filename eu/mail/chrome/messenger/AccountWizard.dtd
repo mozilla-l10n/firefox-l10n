@@ -54,7 +54,7 @@
 <!ENTITY smtpServerLabel.label "ePosta Bidaltzeko Zerbitzaria:">
 <!ENTITY smtpServerLabel.accesskey "O">
 <!ENTITY newsServerLabel.label "Berri-talde Zerbitzaria:">
-<!ENTITY newsServerLabel.accesskey "B">
+<!ENTITY newsServerLabel.accesskey "b">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">

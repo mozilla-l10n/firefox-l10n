@@ -35,35 +35,47 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField.label "Nori: ">
-<!ENTITY fromField.label "Nork: ">
-<!ENTITY senderField.label "Bidaltzailea: ">
-<!ENTITY organizationField.label "Erakundea: ">
-<!ENTITY replyToField.label "Erantzun honi: ">
+<!ENTITY toField2.label "to ">
+<!ENTITY fromField2.label "from ">
+<!ENTITY senderField2.label "sender ">
+<!ENTITY organizationField2.label "organization ">
+<!ENTITY replyToField2.label "reply-to ">
 
-<!ENTITY subjectField.label "Gaia: ">
-<!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField.label "Cc: ">
-<!ENTITY bccField.label "Ezkutuko kopia: ">
-<!ENTITY newsgroupsField.label "Berri-taldeak: ">
-<!ENTITY followupToField.label "Erantzun honi: ">
-<!ENTITY tagsHdr.label "Etiketak: ">
-<!ENTITY dateField.label "Data: ">
-<!ENTITY userAgentField.label "Erabiltzaile-agentea: ">
-<!ENTITY referencesField.label "References: ">
-<!ENTITY messageIdField.label "Message-ID: ">
-<!ENTITY inReplyToField.label "In-Reply-To: ">
-<!ENTITY originalWebsite.label "Webgunea: ">
+<!ENTITY subjectField2.label "subject ">
+<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
+<!ENTITY ccField2.label "cc ">
+<!ENTITY bccField2.label "bcc ">
+<!ENTITY newsgroupsField2.label "newsgroups ">
+<!ENTITY followupToField2.label "followup-to ">
+<!ENTITY tagsHdr2.label "tags ">
+<!ENTITY dateField2.label "date ">
+<!ENTITY userAgentField2.label "user-agent ">
+<!ENTITY referencesField2.label "references ">
+<!ENTITY messageIdField2.label "message-id ">
+<!ENTITY inReplyToField2.label "in-reply-to ">
+<!ENTITY originalWebsite2.label "website ">
 <!ENTITY saveAll.label "Gorde Dena..">
 
-<!ENTITY editMessage.label "Editatu Zirriborroa...">
+<!ENTITY editMessageDescription.label "This is a draft message">
+<!ENTITY editMessageButton.label "Edit…">
+<!ENTITY replyButton.label "reply…">
+<!ENTITY forwardButton.label "forward…">
+<!ENTITY junkButton.label "mark as junk">
+<!ENTITY trashButton.tooltiptext "delete">
+
+<!ENTITY otherActionsButton.label "other actions">
+<!ENTITY saveAsMenuItem.label "save as…">
+<!ENTITY saveAsMenuItem.accesskey "S">
+<!ENTITY viewSourceMenuItem.label "view source…">
+<!ENTITY viewSourceMenuItem.accesskey "V">
+
+<!ENTITY hideDetailsButton.label "hide details">
+<!ENTITY showDetailsButton.label "show details">
 
 <!ENTITY openAttachmentCmd.label "Ireki">
 <!ENTITY openAttachmentCmd.accesskey "I">
 <!ENTITY saveAsAttachmentCmd.label "Gorde Honela...">
 <!ENTITY saveAsAttachmentCmd.accesskey "A">
-<!ENTITY printAttachmentCmd.label ".Inprimatu">
-<!ENTITY printAttachmentCmd.accesskey "P">
 <!ENTITY detachAttachmentCmd.label "Askatu ...">
 <!ENTITY deleteAttachmentCmd.label "Ezabatu">
 <!ENTITY saveAllAttachmentsCmd.label "Gorde dena...">

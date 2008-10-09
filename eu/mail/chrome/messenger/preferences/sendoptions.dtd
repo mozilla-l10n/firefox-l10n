@@ -20,9 +20,9 @@
 <!ENTITY AddHtmlDomain.label "Gehitu...">
 <!ENTITY AddHtmlDomain.accesskey "g">
 <!ENTITY AddPlainText.label "Gehitu...">
-<!ENTITY AddPlainText.accesskey "d">
+<!ENTITY AddPlainText.accesskey "h">
 <!ENTITY DeleteHtmlDomain.label "Ezabatu">
-<!ENTITY DeleteHtmlDomain.accesskey "l">
+<!ENTITY DeleteHtmlDomain.accesskey "z">
 <!ENTITY DeletePlainText.label "Ezabatu">
 <!ENTITY DeletePlainText.accesskey "t">
 

@@ -66,15 +66,3 @@
 <!ENTITY sortAscending.accesskey "G">
 <!ENTITY sortDescending.label "Beherantz">
 <!ENTITY sortDescending.accesskey "B">
-<!-- context menu -->
-
-<!ENTITY composeEmail.label "Mezua prestatu nori:">
-<!ENTITY composeEmail.accesskey "M">
-<!ENTITY deleteAddrBookCard.label "Ezabatu">
-<!ENTITY deleteAddrBookCard.accesskey "E">
-<!ENTITY newAddrBookCard.label "Txartel berria...">
-<!ENTITY newAddrBookCard.accesskey "T">
-<!ENTITY newAddrBookMailingList.label "Posta-zerrenda berria...">
-<!ENTITY newAddrBookMailingList.accesskey "P">
-<!ENTITY addrBookCardProperties.label "Propietateak">
-<!ENTITY addrBookCardProperties.accesskey "P">

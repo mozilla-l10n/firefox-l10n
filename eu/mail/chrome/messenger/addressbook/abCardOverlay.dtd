@@ -103,39 +103,44 @@
 <!ENTITY HomeAddress2.label "">
 <!ENTITY HomeAddress2.accesskey "">
 <!ENTITY HomeCity.label "Hiria:">
-<!ENTITY HomeCity.accesskey "y">
+<!ENTITY HomeCity.accesskey "i">
 <!ENTITY HomeState.label "Estatua/Probintzia:">
 <!ENTITY HomeState.accesskey "S">
 <!ENTITY HomeZipCode.label "ZIP/Posta Kodea:">
 <!ENTITY HomeZipCode.accesskey "Z">
 <!ENTITY HomeCountry.label "Herrialdea:">
-<!ENTITY HomeCountry.accesskey "u">
+<!ENTITY HomeCountry.accesskey "i">
 <!ENTITY HomeWebPage.label "Web Orria:">
 <!ENTITY HomeWebPage.accesskey "W">
 <!ENTITY Work.box "Lana">
 <!ENTITY JobTitle.label "Titulua:">
-<!ENTITY JobTitle.accesskey "e">
+<!ENTITY JobTitle.accesskey "u">
 <!ENTITY Department.label "Atala:">
-<!ENTITY Department.accesskey "m">
+<!ENTITY Department.accesskey "a">
 <!ENTITY Company.label "Erakundea:">
-<!ENTITY Company.accesskey "O">
+<!ENTITY Company.accesskey "E">
 <!ENTITY WorkAddress.label "Helbidea:">
-<!ENTITY WorkAddress.accesskey "r">
+<!ENTITY WorkAddress.accesskey "d">
 <!ENTITY WorkAddress2.label "">
 <!ENTITY WorkAddress2.accesskey "">
 <!ENTITY WorkCity.label "Hiria:">
 <!ENTITY WorkCity.accesskey "i">
 <!ENTITY WorkState.label "Estatua/Probintzia:">
-<!ENTITY WorkState.accesskey "v">
+<!ENTITY WorkState.accesskey "b">
 <!ENTITY WorkZipCode.label "ZIP/Posta Kodea:">
 <!ENTITY WorkZipCode.accesskey "P">
 <!ENTITY WorkCountry.label "Herrialdea:">
-<!ENTITY WorkCountry.accesskey "n">
+<!ENTITY WorkCountry.accesskey "r">
 <!ENTITY WorkWebPage.label "Web Orria:">
 <!ENTITY WorkWebPage.accesskey "b">
 
 <!ENTITY Other.tab "Besteak">
 <!ENTITY Other.accesskey "h">
+<!ENTITY Birthday.label "Jaiotze-data">
+<!ENTITY Birthday.accesskey "J">
+<!ENTITY Year.emptytext "Urtea">
+<!ENTITY Or.value "edp">
+<!ENTITY Age.emptytext "Edadea">
 <!ENTITY Custom1.label "1 Pertsonalizatua:">
 <!ENTITY Custom1.accesskey "1">
 <!ENTITY Custom2.label "2 Pertsonalizatua:">
