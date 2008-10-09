@@ -70,6 +70,7 @@
 <!ENTITY pasteCmd.label "Klistra in">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "l">
+<!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY editRewrapCmd.label "Gör om radbrytning">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "y">
