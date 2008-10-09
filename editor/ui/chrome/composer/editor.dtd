@@ -46,17 +46,17 @@
 
 <!-- View menu items -->
 <!ENTITY viewMenu.label "Visa">
-<!ENTITY viewmenu.accesskey "V">
+<!ENTITY viewMenu.accesskey "V">
 <!ENTITY compositionToolbarCmd.label "Skrivverktyg">
-<!ENTITY compositiontb.accesskey "k">
+<!ENTITY compositionToolbarCmd.accesskey "k">
 <!ENTITY formattingToolbarCmd.label "Formatverktyg">
-<!ENTITY formattingtb.accesskey "o">
+<!ENTITY formattingToolbarCmd.accesskey "o">
 <!ENTITY editmodeToolbarCmd.label "Redigeringsverktyg">
-<!ENTITY editmodetb.accesskey "R">
+<!ENTITY editmodeToolbarCmd.accesskey "R">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Format">
-<!ENTITY formatmenu.accesskey "o">
+<!ENTITY formatMenu.accesskey "o">
 
 <!ENTITY helpMenu.label "Hjälp">
 <!ENTITY aboutCmd.label ".Om">

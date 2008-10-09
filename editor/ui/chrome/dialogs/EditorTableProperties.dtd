@@ -82,9 +82,7 @@
 <!ENTITY cellSelectPrevious.accessKey     "ö">
 <!ENTITY cellApplyBeforeMove.label        "Verkställ ändringarna innan du ändrar markeringen">
 <!ENTITY cellKeepCurrentData.label        "Behåll aktuella inställningar">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label         "Aktuella ändringar kommer att verkställas">
-<!ENTITY applyBeforeChange2.label         "innan du ändrar markeringen.">
+<!ENTITY applyBeforeChange.label          "Aktuella ändringar kommer att verkställas innan du ändrar markeringen.">
 <!ENTITY cellRowSpan.label                "Radspann:">
 <!ENTITY cellColSpan.label                "Kolumnspann:">
 <!ENTITY cellContentAlignment.label       "Kantställning för innehållet">

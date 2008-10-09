@@ -37,9 +37,9 @@
 <!ENTITY  authorName.accesskey      "F">
 <!ENTITY  pageColorHeader           "Förvalt utseende för sida">
 
-<!ENTITY defaultColorsRadio.label   "Besökarens förvalda färger (Ange inga färger på sidan)">
+<!ENTITY defaultColors.label        "Besökarens förvalda färger (Ange inga färger på sidan)">
 <!ENTITY defaultColors.accesskey    "s">
-<!ENTITY customColorsRadio.label    "Använd egna färger:">
+<!ENTITY customColors.label         "Använd egna färger:">
 <!ENTITY customColors.accesskey     "e">
 
 <!ENTITY normalText.label           "Normal text">
