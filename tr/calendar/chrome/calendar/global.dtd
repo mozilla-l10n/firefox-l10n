@@ -36,29 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY time.midnight "Gece yarısı" >
-<!ENTITY time.1 "1:00 ÖÖ" >
-<!ENTITY time.2 "2:00 ÖÖ" >
-<!ENTITY time.3 "3:00 ÖÖ" >
-<!ENTITY time.4 "4:00 ÖÖ" >
-<!ENTITY time.5 "5:00 ÖÖ" >
-<!ENTITY time.6 "6:00 ÖÖ" >
-<!ENTITY time.7 "7:00 ÖÖ" >
-<!ENTITY time.8 "8:00 ÖÖ" >
-<!ENTITY time.9 "9:00 ÖÖ" >
-<!ENTITY time.10 "10:00 ÖÖ" >
-<!ENTITY time.11 "11:00 ÖÖ" >
 <!ENTITY time.noon "Öğlen" >
-<!ENTITY time.13 "1:00 ÖS" >
-<!ENTITY time.14 "2:00 ÖS" >
-<!ENTITY time.15 "3:00 ÖS" >
-<!ENTITY time.16 "4:00 ÖS" >
-<!ENTITY time.17 "5:00 ÖS" >
-<!ENTITY time.18 "6:00 ÖS" >
-<!ENTITY time.19 "7:00 ÖS" >
-<!ENTITY time.20 "8:00 ÖS" >
-<!ENTITY time.21 "9:00 ÖS" >
-<!ENTITY time.22 "10:00 ÖS" >
-<!ENTITY time.23 "11:00 ÖS" >
 
 <!-- Month Names -->
 <!ENTITY day.1.Ddd "Paz" >
@@ -76,13 +54,6 @@
 <!ENTITY day.7.Ddd "Cmt" >
 <!ENTITY day.7.Ddd.accesskey "M">
 
-<!ENTITY day.1.DDD "PAZ" >
-<!ENTITY day.2.DDD "PZT" >
-<!ENTITY day.3.DDD "SAL" >
-<!ENTITY day.4.DDD "ÇAR" >
-<!ENTITY day.5.DDD "PER" >
-<!ENTITY day.6.DDD "CUM" >
-<!ENTITY day.7.DDD "CMT" >
 
 <!ENTITY day.1.name "Pazar" >
 <!ENTITY day.2.name "Pazartesi" >
@@ -92,34 +63,14 @@
 <!ENTITY day.6.name "Cuma" >
 <!ENTITY day.7.name "Cumartesi" >
 
-<!ENTITY month.1.MMM "OCA" >
-<!ENTITY month.2.MMM "ŞUB" >
-<!ENTITY month.3.MMM "MAR" >
-<!ENTITY month.4.MMM "NİS" >
-<!ENTITY month.5.MMM "MAY" >
-<!ENTITY month.6.MMM "HAZ" >
-<!ENTITY month.7.MMM "TEM" >
-<!ENTITY month.8.MMM "AUS" >
-<!ENTITY month.9.MMM "EYL" >
-<!ENTITY month.10.MMM "EKİ" >
-<!ENTITY month.11.MMM "KAS" >
-<!ENTITY month.12.MMM "ARA" >
-
-<!-- Units -->
+!-- Units -->
 <!ENTITY calendar.global.units.second   "saniye">
-<!ENTITY calendar.global.units.seconds  "saniye">
 <!ENTITY calendar.global.units.minute   "dakika">
-<!ENTITY calendar.global.units.minutes  "dakika">
 <!ENTITY calendar.global.units.hour     "saat">
-<!ENTITY calendar.global.units.hours    "saat">
 <!ENTITY calendar.global.units.day      "gün">
-<!ENTITY calendar.global.units.days     "gün">
 <!ENTITY calendar.global.units.week     "hafta">
-<!ENTITY calendar.global.units.weeks    "hafta">
 <!ENTITY calendar.global.units.month    "ay">
-<!ENTITY calendar.global.units.months   "ay">
 <!ENTITY calendar.global.units.year     "yıl">
-<!ENTITY calendar.global.units.years    "yıl">
 
 <!ENTITY month.1.name "Ocak" >
 <!ENTITY month.2.name "Şubat" >

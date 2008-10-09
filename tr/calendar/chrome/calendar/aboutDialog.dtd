@@ -49,10 +49,14 @@
 <!ENTITY brandMotto       "it's about time">
 
 
-<!ENTITY credit.thanks    "Special Thanks To">
+<!ENTITY credit.thanks    "Özel Teşekkürlerimiz">
 
 
 
-<!ENTITY license.and        "and">
+<!ENTITY license.and        "ve">
 
 <!ENTITY cmdClose.macKey  "W">
+
+<!ENTITY credit.translation "Erkan Kaplan">
+<!ENTITY credit.powered     "Gücünün kaynağı">
+

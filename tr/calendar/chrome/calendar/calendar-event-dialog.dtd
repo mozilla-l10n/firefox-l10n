@@ -42,33 +42,14 @@
 
 <!ENTITY event.title.label                  "Öğeyi düzenle" >
 
-<!ENTITY newevent.title.label               "Başlık" >
-<!ENTITY newevent.title.accesskey           "B" >
-
-
-
 <!-- LOCALIZATION NOTE In the following New Event/Task dialog only sections,
    - all accesskeys MUST be different. See Bug 357027 Comment #14 for more
    - details  -->
 <!-- The following entities are for New Event dialog only -->
-<!ENTITY newevent.from.label                "Gönderen" >
-<!ENTITY newevent.from.accesskey            "G" >
-<!ENTITY newevent.to.label                  "Kime" >
-<!ENTITY newevent.to.accesskey              "K" >
-
-
-
-<!-- The following entities are for New Task dialog only -->
-<!ENTITY newtodo.duedate.label              "Son tarih">
-<!ENTITY newtodo.duedate.accesskey          "T">
 
 
 <!ENTITY newevent.attendees.sendEmail.label "Katılanları posta yolu ile çağır">
 
-<!ENTITY newevent.privacy.label             "Gizli" >
-<!ENTITY newevent.privacy.accesskey         "G" >
-<!ENTITY newevent.public.label              "Genel" >
-<!ENTITY newevent.private.label             "Özel" >
 
 
 <!ENTITY newevent.status.label              "Durum" >
@@ -85,20 +66,6 @@
 <!ENTITY newevent.status.inprogress.label   "Hazırlanıyor" >
 <!ENTITY newevent.status.completed.label    "Tamamlandı" >
 
-<!ENTITY newevent.alarm.label               "Alarm" >
-<!ENTITY newevent.alarm.accesskey           "m" >
-<!ENTITY newevent.none.label                "yok" >
-
-<!ENTITY newevent.custom.label              "Özelleştir…" >
-
-<!ENTITY newevent.uri.label                 "URL" >
-<!ENTITY newevent.uri.accesskey             "U" >
-<!ENTITY newevent.uri.visit.label           "Adrese git" >
-<!ENTITY newevent.uri.visit.accesskey       "D" >
-
-
-
-
 
 <!-- Alarm -->
 <!ENTITY alarm.units.minutes                "dakika" >
@@ -109,8 +76,4 @@
 <!ENTITY newevent.before.label              "önce" >
 <!ENTITY newevent.after.label               "sonra" >
 
-<!-- Information messages -->
-<!ENTITY newevent.endtime.warning           "Başlangıç tarihiniz bitiş tarihinden sonradır.">
-<!ENTITY newevent.readonly.item.warning     "Bu öğe salt okunur bir takvimin içindedir.  Öğeyi düzenleyemezsiniz.">
 
-<!ENTITY newtodo.repeatstart.warning        "Tekrarlanan zamanlar için başlangıç tarihi girin.">
