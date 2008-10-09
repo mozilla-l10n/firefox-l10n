@@ -1,5 +1,5 @@
-<!ENTITY  warnAddonInstall.label        "My warskôgje as websteeën tafoegings probearje te ynstallearjen">
-<!ENTITY  warnAddonInstall.accesskey    "w">
+<!ENTITY  warnAddonInstall.label		"My warskôgje as websteeën tafoegings ynstallearje wolle">
+<!ENTITY  warnAddonInstall.accesskey	"w">
 
 <!-- LOCALIZATION NOTE (tellMaybeForgery.label, tellMaybeAttackSite.label):
   The methods by which forged (phished) and attack sites will be detected by
@@ -8,35 +8,35 @@
   useDownloadedList.label convey the meaning "suspected" (and not something like
   "known").
 -->
-<!ENTITY  tellMaybeAttackSite2.label     "Blokkearje rapportearre oanfalside">
-<!ENTITY  tellMaybeAttackSite.accesskey "k">
+<!ENTITY  blockAttackSites.label		"Blokkearje rapportearre oanfalside">
+<!ENTITY  blockAttackSites.accesskey	"k">
 
-<!ENTITY  tellMaybeForgery2.label     "Blokkearje rapportearre webferfalsking">
-<!ENTITY  tellMaybeForgery.accesskey "B">
+<!ENTITY  blockWebForgeries.label		"Blokkearje rapportearre webferfalsking">
+<!ENTITY  blockWebForgeries.accesskey	"B">
 
-<!ENTITY  addonExceptions.label          "Utsûnderings...">
-<!ENTITY  addonExceptions.accesskey      "U">
-
-
-<!ENTITY  passwords.label                "Wachtwurden">
-
-<!ENTITY  rememberPasswords.label        "Wachtwurden foar websteeën ûnthâlde">
-<!ENTITY  rememberPasswords.accesskey    "c">
-<!ENTITY  passwordExceptions.label       "Utsûnderings...">
-<!ENTITY  passwordExceptions.accesskey   "s">
-
-<!ENTITY  useMasterPassword.label        "In haadwachtwurd brûke">
-<!ENTITY  useMasterPassword.accesskey    "h">
-<!ENTITY  changeMasterPassword.label     "Haadwachtwurd wizigje...">
-<!ENTITY  changeMasterPassword.accesskey "z">
-
-<!ENTITY  savedPasswords.label            "Bewarre wachtwurden">
-<!ENTITY  savedPasswords.accesskey        "B">
+<!ENTITY  addonExceptions.label			"Utsûnderings...">
+<!ENTITY  addonExceptions.accesskey		"U">
 
 
-<!ENTITY  warnings.label                "Warskôgingsberjochten">
+<!ENTITY  passwords.label				"Wachtwurden">
 
-<!ENTITY  chooseWarnings.label          "Kies hokker warskôgingsberjochten jo sjen wolle wylst jo sneupe op it ynternet">
+<!ENTITY  rememberPasswords.label		"Wachtwurden foar websteeën ûnthâlde">
+<!ENTITY  rememberPasswords.accesskey	"c">
+<!ENTITY  passwordExceptions.label		"Utsûnderings...">
+<!ENTITY  passwordExceptions.accesskey	"s">
 
-<!ENTITY  warningSettings.label         "Ynstellings...">
-<!ENTITY  warningSettings.accesskey     "s">
+<!ENTITY  useMasterPassword.label		"In haadwachtwurd brûke">
+<!ENTITY  useMasterPassword.accesskey	"h">
+<!ENTITY  changeMasterPassword.label	"Haadwachtwurd wizigje...">
+<!ENTITY  changeMasterPassword.accesskey	"z">
+
+<!ENTITY  savedPasswords.label			"Bewarre wachtwurden">
+<!ENTITY  savedPasswords.accesskey		"B">
+
+
+<!ENTITY  warnings.label				"Warskôgingsberjochten">
+
+<!ENTITY  chooseWarnings.label			"Kies hokker warskôgingsberjochten jo sjen wolle wylst jo sneupe op it ynternet">
+
+<!ENTITY  warningSettings.label			"Ynstellings...">
+<!ENTITY  warningSettings.accesskey		"s">
