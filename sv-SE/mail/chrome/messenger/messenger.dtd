@@ -78,7 +78,7 @@
 <!ENTITY renameFolder.accesskey "å">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Komprimera mappar">
-<!ENTITY compactFolder.accesskey "K">
+<!ENTITY compactFolders.accesskey "K">
 <!ENTITY emptyTrashCmd.label "Töm papperskorgen">
 <!ENTITY emptyTrashCmd.accesskey "T">
 <!ENTITY importCmd.label "Importera…">
@@ -260,22 +260,33 @@
 <!ENTITY bodyAsPlaintext.accesskey "V">
 <!ENTITY viewAttachmentsInlineCmd.label "Visa bilagor i meddelandet">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "b">
-<!ENTITY reloadCmd.label "Hämta på nytt">
-<!ENTITY reloadCmd.accesskey "H">
-<!ENTITY stopCmd.label "Stopp">
-<!ENTITY stopCmd.accesskey "S">
-<!ENTITY textZoomEnlargeCmd.label "Större">
-<!ENTITY textZoomEnlargeCmd.accesskey "S">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
-<!ENTITY textZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY textZoomReduceCmd.label "Mindre">
-<!ENTITY textZoomReduceCmd.accesskey "M">
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomResetCmd.commandkey "0">
-<!ENTITY textZoomResetCmd.label     "Normal">
-<!ENTITY textZoomResetCmd.accesskey "N">
-<!ENTITY textSize.label             "Textstorlek">
-<!ENTITY textSize.accesskey             "x">
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY fullZoomEnlargeCmd.label       "Zooma in">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "Z">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY fullZoomReduceCmd.label        "Zooma ut">
+<!ENTITY fullZoomReduceCmd.accesskey    "u">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
+<!ENTITY fullZoomResetCmd.label         "Återställ">
+<!ENTITY fullZoomResetCmd.accesskey     "Å">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY fullZoomToggleCmd.label        "Zooma endast texten">
+<!ENTITY fullZoomToggleCmd.accesskey    "e">
+<!ENTITY fullZoom.label                 "Zoom">
+<!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY pageSourceCmd.label "Meddelandets källkod">
 <!ENTITY pageSourceCmd.accesskey "k">
@@ -316,8 +327,8 @@
 <!ENTITY nextStarredMsgCmd.label "Märkta meddelande">
 <!ENTITY nextStarredMsgCmd.accesskey "ä">
 <!ENTITY nextUnreadThread.label "Olästa tråd">
-<!ENTITY nextUnreadThreadCmd.accesskey "T">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "t">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Föregående">
 <!ENTITY prevMenu.accesskey "F">
 <!ENTITY prevMsgCmd.label "Meddelande">
