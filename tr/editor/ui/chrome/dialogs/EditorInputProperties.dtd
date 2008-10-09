@@ -3,9 +3,13 @@
 <!ENTITY AccessKey.accesskey "E">
 <!ENTITY AccessKey.label "Erişim tuşu:">
 <!ENTITY GroupName.label "Grup adı:">
+<!ENTITY GroupName.accesskey "G">
+
 <!ENTITY ImageProperties.accesskey "e">
 <!ENTITY ImageProperties.label "Resim dosyası özellikleri...">
 <!ENTITY InitialValue.label "Başlangıç değeri:">
+<!ENTITY InitialValue.accesskey "D">
+
 <!ENTITY InputChecked.accesskey "B">
 <!ENTITY InputChecked.label "Başlangıçta işaretli">
 <!ENTITY InputDisabled.accesskey "K">
@@ -19,12 +23,12 @@
 <!ENTITY InputType.accesskey "L">
 <!ENTITY InputType.label "Alan tipi">
 <!ENTITY InputValue.label "Alan değeri:">
-<!ENTITY Name.accesskey "n">
+<!ENTITY InputName.accesskey "n">
 <!ENTITY TextLength.accesskey "s">
 <!ENTITY TextLength.label "Asgari uzunluk:">
 <!ENTITY TextSize.accesskey "A">
 <!ENTITY TextSize.label "Alan boyutu:">
-<!ENTITY Value.accesskey "v">
+<!ENTITY InputValue.accesskey "v">
 <!ENTITY button.value "Düğme">
 <!ENTITY checkbox.value "İşaret kutucuğu">
 <!ENTITY file.value "Dosya">

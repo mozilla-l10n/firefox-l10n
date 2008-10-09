@@ -16,20 +16,23 @@
 <!ENTITY copy.key "c">
 
 <!ENTITY cpercentCmd.label "400">
-<!ENTITY cutCmd.accesskey "X">
+<!ENTITY cpercentCmd.accesskey "4">
+
+<!ENTITY cutCmd.accesskey "K">
 <!ENTITY cutCmd.label "Kes">
+<!ENTITY cut.key "X" >
+
 <!ENTITY delSpotCmd.label "Nokta sil">
 <!ENTITY mapeditMenu.label "Düzenle">
 <!ENTITY mapeditMenu.accesskey "z">
 
 <!ENTITY mapfileMenu.label "Dosya">
-<!ENTITY mapfilemenu.accesskey "D">
+<!ENTITY mapfileMenu.accesskey "D">
 
 <!ENTITY mapviewMenu.label "Göster">
 <!ENTITY mapviewScale.label "Ölçek">
 <!ENTITY mapviewMenu.accesskey "G">
 <!ENTITY mapviewScale.accesskey "Ö">
-<
 <!ENTITY pasteCmd.accesskey "Y">
 <!ENTITY pasteCmd.label "Yapıştır">
 <!ENTITY paste.key "v">
@@ -43,7 +46,7 @@
 <!ENTITY selectall.key "a">
 
 <!ENTITY showhideTbarCmd.label "Araç Çubuğunu Gizle">
-<!ENTITY tbar.accesskey "a">
+<!ENTITY showhideTbarCmd.accesskey "a">
 <!ENTITY tbar.key "t">
 
 <!ENTITY windowTitle.label "Görüntü Haritası Editörü">

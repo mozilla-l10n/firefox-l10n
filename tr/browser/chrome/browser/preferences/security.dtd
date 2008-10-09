@@ -9,7 +9,6 @@
   "known").
 -->
 
-
 <!ENTITY  addonExceptions.label         "Ayrıcalıklar...">
 <!ENTITY  addonExceptions.accesskey     "k">
 
@@ -34,4 +33,9 @@
 <!ENTITY  warningSettings.label         "Ayarlar...">
 <!ENTITY  warningSettings.accesskey     "A">
 
+
+<!ENTITY  blockAttackSites.label     "Bildirilen saldırı sitelerini engelle">
+<!ENTITY  blockAttackSites.accesskey "s">
+<!ENTITY  blockWebForgeries.label     "Bildirilen sahtekârlıkları engelle">
+<!ENTITY  blockWebForgeries.accesskey "h">
 
