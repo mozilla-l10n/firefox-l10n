@@ -445,7 +445,7 @@
         <rdf:li> <rdf:Description ID="mail_server_imap" nc:name="IMAP-serverinställningar"  nc:link="mail_help.xhtml#imap_server_settings"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-imap-advanced" nc:name="Avancerade IMAP-serverinställningar"  nc:link="mail_help.xhtml#advanced_imap_server_settings"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail_server_pop3" nc:name="POP-serverinställningar"  nc:link="mail_help.xhtml#pop_server_settings"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_server_nntp" nc:name="Diskussionsgruppserverinställningar"  nc:link="mail_help.xhtml#news_server_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_server_nntp" nc:name="Gruppserverinställningar"  nc:link="mail_help.xhtml#news_server_settings"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
