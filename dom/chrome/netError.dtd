@@ -31,7 +31,7 @@
 <!ENTITY contentEncodingError.longDesc "<p>Ikusten saiatzen ari zaren orria ezin da ikusi baliogabeko edo onartzen ez den konpresio mota bat erabiltzen baitu.</p><ul><li>Jarri harremanetan gunearen arduradunarekin arazo honen berri emateko.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Fitxategi mota EZ-segurua">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>Jarri harremanetan webgunearen jabeekin arazo honen berri emateko.</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Jarri harremanetan webgunearen jabeekin arazo honen berri emateko.</li> </ul> ">
 
 <!ENTITY netReset.title "Konexioa eten egin da">
 <!ENTITY netReset.longDesc "<p>Sareko lotura eten egin da konexioa negoziatzerakoan. Mesedez saiatu berriro.</p>">

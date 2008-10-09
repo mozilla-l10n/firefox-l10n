@@ -34,8 +34,6 @@
 <!ENTITY languagePopup.accessKey "z">
 <!ENTITY downloadDictionaries.label "Hiztegi Gehiago Deskargatu">
 
-<!ENTITY useMIME.label "8-bit kodeketako karaktereak dituzten mezuentzat, erabili 'quoted printable' MIME kodeketa">
-<!ENTITY useMIME.accesskey "o">
 <!ENTITY warnOnSendAccelKey.label "Mezu bat bidaltzeko laster-teklak erabiltzean Berrespena eskatu">
 <!ENTITY warnOnSendAccelKey.accesskey "i">
 <!ENTITY autoSave.label "Zenbatero Automatikoki Gorde: ">
@@ -54,6 +52,7 @@
 <!ENTITY addressingEnable.accesskey "A">
 <!ENTITY directories.label "Direktorio Zerbitzaria:">
 <!ENTITY directories.accesskey "D">
+<!ENTITY directoriesNone.label "None">
 <!ENTITY editDirectories.label "Editatu Direktorioak...">
 <!ENTITY editDirectories.accesskey "E">
 <!ENTITY matchText.label "Zure helbide liburu lokalean pareko bat aurkitzean:">

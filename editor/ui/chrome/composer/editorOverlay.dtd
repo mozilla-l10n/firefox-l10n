@@ -44,58 +44,57 @@
 
 
 <!ENTITY fileMenu.label "Fitxategia">
-<!ENTITY filemenu.accesskey "f">
+<!ENTITY fileMenu.accesskey "F">
 <!ENTITY newBlankPageCmd.label "Composer orria">
-<!ENTITY newBlankPage.accesskey "P">
+<!ENTITY newBlankPageCmd.accesskey "o">
 <!ENTITY newMenu.label "Berria">
 <!ENTITY openFileCmd.label "Ireki fitxategia...">
-<!ENTITY fileopen.accesskey "o">
-<!ENTITY fileopen.keybinding "o">
-<!ENTITY openremoteCmd.label "Ireki kokalekua...">
-<!ENTITY fileopenremote.accesskey "l">
-<!ENTITY fileopenremote.keybinding "l">
+<!ENTITY openFileCmd.accesskey "I">
+<!ENTITY openFileCmd.key "I">
+<!ENTITY openRemoteCmd.label "Ireki web kokagunea...">
+<!ENTITY openRemoteCmd.accesskey "k">
+<!ENTITY openRemoteCmd.key "k">
 <!ENTITY fileRecentMenu.label "Duela gutxiko orriak">
-<!ENTITY filerecentmenu.accesskey "r">
+<!ENTITY fileRecentMenu.accesskey "D">
 <!ENTITY fileRevert.label "Itzuli lehengora">
-<!ENTITY filerevert.accesskey "v">
+<!ENTITY fileRevert.accesskey "z">
 <!ENTITY saveCmd.label "Gorde">
-<!ENTITY filesave.accesskey "s">
-<!ENTITY filesave.keybinding "s">
+<!ENTITY saveCmd.accesskey "G">
+<!ENTITY saveCmd.key "G">
 <!ENTITY saveAsCmd.label "Gorde honela...">
-<!ENTITY filesaveas.accesskey "A">
+<!ENTITY saveAsCmd.accesskey "h">
 
 <!ENTITY publishCmd.label "Publikatu">
-<!ENTITY publishcmd.accesskey "b">
+<!ENTITY publishCmd.accesskey "b">
+<!ENTITY publishCmd.key "t">
 <!ENTITY publishAsCmd.label "Publikatu honela...">
-<!ENTITY publishas.accesskey "h">
+<!ENTITY publishAsCmd.accesskey "h">
 <!ENTITY exportToTextCmd.label "Testura esportatu...">
-<!ENTITY fileexporttotext.accesskey "T">
+<!ENTITY exportToTextCmd.accesskey "T">
 <!ENTITY saveAsChangeEncodingCmd.label "Gorde eta karaktere kodeketa aldatu">
-<!ENTITY filesaveandchangeencoding.accesskey "E">
+<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
 <!ENTITY previewCmd.label "Arakatu orria">
-<!ENTITY filepreview.accesskey "w">
+<!ENTITY previewCmd.accesskey "w">
 <!ENTITY sendPageCmd.label "Bidali orria...">
-<!ENTITY sendPage.accesskey "d">
+<!ENTITY sendPageCmd.accesskey "d">
 <!ENTITY printSetupCmd.label "Prestatu orria...">
-<!ENTITY fileprintsetup.accesskey "u">
+<!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Inprimatzeko aurrebista">
-<!ENTITY fileprintpreview.accesskey "v">
-<!ENTITY printCmd.label "Inprimatu...">
+<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printButtonCmd.label "Inprimatu...">
-<!ENTITY fileprint.accesskey "p">
-<!ENTITY fileprint.keybinding "p">
+<!ENTITY printCmd.label "Inprimatu...">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.key "P">
 <!ENTITY closeCmd.label "Itxi">
-<!ENTITY fileclose.accesskey "c">
-<!ENTITY fileclose.keybinding "w">
-<!ENTITY exitCmd.label "Irten">
-<!ENTITY fileexit.accesskey "q">
-<!ENTITY fileexit.keybinding "q">
+<!ENTITY closeCmd.accesskey "C">
+<!ENTITY closeCmd.key "W">
 <!-- Edit menu items -->
 
 <!ENTITY editMenu.label "Editatu">
-<!ENTITY editmenu.accesskey "e">
+<!ENTITY editMenu.accesskey "E">
 <!ENTITY pasteNoFormatting.label "Itsasi formaturik gabe">
 <!ENTITY pasteNoFormatting.accesskey "g">
+<!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Itsasi honela">
 <!ENTITY pasteAs.accesskey "h">
 <!ENTITY publishSettings.label "Argitaratze leku ezarpenak...">
@@ -104,98 +103,97 @@
      clipboard formats are available -->
 
 <!ENTITY pasteHTMLCmd.label "HTML">
-<!ENTITY pasteHTML.accesskey "h">
+<!ENTITY pasteHTMLCmd.accesskey "H">
 <!ENTITY pasteTextCmd.label "Testua">
-<!ENTITY pasteText.accesskey "t">
+<!ENTITY pasteTextCmd.accesskey "T">
 <!ENTITY pasteImageCmd.label "Irudia">
-<!ENTITY pasteImage.accesskey "i">
+<!ENTITY pasteImageCmd.accesskey "I">
 <!ENTITY pasteRowsCmd.label "Errenkadak">
-<!ENTITY pasteRows.accesskey "r">
+<!ENTITY pasteRowsCmd.accesskey "R">
 <!ENTITY pasteColumnsCmd.label "Zutabeak">
-<!ENTITY pasteColumns.accesskey "c">
+<!ENTITY pasteColumnsCmd.accesskey "C">
 <!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
      Set to: "Table" or "Nested Table" depending on context 
      This accesskey must be in both strings -->
-<!ENTITY pasteTable.accesskey "a">
+<!ENTITY pasteTableCmd.accesskey "a">
 <!ENTITY pasteLinkCmd.label "Lotura">
-<!ENTITY editpastelink.accesskey "l">
+<!ENTITY pasteLinkCmd.accesskey "L">
 <!ENTITY pasteAsQuotationCmd.label "Itsatsi aipamen bezala">
-<!ENTITY editpastequotation.accesskey "q">
-<!ENTITY editpastequotation.keybinding "v">
+<!ENTITY pasteAsQuotationCmd.accesskey "Q">
 <!ENTITY editStripQuotesCmd.label "Aipamenak kendu">
 <!ENTITY editRewrapCmd.label "Berriro itzulbiratu">
 <!ENTITY findCmd.label "Bilatu eta ordezkatu...">
-<!ENTITY editfind.accesskey "f">
-<!ENTITY editfind.keybinding "f">
-<!ENTITY editfind.keybinding2 "VK_F19">
+<!ENTITY findCmd.accesskey "F">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.key2 "VK_F19">
 <!ENTITY findAgainCmd.label "Berriro bilatu">
-<!ENTITY editfindnext.accesskey "g">
-<!ENTITY editfindnext.keybinding "g">
-<!ENTITY editfindnext.keybinding2 "VK_F3">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Bilatu aurrekoa">
-<!ENTITY editfindprev.accesskey "v">
-<!ENTITY editfindprev.keybinding "g">
-<!ENTITY editfindprev.keybinding2 "VK_F3">
+<!ENTITY findPrevCmd.accesskey "v">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Egiaztatu idatzi ahala">
 <!ENTITY enableInlineSpellChecker.accesskey "Z">
 <!ENTITY checkSpellingCmd.label "Egiaztatu ortografia">
-<!ENTITY editcheckspelling.accesskey "h">
-<!ENTITY editcheckspelling.keybinding "k">
+<!ENTITY checkSpellingCmd.accesskey "h">
+<!ENTITY checkSpellingCmd.key "K">
 <!ENTITY validateCmd.label "HTML-a balidatu">
-<!ENTITY validate.accesskey "v">
+<!ENTITY validateCmd.accesskey "V">
 <!ENTITY checkLinksCmd.label "Egiaztatu loturak">
 <!-- View menu items -->
 
 <!ENTITY viewPageSource.label "Orriaren iturburua">
-<!ENTITY viewpagesource.accesskey "s">
+<!ENTITY viewPageSource.accesskey "S">
 <!ENTITY viewParagraphMarks.label "Paragrafo-markak">
-<!ENTITY viewparagraphmarks.accesskey "p">
+<!ENTITY viewParagraphMarks.accesskey "P">
 <!-- Insert menu items -->
 
 <!ENTITY insertMenu.label "Txertatu">
-<!ENTITY insertmenu.accesskey "i">
+<!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd.label "Lotura...">
-<!ENTITY insertlink.accesskey "l">
-<!ENTITY insertlink.keybinding "l">
+<!ENTITY insertLinkCmd.accesskey "L">
+<!ENTITY insertLinkCmd.key "L">
 <!ENTITY insertAnchorCmd.label "Izendun aingura...">
-<!ENTITY insertanchor.accesskey "A">
+<!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "Irudia...">
-<!ENTITY insertimage.accesskey "i">
+<!ENTITY insertImageCmd.accesskey "I">
 <!ENTITY insertImageMapCmd.label "Irudi mapa...">
 <!ENTITY insertHLineCmd.label "Lerro horizontala">
-<!ENTITY inserthline.accesskey "o">
+<!ENTITY insertHLineCmd.accesskey "o">
 <!ENTITY insertTableCmd.label "Taula...">
-<!ENTITY inserttable.accesskey "t">
+<!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertFormMenu.label "Inprimakia">
-<!ENTITY insertformmenu.accesskey "F">
+<!ENTITY insertFormMenu.accesskey "F">
 <!ENTITY insertHTMLCmd.label "HTML...">
-<!ENTITY insertHTMLCmd.accesskey "h">
+<!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertCharsCmd.label "Karaktere eta sinboloak...">
-<!ENTITY insertchars.accesskey "C">
+<!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakCmd.label "Lerro-jauzia">
-<!ENTITY insertbreak.accesskey "b">
+<!ENTITY insertBreakCmd.accesskey "B">
 <!ENTITY insertBreakAllCmd.label "Irudi azpitik jauzia">
-<!ENTITY insertbreakall.accesskey "k">
+<!ENTITY insertBreakAllCmd.accesskey "k">
 <!-- Insert form menu items -->
 
 <!ENTITY insertFormCmd.label "Inprimakia zehaztu...">
-<!ENTITY insertform.accesskey "D">
+<!ENTITY insertFormCmd.accesskey "D">
 <!ENTITY insertInputTagCmd.label "Inprimaki eremua...">
-<!ENTITY insertinputtag.accesskey "e">
+<!ENTITY insertInputTagCmd.accesskey "e">
 <!ENTITY insertInputImageCmd.label "Inprimaki irudia...">
-<!ENTITY insertinputimage.accesskey "I">
+<!ENTITY insertInputImageCmd.accesskey "I">
 <!ENTITY insertTextAreaCmd.label "Testu-area...">
-<!ENTITY inserttextarea.accesskey "T">
+<!ENTITY insertTextAreaCmd.accesskey "T">
 <!ENTITY insertSelectCmd.label "Hautatze lista...">
-<!ENTITY insertselect.accesskey "S">
+<!ENTITY insertSelectCmd.accesskey "S">
 <!ENTITY insertButtonCmd.label "Botoia zehaztu...">
-<!ENTITY insertbutton.accesskey "B">
+<!ENTITY insertButtonCmd.accesskey "B">
 <!ENTITY insertLabelCmd.label "Etiketa zehaztu">
-<!ENTITY insertlabel.accesskey "L">
+<!ENTITY insertLabelCmd.accesskey "L">
 <!ENTITY insertFieldSetCmd.label "Eremu-multzoa zehaztu...">
-<!ENTITY insertfieldset.accesskey "F">
+<!ENTITY insertFieldSetCmd.accesskey "F">
 <!ENTITY insertIsIndexCmd.label "Indize bilaketa">
-<!ENTITY insertisindex.accesskey "x">
+<!ENTITY insertIsIndexCmd.accesskey "x">
 <!-- Used just in context popup. -->
 
 <!ENTITY spellCheckNoSuggestions.label "(Ez da gomendiorik aurkitu)">
@@ -204,99 +202,99 @@
 <!ENTITY spellCheckAddToDictionary.label "Gehitu hiztegira">
 <!ENTITY spellCheckAddToDictionary.accesskey "g">
 <!ENTITY createLinkCmd.label "Lotura sortu...">
-<!ENTITY createlink.accesskey "k">
+<!ENTITY createLinkCmd.accesskey "k">
 <!ENTITY editLinkCmd.label "Editatu lotura Composer leiho berrian">
-<!ENTITY editlink.accesskey "i">
+<!ENTITY editLinkCmd.accesskey "i">
 <!-- (Toplevel Edit menu uses utilityOverlay) -->
 <!ENTITY undoCmd.label "Desegin">
-<!ENTITY undo.accesskey "u">
+<!ENTITY undoCmd.accesskey "U">
 <!ENTITY redoCmd.label "Berregin">
-<!ENTITY redo.accesskey "r">
+<!ENTITY redoCmd.accesskey "R">
 <!ENTITY cutCmd.label "Ebaki">
-<!ENTITY cut.accesskey "t">
+<!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Kopiatu">
-<!ENTITY copy.accesskey "c">
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "Itsatsi">
-<!ENTITY paste.accesskey "p">
+<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY deleteCmd.label "Ezabatu">
-<!ENTITY delete.accesskey "d">
+<!ENTITY deleteCmd.accesskey "D">
 <!ENTITY clearCmd.label "Garbitu">
-<!ENTITY clear.accesskey "l">
+<!ENTITY clearCmd.accesskey "l">
 <!ENTITY selectAllCmd.label "Hautatu dena">
-<!ENTITY selectall.accesskey "a">
+<!ENTITY selectAllCmd.accesskey "A">
 <!-- Font Face SubMenu -->
 
 <!ENTITY FontFaceSelect.tooltip "Letra-tipoa hautatu">
 <!ENTITY fontfaceMenu.label "Letra-tipoa">
-<!ENTITY formatfontmenu.accesskey "f">
+<!ENTITY fontfaceMenu.accesskey "F">
 <!ENTITY fontVarWidth.label "Zabalera aldakorra">
-<!ENTITY fontvarwidth.accesskey "v">
+<!ENTITY fontVarWidth.accesskey "V">
 <!ENTITY fontFixedWidth.label "Zabalera finkatua">
-<!ENTITY fontfixedwidth.accesskey "x">
-<!ENTITY formatfontfixed.keybinding "t">
-<!ENTITY fontHelveticaFont.label "Helvetica, Arial">
-<!ENTITY fonthelvetica.accesskey "l">
+<!ENTITY fontFixedWidth.accesskey "x">
+<!ENTITY fontFixedWidth.key "T">
+<!ENTITY fontHelvetica.label "Helvetica, Arial">
+<!ENTITY fontHelvetica.accesskey "l">
 <!ENTITY fontTimes.label "Times">
-<!ENTITY fonttimes.accesskey "t">
+<!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
-<!ENTITY fontcourier.accesskey "c">
+<!ENTITY fontCourier.accesskey "C">
 <!ENTITY localfontfaceMenu.label "Letra-tipo lokalak">
-<!ENTITY localfontmenu.accesskey "f">
+<!ENTITY localfontfaceMenu.accesskey "F">
 <!-- Font Size SubMenu -->
 
 <!ENTITY FontSizeSelect.tooltip "Letra-tipoaren tamaina hautatu">
 <!ENTITY decreaseFontSize.label "Txikiagoa">
-<!ENTITY decreasefontsize.accesskey "r">
-<!ENTITY decreaseFontSize.keybinding "-">
+<!ENTITY decreaseFontSize.accesskey "r">
+<!ENTITY decreaseFontSize.key "-">
 <!ENTITY increaseFontSize.label "Handiagoa">
-<!ENTITY increasefontsize.accesskey "g">
-<!ENTITY increaseFontSize.keybinding "+">
+<!ENTITY increaseFontSize.accesskey "g">
+<!ENTITY increaseFontSize.key "+">
 <!-- + is above this key on many keyboards -->
-<!ENTITY increaseFontSize.keybinding2 "=">
+<!ENTITY increaseFontSize.key2 "=">
 
-<!ENTITY fontsizeMenu.label "Tamaina">
-<!ENTITY formatsizemenu.accesskey "z">
+<!ENTITY fontSizeMenu.label "Size">
+<!ENTITY fontSizeMenu.accesskey "z">
 <!ENTITY size-xx-smallCmd.label "xx-txikia">
-<!ENTITY size-xx-small.accesskey "a">
+<!ENTITY size-xx-smallCmd.accesskey "a">
 <!ENTITY size-x-smallCmd.label "x-txikia">
-<!ENTITY size-x-small.accesskey "m">
+<!ENTITY size-x-smallCmd.accesskey "m">
 <!ENTITY size-smallCmd.label "txikia">
-<!ENTITY size-small.accesskey "s">
+<!ENTITY size-smallCmd.accesskey "s">
 <!ENTITY size-mediumCmd.label "ertaina">
-<!ENTITY size-medium.accesskey "d">
+<!ENTITY size-mediumCmd.accesskey "d">
 <!ENTITY size-largeCmd.label "handia">
-<!ENTITY size-large.accesskey "l">
+<!ENTITY size-largeCmd.accesskey "l">
 <!ENTITY size-x-largeCmd.label "x-handia">
-<!ENTITY size-x-large.accesskey "x">
+<!ENTITY size-x-largeCmd.accesskey "x">
 <!ENTITY size-xx-largeCmd.label "xx-handia">
-<!ENTITY size-xx-large.accesskey "e">
+<!ENTITY size-xx-largeCmd.accesskey "e">
 <!-- Font Style SubMenu -->
 
 <!ENTITY fontStyleMenu.label "Testu estiloa">
-<!ENTITY formatstylemenu.accesskey "s">
+<!ENTITY fontStyleMenu.accesskey "S">
 <!ENTITY styleBoldCmd.label "Lodia">
-<!ENTITY stylebold.accesskey "b">
-<!ENTITY stylebold.keybinding "b">
+<!ENTITY styleBoldCmd.accesskey "B">
+<!ENTITY styleBoldCmd.key "B">
 <!ENTITY styleItalicCmd.label "Etzana">
-<!ENTITY styleitalic.accesskey "I">
-<!ENTITY styleitalic.keybinding "i">
+<!ENTITY styleItalicCmd.accesskey "I">
+<!ENTITY styleItalicCmd.key "I">
 <!ENTITY styleUnderlineCmd.label "Azpimarratua">
-<!ENTITY styleunderline.accesskey "u">
-<!ENTITY styleunderline.keybinding "u">
+<!ENTITY styleUnderlineCmd.accesskey "U">
+<!ENTITY styleUnderlineCmd.key "U">
 <!ENTITY styleStrikeThruCmd.label "Marratua">
-<!ENTITY stylestrikethru.accesskey "k">
+<!ENTITY styleStrikeThruCmd.accesskey "k">
 <!ENTITY styleSuperscriptCmd.label "Superscript">
-<!ENTITY stylesuperscript.accesskey "p">
+<!ENTITY styleSuperscriptCmd.accesskey "p">
 <!ENTITY styleSubscriptCmd.label "Azpi-script">
-<!ENTITY stylesubscript.accesskey "S">
+<!ENTITY styleSubscriptCmd.accesskey "S">
 <!ENTITY styleNonbreakingCmd.label "Tartekatze gabe">
-<!ENTITY stylenonbreaking.accesskey "N">
+<!ENTITY styleNonbreakingCmd.accesskey "N">
 <!ENTITY styleEm.label "Enfasia">
-<!ENTITY styleEm.accesskey "e">
+<!ENTITY styleEm.accesskey "E">
 <!ENTITY styleStrong.label "Enfasi sendoagoa">
 <!ENTITY styleStrong.accesskey "s">
 <!ENTITY styleCite.label "Aipua">
-<!ENTITY styleCite.accesskey "a">
+<!ENTITY styleCite.accesskey "A">
 <!ENTITY styleAbbr.label "Laburdura">
 <!ENTITY styleAbbr.accesskey "L">
 <!ENTITY styleAcronym.label "Akronimo">
@@ -306,67 +304,63 @@
 <!ENTITY styleSamp.label "Irteera Eredua">
 <!ENTITY styleSamp.accesskey "d">
 <!ENTITY styleVar.label "Aldakorra">
-<!ENTITY styleVar.accesskey "a">
+<!ENTITY styleVar.accesskey "A">
 
 <!ENTITY formatFontColor.label "Testuaren Kolorea...">
-<!ENTITY formatfontcolor.accesskey "c">
+<!ENTITY formatFontColor.accesskey "C">
 <!ENTITY tableOrCellColor.label "Taularen edo gelaxkaren atzeko planoko kolorea...">
 <!ENTITY tableOrCellColor.accesskey "R">
 
-<!ENTITY formatremovestyles.keybinding "y">
-<!ENTITY formatremovelinks.keybinding "k">
+<!ENTITY formatRemoveStyles.key "Y">
+<!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Ezabatu izendunak aingurak">
 <!ENTITY formatRemoveNamedAnchors.accesskey "E">
-<!ENTITY formatremovenamedanchors.keybinding "a">
+<!ENTITY formatRemoveNamedAnchors.key "A">
 
-<!ENTITY formatindent.keybinding "]">
-<!ENTITY formatoutdent.keybinding "[">
 <!ENTITY paragraphMenu.label "Paragrafoa">
-<!ENTITY formatparagraphmenu.accesskey "P">
+<!ENTITY paragraphMenu.accesskey "P">
 <!ENTITY paragraphParagraphCmd.label "Paragrafoa">
-<!ENTITY paragraphparagraph.accesskey "P">
+<!ENTITY paragraphParagraphCmd.accesskey "P">
 <!ENTITY heading1Cmd.label "Goiburua 1">
-<!ENTITY heading1.accesskey "1">
+<!ENTITY heading1Cmd.accesskey "1">
 <!ENTITY heading2Cmd.label "Goiburua 2">
-<!ENTITY heading2.accesskey "2">
+<!ENTITY heading2Cmd.accesskey "2">
 <!ENTITY heading3Cmd.label "Goiburua 3">
-<!ENTITY heading3.accesskey "3">
+<!ENTITY heading3Cmd.accesskey "3">
 <!ENTITY heading4Cmd.label "Goiburua 4">
-<!ENTITY heading4.accesskey "4">
+<!ENTITY heading4Cmd.accesskey "4">
 <!ENTITY heading5Cmd.label "Goiburua 5">
-<!ENTITY heading5.accesskey "5">
+<!ENTITY heading5Cmd.accesskey "5">
 <!ENTITY heading6Cmd.label "Goiburua 6">
-<!ENTITY heading6.accesskey "6">
+<!ENTITY heading6Cmd.accesskey "6">
 <!ENTITY paragraphAddressCmd.label "Helbidea">
-<!ENTITY paragraphaddress.accesskey "a">
+<!ENTITY paragraphAddressCmd.accesskey "A">
 <!ENTITY paragraphPreformatCmd.label "Aurreformatua">
-<!ENTITY paragraphpreformat.accesskey "f">
-<!ENTITY paragraphBlockquoteCmd.label "Bloke-aipamena">
-<!ENTITY paragraphblockquote.accesskey "b">
+<!ENTITY paragraphPreformatCmd.accesskey "f">
 <!-- List menu items -->
 
 <!ENTITY formatlistMenu.label "Lista">
-<!ENTITY formatlistmenu.accesskey "l">
+<!ENTITY formatlistMenu.accesskey "L">
 <!ENTITY noneCmd.label "Bat ere ez">
-<!ENTITY none.accesskey "N">
+<!ENTITY noneCmd.accesskey "N">
 <!ENTITY listBulletCmd.label "Buletduna">
-<!ENTITY listbullet.accesskey "b">
+<!ENTITY listBulletCmd.accesskey "B">
 <!ENTITY listNumberedCmd.label "Zenbatua">
-<!ENTITY listnumbered.accesskey "m">
+<!ENTITY listNumberedCmd.accesskey "m">
 <!ENTITY listTermCmd.label "Terminoa">
-<!ENTITY listterm.accesskey "t">
+<!ENTITY listTermCmd.accesskey "T">
 <!ENTITY listDefinitionCmd.label "Definizioa">
-<!ENTITY listdefinition.accesskey "d">
-<!ENTITY listProps.label "Lista propietateak...">
-<!ENTITY listprops.accesskey "l">
+<!ENTITY listDefinitionCmd.accesskey "D">
+<!ENTITY listPropsCmd.label "Zerrenda ropietateak...">
+<!ENTITY listPropsCmd.accesskey "L">
 
 <!ENTITY ParagraphSelect.tooltip "Paragrafo formatu bat aukeratu">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Gorputzaren testua">
-<!ENTITY bodytext.accesskey "T">
+<!ENTITY bodyTextCmd.accesskey "T">
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Propietate aurreratuak">
-<!ENTITY advancedproperties.accesskey "v">
+<!ENTITY advancedPropertiesCmd.accesskey "v">
 
 <!ENTITY NormalAbbr.label "Testua">
 <!ENTITY ParagraphAbbr.label "P">
@@ -378,26 +372,22 @@
 <!ENTITY Heading6Abbr.label "H6">
 <!ENTITY BlockquoteAbbr.label "BQ">
 <!ENTITY AddressAbbr.label "Helb.">
-<!ENTITY PreformatAbbr.label "Pre.">
-<!-- Style Sheet submenu NOT IMPLEMENTED -->
-
-<!ENTITY stylesheetMenu.label "Estilo-orria aplikatu">
-<!ENTITY formatstylesheetmenu.accesskey "y">
+<!ENTITY PreformatAbbr.label "Aur.">
 <!-- Align menu items -->
 
 <!ENTITY alignMenu.label "Lerrokatu">
-<!ENTITY formatalignmenu.accesskey "a">
+<!ENTITY alignMenu.accesskey "A">
 <!ENTITY alignLeft.label "Ezkerra">
-<!ENTITY alignleft.accesskey "l">
+<!ENTITY alignLeft.accesskey "L">
 <!ENTITY alignLeft.tooltip "Lerrokatu ezkerrera">
 <!ENTITY alignCenter.label "Erdian">
-<!ENTITY aligncenter.accesskey "c">
+<!ENTITY alignCenter.accesskey "C">
 <!ENTITY alignCenter.tooltip "Lerrokatu erdira">
 <!ENTITY alignRight.label "Eskuina">
-<!ENTITY alignright.accesskey "r">
+<!ENTITY alignRight.accesskey "R">
 <!ENTITY alignRight.tooltip "Lerrokatu eskuinera">
 <!ENTITY alignJustify.label "Justifikatua">
-<!ENTITY alignjustify.accesskey "j">
+<!ENTITY alignJustify.accesskey "J">
 <!ENTITY alignJustify.tooltip "Lerrokatu justifikatuta">
 <!-- Layer toolbar items -->
 
@@ -406,86 +396,84 @@
 <!ENTITY layerBringToFront.tooltip "Aurrera ekarri">
 
 <!ENTITY increaseIndent.label "Handitu koska">
-<!ENTITY increaseindent.accesskey "i">
-<!ENTITY increaseindentkb "=">
+<!ENTITY increaseIndent.accesskey "I">
+<!ENTITY increaseIndent.key "]">
 <!ENTITY decreaseIndent.label "Txikitu koska">
-<!ENTITY decreaseindent.accesskey "D">
-<!ENTITY decreaseindentkb "-">
+<!ENTITY decreaseIndent.accesskey "D">
+<!ENTITY decreaseIndent.key "[">
 
 <!ENTITY grid.label "Kokatze sareta">
 <!ENTITY grid.accesskey "t">
 
 <!ENTITY pageProperties.label "Orriaren izenburu eta propietateak...">
-<!ENTITY pageproperties.accesskey "g">
+<!ENTITY pageProperties.accesskey "g">
 <!ENTITY colorsAndBackground.label "Orriaren koloreak eta atzeko planoa...">
-<!ENTITY colorsandbackground.accesskey "u">
+<!ENTITY colorsAndBackground.accesskey "u">
 <!-- Table Menu -->
 
 <!ENTITY tableMenu.label "Taula">
-<!ENTITY tablemenu.accesskey "b">
+<!ENTITY tableMenu.accesskey "b">
 <!-- Select Submenu -->
+
 <!ENTITY tableSelectMenu.label "Hautatu">
-<!ENTITY tableselectmenu.accesskey "s">
+<!ENTITY tableSelectMenu.accesskey "S">
 
 <!ENTITY tableSelectMenu2.label "Taula hautatu">
+<!ENTITY tableSelectMenu2.accesskey "S">
 <!ENTITY tableInsertMenu2.label "Taula txertatu">
+<!ENTITY tableInsertMenu2.accesskey "I">
 <!ENTITY tableDeleteMenu2.label "Taula ezabatu">
+<!ENTITY tableDeleteMenu2.accesskey "D">
 <!-- Insert SubMenu -->
 
 <!ENTITY tableInsertMenu.label "Txertatu">
-<!ENTITY tableinsertmenu.accesskey "i">
+<!ENTITY tableInsertMenu.accesskey "I">
 <!ENTITY tableTable.label "Taula">
-<!ENTITY tabletable.accesskey "t">
+<!ENTITY tableTable.accesskey "T">
 <!ENTITY tableRow.label "Errenkada">
 <!ENTITY tableRows.label "Errenakada(k)">
-<!ENTITY tablerow.accesskey "r">
+<!ENTITY tableRow.accesskey "R">
 <!ENTITY tableRowAbove.label "Errenkadaren goian">
-<!-- uses tablerow.accesskey -->
+<!ENTITY tableRowAbove.accesskey "R">
 <!ENTITY tableRowBelow.label "Errenkadaren behean">
-<!ENTITY tablerowbelow.accesskey "b">
+<!ENTITY tableRowBelow.accesskey "B">
 <!ENTITY tableColumn.label "Zutabea">
 <!ENTITY tableColumns.label "Zutabea(k)">
-<!ENTITY tablecolumn.accesskey "o">
+<!ENTITY tableColumn.accesskey "o">
 <!ENTITY tableColumnBefore.label "Zutabearen aurretik">
-<!-- uses tablecolumn.accesskey -->
+<!ENTITY tableColumnBefore.accesskey "o">
 <!ENTITY tableColumnAfter.label "Zutabearen ondoren">
-<!ENTITY tablecolumnafter.accesskey "a">
+<!ENTITY tableColumnAfter.accesskey "A">
 <!ENTITY tableCell.label "Gelaxka">
 <!ENTITY tableCells.label "Gelaxka(k)">
-<!ENTITY tablecell.accesskey "c">
+<!ENTITY tableCell.accesskey "C">
 <!ENTITY tableCellContents.label "Gelaxkaren edukiak">
-<!ENTITY tablecellcontents.accesskey "n">
+<!ENTITY tableCellContents.accesskey "n">
 <!ENTITY tableAllCells.label "Gelaxka guztiak">
+<!ENTITY tableAllCells.accesskey "A">
 <!ENTITY tableCellBefore.label "Aurreko gelaxka">
-<!ENTITY tableallcells.accesskey "a">
-<!-- uses tablecell.accesskey -->
+<!ENTITY tableCellBefore.accesskey "C">
 <!ENTITY tableCellAfter.label "Ondorengo gelaxka">
-<!ENTITY tablecellafter.accesskey "f">
+<!ENTITY tableCellAfter.accesskey "f">
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Ezabatu">
-<!ENTITY tabledeletemenu.accesskey "D">
+<!ENTITY tableDeleteMenu.accesskey "D">
 
 <!ENTITY tableFix.label "Taula banaketa konpondu">
-<!ENTITY tablefix.accesskey "f">
+<!ENTITY tableFix.accesskey "F">
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
 <!ENTITY tableJoinCells.label "j">
-<!ENTITY tablejoincells.accesskey "j">
+<!ENTITY tableJoinCells.accesskey "j">
 <!ENTITY tableSplitCell.label "Zatitu gelaxkak">
-<!ENTITY tablesplitcell.accesskey "c">
+<!ENTITY tableSplitCell.accesskey "C">
 <!ENTITY convertToTable.label "Hautapenetik taula sortu">
-<!ENTITY converttotable.accesskey "r">
+<!ENTITY convertToTable.accesskey "r">
 <!ENTITY tableProperties.label "Taularen propietateak...">
 <!ENTITY tableProperties.accesskey "o">
-<!-- Tools menu -->
-
-<!ENTITY toolsmenu.accesskey "l">
-<!ENTITY toolbrowser.accesskey "b">
-<!ENTITY toolplaineditor.accesskey "p">
-<!ENTITY toolsetfocus.accesskey "f">
 <!-- Toolbar-only items -->
 
 <!ENTITY menuBar.tooltip "Menu-barra">

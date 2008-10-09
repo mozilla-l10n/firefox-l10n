@@ -70,6 +70,7 @@
 <!ENTITY pasteCmd.label "Itsasi">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "i">
+<!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY editRewrapCmd.label "Berriz itzulbiratu">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "z">
@@ -96,10 +97,10 @@
 <!ENTITY viewMenu.accesskey "i">
 <!ENTITY viewToolbarsMenuNew.label "Tresna-barrak">
 <!ENTITY viewToolbarsMenuNew.accesskey "T">
-<!ENTITY showComposeToolbarCmd.label "Posta tresna-barra">
-<!ENTITY showComposeToolbarCmd.accesskey "r">
-<!ENTITY showFormatToolbarCmd.label "Formatu Tresna-barra">
-<!ENTITY showFormatToolbarCmd.accesskey "F">
+<!ENTITY showCompositionToolbarCmd.label "Composition Toolbar">
+<!ENTITY showCompositionToolbarCmd.accesskey "o">
+<!ENTITY showFormattingBarCmd.label "Formatting Bar">
+<!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Egoera-barra">
 <!ENTITY showTaskbarCmd.accesskey "E">
 <!ENTITY customizeToolbar.label "Pertsonalizatu...">
@@ -183,17 +184,6 @@
 <!ENTITY bringAllToFront.label "Eraman Denak Aurrera">
 <!ENTITY zoomWindow.label "Zooma">
 <!ENTITY windowMenu.label "Leihoa">
-<!-- Help Menu -->
-
-<!ENTITY helpMenu.label "Laguntza">
-<!ENTITY helpMenu.accesskey "L">
-<!ENTITY releaseCmd.label "Bertsio Oharrak">
-<!ENTITY releaseCmd.accesskey "B">
-<!ENTITY hintsAndTips.label "&brandShortName; Laguntza">
-<!ENTITY hintsAndTips.accesskey "l">
-<!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY aboutCmd.label "&brandShortName;(r)i buruz">
-<!ENTITY aboutCmd.accesskey "B">
 <!-- Mail Toolbar -->
 
 <!ENTITY sendButton.label "Bidali">
@@ -273,6 +263,8 @@
 <!ENTITY openAttachment.accesskey "I">
 <!ENTITY delete.label "Ezabatu">
 <!ENTITY delete.accesskey "E">
+<!ENTITY renameAttachment.label "Rename…">
+<!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "Hautatu Dena">
 <!ENTITY selectAll.accesskey "D">
 <!ENTITY attachFile.label "Erantsi Fitxategia(k)...">

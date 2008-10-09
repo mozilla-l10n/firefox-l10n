@@ -1,7 +1,7 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Diskoko lekua aurrezteko, ez deskargatu:">
 <!ENTITY doNotDownload.label "Diskoko lekua aurrezteko, ez deskargatu lineaz kanpoko erabilerako:">
-<!ENTITY offlineNewFolder.label "Karpeta berriak sortzean, aukeratu lineaz kanpoko erabilerako">
-<!ENTITY offlineNewFolder.accesskey "s">
+<!ENTITY allFoldersOffline.label "Mantendu kontu honetako mezuak ordenagailu honetan">
+<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Hau baino mezu handiagoak:">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY kb.label "KB">
@@ -9,14 +9,14 @@
 <!ENTITY daysOld.label "egun zahar">
 <!ENTITY message.label "mezuak">
 <!ENTITY nntpNotDownloadRead.label "Irakurritako mezuak">
-<!ENTITY nntpNotDownloadRead.accesskey "R">
+<!ENTITY nntpNotDownloadRead.accesskey "r">
 <!ENTITY nntpDownloadMsg.label "Hau baino mezu gehiago">
 <!ENTITY nntpDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "Diskoko lekua berreskuratzeko, mezu zaharrak betirako ezaba daitezke">
 <!ENTITY retentionKeepMsg.label "Hau baino mezu zaharragoak ezabatu:">
 <!ENTITY retentionKeepMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Ez ezabatu mezurik">
-<!ENTITY retentionKeepAll.accesskey "E">
+<!ENTITY retentionKeepAll.accesskey "e">
 <!ENTITY retentionKeepNew.label "Denak ezabatu, kenduta azken">
 <!ENTITY retentionKeepNew.accesskey "z">
 <!ENTITY retentionKeepUnread.label "Irakurritako mezuak beti ezabatu">
@@ -25,10 +25,7 @@
 <!ENTITY nntpRemoveBody.accesskey "O">
 <!ENTITY offlineSelectNntp.label "Aukeratu berri-taldeak lineaz kanpoko erabilerako...">
 <!ENTITY offlineSelectNntp.accesskey "A">
-<!ENTITY offlineSelectImap.label "Lineaz kanpoko erabilerako karpetak aukeratu...">
-<!ENTITY offlineSelectImap.accesskey "S">
-<!ENTITY offlineDesc.label "Zure mezuak lokalki deskarga ditzakezu lineaz kanpo lan egitean eskuragarri izateko.">
-<!ENTITY makeInboxMsgsAvailable.label "Mezuak erabilgarri egin lineaz kanpo egotean eskuragarri egoteko">
-<!ENTITY makeInboxMsgsAvailable.accesskey "b">
-<!ENTITY offlineGroupTitle.label "Lineaz kanpo">
+<!ENTITY offlineImapAdvancedOffline.label "Aurreratua...">
+<!ENTITY offlineImapAdvancedOffline.accesskey "A">
+<!ENTITY syncGroupTitle.label "Mezu sinkronizatzea">
 <!ENTITY diskspaceGroupTitle.label "Diskoko lekua">
