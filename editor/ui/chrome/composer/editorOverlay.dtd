@@ -171,8 +171,8 @@
 <!ENTITY formatlistMenu.accesskey "l">
 <!ENTITY formatoutdent.keybinding "[">
 <!ENTITY formatparagraphmenu.accesskey "P">
-<!ENTITY formatremovelinks.keybinding "k">
-<!ENTITY formatremovenamedanchors.keybinding "a">
+<!ENTITY formatRemoveLinks.key "k">
+<!ENTITY formatRemoveNamedAnchors.key "a">
 <!ENTITY formatremovestyles.keybinding "y">
 <!ENTITY formatsizemenu.accesskey "z">
 <!ENTITY formatstylemenu.accesskey "s">
@@ -202,7 +202,7 @@
 <!ENTITY increaseIndent.label "הגדל כניסה">
 <!ENTITY increasefontsize.accesskey "g">
 <!ENTITY increaseIndent.accesskey "i">
-<!ENTITY increaseindent.key "=">
+<!ENTITY increaseIndent.key "=">
 <!ENTITY indentToolbarCmd.tooltip "הכנס טקסט (הזז ימינה)">
 <!ENTITY insertAnchorCmd.label "עוגן בעל שם...">
 <!ENTITY insertBreakAllCmd.label "שבור מתחת לתמונה(ות)">
@@ -394,9 +394,9 @@
 <!ENTITY styleUnderlineCmd.label "קו תחתי">
 <!ENTITY styleVar.accesskey "v">
 <!ENTITY styleVar.label "משתנה">
-<!ENTITY stylebold.accesskey "b">
-<!ENTITY stylebold.keybinding "b">
-<!ENTITY styleitalic.accesskey "I">
+<!ENTITY styleBoldCmd.accesskey "b">
+<!ENTITY styleBoldCmd.key "b">
+<!ENTITY styleItalicCmd.accesskey "I">
 <!ENTITY styleitalic.keybinding "i">
 <!ENTITY stylenonbreaking.accesskey "N">
 <!ENTITY stylesheetMenu.label "החל גליון עיצוב">
@@ -465,15 +465,15 @@
 <!ENTITY toolsetfocus.accesskey "f">
 <!ENTITY toolsmenu.accesskey "l">
 <!ENTITY underlineToolbarCmd.tooltip "קו תחתי">
-<!ENTITY undo.accesskey "u">
+<!ENTITY undoCmd.accesskey "u">
 <!ENTITY undoCmd.label "בטל">
 <!ENTITY updateTOC.accesskey "u">
 <!ENTITY updateTOC.label "עדכן">
-<!ENTITY validate.accesskey "v">
+<!ENTITY validateCmd.accesskey "v">
 <!ENTITY validateCmd.label "בדוק תקינות HTML‏">
 <!ENTITY viewPageSource.label "מקור של הדף">
 <!ENTITY viewParagraphMarks.label "סימני פסקה">
-<!ENTITY viewpagesource.accesskey "מ">
+<!ENTITY viewPageSource.accesskey "מ">
 <!ENTITY viewparagraphmarks.accesskey "ס">
 <!ENTITY enableInlineSpellChecker.accesskey "ב">
 <!ENTITY enableInlineSpellChecker.label "בדוק איות תוך כדי הקלדה">
