@@ -44,23 +44,22 @@
 
 
 <!ENTITY viewMenu.label "Ikusi">
-<!ENTITY viewmenu.accesskey "I">
+<!ENTITY viewMenu.accesskey "I">
 <!ENTITY compositionToolbarCmd.label "Konposizio tresna-barra">
-<!ENTITY compositiontb.accesskey "k">
+<!ENTITY compositionToolbarCmd.accesskey "K">
 <!ENTITY formattingToolbarCmd.label "Formatu tresna-barra">
-<!ENTITY formattingtb.accesskey "f">
+<!ENTITY formattingToolbarCmd.accesskey "F">
 <!ENTITY editmodeToolbarCmd.label "Edizio modu tresna-barra">
-<!ENTITY editmodetb.accesskey "E">
+<!ENTITY editmodeToolbarCmd.accesskey "E">
 <!-- Format menu items -->
 
 <!ENTITY formatMenu.label "Formatua">
-<!ENTITY formatmenu.accesskey "o">
+<!ENTITY formatMenu.accesskey "o">
 
 <!ENTITY helpMenu.label "Laguntza">
-<!ENTITY aboutCmd.label ".riBuruz">
+<!ENTITY aboutCmd.label "Honi buruz">
 <!-- Display Mode Toolbar -->
 
-<!ENTITY editMode.label "Edizio modua:">
+<!ENTITY editMode.label "Editatu modua:">
 
-<!ENTITY statusText.label "Orri kargatu da">
-
+<!ENTITY statusText.label "Eginda">

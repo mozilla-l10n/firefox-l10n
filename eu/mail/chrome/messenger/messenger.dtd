@@ -29,9 +29,9 @@
 <!ENTITY getNewMsgForCmd.label "Hartu honen Mezu Berriak:">
 <!ENTITY getNewMsgForCmd.accesskey "o">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Kontu guzitak">
-<!ENTITY getAllNewMsgCmdPopupMenu.accesskey "g">
+<!ENTITY getAllNewMsgCmdPopupMenu.accesskey "G">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Kontu hau">
-<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "h">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "H">
 <!ENTITY getNextNMsgCmd.label "Hartu Hurrengo 500 Berrien Mezuak">
 <!ENTITY getNextNMsgCmd.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Bidali Bidaligabeko Mezuak">
@@ -44,7 +44,7 @@
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Trinkotu Karpetak">
-<!ENTITY compactFolder.accesskey "a">
+<!ENTITY compactFolders.accesskey "F">
 <!ENTITY emptyTrashCmd.label "Hustu Zakarrontzia">
 <!ENTITY emptyTrashCmd.accesskey "h">
 <!ENTITY importCmd.label "Inportatu...">
@@ -95,7 +95,7 @@
 <!ENTITY selectThreadCmd.accesskey "H">
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Mezu izardunak">
-<!ENTITY selectFlaggedCmd.accesskey "z">
+<!ENTITY selectFlaggedCmd.accesskey "Z">
 <!ENTITY menuFavoriteFolder.label "Karpeta Gogokoena">
 <!ENTITY menuFavoriteFolder.accesskey "a">
 <!ENTITY folderPropsCmd.label "Propietateak...">
@@ -226,23 +226,34 @@
 <!ENTITY bodyAsPlaintext.accesskey "T">
 <!ENTITY viewAttachmentsInlineCmd.label "Ikusi Eranskinak barnean">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "A">
-<!ENTITY reloadCmd.label "Berritu">
-<!ENTITY reloadCmd.accesskey "R">
-<!ENTITY stopCmd.label "Gelditu">
-<!ENTITY stopCmd.accesskey "G">
-<!ENTITY textZoomEnlargeCmd.label "Handitu">
-<!ENTITY textZoomEnlargeCmd.accesskey "H">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+
+<!ENTITY fullZoomEnlargeCmd.label "Zoom In">
+<!ENTITY fullZoomEnlargeCmd.accesskey "I">
+<!ENTITY fullZoomEnlargeCmd.commandkey "+">
 <!-- + is above this key on many keyboards -->
-<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY textZoomReduceCmd.label "Txikitu">
-<!ENTITY textZoomReduceCmd.accesskey "T">
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomResetCmd.commandkey "0">
-<!ENTITY textZoomResetCmd.label "Normala">
-<!ENTITY textZoomResetCmd.accesskey "N">
-<!ENTITY textSize.label "Testuaren Tamaina">
-<!ENTITY textSize.accesskey "s">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY fullZoomReduceCmd.label "Zoom Out">
+<!ENTITY fullZoomReduceCmd.accesskey "O">
+<!ENTITY fullZoomReduceCmd.commandkey "-">
+<!ENTITY fullZoomReduceCmd.commandkey2 "">
+
+<!ENTITY fullZoomResetCmd.label "Reset">
+<!ENTITY fullZoomResetCmd.accesskey "R">
+<!ENTITY fullZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomResetCmd.commandkey2 "">
+
+<!ENTITY fullZoomToggleCmd.label "Zoom Text Only">
+<!ENTITY fullZoomToggleCmd.accesskey "T">
+<!ENTITY fullZoom.label "Zoom">
+<!ENTITY fullZoom.accesskey "Z">
 
 <!ENTITY pageSourceCmd.label "Mezu Iturburua">
 <!ENTITY pageSourceCmd.accesskey "u">
@@ -283,8 +294,8 @@
 <!ENTITY nextStarredMsgCmd.label "Izardun Mezua">
 <!ENTITY nextStarredMsgCmd.accesskey "Z">
 <!ENTITY nextUnreadThread.label "Irakurri gabeko Harira">
-<!ENTITY nextUnreadThreadCmd.accesskey "T">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "T">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Aurreko">
 <!ENTITY prevMenu.accesskey "A">
 <!ENTITY prevMsgCmd.label "Mezua">
@@ -348,7 +359,7 @@
 <!ENTITY killThreadMenu.accesskey "E">
 <!ENTITY killThreadMenu.key "k">
 <!ENTITY killSubthreadMenu.label "Alde batetara utzi azpi-haria">
-<!ENTITY killSubthreadMenu.accesskey "a">
+<!ENTITY killSubthreadMenu.accesskey "A">
 <!ENTITY killSubthreadMenu.key "i">
 <!ENTITY watchThreadMenu.label "Ikusi Haria">
 <!ENTITY watchThreadMenu.accesskey "I">
@@ -426,7 +437,7 @@
 <!ENTITY filtersApply.label "Iragazkiak Exekutatu Aukeratutako Karpetan">
 <!ENTITY filtersApply.accesskey "R">
 <!ENTITY filtersApplyToSelection.label "Exekutatu iragazkiak hautaturiko mezuetan">
-<!ENTITY filtersApplyToSelection.accesskey "h">
+<!ENTITY filtersApplyToSelection.accesskey "H">
 <!ENTITY filtersApplyToMessage.label "Exekutatu iragazkiak mezuan">
 <!ENTITY filtersApplyToMessage.accesskey "m">
 <!-- Mail Toolbar -->
@@ -462,7 +473,7 @@
 <!ENTITY clearButton.tooltip "Bilaketa irizpidea garbitu eta sarrera guztiak erakutsi">
 <!ENTITY getMsgButton.tooltip "Hartu mezu berriak">
 <!ENTITY getAllNewMsgCmd.label "Mezu Berri Guztiak Hartu">
-<!ENTITY getAllNewMsgCmd.accesskey "h">
+<!ENTITY getAllNewMsgCmd.accesskey "H">
 <!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "Sortu mezu berria">
 <!ENTITY replyButton.tooltip "Erantzun mezuari">
@@ -642,9 +653,9 @@
 <!ENTITY AddToAddressBook.label "Gehitu Helbide-liburuan...">
 <!ENTITY AddToAddressBook.accesskey "B">
 <!ENTITY AddDirectlyToAddressBook.label "Gehitu helbide-liburuan">
-<!ENTITY AddDirectlyToAddressBook.accesskey "b">
+<!ENTITY AddDirectlyToAddressBook.accesskey "B">
 <!ENTITY EditContact.label "Editatu kontaktua">
-<!ENTITY EditContact.accesskey "e">
+<!ENTITY EditContact.accesskey "E">
 <!ENTITY ViewContact.label "Ikusi kontaktua">
 <!ENTITY ViewContact.accesskey "I">
 <!ENTITY SendMailTo.label "Idatzi Mezua honi:">
@@ -652,7 +663,7 @@
 <!ENTITY CopyEmailAddress.label "Kopiatu ePosta Helbidea">
 <!ENTITY CopyEmailAddress.accesskey "K">
 <!ENTITY CreateFilterFrom.label "Sortu iragazkia…">
-<!ENTITY CreateFilterFrom.accesskey "s">
+<!ENTITY CreateFilterFrom.accesskey "S">
 <!ENTITY BlockAddress.label "Blokeatu Helbideak">
 <!ENTITY BlockAddress.accesskey "A">
 <!ENTITY reportPhishingURL.label "E-posta iruzur baten berri eman">

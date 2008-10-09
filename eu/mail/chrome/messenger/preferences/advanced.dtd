@@ -20,8 +20,6 @@
 <!ENTITY secondsLabel.label "seconds">
 <!ENTITY showFolderColumns.label "Erakutsi zabaldutako zutabeak karpeta panelean">
 <!ENTITY showFolderColumns.accesskey "k">
-<!ENTITY rememberLastMsg.label "Gogoratu aukeratutako azken mezua">
-<!ENTITY rememberLastMsg.accesskey "g">
 <!ENTITY openMsgIn.label "Ireki mezuak hemen:">
 <!ENTITY reuseExpRadio0.label "Mezu leiho berri batean">
 <!ENTITY reuseExpRadio0.accesskey "h">
@@ -29,9 +27,6 @@
 <!ENTITY reuseExpRadio1.accesskey "d">
 <!ENTITY reuseExpRadio2.label "A new message tab">
 <!ENTITY reuseExpRadio2.accesskey "Z">
-<!ENTITY connectionTimeout.label "Konexioa denboraz kanpo utzi: ">
-<!ENTITY connectionTimeout.accesskey "K">
-<!ENTITY connectionSeconds.label "segundutan">
 <!ENTITY configEditDesc.label "Konfigurazio Aurreratua">
 <!ENTITY configEdit.label "Konfigurazio Editorea...">
 <!ENTITY configEdit.accesskey "g">
@@ -57,12 +52,12 @@
 <!ENTITY showUpdates.accesskey "u">
 <!-- Networking and Disk Space -->
 
-<!ENTITY showConnections.label "Connection...">
-<!ENTITY showConnections.accesskey "n">
-<!ENTITY proxiesInfo.label "Determine how &brandShortName; connects to the Internet.">
-<!ENTITY connectionsInfo.caption "Connection">
-<!ENTITY offlineInfo.caption "Offline">
-<!ENTITY offlineInfo.label "Configure offline settings">
+<!ENTITY showSettings.label "Ezarpenak…">
+<!ENTITY showSettings.accesskey "n">
+<!ENTITY proxiesConfigure.label "Konfiguratu &brandShortName; nola konektatzen den internetera">
+<!ENTITY connectionsInfo.caption "Konexioa">
+<!ENTITY offlineInfo.caption "Lineaz-kanpo">
+<!ENTITY offlineInfo.label "Konfiguratu lineaz-kanpoko ezarpenak">
 <!ENTITY showOffline.label "Offline...">
 <!ENTITY showOffline.accesskey "O">
 
@@ -70,6 +65,18 @@
 <!ENTITY offlineCompact.label "Karpetak trinkotu hau baino gehiago aurrezten denean:">
 <!ENTITY offlineCompact.accesskey "k">
 <!ENTITY kb.label "KB">
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+
+<!ENTITY useCacheBefore.label "Erabili hemendik gora">
+<!ENTITY useCacheBefore.accesskey "o">
+<!ENTITY useCacheAfter.label "Cache-arentzako tokia MB-etan">
+<!ENTITY clearCacheNow.label "Garbitu orain">
+<!ENTITY clearCacheNow.accesskey "G">
 <!-- Certificates -->
 
 <!ENTITY certificatesInfo2.label "Manage certificates, revocation lists, certificate validation and security devices.">

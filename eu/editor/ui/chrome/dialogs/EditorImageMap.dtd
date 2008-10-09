@@ -63,7 +63,7 @@
 <!ENTITY selectallCmd.label "Hautatu dena">
 <!ENTITY selectallCmd.accesskey "d">
 <!ENTITY propsCmd.label "Bero-gune propietateak">
-<!ENTITY propsCmd.accesskey "B">
+<!ENTITY propsCmd.accesskey "b">
 <!-- View menu -->
 
 <!ENTITY mapviewMenu.label "Ikusi">
@@ -72,7 +72,7 @@
 <!ENTITY showhideTbarCmd.accesskey "t">
 <!-- Scaling -->
 <!ENTITY mapviewScale.label "Eskala">
-<!ENTITY mapviewScale.accesskey "s">
+<!ENTITY mapviewScale.accesskey "S">
 <!ENTITY apercentCmd.label "100">
 <!ENTITY apercentCmd.accesskey "1">
 <!ENTITY bpercentCmd.label "200">
