@@ -234,7 +234,7 @@
 <!ENTITY insertCharsCmd.accesskey "K">
 <!ENTITY insertFieldSetCmd.accesskey "L">
 <!ENTITY insertFormCmd.accesskey "F">
-<!ENTITY insertFormMenuCmd.accesskey "f">
+<!ENTITY insertFormMenu.accesskey "f">
 <!ENTITY insertHLineCmd.accesskey "a">
 <!ENTITY insertImageCmd.accesskey "R">
 <!ENTITY insertInputImageCmd.accesskey "r">
@@ -263,8 +263,8 @@
 <!ENTITY listNumberedCmd.accesskey "m">
 <!ENTITY listPropsCmd.accesskey "L">
 <!ENTITY listTermCmd.accesskey "t">
-<!ENTITY localFontfaceMenu.label "Yerel Yazıtipleri">
-<!ENTITY localfontMenu.accesskey "f">
+<!ENTITY localfontfaceMenu.label "Yerel Yazıtipleri">
+<!ENTITY localfontfaceMenu.accesskey "Y">
 <!ENTITY menuBar.tooltip "Menü Çubuğu">
 <!ENTITY newBlankPageCmd.accesskey "e">
 <!ENTITY newBlankPageCmd.label "Düzenleyici sayfası">
@@ -310,7 +310,7 @@
 <!ENTITY pasteNoFormatting.label "Biçimsiz yapıştır">
 <!ENTITY pasteRowsCmd.accesskey "r">
 <!ENTITY pasteRowsCmd.label "Satırlar">
-<!ENTITY pasteTable.accesskey "a">
+<!ENTITY pasteTableCmd.accesskey "a">
 <!ENTITY pasteTextCmd.accesskey "t">
 <!ENTITY pasteTextCmd.label "Metin">
 <!ENTITY previewCmd.label "Sayfayı tarayıcıda önizle">
