@@ -1,7 +1,7 @@
 <!ENTITY securityTitle.label "Segurança">
 <!ENTITY securityHeading.label "Para enviar ou receber mensagens cifradas, você deve especificar um certificado assinando digitalmente e um certificado de cifra.">
 <!ENTITY encryptionGroupTitle.label "Cifra">
-<!ENTITY encryptionChoiceLabel.label "Configuração da cifra pé-definida quando enviar mensagens:">
+<!ENTITY encryptionChoiceLabel.label "Configuração da cifra pré-definida quando enviar mensagens:">
 <!ENTITY neverEncrypt.label "Nunca (não usar cifra)">
 <!ENTITY alwaysEncryptMessage.label "Requerido (impossível enviar mensagens a menos que os receptores tenham um certificado)">
 <!ENTITY encryptionCert.message "Usar este Certificado para cifrar/decifrar mensagens enviadas para si:">
