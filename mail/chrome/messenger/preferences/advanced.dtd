@@ -20,8 +20,6 @@
 <!ENTITY secondsLabel.label            "sekunder">
 <!ENTITY showFolderColumns.label       "Visa kolumner i Mappar-fältet">
 <!ENTITY showFolderColumns.accesskey   "s">
-<!ENTITY rememberLastMsg.label         "Kom ihåg senast markerade meddelande">
-<!ENTITY rememberLastMsg.accesskey     "o">
 <!ENTITY openMsgIn.label               "Öppna meddelanden i:">
 <!ENTITY reuseExpRadio0.label          "ett nytt fönster">
 <!ENTITY reuseExpRadio0.accesskey      "e">
@@ -29,9 +27,6 @@
 <!ENTITY reuseExpRadio1.accesskey      "b">
 <!ENTITY reuseExpRadio2.label          "en ny meddelandeflik">
 <!ENTITY reuseExpRadio2.accesskey      "n">
-<!ENTITY connectionTimeout.label       "Avbryt anslutningsförsök efter">
-<!ENTITY connectionTimeout.accesskey   "v">
-<!ENTITY connectionSeconds.label       "sekunder">
 <!ENTITY configEditDesc.label          "Avancerade inställningar">
 <!ENTITY configEdit.label              "Konfigurationsredigerare…">
 <!ENTITY configEdit.accesskey          "K">
@@ -57,9 +52,9 @@
 <!ENTITY showUpdates.accesskey          "V">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showConnections.label         "Anslutning…">
-<!ENTITY showConnections.accesskey     "A">
-<!ENTITY proxiesInfo.label             "Ange hur &brandShortName; ansluter till Internet.">
+<!ENTITY showSettings.label            "Inställningar…">
+<!ENTITY showSettings.accesskey        "I">
+<!ENTITY proxiesConfigure.label        "Ange hur &brandShortName; ansluter till Internet">
 <!ENTITY connectionsInfo.caption       "Anslutning">
 <!ENTITY offlineInfo.caption           "Nedkopplat läge">
 <!ENTITY offlineInfo.label             "Ange inställningar för nedkopplat läge">
@@ -70,6 +65,18 @@
 <!ENTITY offlineCompact.label        "Komprimera mappar när det kan spara över">
 <!ENTITY offlineCompact.accesskey    "K">
 <!ENTITY kb.label                    "kB">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Använd upp till">
+<!ENTITY useCacheBefore.accesskey        "A">
+<!ENTITY useCacheAfter.label             "MB utrymme för cachen">
+<!ENTITY clearCacheNow.label             "Rensa nu">
+<!ENTITY clearCacheNow.accesskey         "R">
 
 <!-- Certificates -->
 <!ENTITY certificatesInfo2.label        "Hantera certifikat, listor på indragna certifikat, certifikatvalidering och säkerhetsenheter.">
