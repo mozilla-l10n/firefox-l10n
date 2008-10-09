@@ -4,9 +4,9 @@
 <!ENTITY authorName.accesskey "g">
 <!ENTITY pageColorHeader "Lehenetsitako orriaren itxura">
 
-<!ENTITY defaultColorsRadio.label "Irakurlearen lehenetsitako koloreak (ez ezarri kolorerik orrian)">
+<!ENTITY defaultColors.label "Irakurlearen lehenetsiko koloreak (Ez ezarri koloreak orrian)">
 <!ENTITY defaultColors.accesskey "l">
-<!ENTITY customColorsRadio.label "Pertsonalizatutako koloreak erabili:">
+<!ENTITY customColors.label "Erabili pertsonalizatutako koloreak:">
 <!ENTITY customColors.accesskey "p">
 
 <!ENTITY normalText.label "Testu arrunta">

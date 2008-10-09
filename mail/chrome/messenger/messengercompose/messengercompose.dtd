@@ -70,6 +70,7 @@
 <!ENTITY pasteCmd.label "Itsasi">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "i">
+<!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY editRewrapCmd.label "Berriz itzulbiratu">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "z">

@@ -80,9 +80,7 @@
 <!ENTITY cellSelectPrevious.accessKey "A">
 <!ENTITY cellApplyBeforeMove.label "Aukera aldatu aurretik aplikatu aldaketak">
 <!ENTITY cellKeepCurrentData.label "Oraingo ezarpenak mantendu">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label "Oraingo aldaketak aplikatuko dira">
-<!ENTITY applyBeforeChange2.label "aukera aldatu aurretik.">
+<!ENTITY applyBeforeChange.label "Uneko aldakate hautapena aldatu eta gero ezarriko dira.">
 <!ENTITY cellRowSpan.label "Errenkada hedatu:">
 <!ENTITY cellColSpan.label "Zutabea hedatu:">
 <!ENTITY cellContentAlignment.label "Edukiaren lerrokatzea">
