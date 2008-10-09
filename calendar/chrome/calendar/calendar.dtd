@@ -43,14 +43,8 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- General -->
-<!ENTITY calendar.file.default.name       "Môj kalendár" >
 <!ENTITY calendar.calendar.label          "Kalendár">
 <!ENTITY calendar.calendar.accesskey      "K">
-
-
-<!ENTITY calendar.confirm.deleteallevents     "Naozaj chcete odstrániť všetky označené udalosti?" >
-<!ENTITY calendar.confirm.deleteevent         "Naozaj chcete odstrániť udalosť nazvanú: " >
-<!ENTITY calendar.confirm.deleteuntitledevent "Naozaj chcete odstrániť túto nepomenovanú udalosť?" >
 
 <!ENTITY calendar.flat.topbar.choosedate       "Prejsť na dátum" >
 <!ENTITY calendar.flat.topbar.dayview          "Denný pohľad" >
