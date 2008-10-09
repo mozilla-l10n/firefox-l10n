@@ -40,3 +40,9 @@
 <!ENTITY customsound.accesskey            "d">
 <!ENTITY browse.label                     "Bläddra…">
 <!ENTITY browse.accesskey                 "B">
+
+<!ENTITY addonsMgr.label               "Tillägg">
+<!ENTITY manageAddonsDescWin.label     "Ändra inställningar för dina tillägg">
+<!ENTITY manageAddonsDescUnix2.label   "Ändra inställningar för dina tillägg">
+<!ENTITY manageAddons.label            "Hantera tillägg…">
+<!ENTITY manageAddons.accesskey        "H">
