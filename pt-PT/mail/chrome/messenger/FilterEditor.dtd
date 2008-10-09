@@ -12,11 +12,11 @@
 <!ENTITY highPriorityCmd.label "Alta">
 <!ENTITY highestPriorityCmd.label "Muito Alta">
 
-<!ENTITY contextDesc.label "Apply filter when:">
+<!ENTITY contextDesc.label "Aplicar filtro quando:">
 <!ENTITY contextDesc.accesskey "w">
-<!ENTITY contextIncoming.label "Checking Mail">
-<!ENTITY contextManual.label "Manually Run">
-<!ENTITY contextBoth.label "Checking Mail or Manually Run">
+<!ENTITY contextIncoming.label "A verificar correio">
+<!ENTITY contextManual.label "Verificação manual">
+<!ENTITY contextBoth.label "A verificar correio ou verificação manual">
 <!ENTITY filterActionDesc.label "Efectuar estas acções:">
 <!ENTITY filterActionDesc.accesskey "F">
 

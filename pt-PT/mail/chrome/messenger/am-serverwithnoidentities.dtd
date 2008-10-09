@@ -8,4 +8,4 @@
 <!ENTITY localPath.label "Pasta Local:">
 <!ENTITY localFolderPicker.label "Seleccione Pasta Local">
 <!ENTITY browseFolder.label "Navegar...">
-<!ENTITY browseFolder.accesskey "G">
+<!ENTITY browseFolder.accesskey "g">

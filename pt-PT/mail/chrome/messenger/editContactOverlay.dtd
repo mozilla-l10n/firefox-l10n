@@ -1,11 +1,11 @@
-<!ENTITY editContactName.label "Name:">
+<!ENTITY editContactName.label "Nome:">
 <!ENTITY editContactName.accesskey "N">
 
-<!ENTITY editContactEmail.label "Email:">
-<!ENTITY editContactEmail.accesskey "E">
+<!ENTITY editContactEmail.label "Correio electrónico:">
+<!ENTITY editContactEmail.accesskey "e">
 
-<!ENTITY editContactPanelCancel.label "Cancel">
+<!ENTITY editContactPanelCancel.label "Cancelar">
 <!ENTITY editContactPanelCancel.accesskey "C">
 
-<!ENTITY editContactPanelDone.label "Done">
-<!ENTITY editContactPanelDone.accesskey "D">
+<!ENTITY editContactPanelDone.label "Feito">
+<!ENTITY editContactPanelDone.accesskey "F">

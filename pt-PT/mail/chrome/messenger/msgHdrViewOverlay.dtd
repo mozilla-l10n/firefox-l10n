@@ -35,42 +35,42 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "to ">
-<!ENTITY fromField2.label "from ">
-<!ENTITY senderField2.label "sender ">
-<!ENTITY organizationField2.label "organization ">
-<!ENTITY replyToField2.label "reply-to ">
+<!ENTITY toField2.label "para ">
+<!ENTITY fromField2.label "de ">
+<!ENTITY senderField2.label "remetente ">
+<!ENTITY organizationField2.label "organização ">
+<!ENTITY replyToField2.label "responder para ">
 
-<!ENTITY subjectField2.label "subject ">
+<!ENTITY subjectField2.label "assunto ">
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
 <!ENTITY ccField2.label "cc ">
 <!ENTITY bccField2.label "bcc ">
-<!ENTITY newsgroupsField2.label "newsgroups ">
-<!ENTITY followupToField2.label "followup-to ">
-<!ENTITY tagsHdr2.label "tags ">
-<!ENTITY dateField2.label "date ">
+<!ENTITY newsgroupsField2.label "Grupos de discussão ">
+<!ENTITY followupToField2.label "seguir-para ">
+<!ENTITY tagsHdr2.label "etiquetas ">
+<!ENTITY dateField2.label "data ">
 <!ENTITY userAgentField2.label "user-agent ">
-<!ENTITY referencesField2.label "references ">
-<!ENTITY messageIdField2.label "message-id ">
-<!ENTITY inReplyToField2.label "in-reply-to ">
-<!ENTITY originalWebsite2.label "website ">
+<!ENTITY referencesField2.label "referências ">
+<!ENTITY messageIdField2.label "id da message ">
+<!ENTITY inReplyToField2.label "em resposta a ">
+<!ENTITY originalWebsite2.label "sítio web ">
 <!ENTITY saveAll.label "Guardar tudo..">
 
-<!ENTITY editMessageDescription.label "This is a draft message">
-<!ENTITY editMessageButton.label "Edit…">
-<!ENTITY replyButton.label "reply…">
-<!ENTITY forwardButton.label "forward…">
-<!ENTITY junkButton.label "mark as junk">
-<!ENTITY trashButton.tooltiptext "delete">
+<!ENTITY editMessageDescription.label "Esta mensagem é um rascunho">
+<!ENTITY editMessageButton.label "Editar…">
+<!ENTITY replyButton.label "responder…">
+<!ENTITY forwardButton.label "reencaminhar…">
+<!ENTITY junkButton.label "marcar como lixo">
+<!ENTITY trashButton.tooltiptext "eliminar">
 
-<!ENTITY otherActionsButton.label "other actions">
-<!ENTITY saveAsMenuItem.label "save as…">
-<!ENTITY saveAsMenuItem.accesskey "S">
-<!ENTITY viewSourceMenuItem.label "view source…">
+<!ENTITY otherActionsButton.label "outras acções">
+<!ENTITY saveAsMenuItem.label "guardar como…">
+<!ENTITY saveAsMenuItem.accesskey "v">
+<!ENTITY viewSourceMenuItem.label "ver fonte…">
 <!ENTITY viewSourceMenuItem.accesskey "V">
 
-<!ENTITY hideDetailsButton.label "hide details">
-<!ENTITY showDetailsButton.label "show details">
+<!ENTITY hideDetailsButton.label "ocultar detalhes">
+<!ENTITY showDetailsButton.label "mostrar detalhes">
 
 <!ENTITY openAttachmentCmd.label "Abrir">
 <!ENTITY openAttachmentCmd.accesskey "A">

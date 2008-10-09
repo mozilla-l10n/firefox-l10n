@@ -1,6 +1,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Para ter espaço em disco, não transferir:">
 <!ENTITY doNotDownload.label "Para ter espaço em disco, não transferir para usar no modo desligado:">
-<!ENTITY allFoldersOffline.label "Keep messages for this account on this computer">
+<!ENTITY allFoldersOffline.label "manter mensagens desta conta no computador">
 <!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Mensagens maiores que ">
 <!ENTITY offlineNotDownload.accesskey "M">
@@ -25,7 +25,7 @@
 <!ENTITY nntpRemoveBody.accesskey "P">
 <!ENTITY offlineSelectNntp.label "Seleccione grupos de discussão para usar no modo desligado...">
 <!ENTITY offlineSelectNntp.accesskey "S">
-<!ENTITY offlineImapAdvancedOffline.label "Advanced…">
+<!ENTITY offlineImapAdvancedOffline.label "Avançado…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
-<!ENTITY syncGroupTitle.label "Message Synchronizing">
+<!ENTITY syncGroupTitle.label "Sincronização de mensagem">
 <!ENTITY diskspaceGroupTitle.label "Espaço em Disco">
