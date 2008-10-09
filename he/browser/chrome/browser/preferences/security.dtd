@@ -8,26 +8,34 @@
   useDownloadedList.label convey the meaning "suspected" (and not something like
   "known").
 -->
-<!ENTITY  tellMaybeAttackSite2.label     "חסום אתרים שדווחו כאתרי תקיפה">
-<!ENTITY  tellMaybeAttackSite.accesskey "ת">
+<!ENTITY  blockAttackSites.label     "חסום אתרים שדווחו כאתרי תקיפה">
+<!ENTITY  blockAttackSites.accesskey "ת">
 
-<!ENTITY  tellMaybeForgery2.label     "חסום אתרים שדווחו כאתרי זיוף">
-<!ENTITY tellMaybeForgery.accesskey "ז">
+<!ENTITY  blockWebForgeries.label     "חסום אתרים שדווחו כאתרי זיוף">
+<!ENTITY blockWebForgeries.accesskey "ז">
 
-<!ENTITY addonExceptions.label "חריגות...">
-<!ENTITY addonExceptions.accesskey "ח">
-<!ENTITY passwords.label "סיסמאות">
-<!ENTITY rememberPasswords.label "זכור סיסמאות לאתרים">
-<!ENTITY rememberPasswords.accesskey "ס">
-<!ENTITY passwordExceptions.label "חריגות...">
-<!ENTITY passwordExceptions.accesskey "ר">
+
+<!ENTITY  addonExceptions.label         "חריגות…">
+<!ENTITY  addonExceptions.accesskey     "ח">
+
+
+<!ENTITY  passwords.label               "סיסמאות">
+
+<!ENTITY  rememberPasswords.label "זכור סיסמאות לאתרים">
+<!ENTITY  rememberPasswords.accesskey "ס">
+<!ENTITY  passwordExceptions.label "חריגות…">
+<!ENTITY  passwordExceptions.accesskey "ר">
+
 <!ENTITY useMasterPassword.label "השתמש בסיסמה ראשית">
 <!ENTITY useMasterPassword.accesskey "ש">
-<!ENTITY changeMasterPassword.label "שנה סיסמה ראשית...">
+<!ENTITY changeMasterPassword.label "שנה סיסמה ראשית…">
 <!ENTITY changeMasterPassword.accesskey "נ">
+
+
 <!ENTITY warnings.label "הודעות אזהרה">
+
 <!ENTITY chooseWarnings.label "בחר אלו הודעות אזהרה ברצונך לראות במהלך גלישה ברשת">
-<!ENTITY warningSettings.label "הגדרות...">
+<!ENTITY warningSettings.label "הגדרות…">
 <!ENTITY warningSettings.accesskey "ה">
 
 <!ENTITY  savedPasswords.label            "סיסמאות שמורות…">
