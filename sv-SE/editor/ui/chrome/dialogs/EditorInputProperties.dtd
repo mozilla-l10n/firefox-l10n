@@ -54,11 +54,13 @@
 
 <!ENTITY InputSettings.label "Fältinställningar">
 <!ENTITY InputName.label "Fältnamn:">
+<!ENTITY InputName.accesskey "n">
 <!ENTITY GroupName.label "Gruppnamn:">
-<!ENTITY Name.accesskey "G">
+<!ENTITY GroupName.accesskey "n">
 <!ENTITY InputValue.label "Fältvärde:">
+<!ENTITY InputValue.accesskey "v">
 <!ENTITY InitialValue.label "Startvärde:">
-<!ENTITY Value.accesskey "V">
+<!ENTITY InitialValue.accesskey "v">
 <!ENTITY InputChecked.label "Förmarkerad">
 <!ENTITY InputChecked.accesskey "m">
 <!ENTITY InputSelected.label "Förvald">
