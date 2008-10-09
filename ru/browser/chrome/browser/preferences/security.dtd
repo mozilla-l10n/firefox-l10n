@@ -1,9 +1,9 @@
 <!ENTITY warnAddonInstall.label "Предупреждать при попытке веб-сайтов установить дополнения">
 <!ENTITY warnAddonInstall.accesskey "о">
-<!ENTITY tellMaybeAttackSite2.label "Блокировать сайты, подозреваемые в атаках">
-<!ENTITY tellMaybeAttackSite.accesskey "к">
-<!ENTITY tellMaybeForgery2.label "Блокировать сайты, подозреваемые в имитации других сайтов">
-<!ENTITY tellMaybeForgery.accesskey "л">
+<!ENTITY blockAttackSites.label "Блокировать сайты, подозреваемые в атаках">
+<!ENTITY blockAttackSites.accesskey "к">
+<!ENTITY blockWebForgeries.label "Блокировать сайты, подозреваемые в имитации других сайтов">
+<!ENTITY blockWebForgeries.accesskey "л">
 <!ENTITY addonExceptions.label "Исключения…">
 <!ENTITY addonExceptions.accesskey "И">
 <!ENTITY passwords.label "Пароли">
