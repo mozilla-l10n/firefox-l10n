@@ -10,9 +10,9 @@
 <!ENTITY chooseFile.label "Dosya seç...">
 <!ENTITY colon.character ":">
 <!ENTITY customColors.accesskey "c">
-<!ENTITY customColorsRadio.label "Özel renkleri kullan:">
+<!ENTITY customColors.label "Özel renkleri kullan:">
 <!ENTITY defaultColors.accesskey "t">
-<!ENTITY defaultColorsRadio.label "Okuyucunun öntanımlı renkleri (Sayfadaki renkleri ayarlama)">
+<!ENTITY defaultColors.label "Okuyucunun öntanımlı renkleri (Sayfadaki renkleri ayarlama)">
 <!ENTITY pref.editing.title "Yeni sayfa ayarları">
 <!ENTITY linkText.accesskey "B">
 <!ENTITY linkText.label "Bağlantı metni">

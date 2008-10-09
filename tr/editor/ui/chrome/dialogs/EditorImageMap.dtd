@@ -1,48 +1,53 @@
-<!ENTITY about.accesskey "B">
-<!ENTITY aboutCmd.label "Hakkında">
 <!ENTITY apercentCmd.label "100">
+<!ENTITY apercentCmd.accesskey "1">
 <!ENTITY bpercentCmd.label "200">
-<!ENTITY clear.accesskey "D">
+<!ENTITY bpercentCmd.accesskey "2">
+<!ENTITY clearCmd.accesskey "D">
 <!ENTITY clearCmd.label "Temizle">
-<!ENTITY close.accesskey "L">
+<!ENTITY clear.key "d">
+
+<!ENTITY closeCmd.accesskey "L">
 <!ENTITY closeCmd.label "Kapat">
-<!ENTITY contrast.accesskey "n">
-<!ENTITY contrastCmd.label "Karşıtlık">
-<!ENTITY copy.accesskey "C">
+<!ENTITY close.key "l">
+
+
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY copyCmd.label "Kopyala">
+<!ENTITY copy.key "c">
+
 <!ENTITY cpercentCmd.label "400">
-<!ENTITY cut.accesskey "X">
+<!ENTITY cutCmd.accesskey "X">
 <!ENTITY cutCmd.label "Kes">
 <!ENTITY delSpotCmd.label "Nokta sil">
 <!ENTITY mapeditMenu.label "Düzenle">
-<!ENTITY mapeditcopy.accesskey "C">
-<!ENTITY mapeditcut.accesskey "T">
-<!ENTITY mapeditmenu.accesskey "z">
-<!ENTITY mapeditpaste.accesskey "P">
-<!ENTITY mapeditprops.accesskey "H">
+<!ENTITY mapeditMenu.accesskey "z">
+
 <!ENTITY mapfileMenu.label "Dosya">
-<!ENTITY mapfileclear.accesskey "A">
-<!ENTITY mapfileclose.accesskey "K">
 <!ENTITY mapfilemenu.accesskey "D">
-<!ENTITY maphelpMenu.label "Yardım">
-<!ENTITY maphelpmenu.accesskey "d">
-<!ENTITY mapselectall.accesskey "S">
+
 <!ENTITY mapviewMenu.label "Göster">
 <!ENTITY mapviewScale.label "Ölçek">
-<!ENTITY mapviewmenu.accesskey "G">
-<!ENTITY mapviewscale.accesskey "Ö">
-<!ENTITY mapviewtbar.accesskey "T">
-<!ENTITY paste.accesskey "V">
+<!ENTITY mapviewMenu.accesskey "G">
+<!ENTITY mapviewScale.accesskey "Ö">
+<
+<!ENTITY pasteCmd.accesskey "Y">
 <!ENTITY pasteCmd.label "Yapıştır">
-<!ENTITY props.accesskey "P">
+<!ENTITY paste.key "v">
+
+<!ENTITY props.key "P">
 <!ENTITY propsCmd.label "Önemli nokta özellikleri">
-<!ENTITY selectall.accesskey "A">
+<!ENTITY propsCmd.accesskey "N">
+
+<!ENTITY selectallCmd.accesskey "A">
 <!ENTITY selectallCmd.label "Tamamını seç">
+<!ENTITY selectall.key "a">
+
 <!ENTITY showhideTbarCmd.label "Araç Çubuğunu Gizle">
 <!ENTITY tbar.accesskey "a">
+<!ENTITY tbar.key "t">
+
 <!ENTITY windowTitle.label "Görüntü Haritası Editörü">
 <!ENTITY zoominCmd.label "Yakınlaş">
-<!ENTITY zoomone.accesskey "1">
+
 <!ENTITY zoomoutCmd.label "Uzaklaş">
-<!ENTITY zoomthree.accesskey "4">
-<!ENTITY zoomtwo.accesskey "2">
+

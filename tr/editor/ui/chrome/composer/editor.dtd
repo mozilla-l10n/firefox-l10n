@@ -3,19 +3,18 @@
 <!ENTITY editorWindow.titlemodifier "Düzenleyici">
 <!ENTITY editorWindow.titlemodifiermenuseparator " -">
 <!ENTITY formatMenu.label "Biçim">
-<!ENTITY formatmenu.accesskey "B">
+<!ENTITY formatMenu.accesskey "B">
 <!ENTITY helpMenu.label "Yardım">
 <!ENTITY statusText.label "Sayfa yüklemesi tamamlandı">
 
 <!ENTITY viewMenu.label "Göster ">
-<!ENTITY viewmenu.accesskey "G">
+<!ENTITY viewMenu.accesskey "G">
 <!-- View menu items -->
 
 <!ENTITY compositionToolbarCmd.label "Mesaj yazma araç çubuğu">
-<!ENTITY compositiontb.accesskey "M">
+<!ENTITY compositionToolbarCmd.accesskey "M">
 <!ENTITY formattingToolbarCmd.label "Biçem araç çubuğu">
-<!ENTITY formattingtb.accesskey "B">
+<!ENTITY formattingToolbarCmd.accesskey "B">
 <!ENTITY editmodeToolbarCmd.label "Modus araç çubuğu düzenle">
-<!ENTITY editmodetb.accesskey "E">
-<!ENTITY taskbarCmd.label "Durum çubuğu">
-<!ENTITY taskbarCmd.accesskey "u">
+<!ENTITY editmodeToolbarCmd.accesskey "E">
+

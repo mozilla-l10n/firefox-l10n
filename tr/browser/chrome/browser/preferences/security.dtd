@@ -8,9 +8,7 @@
   useDownloadedList.label convey the meaning "suspected" (and not something like
   "known").
 -->
-<!ENTITY  tellMaybeAttackSite.accesskey "h">
 
-<!ENTITY  tellMaybeForgery.accesskey "t">
 
 <!ENTITY  addonExceptions.label         "Ayrıcalıklar...">
 <!ENTITY  addonExceptions.accesskey     "k">
@@ -36,6 +34,4 @@
 <!ENTITY  warningSettings.label         "Ayarlar...">
 <!ENTITY  warningSettings.accesskey     "A">
 
-<!ENTITY  tellMaybeAttackSite2.label     "Bildirilen saldırı sitelerini engelle">
-<!ENTITY  tellMaybeForgery2.label     "Bildirilen sahtekârlıkları engelle">
 
