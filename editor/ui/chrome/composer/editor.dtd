@@ -44,17 +44,17 @@
 
 <!-- View menu items -->
 <!ENTITY viewMenu.label "Nézet">
-<!ENTITY viewmenu.accesskey "n">
+<!ENTITY viewMenu.accesskey "N">
 <!ENTITY compositionToolbarCmd.label "Szerkesztés eszköztár">
-<!ENTITY compositiontb.accesskey "S">
+<!ENTITY compositionToolbarCmd.accesskey "S">
 <!ENTITY formattingToolbarCmd.label "Formázás eszköztár">
-<!ENTITY formattingtb.accesskey "F">
+<!ENTITY formattingToolbarCmd.accesskey "F">
 <!ENTITY editmodeToolbarCmd.label "Szerkesztőmód eszköztár">
-<!ENTITY editmodetb.accesskey "e">
+<!ENTITY editmodeToolbarCmd.accesskey "E">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formátum">
-<!ENTITY formatmenu.accesskey "o">
+<!ENTITY formatMenu.accesskey "o">
 
 <!ENTITY helpMenu.label "Súgó">
 <!ENTITY aboutCmd.label ".Névjegy">
@@ -63,5 +63,3 @@
 <!ENTITY editMode.label "Szerkesztési mód:">
 
 <!ENTITY statusText.label "Oldal betöltve">
-
-

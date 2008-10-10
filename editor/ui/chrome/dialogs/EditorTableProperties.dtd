@@ -80,9 +80,7 @@
 <!ENTITY cellSelectPrevious.accessKey     "E">
 <!ENTITY cellApplyBeforeMove.label        "Módosítás a kijelölés változása előtt">
 <!ENTITY cellKeepCurrentData.label        "Jelenlegi állapot megtartása">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label         "A változások a kijelölés változása">
-<!ENTITY applyBeforeChange2.label         "előtt lépnek életbe.">
+<!ENTITY applyBeforeChange.label          "A változások a kijelölés változása előtt lépnek életbe.">
 <!ENTITY cellRowSpan.label                "Egyesített sorok:">
 <!ENTITY cellColSpan.label                "Egyesített oszlopok:">
 <!ENTITY cellContentAlignment.label       "Tartalom igazítása">

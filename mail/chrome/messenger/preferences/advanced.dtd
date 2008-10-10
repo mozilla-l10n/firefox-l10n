@@ -20,8 +20,6 @@
 <!ENTITY secondsLabel.label            "másodperc múlva">
 <!ENTITY showFolderColumns.label       "Kibővített oszlopok megjelenítése a mappapanelon">
 <!ENTITY showFolderColumns.accesskey   "K">
-<!ENTITY rememberLastMsg.label         "Az utolsó kijelölés megjegyzése">
-<!ENTITY rememberLastMsg.accesskey     "u">
 <!ENTITY openMsgIn.label               "Üzenetek megnyitása:">
 <!ENTITY reuseExpRadio0.label          "Új üzenetablakban">
 <!ENTITY reuseExpRadio0.accesskey      "z">
@@ -29,9 +27,6 @@
 <!ENTITY reuseExpRadio1.accesskey      "l">
 <!ENTITY reuseExpRadio2.label          "Új üzenetlapon">
 <!ENTITY reuseExpRadio2.accesskey      "a">
-<!ENTITY connectionTimeout.label       "Kapcsolat időtúllépése: ">
-<!ENTITY connectionTimeout.accesskey   "a">
-<!ENTITY connectionSeconds.label       "másodperc">
 <!ENTITY configEditDesc.label          "Haladó beállítások">
 <!ENTITY configEdit.label              "Beállításszerkesztő...">
 <!ENTITY configEdit.accesskey          "B">
@@ -57,9 +52,9 @@
 <!ENTITY showUpdates.accesskey          "F">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showConnections.label         "Kapcsolat...">
-<!ENTITY showConnections.accesskey     "K">
-<!ENTITY proxiesInfo.label             "A &brandShortName; internetkapcsolatának megadása">
+<!ENTITY showSettings.label            "Beállítások...">
+<!ENTITY showSettings.accesskey        "B">
+<!ENTITY proxiesConfigure.label        "A &brandShortName; internetkapcsolatának megadása">
 <!ENTITY connectionsInfo.caption       "Kapcsolat">
 <!ENTITY offlineInfo.caption           "Kapcsolat nélküli munka">
 <!ENTITY offlineInfo.label             "Kapcsolat nélküli munka beállításai">
@@ -70,6 +65,18 @@
 <!ENTITY offlineCompact.label "Mappák tömörítése, ha a megtakarított hely több lenne, mint">
 <!ENTITY offlineCompact.accesskey "t">
 <!ENTITY kb.label "KB">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Legfeljebb">
+<!ENTITY useCacheBefore.accesskey        "L">
+<!ENTITY useCacheAfter.label             "MB hely a gyorsítótárnak">
+<!ENTITY clearCacheNow.label             "Törlés most">
+<!ENTITY clearCacheNow.accesskey         "T">
 
 <!-- Certificates -->
 <!ENTITY certificatesInfo2.label        "Tanúsítványok, visszavonási listák, tanúsítványérvényesítők és adatvédelmi eszközök kezelése">

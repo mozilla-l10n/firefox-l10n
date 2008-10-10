@@ -70,6 +70,7 @@
 <!ENTITY pasteCmd.label "Beillesztés">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "B">
+<!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY editRewrapCmd.label "Újratördelés">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "r">

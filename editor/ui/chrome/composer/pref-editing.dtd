@@ -4,9 +4,9 @@
 <!ENTITY authorName.accesskey      "S">
 <!ENTITY  pageColorHeader           "Weboldal alapértelmezett kinézete">
 
-<!ENTITY defaultColorsRadio.label   "A látogató böngészőjének alapértelmezett színei">
+<!ENTITY defaultColors.label        "A látogató böngészőjének alapértelmezett színei">
 <!ENTITY defaultColors.accesskey    "l">
-<!ENTITY customColorsRadio.label    "Egyéni színek használata:">
+<!ENTITY customColors.label         "Egyéni színek használata:">
 <!ENTITY customColors.accesskey     "E">
 
 <!ENTITY normalText.label           "Normál szöveg">

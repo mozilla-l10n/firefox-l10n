@@ -44,7 +44,7 @@
 <!ENTITY renameFolder.accesskey "a">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Mappák tömörítése">
-<!ENTITY compactFolder.accesskey    "t">
+<!ENTITY compactFolders.accesskey    "t">
 <!ENTITY emptyTrashCmd.label "Törölt elemek mappa ürítése">
 <!ENTITY emptyTrashCmd.accesskey    "r">
 <!ENTITY importCmd.label "Importálás...">
@@ -226,22 +226,33 @@
 <!ENTITY bodyAsPlaintext.accesskey "S">
 <!ENTITY viewAttachmentsInlineCmd.label "Melléklet megtekintése belül">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "M">
-<!ENTITY reloadCmd.label "Frissítés">
-<!ENTITY reloadCmd.accesskey "r">
-<!ENTITY stopCmd.label "Leállítás">
-<!ENTITY stopCmd.accesskey "L">
-<!ENTITY textZoomEnlargeCmd.label "Növelés">
-<!ENTITY textZoomEnlargeCmd.accesskey "N">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
-<!ENTITY textZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY textZoomReduceCmd.label "Csökkentés">
-<!ENTITY textZoomReduceCmd.accesskey "C">
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomResetCmd.commandkey "0">
-<!ENTITY textZoomResetCmd.label     "Normál">
-<!ENTITY textZoomResetCmd.accesskey "o">
-<!ENTITY textSize.label             "Szöveg mérete">
-<!ENTITY textSize.accesskey             "S">
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY fullZoomEnlargeCmd.label       "Nagyítás">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "n">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY fullZoomReduceCmd.label        "Kicsinyítés">
+<!ENTITY fullZoomReduceCmd.accesskey    "K">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
+<!ENTITY fullZoomResetCmd.label         "Visszaállítás">
+<!ENTITY fullZoomResetCmd.accesskey     "V">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY fullZoomToggleCmd.label        "Csak a szöveg nagyítása">
+<!ENTITY fullZoomToggleCmd.accesskey    "C">
+<!ENTITY fullZoom.label                 "Nagyítás">
+<!ENTITY fullZoom.accesskey             "N">
 
 <!ENTITY pageSourceCmd.label "Üzenet forrása">
 <!ENTITY pageSourceCmd.accesskey "f">
@@ -282,8 +293,8 @@
 <!ENTITY nextStarredMsgCmd.label "Csillagozott üzenet">
 <!ENTITY nextStarredMsgCmd.accesskey "C">
 <!ENTITY nextUnreadThread.label "Olvasatlan témacsoport">
-<!ENTITY nextUnreadThreadCmd.accesskey "v">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "T">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Előző">
 <!ENTITY prevMenu.accesskey "E">
 <!ENTITY prevMsgCmd.label "Üzenet">
@@ -560,7 +571,7 @@
 <!ENTITY unreadColumn.label "Olvasatlan">
 <!ENTITY totalColumn.label "Összesen">
 <!ENTITY readColumn.label "Olvasott">
-<!ENTITY receivedColumn.label "Érkezési sorrend">
+<!ENTITY receivedColumn.label "Beérkezés">
 <!ENTITY starredColumn.label "Csillagozott">
 <!ENTITY locationColumn.label "Hely">
 <!ENTITY idColumn.label "Érkezési sorrend">
