@@ -41,7 +41,7 @@
 <!ENTITY renameFolder.label "Renombrar carpeta…">
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY compactFolders.label "Compactar carpetas">
-<!ENTITY compactFolder.accesskey "C">
+<!ENTITY compactFolders.accesskey "C">
 <!ENTITY emptyTrashCmd.label "Vaciar papelera">
 <!ENTITY emptyTrashCmd.accesskey "p">
 <!ENTITY offlineMenu.label "Sin conexión">
@@ -248,8 +248,8 @@
 <!ENTITY nextFlaggedMsgCmd.accesskey "s">
 <!ENTITY nextUnflaggedMsgCmd.label "Mensaje sin señalar">
 <!ENTITY nextUnreadThread.label "Conversación no leída">
-<!ENTITY nextUnreadThreadCmd.accesskey "c">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "v">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Anterior">
 <!ENTITY prevMenu.accesskey "a">
 <!ENTITY prevMsgCmd.label "Mensaje">
@@ -263,7 +263,7 @@
 <!ENTITY goForwardCmd.label "Adelante">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Mensaje señalado">
-<!ENTITY previousFlaggedMsgCmd.accesskey "s">
+<!ENTITY prevFlaggedMsgCmd.accesskey "s">
 <!ENTITY backCmd.label ".Atrás">
 <!ENTITY backCmd.accesskey "a">
 <!ENTITY forwardCmd.label ".Reenviar">
