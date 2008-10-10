@@ -486,7 +486,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY backButton1.label "Bakåt">
 <!ENTITY goForwardButton1.label "Framåt">
 <!ENTITY deleteButton.label "Ta bort">
-<!ENTITY undeleteButton.label "Ångra borttagning">
+<!ENTITY undeleteButton.label "Återställ">
 <!ENTITY markButton.label "Märk">
 <!ENTITY printButton.label "Skriv ut">
 <!ENTITY stopButton.label "Stopp">
