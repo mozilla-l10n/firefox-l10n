@@ -44,158 +44,155 @@
 
 <!-- File menu items -->
 <!ENTITY fileMenu.label "Archivo">
-<!ENTITY filemenu.accesskey "A">
+<!ENTITY fileMenu.accesskey "A">
 <!ENTITY newBlankPageCmd.label "Nueva página de Composer">
-<!ENTITY newBlankPage.accesskey "P">
+<!ENTITY newBlankPageCmd.accesskey "P">
 <!ENTITY newMenu.label "Nuevo">
-<!ENTITY openFileCmd.label "Abrir archivo...">
-<!ENTITY fileopen.accesskey "a">
-<!ENTITY fileopen.keybinding "a">
-<!ENTITY openremoteCmd.label "Abrir dirección...">
-<!ENTITY fileopenremote.accesskey "d">
-<!ENTITY fileopenremote.keybinding "d">
+<!ENTITY openFileCmd.label "Abrir archivo…">
+<!ENTITY openFileCmd.accesskey "a">
+<!ENTITY openFileCmd.key "a">
+<!ENTITY openremoteCmd.label "Abrir dirección…">
+<!ENTITY openremoteCmd.accesskey "d">
+<!ENTITY openremoteCmd.key "d">
 <!ENTITY fileRecentMenu.label "Páginas recientes">
-<!ENTITY filerecentmenu.accesskey "r">
+<!ENTITY filerecentMenu.accesskey "r">
 <!ENTITY fileRevert.label "Volver a la última copia guardada">
-<!ENTITY filerevert.accesskey "v">
+<!ENTITY fileRevert.accesskey "v">
 <!ENTITY saveCmd.label "Guardar">
-<!ENTITY filesave.accesskey "G">
-<!ENTITY filesave.keybinding "G">
-<!ENTITY saveAsCmd.label "Guardar como...">
-<!ENTITY filesaveas.accesskey "A">
+<!ENTITY saveCmd.accesskey "G">
+<!ENTITY saveCmd.key "G">
+<!ENTITY saveAsCmd.label "Guardar como…">
+<!ENTITY saveAsCmd.accesskey "A">
 
 <!ENTITY publishCmd.label "Publicar">
-<!ENTITY publishcmd.accesskey "b">
-<!ENTITY publishAsCmd.label "Publicar como...">
-<!ENTITY publishas.accesskey "h">
-<!ENTITY exportToTextCmd.label "Exportar a texto...">
-<!ENTITY fileexporttotext.accesskey "T">
+<!ENTITY publishCmd.accesskey "b">
+<!ENTITY publishAsCmd.label "Publicar como…">
+<!ENTITY publishAsCmd.accesskey "h">
+<!ENTITY exportToTextCmd.label "Exportar a texto…">
+<!ENTITY exportToTextCmd.accesskey "T">
 <!ENTITY saveAsChangeEncodingCmd.label "Guardar y cambiar codif. de caracteres">
-<!ENTITY filesaveandchangeencoding.accesskey "E">
+<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
 <!ENTITY previewCmd.label "Visualizar página en el navegador">
-<!ENTITY filepreview.accesskey "V">
-<!ENTITY sendPageCmd.label "Enviar página...">
-<!ENTITY sendPage.accesskey "d">
-<!ENTITY printSetupCmd.label "Configurar página...">
-<!ENTITY fileprintsetup.accesskey "u">
+<!ENTITY previewCmd.accesskey "V">
+<!ENTITY sendPageCmd.label "Enviar página…">
+<!ENTITY sendPageCmd.accesskey "d">
+<!ENTITY printSetupCmd.label "Configurar página…">
+<!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Vista preliminar">
-<!ENTITY fileprintpreview.accesskey "v">
-<!ENTITY printCmd.label "Imprimir...">
-<!ENTITY printButtonCmd.label "Imprimir...">
-<!ENTITY fileprint.accesskey "p">
-<!ENTITY fileprint.keybinding "p">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printButtonCmd.label "Imprimir…">
+<!ENTITY printCmd.label "Imprimir…">
+<!ENTITY printCmd.accesskey "p">
+<!ENTITY printCmd.key "p">
 <!ENTITY closeCmd.label "Cerrar">
-<!ENTITY fileclose.accesskey "c">
-<!ENTITY fileclose.keybinding "w">
-<!ENTITY exitCmd.label "Salir">
-<!ENTITY fileexit.accesskey "q">
-<!ENTITY fileexit.keybinding "q">
+<!ENTITY closeCmd.accesskey "c">
+<!ENTITY closeCmd.key "w">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Editar">
-<!ENTITY editmenu.accesskey "e">
+<!ENTITY editMenu.accesskey "e">
 <!ENTITY pasteNoFormatting.label "Copiar sin formato">
 <!ENTITY pasteNoFormatting.accesskey "s">
 <!ENTITY pasteAs.label "Pegar como">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY publishSettings.label "Configuración de sitio de publicación...">
+<!ENTITY publishSettings.label "Configuración de sitio de publicación…">
 <!ENTITY publishSettings.accesskey "b">
 
 <!-- For a "Paste" submenu when more than 1 
      clipboard formats are available -->
 <!ENTITY pasteHTMLCmd.label "HTML">
-<!ENTITY pasteHTML.accesskey "h">
+<!ENTITY pasteHTMLCmd.accesskey "h">
 <!ENTITY pasteTextCmd.label "Texto">
-<!ENTITY pasteText.accesskey "t">
+<!ENTITY pasteTextCmd.accesskey "t">
 <!ENTITY pasteImageCmd.label "Imagen">
-<!ENTITY pasteImage.accesskey "i">
+<!ENTITY pasteImageCmd.accesskey "i">
 <!ENTITY pasteRowsCmd.label "Filas">
-<!ENTITY pasteRows.accesskey "F">
+<!ENTITY pasteRowsCmd.accesskey "F">
 <!ENTITY pasteColumnsCmd.label "Columnas">
-<!ENTITY pasteColumns.accesskey "c">
+<!ENTITY pasteColumnsCmd.accesskey "c">
 <!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
      Set to: "Table" or "Nested Table" depending on context 
      This accesskey must be in both strings -->
-<!ENTITY pasteTable.accesskey "a">
+<!ENTITY pasteTableCmd.accesskey "a">
 <!ENTITY pasteLinkCmd.label "Enlace">
-<!ENTITY editpastelink.accesskey "d">
+<!ENTITY pasteLinkCmd.accesskey "d">
 <!ENTITY pasteAsQuotationCmd.label "Pegar como cita">
-<!ENTITY editpastequotation.accesskey "g">
-<!ENTITY editpastequotation.keybinding "v">
+<!ENTITY pasteAsQuotationCmd.accesskey "g">
+<!ENTITY pasteAsQuotationCmd.key "v">
 <!ENTITY editStripQuotesCmd.label "Eliminar comillas">
 <!ENTITY editRewrapCmd.label "Reajuste de línea">
-<!ENTITY findCmd.label "Buscar y reemplazar...">
-<!ENTITY editfind.accesskey "A">
-<!ENTITY editfind.keybinding "A">
-<!ENTITY editfind.keybinding2 "VK_F19">
+<!ENTITY findCmd.label "Buscar y reemplazar…">
+<!ENTITY findCmd.accesskey "A">
+<!ENTITY findCmd.key "A">
+<!ENTITY findCmd.key2 "VK_F19">
 <!ENTITY findAgainCmd.label "Repetir la búsqueda">
-<!ENTITY editfindnext.accesskey "q">
-<!ENTITY editfindnext.keybinding "q">
-<!ENTITY editfindnext.keybinding2 "VK_F3">
+<!ENTITY findAgainCmd.accesskey "q">
+<!ENTITY findAgainCmd.key "q">
+<!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Encontrar anterior">
-<!ENTITY editfindprev.accesskey "v">
-<!ENTITY editfindprev.keybinding "q">
-<!ENTITY editfindprev.keybinding2 "VK_F3">
+<!ENTITY findPrevCmd.accesskey "v">
+<!ENTITY findPrevCmd.key "q">
+<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Ortografía mientras tipea">
 <!ENTITY enableInlineSpellChecker.accesskey "O">
 <!ENTITY checkSpellingCmd.label "Revisar ortografía">
-<!ENTITY editcheckspelling.accesskey "g">
-<!ENTITY editcheckspelling.keybinding "k">
+<!ENTITY checkSpellingCmd.accesskey "g">
+<!ENTITY checkSpellingCmd.key "k">
 <!ENTITY validateCmd.label "Validar HTML">
-<!ENTITY validate.accesskey "v">
+<!ENTITY validateCmd.accesskey "v">
 <!ENTITY checkLinksCmd.label "Comprobar enlaces">
 
 <!-- View menu items -->
 <!ENTITY viewPageSource.label "Código fuente de la página">
-<!ENTITY viewpagesource.accesskey "G">
+<!ENTITY viewPageSource.accesskey "G">
 <!ENTITY viewParagraphMarks.label "Marcas de párrafo">
-<!ENTITY viewparagraphmarks.accesskey "p">
+<!ENTITY viewParagraphMarks.accesskey "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Insertar">
-<!ENTITY insertmenu.accesskey "i">
-<!ENTITY insertLinkCmd.label "Enlace...">
-<!ENTITY insertlink.accesskey "E">
-<!ENTITY insertlink.keybinding "d">
-<!ENTITY insertAnchorCmd.label "Enlace interno con nombre...">
-<!ENTITY insertanchor.accesskey "l">
-<!ENTITY insertImageCmd.label "Imagen...">
-<!ENTITY insertimage.accesskey "i">
-<!ENTITY insertImageMapCmd.label "Mapa de la imagen...">
+<!ENTITY insertMenu.accesskey "i">
+<!ENTITY insertLinkCmd.label "Enlace…">
+<!ENTITY insertLinkCmd.accesskey "E">
+<!ENTITY insertLinkCmd.key "d">
+<!ENTITY insertAnchorCmd.label "Enlace interno con nombre…">
+<!ENTITY insertAnchorCmd.accesskey "l">
+<!ENTITY insertImageCmd.label "Imagen…">
+<!ENTITY insertImageCmd.accesskey "i">
+<!ENTITY insertImageMapCmd.label "Mapa de la imagen…">
 <!ENTITY insertHLineCmd.label "Línea horizontal">
-<!ENTITY inserthline.accesskey "a">
-<!ENTITY insertTableCmd.label "Tabla...">
-<!ENTITY inserttable.accesskey "t">
+<!ENTITY insertHLineCmd.accesskey "a">
+<!ENTITY insertTableCmd.label "Tabla…">
+<!ENTITY insertTableCmd.accesskey "t">
 <!ENTITY insertFormMenu.label "Formulario">
-<!ENTITY insertformmenu.accesskey "F">
-<!ENTITY insertHTMLCmd.label "HTML...">
+<!ENTITY insertFormMenu.accesskey "F">
+<!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
-<!ENTITY insertCharsCmd.label "Caracteres y símbolos...">
-<!ENTITY insertchars.accesskey "C">
+<!ENTITY insertCharsCmd.label "Caracteres y símbolos…">
+<!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakCmd.label "Salto de línea">
-<!ENTITY insertbreak.accesskey "b">
+<!ENTITY insertBreakCmd.accesskey "b">
 <!ENTITY insertBreakAllCmd.label "Romper la(s) imágen(es) inferior(es)">
-<!ENTITY insertbreakall.accesskey "R">
+<!ENTITY insertBreakAllCmd.accesskey "R">
 
 <!-- Insert form menu items -->
-<!ENTITY insertFormCmd.label "Definir formulario...">
-<!ENTITY insertform.accesskey "D">
-<!ENTITY insertInputTagCmd.label "Campo de formulario...">
-<!ENTITY insertinputtag.accesskey "e">
-<!ENTITY insertInputImageCmd.label "Imagen de formulario...">
-<!ENTITY insertinputimage.accesskey "I">
-<!ENTITY insertTextAreaCmd.label "Área de texto...">
-<!ENTITY inserttextarea.accesskey "T">
-<!ENTITY insertSelectCmd.label "Lista de selección...">
-<!ENTITY insertselect.accesskey "S">
-<!ENTITY insertButtonCmd.label "Definir botón...">
-<!ENTITY insertbutton.accesskey "B">
+<!ENTITY insertFormCmd.label "Definir formulario…">
+<!ENTITY insertFormCmd.accesskey "D">
+<!ENTITY insertInputTagCmd.label "Campo de formulario…">
+<!ENTITY insertInputTagCmd.accesskey "e">
+<!ENTITY insertInputImageCmd.label "Imagen de formulario…">
+<!ENTITY insertInputImageCmd.accesskey "I">
+<!ENTITY insertTextAreaCmd.label "Área de texto…">
+<!ENTITY insertTextAreaCmd.accesskey "T">
+<!ENTITY insertSelectCmd.label "Lista de selección…">
+<!ENTITY insertSelectCmd.accesskey "S">
+<!ENTITY insertButtonCmd.label "Definir botón…">
+<!ENTITY insertButtonCmd.accesskey "B">
 <!ENTITY insertLabelCmd.label "Definir etiqueta">
-<!ENTITY insertlabel.accesskey "L">
-<!ENTITY insertFieldSetCmd.label "Definir conjunto de campos...">
-<!ENTITY insertfieldset.accesskey "F">
+<!ENTITY insertLabelCmd.accesskey "L">
+<!ENTITY insertFieldSetCmd.label "Definir conjunto de campos…">
+<!ENTITY insertFieldSetCmd.accesskey "F">
 <!ENTITY insertIsIndexCmd.label "Búsqueda de índices">
-<!ENTITY insertisindex.accesskey "x">
+<!ENTITY insertIsIndexCmd.accesskey "x">
 
 <!-- Used just in context popup. -->
 <!ENTITY spellCheckNoSuggestions.label "(No hay sugerencias)">
@@ -203,93 +200,93 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Agregar al diccionario">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY createLinkCmd.label "Crear enlace...">
-<!ENTITY createlink.accesskey "k">
+<!ENTITY createLinkCmd.label "Crear enlace…">
+<!ENTITY createLinkCmd.accesskey "k">
 <!ENTITY editLinkCmd.label "Editar enlace en nueva ventana de Composer">
-<!ENTITY editlink.accesskey "i">
+<!ENTITY editLinkCmd.accesskey "i">
 <!-- (Toplevel Edit menu uses utilityOverlay) -->
 <!ENTITY undoCmd.label "Deshacer">
-<!ENTITY undo.accesskey "u">
+<!ENTITY undoCmd.accesskey "u">
 <!ENTITY redoCmd.label "Repetir">
-<!ENTITY redo.accesskey "r">
+<!ENTITY redoCmd.accesskey "r">
 <!ENTITY cutCmd.label "Cortar">
-<!ENTITY cut.accesskey "t">
+<!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Copiar">
-<!ENTITY copy.accesskey "c">
+<!ENTITY copyCmd.accesskey "c">
 <!ENTITY pasteCmd.label "Pegar">
-<!ENTITY paste.accesskey "p">
+<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY deleteCmd.label "Eliminar">
-<!ENTITY delete.accesskey "d">
+<!ENTITY deleteCmd.accesskey "d">
 <!ENTITY clearCmd.label "Limpiar">
-<!ENTITY clear.accesskey "d">
+<!ENTITY clearCmd.accesskey "d">
 <!ENTITY selectAllCmd.label "Seleccionar todo">
-<!ENTITY selectall.accesskey "a">
+<!ENTITY selectAllCmd.accesskey "a">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Elija un tipo de letra">
 <!ENTITY fontfaceMenu.label "Tipo de letra">
-<!ENTITY formatfontmenu.accesskey "A">
+<!ENTITY fontfaceMenu.accesskey "A">
 <!ENTITY fontVarWidth.label "Anchura variable">
-<!ENTITY fontvarwidth.accesskey "v">
+<!ENTITY fontVarWidth.accesskey "v">
 <!ENTITY fontFixedWidth.label "Anchura fija">
-<!ENTITY fontfixedwidth.accesskey "j">
-<!ENTITY formatfontfixed.keybinding "t">
+<!ENTITY fontFixedWidth.accesskey "j">
+<!ENTITY fontFixedWidth.key "t">
 <!ENTITY fontHelveticaFont.label "Helvetica, Arial">
-<!ENTITY fonthelvetica.accesskey "d">
+<!ENTITY fontHelvetica.accesskey "d">
 <!ENTITY fontTimes.label "Times">
-<!ENTITY fonttimes.accesskey "t">
+<!ENTITY fontTimes.accesskey "t">
 <!ENTITY fontCourier.label "Courier">
-<!ENTITY fontcourier.accesskey "c">
+<!ENTITY fontCourier.accesskey "c">
 <!ENTITY localfontfaceMenu.label "Tipos de letra locales">
-<!ENTITY localfontmenu.accesskey "A">
+<!ENTITY localfontfaceMenu.accesskey "A">
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Elija un tamaño de letra">
 <!ENTITY decreaseFontSize.label "Más pequeño">
-<!ENTITY decreasefontsize.accesskey "r">
-<!ENTITY decreaseFontSize.keybinding "-">
+<!ENTITY decreaseFontSize.accesskey "r">
+<!ENTITY decreaseFontSize.key "-">
 <!ENTITY increaseFontSize.label "Más grande">
-<!ENTITY increasefontsize.accesskey "q">
-<!ENTITY increaseFontSize.keybinding "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY increaseFontSize.keybinding2 "=">
+<!ENTITY increaseFontSize.accesskey "q">
+<!ENTITY increaseFontSize.key "+">
+<!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
+
 <!ENTITY fontsizeMenu.label "Tamaño">
-<!ENTITY formatsizemenu.accesskey "T">
+<!ENTITY fontsizeMenu.accesskey "T">
 <!ENTITY size-xx-smallCmd.label "xx-pequeño">
-<!ENTITY size-xx-small.accesskey "a">
+<!ENTITY size-xx-smallCmd.accesskey "a">
 <!ENTITY size-x-smallCmd.label "Muy pequeño">
-<!ENTITY size-x-small.accesskey "q">
+<!ENTITY size-x-smallCmd.accesskey "q">
 <!ENTITY size-smallCmd.label "Pequeño">
-<!ENTITY size-small.accesskey "G">
+<!ENTITY size-smallCmd.accesskey "G">
 <!ENTITY size-mediumCmd.label "Medio">
-<!ENTITY size-medium.accesskey "d">
+<!ENTITY size-mediumCmd.accesskey "d">
 <!ENTITY size-largeCmd.label "Grande">
-<!ENTITY size-large.accesskey "d">
+<!ENTITY size-largeCmd.accesskey "d">
 <!ENTITY size-x-largeCmd.label "Muy grande">
-<!ENTITY size-x-large.accesskey "x">
+<!ENTITY size-x-largeCmd.accesskey "x">
 <!ENTITY size-xx-largeCmd.label "Extragrande">
-<!ENTITY size-xx-large.accesskey "e">
+<!ENTITY size-xx-largeCmd.accesskey "e">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Estilo de texto">
-<!ENTITY formatstylemenu.accesskey "E">
+<!ENTITY fontStyleMenu.accesskey "E">
 <!ENTITY styleBoldCmd.label "Negrita">
-<!ENTITY stylebold.accesskey "N">
-<!ENTITY stylebold.keybinding "b">
+<!ENTITY styleBoldCmd.accesskey "N">
+<!ENTITY styleBoldCmd.key "b">
 <!ENTITY styleItalicCmd.label "Cursiva">
-<!ENTITY styleitalic.accesskey "I">
-<!ENTITY styleitalic.keybinding "i">
+<!ENTITY styleItalicCmd.accesskey "I">
+<!ENTITY styleItalicCmd.key "i">
 <!ENTITY styleUnderlineCmd.label "Subrayado">
-<!ENTITY styleunderline.accesskey "u">
-<!ENTITY styleunderline.keybinding "u">
+<!ENTITY styleUnderlineCmd.accesskey "u">
+<!ENTITY styleUnderlineCmd.key "u">
 <!ENTITY styleStrikeThruCmd.label "Tachado">
-<!ENTITY stylestrikethru.accesskey "T">
+<!ENTITY styleStrikeThruCmd.accesskey "T">
 <!ENTITY styleSuperscriptCmd.label "Superíndice">
-<!ENTITY stylesuperscript.accesskey "p">
+<!ENTITY styleSuperscriptCmd.accesskey "p">
 <!ENTITY styleSubscriptCmd.label "Subíndice">
-<!ENTITY stylesubscript.accesskey "S">
+<!ENTITY styleSubscriptCmd.accesskey "S">
 <!ENTITY styleNonbreakingCmd.label "Sin romper">
-<!ENTITY stylenonbreaking.accesskey "N">
+<!ENTITY styleNonbreakingCmd.accesskey "N">
 <!ENTITY styleEm.label "Énfasis">
 <!ENTITY styleEm.accesskey "f">
 <!ENTITY styleStrong.label "Más énfasis">
@@ -307,65 +304,63 @@
 <!ENTITY styleVar.label "Variable">
 <!ENTITY styleVar.accesskey "V">
 
-<!ENTITY formatFontColor.label "Color del texto...">
-<!ENTITY formatfontcolor.accesskey "c">
-<!ENTITY tableOrCellColor.label "Color de fondo de la tabla o celda...">
+<!ENTITY formatFontColor.label "Color del texto…">
+<!ENTITY formatFontColor.accesskey "c">
+<!ENTITY tableOrCellColor.label "Color de fondo de la tabla o celda…">
 <!ENTITY tableOrCellColor.accesskey "b">
 
-<!ENTITY formatremovestyles.keybinding "y">
-<!ENTITY formatremovelinks.keybinding "k">
+<!ENTITY formatRemoveStyles.key "y">
+<!ENTITY formatRemoveLinks.key "k">
 <!ENTITY formatRemoveNamedAnchors.label "Eliminar enlaces internos con nombre">
 <!ENTITY formatRemoveNamedAnchors.accesskey "m">
-<!ENTITY formatremovenamedanchors.keybinding "a">
+<!ENTITY formatremovenamedanchors.key "a">
 
-<!ENTITY formatindent.keybinding "]">
-<!ENTITY formatoutdent.keybinding "[">
 <!ENTITY paragraphMenu.label "Párrafo">
-<!ENTITY formatparagraphmenu.accesskey "P">
+<!ENTITY paragraphMenu.accesskey "P">
 <!ENTITY paragraphParagraphCmd.label "Párrafo">
-<!ENTITY paragraphparagraph.accesskey "P">
+<!ENTITY paragraphParagraphCmd.accesskey "P">
 <!ENTITY heading1Cmd.label "Título 1">
-<!ENTITY heading1.accesskey "1">
+<!ENTITY heading1Cmd.accesskey "1">
 <!ENTITY heading2Cmd.label "Título 2">
-<!ENTITY heading2.accesskey "2">
+<!ENTITY heading2Cmd.accesskey "2">
 <!ENTITY heading3Cmd.label "Título 3">
-<!ENTITY heading3.accesskey "3">
+<!ENTITY heading3Cmd.accesskey "3">
 <!ENTITY heading4Cmd.label "Título 4">
-<!ENTITY heading4.accesskey "4">
+<!ENTITY heading4Cmd.accesskey "4">
 <!ENTITY heading5Cmd.label "Título 5">
-<!ENTITY heading5.accesskey "5">
+<!ENTITY heading5Cmd.accesskey "5">
 <!ENTITY heading6Cmd.label "Título 6">
-<!ENTITY heading6.accesskey "6">
+<!ENTITY heading6Cmd.accesskey "6">
 <!ENTITY paragraphAddressCmd.label "Dirección">
-<!ENTITY paragraphaddress.accesskey "D">
+<!ENTITY paragraphAddressCmd.accesskey "D">
 <!ENTITY paragraphPreformatCmd.label "Preformato">
-<!ENTITY paragraphpreformat.accesskey "A">
+<!ENTITY paragraphPreformatCmd.accesskey "A">
 <!ENTITY paragraphBlockquoteCmd.label "Cita">
-<!ENTITY paragraphblockquote.accesskey "b">
+<!ENTITY paragraphBlockquoteCmd.accesskey "b">
 
 <!-- List menu items -->
 <!ENTITY formatlistMenu.label "Lista">
-<!ENTITY formatlistmenu.accesskey "L">
+<!ENTITY formatListMenu.accesskey "L">
 <!ENTITY noneCmd.label "Ninguna">
-<!ENTITY none.accesskey "N">
+<!ENTITY noneCmd.accesskey "N">
 <!ENTITY listBulletCmd.label "No numerada">
-<!ENTITY listbullet.accesskey "o">
+<!ENTITY listBulletCmd.accesskey "o">
 <!ENTITY listNumberedCmd.label "Numerada">
-<!ENTITY listnumbered.accesskey "u">
+<!ENTITY listNumberedCmd.accesskey "u">
 <!ENTITY listTermCmd.label "Término">
-<!ENTITY listterm.accesskey "t">
+<!ENTITY listTermCmd.accesskey "t">
 <!ENTITY listDefinitionCmd.label "Definición">
-<!ENTITY listdefinition.accesskey "d">
-<!ENTITY listProps.label "Propiedades de la lista...">
-<!ENTITY listprops.accesskey "d">
+<!ENTITY listDefinitionCmd.accesskey "d">
+<!ENTITY listPropsCmd.label "Propiedades de la lista…">
+<!ENTITY listPropsCmd.accesskey "d">
 
 <!ENTITY ParagraphSelect.tooltip "Elija un formato de párrafo">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Cuerpo del texto">
-<!ENTITY bodytext.accesskey "T">
+<!ENTITY bodyTextCmd.accesskey "T">
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Propiedades avanzadas">
-<!ENTITY advancedproperties.accesskey "v">
+<!ENTITY advancedPropertiesCmd.accesskey "v">
 
 <!ENTITY NormalAbbr.label "Texto">
 <!ENTITY ParagraphAbbr.label "P">
@@ -379,24 +374,20 @@
 <!ENTITY AddressAbbr.label "Direcc.">
 <!ENTITY PreformatAbbr.label "Pre.">
 
-<!-- Style Sheet submenu NOT IMPLEMENTED -->
-<!ENTITY stylesheetMenu.label "Aplicar hoja de estilo">
-<!ENTITY formatstylesheetmenu.accesskey "y">
-
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Alinear">
-<!ENTITY formatalignmenu.accesskey "a">
+<!ENTITY alignMenu.accesskey "a">
 <!ENTITY alignLeft.label "Izquierda">
-<!ENTITY alignleft.accesskey "d">
+<!ENTITY alignLeft.accesskey "d">
 <!ENTITY alignLeft.tooltip "Alinear a la izquierda">
 <!ENTITY alignCenter.label "Centrar">
-<!ENTITY aligncenter.accesskey "c">
+<!ENTITY alignCenter.accesskey "c">
 <!ENTITY alignCenter.tooltip "Alinear al centro">
 <!ENTITY alignRight.label "Derecha">
-<!ENTITY alignright.accesskey "r">
+<!ENTITY alignRight.accesskey "r">
 <!ENTITY alignRight.tooltip "Alinear a la derecha">
 <!ENTITY alignJustify.label "Justificar">
-<!ENTITY alignjustify.accesskey "j">
+<!ENTITY alignJustify.accesskey "j">
 <!ENTITY alignJustify.tooltip "Justificar">
 
 <!-- Layer toolbar items -->
@@ -405,86 +396,83 @@
 <!ENTITY layerBringToFront.tooltip "Traer al frente">
 
 <!ENTITY increaseIndent.label "Incrementar sangrado">
-<!ENTITY increaseindent.accesskey "i">
-<!ENTITY increaseindentkb "=">
+<!ENTITY increaseIndent.accesskey "i">
+<!ENTITY increaseIndentkb "=">
 <!ENTITY decreaseIndent.label "Reducir sangrado">
-<!ENTITY decreaseindent.accesskey "D">
-<!ENTITY decreaseindentkb "-">
+<!ENTITY decreaseIndent.accesskey "D">
+<!ENTITY decreaseIndentkb "-">
 
-<!ENTITY grid.label "Cuadrícula de posicionamiento">
+<!ENTITY grid.label "Grilla de posicionamiento">
 <!ENTITY grid.accesskey "t">
 
-<!ENTITY pageProperties.label "Título y propiedades de la página...">
-<!ENTITY pageproperties.accesskey "q">
-<!ENTITY colorsAndBackground.label "Color y fondo de la página...">
-<!ENTITY colorsandbackground.accesskey "f">
+<!ENTITY pageProperties.label "Título y propiedades de la página…">
+<!ENTITY pageProperties.accesskey "q">
+<!ENTITY colorsAndBackground.label "Color y fondo de la página…">
+<!ENTITY colorsAndBackground.accesskey "f">
 
 <!-- Table Menu -->
 <!ENTITY tableMenu.label "Tabla">
-<!ENTITY tablemenu.accesskey "b">
+<!ENTITY tableMenu.accesskey "b">
 <!-- Select Submenu -->
 <!ENTITY tableSelectMenu.label "Seleccionar">
-<!ENTITY tableselectmenu.accesskey "S">
+<!ENTITY tableSelectMenu.accesskey "S">
 
 <!ENTITY tableSelectMenu2.label "Seleccionar tabla">
+<!ENTITY tableSelectMenu2.accesskey "S">
 <!ENTITY tableInsertMenu2.label "Insertar tabla">
+<!ENTITY tableInsertMenu2.accesskey "I">
 <!ENTITY tableDeleteMenu2.label "Eliminar tabla">
+<!ENTITY tableDeleteMenu2.accesskey "E">
 
 <!-- Insert SubMenu -->
 <!ENTITY tableInsertMenu.label "Insertar">
-<!ENTITY tableinsertmenu.accesskey "i">
+<!ENTITY tableInsertMenu.accesskey "i">
 <!ENTITY tableTable.label "Tabla">
-<!ENTITY tabletable.accesskey "t">
+<!ENTITY tableTable.accesskey "t">
 <!ENTITY tableRow.label "Fila">
 <!ENTITY tableRows.label "Fila(s)">
-<!ENTITY tablerow.accesskey "F">
+<!ENTITY tableRow.accesskey "F">
 <!ENTITY tableRowAbove.label "Fila superior">
-<!-- uses tablerow.accesskey -->
+<!ENTITY tableRowAbove.accesskey "F">
 <!ENTITY tableRowBelow.label "Fila inferior">
-<!ENTITY tablerowbelow.accesskey "i">
+<!ENTITY tableRowBelow.accesskey "i">
 <!ENTITY tableColumn.label "Columna">
 <!ENTITY tableColumns.label "Columna(s)">
-<!ENTITY tablecolumn.accesskey "a">
+<!ENTITY tableColumn.accesskey "a">
 <!ENTITY tableColumnBefore.label "Columna anterior">
-<!-- uses tablecolumn.accesskey -->
+<!ENTITY tableColumnBefore.accesskey "a">
 <!ENTITY tableColumnAfter.label "Columna siguiente">
-<!ENTITY tablecolumnafter.accesskey "g">
+<!ENTITY tableColumnAfter.accesskey "g">
 <!ENTITY tableCell.label "Celda">
 <!ENTITY tableCells.label "Celda(s)">
-<!ENTITY tablecell.accesskey "c">
+<!ENTITY tableCell.accesskey "c">
 <!ENTITY tableCellContents.label "Contenido de la celda">
-<!ENTITY tablecellcontents.accesskey "n">
+<!ENTITY tableCellContents.accesskey "n">
 <!ENTITY tableAllCells.label "Todas las celdas">
+<!ENTITY tableAllCells.accesskey "A">
 <!ENTITY tableCellBefore.label "Celda anterior">
-<!ENTITY tableallcells.accesskey "a">
-<!-- uses tablecell.accesskey -->
+<!ENTITY tableCellBefore.accesskey "C">
 <!ENTITY tableCellAfter.label "Celda siguiente">
-<!ENTITY tablecellafter.accesskey "t">
+<!ENTITY tableCellAfter.accesskey "t">
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Eliminar">
-<!ENTITY tabledeletemenu.accesskey "E">
+<!ENTITY tableDeleteMenu.accesskey "E">
 
 <!ENTITY tableFix.label "Arreglar apariencia de la tabla">
-<!ENTITY tablefix.accesskey "A">
+<!ENTITY tableFix.accesskey "A">
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
 <!ENTITY tableJoinCells.label "j">
-<!ENTITY tablejoincells.accesskey "j">
+<!ENTITY tableJoinCells.accesskey "j">
 <!ENTITY tableSplitCell.label "Dividir celda">
-<!ENTITY tablesplitcell.accesskey "c">
+<!ENTITY tableSplitCell.accesskey "c">
 <!ENTITY convertToTable.label "Crear tabla a partir de la selección">
-<!ENTITY converttotable.accesskey "r">
-<!ENTITY tableProperties.label "Propiedades de la tabla...">
+<!ENTITY convertToTable.accesskey "r">
+<!ENTITY tableProperties.label "Propiedades de la tabla…">
 <!ENTITY tableProperties.accesskey "o">
-
-<!-- Tools menu -->
-<!ENTITY toolsmenu.accesskey "d">
-<!ENTITY toolbrowser.accesskey "b">
-<!ENTITY toolplaineditor.accesskey "p">
-<!ENTITY toolsetfocus.accesskey "A">
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Barra de menú">
@@ -588,5 +576,5 @@
 <!ENTITY updateTOC.accesskey "u">
 <!ENTITY removeTOC.label "Eliminar">
 <!ENTITY removeTOC.accesskey "r">
-<!ENTITY tocMenu.label "Tabla de contenidos...">
+<!ENTITY tocMenu.label "Tabla de contenidos…">
 <!ENTITY tocMenu.accesskey "b">
