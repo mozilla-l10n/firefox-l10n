@@ -1,9 +1,9 @@
 <!ENTITY warnAddonInstall.label "Avvisa se un sito cerca di installare un componente aggiuntivo">
 <!ENTITY warnAddonInstall.accesskey "A">
-<!ENTITY tellMaybeAttackSite2.label "Blocca i siti segnalati come possibile minaccia">
-<!ENTITY tellMaybeAttackSite.accesskey "m">
-<!ENTITY tellMaybeForgery2.label "Blocca i siti segnalati come possibile contraffazione">
-<!ENTITY tellMaybeForgery.accesskey "c">
+<!ENTITY blockAttackSites.label "Blocca i siti segnalati come minaccia">
+<!ENTITY blockAttackSites.accesskey "m">
+<!ENTITY blockWebForgeries.label "Blocca i siti segnalati come contraffazione">
+<!ENTITY blockWebForgeries.accesskey "c">
 <!ENTITY addonExceptions.label "Eccezioni…">
 <!ENTITY addonExceptions.accesskey "E">
 <!ENTITY passwords.label "Password">
