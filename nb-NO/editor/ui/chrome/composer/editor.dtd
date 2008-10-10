@@ -44,17 +44,17 @@
 
 <!-- View menu items -->
 <!ENTITY viewMenu.label "Vis">
-<!ENTITY viewmenu.accesskey "V">
-<!ENTITY compositionToolbarCmd.label "Composition Toolbar">
-<!ENTITY compositiontb.accesskey "c">
-<!ENTITY formattingToolbarCmd.label "Format Toolbar">
-<!ENTITY formattingtb.accesskey "f">
-<!ENTITY editmodeToolbarCmd.label "Edit Mode Toolbar">
-<!ENTITY editmodetb.accesskey "E">
+<!ENTITY viewMenu.accesskey "V">
+<!ENTITY compositionToolbarCmd.label "Forfatterlinje">
+<!ENTITY compositionToolbarCmd.accesskey "F">
+<!ENTITY formattingToolbarCmd.label "Formateringslinje">
+<!ENTITY formattingToolbarCmd.accesskey "o">
+<!ENTITY editmodeToolbarCmd.label "Redigeringslinje">
+<!ENTITY editmodeToolbarCmd.accesskey "R">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formatering">
-<!ENTITY formatmenu.accesskey "o">
+<!ENTITY formatMenu.accesskey "o">
 
 <!ENTITY helpMenu.label "Hjelp">
 <!ENTITY aboutCmd.label ".About">
@@ -63,4 +63,3 @@
 <!ENTITY editMode.label "Redigeringsmodus:">
 
 <!ENTITY statusText.label "Sidelasting fullført">
-
