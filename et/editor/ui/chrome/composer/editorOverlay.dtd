@@ -1,0 +1,580 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1999-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Sammy Ford
+   -   Blake Ross
+   -   Ryan Cassin (rcassin@supernova.org)
+   -   Daniel Glazman (glazman@netscape.com)
+   -   Stephen Donner (technutz@netscape.net)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
+
+<!-- File menu items -->
+<!ENTITY fileMenu.label                      "Fail">
+<!ENTITY fileMenu.accesskey                  "F">
+<!ENTITY newBlankPageCmd.label               "Leht">
+<!ENTITY newBlankPageCmd.accesskey           "L">
+<!ENTITY newMenu.label                       "Uus">
+<!ENTITY openFileCmd.label                   "Ava fail...">
+<!ENTITY openFileCmd.accesskey               "A">
+<!ENTITY openFileCmd.key                     "o">
+<!ENTITY openRemoteCmd.label                 "Ava veebiaadress...">
+<!ENTITY openRemoteCmd.accesskey             "v">
+<!ENTITY openRemoteCmd.key                   "l">
+<!ENTITY fileRecentMenu.label                "Hiljutised lehed">
+<!ENTITY fileRecentMenu.accesskey            "H">
+<!ENTITY fileRevert.label                    "Taasta">
+<!ENTITY fileRevert.accesskey                "a">
+<!ENTITY saveCmd.label                       "Salvesta">
+<!ENTITY saveCmd.accesskey                   "S">
+<!ENTITY saveCmd.key                         "s">
+<!ENTITY saveAsCmd.label                     "Salvesta kui...">
+<!ENTITY saveAsCmd.accesskey                 "u">
+
+<!ENTITY publishCmd.label                    "Avalda">
+<!ENTITY publishCmd.accesskey                "d">
+<!ENTITY publishCmd.key                      "s">
+<!ENTITY publishAsCmd.label                  "Avalda kui...">
+<!ENTITY publishAsCmd.accesskey              "l">
+<!ENTITY exportToTextCmd.label               "Ekspordi tekstina...">
+<!ENTITY exportToTextCmd.accesskey           "d">
+<!ENTITY saveAsChangeEncodingCmd.label       "Salvesta ja muuda kodeeringut">
+<!ENTITY saveAsChangeEncodingCmd.accesskey   "i">
+<!ENTITY previewCmd.label                    "Eelvaade veebilehitsejas">
+<!ENTITY previewCmd.accesskey                "h">
+<!ENTITY sendPageCmd.label                   "Saada leht...">
+<!ENTITY sendPageCmd.accesskey               "d">
+<!ENTITY printSetupCmd.label                 "Printimise sätted...">
+<!ENTITY printSetupCmd.accesskey             "t">
+<!ENTITY printPreviewCmd.label               "Printimise eelvaade">
+<!ENTITY printPreviewCmd.accesskey           "v">
+<!ENTITY printButtonCmd.label                "Prindi...">
+<!ENTITY printCmd.label                      "Prindi...">
+<!ENTITY printCmd.accesskey                  "P">
+<!ENTITY printCmd.key                        "p">
+<!ENTITY closeCmd.label                      "Sulge">
+<!ENTITY closeCmd.accesskey                  "S">
+<!ENTITY closeCmd.key                        "w">
+
+<!-- Edit menu items -->
+<!ENTITY editMenu.label                      "Redigeerimine">
+<!ENTITY editMenu.accesskey                  "R">
+<!ENTITY pasteNoFormatting.label             "Aseta ilma vorminguta">
+<!ENTITY pasteNoFormatting.accesskey         "i">
+<!ENTITY pasteNoFormatting.key               "v">
+<!ENTITY pasteAs.label                       "Aseta kui">
+<!ENTITY pasteAs.accesskey                   "u">
+<!ENTITY publishSettings.label               "Avaldatava veebilehe sätted...">
+<!ENTITY publishSettings.accesskey           "t">
+<!-- For a "Paste" submenu when more than 1 
+     clipboard formats are available -->
+
+<!ENTITY pasteHTMLCmd.label                  "HTML">
+<!ENTITY pasteHTMLCmd.accesskey              "H">
+<!ENTITY pasteTextCmd.label                  "Tekst">
+<!ENTITY pasteTextCmd.accesskey              "T">
+<!ENTITY pasteImageCmd.label                 "Pilt">
+<!ENTITY pasteImageCmd.accesskey             "P">
+<!ENTITY pasteRowsCmd.label                  "Read">
+<!ENTITY pasteRowsCmd.accesskey              "R">
+<!ENTITY pasteColumnsCmd.label               "Veerud">
+<!ENTITY pasteColumnsCmd.accesskey           "V">
+<!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
+     Set to: "Table" or "Nested Table" depending on context 
+     This accesskey must be in both strings -->
+<!ENTITY pasteTableCmd.accesskey             "a">
+<!ENTITY pasteLinkCmd.label                  "Link">
+<!ENTITY pasteLinkCmd.accesskey              "L">
+<!ENTITY pasteAsQuotationCmd.label           "Aseta tsitaadina">
+<!ENTITY pasteAsQuotationCmd.accesskey       "t">
+<!ENTITY editStripQuotesCmd.label            "Eeemalda tsiteerimine">
+<!ENTITY editRewrapCmd.label                 "Teisenda tavatekstiks">
+<!ENTITY findCmd.label                       "Otsi ja asenda...">
+<!ENTITY findCmd.accesskey                   "e">
+<!ENTITY findCmd.key                         "f">
+<!ENTITY findCmd.key2                        "VK_F19">
+<!ENTITY findAgainCmd.label                  "Otsi uuesti">
+<!ENTITY findAgainCmd.accesskey              "e">
+<!ENTITY findAgainCmd.key                    "g">
+<!ENTITY findAgainCmd.key2                   "VK_F3">
+<!ENTITY findPrevCmd.label                   "Otsi eelmine">
+<!ENTITY findPrevCmd.accesskey               "l">
+<!ENTITY findPrevCmd.key                     "g">
+<!ENTITY findPrevCmd.key2                    "VK_F3">
+<!ENTITY enableInlineSpellChecker.label      "Õigekirja kontroll kirjutamise ajal">
+<!ENTITY enableInlineSpellChecker.accesskey  "j">
+<!ENTITY checkSpellingCmd.label              "Õigekirja kontroll">
+<!ENTITY checkSpellingCmd.accesskey          "o">
+<!ENTITY checkSpellingCmd.key                "k">
+<!ENTITY validateCmd.label                   "HTML-i kontroll">
+<!ENTITY validateCmd.accesskey               "n">
+<!ENTITY checkLinksCmd.label                 "Kontrolli linke">
+
+<!-- View menu items -->
+<!ENTITY viewPageSource.label                "Lehe lähtekood">
+<!ENTITY viewPageSource.accesskey            "d">
+<!ENTITY viewParagraphMarks.label            "Lõigumärgid">
+<!ENTITY viewParagraphMarks.accesskey        "m">
+
+<!-- Insert menu items -->
+<!ENTITY insertMenu.label                    "Lisamine">
+<!ENTITY insertMenu.accesskey                "L">
+<!ENTITY insertLinkCmd.label                 "Link...">
+<!ENTITY insertLinkCmd.accesskey             "L">
+<!ENTITY insertLinkCmd.key                   "l">
+<!ENTITY insertAnchorCmd.label               "Nimega ankur...">
+<!ENTITY insertAnchorCmd.accesskey           "N">
+<!ENTITY insertImageCmd.label                "Pilt...">
+<!ENTITY insertImageCmd.accesskey            "P">
+<!ENTITY insertImageMapCmd.label             "Hüperpilt...">
+<!ENTITY insertHLineCmd.label                "Horisontaaljoon">
+<!ENTITY insertHLineCmd.accesskey            "o">
+<!ENTITY insertTableCmd.label                "Tabel...">
+<!ENTITY insertTableCmd.accesskey            "T">
+<!ENTITY insertFormMenu.label                "Vorm">
+<!ENTITY insertFormMenu.accesskey            "V">
+<!ENTITY insertHTMLCmd.label                 "HTML...">
+<!ENTITY insertHTMLCmd.accesskey             "M">
+<!ENTITY insertCharsCmd.label                "Tähemärgid ja sümbolid...">
+<!ENTITY insertCharsCmd.accesskey            "T">
+<!ENTITY insertBreakCmd.label                "Reapiir">
+<!ENTITY insertBreakCmd.accesskey            "R">
+<!ENTITY insertBreakAllCmd.label             "Reavahetus pildi (piltide) järel">
+<!ENTITY insertBreakAllCmd.accesskey         "h">
+
+<!-- Insert form menu items -->
+<!ENTITY insertFormCmd.label                 "Defineeri vorm...">
+<!ENTITY insertFormCmd.accesskey             "D">
+<!ENTITY insertInputTagCmd.label             "Vormi väli...">
+<!ENTITY insertInputTagCmd.accesskey         "r">
+<!ENTITY insertInputImageCmd.label           "Vormi pilt...">
+<!ENTITY insertInputImageCmd.accesskey       "i">
+<!ENTITY insertTextAreaCmd.label             "Tekstiala...">
+<!ENTITY insertTextAreaCmd.accesskey         "T">
+<!ENTITY insertSelectCmd.label               "Valiknimekiri...">
+<!ENTITY insertSelectCmd.accesskey           "n">
+<!ENTITY insertButtonCmd.label               "Defineeri nupp...">
+<!ENTITY insertButtonCmd.accesskey           "f">
+<!ENTITY insertLabelCmd.label                "Defineeri sedel">
+<!ENTITY insertLabelCmd.accesskey            "s">
+<!ENTITY insertFieldSetCmd.label             "Defineeri valikuväli...">
+<!ENTITY insertFieldSetCmd.accesskey         "r">
+<!ENTITY insertIsIndexCmd.label              "Indeksotsing">
+<!ENTITY insertIsIndexCmd.accesskey          "k">
+
+<!-- Used just in context popup. -->
+<!ENTITY spellCheckNoSuggestions.label       "(soovitusi ei leitud)">
+<!ENTITY spellCheckIgnoreWord.label          "Ignoreeri sõna">
+<!ENTITY spellCheckIgnoreWord.accesskey      "I">
+<!ENTITY spellCheckAddToDictionary.label     "Lisa sõnaraamatusse">
+<!ENTITY spellCheckAddToDictionary.accesskey "n">
+<!ENTITY createLinkCmd.label                 "Loo link...">
+<!ENTITY createLinkCmd.accesskey             "i">
+<!ENTITY editLinkCmd.label                   "Redigeeri linki uues koostajas">
+<!ENTITY editLinkCmd.accesskey               "u">
+<!-- (Toplevel Edit menu uses utilityOverlay) -->
+<!ENTITY undoCmd.label                       "Võta tagasi">
+<!ENTITY undoCmd.accesskey                   "V">
+<!ENTITY redoCmd.label                       "Tee uuesti">
+<!ENTITY redoCmd.accesskey                   "T">
+<!ENTITY cutCmd.label                        "Lõika">
+<!ENTITY cutCmd.accesskey                    "L">
+<!ENTITY copyCmd.label                       "Kopeeri">
+<!ENTITY copyCmd.accesskey                   "K">
+<!ENTITY pasteCmd.label                      "Aseta">
+<!ENTITY pasteCmd.accesskey                  "A">
+<!ENTITY deleteCmd.label                     "Kustuta">
+<!ENTITY deleteCmd.accesskey                 "u">
+<!ENTITY clearCmd.label                      "Puhasta">
+<!ENTITY clearCmd.accesskey                  "P">
+<!ENTITY selectAllCmd.label                  "Vali kõik">
+<!ENTITY selectAllCmd.accesskey              "l">
+
+<!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.tooltip              "Vali font">
+<!ENTITY fontfaceMenu.label                  "Font">
+<!ENTITY fontfaceMenu.accesskey              "F">
+<!ENTITY fontVarWidth.label                  "Muutliku laiusega">
+<!ENTITY fontVarWidth.accesskey              "M">
+<!ENTITY fontFixedWidth.label                "Kindla laiusega">
+<!ENTITY fontFixedWidth.accesskey            "K">
+<!ENTITY fontFixedWidth.key                  "T">
+<!ENTITY fontHelvetica.label                 "Helvetica, Arial">
+<!ENTITY fontHelvetica.accesskey             "l">
+<!ENTITY fontTimes.label                     "Times">
+<!ENTITY fontTimes.accesskey                 "T">
+<!ENTITY fontCourier.label                   "Courier">
+<!ENTITY fontCourier.accesskey               "C">
+<!ENTITY localfontfaceMenu.label             "Kohalikud fondid">
+<!ENTITY localfontfaceMenu.accesskey         "f">
+
+<!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.tooltip              "Vali fondi suurus">
+<!ENTITY decreaseFontSize.label              "Väiksem">
+<!ENTITY decreaseFontSize.accesskey          "V">
+<!ENTITY decreaseFontSize.key                "-">
+<!ENTITY increaseFontSize.label              "Suurem">
+<!ENTITY increaseFontSize.accesskey          "S">
+<!ENTITY increaseFontSize.key                "+">
+<!ENTITY increaseFontSize.key2               "="><!-- + is above this key on many keyboards -->
+
+<!ENTITY fontSizeMenu.label                  "Suurus">
+<!ENTITY fontSizeMenu.accesskey              "u">
+<!ENTITY size-xx-smallCmd.label              "üliväike">
+<!ENTITY size-xx-smallCmd.accesskey          "v">
+<!ENTITY size-x-smallCmd.label               "väga väike">
+<!ENTITY size-x-smallCmd.accesskey           "g">
+<!ENTITY size-smallCmd.label                 "väike">
+<!ENTITY size-smallCmd.accesskey             "i">
+<!ENTITY size-mediumCmd.label                "keskmine">
+<!ENTITY size-mediumCmd.accesskey            "e">
+<!ENTITY size-largeCmd.label                 "suur">
+<!ENTITY size-largeCmd.accesskey             "r">
+<!ENTITY size-x-largeCmd.label               "väga suur">
+<!ENTITY size-x-largeCmd.accesskey           "a">
+<!ENTITY size-xx-largeCmd.label              "ülisuur">
+<!ENTITY size-xx-largeCmd.accesskey          "i">
+
+<!-- Font Style SubMenu -->
+<!ENTITY fontStyleMenu.label                 "Teksti stiil">
+<!ENTITY fontStyleMenu.accesskey             "s">
+<!ENTITY styleBoldCmd.label                  "Paks">
+<!ENTITY styleBoldCmd.accesskey              "P">
+<!ENTITY styleBoldCmd.key                    "b">
+<!ENTITY styleItalicCmd.label                "Kaldkiri">
+<!ENTITY styleItalicCmd.accesskey            "K">
+<!ENTITY styleItalicCmd.key                  "i">
+<!ENTITY styleUnderlineCmd.label             "Allakriipsutus">
+<!ENTITY styleUnderlineCmd.accesskey         "A">
+<!ENTITY styleUnderlineCmd.key               "u">
+<!ENTITY styleStrikeThruCmd.label            "Läbikriipsutus">
+<!ENTITY styleStrikeThruCmd.accesskey        "k">
+<!ENTITY styleSuperscriptCmd.label           "Ülapaigutus">
+<!ENTITY styleSuperscriptCmd.accesskey       "g">
+<!ENTITY styleSubscriptCmd.label             "Alapaigutus">
+<!ENTITY styleSubscriptCmd.accesskey         "u">
+<!ENTITY styleNonbreakingCmd.label           "Murdmata">
+<!ENTITY styleNonbreakingCmd.accesskey       "M">
+<!ENTITY styleEm.label                       "Rõhutus">
+<!ENTITY styleEm.accesskey                   "h">
+<!ENTITY styleStrong.label                   "Tugev rõhutus">
+<!ENTITY styleStrong.accesskey               "u">
+<!ENTITY styleCite.label                     "Tsitaat">
+<!ENTITY styleCite.accesskey                 "T">
+<!ENTITY styleAbbr.label                     "Lühend">
+<!ENTITY styleAbbr.accesskey                 "e">
+<!ENTITY styleAcronym.label                  "Akronüüm">
+<!ENTITY styleAcronym.accesskey              "n">
+<!ENTITY styleCode.label                     "Kood">
+<!ENTITY styleCode.accesskey                 "o">
+<!ENTITY styleSamp.label                     "Näidisväljund">
+<!ENTITY styleSamp.accesskey                 "d">
+<!ENTITY styleVar.label                      "Muutuja">
+<!ENTITY styleVar.accesskey                  "M">
+
+<!ENTITY formatFontColor.label               "Teksti värv...">
+<!ENTITY formatFontColor.accesskey           "T">
+<!ENTITY tableOrCellColor.label              "Tabeli või lahtri taustavärv...">
+<!ENTITY tableOrCellColor.accesskey          "L">
+
+<!ENTITY formatRemoveStyles.key              "y">
+<!ENTITY formatRemoveLinks.key               "k">
+<!ENTITY formatRemoveNamedAnchors.label      "Eemalda nimega ankrud">
+<!ENTITY formatRemoveNamedAnchors.accesskey  "m">
+<!ENTITY formatRemoveNamedAnchors.key        "a">
+
+<!ENTITY paragraphMenu.label                 "Lõik">
+<!ENTITY paragraphMenu.accesskey             "i">
+<!ENTITY paragraphParagraphCmd.label         "Lõik">
+<!ENTITY paragraphParagraphCmd.accesskey     "L">
+<!ENTITY heading1Cmd.label                   "Pealkiri 1">
+<!ENTITY heading1Cmd.accesskey               "1">
+<!ENTITY heading2Cmd.label                   "Pealkiri 2">
+<!ENTITY heading2Cmd.accesskey               "2">
+<!ENTITY heading3Cmd.label                   "Pealkiri 3">
+<!ENTITY heading3Cmd.accesskey               "3">
+<!ENTITY heading4Cmd.label                   "Pealkiri 4">
+<!ENTITY heading4Cmd.accesskey               "4">
+<!ENTITY heading5Cmd.label                   "Pealkiri 5">
+<!ENTITY heading5Cmd.accesskey               "5">
+<!ENTITY heading6Cmd.label                   "Pealkiri 6">
+<!ENTITY heading6Cmd.accesskey               "6">
+<!ENTITY paragraphAddressCmd.label           "Aadress">
+<!ENTITY paragraphAddressCmd.accesskey       "A">
+<!ENTITY paragraphPreformatCmd.label         "Eelvormindatud">
+<!ENTITY paragraphPreformatCmd.accesskey     "v">
+
+<!-- List menu items -->
+<!ENTITY formatlistMenu.label                "Nimekiri">
+<!ENTITY formatlistMenu.accesskey            "N">
+<!ENTITY noneCmd.label                       "Puudub">
+<!ENTITY noneCmd.accesskey                   "P">
+<!ENTITY listBulletCmd.label                 "Täppidega">
+<!ENTITY listBulletCmd.accesskey             "T">
+<!ENTITY listNumberedCmd.label               "Nummerdatud">
+<!ENTITY listNumberedCmd.accesskey           "m">
+<!ENTITY listTermCmd.label                   "Termin">
+<!ENTITY listTermCmd.accesskey               "T">
+<!ENTITY listDefinitionCmd.label             "Definitsioon">
+<!ENTITY listDefinitionCmd.accesskey         "D">
+<!ENTITY listPropsCmd.label                  "Nimekirja omadused...">
+<!ENTITY listPropsCmd.accesskey              "o">
+
+<!ENTITY ParagraphSelect.tooltip             "Vali lõigu formaat">
+<!-- Shared in Paragraph, and Toolbar menulist -->
+<!ENTITY bodyTextCmd.label                   "Sisu tekst">
+<!ENTITY bodyTextCmd.accesskey               "S">
+<!-- isn't used in menu now, but may be added in future -->
+<!ENTITY advancedPropertiesCmd.label         "Täpsemad omadused">
+<!ENTITY advancedPropertiesCmd.accesskey     "p">
+
+<!ENTITY NormalAbbr.label                    "Tekst">
+<!ENTITY ParagraphAbbr.label                 "L">
+<!ENTITY Heading1Abbr.label                  "P1">
+<!ENTITY Heading2Abbr.label                  "P2">
+<!ENTITY Heading3Abbr.label                  "P3">
+<!ENTITY Heading4Abbr.label                  "P4">
+<!ENTITY Heading5Abbr.label                  "P5">
+<!ENTITY Heading6Abbr.label                  "P6">
+<!ENTITY BlockquoteAbbr.label                "Tsit.">
+<!ENTITY AddressAbbr.label                   "Aadr.">
+<!ENTITY PreformatAbbr.label                 "Eelvorm.">
+
+<!-- Align menu items -->
+<!ENTITY alignMenu.label                     "Joondus">
+<!ENTITY alignMenu.accesskey                 "J">
+<!ENTITY alignLeft.label                     "Vasakule">
+<!ENTITY alignLeft.accesskey                 "V">
+<!ENTITY alignLeft.tooltip                   "Joonda vasakule">
+<!ENTITY alignCenter.label                   "Keskele">
+<!ENTITY alignCenter.accesskey               "K">
+<!ENTITY alignCenter.tooltip                 "Joonda keskele">
+<!ENTITY alignRight.label                    "Paremale">
+<!ENTITY alignRight.accesskey                "P">
+<!ENTITY alignRight.tooltip                  "Joonda paremale">
+<!ENTITY alignJustify.label                  "Rööpselt">
+<!ENTITY alignJustify.accesskey              "R">
+<!ENTITY alignJustify.tooltip                "Joonda servast servani">
+
+<!-- Layer toolbar items -->
+<!ENTITY layer.tooltip                       "Järjestus">
+<!ENTITY layerSendToBack.tooltip             "Vii kõige taha">
+<!ENTITY layerBringToFront.tooltip           "Too kõige ette">
+
+<!ENTITY increaseIndent.label                "Suurenda taanet">
+<!ENTITY increaseIndent.accesskey            "t">
+<!ENTITY increaseIndent.key                  "]">
+<!ENTITY decreaseIndent.label                "Vähenda taanet">
+<!ENTITY decreaseIndent.accesskey            "h">
+<!ENTITY decreaseIndent.key                  "[">
+
+<!ENTITY grid.label                          "Alusvõrk">
+<!ENTITY grid.accesskey                      "r">
+
+<!ENTITY pageProperties.label                "Lehe pealkiri ja omadused...">
+<!ENTITY pageProperties.accesskey            "j">
+<!ENTITY colorsAndBackground.label           "Lehe värvid ja taust...">
+<!ENTITY colorsAndBackground.accesskey       "e">
+
+<!-- Table Menu -->
+<!ENTITY tableMenu.label                     "Tabel">
+<!ENTITY tableMenu.accesskey                 "b">
+
+<!-- Select Submenu -->
+<!ENTITY tableSelectMenu.label               "Vali">
+<!ENTITY tableSelectMenu.accesskey           "l">
+
+<!ENTITY tableSelectMenu2.label              "Vali tabel">
+<!ENTITY tableSelectMenu2.accesskey          "V">
+<!ENTITY tableInsertMenu2.label              "Lisa tabelisse">
+<!ENTITY tableInsertMenu2.accesskey          "L">
+<!ENTITY tableDeleteMenu2.label              "Kustuta tabelist">
+<!ENTITY tableDeleteMenu2.accesskey          "K">
+
+<!-- Insert SubMenu -->
+<!ENTITY tableInsertMenu.label               "Lisa">
+<!ENTITY tableInsertMenu.accesskey           "L">
+<!ENTITY tableTable.label                    "Tabel">
+<!ENTITY tableTable.accesskey                "T">
+<!ENTITY tableRow.label                      "Rida">
+<!ENTITY tableRows.label                     "Read">
+<!ENTITY tableRow.accesskey                  "R">
+<!ENTITY tableRowAbove.label                 "Rida üles">
+<!ENTITY tableRowAbove.accesskey             "i">
+<!ENTITY tableRowBelow.label                 "Rida alla">
+<!ENTITY tableRowBelow.accesskey             "l">
+<!ENTITY tableColumn.label                   "Veerg">
+<!ENTITY tableColumns.label                  "Veerud">
+<!ENTITY tableColumn.accesskey               "v">
+<!ENTITY tableColumnBefore.label             "Veerg vasakule">
+<!ENTITY tableColumnBefore.accesskey         "e">
+<!ENTITY tableColumnAfter.label              "Veerg paremale">
+<!ENTITY tableColumnAfter.accesskey          "p">
+<!ENTITY tableCell.label                     "Lahter">
+<!ENTITY tableCells.label                    "Lahtrid">
+<!ENTITY tableCell.accesskey                 "L">
+<!ENTITY tableCellContents.label             "Lahtri sisu">
+<!ENTITY tableCellContents.accesskey         "h">
+<!ENTITY tableAllCells.label                 "Kõik lahtrid">
+<!ENTITY tableAllCells.accesskey             "d">
+<!ENTITY tableCellBefore.label               "Lahter vasakule">
+<!ENTITY tableCellBefore.accesskey           "k">
+<!ENTITY tableCellAfter.label                "Lahter paremale">
+<!ENTITY tableCellAfter.accesskey            "p">
+<!-- Delete SubMenu -->
+<!ENTITY tableDeleteMenu.label               "Kustuta">
+<!ENTITY tableDeleteMenu.accesskey           "K">
+
+<!ENTITY tableFix.label                      "Paranda tabeli paigutust">
+<!ENTITY tableFix.accesskey                  "P">
+<!-- text for "Join Cells" is in editor.properties 
+     ("JoinSelectedCells" and "JoinCellToRight")
+     the access key must exist in both of those strings
+     But value must be set here for accesskey to draw properly
+-->
+<!ENTITY tableJoinCells.label                "h">
+<!ENTITY tableJoinCells.accesskey            "h">
+<!ENTITY tableSplitCell.label                "Tükelda lahter">
+<!ENTITY tableSplitCell.accesskey            "T">
+<!ENTITY convertToTable.label                "Loo valiku põhjal tabel">
+<!ENTITY convertToTable.accesskey            "e">
+<!ENTITY tableProperties.label               "Tabeli omadused...">
+<!ENTITY tableProperties.accesskey           "a">
+
+<!-- Toolbar-only items -->
+<!ENTITY menuBar.tooltip                     "Menüüriba">
+<!ENTITY compositionToolbar.tooltip          "Koostamisriba">
+<!ENTITY formatToolbar.tooltip               "Vorminguriba">
+<!ENTITY newToolbarCmd.tooltip               "Loo koostajaga uus tühi leht">
+<!ENTITY openToolbarCmd.label                "Ava">
+<!ENTITY openToolbarCmd.tooltip              "Ava kohalik fail">
+<!ENTITY saveToolbarCmd.tooltip              "Salvesta fail kettale">
+<!ENTITY publishToolbarCmd.tooltip           "Laadi fail võrku üles">
+<!ENTITY previewToolbarCmd.label             "Eelvaade">
+<!ENTITY previewToolbarCmd.tooltip           "Eelvaade veebilehitsejas">
+<!ENTITY printToolbarCmd.label               "Prindi">
+<!ENTITY printToolbarCmd.tooltip             "Prindi see lehekülg">
+<!ENTITY findToolbarCmd.label                "Otsi">
+<!ENTITY findToolbarCmd.tooltip              "Otsi sellelt lehelt">
+<!ENTITY spellToolbarCmd.label               "Õigekiri">
+<!ENTITY spellToolbarCmd.tooltip             "Kontrolli valitud lõigu või lehe õigekirja">
+<!ENTITY imageToolbarCmd.label               "Pilt">
+<!ENTITY imageToolbarCmd.tooltip             "Redigeeri valitud pildi omadusi või lisa uus pilt">
+<!ENTITY hruleToolbarCmd.label               "H.joon">
+<!ENTITY hruleToolbarCmd.tooltip             "Redigeeri valitud horisontaaljoone omadusi või loo uus horisontaaljoon">
+<!ENTITY tableToolbarCmd.label               "Tabel">
+<!ENTITY tableToolbarCmd.tooltip             "Redigeeri valitud tabelit või loo uus">
+<!ENTITY linkToolbarCmd.label                "Link">
+<!ENTITY linkToolbarCmd.tooltip              "Redigeeri valitud linki või loo uus">
+<!ENTITY anchorToolbarCmd.label              "Ankur">
+<!ENTITY anchorToolbarCmd.tooltip            "Redigeeri valitud ankrut või loo uus">
+<!ENTITY textColorCaption.label              "Teksti värv">
+<!ENTITY TextColorButton.tooltip             "Vali teksti värv">
+<!ENTITY BackgroundColorButton.tooltip       "Vali taustavärv">
+<!ENTITY throbber.tooltip                    "Mine &vendorShortName; kodulehele">
+<!ENTITY HighlightColorButton.tooltip        "Vali teksti esiletoov värv">
+
+<!-- Editor toolbar -->
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip  "Vähenda fondi suurust">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip  "Suurenda fondi suurust">
+<!ENTITY boldToolbarCmd.tooltip              "Paks">
+<!ENTITY italicToolbarCmd.tooltip            "Kaldkiri">
+<!ENTITY underlineToolbarCmd.tooltip         "Allakriipsutus">
+<!ENTITY bulletListToolbarCmd.tooltip        "Täpid sees/väljas">
+<!ENTITY numberListToolbarCmd.tooltip        "Nummerdus sees/väljas">
+<!ENTITY outdentToolbarCmd.tooltip           "Vähenda taanet">
+<!ENTITY indentToolbarCmd.tooltip            "Suurenda taanet">
+<!ENTITY AlignPopupButton.tooltip            "Määra teksti joondus">
+<!ENTITY InsertPopupButton.tooltip           "Lisa link, ankur, pilt, horisontaaljoon või tabel">
+<!ENTITY alignLeftButton.tooltip             "Joonda tekst vasakule">
+<!ENTITY alignCenterButton.tooltip           "Joonda tekst keskele">
+<!ENTITY alignRightButton.tooltip            "Joonda tekst paremale">
+<!ENTITY alignjustifyButton.tooltip          "Joonda tekst servast servani">
+
+<!-- Formatting toolbar not used, but may be in future -->
+<!ENTITY formatToolbar.boldChar              "P">
+<!ENTITY formatToolbar.italicChar            "K">
+<!ENTITY formatToolbar.underlineChar         "A">
+
+<!-- Used with color pickers in Format toolbar and Format Menu -->
+<!ENTITY colorPicker.default.label           "Lugeja vaikimisi värv">
+<!ENTITY colorPicker.default.accesskey       "L">
+<!ENTITY colorLabel.label                    "Värv:">
+<!ENTITY ok.label                            "Sobib">
+
+<!-- Display Mode toolbar and View menu items -->
+<!ENTITY NormalModeTab.label                 "Tavaline">
+<!ENTITY NormalMode.label                    "Tavaline">
+<!ENTITY NormalMode.accesskey                "A">
+<!ENTITY NormalMode.tooltip                  "Kuva tabeli piirjooni ja nimega ankruid">
+<!ENTITY AllTagsMode.label                   "HTML-sildid">
+<!ENTITY AllTagsMode.accesskey               "H">
+<!ENTITY AllTagsMode.tooltip                 "Kuva kõik HTML-silte ikoonidena">
+
+<!ENTITY HTMLSourceMode.label                "HTML lähtekood">
+<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
+<!ENTITY SourceMode.label                    "Allikas">
+<!ENTITY HTMLSourceMode.accesskey            "H">
+<!ENTITY HTMLSourceMode.tooltip              "Redigeeri HTML lähtekoodi">
+<!ENTITY PreviewMode.label                   "Eelvaade">
+<!ENTITY PreviewMode.accesskey               "E">
+<!ENTITY PreviewMode.tooltip                 "Kuva lehte, nagu esitataks seda veebilehitsejas">
+
+<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
+     Use latin "ltr" if you want the <html> image to left of the 
+     'SourceMode.label' text defined above,
+     or use latin "rtl" if you want this image to the right of text
+     This is the value of the HTML 'dir' attribute
+-->
+<!ENTITY SourceTabDirection                  "ltr">
+
+<!-- Structure Toolbar Context Menu items -->
+<!ENTITY structSelect.label                  "Vali">
+<!ENTITY structSelect.accesskey              "V">
+<!ENTITY structRemoveTag.label               "Eemalda silt">
+<!ENTITY structRemoveTag.accesskey           "E">
+<!ENTITY structChangeTag.label               "Redigeeri silti">
+<!ENTITY structChangeTag.accesskey           "R">
+
+<!-- TOC manipulation -->
+<!ENTITY insertTOC.label                     "Lisa">
+<!ENTITY insertTOC.accesskey                 "L">
+<!ENTITY updateTOC.label                     "Uuenda">
+<!ENTITY updateTOC.accesskey                 "U">
+<!ENTITY removeTOC.label                     "Eemalda">
+<!ENTITY removeTOC.accesskey                 "E">
+<!ENTITY tocMenu.label                       "Sisukord...">
+<!ENTITY tocMenu.accesskey                   "S">
