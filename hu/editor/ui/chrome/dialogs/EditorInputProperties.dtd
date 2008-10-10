@@ -52,11 +52,13 @@
 
 <!ENTITY InputSettings.label "Mezőbeállítások">
 <!ENTITY InputName.label "Mezőnév:">
+<!ENTITY InputName.accesskey "M">
 <!ENTITY GroupName.label "Csoport neve:">
-<!ENTITY Name.accesskey "C">
+<!ENTITY GroupName.accesskey "C">
 <!ENTITY InputValue.label "Mező értéke:">
+<!ENTITY InputValue.accesskey "e">
 <!ENTITY InitialValue.label "Kezdeti érték:">
-<!ENTITY Value.accesskey "K">
+<!ENTITY InitialValue.accesskey "K">
 <!ENTITY InputChecked.label "Alapértelmezésben kijelölve">
 <!ENTITY InputChecked.accesskey "A">
 <!ENTITY InputSelected.label "Alapértelmezésben kiválasztva">

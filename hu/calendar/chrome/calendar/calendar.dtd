@@ -43,14 +43,8 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- General -->
-<!ENTITY calendar.file.default.name  "Az én naptáram" >
 <!ENTITY calendar.calendar.label     "Naptár">
 <!ENTITY calendar.calendar.accesskey "N">
-
-
-<!ENTITY calendar.confirm.deleteallevents  "Biztos, hogy törölni akarja a kijelölt eseményeket?" >
-<!ENTITY calendar.confirm.deleteevent "Biztos, hogy törölni kívánja ezt az eseményt: " >
-<!ENTITY calendar.confirm.deleteuntitledevent "Biztos, hogy törölni kívánja ezt a név nélküli eseményt?" >
 
 <!ENTITY calendar.flat.topbar.choosedate       "Ugrás adott napra" >
 <!ENTITY calendar.flat.topbar.dayview          "Napi nézet" >
@@ -200,7 +194,7 @@
 <!ENTITY calendar.task.filter.open.accesskey        "f">
 
 <!ENTITY calendar.task.details.title.label           "Cím:">
-<!ENTITY calendar.task.details.organizer.label       "Feladó:">
+<!ENTITY calendar.task.details.organizer.label       "Feladó: ">
 <!ENTITY calendar.task.details.priority2.label       "Sürgősség:">
 <!ENTITY calendar.task.details.priority.low.label    "Alacsony">
 <!ENTITY calendar.task.details.priority.normal.label "Normál">
