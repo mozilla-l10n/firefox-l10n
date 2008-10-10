@@ -44,17 +44,17 @@
 
 <!-- View menu items -->
 <!ENTITY viewMenu.label "Beeld">
-<!ENTITY viewmenu.accesskey "L">
+<!ENTITY viewMenu.accesskey "L">
 <!ENTITY compositionToolbarCmd.label "Compositiewerkbalk">
-<!ENTITY compositiontb.accesskey "C">
+<!ENTITY compositionToolbarCmd.accesskey "C">
 <!ENTITY formattingToolbarCmd.label "Opmaakwerkbalk">
-<!ENTITY formattingtb.accesskey "O">
+<!ENTITY formattingToolbarCmd.accesskey "O">
 <!ENTITY editmodeToolbarCmd.label "Bewerkingswerkbalk">
-<!ENTITY editmodetb.accesskey "A">
+<!ENTITY editmodeToolbarCmd.accesskey "A">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Opmaak">
-<!ENTITY formatmenu.accesskey "M">
+<!ENTITY formatMenu.accesskey "M">
 
 <!ENTITY helpMenu.label "Help">
 <!ENTITY aboutCmd.label ".Over">
