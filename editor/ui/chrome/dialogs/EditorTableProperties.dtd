@@ -79,8 +79,7 @@
 <!ENTITY cellSelectPrevious.accessKey "A">
 <!ENTITY cellApplyBeforeMove.label "Aplicar cambios antes de cambiar la selección">
 <!ENTITY cellKeepCurrentData.label "Mantener configuración actual">
-<!ENTITY applyBeforeChange1.label "Las modificaciones pendientes serán aplicadas">
-<!ENTITY applyBeforeChange2.label "antes de cambiar la selección.">
+<!ENTITY applyBeforeChange.label "Los cambios actuales se aplicarán antes de cambiar la selección.">
 <!ENTITY cellRowSpan.label "Filas ocupadas:">
 <!ENTITY cellColSpan.label "Columnas ocupadas:">
 <!ENTITY cellContentAlignment.label "Alineación del contenido">
