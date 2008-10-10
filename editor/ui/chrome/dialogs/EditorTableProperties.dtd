@@ -80,9 +80,7 @@
 <!ENTITY cellSelectPrevious.accessKey     "F">
 <!ENTITY cellApplyBeforeMove.label        "Bruk endringer før bytte av merket område">
 <!ENTITY cellKeepCurrentData.label        "Behold gjeldende innstillinger">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label         "Følgende endringer vil bli brukt">
-<!ENTITY applyBeforeChange2.label         "før bytte av merket område.">
+<!ENTITY applyBeforeChange.label          "Følgende endringer vil bli brukt før bytte av merket område.">
 <!ENTITY cellRowSpan.label                "Radspanning">
 <!ENTITY cellColSpan.label                "Kolonnespanning">
 <!ENTITY cellContentAlignment.label       "Innholdsjustering">

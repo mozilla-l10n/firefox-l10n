@@ -52,11 +52,13 @@
 
 <!ENTITY InputSettings.label "Feltinstillinger">
 <!ENTITY InputName.label "Feltnavn:">
+<!ENTITY InputName.accesskey "F">
 <!ENTITY GroupName.label "Gruppenavn:">
-<!ENTITY Name.accesskey "N">
+<!ENTITY GroupName.accesskey "n">
 <!ENTITY InputValue.label "Feltverdi:">
+<!ENTITY InputValue.accesskey "v">
 <!ENTITY InitialValue.label "Opprinnelig verdi:">
-<!ENTITY Value.accesskey "V">
+<!ENTITY InitialValue.accesskey "O">
 <!ENTITY InputChecked.label "Opprinnelig avkrysset">
 <!ENTITY InputChecked.accesskey "O">
 <!ENTITY InputSelected.label "Opprinnelig valgt">
