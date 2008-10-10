@@ -2,4 +2,4 @@
 
 <!ENTITY title.label "Bezig met downloaden van certificaten">
 <!ENTITY info.message "Bezig met doorzoeken van directory naar ontvangercertificaten. Dit kan enkele minuten duren.">
-<!ENTITY stop.label "Stop zoeken">
+<!ENTITY stop.label "Zoeken stoppen">

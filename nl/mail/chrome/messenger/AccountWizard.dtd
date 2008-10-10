@@ -85,25 +85,25 @@
 <!ENTITY usernameLabel.accesskey "k">
 <!ENTITY usernameSmtpDesc.label "Voer de uitgaande gebruikersnaam in die u van uw e-mailprovider hebt gekregen (dit is meestal dezelfde als uw inkomende gebruikersnaam).">
 <!ENTITY usernameSmtpLabel.label "Uitgaande gebruikersnaam:">
-<!ENTITY usernameSmtpLabel.accesskey "g">
+<!ENTITY usernameSmtpLabel.accesskey "a">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "Uw bestaande uitgaande (SMTP-)gebruikersnaam, &quot;">
-<!ENTITY haveSmtp2.suffix "&quot;, zal worden gebruikt. U kunt de instellingen van de uitgaande e-mailserver aanpassen door te kiezen voor Accountinstellingen in het menu Extra.">
+<!ENTITY haveSmtp2.prefix "Uw bestaande uitgaande (SMTP-)gebruikersnaam, “">
+<!ENTITY haveSmtp2.suffix "”, zal worden gebruikt. U kunt de instellingen van de uitgaande e-mailserver aanpassen door te kiezen voor Accountinstellingen in het menu Extra.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "Uw uitgaande (SMTP-)server, &quot;">
-<!ENTITY haveSmtp3.suffix "&quot;, is identiek aan uw inkomende server, uw inkomende gebruikersnaam zal worden gebruikt om toegang te krijgen. U kunt de instellingen van de uitgaande e-mailserver aanpassen door te kiezen voor Accountinstellingen in het menu Extra.">
+<!ENTITY haveSmtp3.prefix "Uw uitgaande (SMTP-)server, “">
+<!ENTITY haveSmtp3.suffix "”, is identiek aan uw inkomende server, uw inkomende gebruikersnaam zal worden gebruikt om toegang te krijgen. U kunt de instellingen van de uitgaande e-mailserver aanpassen door te kiezen voor Accountinstellingen in het menu Extra.">
 
 <!-- Entities for Account name page -->
 
 <!ENTITY accnameTitle.label "Accountnaam">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
-<!ENTITY accnameDesc.label "Voer de naam in voor deze account (bijvoorbeeld &quot;Werkaccount&quot;, &quot;Thuisaccount&quot; of &quot;Nieuwsaccount&quot;).">
+<!ENTITY accnameDesc.label "Voer de naam in voor deze account (bijvoorbeeld “Werkaccount”, “Thuisaccount” of “Nieuwsaccount”).">
 <!ENTITY accnameExample.label "Bijvoorbeeld Werkaccount, Thuisaccount of Nieuwsaccount">
 <!ENTITY accnameLabel.label "Accountnaam:">
 <!ENTITY accnameLabel.accesskey "A">
@@ -112,10 +112,10 @@
 
 <!ENTITY completionTitle.label "Gefeliciteerd!">
 <!ENTITY completionText.label "Controleer of de informatie hieronder juist is.">
-<!ENTITY serverTypePrefix.label "Inkomende servertype:">
-<!ENTITY serverNamePrefix.label "Inkomende servernaam:">
-<!ENTITY smtpServerNamePrefix.label "Uitgaande servernaam (SMTP):">
-<!ENTITY newsServerNamePrefix.label "Nieuwsservernaam (NNTP):">
+<!ENTITY serverTypePrefix.label "Type van inkomende server:">
+<!ENTITY serverNamePrefix.label "Naam van inkomende server:">
+<!ENTITY smtpServerNamePrefix.label "Naam van uitgaande server (SMTP):">
+<!ENTITY newsServerNamePrefix.label "Naam van nieuwsserver (NNTP):">
 <!ENTITY downloadOnLogin.label "Berichten nu downloaden">
 <!ENTITY deferStorageDesc.label "Vink deze optie uit om e-mail voor deze account op te slaan in zijn eigen map. Dat zal van deze account een top-levelaccount maken. Anders zal hij deel uitmaken van het globale Postvak IN onder Lokale mappen.">
 <!ENTITY deferStorage.label "Globaal Postvak IN gebruiken (e-mail opslaan onder Lokale mappen)">

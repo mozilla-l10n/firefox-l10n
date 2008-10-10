@@ -3,7 +3,7 @@
 
 <!ENTITY startpage.features "Eigenschappen">
 
-<!ENTITY startpage.junkControl "Ongewenste-berichtendetectie">
+<!ENTITY startpage.junkControl "Ongewensteberichtendetectie">
 <!ENTITY startpage.rssReader "RSS-lezer">
 <!ENTITY startpage.globalInbox "Globaal Postvak IN-ondersteuning">
 <!ENTITY startpage.searchFolders "Virtuele zoekmappen">

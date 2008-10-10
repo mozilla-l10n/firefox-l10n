@@ -1,8 +1,8 @@
-<!ENTITY matchAll.label "Die voldoen aan al het volgende">
+<!ENTITY matchAll.label     "Moet voldoen aan al het volgende">
 <!ENTITY matchAll.accesskey "a">
-<!ENTITY matchAny.label "Die voldoen aan één van het volgende">
+<!ENTITY matchAny.label     "Moet voldoen aan één van het volgende">
 <!ENTITY matchAny.accesskey "d">
-<!ENTITY matchAllMsgs.label     "Voldoen aan alle berichten">
+<!ENTITY matchAllMsgs.label     "Alle berichten">
 <!ENTITY matchAllMsgs.accesskey "b">
 
 <!-- LOCALIZATION NOTE  

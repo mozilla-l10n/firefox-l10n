@@ -7,7 +7,7 @@
 <!ENTITY useGlobal.label           "Mijn algemene LDAP-serverinstellingen gebruiken voor deze account">
 <!ENTITY useGlobal.accesskey       "M">
 <!ENTITY editDirectories.label     "Directory’s bewerken…">
-<!ENTITY editDirectories.accesskey "B">
+<!ENTITY editDirectories.accesskey "w">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Andere LDAP-server gebruiken:">
 <!ENTITY directories.accesskey     "n">
@@ -18,16 +18,16 @@
 <!ENTITY compositionGroupTitle.label "Opstellen">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Berichten opstellen in HTML-formaat">
-<!ENTITY useHtml.accesskey                    "o">
-<!ENTITY autoQuote.label                      "Automatisch de originele tekst citeren bij antwoorden">
+<!ENTITY useHtml.accesskey                    "B">
+<!ENTITY autoQuote.label                      "Automatisch het originele bericht citeren bij antwoorden">
 <!ENTITY autoQuote.accesskey                  "A">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Dan,">
+<!ENTITY then.label                           "Daarna">
 <!ENTITY then.accesskey                       "D">
 <!ENTITY aboveQuote.label                     "mijn reactie boven de geciteerde tekst starten">
 <!ENTITY belowQuote.label                     "mijn reactie onder de geciteerde tekst starten">
 <!ENTITY selectAndQuote.label                 "de geciteerde tekst selecteren">
 <!ENTITY place.label                          "en mijn ondertekening plaatsen">
-<!ENTITY place.accesskey                      "p">
+<!ENTITY place.accesskey                      "o">
 <!ENTITY belowText.label                      "onder de geciteerde tekst (aanbevolen)">
 <!ENTITY aboveText.label                      "onder mijn antwoord (boven de geciteerde tekst)">

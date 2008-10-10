@@ -4,7 +4,7 @@
 <!ENTITY  proxyTitle.label              "Proxy’s voor toegang tot het internet configureren">
 <!ENTITY  noProxyTypeRadio.label        "Geen proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
-<!ENTITY  systemTypeRadio.label         "Systeem proxyinstellingen gebruiken">
+<!ENTITY  systemTypeRadio.label         "Proxyinstellingen van systeem gebruiken">
 <!ENTITY  systemTypeRadio.accesskey     "u">
 <!ENTITY  WPADTypeRadio.label           "Proxyinstellingen voor dit netwerk automatisch detecteren">
 <!ENTITY  WPADTypeRadio.accesskey       "w">

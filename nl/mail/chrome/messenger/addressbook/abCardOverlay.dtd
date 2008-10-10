@@ -39,7 +39,7 @@
 <!ENTITY Contact.accesskey               "C">
 <!ENTITY Name.box                        "Naam">
 
-<!-- LOCALIZATION NOTE: 
+<!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
  "FirstName" and "LastName" can be swapped for id to change the order
@@ -73,7 +73,7 @@
 <!ENTITY SecondEmail.label              "Alternatieve e-mail:">
 <!ENTITY SecondEmail.accesskey          "l">
 <!ENTITY PreferMailFormat.label         "Verkiest berichten te ontvangen opgesteld als:">
-<!ENTITY PreferMailFormat.accesskey     "c">
+<!ENTITY PreferMailFormat.accesskey     "k">
 <!ENTITY PlainText.label                "Platte tekst">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Onbekend">
@@ -84,7 +84,7 @@
 <!ENTITY allowRemoteContent.accesskey   "d">
 
 <!ENTITY Phones.box                     "Telefoon">
-<!ENTITY WorkPhone.label                "Werk">
+<!ENTITY WorkPhone.label                "Werk:">
 <!ENTITY WorkPhone.accesskey            "r">
 <!ENTITY HomePhone.label                "Thuis:">
 <!ENTITY HomePhone.accesskey            "T">
@@ -111,10 +111,10 @@
 <!ENTITY HomeCountry.label              "Land:">
 <!ENTITY HomeCountry.accesskey          "L">
 <!ENTITY HomeWebPage.label              "Webpagina:">
-<!ENTITY HomeWebPage.accesskey          "g">
+<!ENTITY HomeWebPage.accesskey          "b">
 <!ENTITY Work.box                       "Werk">
-<!ENTITY JobTitle.label                 "Titel:">
-<!ENTITY JobTitle.accesskey             "e">
+<!ENTITY JobTitle.label                 "Functie:">
+<!ENTITY JobTitle.accesskey             "u">
 <!ENTITY Department.label               "Afdeling:">
 <!ENTITY Department.accesskey           "f">
 <!ENTITY Company.label                  "Organisatie:">
@@ -126,13 +126,13 @@
 <!ENTITY WorkCity.label                 "Stad:">
 <!ENTITY WorkCity.accesskey             "S">
 <!ENTITY WorkState.label                "Provincie:">
-<!ENTITY WorkState.accesskey            "v">
+<!ENTITY WorkState.accesskey            "e">
 <!ENTITY WorkZipCode.label              "Postcode:">
-<!ENTITY WorkZipCode.accesskey          "c">
+<!ENTITY WorkZipCode.accesskey          "t">
 <!ENTITY WorkCountry.label              "Land:">
 <!ENTITY WorkCountry.accesskey          "n">
 <!ENTITY WorkWebPage.label              "Webpagina:">
-<!ENTITY WorkWebPage.accesskey          "b">
+<!ENTITY WorkWebPage.accesskey          "g">
 
 <!ENTITY Other.tab                      "Overig">
 <!ENTITY Other.accesskey                "O">

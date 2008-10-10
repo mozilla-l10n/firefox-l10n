@@ -1,8 +1,8 @@
 <!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "Berichten zoeken in:">
 <!ENTITY searchHeading.accesskey     "k">
-<!ENTITY searchSubfolders.label      "In submappen zoeken">
-<!ENTITY searchSubfolders.accesskey  "s">
+<!ENTITY searchSubfolders.label      "Submappen doorzoeken">
+<!ENTITY searchSubfolders.accesskey  "S">
 <!ENTITY resetButton.label           "Wissen">
 <!ENTITY resetButton.accesskey       "W">
 <!ENTITY optionsButton.label         "Opties">
@@ -26,7 +26,7 @@
 <!ENTITY saveAsVFButton.accesskey    "m">
 
 <!-- for ABSearchDialog.xul -->
-<!ENTITY abSearchHeading.label       "Adressen zoeken in:">
+<!ENTITY abSearchHeading.label       "Zoeken in:">
 <!ENTITY abSearchHeading.accesskey   "k">
 <!ENTITY propertiesButton.label      "Eigenschappen">
 <!ENTITY propertiesButton.accesskey  "E">
@@ -45,7 +45,7 @@
 <!ENTITY accountColumn.label "Account">
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Grootte">
-<!ENTITY junkStatusColumn.label "Ongewenst-berichtstatus">
+<!ENTITY junkStatusColumn.label "Ongewenstberichtstatus">
 <!ENTITY linesColumn.label "Regels">
 <!ENTITY unreadColumn.label "Ongelezen">
 <!ENTITY totalColumn.label "Totaal">
@@ -67,11 +67,11 @@
 <!ENTITY accountColumn.tooltip "Klik om te sorteren op account">
 <!ENTITY statusColumn.tooltip "Klik om te sorteren op status">
 <!ENTITY sizeColumn.tooltip "Klik om te sorteren op grootte">
-<!ENTITY junkStatusColumn.tooltip "Klik om te sorteren op ongewenst-berichtstatus">
+<!ENTITY junkStatusColumn.tooltip "Klik om te sorteren op ongewenstberichtstatus">
 <!ENTITY unreadColumn.tooltip "Aantal ongelezen berichten in conversatie">
-<!ENTITY totalColumn.tooltip "Totaal aantal berichten in conversatie">
+<!ENTITY totalColumn.tooltip "Totale aantal berichten in conversatie">
 <!ENTITY readColumn.tooltip "Klik om te sorteren op gelezen">
-<!ENTITY receivedColumn.tooltip "Klik om te sorteren op ontvangsdatum">
+<!ENTITY receivedColumn.tooltip "Klik om te sorteren op ontvangstdatum">
 <!ENTITY starredColumn.tooltip "Klik om te sorteren op ster">
 <!ENTITY locationColumn.tooltip "Klik om te sorteren op locatie">
 <!ENTITY idColumn.tooltip "Klik om te sorteren op volgorde van ontvangst">

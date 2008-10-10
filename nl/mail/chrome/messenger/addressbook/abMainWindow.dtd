@@ -1,4 +1,4 @@
-<!ENTITY addressbookWindow.title "Adresboek">
+<!ENTITY addressbookWindow.title                        "Adresboek">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Bestand">
@@ -18,7 +18,7 @@
 <!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "B">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
-<!ENTITY osxAddressBook.label                           "Mac OS X Adresboek gebruiken">
+<!ENTITY osxAddressBook.label                           "Mac OS X-adresboek gebruiken">
 <!ENTITY osxAddressBook.accesskey                       "O">
 <!ENTITY closeCmd.label                                 "Sluiten">
 <!ENTITY closeCmd.key                                   "W">
@@ -73,7 +73,7 @@
 <!ENTITY searchAddressesCmd.key                         "f">
 <!ENTITY selectAllCmd.accesskey                         "A">
 <!ENTITY swapFirstNameLastNameCmd.label                 "Voor-/achternaam wisselen">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "W">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI                                 "true">
@@ -83,7 +83,7 @@
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Beeld">
-<!ENTITY viewMenu.accesskey                             "L">
+<!ENTITY viewMenu.accesskey                             "l">
 <!ENTITY viewToolbarsMenu.label                         "Werkbalken">
 <!ENTITY viewToolbarsMenu.accesskey                     "W">
 <!ENTITY showAbToolbarCmd.label                         "Adresboekwerkbalk">
@@ -92,10 +92,10 @@
 <!ENTITY showTaskbarCmd.accesskey                       "S">
 <!ENTITY customizeToolbar.label                         "Aanpassen…">
 <!ENTITY customizeToolbar.accesskey                     "A">
-<!ENTITY showCardPane.label                             "Samenvattingsvenster">
-<!ENTITY showCardPane.accesskey                         "S">
-<!ENTITY menu_ShowNameAs.label                          "Namen weergeven als">
-<!ENTITY menu_ShowNameAs.accesskey                      "L">
+<!ENTITY showCardPane.label                             "Kaartsamenvattingsvenster">
+<!ENTITY showCardPane.accesskey                         "K">
+<!ENTITY menu_ShowNameAs.label                          "Namen tonen als">
+<!ENTITY menu_ShowNameAs.accesskey                      "N">
 <!ENTITY firstLastCmd.label                             "Voornaam, achternaam">
 <!ENTITY firstLastCmd.accesskey                         "V">
 <!ENTITY lastFirstCmd.label                             "Achternaam, voornaam">
@@ -139,11 +139,11 @@
 <!ENTITY throbberItem.title                             "Activiteitsindicator">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newcardButton.tooltip                          "Nieuwe adresboekkaart aanmaken">
-<!ENTITY newlistButton.tooltip                          "Nieuwe lijst aanmaken">
-<!ENTITY editButton.tooltip                             "Geselecteerde kaart aanpassen">
+<!ENTITY newcardButton.tooltip                          "Een nieuwe adresboekkaart aanmaken">
+<!ENTITY newlistButton.tooltip                          "Een nieuwe lijst aanmaken">
+<!ENTITY editButton.tooltip                             "De geselecteerde kaart bewerken">
+<!ENTITY newmsgButton.tooltip                           "Een e-mailbericht sturen">
 <!ENTITY newIM.tooltip                                  "Een instant-bericht sturen of chatten">
-<!ENTITY newmsgButton.tooltip                           "E-mailbericht sturen">
 <!ENTITY deleteButton.tooltip                           "Geselecteerde kaart of adresboek verwijderen">
 
 <!-- Dir Tree header -->
@@ -171,7 +171,7 @@
 <!ENTITY SecondEmail.accesskey                          "l">
 <!ENTITY Department.label                               "Afdeling">
 <!ENTITY Department.accesskey                           "d">
-<!ENTITY JobTitle.label                                 "Titel">
+<!ENTITY JobTitle.label                                 "Functie">
 <!ENTITY JobTitle.accesskey                             "i">
 <!ENTITY CellularNumber.label                           "Mobiel">
 <!ENTITY CellularNumber.accesskey                       "M">
@@ -202,7 +202,7 @@
 <!ENTITY addresses.heading                              "Adressen">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Plattegrond">
-<!ENTITY mapIt.tooltip                                  "De kaart van dit adres laten zien op het internet">
+<!ENTITY mapIt.tooltip                                  "Een kaart met dit adres weergeven op het internet">
 
 <!-- Status Bar -->
 <!ENTITY statusText.label                               "">

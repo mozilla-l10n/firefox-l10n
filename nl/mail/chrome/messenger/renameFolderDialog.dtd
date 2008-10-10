@@ -36,6 +36,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY renameFolderDialog.title "Mapnaam wijzigen">
-<!ENTITY rename.label "Voer een nieuwe naam in voor de map:">
-<!ENTITY rename.accesskey "V">
+<!ENTITY renameFolderDialog.title          "Mapnaam wijzigen">
+<!ENTITY rename.label                      "Voer een nieuwe naam in voor de map:">
+<!ENTITY rename.accesskey                  "V">

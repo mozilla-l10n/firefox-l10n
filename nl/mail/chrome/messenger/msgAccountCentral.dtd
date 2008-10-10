@@ -13,8 +13,8 @@
 <!ENTITY advFeaturesSectionHdr.label "Uitgebreide mogelijkheden">
 <!ENTITY searchMsgsLink.label "Berichten zoeken">
 <!ENTITY filtersLink.label "Berichtenfilters beheren">
-<!ENTITY junkSettings.label "Ongewenste-berichtenfilters instellen">
+<!ENTITY junkSettings.label "Ongewensteberichtenfilters instellen">
 <!ENTITY offlineLink.label "Offline-instellingen">
 
-<!ENTITY rssSectionHdr.label "RSS-nieuws &amp; -blogs">
+<!ENTITY rssSectionHdr.label "RSS-nieuws &amp; blogs">
 <!ENTITY subscibeRSS.label "Abonnementen beheren">

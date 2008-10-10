@@ -8,7 +8,7 @@
 <!ENTITY setDefaultButton.accesskey "I">
 <!ENTITY duplicateButton.label "Duplicaat">
 <!ENTITY removeButton.label "Account verwijderen">
-<!ENTITY removeButton.accesskey "V">
+<!ENTITY removeButton.accesskey "v">
 
 <!ENTITY nameCol.label "Naam">
 <!ENTITY duplicate.label "Duplicaat">
@@ -20,6 +20,6 @@
      panel content to fit. 1em = the width of the letter 'm' in the selected font.
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
-<!ENTITY macAccountManager.size "width: 69em; height: 50em;">
 <!ENTITY accountManager.size "width: 64em; height: 50em;">
+<!ENTITY macAccountManager.size "width: 69em; height: 50em;">
 <!ENTITY accountTree.width "width: 17em;">

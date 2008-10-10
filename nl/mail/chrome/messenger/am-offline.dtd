@@ -25,7 +25,7 @@
 <!ENTITY nntpRemoveBody.accesskey "k">
 <!ENTITY offlineSelectNntp.label "Nieuwsgroepen voor offlinegebruik selecteren…">
 <!ENTITY offlineSelectNntp.accesskey "s">
-<!ENTITY offlineImapAdvancedOffline.label "Uitgebreid…">
-<!ENTITY offlineImapAdvancedOffline.accesskey "U">
+<!ENTITY offlineImapAdvancedOffline.label "Geavanceerd…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "G">
 <!ENTITY syncGroupTitle.label "Berichten synchroniseren">
 <!ENTITY diskspaceGroupTitle.label "Schijfruimte">

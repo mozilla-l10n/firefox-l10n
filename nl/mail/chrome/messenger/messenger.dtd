@@ -31,15 +31,15 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Alle accounts">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Huidige account">
-<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
-<!ENTITY getNextNMsgCmd.label "Volgende 500 nieuwsberichten downloaden">
-<!ENTITY getNextNMsgCmd.accesskey "D">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "H">
+<!ENTITY getNextNMsgCmd.label "Volgende 500 nieuwsberichten ophalen">
+<!ENTITY getNextNMsgCmd.accesskey "d">
 <!ENTITY sendUnsentCmd.label "Niet-verzonden berichten verzenden">
 <!ENTITY sendUnsentCmd.accesskey "z">
 <!ENTITY subscribeCmd.label "Abonneren…">
 <!ENTITY subscribeCmd.accesskey "e">
 <!ENTITY deleteFolder.label "Map verwijderen">
-<!ENTITY deleteFolder.accesskey "a">
+<!ENTITY deleteFolder.accesskey "r">
 <!ENTITY renameFolder.label "Mapnaam wijzigen…">
 <!ENTITY renameFolder.accesskey "M">
 <!ENTITY renameFolder.key "VK_F2">
@@ -165,7 +165,7 @@
 <!ENTITY sortByStatusCmd.accesskey "u">
 <!ENTITY sortByTagsCmd.label "Labels">
 <!ENTITY sortByTagsCmd.accesskey "L">
-<!ENTITY sortByJunkStatusCmd.label "Ongewenst-berichtstatus">
+<!ENTITY sortByJunkStatusCmd.label "Ongewenstberichtstatus">
 <!ENTITY sortByJunkStatusCmd.accesskey "i">
 <!ENTITY sortBySubjectCmd.label "Onderwerp">
 <!ENTITY sortBySubjectCmd.accesskey "w">
@@ -231,11 +231,11 @@
 <!ENTITY stopCmd.label "Stoppen">
 <!ENTITY stopCmd.accesskey "S">
 <!ENTITY textZoomEnlargeCmd.label "Vergroten">
-<!ENTITY textZoomEnlargeCmd.accesskey "G">
+<!ENTITY textZoomEnlargeCmd.accesskey "r">
 <!ENTITY textZoomEnlargeCmd.commandkey "+">
 <!ENTITY textZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY textZoomReduceCmd.label "Verkleinen">
-<!ENTITY textZoomReduceCmd.accesskey "K">
+<!ENTITY textZoomReduceCmd.accesskey "k">
 <!ENTITY textZoomReduceCmd.commandkey "-">
 <!ENTITY textZoomResetCmd.commandkey "0">
 <!ENTITY textZoomResetCmd.label "Normaal">
@@ -333,7 +333,7 @@
 <!ENTITY createFilter.label "Filter maken op basis van bericht…">
 <!ENTITY createFilter.accesskey "F">
 <!ENTITY moveMsgMenu.label "Verplaatsen naar">
-<!ENTITY moveMsgMenu.accesskey "V">
+<!ENTITY moveMsgMenu.accesskey "p">
 <!ENTITY moveCopyMsgRecentMenu.label "Recent">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY copyMessageLocation.label "Berichtlocatie kopiëren">
@@ -344,10 +344,10 @@
 <!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Conversatie negeren">
-<!ENTITY killThreadMenu.accesskey "n">
+<!ENTITY killThreadMenu.accesskey "C">
 <!ENTITY killThreadMenu.key "k">
 <!ENTITY killSubthreadMenu.label "Subconversatie negeren">
-<!ENTITY killSubthreadMenu.accesskey "S">
+<!ENTITY killSubthreadMenu.accesskey "u">
 <!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Conversatie volgen">
 <!ENTITY watchThreadMenu.accesskey "v">
@@ -393,7 +393,7 @@
 <!ENTITY markAsNotJunkCmd.label "Als gewenst bericht">
 <!ENTITY markAsNotJunkCmd.accesskey "w">
 <!ENTITY markAsNotJunkCmd.key "j">
-<!ENTITY recalculateJunkScoreCmd.label "Ongewenste-berichtenverwerking uitvoeren">
+<!ENTITY recalculateJunkScoreCmd.label "Ongewensteberichtenverwerking uitvoeren">
 <!ENTITY recalculateJunkScoreCmd.accesskey "u">
 <!ENTITY openMessageWindowCmd.label "Bericht openen">
 <!ENTITY openMessageWindowCmd.accesskey "O">
@@ -408,13 +408,13 @@
 <!ENTITY tasksMenu.accesskey "x">
 <!ENTITY addons.label "Add-ons">
 <!ENTITY addons.accesskey "d">
-<!ENTITY messengerCmd.label "E-mail &amp; Nieuwsgroepen">
+<!ENTITY messengerCmd.label "E-mail &amp; nieuwsgroepen">
 <!ENTITY messengerCmd.accesskey "E">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Adresboek">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.commandkey "2">
-<!ENTITY runJunkControls.label "Ongewenste-berichtenverwerking uitvoeren op map">
+<!ENTITY runJunkControls.label "Ongewensteberichtenverwerking uitvoeren op map">
 <!ENTITY runJunkControls.accesskey "u">
 <!ENTITY deleteJunk.label "Ongewenste berichten uit map verwijderen">
 <!ENTITY deleteJunk.accesskey "v">
@@ -424,7 +424,7 @@
 <!ENTITY filtersCmd.accesskey "B">
 <!ENTITY filtersApply.label "Filters toepassen op map">
 <!ENTITY filtersApply.accesskey "t">
-<!ENTITY filtersApplyToSelection.label "Fiters toepassen op geselecteerde berichten">
+<!ENTITY filtersApplyToSelection.label "Filters toepassen op geselecteerde berichten">
 <!ENTITY filtersApplyToSelection.accesskey "s">
 <!ENTITY filtersApplyToMessage.label "Filters toepassen op bericht">
 <!ENTITY filtersApplyToMessage.accesskey "s">
@@ -441,7 +441,7 @@
 <!ENTITY backButton1.label "Terug">
 <!ENTITY goForwardButton1.label "Vooruit">
 <!ENTITY deleteButton.label "Verwijderen">
-<!ENTITY undeleteButton.label "Verwijderen ongedaan maken">
+<!ENTITY undeleteButton.label "Terugplaatsen">
 <!ENTITY markButton.label "Markeren">
 <!ENTITY printButton.label "Afdrukken">
 <!ENTITY stopButton.label "Stoppen">
@@ -458,10 +458,10 @@
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Uitgebreid berichten zoeken">
-<!ENTITY clearButton.tooltip "Zoekcriteria wissen en alle berichten laten zien">
+<!ENTITY clearButton.tooltip "Zoekcriteria wissen en alle berichten tonen">
 <!ENTITY getMsgButton.tooltip "Nieuwe berichten ophalen">
 <!ENTITY getAllNewMsgCmd.label "Alle nieuwe berichten ophalen">
-<!ENTITY getAllNewMsgCmd.accesskey "N">
+<!ENTITY getAllNewMsgCmd.accesskey "A">
 <!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "Nieuw bericht aanmaken">
 <!ENTITY replyButton.tooltip "Geselecteerde bericht beantwoorden">
@@ -481,7 +481,7 @@
 <!ENTITY notJunkButton.tooltip "Geselecteerde berichten als gewenst markeren">
 <!ENTITY addressBookButton.tooltip "Adresboek openen">
 <!ENTITY tagButton.tooltip "Bericht labelen">
-<!ENTITY compactButton.tooltip "Verwijderde berichten uit de geselecteerde map definitief verwijderen">
+<!ENTITY compactButton.tooltip "Verwijderde berichten uit geselecteerde map definitief verwijderen">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nieuw label…">
@@ -508,7 +508,7 @@
 <!ENTITY folderContextCompact.accesskey "C">
 <!ENTITY folderContextEmptyTrash.label "Prullenbak leegmaken">
 <!ENTITY folderContextEmptyTrash.accesskey "P">
-<!ENTITY folderContextEmptyJunk.label "Ongewenste-berichtenmap leegmaken">
+<!ENTITY folderContextEmptyJunk.label "Ongewensteberichtenmap leegmaken">
 <!ENTITY folderContextEmptyJunk.accesskey "t">
 <!ENTITY folderContextSendUnsentMessages.label "Niet-verzonden berichten verzenden">
 <!ENTITY folderContextSendUnsentMessages.accesskey "N">
@@ -527,7 +527,7 @@
 <!ENTITY folderContextFavoriteFolder.label "Favoriete map">
 <!ENTITY folderContextFavoriteFolder.accesskey "F">
 <!ENTITY folderContextSettings.label "Instellingen…">
-<!ENTITY folderContextSettings.accesskey "i">
+<!ENTITY folderContextSettings.accesskey "I">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Naam of e-mail bevat:">
@@ -555,7 +555,7 @@
 <!ENTITY accountColumn.label "Account">
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Grootte">
-<!ENTITY junkStatusColumn.label "Ongewenst-berichtstatus">
+<!ENTITY junkStatusColumn.label "Ongewenstberichtstatus">
 <!ENTITY linesColumn.label "Regels">
 <!ENTITY unreadColumn.label "Ongelezen">
 <!ENTITY totalColumn.label "Totaal">
@@ -578,11 +578,11 @@
 <!ENTITY accountColumn.tooltip "Klik om te sorteren op account">
 <!ENTITY statusColumn.tooltip "Klik om te sorteren op status">
 <!ENTITY sizeColumn.tooltip "Klik om te sorteren op grootte">
-<!ENTITY junkStatusColumn.tooltip "Klik om te sorteren op ongewenst-berichtstatus">
+<!ENTITY junkStatusColumn.tooltip "Klik om te sorteren op ongewenstberichtstatus">
 <!ENTITY unreadColumn.tooltip "Aantal ongelezen berichten in conversatie">
-<!ENTITY totalColumn.tooltip "Totaal aantal berichten in conversatie">
+<!ENTITY totalColumn.tooltip "Totale aantal berichten in conversatie">
 <!ENTITY readColumn.tooltip "Klik om te sorteren op gelezen">
-<!ENTITY receivedColumn.tooltip "Klik om te sorteren op ontvangsdatum">
+<!ENTITY receivedColumn.tooltip "Klik om te sorteren op ontvangstdatum">
 <!ENTITY starredColumn.tooltip "Klik om te sorteren op ster">
 <!ENTITY locationColumn.tooltip "Klik om te sorteren op locatie">
 <!ENTITY idColumn.tooltip "Klik om te sorteren op volgorde van ontvangst">
@@ -627,12 +627,12 @@
 
 <!-- Remote Content Bar -->
 <!ENTITY remoteContentMessage1.label "Om uw privacy te beschermen zijn afbeeldingen op afstand geblokkeerd.">
-<!ENTITY loadRemoteContentButton2.label "Afbeeldingen tonen">
+<!ENTITY loadRemoteContentButton2.label "Afbeeldingen nu tonen">
 
 <!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "Dit bericht kan e-mailscam zijn">
+<!ENTITY phishingBarMessage2.label "Dit bericht kan een e-mailscam zijn.">
 <!ENTITY removePhishingBarButton1.label "Waarschuwing negeren">
-<!ENTITY reportPhishingError1.label "Dit bericht lijkt geen e-mailscam.">
+<!ENTITY reportPhishingError1.label "Dit bericht lijkt geen e-mailscam te zijn.">
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
@@ -643,9 +643,9 @@
 <!ENTITY AddDirectlyToAddressBook.label "Toevoegen aan adresboek">
 <!ENTITY AddDirectlyToAddressBook.accesskey "v">
 <!ENTITY EditContact.label "Contact bewerken…">
-<!ENTITY EditContact.accesskey "b">
+<!ENTITY EditContact.accesskey "C">
 <!ENTITY ViewContact.label "Contact bekijken">
-<!ENTITY ViewContact.accesskey "C">
+<!ENTITY ViewContact.accesskey "e">
 <!ENTITY SendMailTo.label "Bericht opstellen aan">
 <!ENTITY SendMailTo.accesskey "B">
 <!ENTITY CopyEmailAddress.label "E-mailadres kopiëren">
@@ -687,10 +687,10 @@
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Services">
-<!ENTITY hideThisAppCmdMac.label        "Verberg &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "V">
+<!ENTITY hideThisAppCmdMac.label        "&brandShortName; verbergen">
+<!ENTITY hideThisAppCmdMac.commandkey   "v">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
-<!ENTITY hideOtherAppsCmdMac.label      "Verberg anderen">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.label      "Andere verbergen">
+<!ENTITY hideOtherAppsCmdMac.commandkey "A">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
-<!ENTITY showAllAppsCmdMac.label        "Laat alles zien">
+<!ENTITY showAllAppsCmdMac.label        "Alles tonen">

@@ -2,7 +2,7 @@
 <!ENTITY itemTags.label                   "Labels">
 <!ENTITY itemFonts.label                  "Lettertypen">
 
-<!ENTITY textBegin.label                  "Geciteerde-platte-tekstverschijning">
+<!ENTITY textBegin.label                  "Geciteerdeplattetekstverschijning">
 <!ENTITY style.label                      "Stijl:">
 <!ENTITY style.accesskey                  "S">
 <!ENTITY regularStyle.label               "Normaal">
@@ -16,13 +16,13 @@
 <!ENTITY smaller.label                    "Kleiner">
 <!ENTITY color.label                      "Kleur:">
 <!ENTITY color.accesskey                  "K">
-<!ENTITY displayWidth.label               "Platte-tekstberichten">
+<!ENTITY displayWidth.label               "Plattetekstberichten">
 <!ENTITY plainText.label                  "Het volgende lettertype gebruiken:">
-<!ENTITY displayText.label                "Geciteerde tekst in platte-tekstberichten weergeven als:">
-<!ENTITY viewingPlainText.label           "Bij het weergeven van platte-tekstberichten:">
-<!ENTITY fixedWidth.label                 "Vaste-breedte-lettertype">
+<!ENTITY displayText.label                "Geciteerde tekst in plattetekstberichten weergeven als:">
+<!ENTITY viewingPlainText.label           "Bij het weergeven van plattetekstberichten:">
+<!ENTITY fixedWidth.label                 "Vastebreedtelettertype">
 <!ENTITY fixedWidth.accesskey             "V">
-<!ENTITY variableWidth.label              "Variabele-breedte-lettertype">
+<!ENTITY variableWidth.label              "Variabelebreedtelettertype">
 <!ENTITY variableWidth.accesskey          "r">
 <!ENTITY readingMessagesHeader.label      "Voor inkomende berichten">
 <!ENTITY colors.label                     "Kleuren">

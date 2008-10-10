@@ -6,9 +6,9 @@
 <!ENTITY status.signed "Digitaal ondertekend:">
 <!ENTITY status.encrypted "Versleuteld:">
 <!ENTITY status.certificates "Certificaten:">
-<!ENTITY view.label "Weergeven">
-<!ENTITY view.accesskey "V">
-<!ENTITY tree.recipient "Geadresseerde">
+<!ENTITY view.label "Bekijken">
+<!ENTITY view.accesskey "B">
+<!ENTITY tree.recipient "Ontvanger">
 <!ENTITY tree.status "Status">
 <!ENTITY tree.issuedDate "Uitgegeven">
 <!ENTITY tree.expiresDate "Verloopt op">

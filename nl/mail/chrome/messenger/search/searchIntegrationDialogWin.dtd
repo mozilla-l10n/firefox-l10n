@@ -1,6 +1,6 @@
-<!ENTITY searchIntegration.engineName "Windows zoeken">
-<!ENTITY searchIntegration.title "&searchIntegration.engineName; integratie">
-<!ENTITY searchIntegration.description "Wilt u &searchIntegration.engineName; activeren om te indexeren en te zoeken door &brandShortName; e-mail en nieuwsberichten?">
+<!ENTITY searchIntegration.engineName "Windows Zoeken">
+<!ENTITY searchIntegration.title "&searchIntegration.engineName;-integratie">
+<!ENTITY searchIntegration.description "Wilt u &searchIntegration.engineName; inschakelen voor het indexeren en doorzoeken van &brandShortName;-e-mail en -nieuwsberichten?">
 
-<!ENTITY searchIntegration.accept "Activeer &searchIntegration.engineName;">
-<!ENTITY searchIntegration.cancel "Activeer niet &searchIntegration.engineName;">
+<!ENTITY searchIntegration.accept "&searchIntegration.engineName; inschakelen">
+<!ENTITY searchIntegration.cancel "&searchIntegration.engineName; niet inschakelen">

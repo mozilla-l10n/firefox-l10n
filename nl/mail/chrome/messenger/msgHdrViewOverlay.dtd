@@ -35,39 +35,39 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "Aan ">
-<!ENTITY fromField2.label "Van ">
-<!ENTITY senderField2.label "Afzender ">
-<!ENTITY organizationField2.label "Organisatie ">
-<!ENTITY replyToField2.label "Antwoord-naar ">
+<!ENTITY toField2.label "aan ">
+<!ENTITY fromField2.label "van ">
+<!ENTITY senderField2.label "afzender ">
+<!ENTITY organizationField2.label "organisatie ">
+<!ENTITY replyToField2.label "antwoord-naar ">
 
-<!ENTITY subjectField2.label "Onderwerp ">
+<!ENTITY subjectField2.label "onderwerp ">
 <!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "Cc ">
-<!ENTITY bccField2.label "Bcc ">
-<!ENTITY newsgroupsField2.label "Nieuwsgroepen ">
-<!ENTITY followupToField2.label "Reacties-naar ">
-<!ENTITY tagsHdr2.label "Labels ">
-<!ENTITY dateField2.label "Datum ">
-<!ENTITY userAgentField2.label "Useragent ">
-<!ENTITY referencesField2.label "Referenties ">
-<!ENTITY messageIdField2.label "Message-ID ">
-<!ENTITY inReplyToField2.label "In-antwoord-op ">
-<!ENTITY originalWebsite2.label "Website ">
+<!ENTITY ccField2.label "cc ">
+<!ENTITY bccField2.label "bcc ">
+<!ENTITY newsgroupsField2.label "nieuwsgroepen ">
+<!ENTITY followupToField2.label "reacties-naar ">
+<!ENTITY tagsHdr2.label "labels ">
+<!ENTITY dateField2.label "datum ">
+<!ENTITY userAgentField2.label "useragent ">
+<!ENTITY referencesField2.label "referenties ">
+<!ENTITY messageIdField2.label "message-id ">
+<!ENTITY inReplyToField2.label "in-antwoord-op ">
+<!ENTITY originalWebsite2.label "website ">
 <!ENTITY saveAll.label "Alles opslaan…">
 
 <!ENTITY editMessageDescription.label "Dit is een berichtconcept">
 <!ENTITY editMessageButton.label "Bewerken…">
-<!ENTITY replyButton.label "antwoorden…">
+<!ENTITY replyButton.label "beantwoorden…">
 <!ENTITY forwardButton.label "doorsturen…">
-<!ENTITY junkButton.label "markeer als ongewenst">
+<!ENTITY junkButton.label "markeren als ongewenst">
 <!ENTITY trashButton.tooltiptext "verwijderen">
 
 <!ENTITY otherActionsButton.label "andere acties">
 <!ENTITY saveAsMenuItem.label "opslaan als…">
-<!ENTITY saveAsMenuItem.accesskey "S">
+<!ENTITY saveAsMenuItem.accesskey "s">
 <!ENTITY viewSourceMenuItem.label "bron bekijken…">
-<!ENTITY viewSourceMenuItem.accesskey "V">
+<!ENTITY viewSourceMenuItem.accesskey "b">
 
 <!ENTITY hideDetailsButton.label "details verbergen">
 <!ENTITY showDetailsButton.label "details tonen">
