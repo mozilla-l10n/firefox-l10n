@@ -1,0 +1,42 @@
+<!ENTITY appear.label "Aparência">
+<!ENTITY fonts.label "Fontes">
+<!ENTITY colors.label "Cores">
+<!ENTITY navigator.label "Navigator">
+<!ENTITY history.label "Histórico">
+<!ENTITY bidi.label "Opções Bidirecionais">
+<!ENTITY languages.label "Idiomas">
+<!ENTITY applications.label "Programas">
+<!ENTITY tabWindows.label "Abas">
+<!ENTITY compose.label "Composer">
+<!ENTITY editing.label "Nova página">
+<!ENTITY publish.label "Publicar">
+<!ENTITY offline.label "Modo desconectado">
+<!ENTITY security.label "Privacidade &amp; Segurança">
+<!ENTITY advance.label "Avançado">
+<!ENTITY down.label "Download">
+<!ENTITY cache.label "Cache">
+<!ENTITY proxies.label "Proxies">
+<!ENTITY httpnetworking.label "HTTP">
+<!ENTITY download.label "Downloads">
+<!ENTITY keynav.label "Teclado">
+<!ENTITY search.label "Pesquisar na web">
+<!ENTITY policies.label "Políticas de segurança">
+<!ENTITY mousewheel.label "Roda do mouse">
+<!ENTITY scriptsAndWindows.label "Scripts &amp; Plugins">
+<!ENTITY content.label "Conteúdo">
+<!ENTITY cookies.label "Cookies">
+<!ENTITY images.label "Imagens">
+<!ENTITY locationBar.label "Barra de endereços">
+<!ENTITY popups.label "Janelas popup">
+<!ENTITY passwords.label "Senhas">
+
+<!ENTITY categoryHeader "Categoria">
+<!--LOCALIZATION NOTE : FILE Lists preferences categories that appear on the left of the preferences dialog -->
+<!ENTITY prefWindow.title "Preferências">
+
+
+<!ENTITY masterpass.label "Senhas mestra">
+<!ENTITY ssl.label "SSL">
+<!ENTITY certs.label "Certificados">
+<!ENTITY validation.label "Validação">
+<!ENTITY smart.label "Instalação de programas">
