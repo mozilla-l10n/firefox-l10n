@@ -238,6 +238,7 @@
 <!ENTITY repeat.units.years.both "Año(s)">
 <!ENTITY event.recurrence.pattern.yearly.every.month.label "Cada">
 <!ENTITY event.recurrence.pattern.yearly.every.weekday.label "Cada">
+<!ENTITY event.recurrence.pattern.yearly.of.label "">
 <!ENTITY event.recurrence.pattern.yearly.month.1.label "Enero">
 <!ENTITY event.recurrence.pattern.yearly.month.2.label "Febrero">
 <!ENTITY event.recurrence.pattern.yearly.month.3.label "Marzo">

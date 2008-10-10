@@ -42,12 +42,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY calendar.file.default.name "Mi calendario">
 <!ENTITY calendar.calendar.label "Calendario">
 <!ENTITY calendar.calendar.accesskey "C">
-<!ENTITY calendar.confirm.deleteallevents "¿Está seguro de que quiere borrar todos los eventos seleccionados?">
-<!ENTITY calendar.confirm.deleteevent "¿Está seguro de que quiere borrar este evento titulado: ">
-<!ENTITY calendar.confirm.deleteuntitledevent "¿Está seguro de que quiere borrar este evento sin título?">
 <!ENTITY calendar.flat.topbar.choosedate "Ir a la fecha">
 <!ENTITY calendar.flat.topbar.dayview "Vista diaria">
 <!ENTITY calendar.dayview.accesskey "D">
@@ -275,7 +271,7 @@
 <!ENTITY calendar.context.convertmenu.message.accesskey "M">
 <!ENTITY calendar.context.convertmenu.task.label "Tarea…">
 <!ENTITY calendar.context.convertmenu.task.accesskey "T">
-<!ENTITY calendar.tasks.view.minimonth.label "Mini mes">
+<!ENTITY calendar.tasks.view.minimonth.label "Mini-mes">
 <!ENTITY calendar.tasks.view.minimonth.accesskey "M">
 <!ENTITY calendar.tasks.view.calendarlist.label "Lista de calendarios">
 <!ENTITY calendar.tasks.view.calendarlist.accesskey "L">
