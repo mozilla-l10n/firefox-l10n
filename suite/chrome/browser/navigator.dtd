@@ -7,7 +7,7 @@
 <!ENTITY tabCmd.label "Pestaña del navegador">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openCmd.label "Abrir dirección…">
+<!ENTITY openCmd.label "Abrir dirección web…">
 <!ENTITY openCmd.accesskey "d">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY openFileCmd.label "Abrir archivo…">

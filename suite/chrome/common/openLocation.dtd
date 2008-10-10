@@ -7,6 +7,6 @@
 <!ENTITY topWindow.label "Ventana actual del navegador">
 <!ENTITY editNewWindow.label "Nueva ventana de Composer">
 <!ENTITY open.label "Abrir">
-<!ENTITY caption.label "Abrir sitio web">
+<!ENTITY caption.label "Abrir dirección web">
 <!ENTITY openWhere.label "Abrir en:">
 <!ENTITY openWhere.accesskey "A">

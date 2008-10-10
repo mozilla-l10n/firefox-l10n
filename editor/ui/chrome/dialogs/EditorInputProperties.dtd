@@ -50,11 +50,13 @@
 <!ENTITY button.value "Botón">
 <!ENTITY InputSettings.label "Configuración del campo">
 <!ENTITY InputName.label "Nombre del campo:">
+<!ENTITY InputName.accesskey "N">
 <!ENTITY GroupName.label "Nombre del grupo:">
-<!ENTITY Name.accesskey "N">
+<!ENTITY GroupName.accesskey "N">
 <!ENTITY InputValue.label "Valor del campo:">
+<!ENTITY InputValue.accesskey "V">
 <!ENTITY InitialValue.label "Valor inicial:">
-<!ENTITY Value.accesskey "V">
+<!ENTITY InitialValue.accesskey "V">
 <!ENTITY InputChecked.label "Seleccionado inicialmente">
 <!ENTITY InputChecked.accesskey "S">
 <!ENTITY InputSelected.label "Seleccionado inicialmente">
