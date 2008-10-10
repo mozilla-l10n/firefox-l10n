@@ -1,4 +1,5 @@
 <!ENTITY itemGeneral.label "General">
+<!ENTITY itemDisplay.label "Lectura y visualización">
 <!ENTITY itemUpdate.label "Actualizar">
 <!ENTITY itemNetworking.label "Red y espacio en disco">
 <!ENTITY itemCertificates.label "Certificados">
@@ -13,8 +14,6 @@
 <!ENTITY secondsLabel.label "segundos">
 <!ENTITY showFolderColumns.label "Mostrar las columnas expandidas en el panel de carpetas">
 <!ENTITY showFolderColumns.accesskey "c">
-<!ENTITY rememberLastMsg.label "Recordar el último mensaje seleccionado">
-<!ENTITY rememberLastMsg.accesskey "R">
 <!ENTITY openMsgIn.label "Abrir mensajes en:">
 <!ENTITY reuseExpRadio0.label "Una nueva ventana de mensajes">
 <!ENTITY reuseExpRadio0.accesskey "U">
@@ -22,15 +21,14 @@
 <!ENTITY reuseExpRadio1.accesskey "v">
 <!ENTITY reuseExpRadio2.label "Una nueva pestaña de mensaje">
 <!ENTITY reuseExpRadio2.accesskey "n">
-<!ENTITY connectionTimeout.label "Tiempo límite de conexión: ">
-<!ENTITY connectionTimeout.accesskey "T">
-<!ENTITY connectionSeconds.label "segundos">
 <!ENTITY configEditDesc.label "Configuración avanzada">
 <!ENTITY configEdit.label "Editor de configuración…">
 <!ENTITY configEdit.accesskey "c">
 <!ENTITY returnReceiptsInfo.label "Determinar cómo gestiona &brandShortName; los acuses de recibo">
 <!ENTITY showReturnReceipts.label "Acuses de recibo…">
 <!ENTITY showReturnReceipts.accesskey "R">
+<!ENTITY reading.caption "Lectura">
+<!ENTITY display.caption "Visualización">
 <!ENTITY autoCheck.label "Comprobar automáticamente actualizaciones para:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "h">
@@ -46,9 +44,9 @@
 <!ENTITY modeAutoAddonWarn.accesskey "A">
 <!ENTITY showUpdates.label "Mostrar el historial de actualizaciones">
 <!ENTITY showUpdates.accesskey "M">
-<!ENTITY showConnections.label "Conexión…">
-<!ENTITY showConnections.accesskey "x">
-<!ENTITY proxiesInfo.label "Determinar cómo se conecta &brandShortName; a Internet.">
+<!ENTITY showSettings.label "Configuración…">
+<!ENTITY showSettings.accesskey "n">
+<!ENTITY proxiesConfigure.label "Configurar como se conecta &brandShortName; a Internet">
 <!ENTITY connectionsInfo.caption "Conexión">
 <!ENTITY offlineInfo.caption "Desconectado">
 <!ENTITY offlineInfo.label "Configurar modo sin conexión">
@@ -58,6 +56,11 @@
 <!ENTITY offlineCompact.label "Compactar carpetas si se ahorra más de">
 <!ENTITY offlineCompact.accesskey "C">
 <!ENTITY kb.label "KB">
+<!ENTITY useCacheBefore.label "Usar hasta">
+<!ENTITY useCacheBefore.accesskey "U">
+<!ENTITY useCacheAfter.label "MB de espacio para la caché">
+<!ENTITY clearCacheNow.label "Limpiar ahora">
+<!ENTITY clearCacheNow.accesskey "L">
 <!ENTITY certificatesInfo2.label "Administrar certificados, listas de revocación, validación de certificados y dispositivos de seguridad.">
 <!ENTITY viewCertificates.label "Ver certificados">
 <!ENTITY viewCertificates.accesskey "V">

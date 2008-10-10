@@ -38,15 +38,15 @@
 <!ENTITY editorWindow.titlemodifier "Composer">
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 <!ENTITY viewMenu.label "Ver">
-<!ENTITY viewmenu.accesskey "v">
+<!ENTITY viewMenu.accesskey "V">
 <!ENTITY compositionToolbarCmd.label "Barra de herramientas de redacción">
-<!ENTITY compositiontb.accesskey "c">
+<!ENTITY compositionToolbarCmd.accesskey "B">
 <!ENTITY formattingToolbarCmd.label "Barra de formato">
-<!ENTITY formattingtb.accesskey "f">
+<!ENTITY formattingToolbarCmd.accesskey "F">
 <!ENTITY editmodeToolbarCmd.label "Barra de edición">
-<!ENTITY editmodetb.accesskey "E">
+<!ENTITY editmodeToolbarCmd.accesskey "c">
 <!ENTITY formatMenu.label "Formato">
-<!ENTITY formatmenu.accesskey "o">
+<!ENTITY formatMenu.accesskey "o">
 <!ENTITY helpMenu.label "Ayuda">
 <!ENTITY aboutCmd.label ".Acerca de">
 <!ENTITY editMode.label "Modo de edición:">

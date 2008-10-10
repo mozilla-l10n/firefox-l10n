@@ -42,7 +42,7 @@
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Compactar carpetas">
-<!ENTITY compactFolder.accesskey "C">
+<!ENTITY compactFolders.accesskey "o">
 <!ENTITY emptyTrashCmd.label "Vaciar papelera">
 <!ENTITY emptyTrashCmd.accesskey "p">
 <!ENTITY importCmd.label "Importar…">
@@ -216,22 +216,23 @@
 <!ENTITY bodyAsPlaintext.accesskey "T">
 <!ENTITY viewAttachmentsInlineCmd.label "Ver adjuntos incorporados">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "a">
-<!ENTITY reloadCmd.label "Recargar">
-<!ENTITY reloadCmd.accesskey "r">
-<!ENTITY stopCmd.label "Detener">
-<!ENTITY stopCmd.accesskey "d">
-<!ENTITY textZoomEnlargeCmd.label "Aumentar tamaño del texto">
-<!ENTITY textZoomEnlargeCmd.accesskey "A">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
-<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY textZoomReduceCmd.label "Disminuir tamaño del texto">
-<!ENTITY textZoomReduceCmd.accesskey "D">
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomResetCmd.commandkey "0">
-<!ENTITY textZoomResetCmd.label "Normal">
-<!ENTITY textZoomResetCmd.accesskey "N">
-<!ENTITY textSize.label "Tamaño del texto">
-<!ENTITY textSize.accesskey "x">
+<!ENTITY fullZoomEnlargeCmd.label "Acercar">
+<!ENTITY fullZoomEnlargeCmd.accesskey "A">
+<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomReduceCmd.label "Alejar">
+<!ENTITY fullZoomReduceCmd.accesskey "e">
+<!ENTITY fullZoomReduceCmd.commandkey "-">
+<!ENTITY fullZoomReduceCmd.commandkey2 "">
+<!ENTITY fullZoomResetCmd.label "Restablecer">
+<!ENTITY fullZoomResetCmd.accesskey "R">
+<!ENTITY fullZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomResetCmd.commandkey2 "">
+<!ENTITY fullZoomToggleCmd.label "Sólo ampliar texto">
+<!ENTITY fullZoomToggleCmd.accesskey "T">
+<!ENTITY fullZoom.label "Tamaño">
+<!ENTITY fullZoom.accesskey "T">
 <!ENTITY pageSourceCmd.label "Formato original del mensaje">
 <!ENTITY pageSourceCmd.accesskey "F">
 <!ENTITY pageSourceCmd.key "u">
@@ -266,8 +267,8 @@
 <!ENTITY nextStarredMsgCmd.label "Mensaje estrellado">
 <!ENTITY nextStarredMsgCmd.accesskey "S">
 <!ENTITY nextUnreadThread.label "Conversación no leída">
-<!ENTITY nextUnreadThreadCmd.accesskey "c">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "v">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Anterior">
 <!ENTITY prevMenu.accesskey "a">
 <!ENTITY prevMsgCmd.label "Mensaje">
