@@ -79,9 +79,7 @@
 <!ENTITY cellSelectPrevious.accessKey "R">
 <!ENTITY cellApplyBeforeMove.label "Aplicar cambios antes de cambiar la selección">
 <!ENTITY cellKeepCurrentData.label "Mantener configuración actual">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label "Las modificaciones pendientes serán aplicadas">
-<!ENTITY applyBeforeChange2.label "antes de cambiar la selección.">
+<!ENTITY applyBeforeChange.label          "Las modificaciones pendientes serán aplicadas antes de cambiar la selección.">
 <!ENTITY cellRowSpan.label "Filas ocupadas:">
 <!ENTITY cellColSpan.label "Columnas ocupadas:">
 <!ENTITY cellContentAlignment.label "Alineación del contenido">
