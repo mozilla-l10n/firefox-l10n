@@ -8,8 +8,8 @@
 <!ENTITY encryptionCert.notselected "Geen certificaat ingesteld">
 <!ENTITY certificate.button "Selecteren…">
 <!ENTITY certificate_clear.button "Wissen">
-<!ENTITY signingGroupTitle.label "Digitale ondertekening">
-<!ENTITY signMessage.label "Alle berichten digitaal ondertekenen (standaard)">
+<!ENTITY signingGroupTitle.label "Digitaal ondertekenen">
+<!ENTITY signMessage.label "Berichten (standaard) digitaal ondertekenen">
 <!ENTITY signingCert.message "Dit certificaat gebruiken om berichten die u verzendt digitaal te ondertekenen:">
 <!ENTITY signingCert.notselected "Geen certificaat ingesteld">
 

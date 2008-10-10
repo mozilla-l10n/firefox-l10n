@@ -13,12 +13,12 @@
 <!ENTITY highestPriorityCmd.label "Hoogst">
 
 <!ENTITY contextDesc.label "Filter toepassen bij het:">
-<!ENTITY contextDesc.accesskey "a">
-<!ENTITY contextIncoming.label "Controleren van E-mail">
-<!ENTITY contextManual.label "Handmatig activeren">
-<!ENTITY contextBoth.label "Controleren van E-mail of handmatig activeren">
+<!ENTITY contextDesc.accesskey "t">
+<!ENTITY contextIncoming.label "Controleren van e-mail">
+<!ENTITY contextManual.label "Handmatig uitvoeren">
+<!ENTITY contextBoth.label "Controleren van e-mail of handmatig uitvoeren">
 <!ENTITY filterActionDesc.label "Deze acties uitvoeren:">
-<!ENTITY filterActionDesc.accesskey "V">
+<!ENTITY filterActionDesc.accesskey "v">
 
 <!ENTITY newFolderButton.label "Nieuwe map…">
 <!ENTITY newFolderButton.accesskey "N">
@@ -30,13 +30,13 @@
 <!ENTITY replyWithTemplate.label "Met sjabloon antwoorden">
 <!ENTITY markMessageRead.label "Bericht als gelezen markeren">
 <!ENTITY markMessageStarred.label "Ster toevoegen">
-<!ENTITY setPriority.label "Prioriteit veranderen naar">
+<!ENTITY setPriority.label "Prioriteit wijzigen in">
 <!ENTITY addTag.label "Bericht labelen">
-<!ENTITY setJunkScore.label "Ongewenst-berichtstatus instellen op">
+<!ENTITY setJunkScore.label "Ongewenstberichtstatus instellen op">
 <!ENTITY deleteMessage.label "Bericht verwijderen">
 <!ENTITY deleteFromPOP.label "Van POP-server verwijderen">
 <!ENTITY fetchFromPOP.label "Van POP-server ophalen">
 <!ENTITY ignoreThread.label "Conversatie negeren">
 <!ENTITY ignoreSubthread.label "Subconversatie negeren"> 
 <!ENTITY watchThread.label "Conversatie volgen">
-<!ENTITY stopExecution.label "Uitvoeren filter stoppen">
+<!ENTITY stopExecution.label "Uitvoeren van filter stoppen">

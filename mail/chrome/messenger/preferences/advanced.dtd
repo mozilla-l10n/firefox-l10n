@@ -5,19 +5,19 @@
 
 <!-- General Settings -->
 
-<!ENTITY showCondensedAddresses.label  "Van mensen in mijn adresboek alleen weergavenaam tonen">
-<!ENTITY showCondensedAddresses.accesskey "m">
+<!ENTITY showCondensedAddresses.label  "Van personen in mijn adresboek alleen weergavenaam tonen">
+<!ENTITY showCondensedAddresses.accesskey "p">
 
 <!ENTITY autoMarkAsRead.label             "Berichten automatisch als gelezen markeren">
-<!ENTITY autoMarkAsRead.accesskey         "A">
-<!ENTITY markAsReadNoDelay.label          "Onmiddelijk op het scherm">
-<!ENTITY markAsReadNoDelay.accesskey      "O">
+<!ENTITY autoMarkAsRead.accesskey         "e">
+<!ENTITY markAsReadNoDelay.label          "Direct zichtbaar">
+<!ENTITY markAsReadNoDelay.accesskey      "D">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label            "Na het tonen voor">
+<!ENTITY markAsReadDelay.label            "Na">
 <!ENTITY markAsReadDelay.accesskey        "N">
-<!ENTITY secondsLabel.label               "seconden">
+<!ENTITY secondsLabel.label               "seconden weergeven">
 <!ENTITY showFolderColumns.label       "Uitgebreide kolommen weergeven in mappenvenster">
 <!ENTITY showFolderColumns.accesskey   "k">
 <!ENTITY rememberLastMsg.label         "Laatst geselecteerde bericht onthouden">

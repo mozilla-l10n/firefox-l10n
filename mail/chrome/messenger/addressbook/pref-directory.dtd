@@ -37,7 +37,7 @@
 
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 <!ENTITY pref.ldap.window.title    "LDAP-directoryservers">
-<!ENTITY directory.label           "Voeg een directory toe">
+<!ENTITY directory.label           "Een directory toevoegen">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "LDAP-directoryserver:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->

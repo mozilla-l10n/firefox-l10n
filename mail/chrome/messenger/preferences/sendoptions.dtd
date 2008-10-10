@@ -15,7 +15,7 @@
 <!ENTITY domaindesc.label             "Wanneer u een bericht stuurt naar een adres met een van de onderstaande domeinnamen, zal &brandShortName; het bericht automatisch in de juiste opmaak verzenden.">
 <!ENTITY HTMLTab.label                "HTML-domeinen">
 <!ENTITY HTMLTab.accesskey            "H">
-<!ENTITY PlainTextTab.label           "Platte-tekstdomeinen">
+<!ENTITY PlainTextTab.label           "Plattetekstdomeinen">
 <!ENTITY PlainTextTab.accesskey       "P">
 <!ENTITY AddHtmlDomain.label          "Toevoegen…">
 <!ENTITY AddHtmlDomain.accesskey      "T">
@@ -29,8 +29,8 @@
 <!ENTITY add.htmltitle                "Een HTML-domeinnaam toevoegen">
 <!ENTITY add.htmldomain               "HTML-domeinnaam:">
 <!ENTITY add.htmldomain.accesskey     "d">
-<!ENTITY add.plaintexttitle           "Een platte-tekstdomeinnaam toevoegen">
-<!ENTITY add.plaintextdomain          "Platte-tekstdomeinnaam:">
+<!ENTITY add.plaintexttitle           "Een plattetekstdomeinnaam toevoegen">
+<!ENTITY add.plaintextdomain          "Plattetekstdomeinnaam:">
 <!ENTITY add.plaintext.accesskey      "d">
 
 <!-- LOCALIZATION NOTE: do not translate @string@ -->

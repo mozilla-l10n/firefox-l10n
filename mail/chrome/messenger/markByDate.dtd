@@ -35,8 +35,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY messageMarkByDate.label "Berichten op datum als gelezen markeren">
+<!ENTITY messageMarkByDate.label "Berichten als gelezen markeren op datum">
 <!ENTITY markByDateLower.label "Berichten als gelezen markeren vanaf:">
-<!ENTITY markByDateLower.accesskey "M">
+<!ENTITY markByDateLower.accesskey "v">
 <!ENTITY markByDateUpper.label "Tot:">
 <!ENTITY markByDateUpper.accesskey "T">

@@ -51,7 +51,6 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY importDialog.settingsTitle "Instellingen">
 <!ENTITY importDialog.filtersTitle "Filters">
 
-
 <!ENTITY  window.width            "42em">
 <!ENTITY  window.macWidth         "45em">
 

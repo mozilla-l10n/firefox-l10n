@@ -35,7 +35,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY newDirectoryTitle.label           "Eigenschappen directoryserver">
+<!ENTITY newDirectoryTitle.label           "Eigenschappen van directoryserver">
 <!ENTITY directoryName.label               "Naam: ">
 <!ENTITY directoryName.accesskey           "N">
 <!ENTITY directoryHostname.label           "Hostnaam: ">
@@ -48,12 +48,12 @@
 <!ENTITY directorySecure.accesskey         "v">
 <!ENTITY directoryLogin.label              "Bind-DN: ">
 <!ENTITY directoryLogin.accesskey          "i">
-<!ENTITY advancedOptionsButton.label       "Uitgebreide opties">
-<!ENTITY advancedOptionsButton.accesskey   "U">
+<!ENTITY advancedOptionsButton.label       "Geavanceerde opties">
+<!ENTITY advancedOptionsButton.accesskey   "G">
 <!ENTITY General.tab                       "Algemeen">
 <!ENTITY Offline.tab                       "Offline">
 <!ENTITY Advanced.tab                      "Geavanceerd">
-<!ENTITY advancedOptionsTitle.label        "Uitgebreide opties">
+<!ENTITY advancedOptionsTitle.label        "Geavanceerde opties">
 <!ENTITY portNumber.label                  "Poortnummer: ">
 <!ENTITY portNumber.accesskey              "P">
 <!ENTITY searchFilter.label                "Zoekfilter: ">

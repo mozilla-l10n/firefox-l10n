@@ -1,5 +1,5 @@
 <!ENTITY viewLog.title "Filterlogboek">
-<!ENTITY viewLogInfo.text "Het filterlogboek registreert welke filters zijn toegepast voor deze account. Gebruik het selectievakje om het loggen te activeren.">
+<!ENTITY viewLogInfo.text "Het filterlogboek registreert welke filters zijn toegepast voor deze account. Gebruik het selectievakje om de registratie te activeren.">
 <!ENTITY clearLog.label "Logboek wissen">
 <!ENTITY clearLog.accesskey "w">
 <!ENTITY enableLog.label "Filterregistratie activeren">

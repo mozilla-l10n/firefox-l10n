@@ -9,7 +9,7 @@
 
 <!ENTITY choosethisfolder.label "Deze map kiezen">
 
-<!ENTITY quickMode.label        "Artikelsamenvatting weergeven i.p.v. de webpagina te laden">
+<!ENTITY quickMode.label        "Artikelsamenvatting weergeven i.p.v. de webpagina laden">
 <!ENTITY quickMode.accesskey    "A">
 
 <!ENTITY copyLinkCmd.label      "Koppelingslocatie kopiëren">

@@ -7,7 +7,7 @@
 <!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY releaseCmd.label "Uitgaveopmerkingen">
 <!ENTITY releaseCmd.accesskey "U">
-<!ENTITY openHelp.label "Help inhoud">
+<!ENTITY openHelp.label "Helpinhoud">
 <!ENTITY openHelp.accesskey "H">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "&brandShortName; Help">

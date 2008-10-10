@@ -1,5 +1,5 @@
-<!ENTITY junkLog.title "Ongewenste-berichtenlogboek">
-<!ENTITY junkLogInfo.label "Activiteitsregistratie van de ongewenste-berichtenverwerking.">
+<!ENTITY junkLog.title "Ongewensteberichtenlogboek">
+<!ENTITY junkLogInfo.label "Activiteitsregistratie van de ongewensteberichtenverwerking.">
 <!ENTITY clearLog.label "Logboek wissen">
 <!ENTITY clearLog.accesskey "w">
 <!ENTITY closeLog.label "Sluiten">

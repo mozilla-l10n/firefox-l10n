@@ -53,7 +53,7 @@
 <!ENTITY quitApplicationCmd.key "Q">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.accesskey "W">
+<!ENTITY editMenu.accesskey "w">
 <!ENTITY editMenu.label "Bewerken">
 <!ENTITY undoCmd.label "Ongedaan maken">
 <!ENTITY undoCmd.key "Z">
@@ -63,7 +63,7 @@
 <!ENTITY redoCmd.accesskey "u">
 <!ENTITY cutCmd.label "Knippen">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "N">
+<!ENTITY cutCmd.accesskey "n">
 <!ENTITY copyCmd.label "Kopiëren">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "K">
@@ -93,7 +93,7 @@
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Beeld">
-<!ENTITY viewMenu.accesskey "L">
+<!ENTITY viewMenu.accesskey "l">
 <!ENTITY viewToolbarsMenuNew.label "Werkbalken">
 <!ENTITY viewToolbarsMenuNew.accesskey "W">
 <!ENTITY showCompositionToolbarCmd.label "Compositiewerkbalk">
@@ -134,7 +134,7 @@
 <!ENTITY dsnMenu.accesskey "A">
 <!ENTITY outputFormatMenu.label "Opmaak">
 <!ENTITY outputFormatMenu.accesskey "O">
-<!ENTITY autoFormatCmd.label "Automatisch herkennen ">
+<!ENTITY autoFormatCmd.label "Automatisch herkennen">
 <!ENTITY autoFormatCmd.accesskey "A">
 <!ENTITY plainTextFormatCmd.label "Alleen platte tekst">
 <!ENTITY plainTextFormatCmd.accesskey "p">
