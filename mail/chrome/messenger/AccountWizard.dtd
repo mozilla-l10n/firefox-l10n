@@ -16,7 +16,7 @@
 <!ENTITY fullnameLabel.accesskey "S">
 <!ENTITY emailLabel.label "Dirección de correo electrónico:">
 <!ENTITY emailLabel.accesskey "E">
-<!ENTITY emailDesc.label "Introduzca su dirección de correo electrónico; esta es la dirección que los demás utilizarán para mandarle mensajes a usted">
+<!ENTITY emailDesc.label "Introduzca su dirección de correo electrónico; ésta es la dirección que los demás utilizarán para mandarle mensajes a usted">
 <!ENTITY emailExample.label "(por ejemplo: usuario@ejemplo.net).">
 <!ENTITY serverTitle.label "Información de servidor">
 <!ENTITY incomingServerTitle.label "Servidor entrante">

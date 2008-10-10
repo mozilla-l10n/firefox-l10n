@@ -551,7 +551,7 @@
 <!ENTITY attachmentColumn.tooltip "Pulse para ordenar por adjuntos">
 <!ENTITY contextOpenNewWindow.label "Abrir el mensaje en una ventana nueva">
 <!ENTITY contextOpenNewWindow.accesskey "v">
-<!ENTITY contextOpenNewTab.label "Abrir mensaje en nueva pestaña">
+<!ENTITY contextOpenNewTab.label "Abrir el mensaje en pestaña nueva">
 <!ENTITY contextOpenNewTab.accesskey "b">
 <!ENTITY contextEditAsNew.label "Editar como nuevo…">
 <!ENTITY contextEditAsNew.accesskey "e">
