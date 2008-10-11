@@ -1,4 +1,5 @@
 <!ENTITY itemGeneral.label       "Général">
+<!ENTITY itemDisplay.label       "Lecture et affichage">
 <!ENTITY itemUpdate.label        "Mise à jour">
 <!ENTITY itemNetworking.label    "Réseau et espace disque">
 <!ENTITY itemCertificates.label  "Certificats">
@@ -33,6 +34,10 @@
 <!ENTITY returnReceiptsInfo.label      "Gestion des accusés de réception dans &brandShortName;">
 <!ENTITY showReturnReceipts.label      "Accusés de réception…">
 <!ENTITY showReturnReceipts.accesskey  "c">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption                "Lecture">
+<!ENTITY display.caption                "Affichage">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Rechercher automatiquement des mises à jour pour :">
