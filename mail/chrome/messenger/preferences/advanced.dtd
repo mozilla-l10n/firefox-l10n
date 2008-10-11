@@ -30,6 +30,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY itemGeneral.label       "Bendrosios">
+<!ENTITY itemDisplay.label       "Laiškų skaitymas ir atvaizdavimas">
 <!ENTITY itemUpdate.label        "Atnaujinimas">
 <!ENTITY itemNetworking.label    "Tinklas ir disko atmintis">
 <!ENTITY itemCertificates.label  "Liudijimai">
@@ -64,6 +65,10 @@
 <!ENTITY returnReceiptsInfo.label      "Parinkite „&brandShortName;“ pažymų apie pristatytus laiškus valdymo nuostatas">
 <!ENTITY showReturnReceipts.label      "Laiškų pristatymo pažymos…">
 <!ENTITY showReturnReceipts.accesskey  "L">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption                "Skaitymas">
+<!ENTITY display.caption                "Atvaizdavimas">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Periodiškai tikrinti, ar yra naujinimų:">
