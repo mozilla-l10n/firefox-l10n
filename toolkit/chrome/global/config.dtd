@@ -47,6 +47,7 @@
 
 <!ENTITY filterPrefs.label "Filtras:">
 <!ENTITY filterPrefs.accesskey "F">
+<!ENTITY focusFilter.key "f">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Parametro vardas">
@@ -80,4 +81,3 @@
 <!ENTITY integer.accesskey "v">
 <!ENTITY boolean.label "Loginis">
 <!ENTITY boolean.accesskey "L">
-
