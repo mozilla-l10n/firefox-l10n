@@ -1,0 +1,16 @@
+<!ENTITY restorepage.title          "Restauration de la session précédente">
+<!ENTITY restorepage.titletext      "Votre dernière session de &brandShortName; s'est terminée de manière inattendue">
+<!ENTITY restorepage.shortDesc      "Vous pouvez restaurer les onglets et fenêtres de votre session précédente, ou démarrer une nouvelle session si ceux-ci ne sont plus nécessaires. Toutes nos excuses pour le dérangement.">
+<!ENTITY restorepage.remedies       "Si &brandShortName; se ferme à maintes reprises :">
+<!ENTITY restorepage.dueToChrome    "Essayez de désactiver les éventuelles extensions ajoutées récemment depuis la fenêtre des modules complémentaires.">
+<!ENTITY restorepage.dueToContent   "Essayez de restaurer votre session sans la ou les pages que vous soupçonnez d'être à l'origine du plantage :">
+
+<!ENTITY restorepage.restoreButton  "Restaurer la session précédente">
+<!ENTITY restorepage.restore.access "R">
+<!ENTITY restorepage.cancelButton   "Démarrer une nouvelle session">
+<!ENTITY restorepage.cancel.access  "s">
+
+<!ENTITY restorepage.restoreHeader  "Restaurer">
+<!ENTITY restorepage.listHeader     "Fenêtres et onglets">
+<!-- LOCALIZATION NOTE: %S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Fenêtre #&#37;S">
