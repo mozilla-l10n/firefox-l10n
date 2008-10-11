@@ -34,9 +34,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY gdata-provider.label "Google Calendar">
+<!ENTITY gdata-provider.label "Google දිනදර්ශනය">
 
-<!ENTITY gdata.privacy.default.label "Google Default">
+<!ENTITY gdata.privacy.default.label "Google පෙරනිමි">
 <!ENTITY gdata.privacy.default.accesskey "D">
 
 <!ENTITY gdata.migration.title "Migrate read-only calendars">
