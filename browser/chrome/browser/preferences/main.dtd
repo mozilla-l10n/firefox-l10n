@@ -22,7 +22,7 @@
 <!ENTITY closeWhenDone.label "Download-Manager schließen, wenn alle Downloads abgeschlossen sind">
 <!ENTITY closeWhenDone.accesskey "o">
 <!ENTITY saveTo.label "Alle Dateien in folgendem Ordner abspeichern:">
-<!ENTITY saveTo.accesskey "A">
+<!ENTITY saveTo.accesskey "e">
 <!ENTITY chooseFolderWin.label        "Durchsuchen…">
 <!ENTITY chooseFolderWin.accesskey    "D">
 <!ENTITY chooseFolderMac.label        "Auswählen…">
