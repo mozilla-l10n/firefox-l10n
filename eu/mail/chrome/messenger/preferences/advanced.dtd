@@ -1,4 +1,5 @@
 <!ENTITY itemGeneral.label "Orokorra">
+<!ENTITY itemDisplay.label "Reading &amp; Display">
 <!ENTITY itemUpdate.label "Eguneraketa">
 <!ENTITY itemNetworking.label "Network &amp; Disk Space">
 <!ENTITY itemCertificates.label "Certificates">
@@ -33,6 +34,10 @@
 <!ENTITY returnReceiptsInfo.label "Determine how &brandShortName; handles return receipts">
 <!ENTITY showReturnReceipts.label "Return Receipts...">
 <!ENTITY showReturnReceipts.accesskey "R">
+<!-- Display and Reading Settings -->
+
+<!ENTITY reading.caption "Reading">
+<!ENTITY display.caption "Display">
 <!-- Update -->
 
 <!ENTITY autoCheck.label "Automatikoki eguneraketak bilatu honentzat:">
@@ -73,7 +78,7 @@
 -->
 
 <!ENTITY useCacheBefore.label "Erabili hemendik gora">
-<!ENTITY useCacheBefore.accesskey "o">
+<!ENTITY useCacheBefore.accesskey "O">
 <!ENTITY useCacheAfter.label "Cache-arentzako tokia MB-etan">
 <!ENTITY clearCacheNow.label "Garbitu orain">
 <!ENTITY clearCacheNow.accesskey "G">

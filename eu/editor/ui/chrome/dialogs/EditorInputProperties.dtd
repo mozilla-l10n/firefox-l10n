@@ -52,13 +52,13 @@
 
 <!ENTITY InputSettings.label "Eremu ezarpenak">
 <!ENTITY InputName.label "Eremu izena:">
-<!ENTITY InputName.accesskey "n">
+<!ENTITY InputName.accesskey "N">
 <!ENTITY GroupName.label "Talde izena:">
-<!ENTITY GroupName.accesskey "n">
+<!ENTITY GroupName.accesskey "N">
 <!ENTITY InputValue.label "Eremuaren balioa:">
-<!ENTITY InputValue.accesskey "b">
+<!ENTITY InputValue.accesskey "B">
 <!ENTITY InitialValue.label "Hasierako balioa:">
-<!ENTITY InitialValue.accesskey "b">
+<!ENTITY InitialValue.accesskey "B">
 <!ENTITY InputChecked.label "Hasieran markatua">
 <!ENTITY InputChecked.accesskey "K">
 <!ENTITY InputSelected.label "Hasieran hautatua">
