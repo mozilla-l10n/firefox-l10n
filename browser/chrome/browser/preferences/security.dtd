@@ -30,7 +30,7 @@
 <!ENTITY  changeMasterPassword.accesskey "M">
 
 <!ENTITY  savedPasswords.label            "Gespeicherte Passwörter…">
-<!ENTITY  savedPasswords.accesskey        "w">
+<!ENTITY  savedPasswords.accesskey        "G">
 
 
 <!ENTITY  warnings.label                "Warnmeldungen">
