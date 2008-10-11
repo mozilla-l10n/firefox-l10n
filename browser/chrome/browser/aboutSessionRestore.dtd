@@ -1,0 +1,16 @@
+<!ENTITY restorepage.title "Leheneratu aurrekoa saioa">
+<!ENTITY restorepage.titletext "Azken &brandShortName; saioa ezustean itxi da.">
+<!ENTITY restorepage.shortDesc "Aurreko saioko fitxa eta leihoak berreskura ditzakezu edo saio berri bat abiarazi aurreko saioa ez baduzu ezertarako behar. Barkamenak eskatzen dizkizugu sortutako eragozpenengatik.">
+<!ENTITY restorepage.remedies "&brandShortName; ezuztean ixten bada:">
+<!ENTITY restorepage.dueToChrome "Saiatu azken aldian gehituriko gehigarriak gehigarri kudeatzailean ezgaitzen.">
+<!ENTITY restorepage.dueToContent "Try restoring your session without any Web pages you suspect might be causing the crash:">
+
+<!ENTITY restorepage.restoreButton "Leheneratu aurrekoa saioa">
+<!ENTITY restorepage.restore.access "R">
+<!ENTITY restorepage.cancelButton "Hasi saio berria">
+<!ENTITY restorepage.cancel.access "S">
+
+<!ENTITY restorepage.restoreHeader "Leheneratu">
+<!ENTITY restorepage.listHeader "Leihoak eta fitxak">
+<!-- LOCALIZATION NOTE: %S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel "Leihoa&#37; S">
