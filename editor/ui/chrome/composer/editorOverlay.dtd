@@ -51,11 +51,11 @@
 <!ENTITY openFileCmd.label "Abrir archivo…">
 <!ENTITY openFileCmd.accesskey "a">
 <!ENTITY openFileCmd.key "a">
-<!ENTITY openremoteCmd.label "Abrir dirección…">
-<!ENTITY openremoteCmd.accesskey "d">
-<!ENTITY openremoteCmd.key "d">
+<!ENTITY openRemoteCmd.label "Abrir dirección…">
+<!ENTITY openRemoteCmd.accesskey "d">
+<!ENTITY openRemoteCmd.key "d">
 <!ENTITY fileRecentMenu.label "Páginas recientes">
-<!ENTITY filerecentMenu.accesskey "r">
+<!ENTITY fileRecentMenu.accesskey "r">
 <!ENTITY fileRevert.label "Volver a la última copia guardada">
 <!ENTITY fileRevert.accesskey "v">
 <!ENTITY saveCmd.label "Guardar">
@@ -66,6 +66,7 @@
 
 <!ENTITY publishCmd.label "Publicar">
 <!ENTITY publishCmd.accesskey "b">
+<!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Publicar como…">
 <!ENTITY publishAsCmd.accesskey "h">
 <!ENTITY exportToTextCmd.label "Exportar a texto…">
@@ -93,6 +94,7 @@
 <!ENTITY editMenu.accesskey "e">
 <!ENTITY pasteNoFormatting.label "Copiar sin formato">
 <!ENTITY pasteNoFormatting.accesskey "s">
+<!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Pegar como">
 <!ENTITY pasteAs.accesskey "a">
 <!ENTITY publishSettings.label "Configuración de sitio de publicación…">
@@ -118,7 +120,6 @@
 <!ENTITY pasteLinkCmd.accesskey "d">
 <!ENTITY pasteAsQuotationCmd.label "Pegar como cita">
 <!ENTITY pasteAsQuotationCmd.accesskey "g">
-<!ENTITY pasteAsQuotationCmd.key "v">
 <!ENTITY editStripQuotesCmd.label "Eliminar comillas">
 <!ENTITY editRewrapCmd.label "Reajuste de línea">
 <!ENTITY findCmd.label "Buscar y reemplazar…">
@@ -231,7 +232,7 @@
 <!ENTITY fontFixedWidth.label "Anchura fija">
 <!ENTITY fontFixedWidth.accesskey "j">
 <!ENTITY fontFixedWidth.key "t">
-<!ENTITY fontHelveticaFont.label "Helvetica, Arial">
+<!ENTITY fontHelvetica.label "Helvetica, Arial">
 <!ENTITY fontHelvetica.accesskey "d">
 <!ENTITY fontTimes.label "Times">
 <!ENTITY fontTimes.accesskey "t">
@@ -250,8 +251,8 @@
 <!ENTITY increaseFontSize.key "+">
 <!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
 
-<!ENTITY fontsizeMenu.label "Tamaño">
-<!ENTITY fontsizeMenu.accesskey "T">
+<!ENTITY fontSizeMenu.label "Tamaño">
+<!ENTITY fontSizeMenu.accesskey "T">
 <!ENTITY size-xx-smallCmd.label "xx-pequeño">
 <!ENTITY size-xx-smallCmd.accesskey "a">
 <!ENTITY size-x-smallCmd.label "Muy pequeño">
@@ -313,7 +314,7 @@
 <!ENTITY formatRemoveLinks.key "k">
 <!ENTITY formatRemoveNamedAnchors.label "Eliminar enlaces internos con nombre">
 <!ENTITY formatRemoveNamedAnchors.accesskey "m">
-<!ENTITY formatremovenamedanchors.key "a">
+<!ENTITY formatRemoveNamedAnchors.key "a">
 
 <!ENTITY paragraphMenu.label "Párrafo">
 <!ENTITY paragraphMenu.accesskey "P">
@@ -335,12 +336,10 @@
 <!ENTITY paragraphAddressCmd.accesskey "D">
 <!ENTITY paragraphPreformatCmd.label "Preformato">
 <!ENTITY paragraphPreformatCmd.accesskey "A">
-<!ENTITY paragraphBlockquoteCmd.label "Cita">
-<!ENTITY paragraphBlockquoteCmd.accesskey "b">
 
 <!-- List menu items -->
 <!ENTITY formatlistMenu.label "Lista">
-<!ENTITY formatListMenu.accesskey "L">
+<!ENTITY formatlistMenu.accesskey "L">
 <!ENTITY noneCmd.label "Ninguna">
 <!ENTITY noneCmd.accesskey "N">
 <!ENTITY listBulletCmd.label "No numerada">
@@ -397,10 +396,10 @@
 
 <!ENTITY increaseIndent.label "Incrementar sangrado">
 <!ENTITY increaseIndent.accesskey "i">
-<!ENTITY increaseIndentkb "=">
+<!ENTITY increaseIndent.key "]">
 <!ENTITY decreaseIndent.label "Reducir sangrado">
 <!ENTITY decreaseIndent.accesskey "D">
-<!ENTITY decreaseIndentkb "-">
+<!ENTITY decreaseIndent.key "[">
 
 <!ENTITY grid.label "Grilla de posicionamiento">
 <!ENTITY grid.accesskey "t">
