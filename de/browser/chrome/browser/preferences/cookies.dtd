@@ -21,7 +21,7 @@
 <!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     filter.label                   "Suchen">
-<!ENTITY     filter.accesskey               "S">
+<!ENTITY     filter.accesskey               "u">
 
 <!ENTITY     button.close.label             "Schließen">
 <!ENTITY     button.close.accesskey         "S">

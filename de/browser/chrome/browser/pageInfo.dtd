@@ -49,7 +49,7 @@
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "Allgemein">
-<!ENTITY  generalTab.accesskey  "g">
+<!ENTITY  generalTab.accesskey  "A">
 <!ENTITY  generalURL            "Adresse:">
 <!ENTITY  generalType           "Typ:">
 <!ENTITY  generalMode           "Anzeigemodus:">
@@ -74,15 +74,15 @@
 <!ENTITY  mediaCount            "Anzahl">
 <!ENTITY  mediaDimension        "Maße:">
 <!ENTITY  mediaLongdesc         "Ausführliche Beschreibung:">
-<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaBlockImage.accesskey "g">
 <!ENTITY  mediaSaveAs           "Speichern unter…">
-<!ENTITY  mediaSaveAs.accesskey "S">
+<!ENTITY  mediaSaveAs.accesskey "u">
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Medienvorschau:">
 <!ENTITY  feedTab               "Feeds">
 <!ENTITY  feedTab.accesskey     "F">
 <!ENTITY  feedSubscribe         "Abonnieren">
-<!ENTITY  feedSubscribe.accesskey "A">
+<!ENTITY  feedSubscribe.accesskey "o">
 
 <!ENTITY  permTab               "Berechtigungen">
 <!ENTITY  permTab.accesskey     "B">
