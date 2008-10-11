@@ -143,9 +143,6 @@
 <!ENTITY task.toolbar.label                     "Darbų juosta">
 <!ENTITY task.toolbar.accesskey                 "D">
 
-<!ENTITY mode.toolbar.label                     "Veiksenos juosta">
-<!ENTITY mode.toolbar.accesskey                 "V">
-
 <!ENTITY calendar.menu.customize.label          "Tvarkyti…">
 <!ENTITY calendar.menu.customize.accesskey      "T">
 
