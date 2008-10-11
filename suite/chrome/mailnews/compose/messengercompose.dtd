@@ -53,11 +53,11 @@
 <!ENTITY findCmd.label "Rechercher">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "h">
-<!ENTITY findAgainCmd.label "Rechercher encore">
+<!ENTITY findAgainCmd.label "Rechercher le suivant">
 <!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "n">
+<!ENTITY findAgainCmd.accesskey "v">
 <!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Rechercher précédent">
+<!ENTITY findPrevCmd.label "Rechercher le précédent">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.accesskey "d">

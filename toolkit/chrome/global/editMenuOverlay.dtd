@@ -23,9 +23,9 @@
 <!ENTITY findCmd.label             "Rechercher">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "c">
-<!ENTITY findAgainCmd.label        "Suivant">
+<!ENTITY findAgainCmd.label        "Rechercher le suivant">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
-<!ENTITY findAgainCmd.accesskey    "n">
-<!ENTITY findPreviousCmd.label     "Précédent">
+<!ENTITY findAgainCmd.accesskey    "v">
+<!ENTITY findPreviousCmd.label     "Rechercher le précédent">
 <!ENTITY findPreviousCmd.accesskey "e">

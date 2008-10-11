@@ -126,11 +126,11 @@
 <!ENTITY findCmd.accesskey "h">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Rechercher suivant">
+<!ENTITY findAgainCmd.label "Rechercher le suivant">
 <!ENTITY findAgainCmd.accesskey "n">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Rechercher précédent">
+<!ENTITY findPrevCmd.label "Rechercher le précédent">
 <!ENTITY findPrevCmd.accesskey "p">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">

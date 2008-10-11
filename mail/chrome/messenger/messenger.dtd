@@ -265,13 +265,13 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY searchMenu.label "Rechercher">
 <!ENTITY searchMenu.accesskey "R">
 
-<!ENTITY findMenu.label "Chercher">
+<!ENTITY findMenu.label "Rechercher">
 <!ENTITY findMenu.accesskey "h">
 <!ENTITY findCmd.label "Rechercher…">
 <!ENTITY findCmd.accesskey "R">
 <!ENTITY findCmd.key "f">
-<!ENTITY findAgainCmd.label "Rechercher suivant">
-<!ENTITY findAgainCmd.accesskey "e">
+<!ENTITY findAgainCmd.label "Rechercher le suivant">
+<!ENTITY findAgainCmd.accesskey "v">
 <!ENTITY findAgainCmd.key "g">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.key "g">
