@@ -41,6 +41,7 @@
 <!ENTITY aboutWarningCheckbox.label "Показывать это предупреждение в следующий раз">
 <!ENTITY filterPrefs.label "Фильтр:">
 <!ENTITY filterPrefs.accesskey "л">
+<!ENTITY focusFilter.key "f">
 <!ENTITY prefColumn.label "Имя настройки">
 <!ENTITY lockColumn.label "Состояние">
 <!ENTITY typeColumn.label "Тип">

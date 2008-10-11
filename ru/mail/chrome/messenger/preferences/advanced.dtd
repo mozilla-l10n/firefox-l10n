@@ -1,4 +1,5 @@
 <!ENTITY itemGeneral.label "Основные">
+<!ENTITY itemDisplay.label "Чтение и отображение">
 <!ENTITY itemUpdate.label "Обновления">
 <!ENTITY itemNetworking.label "Сеть и дисковое пространство">
 <!ENTITY itemCertificates.label "Сертификаты">
@@ -26,6 +27,8 @@
 <!ENTITY returnReceiptsInfo.label "Определите, как &brandShortName; должен обрабатывать уведомления о прочтении">
 <!ENTITY showReturnReceipts.label "Уведомления о прочтении…">
 <!ENTITY showReturnReceipts.accesskey "ч">
+<!ENTITY reading.caption "Чтение">
+<!ENTITY display.caption "Отображение">
 <!ENTITY autoCheck.label "Автоматически проверять наличие обновлений для:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "h">
