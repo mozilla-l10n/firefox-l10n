@@ -4,7 +4,7 @@
 <!ENTITY  popupExceptions.accesskey   "A">
 
 <!ENTITY  loadImages.label            "Grafiken laden">
-<!ENTITY  loadImages.accesskey        "G">
+<!ENTITY  loadImages.accesskey        "l">
 <!ENTITY  exceptions.label            "Ausnahmen…">
 <!ENTITY  exceptions.accesskey        "u">
 
@@ -22,7 +22,7 @@
 <!ENTITY  defaultFont.label           "Standard-Schriftart:">
 <!ENTITY  defaultFont.accesskey       "S">
 <!ENTITY  defaultSize.label           "Größe:">
-<!ENTITY  defaultSize.accesskey       "r">
+<!ENTITY  defaultSize.accesskey       "G">
 
 <!ENTITY  advancedFonts.label         "Erweitert…">
 <!ENTITY  advancedFonts.accesskey     "E">
