@@ -1,4 +1,5 @@
 <!ENTITY itemGeneral.label       "Allgemein">
+<!ENTITY itemDisplay.label       "Lesen &amp; Ansicht">
 <!ENTITY itemUpdate.label        "Update">
 <!ENTITY itemNetworking.label    "Netzwerk &amp; Speicherplatz">
 <!ENTITY itemCertificates.label  "Zertifikate">
@@ -33,6 +34,10 @@
 <!ENTITY returnReceiptsInfo.label      "Den Umgang mit Empfangsbestätigungen (MDN) regeln:">
 <!ENTITY showReturnReceipts.label      "Empfangsbestätigungen…">
 <!ENTITY showReturnReceipts.accesskey  "E">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption                "Lesen">
+<!ENTITY display.caption                "Ansicht">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Automatisch auf Updates überprüfen für:">
