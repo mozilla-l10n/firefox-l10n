@@ -20,7 +20,7 @@
 <!ENTITY showWhenDownloading.label     "Den Download-Manager anzeigen, wenn ein Download startet">
 <!ENTITY showWhenDownloading.accesskey "M">
 <!ENTITY closeWhenDone.label "Download-Manager schließen, wenn alle Downloads abgeschlossen sind">
-<!ENTITY closeWhenDone.accesskey "s">
+<!ENTITY closeWhenDone.accesskey "o">
 <!ENTITY saveTo.label "Alle Dateien in folgendem Ordner abspeichern:">
 <!ENTITY saveTo.accesskey "A">
 <!ENTITY chooseFolderWin.label        "Durchsuchen…">
