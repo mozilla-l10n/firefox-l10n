@@ -1,421 +1,256 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<title>Liudijimø tvarkytuvë</title>
+<?xml version="1.0" encoding="utf-8"?>
 
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1257">
-<link rel="stylesheet" href="chrome://help/locale/content_style.css" type="text/css"></head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+]>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>LiudijimÅ³ tvarkytuvÄ—</title>
+<link rel="stylesheet" href="helpFileLayout.css"
+  type="text/css"/>
+</head>
 <body>
-<a name="certs_first"></a>
-<div class="boilerplate">Ğá şinyno skyriø pateikë bendrija „Mozilla“. Tai
-tik informacija, kuri galëtø pagelbëti tiems, kas rûpinasi duomenø saugumu
-internete. Ji neaprëpia visø saugumo aspektø dirbant tinkle, taip pat nelaikytina
-bendrija „Mozilla“ saugumo internete rekomendacijomis.</div>
 
-<hr>
-<h1>Liudijimø tvarkytuvë</h1>
+<div class="boilerPlate">
+         Å is dokumentas tik pateikia jums informacijÄ…. Jis gali padÄ—ti Å¾engti savo privatumo ir asmeninÄ—s informacijos saugumo internete link. TaÄiau Å¡is dokumentas neaptaria visÅ³ internetiniÅ³ grÄ—smiÅ³ privatumui ir saugumui ir neteikia rekomendacijÅ³ apie tinkamÄ… anonimiÅ¡kumÄ… ir saugumÄ… internete.
+    </div>
 
-<p>Ğiame şinyno skyriuje aprağoma, kaip naudotis liudijimø tvarkytuve. Jei
-reikia daugiau informacijos apie liudijimus, şr. <a href="using_certs_help.html">Liudijimai</a>.
+<h1 id="certificate_manager">LiudijimÅ³ tvarkytuvÄ—</h1>
 
-</p><p>Jei norite atverti liudijimø tvarkytuvës langà, atlikite ğiuos veiksmus:
+<p>Å iame Å¾inyno skyriuje apraÅ¡oma, kaip naudotis liudijimÅ³ tvarkytuve. Jei reikia daugiau informacijos apie liudijimus, Å¾r. <a href="using_certs_help.html">liudijimÅ³ naudojimas</a>.</p>
 
-</p><ol>
-	<li>Atverkite meniu <i>Taisa</i> ir pasirinkite <i>Nuostatos</i>.
-   </li><li>Paşymëkite grupës <i>Privatumas ir saugumas</i>  pogrupá <i>Liudijimai</i>.
-      (Jei pogrupio <i>Liudijimai</i> nesimato, spustelëkite şenkliukà (pliusà
-      arba trikampëlá) ğalia grupës pavadinimo.) 
-   </li><li>Spustelëkite mygtukà <i>Tvarkyti liudijimus</i>.
-</li></ol>
+<p>
+      Jei norite atverti liudijimÅ³ tvarkytuvÄ—s langÄ…, atlikite Å¡iuos veiksmus:
+      <ol>
+  <li>Atverkite meniu <span class="mac">&brandShortName;</span>
+    <span class="noMac">Taisa</span> ir pasirinkite <i>Nuostatos</i>.</li>
+  <li>PaÅ¾ymÄ—kite grupÄ—s <i>Privatumas ir saugumas</i>  pogrupÄ¯ <i>Liudijimai</i>. (Jei pogrupio <i>Liudijimai</i> nesimato, dukart spragtelÄ—kite <i>Privatumas ir saugumas</i> Å¾enkliukÄ….)</li>
+  <li>SpragtelÄ—kite mygtukÄ… <i>Tvarkyti liudijimus</i>. </li></ol>
 
-<p>Liudijimø tvarkytuvës langas turi ğias korteles:
+<div class="contentsBox">Å iame skyriuje:
+  <ul>
+    <li><a href="#your_certificates">JÅ«sÅ³ liudijimai</a></li>
+    <li><a href="#other_peoples_certificates">KitÅ³ asmenÅ³ liudijimai</a></li>
+    <li><a href="#web_site_certificates">TinklalapiÅ³ liudijimai</a></li>
+    <li><a href="#authorities">LiudijimÅ³ Ä¯staigÅ³ liudijimai</a></li>
+  </ul>
+</div>
+</p>
+<h2 id="your_certificates">JÅ«sÅ³ liudijimai</h2>
 
-</p><p> <table summary="list of headings" cellpadding="4" cellspacing="2" bgcolor="#cccccc" width="324">
-<tbody><tr>
-<td class="inthissection">
-<p><a href="#My_Certificates">Jûsø liudijimai</a></p>
-<p><a href="#Other_Peoples_Certificates">Kitø asmenø</a></p>
-<p><a href="#Web_Site_Certificates">Svetainiø</a></p>
-<p><a href="#CA_Certificates">Liudijimø ástaigø</a></p>
-</td>
-</tr>
-</tbody></table>
+<p><a href="#certificate_manager">LiudijimÅ³ tvarkytuvÄ—s</a> lango kortelÄ—je <i>JÅ«sÅ³ liudijimai</i> rodomas narÅ¡yklÄ—je esanÄiÅ³ liudijimÅ³, paliudijanÄiÅ³ JÅ«sÅ³ tapatybÄ™, sÄ…raÅ¡as. Liudijimai sugrupuoti pagal juos iÅ¡davusias liudijimÅ³ Ä¯staigas (LÄ®): po LÄ®
+pavadinimo iÅ¡vardijami jos iÅ¡duoti liudijimai:</p>
 
-
-</p><p> </p>
-<hr>
-<a name="back_up_certificatesSDX"></a>
-<a name="backup_certificatesSDX"></a>
-<a name="import_certificatesSDX"></a>
-<a name="import_certificatesIDX"></a>
-<a name="backing_up_certificatesIDX"></a>
-<a name="certificates:backups_ofIDX"></a>
-<a name="certificates:importing_your_ownIDX"></a>
-<a name="smart_card_backupsSDX"></a>
-<a name="smart_cards:backupsSDX"></a>
-<a name="My_Certificates"></a><h2>Jûsø liudijimai</h2>
-
-<p> <a href="#certs_first">Liudijimø tvarkytuvës</a> lango kortelëje <i>Jûsø
-liudijimai</i>
-rodomas sàrağas narğyklëje esanèiø liudijimø, paliudijanèiø Jûsø tapatumà.
-Liudijimai sugrupuoti pagal juos iğdavusias liudijimø ástaigas (LÁ): po LÁ
-pavadinimo iğvardijami jos iğduoti liudijimai. </p><ul>
-	<li>Jei po LÁ pavadinimu nesimato liudijimø vardø, du kartus spustelëkite LÁ pavadinimà. 
-	</li><li>Liudijimas paşymimas spustelëjus jo vardà. 
-	</li><li>Jei norite paşymëti kelis liudijimus, spragsëdami jø vardus laikykite nuspaustà valdymo klaviğà. 
-</li></ul>
-
-<p>Paşymëtus liudijimus galima perşiûrëti, padaryti
-jø atsargines kopijas (archyvà), pağalinti juos. Tam reikia paspausti atitinkamà
-mygtukà:
-</p><ul>
-  <li><b><i>Perşiûra.</i></b> Atveriamas langas su iğsamia informacija apie
-    paşymëtus liudijimus.</li>
-  <li><b><i>Archyvuoti.</i></b>
-Paspaudus ğá mygtukà pradedamas paşymëtø liudijimø archyvavimas (t. y.
-atsarginës kopijos darymas). Atveriamas langas, kuriame reikia nustatyti
-slaptaşodá archyvo apsaugai. Atsarginës kopijos failas árağomas á parinktà diskà
-ir katalogà.</li>
-  <li><b><i>Pağalinti.</i></b> Ğalinami paşymëti liudijimai.</li>
+<ul>
+  <li>Jei po LÄ® pavadinimu nesimato liudijimÅ³ vardÅ³, du kartus spragtelÄ—kite LÄ® pavadinimÄ….</li>
+  <li>Liudijimas paÅ¾ymimas spragtelÄ—jus jo vardÄ….</li>
+  <li>Jei norite paÅ¾ymÄ—ti kelis liudijimus, spragsÄ—dami jÅ³ vardus, laikykite nuspaustÄ… valdymo (Control, Ctrl) klaviatÅ«ros klaviÅ¡Ä….</li>
 </ul>
 
-<p>Ğiuos veiksmus galima atlikti neşymint liudijimø:</p>
+<p>NorÄ—dami atlikti Å¡iuos veiksmus, pasirinkite vienÄ… ar daugiau liudijimÅ³ ir paspauskite kurÄ¯ nors iÅ¡ Å¾emiau iÅ¡vardintÅ³ mygtukÅ³:</p>
+
 <ul>
+  <li><strong>PerÅ¾iÅ«ra</strong>: Atveriamas langas su iÅ¡samia informacija apie
+    paÅ¾ymÄ—tus liudijimus.    </li>
+  <li><strong>Archyvuoti</strong>: Paspaudus Å¡Ä¯ mygtukÄ… pradedamas paÅ¾ymÄ—tÅ³ liudijimÅ³ archyvavimas (t. y. atsarginÄ—s kopijos darymas). Atveriamas langas, kuriame reikia nustatyti slaptaÅ¾odÄ¯ archyvo apsaugai. AtsarginÄ—s kopijos failas Ä¯raÅ¡omas Ä¯ parinktÄ… diskÄ… ir katalogÄ….</li>
+  <li><strong>PaÅ¡alinti</strong>: Å alinami paÅ¾ymÄ—ti liudijimai.</li>
+</ul>
 
-  <li><b><i>Importuoti.</i></b> Importuojamas vieno ar keliø liudijimø
-    archyvas (atsarginës kopijos failas). Spustelëjus mygtukà <i>Importuoti</i>,
-    liudijimø tvarkytuvë pirmiausia paprağys parinkti kelià iki archyvo: diskà,
-    katalogà ir failà. Liudijimø archyvo failai paprastai turi prievardá <tt>.p12</tt>,
-    pavyzdşiui <tt>Liudijimai.p12</tt>. Kai parinksite importuojamà failà,
-    liudijimø tvarkytuvë paprağys pasirinkti slaptaşodá, kuris buvo parinktas
-    archyvuojant importuojamus liudijimus.</li>
+<p>Å iuos veiksmus galima atlikti neÅ¾ymint liudijimÅ³:</p>
 
-  <li><b><i>Arch. viskà.</i></b> Padaroma atsarginë kopija (archyvas) visø
-    liudijimø, laikomø <a href="glossary.html#software_security_device">programinëje
-    saugumo priemonëje</a>. 
+<ul>
+  <li><strong>Importuoti</strong>: Importuojamas vieno ar keliÅ³ liudijimÅ³ archyvas (atsarginÄ—s kopijos failas). SpragtelÄ—jus mygtukÄ… <i>Importuoti</i>, liudijimÅ³ tvarkytuvÄ— pirmiausia papraÅ¡ys parinkti keliÄ… iki archyvo: diskÄ…, aplankÄ… ir failÄ…. LiudijimÅ³ archyvo failai paprastai turi prievardÄ¯ <tt>.p12</tt>pavyzdÅ¾iui <tt>Liudijimai.p12</tt>. Kai parinksite importuojamÄ… failÄ…, liudijimÅ³ tvarkytuvÄ— papraÅ¡ys Ä¯vesti slaptaÅ¾odÄ¯, kuris buvo parinktas archyvuojant importuojamus liudijimus.</li>
+  <li><strong>Archyvuoti viskÄ…</strong>: Padaroma visÅ³ liudijimÅ³, laikomÅ³ <a href="glossary.html#software_security_device">programinÄ—je saugumo priemonÄ—je atsarginÄ— kopija (archyvas)</a>.
 
-<p><b><i>Pastaba. Intelektualiosiose kortelëse saugomø liudijimø atsarginës
-kopijos padaryti negalima.</i></b>
- Jei paşymëtumëte vienà ar kelis liudijimus, laikomus intelektualiojoje kortelëje
-arba kitame iğoriniame saugumo árenginyje, ir spustelëtumëte mygtukà <i>Archyvuoti</i> arba <i>Arch</i>.
-    <span style="font-style: italic;">viskà</span>, tai á atsarginiø kopijø failà (archyvà) nebûtø átrauktas në vienas
-iğ ğiø liudijimø. Atsargines kopijas galima padaryti tik tø liudijimø, kurie
-laikomi narğyklës vidinëje programinëje saugumo priemonëje. </p></li></ul>
-  
+    <p><strong>Pastaba</strong>: LustinÄ—se kortelÄ—se saugomÅ³ liudijimÅ³ atsarginÄ—s
+kopijos padaryti negalima. Jei paÅ¾ymÄ—tumÄ—te vienÄ… ar kelis liudijimus, laikomus lustinÄ—je kortelÄ—je arba kitame iÅ¡oriniame saugumo Ä¯renginyje, ir spragtelÄ—tumÄ—te mygtukÄ… <i>Archyvuoti</i> arba <i>Archyvuoti viskÄ…</i>, tai Ä¯ atsarginiÅ³ kopijÅ³ failÄ… (archyvÄ…) nebÅ«tÅ³ Ä¯trauktas nÄ— vienas iÅ¡ Å¡iÅ³ liudijimÅ³. Atsargines kopijas galima padaryti tik tÅ³ liudijimÅ³, kurie laikomi narÅ¡yklÄ—s vidinÄ—je programinÄ—je saugumo priemonÄ—je.</p>
+  </li>
+</ul>
 
-<p> </p>
-<hr><a name="Choose_a_Certificate_Backup_Password"></a>
-<h3>Liudijimø atsarginës kopijos slaptaşodis</h3>
+<h3 id="choose_a_certificate_backup_password">LiudijimÅ³ atsarginÄ—s kopijos slaptaÅ¾odis</h3>
 
-<p>Liudijimø atsarginës kopijos (archyvo) slaptaşodis apsaugo vienà ar kelis
-á archyvà átrauktus liudijimus (á archyvà galima átraukti liudijimus, iğvardytus
-liudijimø tvarkytuvës lango kortelëje <a href="#My_Certificates">Jûsø
+<p>LiudijimÅ³ atsarginÄ—s kopijos (archyvo) slaptaÅ¾odis apsaugo vienÄ… ar kelis
+Ä¯ archyvÄ… Ä¯trauktus liudijimus (Ä¯ archyvÄ… galima Ä¯traukti liudijimus, iÅ¡vardytus
+liudijimÅ³ tvarkytuvÄ—s lango kortelÄ—je <a href="#My_Certificates">JÅ«sÅ³
 liudijimai</a>).</p>
 
-<p>Ğá slaptaşodá liudijimo tvarkytuvë paprağys pasirinkti
-sukuriant liudijimø atsarginæ kopijà ir paprağys já surinkti, kai bandysite
-importuoti padarytos atsarginës kopijos failà.</p>
+<p>Å Ä¯ slaptaÅ¾odÄ¯ liudijimo tvarkytuvÄ— papraÅ¡ys pasirinkti
+sukuriant liudijimÅ³ atsarginÄ™ kopijÄ… ir papraÅ¡ys jÄ¯ Ä¯vesti, kai bandysite
+importuoti padarytos atsarginÄ—s kopijos failÄ….</p>
 
 <ul>
-<li><b><i>Liudijimø atsarginës kopijos slaptaşodis.</i></b> Ğiame lauke
-  surinkite slaptaşodá, kuris apsaugos archyvuojamus liudijimus.
-
-</li><li><b><i>Liudijimø atsarginës kopijos slaptaşodis (pakartoti).</i></b>
-  Surinkite atsarginës kopijos slaptaşodá dar kartà, lygiai toká, koká surinkote lauke
-  <i>Liudijimø atsarginës kopijos slaptaşodis</i>. Jei bent vienas surinktas rağmuo bus kitoks, negalësite paspausti mygtuko
-  <i> Gerai</i> (jis bus neveiksnus). Tuomet reikia surinkti slaptaşodá dar kartà. 
-</li></ul>
-
-<p>Jei kas nors kitas gautø Jûsø liudijimø atsarginës kopijos failà ir sëkmingai
-importuotø já á savo narğyklæ atspëjæs slaptaşodá, tai tas asmuo, apsimetæs
-Jumis, galëtø patekti á kokià nors registravimosi reikalaujanèià svetainæ
-arba iğsiøsti laiğkus Jûsø vardu. Tokie kito asmens veiksmai gali bûti labai
-pavojingi, pavyzdşiui, jei jis, apsimetæs Jumis, ims atlikinëti atlikti Jûsø banko
-sàskaitø operacijas arba siøsti skaitmeniğkai pasirağytus el. laiğkus. Todël labai svarbu parinkti 
-toká slaptaşodá, kurá bûtø sunku atspëti.
-Slaptaşodşio pasirinkimo lange yra <i> slaptaşodşio kokybës matavimas</i>.
-Èia galima apytikriai suşinoti, ar parinktas slaptaşodis yra patikimas.
-Slaptaşodşio kokybë tikrinama remiantis pagrindiniais
-rodikliais: slaptaşodşio ilgiu, maşøjø ir didşiøjø raidşiø, skaitmenø
-ir specialiøjø rağmenø vartojimu. Deja, pasirinkus net geriausios kokybës
-slaptaşodá, negalima bûti tikram, kad jo niekas nesugebës atspëti.</p>
-<p>
-<br>
-Daugiau medşiagos apie tai, kaip pasirinkti gerà slaptaşodá, galima rasti svetainëje <a href="http://home.netscape.com/security/basics/passwords.html" target="_blank">Gero
-slaptaşodşio parinkimas</a> (anglø kalba). 
-</p>
-<p>Kad nepamirğtumëte slaptaşodşio, uşsirağykite já ir laikykite rağtelá saugioje vietoje. Jei
-slaptaşodá pamirğite, negalësite importuoti á atsarginæ kopijà átrauktø
-liudijimø.</p>
-
-<p> </p>
-<hr><a name="Delete_My_Certificate"></a>
-<h3>Jûsø liudijimo ğalinimas</h3>
-
-<p>Prieğ ğalindami kortelëje <a href="#My_Certificates">Jûsø liudijimai</a>
-esantá nebegaliojantá liudijimà, gerai pagalvokite, ar jo neprireiks ateity,
-pavyzdşiui, ar nenorësite kada nors perskaityti senus laiğkus, uşğifruotus
-ğá liudijimà atitinkanèiu privaèiuoju raktu. </p>
-
-<p> </p>
-<hr><a name="Other_Peoples_Certificates"></a>
-<h2>Kitø asmenø liudijimai</h2>
-
-<p><a href="#certs_first">Liudijimø tvarkytuvës</a> lango kortelëje <i>Kitø
-asmenø</i> rodomas kitø asmenø tapatumà patvirtinanèiø el. pağto liudijimø
-sàrağas.</p><p>Kai atsiunèiamas laiğkas su skaitmeniniu parağu, kartu su laiğku
-gaunamas ir ğifravimo liudijimas. Liudijimø tvarkytuvë já
-importuoja ir átraukia á kitø asmenø liudijimø sàrağà. Naudojantis
-tuo kito asmens el. pağto liudijimu bus galima jam siøsti ğifruotus laiğkus.
-
-</p><p>Kitø asmenø liudijimai iğvardyti po juos iğdavusiø liudijimø ástaigø (LÁ) pavadinimais. 
-
-</p><ul>
-	<li>Jei po LÁ pavadinimu nesimato liudijimø vardø,
-      du kartus spustelëkite LÁ pavadinimà. 
-	</li><li>Liudijimas paşymimas spustelëjus jo vardà. 
-	</li><li>Jei norite paşymëti kelis liudijimus, spragsëdami jø vardus laikykite nuspaustà valdymo klaviğà. 
-</li></ul>
-
-<p>Paşymëjus vienà ar kelis liudijimus, galima atlikti ğiuo veiksmus
-(paspaudus atitinkamà mygtukà):
-
-</p><ul>
-	<li><b><i>Perşiûra.</i></b> Atveriamas langas su iğsamia informacija apie
-    paşymëtus liudijimus.
-
-	</li><li><b><i>Pağalinti.</i></b> Ğalinami paşymëti liudijimai.
-</li></ul>
-
-<p> </p>
-<hr><a name="Delete_Email_Certificate"></a>
-<h3>El. pağto liudijimo ğalinimas</h3>
-
-<p>Prieğ ğalindami kortelëje <a href="#Other_Peoples_Certificates">Kitø
-asmenø</a>
-esantá kito asmens liudijimà, gerai pagalvokite, ar jo neprireiks ateity,
-pavyzdşiui, ar nenorësite kada nors iğsiøsti tam asmeniui ğifruotà laiğkà
-arba patikrinti iğ to asmens gauto laiğko skaitmeniná parağà.
-
-</p><p> </p>
-<hr><a name="Web_Site_Certificates"></a>
-<h2>Svetainiø liudijimai</h2>
-
-<p>Svetainiø tapatumà patvirtinanèiø liudijimø sàrağas rodomas liudijimø tvarkytuvës lango 
-kortelëje <i>Svetainiø</i>.</p><p>Svetainiø liudijimai iğvardyti po juos iğdavusiø liudijimø 
-ástaigø (LÁ)  pavadinimais. </p>
-<ul>
-	<li>Jei po LÁ pavadinimu nesimato liudijimø vardø,
-      du kartus spustelëkite LÁ pavadinimà. 
-	</li><li>Liudijimas paşymimas spustelëjus jo vardà. 
-	</li><li>Jei norite paşymëti kelis liudijimus, spragsëdami jø vardus laikykite paspaustà valdymo klaviğà. 
-</li></ul>
-
-<p>Jei reikia atlikti kurá nors iğ şemiau iğvardytø veiksmø, paşymëkite vienà
-ar daugiau liudijimø ir spustelëkite atitinkamà mygtukà:
-
-</p>
-<ul>
-	<li><b><i>Perşiûra.</i></b> Atveriamas langas su iğsamia informacija apie
-    paşymëtus liudijimus.</li>
-    <li><b><i>Taisa.</i></b> Paspaudus ğá mygtukà galima perşiûrëti ir parinkti pasitikëjimo
-      kiekvienu paşymëtu liudijimu nuostatas. Ğiose nuostatose nurodoma, ar
-      liudijimas bus laikomas patikimu, kai svetainë juo patvirtina savo
-      tapatumà.</li>
-    <li><b><i>Pağalinti.</i></b> Ğalinami paşymëti liudijimai.</li>
+  <li><strong>LiudijimÅ³ atsarginÄ—s kopijos slaptaÅ¾odis</strong>: Å iame laukelyje surinkite slaptaÅ¾odÄ¯, kuris apsaugos archyvuojamus liudijimus.</li>
+  <li><strong>LiudijimÅ³ atsarginÄ—s kopijos slaptaÅ¾odis (pakartoti)</strong>: Surinkite atsarginÄ—s kopijos slaptaÅ¾odÄ¯ dar kartÄ…, lygiai tokÄ¯, kokÄ¯ surinkote lauke <i>LiudijimÅ³ atsarginÄ—s kopijos slaptaÅ¾odis</i>. Jei bent vienas surinktas raÅ¡muo bus kitoks, negalÄ—site paspausti mygtuko <i> Gerai</i> (jis bus neveiksnus). Tuomet reikia surinkti slaptaÅ¾odÄ¯ dar kartÄ….</li>
 </ul>
 
-<p> </p>
-<hr><a name="Edit_Web_Site_Certificate_Settings"></a>
+<p>Jei kas nors kitas gautÅ³ JÅ«sÅ³ liudijimÅ³ atsarginÄ—s kopijos failÄ… ir sÄ—kmingai importuotÅ³ jÄ¯ Ä¯ savo narÅ¡yklÄ™ atspÄ—jÄ™s slaptaÅ¾odÄ¯, tai tas asmuo, apsimetÄ™s Jumis, galÄ—tÅ³ patekti Ä¯ kokiÄ… nors registravimosi reikalaujanÄiÄ… svetainÄ™ arba iÅ¡siÅ³sti laiÅ¡kus JÅ«sÅ³ vardu. Tokie kito asmens veiksmai gali bÅ«ti labai pavojingi, pavyzdÅ¾iui, jei jis, apsimetÄ™s Jumis, ims atlikinÄ—ti atlikti JÅ«sÅ³ banko sÄ…skaitÅ³ operacijas arba siÅ³sti skaitmeniÅ¡kai pasiraÅ¡ytus el. laiÅ¡kus.</p>
 
-<h3>Pasitikëjimo svetainës liudijimu nuostatos</h3>
- 
-<p>Paşymëjus kortelës <a href="#Web_Site_Certificates">Svetainiø</a> sàrağe
-esantá liudijimà ir spustelëjus mygtukà <i>Taisa</i>, atveriamas langas <i>Pasitikëjimo
-svetainës liudijimu nuostatos</i>. Jame nurodoma, ar narğyklë turi pasitikëti
-paşymëtu liudijimu, kai reikia patvirtinti svetainës tapatumà ir nustatyti ğifruotà
-ryğá su ja.
+<p>TodÄ—l labai svarbu parinkti tokÄ¯ slaptaÅ¾odÄ¯, kurÄ¯ bÅ«tÅ³ sunku atspÄ—ti. SlaptaÅ¾odÅ¾io pasirinkimo lange yra <i> slaptaÅ¾odÅ¾io kokybÄ—s matavimas</i>. ÄŒia galima apytikriai suÅ¾inoti, ar parinktas slaptaÅ¾odis yra patikimas. SlaptaÅ¾odÅ¾io kokybÄ— tikrinama remiantis pagrindiniais rodikliais: slaptaÅ¾odÅ¾io ilgiu, maÅ¾Å³jÅ³ ir didÅ¾iÅ³jÅ³ raidÅ¾iÅ³, skaitmenÅ³ ir specialiÅ³jÅ³ raÅ¡menÅ³ vartojimu. Deja, pasirinkus net geriausios kokybÄ—s slaptaÅ¾odÄ¯, negalima bÅ«ti tikram, kad jo niekas nesugebÄ—s atspÄ—ti.</p>
 
-</p><p>Minëtame dialogo lange yra tokie elementai:</p>
+<p>NorÄ—dami daugiau suÅ¾inoti apie tai, kaip pasirinkti gerÄ… slaptaÅ¾odÄ¯, skaitykite skyrelyje <a href="passwords_help.xhtml#choosing_a_good_password">Gero slaptaÅ¾odÅ¾io pasirinkimas</a>.</p>
+
+<p>Kad nepamirÅ¡tumÄ—te slaptaÅ¾odÅ¾io, uÅ¾siraÅ¡ykite jÄ¯ ir laikykite raÅ¡telÄ¯ saugioje vietoje. Jei slaptaÅ¾odÄ¯ pamirÅ¡ite, negalÄ—site importuoti Ä¯ atsarginÄ™ kopijÄ… Ä¯trauktÅ³
+liudijimÅ³.</p>
+
+<h3 id="delete_your_certificates">JÅ«sÅ³ liudijimÅ³ Å¡alinimas</h3>
+
+<p>PrieÅ¡ Å¡alindami kortelÄ—je <a href="#your_certificates">JÅ«sÅ³ liudijimais</a>esantÄ¯ nebegaliojantÄ¯ liudijimÄ…, gerai pagalvokite, ar jo neprireiks ateity, pavyzdÅ¾iui, ar nenorÄ—site kada nors perskaityti senus laiÅ¡kus, uÅ¾Å¡ifruotus
+Å¡Ä¯ liudijimÄ… atitinkanÄiu privaÄiuoju raktu.</p>
+
+<h2 id="other_peoples_certificates">KitÅ³ asmenÅ³ liudijimai</h2>
+
+<p><a href="#certificate_manager">LiudijimÅ³ tvarkytuvÄ—s</a> lango kortelÄ—je <i>KitÅ³ asmenÅ³</i> rodomas kitÅ³ asmenÅ³ tapatybÄ™ patvirtinanÄiÅ³ el. paÅ¡to liudijimÅ³ sÄ…raÅ¡as.</p>
+
+<p>Kai atsiunÄiamas laiÅ¡kas su skaitmeniniu paraÅ¡u, kartu su laiÅ¡ku gaunamas ir Å¡ifravimo liudijimas. LiudijimÅ³ tvarkytuvÄ— jÄ¯ automatiÅ¡kai importuoja ir Ä¯traukia Ä¯ kitÅ³ asmenÅ³ liudijimÅ³ sÄ…raÅ¡Ä…. Naudojantis tuo kito asmens el. paÅ¡to liudijimu bus galima jam siÅ³sti Å¡ifruotus laiÅ¡kus.</p>
+
+<p>KitÅ³ asmenÅ³ liudijimai iÅ¡vardyti po juos iÅ¡davusiÅ³ liudijimÅ³ Ä¯staigÅ³ (LÄ®) pavadinimais:</p>
+
 <ul>
-	<li><b><i>Liudijimas „liudijimo vardas“ iğduotas:</i></b> Po dvitağkio
-      pateikiama informacija apie liudijimà iğdavusià <a href="glossary.html#certificate_authority">liudijimø
-      ástaigà</a>.</li>
-      <li><b><i>Pasitikëjimo nuostatos:</i></b></li>
-<ul>
-	<li><b><i>Pasitikëti ğio liudijimo autentiğkumu.</i></b> Jei paşymësite
-      ğá langelá, liudijimø tvarkytuvë pasitikës ğiuo liudijimu, kai reikës
-      patvirtinti svetainës tapatumà arba nustatyti ğifruotà ryğá su ja.
-      Kai bandysite aplankyti svetainæ, kurios liudijimo autentiğkumu
-      pasitikima, narğyklë, prieğ parodydama svetainës tinklalapá,
-      gali pateikti keletà áspëjimø.
-
-	</li><li><i><b>Nepasitikëti ğio liudijimo autentiğkumu.</b></i> Jei paşymësite
-      ğá langelá, liudijimø tvarkytuvë nebepasitikës ğiuo liudijimu, kai
-      juo bus bandoma patvirtinti svetainës tapatumà arba nustatyti ğifruotà
-      ryğá su ja. Kai bandysite aplankyti svetainæ, kurios liudijimo autentiğkumu
-      nepasitikima, narğyklë, prieğ parodydama svetainës tinklalapá,
-      gali pateikti keletà áspëjimø.</li>
-</ul>
-<li><b><i>Taisyti pasitikëjimo LÁ nuostatas.</i></b> Spustelëkite ğá
-  mygtukà, jei norite parinkti liudijimà iğdavusios LÁ (liudijimø
-  ástaigos) pasitikëjimo nuostatas. Èia galima nurodyti, kokiomis LÁ iğduotø liudijimø kategorijomis
-  pasitikima. Pavyzdşiui, galima parinkti, kad narğyklë pasitikëtø visais
-  svetainiø liudijimais, kuriuos iğdavë ği LÁ.</li>
+  <li>Jei po LÄ® pavadinimu nesimato liudijimÅ³ pavadinimÅ³, du kartus spragtelÄ—kite LÄ® pavadinimÄ….</li>
+  <li>Liudijimas paÅ¾ymimas spragtelÄ—jus jo pavadinimÄ….</li>
+  <li>Jei norite paÅ¾ymÄ—ti kelis liudijimus, spragsÄ—dami jÅ³ pavadinimus laikykite nuspaustÄ… valdymo (Ctrl) klaviÅ¡Ä….</li>
 </ul>
 
-<p>Parinkæ nuostatas spustelëkite mygtukà <i>Gerai</i>.</p>
-<p> </p>
+<p>PaÅ¾ymÄ—jus vienÄ… ar kelis liudijimus ir paspaudus atitinkamÄ… mygtukÄ…, galima atlikti Å¡iuo veiksmus:</p>
 
-<hr><a name="Delete_Web_Site_Certificate"></a>
-<h3>Svetainës liudijimo ğalinimas</h3>
-
-<p>Prieğ ğalindami kortelës <a href="#Web_Site_Certificates">Svetainiø</a> sàrağe
-esantá svetainës liudijimà, gerai pagalvokite, ar jo neprireiks ateity,
-pavyzdşiui, ar nenorësite kada nors panaudoti ğá liudijimà, kai reikës patvirtinti
-svetainës tapatumà arba nustatyti ğifruotà ryğá su ja.
- 
-</p><p> </p>
-<hr>
-<a name="importing_a_certificate_chainSDX"></a>
-<a name="importing_intermediate_CA certificatesSDX"></a>
-<a name="certificates:importing_chained_CAIDX"></a>
-<a name="certificates:intermediate_CAIDX"></a>
-<a name="CA_Certificates"></a>
-<h2>Liudijimø ástaigø liudijimai</h2>
-
-<p><a href="#certs_first">Liudijimø tvarkytuvës</a> kortelëje <i>Liudijimø ástaigø</i>
-rodomas narğyklëje turimas sàrağas liudijimø, patvirtinanèiø <a href="glossary.html#certificate_authority">liudijimø
-ástaigø (LÁ)</a> tapatumà.</p><p>Liudijimø ástaigø liudijimai iğvardyti po juos iğdavusiø LÁ  pavadinimais.
-
-</p><ul>
-	<li>Jei po LÁ pavadinimu nesimato liudijimø vardø,
-      du kartus spustelëkite LÁ pavadinimà. 
-	</li><li>LÁ liudijimas paşymimas spustelëjus jo vardà. 
-	</li><li>Jei norite paşymëti kelis liudijimus, spragsëdami jø vardus laikykite paspaustà valdymo klaviğà. 
-</li></ul>
-
-
-<p>Jei reikia atlikti kurá nors iğ şemiau iğvardytø veiksmø, paşymëkite vienà
-ar daugiau liudijimø ir spustelëkite atitinkamà mygtukà:</p>
 <ul>
-	<li><b><i>Perşiûra.</i></b> Atveriamas langas su iğsamia informacija apie
-    paşymëtus liudijimus.
-
-	</li><li><b><i>Taisa.</i></b> Paspaudus ğá mygtukà galima perşiûrëti ir parinkti pasitikëjimo
-      kiekvienu paşymëtu liudijimu nuostatas. Èia nurodoma, kokiomis ğios
-      liudijimø ástaigos iğduotø liudijimø rûğimis narğyklë turi
-      pasitikëti.
-
-	</li><li><b><i>Pağalinti.</i></b> Ğalinami paşymëti liudijimai.
-</li></ul>
-
-<p>Tam, kad bûtø pasitikima visais LÁ <a href="glossary.html#certificate_chain">liudijimø
-grandinës</a> liudijimais, pakanka parinkti tik vyriausiosios LÁ liudijimo
-nuostatas.</p><p>Liudijimø grandinë importuojama spustelëjus atitinkamà nuorodà
-LÁ svetainëje. Importavus grandinæ ir paşymëjus vyriausiojo liudijimo vardà liudijimø tvarkytuvës lango kortelëje
-<i>Liudijimø ástaigø</i>, galima parinkti pasitikëjimo vyriausiuoju liudijimu nuostatas.</p>
-<p>Vyriausioji ir visos tarpinës LÁ iğvardijamos şemiau tos paèios ástaigos pavadinimo. Vyriausiasis 
-liudijimas yra tos liudijimø ástaigos, kuri ávardija save kaip savo liudijimo iğdavëjà.</p>
-<p>Jei á narğyklæ atsiøsite tarpinës LÁ liudijimà, priklausantá liudijimø
-grandinei, kurios vyriausiosios liudijimo ástaigos liudijimai paşymëti kaip
-patikimi, tai pasitikëjimo tarpinës LÁ liudijimu nuostatø iğ naujo parinkti
-nereikës: jos bus paveldëtos iğ vyriausiosios LÁ.</p>
-
-<p> </p>
-
-<hr><a name="Edit_CA_Certificate_Settings"></a>
-<h3>Pasitikëjimo LÁ liudijimu nuostatos</h3>
-
-<p>Paşymëjus liudijimø tvarkytuvës lango kortelës <a href="#CA_Certificates">Liudijimø
-ástaigø</a> sàrağe esantá LÁ liudijimà ir paspaudus mygtukà <i>Taisa</i>,
-atveriamas langas <i>Pasitikëjimo LÁ liudijimu nuostatos</i>. Jame nurodoma,
-kokiomis LÁ iğduotø liudijimø kategorijomis narğyklë turi pasitikëti. Jei pağalinsite
-visø parinkèiø şymëjimà, liudijimø tvarkytuvë nebepasitikës ğios LÁ iğduotais
-liudijimais.</p><p>Minëtame lange galima parinkti ğias nuostatas:
-</p><ul>
-<li><b><i>Ğis liudijimas gali patvirtinti svetainiø tapatumà.</i></b> Jei paşymësite
-  ğá langelá, liudijimø tvarkytuvë pradës pasitikëti liudijimø ástaigos
-  iğduotais liudijimais, kurie patvirtina svetainiø tapatumà ir naudojami
-  nustatant ğifruotà ryğá su svetainëmis. Jei langelio şymëjimà pağalinsite,
-  liudijimø tvarkytuvë nebepasitikës LÁ iğduotais liudijimais, patvirtinanèiais
-  svetainiø tapatumà.</li>
-<li><b><i>Ğis liudijimas gali patvirtinti el. pağto vartotojø tapatumà.</i></b>
-  Jei ğis langelis paşymëtas, liudijimø tvarkytuvë pasitikës LÁ iğduotais
-  liudijimais, skirtais laiğkø ğifravimui arba skaitmeniniams parağams. Jei
-  langelio şymëjimà pağalinsite, liudijimø tvarkytuvë nebepasitikës ğios
-  LÁ iğduotais el. pağto liudijimais.</li>
-<li><i><b>Ğis liudijimas gali patvirtinti programinës árangos gamintojø
-  tapatumà.</b></i> Jei ğis langelis paşymëtas, liudijimø tvarkytuvë
-  pasitikës LÁ iğduotais liudijimais, skirtais programinës árangos gamintojø
-  tapatumui patvirtinti. Jei langelio şymëjimà pağalinsite, liudijimø
-  tvarkytuvë nebepasitikës ğios LÁ iğduotais tokios rûğies liudijimais.</li>
+  <li><strong>PerÅ¾iÅ«ra</strong>: Atveriamas langas su iÅ¡samia informacija apie     paÅ¾ymÄ—tus liudijimus.</li>
+  <li><strong>PaÅ¡alinti</strong>: Å alinami paÅ¾ymÄ—ti liudijimai.</li>
 </ul>
 
-<p>Parinkæ nuostatas, spustelëkite mygtukà <i>Gerai</i>.</p>
-<p> </p>
+<h3 id="delete_email_certificates">El. paÅ¡to liudijimÅ³ Å¡alinimas</h3>
 
-<hr><a name="Delete_CA_Certificate"></a>
-<h3>LÁ liudijimo ğalinimas</h3>
+<p>PrieÅ¡ Å¡alindami kortelÄ—je <a href="#other_peoples_certificates">KitÅ³ asmenÅ³</a> esantÄ¯ kito asmens liudijimÄ…, gerai pagalvokite, ar jo neprireiks ateity, pavyzdÅ¾iui, ar nenorÄ—site kada nors iÅ¡siÅ³sti tam asmeniui Å¡ifruotÄ… laiÅ¡kÄ… arba patikrinti iÅ¡ to asmens gauto laiÅ¡ko skaitmeninÄ¯ paraÅ¡Ä….</p>
 
-<p>Prieğ ğalindami liudijimø tvarkytuvës lango kortelës <a href="#CA_Certificates">Liudijimø
-ástaigø</a> sàrağe esantá LÁ liudijimà, gerai pagalvokite, ar jo neprireiks
-ateity tikrinant LÁ iğduotus liudijimus. Jei pağalinsite vienintelá turimà
-galiojantá LÁ liudijimà, liudijimø tvarkytuvë nebepasitikës jokiais
-liudijimais, iğduotais ğios LÁ. 
+<h2 id="web_site_certificates">SvetainiÅ³ liudijimai</h2>
 
-</p><p> </p>
-<hr><a name="Device_Manager:options"></a>
-<a name="Security_Devices"></a>
-<h1>Saugumo priemoniø tvarkytuvë</h1>
+<p>SvetainiÅ³ tapatumÄ… patvirtinanÄiÅ³ liudijimÅ³ sÄ…raÅ¡as rodomas liudijimÅ³ tvarkytuvÄ—s lango kortelÄ—je <i>SvetainiÅ³</i>.</p>
 
-<p>Èia aprağomas saugumo priemoniø tvarkytuvës langas ir nuostatos, kurias
-galima jame parinkti. Daugiau informacijos apie saugumo priemoniø tvarkytuvës
-naudojimà galima rasti skyriuje <a href="using_certs_help.html#using_certs_devices">Intelektualiøjø
-korteliø ir kitø saugumo priemoniø tvarkymas</a>. </p>
+<p>SvetainiÅ³ liudijimai iÅ¡vardyti po juos iÅ¡davusiÅ³ liudijimÅ³ Ä¯staigÅ³ (LÄ®)  pavadinimais.:</p>
 
-<p>Jei saugumo priemoniø tvarkytuvës langas dar neatvertas, atlikite ğiuos
+<ul>
+  <li>Jei po LÄ® pavadinimu nesimato liudijimÅ³ vardÅ³, du kartus spragtelÄ—kite LÄ® pavadinimÄ….</li>
+  <li>Liudijimas paÅ¾ymimas spragtelÄ—jus jo pavadinimÄ….</li>
+  <li>Jei norite paÅ¾ymÄ—ti kelis liudijimus, spragsÄ—dami jÅ³ pavadinimus laikykite nuspaustÄ… valdymo (Ctrl) klaviÅ¡Ä….</li>
+</ul>
+
+<p>PaÅ¾ymÄ—jus vienÄ… ar kelis liudijimus ir paspaudus atitinkamÄ… mygtukÄ…, galima atlikti Å¡iuo veiksmus:</p>
+
+<ul>
+  <li><strong>PerÅ¾iÅ«ra</strong>: Atveriamas langas su iÅ¡samia informacija apie     paÅ¾ymÄ—tus liudijimus.</li>
+  <li><strong>Taisa</strong>: Paspaudus Å¡Ä¯ mygtukÄ… galima perÅ¾iÅ«rÄ—ti ir parinkti pasitikÄ—jimo kiekvienu paÅ¾ymÄ—tu liudijimu nuostatas. Å iose nuostatose nurodoma, ar liudijimas bus laikomas patikimu, kai svetainÄ— juo patvirtina savo tapatumÄ….</li>
+  <li><strong>PaÅ¡alinti</strong>: Å alinami paÅ¾ymÄ—ti liudijimai.</li>
+</ul>
+
+<h3 id="edit_web_site_certificate_trust_settings">PasitikÄ—jimo tinklalapio liudijimu nuostatos</h3>
+
+<p>PaÅ¾ymÄ—jus kortelÄ—s <a href="#web_site_certificates">TinklalapiÅ³</a> sÄ…raÅ¡e
+esantÄ¯ liudijimÄ… ir spragtelÄ—jus mygtukÄ… <i>Taisa</i>, atveriamas langas <q>PasitikÄ—jimo
+svetainÄ—s liudijimu nuostatos</q>. Jame nurodoma, ar narÅ¡yklÄ— turi pasitikÄ—ti
+paÅ¾ymÄ—tu liudijimu, kai reikia patvirtinti svetainÄ—s tapatumÄ… ir nustatyti Å¡ifruotÄ…
+ryÅ¡Ä¯ su ja.</p>
+
+<p>MinÄ—tame dialogo lange yra tokie elementai:</p>
+
+<ul>
+  <li><strong>LiudijimÄ… <q><em>liudijimo pavadinimas</em></q> suteikÄ— </strong>: pateikiama informacija apie liudijimÄ… iÅ¡davusiÄ… <a href="glossary.xhtml#certificate_authority">liudijimÅ³ Ä¯staigÄ…</a>.</li>
+  <li><strong>PasitikÄ—jimo nuostatÅ³ taisa</strong>:
+    <ul>
+      <li><strong>PasitikÄ—ti Å¡io liudijimo autentiÅ¡kumu</strong>: Jei paÅ¾ymÄ—site Å¡Ä¯ langelÄ¯, liudijimÅ³ tvarkytuvÄ— pasitikÄ—s Å¡iuo liudijimu, kai reikÄ—s patvirtinti tinklalapio tapatumÄ… arba nustatyti Å¡ifruotÄ… ryÅ¡Ä¯ su ja. Kai bandysite aplankyti svetainÄ™, kurios liudijimo autentiÅ¡kumu pasitikima, narÅ¡yklÄ—, prieÅ¡ parodydama tinklalapÄ¯, gali pateikti keletÄ… Ä¯spÄ—jimÅ³.</li>
+      <li><strong>NepasitikÄ—ti Å¡io liudijimo autentiÅ¡kumu</strong>:
+        PaÅ¾ymÄ—jus Å¡Ä¯ langelÄ¯, liudijimÅ³ tvarkytuvÄ— nebepasitikÄ—s Å¡iuo liudijimu, kai juo bus bandoma patvirtinti svetainÄ—s tapatumÄ… arba nustatyti Å¡ifruotÄ… ryÅ¡Ä¯ su ja. Kai bandysite aplankyti svetainÄ™, kurios liudijimo autentiÅ¡kumu nepasitikima, narÅ¡yklÄ—, prieÅ¡ parodydama svetainÄ—s tinklalapÄ¯, gali pateikti keletÄ… Ä¯spÄ—jimÅ³.</li>
+    </ul>
+  </li>
+  <li><strong>Taisyti pasitikÄ—jimo LÄ® nuostatas</strong>: SpragtelÄ—kite Å¡Ä¯ mygtukÄ…, jei norite parinkti liudijimÄ… iÅ¡davusios LÄ® (liudijimÅ³ Ä¯staigos) pasitikÄ—jimo nuostatas. ÄŒia galima nurodyti, kokiomis LÄ® iÅ¡duotÅ³ liudijimÅ³ kategorijomis pasitikima. PavyzdÅ¾iui, galima parinkti, kad narÅ¡yklÄ— pasitikÄ—tÅ³ visais svetainiÅ³ liudijimais, kuriuos iÅ¡davÄ— Å¡i LÄ®.</li>
+</ul>
+
+<p>ParinktÅ³ nuostatÅ³ patvirtinimui spragtelÄ—kite mygtukÄ… <i>Gerai</i>.</p>
+
+<h3 id="delete_web_site_certificates">SvetainÄ—s liudijimo Å¡alinimas</h3>
+
+<p>PrieÅ¡ Å¡alindami kortelÄ—s <a href="#web_site_certificates">SvetainiÅ³</a> sÄ…raÅ¡e esantÄ¯ svetainÄ—s liudijimÄ…, gerai pagalvokite, ar jo neprireiks ateity, pavyzdÅ¾iui, ar nenorÄ—site kada nors panaudoti Å¡Ä¯ liudijimÄ…, kai reikÄ—s patvirtinti svetainÄ—s tapatumÄ… arba nustatyti Å¡ifruotÄ… ryÅ¡Ä¯ su ja.</p>
+
+<h2 id="authorities">Ä®staigos</h2>
+
+<p>KortelÄ— <i>Ä®staigos</i> <a href="#certificate_manager">LiudijimÅ³ tvarkytuvÄ—je</a> rodo liudijimus, apibÅ«dinanÄius <a href="glossary.xhtml#certificate_authority">LiudijimÅ³ Ä®staigas (LÄ®)</a>.</p>
+
+<p>LÄ® liudijimai yra sugrupuoti pagal juos iÅ¡davusiÅ³ organizacijÅ³ pavadinimus:</p>
+
+<ul>
+  <li>Jei po LÄ® pavadinimu nesimato liudijimÅ³ vardÅ³, du kartus spragtelÄ—kite LÄ® pavadinimÄ….</li>
+  <li>LÄ® liudijimas paÅ¾ymimas spragtelÄ—jus jo vardÄ….</li>
+  <li>Jei norite paÅ¾ymÄ—ti kelis liudijimus, spragsÄ—dami jÅ³ vardus laikykite paspaustÄ… valdymo (Ctrl) klaviÅ¡Ä….</li>
+</ul>
+
+<p>Jei reikia atlikti kurÄ¯ nors iÅ¡ Å¾emiau iÅ¡vardytÅ³ veiksmÅ³, paÅ¾ymÄ—kite vienÄ… ar daugiau liudijimÅ³ ir spragtelÄ—kite atitinkamÄ… mygtukÄ…:</p>
+
+<ul>
+  <li><strong>PerÅ¾iÅ«ra</strong>: Atveriamas langas su iÅ¡samia informacija apie paÅ¾ymÄ—tus liudijimus.</li>
+  <li><strong>Taisa</strong>: Paspaudus Å¡Ä¯ mygtukÄ…, galima perÅ¾iÅ«rÄ—ti ar keisti nuostataas, kurias liudijimÅ³ tvarkytuvÄ— priskiria paÅ¾ymÄ—tiems liudijimams. ÄŒia nurodoma, kuriomis Å¡ios liudijimÅ³ Ä¯staigos iÅ¡duotÅ³ liudijimÅ³ rÅ«Å¡imis narÅ¡yklÄ— turi pasitikÄ—ti.</li>
+  <li><strong>PaÅ¡alinti</strong>: Å alinami paÅ¾ymÄ—ti liudijimai.</li>
+</ul>
+
+<p>Tam, kad bÅ«tÅ³ pasitikima visais LÄ® <a href="glossary.xhtml#certificate_chain">liudijimÅ³
+grandinÄ—s</a> liudijimais, pakanka parinkti tik vyriausiosios LÄ® liudijimo
+nuostatas.</p>
+
+<p>LiudijimÅ³ grandinÄ— importuojama spragtelÄ—jus atitinkamÄ… nuorodÄ…
+LÄ® svetainÄ—je. Importavus grandinÄ™ ir paÅ¾ymÄ—jus vyriausiojo liudijimo vardÄ… liudijimÅ³ tvarkytuvÄ—s lango kortelÄ—je <i>LiudijimÅ³ Ä¯staigÅ³</i>, galima parinkti pasitikÄ—jimo vyriausiuoju liudijimu nuostatas.</p>
+
+<p>Vyriausioji ir visos tarpinÄ—s LÄ® iÅ¡vardijamos Å¾emiau tos paÄios Ä¯staigos pavadinimo. Vyriausiasis liudijimas yra tos liudijimÅ³ Ä¯staigos, kuri Ä¯vardija save kaip savo liudijimo iÅ¡davÄ—jÄ….</p>
+
+<p><strong>Jei Ä¯ atsiÅ³site tarpinÄ—s LÄ® liudijimÄ…</strong>: Jei Ä¯ narÅ¡yklÄ™ atsiÅ³site tarpinÄ—s LÄ® liudijimÄ…, priklausantÄ¯ liudijimÅ³ grandinei, kurios vyriausiosios liudijimo Ä¯staigos liudijimai paÅ¾ymÄ—ti kaip patikimi, tai pasitikÄ—jimo tarpinÄ—s LÄ® liudijimu nuostatÅ³ iÅ¡ naujo parinkti nereikÄ—s: jos bus paveldÄ—tos iÅ¡ vyriausiosios LÄ®.</p>
+
+<h3 id="edit_ca_certificate_trust_settings">Taisyti pasitikÄ—jimo LÄ® liudijimu nuostatas</h3>
+
+<p>PaÅ¾ymÄ—jus liudijimÅ³ tvarkytuvÄ—s lango kortelÄ—s <a href="#authorities">LiudijimÅ³ Ä¯staigÅ³</a> sÄ…raÅ¡e esantÄ¯ LÄ® liudijimÄ… ir paspaudus mygtukÄ… <i>Taisa</i>, atveriamas langas <q>PasitikÄ—jimo LÄ® liudijimu nuostatos</q>. Jame nurodoma, kokiomis LÄ® iÅ¡duotÅ³ liudijimÅ³ kategorijomis narÅ¡yklÄ— turi pasitikÄ—ti. Jei paÅ¡alinsite visÅ³ parinkÄiÅ³ Å¾ymÄ—jimÄ…, liudijimÅ³ tvarkytuvÄ— nebepasitikÄ—s Å¡ios LÄ® iÅ¡duotais liudijimais.</p>
+
+<p>NuostatÅ³ reikÅ¡mÄ—:</p>
+
+<ul>
+  <li><strong>Å is liudijimas gali patvirtinti svetainiÅ³ tapatumÄ…</strong>: Jei paÅ¾ymÄ—site Å¡Ä¯ langelÄ¯, liudijimÅ³ tvarkytuvÄ— pradÄ—s pasitikÄ—ti liudijimÅ³ Ä¯staigos iÅ¡duotais liudijimais, kurie patvirtina svetainiÅ³ tapatumÄ… ir naudojami nustatant Å¡ifruotÄ… ryÅ¡Ä¯ su svetainÄ—mis. Jei langelio Å¾ymÄ—jimÄ… paÅ¡alinsite, liudijimÅ³ tvarkytuvÄ— nebepasitikÄ—s LÄ® iÅ¡duotais liudijimais, patvirtinanÄiais svetainiÅ³ tapatumÄ….</li>
+  <li><strong>Å is liudijimas gali patvirtinti el. paÅ¡to vartotojÅ³ tapatumÄ…</strong>: Jei Å¡is langelis paÅ¾ymÄ—tas, liudijimÅ³ tvarkytuvÄ— pasitikÄ—s LÄ® iÅ¡duotais liudijimais, skirtais laiÅ¡kÅ³ Å¡ifravimui arba skaitmeniniams paraÅ¡ams. Jei langelio Å¾ymÄ—jimÄ… paÅ¡alinsite, liudijimÅ³ tvarkytuvÄ— nebepasitikÄ—s Å¡ios LÄ® iÅ¡duotais el. paÅ¡to liudijimais.</li>
+  <li><strong>Å is liudijimas gali patvirtinti programinÄ—s Ä¯rangos gamintojÅ³   tapatumÄ…</strong>: Jei Å¡is langelis paÅ¾ymÄ—tas, liudijimÅ³ tvarkytuvÄ— pasitikÄ—s LÄ® iÅ¡duotais liudijimais, skirtais programinÄ—s Ä¯rangos gamintojÅ³ tapatumui patvirtinti. Jei langelio Å¾ymÄ—jimÄ… paÅ¡alinsite, liudijimÅ³ tvarkytuvÄ— nebepasitikÄ—s Å¡ios LÄ® iÅ¡duotais tokios rÅ«Å¡ies liudijimais.</li>
+</ul>
+
+<p>ParinkÄ™ nuostatas, spragtelÄ—kite mygtukÄ… <i>Gerai</i>.</p>
+
+<h3 id="delete_ca_certificates">LÄ® liudijimo Å¡alinimas</h3>
+
+<p>PrieÅ¡ Å¡alindami liudijimÅ³ tvarkytuvÄ—s lango kortelÄ—s <a href="#authorities">LiudijimÅ³ Ä¯staigÅ³</a> sÄ…raÅ¡e esantÄ¯ LÄ® liudijimÄ…, gerai pagalvokite, ar jo neprireiks ateity tikrinant LÄ® iÅ¡duotus liudijimus. Jei paÅ¡alinsite vienintelÄ¯ turimÄ… galiojantÄ¯ LÄ® liudijimÄ…, liudijimÅ³ tvarkytuvÄ— nebepasitikÄ—s jokiais Å¡ios LÄ® iÅ¡duotais liudijimais.</p>
+
+<h2 id="device_manager">Saugumo priemoniÅ³ tvarkytuvÄ—</h2>
+
+<p>ÄŒia apraÅ¡omas saugumo priemoniÅ³ tvarkytuvÄ—s langas ir nuostatos, kurias galima jame parinkti. Daugiau informacijos apie saugumo priemoniÅ³ tvarkytuvÄ—s naudojimÄ… galima rasti skyriuje  <a href="using_certs_help.xhtml#managing_smart_cards_and_other_security_devices">lustiniÅ³ korteliÅ³ ir kitÅ³ saugumo priemoniÅ³ tvarkymas</a>.</p>
+
+<p>Jei saugumo priemoniÅ³ tvarkytuvÄ—s langas dar neatvertas, atlikite Å¡iuos
 veiksmus:</p>
+
 <ol>
-	<li>Atverkite meniu <i>Taisa</i> ir pasirinkite <i>Nuostatos</i>.
-   </li><li>Paşymëkite grupës <i>Privatumas ir saugumas</i>  pogrupá <i>Liudijimai</i>.
-      (Jei pogrupio <i>Liudijimai</i> nesimato, spustelëkite şenkliukà (pliusà
-      arba trikampëlá) ğalia grupës pavadinimo.) 
-   </li><li>Spustelëkite mygtukà <i>Tvarkyti saugumo priemones</i>.
-</li>
+  <li>Atverkite meniu <span class="mac">&brandShortName;</span>
+    <span class="noMac">Taisa</span> ir pasirinkite <i>Nuostatos</i>.</li>
+  <li>PaÅ¾ymÄ—kite grupÄ—s <i>Privatumas ir saugumas</i>  pogrupÄ¯ <i>Liudijimai</i>.
+      (Jei pogrupio <i>Liudijimai</i> nesimato, dukart spragtelÄ—kite grupÄ—s pavadinimÄ….) </li>
+  <li>SpragtelÄ—kite mygtukÄ… <i>Tvarkyti saugumo priemones</i>.</li>
 </ol>
 
-<p>Saugumo priemoniø tvarkytuvës langas iğskaidytas á tris dalis (du laukai sàrağams formuoti ir mygtukø rinkinys). Pirmajame lauke
-rodomas sàrağas visø turimø PKCS Nr. 11 moduliø ir ğiø moduliø valdomø saugumo priemoniø
-(saugumo priemoniø pavadinimai pateikiami po atitinkamø moduliø pavadinimais). 
+<p>Saugumo priemoniÅ³ tvarkytuvÄ—je iÅ¡vardinti PKCS #11 moduliai, ir Å¡iÅ³ moduliÅ³ valdomÅ³ saugumo priemoniÅ³ sÄ…raÅ¡as (saugumo priemoniÅ³ pavadinimai pateikiami po atitinkamÅ³ moduliÅ³ pavadinimais).</p>
 
-</p><p>Paşymëjus saugumo priemonës arba modulio pavadinimà, lango vidurinëje
-dalyje (antrajame sàrağe) atsiranda informacija apie ğià priemonæ arba modulá,
-o kai kurie mygtukai (değinëje lango dalyje) tampa aktyvûs. Jei reikia atlikti
-koká nors veiksmà su saugumo priemone arba moduliu, reikia paşymëti jo pavadinimà
-ir spustelëti atitinkamà mygtukà:  </p><ul>
-	<li><b><i>Pradëti seansà.</i></b> Pradedamas paşymëtos saugumo priemonës
-      seansas. Seanso metu narğyklë kartkartëmis prağys surinkti
-      saugumo priemonës pagrindiná slaptaşodá. Prağymø surinkti slaptaşodá
-      daşnumas priklauso nuo parinktø <a href="passwords_help.html#Master_Password">pagrindinio
-      slaptaşodşio tikrinimo intervalø</a> nuostatø.  
-	</li><li><b><i>Baigti seansà.</i></b> Baigiamas paşymëtos saugumo priemonës
-      seansas. Kol nebus pradëtas naujas saugumo priemonës seansas, narğyklë
-      negalës pasinaudoti liudijimais, laikomais ğioje saugumo priemonëje.
-	</li><li><b><i>Pakeisti slaptaşodá.</i></b> Patenkama á langà, kuriame galima pakeisti
-      paşymëtos saugumo priemonës pagrindiná slaptaşodá. </li>
-<li><b><i>Ákelti.</i></b> Atveriamas dialogo langas, kuriame parenkama PKCS Nr. 11 modulio failas. 
-Prieğ ákeliant naujà modulá, á kompiuterá reikia ádiegti modulio programinæ
-árangà ir, jei reikia, prijungti prie kompiuterio atitinkamà aparatinæ
-árangà. Paprastai aprağymai visø veiksmø, kuriuos reikia atlikti derinant
-kompiuterá darbui su nauja saugumo priemone, pateikiami instrukcijoje, platinamoje
-kartu su priemonës áranga. </li>
-<li><b><i>Iğkelti.</i></b> Iğkeliamas paşymëtas saugumo modulis. Narğyklë
-      nebenaudos iğkelto modulio bei jo valdomø saugumo priemoniø.</li>
-  <li><b><i>FIPS veiksena.</i></b> Ájungiama arba iğjungiama FIPS veiksena.
-      Apie ğià veiksenà şr. <a href="using_certs_help.html#using_certs_devices_fips"> FIPS
-      veiksena</a>.</li>
+<p>PaÅ¾ymÄ—jus saugumo priemonÄ—s arba modulio pavadinimÄ…, lango vidurinÄ—je dalyje atsiranda informacija apie Å¡iÄ… priemonÄ™ arba modulÄ¯, o kai kurie mygtukai tampa aktyvÅ«s. Paprastai, norint atlikti kokÄ¯ nors veiksmÄ… su saugumo priemone arba moduliu, reikia paÅ¾ymÄ—ti jo pavadinimÄ… ir spragtelÄ—ti atitinkamÄ… mygtukÄ…:</p>
+
+<ul>
+  <li><strong>PradÄ—ti seansÄ…</strong>: Pradedamas paÅ¾ymÄ—tos saugumo priemonÄ—s seansas. Seanso metu narÅ¡yklÄ— kartkartÄ—mis praÅ¡ys surinkti saugumo priemonÄ—s pagrindinÄ¯ slaptaÅ¾odÄ¯. PraÅ¡ymÅ³ surinkti slaptaÅ¾odÄ¯ daÅ¾numas priklauso nuo parinktÅ³ <a href="passwords_help.xhtml#master_password_timeout">pagrindinio slaptaÅ¾odÅ¾io tikrinimo intervalÅ³</a> nuostatÅ³.</li>
+  <li><strong>Baigti seansÄ…</strong>: Baigiamas paÅ¾ymÄ—tos saugumo priemonÄ—s seansas. Kol nebus pradÄ—tas naujas saugumo priemonÄ—s seansas, narÅ¡yklÄ— negalÄ—s pasinaudoti liudijimais, laikomais Å¡ioje saugumo priemonÄ—je.</li>
+  <li><strong>Pakeisti slaptaÅ¾odÄ¯</strong>: Patenkama Ä¯ langÄ…, kuriame galima pakeisti paÅ¾ymÄ—tos saugumo priemonÄ—s pagrindinÄ¯ slaptaÅ¾odÄ¯.</li>
+  <li><strong>Ä®kelti</strong>: Atveriamas dialogo langas, kuriame parenkama PKCS #11 modulio failas. PrieÅ¡ Ä¯keliant naujÄ… modulÄ¯, Ä¯ kompiuterÄ¯ reikia Ä¯diegti modulio programinÄ™ Ä¯rangÄ… ir, jei reikia, prijungti prie kompiuterio atitinkamÄ… aparatinÄ™ Ä¯rangÄ…. Paprastai apraÅ¡ymai visÅ³ veiksmÅ³, kuriuos reikia atlikti derinant kompiuterÄ¯ darbui su nauja saugumo priemone, pateikiami instrukcijoje, platinamoje kartu su priemonÄ—s Ä¯ranga.</li>
+  <li><strong>IÅ¡kelti</strong>: IÅ¡keliamas paÅ¾ymÄ—tas saugumo modulis. NarÅ¡yklÄ— nebenaudos iÅ¡kelto modulio bei jo valdomÅ³ saugumo priemoniÅ³.</li>
+  <li><strong>Ä®jungti FIPS</strong>: Ä®jungiama ar iÅ¡jungiama FIPS veiksena. NorÄ—dami suÅ¾inoti daugiau, paskaitykite skyrelÄ¯ <a href="using_certs_help.xhtml#enable_fips_mode">Ä®jungti FIPS veiksenÄ…</a>.</li>
 </ul>
 
-<hr>
-<p>Copyright © 1994-2002 Netscape Communications Corporation.</p>
-<p>© Vertimas á lietuviø kalbà ir adaptavimas. Gintautas Grigas, Tatjana Jevsikova, 2002–2003</p>
-</body></html>
+<p>&copyright.string;</p>
+
+</body>
+</html>

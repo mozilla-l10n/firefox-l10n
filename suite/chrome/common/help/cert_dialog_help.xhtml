@@ -1,66 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" [
-  <!ENTITY % brandDTD SYSTEM "chrome://global/locale/brand.dtd" >
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
   %brandDTD;
 ]>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-	<title>Informacija apie liudijimą ir sprendimų priėmimas</title>
-	<link rel="stylesheet" type="text/css" href="chrome://help/locale/helpFileLayout.css"/>
+<title>Informacija apie liudijimą ir sprendimų priėmimas</title>
+<link rel="stylesheet" href="helpFileLayout.css"
+  type="text/css"/>
 </head>
-
 <body>
-<div class="boilerplate">Šį žinyno skyrių pateikė bendrija &brandShortName;. Tai
-tik informacija, kuri galėtų pagelbėti tiems, kas rūpinasi duomenų saugumu
-internete. Ji neaprėpia visų saugumo aspektų dirbant tinkle, taip pat nelaikytina
-bendrijos &brandShortName; saugumo internete rekomendacijomis.</div>
 
-<h1 id="certificate_information_and_decisions">Informacija apie liudijimą ir sprendimo priėmimas</h1>
+<div class="boilerPlate">Šis dokumentas tik pateikia jums informaciją.
+  Jis gali padėti žengti savo privatumo ir asmeninės informacijos saugumo 
+  internete link. Tačiau šis dokumentas neaptaria visų internetinių slaptumo 
+  ir saugumo grėsmių, nei teikia rekomendacijas apie tinkamą anonimiškumą 
+  ir saugumą internete.</div>
+
+<h1 id="certificate_information_and_decisions">Informacija apie liudijimą ir sprendimų priėmimas</h1>
+
 <p>Šiame skyriuje aprašomi įvairūs liudijimų tvarkytuvės atveriami langai, aptariama,
-kokias nuostatas juose galima parinkti ir kaip tai padaryti. Informaciją apie
-konkretų langą (t. y. atitinkamą žinyno skyrelį) galima akimirksniui iškviesti
-spustelėjus tame lange esantį mygtuką <i>Žinynas</i>. </p>
+  kokias nuostatas juose galima parinkti ir kaip tai padaryti. Informaciją apie
+  konkretų langą (t. y. atitinkamą žinyno skyrelį) galima akimirksniu iškviesti
+  spustelėjus tame lange esantį mygtuką <i>Žinynas</i>.</p>
 
-<div class="contentsBox">
+<div class="contentsBox">Šiame skyriuje:
   <ul>
     <li><a href="#certificate_viewer">Liudijimų žiūriklis</a></li>
     <li><a href="#choose_security_device">Saugumo priemonės pasirinkimas</a></li>
+    <li><a href="#encryption_key_copy">Šifravimo rakto kopija</a></li>
     <li><a href="#certificate_backup">Liudijimo atsarginė kopija</a></li>
     <li><a href="#user_identification_request">Vartotojo tapatumo nustatymas</a></li>
     <li><a href="#new_certificate_authority">Nauja liudijimų įstaiga</a></li>
-    <li><a href="#web_site_certificates">Svetainių liudijimai</a></li>
+    <li><a href="#web_site_certificates">Žiniatinklio svetainių liudijimai</a></li>
   </ul>
 </div>
 
 <h2 id="certificate_viewer">Liudijimų žiūriklis</h2>
 
-
 <p>Liudijimų žiūriklio lange pateikiama informacija apie liudijimą, pažymėtą
-kurioje nors liudijimų tvarkytuvės lango kortelėje  (<i>Jūsų liudijimai, Kitų asmenų</i> ir kt.). Žiūriklio langas turi dvi
-korteles. Kortelėje <i>Bendroji</i> pateikiama trumpa informacija apie liudijimą:
-kas jį išdavė, ar jis galioja, kokiems tikslams liudijimas gali būti
-panaudotas ir kt. Kortelėje <i>Išsamesnė</i> pateikiama smulki informacija
-apie liudijimo turinį.</p>
+  kurioje nors liudijimų tvarkytuvės lango kortelėje. Kortelėje <i>Bendroji</i>
+  pateikiama trumpa informacija apie liudijimą:
+  kas jį išdavė, ar jis galioja, kokiems tikslams liudijimas gali būti
+  panaudotas ir kt. Kortelėje <i>Išsamesnė</i> pateikiama smulki informacija
+  apie liudijimo turinį.</p>
 
-<p>Jei liudijimų žiūriklio langas dar neatvertas, atlikite šiuos veiksmus:
+<p>Jei liudijimų žiūriklio langas dar neatvertas, atlikite šiuos veiksmus:</p>
 
-</p><ol>
-   <li>Atverkite meniu <i>Taisa</i> ir pasirinkite <i>Nuostatos</i>.
-   </li><li>Pažymėkite grupės <i> Privatumas ir saugumas</i>  pogrupį <i>Liudijimai</i>.
-    (Jei pogrupio <i>Liudijimai</i> nesimato, spustelėkite ženkliuką (pliusą
-    arba trikampėlį) šalia grupės pavadinimo.) 
-   </li><li>Spustelėkite mygtuką <i>Tvarkyti liudijimus</i>.
-   </li><li>Atsivėrusiame liudijimų tvarkytuvės lange spustelėkite tą kortelę,
-    kurioje yra peržiūrėtinas liudijimas.
-   </li><li>Pažymėkite liudijimą.
-   </li><li>Spustelėkite mygtuką <i>Peržiūra</i>.
-</li></ol>
+<ol>
+  <li>Atverkite meniu <span class="mac">&brandShortName;</span>
+    <span class="noMac">Taisa</span> ir pasirinkite <i>Nuostatos</i>.</li>
+  <li>Pažymėkite grupės <i>Privatumas ir saugumas</i> pogrupį <i>Liudijimai</i>.
+    (Jei pogrupių nesimato, dukart spustelėkite grupės <i>Privatumas ir 
+    saugumas</i> pavadinimą, ir ji išsiskleis.)</li>
+  <li>Spustelėkite mygtuką <i>Tvarkyti liudijimus</i>.</li>
+  <li>Atsivėrusiame liudijimų tvarkytuvės lange spustelėkite tą kortelę,
+    kurioje yra peržiūrėtinas liudijimas.</li>
+  <li>Pažymėkite liudijimą, kurio detales norite peržiūrėti.</li>
+  <li>Spustelėkite mygtuką <i>Peržiūrėti</i>.</li>
+</ol>
 
-
-<div class="contentsBox">
+<div class="contentsBox">Šiame skyrelyje:
   <ul>
     <li><a href="#general_tab">Kortelė <i>Bendroji</i></a></li>
     <li><a href="#details_tab">Kortelė <i>Išsamesnė</i></a></li>
@@ -70,80 +73,58 @@ apie liudijimo turinį.</p>
 <h3 id="general_tab">Kortelė <i>Bendroji</i></h3>
 
 <p>Liudijimų žiūriklio kortelėje <i>Bendroji</i> pateikiama kelių rūšių
-informacija apie pažymėtą liudijimą: </p>
+informacija apie pažymėtą liudijimą:</p>
 
 <ul>
-	<li><b><i>Liudijimas patikrintas šiems jo naudojimo atvejams.</i></b> (Žr.
-      <a href="glossary.html#certificate_verification">liudijimo patikra</a>.)
-      Žemiau gali būti bet kurie iš šių užrašų:</li>
-<ul>
-<li><b><i>SSL kliento liudijimas.</i></b> Liudijimas, patvirtinantis Jūsų
+  <li><strong>Liudijimas patikrintas šiems jo naudojimo atvejams</strong>: (Žr.
+    <a href="glossary.xhtml#certificate_verification">liudijimo patikra</a>,
+    jei domitės, kaip Liudijimų tvarkytuvė tikrina liudijimus.)
+    Žemiau gali būti bet kurie iš šių užrašų:
+    <ul>
+      <li><strong>SSL kliento liudijimas</strong>:  Liudijimas, patvirtinantis Jūsų
   tapatumą ir pateikiamas žiniatinklio svetainėms.</li>
-
-<li><b><i>SSL serverio liudijimas.</i></b> Liudijimas, patvirtinantis
-  žiniatinklio svetainės serverio tapatumą ir pateikiamas naršyklei.</li>
-
-<li><i><b>El. laiško pasirašančiojo liudijimas.</b></i> Liudijimas,
-  patvirtinantis Jūsų tapatumą ir naudojamas skaitmeniškai pasirašant el.
-  laiškus.</li>
-
-<li><b><i>El. laiško gavėjo liudijimas.</i></b> Kito asmens tapatumą
+      <li><strong>SSL serverio liudijimas</strong>:  Liudijimas, patvirtinantis
+  žiniatinklio serverio tapatumą ir pateikiamas naršyklėms.</li>
+      <li><strong>El. laiško pasirašančiojo liudijimas</strong>: Liudijimas, patvirtinantis Jūsų tapatumą ir naudojamas skaitmeniškai pasirašant el.&nbsp;laiškus.</li>
+      <li><strong>El. laiško gavėjo liudijimas</strong>: Kito asmens tapatumą
   patvirtinantis liudijimas. Toks liudijimas reikalingas, jei reikia išsiųsti
-  tam asmeniui šifruotą el. laišką.</li>
-
-<li><b><i>Būsenos atsakiklio liudijimas.</i></b> Liudijimas, naudojamas
-  patvirtinti būsenos atsakiklio tapatumą. Atsakiklis veikia pagal būsenos
-  paliudijimo tinklu protokolą OCSP ir tikrina liudijimų galiojimą. Daugiau
-  informacijos apie šį protokolą galima rasti skyriuje <a href="validation_help.html">Patikros
+  tam asmeniui šifruotą el.&nbsp;laišką.</li>
+      <li><strong>Būsenos atsakiklio liudijimas</strong>: Liudijimas, naudojamas patvirtinti būsenos atsakiklio tapatumą. Atsakiklis veikia pagal būsenos paliudijimo tinklu protokolą OCSP ir tikrina liudijimų galiojimą. Daugiau informacijos apie šį protokolą galima rasti skyriuje <a href="validation_help.xhtml">Patikros
   nuostatos</a>.</li>
-
-<li><b><i>SSL liudijimų įstaigos liudijimas.</i></b> Liudijimas, patvirtinantis
-  tapatumą liudijimų įstaigos, t. y. tarnybos, išduodančius tapatumo
-  liudijimus asmenims ar organizacijoms.</li>
-
-</ul>
-	<li><b><i>Kam išduotas.</i></b> Po šiuo užrašu pateikiama tokia
-      informacija:</li>
-	<ul>
-	<li><b><i>Pagrindinis vardas.</i></b> Subjekto (asmens, organizacijos,
+      <li><strong>SSL liudijimų įstaigos liudijimas</strong>: 
+Liudijimas, patvirtinantis tapatumą liudijimų įstaigos, t. y. tarnybos, išduodančius tapatumo liudijimus asmenims ar organizacijoms naudojimui kompiuterių tinkluose.</li>
+    </ul>
+  </li>
+  <li><strong>Kam išduotas.</strong>: Po šiuo užrašu pateikiama tokia informacija:
+    <ul>
+      <li><strong>Pagrindinis vardas</strong>: Subjekto (asmens, organizacijos,
       svetainės ir pan.), kurio tapatumą patvirtina liudijimas, vardas ar
       pavadinimas.</li>
-
-	<li><b><i>Įstaiga.</i></b> Įstaigos, kuriai priklauso subjektas,
-      pavadinimas.</li>
-
-	<li><b><i>Įstaigos padalinys.</i></b> Įstaigos padalinys, kuriam priklauso
-      subjektas (pvz., Personalo skyrius).</li>
-	<li><b><i>Serijos numeris.</i></b> Liudijimo serijos numeris.</li>
-	</ul>
-
-	<li><b><i>Kas išdavė.</i></b> Žemiau šio užrašo pateikiama informacija
+      <li><strong>Įstaiga</strong>: Įstaigos, kuriai priklauso subjektas, pavadinimas (pvz, įmonės pavadinimas).</li>
+      <li><strong>Įstaigos padalinys</strong>:  Įstaigos padalinys, kuriam priklauso
+      subjektas (pvz. finansų skyrius).</li>
+      <li><strong>Serijos numeris</strong>: Liudijimo serijos numeris.</li>
+    </ul>
+  </li>
+  <li><strong>Kas išdavė</strong>: Po šiuo užrašu pateikiama informacija
       apie liudijimų įstaigą (LĮ), kuri išdavė liudijimą. Informacijos
-      pateikimo struktūra yra panaši kaip ir kortelės dalyje <i>Kam išduotas</i>
-      (žr. ankstesnį punktą).
-	</li><li><b><i>Galiojimas.</i></b> Liudijimo išdavimo data ir jo galiojimo data.
-	</li><li><b><i>Kontroliniai kodai.</i></b> Išvardijami liudijimo kontroliniai kodai. 
-Kontrolinis kodas yra unikalus skaičius, susietas su liudijimu. Tas skaičius nėra liudijimo dalis, o 
-gaunamas atlikus tam tikrą matematinę funkciją su liudijimu (t. y., su liudijimą
-sudarančiais duomenimis). Jei nors vienas liudijimo simbolis pakeičiamas
-kitu, tai su juo vėl atlikus tą funkciją, gaunamas jau kitas skaičius.
-Kontrolinis liudijimo kodas naudojamas patikrinti, ar prie liudijimo nebuvo
-„prikišti nagai“.</li>
-
+      pateikimo struktūra yra panaši kaip ir kortelės dalyje <q>Kam išduotas</q>
+      (žr. ankstesnį punktą).</li>
+  <li><strong>Galiojimas</strong>: Liudijimo galiojimo laikas.</li>
+  <li><strong>Kontroliniai kodai</strong>: Pateikiami liudijimo kontroliniai kodai.
+   Kontrolinis kodas yra unikalus skaičius, gautas pritaikius matematinę funkciją liudijimo turiniui. Kontrolinis liudijimo kodas naudojamas patikrinti, ar prie liudijimo nebuvo „prikišti nagai“.</li>
 </ul>
-
 
 <h3 id="details_tab">Kortelė <i>Išsamesnė</i></h3>
 
 <p>Jei reikia išsamesnės informacijos apie pažymėtą liudijimą, spustelėkite
 liudijimų žiūriklio lange kortelę <i>Išsamesnė</i>. Jei lauke <i>Liudijimų
-hierarchija</i> yra keli liudijimai, tai norint peržiūrėti informaciją apie
-bet kurį iš liudijimų, reikia pažymėti jo vardą, tada kortelės lauke <i>Liudijimo
-laukai</i> pažymėti lauką, ir perskaityti pažymėto lauko reikšmę,
-atsiradusią lauke <i>Lauko reikšmė</i>:</p>
+hierarchija</i> yra keli liudijimai, norint peržiūrėti informaciją apie
+bet kurį iš jų, reikia pažymėti jo pavadinimą, tada kortelės lauke <i>Liudijimo
+laukai</i> pažymėti lauką, ir perskaityti informaciją, parodytą laukelyje <i>Lauko reikšmė</i>:</p>
 
 <ul>
-<li><b><i>Liudijimų hierarchija.</i></b> Pateikiama liudijimų
+  <li><strong>Liudijimų hierarchija</strong>: Pateikiama liudijimų
 grandinė (liudijimas, kurį pažymėjote prieš atverdami žiūriklį, atsiranda
 sąrašo apačioje). Liudijimų grandinė yra liudijimų, hierarchiškai pasirašytų
 vieno kitam kelių liudijimų įstaigų (LĮ), eilė. Kai 
@@ -151,387 +132,286 @@ vieno kitam kelių liudijimų įstaigų (LĮ), eilė. Kai
 gauna liudijimą, ji gali išduoti liudijimą kitai LĮ, o ši – trečiai ir t. t. 
 Nuo bet kurio liudijimo turėtojo grandinė eina aukštyn į jo liudijimą
 pasirašiusįjį ir tęsiasi iki pat <a href="glossary.html#root_CA">vyriausiosios LĮ</a>.</li>
-<li><b><i>Liudijimo laukai.</i></b> Čia išvardyti laukai liudijimo, pažymėto 
-sąraše <i>Liudijimų hierarchija</i>.</li>
-<li><b><i>Lauko reikšmė.</i></b> Sąraše <i>Liudijimo laukai</i> pažymėto
-lauko reikšmė.</li>
+  <li><strong>Liudijimo laukai</strong>: Čia išvardyti liudijimo, pažymėto <i>Liudijimų hierarchija</i> sąraše, laukai.</li>
+  <li><strong>Lauko reikšmė</strong>: Sąraše <i>Liudijimo laukai</i> pažymėto lauko reikšmė.</li>
 </ul>
 
-<p>Liudijimų tvarkytuvė bando iškoduoti liudijimo laukų reikšmes ir jas pateikti
-žmogui suprantamu pavidalu. Jei iškoduoti nepavyksta, tai parodo
-neiškoduotas reikšmes, t. y. tokias, kokios yra įrašytos į liudijimą.</p>
-
+<p>Liudijimų žiūriklis rodo iškoduotas liudijimo laukų reikšmes ir jas pateikia žmogui suprantamu pavidalu.  Jei iškoduoti nepavyksta, tai parodo neiškoduotas reikšmes, t. y. tokias, kokios yra įrašytos į liudijimą.</p>
 
 <h2 id="choose_security_device">Saugumo priemonės pasirinkimas</h2>
 
-<p>Saugumo priemonė – tai aparatinė arba programinė įranga, teikianti kriptografijos
-paslaugas, pavyzdžiui, užšifravimą ir iššifravimą, ir galinti saugoti liudijimus
-bei raktus. Langas <i>Saugumo priemonės pasirinkimas</i> atveriamas, kai importuojant
-liudijimą arba atliekant kriptografijos operaciją (pvz., naujo liudijimo raktų
-generavimą) liudijimų tvarkytuvė „nežino“, kokią saugumo priemonę
-šiems veiksmams pasirinkti. Šiame lange reikia pasirinkti vieną saugumo
-priemonę iš esančių kompiuteryje.</p>
+<p>Saugumo priemonė – tai aparatinė arba programinė įranga, teikianti kriptografijos, pavyzdžiui, šifravimo ir dešifravimo, paslaugas, bei galinti saugoti liudijimus bei raktus. Langas <i>Saugumo priemonės pasirinkimas</i> atveriamas, kai importuojant
+liudijimą arba atliekant kriptografijos operaciją (pvz., naujo liudijimo raktų generavimą), liudijimų tvarkytuvė „nežino“, kokią saugumo priemonę šiems veiksmams pasirinkti. Šiame lange reikia pasirinkti vieną saugumo priemonę iš esančių kompiuteryje.</p>
 
 <p>Aparatinės saugumo įrangos pavyzdys –
-intelektualioji kortelė. Tarkime, Jūs norite pasinaudoti šia saugumo
-priemone (prie kompiuterio turi būti prijungtas intelektualiųjų
+lustinė kortelė. Tarkime, Jūs norite pasinaudoti šia saugumo
+priemone (prie kompiuterio turi būti prijungtas lustinių
 kortelių skaitymo įrenginys ir įdiegta atitinkama programinė įranga).
-Tuomet, kai į intelektualiųjų kortelių skaitymo įrenginį įdėsite
-intelektualiąją kortelę, jos pavadinimas atsiras lango <i>Saugumo priemonės
+Tuomet, kai į lustinių kortelių skaitymo įrenginį įdėsite
+kortelę, jos pavadinimas atsiras lango <i>Saugumo priemonės
 pasirinkimas</i> išskleidžiamajame sąraše ir jį bus galima pasirinkti.</p>
 
 <p>Liudijimų tvarkytuvė turi numatytąją integruotą saugumo priemonę (programinė saugumo
 priemonė), kurią visada galima panaudoti nepriklausomai nuo kitų saugumo
 priemonių (jei jų yra).</p>
 
-<h2 id="encryption_key_copy">Užšifravimo rakto kopija</h2>
+<h2 id="encryption_key_copy">Šifravimo rakto kopija</h2>
 
-<p><a href="glossary.html#certificate_authority">Liudijimų įstaigos (LĮ)</a>
-išduodančios atskirus liudijimus el. laiško pasirašymui ir jo užšifravimui,
-liudijimo registravimo metu paprastai daro Jūsų privataus <a href="glossary.html#encryption_key">užšifravimo
-rakto</a> atsargines kopijas.</p>
+<p><a href="glossary.xhtml#certificate_authority">Liudijimų įstaigos (LĮ)</a>
+išduodančios atskirus liudijimus el. laiško pasirašymui ir jo šifravimui, liudijimo registravimo metu paprastai daro Jūsų privataus 
+  <a href="glossary.xhtml#encryption_key">šifravimo rakto</a> atsargines kopijas.</p>
 
-<p>Dialogo lange <i>Užšifravimo rakto kopija</i>
-galima sutikti su kopijos darymu arba atsisakyti kurti liudijimą. Reikia turėti
-omenyje, kad LĮ, kuri turi Jūsų užšifravimo rakto atsarginę kopiją,
-gali iššifruoti bet kurį Jums adresuotą laišką, užšifruotą
-naudojant atitinkamą viešąjį raktą. 
+<p>Dialogo lange <i>Šifravimo rakto kopija</i>
+galima sutikti su kopijos darymu arba atsisakyti kurti liudijimą. Reikia atminti, kad LĮ, kuri turi Jūsų užšifravimo rakto atsarginę kopiją, gali iššifruoti bet kurį Jums adresuotą laišką, užšifruotą naudojant atitinkamą viešąjį raktą.</p>
 
-</p><p>Lange <i>Užšifravimo rakto kopija</i> galima atlikti tokius veiksmus:</p>
+<p>Lange <i>Užšifravimo rakto kopija</i> galima atlikti tokius veiksmus:</p>
+
 <ul>
-<li><b><i>Rodyti liudijimą.</i></b> Spustelėkite šį mygtuką, jei
+  <li><strong>Rodyti liudijimą</strong>: Spustelėkite šį mygtuką, jei
     norite peržiūrėti informaciją apie liudijimų įstaigos, kuri nori
     padaryti privataus rakto atsarginę kopiją, tapatumo liudijimą.</li>
-<li><b><i>Gerai.</i></b>  Jei pasitikite LĮ, kurios tapatumą patvirtina LĮ
-      liudijimas, ir norite, kad Jums atsiunčiami užšifruoti laiškai būtų
-      iššifruojami naudojant šios LĮ išduotą liudijimą, spustelėkite
-      mygtuką <i>Gerai</i>.
-<p>Jei abejojate, kad galima pasitikėti LĮ, paprašiusia atsarginės kopijos, pasitarkite su 
-sistemos administratoriumi.</p></li>
-<li><b><i>Atsisakyti.</i></b> Jei nepasitikite liudijimų įstaiga, paprašiusia
+  <li><strong>Gerai</strong>:Jei pasitikite LĮ, kurios tapatumą patvirtina LĮ liudijimas, ir norite, kad Jums atsiunčiami šifruoti laiškai būtų iššifruojami naudojant šios LĮ išduotą liudijimą, spustelėkite mygtuką <i>Gerai</i>
+
+    <p>Jei abejojate LĮ, paprašiusios atsarginės kopijos patikimumu, pasitarkite su sistemos administratoriumi.</p>
+  </li>
+  <li><strong>Atsisakyti</strong>: Jei nepasitikite liudijimų įstaiga, paprašiusia
       Jūsų privataus rakto atsarginės kopijos, tai geriau atsisakykite
       kurti liudijimą. Spustelėjus mygtuką <i>Atsisakyti</i>, bus atsisakyta ir
       atsarginės kopijos darymo, ir liudijimo kūrimo.</li>
 </ul>
 
 <p>Tai, kad liudijimą išdavusi LĮ saugo Jūsų privataus rakto kopiją,
-turi ir gerąją pusę. Tarkime, Jūs pamiršote slaptažodį arba praradote
-savo privataus rakto kopiją. Tuomet turėtumėte teisę paimti savo rakto
-kopiją iš LĮ. Jei LĮ nesaugotų atsarginės kopijos, tai be rakto negalėtumėte
-iššifruoti ir perskaityti gaunamų užšifruotų laiškų.</p>
+turi ir gerąją pusę. Tarkime, pamiršę slaptažodį arba praradę
+savo privataus rakto kopiją, turėtumėte teisę paimti savo rakto
+kopiją iš LĮ. Jei LĮ nesaugotų atsarginės kopijos, tai be rakto negalėtumėte iššifruoti ir perskaityti gaunamų šifruotų laiškų.</p>
 
 <h2 id="certificate_backup">Liudijimo atsarginė kopija</h2>
 
 <p>Gavę liudijimą, pasidarykite jo bei jo privačiojo rakto atsarginę kopiją
 ir padėkite kopijos failą į saugią vietą. Pavyzdžiui, atsarginę kopiją
-galima įrašyti į diskelį ir laikyti jį užrakintą saugioje vietoje. Tada, jei atsirastų 
-nesklandumų su kompiuterio standžiuoju disku, bet kuriuo metu liudijimą galėtumėte atstatyti.</p>
+galima įrašyti į saugią laikmeną (USB atmintinę, SD kortelę, kokybišką CD-R diską) ir laikyti jį užrakintą saugioje vietoje. Tada, jei atsirastų nesklandumų su kompiuterio standžiuoju disku, bet kuriuo metu liudijimą galėtumėte atstatyti.</p>
 
-<p>Prarasti liudijimą ir su juo susietą privatųjį raktą – tai, geriausiu
-atveju, tiesiog nedideli papildomi rūpesčiai, o blogiausiu – tikra
-katastrofa (priklausomai nuo tikslų, kuriems prarastas liudijimas buvo
-naudojamas). Pavyzdžiui:</p>
+<p>Liudijimo ir su juo susieto privataus rakto praradimas – tai, geriausiu atveju, nedideli papildomi rūpesčiai, o blogiausiu – tikra katastrofa (priklausomai nuo tikslų, kuriems prarastas liudijimas buvo naudojamas). Pavyzdžiui:</p>
 
 <ul>
-	<li>Jei prarasite liudijimą, kuris identifikuoja Jūsų tapatumą svarbiose
-      žiniatinklio svetainėse, negalėsite pasiekti šios svetainės, kol
-      negausite naujo liudijimo. </li>
-
-	<li>Jei prarasite liudijimą, naudojamą užšifruojant el. laiškus,
+  <li>Jei prarasite liudijimą, kuris identifikuoja Jūsų tapatumą svarbiose žiniatinklio svetainėse, negalėsite pasiekti šios svetainės, kol negausite naujo liudijimo.</li>
+  <li>Jei prarasite liudijimą, naudojamą šifruojant el. laiškus,
       nebegalėsite skaityti užšifruotų laiškų (ir Jūsų išsiųstų, ir
       gautų). Šiuo atveju, jei neturite su liudijimu susieto privataus užšifravimo
       rakto atsarginės kopijos ar pamiršote slaptažodį ir negalite ja
-      pasinaudoti, tai niekada negalėsite perskaityti laiškų, užšifruotu
+      pasinaudoti, tai niekada negalėsite perskaityti laiškų, šifruotų
       prarastu raktu.</li>
 </ul>
 
 <p>Jei norite išvengti nereikalingų rūpesčių ir išlaidų, pasidarykite
-liudijimų (ir visų kitų vertingų duomenų) atsargines kopijas. Geriausiai
+liudijimų (ir visų kitų vertingų duomenų) atsargines kopijas. Geriausia
 tai padaryti iš karto, nes vėliau galite pamiršti.</p>
 
-<h2 id="user_identification_request">Vartotojo tapatumo nustatymas</h2>
+<h2 id="user_identification_request">Vartotojo tapatybės nustatymas</h2>
 
+<p>Kai kurie tinklalapiai prašo, kad jų lankytojai patvirtintų
+savo tapatybę ne abonento vardu ir slaptažodžiu, o liudijimu. Tai paaiškinama
+tuo, kad liudijimas yra daug patikimesnė tapatybės patvirtinimo forma. Toks
+tapatybės internete nustatymo metodas dar vadinamas <a href="glossary.xhtml#client_authentication">kliento
+tapatybės nustatymu</a>.</p>
 
-<p>Kai kurios žiniatinklio svetainės prašo, kad jų lankytojai patvirtintų
-savo tapatumą ne abonento vardu ir slaptažodžiu, o liudijimu. Tai paaiškinama
-tuo, kad liudijimas yra daug patikimesnė tapatumo patvirtinimo forma. Toks
-tapatumo internete nustatymo metodas dar vadinamas <a href="glossary.html#client_authentication">kliento
-tapatumo nustatymu</a>.</p><p>Liudijimų tvarkytuvė gali turėti daugiau
+<p>Liudijimų tvarkytuvė gali turėti daugiau
 negu vieną liudijimą, kuriais būtų galima patvirtinti Jūsų
-tapatumą, kurio užklausia žiniatinklio svetainė. Tokiu atveju atveriamas dialogo langas <i>Vartotojo
-tapatumo nustatymas</i>, kuriame pateikiama tokia informacija:</p>
+tapatybę, kurios užklausia žiniatinklio svetainė. Tokiu atveju atveriamas dialogo langas <i>Vartotojo
+tapatybės nustatymas</i>, kuriame pateikiama dviejų rūšių informacija:</p>
 
-<p><b><i>Svetainė prašo pateikti Jūsų tapatumą patvirtinantį liudijimą.</i></b>
-Šioje lango dalyje pateikiama tokia informacija apie svetainę:</p>
+<p><strong>Tinklalapis prašo pateikti Jūsų tapatubę patvirtinantį liudijimą.</strong>: Šioje lango dalyje pateikiama tokia informacija apie svetainę:</p>
+
 <ul>
-<li><b><i>Serverio vardas.</i></b> Vardas serverio, pateikusio užklausą 
-kliento tapatumui patvirtinti. Paprastai tai būna svetainės URL 
+  <li><strong>Serverio vardas</strong>: Serverio, pateikusio užklausą 
+kliento tapatybei patvirtinti, pavadinimas. Paprastai tai būna svetainės URL 
 dalis. Pavyzdžiui, <i>Netscape</i> svetainės serverio vardas yra <tt>home.netscape.com</tt>.</li>
-<li><b><i>Įstaiga.</i></b> Svetainę tvarkančios įstaigos pavadinimas.</li>
-<li><b><i>Kas išdavė.</i></b> Pavadinimas <a href="glossary.html#certificate_authority">liudijimų 
-įstaigos (LĮ)</a>, išdavusios svetainei liudijimą.</li>
+  <li><strong>Įstaiga</strong>: Svetainę tvarkančios įstaigos pavadinimas.</li>
+  <li><strong>Kas išdavė</strong>: <a href="glossary.html#certificate_authority">Liudijimų įstaigos (LĮ)</a>, išdavusios svetainei liudijimą, pavadinimas.</li>
 </ul>
 
-<p><b><i>Pasirinkite liudijimą tapatumui patvirtinti.</i></b> Šioje lango
-dalyje yra išskleidžiamasis sąrašas, kuriame išvardyti visi turimi
-liudijimai, kuriais būtų galima patvirtinti Jūsų tapatumą.
-Iš šio sąrašo pasirinkite vieną liudijimą, kuris Jums atrodo tinkamiausias.</p>
+<p><strong>Pasirinkite liudijimą tapatybei patvirtinti</strong>: Šioje lango
+dalyje yra išskleidžiamasis sąrašas, kuriame išvardyti visi turimi liudijimai, kuriais būtų galima patvirtinti Jūsų tapatybę. Iš šio sąrašo pasirinkite vieną liudijimą, kuris Jums atrodo tinkamiausias norimam aplankyti tinklalapiui.</p>
 
 <p>Pažymėjus liudijimą rodoma informacija, kuri gali padėti
-pasirinkti, kurį liudijimą geriau pateikti svetainei:</p>
-<ul>
-<li><b><i>Kam išduotas.</i></b> Čia pateikiama informacija apie asmenį, 
-kurio tapatumą patvirtina šis liudijimas (pvz., Jūsų asmenvardis 
-ir el. pašto adresas), ir liudijimo serijos numeris bei galiojimo 
-datos.</li>
-<li><b><i>Kas išdavė.</i></b> Pateikiama trumpa informacija apie LĮ, 
-išdavusią šį liudijimą: LĮ pavadinimas, adresas, jos liudijimo būsena.</li>
-</ul>
+pasirinkti, kurį liudijimą geriau pateikti tinklalapiui:</p>
 
+<ul>
+  <li><strong>Kam išduotas</strong>: Čia pateikiama informacija apie asmenį, kurio tapatybę patvirtina šis liudijimas (pvz., Jūsų vardas ir el. pašto adresas), ir liudijimo serijos numeris bei galiojimo datos.</li>
+  <li><strong>Kas išdavė</strong>: Pateikiama glausta informacija apie LĮ, išdavusią šį liudijimą: LĮ pavadinimas, adresas, jos liudijimo būsena.</li>
+</ul>
 
 <h2 id="new_certificate_authority">Nauja liudijimų įstaiga</h2>
 
 <p>Tarp visų liudijimų, esančių liudijimų tvarkytuvėje (nesvarbu, kur jie
 laikomi: kompiuterio diske ar išorinėje saugumo priemonėje, pvz.,
-intelektualiojoje kortelėje), yra įvairių <a href="glossary.html#certificate_authority">liudijimų
-įstaigų (LĮ)</a> tapatumą patvirtinančių liudijimų. Tam, kad tvarkytuvė galėtų atpažinti liudijimą, kurio ji neturi, tvarkytuvės
+lustinėje kortelėje), yra įvairių <a href="glossary.html#certificate_authority">liudijimų
+įstaigų (LĮ)</a> tapatybę patvirtinančių liudijimų. Tam, kad tvarkytuvė galėtų atpažinti liudijimą, kurio ji neturi, tvarkytuvės
 liudijimų sąraše turi būti liudijimas tos LĮ, kuri išdavė šį liudijimą
 arba įgaliojo tokių liudijimų išdavimą.</p>
 
-<p>Kai nuostatose nurodoma, kad pasitikima tam tikra LĮ, liudijimų tvarkytuvė parsisiunčia šios LĮ liudijimą
-ir pradeda atpažinti tas LĮ išduotų liudijimų rūšis, kurias parinkote
-pasitikėjimo LĮ nuostatose.</p>
+<p>Kai nuostatose nurodoma, kad pasitikima tam tikra LĮ, liudijimų tvarkytuvė parsisiunčia šios LĮ liudijimą ir pradeda atpažinti tas LĮ išduotų liudijimų rūšis, kurias parinkote pasitikėjimo LĮ nuostatose.</p>
 
-<p>Prieš parsisiųsdama LĮ liudijimą, tvarkytuvė leidžia pasirinkti, kokiomis tos LĮ išduotų liudijimų 
-rūšimis bus pasitikima. Čia galima pažymėti tokias parinktis:</p>
+<p>BPrieš parsisiųsdama LĮ liudijimą, tvarkytuvė leidžia pasirinkti, kokiomis tos LĮ išduotų liudijimų rūšimis bus pasitikima. Čia galima pažymėti tokias parinktis:</p>
+
 <ul>
-<li><b><i>Pasitikėti šia LĮ patvirtinant svetainių tapatumą.</i></b> Patvirtinti 
-kai kurių žiniatinklio svetainių tapatumą ypač svarbu, jei tos 
-svetainės valdo finansų operacijas. Netinkamas arba klaidingas tapatumo 
-patvirtinimas gali sukelti neigiamų padarinių.</li>
-<li><b><i>Pasitikėti šia LĮ patvirtinant el. pašto adresatų tapatumą.</i></b> Jei el. paštu
-ketinate siųsti slaptą šifruotą informaciją arba turite
-kitų priežasčių, dėl kurių svarbu nustatyti asmenų, su kuriais susirašinėjate,
-tapatumą, turėtumėte atidžiai išnagrinėti LĮ politiką ir procedūras,
-atliekamas patvirtinant tapatumą būsimų  šios LĮ išduotų liudijimų turėtojų,
-ir prieš žymėdami šį langelį gerai pagalvokite, ar tokios sąlygos yra
-priimtinos.</li>
-<li><b><i>Pasitikėti šia LĮ patvirtinant programinės įrangos gamintojų 
-tapatumą.</i></b> Jei pažymėsite šį langelį, tai reikš, kad Jūs pasitikite LĮ išduotais 
-liudijimais, patvirtinančiais kilmę Javos ir „JavaScript“ programų, 
+  <li><strong>Pasitikėti šia LĮ patvirtinant svetainių tapatumą</strong>: Patvirtinti kai kurių žiniatinklio svetainių tapatumą ypač svarbu, jei tos svetainės vykdo finansines operacijas. Netinkamas arba klaidingas tapatumo patvirtinimas gali sukelti neigiamų padarinių.</li>
+  <li><strong>Pasitikėti šia LĮ patvirtinant el. pašto adresatų tapatybę</strong>: Jei el. paštu ketinate siųsti slaptą šifruotą informaciją arba turite kitų priežasčių, dėl kurių svarbu nustatyti asmenų, su kuriais susirašinėjate, tapatybę, turėtumėte atidžiai išnagrinėti LĮ politiką ir procedūras, atliekamas patvirtinant būsimų  šios LĮ išduotų liudijimų turėtojų tapatybę, ir prieš žymėdami šį langelį, gerai pagalvokite, ar tokios sąlygos yra priimtinos.</li>
+
+  <li><strong>Pasitikėti šia LĮ patvirtinant programinės įrangos gamintojų 
+tapatybę</strong>: Jei pažymėsite šį langelį, tai reikš, kad Jūs pasitikite LĮ išduotais 
+liudijimais, patvirtinančiais JAVA ir „JavaScript“ programų, 
 reikalaujančių tam tikrų prieigos teisių prie Jūsų kompiuterio, pavyzdžiui, 
-galimybės keisti failus. Kadangi tokiomis teisėmis gali būti piktnaudžiaujama 
+galimybės keisti failus, kilmę. Kadangi tokiomis teisėmis gali būti piktnaudžiaujama 
 (pvz., galima sugadinti duomenis, laikomus diske), tai labai gerai pasvarstykite 
-prieš žymėdami šią parinktį. Šį langelį pažymėkite tik tuo atveju, 
-jei susipažinote su LĮ politika ir esate tikri, kad šia LĮ galima pasitikėti.</li>
+prieš žymėdami šią parinktį. Šį langelį pažymėkite tik tuo atveju, jei susipažinote su LĮ politika ir esate tikri, kad šia LĮ galima pasitikėti.</li>
 </ul>
 
-<p>Prieš pasitikint nauja LĮ reikia sužinoti, kas jai vadovauja, atidžiai
-susipažinti su jos politika ir tapatumo tikrinimo procedūromis, nuspręsti, ar
-šios taisyklės pakankamai patikimos, kad ji išduotų atitinkamas liudijimų
-rūšis. Pavyzdžiui, jei LĮ išduoda liudijimus, paliudijančius tapatumą žiniatinklio
-svetainių, kuriose ketinate atlikti finansų operacijas, patikrinkite, ar Jums
+<p>Prieš pasitikėdami nauja LĮ, sužinokite, kas jai vadovauja, atidžiai susipažinkite su jos politika ir tapatybės tikrinimo procedūromis. Nuspręskite, ar šios taisyklės pakankamai patikimos, kad ji išduotų atitinkamas liudijimų rūšis. Pavyzdžiui, jei LĮ išduoda liudijimus, paliudijančius tapatybę žiniatinklio
+svetainių, kuriose ketinate atlikti finansines operacijas, patikrinkite, ar Jums
 tinka privatumo lygis, kurį užtikrina ši LĮ.</p>
+
 <ul>
-	<li><b><i>Peržiūra.</i></b> Jei spustelėsite šį mygtuką, bus parodyta
+  <li><strong>Peržiūra</strong>: Jei spustelėsite šį mygtuką, bus parodyta
       informacija apie liudijimą, kurį ruošiatės parsisiųsti. Jei nusprendėte
       neparsisiųsti šio liudijimo, spustelėkite mygtuką <i>Atsisakyti</i>.</li>
-</ul>  
+</ul>
 
-<h2 id="web_site_certificates">Svetainių liudijimai</h2>
+<h2 id="web_site_certificates">Tinklalapių liudijimai</h2>
 
 <p>Šiame skyriuje aprašomi langai, vienas iš kurių gali būti atvertas, kai
-bandysite aplankyti žiniatinklio svetainę, <a href="glossary.html#authentication">tapatumo
-patvirtinimui</a> ir <a href="glossary.html#encryption">užšifravimui</a>
-naudojančią <a href="glossary.html#Secure_Sockets_Layer">SSL</a> protokolą.</p>
+bandysite aplankyti tinklalapį, <a href="glossary.html#authentication">tapatybės
+patvirtinimui</a> ir <a href="glossary.html#encryption">šifravimui</a>
+naudojantį <a href="glossary.html#Secure_Sockets_Layer">SSL</a> protokolą.</p>
 
-<div class="contentsBox">
+<div class="contentsBox">Šiame skyriuje:
   <ul>
-    <li><a href="#web_site_certified_by_an_unknown_authority">Svetainės liudijimą išdavė
-nežinoma LĮ</a></li>
+    <li><a href="#web_site_certified_by_an_unknown_authority">Svetainės liudijimą išdavė nežinoma LĮ</a></li>
     <li><a href="#server_certificate_expired">Serverio liudijimas nebegalioja</a></li>
     <li><a href="#server_certificate_not_yet_valid">Serverio liudijimas dar negalioja</a></li>
-    <li><a href="#domain_name_mismatch">Sričių vardų nesutapimas</a></li>
+    <li><a href="#domain_name_mismatch">Sričių pavadinimų nesutapimas</a></li>
   </ul>
 </div>
 
 <h3 id="web_site_certified_by_an_unknown_authority">Svetainės liudijimą išdavė
 nežinoma LĮ</h3>
 
+<p>Nemažai svetainių patvirtina savo tapatumą liudijimu. Jei liudijimų tvarkytuvė neatpažįsta <a href="glossary.html#certificate_authority"> liudijimų įstaigos (LĮ)</a>, išdavusios svetainei liudijimą, tai rodomas langas, kuriame galima sužinoti informaciją apie svetainės liudijimą ir nuspręsti, ką daryti.</p>
 
-<p>Nemažai svetainių patvirtina savo tapatumą liudijimu. Jei liudijimų
-tvarkytuvė neatpažįsta <a href="glossary.html#certificate_authority">
-  liudijimų įstaigos (LĮ)</a>>, išdavusios svetainei liudijimą, tai rodomas langas, kuriame
-galima sužinoti informaciją apie svetainės liudijimą ir nuspręsti, ką
-daryti:</p>
+<p>Naudokite mygtukus šiems veiksmams atlikti:</p>
 <ul>
-	<li><b><i>Rodyti liudijimą.</i></b> Spustelėkite šį mygtuką, jei
+  <li><strong>Rodyti liudijimą</strong>: Spustelėkite šį mygtuką, jei
       norite peržiūrėti informaciją apie svetainės liudijimą.</li>
-    <li><b><i>Įsiminti šį liudijimą.</i></b> Jei esate tikri, kad svetainės
-      liudijimas yra galiojantis, pažymėkite šią parinktį ir spustelėkite
-      mygtuką <i>Tęsti</i>. Liudijimų tvarkytuvė pasitikės šiuo liudijimu,
-      kai juo bus patvirtinamas svetainės tapatumas, iki baigsis liudijimo galiojimo
-      laikas.</li>
+  <li><strong>Atšaukti</strong>: Atšaukite veiksmą. Liudijimų tvarkytuvė neapripažins liudijimo galiojančiu ir neprisijungs prie tinklalapio.</li>
+  <li><strong>OK</strong>: Priims liudijimą ir prisijungs prie tinklalapio. Pasirinkite, kaip ilgai liudijimas galios:
+    <ul>
+      <li><strong>Įsiminti šį liudijimą visam laikui</strong>: Liudijimų tvarkytuvė pripažins liudijimą galiojančiu iki jo galiojimo pabaigos.</li>
+      <li><strong>Įsiminti šį liudijimą šiam seansui</strong>: Liudijimų tvarkytuvė pripažins liudijimą galiojančiu tik šiam &brandShortName; seansui. Paleidę &brandShortName; seansą iš naujo ar bandydami aplankyti tinklalapį darsyk, jūs vėl būsite įspėti dėl liudijimo.</li>
+    </ul>
+  </li>
 </ul>
 
-<p>Jei norite praleisti minėtąjį dialogo langą ir tęsti darbą, spustelėkite
-vieną iš mygtukų: <i>Tęsti</i> arba <i>Atsisakyti</i>:</p>
+<p><strong>Svarbi žinia serverių administratoriams</strong>: Šis įspėjimas gali pasirodyti netinkamai sukonfigūravus serverį. Tam išsiaiškinti, norimo palankyti tinklalapio serverio administratorius ar tinklalapio prižiūrėtojas turėtų patikrinti visų tarpinių LĮ būklę ir prireikus, įdiegti trūkstamus leidimus.</p>
+
+<p>Jei nuspręsite dėl šios bėdos susisiekti su tinklalapio prižiūrėtoju, galite pridėti šią informaciją:</p>
+
 <ul>
-	<li>Jeigu įtariate, kad žiniatinklio svetainė nėra tikra, t. y. įtariate, kad ja
-      apsimeta kuri nors kita svetainė, spustelėkite mygtuką <i>Atsisakyti</i>.
-      Tokiu atveju naršyklė šį kartą neprisijungs prie svetainės, o vėl aplankius šią svetainę 
-      parodys tą patį pranešimo langą.
-      <p>Svarbus pagrindas atisakyti būtų, jei, pavyzdžiui, svetainėje norėjote atlikti
-      finansines operacijas. Tokiu atveju reikėtų užklausti banką ar kitą svetainę tvarkančią 
-      organizaciją, kad ji patvirtintų, jog svetainės liudijimas yra galiojantis, ir tik tada tęsti 
-      darbą šioje svetainėje.</p></li>
-   <li>Jei vis tiek (nepaisydami įspėjimo) norite patekti į svetainę, spustelėkite
-      mygtuką <i>Tęsti</i>.</li> 
-    <p>Jeigu prieš tai pažymėjote parinkti <i>Įsiminti šį liudijimą</i>,
-    tai liudijimų tvarkytuvė pasitikės šiuo liudijimu,
-      kai juo bus patvirtinamas svetainės tapatumas, iki baigsis liudijimo galiojimo
-      laikas. Apsilankius šioje svetainėje kitą kartą, langas <i>Svetainės
-    liudijimą išdavė nežinoma LĮ</i> nebebus rodomas.</p><p>Jei prieš
-    paspausdami mygtuką <i>Tęsti</i> parinkties <i>Įsiminti šį liudijimą</i>
-    nepažymėjote, tai liudijimų tvarkytuvė pasitikės svetainės liudijimu tik
-    iki šio seanso pabaigos. Kai ateity bandysite aplankyti tą pačią svetainę, vėl
-    pamatysite įspėjimo langą <i>Svetainės liudijimą išdavė nežinoma LĮ</i>.
+  <li>Server administratorius gali gauti daugiau informacijos apie tarpines LĮ iš čia:
+    <a href="http://knowledge.verisign.com/search/solution.jsp?id=vs2119">Koks yra tarpinio LĮ leidimo tikslas?</a></li>
+  <li>Jei serveris naudoja VeriSign leidimą, serverio administratorius tinkamą leidimą gali parsisiųsti iš čia:
+    <a href="http://www.verisign.com/support/ssl-certificates-support/install-ssl-certificate.html">SSL leidimų pagalbos centras</a></li>
+</ul>
 
-</p></ul>
+<p><strong>Pažengusiems naudotojams</strong>: Norint užtikrinti, kad Leidimų Tvarkytuvė priimtų visus leidimus, kuriuos išdavė kuri nors LĮ, galima paredaguoti atitinkamus LĮ leidimo parametrus. Tai daroma taip:</p>
 
-<p>Parinkties <i>Įsiminti šį liudijimą</i> žymėjimas išsprendžia tik
-vienos konkrečios svetainės liudijimo problemą. Apsilankius kitoje svetainėje,
-kurios liudijimą išdavė ta pati LĮ, liudijimų tvarkytuvė vėl pateiks tokį
-pat įspėjimą.</p>
-<p>Tam, kad liudijimų tvarkytuvė pasitikėtų ir visais
-kitais LĮ išduotais liudijimais, reikia parinkti pasitikėjimo šios LĮ
-liudijimu nuostatas. Į pasitikėjimo nuostatų langą patenkama šitaip:
-
-</p><ol>
-   <li>Atverkite meniu <i>Taisa</i> ir pasirinkite <i>Nuostatos</i>.
-   </li><li>Pažymėkite grupės <i> Privatumas ir saugumas</i>  pogrupį <i>Liudijimai</i>.
-    (Jei pogrupio <i>Liudijimai</i> nesimato, spustelėkite ženkliuką (pliusą
-    arba trikampėlį) šalia grupės pavadinimo.) 
-   </li><li>Spustelėkite mygtuką <i>Tvarkyti liudijimus</i>.
-   </li><li>Atsivėrusiame lange spustelėkite kortelę <i>Liudijimų įstaigų</i>.
-   </li><li>Pažymėkite LĮ, pasitikėjimo kuria nuostatas norite pakeisti.
-   </li><li>Spustelėkite mygtuką <i>Taisa</i> ir parinkite atitinkamas pasitikėjimo
+<ol>
+  <li>Atverkite <span class="mac">&brandShortName;</span>
+    <span class="noMac">Taisa</span> meniu ir pasirinkite <i>Nuostatos</i>.</li>
+  <li>Pažymėkite grupės <i>Privatumas ir saugumas</i> pogrupį <i>Liudijimai</i>. (Jei pogrupio nesimato, spustelėkite dukart ant <i>Privatumas ir saugumas</i>.)</li>
+  <li>Spustelėkite mygtuką <i>Tvarkyti liudijimus</i></li>
+  <li>Atsivėrusiame lange spustelėkite kortelę <i>Liudijimo įstaigos</i></li>
+  <li>Pažymėkite LĮ, kurios pasitikėjimo nuostatas norite pakeisti.</li>
+  <li>Spustelėkite mygtuką <i>Taisa</i> ir parinkite atitinkamas pasitikėjimo
     nuostatas.</li>
 </ol>
 
 <h3 id="server_certificate_expired">Serverio liudijimas nebegalioja</h3>
 
 <p>Panašiai kaip mokėjimo kortelė ar vairuotojo teisės, <a href="glossary.html#certificate">liudijimas</a>
-galioja tik tam tikrą laikotarpį. Kai liudijimo galiojimo laikas baigiasi, jo
-turėtojas turi gauti naują liudijimą.</p>
+galioja tik tam tikrą laiką. Jam pasibaigus, liudijimo turėtojas turi gauti naują liudijimą.</p>
 
 <p>Kai bandysite aplankyti svetainę, kurios serverio liudijimo galiojimo laikas
-baigėsi, liudijimų tvarkytuvė įspės apie tai atvėrusi dialogo langą <i>Serverio
-liudijimas nebegalioja</i>. Kai šitaip atsitinka, visų pirma turėtumėte
+baigėsi, liudijimų tvarkytuvė įspės apie tai. Kai šitaip atsitinka, visų pirma turėtumėte
 patikrinti, ar teisingą datą ir laiką rodo kompiuterio laikrodis. Jei
 kompiuterio laikrodyje nustatyta data, kuri yra vėlesnė už datą, iki kurios
 galioja liudijimas, tai liudijimų tvarkytuvė laikys svetainės liudijimą
-nebegaliojančiu. </p>
+nebegaliojančiu.</p>
 
-<p>Jei Jūsų kompiuterio laikrodis rodo teisingą datą ir laiką, turėsite
-nuspręsti, ar pasitikėti šia svetaine. Be abejo, Jūsų sprendimas turi
-priklausyti nuo veiksmų, kuriuos ketinate atlikti svetainėje, ir nuo turimos
-informacijos apie šią svetainę. Dauguma komercinių svetainių kruopščiai
-tvarko savo liudijimus ir pakeičia juos, kai tik baigiasi jų galiojimo laikas. </p>
+<p>Jei Jūsų kompiuterio laikrodis rodo teisingą datą ir laiką, turėsite nuspręsti, ar pasitikėti šia svetaine. Be abejo, Jūsų sprendimas turi priklausyti nuo veiksmų, kuriuos ketinate atlikti tinklalapyje, ir nuo turimos apie jį informacijos. Dauguma komercinių svetainių kruopščiai tvarko savo liudijimus ir pakeičia juos, vos tik baigiasi jų galiojimo laikas.</p>
 
-<p>Lange <i>Serverio liudijimas nebegalioja</i> galima atlikti tokius veiksmus:
+<p>Lange <i>Serverio liudijimas nebegalioja</i> galima atlikti šiuos veiksmus:</p>
 
-</p><ul><li><b><i>Rodyti liudijimą.</i></b> Spustelėkite šį mygtuką, jei
-    norite sužinoti liudijimo galiojimo laikotarpį ir kitą informaciją apie
-    liudijimą.
-	</li><li><b><i>Gerai.</i></b> Jei turite pagrindą manyti, kad nebegaliojantis
-      liudijimas yra tik atsitiktinė klaida, galite spustelėti mygtuką <i>Gerai</i>.
+<ul>
+  <li><strong>Rodyti liudijimą</strong>: Spustelėkite šį mygtuką, jei
+    norite sužinoti liudijimo galiojimo laiką ir kitą informaciją apie
+    liudijimą.</li>
+  <li><strong>Tęsti</strong>: Jei turite pagrindą manyti, kad nebegaliojantis
+      liudijimas yra tik atsitiktinė klaida, galite spustelėti mygtuką <i>Tęsti</i>.
       Tuomet liudijimų tvarkytuvė priims liudijimą ir laikys jį galiojančiu
       tik iki šio seanso pabaigos. Praneškite svetainės administratoriui apie
-      pastebėtą problemą.<p>Būkite labai atsargūs atlikdami bet kuriuos
-      veiksmus šioje svetainėje.</p>
-	</li><li><b><i>Atsisakyti.</i></b> Jei įtariate pavojų ir nenorite rizikuoti
-      lankydami svetainę, spustelėkite mygtuką <i>Atsisakyti</i>. Šiuo
-      atveju liudijimų tvarkytuvė neprisijungs prie svetainės.</li>
+      pastebėtą problemą.
+
+    <p>Būkite labai atsargūs atlikdami bet kokius veiksmus šioje svetainėje.</p>
+  </li>
+  <li><strong>Atsisakyti</strong>: Jei įtariate pavojų ir nenorite rizikuoti lankydami svetainę, spustelėkite mygtuką <i>Atsisakyti</i>. Šiuo atveju liudijimų tvarkytuvė neprisijungs prie svetainės.</li>
 </ul>
 
 <h3 id="server_certificate_not_yet_valid">Serverio liudijimas dar negalioja</h3>
 
-<p>Panašiai kaip mokėjimo kortelė ar vairuotojo teisės, <a href="glossary.html#certificate">liudijimas</a>
-galioja tik tam tikrą laikotarpį.</p>
+<p>Panašiai kaip mokėjimo kortelė ar vairuotojo teisės ar daugelis tapatybės patvirtinimo formų, <a href="glossary.xhtml#certificate">liudijimas</a> galioja tik nustatytą laiką.</p>
 
-<p>Kai bandysite aplankyti svetainę, kurios serverio liudijimo galiojimo
-laikotarpis dar neprasidėjo, liudijimų tvarkytuvė įspės apie tai atvėrusi langą <i>Serverio
-liudijimas dar negalioja</i>. Kai šitaip atsitinka, visų pirma turėtumėte
-patikrinti, ar teisingą datą ir laiką rodo kompiuterio laikrodis. Jei
-kompiuterio laikrodyje nustatyta neteisinga data, liudijimų tvarkytuvė laikys svetainės liudijimą 
-dar negaliojančiu, nors iš tikrųjų jis turėtų galioti. </p>
+<p>Kai bandysite aplankyti svetainę, kurios serverio liudijimo galiojimo laikas dar neprasidėjo, liudijimų tvarkytuvė įspės Jus apie tai. Kai šitaip atsitinka, visų pirma turėtumėte patikrinti, ar teisingą datą ir laiką rodo kompiuterio laikrodis. Jei kompiuterio laikrodyje nustatyta neteisinga data, liudijimų tvarkytuvė laikys svetainės liudijimą dar negaliojančiu, nors iš tikrųjų jis turėtų galioti.</p>
 
-<p>Jei kompiuterio laikrodis rodo teisingą datą ir laiką, turėsite
-nuspręsti, ar pasitikėti šia svetaine. Be abejo, Jūsų sprendimas turi
-priklausyti nuo veiksmų, kuriuos ketinate atlikti svetainėje, ir nuo turimos
-informacijos apie šią svetainę. Dauguma komercinių svetainių prieš
-pradėdamos naudoti liudijimus įsitikina, kad jų galiojimo laikotarpis jau
-prasidėjo. </p>
+<p>Jei kompiuterio laikrodis rodo teisingą datą ir laiką, turėsite nuspręsti, ar pasitikėti šia svetaine. Be abejo, Jūsų sprendimas turi priklausyti nuo veiksmų, kuriuos ketinate atlikti svetainėje, ir nuo turimos informacijos apie šią svetainę. Dauguma komercinių svetainių prieš pradėdamos naudoti liudijimus įsitikina, kad jų galiojimo laikotarpis jau prasidėjo.</p>
 
-<p>Lange <i>Serverio
-liudijimas dar negalioja</i> galima atlikti tokius veiksmus:
+<p>Lange <i>Serverio liudijimas dar negalioja</i> galima atlikti tokius veiksmus:</p>
 
-</p><ul><li><b><i>Rodyti liudijimą.</i></b> Spustelėkite šį mygtuką, jei
-    norite sužinoti liudijimo galiojimo laikotarpį ir kitą informaciją apie
-    liudijimą.
-	</li><li><b><i>Gerai.</i></b> Jei turite pagrindą manyti, kad dar negaliojantis
-      liudijimas yra tik atsitiktinė klaida, galite spustelėti mygtuką <i>Gerai</i>.
-      Tuomet liudijimų tvarkytuvė priims liudijimą ir laikys jį galiojančiu
-      tik iki šio seanso pabaigos. Praneškite svetainės administratoriui apie
-      pastebėtą problemą. 
-	<p>Būkite labai atsargūs atlikdami bet kuriuos
-      veiksmus šioje svetainėje.</p>
-	</li><li><b><i>Atsisakyti.</i></b> Jei įtariate pavojų ir nenorite rizikuoti lankydami svetainę, spustelėkite mygtuką <i>Atsisakyti</i>. Šiuo
-      atveju liudijimų tvarkytuvė neprisijungs prie svetainės.</li>
+<ul>
+  <li><strong>Rodyti liudijimą</strong>: Spustelėkite šį mygtuką, jei
+    norite sužinoti liudijimo galiojimo laiką ir kitą informaciją apie
+    liudijimą.</li>
+  <li><strong>Gerai</strong>: Jei turite pagrindą manyti, kad dar negaliojantis liudijimas yra tik atsitiktinė klaida, galite spustelėti mygtuką <i>Gerai</i>, kad liudijimas būtų priimtas šiam seansui ir praneškite tinklalapio prižiūrėtojui apie šį nesklandumą.
+
+    <p>Būkite labai atsargūs šioje svetainėje atlikdami bet kokius veiksmus.</p>
+  </li>
+  <li><strong>Atsisakyti</strong>: Jei įtariate pavojų ir nenorite rizikuoti lankydami svetainę, spustelėkite mygtuką <i>Atsisakyti</i>. Šiuo atveju liudijimų tvarkytuvė neprisijungs prie svetainės.</li>
 </ul>
 
-<h3 id="domain_name_mismatch">Sričių vardų nesutapimas</h3>
-
+<h3 id="domain_name_mismatch">Sričių pavadinimų nesutapimas</h3>
 
 <p>Serverio <a href="glossary.html#certificate">liudijimas</a> apibrėžia
 svetainės srities vardą. Pavyzdžiui, svetainės <i>Netscape</i> srities
 vardas yra <tt>home.netscape.com</tt>. Jeigu serverio liudijime nurodytas
 srities vardas nesutampa su tikruoju svetainės srities vardu, tai tikėtina,
-kad kažkas bando įsiterpti į Jūsų ryšį su svetaine ir jį (ryšį)
-perimti. </p>
+kad kažkas bando įsiterpti į Jūsų ryšį su svetaine ir ryšį perimti.</p>
 
-<p>Sprendimas, ar pasitikėti tokia svetaine, turi
-priklausyti nuo veiksmų, kuriuos ketinate atlikti svetainėje, ir nuo turimos
-informacijos apie šią svetainę. Dauguma komercinių svetainių tikrina, ar
-tikrasis svetainės srities vardas sutampa su vardu, nurodytu liudijime.</p>
+<p>Sprendimas, ar pasitikėti tokia svetaine, turi priklausyti nuo veiksmų, kuriuos ketinate atlikti svetainėje, ir nuo turimos informacijos apie šią svetainę. Dauguma komercinių svetainių tikrina, ar tikrasis svetainės srities vardas sutampa su vardu, nurodytu liudijime.</p>
 
-<p>Kai liudijimų tvarkytuvė aptinka šitokį sričių vardų nesutapimą,
-atveriamas langas <i>Sričių vardų nesutapimas</i>, kuriame galima atlikti tokius veiksmus:
+<p>Kai liudijimų tvarkytuvė aptinka šitokį sričių vardų nesutapimą, atveriamas langas <i>Sričių pavadinimų nesutapimas</i>, kuriame galima atlikti tokius veiksmus:</p>
 
-</p><ul>
-  <li><b><i>Rodyti liudijimą.</i></b> Spustelėkite šį mygtuką, jei
-    norite sužinoti informaciją apie
-    liudijimą.</li>
-	<li><b><i>Gerai.</i></b> Jei yra pagrindas manyti, kad sričių vardų
-      nesutapimas yra tik atsitiktinė klaida, galite spustelėti mygtuką <i>Gerai</i>.
-      Tuomet liudijimų tvarkytuvė priims liudijimą ir laikys jį galiojančiu
-      tik iki šio seanso pabaigos. Praneškite svetainės administratoriui apie
-      pastebėtą problemą.<p>Būkite labai atsargūs atlikdami bet kuriuos
-      veiksmus šioje svetainėje ir visiškai nepasitikėkite svetainės
-      pateikiama informacija.</p>
-	</li><li><b><i>Atsisakyti.</i></b> Jei įtariate pavojų ir nenorite rizikuoti
-      lankydami svetainę, spustelėkite mygtuką <i>Atsisakyti</i>. Šiuo
-      atveju liudijimų tvarkytuvė neprisijungs prie svetainės.
-</li></ul>
+<ul>
+  <li><strong>Rodyti liudijimą</strong>: Spustelėkite šį mygtuką, jei norite sužinoti informaciją apie    liudijimą.</li>
+  <li><strong>Gerai</strong>: Jei yra pagrindas manyti, kad sričių pavadinimų nesutapimas yra tik atsitiktinė klaida, galite spustelėti mygtuką <i>Gerai</i>. Tuomet liudijimų tvarkytuvė priims liudijimą ir laikys jį galiojančiu tik iki šio seanso pabaigos. Praneškite svetainės administratoriui apie
+      pastebėtą problemą
 
-<p>Jei vis tik nusprendėte priimti svetainės liudijimą vienam seansui, būkite labai atsargūs atlikdami bet kuriuos
-      veiksmus šioje svetainėje ir nepasitikėkite svetainėje
-      pateikiama informacija.</p>
+    <p>Būkite labai atsargūs atlikdami bet kokius veiksmus šioje svetainėje ir laikykite tinklalapyje pateiktą informaciją potencialiai nepatikima.</p>
+  </li>
+  <li><strong>Atsisakyti</strong>: Jei įtariate pavojų ir nenorite rizikuoti lankydami svetainę, spustelėkite mygtuką <i>Atsisakyti</i>. Šiuo atveju liudijimų tvarkytuvė neprisijungs prie svetainės.</li>
+</ul>
 
-<hr />
+<p>Jei vis tik nusprendėte priimti svetainės liudijimą vienam seansui, būkite labai atsargūs atlikdami bet kokius veiksmus šioje svetainėje ir nepasitikėkite svetainėje pateikiama informacija.</p>
 
-<p>© Vertimas į lietuvių kalbą ir adaptavimas. Gintautas Grigas, Tatjana Jevsikova, 2002–2004</p>
+<p>&copyright.string;</p>
 
 </body>
 </html>
