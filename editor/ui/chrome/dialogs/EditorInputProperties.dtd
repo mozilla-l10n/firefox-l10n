@@ -52,11 +52,13 @@
 
 <!ENTITY InputSettings.label "Veldinstellingen">
 <!ENTITY InputName.label "Veldnaam:">
+<!ENTITY InputName.accesskey "n">
 <!ENTITY GroupName.label "Groepsnaam:">
-<!ENTITY Name.accesskey "n">
+<!ENTITY GroupName.accesskey "n">
 <!ENTITY InputValue.label "Veldwaarde:">
+<!ENTITY InputValue.accesskey "V">
 <!ENTITY InitialValue.label "Initiële waarde:">
-<!ENTITY Value.accesskey "I">
+<!ENTITY InitialValue.accesskey "I">
 <!ENTITY InputChecked.label "Initieel aangevinkt">
 <!ENTITY InputChecked.accesskey "a">
 <!ENTITY InputSelected.label "Initieel geselecteerd">
