@@ -122,10 +122,10 @@
 <!ENTITY findOnCmd.label "Rechercher dans la page…">
 <!ENTITY findOnCmd.accesskey "h">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Rechercher suivant">
+<!ENTITY findAgainCmd.label "Rechercher le suivant">
 <!ENTITY findAgainCmd.accesskey "v">
 <!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findPrevCmd.label "Rechercher précédent">
+<!ENTITY findPrevCmd.label "Rechercher le précédent">
 <!ENTITY findPrevCmd.accesskey "d">
 <!ENTITY findPrevCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
