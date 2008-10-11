@@ -8,11 +8,11 @@
   useDownloadedList.label convey the meaning "suspected" (and not something like
   "known").
 -->
-<!ENTITY  tellMaybeAttackSite2.label     "Blokuj zgłoszone witryny stwarzające zagrożenie">
-<!ENTITY  tellMaybeAttackSite.accesskey "B">
+<!ENTITY  blockAttackSites.label     "Blokuj zgłoszone witryny stwarzające zagrożenie">
+<!ENTITY  blockAttackSites.accesskey "B">
 
-<!ENTITY  tellMaybeForgery2.label      "Blokuj zgłoszone próby oszustwa internetowego">
-<!ENTITY  tellMaybeForgery.accesskey  "o">
+<!ENTITY  blockWebForgeries.label      "Blokuj zgłoszone próby oszustwa internetowego">
+<!ENTITY  blockWebForgeries.accesskey  "o">
 
 <!ENTITY  addonExceptions.label         "Wyjątki…">
 <!ENTITY  addonExceptions.accesskey     "W">
