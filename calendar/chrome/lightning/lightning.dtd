@@ -77,16 +77,6 @@
 <!ENTITY lightning.toolbar.task.label         "Tâches">
 <!ENTITY lightning.toolbar.task.accesskey     "T">
 
-<!-- Customize Toolbar Dialog -->
-<!ENTITY customize.toolbar.selector.label    "Barre d'outils :">
-<!ENTITY customize.toolbar.selector.mode     "Barre de mode">
-<!ENTITY customize.toolbar.selector.mail     "Barre de courrier">
-<!ENTITY customize.toolbar.selector.calendar "Barre d'agenda">
-<!ENTITY customize.toolbar.selector.task     "Barre des tâches">
-<!ENTITY customize.toolbar.location.label    "Emplacement :">
-<!ENTITY customize.toolbar.location.top      "Haut">
-<!ENTITY customize.toolbar.location.bottom   "Bas">
-
 <!-- Messenger Toolbar -->
 <!ENTITY lightning.toolbar.day.label "Journée">
 <!ENTITY lightning.toolbar.day.accesskey "J">
