@@ -35,7 +35,8 @@
 <!ENTITY SSLport.accesskey "a">
 <!ENTITY FTPport.accesskey "k">
 <!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY gopherPort.accesskey "">
+<!ENTITY gopherPort.accesskey "_: gopherPort.accesskey
+">
 <!ENTITY SOCKSport.accesskey "t">
 <!ENTITY noproxy.label "Proxy-rik ez hauentzat:">
 <!ENTITY noproxy.accesskey "n">
