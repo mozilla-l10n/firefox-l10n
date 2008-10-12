@@ -68,9 +68,9 @@
 <!ENTITY calendar.import.label "Importa…">
 <!ENTITY calendar.import.key "m">
 <!ENTITY calendar.import.accesskey "m">
-<!ENTITY calendar.export.calendar.label "Esporta calendario...">
+<!ENTITY calendar.export.calendar.label "Esporta calendario…">
 <!ENTITY calendar.export.calendar.accesskey "c">
-<!ENTITY calendar.export.selection.label "Esporta selezione...">
+<!ENTITY calendar.export.selection.label "Esporta selezione…">
 <!ENTITY calendar.export.selection.accesskey "n">
 <!ENTITY calendar.subscribe.label "Sottoscrivi un calendario remoto…">
 <!ENTITY calendar.subscribe.accesskey "r">
@@ -79,9 +79,9 @@
 <!ENTITY calendar.reloadserver.accesskey "d">
 <!ENTITY calendar.publish.label "Pubblica…">
 <!ENTITY calendar.publish.accesskey "b">
-<!ENTITY calendar.publish.calendar.label "Pubblica calendario...">
+<!ENTITY calendar.publish.calendar.label "Pubblica calendario…">
 <!ENTITY calendar.publish.calendar.accesskey "P">
-<!ENTITY calendar.publish.selection.label "Pubblica selezione...">
+<!ENTITY calendar.publish.selection.label "Pubblica selezione…">
 <!ENTITY calendar.publish.selection.accesskey "z">
 <!ENTITY calendar.quit.label "Esci">
 <!ENTITY calendar.quit.accesskey "E">
@@ -113,8 +113,6 @@
 <!ENTITY calendar.toolbar.accesskey "B">
 <!ENTITY task.toolbar.label "Barra strumenti attività">
 <!ENTITY task.toolbar.accesskey "v">
-<!ENTITY mode.toolbar.label "Modalità barra degli strumenti">
-<!ENTITY mode.toolbar.accesskey "M">
 <!ENTITY calendar.menu.customize.label "Personalizza…">
 <!ENTITY calendar.menu.customize.accesskey "P">
 <!ENTITY showStatusBarCmd.label "Barra di stato">
@@ -163,11 +161,11 @@
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY editMenu.label "Modifica">
 <!ENTITY editMenu.accesskey "M">
-<!ENTITY optionsCmd.label "Opzioni...">
+<!ENTITY optionsCmd.label "Opzioni…">
 <!ENTITY optionsCmd.accesskey "O">
 <!ENTITY preferencesCmd.label "Preferenze">
 <!ENTITY preferencesCmd.accesskey "P">
-<!ENTITY preferencesCmdMac.label "Preferenze...">
+<!ENTITY preferencesCmdMac.label "Preferenze…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY preferencesCmdMac.modifiers "accel">
 <!ENTITY viewMenu.label "Visualizza">

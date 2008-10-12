@@ -42,12 +42,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY calendar.file.default.name "Calendario personale">
 <!ENTITY calendar.calendar.label "Calendario">
 <!ENTITY calendar.calendar.accesskey "C">
-<!ENTITY calendar.confirm.deleteallevents "Sei sicuro di voler eliminare tutti gli eventi selezionati?">
-<!ENTITY calendar.confirm.deleteevent "Sei sicuro di voler eliminare l'evento intitolato: ">
-<!ENTITY calendar.confirm.deleteuntitledevent "Sei sicuro di voler eliminare questo evento senza titolo?">
 <!ENTITY calendar.flat.topbar.choosedate "Vai alla data">
 <!ENTITY calendar.flat.topbar.dayview "Vista giorno">
 <!ENTITY calendar.dayview.accesskey "V">
@@ -126,7 +122,7 @@
 <!ENTITY calendar.export.button.tooltip "Esporta eventi in un file locale">
 <!ENTITY calendar.subscribe.button.tooltip "Sottoscrivi un file di calendario di un computer in rete">
 <!ENTITY calendar.publish.button.tooltip "Pubblica gli eventi su un computer in rete">
-<!ENTITY calendar.export.calendar "Esporta calendario...">
+<!ENTITY calendar.export.calendar "Esporta calendario…">
 <!ENTITY calendar.import.button.label "Importa">
 <!ENTITY calendar.export.button.label "Esporta">
 <!ENTITY calendar.subscribe.button.label "Sottoscrivi">
@@ -201,7 +197,7 @@
 <!ENTITY calendar.context.newtodo.accesskey "t">
 <!ENTITY calendar.context.modifytask.label "Modifica attività…">
 <!ENTITY calendar.context.modifytask.accesskey "M">
-<!ENTITY calendar.context.modifyitem.label "Modifica elemento...">
+<!ENTITY calendar.context.modifyitem.label "Modifica elemento…">
 <!ENTITY calendar.context.modifyitem.accesskey "o">
 <!ENTITY calendar.context.deletetask.label "Elimina attività">
 <!ENTITY calendar.context.deletetask.accesskey "E">
@@ -252,7 +248,7 @@
 <!ENTITY priority.level.normal.accesskey "N">
 <!ENTITY priority.level.high "Alta">
 <!ENTITY priority.level.high.accesskey "A">
-<!ENTITY calendar.context.newserver.label "Nuovo calendario...">
+<!ENTITY calendar.context.newserver.label "Nuovo calendario…">
 <!ENTITY calendar.context.newserver.accesskey "N">
 <!ENTITY calendar.context.findcalendar.label "Trova calendario…">
 <!ENTITY calendar.context.findcalendar.accesskey "v">
@@ -260,9 +256,9 @@
 <!ENTITY calendar.context.deleteserver.accesskey "E">
 <!ENTITY calendar.context.reloadserver.label "Ricarica calendari remoti">
 <!ENTITY calendar.context.reloadserver.accesskey "R">
-<!ENTITY calendar.context.publish.label "Pubblica calendario...">
+<!ENTITY calendar.context.publish.label "Pubblica calendario…">
 <!ENTITY calendar.context.publish.accesskey "u">
-<!ENTITY calendar.context.export.label "Esporta calendario...">
+<!ENTITY calendar.context.export.label "Esporta calendario…">
 <!ENTITY calendar.context.export.accesskey "s">
 <!ENTITY calendar.context.properties.label "Proprietà">
 <!ENTITY calendar.context.properties.accesskey "P">
@@ -327,7 +323,7 @@
 <!ENTITY calendar.print.from.label "Da:">
 <!ENTITY calendar.print.to.label "A:">
 <!ENTITY calendar.print.settingsGroup.label "Impostazioni di stampa">
-<!ENTITY calendar.error.detail "Dettagli...">
+<!ENTITY calendar.error.detail "Dettagli…">
 <!ENTITY calendar.error.number "Errore numero:">
 <!ENTITY calendar.error.description "Descrizione:">
 <!ENTITY calendar.error.title "Si è verificato un errore">

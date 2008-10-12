@@ -40,7 +40,7 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "E">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Usa suono predefinito">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "U">
-<!ENTITY pref.calendar.alarms.sound.browse.label "Sfoglia...">
+<!ENTITY pref.calendar.alarms.sound.browse.label "Sfoglia…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "S">
 <!ENTITY pref.calendar.alarms.sound.preview.label "Anteprima">
 <!ENTITY pref.calendar.alarms.sound.preview.accessKey "A">
