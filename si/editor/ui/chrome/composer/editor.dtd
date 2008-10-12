@@ -1,1 +1,156 @@
-/data/cvs/Fx/hg/si/suite/chrome/mailnews/m
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+<link rel="icon" href="/l10n-central/si/static/hgicon.png" type="image/png" />
+<meta name="robots" content="index, nofollow"/>
+<link rel="stylesheet" href="/l10n-central/si/static/style-gitweb.css" type="text/css" />
+
+<style type="text/css">
+div.feed {
+  float: right;
+}
+a img {
+  border-width: 0px;
+}
+div.log_link {
+  width: 80px;
+  background-color: white;
+}
+
+div.log_body {
+  padding-left: 96px;
+}
+</style>
+
+<title>si: editor/ui/chrome/composer/editor.dtd@0e15a3845ae1</title>
+<link rel="alternate" type="application/atom+xml"
+   href="/l10n-central/si/atom-log" title="Atom feed for si"/>
+</head>
+<body>
+
+<div class="page_header">
+<a href="http://developer.mozilla.org/en/docs/Mercurial" title="Mercurial" style="float: right;">Mercurial</a><a href="/l10n-central/si/summary">si</a> - file revision - editor/ui/chrome/composer/editor.dtd@0e15a3845ae1
+</div>
+
+<div class="page_nav">
+<a href="/l10n-central/si/summary">summary</a> |
+<a href="/l10n-central/si/shortlog">shortlog</a> |
+<a href="/l10n-central/si/log">changelog</a> |
+<a href="/l10n-central/si/tags">tags</a> |
+<a href="/l10n-central/si/file/0e15a3845ae1/editor/ui/chrome/composer/">files</a> |
+<a href="/l10n-central/si/rev/0e15a3845ae1">changeset</a> |
+file |
+<a href="/l10n-central/si/log/0e15a3845ae1/editor/ui/chrome/composer/editor.dtd">revisions</a> |
+<a href="/l10n-central/si/annotate/0e15a3845ae1/editor/ui/chrome/composer/editor.dtd">annotate</a> |
+<a href="/l10n-central/si/diff/0e15a3845ae1/editor/ui/chrome/composer/editor.dtd">diff</a> |
+<a href="/l10n-central/si/raw-file/0e15a3845ae1/editor/ui/chrome/composer/editor.dtd">raw</a><br/>
+</div>
+
+<div class="title">editor/ui/chrome/composer/editor.dtd</div>
+
+<div class="title_text">
+<table cellspacing="0">
+<tr>
+ <td>author</td>
+ <td>&#68;&#97;&#110;&#105;&#115;&#104;&#107;&#97;&#32;&#78;&#97;&#118;&#105;&#110;&#32;&#60;&#100;&#97;&#110;&#105;&#115;&#104;&#107;&#97;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;&#62;</td></tr>
+<tr>
+ <td></td>
+ <td>Thu Oct 02 11:12:29 2008 +0530 (at Thu Oct 02 11:12:29 2008 +0530)</td></tr>
+
+<tr>
+ <td>changeset 54</td>
+ <td style="font-family:monospace"><a class="list" href="/l10n-central/si/rev/0e15a3845ae1">0e15a3845ae1</a></td></tr>
+
+<tr><td>child 73</td><td style="font-family:monospace"><a class="list" href="/l10n-central/si/file/27e688f1ce0f/editor/ui/chrome/composer/editor.dtd">27e688f1ce0f</a></td></tr>
+<tr>
+ <td>permissions</td>
+ <td style="font-family:monospace">-rw-r--r--</td></tr>
+</table>
+</div>
+
+<div class="page_path">
+added  mail/installer/
+</div>
+
+<div class="page_body">
+<div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l1" id="l1">     1</a> &lt;!-- ***** BEGIN LICENSE BLOCK *****
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l2" id="l2">     2</a>    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l3" id="l3">     3</a>    -
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l4" id="l4">     4</a>    - The contents of this file are subject to the Mozilla Public License Version
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l5" id="l5">     5</a>    - 1.1 (the &quot;License&quot;); you may not use this file except in compliance with
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l6" id="l6">     6</a>    - the License. You may obtain a copy of the License at
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l7" id="l7">     7</a>    - http://www.mozilla.org/MPL/
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l8" id="l8">     8</a>    -
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l9" id="l9">     9</a>    - Software distributed under the License is distributed on an &quot;AS IS&quot; basis,
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l10" id="l10">    10</a>    - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l11" id="l11">    11</a>    - for the specific language governing rights and limitations under the
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l12" id="l12">    12</a>    - License.
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l13" id="l13">    13</a>    -
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l14" id="l14">    14</a>    - The Original Code is Mozilla Communicator client code, released
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l15" id="l15">    15</a>    - March 31, 1998.
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l16" id="l16">    16</a>    -
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l17" id="l17">    17</a>    - The Initial Developer of the Original Code is
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l18" id="l18">    18</a>    - Netscape Communications Corporation.
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l19" id="l19">    19</a>    - Portions created by the Initial Developer are Copyright (C) 1999
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l20" id="l20">    20</a>    - the Initial Developer. All Rights Reserved.
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l21" id="l21">    21</a>    -
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l22" id="l22">    22</a>    - Contributor(s):
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l23" id="l23">    23</a>    -
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l24" id="l24">    24</a>    - Alternatively, the contents of this file may be used under the terms of
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l25" id="l25">    25</a>    - either of the GNU General Public License Version 2 or later (the &quot;GPL&quot;),
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l26" id="l26">    26</a>    - or the GNU Lesser General Public License Version 2.1 or later (the &quot;LGPL&quot;),
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l27" id="l27">    27</a>    - in which case the provisions of the GPL or the LGPL are applicable instead
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l28" id="l28">    28</a>    - of those above. If you wish to allow use of your version of this file only
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l29" id="l29">    29</a>    - under the terms of either the GPL or the LGPL, and not to allow others to
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l30" id="l30">    30</a>    - use your version of this file under the terms of the MPL, indicate your
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l31" id="l31">    31</a>    - decision by deleting the provisions above and replace them with the notice
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l32" id="l32">    32</a>    - and other provisions required by the GPL or the LGPL. If you do not delete
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l33" id="l33">    33</a>    - the provisions above, a recipient may use your version of this file under
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l34" id="l34">    34</a>    - the terms of any one of the MPL, the GPL or the LGPL.
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l35" id="l35">    35</a>    -
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l36" id="l36">    36</a>    - ***** END LICENSE BLOCK ***** --&gt;
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l37" id="l37">    37</a> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l38" id="l38">    38</a> &lt;!-- Window title --&gt;
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l39" id="l39">    39</a> &lt;!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE --&gt;
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l40" id="l40">    40</a> &lt;!ENTITY editorWindow.titlemodifier &quot;සකසනය&quot;&gt; 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l41" id="l41">    41</a> &lt;!ENTITY editorWindow.titlemodifiermenuseparator &quot; - &quot;&gt;
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l42" id="l42">    42</a> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l43" id="l43">    43</a> &lt;!-- Menu items:  the . means that the menu item isn't implemented yet --&gt;
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l44" id="l44">    44</a> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l45" id="l45">    45</a> &lt;!-- View menu items --&gt;
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l46" id="l46">    46</a> &lt;!ENTITY viewMenu.label &quot;දැකුම්&quot;&gt;
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l47" id="l47">    47</a> &lt;!ENTITY viewmenu.accesskey &quot;v&quot;&gt;
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l48" id="l48">    48</a> &lt;!ENTITY compositionToolbarCmd.label &quot;සංයුති මෙවලම් තීරුව&quot;&gt;
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l49" id="l49">    49</a> &lt;!ENTITY compositiontb.accesskey &quot;c&quot;&gt;
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l50" id="l50">    50</a> &lt;!ENTITY formattingToolbarCmd.label &quot;හැඩතල මෙවලම් තීරුව&quot;&gt;
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l51" id="l51">    51</a> &lt;!ENTITY formattingtb.accesskey &quot;f&quot;&gt;
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l52" id="l52">    52</a> &lt;!ENTITY editmodeToolbarCmd.label &quot;ප්‍රකාර මෙවලම් තීරුව සැකසීම&quot;&gt;
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l53" id="l53">    53</a> &lt;!ENTITY editmodetb.accesskey &quot;E&quot;&gt;
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l54" id="l54">    54</a> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l55" id="l55">    55</a> &lt;!-- Format menu items --&gt;
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l56" id="l56">    56</a> &lt;!ENTITY formatMenu.label &quot;හැඩතල&quot;&gt;
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l57" id="l57">    57</a> &lt;!ENTITY formatmenu.accesskey &quot;o&quot;&gt;
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l58" id="l58">    58</a> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l59" id="l59">    59</a> &lt;!ENTITY helpMenu.label &quot;උදවු&quot;&gt;
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l60" id="l60">    60</a> &lt;!ENTITY aboutCmd.label &quot; පිළිබඳ&quot;&gt;
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l61" id="l61">    61</a> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l62" id="l62">    62</a> &lt;!-- Display Mode Toolbar --&gt;
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l63" id="l63">    63</a> &lt;!ENTITY editMode.label &quot;සැකසුම් ප්‍රකාර:&quot;&gt;
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l64" id="l64">    64</a> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l65" id="l65">    65</a> &lt;!ENTITY statusText.label &quot;පූරණය වන පිටුව කරන ලදි&quot;&gt;
+</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l66" id="l66">    66</a> 
+</pre></div>
+</div>
+
+<div class="page_footer">
+<div class="page_footer_text">si</div>
+<div class="feed">
+<a href="/l10n-central/si/atom-log"><img src="http://www.mozilla.org/images/livemarks16.png" alt="Feed" title="Feed of repository changes"/></a>
+</div>
+<br />
+
+</div>
+</body>
+</html>
+
