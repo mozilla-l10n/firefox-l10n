@@ -64,6 +64,7 @@
 <!ENTITY pasteCmd.label "粘贴">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "p">
+<!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY editRewrapCmd.label "重新排版">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "w">

@@ -238,6 +238,7 @@
 <!ENTITY repeat.units.years.both "年">
 <!ENTITY event.recurrence.pattern.yearly.every.month.label "每">
 <!ENTITY event.recurrence.pattern.yearly.every.weekday.label "每">
+<!ENTITY event.recurrence.pattern.yearly.of.label "">
 <!ENTITY event.recurrence.pattern.yearly.month.1.label "一月">
 <!ENTITY event.recurrence.pattern.yearly.month.2.label "二月">
 <!ENTITY event.recurrence.pattern.yearly.month.3.label "三月">

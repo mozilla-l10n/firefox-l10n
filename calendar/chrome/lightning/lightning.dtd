@@ -62,14 +62,6 @@
 <!ENTITY lightning.toolbar.calendar.accesskey "C">
 <!ENTITY lightning.toolbar.task.label "任务">
 <!ENTITY lightning.toolbar.task.accesskey "T">
-<!ENTITY customize.toolbar.selector.label "工具栏：">
-<!ENTITY customize.toolbar.selector.mode "格式工具栏">
-<!ENTITY customize.toolbar.selector.mail "邮件工具栏">
-<!ENTITY customize.toolbar.selector.calendar "日历工具栏">
-<!ENTITY customize.toolbar.selector.task "任务工具栏">
-<!ENTITY customize.toolbar.location.label "位置：">
-<!ENTITY customize.toolbar.location.top "顶部">
-<!ENTITY customize.toolbar.location.bottom "底部">
 <!ENTITY lightning.toolbar.day.label "日">
 <!ENTITY lightning.toolbar.day.accesskey "D">
 <!ENTITY lightning.toolbar.week.label "周">
@@ -93,3 +85,4 @@
 <!ENTITY todaypane.showNone.accesskey "N">
 <!ENTITY todaypane.showTodayPane.label "显示今日面板">
 <!ENTITY todaypane.showTodayPane.accesskey "o">
+<!ENTITY todaypane.statusButton.label "今日面板">

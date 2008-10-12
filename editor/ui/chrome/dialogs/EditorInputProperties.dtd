@@ -50,11 +50,13 @@
 <!ENTITY button.value "按钮">
 <!ENTITY InputSettings.label "字段设置">
 <!ENTITY InputName.label "字段名称:">
+<!ENTITY InputName.accesskey "N">
 <!ENTITY GroupName.label "组名称:">
-<!ENTITY Name.accesskey "N">
+<!ENTITY GroupName.accesskey "N">
 <!ENTITY InputValue.label "字段值:">
+<!ENTITY InputValue.accesskey "V">
 <!ENTITY InitialValue.label "初始值:">
-<!ENTITY Value.accesskey "V">
+<!ENTITY InitialValue.accesskey "V">
 <!ENTITY InputChecked.label "默认选中">
 <!ENTITY InputChecked.accesskey "C">
 <!ENTITY InputSelected.label "默认选中">

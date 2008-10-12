@@ -2,9 +2,9 @@
 <!ENTITY authorName.label "作者:">
 <!ENTITY authorName.accesskey "u">
 <!ENTITY pageColorHeader "默认页面外观">
-<!ENTITY defaultColorsRadio.label "阅读器的默认颜色 （不使用页面中的颜色）">
+<!ENTITY defaultColors.label "阅读器的默认颜色（不设置页面中的颜色）">
 <!ENTITY defaultColors.accesskey "d">
-<!ENTITY customColorsRadio.label "使用定制颜色：">
+<!ENTITY customColors.label "使用自定义颜色：">
 <!ENTITY customColors.accesskey "c">
 <!ENTITY normalText.label "常规文本">
 <!ENTITY normalText.accesskey "N">

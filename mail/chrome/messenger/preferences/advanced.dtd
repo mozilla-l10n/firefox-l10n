@@ -1,4 +1,5 @@
 <!ENTITY itemGeneral.label "常规">
+<!ENTITY itemDisplay.label "阅读 &amp; 显示">
 <!ENTITY itemUpdate.label "更新">
 <!ENTITY itemNetworking.label "网络 &amp; 磁盘空间">
 <!ENTITY itemCertificates.label "证书">
@@ -13,8 +14,6 @@
 <!ENTITY secondsLabel.label "秒">
 <!ENTITY showFolderColumns.label "在文件夹面板中显示扩展的列。">
 <!ENTITY showFolderColumns.accesskey "l">
-<!ENTITY rememberLastMsg.label "记住最后选中的消息">
-<!ENTITY rememberLastMsg.accesskey "b">
 <!ENTITY openMsgIn.label "打开消息，使用：">
 <!ENTITY reuseExpRadio0.label "新的消息窗口">
 <!ENTITY reuseExpRadio0.accesskey "i">
@@ -22,15 +21,14 @@
 <!ENTITY reuseExpRadio1.accesskey "x">
 <!ENTITY reuseExpRadio2.label "新消息标签页">
 <!ENTITY reuseExpRadio2.accesskey "Z">
-<!ENTITY connectionTimeout.label "连接超时：">
-<!ENTITY connectionTimeout.accesskey "C">
-<!ENTITY connectionSeconds.label "秒">
 <!ENTITY configEditDesc.label "高级配置">
 <!ENTITY configEdit.label "配置编辑器…">
 <!ENTITY configEdit.accesskey "g">
 <!ENTITY returnReceiptsInfo.label "指定 &brandShortName; 如何处理回执">
 <!ENTITY showReturnReceipts.label "回执…">
 <!ENTITY showReturnReceipts.accesskey "R">
+<!ENTITY reading.caption "阅读">
+<!ENTITY display.caption "显示">
 <!ENTITY autoCheck.label "自动检查下列组件的更新：">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "h">
@@ -46,9 +44,9 @@
 <!ENTITY modeAutoAddonWarn.accesskey "-">
 <!ENTITY showUpdates.label "显示更新历史">
 <!ENTITY showUpdates.accesskey "y">
-<!ENTITY showConnections.label "连接…">
-<!ENTITY showConnections.accesskey "n">
-<!ENTITY proxiesInfo.label "指定 &brandShortName; 连接至因特网的方式。">
+<!ENTITY showSettings.label "设置…">
+<!ENTITY showSettings.accesskey "n">
+<!ENTITY proxiesConfigure.label "配置 &brandShortName; 连接至因特网的方式">
 <!ENTITY connectionsInfo.caption "连接">
 <!ENTITY offlineInfo.caption "脱机">
 <!ENTITY offlineInfo.label "配置脱机设置">
@@ -58,6 +56,11 @@
 <!ENTITY offlineCompact.label "压缩文件夹，当它的内容大于">
 <!ENTITY offlineCompact.accesskey "v">
 <!ENTITY kb.label "KB">
+<!ENTITY useCacheBefore.label "最多使用">
+<!ENTITY useCacheBefore.accesskey "U">
+<!ENTITY useCacheAfter.label "MB 磁盘空间作为缓存">
+<!ENTITY clearCacheNow.label "立即清空">
+<!ENTITY clearCacheNow.accesskey "C">
 <!ENTITY certificatesInfo2.label "管理证书、证书吊销列表、证书验证以及安全设备。">
 <!ENTITY viewCertificates.label "查看证书">
 <!ENTITY viewCertificates.accesskey "a">
