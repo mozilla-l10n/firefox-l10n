@@ -41,9 +41,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY lightning.taskLabel "Lightning">
-<!ENTITY lightning.menupopup.new.event.label "Evento...">
-<!ENTITY lightning.menupopup.new.task.label "Attività...">
-<!ENTITY lightning.menupopup.new.calendar.label "Calendario...">
+<!ENTITY lightning.menupopup.new.event.label "Evento…">
+<!ENTITY lightning.menupopup.new.task.label "Attività…">
+<!ENTITY lightning.menupopup.new.calendar.label "Calendario…">
 <!ENTITY lightning.menupopup.open.label "Apri">
 <!ENTITY lightning.menupopup.open.accesskey "A">
 <!ENTITY lightning.menupopup.open.message.label "Messaggi salvati…">
@@ -62,14 +62,6 @@
 <!ENTITY lightning.toolbar.calendar.accesskey "C">
 <!ENTITY lightning.toolbar.task.label "Attività">
 <!ENTITY lightning.toolbar.task.accesskey "A">
-<!ENTITY customize.toolbar.selector.label "Barra degli strumenti:">
-<!ENTITY customize.toolbar.selector.mode "Modalità barra degli strumenti">
-<!ENTITY customize.toolbar.selector.mail "Barra degli strumenti posta">
-<!ENTITY customize.toolbar.selector.calendar "Barra degli strumenti calendario">
-<!ENTITY customize.toolbar.selector.task "Barra strumenti attività">
-<!ENTITY customize.toolbar.location.label "Luogo:">
-<!ENTITY customize.toolbar.location.top "In cima">
-<!ENTITY customize.toolbar.location.bottom "In fondo">
 <!ENTITY lightning.toolbar.day.label "Giorno">
 <!ENTITY lightning.toolbar.day.accesskey "G">
 <!ENTITY lightning.toolbar.week.label "Settimana">
@@ -93,3 +85,4 @@
 <!ENTITY todaypane.showNone.accesskey "N">
 <!ENTITY todaypane.showTodayPane.label "Mostra il pannello Oggi">
 <!ENTITY todaypane.showTodayPane.accesskey "N">
+<!ENTITY todaypane.statusButton.label "Pannello Oggi">

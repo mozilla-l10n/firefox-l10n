@@ -89,7 +89,7 @@
 <!ENTITY event.menu.options.attachments.accesskey "w">
 <!ENTITY event.menu.options.attendees.label "Invita partecipanti…">
 <!ENTITY event.menu.options.attendees.accesskey "n">
-<!ENTITY event.menu.options.spellcheck.label "Correzione ortografica...">
+<!ENTITY event.menu.options.spellcheck.label "Correzione ortografica…">
 <!ENTITY event.menu.options.spellcheck.accesskey "C">
 <!ENTITY event.menu.options.inline.spellcheck.label "Controllo ortografico durante la digitazione">
 <!ENTITY event.menu.options.inline.spellcheck.accesskey "C">
@@ -193,7 +193,7 @@
 <!ENTITY event.reminder.1day.before.label "1 giorno prima">
 <!ENTITY event.reminder.2days.before.label "2 giorni prima">
 <!ENTITY event.reminder.1week.before.label "1 settimana prima">
-<!ENTITY event.reminder.custom.label "Personalizzato...">
+<!ENTITY event.reminder.custom.label "Personalizzato…">
 <!ENTITY event.reminder.multiple.label "Promemoria multipli…">
 <!ENTITY recurrence.title.label "Modifica ricorrenza">
 <!ENTITY event.repeat.does.not.repeat.label "Nessuna ripetizione">
@@ -203,7 +203,7 @@
 <!ENTITY event.repeat.bi.weekly.label "Bisettimanale">
 <!ENTITY event.repeat.monthly.label "Mensile">
 <!ENTITY event.repeat.yearly.label "Annuale">
-<!ENTITY event.repeat.custom.label "Personalizzata...">
+<!ENTITY event.repeat.custom.label "Personalizzata…">
 <!ENTITY event.recurrence.pattern.label "Modello di ricorrenza">
 <!ENTITY event.recurrence.occurs.label "Ripeti">
 <!ENTITY event.recurrence.day.label "giornalmente">

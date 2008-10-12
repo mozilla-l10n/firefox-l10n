@@ -36,10 +36,10 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY pref.categories.add.title "Aggiungi categoria">
-<!ENTITY pref.categories.addButton.label "Aggiungi...">
+<!ENTITY pref.categories.addButton.label "Aggiungi…">
 <!ENTITY pref.categories.addButton.accesskey "A">
 <!ENTITY pref.categories.edit.title "Modifica categoria">
-<!ENTITY pref.categories.editButton.label "Modifica...">
+<!ENTITY pref.categories.editButton.label "Modifica…">
 <!ENTITY pref.categories.editButton.accesskey "M">
 <!ENTITY pref.categories.removeButton.label "Rimuovi">
 <!ENTITY pref.categories.removeButton.accesskey "R">
