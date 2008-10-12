@@ -113,8 +113,6 @@
 <!ENTITY calendar.toolbar.accesskey "T">
 <!ENTITY task.toolbar.label "任务工具栏">
 <!ENTITY task.toolbar.accesskey "b">
-<!ENTITY mode.toolbar.label "风格工具栏">
-<!ENTITY mode.toolbar.accesskey "M">
 <!ENTITY calendar.menu.customize.label "自定义…">
 <!ENTITY calendar.menu.customize.accesskey "C">
 <!ENTITY showStatusBarCmd.label "状态栏">

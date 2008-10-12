@@ -35,29 +35,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY time.midnight "午夜">
-<!ENTITY time.1 "1:00 上午">
-<!ENTITY time.2 "2:00 上午">
-<!ENTITY time.3 "3:00 上午">
-<!ENTITY time.4 "4:00 上午">
-<!ENTITY time.5 "5:00 上午">
-<!ENTITY time.6 "6:00 上午">
-<!ENTITY time.7 "7:00 上午">
-<!ENTITY time.8 "8:00 上午">
-<!ENTITY time.9 "9:00 上午">
-<!ENTITY time.10 "10:00 上午">
-<!ENTITY time.11 "11:00 上午">
 <!ENTITY time.noon "中午">
-<!ENTITY time.13 "1:00 下午">
-<!ENTITY time.14 "2:00 下午">
-<!ENTITY time.15 "3:00 下午">
-<!ENTITY time.16 "4:00 下午">
-<!ENTITY time.17 "5:00 下午">
-<!ENTITY time.18 "6:00 下午">
-<!ENTITY time.19 "7:00 下午">
-<!ENTITY time.20 "8:00 下午">
-<!ENTITY time.21 "9:00 下午">
-<!ENTITY time.22 "10:00 下午">
-<!ENTITY time.23 "11:00 下午">
 <!ENTITY day.1.Ddd "日">
 <!ENTITY day.1.Ddd.accesskey "S">
 <!ENTITY day.2.Ddd "一">
