@@ -40,322 +40,322 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Menubar -->
-<!ENTITY  event.menu.file.label                           "File">
+<!ENTITY  event.menu.file.label                           "ගොනු">
 <!ENTITY  event.menu.file.accesskey                       "F">
-<!ENTITY  event.menu.file.new.label                       "New">
+<!ENTITY  event.menu.file.new.label                       "නව">
 <!ENTITY  event.menu.file.new.accesskey                   "N">
-<!ENTITY  event.menu.file.new.event.label                 "Event">
+<!ENTITY  event.menu.file.new.event.label                 "වැඩසටහන">
 <!ENTITY  event.menu.file.new.event.accesskey             "E">
-<!ENTITY  event.menu.file.new.message.label               "Message">
+<!ENTITY  event.menu.file.new.message.label               "පණිවිඩය">
 <!ENTITY  event.menu.file.new.message.accesskey           "M">
-<!ENTITY  event.menu.file.new.address.label               "Address Book Card">
+<!ENTITY  event.menu.file.new.address.label               "ලිපින පොත් පත">
 <!ENTITY  event.menu.file.new.address.accesskey           "C">
-<!ENTITY  event.menu.file.close.label                     "Close">
+<!ENTITY  event.menu.file.close.label                     "වහන්න">
 <!ENTITY  event.menu.file.close.accesskey                 "C">
-<!ENTITY  event.menu.file.save.label                      "Save">
+<!ENTITY  event.menu.file.save.label                      "සුරකින්න">
 <!ENTITY  event.menu.file.save.accesskey                  "S">
-<!ENTITY  event.menu.file.page.setup.label                "Page Setup">
+<!ENTITY  event.menu.file.page.setup.label                "පිටු සැකසුම">
 <!ENTITY  event.menu.file.page.setup.accesskey            "u">
-<!ENTITY  event.menu.file.print.label                     "Print">
+<!ENTITY  event.menu.file.print.label                     "මුද්‍රණය කරන්න">
 <!ENTITY  event.menu.file.print.accesskey                 "P">
-<!ENTITY  event.menu.file.exit.label                      "Exit">
+<!ENTITY  event.menu.file.exit.label                      "පිට වෙන්න">
 <!ENTITY  event.menu.file.exit.accesskey                  "x">
 
-<!ENTITY  event.menu.edit.label                           "Edit">
+<!ENTITY  event.menu.edit.label                           "සැකසුම්">
 <!ENTITY  event.menu.edit.accesskey                       "E">
-<!ENTITY  event.menu.edit.undo.label                      "Undo">
+<!ENTITY  event.menu.edit.undo.label                      "අහෝසි කරන්න">
 <!ENTITY  event.menu.edit.undo.accesskey                  "U">
-<!ENTITY  event.menu.edit.redo.label                      "Redo">
+<!ENTITY  event.menu.edit.redo.label                      "යළි කරන්න">
 <!ENTITY  event.menu.edit.redo.accesskey                  "R">
-<!ENTITY  event.menu.edit.cut.label                       "Cut">
+<!ENTITY  event.menu.edit.cut.label                       "කපන්න">
 <!ENTITY  event.menu.edit.cut.accesskey                   "t">
-<!ENTITY  event.menu.edit.copy.label                      "Copy">
+<!ENTITY  event.menu.edit.copy.label                      "පිටපත් කරන්න">
 <!ENTITY  event.menu.edit.copy.accesskey                  "C">
-<!ENTITY  event.menu.edit.paste.label                     "Paste">
+<!ENTITY  event.menu.edit.paste.label                     "අලවන්න">
 <!ENTITY  event.menu.edit.paste.accesskey                 "P">
-<!ENTITY  event.menu.edit.select.all.label                "Select All">
+<!ENTITY  event.menu.edit.select.all.label                "සියල්ල තෝරන්න">
 <!ENTITY  event.menu.edit.select.all.accesskey            "A">
 
-<!ENTITY  event.menu.view.label                           "View">
+<!ENTITY  event.menu.view.label                           "දැකුම්">
 <!ENTITY  event.menu.view.accesskey                       "V">
-<!ENTITY  event.menu.view.toolbars.label                  "Toolbars">
+<!ENTITY  event.menu.view.toolbars.label                  "මෙවලම් තීරු">
 <!ENTITY  event.menu.view.toolbars.accesskey              "T">
-<!ENTITY  event.menu.view.toolbars.event.label            "Event Toolbar">
+<!ENTITY  event.menu.view.toolbars.event.label            "වැඩසටහන් තීරුව">
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "E">
-<!ENTITY  event.menu.view.toolbars.customize.label        "Customize…">
+<!ENTITY  event.menu.view.toolbars.customize.label        "රිසිකරණය…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "C">
-<!ENTITY  event.menu.view.showlink.label                  "Show Related Link">
+<!ENTITY  event.menu.view.showlink.label                  "අදාළ ඈඳුම් පෙන්වන්න">
 <!ENTITY  event.menu.view.showlink.accesskey              "R">
 
-<!ENTITY  event.menu.options.label                            "Options">
+<!ENTITY  event.menu.options.label                            "විකල්ප">
 <!ENTITY  event.menu.options.accesskey                        "O">
-<!ENTITY  event.menu.options.attachments.label                "Attach Webpage…">
+<!ENTITY  event.menu.options.attachments.label                "වෙබ් පිටුවක් අමුණන්න…">
 <!ENTITY  event.menu.options.attachments.accesskey            "W">
-<!ENTITY  event.menu.options.attendees.label                  "Invite Attendees…">
+<!ENTITY  event.menu.options.attendees.label                  "සහභාගී වන්නන්ට ආරාධනා කරන්න…">
 <!ENTITY  event.menu.options.attendees.accesskey              "I">
-<!ENTITY  event.menu.options.spellcheck.label                 "Check Spelling…">
+<!ENTITY  event.menu.options.spellcheck.label                 "අක්ෂර වින්‍යාසය පිරික්සන්න…">
 <!ENTITY  event.menu.options.spellcheck.accesskey             "h">
-<!ENTITY  event.menu.options.inline.spellcheck.label          "Spell Check As You Type">
+<!ENTITY  event.menu.options.inline.spellcheck.label          "ලියන විට අක්ෂර වින්‍යාසය පිරික්සන්න">
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "S">
-<!ENTITY  event.menu.options.link.label                       "Add Link…">
+<!ENTITY  event.menu.options.link.label                       "ඈඳුමක් එක් කරන්න…">
 <!ENTITY  event.menu.options.link.accesskey                   "L">
-<!ENTITY  event.menu.options.timezone.label                   "Timezone">
+<!ENTITY  event.menu.options.timezone.label                   "වේලා කළාපය">
 <!ENTITY  event.menu.options.timezone.accesskey               "z">
-<!ENTITY  event.menu.options.priority2.label                  "Priority">
+<!ENTITY  event.menu.options.priority2.label                  "ප්‍රමුඛත්වය">
 <!ENTITY  event.menu.options.priority2.accesskey              "y">
-<!ENTITY  event.menu.options.priority.notspecified.label      "Not specified">
+<!ENTITY  event.menu.options.priority.notspecified.label      "විශේෂණය කර නැතNot specified">
 <!ENTITY  event.menu.options.priority.notspecified.accesskey  "o">
-<!ENTITY  event.menu.options.priority.low.label               "Low">
+<!ENTITY  event.menu.options.priority.low.label               "පහළ">
 <!ENTITY  event.menu.options.priority.low.accesskey           "L">
-<!ENTITY  event.menu.options.priority.normal.label            "Normal">
+<!ENTITY  event.menu.options.priority.normal.label            "සාමාන්‍ය">
 <!ENTITY  event.menu.options.priority.normal.accesskey        "N">
-<!ENTITY  event.menu.options.priority.high.label              "High">
+<!ENTITY  event.menu.options.priority.high.label              "ඉහළ">
 <!ENTITY  event.menu.options.priority.high.accesskey          "H">
-<!ENTITY  event.menu.options.privacy.label                    "Privacy">
+<!ENTITY  event.menu.options.privacy.label                    "පුද්ගලිකත්වය">
 <!ENTITY  event.menu.options.privacy.accesskey                "P">
-<!ENTITY  event.menu.options.privacy.public.label             "Public Event">
+<!ENTITY  event.menu.options.privacy.public.label             "පොදු වැඩසටහන">
 <!ENTITY  event.menu.options.privacy.public.accesskey         "u">
-<!ENTITY  event.menu.options.privacy.confidential.label       "Show Time and Date Only">
+<!ENTITY  event.menu.options.privacy.confidential.label       "වේලාව හා දිනය පමණක් පෙන්වන්න">
 <!ENTITY  event.menu.options.privacy.confidential.accesskey   "S">
-<!ENTITY  event.menu.options.privacy.private.label            "Private Event">
+<!ENTITY  event.menu.options.privacy.private.label            "පුද්ගලික වැඩසටහන">
 <!ENTITY  event.menu.options.privacy.private.accesskey        "r">
-<!ENTITY  event.menu.options.show.time.label                  "Show Time as">
+<!ENTITY  event.menu.options.show.time.label                  "දිනය මේ ආකාරයෙන් පෙන්වන්න">
 <!ENTITY  event.menu.options.show.time.accesskey              "T">
-<!ENTITY  event.menu.options.show.time.busy.label             "Busy">
+<!ENTITY  event.menu.options.show.time.busy.label             "කාර්‍යය බහුලයි">
 <!ENTITY  event.menu.options.show.time.busy.accesskey         "B">
-<!ENTITY  event.menu.options.show.time.free.label             "Free">
+<!ENTITY  event.menu.options.show.time.free.label             "නිදහස්">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "F">
 
-<!ENTITY event.help.label                                 "Help">
+<!ENTITY event.help.label                                 "උදව්">
 <!ENTITY event.help.accesskey                             "H">
-<!ENTITY event.help.release.notes.label                   "Release Notes">
+<!ENTITY event.help.release.notes.label                   "නිදහස් කිරීමේ සටහන්">
 <!ENTITY event.help.release.notes.accesskey               "R">
-<!ENTITY event.help.help.label                            "&brandShortName; Help">
+<!ENTITY event.help.help.label                            "&brandShortName; උදව්">
 <!ENTITY event.help.help.accesskey                        "H">
-<!ENTITY event.help.about.label                           "About &brandShortName;">
+<!ENTITY event.help.about.label                           "&brandShortName; ගැන">
 <!ENTITY event.help.about.accesskey                       "A">
 
-<!ENTITY event.invite.attendees.label                     "Invite Attendees…">
+<!ENTITY event.invite.attendees.label                     "සහභාගී වන්නන්ට ආරාධනා කරන්න…">
 <!ENTITY event.invite.attendees.accesskey                 "I">
-<!ENTITY event.email.attendees.label                      "Compose E-Mail to All Attendees…">
+<!ENTITY event.email.attendees.label                      "සියළු සහභාගී වන්නන්ට විද්‍යුත් ලිපි සාදන්න…">
 <!ENTITY event.email.attendees.accesskey                  "A">
-<!ENTITY event.email.tentative.attendees.label            "Compose E-Mail to Undecided Attendees…">
+<!ENTITY event.email.tentative.attendees.label            "තීරණය කර නොමැති සහභාගී වන්නන්ට විද්‍යුත් ලිපි සාදන්න…">
 <!ENTITY event.email.tentative.attendees.accesskey        "U">
 
 <!-- Toolbar -->
-<!ENTITY  event.toolbar.save.label                        "Save and Close">
-<!ENTITY  event.toolbar.attendees.label                   "Invite Attendees">
-<!ENTITY  event.toolbar.spellcheck.label                  "Spellcheck">
-<!ENTITY  event.toolbar.privacy.label                     "Privacy">
-<!ENTITY  event.toolbar.attachments.label                 "Attach">
+<!ENTITY  event.toolbar.save.label                        "සුරකින්න සහ වහන්න">
+<!ENTITY  event.toolbar.attendees.label                   "සහභාගී වන්නන්ට ආරාධනා කරන්න">
+<!ENTITY  event.toolbar.spellcheck.label                  "අක්ෂර වින්‍යාසය පරීක්ෂා කරන්න">
+<!ENTITY  event.toolbar.privacy.label                     "පුද්ගලිකත්වය">
+<!ENTITY  event.toolbar.attachments.label                 "ඈඳන්න">
 
 <!-- Main page -->
-<!ENTITY event.title.textbox.label                        "Title:" >
+<!ENTITY event.title.textbox.label                        "මාතෘකාව:" >
 <!ENTITY event.title.textbox.accesskey                    "T">
-<!ENTITY event.location.label                             "Location:" >
+<!ENTITY event.location.label                             "ස්ථානය:" >
 <!ENTITY event.location.accesskey                         "L">
-<!ENTITY event.categories.label                           "Category:">
+<!ENTITY event.categories.label                           "ප්‍රභේදය:">
 <!ENTITY event.categories.accesskey                       "y">
-<!ENTITY event.calendar.label                             "Calendar:" >
+<!ENTITY event.calendar.label                             "දිනදර්ශනය:" >
 <!ENTITY event.calendar.accesskey                         "C">
-<!ENTITY event.attendees.label                            "Attendees:" >
+<!ENTITY event.attendees.label                            "සහභාගී වන්නන්:" >
 <!ENTITY event.attendees.accesskey                        "I" >
-<!ENTITY event.alldayevent.label                          "All day Event" >
+<!ENTITY event.alldayevent.label                          "දවස පුරා වැඩසටහනක්" >
 <!ENTITY event.alldayevent.accesskey                      "d">
-<!ENTITY event.from.label                                 "Start:" >
+<!ENTITY event.from.label                                 "ආරම්භය:" >
 <!ENTITY event.from.accesskey                             "S">
-<!ENTITY task.from.label                                  "Start:" >
+<!ENTITY task.from.label                                  "ආරම්භය:" >
 <!ENTITY task.from.accesskey                              "B">
-<!ENTITY event.to.label                                   "End:" >
+<!ENTITY event.to.label                                   "අවසානය:" >
 <!ENTITY event.to.accesskey                               "n">
-<!ENTITY task.to.label                                    "Due Date:" >
+<!ENTITY task.to.label                                    "නියමිත දිනය:" >
 <!ENTITY task.to.accesskey                                "u">
-<!ENTITY task.status.label                                "Status:" >
+<!ENTITY task.status.label                                "තත්වය:" >
 <!ENTITY task.status.accesskey                            "a">
-<!ENTITY event.repeat.label                               "Repeat:" >
+<!ENTITY event.repeat.label                               "යළි කරන්න" >
 <!ENTITY event.repeat.accesskey                           "R">
-<!ENTITY event.reminder.label                             "Reminder:" >
+<!ENTITY event.reminder.label                             "මතක් කරනය:" >
 <!ENTITY event.reminder.accesskey                         "m">
-<!ENTITY event.description.label                          "Description:" >
+<!ENTITY event.description.label                          "විස්තර:" >
 <!ENTITY event.description.accesskey                      "p">
-<!ENTITY event.attachments.label                          "Attachments:" >
+<!ENTITY event.attachments.label                          "ඈඳුම්:" >
 <!ENTITY event.attachments.accesskey                      "h" >
-<!ENTITY event.attachments.popup.remove.label             "Remove" >
+<!ENTITY event.attachments.popup.remove.label             "ඉවත් කරන්න" >
 <!ENTITY event.attachments.popup.remove.accesskey         "R" >
-<!ENTITY event.attachments.popup.open.label               "Open" >
+<!ENTITY event.attachments.popup.open.label               "විවෘත කරන්න" >
 <!ENTITY event.attachments.popup.open.accesskey           "O" >
-<!ENTITY event.attachments.popup.removeAll.label          "Remove All" >
+<!ENTITY event.attachments.popup.removeAll.label          "සියල්ල ඉවත් කරන්න" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "A" >
-<!ENTITY event.attachments.popup.attachPage.label         "Attach Webpage…" >
+<!ENTITY event.attachments.popup.attachPage.label         "වෙබ් පිටුව ඈඳන්න…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "W" >
-<!ENTITY event.url.label                                  "Related Link:" >
-<!ENTITY event.priority2.label                            "Priority:">
+<!ENTITY event.url.label                                  "අදාළ ඈඳුම:" >
+<!ENTITY event.priority2.label                            "ප්‍රමුඛත්වය:">
 
-<!ENTITY event.reminder.none.label                        "No reminder " >
-<!ENTITY event.reminder.5minutes.before.label             "5 minutes before" >
-<!ENTITY event.reminder.10minutes.before.label            "10 minutes before" >
-<!ENTITY event.reminder.15minutes.before.label            "15 minutes before" >
-<!ENTITY event.reminder.30minutes.before.label            "30 minutes before" >
-<!ENTITY event.reminder.45minutes.before.label            "45 minutes before" >
-<!ENTITY event.reminder.1hour.before.label                "1 hour before" >
-<!ENTITY event.reminder.2hours.before.label               "2 hours before" >
-<!ENTITY event.reminder.5hours.before.label               "5 hours before" >
-<!ENTITY event.reminder.15hours.before.label              "15 hours before" >
-<!ENTITY event.reminder.1day.before.label                 "1 day before" >
-<!ENTITY event.reminder.2days.before.label                "2 days before" >
-<!ENTITY event.reminder.1week.before.label                "1 week before" >
-<!ENTITY event.reminder.custom.label                      "Custom…" >
+<!ENTITY event.reminder.none.label                        "මතක් කිරීමක් නැත " >
+<!ENTITY event.reminder.5minutes.before.label             "මිනිත්තු 5 ක් පෙර" >
+<!ENTITY event.reminder.10minutes.before.label            "මිනිත්තු 10 ක් පෙර" >
+<!ENTITY event.reminder.15minutes.before.label            "මිනිත්තු 15 ක් පෙර" >
+<!ENTITY event.reminder.30minutes.before.label            "මිනිත්තු 30 ක් පෙර" >
+<!ENTITY event.reminder.45minutes.before.label            "මිනිත්තු 45 ක් පෙර" >
+<!ENTITY event.reminder.1hour.before.label                "පැයකට පෙර" >
+<!ENTITY event.reminder.2hours.before.label               "පැය 2 කට පෙර" >
+<!ENTITY event.reminder.5hours.before.label               "පැය 5 කට පෙර" >
+<!ENTITY event.reminder.15hours.before.label              "පැය 15 කට පෙර" >
+<!ENTITY event.reminder.1day.before.label                 "දවසකට පෙර" >
+<!ENTITY event.reminder.2days.before.label                "දවස් 2 කට පෙර" >
+<!ENTITY event.reminder.1week.before.label                "සතියකට පෙර" >
+<!ENTITY event.reminder.custom.label                      "රිසි පරිදි…" >
 
-<!ENTITY event.reminder.multiple.label                    "Multiple Reminders…" >
+<!ENTITY event.reminder.multiple.label                    "බහු මතක් කිරීම්…" >
 
 <!-- Recurrence dialog -->
 
-<!ENTITY recurrence.title.label                         "Edit Recurrence">
+<!ENTITY recurrence.title.label                         "නැවත සිදුවීම සකසන්න">
 
-<!ENTITY event.repeat.does.not.repeat.label             "Does not repeat">
-<!ENTITY event.repeat.daily.label                       "Daily">
-<!ENTITY event.repeat.weekly.label                      "Weekly">
-<!ENTITY event.repeat.every.weekday.label               "Every Weekday">
-<!ENTITY event.repeat.bi.weekly.label                   "Bi-weekly">
-<!ENTITY event.repeat.monthly.label                     "Monthly">
-<!ENTITY event.repeat.yearly.label                      "Yearly">
-<!ENTITY event.repeat.custom.label                      "Custom…">
+<!ENTITY event.repeat.does.not.repeat.label             "නැවත සිදුවන්නේ නැත">
+<!ENTITY event.repeat.daily.label                       "දිනපතා">
+<!ENTITY event.repeat.weekly.label                      "සතිපතා">
+<!ENTITY event.repeat.every.weekday.label               "සෑම සතියේ දිනකම">
+<!ENTITY event.repeat.bi.weekly.label                   "සති දෙකකට වරක්">
+<!ENTITY event.repeat.monthly.label                     "මාස්පතා">
+<!ENTITY event.repeat.yearly.label                      "වර්ෂයක් පාසා">
+<!ENTITY event.repeat.custom.label                      "රිසි පරිදි…">
 
-<!ENTITY event.recurrence.pattern.label                 "Recurrence pattern">
-<!ENTITY event.recurrence.occurs.label                  "Repeat" >
-<!ENTITY event.recurrence.day.label                     "daily" >
-<!ENTITY event.recurrence.week.label                    "weekly" >
-<!ENTITY event.recurrence.month.label                   "monthly" >
-<!ENTITY event.recurrence.year.label                    "annually" >
+<!ENTITY event.recurrence.pattern.label                 "නැවත සිදුවීමේ රටාව">
+<!ENTITY event.recurrence.occurs.label                  "නැවත කරන්න" >
+<!ENTITY event.recurrence.day.label                     "දිනපතා" >
+<!ENTITY event.recurrence.week.label                    "සතිපතා" >
+<!ENTITY event.recurrence.month.label                   "මාස්පතා" >
+<!ENTITY event.recurrence.year.label                    "වර්ෂයකට වරක්" >
 
-<!ENTITY event.recurrence.pattern.every.label           "Every" >
-<!ENTITY repeat.units.days.both                         "Day(s)" >
-<!ENTITY event.recurrence.pattern.every.weekday.label   "Every weekday" >
+<!ENTITY event.recurrence.pattern.every.label           "සෑම" >
+<!ENTITY repeat.units.days.both                         "දින (දිනය)" >
+<!ENTITY event.recurrence.pattern.every.weekday.label   "සෑම සතියේ දිනකම" >
 
-<!ENTITY event.recurrence.pattern.weekly.every.label    "Every" >
-<!ENTITY repeat.units.weeks.both                        "Week(s)" >
-<!ENTITY event.recurrence.on.label                      "On:" >
+<!ENTITY event.recurrence.pattern.weekly.every.label    "සෑම" >
+<!ENTITY repeat.units.weeks.both                        "සතිය (සති)" >
+<!ENTITY event.recurrence.on.label                      "දින:" >
 
-<!ENTITY event.recurrence.pattern.monthly.every.label   "Every" >
-<!ENTITY repeat.units.months.both                       "Month(s)" >
-<!ENTITY event.recurrence.the.label                     "The" >
-<!ENTITY event.recurrence.repeat.first.label            "First">
-<!ENTITY event.recurrence.repeat.second.label           "Second">
-<!ENTITY event.recurrence.repeat.third.label            "Third">
-<!ENTITY event.recurrence.repeat.fourth.label           "Fourth">
-<!ENTITY event.recurrence.repeat.fifth.label            "Fifth">
-<!ENTITY event.recurrence.repeat.last.label             "Last">
-<!ENTITY event.recurrence.pattern.monthly.week.1.label  "Sunday" >
-<!ENTITY event.recurrence.pattern.monthly.week.2.label  "Monday" >
-<!ENTITY event.recurrence.pattern.monthly.week.3.label  "Tuesday" >
-<!ENTITY event.recurrence.pattern.monthly.week.4.label  "Wednesday" >
-<!ENTITY event.recurrence.pattern.monthly.week.5.label  "Thursday" >
-<!ENTITY event.recurrence.pattern.monthly.week.6.label  "Friday" >
-<!ENTITY event.recurrence.pattern.monthly.week.7.label  "Saturday" >
-<!ENTITY event.recurrence.repeat.dayofmonth.label       "Day of the month">
-<!ENTITY event.recurrence.repeat.recur.label            "Recur on day(s)">
+<!ENTITY event.recurrence.pattern.monthly.every.label   "සෑම" >
+<!ENTITY repeat.units.months.both                       "මාසය (මාස)" >
+<!ENTITY event.recurrence.the.label                     "" >
+<!ENTITY event.recurrence.repeat.first.label            "පළමු">
+<!ENTITY event.recurrence.repeat.second.label           "දෙවන">
+<!ENTITY event.recurrence.repeat.third.label            "තෙවන">
+<!ENTITY event.recurrence.repeat.fourth.label           "හතරවන">
+<!ENTITY event.recurrence.repeat.fifth.label            "පස්වන">
+<!ENTITY event.recurrence.repeat.last.label             "අවසාන">
+<!ENTITY event.recurrence.pattern.monthly.week.1.label  "ඉරිදා" >
+<!ENTITY event.recurrence.pattern.monthly.week.2.label  "සඳුදා" >
+<!ENTITY event.recurrence.pattern.monthly.week.3.label  "අඟහරුවාදා" >
+<!ENTITY event.recurrence.pattern.monthly.week.4.label  "බදාදා" >
+<!ENTITY event.recurrence.pattern.monthly.week.5.label  "බ්‍රහස්පතින්දා" >
+<!ENTITY event.recurrence.pattern.monthly.week.6.label  "සිකුරාදා" >
+<!ENTITY event.recurrence.pattern.monthly.week.7.label  "සෙනසුරාදා" >
+<!ENTITY event.recurrence.repeat.dayofmonth.label       "මාසයේ දිනය">
+<!ENTITY event.recurrence.repeat.recur.label            "දිනයේ(දින) නැවත කරන්න">
 
-<!ENTITY event.recurrence.every.label                        "Every:" >
-<!ENTITY repeat.units.years.both                             "Year(s)" >
-<!ENTITY event.recurrence.pattern.yearly.every.month.label   "Every" >
-<!ENTITY event.recurrence.pattern.yearly.every.weekday.label "Every" >
-<!ENTITY event.recurrence.pattern.yearly.month.1.label       "January" >
-<!ENTITY event.recurrence.pattern.yearly.month.2.label       "February" >
-<!ENTITY event.recurrence.pattern.yearly.month.3.label       "March" >
-<!ENTITY event.recurrence.pattern.yearly.month.4.label       "April" >
-<!ENTITY event.recurrence.pattern.yearly.month.5.label       "May" >
-<!ENTITY event.recurrence.pattern.yearly.month.6.label       "June" >
-<!ENTITY event.recurrence.pattern.yearly.month.7.label       "July" >
-<!ENTITY event.recurrence.pattern.yearly.month.8.label       "August" >
-<!ENTITY event.recurrence.pattern.yearly.month.9.label       "September" >
-<!ENTITY event.recurrence.pattern.yearly.month.10.label      "October" >
-<!ENTITY event.recurrence.pattern.yearly.month.11.label      "November" >
-<!ENTITY event.recurrence.pattern.yearly.month.12.label      "December" >
-<!ENTITY event.recurrence.pattern.yearly.first.label         "First">
-<!ENTITY event.recurrence.pattern.yearly.second.label        "Second">
-<!ENTITY event.recurrence.pattern.yearly.third.label         "Third">
-<!ENTITY event.recurrence.pattern.yearly.fourth.label        "Fourth">
-<!ENTITY event.recurrence.pattern.yearly.fifth.label         "Fifth">
-<!ENTITY event.recurrence.pattern.yearly.last.label          "Last">
-<!ENTITY event.recurrence.pattern.yearly.week.1.label        "Sunday" >
-<!ENTITY event.recurrence.pattern.yearly.week.2.label        "Monday" >
-<!ENTITY event.recurrence.pattern.yearly.week.3.label        "Tuesday" >
-<!ENTITY event.recurrence.pattern.yearly.week.4.label        "Wednesday" >
-<!ENTITY event.recurrence.pattern.yearly.week.5.label        "Thursday" >
-<!ENTITY event.recurrence.pattern.yearly.week.6.label        "Friday" >
-<!ENTITY event.recurrence.pattern.yearly.week.7.label        "Saturday" >
-<!ENTITY event.recurrence.of.label                           "of" >
-<!ENTITY event.recurrence.pattern.yearly.month2.1.label      "January" >
-<!ENTITY event.recurrence.pattern.yearly.month2.2.label      "February" >
-<!ENTITY event.recurrence.pattern.yearly.month2.3.label      "March" >
-<!ENTITY event.recurrence.pattern.yearly.month2.4.label      "April" >
-<!ENTITY event.recurrence.pattern.yearly.month2.5.label      "May" >
-<!ENTITY event.recurrence.pattern.yearly.month2.6.label      "June" >
-<!ENTITY event.recurrence.pattern.yearly.month2.7.label      "July" >
-<!ENTITY event.recurrence.pattern.yearly.month2.8.label      "August" >
-<!ENTITY event.recurrence.pattern.yearly.month2.9.label      "September" >
-<!ENTITY event.recurrence.pattern.yearly.month2.10.label     "October" >
-<!ENTITY event.recurrence.pattern.yearly.month2.11.label     "November" >
-<!ENTITY event.recurrence.pattern.yearly.month2.12.label     "December" >
+<!ENTITY event.recurrence.every.label                        "සෑම:" >
+<!ENTITY repeat.units.years.both                             "වර්ෂය(වර්ෂ)" >
+<!ENTITY event.recurrence.pattern.yearly.every.month.label   "සෑම" >
+<!ENTITY event.recurrence.pattern.yearly.every.weekday.label "සෑම" >
+<!ENTITY event.recurrence.pattern.yearly.month.1.label       "ජනවාරි" >
+<!ENTITY event.recurrence.pattern.yearly.month.2.label       "පෙබරවාරි" >
+<!ENTITY event.recurrence.pattern.yearly.month.3.label       "මාර්තු" >
+<!ENTITY event.recurrence.pattern.yearly.month.4.label       "අප්‍රේල්" >
+<!ENTITY event.recurrence.pattern.yearly.month.5.label       "මැයි" >
+<!ENTITY event.recurrence.pattern.yearly.month.6.label       "ජුනි" >
+<!ENTITY event.recurrence.pattern.yearly.month.7.label       "ජූලි" >
+<!ENTITY event.recurrence.pattern.yearly.month.8.label       "අගෝස්තු" >
+<!ENTITY event.recurrence.pattern.yearly.month.9.label       "සැප්තැම්බර්" >
+<!ENTITY event.recurrence.pattern.yearly.month.10.label      "ඔක්තෝම්බර්" >
+<!ENTITY event.recurrence.pattern.yearly.month.11.label      "නොවැම්බර්" >
+<!ENTITY event.recurrence.pattern.yearly.month.12.label      "දෙසැම්බර්" >
+<!ENTITY event.recurrence.pattern.yearly.first.label         "පළමු">
+<!ENTITY event.recurrence.pattern.yearly.second.label        "දෙවන">
+<!ENTITY event.recurrence.pattern.yearly.third.label         "තෙවන">
+<!ENTITY event.recurrence.pattern.yearly.fourth.label        "හතරවන">
+<!ENTITY event.recurrence.pattern.yearly.fifth.label         "පස්වන">
+<!ENTITY event.recurrence.pattern.yearly.last.label          "අවසාන">
+<!ENTITY event.recurrence.pattern.yearly.week.1.label        "ඉරිදා" >
+<!ENTITY event.recurrence.pattern.yearly.week.2.label        "සඳුදා" >
+<!ENTITY event.recurrence.pattern.yearly.week.3.label        "අඟහරුවාදා" >
+<!ENTITY event.recurrence.pattern.yearly.week.4.label        "බදාදා" >
+<!ENTITY event.recurrence.pattern.yearly.week.5.label        "බ්‍රහස්පතින්දා" >
+<!ENTITY event.recurrence.pattern.yearly.week.6.label        "සිකුරාදා" >
+<!ENTITY event.recurrence.pattern.yearly.week.7.label        "සෙනසුරාදා" >
+<!ENTITY event.recurrence.of.label                           "ගෙන්" >
+<!ENTITY event.recurrence.pattern.yearly.month2.1.label      "ජනවාරි" >
+<!ENTITY event.recurrence.pattern.yearly.month2.2.label      "පෙබරවාරි" >
+<!ENTITY event.recurrence.pattern.yearly.month2.3.label      "මාර්තු" >
+<!ENTITY event.recurrence.pattern.yearly.month2.4.label      "අප්‍රේල්" >
+<!ENTITY event.recurrence.pattern.yearly.month2.5.label      "මැයි" >
+<!ENTITY event.recurrence.pattern.yearly.month2.6.label      "ජුනි" >
+<!ENTITY event.recurrence.pattern.yearly.month2.7.label      "ජූලි" >
+<!ENTITY event.recurrence.pattern.yearly.month2.8.label      "අගෝස්තු" >
+<!ENTITY event.recurrence.pattern.yearly.month2.9.label      "සැප්තැම්බර්" >
+<!ENTITY event.recurrence.pattern.yearly.month2.10.label     "ඔක්තෝම්බර්" >
+<!ENTITY event.recurrence.pattern.yearly.month2.11.label     "නොවැම්බර්" >
+<!ENTITY event.recurrence.pattern.yearly.month2.12.label     "දෙසැම්බර්" >
 
-<!ENTITY event.recurrence.range.label                   "Range of recurrence">
-<!ENTITY event.recurrence.forever.label                 "No end date" >
-<!ENTITY event.recurrence.repeat.for.label              "Create" >
-<!ENTITY event.recurrence.appointments.label            "Appointment(s)" >
-<!ENTITY event.repeat.until.label                       "Repeat until" >
-<!ENTITY event.recurrence.preview.label                 "Preview">
+<!ENTITY event.recurrence.range.label                   "නැවත කිරීමේ පරාසය">
+<!ENTITY event.recurrence.forever.label                 "අවසාන වීමේ දිනයක් නැත" >
+<!ENTITY event.recurrence.repeat.for.label              "සාදන්න" >
+<!ENTITY event.recurrence.appointments.label            "හමුවීම(හමුවීම්)" >
+<!ENTITY event.repeat.until.label                       "මේ දක්වා නැවත කරන්න" >
+<!ENTITY event.recurrence.preview.label                 "පෙර දැක්ම">
 
 <!-- Reminder dialog -->
 
-<!ENTITY reminder.title.label                           "Custom Reminder">
-<!ENTITY reminder.dialogtitle.label                     "Set up reminders">
-<!ENTITY reminder.reminderDetails.label                 "Reminder Details">
-<!ENTITY reminder.action.label                          "Choose a Reminder Action">
-<!ENTITY reminder.action.alert.label                    "Show an Alert">
-<!ENTITY reminder.action.email.label                    "Send an E-mail">
-<!ENTITY reminder.new.label                             "New">
-<!ENTITY reminder.delete.label                          "Delete">
-<!ENTITY reminder.relation.start.label                  "the event starts">
-<!ENTITY reminder.relation.end.label                    "the event ends">
-<!ENTITY reminder.add.label                             "Add">
+<!ENTITY reminder.title.label                           "රිසි මතක් කිරීම">
+<!ENTITY reminder.dialogtitle.label                     "මතක් කිරීම් සකසන්න">
+<!ENTITY reminder.reminderDetails.label                 "මතක් කිරීම් විස්තර">
+<!ENTITY reminder.action.label                          "මතක් කිරීම් ක්‍රියාවක් තෝරන්න">
+<!ENTITY reminder.action.alert.label                    "සංඥාවක් පෙන්වන්න">
+<!ENTITY reminder.action.email.label                    "විද්‍යුත් ලිපියක් යවන්න">
+<!ENTITY reminder.new.label                             "නව">
+<!ENTITY reminder.delete.label                          "මකන්න">
+<!ENTITY reminder.relation.start.label                  "වැඩසටහන ආරම්භ වේ">
+<!ENTITY reminder.relation.end.label                    "වැඩසටහන අවසාන වේ">
+<!ENTITY reminder.add.label                             "එක් කරන්න">
 <!ENTITY reminder.add.accesskey                         "A">
-<!ENTITY reminder.remove.label                          "Remove">
+<!ENTITY reminder.remove.label                          "ඉවත් කරන්න">
 <!ENTITY reminder.remove.accesskey                      "R">
 
 
 <!-- Attendees dialog -->
-<!ENTITY invite.title.label              "Invite Attendees">
-<!ENTITY event.organizer.label           "Organizer">
-<!ENTITY event.freebusy.suggest.slot     "Suggest time slot:">
-<!ENTITY event.freebusy.next.slot        "Next slot " >
-<!ENTITY event.freebusy.previous.slot    " Previous slot" >
-<!ENTITY event.freebusy.zoom             "Zoom:">
-<!ENTITY event.freebusy.plus             "Next hour" >
-<!ENTITY event.freebusy.minus            "Previous hour" >
-<!ENTITY event.freebusy.legend.free      "Free" >
-<!ENTITY event.freebusy.legend.busy      "Busy" >
-<!ENTITY event.freebusy.legend.unknown   "No information" >
+<!ENTITY invite.title.label              "සහභාගී වන්නන්ට ආරාධනා කරන්න">
+<!ENTITY event.organizer.label           "සංවිධායක">
+<!ENTITY event.freebusy.suggest.slot     "වේලා පරතරයක් යෝජනා කරන්න:">
+<!ENTITY event.freebusy.next.slot        "ඊලග පරතරය " >
+<!ENTITY event.freebusy.previous.slot    " පෙර පරතරය" >
+<!ENTITY event.freebusy.zoom             "විශාල කරන්න:">
+<!ENTITY event.freebusy.plus             "ඊලග පැය" >
+<!ENTITY event.freebusy.minus            "පෙර පැය" >
+<!ENTITY event.freebusy.legend.free      "නිදහස්" >
+<!ENTITY event.freebusy.legend.busy      "කාර්යබහුල" >
+<!ENTITY event.freebusy.legend.unknown   "තොරතුරු නැත" >
 
 <!-- Timezone dialog -->
 
-<!ENTITY timezone.title.label            "Please Specify the Timezone">
+<!ENTITY timezone.title.label            "කරුණාකර වේලා කළාපය විශේෂණය කරන්න">
 
 <!-- Read-Only dialog -->
 
-<!ENTITY read.only.general.label         "General">
-<!ENTITY read.only.title.label           "Title:">
-<!ENTITY read.only.repeat.label          "Repeat:">
-<!ENTITY read.only.location.label        "Location:">
-<!ENTITY read.only.category.label        "Category:">
-<!ENTITY read.only.organizer.label       "Organizer:">
-<!ENTITY read.only.reply.label           "Reply:">
-<!ENTITY read.only.accept.label          "I will attend">
-<!ENTITY read.only.decline.label         "I will not attend">
-<!ENTITY read.only.needs.action.label    "I will confirm later">
-<!ENTITY read.only.reminder.label        "Reminder:">
-<!ENTITY read.only.attendees.label       "Attendees">
-<!ENTITY read.only.description.label     "Description">
-<!ENTITY read.only.documents.label       "Documents">
-<!ENTITY read.only.link.label            "Related Link">
+<!ENTITY read.only.general.label         "සාමාන්‍ය">
+<!ENTITY read.only.title.label           "මාතෘකාව:">
+<!ENTITY read.only.repeat.label          "නැවත කිරීම:">
+<!ENTITY read.only.location.label        "ස්ථානය:">
+<!ENTITY read.only.category.label        "ප්‍රභේදය:">
+<!ENTITY read.only.organizer.label       "සංවිධායක:">
+<!ENTITY read.only.reply.label           "පළිතුරු දීම:">
+<!ENTITY read.only.accept.label          "මම සහභාගී වන්නෙමි">
+<!ENTITY read.only.decline.label         "මම සහභාගී නොවන්නෙමි">
+<!ENTITY read.only.needs.action.label    "මම පසුව ස්ථිර කරන්නෙමි">
+<!ENTITY read.only.reminder.label        "මතක් කිරීම:">
+<!ENTITY read.only.attendees.label       "සහභාගී වන්නන්">
+<!ENTITY read.only.description.label     "විස්තරය">
+<!ENTITY read.only.documents.label       "ලිපි">
+<!ENTITY read.only.link.label            "අදාළ ඈඳුම">
 
 
