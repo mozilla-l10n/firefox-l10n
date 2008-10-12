@@ -1,31 +1,31 @@
-<!ENTITY     tab.cookiesonsystem.label      "Stored Cookies">
+<!ENTITY     tab.cookiesonsystem.label      "Cookies guardadas">
 <!ENTITY     tab.bannedservers.label        "Cookie Sites">
 <!ENTITY     div.bannedservers.label        "Manage sites that can and cannot store cookies on your computer.">
 <!ENTITY     div.cookiesonsystem.label      "View and remove cookies that are stored on your computer.">
 <!ENTITY     treehead.cookiename.label      "Cookie Name">
-<!ENTITY     treehead.cookiedomain.label    "Site"> 
-<!ENTITY     treehead.cookieexpires.label   "Expires"> 
+<!ENTITY     treehead.cookiedomain.label    "Sitio"> 
+<!ENTITY     treehead.cookieexpires.label   "Expira"> 
 <!ENTITY     treehead.infoselected.label    "Information about the selected Cookie">
-<!ENTITY     button.removecookie.label      "Remove Cookie">
-<!ENTITY     button.removeallcookies.label  "Remove All Cookies">
+<!ENTITY     button.removecookie.label      "Eliminar cookie">
+<!ENTITY     button.removeallcookies.label  "Eliminar todas las cookies">
 
-<!ENTITY     props.name.label               "Name:">
-<!ENTITY     props.value.label              "Content:">
-<!ENTITY     props.domain.label             "Host:">
-<!ENTITY     props.path.label               "Path:">
-<!ENTITY     props.secure.label             "Send For:">
-<!ENTITY     props.expires.label            "Expires:">
+<!ENTITY     props.name.label               "Nombre:">
+<!ENTITY     props.value.label              "Contenido:">
+<!ENTITY     props.domain.label             "Servidor:">
+<!ENTITY     props.path.label               "Ruta:">
+<!ENTITY     props.secure.label             "Enviar a:">
+<!ENTITY     props.expires.label            "Expira:">
 
-<!ENTITY     treehead.sitename.label        "Site">
-<!ENTITY     treehead.status.label          "Status">
-<!ENTITY     windowtitle.label              "Cookie Manager">
-<!ENTITY     buttonaccept.label             "Close">
+<!ENTITY     treehead.sitename.label        "Sitio">
+<!ENTITY     treehead.status.label          "Estado">
+<!ENTITY     windowtitle.label              "Administrador de cookies">
+<!ENTITY     buttonaccept.label             "Cerrar">
 
-<!ENTITY     blockSite.label                "Block">
-<!ENTITY     allowSite.label                "Allow">
-<!ENTITY     allowSiteSession.label         "Session">
-<!ENTITY     removepermission.label         "Remove Site">
-<!ENTITY     removeallpermissions.label     "Remove All Sites">
+<!ENTITY     blockSite.label                "Bloquear">
+<!ENTITY     allowSite.label                "Permitir">
+<!ENTITY     allowSiteSession.label         "Sesión">
+<!ENTITY     removepermission.label         "Eliminar sitio">
+<!ENTITY     removeallpermissions.label     "Eliminar todos los sitios">
 
 <!ENTITY     canSet.label                   "can set cookies">
 <!ENTITY     cannotSet.label                "cannot set cookies">
