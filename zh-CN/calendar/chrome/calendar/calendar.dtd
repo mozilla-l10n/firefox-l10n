@@ -42,12 +42,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY calendar.file.default.name "我的日历">
 <!ENTITY calendar.calendar.label "日历">
 <!ENTITY calendar.calendar.accesskey "C">
-<!ENTITY calendar.confirm.deleteallevents "您确定想删除所选择的事件吗？">
-<!ENTITY calendar.confirm.deleteevent "您确定想删除这个有标题的事件：">
-<!ENTITY calendar.confirm.deleteuntitledevent "您确定想删除这个无标题的事件吗？">
 <!ENTITY calendar.flat.topbar.choosedate "转到日期">
 <!ENTITY calendar.flat.topbar.dayview "日视图">
 <!ENTITY calendar.dayview.accesskey "D">
@@ -275,7 +271,7 @@
 <!ENTITY calendar.context.convertmenu.message.accesskey "M">
 <!ENTITY calendar.context.convertmenu.task.label "任务…">
 <!ENTITY calendar.context.convertmenu.task.accesskey "T">
-<!ENTITY calendar.tasks.view.minimonth.label "最小月份">
+<!ENTITY calendar.tasks.view.minimonth.label "迷你月">
 <!ENTITY calendar.tasks.view.minimonth.accesskey "M">
 <!ENTITY calendar.tasks.view.calendarlist.label "日历列表">
 <!ENTITY calendar.tasks.view.calendarlist.accesskey "L">

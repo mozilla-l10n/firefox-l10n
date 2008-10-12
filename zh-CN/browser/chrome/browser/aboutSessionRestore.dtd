@@ -1,0 +1,13 @@
+<!ENTITY restorepage.title "恢复上次会话">
+<!ENTITY restorepage.titletext "您最近的 &brandShortName; 会话意外关闭。">
+<!ENTITY restorepage.shortDesc "您可以恢复上一次会话中打开的标签页和窗口，或者如果您认为问题与浏览的页面有关，您可以启动一个新的会话。我们对造成的不便之处表示道歉。">
+<!ENTITY restorepage.remedies "如果 &brandShortName; 反复关闭：">
+<!ENTITY restorepage.dueToChrome "请尝试在附加组件管理器中关闭您最近添加的扩展。">
+<!ENTITY restorepage.dueToContent "尝试恢复会话，但是不要载入如下可能导致崩溃的网页：">
+<!ENTITY restorepage.restoreButton "恢复上一次会话">
+<!ENTITY restorepage.restore.access "R">
+<!ENTITY restorepage.cancelButton "启动新会话">
+<!ENTITY restorepage.cancel.access "S">
+<!ENTITY restorepage.restoreHeader "恢复">
+<!ENTITY restorepage.listHeader "窗口和标签页">
+<!ENTITY restorepage.windowLabel "窗口 #&#037;S">

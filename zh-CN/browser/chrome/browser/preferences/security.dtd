@@ -1,9 +1,9 @@
 <!ENTITY warnAddonInstall.label "当站点尝试安装附加组件时发出警告">
 <!ENTITY warnAddonInstall.accesskey "W">
-<!ENTITY tellMaybeAttackSite2.label "阻止已报告的攻击站点">
-<!ENTITY tellMaybeAttackSite.accesskey "k">
-<!ENTITY tellMaybeForgery2.label "阻止已报告的欺诈网站">
-<!ENTITY tellMaybeForgery.accesskey "B">
+<!ENTITY blockAttackSites.label "阻止已报告的攻击站点">
+<!ENTITY blockAttackSites.accesskey "k">
+<!ENTITY blockWebForgeries.label "阻止已报告的伪造站点">
+<!ENTITY blockWebForgeries.accesskey "B">
 <!ENTITY addonExceptions.label "例外…">
 <!ENTITY addonExceptions.accesskey "E">
 <!ENTITY passwords.label "密码">

@@ -38,15 +38,15 @@
 <!ENTITY editorWindow.titlemodifier "编写器">
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 <!ENTITY viewMenu.label "查看">
-<!ENTITY viewmenu.accesskey "v">
+<!ENTITY viewMenu.accesskey "V">
 <!ENTITY compositionToolbarCmd.label "编写工具栏">
-<!ENTITY compositiontb.accesskey "c">
+<!ENTITY compositionToolbarCmd.accesskey "C">
 <!ENTITY formattingToolbarCmd.label "格式工具栏">
-<!ENTITY formattingtb.accesskey "f">
+<!ENTITY formattingToolbarCmd.accesskey "F">
 <!ENTITY editmodeToolbarCmd.label "编辑模式工具栏">
-<!ENTITY editmodetb.accesskey "E">
+<!ENTITY editmodeToolbarCmd.accesskey "E">
 <!ENTITY formatMenu.label "格式">
-<!ENTITY formatmenu.accesskey "o">
+<!ENTITY formatMenu.accesskey "o">
 <!ENTITY helpMenu.label "帮助">
 <!ENTITY aboutCmd.label "关于">
 <!ENTITY editMode.label "编辑模式:">

@@ -41,6 +41,7 @@
 <!ENTITY aboutWarningCheckbox.label "下次仍显示此警告文本">
 <!ENTITY filterPrefs.label "过滤器：">
 <!ENTITY filterPrefs.accesskey "F">
+<!ENTITY focusFilter.key "f">
 <!ENTITY prefColumn.label "首选项名称">
 <!ENTITY lockColumn.label "状态">
 <!ENTITY typeColumn.label "类型">

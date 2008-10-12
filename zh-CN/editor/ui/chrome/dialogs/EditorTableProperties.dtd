@@ -79,8 +79,7 @@
 <!ENTITY cellSelectPrevious.accessKey "P">
 <!ENTITY cellApplyBeforeMove.label "更改所选内容之前应用更改">
 <!ENTITY cellKeepCurrentData.label "保留当前设置">
-<!ENTITY applyBeforeChange1.label "当前更改将在">
-<!ENTITY applyBeforeChange2.label "更改选定对象之前应用。">
+<!ENTITY applyBeforeChange.label "当前变更将在更改选择项之前应用">
 <!ENTITY cellRowSpan.label "行范围：">
 <!ENTITY cellColSpan.label "列范围：">
 <!ENTITY cellContentAlignment.label "内容对齐">
