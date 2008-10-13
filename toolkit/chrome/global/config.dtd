@@ -35,9 +35,9 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY window.title "about:config">
+
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-
 <!ENTITY aboutWarningTitle.label "A sua garantia não cobre isto!">
 <!ENTITY aboutWarningText.label "Mudar os valores pré-definidos destas configurações avançadas pode ter resultados indesejados na estabilidade, segurança e desempenho desta aplicação. Só deve continuar se souber o que está a fazer.">
 <!ENTITY aboutWarningButton.label "Serei cuidadoso, prometo!">
@@ -45,18 +45,19 @@
 
 <!ENTITY filterPrefs.label "Filtro:">
 <!ENTITY filterPrefs.accesskey "I">
-<!-- Columns -->
+<!ENTITY focusFilter.key "f">
 
+<!-- Columns -->
 <!ENTITY prefColumn.label "Nome da preferência">
 <!ENTITY lockColumn.label "Estado">
 <!ENTITY typeColumn.label "Tipo">
 <!ENTITY valueColumn.label "Valor">
-<!-- Tooltips -->
 
+<!-- Tooltips -->
 <!ENTITY prefColumnHeader.tooltip "Clique para ordenar">
 <!ENTITY columnChooser.tooltip "Clique para seleccionar as colunas a mostrar">
-<!-- Context Menu -->
 
+<!-- Context Menu -->
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Copiar">
 <!ENTITY copyPref.accesskey "C">
