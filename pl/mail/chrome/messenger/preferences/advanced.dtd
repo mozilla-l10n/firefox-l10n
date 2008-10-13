@@ -1,4 +1,5 @@
 <!ENTITY itemGeneral.label       "Ogólne">
+<!ENTITY itemDisplay.label       "Treść">
 <!ENTITY itemUpdate.label        "Aktualizacja">
 <!ENTITY itemNetworking.label    "Sieć i miejsce na dysku">
 <!ENTITY itemCertificates.label  "Certyfikaty">
@@ -34,6 +35,10 @@
 <!ENTITY returnReceiptsInfo.label 		"Określ, w jaki sposób &brandShortName; ma traktować potwierdzenia doręczenia wiadomości">
 <!ENTITY showReturnReceipts.label 		"Opcje potwierdzeń…">
 <!ENTITY showReturnReceipts.accesskey  "O">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption "Czytanie">
+<!ENTITY display.caption "Wyświetlanie">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Automatycznie sprawdzaj dostępność aktualizacji dla:">
