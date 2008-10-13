@@ -1,0 +1,16 @@
+<!ENTITY restorepage.title          "שחזור הפעלה קודמת">
+<!ENTITY restorepage.titletext      "ההפעלה האחרונה של  &brandShortName; נסגרה באופן לא צפוי">
+<!ENTITY restorepage.shortDesc      "באפשרותך לשחזר את החלונות והלשוניות מההפעלה הקודמת שלך, או להתחיל הפעלה חדשה במידה והחלונות והלשוניות ההן אינן נחוצות יותר. אנו מצטערים על הטרחה.">
+<!ENTITY restorepage.remedies       "במידה ו־&brandShortName; נסגר שוב ושוב:">
+<!ENTITY restorepage.dueToChrome    "נסה לנטרל הרחבות שהוספת לאחרונה במנהל התוספות.">
+<!ENTITY restorepage.dueToContent   "נסה לשחזר את ההפעלה ללא דפים שאתה חושד שהם הגורם לקריסה:">
+
+<!ENTITY restorepage.restoreButton  "שחזר הפעלה קודמת">
+<!ENTITY restorepage.restore.access "ש">
+<!ENTITY restorepage.cancelButton   "התחל הפעלה חדשה">
+<!ENTITY restorepage.cancel.access  "ה">
+
+<!ENTITY restorepage.restoreHeader  "שחזור">
+<!ENTITY restorepage.listHeader     "חלונות ולשוניות">
+<!-- LOCALIZATION NOTE: %S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "חלון #&#37;S">

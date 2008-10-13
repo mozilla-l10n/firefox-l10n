@@ -12,6 +12,7 @@
 <!ENTITY copyValue.label "העתק ערך">
 <!ENTITY filterPrefs.accesskey "מ">
 <!ENTITY filterPrefs.label "מסנן:">
+<!ENTITY focusFilter.key "f">
 <!ENTITY integer.accesskey "ס">
 <!ENTITY integer.label "מספר שלם">
 <!ENTITY lockColumn.label "מצב">
