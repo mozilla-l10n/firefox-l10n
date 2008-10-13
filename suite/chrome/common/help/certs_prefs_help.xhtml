@@ -1,79 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
-    <!ENTITY % brandDTD SYSTEM "chrome://global/locale/brand.dtd" >
-    %brandDTD;
-]
->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+]>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-	<title>Privatumo ir saugumo nuostatos (liudijimai)</title>
-	<link rel="stylesheet" type="text/css" href="chrome://help/locale/helpFileLayout.css" />
+<title>Privatumo ir saugumo nuostatos - liudijimai</title>
+<link rel="stylesheet" href="helpFileLayout.css"
+  type="text/css"/>
 </head>
-
 <body>
+
 <h1 id="certificate_settings">Liudijimų nuostatos</h1>
 
-<p>Šiame skyriuje aprašoma, kaip parenkamos liudijimų nuostatos, kaip dirbti
-su liudijimų tvarkytuve, saugumo priemonių tvarkytuve ir kaip naudotis kitais su
-liudijimais susijusiais dialogo langais.</p>
-<p>Įvairių su liudijimais susijusių darbų pažingsninis aprašymas pateikiamas sk.
-  <a href="using_certs_help.html">Liudijimų naudojimas</a>.</p>
+<p>Šiame skyriuje aprašoma, kaip parenkamos liudijimų nuostatos, kaip dirbti su liudijimų tvarkytuve, saugumo priemonių tvarkytuve ir kaip naudotis kitais su liudijimais susijusiais dialogo langais.</p>
 
-<div class="contentsBox">
+<p>Įvairių su liudijimais susijusių darbų pažingsninis aprašymas pateikiamas sk. <a href="using_certs_help.xhtml">Liudijimų naudojimas</a>.</p>
+
+<div class="contentsBox">Šiame skyriuje:
   <ul>
     <li><a href="#privacy_and_security_preferences_certificates">Liudijimų nuostatos</a></li>
-    <li><a href="certs_help.html">Liudijimų tvarkytuvė</a></li>
-    <li><a href="certs_help.html#Security_Devices">Saugumo priemonių tvarkytuvė</a></li>
-    <li><a href="cert_dialog_help.xhtml">Informacija apie liudijimus ir sprendimai</a></li>
+    <li><a href="certs_help.xhtml">Liudijimų tvarkytuvė</a></li>
+    <li><a href="certs_help.xhtml#device_manager">Įrenginių tvarkytuvė</a></li>
+    <li><a href="cert_dialog_help.xhtml">Liudijimų informacija ir sprendimai</a></li>
   </ul>
 </div>
 
-<h1 id="privacy_and_security_preferences_certificates">Privatumo ir saugumo nuostatos. Liudijimai</h1>
+<h1 id="privacy_and_security_preferences_certificates">Privatumo ir saugumo nuostatos - liudijimai</h1>
 
-<p>Čia aprašoma, kaip galima parinkti nuostatas lange <i>Liudijimai</i>. Jei
-reikia atverti liudijimų nuostatų langą, atlikite šiuos žingsnius:
-</p><ol>
-   <li>Atverkite meniu <i>Taisa</i> ir pasirinkite <i>Nuostatos</i>.
-   </li><li>Pažymėkite grupės <i> Privatumas ir saugumas</i>  pogrupį <i>Liudijimai</i>.
-    (Jei pogrupio <i>Liudijimai</i> nesimato, spustelėkite ženkliuką (pliusą
-    arba trikampėlį) šalia grupės pavadinimo.) 
-</li></ol>
+<p>Šis skyrius aprašo liudijimų nuostatų skydelio naudojimą. Liudijimų nuostatų peržiūra vykdoma taip:</p>
 
-<p> Liudijimų nuostatų langas suskirstytas į kelias dalis: <i>Liudijimo
-pasirinkimas</i>, <i>Liudijimų tvarkymas</i> ir <i>Saugumo priemonių tvarkymas</i>.</p>
+<ol>
+  <li>Atverkite <span class="mac">&brandShortName;</span>
+    <span class="noMac">Taisa</span> meniu ir pasirinkite <i>Nuostatos</i>.</li>
+  <li>Privatumo ir saugumo kategorijoje spragtelkite <i>Liudijimai</i>. (Jei pogrupių nesimato, dukart spragelkite pavadinimą <i>Privatumas ir saugumas</i>.)</li>
+</ol>
 
-<h3 id="client_certificate_selection">Liudijimo pasirinkimas</h3>
+<h3 id="client_certificate_selection">Kliento liudijimų pasirinkimas</h3>
 
-<p>Kai kurios svetainės prašo, kad jų lankytojas pateiktų liudijimą, patvirtinantį jo tapatybę. Pasirinkite (pažymėkite atitinkamą akutę), kaip naršyklė
-turi parinkti liudijimą iš turimų sąrašo:
-</p><ul>
-	<li><b><i>Savaime.</i></b> Kai svetainė prašys patvirtinti tapatumą, naršyklė pati parinks liudijimą, neatsiklausdama Jūsų. Tai numatytoji
-      parinktis.
-	</li><li><b><i>Paklausti.</i></b> Kiekvieną kartą, kai svetainė prašys
-      patvirtinti tapatumą, naršyklė paklaus, kurį liudijimą pateikti. 
-</li></ul>
+<p>Kai kurie tinklalapiai reikalauja patvirtinti savo tapatybę liudijimu. Čia pasirinktos nuostatos apibrėžia, kaip naršyklė atpažins reikiamą liudijimą tarp turimų faile:</p>
 
-<h3 id="manage_certificates">Liudijimų tvarkymas</h3>
+<ul>
+  <li><strong>Pasirinkti automatiškai:</strong> Spragtelėkite šią nuostatą, jei norite, kad naršyklė pasirinktų liudijimą neklausdama jūsų. Tai yra standartinis pasirinkimas.</li>
+  <li><strong>Kaskart klausti:</strong> Spragtelėkite šią nuostatą, jei norite, kad naršyklė, tinklalapiui to paprašius, kaskart atsiklaustų, kurį liudijimą naudoti.</li>
+</ul>
 
-<p>Liudijimas yra skaitmeninis tapatumo liudijimo atitikmuo. Liudijimai padeda
-patvirtinti asmenų, svetainių, įstaigų tapatumą tinkluose.</p>
+<h3 id="manage_certificates">Tvarkyti liudijimus</h3>
 
-<p>Jei reikia peržiūrėti turimus liudijimus arba juos tvarkyti, spustelėkite mygtuką <i>Tvarkyti
-liudijimus</i>.</p>
+<p>Liudijimai yra skaitmeniniai identifikavimo kortelių atitikmenys; jie padeda kitiem žmonėms atpažinti jus, o jums - kitus žmones, tinklalapius ir organizacijas.</p>
 
-<h3 id="manage_security_devices">Saugumo priemonių tvarkymas</h3>
+<p>Norėdami patikrinti ar tvarkyti turimus liudijimus, paspauskite <i>Tvarkyti liudijimus</i>.</p>
 
-<p>Saugumo priemonė yra aparatinė arba programinė įranga, kurioje saugomi
-Jūsų liudijimai bei raktai. Aparatinės saugumo priemonės pavyzdys – intelektualioji
-kortelė. Naršyklė turi integruotą programinę saugumo priemonę, tačiau galima
-naudoti ir kitas saugumo priemones, pavyzdžiui, jau minėtas intelektualiąsias
-korteles.</p><p>Spustelėkite
-mygtuką <i>Tvarkyti saugumo priemones</i>, jei reikia peržiūrėti turimas
-saugumo priemones arba jas tvarkyti.</p>
+<h3 id="manage_security_devices">Tvarkyti saugumo priemones</h3>
 
-<hr />
+<p>Saugumo priemonė yra įrenginys ar programa, sauganti jūsų liudijimus ir raktus. Pavyzdžiui, lustinė kortelė yra saugumo priemonė. Jūsų naršyklė turi įdiegtą nuosavą programinę saugumo priemonę, ir jūs galite tuo pačiu metu naudoti papildomas saugumo priemones, pvz., lustines korteles.</p>
 
-<p>© Vertimas į lietuvių kalbą ir adaptavimas. Gintautas Grigas, Tatjana Jevsikova, 2002–2003</p>
+<p>Turimų saugumo priemonių peržiūrai ir tvarkymui paspauskite <i>Tvarkyti saugumo priemones</i>.</p>
+
+
+<p>&copyright.string;</p>
+
 </body>
 </html>
