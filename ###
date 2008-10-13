@@ -1,4 +1,0 @@
-
-#grep -i -R "###" * > ###.lis
-
-gedit `grep -l -R "###" * | head`
