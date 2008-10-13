@@ -41,7 +41,7 @@
 <!ENTITY renameFolder.label "Перайменаваць папку…">
 <!ENTITY renameFolder.accesskey "й">
 <!ENTITY compactFolders.label "Ушчыльніць папкі">
-<!ENTITY compactFolder.accesskey "ы">
+<!ENTITY compactFolders.accesskey "п">
 <!ENTITY emptyTrashCmd.label "Выкінуць смецце">
 <!ENTITY emptyTrashCmd.accesskey "ь">
 <!ENTITY offlineMenu.label "Па-за сеткай">
@@ -248,8 +248,8 @@
 <!ENTITY nextFlaggedMsgCmd.accesskey "ц">
 <!ENTITY nextUnflaggedMsgCmd.label "Ліст без сцяжка">
 <!ENTITY nextUnreadThread.label "Непрачытаная нізка">
-<!ENTITY nextUnreadThreadCmd.accesskey "т">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "н">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Папярэдні">
 <!ENTITY prevMenu.accesskey "П">
 <!ENTITY prevMsgCmd.label "Ліст">
@@ -263,7 +263,7 @@
 <!ENTITY goForwardCmd.label "Наперад">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Ліст з сцяжком">
-<!ENTITY previousFlaggedMsgCmd.accesskey "Ф">
+<!ENTITY prevFlaggedMsgCmd.accesskey "с">
 <!ENTITY backCmd.label ".Назад">
 <!ENTITY backCmd.accesskey "з">
 <!ENTITY forwardCmd.label ".Накіраваць">

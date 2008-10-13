@@ -41,6 +41,7 @@
 <!ENTITY aboutWarningCheckbox.label "Паказваць гэтае папярэджанне наступным разам">
 <!ENTITY filterPrefs.label "Сіта:">
 <!ENTITY filterPrefs.accesskey "С">
+<!ENTITY focusFilter.key "f">
 <!ENTITY prefColumn.label "Назва перавагі">
 <!ENTITY lockColumn.label "Статус">
 <!ENTITY typeColumn.label "Тып">

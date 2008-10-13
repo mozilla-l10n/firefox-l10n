@@ -1,0 +1,13 @@
+<!ENTITY restorepage.title "Аднаўленне папярэдняй сэсіі">
+<!ENTITY restorepage.titletext "Ваша папярэдняя сэсіс працы з &brandShortName; была нечакана спынена">
+<!ENTITY restorepage.shortDesc "Вы можаце аднавіць устаўкі і вокны папярэдняй сэсіі, ці пачаць новую сэсію, калі яны больш не патрэбныя. Прабачце за нязручнасць.">
+<!ENTITY restorepage.remedies "Калі &brandShortName; перарываецца неаднаразова:">
+<!ENTITY restorepage.dueToChrome "Паспрабуйце забараніць усе з нядаўна ўсталяваных пашырэнняў з дапамогаю Кіраўніка Дадаткаў.">
+<!ENTITY restorepage.dueToContent "Паспрабуйце аднавіць вашу сэсію без старонак, якія, на вашу думку, маглі выклікаць крах:">
+<!ENTITY restorepage.restoreButton "Аднавіць папярэднюю сэсію">
+<!ENTITY restorepage.restore.access "А">
+<!ENTITY restorepage.cancelButton "Пачаць новую сэсію">
+<!ENTITY restorepage.cancel.access "П">
+<!ENTITY restorepage.restoreHeader "Аднавіць">
+<!ENTITY restorepage.listHeader "Вокны і ўстаўкі">
+<!ENTITY restorepage.windowLabel "Акно #&#037;S">

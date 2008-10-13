@@ -1,6 +1,5 @@
-#expand <!ENTITY  lang.version          "__MOZILLA_LOCALE_VERSION__">
-<!ENTITY  brandFullName         "SeaMonkey">
-<!ENTITY  brandShortName        "SeaMonkey">
-<!ENTITY  vendorShortName       "SeaMonkey">
-<!ENTITY  sidebarName           "Палічка">
-<!ENTITY  copyright.string      "Аўтарскае права &copy; 1998-2008 укладчыкаў у праект Мазіла.">
+<!ENTITY brandFullName "SeaMonkey">
+<!ENTITY brandShortName "SeaMonkey">
+<!ENTITY vendorShortName "SeaMonkey">
+<!ENTITY sidebarName "Палічка">
+<!ENTITY copyright.string "Аўтарскае права &copy; 2003-2008 укладчыкаў праекту Mozilla.">
