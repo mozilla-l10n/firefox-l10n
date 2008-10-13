@@ -1,0 +1,15 @@
+<!ENTITY content.title "Obsah">
+<!ENTITY permissions.default.image.title "Načítat obrázky">
+<!ENTITY permissions.default.image.description "Zkrášlí webové stránky">
+<!ENTITY javascript.enabled.title "Povolit Javascript">
+<!ENTITY javascript.enabled.description "Zefektní webové stránky">
+<!ENTITY plugins.enabled.title "Povolit moduly">
+<!ENTITY plugins.enabled.description "Zotravní webové stránky">
+<!ENTITY privacy.title "Soukromí a bezpečnost">
+<!ENTITY network.cookie.cookieBehavior.title "Ukládat cookies">
+<!ENTITY network.cookie.cookieBehavior.description "Chutné lahůdky">
+<!ENTITY clear.private.data.title "Vymazat důvěrná data">
+<!ENTITY clear.private.data.button "Vymazat…">
+<!ENTITY clear.private.data.description "Chrání vaše tajnosti">
+<!ENTITY signon.rememberSignons.title "Ukládat hesla">
+<!ENTITY signon.rememberSignons.description "Umožní vám méně psát">
