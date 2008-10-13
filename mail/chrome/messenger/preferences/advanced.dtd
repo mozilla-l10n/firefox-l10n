@@ -1,4 +1,5 @@
 <!ENTITY itemGeneral.label       "Algemien">
+<!ENTITY itemDisplay.label       "Lêze &amp; Toane">
 <!ENTITY itemUpdate.label        "Fernijing">
 <!ENTITY itemNetworking.label    "Netwurk &amp; skiifromte">
 <!ENTITY itemCertificates.label  "Sertifikaten">
@@ -33,6 +34,10 @@
 <!ENTITY returnReceiptsInfo.label      "Bepale hoe't &brandShortName; omgiet mei lêsbefestigings">
 <!ENTITY showReturnReceipts.label      "Lêsbefestigings…">
 <!ENTITY showReturnReceipts.accesskey  "L">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption                "Lêze">
+<!ENTITY display.caption                "Toane">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Automatysk kontrolearje op fernijings foar:">
