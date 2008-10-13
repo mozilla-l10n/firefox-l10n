@@ -93,50 +93,50 @@
 <!ENTITY editMenu.label "עריכה">
 <!ENTITY editRewrapCmd.label "בצע מחדש גלישת שורות">
 <!ENTITY editStripQuotesCmd.label "הסר מרכאות">
-<!ENTITY editcheckspelling.accesskey "s">
-<!ENTITY editcheckspelling.keybinding "k">
-<!ENTITY editfind.accesskey "f">
-<!ENTITY editfind.keybinding "f">
-<!ENTITY editfind.keybinding2 "VK_F19">
-<!ENTITY editfindnext.accesskey "g">
-<!ENTITY editfindnext.keybinding "g">
-<!ENTITY editfindnext.keybinding2 "VK_F3">
-<!ENTITY editfindprev.accesskey "v">
-<!ENTITY editfindprev.keybinding "g">
-<!ENTITY editfindprev.keybinding2 "VK_F3">
-<!ENTITY editlink.accesskey "i">
-<!ENTITY editmenu.accesskey "e">
-<!ENTITY editpastelink.accesskey "l">
-<!ENTITY editpastequotation.accesskey "q">
+<!-- ### ENTITY editcheckspelling.accesskey "s" -->
+<!-- ### ENTITY editcheckspelling.keybinding "k" -->
+<!-- ### ENTITY editfind.accesskey "f" -->
+<!-- ### ENTITY editfind.keybinding "f" -->
+<!-- ### ENTITY editfind.keybinding2 "VK_F19" -->
+<!-- ### ENTITY editfindnext.accesskey "g-->
+<!-- ### ENTITY editfindnext.keybinding "g" -->
+<!-- ### ENTITY editfindnext.keybinding2 "VK_F3"-->
+<!-- ### ENTITY editfindprev.accesskey "v"-->
+<!-- ### ENTITY editfindprev.keybinding "g"-->
+<!-- ### ENTITY editfindprev.keybinding2 "VK_F3"-->
+<!-- ### ENTITY editlink.accesskey "i"-->
+<!-- ### ENTITY editmenu.accesskey "e"-->
+<!-- ### ENTITY editpastelink.accesskey "l"-->
+<!-- ### ENTITY editpastequotation.accesskey "q"-->
 <!-- ### ENTITY editpastequotation.keybinding "v" -->
 <!-- ### ENTITY executeJSTransactionViaEditor.label "הפעל פקודת JS דרך עורך" -->
 <!-- ### ENTITY executeJSTransactionViaTxmgr.label "בצע העברות JS דרך מנהל העברות" -->
-<!ENTITY exitCmd.label "יציאה">
+<!-- ### ENTITY exitCmd.label "יציאה"-->
 <!ENTITY exportToTextCmd.label "יצוא לטקסט...">
 <!ENTITY fileMenu.label "קובץ">
 <!ENTITY fileRecentMenu.label "דפים אחרונים">
 <!ENTITY fileRevert.label "חזור למצב שנשמר אחרון">
-<!ENTITY fileclose.accesskey "c">
-<!ENTITY fileclose.keybinding "w">
-<!ENTITY fileexit.accesskey "q">
-<!ENTITY fileexit.keybinding "q">
-<!ENTITY fileexporttotext.accesskey "T">
-<!ENTITY filemenu.accesskey "f">
-<!ENTITY fileopen.accesskey "o">
-<!ENTITY fileopen.keybinding "o">
-<!ENTITY fileopenremote.accesskey "l">
-<!ENTITY fileopenremote.keybinding "l">
-<!ENTITY filepreview.accesskey "w">
-<!ENTITY fileprint.accesskey "p">
-<!ENTITY fileprint.keybinding "p">
-<!ENTITY fileprintpreview.accesskey "v">
-<!ENTITY fileprintsetup.accesskey "u">
-<!ENTITY filerecentmenu.accesskey "r">
-<!ENTITY filerevert.accesskey "v">
-<!ENTITY filesave.accesskey "s">
-<!ENTITY filesave.keybinding "s">
-<!ENTITY filesaveandchangeencoding.accesskey "E">
-<!ENTITY filesaveas.accesskey "A">
+<!-- ### ENTITY fileclose.accesskey "c" -->
+<!-- ### ENTITY fileclose.keybinding "w" -->
+<!-- ### ENTITY fileexit.accesskey "q" -->
+<!-- ### ENTITY fileexit.keybinding "q" -->
+<!-- ### ENTITY fileexporttotext.accesskey "T" -->
+<!-- ### ENTITY filemenu.accesskey "f" -->
+<!-- ### ENTITY fileopen.accesskey "o" -->
+<!-- ### ENTITY fileopen.keybinding "o" -->
+<!-- ### ENTITY fileopenremote.accesskey "l" -->
+<!-- ### ENTITY fileopenremote.keybinding "l" -->
+<!-- ### ENTITY filepreview.accesskey "w" -->
+<!-- ### ENTITY fileprint.accesskey "p" -->
+<!-- ### ENTITY fileprint.keybinding "p" -->
+<!-- ### ENTITY fileprintpreview.accesskey "v" -->
+<!-- ### ENTITY fileprintsetup.accesskey "u" -->
+<!-- ### ENTITY filerecentmenu.accesskey "r" -->
+<!-- ### ENTITY filerevert.accesskey "v -->
+<!-- ### ENTITY filesave.accesskey "s" -->
+<!-- ### ENTITY filesave.keybinding "s" -->
+<!-- ### ENTITY filesaveandchangeencoding.accesskey "E" -->
+<!-- ### ENTITY filesaveas.accesskey "A" -->
 <!ENTITY findAgainCmd.label "מצא שוב">
 <!ENTITY findCmd.label "מצא והחלף...">
 <!ENTITY findPrevCmd.label "מצא את הקודם">
@@ -148,13 +148,13 @@
 <!ENTITY fontStyleMenu.label "סגנון טקסט">
 <!ENTITY fontTimes.label "Times">
 <!ENTITY fontVarWidth.label "רוחב משתנה">
-<!ENTITY fontcourier.accesskey "c">
+<!-- ### ENTITY fontcourier.accesskey "c" -->
 <!ENTITY fontfaceMenu.label "גופן">
-<!ENTITY fontfixedwidth.accesskey "x">
-<!ENTITY fonthelvetica.accesskey "l">
-<!ENTITY fontsizeMenu.label "גודל">
-<!ENTITY fonttimes.accesskey "t">
-<!ENTITY fontvarwidth.accesskey "v">
+<!-- ### ENTITY fontfixedwidth.accesskey "x" -->
+<!-- ### ENTITY fonthelvetica.accesskey "l" -->
+<!-- ### ENTITY fontsizeMenu.label "גודל " -->
+<!-- ### ENTITY fonttimes.accesskey "t" -->
+<!-- ### ENTITY fontvarwidth.accesskey "v" -->
 <!ENTITY formatFontColor.label "צבע טקסט...">
 <!ENTITY formatRemoveNamedAnchors.accesskey "R">
 <!ENTITY formatRemoveNamedAnchors.label "הסר עוגנים בעלי שם">
@@ -162,21 +162,21 @@
 <!ENTITY formatToolbar.italicChar "I">
 <!ENTITY formatToolbar.tooltip "סרגל כלים עיצוב">
 <!ENTITY formatToolbar.underlineChar "U">
-<!ENTITY formatalignmenu.accesskey "a">
-<!ENTITY formatFontColor.accesskey "c">
-<!ENTITY formatfontfixed.keybinding "t">
-<!ENTITY formatfontmenu.accesskey "f">
-<!ENTITY formatindent.keybinding "]">
+<!-- ### ENTITY formatalignmenu.accesskey "a" -->
+<!-- ### ENTITY formatFontColor.accesskey "c"  -->
+<!-- ### ENTITY formatfontfixed.keybinding "t"  -->
+<!-- ### ENTITY formatfontmenu.accesskey "f"  -->
+<!-- ### ENTITY formatindent.keybinding "]"  -->
 <!ENTITY formatlistMenu.label "רשימה">
 <!ENTITY formatlistMenu.accesskey "l">
-<!ENTITY formatoutdent.keybinding "[">
-<!ENTITY formatparagraphmenu.accesskey "P">
+<!-- ### ENTITY formatoutdent.keybinding "["  -->
+<!-- ### ENTITY formatparagraphmenu.accesskey "P"  -->
 <!ENTITY formatRemoveLinks.key "k">
-<!ENTITY formatRemoveNamedAnchors.key "a">
-<!ENTITY formatremovestyles.keybinding "y">
-<!ENTITY formatsizemenu.accesskey "z">
-<!ENTITY formatstylemenu.accesskey "s">
-<!ENTITY formatstylesheetmenu.accesskey "y">
+<!ENTITY formatRemoveNamedAnchors.key "a"> 
+<!-- ### ENTITY formatremovestyles.keybinding "y"  -->
+<!-- ### ENTITY formatsizemenu.accesskey "z"  -->
+<!-- ### E ### NTITY formatstylemenu.accesskey "s"  -->
+<!-- ### ENTITY formatstylesheetmenu.accesskey "y"  -->
 <!ENTITY grid.accesskey "t">
 <!ENTITY grid.label "רשת מיצוב">
 <!ENTITY heading1Cmd.accesskey "1">
