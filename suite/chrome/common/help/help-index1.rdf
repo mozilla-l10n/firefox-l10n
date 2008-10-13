@@ -2363,7 +2363,7 @@
    <nc:subheadings>
      <rdf:Seq><rdf:li>
        <rdf:Description ID="security:smart_card_tvark"
-         nc:name="intelektualiųjų kortelių tvarkymas"
+         nc:name="lustinių kortelių tvarkymas"
 	 nc:link="using_certs_help.html#Device_Manager:usingIDX"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>

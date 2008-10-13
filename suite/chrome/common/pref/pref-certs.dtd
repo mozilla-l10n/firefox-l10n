@@ -39,12 +39,12 @@
 
 <!ENTITY  resetsettings.label    "Atstatyti nuostatas">
 <!ENTITY  resetpreferences.label "Atstatyti nuostatas…">
-<!ENTITY  managecerts.caption   "Liudijimų tvarkymas">
+<!ENTITY  managecerts.caption    "Liudijimų tvarkymas">
 <!ENTITY  managecerts.text       "Paspaudę šį mygtuką, pateksite į liudijimų tvarkytuvės langą, kuriame galima tvarkyti turimus liudijimus.">
 <!ENTITY  managecerts.button     "Tvarkyti liudijimus…">
 <!ENTITY  managecerts.accesskey  "T">
-<!ENTITY  managedevices.caption    "Saugumo priemonių tvarkymas">
-<!ENTITY  managedevices.text     "Spustelėjus šį mygtuką, galima tvarkyti saugumo priemones, pavyzdžiui, intelektualiąsias korteles.">
+<!ENTITY  managedevices.caption  "Saugumo priemonių tvarkymas">
+<!ENTITY  managedevices.text     "Spustelėjus šį mygtuką, galima tvarkyti saugumo priemones, pavyzdžiui, lustines korteles.">
 <!ENTITY  managedevices.button   "Tvarkyti saugumo priemones…">
 <!ENTITY  managedevices.accesskey   "v">
 
