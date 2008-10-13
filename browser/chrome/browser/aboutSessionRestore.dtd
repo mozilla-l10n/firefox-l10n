@@ -1,0 +1,16 @@
+<!ENTITY restorepage.title "Obnovení předchozí relace">
+<!ENTITY restorepage.titletext "Předchozí relace aplikace &brandShortName; skončila neočekávaně">
+<!ENTITY restorepage.shortDesc "Nyní můžete obnovit otevřené panely a okna původní relace a nebo začít novou relaci, pokud je již nepotřebujete. Omlouváme se za nepříjemnosti.">
+<!ENTITY restorepage.remedies "Pokud se &brandShortName; ukončuje opakovaně:">
+<!ENTITY restorepage.dueToChrome "Zkuste pomocí Správce doplňků odebrat některý z naposledy přidaných doplňků.">
+<!ENTITY restorepage.dueToContent "Zkuste obnovit relaci bez webové stránky, o které si myslíte, že způsobuje pád:">
+
+<!ENTITY restorepage.restoreButton  "Obnovit předchozí relaci">
+<!ENTITY restorepage.restore.access "O">
+<!ENTITY restorepage.cancelButton   "Začít novou relaci">
+<!ENTITY restorepage.cancel.access  "Z">
+
+<!ENTITY restorepage.restoreHeader  "Obnovit">
+<!ENTITY restorepage.listHeader     "Okna a panely">
+<!-- LOCALIZATION NOTE: %S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Okno #&#37;S">
