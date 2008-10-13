@@ -37,3 +37,10 @@
 <!ENTITY gdata-provider.label "Календар Google">
 <!ENTITY gdata.privacy.default.label "Типовий для Google">
 <!ENTITY gdata.privacy.default.accesskey "т">
+
+<!ENTITY gdata.migration.description "Постачальник Календаря Google визначив, що у вас є календарі, які можуть мати доступ до Календаря Google лише у режимі читання. Якщо ви хотіли б оновити будь-який з них, будь ласка, оберіть їх нижче">
+<!ENTITY gdata.migration.showagain.label "Завжди перевіряти ">
+<!ENTITY gdata.migration.title "Перемістити календарі, призначені лише для читання">
+<!ENTITY gdata.migration.upgrade.accesskey "О">
+<!ENTITY gdata.migration.upgrade.label "Оновити">
+<!ENTITY gdata.reminder.action.sms.label "Надіслати текстове повідомлення">

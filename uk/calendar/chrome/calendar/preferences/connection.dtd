@@ -52,7 +52,7 @@
 <!ENTITY  manualTypeRadio.accesskey     "Н">
 <!ENTITY  autoTypeRadio.label           "URL автоматичного налаштування проксі:">
 <!ENTITY  autoTypeRadio.accesskey       "а">
-<!ENTITY  reload.label                  "Перезавантажити">
+<!ENTITY  reload.label                  "Перевантажити">
 <!ENTITY  reload.accesskey              "е">
 <!ENTITY  ftp.label                     "FTP-проксі:">
 <!ENTITY  ftp.accesskey                 "к">

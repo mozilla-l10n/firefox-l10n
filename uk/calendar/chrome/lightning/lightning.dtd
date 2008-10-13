@@ -60,19 +60,8 @@
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "к">
 
 <!-- Agenda Tree View -->
-<!ENTITY agenda.treeview.label           "Вид:">
-<!ENTITY agenda.treeview.all.label       "Всі">
-<!ENTITY agenda.treeview.events.label    "події">
-<!ENTITY agenda.treeview.tasks.label     "завдання">
-<!ENTITY agenda.treeview.reminders.label "нагадування">
-<!ENTITY agenda.treeview.customize.label "Власне…">
-<!ENTITY agenda.treeview.item.label      "пункт">
-<!ENTITY agenda.treeview.description     "Власні вигляди">
 
 <!-- Messenger Sidebar -->
-<!ENTITY lightning.sidebar.agenda.label      "Повістка">
-<!ENTITY lightning.sidebar.todo.label        "Зробити">
-<!ENTITY lightning.sidebar.calendars.label   "Календарі">
 <!ENTITY lightning.calendar.label            "Календар">
 <!ENTITY lightning.calendar.accesskey        "К">
 
@@ -94,10 +83,6 @@
 <!ENTITY customize.toolbar.location.bottom   "Низ">
 
 <!-- Messenger Toolbar -->
-<!ENTITY lightning.toolbar.edit.calendar.label       "Редагувати обраний календар">
-<!ENTITY lightning.toolbar.edit.calendar.accesskey   "Р">
-<!ENTITY lightning.toolbar.delete.calendar.label     "Вилучити обраний календар">
-<!ENTITY lightning.toolbar.delete.calendar.accesskey "В">
 <!ENTITY lightning.toolbar.day.label                 "День">
 <!ENTITY lightning.toolbar.day.accesskey             "Д">
 <!ENTITY lightning.toolbar.week.label                "Тиждень">
@@ -109,7 +94,6 @@
 
 <!--Views' context menu-->
 <!-- This access key is in the same menu as 'Go to Next' which gets the 'N'-->
-<!ENTITY lightning.context.newevent.accesskey  "П">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.description "Це повідомлення містить запрошення на подію.">
@@ -119,3 +103,19 @@
 <!ENTITY lightning.tasks.accesskey           "с">
 <!ENTITY lightning.calendarproperties.showtasks.label           "Показати задачі у сьогоднішній панелі та режимі завдань">
 <!ENTITY customize.toolbar.selector.task     "Панель завдань">
+
+<!ENTITY lightning.acctCentral.newCalendar.label "Створити новий календар">
+<!ENTITY lightning.keys.event.new "П">
+<!ENTITY lightning.keys.todo.new "Д">
+<!ENTITY lightning.sidebar.invitations.accesskey "З">
+<!ENTITY lightning.sidebar.invitations.label "Запрошення">
+
+<!ENTITY lightning.calendarproperties.email.label               "E-Mail:">
+<!ENTITY todaypane.showMiniday.accesskey  "д">
+<!ENTITY todaypane.showMiniday.label "Показати міні-день">
+<!ENTITY todaypane.showMinimonth.accesskey "м">
+<!ENTITY todaypane.showMinimonth.label "Показати міні-місяць">
+<!ENTITY todaypane.showNone.accesskey "Н">
+<!ENTITY todaypane.showNone.label "Нічого не показувати">
+<!ENTITY todaypane.showTodayPane.accesskey "с">
+<!ENTITY todaypane.showTodayPane.label "Показати сьогоднішню панель">

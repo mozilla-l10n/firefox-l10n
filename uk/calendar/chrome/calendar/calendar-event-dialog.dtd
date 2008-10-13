@@ -42,63 +42,22 @@
 
 <!ENTITY event.title.label                  "Редагувати пункт" >
 
-<!ENTITY newevent.title.label               "Назва" >
-<!ENTITY newevent.title.accesskey           "а" >
-<!ENTITY newevent.itemType.event.label      "Подія" >
-<!ENTITY newevent.itemType.todo.label       "Завдання" >
-<!ENTITY newevent.location.label            "Місце" >
-<!ENTITY newevent.location.accesskey        "М" >
 
 <!-- LOCALIZATION NOTE In the following New Event/Task dialog only sections,
    - all accesskeys MUST be different. See Bug 357027 Comment #14 for more
    - details  -->
 <!-- The following entities are for New Event dialog only -->
 <!ENTITY newevent.from.label                "З" >
-<!ENTITY newevent.from.accesskey            "З" >
 <!ENTITY newevent.to.label                  "До" >
-<!ENTITY newevent.to.accesskey              "Д" >
-<!ENTITY newevent.alldayevent.label         "Весь день" >
-<!ENTITY newevent.alldayevent.accesskey     "В" >
 
 <!-- The following entities are for New Task dialog only -->
-<!ENTITY newevent.date.label                "Дата" >
-<!ENTITY newevent.date.accesskey            "а" >
-<!ENTITY newtodo.duedate.label              "Дата дії">
-<!ENTITY newtodo.duedate.accesskey          "т">
 
-<!ENTITY newevent.repeat2.label             "Повтор" >
-<!ENTITY newevent.repeat2.accesskey         "П" >
-<!ENTITY newevent.set.label                 "Встановити шаблон…" >
-<!ENTITY newevent.set.accesskey             "н" >
 
-<!ENTITY newevent.server.label              "Календар" >
-<!ENTITY newevent.server.accesskey          "К" >
-<!ENTITY newtodo.categories.label           "Категорія">
-<!ENTITY newtodo.categories.accesskey       "о">
 
-<!ENTITY newevent.description.label         "Опис" >
-<!ENTITY newevent.description.accesskey     "О" >
 
-<!ENTITY newevent.attendees.label           "Присутні" >
-<!ENTITY newevent.attendees.accesskey       "и" >
 <!ENTITY newevent.attendees.sendEmail.label "Надіслати присутнім запрошення на пошту">
 
-<!ENTITY newevent.privacy.label             "Конфіденційність" >
-<!ENTITY newevent.privacy.accesskey         "ф" >
-<!ENTITY newevent.public.label              "Публічно" >
-<!ENTITY newevent.private.label             "Приватно" >
-<!ENTITY newevent.confidential.label        "Конфіденційно" >
 
-<!ENTITY newtodo.priority.label             "Пріоритет">
-<!ENTITY newtodo.priority.accesskey         "і">
-<!ENTITY priority.level.none                "Не зазначено">
-<!ENTITY priority.level.none.accesskey      "Н">
-<!ENTITY priority.level.low                 "Низький">
-<!ENTITY priority.level.low.accesskey       "й">
-<!ENTITY priority.level.medium              "Середній">
-<!ENTITY priority.level.medium.accesskey    "С">
-<!ENTITY priority.level.high                "Високий">
-<!ENTITY priority.level.high.accesskey      "В">
 
 <!ENTITY newevent.status.label              "Стан" >
 <!ENTITY newevent.status.accesskey          "С" >
@@ -114,37 +73,19 @@
 <!ENTITY newevent.status.inprogress.label   "В процесі" >
 <!ENTITY newevent.status.completed.label    "Завершено:" >
 
-<!ENTITY newevent.alarm.label               "Сповіщення" >
-<!ENTITY newevent.alarm.accesskey           "щ" >
-<!ENTITY newevent.none.label                "жодного" >
-<!ENTITY newevent.15minutes.before.label    "за 15 хв." >
-<!ENTITY newevent.30minutes.before.label    "за 30 хв." >
-<!ENTITY newevent.custom.label              "Власне…" >
 
-<!ENTITY newevent.uri.label                 "URL" >
-<!ENTITY newevent.uri.accesskey             "U" >
-<!ENTITY newevent.uri.visit.label           "Відвідати URL" >
-<!ENTITY newevent.uri.visit.accesskey       "R" >
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; завершено">
 
-<!ENTITY calendar.more.label                "Більше">
-<!ENTITY calendar.less.label                "Менше">
 
 <!-- Alarm -->
 <!ENTITY alarm.units.minutes                "хвилин" >
 <!ENTITY alarm.units.hours                  "годин" >
 <!ENTITY alarm.units.days                   "днів" >
 
-<!ENTITY alarm.start.warning                "Це сповіщення потребує дати початку" >
-<!ENTITY alarm.due.warning                  "Це сповіщення потребує дати дії" >
 
 <!ENTITY newevent.before.label              "до" >
 <!ENTITY newevent.after.label               "після" >
 
 <!-- Information messages -->
-<!ENTITY newevent.endtime.warning           "Вказаний час початку пізніше вказаного часу кінця.">
-<!ENTITY newevent.readonly.item.warning     "Цей пункт є лише у календарі для читання.  Ви не можете його редагувати.">
-<!ENTITY newevent.readonly.cal.warning      "Цей календар лише для читання.">
-<!ENTITY newtodo.repeatstart.warning        "Дата початку потрібна для повторення.">

@@ -45,13 +45,13 @@
 <!ENTITY  event.menu.file.new.event.accesskey             "п">
 <!ENTITY  event.menu.file.new.message.label               "повідомлення">
 <!ENTITY  event.menu.file.new.message.accesskey           "о">
-<!ENTITY  event.menu.file.new.address.label               "адресна карточка">
+<!ENTITY  event.menu.file.new.address.label               "адресна картка">
 <!ENTITY  event.menu.file.new.address.accesskey           "к">
 <!ENTITY  event.menu.file.close.label                     "Закрити">
 <!ENTITY  event.menu.file.close.accesskey                 "З">
 <!ENTITY  event.menu.file.save.label                      "Зберегти">
 <!ENTITY  event.menu.file.save.accesskey                  "б">
-<!ENTITY  event.menu.file.page.setup.label                "Cторінка…">
+<!ENTITY  event.menu.file.page.setup.label                "Сторінка…">
 <!ENTITY  event.menu.file.page.setup.accesskey            "с">
 <!ENTITY  event.menu.file.print.label                     "Друк">
 <!ENTITY  event.menu.file.print.accesskey                 "Д">
@@ -73,7 +73,7 @@
 <!ENTITY  event.menu.edit.select.all.label                "Обрати все">
 <!ENTITY  event.menu.edit.select.all.accesskey            "О">
 
-<!ENTITY  event.menu.view.label                           "Вид">
+<!ENTITY  event.menu.view.label                           "Вигляд">
 <!ENTITY  event.menu.view.accesskey                       "В">
 <!ENTITY  event.menu.view.toolbars.label                  "Панелі">
 <!ENTITY  event.menu.view.toolbars.accesskey              "П">
@@ -94,10 +94,6 @@
 <!ENTITY  event.menu.options.link.accesskey               "Д">
 <!ENTITY  event.menu.options.timezone.label               "Часовий пояс">
 <!ENTITY  event.menu.options.timezone.accesskey           "Ч">
-<!ENTITY  event.menu.options.priority.label               "Важливість">
-<!ENTITY  event.menu.options.priority.accesskey           "а">
-<!ENTITY  event.menu.options.priority.none.label          "Жодної">
-<!ENTITY  event.menu.options.priority.none.accesskey      "Ж">
 <!ENTITY  event.menu.options.priority.low.label           "Низька">
 <!ENTITY  event.menu.options.priority.low.accesskey       "Н">
 <!ENTITY  event.menu.options.priority.normal.label        "Нормальна">
@@ -140,7 +136,6 @@
 <!ENTITY  event.toolbar.attendees.label                   "Запросити бути присутніми">
 <!ENTITY  event.toolbar.spellcheck.label                  "Орфографія">
 <!ENTITY  event.toolbar.privacy.label                     "Конфіденційність">
-<!ENTITY  event.toolbar.link.label                        "Додати посилання">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Назва:" >
@@ -171,15 +166,7 @@
 <!ENTITY event.reminder.accesskey                         "г">
 <!ENTITY event.description.label                          "Опис:" >
 <!ENTITY event.description.accesskey                      "О">
-<!ENTITY event.link.label                                 "Посилання:" >
-<!ENTITY event.link.accesskey                             "я" >
-<!ENTITY event.link.change.label                          "Змінити…" >
-<!ENTITY event.link.change.accesskey                      "м" >
 
-<!ENTITY event.private.label                              "Приватні" >
-<!ENTITY event.public.label                               "Публічні" >
-<!ENTITY event.confidential.label                         "Тільки час і дату" >
-<!ENTITY event.priority.label                             "Важливість:">
 
 <!ENTITY event.reminder.none.label                        "Без нагадування " >
 <!ENTITY event.reminder.5minutes.before.label             "за 5 хвилин" >
@@ -239,14 +226,11 @@
 <!-- Reminder dialog -->
 
 <!ENTITY reminder.title.label                           "Власне нагадування">
-<!ENTITY reminder.reminder.label                        "Нагадування">
 <!ENTITY reminder.action.label                          "Обрати дію нагадування">
 <!ENTITY reminder.action.alert.label                    "Показати сповіщення">
-<!ENTITY reminder.action.sound.label                    "Відтворити звук">
 <!ENTITY reminder.action.email.label                    "Надіслати листа">
 <!ENTITY reminder.new.label                             "Нове">
 <!ENTITY reminder.delete.label                          "Вилучити">
-<!ENTITY reminder.rename.label                          "Перейменувати">
 <!ENTITY reminder.relation.start.label                  "подія починається">
 <!ENTITY reminder.relation.end.label                    "подія закінчується">
 
@@ -275,7 +259,6 @@
 
 <!ENTITY read.only.general.label         "Загальне">
 <!ENTITY read.only.title.label           "Назва:">
-<!ENTITY read.only.date.label            "Дата:">
 <!ENTITY read.only.repeat.label          "Повтор:">
 <!ENTITY read.only.location.label        "Місце:">
 <!ENTITY read.only.category.label        "Категорія:">
@@ -290,3 +273,83 @@
 <!ENTITY read.only.documents.label       "Документи">
 
 
+
+<!ENTITY  event.menu.options.priority.notspecified.accesskey  "е">
+<!ENTITY  event.menu.options.priority.notspecified.label      "Не зазначено">
+<!ENTITY  event.menu.options.priority2.accesskey              "ь">
+<!ENTITY  event.menu.options.priority2.label                  "Важливість">
+<!ENTITY event.priority2.label                            "Важливість:">
+<!ENTITY event.reminder.multiple.label                    "Багаторазові нагадування…" >
+<!ENTITY reminder.add.accesskey                         "Д">
+<!ENTITY reminder.add.label                             "Додати">
+<!ENTITY reminder.dialogtitle.label                     "Налаштувати нагадування">
+<!ENTITY reminder.reminderDetails.label                 "Деталі нагадування">
+<!ENTITY reminder.remove.accesskey                      "В">
+<!ENTITY reminder.remove.label                          "Вилучити">
+<!ENTITY repeat.units.days.both          "Днів" >
+
+<!ENTITY event.attachments.accesskey                      "ч" >
+<!ENTITY event.attachments.label                          "Вкладення:" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "б" >
+<!ENTITY event.attachments.popup.attachPage.label         "Вкласти веб-сторінку…" >
+<!ENTITY event.attachments.popup.open.accesskey           "В" >
+<!ENTITY event.attachments.popup.open.label               "Відкрити" >
+<!ENTITY event.attachments.popup.remove.accesskey         "и" >
+<!ENTITY event.attachments.popup.remove.label             "Вилучити" >
+<!ENTITY event.attachments.popup.removeAll.accesskey      "і" >
+<!ENTITY event.attachments.popup.removeAll.label          "Вилучити всі" >
+<!ENTITY  event.menu.options.attachments.accesskey            "В">
+<!ENTITY  event.menu.options.attachments.label                "Вкласти веб-сторінку…">
+<!ENTITY  event.menu.view.showlink.accesskey              "п">
+<!ENTITY  event.menu.view.showlink.label                  "Показати пов'язане посилання">
+<!ENTITY event.recurrence.pattern.monthly.every.label   "Кожні" >
+<!ENTITY event.recurrence.pattern.monthly.week.1.label  "неділя" >
+<!ENTITY event.recurrence.pattern.monthly.week.2.label  "понеділок" >
+<!ENTITY event.recurrence.pattern.monthly.week.3.label  "вівторок" >
+<!ENTITY event.recurrence.pattern.monthly.week.4.label  "середа" >
+<!ENTITY event.recurrence.pattern.monthly.week.5.label  "четвер" >
+<!ENTITY event.recurrence.pattern.monthly.week.6.label  "п'ятниця" >
+<!ENTITY event.recurrence.pattern.monthly.week.7.label  "субота" >
+<!ENTITY event.recurrence.pattern.weekly.every.label    "Кожні" >
+<!ENTITY event.recurrence.pattern.yearly.every.month.label   "Кожні" >
+<!ENTITY event.recurrence.pattern.yearly.every.weekday.label "Кожні" >
+<!ENTITY event.recurrence.pattern.yearly.fifth.label         "п'ятий">
+<!ENTITY event.recurrence.pattern.yearly.first.label         "перший">
+<!ENTITY event.recurrence.pattern.yearly.fourth.label        "четвертий">
+<!ENTITY event.recurrence.pattern.yearly.last.label          "останній">
+<!ENTITY event.recurrence.pattern.yearly.month.1.label       "січень" >
+<!ENTITY event.recurrence.pattern.yearly.month.10.label      "жовтень" >
+<!ENTITY event.recurrence.pattern.yearly.month.11.label      "листопад" >
+<!ENTITY event.recurrence.pattern.yearly.month.12.label      "грудень" >
+<!ENTITY event.recurrence.pattern.yearly.month.2.label       "лютий" >
+<!ENTITY event.recurrence.pattern.yearly.month.3.label       "березень" >
+<!ENTITY event.recurrence.pattern.yearly.month.4.label       "квітень" >
+<!ENTITY event.recurrence.pattern.yearly.month.5.label       "травень" >
+<!ENTITY event.recurrence.pattern.yearly.month.6.label       "червень" >
+<!ENTITY event.recurrence.pattern.yearly.month.7.label       "липень" >
+<!ENTITY event.recurrence.pattern.yearly.month.8.label       "серпень" >
+<!ENTITY event.recurrence.pattern.yearly.month.9.label       "вересень" >
+<!ENTITY event.recurrence.pattern.yearly.month2.1.label      "січень" >
+<!ENTITY event.recurrence.pattern.yearly.month2.10.label     "жовтень" >
+<!ENTITY event.recurrence.pattern.yearly.month2.11.label     "листопад" >
+<!ENTITY event.recurrence.pattern.yearly.month2.12.label     "грудень" >
+<!ENTITY event.recurrence.pattern.yearly.month2.2.label      "лютий" >
+<!ENTITY event.recurrence.pattern.yearly.month2.3.label      "березень" >
+<!ENTITY event.recurrence.pattern.yearly.month2.4.label      "квітень" >
+<!ENTITY event.recurrence.pattern.yearly.month2.5.label      "травень" >
+<!ENTITY event.recurrence.pattern.yearly.month2.6.label      "червень" >
+<!ENTITY event.recurrence.pattern.yearly.month2.7.label      "липень" >
+<!ENTITY event.recurrence.pattern.yearly.month2.8.label      "серпень" >
+<!ENTITY event.recurrence.pattern.yearly.month2.9.label      "вересень" >
+<!ENTITY event.recurrence.pattern.yearly.second.label        "другий">
+<!ENTITY event.recurrence.pattern.yearly.third.label         "третій">
+<!ENTITY event.recurrence.pattern.yearly.week.1.label        "неділя" >
+<!ENTITY event.recurrence.pattern.yearly.week.2.label        "понеділок" >
+<!ENTITY event.recurrence.pattern.yearly.week.3.label        "вівторок" >
+<!ENTITY event.recurrence.pattern.yearly.week.4.label        "середа" >
+<!ENTITY event.recurrence.pattern.yearly.week.5.label        "четвер" >
+<!ENTITY event.recurrence.pattern.yearly.week.6.label        "п'ятниця" >
+<!ENTITY event.recurrence.pattern.yearly.week.7.label        "субота" >
+<!ENTITY  event.toolbar.attachments.label                 "Вкласти">
+<!ENTITY event.url.label                                  "Пов'язане посилання:" >
+<!ENTITY read.only.link.label            "Пов'язане посилання">

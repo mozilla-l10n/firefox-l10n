@@ -40,9 +40,9 @@
 
 <!ENTITY  prefWindow.titleWin     "Налаштування">
 <!ENTITY  prefWindow.titleGNOME   "Налаштування &brandShortName;">
-<!ENTITY  prefWindow.styleWin     "width: 47em; height: 37em;">
-<!ENTITY  prefWindow.styleMac     "width: 47em;">
-<!ENTITY  prefWindow.styleGNOME   "width: 47em; height: 34.5em;">
+<!ENTITY  prefWindow.styleWin     "width: 48em; height: 37em;">
+<!ENTITY  prefWindow.styleMac     "width: 48em;">
+<!ENTITY  prefWindow.styleGNOME   "width: 50em; height: 34.5em;">
 
 <!ENTITY  paneGeneral.title       "Основні">
 <!ENTITY  paneAlarms.title        "Сповіщення">

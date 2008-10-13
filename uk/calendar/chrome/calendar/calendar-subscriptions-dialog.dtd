@@ -43,4 +43,4 @@
 <!ENTITY calendar.subscriptions.dialog.subscribe.button.label           "Підписатися">
 <!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label         "Відмінити підписку">
 <!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label         "Пошук…">
-<!ENTITY calendar.subscriptions.dialog.statusmessage.nomatches.label    "Не знайдено відовідників.">
+<!ENTITY calendar.subscriptions.dialog.statusmessage.nomatches.label    "Не знайдено відповідників.">

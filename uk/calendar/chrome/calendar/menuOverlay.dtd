@@ -41,8 +41,6 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Event Menu -->
-<!ENTITY event.menu.label                       "Подія">
-<!ENTITY event.menu.accesskey                   "П">
 
 <!ENTITY event.new.event                        "Нова подія…">
 <!ENTITY event.new.event.key                    "N">
@@ -70,16 +68,11 @@
 <!ENTITY event.delete.tasks                     "Вилучити обрані завдання">
 <!ENTITY event.delete.tasks.accesskey           "з">
 
-<!ENTITY event.mail.event                       "Вибір пошти…">
-<!ENTITY event.mail.event.key                   "M">
-<!ENTITY event.mail.event.accesskey             "ш">
 
 <!ENTITY calendar.print.label                   "Друк…">
 <!ENTITY calendar.print.key                     "P">
 <!ENTITY calendar.print.accesskey               "Д">
 
-<!ENTITY calendar.printpreview.label            "Перегляд друку">
-<!ENTITY calendar.printpreview.accesskey        "г">
 
 <!ENTITY calendar.pagesetup.label               "Налаштування сторінки…">
 <!ENTITY calendar.pagesetup.accesskey           "с">
@@ -88,8 +81,6 @@
 <!ENTITY calendar.import.key                    "I">
 <!ENTITY calendar.import.accesskey              "І">
 
-<!ENTITY calendar.export.label                  "Експорт виділеного…">
-<!ENTITY calendar.export.accesskey              "Е">
 
 <!ENTITY calendar.export.calendar.label         "Експорт календаря…">
 <!ENTITY calendar.export.calendar.accesskey     "Е">
@@ -100,9 +91,9 @@
 <!ENTITY calendar.subscribe.label               "Підписатися на віддалений календар…">
 <!ENTITY calendar.subscribe.accesskey           "П">
 
-<!ENTITY calendar.reloadserver.label            "Перезавантажити віддалені календарі">
-<!ENTITY calendar.reloadserver.key              "R">
-<!ENTITY calendar.reloadserver.accesskey        "з">
+<!ENTITY calendar.reloadserver.label            "Перевантажити віддалені календарі">
+<!ENTITY calendar.reloadserver.key              "П">
+<!ENTITY calendar.reloadserver.accesskey        "п">
 
 <!ENTITY calendar.publish.label                 "Публікація…">
 <!ENTITY calendar.publish.accesskey             "б">
@@ -116,14 +107,10 @@
 <!ENTITY calendar.quit.label                    "Вихід">
 <!ENTITY calendar.quit.accesskey                "В">
 <!ENTITY calendar.quit.label.mac                "Вихід з &brandShortName;">
-<!ENTITY calendar.quit.key.mac                  "Q">
-<!ENTITY calendar.quit.modifiers.mac            "accel">
 
 <!ENTITY calendar.exit.label                    "Вихід">
 <!ENTITY calendar.exit.accesskey                "В">
 
-<!ENTITY calendar.about.label                   "Про календар">
-<!ENTITY calendar.about.accesskey               "П">
 
 <!ENTITY calendar.undo.label                    "Повернути">
 <!ENTITY calendar.undo.key                      "Z">
@@ -161,8 +148,6 @@
 <!ENTITY calendar.menu.customize.label          "Власне…">
 <!ENTITY calendar.menu.customize.accesskey      "а">
 
-<!ENTITY calendar.preferences.label             "Налаштування…">
-<!ENTITY calendar.preferences.accesskey         "Н">
 
 <!ENTITY showStatusBarCmd.label                 "Смужка стану">
 <!ENTITY showStatusBarCmd.accesskey             "с">
@@ -206,10 +191,7 @@
 <!ENTITY goNextCmd.day.label                    "Наступний день">
 <!ENTITY goNextCmd.week.label                   "Наступний тиждень">
 <!ENTITY goNextCmd.month.label                  "Наступний місяць">
-<!ENTITY goNextCmd.accesskey                    "Н">
 
-<!ENTITY taskMenu.label                         "Завдання">
-<!ENTITY taskMenu.accesskey                     "я">
 
 <!ENTITY toolsMenu.label                        "Інструменти">
 <!ENTITY toolsMenu.accesskey                    "І">
@@ -217,11 +199,7 @@
 <!ENTITY errorConsoleCmd.label                  "Консоль помилок">
 <!ENTITY errorConsoleCmd.accesskey              "К">
 
-<!ENTITY navigatorCmd.label                     "Навігатор">
-<!ENTITY navigatorCmd.accesskey                 "в">
 
-<!ENTITY messengerCmd.label                     "Пошта">
-<!ENTITY messengerCmd.accesskey                 "ш">
 
 <!ENTITY addressBookCmd.label                   "Адресна книга">
 <!ENTITY addressBookCmd.accesskey               "А">
@@ -233,15 +211,13 @@
 <!ENTITY helpMenuWin.label                      "Допомога"> 
 <!ENTITY helpMenuWin.accesskey                  "Д">
 
-<!ENTITY walletPasswordManager.label            "Менеджер паролів">
-<!ENTITY walletPasswordManager.accesskey        "М">
 
 <!-- Toolbar items -->
 <!ENTITY fileMenu.label                         "Файл">
 <!ENTITY fileMenu.accesskey                     "Ф">
 
-<!ENTITY editMenu.label                         "Редагувати">
-<!ENTITY editMenu.accesskey                     "Р">
+<!ENTITY editMenu.label                         "Правка">
+<!ENTITY editMenu.accesskey                     "П">
 <!ENTITY optionsCmd.label                       "Опції…">
 <!ENTITY optionsCmd.accesskey                   "О">
 <!ENTITY preferencesCmd.label                   "Налаштування">
@@ -250,7 +226,7 @@
 <!ENTITY preferencesCmdMac.commandkey           ",">
 <!ENTITY preferencesCmdMac.modifiers            "accel">
 
-<!ENTITY viewMenu.label                         "Вид">
+<!ENTITY viewMenu.label                         "Вигляд">
 <!ENTITY viewMenu.accesskey                     "В">
 
 <!ENTITY releaseCmd.label                       "Примітки випуску">
@@ -278,57 +254,29 @@
 <!ENTITY showAllAppsCmdMac.label        "Показати все">
 
 <!ENTITY calendar.importcalendar.label          "Імпорт календаря…">
-<!ENTITY calendar.importcalendar.accesskey      "І">
 
-<!ENTITY calendar.delete.label                  "Вилучити">
-<!ENTITY calendar.delete.accesskey              "В">
 
-<!ENTITY showCalendarlist.label                 "Перелік календарів">
-<!ENTITY showCalendarlist.accesskey             "к">
 
 <!ENTITY showCurrentView.label                  "Поточний вид">
 <!ENTITY showCurrentView.accesskey              "в">
 
-<!ENTITY task.menu.label                        "Завдання">
-<!ENTITY task.menu.accesskey                    "З">
 
-<!ENTITY day.menu.label                         "День">
-<!ENTITY day.menu.accesskey                     "Д">
 
-<!ENTITY week.menu.label                        "Тиждень">
-<!ENTITY week.menu.accesskey                    "Т">
 
-<!ENTITY month.menu.label                       "Місяць">
-<!ENTITY month.menu.accesskey                   "М">
 
-<!ENTITY next.menu.label                        "Далі">
-<!ENTITY next.menu.accesskey                    "Д">
 
-<!ENTITY previous.menu.label                    "Попереднє">
-<!ENTITY previous.menu.accesskey                "П">
 
-<!ENTITY calendar.subscribeshort.label          "Підписатися…">
-<!ENTITY calendar.subscribeshort.accesskey      "с">
 
-<!ENTITY calendar.unsubscribeshort.label        "Відмінити підписку…">
-<!ENTITY calendar.unsubscribeshort.accesskey    "В">
 
 <!ENTITY calendar.properties.label              "Властивості календаря…">
 <!ENTITY calendar.properties.accesskey          "к">
 
-<!ENTITY calendar.showtasks.label               "Показати завдання…">
-<!ENTITY calendar.showtasks.accesskey           "з">
 
-<!ENTITY series.selectpastevents.label          "Минулі події цієї серії">
-<!ENTITY series.selectpastevents.accesskey      "п">
 
-<!ENTITY series.selectfutureevents.label        "Майбутні події цієї серії">
-<!ENTITY series.selectfutureevents.accesskey    "й">
 
-<!ENTITY series.selectallevents.label           "Усі події цієї серії">
-<!ENTITY series.selectallevents.accesskey       "У">
 
-<!ENTITY calendar.selectallevents.label         "Усі події цього календаря">
-<!ENTITY calendar.selectallevents.accesskey     "а">
 <!ENTITY task.toolbar.accesskey                 "з">
 <!ENTITY task.toolbar.label                     "Панель завдань">
+
+<!ENTITY calendar.quit.key                      "В">
+<!ENTITY goNextCmd.all.accesskey                "у">

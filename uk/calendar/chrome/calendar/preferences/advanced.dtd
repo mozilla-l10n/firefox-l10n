@@ -77,3 +77,26 @@
 <!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "б">
 <!ENTITY pref.calendar.advanced.update.showHistory.label "Показати історію оновлення…">
 <!ENTITY pref.calendar.advanced.update.showHistory.accesskey "і">
+
+<!ENTITY pref.calendar.advanced.encryption.certSelection.description "Коли сервер запитує мій особистий сертифікат:">
+<!ENTITY pref.calendar.advanced.encryption.certificates.label "Сертифікат">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask "Питати мене щоразу">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "и">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "и">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto "Обрати один автоматично">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto.accesskey "б">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto.accesskey "б">
+<!ENTITY pref.calendar.advanced.encryption.protocols.label "Протоколи">
+<!ENTITY pref.calendar.advanced.encryption.useSSL3.accesskey "3">
+<!ENTITY pref.calendar.advanced.encryption.useSSL3.label "Використовувати SSL 3.0">
+<!ENTITY pref.calendar.advanced.encryption.useTLS1.accesskey "1">
+<!ENTITY pref.calendar.advanced.encryption.useTLS1.label "Використовувати TLS 1.0">
+<!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "П">
+<!ENTITY pref.calendar.advanced.encryption.verify2.label "Перевірка">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.accesskey "а">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "Переліки анулювання">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.accesskey "е">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.label "Переглянути сертифікати">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "р">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label "Пристрої безпеки">
+<!ENTITY pref.calendar.advanced.encryptionTab.label "Кодування">

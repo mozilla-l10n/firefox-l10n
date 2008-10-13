@@ -77,13 +77,6 @@
 <!ENTITY day.7.Ddd "Суб" >
 <!ENTITY day.7.Ddd.accesskey "у">
 
-<!ENTITY day.1.DDD "НЕД" >
-<!ENTITY day.2.DDD "ПОН" >
-<!ENTITY day.3.DDD "ВІВ" >
-<!ENTITY day.4.DDD "СЕР" >
-<!ENTITY day.5.DDD "ЧЕТ" >
-<!ENTITY day.6.DDD "ПТН" >
-<!ENTITY day.7.DDD "СУБ" >
 
 <!ENTITY day.1.name "Неділя" >
 <!ENTITY day.2.name "Понеділок" >
@@ -94,34 +87,14 @@
 <!ENTITY day.7.name "Субота" >
 
 <!-- Month Names -->
-<!ENTITY month.1.MMM "СІЧ" >
-<!ENTITY month.2.MMM "ЛЮТ" >
-<!ENTITY month.3.MMM "БЕР" >
-<!ENTITY month.4.MMM "КВІ" >
-<!ENTITY month.5.MMM "ТРА" >
-<!ENTITY month.6.MMM "ЧЕР" >
-<!ENTITY month.7.MMM "ЛИП" >
-<!ENTITY month.8.MMM "СЕР" >
-<!ENTITY month.9.MMM "ВЕР" >
-<!ENTITY month.10.MMM "ЖОВ" >
-<!ENTITY month.11.MMM "ЛИС" >
-<!ENTITY month.12.MMM "ГРУ" >
 
 <!-- Units -->
-<!ENTITY calendar.global.units.second   "секунда">
-<!ENTITY calendar.global.units.seconds  "секунди">
 <!ENTITY calendar.global.units.minute   "хвилина">
-<!ENTITY calendar.global.units.minutes  "хвилини">
+<!ENTITY calendar.global.units.minutes  "хвилин(и)">
 <!ENTITY calendar.global.units.hour     "година">
-<!ENTITY calendar.global.units.hours    "години">
+<!ENTITY calendar.global.units.hours    "годин(и)">
 <!ENTITY calendar.global.units.day      "день">
-<!ENTITY calendar.global.units.days     "дні">
-<!ENTITY calendar.global.units.week     "тиждень">
-<!ENTITY calendar.global.units.weeks    "тижні">
-<!ENTITY calendar.global.units.month    "місяць">
-<!ENTITY calendar.global.units.months   "місяці">
-<!ENTITY calendar.global.units.year     "рік">
-<!ENTITY calendar.global.units.years    "роки">
+<!ENTITY calendar.global.units.days     "дні(в)">
 
 <!ENTITY month.1.name "Січень" >
 <!ENTITY month.2.name "Лютий" >
@@ -135,3 +108,10 @@
 <!ENTITY month.10.name "Жовтень" >
 <!ENTITY month.11.name "Листопад" >
 <!ENTITY month.12.name "Грудень" >
+
+<!ENTITY onedaybackward.tooltip "Один день назад">
+<!ENTITY onedayforward.tooltip "Один день вперед">
+<!ENTITY onemonthbackward.tooltip "Один місяць назад" >
+<!ENTITY onemonthforward.tooltip "Один місяць вперед" >
+<!ENTITY showToday.tooltip "Перейти до сьогодні">
+<!ENTITY showselectedday.tooltip "Показати події обраного дня">

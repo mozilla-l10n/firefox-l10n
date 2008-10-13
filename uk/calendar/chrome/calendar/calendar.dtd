@@ -69,13 +69,11 @@
 <!ENTITY calendar.edit.button.tooltip             "Редагувати обрану подію" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Завдання" >
-<!ENTITY calendar.unifinder.hidecompletedtodos.label "Приховати завершені завдання">
 
 <!ENTITY calendar.calendartab.label "Дата">
 <!ENTITY calendar.listofcalendarstab.label "Календарі">
 <!ENTITY calendar.today.button.label       "Сьогодні" >
 <!ENTITY calendar.tomorrow.button.label       "Завтра">
-<!ENTITY calendar.nextweek.button.label       "На тому тижні">
 
 <!ENTITY calendar.events.filter.all.label "Усі події">
 <!ENTITY calendar.events.filter.today.label "Події сьогодні">
@@ -139,7 +137,6 @@
 <!ENTITY calendar.subscribe.button.tooltip         "Підписатися на календар, розташований на віддаленому комп’ютері" >
 <!ENTITY calendar.publish.button.tooltip           "Опублікувати події на віддаленому комп’ютері" >
 
-<!ENTITY calendar.import.calendar                "Імпорт…" >
 <!ENTITY calendar.export.calendar                "Експорт календаря…" >
 
 <!ENTITY calendar.import.button.label              "Імпорт" >
@@ -147,8 +144,6 @@
 <!ENTITY calendar.subscribe.button.label           "Підписатися" >
 <!ENTITY calendar.publish.button.label             "Опублікувати" >
 
-<!ENTITY calendar.localreload.button.label   "Місцеве перевантаження" >
-<!ENTITY calendar.localreload.button.tooltip  "Перевантажити всі місцеві календарі" >
 <!ENTITY calendar.remotereload.button.label   "Перевантажити" >
 <!ENTITY calendar.remotereload.button.tooltip   "Перевантажити всі віддалені календарі" >
 
@@ -176,7 +171,6 @@
 <!ENTITY calendar.menu.numberofweeks.5      "5 тижнів" >
 <!ENTITY calendar.menu.numberofweeks.6      "6 тижнів" >
 
-<!ENTITY calendar.task.edit.instructions.label "Клацніть тут, щоб додати нове завдання">
 <!ENTITY calendar.task.details.title.label     "Назва:">
 
 <!-- Statusbar -->
@@ -195,14 +189,10 @@
 <!ENTITY calendar.context.newevent.accesskey          "Н">
 <!ENTITY calendar.context.newtodo.label               "Нове завдання…">
 <!ENTITY calendar.context.newtodo.accesskey           "з">
-<!ENTITY calendar.context.modifyevent.label           "Редагувати обрану подію…">
-<!ENTITY calendar.context.modifyevent.accesskey       "Р">
 <!ENTITY calendar.context.modifytask.label            "Редагувати завдання…">
 <!ENTITY calendar.context.modifytask.accesskey        "з">
 <!ENTITY calendar.context.modifyitem.label            "Редагувати пункт">
 <!ENTITY calendar.context.modifyitem.accesskey        "Р">
-<!ENTITY calendar.context.deleteevent.label           "Вилучити обрану подію">
-<!ENTITY calendar.context.deleteevent.accesskey       "В">
 <!ENTITY calendar.context.deletetask.label            "Вилучити завдання">
 <!ENTITY calendar.context.deletetask.accesskey        "В">
 <!ENTITY calendar.context.deleteitem.label            "Вилучити пункт">
@@ -215,11 +205,7 @@
 <!ENTITY calendar.context.pasteevent.accesskey        "т">
 <!ENTITY calendar.context.selectall.label             "Виділити все">
 <!ENTITY calendar.context.selectall.accesskey         "с">
-<!ENTITY calendar.context.gototoday.label             "Перейти на сьогодні">
 <!ENTITY calendar.context.button.label                "Сьогоднішня панель" >
-<!ENTITY calendar.context.gototoday.accesskey         "С">
-<!ENTITY calendar.context.emailevent.label            "Відправити обрані події поштою…">
-<!ENTITY calendar.context.emailevent.accesskey        "о">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Завершено">
@@ -265,7 +251,6 @@
 <!ENTITY calendar.alarm.snoozeallfor.label          "Призупинити всі на" >
 <!-- In case your language needs a different word order, this entity can be used
      to add words to the end of the "Snooze all for XXX minutes" line -->
-<!ENTITY calendar.alarm.snoozeall.suffix.label      "">
 <!ENTITY calendar.alarm.title.label                 "Сповіщення календаря" >
 <!ENTITY calendar.alarm.dismiss.label               "Відмінити" >
 <!ENTITY calendar.alarm.dismissall.label            "Відмінити всі" >
@@ -310,24 +295,6 @@
 <!-- Calendar Import Outlook CSV Dialog -->
 <!-- TRANSLATORS: all outlook*.label -fields should be translated word to word (or if possible
                   copied from outlook csv file headers -->
-<!ENTITY calendar.importoutlook.dialog.title "Імпорт Outlook CSV" >
-<!ENTITY calendar.importoutlook.mapconcepts.label "Будь ласка, приведіть наступні поля календаря у відповідність з їх еквівалентами Outlook CSV:" >
-<!ENTITY calendar.importoutlook.outlooksubject.label "Тема" >
-<!ENTITY calendar.importoutlook.outlookstartdate.label "Дата початку" >
-<!ENTITY calendar.importoutlook.outlookstarttime.label "Час початку" >
-<!ENTITY calendar.importoutlook.outlookenddate.label "Дата кінця" >
-<!ENTITY calendar.importoutlook.outlookendtime.label "Час кінця" >
-<!ENTITY calendar.importoutlook.outlooklocation.label "Місце" >
-<!ENTITY calendar.importoutlook.outlookdescription.label "Опис" >
-<!ENTITY calendar.importoutlook.outlookallday.label "Подія на весь день" >
-<!ENTITY calendar.importoutlook.outlookprivate.label "Приватно" >
-<!ENTITY calendar.importoutlook.outlookalarm.label "Сповіщення вкл./викл." >
-<!ENTITY calendar.importoutlook.outlookalarmdate.label "Дата сповіщення" >
-<!ENTITY calendar.importoutlook.outlookalarmtime.label "Час сповіщення" >
-<!ENTITY calendar.importoutlook.outlookcategories.label "Категорії" >
-<!ENTITY calendar.importoutlook.selectmeaning.label "Оберіть значення наступного слова: " >
-<!ENTITY calendar.importoutlook.true.label "Істина" >
-<!ENTITY calendar.importoutlook.false.label "Брехня" >
 
 <!-- Calendar Printing -->
 <!ENTITY calendar.print.window.title "Друк календаря">
@@ -350,29 +317,19 @@
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifier "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
-<!ENTITY calendar.task.details.entrydate.label       "Дата початку:">
 <!ENTITY calendar.task.complete.button.tooltip  "Позначити обрані завдання завершеними">
 <!ENTITY calendar.task.filter.overdue.accesskey     "O">
 <!ENTITY calendar.tasks.view.minimonth.label           "Мінімісяць">
 <!ENTITY calendar.tasks.view.minimonth.accesskey       "М">
-<!ENTITY calendar.completedtasks.checkbox.accesskey "c" >
-<!ENTITY calendar.tasks.view.sorttasks.accesskey       "S">
+<!ENTITY calendar.completedtasks.checkbox.accesskey "З" >
 <!ENTITY calendar.task.filter.all.accesskey         "A">
 <!ENTITY calendar.context.markcompleted.accesskey "o">
-<!ENTITY calendar.context.converttomessage.label       "Повідомлення">
 <!ENTITY calendar.task.filter.notstarted.label      "Непочаті завдання">
 <!ENTITY calendar.task.filter.next7days.accesskey   "Н">
-<!ENTITY calendar.context.category.label              "Нова категорія…">
 <!ENTITY calendar.task.filter.all.label             "Усе">
 <!ENTITY calendar.task.details.category.label        "Категорія:">
-<!ENTITY calendar.context.converttoevent.accesskey     "E">
 <!ENTITY calendar.context.findcalendar.label           "Знайти календар…" >
-<!ENTITY calendar.context.converttoevent.label         "Подія">
 <!ENTITY calendar.task.filter.completed.label       "Завершені завдання">
 <!ENTITY calendarproperties.firealarms.label "Показати сповіщення">
 <!ENTITY calendar.task.details.priority.normal.label "Нормально">
@@ -381,32 +338,19 @@
 <!ENTITY calendar.task.details.priority.high.label   "Високо">
 <!ENTITY calendar.task.details.priority.low.label    "Низько">
 <!ENTITY calendar.completedtasks.checkbox.label     "Показати завершені завдання" >
-<!ENTITY progress.notstarted           "Непочато">
-<!ENTITY calendar.task.details.duedate.label         "Дата виконання:">
 <!ENTITY calendar.context.findcalendar.accesskey       "F" >
 <!ENTITY calendar.task.filter.notstarted.accesskey  "a">
 <!ENTITY calendar.task.filter.today.label           "Сьогодні">
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Показати завершені завдання">
-<!ENTITY calendar.tasks.view.sorttasks.label           "Сортувати завдання">
-<!ENTITY calendarproperties.cache.label    "Кеш (ЕКСПЕРИМЕНТАЛЬНО, потребує перезавантаження)">
-<!ENTITY calendar.thisweek.button.label       "Цей тиждень">
-<!ENTITY calendar.context.showeventsof.accesskey       "S">
+<!ENTITY calendarproperties.cache.label    "Кеш (ЕКСПЕРИМЕНТАЛЬНО, потребує перевантаження)">
 <!ENTITY calendar.tasks.view.calendarlist.accesskey    "L">
 <!ENTITY calendar.list.header.label                 "Календар">
-<!ENTITY calendar.context.category.accesskey          "g">
 <!ENTITY calendar.task.filter.today.accesskey       "T">
 <!ENTITY calendar.task.category.button.tooltip  "Завдання за категоріями">
-<!ENTITY calendar.context.convert.accesskey            "v">
-<!ENTITY calendar.context.showtasksof.label            "Показати завдання з">
 <!ENTITY calendar.task.details.status.label          "Стан:">
-<!ENTITY calendar.context.showeventsof.label           "Показати події з">
 <!ENTITY calendar.task.filter.next7days.label       "Наступні сім днів">
 <!ENTITY calendar.task.delete.button.tooltip    "Вилучити обране завдання">
-<!ENTITY calendar.context.showtasksof.accesskey        "S">
-<!ENTITY calendar.task.filter.completed.accesskey   "C">
-<!ENTITY calendar.context.convert.label                "Конвертувати у">
-<!ENTITY calendar.context.converttomessage.accesskey   "M">
-<!ENTITY calendar.task.details.priority.label        "Важливість:">
+<!ENTITY calendar.task.filter.completed.accesskey   "З">
 <!ENTITY calendar.task.priority.button.tooltip  "Змінити пріоритет">
 <!ENTITY calendar.task.filter.title.label           "Показати">
 <!ENTITY calendar.tasks.view.calendarlist.label        "Перелік календарів">
@@ -414,5 +358,51 @@
 <!ENTITY calendar.task.details.organizer.label       "Від:">
 <!ENTITY calendar.context.markcompleted.label     "Позначити завершені">
 <!ENTITY calendar.task.filter.overdue.label         "Прострочені завдання">
-<!ENTITY progress.notstarted.accesskey "N">
 <!ENTITY calendar.soon.button.label           "Скоро">
+
+<!ENTITY calendar.context.button.accesskey            "T" >
+<!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
+<!ENTITY calendar.context.convertmenu.accesskey.mail     "n">
+<!ENTITY calendar.context.convertmenu.event.accesskey    "П">
+<!ENTITY calendar.context.convertmenu.event.label        "Подія…">
+<!ENTITY calendar.context.convertmenu.label              "Перетворити на">
+<!ENTITY calendar.context.convertmenu.message.accesskey  "о">
+<!ENTITY calendar.context.convertmenu.message.label      "Повідомлення…">
+<!ENTITY calendar.context.convertmenu.task.accesskey     "З">
+<!ENTITY calendar.context.convertmenu.task.label         "Завдання…">
+<!ENTITY calendar.help.accesskey           "Д">
+<!ENTITY calendar.task.details.priority2.label       "Важливість:">
+<!ENTITY calendar.tasks.view.filtertasks.accesskey       "Ф">
+<!ENTITY calendar.tasks.view.filtertasks.label           "Фільтр завдань">
+<!ENTITY calendar.unifinder.close.tooltip            "Закрити пошук і перелік подій">
+<!ENTITY calendar.unifinder.tree.duration.label      "Дійсно до">
+<!ENTITY calendarproperties.enabled.label "Перемкнути цей календар на">
+<!ENTITY priority.level.high                "Висока">
+<!ENTITY priority.level.high.accesskey      "В">
+<!ENTITY priority.level.high.accesskey      "В">
+<!ENTITY priority.level.low                 "Низька">
+<!ENTITY priority.level.low.accesskey       "Н">
+<!ENTITY priority.level.low.accesskey       "Н">
+<!ENTITY priority.level.none                "Не зазначено">
+<!ENTITY priority.level.none.accesskey      "е">
+<!ENTITY priority.level.none.accesskey      "е">
+<!ENTITY priority.level.normal              "Нормальна">
+<!ENTITY priority.level.normal.accesskey    "о">
+<!ENTITY priority.level.normal.accesskey    "о">
+
+<!ENTITY calendar.context.deletecompleteseries.accesskey   "с">
+<!ENTITY calendar.context.deletecompleteseries.label  "Усі послідовності">
+<!ENTITY calendar.context.deleteevent.accesskey       "л">
+<!ENTITY calendar.context.deleteevent.label           "Вилучити подію">
+<!ENTITY calendar.context.deletefutureevents.accesskey "м">
+<!ENTITY calendar.context.deletefutureevents.label     "Усі майбутні події">
+<!ENTITY calendar.context.deletefuturetasks.accesskey "F">
+<!ENTITY calendar.context.deletefuturetasks.label     "Усі майбутні завдання">
+<!ENTITY calendar.context.deletethisevent.accesskey   "Ц">
+<!ENTITY calendar.context.deletethisevent.label       "Цю подію">
+<!ENTITY calendar.context.modifyorviewitem.accesskey  "В">
+<!ENTITY calendar.context.modifyorviewitem.label      "Відкрити">
+<!ENTITY calendar.context.modifyorviewtask.accesskey  "В">
+<!ENTITY calendar.context.modifyorviewtask.label      "Відкрити завдання…">
+<!ENTITY calendar.task.filter.open.accesskey        "ш">
+<!ENTITY calendar.task.filter.open.label            "Незавершені завдання">

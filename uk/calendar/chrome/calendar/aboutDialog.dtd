@@ -38,19 +38,16 @@
 
 <!ENTITY aboutDialog.title      "Про &brandFullName;">
 <!ENTITY copyright.label        "Учасники проекту">
-<!ENTITY copyright.accesskey    "C">
+<!ENTITY copyright.accesskey    "У">
 <!ENTITY aboutLink.label        "&lt; Про &brandFullName;">
-<!ENTITY aboutLink.accesskey    "A">
-<!ENTITY aboutVersion           "version">
-<!ENTITY copyrightText          "&#169;1998-2008 Contributors. Всі права
-                                 застережено. Mozilla Sunbird, Sunbird і 
-                                 логотипи Sunbird є торговими марками Mozilla
-                                 Foundation. Всі права застережено.">
+<!ENTITY aboutLink.accesskey    "П">
+<!ENTITY aboutVersion           "версія">
+<!ENTITY copyrightText          "&#169;1998-2008 Автори коду. Всі права
+                                 захищені. Mozilla Sunbird, Sunbird і 
+                                 логотипи Sunbird є торговими марками фундації Mozilla.
+                                 ">
 
 <!ENTITY brandMotto       "вже пора">
-<!ENTITY credit.leads     "Провідні розробники">
-<!ENTITY credit.core      "Розробники ядра">
-<!ENTITY credit.gecko     "Gecko Layout Engine">
 <!ENTITY credit.thanks    "Особлива подяка">
 
 <!-- localization credits look like this: -->
@@ -61,23 +58,9 @@
 <!ENTITY credit.translation "<h3>Перекладачі</h3><ul>
 													<li>Олександр Касянюк</li>
 													<li>Олександр Корицький</li>
+                                                    <li>Тимофій Бабич</li>													
 													</ul>">
 
-<!ENTITY credit.visuals     "Координатор розробки візуального дизайну">
-<!ENTITY credit.theme       "Дизайн теми">
-<!ENTITY credit.brand       "Індивідуальність марки">
-<!ENTITY credit.web         "Веб-дизайн">
-<!ENTITY credit.update      "Сайт Mozilla Update">
-<!ENTITY credit.qalead      "Керівник відділу контролю якості">
-<!ENTITY credit.qa          "Відділ контролю якості">
-<!ENTITY credit.build       "Збірка і випуск">
-<!ENTITY credit.infra       "Підтримка інфраструктури">
-<!ENTITY credit.support     "Ресурси підтримки">
-<!ENTITY credit.manage      "Управління проектом">
-<!ENTITY credit.marketleads "Керівники відділу маркетингу">
-<!ENTITY credit.market      "Відділ маркетингу">
-<!ENTITY credit.creators    "Творці">
-<!ENTITY credit.memory      "Присвячується пам’яті">
 <!ENTITY credit.powered     "Заснований на">
 
 <!ENTITY license.and        "і">
