@@ -43,14 +43,9 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- General -->
-<!ENTITY calendar.file.default.name  "Myn aginda" >
 <!ENTITY calendar.calendar.label     "Aginda">
 <!ENTITY calendar.calendar.accesskey "A">
 
-
-<!ENTITY calendar.confirm.deleteallevents  "Witte jo seker dat jo alle selektearre barrens fuortsmite wolle?" >
-<!ENTITY calendar.confirm.deleteevent "Witte jo seker dat jo it folgjende barren fuortsmite wolle: " >
-<!ENTITY calendar.confirm.deleteuntitledevent "Witte jo seker dat jo it folgjende nammeleaze barren fuortsmite wolle?" >
 
 <!ENTITY calendar.flat.topbar.choosedate       "Gean nei datum" >
 <!ENTITY calendar.flat.topbar.dayview          "Dei-oersjoch" >
