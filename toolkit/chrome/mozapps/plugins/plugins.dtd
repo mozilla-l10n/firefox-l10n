@@ -21,5 +21,5 @@
 <!ENTITY pluginWizard.finalPage.restart.label "O &brandShortName; necessita de ser reiniciado para que o(s) plugin(s) funcione(m).">
   
 <!ENTITY missingPlugin.label "Clique aqui para transferir o plugin.">
-<!ENTITY disabledPlugin.label "The plugin for this content has been disabled. Click here to manage your plugins.">
-<!ENTITY blockedPlugin.label "This plugin has been blocked for your protection.">
+<!ENTITY disabledPlugin.label "O plugin para este conteúdo foi desactivado. Clique aqui para gerir os seus plugins.">
+<!ENTITY blockedPlugin.label "Este plugin foi bloqueado para sua protecção.">

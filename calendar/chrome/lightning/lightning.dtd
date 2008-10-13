@@ -77,16 +77,6 @@
 <!ENTITY lightning.toolbar.task.label      "Tarefas">
 <!ENTITY lightning.toolbar.task.accesskey     "T">
 
-<!-- Customize Toolbar Dialog -->
-<!ENTITY customize.toolbar.selector.label    "Barra de Ferramentas:">
-<!ENTITY customize.toolbar.selector.mode     "Barra de Ferramentas de Modo">
-<!ENTITY customize.toolbar.selector.mail     "Barra de Ferramentas de Correio">
-<!ENTITY customize.toolbar.selector.calendar "Barra de Ferramentas do Calendário">
-<!ENTITY customize.toolbar.selector.task     "Barra de Ferramentas de Tarefas">
-<!ENTITY customize.toolbar.location.label    "Localização:">
-<!ENTITY customize.toolbar.location.top      "Topo">
-<!ENTITY customize.toolbar.location.bottom   "Fundo">
-
 <!-- Messenger Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Dia">
 <!ENTITY lightning.toolbar.day.accesskey             "D">
@@ -121,3 +111,4 @@
 <!ENTITY todaypane.showNone.accesskey "N">
 <!ENTITY todaypane.showTodayPane.label "Mostrar hoje">
 <!ENTITY todaypane.showTodayPane.accesskey "o">
+<!ENTITY todaypane.statusButton.label "Hoje">
