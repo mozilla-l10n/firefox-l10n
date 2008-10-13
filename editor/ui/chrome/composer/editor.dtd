@@ -38,15 +38,15 @@
 <!ENTITY editorWindow.titlemodifier "Укладальнік">
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 <!ENTITY viewMenu.label "Прагляд">
-<!ENTITY viewmenu.accesskey "г">
+<!ENTITY viewMenu.accesskey "г">
 <!ENTITY compositionToolbarCmd.label "Прыладапаліца ўкладання">
-<!ENTITY compositiontb.accesskey "c">
+<!ENTITY compositionToolbarCmd.accesskey "ў">
 <!ENTITY formattingToolbarCmd.label "Прыладапаліца фарматавання">
-<!ENTITY formattingtb.accesskey "f">
+<!ENTITY formattingToolbarCmd.accesskey "ф">
 <!ENTITY editmodeToolbarCmd.label "Прыладапаліца праўкі">
-<!ENTITY editmodetb.accesskey "E">
+<!ENTITY editmodeToolbarCmd.accesskey "п">
 <!ENTITY formatMenu.label "Фармат">
-<!ENTITY formatmenu.accesskey "Ф">
+<!ENTITY formatMenu.accesskey "Ф">
 <!ENTITY helpMenu.label "Даведка">
 <!ENTITY aboutCmd.label ".Пра">
 <!ENTITY editMode.label "Стан рэдагавання:">

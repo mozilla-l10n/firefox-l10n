@@ -79,8 +79,7 @@
 <!ENTITY cellSelectPrevious.accessKey "П">
 <!ENTITY cellApplyBeforeMove.label "Скарыстацца змяненнямі перад змяненнем вылучэння">
 <!ENTITY cellKeepCurrentData.label "Захоўваць цяперашнія змяненні">
-<!ENTITY applyBeforeChange1.label "Гэтыя змяненні будуць ужыты">
-<!ENTITY applyBeforeChange2.label "перад змяненнем вылучэння">
+<!ENTITY applyBeforeChange.label "Гэтачасовыя змяненні будуць ужытыя перад змяненнем вылучэння.">
 <!ENTITY cellRowSpan.label "Распаўсюджванне шэрагу:">
 <!ENTITY cellColSpan.label "Распаўсюджванне слупка:">
 <!ENTITY cellContentAlignment.label "Выраўноўванне змесціва">

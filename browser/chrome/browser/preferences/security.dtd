@@ -1,9 +1,9 @@
 <!ENTITY warnAddonInstall.label "Папярэджваць мяне, калі пляцоўкі спрабуюць усталяваць дадаткі">
 <!ENTITY warnAddonInstall.accesskey "П">
-<!ENTITY tellMaybeAttackSite2.label "Блакаваць вядомыя нападныя пляцоўкі">
-<!ENTITY tellMaybeAttackSite.accesskey "я">
-<!ENTITY tellMaybeForgery2.label "Блакаваць вядомыя пляцоўкі-падробкі">
-<!ENTITY tellMaybeForgery.accesskey "П">
+<!ENTITY blockAttackSites.label "Блакаваць вядомыя нападныя пляцоўкі">
+<!ENTITY blockAttackSites.accesskey "к">
+<!ENTITY blockWebForgeries.label "Блакаваць вядомыя пляцоўкі-падробкі">
+<!ENTITY blockWebForgeries.accesskey "Б">
 <!ENTITY addonExceptions.label "Выключэнні…">
 <!ENTITY addonExceptions.accesskey "В">
 <!ENTITY passwords.label "Паролі">

@@ -2,9 +2,9 @@
 <!ENTITY authorName.label "Аўтар:">
 <!ENTITY authorName.accesskey "А">
 <!ENTITY pageColorHeader "Першапачатковы выгляд старонкі">
-<!ENTITY defaultColorsRadio.label "Першапачатковыя колеры чытача  (Не вызначае колеры старонкі )">
+<!ENTITY defaultColors.label "Змоўчныя колеры чытальніка (не выстаўляць колеры на старонцы)">
 <!ENTITY defaultColors.accesskey "з">
-<!ENTITY customColorsRadio.label "Ужываць выбраныя колеры:">
+<!ENTITY customColors.label "Ужываць выбарачныя колеры:">
 <!ENTITY customColors.accesskey "в">
 <!ENTITY normalText.label "Звычайны тэкст">
 <!ENTITY normalText.accesskey "З">

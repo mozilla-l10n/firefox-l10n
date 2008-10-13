@@ -1,4 +1,5 @@
 <!ENTITY itemGeneral.label "Асноўныя">
+<!ENTITY itemDisplay.label "Чытанне і адлюстраванне">
 <!ENTITY itemUpdate.label "Абнавіць">
 <!ENTITY itemNetworking.label "Сетка і дыскавая прастора">
 <!ENTITY itemCertificates.label "Пасведчанні">
@@ -13,8 +14,6 @@
 <!ENTITY secondsLabel.label "секундаў">
 <!ENTITY showFolderColumns.label "Паказваць пашыраныя слупкі ў шыбе папак">
 <!ENTITY showFolderColumns.accesskey "п">
-<!ENTITY rememberLastMsg.label "Памятаць апошні вылучаны ліст">
-<!ENTITY rememberLastMsg.accesskey "а">
 <!ENTITY openMsgIn.label "Адчыняць лісты ў:">
 <!ENTITY reuseExpRadio0.label "У новым акне лістоў">
 <!ENTITY reuseExpRadio0.accesskey "н">
@@ -22,15 +21,14 @@
 <!ENTITY reuseExpRadio1.accesskey "і">
 <!ENTITY reuseExpRadio2.label "Новая ўстаўка для ліста">
 <!ENTITY reuseExpRadio2.accesskey "ў">
-<!ENTITY connectionTimeout.label "Часаспын злучэння:">
-<!ENTITY connectionTimeout.accesskey "з">
-<!ENTITY connectionSeconds.label "секундаў">
 <!ENTITY configEditDesc.label "Пашыраная наладка">
 <!ENTITY configEdit.label "Рэдактар наладкі…">
 <!ENTITY configEdit.accesskey "Р">
 <!ENTITY returnReceiptsInfo.label "Вызначыць, як &brandShortName; апрацоўвае квіткі атрымання">
 <!ENTITY showReturnReceipts.label "Квіткі атрымання…">
 <!ENTITY showReturnReceipts.accesskey "К">
+<!ENTITY reading.caption "Чытанне">
+<!ENTITY display.caption "Адлюстраванне">
 <!ENTITY autoCheck.label "Самастойна правяраць, ці існуюць абнаўленні да:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "р">
@@ -46,9 +44,9 @@
 <!ENTITY modeAutoAddonWarn.accesskey "П">
 <!ENTITY showUpdates.label "Паказаць гісторыю абнаўленняў">
 <!ENTITY showUpdates.accesskey "г">
-<!ENTITY showConnections.label "Злучэнне…">
-<!ENTITY showConnections.accesskey "З">
-<!ENTITY proxiesInfo.label "Вызначыць, як &brandShortName; мусіць злучацца з Інтэрнэтам.">
+<!ENTITY showSettings.label "Наладжванні…">
+<!ENTITY showSettings.accesskey "л">
+<!ENTITY proxiesConfigure.label "Наладзіць, як &brandShortName; мусіць злучацца з Інтэрнэтам">
 <!ENTITY connectionsInfo.caption "Злучэнне">
 <!ENTITY offlineInfo.caption "Па-за сеткаю">
 <!ENTITY offlineInfo.label "Наладзіць працу па-за сеткаю">
@@ -58,6 +56,11 @@
 <!ENTITY offlineCompact.label "Ушчыльняць папкі, калі яны захоўваюць больш, чым">
 <!ENTITY offlineCompact.accesskey "У">
 <!ENTITY kb.label "КБ">
+<!ENTITY useCacheBefore.label "Ужываць да">
+<!ENTITY useCacheBefore.accesskey "У">
+<!ENTITY useCacheAfter.label "МБ прасторы для запасніку">
+<!ENTITY clearCacheNow.label "Ачысціць зараз">
+<!ENTITY clearCacheNow.accesskey "ч">
 <!ENTITY certificatesInfo2.label "Кіраванне пасведчаннямі, спісамі адклікання, пацвярджэннем пасведчанняў і збудовамі бяспекі.">
 <!ENTITY viewCertificates.label "Прагляд пасведчанняў">
 <!ENTITY viewCertificates.accesskey "г">

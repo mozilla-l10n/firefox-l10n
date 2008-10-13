@@ -42,7 +42,7 @@
 <!ENTITY renameFolder.accesskey "й">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Ушчыльніць папкі">
-<!ENTITY compactFolder.accesskey "ы">
+<!ENTITY compactFolders.accesskey "п">
 <!ENTITY emptyTrashCmd.label "Выкінуць смецце">
 <!ENTITY emptyTrashCmd.accesskey "ь">
 <!ENTITY importCmd.label "Імпарт…">
@@ -216,22 +216,23 @@
 <!ENTITY bodyAsPlaintext.accesskey "Т">
 <!ENTITY viewAttachmentsInlineCmd.label "Адлюстроўваць далучэнні ўсярэдзіне">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "Ў">
-<!ENTITY reloadCmd.label "Абнавіць">
-<!ENTITY reloadCmd.accesskey "а">
-<!ENTITY stopCmd.label "Спыніць">
-<!ENTITY stopCmd.accesskey "С">
-<!ENTITY textZoomEnlargeCmd.label "Павялічыць">
-<!ENTITY textZoomEnlargeCmd.accesskey "в">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
-<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY textZoomReduceCmd.label "Паменшыць">
-<!ENTITY textZoomReduceCmd.accesskey "м">
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomResetCmd.commandkey "0">
-<!ENTITY textZoomResetCmd.label "Звычайны">
-<!ENTITY textZoomResetCmd.accesskey "З">
-<!ENTITY textSize.label "Памер тэксту">
-<!ENTITY textSize.accesskey "П">
+<!ENTITY fullZoomEnlargeCmd.label "Павялічыць">
+<!ENTITY fullZoomEnlargeCmd.accesskey "в">
+<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomReduceCmd.label "Паменшыць">
+<!ENTITY fullZoomReduceCmd.accesskey "м">
+<!ENTITY fullZoomReduceCmd.commandkey "-">
+<!ENTITY fullZoomReduceCmd.commandkey2 "">
+<!ENTITY fullZoomResetCmd.label "Узнавіць">
+<!ENTITY fullZoomResetCmd.accesskey "У">
+<!ENTITY fullZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomResetCmd.commandkey2 "">
+<!ENTITY fullZoomToggleCmd.label "Павлічваць толькі тэкст">
+<!ENTITY fullZoomToggleCmd.accesskey "т">
+<!ENTITY fullZoom.label "Павялічэнне">
+<!ENTITY fullZoom.accesskey "в">
 <!ENTITY pageSourceCmd.label "Зыходнік ліста">
 <!ENTITY pageSourceCmd.accesskey "ы">
 <!ENTITY pageSourceCmd.key "u">
@@ -266,8 +267,8 @@
 <!ENTITY nextStarredMsgCmd.label "Ліст з зоркаю">
 <!ENTITY nextStarredMsgCmd.accesskey "з">
 <!ENTITY nextUnreadThread.label "Непрачытаная нізка">
-<!ENTITY nextUnreadThreadCmd.accesskey "т">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "н">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Папярэдні">
 <!ENTITY prevMenu.accesskey "П">
 <!ENTITY prevMsgCmd.label "Ліст">

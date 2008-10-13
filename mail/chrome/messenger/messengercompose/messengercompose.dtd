@@ -64,6 +64,7 @@
 <!ENTITY pasteCmd.label "Уставіць">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "у">
+<!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY editRewrapCmd.label "Перазагінаць">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "г">
