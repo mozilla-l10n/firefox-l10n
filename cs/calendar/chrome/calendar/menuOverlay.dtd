@@ -138,9 +138,6 @@
 <!ENTITY task.toolbar.label "Lišta úkolů">
 <!ENTITY task.toolbar.accesskey "o">
 
-<!ENTITY mode.toolbar.label "Lišta volby">
-<!ENTITY mode.toolbar.accesskey "v">
-
 <!ENTITY calendar.menu.customize.label "Vlastní…">
 <!ENTITY calendar.menu.customize.accesskey "V">
 

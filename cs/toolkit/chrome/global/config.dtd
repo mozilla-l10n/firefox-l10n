@@ -45,6 +45,7 @@
 
 <!ENTITY filterPrefs.label "Filtr:">
 <!ENTITY filterPrefs.accesskey "F">
+<!ENTITY focusFilter.key "f">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Název předvolby">
