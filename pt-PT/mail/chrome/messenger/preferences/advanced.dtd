@@ -1,4 +1,5 @@
 <!ENTITY itemGeneral.label "Geral">
+<!ENTITY itemDisplay.label       "Leitura e apresentação">
 <!ENTITY itemUpdate.label "Actualização">
 <!ENTITY itemNetworking.label "Rede e espaço em disco">
 <!ENTITY itemCertificates.label "Certificados">
@@ -34,12 +35,16 @@
 <!ENTITY showReturnReceipts.label "Confirmações de leitura...">
 <!ENTITY showReturnReceipts.accesskey "C">
 
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption                "Leitura">
+<!ENTITY display.caption                "Apresentação">
+
 <!-- Update -->
 <!ENTITY autoCheck.label "Verificar automaticamente se há actualizações para:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "h">
-<!ENTITY enableAddonsUpdate.label "Complementos instalados">
-<!ENTITY enableAddonsUpdate.accesskey "c">
+<!ENTITY enableAddonsUpdate.label "Extras instalados">
+<!ENTITY enableAddonsUpdate.accesskey "E">
 <!ENTITY checkNow.label "Verificar agora...">
 <!ENTITY whenUpdatesFound.label "Ao encontrar actualizações do &brandShortName;:">
 <!ENTITY modeAskMe.label "Perguntar-me o que fazer">

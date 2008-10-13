@@ -98,7 +98,7 @@
 <!ENTITY cmd.homepage.label "Visitar a Página">
 <!ENTITY cmd.homepage.accesskey "N">
 <!ENTITY cmd.about2.label "Sobre este Extra">
-<!ENTITY cmd.about.accesskey "a">
+<!ENTITY cmd.about.accesskey "S">
 <!ENTITY cmd.checkUpdate.label "Procurar actualizações">
 <!ENTITY cmd.checkUpdate.accesskey "P">
 
