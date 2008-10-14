@@ -187,7 +187,6 @@
 <!ENTITY sortUnthreaded.accesskey "n">
 <!ENTITY groupBySort.label "Agrupar pela ordem">
 <!ENTITY groupBySort.accesskey "E">
-<!ENTITY groupBySortCmd.key "e">
 <!ENTITY msgsMenu.label "Mensagens">
 <!ENTITY msgsMenu.accesskey "M">
 <!ENTITY threads.label "Tópicos">
