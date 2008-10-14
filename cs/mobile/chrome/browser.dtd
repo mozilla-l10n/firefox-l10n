@@ -1,0 +1,59 @@
+<!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titleseparator " - ">
+
+<!ENTITY back.label "Zpět">
+<!ENTITY back.tooltip "Zpět">
+<!ENTITY forward.label "Vpřed">
+<!ENTITY forward.tooltip "Vpřed">
+<!ENTITY reload.label "Obnovit">
+<!ENTITY reload.tooltip "Obnovit">
+<!ENTITY stop.label "Zastavit">
+<!ENTITY stop.tooltip "Zastavit">
+<!ENTITY search.label "Hledat">
+<!ENTITY search.tooltip "Hledat">
+<!ENTITY go.label "Přejít">
+<!ENTITY go.tooltip "Přejít">
+<!ENTITY star.label "Hvězda">
+<!ENTITY star.tooltip "Uložit tuto stránku">
+<!ENTITY bookmarks.label "Záložky">
+<!ENTITY bookmarks.tooltip "Zobrazit záložky">
+
+<!ENTITY newtab.label "Nový panel">
+<!ENTITY closetab.label "Zavřít panel">
+
+<!ENTITY cut.label "Vyjmout">
+<!ENTITY copy.label "Kopírovat">
+<!ENTITY copylink.label "Kopírovat adresu odkazu">
+<!ENTITY paste.label "Vložit">
+<!ENTITY delete.label "Smazat">
+<!ENTITY selectAll.label "Vybrat vše">
+<!ENTITY noSuggestions.label "(žádné návrhy)">
+<!ENTITY addToDictionary.label "Přidat do slovníku">
+
+<!ENTITY bookmarkName.label "Název:">
+<!ENTITY bookmarkFolder.label "Složka:">
+<!ENTITY bookmarkTags.label "Štítky:">
+<!ENTITY bookmarkRemove.label "Odstranit záložku">
+
+<!ENTITY findOnCmd.label "Hledat ve stránce…">
+<!ENTITY findOnCmd.accesskey "H">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label "Hledat znovu">
+<!ENTITY findAgainCmd.accesskey "z">
+<!ENTITY findAgainCmd.commandkey "z">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY identity.unverifiedsite2 "Tato stránka neposkytuje informace o své identitě.">
+<!ENTITY identity.connectedTo "Jste připojeni k">
+<!-- Localization note (identity.runBy) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables. If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy "který je provozován">
