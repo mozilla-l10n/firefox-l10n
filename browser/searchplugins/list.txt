@@ -5,4 +5,4 @@ google
 baidu
 baiduzhidao
 paipai
-wikipedia-en-CN
+wikipedia-zh-CN
