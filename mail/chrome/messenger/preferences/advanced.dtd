@@ -1,4 +1,5 @@
 <!ENTITY itemGeneral.label "כללי">
+<!ENTITY itemDisplay.label       "קריאה ותצוגה">
 <!ENTITY itemUpdate.label "עדכון">
 <!ENTITY itemNetworking.label "רשת ושטח דיסק">
 <!ENTITY itemCertificates.label "אישורים">
@@ -42,6 +43,10 @@
 <!ENTITY returnReceiptsInfo.label "קבע כיצד &brandShortName; מטפל בקבלות חוזרות.">
 <!ENTITY showReturnReceipts.label "קבלות חוזרות...">
 <!ENTITY showReturnReceipts.accesskey "ז">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption                "קריאה">
+<!ENTITY display.caption                "תצוגה">
 
 <!-- Update -->
 <!ENTITY autoCheck.label "בדוק אוטומטית אם קיימים עדכונים עבור:">
