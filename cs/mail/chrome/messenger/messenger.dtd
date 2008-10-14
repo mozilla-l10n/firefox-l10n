@@ -187,7 +187,6 @@
 <!ENTITY sortUnthreaded.accesskey "B">
 <!ENTITY groupBySort.label "Zobrazit ve skupinách">
 <!ENTITY groupBySort.accesskey "Z">
-<!ENTITY groupBySortCmd.key "G">
 <!ENTITY msgsMenu.label "Zprávy">
 <!ENTITY msgsMenu.accesskey "Z">
 <!ENTITY threads.label "Vlákna">
