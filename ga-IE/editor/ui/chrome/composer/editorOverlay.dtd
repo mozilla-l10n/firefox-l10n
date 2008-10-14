@@ -155,7 +155,7 @@
 <!ENTITY insertLinkCmd.label "Nasc…">
 <!ENTITY insertLinkCmd.accesskey "N">
 <!ENTITY insertLinkCmd.key "L">
-<!ENTITY insertAnchorCmd.label "Named Anchor…">
+<!ENTITY insertAnchorCmd.label "Ancaire Ainmnithe…">
 <!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "Íomhá…">
 <!ENTITY insertImageCmd.accesskey "O">
@@ -168,7 +168,7 @@
 <!ENTITY insertFormMenu.accesskey "F">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
-<!ENTITY insertCharsCmd.label "Characters and Symbols…">
+<!ENTITY insertCharsCmd.label "Carachtair agus Siombailí…">
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakCmd.label "Briseadh Líne">
 <!ENTITY insertBreakCmd.accesskey "B">
