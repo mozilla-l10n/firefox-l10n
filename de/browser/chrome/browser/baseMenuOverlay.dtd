@@ -11,7 +11,7 @@
 <!ENTITY helpMenuWin.label        "Hilfe"> 
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY aboutCmd.label           "Über &brandFullName;">
-<!ENTITY aboutCmd.accesskey       "b">
+<!ENTITY aboutCmd.accesskey       "e">
 <!ENTITY helpContents.label       "Hilfethemen">
 <!ENTITY helpContents.accesskey   "H">
 <!ENTITY helpContentsMac.label    "&brandShortName; Hilfe">

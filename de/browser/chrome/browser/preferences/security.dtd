@@ -11,7 +11,7 @@
 <!ENTITY  tellMaybeAttackSite2.label     "Webseite blockieren, wenn sie als attackierend gemeldet wurde">
 <!ENTITY  tellMaybeAttackSite.accesskey "b">
 <!ENTITY  tellMaybeForgery2.label     "Webseite blockieren, wenn sie als Betrugsversuch gemeldet wurde">
-<!ENTITY  tellMaybeForgery.accesskey "g">
+<!ENTITY  tellMaybeForgery.accesskey "s">
 
 <!ENTITY  addonExceptions.label         "Ausnahmen…">
 <!ENTITY  addonExceptions.accesskey     "A">
