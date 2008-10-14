@@ -1,4 +1,5 @@
 <!ENTITY itemGeneral.label "Ginearálta">
+<!ENTITY itemDisplay.label "Léamh &amp; Taispeáint">
 <!ENTITY itemUpdate.label "Nuashonrú">
 <!ENTITY itemNetworking.label "Líonra &amp; Spás Diosca">
 <!ENTITY itemCertificates.label "Teastais">
@@ -33,6 +34,10 @@
 <!ENTITY returnReceiptsInfo.label "Socraigh conas a láimhseálann &brandShortName; admhálacha léite">
 <!ENTITY showReturnReceipts.label "Admhálacha Léite…">
 <!ENTITY showReturnReceipts.accesskey "L">
+<!-- Display and Reading Settings -->
+
+<!ENTITY reading.caption "Léamh">
+<!ENTITY display.caption "Taispeáint">
 <!-- Update -->
 
 <!ENTITY autoCheck.label "Déan nuashonruithe a lorg go huathoibríoch i gcóir:">

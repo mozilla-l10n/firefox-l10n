@@ -66,8 +66,8 @@
 <!ENTITY otherActionsButton.label "gníomhartha eile">
 <!ENTITY saveAsMenuItem.label "sábháil mar…">
 <!ENTITY saveAsMenuItem.accesskey "S">
-<!ENTITY viewSourceMenuItem.label "view source…">
-<!ENTITY viewSourceMenuItem.accesskey "V">
+<!ENTITY viewSourceMenuItem.label "amharc ar fhoinse…">
+<!ENTITY viewSourceMenuItem.accesskey "A">
 
 <!ENTITY hideDetailsButton.label "folaigh mionsonraí">
 <!ENTITY showDetailsButton.label "taispeáin mionsonraí">

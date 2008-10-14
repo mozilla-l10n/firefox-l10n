@@ -76,16 +76,6 @@
 <!ENTITY lightning.toolbar.calendar.accesskey "F">
 <!ENTITY lightning.toolbar.task.label "Tascanna">
 <!ENTITY lightning.toolbar.task.accesskey "T">
-<!-- Customize Toolbar Dialog -->
-
-<!ENTITY customize.toolbar.selector.label "Barra Uirlisí:">
-<!ENTITY customize.toolbar.selector.mode "Barra Uirlisí Móid">
-<!ENTITY customize.toolbar.selector.mail "Barra Uirlisí Ríomhphoist">
-<!ENTITY customize.toolbar.selector.calendar "Barraí Uirlisí Calendar">
-<!ENTITY customize.toolbar.selector.task "Barra Uirlisí Tasc">
-<!ENTITY customize.toolbar.location.label "Suíomh:">
-<!ENTITY customize.toolbar.location.top "Ag barr">
-<!ENTITY customize.toolbar.location.bottom "Ag bun">
 <!-- Messenger Toolbar -->
 
 <!ENTITY lightning.toolbar.day.label "Lá">
@@ -121,3 +111,4 @@
 <!ENTITY todaypane.showNone.accesskey "F">
 <!ENTITY todaypane.showTodayPane.label "Taispeáin Pána Inniu">
 <!ENTITY todaypane.showTodayPane.accesskey "p">
+<!ENTITY todaypane.statusButton.label "Pána Inniu">

@@ -22,4 +22,4 @@
   
 <!ENTITY missingPlugin.label "Cliceáil anseo chun an forlíontán a íosluchtú.">
 <!ENTITY disabledPlugin.label "The plugin for this content has been disabled. Click here to manage your plugins.">
-<!ENTITY blockedPlugin.label "This plugin has been blocked for your protection.">
+<!ENTITY blockedPlugin.label "Tá cosc curtha ar an bhforlíontán seo le tú a chosaint.">
