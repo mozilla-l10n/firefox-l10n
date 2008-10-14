@@ -141,9 +141,6 @@
 <!ENTITY task.toolbar.label                     "Pasek zadań">
 <!ENTITY task.toolbar.accesskey                 "z">
 
-<!ENTITY mode.toolbar.label                     "Pasek narzędzi trybu pracy">
-<!ENTITY mode.toolbar.accesskey                 "t">                            
-
 <!ENTITY calendar.menu.customize.label          "Dostosuj…">
 <!ENTITY calendar.menu.customize.accesskey      "D">
 
