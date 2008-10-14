@@ -223,22 +223,22 @@
 <!ENTITY bodyAsPlaintext.accesskey "ט">
 <!ENTITY viewAttachmentsInlineCmd.label "הצג נספחים בתוך השורה">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "A">
-<!ENTITY reloadCmd.label "טען מחדש">
-<!ENTITY reloadCmd.accesskey "R">
-<!ENTITY stopCmd.label "עצור">
-<!ENTITY stopCmd.accesskey "S">
-<!ENTITY textZoomEnlargeCmd.label "הגדל">
-<!ENTITY textZoomEnlargeCmd.accesskey "ג">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
-<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY textZoomReduceCmd.label "הקטן">
-<!ENTITY textZoomReduceCmd.accesskey "ק">
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomResetCmd.commandkey "0">
-<!ENTITY textZoomResetCmd.label "רגיל">
-<!ENTITY textZoomResetCmd.accesskey "ר">
-<!ENTITY textSize.label "גודל טקסט">
-<!ENTITY textSize.accesskey "ט">
+<!-- ### ENTITY reloadCmd.label "טען מחדש" -->
+<!-- ### ENTITY reloadCmd.accesskey "R" -->
+<!-- ### ENTITY stopCmd.label "עצור" -->
+<!-- ### ENTITY stopCmd.accesskey "S" -->
+<!-- ###ENTITY textZoomEnlargeCmd.label "הגדל" -->
+<!-- ###ENTITY textZoomEnlargeCmd.accesskey "ג" -->
+<!-- ###ENTITY textZoomEnlargeCmd.commandkey "+" -->
+<!-- ###ENTITY textZoomEnlargeCmd.commandkey2 "=" -->
+<!-- ###ENTITY textZoomReduceCmd.label "הקטן"-->
+<!-- ###ENTITY textZoomReduceCmd.accesskey "ק"-->
+<!-- ###ENTITY textZoomReduceCmd.commandkey "-"-->
+<!-- ###ENTITY textZoomResetCmd.commandkey "0"-->
+<!-- ###ENTITY textZoomResetCmd.label "רגיל" -->
+<!-- ###ENTITY textZoomResetCmd.accesskey "ר" -->
+<!-- ### ENTITY textSize.label "גודל טקסט" -->
+<!-- ### ENTITY textSize.accesskey "ט" -->
 <!ENTITY pageSourceCmd.label "קוד מקור ההודעה">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
