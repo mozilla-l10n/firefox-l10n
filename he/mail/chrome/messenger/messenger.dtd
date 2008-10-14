@@ -184,7 +184,7 @@
 <!ENTITY sortUnthreaded.accesskey "h">
 <!ENTITY groupBySort.label "ממוין לפי סיווג">
 <!ENTITY groupBySort.accesskey "G">
-<!ENTITY groupBySortCmd.key "G">
+<!-- ### ENTITY groupBySortCmd.key "G" -->
 <!ENTITY msgsMenu.label "הודעות">
 <!ENTITY msgsMenu.accesskey "M">
 <!ENTITY threads.label "נושאי דיון">
