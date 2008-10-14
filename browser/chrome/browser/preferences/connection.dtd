@@ -5,7 +5,7 @@
 
 <!ENTITY  proxyTitle.label              "Proxies für den Zugriff auf das Internet konfigurieren">
 <!ENTITY  noProxyTypeRadio.label        "Kein Proxy">
-<!ENTITY  noProxyTypeRadio.accesskey    "K">
+<!ENTITY  noProxyTypeRadio.accesskey    "e">
 <!ENTITY  systemTypeRadio.label         "Proxy-Einstellungen des Systems verwenden">
 <!ENTITY  systemTypeRadio.accesskey     "P">
 <!ENTITY  WPADTypeRadio.label           "Die Proxy-Einstellungen für dieses Netzwerk automatisch erkennen">
@@ -15,13 +15,13 @@
 <!ENTITY  autoTypeRadio.label           "Automatische Proxy-Konfigurations-URL:">
 <!ENTITY  autoTypeRadio.accesskey       "U">
 <!ENTITY  reload.label                  "Neu laden">
-<!ENTITY  reload.accesskey              "N">
+<!ENTITY  reload.accesskey              "a">
 <!ENTITY  ftp.label                     "FTP-Proxy:">
 <!ENTITY  ftp.accesskey                 "x">
 <!ENTITY  gopher.label                  "Gopher-Proxy:">
 <!ENTITY  gopher.accesskey              "G">
 <!ENTITY  http.label                    "HTTP-Proxy:">
-<!ENTITY  http.accesskey                "H">
+<!ENTITY  http.accesskey                "y">
 <!ENTITY  ssl.label                     "SSL-Proxy:">
 <!ENTITY  ssl.accesskey                 "S">
 <!ENTITY  socks.label                   "SOCKS-Host:">
@@ -38,7 +38,7 @@
 <!ENTITY  gopherPort.accesskey          "">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Kein Proxy für:">
-<!ENTITY  noproxy.accesskey             "y">
+<!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "Beispiel: .mozilla.org, .net.de, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Für alle Protokolle diesen Proxy-Server verwenden">
 <!ENTITY  shareproxy.accesskey          "F">

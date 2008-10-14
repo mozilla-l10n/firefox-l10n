@@ -305,7 +305,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomToggleCmd.label        "Nur Text zoomen">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
 <!ENTITY fullZoom.label                 "Zoom">
-<!ENTITY fullZoom.accesskey             "Z">
+<!ENTITY fullZoom.accesskey             "o">
 
 <!ENTITY newWindowButton.tooltip        "Öffnet ein neues Fenster">
 <!ENTITY sidebarCloseButton.tooltip     "Sidebar schließen">

@@ -6,7 +6,7 @@
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
 <!ENTITY itemHistory.label            "Chronik">
-<!ENTITY itemHistory.accesskey        "h">
+<!ENTITY itemHistory.accesskey        "n">
 <!ENTITY itemFormSearchHistory.label  "Gespeicherte Such- und Formulardaten">
 <!ENTITY itemFormSearchHistory.accesskey "G">
 <!ENTITY itemPasswords.label          "Gespeicherte Passwörter">

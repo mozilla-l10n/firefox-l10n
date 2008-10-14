@@ -9,7 +9,7 @@
 <!ENTITY  textColor.label                 "Text:">
 <!ENTITY  textColor.accesskey             "T">
 <!ENTITY  backgroundColor.label           "Hintergrund:">
-<!ENTITY  backgroundColor.accesskey       "H">
+<!ENTITY  backgroundColor.accesskey       "g">
 <!ENTITY  useSystemColors.label           "Systemfarben verwenden">
 <!ENTITY  useSystemColors.accesskey       "S">
 

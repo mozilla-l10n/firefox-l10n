@@ -14,7 +14,7 @@
 <!ENTITY  rememberForms.accesskey       "D">
 
 <!ENTITY  rememberDownloads.label       "Heruntergeladene Dateien merken">
-<!ENTITY  rememberDownloads.accesskey   "H">
+<!ENTITY  rememberDownloads.accesskey   "u">
 
 
 <!ENTITY  cookies.label                 "Cookies">
@@ -42,7 +42,7 @@
 <!ENTITY  privateData.label             "Private Daten">
 
 <!ENTITY  alwaysClear.label              "Private Daten löschen, wenn &brandShortName; beendet wird">
-<!ENTITY  alwaysClear.accesskey          "D">
+<!ENTITY  alwaysClear.accesskey          "P">
 
 <!ENTITY  askBeforeClear.label           "Vor dem Löschen von privaten Daten fragen">
 <!ENTITY  askBeforeClear.accesskey       "V">
