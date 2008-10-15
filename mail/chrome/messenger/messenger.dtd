@@ -187,7 +187,6 @@
 <!ENTITY sortUnthreaded.accesskey "K">
 <!ENTITY groupBySort.label "Triedením zoskupiť">
 <!ENTITY groupBySort.accesskey "T">
-<!ENTITY groupBySortCmd.key "G">
 <!ENTITY msgsMenu.label "Správy">
 <!ENTITY msgsMenu.accesskey "S">
 <!ENTITY threads.label "Vlákna">

@@ -1,4 +1,5 @@
 <!ENTITY itemGeneral.label              "Všeobecné">
+<!ENTITY itemDisplay.label              "Čítanie a zobrazenie">
 <!ENTITY itemUpdate.label               "Aktualizácie">
 <!ENTITY itemNetworking.label           "Sieť a miesto na disku">
 <!ENTITY itemCertificates.label         "Certifikáty">
@@ -33,6 +34,10 @@
 <!ENTITY returnReceiptsInfo.label       "Zistiť ako &brandShortName; spracováva potvrdenia o prečítaní">
 <!ENTITY showReturnReceipts.label       "Potvrdenia o prečítaní…">
 <!ENTITY showReturnReceipts.accesskey   "P">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption                "Čítanie">
+<!ENTITY display.caption                "Zobrazenie">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Pravidelne kontrolovať aktualizácie pre:">
