@@ -62,9 +62,9 @@
 <!ENTITY modelDeleteImmediately.label "Ta bort det genast">
 <!ENTITY modelDeleteImmediately.accesskey "b">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Rensa (&quot;töm&quot;) inkorgen när programmet avslutas">
+<!ENTITY expungeOnExit.label "Rensa (&quot;töm&quot;) inkorgen vid Avsluta">
 <!ENTITY expungeOnExit.accesskey "ä">
-<!ENTITY emptyTrashOnExit.label "Töm papperskorgen när programmet avslutas">
+<!ENTITY emptyTrashOnExit.label "Töm papperskorgen vid Avsluta">
 <!ENTITY emptyTrashOnExit.accesskey "ö">
 <!ENTITY loginAtStartup.label "Kontrollera om det kommit nya meddelanden vid start"> 
 <!ENTITY loginAtStartup.accesskey "d">
@@ -78,7 +78,7 @@
 <!ENTITY maxMessagesEnd.label "meddelanden hämtas">
 <!ENTITY alwaysAuthenticate.label "Begär alltid autentisering vid anslutning till denna server">
 <!ENTITY alwaysAuthenticate.accesskey "B">
-<!ENTITY newsrcFilePath.label "filen newsrc:">
+<!ENTITY newsrcFilePath.label "Filen newsrc:">
 <!ENTITY localPath.label "Lokal sökväg:">
 <!ENTITY abbreviate.label "Visa namn på diskussionsgrupper i mappanelen som:">
 <!ENTITY abbreviateOn.label "Hela namnet (t.ex. 'netscape.public.mozilla.mail-news')">

@@ -11,17 +11,17 @@
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Svarsadress:">
 <!ENTITY replyTo.accesskey "S">
-<!ENTITY organization.label "Företag:">
-<!ENTITY organization.accesskey "ö">
-<!ENTITY signature.label "Lägg till signatur:">
-<!ENTITY signature.accesskey "i">
+<!ENTITY organization.label "Organisation:">
+<!ENTITY organization.accesskey "O">
+<!ENTITY signature.label "Infoga signatur:">
+<!ENTITY signature.accesskey "I">
 <!ENTITY edit.label "Redigera…">
 <!ENTITY choose.label "Välj…">
 <!ENTITY choose.accesskey "V">
 <!ENTITY editVCard.label "Redigera kort…">
 <!ENTITY editVCard.accesskey "R">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
-<!ENTITY attachVCard.label "Bifoga mitt vCard i meddelanden">
+<!ENTITY attachVCard.label "Bifoga mitt vCard till meddelanden">
 <!ENTITY attachVCard.accesskey "f">
 
 <!ENTITY manageIdentities.label "Hantera identiteter…">

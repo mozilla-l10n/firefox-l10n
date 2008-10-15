@@ -35,12 +35,12 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.junk.title "Skräppost (spam)">
+<!ENTITY pref.junk.title "Skräppost">
 <!ENTITY junkSettings.caption "Globala inställningar för skräppost">
 <!ENTITY junkMail.intro "Gå till Kontoinställningar för att konfigurera kontospecifika skräppostinställningar.">
 
 <!-- Junk Mail Controls -->
-<!ENTITY manualMark.label               "När jag märker meddelanden som skräppost:">
+<!ENTITY manualMark.label               "När jag manuellt märker meddelanden som skräppost:">
 <!ENTITY manualMark.accesskey           "N">
 <!ENTITY manualMarkModeMove.label       "Flytta dem till till kontots mapp &quot;Skräppost&quot;">
 <!ENTITY manualMarkModeMove.accesskey   "F">

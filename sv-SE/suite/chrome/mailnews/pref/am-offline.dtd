@@ -23,7 +23,7 @@
 <!ENTITY retentionKeepUnread.accesskey "n">
 <!ENTITY nntpRemoveBody.label "Endast innehållet i meddelanden yngre än">
 <!ENTITY nntpRemoveBody.accesskey "y">
-<!ENTITY offlineSelectNntp.label "Välj diskussionsgrupper för arbete i nedkopplat läge…">
+<!ENTITY offlineSelectNntp.label "Välj diskussionsgrupper för användning nedkopplad…">
 <!ENTITY offlineSelectNntp.accesskey "V">
 <!ENTITY offlineImapAdvancedOffline.label "Avancerat…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "c">

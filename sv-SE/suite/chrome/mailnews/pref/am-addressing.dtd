@@ -1,11 +1,11 @@
 
 <!ENTITY addressing.label                     "Skriva och adressera">
 <!ENTITY addressingGroupTitle.label "Adressera">
-<!ENTITY autocompleteToMyDomain.label     "Lägg till min domän automatiskt till adresser">
+<!ENTITY autocompleteToMyDomain.label     "Lägg min domän till adresser automatiskt">
 <!ENTITY autocompleteToMyDomain.accesskey "d">
 <!ENTITY addressingText.label      "För att söka efter adresser:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
-<!ENTITY useGlobal.label           "Använd globala inställningar för LDAP-server">
+<!ENTITY useGlobal.label           "Använd mina globala LDAP-serverinställningar för detta konto">
 <!ENTITY useGlobal.accesskey       "n">
 <!ENTITY editDirectories.label     "Redigera kataloger…">
 <!ENTITY editDirectories.accesskey "e">

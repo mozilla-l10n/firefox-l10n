@@ -1,7 +1,7 @@
 <!ENTITY serverAdvanced.label "Avancerade kontoinställningar">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
 <!ENTITY imapAdvanced.label "Avancerade IMAP-serverinställningar">
-<!ENTITY serverDirectory.label "IMAP-serverkatalog:">
+<!ENTITY serverDirectory.label "Sökväg till IMAP-servern:">
 <!ENTITY serverDirectory.accesskey "k">
 <!ENTITY usingSubscription.label "Visa endast mappar du prenumererar på">
 <!ENTITY usingSubscription.accesskey "V">
@@ -12,8 +12,8 @@
 <!ENTITY maximumConnectionsNumber.label "Maximala antalet serveranslutningar till cachen">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY namespaceDesc.label "Här ställer du in namnrymderna (namespace) på IMAP-servern">
-<!ENTITY personalNamespace.label "Personlig:">
+<!ENTITY namespaceDesc.label "Dessa inställningar anger namnrymderna på IMAP-servern">
+<!ENTITY personalNamespace.label "Privat:">
 <!ENTITY personalNamespace.accesskey "P">
 <!ENTITY publicNamespace.label   "Publik (delad):">
 <!ENTITY publicNamespace.accesskey "b">

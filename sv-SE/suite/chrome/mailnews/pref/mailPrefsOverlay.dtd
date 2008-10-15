@@ -13,12 +13,12 @@
 <!-- These are added to Preferences dialog -->
 <!ENTITY viewingMessages.label "Visa meddelanden">
 <!ENTITY notifications.label "Varskoendesignaler">
-<!ENTITY address.label "Adressböcker">
+<!ENTITY address.label "Adressera">
 <!ENTITY composingMessages.label "Skriva meddelanden">
 <!ENTITY format.label "Skicka i format">
 <!ENTITY return.label "Mottagningskvitton">
 <!ENTITY disk.label "Diskutrymme">
-<!ENTITY junk.label                       "Skräppost (spam)">
+<!ENTITY junk.label                       "Skräppost">
 <!ENTITY tags.label                       "Etiketter">
 <!ENTITY characterEncoding.label          "Teckenkodning">
-<!ENTITY offline.label "Nedkopplat/Utrymme">
+<!ENTITY offline.label "Nedkopplad/Utrymme">

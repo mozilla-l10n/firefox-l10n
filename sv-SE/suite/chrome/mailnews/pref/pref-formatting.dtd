@@ -53,7 +53,7 @@
 <!ENTITY receiveHTML.label            "Om du vet att en viss mottagare kan ta emot e-post som skickas i HTML-format, kan du ändra valet för 'Föredrar att få meddelanden som:' på mottagarens kort i adressboken.">
 
 <!-- Html and Plain Text Domains  -->
-<!ENTITY domain.title                 "Domäner för HTML- respektive oformaterad text">
+<!ENTITY domain.title                 "Domäner för HTML respektive oformaterad text">
 <!ENTITY domaindesc.label             "När meddelanden skickas till en adress inom följande domäner, kommer e-postklienten automatiskt att skicka meddelandet i önskat format (formaterad eller oformaterad text).">
 <!ENTITY HTMLdomaintitle.label        "HTML-domäner">
 <!ENTITY HTMLdomaintitle.accesskey    "M">
