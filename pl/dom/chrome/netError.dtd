@@ -65,7 +65,7 @@ autentyczności otrzymanych danych.</p><ul><li>Należy skontaktować się z wła
 <!ENTITY nssBadCert.title "Nie udało się nawiązać bezpiecznego połączenia">
 <!ENTITY nssBadCert.longDesc2 "<ul>
 <li>Powodem tego może być nieprawidłowa konfiguracja serwera albo próba podania się za ten serwer przez podmiot nieuprawniony.</li>
-<li>Jeśli użytkownik łączył się wcześniej z tym serwerem, błąd może być tymczasowy &ndash; w tej sytuacji należy spróbować ponownie później.</li>
+<li>Jeśli użytkownik łączył się wcześniej z tym serwerem, błąd może być tymczasowy – w tej sytuacji należy spróbować ponownie później.</li>
 </ul>
 ">
 

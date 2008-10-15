@@ -97,4 +97,4 @@
 
 <!ENTITY certErrorDlg.title "Nie udało się nawiązać bezpiecznego połączenia">
 <!ENTITY certErrorDlg.info1 "Powodem tego może być nieprawidłowa konfiguracja serwera albo próba podania się za ten serwer przez podmiot nieuprawniony.">
-<!ENTITY certErrorDlg.info2 "Jeśli użytkownik łączył się wcześniej z tym serwerem, błąd może być tymczasowy &ndash; w tej sytuacji należy spróbować ponownie później.">
+<!ENTITY certErrorDlg.info2 "Jeśli użytkownik łączył się wcześniej z tym serwerem, błąd może być tymczasowy – w tej sytuacji należy spróbować ponownie później.">
