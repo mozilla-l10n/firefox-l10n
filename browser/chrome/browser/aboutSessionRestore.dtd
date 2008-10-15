@@ -1,0 +1,16 @@
+<!ENTITY restorepage.title          "Sitzungswiederherstellung">
+<!ENTITY restorepage.titletext      "Ihre letzte  &brandShortName;-Sitzung wurde unerwartet geschlossen">
+<!ENTITY restorepage.shortDesc      "Sie können die Tabs und Fenster Ihrer letzten Sitzung wiederherstellen oder eine neue Sitzung starten, falls Sie die Fenster nicht mehr benötigen. Bitte entschuldigen Sie die Unannehmlichkeiten.">
+<!ENTITY restorepage.remedies       "Falls &brandShortName; wiederholt abstürzt, können Sie Folgendes probieren:">
+<!ENTITY restorepage.dueToChrome    "Deaktivieren Sie kürzlich installierte Erweiterungen im Add-ons-Manager.">
+<!ENTITY restorepage.dueToContent   "Stellen Sie die Sitzung wieder her, ohne die Webseiten, die den Absturz ausgelöst haben könnten:">
+
+<!ENTITY restorepage.restoreButton  "Sitzung wiederherstellen">
+<!ENTITY restorepage.restore.access "S">
+<!ENTITY restorepage.cancelButton   "Neue Sitzung starten">
+<!ENTITY restorepage.cancel.access  "N">
+
+<!ENTITY restorepage.restoreHeader  "Wiederherstellen">
+<!ENTITY restorepage.listHeader     "Fenster und Tabs">
+<!-- LOCALIZATION NOTE: %S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Fenster #&#37;S">
