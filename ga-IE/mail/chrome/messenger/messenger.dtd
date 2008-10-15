@@ -187,7 +187,6 @@
 <!ENTITY sortUnthreaded.accesskey "h">
 <!ENTITY groupBySort.label "Grúpaí de réir Cineáil">
 <!ENTITY groupBySort.accesskey "G">
-<!ENTITY groupBySortCmd.key "G">
 <!ENTITY msgsMenu.label "Teachtaireachtaí">
 <!ENTITY msgsMenu.accesskey "T">
 <!ENTITY threads.label "Snáitheanna">

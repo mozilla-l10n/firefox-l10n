@@ -176,18 +176,18 @@
 <!ENTITY insertBreakAllCmd.accesskey "s">
 <!-- Insert form menu items -->
 
-<!ENTITY insertFormCmd.label "Define Form…">
-<!ENTITY insertFormCmd.accesskey "D">
-<!ENTITY insertInputTagCmd.label "Form Field…">
+<!ENTITY insertFormCmd.label "Sainmhínigh Foirm…">
+<!ENTITY insertFormCmd.accesskey "F">
+<!ENTITY insertInputTagCmd.label "Réimse Foirme…">
 <!ENTITY insertInputTagCmd.accesskey "e">
-<!ENTITY insertInputImageCmd.label "Form Image…">
+<!ENTITY insertInputImageCmd.label "Íomhá Fhoirme…">
 <!ENTITY insertInputImageCmd.accesskey "I">
-<!ENTITY insertTextAreaCmd.label "Text Area…">
+<!ENTITY insertTextAreaCmd.label "Limistéar Téacs…">
 <!ENTITY insertTextAreaCmd.accesskey "T">
-<!ENTITY insertSelectCmd.label "Selection List…">
+<!ENTITY insertSelectCmd.label "Liosta Roghnaithe…">
 <!ENTITY insertSelectCmd.accesskey "S">
-<!ENTITY insertButtonCmd.label "Define Button…">
-<!ENTITY insertButtonCmd.accesskey "B">
+<!ENTITY insertButtonCmd.label "Sainmhínigh Cnaipe…">
+<!ENTITY insertButtonCmd.accesskey "C">
 <!ENTITY insertLabelCmd.label "Sainigh Lipéad">
 <!ENTITY insertLabelCmd.accesskey "L">
 <!ENTITY insertFieldSetCmd.label "Sainigh Tacar Réimsí…">
@@ -341,8 +341,8 @@
 
 <!ENTITY formatlistMenu.label "Liosta">
 <!ENTITY formatlistMenu.accesskey "L">
-<!ENTITY noneCmd.label "None">
-<!ENTITY noneCmd.accesskey "N">
+<!ENTITY noneCmd.label "Dada">
+<!ENTITY noneCmd.accesskey "D">
 <!ENTITY listBulletCmd.label "Le hUrchair">
 <!ENTITY listBulletCmd.accesskey "U">
 <!ENTITY listNumberedCmd.label "Uimhrithe">
@@ -351,7 +351,7 @@
 <!ENTITY listTermCmd.accesskey "T">
 <!ENTITY listDefinitionCmd.label "Sainmhíniú">
 <!ENTITY listDefinitionCmd.accesskey "S">
-<!ENTITY listPropsCmd.label "List Properties…">
+<!ENTITY listPropsCmd.label "Airíonna Liosta…">
 <!ENTITY listPropsCmd.accesskey "L">
 
 <!ENTITY ParagraphSelect.tooltip "Roghnaigh formáid ailt">
