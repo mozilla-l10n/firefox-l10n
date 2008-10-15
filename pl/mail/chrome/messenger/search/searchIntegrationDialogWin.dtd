@@ -1,6 +1,6 @@
-<!ENTITY searchIntegration.engineName  "Windows - wyszukiwanie">
+<!ENTITY searchIntegration.engineName  "Usługą wyszukiwania systemu Windows"><!-- FIXME: real name is "Uługa wyszukiwania systemu Windows" - s/a/ą/ (decelnsion), accept/cancel buttons s/&searchIntegration.engineName;// -->
 <!ENTITY searchIntegration.title       "Integracja z &searchIntegration.engineName;">
-<!ENTITY searchIntegration.description "Czy włączyć obsługę &searchIntegration.engineName; dla indeksowania i wyszukiwania wiadomości w programie &brandShortName;?">
+<!ENTITY searchIntegration.description "Czy włączyć obsługę integracji z &searchIntegration.engineName; w programie &brandShortName; dla indeksowania i wyszukiwania wiadomości?">
 
-<!ENTITY searchIntegration.accept      "Włącz obsługę &searchIntegration.engineName;">
-<!ENTITY searchIntegration.cancel      "Nie włączaj obsługi &searchIntegration.engineName;">
+<!ENTITY searchIntegration.accept      "Włącz">
+<!ENTITY searchIntegration.cancel      "Nie włączaj">
