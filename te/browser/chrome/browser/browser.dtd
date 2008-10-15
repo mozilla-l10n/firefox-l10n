@@ -291,7 +291,7 @@
 <!ENTITY pageStylePersistentOnly.label "ప్రాధమిక పేజీ శైలి">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "ఈ వెబ్‌సైటు కొరకు సమూహ బ్లాకింగ్ అమరికలను మార్చుము">
+<!ENTITY pageReportIcon.tooltip            "ఈ వెబ్‌సైటు కొరకు సమూహ బ్లాకింగ్ అమరికలను మార్చు">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
