@@ -138,9 +138,6 @@
 <!ENTITY task.toolbar.label                     "Panel Úloha">
 <!ENTITY task.toolbar.accesskey                 "l">
 
-<!ENTITY mode.toolbar.label                     "Panel Režim">
-<!ENTITY mode.toolbar.accesskey                 "m">
-
 <!ENTITY calendar.menu.customize.label          "Prispôsobiť…">
 <!ENTITY calendar.menu.customize.accesskey      "P">
 
