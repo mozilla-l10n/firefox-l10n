@@ -556,7 +556,7 @@
 <!ENTITY searchFromMenu.label "Nadawca">
 <!ENTITY searchSubjectOrFromMenu.label "Temat lub nadawca">
 <!ENTITY searchRecipient.label              "Pola Do lub Kopia">
-<!ENTITY searchSubjectOrRecipientMenu.label "Pola temat, do lub kopia">
+<!ENTITY searchSubjectOrRecipientMenu.label "Pola Temat, Do lub Kopia">
 <!ENTITY searchMessageBody.label "Cała wiadomość">
 <!ENTITY saveAsVirtualFolderMenu.label 		"Zapisz ustawienia wyszukiwania jako folder…">
 
