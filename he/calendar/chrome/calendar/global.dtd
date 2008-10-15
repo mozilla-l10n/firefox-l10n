@@ -36,31 +36,66 @@
 <!ENTITY month.9.MMM "ספט'">
 <!ENTITY more.label "עוד">
 <!ENTITY remove.label "הסר">
-<!ENTITY time.1 "1:00 AM">
-<!ENTITY time.10 "10:00 AM">
-<!ENTITY time.11 "11:00 AM">
-<!ENTITY time.13 "1:00 PM">
-<!ENTITY time.14 "2:00 PM">
-<!ENTITY time.15 "3:00 PM">
-<!ENTITY time.16 "4:00 PM">
-<!ENTITY time.17 "5:00 PM">
-<!ENTITY time.18 "6:00 PM">
-<!ENTITY time.19 "7:00 PM">
-<!ENTITY time.2 "2:00 AM">
-<!ENTITY time.20 "8:00 PM">
-<!ENTITY time.21 "9:00 PM">
-<!ENTITY time.22 "10:00 PM">
-<!ENTITY time.23 "11:00 PM">
-<!ENTITY time.3 "3:00 AM">
-<!ENTITY time.4 "4:00 AM">
-<!ENTITY time.5 "5:00 AM">
-<!ENTITY time.6 "6:00 AM">
-<!ENTITY time.7 "7:00 AM">
-<!ENTITY time.8 "8:00 AM">
-<!ENTITY time.9 "9:00 AM">
+<!ENTITY time.1 "1:00 ">
+<!ENTITY time.10 "10:00 ">
+<!ENTITY time.11 "11:00 ">
+<!ENTITY time.13 "13:00 ">
+<!ENTITY time.14 "14:00 ">
+<!ENTITY time.15 "15:00 ">
+<!ENTITY time.16 "16:00 ">
+<!ENTITY time.17 "17:00 ">
+<!ENTITY time.18 "18:00 ">
+<!ENTITY time.19 "19:00 ">
+<!ENTITY time.2 "2:00 ">
+<!ENTITY time.20 "20:00 ">
+<!ENTITY time.21 "21:00 ">
+<!ENTITY time.22 "22:00 ">
+<!ENTITY time.23 "23:00 ">
+<!ENTITY time.3 "3:00 ">
+<!ENTITY time.4 "4:00 ">
+<!ENTITY time.5 "5:00 ">
+<!ENTITY time.6 "6:00 ">
+<!ENTITY time.7 "7:00 ">
+<!ENTITY time.8 "8:00 ">
+<!ENTITY time.9 "9:00 ">
 <!ENTITY time.AM "AM">
 <!ENTITY time.PM "PM">
 <!ENTITY time.am "AM">
 <!ENTITY time.midnight "חצות">
 <!ENTITY time.noon "צהריים">
 <!ENTITY time.pm "PM">
+<!ENTITY calendar.global.units.day      "יום">
+<!ENTITY calendar.global.units.days     "ימים">
+<!ENTITY calendar.global.units.hour     "שעה">
+<!ENTITY calendar.global.units.hours    "שעות">
+
+<!-- Units -->
+<!ENTITY calendar.global.units.minute   "דקה">
+<!ENTITY calendar.global.units.minutes  "דקות">
+<!ENTITY day.1.Ddd.accesskey "א'">
+<!ENTITY day.2.Ddd.accesskey "ב'">
+<!ENTITY day.3.Ddd.accesskey "ג'">
+<!ENTITY day.4.Ddd.accesskey "ד'">
+<!ENTITY day.5.Ddd.accesskey "ה'">
+<!ENTITY day.6.Ddd.accesskey "ו'">
+<!ENTITY day.7.Ddd.accesskey "שבת">
+
+<!ENTITY month.1.name "ינואר" >
+<!ENTITY month.10.name "אוקטובר" >
+<!ENTITY month.11.name "נובמבר" >
+<!ENTITY month.12.name "דצמבר" >
+<!ENTITY month.2.name "פברואר" >
+<!ENTITY month.3.name "מרץ" >
+<!ENTITY month.4.name "אפריל" >
+<!ENTITY month.5.name "מאי" >
+<!ENTITY month.6.name "יוני" >
+<!ENTITY month.7.name "יולי" >
+<!ENTITY month.8.name "אוגוסט" >
+<!ENTITY month.9.name "ספטמבר" >
+<!ENTITY onedaybackward.tooltip "יום אחד אחורה">
+<!ENTITY onedayforward.tooltip "יום אחד קדימה">
+
+<!ENTITY onemonthbackward.tooltip "חודש אחד אחורה" >
+<!ENTITY onemonthforward.tooltip "חודש אחד קדימה" >
+<!ENTITY showToday.tooltip "עבור להיום">
+<!ENTITY showselectedday.tooltip "הצג אירועים ליום הנבחר">
