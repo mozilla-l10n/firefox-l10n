@@ -219,7 +219,6 @@
 <!ENTITY sortUnthreaded.accesskey "e">
 <!ENTITY groupBySort.label "Grupuoti pagal rikiavimo požymį">
 <!ENTITY groupBySort.accesskey "u">
-<!ENTITY groupBySortCmd.key "G">
 <!ENTITY msgsMenu.label "Laiškai">
 <!ENTITY msgsMenu.accesskey "l">
 <!ENTITY threads.label "Gijos">
