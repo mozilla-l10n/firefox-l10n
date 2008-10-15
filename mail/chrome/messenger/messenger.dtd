@@ -190,7 +190,6 @@
 <!ENTITY sortUnthreaded.accesskey "N">
 <!ENTITY groupBySort.label "Gruppiert nach Sortierung">
 <!ENTITY groupBySort.accesskey "G">
-<!ENTITY groupBySortCmd.key "G">
 <!ENTITY msgsMenu.label "Nachrichten">
 <!ENTITY msgsMenu.accesskey "N">
 <!ENTITY threads.label "Themen">
