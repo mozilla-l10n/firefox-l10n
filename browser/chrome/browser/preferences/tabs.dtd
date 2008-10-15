@@ -6,5 +6,5 @@
 <!ENTITY warnOpenManyTabs.accesskey "d">
 <!ENTITY showTabBar.label "Mostra sempre la barra delle schede">
 <!ENTITY showTabBar.accesskey "M">
-<!ENTITY switchToNewTabs.label "Quando si apre un link in una nuova scheda, selezionarla immediatamente">
+<!ENTITY switchToNewTabs.label "Porta in primo piano ogni nuova scheda aperta da un link">
 <!ENTITY switchToNewTabs.accesskey "u">
