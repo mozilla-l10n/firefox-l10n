@@ -75,7 +75,7 @@
 <!ENTITY markAsReadDelay.accesskey       "f">
 <!ENTITY secondsLabel.label              "sekunder">
 
-<!ENTITY openingMessages.label            "Öppna meddelanden i:">
+<!ENTITY openingMessages.label            "När meddelanden öppnas, visa dem i:">
 <!ENTITY newWindowRadio.label             "Ett nytt fönster">
 <!ENTITY newWindowRadio.accesskey         "n">
 <!ENTITY existingWindowRadio.label        "Ett befintligt fönster">

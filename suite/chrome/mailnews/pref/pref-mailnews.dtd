@@ -60,9 +60,9 @@
 <!ENTITY enableStartPage.accesskey        "ä">
 <!ENTITY location.label                   "Adress:">
 <!ENTITY location.accesskey               "d">
-<!ENTITY useDefault.label                 "Återställ förvalda värden">
+<!ENTITY useDefault.label                 "Återställ förvalet">
 <!ENTITY useDefault.accesskey             "r">
-<!ENTITY rememberLastMsg.label            "Kom ihåg det senaste meddelandet">
+<!ENTITY rememberLastMsg.label            "Kom ihåg det sist valda meddelandet">
 <!ENTITY rememberLastMsg.accesskey        "K">
 <!ENTITY toolbarIntro.caption               "Välj de knappar du vill ha i verktygsfältet">
 <!ENTITY fileButton.label                 "Arkivera">
@@ -73,5 +73,5 @@
 <!ENTITY junkMailButton.accesskey         "S">
 <!ENTITY printButton.label                "Skriv ut">
 <!ENTITY printButton.accesskey            "u">
-<!ENTITY stopButton.label                 "Stoppa">
+<!ENTITY stopButton.label                 "Stopp">
 <!ENTITY stopButton.accesskey             "o">

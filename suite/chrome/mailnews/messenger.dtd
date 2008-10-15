@@ -86,7 +86,7 @@
 <!ENTITY renameFolder.label				"Byt namn på mapp…">
 <!ENTITY renameFolder.accesskey "B">
 <!ENTITY compactFolders.label			"Komprimera mappar">
-<!ENTITY compactFolder.accesskey "K">
+<!ENTITY compactFolders.accesskey "K">
 <!ENTITY emptyTrashCmd.label			"Töm papperskorgen">
 <!ENTITY emptyTrashCmd.accesskey "T">
 <!ENTITY offlineMenu.label				"Arbeta i nedkopplat läge">
@@ -314,8 +314,8 @@
 <!ENTITY nextFlaggedMsgCmd.accesskey "F">
 <!ENTITY nextUnflaggedMsgCmd.label "Ej flaggade meddelande">
 <!ENTITY nextUnreadThread.label "Olästa tråd">
-<!ENTITY nextUnreadThreadCmd.accesskey "å">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "å">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Föregående">
 <!ENTITY prevMenu.accesskey "r">
 <!ENTITY prevMsgCmd.label "Meddelande">
@@ -329,7 +329,7 @@
 <!ENTITY goForwardCmd.label "Framåt">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Flaggade meddelande">
-<!ENTITY previousFlaggedMsgCmd.accesskey "F">
+<!ENTITY prevFlaggedMsgCmd.accesskey "F">
 <!ENTITY backCmd.label ".Bakåt">
 <!ENTITY backCmd.accesskey "B">
 <!ENTITY forwardCmd.label ".Framåt">

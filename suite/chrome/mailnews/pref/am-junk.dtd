@@ -1,4 +1,4 @@
-<!ENTITY junkSettings.label "Skräppost (spam)">
+<!ENTITY junkSettings.label "Skräppost">
 <!ENTITY trainingWarning.label "Om aktiverad: Du måste först lära &brandShortName; att identifiera skräppost genom att använda knappen på skräppostfältet för att märka meddelanden som skräppost eller inte. Du behöver identifiera både skräppostmeddelanden och meddelanden som ej är skräppost.">
 <!ENTITY level.label "Aktivera inlärningsbar skräppostkontroll för detta konto">
 <!ENTITY level.accesskey "A">
@@ -16,5 +16,5 @@
 <!ENTITY whitelist.label "Märk inte e-post som skräppost om avsändaren är i: ">
 <!ENTITY whitelist.accesskey "i">
 
-<!ENTITY ispHeaders.label "Lita på skräppostmärkta e-posthuvuden av: ">
+<!ENTITY ispHeaders.label "Lita på skräppostmärkt brevhuvud av: ">
 <!ENTITY ispHeaders.accesskey "å">

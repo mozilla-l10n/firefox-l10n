@@ -45,8 +45,8 @@
 <!ENTITY requestReceipt.label         "Begär alltid mottagningskvitto när meddelanden skickas">
 <!ENTITY requestReceipt.accesskey     "B">
 <!ENTITY receiptArrive.label          "När ett kvitto kommer:">
-<!ENTITY leaveIt.label                "Lämna det i min Inkorg">
-<!ENTITY leaveIt.accesskey            "I">
+<!ENTITY leaveIt.label                "Lägg det i inkorgen">
+<!ENTITY leaveIt.accesskey            "i">
 <!ENTITY moveToSent.label             "Flytta det till mappen &quot;Skickat&quot;">
 <!ENTITY moveToSent.accesskey         "F">
 <!ENTITY requestMDN.label             "När jag får en begäran om mottagningskvitto:">

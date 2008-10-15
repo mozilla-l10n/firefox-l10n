@@ -1,6 +1,6 @@
 <!ENTITY settings.caption "Inställningar">
 <!ENTITY security.caption "Säkerhet och autentisering">
-<!ENTITY serverName.label "Servernamn:">
+<!ENTITY serverName.label "Server:">
 <!ENTITY serverName.accesskey "S">
 <!ENTITY serverDescription.label "Beskrivning:">
 <!ENTITY serverDescription.accesskey "B">
@@ -12,7 +12,7 @@
 <!ENTITY userName.accesskey "v">
 <!ENTITY useSecAuth.label "Använd säker autentisering">
 <!ENTITY useSecAuth.accesskey "a">
-<!ENTITY isSecure.label "Använd säker anslutning (SSL)">
+<!ENTITY isSecure.label "Använd säker anslutning">
 <!ENTITY neverSecure.label "Nej">
 <!ENTITY neverSecure.accesskey "N">
 <!ENTITY sometimesSTARTTLS.label "STARTTLS, om möjligt">

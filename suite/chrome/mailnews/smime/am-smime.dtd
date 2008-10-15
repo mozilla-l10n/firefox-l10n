@@ -3,9 +3,9 @@
 <!ENTITY securityHeading.label "För att kunna skicka och ta emot signerade eller krypterade meddelanden bör du ange både ett signeringscertifikat och ett krypteringscertifikat.">
 <!ENTITY encryptionGroupTitle.label "Kryptering">
 <!ENTITY encryptionChoiceLabel.label "Förvald krypteringsinställning när meddelanden skickas:">
-<!ENTITY neverEncrypt.label "Aldrig (använd inte kryptering)">
+<!ENTITY neverEncrypt.label "Aldrig (använder inte kryptering)">
 <!ENTITY neverEncrypt.accesskey "A">
-<!ENTITY alwaysEncryptMessage.label "Erfordras (skickar inte meddelande om inte alla mottagare har certifikat)">
+<!ENTITY alwaysEncryptMessage.label "Erfordras (kan inte skickas såvida inte alla mottagare har certifikat)">
 <!ENTITY alwaysEncryptMessage.accesskey "f">
 <!ENTITY encryptionCert.message "Använd detta certifikat för att kryptera och dekryptera meddelanden till dig:">
 <!ENTITY encryptionCert.notselected "Du har inte valt något certifikat">
@@ -18,7 +18,7 @@
 <!ENTITY encryption.certificate_clear.button "Rensa">
 <!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "Elektronisk signering">
-<!ENTITY signMessage.label "Elektroniskt signera meddelanden (i normala fall)">
-<!ENTITY signMessage.accesskey "s">
-<!ENTITY signingCert.message "Använd detta certifikat för att elektroniskt signera utgående meddelanden:">
+<!ENTITY signMessage.label "Signera meddelanden (som förval)">
+<!ENTITY signMessage.accesskey "S">
+<!ENTITY signingCert.message "Använd detta certifikat för att signera meddelanden du skickar:">
 <!ENTITY signingCert.notselected "Du har inte valt något certifikat">

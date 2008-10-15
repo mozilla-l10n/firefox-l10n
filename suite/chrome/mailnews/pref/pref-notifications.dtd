@@ -41,13 +41,13 @@
 <!ENTITY newMessagesArrive.label          "När nya meddelanden kommer:">
 <!ENTITY playSound.label                  "Ge en ljudsignal">
 <!ENTITY playSound.accesskey              "l">
-<!ENTITY showAnimatedAlert.label          "Visa en varning">
+<!ENTITY showAnimatedAlert.label          "Visa en notifiering">
 <!ENTITY showAnimatedAlert.accesskey      "V">
-<!ENTITY showTrayIcon.label               "Visa en ikon i meddelandefältet">
+<!ENTITY showTrayIcon.label               "Visa en fältikon">
 <!ENTITY showTrayIcon.accesskey           "i">
-<!ENTITY bounceSystemDockIcon.label       "Animera den dockade ikonen">
+<!ENTITY bounceSystemDockIcon.label       "Animera dockikonen">
 <!ENTITY bounceSystemDockIcon.accesskey   "A">
-<!ENTITY preview.label                    "Lyssna">
+<!ENTITY preview.label                    "Provlyssna">
 <!ENTITY preview.accesskey                "y">
 <!ENTITY systemsound.label                "Systemljudsignal för ny e-post">
 <!ENTITY systemsound.accesskey            "m">
