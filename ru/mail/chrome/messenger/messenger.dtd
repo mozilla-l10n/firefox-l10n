@@ -177,7 +177,6 @@
 <!ENTITY sortUnthreaded.accesskey "е">
 <!ENTITY groupBySort.label "Группировать по методу сортировки">
 <!ENTITY groupBySort.accesskey "Г">
-<!ENTITY groupBySortCmd.key "G">
 <!ENTITY msgsMenu.label "Сообщения">
 <!ENTITY msgsMenu.accesskey "б">
 <!ENTITY threads.label "Обсуждения">
