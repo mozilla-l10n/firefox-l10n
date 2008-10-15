@@ -8,11 +8,11 @@
   "known").
 -->
 
-<!ENTITY blockAttackSites.label "Block reported attack sites">
-<!ENTITY blockAttackSites.accesskey "k">
+<!ENTITY blockAttackSites.label "Cuir cosc ar shuímh a tuairiscíodh mar shuímh ionsaithe">
+<!ENTITY blockAttackSites.accesskey "i">
 
-<!ENTITY blockWebForgeries.label "Block reported web forgeries">
-<!ENTITY blockWebForgeries.accesskey "B">
+<!ENTITY blockWebForgeries.label "Cuir cosc ar shuímh a tuairiscíodh mar fhalsaíocht Ghréasáin">
+<!ENTITY blockWebForgeries.accesskey "F">
 
 <!ENTITY addonExceptions.label "Eisceachtaí…">
 <!ENTITY addonExceptions.accesskey "E">

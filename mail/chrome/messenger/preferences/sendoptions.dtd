@@ -12,7 +12,7 @@
 <!ENTITY receiveHTML.label 'Má tá a fhios agat gur féidir le faighteoir áirithe glacadh le HTML, athraigh an rogha "Formáid teachtaireachta de rogha" ar chárta an fhaighteora sa Leabhar Seoltaí.'>
 <!ENTITY override.label "Nóta: úsáid an Leabhar Seoltaí chun a rogha fhormáide a shonrú d'fhaighteoirí.">
 
-<!ENTITY domaindesc.label "Má sheolfaidh tú teachtaireacht go dtí seoladh atá i gceann de na bhfearainn thíosluaite, roghnóidh &brandShortName; an fhormáid cheart go huathoibríoch.">
+<!ENTITY domaindesc.label "Má sheolann tú teachtaireacht go dtí seoladh atá i gceann de na bhfearainn thíosluaite, roghnóidh &brandShortName; an fhormáid cheart go huathoibríoch.">
 <!ENTITY HTMLTab.label "Fearainn HTML">
 <!ENTITY HTMLTab.accesskey "h">
 <!ENTITY PlainTextTab.label "Fearainn Ghnáth-Théacs">

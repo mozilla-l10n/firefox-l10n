@@ -2,8 +2,8 @@
 <!ENTITY restorepage.titletext "Stop do sheisiún dheireanach &brandShortName; gan súil leis">
 <!ENTITY restorepage.shortDesc "Is féidir leat na cluaisíní agus na fuinneoga ó do sheisiún dheireanach a chur ar ais, nó seisiún nua a thosú mura bhfuil siad de dhíth ort a thuilleadh.  Is oth linn an briseadh seo.">
 <!ENTITY restorepage.remedies "Má dhúnann &brandShortName; arís agus arís eile:">
-<!ENTITY restorepage.dueToChrome "Try disabling any recently added extensions in the Add-ons Manager.">
-<!ENTITY restorepage.dueToContent "Try restoring your session without any Web pages you suspect might be causing the crash:">
+<!ENTITY restorepage.dueToChrome "Bain triail as eisínteachtaí a cuireadh leis le déanaí a dhíchumasú i mBainisteoir na mBreiseán.">
+<!ENTITY restorepage.dueToContent "Bain triail as do sheisiún a athbhunú gan leathanaigh Ghréasáin a cheapann tú gur iad atá freagrach as an gcliseadh:">
 
 <!ENTITY restorepage.restoreButton "Athchóirigh an Seisiún Roimhe Seo">
 <!ENTITY restorepage.restore.access "R">

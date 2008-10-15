@@ -1,6 +1,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Ar mhaithe le spás diosca a spáráil, ná híosluchtaigh:">
 <!ENTITY doNotDownload.label "Ar mhaithe spás diosca a spáráil, ná híosluchtaigh le haghaidh úsáide as líne:">
-<!ENTITY allFoldersOffline.label "Keep messages for this account on this computer">
+<!ENTITY allFoldersOffline.label "Coimeád teachtaireachtaí an chuntais seo ar an ríomhaire seo">
 <!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Teachtaireachtaí níos mó ná">
 <!ENTITY offlineNotDownload.accesskey "M">
