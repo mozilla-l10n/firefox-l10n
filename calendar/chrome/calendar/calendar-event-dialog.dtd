@@ -37,6 +37,9 @@
 
 <!ENTITY event.title.label                  "Item bewurkje" >
 
+<!ENTITY newevent.before.label              "foardat" >
+<!ENTITY newevent.after.label               "neidat" >
+
 <!ENTITY newevent.from.label                "Fan" >
 <!ENTITY newevent.to.label                  "Oant" >
 <!ENTITY newevent.attendees.sendEmail.label "Utnoeging stjoere nei dielnimmers fia e-mail">
@@ -54,10 +57,335 @@
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; foltôge">
 
+<!ENTITY  event.menu.file.label                           "Bestân">
+<!ENTITY  event.menu.file.accesskey                       "B">
+<!ENTITY  event.menu.file.new.label                       "Nij">
+<!ENTITY  event.menu.file.new.accesskey                   "N">
+<!ENTITY  event.menu.file.new.event.label                 "Barren">
+<!ENTITY  event.menu.file.new.event.accesskey             "a">
+<!ENTITY  event.menu.file.new.message.label               "Berjocht">
+<!ENTITY  event.menu.file.new.message.accesskey           "B">
+<!ENTITY  event.menu.file.new.address.label               "Adresboekkaart">
+<!ENTITY  event.menu.file.new.address.accesskey           "k">
+<!ENTITY  event.menu.file.close.label                     "Slute">
+<!ENTITY  event.menu.file.close.accesskey                 "S">
+<!ENTITY  event.menu.file.save.label                      "Bewarje">
+<!ENTITY  event.menu.file.save.accesskey                  "w">
+<!ENTITY  event.menu.file.page.setup.label                "Side-ynstellings">
+<!ENTITY  event.menu.file.page.setup.accesskey            "i">
+<!ENTITY  event.menu.file.print.label                     "Ofdrukke">
+<!ENTITY  event.menu.file.print.accesskey                 "d">
+<!ENTITY  event.menu.file.exit.label                      "Ofslute">
+<!ENTITY  event.menu.file.exit.accesskey                  "O">
+
+<!ENTITY  event.menu.edit.label                           "Bewurkje">
+<!ENTITY  event.menu.edit.accesskey                       "w">
+<!ENTITY  event.menu.edit.undo.label                      "Ungedien meitsje">
+<!ENTITY  event.menu.edit.undo.accesskey                  "U">
+<!ENTITY  event.menu.edit.redo.label                      "Op 'e nij útfiere">
+<!ENTITY  event.menu.edit.redo.accesskey                  "u">
+<!ENTITY  event.menu.edit.cut.label                       "Knippe">
+<!ENTITY  event.menu.edit.cut.accesskey                   "n">
+<!ENTITY  event.menu.edit.copy.label                      "Kopiearje">
+<!ENTITY  event.menu.edit.copy.accesskey                  "K">
+<!ENTITY  event.menu.edit.paste.label                     "Plakke">
+<!ENTITY  event.menu.edit.paste.accesskey                 "P">
+<!ENTITY  event.menu.edit.select.all.label                "Alles selektearje">
+<!ENTITY  event.menu.edit.select.all.accesskey            "A">
+
+<!ENTITY  event.menu.view.label                           "Byld">
+<!ENTITY  event.menu.view.accesskey                       "l">
+<!ENTITY  event.menu.view.toolbars.label                  "Arkbalken">
+<!ENTITY  event.menu.view.toolbars.accesskey              "A">
+<!ENTITY  event.menu.view.toolbars.event.label            "Barrenarkbalke">
+<!ENTITY  event.menu.view.toolbars.event.accesskey        "B">
+<!ENTITY  event.menu.view.toolbars.customize.label        "Oanpasse…">
+<!ENTITY  event.menu.view.toolbars.customize.accesskey    "O">
+<!ENTITY  event.menu.view.showlink.label                  "Byhearende keppeling toane">
+<!ENTITY  event.menu.view.showlink.accesskey              "k">
+
+<!ENTITY  event.menu.options.label                            "Opsjes">
+<!ENTITY  event.menu.options.accesskey                        "O">
+<!ENTITY  event.menu.options.attachments.label                "Webstee keppelje…">
+<!ENTITY  event.menu.options.attachments.accesskey            "W">
+<!ENTITY  event.menu.options.attendees.label                  "Dielnimmers útnoegje…">
+<!ENTITY  event.menu.options.attendees.accesskey              "G">
+<!ENTITY  event.menu.options.spellcheck.label                 "Stavering kontrolearje…">
+<!ENTITY  event.menu.options.spellcheck.accesskey             "k">
+<!ENTITY  event.menu.options.inline.spellcheck.label          "Stavering kontrolearje tiidens it typen">
+<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "S">
+<!ENTITY  event.menu.options.link.label                       "Keppeling tafoegje…">
+<!ENTITY  event.menu.options.link.accesskey                   "K">
+<!ENTITY  event.menu.options.timezone.label                   "Tiidsône">
+<!ENTITY  event.menu.options.timezone.accesskey               "s">
+<!ENTITY  event.menu.options.priority2.label                  "Prioriteit">
+<!ENTITY  event.menu.options.priority2.accesskey              "r">
+<!ENTITY  event.menu.options.priority.notspecified.label      "Net spesifisearre">
+<!ENTITY  event.menu.options.priority.notspecified.accesskey  "e">
+<!ENTITY  event.menu.options.priority.low.label               "Leech">
+<!ENTITY  event.menu.options.priority.low.accesskey           "L">
+<!ENTITY  event.menu.options.priority.normal.label            "Normaal">
+<!ENTITY  event.menu.options.priority.normal.accesskey        "N">
+<!ENTITY  event.menu.options.priority.high.label              "Heech">
+<!ENTITY  event.menu.options.priority.high.accesskey          "H">
+<!ENTITY  event.menu.options.privacy.label                    "Privacy">
+<!ENTITY  event.menu.options.privacy.accesskey                "P">
+<!ENTITY  event.menu.options.privacy.public.label             "Iepenbier barren">
+<!ENTITY  event.menu.options.privacy.public.accesskey         "I">
+<!ENTITY  event.menu.options.privacy.confidential.label       "Allinnich tiid en datum toane">
+<!ENTITY  event.menu.options.privacy.confidential.accesskey   "A">
+<!ENTITY  event.menu.options.privacy.private.label            "Priveebarren">
+<!ENTITY  event.menu.options.privacy.private.accesskey        "v">
+<!ENTITY  event.menu.options.show.time.label                  "Tiid toane as">
+<!ENTITY  event.menu.options.show.time.accesskey              "T">
+<!ENTITY  event.menu.options.show.time.busy.label             "Beset">
+<!ENTITY  event.menu.options.show.time.busy.accesskey         "B">
+<!ENTITY  event.menu.options.show.time.free.label             "Beskikber">
+<!ENTITY  event.menu.options.show.time.free.accesskey         "s">
+
+<!ENTITY event.help.label                                 "Help">
+<!ENTITY event.help.accesskey                             "H">
+<!ENTITY event.help.release.notes.label                   "Utjefe-opmerkings">
+<!ENTITY event.help.release.notes.accesskey               "U">
+<!ENTITY event.help.help.label                            "&brandShortName; Help">
+<!ENTITY event.help.help.accesskey                        "H">
+<!ENTITY event.help.about.label                           "Oer &brandShortName;">
+<!ENTITY event.help.about.accesskey                       "O">
+
+<!ENTITY event.invite.attendees.label                     "Dielnimmers útnoegje…">
+<!ENTITY event.invite.attendees.accesskey                 "D">
+<!ENTITY event.email.attendees.label                      "E-mail opstelle oan alle dielnimmers…">
+<!ENTITY event.email.attendees.accesskey                  "a">
+<!ENTITY event.email.tentative.attendees.label            "E-mail opstelle oan ûnbesliste dielnimmers…">
+<!ENTITY event.email.tentative.attendees.accesskey        "o">
+
+<!-- Toolbar -->
+<!ENTITY  event.toolbar.save.label                        "Bewarje en slute">
+<!ENTITY  event.toolbar.attendees.label                   "Dielnimmers útnoegje">
+<!ENTITY  event.toolbar.spellcheck.label                  "Staveringskontrole">
+<!ENTITY  event.toolbar.privacy.label                     "Privacy">
+<!ENTITY  event.toolbar.attachments.label                 "Keppelje">
+
+<!-- Main page -->
+<!ENTITY event.title.textbox.label                        "Titel:" >
+<!ENTITY event.title.textbox.accesskey                    "T">
+<!ENTITY event.location.label                             "Lokaasje:" >
+<!ENTITY event.location.accesskey                         "a">
+<!ENTITY event.categories.label                           "Kategorie:">
+<!ENTITY event.categories.accesskey                       "K">
+<!ENTITY event.calendar.label                             "Aginda:" >
+<!ENTITY event.calendar.accesskey                         "A">
+<!ENTITY event.attendees.label                            "Dielnimmers:" >
+<!ENTITY event.attendees.accesskey                        "D" >
+<!ENTITY event.alldayevent.label                          "De hiele dei" >
+<!ENTITY event.alldayevent.accesskey                      "d">
+<!ENTITY event.from.label                                 "Begjin:" >
+<!ENTITY event.from.accesskey                             "">
+<!ENTITY task.from.label                                  "Begjin:" >
+<!ENTITY task.from.accesskey                              "e">
+<!ENTITY event.to.label                                   "Ein:" >
+<!ENTITY event.to.accesskey                               "">
+<!ENTITY task.to.label                                    "Eindatum:" >
+<!ENTITY task.to.accesskey                                "u">
+<!ENTITY task.status.label                                "Steat:" >
+<!ENTITY task.status.accesskey                            "S">
+<!ENTITY event.repeat.label                               "Werhelje:" >
+<!ENTITY event.repeat.accesskey                           "r">
+<!ENTITY event.reminder.label                             "Warskôging:" >
+<!ENTITY event.reminder.accesskey                         "n">
+<!ENTITY event.description.label                          "Beskriuwing:" >
+<!ENTITY event.description.accesskey                      "w">
+<!ENTITY event.attachments.label                          "Taheaksels:" >
+<!ENTITY event.attachments.accesskey                      "h" >
+<!ENTITY event.attachments.popup.remove.label             "Fuortsmite" >
+<!ENTITY event.attachments.popup.remove.accesskey         "F" >
+<!ENTITY event.attachments.popup.open.label               "Iepenje" >
+<!ENTITY event.attachments.popup.open.accesskey           "I" >
+<!ENTITY event.attachments.popup.removeAll.label          "Alle fuortsmite" >
+<!ENTITY event.attachments.popup.removeAll.accesskey      "A" >
+<!ENTITY event.attachments.popup.attachPage.label         "Webstee keppelje…" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "W">
+<!ENTITY event.url.label                                  "Byhearende keppeling:" >
+<!ENTITY event.priority2.label                            "Prioriteit:">
+
+<!ENTITY event.reminder.none.label                        "Gjin warskôging " >
+<!ENTITY event.reminder.5minutes.before.label             "5 minuten dêrfoar" >
+<!ENTITY event.reminder.10minutes.before.label            "10 minuten dêrfoar" >
+<!ENTITY event.reminder.15minutes.before.label            "15 minuten dêrfoar" >
+<!ENTITY event.reminder.30minutes.before.label            "30 minuten dêrfoar" >
+<!ENTITY event.reminder.45minutes.before.label            "45 minuten dêrfoar" >
+<!ENTITY event.reminder.1hour.before.label                "1 oere dêrfoar" >
+<!ENTITY event.reminder.2hours.before.label               "2 oeren dêrfoar" >
+<!ENTITY event.reminder.5hours.before.label               "5 oeren dêrfoar" >
+<!ENTITY event.reminder.15hours.before.label              "15 oeren dêrfoar" >
+<!ENTITY event.reminder.1day.before.label                 "1 dei dêrfoar" >
+<!ENTITY event.reminder.2days.before.label                "2 dagen dêrfoar" >
+<!ENTITY event.reminder.1week.before.label                "1 wike dêrfoar" >
+<!ENTITY event.reminder.custom.label                      "Oanpast…" >
+
+<!ENTITY event.reminder.multiple.label                    "Mear warskôgings…" >
+
+<!-- Recurrence dialog -->
+
+<!ENTITY recurrence.title.label                         "Werhelling bewurkje">
+
+<!ENTITY event.repeat.does.not.repeat.label             "Net werhelje">
+<!ENTITY event.repeat.daily.label                       "Deistich">
+<!ENTITY event.repeat.weekly.label                      "Wykliks">
+<!ENTITY event.repeat.every.weekday.label               "Elke wykdei">
+<!ENTITY event.repeat.bi.weekly.label                   "Twawykliks">
+<!ENTITY event.repeat.monthly.label                     "Moanliks">
+<!ENTITY event.repeat.yearly.label                      "Jierliks">
+<!ENTITY event.repeat.custom.label                      "Oanpast…">
+
+<!ENTITY event.recurrence.pattern.label                 "Werhellingspatroan">
+<!ENTITY event.recurrence.occurs.label                  "Werhelle:" >
+<!ENTITY event.recurrence.day.label                     "deistich" >
+<!ENTITY event.recurrence.week.label                    "wykliks" >
+<!ENTITY event.recurrence.month.label                   "moanliks" >
+<!ENTITY event.recurrence.year.label                    "jierliks" >
+
+<!ENTITY event.recurrence.pattern.every.label           "Elke" >
+<!ENTITY repeat.units.days.both                         "dei (dagen)" >
+<!ENTITY event.recurrence.pattern.every.weekday.label   "Elke wykdei" >
+
+<!ENTITY event.recurrence.pattern.weekly.every.label    "Elke" >
+<!ENTITY repeat.units.weeks.both                        "wike(n)">
+<!ENTITY event.recurrence.on.label                      "Op:" >
+
+<!ENTITY event.recurrence.pattern.monthly.every.label   "Elke" >
+<!ENTITY repeat.units.months.both                       "moanne(n)" >
+<!ENTITY event.recurrence.the.label                     "De" >
+<!ENTITY event.recurrence.repeat.first.label            "earste">
+<!ENTITY event.recurrence.repeat.second.label           "twadde">
+<!ENTITY event.recurrence.repeat.third.label            "tredde">
+<!ENTITY event.recurrence.repeat.fourth.label           "fjirde">
+<!ENTITY event.recurrence.repeat.fifth.label            "fiifde"> 
+<!ENTITY event.recurrence.repeat.last.label             "lêste">
+<!ENTITY event.recurrence.pattern.monthly.week.1.label  "snein" >
+<!ENTITY event.recurrence.pattern.monthly.week.2.label  "moandei" >
+<!ENTITY event.recurrence.pattern.monthly.week.3.label  "tiisdei" >
+<!ENTITY event.recurrence.pattern.monthly.week.4.label  "woansdei" >
+<!ENTITY event.recurrence.pattern.monthly.week.5.label  "tongersdei" >
+<!ENTITY event.recurrence.pattern.monthly.week.6.label  "freed" >
+<!ENTITY event.recurrence.pattern.monthly.week.7.label  "sneon">
+<!ENTITY event.recurrence.repeat.dayofmonth.label       "dei fan de moanne">
+<!ENTITY event.recurrence.repeat.recur.label            "Werhelje op dei(dagen)">
+
+<!ENTITY event.recurrence.every.label                        "Elke:" >
+<!ENTITY repeat.units.years.both                             "jier" >
+<!ENTITY event.recurrence.pattern.yearly.every.month.label   "Elke" >
+<!ENTITY event.recurrence.pattern.yearly.every.weekday.label "Elke" >
+
+<!-- LOCALIZATON NOTE
+     Some languages use a preposition when describing dates:
+     Portuguese: 6 de Setembro
+     English: 6 [of] September
+     event.recurrence.pattern.yearly.of.label is "of" in
+     Edit recurrence window -> Recurrence pattern -> Repeat yearly
+-->
+<!ENTITY event.recurrence.pattern.yearly.of.label            "" >
+
+<!ENTITY event.recurrence.pattern.yearly.month.1.label       "jannewaris" >
+<!ENTITY event.recurrence.pattern.yearly.month.2.label       "febrewaris" >
+<!ENTITY event.recurrence.pattern.yearly.month.3.label       "maart" >
+<!ENTITY event.recurrence.pattern.yearly.month.4.label       "april" >
+<!ENTITY event.recurrence.pattern.yearly.month.5.label       "maaie" >
+<!ENTITY event.recurrence.pattern.yearly.month.6.label       "juny" >
+<!ENTITY event.recurrence.pattern.yearly.month.7.label       "july" >
+<!ENTITY event.recurrence.pattern.yearly.month.8.label       "augustus" >
+<!ENTITY event.recurrence.pattern.yearly.month.9.label       "septimber" >
+<!ENTITY event.recurrence.pattern.yearly.month.10.label      "oktober" >
+<!ENTITY event.recurrence.pattern.yearly.month.11.label      "novimber" >
+<!ENTITY event.recurrence.pattern.yearly.month.12.label      "desimber" >
+<!ENTITY event.recurrence.pattern.yearly.first.label         "earste">
+<!ENTITY event.recurrence.pattern.yearly.second.label        "twadde">
+<!ENTITY event.recurrence.pattern.yearly.third.label         "tredde">
+<!ENTITY event.recurrence.pattern.yearly.fourth.label        "fjirde">
+<!ENTITY event.recurrence.pattern.yearly.fifth.label         "fiifde">
+<!ENTITY event.recurrence.pattern.yearly.last.label          "lêste">
+<!ENTITY event.recurrence.pattern.yearly.week.1.label        "snein" >
+<!ENTITY event.recurrence.pattern.yearly.week.2.label        "moandei" >
+<!ENTITY event.recurrence.pattern.yearly.week.3.label        "tiisdei" >
+<!ENTITY event.recurrence.pattern.yearly.week.4.label        "woansdei" >
+<!ENTITY event.recurrence.pattern.yearly.week.5.label        "tongersdei" >
+<!ENTITY event.recurrence.pattern.yearly.week.6.label        "freed" >
+<!ENTITY event.recurrence.pattern.yearly.week.7.label        "sneon" >
+<!ENTITY event.recurrence.of.label                           "fan" >
+<!ENTITY event.recurrence.pattern.yearly.month2.1.label      "jannewaris" >
+<!ENTITY event.recurrence.pattern.yearly.month2.2.label      "febrewaris" >
+<!ENTITY event.recurrence.pattern.yearly.month2.3.label      "maart" >
+<!ENTITY event.recurrence.pattern.yearly.month2.4.label      "april" >
+<!ENTITY event.recurrence.pattern.yearly.month2.5.label      "maaie" >
+<!ENTITY event.recurrence.pattern.yearly.month2.6.label      "juny" >
+<!ENTITY event.recurrence.pattern.yearly.month2.7.label      "july" >
+<!ENTITY event.recurrence.pattern.yearly.month2.8.label      "augustus" >
+<!ENTITY event.recurrence.pattern.yearly.month2.9.label      "septimber" >
+<!ENTITY event.recurrence.pattern.yearly.month2.10.label     "oktober" >
+<!ENTITY event.recurrence.pattern.yearly.month2.11.label     "novimber" >
+<!ENTITY event.recurrence.pattern.yearly.month2.12.label     "desimber" >
+
+<!ENTITY event.recurrence.range.label                   "Werhellingsberyk">
+<!ENTITY event.recurrence.forever.label                 "Gjin eindatum" >
+<!ENTITY event.recurrence.repeat.for.label              "" >
+<!ENTITY event.recurrence.appointments.label            "ôfspra(a)k(en) meitsje" >
+<!ENTITY event.repeat.until.label                       "Werhelje oant" >
+<!ENTITY event.recurrence.preview.label                 "Foarbyld">
+
 <!-- Alarm -->
 <!ENTITY alarm.units.minutes                "minuten" >
 <!ENTITY alarm.units.hours                  "oere" >
 <!ENTITY alarm.units.days                   "dagen" >
 
-<!ENTITY newevent.before.label              "foardat" >
-<!ENTITY newevent.after.label               "neidat" >
+<!-- Reminder dialog -->
+
+<!ENTITY reminder.title.label                           "Oanpaste warskôging">
+<!ENTITY reminder.dialogtitle.label                     "Warskôgings ynstelle">
+<!ENTITY reminder.reminderDetails.label                 "Warskôgingsdetails">
+<!ENTITY reminder.action.label                          "Aksje foar de warskôging kieze">
+<!ENTITY reminder.action.alert.label                    "In warskôging toane">
+<!ENTITY reminder.action.email.label                    "In e-mail stjoere">
+<!ENTITY reminder.new.label                             "Nij">
+<!ENTITY reminder.delete.label                          "Fuortsmite">
+<!ENTITY reminder.relation.start.label                  "it barren begjint">
+<!ENTITY reminder.relation.end.label                    "it barren einiget">
+<!ENTITY reminder.add.label                             "Tafoegje">
+<!ENTITY reminder.add.accesskey                         "T">
+<!ENTITY reminder.remove.label                          "Fuortsmite">
+<!ENTITY reminder.remove.accesskey                      "F">
+
+
+<!-- Attendees dialog -->
+<!ENTITY invite.title.label              "Dielnimmers útnoegje">
+<!ENTITY event.organizer.label           "Organisator">
+<!ENTITY event.freebusy.suggest.slot     "Frij plak foarstelle:">
+<!ENTITY event.freebusy.next.slot        "Folgjende frije plak " >
+<!ENTITY event.freebusy.previous.slot    " Foarige frije plak" >
+<!ENTITY event.freebusy.zoom             "Zoomen:">
+<!ENTITY event.freebusy.plus             "Folgjend oer" >
+<!ENTITY event.freebusy.minus            "Foarich oer" >
+<!ENTITY event.freebusy.legend.free      "Beskikber" >
+<!ENTITY event.freebusy.legend.busy      "Beset" >
+<!ENTITY event.freebusy.legend.unknown   "Gjin ynformaasje" >
+
+<!-- Timezone dialog -->
+
+<!ENTITY timezone.title.label            "Spesifisearje de tiidsône">
+
+<!-- Read-Only dialog -->
+
+<!ENTITY read.only.general.label         "Algemien">
+<!ENTITY read.only.title.label           "Titel:">
+<!ENTITY read.only.repeat.label          "Werhelje:">
+<!ENTITY read.only.location.label        "Lokaasje:">
+<!ENTITY read.only.category.label        "Kategorie:">
+<!ENTITY read.only.organizer.label       "Organisator:">
+<!ENTITY read.only.reply.label           "Antwurd:">
+<!ENTITY read.only.accept.label          "Ik sil oanwêzich wêze">
+<!ENTITY read.only.decline.label         "Ik sil net oanwêzich wêze">
+<!ENTITY read.only.needs.action.label    "Ik sil letter befestigje">
+<!ENTITY read.only.reminder.label        "Warskôging:">
+<!ENTITY read.only.attendees.label       "Dielnimmers">
+<!ENTITY read.only.description.label     "Beskriuwing">
+<!ENTITY read.only.documents.label       "Dokuminten">
+<!ENTITY read.only.link.label            "Byhearende keppeling">

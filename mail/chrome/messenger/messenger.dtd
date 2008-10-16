@@ -187,7 +187,6 @@
 <!ENTITY sortUnthreaded.accesskey "e">
 <!ENTITY groupBySort.label "Groepeard op soarte">
 <!ENTITY groupBySort.accesskey "G">
-<!ENTITY groupBySortCmd.key "G">
 <!ENTITY msgsMenu.label "Berjochten">
 <!ENTITY msgsMenu.accesskey "B">
 <!ENTITY threads.label "Konversaasjes">
