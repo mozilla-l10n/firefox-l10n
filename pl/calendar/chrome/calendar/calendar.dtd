@@ -49,10 +49,6 @@
 <!ENTITY calendar.calendar.label     "Kalendarz">
 <!ENTITY calendar.calendar.accesskey "K">
 
-<!ENTITY calendar.confirm.deleteallevents  "Czy na pewno usunąć wszystkie zaznaczone wydarzenia?" >
-<!ENTITY calendar.confirm.deleteevent      "Czy na pewno usunąć wydarzenie nazwane: " >
-<!ENTITY calendar.confirm.deleteuntitledevent "Czy na pewno usunąć to nienazwane wydarzenie?" >
-
 <!ENTITY calendar.flat.topbar.choosedate       "Przejdź do dnia:" >
 <!ENTITY calendar.flat.topbar.dayview          "Widok dnia" >
 <!ENTITY calendar.dayview.accesskey            "d" >
