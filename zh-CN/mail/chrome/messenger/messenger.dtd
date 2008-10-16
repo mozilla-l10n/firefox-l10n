@@ -177,7 +177,6 @@
 <!ENTITY sortUnthreaded.accesskey "h">
 <!ENTITY groupBySort.label "按排序分组">
 <!ENTITY groupBySort.accesskey "G">
-<!ENTITY groupBySortCmd.key "G">
 <!ENTITY msgsMenu.label "消息">
 <!ENTITY msgsMenu.accesskey "M">
 <!ENTITY threads.label "论题">
