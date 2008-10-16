@@ -177,7 +177,6 @@
 <!ENTITY sortUnthreaded.accesskey "N">
 <!ENTITY groupBySort.label "Agrupados por orden">
 <!ENTITY groupBySort.accesskey "G">
-<!ENTITY groupBySortCmd.key "G">
 <!ENTITY msgsMenu.label "Mensajes">
 <!ENTITY msgsMenu.accesskey "m">
 <!ENTITY threads.label "Conversaciones">
