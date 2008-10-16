@@ -1,4 +1,5 @@
 <!ENTITY itemGeneral.label       "Allmänt">
+<!ENTITY itemDisplay.label       "Läsning &amp; visning">
 <!ENTITY itemUpdate.label        "Uppdateringar">
 <!ENTITY itemNetworking.label    "Nätverk &amp; diskutrymme">
 <!ENTITY itemCertificates.label  "Certifikat">
@@ -33,6 +34,10 @@
 <!ENTITY returnReceiptsInfo.label      "Ange hur &brandShortName; ska hantera mottagningskvitto">
 <!ENTITY showReturnReceipts.label      "Mottagningskvitton…">
 <!ENTITY showReturnReceipts.accesskey  "M">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption                "Läsning">
+<!ENTITY display.caption                "Visning">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Sök automatiskt efter uppdateringar till:">
