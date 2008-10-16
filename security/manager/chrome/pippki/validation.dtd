@@ -58,10 +58,10 @@
 <!ENTITY validation.crl.autoupdate.url.label "CRL hemendik inportatu behar da:">
 <!ENTITY crl.import.status.title "CRL inportatze egoera">
 <!ENTITY crl.import.success.message "Ziurtagiri errebokazio zerrenda (CRL) behar ebzala inportatu da.">
-<!ENTITY crl.issuer.label "CRL Issued By:">
+<!ENTITY crl.issuer.label "CRL jaulkitzailea:">
 <!ENTITY crl.issuer.org.label "Erakundea: ">
 <!ENTITY crl.issuer.orgunit.label "Unitatea: ">
 <!ENTITY crl.import.nextupdate.label "Hurrengo eguneraketa: ">
 <!ENTITY crl.autoupdate.fail.cnt.label "Aurreko eguneraketa huts jarraiak: ">
-<!ENTITY crl.autoupdate.fail.reason.label "Azken eguneraketa hutsaren xehetasunak:">
+<!ENTITY crl.autoupdate.fail.reason.label "Azken eguneraketa hutsaren xehetasunak: ">
 <!ENTITY edit.button "Ezarpenak">

@@ -1,5 +1,5 @@
-<!ENTITY identitiesListTitle.label "Kontu Honekin Lotutako Nortasunak">
-<!ENTITY identitiesListDesc.label "Nortasun Anitzak">
+<!ENTITY identitiesListTitle.label "Kontu honekin lotutako nortasunak">
+<!ENTITY identitiesListDesc.label "Hainbat nortasunetarako euskarria">
 <!ENTITY identitiesListAdd.label "Gehitu...">
 <!ENTITY identitiesListAdd.accesskey "G">
 <!ENTITY identitiesListEdit.label "Editatu...">

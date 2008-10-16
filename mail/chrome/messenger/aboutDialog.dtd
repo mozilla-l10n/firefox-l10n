@@ -1,6 +1,6 @@
 <!ENTITY aboutDialog.title "&brandFullName;(r)i buruz">
-<!ENTITY credits.label "Credits">
-<!ENTITY credits.accesskey "C">
+<!ENTITY credits.label "Kredituak">
+<!ENTITY credits.accesskey "K">
 <!ENTITY aboutLink.label "&lt; About &brandFullName;">
 <!ENTITY aboutLink.accesskey "A">
 <!ENTITY aboutVersion "bertsioa">

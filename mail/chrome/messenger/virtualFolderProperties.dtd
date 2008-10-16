@@ -4,9 +4,9 @@
 <!ENTITY description.label "Azpikarpeta bat sortu:">
 <!ENTITY description.accesskey "A">
 
-<!ENTITY searchTermCaption.label "Karpeta birtual honetarako erabiliko den bilaketa irizpidea ezarri:">
+<!ENTITY searchTermCaption.label "Karpeta birtual honetarako erabiliko den bilaketa irizpidea ezarri: ">
 
-<!ENTITY folderSelectionCaption.label "Aukeratu zein karpetatan bilatu:">
+<!ENTITY folderSelectionCaption.label "Aukeratu zein karpetatan bilatu: ">
 <!ENTITY chooseFoldersButton.label "Aukeratu...">
 <!ENTITY chooseFoldersButton.accesskey "k">
 
