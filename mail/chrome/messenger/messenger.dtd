@@ -221,7 +221,6 @@
 <!ENTITY sortUnthreaded.accesskey "å">
 <!ENTITY groupBySort.label "Grupperade efter ordning">
 <!ENTITY groupBySort.accesskey "G">
-<!ENTITY groupBySortCmd.key "G">
 <!ENTITY msgsMenu.label "Meddelanden">
 <!ENTITY msgsMenu.accesskey "M">
 <!ENTITY threads.label "Trådar">
