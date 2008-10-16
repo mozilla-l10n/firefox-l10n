@@ -41,6 +41,7 @@
 <!ENTITY aboutWarningCheckbox.label "Mostrar esta advertencia la próxima vez">
 <!ENTITY filterPrefs.label "Filtro:">
 <!ENTITY filterPrefs.accesskey "F">
+<!ENTITY focusFilter.key "f">
 <!ENTITY prefColumn.label "Nombre de la preferencia">
 <!ENTITY lockColumn.label "Estado">
 <!ENTITY typeColumn.label "Tipo">
