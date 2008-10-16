@@ -1,0 +1,16 @@
+<!ENTITY restorepage.title          "Vorige sessie herstellen">
+<!ENTITY restorepage.titletext      "Uw laatste sessie van &brandShortName; onverwacht afgesloten">
+<!ENTITY restorepage.shortDesc      "U kunt de tabbladen en vensters van uw vorige sessie herstellen, of een nieuwe sessie starten als ze niet meer nodig zijn. Onze excusses voor het ongemak.">
+<!ENTITY restorepage.remedies       "Als &brandShortName; regelmatig afsluit:">
+<!ENTITY restorepage.dueToChrome    "Probeer recent toegevoegde extensies in de add-on beheerder uit te schakelen.">
+<!ENTITY restorepage.dueToContent   "Probeer uw sessie te herstellen zonder webpagina's die volgens u het probleem veroorzaken:">
+
+<!ENTITY restorepage.restoreButton  "Vorige sessie herstellen">
+<!ENTITY restorepage.restore.access "V">
+<!ENTITY restorepage.cancelButton   "Nieuwe sessie starten">
+<!ENTITY restorepage.cancel.access  "N">
+
+<!ENTITY restorepage.restoreHeader  "Herstellen">
+<!ENTITY restorepage.listHeader     "Vensters en tabbladen">
+<!-- LOCALIZATION NOTE: %S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Venster #&#37;S">
