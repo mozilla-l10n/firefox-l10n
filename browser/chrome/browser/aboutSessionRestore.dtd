@@ -1,0 +1,16 @@
+<!ENTITY restorepage.title          "Gjenopprett tidligere programøkt">
+<!ENTITY restorepage.titletext      "Den siste programøkten med &brandShortName; ble avbrutt">
+<!ENTITY restorepage.shortDesc      "Du kan gjenopprette fanene og vinduene fra den forrige programøkten, eller du kan starte en ny programøkt dersom du ikke trenger dem. Vi beklager eventuell ubeleilighet dette har medført.">
+<!ENTITY restorepage.remedies       "Dersom &brandShortName; uventet lukkes igjen:">
+<!ENTITY restorepage.dueToChrome    "Forsøk å slå av utvidelser som du nettopp har installert i utvidelsesbehandleren.">
+<!ENTITY restorepage.dueToContent   "Forsøk å gjenopprette programøkten uten nettsider som du tror kan ha forårsaket krasjet:">
+
+<!ENTITY restorepage.restoreButton  "Gjenopprett forrige programøkt">
+<!ENTITY restorepage.restore.access "G">
+<!ENTITY restorepage.cancelButton   "Start ny programøkt">
+<!ENTITY restorepage.cancel.access  "S">
+
+<!ENTITY restorepage.restoreHeader  "Gjenopprett">
+<!ENTITY restorepage.listHeader     "Vinduer og faner">
+<!-- LOCALIZATION NOTE: %S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Vindu #&#37;S">
