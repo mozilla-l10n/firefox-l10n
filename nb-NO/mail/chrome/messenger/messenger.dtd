@@ -187,7 +187,6 @@
 <!ENTITY sortUnthreaded.accesskey "U">
 <!ENTITY groupBySort.label "Grupper etter sortering">
 <!ENTITY groupBySort.accesskey "G">
-<!ENTITY groupBySortCmd.key "G">
 <!ENTITY msgsMenu.label "Meldinger">
 <!ENTITY msgsMenu.accesskey "M">
 <!ENTITY threads.label "Tråder">
