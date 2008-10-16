@@ -8,7 +8,7 @@
 <!ENTITY newTabCmd.label "Fitxa berria">
 <!ENTITY newTabCmd.accesskey "T">
 <!ENTITY closeTabCmd.label "Itxi fitxa">
-<!ENTITY closeTabCmd.accesskey "x">
+<!ENTITY closeTabCmd.accesskey "i">
 <!ENTITY newVirtualFolderCmd.label "Gordetako Bilaketa...">
 <!ENTITY newVirtualFolderCmd.accesskey "G">
 <!ENTITY newAccountCmd.label "Kontua...">
@@ -44,7 +44,7 @@
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Trinkotu Karpetak">
-<!ENTITY compactFolders.accesskey "F">
+<!ENTITY compactFolders.accesskey "K">
 <!ENTITY emptyTrashCmd.label "Hustu Zakarrontzia">
 <!ENTITY emptyTrashCmd.accesskey "h">
 <!ENTITY importCmd.label "Inportatu...">
@@ -187,7 +187,6 @@
 <!ENTITY sortUnthreaded.accesskey "z">
 <!ENTITY groupBySort.label "Sailkapenaz Taldekatuta">
 <!ENTITY groupBySort.accesskey "S">
-<!ENTITY groupBySortCmd.key "G">
 <!ENTITY msgsMenu.label "Mezuak">
 <!ENTITY msgsMenu.accesskey "M">
 <!ENTITY threads.label "Hariak">
@@ -293,8 +292,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextStarredMsgCmd.label "Izardun Mezua">
 <!ENTITY nextStarredMsgCmd.accesskey "Z">
-<!ENTITY nextUnreadThread.label "Irakurri gabeko Harira">
-<!ENTITY nextUnreadThread.accesskey "T">
+<!ENTITY nextUnreadThread.label "Irakurri gabeko harira">
+<!ENTITY nextUnreadThread.accesskey "H">
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Aurreko">
 <!ENTITY prevMenu.accesskey "A">
@@ -673,7 +672,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveLinkAsCmd.label "Gorde lotura honela…">
 <!ENTITY saveLinkAsCmd.accesskey "r">
 <!ENTITY saveImageAsCmd.label "Gorde irudia honela…">
-<!ENTITY saveImageAsCmd.accesskey "v">
+<!ENTITY saveImageAsCmd.accesskey "d">
 <!ENTITY copyCmd.label "Kopiatu">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY selectAllCmd.label "Hautatu dena">

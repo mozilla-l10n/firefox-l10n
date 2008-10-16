@@ -119,5 +119,5 @@
 <!ENTITY downloadOnLogin.label "Mezuak orain deskargatu">
 <!ENTITY deferStorageDesc.label "Laukitxo hau ezgaitu kontu honentzako posta bere direktorio propioan gordetzeko. Honela goi-mailako kontu bezala ikusiko da. Bestela, Karpeta Lokaletako Postakutxa Orokorren barnean geratuko da.">
 <!ENTITY deferStorage.label "Postakutxa Orokorra erabili (posta Karpeta Lokaletan gorde)">
-<!ENTITY clickFinish.label "Klik egin Eginda botoian ezarpen hauek gorde eta Kontu Laguntzailetik irtetzeko.">
-<!ENTITY clickFinish.labelMac "Click Done to save these settings and exit the Account Wizard.">
+<!ENTITY clickFinish.label "Klik egin amaitu botoian ezarpen hauek gorde eta Kontu Laguntzailetik irteteko.">
+<!ENTITY clickFinish.labelMac "Klik egin eginda botoian ezarpen hauek gorde eta Kontu Laguntzailetik irteteko.">

@@ -1,16 +1,16 @@
-<!ENTITY pane.title "Delivery Status Notification">
-<!ENTITY useGlobalPrefs.label "Use my global Delivery Status Notification preferences for this account">
-<!ENTITY useGlobalPrefs.accesskey "U">
-<!ENTITY useCustomPrefs.label "Customize Delivery Status Notification for this account">
-<!ENTITY useCustomPrefs.accesskey "C">
-<!ENTITY requestAlways.label "When sending messages, always request a Delivery Status Notification">
-<!ENTITY requestAlways.accesskey "W">
-<!ENTITY optionTitle.label "Ask notification on :">
-<!ENTITY requestOnSucess.label "Behar bezala bidali da">
+<!ENTITY pane.title "Banaketa Egoeraren Jakinarazpena">
+<!ENTITY useGlobalPrefs.label "Erabili nire Banaketa Egoeraren Jakinarazpeneko hobespenak kontu honentzat">
+<!ENTITY useGlobalPrefs.accesskey "E">
+<!ENTITY useCustomPrefs.label "Pertsonalizatu Banaketa Egoeraren Jakinarazpena kontu honentzat">
+<!ENTITY useCustomPrefs.accesskey "P">
+<!ENTITY requestAlways.label "Mezuak bidaltzean, eskatu beti Banaketa Egoeraren Jakinarazpena">
+<!ENTITY requestAlways.accesskey "M">
+<!ENTITY optionTitle.label "Eskatu jakinarazpena:">
+<!ENTITY requestOnSucess.label "Behar bezala bidaltzean">
 <!ENTITY requestOnSucess.accesskey "B">
-<!ENTITY requestOnFailure.label "Huts bidaltzerakoan">
+<!ENTITY requestOnFailure.label "Bidalketak huts egitean">
 <!ENTITY requestOnFailure.accesskey "H">
-<!ENTITY requestOnDelay.label "Atzerapena bidaltzerakoan">
+<!ENTITY requestOnDelay.label "Bidalketa atzeratzean">
 <!ENTITY requestOnDelay.accesskey "T">
-<!ENTITY requestNever.label "Inoiz ez jaso bidalketa egoera berri-ematea">
+<!ENTITY requestNever.label "Ez jaso inoiz Banaketa Egoeraren Jakinarazpena">
 <!ENTITY requestNever.accesskey "N">

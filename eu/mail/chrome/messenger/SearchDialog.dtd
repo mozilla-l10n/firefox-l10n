@@ -36,7 +36,7 @@
 <!-- Thread Pane -->
 
 <!ENTITY threadColumn.label "Haria">
-<!ENTITY fromColumn.label "From">
+<!ENTITY fromColumn.label "Nork">
 <!ENTITY recipientColumn.label "Hartzailea">
 <!ENTITY subjectColumn.label "Gaia">
 <!ENTITY dateColumn.label "Data">
@@ -58,7 +58,7 @@
 
 <!ENTITY columnChooser.tooltip "Egin klik bistaratuko diren zutabeak hautatzeko">
 <!ENTITY threadColumn.tooltip "Egin klik mezuen haria bistaratzeko">
-<!ENTITY fromColumn.tooltip "Click to sort by from">
+<!ENTITY fromColumn.tooltip "Egin klik bidaltzailearen arabera ordenatzeko">
 <!ENTITY recipientColumn.tooltip "Egin klik hartzailez sailkatzeko">
 <!ENTITY subjectColumn.tooltip "Egin klik gaiaren arabera ordenatzeko">
 <!ENTITY dateColumn.tooltip "Egin klik dataren arabera ordenatzeko">
@@ -71,7 +71,7 @@
 <!ENTITY unreadColumn.tooltip "Irakurri gabeko mezu kopurua harian">
 <!ENTITY totalColumn.tooltip "Mezu kopurua guztira harian">
 <!ENTITY readColumn.tooltip "Egin klik irakurrita balioaren arabera ordenatzeko">
-<!ENTITY receivedColumn.tooltip "Click to sort by date received">
+<!ENTITY receivedColumn.tooltip "Egin klik jasotako dataren arabera ordenatzeko">
 <!ENTITY starredColumn.tooltip "Egin klik izarraren arabera ordenatzeko">
 <!ENTITY locationColumn.tooltip "Egin klik kokalekuaren arabera ordenatzeko">
 <!ENTITY idColumn.tooltip "Egin klik jasotako ordenean ordenatzeko">
