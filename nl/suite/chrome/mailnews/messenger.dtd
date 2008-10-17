@@ -83,7 +83,7 @@
 <!ENTITY renameFolder.label "Mapnaam wijzigen…">
 <!ENTITY renameFolder.accesskey "M">
 <!ENTITY compactFolders.label "Mappen comprimeren">
-<!ENTITY compactFolder.accesskey "c">
+<!ENTITY compactFolders.accesskey "c">
 <!ENTITY emptyTrashCmd.label "Prullenbak leegmaken">
 <!ENTITY emptyTrashCmd.accesskey "P">
 <!ENTITY offlineMenu.label "Offline">
@@ -311,8 +311,8 @@
 <!ENTITY nextFlaggedMsgCmd.accesskey "F">
 <!ENTITY nextUnflaggedMsgCmd.label "Unflagged Message">
 <!ENTITY nextUnreadThread.label "Ongelezen conversatie">
-<!ENTITY nextUnreadThreadCmd.accesskey "c">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "c">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Vorige">
 <!ENTITY prevMenu.accesskey "r">
 <!ENTITY prevMsgCmd.label "Bericht">
@@ -326,7 +326,7 @@
 <!ENTITY goBackCmd.label "Terug">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevFlaggedMsgCmd.label "Flagged Message">
-<!ENTITY previousFlaggedMsgCmd.accesskey "F">
+<!ENTITY prevFlaggedMsgCmd.accesskey "F">
 <!ENTITY backCmd.label ".Back">
 <!ENTITY backCmd.accesskey "T">
 <!ENTITY forwardCmd.label ".Forward">
