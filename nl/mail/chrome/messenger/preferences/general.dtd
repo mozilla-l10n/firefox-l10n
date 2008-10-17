@@ -40,3 +40,9 @@
 <!ENTITY customsound.accesskey            "v">
 <!ENTITY browse.label                     "Bladeren…">
 <!ENTITY browse.accesskey                 "B">
+
+<!ENTITY addonsMgr.label                  "Add-ons">
+<!ENTITY manageAddonsDescWin.label        "Opties van uw add-ons aanpassen">
+<!ENTITY manageAddonsDescUnix2.label      "Voorkeuren van uw add-ons aanpassen">
+<!ENTITY manageAddons.label               "Add-ons beheren…">
+<!ENTITY manageAddons.accesskey           "e">
