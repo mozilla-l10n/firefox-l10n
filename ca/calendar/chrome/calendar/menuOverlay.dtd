@@ -135,9 +135,6 @@
 <!ENTITY task.toolbar.label                     "Barra de les tasques">
 <!ENTITY task.toolbar.accesskey                 "t">
 
-<!ENTITY mode.toolbar.label                     "Mode de la barra d'eines">
-<!ENTITY mode.toolbar.accesskey                 "M">
-
 <!ENTITY calendar.menu.customize.label          "Personalitza…">
 <!ENTITY calendar.menu.customize.accesskey      "z">
 

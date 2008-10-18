@@ -43,14 +43,9 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- General -->
-<!ENTITY calendar.file.default.name  "El meu calendari" >
 <!ENTITY calendar.calendar.label     "Calendari">
 <!ENTITY calendar.calendar.accesskey "C">
 
-
-<!ENTITY calendar.confirm.deleteallevents  "Esteu segur que voleu suprimir totes les entrades seleccionades?" >
-<!ENTITY calendar.confirm.deleteevent "Esteu segur que voleu suprimir la cita amb títol:" >
-<!ENTITY calendar.confirm.deleteuntitledevent "Esteu segur que voleu suprimir aquesta cita sense títol?" >
 
 <!ENTITY calendar.flat.topbar.choosedate       "Vés a la data" >
 <!ENTITY calendar.flat.topbar.dayview          "Vista diària" >
