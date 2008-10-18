@@ -75,17 +75,6 @@
 <!ENTITY lightning.toolbar.task.label      "Tasques">
 <!ENTITY lightning.toolbar.task.accesskey     "T">
 
-<!-- Customize Toolbar Dialog -->
-<!ENTITY customize.toolbar.selector.label    "Barra d'eines:">
-<!ENTITY customize.toolbar.selector.mode     "Mode de la barra d'eines">
-<!ENTITY customize.toolbar.selector.mail     "Barra del correu">
-<!ENTITY customize.toolbar.selector.calendar "Barra del calendari">
-<!ENTITY customize.toolbar.selector.task     "Barra de les tasques">
-<!ENTITY customize.toolbar.location.label    "Ubicació:">
-<!ENTITY customize.toolbar.location.top      "A dalt">
-<!ENTITY customize.toolbar.location.bottom   "A baix">
-
-
 <!-- Messenger Toolbar -->
 <!ENTITY lightning.toolbar.day.label     "Vista diària">
 <!ENTITY lightning.toolbar.day.accesskey "d">
@@ -121,3 +110,5 @@
 <!ENTITY todaypane.showNone.accesskey "r">
 <!ENTITY todaypane.showTodayPane.label "Mostra el Plafó d'avui">
 <!ENTITY todaypane.showTodayPane.accesskey "a">
+<!ENTITY todaypane.statusButton.label "Plafó d'avui">
+
