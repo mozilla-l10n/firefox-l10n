@@ -38,7 +38,7 @@
 <!ENTITY enableSearchUpdate.label "Motori di ricerca">
 <!ENTITY enableSearchUpdate.accesskey "M">
 <!ENTITY whenUpdatesFound.label "Quando viene trovato un aggiornamento per &brandShortName;:">
-<!ENTITY askMe.label "Chiedi ogni volta cosa fare">
+<!ENTITY askMe.label "Chiedi ogni volta che cosa fare">
 <!ENTITY askMe.accesskey "h">
 <!ENTITY modeAutomatic.label "Scarica e installa automaticamente l'aggiornamento">
 <!ENTITY modeAutomatic.accesskey "S">

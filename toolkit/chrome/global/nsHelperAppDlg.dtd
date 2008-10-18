@@ -5,7 +5,7 @@
 <!ENTITY intro.attachment.noDesc.label "Il sito ha suggerito di gestire il file &quot;#3&quot; come un allegato. È di tipo #2 e si trova in:">
 <!ENTITY intro.sniffed.label "#4 ha rilevato che il file &quot;#3&quot; potrebbe essere di tipo #2 (#1). Il file si trova in:">
 <!ENTITY intro.sniffed.noDesc.label "#4 ha rilevato che il file &quot;#3&quot; potrebbe essere di tipo #2. Il file si trova in:">
-<!ENTITY prompt.label "Cosa deve fare #1 con questo file?">
+<!ENTITY prompt.label "Che cosa deve fare #1 con questo file?">
 <!ENTITY alwaysHandle.label "Esegui sempre questa azione per file di questo tipo">
 <!ENTITY alwaysHandle.accesskey "E">
 <!ENTITY saveToDisk.label "Salva su disco">
