@@ -1,15 +1,15 @@
-<!ENTITY content.title                             "Content">
-<!ENTITY permissions.default.image.title           "Load images">
-<!ENTITY permissions.default.image.description     "Makes websites pretty">
-<!ENTITY javascript.enabled.title                  "Enable Javascript">
-<!ENTITY javascript.enabled.description            "Makes websites flashy">
-<!ENTITY plugins.enabled.title                     "Enable Plugins">
-<!ENTITY plugins.enabled.description               "Makes websites annoying">
-<!ENTITY privacy.title                             "Privacy &amp; Security">
-<!ENTITY network.cookie.cookieBehavior.title       "Save cookies">
-<!ENTITY network.cookie.cookieBehavior.description "Delicious delicacies">
-<!ENTITY clear.private.data.title                  "Clear private data">
-<!ENTITY clear.private.data.button                 "Clear…">
-<!ENTITY clear.private.data.description            "Saves your hide">
-<!ENTITY signon.rememberSignons.title              "Save passwords">
-<!ENTITY signon.rememberSignons.description        "Lets you type less">
+<!ENTITY content.title                             "Treść">
+<!ENTITY permissions.default.image.title           "Pobieraj obrazki">
+<!ENTITY permissions.default.image.description     "Sprawia, że strony są ładniejsze">
+<!ENTITY javascript.enabled.title                  "Włącz Javascript">
+<!ENTITY javascript.enabled.description            "Sprawia, że strony się ruszają">
+<!ENTITY plugins.enabled.title                     "Włącz wtyczki">
+<!ENTITY plugins.enabled.description               "Sprawia, że strony wkurzają">
+<!ENTITY privacy.title                             "Prywatność i bezpieczeństwo">
+<!ENTITY network.cookie.cookieBehavior.title       "Zapisuj ciasteczka">
+<!ENTITY network.cookie.cookieBehavior.description "Ciasteczkowe pyszności">
+<!ENTITY clear.private.data.title                  "Wyczyść dane prywatne">
+<!ENTITY clear.private.data.button                 "Wyczyść…">
+<!ENTITY clear.private.data.description            "Pozwala się ukryć">
+<!ENTITY signon.rememberSignons.title              "Zapisuj hasła">
+<!ENTITY signon.rememberSignons.description        "Pozwala mniej wpisywać">

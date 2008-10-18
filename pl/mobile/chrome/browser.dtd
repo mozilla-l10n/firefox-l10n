@@ -1,50 +1,50 @@
 <!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titleseparator " - ">
 
-<!ENTITY back.label            "Back">
-<!ENTITY back.tooltip          "Back">
-<!ENTITY forward.label         "Forward">
-<!ENTITY forward.tooltip       "Forward">
-<!ENTITY reload.label          "Reload">
-<!ENTITY reload.tooltip        "Reload">
-<!ENTITY stop.label            "Stop">
-<!ENTITY stop.tooltip          "Stop">
-<!ENTITY search.label          "Search">
-<!ENTITY search.tooltip        "Search">
-<!ENTITY go.label              "Go">
-<!ENTITY go.tooltip            "Go">
-<!ENTITY star.label            "Star">
-<!ENTITY star.tooltip          "Bookmark this page">
-<!ENTITY bookmarks.label       "Bookmarks">
-<!ENTITY bookmarks.tooltip     "View bookmarks">
+<!ENTITY back.label            "Wstecz">
+<!ENTITY back.tooltip          "Wstecz">
+<!ENTITY forward.label         "Do przodu">
+<!ENTITY forward.tooltip       "Do przodu">
+<!ENTITY reload.label          "Odśwież">
+<!ENTITY reload.tooltip        "Odśwież">
+<!ENTITY stop.label            "Zatrzymaj">
+<!ENTITY stop.tooltip          "Zatrzymaj">
+<!ENTITY search.label          "Znajdź">
+<!ENTITY search.tooltip        "Znajdź">
+<!ENTITY go.label              "Przejdź">
+<!ENTITY go.tooltip            "Przejdź">
+<!ENTITY star.label            "Gwiazdka">
+<!ENTITY star.tooltip          "Dodaj zakładkę do strony">
+<!ENTITY bookmarks.label       "Zakładki">
+<!ENTITY bookmarks.tooltip     "Pokaż zakładki">
 
-<!ENTITY newtab.label          "New Tab">
-<!ENTITY closetab.label        "Close Tab">
+<!ENTITY newtab.label          "Nowa karta">
+<!ENTITY closetab.label        "Zamknij kartę">
 
-<!ENTITY cut.label             "Cut">
-<!ENTITY copy.label            "Copy">
-<!ENTITY copylink.label        "Copy Link Location">
-<!ENTITY paste.label           "Paste">
-<!ENTITY delete.label          "Delete">
-<!ENTITY selectAll.label       "Select All">
-<!ENTITY noSuggestions.label   "(No suggestions)">
-<!ENTITY addToDictionary.label "Add to Dictionary">
+<!ENTITY cut.label             "Wytnij">
+<!ENTITY copy.label            "Skopiuj">
+<!ENTITY copylink.label        "Kopiuj adres odnośnika">
+<!ENTITY paste.label           "Wklej">
+<!ENTITY delete.label          "Usuń">
+<!ENTITY selectAll.label       "Zaznacz wszystko">
+<!ENTITY noSuggestions.label   "(Brak podpowiedzi)">
+<!ENTITY addToDictionary.label "Dodaj do słownika">
 
-<!ENTITY bookmarkName.label    "Name:">
+<!ENTITY bookmarkName.label    "Nazwa:">
 <!ENTITY bookmarkFolder.label  "Folder:">
-<!ENTITY bookmarkTags.label    "Tags:">
-<!ENTITY bookmarkRemove.label  "Remove Bookmark">
+<!ENTITY bookmarkTags.label    "Etykiety:">
+<!ENTITY bookmarkRemove.label  "Usuń zakładkę">
 
-<!ENTITY findOnCmd.label     "Find in This Page…">
-<!ENTITY findOnCmd.accesskey "F">
+<!ENTITY findOnCmd.label     "Znajdź na tej stronie…">
+<!ENTITY findOnCmd.accesskey "Z">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Find Again">
-<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.label  "Znajdź następne">
+<!ENTITY findAgainCmd.accesskey "n">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
-<!ENTITY identity.unverifiedsite2 "This web site does not supply identity information.">
-<!ENTITY identity.connectedTo "You are connected to">
+<!ENTITY identity.unverifiedsite2 "Ta witryna nie dostarcza informacji o swej tożsamości.">
+<!ENTITY identity.connectedTo "Połączono z witryną">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -56,4 +56,4 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "which is run by">
+<!ENTITY identity.runBy "prowadzoną przez">
