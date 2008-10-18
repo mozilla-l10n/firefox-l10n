@@ -1,8 +1,8 @@
 <!ENTITY newWindowsAsTabs.label "Apri le nuove finestre in una nuova scheda">
 <!ENTITY newWindowsAsTabs.accesskey "n">
-<!ENTITY warnCloseMultipleTabs.label "Avvisa quando si chiudono più schede contemporaneamente">
+<!ENTITY warnCloseMultipleTabs.label "Avvisa quando si chiudono più schede">
 <!ENTITY warnCloseMultipleTabs.accesskey "v">
-<!ENTITY warnOpenManyTabs.label "Avvisa quando l'apertura di più schede potrebbe rallentare &brandShortName;">
+<!ENTITY warnOpenManyTabs.label "Avvisa quando l'apertura contemporanea di più schede potrebbe rallentare &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey "d">
 <!ENTITY showTabBar.label "Mostra sempre la barra delle schede">
 <!ENTITY showTabBar.accesskey "M">
