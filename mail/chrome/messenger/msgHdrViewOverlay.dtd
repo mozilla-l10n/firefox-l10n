@@ -19,7 +19,7 @@
 <!ENTITY saveAll.label "Захаваць усе…">
 <!ENTITY editMessageDescription.label "Чарнавік ліста">
 <!ENTITY editMessageButton.label "Праўка…">
-<!ENTITY replyButton.label "даказаць…">
+<!ENTITY replyButton.label "адказаць…">
 <!ENTITY forwardButton.label "накіраваць…">
 <!ENTITY junkButton.label "пазначыць лухтой">
 <!ENTITY trashButton.tooltiptext "выдаліць">

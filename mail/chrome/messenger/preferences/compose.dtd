@@ -35,9 +35,6 @@
 <!ENTITY autoSave.label "Самазахаванне кожныя">
 <!ENTITY autoSave.accesskey "з">
 <!ENTITY autoSaveEnd.label "хвілінаў">
-<!ENTITY wrapOutMsg.label "Загінаць радкі лістоў простага тэксту пасля">
-<!ENTITY wrapOutMsg.accesskey "г">
-<!ENTITY char.label "знакаў">
 <!ENTITY emailCollectionPicker.label "Самастойна дадаваць выходныя э-паштовыя адрасы ў маю:">
 <!ENTITY emailCollectionPicker.accesskey "С">
 <!ENTITY addressingTitle.label "Самазавяршэнне адрасоў">

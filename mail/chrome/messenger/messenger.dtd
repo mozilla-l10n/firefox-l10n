@@ -177,7 +177,6 @@
 <!ENTITY sortUnthreaded.accesskey "е">
 <!ENTITY groupBySort.label "Згрупаваныя размеркаваннем">
 <!ENTITY groupBySort.accesskey "г">
-<!ENTITY groupBySortCmd.key "G">
 <!ENTITY msgsMenu.label "Лісты">
 <!ENTITY msgsMenu.accesskey "ы">
 <!ENTITY threads.label "Нізкі">

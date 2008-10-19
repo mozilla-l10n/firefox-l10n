@@ -31,7 +31,7 @@
 <!ENTITY useSecAuth.accesskey "б">
 <!ENTITY leaveOnServer.label "Пакідаць лісты на паслугачы">
 <!ENTITY leaveOnServer.accesskey "п">
-<!ENTITY headersOnly.label "Атрымаць толькі загалоўкі">
+<!ENTITY headersOnly.label "Атрымліваць толькі загалоўкі">
 <!ENTITY headersOnly.accesskey "т">
 <!ENTITY deleteByAgeFromServer.label "Не болей чым на">
 <!ENTITY deleteByAgeFromServer.accesskey "ч">
