@@ -40,11 +40,6 @@
 <!ENTITY autoSave.accesskey                   "A">
 <!ENTITY autoSaveEnd.label                    "Minuten automatisch speichern">
 
-<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
-<!ENTITY wrapOutMsg.label                     "Reintext-Nachrichten nach">
-<!ENTITY wrapOutMsg.accesskey                 "R">
-<!ENTITY char.label                           "Zeichen umbrechen">
-
 <!ENTITY emailCollectionPicker.label           "Adressen beim Senden automatisch hinzufügen zu:">
 <!ENTITY emailCollectionPicker.accesskey       "E">
 <!ENTITY addressingTitle.label                 "Adress-Autovervollständigung">
