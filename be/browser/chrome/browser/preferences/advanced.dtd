@@ -32,7 +32,7 @@
 <!ENTITY updateTab.label "Абнаўленне">
 <!ENTITY autoCheck.label "Самастойна правяраць, ці існуюць абнаўленні да:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "а">
+<!ENTITY enableAppUpdate.accesskey "F">
 <!ENTITY enableAddonsUpdate.label "Усталяваных дадаткаў">
 <!ENTITY enableAddonsUpdate.accesskey "д">
 <!ENTITY enableSearchUpdate.label "Машынаў пошуку">
