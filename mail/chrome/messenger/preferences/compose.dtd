@@ -35,9 +35,6 @@
 <!ENTITY autoSave.label "Автоматически сохранять сообщение каждые">
 <!ENTITY autoSave.accesskey "х">
 <!ENTITY autoSaveEnd.label "минут">
-<!ENTITY wrapOutMsg.label "Длина строки в простых текстовых сообщениях:">
-<!ENTITY wrapOutMsg.accesskey "л">
-<!ENTITY char.label "символа">
 <!ENTITY emailCollectionPicker.label "Автоматически добавлять адреса из исходящих писем в адресную книгу:">
 <!ENTITY emailCollectionPicker.accesskey "в">
 <!ENTITY addressingTitle.label "Автодополнение адресов">

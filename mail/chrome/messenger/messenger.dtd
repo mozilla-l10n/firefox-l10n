@@ -316,14 +316,14 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Создать фильтр…">
 <!ENTITY createFilter.accesskey "ф">
-<!ENTITY moveMsgMenu.label "Переместить в папку">
-<!ENTITY moveMsgMenu.accesskey "е">
+<!ENTITY moveMsgToMenu.label "Переместить в папку">
+<!ENTITY moveMsgToMenu.accesskey "е">
 <!ENTITY moveCopyMsgRecentMenu.label "Недавно открытые">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "Н">
 <!ENTITY copyMessageLocation.label "Копировать адрес сообщения">
 <!ENTITY copyMessageLocation.accesskey "а">
-<!ENTITY copyMsgMenu.label "Копировать в папку">
-<!ENTITY copyMsgMenu.accesskey "и">
+<!ENTITY copyMsgToMenu.label "Копировать в папку">
+<!ENTITY copyMsgToMenu.accesskey "и">
 <!ENTITY moveToFolderAgain.label "Повторить перемещение">
 <!ENTITY moveToFolderAgain.accesskey "в">
 <!ENTITY moveToFolderAgainCmd.key "m">
