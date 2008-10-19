@@ -77,16 +77,6 @@
 <!ENTITY lightning.toolbar.task.label      "Aufgaben">      
 <!ENTITY lightning.toolbar.task.accesskey  "u">                        
 
-<!-- Customize Toolbar Dialog -->                                               
-<!ENTITY customize.toolbar.selector.label    "Symbolleiste:">                        
-<!ENTITY customize.toolbar.selector.mode     "Modus-Symbolleiste">                    
-<!ENTITY customize.toolbar.selector.mail     "Email-Symbolleiste">                    
-<!ENTITY customize.toolbar.selector.calendar "Kalender-Symbolleiste">  
-<!ENTITY customize.toolbar.selector.task     "Aufgaben-Symbolleiste">              
-<!ENTITY customize.toolbar.location.label    "Anordnung:">                       
-<!ENTITY customize.toolbar.location.top      "Oben">                             
-<!ENTITY customize.toolbar.location.bottom   "Unten">                          
-
 <!-- Messenger Toolbar -->
 <!ENTITY lightning.toolbar.day.label     "Tagesansicht">
 <!ENTITY lightning.toolbar.day.accesskey "T">
