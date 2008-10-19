@@ -345,14 +345,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Filter aus Nachricht erstellen…">
 <!ENTITY createFilter.accesskey "F">
-<!ENTITY moveMsgMenu.label "Verschieben">
-<!ENTITY moveMsgMenu.accesskey "v">
+<!ENTITY moveMsgToMenu.label "Verschieben in">
+<!ENTITY moveMsgToMenu.accesskey "v">
 <!ENTITY moveCopyMsgRecentMenu.label "Letzte Ordner">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "z">
 <!ENTITY copyMessageLocation.label "URL des Beitrags kopieren">
 <!ENTITY copyMessageLocation.accesskey "N">
-<!ENTITY copyMsgMenu.label "Kopieren">
-<!ENTITY copyMsgMenu.accesskey "K">
+<!ENTITY copyMsgToMenu.label "Kopieren in">
+<!ENTITY copyMsgToMenu.accesskey "K">
 <!ENTITY moveToFolderAgain.label "Auch verschieben/kopieren">
 <!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "m">
