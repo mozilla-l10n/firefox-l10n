@@ -31,7 +31,7 @@
 <!ENTITY display.caption "Адлюстраванне">
 <!ENTITY autoCheck.label "Самастойна правяраць, ці існуюць абнаўленні да:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "р">
+<!ENTITY enableAppUpdate.accesskey "h">
 <!ENTITY enableAddonsUpdate.label "Усталяваных дадаткаў">
 <!ENTITY enableAddonsUpdate.accesskey "У">
 <!ENTITY checkNow.label "Праверыць зараз…">
