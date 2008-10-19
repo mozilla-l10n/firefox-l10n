@@ -1,89 +1,77 @@
-<!ENTITY add.label "הוסף">
-<!ENTITY day.1.DDD "יום א'">
-<!ENTITY day.1.Ddd "יום א'">
-<!ENTITY day.1.name "יום ראשון">
-<!ENTITY day.2.DDD "יום ב'">
-<!ENTITY day.2.Ddd "יום ב'">
-<!ENTITY day.2.name "יום שני">
-<!ENTITY day.3.DDD "יום ג'">
-<!ENTITY day.3.Ddd "יום ג'">
-<!ENTITY day.3.name "יום שלישי">
-<!ENTITY day.4.DDD "יום ד'">
-<!ENTITY day.4.Ddd "יום ד'">
-<!ENTITY day.4.name "יום רביעי">
-<!ENTITY day.5.DDD "יום ה'">
-<!ENTITY day.5.Ddd "יום ה'">
-<!ENTITY day.5.name "יום חמישי">
-<!ENTITY day.6.DDD "יום ו'">
-<!ENTITY day.6.Ddd "יום ו'">
-<!ENTITY day.6.name "יום שישי">
-<!ENTITY day.7.DDD "שבת">
-<!ENTITY day.7.Ddd "שבת">
-<!ENTITY day.7.name "יום שבת">
-<!ENTITY edit.label "ערוך">
-<!ENTITY less.label "פחות">
-<!ENTITY month.1.MMM "ינו'">
-<!ENTITY month.10.MMM "אוק'">
-<!ENTITY month.11.MMM "נוב'">
-<!ENTITY month.12.MMM "דצמ'">
-<!ENTITY month.2.MMM "פבר'">
-<!ENTITY month.3.MMM "מרץ">
-<!ENTITY month.4.MMM "אפר'">
-<!ENTITY month.5.MMM "מאי">
-<!ENTITY month.6.MMM "יוני">
-<!ENTITY month.7.MMM "יולי">
-<!ENTITY month.8.MMM "אוג'">
-<!ENTITY month.9.MMM "ספט'">
-<!ENTITY more.label "עוד">
-<!ENTITY remove.label "הסר">
-<!ENTITY time.1 "1:00 ">
-<!ENTITY time.10 "10:00 ">
-<!ENTITY time.11 "11:00 ">
-<!ENTITY time.13 "13:00 ">
-<!ENTITY time.14 "14:00 ">
-<!ENTITY time.15 "15:00 ">
-<!ENTITY time.16 "16:00 ">
-<!ENTITY time.17 "17:00 ">
-<!ENTITY time.18 "18:00 ">
-<!ENTITY time.19 "19:00 ">
-<!ENTITY time.2 "2:00 ">
-<!ENTITY time.20 "20:00 ">
-<!ENTITY time.21 "21:00 ">
-<!ENTITY time.22 "22:00 ">
-<!ENTITY time.23 "23:00 ">
-<!ENTITY time.3 "3:00 ">
-<!ENTITY time.4 "4:00 ">
-<!ENTITY time.5 "5:00 ">
-<!ENTITY time.6 "6:00 ">
-<!ENTITY time.7 "7:00 ">
-<!ENTITY time.8 "8:00 ">
-<!ENTITY time.9 "9:00 ">
-<!ENTITY time.AM "AM">
-<!ENTITY time.PM "PM">
-<!ENTITY time.am "AM">
-<!ENTITY time.midnight "חצות">
-<!ENTITY time.noon "צהריים">
-<!ENTITY time.pm "PM">
-<!ENTITY calendar.global.units.day      "יום">
-<!ENTITY calendar.global.units.days     "ימים">
-<!ENTITY calendar.global.units.hour     "שעה">
-<!ENTITY calendar.global.units.hours    "שעות">
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Garth Smedley <garths@oeone.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY time.midnight "חצות" >
+<!ENTITY time.noon "צהרי היום" >
+
+<!-- Day Names -->
+<!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
+     only used in Preferences > Views > Workweek groupbox -->
+<!ENTITY day.1.Ddd "ראשון" >
+<!ENTITY day.1.Ddd.accesskey "ר">
+<!ENTITY day.2.Ddd "שני" >
+<!ENTITY day.2.Ddd.accesskey "ש">
+<!ENTITY day.3.Ddd "שלישי" >
+<!ENTITY day.3.Ddd.accesskey "ל">
+<!ENTITY day.4.Ddd "רביעי" >
+<!ENTITY day.4.Ddd.accesskey "ב">
+<!ENTITY day.5.Ddd "חמישי" >
+<!ENTITY day.5.Ddd.accesskey "ח">
+<!ENTITY day.6.Ddd "שישי" >
+<!ENTITY day.6.Ddd.accesskey "י">
+<!ENTITY day.7.Ddd "שבת" >
+<!ENTITY day.7.Ddd.accesskey "ת">
+
+<!ENTITY day.1.name "ראשון" >
+<!ENTITY day.2.name "שני" >
+<!ENTITY day.3.name "שלישי" >
+<!ENTITY day.4.name "רביעי" >
+<!ENTITY day.5.name "חמישי" >
+<!ENTITY day.6.name "שישי" >
+<!ENTITY day.7.name "שבת" >
 
 <!-- Units -->
 <!ENTITY calendar.global.units.minute   "דקה">
 <!ENTITY calendar.global.units.minutes  "דקות">
-<!ENTITY day.1.Ddd.accesskey "א'">
-<!ENTITY day.2.Ddd.accesskey "ב'">
-<!ENTITY day.3.Ddd.accesskey "ג'">
-<!ENTITY day.4.Ddd.accesskey "ד'">
-<!ENTITY day.5.Ddd.accesskey "ה'">
-<!ENTITY day.6.Ddd.accesskey "ו'">
-<!ENTITY day.7.Ddd.accesskey "שבת">
+<!ENTITY calendar.global.units.hour     "שעה">
+<!ENTITY calendar.global.units.hours    "שעות">
+<!ENTITY calendar.global.units.day      "יום">
+<!ENTITY calendar.global.units.days     "ימים">
 
 <!ENTITY month.1.name "ינואר" >
-<!ENTITY month.10.name "אוקטובר" >
-<!ENTITY month.11.name "נובמבר" >
-<!ENTITY month.12.name "דצמבר" >
 <!ENTITY month.2.name "פברואר" >
 <!ENTITY month.3.name "מרץ" >
 <!ENTITY month.4.name "אפריל" >
@@ -92,10 +80,13 @@
 <!ENTITY month.7.name "יולי" >
 <!ENTITY month.8.name "אוגוסט" >
 <!ENTITY month.9.name "ספטמבר" >
-<!ENTITY onedaybackward.tooltip "יום אחד אחורה">
-<!ENTITY onedayforward.tooltip "יום אחד קדימה">
+<!ENTITY month.10.name "אוקטובר" >
+<!ENTITY month.11.name "נובמבר" >
+<!ENTITY month.12.name "דצמבר" >
 
 <!ENTITY onemonthbackward.tooltip "חודש אחד אחורה" >
 <!ENTITY onemonthforward.tooltip "חודש אחד קדימה" >
+<!ENTITY onedaybackward.tooltip "יום אחד אחורה">
+<!ENTITY onedayforward.tooltip "יום אחד קדימה">
 <!ENTITY showToday.tooltip "עבור להיום">
 <!ENTITY showselectedday.tooltip "הצג אירועים ליום הנבחר">
