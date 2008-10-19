@@ -5,10 +5,10 @@
 <!ENTITY sizes.label "Памер (пікселяў)">
 <!ENTITY proportional.label "Суадносны:">
 <!ENTITY proportional.accesskey "С">
-<!ENTITY serif.label "Сэрыў:">
+<!ENTITY serif.label "З засечкамі:">
 <!ENTITY serif.accesskey "э">
-<!ENTITY sans-serif.label "Сан-Сэрыў:">
-<!ENTITY sans-serif.accesskey "а">
+<!ENTITY sans-serif.label "Без засечак:">
+<!ENTITY sans-serif.accesskey "б">
 <!ENTITY monospace.label "Роўнашырокі:">
 <!ENTITY monospace.accesskey "Р">
 <!ENTITY fantasy.label "Дзівосны:">
@@ -46,8 +46,8 @@
 <!ENTITY minSize.label "Найменшы памер шрыфту:">
 <!ENTITY minSize.accesskey "м">
 <!ENTITY minSize.none "Няма">
-<!ENTITY useDefaultFontSerif.label "Сэрыў">
-<!ENTITY useDefaultFontSansSerif.label "Сан Сэрыў">
+<!ENTITY useDefaultFontSerif.label "Serif">
+<!ENTITY useDefaultFontSansSerif.label "Sans Serif">
 <!ENTITY newLanguages.label "Новыя мовы могуць быць наладжаны ў Панэлі Моваў.">
 <!ENTITY useDocumentFonts.label "Дазволіць дакументам карыстацца іншымі шрыфтамі">
 <!ENTITY useDocumentFonts.accesskey "д">
