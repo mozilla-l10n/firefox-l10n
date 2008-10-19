@@ -367,12 +367,12 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Créer un filtre à partir du message…">
 <!ENTITY createFilter.accesskey "i">
-<!ENTITY moveMsgMenu.label "Déplacer le message vers">
-<!ENTITY moveMsgMenu.accesskey "m">
+<!ENTITY moveMsgToMenu.label "Déplacer le message vers">
+<!ENTITY moveMsgToMenu.accesskey "D">
 <!ENTITY copyMessageLocation.label "Copier l'adresse du message">
 <!ENTITY copyMessageLocation.accesskey "m">
-<!ENTITY copyMsgMenu.label "Copier le message vers">
-<!ENTITY copyMsgMenu.accesskey "C">
+<!ENTITY copyMsgToMenu.label "Copier le message vers">
+<!ENTITY copyMsgToMenu.accesskey "C">
 <!ENTITY moveCopyMsgRecentMenu.label "Récents">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY killThreadMenu.label "Ignorer la discussion">
