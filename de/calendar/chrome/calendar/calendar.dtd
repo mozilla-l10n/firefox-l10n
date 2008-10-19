@@ -43,13 +43,8 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- General -->
-<!ENTITY calendar.file.default.name  "Mein Kalender" >
 <!ENTITY calendar.calendar.label     "Kalender">
 <!ENTITY calendar.calendar.accesskey "K">
-
-<!ENTITY calendar.confirm.deleteallevents  "Sind Sie sicher, dass Sie alle markierte Termine löschen wollen?" >
-<!ENTITY calendar.confirm.deleteevent "Wollen Sie diesen Termin wirklich löschen: " >
-<!ENTITY calendar.confirm.deleteuntitledevent "Wollen Sie diesen unbenannten Termin wirklich löschen?" >
 
 <!ENTITY calendar.flat.topbar.choosedate       "Zu Datum wechseln" >
 <!ENTITY calendar.flat.topbar.dayview          "Tagesansicht" >
