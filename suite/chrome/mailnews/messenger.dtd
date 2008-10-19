@@ -384,12 +384,12 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Sukurti filtrą…">
 <!ENTITY createFilter.accesskey "f">
-<!ENTITY moveMsgMenu.label "Perkelti į aplanką">
-<!ENTITY moveMsgMenu.accesskey "e">
+<!ENTITY moveMsgToMenu.label "Perkelti į aplanką">
+<!ENTITY moveMsgToMenu.accesskey "e">
 <!ENTITY copyMessageLocation.label "Kopijuoti laiško adresą">
 <!ENTITY copyMessageLocation.accesskey "K">
-<!ENTITY copyMsgMenu.label "Kopijuoti į aplanką">
-<!ENTITY copyMsgMenu.accesskey "o">
+<!ENTITY copyMsgToMenu.label "Kopijuoti į aplanką">
+<!ENTITY copyMsgToMenu.accesskey "o">
 <!ENTITY moveCopyMsgRecentMenu.label "Naujausi">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "N">
 <!ENTITY killThreadMenu.label "Nepaisyti gijos">
