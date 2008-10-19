@@ -480,8 +480,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.tooltip "Gewählte Nachricht(en) ablegen">
 <!ENTITY nextButton.tooltip "Gehe zur nächsten ungelesenen Nachricht in der Liste">
 <!ENTITY previousButton.tooltip "Gehe zur vorherigen ungelesenen Nachricht in der Liste">
-<!ENTITY goForwardButton.tooltip "Eine Nachricht vorwärts in der Chonik der angesehenen Nachrichten">
-<!ENTITY goBackButton.tooltip "Eine Nachricht zurück in der Chonik der angesehenen Nachrichten">
+<!ENTITY goForwardButton.tooltip "Eine Nachricht vorwärts in der Chronik der angesehenen Nachrichten">
+<!ENTITY goBackButton.tooltip "Eine Nachricht zurück in der Chronik der angesehenen Nachrichten">
 <!ENTITY deleteButton.tooltip "Gewählte Nachricht(en) oder Ordner löschen">
 <!ENTITY undeleteButton.tooltip "Gewählte Nachricht(en) nicht löschen">
 <!ENTITY markButton.tooltip "Gewählte Nachricht(en) markieren">
