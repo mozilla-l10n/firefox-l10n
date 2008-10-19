@@ -367,12 +367,12 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Filter maken op basis van bericht…">
 <!ENTITY createFilter.accesskey "F">
-<!ENTITY moveMsgMenu.label "Verplaatsen naar">
-<!ENTITY moveMsgMenu.accesskey "V">
+<!ENTITY moveMsgToMenu.label "Verplaatsen naar">
+<!ENTITY moveMsgToMenu.accesskey "V">
 <!ENTITY copyMessageLocation.label "Berichtlocatie kopiëren">
 <!ENTITY copyMessageLocation.accesskey "p">
-<!ENTITY copyMsgMenu.label "Kopiëren">
-<!ENTITY copyMsgMenu.accesskey "K">
+<!ENTITY copyMsgToMenu.label "Kopiëren naar">
+<!ENTITY copyMsgToMenu.accesskey "K">
 <!ENTITY moveCopyMsgRecentMenu.label "Recent">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY killThreadMenu.label "Conversatie negeren">
