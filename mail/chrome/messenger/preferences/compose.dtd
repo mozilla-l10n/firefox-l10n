@@ -35,9 +35,6 @@
 <!ENTITY autoSave.label "自动保存，每隔">
 <!ENTITY autoSave.accesskey "u">
 <!ENTITY autoSaveEnd.label "分钟">
-<!ENTITY wrapOutMsg.label "纯文本消息在">
-<!ENTITY wrapOutMsg.accesskey "l">
-<!ENTITY char.label "个字符处自动换行">
 <!ENTITY emailCollectionPicker.label "自动将发送邮件地址添加至：">
 <!ENTITY emailCollectionPicker.accesskey "t">
 <!ENTITY addressingTitle.label "地址自动完成">
