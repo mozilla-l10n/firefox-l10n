@@ -39,10 +39,6 @@
 <!ENTITY autoSave.label           "Zapisuj stan wiadomości co">
 <!ENTITY autoSave.accesskey       "u">
 <!ENTITY autoSaveEnd.label        "minut">
-<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
-<!ENTITY wrapOutMsg.label "Zawijaj linie wiadomości zawierające zwykły tekst o długości powyżej">
-<!ENTITY wrapOutMsg.accesskey "w">
-<!ENTITY char.label "znaków">
 
 <!ENTITY emailCollectionPicker.label  "Zapisuj adresy e-mail z poczty wychodzącej w książce:">
 <!ENTITY emailCollectionPicker.accesskey  "t">
