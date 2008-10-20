@@ -84,7 +84,6 @@
 <!ENTITY clearCacheNow.accesskey         "l">
 
 <!-- Certificates -->
-<!ENTITY certificatesInfo2.label        "Verwalten der Sicherheitskomponenten:">
 <!ENTITY viewCertificates.label         "Zertifikate…">
 <!ENTITY viewCertificates.accesskey     "Z">
 <!ENTITY viewCRLs.label                 "Widerrufslisten…">
