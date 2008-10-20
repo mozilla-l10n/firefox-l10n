@@ -8,7 +8,7 @@
 <!ENTITY newTabCmd.label "Fitxa berria">
 <!ENTITY newTabCmd.accesskey "T">
 <!ENTITY closeTabCmd.label "Itxi fitxa">
-<!ENTITY closeTabCmd.accesskey "i">
+<!ENTITY closeTabCmd.accesskey "x">
 <!ENTITY newVirtualFolderCmd.label "Gordetako Bilaketa...">
 <!ENTITY newVirtualFolderCmd.accesskey "G">
 <!ENTITY newAccountCmd.label "Kontua...">
@@ -292,8 +292,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextStarredMsgCmd.label "Izardun Mezua">
 <!ENTITY nextStarredMsgCmd.accesskey "Z">
-<!ENTITY nextUnreadThread.label "Irakurri gabeko harira">
-<!ENTITY nextUnreadThread.accesskey "H">
+<!ENTITY nextUnreadThread.label "Irakurri gabeko _harira">
+<!ENTITY nextUnreadThread.accesskey "T">
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Aurreko">
 <!ENTITY prevMenu.accesskey "A">
