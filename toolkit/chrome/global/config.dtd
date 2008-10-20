@@ -43,8 +43,6 @@
 <!ENTITY aboutWarningCheckbox.label "Sýna aðvörun næst">
 <!ENTITY filterPrefs.label "Sía:">
 <!ENTITY filterPrefs.accesskey "S">
-<!ENTITY showAll.label "Sýna allt">
-<!ENTITY showAll.accesskey "a">
 <!-- Columns -->
 <!ENTITY prefColumn.label "Nafn">
 <!ENTITY lockColumn.label "Staða">

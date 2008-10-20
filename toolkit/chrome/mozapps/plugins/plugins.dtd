@@ -16,3 +16,5 @@
 
   
 <!ENTITY missingPlugin.label "Smelltu hér til að niðurhala tengiforriti.">
+<!ENTITY disabledPlugin.label "Efni tengiforritsins hefur verið gert óvirkt. Smelltu hér til að sjá um tengiforrit.">
+<!ENTITY blockedPlugin.label "Þetta tengiforrit hefur verið stöðvað þér til verndar.">

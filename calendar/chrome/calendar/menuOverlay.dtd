@@ -152,7 +152,7 @@
 <!ENTITY goNextCmd.all.accesskey "N">
 <!ENTITY toolsMenu.label "Verkfæri">
 <!ENTITY toolsMenu.accesskey "V">
-<!ENTITY errorConsoleCmd.label "Villu gluggi">
+<!ENTITY errorConsoleCmd.label "Villugluggi">
 <!ENTITY errorConsoleCmd.accesskey "V">
 <!ENTITY addressBookCmd.label "Tengiliðir">
 <!ENTITY addressBookCmd.accesskey "T">
@@ -177,7 +177,7 @@
 <!ENTITY preferencesCmdMac.modifiers "accel">
 <!ENTITY viewMenu.label "Sýn">
 <!ENTITY viewMenu.accesskey "n">
-<!ENTITY releaseCmd.label "Útgáfu upplýsingar">
+<!ENTITY releaseCmd.label "Útgáfuupplýsingar">
 <!ENTITY releaseCmd.accesskey "t">
 <!ENTITY aboutCmd.label "Um &brandFullName;">
 <!ENTITY aboutCmd.accesskey "U">

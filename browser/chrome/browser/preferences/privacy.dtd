@@ -21,7 +21,7 @@
 <!ENTITY keepUntil.accesskey "E">
 <!ENTITY expire.label "þær renna út">
 <!ENTITY close.label "þegar ég loka &brandShortName;">
-<!ENTITY askEachTime.label "spyrja mig í hvert skipti">
+<!ENTITY askEachTime.label "spyrja í hvert skipti">
 <!ENTITY cookieExceptions.label "Undanþágur…">
 <!ENTITY cookieExceptions.accesskey "U">
 <!ENTITY showCookies.label "Sýna smákökur…">

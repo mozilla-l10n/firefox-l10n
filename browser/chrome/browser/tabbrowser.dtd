@@ -16,3 +16,4 @@
 <!ENTITY bookmarkThisTab.accesskey "M">
 <!ENTITY undoCloseTab.label "Hætta við að loka flipa">
 <!ENTITY undoCloseTab.accesskey "H">
+<!ENTITY newTabButton.tooltip "Opna nýjan flipa">

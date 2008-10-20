@@ -58,8 +58,8 @@
 <!ENTITY generalEncoding "Kóðun:">
 <!ENTITY generalMetaName "Nafn">
 <!ENTITY generalMetaContent "Innihald">
-<!ENTITY generalSecurityMore "Meira">
-<!ENTITY generalSecurityMore.accesskey "M">
+<!ENTITY generalSecurityDetails "Nánar">
+<!ENTITY generalSecurityDetails.accesskey "N">
 <!ENTITY mediaTab "Gögn">
 <!ENTITY mediaTab.accesskey "G">
 <!ENTITY mediaLocation "Staðsetning:">
@@ -103,7 +103,7 @@
 <!ENTITY securityView.identity.verifier "Staðfest af: ">
 <!ENTITY securityView.privacy.header "Friðhelgi &amp; Ferill">
 <!ENTITY securityView.privacy.history "Hef ég skoðað þetta vefsvæði áður?">
-<!ENTITY securityView.privacy.cookies "Er þetta vefsvæði að geyma upplýsingar (smákökur) á tölvunni?">
+<!ENTITY securityView.privacy.cookies "Geymir þetta vefsvæði upplýsingar (smákökur) á tölvunni minni?">
 <!ENTITY securityView.privacy.viewCookies "Skoða smákökur">
 <!ENTITY securityView.privacy.viewCookies.accessKey "k">
 <!ENTITY securityView.privacy.passwords "Hef ég vistað eitthvað lykilorð fyrir þetta vefsvæði?">

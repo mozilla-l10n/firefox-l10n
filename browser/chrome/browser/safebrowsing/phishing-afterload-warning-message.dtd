@@ -11,7 +11,6 @@
 <!ENTITY safeb.palm.decline.statustext "Loka aðvörun">
 <!ENTITY safeb.palm.notforgery.label2 "Þetta er ekki vefsíðu fölsun…">
 <!ENTITY safeb.palm.report.label "Af hverju var lokað á þetta vefsvæði?">
-<!ENTITY safeb.urlbaricon.tooltip "Þessi síða gæti verið hættuleg; smelltu á fyrir meiri upplýsingar.">
 <!ENTITY safeb.blocked.malware.title "Tilkynnt árásarsvæði!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "Tilkynnt hefur verið að þetta vefsvæði <span id='malware_sitename'/> er árásarsvæði og búið er að loka á það vegna öryggisstillinga.">

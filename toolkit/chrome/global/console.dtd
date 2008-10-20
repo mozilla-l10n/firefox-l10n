@@ -35,7 +35,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY errorConsole.title "Villu gluggi">
+<!ENTITY errorConsole.title "Villugluggi">
 <!ENTITY errFile.label "Upprunarskrá:">
 <!ENTITY errLine.label "Lína:">
 <!ENTITY errColumn.label "Dálkur:">

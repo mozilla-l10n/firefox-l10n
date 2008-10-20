@@ -107,7 +107,7 @@
 <!ENTITY addons.label "Viðbætur">
 <!ENTITY addons.tooltip "Skoða og breyta uppsettum viðbótum">
 <!ENTITY addons.accesskey "i">
-<!ENTITY errorConsoleCmd.label "Villu gluggi">
+<!ENTITY errorConsoleCmd.label "Villugluggi">
 <!ENTITY errorConsoleCmd.accesskey "G">
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY fileMenu.label "Skrá">
@@ -233,6 +233,8 @@
 <!ENTITY reloadFrameCmd.accesskey "E">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Frumkóði vals">
 <!ENTITY viewPartialSourceForMathMLCmd.label "Sjá MathML frumkóða">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "k">
 <!ENTITY viewPageSourceCmd.label "Frumkóði síðu">
 <!ENTITY viewPageSourceCmd.accesskey "F">
@@ -316,7 +318,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomToggleCmd.accesskey "T">
 <!ENTITY fullZoom.label "Þysja">
 <!ENTITY fullZoom.accesskey "Þ">
-<!ENTITY newTabButton.tooltip "Opna nýjan flipa">
 <!ENTITY newWindowButton.tooltip "Opna nýjan glugga">
 <!ENTITY sidebarCloseButton.tooltip "Loka hliðslá">
 <!ENTITY cutButton.tooltip "Klippa">
