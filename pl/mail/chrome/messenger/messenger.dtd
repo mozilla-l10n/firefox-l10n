@@ -343,25 +343,25 @@
 <!ENTITY editMsgAsNewCmd.label "Edytuj wiadomość jako nową">
 <!ENTITY editMsgAsNewCmd.accesskey "E">
 <!ENTITY editMsgAsNewCmd.key "e">
-<!ENTITY createFilter.label 			"Utwórz filtr na podstawie wiadomości…">
-<!ENTITY createFilter.accesskey 		"f">
-<!ENTITY moveMsgMenu.label "Przenieś">
-<!ENTITY moveMsgMenu.accesskey "r">
+<!ENTITY createFilter.label              "Utwórz filtr na podstawie wiadomości…">
+<!ENTITY createFilter.accesskey          "f">
+<!ENTITY moveMsgToMenu.label             "Przenieś do">
+<!ENTITY moveMsgToMenu.accesskey         "r">
 <!ENTITY moveCopyMsgRecentMenu.label "Ostatni">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "O">
 <!ENTITY copyMessageLocation.label "Kopiuj adres wiadomości">
 <!ENTITY copyMessageLocation.accesskey "a">
-<!ENTITY copyMsgMenu.label "Kopiuj">
-<!ENTITY copyMsgMenu.accesskey "K">
+<!ENTITY copyMsgToMenu.label             "Kopiuj do">
+<!ENTITY copyMsgToMenu.accesskey         "K">
 <!ENTITY moveToFolderAgain.label "Przenieś ponownie">
 <!ENTITY moveToFolderAgain.accesskey "o">
 <!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Ignoruj wątek">
 <!ENTITY killThreadMenu.accesskey "I">
 <!ENTITY killThreadMenu.key "k">
-<!ENTITY killSubthreadMenu.label 		"Ignoruj odpowiedzi">
-<!ENTITY killSubthreadMenu.accesskey 		"g">
-<!ENTITY killSubthreadMenu.key 			"k">
+<!ENTITY killSubthreadMenu.label         "Ignoruj odpowiedzi">
+<!ENTITY killSubthreadMenu.accesskey     "g">
+<!ENTITY killSubthreadMenu.key           "k">
 <!ENTITY watchThreadMenu.label "Śledź wątek">
 <!ENTITY watchThreadMenu.accesskey "T">
 <!ENTITY watchThreadMenu.key "w">
