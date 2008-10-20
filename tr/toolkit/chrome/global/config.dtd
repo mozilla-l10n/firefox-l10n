@@ -45,6 +45,7 @@
 
 <!ENTITY filterPrefs.label "Süzgeç:">
 <!ENTITY filterPrefs.accesskey "S">
+<!ENTITY focusFilter.key "f">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Ayar ismi">
@@ -78,3 +79,4 @@
 <!ENTITY integer.accesskey "I">
 <!ENTITY boolean.label "Boolean">
 <!ENTITY boolean.accesskey "B">
+
