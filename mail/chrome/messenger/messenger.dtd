@@ -342,14 +342,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Filter meitsje op basis fan berjocht…">
 <!ENTITY createFilter.accesskey "F">
-<!ENTITY moveMsgMenu.label "Ferpleatse nei">
-<!ENTITY moveMsgMenu.accesskey "F">
+<!ENTITY moveMsgToMenu.label "Ferpleats nei">
+<!ENTITY moveMsgToMenu.accesskey "F">
 <!ENTITY moveCopyMsgRecentMenu.label "Resint">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY copyMessageLocation.label "Berjochtlokaasje kopieare">
 <!ENTITY copyMessageLocation.accesskey "p">
-<!ENTITY copyMsgMenu.label "Kopiearje">
-<!ENTITY copyMsgMenu.accesskey "K">
+<!ENTITY copyMsgToMenu.label "Kopiearje">
+<!ENTITY copyMsgToMenu.accesskey "K">
 <!ENTITY moveToFolderAgain.label "Op 'e nij ferpleatse">
 <!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "m">
