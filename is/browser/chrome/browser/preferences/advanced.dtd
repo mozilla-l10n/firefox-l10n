@@ -6,7 +6,7 @@
 <!ENTITY useCursorNavigation.accesskey "r">
 <!ENTITY searchStartTyping.label "Leita í texta þegar ég byrja að slá inn orð">
 <!ENTITY searchStartTyping.accesskey "L">
-<!ENTITY blockAutoRefresh.label "Vara mig við þegar vefsvæði reyna að vísa áfram eða endurnýja síðuna">
+<!ENTITY blockAutoRefresh.label "Vara við þegar vefsvæði reyna að vísa áfram eða endurnýja síðuna">
 <!ENTITY blockAutoRefresh.accesskey "ð">
 <!ENTITY browsing.label "Leit">
 <!ENTITY useAutoScroll.label "Nota sjálfvirka skrunun">
@@ -51,11 +51,11 @@
 <!ENTITY askMe.accesskey "S">
 <!ENTITY modeAutomatic.label "Hlaða sjálfvirkt niður og setja uppfærsluna upp">
 <!ENTITY modeAutomatic.accesskey "H">
-<!ENTITY modeAutoAddonWarn.label "Vara mig við ef uppfærslan gerir einhverja viðbót óvirka">
+<!ENTITY modeAutoAddonWarn.label "Vara við ef uppfærslan gerir einhverja viðbót óvirka">
 <!ENTITY modeAutoAddonWarn.accesskey "V">
 <!ENTITY updateHistory.label "Sýna uppfærslusögu">
 <!ENTITY updateHistory.accesskey "p">
-<!ENTITY offlineNotify.label "Láttu mig vita þegar vefsvæði biður um að geyma gögn fyrir ótengda notkun">
+<!ENTITY offlineNotify.label "Láta vita þegar vefsvæði biður um að geyma gögn fyrir ótengda notkun">
 <!ENTITY offlineNotify.accesskey "T">
 <!ENTITY offlineNotifyExceptions.label "Undanþágur…">
 <!ENTITY offlineNotifyExceptions.accesskey "U">
@@ -74,7 +74,7 @@
 <!ENTITY certSelection.description "Þegar þjónn biður um mitt skilríki:">
 <!ENTITY certs.auto "Velja eitt sjálfvirkt">
 <!ENTITY certs.auto.accesskey "l">
-<!ENTITY certs.ask "Spyrja mig í hvert skipti">
+<!ENTITY certs.ask "Spyrja í hvert skipti">
 <!ENTITY certs.ask.accesskey "i">
 <!ENTITY viewCerts.label "Skoða skilríki">
 <!ENTITY viewCerts.accesskey "S">

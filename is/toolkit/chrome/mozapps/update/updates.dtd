@@ -6,8 +6,10 @@
 <!ENTITY cancel.label "Hætta við">
 <!ENTITY cancel.accesskey "H">
 <!ENTITY noupdatesfound.title "Engar uppfærslur fundust">
-<!ENTITY noupdatesfound.intro "Engar nýjar uppfærslur fundust. &brandShortName; getur athugað
-                                           með uppfærslur öðru hverju.">
+<!ENTITY noupdatesautoenabled.intro "Engar uppfærslur eru til. &brandShortName; mun athuga
+                                           reglulega hvort til eru uppfærslur.">
+<!ENTITY noupdatesautodisabled.intro "Engar uppfærslur eru til. Vinsamlega athugaðu aftur seinna eða virkjaðu
+                                           sjálfvirkar uppfærslur fyrir &brandShortName;.">
 <!ENTITY incompatibleChecking.label "Er að athuga ef þessi uppfærsla mun valda vandræðum með viðbætur og/eða þema…">
 <!ENTITY clickHere.label "Skoða meiri upplýsingar um uppfærslu">
 <!ENTITY incompatible.warning "Þessi uppfærsla mun valda því að einhverjar viðbætur og/eða þema

@@ -35,11 +35,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.validation.title "Sannprófun">
-<!ENTITY validation.crl.caption "CRL">
-<!ENTITY validation.crl.description "Nota CRL tólið til að sjá um afturköllunarlista skilríkja (CRL) sem eru geymdar í skilríkja geymslunni þinni.">
-<!ENTITY validation.managecrls.button "Sýsla með afturköllunarlista skilríkja (CRL)…">
-<!ENTITY validation.managecrls.accesskey "M">
 <!ENTITY validation.crlmanager.label "Sýsla með afturköllunarlista skilríkja (CRL)">
 <!ENTITY validation.crlmanager.description "Þessir afturköllunarlistar (CRL) eru geymdir í skilríkja gagnagrunninum:">
 <!ENTITY validation.crlname.label "Nafn">
@@ -49,13 +44,13 @@
 <!ENTITY validation.crlautoupdatestatus.label "Staða á sjálfvirkri uppfærslu">
 <!ENTITY validation.deletecrl.label "Eyða">
 <!ENTITY validation.deletecrl.accesskey "E">
-<!ENTITY validation.updatecrl.label "Uppfærslur">
+<!ENTITY validation.updatecrl.label "Uppfærsla">
 <!ENTITY validation.updatecrl.accesskey "U">
 <!ENTITY validation.advanced.label "Stillingar">
 <!ENTITY validation.advanced.accesskey "S">
 <!ENTITY validation.crl.autoupdate.title "Stillingar fyrir sjálfvirka CRL uppfærslu">
 <!ENTITY validation.crl.autoupdate.enable.label "Virkja sjálfvirka uppfærslu fyrir þetta CRL">
-<!ENTITY validation.crl.autoupdate.time.label1 "Uppfærslur">
+<!ENTITY validation.crl.autoupdate.time.label1 "Uppfærsla">
 <!ENTITY validation.crl.autoupdate.time.label2 "Daga fyrir næsta uppfærslu dag">
 <!ENTITY validation.crl.autoupdate.freq.label1 "Uppfæra hverja">
 <!ENTITY validation.crl.autoupdate.freq.label2 "dag(a)">
@@ -69,16 +64,3 @@
 <!ENTITY crl.autoupdate.fail.cnt.label "Fjöldi fyrri ókláraðra uppfærsla: ">
 <!ENTITY crl.autoupdate.fail.reason.label "Villuskilaboð seinustu uppfærslu: ">
 <!ENTITY edit.button "Stillingar">
-<!ENTITY validation.ocsp.caption "OCSP">
-<!ENTITY enableOCSP.label "Nota Online Certificate Status Protocol (OCSP) til að staðfesta skilríki">
-<!ENTITY enableOCSP.accesskey "N">
-<!ENTITY certOCSP2.label "Staðfesta skilríki ef það skilgreinir OCSP þjón">
-<!ENTITY certOCSP2.accesskey "S">
-<!ENTITY proxyOCSP2.label "Staðfesta öll skilríki með því að nota eftirfarandi OCSP þjón:">
-<!ENTITY proxyOCSP2.accesskey "a">
-<!ENTITY serviceURL.label "Þjónustu URL:">
-<!ENTITY serviceURL.accesskey "S">
-<!ENTITY signingCA.label "Undirskrift svars:">
-<!ENTITY signingCA.accesskey "R">
-<!ENTITY validation.requireOCSP.description "Ef OCSP tenging mistekst, meðhöndla skilríkið sem það sé ógilt">
-<!ENTITY validation.requireOCSP.accesskey "f">

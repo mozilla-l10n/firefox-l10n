@@ -125,9 +125,9 @@
 <!ENTITY event.menu.options.show.time.free.accesskey "L">
 <!ENTITY event.help.label "Hjálp">
 <!ENTITY event.help.accesskey "H">
-<!ENTITY event.help.release.notes.label "Útgáfu upplýsingar">
+<!ENTITY event.help.release.notes.label "Útgáfuupplýsingar">
 <!ENTITY event.help.release.notes.accesskey "R">
-<!ENTITY event.help.help.label "&brandShortName; Hjálp">
+<!ENTITY event.help.help.label "&brandShortName; hjálp">
 <!ENTITY event.help.help.accesskey "H">
 <!ENTITY event.help.about.label "Um &brandShortName;">
 <!ENTITY event.help.about.accesskey "U">

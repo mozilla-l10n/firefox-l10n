@@ -16,7 +16,7 @@
 <!ENTITY aboutCmd.accesskey "U">
 <!ENTITY helpContents.label "Hjálparefni">
 <!ENTITY helpContents.accesskey "H">
-<!ENTITY helpContentsMac.label "&brandShortName; Hjálp">
+<!ENTITY helpContentsMac.label "&brandShortName; hjálp">
 <!ENTITY helpForIEUsers.label "Fyrir notendur Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey "VK_F1">
@@ -27,7 +27,7 @@
 <!ENTITY openHelpMac.modifiers "accel,shift">
 <!ENTITY openHelpMac.frontendCommandkey "?">
 <!ENTITY openHelpMac.frontendModifiers "accel">
-<!ENTITY helpReleaseNotes.label "Útgáfu upplýsingar">
+<!ENTITY helpReleaseNotes.label "Útgáfuupplýsingar">
 <!ENTITY helpReleaseNotes.accesskey "u">
 <!ENTITY updateCmd.label "Athuga uppfærslur…">
 <!ENTITY updateCmd.accesskey "t">

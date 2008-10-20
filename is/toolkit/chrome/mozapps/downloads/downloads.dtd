@@ -37,6 +37,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.clearList.tooltip "Fjarlægi úr listanum loknum niðurhölum, niðurhölum sem var hætt við, og niðurhölum sem mistókust">
 <!ENTITY cmd.clearList.accesskey "H">
 <!ENTITY cmd.find.commandKey "f">
+<!ENTITY cmd.search.commandKey "k">
 <!ENTITY closeWhenDone.label "Loka að niðurhali loknu">
 <!ENTITY closeWhenDone.tooltip "Loka niðurhalsglugganum þegar öll niðurhöl eru búin">
 <!ENTITY showFolder.label "Sýna möppu">

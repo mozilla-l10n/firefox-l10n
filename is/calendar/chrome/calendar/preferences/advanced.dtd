@@ -72,7 +72,7 @@
 <!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "p">
 <!ENTITY pref.calendar.advanced.update.modeAuto.label "Hlaða niður sjálfvirkt og setja upp uppfærsluna">
 <!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "H">
-<!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "Vara mig við ef uppfærslan gerir einhverja viðbót óvirka">
+<!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "Vara við ef uppfærslan gerir einhverja viðbót óvirka">
 <!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "V">
 <!ENTITY pref.calendar.advanced.update.showHistory.label "Sýna uppfærslusögu…">
 <!ENTITY pref.calendar.advanced.update.showHistory.accesskey "u">

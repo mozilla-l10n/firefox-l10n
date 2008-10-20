@@ -4,7 +4,4 @@
 <!ENTITY actionColumn2.accesskey "A">
 <!ENTITY focusSearch1.key "f">
 <!ENTITY focusSearch2.key "k">
-<!ENTITY filter.label "Leita:">
-<!ENTITY filter.accesskey "L">
-<!ENTITY clear.label "Hreinsa">
-<!ENTITY clear.accesskey "H">
+<!ENTITY filter.emptytext "Leita">
