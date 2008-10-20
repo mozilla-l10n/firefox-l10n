@@ -39,10 +39,6 @@
 <!ENTITY autoSave.label                       "Autospara var">
 <!ENTITY autoSave.accesskey                   "u">
 <!ENTITY autoSaveEnd.label                    "minut">
-<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
-<!ENTITY wrapOutMsg.label                     "Radbryt oformaterade meddelanden efter">
-<!ENTITY wrapOutMsg.accesskey                 "R">
-<!ENTITY char.label                           "tecken">
 
 <!ENTITY emailCollectionPicker.label           "Spara automatiskt utgående e-postadresser i:">
 <!ENTITY emailCollectionPicker.accesskey       "S">
