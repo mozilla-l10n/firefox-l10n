@@ -40,9 +40,9 @@ add extension to file name">
 <!ENTITY autoSave.accesskey "ט">
 <!ENTITY autoSaveEnd.label "דקות">
 <!-- ### ENTITY autoSaveEnd.accesskey "ד" -->
-<!ENTITY wrapOutMsg.label "אפשר גלישת שורות בהודעות טקסט פשוט אחרי">
-<!ENTITY wrapOutMsg.accesskey "ג">
-<!ENTITY char.label "תווים">
+<!-- ### ENTITY wrapOutMsg.label "אפשר גלישת שורות בהודעות טקסט פשוט אחרי" -->
+<!-- ### ENTITY wrapOutMsg.accesskey "ג" -->
+<!-- ### ENTITY char.label "תווים" -->
 <!ENTITY emailCollectionPicker.label "הוסף אוטומטית כתובות מדואר אלקטרוני יוצא אל:">
 <!ENTITY emailCollectionPicker.accesskey "כ">
 <!ENTITY addressingTitle.label "השלמת כתובת אוטומטית">
