@@ -327,14 +327,14 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "צור מסנן מהודעה…">
 <!ENTITY createFilter.accesskey "צ">
-<!ENTITY moveMsgMenu.label "העבר">
-<!ENTITY moveMsgMenu.accesskey "ה">
+<!ENTITY moveMsgToMenu.label "העבר">
+<!ENTITY moveMsgToMenu.accesskey "ה">
 <!ENTITY moveCopyMsgRecentMenu.label "אחרונים">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "א">
 <!ENTITY copyMessageLocation.label "העתק מיקום הודעה">
 <!ENTITY copyMessageLocation.accesskey "מ">
-<!ENTITY copyMsgMenu.label "העתק">
-<!ENTITY copyMsgMenu.accesskey "ע">
+<!ENTITY copyMsgToMenu.label "העתק">
+<!ENTITY copyMsgToMenu.accesskey "ע">
 <!ENTITY moveToFolderAgain.label "העבר שוב">
 <!ENTITY moveToFolderAgain.accesskey "ש">
 <!ENTITY moveToFolderAgainCmd.key "m">
