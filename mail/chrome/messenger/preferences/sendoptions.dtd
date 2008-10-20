@@ -9,7 +9,6 @@
 <!ENTITY sendHTML.accesskey           "H">
 <!ENTITY sendBoth.label               "Nachrichten als Reintext und HTML senden">
 <!ENTITY sendBoth.accesskey           "s">
-<!ENTITY receiveHTML.label            "Wenn Sie wissen, dass ein bestimmter Empfänger HTML-Nachrichten empfangen kann und möchte, dann treffen Sie die entsprechende Einstellung in seiner Adressbuch-Karte bei &quot;Bevorzugt folgendes Nachrichten-Format:&quot;.">
 <!ENTITY override.label               "Hinweis: 
 Nutzen Sie das Adressbuch, um das bevorzugte Format für einzelne Empfänger anzugeben.">
 
@@ -29,14 +28,5 @@ Nutzen Sie das Adressbuch, um das bevorzugte Format für einzelne Empfänger anz
 
 <!ENTITY add.htmltitle                "HTML-Domain hinzufügen">
 <!ENTITY add.htmldomain               "HTML-Domainname:">
-<!ENTITY add.htmldomain.accesskey     "H">
 <!ENTITY add.plaintexttitle           "Reintext-Domain hinzufügen">
 <!ENTITY add.plaintextdomain          "Reintext-Domainname:">
-<!ENTITY add.plaintext.accesskey      "H">
-
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY domainnameError.title        "Domainnamen-Fehler">
-<!ENTITY duplicationError.label       "Der Domainname @string@ existiert bereits in der Liste.">
-
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY dualEntryError.label         "Domainnamen dürfen nicht in beiden Listen (HTML und Reintext) existieren. Der Domainname @string@ existiert bereits in der anderen Liste.">
