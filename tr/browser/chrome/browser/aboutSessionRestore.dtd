@@ -13,5 +13,5 @@
 <!ENTITY restorepage.restoreHeader  "Kurtarma">
 <!ENTITY restorepage.listHeader     "Pencereler ve sekmeler">
 <!-- LOCALIZATION NOTE: %S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "%S. pencere">
+<!ENTITY restorepage.windowLabel    "%S pencere">
 
