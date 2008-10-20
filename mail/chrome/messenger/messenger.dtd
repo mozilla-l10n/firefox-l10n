@@ -342,14 +342,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editMsgAsNewCmd.key "E">
 <!ENTITY createFilter.label "Criar filtro para o remetente...">
 <!ENTITY createFilter.accesskey "f">
-<!ENTITY moveMsgMenu.label "Mover para">
-<!ENTITY moveMsgMenu.accesskey "M">
+<!ENTITY moveMsgToMenu.label "Mover para">
+<!ENTITY moveMsgToMenu.accesskey "M">
 <!ENTITY moveCopyMsgRecentMenu.label "Recente">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "E">
 <!ENTITY copyMessageLocation.label "Copiar localização da mensagem">
 <!ENTITY copyMessageLocation.accesskey "M">
-<!ENTITY copyMsgMenu.label "Copiar">
-<!ENTITY copyMsgMenu.accesskey "C">
+<!ENTITY copyMsgToMenu.label "Copiar para">
+<!ENTITY copyMsgToMenu.accesskey "C">
 <!ENTITY moveToFolderAgain.label "Mover de novo">
 <!ENTITY moveToFolderAgain.accesskey "v">
 <!ENTITY moveToFolderAgainCmd.key "m">
@@ -652,7 +652,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY AddToAddressBook.accesskey "C">
 <!ENTITY AddDirectlyToAddressBook.label "Adicionar ao livro de endereços">
 <!ENTITY AddDirectlyToAddressBook.accesskey "v">
-<!ENTITY EditContact.label "Edita contacto…">
+<!ENTITY EditContact.label "Editar contacto…">
 <!ENTITY EditContact.accesskey "E">
 <!ENTITY ViewContact.label "Ver contacto">
 <!ENTITY ViewContact.accesskey "V">
