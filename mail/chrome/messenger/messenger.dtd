@@ -316,14 +316,14 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Crear filtro a partir del mensaje…">
 <!ENTITY createFilter.accesskey "a">
-<!ENTITY moveMsgMenu.label "Mover">
-<!ENTITY moveMsgMenu.accesskey "m">
+<!ENTITY moveMsgToMenu.label "Mover a">
+<!ENTITY moveMsgToMenu.accesskey "M">
 <!ENTITY moveCopyMsgRecentMenu.label "Reciente">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY copyMessageLocation.label "Copiar URL del mensaje">
 <!ENTITY copyMessageLocation.accesskey "M">
-<!ENTITY copyMsgMenu.label "Copiar">
-<!ENTITY copyMsgMenu.accesskey "c">
+<!ENTITY copyMsgToMenu.label "Copiar a">
+<!ENTITY copyMsgToMenu.accesskey "C">
 <!ENTITY moveToFolderAgain.label "Mover de nuevo">
 <!ENTITY moveToFolderAgain.accesskey "d">
 <!ENTITY moveToFolderAgainCmd.key "m">
