@@ -376,14 +376,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Skapa filterregel utifrån meddelandet…">
 <!ENTITY createFilter.accesskey "u">
-<!ENTITY moveMsgMenu.label "Flytta">
-<!ENTITY moveMsgMenu.accesskey "F">
+<!ENTITY moveMsgToMenu.label "Flytta till">
+<!ENTITY moveMsgToMenu.accesskey "F">
 <!ENTITY moveCopyMsgRecentMenu.label "Tidigare">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "T">
 <!ENTITY copyMessageLocation.label "Kopiera meddelandeadress">
 <!ENTITY copyMessageLocation.accesskey "i">
-<!ENTITY copyMsgMenu.label "Kopiera">
-<!ENTITY copyMsgMenu.accesskey "o">
+<!ENTITY copyMsgToMenu.label "Kopiera till">
+<!ENTITY copyMsgToMenu.accesskey "o">
 <!ENTITY moveToFolderAgain.label "Flytta igen">
 <!ENTITY moveToFolderAgain.accesskey "t">
 <!ENTITY moveToFolderAgainCmd.key "m">
