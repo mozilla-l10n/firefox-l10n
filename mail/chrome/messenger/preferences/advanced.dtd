@@ -61,7 +61,6 @@
 <!ENTITY useCacheAfter.label "MB de espacio para la caché">
 <!ENTITY clearCacheNow.label "Limpiar ahora">
 <!ENTITY clearCacheNow.accesskey "L">
-<!ENTITY certificatesInfo2.label "Administrar certificados, listas de revocación, validación de certificados y dispositivos de seguridad.">
 <!ENTITY viewCertificates.label "Ver certificados">
 <!ENTITY viewCertificates.accesskey "V">
 <!ENTITY viewCRLs.label "Listas de revocación">
