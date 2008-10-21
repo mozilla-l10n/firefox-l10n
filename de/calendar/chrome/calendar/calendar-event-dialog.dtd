@@ -47,7 +47,7 @@
 <!ENTITY newevent.after.label               "nach" >
 <!ENTITY newevent.from.label                "Von" >
 <!ENTITY newevent.to.label                  "Bis" >
-<!ENTITY newevent.attendees.sendEmail.label "Einladungen an Teilnehmer per E-Mail senden">
+<!ENTITY newevent.attendees.notify.label    "Teilnehmer benachrichtigen">
 
 <!ENTITY newevent.status.label              "Status" >
 <!ENTITY newevent.status.accesskey          "S" >
