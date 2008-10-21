@@ -46,15 +46,6 @@
 <!ENTITY calendar.calendar.label     "Kalender">
 <!ENTITY calendar.calendar.accesskey "K">
 
-<!ENTITY calendar.flat.topbar.choosedate       "Zu Datum wechseln" >
-<!ENTITY calendar.flat.topbar.dayview          "Tagesansicht" >
-<!ENTITY calendar.dayview.accesskey            "T" >
-<!ENTITY calendar.flat.topbar.weekview         "Wochenansicht" >
-<!ENTITY calendar.weekview.accesskey           "W" >
-<!ENTITY calendar.flat.topbar.monthview        "Monatsansicht" >
-<!ENTITY calendar.monthview.accesskey          "M" >
-<!ENTITY calendar.flat.topbar.multiweekview    "Mehrwöchige Ansicht" >
-<!ENTITY calendar.multiweekview.accesskey      "h" >
 <!ENTITY calendar.dayView.key                  "1" >
 <!ENTITY calendar.weekView.key                 "2" >
 <!ENTITY calendar.multiweekView.key            "3" >
@@ -65,43 +56,39 @@
 <!ENTITY calendar.delete.button.tooltip           "Markierten Termin löschen" >
 <!ENTITY calendar.edit.button.tooltip             "Markierten Termin bearbeiten" >
 
-<!ENTITY calendar.unifinder.todoitems.label       "Aufgaben" >
+<!ENTITY calendar.unifinder.todoitems.label          "Aufgaben" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Abgeschlossene anzeigen">
 
-<!ENTITY calendar.calendartab.label "Datum">
-<!ENTITY calendar.listofcalendarstab.label "Kalenderliste">
-<!ENTITY calendar.today.button.label        "Heute" >
+<!ENTITY calendar.today.button.label          "Heute" >
 <!ENTITY calendar.tomorrow.button.label       "Morgen">
 <!ENTITY calendar.soon.button.label           "Bald">
 
-<!ENTITY calendar.events.filter.all.label "Alle Termine">
-<!ENTITY calendar.events.filter.today.label "Heutige Termine">
-<!ENTITY calendar.events.filter.future.label "Alle zukünftigen Termine">
-<!ENTITY calendar.events.filter.current.label "Momentan gewählter Tag">
-<!ENTITY calendar.events.filter.next7Days.label "Termine in den nächsten 7 Tagen">
-<!ENTITY calendar.events.filter.next14Days.label "Termine in den nächsten 14 Tagen">
-<!ENTITY calendar.events.filter.next31Days.label "Termine in den nächsten 31 Tagen">
+<!ENTITY calendar.events.filter.all.label               "Alle Termine">
+<!ENTITY calendar.events.filter.today.label             "Heutige Termine">
+<!ENTITY calendar.events.filter.future.label            "Alle zukünftigen Termine">
+<!ENTITY calendar.events.filter.current.label           "Momentan gewählter Tag">
+<!ENTITY calendar.events.filter.next7Days.label         "Termine in den nächsten 7 Tagen">
+<!ENTITY calendar.events.filter.next14Days.label        "Termine in den nächsten 14 Tagen">
+<!ENTITY calendar.events.filter.next31Days.label        "Termine in den nächsten 31 Tagen">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Termine in diesem Kalendermonat">
 
-<!ENTITY calendar.unifinder.tree.done.label          "Fertig">
-<!ENTITY calendar.unifinder.tree.priority.label      "Priorität">
-<!ENTITY calendar.unifinder.tree.title.label         "Titel">
+<!ENTITY calendar.unifinder.tree.done.label            "Fertig">
+<!ENTITY calendar.unifinder.tree.priority.label        "Priorität">
+<!ENTITY calendar.unifinder.tree.title.label           "Titel">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label "&#037; fertig">
-<!ENTITY calendar.unifinder.tree.startdate.label     "Beginn">
-<!ENTITY calendar.unifinder.tree.enddate.label       "Ende">
-<!ENTITY calendar.unifinder.tree.duedate.label       "Fällig">
-<!ENTITY calendar.unifinder.tree.completeddate.label "Abgeschlossen">
-<!ENTITY calendar.unifinder.tree.categories.label    "Kategorie">
-<!ENTITY calendar.unifinder.tree.location.label    "Ort">
-<!ENTITY calendar.unifinder.tree.status.label    "Status">
+<!ENTITY calendar.unifinder.tree.startdate.label       "Beginn">
+<!ENTITY calendar.unifinder.tree.enddate.label         "Ende">
+<!ENTITY calendar.unifinder.tree.duedate.label         "Fällig">
+<!ENTITY calendar.unifinder.tree.completeddate.label   "Abgeschlossen">
+<!ENTITY calendar.unifinder.tree.categories.label      "Kategorie">
+<!ENTITY calendar.unifinder.tree.location.label        "Ort">
+<!ENTITY calendar.unifinder.tree.status.label          "Status">
 <!ENTITY calendar.unifinder.tree.calendarname.label    "Kalendername">
-<!ENTITY calendar.unifinder.tree.duration.label      "Fällig in">
-<!ENTITY calendar.unifinder.close.tooltip            "Terminsuche/-liste schließen">
-<!ENTITY calendar.find.key  "F">
+<!ENTITY calendar.unifinder.tree.duration.label        "Fällig in">
+<!ENTITY calendar.unifinder.close.tooltip              "Terminsuche/-liste schließen">
 
-<!ENTITY calendar.today.button.tooltip        "Zu Heute wechseln" >
+<!ENTITY calendar.today.button.tooltip            "Zu Heute wechseln" >
 <!ENTITY calendar.todaypane.button.tooltip        "Tagesplan anzeigen" >
-<!ENTITY calendar.choosedate.button.tooltip       "Zu Datum wechseln" >
 <!ENTITY calendar.unifinder.button.tooltip        "Termine suchen und auflisten" >
 
 <!ENTITY calendar.day.button.tooltip          "Zur Tagesansicht wechseln" >
@@ -121,24 +108,16 @@
 <!ENTITY calendar.delete.button.label           "Löschen" >
 <!ENTITY calendar.edit.button.label             "Bearbeiten" >
 
-<!ENTITY calendar.choosedate.button.label       "Datum wählen" >
-
-<!ENTITY calendar.cut.button.tooltip            "Ausschneiden" >
-<!ENTITY calendar.copy.button.tooltip           "Kopieren" >
-<!ENTITY calendar.paste.button.tooltip          "Einfügen" >
 <!ENTITY calendar.print.button.tooltip          "Kalender drucken" >
 
-<!ENTITY calendar.cut.button.label              "Ausschneiden" >
-<!ENTITY calendar.copy.button.label             "Kopieren" >
-<!ENTITY calendar.paste.button.label            "Einfügen" >
 <!ENTITY calendar.print.button.label            "Drucken" >
 
-<!ENTITY calendar.import.button.tooltip            "Termine aus einer lokalen Datei importieren" >
-<!ENTITY calendar.export.button.tooltip            "Termine in eine lokale Datei exportieren" >
-<!ENTITY calendar.subscribe.button.tooltip         "Eine Kalenderdatei auf einem externen Rechner abonnieren." >
-<!ENTITY calendar.publish.button.tooltip            "Termine auf einem externen Rechner publizieren." >
+<!ENTITY calendar.import.button.tooltip         "Termine aus einer lokalen Datei importieren" >
+<!ENTITY calendar.export.button.tooltip         "Termine in eine lokale Datei exportieren" >
+<!ENTITY calendar.subscribe.button.tooltip      "Eine Kalenderdatei auf einem externen Rechner abonnieren." >
+<!ENTITY calendar.publish.button.tooltip        "Termine auf einem externen Rechner publizieren." >
 
-<!ENTITY calendar.export.calendar                "Kalender exportieren…" >
+<!ENTITY calendar.export.calendar               "Kalender exportieren…" >
 
 <!ENTITY calendar.import.button.label              "Importieren" >
 <!ENTITY calendar.export.button.label              "Exportieren" >
@@ -146,34 +125,24 @@
 <!ENTITY calendar.publish.button.label             "Publizieren" >
 <!ENTITY calendar.unifinder.button.label           "Termine suchen" >
 
-<!ENTITY calendar.remotereload.button.label   "Neu laden" >
-<!ENTITY calendar.remotereload.button.tooltip   "Alle externen Kalender neu laden" >
+<!ENTITY calendar.remotereload.button.label        "Neu laden" >
+<!ENTITY calendar.remotereload.button.tooltip      "Alle externen Kalender neu laden" >
 
-<!ENTITY calendar.day.button.label          "Tagesansicht" >
-<!ENTITY calendar.week.button.label         "Wochenansicht" >
-<!ENTITY calendar.month.button.label        "Monatsansicht" >
-<!ENTITY calendar.multiweek.button.label        "Mehrwöchige Ansicht" >
-<!ENTITY calendar.onlyworkday.checkbox.label    "Nur Werktage" >
-<!ENTITY calendar.onlyworkday.checkbox.accesskey  "N" >
-<!ENTITY calendar.displaytodos.checkbox.label   "Aufgaben in der Ansicht" >
-<!ENTITY calendar.displaytodos.checkbox.accesskey "f" >
+<!ENTITY calendar.day.button.label                  "Tagesansicht" >
+<!ENTITY calendar.week.button.label                 "Wochenansicht" >
+<!ENTITY calendar.month.button.label                "Monatsansicht" >
+<!ENTITY calendar.multiweek.button.label            "Mehrwöchige Ansicht" >
+<!ENTITY calendar.onlyworkday.checkbox.label        "Nur Werktage" >
+<!ENTITY calendar.onlyworkday.checkbox.accesskey    "N" >
+<!ENTITY calendar.displaytodos.checkbox.label       "Aufgaben in der Ansicht" >
+<!ENTITY calendar.displaytodos.checkbox.accesskey   "f" >
 <!ENTITY calendar.completedtasks.checkbox.label     "Abgeschlossene Aufgaben anzeigen" >
 <!ENTITY calendar.completedtasks.checkbox.accesskey "g" >
 
-<!ENTITY calendar.orientation.label "Ansicht rotieren" >                             
-<!ENTITY calendar.orientation.accesskey "o" >                                   
-
-<!ENTITY calendar.menu.options.close.key        "W">
+<!ENTITY calendar.orientation.label "Ansicht rotieren" >
+<!ENTITY calendar.orientation.accesskey "o" >
 
 <!ENTITY calendar.search.options.searchfor " enthält">
-
-<!ENTITY calendar.menu.numberofweeks.label     "Anzahl der Wochen" >
-<!ENTITY calendar.menu.numberofweeks.accesskey "z" >
-<!ENTITY calendar.menu.numberofweeks.2      "2 Wochen" >
-<!ENTITY calendar.menu.numberofweeks.3      "3 Wochen" >
-<!ENTITY calendar.menu.numberofweeks.4      "4 Wochen" >
-<!ENTITY calendar.menu.numberofweeks.5      "5 Wochen" >
-<!ENTITY calendar.menu.numberofweeks.6      "6 Wochen" >
 
 <!ENTITY calendar.list.header.label                 "Kalender">
 
@@ -210,14 +179,6 @@
 
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Dokument: Fertig">
-
-<!-- customizable toolbars -->
-<!ENTITY calendar.context.customize.label             "Anpassen…">
-<!ENTITY calendar.context.customize.accesskey         "A">
-<!ENTITY calendar.menu.customize.label                "Symbolleiste anpassen…">
-<!ENTITY calendar.menu.customize.accesskey            "S">
-<!ENTITY calendar.maintoolbar.name                    "Standard">
-<!ENTITY calendar.maintoolbar.accesskey               "a">
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label            "Öffnen">
@@ -287,7 +248,7 @@
 <!ENTITY priority.level.normal.accesskey  "o">
 <!ENTITY priority.level.high              "Hoch">
 <!ENTITY priority.level.high.accesskey    "H">
-                                                                 
+
 <!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label              "Neuer Kalender…">
 <!ENTITY calendar.context.newserver.accesskey          "N">
@@ -359,15 +320,11 @@
 <!ENTITY calendarproperties.cache.label      "Cache (EXPERIMENTELL, benötigt Neustart)">
 <!ENTITY calendarproperties.enabled.label    "Diesen Kalender aktivieren">
 
-<!-- Sunbird Help -->
-<!ENTITY calendar.help.label               "Hilfethemen">
-<!ENTITY calendar.help.accesskey           "H">
-
 <!-- Calendar Publish Dialog -->
-<!ENTITY calendar.publish.dialog.title              "Kalender veröffentlichen">
-<!ENTITY calendar.publish.url.label                 "URL zum Publizieren">
-<!ENTITY calendar.publish.publish.button      "Publizieren">
-<!ENTITY calendar.publish.close.button      "Schließen">
+<!ENTITY calendar.publish.dialog.title       "Kalender veröffentlichen">
+<!ENTITY calendar.publish.url.label          "URL zum Publizieren">
+<!ENTITY calendar.publish.publish.button     "Publizieren">
+<!ENTITY calendar.publish.close.button       "Schließen">
 
 <!ENTITY calendar.publish.example.url.description   "Beispiel: http://www.myserver.com/webdav/test.ics">
 
@@ -375,23 +332,19 @@
 <!ENTITY calendar.select.dialog.title    "Kalender auswählen">
 
 <!-- Calendar Printing -->
-<!ENTITY calendar.print.window.title "Einen Kalender drucken">
-<!ENTITY calendar.print.title.label "Titel:">
-<!ENTITY calendar.print.layout.label "Layout:">
-<!ENTITY calendar.print.range.label "Druckauswahl">
-<!ENTITY calendar.print.currentview.label "Termine in der aktuellen Ansicht">
-<!ENTITY calendar.print.selected.label "Markierte Termine">
-<!ENTITY calendar.print.custom.label "Benutzerdefinierter Zeitraum:">
-<!ENTITY calendar.print.from.label "Von:">
-<!ENTITY calendar.print.to.label "Bis:">
+<!ENTITY calendar.print.window.title        "Einen Kalender drucken">
+<!ENTITY calendar.print.title.label         "Titel:">
+<!ENTITY calendar.print.layout.label        "Layout:">
+<!ENTITY calendar.print.range.label         "Druckauswahl">
+<!ENTITY calendar.print.currentview.label   "Termine in der aktuellen Ansicht">
+<!ENTITY calendar.print.selected.label      "Markierte Termine">
+<!ENTITY calendar.print.custom.label        "Benutzerdefinierter Zeitraum:">
+<!ENTITY calendar.print.from.label          "Von:">
+<!ENTITY calendar.print.to.label            "Bis:">
 <!ENTITY calendar.print.settingsGroup.label "Druckeinstellungen">
 
 <!-- Error reporting -->
-<!ENTITY calendar.error.detail "Details…">
-<!ENTITY calendar.error.number "Fehlernummer:">
+<!ENTITY calendar.error.detail      "Details…">
+<!ENTITY calendar.error.number      "Fehlernummer:">
 <!ENTITY calendar.error.description "Beschreibung:">
-<!ENTITY calendar.error.title "Ein Fehler ist aufgetreten">
-
-
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">
+<!ENTITY calendar.error.title       "Ein Fehler ist aufgetreten">
