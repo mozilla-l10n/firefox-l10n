@@ -1,0 +1,31 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Para ter espaço em disco, não transferir:">
+<!ENTITY doNotDownload.label "Para ter espaço em disco, não transferir para usar no modo desligado:">
+<!ENTITY offlineNewFolder.label "Quando criar novas pastas, seleccioná-las para usar no modo desligado">
+<!ENTITY offlineNewFolder.accesskey "Q">
+<!ENTITY offlineNotDownload.label "Mensagens maiores que ">
+<!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY kb.label "KB">
+<!ENTITY days.label "dias">
+<!ENTITY daysOld.label "dias de idade">
+<!ENTITY message.label "mensagens">
+<!ENTITY nntpNotDownloadRead.label "Ler mensagens">
+<!ENTITY nntpNotDownloadRead.accesskey "L">
+<!ENTITY nntpDownloadMsg.label "Mais mensagens que">
+<!ENTITY nntpDownloadMsg.accesskey "e">
+<!ENTITY retentionCleanup.label "Para obter espaço em disco, as mensagens antigas podem ser permanentemente eliminadas">
+<!ENTITY retentionKeepMsg.label "Apagar mensagens com mais de">
+<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "Não apagar qualquer mensagem">
+<!ENTITY retentionKeepAll.accesskey "ã">
+<!ENTITY retentionKeepNew.label "Apagar todas menos as últimas">
+<!ENTITY retentionKeepNew.accesskey "l">
+<!ENTITY retentionKeepUnread.label "Apagar sempre todas as mensagens lidas">
+<!ENTITY retentionKeepUnread.accesskey "A">
+<!ENTITY nntpRemoveBody.label "Apenas se corpo da mensagem menor que">
+<!ENTITY nntpRemoveBody.accesskey "p">
+<!ENTITY offlineSelectNntp.label "Seleccione grupos de discussão para usar no modo desligado...">
+<!ENTITY offlineSelectNntp.accesskey "S">
+<!ENTITY offlineImapAdvancedOffline.label "Avançado…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "A">
+<!ENTITY syncGroupTitle.label "Sincronização de mensagem">
+<!ENTITY diskspaceGroupTitle.label "Espaço em disco">

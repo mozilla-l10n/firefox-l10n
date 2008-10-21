@@ -1,0 +1,14 @@
+<!ENTITY virtualFolderProperties.title "Nova Pasta de Pesquisa Guardada">
+<!ENTITY name.label                 "Nome:">
+<!ENTITY name.accesskey             "N">
+<!ENTITY description.label          "Criar como sub-pasta de:">
+<!ENTITY description.accesskey      "c">
+
+<!ENTITY searchTermCaption.label "Configura o critério de pesquisa usado por esta pesquisa guardada: ">
+
+<!ENTITY folderSelectionCaption.label "Seleccione as Pastas a Pesquisar: ">
+<!ENTITY chooseFoldersButton.label "Seleccionar...">
+<!ENTITY chooseFoldersButton.accesskey "S">
+
+<!ENTITY searchOnline.label "Pesquisar Ligado (Dá resultados actualizados para as pastas IMAP e notícias mas aumenta o tempo de abertura da pasta)">
+<!ENTITY searchOnline.accesskey "P">

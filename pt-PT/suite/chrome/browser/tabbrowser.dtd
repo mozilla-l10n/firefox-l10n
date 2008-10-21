@@ -1,0 +1,17 @@
+<!ENTITY  untitledTab            "(Sem nome)">
+<!ENTITY  newTab.label           "Novo separador">
+<!ENTITY  newTab.accesskey       "N">
+<!ENTITY  closeTab.label         "Fechar separador">
+<!ENTITY  closeTab.accesskey         "c">
+<!ENTITY  closeOtherTabs.label   "Fechar outros separadores">
+<!ENTITY  closeOtherTabs.accesskey         "o">
+<!ENTITY  reloadAllTabs.label    "Recarregar todos os separadores">
+<!ENTITY  reloadAllTabs.accesskey         "a">
+<!ENTITY  reloadTab.label        "Recarregar separador">
+<!ENTITY  reloadTab.accesskey         "R">
+<!ENTITY  bookmarkGroup.label    "Adicionar este grupo de separadores aos marcadores">
+<!ENTITY  bookmarkGroup.accesskey  "i">
+<!ENTITY  closeTabButton.tooltip   "Fechar separador actual">
+<!ENTITY  newTabButton.tooltip   "Abrir um novo separador">
+<!ENTITY  undoCloseTab.label    "Anular fechar separador">
+<!ENTITY  undoCloseTab.accesskey  "u">

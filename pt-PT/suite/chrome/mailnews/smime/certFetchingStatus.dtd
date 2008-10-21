@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
+
+<!ENTITY title.label "Transferir Certificados">
+<!ENTITY info.message "A procurar destinatários certificados. Pode demorar alguns minutos.">
+<!ENTITY stop.label "Parar a Procura">

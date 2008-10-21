@@ -1,0 +1,79 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY threadColumn.label "Tópico">
+<!ENTITY fromColumn.label "De">
+<!ENTITY recipientColumn.label "Destinatário">
+<!ENTITY attachmentColumn.label "Anexos">
+<!ENTITY subjectColumn.label "Assunto">
+<!ENTITY dateColumn.label "Data">
+<!ENTITY priorityColumn.label "Prioridade">
+<!ENTITY tagsColumn.label "Etiqueta">
+<!ENTITY accountColumn.label "Conta">
+<!ENTITY statusColumn.label "Estado">
+<!ENTITY sizeColumn.label "Tamanho">
+<!ENTITY junkStatusColumn.label "Estado do Lixo">
+<!ENTITY linesColumn.label "Linhas">
+<!ENTITY unreadColumn.label "Não lidas no tópico">
+<!ENTITY totalColumn.label "Totais no tópico">
+<!ENTITY readColumn.label "Ler">
+<!ENTITY receivedColumn.label "Recebido">
+<!ENTITY flagColumn.label "Com Marca">
+<!ENTITY locationColumn.label "Localização">
+<!ENTITY idColumn.label "Por ordem recebido">
+
+<!--Tooltips-->
+<!ENTITY columnChooser.tooltip "Clique para seleccionar as colunas a mostrar">
+<!ENTITY threadColumn.tooltip "Clique para mostrar os tópicos da mensagem"> 
+<!ENTITY fromColumn.tooltip "Clique para ordenar por de">
+<!ENTITY recipientColumn.tooltip "Clique para ordenar por destinatário">
+<!ENTITY attachmentColumn.tooltip "Clique para ordenar por anexos">
+<!ENTITY subjectColumn.tooltip "Clique para ordenar por Assunto">
+<!ENTITY dateColumn.tooltip "Clique para ordenar por data ">
+<!ENTITY priorityColumn.tooltip "Clique para ordenar por prioridade">
+<!ENTITY tagsColumn.tooltip "Clique para ordenar por etiquetas">
+<!ENTITY accountColumn.tooltip "Clique para ordenar por conta">
+<!ENTITY statusColumn.tooltip "Clique para ordenar por estado">
+<!ENTITY sizeColumn.tooltip "Clique para ordenar por tamanho">
+<!ENTITY junkStatusColumn.tooltip "Clique para ordenar pelo estado do lixo">
+<!ENTITY unreadColumn.tooltip "Nmero de mensagens no lidas neste tópico">
+<!ENTITY totalColumn.tooltip "Número total de mensagens neste tópico">
+<!ENTITY readColumn.tooltip "Clique para ordenar por lidas">
+<!ENTITY receivedColumn.tooltip "Clique para ordenar por data de recepção">
+<!ENTITY flagColumn.tooltip "Clique para ordenar por marca">
+<!ENTITY locationColumn.tooltip "Clique para ordenar por localização">
+<!ENTITY idColumn.tooltip "Clique para ordenar por ordem de chegada">
