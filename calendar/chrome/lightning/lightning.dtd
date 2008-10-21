@@ -24,6 +24,7 @@
    -   Matthew Willis <mattwillis@mac.com>
    -   Philipp Kewisch <mozilla@kewis.ch>
    -   Martin Schroeder <mschroeder@mozilla.x-home.org>
+   -   Berend Cornelius <berend.cornelius@sun.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -76,16 +77,6 @@
 <!ENTITY lightning.toolbar.task.label         "Tarea">
 <!ENTITY lightning.toolbar.task.accesskey     "T">
 
-<!-- Customize Toolbar Dialog -->
-<!ENTITY customize.toolbar.selector.label    "Barras de herramientas:">
-<!ENTITY customize.toolbar.selector.mode     "Barra de modo">
-<!ENTITY customize.toolbar.selector.mail     "Barra de correo">
-<!ENTITY customize.toolbar.selector.calendar "Barra de calendario">
-<!ENTITY customize.toolbar.selector.task     "Barra de tareas">
-<!ENTITY customize.toolbar.location.label    "Ubicación:">
-<!ENTITY customize.toolbar.location.top      "Arriba">
-<!ENTITY customize.toolbar.location.bottom   "Abajo">
-
 <!-- Messenger Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Día">
 <!ENTITY lightning.toolbar.day.accesskey             "D">
@@ -120,3 +111,4 @@
 <!ENTITY todaypane.showNone.accesskey "N">
 <!ENTITY todaypane.showTodayPane.label "Mostrar vista de hoy">
 <!ENTITY todaypane.showTodayPane.accesskey "o">
+<!ENTITY todaypane.statusButton.label "Vista de hoy">
