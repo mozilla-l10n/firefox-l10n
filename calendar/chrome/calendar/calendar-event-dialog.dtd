@@ -48,7 +48,7 @@
 
 <!ENTITY newevent.from.label "Du" >
 <!ENTITY newevent.to.label "Au" >
-<!ENTITY newevent.attendees.sendEmail.label "Envoyer les invitations par courriel aux participants">
+<!ENTITY newevent.attendees.notify.label "Notifier les participants">
 
 <!ENTITY newevent.status.label "Statut" >
 <!ENTITY newevent.status.accesskey "S" >
