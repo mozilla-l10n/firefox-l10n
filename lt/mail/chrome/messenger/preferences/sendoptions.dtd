@@ -39,34 +39,24 @@
 <!ENTITY sendHTML.label               "laišką vis vien siųsti raiškiuoju tekstu">
 <!ENTITY sendHTML.accesskey           "v">
 <!ENTITY sendBoth.label               "išsiųsti laišką abiejų tipų (HTML ir grynuoju) tekstais">
-<!ENTITY sendBoth.accesskey           "ų">
-<!ENTITY receiveHTML.label            "Žinodami, kad adresatas gali gauti paštą raiškiuoju tekstu, adresų knygos adresato kortelėje nežymėkite parinkties „Laiškus siųsti grynuoju tekstu“.">
+<!ENTITY sendBoth.accesskey           "a">
 <!ENTITY override.label               "Pastaba. Adresatams tinkamus laiškų tekstų tipus galima nurodyti adresų knygos kortelėse.">
 
 <!ENTITY domaindesc.label             "Galima nurodyti pašto sričių pavadinimus (pvz., netscape.net), kurie yra el. pašto adresuose tų gavėjų, kurių pašto programos supranta laiškus, parašytus raiškiuoju tekstu, lygiai taip ir tų, kurių programos gali priimti tik grynojo teksto laiškus. Kai siųsite laiškus adresatams, kurių adresas yra kurioje nors iš nurodytų sričių, pašto programa pati parinks tinkamą teksto tipą.">
 <!ENTITY HTMLTab.label                "HTML sritys">
-<!ENTITY HTMLTab.accesskey            "h">
+<!ENTITY HTMLTab.accesskey            "H">
 <!ENTITY PlainTextTab.label           "Grynojo teksto sritys">
 <!ENTITY PlainTextTab.accesskey       "G">
 <!ENTITY AddHtmlDomain.label          "Įtraukti…">
 <!ENTITY AddHtmlDomain.accesskey      "t">
 <!ENTITY AddPlainText.label           "Įtraukti…">
-<!ENTITY AddPlainText.accesskey       "r">
+<!ENTITY AddPlainText.accesskey       "t">
 <!ENTITY DeleteHtmlDomain.label       "Pašalinti">
 <!ENTITY DeleteHtmlDomain.accesskey   "P">
 <!ENTITY DeletePlainText.label        "Pašalinti">
-<!ENTITY DeletePlainText.accesskey    "a">
+<!ENTITY DeletePlainText.accesskey    "P">
 
 <!ENTITY add.htmltitle                "HTML srities vardo įtraukimas">
 <!ENTITY add.htmldomain               "Srities, priimančios HTML teksto laiškus, vardas:">
-<!ENTITY add.htmldomain.accesskey     "v">
 <!ENTITY add.plaintexttitle           "Grynojo teksto srities vardo įtraukimas">
 <!ENTITY add.plaintextdomain          "Srities, priimančios grynojo teksto laiškus, vardas:">
-<!ENTITY add.plaintext.accesskey      "v">
-
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY domainnameError.title        "Netinkamas srities vardas">
-<!ENTITY duplicationError.label       "Sities vardas @string@ sąraše jau yra.">
-
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY dualEntryError.label         "Srities vardas gali būti tik viename sąsaše. Vardas @string@ jau įtrauktas į vieną iš sąrašų.">
