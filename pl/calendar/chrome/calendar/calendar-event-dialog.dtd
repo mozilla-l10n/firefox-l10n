@@ -49,7 +49,7 @@
 
 <!ENTITY newevent.from.label                "Od:" >
 <!ENTITY newevent.to.label                  "Do:" >
-<!ENTITY newevent.attendees.sendEmail.label "Wyślij uczestnikom zaproszenia e-mailem">
+<!ENTITY newevent.attendees.notify.label    "Powiadom uczestników">
 
 <!ENTITY newevent.status.label              "Stan:" >
 <!ENTITY newevent.status.accesskey          "a" >
