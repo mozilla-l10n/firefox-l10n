@@ -61,7 +61,6 @@
 <!ENTITY useCacheAfter.label "МБ на диске для кэша">
 <!ENTITY clearCacheNow.label "Очистить сейчас">
 <!ENTITY clearCacheNow.accesskey "ч">
-<!ENTITY certificatesInfo2.label "Управление сертификатами, списками отзыва сертификатов, настройками OCSP и устройствами защиты.">
 <!ENTITY viewCertificates.label "Просмотр сертификатов">
 <!ENTITY viewCertificates.accesskey "ф">
 <!ENTITY viewCRLs.label "Списки отзыва сертификатов">
