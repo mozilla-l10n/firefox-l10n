@@ -1,0 +1,182 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.   -
+   -
+   - The Initial Developer of the Original Code is
+   -   OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Garth Smedley <garths@oeone.com>
+   -   Mike Potter <mikep@oeone.com>
+   -   Chris Charabaruk <coldacid@meldstar.com>
+   -   Matthew Willis <mattwillis@gmail.com>
+   -   Stefan Sitter <ssitter@googlemail.com>
+   -   Berend Cornelius <berend.cornelius@sun.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Simon Paquet <bugzilla@babylonsounds.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY calendar.open.file.label               "Abrir ficheiro do Calendário…">
+<!ENTITY calendar.open.file.key                 "O">
+<!ENTITY calendar.open.file.accesskey           "f">
+
+<!ENTITY event.edit.event                       "Editar Selecção...">
+<!ENTITY event.edit.event.key                   "E">
+<!ENTITY event.edit.event.accesskey             "E">
+
+<!ENTITY event.delete.event                     "Apagar Eventos Seleccionados">
+<!ENTITY event.delete.event.accesskey           "A">
+
+<!ENTITY event.delete.tasks                     "Apagar Tarefas Seleccionadas">
+<!ENTITY event.delete.tasks.accesskey           "T">
+
+<!ENTITY calendar.pagesetup.label               "Configurar Página…">
+<!ENTITY calendar.pagesetup.accesskey           "u">
+
+<!ENTITY calendar.subscribe.label               "Subscrever a calendário Remoto…">
+<!ENTITY calendar.subscribe.accesskey           "R">
+
+<!ENTITY calendar.reloadserver.label            "Recarregar Calendários Remotos">
+<!ENTITY calendar.reloadserver.key              "R">
+<!ENTITY calendar.reloadserver.accesskey        "c">
+
+<!ENTITY calendar.publish.calendar.label        "Publicar Calendário…">
+<!ENTITY calendar.publish.calendar.accesskey    "b">
+<!ENTITY calendar.publish.selection.label       "Publicar Selecção…">
+<!ENTITY calendar.publish.selection.accesskey   "c">
+
+<!ENTITY calendar.quit.label                    "Sair">
+<!ENTITY calendar.quit.accesskey                "S">
+<!ENTITY calendar.quit.key                      "S">
+<!ENTITY calendar.quit.label.mac                "Sair do &brandShortName;">
+
+<!ENTITY calendar.exit.label                    "Sair">
+<!ENTITY calendar.exit.accesskey                "a">
+
+<!ENTITY calendar.undo.label                    "Anular">
+<!ENTITY calendar.undo.key                      "Z">
+<!ENTITY calendar.undo.accesskey                "u">
+
+<!ENTITY calendar.redo.label                    "Refazer">
+<!ENTITY calendar.redo.key                      "Y">
+<!ENTITY calendar.redo.accesskey                "r">
+
+<!ENTITY calendar.cut.label                     "Cortar">
+<!ENTITY calendar.cut.key                       "X">
+<!ENTITY calendar.cut.accesskey                 "t">
+
+<!ENTITY calendar.copy.label                    "Copiar">
+<!ENTITY calendar.copy.key                      "C">
+<!ENTITY calendar.copy.accesskey                "C">
+
+<!ENTITY calendar.paste.label                   "Colar">
+<!ENTITY calendar.paste.key                     "V">
+<!ENTITY calendar.paste.accesskey               "o">
+
+<!ENTITY calendar.selectall.label               "Seleccionar Tudo">
+<!ENTITY calendar.selectall.key                 "A">
+<!ENTITY calendar.selectall.accesskey           "T">
+
+<!ENTITY toolbarsMenu.label                     "Barras de Ferramentas">
+<!ENTITY toolbarsMenu.accesskey                 "t">
+
+<!ENTITY showStatusBarCmd.label                 "Barra de Estado">
+<!ENTITY showStatusBarCmd.accesskey             "B">
+
+<!ENTITY showTaskBoxCmd.label                   "Lista de Tarefas">
+<!ENTITY showTaskBoxCmd.accesskey               "L">
+
+<!ENTITY calendar.fullscreen.label              "Ecrã Inteiro">
+<!ENTITY calendar.fullscreen.accesskey          "E">
+
+<!ENTITY calendar.addons.label                  "Extras">
+<!ENTITY calendar.addons.accesskey              "E">
+
+<!ENTITY goMenu.label                           "Ir">
+<!ENTITY goMenu.accesskey                       "I">
+
+<!ENTITY goDateCmd.label                        "Data…">
+<!ENTITY goDateCmd.accesskey                    "D">
+
+<!ENTITY toolsMenu.label                        "Ferramentas">
+<!ENTITY toolsMenu.accesskey                    "r">
+
+<!ENTITY errorConsoleCmd.label                  "Consola de Erro">
+<!ENTITY errorConsoleCmd.accesskey              "C">
+
+<!ENTITY helpMenu.label                         "Ajuda">
+<!ENTITY helpMenu.accesskey                     "A">
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+           for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label                      "Ajuda"> 
+<!ENTITY helpMenuWin.accesskey                  "A">
+
+<!ENTITY fileMenu.label                         "Ficheiro">
+<!ENTITY fileMenu.accesskey                     "F">
+
+<!ENTITY editMenu.label                         "Editar">
+<!ENTITY editMenu.accesskey                     "E">
+
+<!ENTITY optionsCmd.label                       "Opções…">
+<!ENTITY optionsCmd.accesskey                   "O">
+
+<!ENTITY preferencesCmd.label                   "Preferências">
+<!ENTITY preferencesCmd.accesskey               "n">
+<!ENTITY preferencesCmdMac.label                "Preferências…">
+<!ENTITY preferencesCmdMac.commandkey           ",">
+<!ENTITY preferencesCmdMac.modifiers            "accel">
+
+<!ENTITY viewMenu.label                         "Ver">
+<!ENTITY viewMenu.accesskey                     "V">
+
+<!ENTITY releaseCmd.label                       "Notas da Versão">
+<!ENTITY releaseCmd.accesskey                   "R">
+
+<!ENTITY aboutCmd.label                         "Sobre o &brandFullName;">
+<!ENTITY aboutCmd.accesskey                     "S">
+
+<!ENTITY updateCmd.label                        "Procurar por actualizações…">
+<!ENTITY updateCmd.accesskey                    "p">
+
+<!-- Mac OS X "Window" menu items -->
+<!ENTITY windowMenu.label                       "Janela">
+<!ENTITY minimizeWindow.label                   "Minimizar">
+<!ENTITY zoomWindow.label                       "Zoom">
+<!ENTITY minimizeWindow.key                     "M">
+<!ENTITY bringAllToFront.label                  "Trazer todos para a frente">
+
+<!-- Mac OS X Application menu items -->
+<!ENTITY servicesMenuMac.label          "Serviços">
+<!ENTITY hideThisAppCmdMac.label        "Esconder o &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "E">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+<!ENTITY hideOtherAppsCmdMac.label      "Esconder Outros">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+<!ENTITY showAllAppsCmdMac.label        "Mostrar Tudo">
