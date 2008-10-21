@@ -338,7 +338,7 @@
 <!ENTITY alignMenu.label "Alinear">
 <!ENTITY alignMenu.accesskey "A">
 <!ENTITY alignLeft.label "Izquierda">
-<!ENTITY alignLeft.accesskey "L">
+<!ENTITY alignLeft.accesskey "I">
 <!ENTITY alignLeft.tooltip "Alinear a la izquierda">
 <!ENTITY alignCenter.label "Centrar">
 <!ENTITY alignCenter.accesskey "C">
