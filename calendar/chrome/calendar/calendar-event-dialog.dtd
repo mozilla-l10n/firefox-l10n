@@ -11,20 +11,21 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is Sun Microsystems code.
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
    -
-   - The Initial Developer of the Original Code is Sun Microsystems.
-   - Portions created by the Initial Developer are Copyright (C) 2006
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Michael Büttner <michael.buettner@sun.com>
+   -   Cédric Corazza <cedric.corazza@wanadoo.fr>
+   -   Michael Buettner <michael.buettner@sun.com>
    -   Philipp Kewisch <mozilla@kewis.ch>
    -   Stefan Sitter <ssitter@gmail.com>
    -   Martin Schroeder <mschroeder@mozilla.x-home.org>
    -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
    -   Fred Jendrzejewski <fred.jen@web.de>
-   -   Proyecto NAVE (http://www.proyectonave.es/)
    -   Proyecto NAVE (http://www.proyectonave.es/)
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -45,7 +46,7 @@
 <!ENTITY newevent.after.label "tras">
 <!ENTITY newevent.from.label "Desde">
 <!ENTITY newevent.to.label "Hasta">
-<!ENTITY newevent.attendees.sendEmail.label "Invitar a los asistentes por correo electrónico">
+<!ENTITY newevent.attendees.notify.label "Notificar asistentes">
 <!ENTITY newevent.status.label "Estado">
 <!ENTITY newevent.status.accesskey "E">
 <!ENTITY newevent.status.none.label "No especificado">
