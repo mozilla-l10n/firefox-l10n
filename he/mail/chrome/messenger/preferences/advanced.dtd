@@ -95,7 +95,7 @@
 
 
 <!-- Certificates -->
-<!ENTITY certificatesInfo2.label        "נהל אישורים, רשימות ביטולים, אימות אושורים והתקני אבטחה.">
+<!-- ### ENTITY certificatesInfo2.label        "נהל אישורים, רשימות ביטולים, אימות אושורים והתקני אבטחה." -->
 
 <!-- ### ENTITY certificatesInfo.label "נהל אישורים, רשימות ביטולים, אימות אישורים והתקני אבטחה." -->
 <!ENTITY viewCertificates.label "הצג אישורים">
