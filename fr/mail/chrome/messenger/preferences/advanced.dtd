@@ -85,7 +85,6 @@
 <!ENTITY clearCacheNow.accesskey         "V">
 
 <!-- Certificates -->
-<!ENTITY certificatesInfo2.label       "Gérer les certificats, les listes de révocation, la validation des certificats et les périphériques de sécurité.">
 <!ENTITY viewCertificates.label        "Voir les certificats">
 <!ENTITY viewCertificates.accesskey    "o">
 <!ENTITY viewCRLs.label                "Listes de révocation">
