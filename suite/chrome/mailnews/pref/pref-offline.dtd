@@ -1,0 +1,30 @@
+<!-- extracted from content/pref-offline.xul -->
+
+<!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
+<!ENTITY pref.offline.title               "Desligado &amp; Espaço em Disco">
+<!ENTITY pref.offline.caption             "Desligado">
+<!ENTITY textStartUp                      "Ao iniciar:">
+<!ENTITY textStartUp.accesskey            "o">
+<!ENTITY menuitemRememberPrevState        "Lembrar o estado anterior">
+<!ENTITY menuitemAskMe                    "Perguntar-me pelo estado ao iniciar">
+<!ENTITY menuitemAlwaysOnline             "Iniciar sempre ligado">
+<!ENTITY menuitemAlwaysOffline            "Iniciar sempre desligado">
+<!ENTITY menuitemAutomatic                "Detectar automaticamente (se disponível)">
+<!ENTITY textGoingOnline                  "Enviar mensagens não enviadas quando ficar ligado?">
+<!ENTITY radioAutoSend                    "Sim">
+<!ENTITY radioAutoSend.accesskey          "S">
+<!ENTITY radioNotSend                     "Não">
+<!ENTITY radioNotSend.accesskey           "N">
+<!ENTITY radioAskUnsent                   "Perguntar-me">
+<!ENTITY radioAskUnsent.accesskey         "P">
+<!ENTITY textGoingOffline                 "Transferir mensagens para uso quando no modo desligado?">
+<!ENTITY radioAutoDownload                "Sim">
+<!ENTITY radioAutoDownload.accesskey      "i">
+<!ENTITY radioNotDownload                 "Não">
+<!ENTITY radioNotDownload.accesskey       "o">
+<!ENTITY radioAskDownload                 "Perguntar-me">
+<!ENTITY radioAskDownload.accesskey       "e">
+<!ENTITY Diskspace                        "Espaço em Disco">
+<!ENTITY offlineCompact.label             "Compactar pastas quando poupar mais de">
+<!ENTITY offlineCompact.accesskey         "C">
+<!ENTITY kb.label                         "KB">

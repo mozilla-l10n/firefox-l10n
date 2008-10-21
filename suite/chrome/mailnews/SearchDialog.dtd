@@ -1,0 +1,40 @@
+
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label         "Procurar mensagens em:">
+<!ENTITY searchHeading.accesskey     "r">
+<!ENTITY searchSubfolders.label      "Procurar em Sub-pastas">
+<!ENTITY searchSubfolders.accesskey  "o">
+<!ENTITY searchLocalSystem.label     "Procurar localmente">
+<!ENTITY searchLocalSystem.accesskey "l">
+<!ENTITY resetButton.label           "Limpar">
+<!ENTITY resetButton.accesskey       "L">
+<!ENTITY helpButton.label            "Ajuda">
+<!ENTITY helpButton.accesskey        "u">
+<!ENTITY optionsButton.label         "Opções">
+<!ENTITY closeButton.label           "Fechar">
+<!ENTITY openButton.label            "Abrir">
+<!ENTITY openButton.accesskey        "A">
+<!ENTITY deleteButton.label          "Eliminar">
+<!ENTITY deleteButton.accesskey      "E">
+<!ENTITY searchDialogTitle.label     "Procurar Mensagens">
+<!ENTITY conditionDesc.label         "Procurar Mensagens que Coincidam:">
+<!ENTITY conditions.label            "Critério">
+<!ENTITY results.label               "Resultados">
+<!ENTITY fileHereMenu.label          "O Ficheiro Aqui">
+<!ENTITY fileHereMenu.accesskey      "F">
+<!ENTITY fileButton.label            "Ficheiro">
+<!ENTITY fileButton.accesskey        "i">
+<!ENTITY goToFolderButton.label      "Abrir Pasta das Mensagens">
+<!ENTITY goToFolderButton.accesskey  "b">
+<!ENTITY saveAsVFButton.label        "Guardar como pasta de Procura">
+<!ENTITY saveAsVFButton.accesskey    "c">>
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "Procurar em:">
+<!ENTITY abSearchHeading.accesskey   "u">
+<!ENTITY propertiesButton.label      "Propriedades">
+<!ENTITY propertiesButton.accesskey  "P">
+<!ENTITY composeButton.label         "Escrever">
+<!ENTITY composeButton.accesskey     "s">
+<!ENTITY abSearchDialogTitle.label   "Pesquisa Avançada do Livro de Endereços">
+

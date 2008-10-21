@@ -1,0 +1,75 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+   Ian Neal <iann_bugzilla@blueyonder.co.uk>
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY pref.formatting.title        "Formato de envio">
+<!ENTITY sendMail.label               "Formato de envio">
+<!ENTITY sendMaildesc.label           "Ao enviar mensagens formatadas (HTML) e um ou mais destinatários não estão indicados como habilitados a receber HTML:">
+<!ENTITY askMe.label                  "Perguntar-me o que fazer (O correio pede para escolher o formato)">
+<!ENTITY askMe.accesskey              "g">
+<!ENTITY convertPlain.label           "Converter a mensagem para texto simples (poderá perder-se alguma formatação)">
+<!ENTITY convertPlain.accesskey       "C">
+<!ENTITY sendHTML.label               "Enviar a mensagem como texto formatado (HTML) de qualquer maneira (alguns programas de correio não a apresentarão)">
+<!ENTITY sendHTML.accesskey           "s">
+<!ENTITY sendBoth.label               "Enviar a mensagem tanto em texto simples como em HTML (maior tamanho da mensagem)">
+<!ENTITY sendBoth.accesskey           "n">
+<!ENTITY override.label               "Pode ultrapassar estas definições para mensagens individuais, usando o menu Opções ao criar a mensagem.">
+<!ENTITY receiveHTML.label            "Se souber que um detrminado destinatário consegue receber correio HTML,des-seleccione a caixa 'Enviar mensagem como texto simples (sem HTML)' no cartão do livro de endereços do destinatário.">
+
+<!-- Html and Plain Text Domains  -->
+<!ENTITY domain.title                 "Domínios HTML e Texto">
+<!ENTITY domaindesc.label             "Quando envia uma mensagem para um endereço com um dos nomes de domínio listados abaixo, o correio envia a mensagem automaticamente no formato pré-definido (texto formatado ou texto simples).">
+<!ENTITY HTMLdomaintitle.label        "Domínio HTML">
+<!ENTITY HTMLdomaintitle.accesskey    "M">
+<!ENTITY PlainTexttitle.label         "Domínios formato de texto">
+<!ENTITY PlainTexttitle.accesskey     "P">
+<!ENTITY AddButton.label              "Adicionar">
+<!ENTITY AddHtmlDomain.accesskey      "A">
+<!ENTITY AddPlainText.accesskey       "d">
+<!ENTITY DeleteButton.label           "Eliminar">
+<!ENTITY DeleteHtmlDomain.accesskey   "e">
+<!ENTITY DeletePlainText.accesskey    "t">
+
+<!-- Add Domain Name -->
+<!ENTITY add.htmltitle                "Adicionar nome de domínio HTML ">
+<!ENTITY add.htmldomain               "Nome do domínio HTML">
+<!ENTITY add.plaintexttitle           "Adicionar nome de domínio de texto">
+<!ENTITY add.plaintextdomain          "Nome do domínio de texto:">
+
+<!ENTITY domainnameError.title        "Erro do nome do domínio">
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY invalidEntryError.label      "O nome do domínio @string@ é inválido e será ignorado. Nomes de domínio válidos devem incluir pelo menos um '.' e caracteres de cada lado.">

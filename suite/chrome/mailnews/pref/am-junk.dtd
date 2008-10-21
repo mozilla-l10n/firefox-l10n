@@ -1,0 +1,20 @@
+<!ENTITY junkSettings.label "Configurações do Lixo">
+<!ENTITY trainingWarning.label "Se activado, tem primeiro de treinar o &brandShortName; para identificar o lixo electrónico utilizando o botão lixo na barra de ferramentas para marcar a mensagem como sendou lixo ou não. tem de identificar as mensagens como sendo lixo ou não.">
+<!ENTITY level.label "Activar os controlos de lixo adaptativos para esta conta">
+<!ENTITY level.accesskey "A">
+
+<!ENTITY move.label "Mover as novas mensagens de lixo para:">
+<!ENTITY move.accesskey "M">
+<!ENTITY junkFolderOn.label "Pasta &quot;Lixo&quot; em:">
+<!ENTITY junkFolderOn.accesskey "s">
+<!ENTITY otherFolder.label "Outro:">
+<!ENTITY otherFolder.accesskey "r">
+<!ENTITY purge1.label "Apagar o lixo automaticamente com mais de">
+<!ENTITY purge1.accesskey "A">
+<!ENTITY purge2.label "dias">
+
+<!ENTITY whitelist.label "Não marcar a mensagem como lixo se o remetente estiver no: ">
+<!ENTITY whitelist.accesskey "o">
+
+<!ENTITY ispHeaders.label "Confiar nos cabeçalhos de lixo d0: ">
+<!ENTITY ispHeaders.accesskey "C">

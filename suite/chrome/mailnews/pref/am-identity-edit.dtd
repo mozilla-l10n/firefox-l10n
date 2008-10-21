@@ -1,0 +1,6 @@
+<!ENTITY identityTitle.label "Identificar Configurações">
+<!ENTITY identityListDesc.label "Configurar as opções para esta identidade:">
+
+<!ENTITY settingsTab.label       "Configurações">
+<!ENTITY copiesFoldersTab.label "Cópias e Pastas">
+<!ENTITY addressingTab.label    "Compôr e Endereçar">

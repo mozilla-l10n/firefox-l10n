@@ -1,0 +1,7 @@
+<!ENTITY window.title "Personalizar Cabeçalho">
+<!ENTITY addButton.label "Adicionar">
+<!ENTITY addButton.accesskey "A">
+<!ENTITY removeButton.label "Remover">
+<!ENTITY removeButton.accesskey "R">
+<!ENTITY newMsgHeader.label "Nova mensagem no cabeçalho:">
+<!ENTITY newMsgHeader.accesskey "N">
