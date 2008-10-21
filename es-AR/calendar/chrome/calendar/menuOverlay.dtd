@@ -138,9 +138,6 @@
 <!ENTITY task.toolbar.label                     "Barra de tareas">
 <!ENTITY task.toolbar.accesskey                 "b">
 
-<!ENTITY mode.toolbar.label                     "Barra de modo">
-<!ENTITY mode.toolbar.accesskey                 "M">
-
 <!ENTITY calendar.menu.customize.label "Personalizar…">
 <!ENTITY calendar.menu.customize.accesskey "P">
 
