@@ -9,27 +9,21 @@
 <!ENTITY sendHTML.accesskey "а">
 <!ENTITY sendBoth.label "Отправлять сообщение в виде как простого текста, так и HTML">
 <!ENTITY sendBoth.accesskey "т">
-<!ENTITY receiveHTML.label "Если известно, что определённый адресат может получать сообщения в HTML, уберите опцию «Отправлять почту в виде простого текста (без HTML)» в карточке этого адресата в адресной книге.">
 <!ENTITY override.label "Примечание: предпочтительные форматы можно указывать в адресной книге.">
 <!ENTITY domaindesc.label "При отправке сообщения на адрес, доменная часть которого находится в одном из списков ниже, &brandShortName; автоматически посылает сообщение в правильном формате.">
 <!ENTITY HTMLTab.label "Домены, поддерживающие HTML">
-<!ENTITY HTMLTab.accesskey "ж">
+<!ENTITY HTMLTab.accesskey "о">
 <!ENTITY PlainTextTab.label "Домены, поддерживающие простой текст">
-<!ENTITY PlainTextTab.accesskey "и">
+<!ENTITY PlainTextTab.accesskey "м">
 <!ENTITY AddHtmlDomain.label "Добавить…">
 <!ENTITY AddHtmlDomain.accesskey "б">
 <!ENTITY AddPlainText.label "Добавить…">
-<!ENTITY AddPlainText.accesskey "о">
+<!ENTITY AddPlainText.accesskey "б">
 <!ENTITY DeleteHtmlDomain.label "Удалить">
 <!ENTITY DeleteHtmlDomain.accesskey "д">
 <!ENTITY DeletePlainText.label "Удалить">
-<!ENTITY DeletePlainText.accesskey "а">
+<!ENTITY DeletePlainText.accesskey "д">
 <!ENTITY add.htmltitle "Добавить имя в список «Поддержка HTML»">
 <!ENTITY add.htmldomain "Имя домена:">
-<!ENTITY add.htmldomain.accesskey "м">
 <!ENTITY add.plaintexttitle "Добавить имя в список «Поддержка простого текста»">
 <!ENTITY add.plaintextdomain "Имя домена:">
-<!ENTITY add.plaintext.accesskey "о">
-<!ENTITY domainnameError.title "Ошибка в имени домена">
-<!ENTITY duplicationError.label "Домен @string@ уже находится в этом списке.">
-<!ENTITY dualEntryError.label "Один и тот же домен не может находиться в обоих списках. Имя @string@ уже находится в одном из списков.">
