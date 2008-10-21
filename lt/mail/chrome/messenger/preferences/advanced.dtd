@@ -30,7 +30,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY itemGeneral.label       "Bendrosios">
-<!ENTITY itemDisplay.label       "Skaitymas ir vaizdavimas">
+<!ENTITY itemDisplay.label       "Skaitymas ir rodymas">
 <!ENTITY itemUpdate.label        "Atnaujinimas">
 <!ENTITY itemNetworking.label    "Tinklas ir disko atmintis">
 <!ENTITY itemCertificates.label  "Liudijimai">
@@ -68,7 +68,7 @@
 
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption                "Skaitymas">
-<!ENTITY display.caption                "Vaizdavimas">
+<!ENTITY display.caption                "Rodymas">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Periodiškai tikrinti, ar yra naujinimų:">
