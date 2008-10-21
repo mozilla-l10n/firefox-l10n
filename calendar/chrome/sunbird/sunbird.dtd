@@ -59,7 +59,7 @@
 <!ENTITY sunbird.listofcalendarstab.label      "Agendas">
 
 <!ENTITY sunbird.find.key                      "F">
-<!ENTITY sunbird.menu.options.close.key        "W">
+<!ENTITY sunbird.close.key                     "W">
 
 <!ENTITY sunbird.menu.numberofweeks.label      "Nombre de semaines" >
 <!ENTITY sunbird.menu.numberofweeks.accesskey  "N" >
