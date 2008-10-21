@@ -48,15 +48,6 @@
 <!ENTITY calendar.calendar.label     "Kalendorius">
 <!ENTITY calendar.calendar.accesskey "K">
 
-<!ENTITY calendar.flat.topbar.choosedate       "Eiti į datą…" >
-<!ENTITY calendar.flat.topbar.dayview          "Diena" >
-<!ENTITY calendar.dayview.accesskey            "D" >
-<!ENTITY calendar.flat.topbar.weekview         "Savaitė" >
-<!ENTITY calendar.weekview.accesskey           "S" >
-<!ENTITY calendar.flat.topbar.monthview        "Mėnuo" >
-<!ENTITY calendar.monthview.accesskey          "M" >
-<!ENTITY calendar.flat.topbar.multiweekview    "Kelios savaitės" >
-<!ENTITY calendar.multiweekview.accesskey      "K" >
 <!ENTITY calendar.dayView.key                  "1" >
 <!ENTITY calendar.weekView.key                 "2" >
 <!ENTITY calendar.multiweekView.key            "3" >
@@ -70,8 +61,6 @@
 <!ENTITY calendar.unifinder.todoitems.label           "Darbai" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label  "Rodyti užbaigtus darbus">
 
-<!ENTITY calendar.calendartab.label          "Data">
-<!ENTITY calendar.listofcalendarstab.label   "Kalendoriai">
 <!ENTITY calendar.today.button.label         "Šiandiena" >
 <!ENTITY calendar.tomorrow.button.label      "Rytdiena">
 <!ENTITY calendar.soon.button.label          "Netrukus">
@@ -99,11 +88,9 @@
 <!ENTITY calendar.unifinder.tree.calendarname.label  "Kalendoriaus pavadinimas">
 <!ENTITY calendar.unifinder.tree.duration.label      "Likęs laikas">
 <!ENTITY calendar.unifinder.close.tooltip            "Užverti įvykių paiešką ir įvykių sąrašą">
-<!ENTITY calendar.find.key                           "F">
 
 <!ENTITY calendar.today.button.tooltip            "Eiti į šios dienos kalendorių" >
 <!ENTITY calendar.todaypane.button.tooltip        "Rodyti šiandienos polangį" >
-<!ENTITY calendar.choosedate.button.tooltip       "Parinkti datą, kur eiti" >
 <!ENTITY calendar.unifinder.button.tooltip        "Rasti ir išvardinti įvykius" >
 
 <!ENTITY calendar.day.button.tooltip          "Rodyti dienos kalendorių" >
@@ -123,16 +110,9 @@
 <!ENTITY calendar.delete.button.label           "Pašalinti" >
 <!ENTITY calendar.edit.button.label             "Taisyti" >
 
-<!ENTITY calendar.choosedate.button.label       "Parinkti datą" >
 
-<!ENTITY calendar.cut.button.tooltip            "Iškirpti" >
-<!ENTITY calendar.copy.button.tooltip           "Kopijuoti" >
-<!ENTITY calendar.paste.button.tooltip          "Įdėti" >
 <!ENTITY calendar.print.button.tooltip          "Spausdinti kalendorių" >
 
-<!ENTITY calendar.cut.button.label              "Iškirpti" >
-<!ENTITY calendar.copy.button.label             "Kopijuoti" >
-<!ENTITY calendar.paste.button.label            "Įdėti" >
 <!ENTITY calendar.print.button.label            "Spausdinti" >
 
 <!ENTITY calendar.import.button.tooltip            "Importuoti įvykius iš failo." >
@@ -165,17 +145,7 @@
 <!ENTITY calendar.orientation.label "Pasukti vaizdą" >
 <!ENTITY calendar.orientation.accesskey "s" >
 
-<!ENTITY calendar.menu.options.close.key        "W">
-
 <!ENTITY calendar.search.options.searchfor "turintys:">
-
-<!ENTITY calendar.menu.numberofweeks.label     "Savaičių skaičius" >
-<!ENTITY calendar.menu.numberofweeks.accesskey "a" >
-<!ENTITY calendar.menu.numberofweeks.2      "2 savaitės" >
-<!ENTITY calendar.menu.numberofweeks.3      "3 savaitės" >
-<!ENTITY calendar.menu.numberofweeks.4      "4 savaitės" >
-<!ENTITY calendar.menu.numberofweeks.5      "5 savaitės" >
-<!ENTITY calendar.menu.numberofweeks.6      "6 savaitės" >
 
 <!ENTITY calendar.list.header.label                 "Kalendorius">
 
@@ -212,14 +182,6 @@
 
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Dokumentas baigtas">
-
-<!-- customizable toolbars -->
-<!ENTITY calendar.context.customize.label             "Tvarkyti…">
-<!ENTITY calendar.context.customize.accesskey         "T">
-<!ENTITY calendar.menu.customize.label                "Tvarkyti…">
-<!ENTITY calendar.menu.customize.accesskey            "T">
-<!ENTITY calendar.maintoolbar.name                    "Pagrindinė">
-<!ENTITY calendar.maintoolbar.accesskey               "P">
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label      "Atverti">
@@ -361,10 +323,6 @@
 <!ENTITY calendarproperties.firealarms.label "Rodyti priminimus">
 <!ENTITY calendarproperties.enabled.label  "Naudoti šį kalendorių">
 
-<!-- Sunbird Help -->
-<!ENTITY calendar.help.label               "Žinyno turinys">
-<!ENTITY calendar.help.accesskey           "Ž">
-
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title     "Kalendoriaus publikavimas">
 <!ENTITY calendar.publish.url.label        "URL publikavimui:">
@@ -393,6 +351,3 @@
 <!ENTITY calendar.error.number "Klaidos kodas:">
 <!ENTITY calendar.error.description "Aprašas:">
 <!ENTITY calendar.error.title "Įvyko klaida">
-
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">

@@ -50,7 +50,7 @@
 
 <!ENTITY newevent.from.label                "Nuo" >
 <!ENTITY newevent.to.label                  "Iki" >
-<!ENTITY newevent.attendees.sendEmail.label "Išsiųsti dalyviams kvietimus el. paštu">
+<!ENTITY newevent.attendees.notify.label    "Pranešti dalyviams">
 
 <!ENTITY newevent.status.label              "Būsena" >
 <!ENTITY newevent.status.accesskey          "B" >
