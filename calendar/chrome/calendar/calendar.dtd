@@ -46,15 +46,6 @@
 <!ENTITY calendar.calendar.label     "Calendário">
 <!ENTITY calendar.calendar.accesskey "C">
 
-<!ENTITY calendar.flat.topbar.choosedate       "Ir para data" >
-<!ENTITY calendar.flat.topbar.dayview          "Ver Dia" >
-<!ENTITY calendar.dayview.accesskey            "D" >
-<!ENTITY calendar.flat.topbar.weekview         "Ver Semana" >
-<!ENTITY calendar.weekview.accesskey           "S" >
-<!ENTITY calendar.flat.topbar.monthview        "Ver Mês" >
-<!ENTITY calendar.monthview.accesskey          "M" >
-<!ENTITY calendar.flat.topbar.multiweekview    "Ver Multi-semana" >
-<!ENTITY calendar.multiweekview.accesskey      "u" >
 <!ENTITY calendar.dayView.key                  "1" >
 <!ENTITY calendar.weekView.key                 "2" >
 <!ENTITY calendar.multiweekView.key            "3" >
@@ -68,8 +59,6 @@
 <!ENTITY calendar.unifinder.todoitems.label       "Tarefas" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Mostrar Tarefas Concluidas">
 
-<!ENTITY calendar.calendartab.label "Data">
-<!ENTITY calendar.listofcalendarstab.label "Calendários">
 <!ENTITY calendar.today.button.label       "Hoje" >
 <!ENTITY calendar.tomorrow.button.label       "Amanhã">
 <!ENTITY calendar.soon.button.label           "Próximamente">
@@ -97,11 +86,9 @@
 <!ENTITY calendar.unifinder.tree.calendarname.label    "Nome do Calendário">
 <!ENTITY calendar.unifinder.tree.duration.label      "Termina em">
 <!ENTITY calendar.unifinder.close.tooltip            "Fechar pesquisa de evento e lista de evento">
-<!ENTITY calendar.find.key  "F">
 
 <!ENTITY calendar.today.button.tooltip            "Ir para Hoje" >
 <!ENTITY calendar.todaypane.button.tooltip        "Mostrar Hoje" >
-<!ENTITY calendar.choosedate.button.tooltip       "Escolher data para ir" >
 <!ENTITY calendar.unifinder.button.tooltip        "Procurar e listar eventos" >
 
 <!ENTITY calendar.day.button.tooltip            "Mudar para vista do dia" >
@@ -121,16 +108,9 @@
 <!ENTITY calendar.delete.button.label           "Apagar" >
 <!ENTITY calendar.edit.button.label             "Editar" >
 
-<!ENTITY calendar.choosedate.button.label       "Escolher Data" >
 
-<!ENTITY calendar.cut.button.tooltip            "Cortar" >
-<!ENTITY calendar.copy.button.tooltip           "Copiar" >
-<!ENTITY calendar.paste.button.tooltip          "Colar" >
 <!ENTITY calendar.print.button.tooltip          "Imprimir Calendário" >
 
-<!ENTITY calendar.cut.button.label              "Cortar" >
-<!ENTITY calendar.copy.button.label             "Copiar" >
-<!ENTITY calendar.paste.button.label            "Colar" >
 <!ENTITY calendar.print.button.label            "Imprimir" >
 
 <!ENTITY calendar.import.button.tooltip            "Importar: Importar eventos de um ficheiro local." >
@@ -163,17 +143,7 @@
 <!ENTITY calendar.orientation.label "Rodar Vista" >
 <!ENTITY calendar.orientation.accesskey "o" >
 
-<!ENTITY calendar.menu.options.close.key        "W">
-
 <!ENTITY calendar.search.options.searchfor " que contenham">
-
-<!ENTITY calendar.menu.numberofweeks.label     "Número de Semanas" >
-<!ENTITY calendar.menu.numberofweeks.accesskey "N" >
-<!ENTITY calendar.menu.numberofweeks.2      "2 Semanas" >
-<!ENTITY calendar.menu.numberofweeks.3      "3 Semanas" >
-<!ENTITY calendar.menu.numberofweeks.4      "4 Semanas" >
-<!ENTITY calendar.menu.numberofweeks.5      "5 Semanas" >
-<!ENTITY calendar.menu.numberofweeks.6      "6 Semanas" >
 
 <!ENTITY calendar.list.header.label                 "Calendário">
 
@@ -210,14 +180,6 @@
 
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Documento: feito">
-
-<!-- customizable toolbars -->
-<!ENTITY calendar.context.customize.label             "Personalizar…">
-<!ENTITY calendar.context.customize.accesskey         "P">
-<!ENTITY calendar.menu.customize.label                "Personalizar Barra de Ferramentas…">
-<!ENTITY calendar.menu.customize.accesskey            "F">
-<!ENTITY calendar.maintoolbar.name                    "Barra de Ferramentas Principal">
-<!ENTITY calendar.maintoolbar.accesskey               "P">
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label            "Abrir">
@@ -360,10 +322,6 @@
 <!ENTITY calendarproperties.cache.label    "Cache (EXPERIMENTAL, necessita re-ínicio)">
 <!ENTITY calendarproperties.enabled.label "Acivar este calendário">
 
-<!-- Sunbird Help -->
-<!ENTITY calendar.help.label               "Conteúdos de Ajuda">
-<!ENTITY calendar.help.accesskey           "A">
-
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "Publicar Calendário">
 <!ENTITY calendar.publish.url.label                 "Publicar URL">
@@ -392,7 +350,3 @@
 <!ENTITY calendar.error.number "Número do Erro:">
 <!ENTITY calendar.error.description "Descrição:">
 <!ENTITY calendar.error.title "Ocorreu um erro">
-
-
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">
