@@ -103,7 +103,7 @@
 <!ENTITY lightning.acctCentral.newCalendar.label "צור לוח שנה חדש">
 
 <!-- today-pane-specific -->
-<!ENTITY todaypane.showMinimonth.label "הצג חודש מוקטן>
+<!ENTITY todaypane.showMinimonth.label "הצג חודש מוקטן">
 <!ENTITY todaypane.showMinimonth.accesskey "ח">
 <!ENTITY todaypane.showMiniday.label "Sהצג יום מוקטן">
 <!ENTITY todaypane.showMiniday.accesskey  "י">
