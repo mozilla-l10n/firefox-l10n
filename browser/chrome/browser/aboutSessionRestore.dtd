@@ -1,0 +1,16 @@
+<!ENTITY restorepage.title          "Palauta edellinen istunto">
+<!ENTITY restorepage.titletext      "&brandShortName;in edellinen istunto päättyi yllättäen">
+<!ENTITY restorepage.shortDesc      "Voit palauttaa edellisen istunnon ikkunat ja välilehdet tai aloittaa uuden istunnon jos viimeksi auki olleilla sivuille ei ole käyttöä. Pahoittelemme häiriötä.">
+<!ENTITY restorepage.remedies       "Jos &brandShortName; sulkeutuu jatkuvasti yllättäen, usein auttaa:">
+<!ENTITY restorepage.dueToChrome    "Poistaa käytöstä viime aikoina asennetut lisäosat lisäosien hallinnasta.">
+<!ENTITY restorepage.dueToContent   "Palauttaa istuntosi ilman sivustoja, joiden arvelet ehkä aiheuttavan ongelmia:">
+
+<!ENTITY restorepage.restoreButton  "Palauta edellinen istunto">
+<!ENTITY restorepage.restore.access "P">
+<!ENTITY restorepage.cancelButton   "Aloita uusi istunto">
+<!ENTITY restorepage.cancel.access  "A">
+
+<!ENTITY restorepage.restoreHeader  "Palauta">
+<!ENTITY restorepage.listHeader     "Ikkunat ja välilehdet">
+<!-- LOCALIZATION NOTE: %S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Ikkuna #&#37;S">
