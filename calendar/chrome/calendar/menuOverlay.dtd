@@ -54,26 +54,9 @@
 <!ENTITY calendar.new.server.key "L">
 <!ENTITY calendar.new.server.accesskey "l">
 
-<!ENTITY calendar.open.file.label "Abrir archivo de calendario…">
-<!ENTITY calendar.open.file.key "O">
-<!ENTITY calendar.open.file.accesskey "O">
-
-<!ENTITY event.edit.event "Editar selección…">
-<!ENTITY event.edit.event.key "E">
-<!ENTITY event.edit.event.accesskey "E">
-
-<!ENTITY event.delete.event "Borrar eventos seleccionados">
-<!ENTITY event.delete.event.accesskey "D">
-
-<!ENTITY event.delete.tasks "Borrar tareas seleccionadas">
-<!ENTITY event.delete.tasks.accesskey "T">
-
 <!ENTITY calendar.print.label "Imprimir…">
 <!ENTITY calendar.print.key "P">
 <!ENTITY calendar.print.accesskey "p">
-
-<!ENTITY calendar.pagesetup.label "Configuración de página…">
-<!ENTITY calendar.pagesetup.accesskey "u">
 
 <!ENTITY calendar.import.label "Importar…">
 <!ENTITY calendar.import.key "I">
@@ -84,54 +67,8 @@
 <!ENTITY calendar.export.selection.label "Exportar selección…">
 <!ENTITY calendar.export.selection.accesskey "x">
 
-<!ENTITY calendar.subscribe.label "Suscribirse a un calendario remoto…">
-<!ENTITY calendar.subscribe.accesskey "m">
-
-<!ENTITY calendar.reloadserver.label "Recargar calendarios remotos">
-<!ENTITY calendar.reloadserver.key "R">
-<!ENTITY calendar.reloadserver.accesskey "R">
-
 <!ENTITY calendar.publish.label "Publicar…">
 <!ENTITY calendar.publish.accesskey "b">
-<!ENTITY calendar.publish.calendar.label "Publicar calendario…">
-<!ENTITY calendar.publish.calendar.accesskey "b">
-<!ENTITY calendar.publish.selection.label "Publicar selección…">
-<!ENTITY calendar.publish.selection.accesskey "c">
-
-<!ENTITY calendar.quit.label "Salir">
-<!ENTITY calendar.quit.accesskey "S">
-<!ENTITY calendar.quit.key                      "Q">
-<!ENTITY calendar.quit.label.mac "Salir de &brandShortName;">
-
-<!ENTITY calendar.exit.label "Salir">
-<!ENTITY calendar.exit.accesskey "S">
-
-<!ENTITY calendar.undo.label "Deshacer">
-<!ENTITY calendar.undo.key "Z">
-<!ENTITY calendar.undo.accesskey "D">
-
-<!ENTITY calendar.redo.label "Rehacer">
-<!ENTITY calendar.redo.key "Y">
-<!ENTITY calendar.redo.accesskey "R">
-
-<!ENTITY calendar.cut.label "Cortar">
-<!ENTITY calendar.cut.key "X">
-<!ENTITY calendar.cut.accesskey "C">
-
-<!ENTITY calendar.copy.label "Copiar">
-<!ENTITY calendar.copy.key "C">
-<!ENTITY calendar.copy.accesskey "C">
-
-<!ENTITY calendar.paste.label "Pegar">
-<!ENTITY calendar.paste.key "V">
-<!ENTITY calendar.paste.accesskey "P">
-
-<!ENTITY calendar.selectall.label "Seleccionar todo">
-<!ENTITY calendar.selectall.key "A">
-<!ENTITY calendar.selectall.accesskey "S">
-
-<!ENTITY toolbarsMenu.label "Barras de herramientas">
-<!ENTITY toolbarsMenu.accesskey "B">
 
 <!ENTITY calendar.toolbar.label "Barra de calendario">
 <!ENTITY calendar.toolbar.accesskey             "C">
@@ -140,12 +77,6 @@
 
 <!ENTITY calendar.menu.customize.label "Personalizar…">
 <!ENTITY calendar.menu.customize.accesskey "P">
-
-<!ENTITY showStatusBarCmd.label "Barra de estado">
-<!ENTITY showStatusBarCmd.accesskey "e">
-
-<!ENTITY showTaskBoxCmd.label "Lista de tareas">
-<!ENTITY showTaskBoxCmd.accesskey "L">
 
 <!ENTITY showUnifinderCmd.label                 "Buscar eventos">
 <!ENTITY showUnifinderCmd.accesskey             "v">
@@ -160,20 +91,8 @@
 <!ENTITY calendar.menu.numberofweeks.5 "Cinco semanas">
 <!ENTITY calendar.menu.numberofweeks.6 "Seis semanas">
 
-<!ENTITY calendar.fullscreen.label "Pantalla completa">
-<!ENTITY calendar.fullscreen.accesskey "P">
-
-<!ENTITY calendar.addons.label "Agregados">
-<!ENTITY calendar.addons.accesskey "A">
-
-<!ENTITY goMenu.label "Ir">
-<!ENTITY goMenu.accesskey "I">
-
 <!ENTITY goTodayCmd.label "Hoy">
 <!ENTITY goTodayCmd.accesskey "H">
-
-<!ENTITY goDateCmd.label "Fecha…">
-<!ENTITY goDateCmd.accesskey "F">
 
 <!ENTITY goPreviousCmd.day.label "Día anterior">
 <!ENTITY goPreviousCmd.week.label "Semana anterior">
@@ -185,67 +104,13 @@
 <!ENTITY goNextCmd.month.label "Mes siguiente">
 <!ENTITY goNextCmd.all.accesskey "i">
 
-<!ENTITY toolsMenu.label "Herramientas">
-<!ENTITY toolsMenu.accesskey "H">
-
-<!ENTITY errorConsoleCmd.label "Consola de errores">
-<!ENTITY errorConsoleCmd.accesskey "C">
-
 <!ENTITY addressBookCmd.label "Libreta de direcciones">
 <!ENTITY addressBookCmd.accesskey "A">
-
-<!ENTITY helpMenu.label "Ayuda">
-<!ENTITY helpMenu.accesskey "A">
-<!-- LOCALIZATION NOTE some localizations of Windows use "?"
-           for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label "Ayuda">
-<!ENTITY helpMenuWin.accesskey "A">
-
-<!-- Toolbar items -->
-<!ENTITY fileMenu.label "Archivo">
-<!ENTITY fileMenu.accesskey "A">
-
-<!ENTITY editMenu.label "Editar">
-<!ENTITY editMenu.accesskey "E">
-<!ENTITY optionsCmd.label "Opciones…">
-<!ENTITY optionsCmd.accesskey "O">
-<!ENTITY preferencesCmd.label "Preferencias">
-<!ENTITY preferencesCmd.accesskey "P">
-<!ENTITY preferencesCmdMac.label "Preferencias…">
-<!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.modifiers "accel">
-
-<!ENTITY viewMenu.label "Ver">
-<!ENTITY viewMenu.accesskey "V">
-
-<!ENTITY releaseCmd.label "Notas de la versión">
-<!ENTITY releaseCmd.accesskey "N">
-<!ENTITY aboutCmd.label "Acerca de &brandFullName;">
-<!ENTITY aboutCmd.accesskey "A">
-<!ENTITY updateCmd.label                        "Buscar actualizaciones…">
-<!ENTITY updateCmd.accesskey                    "o">
-
-<!-- Mac OS X "Window" menu items -->
-<!ENTITY windowMenu.label "Ventana">
-<!ENTITY minimizeWindow.label "Minimizar">
-<!ENTITY zoomWindow.label "Zoom">
-<!ENTITY minimizeWindow.key "M">
-<!ENTITY bringAllToFront.label "Traer todo al frente">
-
-<!-- Mac OS X Application menu items -->
-<!ENTITY servicesMenuMac.label "Servicios">
-<!ENTITY hideThisAppCmdMac.label "Ocultar &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
-<!ENTITY hideOtherAppsCmdMac.label "Ocultar otras">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
-<!ENTITY showAllAppsCmdMac.label "Mostrar todo">
 
 <!ENTITY calendar.importcalendar.label          "Importar calendario…">
 
 <!ENTITY showCurrentView.label                  "Vista actual">
 <!ENTITY showCurrentView.accesskey              "V">
 
-<!ENTITY calendar.properties.label              "Propiedades de calendario…">
+<!ENTITY calendar.properties.label              "Propiedades del calendario…">
 <!ENTITY calendar.properties.accesskey          "C">
