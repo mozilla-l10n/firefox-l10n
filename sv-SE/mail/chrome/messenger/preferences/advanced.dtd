@@ -86,9 +86,9 @@
 <!-- Certificates -->
 <!ENTITY viewCertificates.label         "Visa certifikat">
 <!ENTITY viewCertificates.accesskey     "c">
-<!ENTITY viewCRLs.label                 "Listor på indragna certifikat">
-<!ENTITY viewCRLs.accesskey             "L">
+<!ENTITY viewCRLs.label                 "Spärrlistor">
+<!ENTITY viewCRLs.accesskey             "S">
 <!ENTITY validation.label               "Validering">
 <!ENTITY validation.accesskey           "V">
 <!ENTITY viewSecurityDevices.label      "Säkerhetsenheter">
-<!ENTITY viewSecurityDevices.accesskey  "S">
+<!ENTITY viewSecurityDevices.accesskey  "k">
