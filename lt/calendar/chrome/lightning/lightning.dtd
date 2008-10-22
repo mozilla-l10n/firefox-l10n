@@ -58,8 +58,6 @@
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "K">
 
 <!-- Messenger Sidebar -->
-<!ENTITY lightning.sidebar.invitations.label "Kvietimai">
-<!ENTITY lightning.sidebar.invitations.accesskey "v">
 <!ENTITY lightning.calendar.label            "Kalendorius">
 <!ENTITY lightning.calendar.accesskey        "K">
 <!ENTITY lightning.tasks.label               "Darbai">
