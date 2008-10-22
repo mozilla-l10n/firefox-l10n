@@ -1,34 +1,33 @@
 <!ENTITY dialog.title                 "Ferstjoeropsjes">
 <!ENTITY sendMail.title               "Tekstopmaak">
-<!ENTITY sendMaildesc.label           "Indien een bericht in HTML-opmaak wordt verzonden en van één of meer ontvangers is niet bekend of ze HTML kunnen ontvangen:">
-<!ENTITY askMe.label                  "Mij vragen wat te doen">
-<!ENTITY askMe.accesskey              "v">
-<!ENTITY convertPlain.label           "Bericht converteren naar platte tekst">
-<!ENTITY convertPlain.accesskey       "c">
-<!ENTITY sendHTML.label               "Bericht toch als HTML verzenden">
+<!ENTITY sendMaildesc.label           "As in berjocht yn HTML-opmaak ferstjoerd wurdt en fan ien of mear ûntfangers is net bekend of se HTML ûntfange kinne:">
+<!ENTITY askMe.label                  "My freegje wat te dwaan">
+<!ENTITY askMe.accesskey              "f">
+<!ENTITY convertPlain.label           "Berjocht konfertearje nei platte tekst">
+<!ENTITY convertPlain.accesskey       "k">
+<!ENTITY sendHTML.label               "Berjocht toch as HTML ferstjoere">
 <!ENTITY sendHTML.accesskey           "H">
-<!ENTITY sendBoth.label               "Bericht als platte tekst en HTML verzenden">
+<!ENTITY sendBoth.label               "Berjocht as platte tekst en HTML ferstjoere">
 <!ENTITY sendBoth.accesskey           "e">
-<!ENTITY override.label               "Noot: gebruik het adresboek om gewenste tekstopmaak voor ontvangers te specificeren.">
+<!ENTITY override.label               "Noat: brûk it adresboek om winske tekstopmaak foar ûntfangers te spesifisearjen.">
 
-<!ENTITY domaindesc.label             "Wanneer u een bericht stuurt naar een adres met een van de onderstaande domeinnamen, zal &brandShortName; het bericht automatisch in de juiste opmaak verzenden.">
+<!ENTITY domaindesc.label             "As jo in berjocht stjoere nei in adres mei ien fan de ûndersteande domeinnammen, sil &brandShortName; it berjocht automatysk yn de goede opmaak ferstjoere.">
 <!ENTITY HTMLTab.label                "HTML-domeinen">
 <!ENTITY HTMLTab.accesskey            "H">
 <!ENTITY PlainTextTab.label           "Platte-tekstdomeinen">
 <!ENTITY PlainTextTab.accesskey       "P">
-<!ENTITY AddHtmlDomain.label          "Toevoegen…">
-<!ENTITY AddPlainText.label           "Toevoegen…">
-<!ENTITY DeleteHtmlDomain.label       "Verwijderen">
-<!ENTITY DeleteHtmlDomain.accesskey   "V">
-<!ENTITY DeletePlainText.label        "Verwijderen">
-<!ENTITY DeletePlainText.accesskey    "w">
+<!ENTITY AddHtmlDomain.label          "Tafoegje…">
+<!ENTITY AddHtmlDomain.accesskey      "T">
+<!ENTITY AddPlainText.label           "Tafoegje…">
+<!ENTITY AddPlainText.accesskey       "f">
+<!ENTITY DeleteHtmlDomain.label       "Fuortsmite">
+<!ENTITY DeleteHtmlDomain.accesskey   "F">
+<!ENTITY DeletePlainText.label        "Fuortsmite">
+<!ENTITY DeletePlainText.accesskey    "s">
 
-<!ENTITY add.htmltitle                "Een HTML-domeinnaam toevoegen">
-<!ENTITY add.htmldomain               "HTML-domeinnaam:">
+<!ENTITY add.htmltitle                "In HTML-domeinnamme tafoegje">
+<!ENTITY add.htmldomain               "HTML-domeinnamme:">
 <!ENTITY add.htmldomain.accesskey     "d">
-<!ENTITY add.plaintexttitle           "Een platte-tekstdomeinnaam toevoegen">
-<!ENTITY add.plaintextdomain          "Platte-tekstdomeinnaam:">
+<!ENTITY add.plaintexttitle           "In platte-tekstdomeinnamme tafoegje">
+<!ENTITY add.plaintextdomain          "Platte-tekstdomeinnamme:">
 <!ENTITY add.plaintext.accesskey      "d">
-
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY dualEntryError.label         "Een domeinnaam kan niet voorkomen in beide opmaaklijsten. De domeinnaam @string@ bestaat al.">
