@@ -34,15 +34,20 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!ENTITY sunbird.choosedate.button.tooltip                 "Zu Datum wechseln" >
 <!ENTITY sunbird.cut.button.tooltip                        "Ausschneiden" >
 <!ENTITY sunbird.copy.button.tooltip                       "Kopieren" >
 <!ENTITY sunbird.paste.button.tooltip                      "Einfügen" >
+<!ENTITY sunbird.print.button.tooltip                      "Kalender drucken" >
+<!ENTITY sunbird.delete.button.tooltip                     "Markierten Termin löschen" >
+<!ENTITY sunbird.remotereload.button.tooltip               "Alle externen Kalender neu laden" >
 
 <!ENTITY sunbird.choosedate.button.label                   "Datum wählen" >
-<!ENTITY sunbird.choosedate.button.tooltip                 "Zu Datum wechseln" >
 <!ENTITY sunbird.cut.button.label                          "Ausschneiden" >
 <!ENTITY sunbird.copy.button.label                         "Kopieren" >
 <!ENTITY sunbird.paste.button.label                        "Einfügen" >
+<!ENTITY sunbird.delete.button.label                       "Löschen" >
+<!ENTITY sunbird.remotereload.button.label                 "Neu laden" >
 
 <!ENTITY sunbird.flat.topbar.choosedate                    "Zu Datum wechseln" >
 <!ENTITY sunbird.flat.topbar.dayview                       "Tagesansicht" >
