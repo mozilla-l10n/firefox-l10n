@@ -53,7 +53,6 @@
 
 <!ENTITY calendar.newtask.button.tooltip          "Neue Aufgabe erstellen" >
 <!ENTITY calendar.newevent.button.tooltip         "Neuen Termin erstellen" >
-<!ENTITY calendar.delete.button.tooltip           "Markierten Termin löschen" >
 <!ENTITY calendar.edit.button.tooltip             "Markierten Termin bearbeiten" >
 
 <!ENTITY calendar.unifinder.todoitems.label          "Aufgaben" >
@@ -105,10 +104,7 @@
 
 <!ENTITY calendar.newtask.button.label          "Neue Aufgabe" >
 <!ENTITY calendar.newevent.button.label         "Neuer Termin" >
-<!ENTITY calendar.delete.button.label           "Löschen" >
 <!ENTITY calendar.edit.button.label             "Bearbeiten" >
-
-<!ENTITY calendar.print.button.tooltip          "Kalender drucken" >
 
 <!ENTITY calendar.print.button.label            "Drucken" >
 
@@ -124,9 +120,6 @@
 <!ENTITY calendar.subscribe.button.label           "Abonnieren" >
 <!ENTITY calendar.publish.button.label             "Publizieren" >
 <!ENTITY calendar.unifinder.button.label           "Termine suchen" >
-
-<!ENTITY calendar.remotereload.button.label        "Neu laden" >
-<!ENTITY calendar.remotereload.button.tooltip      "Alle externen Kalender neu laden" >
 
 <!ENTITY calendar.day.button.label                  "Tagesansicht" >
 <!ENTITY calendar.week.button.label                 "Wochenansicht" >
@@ -175,7 +168,6 @@
 <!ENTITY calendar.task.category.button.tooltip  "Aufgaben kategorisieren">
 <!ENTITY calendar.task.complete.button.tooltip  "Ausgewählte Aufgaben als abgeschlossen markieren">
 <!ENTITY calendar.task.priority.button.tooltip  "Priorität ändern">
-<!ENTITY calendar.task.delete.button.tooltip    "Ausgewählte Aufgabe löschen">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Dokument: Fertig">
