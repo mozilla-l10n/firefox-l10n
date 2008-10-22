@@ -244,7 +244,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.commandkey "-">
 <!ENTITY fullZoomReduceCmd.commandkey2 "">
 
-<!ENTITY fullZoomResetCmd.label "Reset">
+<!ENTITY fullZoomResetCmd.label "Berrabiarazi">
 <!ENTITY fullZoomResetCmd.accesskey "R">
 <!ENTITY fullZoomResetCmd.commandkey "0">
 <!ENTITY fullZoomResetCmd.commandkey2 "">
@@ -343,14 +343,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Iragazkia Mezutik Sortu...">
 <!ENTITY createFilter.accesskey "a">
-<!ENTITY moveMsgMenu.label "Mugitu">
-<!ENTITY moveMsgMenu.accesskey "M">
+<!ENTITY moveMsgToMenu.label "Lekuz aldatu hona: ">
+<!ENTITY moveMsgToMenu.accesskey "L">
 <!ENTITY moveCopyMsgRecentMenu.label "Oraintsukoa">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "O">
 <!ENTITY copyMessageLocation.label "Kopiatu Mezuaren Kokalekua">
 <!ENTITY copyMessageLocation.accesskey "M">
-<!ENTITY copyMsgMenu.label "Kopiatu">
-<!ENTITY copyMsgMenu.accesskey "K">
+<!ENTITY copyMsgToMenu.label "Kopiatu hona: ">
+<!ENTITY copyMsgToMenu.accesskey "K">
 <!ENTITY moveToFolderAgain.label "Mugitu Berriz">
 <!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "m">

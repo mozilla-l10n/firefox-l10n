@@ -27,7 +27,6 @@
 <!ENTITY startpage.pageInfo "Produktuaren informaziorako, bisitatu">
 <!ENTITY startpage.pageURL "http://www.mozilla.org/products/thunderbird/">
 
-<!ENTITY startpage.extra "_: startpage.extra
-">
+<!ENTITY startpage.extra "_: startpage.extra">
 
 <!ENTITY startpage.poweredByGecko "Gecko-z hornitua">

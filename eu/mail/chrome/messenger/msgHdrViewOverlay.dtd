@@ -35,9 +35,9 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "to ">
-<!ENTITY fromField2.label "from ">
-<!ENTITY senderField2.label "sender ">
+<!ENTITY toField2.label " - ">
+<!ENTITY fromField2.label "nondik ">
+<!ENTITY senderField2.label "bidaltzailea ">
 <!ENTITY organizationField2.label "organization ">
 <!ENTITY replyToField2.label "reply-to ">
 
