@@ -40,7 +40,7 @@
 <!ENTITY autoSave.accesskey                   "u">
 <!ENTITY autoSaveEnd.label                    "minutes">
 
-<!ENTITY emailCollectionPicker.label           "Ajouter les adresses des messages sortant dans :">
+<!ENTITY emailCollectionPicker.label           "Ajouter les adresses des messages sortants dans :">
 <!ENTITY emailCollectionPicker.accesskey       "t">
 <!ENTITY addressingTitle.label                 "Auto-complétion d'adresses">
 <!ENTITY autocompleteText.label                "Lors de la recherche d'adresses, chercher les correspondances dans :">
