@@ -46,15 +46,6 @@
 <!ENTITY calendar.calendar.label "Kalendář">
 <!ENTITY calendar.calendar.accesskey "K">
 
-<!ENTITY calendar.flat.topbar.choosedate "Přejít na datum">
-<!ENTITY calendar.flat.topbar.dayview "Denní pohled">
-<!ENTITY calendar.dayview.accesskey "D">
-<!ENTITY calendar.flat.topbar.weekview "Týdenní pohled">
-<!ENTITY calendar.weekview.accesskey "T">
-<!ENTITY calendar.flat.topbar.monthview "Měsíční pohled">
-<!ENTITY calendar.monthview.accesskey "M">
-<!ENTITY calendar.flat.topbar.multiweekview "Více-týdenní pohled">
-<!ENTITY calendar.multiweekview.accesskey "V">
 <!ENTITY calendar.dayView.key "1">
 <!ENTITY calendar.weekView.key "2">
 <!ENTITY calendar.multiweekView.key "3">
@@ -68,8 +59,6 @@
 <!ENTITY calendar.unifinder.todoitems.label "Úkoly">
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Zobrazit dokončené úkoly">
 
-<!ENTITY calendar.calendartab.label "Datum">
-<!ENTITY calendar.listofcalendarstab.label "Kalendáře">
 <!ENTITY calendar.today.button.label "Dnešní den">
 <!ENTITY calendar.tomorrow.button.label "Zítra">
 <!ENTITY calendar.soon.button.label "Brzo">
@@ -97,11 +86,9 @@
 <!ENTITY calendar.unifinder.tree.calendarname.label "Název kalendáře">
 <!ENTITY calendar.unifinder.tree.duration.label "Do">
 <!ENTITY calendar.unifinder.close.tooltip "Zavře hledání a seznam událostí">
-<!ENTITY calendar.find.key "F">
 
 <!ENTITY calendar.today.button.tooltip "Přejde na dnešní den">
 <!ENTITY calendar.todaypane.button.tooltip "Zobrazí dnešní panel">
-<!ENTITY calendar.choosedate.button.tooltip "Vybere datum k přejití">
 <!ENTITY calendar.unifinder.button.tooltip "Najde a zobrazí události" >
 
 <!ENTITY calendar.day.button.tooltip "Přepne do denního pohledu">
@@ -121,16 +108,9 @@
 <!ENTITY calendar.delete.button.label "Smazat">
 <!ENTITY calendar.edit.button.label "Upravit">
 
-<!ENTITY calendar.choosedate.button.label "Vybrat datum">
 
-<!ENTITY calendar.cut.button.tooltip "Vyjmout">
-<!ENTITY calendar.copy.button.tooltip "Kopírovat">
-<!ENTITY calendar.paste.button.tooltip "Vložit">
 <!ENTITY calendar.print.button.tooltip "Vytisknout kalendář">
 
-<!ENTITY calendar.cut.button.label "Vyjmout">
-<!ENTITY calendar.copy.button.label "Kopírovat">
-<!ENTITY calendar.paste.button.label "Vložit">
 <!ENTITY calendar.print.button.label "Tisk">
 
 <!ENTITY calendar.import.button.tooltip "Import: Importovat události z místního souboru.">
@@ -163,17 +143,7 @@
 <!ENTITY calendar.orientation.label "Otočit pohled">
 <!ENTITY calendar.orientation.accesskey "o">
 
-<!ENTITY calendar.menu.options.close.key "W">
-
 <!ENTITY calendar.search.options.searchfor " obsahuje">
-
-<!ENTITY calendar.menu.numberofweeks.label "Počet týdnů">
-<!ENTITY calendar.menu.numberofweeks.accesskey "P">
-<!ENTITY calendar.menu.numberofweeks.2 "2 týdny">
-<!ENTITY calendar.menu.numberofweeks.3 "3 týdny">
-<!ENTITY calendar.menu.numberofweeks.4 "4 týdny">
-<!ENTITY calendar.menu.numberofweeks.5 "5 týdnů">
-<!ENTITY calendar.menu.numberofweeks.6 "6 týdnů">
 
 <!ENTITY calendar.list.header.label "Kalendář">
 
@@ -210,14 +180,6 @@
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "Dokument: Hotovo">
-
-<!-- customizable toolbars -->
-<!ENTITY calendar.context.customize.label "Vlastní…">
-<!ENTITY calendar.context.customize.accesskey "V">
-<!ENTITY calendar.menu.customize.label "Upravit lišty…">
-<!ENTITY calendar.menu.customize.accesskey "l">
-<!ENTITY calendar.maintoolbar.name "Hlavní lišta">
-<!ENTITY calendar.maintoolbar.accesskey "H">
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label "Otevřít">
@@ -360,10 +322,6 @@
 <!ENTITY calendarproperties.cache.label "Vyrovnávací paměť (EXPERIMENTÁLNÍ - vyžaduje restart)">
 <!ENTITY calendarproperties.enabled.label "Zapnout kalendář">
 
-<!-- Sunbird Help -->
-<!ENTITY calendar.help.label "Obsah nápovědy">
-<!ENTITY calendar.help.accesskey "n">
-
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title "Publikovat kalendář">
 <!ENTITY calendar.publish.url.label "Adresa k publikování">
@@ -392,7 +350,3 @@
 <!ENTITY calendar.error.number "Číslo chyby:">
 <!ENTITY calendar.error.description "Popis:">
 <!ENTITY calendar.error.title "Vyskytla se chyba">
-
-
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">
