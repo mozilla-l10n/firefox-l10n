@@ -53,7 +53,6 @@
 
 <!ENTITY calendar.newtask.button.tooltip          "Créer une nouvelle tâche" >
 <!ENTITY calendar.newevent.button.tooltip         "Créer un nouvel événement" >
-<!ENTITY calendar.delete.button.tooltip           "Supprimer l'événement sélectionné" >
 <!ENTITY calendar.edit.button.tooltip             "Modifier l'événement sélectionné" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Tâches" >
@@ -105,10 +104,7 @@
 
 <!ENTITY calendar.newtask.button.label          "Nouvelle tâche" >
 <!ENTITY calendar.newevent.button.label         "Nouvel événement" >
-<!ENTITY calendar.delete.button.label           "Supprimer" >
 <!ENTITY calendar.edit.button.label             "Modifier" >
-
-<!ENTITY calendar.print.button.tooltip          "Imprimer l'agenda" >
 
 <!ENTITY calendar.print.button.label            "Imprimer" >
 
@@ -124,9 +120,6 @@
 <!ENTITY calendar.subscribe.button.label           "S'abonner" >
 <!ENTITY calendar.publish.button.label             "Publier" >
 <!ENTITY calendar.unifinder.button.label           "Recherche d'événements" >
-
-<!ENTITY calendar.remotereload.button.label   "Actualiser" >
-<!ENTITY calendar.remotereload.button.tooltip "Actualiser tous les agendas distants" >
 
 <!ENTITY calendar.day.button.label          "Journée" >
 <!ENTITY calendar.week.button.label         "Semaine" >
@@ -175,7 +168,6 @@
 <!ENTITY calendar.task.category.button.tooltip "Catégoriser les tâches">
 <!ENTITY calendar.task.complete.button.tooltip "Marquer les tâches sélectionnées comme terminées">
 <!ENTITY calendar.task.priority.button.tooltip "Changer la priorité">
-<!ENTITY calendar.task.delete.button.tooltip   "Supprimer la tâche sélectionnée">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Document : fait">
