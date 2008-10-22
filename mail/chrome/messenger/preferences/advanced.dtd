@@ -84,7 +84,6 @@
 <!ENTITY clearCacheNow.accesskey         "N">
 
 <!-- Certificates -->
-<!ENTITY certificatesInfo2.label        "Sertifikaten, ynlûklisten, sertifikaatfalidaasje en befeiligingsapparaten beheare.">
 <!ENTITY viewCertificates.label         "Sertifikaten besjen">
 <!ENTITY viewCertificates.accesskey     "S">
 <!ENTITY viewCRLs.label                 "Ynlûklisten">
