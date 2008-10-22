@@ -84,7 +84,6 @@
 <!ENTITY clearCacheNow.accesskey         "R">
 
 <!-- Certificates -->
-<!ENTITY certificatesInfo2.label        "Hantera certifikat, listor på indragna certifikat, certifikatvalidering och säkerhetsenheter.">
 <!ENTITY viewCertificates.label         "Visa certifikat">
 <!ENTITY viewCertificates.accesskey     "c">
 <!ENTITY viewCRLs.label                 "Listor på indragna certifikat">
