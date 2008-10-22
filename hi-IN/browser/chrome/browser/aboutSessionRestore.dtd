@@ -1,16 +1,16 @@
-<!ENTITY restorepage.title          "Restore Previous Session">
-<!ENTITY restorepage.titletext      "Your Last &brandShortName; Session Closed Unexpectedly">
-<!ENTITY restorepage.shortDesc      "You can restore the tabs and windows from your previous session, or start a new session if they are no longer needed. Our apologies for the inconvenience.">
-<!ENTITY restorepage.remedies       "If &brandShortName; closes repeatedly:">
-<!ENTITY restorepage.dueToChrome    "Try disabling any recently added extensions in the Add-ons Manager.">
-<!ENTITY restorepage.dueToContent   "Try restoring your session without any Web pages you suspect might be causing the crash:">
+<!ENTITY restorepage.title          "पिछला सत्र वापस करें">
+<!ENTITY restorepage.titletext      "आपका आखिरी &brandShortName; सत्र अचानक से बंद हो गया">
+<!ENTITY restorepage.shortDesc      "आप अपने पिछले सत्र से टैब व विंडो की वापसी कर सकते हैं, या नया सत्र शुरू कर सकते हैं यदि वे अब जरूरी नहीं रह गए हैं. असुविधा के लिए हमारी ओर से खेद है.">
+<!ENTITY restorepage.remedies       "यदि &brandShortName; बार बार बंद होता है:">
+<!ENTITY restorepage.dueToChrome    "सहयुक्ति प्रबंधक में किसी हाल में जोड़े विस्तारों को निष्क्रिय करने की कोशिश करें.">
+<!ENTITY restorepage.dueToContent   "अपने सत्र की वापसी की कोशिश करें बिना किसी वेब पृष्ठों के जिसे आप क्रैश का कारण समझ रहे हैं:">
 
-<!ENTITY restorepage.restoreButton  "Restore Previous Session">
+<!ENTITY restorepage.restoreButton  "पिछला सत्र फिर वापस करें">
 <!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.cancelButton   "Start New Session">
+<!ENTITY restorepage.cancelButton   "नया सत्र शुरू करें">
 <!ENTITY restorepage.cancel.access  "S">
 
-<!ENTITY restorepage.restoreHeader  "Restore">
+<!ENTITY restorepage.restoreHeader  "फिर वापस करें">
 <!ENTITY restorepage.listHeader     "विंडोज व टैब">
 <!-- LOCALIZATION NOTE: %S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Window #&#37;S">
+<!ENTITY restorepage.windowLabel    "विंडो #&#37;S">

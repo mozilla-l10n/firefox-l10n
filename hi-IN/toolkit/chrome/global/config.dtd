@@ -58,6 +58,7 @@
 
 <!-- Context Menu -->
 <!ENTITY copyPref.key "C">
+<!ENTITY focusFilter.key "f">
 <!ENTITY copyPref.label "नक़ल लें">
 <!ENTITY copyPref.accesskey "C">
 <!ENTITY copyName.label "नाम की नक़ल लें">
