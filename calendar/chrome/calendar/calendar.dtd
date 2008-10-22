@@ -55,7 +55,6 @@
 
 <!ENTITY calendar.newtask.button.tooltip          "Aprašyti naują darbą" >
 <!ENTITY calendar.newevent.button.tooltip         "Aprašyti naują įvykį" >
-<!ENTITY calendar.delete.button.tooltip           "Pašalinti pažymėtą įvykį" >
 <!ENTITY calendar.edit.button.tooltip             "Taisyti pažymėtą įvykį" >
 
 <!ENTITY calendar.unifinder.todoitems.label           "Darbai" >
@@ -107,11 +106,7 @@
 
 <!ENTITY calendar.newtask.button.label          "Naujas darbas" >
 <!ENTITY calendar.newevent.button.label         "Naujas įvykis" >
-<!ENTITY calendar.delete.button.label           "Pašalinti" >
 <!ENTITY calendar.edit.button.label             "Taisyti" >
-
-
-<!ENTITY calendar.print.button.tooltip          "Spausdinti kalendorių" >
 
 <!ENTITY calendar.print.button.label            "Spausdinti" >
 
@@ -127,9 +122,6 @@
 <!ENTITY calendar.subscribe.button.label           "Prenumeruoti" >
 <!ENTITY calendar.publish.button.label             "Publikuoti" >
 <!ENTITY calendar.unifinder.button.label           "Rasti įvykius" >
-
-<!ENTITY calendar.remotereload.button.label   "Atšviežinti" >
-<!ENTITY calendar.remotereload.button.tooltip   "Įkelti iš naujo visus nutolusius kalendorius" >
 
 <!ENTITY calendar.day.button.label          "Diena" >
 <!ENTITY calendar.week.button.label         "Savaitė" >
@@ -178,7 +170,6 @@
 <!ENTITY calendar.task.category.button.tooltip  "Priskirti darbams tipus">
 <!ENTITY calendar.task.complete.button.tooltip  "Parinktus darbus pažymėti kaip užbaigtus">
 <!ENTITY calendar.task.priority.button.tooltip  "Keisti prioritetą">
-<!ENTITY calendar.task.delete.button.tooltip    "Pašalinti parinktą darbą">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Dokumentas baigtas">

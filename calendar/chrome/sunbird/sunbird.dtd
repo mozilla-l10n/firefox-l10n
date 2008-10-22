@@ -44,15 +44,20 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!ENTITY sunbird.choosedate.button.tooltip                 "Parinkite datą, kur eiti" >
 <!ENTITY sunbird.cut.button.tooltip                        "Iškirpti" >
 <!ENTITY sunbird.copy.button.tooltip                       "Kopijuoti" >
 <!ENTITY sunbird.paste.button.tooltip                      "Įdėti" >
+<!ENTITY sunbird.print.button.tooltip                      "Spausdinti kalendorių" >
+<!ENTITY sunbird.delete.button.tooltip                     "Pašalinti pažymėtą įvykį" >
+<!ENTITY sunbird.remotereload.button.tooltip               "Įkelti iš naujo visus nutolusius kalendorius" >
 
 <!ENTITY sunbird.choosedate.button.label                   "Parinkti datą" >
-<!ENTITY sunbird.choosedate.button.tooltip                 "Parinkite datą, kur eiti" >
 <!ENTITY sunbird.cut.button.label                          "Iškirpti" >
 <!ENTITY sunbird.copy.button.label                         "Kopijuoti" >
 <!ENTITY sunbird.paste.button.label                        "Įdėti" >
+<!ENTITY sunbird.delete.button.label                       "Pašalinti" >
+<!ENTITY sunbird.remotereload.button.label                 "Atšviežinti" >
 
 <!ENTITY sunbird.flat.topbar.choosedate                    "Eiti į datą…" >
 <!ENTITY sunbird.flat.topbar.dayview                       "Diena" >
