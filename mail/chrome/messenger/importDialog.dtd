@@ -49,7 +49,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDialog.mailTitle "Posta">
 <!ENTITY importDialog.addressbookTitle "Helbide-liburuak">
 <!ENTITY importDialog.settingsTitle "Ezarpenak">
-<!ENTITY importDialog.filtersTitle "Filters">
+<!ENTITY importDialog.filtersTitle "Iragazkiak">
 
 <!ENTITY window.width "40em">
 <!ENTITY window.macWidth "45em">
