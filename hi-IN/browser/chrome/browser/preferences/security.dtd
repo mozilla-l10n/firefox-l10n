@@ -9,11 +9,11 @@
   "known").
 -->
 
-<!ENTITY  tellMaybeAttackSite.accesskey "k">
-<!ENTITY  tellMaybeAttackSite2.label     "रिपोर्ट की गई हमला साइट रोकें">
+<!ENTITY  blockAttackSites.label     "रिपोर्ट की गई हमला साइट रोकें">
+<!ENTITY  blockAttackSites.accesskey "k">
 
-<!ENTITY  tellMaybeForgery2.label     "रिपोर्ट की गई वेब धोखाधड़ी रोकें">
-<!ENTITY  tellMaybeForgery.accesskey "T">
+<!ENTITY  blockWebForgeries.label     "रिपोर्ट की गई वेब धोखेबाज़ी रोकें">
+<!ENTITY  blockWebForgeries.accesskey "B">
 
 <!ENTITY  addonExceptions.label         "अपवाद…">
 <!ENTITY  addonExceptions.accesskey     "E">
