@@ -40,7 +40,7 @@
 <!ENTITY certmgr.tab.mine                     "మీ  దృవీకరణపత్రాలు">
 <!ENTITY certmgr.tab.ca                       "అధారిటీలు">
 
-<!ENTITY certmgr.ca.builtins                  "బుల్ట్‍-ఇన్  CAs">
+<!ENTITY certmgr.ca.builtins                  "బుల్టు ఇన్  CAs">
 <!ENTITY certmgr.ca.mycas                     "CAs మీ ద్వారా  నిర్వహించబడుతున్నాయి">
 
 <!ENTITY certmgr.mine                         "మిమ్ముల్ని  గుర్తించిన  ఈ వ్యవస్థల  నుండి  మీరు దృవీకరణపత్రాలను  కలిగివున్నారు:">
@@ -135,7 +135,7 @@
 <!ENTITY exceptionMgr.title                   "రక్షణ ఆక్షేపణను జతచేయుము">
 <!ENTITY exceptionMgr.exceptionButton         "రక్షణ ఆక్షేపణను నిర్ధారించుము">
 <!ENTITY exceptionMgr.exceptionButtonAccess   "C">
-<!ENTITY exceptionMgr.supplementalWarning     "చట్టబద్దమైన బ్యాంక్స్‍, దుకాణాలు, మరియు ఇతర పబ్లిక్ సైటులు ఇదిచేయమని మిమ్ములను అడగవు.">
+<!ENTITY exceptionMgr.supplementalWarning     "చట్టబద్దమైన బ్యాంకులు,   దుకాణాలు, మరియు ఇతర పబ్లిక్ సైటులు ఇదిచేయమని మిమ్ములను అడగవు.">
 <!ENTITY exceptionMgr.certlocation.caption2   "సేవిక">
 <!ENTITY exceptionMgr.certlocation.url        "స్థానము:">
 <!ENTITY exceptionMgr.certlocation.download   "దృవీకరణపత్రంను పొందుము">

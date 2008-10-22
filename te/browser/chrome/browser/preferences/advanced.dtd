@@ -46,16 +46,16 @@
 <!ENTITY autoCheck.label                 "స్వయంచాలకంగా నవీకరణల కొరకు పరిశీలించు:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate.label        "సంస్థాపించిన యాడ్-ఆన్స్‍‌">
+<!ENTITY enableAddonsUpdate.label        "సంస్థాపించిన యాడ్-ఆన్సు‌">
 <!ENTITY enableAddonsUpdate.accesskey    "n">
-<!ENTITY enableSearchUpdate.label        "శోధన ఇంజన్స్‍‌">
+<!ENTITY enableSearchUpdate.label        "శోధన ఇంజన్సు‌">
 <!ENTITY enableSearchUpdate.accesskey    "h">
 <!ENTITY whenUpdatesFound.label          "ఎప్పుడు  &brandShortName;కు నవీకరణలు కనపడినప్పుడు :">
 <!ENTITY askMe.label                     "నేను ఏమిచేయాలనుకుంటానో  నన్ను అడుగు">
 <!ENTITY askMe.accesskey                 "k">
 <!ENTITY modeAutomatic.label             "నవీకరణను స్వయంచాలకంగా  డౌనులోడుచేసి సంస్థాపనచేయి">
 <!ENTITY modeAutomatic.accesskey         "d">
-<!ENTITY modeAutoAddonWarn.label         "ఇది నాయాడ్-ఆన్స్‍‌ వేటినైనా అచేతనపరుస్తుంటే నన్నువారించు">
+<!ENTITY modeAutoAddonWarn.label         "ఇది నాయాడ్-ఆన్సు వేటినైనా అచేతనపరుస్తుంటే నన్నువారించు">
 <!ENTITY modeAutoAddonWarn.accesskey     "W">
 <!ENTITY updateHistory.label             "నవీకరణ చరిత్రను చూపించు">
 <!ENTITY updateHistory.accesskey         "p">
@@ -63,7 +63,7 @@
 
 <!ENTITY encryptionTab.label             "ఎన్క్రిప్షను">
 
-<!ENTITY protocols.label                 "ప్రొటోకాల్స్‍">
+<!ENTITY protocols.label                 "ప్రొటోకాల్సు">
 <!ENTITY useSSL3.label                   "SSL 3.0 ఉపయోగించు">
 <!ENTITY useSSL3.accesskey               "3">
 <!ENTITY useTLS1.label                   "TLS 1.0 ఉపయోగించు">

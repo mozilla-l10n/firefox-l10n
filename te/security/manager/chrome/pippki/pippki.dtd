@@ -125,9 +125,9 @@
 <!ENTITY createCertInfo.msg2 "దయచేసి  వేచివుండండి...">
 
 <!-- Form Signing confirmation prompt -->
-<!ENTITY formSigning.title "టెక్స్ట్‍  సైనింగ్  అభ్యర్దన">
+<!ENTITY formSigning.title "టెక్స్టు  సైనింగ్  అభ్యర్దన">
 <!ENTITY formSigning.cert "సైనింగ్  దృవీకరణపత్రం">
-<!ENTITY formSigning.confirmPassword "మీ  ఎంపికచేయబడిన  దృవీకరణపత్రం  ద్వారా  ఈ  టెక్స్ట్‍  సందేశం  సైనుచేయుటకు  ఆమోదిస్తున్నట్లు  నిశ్చయించుటకు, దయచేసి  ముఖ్య  సంకేతపదం  ప్రవేశపెట్టుట  ద్వారా  నిశ్చయించండి:">
+<!ENTITY formSigning.confirmPassword "మీ  ఎంపికచేయబడిన  దృవీకరణపత్రం  ద్వారా  ఈ  టెక్స్టు  సందేశం  సైనుచేయుటకు  ఆమోదిస్తున్నట్లు  నిశ్చయించుటకు, దయచేసి  ముఖ్య  సంకేతపదం  ప్రవేశపెట్టుట  ద్వారా  నిశ్చయించండి:">
 <!ENTITY protectedAuth.tokenName.label "టోకెన్:">
 <!ENTITY protectedAuth.msg "దయచేసి ఈటోకెన్‌కు దృవీకరించుము. దృవీకరణ విధానం మీటోకెన్‌యొక్క రకముపై  ఆధారపడుతుంది.">
 <!ENTITY protectedAuth.title "రక్షించబడిన టోకెన్ దృవీకరణ">

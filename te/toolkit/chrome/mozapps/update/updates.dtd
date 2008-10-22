@@ -64,4 +64,4 @@
 <!ENTITY  update.installedOn.label        "సంస్థాపించబడింది:">
 <!ENTITY  update.status.label             "స్థితి:">
 <!ENTITY  finishedBackground.textNotNow   "ఈ డైలాగ్‌ను మూసి పనికొనసాగించుటకు యిప్పుడుకాదు నొక్కండి. &brandShortName; తరువాతిసారి అది ప్రారంభమైనప్పుడు నవీకరణను సంస్థాపిస్తుంది.">
-<!ENTITY  incompatibleChecking.label      "ఈనవీకరణ మీపొడిగింపులు మరియు/లేదా థీమ్స్‍‌తో సమస్యలకు కారణమౌతుందేమో పరిశీలిస్తోంది…">
+<!ENTITY  incompatibleChecking.label      "ఈనవీకరణ మీపొడిగింపులు మరియు/లేదా థీమ్సుతో సమస్యలకు కారణమౌతుందేమో పరిశీలిస్తోంది…">

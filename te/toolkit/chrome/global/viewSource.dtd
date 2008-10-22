@@ -40,7 +40,7 @@
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY menu_wrapLongLines.title "పొడవైన పంక్తులను మలిచివుంచు"> 
 <!ENTITY menu_wrapLongLines.accesskey "W">
-<!ENTITY menu_highlightSyntax.label "సిన్టాక్స్‍  ఉద్దీపనంచేయు">
+<!ENTITY menu_highlightSyntax.label "సిన్టాక్సు ఉద్దీపనంచేయు">
 <!ENTITY menu_highlightSyntax.accesskey "H">
 <!ENTITY menu_textSize.label "అక్షరం  పరిమాణం">
 <!ENTITY menu_textSize.accesskey "Z">

@@ -44,7 +44,7 @@
 <!ENTITY moveResizeWindows.accesskey    "M">
 <!ENTITY raiseLowerWindows.label        "విండోలను పెంచు లేదా తగ్గించు">
 <!ENTITY raiseLowerWindows.accesskey    "R">
-<!ENTITY disableContextMenus.label      "కాంటెక్స్ట్‍మెనూలను అచేతనం లేదా పునఃస్థాపన చేయి">
+<!ENTITY disableContextMenus.label      "కాంటెక్స్టు మెనూలను అచేతనం లేదా పునఃస్థాపన చేయి">
 <!ENTITY disableContextMenus.accesskey  "D">
 <!ENTITY hideStatusBar.label            "స్థితిపట్టీను మరుగుపరచు">
 <!ENTITY hideStatusBar.accesskey        "H">

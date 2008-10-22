@@ -75,7 +75,7 @@
 <!ENTITY  mediaPreview          "మాధ్యమం ఉపదర్శనం:">
 <!ENTITY  securityView.identity.header   "వెబ్‌ సైటు  గుర్తింపు">
 <!ENTITY  securityView.identity.domain   "వెబ్ సైటు: ">
-<!ENTITY  feedTab               "ఫీడ్స్‍‌">
+<!ENTITY  feedTab               "ఫీడ్సు‌">
 <!ENTITY  permUseDefault        "అప్రమేయాన్ని  వుపయోగించు">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  mediaDimension        "కొలతలు:">
@@ -104,7 +104,7 @@
 <!ENTITY  permAllowSession      "ఈ సెషన్‌కు అనుమతించు">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 <!ENTITY  securityView.identity.verifier "దీనిద్వారా నిర్ధారించబడింది: ">
-<!ENTITY  permInstall           "పొడిగింపులు లేదా థీమ్స్‍‌ను సంస్థాపించు">
+<!ENTITY  permInstall           "పొడిగింపులు లేదా థీమ్సును సంస్థాపించు">
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  permPopup             "పాప్-అప్ విండోలను తెరువుము">
 <!ENTITY  securityView.privacy.passwords                "ఈ సైటుకొరకు నేను ఏమైనా సంకేతపదాలను భద్రపరిచానా?">

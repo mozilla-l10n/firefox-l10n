@@ -113,14 +113,14 @@
 <!ENTITY cmd.groupby_page.accesskey  "P">
 <!ENTITY cmd.groupby_feed.label      "సబ్‌స్క్రిప్షన్ అనుసరించి  సమూహంచేయి">
 <!ENTITY cmd.groupby_feed.accesskey  "S">
-<!ENTITY cmd.groupby_post.label      "పోస్ట్‍‌ననుసరించి సమూహంచేయి">
+<!ENTITY cmd.groupby_post.label      "పోస్టు  ‌ననుసరించి సమూహంచేయి">
 <!ENTITY cmd.groupby_post.accesskey  "P">
 
 <!ENTITY cmd.moveBookmarks.label                  "కదుపు…">
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
 
 <!ENTITY col.name.label          "నామము">
-<!ENTITY col.tags.label          "టాగ్స్‍‌">
+<!ENTITY col.tags.label          "టాగ్సు‌">
 <!ENTITY col.url.label           "స్థానము">
 <!ENTITY col.lastvisit.label     "తేదీ దర్శించు">
 <!ENTITY col.visitcount.label    "కౌంట్ దర్శించు">
@@ -143,7 +143,7 @@
 <!ENTITY search.scopeMenu.accesskey                "M">
 <!ENTITY search.scopeToolbar.label                 "ఇష్టాంశముల సాధనపట్టీ">
 <!ENTITY search.scopeToolbar.accesskey             "T">
-<!ENTITY search.scopeDownloads.label               "డౌన్‌లోడ్స్‍‌">
+<!ENTITY search.scopeDownloads.label               "డౌన్‌లోడ్సు‌">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "చరిత్ర">
 <!ENTITY search.scopeHistory.accesskey             "A">
@@ -173,7 +173,7 @@
 <!ENTITY advancedSearch.plus.label                 "+">
 <!ENTITY advancedSearch.minus.label                "-">
 <!ENTITY advancedSearch.groupby.label              "సమూహంగా: ">
-<!ENTITY advancedSearch.groupby_host.label         "హోస్ట్‍‌">
+<!ENTITY advancedSearch.groupby_host.label         "హోస్టు‌">
 <!ENTITY advancedSearch.groupby_domain.label       "డొమైన్">
 <!ENTITY advancedSearch.groupby_folder.label       "సంచయం">
 <!ENTITY advancedSearch.sortby.label               "దీనితో క్రమపరచు: ">
@@ -194,7 +194,7 @@
 <!ENTITY view.details.label        "వివరములు">
 <!ENTITY view.details.accesskey    "D">
 
-<!ENTITY view.addons.label   "యాడ్-ఆన్స్‍‌ను దర్శించు">
+<!ENTITY view.addons.label   "యాడ్-ఆన్సును దర్శించు">
 
 <!ENTITY maintenance.label      "దిగుమతిచేయి మరియు బ్యాక్అప్‌చేయి">
 <!ENTITY maintenance.accesskey  "I">

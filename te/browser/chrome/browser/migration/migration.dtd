@@ -5,9 +5,9 @@
 <!ENTITY importFromUnix.label           "అభీష్టాలు, ఇష్టాంశములు,చరిత్ర,సంకేతపదాలు మరియు యితరడాటాను  నుండి దిగుమతి చేయి:">
 <!ENTITY importFromBookmarks.label      "ఇష్టాంశములను నుండి దిగుమతిచేయి:">
 
-<!ENTITY importFromIE.label             "మైక్రోసాఫ్ట్‍‌ ఇంటర్నెట్‌ ఎక్స్‍‌ప్లోరర్">
+<!ENTITY importFromIE.label             "మైక్రోసాఫ్టు ‌ ఇంటర్నెట్‌ ఎక్సుప్లోరర్">
 <!ENTITY importFromIE.accesskey         "M">
-<!ENTITY importFromPhoenix.label        "ఫైర్‌ఫాక్స్‍‌ 0.8, ఫైర్‌బర్డ్‍‌ లేదా ఫినిక్స్‍‌">
+<!ENTITY importFromPhoenix.label        "ఫైర్‌ఫాక్సు0.8, ఫైర్‌బర్డు ‌ లేదా ఫినిక్సు‌">
 <!ENTITY importFromPhoenix.accesskey    "P">
 <!ENTITY importFromNothing.label        "దేనిని దిగుమతి చేయవద్దు">
 <!ENTITY importFromNothing.accesskey    "D">

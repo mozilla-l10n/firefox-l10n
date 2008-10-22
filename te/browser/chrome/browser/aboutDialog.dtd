@@ -1,7 +1,7 @@
 <!ENTITY aboutDialog.title      "&brandFullName; గురించి">
 <!ENTITY copyright              "Credits">
 <!ENTITY copyright.accesskey    "C">
-<!ENTITY aboutLink              "&lt; గురించి  &brandFullName;">
+<!ENTITY aboutLink              "&lt;  &brandFullName; గురించి ">
 <!ENTITY aboutLink.accesskey    "A">
-<!ENTITY aboutVersion           "వర్షన్">
-<!ENTITY copyrightInfo          "&#169;1998-2008 సహాయకులు. అన్ని హక్కులు పొందివున్నవి. ఫైర్‌ఫాక్స్‍‌ మరియు ఫైర్‌ఫాక్స్‍‌ చిహ్నాలు మొజిల్లా సంస్థయొక్క వ్యాపారగుర్తులు.  అన్ని హక్కులు పొందివున్నవి.">
+<!ENTITY aboutVersion           "వర్షను">
+<!ENTITY copyrightInfo          "&#169;1998-2008 సహాయకులు. అన్ని హక్కులు పొందివున్నవి. ఫైర్‌ఫాక్సు మరియు ఫైర్‌ఫాక్సు చిహ్నాలు మొజిల్లా సంస్థయొక్క వ్యాపారగుర్తులు.  అన్ని హక్కులు పొందివున్నవి.">

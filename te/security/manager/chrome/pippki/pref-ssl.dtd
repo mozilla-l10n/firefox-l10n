@@ -40,7 +40,7 @@
 <!ENTITY  SSLWarnings.caption               "SSL హెచ్చరికలు">
 <!ENTITY  SSLClientAuthMethod.caption       "కక్షిదారు  దృవీకరణపత్రం  ఎంపిక">
 
-<!ENTITY pref.ssl.title                     "సెక్యూర్  సాకెట్స్‍  లేయర్ (SSL)">
+<!ENTITY pref.ssl.title                     "సెక్యూర్  సాకెట్సులేయర్ (SSL)">
 <!ENTITY enable.ssl3                        "SSL వర్షన్ 3ను  చేతనంచేయండి">
 <!ENTITY enable.ssl3.accesskey              "3">
 <!ENTITY enable.tls                         "TLS చేతనం  చేయండి">

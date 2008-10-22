@@ -1,6 +1,6 @@
 <!ENTITY header.label     "సంక్షేప  శీర్షిక"> 
-<!ENTITY message.label    "కొంత  సధారణ ఫాఠ్యము  ఇక్కడకు  వెళ్తుంది.">
-<!ENTITY editfield0.label "వా‍డుకరి  నామము:"> 
+<!ENTITY message.label    "కొంత  సాధారణ పాఠ్యము  ఇక్కడకు  వెళ్తుంది.">
+<!ENTITY editfield0.label "వాడుకరి  నామము:"> 
 <!ENTITY editfield1.label "సంకేతపదం:"> 
 <!ENTITY editfield2.label "నిశ్చయించిన  సంకేతపదం:"> 
 <!ENTITY checkbox.label   "చెక్"> 

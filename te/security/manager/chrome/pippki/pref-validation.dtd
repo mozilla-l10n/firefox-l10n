@@ -76,7 +76,7 @@
 <!ENTITY serviceURL.accesskey                     "S">
 <!ENTITY signingCA.label                          "స్పందన  సైనర్:">
 <!ENTITY signingCA.accesskey                      "R">
-<!ENTITY  validation.crlmanager.description       "ఈ సర్టిఫికేట్ రీవొకేషన్ లిస్ట్స్‍‌ (CRL) సర్టిఫికేట్ డాటాబేస్‌నందు నిల్వవుంచబడతాయి:">
+<!ENTITY  validation.crlmanager.description       "ఈ సర్టిఫికేట్ రీవొకేషన్ లిస్ట్సు(CRL) సర్టిఫికేట్ డాటాబేస్‌నందు నిల్వవుంచబడతాయి:">
 <!ENTITY enableOCSP.label                         "సర్టిఫికేట్‌లయొక్క ప్రస్తుత నిర్ణీతకాలాన్ని నిర్ధారించుటకు ఆన్‌లైన్ సర్టిఫికేట్ స్టేటస్ ప్రొటోకాల్  (OCSPను ఉపయోగించు">
 <!ENTITY enableOCSP.accesskey                     "U">
 <!ENTITY certOCSP2.label                          "OCSP సేవికను తెలిపతే దృవీకరణపత్రంను పరీక్షించుము">

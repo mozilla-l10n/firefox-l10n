@@ -35,7 +35,7 @@
 <!ENTITY  noproxy.label                 "ఏ ప్రోక్సీ లేదు:">
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "ఉదాహరణ: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "అన్ని ప్రొటోకాల్స్‍‌కు ఈప్రోక్సీ సర్వరును వుపయోగించండి">
+<!ENTITY  shareproxy.label              "అన్ని ప్రొటోకాల్సుకు  ఈప్రోక్సీ సర్వరును వుపయోగించండి">
 <!ENTITY  shareproxy.accesskey          "x">
 <!ENTITY  noProxyTypeRadio.label        "ఏ ప్రోక్సీలేదు">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">

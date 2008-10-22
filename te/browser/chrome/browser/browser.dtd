@@ -110,11 +110,11 @@
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
-<!ENTITY addons.label                 "యాడ్-ఆన్స్‍‌">
-<!ENTITY addons.tooltip               "సంస్థాపించిన యాడ్-ఆన్స్‍‌ను చూపుము మరియు నిర్వహించుము">
+<!ENTITY addons.label                 "యాడ్-ఆన్సు‌">
+<!ENTITY addons.tooltip               "సంస్థాపించిన యాడ్-ఆన్సును చూపుము మరియు నిర్వహించుము">
 <!ENTITY addons.accesskey             "A">
 
-<!ENTITY errorConsoleCmd.label        "దోషాల కలనం">
+<!ENTITY errorConsoleCmd.label        "తప్పుల తెర">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 
 <!ENTITY fileMenu.label         "ఫైలు"> 

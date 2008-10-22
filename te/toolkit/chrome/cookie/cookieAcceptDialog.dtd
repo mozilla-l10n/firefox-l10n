@@ -1,6 +1,6 @@
 <!ENTITY     props.name.label               "నామము:">
 <!ENTITY     props.value.label              "విషయసంగ్రహము:">
-<!ENTITY     props.domain.label             "హోస్ట్‍:">
+<!ENTITY     props.domain.label             "హోస్టు:">
 <!ENTITY     props.path.label               "పాత్:">
 <!ENTITY     props.secure.label             "పంపినది  దీని కొరకు  :">
 <!ENTITY     props.expires.label            "కాలముతీరిన:">

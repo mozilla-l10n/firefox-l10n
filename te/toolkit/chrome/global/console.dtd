@@ -35,7 +35,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY errorConsole.title "దోష  కలనం">
+<!ENTITY errorConsole.title "తప్పుల తెర">
 
 <!ENTITY errFile.label   "మూలమైన  ఫైలు:">
 <!ENTITY errLine.label   "గీత:">
@@ -43,7 +43,7 @@
 
 <!ENTITY all.label          "అన్ని">
 <!ENTITY all.accesskey      "A">
-<!ENTITY errors.label       "దోషాలు">
+<!ENTITY errors.label       "తప్పులు">
 <!ENTITY errors.accesskey   "E">
 <!ENTITY warnings.label     "హెచ్చరికలు">
 <!ENTITY warnings.accesskey "W">
