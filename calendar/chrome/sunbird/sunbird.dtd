@@ -34,15 +34,20 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!ENTITY sunbird.choosedate.button.tooltip                 "Choose date to go to" >
 <!ENTITY sunbird.cut.button.tooltip                        "Cortar" >
 <!ENTITY sunbird.copy.button.tooltip                       "Copiar" >
 <!ENTITY sunbird.paste.button.tooltip                      "Pegar" >
+<!ENTITY calendar.print.button.tooltip          "Imprimir calendario" >
+<!ENTITY calendar.delete.button.tooltip           "Borrar evento seleccionado" >
+<!ENTITY calendar.remotereload.button.tooltip   "Recargar todos los calendarios remotos" >
 
 <!ENTITY sunbird.choosedate.button.label                   "Seleccionar día" >
-<!ENTITY sunbird.choosedate.button.tooltip                 "Choose date to go to" >
 <!ENTITY sunbird.cut.button.label                          "Cortar" >
 <!ENTITY sunbird.copy.button.label                         "Copiar" >
 <!ENTITY sunbird.paste.button.label                        "Pegar" >
+<!ENTITY calendar.delete.button.label           "Borrar" >
+<!ENTITY calendar.remotereload.button.label   "Recargar" >
 
 <!ENTITY sunbird.flat.topbar.choosedate       "Ir a fecha" >
 <!ENTITY sunbird.flat.topbar.dayview          "Vista por día" >
