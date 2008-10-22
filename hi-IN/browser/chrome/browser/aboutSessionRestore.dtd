@@ -11,6 +11,6 @@
 <!ENTITY restorepage.cancel.access  "S">
 
 <!ENTITY restorepage.restoreHeader  "Restore">
-<!ENTITY restorepage.listHeader     "Windows and Tabs">
+<!ENTITY restorepage.listHeader     "विंडोज व टैब">
 <!-- LOCALIZATION NOTE: %S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Window #&#37;S">
