@@ -42,7 +42,7 @@
 
 <!ENTITY newevent.from.label                "Fan" >
 <!ENTITY newevent.to.label                  "Oant" >
-<!ENTITY newevent.attendees.sendEmail.label "Utnoeging stjoere nei dielnimmers fia e-mail">
+<!ENTITY newevent.attendees.notify.label	"Dielnimmers ynljochtsje">
 
 <!ENTITY newevent.status.label              "Steat" >
 <!ENTITY newevent.status.accesskey          "S" >
