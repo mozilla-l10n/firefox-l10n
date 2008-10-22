@@ -34,15 +34,20 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!ENTITY sunbird.choosedate.button.tooltip     "Choisir la date à atteindre" >
 <!ENTITY sunbird.cut.button.tooltip            "Couper" >
 <!ENTITY sunbird.copy.button.tooltip           "Copier" >
 <!ENTITY sunbird.paste.button.tooltip          "Coller" >
+<!ENTITY sunbird.print.button.tooltip          "Imprimer l'agenda" >
+<!ENTITY sunbird.delete.button.tooltip         "Supprimer l'événement sélectionné" >
+<!ENTITY sunbird.remotereload.button.tooltip   "Actualiser tous les agendas distants" >
 
-<!ENTITY sunbird.choosedate.button.tooltip     "Choisir la date à atteindre" >
 <!ENTITY sunbird.choosedate.button.label       "Choisir une date" >
 <!ENTITY sunbird.cut.button.label              "Couper" >
 <!ENTITY sunbird.copy.button.label             "Copier" >
 <!ENTITY sunbird.paste.button.label            "Coller" >
+<!ENTITY sunbird.delete.button.label           "Supprimer" >
+<!ENTITY sunbird.remotereload.button.label     "Actualiser" >
 
 <!ENTITY sunbird.flat.topbar.choosedate        "Aller à la date" >
 <!ENTITY sunbird.flat.topbar.dayview           "Afficher la journée" >
