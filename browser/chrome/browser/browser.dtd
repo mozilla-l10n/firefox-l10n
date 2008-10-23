@@ -175,9 +175,9 @@
 <!ENTITY viewPageSourceCmd.accesskey "u">
 <!ENTITY viewFrameSourceCmd.label "Visualizza sorgente riquadro">
 <!ENTITY viewFrameSourceCmd.accesskey "o">
-<!ENTITY viewPageInfoCmd.label "Visualizza info pagina">
+<!ENTITY viewPageInfoCmd.label "Visualizza informazioni pagina">
 <!ENTITY viewPageInfoCmd.accesskey "f">
-<!ENTITY viewFrameInfoCmd.label "Visualizza info riquadro">
+<!ENTITY viewFrameInfoCmd.label "Visualizza informazioni riquadro">
 <!ENTITY viewFrameInfoCmd.accesskey "n">
 <!ENTITY showImageCmd.label "Mostra immagine">
 <!ENTITY showImageCmd.accesskey "M">
