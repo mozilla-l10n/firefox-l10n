@@ -276,8 +276,16 @@
 <!ENTITY sendLinkCmd.accesskey "d">
 <!ENTITY saveImageCmd.label "Vista mynd sem…">
 <!ENTITY saveImageCmd.accesskey "V">
+<!ENTITY saveVideoCmd.label "Vista myndband sem…">
+<!ENTITY saveVideoCmd.accesskey "v">
+<!ENTITY saveAudioCmd.label "Vista hljóð sem…">
+<!ENTITY saveAudioCmd.accesskey "v">
 <!ENTITY sendImageCmd.label "Senda mynd…">
 <!ENTITY sendImageCmd.accesskey "m">
+<!ENTITY sendVideoCmd.label "Senda myndband…">
+<!ENTITY sendVideoCmd.accesskey "n">
+<!ENTITY sendAudioCmd.label "Senda hljóð…">
+<!ENTITY sendAudioCmd.accesskey "n">
 <!ENTITY copyLinkCmd.label "Afrita tengil">
 <!ENTITY copyLinkCmd.accesskey "A">
 <!ENTITY copyLinkTextCmd.label "Afrita texta tengils">
@@ -287,6 +295,10 @@
 <!ENTITY copyImageContentsCmd.label "Afrita mynd">
 <!ENTITY copyImageContentsCmd.accesskey "y">
  
+<!ENTITY copyVideoURLCmd.label "Afrita myndbandatengil">
+<!ENTITY copyVideoURLCmd.accesskey "m">
+<!ENTITY copyAudioURLCmd.label "Afrita hljóðtengil">
+<!ENTITY copyAudioURLCmd.accesskey "h">
 <!ENTITY blockImageCmd.accesskey "m">
 <!ENTITY metadataCmd.label "Eiginleikar">
 <!ENTITY metadataCmd.accesskey "E">
@@ -294,6 +306,19 @@
 <!ENTITY copyEmailCmd.accesskey "p">
 <!ENTITY thisFrameMenu.label "Þessi rammi">
 <!ENTITY thisFrameMenu.accesskey "r">
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label "Spila">
+<!ENTITY mediaPlay.accesskey "P">
+<!ENTITY mediaPause.label "Í bið">
+<!ENTITY mediaPause.accesskey "b">
+<!ENTITY mediaMute.label "Hljóðdeyfa">
+<!ENTITY mediaMute.accesskey "H">
+<!ENTITY mediaUnmute.label "Virkja hljóð">
+<!ENTITY mediaUnmute.accesskey "h">
+<!ENTITY mediaShowControls.label "Sýna stjórntæki">
+<!ENTITY mediaShowControls.accesskey "S">
+<!ENTITY mediaHideControls.label "Fela stjórntæki">
+<!ENTITY mediaHideControls.accesskey "S">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.

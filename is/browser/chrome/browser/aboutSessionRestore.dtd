@@ -1,0 +1,14 @@
+<!ENTITY restorepage.title "Sækja fyrri lotu">
+<!ENTITY restorepage.titletext "Seinasta &brandShortName; lotan lokaðist óvænt">
+<!ENTITY restorepage.shortDesc "Þú getur endurheimt flipa og glugga frá fyrri lotu, eða byrjað nýja lotu ef þú þarfnast þeirra ekki lengur. Við biðjumst afskökunar á óþægindinum.">
+<!ENTITY restorepage.remedies "Ef &brandShortName; lokar í sífellu:">
+<!ENTITY restorepage.dueToChrome "Prufaðu að gera nýlegar viðbætur óvirkar í viðbótarglugganum.">
+<!ENTITY restorepage.dueToContent "Prufaðu að endurheimta lotuna aftur án síðnana sem þú telur að gætu verið að valda vandræðum:">
+<!ENTITY restorepage.restoreButton "Sækja fyrri lotu">
+<!ENTITY restorepage.restore.access "S">
+<!ENTITY restorepage.cancelButton "Hefja nýja lotu">
+<!ENTITY restorepage.cancel.access "H">
+<!ENTITY restorepage.restoreHeader "Endurheimta">
+<!ENTITY restorepage.listHeader "Gluggar og flipar">
+<!-- LOCALIZATION NOTE: %S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel "Gluggi #&#37;S">
