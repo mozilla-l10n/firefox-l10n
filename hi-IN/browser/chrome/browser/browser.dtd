@@ -67,6 +67,37 @@
 <!ENTITY organizeBookmarks.label "पुस्तचिह्न व्यवस्थित करें…">
 <!ENTITY bookmarkAllCmd.label "सभी टैब पुस्तचिह्नित करें…">
 
+<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "ऑडियो स्थान की नक़ल लें">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyVideoURLCmd.label        "वीडियो स्थान की नक़ल लें">
+
+<!ENTITY saveVideoCmd.label           "ऐसे वीडियो सहेजें…">
+<!ENTITY saveVideoCmd.accesskey       "v">
+<!ENTITY saveAudioCmd.label           "ऐसे ऑडियो सहेजें…">
+<!ENTITY saveAudioCmd.accesskey       "v">
+
+<!ENTITY sendVideoCmd.label           "वीडियो भेजें…">
+<!ENTITY sendVideoCmd.accesskey       "n">
+<!ENTITY sendAudioCmd.label           "ऑडियो भेजें…">
+<!ENTITY sendAudioCmd.accesskey       "n">
+
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "बजाएँ">
+<!ENTITY mediaPlay.accesskey         "P">
+<!ENTITY mediaPause.label            "ठहरें">
+<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaMute.label             "मौन">
+<!ENTITY mediaMute.accesskey         "M">
+<!ENTITY mediaUnmute.label           "मौन समाप्त करें">
+<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaShowControls.label     "नियंत्रण दिखाएँ">
+<!ENTITY mediaShowControls.accesskey "C">
+<!ENTITY mediaHideControls.label     "नियंत्रण छिपाएँ">
+<!ENTITY mediaHideControls.accesskey "C">
+
+
 <!ENTITY backCmd.label                "पीछे">
 <!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "एक पृष्ठ पीछे जाएँ">
