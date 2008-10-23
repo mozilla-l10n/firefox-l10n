@@ -34,14 +34,19 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!ENTITY sunbird.choosedate.button.tooltip "Elija a qué fecha ir">
 <!ENTITY sunbird.cut.button.tooltip "Cortar">
 <!ENTITY sunbird.copy.button.tooltip "Copiar">
 <!ENTITY sunbird.paste.button.tooltip "Pegar">
+<!ENTITY sunbird.print.button.tooltip "Imprimir calendario">
+<!ENTITY sunbird.delete.button.tooltip "Eliminar evento seleccionado">
+<!ENTITY sunbird.remotereload.button.tooltip "Recargar todos los calendarios remotos">
 <!ENTITY sunbird.choosedate.button.label "Elegir fecha">
-<!ENTITY sunbird.choosedate.button.tooltip "Elija a qué fecha ir">
 <!ENTITY sunbird.cut.button.label "Cortar">
 <!ENTITY sunbird.copy.button.label "Copiar">
 <!ENTITY sunbird.paste.button.label "Pegar">
+<!ENTITY sunbird.delete.button.label "Eliminar">
+<!ENTITY sunbird.remotereload.button.label "Recargar">
 <!ENTITY sunbird.flat.topbar.choosedate "Ir a fecha">
 <!ENTITY sunbird.flat.topbar.dayview "Vista diaria">
 <!ENTITY sunbird.flat.topbar.weekview "Vista semanal">
