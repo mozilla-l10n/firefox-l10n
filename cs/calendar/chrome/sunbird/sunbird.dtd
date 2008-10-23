@@ -34,15 +34,20 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!ENTITY sunbird.choosedate.button.tooltip "Vybere datum k přejití">
 <!ENTITY sunbird.cut.button.tooltip "Vyjmout">
 <!ENTITY sunbird.copy.button.tooltip "Kopírovat">
 <!ENTITY sunbird.paste.button.tooltip "Vložit">
+<!ENTITY sunbird.print.button.tooltip "Vytisknout kalendář">
+<!ENTITY sunbird.delete.button.tooltip "Vymaže vybranou událost">
+<!ENTITY sunbird.remotereload.button.tooltip "Aktualizuje všechny vzdálené kalendáře">
 
-<!ENTITY sunbird.choosedate.button.tooltip "Vybere datum k přejití">
 <!ENTITY sunbird.choosedate.button.label "Vybrat datum">
 <!ENTITY sunbird.cut.button.label "Vyjmout">
 <!ENTITY sunbird.copy.button.label "Kopírovat">
 <!ENTITY sunbird.paste.button.label "Vložit">
+<!ENTITY sunbird.delete.button.label "Smazat">
+<!ENTITY sunbird.remotereload.button.label "Aktualizace">
 
 <!ENTITY sunbird.flat.topbar.choosedate "Přejít na datum">
 <!ENTITY sunbird.flat.topbar.dayview "Denní pohled">

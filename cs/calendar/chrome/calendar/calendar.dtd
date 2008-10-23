@@ -53,7 +53,6 @@
 
 <!ENTITY calendar.newtask.button.tooltip "Vytvoří nový úkol">
 <!ENTITY calendar.newevent.button.tooltip "Vytvoří novou událost">
-<!ENTITY calendar.delete.button.tooltip "Vymaže vybranou událost">
 <!ENTITY calendar.edit.button.tooltip "Upraví vybranou událost">
 
 <!ENTITY calendar.unifinder.todoitems.label "Úkoly">
@@ -105,12 +104,7 @@
 
 <!ENTITY calendar.newtask.button.label "Nový úkol">
 <!ENTITY calendar.newevent.button.label "Nová událost">
-<!ENTITY calendar.delete.button.label "Smazat">
 <!ENTITY calendar.edit.button.label "Upravit">
-
-
-<!ENTITY calendar.print.button.tooltip "Vytisknout kalendář">
-
 <!ENTITY calendar.print.button.label "Tisk">
 
 <!ENTITY calendar.import.button.tooltip "Import: Importovat události z místního souboru.">
@@ -125,9 +119,6 @@
 <!ENTITY calendar.subscribe.button.label "Odebírání">
 <!ENTITY calendar.publish.button.label "Publikování">
 <!ENTITY calendar.unifinder.button.label "Najít události" >
-
-<!ENTITY calendar.remotereload.button.label "Aktualizace">
-<!ENTITY calendar.remotereload.button.tooltip "Aktualizuje všechny vzdálené kalendáře">
 
 <!ENTITY calendar.day.button.label "Den">
 <!ENTITY calendar.week.button.label "Týden">
@@ -176,7 +167,6 @@
 <!ENTITY calendar.task.category.button.tooltip "Přiřadí úkolu kategorii">
 <!ENTITY calendar.task.complete.button.tooltip "Označí úkol za dokončený">
 <!ENTITY calendar.task.priority.button.tooltip "Změní prioritu úkolu">
-<!ENTITY calendar.task.delete.button.tooltip "Smaže zvolený úkol">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "Dokument: Hotovo">
