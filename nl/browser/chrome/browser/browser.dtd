@@ -264,8 +264,16 @@
 <!ENTITY sendLinkCmd.accesskey        "u">
 <!ENTITY saveImageCmd.label           "Afbeelding opslaan als…">
 <!ENTITY saveImageCmd.accesskey       "n">
+<!ENTITY saveVideoCmd.label           "Video opslaan als…">
+<!ENTITY saveVideoCmd.accesskey       "v">
+<!ENTITY saveAudioCmd.label           "Audio opslaan als…">
+<!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY sendImageCmd.label           "Afbeelding versturen…">
 <!ENTITY sendImageCmd.accesskey       "s">
+<!ENTITY sendVideoCmd.label           "Video versturen…">
+<!ENTITY sendVideoCmd.accesskey       "n">
+<!ENTITY sendAudioCmd.label           "Audio versturen…">
+<!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label            "Koppelingslocatie kopiëren">
 <!ENTITY copyLinkCmd.accesskey        "p">
 <!ENTITY copyLinkTextCmd.label        "Koppelingstekst kopiëren">
@@ -274,13 +282,31 @@
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Afbeelding kopiëren">
 <!ENTITY copyImageContentsCmd.accesskey  "k">
-<!ENTITY blockImageCmd.accesskey       "b">
+<!ENTITY copyVideoURLCmd.label        "Videolocatie kopiëren">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Audiolocatie kopiëren">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY blockImageCmd.accesskey      "b">
 <!ENTITY metadataCmd.label            "Eigenschappen">
 <!ENTITY metadataCmd.accesskey        "E">
 <!ENTITY copyEmailCmd.label           "E-mailadres kopiëren">
 <!ENTITY copyEmailCmd.accesskey       "m">
 <!ENTITY thisFrameMenu.label              "Dit deelvenster">
 <!ENTITY thisFrameMenu.accesskey          "D">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "Spelen">
+<!ENTITY mediaPlay.accesskey         "s">
+<!ENTITY mediaPause.label            "Pause">
+<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaMute.label             "Mute">
+<!ENTITY mediaMute.accesskey         "M">
+<!ENTITY mediaUnmute.label           "Unmute">
+<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaShowControls.label     "Bediening tonen">
+<!ENTITY mediaShowControls.accesskey "C">
+<!ENTITY mediaHideControls.label     "Bediening verbergen">
+<!ENTITY mediaHideControls.accesskey "C">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
