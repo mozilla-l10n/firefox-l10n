@@ -9,7 +9,6 @@
 <!ENTITY sendHTML.accesskey           "H">
 <!ENTITY sendBoth.label               "Bericht als platte tekst en HTML verzenden">
 <!ENTITY sendBoth.accesskey           "e">
-<!ENTITY receiveHTML.label            "Als u weet dat een bepaalde ontvanger HTML-mail kan ontvangen, vink dan ‘E-mail versturen als platte tekst (geen HTML)’ uit op de adresboekkaart van de ontvanger.">
 <!ENTITY override.label               "Noot: gebruik het adresboek om gewenste tekstopmaak voor ontvangers te specificeren.">
 
 <!ENTITY domaindesc.label             "Wanneer u een bericht stuurt naar een adres met een van de onderstaande domeinnamen, zal &brandShortName; het bericht automatisch in de juiste opmaak verzenden.">
@@ -20,22 +19,13 @@
 <!ENTITY AddHtmlDomain.label          "Toevoegen…">
 <!ENTITY AddHtmlDomain.accesskey      "T">
 <!ENTITY AddPlainText.label           "Toevoegen…">
-<!ENTITY AddPlainText.accesskey       "o">
+<!ENTITY AddPlainText.accesskey       "T">
 <!ENTITY DeleteHtmlDomain.label       "Verwijderen">
 <!ENTITY DeleteHtmlDomain.accesskey   "V">
 <!ENTITY DeletePlainText.label        "Verwijderen">
-<!ENTITY DeletePlainText.accesskey    "w">
+<!ENTITY DeletePlainText.accesskey    "V">
 
 <!ENTITY add.htmltitle                "Een HTML-domeinnaam toevoegen">
 <!ENTITY add.htmldomain               "HTML-domeinnaam:">
-<!ENTITY add.htmldomain.accesskey     "d">
 <!ENTITY add.plaintexttitle           "Een plattetekstdomeinnaam toevoegen">
 <!ENTITY add.plaintextdomain          "Plattetekstdomeinnaam:">
-<!ENTITY add.plaintext.accesskey      "d">
-
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY domainnameError.title        "Domeinnaamfout">
-<!ENTITY duplicationError.label       "De domeinnaam @string@ bestaat al in deze lijst">
-
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY dualEntryError.label         "Een domeinnaam kan niet voorkomen in beide opmaaklijsten. De domeinnaam @string@ bestaat al.">
