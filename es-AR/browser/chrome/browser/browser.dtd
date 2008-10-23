@@ -222,6 +222,8 @@
 <!ENTITY reloadFrameCmd.accesskey "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Ver fuente de la selección">
 <!ENTITY viewPartialSourceForMathMLCmd.label "Ver fuente MathML">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label "Ver código fuente">
 <!ENTITY viewPageSourceCmd.accesskey "V">
@@ -262,8 +264,16 @@
 <!ENTITY sendLinkCmd.accesskey "v">
 <!ENTITY saveImageCmd.label "Guardar imagen como…">
 <!ENTITY saveImageCmd.accesskey "u">
+<!ENTITY saveVideoCmd.label           "Guardar video como…">
+<!ENTITY saveVideoCmd.accesskey       "u">
+<!ENTITY saveAudioCmd.label           "Guardar audio como…">
+<!ENTITY saveAudioCmd.accesskey       "u">
 <!ENTITY sendImageCmd.label "Enviar imagen…">
 <!ENTITY sendImageCmd.accesskey "n">
+<!ENTITY sendVideoCmd.label           "Enviar video…">
+<!ENTITY sendVideoCmd.accesskey       "n">
+<!ENTITY sendAudioCmd.label           "Enviar audio…">
+<!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label "Copiar dirección del enlace">
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY copyLinkTextCmd.label        "Copiar texto del enlace">
@@ -272,6 +282,10 @@
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyImageContentsCmd.label "Copiar imagen">
 <!ENTITY copyImageContentsCmd.accesskey "i">
+<!ENTITY copyVideoURLCmd.label        "Copiar dirección del video">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Copiar dirección del audio">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY blockImageCmd.accesskey "n">
 <!ENTITY metadataCmd.label "Propiedades">
 <!ENTITY metadataCmd.accesskey "P">
@@ -279,6 +293,21 @@
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY thisFrameMenu.label "Este marco">
 <!ENTITY thisFrameMenu.accesskey "c">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "Reproducir">
+<!ENTITY mediaPlay.accesskey         "p">
+<!ENTITY mediaPause.label            "Pausa">
+<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaMute.label             "Mudo">
+<!ENTITY mediaMute.accesskey         "M">
+<!ENTITY mediaUnmute.label           "Unmute">
+<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaShowControls.label     "Mostrar controles">
+<!ENTITY mediaShowControls.accesskey "c">
+<!ENTITY mediaHideControls.label     "Ocultar controles">
+<!ENTITY mediaHideControls.accesskey "c">
+
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
