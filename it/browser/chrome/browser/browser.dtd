@@ -209,8 +209,16 @@
 <!ENTITY sendLinkCmd.accesskey "I">
 <!ENTITY saveImageCmd.label "Salva immagine con nome…">
 <!ENTITY saveImageCmd.accesskey "e">
+<!ENTITY saveVideoCmd.label "Salva video come…">
+<!ENTITY saveVideoCmd.accesskey "v">
+<!ENTITY saveAudioCmd.label "Salva audio come…">
+<!ENTITY saveAudioCmd.accesskey "v">
 <!ENTITY sendImageCmd.label "Invia immagine…">
 <!ENTITY sendImageCmd.accesskey "n">
+<!ENTITY sendVideoCmd.label "Invia video…">
+<!ENTITY sendVideoCmd.accesskey "n">
+<!ENTITY sendAudioCmd.label "Invia audio…">
+<!ENTITY sendAudioCmd.accesskey "n">
 <!ENTITY copyLinkCmd.label "Copia indirizzo">
 <!ENTITY copyLinkCmd.accesskey "z">
 <!ENTITY copyLinkTextCmd.label "Copia testo del link">
@@ -219,6 +227,10 @@
 <!ENTITY copyImageCmd.accesskey "m">
 <!ENTITY copyImageContentsCmd.label "Copia immagine">
 <!ENTITY copyImageContentsCmd.accesskey "o">
+<!ENTITY copyVideoURLCmd.label "Copia indirizzo video">
+<!ENTITY copyVideoURLCmd.accesskey "o">
+<!ENTITY copyAudioURLCmd.label "Copia indirizzo audio">
+<!ENTITY copyAudioURLCmd.accesskey "o">
 <!ENTITY blockImageCmd.accesskey "B">
 <!ENTITY metadataCmd.label "Proprietà">
 <!ENTITY metadataCmd.accesskey "P">
@@ -226,6 +238,18 @@
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY thisFrameMenu.label "Questo riquadro">
 <!ENTITY thisFrameMenu.accesskey "Q">
+<!ENTITY mediaPlay.label "Riproduci">
+<!ENTITY mediaPlay.accesskey "R">
+<!ENTITY mediaPause.label "Pausa">
+<!ENTITY mediaPause.accesskey "P">
+<!ENTITY mediaMute.label "Disattiva audio">
+<!ENTITY mediaMute.accesskey "D">
+<!ENTITY mediaUnmute.label "Attiva audio">
+<!ENTITY mediaUnmute.accesskey "A">
+<!ENTITY mediaShowControls.label "Mostra controlli">
+<!ENTITY mediaShowControls.accesskey "c">
+<!ENTITY mediaHideControls.label "Nascondi controlli">
+<!ENTITY mediaHideControls.accesskey "c">
 <!ENTITY fullZoomEnlargeCmd.label "Aumenta zoom">
 <!ENTITY fullZoomEnlargeCmd.accesskey "u">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
