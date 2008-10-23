@@ -266,6 +266,16 @@
 <!ENTITY saveImageCmd.accesskey       "s">
 <!ENTITY sendImageCmd.label           "Envoyer l'image…">
 <!ENTITY sendImageCmd.accesskey       "v">
+<!ENTITY saveVideoCmd.label           "Enregistrer la vidéo sous…">
+<!ENTITY saveVideoCmd.accesskey       "s">
+<!ENTITY saveAudioCmd.label           "Enregistrer le fichier audio sous…">
+<!ENTITY saveAudioCmd.accesskey       "s">
+<!ENTITY sendImageCmd.label           "Envoyer l'image…">
+<!ENTITY sendImageCmd.accesskey       "v">
+<!ENTITY sendVideoCmd.label           "Envoyer la vidéo…">
+<!ENTITY sendVideoCmd.accesskey       "v">
+<!ENTITY sendAudioCmd.label           "Envoyer le fichier audio…">
+<!ENTITY sendAudioCmd.accesskey       "v">
 <!ENTITY copyLinkCmd.label            "Copier l'adresse du lien">
 <!ENTITY copyLinkCmd.accesskey        "C">
 <!ENTITY copyLinkTextCmd.label        "Copier le texte du lien">
@@ -274,13 +284,31 @@
 <!ENTITY copyImageCmd.accesskey       "r">
 <!ENTITY copyImageContentsCmd.label   "Copier l'image">
 <!ENTITY copyImageContentsCmd.accesskey  "a">
-<!ENTITY blockImageCmd.accesskey       "g">
+<!ENTITY copyVideoURLCmd.label        "Copier l'URL de la vidéo">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Copier l'URL du fichier audio">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY blockImageCmd.accesskey      "g">
 <!ENTITY metadataCmd.label            "Propriétés">
 <!ENTITY metadataCmd.accesskey        "P">
 <!ENTITY copyEmailCmd.label           "Copier l'adresse e-mail">
 <!ENTITY copyEmailCmd.accesskey       "E">
-<!ENTITY thisFrameMenu.label              "Ce cadre">
-<!ENTITY thisFrameMenu.accesskey          "d">
+<!ENTITY thisFrameMenu.label          "Ce cadre">
+<!ENTITY thisFrameMenu.accesskey      "d">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "Lire">
+<!ENTITY mediaPlay.accesskey         "L">
+<!ENTITY mediaPause.label            "Pause">
+<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaMute.label             "Muet">
+<!ENTITY mediaMute.accesskey         "u">
+<!ENTITY mediaUnmute.label           "Audible">
+<!ENTITY mediaUnmute.accesskey       "A">
+<!ENTITY mediaShowControls.label     "Afficher les contrôles">
+<!ENTITY mediaShowControls.accesskey "c">
+<!ENTITY mediaHideControls.label     "Masquer les contrôles">
+<!ENTITY mediaHideControls.accesskey "M">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
