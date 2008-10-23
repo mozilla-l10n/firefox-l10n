@@ -702,8 +702,8 @@
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "מ">
 <!ENTITY minimizeWindow.label "מזער">
-<!ENTITY bringAllToFront.label "הבא הכל לקידמה">
-<!ENTITY zoomWindow.label "הגדל">
+<!ENTITY bringAllToFront.label "העבר הכל לחזית">
+<!ENTITY zoomWindow.label "הגדל חלון">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac.label        "העדפות…">
