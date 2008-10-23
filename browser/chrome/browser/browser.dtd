@@ -293,9 +293,17 @@
 <!ENTITY sendLinkCmd.label            "Išsiųsti saitą…"> 
 <!ENTITY sendLinkCmd.accesskey        "ų">
 <!ENTITY saveImageCmd.label           "Įrašyti paveikslą kaip…">
-<!ENTITY saveImageCmd.accesskey       "v">
+<!ENTITY saveImageCmd.accesskey       "r">
+<!ENTITY saveVideoCmd.label           "Įrašyti vaizdą kaip…">
+<!ENTITY saveVideoCmd.accesskey       "r">
+<!ENTITY saveAudioCmd.label           "Įrašyti garsą kaip…">
+<!ENTITY saveAudioCmd.accesskey       "r">
 <!ENTITY sendImageCmd.label           "Išsiųsti paveikslą…">
-<!ENTITY sendImageCmd.accesskey       "e">
+<!ENTITY sendImageCmd.accesskey       "s">
+<!ENTITY sendVideoCmd.label           "Išsiųsti vaizdą…">
+<!ENTITY sendVideoCmd.accesskey       "s">
+<!ENTITY sendAudioCmd.label           "Išsiųsti garsą…">
+<!ENTITY sendAudioCmd.accesskey       "s">
 <!ENTITY copyLinkCmd.label            "Kopijuoti saito adresą">
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyLinkTextCmd.label        "Kopijuoti saito tekstą">
@@ -304,13 +312,31 @@
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Kopijuoti paveikslą">
 <!ENTITY copyImageContentsCmd.accesskey  "p"> 
+<!ENTITY copyVideoURLCmd.label        "Kopijuoti vaizdo adresą">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Kopijuoti garso adresą">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY blockImageCmd.accesskey       "N">
 <!ENTITY metadataCmd.label            "Savybės">
-<!ENTITY metadataCmd.accesskey        "S">
+<!ENTITY metadataCmd.accesskey        "v">
 <!ENTITY copyEmailCmd.label           "Kopijuoti el. pašto adresą">
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Kadras">
 <!ENTITY thisFrameMenu.accesskey          "K">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "Groti">
+<!ENTITY mediaPlay.accesskey         "G">
+<!ENTITY mediaPause.label            "Pristabdyti">
+<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaMute.label             "Išjungti garsą">
+<!ENTITY mediaMute.accesskey         "r">
+<!ENTITY mediaUnmute.label           "Įjungti garsą">
+<!ENTITY mediaUnmute.accesskey       "r">
+<!ENTITY mediaShowControls.label     "Rodyti mygtukus">
+<!ENTITY mediaShowControls.accesskey "m">
+<!ENTITY mediaHideControls.label     "Nerodyti mygtukų">
+<!ENTITY mediaHideControls.accesskey "m">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
