@@ -50,7 +50,6 @@
 <!ENTITY calendar.monthView.key "4">
 <!ENTITY calendar.newtask.button.tooltip "Crear una tarea nueva">
 <!ENTITY calendar.newevent.button.tooltip "Crear un nuevo evento en el calendario">
-<!ENTITY calendar.delete.button.tooltip "Borrar el evento seleccionado">
 <!ENTITY calendar.edit.button.tooltip "Editar el evento seleccionado">
 <!ENTITY calendar.unifinder.todoitems.label "Tareas">
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Mostrar tareas completadas">
@@ -94,9 +93,7 @@
 <!ENTITY calendar.prevmonth.button.tooltip "Mes anterior">
 <!ENTITY calendar.newtask.button.label "Nueva tarea">
 <!ENTITY calendar.newevent.button.label "Nuevo evento">
-<!ENTITY calendar.delete.button.label "Eliminar">
 <!ENTITY calendar.edit.button.label "Editar">
-<!ENTITY calendar.print.button.tooltip "Imprimir calendario">
 <!ENTITY calendar.print.button.label "Imprimir">
 <!ENTITY calendar.import.button.tooltip "Importar eventos de un archivo local">
 <!ENTITY calendar.export.button.tooltip "Exportar eventos a un archivo local">
@@ -108,8 +105,6 @@
 <!ENTITY calendar.subscribe.button.label "Suscribirse">
 <!ENTITY calendar.publish.button.label "Publicar">
 <!ENTITY calendar.unifinder.button.label "Buscar eventos">
-<!ENTITY calendar.remotereload.button.label "Recargar">
-<!ENTITY calendar.remotereload.button.tooltip "Recargar todos los calendarios remotos">
 <!ENTITY calendar.day.button.label "Día">
 <!ENTITY calendar.week.button.label "Semana">
 <!ENTITY calendar.month.button.label "Mes">
@@ -151,7 +146,6 @@
 <!ENTITY calendar.task.category.button.tooltip "Categorizar tareas">
 <!ENTITY calendar.task.complete.button.tooltip "Marcar tareas seleccionadas como completadas">
 <!ENTITY calendar.task.priority.button.tooltip "Cambiar la prioridad">
-<!ENTITY calendar.task.delete.button.tooltip "Eliminar la tarea seleccionada">
 <!ENTITY statusText.label "Documento: finalizado">
 <!ENTITY calendar.context.modifyorviewitem.label "Abrir">
 <!ENTITY calendar.context.modifyorviewitem.accesskey "A">
