@@ -222,6 +222,8 @@
 <!ENTITY reloadFrameCmd.accesskey "C">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Ver código fonte da selecção">
 <!ENTITY viewPartialSourceForMathMLCmd.label "Ver código fonte MathML">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label "Ver código fonte da página">
 <!ENTITY viewPageSourceCmd.accesskey "O">
@@ -262,8 +264,16 @@
 <!ENTITY sendLinkCmd.accesskey "v">
 <!ENTITY saveImageCmd.label "Guardar imagem como...">
 <!ENTITY saveImageCmd.accesskey "g">
+<!ENTITY saveVideoCmd.label           "Guardar vídeo como...">
+<!ENTITY saveVideoCmd.accesskey       "g">
+<!ENTITY saveAudioCmd.label           "Guardar áudio como...">
+<!ENTITY saveAudioCmd.accesskey       "g">
 <!ENTITY sendImageCmd.label "Enviar imagem...">
 <!ENTITY sendImageCmd.accesskey "e">
+<!ENTITY sendVideoCmd.label           "Enviar vídeo...">
+<!ENTITY sendVideoCmd.accesskey       "e">
+<!ENTITY sendAudioCmd.label           "Enviar  aúdio…">
+<!ENTITY sendAudioCmd.accesskey       "e">
 <!ENTITY copyLinkCmd.label "Copiar endereço da ligação">
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY copyLinkTextCmd.label        "Copiar Ligação do Texto">
@@ -272,6 +282,10 @@
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyImageContentsCmd.label "Copiar a imagem">
 <!ENTITY copyImageContentsCmd.accesskey "i">
+<!ENTITY copyVideoURLCmd.label        "Copiar endereço do vídeo">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Copiar endereço do áudio">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY blockImageCmd.accesskey "g">
 <!ENTITY metadataCmd.label "Propriedades">
 <!ENTITY metadataCmd.accesskey "R">
@@ -280,11 +294,27 @@
 <!ENTITY thisFrameMenu.label "Esta frame">
 <!ENTITY thisFrameMenu.accesskey "f">
 
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "Reproduzir">
+<!ENTITY mediaPlay.accesskey         "P">
+<!ENTITY mediaPause.label            "Pausar">
+<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaMute.label             "Sem som">
+<!ENTITY mediaMute.accesskey         "s">
+<!ENTITY mediaUnmute.label           "Som">
+<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaShowControls.label     "Mostrar Controlos">
+<!ENTITY mediaShowControls.accesskey "C">
+<!ENTITY mediaHideControls.label     "Ocultar Controlos">
+<!ENTITY mediaHideControls.accesskey "C">
+
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
+
 <!ENTITY fullZoomEnlargeCmd.label       "Aumentar o tamanho do texto">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "A">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
@@ -387,4 +417,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "Diga-me mais sobre este sítio web">
 
-<!ENTITY downloadMonitor2.tooltip "Carregue para abrir janelas de transferências">
+<!ENTITY downloadMonitor2.tooltip "Carregue para abrir a janela de transferências">

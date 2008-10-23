@@ -1,0 +1,16 @@
+<!ENTITY restorepage.title          "Restaurar sessão anterior">
+<!ENTITY restorepage.titletext      "A última sessão do &brandShortName; terminou inesperadamente">
+<!ENTITY restorepage.shortDesc      "Pode restaurar os separadores e as janelas da sua anterior sessão, ou iniciar uma nova sessão. As nossas desculpas pela incoveniência.">
+<!ENTITY restorepage.remedies       "Se o &brandShortName; fechar repetidamente:">
+<!ENTITY restorepage.dueToChrome    "Tente desactivar extras adicionados recentemente no gestor de extras.">
+<!ENTITY restorepage.dueToContent   "Tente restaurar a sua sessão sem qualquer página web que suspeite ser a causadora do erro:">
+
+<!ENTITY restorepage.restoreButton  "Restaurar sessão anterior">
+<!ENTITY restorepage.restore.access "a">
+<!ENTITY restorepage.cancelButton   "Iniciar nova sessão">
+<!ENTITY restorepage.cancel.access  "n">
+
+<!ENTITY restorepage.restoreHeader  "Restaurar">
+<!ENTITY restorepage.listHeader     "Janelas e separadores">
+<!-- LOCALIZATION NOTE: %S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Janela #&#37;S">
