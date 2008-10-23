@@ -84,7 +84,6 @@
 <!ENTITY clearCacheNow.accesskey         "w">
 
 <!-- Certificates -->
-<!ENTITY certificatesInfo2.label        "Certificaten, intrekkingslijsten, certificaatvalidatie en beveiligingsapparaten beheren.">
 <!ENTITY viewCertificates.label         "Certificaten bekijken">
 <!ENTITY viewCertificates.accesskey     "C">
 <!ENTITY viewCRLs.label                 "Intrekkingslijsten">
