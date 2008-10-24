@@ -266,8 +266,16 @@
 <!ENTITY sendLinkCmd.accesskey                  "d">
 <!ENTITY saveImageCmd.label                     "Salvesta pilt kui...">
 <!ENTITY saveImageCmd.accesskey                 "p">
+<!ENTITY saveVideoCmd.label                     "Salvesta video kui...">
+<!ENTITY saveVideoCmd.accesskey                 "v">
+<!ENTITY saveAudioCmd.label                     "Salvesta audio kui...">
+<!ENTITY saveAudioCmd.accesskey                 "a">
 <!ENTITY sendImageCmd.label                     "Saada pilt...">
 <!ENTITY sendImageCmd.accesskey                 "d">
+<!ENTITY sendVideoCmd.label                     "Saada video...">
+<!ENTITY sendVideoCmd.accesskey                 "i">
+<!ENTITY sendAudioCmd.label                     "Saada audio...">
+<!ENTITY sendAudioCmd.accesskey                 "u">
 <!ENTITY copyLinkCmd.label                      "Kopeeri lingi aadress">
 <!ENTITY copyLinkCmd.accesskey                  "o">
 <!ENTITY copyLinkTextCmd.label                  "Kopeeri lingi tekst">
@@ -276,6 +284,10 @@
 <!ENTITY copyImageCmd.accesskey                 "o">
 <!ENTITY copyImageContentsCmd.label             "Kopeeri pilt">
 <!ENTITY copyImageContentsCmd.accesskey         "e">
+<!ENTITY copyVideoURLCmd.label                  "Kopeeri video aadress">
+<!ENTITY copyVideoURLCmd.accesskey              "e">
+<!ENTITY copyAudioURLCmd.label                  "Kopeeri audio aadress">
+<!ENTITY copyAudioURLCmd.accesskey              "p">
 <!ENTITY blockImageCmd.accesskey                "B">
 <!ENTITY metadataCmd.label                      "Omadused">
 <!ENTITY metadataCmd.accesskey                  "u">
@@ -283,6 +295,20 @@
 <!ENTITY copyEmailCmd.accesskey                 "i">
 <!ENTITY thisFrameMenu.label                    "See paneel">
 <!ENTITY thisFrameMenu.accesskey                "p">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label                        "Esita">
+<!ENTITY mediaPlay.accesskey                    "E">
+<!ENTITY mediaPause.label                       "Paus">
+<!ENTITY mediaPause.accesskey                   "P">
+<!ENTITY mediaMute.label                        "Summutatud">
+<!ENTITY mediaMute.accesskey                    "S">
+<!ENTITY mediaUnmute.label                      "Summutus maha">
+<!ENTITY mediaUnmute.accesskey                  "m">
+<!ENTITY mediaShowControls.label                "Näita juhtnuppe">
+<!ENTITY mediaShowControls.accesskey            "N">
+<!ENTITY mediaHideControls.label                "Peida juhtnupud">
+<!ENTITY mediaHideControls.accesskey            "e">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and

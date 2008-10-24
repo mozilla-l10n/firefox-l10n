@@ -1,0 +1,16 @@
+<!ENTITY restorepage.title          "Eelmise seansi taastamine">
+<!ENTITY restorepage.titletext      "Sinu eelmine seanss &brandShortName;is sulgus ootamatult">
+<!ENTITY restorepage.shortDesc      "Sa võid taastada kaardid ning aknad eelmisest seansist või alustada uut seanssi kui neid pole enam vaja. Vabandame ebamugavuste pärast.">
+<!ENTITY restorepage.remedies       "Kui &brandShortName; sulgub korduvalt:">
+<!ENTITY restorepage.dueToChrome    "proovi laienduste haldurist keelata viimati lisatud laiendusi.">
+<!ENTITY restorepage.dueToContent   "proovi seanss taastada ilma võimalikku kokkujooksmist põhjustavate veebilehtedeta:">
+
+<!ENTITY restorepage.restoreButton  "Taasta eelmine seanss">
+<!ENTITY restorepage.restore.access "T">
+<!ENTITY restorepage.cancelButton   "Alusta uut seanssi">
+<!ENTITY restorepage.cancel.access  "A">
+
+<!ENTITY restorepage.restoreHeader  "Taastatakse">
+<!ENTITY restorepage.listHeader     "Aknad ja kaardid">
+<!-- LOCALIZATION NOTE: %S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Aken #&#37;S">
