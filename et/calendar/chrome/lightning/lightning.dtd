@@ -62,8 +62,6 @@
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "K">
 
 <!-- Messenger Sidebar -->
-<!ENTITY lightning.sidebar.invitations.label "Kutsed">
-<!ENTITY lightning.sidebar.invitations.accesskey "u">
 <!ENTITY lightning.calendar.label            "Kalender">
 <!ENTITY lightning.calendar.accesskey        "K">
 <!ENTITY lightning.tasks.label               "Ülesanded">
@@ -76,16 +74,6 @@
 <!ENTITY lightning.toolbar.calendar.accesskey "K">
 <!ENTITY lightning.toolbar.task.label         "Ülesanded">
 <!ENTITY lightning.toolbar.task.accesskey     "Ü">
-
-<!-- Customize Toolbar Dialog -->
-<!ENTITY customize.toolbar.selector.label    "Tööriistariba:">
-<!ENTITY customize.toolbar.selector.mode     "Režiimi tööriistariba">
-<!ENTITY customize.toolbar.selector.mail     "E-posti tööriistariba">
-<!ENTITY customize.toolbar.selector.calendar "Kalendri tööriistariba">
-<!ENTITY customize.toolbar.selector.task     "Ülesannete tööriistariba">
-<!ENTITY customize.toolbar.location.label    "Asukoht:">
-<!ENTITY customize.toolbar.location.top      "All">
-<!ENTITY customize.toolbar.location.bottom   "Üleval">
 
 <!-- Messenger Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Päev">
@@ -121,3 +109,4 @@
 <!ENTITY todaypane.showNone.accesskey "Ä">
 <!ENTITY todaypane.showTodayPane.label "Näita tänaste tegemiste paneeli">
 <!ENTITY todaypane.showTodayPane.accesskey "t">
+<!ENTITY todaypane.statusButton.label "Tänaste tegemiste paneel">
