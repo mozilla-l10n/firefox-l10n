@@ -54,26 +54,9 @@
 <!ENTITY calendar.new.server.key                "k">
 <!ENTITY calendar.new.server.accesskey          "k">
 
-<!ENTITY calendar.open.file.label               "Ava kalender…">
-<!ENTITY calendar.open.file.key                 "O">
-<!ENTITY calendar.open.file.accesskey           "a">
-
-<!ENTITY event.edit.event                       "Sündmuste omadused…">
-<!ENTITY event.edit.event.key                   "D">
-<!ENTITY event.edit.event.accesskey             "d">
-
-<!ENTITY event.delete.event                     "Kustuta valitud sündmused">
-<!ENTITY event.delete.event.accesskey           "u">
-
-<!ENTITY event.delete.tasks                     "Kustuta valitud ülesanded">
-<!ENTITY event.delete.tasks.accesskey           "t">
-
 <!ENTITY calendar.print.label                   "Trüki…">
 <!ENTITY calendar.print.key                     "P">
 <!ENTITY calendar.print.accesskey               "T">
-
-<!ENTITY calendar.pagesetup.label               "Lehekülje häälestus…">
-<!ENTITY calendar.pagesetup.accesskey           "h">
 
 <!ENTITY calendar.import.label                  "Import…">
 <!ENTITY calendar.import.key                    "I">
@@ -84,71 +67,16 @@
 <!ENTITY calendar.export.selection.label        "Valiku eksport…">
 <!ENTITY calendar.export.selection.accesskey    "u">
 
-<!ENTITY calendar.subscribe.label               "Võrgukalendri tellimine…">
-<!ENTITY calendar.subscribe.accesskey           "V">
-
-<!ENTITY calendar.reloadserver.label            "Värskenda võrgukalendreid">
-<!ENTITY calendar.reloadserver.key              "R">
-<!ENTITY calendar.reloadserver.accesskey        "r">
-
 <!ENTITY calendar.publish.label                 "Avaldamine…">
 <!ENTITY calendar.publish.accesskey             "A">
-<!ENTITY calendar.publish.calendar.label        "Kalendri avaldamine…">
-<!ENTITY calendar.publish.calendar.accesskey    "l">
-<!ENTITY calendar.publish.selection.label       "Valiku avaldamine…">
-<!ENTITY calendar.publish.selection.accesskey   "d">
-
-<!ENTITY calendar.quit.label                    "Välju">
-<!ENTITY calendar.quit.accesskey                "j">
-<!ENTITY calendar.quit.key                      "Q">
-<!ENTITY calendar.quit.label.mac                "Sulge &brandShortName;">
-
-<!ENTITY calendar.exit.label                    "Välju">
-<!ENTITY calendar.exit.accesskey                "l">
-
-<!ENTITY calendar.undo.label                    "Võta tagasi">
-<!ENTITY calendar.undo.key                      "Z">
-<!ENTITY calendar.undo.accesskey                "V">
-
-<!ENTITY calendar.redo.label                    "Tee uuesti">
-<!ENTITY calendar.redo.key                      "Y">
-<!ENTITY calendar.redo.accesskey                "T">
-
-<!ENTITY calendar.cut.label                     "Lõika">
-<!ENTITY calendar.cut.key                       "X">
-<!ENTITY calendar.cut.accesskey                 "L">
-
-<!ENTITY calendar.copy.label                    "Kopeeri">
-<!ENTITY calendar.copy.key                      "C">
-<!ENTITY calendar.copy.accesskey                "K">
-
-<!ENTITY calendar.paste.label                   "Aseta">
-<!ENTITY calendar.paste.key                     "V">
-<!ENTITY calendar.paste.accesskey               "A">
-
-<!ENTITY calendar.selectall.label               "Vali kõik">
-<!ENTITY calendar.selectall.key                 "A">
-<!ENTITY calendar.selectall.accesskey           "õ">
-
-<!ENTITY toolbarsMenu.label                     "Tööriistaribad">
-<!ENTITY toolbarsMenu.accesskey                 "b">
 
 <!ENTITY calendar.toolbar.label                 "Kalendri tööriistariba">
 <!ENTITY calendar.toolbar.accesskey             "i">
 <!ENTITY task.toolbar.label                     "Ülesande tööriistariba">
 <!ENTITY task.toolbar.accesskey                 "n">
 
-<!ENTITY mode.toolbar.label                     "Režiimi tööriistariba">
-<!ENTITY mode.toolbar.accesskey                 "ž">
-
 <!ENTITY calendar.menu.customize.label          "Kohandamine…">
 <!ENTITY calendar.menu.customize.accesskey      "h">
-
-<!ENTITY showStatusBarCmd.label                 "Olekuriba">
-<!ENTITY showStatusBarCmd.accesskey             "O">
-
-<!ENTITY showTaskBoxCmd.label                   "Ülesannete nimekiri">
-<!ENTITY showTaskBoxCmd.accesskey               "Ü">
 
 <!ENTITY showUnifinderCmd.label                 "Otsi sündmusi">
 <!ENTITY showUnifinderCmd.accesskey             "i">
@@ -163,20 +91,8 @@
 <!ENTITY calendar.menu.numberofweeks.5          "Viis nädalat">
 <!ENTITY calendar.menu.numberofweeks.6          "Kuus nädalat">
 
-<!ENTITY calendar.fullscreen.label              "Täisekraani režiim">
-<!ENTITY calendar.fullscreen.accesskey          "i">
-
-<!ENTITY calendar.addons.label                  "Lisad">
-<!ENTITY calendar.addons.accesskey              "s">
-
-<!ENTITY goMenu.label                           "Mine">
-<!ENTITY goMenu.accesskey                       "M">
-
 <!ENTITY goTodayCmd.label                       "Täna">
 <!ENTITY goTodayCmd.accesskey                   "T">
-
-<!ENTITY goDateCmd.label                        "Kuupäev…">
-<!ENTITY goDateCmd.accesskey                    "K">
 
 <!ENTITY goPreviousCmd.day.label                "Eelmine päev">
 <!ENTITY goPreviousCmd.week.label               "Eelmine nädal">
@@ -188,62 +104,8 @@
 <!ENTITY goNextCmd.month.label                  "Järgmine kuu">
 <!ENTITY goNextCmd.all.accesskey                "g">
 
-<!ENTITY toolsMenu.label                        "Tööriistad">
-<!ENTITY toolsMenu.accesskey                    "T">
-
-<!ENTITY errorConsoleCmd.label                  "Vigade konsool">
-<!ENTITY errorConsoleCmd.accesskey              "V">
-
 <!ENTITY addressBookCmd.label                   "Aadressiraamat">
 <!ENTITY addressBookCmd.accesskey               "A">
-
-<!ENTITY helpMenu.label                         "Abi">
-<!ENTITY helpMenu.accesskey                     "b">
-<!-- LOCALIZATION NOTE some localizations of Windows use "?"
-           for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label                      "Abi"> 
-<!ENTITY helpMenuWin.accesskey                  "b">
-
-<!-- Toolbar items -->
-<!ENTITY fileMenu.label                         "Fail">
-<!ENTITY fileMenu.accesskey                     "F">
-
-<!ENTITY editMenu.label                         "Redigeerimine">
-<!ENTITY editMenu.accesskey                     "R">
-<!ENTITY optionsCmd.label                       "Valikud…">
-<!ENTITY optionsCmd.accesskey                   "V">
-<!ENTITY preferencesCmd.label                   "Eelistused…">
-<!ENTITY preferencesCmd.accesskey               "E">
-<!ENTITY preferencesCmdMac.label                "Eelistused…">
-<!ENTITY preferencesCmdMac.commandkey           ",">
-<!ENTITY preferencesCmdMac.modifiers            "accel">
-
-<!ENTITY viewMenu.label                         "Vaade">
-<!ENTITY viewMenu.accesskey                     "V">
-
-<!ENTITY releaseCmd.label                       "Väljalaskest">
-<!ENTITY releaseCmd.accesskey                   "V">
-<!ENTITY aboutCmd.label                         "&brandFullName;i teave">
-<!ENTITY aboutCmd.accesskey                     "t">
-<!ENTITY updateCmd.label                        "Kontrolli uuendusi…">
-<!ENTITY updateCmd.accesskey                    "K">
-
-<!-- Mac OS X "Window" menu items -->
-<!ENTITY windowMenu.label                       "Aken">
-<!ENTITY minimizeWindow.label                   "Minimeeri">
-<!ENTITY zoomWindow.label                       "Suurendamine/Vähendamine">
-<!ENTITY minimizeWindow.key                     "M">
-<!ENTITY bringAllToFront.label                  "Too kõik esiplaanile">
-
-<!-- Mac OS X Application menu items -->
-<!ENTITY servicesMenuMac.label          "Teenused">
-<!ENTITY hideThisAppCmdMac.label        "Peida &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "P">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
-<!ENTITY hideOtherAppsCmdMac.label      "Peida ülejäänud">
-<!ENTITY hideOtherAppsCmdMac.commandkey "l">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
-<!ENTITY showAllAppsCmdMac.label        "Näita kõiki">
 
 <!ENTITY calendar.importcalendar.label          "Kalendri importimine…">
 
