@@ -8,7 +8,7 @@
 
 <!ENTITY typefaces.label "Typeface">
 <!ENTITY sizes.label "Tamanho (pixéis)">
-<!ENTITY proportionalSize.accesskey "e">
+<!ENTITY proportionalSize.accesskey "i">
 <!ENTITY monospaceSize.accesskey "x">
 
 <!ENTITY proportional.label "Proporcional:">
