@@ -1,0 +1,9 @@
+
+<!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
+<!ENTITY editorCheck.label     "Composer">
+<!ENTITY editorCheck.accesskey "c">
+
+<!ENTITY compose.label         "Koostamine">
+<!ENTITY editing.label         "Uue lehe sätted">
+<!ENTITY toolbars.label        "Tööriistaribad">
+<!ENTITY publish.label         "Avaldamine">
