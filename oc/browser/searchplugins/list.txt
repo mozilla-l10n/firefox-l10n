@@ -1,7 +1,7 @@
-amazondotcom
-answers
-creativecommons
-eBay
 google
-wikipedia
-yahoo
+yahoo-france
+amazon-france
+eBay-france
+wikipedia-oc
+creativecommons
+wiktionary-oc
