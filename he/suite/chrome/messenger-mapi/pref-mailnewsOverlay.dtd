@@ -1,0 +1,6 @@
+<!ENTITY enableMapiTitle.label "בעת משלוח דואר מיישומים אחרים">
+<!ENTITY defaultMailSettings.label "הפוך את דואר וקבוצות־דיון &vendorShortName; ליישום ברירת המחדל עבור:">
+<!ENTITY enableMapi.label "דואר">
+<!ENTITY enableMapi.accesskey "ד">
+<!ENTITY enableNews.label "קבוצות־דיון">
+<!ENTITY enableNews.accesskey "ק">

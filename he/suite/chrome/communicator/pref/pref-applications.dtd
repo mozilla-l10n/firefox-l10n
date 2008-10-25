@@ -1,0 +1,20 @@
+<!ENTITY pref.applications.title "יישומי סיוע">
+<!ENTITY pref.applications.caption "ציין כיצד לטפל בקבצים מכל סוג">
+<!ENTITY fileTypes.label "סוגי קבצים:">
+<!ENTITY aimLaunchSelect.label "שיגור AOL Instant Messenger">
+<!ENTITY newTypeButton.label "סוג חדש...">
+<!ENTITY newTypeButton.accesskey "ס">
+<!ENTITY editButton.label "עריכה...">
+<!ENTITY editButton.accesskey "ר">
+<!ENTITY removeButton.label "הסרה">
+<!ENTITY removeButton.accesskey "ה">
+<!ENTITY file "פרטי סוג קובץ">
+<!ENTITY exten "סיומ(ו)ת:">
+<!ENTITY mimeDesc "תיאור:">
+<!ENTITY handle "דרך טיפול:">
+<!ENTITY handle.accesskey "ד">
+<!ENTITY fileOpening.label "פתיחת קבצים">
+<!ENTITY plugins.label "שירות מאתר התוספים">
+<!ENTITY pluginFinder.label "השתמש תמיד בשירות איתור התוספים של Netscape כדי להשיג תוספים.">
+<!ENTITY pluginFinder.accesskey "ש">
+<!ENTITY pluginFinderDesc.label "אם אפשרות זו אינה מסומנת, יעשה שימוש בשירות איתור התוספים רק אם מיקום התוסף אינו מצויין על־ידי האתר שדורש את התוסף.">

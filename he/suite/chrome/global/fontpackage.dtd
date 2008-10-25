@@ -1,0 +1,6 @@
+<!ENTITY window.title "הורדת גופן">
+<!ENTITY info.label "כדי להציג את תווי השפה כראוי, עליך להתקין את המרכיבים הבאים:">
+<!ENTITY size.label "גודל הורדה:">
+<!ENTITY downloadButton.label "הורד גופן">
+<!ENTITY cancelButton.label "ביטול">
+<!ENTITY install "השתמש בפריט לוח הבקרה 'הגדרות איזוריות' על־מנת להתקין את המרכיבים הללו.">

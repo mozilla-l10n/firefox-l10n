@@ -1,0 +1,23 @@
+<!ENTITY settings.caption "הגדרות">
+<!ENTITY security.caption "אבטחה ואימות">
+<!ENTITY serverName.label "שם השרת:">
+<!ENTITY serverName.accesskey "ש">
+<!ENTITY serverDescription.label "תיאור:">
+<!ENTITY serverDescription.accesskey "ת">
+<!ENTITY serverPort.label "שער:">
+<!ENTITY serverPort.accesskey "ע">
+<!ENTITY alwaysUseUsername.label "השתמש בשם וסיסמה">
+<!ENTITY alwaysUseUsername.accesskey "מ">
+<!ENTITY userName.label "שם משתמש:">
+<!ENTITY userName.accesskey "ם">
+<!ENTITY isSecure.label "השתמש בקשר מאובטח:">
+<!ENTITY neverSecure.label "לא">
+<!ENTITY neverSecure.accesskey "ל">
+<!ENTITY sometimesSecure.label "TLS, אם זמין">
+<!ENTITY sometimesSecure.accesskey "א">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSmtpS.label "SSL">
+<!ENTITY alwaysSmtpS.accesskey "L">
+<!ENTITY smtpEditTitle.label "שרת SMTP">
+<!ENTITY serverPortDefault.label "ברירת מחדל:">

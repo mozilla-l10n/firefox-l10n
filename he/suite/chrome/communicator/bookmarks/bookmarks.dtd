@@ -1,0 +1,116 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Stephen Lamm <slamm@netscape.com>
+   -   Blake Ross <blakeross@telocity.com>
+   -   Mike Kowalski <mikejk@ameritech.net>
+   -   Tsahi Asher <tsahi_75@yahoo.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY menuBar.tooltip "סרגל תפריטים">
+<!ENTITY bookmarkToolbar.tooltip "סרגל כלים סימניות">
+<!ENTITY bookmarksSearch.tooltip "סרגל חיפוש סימניות">
+<!ENTITY menuitem.newBookmark.label "סימנייה">
+<!ENTITY command.newBookmark.accesskey "ס">
+<!ENTITY menuitem.newFolder.label "תיקייה">
+<!ENTITY button.newFolder.label "תיקייה חדשה">
+<!ENTITY button.newFolder.accesskey "ה">
+<!ENTITY command.newFolder.accesskey "ת">
+<!ENTITY menuitem.newSeparator.label "קו מפריד">
+<!ENTITY button.newSeparator.label "קו מפריד חדש">
+<!ENTITY button.newSeparator.accesskey "ד">
+<!ENTITY command.newSeparator.accesskey "ק">
+<!ENTITY menuitem.open.label "פתח קובץ סימניות...">
+<!ENTITY menuitem.open.accesskey "פ">
+<!ENTITY menuitem.import.label "יבוא...">
+<!ENTITY menuitem.import.accesskey "ב">
+<!ENTITY menuitem.export.label "יצוא...">
+<!ENTITY menuitem.export.accesskey "צ">
+<!ENTITY menuitem.find.label "חפש סימניות...">
+<!ENTITY command.findBookmarks.label "חיפוש...">
+<!ENTITY menuitem.find.accesskey "ח">
+<!ENTITY edit.find.keybinding "f">
+<!ENTITY command.properties.label "מאפיינים...">
+<!ENTITY button.properties.accesskey "א">
+<!ENTITY command.properties.accesskey "א">
+<!ENTITY edit.properties.keybinding "i">
+<!ENTITY command.rename.label "שנה שם...">
+<!ENTITY button.rename.accesskey "ש">
+<!ENTITY command.delete.label "מחק">
+<!ENTITY button.delete.accesskey "מ">
+<!ENTITY command.moveBookmark.label "העבר סימנייה(ות)...">
+<!ENTITY command.moveBookmarkShort.label "העבר...">
+<!ENTITY command.moveBookmark.accesskey "ר">
+<!ENTITY command.addBookmark.label "הוספה...">
+<!ENTITY command.manageBookmarks.label "נהל">
+<!ENTITY command.sortFolder.label "מיין תיקייה...">
+<!ENTITY command.sortFolder.accesskey "ת">
+<!ENTITY edit.sortFolder.keybinding "S">
+<!ENTITY command.sortFolderByName.label "מיין תיקייה לפי שם">
+<!ENTITY command.sortFolderByName.accesskey "ש">
+<!ENTITY menuitem.view.command.toolbar.label "סרגל כלים">
+<!ENTITY menuitem.view.command.toolbar.accesskey "כ">
+<!ENTITY menuitem.view.command.searchbar.label "סרגל חיפוש">
+<!ENTITY menuitem.view.command.searchbar.accesskey "ח">
+<!ENTITY menuitem.view.show_columns.label "הצג עמודות">
+<!ENTITY menuitem.view.show_columns.accesskey "ע">
+<!ENTITY menuitem.newbookmarkfolder.label "קבע כתיקיית סימניות חדשות">
+<!ENTITY menuitem.newbookmarkfolder.accesskey "ס">
+<!ENTITY menuitem.newinternetsearchfolder.label "קבע כתיקיית חיפוש חדש באינטרנט">
+<!ENTITY menuitem.newinternetsearchfolder.accesskey "פ">
+<!ENTITY menuitem.personaltoolbarfolder.label "קבע כתיקיית סרגל כלים אישי">
+<!ENTITY menuitem.personaltoolbarfolder.accesskey "ר">
+<!ENTITY treecol.name.label "שם">
+<!ENTITY treecol.name.accesskey "ם">
+<!ENTITY treecol.name.tooltip "לחץ למיון לפי שם">
+<!ENTITY treecol.url.label "מיקום">
+<!ENTITY treecol.url.accesskey "ק">
+<!ENTITY treecol.url.tooltip "לחץ למיון לפי מיקום">
+<!ENTITY treecol.shortcut.label "מילת מפתח">
+<!ENTITY treecol.shortcut.accesskey "ל">
+<!ENTITY treecol.shortcut.tooltip "לחץ למיון לפי מילת מפתח">
+<!ENTITY treecol.description.label "תיאור">
+<!ENTITY treecol.description.accesskey "ת">
+<!ENTITY treecol.description.tooltip "לחץ למיון לפי תיאור">
+<!ENTITY treecol.addedon.label "התווסף">
+<!ENTITY treecol.addedon.accesskey "ה">
+<!ENTITY treecol.addedon.tooltip "לחץ למיון לפי זמן הוספה">
+<!ENTITY treecol.lastmod.label "שונה לאחרונה">
+<!ENTITY treecol.lastmod.accesskey "ש">
+<!ENTITY treecol.lastmod.tooltip "לחץ למיון לפי זמן שינוי אחרון">
+<!ENTITY treecol.lastvisit.label "ביקור אחרון">
+<!ENTITY treecol.lastvisit.accesskey "ב">
+<!ENTITY treecol.lastvisit.tooltip "לחץ למיון לפי זמן ביקור אחרון">
+<!ENTITY bookmarksWindowTitle.label "מנהל הסימניות">
+<!ENTITY search.label "חפש">
+<!ENTITY search.accesskey "פ">

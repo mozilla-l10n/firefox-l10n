@@ -1,0 +1,88 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Editor Smiley Overlay.
+   -
+   - The Initial Developer of the Original Code is
+   - Neil Rashbrook.
+   - Portions created by the Initial Developer are Copyright (C) 2003
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -    Neil Rashbrook <neil@parkwaycc.co.uk>
+   -   Tsahi Asher <tsahi_75@yahoo.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY insertSmiley.label "פרצוף מחייך">
+<!ENTITY insertSmiley.accesskey "פ">
+<!ENTITY smiley1Cmd.label "מחייך">
+<!ENTITY smiley1Cmd.accesskey "ח">
+<!ENTITY smiley1Cmd.tooltip "הכנס פרצוף מחייך">
+<!ENTITY smiley2Cmd.label "זועף">
+<!ENTITY smiley2Cmd.accesskey "ז">
+<!ENTITY smiley2Cmd.tooltip "הכנס פרצוף זועף">
+<!ENTITY smiley3Cmd.label "קריצה">
+<!ENTITY smiley3Cmd.accesskey "ק">
+<!ENTITY smiley3Cmd.tooltip "הכנס פרצוף קורץ">
+<!ENTITY smiley4Cmd.label "חורץ־לשון">
+<!ENTITY smiley4Cmd.accesskey "ר">
+<!ENTITY smiley4Cmd.tooltip "הכנס פרצוף חורץ־לשון">
+<!ENTITY smiley5Cmd.label "צוחק">
+<!ENTITY smiley5Cmd.accesskey "צ">
+<!ENTITY smiley5Cmd.tooltip "הכנס פרצוף צוחק">
+<!ENTITY smiley6Cmd.label "נבוך">
+<!ENTITY smiley6Cmd.accesskey "נ">
+<!ENTITY smiley6Cmd.tooltip "הכנס פרצוף נבוך">
+<!ENTITY smiley7Cmd.label "הססן">
+<!ENTITY smiley7Cmd.accesskey "ה">
+<!ENTITY smiley7Cmd.tooltip "הכנס פרצוף הססן">
+<!ENTITY smiley8Cmd.label "הפתעה">
+<!ENTITY smiley8Cmd.accesskey "פ">
+<!ENTITY smiley8Cmd.tooltip "הכנס פרצוף מופתע">
+<!ENTITY smiley9Cmd.label "נשיקה">
+<!ENTITY smiley9Cmd.accesskey "ש">
+<!ENTITY smiley9Cmd.tooltip "הכנס פרצוף נשיקה">
+<!ENTITY smiley10Cmd.label "צעקה">
+<!ENTITY smiley10Cmd.accesskey "צ">
+<!ENTITY smiley10Cmd.tooltip "הכנס פרצוף צועק">
+<!ENTITY smiley11Cmd.label "'קול'">
+<!ENTITY smiley11Cmd.accesskey "ק">
+<!ENTITY smiley11Cmd.tooltip "הכנס פרצוף 'קול'">
+<!ENTITY smiley12Cmd.label "פה־כסף">
+<!ENTITY smiley12Cmd.accesskey "פ">
+<!ENTITY smiley12Cmd.tooltip "הכנס פרצוף פה־כסף">
+<!ENTITY smiley13Cmd.label "יד־לפה">
+<!ENTITY smiley13Cmd.accesskey "י">
+<!ENTITY smiley13Cmd.tooltip "הכנס פרצוף יד־לפה">
+<!ENTITY smiley14Cmd.label "תמים">
+<!ENTITY smiley14Cmd.accesskey "ת">
+<!ENTITY smiley14Cmd.tooltip "הכנס פרצוף תמים">
+<!ENTITY smiley15Cmd.label "בכי">
+<!ENTITY smiley15Cmd.accesskey "ב">
+<!ENTITY smiley15Cmd.tooltip "הכנס פרצוף בוכה">
+<!ENTITY smiley16Cmd.label "שפתיים־חתומות">
+<!ENTITY smiley16Cmd.accesskey "ש">
+<!ENTITY smiley16Cmd.tooltip "הכנס פרצוף שפתיים־חתומות">
+<!ENTITY SmileButton.tooltip "הכנס פרצוף מחייך">

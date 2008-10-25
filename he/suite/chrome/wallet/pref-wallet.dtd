@@ -1,0 +1,9 @@
+<!ENTITY pref.wallet.title "טפסים">
+<!ENTITY walletHeader.caption "מנהל הטפסים">
+<!ENTITY walletDescription.label "מנהל הטפסים יכול לזכור מידע אודותיך כך שמילוי טפסים באתרים יהיה מהיר יותר.">
+<!ENTITY walletEnabled.label "שמור נתוני טופס מאתרים בעת מילוי טפסים.">
+<!ENTITY walletEnabled.accesskey "ש">
+<!ENTITY viewWallet.label "נהל נתוני טפסים מאוחסנים">
+<!ENTITY viewWallet.accesskey "נ">
+<!ENTITY viewWalletSites.label "נהל אתרים">
+<!ENTITY viewWalletSites.accesskey "ה">

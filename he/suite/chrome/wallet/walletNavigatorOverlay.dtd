@@ -1,0 +1,18 @@
+<!ENTITY formbarCmd.label "סרגל כלים לטפסים">
+<!ENTITY formbarCmd.accesskey "ס">
+<!ENTITY formPrefill.label "מלא טופס">
+<!ENTITY formCapture.label "שמור נתוני טופס">
+<!ENTITY formView.label "נהל נתונים שמורים">
+<!ENTITY formPrefill.tooltip "מלא טופס זה עם נתונים שנשמרו קודם">
+<!ENTITY formCapture.tooltip "שמור נתונים שנמצאים בטופס זה">
+<!ENTITY formView.tooltip "הצג נתונים שנשמרו קודם עבור טופס זה">
+<!ENTITY captureCmd.label "שמור מידע מטופס">
+<!ENTITY captureCmd.accesskey "ר">
+<!ENTITY prefillCmd.label "מלא טופס">
+<!ENTITY prefillCmd.accesskey "ל">
+<!ENTITY walletContentsCmd.label "ערוך מידע על הטופס">
+<!ENTITY walletContentsCmd.accesskey "ע">
+<!ENTITY walletSitesCmd.label "נהל אתרים">
+<!ENTITY walletSitesCmd.accesskey "א">
+<!ENTITY walletFormManager.label "מנהל הטפסים">
+<!ENTITY walletFormManager.accesskey "נ">

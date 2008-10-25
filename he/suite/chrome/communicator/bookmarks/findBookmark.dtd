@@ -1,0 +1,14 @@
+<!ENTITY search.name.label "השם">
+<!ENTITY search.url.label "המיקום">
+<!ENTITY search.shortcut.label "מילת המפתח">
+<!ENTITY search.description.label "התיאור">
+<!ENTITY search.startswith.label "שלהן מתחיל עם">
+<!ENTITY search.endswith.label "שלהן נגמר עם">
+<!ENTITY search.is.label "שלהן הוא">
+<!ENTITY search.isnot.label "שלהן הוא לא">
+<!ENTITY search.contains.label "שלהן מכיל">
+<!ENTITY search.doesntcontain.label "שלהן אינו מכיל">
+<!ENTITY save.query.label "שמור שאילתה בסימניות">
+<!ENTITY search.for.label "מצא סימניות ש...">
+<!ENTITY findBookmark.title "מצא סימניות">
+<!ENTITY findButton.label "מצא">

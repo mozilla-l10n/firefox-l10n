@@ -1,0 +1,16 @@
+<!ENTITY mainWindow.title "&brandShortName;">
+<!ENTITY mainWindow.titlemodifier "&brandShortName;">
+<!ENTITY mainWindow.titlemodifierseparator " - ">
+<!ENTITY mainWindow.preface "מקור של:">
+<!ENTITY viewPartialSourceWindow.title "קוד מקור DOM">
+<!ENTITY menu_wrapLongLines.title "גלישת שורות ארוכות">
+<!ENTITY menu_wrapLongLines.accesskey "ג">
+<!ENTITY menu_highlightSyntax.label "הדגשת תחביר">
+<!ENTITY menu_highlightSyntax.accesskey "ה">
+<!ENTITY findNextCmd.label "מצא את הבא">
+<!ENTITY findNextCmd.accesskey "מ">
+<!ENTITY goToLineCmd.label "עבור אל שורה...">
+<!ENTITY goToLineCmd.accesskey "ע">
+<!ENTITY goToLineCmd.commandkey "l">
+<!ENTITY printSetupCmd.label "הגדרת עמוד...">
+<!ENTITY printSetupCmd.accesskey "ה">

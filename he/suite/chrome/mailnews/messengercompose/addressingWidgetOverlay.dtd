@@ -1,0 +1,6 @@
+<!ENTITY toAddr.label "אל:">
+<!ENTITY ccAddr.label "עותק:">
+<!ENTITY bccAddr.label "עותק סמוי:">
+<!ENTITY replyAddr.label "השב־אל:">
+<!ENTITY newsgroupsAddr.label "קבוצת־דיון:">
+<!ENTITY followupAddr.label "מעקב־אל:">
