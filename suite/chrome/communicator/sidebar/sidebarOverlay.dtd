@@ -1,0 +1,62 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Stephen Lamm <slamm@netscape.com>
+   -   Blake Ross <BlakeR1234@aol.com>
+   -   Samir Gehani <sgehani@netscape.com>
+   -   Tsahi Asher <tsahi_75@yahoo.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY sidebar.panels.label "סרגל צד">
+<!ENTITY sidebar.reload.label "טען מחדש">
+<!ENTITY sidebar.reload.accesskey "ט">
+<!ENTITY sidebar.picker.label "לשוניות">
+<!ENTITY sidebar.customize.label "התאמה אישית של סרגל צד...">
+<!ENTITY sidebar.customize.accesskey "ה">
+<!ENTITY sidebar.hide.label "הסתר לשונית">
+<!ENTITY sidebar.hide.accesskey "ס">
+<!ENTITY sidebar.switch.label "עבור ללשונית">
+<!ENTITY sidebar.switch.accesskey "ל">
+<!ENTITY sidebarCmd.label "סרגל צד">
+<!ENTITY sidebarCmd.accesskey "צ">
+<!ENTITY sidebar.loading.label "טוען...">
+<!ENTITY sidebar.loadstopped.label "טעינה הופסקה">
+<!ENTITY sidebar.loading.stop.label "עצור">
+<!ENTITY sidebar.loading.stop.accesskey "ע">
+<!ENTITY sidebar.no-panels.state "סרגל הצד ריק כרגע.">
+<!ENTITY sidebar.no-panels.add 'ניתן להוסיף לשוניות על־ידי לחיצה על כפתור "לשוניות" למעלה.'>
+<!ENTITY sidebar.no-panels.hide 'אם ברצונך להסתיר לחלוטין את סרגל הצד, לחץ על תפריט "תצוגה" למעלה ובחר "סרגל צד" מתפריט המשנה "הראה/הסתר".'>
+<!ENTITY sidebar.sbDirectory.label "מדריך סרגל צד...">
+<!ENTITY sidebar.pagenotfound.label "לשונית זו אינה זמינה כרגע.">
+<!ENTITY sidebar.close.tooltip "סגור את סרגל הצד">
+<!ENTITY sidebar.open.tooltip "פתח את סרגל הצד">

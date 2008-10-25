@@ -1,0 +1,14 @@
+<!ENTITY findDialog.title "מצא בדף זה">
+<!ENTITY findDialogFrame.title "מצא במסגרת זו">
+<!ENTITY findField.label "מצא טקסט:">
+<!ENTITY findField.accesskey "ט">
+<!ENTITY caseSensitiveCheckbox.label "התאם אותיות גדולות/קטנות">
+<!ENTITY caseSensitiveCheckbox.accesskey "ה">
+<!ENTITY wrapCheckbox.label "המשך חיפוש מתחילת הדף">
+<!ENTITY wrapCheckbox.accesskey "ת">
+<!ENTITY backwardsCheckbox.label "חפש לאחור">
+<!ENTITY backwardsCheckbox.accesskey "ח">
+<!ENTITY findField.tooltip "הקלד מילה אחת או יותר לחיפוש">
+<!ENTITY cancelButton.label "ביטול">
+<!ENTITY findButton.label "מצא">
+<!ENTITY findButton.accesskey "מ">

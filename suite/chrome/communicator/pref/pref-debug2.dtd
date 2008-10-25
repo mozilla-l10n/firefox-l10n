@@ -1,0 +1,12 @@
+<!ENTITY lHeader "הגדרות רשת">
+<!ENTITY rHeader "Network debugging preferences">
+<!ENTITY debugNetworking.label "הגדרות רשת">
+<!ENTITY dirFormat "Directory Listing Format">
+<!ENTITY raw.label "Raw - for debugging only">
+<!ENTITY html.label "HTML">
+<!ENTITY xul.label "XUL (tree-based)">
+<!ENTITY httpVersion.label "HTTP Version">
+<!ENTITY debugCache.label "זיכרון מטמון">
+<!ENTITY debugDisableXULCache.label "Disable XUL Cache">
+<!ENTITY debugEnableMemCache.label "Enable Mem Cache">
+<!ENTITY debugEnableDiskCache.label "Enable Disk Cache">

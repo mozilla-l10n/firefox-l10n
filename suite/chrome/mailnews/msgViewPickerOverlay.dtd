@@ -1,0 +1,14 @@
+<!ENTITY viewPicker.label "הצג:">
+<!ENTITY viewPicker.accesskey "ה">
+<!ENTITY viewAll.label "הכל">
+<!ENTITY viewAll.accesskey "כ">
+<!ENTITY viewUnread.label "לא נקראו">
+<!ENTITY viewUnread.accesskey "ל">
+<!ENTITY viewTags.label "תגיות">
+<!ENTITY viewTags.accesskey "ת">
+<!ENTITY viewCustomViews.label "תצוגות מותאמות אישית">
+<!ENTITY viewCustomViews.accesskey "צ">
+<!ENTITY viewVirtualFolder.label "שמור תצוגה כתיקייה...">
+<!ENTITY viewVirtualFolder.accesskey "מ">
+<!ENTITY viewCustomizeView.label "התאמה אישית...">
+<!ENTITY viewCustomizeView.accesskey "א">

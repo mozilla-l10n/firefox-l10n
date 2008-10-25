@@ -1,0 +1,18 @@
+<!ENTITY windowtitle.label "מנהל הסיסמאות">
+<!ENTITY windowalttitle.label "מנהל הטפסים: אתרים">
+<!ENTITY tab.signonsstored.label "סיסמאות שנשמרות">
+<!ENTITY tab.signonsnotstored.label "סיסמאות שלא נשמרות לעולם">
+<!ENTITY tab.nopreview.label "טפסים שלא מוצגים בתצוגה מוקדמת לעולם">
+<!ENTITY tab.nocapture.label "טפסים שלא נשמרים לעולם">
+<!ENTITY spiel.signonsstored.label "מנהל הסיסמאות שמר מידע התחברות עבור האתרים הבאים:">
+<!ENTITY spiel.signonsnotstored.label "מנהל הסיסמאות לעולם לא ישמור מידע התחברות עבור האתרים הבאים:">
+<!ENTITY spiel.nopreview.label "מנהל הטפסים לא יציג לעולם תצוגה מוקדמת של טפסים מהאתרים הבאים לפני מילוי מוקדם שלהם עבורך:">
+<!ENTITY spiel.nocapture.label "מנהל הטפסים לא יבקש לעולם לשמור טפסים מהאתרים הבאים:">
+<!ENTITY treehead.site.label "אתר">
+<!ENTITY treehead.username.label "שם משתמש">
+<!ENTITY treehead.password.label "סיסמה">
+<!ENTITY remove.label "הסרה">
+<!ENTITY remove.accesskey "ה">
+<!ENTITY removeall.label "הסר הכל">
+<!ENTITY removeall.accesskey "ר">
+<!ENTITY togglePasswords.accesskey "ס">

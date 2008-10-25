@@ -1,0 +1,5 @@
+<!ENTITY windowtitle.label "מלא נתוני טופס">
+<!ENTITY heading.label "סמן את הפריטים שברצונך שימולאו מראש">
+<!ENTITY viewdata.label "הצג נתוני טופס מאוחסנים">
+<!ENTITY viewdata.accesskey "ה">
+<!ENTITY bypass.label "עקוף מסך זה בעת מילוי טופס זה בעתיד">

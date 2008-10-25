@@ -1,0 +1,103 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Stephen Lamm          <slamm@netscape.com>
+   -   Robert John Churchill <rjc@netscape.com>
+   -   Ben Goodger           <ben@netscape.com>
+   -   Tsahi Asher <tsahi_75@yahoo.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY bookmarks.windowtitle.label "מאפיינים עבור &quot;**bm_title**&quot;">
+<!ENTITY generalInfo.label "כללי">
+<!ENTITY bookmarks.name.label "שם:">
+<!ENTITY bookmarks.name.accesskey "ש">
+<!ENTITY bookmarks.location.label "מיקום:">
+<!ENTITY bookmarks.location.accesskey "ק">
+<!ENTITY bookmarks.shortcut.label "מילת מפתח:">
+<!ENTITY bookmarks.shortcut.accesskey "ח">
+<!ENTITY bookmarks.description.label "תיאור:">
+<!ENTITY bookmarks.description.accesskey "ת">
+<!ENTITY checkforupdates.legend.label "בדוק אם קיימים עידכונים במיקום זה">
+<!ENTITY when.label "מתי:">
+<!ENTITY when.accesskey "מ">
+<!ENTITY from.label "משעה:">
+<!ENTITY from.accesskey "ע">
+<!ENTITY to.label " עד שעה:">
+<!ENTITY to.accesskey "ד">
+<!ENTITY every.label "כל">
+<!ENTITY every.accesskey "כ">
+<!ENTITY minutes.label "דקה(ות)">
+<!ENTITY notifications.legend.label "הודעה">
+<!ENTITY checknever.label "לעולם לא">
+<!ENTITY checkeveryday.label "כל יום">
+<!ENTITY checkweekdays.label "ימי השבוע">
+<!ENTITY checkweekends.label "סופי שבוע">
+<!ENTITY checkmondays.label "ימי שני">
+<!ENTITY checktuesdays.label "ימי שלישי">
+<!ENTITY checkwednesdays.label "ימי רביעי">
+<!ENTITY checkthursdays.label "ימי חמישי">
+<!ENTITY checkfridays.label "ימי שישי">
+<!ENTITY checksaturdays.label "שבתות">
+<!ENTITY checksundays.label "ימי ראשון">
+<!ENTITY midnight.label "חצות">
+<!ENTITY AMone.label "1 בבוקר">
+<!ENTITY AMtwo.label "2 בבוקר">
+<!ENTITY AMthree.label "3 בבוקר">
+<!ENTITY AMfour.label "4 בבוקר">
+<!ENTITY AMfive.label "5 בבוקר">
+<!ENTITY AMsix.label "6 בבוקר">
+<!ENTITY AMseven.label "7 בבוקר">
+<!ENTITY AMeight.label "8 בבוקר">
+<!ENTITY AMnine.label "9 בבוקר">
+<!ENTITY AMten.label "10 בבוקר">
+<!ENTITY AMeleven.label "11 בבוקר">
+<!ENTITY noon.label "צהריים">
+<!ENTITY PMone.label '1 אחה"צ'>
+<!ENTITY PMtwo.label '2 אחה"צ'>
+<!ENTITY PMthree.label '3 אחה"צ'>
+<!ENTITY PMfour.label '4 אחה"צ'>
+<!ENTITY PMfive.label '5 אחה"צ'>
+<!ENTITY PMsix.label '6 אחה"צ'>
+<!ENTITY PMseven.label '7 אחה"צ'>
+<!ENTITY PMeight.label "8 בערב">
+<!ENTITY PMnine.label "9 בערב">
+<!ENTITY PMten.label "10 בערב">
+<!ENTITY PMeleven.label "11 בערב">
+<!ENTITY notification.icon.label "שנה את צלמית הסימנייה">
+<!ENTITY notification.icon.accesskey "צ">
+<!ENTITY notification.sound.label "השמע צליל">
+<!ENTITY notification.sound.accesskey "ל">
+<!ENTITY notification.alert.label "הצג התרעה">
+<!ENTITY notification.alert.accesskey "ר">
+<!ENTITY notification.window.label "פתח אתר בחלון חדש">
+<!ENTITY notification.window.accesskey "פ">

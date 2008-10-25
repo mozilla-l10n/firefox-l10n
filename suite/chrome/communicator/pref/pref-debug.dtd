@@ -1,0 +1,17 @@
+<!ENTITY lHeader "ניפוי באגים">
+<!ENTITY rHeader "העדפות ניפוי באגים כלליות">
+<!ENTITY debugMiscellaneous.label "שונות">
+<!ENTITY debugEnableDump.label "אפשר פלט JavaScript dump()">
+<!ENTITY debugStrictJavascript.label "הראה אזהרות JavaScript נוקשות.">
+<!ENTITY debugConsoleJavascript.label "הראה שגיאות ואזהרות JavaScript ב־chrome">
+<!ENTITY debugUseXBLForms.label "השתמש בפקדי טפסים של XBL (נכנס לתוקף לאחר איתחון). אלה עדיין בבניה.">
+<!ENTITY widgetRendering.label "רינדור">
+<!ENTITY debugXULBox.label "תיבות XUL לניפוי באגים">
+<!ENTITY useNativePrintDialog.label "השתמש בתיבות דו שיח להדפסה ילידות (היכן שנתמך)">
+<!ENTITY printUseGlobalPrintSettings.label "השתמש בהגדרות הדפסה גלובאליות">
+<!ENTITY accelerators.label "מאיצי מקלדת">
+<!ENTITY acceleratorsBlurb.label "ערך של אפס מבטל את מקש השינוי.">
+<!ENTITY acceleratorKey.label "מקש האצה:">
+<!ENTITY acceleratorKey.accesskey "A">
+<!ENTITY menuAccessKey.label "מקש גישה לתפריט:">
+<!ENTITY menuAccessKey.accesskey "M">

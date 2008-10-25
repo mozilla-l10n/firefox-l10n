@@ -1,0 +1,17 @@
+<!ENTITY pref.http.title "הגדרות רשת HTTP">
+<!ENTITY prefDirect.label "אפשרויות חיבור ישיר">
+<!ENTITY prefProxy.label "אפשרויות חיבור דרך שרת מתווך">
+<!ENTITY prefEnableHTTP10.label "השתמש ב־HTTP 1.0">
+<!ENTITY prefEnableHTTP10.accesskey "ה">
+<!ENTITY prefEnableHTTP10Proxy.accesskey "ש">
+<!ENTITY prefEnableHTTP11.label "השתמש ב־HTTP 1.1">
+<!ENTITY prefEnableHTTP11.accesskey "ת">
+<!ENTITY prefEnableHTTP11Proxy.accesskey "מ">
+<!ENTITY prefEnableKeepAlive.label "אפשר חיבורים מתמידים">
+<!ENTITY prefEnableKeepAlive.accesskey "א">
+<!ENTITY prefEnableKeepAliveProxy.accesskey "פ">
+<!ENTITY prefEnablePipelining.label "אפשר צינוּר">
+<!ENTITY prefEnablePipelining.accesskey "צ">
+<!ENTITY prefEnablePipeliningProxy.accesskey "ר">
+<!ENTITY prefPara "ניתן לבצע כיוונון עדין של חיבורי HTTP בעזרת אפשרויות אלה על מנת לשפר את הביצועים או התאימות. ידוע ששרתים מתווכים מסויימים, למשל, דורשים HTTP/1.0 (ראה את ההערות למהדורה לפרטים).">
+<!ENTITY prefPipeWarning "אזהרה: צינוּר הוא תכונה נסיונית, שתוכננה לשפר את ביצועי טעינת העמוד, ואשר למרבה הצער אינה נתמכת היטב על־ידי חלק משרתי האתרים ושרתים מתווכים.">

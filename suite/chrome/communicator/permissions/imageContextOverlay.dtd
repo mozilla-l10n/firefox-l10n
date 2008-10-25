@@ -1,0 +1,4 @@
+<!ENTITY blockImageCmd.label "חסום תמונות משרת זה">
+<!ENTITY blockImageCmd.accesskey "ח">
+<!ENTITY unblockImageCmd.label "בטל חסימת תמונות משרת זה">
+<!ENTITY unblockImageCmd.accesskey "ב">

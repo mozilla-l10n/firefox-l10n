@@ -1,0 +1,16 @@
+<!ENTITY tree.header.name.label "כותרת">
+<!ENTITY tree.header.name.akey "כ">
+<!ENTITY tree.header.url.label "מיקום">
+<!ENTITY tree.header.url.akey "ם">
+<!ENTITY tree.header.date.label "ביקור אחרון">
+<!ENTITY tree.header.date.akey "ח">
+<!ENTITY tree.header.firstvisitdate.label "ביקור ראשון">
+<!ENTITY tree.header.firstvisitdate.akey "ר">
+<!ENTITY tree.header.referrer.label "מפנה">
+<!ENTITY tree.header.referrer.akey "נ">
+<!ENTITY tree.header.hostname.label "שם שרת מארח">
+<!ENTITY tree.header.hostname.akey "ש">
+<!ENTITY tree.header.visitcount.label "מספר ביקורים">
+<!ENTITY tree.header.visitcount.akey "ב">
+<!ENTITY bookmarkLinksCmd.label "הוסף סימניות לקישורים אלה">
+<!ENTITY bookmarkLinksCmd.akey "ה">

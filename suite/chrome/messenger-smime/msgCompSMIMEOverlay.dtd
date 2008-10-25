@@ -1,0 +1,16 @@
+<!ENTITY securityMenu.label "אבטחה">
+<!ENTITY securityMenu.accesskey "א">
+<!ENTITY menu_securityEncryptIfPossible.label "הצפן במידת האפשר">
+<!ENTITY menu_securityEncryptIfPossible.accesskey "ב">
+<!ENTITY menu_securityEncryptRequire.label "הצפן הודעה זו">
+<!ENTITY menu_securityEncryptRequire.accesskey "צ">
+<!ENTITY menu_securityNoEncryption.label "אל תצפין הודעה זו">
+<!ENTITY menu_securityNoEncryption.accesskey "ת">
+<!ENTITY menu_securitySign.label "חתום הודעה זו חתימה דיגיטלית">
+<!ENTITY menu_securitySign.accesskey "ח">
+<!ENTITY menu_securityStatus.label "הצג מידע על אבטחה">
+<!ENTITY menu_securityStatus.accesskey "מ">
+<!ENTITY securityButton.label "אבטחה">
+<!ENTITY securityButton.tooltip "הצגה או שינוי הגדרות אבטחה">
+<!ENTITY menu_viewSecurityStatus.label "מידע על אבטחת הודעה">
+<!ENTITY menu_viewSecurityStatus.accesskey "ע">

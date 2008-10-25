@@ -1,0 +1,12 @@
+<!ENTITY accountManagerTitle.label "הגדרות חשבון דואר וקבוצות דיון">
+<!ENTITY addAccountButton.label "הוסף חשבון...">
+<!ENTITY addAccountButton.accesskey "ה">
+<!ENTITY setDefaultButton.label "הגדר כברירת מחדל">
+<!ENTITY setDefaultButton.accesskey "ג">
+<!ENTITY duplicateButton.label "שכפל">
+<!ENTITY removeButton.label "הסר חשבון">
+<!ENTITY removeButton.accesskey "ס">
+<!ENTITY duplicate.label "שכפל">
+<!ENTITY accountManager.size "width: 58em; height: 44em;">
+<!ENTITY macAccountManager.size "width: 60em; height: 50em;">
+<!ENTITY accountTree.width "width: 17em;">

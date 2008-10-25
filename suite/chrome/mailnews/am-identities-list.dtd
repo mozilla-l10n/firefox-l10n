@@ -1,0 +1,8 @@
+<!ENTITY identitiesListTitle.label "זהויות המקושרות לחשבון זה">
+<!ENTITY identitiesListDesc.label "תמיכה בזהויות מרובות">
+<!ENTITY identitiesListAdd.label "הוסף...">
+<!ENTITY identitiesListAdd.accesskey "ה">
+<!ENTITY identitiesListEdit.label "ערוך...">
+<!ENTITY identitiesListEdit.accesskey "ע">
+<!ENTITY identitiesListDelete.label "מחק">
+<!ENTITY identitiesListDelete.accesskey "מ">

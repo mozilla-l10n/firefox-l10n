@@ -1,0 +1,8 @@
+<!ENTITY sendWindow.title "שולח הודעות">
+<!ENTITY titlePrefixSave "שומר הודעות -">
+<!ENTITY titlePrefixSend "שולח הודעות -">
+<!ENTITY status "מצב:">
+<!ENTITY progress "התקדמות:">
+<!ENTITY percentMsg "#1&#037;">
+<!ENTITY messageSent "ההודעה שלך נשלחה">
+<!ENTITY messageSaved "ההודעה שלך נשמרה">

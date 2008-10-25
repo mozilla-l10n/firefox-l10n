@@ -1,0 +1,16 @@
+<!ENTITY lookInMenuList.label "חפש ב:">
+<!ENTITY lookInMenuList.accesskey "ח">
+<!ENTITY textInput.label "שם קובץ:">
+<!ENTITY textInput.accesskey "ש">
+<!ENTITY filterMenuList.label "קבצים מסוג:">
+<!ENTITY filterMenuList.accesskey "ק">
+<!ENTITY name.label "שם">
+<!ENTITY size.label "גודל">
+<!ENTITY lastModified.label "שונה לאחרונה">
+<!ENTITY permissions.label "הרשאות">
+<!ENTITY showHiddenFiles.label "הראה קבצים וספריות נסתרים">
+<!ENTITY showHiddenFiles.accesskey "ה">
+<!ENTITY noPermissionError.label "אין לך את ההרשאות הדרושות כדי לראות ספרייה זו.">
+<!ENTITY folderUp.tooltiptext "עלה למעלה רמה אחת">
+<!ENTITY folderHome.tooltiptext "לך לתיקיית הבית">
+<!ENTITY folderNew.tooltiptext "צור תיקייה חדשה">

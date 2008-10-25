@@ -1,0 +1,10 @@
+<!ENTITY textZoomEnlargeCmd.label "גדול יותר">
+<!ENTITY textZoomEnlargeCmd.accesskey "ג">
+<!ENTITY textZoomEnlargeCmd.commandkey "+">
+<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY textZoomReduceCmd.label "קטן יותר">
+<!ENTITY textZoomReduceCmd.accesskey "ק">
+<!ENTITY textZoomReduceCmd.commandkey "-">
+<!ENTITY textZoomResetCmd.commandkey "0">
+<!ENTITY textZoomMenu.accesskey "ל">
+<!ENTITY textZoomOtherCmd.accesskey "א">

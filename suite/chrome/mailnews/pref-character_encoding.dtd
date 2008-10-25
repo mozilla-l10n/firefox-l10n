@@ -1,0 +1,14 @@
+<!--null-->
+<!ENTITY pref.character.encoding.title "קידוד תוים">
+<!ENTITY messageDisplay.caption "תצוגת הודעה">
+<!ENTITY viewDefaultCharset.label "קידוד תוים ברירת מחדל:">
+<!ENTITY viewDefaultCharset.accesskey "ק">
+<!ENTITY forceCharsetOverride.label "השתמש תמיד בקידוד תוים ברירת מחדל זה בעת הצגת הודעות (התעלם מקידוד התוים שצוין על ידי כותרת MIME).">
+<!ENTITY forceCharsetOverride.accesskey "ה">
+<!ENTITY composingMessages.caption "חיבור הודעות">
+<!ENTITY useMIME.label "בהודעות המכילות תוים בני 8 סיביות, השתמש בקידוד quoted printable' MIME'. השאר לא מסומן כדי לשלוח את ההודעות כפי שהן.">
+<!ENTITY useMIME.accesskey "ב">
+<!ENTITY sendDefaultCharset.label "קידוד תוים ברירת מחדל:">
+<!ENTITY sendDefaultCharset.accesskey "ד">
+<!ENTITY replyInDefaultCharset.label "השתמש תמיד בקידוד תוים ברירת מחדל זה בתשובות. (כאשר לא מסומן, רק הודעות חדשות משתמשות בברירת מחדל זו.)">
+<!ENTITY replyInDefaultCharset.accesskey "ש">

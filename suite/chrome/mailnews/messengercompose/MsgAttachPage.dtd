@@ -1,0 +1,6 @@
+<!--null-->
+<!ENTITY caption.label "ספח דף אינטרנט">
+<!ENTITY enter.label "הכנס את המיקום (URL), או ציין את הקובץ המקומי שברצונך לספח.">
+<!ENTITY enter.accesskey "ה">
+<!ENTITY chooseFile.label "בחר קובץ...">
+<!ENTITY chooseFile.accesskey "ב">

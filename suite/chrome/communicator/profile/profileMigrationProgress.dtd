@@ -1,0 +1,5 @@
+<!ENTITY dialogCancel.label "ביטול">
+<!ENTITY window.title "ממיר...">
+<!ENTITY dialogTitle.label "ממיר פרופיל משתמש">
+<!ENTITY currentlyProcessing.text "זה יכול לקחת זמן מה.">
+<!ENTITY downloadBeforeUpdate.text "">

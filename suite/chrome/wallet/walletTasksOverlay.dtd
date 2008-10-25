@@ -1,0 +1,27 @@
+<!ENTITY walletPasswordManager.label "מנהל הסיסמאות">
+<!ENTITY walletPasswordManager.accesskey "מ">
+<!ENTITY walletSafeFillCmd.label "מלא טופס">
+<!ENTITY walletSafeFillCmd.accesskey "ל">
+<!ENTITY walletQuickFillCmd.label "מלא טופס במהירות">
+<!ENTITY walletQuickFillCmd.accesskey "מ">
+<!ENTITY walletRequestToCaptureCmd.label "שמור נתוני טופס">
+<!ENTITY walletRequestToCaptureCmd.accesskey "ש">
+<!ENTITY walletDisplaySignonsCmd.label "נהל סיסמאות שמורות">
+<!ENTITY walletDisplaySignonsCmd.accesskey "נ">
+<!ENTITY walletInterviewCmd.label "ראיון">
+<!ENTITY walletInterviewCmd.accesskey "ר">
+<!ENTITY walletSamplesCmd.label "הדגמה">
+<!ENTITY walletSamplesCmd.accesskey "ה">
+<!ENTITY walletChangePasswordCmd.label "שנה סיסמה ראשית...">
+<!ENTITY walletChangePasswordCmd.accesskey "ש">
+<!ENTITY walletExpirePasswordCmd.label "התנתק">
+<!ENTITY walletExpirePasswordCmd.accesskey "ת">
+<!ENTITY walletEncryptCmd.label "הצפן מידע רגיש">
+<!ENTITY walletEncryptCmd.accesskey "ה">
+<!ENTITY walletObscureCmd.label "הסתר מידע רגיש">
+<!ENTITY walletObscureCmd.accesskey "ס">
+<!ENTITY walletClearCmd.label "אפס סיסמה ראשית">
+<!ENTITY walletClearCmd.accesskey "א">
+<!ENTITY PasswordNotChanged "לא ניתן לשנות את הסיסמה הראשית שלך.">
+<!ENTITY PasswordExpired "אתה מנותק עתה.">
+<!ENTITY PasswordNotExpired "לא מצליח להתנתק.">

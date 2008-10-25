@@ -1,0 +1,64 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is mozilla.org code.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Bob Lord <lord@netscape.com>
+   -   Terry Hayes <thayes@netscape.com>
+   -   Tsahi Asher <tsahi_75@yahoo.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY SSLProtocolVersions.caption "גרסאות פרוטוקול SSL">
+<!ENTITY SSLWarnings.caption "אזהרות SSL">
+<!ENTITY SSLClientAuthMethod.caption "בחירת אישור לקוח">
+<!ENTITY pref.ssl.title "Secure Sockets Layer (SSL)">
+<!ENTITY enable.ssl3 "אפשר SSL גרסה 3">
+<!ENTITY enable.ssl3.accesskey "א">
+<!ENTITY enable.tls "אפשר TLS">
+<!ENTITY enable.tls.accesskey "פ">
+<!ENTITY warn.description "&brandShortName; יכול להתריע בפניך על מצב האבטחה של הדף בו אתה צופה. הגדר ש־&brandShortName; יציג אזהרה ויבקש רשות לפני:">
+<!ENTITY warn.enteringsecure "טעינת דף התומך בהצפנה">
+<!ENTITY warn.enteringsecure.accesskey "ט">
+<!ENTITY warn.enteringweak "טעינת דף המשתמש בהצפנה ברמה נמוכה">
+<!ENTITY warn.enteringweak.accesskey "ת">
+<!ENTITY warn.insecurepost "שליחת מידע בטופס מדף לא מוצפן לדף לא מוצפן">
+<!ENTITY warn.insecurepost.accesskey "ש">
+<!ENTITY warn.leavingsecure "עזיבת דף התומך בהצפנה">
+<!ENTITY warn.leavingsecure.accesskey "ב">
+<!ENTITY warn.secureredirect "הפניה מדף מוצפן אחד לאחר">
+<!ENTITY warn.secureredirecttoinsecure "הפניה מדף מוצפן לדף לא מוצפן">
+<!ENTITY warn.viewmixed "הצגת דף שחלקו מוצפן וחלקו לא מוצפן">
+<!ENTITY warn.viewmixed.accesskey "צ">
+<!ENTITY certselect.description "החלט כיצד &brandShortName; בוחר אישור אבטחה להצגה לאתרים הדורשים אישור:">
+<!ENTITY certselect.auto "בחר אוטומטית">
+<!ENTITY certselect.auto.accesskey "ח">
+<!ENTITY certselect.ask "שאל בכל פעם">
+<!ENTITY certselect.ask.accesskey "ל">
