@@ -367,12 +367,12 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Opprett filter fra melding">
 <!ENTITY createFilter.accesskey "O">
-<!ENTITY moveMsgMenu.label "Flytt">
-<!ENTITY moveMsgMenu.accesskey "F">
+<!ENTITY moveMsgToMenu.label "Flytt til">
+<!ENTITY moveMsgToMenu.accesskey "F">
 <!ENTITY copyMessageLocation.label "Kopier meldingsadresse">
 <!ENTITY copyMessageLocation.accesskey "p">
-<!ENTITY copyMsgMenu.label "Kopier">
-<!ENTITY copyMsgMenu.accesskey "K">
+<!ENTITY copyMsgToMenu.label "Kopier til">
+<!ENTITY copyMsgToMenu.accesskey "K">
 <!ENTITY moveCopyMsgRecentMenu.label "Nylig brukt">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "N">
 <!ENTITY killThreadMenu.label "Ignorer tråd">
