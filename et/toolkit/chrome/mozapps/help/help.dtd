@@ -22,9 +22,8 @@
 <!ENTITY printButton.tooltip            "Prindi see leht">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY searchtab.label                "Otsi">
-<!ENTITY searchtab.accesskey            "O">
-<!ENTITY searchClose.tooltip            "Sulge otsingutulemused">
+<!ENTITY search.emptytext               "Otsi">
+<!ENTITY searchHeader.label             "Otsingu tulemused">
 <!ENTITY toctab.label                   "Sisu">
 <!ENTITY toctab.accesskey               "S">
 
