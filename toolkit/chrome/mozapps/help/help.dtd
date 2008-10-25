@@ -53,9 +53,8 @@
 <!ENTITY printButton.tooltip            "Skriv ut denna sida">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY searchtab.label                "Sök">
-<!ENTITY searchtab.accesskey            "S">
-<!ENTITY searchClose.tooltip            "Stäng sökresultat">
+<!ENTITY search.emptytext               "Sök">
+<!ENTITY searchHeader.label             "Sökresultat">
 <!ENTITY toctab.label                   "Innehåll">
 <!ENTITY toctab.accesskey               "I">
 
