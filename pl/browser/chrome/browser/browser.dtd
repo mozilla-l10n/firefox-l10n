@@ -270,8 +270,16 @@
 <!ENTITY sendLinkCmd.accesskey "d" >
 <!ENTITY saveImageCmd.label "Zapisz obrazek jako…" >
 <!ENTITY saveImageCmd.accesskey "Z" >
+<!ENTITY saveVideoCmd.label           "Zapisz wideo jako…">
+<!ENTITY saveVideoCmd.accesskey       "Z">
+<!ENTITY saveAudioCmd.label           "Zapisz dźwięk jako…">
+<!ENTITY saveAudioCmd.accesskey       "Z">
 <!ENTITY sendImageCmd.label "Wyślij obrazek…" >
 <!ENTITY sendImageCmd.accesskey "o" >
+<!ENTITY sendVideoCmd.label           "Wyślij wideo…">
+<!ENTITY sendVideoCmd.accesskey       "o">
+<!ENTITY sendAudioCmd.label           "Wyślij dźwięk…">
+<!ENTITY sendAudioCmd.accesskey       "d">
 <!ENTITY copyLinkCmd.label "Kopiuj adres odnośnika" >
 <!ENTITY copyLinkCmd.accesskey "K" >
 <!ENTITY copyLinkTextCmd.label        "Kopiuj tekst odnośnika">
@@ -279,7 +287,11 @@
 <!ENTITY copyImageCmd.label "Kopiuj adres obrazka" >
 <!ENTITY copyImageCmd.accesskey "b" >
 <!ENTITY copyImageContentsCmd.label	"Kopiuj obrazek">
-<!ENTITY copyImageContentsCmd.accesskey	"r"> 
+<!ENTITY copyImageContentsCmd.accesskey	"r">
+<!ENTITY copyVideoURLCmd.label        "Kopiuj adres wideo">
+<!ENTITY copyVideoURLCmd.accesskey    "d">
+<!ENTITY copyAudioURLCmd.label        "Kopiuj adres dźwięku">
+<!ENTITY copyAudioURLCmd.accesskey    "d">
 <!ENTITY blockImageCmd.accesskey	"l">
 <!ENTITY metadataCmd.label "Właściwości" >
 <!ENTITY metadataCmd.accesskey "i" >
@@ -287,6 +299,20 @@
 <!ENTITY copyEmailCmd.accesskey "e" >
 <!ENTITY thisFrameMenu.label "Ramka" >
 <!ENTITY thisFrameMenu.accesskey "r" >
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "Odtwórz">
+<!ENTITY mediaPlay.accesskey         "O">
+<!ENTITY mediaPause.label            "Wstrzymaj">
+<!ENTITY mediaPause.accesskey        "W">
+<!ENTITY mediaMute.label             "Wycisz">
+<!ENTITY mediaMute.accesskey         "c">
+<!ENTITY mediaUnmute.label           "Przywróć głośność">
+<!ENTITY mediaUnmute.accesskey       "P">
+<!ENTITY mediaShowControls.label     "Wyświetl narzędzia">
+<!ENTITY mediaShowControls.accesskey "e">
+<!ENTITY mediaHideControls.label     "Ukryj narzędzia">
+<!ENTITY mediaHideControls.accesskey "U">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and               
