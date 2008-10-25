@@ -33,5 +33,5 @@
 <!ENTITY manageCookies.label            "Hantera kakor och webbplatser">
 <!ENTITY manageCookiesDescription.label "Låter dig visa och hantera lagrade kakor och inställningar för accepterande och blockerande av kakor för olika platser. Inställningar för en plats kommer att åsidosätta ovanstående inställningar.">
 
-<!ENTITY viewCookies.label              "Hantera lagrade kakor">
+<!ENTITY viewCookies.label              "Kakhanteraren">
 <!ENTITY viewCookies.accesskey          "n">
