@@ -113,7 +113,7 @@
 <!ENTITY undoCmd.accesskey "h">
 <!ENTITY redoCmd.label "Rehacer">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "R">
+<!ENTITY redoCmd.accesskey "h">
 <!ENTITY cutCmd.label "Cortar">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "t">
@@ -194,7 +194,7 @@
 <!ENTITY bookmarkThisFrameCmd.label "Añadir este cuadro a marcadores">
 <!ENTITY bookmarkThisFrameCmd.accesskey "m">
 <!ENTITY sendPageCmd.label "Enviar página…">
-<!ENTITY sendPageCmd.accesskey "g">
+<!ENTITY sendPageCmd.accesskey "E">
 <!ENTITY savePageCmd.label "Guardar como…">
 <!ENTITY savePageCmd.accesskey "A">
 <!ENTITY savePageCmd.accesskey2 "d">
@@ -209,8 +209,16 @@
 <!ENTITY sendLinkCmd.accesskey "l">
 <!ENTITY saveImageCmd.label "Guardar imagen como…">
 <!ENTITY saveImageCmd.accesskey "u">
+<!ENTITY saveVideoCmd.label "Guardar vídeo como…">
+<!ENTITY saveVideoCmd.accesskey "v">
+<!ENTITY saveAudioCmd.label "Guardar audio como…">
+<!ENTITY saveAudioCmd.accesskey "a">
 <!ENTITY sendImageCmd.label "Enviar imagen…">
 <!ENTITY sendImageCmd.accesskey "n">
+<!ENTITY sendVideoCmd.label "Enviar vídeo…">
+<!ENTITY sendVideoCmd.accesskey "n">
+<!ENTITY sendAudioCmd.label "Enviar audio…">
+<!ENTITY sendAudioCmd.accesskey "n">
 <!ENTITY copyLinkCmd.label "Copiar la ruta del enlace">
 <!ENTITY copyLinkCmd.accesskey "a">
 <!ENTITY copyLinkTextCmd.label "Copiar enlace de texto">
@@ -219,6 +227,10 @@
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyImageContentsCmd.label "Copiar imagen">
 <!ENTITY copyImageContentsCmd.accesskey "C">
+<!ENTITY copyVideoURLCmd.label "Copiar dirección del vídeo">
+<!ENTITY copyVideoURLCmd.accesskey "o">
+<!ENTITY copyAudioURLCmd.label "Copiar dirección del audio">
+<!ENTITY copyAudioURLCmd.accesskey "o">
 <!ENTITY blockImageCmd.accesskey "B">
 <!ENTITY metadataCmd.label "Propiedades">
 <!ENTITY metadataCmd.accesskey "P">
@@ -226,6 +238,18 @@
 <!ENTITY copyEmailCmd.accesskey "E">
 <!ENTITY thisFrameMenu.label "Este marco">
 <!ENTITY thisFrameMenu.accesskey "m">
+<!ENTITY mediaPlay.label "Reproducir">
+<!ENTITY mediaPlay.accesskey "P">
+<!ENTITY mediaPause.label "Pausa">
+<!ENTITY mediaPause.accesskey "P">
+<!ENTITY mediaMute.label "Silenciar">
+<!ENTITY mediaMute.accesskey "S">
+<!ENTITY mediaUnmute.label "Dar voz">
+<!ENTITY mediaUnmute.accesskey "v">
+<!ENTITY mediaShowControls.label "Mostrar controles">
+<!ENTITY mediaShowControls.accesskey "C">
+<!ENTITY mediaHideControls.label "Ocultar controles">
+<!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY fullZoomEnlargeCmd.label "Aumentar">
 <!ENTITY fullZoomEnlargeCmd.accesskey "A">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">

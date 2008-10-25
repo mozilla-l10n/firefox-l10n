@@ -1,4 +1,4 @@
-<!ENTITY restorepage.title "Restaurar sesión anterior">
+<!ENTITY restorepage.title "Restaurar la sesión anterior">
 <!ENTITY restorepage.titletext "La última sesión de &brandShortName; se cerró inesperadamente">
 <!ENTITY restorepage.shortDesc "Puede restaurar las pestañas y las ventanas de su sesión anterior, o bien iniciar una sesión nueva si no se necesitan en un futuro. Nuestras disculpas por los inconvenientes.">
 <!ENTITY restorepage.remedies "Si &brandShortName; se cierra repetidamente:">
@@ -7,7 +7,7 @@
 <!ENTITY restorepage.restoreButton "Restaurar sesión anterior">
 <!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.cancelButton "Iniciar sesión nueva">
-<!ENTITY restorepage.cancel.access "S">
+<!ENTITY restorepage.cancel.access "I">
 <!ENTITY restorepage.restoreHeader "Restaurar">
 <!ENTITY restorepage.listHeader "Ventanas y pestañas">
 <!ENTITY restorepage.windowLabel "Ventana #&#037;S">

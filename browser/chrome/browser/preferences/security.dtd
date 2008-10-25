@@ -2,7 +2,7 @@
 <!ENTITY warnAddonInstall.accesskey "v">
 <!ENTITY blockAttackSites.label "Bloqueado un sitio atacante que fue reportado">
 <!ENTITY blockAttackSites.accesskey "q">
-<!ENTITY blockWebForgeries.label "Bloqueado una falsificación web que fue reportada">
+<!ENTITY blockWebForgeries.label "Bloqueada una web falsificada que fue reportada">
 <!ENTITY blockWebForgeries.accesskey "B">
 <!ENTITY addonExceptions.label "Excepciones…">
 <!ENTITY addonExceptions.accesskey "E">

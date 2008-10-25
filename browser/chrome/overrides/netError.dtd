@@ -113,7 +113,7 @@
 <!ENTITY nssFailure2.longDesc "
 <ul>
   <li>La página que está intentando ver no puede mostrarse porque no se ha podido verificar la autenticidad de los datos recibidos.</li>
-  <li>Por favor, contacte con los administradores del sitio web para informarles de este problema. De manera alternativa, use la opción del menú Ayuda para reportar el problema de este sitio web.</li>
+  <li>Por favor, contacte con los administradores del sitio web para informarles de este problema. De manera alternativa, use la opción del menú Ayuda para informar del problema de este sitio web.</li>
 </ul>
 ">
 <!ENTITY nssBadCert.title "La conexión segura ha fallado">

@@ -61,7 +61,7 @@
 <!ENTITY cmd.edit_undo.accesskey "D">
 <!ENTITY cmd.edit_undo.key "z">
 <!ENTITY cmd.edit_redo.label "Rehacer">
-<!ENTITY cmd.edit_redo.accesskey "e">
+<!ENTITY cmd.edit_redo.accesskey "h">
 <!ENTITY cmd.edit_redo.key "y">
 <!ENTITY cmd.open.label "Abrir">
 <!ENTITY cmd.open.accesskey "A">
@@ -182,7 +182,7 @@
 <!ENTITY forwardCmd.accesskey "t">
 <!ENTITY forwardButton.tooltip "Ir adelante">
 <!ENTITY detailsPane.more.label "Más">
-<!ENTITY detailsPane.more.accesskey "s">
+<!ENTITY detailsPane.more.accesskey "M">
 <!ENTITY detailsPane.less.label "Menos">
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.noPreviewAvailable.label "Previsualizar">
