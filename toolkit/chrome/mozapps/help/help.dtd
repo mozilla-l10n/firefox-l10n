@@ -19,9 +19,8 @@
 <!ENTITY printButton.label "Prenta">
 <!ENTITY printButton.tooltip "Prenta síðu">
 <!ENTITY closeWindow.commandkey "W">
-<!ENTITY searchtab.label "Leita">
-<!ENTITY searchtab.accesskey "L">
-<!ENTITY searchClose.tooltip "Loka leitarniðurstöðum">
+<!ENTITY search.emptytext "Leita">
+<!ENTITY searchHeader.label "Leita í niðurstöðum">
 <!ENTITY toctab.label "Innihald">
 <!ENTITY toctab.accesskey "I">
 <!-- LOCALIZATION NOTE :
