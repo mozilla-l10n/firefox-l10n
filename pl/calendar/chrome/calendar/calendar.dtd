@@ -56,7 +56,6 @@
 
 <!ENTITY calendar.newtask.button.tooltip          "Utwórz nowe zadanie" >
 <!ENTITY calendar.newevent.button.tooltip         "Utwórz nowe wydarzenie" >
-<!ENTITY calendar.delete.button.tooltip           "Usuń wybrane wydarzenie" >
 <!ENTITY calendar.edit.button.tooltip             "Edytuj wybrane wydarzenie" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Zadania" >
@@ -108,11 +107,7 @@
 
 <!ENTITY calendar.newtask.button.label          "Nowe zadanie" >
 <!ENTITY calendar.newevent.button.label         "Nowe wydarzenie" >
-<!ENTITY calendar.delete.button.label           "Usuń" >
 <!ENTITY calendar.edit.button.label             "Edytuj" >
-
-<!ENTITY calendar.print.button.tooltip          "Drukuj kalendarz" >
-
 <!ENTITY calendar.print.button.label            "Drukuj" >
 
 <!ENTITY calendar.import.button.tooltip            "Importuj wydarzenia z pliku lokalnego" >
@@ -127,9 +122,6 @@
 <!ENTITY calendar.subscribe.button.label           "Subskrybuj" >
 <!ENTITY calendar.publish.button.label             "Publikuj" >
 <!ENTITY calendar.unifinder.button.label           "Znajdź wydarzenia" >
-
-<!ENTITY calendar.remotereload.button.label   "Odśwież" >
-<!ENTITY calendar.remotereload.button.tooltip   "Odśwież wszystkie zdalne kalendarze" >
 
 <!ENTITY calendar.day.button.label          "Dzień" >
 <!ENTITY calendar.week.button.label         "Tydzień" >
@@ -178,7 +170,6 @@
 <!ENTITY calendar.task.category.button.tooltip  "Przyporządkuj zadaniom kategorie">
 <!ENTITY calendar.task.complete.button.tooltip  "Oznacz wybrane zadania jako ukończone">
 <!ENTITY calendar.task.priority.button.tooltip  "Zmień priorytet">
-<!ENTITY calendar.task.delete.button.tooltip    "Usuń wybrane zadania">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Dokument: wykonano">

@@ -37,15 +37,20 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!ENTITY sunbird.choosedate.button.tooltip                 "Wybierz dzień, do którego chcesz przejść" >
 <!ENTITY sunbird.cut.button.tooltip                        "Wytnij" >
 <!ENTITY sunbird.copy.button.tooltip                       "Kopiuj" >
 <!ENTITY sunbird.paste.button.tooltip                      "Wklej" >
+<!ENTITY sunbird.print.button.tooltip                      "Drukuj kalendarz" >
+<!ENTITY sunbird.delete.button.tooltip                     "Usuń wybrane wydarzenie" >
+<!ENTITY sunbird.remotereload.button.tooltip               "Odśwież wszystkie zdalne kalendarze" >
 
 <!ENTITY sunbird.choosedate.button.label                   "Wskaż datę" >
-<!ENTITY sunbird.choosedate.button.tooltip                 "Wybierz dzień, do którego chcesz przejść" >
 <!ENTITY sunbird.cut.button.label                          "Wytnij" >
 <!ENTITY sunbird.copy.button.label                         "Kopiuj" >
 <!ENTITY sunbird.paste.button.label                        "Wklej" >
+<!ENTITY sunbird.delete.button.label                       "Usuń" >
+<!ENTITY sunbird.remotereload.button.label                 "Odśwież" >
 
 <!ENTITY sunbird.flat.topbar.choosedate                    "Przejdź do dnia:" >
 <!ENTITY sunbird.flat.topbar.dayview                       "Widok dnia" >
