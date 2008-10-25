@@ -295,8 +295,16 @@
 <!ENTITY sendLinkCmd.accesskey        "c">
 <!ENTITY saveImageCmd.label           "Spara bild som…">
 <!ENTITY saveImageCmd.accesskey       "b">
+<!ENTITY saveVideoCmd.label           "Spara video som…">
+<!ENTITY saveVideoCmd.accesskey       "o">
+<!ENTITY saveAudioCmd.label           "Spara ljud som…">
+<!ENTITY saveAudioCmd.accesskey       "o">
 <!ENTITY sendImageCmd.label           "Skicka bild…">
 <!ENTITY sendImageCmd.accesskey       "i">
+<!ENTITY sendVideoCmd.label           "Skicka video…">
+<!ENTITY sendVideoCmd.accesskey       "i">
+<!ENTITY sendAudioCmd.label           "Skicka ljud…">
+<!ENTITY sendAudioCmd.accesskey       "i">
 <!ENTITY copyLinkCmd.label            "Kopiera länkadress">
 <!ENTITY copyLinkCmd.accesskey        "K">
 <!ENTITY copyLinkTextCmd.label        "Kopiera länktext">
@@ -305,13 +313,32 @@
 <!ENTITY copyImageCmd.accesskey       "r">
 <!ENTITY copyImageContentsCmd.label   "Kopiera bild">
 <!ENTITY copyImageContentsCmd.accesskey  "d"> 
-<!ENTITY blockImageCmd.accesskey       "å">
+<!ENTITY copyVideoURLCmd.label        "Kopiera videoadress">
+<!ENTITY copyVideoURLCmd.accesskey    "r">
+<!ENTITY copyAudioURLCmd.label        "Kopiera ljudadress">
+<!ENTITY copyAudioURLCmd.accesskey    "r">
+<!ENTITY blockImageCmd.accesskey      "å">
 <!ENTITY metadataCmd.label            "Egenskaper">
 <!ENTITY metadataCmd.accesskey        "E">
 <!ENTITY copyEmailCmd.label           "Kopiera e-postadress">
 <!ENTITY copyEmailCmd.accesskey       "p">
 <!ENTITY thisFrameMenu.label          "Denna ram">
 <!ENTITY thisFrameMenu.accesskey      "r">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "Spela upp">
+<!ENTITY mediaPlay.accesskey         "p">
+<!ENTITY mediaPause.label            "Pausa">
+<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaMute.label             "Ljud av">
+<!ENTITY mediaMute.accesskey         "L">
+<!ENTITY mediaUnmute.label           "Ljud på">
+<!ENTITY mediaUnmute.accesskey       "L">
+<!ENTITY mediaShowControls.label     "Visa kontroller">
+<!ENTITY mediaShowControls.accesskey "k">
+<!ENTITY mediaHideControls.label     "Dölj kontroller">
+<!ENTITY mediaHideControls.accesskey "k">
+
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
