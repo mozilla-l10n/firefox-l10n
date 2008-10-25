@@ -224,6 +224,12 @@
 <!ENTITY copyImageCmd.accesskey "ע">
 <!ENTITY copyImageContentsCmd.label "העתק תמונה">
 <!ENTITY copyImageContentsCmd.accesskey "ת">
+
+<!ENTITY copyVideoURLCmd.label        "העתק מיקום וידאו">
+<!ENTITY copyVideoURLCmd.accesskey    "ה">
+<!ENTITY copyAudioURLCmd.label        "העתק מיקום אודיו">
+<!ENTITY copyAudioURLCmd.accesskey    "ה">
+
 <!ENTITY blockImageCmd.accesskey "ס">
 <!ENTITY metadataCmd.label "מאפיינים">
 <!ENTITY metadataCmd.accesskey "א">
@@ -277,6 +283,31 @@
 <!ENTITY saveFrameCmd.accesskey       "מ">
 <!ENTITY printFrameCmd.label          "הדפס מסגרת...">
 <!ENTITY printFrameCmd.accesskey      "ה">
+
+<!ENTITY saveVideoCmd.label           "שמור וידאו בשם…">
+<!ENTITY saveVideoCmd.accesskey       "מ">
+<!ENTITY saveAudioCmd.label           "שמור אודיו בשם…">
+<!ENTITY saveAudioCmd.accesskey       "מ">
+
+<!ENTITY sendVideoCmd.label           "שלח וידאו…">
+<!ENTITY sendVideoCmd.accesskey       "ל">
+<!ENTITY sendAudioCmd.label           "שלח אודיו…">
+<!ENTITY sendAudioCmd.accesskey       "ל">
+
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "נגן">
+<!ENTITY mediaPlay.accesskey         "נ">
+<!ENTITY mediaPause.label            "השהה">
+<!ENTITY mediaPause.accesskey        "ה">
+<!ENTITY mediaMute.label             "השתק">
+<!ENTITY mediaMute.accesskey         "ש">
+<!ENTITY mediaUnmute.label           "בטל השתקה">
+<!ENTITY mediaUnmute.accesskey       "ש">
+<!ENTITY mediaShowControls.label     "הצג פקדים">
+<!ENTITY mediaShowControls.accesskey "פ">
+<!ENTITY mediaHideControls.label     "הסתר פקדים">
+<!ENTITY mediaHideControls.accesskey "פ">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
