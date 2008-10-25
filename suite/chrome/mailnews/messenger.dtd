@@ -370,12 +370,12 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Skapa filterregel utifrån meddelandet…">
 <!ENTITY createFilter.accesskey "p">
-<!ENTITY moveMsgMenu.label "Flytta till">
-<!ENTITY moveMsgMenu.accesskey "y">
+<!ENTITY moveMsgToMenu.label "Flytta till">
+<!ENTITY moveMsgToMenu.accesskey "y">
 <!ENTITY copyMessageLocation.label "Kopiera meddelandeadressen">
 <!ENTITY copyMessageLocation.accesskey "l">
-<!ENTITY copyMsgMenu.label "Kopiera till">
-<!ENTITY copyMsgMenu.accesskey "K">
+<!ENTITY copyMsgToMenu.label "Kopiera till">
+<!ENTITY copyMsgToMenu.accesskey "K">
 <!ENTITY moveCopyMsgRecentMenu.label "Senaste">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "S">
 <!ENTITY killThreadMenu.label "Ignorera tråd">

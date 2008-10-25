@@ -48,7 +48,7 @@
 <!ENTITY validation.ocsp.caption                  "OCSP">
 <!ENTITY enableOCSP.label                         "Använd Online Certificate Status Protocol (OCSP) för att bekräfta att certifikat är giltiga">
 <!ENTITY enableOCSP.accesskey                     "O">
-<!ENTITY certOCSP2.label                          "Validera ett certifikat om det anger en OCSP-server">
+<!ENTITY certOCSP2.label                          "Validera ett certifikat om det uppger en OCSP-server">
 <!ENTITY certOCSP2.accesskey                      "V">
 <!ENTITY proxyOCSP2.label                         "Validera alla certifikat med följande OCSP-server:">
 <!ENTITY proxyOCSP2.accesskey                     "a">
