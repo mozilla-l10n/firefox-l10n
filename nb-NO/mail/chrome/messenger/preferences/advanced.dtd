@@ -84,7 +84,6 @@
 <!ENTITY clearCacheNow.accesskey         "T">
 
 <!-- Certificates -->
-<!ENTITY certificatesInfo2.label        "Behandle sertifikater, tilbakekallingslister, sertifikatvalidering og sikkerhetsenheter.">
 <!ENTITY viewCertificates.label         "Vis sertifikater">
 <!ENTITY viewCertificates.accesskey     "V">
 <!ENTITY viewCRLs.label                 "Tilbakekallingslister">

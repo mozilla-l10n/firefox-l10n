@@ -9,7 +9,6 @@
 <!ENTITY sendHTML.accesskey           "d">
 <!ENTITY sendBoth.label               "Send meldingen som både tekst og HTML">
 <!ENTITY sendBoth.accesskey           "m">
-<!ENTITY receiveHTML.label            "Dersom du vet at en bestemt mottaker kan motta HTML-e-post, kan du fjerne avkryssingen fra valget 'Send meldingen som ren tekst (ingen HTML)' i mottakerens adressebok-oppføring.">
 <!ENTITY override.label               "Merk: Bruk adresseboken til angi foretrukket tekstformat for mottakerne.">
 
 <!ENTITY domaindesc.label             "Når du sende en melding til en adresse innenfor et av domenene som er listet under, vil &brandShortName; automatisk sende meldingen i det formatet som er valgt.">
@@ -28,14 +27,5 @@
 
 <!ENTITY add.htmltitle                "Legg til HTML domenenavn">
 <!ENTITY add.htmldomain               "HTML domenenavn:">
-<!ENTITY add.htmldomain.accesskey     "d">
 <!ENTITY add.plaintexttitle           "Legg til tekst-domenenavn">
 <!ENTITY add.plaintextdomain          "Tekst-domenenavn:">
-<!ENTITY add.plaintext.accesskey      "d">
-
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY domainnameError.title        "Feil i domenenavn">
-<!ENTITY duplicationError.label       "Domenenavnet @string@ finnes allerede i listen.">
-
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY dualEntryError.label         "Et domenenavn kan ikke forekomme i både HTML- og tekst-listene. Domenenavnet @string@ finnes allerede.">

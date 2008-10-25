@@ -342,14 +342,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Opprett filter fra melding">
 <!ENTITY createFilter.accesskey "O">
-<!ENTITY moveMsgMenu.label "Flytt">
-<!ENTITY moveMsgMenu.accesskey "F">
+<!ENTITY moveMsgToMenu.label "Flytt til">
+<!ENTITY moveMsgToMenu.accesskey "F">
 <!ENTITY moveCopyMsgRecentMenu.label "Sist brukt">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "S">
 <!ENTITY copyMessageLocation.label "Kopier meldingsplassering">
 <!ENTITY copyMessageLocation.accesskey "p">
-<!ENTITY copyMsgMenu.label "Kopier">
-<!ENTITY copyMsgMenu.accesskey "K">
+<!ENTITY copyMsgToMenu.label "Kopier til">
+<!ENTITY copyMsgToMenu.accesskey "K">
 <!ENTITY moveToFolderAgain.label "Flytt igjen">
 <!ENTITY moveToFolderAgain.accesskey "F">
 <!ENTITY moveToFolderAgainCmd.key "m">

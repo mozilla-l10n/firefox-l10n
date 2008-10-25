@@ -48,7 +48,7 @@
 
 <!ENTITY newevent.from.label                "Fra" >
 <!ENTITY newevent.to.label                  "Til" >
-<!ENTITY newevent.attendees.sendEmail.label "Send invitasjon til deltakere via e-post">
+<!ENTITY newevent.attendees.notify.label    "Varsle deltakere">
 
 <!ENTITY newevent.status.label              "Status" >
 <!ENTITY newevent.status.accesskey          "S" >

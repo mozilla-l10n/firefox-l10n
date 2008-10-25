@@ -54,26 +54,9 @@
 <!ENTITY calendar.new.server.key                "L">
 <!ENTITY calendar.new.server.accesskey          "k">
 
-<!ENTITY calendar.open.file.label               "Åpne kalender …">
-<!ENTITY calendar.open.file.key                 "O">
-<!ENTITY calendar.open.file.accesskey           "Å">
-
-<!ENTITY event.edit.event                       "Rediger …">
-<!ENTITY event.edit.event.key                   "E">
-<!ENTITY event.edit.event.accesskey             "e">
-
-<!ENTITY event.delete.event                     "Slett valgte hendelser">
-<!ENTITY event.delete.event.accesskey           "S">
-
-<!ENTITY event.delete.tasks                     "Slett valgte oppgaver">
-<!ENTITY event.delete.tasks.accesskey           "v">
-
 <!ENTITY calendar.print.label                   "Skriv ut …">
 <!ENTITY calendar.print.key                     "P">
 <!ENTITY calendar.print.accesskey               "u">
-
-<!ENTITY calendar.pagesetup.label               "Utskriftsformat …">
-<!ENTITY calendar.pagesetup.accesskey           "U">
 
 <!ENTITY calendar.import.label                  "Importer…">
 <!ENTITY calendar.import.key                    "I">
@@ -84,54 +67,8 @@
 <!ENTITY calendar.export.selection.label        "Eksporter utvalg …">
 <!ENTITY calendar.export.selection.accesskey    "S">
 
-<!ENTITY calendar.subscribe.label               "Abonner på ekstern kalender …">
-<!ENTITY calendar.subscribe.accesskey           "A">
-
-<!ENTITY calendar.reloadserver.label            "Hent eksterne kalendere på nytt">
-<!ENTITY calendar.reloadserver.key              "R">
-<!ENTITY calendar.reloadserver.accesskey        "H">
-
 <!ENTITY calendar.publish.label                 "Publiser …">
 <!ENTITY calendar.publish.accesskey             "b">
-<!ENTITY calendar.publish.calendar.label        "Publiser kalender …">
-<!ENTITY calendar.publish.calendar.accesskey    "b">
-<!ENTITY calendar.publish.selection.label       "Publiser utvalg …">
-<!ENTITY calendar.publish.selection.accesskey   "P">
-
-<!ENTITY calendar.quit.label                    "Avslutt">
-<!ENTITY calendar.quit.accesskey                "v">
-<!ENTITY calendar.quit.key                      "Q">
-<!ENTITY calendar.quit.label.mac                "Avslutt &brandShortName;">
-
-<!ENTITY calendar.exit.label                    "Avslutt">
-<!ENTITY calendar.exit.accesskey                "v">
-
-<!ENTITY calendar.undo.label                    "Angre">
-<!ENTITY calendar.undo.key                      "Z">
-<!ENTITY calendar.undo.accesskey                "A">
-
-<!ENTITY calendar.redo.label                    "Gjenta">
-<!ENTITY calendar.redo.key                      "Y">
-<!ENTITY calendar.redo.accesskey                "G">
-
-<!ENTITY calendar.cut.label                     "Klipp ut">
-<!ENTITY calendar.cut.key                       "X">
-<!ENTITY calendar.cut.accesskey                 "u">
-
-<!ENTITY calendar.copy.label                    "Kopier">
-<!ENTITY calendar.copy.key                      "C">
-<!ENTITY calendar.copy.accesskey                "K">
-
-<!ENTITY calendar.paste.label                   "Lim inn">
-<!ENTITY calendar.paste.key                     "V">
-<!ENTITY calendar.paste.accesskey               "i">
-
-<!ENTITY calendar.selectall.label               "Merk alle">
-<!ENTITY calendar.selectall.key                 "A">
-<!ENTITY calendar.selectall.accesskey           "a">
-
-<!ENTITY toolbarsMenu.label                     "Verktøylinjer">
-<!ENTITY toolbarsMenu.accesskey                 "V">
 
 <!ENTITY calendar.toolbar.label                 "Kalender-verktøylinje">
 <!ENTITY calendar.toolbar.accesskey             "K">
@@ -140,12 +77,6 @@
 
 <!ENTITY calendar.menu.customize.label          "Tilpass …">
 <!ENTITY calendar.menu.customize.accesskey      "T">
-
-<!ENTITY showStatusBarCmd.label                 "Statuslinje">
-<!ENTITY showStatusBarCmd.accesskey             "t">
-
-<!ENTITY showTaskBoxCmd.label                   "Oppgaveliste">
-<!ENTITY showTaskBoxCmd.accesskey               "O">
 
 <!ENTITY showUnifinderCmd.label                 "Finn hendelser">
 <!ENTITY showUnifinderCmd.accesskey             "F">
@@ -160,20 +91,8 @@
 <!ENTITY calendar.menu.numberofweeks.5          "Fem uker">
 <!ENTITY calendar.menu.numberofweeks.6          "Seks uker">
 
-<!ENTITY calendar.fullscreen.label              "Fullskjerm">
-<!ENTITY calendar.fullscreen.accesskey          "F">
-
-<!ENTITY calendar.addons.label                  "Utvidelser">
-<!ENTITY calendar.addons.accesskey              "U">
-
-<!ENTITY goMenu.label                           "Gå">
-<!ENTITY goMenu.accesskey                       "G">
-
 <!ENTITY goTodayCmd.label                       "I dag">
 <!ENTITY goTodayCmd.accesskey                   "I">
-
-<!ENTITY goDateCmd.label                        "Dato…">
-<!ENTITY goDateCmd.accesskey                    "D">
 
 <!ENTITY goPreviousCmd.day.label                "Forrige dag">
 <!ENTITY goPreviousCmd.week.label               "Forrige uke">
@@ -185,62 +104,8 @@
 <!ENTITY goNextCmd.month.label                  "Neste måned">
 <!ENTITY goNextCmd.all.accesskey                "N">
 
-<!ENTITY toolsMenu.label                        "Verktøy">
-<!ENTITY toolsMenu.accesskey                    "e">
-
-<!ENTITY errorConsoleCmd.label                  "Feilkonsoll">
-<!ENTITY errorConsoleCmd.accesskey              "F">
-
 <!ENTITY addressBookCmd.label                   "Adressebok">
 <!ENTITY addressBookCmd.accesskey               "A">
-
-<!ENTITY helpMenu.label                         "Hjelp">
-<!ENTITY helpMenu.accesskey                     "H">
-<!-- LOCALIZATION NOTE some localizations of Windows use "?"
-           for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label                      "Hjelp">
-<!ENTITY helpMenuWin.accesskey                  "H">
-
-<!-- Toolbar items -->
-<!ENTITY fileMenu.label                         "Fil">
-<!ENTITY fileMenu.accesskey                     "F">
-
-<!ENTITY editMenu.label                         "Rediger">
-<!ENTITY editMenu.accesskey                     "R">
-<!ENTITY optionsCmd.label                       "Innstillinger …">
-<!ENTITY optionsCmd.accesskey                   "I">
-<!ENTITY preferencesCmd.label                   "Innstillinger">
-<!ENTITY preferencesCmd.accesskey               "I">
-<!ENTITY preferencesCmdMac.label                "Innstillinger …">
-<!ENTITY preferencesCmdMac.commandkey           ",">
-<!ENTITY preferencesCmdMac.modifiers            "accel">
-
-<!ENTITY viewMenu.label                         "Vis">
-<!ENTITY viewMenu.accesskey                     "V">
-
-<!ENTITY releaseCmd.label                       "Versjonsnotat">
-<!ENTITY releaseCmd.accesskey                   "V">
-<!ENTITY aboutCmd.label                         "Om &brandFullName;">
-<!ENTITY aboutCmd.accesskey                     "O">
-<!ENTITY updateCmd.label                        "Søk etter oppdateringer …">
-<!ENTITY updateCmd.accesskey                    "S">
-
-<!-- Mac OS X "Window" menu items -->
-<!ENTITY windowMenu.label                       "Vindu">
-<!ENTITY minimizeWindow.label                   "Minimer">
-<!ENTITY zoomWindow.label                       "Skalering">
-<!ENTITY minimizeWindow.key                     "M">
-<!ENTITY bringAllToFront.label                  "Send alle til forgrunnen">
-
-<!-- Mac OS X Application menu items -->
-<!ENTITY servicesMenuMac.label          "Tjenester">
-<!ENTITY hideThisAppCmdMac.label        "Skjul &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
-<!ENTITY hideOtherAppsCmdMac.label      "Skjul andre">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
-<!ENTITY showAllAppsCmdMac.label        "Vis alle">
 
 <!ENTITY calendar.importcalendar.label          "Importer kalender …">
 

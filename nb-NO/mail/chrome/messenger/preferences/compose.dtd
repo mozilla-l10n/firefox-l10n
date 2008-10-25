@@ -39,10 +39,6 @@
 <!ENTITY autoSave.label                       "Lagre meldinger automatisk hvert">
 <!ENTITY autoSave.accesskey                   "L">
 <!ENTITY autoSaveEnd.label                    "minutt">
-<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
-<!ENTITY wrapOutMsg.label                     "Bryt tekstmeldinger ved">
-<!ENTITY wrapOutMsg.accesskey                 "y">
-<!ENTITY char.label                           "tegn">
 
 <!ENTITY emailCollectionPicker.label           "Automatisk legg sendte e-post til i:">
 <!ENTITY emailCollectionPicker.accesskey       "A">
