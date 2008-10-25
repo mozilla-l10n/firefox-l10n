@@ -46,15 +46,6 @@
 <!ENTITY calendar.calendar.label     "Kalender">
 <!ENTITY calendar.calendar.accesskey "K">
 
-<!ENTITY calendar.flat.topbar.choosedate       "Gå til dato" >
-<!ENTITY calendar.flat.topbar.dayview          "Dag" >
-<!ENTITY calendar.dayview.accesskey            "D" >
-<!ENTITY calendar.flat.topbar.weekview         "Uke" >
-<!ENTITY calendar.weekview.accesskey           "U" >
-<!ENTITY calendar.flat.topbar.monthview        "Måned" >
-<!ENTITY calendar.monthview.accesskey          "M" >
-<!ENTITY calendar.flat.topbar.multiweekview    "Flere uker" >
-<!ENTITY calendar.multiweekview.accesskey      "F" >
 <!ENTITY calendar.dayView.key                  "1" >
 <!ENTITY calendar.weekView.key                 "2" >
 <!ENTITY calendar.multiweekView.key            "3" >
@@ -62,14 +53,11 @@
 
 <!ENTITY calendar.newtask.button.tooltip          "Lag ny oppgave" >
 <!ENTITY calendar.newevent.button.tooltip         "Lag ny hendelse" >
-<!ENTITY calendar.delete.button.tooltip           "Fjern valgt hendelse" >
 <!ENTITY calendar.edit.button.tooltip             "Rediger valgt hendelse" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Oppgaver" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Vis fullførte oppgaver">
 
-<!ENTITY calendar.calendartab.label "Dato">
-<!ENTITY calendar.listofcalendarstab.label "Kalendere">
 <!ENTITY calendar.today.button.label       "I dag">
 <!ENTITY calendar.tomorrow.button.label       "I morgen">
 <!ENTITY calendar.soon.button.label           "Snart">
@@ -97,11 +85,9 @@
 <!ENTITY calendar.unifinder.tree.calendarname.label  "Kalendernavn">
 <!ENTITY calendar.unifinder.tree.duration.label      "Forfaller">
 <!ENTITY calendar.unifinder.close.tooltip            "Lukker hendelsessøk og hendelsesliste">
-<!ENTITY calendar.find.key  "F">
 
 <!ENTITY calendar.today.button.tooltip            "Vis dagen i dag" >
 <!ENTITY calendar.todaypane.button.tooltip        "Vis i dagsvisningen" >
-<!ENTITY calendar.choosedate.button.tooltip       "Velg visningsdato" >
 <!ENTITY calendar.unifinder.button.tooltip        "Finn og vis hendelser" >
 
 <!ENTITY calendar.day.button.tooltip            "Bytt til dagsvisning" >
@@ -118,19 +104,7 @@
 
 <!ENTITY calendar.newtask.button.label          "Ny oppgave" >
 <!ENTITY calendar.newevent.button.label         "Ny hendelse" >
-<!ENTITY calendar.delete.button.label           "Slett" >
 <!ENTITY calendar.edit.button.label             "Rediger" >
-
-<!ENTITY calendar.choosedate.button.label       "Velg dato" >
-
-<!ENTITY calendar.cut.button.tooltip            "Klipp ut" >
-<!ENTITY calendar.copy.button.tooltip           "Kopier" >
-<!ENTITY calendar.paste.button.tooltip          "Lim inn" >
-<!ENTITY calendar.print.button.tooltip          "Skriv ut kalender" >
-
-<!ENTITY calendar.cut.button.label              "Klipp ut" >
-<!ENTITY calendar.copy.button.label             "Kopier" >
-<!ENTITY calendar.paste.button.label            "Lim inn" >
 <!ENTITY calendar.print.button.label            "Skriv ut" >
 
 <!ENTITY calendar.import.button.tooltip            "Importerer hendelser fra lokal fil" >
@@ -146,9 +120,6 @@
 <!ENTITY calendar.publish.button.label             "Publiser" >
 <!ENTITY calendar.unifinder.button.label           "Finn hendelser" >
 
-<!ENTITY calendar.remotereload.button.label   "Oppdater">
-<!ENTITY calendar.remotereload.button.tooltip   "Oppdater alle eksterne kalendere" >
-
 <!ENTITY calendar.day.button.label              "Dag" >
 <!ENTITY calendar.week.button.label             "Uke" >
 <!ENTITY calendar.month.button.label            "Måned" >
@@ -163,17 +134,7 @@
 <!ENTITY calendar.orientation.label "Roter visning" >
 <!ENTITY calendar.orientation.accesskey "o" >
 
-<!ENTITY calendar.menu.options.close.key        "W">
-
 <!ENTITY calendar.search.options.searchfor " inneholder">
-
-<!ENTITY calendar.menu.numberofweeks.label     "Antall uker" >
-<!ENTITY calendar.menu.numberofweeks.accesskey "A" >
-<!ENTITY calendar.menu.numberofweeks.2      "2 uker" >
-<!ENTITY calendar.menu.numberofweeks.3      "3 uker" >
-<!ENTITY calendar.menu.numberofweeks.4      "4 uker" >
-<!ENTITY calendar.menu.numberofweeks.5      "5 uker" >
-<!ENTITY calendar.menu.numberofweeks.6      "6 uker" >
 
 <!ENTITY calendar.list.header.label                 "Kalender">
 
@@ -206,18 +167,9 @@
 <!ENTITY calendar.task.category.button.tooltip  "Kategoriser oppgaver">
 <!ENTITY calendar.task.complete.button.tooltip  "Marker valgte oppgaver som fullførte">
 <!ENTITY calendar.task.priority.button.tooltip  "Endre prioritet">
-<!ENTITY calendar.task.delete.button.tooltip    "Slett valgte oppgaver">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Dokument: Ferdig">
-
-<!-- customizable toolbars -->
-<!ENTITY calendar.context.customize.label             "Tilpass …">
-<!ENTITY calendar.context.customize.accesskey         "T">
-<!ENTITY calendar.menu.customize.label                "Tilpass verktøylinke …">
-<!ENTITY calendar.menu.customize.accesskey            "T">
-<!ENTITY calendar.maintoolbar.name                    "Hovedverktøylinje">
-<!ENTITY calendar.maintoolbar.accesskey               "H">
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label      "Åpne">
@@ -360,10 +312,6 @@
 <!ENTITY calendarproperties.cache.label    "Hurtiglager (EKSPERIMENTELT, krever omstart)">
 <!ENTITY calendarproperties.enabled.label "Bruk denne kalenderen">
 
-<!-- Sunbird Help -->
-<!ENTITY calendar.help.label               "Innhold">
-<!ENTITY calendar.help.accesskey           "I">
-
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "Publiser kalender">
 <!ENTITY calendar.publish.url.label                 "Adresse">
@@ -392,7 +340,3 @@
 <!ENTITY calendar.error.number "Feilnummer:">
 <!ENTITY calendar.error.description "Beskrivelse:">
 <!ENTITY calendar.error.title "En feil har oppstått">
-
-
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">

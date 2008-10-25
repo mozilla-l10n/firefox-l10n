@@ -62,8 +62,6 @@
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "K">
 
 <!-- Messenger Sidebar -->
-<!ENTITY lightning.sidebar.invitations.label "Invitasjoner">
-<!ENTITY lightning.sidebar.invitations.accesskey "I">
 <!ENTITY lightning.calendar.label            "Kalender">
 <!ENTITY lightning.calendar.accesskey        "K">
 <!ENTITY lightning.tasks.label               "Oppgaver">

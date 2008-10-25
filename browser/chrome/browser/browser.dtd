@@ -264,8 +264,16 @@
 <!ENTITY sendLinkCmd.accesskey        "S">
 <!ENTITY saveImageCmd.label           "Lagre bilde som …">
 <!ENTITY saveImageCmd.accesskey       "d">
+<!ENTITY saveVideoCmd.label           "Lagre video som …">
+<!ENTITY saveVideoCmd.accesskey       "a">
+<!ENTITY saveAudioCmd.label           "Lagre lyd som …">
+<!ENTITY saveAudioCmd.accesskey       "a">
 <!ENTITY sendImageCmd.label           "Send bilde …">
 <!ENTITY sendImageCmd.accesskey       "i">
+<!ENTITY sendVideoCmd.label           "Send video …">
+<!ENTITY sendVideoCmd.accesskey       "n">
+<!ENTITY sendAudioCmd.label           "Send lyd …">
+<!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label            "Kopier lenkemål">
 <!ENTITY copyLinkCmd.accesskey        "K">
 <!ENTITY copyLinkTextCmd.label        "Kopier lenketekst">
@@ -274,13 +282,32 @@
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Kopier bilde">
 <!ENTITY copyImageContentsCmd.accesskey  "b">
-<!ENTITY blockImageCmd.accesskey       "r">
+<!ENTITY copyVideoURLCmd.label        "Kopier videoadresse">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Kopier lydadresse">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY blockImageCmd.accesskey      "r">
 <!ENTITY metadataCmd.label            "Egenskaper">
 <!ENTITY metadataCmd.accesskey        "E">
 <!ENTITY copyEmailCmd.label           "Kopier e-postadresse">
 <!ENTITY copyEmailCmd.accesskey       "o">
 <!ENTITY thisFrameMenu.label              "Denne rammen">
 <!ENTITY thisFrameMenu.accesskey          "D">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "Spill av">
+<!ENTITY mediaPlay.accesskey         "a">
+<!ENTITY mediaPause.label            "Pause">
+<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaMute.label             "Slå av lyd">
+<!ENTITY mediaMute.accesskey         "S">
+<!ENTITY mediaUnmute.label           "Slå på lyd">
+<!ENTITY mediaUnmute.accesskey       "S">
+<!ENTITY mediaShowControls.label     "Vis kontroller">
+<!ENTITY mediaShowControls.accesskey "V">
+<!ENTITY mediaHideControls.label     "Skjul kontroller">
+<!ENTITY mediaHideControls.accesskey "k">
+
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
