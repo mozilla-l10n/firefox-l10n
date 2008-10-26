@@ -64,6 +64,7 @@
 <!ENTITY pasteCmd.label "Incolla">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "I">
+<!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY editRewrapCmd.label "Manda a capo">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "M">

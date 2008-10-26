@@ -40,8 +40,8 @@
 <!ENTITY windowTitle.label "Editor mappa dell'immagine">
 <!ENTITY mapfileMenu.label "File">
 <!ENTITY mapfileMenu.accesskey "f">
-<!ENTITY clearCmd.label "Rimuovi">
-<!ENTITY clearCmd.accesskey "R">
+<!ENTITY clearCmd.label "Pulisci">
+<!ENTITY clearCmd.accesskey "P">
 <!ENTITY closeCmd.label "Chiudi">
 <!ENTITY closeCmd.accesskey "c">
 <!ENTITY mapeditMenu.label "Modifica">

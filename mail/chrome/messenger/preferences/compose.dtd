@@ -31,13 +31,10 @@
 <!ENTITY languagePopup.accessKey "g">
 <!ENTITY downloadDictionaries.label "Scarica altri dizionari">
 <!ENTITY warnOnSendAccelKey.label "Chiedi conferma quando si usa una scorciatoia da tastiera per spedire il messaggio">
-<!ENTITY warnOnSendAccelKey.accesskey "F">
+<!ENTITY warnOnSendAccelKey.accesskey "h">
 <!ENTITY autoSave.label "Salvataggio automatico ogni">
 <!ENTITY autoSave.accesskey "v">
 <!ENTITY autoSaveEnd.label "minuti">
-<!ENTITY wrapOutMsg.label "I messaggi di testo vanno a capo dopo">
-<!ENTITY wrapOutMsg.accesskey "p">
-<!ENTITY char.label "caratteri">
 <!ENTITY emailCollectionPicker.label "Aggiungi automaticamente l'indirizzo della posta in uscita a:">
 <!ENTITY emailCollectionPicker.accesskey "t">
 <!ENTITY addressingTitle.label "Completamento automatico indirizzi">

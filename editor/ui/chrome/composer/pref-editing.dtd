@@ -2,10 +2,10 @@
 <!ENTITY authorName.label "Autore:">
 <!ENTITY authorName.accesskey "A">
 <!ENTITY pageColorHeader "Aspetto predefinito della pagina">
-<!ENTITY defaultColorsRadio.label "Colori predefiniti utente (non modificare i colori nella pagina)">
+<!ENTITY defaultColors.label "Colori predefiniti utente (non modificare i colori nella pagina)">
 <!ENTITY defaultColors.accesskey "n">
-<!ENTITY customColorsRadio.label "Utilizza colori personalizzati:">
-<!ENTITY customColors.accesskey "c">
+<!ENTITY customColors.label "Utilizza colori personalizzati:">
+<!ENTITY customColors.accesskey "U">
 <!ENTITY normalText.label "Testo semplice">
 <!ENTITY normalText.accesskey "T">
 <!ENTITY linkText.label "Testo collegamento">

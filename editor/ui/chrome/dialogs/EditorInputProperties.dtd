@@ -50,11 +50,13 @@
 <!ENTITY button.value "Pulsante">
 <!ENTITY InputSettings.label "Impostazioni campo">
 <!ENTITY InputName.label "Nome campo:">
+<!ENTITY InputName.accesskey "N">
 <!ENTITY GroupName.label "Nome gruppo:">
-<!ENTITY Name.accesskey "N">
+<!ENTITY GroupName.accesskey "N">
 <!ENTITY InputValue.label "Valore campo:">
+<!ENTITY InputValue.accesskey "V">
 <!ENTITY InitialValue.label "Valore iniziale:">
-<!ENTITY Value.accesskey "r">
+<!ENTITY InitialValue.accesskey "V">
 <!ENTITY InputChecked.label "Spuntato">
 <!ENTITY InputChecked.accesskey "S">
 <!ENTITY InputSelected.label "Selezionato">
