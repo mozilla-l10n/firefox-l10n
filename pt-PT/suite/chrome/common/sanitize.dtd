@@ -1,0 +1,21 @@
+﻿<!ENTITY sanitizeDialog.title            "Limpar dados privados">
+<!ENTITY sanitizeItems.label             "Limpar agora os seguintes itens:">
+
+<!ENTITY itemHistory.label               "Histórico de navegação">
+<!ENTITY itemHistory.accesskey           "H">
+<!ENTITY itemDownloads.label             "Histórico de transferências">
+<!ENTITY itemDownloads.accesskey         "t">
+<!ENTITY itemFormSearchHistory.label     "Formulários guardados e histórico de pesquisas">
+<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemCache.label                 "Cache">
+<!ENTITY itemCache.accesskey             "a">
+<!ENTITY itemCookies.label               "Cookies">
+<!ENTITY itemCookies.accesskey           "C">
+<!ENTITY itemOfflineApps.label           "Dados do Sítio web do modo Desligado">
+<!ENTITY itemOfflineApps.accesskey       "o">
+<!ENTITY itemPasswords.label             "Senhas guardadas">
+<!ENTITY itemPasswords.accesskey         "g">
+<!ENTITY itemSessions.label              "Sessões autenticadas">
+<!ENTITY itemSessions.accesskey          "S">
+
+<!ENTITY sanitizeButton.label            "Limpar agora dados privados">
