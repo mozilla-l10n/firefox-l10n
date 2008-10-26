@@ -42,7 +42,7 @@
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Compatta cartelle">
-<!ENTITY compactFolder.accesskey "o">
+<!ENTITY compactFolders.accesskey "C">
 <!ENTITY emptyTrashCmd.label "Svuota cestino">
 <!ENTITY emptyTrashCmd.accesskey "t">
 <!ENTITY importCmd.label "Importa…">
@@ -177,7 +177,6 @@
 <!ENTITY sortUnthreaded.accesskey "z">
 <!ENTITY groupBySort.label "Raggruppati per ordine">
 <!ENTITY groupBySort.accesskey "u">
-<!ENTITY groupBySortCmd.key "G">
 <!ENTITY msgsMenu.label "Messaggi">
 <!ENTITY msgsMenu.accesskey "e">
 <!ENTITY threads.label "Discussioni">
@@ -189,7 +188,7 @@
 <!ENTITY expandAllThreadsCmd.label "Espandi tutte le discussioni">
 <!ENTITY expandAllThreadsCmd.accesskey "E">
 <!ENTITY expandAllThreadsCmd.key "*">
-<!ENTITY collapseAllThreadsCmd.label "Collassa tutte le discussioni">
+<!ENTITY collapseAllThreadsCmd.label "Contrai tutte le discussioni">
 <!ENTITY collapseAllThreadsCmd.accesskey "C">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Non lette">
@@ -216,22 +215,23 @@
 <!ENTITY bodyAsPlaintext.accesskey "T">
 <!ENTITY viewAttachmentsInlineCmd.label "Mostra allegati in linea">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "t">
-<!ENTITY reloadCmd.label "Ricarica">
-<!ENTITY reloadCmd.accesskey "R">
-<!ENTITY stopCmd.label "Interrompi">
-<!ENTITY stopCmd.accesskey "I">
-<!ENTITY textZoomEnlargeCmd.label "Aumentare">
-<!ENTITY textZoomEnlargeCmd.accesskey "A">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
-<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY textZoomReduceCmd.label "Diminuire">
-<!ENTITY textZoomReduceCmd.accesskey "D">
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomResetCmd.commandkey "0">
-<!ENTITY textZoomResetCmd.label "Normale">
-<!ENTITY textZoomResetCmd.accesskey "N">
-<!ENTITY textSize.label "Dimensione testo">
-<!ENTITY textSize.accesskey "m">
+<!ENTITY fullZoomEnlargeCmd.label "Aumenta zoom">
+<!ENTITY fullZoomEnlargeCmd.accesskey "A">
+<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomReduceCmd.label "Diminuisci zoom">
+<!ENTITY fullZoomReduceCmd.accesskey "D">
+<!ENTITY fullZoomReduceCmd.commandkey "-">
+<!ENTITY fullZoomReduceCmd.commandkey2 "">
+<!ENTITY fullZoomResetCmd.label "Ripristino modulo">
+<!ENTITY fullZoomResetCmd.accesskey "R">
+<!ENTITY fullZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomResetCmd.commandkey2 "">
+<!ENTITY fullZoomToggleCmd.label "Ingrandire solo il testo">
+<!ENTITY fullZoomToggleCmd.accesskey "T">
+<!ENTITY fullZoom.label "Zoom">
+<!ENTITY fullZoom.accesskey "Z">
 <!ENTITY pageSourceCmd.label "Sorgente del messaggio">
 <!ENTITY pageSourceCmd.accesskey "g">
 <!ENTITY pageSourceCmd.key "u">
@@ -266,8 +266,8 @@
 <!ENTITY nextStarredMsgCmd.label "Messaggio speciale">
 <!ENTITY nextStarredMsgCmd.accesskey "S">
 <!ENTITY nextUnreadThread.label "Discussione non letta">
-<!ENTITY nextUnreadThreadCmd.accesskey "A">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "T">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Precedente">
 <!ENTITY prevMenu.accesskey "r">
 <!ENTITY prevMsgCmd.label "Messaggio">
@@ -316,14 +316,14 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Crea un filtro dal messaggio…">
 <!ENTITY createFilter.accesskey "f">
-<!ENTITY moveMsgMenu.label "Sposta">
-<!ENTITY moveMsgMenu.accesskey "S">
+<!ENTITY moveMsgToMenu.label "Sposta">
+<!ENTITY moveMsgToMenu.accesskey "S">
 <!ENTITY moveCopyMsgRecentMenu.label "Recente">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY copyMessageLocation.label "Copia l'ubicazione del messaggio">
 <!ENTITY copyMessageLocation.accesskey "u">
-<!ENTITY copyMsgMenu.label "Copia">
-<!ENTITY copyMsgMenu.accesskey "C">
+<!ENTITY copyMsgToMenu.label "Copia in">
+<!ENTITY copyMsgToMenu.accesskey "C">
 <!ENTITY moveToFolderAgain.label "Sposta di nuovo">
 <!ENTITY moveToFolderAgain.accesskey "d">
 <!ENTITY moveToFolderAgainCmd.key "p">
@@ -457,7 +457,7 @@
 <!ENTITY notJunkButton.tooltip "Rimuovi il marchio posta indesiderata">
 <!ENTITY addressBookButton.tooltip "Apri la rubrica">
 <!ENTITY tagButton.tooltip "Etichetta messaggi">
-<!ENTITY compactButton.tooltip "Rimuovere i messaggi eliminati dalla cartella selezionata">
+<!ENTITY compactButton.tooltip "Rimuovi i messaggi eliminati dalla cartella selezionata">
 <!ENTITY addNewTag.label "Nuova etichetta…">
 <!ENTITY addNewTag.accesskey "N">
 <!ENTITY folderColumn.label "Nome">

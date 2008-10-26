@@ -79,8 +79,7 @@
 <!ENTITY cellSelectPrevious.accessKey "P">
 <!ENTITY cellApplyBeforeMove.label "Applica le modifiche prima cambiare selezione">
 <!ENTITY cellKeepCurrentData.label "Mantiene impostazioni correnti">
-<!ENTITY applyBeforeChange1.label "Saranno applicati i cambiamenti correnti">
-<!ENTITY applyBeforeChange2.label "prima di cambiare la selezione.">
+<!ENTITY applyBeforeChange.label "Le modifiche saranno applicate prima di modificare la selezione.">
 <!ENTITY cellRowSpan.label "Spazio tra righe:">
 <!ENTITY cellColSpan.label "Spazio tra colonne:">
 <!ENTITY cellContentAlignment.label "Allineamento contenuto">

@@ -22,7 +22,7 @@
 <!ENTITY incomingServerTitle.label "Server in ingresso">
 <!ENTITY incomingServerTypeDesc.label "Selezionare il tipo di server in ingresso utilizzato.">
 <!ENTITY incomingServerTypeLabel.label "Tipo server:">
-<!ENTITY incomingServerNameDesc.label "Inserire il nome del server in ingresso (ad esempio: mail.mozillaitalia.org)">
+<!ENTITY incomingServerNameDesc.label "Inserire il nome del server in ingresso (ad esempio: &quot;mail.mozillaitalia.org&quot;)">
 <!ENTITY incomingServerLabel.label "Server in ingresso:">
 <!ENTITY incomingServerLabel.accesskey "S">
 <!ENTITY newsServerNameDesc.label "Inserire il nome del server per i gruppi di discussione (NNTP) (ad esempio, &quot;news.mozillaitalia.org&quot;).">
