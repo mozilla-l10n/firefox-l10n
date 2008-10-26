@@ -15,8 +15,6 @@
 <!ENTITY safeb.palm.notforgery.label2 "Dette er ikke et webfalskneri…">
 <!ENTITY safeb.palm.report.label "Hvorfor blev dette websted blokeret?">
 
-<!ENTITY safeb.urlbaricon.tooltip "Denne side kan være farlig; klik for detaljer.">
-
 <!ENTITY safeb.blocked.malware.title "Anmeldt angrebswebsted!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "Dette websted (<span id='malware_sitename'/>) er blevet anmeldt som et angrebswebsted og er blokeret jævnfør dine sikkerhedsindstillinger.">

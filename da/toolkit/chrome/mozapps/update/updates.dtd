@@ -10,8 +10,8 @@
 <!ENTITY cancel.accesskey                "A">
 
 <!ENTITY noupdatesfound.title            "Ingen tilgængelige opdateringer">
-<!ENTITY noupdatesfound.intro            "Der er ingen opdateringer tilgængelige. &brandShortName; vil periodisk undersøge 
-																					om der er tilgængelige opdateringer.">
+<!ENTITY  noupdatesautoenabled.intro      "Der er ingen opdateringer tilgængelige. &brandShortName; vil periodisk undersøge om der er tilgængelige opdateringer.">
+<!ENTITY  noupdatesautodisabled.intro     "Der er ingen opdateringer tilgængelige. Tjek venligst senere eller aktiver &brandShortName;s automatiske opddateringstjek.">
 
 <!ENTITY  incompatibleChecking.label     "Undersøger om denne opdatering vil volde problemer med dine nuværende udvidelser og/eller temaer…">
 <!ENTITY clickHere.label                 "For mere generel information om denne opdatering, klik her">

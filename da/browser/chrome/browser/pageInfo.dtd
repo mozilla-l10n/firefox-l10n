@@ -60,8 +60,8 @@
 <!ENTITY  generalEncoding       "Tegnkodning:">
 <!ENTITY  generalMetaName       "Navn">
 <!ENTITY  generalMetaContent    "Indhold">
-<!ENTITY  generalSecurityMore   "Yderligere sikkerhedsoplysninger">
-<!ENTITY  generalSecurityMore.accesskey "Y">
+<!ENTITY  generalSecurityDetails   "Yderligere sikkerhedsoplysninger">
+<!ENTITY  generalSecurityDetails.accesskey "Y">
 
 <!ENTITY  mediaTab              "Medie">
 <!ENTITY  mediaTab.accesskey    "M">

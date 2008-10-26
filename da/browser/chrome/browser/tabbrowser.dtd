@@ -16,3 +16,4 @@
 <!ENTITY  bookmarkThisTab.accesskey   "B">
 <!ENTITY  undoCloseTab.label          "Fortryd lukning af faneblad">
 <!ENTITY  undoCloseTab.accesskey      "F">
+<!ENTITY  newTabButton.tooltip        "Åbn et nyt faneblad">

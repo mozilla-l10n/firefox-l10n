@@ -45,8 +45,7 @@
 
 <!ENTITY filterPrefs.label "Filter:">
 <!ENTITY filterPrefs.accesskey "F">
-<!ENTITY showAll.label "Vis alle">
-<!ENTITY showAll.accesskey "V">
+<!ENTITY focusFilter.key "f">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Indstilingsnavn">

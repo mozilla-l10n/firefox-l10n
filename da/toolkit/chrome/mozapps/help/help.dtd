@@ -22,9 +22,8 @@
 <!ENTITY printButton.tooltip            "Udskriv denne side">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY searchtab.label                "Søg">
-<!ENTITY searchtab.accesskey            "S">
-<!ENTITY searchClose.tooltip            "Luk søgeresultater">
+<!ENTITY search.emptytext               "Søg">
+<!ENTITY searchHeader.label             "Søgeresultater">
 <!ENTITY toctab.label                   "Indhold">
 <!ENTITY toctab.accesskey               "I">
 

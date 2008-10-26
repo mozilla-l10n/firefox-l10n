@@ -21,3 +21,5 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; skal genstartes for at de nye plug-ins kan blive aktiveret.">
 
 <!ENTITY missingPlugin.label                                 "Klik her for at hente plug-in.">
+<!ENTITY disabledPlugin.label                                "Plug-in'et for dette indhold er blevet deaktiveret. Klik her for at administrere plug-ins.">
+<!ENTITY blockedPlugin.label                                 "Plug-in'et er blevet blokeret for din sikkerhed.">

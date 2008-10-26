@@ -8,6 +8,7 @@
 <!ENTITY removeallpermissions.label   "Fjern alle sider">
 <!ENTITY removeallpermissions.accesskey "a">
 <!ENTITY address.label                "Adresse på webside:">
+<!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Bloker">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "Tillad for session">

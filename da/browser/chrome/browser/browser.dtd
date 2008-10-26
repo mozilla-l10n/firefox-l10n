@@ -222,6 +222,8 @@
 <!ENTITY reloadFrameCmd.accesskey     "G">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Vis markeringens kildekode">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Vis MathML kildekode">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "V">
 <!ENTITY viewPageSourceCmd.label      "Vis sidens kildekode">
 <!ENTITY viewPageSourceCmd.accesskey  "k">
@@ -262,8 +264,16 @@
 <!ENTITY sendLinkCmd.accesskey        "S">
 <!ENTITY saveImageCmd.label           "Gem billede som…">
 <!ENTITY saveImageCmd.accesskey       "m">
+<!ENTITY saveVideoCmd.label           "Gem video som…">
+<!ENTITY saveVideoCmd.accesskey       "m">
+<!ENTITY saveAudioCmd.label           "Gem lyd som…">
+<!ENTITY saveAudioCmd.accesskey       "m">
 <!ENTITY sendImageCmd.label           "Send billede…">
 <!ENTITY sendImageCmd.accesskey       "S">
+<!ENTITY sendVideoCmd.label           "Send video…">
+<!ENTITY sendVideoCmd.accesskey       "S">
+<!ENTITY sendAudioCmd.label           "Send lyd…">
+<!ENTITY sendAudioCmd.accesskey       "S">
 <!ENTITY copyLinkCmd.label            "Kopier linkadresse">
 <!ENTITY copyLinkCmd.accesskey        "K">
 <!ENTITY copyLinkTextCmd.label        "Kopier linktekst">
@@ -271,7 +281,11 @@
 <!ENTITY copyImageCmd.label           "Kopier billedadresse">
 <!ENTITY copyImageCmd.accesskey       "a">
 <!ENTITY copyImageContentsCmd.label   "Kopier billede">
-<!ENTITY copyImageContentsCmd.accesskey  "b"> 
+<!ENTITY copyImageContentsCmd.accesskey  "b">
+<!ENTITY copyVideoURLCmd.label        "Kopier videoadresse">
+<!ENTITY copyVideoURLCmd.accesskey    "a">
+<!ENTITY copyAudioURLCmd.label        "Kopier lydadresse">
+<!ENTITY copyAudioURLCmd.accesskey    "a"> 
 <!ENTITY blockImageCmd.accesskey       "l">
 <!ENTITY metadataCmd.label            "Egenskaber">
 <!ENTITY metadataCmd.accesskey        "E">
@@ -279,6 +293,21 @@
 <!ENTITY copyEmailCmd.accesskey       "a">
 <!ENTITY thisFrameMenu.label              "Denne ramme">
 <!ENTITY thisFrameMenu.accesskey          "r">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "Afspil">
+<!ENTITY mediaPlay.accesskey         "A">
+<!ENTITY mediaPause.label            "Pause">
+<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaMute.label             "Slå lyd fra">
+<!ENTITY mediaMute.accesskey         "l">
+<!ENTITY mediaUnmute.label           "Slå lyd til">
+<!ENTITY mediaUnmute.accesskey       "l">
+<!ENTITY mediaShowControls.label     "Vis knapper">
+<!ENTITY mediaShowControls.accesskey "k">
+<!ENTITY mediaHideControls.label     "Skjul knapper">
+<!ENTITY mediaHideControls.accesskey "k">
+
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -307,7 +336,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY newTabButton.tooltip           "Åbn et nyt faneblad">
 <!ENTITY newWindowButton.tooltip        "Åbn et nyt vindue">
 <!ENTITY sidebarCloseButton.tooltip     "Luk sidebjælke">
 

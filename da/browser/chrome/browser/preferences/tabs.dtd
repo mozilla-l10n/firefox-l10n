@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label             "Nye sider skal åbnes i:">
-<!ENTITY inNewWindow.label            "et nyt vindue">
-<!ENTITY inNewWindow.accesskey        "v">
-<!ENTITY inNewTab.label               "et nyt faneblad">
-<!ENTITY inNewTab.accesskey           "f">
+<!ENTITY newWindowsAsTabs.label       "Åbn nye vinduer i et nyt faneblad i stedet for">
+<!ENTITY newWindowsAsTabs.accesskey   "f">
 
 <!ENTITY warnCloseMultipleTabs.label  "Advar mig, når jeg lukker flere faneblade">
 <!ENTITY warnCloseMultipleTabs.accesskey  "l">

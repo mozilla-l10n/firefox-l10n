@@ -1,0 +1,16 @@
+<!ENTITY restorepage.title          "Genskab tidligere session">
+<!ENTITY restorepage.titletext      "Din sidste &brandShortName; session sluttede uventet">
+<!ENTITY restorepage.shortDesc      "Du kan gendanne faneblade og vinduer fra din tidligere session eller starte en ny session, hvis du ikke længere har brug for dem. Vi beklager ulejligheden.">
+<!ENTITY restorepage.remedies       "Hvis &brandShortName; gentagende gange lukker:">
+<!ENTITY restorepage.dueToChrome    "Prøv at deaktivere nyligt tilføjede udvidelser under Tilføjelser.">
+<!ENTITY restorepage.dueToContent   "Prøv at genskab din session uden nogen hjemmside, du mistænker for at være grund i nedbrudet:">
+
+<!ENTITY restorepage.restoreButton  "Genskab tidligere session">
+<!ENTITY restorepage.restore.access "G">
+<!ENTITY restorepage.cancelButton   "Start en ny session">
+<!ENTITY restorepage.cancel.access  "S">
+
+<!ENTITY restorepage.restoreHeader  "Genskab">
+<!ENTITY restorepage.listHeader     "Vinduer og faneblade">
+<!-- LOCALIZATION NOTE: %S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Vindue %S">
