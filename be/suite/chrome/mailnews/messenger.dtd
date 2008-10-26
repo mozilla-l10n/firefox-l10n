@@ -304,12 +304,12 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Стварыць сіта з ліста…">
 <!ENTITY createFilter.accesskey "р">
-<!ENTITY moveMsgMenu.label "Рухаць">
-<!ENTITY moveMsgMenu.accesskey "Р">
+<!ENTITY moveMsgToMenu.label "Перамесціць у">
+<!ENTITY moveMsgToMenu.accesskey "м">
 <!ENTITY copyMessageLocation.label "Капіяваць месцазнаходжанне ліста">
 <!ENTITY copyMessageLocation.accesskey "м">
-<!ENTITY copyMsgMenu.label "Капіяваць">
-<!ENTITY copyMsgMenu.accesskey "К">
+<!ENTITY copyMsgToMenu.label "Капіяваць у">
+<!ENTITY copyMsgToMenu.accesskey "К">
 <!ENTITY moveCopyMsgRecentMenu.label "Нядаўнія">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "Н">
 <!ENTITY killThreadMenu.label "Ігнараваць нізку">

@@ -316,14 +316,14 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Стварыць сіта з ліста…">
 <!ENTITY createFilter.accesskey "с">
-<!ENTITY moveMsgMenu.label "Рухаць">
-<!ENTITY moveMsgMenu.accesskey "Р">
+<!ENTITY moveMsgToMenu.label "Перамесціць у">
+<!ENTITY moveMsgToMenu.accesskey "м">
 <!ENTITY moveCopyMsgRecentMenu.label "Апошні">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "А">
 <!ENTITY copyMessageLocation.label "Капіяваць месцазнаходжанне ліста">
 <!ENTITY copyMessageLocation.accesskey "м">
-<!ENTITY copyMsgMenu.label "Капіяваць">
-<!ENTITY copyMsgMenu.accesskey "К">
+<!ENTITY copyMsgToMenu.label "Капіяваць у">
+<!ENTITY copyMsgToMenu.accesskey "К">
 <!ENTITY moveToFolderAgain.label "Перамясціць ізноў">
 <!ENTITY moveToFolderAgain.accesskey "і">
 <!ENTITY moveToFolderAgainCmd.key "m">

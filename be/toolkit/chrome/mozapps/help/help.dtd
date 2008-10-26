@@ -19,9 +19,8 @@
 <!ENTITY printButton.label "Друкаваць">
 <!ENTITY printButton.tooltip "Надрукаваць гэтую старонку">
 <!ENTITY closeWindow.commandkey "W">
-<!ENTITY searchtab.label "Пошук">
-<!ENTITY searchtab.accesskey "П">
-<!ENTITY searchClose.tooltip "Зачыняе вынікі пошуку">
+<!ENTITY search.emptytext "Пошук">
+<!ENTITY searchHeader.label "Вынікі пошуку">
 <!ENTITY toctab.label "Змест">
 <!ENTITY toctab.accesskey "З">
 <!ENTITY fullZoomReduceCmd.commandkey "-">
