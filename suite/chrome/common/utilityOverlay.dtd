@@ -1,0 +1,95 @@
+<!-- these things need to move into utilityOverlay.xul -->
+<!ENTITY  offlineGoOfflineCmd.label                 "Trabalhar Desligado">
+<!ENTITY  offlineGoOfflineCmd.accesskey             "h">
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
+<!ENTITY fileMenu.label "Ficheiro">
+<!ENTITY fileMenu.accesskey "f">
+<!ENTITY newMenu.label "Novo">
+<!ENTITY newMenu.accesskey "N">
+<!ENTITY newBlankPageCmd.label "Página do compositor">
+<!ENTITY newBlankPageCmd.accesskey "P" >
+<!ENTITY newBlankPageCmd.key "n" >
+<!ENTITY newPageFromTemplateCmd.label "Página usando modelo">
+<!ENTITY newPageFromTemplateCmd.accesskey "t">
+<!ENTITY newPageFromDraftCmd.label "Página usando rascunho">
+<!ENTITY newPageFromDraftCmd.accesskey "d">
+<!ENTITY newNavigatorCmd.label "Janela do Navegador">
+<!ENTITY newNavigatorCmd.key "N">
+<!ENTITY newNavigatorCmd.accesskey "B">
+
+<!ENTITY editMenu.label "Editar">
+<!ENTITY editMenu.accesskey "e">
+<!ENTITY undoCmd.label "Anular">
+<!ENTITY undoCmd.key "z">
+<!ENTITY undoCmd.accesskey "u">
+<!ENTITY redoCmd.label "Refazer">
+<!ENTITY redoCmd.key "y">
+<!ENTITY redoCmd.accesskey "r">
+<!ENTITY cutCmd.label "Cortar">
+<!ENTITY cutCmd.key "x">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "Copiar">
+<!ENTITY copyCmd.key "c">
+<!ENTITY copyCmd.accesskey "c">
+<!ENTITY pasteCmd.label "Colar">
+<!ENTITY pasteCmd.key "v">
+<!ENTITY pasteCmd.accesskey "o">
+<!ENTITY deleteCmd.label "Eliminar">
+<!ENTITY deleteCmd.key "d">
+<!ENTITY deleteCmd.accesskey "l">
+<!ENTITY selectAllCmd.label "Seleccionar tudo">
+<!ENTITY selectAllCmd.key "a">
+<!ENTITY selectAllCmd.accesskey "s">
+<!ENTITY preferencesCmd.label "Opções...">
+<!ENTITY preferencesCmd.key					"E"> 
+<!ENTITY preferencesCmd.accesskey			"e"> 
+<!ENTITY findTypeTextCmd.label "Localizar texto ao escrever">
+<!ENTITY findTypeTextCmd.accesskey "e">
+<!ENTITY findTypeLinksCmd.label "Localizar ligações ao escrever">
+<!ENTITY findTypeLinksCmd.accesskey "g">
+
+<!ENTITY viewMenu.label "Ver">
+<!ENTITY viewMenu.accesskey "v">
+<!ENTITY viewToolbarsMenu.label "Mostrar/Ocultar">
+<!ENTITY viewToolbarsMenu.accesskey "M">
+<!ENTITY showTaskbarCmd.label "Barra de Estado">
+<!ENTITY showTaskbarCmd.accesskey "S">
+
+<!ENTITY helpMenu.label					"Ajuda"> 
+<!ENTITY helpMenu.accesskey				"A"> 
+
+<!ENTITY releaseCmd.label				"Notas de lançamento">
+<!ENTITY releaseCmd.accesskey                   "N">
+<!ENTITY updateCmd.label                        "Procurar por actualizações…">
+<!ENTITY updateCmd.accesskey                    "p">
+<!ENTITY aboutCmd.label					"Sobre o &brandShortName;">
+<!ENTITY aboutCmd.accesskey				"S">
+<!ENTITY aboutCommPluginsCmd.label			"Sobre os Plugins">
+<!ENTITY aboutCommPluginsCmd.accesskey			"p">
+
+<!ENTITY direct.label "Ligado (proxy: nenhum)">
+<!ENTITY direct.accesskey "n">
+<!ENTITY manual.label "Ligado (proxy: manual)">
+<!ENTITY manual.accesskey "m">
+<!ENTITY pac.label "Ligado (proxy: auto)">
+<!ENTITY pac.accesskey "a">
+<!ENTITY wpad.label                                     "Ligado (Proxy: Auto Descobrir)">
+<!ENTITY wpad.accesskey                                 "D">
+<!ENTITY system.label                                   "Ligado (Proxy: Sistema Proxy)">
+<!ENTITY system.accesskey                               "S">
+
+<!ENTITY proxy.label "Configuração de proxy...">
+<!ENTITY proxy.accesskey "X">
+
+<!ENTITY bidiSwitchTextDirectionItem.label        "Mudar direcção do texto">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "d">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
+<!-- Popup Blocked notification menu -->
+<!ENTITY allowPopups.accesskey        "p">
+<!ENTITY showPopupManager.label       "Gerir Popups">
+<!ENTITY showPopupManager.accesskey   "G">
+<!ENTITY dontShowMessage.label        "Não mostrar esta mensagem quando os popups são bloqueados">
+<!ENTITY dontShowMessage.accesskey    "D">
