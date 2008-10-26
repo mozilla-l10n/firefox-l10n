@@ -51,7 +51,7 @@
 <!ENTITY dateField2.label "data ">
 <!ENTITY userAgentField2.label "user-agent ">
 <!ENTITY referencesField2.label "referências ">
-<!ENTITY messageIdField2.label "id da message ">
+<!ENTITY messageIdField2.label "id da mensagem ">
 <!ENTITY inReplyToField2.label "em resposta a ">
 <!ENTITY originalWebsite2.label "sítio web ">
 <!ENTITY saveAll.label "Guardar tudo..">
@@ -88,6 +88,6 @@
 <!ENTITY copyLinkCmd.label "Copiar ligação">
 <!ENTITY copyLinkCmd.accesskey "P">
 
-<!ENTITY CopyMessageId.label "Copiar Message-ID">
+<!ENTITY CopyMessageId.label "Copiar ID da mensagem">
 <!ENTITY OpenMessageForMsgId.label "Abrir Mensagem Para ID">
-<!ENTITY OpenBrowserWithMsgId.label "Abrir Navegador Com Message-ID">
+<!ENTITY OpenBrowserWithMsgId.label "Abrir Navegador Com ID da mensagem">

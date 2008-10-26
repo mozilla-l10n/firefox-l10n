@@ -56,7 +56,7 @@
 <!ENTITY daysOld.label "dias de idade">
 <!ENTITY message.label "mensagens">
 <!ENTITY retentionCleanup.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente eliminadas">
-<!ENTITY retentionDeleteMsg.label "Delete messages more than">
+<!ENTITY retentionDeleteMsg.label "Apagar mensagens maiores que">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Não apagar nenhuma mensagem">
 <!ENTITY retentionKeepAll.accesskey "G">
