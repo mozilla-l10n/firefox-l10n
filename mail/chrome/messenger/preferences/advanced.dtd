@@ -61,7 +61,6 @@
 <!ENTITY useCacheAfter.label "МБ прасторы для запасніку">
 <!ENTITY clearCacheNow.label "Ачысціць зараз">
 <!ENTITY clearCacheNow.accesskey "ч">
-<!ENTITY certificatesInfo2.label "Кіраванне пасведчаннямі, спісамі адклікання, пацвярджэннем пасведчанняў і збудовамі бяспекі.">
 <!ENTITY viewCertificates.label "Прагляд пасведчанняў">
 <!ENTITY viewCertificates.accesskey "г">
 <!ENTITY viewCRLs.label "Спісы адклікання">
