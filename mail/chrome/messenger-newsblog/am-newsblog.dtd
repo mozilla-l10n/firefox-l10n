@@ -16,6 +16,5 @@
 <!-- entities from defaults/isp/rss.rdf -->
 <!ENTITY rss.accountName            "RSS-News &amp; Weblogs">
 <!ENTITY rss.wizardShortName        "RSS">  
-<!ENTITY rss.wizardLongName         "RSS-Konto">
+<!ENTITY rss.wizardLongName         "RSS-News &amp; Weblogs">
 <!ENTITY rss.wizardLongName.accesskey "R">
-<!ENTITY rss.hostName               "RSS-News &amp; Weblogs">
