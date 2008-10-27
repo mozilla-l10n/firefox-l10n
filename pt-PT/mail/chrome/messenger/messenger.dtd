@@ -5,15 +5,12 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Pasta...">
 <!ENTITY newFolderCmd.accesskey "P">
-<!ENTITY newTabCmd.label "Novo Separador">
-<!ENTITY newTabCmd.accesskey "S">
 <!ENTITY closeTabCmd.label "Fechar Separador">
 <!ENTITY closeTabCmd.accesskey "e">
 <!ENTITY newVirtualFolderCmd.label "Pasta de pesquisa...">
 <!ENTITY newVirtualFolderCmd.accesskey "A">
 <!ENTITY newAccountCmd.label "Conta...">
 <!ENTITY newAccountCmd.accesskey "T">
-<!ENTITY openMessageMenu.label "Abrir">
 <!ENTITY openMessageFileCmd.label "Abrir ficheiro...">
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY openAttachmentCmd.label "Anexos">
@@ -66,7 +63,6 @@
 <!ENTITY printCmd.key "P">
 <!ENTITY printPreviewCmd.label "Pré-visualizar impressão">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printPreviewCmd.key "V">
 <!ENTITY printSetupCmd.label "Configurar página...">
 <!ENTITY printSetupCmd.accesskey "c">
 
@@ -130,8 +126,6 @@
 <!ENTITY messagePaneWide.accesskey "G">
 <!ENTITY messagePaneVertical.label "Vertical">
 <!ENTITY messagePaneVertical.accesskey "V">
-<!ENTITY threadPaneWide.label "Vista da Lista Alargada">
-<!ENTITY threadPaneWide.accesskey "i">
 <!ENTITY showMessageCmd.label "Painel de mensagens">
 <!ENTITY showMessageCmd.accesskey "P">
 
@@ -193,8 +187,6 @@
 <!ENTITY threads.accesskey "t">
 <!ENTITY allMsgsCmd.label "Todos">
 <!ENTITY allMsgsCmd.accesskey "T">
-<!ENTITY expandOrCollapseMenu.label "Expandir/Colapsar">
-<!ENTITY expandOrCollapseMenu.accesskey "x">
 <!ENTITY expandAllThreadsCmd.label "Expandir todos">
 <!ENTITY expandAllThreadsCmd.accesskey "D">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -258,9 +250,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.key "U">
 
 <!-- Search Menu -->
-<!ENTITY searchMenu.label "Pesquisar">
-<!ENTITY searchMenu.accesskey "P">
-
 <!ENTITY findMenu.label "Procurar">
 <!ENTITY findMenu.accesskey "R">
 <!ENTITY findCmd.label "Procurar nesta mensagem...">
@@ -383,8 +372,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsReadCmd.label "Como lida">
 <!ENTITY markAsReadCmd.accesskey "M">
 <!ENTITY markAsReadCmd.key "M">
-<!ENTITY markAsUnreadCmd.label "Como não lida">
-<!ENTITY markAsUnreadCmd.accesskey "N">
 <!ENTITY markThreadAsReadCmd.label "Tópico como lido">
 <!ENTITY markThreadAsReadCmd.accesskey "C">
 <!ENTITY markThreadAsReadCmd.key "R">
@@ -411,7 +398,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "Janela">
-<!ENTITY windowMenu.accesskey "J">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Ferramentas">
@@ -456,7 +442,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY stopButton.label "Parar">
 <!ENTITY throbberItem.title "Indicador de actividade">
-<!ENTITY updatesItem.title "Actualizações">
 <!ENTITY junkButton.label "Lixo Electrónico">
 <!ENTITY notJunkButton.label "Não é Lixo Electrónico">
 <!ENTITY addressBookButton.label "Livro de Endereços">
@@ -468,7 +453,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Pesquisa avançada de mensagens">
-<!ENTITY clearButton.tooltip "Limpar o critério de pesquisa e mostrar todas as mensagens">
 <!ENTITY getMsgButton.tooltip "Obter novas mensagens">
 <!ENTITY getAllNewMsgCmd.label "Obter todas as Novas Mensagens">
 <!ENTITY getAllNewMsgCmd.accesskey "G">
@@ -542,8 +526,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Nome ou endereço de correio contém:">
 <!ENTITY SearchNameOrEmail.accesskey "ç">
-<!ENTITY clearButton.label "Limpar">
-<!ENTITY clearButton.accesskey "L">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Localizar Assunto">
@@ -566,7 +548,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY statusColumn.label "Estado">
 <!ENTITY sizeColumn.label "Tamanho">
 <!ENTITY junkStatusColumn.label "Estado do Lixo Electrónico">
-<!ENTITY linesColumn.label "Linhas">
 <!ENTITY unreadColumn.label "Não lidas">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Lida">
@@ -627,8 +608,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrint.accesskey "I">
 <!ENTITY contextPrintPreview.label "Pré-visualizar impressão">
 <!ENTITY contextPrintPreview.accesskey "v">
-<!ENTITY contextDelete.label "Eliminar">
-<!ENTITY contextDelete.accesskey "L">
 
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "Lixo electrónico.">
@@ -662,8 +641,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY CopyEmailAddress.accesskey "A">
 <!ENTITY CreateFilterFrom.label "Criar filtro De...">
 <!ENTITY CreateFilterFrom.accesskey "F">
-<!ENTITY BlockAddress.label "Bloquear endereço">
-<!ENTITY BlockAddress.accesskey "B">
 <!ENTITY reportPhishingURL.label "Denunciar Tentativa de Engodo">
 <!ENTITY reportPhishingURL.accesskey "d">
 

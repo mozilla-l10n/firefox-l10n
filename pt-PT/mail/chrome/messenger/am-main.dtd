@@ -3,7 +3,6 @@
 <!ENTITY accountTitle.label "Configuração de Conta">
 <!ENTITY accountName.label "Nome da Conta:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY accountNameDesc.label "O nome da conta é usado para identificar cada conta">
 <!ENTITY identityTitle.label "Identidade Pré-Definida">
 <!ENTITY identityDesc.label "Cada conta tem uma identidade, que é a informação que as outras pessoas vêem quando lêem as suas mensagens.">
 <!ENTITY name.label "O seu Nome:">
@@ -27,8 +26,8 @@
 
 <!ENTITY manageIdentities.label "Gerir Identidades...">
 <!ENTITY manageIdentities.accesskey "I">
-<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 
+<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 <!ENTITY smtpName.label "Servidor de Envio (SMTP):">
 <!ENTITY smtpName.accesskey "s">
 <!ENTITY smtpDefaultServer.label "Usar servidor pré-definido">

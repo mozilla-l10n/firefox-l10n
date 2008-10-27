@@ -75,7 +75,6 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "b">
 <!ENTITY deleteCmd.label "Eliminar">
-<!ENTITY deleteCmd.key "d">
 <!ENTITY deleteCmd.accesskey "l">
 <!ENTITY selectAllCmd.label "Seleccionar tudo">
 <!ENTITY selectAllCmd.key "a">
@@ -98,7 +97,6 @@
 <!ENTITY viewToolbarsMenuNew.label "Barras de Ferramentas">
 <!ENTITY viewToolbarsMenuNew.accesskey "B">
 <!ENTITY showCompositionToolbarCmd.label "Barra de Ferramentas de Composição">
-<!ENTITY showCompositionToolbarCmd.accesskey "a">
 <!ENTITY showFormattingBarCmd.label "Barra de formatação">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Barra de Estado">
@@ -173,7 +171,6 @@
 <!ENTITY accountManagerCmd.accesskey "c">
 <!ENTITY accountManagerCmdUnix.accesskey "n">
 <!ENTITY preferencesCmd.label "Opções...">
-<!ENTITY preferencesCmd.key "o">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey "p">
@@ -221,9 +218,6 @@
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
 <!ENTITY SmileButton.tooltip "Inserir uma cara risonha">
 <!ENTITY smiley1Cmd.label "Alegre">
 <!ENTITY smiley2Cmd.label "Triste">

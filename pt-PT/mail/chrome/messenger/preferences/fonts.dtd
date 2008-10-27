@@ -6,7 +6,6 @@
 <!ENTITY language.label "Tipo de letra para:">
 <!ENTITY language.accesskey "t">
 
-<!ENTITY typefaces.label "Typeface">
 <!ENTITY sizes.label "Tamanho (pixéis)">
 <!ENTITY proportionalSize.accesskey "i">
 <!ENTITY monospaceSize.accesskey "x">
@@ -20,8 +19,6 @@
 <!ENTITY sans-serif.accesskey "n">
 <!ENTITY monospace.label "Monoespaçada:">
 <!ENTITY monospace.accesskey "M">
-
-<!ENTITY fontsize.units "pixéis">
 
 <!ENTITY font.langGroup.latin1 "Ocidental">
 <!ENTITY font.langGroup.latin2 "Centro-Europeu">
@@ -50,22 +47,20 @@
 <!ENTITY font.langGroup.gurmukhi "Gurmukhi">
 <!ENTITY font.langGroup.khmer "Cambodjano">
 <!ENTITY font.langGroup.malayalam "Malaio">
-<!-- Minimum font size -->
 
+<!-- Minimum font size -->
 <!ENTITY minSize.label "Tamanho mínimo da letra:">
 <!ENTITY minSize.accesskey "i">
 <!ENTITY minSize.none "Nenhum">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY useDefaultFontSerif.label "Serifada">
 <!ENTITY useDefaultFontSansSerif.label "Não serifada">
 
-<!ENTITY newLanguages.label "Novos Idiomas podem ser configurados usando o painel de Idiomas.">
-
 <!ENTITY useDocumentFonts.label "Permitir que as Mensagens usem outros tipos de letra">
 <!ENTITY useDocumentFonts.accesskey "p">
-<!-- Language settings -->
 
+<!-- Language settings -->
 <!ENTITY sendDefaultCharset.label "Para mensagens enviadas:">
 <!ENTITY sendDefaultCharset.accesskey "m">
 <!ENTITY languagesTitle1.label "Codificações pré-definidas">

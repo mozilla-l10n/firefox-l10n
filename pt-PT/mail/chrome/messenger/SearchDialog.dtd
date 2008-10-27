@@ -5,15 +5,11 @@
 <!ENTITY searchSubfolders.accesskey "o">
 <!ENTITY resetButton.label "Limpar">
 <!ENTITY resetButton.accesskey "L">
-<!ENTITY optionsButton.label "Opções">
-<!ENTITY closeButton.label "Fechar">
 <!ENTITY openButton.label "Abrir">
 <!ENTITY openButton.accesskey "a">
 <!ENTITY deleteButton.label "Eliminar">
 <!ENTITY deleteButton.accesskey "L">
 <!ENTITY searchDialogTitle.label "Procurar Mensagens">
-<!ENTITY conditionDesc.label "Procurar Mensagens que Coincidam:">
-<!ENTITY conditions.label "Critério">
 <!ENTITY results.label "Resultados">
 <!ENTITY fileHereMenu.label "Ficheiro Aqui">
 <!ENTITY fileHereMenu.accesskey "H">
@@ -24,8 +20,8 @@
 <!ENTITY goToFolderButton.accesskey "b">
 <!ENTITY saveAsVFButton.label "Guardar como pasta de Procura">
 <!ENTITY saveAsVFButton.accesskey "c">
-<!-- for ABSearchDialog.xul -->
 
+<!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label "Procurar em:">
 <!ENTITY abSearchHeading.accesskey "u">
 <!ENTITY propertiesButton.label "Propriedades">
@@ -33,8 +29,8 @@
 <!ENTITY composeButton.label "Escrever">
 <!ENTITY composeButton.accesskey "S">
 <!ENTITY abSearchDialogTitle.label "Pesquisa Avançada do Livro de Endereços">
-<!-- Thread Pane -->
 
+<!-- Thread Pane -->
 <!ENTITY threadColumn.label "Tópico">
 <!ENTITY fromColumn.label "De">
 <!ENTITY recipientColumn.label "Destinatário">
@@ -46,7 +42,6 @@
 <!ENTITY statusColumn.label "Estado">
 <!ENTITY sizeColumn.label "Tamanho">
 <!ENTITY junkStatusColumn.label "Estado do Lixo Electrónico">
-<!ENTITY linesColumn.label "Linhas">
 <!ENTITY unreadColumn.label "Não lidas">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Lida">
@@ -54,8 +49,8 @@
 <!ENTITY starredColumn.label "Com Estrela">
 <!ENTITY locationColumn.label "Localização">
 <!ENTITY idColumn.label "Ordem de chegada">
-<!-- Thread Pane Tooltips -->
 
+<!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Clique para seleccionar as colunas a mostrar">
 <!ENTITY threadColumn.tooltip "Clique para mostrar tópicos da mensagem">
 <!ENTITY fromColumn.tooltip "Clique para ordenar por remetente">

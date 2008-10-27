@@ -1,8 +1,6 @@
 <!ENTITY itemFormatting.label "Formatação">
 <!ENTITY itemTags.label "Etiquetas">
-<!ENTITY itemFonts.label "Tipos de Letra">
 
-<!ENTITY textBegin.label "Aparência do texto citado">
 <!ENTITY style.label "Estilo:">
 <!ENTITY style.accesskey "e">
 <!ENTITY regularStyle.label "Normal">
@@ -19,24 +17,22 @@
 <!ENTITY displayWidth.label "Mensagens sem formatação">
 <!ENTITY plainText.label "Usar este tipo de letra:">
 <!ENTITY displayText.label "Ao mostrar texto citado:">
-<!ENTITY viewingPlainText.label "Ao mostrar mensagens:">
 <!ENTITY fixedWidth.label "Mono-espaçada">
 <!ENTITY fixedWidth.accesskey "o">
 <!ENTITY variableWidth.label "Proporcional">
 <!ENTITY variableWidth.accesskey "P">
-<!ENTITY readingMessagesHeader.label "Para mensagens recebidas">
 <!ENTITY colors.label "Cores">
 <!ENTITY overrideColors.label "Ao mostrar as mensagens, usar estas cores:">
 <!ENTITY textColor.label "Texto:">
 <!ENTITY textColor.accesskey "X">
 <!ENTITY backgroundColor.label "Cor de Fundo:">
 <!ENTITY backgroundColor.accesskey "u">
-<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label "Representar emoticons como imagens">
 <!ENTITY convertEmoticons.accesskey "R">
-<!-- labels -->
 
+<!-- labels -->
 <!ENTITY displayTagsText.label "As Etiquetas podem ser usadas para categorizar ou dar prioridade às suas mensagens.">
 <!ENTITY addTagButton.label "Adicionar">
 <!ENTITY addTagButton.accesskey "A">
@@ -44,8 +40,8 @@
 <!ENTITY editTagButton.accesskey "E">
 <!ENTITY removeTagButton.label "Apagar">
 <!ENTITY removeTagButton.accesskey "p">
-<!-- Fonts -->
 
+<!-- Fonts -->
 <!ENTITY fontAndEncodingsDescription.label "Configure os tipos de letra e codificações usados pelo &brandShortName;">
 <!ENTITY fontsAndEncodingsCaption.label "Tipos de Letra e Codificações">
 <!ENTITY fontOptions.accesskey "T">
