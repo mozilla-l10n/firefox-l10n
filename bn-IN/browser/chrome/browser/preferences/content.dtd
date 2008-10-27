@@ -1,0 +1,57 @@
+<!ENTITY  blockPopups.label           "পপ-আপ উইন্ডো প্রদর্শন প্রতিরোধ করা হবে">
+<!ENTITY  blockPopups.accesskey       "B">
+<!ENTITY  popupExceptions.label       "ব্যতিক্রম...">
+<!ENTITY  popupExceptions.accesskey   "E">
+
+<!ENTITY  loadImages.label            "স্বয়ংক্রিয়রূপে ছবি লোড করা হবে">
+<!ENTITY  loadImages.accesskey        "I">
+<!ENTITY  exceptions.label            "ব্যতিক্রম...">
+<!ENTITY  exceptions.accesskey        "x">
+
+<!ENTITY  enableJavaScript.label      "JavaScript সক্রিয় করুন">
+<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  advancedJS.label            "উন্নত বিকল্প...">
+<!ENTITY  advancedJS.accesskey        "v">
+
+<!ENTITY  enableJava.label            "Java সক্রিয় করুন">
+<!ENTITY  enableJava.accesskey        "n">
+
+
+<!ENTITY  fontsAndColors.label        "ফন্ট &amp; রং">
+
+<!ENTITY  defaultFont.label                       "ডিফল্ট ফন্ট:">
+<!ENTITY  defaultFont.accesskey                   "D">
+<!ENTITY  defaultSize.label                       "মাপ:">
+<!ENTITY  defaultSize.accesskey                   "i">
+
+<!ENTITY  advancedFonts.label         "উন্নত...">
+<!ENTITY  advancedFonts.accesskey     "d">
+
+<!ENTITY  colors.label                "রং...">
+<!ENTITY  colors.accesskey            "C">
+
+
+<!-- ENTITY  feeds.label                 "ফিড" -->
+
+<!-- ENTITY  feedReader.label            "ফিড-রিডার:" -->
+<!-- ENTITY  feedReader.accesskey        "F" -->
+
+<!-- ENTITY  feedClick.label             "ওয়েব ফিডে ক্লিক করা হলে:" -->
+<!-- ENTITY  ask.label                   "ব্যবহারযোগ্য সামগ্রী জিজ্ঞাসা করা হবে" -->
+<!-- ENTITY  ask.accesskey               "A" -->
+<!-- ENTITY  subLiveBookmark.label       "সর্বদা লাইভ বুকমার্ক-এ সাবস্ক্রাইব করা হবে" -->
+<!-- ENTITY  subLiveBookmark.accesskey   "L" -->
+<!-- ENTITY  subReader.label             "ফিড-রিডার সহযোগে সর্বদা সাবস্ক্রাইব করা হবে" -->
+<!-- ENTITY  subReader.accesskey         "R" -->
+
+
+<!-- ENTITY fileTypes.label              "ফাইলের ধরন" -->
+
+<!-- ENTITY configureFileTypes.label     "&brandShortName; দ্বারা সুনির্দিষ্ট ধরনের ফাইল পরিচালনার পদ্ধতি চিহ্নিত করুন" -->
+<!-- ENTITY manage.label                 "ব্যবস্থাপনা..." -->
+<!-- ENTITY manage.accesskey             "M" -->
+
+<!ENTITY languages.label              "ভাষা">
+<!ENTITY chooseLanguage.label         "পৃষ্ঠা প্রদর্শনের জন্য পছন্দসই ভাষা নির্বাচন করুন">
+<!ENTITY chooseButton.label           "নির্বাচন করুন…">
+<!ENTITY chooseButton.accesskey       "o">

@@ -1,0 +1,25 @@
+<!ENTITY license.part0     "স্বত্বাধিকার">
+<!ENTITY license.part1     "ধারী">
+<!ENTITY license.contrib   "হলেন নির্মাতারা">
+<!ENTITY license.part2     "চিহ্নিত নথির শর্তাবলী অনুযায়ী">
+<!ENTITY license.part3     "সর্ব স্বত্ব সংরক্ষিত।">
+
+<!-- ENTITY about.version                "সংস্করণ" -->
+
+<!-- ENTITY about.copy.beforeLink        "স্বত্বাধিকার &copy; ১৯৯৮-২০০৭ ধারী" -->
+<!-- ENTITY about.copy.linkTitle         "নির্মাতা ও" -->
+<!-- ENTITY about.copy.afterLink         "Mozilla প্রজেক্টে যোগদানকারীদের।" -->
+
+<!-- ENTITY about.license.beforeLink     "অনুগ্রহ করে" -->
+<!-- ENTITY about.license.linkTitle      "লাইসেন্স সংক্রান্ত তথ্য পড়ুন" -->
+<!-- ENTITY about.license.afterLink      "চিহ্নিত উৎপাদনের।" -->
+
+<!-- ENTITY about.relnotes.beforeLink    "অনুগ্রহ করে" -->
+<!-- ENTITY about.relnotes.linkTitle     "রিলিজ নোটস পড়ুন" -->
+<!-- ENTITY about.relnotes.afterLink     "বর্তমান সংস্করণের।" -->
+
+<!-- ENTITY about.buildconfig.beforeLink "বর্তমান সংস্করণে ব্যবহৃত" -->
+<!-- ENTITY about.buildconfig.linkTitle  "বিল্ড কনফিগারেশন" -->
+<!-- ENTITY about.buildconfig.afterLink  "নিরীক্ষণ করুন।" -->
+
+<!-- ENTITY about.buildIdentifier        "বিল্ড সনাক্তকারী: " -->

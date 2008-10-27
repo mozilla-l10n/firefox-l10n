@@ -1,0 +1,23 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "প্রিন্টার সংক্রান্ত বৈশিষ্ট্য">
+<!ENTITY paperInput.label "কাগজের মাপ:">
+<!ENTITY plexInput.label "Plex মোড:">
+<!ENTITY resolutionInput.label "রিসোলিউশন/গুণমান:">
+<!ENTITY cmdInput.label "প্রিন্ট কর্মের সাথে যুক্ত কমান্ড:">
+<!ENTITY jobTitleInput.label "কর্মের নাম:">
+
+<!ENTITY colorGroup.label "রং:">
+<!ENTITY grayRadio.label "সাদা-কালো">
+<!ENTITY colorRadio.label "রঙিন">
+
+<!ENTITY colorspaceInput.label "Colorspace:">
+
+<!ENTITY fontsGroup.label "ফন্ট:">
+<!ENTITY downloadFonts.label "প্রিন্টারের মধ্যে ফাইল ডাউনলোড করা হবে কি?">
+
+<!ENTITY edgeMarginInput.label "কাগজের প্রান্ত ও মার্জিনের মধ্যবর্তী ব্যবধান">
+<!ENTITY topInput.label "উর্ধ্বে:">
+<!ENTITY bottomInput.label "নীচে:">
+<!ENTITY leftInput.label "বাঁদিকে:">
+<!ENTITY rightInput.label "ডানদিকে:">

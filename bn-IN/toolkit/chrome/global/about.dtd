@@ -1,0 +1,20 @@
+<!ENTITY about.version                "সংস্করণ সংখ্যা">
+
+<!ENTITY about.copy.beforeLink        "স্বত্বাধিকার &copy; ১৯৯৮-২০০৮">
+<!ENTITY about.copy.afterLink         "Mozilla প্রজেক্টে">
+<!ENTITY about.copy.linkTitle         "অংশগ্রহণকারীদের।">
+
+
+<!ENTITY about.license.beforeLink     "এই উৎপাদনের">
+<!ENTITY about.license.linkTitle      "লাইসেন্স সংক্রান্ত তথ্য">
+<!ENTITY about.license.afterLink      "পড়ুন।">
+
+<!ENTITY about.relnotes.beforeLink    "বর্তমান সংস্করণের">
+<!ENTITY about.relnotes.linkTitle     "রিলিজ নোট">
+<!ENTITY about.relnotes.afterLink     "পড়ুন।">
+
+<!ENTITY about.buildconfig.beforeLink "এই সংস্করণে ব্যবহৃত">
+<!ENTITY about.buildconfig.linkTitle  "বিল্ড কনফিগারেশন">
+<!ENTITY about.buildconfig.afterLink  "দেখুন।">
+
+<!ENTITY about.buildIdentifier        "বিল্ড সনাক্তকারী: ">

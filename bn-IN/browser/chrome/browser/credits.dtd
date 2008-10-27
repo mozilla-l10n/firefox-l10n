@@ -1,0 +1,38 @@
+<!ENTITY brandMotto       "রি-ডিস্কোভার দি ওয়েব">
+<!-- ENTITY credit.leads     "ইঞ্জিনিয়ারিং নেতৃত্ব" -->
+<!-- ENTITY credit.core      "কোর ডিভেলপমেন্ট দল" -->
+<!-- ENTITY credit.gecko     "Gecko লে-আউট ইঞ্জিন" -->
+<!ENTITY credit.thanks    "বিশেষ কৃতজ্ঞতা">
+<!ENTITY credit.contributors2 "অংশগ্রহণকারী">
+<!ENTITY credit.poweredByGeckoReg "Gecko&reg; সহযোগে সঞ্চালিত">
+
+<!ENTITY credit.thanks2      "কৃতজ্ঞতা জানাই">
+<!-- ENTITY credit.prethanks    "" -->
+<!-- ENTITY credit.friends      "বন্ধুদের" -->
+<!-- ENTITY credit.and          "&amp;" -->
+<!-- ENTITY credit.contributors "সহায়কদের"  -->
+<!-- ENTITY credit.postthanks   "" -->
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>অনুবাদকবৃন্দ</h3><ul><li>রুণা ভট্টাচার্য্য</li></ul>">
+-->
+<!ENTITY credit.translation "<h3>অনুবাদকবৃন্দ</h3><ul><li>রুণা ভট্টাচার্য্য</li></ul>">
+
+<!-- ENTITY credit.visuals     "ভিশুয়াল ডিজাইন পরিচালনা" -->
+<!-- ENTITY credit.theme       "থিম বিন্যাস" -->
+<!-- ENTITY credit.brand       "ব্র্যান্ড পরিচিতি" -->
+<!-- ENTITY credit.web         "ওয়েব বিন্যাস" -->
+<!-- ENTITY credit.update      "Mozilla আপডেট" -->
+<!-- ENTITY credit.qalead      "গুণমান বিচার কর্মের নেতৃত্ব" -->
+<!-- ENTITY credit.qa          "গুণমান বিচার" -->
+<!-- ENTITY credit.build       "বিল্ড ও রিলিজ" -->
+<!-- ENTITY credit.infra       "পরিকাঠামো সংক্রান্ত সহায়তা" -->
+<!-- ENTITY credit.support     "সহায়তা ব্যবস্থা" -->
+<!-- ENTITY credit.manage      "প্রজেক্ট পরিচালনা" -->
+<!-- ENTITY credit.marketleads "বাণিজ্যিক নেতৃত্ব" -->
+<!-- ENTITY credit.market      "বাণিজ্য" -->
+<!-- ENTITY credit.creators    "নির্মাতা" -->
+<!ENTITY credit.memory      "স্মরণে">
+<!-- ENTITY credit.poweredByGecko "Gecko&trade; দ্বারা সঞ্চালিত" -->

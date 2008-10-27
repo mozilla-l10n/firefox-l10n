@@ -1,0 +1,73 @@
+<!-- these things need to move into utilityOverlay.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
+<!ENTITY fileMenu.label					"ফাইল"> 
+<!ENTITY fileMenu.accesskey				"f">
+<!ENTITY newMenu.label						"নতুন">
+<!ENTITY newMenu.accesskey					"N">
+
+<!ENTITY editMenu.label					"সম্পাদনা"> 
+<!ENTITY editMenu.accesskey				"e"> 
+<!ENTITY undoCmd.label						"পূর্বাবস্থা">  
+<!ENTITY undoCmd.key						"Z">  
+<!ENTITY undoCmd.accesskey					"u"> 
+<!ENTITY redoCmd.label						"পুনরাবৃত্তি">  
+<!ENTITY redoCmd.key						"Y">  
+<!ENTITY redoCmd.accesskey					"r"> 
+<!ENTITY cutCmd.label						"কাট করুন">  
+<!ENTITY cutCmd.key							"X">  
+<!ENTITY cutCmd.accesskey					"t"> 
+<!ENTITY copyCmd.label						"কপি করুন">  
+<!ENTITY copyCmd.key						"C">  
+<!ENTITY copyCmd.accesskey					"c"> 
+<!ENTITY pasteCmd.label						"পেস্ট করুন">  
+<!ENTITY pasteCmd.key						"V">  
+<!ENTITY pasteCmd.accesskey					"p"> 
+<!ENTITY deleteCmd.label					"মুছে ফেলুন">  
+<!ENTITY deleteCmd.key						"D">  
+<!ENTITY deleteCmd.accesskey				"d"> 
+<!ENTITY selectAllCmd.label					"সমগ্র নির্বাচন">  
+<!ENTITY selectAllCmd.key					"A">  
+<!ENTITY selectAllCmd.accesskey				"a"> 
+<!ENTITY preferencesCmd.label				"বিকল্প...">
+<!ENTITY preferencesCmd.accesskey			"O"> 
+<!ENTITY preferencesCmdUnix.label       "বৈশিষ্ট্যাবলী">
+<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+
+<!ENTITY findTypeTextCmd.label "টাইপ করাকালীন টেক্সট অনুসন্ধান করা হবে">
+<!ENTITY findTypeTextCmd.accesskey "x">
+
+<!ENTITY viewMenu.label					"প্রদর্শন"> 
+<!ENTITY viewMenu.accesskey				"v"> 
+<!ENTITY viewToolbarsMenu.label				"টুল-বার"> 
+<!ENTITY viewToolbarsMenu.accesskey			"T"> 
+<!ENTITY showTaskbarCmd.label					"স্ট্যাটাস-বার">   
+<!ENTITY showTaskbarCmd.accesskey				"S"> 
+
+<!ENTITY direct.label                                   "অনলাইন (proxy: none)">
+<!ENTITY direct.accesskey                               "n">
+<!ENTITY manual.label                                   "অনলাইন (proxy: manual)">
+<!ENTITY manual.accesskey                               "m">
+<!ENTITY pac.label                                      "অনলাইন (proxy: auto)">
+<!ENTITY pac.accesskey                                  "a">
+
+<!ENTITY proxy.label                                    "প্রক্সি কনফিগারেশন...">
+<!ENTITY proxy.accesskey                                "C">
+
+<!ENTITY findTypeTextCmd.key        "/">
+<!ENTITY findTypeLinksCmd.key       "'">
+
+<!ENTITY closeCmd.label			"বন্ধ করুন">  
+<!ENTITY closeCmd.key			"W">  
+<!ENTITY closeCmd.accesskey		"c">
+
+<!ENTITY closeWindow.label "উইন্ডো বন্ধ করুন">
+
+<!ENTITY quitApplicationCmd.label	"প্রস্থান"> 
+<!ENTITY quitApplicationCmd.key		"Q"> 
+<!ENTITY quitApplicationCmd.accesskey	"x">
+
+<!ENTITY quitApplicationCmdUnix.label	"প্রস্থান"> 
+<!ENTITY quitApplicationCmdUnix.accesskey	"q">
+

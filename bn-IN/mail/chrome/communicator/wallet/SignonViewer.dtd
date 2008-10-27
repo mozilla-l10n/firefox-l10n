@@ -1,0 +1,17 @@
+<!ENTITY      windowtitle.label               "পাসওয়ার্ড পরিচালন ব্যবস্থা">
+<!ENTITY      windowalttitle.label            "ফর্ম পরিচালন ব্যবস্থা: সাইট">
+<!ENTITY      tab.signonsstored.label         "সংরক্ষিত পাসওয়ার্ড">
+<!ENTITY      tab.signonsnotstored.label      "পূর্বে অসংরক্ষিত পাসওয়ার্ড">
+<!ENTITY      tab.nopreview.label             "পূর্বে প্রদর্শন না করা ফর্ম">
+<!ENTITY      tab.nocapture.label             "কখনও না সংরক্ষিত ফর্ম">
+
+<!ENTITY      spiel.signonsstored.label       "নিম্নলিখিত সাইটগুলির জন্য পাসওয়ার্ড পরিচালন ব্যবস্থার দ্বারা লগ-ইন সংক্রান্ত তথ্য সংরক্ষণ করা হয়েছে:">
+<!ENTITY      spiel.signonsnotstored.label    "নিম্নলিখিত সাইটগুলির জন্য পাসওয়ার্ড পরিচালন ব্যবস্থার দ্বারা কখনও লগ-ইন সংক্রান্ত তথ্য সংরক্ষণ করা হবে না:">
+<!ENTITY      spiel.nopreview.label           "নিম্নলিখিত সাইটগুলি থেকে প্রাপ্ত ফর্মের ক্ষেত্রে ফর্ম পরিচালন ব্যবস্থার দ্বারা তথ্য পূরণ করার পূর্বে ফর্মের পূর্বরূপ প্রদর্শন করা হবে না">
+<!ENTITY      spiel.nocapture.label           "নিম্নলিখিত সাইটগুলি থেকে প্রাপ্ত ফর্মের ক্ষেত্রে ফর্ম পরিচালন ব্যবস্থার দ্বারা ফর্ম সংরক্ষণের অনুরোধ করা হবে না:">
+
+<!ENTITY      treehead.site.label             "সাইট">
+<!ENTITY      treehead.username.label         "ব্যবহারকারীর নাম">
+<!ENTITY      treehead.password.label         "পাসওয়ার্ড">
+<!ENTITY      remove.label                    "মুছে ফেলুন">
+<!ENTITY      removeall.label                 "সমস্ত মুছে ফেলুন">

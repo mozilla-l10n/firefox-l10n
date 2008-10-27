@@ -1,0 +1,7 @@
+
+<!ENTITY editPageCmd.label                "রচনা ব্যবস্থায় পৃষ্ঠা সম্পাদনা করুন"> 
+<!ENTITY editPageCmd.accesskey            "e">
+
+<!ENTITY editLinkCmd.label                "রচনা ব্যবস্থায় লিঙ্ক সম্পাদনা করুন">
+<!ENTITY editLinkCmd.accesskey            "E">
+

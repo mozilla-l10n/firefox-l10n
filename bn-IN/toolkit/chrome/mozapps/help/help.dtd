@@ -1,0 +1,67 @@
+<!ENTITY printCmd.commandkey            "p">
+
+<!ENTITY findOnCmd.commandkey           "F">
+<!ENTITY findAgainCmd.commandkey        "G">
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
+
+<!ENTITY backButton.label               "পূর্ববর্তী">
+<!ENTITY backButton.accesskey           "B">
+<!ENTITY backButton.tooltip             "সর্বশেষ পূর্ববর্তী পৃষ্ঠায় প্রত্যাবর্তন করুন">
+<!ENTITY forwardButton.label            "পরবর্তী">
+<!ENTITY forwardButton.accesskey        "F">
+<!ENTITY forwardButton.tooltip          "প্রদর্শিত পৃষ্ঠার অনুক্রম অনুযায়ী, পরবর্তী পৃষ্ঠায় এগিয়ে চলুন">
+<!ENTITY copyCmd.label                  "কপি করুন">
+<!ENTITY copyCmd.accesskey              "C">
+<!ENTITY selectAllCmd.label             "সমগ্র নির্বাচন">
+<!ENTITY selectAllCmd.accesskey         "A">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label               "হোম">
+<!ENTITY homeButton.tooltip             "সহায়তার প্রারম্ভিক পৃষ্ঠায় চলুন">
+<!ENTITY printButton.label              "প্রিন্ট করুন">
+<!ENTITY printButton.tooltip            "বর্তমান পৃষ্ঠা প্রিন্ট করুন">
+<!ENTITY closeWindow.commandkey         "W">
+
+<!-- ENTITY throbberItem.title             "কর্ম চিহ্নকারী" -->
+<!-- ENTITY throbber.tooltip               "সহায়তা বিভাগের সহায়তা অংশে চলুন" -->
+
+<!ENTITY searchtab.label    	  	"অনুসন্ধান">
+<!ENTITY searchtab.accesskey            "S">
+<!ENTITY searchClose.tooltip            "অনুসন্ধানের ফলাফল বন্ধ করা হবে">
+<!ENTITY toctab.label       	  	"বিষয়বস্তু">
+<!ENTITY toctab.accesskey               "C">
+
+<!-- ENTITY textZoomReduceCmd.commandkey	"-" -->
+<!-- ENTITY textZoomEnlargeCmd.commandkey	"+" -->
+<!-- ENTITY textZoomEnlargeCmd.commandkey2 "=" --> <!-- + is above this key on many keyboards -->
+<!-- ENTITY textZoomResetCmd.commandkey    "0" -->
+
+<!ENTITY helpSearch.commandkey          "k">
+
+<!ENTITY zLevel.label                   "সর্বদা উপরে স্থিত">
+<!ENTITY zLevel.accesskey               "T">
+
+<!-- ENTITY textZoomReduceBtn.label        "হরফের মাপ হ্রাস করুন" -->
+<!-- ENTITY textZoomReduceBtn.accesskey    "D" -->
+<!-- ENTITY textZoomEnlargeBtn.label       "হরফের মাপ বৃদ্ধি করুন" -->
+<!-- ENTITY textZoomEnlargeBtn.accesskey   "I" -->
+
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY fullZoomReduceBtn.label        "বড় মাপে প্রদর্শন">
+<!ENTITY fullZoomReduceBtn.accesskey    "O">
+<!ENTITY fullZoomEnlargeBtn.label       "ছোট মাপে প্রদর্শন">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "I">

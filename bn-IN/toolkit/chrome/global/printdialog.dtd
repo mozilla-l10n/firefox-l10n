@@ -1,0 +1,29 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "প্রিন্ট করুন">
+
+<!ENTITY printDialog.title "প্রিন্ট কর্ম">
+
+<!ENTITY fpDialog.title "ফাইল সংরক্ষণ করুন">
+
+<!ENTITY fileCheck.label "ফাইলের মধ্যে প্রিন্ট করুন">
+<!ENTITY propertiesButton.label "বৈশিষ্ট্যাবলী...">
+<!ENTITY descText.label "প্রিন্টারের বিবরণ:">
+<!ENTITY printer.label "প্রিন্টার">
+<!ENTITY printerInput.label "প্রিন্টারের নাম:">
+
+<!ENTITY printrangeGroup.label "প্রিন্ট করার বিষয়বস্তু">
+<!ENTITY allpagesRadio.label "সমস্ত পৃষ্ঠা">
+<!ENTITY rangeRadio.label  "পৃষ্ঠা সংখ্যা">
+<!ENTITY frompageInput.label  "আরম্ভ">
+<!ENTITY topageInput.label  "সর্বশেষ">
+<!ENTITY selectionRadio.label "নির্বাচিত অংশ">
+
+<!ENTITY copies.label "প্রতিলিপি">
+<!ENTITY numCopies.label "প্রতিলিপি সংখ্যা:">
+
+<!ENTITY printframeGroup.label "ফ্রেম প্রিন্ট">
+<!ENTITY aslaidoutRadio.label "পর্দার বিন্যাস অনুযায়ী">
+<!ENTITY selectedframeRadio.label  "শুধুমাত্র নির্বাচিত ফ্রেম">
+<!ENTITY eachframesepRadio.label  "প্রতিটি ফ্রেম পৃথকরূপে">
+

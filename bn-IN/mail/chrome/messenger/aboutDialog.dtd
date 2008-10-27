@@ -1,0 +1,6 @@
+<!ENTITY aboutDialog.title      "&brandFullName; পরিচিতি">
+<!ENTITY credits                "স্বীকৃতি">
+<!ENTITY aboutLink              "&lt; &brandFullName; পরিচিতি">
+<!ENTITY aboutVersion           "সংস্করণ">
+<!ENTITY copyrightText          "&#169;১৯৯৮-২০০৭ অংশগ্রহণকারী বৃন্দ।  সর্বসত্ত্ব সংরক্ষিত। Mozilla Thunderbird ও
+                                 Thunderbird লোগো Mozilla Foundation-র ট্রেডমার্ক।  সর্বসত্ত্ব সংরক্ষিত।">

@@ -1,0 +1,59 @@
+<!ENTITY  history.label "পূর্ববর্তী তথ্য">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberBefore.label and rememberAfter.label appear on a single
+  line in preferences as follows:
+
+  &rememberBefore.label  [ textbox for number of days ]   &rememberAfter.label;
+-->
+<!-- ENTITY  rememberBefore.label          "প্রদর্শিত পৃষ্ঠাগুলি মনে রাখা হবে" -->
+<!-- ENTITY  rememberBefore.accesskey      "v" -->
+<!-- ENTITY  rememberAfter.label           "দিন।" -->
+
+<!ENTITY  rememberDaysBefore.label      "পূর্ববর্তী তথ্য রাখা হবে অন্তত">
+<!ENTITY  rememberDaysBefore.accesskey  "h">
+<!ENTITY  rememberDaysAfter2.label      "দিন">
+
+<!ENTITY  rememberForms.label           "ওয়েব-পেজ ফর্ম ও অনুসন্ধানের বারে লেখা তথ্য সংরক্ষণ করা হবে">
+<!ENTITY  rememberForms.accesskey       "f">
+
+<!ENTITY  rememberDownloads.label       "ডাউনলোড করা সামগ্রীর তথ্য মনে রাখা হবে">
+<!ENTITY  rememberDownloads.accesskey   "d">
+
+
+<!ENTITY  cookies.label                 "কুকি">
+
+<!ENTITY  acceptCookies.label           "সাইট থেকে কুকি গ্রহণ করা হবে">
+<!ENTITY  acceptCookies.accesskey       "c">
+
+<!ENTITY  acceptThirdParty.label        "স্বতন্ত্র কুকি গ্রহণ করা হবে">
+<!ENTITY  acceptThirdParty.accesskey    "p">
+
+<!ENTITY  keepUntil.label               "সংরক্ষণের সময়কাল:">
+<!ENTITY  keepUntil.accesskey           "K">
+
+<!ENTITY  expire.label                  "মেয়াদ উত্তীর্ণ না হওয়া অবধি">
+<!ENTITY  close.label                   "&brandShortName; বন্ধ করার সময় অবধি">
+<!ENTITY  askEachTime.label             "প্রতিবার জিজ্ঞাসা করা হবে">
+
+<!ENTITY  cookieExceptions.label        "ব্যতিক্রম...">
+<!ENTITY  cookieExceptions.accesskey    "E">
+
+<!ENTITY  showCookies.label             "কুকি প্রদর্শন করা হবে...">
+<!ENTITY  showCookies.accesskey         "S">
+
+
+<!ENTITY  privateData.label             "ব্যক্তিগত তথ্য">
+
+<!ENTITY  alwaysClear.label              "&brandShortName; বন্ধ করার সময় সর্বদা ব্যক্তিগত তথ্য মুছে ফেলা হবে">
+<!ENTITY  alwaysClear.accesskey          "w">
+
+<!ENTITY  askBeforeClear.label           "ব্যক্তিগত তথ্য মুছে ফেলার পূর্বে জিজ্ঞাসা করা হবে">
+<!ENTITY  askBeforeClear.accesskey       "A">
+
+<!ENTITY  clearDataSettings.label        "বিবিধ বৈশিষ্ট্য...">
+<!ENTITY  clearDataSettings.accesskey    "t">
+
+<!ENTITY  clearDataNow.label             "এই মুহূর্তে মুছে ফেলা হবে...">
+<!ENTITY  clearDataNow.label2            "এই মুহূর্তে মুছে ফেলা হবে">
+<!ENTITY  clearDataNow.accesskey         "N">

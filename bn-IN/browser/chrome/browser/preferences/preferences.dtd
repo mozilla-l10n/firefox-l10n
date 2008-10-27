@@ -1,0 +1,18 @@
+
+<!ENTITY  prefWindow.titleWin     "বিকল্প">
+<!ENTITY  prefWindow.titleGNOME   "&brandShortName; বৈশিষ্ট্যাবলী">
+<!-- ENTITY  prefWindow.styleWin     "প্রস্থ: 42em; উচ্চতা: 40em;" -->
+<!-- ENTITY  prefWindow.styleMac     "প্রস্থ:47em;" -->
+<!-- ENTITY  prefWindow.styleGNOME   "প্রস্থ: 42em; উচ্চতা: 38.5em;" -->
+<!ENTITY  prefWin.styleWin2       "width: 42em; min-height: 39em;">
+<!ENTITY  prefWin.styleMac2       "width: 47em; min-height: 40em;">
+<!ENTITY  prefWin.styleGNOME2     "width: 42em; min-height: 39.5em;">
+
+<!ENTITY  paneMain.title          "প্রধান">
+<!ENTITY  paneTabs.title          "ট্যাব">
+<!ENTITY  paneContent.title       "বিষয়বস্তু">
+<!ENTITY  paneApplications.title  "অ্যাপ্লিকেশন তালিকা">
+<!-- ENTITY  paneFeeds.title         "ফিড" -->
+<!ENTITY  panePrivacy.title       "গোপনীয়তা">
+<!ENTITY  paneSecurity.title      "নিরাপত্তা">
+<!ENTITY  paneAdvanced.title      "উন্নত">

@@ -1,0 +1,20 @@
+<!-- ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd"
+%brandDTD; -->
+
+<!ENTITY newPagesIn.label             "নতুন পেজ খুলতে ব্যবহৃত হবে:">
+<!ENTITY inNewWindow.label            "নতুন উইন্ডো">
+<!ENTITY inNewWindow.accesskey        "w">
+<!ENTITY inNewTab.label               "নতুন ট্যাব">
+<!ENTITY inNewTab.accesskey           "t">
+
+<!ENTITY warnCloseMultipleTabs.label  "একাধিক ট্যাব বন্ধ করার প্রচেষ্টা করা হলে সতর্কবাণী প্রদর্শিত হবে">
+<!ENTITY warnCloseMultipleTabs.accesskey  "m">
+
+<!ENTITY warnOpenManyTabs.label       "একাধিক ট্যাব প্রদর্শনের ফলে &brandShortName;-র কর্ম সঞ্চালনের গতি হ্রাস হওয়ার সম্ভাবনা থাকলে সতর্ক করা হবে">
+<!ENTITY warnOpenManyTabs.accesskey   "o">
+
+<!ENTITY showTabBar.label             "ট্যাব-বার সর্বদা প্রদর্শন করা হবেAlways show the tab bar">
+<!ENTITY showTabBar.accesskey         "b">
+
+<!ENTITY switchToNewTabs.label        "নতুন ট্যাবে একটি লিঙ্ক খোলা হলে সরাসরি সংশ্লিষ্ট ট্যাব প্রদর্শন করা হবে">
+<!ENTITY switchToNewTabs.accesskey    "s">

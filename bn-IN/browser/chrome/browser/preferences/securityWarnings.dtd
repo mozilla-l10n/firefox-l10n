@@ -1,0 +1,13 @@
+<!ENTITY securityWarnings.title                   "নিরাপত্তা সংক্রান্ত সতর্কবার্তা">
+
+<!ENTITY security.warn_when                       "সতর্কতাসূআক ডায়লগ প্রদর্শিত হবে:">
+<!ENTITY security.warn_entering_secure.label      "এনক্রিপ্ট করা পৃষ্ঠা প্রদর্শনের পূর্বে।">
+<!ENTITY security.warn_entering_secure.accesskey  "v">
+<!ENTITY security.warn_entering_weak.label        "নিম্ন মানের এনক্রিপশন ব্যবহারকারী পৃষ্ঠা প্রদর্শনের পূর্বে।">
+<!ENTITY security.warn_entering_weak.accesskey    "g">
+<!ENTITY security.warn_leaving_secure.label       "এনক্রিপ্ট করা পৃষ্ঠা ছেড়ে এনক্রিপশন-বিহীন পৃষ্ঠায় যাওয়ার পূর্বে।">
+<!ENTITY security.warn_leaving_secure.accesskey   "l">
+<!ENTITY security.warn_submit_insecure.label      "এনক্রিপশন-বিহীন অবস্থায় তথ্য জমা করা হলে।">
+<!ENTITY security.warn_submit_insecure.accesskey  "s">
+<!ENTITY security.warn_viewing_mixed.label        "এনক্রিপশন-বিহীন তথ্য সহ একটি এনক্রিপ্ট করা পৃষ্ঠা পরিদর্শনের পূর্বে।">
+<!ENTITY security.warn_viewing_mixed.accesskey    "u">

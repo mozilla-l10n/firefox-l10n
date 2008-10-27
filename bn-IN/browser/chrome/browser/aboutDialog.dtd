@@ -1,0 +1,13 @@
+<!ENTITY aboutDialog.title      "&brandFullName; পরিচিতি">
+<!ENTITY copyright              "স্বীকৃতি">
+<!ENTITY copyright.accesskey    "C">
+<!ENTITY aboutLink              "&lt; &brandFullName; পরিচিতি">
+<!ENTITY aboutLink.accesskey    "A">
+<!ENTITY aboutVersion           "সংস্করণ">
+<!-- ENTITY copyrightText          "&#169;১৯৯৮-২০০৭ অংশগ্রহণকারীদের। সর্বস্বত্ত্ব সংরক্ষিত। Firefox এবং  
+                                 Firefox লোগো Mozilla ফাউন্ডেশনের ট্রেডমার্ক।  সর্বস্বত্ব সংরক্ষিত। 
+                                 কয়েকটি ট্রেডমার্ক The Charlton Company-র
+                                 লাইসেন্সের অধীন ব্যবহৃত হয়েছে।" -->
+<!-- ENTITY cmdClose.macKey        "W" -->
+<!ENTITY copyrightInfo          "&#169;১৯৯৮-২০০৮ অংশগ্রহণকারীদের। সর্বস্বত্ত্ব সংরক্ষিত। Firefox এবং  
+                                 Firefox লোগো Mozilla ফাউন্ডেশনের ট্রেডমার্ক।  সর্বস্বত্ব সংরক্ষিত। ">

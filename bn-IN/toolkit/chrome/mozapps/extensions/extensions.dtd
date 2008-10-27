@@ -1,0 +1,182 @@
+<!ENTITY addons.title                     "অতিরিক্ত সামগ্রী">
+
+<!-- Default window size for the addon manager in pixels -->
+<!ENTITY em.width                         "520">
+<!ENTITY em.height                        "380">
+
+<!ENTITY cmd.info.commandKey              "i">
+<!ENTITY cmd.options.commandKey           ",">
+<!ENTITY cmd.close.commandKey             "w">
+
+<!-- View labels -->
+<!ENTITY extensions.label                 "অতিরিক্ত সামগ্রী">
+<!ENTITY search.label                     "অতিরিক্ত সামগ্রী প্রাপ্ত করুন">
+<!ENTITY themes.label                     "থিম">
+<!ENTITY locales.label                    "ভাষা">
+<!ENTITY plugins.label                    "প্লাগ-ইন">
+<!ENTITY update.label                     "আপডেট">
+<!ENTITY install.label                    "ইনস্টলেশন">
+
+<!-- Command Bar items -->
+<!ENTITY cmd.checkUpdatesAll.label        "আপডেট অনুসন্ধান">
+<!ENTITY cmd.checkUpdatesAll.accesskey    "F">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "অতিরিক্ত সামগ্রীর আপডেট অনুসন্ধান করুন">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "থিমের আপডেট অনুসন্ধান করুন">
+<!ENTITY cmd.installLocalFile.label       "ইনস্টল করুন...">
+<!ENTITY cmd.installLocalFile.accesskey   "n">
+<!-- ENTITY cmd.installFile.accesskey        "I" -->
+<!ENTITY cmd.installFileAddon.tooltip     "অতিরিক্ত সামগ্রী ইনস্টল করুন">
+<!ENTITY cmd.installFileTheme.tooltip     "থিম ইনস্টল করুন">
+<!ENTITY cmd.installUpdatesAll.label      "আপডেট ইনস্টল করুন">
+<!ENTITY cmd.installUpdatesAll.accesskey  "I">
+<!ENTITY cmd.installUpdatesAll.tooltip    "নির্বাচিত আপডেট ইনস্টল করে">
+<!ENTITY cmd.restartApp2.label            "Restart &brandShortName;">
+<!ENTITY cmd.restartApp2.accesskey        "R">
+<!ENTITY cmd.restartApp2.tooltip          "পরিবর্তন প্রয়োগ করার উদ্দেশ্যে  &brandShortName; পুনরায় আরম্ভ করুন">
+<!-- ENTITY cmd.restartApp.label             "&brandShortName; পুনরায় আরম্ভ করুন" -->
+<!-- ENTITY cmd.restartApp.accesskey         "R" -->
+<!-- ENTITY cmd.restartApp.tooltip           "ইনস্টলেশন সম্পন্ন করার উদ্দেশ্যে  &brandShortName; পুনরায় আরম্ভ করুন" -->
+<!ENTITY cmd.skip.label                   "উপেক্ষা করুন">
+<!ENTITY cmd.skip.accesskey               "S">
+<!ENTITY cmd.skip.tooltip                 "চিহ্নিত আপডেটগুলি উপেক্ষা করা হবে">
+<!ENTITY cmd.continue.label               "এগিয়ে চলুন">
+<!ENTITY cmd.continue.accesskey           "C">
+<!ENTITY cmd.continue.tooltip             "&brandShortName; লোড করতে থাকুন">
+
+<!ENTITY cmd.enableAll.label              "সমস্ত সক্রিয় করুন">
+<!ENTITY cmd.enableAll.accesskey          "a">
+<!ENTITY cmd.enableAll.tooltip            "প্রদর্শিত সমস্ত অতিরিক্ত সামগ্রী সক্রিয় করুন">
+<!ENTITY cmd.disableAll.label             "সমস্ত নিষ্ক্রিয় করুন">
+<!ENTITY cmd.disableAll.accesskey         "s">
+<!ENTITY cmd.disableAll.tooltip           "প্রদর্শিত সমস্ত অতিরিক্ত সামগ্রী নিষ্ক্রিয় করুন">
+
+<!-- Displayed in the selected Add-on's richlistitem and context menu -->
+<!ENTITY cmd.useTheme.label               "থিম ব্যবহার করা হবে">
+<!ENTITY cmd.useTheme.accesskey           "T">
+<!ENTITY cmd.useTheme.tooltip             "&brandShortName;-র থিম পরিবর্তন করা হবে">
+<!ENTITY cmd.options.label                "বিবিধ বিকল্প">
+<!ENTITY cmd.options.accesskey            "O">
+<!ENTITY cmd.options.tooltip              "নির্বাচিত অতিরিক্ত সামগ্রীর বিকল্প নির্ধারণ করুন">
+<!ENTITY cmd.optionsUnix.label            "পছন্দ">
+<!ENTITY cmd.optionsUnix.accesskey        "r">
+<!ENTITY cmd.optionsUnix.tooltip          "নির্বাচিত অতিরিক্ত সামগ্রী সংক্রান্ত পছন্দ  নির্ধারণ করুন">
+<!ENTITY cmd.enable.label                 "সক্রিয় করুন">
+<!ENTITY cmd.enable.accesskey             "E">
+<!ENTITY cmd.enable.tooltip               "&brandShortName; পুনরায় আরম্ভ করা হলে চিহ্নিত অতিরিক্ত সামগ্রী সক্রিয় করা হবে">
+<!ENTITY cmd.disable.label                "নিষ্ক্রিয় করুন">
+<!ENTITY cmd.disable.accesskey            "D">
+<!ENTITY cmd.disable.tooltip              "&brandShortName; পুনরায় আরম্ভ করা হলে চিহ্নিত অতিরিক্ত সামগ্রী নিষ্ক্রিয় করা হবে">
+<!ENTITY cmd.uninstall.label              "আন-ইনস্টল করুন">
+<!ENTITY cmd.uninstall2.accesskey         "U">
+<!ENTITY cmd.uninstall2.tooltip           "&brandShortName; পুনরায় আরম্ভ করা হলে চিহ্নিত অতিরিক্ত সামগ্রী আন-ইনস্টল করা হবে">
+<!ENTITY cmd.cancelUninstall.label        "আন-ইনস্টল করা হবে না">
+<!ENTITY cmd.cancelUninstall.accesskey    "C">
+<!ENTITY cmd.cancelUninstall.tooltip      "চিহ্নিত অতিরিক্ত সামগ্রী আন-ইনস্টল কর্ম বাতিল করুন">
+<!ENTITY cmd.cancelInstall.label          "ইনস্টলেশন বাতিল করুন">
+<!ENTITY cmd.cancelInstall.accesskey      "C">
+<!ENTITY cmd.cancelInstall.tooltip        "চিহ্নিত অতিরিক্ত সামগ্রীর ইনস্টলেশন বাতিল করুন">
+<!ENTITY cmd.installUpdate.label          "আপডেট ইনস্টল করুন">
+<!ENTITY cmd.installUpdate.accesskey      "I">
+<!ENTITY cmd.installUpdate.tooltip        "চিহ্নিত অতিরিক্ত সামগ্রীর আপডেট ইনস্টল করুন">
+<!ENTITY cmd.cancelUpgrade.label          "আপগ্রেড বাতিল করুন">
+<!ENTITY cmd.cancelUpgrade.accesskey      "C">
+<!ENTITY cmd.cancelUpgrade.tooltip        "চিহ্নিত অতিরিক্ত সামগ্রীর আপগ্রেড বাতিল করুন">
+<!ENTITY cmd.showUpdateInfo.label         "তথ্য প্রদর্শন করা হবে">
+<!ENTITY cmd.showUpdateInfo.accesskey     "S">
+<!ENTITY cmd.showUpdateInfo.tooltip       "এই আপডেটগুলি সম্পর্কে অধিক তথ্য প্রাপ্ত করুন">
+<!ENTITY cmd.hideUpdateInfo.label         "তথ্য আড়াল করা হবে">
+<!ENTITY cmd.hideUpdateInfo.accesskey     "H">
+<!ENTITY cmd.hideUpdateInfo.tooltip       "এই আপডেটগুলি সম্পর্কে অধিক তথ্য আড়াল করা হবে">
+<!ENTITY cmd.installSearchResult.label     "&brandShortName;-এ যোগ করা হবে…">
+<!ENTITY cmd.installSearchResult.accesskey "A">
+<!ENTITY cmd.installSearchResult.tooltip   "চিহ্নিত অতিরিক্ত সামগ্রী ডাউনলোড ও ইনস্টল করুন">
+<!ENTITY cancelInstall.label              "বাতিল">
+<!ENTITY cancelInstall.accesskey          "C">
+
+<!ENTITY cancelUpgrade.label              "বাতিল">
+<!ENTITY cancelUpgrade.accesskey          "C">
+
+<!-- The selected add-on's cancel action button label -->
+<!ENTITY cancel.label                     "বাতিল">
+<!ENTITY cancel.accesskey                 "C">
+
+<!-- Only displayed in the selected Add-on's context menu -->
+<!ENTITY cmd.homepage.label               "হোম পেজ পরিদর্শন করুন">
+<!ENTITY cmd.homepage.accesskey           "H">
+<!ENTITY cmd.about2.label                 "অতিরিক্ত সামগ্রীর পরিচিতি">
+<!ENTITY cmd.about.accesskey              "A">
+<!ENTITY cmd.checkUpdate.label            "আপডেট অনুসন্ধান">
+<!ENTITY cmd.checkUpdate.accesskey        "F">
+
+<!ENTITY cmd.includeUpdate.label          "আপডেট অন্তর্ভুক্ত করুন">
+<!ENTITY cmd.includeUpdate.accesskey      "n">
+<!ENTITY includeUpdate.label              "চিহ্নিত আপডেট অন্তর্ভুক্ত করুন">
+<!ENTITY includeUpdate.accesskey          "n">
+<!ENTITY includeUpdate.tooltip            "আপডেট ইনস্টল করার সময় চিহ্নিত অতিরিক্ত সামগ্রী অন্তর্ভুক্ত করুন">
+
+<!-- Status Messsages -->
+<!ENTITY insecureUpdate.label             "নিরাপদ আপডেট উপলব্ধ করা হয় না।">
+<!ENTITY needsDependencies.label          "অতিরিক্ত বস্তু আবশ্যক।">
+<!ENTITY blocklisted.label                "আপনার নিরাপত্তার জন্য নিষ্ক্রিয় করা রয়েছে।">
+<!ENTITY toBeDisabled.label               "&brandShortName; পুনরায় আরম্ভ করা হলে চিহ্নিত অতিরিক্ত সামগ্রীটি নিষ্ক্রিয় করা হবে।">
+<!ENTITY toBeEnabled.label                "&brandShortName; পুনরায় আরম্ভ করা হলে চিহ্নিত অতিরিক্ত সামগ্রীটি সক্রিয় করা হবে।">
+<!ENTITY toBeInstalled.label              "&brandShortName; পুনরায় আরম্ভ করা হলে চিহ্নিত অতিরিক্ত সামগ্রীটি ইনস্টল করা হবে।">
+<!ENTITY toBeUninstalled.label            "&brandShortName; পুনরায় আরম্ভ করা হলে চিহ্নিত অতিরিক্ত সামগ্রীটি আন-ইনস্টল করা হবে।">
+<!-- ENTITY toBeUpgraded.label               "&brandShortName; পুনরায় আরম্ভ করা হলে চিহ্নিত অতিরিক্ত সামগ্রীটি আপগ্রেড করা হবে।" -->
+<!ENTITY toBeUpdated.label                "&brandShortName; পুনরায় আরম্ভ করা হলে চিহ্নিত অতিরিক্ত সামগ্রীটি আপডেট করা হবে।">
+
+
+<!ENTITY getExtensions.label              "অতিরিক্ত সামগ্রী প্রাপ্ত করুন">
+<!-- ENTITY getExtensions.tooltip            "addons.mozilla.org থেকে অতিরিক্ত সামগ্রী প্রাপ্ত করুন" -->
+<!ENTITY getPlugins.label                 "প্লাগ-ইন প্রাপ্ত করুন">
+<!ENTITY getThemes.label                  "থিম প্রাপ্ত করুন">
+<!-- ENTITY getThemes.tooltip                "addons.mozilla.org থেকে থিম প্রাপ্ত করুন" -->
+<!ENTITY previewNoThemeSelected.label     "কোনো থিম নির্বাচিত হয়নি">
+<!ENTITY previewNoPreviewImage.label      "বর্তমান থিম পূর্ব-প্রদর্শনের জন্য কোনো ছবি উপস্থিত নেই">
+<!ENTITY moreInfo.label                   "অতিরিক্ত তথ্য">
+<!ENTITY infoNoAddonSelected.label        "কোনো আপডেট নির্বাচিত হয়নি">
+<!ENTITY infoNoUpdateInfo.label           "এই আপডেটের মধ্যে কোনো নতুন তথ্য উপস্থিত নেই">
+<!ENTITY infoUpdateInfoError.label        "এই আপডেট সংক্রান্ত তথ্য লোড করতে সমস্যা দেখা দিয়েছে">
+<!-- ENTITY closeMessage.tooltip             "প্রদর্শিত বার্তা বন্ধ করুন" -->
+
+<!ENTITY searchAddons.label               "সকল অতিরিক্ত সামগ্রী অনুসন্ধান করুন">
+<!ENTITY browseAddons.label               "সকল অতিরিক্ত সামগ্রী পরিদর্শন করুন">
+<!ENTITY searchFailed.label               "&brandShortName; দ্বারা অতিরিক্ত সামগ্রী প্রাপ্ত করা সম্ভব হয়নি">
+<!ENTITY recommendedHeader.label          "প্রস্তাবিত">
+<!ENTITY recommendedThrobber.label        "প্রস্তাবিত অতিরিক্ত সামগ্রী উদ্ধার করা হচ্ছে">
+<!ENTITY searchThrobber.label             "অতিরিক্ত সামগ্রী অনুসন্ধান করা হচ্ছে">
+<!ENTITY resetSearch.label                "ফলাফল মুছে ফেলুন">
+<!ENTITY noSearchResults.label            "প্রাপ্ত ফলাফলগুলি বর্তমানে ইনস্টল করা আছে অথবা বর্তমান সংস্করণের সাথে সুসংগত নয়।">
+<!ENTITY noRecommendedResults.label       "সকল প্রস্তাবিত সামগ্রী ইনস্টল করা রয়েছে অথবা সুসংগত নয়।">
+<!ENTITY emptySearch.label                "কোনো সুংগত অতিরিক্ত সামগ্রী পাওয়া যায়নি">
+<!ENTITY emptySearch.button               "ঠিক আছে">
+<!ENTITY cancelSearch.button              "বাতিল">
+<!ENTITY searchFailed.button              "ঠিক আছে">
+<!ENTITY searchResultHomepage.value       "অতিরিক্ত তথ্য">
+<!ENTITY searchBox.label                  "সকল অতিরিক্ত সামগ্রী বাছাই করুন">
+<!ENTITY recommendedResults.label         "সকল প্রস্তাবিত অতিরিক্ত সামগ্রীর তালিকা দেখুন">
+<!ENTITY searchResultConnecting.label     "সংযোগ স্থাপন করা হচ্ছে…">
+<!ENTITY searchResultInstalling.label     "ইনস্টল করা হচ্ছে…">
+<!ENTITY searchResultFailed.label         "ইনস্টল করতে ব্যর্থ">
+<!ENTITY searchResultInstalled.label      "ইনস্টল সমাপ্ত হয়েছে">
+<!ENTITY addonTypeExtension.label         "এক্সটেনশন">
+<!ENTITY addonTypeTheme.label             "থিম">
+<!ENTITY missingThumbnail.label           "পূর্বরূপ প্রদর্শন সম্ভব নয়">
+
+
+
+<!ENTITY updateSuccess.label              "সাফল্যের সাথে আপডেট সম্পন্ন হয়েছে।">
+<!ENTITY updateSuccessRestart.label       "আপডেট সমাপ্ত করার জন্য পুনরারম্ভ করুন।">
+<!ENTITY installSuccess.label             "সাফল্যে সাথে ইনস্টল সম্পন্ন হয়েছে।">
+<!ENTITY installSuccessRestart.label      "ইনস্টলেশন সমাপ্ত করার জন্য পুনরায় আরম্ভ করুন।">
+<!ENTITY installWaiting.label             "অপেক্ষা করা হচ্ছে...">
+<!ENTITY installIncompatibleUpdate.label  "সামঞ্জস্য পরীক্ষা করা হচ্ছে...">
+<!ENTITY installFinishing.label           "ইনস্টল করা হচ্ছে...">
+<!ENTITY installFailure.label             "ইনস্টল করতে ব্যর্থ।">
+
+<!ENTITY progressStatus.label             "আপডেটের উপস্থিতি পরীক্ষা করা হচ্ছে">
+
+<!ENTITY eula.title                       "ব্যবহারকারীর চুক্তিপত্র (EULA)">
+<!ENTITY eula.width                       "560px">
+<!ENTITY eula.height                      "400px">
+<!ENTITY eula.accept                      "সম্মতি জ্ঞাপন করে ইনস্টল করুন…">

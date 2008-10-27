@@ -1,0 +1,106 @@
+<!-- Context Menu -->
+<!ENTITY popupWindowRejectCmd.label     "চিহ্নিত সাইট থেকে উৎপন্ন পপ-আপ উইন্ডো প্রত্যাখ্যান করা হবে">
+<!ENTITY popupWindowRejectCmd.accesskey "">
+<!ENTITY popupWindowAllowCmd.label      "চিহ্নিত সাইট থেকে উৎপন্ন পপ-আপ উইন্ডো প্রদর্শন করা হবে">
+<!ENTITY popupWindowAllowCmd.accesskey  "">
+<!ENTITY openLinkCmd.label            "নতুন উইন্ডোর মধ্যে লিঙ্ক প্রদর্শন করা হবে">
+<!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkCmdInTab.label       "নতুন ট্যাবের মধ্যে লিঙ্ক প্রদর্শন করা হবে">
+<!ENTITY openLinkCmdInTab.accesskey   "T">
+<!ENTITY openLinkInWindowCmd.label    "খুলুন">
+<!ENTITY openLinkInWindowCmd.accesskey "p">
+<!ENTITY openFrameCmd.label           "নতুন উইন্ডোর মধ্যে ফ্রেম খোলা হবে">
+<!ENTITY openFrameCmd.accesskey       "W">
+<!ENTITY openFrameCmdInTab.label      "নতুন ট্যাবের মধ্যে ফ্রেম খোলা হবে">
+<!ENTITY openFrameCmdInTab.accesskey  "T">
+<!ENTITY showOnlyThisFrameCmd.label     "শুধুমাত্র বর্তমান ফ্রেমটি প্রদর্শন করা হবে">
+<!ENTITY showOnlyThisFrameCmd.accesskey "S">
+<!ENTITY addToBookmarksCmd.label      "বর্তমান পৃষ্ঠা বুকমার্ক করুন">
+<!ENTITY addToBookmarksCmd.accesskey  "B">
+<!ENTITY goBackCmd.label              "পূর্ববর্তী">
+<!ENTITY goBackCmd.accesskey          "B">
+<!ENTITY goForwardCmd.label           "পরবর্তী">
+<!ENTITY goForwardCmd.accesskey       "F">
+<!ENTITY reloadCmd.label              "নতুন করে প্রদর্শন">
+<!ENTITY reloadCmd.accesskey          "R">
+<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY stopCmd.label                "স্থগিত করুন">
+<!ENTITY stopCmd.accesskey            "S">
+<!ENTITY reloadFrameCmd.label         "ফ্রেম পুনরায় লোড করুন">
+<!ENTITY reloadFrameCmd.accesskey     "R">
+<!ENTITY viewPartialSourceForSelectionCmd.label "নির্বাচিত অংশের উৎস প্রদর্শন করুন">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "MathML-র উৎস প্রদর্শন করুন">
+<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPageSourceCmd.label      "পৃষ্ঠার উৎস প্রদর্শন করুন">
+<!ENTITY viewPageSourceCmd.accesskey  "V">
+<!ENTITY viewFrameSourceCmd.label     "ফ্রেমের উৎস প্রদর্শন করুন">
+<!ENTITY viewFrameSourceCmd.accesskey "V">
+<!ENTITY viewPageInfoCmd.label        "পৃষ্ঠা সংক্রান্ত তথ্য পড়ুন">
+<!ENTITY viewPageInfoCmd.accesskey    "I">
+<!ENTITY viewFrameInfoCmd.label       "ফ্রেম সংক্রান্ত তথ্য পড়ুন">
+<!ENTITY viewFrameInfoCmd.accesskey   "I">
+<!ENTITY fitImageCmd.label            "উইন্ডোর মাপ অনুসারে ছবি প্রদর্শন">
+<!ENTITY fitImageCmd.accesskey        "F">
+<!ENTITY viewImageCmd.label           "ছবি প্রদর্শন">
+<!ENTITY viewImageCmd.accesskey       "I">
+<!ENTITY viewBGImageCmd.label         "পটভূমির ছবি প্রদর্শন">
+<!ENTITY viewBGImageCmd.accesskey     "w">
+<!ENTITY setWallpaperCmd.label        "ডেস্কটপের পটভূমী রূপে নির্ধারণ করুন">
+<!ENTITY setWallpaperCmd.accesskey    "S">
+<!ENTITY bookmarkPageCmd.label        "বর্তমান পৃষ্ঠা বুকমার্ক করুন">
+<!ENTITY bookmarkPageCmd.accesskey    "m">
+<!ENTITY bookmarkLinkCmd.label        "বর্তমান লিঙ্ক বুকমার্ক করুন">
+<!ENTITY bookmarkLinkCmd.accesskey    "L">
+<!ENTITY bookmarkFrameCmd.label       "বর্তমান ফ্রেম বুকমার্ক করুন">
+<!ENTITY bookmarkFrameCmd.accesskey   "m">
+<!ENTITY savePageAsCmd.label          "নতুন নামে পেজ সংরক্ষণ করুন...">
+<!ENTITY savePageCmd.label            "পেজ সংরক্ষণ">
+<!ENTITY savePageCmd.accesskey        "A">
+<!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY saveFrameAsCmd.label         "নতুন নামে ফ্রেম সংরক্ষণ করুন...">
+<!ENTITY saveFrameCmd.label           "ফ্রেম সংরক্ষণ">
+<!ENTITY saveFrameCmd.accesskey       "m">
+<!ENTITY saveLinkAsCmd.label          "নতুন নামে লিঙ্ক দ্বারা চিহ্নিত অবস্থান সংরক্ষণ করুন...">
+<!ENTITY saveLinkCmd.label            "লিঙ্ক দ্বারা চিহ্নিত অবস্থান সংরক্ষণ">
+<!ENTITY saveLinkCmd.accesskey        "r">
+<!ENTITY saveImageAsCmd.label         "নতুন নামে ছবি সংরক্ষণ করুন...">
+<!ENTITY saveImageCmd.label           "ছবি সংরক্ষণ">
+<!ENTITY saveImageCmd.accesskey       "v">
+<!ENTITY copyCmd.label                "কপি করুন">
+<!ENTITY copyCmd.accesskey            "C">
+<!ENTITY selectAllCmd.label           "সমগ্র নির্বাচন">
+<!ENTITY selectAllCmd.accesskey       "A">
+<!ENTITY copyLinkCmd.label            "লিঙ্কের দ্বারা চিহ্নিত অবস্থান কপি করুন">
+<!ENTITY copyLinkCmd.accesskey        "C">
+<!ENTITY copyImageCmd.label           "ছবির অবস্থান কপি করুন">
+<!ENTITY copyImageCmd.accesskey       "o">
+<!ENTITY metadataCmd.label            "বৈশিষ্ট্যাবলী">
+<!ENTITY metadataCmd.accesskey        "P">
+<!ENTITY copyEmailCmd.label           "ই-মেইল ঠিকানা কপি করুন">
+<!ENTITY copyEmailCmd.accesskey       "E">
+<!ENTITY pasteCmd.label               "পেস্ট করুন">
+<!ENTITY pasteCmd.accesskey           "P">
+<!ENTITY cutCmd.label                 "কাট করুন">
+<!ENTITY cutCmd.accesskey             "t">
+<!ENTITY deleteCmd.label              "মুছে ফেলুন">
+<!ENTITY deleteCmd.accesskey          "D">
+<!ENTITY undoCmd.label                "পূর্বাবস্থা">
+<!ENTITY undoCmd.accesskey            "U">
+<!ENTITY redoCmd.label                "পুনরাবৃত্তি">
+<!ENTITY redoCmd.accesskey            "R">
+<!ENTITY thisFrameMenu.label          "বর্তমান ফ্রেম">
+<!ENTITY thisFrameMenu.accesskey      "h">
+<!ENTITY search.accesskey             "W">
+<!ENTITY bidiSwitchPageDirectionItem.label        "পৃষ্ঠার দিশা পরিবর্তন করুন">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
+<!ENTITY bidiSwitchTextDirectionItem.label        "লেখনির দিশা পরিবর্তন করুন">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+<!ENTITY spellAddToDictionary.label     "অভিধানে যোগ করুন">
+<!ENTITY spellAddToDictionary.accesskey "t">
+<!ENTITY spellEnable.label              "এই ক্ষেত্রে উপস্থিত তথ্যের বানান পরীক্ষা করুন">
+<!ENTITY spellEnable.accesskey          "S">
+<!ENTITY spellNoSuggestions.label       "(প্রস্তাবিত বানান অনুপস্থিত)">
+<!ENTITY spellDictionaries.label        "ভাষা">
+<!ENTITY spellDictionaries.accesskey    "L">
+<!ENTITY spellAddDictionaries.label     "অভিধান যোগ করুন...">
+<!ENTITY spellAddDictionaries.accesskey "D">

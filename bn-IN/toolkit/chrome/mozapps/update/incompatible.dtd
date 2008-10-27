@@ -1,0 +1,12 @@
+
+<!ENTITY  incompatible.title        "অসম বস্তু">
+<!ENTITY  incompatible.intro        "&brandShortName;-র বর্তমান আপডেট-র সাথে নিম্নলিখিত বিষয়বস্তুগুলি সুসংগত নয়
+                                     এবং ইনস্টলেশনের পরে এইগুলি নিষ্ক্রিয় করা হবে:">
+<!ENTITY  incompatible.update       "উপলব্ধ সুসংগত সংস্করণের জন্য 
+                                     &brandShortName; নিয়মিতরূপে পরীক্ষা করবে।">
+<!ENTITY  incompatible.suffix       "&brandShortName; আপডেটের মধ্যে নিরাপত্তাজড়িত  গুরুত্বপূর্ণ পরিবর্তন উপস্থিত করা হয়েছে। &brandShortName; আপডেট করার ফলে কয়েকটি এক্সটেনশন ও থিম অচল হয়ে যাওয়ার 
+                                     সম্ভাবনা থাকলেও আপনার নিজস্ব নিরাপত্তার খাতিরে আপডেট করা অতিমাত্রায় বাঞ্ছনীয়।">
+                                     
+<!ENTITY  closebutton.label         "বন্ধ করুন">
+                                     
+                                     

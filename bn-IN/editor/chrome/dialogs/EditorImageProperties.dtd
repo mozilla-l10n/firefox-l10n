@@ -1,0 +1,121 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "ছবির বৈশিষ্ট্য">
+
+<!ENTITY pixelsPopup.value "পিক্সেল">
+<!ENTITY percentPopup.value "শতাংশ">
+
+<!-- These are in the Location tab panel -->
+<!ENTITY locationEditField.label "ছবির অবস্থান:">
+<!ENTITY locationEditField.accessKey "L">
+<!ENTITY locationEditField.tooltip "ছবির ফাইলের নাম ও অবস্থান উল্লেখ করুন">
+<!ENTITY title.label "টুল-টিপ:">
+<!ENTITY title.accessKey "T">
+<!ENTITY title.tooltip "html 'title' বৈশিষ্ট্য যা টুল-টিপ রূপে প্রদর্শিত হবে">
+<!ENTITY altText.label "বিকল্পে প্রদর্শিত টেক্সট:">
+<!ENTITY altText.accessKey "A">
+<!ENTITY altTextEditField.tooltip "ছবির পরিবর্তে প্রদর্শিত টেক্সট লিখুন">
+<!ENTITY noAltText.label "বৈকল্পিক টেক্সট প্রয়োগ করা হবে না">
+<!ENTITY noAltText.accessKey "D">
+
+<!ENTITY previewBox.label "ছবির পূর্বপ্রদর্শন">
+<!ENTITY MoreFewerButton.tooltip "সম্পাদনযোগ্য প্রদর্শিত বৈশিষ্ট্যের সংখ্যা বৃদ্ধি অথবা হ্রাস করুন">
+
+<!-- These controls are in the Dimensions tab panel -->
+<!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
+<!ENTITY actualSize.label "প্রকৃত মাপ:">
+<!ENTITY actualSizeRadio.label "প্রকৃত মাপ">
+<!ENTITY actualSizeRadio.accessKey "A">
+<!ENTITY actualSizeRadio.tooltip "ছবির প্রকৃত মাপে পরিবর্তন করা হবে">
+<!ENTITY customSizeRadio.label "পছন্দসই মাপ">
+<!ENTITY customSizeRadio.accessKey "S">
+<!ENTITY customSizeRadio.tooltip "পৃষ্ঠার মধ্যে প্রদর্শিত ছবির মাপ পরিবর্তন করুন">
+<!ENTITY heightEditField.label "উচ্চতা:">
+<!ENTITY heightEditField.accessKey "G">
+<!ENTITY widthEditField.label "প্রস্থ:">
+<!ENTITY widthEditField.accessKey "W">
+<!ENTITY constrainCheckbox.label "Constrain">
+<!ENTITY constrainCheckbox.accessKey "C">
+<!ENTITY constrainCheckbox.tooltip "ছবির অ্যাস্পেক্ট অনুপাত অপরিবর্তিত রাখা হবে">
+
+
+<!-- These controls are in the Image Map box of the expanded area -->
+<!ENTITY imagemapBox.label "ছবির ম্যাপ">
+<!ENTITY removeImageMapButton.label "মুছে ফেলুন">
+<!ENTITY removeImageMapButton.accessKey "R">
+<!ENTITY editImageMapButton.label "সম্পাদনা...">
+<!ENTITY editImageMapButton.tooltip "এই ছবির জন্য ক্লিক করার যোগ্য হটস্পট নির্মাণ করুন">
+
+
+<!-- These are the options for image alignment -->
+<!ENTITY alignment.label "ছবির সাথে লেখার অবস্থান সুসংগত করুন">
+<!ENTITY bottomPopup.value "নিম্নস্থিত">
+<!ENTITY topPopup.value "ঊর্ধ্বস্থিত">
+<!ENTITY centerPopup.value "কেন্দ্রস্থিত">
+<!ENTITY wrapRightPopup.value "ডানদিকে লেখা বিভাজন করা হবে">
+<!ENTITY wrapLeftPopup.value "বাঁদিকে লেখা বিভাজন করা হবে">
+
+<!-- These controls are in the Spacing Box -->
+<!ENTITY spacingBox.label "অন্তর্বর্তী শূণ্যস্থান">
+<!ENTITY spacingBox.tooltip "ছবির চারপাশের শূণ্যস্থান নির্ধারণের জন্য একটি সংখ্যা উল্লেখ করুন">
+<!ENTITY leftRightEditField.label "বাঁদিক ও ডানদিক:">
+<!ENTITY leftRightEditField.accessKey "L">
+<!ENTITY topBottomEditField.label "উপর ও নীচে:">
+<!ENTITY topBottomEditField.accessKey "T">
+<!ENTITY borderEditField.label "গাঢ় প্রান্তরেখা:">
+<!ENTITY borderEditField.accessKey "B">
+
+<!-- These controls are in the Link Box -->
+<!ENTITY showImageLinkBorder.label "লিঙ্ক করা ছবির চারপাশে প্রান্তরেখা প্রদর্শন করুন">
+<!ENTITY showImageLinkBorder.accessKey "B">
+
+<!-- These controls may be added some day; currently not used -->
+<!ENTITY makePageBackgroundCheckbox.label "পেজের পটভূমী রূপে স্থাপন করুন">
+<!ENTITY makePageBackgroundCheckbox.tooltip "পেজের পটভূমী রূপে ছবি প্রয়োগ করুন">
+<!ENTITY editImageButton.label "ছবি সম্পাদনা">
+<!ENTITY editImageButton.tooltip "অন্য প্রোগ্রামের সাহায্যে ছবির ফাইল সম্পাদন করুন">
+
+<!-- These tabs are currently used in the image input dialog -->
+<!ENTITY imageInputTab.label "ফর্ম">
+<!ENTITY imageLocationTab.label "অবস্থান">
+<!ENTITY imageDimensionsTab.label "দিক মাত্রা">
+<!ENTITY imageAppearanceTab.label "চেহারা ছবি">
+<!ENTITY imageLinkTab.label "লিঙ্ক">
