@@ -1,12 +1,2 @@
-<!ENTITY untitledTab "(Sem titúlo)">
-<!ENTITY newTab.label "Novo Separador">
-<!ENTITY newTab.accesskey "N">
 <!ENTITY closeTab.label "Fechar Separador">
-<!ENTITY closeTab.accesskey "c">
-<!ENTITY closeOtherTabs.accesskey "o">
-<!ENTITY closeOtherTabs.label "Fechar Outros Separadores">
-<!ENTITY reloadAllTabs.label "Recarregar Todos os Separadores">
-<!ENTITY reloadAllTabs.accesskey "E">
-<!ENTITY reloadTab.label "Recarregar Separador">
-<!ENTITY reloadTab.accesskey "r">
 <!ENTITY listAllTabs.label "Listar Todos os Separadores">

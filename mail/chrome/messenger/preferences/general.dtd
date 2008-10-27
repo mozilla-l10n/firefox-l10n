@@ -29,7 +29,6 @@
 <!ENTITY customizeMailAlert.label "Personalizar...">
 <!ENTITY customizeMailAlert.accesskey "P">
 
-<!ENTITY soundNotification1.caption "Som">
 <!ENTITY play.label "Testar">
 <!ENTITY play.accesskey "T">
 <!ENTITY systemsound.label "Som pré-definido do sistema para novas mensagens">

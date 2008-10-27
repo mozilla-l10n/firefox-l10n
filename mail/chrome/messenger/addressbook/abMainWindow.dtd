@@ -1,6 +1,6 @@
 <!ENTITY addressbookWindow.title "Livro de Endereços">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY fileMenu.label "Ficheiro">
 <!ENTITY fileMenu.accesskey "f">
 <!ENTITY newMenu.label "Novo">
@@ -40,8 +40,8 @@
 <!ENTITY quitApplicationCmd.label "Sair">
 <!ENTITY quitApplicationCmd.accesskey "S">
 <!ENTITY quitApplicationCmd.key "Q">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "e">
 <!ENTITY undoCmd.label "Anular">
@@ -60,7 +60,6 @@
 <!ENTITY pasteCmd.key "v">
 <!ENTITY pasteCmd.accesskey "o">
 <!ENTITY deleteCmd.label "Eliminar">
-<!ENTITY deleteCmd.key "d">
 <!ENTITY deleteCmd.accesskey "l">
 <!ENTITY deleteAbCmd.label "Apagar Livro de Endereços">
 <!ENTITY deleteCardCmd.label "Apagar Cartão">
@@ -80,8 +79,8 @@
 <!ENTITY propertiesCmd.label "Propriedades...">
 <!ENTITY propertiesCmd.accesskey "i">
 <!ENTITY propertiesCmd.key "I">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "v">
 <!ENTITY viewToolbarsMenu.label "Barras de Ferramentas">
@@ -104,8 +103,8 @@
 <!ENTITY displayNameCmd.accesskey "m">
 <!ENTITY sortMenu.label "Ordenar por">
 <!ENTITY sortMenu.accesskey "D">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Ferramentas">
 <!ENTITY tasksMenu.accesskey "F">
 <!ENTITY messengerCmd.label "Correio e Grupos de Discussão">
@@ -118,12 +117,11 @@
 <!ENTITY exportCmd.label "Exportar...">
 <!ENTITY exportCmd.accesskey "X">
 <!ENTITY preferencesCmd.label "Opções...">
-<!ENTITY preferencesCmd.key "o">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey "p">
-<!-- Address Book Toolbar and Context Menus -->  
 
+<!-- Address Book Toolbar and Context Menus -->  
 <!ENTITY newcardButton.label "Novo cartão">
 <!ENTITY newcardButton.accesskey "C">
 <!ENTITY newlistButton.label "Nova lista">
@@ -137,26 +135,26 @@
 <!ENTITY deleteButton.label "Eliminar">
 <!ENTITY deleteButton.accesskey "L">
 <!ENTITY throbberItem.title "Indicador de actividade">
-<!-- Address Book Toolbar Tooltips -->
 
+<!-- Address Book Toolbar Tooltips -->
 <!ENTITY newcardButton.tooltip "Criar um novo cartão no livro de endereços">
 <!ENTITY newlistButton.tooltip "Criar uma nova lista">
 <!ENTITY editButton.tooltip "Editar o cartão seleccionado">
 <!ENTITY newmsgButton.tooltip "Enviar uma mensagem de correio">
 <!ENTITY newIM.tooltip "Enviar uma mensagem instantânea ou de conversação">
 <!ENTITY deleteButton.tooltip "Apagar o cartão seleccionado ou o livro de endereços">
+
 <!-- Dir Tree header -->
-
 <!ENTITY dirTreeHeader.label "Livros de Endereços">
-<!-- Search Bar -->
 
+<!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Nome ou Correio electrónico">
 <!ENTITY SearchNameOrEmail.accesskey "R">
 <!ENTITY advancedButton.tooltip "Pesquisa avançada de endereços">
 <!ENTITY quickSearchCmd.key "q">
 <!ENTITY searchItem.title "Pesquisa Rápida">
-<!-- Results Pane -->
 
+<!-- Results Pane -->
 <!ENTITY GeneratedName.label "Nome">
 <!ENTITY GeneratedName.accesskey "N">
 <!ENTITY PrimaryEmail.label "Correio Electrónico">
@@ -189,9 +187,9 @@
 <!ENTITY sortDescending.accesskey "R">
 <!ENTITY _PhoneticName.label "Nome Fonético">
 <!ENTITY _PhoneticName.accesskey "f">
+
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-
 <!ENTITY contact.heading "Contacto">
 <!ENTITY home.heading "Casa">
 <!ENTITY other.heading "Outro">
@@ -203,11 +201,11 @@
 <!-- For Map It! -->
 <!ENTITY mapItButton.label "Mapa">
 <!ENTITY mapIt.tooltip "Mostrar um mapa desta morada através da Web">
+
 <!-- Status Bar -->
-
 <!ENTITY statusText.label "">
-<!--  Mac OS X Window Menu -->
 
+<!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label "Janela">
 <!ENTITY minimizeWindow.label "Minimizar">
 <!ENTITY minimizeWindow.key "M">

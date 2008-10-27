@@ -1,5 +1,4 @@
 <!ENTITY dialog.title "Recibos de Leitura">
-<!ENTITY receiptSettings.label "Recibos de Leitura">
 <!ENTITY requestReceipt.label "Ao enviar mensagens, pedir sempre um recibo de leitura">
 <!ENTITY requestReceipt.accesskey "O">
 <!ENTITY receiptArrive.label "Quando chega um recibo:">

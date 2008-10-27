@@ -26,8 +26,6 @@
 <!ENTITY reuseExpRadio0.accesskey "v">
 <!ENTITY reuseExpRadio1.label "Janela existente">
 <!ENTITY reuseExpRadio1.accesskey "j">
-<!ENTITY reuseExpRadio2.label "Novo separador">
-<!ENTITY reuseExpRadio2.accesskey "N">
 <!ENTITY configEditDesc.label "Configuração avançada:">
 <!ENTITY configEdit.label "Editor de config...">
 <!ENTITY configEdit.accesskey "d">

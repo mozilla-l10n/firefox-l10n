@@ -20,10 +20,7 @@
 <!ENTITY filterActionDesc.label "Efectuar estas acções:">
 <!ENTITY filterActionDesc.accesskey "F">
 
-<!ENTITY newFolderButton.label "Nova pasta...">
-<!ENTITY newFolderButton.accesskey "O">
 <!-- New Style Filter Rule Actions -->
-
 <!ENTITY moveMessage.label "Mover Mensagem para">
 <!ENTITY copyMessage.label "Copiar Mensagem para">
 <!ENTITY forwardTo.label "Reencaminhar Mensagem para">

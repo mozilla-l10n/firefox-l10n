@@ -1,6 +1,6 @@
 <!-- these things need to move into utilityOverlay.xul -->
-<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
 <!ENTITY fileMenu.label "Ficheiro">
 <!ENTITY fileMenu.accesskey "f">
@@ -25,7 +25,6 @@
 <!ENTITY pasteCmd.key "v">
 <!ENTITY pasteCmd.accesskey "o">
 <!ENTITY deleteCmd.label "Eliminar">
-<!ENTITY deleteCmd.key "d">
 <!ENTITY deleteCmd.accesskey "l">
 <!ENTITY selectAllCmd.label "Seleccionar tudo">
 <!ENTITY selectAllCmd.key "a">
@@ -35,9 +34,6 @@
 <!ENTITY preferencesCmdUnix.label "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey "p">
 
-<!ENTITY findTypeTextCmd.label "Localizar texto ao escrever">
-<!ENTITY findTypeTextCmd.accesskey "e">
-
 <!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "v">
 <!ENTITY viewToolbarsMenu.label "Barras de Ferramentas">
@@ -45,18 +41,8 @@
 <!ENTITY showTaskbarCmd.label "Barra de Estado">
 <!ENTITY showTaskbarCmd.accesskey "S">
 
-<!ENTITY direct.label "Ligado (proxy: nenhum)">
-<!ENTITY direct.accesskey "n">
-<!ENTITY manual.label "Ligado (proxy: manual)">
-<!ENTITY manual.accesskey "m">
-<!ENTITY pac.label "Ligado (proxy: auto)">
-<!ENTITY pac.accesskey "a">
-
 <!ENTITY proxy.label "Configuração de proxy...">
 <!ENTITY proxy.accesskey "X">
-
-<!ENTITY findTypeTextCmd.key "/">
-<!ENTITY findTypeLinksCmd.key "'">
 
 <!ENTITY closeCmd.label "Fechar">
 <!ENTITY closeCmd.key "w">

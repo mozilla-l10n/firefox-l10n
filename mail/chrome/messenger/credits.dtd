@@ -1,30 +1,17 @@
 <!ENTITY credit.title "&brandFullName; Créditos">
 <!ENTITY brandMotto "Thunderbirds Are Go!">
 <!ENTITY credit.leads "Engineering Leads">
-<!ENTITY credit.core "Desenvolvimento Do Núcleo">
-<!ENTITY credit.gecko "Gecko Layout Engine">
 <!ENTITY credit.thanks "Agradecimentos a">
+
 <!-- localization credits look like this: -->
 <!--
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-
 <!ENTITY credit.translation "<h3>Tradutores</h3><ul><li>Carlos Simão</li><li>João Miguel Neves</li><li>António Manuel Dias</li><li>André Pinto</li></ul>">
 
-<!ENTITY credit.visuals "Coordenador do Design Visual">
 <!ENTITY credit.theme "Desenho do Tema">
-<!ENTITY credit.brand "Identidade da Marca">
-<!ENTITY credit.web "Web Design">
-<!ENTITY credit.update "Actualização do Mozilla">
-<!ENTITY credit.qalead "Segurança da Qualidade">
 <!ENTITY credit.qa "Segurança da Qualidade">
 <!ENTITY credit.build "Versão e Release">
-<!ENTITY credit.infra "Suporte da Infraestrutura">
-<!ENTITY credit.support "Suporte dos Recursos">
-<!ENTITY credit.manage "Gestão do Projecto">
-<!ENTITY credit.marketleads "Recursos de Marketing">
-<!ENTITY credit.market "Marketing">
-<!ENTITY credit.creators "Criado por">
 <!ENTITY credit.memory "Em memória de">
 <!ENTITY credit.poweredByGecko "Powered by Gecko&trade;">

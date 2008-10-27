@@ -52,7 +52,6 @@
 <!ENTITY retention.label "Política de Retenção">
 <!ENTITY retentionUseDefault.label "Usar pré-definições do servidor">
 <!ENTITY retentionUseDefault.accesskey "d">
-<!ENTITY days.label "dias">
 <!ENTITY daysOld.label "dias de idade">
 <!ENTITY message.label "mensagens">
 <!ENTITY retentionCleanup.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente eliminadas">
@@ -76,18 +75,15 @@
 
 <!ENTITY selectofflineNewsgroup.check.label "Seleccionar este grupo de discussão para uso em modo desligado">
 <!ENTITY selectofflineNewsgroup.check.accesskey "o">
-<!ENTITY UseDefaultofflineNewsgroup.check.label "Usar pré-definição a partir das configurações de conta ">
 <!ENTITY offlineNewsgroup.button.label "Transferir Agora">
 <!ENTITY offlineNewsgroup.button.accesskey "T">
 
-<!ENTITY folderProps.information.label "Informação:">
 <!ENTITY folderProps.name.label "Nome:">
 <!ENTITY folderProps.name.accesskey "N">
 <!ENTITY folderProps.location.label "Localização:">
 <!ENTITY folderProps.location.accesskey "L">
 
 <!ENTITY folderSharingTab.label "Partilhar">
-<!ENTITY privilegesDesc.label "Partilhar esta ou outra Pasta com utilizadores da rede e mostrar e configurar os privilégios de acesso">
 <!ENTITY privileges.button.label "Privilégios...">
 <!ENTITY privileges.button.accesskey "P">
 <!ENTITY permissionsDesc.label "Tem as Seguintes permissões:">

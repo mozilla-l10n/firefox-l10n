@@ -3,8 +3,6 @@
 <!ENTITY alwaysAsk.accesskey "P">
 <!ENTITY neverAsk.label "Guardar todos os Anexos na seguinte Pasta:">
 <!ENTITY neverAsk.accesskey "G">
-<!ENTITY desktop.label "Ambiente de trabalho">
-<!ENTITY downloads.label "As minhas transferências">
 <!ENTITY chooseFolderWin.label "Navegar...">
 <!ENTITY chooseFolderWin.accesskey "G">
 <!ENTITY chooseFolderMac.label "Escolher...">
@@ -15,10 +13,3 @@
 <!ENTITY configureActions.label "Ver e Editar Acções...">
 <!ENTITY configureActions.accesskey "V">
 <!ENTITY fileTypesDescription.label "O &brandShortName; pode guardar automaticamente ou abrir anexos de determinado tipo.">
-
-<!ENTITY fileTypeColName.label "Tipo de ficheiro">
-<!ENTITY fileHandlerColName.label "Aplicação">
-<!ENTITY editFileHandler.label "Mudar Acção...">
-<!ENTITY editFileHandler.accesskey "a">
-<!ENTITY removeFileHandler.label "Remover">
-<!ENTITY removeFileHandler.accesskey "r">

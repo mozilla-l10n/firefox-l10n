@@ -2,13 +2,6 @@
 
 <!ENTITY securitySettings.label "Configurações de Segurança">
 <!ENTITY serverSettings.label "Configurações do Servidor">
-<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
-<!ENTITY popServer.label "Servidor de Correio POP">
-<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
-<!ENTITY imapServer.label "Servidor de Correio IMAP">
-<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
-<!ENTITY newsServer.label "Servidor de Notícias (NNTP)">
-<!ENTITY webmail.label "Conta de Correio electrónico">
 <!ENTITY serverType.label "Tipo de Servidor:">
 <!ENTITY serverName.label "Nome do Servidor:">
 <!ENTITY serverName.accesskey "S">
@@ -50,10 +43,7 @@
 <!ENTITY deleteOnServer2.accesskey "g">
 <!ENTITY downloadOnBiff.label "Transferir automaticamente novas mensagens">
 <!ENTITY downloadOnBiff.accesskey "a">
-<!ENTITY hostname.label "Nome do Servidor">
 <!ENTITY username.label "O seu nome de Entrada">
-<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
-<!ENTITY popServerTitle.label "Informação do Servidor POP">
 <!ENTITY deleteMessagePrefix.label "Quando eu apagar uma mensagem:">
 <!ENTITY modelMoveToTrash.label "Move-la para esta pasta:">
 <!ENTITY modelMoveToTrash.accesskey "o">
