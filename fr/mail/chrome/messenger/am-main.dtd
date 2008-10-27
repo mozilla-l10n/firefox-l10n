@@ -3,7 +3,6 @@
 <!ENTITY accountTitle.label "Paramètres du compte">
 <!ENTITY accountName.label "Nom du compte :">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY accountNameDesc.label "Le nom de compte identifie chaque compte">
 <!ENTITY identityTitle.label "Identité par défaut">
 <!ENTITY identityDesc.label "Chaque compte dispose d'informations sur l'expéditeur qui sont systématiquement transmises avec les messages. Elles vous identifient auprès de vos correspondants.">
 <!ENTITY name.label "Nom :">

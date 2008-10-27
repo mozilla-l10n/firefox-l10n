@@ -34,10 +34,7 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-<!ENTITY nameColumn.label   "Nom"> 
+<!ENTITY nameColumn.label "Nom"> 
 <!ENTITY unreadColumn.label "Non lus"> 
 <!ENTITY totalColumn.label "Total"> 
 <!ENTITY folderSizeColumn.label "Taille"> 
-<!ENTITY accounts.label "Comptes">
-<!-- LOCALIZATION NOTE (accounts.img) : DONT_TRANSLATE -->
-<!ENTITY accounts.img "chrome://messenger/skin/local-mailhost.gif">

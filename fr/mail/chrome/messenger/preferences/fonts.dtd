@@ -6,7 +6,6 @@
 <!ENTITY  language.label                          "Polices pour :">
 <!ENTITY  language.accesskey                      "o">
 
-<!ENTITY  typefaces.label                         "Apparence">
 <!ENTITY  sizes.label                             "Taille :">
 <!ENTITY  proportionalSize.accesskey              "T">
 <!ENTITY  monospaceSize.accesskey                 "e">
@@ -20,8 +19,6 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Largeur fixe :">
 <!ENTITY  monospace.accesskey                     "L">
-
-<!ENTITY  fontsize.units                          "pixels">
 
 <!ENTITY  font.langGroup.latin1                   "Occidental">
 <!ENTITY  font.langGroup.latin2                   "Europe centrale">
@@ -59,8 +56,6 @@
 <!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
-
-<!ENTITY  newLanguages.label                      "Il est possible de configurer de nouvelles langues avec le Panneau des langues.">
 
 <!ENTITY  useDocumentFonts.label                  "Autoriser les messages à utiliser d'autres polices">
 <!ENTITY  useDocumentFonts.accesskey              "A">

@@ -1,8 +1,6 @@
 <!ENTITY itemFormatting.label             "Formatage">
 <!ENTITY itemTags.label                   "Étiquettes">
-<!ENTITY itemFonts.label                  "Polices">
 
-<!ENTITY textBegin.label                  "Apparence du texte recopié">
 <!ENTITY style.label                      "Style :">
 <!ENTITY style.accesskey                  "t">
 <!ENTITY regularStyle.label               "Normal">
@@ -19,12 +17,10 @@
 <!ENTITY displayWidth.label               "Messages en texte simple">
 <!ENTITY plainText.label		  "Utiliser la police suivante :">
 <!ENTITY displayText.label	          "Lors de l'affichage de citations en texte simple :">
-<!ENTITY viewingPlainText.label	          "Lors de l'affichage de messages en texte simple :">
 <!ENTITY fixedWidth.label                 "Police de largeur fixe">
 <!ENTITY fixedWidth.accesskey             "f">
 <!ENTITY variableWidth.label              "Police de largeur variable">
 <!ENTITY variableWidth.accesskey          "V">
-<!ENTITY readingMessagesHeader.label      "Pour les messages entrant">
 <!ENTITY colors.label                     "Couleurs">
 <!ENTITY overrideColors.label             "Lors de l'affichage des messages, utiliser les couleurs suivantes :">
 <!ENTITY textColor.label                  "Couleur de texte :">

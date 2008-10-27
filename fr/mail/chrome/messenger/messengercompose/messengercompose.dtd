@@ -75,7 +75,6 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "o">
 <!ENTITY deleteCmd.label "Effacer">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Tout sélectionner">
 <!ENTITY selectAllCmd.key "A">
@@ -98,7 +97,6 @@
 <!ENTITY viewToolbarsMenuNew.label "Barres d'outils"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "t">
 <!ENTITY showCompositionToolbarCmd.label "Barre d'outils courrier">
-<!ENTITY showCompositionToolbarCmd.accesskey "c">
 <!ENTITY showFormattingBarCmd.label "Barre de mise en forme">
 <!ENTITY showFormattingBarCmd.accesskey "f">
 <!ENTITY showTaskbarCmd.label "Barre d'état">
@@ -173,7 +171,6 @@
 <!ENTITY accountManagerCmd.accesskey "m">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
 <!ENTITY preferencesCmd.label "Options…">
-<!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "Préférences">
 <!ENTITY preferencesCmdUnix.accesskey   "n"> 
@@ -220,10 +217,6 @@
 <!ENTITY attachments.accesskey "j">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
 <!ENTITY SmileButton.tooltip "Insérer une émoticône">
 <!ENTITY smiley1Cmd.label "Sourire">
 <!ENTITY smiley2Cmd.label "Mécontent">

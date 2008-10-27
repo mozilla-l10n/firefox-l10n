@@ -3,8 +3,6 @@
 <!ENTITY alwaysAsk.accesskey          "D">
 <!ENTITY neverAsk.label               "Enregistrer toutes les pièces jointes dans ce dossier :">
 <!ENTITY neverAsk.accesskey           "E">
-<!ENTITY desktop.label                "Bureau">
-<!ENTITY downloads.label              "Mes téléchargements">
 <!ENTITY chooseFolderWin.label        "Parcourir…">
 <!ENTITY chooseFolderWin.accesskey    "P">
 <!ENTITY chooseFolderMac.label        "Choisir…">
@@ -15,10 +13,3 @@
 <!ENTITY configureActions.label       "Voir et modifier les actions…">
 <!ENTITY configureActions.accesskey   "V">
 <!ENTITY fileTypesDescription.label   "&brandShortName; peut enregistrer ou ouvrir automatiquement les pièces jointes d'un certain type.">
-
-<!ENTITY fileTypeColName.label        "Type de fichier">
-<!ENTITY fileHandlerColName.label     "Application">
-<!ENTITY editFileHandler.label        "Modifier l'action…">
-<!ENTITY editFileHandler.accesskey    "a">
-<!ENTITY removeFileHandler.label      "Supprimer">
-<!ENTITY removeFileHandler.accesskey  "S">

@@ -1,6 +1,4 @@
 <!ENTITY serverAdvanced.label "Paramètres avancés des comptes">
-<!-- LOCALIZATION NOTE (imapAdvanced.label): Do not translate "IMAP" -->
-<!ENTITY imapAdvanced.label "Paramètres avancés Serveur IMAP">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "Dossier sur le serveur IMAP :">
 <!ENTITY serverDirectory.accesskey "D">
@@ -23,7 +21,6 @@
 <!ENTITY overrideNamespaces.label "Permettre au serveur d'outrepasser ces espaces de noms">
 <!ENTITY overrideNamespaces.accesskey "r">
 <!ENTITY pop3Desc.label "Lors du téléchargement des messages POP pour ce serveur, utiliser le dossier suivant pour le nouveau courrier :" >
-<!ENTITY folderStorage.label "Où stocker les messages">
 <!ENTITY globalInbox.label "Boîte globale (compte Dossiers locaux)">
 <!ENTITY globalInbox.accesskey "B">
 <!ENTITY accountDirectory.label "Courrier entrant de ce compte">
