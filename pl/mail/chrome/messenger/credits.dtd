@@ -1,15 +1,10 @@
-<!ENTITY credit.title     "Podziękowania programu &brandFullName;">
-<!ENTITY brandMotto       "Poczta na Twój sposób!">
-<!ENTITY credit.leads     "Główni programiści">
-<!ENTITY credit.core      "Kierownictwo projektu">
-<!ENTITY credit.gecko     "Silnik wyświetlania stron Gecko">
-<!ENTITY credit.thanks    "Specjalne podziękowania dla">
+<!ENTITY credit.title  "Podziękowania programu &brandFullName;">
+<!ENTITY brandMotto    "Poczta na Twój sposób!">
+<!ENTITY credit.leads  "Główni programiści">
+<!ENTITY credit.thanks "Specjalne podziękowania dla">
 
 <!-- localization credits look like this: -->
-<!--
-<!ENTITY credit.translation
-  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
--->
+<!-- <!ENTITY credit.translation "<h3>Translators</h3><ul><li>Name Here</li></ul>"> -->
 <!ENTITY credit.translation "<h3>Polska lokalizacja</h3>
     <ul>
       <li>Zbigniew Braniecki</li>
@@ -32,20 +27,8 @@
     </ul>
 ">
 
-
-<!ENTITY credit.visuals     "Koordynator oprawy graficznej">
-<!ENTITY credit.theme       "Przygotowanie motywu">
-<!ENTITY credit.brand       "Opracowanie marki">
-<!ENTITY credit.web         "Strona internetowa">
-<!ENTITY credit.update      "System aktualizacji">
-<!ENTITY credit.qalead      "Kierownictwo kontroli jakości">
-<!ENTITY credit.qa          "Kontrola jakości">
-<!ENTITY credit.build       "Kompilacja i wydanie">
-<!ENTITY credit.infra       "Zaplecze techniczne">
-<!ENTITY credit.support     "Wsparcie">
-<!ENTITY credit.manage      "Kierownictwo projektu">
-<!ENTITY credit.marketleads "Kierownictwo marketingu">
-<!ENTITY credit.market      "Marketing">
-<!ENTITY credit.creators    "Twórcy">
-<!ENTITY credit.memory      "Pamięci">
+<!ENTITY credit.theme          "Przygotowanie motywu">
+<!ENTITY credit.qa             "Kontrola jakości">
+<!ENTITY credit.build          "Kompilacja i wydanie">
+<!ENTITY credit.memory         "Pamięci">
 <!ENTITY credit.poweredByGecko "Oprogramowanie oparte o platformę Gecko&trade;">

@@ -1,8 +1,6 @@
 <!ENTITY itemFormatting.label             "Formatowanie">
 <!ENTITY itemTags.label                   "Etykiety">
-<!ENTITY itemFonts.label                  "Czcionki">
 
-<!ENTITY textBegin.label                  "Wygląd cytatów w wiadomościach tekstowych">
 <!ENTITY style.label                      "Styl:">
 <!ENTITY style.accesskey                  "t">
 <!ENTITY regularStyle.label               "Normalny">
@@ -19,12 +17,10 @@
 <!ENTITY displayWidth.label               "Wiadomości tekstowe">
 <!ENTITY plainText.label                  "Używaj czcionki:">
 <!ENTITY displayText.label                "Ustawienia wyświetlania cytatów w wiadomościach tekstowych:">
-<!ENTITY viewingPlainText.label           "Używaj następujących ustawień do wyświetlania wiadomości tekstowych:">
 <!ENTITY fixedWidth.label                 "o stałej szerokości">
 <!ENTITY fixedWidth.accesskey             "s">
 <!ENTITY variableWidth.label              "o zmiennej szerokości">
 <!ENTITY variableWidth.accesskey          "z">
-<!ENTITY readingMessagesHeader.label      "Dla wiadomości przychodzących">
 <!ENTITY colors.label                     "Kolory">
 <!ENTITY overrideColors.label             "Podczas wyświetlania wiadomości używaj następujących kolorów:">
 <!ENTITY  textColor.label                 "Kolor tekstu:">
@@ -32,21 +28,21 @@
 <!ENTITY  backgroundColor.label           "Kolor tła:">
 <!ENTITY  backgroundColor.accesskey       "a">
 
-<!ENTITY convertEmoticons.label        "Wyświetlaj emotikony jako grafikę">
-<!ENTITY convertEmoticons.accesskey    "W">
+<!ENTITY convertEmoticons.label     "Wyświetlaj emotikony jako grafikę">
+<!ENTITY convertEmoticons.accesskey "W">
 
 <!-- labels -->
-<!ENTITY displayTagsText.label    "Etykiety mogą być używane do klasyfikowania wiadomości oraz nadawania im priorytetów.">
-<!ENTITY addTagButton.label       "Dodaj">
-<!ENTITY addTagButton.accesskey   "D"> 
-<!ENTITY editTagButton.label      "Edytuj">
+<!ENTITY displayTagsText.label     "Etykiety mogą być używane do klasyfikowania wiadomości oraz nadawania im priorytetów.">
+<!ENTITY addTagButton.label        "Dodaj">
+<!ENTITY addTagButton.accesskey    "D">
+<!ENTITY editTagButton.label       "Edytuj">
 <!ENTITY editTagButton.accesskey   "E">
-<!ENTITY removeTagButton.label    "Usuń">
+<!ENTITY removeTagButton.label     "Usuń">
 <!ENTITY removeTagButton.accesskey "U">
 
 <!-- Fonts -->
-<!ENTITY  fontAndEncodingsDescription.label       "Ustawienia czcionek używanych przez program &brandShortName;">
-<!ENTITY  fontsAndEncodingsCaption.label 	"Czcionki i zestawy znaków">
-<!ENTITY fontOptions.accesskey 			"C">
-<!ENTITY fontOptions.label 			"Czcionki…">
+<!ENTITY  fontAndEncodingsDescription.label "Ustawienia czcionek używanych przez program &brandShortName;">
+<!ENTITY  fontsAndEncodingsCaption.label    "Czcionki i zestawy znaków">
+<!ENTITY fontOptions.accesskey              "C">
+<!ENTITY fontOptions.label                  "Czcionki…">
 

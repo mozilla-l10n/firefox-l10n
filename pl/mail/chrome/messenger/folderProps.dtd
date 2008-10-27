@@ -42,63 +42,59 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY folderProps.windowtitle.label "Właściwości">
+<!ENTITY folderProps.windowtitle.label      "Właściwości">
 
-<!ENTITY generalInfo.label "Informacje ogólne">
-<!ENTITY folderCharsetTab.label 		"Domyślny zestaw znaków:">
-<!ENTITY folderCharsetTab.accesskey 		"e">
-<!ENTITY folderCharsetOverride.label 		"Domyślnie zastosuj dla wszystkich wiadomości (indywidualne ustawienia zestawu znaków wiadomości oraz autodetekcja zostaną zignorowane)">
-<!ENTITY folderCharsetOverride.accesskey 	"a">
-<!ENTITY folderRebuildSummaryFile.label          "Przebuduj indeks">
-<!ENTITY folderRebuildSummaryFile.accesskey      "r">
-<!ENTITY folderRebuildSummaryFileTip.label       "Przebuduj plik podsumowania">
+<!ENTITY generalInfo.label                  "Informacje ogólne">
+<!ENTITY folderCharsetTab.label             "Domyślny zestaw znaków:">
+<!ENTITY folderCharsetTab.accesskey         "e">
+<!ENTITY folderCharsetOverride.label        "Domyślnie zastosuj dla wszystkich wiadomości (indywidualne ustawienia zestawu znaków wiadomości oraz autodetekcja zostaną zignorowane)">
+<!ENTITY folderCharsetOverride.accesskey    "a">
+<!ENTITY folderRebuildSummaryFile.label     "Przebuduj indeks">
+<!ENTITY folderRebuildSummaryFile.accesskey "r">
+<!ENTITY folderRebuildSummaryFileTip.label  "Przebuduj plik podsumowania">
 
-<!ENTITY retention.label              "Reguły przechowywania wiadomości">
-<!ENTITY retentionUseDefault.label    "Używaj domyślnych ustawień serwera">
-<!ENTITY retentionUseDefault.accesskey "d">
-<!ENTITY days.label "dni">
-<!ENTITY daysOld.label "dni">
-<!ENTITY message.label "najnowszych wiadomości">
-<!ENTITY retentionCleanup.label "W celu zaoszczędzenia miejsca na dysku, stare wiadomości mogą być nieodwracalnie usuwane">
-<!ENTITY retentionDeleteMsg.label     "Usuń wiadomości starsze niż">
-<!ENTITY retentionDeleteMsg.accesskey "m">
-<!ENTITY retentionKeepAll.label "Nie usuwaj żadnych wiadomości">
-<!ENTITY retentionKeepAll.accesskey "A">
-<!ENTITY retentionKeepNew.label "Usuń wszystko, oprócz">
-<!ENTITY retentionKeepNew.accesskey "w">
-<!ENTITY retentionKeepUnread.label "Zawsze usuwaj przeczytane wiadomości">
-<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY retention.label                    "Reguły przechowywania wiadomości">
+<!ENTITY retentionUseDefault.label          "Używaj domyślnych ustawień serwera">
+<!ENTITY retentionUseDefault.accesskey      "d">
+<!ENTITY daysOld.label                      "dni">
+<!ENTITY message.label                      "najnowszych wiadomości">
+<!ENTITY retentionCleanup.label             "W celu zaoszczędzenia miejsca na dysku, stare wiadomości mogą być nieodwracalnie usuwane">
+<!ENTITY retentionDeleteMsg.label           "Usuń wiadomości starsze niż">
+<!ENTITY retentionDeleteMsg.accesskey       "m">
+<!ENTITY retentionKeepAll.label             "Nie usuwaj żadnych wiadomości">
+<!ENTITY retentionKeepAll.accesskey         "a">
+<!ENTITY retentionKeepNew.label             "Usuń wszystko, oprócz">
+<!ENTITY retentionKeepNew.accesskey         "w">
+<!ENTITY retentionKeepUnread.label          "Zawsze usuwaj przeczytane wiadomości">
+<!ENTITY retentionKeepUnread.accesskey      "r">
 
-<!ENTITY folderOfflineTab.label "Tryb offline">
+<!ENTITY folderOfflineTab.label                 "Tryb offline">
 
-<!ENTITY folderCheckForNewMessages.label "Sprawdzaj, czy są dostępne nowe wiadomości dla tego folderu">
-<!ENTITY folderCheckForNewMessages.accesskey   "n">
+<!ENTITY folderCheckForNewMessages.label        "Sprawdzaj, czy są dostępne nowe wiadomości dla tego folderu">
+<!ENTITY folderCheckForNewMessages.accesskey    "n">
 
-<!ENTITY offlineFolder.check.label "Wybrany folder będzie dostępny w trybie offline.">
-<!ENTITY offlineFolder.check.accesskey  "s">
-<!ENTITY offlineFolder.button.label "Pobierz teraz">
-<!ENTITY offlineFolder.button.accesskey "t">
+<!ENTITY offlineFolder.check.label              "Wybrany folder będzie dostępny w trybie offline.">
+<!ENTITY offlineFolder.check.accesskey          "s">
+<!ENTITY offlineFolder.button.label             "Pobierz teraz">
+<!ENTITY offlineFolder.button.accesskey         "t">
 
-<!ENTITY selectofflineNewsgroup.check.label "Wybrana grupa dyskusyjna będzie dostępna w trybie offline.">
-<!ENTITY selectofflineNewsgroup.check.accesskey  "o">
-<!ENTITY UseDefaultofflineNewsgroup.check.label "Użyj ustawień domyślnych z konta pocztowego">
-<!ENTITY offlineNewsgroup.button.label "Pobierz teraz">
-<!ENTITY offlineNewsgroup.button.accesskey "t">
+<!ENTITY selectofflineNewsgroup.check.label     "Wybrana grupa dyskusyjna będzie dostępna w trybie offline.">
+<!ENTITY selectofflineNewsgroup.check.accesskey "o">
+<!ENTITY offlineNewsgroup.button.label          "Pobierz teraz">
+<!ENTITY offlineNewsgroup.button.accesskey      "t">
 
-<!ENTITY folderProps.information.label "Informacje:">
-<!ENTITY folderProps.name.label "Nazwa:">
-<!ENTITY folderProps.name.accesskey "N">
-<!ENTITY folderProps.location.label              "Położenie:">
-<!ENTITY folderProps.location.accesskey          "P">
+<!ENTITY folderProps.name.label         "Nazwa:">
+<!ENTITY folderProps.name.accesskey     "N">
+<!ENTITY folderProps.location.label     "Położenie:">
+<!ENTITY folderProps.location.accesskey "P">
 
-<!ENTITY folderSharingTab.label "Współużytkowanie">
-<!ENTITY privilegesDesc.label "Współużytkuj ten oraz inne foldery z użytkownikami sieci oraz wyświetl i ustaw uprawnienia dostępu">
-<!ENTITY privileges.button.label 		"Uprawnienia…">
-<!ENTITY privileges.button.accesskey "p">
-<!ENTITY permissionsDesc.label "Posiadasz następujące uprawnienia:">
-<!ENTITY folderType.label "Typ folderu:">
+<!ENTITY folderSharingTab.label         "Współużytkowanie">
+<!ENTITY privileges.button.label        "Uprawnienia…">
+<!ENTITY privileges.button.accesskey    "p">
+<!ENTITY permissionsDesc.label          "Posiadasz następujące uprawnienia:">
+<!ENTITY folderType.label               "Typ folderu:">
 
-<!ENTITY folderQuotaTab.label "Limit miejsca">
-<!ENTITY folderQuotaRoot.label "Limit miejsca:">
-<!ENTITY folderQuotaUsage.label "Użycie:">
-<!ENTITY folderQuotaStatus.label "Status:">
+<!ENTITY folderQuotaTab.label           "Limit miejsca">
+<!ENTITY folderQuotaRoot.label          "Limit miejsca:">
+<!ENTITY folderQuotaUsage.label         "Użycie:">
+<!ENTITY folderQuotaStatus.label        "Status:">

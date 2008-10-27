@@ -59,7 +59,6 @@
 <!ENTITY messageIdField2.label    "ID wiadomości ">
 <!ENTITY inReplyToField2.label    "w odpowiedzi na ">
 <!ENTITY originalWebsite2.label   "witryna internetowa ">
-<!ENTITY saveAll.label "Zapisz wszystko…">
 
 <!ENTITY editMessageDescription.label "Wyświetlana wiadomość jest szkicem">
 <!ENTITY editMessageButton.label  "Edytuj…">
@@ -76,22 +75,22 @@
 <!ENTITY hideDetailsButton.label  "ukryj szczegóły">
 <!ENTITY showDetailsButton.label  "wyświetl szczegóły">
 
-<!ENTITY openAttachmentCmd.label "Otwórz">
-<!ENTITY openAttachmentCmd.accesskey "O">
-<!ENTITY saveAsAttachmentCmd.label 		"Zapisz jako…">
-<!ENTITY saveAsAttachmentCmd.accesskey "a">
-<!ENTITY detachAttachmentCmd.label 		"Odłącz…">
-<!ENTITY deleteAttachmentCmd.label    "Usuń">
-<!ENTITY saveAllAttachmentsCmd.label 		"Zapisz wszystkie…">
-<!ENTITY saveAllAttachmentsCmd.accesskey "w">
-<!ENTITY detachAllAttachmentsCmd.label 		"Odłącz wszystkie…">
-<!ENTITY detachAllAttachmentsCmd.accesskey    "d">
-<!ENTITY deleteAllAttachmentsCmd.label 		"Usuń wszystkie…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
+<!ENTITY openAttachmentCmd.label           "Otwórz">
+<!ENTITY openAttachmentCmd.accesskey       "O">
+<!ENTITY saveAsAttachmentCmd.label         "Zapisz jako…">
+<!ENTITY saveAsAttachmentCmd.accesskey     "a">
+<!ENTITY detachAttachmentCmd.label         "Odłącz…">
+<!ENTITY deleteAttachmentCmd.label         "Usuń">
+<!ENTITY saveAllAttachmentsCmd.label       "Zapisz wszystkie…">
+<!ENTITY saveAllAttachmentsCmd.accesskey   "w">
+<!ENTITY detachAllAttachmentsCmd.label     "Odłącz wszystkie…">
+<!ENTITY detachAllAttachmentsCmd.accesskey "d">
+<!ENTITY deleteAllAttachmentsCmd.label     "Usuń wszystkie…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "e">
 
-<!ENTITY copyLinkCmd.label "Kopiuj adres odnośnika">
-<!ENTITY copyLinkCmd.accesskey "K">  
+<!ENTITY copyLinkCmd.label     "Kopiuj adres odnośnika">
+<!ENTITY copyLinkCmd.accesskey "K">
 
-<!ENTITY CopyMessageId.label "Kopiuj ID wiadomości">
-<!ENTITY OpenMessageForMsgId.label "Otwórz wiadomość o tym ID">
+<!ENTITY CopyMessageId.label        "Kopiuj ID wiadomości">
+<!ENTITY OpenMessageForMsgId.label  "Otwórz wiadomość o tym ID">
 <!ENTITY OpenBrowserWithMsgId.label "Otwórz przeglądarkę z ID wiadomości"><!-- FIXME -->

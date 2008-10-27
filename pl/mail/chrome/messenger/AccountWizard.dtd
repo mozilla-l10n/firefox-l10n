@@ -16,17 +16,14 @@
 <!ENTITY fullnameLabel.accesskey "T">
 <!ENTITY emailLabel.label "Adres e-mail:">
 <!ENTITY emailLabel.accesskey "E">
-<!ENTITY emailDesc.label "Wprowadź swój adres e-mail, na który ma być nadsyłana korespondencja:">
-<!ENTITY emailExample.label "(na przykład: michal@wolodyjowski.pl).">
+
+<!-- Entities for Server page -->
 <!ENTITY serverTitle.label "Informacje o serwerze">
-<!ENTITY incomingServerTitle.label "Serwer poczty przychodzącej">
 <!ENTITY incomingServerTypeDesc.label "Wybierz typ serwera poczty przychodzącej:">
-<!ENTITY incomingServerTypeLabel.label "Typ serwera:">
 <!ENTITY incomingServerNameDesc.label 'Wprowadź nazwę serwera poczty przychodzącej (na przykład: "pop.netscape.net"):'>
 <!ENTITY incomingServerLabel.label "Serwer poczty przychodzącej:">
 <!ENTITY incomingServerLabel.accesskey "S">
 <!ENTITY newsServerNameDesc.label 'Podaj adres serwera grup dyskusyjnych (NNTP) (na przykład: "news.netscape.net"):'>
-<!ENTITY smtpServerTitle.label "Nazwa serwera poczty wychodzącej (SMTP)">
 <!ENTITY smtpServerDesc.label 'Wprowadź nazwę serwera poczty wychodzącej (na przykład: "smtp.netscape.net"):'>
 <!ENTITY smtpServerLabel.label "Serwer poczty wychodzącej (SMTP):">
 <!ENTITY smtpServerLabel.accesskey "O">
@@ -36,7 +33,7 @@
 <!ENTITY imapType.accesskey "I">
 <!ENTITY popType.label "Serwer POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY nntpType.label "Serwer grup dyskusyjnych">
+
 <!ENTITY haveSmtp1.prefix "Zostanie użyty domyślny serwer poczty wychodzącej (SMTP) - &quot;">
 <!ENTITY haveSmtp1.suffix "&quot;. Ustawienia serwera poczty wychodzącej można zmieniać za pomocą opcji dostępnych w oknie konfiguracji kont.">
 <!ENTITY loginTitle.label "Nazwa użytkownika">
@@ -53,7 +50,6 @@
 <!ENTITY haveSmtp3.suffix "&quot;. Powyższa nazwa użytkownika będzie używana również podczas wysyłania wiadomości. Nazwę użytkownika oraz inne ustawienia serwera poczty wychodzącej można zmieniać za pomocą opcji dostępnych w oknie konfiguracji kont.">
 <!ENTITY accnameTitle.label "Nazwa konta">
 <!ENTITY accnameDesc.label 'Wprowadź nazwę, która będzie używana do oznaczenia tego konta (na przykład: "Konto osobiste", "Konto służbowe", "Grupy dyskusyjne").'>
-<!ENTITY accnameExample.label "Na przykład: Konto osobiste, Konto służbowe, Grupy dyskusyjne.">
 <!ENTITY accnameLabel.label "Nazwa konta:">
 <!ENTITY accnameLabel.accesskey "N">
 <!ENTITY completionTitle.label "Konfiguracja zakończona">

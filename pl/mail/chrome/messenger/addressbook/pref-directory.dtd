@@ -23,6 +23,7 @@
      Marek Wawoczny <gmbh@mozillapl.org> (Polish translation)
      Piotr Bartecki <pbartecki@mozillapl.org> (Polish translation)
      Marek Stepien <marcoos@aviary.pl> (Polish translation)
+     Stefan Plewako <splewako@aviary.pl> (Polish translation)
 
  Alternatively, the contents of this file may be used under the terms of
  either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -38,16 +39,14 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.ldap.window.title "Serwery usług katalogowych LDAP">
+<!ENTITY pref.ldap.window.title    "Serwery usług katalogowych LDAP">
 
-<!ENTITY directory.label "Dodaj katalog">
-<!ENTITY directories.label "Serwer usług katalogowych LDAP:">
-<!ENTITY directoriesText.label "Wybierz serwer usług katalogowych LDAP:">
-<!ENTITY directoriesText.accesskey "S">
-<!ENTITY autocomplete.title "Serwer usług katalogowych LDAP">
-<!ENTITY addDirectory.label "Dodaj">
-<!ENTITY addDirectory.accesskey "a">
-<!ENTITY editDirectory.label "Edytuj">
-<!ENTITY editDirectory.accesskey "e">
-<!ENTITY deleteDirectory.label "Usuń">
+<!ENTITY directories.label         "Serwer usług katalogowych LDAP:">
+<!ENTITY directoriesText.label     "Wybierz serwer usług katalogowych LDAP:">
+<!ENTITY directoriesText.accesskey "s">
+<!ENTITY addDirectory.label        "Dodaj">
+<!ENTITY addDirectory.accesskey    "a">
+<!ENTITY editDirectory.label       "Edytuj">
+<!ENTITY editDirectory.accesskey   "E">
+<!ENTITY deleteDirectory.label     "Usuń">
 <!ENTITY deleteDirectory.accesskey "U">

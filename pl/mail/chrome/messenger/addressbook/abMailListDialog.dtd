@@ -23,6 +23,7 @@
    James Green <jg@cyberstorm.demon.co.uk>
    Marek Wawoczny <gmbh@mozillapl.org> (Polish translation)
    Piotr Bartecki <pbartecki@mozillapl.org> (Polish translation)
+   Stefan Plewako <splewako@aviary.pl> (Polish translation)
 
  Alternatively, the contents of this file may be used under the terms of
  either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -38,16 +39,15 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY mailListWindow.title "Lista dystrybucyjna">
-<!ENTITY addToAddressBook.label "Dodaj do: ">
-<!ENTITY ListName.label "Nazwa listy dystrybucyjnej:">
-<!ENTITY ListNickName.label "Pseudonim listy dystrybucyjnej: ">
-<!ENTITY ListDescription.label "Opis: ">
-<!ENTITY AddressTitle.label "Wprowadź adresy e-mail, które zostaną dodane do listy dystrybucyjnej">
-<!ENTITY RemoveButton.label "Usuń">
-<!ENTITY UpButton.label "Przenieś w górę">
-<!ENTITY DownButton.label "Przenieś w dół">
+<!ENTITY mailListWindow.title       "Lista dystrybucyjna">
+<!ENTITY addToAddressBook.label     "Dodaj do: ">
 <!ENTITY addToAddressBook.accesskey "D">
-<!ENTITY ListName.accesskey "N">
-<!ENTITY ListNickName.accesskey "P">
-<!ENTITY ListDescription.accesskey "O">
+<!ENTITY ListName.label             "Nazwa listy dystrybucyjnej:">
+<!ENTITY ListName.accesskey         "N">
+<!ENTITY ListNickName.label         "Pseudonim listy dystrybucyjnej: ">
+<!ENTITY ListNickName.accesskey     "P">
+<!ENTITY ListDescription.label      "Opis: ">
+<!ENTITY ListDescription.accesskey  "O">
+<!ENTITY AddressTitle.label         "Wprowadź adresy e-mail, które zostaną dodane do listy dystrybucyjnej">
+<!ENTITY UpButton.label             "Przenieś w górę">
+<!ENTITY DownButton.label           "Przenieś w dół">

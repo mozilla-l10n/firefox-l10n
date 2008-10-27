@@ -5,34 +5,30 @@
 <!ENTITY searchSubfolders.accesskey "k">
 <!ENTITY resetButton.label "Wyczyść">
 <!ENTITY resetButton.accesskey "c">
-<!ENTITY optionsButton.label "Opcje">
-<!ENTITY closeButton.label "Zamknij">
 <!ENTITY openButton.label "Otwórz">
 <!ENTITY openButton.accesskey "O">
 <!ENTITY deleteButton.label "Usuń">
 <!ENTITY deleteButton.accesskey "U">
 <!ENTITY searchDialogTitle.label "Wyszukaj wiadomości">
-<!ENTITY conditionDesc.label "Wyszukaj wiadomości, które spełniają:">
-<!ENTITY conditions.label "Kryteria">
 <!ENTITY results.label "Wyniki">
 <!ENTITY fileHereMenu.label "Przenieś tutaj">
 <!ENTITY fileHereMenu.accesskey "t">
 <!ENTITY fileButton.label "Przenieś">
 <!ENTITY fileButton.accesskey "P">
-<!ENTITY closeCmd.key                "W"> 
-<!ENTITY goToFolderButton.label "Otwórz folder wiadomości">
+<!ENTITY closeCmd.key         "W">
+<!ENTITY goToFolderButton.label     "Otwórz folder wiadomości">
 <!ENTITY goToFolderButton.accesskey "f">
-<!ENTITY saveAsVFButton.label      "Zapisz jako folder wyszukiwania">
-<!ENTITY saveAsVFButton.accesskey  "w">
+<!ENTITY saveAsVFButton.label       "Zapisz jako folder wyszukiwania">
+<!ENTITY saveAsVFButton.accesskey   "w">
 
 <!-- for ABSearchDialog.xul -->
-<!ENTITY abSearchHeading.label "Szukaj w:">
-<!ENTITY abSearchHeading.accesskey "j">
-<!ENTITY propertiesButton.label "Właściwości">
+<!ENTITY abSearchHeading.label      "Szukaj w:">
+<!ENTITY abSearchHeading.accesskey  "j">
+<!ENTITY propertiesButton.label     "Właściwości">
 <!ENTITY propertiesButton.accesskey "i">
-<!ENTITY composeButton.label "Napisz">
-<!ENTITY composeButton.accesskey "N">
-<!ENTITY abSearchDialogTitle.label "Zaawansowane wyszukiwanie w książce adresowej">
+<!ENTITY composeButton.label        "Napisz">
+<!ENTITY composeButton.accesskey    "N">
+<!ENTITY abSearchDialogTitle.label  "Zaawansowane wyszukiwanie w książce adresowej">
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Wątek">
@@ -49,11 +45,10 @@
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Rozmiar">
 <!ENTITY junkStatusColumn.label "Status niechcianej poczty">
-<!ENTITY linesColumn.label "Linie">
 <!ENTITY unreadColumn.label "Nieprzeczytane">
 <!ENTITY totalColumn.label "Razem">
 <!ENTITY readColumn.label "Przeczytano">
-<!ENTITY receivedColumn.label 			"Data otrzymania">
+<!ENTITY receivedColumn.label "Data otrzymania">
 <!ENTITY starredColumn.label "Oznaczone gwiazdką">
 <!ENTITY locationColumn.label "Adres">
 <!ENTITY idColumn.label "Kolejność otrzymania">
@@ -77,7 +72,7 @@
 <!ENTITY unreadColumn.tooltip "Liczba wszystkich nieprzeczytanych wiadomości w wątku">
 <!ENTITY totalColumn.tooltip "Liczba wszystkich wiadomości w wątku">
 <!ENTITY readColumn.tooltip "Kliknij, aby posortować według ilości przeczytanych wiadomości">
-<!ENTITY receivedColumn.tooltip 		"Kliknij, aby posortować według daty otrzymania">
+<!ENTITY receivedColumn.tooltip "Kliknij, aby posortować według daty otrzymania">
 <!ENTITY starredColumn.tooltip "Kliknij, aby posortować według oznaczenia gwiazdką">
 <!ENTITY locationColumn.tooltip "Kliknij, aby posortować według adresu">
 <!ENTITY idColumn.tooltip "Kliknij, aby posortować według kolejności otrzymania">

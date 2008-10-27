@@ -1,23 +1,21 @@
-<!ENTITY  changeAction.title                  "Zmiana czynności">
-<!ENTITY  window.width                        "36em">
+<!ENTITY  changeAction.title "Zmiana czynności">
+<!ENTITY  window.width       "36em">
 
-<!ENTITY  whenDownloading.label               "Pobierając pliki tego rodzaju:">
+<!ENTITY  whenDownloading.label "Pobierając pliki tego rodzaju:">
 
-<!ENTITY  openDefault.label                   "Otwórz je w domyślnej aplikacji:">
-<!ENTITY  openDefault.accesskey               "O">
-<!ENTITY  openApplication.label               "Otwórz je w następującej aplikacji:">
-<!ENTITY  openApplication.accesskey           "t">
-<!ENTITY  changeApp.label 			"Przeglądaj…">
-<!ENTITY  changeApp.accesskey                 "P">
-<!ENTITY  saveToDisk.label                    "Zapisz je na komputerze">
-<!ENTITY  saveToDisk.accesskey                "s">
-<!ENTITY  saveToDefaultFolder.label           "w domyślnym folderze pobrań">
-<!ENTITY  saveToDefaultFolder.accesskey       "d">
-<!ENTITY  saveToThisFolder.label              "w tym folderze:">
-<!ENTITY  saveToThisFolder.accesskey          "f">
-<!ENTITY  chooseFolder.label 			"Przeglądaj…">
-<!ENTITY  chooseFolder.accesskey              "g">
-<!ENTITY  saveToAskMe.label                   "zapytaj, gdzie zapisać plik">
-<!ENTITY  saveToAskMe.accesskey               "z">
-<!ENTITY  usePlugin.label                     "Użyj następującej wtyczki:">
-<!ENTITY  usePlugin.accesskey                 "w">
+<!ENTITY  openDefault.label             "Otwórz je w domyślnej aplikacji:">
+<!ENTITY  openDefault.accesskey         "O">
+<!ENTITY  openApplication.label         "Otwórz je w następującej aplikacji:">
+<!ENTITY  openApplication.accesskey     "t">
+<!ENTITY  changeApp.label               "Przeglądaj…">
+<!ENTITY  changeApp.accesskey           "P">
+<!ENTITY  saveToDisk.label              "Zapisz je na komputerze">
+<!ENTITY  saveToDisk.accesskey          "s">
+<!ENTITY  saveToDefaultFolder.label     "w domyślnym folderze pobrań">
+<!ENTITY  saveToDefaultFolder.accesskey "d">
+<!ENTITY  saveToThisFolder.label        "w tym folderze:">
+<!ENTITY  saveToThisFolder.accesskey    "f">
+<!ENTITY  chooseFolder.label            "Przeglądaj…">
+<!ENTITY  chooseFolder.accesskey        "g">
+<!ENTITY  saveToAskMe.label             "zapytaj, gdzie zapisać plik">
+<!ENTITY  saveToAskMe.accesskey         "z">

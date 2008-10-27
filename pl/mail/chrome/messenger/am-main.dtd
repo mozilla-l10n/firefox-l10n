@@ -1,31 +1,30 @@
-<!ENTITY accountTitle.label "Konfiguracja konta">
-<!ENTITY accountName.label "Nazwa konta:">
-<!ENTITY accountName.accesskey "N">
-<!ENTITY accountNameDesc.label "Każde konto ma swoją unikatową nazwę">
-<!ENTITY identityTitle.label "Domyślna tożsamość">
-<!ENTITY identityDesc.label "Poniższe dane określają tożsamość posiadacza konta i umożliwiają odbiorcom wiadomości identyfikację nadawcy.">
-<!ENTITY name.label "Imię i nazwisko:">
-<!ENTITY name.accesskey "I">
-<!ENTITY email.label "Adres e-mail:">
-<!ENTITY email.accesskey "m">
-<!ENTITY replyTo.label "Zwrotny adres e-mail:">
-<!ENTITY replyTo.accesskey "s">
-<!ENTITY organization.label "Firma/Organizacja:">
-<!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "Dołączaj sygnaturkę">
-<!ENTITY signature.accesskey "g">
-<!ENTITY edit.label 				"Edytuj…">
-<!ENTITY choose.label 				"Wybierz…">
-<!ENTITY choose.accesskey "b">
-<!ENTITY editVCard.label 			"Edytuj wizytówkę…">
-<!ENTITY editVCard.accesskey "d">
-<!ENTITY attachVCard.label "Dołączaj wizytówkę do wysyłanych wiadomości">
-<!ENTITY attachVCard.accesskey "h">
+<!ENTITY accountTitle.label         "Konfiguracja konta">
+<!ENTITY accountName.label          "Nazwa konta:">
+<!ENTITY accountName.accesskey      "N">
+<!ENTITY identityTitle.label        "Domyślna tożsamość">
+<!ENTITY identityDesc.label         "Poniższe dane określają tożsamość posiadacza konta i umożliwiają odbiorcom wiadomości identyfikację nadawcy.">
+<!ENTITY name.label                 "Imię i nazwisko:">
+<!ENTITY name.accesskey             "I">
+<!ENTITY email.label                "Adres e-mail:">
+<!ENTITY email.accesskey            "m">
+<!ENTITY replyTo.label              "Zwrotny adres e-mail:">
+<!ENTITY replyTo.accesskey          "s">
+<!ENTITY organization.label         "Firma/Organizacja:">
+<!ENTITY organization.accesskey     "O">
+<!ENTITY signature.label            "Dołączaj sygnaturkę">
+<!ENTITY signature.accesskey        "g">
+<!ENTITY edit.label                 "Edytuj…">
+<!ENTITY choose.label               "Wybierz…">
+<!ENTITY choose.accesskey           "b">
+<!ENTITY editVCard.label            "Edytuj wizytówkę…">
+<!ENTITY editVCard.accesskey        "d">
+<!ENTITY attachVCard.label          "Dołączaj wizytówkę do wysyłanych wiadomości">
+<!ENTITY attachVCard.accesskey      "h">
 
-<!ENTITY manageIdentities.label 		"Zarządzaj tożsamościami…">
+<!ENTITY manageIdentities.label     "Zarządzaj tożsamościami…">
 <!ENTITY manageIdentities.accesskey "Z">
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
-<!ENTITY smtpName.label "Serwer poczty wychodzącej (SMTP):">
-<!ENTITY smtpName.accesskey "p">
-<!ENTITY smtpDefaultServer.label "Użyj domyślnego serwera">
+<!ENTITY smtpName.label             "Serwer poczty wychodzącej (SMTP):">
+<!ENTITY smtpName.accesskey         "p">
+<!ENTITY smtpDefaultServer.label    "Użyj domyślnego serwera">

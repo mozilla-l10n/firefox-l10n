@@ -22,6 +22,7 @@
  Contributor(s):
      Marek Wawoczny <gmbh@mozillapl.org> (Polish translation)
      Piotr Bartecki <pbartecki@mozillapl.org> (Polish translation)
+     Stefan Plewako <splewako@aviary.pl> (Polish translation)
 
  Alternatively, the contents of this file may be used under the terms of
  either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -37,9 +38,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY nameColumn.label "Nazwa">
-<!ENTITY unreadColumn.label "Nieprzeczytane">
-<!ENTITY totalColumn.label "Razem">
+<!ENTITY nameColumn.label       "Nazwa">
+<!ENTITY unreadColumn.label     "Nieprzeczytane">
+<!ENTITY totalColumn.label      "Razem">
 <!ENTITY folderSizeColumn.label "Rozmiar">
-<!ENTITY accounts.label "Konta">
-<!ENTITY accounts.img "chrome://messenger/skin/local-mailhost.gif">

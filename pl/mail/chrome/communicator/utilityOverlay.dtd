@@ -1,71 +1,57 @@
-<!ENTITY fileMenu.label "Plik">
+<!ENTITY fileMenu.label     "Plik">
 <!ENTITY fileMenu.accesskey "P">
-<!ENTITY newMenu.label 				"Utwórz">
-<!ENTITY newMenu.accesskey 			"U">
+<!ENTITY newMenu.label      "Utwórz">
+<!ENTITY newMenu.accesskey  "U">
 
-<!ENTITY editMenu.label "Edycja">
+<!ENTITY editMenu.label     "Edycja">
 <!ENTITY editMenu.accesskey "E">
-<!ENTITY undoCmd.label "Cofnij">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "C">
-<!ENTITY redoCmd.label "Przywróć">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "r">
-<!ENTITY cutCmd.label "Wytnij">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Kopiuj">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Wklej">
-<!ENTITY pasteCmd.key "V">
+<!ENTITY undoCmd.label      "Cofnij">
+<!ENTITY undoCmd.accesskey  "C">
+<!ENTITY undoCmd.key        "Z">
+<!ENTITY redoCmd.label      "Przywróć">
+<!ENTITY redoCmd.accesskey  "r">
+<!ENTITY redoCmd.key        "Y">
+<!ENTITY cutCmd.label       "Wytnij">
+<!ENTITY cutCmd.accesskey   "t">
+<!ENTITY cutCmd.key         "X">
+<!ENTITY copyCmd.label      "Kopiuj">
+<!ENTITY copyCmd.accesskey  "K">
+<!ENTITY copyCmd.key        "C">
+<!ENTITY pasteCmd.label     "Wklej">
 <!ENTITY pasteCmd.accesskey "e">
-<!ENTITY deleteCmd.label "Usuń">
-<!ENTITY deleteCmd.key "D">
-<!ENTITY deleteCmd.accesskey "U">
-<!ENTITY selectAllCmd.label "Zaznacz wszystko">
-<!ENTITY selectAllCmd.key "A">
+<!ENTITY pasteCmd.key       "V">
+<!ENTITY deleteCmd.label        "Usuń">
+<!ENTITY deleteCmd.accesskey    "U">
+<!ENTITY selectAllCmd.label     "Zaznacz wszystko">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY preferencesCmd.label "Opcje…">
-<!ENTITY preferencesCmd.accesskey "O">
-<!ENTITY preferencesCmdUnix.label "Preferencje">
-<!ENTITY preferencesCmdUnix.accesskey "f"> 
+<!ENTITY selectAllCmd.key       "A">
+<!ENTITY preferencesCmd.label             "Opcje…">
+<!ENTITY preferencesCmd.accesskey         "O">
+<!ENTITY preferencesCmdUnix.label         "Preferencje">
+<!ENTITY preferencesCmdUnix.accesskey     "f">
 
-<!ENTITY findTypeTextCmd.label "Znajdź Wprowadzając - Tekst ">
-<!ENTITY findTypeTextCmd.accesskey "s">
+<!ENTITY viewMenu.label                   "Widok">
+<!ENTITY viewMenu.accesskey               "W">
+<!ENTITY viewToolbarsMenu.label           "Paski narzędzi">
+<!ENTITY viewToolbarsMenu.accesskey       "n">
+<!ENTITY showTaskbarCmd.label             "Pasek stanu">
+<!ENTITY showTaskbarCmd.accesskey         "s">
 
-<!ENTITY viewMenu.label "Widok">
-<!ENTITY viewMenu.accesskey "W">
-<!ENTITY viewToolbarsMenu.label "Paski narzędzi">
-<!ENTITY viewToolbarsMenu.accesskey "n">
-<!ENTITY showTaskbarCmd.label "Pasek stanu">
-<!ENTITY showTaskbarCmd.accesskey "s">
+<!ENTITY proxy.label                      "Konfiguracja Proxy…">
+<!ENTITY proxy.accesskey                  "c">
 
-<!ENTITY direct.label      "Online (proxy: brak)">
-<!ENTITY direct.accesskey  "n">
-<!ENTITY manual.label      "Online (proxy: manualne)">
-<!ENTITY manual.accesskey  "m">
-<!ENTITY pac.label         "Online (proxy: automatyczna konfiguracja)">
-<!ENTITY pac.accesskey     "a">
+<!ENTITY closeCmd.label                   "Zamknij">
+<!ENTITY closeCmd.accesskey               "Z">
+<!ENTITY closeCmd.key                     "W">
 
-<!ENTITY proxy.label        "Konfiguracja Proxy…">
-<!ENTITY proxy.accesskey    "C">
+<!ENTITY closeWindow.label                "Zamknij okno">
 
-<!ENTITY findTypeTextCmd.key        "/">
-<!ENTITY findTypeLinksCmd.key       "'">
+<!ENTITY quitApplicationCmd.label         "Zakończ">
+<!ENTITY quitApplicationCmd.accesskey     "k">
+<!ENTITY quitApplicationCmd.key           "Q">
 
-<!ENTITY closeCmd.label 			"Zamknij">
-<!ENTITY closeCmd.key 				"W">
-<!ENTITY closeCmd.accesskey		"Z">
+<!ENTITY quitApplicationCmdUnix.label     "Zakończ">
+<!ENTITY quitApplicationCmdUnix.accesskey "k">
 
-<!ENTITY closeWindow.label              "Zamknij okno">
-
-<!ENTITY quitApplicationCmd.label 		"Zakończ">
-<!ENTITY quitApplicationCmd.key 		"Q">
-<!ENTITY quitApplicationCmd.accesskey	"k">
-
-<!ENTITY quitApplicationCmdUnix.label 		"Zakończ">
-<!ENTITY quitApplicationCmdUnix.accesskey	"k">
-
-<!ENTITY quitApplicationCmdMac.label 		"Zakończ program &brandShortName;">
-<!ENTITY quitApplicationCmdMac.accesskey    "k">
+<!ENTITY quitApplicationCmdMac.label      "Zakończ program &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey  "k">

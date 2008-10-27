@@ -3,30 +3,28 @@
 
 <!ENTITY startpage.features "Główne cechy programu:">
 
-<!ENTITY startpage.junkControl "Inteligentny filtr niechcianej poczty">
-<!ENTITY startpage.rssReader "Obsługa kanałów RSS i Atom">
-<!ENTITY startpage.globalInbox "Globalna skrzynka odbiorcza">
-<!ENTITY startpage.searchFolders "Foldery wyszukiwania">
-<!ENTITY startpage.messageGroups "Grupowanie wiadomości">
+<!ENTITY startpage.junkControl    "Inteligentny filtr niechcianej poczty">
+<!ENTITY startpage.rssReader      "Obsługa kanałów RSS i Atom">
+<!ENTITY startpage.globalInbox    "Globalna skrzynka odbiorcza">
+<!ENTITY startpage.searchFolders  "Foldery wyszukiwania">
+<!ENTITY startpage.messageGroups  "Grupowanie wiadomości">
 <!ENTITY startpage.privacyProtect "Ochrona prywatności">
 
-<!ENTITY startpage.junkControlURL "http://www.mozilla-world.org/pl/products/thunderbird/junkmail">
-<!ENTITY startpage.rssReaderURL "http://www.mozilla-world.org/pl/products/thunderbird/rss">
-<!ENTITY startpage.globalInboxURL "http://www.mozilla-world.org/pl/products/thunderbird/global-inbox">
-<!ENTITY startpage.searchFoldersURL "http://www.mozilla-world.org/pl/products/thunderbird/search-folders">
-<!ENTITY startpage.messageGroupsURL "http://www.mozilla-world.org/pl/products/thunderbird/message-grouping">
+<!ENTITY startpage.junkControlURL    "http://www.mozilla-world.org/pl/products/thunderbird/junkmail">
+<!ENTITY startpage.rssReaderURL      "http://www.mozilla-world.org/pl/products/thunderbird/rss">
+<!ENTITY startpage.globalInboxURL    "http://www.mozilla-world.org/pl/products/thunderbird/global-inbox">
+<!ENTITY startpage.searchFoldersURL  "http://www.mozilla-world.org/pl/products/thunderbird/search-folders">
+<!ENTITY startpage.messageGroupsURL  "http://www.mozilla-world.org/pl/products/thunderbird/message-grouping">
 <!ENTITY startpage.privacyProtectURL "http://www.mozilla-world.org/pl/products/thunderbird/privacy-protection">
 
 <!ENTITY startpage.moreInfo "Więcej informacji">
 
-<!ENTITY startpage.help "Pomoc Thunderbirda">
+<!ENTITY startpage.help     "Pomoc Thunderbirda">
 <!ENTITY startpage.helpInfo "Często zadawane pytania, pomoc, porady (w j. angielskim):">
-<!ENTITY startpage.helpURL "http://www.mozilla.org/support/thunderbird/">
+<!ENTITY startpage.helpURL  "http://www.mozilla.org/support/thunderbird/">
 
-<!ENTITY startpage.page "strona domowa">
+<!ENTITY startpage.page     "strona domowa">
 <!ENTITY startpage.pageInfo "Informacje o produkcie:">
-<!ENTITY startpage.pageURL "http://www.mozilla-world.org/pl/products/thunderbird/">
+<!ENTITY startpage.pageURL  "http://www.mozilla-world.org/pl/products/thunderbird/">
 
-<!ENTITY startpage.extra ''>
-
-<!ENTITY startpage.poweredByGecko "Oparte na Gecko.">
+<!ENTITY startpage.extra    ''>

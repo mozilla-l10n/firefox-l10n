@@ -23,15 +23,14 @@
 <!ENTITY bounceSystemDockIcon.label     "Włącz animacje dla ikony w doku">
 <!ENTITY bounceSystemDockIcon.accesskey "c">
 
-<!ENTITY newMessagesArrive.label   "Po odebraniu nowej wiadomości:">
-<!ENTITY playSound.label           "odtwórz dźwięk">
-<!ENTITY playSound1.accesskey      "o">
-<!ENTITY showAnimatedAlert.label   "wyświetl informację">
+<!ENTITY newMessagesArrive.label      "Po odebraniu nowej wiadomości:">
+<!ENTITY playSound.label              "odtwórz dźwięk">
+<!ENTITY playSound1.accesskey         "o">
+<!ENTITY showAnimatedAlert.label      "wyświetl informację">
 <!ENTITY showAnimatedAlert.accesskey  "w">
 <!ENTITY customizeMailAlert.label     "Dostosuj…">
 <!ENTITY customizeMailAlert.accesskey "t">
 
-<!ENTITY soundNotification1.caption   "Dźwięk">
 <!ENTITY play.label                "Odtwarzaj">
 <!ENTITY play.accesskey            "z">
 <!ENTITY systemsound.label         "domyślny systemowy dźwięk powiadomienia o nowej poczcie">
@@ -43,8 +42,8 @@
 <!ENTITY browse.label              "Przeglądaj…">
 <!ENTITY browse.accesskey          "g">
 
-<!ENTITY addonsMgr.label           "Dodatki">
-<!ENTITY manageAddonsDescWin.label "Zmień opcje zainstalowanych dodatków">
+<!ENTITY addonsMgr.label             "Dodatki">
+<!ENTITY manageAddonsDescWin.label   "Zmień opcje zainstalowanych dodatków">
 <!ENTITY manageAddonsDescUnix2.label "Zmień preferencje zainstalowanych dodatków">
-<!ENTITY manageAddons.label        "Zarządzaj dodatkami…">
-<!ENTITY manageAddons.accesskey    "a">
+<!ENTITY manageAddons.label          "Zarządzaj dodatkami…">
+<!ENTITY manageAddons.accesskey      "a">

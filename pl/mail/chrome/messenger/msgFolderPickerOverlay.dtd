@@ -22,6 +22,7 @@
  Contributor(s):
      Marek Wawoczny <gmbh@mozillapl.org> (Polish translation)
      Piotr Bartecki <pbartecki@mozillapl.org> (Polish translation)
+     Stefan Plewako <splewako@aviary.pl> (Polish translation)
 
  Alternatively, the contents of this file may be used under the terms of
  either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -38,14 +39,5 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Labels -->
-<!ENTITY subscribechoosethis.label "Wybierz ten serwer grup dyskusyjnych">
-<!ENTITY subscribeclickhere.label "Kliknij tutaj, aby wybrać serwer grup dyskusyjnych">
-<!ENTITY newfolderchoosethis.label "Wybierz ten folder jako nadrzędny">
-<!ENTITY newfolderclickhere.label "Kliknij, aby wybrać folder nadrzędny">
-<!ENTITY renamefolderchoosethis.label "Wybierz ten folder">
-<!ENTITY renamefolderclickhere.label "Kliknij tutaj, aby wybrać folder">
+<!ENTITY newfolderchoosethis.label    "Wybierz ten folder jako nadrzędny">
 <!ENTITY filemessageschoosethis.label "Wybierz ten folder">
-<!ENTITY filemessagesclickhere.label "Kliknij tutaj, aby wybrać folder">
-<!ENTITY chooseaccountclickhere.label "Kliknij tutaj, aby wybrać konto">
-<!ENTITY choosefolderclickhere.label "Kliknij tutaj, aby wybrać folder">
-<!ENTITY chooseserverToDeferTo.label "Kliknij tutaj, aby wybrać konto, w którym przechowywane będą wiadomości">

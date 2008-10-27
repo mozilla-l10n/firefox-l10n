@@ -1,41 +1,38 @@
-<!ENTITY window.title "Reguły filtru">
-<!ENTITY filterName.label "Nazwa filtru:">
-<!ENTITY filterName.accesskey "f">
+<!ENTITY window.title               "Reguły filtru">
+<!ENTITY filterName.label           "Nazwa filtru:">
+<!ENTITY filterName.accesskey       "f">
 
-<!ENTITY junk.label "Niechciana">
-<!ENTITY notJunk.label "Pożądana">
+<!ENTITY junk.label                 "Niechciana">
+<!ENTITY notJunk.label              "Pożądana">
 
-<!ENTITY lowestPriorityCmd.label "Najniższy">
-<!ENTITY lowPriorityCmd.label "Niski">
-<!ENTITY normalPriorityCmd.label "Normalny">
-<!ENTITY highPriorityCmd.label "Wysoki">
-<!ENTITY highestPriorityCmd.label "Najwyższy">
+<!ENTITY lowestPriorityCmd.label    "Najniższy">
+<!ENTITY lowPriorityCmd.label       "Niski">
+<!ENTITY normalPriorityCmd.label    "Normalny">
+<!ENTITY highPriorityCmd.label      "Wysoki">
+<!ENTITY highestPriorityCmd.label   "Najwyższy">
 
 <!ENTITY contextDesc.label          "Stosuj filtr podczas:">
 <!ENTITY contextDesc.accesskey      "S">
 <!ENTITY contextIncoming.label      "Sprawdzania poczty">
 <!ENTITY contextManual.label        "Ręcznego uruchamiania">
 <!ENTITY contextBoth.label          "Sprawdzania poczty lub ręcznego uruchamiania">
-<!ENTITY filterActionDesc.label 	"…wykonaj następujące czynności:">
+<!ENTITY filterActionDesc.label     "…wykonaj następujące czynności:">
 <!ENTITY filterActionDesc.accesskey "y">
 
-<!ENTITY newFolderButton.label 		"Nowy folder…">
-<!ENTITY newFolderButton.accesskey "N">
-
 <!-- New Style Filter Rule Actions -->
-<!ENTITY moveMessage.label "Przenieś wiadomość do">
-<!ENTITY copyMessage.label "Kopiuj wiadomość do">
-<!ENTITY forwardTo.label "Przekaż wiadomość do">
-<!ENTITY replyWithTemplate.label "Odpowiedz używając szablonu">
-<!ENTITY markMessageRead.label "Oznacz jako przeczytaną">
-<!ENTITY markMessageStarred.label "Oznacz gwiazdką">
-<!ENTITY setPriority.label "Ustaw priorytet na">
-<!ENTITY addTag.label "Skategoryzuj wiadomość">
-<!ENTITY setJunkScore.label "Ustaw status niechcianej poczty na">
-<!ENTITY deleteMessage.label "Usuń wiadomość">
-<!ENTITY deleteFromPOP.label "Usuń z serwera POP">
-<!ENTITY fetchFromPOP.label "Pobierz treść z serwera POP">
-<!ENTITY ignoreThread.label "Ignoruj wątek">
-<!ENTITY ignoreSubthread.label 			"Ignoruj odpowiedzi">
-<!ENTITY watchThread.label "Śledź wątek">
-<!ENTITY stopExecution.label "Zatrzymaj wykonywanie filtru">
+<!ENTITY moveMessage.label          "Przenieś wiadomość do">
+<!ENTITY copyMessage.label          "Kopiuj wiadomość do">
+<!ENTITY forwardTo.label            "Przekaż wiadomość do">
+<!ENTITY replyWithTemplate.label    "Odpowiedz używając szablonu">
+<!ENTITY markMessageRead.label      "Oznacz jako przeczytaną">
+<!ENTITY markMessageStarred.label   "Oznacz gwiazdką">
+<!ENTITY setPriority.label          "Ustaw priorytet na">
+<!ENTITY addTag.label               "Oznacz etykietą">
+<!ENTITY setJunkScore.label         "Ustaw status niechcianej poczty na">
+<!ENTITY deleteMessage.label        "Usuń wiadomość">
+<!ENTITY deleteFromPOP.label        "Usuń z serwera POP">
+<!ENTITY fetchFromPOP.label         "Pobierz treść z serwera POP">
+<!ENTITY ignoreThread.label         "Ignoruj wątek">
+<!ENTITY ignoreSubthread.label      "Ignoruj odpowiedzi">
+<!ENTITY watchThread.label          "Śledź wątek">
+<!ENTITY stopExecution.label        "Zatrzymaj wykonywanie filtru">
