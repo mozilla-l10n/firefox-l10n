@@ -62,8 +62,8 @@
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "ל">
 
 <!-- Messenger Sidebar -->
-<!ENTITY lightning.sidebar.invitations.label "הזמנות">
-<!ENTITY lightning.sidebar.invitations.accesskey "ה">
+<!-- ### ENTITY lightning.sidebar.invitations.label "הזמנות" -->
+<!-- ### ENTITY lightning.sidebar.invitations.accesskey "ה" -->
 <!ENTITY lightning.calendar.label            "לוח שנה">
 <!ENTITY lightning.calendar.accesskey        "ל">
 <!ENTITY lightning.tasks.label               "משימות">
