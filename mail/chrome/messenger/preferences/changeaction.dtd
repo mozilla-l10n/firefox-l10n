@@ -19,5 +19,3 @@
 <!ENTITY  chooseFolder.accesskey              "a">
 <!ENTITY  saveToAskMe.label                   "demander où enregistrer le fichier">
 <!ENTITY  saveToAskMe.accesskey               "o">
-<!ENTITY  usePlugin.label                     "Utiliser ce plugin :">
-<!ENTITY  usePlugin.accesskey                 "g">

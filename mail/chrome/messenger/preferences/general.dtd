@@ -31,7 +31,6 @@
 <!ENTITY customizeMailAlert.label         "Personnaliser…">
 <!ENTITY customizeMailAlert.accesskey     "P">
 
-<!ENTITY soundNotification1.caption       "Son">
 <!ENTITY play.label                       "Jouer le son">
 <!ENTITY play.accesskey                   "o">
 <!ENTITY systemsound.label                "Son système pour « nouveau message »">

@@ -64,7 +64,6 @@
 <!ENTITY pasteCmd.key                                   "V">
 <!ENTITY pasteCmd.accesskey                             "o">
 <!ENTITY deleteCmd.label                                "Supprimer">
-<!ENTITY deleteCmd.key                                  "D">
 <!ENTITY deleteCmd.accesskey                            "p">
 <!ENTITY deleteAbCmd.label				"Supprimer le carnet d'adresses">
 <!ENTITY deleteCardCmd.label				"Supprimer la fiche">
@@ -123,7 +122,6 @@
 <!ENTITY exportCmd.label				"Exporter…">
 <!ENTITY exportCmd.accesskey                            "E">
 <!ENTITY preferencesCmd.label                           "Options…">
-<!ENTITY preferencesCmd.key                             "O">
 <!ENTITY preferencesCmd.accesskey                       "p">
 <!ENTITY preferencesCmdUnix.label                       "Préférences">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">

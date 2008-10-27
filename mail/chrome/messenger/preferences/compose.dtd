@@ -1,9 +1,7 @@
 <!ENTITY itemGeneral.label                   "Général">
 <!ENTITY itemAutoComplete.label              "Adressage">
 <!ENTITY itemSpellCheck.label                "Orthographe">
-<!ENTITY itemSendFormat.label                "Format d'expédition">
 
-<!ENTITY forwardReply.label                   "Transfert de messages">
 <!ENTITY forwardMsg.label                     "Transférer les messages :">
 <!ENTITY forwardMsg.accesskey                 "f">
 <!ENTITY inline.label                         "intégrés">
@@ -25,7 +23,6 @@
 <!ENTITY restoreHTMLDefaults.label            "Restaurer les paramètres initiaux">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
 
-<!ENTITY sendingMessagesHeader.label          "Redaction des messages">
 <!ENTITY spellCheck.label                     "Vérifier l'orthographe avant l'envoi">
 <!ENTITY spellCheck.accesskey                 "V">
 <!ENTITY spellCheckInline.label               "Activer la vérification pendant la saisie">
@@ -51,10 +48,7 @@
 <!ENTITY directoriesNone.label                 "Aucun">
 <!ENTITY editDirectories.label                 "Modifier les annuaires…">
 <!ENTITY editDirectories.accesskey             "M">
-<!ENTITY matchText.label                       "Si une correspondance est trouvée dans un carnet d'adresses local :">
-<!ENTITY skipDirectory.label                   "Ne pas rechercher dans l'annuaire">
 
-<!ENTITY sendOptionsCaption.label              "Options d'envoi et HTML">
 <!ENTITY sendOptionsDescription.label          "Configuration du comportement pour l'envoi en format texte">
 <!ENTITY sendOptions.label                     "Options d'expédition…">
 <!ENTITY sendOptions.accesskey                 "O">

@@ -54,7 +54,6 @@
 <!ENTITY messageIdField2.label "identifiant du message ">
 <!ENTITY inReplyToField2.label "en réponse à ">
 <!ENTITY originalWebsite2.label "site Web ">
-<!ENTITY saveAll.label "Tout enregistrer…">
 
 <!ENTITY editMessageDescription.label "Ceci est un brouillon">
 <!ENTITY editMessageButton.label "Modifier…">
