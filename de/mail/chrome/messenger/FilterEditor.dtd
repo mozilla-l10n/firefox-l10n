@@ -19,9 +19,6 @@
 <!ENTITY filterActionDesc.label "Auszuführende Aktionen:">
 <!ENTITY filterActionDesc.accesskey "A">
 
-<!ENTITY newFolderButton.label "Neuer Ordner…">
-<!ENTITY newFolderButton.accesskey "N">
-
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Verschiebe Nachricht in:">
 <!ENTITY copyMessage.label "Kopiere Nachricht in:">

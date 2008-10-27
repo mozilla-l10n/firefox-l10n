@@ -3,7 +3,6 @@
 <!ENTITY accountTitle.label "Konten-Einstellungen">
 <!ENTITY accountName.label "Konten-Bezeichnung:">
 <!ENTITY accountName.accesskey "K">
-<!ENTITY accountNameDesc.label "Die Konten-Bezeichnung identifiziert jedes einzelne Konto">
 <!ENTITY identityTitle.label "Standard-Identität">
 <!ENTITY identityDesc.label "Diese Informationen erhalten Empfänger Ihrer Nachrichten.">
 <!ENTITY name.label "Ihr Name:">

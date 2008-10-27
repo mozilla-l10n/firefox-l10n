@@ -5,15 +5,11 @@
 <!ENTITY searchSubfolders.accesskey  "U">
 <!ENTITY resetButton.label           "Neue Suche">
 <!ENTITY resetButton.accesskey       "c">
-<!ENTITY optionsButton.label         "Einstellungen">
-<!ENTITY closeButton.label           "Schließen">
 <!ENTITY openButton.label            "Öffnen">
 <!ENTITY openButton.accesskey        "f">
 <!ENTITY deleteButton.label          "Löschen">
 <!ENTITY deleteButton.accesskey      "L">
 <!ENTITY searchDialogTitle.label     "Nachrichten suchen">
-<!ENTITY conditionDesc.label         "Nachrichten suchen, die übereinstimmen mit:">
-<!ENTITY conditions.label            "Kriterien">
 <!ENTITY results.label               "Ergebnisse">
 <!ENTITY fileHereMenu.label          "In diesen Ordner verschieben">
 <!ENTITY fileHereMenu.accesskey      "I">
@@ -46,7 +42,6 @@
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Größe">
 <!ENTITY junkStatusColumn.label "Junk-Status">
-<!ENTITY linesColumn.label "Zeilen">
 <!ENTITY unreadColumn.label "Ungelesen">
 <!ENTITY totalColumn.label "Gesamt">
 <!ENTITY readColumn.label "Gelesen">

@@ -6,7 +6,6 @@
 <!ENTITY  language.label                          "Schriftarten für">
 <!ENTITY  language.accesskey                      "S">
 
-<!ENTITY  typefaces.label                         "Typeface">
 <!ENTITY  sizes.label                             "Größe (Pixel)">
 <!ENTITY  proportionalSize.accesskey              "G">
 <!ENTITY  monospaceSize.accesskey                 "r">
@@ -20,8 +19,6 @@
 <!ENTITY  sans-serif.accesskey                    "a">
 <!ENTITY  monospace.label                         "Feste Breite:">
 <!ENTITY  monospace.accesskey                     "F">
-
-<!ENTITY  fontsize.units                          "Pixel">
 
 <!ENTITY  font.langGroup.latin1                   "Westlich">
 <!ENTITY  font.langGroup.latin2                   "Zentraleuropäisch">
@@ -59,8 +56,6 @@
 <!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
-
-<!ENTITY  newLanguages.label                      "Neue Sprachen können über das Sprachen-Panel konfiguriert werden.">
 
 <!ENTITY  useDocumentFonts.label                  "Nachrichten erlauben, andere Schriftarten zu verwenden">
 <!ENTITY  useDocumentFonts.accesskey              "N">

@@ -52,7 +52,6 @@
 <!ENTITY retention.label "Speicherplatz">
 <!ENTITY retentionUseDefault.label  "Einstellungen des Kontos verwenden">
 <!ENTITY retentionUseDefault.accesskey "E">
-<!ENTITY days.label "Tage">
 <!ENTITY daysOld.label "Tage">
 <!ENTITY message.label "Nachrichten">
 <!ENTITY retentionCleanup.label "Um Speicherplatz zu sparen, können gelöscht werden:">
@@ -76,18 +75,15 @@
 
 <!ENTITY selectofflineNewsgroup.check.label      "Diese Newsgruppe zum Offline-Lesen auswählen">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "N">
-<!ENTITY UseDefaultofflineNewsgroup.check.label  "Standard aus Konten-Einstellungen verwenden">
 <!ENTITY offlineNewsgroup.button.label           "Jetzt herunterladen">
 <!ENTITY offlineNewsgroup.button.accesskey       "h">
 
-<!ENTITY folderProps.information.label           "Informationen:">
 <!ENTITY folderProps.name.label                  "Name des Ordners:">
 <!ENTITY folderProps.name.accesskey              "N">
 <!ENTITY folderProps.location.label              "Adresse:">
 <!ENTITY folderProps.location.accesskey          "A">
 
 <!ENTITY folderSharingTab.label                  "Freigabe">
-<!ENTITY privilegesDesc.label                    "Diesen Ordner für Netzwerkbenutzer freigeben und Berechtigungen setzen">
 <!ENTITY privileges.button.label                 "Berechtigungen…">
 <!ENTITY privileges.button.accesskey             "B">
 <!ENTITY permissionsDesc.label                   "Sie haben folgende Berechtigungen:">

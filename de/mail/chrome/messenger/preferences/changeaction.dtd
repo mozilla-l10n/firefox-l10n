@@ -1,5 +1,5 @@
 <!ENTITY  changeAction.title                  "Aktion ändern">
-<!ENTITY  window.width                         "36em">
+<!ENTITY  window.width                        "36em">
 
 <!ENTITY  whenDownloading.label               "Bei Anhängen dieses Typs:">
 
@@ -19,5 +19,3 @@
 <!ENTITY  chooseFolder.accesskey              "D">
 <!ENTITY  saveToAskMe.label                   "fragen, wo der Anhang gespeichert werden soll">
 <!ENTITY  saveToAskMe.accesskey               "f">
-<!ENTITY  usePlugin.label                     "Verwende dieses Plugin:">
-<!ENTITY  usePlugin.accesskey                 "P">

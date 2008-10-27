@@ -2,13 +2,6 @@
 
 <!ENTITY securitySettings.label "Sicherheit und Authentifizierung">
 <!ENTITY serverSettings.label "Server-Einstellungen">
-<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
-<!ENTITY popServer.label "POP">
-<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
-<!ENTITY imapServer.label "IMAP">
-<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
-<!ENTITY newsServer.label "News (NNTP)">
-<!ENTITY webmail.label "WebMail-Konto">
 <!ENTITY serverType.label "Server-Typ:">
 <!ENTITY serverName.label "Server:">
 <!ENTITY serverName.accesskey "S">
@@ -50,10 +43,7 @@
 <!ENTITY deleteOnServer2.accesskey "g">
 <!ENTITY downloadOnBiff.label "Neue Nachrichten automatisch herunterladen">
 <!ENTITY downloadOnBiff.accesskey "d">
-<!ENTITY hostname.label "Server-Adresse">
 <!ENTITY username.label "Ihr Benutzername">
-<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
-<!ENTITY popServerTitle.label "POP-Server Information">
 <!ENTITY deleteMessagePrefix.label "Beim Löschen einer Nachricht:">
 <!ENTITY modelMoveToTrash.label "In diesen Ordner verschieben:">
 <!ENTITY modelMoveToTrash.accesskey "I">

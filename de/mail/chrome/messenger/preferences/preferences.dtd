@@ -7,7 +7,6 @@
 
 <!ENTITY paneGeneral.title        "Allgemein">
 <!ENTITY paneDisplay.title        "Ansicht">
-<!ENTITY paneTags.title           "Schlagwörter">
 <!ENTITY paneComposition.title    "Verfassen">
 <!ENTITY paneAttachments.title    "Anhänge">
 <!ENTITY panePrivacy.title        "Datenschutz">

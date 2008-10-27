@@ -1,9 +1,7 @@
 <!ENTITY itemGeneral.label                   "Allgemein">
 <!ENTITY itemAutoComplete.label              "Adressieren">
 <!ENTITY itemSpellCheck.label                "Rechtschreibung">
-<!ENTITY itemSendFormat.label                "Sendeformat">
 
-<!ENTITY forwardReply.label                   "Nachrichten weiterleiten">
 <!ENTITY forwardMsg.label                     "Nachrichten weiterleiten:">
 <!ENTITY forwardMsg.accesskey                 "w">
 <!ENTITY inline.label                         "Eingebunden">
@@ -25,7 +23,6 @@
 <!ENTITY restoreHTMLDefaults.label            "Standard wiederherstellen">
 <!ENTITY restoreHTMLDefaults.accesskey        "S">
 
-<!ENTITY sendingMessagesHeader.label          "Nachrichten verfassen">
 <!ENTITY spellCheck.label                     "Rechtschreibprüfung vor dem Senden">
 <!ENTITY spellCheck.accesskey                 "v">
 <!ENTITY spellCheckInline.label               "Sofort-Rechtschreibprüfung aktivieren">
@@ -51,10 +48,7 @@
 <!ENTITY directoriesNone.label                 "Keine">
 <!ENTITY editDirectories.label                 "Bearbeiten…">
 <!ENTITY editDirectories.accesskey             "B">
-<!ENTITY matchText.label                       "Wenn es einen passenden Eintrag in Ihren lokalen Adressbüchern gibt:">
-<!ENTITY skipDirectory.label                   "Verzeichnis nicht durchsuchen">
 
-<!ENTITY sendOptionsCaption.label              "Sende- und HTML-Optionen">
 <!ENTITY sendOptionsDescription.label          "Verhalten beim Senden von HTML-Nachrichten:">
 <!ENTITY sendOptions.label                     "Sende-Optionen…">
 <!ENTITY sendOptions.accesskey                 "O">

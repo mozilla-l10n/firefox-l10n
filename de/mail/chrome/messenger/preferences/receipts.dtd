@@ -1,5 +1,4 @@
 <!ENTITY dialog.title                  "Empfangsbestätigungen (MDN)">
-<!ENTITY receiptSettings.label         "Empfangsbestätigungen (MDN)">
 <!ENTITY requestReceipt.label          "Immer eine Empfangsbestätigung anfordern">
 <!ENTITY requestReceipt.accesskey      "I">
 <!ENTITY receiptArrive.label           "Wenn eine Empfangsbestätigung ankommt:">
