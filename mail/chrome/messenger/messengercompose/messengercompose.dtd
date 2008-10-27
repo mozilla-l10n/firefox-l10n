@@ -75,7 +75,6 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "u">
 <!ENTITY deleteCmd.label "Löschen">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "L">
 <!ENTITY selectAllCmd.label "Alles auswählen">
 <!ENTITY selectAllCmd.key "A">
@@ -98,7 +97,6 @@
 <!ENTITY viewToolbarsMenuNew.label "Symbolleisten"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "y"> 
 <!ENTITY showCompositionToolbarCmd.label "Verfassen-Symbolleiste">
-<!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "Formatierungsleiste">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Statusleiste">
@@ -173,7 +171,6 @@
 <!ENTITY accountManagerCmd.accesskey "K">
 <!ENTITY accountManagerCmdUnix.accesskey "o">
 <!ENTITY preferencesCmd.label "Einstellungen…">
-<!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "E">
 <!ENTITY preferencesCmdUnix.label       "Einstellungen…">
 <!ENTITY preferencesCmdUnix.accesskey   "n"> 
@@ -221,9 +218,6 @@
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
-<!ENTITY formatToolbar.boldChar "F">
-<!ENTITY formatToolbar.italicChar "K">
-<!ENTITY formatToolbar.underlineChar "U">
 <!ENTITY SmileButton.tooltip "Einen Smiley einfügen">
 <!ENTITY smiley1Cmd.label "Lächeln">
 <!ENTITY smiley2Cmd.label "Stirn runzeln">

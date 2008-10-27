@@ -5,7 +5,6 @@
 <!ENTITY offlineNotDownload.label "Nachrichten, die größer sind als">
 <!ENTITY offlineNotDownload.accesskey "g">
 <!ENTITY kb.label "KB">
-<!ENTITY days.label "Tage">
 <!ENTITY daysOld.label "Tage">
 <!ENTITY message.label "Nachrichten">
 <!ENTITY nntpNotDownloadRead.label "Gelesene Nachrichten">

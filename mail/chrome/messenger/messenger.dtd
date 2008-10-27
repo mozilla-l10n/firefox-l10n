@@ -5,15 +5,12 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Ordner…">
 <!ENTITY newFolderCmd.accesskey "O">
-<!ENTITY newTabCmd.label "Neuer Tab">
-<!ENTITY newTabCmd.accesskey "T">
 <!ENTITY closeTabCmd.label "Tab schließen">
 <!ENTITY closeTabCmd.accesskey "s">
 <!ENTITY newVirtualFolderCmd.label "Virtueller Ordner…">
 <!ENTITY newVirtualFolderCmd.accesskey "V">
 <!ENTITY newAccountCmd.label "Konto…">
 <!ENTITY newAccountCmd.accesskey "K">
-<!ENTITY openMessageMenu.label "Öffnen">
 <!ENTITY openMessageFileCmd.label "Datei öffnen…">
 <!ENTITY openMessageFileCmd.accesskey "ö">
 <!ENTITY openAttachmentCmd.label "Anhänge">
@@ -69,7 +66,6 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Druckvorschau">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "Seite einrichten…">
 <!ENTITY printSetupCmd.accesskey "e">
 
@@ -133,8 +129,6 @@
 <!ENTITY messagePaneWide.accesskey "B">
 <!ENTITY messagePaneVertical.label "3-Spalten Ansicht">
 <!ENTITY messagePaneVertical.accesskey "S">
-<!ENTITY threadPaneWide.label "Breite Nachrichtenliste">
-<!ENTITY threadPaneWide.accesskey "r">
 <!ENTITY showMessageCmd.label "Nachrichtenvorschau">
 <!ENTITY showMessageCmd.accesskey "c">
 
@@ -196,8 +190,6 @@
 <!ENTITY threads.accesskey "T">
 <!ENTITY allMsgsCmd.label "Alle">
 <!ENTITY allMsgsCmd.accesskey "a">
-<!ENTITY expandOrCollapseMenu.label "Aufklappen/Zuklappen">
-<!ENTITY expandOrCollapseMenu.accesskey "k">
 <!ENTITY expandAllThreadsCmd.label "Alle Themen aufklappen">
 <!ENTITY expandAllThreadsCmd.accesskey "A">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -261,9 +253,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.key "u">
 
 <!-- Search Menu -->
-<!ENTITY searchMenu.label "Suchen">
-<!ENTITY searchMenu.accesskey "s">
-
 <!ENTITY findMenu.label "Suchen">
 <!ENTITY findMenu.accesskey "S">
 <!ENTITY findCmd.label "In dieser Nachricht…">
@@ -386,8 +375,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsReadCmd.label "Gelesen">
 <!ENTITY markAsReadCmd.accesskey "G">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "Ungelesen">
-<!ENTITY markAsUnreadCmd.accesskey "U">
 <!ENTITY markThreadAsReadCmd.label "Thema gelesen">
 <!ENTITY markThreadAsReadCmd.accesskey "t">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -414,7 +401,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "Fenster">
-<!ENTITY windowMenu.accesskey "F">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Extras">
@@ -459,7 +445,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY printButton.label "Drucken">
 <!ENTITY stopButton.label "Stopp">
 <!ENTITY throbberItem.title "Aktivitäts-Indikator">
-<!ENTITY updatesItem.title  "Updates">
 <!ENTITY junkButton.label "Junk">
 <!ENTITY notJunkButton.label "Kein Junk">
 <!ENTITY addressBookButton.label "Adressbuch">
@@ -471,7 +456,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Erweiterte Nachrichtensuche">
-<!ENTITY clearButton.tooltip "Suchkriterien leeren und alle Nachrichten anzeigen">
 <!ENTITY getMsgButton.tooltip "Neue Nachrichten empfangen">
 <!ENTITY newMsgButton.tooltip "Eine neue Nachricht schreiben">
 <!ENTITY replyButton.tooltip "Auf gewählte Nachricht(en) antworten">
@@ -542,8 +526,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Name oder E-Mail enthält:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
-<!ENTITY clearButton.label "Alle zeigen">
-<!ENTITY clearButton.accesskey "z">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Betreff">
@@ -566,7 +548,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Größe">
 <!ENTITY junkStatusColumn.label "Junk-Status">
-<!ENTITY linesColumn.label "Zeilen">
 <!ENTITY unreadColumn.label "Ungelesen">
 <!ENTITY totalColumn.label "Gesamt">
 <!ENTITY readColumn.label "Gelesen / Ungelesen">
@@ -627,8 +608,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrint.accesskey "d">
 <!ENTITY contextPrintPreview.label "Druckvorschau">
 <!ENTITY contextPrintPreview.accesskey "v">
-<!ENTITY contextDelete.label "Löschen">
-<!ENTITY contextDelete.accesskey "L">
 
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "Diese Nachricht wurde als Junk eingestuft.">
@@ -662,8 +641,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY CopyEmailAddress.accesskey "E">
 <!ENTITY CreateFilterFrom.label "Filter erstellen aus…">
 <!ENTITY CreateFilterFrom.accesskey "F">
-<!ENTITY BlockAddress.label "Adresse blockieren">
-<!ENTITY BlockAddress.accesskey "A">
 <!ENTITY reportPhishingURL.label "Betrugsversuch melden…">
 <!ENTITY reportPhishingURL.accesskey "B">
 

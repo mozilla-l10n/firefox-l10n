@@ -3,9 +3,6 @@
 <!ENTITY securityMenu.label "S/MIME-Sicherheit">
 <!ENTITY securityMenu.accesskey "M">
 
-<!ENTITY menu_securityEncryptIfPossible.label "Verschlüsseln, wenn möglich">
-<!ENTITY menu_securityEncryptIfPossible.accesskey "m">
-
 <!ENTITY menu_securityEncryptRequire.label "Nachricht verschlüsseln">
 <!ENTITY menu_securityEncryptRequire.accesskey "v">
 

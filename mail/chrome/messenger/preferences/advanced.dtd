@@ -26,8 +26,6 @@
 <!ENTITY reuseExpRadio0.accesskey      "n">
 <!ENTITY reuseExpRadio1.label          "vorhandenem Fenster">
 <!ENTITY reuseExpRadio1.accesskey      "v">
-<!ENTITY reuseExpRadio2.label          "neuem Tab">
-<!ENTITY reuseExpRadio2.accesskey      "u">
 <!ENTITY configEditDesc.label          "Erweiterte Konfiguration (about:config):">
 <!ENTITY configEdit.label              "Konfiguration bearbeiten…">
 <!ENTITY configEdit.accesskey          "K">

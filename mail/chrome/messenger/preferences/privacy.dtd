@@ -43,12 +43,3 @@
 <!ENTITY antiVirus.intro      "&brandShortName; kann es Anti-Virus-Software ermöglichen, eingehende Nachrichten zu überprüfen und eventuell in Quarantäne zu stellen (oder zu löschen), bevor diese im Posteingang gespeichert werden. Dies kann bei POP-Konten vor Datenverlust schützen, benötigt aber mehr Zeit.">
 <!ENTITY antiVirus.label      "Anti-Virus-Software ermöglichen, eingehende Nachrichten unter Quarantäne zu stellen">
 <!ENTITY antiVirus.accesskey  "A">
-
-<!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
-<!ENTITY antiVirusCaption.label "Anti-Virus">
-<!ENTITY paswords.label         "Passwörter">
-<!ENTITY emailScams.label       "Betrugsversuche">
-<!ENTITY junkMail.label         "Junk">
-<!ENTITY itemIntrusions.label   "Belästigungen">
-<!ENTITY itemIntrusionsAndPasswords.label  "Belästigungen &amp; Passwörter">
-<!ENTITY itemJunkMail.label     "Junk">

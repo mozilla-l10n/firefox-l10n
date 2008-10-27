@@ -29,7 +29,6 @@
 <!ENTITY customizeMailAlert.label         "Anpassen…">
 <!ENTITY customizeMailAlert.accesskey     "p">
 
-<!ENTITY soundNotification1.caption       "Klang">
 <!ENTITY play.label                       "Probe hören">
 <!ENTITY play.accesskey                   "h">
 <!ENTITY systemsound.label                "Systemklang für neue Nachrichten">
