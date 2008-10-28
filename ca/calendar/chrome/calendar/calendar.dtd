@@ -46,16 +46,6 @@
 <!ENTITY calendar.calendar.label     "Calendari">
 <!ENTITY calendar.calendar.accesskey "C">
 
-
-<!ENTITY calendar.flat.topbar.choosedate       "Vés a la data" >
-<!ENTITY calendar.flat.topbar.dayview          "Vista diària" >
-<!ENTITY calendar.dayview.accesskey            "D" >
-<!ENTITY calendar.flat.topbar.weekview         "Vista setmanal" >
-<!ENTITY calendar.weekview.accesskey           "s" >
-<!ENTITY calendar.flat.topbar.monthview        "Vista mensual" >
-<!ENTITY calendar.monthview.accesskey          "M" >
-<!ENTITY calendar.flat.topbar.multiweekview    "Vista multisetmanal" >
-<!ENTITY calendar.multiweekview.accesskey      "u" >
 <!ENTITY calendar.dayView.key                  "1" >
 <!ENTITY calendar.weekView.key                 "2" >
 <!ENTITY calendar.multiweekView.key            "3" >
@@ -63,14 +53,11 @@
 
 <!ENTITY calendar.newtask.button.tooltip          "Crea una nova tasca" >
 <!ENTITY calendar.newevent.button.tooltip         "Crea una nova cita" >
-<!ENTITY calendar.delete.button.tooltip           "Suprimeix la cita seleccionada" >
 <!ENTITY calendar.edit.button.tooltip             "Edita la cita seleccionada" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Tasques" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Mostra les tasques finalitzades">
 
-<!ENTITY calendar.calendartab.label "Data">
-<!ENTITY calendar.listofcalendarstab.label "Calendaris">
 <!ENTITY calendar.today.button.label        "Avui" >
 <!ENTITY calendar.tomorrow.button.label       "Demà">
 <!ENTITY calendar.soon.button.label           "Aviat">
@@ -98,11 +85,9 @@
 <!ENTITY calendar.unifinder.tree.calendarname.label  "Nom del calendari">
 <!ENTITY calendar.unifinder.tree.duration.label      "Temps restant">
 <!ENTITY calendar.unifinder.close.tooltip            "Tanca la llista i la cerca de cites">
-<!ENTITY calendar.find.key  "F">
 
 <!ENTITY calendar.today.button.tooltip        	"Vés a avui" >
 <!ENTITY calendar.todaypane.button.tooltip      "Mostra el plafó d'avui" >
-<!ENTITY calendar.choosedate.button.tooltip     "Trieu una data per a anar-hi" >
 <!ENTITY calendar.unifinder.button.tooltip        "Cerca i mostra les cites" >
 
 <!ENTITY calendar.day.button.tooltip            "Canvia a vista diària" >
@@ -119,19 +104,8 @@
 
 <!ENTITY calendar.newtask.button.label          "Nova tasca" >
 <!ENTITY calendar.newevent.button.label         "Nova cita" >
-<!ENTITY calendar.delete.button.label           "Suprimeix" >
 <!ENTITY calendar.edit.button.label             "Edita" >
 
-<!ENTITY calendar.choosedate.button.label       "Trieu una data" >
-
-<!ENTITY calendar.cut.button.tooltip            "Retalla" >
-<!ENTITY calendar.copy.button.tooltip           "Copia" >
-<!ENTITY calendar.paste.button.tooltip          "Enganxa" >
-<!ENTITY calendar.print.button.tooltip          "Imprimeix un calendari" >
-
-<!ENTITY calendar.cut.button.label              "Retalla" >
-<!ENTITY calendar.copy.button.label             "Copia" >
-<!ENTITY calendar.paste.button.label            "Enganxa" >
 <!ENTITY calendar.print.button.label            "Imprimeix" >
 
 <!ENTITY calendar.import.button.tooltip            "Importa les cites d'un fitxer local." >
@@ -147,9 +121,6 @@
 <!ENTITY calendar.publish.button.label             "Publica" >
 <!ENTITY calendar.unifinder.button.label           "Cerca cites" >
 
-<!ENTITY calendar.remotereload.button.label   "Actualització" >
-<!ENTITY calendar.remotereload.button.tooltip   "Actualitza tots els calendaris remots" >
-
 <!ENTITY calendar.day.button.label          "Vista diària" >
 <!ENTITY calendar.week.button.label         "Vista setmanal" >
 <!ENTITY calendar.month.button.label        "Vista mensual" >
@@ -164,17 +135,7 @@
 <!ENTITY calendar.orientation.label "Gira la vista" >
 <!ENTITY calendar.orientation.accesskey "G" >
 
-<!ENTITY calendar.menu.options.close.key        "W">
-
 <!ENTITY calendar.search.options.searchfor " que continguin">
-
-<!ENTITY calendar.menu.numberofweeks.label     "Nombre de setmanes" >
-<!ENTITY calendar.menu.numberofweeks.accesskey "N" >
-<!ENTITY calendar.menu.numberofweeks.2      "2 setmanes" >
-<!ENTITY calendar.menu.numberofweeks.3      "3 setmanes" >
-<!ENTITY calendar.menu.numberofweeks.4      "4 setmanes" >
-<!ENTITY calendar.menu.numberofweeks.5      "5 setmanes" >
-<!ENTITY calendar.menu.numberofweeks.6      "6 setmanes" >
 
 <!ENTITY calendar.list.header.label                 "Calendari">
 
@@ -207,18 +168,9 @@
 <!ENTITY calendar.task.category.button.tooltip  "Categorització de tasques">
 <!ENTITY calendar.task.complete.button.tooltip  "Marca les tasques seleccionades com a acabades">
 <!ENTITY calendar.task.priority.button.tooltip  "Canvia la prioritat">
-<!ENTITY calendar.task.delete.button.tooltip    "Suprimeix la tasca seleccionada">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Document: Fet">
-
-<!-- customizable toolbars -->
-<!ENTITY calendar.context.customize.label             "Personalitza…">
-<!ENTITY calendar.context.customize.accesskey         "P">
-<!ENTITY calendar.menu.customize.label                "Personalitza la barra d'eines…">
-<!ENTITY calendar.menu.customize.accesskey            "P">
-<!ENTITY calendar.maintoolbar.name                    "Barra principal">
-<!ENTITY calendar.maintoolbar.accesskey               "B">
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label      "Obre">
@@ -361,10 +313,6 @@
 <!ENTITY calendarproperties.cache.label    "Memòria cau (EXPERIMENTAL, cal tornar a engegar)">
 <!ENTITY calendarproperties.enabled.label  "Mostra aquest calendari">
 
-<!-- Sunbird Help -->
-<!ENTITY calendar.help.label               "Continguts de l'ajuda">
-<!ENTITY calendar.help.accesskey           "C">
-
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "Publica el calendari">
 <!ENTITY calendar.publish.url.label                 "URL de publicació">
@@ -396,6 +344,4 @@
 <!ENTITY calendar.error.title "S'ha produït un error">
 
 
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">
 
