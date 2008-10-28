@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+ï»¿<!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
  The contents of this file are subject to the Mozilla Public License Version
@@ -35,7 +35,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY all.label          "Transferir todos os Cabeçalhos">
+<!ENTITY all.label          "Transferir todos os CabeÃ§alhos">
 <!ENTITY all.accesskey      "T">
 <!--LOCALIZATION NOTE (download.label):
     consider the download.label and headers.label as a single sentence
@@ -47,7 +47,7 @@
 <!ENTITY download.label     "Transferir">
 <!ENTITY download.accesskey "e">
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
-<!ENTITY headers.label      "Cabeçalhos">
-<!ENTITY headers.accesskey  "ç">
-<!ENTITY mark.label         "Marcar os cabeçalhos restantes como lidos">
+<!ENTITY headers.label      "CabeÃ§alhos">
+<!ENTITY headers.accesskey  "Ã§">
+<!ENTITY mark.label         "Marcar os cabeÃ§alhos restantes como lidos">
 <!ENTITY mark.accesskey     "M">

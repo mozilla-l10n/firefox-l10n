@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+ï»¿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -40,17 +40,17 @@
 
 <!ENTITY folderProps.windowtitle.label           "Propriedades">
 
-<!ENTITY generalInfo.label                       "Informação Geral">
-<!ENTITY folderCharsetTab.label                  "Codificação Pré-Definida:">
+<!ENTITY generalInfo.label                       "InformaÃ§Ã£o Geral">
+<!ENTITY folderCharsetTab.label                  "CodificaÃ§Ã£o PrÃ©-Definida:">
 <!ENTITY folderCharsetTab.accesskey              "E">
-<!ENTITY folderCharsetOverride.label             "Aplicar pré-definições a todas as mensagens na pasta (as configurações de codificação de caracteres de mensagens e auto-detecção será ignorada)">
+<!ENTITY folderCharsetOverride.label             "Aplicar prÃ©-definiÃ§Ãµes a todas as mensagens na pasta (as configuraÃ§Ãµes de codificaÃ§Ã£o de caracteres de mensagens e auto-detecÃ§Ã£o serÃ¡ ignorada)">
 <!ENTITY folderCharsetOverride.accesskey         "A">
-<!ENTITY folderRebuildSummaryFile.label          "Reconstruir Sumário">
+<!ENTITY folderRebuildSummaryFile.label          "Reconstruir SumÃ¡rio">
 <!ENTITY folderRebuildSummaryFile.accesskey      "R">
-<!ENTITY folderRebuildSummaryFileTip.label       "Reconstruir Sumário do Ficheiro">      
+<!ENTITY folderRebuildSummaryFileTip.label       "Reconstruir SumÃ¡rio do Ficheiro">      
 
-<!ENTITY retention.label "Política de Retenção">
-<!ENTITY retentionUseDefault.label  "Usar pré-definições do servidor">
+<!ENTITY retention.label "PolÃ­tica de RetenÃ§Ã£o">
+<!ENTITY retentionUseDefault.label  "Usar prÃ©-definiÃ§Ãµes do servidor">
 <!ENTITY retentionUseDefault.accesskey "d">
 <!ENTITY days.label "dias">
 <!ENTITY daysOld.label "dias de idade">
@@ -66,7 +66,7 @@
 <!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepNew.label "Mais recentes">
 <!ENTITY retentionKeepNew.accesskey "n">
-<!ENTITY retentionKeepUnread.label "Apenas mensagens não lidas">
+<!ENTITY retentionKeepUnread.label "Apenas mensagens nÃ£o lidas">
 <!ENTITY retentionKeepUnread.accesskey "l">
 
 <!ENTITY folderOfflineTab.label                  "Desligado">
@@ -78,23 +78,23 @@
 <!ENTITY offlineFolder.button.label              "Transferir Agora">
 <!ENTITY offlineFolder.button.accesskey          "T">
 
-<!ENTITY selectofflineNewsgroup.check.label      "Seleccionar este grupo de discussão para uso desligado">
+<!ENTITY selectofflineNewsgroup.check.label      "Seleccionar este grupo de discussÃ£o para uso desligado">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "o">
-<!ENTITY UseDefaultofflineNewsgroup.check.label  "Usar pré-definição a partir das configurações de conta ">
+<!ENTITY UseDefaultofflineNewsgroup.check.label  "Usar prÃ©-definiÃ§Ã£o a partir das configuraÃ§Ãµes de conta ">
 <!ENTITY offlineNewsgroup.button.label           "Transferir Agora">
 <!ENTITY offlineNewsgroup.button.accesskey       "T">
 
-<!ENTITY folderProps.information.label           "Informação:">
+<!ENTITY folderProps.information.label           "InformaÃ§Ã£o:">
 <!ENTITY folderProps.name.label                  "Nome:">
 <!ENTITY folderProps.name.accesskey              "N">
-<!ENTITY folderProps.location.label              "Localização:">
+<!ENTITY folderProps.location.label              "LocalizaÃ§Ã£o:">
 <!ENTITY folderProps.location.accesskey          "L">
 
 <!ENTITY folderSharingTab.label                  "Partilhar">
-<!ENTITY privilegesDesc.label                    "Partilhar esta ou outra Pastas com utilizadores da rede e mostrar e configurar os previlégios de acesso">
-<!ENTITY privileges.button.label                 "Privilégios...">
+<!ENTITY privilegesDesc.label                    "Partilhar esta ou outra Pastas com utilizadores da rede e mostrar e configurar os previlÃ©gios de acesso">
+<!ENTITY privileges.button.label                 "PrivilÃ©gios...">
 <!ENTITY privileges.button.accesskey             "P">
-<!ENTITY permissionsDesc.label                   "Tem as Seguintes permissões:">
+<!ENTITY permissionsDesc.label                   "Tem as Seguintes permissÃµes:">
 <!ENTITY folderType.label                        "Tipo de Pasta:">
 
 <!ENTITY folderQuotaTab.label                    "Quota">

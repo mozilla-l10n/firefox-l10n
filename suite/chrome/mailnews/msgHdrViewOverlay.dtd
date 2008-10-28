@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+ï»¿<!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
  The contents of this file are subject to the Mozilla Public License Version
@@ -38,23 +38,23 @@
 <!ENTITY toField.label "Para: ">
 <!ENTITY fromField.label "De: ">
 <!ENTITY senderField.label "Remetente: ">
-<!ENTITY organizationField.label "Organização: ">
+<!ENTITY organizationField.label "OrganizaÃ§Ã£o: ">
 <!ENTITY replyToField.label "Responder-Para: ">
 
 <!ENTITY subjectField.label "Assunto: ">
 <!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
 <!ENTITY ccField.label "Cc: ">
 <!ENTITY bccField.label "Bcc: ">
-<!ENTITY newsgroupsField.label "Grupos de discussão: ">
+<!ENTITY newsgroupsField.label "Grupos de discussÃ£o: ">
 <!ENTITY followupToField.label "Reencaminhar para: ">
 
 <!ENTITY tagsHdr.label "Tags: ">
 <!ENTITY dateField.label "Data: ">
 <!ENTITY userAgentField.label "User-Agent: ">
-<!ENTITY referencesField.label "Referências: ">
+<!ENTITY referencesField.label "ReferÃªncias: ">
 <!ENTITY messageIdField.label "ID da Mensagem: ">
 <!ENTITY inReplyToField.label "Em-Resposta-Para: ">
-<!ENTITY originalWebsite.label "Página web: ">
+<!ENTITY originalWebsite.label "PÃ¡gina web: ">
 
 <!ENTITY editMessage.label "Editar Rascunho...">
 
