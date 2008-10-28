@@ -11,7 +11,7 @@
 <!ENTITY safeb.palm.decline.statustext "Chiudi l'avviso">
 <!ENTITY safeb.palm.notforgery.label2 "Non è un sito contraffatto…">
 <!ENTITY safeb.palm.report.label "Perché questo sito è stato bloccato?">
-<!ENTITY safeb.blocked.malware.title "Segnalato sito web malevolo">
+<!ENTITY safeb.blocked.malware.title "Segnalato sito malevolo">
 <!ENTITY safeb.blocked.malware.shortDesc "Il sito web <span id='malware_sitename'/> è stato segnalato come sito web malevolo ed è stato bloccato sulla base delle impostazioni di sicurezza correnti.">
 <!ENTITY safeb.blocked.malware.longDesc "<p>Un sito web malevolo cerca di installare dei software in grado di sottrarre le informazioni personali degli utenti, sfruttare il computer per attaccare altre macchine o semplicemente danneggiare il sistema.</p>
 <p>Alcuni di questi siti distribuiscono intenzionalmente software dannoso, ma gran parte dei siti viene compromessa senza che il proprietario ne sia a conoscenza o ne sia responsabile.</p>">
