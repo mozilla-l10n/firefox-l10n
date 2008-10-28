@@ -73,7 +73,7 @@
 
 <!ENTITY calendar.quit.label                               "Beenden">
 <!ENTITY calendar.quit.accesskey                           "B">
-<!ENTITY calendar.quit.key                                 "B">
+<!ENTITY calendar.quit.key                                 "Q">
 <!ENTITY calendar.quit.label.mac                           "&brandShortName; beenden">
 
 <!ENTITY calendar.exit.label                               "Beenden">
@@ -149,7 +149,7 @@
 <!ENTITY preferencesCmd.label                              "Einstellungen…">
 <!ENTITY preferencesCmd.accesskey                          "E">
 <!ENTITY preferencesCmdMac.label                           "Einstellungen…">
-<!ENTITY preferencesCmdMac.commandkey                      "E">
+<!ENTITY preferencesCmdMac.commandkey                      ",">
 <!ENTITY preferencesCmdMac.modifiers                       "accel">
 
 <!ENTITY viewMenu.label                                    "Ansicht">
@@ -174,9 +174,9 @@
 <!-- Mac OS X Application menu items -->
 <!ENTITY servicesMenuMac.label                             "Services">
 <!ENTITY hideThisAppCmdMac.label                           "&brandShortName; ausblenden">
-<!ENTITY hideThisAppCmdMac.commandkey                      "A">
+<!ENTITY hideThisAppCmdMac.commandkey                      "H">
 <!ENTITY hideThisAppCmdMac.modifiers                       "accel">
 <!ENTITY hideOtherAppsCmdMac.label                         "Andere ausblenden">
-<!ENTITY hideOtherAppsCmdMac.commandkey                    "U">
+<!ENTITY hideOtherAppsCmdMac.commandkey                    "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers                     "accel,alt">
 <!ENTITY showAllAppsCmdMac.label                           "Alle einblenden">
