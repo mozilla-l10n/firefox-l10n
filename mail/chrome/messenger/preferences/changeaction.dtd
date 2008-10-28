@@ -17,5 +17,3 @@
 <!ENTITY chooseFolder.accesskey "x">
 <!ENTITY saveToAskMe.label "preguntarme dónde guardar el archivo">
 <!ENTITY saveToAskMe.accesskey "a">
-<!ENTITY usePlugin.label "Usar este plugin:">
-<!ENTITY usePlugin.accesskey "P">

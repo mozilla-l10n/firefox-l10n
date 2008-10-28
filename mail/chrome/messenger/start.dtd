@@ -39,4 +39,3 @@ function installDic(anchor)
 <p>Pulse para <a href="http://releases.mozilla.org/pub/mozilla.org/extensions/diccionario_de_espa_ntilde_ol_espa_ntilde_a/diccionario_de_espa_ntilde_ol_espa_ntilde_a-1.1-fx+zm+tb.xpi" onclick="installDic(this);return false">instalar el diccionario en español</a> si no lo tiene instalado.
 <a href="https://addons.mozilla.org/firefox/3554/">Más información</a>.</p>
 '>
-<!ENTITY startpage.poweredByGecko "Diseñado con Gecko.">

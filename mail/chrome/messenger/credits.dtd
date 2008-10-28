@@ -1,24 +1,11 @@
 <!ENTITY credit.title "Créditos de &brandFullName;">
 <!ENTITY brandMotto "¡Los Thunderbirds despegan!">
 <!ENTITY credit.leads "Jefes de ingeniería">
-<!ENTITY credit.core "Grupo de desarrollo principal">
-<!ENTITY credit.gecko "Motor de dibujado Gecko">
 <!ENTITY credit.thanks "Agradecimiento especial a">
 <!ENTITY credit.translation "<h3>Traducción</h3>
 <ul><li>Proyecto NAVE</li></ul>">
-<!ENTITY credit.visuals "Coordinador de diseño visual">
 <!ENTITY credit.theme "Diseño de temas">
-<!ENTITY credit.brand "Identidad de la marca">
-<!ENTITY credit.web "Diseño web">
-<!ENTITY credit.update "Actualización de Mozilla">
-<!ENTITY credit.qalead "Jefe de garantía de calidad">
 <!ENTITY credit.qa "Garantía de calidad">
 <!ENTITY credit.build "Versión y publicación">
-<!ENTITY credit.infra "Soporte de infraestructura">
-<!ENTITY credit.support "Recursos de soporte">
-<!ENTITY credit.manage "Gestión del proyecto">
-<!ENTITY credit.marketleads "Jefes de marketing">
-<!ENTITY credit.market "Marketing">
-<!ENTITY credit.creators "Creado por">
 <!ENTITY credit.memory "En memoria con cariño a">
 <!ENTITY credit.poweredByGecko "Diseñado con Gecko&trade;">

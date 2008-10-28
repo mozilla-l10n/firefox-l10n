@@ -35,10 +35,3 @@
 <!ENTITY antiVirus.intro "&brandShortName; puede hacer fácilmente que el software antivirus analice el correo entrante en busca de virus antes de que se guarden localmente.">
 <!ENTITY antiVirus.label "Permitir a los antivirus poner en cuarentena mensajes individuales">
 <!ENTITY antiVirus.accesskey "P">
-<!ENTITY antiVirusCaption.label "Antivirus">
-<!ENTITY paswords.label "Contraseñas">
-<!ENTITY emailScams.label "Mensajes fraudulentos">
-<!ENTITY junkMail.label "Correo basura">
-<!ENTITY itemIntrusions.label "Intrusiones">
-<!ENTITY itemIntrusionsAndPasswords.label "Intrusiones y contraseñas">
-<!ENTITY itemJunkMail.label "Correo basura">
