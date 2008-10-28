@@ -41,4 +41,3 @@ onclick="installDic(this);return false">fare clic qui</a>.</p><p>Per informazion
 <a 
 href="http://www.mozillaitalia.org/dizionari.html">fare clic qui</a>.</p>
 '>
-<!ENTITY startpage.poweredByGecko "Powered by Gecko.">
