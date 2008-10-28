@@ -1,7 +1,7 @@
 <!ENTITY restorepage.title          "Återställ föregående session">
 <!ENTITY restorepage.titletext      "Den senaste &brandShortName;-sessionen avslutades oväntat">
 <!ENTITY restorepage.shortDesc      "Du kan återställa flikar och fönster från den föregående sessionen, eller starta en ny session om de inte längre behövs. Vi ber om ursäkt för besväret.">
-<!ENTITY restorepage.remedies       "Om &brandShortName; upprepade gånger avslutas:">
+<!ENTITY restorepage.remedies       "Om &brandShortName; avslutas oväntat upprepade gånger:">
 <!ENTITY restorepage.dueToChrome    "Försök att avaktivera nyligen installerade tillägg i fönstret Tillägg.">
 <!ENTITY restorepage.dueToContent   "Försök att återställa sessionen utan de webbsidor du misstänker orsakade kraschen:">
 
