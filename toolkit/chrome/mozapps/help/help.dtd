@@ -54,9 +54,8 @@
 <!ENTITY printButton.tooltip            "Spausdinti šį žinyno puslapį">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY searchtab.label                "Paieška:">
-<!ENTITY searchtab.accesskey            "P">
-<!ENTITY searchClose.tooltip            "Užverti paieškos rezultatus">
+<!ENTITY search.emptytext               "Paieška">
+<!ENTITY searchHeader.label             "Paieškos rezultatai">
 <!ENTITY toctab.label                   "Turinys">
 <!ENTITY toctab.accesskey               "T">
 
