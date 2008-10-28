@@ -1,4 +1,4 @@
-<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+﻿<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Nova mensagem: (sem assunto)">
 
 <!ENTITY fromAddr.label "De:">

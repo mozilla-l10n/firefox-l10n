@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+ï»¿<!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
  The contents of this file are subject to the Mozilla Public License Version
@@ -36,8 +36,8 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Labels -->
-<!ENTITY subscribechoosethis.label			"Escolher este servidor de notícias">
-<!ENTITY subscribeclickhere.label			"Clique aqui para escolher o servidor de notícias">
+<!ENTITY subscribechoosethis.label			"Escolher este servidor de notÃ­cias">
+<!ENTITY subscribeclickhere.label			"Clique aqui para escolher o servidor de notÃ­cias">
 <!ENTITY newfolderchoosethis.label			"Escolha isto para o parent">
 <!ENTITY newfolderclickhere.label			"Clique aqui para seleccionar">
 <!ENTITY renamefolderchoosethis.label			"Escolher esta pasta">
