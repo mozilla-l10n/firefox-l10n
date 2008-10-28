@@ -20,6 +20,7 @@
    -
    - Contributor(s): Neil Rashbrook <neil@parkwaycc.co.uk>
    -   
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -39,7 +40,7 @@
 <!ENTITY ButtonType.label "Tipo">
 <!ENTITY ButtonType.accesskey "T">
 <!ENTITY submit.value "Invio">
-<!ENTITY reset.value "Ripristino modulo">
+<!ENTITY reset.value "Azzera">
 <!ENTITY button.value "Pulsante">
 <!ENTITY ButtonName.label "Nome:">
 <!ENTITY ButtonName.accesskey "N">

@@ -1,5 +1,7 @@
 <!ENTITY itemFormatting.label "Formattazione">
 <!ENTITY itemTags.label "Etichette">
+<!ENTITY itemFonts.label "Caratteri">
+<!ENTITY textBegin.label "Aspetto del testo normale citato">
 <!ENTITY style.label "Stile">
 <!ENTITY style.accesskey "e">
 <!ENTITY regularStyle.label "Regolare">
@@ -16,10 +18,12 @@
 <!ENTITY displayWidth.label "Messaggi di testo semplice">
 <!ENTITY plainText.label "Usa il carattere:">
 <!ENTITY displayText.label "Durante la visualizzazione delle citazioni in testo semplice:">
+<!ENTITY viewingPlainText.label "Durante la visualizzazione dei messaggi di testo:">
 <!ENTITY fixedWidth.label "Carattere a larghezza fissa">
 <!ENTITY fixedWidth.accesskey "h">
 <!ENTITY variableWidth.label "Carattere a larghezza variabile">
 <!ENTITY variableWidth.accesskey "V">
+<!ENTITY readingMessagesHeader.label "Per i messaggi in arrivo">
 <!ENTITY colors.label "Colori">
 <!ENTITY overrideColors.label "Durante la visualizzazione dei messaggi usa i seguenti colori:">
 <!ENTITY textColor.label "Colore del testo:">

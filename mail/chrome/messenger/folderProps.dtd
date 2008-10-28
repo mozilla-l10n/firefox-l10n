@@ -24,6 +24,7 @@
    -   Lorenzo Colitti   <lorenzo@colitti.com>
    -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
    -   
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -50,6 +51,7 @@
 <!ENTITY retention.label "Politica di conservazione">
 <!ENTITY retentionUseDefault.label "Usa le impostazioni fornite dal server">
 <!ENTITY retentionUseDefault.accesskey "d">
+<!ENTITY days.label "giorni">
 <!ENTITY daysOld.label "giorni">
 <!ENTITY message.label "messaggi">
 <!ENTITY retentionCleanup.label "Per recuperare spazio su disco i vecchi messaggi possono essere eliminati definitivamente">
@@ -70,13 +72,16 @@
 <!ENTITY offlineFolder.button.accesskey "o">
 <!ENTITY selectofflineNewsgroup.check.label "Seleziona questo gruppo di discussione per l'uso non in linea">
 <!ENTITY selectofflineNewsgroup.check.accesskey "o">
+<!ENTITY UseDefaultofflineNewsgroup.check.label "Usa impostazioni predefinite dai dati account">
 <!ENTITY offlineNewsgroup.button.label "Scarica ora">
 <!ENTITY offlineNewsgroup.button.accesskey "o">
+<!ENTITY folderProps.information.label "Informazioni:">
 <!ENTITY folderProps.name.label "Nome:">
 <!ENTITY folderProps.name.accesskey "N">
 <!ENTITY folderProps.location.label "Posizione:">
 <!ENTITY folderProps.location.accesskey "o">
 <!ENTITY folderSharingTab.label "Condivisione">
+<!ENTITY privilegesDesc.label "Condividi questa ed altre cartelle con altri utenti, visualizza ed imposta i privilegi di accesso">
 <!ENTITY privileges.button.label "Privilegi…">
 <!ENTITY privileges.button.accesskey "P">
 <!ENTITY permissionsDesc.label "Si possiedono i seguenti privilegi:">

@@ -20,6 +20,7 @@
 <!ENTITY showAnimatedAlert.accesskey "M">
 <!ENTITY customizeMailAlert.label "Personalizza…">
 <!ENTITY customizeMailAlert.accesskey "z">
+<!ENTITY soundNotification1.caption "Suono">
 <!ENTITY play.label "Ascolta">
 <!ENTITY play.accesskey "A">
 <!ENTITY systemsound.label "Suono predefinito di sistema per nuova posta">
@@ -31,7 +32,7 @@
 <!ENTITY browse.label "Sfoglia…">
 <!ENTITY browse.accesskey "S">
 <!ENTITY addonsMgr.label "Componenti aggiuntivi">
-<!ENTITY manageAddonsDescWin.label "Modifica opzioni per i componenti aggiuntivi">
+<!ENTITY manageAddonsDescWin.label "Modifica le opzioni per i componenti aggiuntivi">
 <!ENTITY manageAddonsDescUnix2.label "Modifica preferenze per i componenti aggiuntivi">
 <!ENTITY manageAddons.label "Gestione componenti aggiuntivi">
 <!ENTITY manageAddons.accesskey "M">

@@ -3,17 +3,17 @@
 <!ENTITY itemPasswords.label "Password">
 <!ENTITY itemAntiVirus.label "Antivirus">
 <!ENTITY junkMail.intro "Scegliere le impostazioni predefinite per la posta indesiderata. Le impostazioni di posta indesiderata specifiche possono essere configurate nelle Impostazioni Account.">
-<!ENTITY manualMark.label "Quando un messaggio viene riconosciuto come posta indesiderata:">
+<!ENTITY manualMark.label "Quando i messaggi sono marcati come posta indesiderata:">
 <!ENTITY manualMark.accesskey "Q">
-<!ENTITY manualMarkModeMove.label "Spostalo nella cartella &quot;Indesiderata&quot; dell'utente">
+<!ENTITY manualMarkModeMove.label "Spostali nella cartella &quot;Indesiderata&quot; dell'utente">
 <!ENTITY manualMarkModeMove.accesskey "s">
 <!ENTITY manualMarkModeDelete.label "Eliminali">
 <!ENTITY manualMarkModeDelete.accesskey "n">
-<!ENTITY markAsReadOnSpam.label "Marca letti i messaggi riconosciuti come posta indesiderata">
+<!ENTITY markAsReadOnSpam.label "Marca come letti tutti i messaggi riconosciuti come posta indesiderata">
 <!ENTITY markAsReadOnSpam.accesskey "e">
-<!ENTITY enableJunkLogging.label "Abilita rapporto posta indesiderata">
+<!ENTITY enableJunkLogging.label "Abilita registro attività per la posta indesiderata">
 <!ENTITY enableJunkLogging.accesskey "o">
-<!ENTITY openJunkLog.label "Mostra rapporto">
+<!ENTITY openJunkLog.label "Mostra registro attività">
 <!ENTITY openJunkLog.accesskey "M">
 <!ENTITY resetTrainingData.label "Azzera i dati di autoistruzione">
 <!ENTITY resetTrainingData.accesskey "D">
@@ -35,3 +35,10 @@
 <!ENTITY antiVirus.intro "&brandShortName; è in grado di semplificare il lavoro del software antivirus, permettendo l'analisi della posta in arrivo prima che venga salvata localmente.">
 <!ENTITY antiVirus.label "Consenti al programma antivirus di mettere in quarantena i singoli messaggi in arrivo.">
 <!ENTITY antiVirus.accesskey "l">
+<!ENTITY antiVirusCaption.label "Antivirus">
+<!ENTITY paswords.label "Password">
+<!ENTITY emailScams.label "Truffe via posta elettronica">
+<!ENTITY junkMail.label "Posta indesiderata">
+<!ENTITY itemIntrusions.label "Intrusioni">
+<!ENTITY itemIntrusionsAndPasswords.label "Intrusioni &amp; password">
+<!ENTITY itemJunkMail.label "Posta indesiderata">

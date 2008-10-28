@@ -1,6 +1,6 @@
-<!ENTITY junkLog.title "Rapporto posta indesiderata">
-<!ENTITY junkLogInfo.label "Rapporto dell'attività di controllo della posta indesiderata.">
-<!ENTITY clearLog.label "Pulisci rapporto">
+<!ENTITY junkLog.title "Registro attività posta indesiderata">
+<!ENTITY junkLogInfo.label "Registro attività dell'attività di controllo della posta indesiderata.">
+<!ENTITY clearLog.label "Pulisci registro attività">
 <!ENTITY clearLog.accesskey "a">
 <!ENTITY closeLog.label "Chiudi">
 <!ENTITY closeLog.accesskey "C">

@@ -9,19 +9,19 @@
 <!ENTITY sendHTML.accesskey "S">
 <!ENTITY sendBoth.label "Invia il messaggio sia in testo semplice sia in HTML">
 <!ENTITY sendBoth.accesskey "e">
-<!ENTITY override.label "Nota: Usa la Rubrica per specificare il formato testo preferito per ogni singolo destinatario">
+<!ENTITY override.label "Nota: usa la rubrica per specificare il formato testo preferito per ogni singolo destinatario">
 <!ENTITY domaindesc.label "Quando si invia un messaggio ad un indirizzo appartenente ad uno dei domini presenti nel seguente elenco &brandShortName; manda automaticamente il messaggio nel formato corretto.">
 <!ENTITY HTMLTab.label "Domini HTML">
 <!ENTITY HTMLTab.accesskey "H">
 <!ENTITY PlainTextTab.label "Domini testo semplice">
 <!ENTITY PlainTextTab.accesskey "D">
-<!ENTITY AddHtmlDomain.label "Aggiungere…">
+<!ENTITY AddHtmlDomain.label "Aggiungi…">
 <!ENTITY AddHtmlDomain.accesskey "A">
-<!ENTITY AddPlainText.label "Aggiungere…">
+<!ENTITY AddPlainText.label "Aggiungi…">
 <!ENTITY AddPlainText.accesskey "g">
-<!ENTITY DeleteHtmlDomain.label "Eliminare">
+<!ENTITY DeleteHtmlDomain.label "Elimina">
 <!ENTITY DeleteHtmlDomain.accesskey "E">
-<!ENTITY DeletePlainText.label "Eliminare">
+<!ENTITY DeletePlainText.label "Elimina">
 <!ENTITY DeletePlainText.accesskey "E">
 <!ENTITY add.htmltitle "Aggiungere un dominio HTML:">
 <!ENTITY add.htmldomain "Nome dominio HTML:">

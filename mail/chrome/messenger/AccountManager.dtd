@@ -3,8 +3,11 @@
 <!ENTITY addAccountButton.accesskey "A">
 <!ENTITY setDefaultButton.label "Imposta come predefinito">
 <!ENTITY setDefaultButton.accesskey "f">
+<!ENTITY duplicateButton.label "Duplica">
 <!ENTITY removeButton.label "Elimina account">
 <!ENTITY removeButton.accesskey "E">
+<!ENTITY nameCol.label "Nome">
+<!ENTITY duplicate.label "Duplica">
 <!ENTITY accountManager.size "width: 65em; height: 50em;">
 <!ENTITY macAccountManager.size "width: 67em; height: 50em;">
 <!ENTITY accountTree.width "width: 17em;">

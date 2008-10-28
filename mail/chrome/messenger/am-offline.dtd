@@ -5,6 +5,7 @@
 <!ENTITY offlineNotDownload.label "Messaggi più grandi di:">
 <!ENTITY offlineNotDownload.accesskey "m">
 <!ENTITY kb.label "KB">
+<!ENTITY days.label "giorni">
 <!ENTITY daysOld.label "giorni">
 <!ENTITY message.label "messaggi">
 <!ENTITY nntpNotDownloadRead.label "Messaggi già letti">
