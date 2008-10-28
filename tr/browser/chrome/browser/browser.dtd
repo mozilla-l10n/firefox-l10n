@@ -233,8 +233,7 @@
 <!ENTITY viewPageInfoCmd.accesskey    "S">
 <!ENTITY viewFrameInfoCmd.label       "Çerçeve bilgilerini göster">
 <!ENTITY viewFrameInfoCmd.accesskey   "e">
-<!ENTITY showImageCmd.label           "Resmi göster">
-<!ENTITY showImageCmd.accesskey       "e">
+
 <!ENTITY viewImageCmd.label           "Resme bak">
 <!ENTITY viewImageCmd.accesskey       "R">
 <!ENTITY viewBGImageCmd.label         "Arkaplan resmini göster">
@@ -391,3 +390,38 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Daha fazla bilgi...">
 
 <!ENTITY downloadMonitor2.tooltip "İndirme penceresini açmak için tıklayın">
+
+<!ENTITY copyAudioURLCmd.label        "Ses konumunu kopyala">
+<!ENTITY copyAudioURLCmd.accesskey    "s">
+<!ENTITY copyVideoURLCmd.label        "Video konumunu kopyala">
+<!ENTITY copyVideoURLCmd.accesskey    "v">
+
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "Yürüt">
+<!ENTITY mediaPlay.accesskey         "t">
+<!ENTITY mediaPause.label            "Duraklat">
+<!ENTITY mediaPause.accesskey        "u">
+<!ENTITY mediaMute.label             "Sesi kapat">
+<!ENTITY mediaMute.accesskey         "k">
+<!ENTITY mediaUnmute.label           "Sesi aç">
+<!ENTITY mediaUnmute.accesskey       "e">
+<!ENTITY mediaShowControls.label     "Düğmeleri göster">
+<!ENTITY mediaShowControls.accesskey "s">
+<!ENTITY mediaHideControls.label     "Düğmeleri gizle">
+<!ENTITY mediaHideControls.accesskey "D">
+
+ <!ENTITY reloadImageCmd.label         "Resmi tazele">
+<!ENTITY reloadImageCmd.accesskey     "t">
+<!ENTITY saveVideoCmd.label           "Videoyu farklı kaydet...">
+<!ENTITY saveVideoCmd.accesskey       "v">
+<!ENTITY saveAudioCmd.label           "Sesi farklı kaydet...">
+<!ENTITY saveAudioCmd.accesskey       "v">
+<!ENTITY sendImageCmd.label           "Resmi gönder...">
+<!ENTITY sendImageCmd.accesskey       "n">
+<!ENTITY sendVideoCmd.label           "Videoyu gönder...">
+<!ENTITY sendVideoCmd.accesskey       "n">
+<!ENTITY sendAudioCmd.label           "Sesi gönder...">
+<!ENTITY sendAudioCmd.accesskey       "n">
+
+

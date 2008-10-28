@@ -22,9 +22,6 @@
 <!ENTITY printButton.tooltip            "Bu sayfayı yazdırır">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY searchtab.label                "Ara">
-<!ENTITY searchtab.accesskey            "A">
-<!ENTITY searchClose.tooltip            "Arama sonuçlarını kapat">
 <!ENTITY toctab.label                   "İçerik">
 <!ENTITY toctab.accesskey               "e">
 
@@ -51,3 +48,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceBtn.accesskey    "b">
 <!ENTITY fullZoomEnlargeBtn.label       "Yazı boyutunu büyüt">
 <!ENTITY fullZoomEnlargeBtn.accesskey   "u">
+
+<!ENTITY search.emptytext               "Ara">
+<!ENTITY searchHeader.label             "Arama sonuçları">
+
