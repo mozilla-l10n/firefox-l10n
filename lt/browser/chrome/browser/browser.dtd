@@ -263,8 +263,8 @@
 <!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.label       "Informacija apie kadrą">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
-<!ENTITY showImageCmd.label           "Įkelti paveikslą">
-<!ENTITY showImageCmd.accesskey       "i">
+<!ENTITY reloadImageCmd.label         "Atsiųsti paveikslą iš naujo">
+<!ENTITY reloadImageCmd.accesskey     "n">
 <!ENTITY viewImageCmd.label           "Rodyti paveikslą">
 <!ENTITY viewImageCmd.accesskey       "y">
 <!ENTITY viewBGImageCmd.label         "Rodyti fono piešinį">
