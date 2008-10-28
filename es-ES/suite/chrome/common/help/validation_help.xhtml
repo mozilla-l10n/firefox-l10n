@@ -79,8 +79,8 @@
   que el administrador de certificados realice una comprobación en
   línea de la validez del certificado cada vez que el certificado se ve
   o usa. Este proceso conlleva la comprobación del certificado contra
-  una lista de revocación de certificados (CRL) mantenida en una web
-  especificada. Su ordenador debe estar en línea para que funcione el
+  una lista de revocación de certificados (CRL) mantenida en un servidor
+  especificado. Su ordenador debe estar en línea para que funcione el
   OCSP.</p>
 
   <p>Para especificar cómo usa el administrador de certificados OCSP,
@@ -88,53 +88,48 @@
   validación:</p>
 
   <ul>
-    <li><strong>No usar OCSP para verificación de certificados</strong>:
-    seleccione esta opción si no quiere que el administrador de
-    certificados realice una comprobación en línea del estado
-    cada vez que verifique un certificado. En su lugar, cuando el administrador
-    de certificados realiza <a href=
-    "glossary.xhtml#certificate_verification">verificación de
-    certificados</a>, sólo confirma el período de validez del
-    certificado y que está firmado correctamente por una CA cuyo propio
-    certificado CA está listado tanto en la pestaña de
-    Certificados CA (en la pantalla principal del administrador de
-    certificados) y marcado como de confianza para emitir ese tipo de
-    certificados.</li>
-    <li><strong>Usar OCSP para verificar sólo certificados que
-    especifican una URL con servicio de OCSP</strong>: seleccione esta
-    opción si quiere que el administrador de certificados realice una
-    comprobación en línea del estado cada vez que verifique un
-    certificado que especifica una URL para realizar tal comprobación.
-    Si el certificado especifica una URL, el administrador de certificados
-    comprueba que el certificado esté listado allí como
-    válido, además del período de validez y las opciones
-    de confianza.</li>
-    <li>
-      <strong>Usar OCSP para verificar todos los certificados, usando la URL y
-      firmante especificados aqui</strong>: seleccione esta opción si
-      quiere que el administrador de certificados realice una
-      comprobación en línea del estado cada vez que verifique
-      cualquier certificado. Si selecciona esta opción, debería
-      también elegir el certificado del menú desplegable del
-      Firmante de respuestas que identifica al firmante de las respuestas OCSP.
-      Con esta opción, los únicos certificados que reconoce el
-      administrador de certificados son aquellos que pueden verificarse por una
-      respuesta OCSP firmada con el certificado del Firmante de Respuestas (o
-      firmado usando un certificado que lo vincula).
+    <li><strong>Usar el Protocolo de Estado de Certificados en Línea (OCSP)
+      para confirmar la validez actual de los certificados</strong>: seleccione
+      esta opción si quiere que el administrador de certificados realice una
+      comprobación en línea del estado cada vez que verifique un certificado.
+      Si esta opción está desactivada, el administrador de certificados sólo
+      confirmará el periodo de validez del certificado y que está firmado
+      correctamente por una CA cuyo propio certificado de CA esté listado bajo
+      la pestaña de certificados CA (en la ventana principal del administrador
+      de certificados) y marcada como confiable para emitir ese tipo de
+      certificado.</li>
+    <li><strong>Validar un certificado si especifica un servidor OCSP</strong>:
+      seleccione esta opción para validar en línea los certificados que
+      proporcionen una dirección de servicio de validación (URL de servicio).
+      El administrador de certificados se asegura de que el certificado se lista
+      como válido en la URL y comprueba el periodo de validez y las opciones de
+      confianza.</li>
+    <li><strong>Validar todos los certificados usando el siguiente servidor
+      OCSP</strong>: seleccione esta opción si quiere especificar un servidor
+      OCSP para la validación de todos los certificados. Si selecciona esta
+      opción, también deberá elegir el certificado del menú emergente Firmante
+      de la respuesta que identifique el firmante de las respuestas de OCSP. Con
+      esta opción, los únicos certificados que reconoce el administrador de
+      certificados son aquellos que pueden verificarse por una respuesta OCSP
+      firmada con el certificado del firmante de la respuesta (o firmada usando
+      un certificado que dependa encadenadamente de ella).
 
-      <p>Cuando elija un certificado de un Firmante de respuestas en el
-      menú desplegable, el administrador de certificados rellena
-      automáticamente la URL del servicio (si está disponible)
-      para ese firmante. Si la URL del servicio no se rellena
-      automáticamente, debe rellenarla usted mismo; pida los datos al
-      administrator del sistema.</p>
+      <p>Cuando elija un certificado de un Firmante de respuestas en el menú
+      desplegable, el administrador de certificados rellena automáticamente la
+      URL del servicio (si está disponible) para ese firmante. Si la URL del
+      servicio no se rellena automáticamente, debe rellenarla usted mismo; pida
+      los datos al administrator del sistema.</p>
     </li>
+    <li><strong>Cuando falle una conexión al servidor OCSP, tratar el
+      certificado como no válido</strong>: seleccione esta opción si quiere que
+      la validación falle si no se puede establecer una conexión al servidor
+      OCSP.</li>
   </ul>
 
   <h2 id="manage_crls">Gestión de CRLs</h2>
 
-  <p>Esta sección explica cómo usar el cuadro de diálogo
-  de gestión de CRLs. Para verlo, siga estos pasos:</p>
+  <p>Esta sección explica cómo usar el cuadro de diálogo de gestión de CRLs.
+    Para verlo, siga estos pasos:</p>
 
   <ol>
     <li>Abra el menú <span class="mac">&brandShortName;</span>
