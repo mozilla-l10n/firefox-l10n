@@ -135,9 +135,9 @@
 <!ENTITY bringAllToFront.label "Porta tutto in primo piano">
 <!ENTITY servicesMenuMac.label "Servizi">
 <!ENTITY hideThisAppCmdMac.label "Nascondi &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "N">
+<!ENTITY hideThisAppCmdMac.commandkey "H">
 <!ENTITY hideThisAppCmdMac.modifiers "accel">
 <!ENTITY hideOtherAppsCmdMac.label "Nascondi altri">
-<!ENTITY hideOtherAppsCmdMac.commandkey "N">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
 <!ENTITY showAllAppsCmdMac.label "Mostra tutti">
