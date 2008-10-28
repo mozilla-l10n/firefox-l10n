@@ -1,0 +1,13 @@
+
+<!ENTITY search.name.label              "titúlo">
+<!ENTITY search.url.label               "localização">
+<!ENTITY search.startswith.label        "começa com">
+<!ENTITY search.endswith.label          "termina com">
+<!ENTITY search.is.label                "é">
+<!ENTITY search.isnot.label             "não ét">
+<!ENTITY search.contains.label          "contém">
+<!ENTITY search.doesntcontain.label     "não contém">
+<!ENTITY search.for.label               "Procurar nos documentos visitados que">
+<!ENTITY findHistory.title              "Procurar no histórico">
+<!ENTITY findButton.label               "Procurar">
+
