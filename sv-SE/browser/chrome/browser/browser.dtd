@@ -264,8 +264,8 @@
 <!ENTITY viewPageInfoCmd.accesskey    "i">
 <!ENTITY viewFrameInfoCmd.label       "Visa raminfo">
 <!ENTITY viewFrameInfoCmd.accesskey   "i">
-<!ENTITY showImageCmd.label           "Hämta bild">
-<!ENTITY showImageCmd.accesskey       "H">
+<!ENTITY reloadImageCmd.label         "Hämta om bild">
+<!ENTITY reloadImageCmd.accesskey     "H">
 <!ENTITY viewImageCmd.label           "Visa bild">
 <!ENTITY viewImageCmd.accesskey       "V">
 <!ENTITY viewBGImageCmd.label         "Visa bakgrundsbild">
