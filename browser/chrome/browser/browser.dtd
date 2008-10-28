@@ -233,8 +233,8 @@
 <!ENTITY viewPageInfoCmd.accesskey    "o">
 <!ENTITY viewFrameInfoCmd.label       "Informations sur le cadre">
 <!ENTITY viewFrameInfoCmd.accesskey   "n">
-<!ENTITY showImageCmd.label           "Charger l'image">
-<!ENTITY showImageCmd.accesskey       "m">
+<!ENTITY reloadImageCmd.label         "Actualiser l'image">
+<!ENTITY reloadImageCmd.accesskey     "m">
 <!ENTITY viewImageCmd.label           "Afficher l'image">
 <!ENTITY viewImageCmd.accesskey       "h">
 <!ENTITY viewBGImageCmd.label         "Afficher l'image de fond">
