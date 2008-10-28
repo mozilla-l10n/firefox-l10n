@@ -3,9 +3,6 @@
 <!ENTITY securityMenu.label "Saugumas">
 <!ENTITY securityMenu.accesskey "S">
 
-<!ENTITY menu_securityEncryptIfPossible.label "Šifruoti, jei įmanoma">
-<!ENTITY menu_securityEncryptIfPossible.accesskey "a">
-
 <!ENTITY menu_securityEncryptRequire.label "Šifruoti">
 <!ENTITY menu_securityEncryptRequire.accesskey "Š">
 

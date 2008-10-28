@@ -57,8 +57,6 @@
 <!ENTITY reuseExpRadio0.accesskey      "n">
 <!ENTITY reuseExpRadio1.label          "tame pačiame (atvertame) lange">
 <!ENTITY reuseExpRadio1.accesskey      "t">
-<!ENTITY reuseExpRadio2.label          "naujoje kortelėje">
-<!ENTITY reuseExpRadio2.accesskey      "k">
 <!ENTITY configEditDesc.label          "Papildoma sąranka (patyrusiems naudotojams).">
 <!ENTITY configEdit.label              "Visų parametrų sąrašas…">
 <!ENTITY configEdit.accesskey          "a">

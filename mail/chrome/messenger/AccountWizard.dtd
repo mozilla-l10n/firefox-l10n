@@ -63,24 +63,17 @@
 
 <!ENTITY emailLabel.label "El. pašto adresas:">
 <!ENTITY emailLabel.accesskey "E">
-<!ENTITY emailDesc.label "Surinkite savo elektroninio pašto adresą ">
-<!-- LOCALIZATION NOTE (emailExample.label) : do not translate "user@example.net" in below line -->
-<!ENTITY emailExample.label "(pvz., vardas@pvz.lt).">
 
 <!-- Entities for Server page -->
 
 <!ENTITY serverTitle.label "Informacija apie serverius">
-<!ENTITY incomingServerTitle.label "Laiškų gavimo serveris">
 <!ENTITY incomingServerTypeDesc.label "Pasirinkite laiškų gavimo serverio tipą.">
-<!ENTITY incomingServerTypeLabel.label "Serverio tipas:">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServerNameDesc.label "Surinkite laiškų gavimo serverio vardą (pvz., julius.ktl.mii.lt).">
 <!ENTITY incomingServerLabel.label "Laiškų gavimo serveris:">
 <!ENTITY incomingServerLabel.accesskey "s">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Surinkite naujienų serverio (NNTP) vardą (pvz., news.osf.lt).">
-<!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
-<!ENTITY smtpServerTitle.label "Laiškų išsiuntimo serveris (SMTP)">
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY smtpServerDesc.label "Surinkite laiškų išsiuntimo serverio (SMTP) vardą (pvz., mail.takas.lt).">
 <!ENTITY smtpServerLabel.label "Laiškų išsiuntimo serveris:">
@@ -93,7 +86,6 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY nntpType.label "Naujienų serveris">
 
 <!-- for when the user has an SMTP server pre-configured -->
 <!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
@@ -136,7 +128,6 @@
 <!ENTITY accnameTitle.label "Paskyros pavadinimas">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Surinkite paskyros pavadinimą. Tai gali būti el. pašto adresas, interneto paslaugų teikėjo vardas arba bet koks Jūsų pasirinktas vardas (pvz., „Darbas“, „Namai“).">
-<!ENTITY accnameExample.label "Pavyzdžiui, „Litnet“,  „vardas@pvz.lt“">
 <!ENTITY accnameLabel.label "Paskyros pavadinimas:">
 <!ENTITY accnameLabel.accesskey "v">
 

@@ -52,9 +52,6 @@
 <!ENTITY filterActionDesc.label "atlikti šiuos veiksmus:">
 <!ENTITY filterActionDesc.accesskey "v">
 
-<!ENTITY newFolderButton.label "Naujas aplankas">
-<!ENTITY newFolderButton.accesskey "N">
-
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Perkelti į aplanką:">
 <!ENTITY copyMessage.label "Nukopijuoti į aplanką:">

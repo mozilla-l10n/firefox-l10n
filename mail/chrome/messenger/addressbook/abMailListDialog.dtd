@@ -21,6 +21,9 @@
 
  Contributor(s):
    James Green <jg@cyberstorm.demon.co.uk>
+	Gintautas Grigas <grigas@ktl.mii.lt>
+	Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+	Rimas Kudelis <rq@akl.lt>
 
  Alternatively, the contents of this file may be used under the terms of
  either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -46,7 +49,6 @@
 <!ENTITY ListDescription.label "Aprašas:">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label "Surinkite arba atvilkite norimus į sąrašą įtraukti adresus:">
-<!ENTITY RemoveButton.label "Pašalinti">
 <!ENTITY UpButton.label	"Pakelti">
 <!ENTITY DownButton.label "Nuleisti">
 

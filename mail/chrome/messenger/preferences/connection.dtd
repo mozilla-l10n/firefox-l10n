@@ -45,10 +45,6 @@
 <!ENTITY autoTypeRadio.accesskey       "A">
 <!ENTITY reload.label                  "Atsiųsti iš naujo">
 <!ENTITY reload.accesskey              "u">
-<!ENTITY ftp.label                     "FTP įgaliotasis serveris:">
-<!ENTITY ftp.accesskey                 "F">
-<!ENTITY gopher.label                  "„Gopher“ įgaliotasis serveris:">
-<!ENTITY gopher.accesskey              "G">
 <!ENTITY http.label                    "HTTP įgaliotasis serveris:">
 <!ENTITY http.accesskey                "H">
 <!ENTITY ssl.label                     "SSL įgaliotasis serveris:">

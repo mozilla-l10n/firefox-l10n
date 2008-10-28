@@ -33,13 +33,6 @@
 
 <!ENTITY securitySettings.label "Saugumo nuostatos">
 <!ENTITY serverSettings.label "Serverio nuostatos">
-<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
-<!ENTITY popServer.label "POP">
-<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
-<!ENTITY imapServer.label "IMAP">
-<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
-<!ENTITY newsServer.label "Naujienų serveris (NNTP)">
-<!ENTITY webmail.label "Žiniatinklio pašto paskyra">
 <!ENTITY serverType.label "Serverio tipas:">
 <!ENTITY serverName.label "Serverio vardas:">
 <!ENTITY serverName.accesskey "d">
@@ -81,10 +74,7 @@
 <!ENTITY deleteOnServer2.accesskey "k">
 <!ENTITY downloadOnBiff.label "Jei patikrinus paštą rasta laiškų, tai juos atsiųsti">
 <!ENTITY downloadOnBiff.accesskey "J">
-<!ENTITY hostname.label "Serverio vardas">
 <!ENTITY username.label "Abonento vardas:">
-<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
-<!ENTITY popServerTitle.label "Informacija apie POP serverį">
 <!ENTITY deleteMessagePrefix.label "Šalintiną laišką:">
 <!ENTITY modelMoveToTrash.label "perkelti į šiukšlinę">
 <!ENTITY modelMoveToTrash.accesskey "š">

@@ -51,5 +51,3 @@
 <!ENTITY  chooseFolder.accesskey              "P">
 <!ENTITY  saveToAskMe.label                   "klausti, kur įrašyti">
 <!ENTITY  saveToAskMe.accesskey               "k">
-<!ENTITY  usePlugin.label                     "naudoti papildinį:">
-<!ENTITY  usePlugin.accesskey                 "n">

@@ -91,7 +91,6 @@
 <!ENTITY pasteCmd.key                                   "V">
 <!ENTITY pasteCmd.accesskey                             "d">
 <!ENTITY deleteCmd.label                                "Pašalinti">
-<!ENTITY deleteCmd.key                                  "D">
 <!ENTITY deleteCmd.accesskey                            "š">
 <!ENTITY deleteAbCmd.label                              "Pašalinti adresų knygą">
 <!ENTITY deleteCardCmd.label                            "Pašalinti kortelę">
@@ -149,7 +148,6 @@
 <!ENTITY exportCmd.label                                "Eksportas…">
 <!ENTITY exportCmd.accesskey                            "E">
 <!ENTITY preferencesCmd.label                           "Nuostatos…">
-<!ENTITY preferencesCmd.key                             "O">
 <!ENTITY preferencesCmd.accesskey                       "N">
 <!ENTITY preferencesCmdUnix.label                       "Nuostatos">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">

@@ -13,6 +13,7 @@
    -
    - Contributor(s):
    -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+	-   Rimas Kudelis <rq@akl.lt>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -33,8 +34,6 @@
 <!ENTITY alwaysAsk.accesskey          "K">
 <!ENTITY neverAsk.label               "Visus priedus įrašyti į:">
 <!ENTITY neverAsk.accesskey           "V">
-<!ENTITY desktop.label                "darbalaukį">
-<!ENTITY downloads.label              "atsiuntimų aplanką">
 <!ENTITY chooseFolderWin.label        "Parinkti…">
 <!ENTITY chooseFolderWin.accesskey    "P">
 <!ENTITY chooseFolderMac.label        "Parinkti…">
@@ -45,10 +44,3 @@
 <!ENTITY configureActions.label       "Rodyti ir taisyti veiksmus…">
 <!ENTITY configureActions.accesskey   "R">
 <!ENTITY fileTypesDescription.label   "Programa gali automatiškai įrašyti ar atverti tam tikrų tipų priedus">
-
-<!ENTITY fileTypeColName.label        "Failo tipas">
-<!ENTITY fileHandlerColName.label     "Programa">
-<!ENTITY editFileHandler.label        "Keisti veiksmą…">
-<!ENTITY editFileHandler.accesskey    "k">
-<!ENTITY removeFileHandler.label      "Pašalinti">
-<!ENTITY removeFileHandler.accesskey  "š">

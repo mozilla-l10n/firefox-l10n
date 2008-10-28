@@ -56,7 +56,6 @@
 <!ENTITY messageIdField2.label "laiško ID ">
 <!ENTITY inReplyToField2.label "atsakymas į ">
 <!ENTITY originalWebsite2.label "svetainė ">
-<!ENTITY saveAll.label "Įrašyti visus…">
 
 <!ENTITY editMessageDescription.label "Tai – laiško juodraštis">
 <!ENTITY editMessageButton.label "Taisyti…">

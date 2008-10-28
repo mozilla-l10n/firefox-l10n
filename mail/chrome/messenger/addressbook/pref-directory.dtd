@@ -20,6 +20,9 @@
  the Initial Developer. All Rights Reserved.
 
  Contributor(s):
+   Gintautas Grigas <grigas@ktl.mii.lt>
+	Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+	Rimas Kudelis <rq@akl.lt>
 
  Alternatively, the contents of this file may be used under the terms of
  either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -36,15 +39,12 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
-<!ENTITY pref.ldap.window.title              "LDAP katalogų serveriai">
-<!ENTITY directory.label           "Pridėti katalogą">
+<!ENTITY pref.ldap.window.title    "LDAP katalogų serveriai">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "LDAP katalogų serveris:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 <!ENTITY directoriesText.label     "Pasirinkite katalogų serverį:">
 <!ENTITY directoriesText.accesskey "p">
-<!-- LOCALIZATION NOTE (autocomplete.title) : do not translate "LDAP" in below line -->
-<!ENTITY autocomplete.title        "LDAP katalogų serveris">
 <!ENTITY addDirectory.label        "Pridėti…">
 <!ENTITY addDirectory.accesskey    "d">
 <!ENTITY editDirectory.label       "Taisyti…">

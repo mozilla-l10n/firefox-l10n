@@ -37,7 +37,6 @@
 <!ENTITY  language.label                          "Kalbų grupė:">
 <!ENTITY  language.accesskey                      "K">
 
-<!ENTITY  typefaces.label                         "Šriftas">
 <!ENTITY  sizes.label                             "Dydis (taškais)">
 <!ENTITY  proportionalSize.accesskey              "D">
 <!ENTITY  monospaceSize.accesskey                 "y">
@@ -51,8 +50,6 @@
 <!ENTITY  sans-serif.accesskey                    "b">
 <!ENTITY  monospace.label                         "Lygiaplotis:">
 <!ENTITY  monospace.accesskey                     "L">
-
-<!ENTITY  fontsize.units                          "taškų">
 
 <!ENTITY  font.langGroup.latin1                   "Vakarų Europos">
 <!ENTITY  font.langGroup.latin2                   "Vidurio Europos">
@@ -90,8 +87,6 @@
 <!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Su užraitais">
 <!ENTITY  useDefaultFontSansSerif.label           "Be užraitų">
-
-<!ENTITY  newLanguages.label                      "Nauja kalba gali būti įtraukta iš kalbų skydelio.">
 
 <!ENTITY  useDocumentFonts.label                  "Naudoti šriftus iš laiško bei čia patikslintus, nepaisant nurodymų lauke „Įvairiaplotis“.">
 <!ENTITY  useDocumentFonts.accesskey              "N">
