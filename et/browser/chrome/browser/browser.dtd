@@ -235,8 +235,8 @@
 <!ENTITY viewPageInfoCmd.accesskey              "i">
 <!ENTITY viewFrameInfoCmd.label                 "Vaata paneeli infot">
 <!ENTITY viewFrameInfoCmd.accesskey             "i">
-<!ENTITY showImageCmd.label                     "Näita pilti">
-<!ENTITY showImageCmd.accesskey                 "l">
+<!ENTITY reloadImageCmd.label                   "Laadi pilt uuesti">
+<!ENTITY reloadImageCmd.accesskey               "L">
 <!ENTITY viewImageCmd.label                     "Vaata pilti">
 <!ENTITY viewImageCmd.accesskey                 "t">
 <!ENTITY viewBGImageCmd.label                   "Vaata taustapilti">
