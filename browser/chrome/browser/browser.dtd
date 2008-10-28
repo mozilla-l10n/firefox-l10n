@@ -233,8 +233,8 @@
 <!ENTITY viewPageInfoCmd.accesskey    "V">
 <!ENTITY viewFrameInfoCmd.label       "Vis informasjon om rammen">
 <!ENTITY viewFrameInfoCmd.accesskey   "V">
-<!ENTITY showImageCmd.label           "Last inn bilde">
-<!ENTITY showImageCmd.accesskey       "L">
+<!ENTITY reloadImageCmd.label         "Oppdater bilde">
+<!ENTITY reloadImageCmd.accesskey     "l">
 <!ENTITY viewImageCmd.label           "Vis bilde">
 <!ENTITY viewImageCmd.accesskey       "V">
 <!ENTITY viewBGImageCmd.label         "Vis bakgrunnsbilde">

@@ -22,9 +22,8 @@
 <!ENTITY printButton.tooltip            "Skriv ut denne siden">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY searchtab.label                "Søk">
-<!ENTITY searchtab.accesskey            "S">
-<!ENTITY searchClose.tooltip            "Lukk søkeresultater">
+<!ENTITY search.emptytext               "Søk">
+<!ENTITY searchHeader.label             "Søkeresultater">
 <!ENTITY toctab.label                   "Innhold">
 <!ENTITY toctab.accesskey               "n">
 
