@@ -40,7 +40,7 @@
 <!ENTITY            deleteButton.accesskey "U">
 
 <!-- manager entities -->
-<!ENTITY            pmDescription.label    "&brandShortName; przechowuje informacje o Twoich ustawieniach i preferencjach w Twoim katalogu profilu.">
+<!ENTITY            pmDescription.label    "&brandShortName; przechowuje informacje o Twoich ustawieniach i preferencjach w profilu.">
 
 <!ENTITY            offlineState.label    "Pracuj w trybie offline">
 <!ENTITY            offlineState.accesskey "P">
