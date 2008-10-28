@@ -22,11 +22,10 @@
 <!ENTITY printButton.tooltip             "Tulosta sivu">
 <!ENTITY closeWindow.commandkey          "W">
 
-<!ENTITY searchtab.label    	  	 "Etsi">
-<!ENTITY searchtab.accesskey             "E">
-<!ENTITY searchClose.tooltip            "Sulje hakutulokset">
-<!ENTITY toctab.label       	  	 "Sisällysluettelo">
-<!ENTITY toctab.accesskey                "S">
+<!ENTITY search.emptytext               "Etsi">
+<!ENTITY searchHeader.label             "Hakutulokset">
+<!ENTITY toctab.label                   "Sisällys">
+<!ENTITY toctab.accesskey               "S">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
