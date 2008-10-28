@@ -1,0 +1,143 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Garth Smedley <garths@oeone.com>
+   -                 Mike Potter <mikep@oeone.com>
+   -                 Chris Charabaruk <coldacid@meldstar.com>
+   -                 Matthew Willis <mattwillis@gmail.com>
+   -                 Stefan Sitter <ssitter@googlemail.com>
+   -                 Berend Cornelius <berend.cornelius@sun.com>
+   -                 Philipp Kewisch <mozilla@kewis.ch>
+   -                 Simon Paquet <bugzilla@babylonsounds.com>
+   -   Iacopo Benesperi
+   -   
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY calendar.open.file.label "Apri file calendario…">
+<!ENTITY calendar.open.file.key "A">
+<!ENTITY calendar.open.file.accesskey "A">
+<!ENTITY event.edit.event "Modifica selezione…">
+<!ENTITY event.edit.event.key "E">
+<!ENTITY event.edit.event.accesskey "M">
+<!ENTITY event.delete.event "Elimina eventi selezionati">
+<!ENTITY event.delete.event.accesskey "E">
+<!ENTITY event.delete.tasks "Elimina attività selezionate">
+<!ENTITY event.delete.tasks.accesskey "v">
+<!ENTITY calendar.pagesetup.label "Imposta pagina…">
+<!ENTITY calendar.pagesetup.accesskey "o">
+<!ENTITY calendar.subscribe.label "Sottoscrivi un calendario remoto…">
+<!ENTITY calendar.subscribe.accesskey "r">
+<!ENTITY calendar.reloadserver.label "Ricarica calendari remoti">
+<!ENTITY calendar.reloadserver.key "R">
+<!ENTITY calendar.reloadserver.accesskey "d">
+<!ENTITY calendar.publish.calendar.label "Pubblica calendario…">
+<!ENTITY calendar.publish.calendar.accesskey "P">
+<!ENTITY calendar.publish.selection.label "Pubblica selezione…">
+<!ENTITY calendar.publish.selection.accesskey "z">
+<!ENTITY calendar.quit.label "Esci">
+<!ENTITY calendar.quit.accesskey "E">
+<!ENTITY calendar.quit.key "Q">
+<!ENTITY calendar.quit.label.mac "Chiudi &brandShortName;">
+<!ENTITY calendar.exit.label "Esci">
+<!ENTITY calendar.exit.accesskey "E">
+<!ENTITY calendar.undo.label "Annulla">
+<!ENTITY calendar.undo.key "Z">
+<!ENTITY calendar.undo.accesskey "A">
+<!ENTITY calendar.redo.label "Ripristina">
+<!ENTITY calendar.redo.key "Y">
+<!ENTITY calendar.redo.accesskey "R">
+<!ENTITY calendar.cut.label "Taglia">
+<!ENTITY calendar.cut.key "X">
+<!ENTITY calendar.cut.accesskey "T">
+<!ENTITY calendar.copy.label "Copia">
+<!ENTITY calendar.copy.key "C">
+<!ENTITY calendar.copy.accesskey "C">
+<!ENTITY calendar.paste.label "Incolla">
+<!ENTITY calendar.paste.key "V">
+<!ENTITY calendar.paste.accesskey "n">
+<!ENTITY calendar.selectall.label "Seleziona tutto">
+<!ENTITY calendar.selectall.key "A">
+<!ENTITY calendar.selectall.accesskey "S">
+<!ENTITY toolbarsMenu.label "Barre degli strumenti">
+<!ENTITY toolbarsMenu.accesskey "B">
+<!ENTITY showStatusBarCmd.label "Barra di stato">
+<!ENTITY showStatusBarCmd.accesskey "d">
+<!ENTITY showTaskBoxCmd.label "Lista attività">
+<!ENTITY showTaskBoxCmd.accesskey "L">
+<!ENTITY calendar.fullscreen.label "Schermo intero">
+<!ENTITY calendar.fullscreen.accesskey "o">
+<!ENTITY calendar.addons.label "Componenti aggiuntivi">
+<!ENTITY calendar.addons.accesskey "n">
+<!ENTITY goMenu.label "Vai">
+<!ENTITY goMenu.accesskey "a">
+<!ENTITY goDateCmd.label "Vai alla data">
+<!ENTITY goDateCmd.accesskey "d">
+<!ENTITY toolsMenu.label "Strumenti">
+<!ENTITY toolsMenu.accesskey "S">
+<!ENTITY errorConsoleCmd.label "Console errori">
+<!ENTITY errorConsoleCmd.accesskey "C">
+<!ENTITY helpMenu.label "?">
+<!ENTITY helpMenu.accesskey "?">
+<!ENTITY helpMenuWin.label "?">
+<!ENTITY helpMenuWin.accesskey "?">
+<!ENTITY fileMenu.label "File">
+<!ENTITY fileMenu.accesskey "F">
+<!ENTITY editMenu.label "Modifica">
+<!ENTITY editMenu.accesskey "M">
+<!ENTITY optionsCmd.label "Opzioni…">
+<!ENTITY optionsCmd.accesskey "O">
+<!ENTITY preferencesCmd.label "Preferenze">
+<!ENTITY preferencesCmd.accesskey "P">
+<!ENTITY preferencesCmdMac.label "Preferenze…">
+<!ENTITY preferencesCmdMac.commandkey ",">
+<!ENTITY preferencesCmdMac.modifiers "accel">
+<!ENTITY viewMenu.label "Visualizza">
+<!ENTITY viewMenu.accesskey "V">
+<!ENTITY releaseCmd.label "Note di rilascio">
+<!ENTITY releaseCmd.accesskey "N">
+<!ENTITY aboutCmd.label "Informazioni su &brandFullName;">
+<!ENTITY aboutCmd.accesskey "o">
+<!ENTITY updateCmd.label "Controlla gli aggiornamenti…">
+<!ENTITY updateCmd.accesskey "a">
+<!ENTITY windowMenu.label "Finestra">
+<!ENTITY minimizeWindow.label "Contrai">
+<!ENTITY zoomWindow.label "Zoom">
+<!ENTITY minimizeWindow.key "C">
+<!ENTITY bringAllToFront.label "Porta tutto in primo piano">
+<!ENTITY servicesMenuMac.label "Servizi">
+<!ENTITY hideThisAppCmdMac.label "Nascondi &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey "N">
+<!ENTITY hideThisAppCmdMac.modifiers "accel">
+<!ENTITY hideOtherAppsCmdMac.label "Nascondi altri">
+<!ENTITY hideOtherAppsCmdMac.commandkey "N">
+<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
+<!ENTITY showAllAppsCmdMac.label "Mostra tutti">
