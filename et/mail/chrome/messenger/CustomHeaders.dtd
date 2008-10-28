@@ -1,0 +1,7 @@
+<!ENTITY window.title           "Kohandatud päised">
+<!ENTITY addButton.label        "Lisa">
+<!ENTITY addButton.accesskey    "L">
+<!ENTITY removeButton.label     "Eemalda">
+<!ENTITY removeButton.accesskey "E">
+<!ENTITY newMsgHeader.label     "Uus kirja päis:">
+<!ENTITY newMsgHeader.accesskey "k">
