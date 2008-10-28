@@ -707,11 +707,6 @@
 	 nc:link="using_priv_help.xhtml#cookies"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="cookies:privacy_levels_for"
-         nc:name="niveles de privacidad"
-	 nc:link="using_priv_help.xhtml#setting_privacy_levels"/>
-     </rdf:li>
-     <rdf:li>
        <rdf:Description ID="cookies:removing"
          nc:name="eliminar cookies"
 	 nc:link="using_priv_help.xhtml#removing_cookies"/>
@@ -1859,16 +1854,6 @@
 	 nc:link="privacy_help.xhtml#internet_address"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="privacy:P3P_levels"
-         nc:name="niveles P3P"
-	 nc:link="using_priv_help.xhtml#setting_privacy_levels"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="privacy:P3P_standard_and"
-         nc:name="est&#225;ndar P3P"
-	 nc:link="page_info_help.xhtml"/>
-     </rdf:li>
-     <rdf:li>
        <rdf:Description ID="privacy:preferences"
          nc:name="preferencias de privacidad"
 	 nc:link="privsec_help.xhtml"/>
@@ -1877,11 +1862,6 @@
        <rdf:Description ID="privacy:protecting"
          nc:name="proteger su privacidad"
 	 nc:link="privacy_help.xhtml#using_privacy_features"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="privacy:settings"
-         nc:name="configuraci&#243;n de privacidad"
-	 nc:link="using_priv_help.xhtml#privacy_settings"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="privacy:viewing_site_policy"
