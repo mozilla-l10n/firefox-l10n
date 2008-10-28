@@ -48,7 +48,7 @@
 
 <!ENTITY newevent.from.label         "Des de" >
 <!ENTITY newevent.to.label           "fins a" >
-<!ENTITY newevent.attendees.sendEmail.label "Envia les invitacions als assistents per correu electrònic">
+<!ENTITY newevent.attendees.notify.label "Invita als assistents">
 
 <!ENTITY newevent.status.label 		   "Estat">
 <!ENTITY newevent.status.accesskey 	   "s" >
