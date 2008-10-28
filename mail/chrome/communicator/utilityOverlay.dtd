@@ -1,0 +1,61 @@
+<!-- these things need to move into utilityOverlay.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+
+<!ENTITY fileMenu.label                   "Fail">
+<!ENTITY fileMenu.accesskey               "F">
+<!ENTITY newMenu.label                    "Uus">
+<!ENTITY newMenu.accesskey                "U">
+
+<!ENTITY editMenu.label                   "Redigeerimine">
+<!ENTITY editMenu.accesskey               "R">
+<!ENTITY undoCmd.label                    "Võta tagasi">
+<!ENTITY undoCmd.key                      "Z">
+<!ENTITY undoCmd.accesskey                "T">
+<!ENTITY redoCmd.label                    "Tee uuesti">
+<!ENTITY redoCmd.key                      "Y">
+<!ENTITY redoCmd.accesskey                "S">
+<!ENTITY cutCmd.label                     "Lõika">
+<!ENTITY cutCmd.key                       "X">
+<!ENTITY cutCmd.accesskey                 "L">
+<!ENTITY copyCmd.label                    "Kopeeri">
+<!ENTITY copyCmd.key                      "C">
+<!ENTITY copyCmd.accesskey                "K">
+<!ENTITY pasteCmd.label                   "Aseta">
+<!ENTITY pasteCmd.key                     "V">
+<!ENTITY pasteCmd.accesskey               "A">
+<!ENTITY deleteCmd.label                  "Kustuta">
+<!ENTITY deleteCmd.accesskey              "K">
+<!ENTITY selectAllCmd.label               "Vali kõik">
+<!ENTITY selectAllCmd.key                 "A">
+<!ENTITY selectAllCmd.accesskey           "a">
+<!ENTITY preferencesCmd.label             "Valikud...">
+<!ENTITY preferencesCmd.accesskey         "V">
+<!ENTITY preferencesCmdUnix.label         "Eelistused">
+<!ENTITY preferencesCmdUnix.accesskey     "E">
+
+<!ENTITY viewMenu.label                   "Vaade">
+<!ENTITY viewMenu.accesskey               "V">
+<!ENTITY viewToolbarsMenu.label           "Tööriistaribad">
+<!ENTITY viewToolbarsMenu.accesskey       "T">
+<!ENTITY showTaskbarCmd.label             "Olekuriba">
+<!ENTITY showTaskbarCmd.accesskey         "l">
+
+<!ENTITY proxy.label                      "Puhverserveri häälestamine...">
+<!ENTITY proxy.accesskey                  "r">
+
+<!ENTITY closeCmd.label                   "Sulge">
+<!ENTITY closeCmd.key                     "W">
+<!ENTITY closeCmd.accesskey               "u">
+
+<!ENTITY closeWindow.label                "Sulge aken">
+
+<!ENTITY quitApplicationCmd.label         "Välju">
+<!ENTITY quitApplicationCmd.key           "Q">
+<!ENTITY quitApplicationCmd.accesskey     "j">
+
+<!ENTITY quitApplicationCmdUnix.label     "Välju">
+<!ENTITY quitApplicationCmdUnix.accesskey "V">
+
+<!ENTITY quitApplicationCmdMac.label      "Välju &brandShortName;ist">
+<!ENTITY quitApplicationCmdMac.accesskey  "V">

@@ -1,0 +1,72 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label        "Otsitakse kaustast:">
+<!ENTITY searchHeading.accesskey    "i">
+<!ENTITY searchSubfolders.label     "Otsitakse ka alamkaustadest">
+<!ENTITY searchSubfolders.accesskey "m">
+<!ENTITY resetButton.label          "Puhasta">
+<!ENTITY resetButton.accesskey      "P">
+<!ENTITY openButton.label           "Ava">
+<!ENTITY openButton.accesskey       "v">
+<!ENTITY deleteButton.label         "Kustuta">
+<!ENTITY deleteButton.accesskey     "K">
+<!ENTITY searchDialogTitle.label    "Kirjade otsimine">
+<!ENTITY results.label              "Tulemused">
+<!ENTITY fileHereMenu.label         "Salvesta siia">
+<!ENTITY fileHereMenu.accesskey     "S">
+<!ENTITY fileButton.label           "Fail">
+<!ENTITY fileButton.accesskey       "i">
+<!ENTITY closeCmd.key               "W">
+<!ENTITY goToFolderButton.label     "Ava kirja sisaldav kaust">
+<!ENTITY goToFolderButton.accesskey "v">
+<!ENTITY saveAsVFButton.label       "Salvesta otsing kaustana">
+<!ENTITY saveAsVFButton.accesskey   "v">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label      "Otsitakse:">
+<!ENTITY abSearchHeading.accesskey  "t">
+<!ENTITY propertiesButton.label     "Omadused">
+<!ENTITY propertiesButton.accesskey "O">
+<!ENTITY composeButton.label        "Kirjuta">
+<!ENTITY composeButton.accesskey    "K">
+<!ENTITY abSearchDialogTitle.label  "Laiendatud otsing aadressiraamatust">
+
+<!-- Thread Pane -->
+<!ENTITY threadColumn.label         "Lõim">
+<!ENTITY fromColumn.label           "Saatja">
+<!ENTITY recipientColumn.label      "Saaja">
+<!ENTITY subjectColumn.label        "Teema">
+<!ENTITY dateColumn.label           "Kuupäev">
+<!ENTITY priorityColumn.label       "Tähtsus">
+<!ENTITY tagsColumn.label           "Sildid">
+<!ENTITY accountColumn.label        "Konto">
+<!ENTITY statusColumn.label         "Olek">
+<!ENTITY sizeColumn.label           "Suurus">
+<!ENTITY junkStatusColumn.label     "Rämpsposti olek">
+<!ENTITY unreadColumn.label         "Lugemata">
+<!ENTITY totalColumn.label          "Kokku">
+<!ENTITY readColumn.label           "Loetus">
+<!ENTITY receivedColumn.label       "Saabumise aeg">
+<!ENTITY starredColumn.label        "Tähistatus">
+<!ENTITY locationColumn.label       "Asukoht">
+<!ENTITY idColumn.label             "Saabumise kuupäev">
+
+<!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser.tooltip      "Klõpsa näidatavate veergude valimiseks">
+<!ENTITY threadColumn.tooltip       "Klõpsa, et kuvada kirju lõimedena">
+<!ENTITY fromColumn.tooltip         "Klõpsa, et sorteerida saatja järgi">
+<!ENTITY recipientColumn.tooltip    "Klõpsa, et sorteerida saaja järgi">
+<!ENTITY subjectColumn.tooltip      "Klõpsa, et sorteerida teema järgi">
+<!ENTITY dateColumn.tooltip         "Klõpsa, et sorteerida kuupäeva järgi">
+<!ENTITY priorityColumn.tooltip     "Klõpsa, et sorteerida tähtsuse järgi">
+<!ENTITY tagsColumn.tooltip         "Klõpsa, et sorteerida siltide järgi">
+<!ENTITY accountColumn.tooltip      "Klõpsa, et sorteerida konto järgi">
+<!ENTITY statusColumn.tooltip       "Klõpsa, et sorteerida oleku järgi">
+<!ENTITY sizeColumn.tooltip         "Klõpsa, et sorteerida suuruse järgi">
+<!ENTITY junkStatusColumn.tooltip   "Klõpsa, et sorteerida rämpspostiks olemise järgi">
+<!ENTITY unreadColumn.tooltip       "Lugemata kirjade arv lõimes">
+<!ENTITY totalColumn.tooltip        "Lõimes olevate kirjade koguarv">
+<!ENTITY readColumn.tooltip         "Klõpsa, et sorteerida loetuse järgi">
+<!ENTITY receivedColumn.tooltip     "Klõpsa, et sorteerida saabumise aja järgi">
+<!ENTITY starredColumn.tooltip      "Klõpsa, et sorteerida tähistuse järgi">
+<!ENTITY locationColumn.tooltip     "Klõpsa, et sorteerida asukoha järgi">
+<!ENTITY idColumn.tooltip           "Klõpsa, et sorteerida kättesaamise järgi">

@@ -1,0 +1,9 @@
+<!ENTITY aboutDialog.title   "&brandFullName;i teave">
+<!ENTITY credits.label       "Autorid">
+<!ENTITY credits.accesskey   "A">
+<!ENTITY aboutLink.label     "&lt; &brandFullName;i teave">
+<!ENTITY aboutLink.accesskey "t">
+<!ENTITY aboutVersion        "versioon">
+<!ENTITY copyrightText       "&#169;1998-2006 autorid. Kõik õigused kaitstud. Mozilla Thunderbird ja 
+                              Thunderbirdi logod on Mozilla Foundationi kaubamärgid.  Kõik õigused 
+                              kaitstud.">
