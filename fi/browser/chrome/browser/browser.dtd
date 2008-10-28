@@ -233,8 +233,8 @@
 <!ENTITY viewPageInfoCmd.accesskey     "o">
 <!ENTITY viewFrameInfoCmd.label        "Näytä kehyksen tiedot">
 <!ENTITY viewFrameInfoCmd.accesskey    "o">
-<!ENTITY showImageCmd.label           "Lataa kuva">
-<!ENTITY showImageCmd.accesskey       "L">
+<!ENTITY reloadImageCmd.label         "Lataa kuva">
+<!ENTITY reloadImageCmd.accesskey     "L">
 <!ENTITY viewImageCmd.label            "Näytä kuva">
 <!ENTITY viewImageCmd.accesskey        "N">
 <!ENTITY viewBGImageCmd.label          "Näytä taustakuva">
@@ -247,8 +247,8 @@
 <!ENTITY bookmarkThisLinkCmd.accesskey  "A">
 <!ENTITY bookmarkThisFrameCmd.label      "Lisää kehyssivu kirjanmerkkeihin">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "A">
-<!ENTITY sendPageCmd.label             "Postita linkki…">
-<!ENTITY sendPageCmd.accesskey         "P">
+<!ENTITY sendPageCmd.label             "Lähetä linkki…">
+<!ENTITY sendPageCmd.accesskey         "L">
 <!ENTITY savePageCmd.label             "Tallenna sivu nimellä…">
 <!ENTITY savePageCmd.accesskey         "n">
 <!-- alternate for content area context menu -->
@@ -260,12 +260,20 @@
 <!ENTITY printFrameCmd.accesskey      "u">
 <!ENTITY saveLinkCmd.label             "Tallenna kohde levylle…">
 <!ENTITY saveLinkCmd.accesskey         "T">
-<!ENTITY sendLinkCmd.label             "Postita linkki…">
-<!ENTITY sendLinkCmd.accesskey         "P">
+<!ENTITY sendLinkCmd.label             "Lähetä linkki…">
+<!ENTITY sendLinkCmd.accesskey         "L">
 <!ENTITY saveImageCmd.label            "Tallenna kuva nimellä…">
-<!ENTITY saveImageCmd.accesskey        "k">
-<!ENTITY sendImageCmd.label            "Postita kuva…">
-<!ENTITY sendImageCmd.accesskey        "s">
+<!ENTITY saveImageCmd.accesskey        "e">
+<!ENTITY saveVideoCmd.label           "Tallenna video nimellä…">
+<!ENTITY saveVideoCmd.accesskey       "e">
+<!ENTITY saveAudioCmd.label           "Tallenna äänite nimellä…">
+<!ENTITY saveAudioCmd.accesskey       "e">
+<!ENTITY sendImageCmd.label            "Lähetä kuva…">
+<!ENTITY sendImageCmd.accesskey        "L">
+<!ENTITY sendVideoCmd.label           "Lähetä video…">
+<!ENTITY sendVideoCmd.accesskey       "L">
+<!ENTITY sendAudioCmd.label           "Lähetä äänite…">
+<!ENTITY sendAudioCmd.accesskey       "L">
 <!ENTITY copyLinkCmd.label             "Kopioi linkin osoite">
 <!ENTITY copyLinkCmd.accesskey         "K">
 <!ENTITY copyLinkTextCmd.label        "Kopioi linkkiteksti">
@@ -274,6 +282,10 @@
 <!ENTITY copyImageCmd.accesskey        "p">
 <!ENTITY copyImageContentsCmd.label    "Kopioi kuva">
 <!ENTITY copyImageContentsCmd.accesskey   "u">
+<!ENTITY copyVideoURLCmd.label        "Kopioi videon osoite">
+<!ENTITY copyVideoURLCmd.accesskey    "p">
+<!ENTITY copyAudioURLCmd.label        "Kopioi äänitteen sijainti">
+<!ENTITY copyAudioURLCmd.accesskey    "p">
 <!ENTITY blockImageCmd.accesskey        "E">
 <!ENTITY metadataCmd.label             "Ominaisuudet">
 <!ENTITY metadataCmd.accesskey         "O">
@@ -281,6 +293,21 @@
 <!ENTITY copyEmailCmd.accesskey        "s">
 <!ENTITY thisFrameMenu.label               "Tämä kehys">
 <!ENTITY thisFrameMenu.accesskey           "ä">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "Toista">
+<!ENTITY mediaPlay.accesskey         "T">
+<!ENTITY mediaPause.label            "Pysäytä">
+<!ENTITY mediaPause.accesskey        "y">
+<!ENTITY mediaMute.label             "Mykistä ääni">
+<!ENTITY mediaMute.accesskey         "V">
+<!ENTITY mediaUnmute.label           "Palauta ääni">
+<!ENTITY mediaUnmute.accesskey       "ä">
+<!ENTITY mediaShowControls.label     "Näytä säätimet">
+<!ENTITY mediaShowControls.accesskey "N">
+<!ENTITY mediaHideControls.label     "Piilota säätimet">
+<!ENTITY mediaHideControls.accesskey "P">
+
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
