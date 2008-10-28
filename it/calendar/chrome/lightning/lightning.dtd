@@ -50,8 +50,6 @@
 <!ENTITY lightning.menupopup.open.message.accesskey "M">
 <!ENTITY lightning.menupopup.open.calendar.label "File calendario…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey "c">
-<!ENTITY lightning.sidebar.invitations.label "Inviti">
-<!ENTITY lightning.sidebar.invitations.accesskey "I">
 <!ENTITY lightning.calendar.label "Calendario">
 <!ENTITY lightning.calendar.accesskey "C">
 <!ENTITY lightning.tasks.label "Attività">

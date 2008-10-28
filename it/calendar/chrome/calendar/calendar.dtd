@@ -44,27 +44,15 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY calendar.calendar.label "Calendario">
 <!ENTITY calendar.calendar.accesskey "C">
-<!ENTITY calendar.flat.topbar.choosedate "Vai alla data">
-<!ENTITY calendar.flat.topbar.dayview "Vista giorno">
-<!ENTITY calendar.dayview.accesskey "V">
-<!ENTITY calendar.flat.topbar.weekview "Vista settimana">
-<!ENTITY calendar.weekview.accesskey "m">
-<!ENTITY calendar.flat.topbar.monthview "Vista mese">
-<!ENTITY calendar.monthview.accesskey "e">
-<!ENTITY calendar.flat.topbar.multiweekview "Vista multi-settimana">
-<!ENTITY calendar.multiweekview.accesskey "u">
 <!ENTITY calendar.dayView.key "1">
 <!ENTITY calendar.weekView.key "2">
 <!ENTITY calendar.multiweekView.key "3">
 <!ENTITY calendar.monthView.key "4">
 <!ENTITY calendar.newtask.button.tooltip "Crea una nuova attività">
 <!ENTITY calendar.newevent.button.tooltip "Crea un nuovo evento">
-<!ENTITY calendar.delete.button.tooltip "Elimina l'evento selezionato">
 <!ENTITY calendar.edit.button.tooltip "Modifica l'evento selezionato">
 <!ENTITY calendar.unifinder.todoitems.label "Attività">
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Mostra attività completate">
-<!ENTITY calendar.calendartab.label "Data">
-<!ENTITY calendar.listofcalendarstab.label "Calendari">
 <!ENTITY calendar.today.button.label "Oggi">
 <!ENTITY calendar.tomorrow.button.label "Domani">
 <!ENTITY calendar.soon.button.label "Presto">
@@ -90,10 +78,8 @@
 <!ENTITY calendar.unifinder.tree.calendarname.label "Nome calendario">
 <!ENTITY calendar.unifinder.tree.duration.label "Scadenza">
 <!ENTITY calendar.unifinder.close.tooltip "Chiudi la ricerca e la lista degli eventi">
-<!ENTITY calendar.find.key "F">
 <!ENTITY calendar.today.button.tooltip "Vai a Oggi">
 <!ENTITY calendar.todaypane.button.tooltip "Visualizza pannello Oggi">
-<!ENTITY calendar.choosedate.button.tooltip "Scegli una data a cui andare">
 <!ENTITY calendar.unifinder.button.tooltip "Trova ed elenca eventi">
 <!ENTITY calendar.day.button.tooltip "Passa alla vista giorno">
 <!ENTITY calendar.week.button.tooltip "Passa alla vista settimana">
@@ -107,16 +93,7 @@
 <!ENTITY calendar.prevmonth.button.tooltip "Mese precedente">
 <!ENTITY calendar.newtask.button.label "Nuova attività">
 <!ENTITY calendar.newevent.button.label "Nuovo evento">
-<!ENTITY calendar.delete.button.label "Elimina">
 <!ENTITY calendar.edit.button.label "Modifica">
-<!ENTITY calendar.choosedate.button.label "Vai alla data">
-<!ENTITY calendar.cut.button.tooltip "Taglia">
-<!ENTITY calendar.copy.button.tooltip "Copia">
-<!ENTITY calendar.paste.button.tooltip "Incolla">
-<!ENTITY calendar.print.button.tooltip "Stampa calendario">
-<!ENTITY calendar.cut.button.label "Taglia">
-<!ENTITY calendar.copy.button.label "Copia">
-<!ENTITY calendar.paste.button.label "Incolla">
 <!ENTITY calendar.print.button.label "Stampa">
 <!ENTITY calendar.import.button.tooltip "Importa eventi da un file locale">
 <!ENTITY calendar.export.button.tooltip "Esporta eventi in un file locale">
@@ -128,8 +105,6 @@
 <!ENTITY calendar.subscribe.button.label "Sottoscrivi">
 <!ENTITY calendar.publish.button.label "Pubblica">
 <!ENTITY calendar.unifinder.button.label "Trova eventi">
-<!ENTITY calendar.remotereload.button.label "Ricarica">
-<!ENTITY calendar.remotereload.button.tooltip "Ricarica tutti i calendari remoti">
 <!ENTITY calendar.day.button.label "Giorno">
 <!ENTITY calendar.week.button.label "Settimana">
 <!ENTITY calendar.month.button.label "Mese">
@@ -142,15 +117,7 @@
 <!ENTITY calendar.completedtasks.checkbox.accesskey "M">
 <!ENTITY calendar.orientation.label "Ruota vista">
 <!ENTITY calendar.orientation.accesskey "R">
-<!ENTITY calendar.menu.options.close.key "W">
 <!ENTITY calendar.search.options.searchfor " contiene">
-<!ENTITY calendar.menu.numberofweeks.label "Numero di settimane">
-<!ENTITY calendar.menu.numberofweeks.accesskey "N">
-<!ENTITY calendar.menu.numberofweeks.2 "2 settimane">
-<!ENTITY calendar.menu.numberofweeks.3 "3 settimane">
-<!ENTITY calendar.menu.numberofweeks.4 "4 settimane">
-<!ENTITY calendar.menu.numberofweeks.5 "5 settimane">
-<!ENTITY calendar.menu.numberofweeks.6 "6 settimane">
 <!ENTITY calendar.list.header.label "Calendario">
 <!ENTITY calendar.task.filter.title.label "Mostra">
 <!ENTITY calendar.task.filter.all.label "Tutte">
@@ -179,14 +146,7 @@
 <!ENTITY calendar.task.category.button.tooltip "Assegna una categoria alle attività">
 <!ENTITY calendar.task.complete.button.tooltip "Segna le attività selezionate come completate">
 <!ENTITY calendar.task.priority.button.tooltip "Cambia la priorità">
-<!ENTITY calendar.task.delete.button.tooltip "Elimina l'attività selezionata">
 <!ENTITY statusText.label "Documento: fatto">
-<!ENTITY calendar.context.customize.label "Personalizza…">
-<!ENTITY calendar.context.customize.accesskey "P">
-<!ENTITY calendar.menu.customize.label "Personalizza…">
-<!ENTITY calendar.menu.customize.accesskey "P">
-<!ENTITY calendar.maintoolbar.name "Barra degli strumenti principale">
-<!ENTITY calendar.maintoolbar.accesskey "r">
 <!ENTITY calendar.context.modifyorviewitem.label "Apri">
 <!ENTITY calendar.context.modifyorviewitem.accesskey "A">
 <!ENTITY calendar.context.modifyorviewtask.label "Apri attività…">
@@ -305,8 +265,6 @@
 <!ENTITY calendarproperties.firealarms.label "Mostra allarmi">
 <!ENTITY calendarproperties.cache.label "Cache (SPERIMENTALE, richiede il riavvio)">
 <!ENTITY calendarproperties.enabled.label "Attiva questo calendario">
-<!ENTITY calendar.help.label "Contenuti guida">
-<!ENTITY calendar.help.accesskey "G">
 <!ENTITY calendar.publish.dialog.title "Pubblica calendario">
 <!ENTITY calendar.publish.url.label "URL di pubblicazione">
 <!ENTITY calendar.publish.publish.button "Pubblica">
@@ -327,4 +285,3 @@
 <!ENTITY calendar.error.number "Errore numero:">
 <!ENTITY calendar.error.description "Descrizione:">
 <!ENTITY calendar.error.title "Si è verificato un errore">
-<!ENTITY mainWindow.title "&brandFullName;">
