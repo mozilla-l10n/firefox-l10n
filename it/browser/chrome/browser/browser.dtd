@@ -179,8 +179,8 @@
 <!ENTITY viewPageInfoCmd.accesskey "f">
 <!ENTITY viewFrameInfoCmd.label "Visualizza informazioni riquadro">
 <!ENTITY viewFrameInfoCmd.accesskey "n">
-<!ENTITY showImageCmd.label "Mostra immagine">
-<!ENTITY showImageCmd.accesskey "M">
+<!ENTITY reloadImageCmd.label "Ricarica immagine">
+<!ENTITY reloadImageCmd.accesskey "R">
 <!ENTITY viewImageCmd.label "Visualizza immagine">
 <!ENTITY viewImageCmd.accesskey "V">
 <!ENTITY viewBGImageCmd.label "Visualizza immagine di sfondo">
