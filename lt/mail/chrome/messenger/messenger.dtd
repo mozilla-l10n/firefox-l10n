@@ -37,15 +37,12 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Aplankas…">
 <!ENTITY newFolderCmd.accesskey "n">
-<!ENTITY newTabCmd.label "Nauja kortelė">
-<!ENTITY newTabCmd.accesskey "k">
 <!ENTITY closeTabCmd.label "Užverti kortelę">
 <!ENTITY closeTabCmd.accesskey "U">
 <!ENTITY newVirtualFolderCmd.label "Paieška įrašant radinius…">
 <!ENTITY newVirtualFolderCmd.accesskey "e">
 <!ENTITY newAccountCmd.label "Pašto arba naujienų paskyra…">
 <!ENTITY newAccountCmd.accesskey "P">
-<!ENTITY openMessageMenu.label "Atverti">
 <!ENTITY openMessageFileCmd.label "Atverti įrašytą laišką…">
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY openAttachmentCmd.label "Priedai">
@@ -98,7 +95,6 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Spaudinio peržiūra">
 <!ENTITY printPreviewCmd.accesskey "ž">
-<!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "Puslapio nuostatos…">
 <!ENTITY printSetupCmd.accesskey "P">
 
@@ -162,8 +158,6 @@
 <!ENTITY messagePaneWide.accesskey "P">
 <!ENTITY messagePaneVertical.label "Vertikalus">
 <!ENTITY messagePaneVertical.accesskey "V">
-<!ENTITY threadPaneWide.label "Platus sąrašo polangis">
-<!ENTITY threadPaneWide.accesskey "a">
 <!ENTITY showMessageCmd.label "Laiško teksto polangis">
 <!ENTITY showMessageCmd.accesskey "L">
 
@@ -225,8 +219,6 @@
 <!ENTITY threads.accesskey "G">
 <!ENTITY allMsgsCmd.label "Visos">
 <!ENTITY allMsgsCmd.accesskey "v">
-<!ENTITY expandOrCollapseMenu.label "Išskleisti arba suskleisti">
-<!ENTITY expandOrCollapseMenu.accesskey "s">
 <!ENTITY expandAllThreadsCmd.label "Išskleisti visas gijas">
 <!ENTITY expandAllThreadsCmd.accesskey "I">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -288,10 +280,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.label "Laiško pirminis tekstas">
 <!ENTITY pageSourceCmd.accesskey "š">
 <!ENTITY pageSourceCmd.key "u">
-
-<!-- Search Menu -->
-<!ENTITY searchMenu.label "Paieška">
-<!ENTITY searchMenu.accesskey "P">
 
 <!ENTITY findMenu.label "Ieškoti">
 <!ENTITY findMenu.accesskey "e">
@@ -415,8 +403,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsReadCmd.label "Kaip skaitytą">
 <!ENTITY markAsReadCmd.accesskey "K">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "Kaip neskaitytą">
-<!ENTITY markAsUnreadCmd.accesskey "a">
 <!ENTITY markThreadAsReadCmd.label "Giją kaip skaitytą">
 <!ENTITY markThreadAsReadCmd.accesskey "G">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -443,7 +429,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "Langas">
-<!ENTITY windowMenu.accesskey "L">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Priemonės">
@@ -488,7 +473,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY printButton.label "Spausdinti">
 <!ENTITY stopButton.label "Stabdyti">
 <!ENTITY throbberItem.title "Aktyvumo rodiklis">
-<!ENTITY updatesItem.title "Naujinimai">
 <!ENTITY junkButton.label "Šlamštas">
 <!ENTITY notJunkButton.label "Ne šlamštas">
 <!ENTITY addressBookButton.label "Adresai">
@@ -500,7 +484,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Ieškoti laiškų…">
-<!ENTITY clearButton.tooltip "Išvalyti ieškinį ir parodyti visus laiškus">
 <!ENTITY getMsgButton.tooltip "Atsiųsti laiškus">
 <!ENTITY getAllNewMsgCmd.label "Atsiųsti visus laiškus">
 <!ENTITY getAllNewMsgCmd.accesskey "s">
@@ -574,8 +557,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Ieškoti: asmenvardyje arba el. p. adrese yra:">
 <!ENTITY SearchNameOrEmail.accesskey "I">
-<!ENTITY clearButton.label "Išvalyti">
-<!ENTITY clearButton.accesskey "v">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Tema">
@@ -598,7 +579,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY statusColumn.label "Būsena">
 <!ENTITY sizeColumn.label "Dydis">
 <!ENTITY junkStatusColumn.label "Šlamšto statusas">
-<!ENTITY linesColumn.label "Eilučių sk.">
 <!ENTITY unreadColumn.label "Neskaitytas">
 <!ENTITY totalColumn.label "Iš viso">
 <!ENTITY readColumn.label "Skaitytas">
@@ -659,8 +639,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrint.accesskey "S">
 <!ENTITY contextPrintPreview.label "Spaudinio peržiūra">
 <!ENTITY contextPrintPreview.accesskey "ž">
-<!ENTITY contextDelete.label "Pašalinti">
-<!ENTITY contextDelete.accesskey "š">
 
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "Šlamštas">
@@ -694,8 +672,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY CopyEmailAddress.accesskey "K">
 <!ENTITY CreateFilterFrom.label "Sukurti filtrą…">
 <!ENTITY CreateFilterFrom.accesskey "f">
-<!ENTITY BlockAddress.label "Blokuoti adresą">
-<!ENTITY BlockAddress.accesskey "B">
 <!ENTITY reportPhishingURL.label "Pranešti apie apgaulingą laišką">
 <!ENTITY reportPhishingURL.accesskey "P">
 

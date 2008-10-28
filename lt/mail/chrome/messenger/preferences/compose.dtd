@@ -33,9 +33,7 @@
 <!ENTITY itemGeneral.label                   "Bendrosios">
 <!ENTITY itemAutoComplete.label              "Laiškų adresavimas">
 <!ENTITY itemSpellCheck.label                "Rašybos tikrinimas">
-<!ENTITY itemSendFormat.label                "Siuntimo formatas">
 
-<!ENTITY forwardReply.label                   "Laiškų persiuntimas">
 <!ENTITY forwardMsg.label                     "Persiųsti laiškus:">
 <!ENTITY forwardMsg.accesskey                 "P">
 <!ENTITY inline.label                         "tiesiogiai">
@@ -57,7 +55,6 @@
 <!ENTITY restoreHTMLDefaults.label            "Atstatyti numatytąsias nuostatas">
 <!ENTITY restoreHTMLDefaults.accesskey        "A">
 
-<!ENTITY sendingMessagesHeader.label          "Laiškų rašymas">
 <!ENTITY spellCheck.label                     "Tikrinti rašybą prieš išsiunčiant laišką">
 <!ENTITY spellCheck.accesskey                 "T">
 <!ENTITY spellCheckInline.label               "Tikrinti rašybą rašant tekstą">
@@ -83,10 +80,7 @@
 <!ENTITY directoriesNone.label                 "Nėra">
 <!ENTITY editDirectories.label                 "Tvarkyti katalogus…">
 <!ENTITY editDirectories.accesskey             "T">
-<!ENTITY matchText.label                       "Jei adresas rastas adresų knygoje, tai:">
-<!ENTITY skipDirectory.label                   "neieškoti kataloge">
 
-<!ENTITY sendOptionsCaption.label              "Laiškų siuntimo ir HTML laiškų parinktys">
 <!ENTITY sendOptionsDescription.label          "Parinkite siunčiamų laiškų tekstų tipus:">
 <!ENTITY sendOptions.label                     "Siuntimo parinktys…">
 <!ENTITY sendOptions.accesskey                 "S">

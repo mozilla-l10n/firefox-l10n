@@ -20,6 +20,9 @@
  the Initial Developer. All Rights Reserved.
 
  Contributor(s):
+   Gintautas Grigas <grigas@ktl.mii.lt>
+	Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+	Rimas Kudelis <rq@akl.lt>
 
  Alternatively, the contents of this file may be used under the terms of
  either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -38,6 +41,3 @@
 <!ENTITY unreadColumn.label "Neskaitytų">
 <!ENTITY totalColumn.label "Iš viso">
 <!ENTITY folderSizeColumn.label "Dydis"> 
-<!ENTITY accounts.label "Paskyros">
-<!-- LOCALIZATION NOTE (accounts.img) : DONT_TRANSLATE -->
-<!ENTITY accounts.img "chrome://messenger/skin/local-mailhost.gif">

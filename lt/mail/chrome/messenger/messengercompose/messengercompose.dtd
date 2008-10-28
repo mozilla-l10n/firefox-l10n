@@ -106,7 +106,6 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "n">
 <!ENTITY deleteCmd.label "Pašalinti">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "š">
 <!ENTITY selectAllCmd.label "Pažymėti viską">
 <!ENTITY selectAllCmd.key "A">
@@ -129,7 +128,6 @@
 <!ENTITY viewToolbarsMenuNew.label "Priemonių juostos"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "j"> 
 <!ENTITY showCompositionToolbarCmd.label "Laiško kūrimo juosta">
-<!ENTITY showCompositionToolbarCmd.accesskey "P">
 <!ENTITY showFormattingBarCmd.label "Formatavimo juosta">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Būsenos">
@@ -204,7 +202,6 @@
 <!ENTITY accountManagerCmd.accesskey "u">
 <!ENTITY accountManagerCmdUnix.accesskey "u">
 <!ENTITY preferencesCmd.label "Nuostatos…">
-<!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "N">
 <!ENTITY preferencesCmdUnix.label       "Nuostatos">
 <!ENTITY preferencesCmdUnix.accesskey   "N">
@@ -252,9 +249,6 @@
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
 <!ENTITY SmileButton.tooltip "Įterpti jaustuką">
 <!ENTITY smiley1Cmd.label "Šypsena">
 <!ENTITY smiley2Cmd.label "Pyktis">

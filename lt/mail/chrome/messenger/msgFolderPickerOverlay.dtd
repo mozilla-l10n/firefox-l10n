@@ -39,14 +39,5 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Labels -->
-<!ENTITY subscribechoosethis.label			"pasirinkti šį naujienų serverį">
-<!ENTITY subscribeclickhere.label			"spustelėkite čia ir pasirinkite naujienų serverį">
-<!ENTITY newfolderchoosethis.label			"Pasirinkti pagrindiniu (gaubiančiu)">
-<!ENTITY newfolderclickhere.label			"Spustelėkite rodyklę">
-<!ENTITY renamefolderchoosethis.label			"Pasirinkti šį aplanką">
-<!ENTITY renamefolderclickhere.label			"spustelėkite čia ir pasirinkite aplanką">
-<!ENTITY filemessageschoosethis.label			"Pasirinkti šį aplanką">
-<!ENTITY filemessagesclickhere.label			"spustelėkite čia ir pasirinkite aplanką">
-<!ENTITY chooseaccountclickhere.label			"Spustelėkite čia ir pasirinkite paskyrą">
-<!ENTITY choosefolderclickhere.label			"Spustelėkite čia ir pasirinkite aplanką">
-<!ENTITY chooseserverToDeferTo.label      "spustelėkite čia ir pasirinkite paskyrą">
+<!ENTITY newfolderchoosethis.label	      "Pasirinkti pagrindiniu (gaubiančiu)">
+<!ENTITY filemessageschoosethis.label     "Pasirinkti šį aplanką">

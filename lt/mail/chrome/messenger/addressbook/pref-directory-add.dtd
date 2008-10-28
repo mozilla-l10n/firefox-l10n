@@ -20,6 +20,9 @@
  the Initial Developer. All Rights Reserved.
 
  Contributor(s):
+   Gintautas Grigas <grigas@ktl.mii.lt>
+	Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+	Rimas Kudelis <rq@akl.lt>
 
  Alternatively, the contents of this file may be used under the terms of
  either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -48,12 +51,9 @@
 <!ENTITY directorySecure.accesskey         "a">
 <!ENTITY directoryLogin.label              "Prisijungimo vardas:">
 <!ENTITY directoryLogin.accesskey          "P">
-<!ENTITY advancedOptionsButton.label       "Papildomos savybės">
-<!ENTITY advancedOptionsButton.accesskey   "P">
 <!ENTITY General.tab                       "Bendrosios">
 <!ENTITY Offline.tab                       "Atsijungus nuo tinklo">
 <!ENTITY Advanced.tab                      "Papildomos">
-<!ENTITY advancedOptionsTitle.label        "Papildomos savybės">
 <!ENTITY portNumber.label                  "Prievado numeris: ">
 <!ENTITY portNumber.accesskey              "r">
 <!ENTITY searchFilter.label                "Paieškos filtras: ">

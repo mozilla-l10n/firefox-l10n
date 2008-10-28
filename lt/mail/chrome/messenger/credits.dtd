@@ -33,8 +33,6 @@
 <!ENTITY credit.title     "Projektavimo vadovai">
 <!ENTITY brandMotto       "Jūsų paštas – Jūsų poreikiams">
 <!ENTITY credit.leads     "Projektavimo vadovai">
-<!ENTITY credit.core      "Branduolio projektavimas">
-<!ENTITY credit.gecko     "„Gecko“">
 <!ENTITY credit.thanks    "Padėkos">
 
 <!-- localization credits look like this: -->
@@ -44,19 +42,8 @@
 -->
 <!ENTITY credit.translation  "<h3>Lokalizuotojai</h3><ul><li>Gintautas Grigas</li><li>Tatjana Jevsikova</li><li>Rimas Kudelis</li><li>Sigita Pedzevičienė</li></ul><p>Programa lokalizuota Matematikos ir informatikos institute.</p>">
 
-<!ENTITY credit.visuals     "Dizaino koordinatorius">
 <!ENTITY credit.theme       "Grafinio apvalkalo dizainas">
-<!ENTITY credit.brand       "Prekės ženkalai ir tapatybė">
-<!ENTITY credit.web         "Žiniatinklio dizainas">
-<!ENTITY credit.update      "„Mozillos“ naujinimai">
-<!ENTITY credit.qalead      "Testavimo ir kokybės užtikrinimo vadovas">
 <!ENTITY credit.qa          "Testavimas ir kokybės užtikrinimas">
 <!ENTITY credit.build       "Kompiliavimas">
-<!ENTITY credit.infra       "Infrastruktūros priežiūra">
-<!ENTITY credit.support     "Priežiūra ir pagalba">
-<!ENTITY credit.manage      "Projekto vadyba">
-<!ENTITY credit.marketleads "Marketingo vadovai">
-<!ENTITY credit.market      "Marketingas">
-<!ENTITY credit.creators    "Kūrėjai">
 <!ENTITY credit.memory      "Atminimui">
 <!ENTITY credit.poweredByGecko "Veikia su „Gecko&trade;“">
