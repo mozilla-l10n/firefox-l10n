@@ -3,8 +3,6 @@
 <!ENTITY alwaysAsk.accesskey "A">
 <!ENTITY neverAsk.label "Salva tutti gli allegati in questa cartella:">
 <!ENTITY neverAsk.accesskey "S">
-<!ENTITY desktop.label "Desktop">
-<!ENTITY downloads.label "Download">
 <!ENTITY chooseFolderWin.label "Sfoglia…">
 <!ENTITY chooseFolderWin.accesskey "o">
 <!ENTITY chooseFolderMac.label "Scegliere…">
@@ -13,9 +11,3 @@
 <!ENTITY configureActions.label "Visualizza e modifica azioni…">
 <!ENTITY configureActions.accesskey "V">
 <!ENTITY fileTypesDescription.label "&brandShortName; può salvare o aprire automaticamente gli allegati di un certo tipo ">
-<!ENTITY fileTypeColName.label "Tipo file">
-<!ENTITY fileHandlerColName.label "Applicazione">
-<!ENTITY editFileHandler.label "Cambia azione">
-<!ENTITY editFileHandler.accesskey "a">
-<!ENTITY removeFileHandler.label "Elimina">
-<!ENTITY removeFileHandler.accesskey "E">

@@ -1,10 +1,8 @@
 <!--null-->
 <!ENTITY pref.ldap.window.title "Rubriche remote LDAP">
-<!ENTITY directory.label "Aggiungi una directory">
 <!ENTITY directories.label "Rubrica remota LDAP:">
 <!ENTITY directoriesText.label "Selezionare una rubrica remota LDAP:">
 <!ENTITY directoriesText.accesskey "S">
-<!ENTITY autocomplete.title "Rubrica remota LDAP">
 <!ENTITY addDirectory.label "Aggiungi">
 <!ENTITY addDirectory.accesskey "A">
 <!ENTITY editDirectory.label "Modifica">

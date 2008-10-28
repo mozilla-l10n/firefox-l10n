@@ -12,12 +12,9 @@
 <!ENTITY directorySecure.accesskey "U">
 <!ENTITY directoryLogin.label "DN associato:">
 <!ENTITY directoryLogin.accesskey "D">
-<!ENTITY advancedOptionsButton.label "Opzioni avanzate">
-<!ENTITY advancedOptionsButton.accesskey "a">
 <!ENTITY General.tab "Generale">
 <!ENTITY Offline.tab "Non in linea">
 <!ENTITY Advanced.tab "Avanzate">
-<!ENTITY advancedOptionsTitle.label "Opzioni avanzate">
 <!ENTITY portNumber.label "Numero porta:">
 <!ENTITY portNumber.accesskey "p">
 <!ENTITY searchFilter.label "Filtro di ricerca:">
