@@ -1,4 +1,5 @@
 <!ENTITY serverAdvanced.label "Impostazioni avanzate per l'account">
+<!ENTITY imapAdvanced.label "Impostazioni avanzate server IMAP ">
 <!ENTITY serverDirectory.label "Cartella del server IMAP:">
 <!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "Mostra solo le cartelle sottoscritte">
@@ -19,11 +20,12 @@
 <!ENTITY overrideNamespaces.label "Permetti al server di sovrascrivere questi domini">
 <!ENTITY overrideNamespaces.accesskey "A">
 <!ENTITY pop3Desc.label "Quando si scarica la posta da questo server usare la seguente cartella per memorizzarla:">
+<!ENTITY folderStorage.label "Dove memorizzare la posta">
 <!ENTITY globalInbox.label "Posta in arrivo globale (Cartelle Locali)">
 <!ENTITY globalInbox.accesskey "G">
-<!ENTITY accountDirectory.label "'Posta in arrivo' per  l'account di questo server">
+<!ENTITY accountDirectory.label "Posta in arrivo per  l'account di questo server">
 <!ENTITY accountDirectory.accesskey "S">
 <!ENTITY deferToServer.label "Posta in arrivo di un altro account.">
 <!ENTITY deferToServer.accesskey "D">
-<!ENTITY deferGetNewMail.label "Durante lo scaricamento della posta scarica anche quella di questo account">
+<!ENTITY deferGetNewMail.label "Includi questo account durante la ricezione della posta">
 <!ENTITY deferGetNewMail.accesskey "I">

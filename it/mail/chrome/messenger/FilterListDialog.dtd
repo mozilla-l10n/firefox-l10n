@@ -14,7 +14,7 @@
 <!ENTITY filterHeader.label "I filtri abilitati sono eseguiti in automatico nel seguente ordine.">
 <!ENTITY filtersForPrefix.label "Filtri per:">
 <!ENTITY filtersForPrefix.accesskey "F">
-<!ENTITY viewLogButton.label "Rapporto dei filtri">
+<!ENTITY viewLogButton.label "Registro attività filtri">
 <!ENTITY viewLogButton.accesskey "R">
 <!ENTITY runFilters.label "Esegui ora">
 <!ENTITY runFilters.accesskey "o">

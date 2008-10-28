@@ -16,12 +16,17 @@
 <!ENTITY fullnameLabel.accesskey "N">
 <!ENTITY emailLabel.label "Indirizzo email:">
 <!ENTITY emailLabel.accesskey "I">
+<!ENTITY emailDesc.label "Inserire il proprio indirizzo email; questo è l'indirizzo che gli altri useranno per rispondere ai messaggi di posta">
+<!ENTITY emailExample.label "(ad esempio, utente@mozillaitalia.org).">
 <!ENTITY serverTitle.label "Informazioni sul server">
+<!ENTITY incomingServerTitle.label "Server in ingresso">
 <!ENTITY incomingServerTypeDesc.label "Selezionare il tipo di server in ingresso utilizzato.">
+<!ENTITY incomingServerTypeLabel.label "Tipo server:">
 <!ENTITY incomingServerNameDesc.label "Inserire il nome del server in ingresso (ad esempio: &quot;mail.mozillaitalia.org&quot;)">
 <!ENTITY incomingServerLabel.label "Server in ingresso:">
 <!ENTITY incomingServerLabel.accesskey "S">
 <!ENTITY newsServerNameDesc.label "Inserire il nome del server per i gruppi di discussione (NNTP) (ad esempio, &quot;news.mozillaitalia.org&quot;).">
+<!ENTITY smtpServerTitle.label "Server in uscita (SMTP)">
 <!ENTITY smtpServerDesc.label "Inserire il nome del server in uscita (SMTP) (ad esempio, &quot;smtp.mozillaitalia.org&quot;).">
 <!ENTITY smtpServerLabel.label "Server in uscita:">
 <!ENTITY smtpServerLabel.accesskey "u">
@@ -31,6 +36,7 @@
 <!ENTITY imapType.accesskey "I">
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
+<!ENTITY nntpType.label "Server gruppi discussione">
 <!ENTITY haveSmtp1.prefix "Sarà usato il server esistente per la posta in uscita (SMTP), &quot;">
 <!ENTITY haveSmtp1.suffix "&quot;. È possibile modificare le impostazioni per la posta in uscita scegliendo 'Impostazioni account' dal menu Strumenti.">
 <!ENTITY loginTitle.label "Nomi utente">
@@ -47,6 +53,7 @@
 <!ENTITY haveSmtp3.suffix "&quot; è identico al server per la posta in entrata. Sarà usato il nome utente di posta in entrata per accedervi. È possibile modificare le impostazioni per la posta in uscita scegliendo 'Impostazioni account' dal menu Strumenti.">
 <!ENTITY accnameTitle.label "Nome account">
 <!ENTITY accnameDesc.label "Inserire un nome per questo account (ad esempio, &quot;Lavoro&quot;, &quot;Casa&quot;, oppure &quot;Account gruppi discussione&quot;).">
+<!ENTITY accnameExample.label "Ad esempio, Account lavoro, Account casa oppure Account gruppi discussione">
 <!ENTITY accnameLabel.label "Nome account:">
 <!ENTITY accnameLabel.accesskey "N">
 <!ENTITY completionTitle.label "Congratulazioni">

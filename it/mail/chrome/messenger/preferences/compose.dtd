@@ -1,6 +1,8 @@
 <!ENTITY itemGeneral.label "Generale">
 <!ENTITY itemAutoComplete.label "Indirizzi">
 <!ENTITY itemSpellCheck.label "Ortografia">
+<!ENTITY itemSendFormat.label "Opzioni di invio">
+<!ENTITY forwardReply.label "Inoltro messaggi">
 <!ENTITY forwardMsg.label "Inoltra i messaggi:">
 <!ENTITY forwardMsg.accesskey "I">
 <!ENTITY inline.label "nel corpo del messaggio">
@@ -20,6 +22,7 @@
 <!ENTITY bgColor.accesskey "l">
 <!ENTITY restoreHTMLDefaults.label "Ripristina predefiniti">
 <!ENTITY restoreHTMLDefaults.accesskey "R">
+<!ENTITY sendingMessagesHeader.label "Composizione messaggi">
 <!ENTITY spellCheck.label "Controlla ortografia prima di inviare">
 <!ENTITY spellCheck.accesskey "C">
 <!ENTITY spellCheckInline.label "Abilita il controllo ortografico durante la digitazione">
@@ -43,6 +46,9 @@
 <!ENTITY directoriesNone.label "nessuna">
 <!ENTITY editDirectories.label "Modifica cartelle…">
 <!ENTITY editDirectories.accesskey "M">
+<!ENTITY matchText.label "Se c'è una corrispondenza nelle rubriche locali:">
+<!ENTITY skipDirectory.label "Non cercare nella cartella">
+<!ENTITY sendOptionsCaption.label "Opzioni di invio e HTML">
 <!ENTITY sendOptionsDescription.label "Configura la formattazione del testo:">
 <!ENTITY sendOptions.label "Opzioni di invio…">
 <!ENTITY sendOptions.accesskey "d">

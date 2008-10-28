@@ -13,6 +13,10 @@
 <!ENTITY autoTypeRadio.accesskey "A">
 <!ENTITY reload.label "Ricarica">
 <!ENTITY reload.accesskey "R">
+<!ENTITY ftp.label "Proxy FTP:">
+<!ENTITY ftp.accesskey "f">
+<!ENTITY gopher.label "Proxy gopher">
+<!ENTITY gopher.accesskey "g">
 <!ENTITY http.label "Proxy HTTP">
 <!ENTITY http.accesskey "h">
 <!ENTITY ssl.label "Proxy SSL:">
