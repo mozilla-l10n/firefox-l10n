@@ -54,7 +54,6 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "p">
 <!ENTITY deleteCmd.label "Eliminar">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "r">
 <!ENTITY deleteAbCmd.label "Eliminar libreta de direcciones">
 <!ENTITY deleteCardCmd.label "Eliminar tarjeta">
@@ -106,7 +105,6 @@
 <!ENTITY exportCmd.label "Exportar…">
 <!ENTITY exportCmd.accesskey "E">
 <!ENTITY preferencesCmd.label "Opciones…">
-<!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "o">
 <!ENTITY preferencesCmdUnix.label "Preferencias">
 <!ENTITY preferencesCmdUnix.accesskey "n">

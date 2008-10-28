@@ -1,8 +1,6 @@
 <!ENTITY itemGeneral.label "General">
 <!ENTITY itemAutoComplete.label "Destinatario">
 <!ENTITY itemSpellCheck.label "Ortografía">
-<!ENTITY itemSendFormat.label "Formato de envío">
-<!ENTITY forwardReply.label "Reenviando mensajes">
 <!ENTITY forwardMsg.label "Reenviar mensajes:">
 <!ENTITY forwardMsg.accesskey "v">
 <!ENTITY inline.label "Incorporado">
@@ -22,7 +20,6 @@
 <!ENTITY bgColor.accesskey "C">
 <!ENTITY restoreHTMLDefaults.label "Restaurar valores por omisión">
 <!ENTITY restoreHTMLDefaults.accesskey "R">
-<!ENTITY sendingMessagesHeader.label "Redactando mensajes">
 <!ENTITY spellCheck.label "Comprobar la ortografía antes de enviar">
 <!ENTITY spellCheck.accesskey "C">
 <!ENTITY spellCheckInline.label "Activar corrección ortogr. al escribir">
@@ -46,9 +43,6 @@
 <!ENTITY directoriesNone.label "Ninguno">
 <!ENTITY editDirectories.label "Editar directorios…">
 <!ENTITY editDirectories.accesskey "E">
-<!ENTITY matchText.label "Si hay una coincidencia en las libretas de direcciones locales:">
-<!ENTITY skipDirectory.label "No buscar en el directorio">
-<!ENTITY sendOptionsCaption.label "Opciones de envío y HTML">
 <!ENTITY sendOptionsDescription.label "Configurar comportamiento del formato de texto">
 <!ENTITY sendOptions.label "Opciones de envío…">
 <!ENTITY sendOptions.accesskey "O">

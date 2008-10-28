@@ -3,8 +3,6 @@
 <!ENTITY alwaysAsk.accesskey "P">
 <!ENTITY neverAsk.label "Guardar todos los archivos en esta carpeta:">
 <!ENTITY neverAsk.accesskey "G">
-<!ENTITY desktop.label "Escritorio">
-<!ENTITY downloads.label "Mis descargas">
 <!ENTITY chooseFolderWin.label "Examinar…">
 <!ENTITY chooseFolderWin.accesskey "e">
 <!ENTITY chooseFolderMac.label "Elegir…">
@@ -13,9 +11,3 @@
 <!ENTITY configureActions.label "Ver y editar acciones…">
 <!ENTITY configureActions.accesskey "V">
 <!ENTITY fileTypesDescription.label "&brandShortName; puede guardar o abrir automáticamente adjuntos de ciertos tipos.">
-<!ENTITY fileTypeColName.label "Tipo de archivo">
-<!ENTITY fileHandlerColName.label "Aplicación">
-<!ENTITY editFileHandler.label "Cambiar acción…">
-<!ENTITY editFileHandler.accesskey "a">
-<!ENTITY removeFileHandler.label "Eliminar">
-<!ENTITY removeFileHandler.accesskey "r">

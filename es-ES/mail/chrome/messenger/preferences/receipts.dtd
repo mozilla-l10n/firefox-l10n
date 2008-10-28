@@ -1,5 +1,4 @@
 <!ENTITY dialog.title "Acuses de recibo">
-<!ENTITY receiptSettings.label "Acuses de recibo">
 <!ENTITY requestReceipt.label "Al enviar mensajes, solicitar siempre un acuse de recibo">
 <!ENTITY requestReceipt.accesskey "A">
 <!ENTITY receiptArrive.label "Cuando llegue un acuse de recibo:">

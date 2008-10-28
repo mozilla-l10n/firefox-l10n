@@ -19,8 +19,6 @@
 <!ENTITY reuseExpRadio0.accesskey "U">
 <!ENTITY reuseExpRadio1.label "Una ventana de mensajes existente">
 <!ENTITY reuseExpRadio1.accesskey "v">
-<!ENTITY reuseExpRadio2.label "Una nueva pestaña de mensaje">
-<!ENTITY reuseExpRadio2.accesskey "n">
 <!ENTITY configEditDesc.label "Configuración avanzada">
 <!ENTITY configEdit.label "Editor de configuración…">
 <!ENTITY configEdit.accesskey "c">

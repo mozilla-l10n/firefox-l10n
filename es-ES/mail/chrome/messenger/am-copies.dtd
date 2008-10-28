@@ -4,12 +4,8 @@
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "Colocar respuestas en la carpeta del mensaje al que se responde">
 <!ENTITY fccReplyFollowsParent.accesskey "C">
-<!ENTITY chooseFolderButton.label "Elegir carpeta…">
 <!ENTITY bccAddress.label "Bcc a estas direcciones:">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY specialFolderTitle.label "Carpetas especiales">
-<!ENTITY draftMailFolder.label "Guardar los borradores de mensajes en:">
-<!ENTITY templateMailFolder.label "Guardar las plantillas de mensajes en:">
 <!ENTITY saveMessageDlg.label "Mostrar diálogo de confirmación cuando se guarden los mensajes">
 <!ENTITY saveMessageDlg.accesskey "M">
 <!ENTITY sentFolderOn.label "Carpeta &quot;Enviados&quot; en:">

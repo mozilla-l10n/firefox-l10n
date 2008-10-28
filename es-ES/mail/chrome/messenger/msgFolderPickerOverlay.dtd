@@ -1,12 +1,3 @@
 <!--null-->
-<!ENTITY subscribechoosethis.label "Elegir este servidor de noticias">
-<!ENTITY subscribeclickhere.label "Haga clic aquí para elegir un servidor de noticias">
 <!ENTITY newfolderchoosethis.label "escoger ésta para el nivel superior">
-<!ENTITY newfolderclickhere.label "Haga clic aquí para seleccionar">
-<!ENTITY renamefolderchoosethis.label "elija esta carpeta">
-<!ENTITY renamefolderclickhere.label "Haga clic aquí para elegir una carpeta">
 <!ENTITY filemessageschoosethis.label "elija esta carpeta">
-<!ENTITY filemessagesclickhere.label "haga clic aquí para elegir una carpeta">
-<!ENTITY chooseaccountclickhere.label "Haga clic aquí para seleccionar una cuenta">
-<!ENTITY choosefolderclickhere.label "Pulsar aquí para seleccionar una carpeta">
-<!ENTITY chooseserverToDeferTo.label "pulse aquí para seleccinar una cuenta a usar para almacenar los mensajes">

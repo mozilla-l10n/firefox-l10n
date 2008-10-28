@@ -1,7 +1,5 @@
 <!ENTITY itemFormatting.label "Formato">
 <!ENTITY itemTags.label "Etiquetas">
-<!ENTITY itemFonts.label "Tipos de letra">
-<!ENTITY textBegin.label "Aspecto del texto sin formato citado">
 <!ENTITY style.label "Estilo:">
 <!ENTITY style.accesskey "t">
 <!ENTITY regularStyle.label "Regular">
@@ -18,12 +16,10 @@
 <!ENTITY displayWidth.label "Mensajes de texto sin formato">
 <!ENTITY plainText.label "Usar el siguiente tipo de letra:">
 <!ENTITY displayText.label "Al mostrar mensajes citados de texto sin formato:">
-<!ENTITY viewingPlainText.label "Al mostrar mensajes de texto sin formato:">
 <!ENTITY fixedWidth.label "Letra de ancho fijo">
 <!ENTITY fixedWidth.accesskey "h">
 <!ENTITY variableWidth.label "Letra de ancho variable">
 <!ENTITY variableWidth.accesskey "V">
-<!ENTITY readingMessagesHeader.label "Para el correo entrante">
 <!ENTITY colors.label "Colores">
 <!ENTITY overrideColors.label "Al mostrar mensajes, usar los siguientes colores:">
 <!ENTITY textColor.label "Color del texto:">

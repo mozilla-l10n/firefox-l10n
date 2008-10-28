@@ -4,7 +4,6 @@
 <!ENTITY window.unixWidth "47em">
 <!ENTITY language.label "Tipos de letra para:">
 <!ENTITY language.accesskey "T">
-<!ENTITY typefaces.label "Familia de letra">
 <!ENTITY sizes.label "Tamaño (píxeles)">
 <!ENTITY proportionalSize.accesskey "e">
 <!ENTITY monospaceSize.accesskey "x">
@@ -16,7 +15,6 @@
 <!ENTITY sans-serif.accesskey "n">
 <!ENTITY monospace.label "Monoespacio:">
 <!ENTITY monospace.accesskey "m">
-<!ENTITY fontsize.units "píxeles">
 <!ENTITY font.langGroup.latin1 "Occidental">
 <!ENTITY font.langGroup.latin2 "Centroeuropeo">
 <!ENTITY font.langGroup.japanese "Japonés">
@@ -49,7 +47,6 @@
 <!ENTITY minSize.none "Ninguno">
 <!ENTITY useDefaultFontSerif.label "Serif">
 <!ENTITY useDefaultFontSansSerif.label "Sans Serif">
-<!ENTITY newLanguages.label "Se pueden configurar idiomas nuevas usando el panel de idiomas.">
 <!ENTITY useDocumentFonts.label "Permitir a los mensajes usar otros tipos de letra">
 <!ENTITY useDocumentFonts.accesskey "o">
 <!ENTITY sendDefaultCharset.label "Correo saliente:">
