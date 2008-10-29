@@ -19,7 +19,7 @@
 <!ENTITY  gopherPort.accesskey        "">
 
 <!ENTITY  socks.caption               "Generischer Proxy">
-<!ENTITY  socks.description           "Ein SOKCKS-Proxy ist ein generischer Proxy, der manchmal in Firmen oder ähnlichen Umgebungen verwendet wird.">
+<!ENTITY  socks.description           "Ein SOCKS-Proxy ist ein generischer Proxy, der manchmal in Firmen oder ähnlichen Umgebungen verwendet wird.">
 <!ENTITY  socks.label                 "SOCKS-Proxy:">
 <!ENTITY  socks.accesskey             "S">
 <!ENTITY  socks4.label                "SOCKS v4">
