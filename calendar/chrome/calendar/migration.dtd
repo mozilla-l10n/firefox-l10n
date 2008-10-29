@@ -39,4 +39,3 @@
 <!ENTITY migration.importing "Inportatzen">
 <!ENTITY migration.list.description "&brandShortName;(e)k egutegien datuak hainbat programa desberdinetatik inportatu ditzake. Ondorengo programetan datuak aurkitu dira. Aukera ezazu zein programetatik inportatu nahi dituzun datuak.">
 <!ENTITY migration.progress.description "Aukeratutako datuak inportatzen">
-<!ENTITY migration.finished.description "Datuen inportazioa burutu da">

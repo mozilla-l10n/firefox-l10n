@@ -25,7 +25,7 @@
    -                 Eric Belhaire <belhaire@ief.u-psud.fr>
    -                 Matthew Willis <mattwillis@gmail.com>
    -                 Simon Paquet <bugzilla@babylonsounds.com>
-   -                 Stefan Sitter <ssitter@googlemail.com>
+   -                 Stefan Sitter <ssitter@gmail.com>
    -                 Philipp Kewisch <mozilla@kewis.ch>
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -43,24 +43,9 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- General -->
 
-<!ENTITY calendar.file.default.name "Nire Egutegia">
 <!ENTITY calendar.calendar.label "Egutegia">
 <!ENTITY calendar.calendar.accesskey "E">
 
-
-<!ENTITY calendar.confirm.deleteallevents "Ziur zaude hautaturiko gertaera guztiak ezabatu nahi dituzula?">
-<!ENTITY calendar.confirm.deleteevent "Ziur zaude izenburu hau duen gertaera ezabatu nahi duzula: ">
-<!ENTITY calendar.confirm.deleteuntitledevent "Ziur zaude izenburu gabeko gertaera ezabatu nahi duzula?">
-
-<!ENTITY calendar.flat.topbar.choosedate "Data-ra joan">
-<!ENTITY calendar.flat.topbar.dayview "Egun Ikuspegia">
-<!ENTITY calendar.dayview.accesskey "E">
-<!ENTITY calendar.flat.topbar.weekview "Aste Ikuspegia">
-<!ENTITY calendar.weekview.accesskey "A">
-<!ENTITY calendar.flat.topbar.monthview "Hilabete Ikuspegia">
-<!ENTITY calendar.monthview.accesskey "H">
-<!ENTITY calendar.flat.topbar.multiweekview "Aste Anitz Ikuspegia">
-<!ENTITY calendar.multiweekview.accesskey "z">
 <!ENTITY calendar.dayView.key "1">
 <!ENTITY calendar.weekView.key "2">
 <!ENTITY calendar.multiweekView.key "3">
@@ -68,19 +53,13 @@
 
 <!ENTITY calendar.newtask.button.tooltip "Zeregin berri bat sortu">
 <!ENTITY calendar.newevent.button.tooltip "Gertaera berri bat sortu">
-<!ENTITY calendar.delete.button.tooltip "Hautaturiko gertaera ezabatu">
 <!ENTITY calendar.edit.button.tooltip "Hautaturiko gertaera editatu">
 
 <!ENTITY calendar.unifinder.todoitems.label "Zereginak">
-<!ENTITY calendar.unifinder.hidecompletedtodos.label "Ezkutatu osatutako zereginak">
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Erakutsi osatutako zereginak">
 
-<!ENTITY calendar.calendartab.label "Data">
-<!ENTITY calendar.listofcalendarstab.label "Egutegiak">
 <!ENTITY calendar.today.button.label "Gaur">
 <!ENTITY calendar.tomorrow.button.label "Bihar">
-<!ENTITY calendar.nextweek.button.label "Hurrengo astea">
-<!ENTITY calendar.thisweek.button.label "Aste hau">
 <!ENTITY calendar.soon.button.label "Laster">
 
 <!ENTITY calendar.events.filter.all.label "Gertaera Guztiak">
@@ -104,11 +83,11 @@
 <!ENTITY calendar.unifinder.tree.location.label "Kokapena">
 <!ENTITY calendar.unifinder.tree.status.label "Egoera">
 <!ENTITY calendar.unifinder.tree.calendarname.label "Egutegi Izena">
-<!ENTITY calendar.find.key "F">
+<!ENTITY calendar.unifinder.tree.duration.label "Muga-egunaz">
+<!ENTITY calendar.unifinder.close.tooltip "Itxi gertaera bilaketa eta gertaeren zerrenda">
 
 <!ENTITY calendar.today.button.tooltip "Joan gaurkora">
 <!ENTITY calendar.todaypane.button.tooltip "Erakutsi Gaurko panela">
-<!ENTITY calendar.choosedate.button.tooltip "Joateko data hautatu">
 <!ENTITY calendar.unifinder.button.tooltip "Bilatu eta zerrendatu gertaerak">
 
 <!ENTITY calendar.day.button.tooltip "Eguneko ikuspegira aldatu">
@@ -125,19 +104,7 @@
 
 <!ENTITY calendar.newtask.button.label "Zeregin Berria">
 <!ENTITY calendar.newevent.button.label "Gertaera Berria">
-<!ENTITY calendar.delete.button.label "Ezabatu">
 <!ENTITY calendar.edit.button.label "Editatu">
-
-<!ENTITY calendar.choosedate.button.label "Data Hautatu">
-
-<!ENTITY calendar.cut.button.tooltip "Ebaki">
-<!ENTITY calendar.copy.button.tooltip "Kopiatu">
-<!ENTITY calendar.paste.button.tooltip "Itsatsi">
-<!ENTITY calendar.print.button.tooltip "Egutegia Inprimatu">
-
-<!ENTITY calendar.cut.button.label "Ebaki">
-<!ENTITY calendar.copy.button.label "Kopiatu">
-<!ENTITY calendar.paste.button.label "Itsatsi">
 <!ENTITY calendar.print.button.label "Inprimatu">
 
 <!ENTITY calendar.import.button.tooltip "Inportatu: Gertaerak fitxategi lokaletik Inportatu.">
@@ -145,7 +112,6 @@
 <!ENTITY calendar.subscribe.button.tooltip "Harpidetu: Urruneko makina batetako egutegi fitxategira harpidetu.">
 <!ENTITY calendar.publish.button.tooltip "Argitaratu: Gertaerak urruneko makina batean argitaratu.">
 
-<!ENTITY calendar.import.calendar "Inportatu...">
 <!ENTITY calendar.export.calendar "Egutegia Esportatu...">
 
 <!ENTITY calendar.import.button.label "Inportatu">
@@ -153,11 +119,6 @@
 <!ENTITY calendar.subscribe.button.label "Harpidetu">
 <!ENTITY calendar.publish.button.label "Argitaratu">
 <!ENTITY calendar.unifinder.button.label "Bilatu Gertaerak">
-
-<!ENTITY calendar.localreload.button.label "Birkargatze Lokala">
-<!ENTITY calendar.localreload.button.tooltip "Egutegi lokal guztiak birkargatu">
-<!ENTITY calendar.remotereload.button.label "Birkargatu">
-<!ENTITY calendar.remotereload.button.tooltip "Urruneko egutegi guztiak birkargatu">
 
 <!ENTITY calendar.day.button.label "Egun">
 <!ENTITY calendar.week.button.label "Aste">
@@ -173,17 +134,7 @@
 <!ENTITY calendar.orientation.label "Biratu ikuspegia">
 <!ENTITY calendar.orientation.accesskey "b">
 
-<!ENTITY calendar.menu.options.close.key "A">
-
 <!ENTITY calendar.search.options.searchfor " edukia">
-
-<!ENTITY calendar.menu.numberofweeks.label "Aste Kopurua">
-<!ENTITY calendar.menu.numberofweeks.accesskey "K">
-<!ENTITY calendar.menu.numberofweeks.2 "2 Aste">
-<!ENTITY calendar.menu.numberofweeks.3 "3 Aste">
-<!ENTITY calendar.menu.numberofweeks.4 "4 Aste">
-<!ENTITY calendar.menu.numberofweeks.5 "5 Aste">
-<!ENTITY calendar.menu.numberofweeks.6 "6 Aste">
 
 <!ENTITY calendar.list.header.label "Egutegia">
 
@@ -200,13 +151,12 @@
 <!ENTITY calendar.task.filter.overdue.accesskey "T">
 <!ENTITY calendar.task.filter.completed.label "Osatutako zereginak">
 <!ENTITY calendar.task.filter.completed.accesskey "O">
+<!ENTITY calendar.task.filter.open.label "Amaiatugabea zereginak">
+<!ENTITY calendar.task.filter.open.accesskey "m">
 
-<!ENTITY calendar.task.edit.instructions.label "Klikatu hemen Zeregin berria gehitzeko">
 <!ENTITY calendar.task.details.title.label "Izenburua:">
-<!ENTITY calendar.task.details.entrydate.label "Hasiera data:">
-<!ENTITY calendar.task.details.duedate.label "Amaiera data:">
 <!ENTITY calendar.task.details.organizer.label "Nork:">
-<!ENTITY calendar.task.details.priority.label "Garrantzia::">
+<!ENTITY calendar.task.details.priority2.label "Lehentasuna:">
 <!ENTITY calendar.task.details.priority.low.label "Baxua">
 <!ENTITY calendar.task.details.priority.normal.label "Arrunta">
 <!ENTITY calendar.task.details.priority.high.label "Altua">
@@ -217,36 +167,37 @@
 <!ENTITY calendar.task.category.button.tooltip "Zerginak kategorizatu">
 <!ENTITY calendar.task.complete.button.tooltip "MArkatu hautatuko zeeginak amaiturik bezala">
 <!ENTITY calendar.task.priority.button.tooltip "Lehentasuna aldatu">
-<!ENTITY calendar.task.delete.button.tooltip "Ezabatu hautatutako zereginak">
 <!-- Statusbar -->
 
 <!ENTITY statusText.label "Dokumentua: Eginda">
-<!-- customizable toolbars -->
-
-<!ENTITY calendar.context.customize.label "Pertsonalizatu…">
-<!ENTITY calendar.context.customize.accesskey "P">
-<!ENTITY calendar.menu.customize.label "Tresna-barra Pertsonalizatu…">
-<!ENTITY calendar.menu.customize.accesskey "P">
-<!ENTITY calendar.maintoolbar.name "Tresna-barra Nagusia">
-<!ENTITY calendar.maintoolbar.accesskey "E">
 <!-- Context Menu -->
 
+<!ENTITY calendar.context.modifyorviewitem.label "Ireki">
+<!ENTITY calendar.context.modifyorviewitem.accesskey "O">
+<!ENTITY calendar.context.modifyorviewtask.label "Ireki zeregina">
+<!ENTITY calendar.context.modifyorviewtask.accesskey "O">
 <!ENTITY calendar.context.newevent.label "Gertaera Berria">
 <!ENTITY calendar.context.newevent.accesskey "B">
 <!ENTITY calendar.context.newtodo.label "Zeregin Berria...">
 <!ENTITY calendar.context.newtodo.accesskey "z">
-<!ENTITY calendar.context.modifyevent.label "Hautaturiko Gertaera Editatu...">
-<!ENTITY calendar.context.modifyevent.accesskey "E">
 <!ENTITY calendar.context.modifytask.label "Zeregina Editatu">
 <!ENTITY calendar.context.modifytask.accesskey "E">
 <!ENTITY calendar.context.modifyitem.label "Elementua Editatu">
 <!ENTITY calendar.context.modifyitem.accesskey "E">
-<!ENTITY calendar.context.deleteevent.label "Hautaturiko Elementua Ezabatu">
-<!ENTITY calendar.context.deleteevent.accesskey "b">
 <!ENTITY calendar.context.deletetask.label "Zeregina Ezabatu">
 <!ENTITY calendar.context.deletetask.accesskey "b">
 <!ENTITY calendar.context.deleteitem.label "Elementua Ezabatu">
 <!ENTITY calendar.context.deleteitem.accesskey "b">
+<!ENTITY calendar.context.deleteevent.label "Hautaturiko Elementua Ezabatu">
+<!ENTITY calendar.context.deleteevent.accesskey "b">
+<!ENTITY calendar.context.deletethisevent.label "Gertaera hau">
+<!ENTITY calendar.context.deletethisevent.accesskey "T">
+<!ENTITY calendar.context.deletecompleteseries.label "Osatu serieak">
+<!ENTITY calendar.context.deletecompleteseries.accesskey "S">
+<!ENTITY calendar.context.deletefutureevents.label "Etorkizuneko Gertaera Guztiak">
+<!ENTITY calendar.context.deletefutureevents.accesskey "F">
+<!ENTITY calendar.context.deletefuturetasks.label "Etorkizuneko zeregin guztiak">
+<!ENTITY calendar.context.deletefuturetasks.accesskey "F">
 <!ENTITY calendar.context.cutevent.label "Ebaki">
 <!ENTITY calendar.context.cutevent.accesskey "b">
 <!ENTITY calendar.context.copyevent.label "Kopiatu">
@@ -255,19 +206,14 @@
 <!ENTITY calendar.context.pasteevent.accesskey "S">
 <!ENTITY calendar.context.selectall.label "Dena hautatu">
 <!ENTITY calendar.context.selectall.accesskey "A">
-<!ENTITY calendar.context.gototoday.label "Gaur">
 <!ENTITY calendar.context.button.label "Gaurko panela">
-<!ENTITY calendar.context.gototoday.accesskey "G">
-<!ENTITY calendar.context.emailevent.label "Hautaturiko Gertaerak ePostaz Bidali...">
-<!ENTITY calendar.context.emailevent.accesskey "i">
+<!ENTITY calendar.context.button.accesskey "T">
 <!-- Task Context Menu -->
 
 <!ENTITY calendar.context.progress.label "Aurrerapena">
 <!ENTITY calendar.context.progress.accesskey "U">
 <!ENTITY calendar.context.priority.label "Lehentasuna">
 <!ENTITY calendar.context.priority.accesskey "h">
-<!ENTITY calendar.context.category.label "Kategoria Berria...">
-<!ENTITY calendar.context.category.accesskey "k">
 <!--=percent sign-->
 
 <!ENTITY percnt "&#38;#37;">
@@ -275,8 +221,6 @@
 <!ENTITY calendar.context.markcompleted.label "Markatu osatua bezala">
 <!ENTITY calendar.context.markcompleted.accesskey "o">
 
-<!ENTITY progress.notstarted "Hasi gabe">
-<!ENTITY progress.notstarted.accesskey "H">
 <!ENTITY progress.level.0 "&percnt;0">
 <!ENTITY progress.level.0.accesskey "0">
 <!ENTITY progress.level.25 "&percnt;25">
@@ -287,6 +231,15 @@
 <!ENTITY progress.level.75.accesskey "7">
 <!ENTITY progress.level.100 "&percnt;100">
 <!ENTITY progress.level.100.accesskey "1">
+
+<!ENTITY priority.level.none "Zehaztu gabea">
+<!ENTITY priority.level.none.accesskey "s">
+<!ENTITY priority.level.low "Baxua">
+<!ENTITY priority.level.low.accesskey "L">
+<!ENTITY priority.level.normal "Arrunta">
+<!ENTITY priority.level.normal.accesskey "N">
+<!ENTITY priority.level.high "Altua">
+<!ENTITY priority.level.high.accesskey "H">
 <!-- Server Context Menu -->
 
 <!ENTITY calendar.context.newserver.label "Egutegi Berria...">
@@ -304,17 +257,15 @@
 <!ENTITY calendar.context.properties.label "Propietateak">
 <!ENTITY calendar.context.properties.accesskey "P">
 
-<!ENTITY calendar.context.convert.label "Bihurtu ">
-<!ENTITY calendar.context.convert.accesskey "b">
-<!ENTITY calendar.context.converttoevent.label "Gertaera">
-<!ENTITY calendar.context.converttoevent.accesskey "G">
-<!ENTITY calendar.context.converttomessage.label "Mezua">
-<!ENTITY calendar.context.converttomessage.accesskey "M">
-
-<!ENTITY calendar.context.showeventsof.label "Ikusi honen gertaerak:">
-<!ENTITY calendar.context.showeventsof.accesskey "I">
-<!ENTITY calendar.context.showtasksof.label "Ikusi honen zereginak: ">
-<!ENTITY calendar.context.showtasksof.accesskey "Z">
+<!ENTITY calendar.context.convertmenu.label "Bihurtu hona">
+<!ENTITY calendar.context.convertmenu.accesskey.mail "n">
+<!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
+<!ENTITY calendar.context.convertmenu.event.label "Gertaera...">
+<!ENTITY calendar.context.convertmenu.event.accesskey "E">
+<!ENTITY calendar.context.convertmenu.message.label "Mezua">
+<!ENTITY calendar.context.convertmenu.message.accesskey "M">
+<!ENTITY calendar.context.convertmenu.task.label "Zeregina...">
+<!ENTITY calendar.context.convertmenu.task.accesskey "T">
 
 <!ENTITY calendar.tasks.view.minimonth.label "Hilabete txikia">
 <!ENTITY calendar.tasks.view.minimonth.accesskey "T">
@@ -322,8 +273,8 @@
 <!ENTITY calendar.tasks.view.calendarlist.label "Egutegi zerenda">
 <!ENTITY calendar.tasks.view.calendarlist.accesskey "E">
 
-<!ENTITY calendar.tasks.view.sorttasks.label "Atazak ordenatu">
-<!ENTITY calendar.tasks.view.sorttasks.accesskey "O">
+<!ENTITY calendar.tasks.view.filtertasks.label "Tasks iragazi">
+<!ENTITY calendar.tasks.view.filtertasks.accesskey "F">
 <!-- Calendar Alarm Dialog -->
 
 
@@ -332,9 +283,6 @@
 
 <!ENTITY calendar.alarm.snoozefor.label "Atzeratu">
 <!ENTITY calendar.alarm.snoozeallfor.label "Atzeratu">
-<!-- In case your language needs a different word order, this entity can be used
-     to add words to the end of the "Snooze all for XXX minutes" line -->
-<!ENTITY calendar.alarm.snoozeall.suffix.label "alarma denak">
 <!ENTITY calendar.alarm.title.label "Egutegi Alarma">
 <!ENTITY calendar.alarm.dismiss.label "Utzi">
 <!ENTITY calendar.alarm.dismissall.label "Denak Utzi">
@@ -363,9 +311,7 @@
 <!ENTITY calendarproperties.readonly.label "Irakurketa soilekoa">
 <!ENTITY calendarproperties.firealarms.label "Ikusi alarmak">
 <!ENTITY calendarproperties.cache.label "Katxe (EXPERIMENTALA, berrabiaraztea behar du))">
-<!-- Sunbird Help -->
-
-<!ENTITY calendar.help.label "Laguntza Edukiak">
+<!ENTITY calendarproperties.enabled.label "Aldatu egutegi hau:">
 <!-- Calendar Publish Dialog -->
 
 <!ENTITY calendar.publish.dialog.title "Egutegia Argitaratu">
@@ -377,28 +323,6 @@
 <!-- Select Calendar Dialog -->
 
 <!ENTITY calendar.select.dialog.title "Egutegia Hautatu">
-<!-- Calendar Import Outlook CSV Dialog -->
-<!-- TRANSLATORS: all outlook*.label -fields should be translated word to word (or if possible
-                  copied from outlook csv file headers -->
-
-<!ENTITY calendar.importoutlook.dialog.title "Outlook CSV Inportatu">
-<!ENTITY calendar.importoutlook.mapconcepts.label "Mesedez mapatu hurrengo calendar kontzeptuak dagozkien Outlook CSV-koetara.">
-<!ENTITY calendar.importoutlook.outlooksubject.label "Gaia">
-<!ENTITY calendar.importoutlook.outlookstartdate.label "Hasiera data">
-<!ENTITY calendar.importoutlook.outlookstarttime.label "Hasiera ordua">
-<!ENTITY calendar.importoutlook.outlookenddate.label "Amaiera data">
-<!ENTITY calendar.importoutlook.outlookendtime.label "Amaiera ordua">
-<!ENTITY calendar.importoutlook.outlooklocation.label "Kokapena">
-<!ENTITY calendar.importoutlook.outlookdescription.label "Azalpena">
-<!ENTITY calendar.importoutlook.outlookallday.label "Egun osoko gertaera">
-<!ENTITY calendar.importoutlook.outlookprivate.label "Pribatua">
-<!ENTITY calendar.importoutlook.outlookalarm.label "Alarma gaitu/ezgaitu">
-<!ENTITY calendar.importoutlook.outlookalarmdate.label "Alarma data">
-<!ENTITY calendar.importoutlook.outlookalarmtime.label "Alarma ordua">
-<!ENTITY calendar.importoutlook.outlookcategories.label "Kategoriak">
-<!ENTITY calendar.importoutlook.selectmeaning.label "Hautatu hurrengo hitzaren esanahia: ">
-<!ENTITY calendar.importoutlook.true.label "Egia">
-<!ENTITY calendar.importoutlook.false.label "Gezurra">
 <!-- Calendar Printing -->
 
 <!ENTITY calendar.print.window.title "Egutegi Bat Inprimatu">
@@ -417,12 +341,3 @@
 <!ENTITY calendar.error.number "Errore zenbakia:">
 <!ENTITY calendar.error.description "Azalpena:">
 <!ENTITY calendar.error.title "Errore bat gertatu da">
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-
-
-<!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifier "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-

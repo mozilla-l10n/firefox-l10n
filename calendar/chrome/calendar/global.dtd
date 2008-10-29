@@ -35,29 +35,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY time.midnight "Gauerdia">
-<!ENTITY time.1 "1:00 AM">
-<!ENTITY time.2 "2:00 AM">
-<!ENTITY time.3 "3:00 AM">
-<!ENTITY time.4 "4:00 AM">
-<!ENTITY time.5 "5:00 AM">
-<!ENTITY time.6 "6:00 AM">
-<!ENTITY time.7 "7:00 AM">
-<!ENTITY time.8 "8:00 AM">
-<!ENTITY time.9 "9:00 AM">
-<!ENTITY time.10 "10:00 AM">
-<!ENTITY time.11 "11:00 AM">
 <!ENTITY time.noon "Eguerdia">
-<!ENTITY time.13 "1:00 PM">
-<!ENTITY time.14 "2:00 PM">
-<!ENTITY time.15 "3:00 PM">
-<!ENTITY time.16 "4:00 PM">
-<!ENTITY time.17 "5:00 PM">
-<!ENTITY time.18 "6:00 PM">
-<!ENTITY time.19 "7:00 PM">
-<!ENTITY time.20 "8:00 PM">
-<!ENTITY time.21 "9:00 PM">
-<!ENTITY time.22 "10:00 PM">
-<!ENTITY time.23 "11:00 PM">
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
@@ -77,14 +55,6 @@
 <!ENTITY day.7.Ddd "Lar">
 <!ENTITY day.7.Ddd.accesskey "L">
 
-<!ENTITY day.1.DDD "IGA">
-<!ENTITY day.2.DDD "ASTL">
-<!ENTITY day.3.DDD "ASTR">
-<!ENTITY day.4.DDD "ASTZ">
-<!ENTITY day.5.DDD "OSTG">
-<!ENTITY day.6.DDD "OSTI">
-<!ENTITY day.7.DDD "LAR">
-
 <!ENTITY day.1.name "Igandea">
 <!ENTITY day.2.name "Astelehena">
 <!ENTITY day.3.name "Asteartea">
@@ -92,36 +62,14 @@
 <!ENTITY day.5.name "Osteguna">
 <!ENTITY day.6.name "Ostirala">
 <!ENTITY day.7.name "Larunbata">
-<!-- Month Names -->
-
-<!ENTITY month.1.MMM "URT">
-<!ENTITY month.2.MMM "OTS">
-<!ENTITY month.3.MMM "MAR">
-<!ENTITY month.4.MMM "APR">
-<!ENTITY month.5.MMM "MAI">
-<!ENTITY month.6.MMM "EKA">
-<!ENTITY month.7.MMM "UZT">
-<!ENTITY month.8.MMM "ABU">
-<!ENTITY month.9.MMM "IRA">
-<!ENTITY month.10.MMM "URR">
-<!ENTITY month.11.MMM "AZA">
-<!ENTITY month.12.MMM "ABE">
 <!-- Units -->
 
-<!ENTITY calendar.global.units.second "segundu">
-<!ENTITY calendar.global.units.seconds "segundu">
 <!ENTITY calendar.global.units.minute "minutu">
 <!ENTITY calendar.global.units.minutes "minutu">
 <!ENTITY calendar.global.units.hour "ordu">
 <!ENTITY calendar.global.units.hours "ordu">
 <!ENTITY calendar.global.units.day "egun">
 <!ENTITY calendar.global.units.days "egun">
-<!ENTITY calendar.global.units.week "aste">
-<!ENTITY calendar.global.units.weeks "aste">
-<!ENTITY calendar.global.units.month "hilabete">
-<!ENTITY calendar.global.units.months "hilabete">
-<!ENTITY calendar.global.units.year "urte">
-<!ENTITY calendar.global.units.years "urte">
 
 <!ENTITY month.1.name "urtarrila">
 <!ENTITY month.2.name "otsaila">
@@ -135,3 +83,10 @@
 <!ENTITY month.10.name "urria">
 <!ENTITY month.11.name "azaroa">
 <!ENTITY month.12.name "abendua">
+
+<!ENTITY onemonthbackward.tooltip "Hilabete bat atzera">
+<!ENTITY onemonthforward.tooltip "Hilabete bat aurrera">
+<!ENTITY showToday.tooltip "Joan gaurkora">
+<!ENTITY onedayforward.tooltip "Egun bat aurrera">
+<!ENTITY onedaybackward.tooltip "Egun bat atzera">
+<!ENTITY showselectedday.tooltip "Ikusi hautatutako eguneko gertaerak">
