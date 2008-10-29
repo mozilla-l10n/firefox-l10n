@@ -217,7 +217,6 @@
 <!ENTITY attachments.accesskey "n">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
 <!ENTITY SmileButton.tooltip "Einen Smiley einfügen">
 <!ENTITY smiley1Cmd.label "Lächeln">
 <!ENTITY smiley2Cmd.label "Stirn runzeln">
