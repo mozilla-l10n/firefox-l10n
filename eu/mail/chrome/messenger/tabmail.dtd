@@ -1,12 +1,12 @@
-<!ENTITY untitledTab "(Untitled)">
-<!ENTITY newTab.label "New Tab">
-<!ENTITY newTab.accesskey "N">
-<!ENTITY closeTab.label "Close Tab">
-<!ENTITY closeTab.accesskey "c">
-<!ENTITY closeOtherTabs.accesskey "o">
-<!ENTITY closeOtherTabs.label "Close Other Tabs">
-<!ENTITY reloadAllTabs.label "Reload All Tabs">
-<!ENTITY reloadAllTabs.accesskey "A">
-<!ENTITY reloadTab.label "Reload Tab">
+<!ENTITY untitledTab "(izengabea)">
+<!ENTITY newTab.label "Fitxa berria">
+<!ENTITY newTab.accesskey "T">
+<!ENTITY closeTab.label "Itxi fitxa">
+<!ENTITY closeTab.accesskey "x">
+<!ENTITY closeOtherTabs.accesskey "b">
+<!ENTITY closeOtherTabs.label "Itxi beste fitxak">
+<!ENTITY reloadAllTabs.label "Berritu fitxa guztiak">
+<!ENTITY reloadAllTabs.accesskey "G">
+<!ENTITY reloadTab.label "Berritu fitxa">
 <!ENTITY reloadTab.accesskey "r">
-<!ENTITY listAllTabs.label "List all tabs">
+<!ENTITY listAllTabs.label "Zerrendatu fitxa guztiak">

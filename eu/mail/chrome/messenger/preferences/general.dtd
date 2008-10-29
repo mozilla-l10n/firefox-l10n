@@ -1,4 +1,4 @@
-<!ENTITY systemDefaults.label "Sistema Lehenespenak">
+<!ENTITY systemDefaults.label "Sistema lehenespenak">
 <!ENTITY alwaysCheckDefault.label "Beti egiaztatu &brandShortName; lehenetsiriko eposta bezeroa den.">
 <!ENTITY alwaysCheckDefault.accesskey "l">
 <!-- LOCALIZATION NOTE (alwaysCheckDefault.height):

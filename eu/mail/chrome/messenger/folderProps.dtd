@@ -56,7 +56,7 @@
 <!ENTITY daysOld.label "egun">
 <!ENTITY message.label "mezu">
 <!ENTITY retentionCleanup.label "Disko lekua berreskuratzeko, mezu zaharrak betirako ezaba daitezke">
-<!ENTITY retentionDeleteMsg.label "Delete messages more than">
+<!ENTITY retentionDeleteMsg.label "Ezabatu hau baino zaharragoak diren mezuak">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Ez ezabatu mezurik">
 <!ENTITY retentionKeepAll.accesskey "A">
