@@ -171,8 +171,7 @@
 
 <!ENTITY clearPrivateDataCmd.label "Hreinsa persónuleg gögn">
 <!ENTITY clearPrivateDataCmd.accesskey "e">
-<!ENTITY viewMenu.label "Skoða
-">
+<!ENTITY viewMenu.label "Skoða">
  
 <!ENTITY viewMenu.accesskey "k">
  
@@ -244,8 +243,8 @@
 <!ENTITY viewPageInfoCmd.accesskey "S">
 <!ENTITY viewFrameInfoCmd.label "Rammaupplýsingar">
 <!ENTITY viewFrameInfoCmd.accesskey "R">
-<!ENTITY showImageCmd.label "Sýna mynd">
-<!ENTITY showImageCmd.accesskey "S">
+<!ENTITY reloadImageCmd.label "Endurlesa mynd">
+<!ENTITY reloadImageCmd.accesskey "R">
 <!ENTITY viewImageCmd.label "Sjá mynd">
 <!ENTITY viewImageCmd.accesskey "m">
 <!ENTITY viewBGImageCmd.label "Sjá bakgrunnsmynd">
@@ -357,7 +356,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
  
 <!ENTITY quitApplicationCmd.accesskey "H">
 <!ENTITY quitApplicationCmdMac.label "Hætta í &brandShortName;">
-<!ENTITY quitApplicationCmdMac.key "H">
+<!ENTITY quitApplicationCmdMac.key "Q">
 <!ENTITY closeCmd.label "Loka">
   
 <!ENTITY closeCmd.key "W">

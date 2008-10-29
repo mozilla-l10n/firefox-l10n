@@ -51,21 +51,9 @@
 <!ENTITY calendar.new.server.label "Nýtt dagatal…">
 <!ENTITY calendar.new.server.key "D">
 <!ENTITY calendar.new.server.accesskey "d">
-<!ENTITY calendar.open.file.label "Opna dagatal…">
-<!ENTITY calendar.open.file.key "O">
-<!ENTITY calendar.open.file.accesskey "O">
-<!ENTITY event.edit.event "Breyta atriði…">
-<!ENTITY event.edit.event.key "E">
-<!ENTITY event.edit.event.accesskey "B">
-<!ENTITY event.delete.event "Eyða völdu atriði">
-<!ENTITY event.delete.event.accesskey "v">
-<!ENTITY event.delete.tasks "Eyða völdum verkum">
-<!ENTITY event.delete.tasks.accesskey "l">
 <!ENTITY calendar.print.label "Prenta…">
 <!ENTITY calendar.print.key "P">
 <!ENTITY calendar.print.accesskey "P">
-<!ENTITY calendar.pagesetup.label "Uppsetning síðu…">
-<!ENTITY calendar.pagesetup.accesskey "U">
 <!ENTITY calendar.import.label "Flytja inn…">
 <!ENTITY calendar.import.key "I">
 <!ENTITY calendar.import.accesskey "F">
@@ -73,55 +61,14 @@
 <!ENTITY calendar.export.calendar.accesskey "j">
 <!ENTITY calendar.export.selection.label "Flytja út val…">
 <!ENTITY calendar.export.selection.accesskey "v">
-<!ENTITY calendar.subscribe.label "Gerast áskrifandi að fjartengdu dagatali…">
-<!ENTITY calendar.subscribe.accesskey "G">
-<!ENTITY calendar.reloadserver.label "Endurnýja fjartengd dagatöl">
-<!ENTITY calendar.reloadserver.key "R">
-<!ENTITY calendar.reloadserver.accesskey "r">
 <!ENTITY calendar.publish.label "Gefa út…">
 <!ENTITY calendar.publish.accesskey "t">
-<!ENTITY calendar.publish.calendar.label "Gefa út dagatal…">
-<!ENTITY calendar.publish.calendar.accesskey "d">
-<!ENTITY calendar.publish.selection.label "Gefa út valin atriði…">
-<!ENTITY calendar.publish.selection.accesskey "i">
-<!ENTITY calendar.quit.label "Hætta">
-<!ENTITY calendar.quit.accesskey "H">
-<!ENTITY calendar.quit.key "Q">
-<!ENTITY calendar.quit.label.mac "Hætta í &brandShortName;">
-<!ENTITY calendar.exit.label "Hætta">
-<!ENTITY calendar.exit.accesskey "H">
-<!ENTITY calendar.undo.label "Afturkalla">
-<!ENTITY calendar.undo.key "Z">
-<!ENTITY calendar.undo.accesskey "f">
-<!ENTITY calendar.redo.label "Endurtaka">
-<!ENTITY calendar.redo.key "Y">
-<!ENTITY calendar.redo.accesskey "E">
-<!ENTITY calendar.cut.label "Klippa">
-<!ENTITY calendar.cut.key "X">
-<!ENTITY calendar.cut.accesskey "K">
-<!ENTITY calendar.copy.label "Afrita">
-<!ENTITY calendar.copy.key "C">
-<!ENTITY calendar.copy.accesskey "A">
-<!ENTITY calendar.paste.label "Líma">
-<!ENTITY calendar.paste.key "V">
-<!ENTITY calendar.paste.accesskey "L">
-<!ENTITY calendar.selectall.label "Velja allt">
-<!ENTITY calendar.selectall.key "A">
-<!ENTITY calendar.selectall.accesskey "a">
-<!ENTITY toolbarsMenu.label "Verkfærarein">
-<!ENTITY toolbarsMenu.accesskey "V">
 <!ENTITY calendar.toolbar.label "Dagatal verkfærarein">
 <!ENTITY calendar.toolbar.accesskey "D">
 <!ENTITY task.toolbar.label "Verk verkfærarein">
 <!ENTITY task.toolbar.accesskey "V">
-<!ENTITY mode.toolbar.label "Hamur verkfærareinar">
-<!ENTITY mode.toolbar.accesskey "H">
 <!ENTITY calendar.menu.customize.label "Sérsníða…">
 <!ENTITY calendar.menu.customize.accesskey "r">
-<!ENTITY showStatusBarCmd.label "Stöðurein">
-<!ENTITY showStatusBarCmd.accesskey "t">
-<!ENTITY showTaskBoxCmd.label "Yfirlit verka">
-<!ENTITY showTaskBoxCmd.accesskey "Y">
 <!ENTITY showUnifinderCmd.label "Finna atburði">
 <!ENTITY showUnifinderCmd.accesskey "F">
 <!ENTITY calendar.displaytodos.checkbox.label "Sýna verk í dagatali">
@@ -132,16 +79,8 @@
 <!ENTITY calendar.menu.numberofweeks.4 "Fjórar vikur">
 <!ENTITY calendar.menu.numberofweeks.5 "Fimm vikur">
 <!ENTITY calendar.menu.numberofweeks.6 "Sex vikur">
-<!ENTITY calendar.fullscreen.label "Skjáhamur">
-<!ENTITY calendar.fullscreen.accesskey "k">
-<!ENTITY calendar.addons.label "Viðbætur">
-<!ENTITY calendar.addons.accesskey "V">
-<!ENTITY goMenu.label "Fara">
-<!ENTITY goMenu.accesskey "F">
 <!ENTITY goTodayCmd.label "Í dag">
 <!ENTITY goTodayCmd.accesskey "d">
-<!ENTITY goDateCmd.label "Dagsetning…">
-<!ENTITY goDateCmd.accesskey "D">
 <!ENTITY goPreviousCmd.day.label "Fyrri dagur">
 <!ENTITY goPreviousCmd.week.label "Fyrri vika">
 <!ENTITY goPreviousCmd.month.label "Fyrri mánuður">
@@ -150,54 +89,8 @@
 <!ENTITY goNextCmd.week.label "Næsta vika">
 <!ENTITY goNextCmd.month.label "Næsti mánuður">
 <!ENTITY goNextCmd.all.accesskey "N">
-<!ENTITY toolsMenu.label "Verkfæri">
-<!ENTITY toolsMenu.accesskey "V">
-<!ENTITY errorConsoleCmd.label "Villugluggi">
-<!ENTITY errorConsoleCmd.accesskey "V">
 <!ENTITY addressBookCmd.label "Tengiliðir">
 <!ENTITY addressBookCmd.accesskey "T">
-<!ENTITY helpMenu.label "Hjálp">
-<!ENTITY helpMenu.accesskey "H">
-<!-- LOCALIZATION NOTE some localizations of Windows use "?"
-           for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label "Hjálp">
- 
-<!ENTITY helpMenuWin.accesskey "H">
-<!-- Toolbar items -->
-<!ENTITY fileMenu.label "Skrá">
-<!ENTITY fileMenu.accesskey "S">
-<!ENTITY editMenu.label "Breyta">
-<!ENTITY editMenu.accesskey "B">
-<!ENTITY optionsCmd.label "Valkostir…">
-<!ENTITY optionsCmd.accesskey "V">
-<!ENTITY preferencesCmd.label "Valkostir">
-<!ENTITY preferencesCmd.accesskey "V">
-<!ENTITY preferencesCmdMac.label "Valkostir…">
-<!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.modifiers "accel">
-<!ENTITY viewMenu.label "Sýn">
-<!ENTITY viewMenu.accesskey "n">
-<!ENTITY releaseCmd.label "Útgáfuupplýsingar">
-<!ENTITY releaseCmd.accesskey "t">
-<!ENTITY aboutCmd.label "Um &brandFullName;">
-<!ENTITY aboutCmd.accesskey "U">
-<!ENTITY updateCmd.label "Athuga með uppfærslur…">
-<!ENTITY updateCmd.accesskey "u">
-<!-- Mac OS X "Window" menu items -->
-<!ENTITY windowMenu.label "Gluggi">
-<!ENTITY minimizeWindow.label "Minnka">
-<!ENTITY zoomWindow.label "Þysja">
-<!ENTITY minimizeWindow.key "M">
-<!ENTITY bringAllToFront.label "Endurheimta">
-<!-- Mac OS X Application menu items -->
-<!ENTITY servicesMenuMac.label "Þjónustur">
-<!ENTITY hideThisAppCmdMac.label "Fela &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "F">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
-<!ENTITY hideOtherAppsCmdMac.label "Fela aðra">
-<!ENTITY hideOtherAppsCmdMac.commandkey "a">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
-<!ENTITY showAllAppsCmdMac.label "Sýna alla">
 <!ENTITY calendar.importcalendar.label "Flytja inn dagatal…">
 <!ENTITY showCurrentView.label "Núverandi sýn">
 <!ENTITY showCurrentView.accesskey "N">

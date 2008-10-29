@@ -8,8 +8,7 @@
 <!ENTITY byDate.accesskey "D">
 <!ENTITY bySite.label "Eftir vefsvæði">
 <!ENTITY bySite.accesskey "v">
-<!ENTITY view.label "Skoða
-">
+<!ENTITY view.label "Skoða">
 <!ENTITY view.accesskey "S">
 <!ENTITY byMostVisited.label "Eftir flestum heimsóknum">
 <!ENTITY byMostVisited.accesskey "h">

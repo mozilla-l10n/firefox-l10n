@@ -35,29 +35,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY time.midnight "Miðnætti">
-<!ENTITY time.1 "1:00">
-<!ENTITY time.2 "2:00">
-<!ENTITY time.3 "3:00">
-<!ENTITY time.4 "4:00">
-<!ENTITY time.5 "5:00">
-<!ENTITY time.6 "6:00">
-<!ENTITY time.7 "7:00">
-<!ENTITY time.8 "8:00">
-<!ENTITY time.9 "9:00">
-<!ENTITY time.10 "10:00">
-<!ENTITY time.11 "11:00">
 <!ENTITY time.noon "Hádegi">
-<!ENTITY time.13 "13:00">
-<!ENTITY time.14 "14:00">
-<!ENTITY time.15 "15:00">
-<!ENTITY time.16 "16:00">
-<!ENTITY time.17 "17:00">
-<!ENTITY time.18 "18:00">
-<!ENTITY time.19 "19:00">
-<!ENTITY time.20 "20:00">
-<!ENTITY time.21 "21:00">
-<!ENTITY time.22 "22:00">
-<!ENTITY time.23 "23:00">
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
