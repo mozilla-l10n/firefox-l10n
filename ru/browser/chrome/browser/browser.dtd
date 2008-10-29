@@ -179,8 +179,8 @@
 <!ENTITY viewPageInfoCmd.accesskey "И">
 <!ENTITY viewFrameInfoCmd.label "Информация о фрейме">
 <!ENTITY viewFrameInfoCmd.accesskey "ц">
-<!ENTITY showImageCmd.label "Показать изображение">
-<!ENTITY showImageCmd.accesskey "к">
+<!ENTITY reloadImageCmd.label "Перезагрузить изображение">
+<!ENTITY reloadImageCmd.accesskey "р">
 <!ENTITY viewImageCmd.label "Открыть изображение">
 <!ENTITY viewImageCmd.accesskey "т">
 <!ENTITY viewBGImageCmd.label "Открыть фоновое изображение">
@@ -209,8 +209,16 @@
 <!ENTITY sendLinkCmd.accesskey "ы">
 <!ENTITY saveImageCmd.label "Сохранить изображение как…">
 <!ENTITY saveImageCmd.accesskey "х">
+<!ENTITY saveVideoCmd.label "Сохранить видео как…">
+<!ENTITY saveVideoCmd.accesskey "х">
+<!ENTITY saveAudioCmd.label "Сохранить аудио как…">
+<!ENTITY saveAudioCmd.accesskey "х">
 <!ENTITY sendImageCmd.label "Отправить изображение…">
 <!ENTITY sendImageCmd.accesskey "з">
+<!ENTITY sendVideoCmd.label "Отправить видео…">
+<!ENTITY sendVideoCmd.accesskey "п">
+<!ENTITY sendAudioCmd.label "Отправить аудио…">
+<!ENTITY sendAudioCmd.accesskey "п">
 <!ENTITY copyLinkCmd.label "Копировать ссылку">
 <!ENTITY copyLinkCmd.accesskey "ы">
 <!ENTITY copyLinkTextCmd.label "Копировать текст ссылки">
@@ -219,6 +227,10 @@
 <!ENTITY copyImageCmd.accesskey "и">
 <!ENTITY copyImageContentsCmd.label "Копировать изображение">
 <!ENTITY copyImageContentsCmd.accesskey "и">
+<!ENTITY copyVideoURLCmd.label "Копировать ссылку на видео">
+<!ENTITY copyVideoURLCmd.accesskey "п">
+<!ENTITY copyAudioURLCmd.label "Копировать ссылку на аудио">
+<!ENTITY copyAudioURLCmd.accesskey "п">
 <!ENTITY blockImageCmd.accesskey "л">
 <!ENTITY metadataCmd.label "Свойства">
 <!ENTITY metadataCmd.accesskey "й">
@@ -226,6 +238,18 @@
 <!ENTITY copyEmailCmd.accesskey "э">
 <!ENTITY thisFrameMenu.label "В этом фрейме">
 <!ENTITY thisFrameMenu.accesskey "ф">
+<!ENTITY mediaPlay.label "Воспроизвести">
+<!ENTITY mediaPlay.accesskey "п">
+<!ENTITY mediaPause.label "Приостановить">
+<!ENTITY mediaPause.accesskey "с">
+<!ENTITY mediaMute.label "Убрать звук">
+<!ENTITY mediaMute.accesskey "б">
+<!ENTITY mediaUnmute.label "Дать звук">
+<!ENTITY mediaUnmute.accesskey "т">
+<!ENTITY mediaShowControls.label "Показать управление">
+<!ENTITY mediaShowControls.accesskey "а">
+<!ENTITY mediaHideControls.label "Скрыть управление">
+<!ENTITY mediaHideControls.accesskey "к">
 <!ENTITY fullZoomEnlargeCmd.label "Увеличить">
 <!ENTITY fullZoomEnlargeCmd.accesskey "в">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">

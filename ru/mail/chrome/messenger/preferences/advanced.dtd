@@ -19,8 +19,6 @@
 <!ENTITY reuseExpRadio0.accesskey "о">
 <!ENTITY reuseExpRadio1.label "уже существующем окне">
 <!ENTITY reuseExpRadio1.accesskey "с">
-<!ENTITY reuseExpRadio2.label "новой вкладке">
-<!ENTITY reuseExpRadio2.accesskey "к">
 <!ENTITY configEditDesc.label "Дополнительные настройки">
 <!ENTITY configEdit.label "Редактор настроек…">
 <!ENTITY configEdit.accesskey "д">

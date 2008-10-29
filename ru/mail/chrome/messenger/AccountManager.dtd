@@ -3,11 +3,8 @@
 <!ENTITY addAccountButton.accesskey "Д">
 <!ENTITY setDefaultButton.label "Установить по умолчанию">
 <!ENTITY setDefaultButton.accesskey "п">
-<!ENTITY duplicateButton.label "Дублировать">
 <!ENTITY removeButton.label "Удалить учётную запись">
 <!ENTITY removeButton.accesskey "У">
-<!ENTITY nameCol.label "Имя">
-<!ENTITY duplicate.label "Дублировать">
 <!ENTITY accountManager.size "width: 72em; height: 50em;">
 <!ENTITY macAccountManager.size "width: 73em; height: 50em;">
 <!ENTITY accountTree.width "width: 20em;">

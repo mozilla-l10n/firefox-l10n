@@ -15,8 +15,6 @@
 <!ENTITY contextBoth.label "Проверке почты или запуске вручную">
 <!ENTITY filterActionDesc.label "Выполнять следующие действия:">
 <!ENTITY filterActionDesc.accesskey "В">
-<!ENTITY newFolderButton.label "Создать папку…">
-<!ENTITY newFolderButton.accesskey "С">
 <!ENTITY moveMessage.label "Переместить сообщение в">
 <!ENTITY copyMessage.label "Копировать сообщение в">
 <!ENTITY forwardTo.label "Переслать сообщение на">

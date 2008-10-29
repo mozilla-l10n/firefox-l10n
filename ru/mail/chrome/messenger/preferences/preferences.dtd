@@ -5,7 +5,6 @@
 <!ENTITY prefWindow.styleGNOME "width: 65em; min-height: 38em;">
 <!ENTITY paneGeneral.title "Основные">
 <!ENTITY paneDisplay.title "Отображение">
-<!ENTITY paneTags.title "Метки">
 <!ENTITY paneComposition.title "Составление">
 <!ENTITY paneAttachments.title "Вложенные файлы">
 <!ENTITY panePrivacy.title "Приватность">

@@ -5,7 +5,6 @@
 <!ENTITY ListNickName.label "Псевдоним списка:">
 <!ENTITY ListDescription.label "Описание:">
 <!ENTITY AddressTitle.label "Введите адреса, чтобы добавить их в список рассылки:">
-<!ENTITY RemoveButton.label "Удалить">
 <!ENTITY UpButton.label "Вверх">
 <!ENTITY DownButton.label "Вниз">
 <!ENTITY addToAddressBook.accesskey "Д">

@@ -20,7 +20,6 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "с">
 <!ENTITY deleteCmd.label "Удалить">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "У">
 <!ENTITY selectAllCmd.label "Выделить всё">
 <!ENTITY selectAllCmd.key "A">
@@ -29,24 +28,14 @@
 <!ENTITY preferencesCmd.accesskey "Н">
 <!ENTITY preferencesCmdUnix.label "Настройки">
 <!ENTITY preferencesCmdUnix.accesskey "Н">
-<!ENTITY findTypeTextCmd.label "Поиск текста по мере набора">
-<!ENTITY findTypeTextCmd.accesskey "и">
 <!ENTITY viewMenu.label "Вид">
 <!ENTITY viewMenu.accesskey "В">
 <!ENTITY viewToolbarsMenu.label "Показать/скрыть">
 <!ENTITY viewToolbarsMenu.accesskey "П">
 <!ENTITY showTaskbarCmd.label "Строка состояния">
 <!ENTITY showTaskbarCmd.accesskey "С">
-<!ENTITY direct.label "В сети (прокси: нет)">
-<!ENTITY direct.accesskey "н">
-<!ENTITY manual.label "В сети (прокси настроено вручную)">
-<!ENTITY manual.accesskey "в">
-<!ENTITY pac.label "В сети (прокси настроено автоматически)">
-<!ENTITY pac.accesskey "а">
 <!ENTITY proxy.label "Конфигурация прокси">
 <!ENTITY proxy.accesskey "К">
-<!ENTITY findTypeTextCmd.key "/">
-<!ENTITY findTypeLinksCmd.key "'">
 <!ENTITY closeCmd.label "Закрыть">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "З">

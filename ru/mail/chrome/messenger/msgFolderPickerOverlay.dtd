@@ -1,12 +1,3 @@
 <!--null-->
-<!ENTITY subscribechoosethis.label "выбрать этот сервер новостей">
-<!ENTITY subscribeclickhere.label "нажмите здесь, чтобы выбрать сервер новостей">
 <!ENTITY newfolderchoosethis.label "выбрать как родительскую">
-<!ENTITY newfolderclickhere.label "Нажмите здесь, чтобы выделить">
-<!ENTITY renamefolderchoosethis.label "выбрать эту папку">
-<!ENTITY renamefolderclickhere.label "нажмите здесь, чтобы выбрать папку">
 <!ENTITY filemessageschoosethis.label "выбрать эту папку">
-<!ENTITY filemessagesclickhere.label "нажмите здесь, чтобы выбрать папку">
-<!ENTITY chooseaccountclickhere.label "Нажмите здесь, чтобы выбрать учётную запись">
-<!ENTITY choosefolderclickhere.label "Нажмите здесь, чтобы выделить папку">
-<!ENTITY chooseserverToDeferTo.label "нажмите здесь чтобы выбрать учётную запись для хранения сообщений">

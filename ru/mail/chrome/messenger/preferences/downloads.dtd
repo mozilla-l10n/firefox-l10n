@@ -3,8 +3,6 @@
 <!ENTITY alwaysAsk.accesskey "п">
 <!ENTITY neverAsk.label "Сохранять все вложенные файлы в папку:">
 <!ENTITY neverAsk.accesskey "х">
-<!ENTITY desktop.label "Рабочий стол">
-<!ENTITY downloads.label "Мои загрузки">
 <!ENTITY chooseFolderWin.label "Обзор…">
 <!ENTITY chooseFolderWin.accesskey "б">
 <!ENTITY chooseFolderMac.label "Выбрать…">
@@ -13,9 +11,3 @@
 <!ENTITY configureActions.label "Просмотр и редактирование действий…">
 <!ENTITY configureActions.accesskey "р">
 <!ENTITY fileTypesDescription.label "&brandShortName; может автоматически сохранять или открывать вложения определённых типов.">
-<!ENTITY fileTypeColName.label "Тип файлов">
-<!ENTITY fileHandlerColName.label "Приложение">
-<!ENTITY editFileHandler.label "Изменить действие…">
-<!ENTITY editFileHandler.accesskey "з">
-<!ENTITY removeFileHandler.label "Удалить">
-<!ENTITY removeFileHandler.accesskey "д">

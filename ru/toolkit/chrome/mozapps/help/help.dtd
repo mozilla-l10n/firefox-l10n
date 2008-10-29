@@ -19,9 +19,8 @@
 <!ENTITY printButton.label "Печать">
 <!ENTITY printButton.tooltip "Распечатать эту страницу">
 <!ENTITY closeWindow.commandkey "W">
-<!ENTITY searchtab.label "Поиск">
-<!ENTITY searchtab.accesskey "и">
-<!ENTITY searchClose.tooltip "Закрыть результаты поиска">
+<!ENTITY search.emptytext "Поиск">
+<!ENTITY searchHeader.label "Результаты поиска">
 <!ENTITY toctab.label "Содержание">
 <!ENTITY toctab.accesskey "д">
 <!ENTITY fullZoomReduceCmd.commandkey "-">
