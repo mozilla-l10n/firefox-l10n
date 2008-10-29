@@ -1,0 +1,41 @@
+<!ENTITY mainWindow.titleseparator " - ">
+<!ENTITY back.label "Anterior">
+<!ENTITY back.tooltip "Anterior">
+<!ENTITY forward.label "Siguiente">
+<!ENTITY forward.tooltip "Siguiente">
+<!ENTITY reload.label "Recargar">
+<!ENTITY reload.tooltip "Recargar">
+<!ENTITY stop.label "Parar">
+<!ENTITY stop.tooltip "Parar">
+<!ENTITY search.label "Buscar">
+<!ENTITY search.tooltip "Buscar">
+<!ENTITY go.label "Ir">
+<!ENTITY go.tooltip "Ir">
+<!ENTITY star.label "Marcar">
+<!ENTITY star.tooltip "Añadir esta página a marcadores">
+<!ENTITY bookmarks.label "Marcadores">
+<!ENTITY bookmarks.tooltip "Ver marcadores">
+<!ENTITY newtab.label "Nueva pestaña">
+<!ENTITY closetab.label "Cerrar pestaña">
+<!ENTITY cut.label "Cortar">
+<!ENTITY copy.label "Copiar">
+<!ENTITY copylink.label "Copiar la ruta del enlace">
+<!ENTITY paste.label "Pegar">
+<!ENTITY delete.label "Eliminar">
+<!ENTITY selectAll.label "Seleccionar todo">
+<!ENTITY noSuggestions.label "(Sin sugerencias)">
+<!ENTITY addToDictionary.label "Añadir al diccionario">
+<!ENTITY bookmarkName.label "Nombre:">
+<!ENTITY bookmarkFolder.label "Carpeta:">
+<!ENTITY bookmarkTags.label "Etiquetas:">
+<!ENTITY bookmarkRemove.label "Eliminar marcador">
+<!ENTITY findOnCmd.label "Buscar en esta página…">
+<!ENTITY findOnCmd.accesskey "B">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label "Repetir la búsqueda">
+<!ENTITY findAgainCmd.accesskey "R">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY identity.unverifiedsite2 "Este sitio web no proporciona información de identidad.">
+<!ENTITY identity.connectedTo "Está conectado a">
+<!ENTITY identity.runBy "que pertenece a">
