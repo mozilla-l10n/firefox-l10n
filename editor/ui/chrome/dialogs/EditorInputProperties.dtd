@@ -52,11 +52,13 @@
 
 <!ENTITY InputSettings.label "欄位設定">
 <!ENTITY InputName.label "欄位名稱:">
+<!ENTITY InputName.accesskey "N">
 <!ENTITY GroupName.label "群組名稱:">
-<!ENTITY Name.accesskey "N">
+<!ENTITY GroupName.accesskey "N">
 <!ENTITY InputValue.label "欄位內含值:">
+<!ENTITY InputValue.accesskey "V">
 <!ENTITY InitialValue.label "內含值初始值">
-<!ENTITY Value.accesskey "V">
+<!ENTITY InitialValue.accesskey "V">
 <!ENTITY InputChecked.label "初始時自動選擇">
 <!ENTITY InputChecked.accesskey "C">
 <!ENTITY InputSelected.label "初始時自動選取">

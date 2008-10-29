@@ -129,7 +129,7 @@
 <!ENTITY col.dateadded.label     "加入日期">
 <!ENTITY col.lastmodified.label  "最後更改日期">
 
-<!ENTITY search.label                              "尋找:">
+<!ENTITY search.label                              "搜尋:">
 <!ENTITY search.accesskey                          "S">
 <!ENTITY search.collection.label                   "僅限目前書籤集">
 <!ENTITY search.collection.accesskey               "C">
@@ -147,12 +147,12 @@
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "瀏覽記錄">
 <!ENTITY search.scopeHistory.accesskey             "H">
-<!ENTITY search.scopeBarExpanderDown.tooltip       "顯示尋找條件建立器">
-<!ENTITY search.scopeBarExpanderUp.tooltip         "隱藏尋找條件建立器">
+<!ENTITY search.scopeBarExpanderDown.tooltip       "顯示搜尋條件建立器">
+<!ENTITY search.scopeBarExpanderUp.tooltip         "隱藏搜尋條件建立器">
 <!ENTITY saveSearch.label                          "儲存">
 <!ENTITY saveSearch.accesskey                      "S">
 <!ENTITY moreCriteria.label                        "+">
-<!ENTITY advancedSearch.onlybookmarked.label       "只尋找書籤項目">
+<!ENTITY advancedSearch.onlybookmarked.label       "只搜尋書籤項目">
 <!ENTITY advancedSearch.match.label                "符合下列 ">
 <!ENTITY advancedSearch.all.label                  "所有">
 <!ENTITY advancedSearch.any.label                  "任一">
