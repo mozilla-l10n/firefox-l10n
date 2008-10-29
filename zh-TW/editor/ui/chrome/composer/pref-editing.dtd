@@ -4,9 +4,9 @@
 <!ENTITY  authorName.accesskey      "u">
 <!ENTITY  pageColorHeader           "預設頁面設定">
 
-<!ENTITY defaultColorsRadio.label   "使用瀏覽器的色彩設定(本網頁不指定色彩)">
+<!ENTITY defaultColors.label        "使用瀏覽器的色彩設定(本網頁不指定色彩)">
 <!ENTITY defaultColors.accesskey    "d">
-<!ENTITY customColorsRadio.label    "使用者自訂的顏色:(由本網頁指定)">
+<!ENTITY customColors.label         "使用者自訂的顏色:(由本網頁指定)">
 <!ENTITY customColors.accesskey     "c">
 
 <!ENTITY normalText.label           "一般文字:">

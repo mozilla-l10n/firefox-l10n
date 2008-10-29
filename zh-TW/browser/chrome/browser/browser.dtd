@@ -179,7 +179,7 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "尋找書籤及瀏覽記錄">
+<!ENTITY urlbar.emptyText             "搜尋書籤及瀏覽記錄">
 <!ENTITY urlbar.accesskey             "d">
 
 <!-- 
@@ -264,8 +264,16 @@
 <!ENTITY sendLinkCmd.accesskey        "d">
 <!ENTITY saveImageCmd.label           "圖片另存新檔…">
 <!ENTITY saveImageCmd.accesskey       "v">
+<!ENTITY saveVideoCmd.label           "另存視訊檔案…">
+<!ENTITY saveVideoCmd.accesskey       "v">
+<!ENTITY saveAudioCmd.label           "另存音訊檔案…">
+<!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY sendImageCmd.label           "郵寄此圖片…">
 <!ENTITY sendImageCmd.accesskey       "n">
+<!ENTITY sendVideoCmd.label           "郵寄視訊檔案…">
+<!ENTITY sendVideoCmd.accesskey       "n">
+<!ENTITY sendAudioCmd.label           "郵寄音訊檔案…">
+<!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label            "複製鏈結網址">
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyLinkTextCmd.label        "複製鏈結文字">
@@ -274,13 +282,32 @@
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "複製圖片">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
-<!ENTITY blockImageCmd.accesskey       "B">
+<!ENTITY copyVideoURLCmd.label        "複製視訊檔案網址">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "複製音訊檔案網址">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY blockImageCmd.accesskey      "B">
 <!ENTITY metadataCmd.label            "屬性">
 <!ENTITY metadataCmd.accesskey        "P">
 <!ENTITY copyEmailCmd.label           "複製 Email 位址">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "本頁框">
 <!ENTITY thisFrameMenu.accesskey          "h">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "播放">
+<!ENTITY mediaPlay.accesskey         "P">
+<!ENTITY mediaPause.label            "暫停">
+<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaMute.label             "靜音">
+<!ENTITY mediaMute.accesskey         "M">
+<!ENTITY mediaUnmute.label           "聲音">
+<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaShowControls.label     "顯示控制按鈕">
+<!ENTITY mediaShowControls.accesskey "C">
+<!ENTITY mediaHideControls.label     "隱藏控制按鈕">
+<!ENTITY mediaHideControls.accesskey "C">
+
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and

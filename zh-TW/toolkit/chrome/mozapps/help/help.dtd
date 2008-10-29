@@ -22,9 +22,8 @@
 <!ENTITY printButton.tooltip            "列印此頁">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY searchtab.label                "搜尋">
-<!ENTITY searchtab.accesskey            "S">
-<!ENTITY searchClose.tooltip            "關閉搜尋結果">
+<!ENTITY search.emptytext               "搜尋">
+<!ENTITY searchHeader.label             "搜尋結果">
 <!ENTITY toctab.label                   "目錄">
 <!ENTITY toctab.accesskey               "C">
 

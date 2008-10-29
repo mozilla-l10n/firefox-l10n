@@ -80,9 +80,7 @@
 <!ENTITY cellSelectPrevious.accessKey     "P">
 <!ENTITY cellApplyBeforeMove.label        "在改變選取中儲存格前套用所改設定">
 <!ENTITY cellKeepCurrentData.label        "保留目前設定">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label         "目前所做改變會在改變">
-<!ENTITY applyBeforeChange2.label         "選取中儲存格前套用">
+<!ENTITY applyBeforeChange.label          "所改設定會在改變選取儲存格前先行套用。">
 <!ENTITY cellRowSpan.label                "跨行:">
 <!ENTITY cellColSpan.label                "跨欄:">
 <!ENTITY cellContentAlignment.label       "內容對齊格子方式">

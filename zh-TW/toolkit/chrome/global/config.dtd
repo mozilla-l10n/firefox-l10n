@@ -45,6 +45,7 @@
 
 <!ENTITY filterPrefs.label "篩選條件:">
 <!ENTITY filterPrefs.accesskey "F">
+<!ENTITY focusFilter.key "f">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "偏好設定名稱">
