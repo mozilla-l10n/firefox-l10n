@@ -232,15 +232,15 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 
-<!ENTITY fullZoomEnlargeCmd.label "Zoom In">
-<!ENTITY fullZoomEnlargeCmd.accesskey "I">
+<!ENTITY fullZoomEnlargeCmd.label "Gerturatu">
+<!ENTITY fullZoomEnlargeCmd.accesskey "G">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label "Zoom Out">
-<!ENTITY fullZoomReduceCmd.accesskey "O">
+<!ENTITY fullZoomReduceCmd.label "Urrundu">
+<!ENTITY fullZoomReduceCmd.accesskey "U">
 <!ENTITY fullZoomReduceCmd.commandkey "-">
 <!ENTITY fullZoomReduceCmd.commandkey2 "">
 
@@ -249,12 +249,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey "0">
 <!ENTITY fullZoomResetCmd.commandkey2 "">
 
-<!ENTITY fullZoomToggleCmd.label "Zoom Text Only">
+<!ENTITY fullZoomToggleCmd.label "Testua soilik">
 <!ENTITY fullZoomToggleCmd.accesskey "T">
-<!ENTITY fullZoom.label "Zoom">
+<!ENTITY fullZoom.label "Zooma">
 <!ENTITY fullZoom.accesskey "Z">
 
-<!ENTITY pageSourceCmd.label "Mezu Iturburua">
+<!ENTITY pageSourceCmd.label "Mezuaren iturburua">
 <!ENTITY pageSourceCmd.accesskey "u">
 <!ENTITY pageSourceCmd.key "u">
 <!-- Search Menu -->
@@ -287,20 +287,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextMsgCmd.label "Mezua">
 <!ENTITY nextMsgCmd.accesskey "M">
 <!ENTITY nextMsgCmd.key "f">
-<!ENTITY nextUnreadMsgCmd.label "Irakurri gabeko Mezura">
+<!ENTITY nextUnreadMsgCmd.label "Irakurri gabeko mezura">
 <!ENTITY nextUnreadMsgCmd.accesskey "I">
 <!ENTITY nextUnreadMsgCmd.key "n">
-<!ENTITY nextStarredMsgCmd.label "Izardun Mezua">
+<!ENTITY nextStarredMsgCmd.label "Izardun mezua">
 <!ENTITY nextStarredMsgCmd.accesskey "Z">
-<!ENTITY nextUnreadThread.label "Irakurri gabeko _harira">
-<!ENTITY nextUnreadThread.accesskey "T">
+<!ENTITY nextUnreadThread.label "Irakurri gabeko harira">
+<!ENTITY nextUnreadThread.accesskey "H">
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Aurreko">
 <!ENTITY prevMenu.accesskey "A">
 <!ENTITY prevMsgCmd.label "Mezua">
 <!ENTITY prevMsgCmd.accesskey "M">
 <!ENTITY prevMsgCmd.key "b">
-<!ENTITY prevUnreadMsgCmd.label "Irakurri gabeko Mezura">
+<!ENTITY prevUnreadMsgCmd.label "Irakurri gabeko mezura">
 <!ENTITY prevUnreadMsgCmd.accesskey "I">
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goForwardCmd.label "Aurrera">
@@ -309,13 +309,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "Atzera">
 <!ENTITY goBackCmd.accesskey "Z">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY prevStarredMsgCmd.label "Izardun Mezua">
+<!ENTITY prevStarredMsgCmd.label "Izardun mezua">
 <!ENTITY prevStarredMsgCmd.accesskey "Z">
-<!ENTITY startPageCmd.label "Posta Hasierako Orrira">
+<!ENTITY startPageCmd.label "Postaren Hasiera orrira">
 <!ENTITY startPageCmd.accesskey "H">
 <!ENTITY msgMenu.label "Mezua">
 <!ENTITY msgMenu.accesskey "M">
-<!ENTITY newMsgCmd.label "Mezu Berria">
+<!ENTITY newMsgCmd.label "Mezu berria">
 <!ENTITY newMsgCmd.accesskey "B">
 <!ENTITY newNewMsgCmd.label "Mezua">
 <!ENTITY newNewMsgCmd.accesskey "M">
@@ -324,7 +324,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Erantzun bidaltzaileari soilik">
 <!ENTITY replySenderCmd.accesskey "R">
-<!ENTITY replyNewsgroupCmd.label "Erantzun Berri-taldeari">
+<!ENTITY replyNewsgroupCmd.label "Erantzun berri-taldeari">
 <!ENTITY replyNewsgroupCmd.accesskey "t">
 <!ENTITY replyToAllMsgCmd.label "Erantzun denei">
 <!ENTITY replyToAllMsgCmd.accesskey "e">
@@ -338,34 +338,34 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY forwardAsInline.accesskey "B">
 <!ENTITY forwardAsAttachmentCmd.label "Eranskina">
 <!ENTITY forwardAsAttachmentCmd.accesskey "E">
-<!ENTITY editMsgAsNewCmd.label "Editatu Mezua Berri Gisa">
+<!ENTITY editMsgAsNewCmd.label "Editatu mezua berri gisa">
 <!ENTITY editMsgAsNewCmd.accesskey "E">
 <!ENTITY editMsgAsNewCmd.key "e">
-<!ENTITY createFilter.label "Iragazkia Mezutik Sortu...">
+<!ENTITY createFilter.label "Sortu iragazkia mezutik...">
 <!ENTITY createFilter.accesskey "a">
-<!ENTITY moveMsgToMenu.label "Lekuz aldatu hona: ">
-<!ENTITY moveMsgToMenu.accesskey "L">
+<!ENTITY moveMsgToMenu.label "Aldatu lekuz hona: ">
+<!ENTITY moveMsgToMenu.accesskey "K">
 <!ENTITY moveCopyMsgRecentMenu.label "Oraintsukoa">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "O">
-<!ENTITY copyMessageLocation.label "Kopiatu Mezuaren Kokalekua">
+<!ENTITY copyMessageLocation.label "Kopiatu mezuaren kokalekua">
 <!ENTITY copyMessageLocation.accesskey "M">
 <!ENTITY copyMsgToMenu.label "Kopiatu hona: ">
 <!ENTITY copyMsgToMenu.accesskey "K">
-<!ENTITY moveToFolderAgain.label "Mugitu Berriz">
+<!ENTITY moveToFolderAgain.label "Mugitu berriz">
 <!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "m">
-<!ENTITY killThreadMenu.label "Ezikusi Haria">
+<!ENTITY killThreadMenu.label "Ezikusi haria">
 <!ENTITY killThreadMenu.accesskey "E">
 <!ENTITY killThreadMenu.key "k">
-<!ENTITY killSubthreadMenu.label "Alde batetara utzi azpi-haria">
-<!ENTITY killSubthreadMenu.accesskey "A">
+<!ENTITY killSubthreadMenu.label "Ezikusi azpi-haria">
+<!ENTITY killSubthreadMenu.accesskey "Z">
 <!ENTITY killSubthreadMenu.key "i">
-<!ENTITY watchThreadMenu.label "Ikusi Haria">
+<!ENTITY watchThreadMenu.label "Ikusi haria">
 <!ENTITY watchThreadMenu.accesskey "I">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Gorde Hemen">
+<!ENTITY fileHereMenu.label "Gorde hemen">
 <!ENTITY fileHereMenu.accesskey "G">
-<!ENTITY copyHereMenu.label "Kopiatu Hemen">
+<!ENTITY copyHereMenu.label "Kopiatu hemen">
 <!ENTITY copyHereMenu.accesskey "K">
 <!ENTITY tagMenu.label "Etiketa">
 <!ENTITY tagMenu.accesskey "e">
@@ -381,34 +381,34 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Markatu">
 <!ENTITY markMenu.accesskey "k">
-<!ENTITY markAsReadCmd.label "Irakurrita Bezala">
+<!ENTITY markAsReadCmd.label "Irakurrita bezala">
 <!ENTITY markAsReadCmd.accesskey "R">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "Irakurri gabe Bezaka">
+<!ENTITY markAsUnreadCmd.label "Irakurri gabe bezala">
 <!ENTITY markAsUnreadCmd.accesskey "G">
-<!ENTITY markThreadAsReadCmd.label "Haria Irakurrita Bezala">
+<!ENTITY markThreadAsReadCmd.label "Haria irakurrita bezala">
 <!ENTITY markThreadAsReadCmd.accesskey "H">
 <!ENTITY markThreadAsReadCmd.key "r">
-<!ENTITY markReadByDateCmd.label "Irakurrita Bezala, Dataz mugatuta...">
+<!ENTITY markReadByDateCmd.label "Irakurrita bezala, dataz mugatuta...">
 <!ENTITY markReadByDateCmd.accesskey "I">
 <!ENTITY markReadByDateCmd.key "c">
-<!ENTITY markAllReadCmd.label "Denak Irakurrita Bezala">
+<!ENTITY markAllReadCmd.label "Denak irakurrita bezala">
 <!ENTITY markAllReadCmd.accesskey "A">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markStarredCmd.label "Izarra Gehitu">
+<!ENTITY markStarredCmd.label "Gehitu izarra">
 <!ENTITY markStarredCmd.accesskey "Z">
-<!ENTITY markStarredCmd.key "S">
+<!ENTITY markStarredCmd.key "z">
 <!ENTITY markAsJunkCmd.label "Zabor-posta gisa">
 <!ENTITY markAsJunkCmd.accesskey "Z">
-<!ENTITY markAsJunkCmd.key "j">
-<!ENTITY markAsNotJunkCmd.label "Ez Zabor-posta Gisa">
+<!ENTITY markAsJunkCmd.key "Z">
+<!ENTITY markAsNotJunkCmd.label "Ez zabor-posta gisa">
 <!ENTITY markAsNotJunkCmd.accesskey "E">
-<!ENTITY markAsNotJunkCmd.key "j">
-<!ENTITY recalculateJunkScoreCmd.label "Abiarazi Zabor posta Kontrolak">
+<!ENTITY markAsNotJunkCmd.key "E">
+<!ENTITY recalculateJunkScoreCmd.label "Abiarazi zabor-posta kontrolak">
 <!ENTITY recalculateJunkScoreCmd.accesskey "K">
-<!ENTITY openMessageWindowCmd.label "Ireki Mezua">
+<!ENTITY openMessageWindowCmd.label "Ireki mezua">
 <!ENTITY openMessageWindowCmd.accesskey "I">
-<!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openMessageWindowCmd.key "I">
 <!-- Windows Menu -->
 
 <!ENTITY windowMenu.label "Leihoa">
@@ -422,29 +422,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY messengerCmd.label "Posta eta berri-taldeak">
 <!ENTITY messengerCmd.accesskey "p">
 <!ENTITY messengerCmd.commandkey "1">
-<!ENTITY addressBookCmd.label "Helbide Liburua">
+<!ENTITY addressBookCmd.label "Helbide-liburua">
 <!ENTITY addressBookCmd.accesskey "h">
 <!ENTITY addressBookCmd.commandkey "2">
-<!ENTITY runJunkControls.label "Zabor-posta Kontrolak Karpetan Aplikatu...">
+<!ENTITY runJunkControls.label "Aplikatu karpetan zabor-posta kontrolak...">
 <!ENTITY runJunkControls.accesskey "p">
-<!ENTITY deleteJunk.label "Ezabatu Karpetan dauden Zabor-mezuak">
+<!ENTITY deleteJunk.label "Ezabatu karpetako zabor-posta mezuak">
 <!ENTITY deleteJunk.accesskey "e">
-<!ENTITY errorConsoleCmd.label "Akatsen Kontsola">
+<!ENTITY errorConsoleCmd.label "Errore kontsola">
 <!ENTITY errorConsoleCmd.accesskey "n">
-<!ENTITY filtersCmd.label "Mezu Iragazkiak...">
-<!ENTITY filtersCmd.accesskey "I">
-<!ENTITY filtersApply.label "Iragazkiak Exekutatu Aukeratutako Karpetan">
+<!ENTITY filtersCmd.label "Mezu iragazkiak...">
+<!ENTITY filtersCmd.accesskey "R">
+<!ENTITY filtersApply.label "Exekutatu iragazkiak karpetan">
 <!ENTITY filtersApply.accesskey "R">
-<!ENTITY filtersApplyToSelection.label "Exekutatu iragazkiak hautaturiko mezuetan">
+<!ENTITY filtersApplyToSelection.label "Exekutatu iragazkiak hautatutako mezuetan">
 <!ENTITY filtersApplyToSelection.accesskey "H">
 <!ENTITY filtersApplyToMessage.label "Exekutatu iragazkiak mezuan">
 <!ENTITY filtersApplyToMessage.accesskey "m">
 <!-- Mail Toolbar -->
 
-<!ENTITY getMsgButton.label "Hartu Posta">
+<!ENTITY getMsgButton.label "Hartu posta">
 <!ENTITY newMsgButton.label "Idatzi">
 <!ENTITY replyButton.label "Erantzun">
-<!ENTITY replyAllButton.label "Denei Erantzun">
+<!ENTITY replyAllButton.label "Denei erantzun">
 <!ENTITY forwardButton.label "Birbidali">
 <!ENTITY fileButton.label "Artxibatu">
 <!ENTITY nextButton.label "Hurrengoa">
@@ -459,21 +459,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY throbberItem.title "Aktibitate Adierazlea">
 <!ENTITY updatesItem.title "Eguneraketak">
 <!ENTITY junkButton.label "Zabor-posta">
-<!ENTITY notJunkButton.label "Ez da Zaborra">
-<!ENTITY addressBookButton.label "Helbide Liburua">
-<!ENTITY searchItem.title "Bilaketa Bizkorra">
-<!ENTITY mailViewsToolbarItem.title "Posta Bistaratzeak">
-<!ENTITY folderLocationToolbarItem.title "Karpeta Kokapena">
+<!ENTITY notJunkButton.label "Ez da zaborra">
+<!ENTITY addressBookButton.label "Helbide-liburua">
+<!ENTITY searchItem.title "Bilaketa bizkorra">
+<!ENTITY mailViewsToolbarItem.title "Postaren ikuspegiak">
+<!ENTITY folderLocationToolbarItem.title "Karpetaren kokapena">
 <!ENTITY tagButton.label "Etiketa">
 <!ENTITY compactButton.label "Trinkoa">
 <!-- Mail Toolbar Tooltips-->
 
-<!ENTITY advancedButton.tooltip "Helbide bilaketa aurreratua">
-<!ENTITY clearButton.tooltip "Bilaketa irizpidea garbitu eta sarrera guztiak erakutsi">
+<!ENTITY advancedButton.tooltip "Mezuen bilaketa aurreratua">
+<!ENTITY clearButton.tooltip "Garbitu bilaketa irizpidea eta erakutsi mezu guztiak">
 <!ENTITY getMsgButton.tooltip "Hartu mezu berriak">
-<!ENTITY getAllNewMsgCmd.label "Mezu Berri Guztiak Hartu">
+<!ENTITY getAllNewMsgCmd.label "Hartu mezu berri guztiak">
 <!ENTITY getAllNewMsgCmd.accesskey "H">
-<!ENTITY getAllNewMsgCmd.key "t">
+<!ENTITY getAllNewMsgCmd.key "H">
 <!ENTITY newMsgButton.tooltip "Sortu mezu berria">
 <!ENTITY replyButton.tooltip "Erantzun mezuari">
 <!ENTITY replyAllButton.tooltip "Erantzun bidaltzaileari eta hartzaile guztiei">
@@ -481,8 +481,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.tooltip "Artxibatu hautatutako mezua">
 <!ENTITY nextButton.tooltip "Eraman begiratu gabeko hurrengo mezura">
 <!ENTITY previousButton.tooltip "Eraman begiratu gabeko aurreko mezura">
-<!ENTITY goForwardButton.tooltip "Mezu bat aurrera Joan">
-<!ENTITY goBackButton.tooltip "Mezu bat atzera Joan">
+<!ENTITY goForwardButton.tooltip "Joan mezu bat aurrera">
+<!ENTITY goBackButton.tooltip "Joan mezu bat atzera">
 <!ENTITY deleteButton.tooltip "Ezabatu hautatutako mezua edo karpeta">
 <!ENTITY undeleteButton.tooltip "Desezabatu hautaturiko mezua">
 <!ENTITY markButton.tooltip "Markatu mezuak">
@@ -490,12 +490,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY stopButton.tooltip "Gelditu uneko transferentzia">
 <!ENTITY junkButton.tooltip "Markatu aukeratutako mezuak zabor-posta gisa">
 <!ENTITY notJunkButton.tooltip "Markatu aukeratutako mezuak ez zabor-posta gisa">
-<!ENTITY addressBookButton.tooltip "Joan helbide liburura">
-<!ENTITY tagButton.tooltip "Etiketen mezuak">
-<!ENTITY compactButton.tooltip "Kendu ezabaturiko mezuak hautaturiko kapretatik">
+<!ENTITY addressBookButton.tooltip "Joan helbide-liburura">
+<!ENTITY tagButton.tooltip "Etiketetatu mezuak">
+<!ENTITY compactButton.tooltip "Kendu ezabatutako mezuak hautatutako karpetatik">
 <!-- Tags Menu Popup -->
 
-<!ENTITY addNewTag.label "Etiketa Berria...">
+<!ENTITY addNewTag.label "Etiketa berria...">
 <!ENTITY addNewTag.accesskey "B">
 <!-- Folder Pane -->
 
@@ -507,11 +507,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextGetMessages.accesskey "K">
 <!ENTITY folderContextOpenNewWindow.label "Ireki">
 <!ENTITY folderContextOpenNewWindow.accesskey "I">
-<!ENTITY folderContextOpenNewTab.label "Ireki fitxa berri batetan">
+<!ENTITY folderContextOpenNewTab.label "Ireki fitxa berri batean">
 <!ENTITY folderContextOpenNewTab.accesskey "T">
-<!ENTITY folderContextNew.label "Azpikarpeta Berria...">
+<!ENTITY folderContextNew.label "Azpikarpeta berria...">
 <!ENTITY folderContextNew.accesskey "B">
-<!ENTITY folderContextRename.label "Izena aldatu...">
+<!ENTITY folderContextRename.label "Aldatu izena...">
 <!ENTITY folderContextRename.accesskey "I">
 <!ENTITY folderContextRemove.label "Ezabatu">
 <!ENTITY folderContextRemove.accesskey "E">
@@ -521,13 +521,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextEmptyTrash.accesskey "h">
 <!ENTITY folderContextEmptyJunk.label "Hustu zabor-posta">
 <!ENTITY folderContextEmptyJunk.accesskey "Z">
-<!ENTITY folderContextSendUnsentMessages.label "Bidali Bidaligabeko Mezuak">
+<!ENTITY folderContextSendUnsentMessages.label "Bidali Bidaligabeko mezuak">
 <!ENTITY folderContextSendUnsentMessages.accesskey "d">
-<!ENTITY folderContextUnsubscribe.label "Harpidetza kendu">
+<!ENTITY folderContextUnsubscribe.label "Kendu harpidetza">
 <!ENTITY folderContextUnsubscribe.accesskey "A">
-<!ENTITY folderContextMarkNewsgroupRead.label "Markatu Berri-taldea Irakurrita gisa">
+<!ENTITY folderContextMarkNewsgroupRead.label "Markatu berri-taldea irakurrita gisa">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "k">
-<!ENTITY folderContextMarkMailFolderRead.label "Markatu Karpeta Irakurrita gisa">
+<!ENTITY folderContextMarkMailFolderRead.label "Markatu karpeta irakurrita gisa">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "k">
 <!ENTITY folderContextSubscribe.label "Harpidetu...">
 <!ENTITY folderContextSubscribe.accesskey "r">
@@ -535,13 +535,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextSearchMessages.accesskey "B">
 <!ENTITY folderContextProperties.label "Propietateak...">
 <!ENTITY folderContextProperties.accesskey "P">
-<!ENTITY folderContextFavoriteFolder.label "Karpeta Gogokoena">
+<!ENTITY folderContextFavoriteFolder.label "Karpeta gogokoa">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
 <!ENTITY folderContextSettings.label "Ezarpenak…">
 <!ENTITY folderContextSettings.accesskey "e">
 <!-- Search Bar -->
 
-<!ENTITY SearchNameOrEmail.label "Izena edo ePostak badauka:">
+<!ENTITY SearchNameOrEmail.label "Izena edo e-postak badauka:">
 <!ENTITY SearchNameOrEmail.accesskey "I">
 <!ENTITY clearButton.label "Garbitu">
 <!ENTITY clearButton.accesskey "G">
@@ -552,12 +552,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY searchSubjectOrFromMenu.label "Gai edo bidaltzailea">
 <!ENTITY searchRecipient.label "Nori edo Cc">
 <!ENTITY searchSubjectOrRecipientMenu.label "Gai, hartzaile edo kopia">
-<!ENTITY searchMessageBody.label "Mezu Osoa">
-<!ENTITY saveAsVirtualFolderMenu.label "Gorde Bilaketa Karpeta bat gisa...">
+<!ENTITY searchMessageBody.label "Mezu osoa">
+<!ENTITY saveAsVirtualFolderMenu.label "Gorde bilaketa karpeta gisa...">
 <!-- Thread Pane -->
 
 <!ENTITY threadColumn.label "Haria">
-<!ENTITY fromColumn.label "Bifaltzailea">
+<!ENTITY fromColumn.label "Bidaltzailea">
 <!ENTITY recipientColumn.label "Hartzailea">
 <!ENTITY subjectColumn.label "Gaia">
 <!ENTITY dateColumn.label "Data">

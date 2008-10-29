@@ -45,10 +45,10 @@
 <!ENTITY antiVirus.accesskey "b">
 <!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
 
-<!ENTITY antiVirusCaption.label "Anti-Virus">
-<!ENTITY paswords.label "Passwords">
+<!ENTITY antiVirusCaption.label "Antibirusa">
+<!ENTITY paswords.label "Pasahitzak">
 <!ENTITY emailScams.label "Email Scams">
-<!ENTITY junkMail.label "Junk Mail">
+<!ENTITY junkMail.label "Zabor-posta">
 <!ENTITY itemIntrusions.label "Intrusions">
-<!ENTITY itemIntrusionsAndPasswords.label "Intrusions &amp; Passwords">
-<!ENTITY itemJunkMail.label "Junk Mail">
+<!ENTITY itemIntrusionsAndPasswords.label "; Passwords">
+<!ENTITY itemJunkMail.label "Zabor-posta">

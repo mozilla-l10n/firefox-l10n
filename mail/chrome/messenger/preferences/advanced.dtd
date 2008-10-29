@@ -2,7 +2,7 @@
 <!ENTITY itemDisplay.label "Reading &amp; Display">
 <!ENTITY itemUpdate.label "Eguneraketa">
 <!ENTITY itemNetworking.label "Network &amp; Disk Space">
-<!ENTITY itemCertificates.label "Certificates">
+<!ENTITY itemCertificates.label "Ziurtagiriak">
 <!-- General Settings -->
 
 
@@ -18,7 +18,7 @@
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
 <!ENTITY markAsReadDelay.label "After displaying for">
 <!ENTITY markAsReadDelay.accesskey "e">
-<!ENTITY secondsLabel.label "seconds">
+<!ENTITY secondsLabel.label "segundu">
 <!ENTITY showFolderColumns.label "Erakutsi zabaldutako zutabeak karpeta panelean">
 <!ENTITY showFolderColumns.accesskey "k">
 <!ENTITY openMsgIn.label "Ireki mezuak hemen:">
@@ -37,7 +37,7 @@
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption "Reading">
-<!ENTITY display.caption "Display">
+<!ENTITY display.caption "Bistaratu">
 <!-- Update -->
 
 <!ENTITY autoCheck.label "Automatikoki eguneraketak bilatu honentzat:">
@@ -84,7 +84,6 @@
 <!ENTITY clearCacheNow.accesskey "G">
 <!-- Certificates -->
 
-<!ENTITY certificatesInfo2.label "Manage certificates, revocation lists, certificate validation and security devices.">
 <!ENTITY viewCertificates.label "View Certificates">
 <!ENTITY viewCertificates.accesskey "a">
 <!ENTITY viewCRLs.label "Revocation Lists">

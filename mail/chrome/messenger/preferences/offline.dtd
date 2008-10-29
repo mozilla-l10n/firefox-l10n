@@ -9,16 +9,16 @@
 <!ENTITY radioAlwaysOnline.accesskey "l">
 
 <!ENTITY textGoingOnline "Send unsent messages when going online?">
-<!ENTITY radioAutoSend.label "Yes">
-<!ENTITY radioAutoSend.accesskey "Y">
-<!ENTITY radioNotSend.label "No">
-<!ENTITY radioNotSend.accesskey "N">
-<!ENTITY radioAskUnsent.label "Ask me">
-<!ENTITY radioAskUnsent.accesskey "s">
+<!ENTITY radioAutoSend.label "Bai">
+<!ENTITY radioAutoSend.accesskey "B">
+<!ENTITY radioNotSend.label "Ez">
+<!ENTITY radioNotSend.accesskey "E">
+<!ENTITY radioAskUnsent.label "Galdetu niri">
+<!ENTITY radioAskUnsent.accesskey "l">
 <!ENTITY textGoingOffline "Download messages for offline use when going offline?">
-<!ENTITY radioAutoDownload.label "Yes">
-<!ENTITY radioAutoDownload.accesskey "e">
-<!ENTITY radioNotDownload.label "No">
-<!ENTITY radioNotDownload.accesskey "o">
-<!ENTITY radioAskDownload.label "Ask me">
-<!ENTITY radioAskDownload.accesskey "a">
+<!ENTITY radioAutoDownload.label "Bai">
+<!ENTITY radioAutoDownload.accesskey "a">
+<!ENTITY radioNotDownload.label "Ez">
+<!ENTITY radioNotDownload.accesskey "z">
+<!ENTITY radioAskDownload.label "Galdetu niri">
+<!ENTITY radioAskDownload.accesskey "g">
