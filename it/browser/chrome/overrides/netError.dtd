@@ -47,8 +47,7 @@
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>Contattare il proprietario del sito web per informarlo del problema.</li>
-</ul>
-">
+</ul>">
 <!ENTITY unsafeContentType.title "Tipo di file non sicuro">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
