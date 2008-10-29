@@ -233,8 +233,8 @@
 <!ENTITY viewPageInfoCmd.accesskey "i">
 <!ENTITY viewFrameInfoCmd.label "Ver información del marco">
 <!ENTITY viewFrameInfoCmd.accesskey "i">
-<!ENTITY showImageCmd.label           "Mostrar imagen">
-<!ENTITY showImageCmd.accesskey       "s">
+<!ENTITY reloadImageCmd.label         "Recargar imagen">
+<!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label "Ver imagen">
 <!ENTITY viewImageCmd.accesskey "i">
 <!ENTITY viewBGImageCmd.label "Ver imagen de fondo">
