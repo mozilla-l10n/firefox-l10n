@@ -43,33 +43,17 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- General -->
-<!ENTITY calendar.file.default.name "Mitt Dagatal">
 <!ENTITY calendar.calendar.label "Dagatal">
 <!ENTITY calendar.calendar.accesskey "D">
-<!ENTITY calendar.confirm.deleteallevents "Ertu viss um að þú viljir eyða öllum völdum atburðum?">
-<!ENTITY calendar.confirm.deleteevent "Ertu viss um að þú viljir eyða þessum atburði: ">
-<!ENTITY calendar.confirm.deleteuntitledevent "Ertu viss um að þú viljir eyða þessum ónefnda atburði?">
-<!ENTITY calendar.flat.topbar.choosedate "Sýna dag">
-<!ENTITY calendar.flat.topbar.dayview "Dagur">
-<!ENTITY calendar.dayview.accesskey "D">
-<!ENTITY calendar.flat.topbar.weekview "Vika">
-<!ENTITY calendar.weekview.accesskey "V">
-<!ENTITY calendar.flat.topbar.monthview "Mánuður">
-<!ENTITY calendar.monthview.accesskey "M">
-<!ENTITY calendar.flat.topbar.multiweekview "Margar vikur">
-<!ENTITY calendar.multiweekview.accesskey "a">
 <!ENTITY calendar.dayView.key "1">
 <!ENTITY calendar.weekView.key "2">
 <!ENTITY calendar.multiweekView.key "3">
 <!ENTITY calendar.monthView.key "4">
 <!ENTITY calendar.newtask.button.tooltip "Búa til nýtt verk">
 <!ENTITY calendar.newevent.button.tooltip "Búa til nýjan atburð">
-<!ENTITY calendar.delete.button.tooltip "Eyða völdum atburð">
 <!ENTITY calendar.edit.button.tooltip "Breyta völdum atburð">
 <!ENTITY calendar.unifinder.todoitems.label "Verk">
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Sýna loknum verkum">
-<!ENTITY calendar.calendartab.label "Dagsetning">
-<!ENTITY calendar.listofcalendarstab.label "Dagatöl">
 <!ENTITY calendar.today.button.label "Í dag">
 <!ENTITY calendar.tomorrow.button.label "Á morgun">
 <!ENTITY calendar.soon.button.label "Bráðlega">
@@ -95,10 +79,8 @@
 <!ENTITY calendar.unifinder.tree.calendarname.label "Nafn dagatals">
 <!ENTITY calendar.unifinder.tree.duration.label "Vera lokið fyrir">
 <!ENTITY calendar.unifinder.close.tooltip "Loka atburðaleit og atburðalista">
-<!ENTITY calendar.find.key "F">
 <!ENTITY calendar.today.button.tooltip "Hoppa á daginn í dag">
 <!ENTITY calendar.todaypane.button.tooltip "Sýn dagsins í dag">
-<!ENTITY calendar.choosedate.button.tooltip "Veldu dag til að sýna">
 <!ENTITY calendar.unifinder.button.tooltip "Finna og sýna atburði">
 <!ENTITY calendar.day.button.tooltip "Skipta yfir í dagsýn">
 <!ENTITY calendar.week.button.tooltip "Skipta yfir í vikusýn">
@@ -112,16 +94,7 @@
 <!ENTITY calendar.prevmonth.button.tooltip "Fyrri mánuður">
 <!ENTITY calendar.newtask.button.label "Nýtt verk">
 <!ENTITY calendar.newevent.button.label "Nýr atburður">
-<!ENTITY calendar.delete.button.label "Eyða">
 <!ENTITY calendar.edit.button.label "Breyta">
-<!ENTITY calendar.choosedate.button.label "Veldu dagsetningu">
-<!ENTITY calendar.cut.button.tooltip "Klippa">
-<!ENTITY calendar.copy.button.tooltip "Afrita">
-<!ENTITY calendar.paste.button.tooltip "Lína">
-<!ENTITY calendar.print.button.tooltip "Prenta dagatal">
-<!ENTITY calendar.cut.button.label "Klippa">
-<!ENTITY calendar.copy.button.label "Afrita">
-<!ENTITY calendar.paste.button.label "Líma">
 <!ENTITY calendar.print.button.label "Prenta">
 <!ENTITY calendar.import.button.tooltip "Flytja inn atburði frá skrá">
 <!ENTITY calendar.export.button.tooltip "Flytja út atburði í skrá">
@@ -133,8 +106,6 @@
 <!ENTITY calendar.subscribe.button.label "Gerast áskrifandi">
 <!ENTITY calendar.publish.button.label "Gefa út">
 <!ENTITY calendar.unifinder.button.label "Finna atburði">
-<!ENTITY calendar.remotereload.button.label "Endurnýja">
-<!ENTITY calendar.remotereload.button.tooltip "Endurnýja fjartengd dagatöl">
 <!ENTITY calendar.day.button.label "Dagur">
 <!ENTITY calendar.week.button.label "Vika">
 <!ENTITY calendar.month.button.label "Mánuður">
@@ -147,15 +118,7 @@
 <!ENTITY calendar.completedtasks.checkbox.accesskey "S">
 <!ENTITY calendar.orientation.label "Snúa sýn">
 <!ENTITY calendar.orientation.accesskey "S">
-<!ENTITY calendar.menu.options.close.key "W">
 <!ENTITY calendar.search.options.searchfor " inniheldur">
-<!ENTITY calendar.menu.numberofweeks.label "Fjöldi vikna">
-<!ENTITY calendar.menu.numberofweeks.accesskey "F">
-<!ENTITY calendar.menu.numberofweeks.2 "2 Vikur">
-<!ENTITY calendar.menu.numberofweeks.3 "3 Vikur">
-<!ENTITY calendar.menu.numberofweeks.4 "4 Vikur">
-<!ENTITY calendar.menu.numberofweeks.5 "5 Vikur">
-<!ENTITY calendar.menu.numberofweeks.6 "6 Vikur">
 <!ENTITY calendar.list.header.label "Dagatal">
 <!ENTITY calendar.task.filter.title.label "Sýna">
 <!ENTITY calendar.task.filter.all.label "Allar">
@@ -184,16 +147,8 @@
 <!ENTITY calendar.task.category.button.tooltip "Flokka verk">
 <!ENTITY calendar.task.complete.button.tooltip "Merkja valinn verk sem lokið">
 <!ENTITY calendar.task.priority.button.tooltip "Breyta forgangi">
-<!ENTITY calendar.task.delete.button.tooltip "Eyða völdu verki">
 <!-- Statusbar -->
 <!ENTITY statusText.label "Skjal: Lokið">
-<!-- customizable toolbars -->
-<!ENTITY calendar.context.customize.label "Sérsniða…">
-<!ENTITY calendar.context.customize.accesskey "S">
-<!ENTITY calendar.menu.customize.label "Sérsniða verkfærarein…">
-<!ENTITY calendar.menu.customize.accesskey "v">
-<!ENTITY calendar.maintoolbar.name "Aðal verkfærarein">
-<!ENTITY calendar.maintoolbar.accesskey "A">
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label "Opna">
 <!ENTITY calendar.context.modifyorviewitem.accesskey "O">
@@ -321,9 +276,6 @@
 <!ENTITY calendarproperties.firealarms.label "Sýna viðvörun">
 <!ENTITY calendarproperties.cache.label "Skyndiminni (TILRAUN, þarfnast endurræsingar)">
 <!ENTITY calendarproperties.enabled.label "Kveikja á þessu dagatali">
-<!-- Sunbird Help -->
-<!ENTITY calendar.help.label "Hjálparefni">
-<!ENTITY calendar.help.accesskey "H">
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title "Gefa út dagatal">
 <!ENTITY calendar.publish.url.label "Útgáfu URL">
@@ -348,5 +300,3 @@
 <!ENTITY calendar.error.number "Villu númer:">
 <!ENTITY calendar.error.description "Lýsing:">
 <!ENTITY calendar.error.title "Villa kom upp">
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">

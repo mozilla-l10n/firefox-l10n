@@ -69,8 +69,7 @@
 <!ENTITY downloadCert.trustEmail "Treysta CA til að auðkenna póst notendur.">
 <!ENTITY downloadCert.trustObjSign "Treysta CA til að auðkenna hugbúnaðarframleiðendur.">
 <!ENTITY downloadCert.message3 "Áður en þú treystir þessum CA fyrir einhverju, ættirðu að athuga skilríki þess, stefnur þess og aðferðir (ef til eru).">
-<!ENTITY downloadCert.viewCert.label "Skoða
-">
+<!ENTITY downloadCert.viewCert.label "Skoða">
 <!ENTITY downloadCert.viewPolicy.label "Stefna">
 <!ENTITY downloadCert.viewCert.text "Skoða CA skilríki">
 <!ENTITY downloadCert.viewPolicy.text "Skoða stefnu og aðferðir CA">

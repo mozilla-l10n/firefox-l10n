@@ -52,4 +52,4 @@ pref("calendar.week.d6saturdaysoff", true);
 pref("general.useragent.locale", "@AB_CD@");
 
 # categories
-pref("calendar.categories.names", "Árlegur hátíðisdagur,Afmæli,Viðskipti,Símtal,Skjólstæðingar,Samkeppnisaðilar,Viðskiptavinir,Uppáhalds,Eftirfylgni,Gjafir,Hátíðisdagar,Hugmyndir,Málefni,Ýmislegt,Persónulegt,Verkefni,Almennur hátíðisdagur,Staða,Birgðasali,Ferðalag,Orlof");
+pref("calendar.categories.names", "Árlegur hátíðisdagur,Afmæli,Viðskipti,Símtal,Skjólstæðingar,Samkeppnisaðilar,Viðskiptavinir,Uppáhalds,Eftirfylgni,Gjafir,Hátíðisdagar,Hugmyndir,Málefni,Ýmislegt,Fundur,Persónulegt,Verkefni,Almennur hátíðisdagur,Staða,Birgðasali,Ferðalag,Orlof");

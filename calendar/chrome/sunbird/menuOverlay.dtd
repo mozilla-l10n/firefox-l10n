@@ -1,0 +1,147 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.   -
+   -
+   - The Initial Developer of the Original Code is
+   -   OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Garth Smedley <garths@oeone.com>
+   -   Mike Potter <mikep@oeone.com>
+   -   Chris Charabaruk <coldacid@meldstar.com>
+   -   Matthew Willis <mattwillis@gmail.com>
+   -   Stefan Sitter <ssitter@googlemail.com>
+   -   Berend Cornelius <berend.cornelius@sun.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Simon Paquet <bugzilla@babylonsounds.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY calendar.open.file.label "Opna dagatal…">
+<!ENTITY calendar.open.file.key "O">
+<!ENTITY calendar.open.file.accesskey "O">
+<!ENTITY event.edit.event "Breyta atriði…">
+<!ENTITY event.edit.event.key "E">
+<!ENTITY event.edit.event.accesskey "E">
+<!ENTITY event.delete.event "Eyða völdu atriði">
+<!ENTITY event.delete.event.accesskey "D">
+<!ENTITY event.delete.tasks "Eyða völdum verkum">
+<!ENTITY event.delete.tasks.accesskey "E">
+<!ENTITY calendar.pagesetup.label "Uppsetning síðu…">
+<!ENTITY calendar.pagesetup.accesskey "u">
+<!ENTITY calendar.subscribe.label "Gerast áskrifandi að fjartengdu dagatali…">
+<!ENTITY calendar.subscribe.accesskey "R">
+<!ENTITY calendar.reloadserver.label "Endurnýja fjartengd dagatöl">
+<!ENTITY calendar.reloadserver.key "R">
+<!ENTITY calendar.reloadserver.accesskey "R">
+<!ENTITY calendar.publish.calendar.label "Gefa út dagatal…">
+<!ENTITY calendar.publish.calendar.accesskey "G">
+<!ENTITY calendar.publish.selection.label "Gefa út valin atriði…">
+<!ENTITY calendar.publish.selection.accesskey "G">
+<!ENTITY calendar.quit.label "Hætta">
+<!ENTITY calendar.quit.accesskey "H">
+<!ENTITY calendar.quit.key "Q">
+<!ENTITY calendar.quit.label.mac "Hætta í &brandShortName;">
+<!ENTITY calendar.exit.label "Hætta">
+<!ENTITY calendar.exit.accesskey "H">
+<!ENTITY calendar.undo.label "Afturkalla">
+<!ENTITY calendar.undo.key "Z">
+<!ENTITY calendar.undo.accesskey "u">
+<!ENTITY calendar.redo.label "Endurtaka">
+<!ENTITY calendar.redo.key "Y">
+<!ENTITY calendar.redo.accesskey "r">
+<!ENTITY calendar.cut.label "Klippa">
+<!ENTITY calendar.cut.key "X">
+<!ENTITY calendar.cut.accesskey "K">
+<!ENTITY calendar.copy.label "Afrita">
+<!ENTITY calendar.copy.key "C">
+<!ENTITY calendar.copy.accesskey "A">
+<!ENTITY calendar.paste.label "Líma">
+<!ENTITY calendar.paste.key "V">
+<!ENTITY calendar.paste.accesskey "L">
+<!ENTITY calendar.selectall.label "Velja allt">
+<!ENTITY calendar.selectall.key "A">
+<!ENTITY calendar.selectall.accesskey "A">
+<!ENTITY toolbarsMenu.label "Verkfærarein">
+<!ENTITY toolbarsMenu.accesskey "V">
+<!ENTITY showStatusBarCmd.label "Stöðurein">
+<!ENTITY showStatusBarCmd.accesskey "S">
+<!ENTITY showTaskBoxCmd.label "Yfirlit verka">
+<!ENTITY showTaskBoxCmd.accesskey "L">
+<!ENTITY calendar.fullscreen.label "Skjáhamur">
+<!ENTITY calendar.fullscreen.accesskey "S">
+<!ENTITY calendar.addons.label "Viðbætur">
+<!ENTITY calendar.addons.accesskey "V">
+<!ENTITY goMenu.label "Áfram">
+<!ENTITY goMenu.accesskey "f">
+<!ENTITY goDateCmd.label "Dagsetning…">
+<!ENTITY goDateCmd.accesskey "D">
+<!ENTITY toolsMenu.label "Verkfæri">
+<!ENTITY toolsMenu.accesskey "V">
+<!ENTITY errorConsoleCmd.label "Villugluggi">
+<!ENTITY errorConsoleCmd.accesskey "V">
+<!ENTITY helpMenu.label "Hjálp">
+<!ENTITY helpMenu.accesskey "H">
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+           for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label "Hjálp">
+<!ENTITY helpMenuWin.accesskey "H">
+<!ENTITY fileMenu.label "Skrá">
+<!ENTITY fileMenu.accesskey "S">
+<!ENTITY editMenu.label "Breyta">
+<!ENTITY editMenu.accesskey "E">
+<!ENTITY optionsCmd.label "Valkostir…">
+<!ENTITY optionsCmd.accesskey "O">
+<!ENTITY preferencesCmd.label "Valkostir">
+<!ENTITY preferencesCmd.accesskey "V">
+<!ENTITY preferencesCmdMac.label "Valkostir…">
+<!ENTITY preferencesCmdMac.commandkey ",">
+<!ENTITY preferencesCmdMac.modifiers "accel">
+<!ENTITY viewMenu.label "Skoða">
+<!ENTITY viewMenu.accesskey "S">
+<!ENTITY releaseCmd.label "útgáfuupplýsingar">
+<!ENTITY releaseCmd.accesskey "R">
+<!ENTITY aboutCmd.label "Um &brandFullName;">
+<!ENTITY aboutCmd.accesskey "A">
+<!ENTITY updateCmd.label "Athuga uppfærslur…">
+<!ENTITY updateCmd.accesskey "A">
+<!-- Mac OS X "Window" menu items -->
+<!ENTITY windowMenu.label "Gluggi">
+<!ENTITY minimizeWindow.label "Minnka">
+<!ENTITY zoomWindow.label "Þysja">
+<!ENTITY minimizeWindow.key "M">
+<!ENTITY bringAllToFront.label "Endurheimta">
+<!-- Mac OS X Application menu items -->
+<!ENTITY servicesMenuMac.label "Þjónusta">
+<!ENTITY hideThisAppCmdMac.label "Fela &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey "H">
+<!ENTITY hideThisAppCmdMac.modifiers "accel">
+<!ENTITY hideOtherAppsCmdMac.label "Fela aðra">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
+<!ENTITY showAllAppsCmdMac.label "Sýna allt">

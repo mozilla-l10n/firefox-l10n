@@ -59,8 +59,6 @@
 <!ENTITY lightning.menupopup.open.calendar.label "Dagatalsskrá…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey "D">
 <!-- Messenger Sidebar -->
-<!ENTITY lightning.sidebar.invitations.label "Fundarboð">
-<!ENTITY lightning.sidebar.invitations.accesskey "F">
 <!ENTITY lightning.calendar.label "Dagatal">
 <!ENTITY lightning.calendar.accesskey "D">
 <!ENTITY lightning.tasks.label "Verk">
@@ -72,15 +70,6 @@
 <!ENTITY lightning.toolbar.calendar.accesskey "D">
 <!ENTITY lightning.toolbar.task.label "Verk">
 <!ENTITY lightning.toolbar.task.accesskey "V">
-<!-- Customize Toolbar Dialog -->
-<!ENTITY customize.toolbar.selector.label "Verkfærarein:">
-<!ENTITY customize.toolbar.selector.mode "Hamur verkfærareinar">
-<!ENTITY customize.toolbar.selector.mail "Póst verkfærarein">
-<!ENTITY customize.toolbar.selector.calendar "Dagatals verkfærarein">
-<!ENTITY customize.toolbar.selector.task "Verk verkfærarein">
-<!ENTITY customize.toolbar.location.label "Staðsetning:">
-<!ENTITY customize.toolbar.location.top "Efst">
-<!ENTITY customize.toolbar.location.bottom "Neðst">
 <!-- Messenger Toolbar -->
 <!ENTITY lightning.toolbar.day.label "Dagur">
 <!ENTITY lightning.toolbar.day.accesskey "D">
@@ -110,3 +99,4 @@
 <!ENTITY todaypane.showNone.accesskey "N">
 <!ENTITY todaypane.showTodayPane.label "Sýn dagsins í dag">
 <!ENTITY todaypane.showTodayPane.accesskey "d">
+<!ENTITY todaypane.statusButton.label "Dagurinn í dag">
