@@ -3,15 +3,12 @@
 <!ENTITY titleSeparator.label " - ">
 <!ENTITY newFolderCmd.label "Cartella…">
 <!ENTITY newFolderCmd.accesskey "C">
-<!ENTITY newTabCmd.label "Nuova scheda">
-<!ENTITY newTabCmd.accesskey "s">
 <!ENTITY closeTabCmd.label "Chiudi scheda">
 <!ENTITY closeTabCmd.accesskey "e">
 <!ENTITY newVirtualFolderCmd.label "Ricerche salvate…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newAccountCmd.label "Account…">
 <!ENTITY newAccountCmd.accesskey "A">
-<!ENTITY openMessageMenu.label "Apri">
 <!ENTITY openMessageFileCmd.label "Apri messaggio salvato…">
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY openAttachmentCmd.label "Allegati">
@@ -64,7 +61,6 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Anteprima di stampa">
 <!ENTITY printPreviewCmd.accesskey "p">
-<!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "Imposta pagina…">
 <!ENTITY printSetupCmd.accesskey "I">
 <!ENTITY deleteMsgCmd.label "Elimina messaggio">
@@ -123,8 +119,6 @@
 <!ENTITY messagePaneWide.accesskey "e">
 <!ENTITY messagePaneVertical.label "Visualizzazione verticale">
 <!ENTITY messagePaneVertical.accesskey "V">
-<!ENTITY threadPaneWide.label "Visualizzazione estesa">
-<!ENTITY threadPaneWide.accesskey "i">
 <!ENTITY showMessageCmd.label "Anteprima messaggio">
 <!ENTITY showMessageCmd.accesskey "A">
 <!ENTITY folderView.label "Cartelle">
@@ -183,8 +177,6 @@
 <!ENTITY threads.accesskey "u">
 <!ENTITY allMsgsCmd.label "Tutte">
 <!ENTITY allMsgsCmd.accesskey "T">
-<!ENTITY expandOrCollapseMenu.label "Espandi/Contrai">
-<!ENTITY expandOrCollapseMenu.accesskey "p">
 <!ENTITY expandAllThreadsCmd.label "Espandi tutte le discussioni">
 <!ENTITY expandAllThreadsCmd.accesskey "E">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -235,8 +227,6 @@
 <!ENTITY pageSourceCmd.label "Sorgente del messaggio">
 <!ENTITY pageSourceCmd.accesskey "g">
 <!ENTITY pageSourceCmd.key "u">
-<!ENTITY searchMenu.label "Cerca">
-<!ENTITY searchMenu.accesskey "C">
 <!ENTITY findMenu.label "Trova">
 <!ENTITY findMenu.accesskey "v">
 <!ENTITY findCmd.label "Trova nel messaggio…">
@@ -357,8 +347,6 @@
 <!ENTITY markAsReadCmd.label "Letto">
 <!ENTITY markAsReadCmd.accesskey "e">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "Da leggere">
-<!ENTITY markAsUnreadCmd.accesskey "D">
 <!ENTITY markThreadAsReadCmd.label "Discussione letta">
 <!ENTITY markThreadAsReadCmd.accesskey "A">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -383,7 +371,6 @@
 <!ENTITY openMessageWindowCmd.accesskey "A">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY windowMenu.label "Finestra">
-<!ENTITY windowMenu.accesskey "F">
 <!ENTITY tasksMenu.label "Strumenti">
 <!ENTITY tasksMenu.accesskey "S">
 <!ENTITY addons.label "Componenti aggiuntivi">
@@ -394,9 +381,9 @@
 <!ENTITY addressBookCmd.label "Rubrica">
 <!ENTITY addressBookCmd.accesskey "R">
 <!ENTITY addressBookCmd.commandkey "2">
-<!ENTITY runJunkControls.label "Controlla posta indesiderata nella cartella selezionata">
+<!ENTITY runJunkControls.label "Controlla posta indesiderata nella cartella">
 <!ENTITY runJunkControls.accesskey "s">
-<!ENTITY deleteJunk.label "Elimina posta indesiderata nella cartella selezionata">
+<!ENTITY deleteJunk.label "Elimina posta indesiderata nella cartella">
 <!ENTITY deleteJunk.accesskey "m">
 <!ENTITY errorConsoleCmd.label "Console degli errori">
 <!ENTITY errorConsoleCmd.accesskey "o">
@@ -424,7 +411,6 @@
 <!ENTITY printButton.label "Stampa">
 <!ENTITY stopButton.label "Interrompi">
 <!ENTITY throbberItem.title "Indicatore di attività">
-<!ENTITY updatesItem.title "Aggiornamenti">
 <!ENTITY junkButton.label "Indesiderata">
 <!ENTITY notJunkButton.label "Non indesiderata">
 <!ENTITY addressBookButton.label "Rubrica">
@@ -434,7 +420,6 @@
 <!ENTITY tagButton.label "Etichetta">
 <!ENTITY compactButton.label "Compatta">
 <!ENTITY advancedButton.tooltip "Ricerca avanzata">
-<!ENTITY clearButton.tooltip "Annulla criterio di ricerca e mostra tutti i messaggi">
 <!ENTITY getMsgButton.tooltip "Scarica nuovi messaggi">
 <!ENTITY getAllNewMsgCmd.label "Scarica tutti i nuovi messaggi">
 <!ENTITY getAllNewMsgCmd.accesskey "G">
@@ -500,8 +485,6 @@
 <!ENTITY folderContextSettings.accesskey "I">
 <!ENTITY SearchNameOrEmail.label "Nome o Email contengono:">
 <!ENTITY SearchNameOrEmail.accesskey "c">
-<!ENTITY clearButton.label "Pulisci">
-<!ENTITY clearButton.accesskey "P">
 <!ENTITY searchSubjectMenu.label "Oggetto">
 <!ENTITY searchFromMenu.label "Mittente">
 <!ENTITY searchSubjectOrFromMenu.label "Oggetto o mittente">
@@ -520,7 +503,6 @@
 <!ENTITY statusColumn.label "Stato">
 <!ENTITY sizeColumn.label "Dimensione">
 <!ENTITY junkStatusColumn.label "Indesiderata">
-<!ENTITY linesColumn.label "Linee">
 <!ENTITY unreadColumn.label "Da leggere">
 <!ENTITY totalColumn.label "Totale">
 <!ENTITY readColumn.label "Letta">
@@ -577,8 +559,6 @@
 <!ENTITY contextPrint.accesskey "P">
 <!ENTITY contextPrintPreview.label "Anteprima di stampa">
 <!ENTITY contextPrintPreview.accesskey "A">
-<!ENTITY contextDelete.label "Elimina">
-<!ENTITY contextDelete.accesskey "E">
 <!ENTITY junkBarMessage1.label "Posta indesiderata">
 <!ENTITY junkBarButton1.label "Non indesiderata">
 <!ENTITY junkInfoButton.label "?">
@@ -602,8 +582,6 @@
 <!ENTITY CopyEmailAddress.accesskey "C">
 <!ENTITY CreateFilterFrom.label "Creare filtro da…">
 <!ENTITY CreateFilterFrom.accesskey "F">
-<!ENTITY BlockAddress.label "Blocca indirizzo">
-<!ENTITY BlockAddress.accesskey "B">
 <!ENTITY reportPhishingURL.label "Notifica i tentativi di frode">
 <!ENTITY reportPhishingURL.accesskey "o">
 <!ENTITY saveLinkAsCmd.label "Salva collegamento come…">
