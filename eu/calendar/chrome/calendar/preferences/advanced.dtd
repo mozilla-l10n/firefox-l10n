@@ -20,6 +20,7 @@
    -
    - Contributor(s):
    -   Matthew Willis <lilmatt@mozilla.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -43,6 +44,7 @@
 <!ENTITY pref.calendar.advanced.generalTab.label "Orokorra">
 <!ENTITY pref.calendar.advanced.passwordsTab.label "Pasahitzak">
 <!ENTITY pref.calendar.advanced.updateTab.label "Eguneratu">
+<!ENTITY pref.calendar.advanced.encryptionTab.label "Zifratzea">
 <!-- General -->
 
 <!ENTITY pref.calendar.advanced.showConnections.label "Konexio ezarpenak...">
@@ -77,3 +79,24 @@
 <!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "O">
 <!ENTITY pref.calendar.advanced.update.showHistory.label "Eguneraketa Historia Erakutsi...">
 <!ENTITY pref.calendar.advanced.update.showHistory.accesskey "E">
+<!-- Encryption -->
+
+<!ENTITY pref.calendar.advanced.encryption.protocols.label "Protokoloak">
+<!ENTITY pref.calendar.advanced.encryption.useSSL3.label "Erabili SSL 3.0">
+<!ENTITY pref.calendar.advanced.encryption.useSSL3.accesskey "3">
+<!ENTITY pref.calendar.advanced.encryption.useTLS1.label "Erabili TLS 1.0">
+<!ENTITY pref.calendar.advanced.encryption.useTLS1.accesskey "1">
+<!ENTITY pref.calendar.advanced.encryption.certificates.label "Ziurtagiriak">
+<!ENTITY pref.calendar.advanced.encryption.certSelection.description "Webgune batek nire ziurtagiri pertsonala eskatzen duenean:">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto "Hautatu bat automatikoki">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto.accesskey "l">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask "Galdetu beti">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "i">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.label "Ikusi ziurtagiriak">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.accesskey "s">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "Errebokazio zerrendak">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.accesskey "R">
+<!ENTITY pref.calendar.advanced.encryption.verify2.label "Egiaztapena">
+<!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "V">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label "Segurtasuna gailuak">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "y">

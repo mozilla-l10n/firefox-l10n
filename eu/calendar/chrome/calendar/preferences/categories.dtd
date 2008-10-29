@@ -40,7 +40,6 @@
   -->
 
 
-<!ENTITY pref.categories.label "Kategoriak">
 <!ENTITY pref.categories.add.title "Gehitu Kategoria">
 <!ENTITY pref.categories.addButton.label "Gehitu...">
 <!ENTITY pref.categories.addButton.accesskey "G">

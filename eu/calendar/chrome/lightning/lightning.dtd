@@ -13,7 +13,8 @@
    -
    - The Original Code is calendar views.
    -
-   - The Initial Developer of the Original Code is Oracle Corporation
+   - The Initial Developer of the Original Code is
+   - Oracle Corporation.
    - Portions created by the Initial Developer are Copyright (C) 2005
    - the Initial Developer. All Rights Reserved.
    -
@@ -22,6 +23,8 @@
    -   Simon Paquet <bugzilla@babylonsounds.com>
    -   Matthew Willis <mattwillis@mac.com>
    -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Martin Schroeder <mschroeder@mozilla.x-home.org>
+   -   Berend Cornelius <berend.cornelius@sun.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -31,12 +34,11 @@
    - under the terms of either the GPL or the LGPL, and not to allow others to
    - use your version of this file under the terms of the MPL, indicate your
    - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - and other provisions required by the LGPL or the GPL. If you do not delete
    - the provisions above, a recipient may use your version of this file under
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
-   - ***** END LICENSE BLOCK *****
--->
+   - ***** END LICENSE BLOCK ***** -->
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
@@ -58,21 +60,8 @@
 <!ENTITY lightning.menupopup.open.message.accesskey "M">
 <!ENTITY lightning.menupopup.open.calendar.label "Calendar fitxategia…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey "C">
-<!-- Agenda Tree View -->
-
-<!ENTITY agenda.treeview.label "Ikuspegia:">
-<!ENTITY agenda.treeview.all.label "Dena">
-<!ENTITY agenda.treeview.events.label "Gertaerak">
-<!ENTITY agenda.treeview.tasks.label "Zereginak">
-<!ENTITY agenda.treeview.reminders.label "Gogorarazleak">
-<!ENTITY agenda.treeview.customize.label "Pertsonalizatu...">
-<!ENTITY agenda.treeview.item.label "Elementua">
-<!ENTITY agenda.treeview.description "Zure ikuspegiak pertsonalizatu">
 <!-- Messenger Sidebar -->
 
-<!ENTITY lightning.sidebar.agenda.label "Agenda">
-<!ENTITY lightning.sidebar.todo.label "Egitekoak">
-<!ENTITY lightning.sidebar.calendars.label "Egutegiak">
 <!ENTITY lightning.calendar.label "Egutegia">
 <!ENTITY lightning.calendar.accesskey "E">
 <!ENTITY lightning.tasks.label "Zereginak">
@@ -85,22 +74,8 @@
 <!ENTITY lightning.toolbar.calendar.accesskey "E">
 <!ENTITY lightning.toolbar.task.label "Zeregina">
 <!ENTITY lightning.toolbar.task.accesskey "Z">
-<!-- Customize Toolbar Dialog -->
-
-<!ENTITY customize.toolbar.selector.label "Tresna-barra:">
-<!ENTITY customize.toolbar.selector.mode "Tresna-barra modua">
-<!ENTITY customize.toolbar.selector.mail "Posta tresna-barra">
-<!ENTITY customize.toolbar.selector.calendar "Egutegi tresna-barra">
-<!ENTITY customize.toolbar.selector.task "Zereginen tresna-barra">
-<!ENTITY customize.toolbar.location.label "Kokalekua:">
-<!ENTITY customize.toolbar.location.top "Goian">
-<!ENTITY customize.toolbar.location.bottom "Behean">
 <!-- Messenger Toolbar -->
 
-<!ENTITY lightning.toolbar.edit.calendar.label "Editatu aukeratutako egutegia">
-<!ENTITY lightning.toolbar.edit.calendar.accesskey "E">
-<!ENTITY lightning.toolbar.delete.calendar.label "Ezabatu aukeratutako egutegia">
-<!ENTITY lightning.toolbar.delete.calendar.accesskey "t">
 <!ENTITY lightning.toolbar.day.label "Egun">
 <!ENTITY lightning.toolbar.day.accesskey "E">
 <!ENTITY lightning.toolbar.week.label "Aste">
@@ -113,10 +88,25 @@
 
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "Ikusi zereginak gaur panelean">
 <!ENTITY lightning.calendarproperties.showtasks.label "Ikusi zereginak gaur panelean eta ataza moduan">
-<!--Views' context menu-->
-<!-- This access key is in the same menu as 'Go to Next' which gets the 'N'-->
-
-<!ENTITY lightning.context.newevent.accesskey "B">
+<!ENTITY lightning.calendarproperties.email.label "E-Mail:">
 <!-- iMIP Bar (meeting support) -->
 
 <!ENTITY lightning.imipbar.description "Mezu honek gertaera bati gonbidapena du.">
+<!-- Lightning specific keybindings -->
+
+<!ENTITY lightning.keys.event.new "I">
+<!ENTITY lightning.keys.todo.new "D">
+<!-- Account Central page -->
+
+<!ENTITY lightning.acctCentral.newCalendar.label "Create a new calendar">
+<!-- today-pane-specific -->
+
+<!ENTITY todaypane.showMinimonth.label "Show Mini-Month">
+<!ENTITY todaypane.showMinimonth.accesskey "M">
+<!ENTITY todaypane.showMiniday.label "Show Mini-Day">
+<!ENTITY todaypane.showMiniday.accesskey "d">
+<!ENTITY todaypane.showNone.label "Show None">
+<!ENTITY todaypane.showNone.accesskey "N">
+<!ENTITY todaypane.showTodayPane.label "Show Today Pane">
+<!ENTITY todaypane.showTodayPane.accesskey "o">
+<!ENTITY todaypane.statusButton.label "Today Pane">
