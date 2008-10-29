@@ -1,0 +1,31 @@
+<!ENTITY pref.download.title            "Transferências">
+<!ENTITY downloadBehavior.label         "Ao iniciar uma transferência">
+<!ENTITY downloadLocation.label         "Ao guardar um ficheiro">
+<!ENTITY finishedBehavior.label         "Quando uma transferência termina">
+<!ENTITY openDM.label                   "Abrir o gestor de transferências">
+<!ENTITY openDM.accesskey               "g">
+<!ENTITY openProgressDialog.label       "Abrir um diálogo de progresso">
+<!ENTITY openProgressDialog.accesskey   "o">
+<!ENTITY doNothing.label                "Não abrir nada">
+<!ENTITY doNothing.accesskey            "d">
+<!ENTITY promptDownload.label           "Preparar para a localização de transferência e pré-definição para">
+<!ENTITY promptDownload.accesskey       "P">
+<!ENTITY lastLocation.label             "Última pasta transferida">
+<!ENTITY lastLocation.accesskey         "l">
+<!ENTITY specifiedLocation.label        "Pasta de transferência especificada">
+<!ENTITY specifiedLocation.accesskey    "e">
+<!ENTITY autoDownload.label             "Transferir automaticamente ficheiros para a pasta especificada">
+<!ENTITY autoDownload.accesskey         "a">
+<!ENTITY downloadFolder.label           "Pasta de transferências actual:">
+<!ENTITY chooseDownloadFolder.label     "Escolher pasta…">
+<!ENTITY chooseDownloadFolder.accesskey "c">
+<!ENTITY playSound.label                "Tocar um som">
+<!ENTITY playSound.accesskey            "s">
+<!ENTITY showAlert.label                "Mostrar um alerta">
+<!ENTITY showAlert.accesskey            "t">
+<!ENTITY browse.label                   "Navegar…">
+<!ENTITY browse.accesskey               "N">
+<!ENTITY preview.label                  "Pré-visualizar">
+<!ENTITY preview.accesskey              "v">
+<!ENTITY soundURL.label                 "URL do som:">
+<!ENTITY soundURL.accesskey             "U">

@@ -1,0 +1,19 @@
+
+<!ENTITY  pref.policies.title "Políticas de Segurança">
+
+<!ENTITY  zoneIntro.label     "O &brandShortName; permite-lhe criar políticas que determinam que tipo de acesso alguns sítios web têm para as várias funcionalidades, incluíndo aspectos de scripting e Java.">
+
+<!ENTITY  policies.label      "Políticas:">
+<!ENTITY  default.label       "Política pré-definida">
+<!ENTITY  allWebsites.label   "Todos os sítios web">
+<!ENTITY  trusted.label       "Sítios de confiança">
+<!ENTITY  annoyances.label    "mais comuns">
+<!ENTITY  restricted.label    "Sítios restrictos">
+
+<!ENTITY  addSite.label       "Adicionar Sítio…">
+<!ENTITY  addSite.accesskey   "a">
+<!ENTITY  settings.label      "Definições para ">
+<!ENTITY  settings.accesskey  "s">
+
+<!ENTITY  description.label   "Descrição da política:">
+ 

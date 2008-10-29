@@ -1,0 +1,26 @@
+<!--LOCALIZATION NOTE : FILE The Appearance prefs dialog.  -->
+
+<!ENTITY pref.appearance.title "Appearance">
+<!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
+    Place &brandShortName; in the phrase where the name of the application should appear
+-->
+<!ENTITY onStartLegend.label                    "Quando o &brandShortName; inicia, abrir">
+<!ENTITY navCheck.label                         "Navegador">
+<!ENTITY navCheck.accesskey                     "N">
+<!ENTITY showToolsLegend.label                  "Mostrar barras de ferramentas com">
+<!ENTITY picsNtextRadio.label                   "Imagens e texto">
+<!ENTITY picsNtextRadio.accesskey               "I">
+<!ENTITY picsOnlyRadio.label                    "Apenas imagens">
+<!ENTITY picsOnlyRadio.accesskey                "A">
+<!ENTITY textonlyRadio.label                    "Apenas texto">
+<!ENTITY textonlyRadio.accesskey                "x">
+<!ENTITY showHideTooltips.label                 "Mostrar dicas">
+<!ENTITY showHideTooltips.accesskey             "t">
+
+<!ENTITY pref.locales.title                     "Idioma do interface de utilizador">
+<!ENTITY selectLocale.label                     "Seleccione o idioma para o texto que aparece nas caixas de diálogo, menus, barras de ferramentas e nomes de botões:">
+<!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
+    Place &brandShortName; in the phrase where the name of the application should appear
+-->
+<!ENTITY restartOnLangChange.label              "As preferências de idioma passam a ter efeito após reiniciar o &brandShortName;.">
+
