@@ -33,17 +33,17 @@
    -
    - ***** END LICENSE BLOCK *****
 -->
+
 <!-- Calendar Invitations Dialog -->
+<!ENTITY calendar.invitations.dialog.invitations.text                   "Invitations">
+<!ENTITY calendar.invitations.dialog.statusmessage.updating.text        "Updating list of invitations.">
+<!ENTITY calendar.invitations.dialog.statusmessage.noinvitations.text   "No unconfirmed invitations found.">
 
-<!ENTITY calendar.invitations.dialog.invitations.text "Gonbidapenak">
-<!ENTITY calendar.invitations.dialog.statusmessage.updating.text "Gonbidapenen zerrenda eguneratzen">
-<!ENTITY calendar.invitations.dialog.statusmessage.noinvitations.text "Ez da berretsi gabeko gonbidapenik aurkitu.">
 <!-- Calendar Invitations List -->
-
-<!ENTITY calendar.invitations.list.accept.button.label "Onartu">
-<!ENTITY calendar.invitations.list.decline.button.label "Ez onartu">
-<!ENTITY calendar.invitations.list.recurrentevent.text "Errepikatuko den gertaera">
-<!ENTITY calendar.invitations.list.alldayevent.text "Egun osoko gertaera">
-<!ENTITY calendar.invitations.list.location.text "Kokapena: ">
-<!ENTITY calendar.invitations.list.organizer.text "Antolatzailea: ">
-<!ENTITY calendar.invitations.list.none.text "Inor ez">
+<!ENTITY calendar.invitations.list.accept.button.label                  "Accept">
+<!ENTITY calendar.invitations.list.decline.button.label                 "Decline">
+<!ENTITY calendar.invitations.list.recurrentevent.text                  "Repeating event">
+<!ENTITY calendar.invitations.list.alldayevent.text                     "All day event">
+<!ENTITY calendar.invitations.list.location.text                        "Location: ">
+<!ENTITY calendar.invitations.list.organizer.text                       "Organizer: ">
+<!ENTITY calendar.invitations.list.none.text                            "None">
