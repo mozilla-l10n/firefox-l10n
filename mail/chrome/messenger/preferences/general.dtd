@@ -20,7 +20,6 @@
 <!ENTITY showAnimatedAlert.accesskey "у">
 <!ENTITY customizeMailAlert.label "Настроить…">
 <!ENTITY customizeMailAlert.accesskey "т">
-<!ENTITY soundNotification1.caption "Звук">
 <!ENTITY play.label "Прослушать">
 <!ENTITY play.accesskey "ш">
 <!ENTITY systemsound.label "Системный звуковой сигнал о приходе почты">

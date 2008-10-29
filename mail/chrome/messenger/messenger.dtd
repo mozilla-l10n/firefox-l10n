@@ -3,15 +3,12 @@
 <!ENTITY titleSeparator.label " - ">
 <!ENTITY newFolderCmd.label "Папку…">
 <!ENTITY newFolderCmd.accesskey "П">
-<!ENTITY newTabCmd.label "Новая вкладка">
-<!ENTITY newTabCmd.accesskey "в">
 <!ENTITY closeTabCmd.label "Закрыть вкладку">
 <!ENTITY closeTabCmd.accesskey "к">
 <!ENTITY newVirtualFolderCmd.label "Виртуальную папку…">
 <!ENTITY newVirtualFolderCmd.accesskey "В">
 <!ENTITY newAccountCmd.label "Учётную запись…">
 <!ENTITY newAccountCmd.accesskey "У">
-<!ENTITY openMessageMenu.label "Открыть">
 <!ENTITY openMessageFileCmd.label "Открыть сохранённое сообщение…">
 <!ENTITY openMessageFileCmd.accesskey "с">
 <!ENTITY openAttachmentCmd.label "Вложения">
@@ -64,7 +61,6 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Предварительный просмотр">
 <!ENTITY printPreviewCmd.accesskey "д">
-<!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "Параметры страницы…">
 <!ENTITY printSetupCmd.accesskey "а">
 <!ENTITY deleteMsgCmd.label "Удалить сообщение">
@@ -123,8 +119,6 @@
 <!ENTITY messagePaneWide.accesskey "Ш">
 <!ENTITY messagePaneVertical.label "Вертикальный вид">
 <!ENTITY messagePaneVertical.accesskey "В">
-<!ENTITY threadPaneWide.label "Вид с широким списком сообщений">
-<!ENTITY threadPaneWide.accesskey "с">
 <!ENTITY showMessageCmd.label "Область просмотра сообщений">
 <!ENTITY showMessageCmd.accesskey "О">
 <!ENTITY folderView.label "Папки">
@@ -183,8 +177,6 @@
 <!ENTITY threads.accesskey "О">
 <!ENTITY allMsgsCmd.label "Все">
 <!ENTITY allMsgsCmd.accesskey "В">
-<!ENTITY expandOrCollapseMenu.label "Развернуть/свернуть">
-<!ENTITY expandOrCollapseMenu.accesskey "Р">
 <!ENTITY expandAllThreadsCmd.label "Развернуть все">
 <!ENTITY expandAllThreadsCmd.accesskey "Р">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -235,8 +227,6 @@
 <!ENTITY pageSourceCmd.label "Исходный текст">
 <!ENTITY pageSourceCmd.accesskey "х">
 <!ENTITY pageSourceCmd.key "u">
-<!ENTITY searchMenu.label "Поиск">
-<!ENTITY searchMenu.accesskey "о">
 <!ENTITY findMenu.label "Найти">
 <!ENTITY findMenu.accesskey "й">
 <!ENTITY findCmd.label "Найти в этом сообщении…">
@@ -357,8 +347,6 @@
 <!ENTITY markAsReadCmd.label "Как прочитанное">
 <!ENTITY markAsReadCmd.accesskey "ч">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "Как непрочитанное">
-<!ENTITY markAsUnreadCmd.accesskey "н">
 <!ENTITY markThreadAsReadCmd.label "Обсуждение как прочитанное">
 <!ENTITY markThreadAsReadCmd.accesskey "О">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -383,7 +371,6 @@
 <!ENTITY openMessageWindowCmd.accesskey "О">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY windowMenu.label "Окно">
-<!ENTITY windowMenu.accesskey "О">
 <!ENTITY tasksMenu.label "Инструменты">
 <!ENTITY tasksMenu.accesskey "И">
 <!ENTITY addons.label "Дополнения">
@@ -424,7 +411,6 @@
 <!ENTITY printButton.label "Печать">
 <!ENTITY stopButton.label "Остановить">
 <!ENTITY throbberItem.title "Индикатор активности">
-<!ENTITY updatesItem.title "Обновления">
 <!ENTITY junkButton.label "Спам">
 <!ENTITY notJunkButton.label "Не спам">
 <!ENTITY addressBookButton.label "Адресная книга">
@@ -434,7 +420,6 @@
 <!ENTITY tagButton.label "Метка">
 <!ENTITY compactButton.label "Сжать">
 <!ENTITY advancedButton.tooltip "Расширенный режим поиска">
-<!ENTITY clearButton.tooltip "Сбросить критерии поиска и показать все сообщения">
 <!ENTITY getMsgButton.tooltip "Получить новые сообщения">
 <!ENTITY getAllNewMsgCmd.label "Все новые сообщения">
 <!ENTITY getAllNewMsgCmd.accesskey "с">
@@ -500,8 +485,6 @@
 <!ENTITY folderContextSettings.accesskey "а">
 <!ENTITY SearchNameOrEmail.label "Имя или e-mail адрес содержат:">
 <!ENTITY SearchNameOrEmail.accesskey "И">
-<!ENTITY clearButton.label "Очистить">
-<!ENTITY clearButton.accesskey "ч">
 <!ENTITY searchSubjectMenu.label "Тема">
 <!ENTITY searchFromMenu.label "От">
 <!ENTITY searchSubjectOrFromMenu.label "Тема или Автор">
@@ -520,7 +503,6 @@
 <!ENTITY statusColumn.label "Состояние">
 <!ENTITY sizeColumn.label "Размер">
 <!ENTITY junkStatusColumn.label "Спам">
-<!ENTITY linesColumn.label "Строки">
 <!ENTITY unreadColumn.label "Не прочитано">
 <!ENTITY totalColumn.label "Всего">
 <!ENTITY readColumn.label "Прочитано">
@@ -577,8 +559,6 @@
 <!ENTITY contextPrint.accesskey "П">
 <!ENTITY contextPrintPreview.label "Предварительный просмотр">
 <!ENTITY contextPrintPreview.accesskey "р">
-<!ENTITY contextDelete.label "Удалить">
-<!ENTITY contextDelete.accesskey "У">
 <!ENTITY junkBarMessage1.label "Спам">
 <!ENTITY junkBarButton1.label "Не спам">
 <!ENTITY junkInfoButton.label "?">
@@ -602,8 +582,6 @@
 <!ENTITY CopyEmailAddress.accesskey "К">
 <!ENTITY CreateFilterFrom.label "Создать фильтр из…">
 <!ENTITY CreateFilterFrom.accesskey "ф">
-<!ENTITY BlockAddress.label "Блокировать адрес">
-<!ENTITY BlockAddress.accesskey "р">
 <!ENTITY reportPhishingURL.label "Сообщить о мошенническом письме">
 <!ENTITY reportPhishingURL.accesskey "б">
 <!ENTITY saveLinkAsCmd.label "Сохранить объект как…">

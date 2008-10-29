@@ -15,6 +15,6 @@
 <!ENTITY itemOfflineApps.accesskey "н">
 <!ENTITY itemDownloads.label "Журнал загрузок">
 <!ENTITY itemDownloads.accesskey "Ж">
-<!ENTITY itemSessions.label "Сессии аутентификации">
-<!ENTITY itemSessions.accesskey "с">
+<!ENTITY itemActiveLogins.label "Регистрационные данные">
+<!ENTITY itemActiveLogins.accesskey "г">
 <!ENTITY window.width "30em">

@@ -1,10 +1,8 @@
 <!--null-->
 <!ENTITY pref.ldap.window.title "Сервера каталогов LDAP">
-<!ENTITY directory.label "Добавить каталог">
 <!ENTITY directories.label "Сервер каталогов LDAP:">
 <!ENTITY directoriesText.label "Выберите сервер каталогов LDAP:">
 <!ENTITY directoriesText.accesskey "В">
-<!ENTITY autocomplete.title "Сервер каталогов LDAP">
 <!ENTITY addDirectory.label "Добавить">
 <!ENTITY addDirectory.accesskey "Д">
 <!ENTITY editDirectory.label "Изменить">

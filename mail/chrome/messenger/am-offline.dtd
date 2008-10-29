@@ -5,7 +5,6 @@
 <!ENTITY offlineNotDownload.label "Сообщения размером более">
 <!ENTITY offlineNotDownload.accesskey "б">
 <!ENTITY kb.label "КБ">
-<!ENTITY days.label "дней">
 <!ENTITY daysOld.label "дней">
 <!ENTITY message.label "сообщений">
 <!ENTITY nntpNotDownloadRead.label "Загружать только непрочитанные сообщения">

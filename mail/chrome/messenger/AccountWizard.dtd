@@ -16,27 +16,21 @@
 <!ENTITY fullnameLabel.accesskey "В">
 <!ENTITY emailLabel.label "Адрес электронной почты:">
 <!ENTITY emailLabel.accesskey "А">
-<!ENTITY emailDesc.label "Введите адрес электронной почты, на который вам будут отправляться сообщения">
-<!ENTITY emailExample.label "(например, «user@example.ru»).">
 <!ENTITY serverTitle.label "Информация о сервере">
-<!ENTITY incomingServerTitle.label "Сервер входящей почты">
 <!ENTITY incomingServerTypeDesc.label "Выберите тип используемого вами сервера входящей почты.">
-<!ENTITY incomingServerTypeLabel.label "Тип сервера:">
 <!ENTITY incomingServerNameDesc.label "Введите имя используемого вами сервера входящей почты (например, «mail.example.ru»).">
 <!ENTITY incomingServerLabel.label "Имя сервера:">
 <!ENTITY incomingServerLabel.accesskey "И">
 <!ENTITY newsServerNameDesc.label "Введите имя используемого вами сервера новостей (NNTP) (например, «news.example.ru»).">
-<!ENTITY smtpServerTitle.label "Сервер исходящей почты (SMTP)">
 <!ENTITY smtpServerDesc.label "Введите имя используемого вами сервера исходящей почты (SMTP) (например, «smtp.example.ru»).">
 <!ENTITY smtpServerLabel.label "Имя сервера:">
 <!ENTITY smtpServerLabel.accesskey "с">
 <!ENTITY newsServerLabel.label "Имя сервера новостей:">
-<!ENTITY newsServerLabel.accesskey "м">
+<!ENTITY newsServerLabel.accesskey "н">
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
 <!ENTITY popType.label "POP3">
 <!ENTITY popType.accesskey "P">
-<!ENTITY nntpType.label "Сервер новостей">
 <!ENTITY haveSmtp1.prefix "Будет использоваться уже существующий сервер исходящей почты (SMTP) — «">
 <!ENTITY haveSmtp1.suffix "». Вы можете изменить параметры SMTP-сервера, выбрав пункт «Параметры учётной записи» в меню «Инструменты».">
 <!ENTITY loginTitle.label "Имена пользователей">
@@ -53,7 +47,6 @@
 <!ENTITY haveSmtp3.suffix "» идентичен серверу входящей почты, для работы пользователя будет использоваться то же имя пользователя. Вы можете изменить параметры SMTP-сервера выбрав пункт «Параметры учётной записи» в меню «Инструменты».">
 <!ENTITY accnameTitle.label "Имя учётной записи">
 <!ENTITY accnameDesc.label "Введите имя этой учётной записи (например, «Рабочая», «Личная» или «Группы новостей»).">
-<!ENTITY accnameExample.label "Например, «Рабочая», «Личная» или «Группа новостей»">
 <!ENTITY accnameLabel.label "Имя учётной записи:">
 <!ENTITY accnameLabel.accesskey "у">
 <!ENTITY completionTitle.label "Поздравляем!">

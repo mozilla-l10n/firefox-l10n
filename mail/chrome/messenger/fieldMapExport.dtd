@@ -1,5 +1,0 @@
-<!--null-->
-<!ENTITY fieldMapExport.title "Экспорт адресной книги">
-<!ENTITY fieldMapExport.add "Добавить поле ->">
-<!ENTITY fieldMapExport.addAll "Добавить все ->">
-<!ENTITY fieldList.label "Поля адреса">

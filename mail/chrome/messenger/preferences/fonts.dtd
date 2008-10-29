@@ -4,7 +4,6 @@
 <!ENTITY window.unixWidth "56em">
 <!ENTITY language.label "Шрифты для набора символов:">
 <!ENTITY language.accesskey "ф">
-<!ENTITY typefaces.label "Гарнитура">
 <!ENTITY sizes.label "Размер (пикселы)">
 <!ENTITY proportionalSize.accesskey "м">
 <!ENTITY monospaceSize.accesskey "с">
@@ -16,7 +15,6 @@
 <!ENTITY sans-serif.accesskey "з">
 <!ENTITY monospace.label "Моноширинный:">
 <!ENTITY monospace.accesskey "н">
-<!ENTITY fontsize.units "пикселов">
 <!ENTITY font.langGroup.latin1 "Западноевропейский">
 <!ENTITY font.langGroup.latin2 "Центральноевропейский">
 <!ENTITY font.langGroup.japanese "Японский">
@@ -49,7 +47,6 @@
 <!ENTITY minSize.none "Нет">
 <!ENTITY useDefaultFontSerif.label "С засечками">
 <!ENTITY useDefaultFontSansSerif.label "Без засечек">
-<!ENTITY newLanguages.label "Новые группы языков могут быть определены с помощью панели языков.">
 <!ENTITY useDocumentFonts.label "Разрешить сообщениям использовать другие шрифты">
 <!ENTITY useDocumentFonts.accesskey "р">
 <!ENTITY sendDefaultCharset.label "Исходящие сообщения:">

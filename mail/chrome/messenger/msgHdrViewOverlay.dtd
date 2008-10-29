@@ -16,7 +16,6 @@
 <!ENTITY messageIdField2.label "идентификатор">
 <!ENTITY inReplyToField2.label "в ответ на">
 <!ENTITY originalWebsite2.label "сайт">
-<!ENTITY saveAll.label "Сохранить все…">
 <!ENTITY editMessageDescription.label "Это черновик">
 <!ENTITY editMessageButton.label "Изменить…">
 <!ENTITY replyButton.label "ответить…">

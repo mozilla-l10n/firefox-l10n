@@ -1,23 +1,10 @@
 <!ENTITY credit.title "Участники проекта &brandFullName;">
 <!ENTITY brandMotto "В небесах грохочет гром и летит ваш почтальон!">
 <!ENTITY credit.leads "Ведущие разработчики">
-<!ENTITY credit.core "Разработчики ядра">
-<!ENTITY credit.gecko "Движок рендеринга Gecko">
 <!ENTITY credit.thanks "Специальная благодарность">
 <!ENTITY credit.translation "<h3>Переводчики</h3><ul><li>Александр Словесник</li><li>Валентина Ванеева</li><li>Вадим Виниченко</li><li>Алексей Губанов</li><li>Сергей Дегтярев</li><li>Даниил Смирнов</li></ul>">
-<!ENTITY credit.visuals "Координатор разработки визуального дизайна">
 <!ENTITY credit.theme "Дизайн темы">
-<!ENTITY credit.brand "Разработка логотипа">
-<!ENTITY credit.web "Веб-дизайн">
-<!ENTITY credit.update "Сайт Mozilla Update">
-<!ENTITY credit.qalead "Глава группы обеспечения качества">
 <!ENTITY credit.qa "Группа обеспечения качества">
 <!ENTITY credit.build "Создание сборок и их выпуск">
-<!ENTITY credit.infra "Поддержка инфраструктуры">
-<!ENTITY credit.support "Обеспечение поддержки пользователей">
-<!ENTITY credit.manage "Менеджмент проекта">
-<!ENTITY credit.marketleads "Ведущие маркетологи">
-<!ENTITY credit.market "Маркетинг">
-<!ENTITY credit.creators "Создатели">
 <!ENTITY credit.memory "Посвящается памяти">
 <!ENTITY credit.poweredByGecko "На движке Gecko&trade;">

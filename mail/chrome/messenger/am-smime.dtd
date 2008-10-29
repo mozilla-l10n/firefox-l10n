@@ -5,15 +5,13 @@
 <!ENTITY neverEncrypt.label "Никогда (не использовать шифрование)">
 <!ENTITY alwaysEncryptMessage.label "Всегда (сообщение не будет отправлено, если не у всех адресатов есть сертификаты)">
 <!ENTITY encryptionCert.message "Личный сертификат для шифрования: ">
-<!ENTITY encryptionCert.notselected "Сертификат не установлен">
 <!ENTITY certificate.button "Выбрать…">
 <!ENTITY certificate_clear.button "Очистить">
 <!ENTITY signingGroupTitle.label "Цифровая подпись">
 <!ENTITY signMessage.label "Подписывать сообщения цифровой подписью (по умолчанию)">
 <!ENTITY signingCert.message "Личный сертификат для подписи:">
-<!ENTITY signingCert.notselected "Сертификат не установлен">
 <!ENTITY certificates.label "Сертификаты">
 <!ENTITY managecerts.label "Просмотр сертификатов">
-<!ENTITY managecerts.accesskey "П">
+<!ENTITY managecerts.accesskey "с">
 <!ENTITY managedevices.label "Устройства защиты">
 <!ENTITY managedevices.accesskey "з">

@@ -13,10 +13,6 @@
 <!ENTITY autoTypeRadio.accesskey "а">
 <!ENTITY reload.label "Обновить">
 <!ENTITY reload.accesskey "б">
-<!ENTITY ftp.label "FTP прокси:">
-<!ENTITY ftp.accesskey "F">
-<!ENTITY gopher.label "Gopher прокси:">
-<!ENTITY gopher.accesskey "G">
 <!ENTITY http.label "HTTP прокси:">
 <!ENTITY http.accesskey "T">
 <!ENTITY ssl.label "SSL прокси:">

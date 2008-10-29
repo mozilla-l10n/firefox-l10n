@@ -50,7 +50,6 @@
 <!ENTITY retention.label "Настройки хранения сообщений">
 <!ENTITY retentionUseDefault.label "Использовать параметры сервера по умолчанию">
 <!ENTITY retentionUseDefault.accesskey "у">
-<!ENTITY days.label "дней">
 <!ENTITY daysOld.label "дней">
 <!ENTITY message.label "сообщений">
 <!ENTITY retentionCleanup.label "Для высвобождения места на диске старые сообщения могут быть удалены">
@@ -71,16 +70,13 @@
 <!ENTITY offlineFolder.button.accesskey "З">
 <!ENTITY selectofflineNewsgroup.check.label "Выбрать эту группу новостей для автономной работы">
 <!ENTITY selectofflineNewsgroup.check.accesskey "э">
-<!ENTITY UseDefaultofflineNewsgroup.check.label "Использовать настройки по умолчанию из параметров учётной записи">
 <!ENTITY offlineNewsgroup.button.label "Загрузить">
 <!ENTITY offlineNewsgroup.button.accesskey "З">
-<!ENTITY folderProps.information.label "Информация:">
 <!ENTITY folderProps.name.label "Имя:">
 <!ENTITY folderProps.name.accesskey "И">
 <!ENTITY folderProps.location.label "Адрес:">
 <!ENTITY folderProps.location.accesskey "д">
 <!ENTITY folderSharingTab.label "Совместное использование">
-<!ENTITY privilegesDesc.label "Использование этой и других папок совместно с другими пользователями сети, отображение и установка привилегий доступа.">
 <!ENTITY privileges.button.label "Привилегии…">
 <!ENTITY privileges.button.accesskey "П">
 <!ENTITY permissionsDesc.label "У вас есть следующие права:">

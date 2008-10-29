@@ -69,7 +69,6 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "е">
 <!ENTITY deleteCmd.label "Удалить">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "У">
 <!ENTITY selectAllCmd.label "Выделить всё">
 <!ENTITY selectAllCmd.key "A">
@@ -90,7 +89,6 @@
 <!ENTITY viewToolbarsMenuNew.label "Панели инструментов">
 <!ENTITY viewToolbarsMenuNew.accesskey "П">
 <!ENTITY showCompositionToolbarCmd.label "Панель компоновки">
-<!ENTITY showCompositionToolbarCmd.accesskey "к">
 <!ENTITY showFormattingBarCmd.label "Панель форматирования">
 <!ENTITY showFormattingBarCmd.accesskey "ф">
 <!ENTITY showTaskbarCmd.label "Строка состояния">
@@ -155,7 +153,6 @@
 <!ENTITY accountManagerCmd.accesskey "м">
 <!ENTITY accountManagerCmdUnix.accesskey "м">
 <!ENTITY preferencesCmd.label "Настройки…">
-<!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "Н">
 <!ENTITY preferencesCmdUnix.label "Настройки">
 <!ENTITY preferencesCmdUnix.accesskey "Н">
@@ -192,9 +189,6 @@
 <!ENTITY subject.accesskey "Т">
 <!ENTITY attachments.label "Вложения:">
 <!ENTITY attachments.accesskey "В">
-<!ENTITY formatToolbar.boldChar "Ж">
-<!ENTITY formatToolbar.italicChar "К">
-<!ENTITY formatToolbar.underlineChar "Ч">
 <!ENTITY SmileButton.tooltip "Вставить смайлик">
 <!ENTITY smiley1Cmd.label "Улыбка">
 <!ENTITY smiley2Cmd.label "Нахмуриться">

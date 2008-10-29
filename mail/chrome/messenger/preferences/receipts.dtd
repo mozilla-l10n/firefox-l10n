@@ -1,5 +1,4 @@
 <!ENTITY dialog.title "Уведомления о прочтении">
-<!ENTITY receiptSettings.label "Уведомления о прочтении">
 <!ENTITY requestReceipt.label "Всегда запрашивать уведомление о прочтении при отправке сообщений">
 <!ENTITY requestReceipt.accesskey "з">
 <!ENTITY receiptArrive.label "При получении уведомления о прочтении:">

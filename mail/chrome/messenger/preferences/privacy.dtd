@@ -35,10 +35,3 @@
 <!ENTITY antiVirus.intro "&brandShortName; может облегчить работу антивируса при проверке входящих сообщений на наличие вирусов перед тем, как сохранить их в почтовые папки.">
 <!ENTITY antiVirus.label "Разрешить антивирусу помещать в карантин отдельные входящие сообщения">
 <!ENTITY antiVirus.accesskey "в">
-<!ENTITY antiVirusCaption.label "Работа с антивирусом">
-<!ENTITY paswords.label "Пароли">
-<!ENTITY emailScams.label "Мошеннические письма">
-<!ENTITY junkMail.label "Анти-спам">
-<!ENTITY itemIntrusions.label "Безопасность">
-<!ENTITY itemIntrusionsAndPasswords.label "Безопасность и пароли">
-<!ENTITY itemJunkMail.label "Анти-спам">

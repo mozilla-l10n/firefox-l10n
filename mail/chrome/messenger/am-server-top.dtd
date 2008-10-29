@@ -1,9 +1,5 @@
 <!ENTITY securitySettings.label "Настройки защиты">
 <!ENTITY serverSettings.label "Параметры сервера">
-<!ENTITY popServer.label "POP3-сервер">
-<!ENTITY imapServer.label "IMAP-сервер">
-<!ENTITY newsServer.label "Сервер новостей (NNTP)">
-<!ENTITY webmail.label "Учётная запись WebMail">
 <!ENTITY serverType.label "Тип сервера:">
 <!ENTITY serverName.label "Имя сервера:">
 <!ENTITY serverName.accesskey "И">
@@ -40,9 +36,7 @@
 <!ENTITY deleteOnServer2.accesskey "у">
 <!ENTITY downloadOnBiff.label "Автоматически загружать новые сообщения">
 <!ENTITY downloadOnBiff.accesskey "А">
-<!ENTITY hostname.label "Сетевое имя сервера">
 <!ENTITY username.label "Ваше регистрационное имя">
-<!ENTITY popServerTitle.label "Информация о POP3-сервере">
 <!ENTITY deleteMessagePrefix.label "При удалении сообщения:">
 <!ENTITY modelMoveToTrash.label "Переместить его в папку:">
 <!ENTITY modelMoveToTrash.accesskey "п">

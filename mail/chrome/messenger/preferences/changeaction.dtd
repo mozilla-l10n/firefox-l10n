@@ -17,5 +17,3 @@
 <!ENTITY chooseFolder.accesskey "б">
 <!ENTITY saveToAskMe.label "спрашивать меня куда сохранять файл">
 <!ENTITY saveToAskMe.accesskey "с">
-<!ENTITY usePlugin.label "Использовать следующий плагин:">
-<!ENTITY usePlugin.accesskey "л">
