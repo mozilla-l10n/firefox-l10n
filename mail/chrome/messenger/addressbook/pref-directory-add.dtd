@@ -48,12 +48,9 @@
 <!ENTITY directorySecure.accesskey         "P">
 <!ENTITY directoryLogin.label              "DN pripájania:">
 <!ENTITY directoryLogin.accesskey          "D">
-<!ENTITY advancedOptionsButton.label       "Pokročilé možnosti">
-<!ENTITY advancedOptionsButton.accesskey   "m">
 <!ENTITY General.tab                       "Všeobecné">
 <!ENTITY Offline.tab                       "Režim offline">
 <!ENTITY Advanced.tab                      "Pokročilé">
-<!ENTITY advancedOptionsTitle.label        "Pokročilé možnosti">
 <!ENTITY portNumber.label                  "Číslo portu:">
 <!ENTITY portNumber.accesskey              "r">
 <!ENTITY searchFilter.label                "Prehľadávací filter:">

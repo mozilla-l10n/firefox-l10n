@@ -5,7 +5,6 @@
 <!ENTITY offlineNotDownload.label "Správy väčšie ako ">
 <!ENTITY offlineNotDownload.accesskey "S">
 <!ENTITY kb.label "kB">
-<!ENTITY days.label "dní">
 <!ENTITY daysOld.label "dní">
 <!ENTITY message.label "správ">
 <!ENTITY nntpNotDownloadRead.label "Prečítané správy">

@@ -20,9 +20,6 @@
 <!ENTITY filterActionDesc.label "Vykonať tieto akcie:">
 <!ENTITY filterActionDesc.accesskey "V">
 
-<!ENTITY newFolderButton.label "Nový priečinok…">
-<!ENTITY newFolderButton.accesskey "N">
-
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Presunúť do priečinka">
 <!ENTITY copyMessage.label "Kopírovať do priečinka">

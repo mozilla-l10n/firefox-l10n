@@ -54,26 +54,9 @@
 <!ENTITY calendar.new.server.key                "L">
 <!ENTITY calendar.new.server.accesskey          "l">
 
-<!ENTITY calendar.open.file.label               "Otvoriť súbor kalendára…">
-<!ENTITY calendar.open.file.key                 "O">
-<!ENTITY calendar.open.file.accesskey           "O">
-
-<!ENTITY event.edit.event                       "Upraviť označené…">
-<!ENTITY event.edit.event.key                   "e">
-<!ENTITY event.edit.event.accesskey             "U">
-
-<!ENTITY event.delete.event                     "Odstrániť označené udalosti">
-<!ENTITY event.delete.event.accesskey           "t">
-
-<!ENTITY event.delete.tasks                     "Odstrániť označené úlohy">
-<!ENTITY event.delete.tasks.accesskey           "r">
-
 <!ENTITY calendar.print.label                   "Tlačiť…">
 <!ENTITY calendar.print.key                     "P">
 <!ENTITY calendar.print.accesskey               "T">
-
-<!ENTITY calendar.pagesetup.label               "Nastavenie tlače…">
-<!ENTITY calendar.pagesetup.accesskey           "N">
 
 <!ENTITY calendar.import.label                  "Importovať…">
 <!ENTITY calendar.import.key                    "I">
@@ -84,68 +67,16 @@
 <!ENTITY calendar.export.selection.label        "Exportovať označené…">
 <!ENTITY calendar.export.selection.accesskey    "v">
 
-<!ENTITY calendar.subscribe.label               "Prijať vzdialený kalendár…">
-<!ENTITY calendar.subscribe.accesskey           "P">
-
-<!ENTITY calendar.reloadserver.label            "Aktualizovať vzdialené kalendáre">
-<!ENTITY calendar.reloadserver.key              "R">
-<!ENTITY calendar.reloadserver.accesskey        "A">
-
 <!ENTITY calendar.publish.label                 "Publikovať…">
 <!ENTITY calendar.publish.accesskey             "b">
-<!ENTITY calendar.publish.calendar.label        "Publikovať kalendár…">
-<!ENTITY calendar.publish.calendar.accesskey    "b">
-<!ENTITY calendar.publish.selection.label       "Publikovať označené…">
-<!ENTITY calendar.publish.selection.accesskey   "z">
-
-<!ENTITY calendar.quit.label                    "Koniec">
-<!ENTITY calendar.quit.accesskey                "K">
-<!ENTITY calendar.quit.key                      "Q">
-<!ENTITY calendar.quit.label.mac                "Ukončiť &brandShortName;">
-
-<!ENTITY calendar.exit.label                    "Koniec">
-<!ENTITY calendar.exit.accesskey                "K">
-
-<!ENTITY calendar.undo.label                    "Späť">
-<!ENTITY calendar.undo.key                      "Z">
-<!ENTITY calendar.undo.accesskey                "S">
-
-<!ENTITY calendar.redo.label                    "Znovu">
-<!ENTITY calendar.redo.key                      "Y">
-<!ENTITY calendar.redo.accesskey                "Z">
-
-<!ENTITY calendar.cut.label                     "Vystrihnúť">
-<!ENTITY calendar.cut.key                       "X">
-<!ENTITY calendar.cut.accesskey                 "V">
-
-<!ENTITY calendar.copy.label                    "Kopírovať">
-<!ENTITY calendar.copy.key                      "C">
-<!ENTITY calendar.copy.accesskey                "K">
-
-<!ENTITY calendar.paste.label                   "Prilepiť">
-<!ENTITY calendar.paste.key                     "V">
-<!ENTITY calendar.paste.accesskey               "P">
-
-<!ENTITY calendar.selectall.label               "Vybrať všetko">
-<!ENTITY calendar.selectall.key                 "a">
-<!ENTITY calendar.selectall.accesskey           "a">
-
-<!ENTITY toolbarsMenu.label                     "Panely nástrojov">
-<!ENTITY toolbarsMenu.accesskey                 "n">
 
 <!ENTITY calendar.toolbar.label                 "Panel Kalendár">
-<!ENTITY calendar.toolbar.accesskey             "n">
+<!ENTITY calendar.toolbar.accesskey             "K">
 <!ENTITY task.toolbar.label                     "Panel Úloha">
-<!ENTITY task.toolbar.accesskey                 "l">
+<!ENTITY task.toolbar.accesskey                 "h">
 
 <!ENTITY calendar.menu.customize.label          "Prispôsobiť…">
 <!ENTITY calendar.menu.customize.accesskey      "P">
-
-<!ENTITY showStatusBarCmd.label                 "Stavový riadok">
-<!ENTITY showStatusBarCmd.accesskey             "a">
-
-<!ENTITY showTaskBoxCmd.label                   "Zoznam úloh">
-<!ENTITY showTaskBoxCmd.accesskey               "Z">
 
 <!ENTITY showUnifinderCmd.label                 "Hľadať udalosti">
 <!ENTITY showUnifinderCmd.accesskey             "H">
@@ -160,20 +91,8 @@
 <!ENTITY calendar.menu.numberofweeks.5          "Päť týždňov">
 <!ENTITY calendar.menu.numberofweeks.6          "Šesť týždňov">
 
-<!ENTITY calendar.fullscreen.label              "Na celú obrazovku">
-<!ENTITY calendar.fullscreen.accesskey          "c">
-
-<!ENTITY calendar.addons.label                  "Doplnky">
-<!ENTITY calendar.addons.accesskey              "D">
-
-<!ENTITY goMenu.label                           "Prejsť na">
-<!ENTITY goMenu.accesskey                       "r">
-
 <!ENTITY goTodayCmd.label                       "Dnešný deň">
-<!ENTITY goTodayCmd.accesskey                   "d">
-
-<!ENTITY goDateCmd.label                        "Dátum…">
-<!ENTITY goDateCmd.accesskey                    "t">
+<!ENTITY goTodayCmd.accesskey                   "D">
 
 <!ENTITY goPreviousCmd.day.label                "Predchádzajúci deň">
 <!ENTITY goPreviousCmd.week.label               "Predchádzajúci týždeň">
@@ -185,62 +104,8 @@
 <!ENTITY goNextCmd.month.label                  "Nasledujúci mesiac">
 <!ENTITY goNextCmd.all.accesskey                "a">
 
-<!ENTITY toolsMenu.label                        "Nástroje">
-<!ENTITY toolsMenu.accesskey                    "N">
-
-<!ENTITY errorConsoleCmd.label                  "Chybová konzola">
-<!ENTITY errorConsoleCmd.accesskey              "K">
-
 <!ENTITY addressBookCmd.label                   "Adresár">
 <!ENTITY addressBookCmd.accesskey               "A">
-
-<!ENTITY helpMenu.label                         "Pomocník">
-<!ENTITY helpMenu.accesskey                     "P">
-<!-- LOCALIZATION NOTE some localizations of Windows use "?"
-           for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label                      "Pomocník"> 
-<!ENTITY helpMenuWin.accesskey                  "P">
-
-<!-- Toolbar items -->
-<!ENTITY fileMenu.label                         "Súbor">
-<!ENTITY fileMenu.accesskey                     "S">
-
-<!ENTITY editMenu.label                         "Upraviť">
-<!ENTITY editMenu.accesskey                     "U">
-<!ENTITY optionsCmd.label                       "Možnosti…">
-<!ENTITY optionsCmd.accesskey                   "M">
-<!ENTITY preferencesCmd.label                   "Možnosti">
-<!ENTITY preferencesCmd.accesskey               "M">
-<!ENTITY preferencesCmdMac.label                "Možnosti…">
-<!ENTITY preferencesCmdMac.commandkey           ",">
-<!ENTITY preferencesCmdMac.modifiers            "accel">
-
-<!ENTITY viewMenu.label                         "Zobraziť">
-<!ENTITY viewMenu.accesskey                     "Z">
-
-<!ENTITY releaseCmd.label                       "Poznámky k vydaniu">
-<!ENTITY releaseCmd.accesskey                   "P">
-<!ENTITY aboutCmd.label                         "O programe &brandFullName;">
-<!ENTITY aboutCmd.accesskey                     "m">
-<!ENTITY updateCmd.label                        "Kontrola aktualizácií…">
-<!ENTITY updateCmd.accesskey                    "a">
-
-<!-- Mac OS X "Window" menu items -->
-<!ENTITY windowMenu.label                       "Okno">
-<!ENTITY minimizeWindow.label                   "Minimalizovať">
-<!ENTITY zoomWindow.label                       "Lupa">
-<!ENTITY minimizeWindow.key                     "M">
-<!ENTITY bringAllToFront.label                  "Preniesť všetko do popredia">
-
-<!-- Mac OS X Application menu items -->
-<!ENTITY servicesMenuMac.label          "Služby">
-<!ENTITY hideThisAppCmdMac.label        "Skryť &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
-<!ENTITY hideOtherAppsCmdMac.label      "Skryť ostatné">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
-<!ENTITY showAllAppsCmdMac.label        "Zobraziť všetko">
 
 <!ENTITY calendar.importcalendar.label          "Import kalendára…">
 

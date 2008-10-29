@@ -225,62 +225,89 @@
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "r">
-<!ENTITY viewPageSourceCmd.label "Zobraziť zdrojový kód stránky">
-<!ENTITY viewPageSourceCmd.accesskey "k">
-<!ENTITY viewFrameSourceCmd.label "Zobraziť zdrojový kód rámca">
+<!ENTITY viewPageSourceCmd.label      "Zobraziť zdrojový kód stránky">
+<!ENTITY viewPageSourceCmd.accesskey  "k">
+<!ENTITY viewFrameSourceCmd.label     "Zobraziť zdrojový kód rámca">
 <!ENTITY viewFrameSourceCmd.accesskey "r">
-<!ENTITY viewPageInfoCmd.label "Zobraziť informácie o stránke">
-<!ENTITY viewPageInfoCmd.accesskey "i">
-<!ENTITY viewFrameInfoCmd.label "Zobraziť informácie o rámci">
-<!ENTITY viewFrameInfoCmd.accesskey "i">
-<!ENTITY showImageCmd.label           "Načítať obrázok">
-<!ENTITY showImageCmd.accesskey       "t">
-<!ENTITY viewImageCmd.label "Zobraziť obrázok">
-<!ENTITY viewImageCmd.accesskey "b">
-<!ENTITY viewBGImageCmd.label "Zobraziť obrázok pozadia">
-<!ENTITY viewBGImageCmd.accesskey "b">
+<!ENTITY viewPageInfoCmd.label        "Zobraziť informácie o stránke">
+<!ENTITY viewPageInfoCmd.accesskey    "i">
+<!ENTITY viewFrameInfoCmd.label       "Zobraziť informácie o rámci">
+<!ENTITY viewFrameInfoCmd.accesskey   "i">
+<!ENTITY reloadImageCmd.label         "Znova načítať obrázok">
+<!ENTITY reloadImageCmd.accesskey     "t">
+<!ENTITY viewImageCmd.label           "Zobraziť obrázok">
+<!ENTITY viewImageCmd.accesskey       "b">
+<!ENTITY viewBGImageCmd.label         "Zobraziť obrázok pozadia">
+<!ENTITY viewBGImageCmd.accesskey     "b">
 <!ENTITY setDesktopBackgroundCmd.label "Nastaviť ako pozadie pracovnej plochy…">
 <!ENTITY setDesktopBackgroundCmd.accesskey "N">
-<!ENTITY bookmarkPageCmd2.label "Vytvoriť záložku pre túto stránku">
-<!ENTITY bookmarkPageCmd2.accesskey "z">
-<!ENTITY bookmarkThisLinkCmd.label "Vytvoriť záložku pre tento odkaz">
+<!ENTITY bookmarkPageCmd2.label       "Vytvoriť záložku pre túto stránku">
+<!ENTITY bookmarkPageCmd2.accesskey   "z">
+<!ENTITY bookmarkThisLinkCmd.label    "Vytvoriť záložku pre tento odkaz">
 <!ENTITY bookmarkThisLinkCmd.accesskey "i">
-<!ENTITY bookmarkThisFrameCmd.label "Vytvoriť záložku pre tento rámec">
+<!ENTITY bookmarkThisFrameCmd.label   "Vytvoriť záložku pre tento rámec">
 <!ENTITY bookmarkThisFrameCmd.accesskey "V">
-<!ENTITY sendPageCmd.label "Odoslať odkaz…">
-<!ENTITY sendPageCmd.accesskey "l">
-<!ENTITY savePageCmd.label "Uložiť stránku ako…">
-<!ENTITY savePageCmd.accesskey "r">
+<!ENTITY sendPageCmd.label            "Odoslať odkaz…">
+<!ENTITY sendPageCmd.accesskey        "l">
+<!ENTITY savePageCmd.label            "Uložiť stránku ako…">
+<!ENTITY savePageCmd.accesskey        "r">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "U">
-<!ENTITY savePageCmd.commandkey "s">
-<!ENTITY saveFrameCmd.label "Uložiť rámec ako…">
-<!ENTITY saveFrameCmd.accesskey "m">
+<!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY saveFrameCmd.label           "Uložiť rámec ako…">
+<!ENTITY saveFrameCmd.accesskey       "m">
 <!ENTITY printFrameCmd.label          "Vytlačiť rámec…">
 <!ENTITY printFrameCmd.accesskey      "c">
-<!ENTITY saveLinkCmd.label "Uložiť cieľ odkazu ako…">
-<!ENTITY saveLinkCmd.accesskey "d">
-<!ENTITY sendLinkCmd.label "Odoslať odkaz…">
-<!ENTITY sendLinkCmd.accesskey "s">
-<!ENTITY saveImageCmd.label "Uložiť obrázok ako…">
-<!ENTITY saveImageCmd.accesskey "U">
-<!ENTITY sendImageCmd.label "Odoslať obrázok…">
-<!ENTITY sendImageCmd.accesskey "r">
-<!ENTITY copyLinkCmd.label "Kopírovať adresu odkazu">
-<!ENTITY copyLinkCmd.accesskey "a">
+<!ENTITY saveLinkCmd.label            "Uložiť cieľ odkazu ako…">
+<!ENTITY saveLinkCmd.accesskey        "d">
+<!ENTITY sendLinkCmd.label            "Odoslať odkaz…">
+<!ENTITY sendLinkCmd.accesskey        "s">
+<!ENTITY saveImageCmd.label           "Uložiť obrázok ako…">
+<!ENTITY saveImageCmd.accesskey       "U">
+<!ENTITY saveVideoCmd.label           "Uložiť video ako…">
+<!ENTITY saveVideoCmd.accesskey       "U">
+<!ENTITY saveAudioCmd.label           "Uložiť zvuk ako…">
+<!ENTITY saveAudioCmd.accesskey       "U">
+<!ENTITY sendImageCmd.label           "Odoslať obrázok…">
+<!ENTITY sendImageCmd.accesskey       "r">
+<!ENTITY sendVideoCmd.label           "Odoslať video…">
+<!ENTITY sendVideoCmd.accesskey       "v">
+<!ENTITY sendAudioCmd.label           "Odoslať zvuk…">
+<!ENTITY sendAudioCmd.accesskey       "v">
+<!ENTITY copyLinkCmd.label            "Kopírovať adresu odkazu">
+<!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyLinkTextCmd.label        "Kopírovať text odkazu">
 <!ENTITY copyLinkTextCmd.accesskey    "x">
-<!ENTITY copyImageCmd.label "Kopírovať adresu obrázka">
-<!ENTITY copyImageCmd.accesskey "e">
-<!ENTITY copyImageContentsCmd.label "Kopírovať obrázok">
-<!ENTITY copyImageContentsCmd.accesskey "v">
-<!ENTITY blockImageCmd.accesskey "z">
-<!ENTITY metadataCmd.label "Vlastnosti">
-<!ENTITY metadataCmd.accesskey           "l">
-<!ENTITY copyEmailCmd.label              "Kopírovať e-mailovú adresu">
-<!ENTITY copyEmailCmd.accesskey          "e">
-<!ENTITY thisFrameMenu.label             "Tento rámec">
-<!ENTITY thisFrameMenu.accesskey         "T">
+<!ENTITY copyImageCmd.label           "Kopírovať adresu obrázka">
+<!ENTITY copyImageCmd.accesskey       "e">
+<!ENTITY copyImageContentsCmd.label   "Kopírovať obrázok">
+<!ENTITY copyImageContentsCmd.accesskey  "v">
+<!ENTITY copyVideoURLCmd.label        "Kopírovať adresu videa">
+<!ENTITY copyVideoURLCmd.accesskey    "e">
+<!ENTITY copyAudioURLCmd.label        "Kopírovať adresu zvuku">
+<!ENTITY copyAudioURLCmd.accesskey    "e">
+<!ENTITY blockImageCmd.accesskey      "z">
+<!ENTITY metadataCmd.label            "Vlastnosti">
+<!ENTITY metadataCmd.accesskey        "l">
+<!ENTITY copyEmailCmd.label           "Kopírovať e-mailovú adresu">
+<!ENTITY copyEmailCmd.accesskey       "e">
+<!ENTITY thisFrameMenu.label          "Tento rámec">
+<!ENTITY thisFrameMenu.accesskey      "T">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "Prehrať">
+<!ENTITY mediaPlay.accesskey         "P">
+<!ENTITY mediaPause.label            "Pozastaviť">
+<!ENTITY mediaPause.accesskey        "a">
+<!ENTITY mediaMute.label             "Stlmiť">
+<!ENTITY mediaMute.accesskey         "m">
+<!ENTITY mediaUnmute.label           "Zrušiť stlmenie">
+<!ENTITY mediaUnmute.accesskey       "Z">
+<!ENTITY mediaShowControls.label     "Zobraziť ovládanie">
+<!ENTITY mediaShowControls.accesskey "n">
+<!ENTITY mediaHideControls.label     "Skryť ovládanie">
+<!ENTITY mediaHideControls.accesskey "n">
+
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and

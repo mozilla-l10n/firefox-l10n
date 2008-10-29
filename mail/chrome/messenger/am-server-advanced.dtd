@@ -1,6 +1,4 @@
 <!ENTITY serverAdvanced.label                "Pokročilé nastavenia účtu">
-<!-- LOCALIZATION NOTE (imapAdvanced.label): Do not translate "IMAP" -->
-<!ENTITY imapAdvanced.label                  "Pokročilé nastavenie servera IMAP">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label               "Priečinok na serveri IMAP:">
 <!ENTITY serverDirectory.accesskey           "e">
@@ -23,7 +21,6 @@
 <!ENTITY overrideNamespaces.label            "Povoliť serveru použiť vlastné priestory">
 <!ENTITY overrideNamespaces.accesskey        "u">
 <!ENTITY pop3Desc.label                      "Pri preberaní novej pošty z tohto servera POP použiť na ukladanie nasledujúci priečinok:">
-<!ENTITY folderStorage.label                 "Kam ukladať poštu">
 <!ENTITY globalInbox.label                   "Globálne doručená pošta">
 <!ENTITY globalInbox.accesskey               "G">
 <!ENTITY accountDirectory.label              "Doručená pošta pre tento účet">

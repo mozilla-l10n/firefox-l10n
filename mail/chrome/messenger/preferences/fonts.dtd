@@ -6,7 +6,6 @@
 <!ENTITY language.label                           "Písma pre:">
 <!ENTITY language.accesskey                       "m">
 
-<!ENTITY typefaces.label                          "Druh písma">
 <!ENTITY sizes.label                              "Veľkosť:">
 <!ENTITY proportionalSize.accesskey               "V">
 <!ENTITY monospaceSize.accesskey                  "e">
@@ -20,8 +19,6 @@
 <!ENTITY sans-serif.accesskey                     "B">
 <!ENTITY monospace.label                          "Pevná šírka:">
 <!ENTITY monospace.accesskey                      "r">
-
-<!ENTITY fontsize.units                           "bodov">
 
 <!ENTITY font.langGroup.latin1                    "Západné">
 <!ENTITY font.langGroup.latin2                    "Stredoeurópske">
@@ -59,8 +56,6 @@
 <!-- default font type -->
 <!ENTITY useDefaultFontSerif.label                "Pätkové (serif)">
 <!ENTITY useDefaultFontSansSerif.label            "Bezpätkové (sans-serif)">
-
-<!ENTITY newLanguages.label                       "Nové jazyky je možné pridať pomocou panela Jazyky.">
 
 <!ENTITY useDocumentFonts.label                   "Povoliť správam používať iné písma">
 <!ENTITY useDocumentFonts.accesskey               "a">

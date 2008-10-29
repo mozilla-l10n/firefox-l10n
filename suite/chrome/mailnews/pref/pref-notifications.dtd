@@ -37,7 +37,7 @@
 
 <!ENTITY pref.notifications.title         "Notifikácie">
 <!ENTITY notifications.caption            "Notifikácie">
-<!ENTITY newMessagesArrive.label          "Keď príde nová správa:">
+<!ENTITY newMessagesArrive.label          "Pri prijatí novej správy:">
 <!ENTITY playSound.label                  "Prehrať zvuk">
 <!ENTITY playSound.accesskey              "h">
 <!ENTITY showAnimatedAlert.label          "Zobraziť upozornenie">

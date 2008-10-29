@@ -26,8 +26,6 @@
 <!ENTITY reuseExpRadio0.accesskey       "n">
 <!ENTITY reuseExpRadio1.label           "V existujúcom okne so správou">
 <!ENTITY reuseExpRadio1.accesskey       "x">
-<!ENTITY reuseExpRadio2.label           "Na novej karte správy">
-<!ENTITY reuseExpRadio2.accesskey       "k">
 <!ENTITY configEditDesc.label           "Pokročilé nastavenia">
 <!ENTITY configEdit.label               "Editor nastavení…">
 <!ENTITY configEdit.accesskey           "E">
@@ -84,7 +82,6 @@
 <!ENTITY clearCacheNow.accesskey         "e">
 
 <!-- Certificates -->
-<!ENTITY certificatesInfo2.label        "Správa certifikátov, zrušené certifikáty, overenie certifikátov a bezpečnostných zariadení.">
 <!ENTITY viewCertificates.label         "Certifikáty">
 <!ENTITY viewCertificates.accesskey     "C">
 <!ENTITY viewCRLs.label                 "Zrušené certifikáty">

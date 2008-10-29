@@ -22,9 +22,8 @@
 <!ENTITY printButton.tooltip            "Vytlačí túto stránku">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY searchtab.label                "Hľadať">
-<!ENTITY searchtab.accesskey            "H">
-<!ENTITY searchClose.tooltip            "Zavrieť výsledky vyhľadávania">
+<!ENTITY search.emptytext               "Hľadať">
+<!ENTITY searchHeader.label             "Výsledky vyhľadávania">
 <!ENTITY toctab.label                   "Obsah">
 <!ENTITY toctab.accesskey               "O">
 

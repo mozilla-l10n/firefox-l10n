@@ -5,15 +5,12 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Priečinok…">
 <!ENTITY newFolderCmd.accesskey "P">
-<!ENTITY newTabCmd.label "Nová karta">
-<!ENTITY newTabCmd.accesskey "k">
 <!ENTITY closeTabCmd.label "Zavrieť kartu">
 <!ENTITY closeTabCmd.accesskey "e">
 <!ENTITY newVirtualFolderCmd.label "Priečinok hľadania…">
 <!ENTITY newVirtualFolderCmd.accesskey "h">
 <!ENTITY newAccountCmd.label "Účet…">
 <!ENTITY newAccountCmd.accesskey "e">
-<!ENTITY openMessageMenu.label "Otvoriť">
 <!ENTITY openMessageFileCmd.label "Otvoriť uložené správy…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Prílohy">
@@ -66,7 +63,6 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Ukážka pred tlačou">
 <!ENTITY printPreviewCmd.accesskey "e">
-<!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "Nastavenie tlače…">
 <!ENTITY printSetupCmd.accesskey "a">
 
@@ -130,8 +126,6 @@
 <!ENTITY messagePaneWide.accesskey "r">
 <!ENTITY messagePaneVertical.label "Zvislý pohľad">
 <!ENTITY messagePaneVertical.accesskey "v">
-<!ENTITY threadPaneWide.label "Podrobný zoznam">
-<!ENTITY threadPaneWide.accesskey "d">
 <!ENTITY showMessageCmd.label "Panel správy">
 <!ENTITY showMessageCmd.accesskey "a">
 
@@ -193,8 +187,6 @@
 <!ENTITY threads.accesskey "V">
 <!ENTITY allMsgsCmd.label "Všetky">
 <!ENTITY allMsgsCmd.accesskey "V">
-<!ENTITY expandOrCollapseMenu.label "Rozbaliť/Zbaliť">
-<!ENTITY expandOrCollapseMenu.accesskey "b">
 <!ENTITY expandAllThreadsCmd.label "Rozbaliť všetky vlákna">
 <!ENTITY expandAllThreadsCmd.accesskey "e">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -258,9 +250,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.key "u">
 
 <!-- Search Menu -->
-<!ENTITY searchMenu.label "Hľadať">
-<!ENTITY searchMenu.accesskey "H">
-
 <!ENTITY findMenu.label "Hľadať">
 <!ENTITY findMenu.accesskey "d">
 <!ENTITY findCmd.label "Hľadať v tejto správe…">
@@ -342,14 +331,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Vytvoriť filter zo správy…">
 <!ENTITY createFilter.accesskey "f">
-<!ENTITY moveMsgMenu.label "Presunúť">
-<!ENTITY moveMsgMenu.accesskey "r">
+<!ENTITY moveMsgToMenu.label "Presunúť do">
+<!ENTITY moveMsgToMenu.accesskey "r">
 <!ENTITY moveCopyMsgRecentMenu.label "Naposledy použité">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "N">
 <!ENTITY copyMessageLocation.label "Kopírovať adresu správy">
 <!ENTITY copyMessageLocation.accesskey "s">
-<!ENTITY copyMsgMenu.label "Skopírovať">
-<!ENTITY copyMsgMenu.accesskey "k">
+<!ENTITY copyMsgToMenu.label "Skopírovať do">
+<!ENTITY copyMsgToMenu.accesskey "k">
 <!ENTITY moveToFolderAgain.label "Znova presunúť">
 <!ENTITY moveToFolderAgain.accesskey "r">
 <!ENTITY moveToFolderAgainCmd.key "m">
@@ -383,8 +372,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsReadCmd.label "Ako prečítanú">
 <!ENTITY markAsReadCmd.accesskey "r">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "Ako neprečítanú">
-<!ENTITY markAsUnreadCmd.accesskey "n">
 <!ENTITY markThreadAsReadCmd.label "Vlákno ako prečítané">
 <!ENTITY markThreadAsReadCmd.accesskey "t">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -411,7 +398,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "Okno">
-<!ENTITY windowMenu.accesskey "O">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Nástroje">
@@ -456,7 +442,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY printButton.label "Tlačiť">
 <!ENTITY stopButton.label "Zastaviť">
 <!ENTITY throbberItem.title "Indikátor činnosti">
-<!ENTITY updatesItem.title "Aktualizácie">
 <!ENTITY junkButton.label "Spam">
 <!ENTITY notJunkButton.label "Nie Spam">
 <!ENTITY addressBookButton.label "Adresár">
@@ -468,7 +453,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Pokročilé hľadanie v správach">
-<!ENTITY clearButton.tooltip "Vymazať vyhľadávaciu podmienku a zobraziť všetky správy">
 <!ENTITY getMsgButton.tooltip "Prijať nové správy">
 <!ENTITY getAllNewMsgCmd.label "Prijať všetky nové správy">
 <!ENTITY getAllNewMsgCmd.accesskey "P">
@@ -542,8 +526,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Meno alebo Email obsahuje:">
 <!ENTITY SearchNameOrEmail.accesskey "M">
-<!ENTITY clearButton.label "Vymazať">
-<!ENTITY clearButton.accesskey "V">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Predmet">
@@ -566,7 +548,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY statusColumn.label "Stav">
 <!ENTITY sizeColumn.label "Veľkosť">
 <!ENTITY junkStatusColumn.label "Spam">
-<!ENTITY linesColumn.label "Riadky">
 <!ENTITY unreadColumn.label "Neprečítané">
 <!ENTITY totalColumn.label "Celkovo">
 <!ENTITY readColumn.label "Prečítané">
@@ -627,8 +608,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrint.accesskey "T">
 <!ENTITY contextPrintPreview.label "Ukážka pred tlačou">
 <!ENTITY contextPrintPreview.accesskey "e">
-<!ENTITY contextDelete.label "Odstrániť">
-<!ENTITY contextDelete.accesskey "O">
 
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "Nevyžiadané pošta">
@@ -662,8 +641,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY CopyEmailAddress.accesskey "K">
 <!ENTITY CreateFilterFrom.label "Vytvoriť filter z…">
 <!ENTITY CreateFilterFrom.accesskey "f">
-<!ENTITY BlockAddress.label "Zakázať adresu">
-<!ENTITY BlockAddress.accesskey "A">
 <!ENTITY reportPhishingURL.label "Nahlásiť podozrivý e-mail">
 <!ENTITY reportPhishingURL.accesskey "N">
 

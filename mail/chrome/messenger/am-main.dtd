@@ -3,7 +3,6 @@
 <!ENTITY accountTitle.label "Nastavenie účtu">
 <!ENTITY accountName.label "Názov účtu:">
 <!ENTITY accountName.accesskey "z">
-<!ENTITY accountNameDesc.label "Názov účtu identifikuje každý účet">
 <!ENTITY identityTitle.label "Predvolená identita">
 <!ENTITY identityDesc.label "Každý účet má vlastnú identitu, čo sú vlastne informácie o vás, ktoré uvidia príjemcovia vašich správ.">
 <!ENTITY name.label "Vaše meno:">

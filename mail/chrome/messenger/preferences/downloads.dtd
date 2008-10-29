@@ -3,8 +3,6 @@
 <!ENTITY alwaysAsk.accesskey          "O">
 <!ENTITY neverAsk.label               "Ukladať všetky súbory do tohto priečinka:">
 <!ENTITY neverAsk.accesskey           "U">
-<!ENTITY desktop.label                "Pracovná plocha">
-<!ENTITY downloads.label              "Preberanie">
 <!ENTITY chooseFolderWin.label        "Prehľadávať…">
 <!ENTITY chooseFolderWin.accesskey    "P">
 <!ENTITY chooseFolderMac.label        "Vybrať…">
@@ -15,10 +13,3 @@
 <!ENTITY configureActions.label       "Zobraziť a upraviť akcie…">
 <!ENTITY configureActions.accesskey   "Z">
 <!ENTITY fileTypesDescription.label   "&brandShortName; môže automaticky preberať a otvárať súbory určitých typov.">
-
-<!ENTITY fileTypeColName.label        "Typ súboru">
-<!ENTITY fileHandlerColName.label     "Aplikácia">
-<!ENTITY editFileHandler.label        "Zmeniť akciu…">
-<!ENTITY editFileHandler.accesskey    "a">
-<!ENTITY removeFileHandler.label      "Odstrániť">
-<!ENTITY removeFileHandler.accesskey  "d">

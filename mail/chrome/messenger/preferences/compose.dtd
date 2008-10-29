@@ -1,16 +1,14 @@
 <!ENTITY itemGeneral.label                   "Všeobecné">
 <!ENTITY itemAutoComplete.label              "Adresovanie">
 <!ENTITY itemSpellCheck.label                "Pravopis">
-<!ENTITY itemSendFormat.label                "Formát odosielaných správ">
 
-<!ENTITY forwardReply.label                  "Odosielanie správ ďalej">
-<!ENTITY forwardMsg.label                    "Správy odoosielať ďalej:">
+<!ENTITY forwardMsg.label                    "Správy odosielať ďalej:">
 <!ENTITY forwardMsg.accesskey                "S">
 <!ENTITY inline.label                        "V texte">
 <!ENTITY inline.accesskey                    "t">
 <!ENTITY asAttachment.label                  "Ako príloha">
 <!ENTITY asAttachment.accesskey              "A">
-<!ENTITY addExtension.label                  "pridať príponu k názvu súboru">
+<!ENTITY addExtension.label                  "Pridať príponu k názvu súboru">
 <!ENTITY addExtension.accesskey              "r">
 
 <!ENTITY htmlComposeHeader.label             "Správy vo formáte HTML">
@@ -25,7 +23,6 @@
 <!ENTITY restoreHTMLDefaults.label           "Obnoviť predvolené">
 <!ENTITY restoreHTMLDefaults.accesskey       "O">
 
-<!ENTITY sendingMessagesHeader.label         "Písanie správ">
 <!ENTITY spellCheck.label                    "Kontrolovať pravopis pred odoslaním">
 <!ENTITY spellCheck.accesskey                "K">
 <!ENTITY spellCheckInline.label              "Povoliť kontrolu pravopisu počas písania">
@@ -39,10 +36,6 @@
 <!ENTITY autoSave.label                      "Automaticky ukladať každých">
 <!ENTITY autoSave.accesskey                  "u">
 <!ENTITY autoSaveEnd.label                   "minút">
-<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
-<!ENTITY wrapOutMsg.label                    "Zalamovať textové správy po">
-<!ENTITY wrapOutMsg.accesskey                "x">
-<!ENTITY char.label                          "znakoch">
 
 <!ENTITY emailCollectionPicker.label         "Adresy odosielaných e-mailov automaticky pridať do:">
 <!ENTITY emailCollectionPicker.accesskey     "o">
@@ -55,10 +48,7 @@
 <!ENTITY directoriesNone.label               "žiadny">
 <!ENTITY editDirectories.label               "Upraviť adresáre…">
 <!ENTITY editDirectories.accesskey           "U">
-<!ENTITY matchText.label                     "Ak niečo v lokálnom adresári zodpovedá:">
-<!ENTITY skipDirectory.label                 "Nehľadať v adresári">
 
-<!ENTITY sendOptionsCaption.label            "Nastavenie odosielania a HTML">
 <!ENTITY sendOptionsDescription.label        "Konfigurácia správania formátovania textov">
 <!ENTITY sendOptions.label                   "Nastavenie odosielania…">
 <!ENTITY sendOptions.accesskey               "N">
