@@ -19,6 +19,6 @@
 <!ENTITY itemOfflineApps.accesskey "O">
 <!ENTITY itemDownloads.label "Historie stahování">
 <!ENTITY itemDownloads.accesskey "s"> 
-<!ENTITY itemSessions.label "Relace s autentizací">
-<!ENTITY itemSessions.accesskey "R">
+<!ENTITY itemActiveLogins.label "Aktivní přihlášení">
+<!ENTITY itemActiveLogins.accesskey "A">
 <!ENTITY window.width "30em">

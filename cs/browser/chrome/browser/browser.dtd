@@ -233,8 +233,8 @@
 <!ENTITY viewPageInfoCmd.accesskey "i">
 <!ENTITY viewFrameInfoCmd.label "Zobrazit informace o rámu">
 <!ENTITY viewFrameInfoCmd.accesskey "i">
-<!ENTITY showImageCmd.label "Načíst obrázek">
-<!ENTITY showImageCmd.accesskey "N">
+<!ENTITY reloadImageCmd.label "Obnovit obrázek">
+<!ENTITY reloadImageCmd.accesskey "O">
 <!ENTITY viewImageCmd.label "Zobrazit obrázek">
 <!ENTITY viewImageCmd.accesskey "Z">
 <!ENTITY viewBGImageCmd.label "Zobrazit obrázek na pozadí">
