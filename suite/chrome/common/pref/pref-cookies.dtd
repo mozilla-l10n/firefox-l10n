@@ -1,0 +1,38 @@
+<!ENTITY pref.cookies.title             "Cookies">
+
+<!-- cookies -->
+
+<!ENTITY cookiePolicy.label             "Política para aceitar Cookie">
+
+<!ENTITY accAllCookiesRadio.label       "Permitir todos os cookies">
+<!ENTITY accAllCookiesRadio.accesskey   "c">
+
+<!ENTITY accOrgCookiesRadio.label       "Permitir cookies apenas para o sítio web original">
+<!ENTITY accOrgCookiesRadio.accesskey   "o">
+
+<!ENTITY disableCookies.label           "Bloquear cookies">
+<!ENTITY disableCookies.accesskey       "B">
+
+<!ENTITY cookieRetentionPolicy.label    "Política de retenção de Cookie">
+
+<!ENTITY acceptNormally.label           "Aceitar cookies normalmente">
+<!ENTITY acceptNormally.accesskey       "n">
+
+<!ENTITY acceptForSession.label         "Aceitar apenas para a sessão actual">
+<!ENTITY acceptForSession.accesskey     "s">
+
+<!ENTITY acceptforNDays.label           "Aceitar cookies para">
+<!ENTITY acceptforNDays.accesskey       "p">
+<!ENTITY days.label                     "dias">
+
+<!ENTITY warnAboutCookies.label         "Perguntar para cada cookie">
+<!ENTITY warnAboutCookies.accesskey     "A">
+<!ENTITY forCurrentSession.label        "excepto para cookies de sessão">
+<!ENTITY forCurrentSession.accesskey    "e">
+
+<!ENTITY manageCookies.label            "Gerir Cookies e sítios">
+<!ENTITY manageCookiesDescription.label "Permite-lhe ver e gerir cookies guardados e definir por sítio se aceita ou rejeita cookies. Definições por sítio sobrepõem-se às definições acima.">
+
+<!ENTITY viewCookies.label              "Gestor de Cookie">
+<!ENTITY viewCookies.accesskey          "G">
+

@@ -1,0 +1,11 @@
+<!--LOCALIZATION NOTE : FILE The Applications prefs dialog -->
+<!ENTITY pref.applications.title "Aplicações de ajuda">
+
+<!ENTITY typeColumn.label        "Tipo de conteúdo">
+<!ENTITY typeColumn.accesskey    "T">
+
+<!ENTITY actionColumn2.label     "Acção">
+<!ENTITY actionColumn2.accesskey "A">
+
+<!ENTITY filter.label            "Pesquisa:">
+<!ENTITY filter.accesskey        "s">
