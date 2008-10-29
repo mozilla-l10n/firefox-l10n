@@ -1,0 +1,59 @@
+<!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titleseparator " - ">
+
+<!ENTITY back.label            "Retroceder">
+<!ENTITY back.tooltip          "Retroceder">
+<!ENTITY forward.label         "Avançar">
+<!ENTITY forward.tooltip       "Avançar">
+<!ENTITY reload.label          "Recarregar">
+<!ENTITY reload.tooltip        "Recarregar">
+<!ENTITY stop.label            "Parar">
+<!ENTITY stop.tooltip          "Parar">
+<!ENTITY search.label          "Pesquisar">
+<!ENTITY search.tooltip        "Pesquisar">
+<!ENTITY go.label              "Ir">
+<!ENTITY go.tooltip            "Ir">
+<!ENTITY star.label            "Estrela">
+<!ENTITY star.tooltip          "Adicionar página aos marcadores">
+<!ENTITY bookmarks.label       "Marcadores">
+<!ENTITY bookmarks.tooltip     "Ver marcadores">
+
+<!ENTITY newtab.label          "Novo Separador">
+<!ENTITY closetab.label        "Fechar separador">
+
+<!ENTITY cut.label             "Cortar">
+<!ENTITY copy.label            "Copiar">
+<!ENTITY copylink.label        "Copiar localização da ligação">
+<!ENTITY paste.label           "Colar">
+<!ENTITY delete.label          "Eliminar">
+<!ENTITY selectAll.label       "Seleccionar tudo">
+<!ENTITY noSuggestions.label   "(Nenhuma sugestão)">
+<!ENTITY addToDictionary.label "Adicionar ai dicionário">
+
+<!ENTITY bookmarkName.label    "Nome:">
+<!ENTITY bookmarkFolder.label  "Pasta:">
+<!ENTITY bookmarkTags.label    "Etiquetas:">
+<!ENTITY bookmarkRemove.label  "Remover Marcador">
+
+<!ENTITY findOnCmd.label     "Procurar nesta página…">
+<!ENTITY findOnCmd.accesskey "P">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "Procurar novamente">
+<!ENTITY findAgainCmd.accesskey "n">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY identity.unverifiedsite2 "Este sítio web não fornece informação da identidade.">
+<!ENTITY identity.connectedTo "Está ligado a">
+<!-- Localization note (identity.runBy) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy "which is run by">
