@@ -498,11 +498,6 @@
          nc:link="using_priv_help.xhtml#cookies"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="cookies:privacy_levels_for"
-         nc:name="úrovne súkromia"
-         nc:link="using_priv_help.xhtml#setting_privacy_levels"/>
-     </rdf:li>
-     <rdf:li>
        <rdf:Description ID="cookies:removing"
          nc:name="odstránenie cookies"
          nc:link="using_priv_help.xhtml#removing_cookies"/>
@@ -1647,16 +1642,6 @@
          nc:link="privacy_help.xhtml#internet_address"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="privacy:P3P_levels"
-         nc:name="úrovne P3P"
-         nc:link="using_priv_help.xhtml#setting_privacy_levels"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="privacy:P3P_standard_and"
-         nc:name="štandard P3P"
-         nc:link="page_info_help.xhtml"/>
-     </rdf:li>
-     <rdf:li>
        <rdf:Description ID="privacy:preferences"
          nc:name="nastavenia súkromia"
          nc:link="privsec_help.xhtml"/>
@@ -1665,11 +1650,6 @@
        <rdf:Description ID="privacy:protecting"
          nc:name="ochrana vášho súkromia"
          nc:link="privacy_help.xhtml#using_privacy_features"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="privacy:settings"
-         nc:name="nastavenia súkromia"
-         nc:link="using_priv_help.xhtml#privacy_settings"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="privacy:viewing_site_policy"

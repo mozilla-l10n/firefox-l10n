@@ -367,12 +367,12 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Vytvoriť filter zo správy…">
 <!ENTITY createFilter.accesskey "f">
-<!ENTITY moveMsgMenu.label "Presunúť">
-<!ENTITY moveMsgMenu.accesskey "r">
+<!ENTITY moveMsgToMenu.label "Presunúť do">
+<!ENTITY moveMsgToMenu.accesskey "r">
 <!ENTITY copyMessageLocation.label "Kopírovať adresu správy">
 <!ENTITY copyMessageLocation.accesskey "s">
-<!ENTITY copyMsgMenu.label "Skopírovať">
-<!ENTITY copyMsgMenu.accesskey "k">
+<!ENTITY copyMsgToMenu.label "Skopírovať do">
+<!ENTITY copyMsgToMenu.accesskey "k">
 <!ENTITY moveCopyMsgRecentMenu.label "Naposledy použité">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "N">
 <!ENTITY killThreadMenu.label "Ignorovať vlákno">

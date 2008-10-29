@@ -54,7 +54,6 @@
 <!ENTITY messageIdField2.label "ID správy ">
 <!ENTITY inReplyToField2.label "v odpovedi na ">
 <!ENTITY originalWebsite2.label "webový server ">
-<!ENTITY saveAll.label "Uložiť všetko…">
 
 <!ENTITY editMessageDescription.label "Toto je návrh správy">
 <!ENTITY editMessageButton.label "Upraviť…">

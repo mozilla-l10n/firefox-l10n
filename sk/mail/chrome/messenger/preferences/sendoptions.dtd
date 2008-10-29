@@ -9,7 +9,6 @@
 <!ENTITY sendHTML.accesskey           "m">
 <!ENTITY sendBoth.label               "Odoslať ako HTML aj ako textovú správu">
 <!ENTITY sendBoth.accesskey           "L">
-<!ENTITY receiveHTML.label            "Ak viete, že daný adresát môže prijímať správy vo formáte HTML, zrušte označenie voľby &quot;Odoslať správu ako čistý text (nie HTML)&quot; v jeho karte adresára.">
 <!ENTITY override.label               "Poznámka: Na určenie preferovaného formátu správ pre jednotlivých adresátov použite Adresár.">
 
 <!ENTITY domaindesc.label             "Ak posielate správu na adresu s jedným z doménových názvov zobrazených nižšie, &brandShortName; ju automaticky odošle v správnom formáte.">
@@ -28,12 +27,5 @@
 
 <!ENTITY add.htmltitle                "Pridať názov domény HTML">
 <!ENTITY add.htmldomain               "Názov domény HTML:">
-<!ENTITY add.htmldomain.accesskey     "N">
 <!ENTITY add.plaintexttitle           "Pridať názov textovej domény">
 <!ENTITY add.plaintextdomain          "Názov textovej domény:">
-<!ENTITY add.plaintext.accesskey      "x">
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY domainnameError.title        "Chyba názvu domény">
-<!ENTITY duplicationError.label       "Doména s názvom @string@ sa už v tomto zozname nachádza.">
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY dualEntryError.label         "Doména s názvom @string@ sa nesmie nachádzať naraz v oboch zoznamoch. Doména s týmto názvom už existuje.">

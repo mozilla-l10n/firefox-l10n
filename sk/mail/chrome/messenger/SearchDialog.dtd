@@ -5,15 +5,11 @@
 <!ENTITY searchSubfolders.accesskey  "d">
 <!ENTITY resetButton.label           "Obnoviť">
 <!ENTITY resetButton.accesskey       "b">
-<!ENTITY optionsButton.label         "Možnosti">
-<!ENTITY closeButton.label           "Zavrieť">
 <!ENTITY openButton.label            "Otvoriť">
 <!ENTITY openButton.accesskey        "t">
 <!ENTITY deleteButton.label          "Odstrániť">
 <!ENTITY deleteButton.accesskey      "r">
 <!ENTITY searchDialogTitle.label     "Hľadanie v správach">
-<!ENTITY conditionDesc.label         "Hľadať správy, ktoré:">
-<!ENTITY conditions.label            "Kritéria">
 <!ENTITY results.label               "Výsledky">
 <!ENTITY fileHereMenu.label          "Uložiť sem">
 <!ENTITY fileHereMenu.accesskey      "U">
@@ -46,7 +42,6 @@
 <!ENTITY statusColumn.label          "Stav">
 <!ENTITY sizeColumn.label            "Veľkosť">
 <!ENTITY junkStatusColumn.label      "Spam">
-<!ENTITY linesColumn.label           "Riadky">
 <!ENTITY unreadColumn.label          "Neprečítané">
 <!ENTITY totalColumn.label           "Celkovo">
 <!ENTITY readColumn.label            "Prečítané">

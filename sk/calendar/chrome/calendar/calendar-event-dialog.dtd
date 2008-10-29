@@ -48,7 +48,7 @@
 
 <!ENTITY newevent.from.label                "Od" >
 <!ENTITY newevent.to.label                  "Do" >
-<!ENTITY newevent.attendees.sendEmail.label "Odoslať e-mailom pozvánky pre účastníkov">
+<!ENTITY newevent.attendees.notify.label    "Upozorniť účastníkov">
 
 <!ENTITY newevent.status.label              "Stav" >
 <!ENTITY newevent.status.accesskey          "v" >

@@ -25,7 +25,6 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY deleteCmd.label "Odstrániť">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "O">
 <!ENTITY selectAllCmd.label "Vybrať všetko">
 <!ENTITY selectAllCmd.key "A">
@@ -35,9 +34,6 @@
 <!ENTITY preferencesCmdUnix.label "Možnosti">
 <!ENTITY preferencesCmdUnix.accesskey "M">
 
-<!ENTITY findTypeTextCmd.label "Hľadať počas písania text na stránke">
-<!ENTITY findTypeTextCmd.accesskey "x">
-
 <!ENTITY viewMenu.label "Zobraziť">
 <!ENTITY viewMenu.accesskey "Z">
 <!ENTITY viewToolbarsMenu.label "Panely s nástrojmi">
@@ -45,18 +41,8 @@
 <!ENTITY showTaskbarCmd.label "Stavový riadok">
 <!ENTITY showTaskbarCmd.accesskey "S">
 
-<!ENTITY direct.label "Online (proxy: žiadne)">
-<!ENTITY direct.accesskey "n">
-<!ENTITY manual.label "Online (proxy: ručné)">
-<!ENTITY manual.accesskey "r">
-<!ENTITY pac.label "Online (proxy: automatické)">
-<!ENTITY pac.accesskey "a">
-
 <!ENTITY proxy.label "Nastavenie proxy…">
 <!ENTITY proxy.accesskey "N">
-
-<!ENTITY findTypeTextCmd.key "/">
-<!ENTITY findTypeLinksCmd.key "'">
 
 <!ENTITY closeCmd.label "Zavrieť">
 <!ENTITY closeCmd.key "W">

@@ -104,7 +104,7 @@
 <!ENTITY accnameDesc.label "Zadajte názov tohto účtu (napr. &quot;Osobná pošta&quot;, &quot;Práca&quot;, &quot;Diskusia&quot;…).">
 <!ENTITY accnameExample.label "Napríklad Domáci účet, Pracovný účet alebo Diskusný účet">
 <!ENTITY accnameLabel.label "Názov účtu:">
-<!ENTITY accnameLabel.accesskey "N">
+<!ENTITY accnameLabel.accesskey "z">
 
 <!-- Entities for Done (Congratulations) page -->
 

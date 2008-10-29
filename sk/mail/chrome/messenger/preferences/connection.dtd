@@ -14,10 +14,6 @@
 <!ENTITY autoTypeRadio.accesskey        "A">
 <!ENTITY reload.label                   "Obnoviť">
 <!ENTITY reload.accesskey               "b">
-<!ENTITY ftp.label                      "Server proxy pre FTP:">
-<!ENTITY ftp.accesskey                  "F">
-<!ENTITY gopher.label                   "Server proxy pre Gopher:">
-<!ENTITY gopher.accesskey               "G">
 <!ENTITY http.label                     "Server proxy HTTP:">
 <!ENTITY http.accesskey                 "H">
 <!ENTITY ssl.label                      "Server proxy SSL:">

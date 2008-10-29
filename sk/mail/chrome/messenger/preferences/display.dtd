@@ -1,8 +1,6 @@
 <!ENTITY itemFormatting.label             "Formátovanie">
 <!ENTITY itemTags.label                   "Popisy">
-<!ENTITY itemFonts.label                  "Písma">
 
-<!ENTITY textBegin.label                  "Vzhľad citovaného textu">
 <!ENTITY style.label                      "Štýl:">
 <!ENTITY style.accesskey                  "t">
 <!ENTITY regularStyle.label               "Normálne">
@@ -19,12 +17,10 @@
 <!ENTITY displayWidth.label               "Textové správy">
 <!ENTITY plainText.label                  "Použiť nasledovný druh písma:">
 <!ENTITY displayText.label                "Pri zobrazovaní citácií v textových správach:">
-<!ENTITY viewingPlainText.label           "Pri zobrazovaní textových správ:">
 <!ENTITY fixedWidth.label                 "s pevnou šírkou">
 <!ENTITY fixedWidth.accesskey             "e">
 <!ENTITY variableWidth.label              "s premenlivou šírkou">
 <!ENTITY variableWidth.accesskey          "v">
-<!ENTITY readingMessagesHeader.label      "Pre prichádzajúce správy">
 <!ENTITY colors.label                     "Farby">
 <!ENTITY overrideColors.label             "Pri zobrazovaní správ použiť nasledovné farby:">
 <!ENTITY  textColor.label                 "Farba textu:">

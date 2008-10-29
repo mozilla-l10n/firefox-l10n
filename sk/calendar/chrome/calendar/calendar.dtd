@@ -46,15 +46,6 @@
 <!ENTITY calendar.calendar.label          "Kalendár">
 <!ENTITY calendar.calendar.accesskey      "K">
 
-<!ENTITY calendar.flat.topbar.choosedate       "Prejsť na dátum" >
-<!ENTITY calendar.flat.topbar.dayview          "Denný pohľad" >
-<!ENTITY calendar.dayview.accesskey            "D" >
-<!ENTITY calendar.flat.topbar.weekview         "Týždenný pohľad" >
-<!ENTITY calendar.weekview.accesskey           "T" >
-<!ENTITY calendar.flat.topbar.monthview        "Mesačný pohľad" >
-<!ENTITY calendar.monthview.accesskey          "M" >
-<!ENTITY calendar.flat.topbar.multiweekview    "Viactýždenný pohľad" >
-<!ENTITY calendar.multiweekview.accesskey      "V" >
 <!ENTITY calendar.dayView.key                  "1" >
 <!ENTITY calendar.weekView.key                 "2" >
 <!ENTITY calendar.multiweekView.key            "3" >
@@ -62,14 +53,11 @@
 
 <!ENTITY calendar.newtask.button.tooltip             "Vytvorí novú úlohu" >
 <!ENTITY calendar.newevent.button.tooltip            "Vytvorí novú udalosť" >
-<!ENTITY calendar.delete.button.tooltip              "Odstráni zvolenú udalosť" >
 <!ENTITY calendar.edit.button.tooltip                "Upraví zvolenú udalosť" >
 
 <!ENTITY calendar.unifinder.todoitems.label          "Úlohy" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Zobraziť dokončené úlohy">
 
-<!ENTITY calendar.calendartab.label        "Dátum">
-<!ENTITY calendar.listofcalendarstab.label "Kalendáre">
 <!ENTITY calendar.today.button.label       "Dnes">
 <!ENTITY calendar.tomorrow.button.label       "Zajtra">
 <!ENTITY calendar.soon.button.label           "Čoskoro">
@@ -97,11 +85,9 @@
 <!ENTITY calendar.unifinder.tree.calendarname.label     "Názov kalendára">
 <!ENTITY calendar.unifinder.tree.duration.label         "Koniec za">
 <!ENTITY calendar.unifinder.close.tooltip               "Zavrieť vyhľadávanie udalostí a zoznam udalostí">
-<!ENTITY calendar.find.key                              "F">
 
 <!ENTITY calendar.today.button.tooltip            "Prejsť na dnešný deň" >
 <!ENTITY calendar.todaypane.button.tooltip        "Zobraziť panel Dnes" >
-<!ENTITY calendar.choosedate.button.tooltip       "Vybrať dátum pre prechod" >
 <!ENTITY calendar.unifinder.button.tooltip        "Hľadať a zobraziť udalosti" >
 
 <!ENTITY calendar.day.button.tooltip            "Zmení pohľad na denný" >
@@ -118,19 +104,7 @@
 
 <!ENTITY calendar.newtask.button.label          "Nová úloha" >
 <!ENTITY calendar.newevent.button.label         "Nová udalosť" >
-<!ENTITY calendar.delete.button.label           "Odstrániť" >
 <!ENTITY calendar.edit.button.label             "Upraviť" >
-
-<!ENTITY calendar.choosedate.button.label       "Vybrať dátum" >
-
-<!ENTITY calendar.cut.button.tooltip            "Vystrihnúť" >
-<!ENTITY calendar.copy.button.tooltip           "Kopírovať" >
-<!ENTITY calendar.paste.button.tooltip          "Prilepiť" >
-<!ENTITY calendar.print.button.tooltip          "Tlač kalendára" >
-
-<!ENTITY calendar.cut.button.label              "Vystrihnúť" >
-<!ENTITY calendar.copy.button.label             "Kopírovať" >
-<!ENTITY calendar.paste.button.label            "Prilepiť" >
 <!ENTITY calendar.print.button.label            "Tlačiť" >
 
 <!ENTITY calendar.import.button.tooltip            "Importovať udalosti z lokálneho súboru." >
@@ -146,9 +120,6 @@
 <!ENTITY calendar.publish.button.label             "Publikovanie" >
 <!ENTITY calendar.unifinder.button.label           "Hľadať udalosti" >
 
-<!ENTITY calendar.remotereload.button.label        "Aktualizovať" >
-<!ENTITY calendar.remotereload.button.tooltip      "Aktualizovať všetky vzdialené kalendáre" >
-
 <!ENTITY calendar.day.button.label                 "Deň" >
 <!ENTITY calendar.week.button.label                "Týždeň" >
 <!ENTITY calendar.month.button.label               "Mesiac" >
@@ -163,17 +134,7 @@
 <!ENTITY calendar.orientation.label "Otočiť" >
 <!ENTITY calendar.orientation.accesskey "o" >
 
-<!ENTITY calendar.menu.options.close.key        "W">
-
 <!ENTITY calendar.search.options.searchfor      " obsahujúce">
-
-<!ENTITY calendar.menu.numberofweeks.label          "Počet týždňov" >
-<!ENTITY calendar.menu.numberofweeks.accesskey      "P" >
-<!ENTITY calendar.menu.numberofweeks.2              "2 týždne" >
-<!ENTITY calendar.menu.numberofweeks.3              "3 týždne" >
-<!ENTITY calendar.menu.numberofweeks.4              "4 týždne" >
-<!ENTITY calendar.menu.numberofweeks.5              "5 týždňov" >
-<!ENTITY calendar.menu.numberofweeks.6              "6 týždňov" >
 
 <!ENTITY calendar.list.header.label                 "Kalendár">
 
@@ -206,18 +167,9 @@
 <!ENTITY calendar.task.category.button.tooltip  "Pridať úlohu do kategórie">
 <!ENTITY calendar.task.complete.button.tooltip  "Označiť vybrané úlohy ako dokončené">
 <!ENTITY calendar.task.priority.button.tooltip  "Zmeniť prioritu">
-<!ENTITY calendar.task.delete.button.tooltip    "Odstrániť označenú úlohu">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label   "Dokument: Hotovo">
-
-<!-- customizable toolbars -->
-<!ENTITY calendar.context.customize.label             "Prispôsobiť…">
-<!ENTITY calendar.context.customize.accesskey         "P">
-<!ENTITY calendar.menu.customize.label                "Prispôsobiť panel nástrojov…">
-<!ENTITY calendar.menu.customize.accesskey            "P">
-<!ENTITY calendar.maintoolbar.name                    "Hlavný panel nástrojov">
-<!ENTITY calendar.maintoolbar.accesskey               "H">
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label      "Otvoriť">
@@ -360,10 +312,6 @@
 <!ENTITY calendarproperties.cache.label                "Vyrovnávacia pamäť (EXPERIMENTÁLNE, vyžaduje reštart)">
 <!ENTITY calendarproperties.enabled.label              "Zapnúť tento kalendár">
 
-<!-- Sunbird Help -->
-<!ENTITY calendar.help.label                           "Obsah pomocníka">
-<!ENTITY calendar.help.accesskey                       "O">
-
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title                 "Publikovať kalendár">
 <!ENTITY calendar.publish.url.label                    "Adresa URL:">
@@ -392,6 +340,3 @@
 <!ENTITY calendar.error.number                  "Číslo chyby:">
 <!ENTITY calendar.error.description             "Popis:">
 <!ENTITY calendar.error.title                   "Vyskytla sa chyba:">
-
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title                       "&brandFullName;">

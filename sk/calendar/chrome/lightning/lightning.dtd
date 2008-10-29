@@ -61,8 +61,6 @@
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "k">
 
 <!-- Messenger Sidebar -->
-<!ENTITY lightning.sidebar.invitations.label "Pozvánky">
-<!ENTITY lightning.sidebar.invitations.accesskey "P">
 <!ENTITY lightning.calendar.label            "Kalendár">
 <!ENTITY lightning.calendar.accesskey        "K">
 <!ENTITY lightning.tasks.label               "Úlohy">
