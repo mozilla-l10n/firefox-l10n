@@ -60,7 +60,6 @@
 <!ENTITY pasteCmd.key                                   "V">
 <!ENTITY pasteCmd.accesskey                             "L">
 <!ENTITY deleteCmd.label                                "Slett">
-<!ENTITY deleteCmd.key                                  "D">
 <!ENTITY deleteCmd.accesskey                            "S">
 <!ENTITY deleteAbCmd.label                              "Slett adressebok">
 <!ENTITY deleteCardCmd.label                            "Slett kort">
@@ -118,7 +117,6 @@
 <!ENTITY exportCmd.label                                "Eksporter …">
 <!ENTITY exportCmd.accesskey                            "k">
 <!ENTITY preferencesCmd.label                           "Innstillinger …">
-<!ENTITY preferencesCmd.key                             "O">
 <!ENTITY preferencesCmd.accesskey                       "I">
 <!ENTITY preferencesCmdUnix.label                       "Innstillinger …">
 <!ENTITY preferencesCmdUnix.accesskey                   "n"> 

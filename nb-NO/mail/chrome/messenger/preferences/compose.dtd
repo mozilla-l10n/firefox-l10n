@@ -1,9 +1,7 @@
 <!ENTITY itemGeneral.label                   "Generelt">
 <!ENTITY itemAutoComplete.label              "Adresser">
 <!ENTITY itemSpellCheck.label                "Stavekontroll">
-<!ENTITY itemSendFormat.label                "Sendeformat">
 
-<!ENTITY forwardReply.label                   "Videresending av meldinger">
 <!ENTITY forwardMsg.label                     "Videresend meldinger:">
 <!ENTITY forwardMsg.accesskey                 "V">
 <!ENTITY inline.label                         "Innbundet">
@@ -25,7 +23,6 @@
 <!ENTITY restoreHTMLDefaults.label            "Gjenopprett forvalg">
 <!ENTITY restoreHTMLDefaults.accesskey        "G">
 
-<!ENTITY sendingMessagesHeader.label          "Meldingsskriving">
 <!ENTITY spellCheck.label                     "Utfør stavekontroll før meldinger sendes">
 <!ENTITY spellCheck.accesskey                 "U">
 <!ENTITY spellCheckInline.label               "Kontroller staving mens e-posten skrives">
@@ -51,10 +48,7 @@
 <!ENTITY directoriesNone.label                 "Ingen">
 <!ENTITY editDirectories.label                 "Rediger kataloger …">
 <!ENTITY editDirectories.accesskey             "R">
-<!ENTITY matchText.label                       "Dersom det er et treff i dine lokale adressebøker:">
-<!ENTITY skipDirectory.label                   "Ikke søk i katalogen">
 
-<!ENTITY sendOptionsCaption.label              "Sending- og HTML-innstillinger">
 <!ENTITY sendOptionsDescription.label          "Konfigurer oppførselen til tekstformatet">
 <!ENTITY sendOptions.label                     "Sendeinnstillinger …">
 <!ENTITY sendOptions.accesskey                 "e">

@@ -3,9 +3,6 @@
 <!ENTITY securityMenu.label "Sikkerhet">
 <!ENTITY securityMenu.accesskey "i">
 
-<!ENTITY menu_securityEncryptIfPossible.label "Krypter om mulig">
-<!ENTITY menu_securityEncryptIfPossible.accesskey "m">
-
 <!ENTITY menu_securityEncryptRequire.label "Krypter denne meldingen">
 <!ENTITY menu_securityEncryptRequire.accesskey "K">
 

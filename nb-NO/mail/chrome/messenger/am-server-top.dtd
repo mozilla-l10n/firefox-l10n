@@ -2,13 +2,6 @@
 
 <!ENTITY securitySettings.label "Sikkerhetsinnstillinger">
 <!ENTITY serverSettings.label "Tjenerinnstillinger">
-<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
-<!ENTITY popServer.label "Meldingstjener (POP)">
-<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
-<!ENTITY imapServer.label "Meldingstjener (IMAP)">
-<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
-<!ENTITY newsServer.label "Meldingstjener (NNTP)">
-<!ENTITY webmail.label "WebMail-konto">
 <!ENTITY serverType.label "Tjenertype:">
 <!ENTITY serverName.label "Tjenernavn:">
 <!ENTITY serverName.accesskey "j">
@@ -50,10 +43,7 @@
 <!ENTITY deleteOnServer2.accesskey "n">
 <!ENTITY downloadOnBiff.label "Last ned nye meldinger automatisk">
 <!ENTITY downloadOnBiff.accesskey "n">
-<!ENTITY hostname.label "Tjenernavn">
 <!ENTITY username.label "Innloggingsnavn">
-<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
-<!ENTITY popServerTitle.label "POP Tjenerinformasjon">
 <!ENTITY deleteMessagePrefix.label "Når jeg sletter en melding:">
 <!ENTITY modelMoveToTrash.label "Flytt den til Søppelkasse-mappen">
 <!ENTITY modelMoveToTrash.accesskey "d">

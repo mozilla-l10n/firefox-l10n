@@ -43,12 +43,3 @@
 <!ENTITY antiVirus.intro      "&brandShortName; kan gjøre det enkelt for antivirus-programmer å analysere e-post som blir lastet ned for virus før de blir lagret.">
 <!ENTITY antiVirus.label      "Tillat antivirus-programmer å legge innkommende meldinger i karantene">
 <!ENTITY antiVirus.accesskey  "T">
-
-<!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
-<!ENTITY antiVirusCaption.label "Antivirus">
-<!ENTITY paswords.label         "Passord">
-<!ENTITY emailScams.label       "E-postsvindel">
-<!ENTITY junkMail.label         "Reklamepost">
-<!ENTITY itemIntrusions.label   "Inntrengere">
-<!ENTITY itemIntrusionsAndPasswords.label  "Inntrengere og passord">
-<!ENTITY itemJunkMail.label     "Reklamepost">

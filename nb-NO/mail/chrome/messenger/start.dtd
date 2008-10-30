@@ -40,5 +40,3 @@ function installDic(anchor)
   <a href='http://www.firefox.no/nb-no_nn-no-dictionary.xpi' 
    onclick='installDic(this);return false'>Installer 
    ordlister</a>.<br /><br /></p>">
-
-<!ENTITY startpage.poweredByGecko "Bruker Gecko-teknologi.">

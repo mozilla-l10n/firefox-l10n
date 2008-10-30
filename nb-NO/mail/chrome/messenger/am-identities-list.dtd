@@ -1,4 +1,3 @@
-<!ENTITY identitiesListTitle.label "Identiteter tilknyttet denne kontoen">
 <!ENTITY identitiesListDesc.label "Det er mulig å ha flere identiteter i en konto. Her kan du behandle identitetene for den valgte kontoen.">
 <!ENTITY identitiesListAdd.label  "Legg til …">
 <!ENTITY identitiesListAdd.accesskey  "L">

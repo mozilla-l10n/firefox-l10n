@@ -26,8 +26,6 @@
 <!ENTITY reuseExpRadio0.accesskey      "y">
 <!ENTITY reuseExpRadio1.label          "Et eksisterende meldingsvindu">
 <!ENTITY reuseExpRadio1.accesskey      "e">
-<!ENTITY reuseExpRadio2.label          "En ny meldingsfane">
-<!ENTITY reuseExpRadio2.accesskey      "n">
 <!ENTITY configEditDesc.label          "Avanserte innstillinger">
 <!ENTITY configEdit.label              "Konfigurasjonseditor …">
 <!ENTITY configEdit.accesskey          "o">

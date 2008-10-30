@@ -5,13 +5,11 @@
 <!ENTITY neverEncrypt.label "Aldri (ikke bruk kryptering)">
 <!ENTITY alwaysEncryptMessage.label "Påkrevd (kan ikke sende uten at alle mottakerne har sertifikater)">
 <!ENTITY encryptionCert.message "Bruk dette sertifikatet for å kryptere og dekryptere meldinger sendt til deg:">
-<!ENTITY encryptionCert.notselected "Ingen sertifikat satt">
 <!ENTITY certificate.button "Velg …">
 <!ENTITY certificate_clear.button "Tøm">
 <!ENTITY signingGroupTitle.label "Digital signering">
 <!ENTITY signMessage.label "Signer meldinger digitalt (som standard)">
 <!ENTITY signingCert.message "Bruk dette sertifikatet for å digitalt signere meldinger du sender:">
-<!ENTITY signingCert.notselected "Ingen sertifikat satt">
 
 <!ENTITY certificates.label     "Sertifikater">
 <!ENTITY managecerts.label      "Vis sertifikater">

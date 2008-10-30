@@ -1,8 +1,6 @@
 <!ENTITY itemFormatting.label             "Formatering">
 <!ENTITY itemTags.label                   "Merkelapper">
-<!ENTITY itemFonts.label                  "Skrifttyper">
 
-<!ENTITY textBegin.label                  "Visning av sitert tekst">
 <!ENTITY style.label                      "Stil:">
 <!ENTITY style.accesskey                  "S">
 <!ENTITY regularStyle.label               "Vanlig">
@@ -19,12 +17,10 @@
 <!ENTITY displayWidth.label               "Meldinger i normal tekst">
 <!ENTITY plainText.label                  "Bruk denne skrifttypen:">
 <!ENTITY displayText.label                "Ved visning av sitater i tekstmeldinger:">
-<!ENTITY viewingPlainText.label            "Ved visning av rene tekstmeldinger:">
 <!ENTITY fixedWidth.label                 "Skrift med fast bredde">
 <!ENTITY fixedWidth.accesskey             "k">
 <!ENTITY variableWidth.label              "Variabel skriftbredde">
 <!ENTITY variableWidth.accesskey          "V">
-<!ENTITY readingMessagesHeader.label      "For innkommende meldinger">
 <!ENTITY colors.label                     "Farger">
 <!ENTITY overrideColors.label             "Bruk følgende farger når meldinger vises:">
 <!ENTITY textColor.label                  "Tekstfarge:">

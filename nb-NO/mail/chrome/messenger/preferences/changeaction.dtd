@@ -19,5 +19,3 @@
 <!ENTITY  chooseFolder.accesskey              "g">
 <!ENTITY  saveToAskMe.label                   "spør meg hvor filen skal lagres">
 <!ENTITY  saveToAskMe.accesskey               "s">
-<!ENTITY  usePlugin.label                     "Bruk dette programtillegget:">
-<!ENTITY  usePlugin.accesskey                 "p">
