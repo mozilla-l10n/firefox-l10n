@@ -1,0 +1,28 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "Drukāt">
+
+<!ENTITY printDialog.title "Drukāt">
+
+<!ENTITY fpDialog.title "Saglabāt failā">
+
+<!ENTITY fileCheck.label "Drukāt failā">
+<!ENTITY propertiesButton.label "Iestatījumi...">
+<!ENTITY descText.label "Printera apraksts:">
+<!ENTITY printer.label "Printeris">
+<!ENTITY printerInput.label "Printera nosaukums:">
+
+<!ENTITY printrangeGroup.label "Drukāšanas diapozons">
+<!ENTITY allpagesRadio.label "Visas lapas">
+<!ENTITY rangeRadio.label "Lapas">
+<!ENTITY frompageInput.label "no">
+<!ENTITY topageInput.label "līdz">
+<!ENTITY selectionRadio.label "Izvēlētās">
+
+<!ENTITY copies.label "Kopijas">
+<!ENTITY numCopies.label "Kopiju skaits:">
+
+<!ENTITY printframeGroup.label "Drukāt ietvarus">
+<!ENTITY aslaidoutRadio.label "Kā izkārtots uz ekrāna">
+<!ENTITY selectedframeRadio.label "Izvēlēto ietvaru">
+<!ENTITY eachframesepRadio.label "Katru ietvaru atsevišķi">

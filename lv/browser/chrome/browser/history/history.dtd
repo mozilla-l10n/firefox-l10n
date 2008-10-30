@@ -1,0 +1,28 @@
+<!ENTITY find.label "Meklēt:">
+<!ENTITY find.accesskey "M">
+<!ENTITY expand.label "Izvērst">
+<!ENTITY expand.accesskey "ē">
+<!ENTITY collapse.label "Sakļaut">
+<!ENTITY collapse.accesskey "K">
+<!ENTITY byDate.label "Pēc datuma">
+<!ENTITY byDate.accesskey "D">
+<!ENTITY bySite.label "Pēc vietnes">
+<!ENTITY bySite.accesskey "S">
+<!ENTITY view.label "Skats">
+<!ENTITY view.accesskey "t">
+<!ENTITY byMostVisited.label "Pēc visbiežākā apmeklējuma">
+<!ENTITY byMostVisited.accesskey "V">
+<!ENTITY byLastVisited.label "Pēc pēdējā apmeklējuma">
+<!ENTITY byLastVisited.accesskey "L">
+<!ENTITY byDayAndSite.label "Pēc datuma un vietnes">
+<!ENTITY byDayAndSite.accesskey "t">
+<!ENTITY openLinkInWindow.label "Atvērt">
+<!ENTITY openLinkInWindow.accesskey "A">
+<!ENTITY openInNewTab.label "Atvērt jaunā cilnē">
+<!ENTITY openInNewTab.accesskey "T">
+<!ENTITY openInNewWindow.label "Atvērt jaunā logā">
+<!ENTITY openInNewWindow.accesskey "L">
+<!ENTITY bookmarkLink.label "Saglabāt šo saiti grāmatzīmēs...">
+<!ENTITY bookmarkLink.accesskey "S">
+<!ENTITY copyLink.label "Kopēt saites atrašanās vietu">
+<!ENTITY copyLink.accesskey "K">

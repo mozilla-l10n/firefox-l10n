@@ -1,0 +1,17 @@
+<!ENTITY newPagesIn.label "Jaunas lapas vajadzētu atvērt:">
+<!ENTITY inNewWindow.label "jaunā logā">
+<!ENTITY inNewWindow.accesskey "g">
+<!ENTITY inNewTab.label "jaunā cilnē">
+<!ENTITY inNewTab.accesskey "l">
+
+<!ENTITY warnCloseMultipleTabs.label "Brīdināt, pirms aizvērt vairākas cilnes">
+<!ENTITY warnCloseMultipleTabs.accesskey "b">
+
+<!ENTITY warnOpenManyTabs.label "Brīdināt, kad vairāku cilņu atvēršana varētu sabremzēt &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey "v">
+
+<!ENTITY showTabBar.label "Vienmēr rādīt cilņu joslu">
+<!ENTITY showTabBar.accesskey "d">
+
+<!ENTITY switchToNewTabs.label "Kad es atveru saiti jaunā cilnē, pārslēgties uz šo cilni">
+<!ENTITY switchToNewTabs.accesskey "s">

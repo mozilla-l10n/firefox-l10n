@@ -1,0 +1,19 @@
+<!ENTITY about.version "versija">
+
+<!ENTITY about.copy.beforeLink "Autortiesības 1998-2008 Mozilla projekta">
+<!ENTITY about.copy.linkTitle "dalībnieki">
+<!ENTITY about.copy.afterLink ".">
+
+<!ENTITY about.license.beforeLink "Lasiet šī produkta">
+<!ENTITY about.license.linkTitle "licences informāciju">
+<!ENTITY about.license.afterLink ".">
+
+<!ENTITY about.relnotes.beforeLink "Lasiet šīs versijas ">
+<!ENTITY about.relnotes.linkTitle "laidiena piezīmes">
+<!ENTITY about.relnotes.afterLink ".">
+
+<!ENTITY about.buildconfig.beforeLink "Skatiet šīs versijas ">
+<!ENTITY about.buildconfig.linkTitle "būvējuma konfigurāciju">
+<!ENTITY about.buildconfig.afterLink ".">
+
+<!ENTITY about.buildIdentifier "Būvējuma identifikators:">

@@ -1,0 +1,59 @@
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title "Ziņot par nestrādājošu tīmekļa lapu">
+
+<!ENTITY privacyNotice.label "Privātuma politika">
+<!ENTITY reportWizardPrivacy.description "Šis rīks ļauj jums paziņot Evanģēlistu komandai par lapām, kas nestrādā korekti ar &brandShortName;, vai neļauj izmantot &brandShortName; to apskatei. Šādi jūs varat nodrošināt vislabākās sajūtas ikdienas &brandShortName; lietotājiem. Lūdzu veltiet mirkli laika, lai iepazītos ar to kādu informāciju mēs apkopojam un kā izmantojam to, gadījumā, ja nolemsiet piedalīties.">
+<!ENTITY reportWizardMustAgree.description "Lai turpinātu, jums jāpiekrīt augstāk redzamajai privātuma politikai.">
+
+<!ENTITY dontShowPrivacyStatement.label "Es esmu iepazinies un piekrītu privātuma politikai.">
+<!ENTITY dontShowPrivacyStatement.accesskey "E">
+
+<!ENTITY reportForm.label "Aizpildiet ziņojumu">
+
+<!ENTITY reportForm.description "Pastāstiet mums nedaudz par problēmu, ar kuru jūs saskārāties:">
+<!ENTITY reportForm.url.title "Lapas adrese:">
+<!ENTITY reportForm.url.accesskey "A">
+<!-- No ":" at the end -->
+
+<!ENTITY reportForm.behind_login.title "Mājas lapa ir aizsargāta ar paroli">
+<!ENTITY reportForm.behind_login.accesskey "P">
+
+<!ENTITY reportForm.problem_type.title "Problēmas tips:">
+<!ENTITY reportForm.problem_type.accesskey "T">
+
+<!ENTITY reportForm.problem_type.chooseOne.title "Izvēlieties vienu...">
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+
+<!ENTITY reportForm.problem_type.item1.title "Neatbalsta pārlūku">
+<!ENTITY reportForm.problem_type.item2.title "Nevar pieteikties">
+<!ENTITY reportForm.problem_type.item3.title "Nerādas spraudnis">
+<!ENTITY reportForm.problem_type.item4.title "Trūkst cita veida satura">
+<!ENTITY reportForm.problem_type.item5.title "Strādā nepareizi">
+<!ENTITY reportForm.problem_type.item6.title "Izskatās nepareizi">
+<!ENTITY reportForm.problem_type.item7.title "Cita problēma">
+<!ENTITY reportForm.problem_type.item8.title "Pieeja cilvēkiem ar īpašām vajadzībām">
+<!ENTITY reportForm.problem_type.item9.title "Izdrukātais ir nepareizs">
+
+<!ENTITY reportForm.describe.title "Aprakstiet problēmu:">
+<!ENTITY reportForm.describe.accesskey "A">
+
+<!ENTITY reportForm.platform.title "Platforma:">
+<!ENTITY reportForm.product.title "Produkts:">
+<!ENTITY reportForm.gecko.title "Gecko:">
+<!ENTITY reportForm.useragent.title "Lietotāja aģents:">
+<!ENTITY reportForm.language.title "Valoda:">
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+
+<!ENTITY reportForm.email.title "E-pasts (neobligāts):">
+<!ENTITY reportForm.email.accesskey "E">
+
+<!ENTITY reportForm.privacyPolicy.title "Privātuma politika">
+<!ENTITY reportForm.privacyPolicy.tooltip "Apskatīt privātuma politiku">
+
+<!ENTITY reportResults.showDetail.title "Rādīt detaļas">
+<!ENTITY reportResults.showDetail.accesskey "R">
+
+<!ENTITY sendReport.label "Sūta ziņojumu">
+<!ENTITY sendReport.description "Sūta ziņojumu uz serveri...">
+
+<!ENTITY finish.label "Ziņojums nosūtīts">

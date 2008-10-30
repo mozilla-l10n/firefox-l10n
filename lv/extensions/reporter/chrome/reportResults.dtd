@@ -1,0 +1,15 @@
+<!ENTITY reportSite "Vietne">
+<!ENTITY reportProblemType "Problēmas tips">
+<!ENTITY reportDecsription "Apraksts">
+<!ENTITY reportPlatform "Platforma">
+<!ENTITY reportProduct "Produkts">
+<!ENTITY reportoscpu "OS">
+<!ENTITY reportGecko "Gecko">
+<!ENTITY reportBuildConfig "Bvējuma konfigurācija">
+<!ENTITY reportUseragent "Lietotāja aģents">
+<!ENTITY reportLanguage "Valoda">
+<!ENTITY reportCharset "Rakstzīmju kopa">
+<!ENTITY reportEmail "E-pasts">
+<!ENTITY error "Kļūdas detaļas">
+<!ENTITY faultCode "Kods">
+<!ENTITY faultMessage "Ziņojums">

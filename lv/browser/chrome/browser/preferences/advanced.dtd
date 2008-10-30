@@ -1,0 +1,102 @@
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label "Vispārējs">
+
+<!ENTITY accessibility.label "Pieejamība">
+
+<!ENTITY useCursorNavigation.label "Vienmēr izmantot kursora taustiņus, lai pārvietotos pa lapām">
+<!ENTITY useCursorNavigation.accesskey "k">
+<!ENTITY searchStartTyping.label "Meklēt rakstīto tekstu, kolīdz es sāku rakstīt">
+<!ENTITY searchStartTyping.accesskey "t">
+<!ENTITY blockAutoRefresh.label "Brīdināt mani, ja mājas lapa mēģina pārlādēties vai pārsūtīt mani uz citu lapu">
+<!ENTITY blockAutoRefresh.accesskey "b">
+
+<!ENTITY browsing.label "Pārlūkošana">
+
+<!ENTITY useAutoScroll.label "Lietot autoritināšanu">
+<!ENTITY useAutoScroll.accesskey "a">
+<!ENTITY useSmoothScrolling.label "Lietot plūdeno ritināšanu">
+<!ENTITY useSmoothScrolling.accesskey "p">
+<!ENTITY checkSpelling.label "Rakstot pārbaudīt pareizrakstību">
+<!ENTITY checkSpelling.accesskey "t">
+
+<!ENTITY systemDefaults.label "Noklusētie iestatījumi">
+<!--XXX-->
+<!ENTITY alwaysCheckDefault.label "Vienmēr, palaižot &brandShortName;, pārbaudīt, vai tas ir noklusētais tīmekļa pārlūks">
+<!ENTITY alwaysCheckDefault.accesskey "v">
+<!ENTITY checkNow.label "Pārbaudīt tagad">
+<!ENTITY checkNow.accesskey "P">
+
+<!ENTITY networkTab.label "Tīkls">
+
+<!ENTITY connection.label "Savienojums">
+
+<!ENTITY connectionDesc.label "Konfigurēt, kā &brandShortName; savienojas ar Internetu">
+<!ENTITY connectionSettings.label "Iestatījumi...">
+<!ENTITY connectionSettings.accesskey "e">
+
+<!ENTITY offlineStorage.label "Nesaistes glabātuve">
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+
+<!ENTITY useCacheBefore.label "Izmantot līdz pat">
+<!ENTITY useCacheBefore.accesskey "I">
+<!ENTITY useCacheAfter.label "MB no pieejamās kešatmņas">
+<!ENTITY clearCacheNow.label "Iztīrīt">
+<!ENTITY clearCacheNow.accesskey "I">
+
+<!ENTITY updateTab.label "Atjaunināt">
+
+<!ENTITY autoCheck.label "Automātiski pārbaudīt atjauninājumus:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "F">
+<!ENTITY enableAddonsUpdate.label "Instalētajiem paplašinājumiem">
+<!ENTITY enableAddonsUpdate.accesskey "n">
+<!ENTITY enableSearchUpdate.label "Meklētājiem">
+<!ENTITY enableSearchUpdate.accesskey "l">
+<!ENTITY whenUpdatesFound.label "Kad ir pieejami &brandShortName; atjauninājumi:">
+<!ENTITY askMe.label "Jautāt man, ko darīt tālāk">
+<!ENTITY askMe.accesskey "k">
+<!ENTITY modeAutomatic.label "Automātiski lejupielādēt un instalēt atjauninājumus">
+<!ENTITY modeAutomatic.accesskey "d">
+<!ENTITY modeAutoAddonWarn.label "Brīdināt mani, ja atjauninājums deaktivizēs kādu no instalētajiem papildinājumiem">
+<!ENTITY modeAutoAddonWarn.accesskey "B">
+<!ENTITY updateHistory.label "Parādīt atjauninājumu vēsturi">
+<!ENTITY updateHistory.accesskey "p">
+
+<!ENTITY offlineNotify.label "Ziņot man, kad mājas lapa grib saglabāt datus izmantošanai nesaistē">
+<!ENTITY offlineNotify.accesskey "T">
+<!ENTITY offlineNotifyExceptions.label "Izņēmumi...">
+<!ENTITY offlineNotifyExceptions.accesskey "z">
+
+<!ENTITY offlineAppsList.label "Šīm mājas lapām ir dati izmantošanai nesaistē:">
+<!ENTITY offlineAppsList.height "7em">
+<!ENTITY offlineAppsListRemove.label "Aizvākt...">
+<!ENTITY offlineAppsListRemove.accesskey "A">
+<!ENTITY offlineAppRemove.confirm "Aizvākt nesaistes datus">
+
+<!ENTITY encryptionTab.label "Šifrēšana">
+
+<!ENTITY protocols.label "Protokoli">
+<!ENTITY useSSL3.label "Izmantot SSL 3.0">
+<!ENTITY useSSL3.accesskey "3">
+<!ENTITY useTLS1.label "Izmantot TLS 1.0">
+<!ENTITY useTLS1.accesskey "1">
+<!ENTITY certificates.label "Sertifikāti">
+<!ENTITY certSelection.description "Kad serveris pieprasa manu personīgo sertifikātu:">
+<!ENTITY certs.auto "Izvēlēties automātiski">
+<!ENTITY certs.auto.accesskey "l">
+<!ENTITY certs.ask "Katru reizi jautāt man">
+<!ENTITY certs.ask.accesskey "i">
+<!ENTITY viewCerts.label "Aplūkot sertifikātus">
+<!ENTITY viewCerts.accesskey "s">
+<!ENTITY viewCRLs.label "Anulēšanas saraksti">
+<!ENTITY viewCRLs.accesskey "A">
+<!ENTITY verify2.label "Validācija">
+<!ENTITY verify2.accesskey "V">
+<!ENTITY viewSecurityDevices.label "Drošības ierīces">
+<!ENTITY viewSecurityDevices.accesskey "d">

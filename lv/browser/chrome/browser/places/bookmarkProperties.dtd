@@ -1,0 +1,21 @@
+<!ENTITY bookmarks.name.label "Nosaukums:">
+<!ENTITY bookmarks.name.accesskey "N">
+<!ENTITY bookmarks.location.label "Atrašanās vieta:">
+<!ENTITY bookmarks.location.accesskey "V">
+<!ENTITY bookmarks.keyword.label "Atslēgvārds:">
+<!ENTITY bookmarks.keyword.accesskey "A">
+<!ENTITY bookmarks.description.label "Apraksts:">
+<!ENTITY bookmarks.description.accesskey "A">
+<!ENTITY bookmarks.liveTitlesSeparator.label "Dzīvie virsraksti">
+<!ENTITY bookmarks.createIn.label "Mapē:">
+<!ENTITY bookmarks.createIn.accesskey "M">
+<!ENTITY bookmarks.feed_location.label "Barotnes atrašanās vieta:">
+<!ENTITY bookmarks.feed_location.accesskey "B">
+<!ENTITY bookmarks.site_location.label "Lapas atrašanās vieta:">
+<!ENTITY bookmarks.site_location.accesskey "S">
+<!ENTITY bookmarks.loadInSidebar.label "Ielādēt šo grāmatzīmi sānu joslā">
+<!ENTITY bookmarks.loadInSidebar.accesskey "o">
+<!ENTITY bookmarks.expanderDown.tooltip "Rādīt visas grāmatzīmju mapes">
+<!ENTITY bookmarks.expanderUp.tooltip "Slēpt">
+<!ENTITY bookmarks.newFolderButton.label "Jauna mape">
+<!ENTITY bookmarks.newFolderButton.accesskey "e">

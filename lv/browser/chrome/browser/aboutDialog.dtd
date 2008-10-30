@@ -1,0 +1,9 @@
+<!ENTITY aboutDialog.title "Par &brandFullName;">
+<!ENTITY copyright "Autori">
+<!ENTITY copyright.accesskey "A">
+<!ENTITY aboutLink "&lt; Par &brandFullName;">
+<!ENTITY aboutLink.accesskey "P">
+<!ENTITY aboutVersion "versija">
+<!ENTITY copyrightInfo "&#169;1998-2008 Veidotāji. Visas tiesības aizsargātas. Firefox un 
+Firefox logo ir Mozilla Foundation preču zīmes.  Visas tiesības 
+aizsargātas.">

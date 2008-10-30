@@ -1,0 +1,51 @@
+
+<!ENTITY migrationWizard.title "Importēšanas vednis">
+
+<!ENTITY importFrom.label "Importēt Iestatījumus, Grāmatzīmes, Vēsturi, Paroles un citus datus no:">
+<!ENTITY importFromUnix.label "Importēt Iestatījumus, Grāmatzīmes, Vēsturi, Paroles un citus datus no:">
+<!ENTITY importFromBookmarks.label "Importēt Grāmatzīmes no:">
+
+<!ENTITY importFromIE.label "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey "M">
+<!ENTITY importFromPhoenix.label "Firefox 0.8, Firebird vai Phoenix">
+<!ENTITY importFromPhoenix.accesskey "P">
+<!ENTITY importFromNothing.label "Neimportēt neko">
+<!ENTITY importFromNothing.accesskey "N">
+<!ENTITY importFromSeamonkey.label "Netscape 6, 7 vai Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromNetscape4.label "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromOpera.label "Opera">
+<!ENTITY importFromOpera.accesskey "O">
+<!ENTITY importFromCamino.label "Camino">
+<!ENTITY importFromCamino.accesskey "C">
+<!ENTITY importFromSafari.label "Safari">
+<!ENTITY importFromSafari.accesskey "S">
+<!ENTITY importFromOmniWeb.label "OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey "W">
+<!ENTITY importFromICab.label "iCab">
+<!ENTITY importFromICab.accesskey "i">
+<!ENTITY importFromKonqueror.label "Konqueror">
+<!ENTITY importFromKonqueror.accesskey "K">
+<!ENTITY importFromEpiphany.label "Epiphany">
+<!ENTITY importFromEpiphany.accesskey "E">
+<!ENTITY importFromGaleon.label "Galeon">
+<!ENTITY importFromGaleon.accesskey "G">
+<!ENTITY importFromHTMLFile.label "No HTML faila">
+<!ENTITY importFromHTMLFile.accesskey "F">
+
+<!ENTITY noMigrationSources.label "Nav atrasta neviena programma, no kuras importēt grāmatzīmes, vēsturi vai paroļu informāciju.">
+
+<!ENTITY importSource.title "Importēt iestatījumus un datus">
+<!ENTITY importItems.title "Importējamie elementi">
+<!ENTITY importItems.label "Izvēlieties importējamos elementus:">
+
+<!ENTITY migrating.title "Notiek importēšana...">
+<!ENTITY migrating.label "Tiek importēti izvēlētie elementi...">
+
+<!ENTITY selectProfile.title "Izvēlieties profilu">
+<!ENTITY selectProfile.label "Datus var importēt no šiem profiliem:">
+
+<!ENTITY done.title "Importēšana ir pabeigta">
+<!ENTITY done.label "Tika sekmīgi importēti:">
+

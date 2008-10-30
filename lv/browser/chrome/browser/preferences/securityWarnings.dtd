@@ -1,0 +1,13 @@
+<!ENTITY securityWarnings.title "Drošības brīdinājumi">
+
+<!ENTITY security.warn_when "Rādīt drošības brīdinājumu, kad:">
+<!ENTITY security.warn_entering_secure.label "Es atveru šifrētu lapu.">
+<!ENTITY security.warn_entering_secure.accesskey "a">
+<!ENTITY security.warn_entering_weak.label "Es atveru lapu ar zema līmeņa šifrēšanu.">
+<!ENTITY security.warn_entering_weak.accesskey "z">
+<!ENTITY security.warn_leaving_secure.label "Es no šifrētas lapas pāreju uz nešifrētu.">
+<!ENTITY security.warn_leaving_secure.accesskey "l">
+<!ENTITY security.warn_submit_insecure.label "Es nosūtu nešifrētu informāciju.">
+<!ENTITY security.warn_submit_insecure.accesskey "s">
+<!ENTITY security.warn_viewing_mixed.label "Es atveru šifrētu lapu, kurā daži elementi ir nešifrēti.">
+<!ENTITY security.warn_viewing_mixed.accesskey "u">

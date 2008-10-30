@@ -1,0 +1,27 @@
+<!ENTITY no-properties.label "Īpašības nav iestatītas.">
+
+<!ENTITY caption.label "Elementa īpašības">
+<!ENTITY image-sec.label "Attēla īpašības">
+<!ENTITY image-url.label "Adrese:">
+<!ENTITY image-type.label "Tips:">
+<!ENTITY image-desc.label "Apraksts:">
+<!ENTITY image-alt.label "Alternatīvais teksts:">
+<!ENTITY image-size.label "Attēla izmēri:">
+<!ENTITY image-filesize.label "Faila izmērs:">
+<!ENTITY insdel-sec.label "Ievietot/Dzēst īpašības">
+<!ENTITY insdel-cite.label "Info:">
+<!ENTITY insdel-date.label "Datums:">
+<!ENTITY link-sec.label "Saites parametri">
+<!ENTITY link-url.label "Adrese:">
+<!ENTITY link-target.label "Atvērsies:">
+<!ENTITY link-type.label "Mērķa tips:">
+<!ENTITY link-lang.label "Mērķa valoda:">
+<!ENTITY link-rel.label "Saistība:">
+<!ENTITY link-rev.label "Reversā saistība:">
+<!ENTITY link-ping.label "Tiks ziņots:">
+<!ENTITY misc-sec.label "Dažādas īpašības">
+<!ENTITY misc-lang.label "Teksta valoda:">
+<!ENTITY misc-title.label "Virsraksts:">
+<!ENTITY misc-tblsummary.label "Tabulas kopsavilkums:">
+<!ENTITY quote-sec.label "Citāta īpašības">
+<!ENTITY quote-cite.label "Info:">

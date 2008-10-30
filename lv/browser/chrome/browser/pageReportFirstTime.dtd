@@ -1,0 +1,7 @@
+<!ENTITY startDescription.label "Mājas lapa mēģināja atvērt uznirstošo logu bez jūsu atļaujas. &brandShortName; automātiski aizvēra šo logu. Ikreiz, kad &brandShortName; bloķē šādu uznirstošo logu, jūs redzēsiet ikonu statusa joslā.">
+
+<!ENTITY endDescription.label "Jūš varat uzklikšķināt uz šīs ikonas, lai apskatītos, kuras lapas &brandShortName; ir bloķējis, un lai atļautu kādai no tām atvērt uznirstošos logus, ja tas ir vajadzīgs lapas korektai darbībai.">
+
+<!ENTITY caption.label "Par uznirstošo logu bloķēšanu">
+
+<!ENTITY done.label "Pabeigt">

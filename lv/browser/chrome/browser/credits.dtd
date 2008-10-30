@@ -1,0 +1,15 @@
+<!ENTITY brandMotto "Atgūsti tīmekli">
+<!ENTITY credit.thanks "Īpašs paldies">
+
+<!ENTITY credit.thanks2 "Liels paldies mūsu">
+<!ENTITY credit.contributors2 "līdzstrādniekiem">
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+
+<!ENTITY credit.translation "<h3>Lokalizācija</h3><ul><li>Raivis Dejus</li><li>Kaspars Krampis</li><li>Pēteris Krišjānis</li><li>Rūdolfs Mazurs</li><li>Anita Reitere</li><li>Viesturs Zariņš</li></ul>">
+
+<!ENTITY credit.memory "Gaišā piemiņā">
+<!ENTITY credit.poweredByGeckoReg "Darbina Gecko&reg;">

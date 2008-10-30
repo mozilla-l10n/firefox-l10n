@@ -1,0 +1,55 @@
+<!ENTITY history.label "Vēsture">
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
+-->
+
+<!ENTITY rememberDaysBefore.label "Glabāt manu vēsturi vismaz">
+<!ENTITY rememberDaysBefore.accesskey "v">
+<!ENTITY rememberDaysAfter2.label "dienas">
+
+<!ENTITY rememberForms.label "Atcerēties, ko es ievadu lapu formās un meklēšanas joslā">
+<!ENTITY rememberForms.accesskey "f">
+
+<!ENTITY rememberDownloads.label "Atcerēties manas lejupielādes">
+<!ENTITY rememberDownloads.accesskey "d">
+
+
+<!ENTITY cookies.label "Sīkdatnes">
+
+<!ENTITY acceptCookies.label "Pieņemt sīkdatnes no lapām">
+<!ENTITY acceptCookies.accesskey "i">
+
+<!ENTITY acceptThirdParty.label "Pieņemt trešo pušu sīkdatnes">
+<!ENTITY acceptThirdParty.accesskey "p">
+
+<!ENTITY keepUntil.label "Glabāt līdz:">
+<!ENTITY keepUntil.accesskey "G">
+
+<!ENTITY expire.label "beidzas to derīgums">
+<!ENTITY close.label "es aizveru &brandShortName;">
+<!ENTITY askEachTime.label "jautāt man katru reizi">
+
+<!ENTITY cookieExceptions.label "Izņēmumi...">
+<!ENTITY cookieExceptions.accesskey "I">
+
+<!ENTITY showCookies.label "Parādīt sīkdatnes...">
+<!ENTITY showCookies.accesskey "S">
+
+
+<!ENTITY privateData.label "Privātie dati">
+
+<!ENTITY alwaysClear.label "Vienmēr notīrīt manus privātos datus, aizverot &brandShortName;">
+<!ENTITY alwaysClear.accesskey "v">
+
+<!ENTITY askBeforeClear.label "Jautāt pirms privāto datu tīrīšanas">
+<!ENTITY askBeforeClear.accesskey "A">
+
+<!ENTITY clearDataSettings.label "Iestatījumi...">
+<!ENTITY clearDataSettings.accesskey "t">
+
+<!ENTITY clearDataNow.label "Notīrīt tagad...">
+<!ENTITY clearDataNow.label2 "Notīrīt tagad">
+<!ENTITY clearDataNow.accesskey "N">

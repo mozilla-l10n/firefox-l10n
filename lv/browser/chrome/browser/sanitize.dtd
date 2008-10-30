@@ -1,0 +1,24 @@
+<!ENTITY sanitizeDialog.title "Dzēst privātos datus">
+
+<!ENTITY sanitizeItems.label "Nekavējoties dzēst šādus datus:">
+<!ENTITY clearDataSettings.label "Kad es lūdzu &brandShortName; dzēst manus privātos datus, būtu jādzēš:">
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+
+<!ENTITY itemHistory.label "Apmeklēto lapu saraksts">
+<!ENTITY itemHistory.accesskey "A">
+<!ENTITY itemFormSearchHistory.label "Saglabātie formu un meklēšanu dati">
+<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemPasswords.label "Saglabātās paroles">
+<!ENTITY itemPasswords.accesskey "P">
+<!ENTITY itemCookies.label "Sīkdatnes">
+<!ENTITY itemCookies.accesskey "S">
+<!ENTITY itemCache.label "Kešatmiņa">
+<!ENTITY itemCache.accesskey "a">
+<!ENTITY itemOfflineApps.label "Lapu nesaistes dati">
+<!ENTITY itemOfflineApps.accesskey "T">
+<!ENTITY itemDownloads.label "Lejupielāžu vēsture">
+<!ENTITY itemDownloads.accesskey "J">
+<!ENTITY itemSessions.label "Autentificētās sesijas">
+<!ENTITY itemSessions.accesskey "C">
+<!ENTITY window.width "30em">
