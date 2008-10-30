@@ -1,0 +1,22 @@
+<!--LOCALIZATION NOTE : FILE The Location Bar prefs panel -->
+<!ENTITY pref.locationBar.title                "Locatiewerkbalk">
+
+<!ENTITY autoComplete.label                    "Auto-aanvullen">
+<!ENTITY enableAutoComplete.label              "Vul in de locatiewerkbalk getypte tekst automatisch aan vanuit de bladergeschiedenis">
+<!ENTITY enableAutoComplete.accesskey          "V">
+<!ENTITY autoCompleteAutoFill.label            "Beste overeenkomst auto-aanvullen terwijl u typt">
+<!ENTITY autoCompleteAutoFill.accesskey        "B">
+<!ENTITY autoCompleteShowPopup.label           "Lijst met overeenkomende resultaten tonen">
+<!ENTITY autoCompleteShowPopup.accesskey       "L">
+<!ENTITY autoCompleteMatchOnlyTyped.label      "Alleen voorheen door u getypte websites overeenkomen">
+<!ENTITY autoCompleteMatchOnlyTyped.accesskey  "A">
+
+<!ENTITY searchEngine.label                    "Internet zoekmachine">
+<!ENTITY showSearchEngine.label                "Standaard zoekmachine tonen">
+<!ENTITY showSearchEngine.accesskey            "z">
+
+<!ENTITY unknownLocations.label                "Onbekende locaties">
+<!ENTITY domainGuessing.label                  "Voeg automatisch &quot;www.&quot; en &quot;.com&quot; toe aan de locatie indien een webpagina niet is gevonden.">
+<!ENTITY domainGuessing.accesskey              "t">
+<!ENTITY keywords.label                        "Voer een internetzoekopdracht uit als de ingevoerde tekst geen weblocatie is">
+<!ENTITY keywords.accesskey                    "i">

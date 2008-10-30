@@ -1,0 +1,6 @@
+<!ENTITY window.title "Offline">
+<!ENTITY boxHeader "Offline">
+<!ENTITY rHeader "Offline">
+<!ENTITY textStart "Tijdens het starten van &brandShortName;:">
+<!ENTITY radioAskMode "Vraag me of ik online of offline modus wil">
+<!ENTITY radioUsePrev "Gebruik mijn vorige online/offline status">

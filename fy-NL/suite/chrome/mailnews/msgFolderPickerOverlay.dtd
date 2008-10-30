@@ -1,0 +1,12 @@
+<!--null-->
+<!ENTITY subscribechoosethis.label "deze nieuwsserver kiezen">
+<!ENTITY subscribeclickhere.label "klik hier om een nieuwsserver te kiezen">
+<!ENTITY newfolderchoosethis.label "kies deze voor de bovenliggende">
+<!ENTITY newfolderclickhere.label "Klik hier om te selecteren">
+<!ENTITY renamefolderchoosethis.label "deze map kiezen">
+<!ENTITY renamefolderclickhere.label "klik hier om een map te kiezen">
+<!ENTITY filemessageschoosethis.label "deze map kiezen">
+<!ENTITY filemessagesclickhere.label "klik hier om een map te kiezen">
+<!ENTITY chooseaccountclickhere.label "Klik hier om een account te selecteren">
+<!ENTITY choosefolderclickhere.label "Klik hier om een map te selecteren">
+<!ENTITY chooseserverToDeferTo.label "klik hier om een account voor het opslaan van berichten te selecteren">

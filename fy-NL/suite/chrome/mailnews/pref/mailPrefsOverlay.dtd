@@ -1,0 +1,19 @@
+<!ENTITY enbJsCheckMailNews.label "Mail &amp; Nieuwsgroepen">
+<!ENTITY enbJsCheckMailNews.accesskey "M">
+<!ENTITY enbPluginCheckMailNews.label "Mail &amp; Nieuwsgroepen">
+<!ENTITY enbPluginCheckMailNews.accesskey "A">
+<!ENTITY mail.label "Mail &amp; Nieuwsgroepen">
+<!ENTITY mail.accesskey "M">
+<!ENTITY addressbook.label "Adresboek">
+<!ENTITY addressbook.accesskey "A">
+<!ENTITY viewingMessages.label "Berichtweergave">
+<!ENTITY notifications.label "Berichtgevingen">
+<!ENTITY address.label "Adressering">
+<!ENTITY composingMessages.label "Berichtopstelling">
+<!ENTITY format.label "Verzendopmaak">
+<!ENTITY return.label "Ontvangstbevestigingen">
+<!ENTITY disk.label "Schijfruimte">
+<!ENTITY junk.label "Ongewenste berichten">
+<!ENTITY tags.label "Labels">
+<!ENTITY characterEncoding.label "Tekenset">
+<!ENTITY offline.label "Offline &amp; Schijfruimte">

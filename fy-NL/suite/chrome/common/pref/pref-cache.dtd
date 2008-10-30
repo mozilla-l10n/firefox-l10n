@@ -1,0 +1,24 @@
+<!ENTITY pref.cache.title "Buffer">
+<!ENTITY pref.cache.caption "Bufferopties instellen">
+<!ENTITY cachePara "Kopieën van regelmatig bezochte webpagina’s worden opgeslagen in de buffer op uw harde schijf. (Op vernieuwen klikken laadt altijd de laatste versie van een pagina.)">
+<!ENTITY diskCache.label "Grootte:">
+<!ENTITY diskCache.accesskey "G">
+<!ENTITY mbytes "MB">
+<!ENTITY diskCacheFolder.label "Buffermaplocatie:">
+<!ENTITY clearDiskCache.label "Buffer legen">
+<!ENTITY clearDiskCache.accesskey "C">
+<!ENTITY chooseDiskCacheFolder.label "Kies map…">
+<!ENTITY chooseDiskCacheFolder.accesskey "F">
+<!ENTITY diskCacheFolderExplanation "bufferbestanden worden opgeslagen in een submap met de naam &quot;Cache&quot; in de map die u specificeert. Herstart &brandShortName; om de veranderingen te activeren.">
+<!ENTITY docCache "Vergelijk de pagina in de buffer met die op het netwerk:">
+<!ENTITY oncePsessionRadio.label "Eenmaal per sessie">
+<!ENTITY oncePsessionRadio.accesskey "O">
+<!ENTITY everyTimeRadio.label "Elke keer als ik de pagina bekijk">
+<!ENTITY everyTimeRadio.accesskey "E">
+<!ENTITY neverRadio.label "Nooit">
+<!ENTITY neverRadio.accesskey "N">
+<!ENTITY autoRadio.label "Als de pagina oud is">
+<!ENTITY autoRadio.accesskey "W">
+<!ENTITY prefetchTitle.label "Link Prefetching">
+<!ENTITY enablePrefetch.label "Prefetch web pages when idle, so that links in web pages designed for prefetching can load more quickly">
+<!ENTITY enablePrefetch.accesskey "P">

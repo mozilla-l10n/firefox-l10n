@@ -1,0 +1,16 @@
+<!ENTITY tree.header.name.label               "Titel">
+<!ENTITY tree.header.name.accesskey           "T">
+<!ENTITY tree.header.url.label                "Locatie">
+<!ENTITY tree.header.url.accesskey            "L">
+<!ENTITY tree.header.date.label               "Laatst bezocht">
+<!ENTITY tree.header.date.accesskey           "a">
+<!ENTITY tree.header.firstvisitdate.label     "Eerst bezocht">
+<!ENTITY tree.header.firstvisitdate.accesskey "F">
+<!ENTITY tree.header.referrer.label           "Verwijzer">
+<!ENTITY tree.header.referrer.accesskey       "R">
+<!ENTITY tree.header.hostname.label           "Servernaam">
+<!ENTITY tree.header.hostname.accesskey       "H">
+<!ENTITY tree.header.visitcount.label         "Aantal bezoeken">
+<!ENTITY tree.header.visitcount.accesskey     "V">
+<!ENTITY bookmarkLinksCmd.label               "Bladwijzers van deze koppelingen maken">
+<!ENTITY bookmarkLinksCmd.accesskey           "B">

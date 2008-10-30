@@ -1,0 +1,20 @@
+<!ENTITY window.title "Map sorteren">
+
+<!ENTITY sortOptions.label "Sorteeropties">
+<!ENTITY description.label "&brandShortName; kan afzonderlijke mappen sorteren. Gebruik deze opties om het sorteren van deze map aan te passen.">
+
+<!ENTITY sortBy.label "Sorteren op:">
+<!ENTITY sortBy.name.label "Naam">
+<!ENTITY sortBy.url.label "Locatie">
+<!ENTITY sortBy.shortcutUrl.label "Sleutelwoord">
+<!ENTITY sortBy.description.label "Beschrijving">
+<!ENTITY sortBy.bookmarkAddDate.label "Toegevoegd">
+<!ENTITY sortBy.lastModifiedDate.label "Laatst aangepast">
+<!ENTITY sortBy.lastVisitDate.label "Laatst bezocht">
+
+<!ENTITY sortOrder.label "Sorteervolgorde:">
+<!ENTITY sortAscending.label "Oplopend">
+<!ENTITY sortDescending.label "Aflopend">
+
+<!ENTITY sortFoldersFirst.label "Mappen eerst sorteren">
+<!ENTITY sortRecursively.label "Recursief sorteren">

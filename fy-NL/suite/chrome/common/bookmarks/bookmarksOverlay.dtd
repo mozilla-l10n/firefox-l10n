@@ -1,0 +1,19 @@
+
+<!ENTITY findABookmark.label                "Een bladwijzer zoeken…">
+<!ENTITY findABookmark.accesskey            "z">
+<!ENTITY newBookmark.label                  "Nieuwe bladwijzer…">
+<!ENTITY newBookmark.accesskey              "N">
+<!ENTITY newFolder.label                    "Nieuwe map…">
+<!ENTITY newFolder.accesskey                "e">
+<!ENTITY newSeparator.label                 "Nieuw scheidingsteken">
+<!ENTITY newSeparator.accesskey             "s">
+<!ENTITY setAsNewBookmarkFolder.label       "Als nieuwe bladwijzermap instellen">
+<!ENTITY setAsNewBookmarkFolder.accesskey   "b">
+<!ENTITY setAsNewSearchFolder.label         "Als nieuwe zoekresultatenmap instellen">
+<!ENTITY setAsNewSearchFolder.accesskey     "r">
+<!ENTITY setAsNewToolbarFolder.label        "Als nieuwe persoonlijke-werkbalkmap instellen">
+<!ENTITY setAsNewToolbarFolder.accesskey    "p">
+<!ENTITY exportBookmarks.label              "Exporteren…">
+<!ENTITY exportBookmarks.accesskey          "x">
+<!ENTITY importBookmarks.label              "Importeren…">
+<!ENTITY importBookmarks.accesskey          "I">

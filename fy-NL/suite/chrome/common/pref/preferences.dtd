@@ -1,0 +1,39 @@
+<!--LOCALIZATION NOTE : FILE Lists preferences categories that appear on the left of the preferences dialog -->
+<!ENTITY prefWindow.title "Voorkeuren">
+<!ENTITY categoryHeader "Categorie">
+<!ENTITY appear.label "Vormgeving">
+<!ENTITY content.label "Inhoud">
+<!ENTITY fonts.label "Lettertypen">
+<!ENTITY colors.label "Kleuren">
+<!ENTITY navigator.label "Browser">
+<!ENTITY history.label "Geschiedenis">
+<!ENTITY bidi.label "Bidi opties">
+<!ENTITY languages.label "Talen">
+<!ENTITY applications.label "Hulptoepassingen">
+<!ENTITY locationBar.label "Locatiebalk">
+<!ENTITY tabWindows.label "Bladeren met tabbladen">
+<!ENTITY compose.label "Composer">
+<!ENTITY editing.label "Nieuwe pagina-instellingen">
+<!ENTITY publish.label "Publiceren">
+<!ENTITY offline.label "Offline">
+<!ENTITY security.label "Privacy &amp; veiligheid">
+<!ENTITY cookies.label "Cookies">
+<!ENTITY images.label "Afbeeldingen">
+<!ENTITY popups.label "Popupvensters">
+<!ENTITY passwords.label "Wachtwoorden">
+<!ENTITY masterpass.label "Hoofdwachtwoorden">
+<!ENTITY ssl.label "SSL">
+<!ENTITY certs.label "Certificaten">
+<!ENTITY validation.label "Validatie">
+<!ENTITY advance.label "Geavanceerd">
+<!ENTITY down.label "Ophalen">
+<!ENTITY cache.label "Buffers">
+<!ENTITY proxies.label "Proxies">
+<!ENTITY httpnetworking.label "HTTP netwerken">
+<!ENTITY smart.label "Software-installatie">
+<!ENTITY download.label "Downloads">
+<!ENTITY keynav.label "Toetsenbordnavigatie">
+<!ENTITY search.label "Zoeken op het Internet">
+<!ENTITY policies.label "Veiligheidsbeleid">
+<!ENTITY mousewheel.label "Muiswiel">
+<!ENTITY scriptsAndWindows.label "Scripts &amp; plug-ins">

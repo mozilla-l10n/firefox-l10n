@@ -1,0 +1,28 @@
+<!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
+
+<!ENTITY pref.mouseWheel.title           "Mousewiel">
+<!ENTITY mouseWheelPanel.label           "Muiswielgedrag specificeren wanneer gebruikt met deze optietoets: ">
+<!ENTITY usingJustTheWheel.label         "Geen optietoets">
+<!ENTITY usingWheelAndAlt.label          "&altKey.label;">
+<!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
+<!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
+<!ENTITY mousewheelGroup.label           "Vertical scrolling">
+<!ENTITY mousewheelHorizGroup.label      "Horizontal scrolling">
+<!ENTITY scroll.label                    "Het document ">
+<!ENTITY scroll.accesskey                "H">
+<!ENTITY scrollHoriz.accesskey           "c">
+<!ENTITY scrollLines.label               "regels">
+<!ENTITY scrollChars.label               "characters">
+<!ENTITY useSystemDefault.label          "Systeemstandaard gebruiken">
+<!ENTITY useSystemDefault.accesskey      "S">
+<!ENTITY useSystemDefaultHoriz.accesskey "d">
+<!ENTITY scrollPgUpPgDn.label            "Een pagina omhoog of omlaag schuiven">
+<!ENTITY scrollPgUpPgDn.accesskey        "p">
+<!ENTITY scrollPgLtPgRt.label            "Een Pagina naar links of rechts scrollen">
+<!ENTITY scrollPgLtPgRt.accesskey        "p">
+<!ENTITY history.label                   "Voor- en achteruit door de bladergeschiedenis verplaatsen">
+<!ENTITY history.accesskey               "V">
+<!ENTITY historyHoriz.accesskey          "b">
+<!ENTITY zoom.label                      "Pagina in- of uitzomen">
+<!ENTITY zoom.accesskey                  "Z">
+<!ENTITY zoomHoriz.accesskey             "e">
