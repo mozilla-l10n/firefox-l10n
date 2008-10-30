@@ -239,6 +239,8 @@
 <!ENTITY reloadImageCmd.accesskey               "L">
 <!ENTITY viewImageCmd.label                     "Vaata pilti">
 <!ENTITY viewImageCmd.accesskey                 "t">
+<!ENTITY viewVideoCmd.label                     "Vaata Videot">
+<!ENTITY viewVideoCmd.accesskey                 "i">
 <!ENTITY viewBGImageCmd.label                   "Vaata taustapilti">
 <!ENTITY viewBGImageCmd.accesskey               "s">
 <!ENTITY setDesktopBackgroundCmd.label          "Sea taustapildiks...">
