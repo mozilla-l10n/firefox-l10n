@@ -36,14 +36,5 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Labels -->
-<!ENTITY subscribechoosethis.label      "trykk her for å velge en nyhetsgruppetjener">
-<!ENTITY subscribeclickhere.label      "trykk her for å velge en nyhetsgruppetjener">
 <!ENTITY newfolderchoosethis.label      "opprett i denne mappen">
-<!ENTITY newfolderclickhere.label      "Trykk her for å velge">
-<!ENTITY renamefolderchoosethis.label      "velg denne mappen">
-<!ENTITY renamefolderclickhere.label      "trykk her for å velge en mappe">
-<!ENTITY filemessageschoosethis.label      "velg denne mappen">
-<!ENTITY filemessagesclickhere.label      "trykk her for å velge en mappe">
-<!ENTITY chooseaccountclickhere.label      "Trykk her for å velge en konto">
-<!ENTITY choosefolderclickhere.label      "Trykk her for å velge en mappe">
-<!ENTITY chooseserverToDeferTo.label      "trykk her for å velge en konto å lagre meldinger i">
+<!ENTITY filemessageschoosethis.label   "velg denne mappen">

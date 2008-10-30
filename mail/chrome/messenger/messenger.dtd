@@ -5,15 +5,12 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Mappe …">
 <!ENTITY newFolderCmd.accesskey "p">
-<!ENTITY newTabCmd.label "Ny fane">
-<!ENTITY newTabCmd.accesskey "N">
 <!ENTITY closeTabCmd.label "Lukk fane">
 <!ENTITY closeTabCmd.accesskey "L">
 <!ENTITY newVirtualFolderCmd.label "Lagret søk …">
 <!ENTITY newVirtualFolderCmd.accesskey "L">
 <!ENTITY newAccountCmd.label "Konto …">
 <!ENTITY newAccountCmd.accesskey "K">
-<!ENTITY openMessageMenu.label "Åpne">
 <!ENTITY openMessageFileCmd.label "Åpne lagret melding …">
 <!ENTITY openMessageFileCmd.accesskey "Å">
 <!ENTITY openAttachmentCmd.label "Vedlegg">
@@ -66,7 +63,6 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Forhåndsvis side">
 <!ENTITY printPreviewCmd.accesskey "F">
-<!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "Utskriftsformat …">
 <!ENTITY printSetupCmd.accesskey "o">
 
@@ -130,8 +126,6 @@
 <!ENTITY messagePaneWide.accesskey "B">
 <!ENTITY messagePaneVertical.label "Vertikal visning">
 <!ENTITY messagePaneVertical.accesskey "V">
-<!ENTITY threadPaneWide.label "Bred listevisning">
-<!ENTITY threadPaneWide.accesskey "r">
 <!ENTITY showMessageCmd.label "Meldingsvindu">
 <!ENTITY showMessageCmd.accesskey "v">
 
@@ -193,8 +187,6 @@
 <!ENTITY threads.accesskey "T">
 <!ENTITY allMsgsCmd.label "Alle">
 <!ENTITY allMsgsCmd.accesskey "A">
-<!ENTITY expandOrCollapseMenu.label "Utvid/slå sammen">
-<!ENTITY expandOrCollapseMenu.accesskey "t">
 <!ENTITY expandAllThreadsCmd.label "Utvid alle">
 <!ENTITY expandAllThreadsCmd.accesskey "U">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -258,9 +250,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.key "u">
 
 <!-- Search Menu -->
-<!ENTITY searchMenu.label "Søk">
-<!ENTITY searchMenu.accesskey "S">
-
 <!ENTITY findMenu.label "Søk">
 <!ENTITY findMenu.accesskey "S">
 <!ENTITY findCmd.label "Søk i denne meldingen …">
@@ -383,8 +372,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsReadCmd.label "Som lest">
 <!ENTITY markAsReadCmd.accesskey "l">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "Som ulest">
-<!ENTITY markAsUnreadCmd.accesskey "u">
 <!ENTITY markThreadAsReadCmd.label "Tråd som lest">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -411,7 +398,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "Vindu">
-<!ENTITY windowMenu.accesskey "V">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Verktøy">
@@ -456,7 +442,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY printButton.label "Skriv ut">
 <!ENTITY stopButton.label "Stopp">
 <!ENTITY throbberItem.title "Aktivitetsindikator">
-<!ENTITY updatesItem.title  "Oppdateringer">
 <!ENTITY junkButton.label "Uønsket">
 <!ENTITY notJunkButton.label "Ønsket">
 <!ENTITY addressBookButton.label "Adressebok">
@@ -468,7 +453,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Avansert meldingssøk">
-<!ENTITY clearButton.tooltip "Tøm søkekriteriene og vis alle meldinger">
 <!ENTITY getMsgButton.tooltip "Hent nye meldinger">
 <!ENTITY getAllNewMsgCmd.label "Hent alle nye meldinger">
 <!ENTITY getAllNewMsgCmd.accesskey "e">
@@ -542,8 +526,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Navn eller e-postadresse inneholder:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
-<!ENTITY clearButton.label "Tøm">
-<!ENTITY clearButton.accesskey "T">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Emne">
@@ -566,7 +548,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Størrelse">
 <!ENTITY junkStatusColumn.label "Uønsket-status">
-<!ENTITY linesColumn.label "Linjer">
 <!ENTITY unreadColumn.label "Ulest">
 <!ENTITY totalColumn.label "Totalt">
 <!ENTITY readColumn.label "Lest">
@@ -627,8 +608,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrint.accesskey "u">
 <!ENTITY contextPrintPreview.label "Forhåndsvisning">
 <!ENTITY contextPrintPreview.accesskey "v">
-<!ENTITY contextDelete.label "Slett">
-<!ENTITY contextDelete.accesskey "S">
 
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "Uønsket e-post">
@@ -662,8 +641,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY CopyEmailAddress.accesskey "K">
 <!ENTITY CreateFilterFrom.label "Opprett filter fra …">
 <!ENTITY CreateFilterFrom.accesskey "O">
-<!ENTITY BlockAddress.label "Blokker adresse">
-<!ENTITY BlockAddress.accesskey "B">
 <!ENTITY reportPhishingURL.label "Rapporter e-postsvindel">
 <!ENTITY reportPhishingURL.accesskey "o">
 

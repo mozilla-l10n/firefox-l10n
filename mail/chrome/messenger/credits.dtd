@@ -1,8 +1,6 @@
 <!ENTITY credit.title     "&brandFullName; anerkjennelser">
 <!ENTITY brandMotto       "Thunderbirds Are Go!">
 <!ENTITY credit.leads     "Hovedingeniører">
-<!ENTITY credit.core      "Kjerneteam">
-<!ENTITY credit.gecko     "Gecko visningsmotor">
 <!ENTITY credit.thanks    "Spesielt takk til">
 
 <!-- localization credits look like this: -->
@@ -12,19 +10,8 @@
 -->
 <!ENTITY credit.translation "<h3>Norsk oversettelse</h3><ul><li>Pascual Strømsnæs</li><li>Vidar Braut Haarr</li><li>Håvar Henriksen</li><li>Reidar Djupvik</li><li>Jan-Espen Pettersen</li><li>Håvard Mork</li><li>Lasse Marøen</li><li>Martin Joné</li><li>Morten Liljegren</li></ul>">
 
-<!ENTITY credit.visuals     "Koordinering av visuelt design">
-<!ENTITY credit.theme       "Tema-design">
-<!ENTITY credit.brand       "Merkevareidentitet">
-<!ENTITY credit.web         "Nettsideutvikling">
-<!ENTITY credit.update      "Mozilla Update">
-<!ENTITY credit.qalead      "Ledelse av kvalitetssikring">
-<!ENTITY credit.qa          "Kvalitetssikring">
-<!ENTITY credit.build       "Utgivelser">
-<!ENTITY credit.infra       "Infrastruktur-støtte">
-<!ENTITY credit.support     "Støtteressurser">
-<!ENTITY credit.manage      "Prosjektledelse">
-<!ENTITY credit.marketleads "Markedsføringsledelse">
-<!ENTITY credit.market      "Markedsføring">
-<!ENTITY credit.creators    "Laget av">
-<!ENTITY credit.memory      "Til minne av">
+<!ENTITY credit.theme          "Tema-design">
+<!ENTITY credit.qa             "Kvalitetssikring">
+<!ENTITY credit.build          "Utgivelser">
+<!ENTITY credit.memory         "Til minne av">
 <!ENTITY credit.poweredByGecko "Bruker Gecko&trade;-teknologi">
