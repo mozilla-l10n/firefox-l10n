@@ -19,6 +19,6 @@
 <!ENTITY itemOfflineApps.accesskey    "O">
 <!ENTITY itemDownloads.label          "下載記錄">
 <!ENTITY itemDownloads.accesskey      "D">
-<!ENTITY itemSessions.label           "已認證連線">
-<!ENTITY itemSessions.accesskey       "S">
+<!ENTITY itemActiveLogins.label       "Active Logins">
+<!ENTITY itemActiveLogins.accesskey   "L">
 <!ENTITY window.width                 "30em">

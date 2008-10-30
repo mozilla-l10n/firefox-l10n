@@ -233,8 +233,8 @@
 <!ENTITY viewPageInfoCmd.accesskey    "i">
 <!ENTITY viewFrameInfoCmd.label       "檢視頁框資訊">
 <!ENTITY viewFrameInfoCmd.accesskey   "i">
-<!ENTITY showImageCmd.label           "顯示圖片">
-<!ENTITY showImageCmd.accesskey       "S">
+<!ENTITY reloadImageCmd.label         "重新載入圖片">
+<!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "檢視圖片">
 <!ENTITY viewImageCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "檢視背景圖片">
