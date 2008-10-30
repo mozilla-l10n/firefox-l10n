@@ -679,9 +679,9 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY preferencesCmdMac.modifiers "accel">
 <!ENTITY servicesMenuMac.label "Services">
 <!ENTITY hideThisAppCmdMac.label "Masquer &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "M">
+<!ENTITY hideThisAppCmdMac.commandkey "H">
 <!ENTITY hideThisAppCmdMac.modifiers "accel">
 <!ENTITY hideOtherAppsCmdMac.label "Masquer les autres">
-<!ENTITY hideOtherAppsCmdMac.commandkey "M">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
 <!ENTITY showAllAppsCmdMac.label "Tout afficher">
