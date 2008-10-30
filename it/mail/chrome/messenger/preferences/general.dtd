@@ -20,7 +20,6 @@
 <!ENTITY showAnimatedAlert.accesskey "M">
 <!ENTITY customizeMailAlert.label "Personalizza…">
 <!ENTITY customizeMailAlert.accesskey "z">
-<!ENTITY soundNotification1.caption "Suono">
 <!ENTITY play.label "Ascolta">
 <!ENTITY play.accesskey "A">
 <!ENTITY systemsound.label "Suono predefinito di sistema per nuova posta">

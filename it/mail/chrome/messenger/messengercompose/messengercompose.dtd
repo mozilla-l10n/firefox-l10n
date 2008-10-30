@@ -69,7 +69,6 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "M">
 <!ENTITY deleteCmd.label "Elimina">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "E">
 <!ENTITY selectAllCmd.label "Seleziona tutto">
 <!ENTITY selectAllCmd.key "A">
@@ -90,7 +89,6 @@
 <!ENTITY viewToolbarsMenuNew.label "Barre degli strumenti">
 <!ENTITY viewToolbarsMenuNew.accesskey "T">
 <!ENTITY showCompositionToolbarCmd.label "Barra strumenti di composizione">
-<!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "Barra strumenti di formattazione">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Barra di stato">
@@ -155,7 +153,6 @@
 <!ENTITY accountManagerCmd.accesskey "n">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
 <!ENTITY preferencesCmd.label "Opzioni…">
-<!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferenze">
 <!ENTITY preferencesCmdUnix.accesskey "p">
@@ -192,9 +189,6 @@
 <!ENTITY subject.accesskey "g">
 <!ENTITY attachments.label "Allegati:">
 <!ENTITY attachments.accesskey "g">
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "C">
-<!ENTITY formatToolbar.underlineChar "S">
 <!ENTITY SmileButton.tooltip "Inserisce una faccina">
 <!ENTITY smiley1Cmd.label "Sorriso">
 <!ENTITY smiley2Cmd.label "Broncio">

@@ -19,8 +19,6 @@
 <!ENTITY reuseExpRadio0.accesskey "v">
 <!ENTITY reuseExpRadio1.label "sempre nella stessa finestra">
 <!ENTITY reuseExpRadio1.accesskey "s">
-<!ENTITY reuseExpRadio2.label "in una nuova scheda">
-<!ENTITY reuseExpRadio2.accesskey "i">
 <!ENTITY configEditDesc.label "Impostazioni avanzate">
 <!ENTITY configEdit.label "Editor di configurazione…">
 <!ENTITY configEdit.accesskey "g">
