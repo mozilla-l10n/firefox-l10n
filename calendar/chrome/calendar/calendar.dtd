@@ -46,16 +46,6 @@
 <!ENTITY calendar.calendar.label     "Aginda">
 <!ENTITY calendar.calendar.accesskey "A">
 
-
-<!ENTITY calendar.flat.topbar.choosedate       "Gean nei datum" >
-<!ENTITY calendar.flat.topbar.dayview          "Dei-oersjoch" >
-<!ENTITY calendar.dayview.accesskey            "D" >
-<!ENTITY calendar.flat.topbar.weekview         "Wyk-oersjoch" >
-<!ENTITY calendar.weekview.accesskey           "k" >
-<!ENTITY calendar.flat.topbar.monthview        "Moanne-oersjoch" >
-<!ENTITY calendar.monthview.accesskey          "M" >
-<!ENTITY calendar.flat.topbar.multiweekview    "Oersicht mear wiken" >
-<!ENTITY calendar.multiweekview.accesskey      "e" >
 <!ENTITY calendar.dayView.key                  "1" >
 <!ENTITY calendar.weekView.key                 "2" >
 <!ENTITY calendar.multiweekView.key            "3" >
@@ -63,14 +53,11 @@
 
 <!ENTITY calendar.newtask.button.tooltip          "In nije taak meitsje" >
 <!ENTITY calendar.newevent.button.tooltip         "In nij agindabarren meitsje" >
-<!ENTITY calendar.delete.button.tooltip           "Selektearre barren fuortsmite" >
 <!ENTITY calendar.edit.button.tooltip             "Selektearre barren bewurkje" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Taken" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Foltôge taken toane">
 
-<!ENTITY calendar.calendartab.label "Datum">
-<!ENTITY calendar.listofcalendarstab.label "Aginda’s">
 <!ENTITY calendar.today.button.label       "Hjoed">
 <!ENTITY calendar.tomorrow.button.label       "Moarn">
 <!ENTITY calendar.soon.button.label           "Ynkoarten">
@@ -98,11 +85,9 @@
 <!ENTITY calendar.unifinder.tree.calendarname.label  "Agindanamme">
 <!ENTITY calendar.unifinder.tree.duration.label      "Ferrint nei">
 <!ENTITY calendar.unifinder.close.tooltip            "Barrens sykje en barrenslist slute">
-<!ENTITY calendar.find.key  "F">
 
 <!ENTITY calendar.today.button.tooltip            "Nei hjoed gean" >
 <!ENTITY calendar.todaypane.button.tooltip        "Finster Hjoed toane" >
-<!ENTITY calendar.choosedate.button.tooltip       "Datum kieze om nei ta te gean" >
 <!ENTITY calendar.unifinder.button.tooltip        "Barrens sykje en toane" >
 
 <!ENTITY calendar.day.button.tooltip            "Nei dei-oersjoch oerskeakelje" >
@@ -122,18 +107,6 @@
 <!ENTITY calendar.delete.button.label           "Fuortsmite" >
 <!ENTITY calendar.edit.button.label             "Bewurkje" >
 
-<!ENTITY calendar.choosedate.button.label       "Datum kieze" >
-
-<!ENTITY calendar.cut.button.tooltip            "Knippe" >
-<!ENTITY calendar.copy.button.tooltip           "Kopiearje" >
-<!ENTITY calendar.paste.button.tooltip          "Plakke" >
-<!ENTITY calendar.print.button.tooltip          "Aginda ôfdrukke" >
-
-<!ENTITY calendar.cut.button.label              "Knippe" >
-<!ENTITY calendar.copy.button.label             "Kopiearje" >
-<!ENTITY calendar.paste.button.label            "Plakke" >
-<!ENTITY calendar.print.button.label            "Ofdrukke" >
-
 <!ENTITY calendar.import.button.tooltip            "Barrens ymportearje út in lokaal bestân" >
 <!ENTITY calendar.export.button.tooltip            "Barrens eksportearje nei in lokaal bestân" >
 <!ENTITY calendar.subscribe.button.tooltip         "Oanmelde by in agindabestân op in oare masine" >
@@ -146,9 +119,6 @@
 <!ENTITY calendar.subscribe.button.label           "Oanmelde" >
 <!ENTITY calendar.publish.button.label             "Publisearje" >
 <!ENTITY calendar.unifinder.button.label           "Barrens sykje" >
-
-<!ENTITY calendar.remotereload.button.label   "Ferfarskje" >
-<!ENTITY calendar.remotereload.button.tooltip   "Alle aginda’s op ôfstân ferfarskje" >
 
 <!ENTITY calendar.day.button.label              "Dei" >
 <!ENTITY calendar.week.button.label             "Wike" >
@@ -164,17 +134,7 @@
 <!ENTITY calendar.orientation.label "Oersicht draaie" >
 <!ENTITY calendar.orientation.accesskey "o" >
 
-<!ENTITY calendar.menu.options.close.key        "W">
-
 <!ENTITY calendar.search.options.searchfor " mei">
-
-<!ENTITY calendar.menu.numberofweeks.label     "Oantal wiken" >
-<!ENTITY calendar.menu.numberofweeks.accesskey "A" >
-<!ENTITY calendar.menu.numberofweeks.2      "2 wiken" >
-<!ENTITY calendar.menu.numberofweeks.3      "3 wiken" >
-<!ENTITY calendar.menu.numberofweeks.4      "4 wiken" >
-<!ENTITY calendar.menu.numberofweeks.5      "5 wiken" >
-<!ENTITY calendar.menu.numberofweeks.6      "6 wiken" >
 
 <!ENTITY calendar.list.header.label                 "Aginda">
 
@@ -207,18 +167,9 @@
 <!ENTITY calendar.task.category.button.tooltip  "Taken kategorisearje">
 <!ENTITY calendar.task.complete.button.tooltip  "Selektearre taken as foltôge markearje">
 <!ENTITY calendar.task.priority.button.tooltip  "De prioriteit wizigje">
-<!ENTITY calendar.task.delete.button.tooltip    "De selektearre taak fuortsmite">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Dokumint: Dien">
-
-<!-- customizable toolbars -->
-<!ENTITY calendar.context.customize.label             "Oanpasse…">
-<!ENTITY calendar.context.customize.accesskey         "O">
-<!ENTITY calendar.menu.customize.label                "Arkbalke oanpasse…">
-<!ENTITY calendar.menu.customize.accesskey            "A">
-<!ENTITY calendar.maintoolbar.name                    "Haadarkbalke">
-<!ENTITY calendar.maintoolbar.accesskey               "H">
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label      "Iepenje">
@@ -361,10 +312,6 @@
 <!ENTITY calendarproperties.cache.label    "Buffer (EKSPERIMENTEEL, werstart nedich)">
 <!ENTITY calendarproperties.enabled.label  "Dizze aginda ynskeakelje">
 
-<!-- Sunbird Help -->
-<!ENTITY calendar.help.label               "Helpynhâld">
-<!ENTITY calendar.help.accesskey           "H">
-
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "Aginda publisearje">
 <!ENTITY calendar.publish.url.label                 "Publikaasje-URL">
@@ -393,7 +340,3 @@
 <!ENTITY calendar.error.number "Flaternûmer:">
 <!ENTITY calendar.error.description "Beskriuwing:">
 <!ENTITY calendar.error.title "Der is in flater bard">
-
-
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">
