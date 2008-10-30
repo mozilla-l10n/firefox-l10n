@@ -37,26 +37,23 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY aboutDialog.title "About &brandFullName;">
-<!ENTITY copyright.label "Credits">
-<!ENTITY copyright.accesskey "C">
-<!ENTITY aboutLink.label "&lt; About &brandFullName;">
-<!ENTITY aboutLink.accesskey "A">
-<!ENTITY aboutVersion "version">
-<!ENTITY copyrightText "&#169;1998-2008 Contributors. All rights 
-reserved. Mozilla Sunbird, Sunbird, and the 
-Sunbird logos are trademarks of the Mozilla 
-Foundation. All rights reserved.">
+<!ENTITY copyright.label "Kredituak">
+<!ENTITY copyright.accesskey "K">
+<!ENTITY aboutLink.label "&lt; &brandFullName;(r)i buruz">
+<!ENTITY aboutLink.accesskey "B">
+<!ENTITY aboutVersion "bertsioa">
+<!ENTITY copyrightText "&#169;1998-2008 Contributors. All rights reserved. Mozilla Sunbird, Sunbird, and the Sunbird logos are trademarks of the Mozilla Foundation. All rights reserved.">
 
-<!ENTITY brandMotto "it's about time">
-<!ENTITY credit.thanks "Special Thanks To">
+<!ENTITY brandMotto "Ordua da">
+<!ENTITY credit.thanks "Esker Onak">
 <!-- localization credits look like this: -->
 <!--
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
 
-<!ENTITY credit.translation "">
+<!ENTITY credit.translation "Librezale.org">
 
-<!ENTITY credit.powered "Powered by">
-<!ENTITY license.and "and">
+<!ENTITY credit.powered "Honetan oinarritua">
+<!ENTITY license.and "eta">
 <!ENTITY cmdClose.macKey "W">

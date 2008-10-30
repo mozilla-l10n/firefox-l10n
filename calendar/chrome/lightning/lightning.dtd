@@ -76,8 +76,8 @@
 <!ENTITY lightning.toolbar.task.accesskey "Z">
 <!-- Toolbar write button -->
 
-<!ENTITY lightning.toolbar.newevent.label "Event">
-<!ENTITY lightning.toolbar.newtask.label "Task">
+<!ENTITY lightning.toolbar.newevent.label "Gertaera">
+<!ENTITY lightning.toolbar.newtask.label "Zeregina">
 <!-- Messenger Toolbar -->
 
 <!ENTITY lightning.toolbar.day.label "Egun">
@@ -92,7 +92,7 @@
 
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "Ikusi zereginak gaur panelean">
 <!ENTITY lightning.calendarproperties.showtasks.label "Ikusi zereginak gaur panelean eta ataza moduan">
-<!ENTITY lightning.calendarproperties.email.label "E-Mail:">
+<!ENTITY lightning.calendarproperties.email.label "Eposta:">
 <!-- iMIP Bar (meeting support) -->
 
 <!ENTITY lightning.imipbar.description "Mezu honek gertaera bati gonbidapena du.">
@@ -102,15 +102,15 @@
 <!ENTITY lightning.keys.todo.new "D">
 <!-- Account Central page -->
 
-<!ENTITY lightning.acctCentral.newCalendar.label "Create a new calendar">
+<!ENTITY lightning.acctCentral.newCalendar.label "Sortu egutegi berria">
 <!-- today-pane-specific -->
 
-<!ENTITY todaypane.showMinimonth.label "Show Mini-Month">
+<!ENTITY todaypane.showMinimonth.label "Ikusi mini-hilabetea">
 <!ENTITY todaypane.showMinimonth.accesskey "M">
-<!ENTITY todaypane.showMiniday.label "Show Mini-Day">
-<!ENTITY todaypane.showMiniday.accesskey "d">
-<!ENTITY todaypane.showNone.label "Show None">
-<!ENTITY todaypane.showNone.accesskey "N">
-<!ENTITY todaypane.showTodayPane.label "Show Today Pane">
-<!ENTITY todaypane.showTodayPane.accesskey "o">
-<!ENTITY todaypane.statusButton.label "Today Pane">
+<!ENTITY todaypane.showMiniday.label "Ikusi mini-eguna">
+<!ENTITY todaypane.showMiniday.accesskey "e">
+<!ENTITY todaypane.showNone.label "Ikusi batez">
+<!ENTITY todaypane.showNone.accesskey "B">
+<!ENTITY todaypane.showTodayPane.label "Ikusi gaurko panela">
+<!ENTITY todaypane.showTodayPane.accesskey "u">
+<!ENTITY todaypane.statusButton.label "Gaurko panela">

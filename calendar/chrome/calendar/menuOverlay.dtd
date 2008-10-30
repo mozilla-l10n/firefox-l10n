@@ -42,15 +42,15 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Event Menu -->
 
-<!ENTITY event.new.event "Gertaera Berria...">
+<!ENTITY event.new.event "Gertaera berria...">
 <!ENTITY event.new.event.key "N">
 <!ENTITY event.new.event.accesskey "B">
 
-<!ENTITY event.new.todo "Zeregin Berria...">
+<!ENTITY event.new.todo "Zeregin berria...">
 <!ENTITY event.new.todo.key "T">
 <!ENTITY event.new.todo.accesskey "Z">
 
-<!ENTITY calendar.new.server.label "Egutegi Fitxategi Berria...">
+<!ENTITY calendar.new.server.label "Egutegi fitxategi berria...">
 <!ENTITY calendar.new.server.key "L">
 <!ENTITY calendar.new.server.accesskey "f">
 

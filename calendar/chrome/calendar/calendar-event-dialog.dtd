@@ -78,8 +78,8 @@
 <!ENTITY event.menu.file.close.accesskey "T">
 <!ENTITY event.menu.file.save.label "Gorde">
 <!ENTITY event.menu.file.save.accesskey "R">
-<!ENTITY event.menu.file.page.setup.label "Page Setup">
-<!ENTITY event.menu.file.page.setup.accesskey "u">
+<!ENTITY event.menu.file.page.setup.label "Orriaren konfigurazioa">
+<!ENTITY event.menu.file.page.setup.accesskey "k">
 <!ENTITY event.menu.file.print.label "Inprimatu">
 <!ENTITY event.menu.file.print.accesskey "P">
 <!ENTITY event.menu.file.exit.label "Irten">
@@ -97,7 +97,7 @@
 <!ENTITY event.menu.edit.copy.accesskey "K">
 <!ENTITY event.menu.edit.paste.label "Itsatsi">
 <!ENTITY event.menu.edit.paste.accesskey "I">
-<!ENTITY event.menu.edit.select.all.label "Select All">
+<!ENTITY event.menu.edit.select.all.label "Hautatu dena">
 <!ENTITY event.menu.edit.select.all.accesskey "A">
 
 <!ENTITY event.menu.view.label "Ikusi">
@@ -119,10 +119,10 @@
 <!ENTITY event.menu.options.attendees.accesskey "G">
 <!ENTITY event.menu.options.spellcheck.label "Egiaztaketa ortografikoa…">
 <!ENTITY event.menu.options.spellcheck.accesskey "z">
-<!ENTITY event.menu.options.inline.spellcheck.label "Spell Check As You Type">
-<!ENTITY event.menu.options.inline.spellcheck.accesskey "S">
-<!ENTITY event.menu.options.link.label "Add Link…">
-<!ENTITY event.menu.options.link.accesskey "L">
+<!ENTITY event.menu.options.inline.spellcheck.label "Zuzendu idazten duzun bitartean">
+<!ENTITY event.menu.options.inline.spellcheck.accesskey "Z">
+<!ENTITY event.menu.options.link.label "Esteka gehitu...">
+<!ENTITY event.menu.options.link.accesskey "E">
 <!ENTITY event.menu.options.timezone.label "Ordu-zonaldea">
 <!ENTITY event.menu.options.timezone.accesskey "z">
 <!ENTITY event.menu.options.priority2.label "Lehentasuna">
@@ -137,14 +137,14 @@
 <!ENTITY event.menu.options.priority.high.accesskey "A">
 <!ENTITY event.menu.options.privacy.label "Pribatutasuna">
 <!ENTITY event.menu.options.privacy.accesskey "P">
-<!ENTITY event.menu.options.privacy.public.label "Public Event">
+<!ENTITY event.menu.options.privacy.public.label "Gertaera publikoa">
 <!ENTITY event.menu.options.privacy.public.accesskey "u">
-<!ENTITY event.menu.options.privacy.confidential.label "Show Time and Date Only">
-<!ENTITY event.menu.options.privacy.confidential.accesskey "S">
-<!ENTITY event.menu.options.privacy.private.label "Private Event">
+<!ENTITY event.menu.options.privacy.confidential.label "Erakutsi ordua eta data bakarrik">
+<!ENTITY event.menu.options.privacy.confidential.accesskey "E">
+<!ENTITY event.menu.options.privacy.private.label "Gertaera pribatua">
 <!ENTITY event.menu.options.privacy.private.accesskey "r">
-<!ENTITY event.menu.options.show.time.label "Show Time as">
-<!ENTITY event.menu.options.show.time.accesskey "T">
+<!ENTITY event.menu.options.show.time.label "Ordua honela erakutsi:">
+<!ENTITY event.menu.options.show.time.accesskey "O">
 <!ENTITY event.menu.options.show.time.busy.label "Okupatuta">
 <!ENTITY event.menu.options.show.time.busy.accesskey "O">
 <!ENTITY event.menu.options.show.time.free.label "Libre">
@@ -152,19 +152,19 @@
 
 <!ENTITY event.help.label "Laguntza">
 <!ENTITY event.help.accesskey "L">
-<!ENTITY event.help.release.notes.label "Release Notes">
-<!ENTITY event.help.release.notes.accesskey "R">
-<!ENTITY event.help.help.label "&brandShortName; Help">
-<!ENTITY event.help.help.accesskey "H">
-<!ENTITY event.help.about.label "About &brandShortName;">
-<!ENTITY event.help.about.accesskey "A">
+<!ENTITY event.help.release.notes.label "Bertsio oharrak">
+<!ENTITY event.help.release.notes.accesskey "B">
+<!ENTITY event.help.help.label "&brandShortName; laguntza">
+<!ENTITY event.help.help.accesskey "L">
+<!ENTITY event.help.about.label "&brandShortName;(r)i buruz">
+<!ENTITY event.help.about.accesskey "B">
 
 <!ENTITY event.invite.attendees.label "Invite Attendees…">
 <!ENTITY event.invite.attendees.accesskey "I">
-<!ENTITY event.email.attendees.label "Compose E-Mail to All Attendees…">
-<!ENTITY event.email.attendees.accesskey "A">
-<!ENTITY event.email.tentative.attendees.label "Compose E-Mail to Undecided Attendees…">
-<!ENTITY event.email.tentative.attendees.accesskey "U">
+<!ENTITY event.email.attendees.label "Partaide guztientzat E-posta idatzi...">
+<!ENTITY event.email.attendees.accesskey "G">
+<!ENTITY event.email.tentative.attendees.label "Erabaki gabeko partaideei E-posta idatzi...">
+<!ENTITY event.email.tentative.attendees.accesskey "E">
 <!-- Toolbar -->
 
 <!ENTITY event.toolbar.save.label "Gorde eta itxi">
@@ -174,41 +174,41 @@
 <!ENTITY event.toolbar.attachments.label "Erantsi">
 <!-- Main page -->
 
-<!ENTITY event.title.textbox.label "Title:">
-<!ENTITY event.title.textbox.accesskey "T">
-<!ENTITY event.location.label "Location:">
+<!ENTITY event.title.textbox.label "Izenburua:">
+<!ENTITY event.title.textbox.accesskey "I">
+<!ENTITY event.location.label "Helbidea:">
 <!ENTITY event.location.accesskey "L">
-<!ENTITY event.categories.label "Category:">
-<!ENTITY event.categories.accesskey "y">
-<!ENTITY event.calendar.label "Calendar:">
-<!ENTITY event.calendar.accesskey "C">
+<!ENTITY event.categories.label "Kategoria:">
+<!ENTITY event.categories.accesskey "k">
+<!ENTITY event.calendar.label "Egutegia:">
+<!ENTITY event.calendar.accesskey "E">
 <!ENTITY event.attendees.label "Partaideak:">
 <!ENTITY event.attendees.accesskey "I">
-<!ENTITY event.alldayevent.label "All day Event">
-<!ENTITY event.alldayevent.accesskey "d">
-<!ENTITY event.from.label "Start:">
-<!ENTITY event.from.accesskey "S">
+<!ENTITY event.alldayevent.label "Egun osoko gertaera">
+<!ENTITY event.alldayevent.accesskey "o">
+<!ENTITY event.from.label "Hasi:">
+<!ENTITY event.from.accesskey "H">
 <!ENTITY task.from.label "Hasiera:">
 <!ENTITY task.from.accesskey "B">
-<!ENTITY event.to.label "End:">
-<!ENTITY event.to.accesskey "n">
-<!ENTITY task.to.label "Due Date:">
-<!ENTITY task.to.accesskey "u">
-<!ENTITY task.status.label "Status:">
-<!ENTITY task.status.accesskey "a">
-<!ENTITY event.repeat.label "Repeat:">
+<!ENTITY event.to.label "Amaiera:">
+<!ENTITY event.to.accesskey "a">
+<!ENTITY task.to.label "Amaiera data:">
+<!ENTITY task.to.accesskey "d">
+<!ENTITY task.status.label "Egoera:">
+<!ENTITY task.status.accesskey "e">
+<!ENTITY event.repeat.label "Errepikatu:">
 <!ENTITY event.repeat.accesskey "R">
-<!ENTITY event.reminder.label "Reminder:">
-<!ENTITY event.reminder.accesskey "m">
-<!ENTITY event.description.label "Description:">
-<!ENTITY event.description.accesskey "p">
-<!ENTITY event.attachments.label "Attachments:">
-<!ENTITY event.attachments.accesskey "h">
+<!ENTITY event.reminder.label "Gogorarazlea:">
+<!ENTITY event.reminder.accesskey "g">
+<!ENTITY event.description.label "Deskribapena:">
+<!ENTITY event.description.accesskey "d">
+<!ENTITY event.attachments.label "Eranskinak:">
+<!ENTITY event.attachments.accesskey "r">
 <!ENTITY event.attachments.popup.remove.label "Kendu">
 <!ENTITY event.attachments.popup.remove.accesskey "K">
 <!ENTITY event.attachments.popup.open.label "Ireki">
 <!ENTITY event.attachments.popup.open.accesskey "I">
-<!ENTITY event.attachments.popup.removeAll.label "Remove All">
+<!ENTITY event.attachments.popup.removeAll.label "Kendu denak">
 <!ENTITY event.attachments.popup.removeAll.accesskey "A">
 <!ENTITY event.attachments.popup.attachPage.label "Attach Webpage…">
 <!ENTITY event.attachments.popup.attachPage.accesskey "W">
@@ -290,7 +290,8 @@
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
 
-<!ENTITY event.recurrence.pattern.yearly.of.label "">
+<!ENTITY event.recurrence.pattern.yearly.of.label "_: event.recurrence.pattern.yearly.of.label
+">
 
 <!ENTITY event.recurrence.pattern.yearly.month.1.label "urtarrila">
 <!ENTITY event.recurrence.pattern.yearly.month.2.label "otsaila">
