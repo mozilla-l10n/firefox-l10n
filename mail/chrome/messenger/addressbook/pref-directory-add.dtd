@@ -12,8 +12,8 @@
 <!ENTITY directorySecure.accesskey "ה">
 <!ENTITY directoryLogin.label "קשור שם נבחר:">
 <!ENTITY directoryLogin.accesskey "ב">
-<!ENTITY advancedOptionsButton.label "אפשרויות מתקדמות">
-<!ENTITY advancedOptionsButton.accesskey "a">
+<!-- ### ENTITY advancedOptionsButton.label "אפשרויות מתקדמות" -->
+<!-- ### ENTITY advancedOptionsButton.accesskey "a" -->
 <!ENTITY General.tab "כללי">
 <!ENTITY Offline.tab "לא־מקוון">
 <!ENTITY Advanced.tab "מתקדם">

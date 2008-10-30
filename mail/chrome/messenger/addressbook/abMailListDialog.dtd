@@ -5,7 +5,7 @@
 <!ENTITY ListNickName.label "כינוי רשימה:">
 <!ENTITY ListDescription.label "תיאור:">
 <!ENTITY AddressTitle.label "הקלד כתובות דוא״ל כדי להוסיפן לרשימת הדיוור:">
-<!ENTITY RemoveButton.label "הסרה">
+<!-- ### ENTITY RemoveButton.label "הסרה" -->
 <!ENTITY UpButton.label "הזז למעלה">
 <!ENTITY DownButton.label "הזז למטה">
 <!ENTITY addToAddressBook.accesskey "A">

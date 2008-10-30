@@ -16,17 +16,17 @@
 <!ENTITY fullnameLabel.accesskey "Y">
 <!ENTITY emailLabel.label "כתובת דוא״ל:">
 <!ENTITY emailLabel.accesskey "E">
-<!ENTITY emailDesc.label "הכנס את כתובת הדוא״ל שלך; זו הכתובת בה אחרים ישתמשו כדי לשלוח לך דוא״ל">
-<!ENTITY emailExample.label "(לדוגמה: user@example.net).">
+<!-- ### ENTITY emailDesc.label "הכנס את כתובת הדוא״ל שלך; זו הכתובת בה אחרים ישתמשו כדי לשלוח לך דוא״ל" -->
+<!-- ### ENTITY emailExample.label "(לדוגמה: user@example.net)." -->
 <!ENTITY serverTitle.label "מידע על השרת">
-<!ENTITY incomingServerTitle.label "שרת נכנס">
+<!-- ### ENTITY incomingServerTitle.label "שרת נכנס" -->
 <!ENTITY incomingServerTypeDesc.label "בחר את הסוג של שרת נכנס בו אתה משתמש.">
-<!ENTITY incomingServerTypeLabel.label "סוג שרת:">
+<!-- ### ENTITY incomingServerTypeLabel.label "סוג שרת:" -->
 <!ENTITY incomingServerNameDesc.label "הכנס את שם השרת הנכנס שלך (לדוגמה, &quot;mail.example.net&quot;).">
 <!ENTITY incomingServerLabel.label "שרת נכנס:">
 <!ENTITY incomingServerLabel.accesskey "S">
 <!ENTITY newsServerNameDesc.label "הכנס את שם שרת קבוצות הדיון (NNTP) שלך (לדוגמה, &quot;news.example.net&quot;).">
-<!ENTITY smtpServerTitle.label "שרת יוצא (SMTP)">
+<!-- ### ENTITY smtpServerTitle.label "שרת יוצא (SMTP)" -->
 <!ENTITY smtpServerDesc.label "הכנס את שם השרת היוצא (SMTP) שלך (לדוגמה, &quot;smtp.example.net&quot;).">
 <!ENTITY smtpServerLabel.label "שרת יוצא:">
 <!ENTITY smtpServerLabel.accesskey "O">
@@ -36,7 +36,7 @@
 <!ENTITY imapType.accesskey "I">
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY nntpType.label "שרת קבוצות דיון">
+<!-- ### ENTITY nntpType.label "שרת קבוצות דיון" -->
 <!ENTITY haveSmtp1.prefix "יעשה שימוש בשרת היוצא (SMTP) הנוכחי שלך, &quot;">
 <!ENTITY haveSmtp1.suffix "&quot;,. ניתן לשנות את הגדרות השרת היוצא על־ידי בחירה בהגדרות חשבון מהתפריט כלים.">
 <!ENTITY loginTitle.label "שמות משתמש">
@@ -56,7 +56,7 @@
 &quot;, זהה לשרת הנכנס שלך; יעשה שימוש בשם המשתמש הנכנס שלך כדי לגשת אליו. ניתן לשנות את הגדרות השרת היוצא על־ידי בחירה בהגדרות חשבון מהתפריט כלים.">
 <!ENTITY accnameTitle.label "שם החשבון">
 <!ENTITY accnameDesc.label "הכנס את השם שבעזרתו תרצה להתייחס לחשבון זה (לדוגמה, &quot;חשבון עבודה&quot;, &quot;חשבון בית&quot;, &quot;חשבון קבוצות דיון&quot;)">
-<!ENTITY accnameExample.label "לדוגמה, חשבון עבודה, חשבון בית או חשבון קבוצות דיון">
+<!-- ### ENTITY accnameExample.label "לדוגמה, חשבון עבודה, חשבון בית או חשבון קבוצות דיון" -->
 <!ENTITY accnameLabel.label "שם החשבון:">
 <!ENTITY accnameLabel.accesskey "A">
 <!ENTITY completionTitle.label "ברכותינו!">
