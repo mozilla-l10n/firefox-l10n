@@ -39,7 +39,7 @@
   -->
 
 
-<!ENTITY connectionsDialog.title "Konexio Ezarpenak">
+<!ENTITY connectionsDialog.title "Konexio ezarpenak">
 <!ENTITY window.width "45em">
 <!ENTITY window.macWidth "45em">
 
@@ -64,10 +64,10 @@
 <!ENTITY ssl.accesskey "S">
 <!ENTITY socks.label "SOCKS Ostalaria:">
 <!ENTITY socks.accesskey "C">
-<!ENTITY socks4.label "SOCKS v4">
+<!ENTITY socks4.label "SOCKS 4b">
 <!ENTITY socks4.accesskey "K">
-<!ENTITY socks5.label "SOCKS v5">
-<!ENTITY socks5.accesskey "v">
+<!ENTITY socks5.label "SOCKS 5b">
+<!ENTITY socks5.accesskey "5">
 <!ENTITY port.label "Ataka:">
 <!ENTITY HTTPport.accesskey "A">
 <!ENTITY SSLport.accesskey "t">

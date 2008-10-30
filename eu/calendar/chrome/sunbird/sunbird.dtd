@@ -34,26 +34,26 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY sunbird.choosedate.button.tooltip "Choose date to go to">
-<!ENTITY sunbird.cut.button.tooltip "Cut">
-<!ENTITY sunbird.copy.button.tooltip "Copy">
-<!ENTITY sunbird.paste.button.tooltip "Paste">
-<!ENTITY sunbird.print.button.tooltip "Print calendar">
-<!ENTITY sunbird.delete.button.tooltip "Delete selected event">
-<!ENTITY sunbird.remotereload.button.tooltip "Reload all remote calendars">
+<!ENTITY sunbird.choosedate.button.tooltip "Joateko data hautatu">
+<!ENTITY sunbird.cut.button.tooltip "Ebaki">
+<!ENTITY sunbird.copy.button.tooltip "Kopiatu">
+<!ENTITY sunbird.paste.button.tooltip "Itsatsi">
+<!ENTITY sunbird.print.button.tooltip "Egutegia inprimatu">
+<!ENTITY sunbird.delete.button.tooltip "Hautaturiko gertaera ezabatu">
+<!ENTITY sunbird.remotereload.button.tooltip "Urruneko egutegi guztiak birkargatu">
 
-<!ENTITY sunbird.choosedate.button.label "Choose Date">
-<!ENTITY sunbird.cut.button.label "Cut">
-<!ENTITY sunbird.copy.button.label "Copy">
-<!ENTITY sunbird.paste.button.label "Paste">
-<!ENTITY sunbird.delete.button.label "Delete">
-<!ENTITY sunbird.remotereload.button.label "Reload">
+<!ENTITY sunbird.choosedate.button.label "Data hautatu">
+<!ENTITY sunbird.cut.button.label "Ebaki">
+<!ENTITY sunbird.copy.button.label "Kopiatu">
+<!ENTITY sunbird.paste.button.label "Itsatsi">
+<!ENTITY sunbird.delete.button.label "Ezabatu">
+<!ENTITY sunbird.remotereload.button.label "Berritu">
 
-<!ENTITY sunbird.flat.topbar.choosedate "Go to Date">
-<!ENTITY sunbird.flat.topbar.dayview "Day View">
-<!ENTITY sunbird.flat.topbar.weekview "Week View">
-<!ENTITY sunbird.flat.topbar.monthview "Month View">
-<!ENTITY sunbird.flat.topbar.multiweekview "Multiweek View">
+<!ENTITY sunbird.flat.topbar.choosedate "Data-ra joan">
+<!ENTITY sunbird.flat.topbar.dayview "Eguneko ikuspegia">
+<!ENTITY sunbird.flat.topbar.weekview "Asteko ikuspegia">
+<!ENTITY sunbird.flat.topbar.monthview "Hileko ikuspegia">
+<!ENTITY sunbird.flat.topbar.multiweekview "Aste anitz ikuspegia">
 
 <!ENTITY sunbird.dayview.accesskey "D">
 <!ENTITY sunbird.weekview.accesskey "W">
@@ -61,31 +61,31 @@
 <!ENTITY sunbird.multiweekview.accesskey "u">
 
 
-<!ENTITY sunbird.calendartab.label "Date">
-<!ENTITY sunbird.listofcalendarstab.label "Calendars">
+<!ENTITY sunbird.calendartab.label "Data">
+<!ENTITY sunbird.listofcalendarstab.label "Egutegiak">
 
 <!ENTITY sunbird.find.key "F">
 <!ENTITY sunbird.close.key "W">
 
-<!ENTITY sunbird.menu.numberofweeks.label "Number of Weeks">
-<!ENTITY sunbird.menu.numberofweeks.accesskey "N">
-<!ENTITY sunbird.menu.numberofweeks.2 "2 Weeks">
-<!ENTITY sunbird.menu.numberofweeks.3 "3 Weeks">
-<!ENTITY sunbird.menu.numberofweeks.4 "4 Weeks">
-<!ENTITY sunbird.menu.numberofweeks.5 "5 Weeks">
-<!ENTITY sunbird.menu.numberofweeks.6 "6 Weeks">
+<!ENTITY sunbird.menu.numberofweeks.label "Aste kopurua">
+<!ENTITY sunbird.menu.numberofweeks.accesskey "K">
+<!ENTITY sunbird.menu.numberofweeks.2 "2 Aste">
+<!ENTITY sunbird.menu.numberofweeks.3 "3 Aste">
+<!ENTITY sunbird.menu.numberofweeks.4 "4 Aste">
+<!ENTITY sunbird.menu.numberofweeks.5 "5 Aste">
+<!ENTITY sunbird.menu.numberofweeks.6 "6 Aste">
 <!-- customizable toolbars -->
 
-<!ENTITY sunbird.context.customize.label "Customize…">
-<!ENTITY sunbird.context.customize.accesskey "C">
-<!ENTITY sunbird.menu.customize.label "Customize Toolbar…">
-<!ENTITY sunbird.menu.customize.accesskey "C">
-<!ENTITY sunbird.maintoolbar.name "Main Toolbar">
+<!ENTITY sunbird.context.customize.label "Pertsonalizatu…">
+<!ENTITY sunbird.context.customize.accesskey "P">
+<!ENTITY sunbird.menu.customize.label "Tresna-barra pertsonalizatu…">
+<!ENTITY sunbird.menu.customize.accesskey "P">
+<!ENTITY sunbird.maintoolbar.name "Tresna-barra nagusia">
 <!ENTITY sunbird.maintoolbar.accesskey "M">
 <!-- Sunbird Help -->
 
-<!ENTITY sunbird.help.label "Help Contents">
-<!ENTITY sunbird.help.accesskey "H">
+<!ENTITY sunbird.help.label "Laguntza edukiak">
+<!ENTITY sunbird.help.accesskey "L">
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 <!ENTITY mainWindow.title "&brandFullName;">
