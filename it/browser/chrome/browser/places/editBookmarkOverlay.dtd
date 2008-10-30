@@ -21,3 +21,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label "Carica questo segnalibro nella barra laterale">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey "C">
 <!ENTITY editBookmarkOverlay.choose.label "Scegli…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label "Nuova cartella">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey "N">
