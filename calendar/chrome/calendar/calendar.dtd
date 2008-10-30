@@ -173,9 +173,9 @@
 <!-- Context Menu -->
 
 <!ENTITY calendar.context.modifyorviewitem.label "Ireki">
-<!ENTITY calendar.context.modifyorviewitem.accesskey "O">
-<!ENTITY calendar.context.modifyorviewtask.label "Ireki zeregina">
-<!ENTITY calendar.context.modifyorviewtask.accesskey "O">
+<!ENTITY calendar.context.modifyorviewitem.accesskey "I">
+<!ENTITY calendar.context.modifyorviewtask.label "Ireki zeregina…">
+<!ENTITY calendar.context.modifyorviewtask.accesskey "I">
 <!ENTITY calendar.context.newevent.label "Gertaera Berria">
 <!ENTITY calendar.context.newevent.accesskey "B">
 <!ENTITY calendar.context.newtodo.label "Zeregin Berria...">
@@ -194,10 +194,10 @@
 <!ENTITY calendar.context.deletethisevent.accesskey "T">
 <!ENTITY calendar.context.deletecompleteseries.label "Osatu serieak">
 <!ENTITY calendar.context.deletecompleteseries.accesskey "S">
-<!ENTITY calendar.context.deletefutureevents.label "Etorkizuneko Gertaera Guztiak">
-<!ENTITY calendar.context.deletefutureevents.accesskey "F">
+<!ENTITY calendar.context.deletefutureevents.label "Etorkizuneko gertaera guztiak">
+<!ENTITY calendar.context.deletefutureevents.accesskey "E">
 <!ENTITY calendar.context.deletefuturetasks.label "Etorkizuneko zeregin guztiak">
-<!ENTITY calendar.context.deletefuturetasks.accesskey "F">
+<!ENTITY calendar.context.deletefuturetasks.accesskey "E">
 <!ENTITY calendar.context.cutevent.label "Ebaki">
 <!ENTITY calendar.context.cutevent.accesskey "b">
 <!ENTITY calendar.context.copyevent.label "Kopiatu">
@@ -207,7 +207,7 @@
 <!ENTITY calendar.context.selectall.label "Dena hautatu">
 <!ENTITY calendar.context.selectall.accesskey "A">
 <!ENTITY calendar.context.button.label "Gaurko panela">
-<!ENTITY calendar.context.button.accesskey "T">
+<!ENTITY calendar.context.button.accesskey "G">
 <!-- Task Context Menu -->
 
 <!ENTITY calendar.context.progress.label "Aurrerapena">
@@ -264,8 +264,8 @@
 <!ENTITY calendar.context.convertmenu.event.accesskey "E">
 <!ENTITY calendar.context.convertmenu.message.label "Mezua">
 <!ENTITY calendar.context.convertmenu.message.accesskey "M">
-<!ENTITY calendar.context.convertmenu.task.label "Zeregina...">
-<!ENTITY calendar.context.convertmenu.task.accesskey "T">
+<!ENTITY calendar.context.convertmenu.task.label "Zeregina…">
+<!ENTITY calendar.context.convertmenu.task.accesskey "Z">
 
 <!ENTITY calendar.tasks.view.minimonth.label "Hilabete txikia">
 <!ENTITY calendar.tasks.view.minimonth.accesskey "T">
@@ -273,8 +273,8 @@
 <!ENTITY calendar.tasks.view.calendarlist.label "Egutegi zerenda">
 <!ENTITY calendar.tasks.view.calendarlist.accesskey "E">
 
-<!ENTITY calendar.tasks.view.filtertasks.label "Tasks iragazi">
-<!ENTITY calendar.tasks.view.filtertasks.accesskey "F">
+<!ENTITY calendar.tasks.view.filtertasks.label "Zereginak iragazi">
+<!ENTITY calendar.tasks.view.filtertasks.accesskey "I">
 <!-- Calendar Alarm Dialog -->
 
 

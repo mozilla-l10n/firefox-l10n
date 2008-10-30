@@ -97,6 +97,6 @@
 <!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "Errebokazio zerrendak">
 <!ENTITY pref.calendar.advanced.encryption.viewCRLs.accesskey "R">
 <!ENTITY pref.calendar.advanced.encryption.verify2.label "Egiaztapena">
-<!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "V">
-<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label "Segurtasuna gailuak">
-<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "y">
+<!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "E">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label "Segurtasun gailuak">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "g">
