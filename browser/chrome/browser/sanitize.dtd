@@ -19,6 +19,6 @@
 <!ENTITY itemOfflineApps.accesskey    "N">
 <!ENTITY itemDownloads.label          "Filhämtningshistorik">
 <!ENTITY itemDownloads.accesskey      "F">
-<!ENTITY itemSessions.label           "Autentiserade sessioner">
-<!ENTITY itemSessions.accesskey       "A">
+<!ENTITY itemActiveLogins.label       "Aktiva inloggningar">
+<!ENTITY itemActiveLogins.accesskey   "A">
 <!ENTITY window.width                 "30em">
