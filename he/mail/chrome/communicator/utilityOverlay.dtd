@@ -20,7 +20,7 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "ה">
 <!ENTITY deleteCmd.label "מחק">
-<!ENTITY deleteCmd.key "D">
+<!-- ### ENTITY deleteCmd.key "D" -->
 <!ENTITY deleteCmd.accesskey "ח">
 <!ENTITY selectAllCmd.label "בחר הכל">
 <!ENTITY selectAllCmd.key "A">
@@ -29,24 +29,24 @@
 <!ENTITY preferencesCmd.accesskey "א">
 <!ENTITY preferencesCmdUnix.label "העדפות">
 <!ENTITY preferencesCmdUnix.accesskey "ע">
-<!ENTITY findTypeTextCmd.label "מצא טקסט תוך כדי הקלדה">
-<!ENTITY findTypeTextCmd.accesskey "x">
+<!-- ### ENTITY findTypeTextCmd.label "מצא טקסט תוך כדי הקלדה" -->
+<!-- ### ENTITY findTypeTextCmd.accesskey "x" -->
 <!ENTITY viewMenu.label "תצוגה">
 <!ENTITY viewMenu.accesskey "ת">
 <!ENTITY viewToolbarsMenu.label "סרגלי כלים">
 <!ENTITY viewToolbarsMenu.accesskey "ם">
 <!ENTITY showTaskbarCmd.label "שורת מצב">
 <!ENTITY showTaskbarCmd.accesskey "ש">
-<!ENTITY direct.label "מקוון (שרת מתווך: ללא)">
-<!ENTITY direct.accesskey "n">
-<!ENTITY manual.label "מקוון (שרת מתווך: ידני)">
-<!ENTITY manual.accesskey "m">
-<!ENTITY pac.label "מקוון (שרת מתווך: אוטומטי)">
-<!ENTITY pac.accesskey "a">
+<!-- ### ENTITY direct.label "מקוון (שרת מתווך: ללא)" -->
+<!-- ### ENTITY direct.accesskey "n" -->
+<!-- ### ENTITY manual.label "מקוון (שרת מתווך: ידני)" -->
+<!-- ### ENTITY manual.accesskey "m" -->
+<!-- ### ENTITY pac.label "מקוון (שרת מתווך: אוטומטי)" -->
+<!-- ### ENTITY pac.accesskey "a" -->
 <!ENTITY proxy.label "הגדרות שרת מתווך...">
 <!ENTITY proxy.accesskey "C">
-<!ENTITY findTypeTextCmd.key "/">
-<!ENTITY findTypeLinksCmd.key "'">
+<!-- ### ENTITY findTypeTextCmd.key "/" -->
+<!-- ### ENTITY findTypeLinksCmd.key "'" -->
 <!ENTITY closeCmd.label "סגור">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "ג">

@@ -51,7 +51,7 @@
 <!ENTITY pasteCmd.label "הדבק">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "p">
-<!ENTITY deleteCmd.label "מחק">
+<!-- ### ENTITY deleteCmd.label "מחק" -->
 <!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "d">
 <!ENTITY deleteAbCmd.label "מחק פנקס כתובות">
@@ -101,7 +101,7 @@
 <!ENTITY exportCmd.label "יצוא...">
 <!ENTITY exportCmd.accesskey "E">
 <!ENTITY preferencesCmd.label "אפשרויות...">
-<!ENTITY preferencesCmd.key "O">
+<!-- ### ENTITY preferencesCmd.key "O" -->
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "העדפות">
 <!ENTITY preferencesCmdUnix.accesskey "n">

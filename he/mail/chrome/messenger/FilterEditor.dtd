@@ -24,8 +24,8 @@
 <!-- ### ENTITY conditionDesc.label "עבור הודעות נכנסות המקיימות:" -->
 <!ENTITY filterActionDesc.label "בצע פעולות אלו:">
 <!ENTITY filterActionDesc.accesskey "P">
-<!ENTITY newFolderButton.label "תיקייה חדשה...">
-<!ENTITY newFolderButton.accesskey "N">
+<!-- ### ENTITY newFolderButton.label "תיקייה חדשה..." -->
+<!-- ### ENTITY newFolderButton.accesskey "N" -->
 <!ENTITY moveMessage.label "העבר הודעה אל">
 <!ENTITY copyMessage.label "העתק הודעה אל">
 <!ENTITY forwardTo.label "העבר אל:">

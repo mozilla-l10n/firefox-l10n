@@ -4,7 +4,7 @@
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "שים השבות בתיקייה של ההודעה שהושבה">
 <!ENTITY fccReplyFollowsParent.accesskey "l">
-<!ENTITY chooseFolderButton.label "בחר תיקייה...">
+<!-- ### ENTITY chooseFolderButton.label "בחר תיקייה..." -->
 <!ENTITY bccAddress.label "עותק סמוי לכתובות נוספות:">
 <!ENTITY bccAddress.accesskey "B">
 <!ENTITY specialFolderTitle.label "תיקיות מיוחדות">
@@ -19,7 +19,7 @@
 <!ENTITY draftsFolderOn.label "תיקיית &quot;טיוטות&quot; על:">
 <!ENTITY draftsFolderOn.accesskey "D">
 <!ENTITY draftInOtherFolder.label "אחר:">
-<!ENTITY draftInOtherFolder.accesskey "t">
+<!ENTITY draftInOtherFolder.acoosecesskey "t">
 <!ENTITY templatesFolderOn.label "תיקיית &quot;תבניות&quot; על:">
 <!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "אחר:">
