@@ -19,8 +19,6 @@
 <!ENTITY itemOfflineApps.accesskey    "e">
 <!ENTITY itemDownloads.label          "İndirme geçmişi">
 <!ENTITY itemDownloads.accesskey      "d">
-<!ENTITY itemSessions.label           "Kimlikleri doğrulanmış oturumlar">
-<!ENTITY itemSessions.accesskey       "K">
 <!ENTITY window.width                 "23em">
 <!ENTITY itemActiveLogins.label       "Etkin Oturumlar">
 <!ENTITY itemActiveLogins.accesskey   "L">

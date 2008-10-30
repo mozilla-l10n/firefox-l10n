@@ -1,6 +1,3 @@
-<!ENTITY restorepage.title          "Önceki oturumu kurtar">
-<!ENTITY restorepage.titletext      "Son &brandShortName; oturumunuz beklenmeyen şekilde sona erdi">
-<!ENTITY restorepage.shortDesc      "Önceki oturumdaki sekmeleri ve pencereleri geri getirebilir, onlara ihtiyacınız yoksa baştan yeni oturum başlatabilirsiniz. Rahatsızlıktan dolayı özür dileriz.">
 <!ENTITY restorepage.remedies       "&brandShortName; tekrar tekrar kapanıyorsa:">
 <!ENTITY restorepage.dueToChrome    "Eklenti yöneticisine gidip yeni kurduğunuz bir eklentiyi devre dışı bırakmayı deneyin.">
 <!ENTITY restorepage.dueToContent   "Çökmeye neden olduğundan şüphelendiğiniz sayfalar olmadan önceki oturumu geri getirmeyi deneyin:">
@@ -14,4 +11,10 @@
 <!ENTITY restorepage.listHeader     "Pencereler ve sekmeler">
 <!-- LOCALIZATION NOTE: %S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "%S pencere">
+
+<!ENTITY restorepage.tabtitle       "Oturumu kurtar">
+<!ENTITY restorepage.pagetitle      "Oturumunuzu kurtarmak ister misiniz?">
+<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
+                        you may translate "crash" instead (even though it's IT-speak) -->
+<!ENTITY restorepage.issueDesc      "Önceki &brandShortName; oturumunuz beklenmeyen şekilde sona erdi. Yaşadığınız rahatsızlıktan dolayı gerçekten özür dileriz. Önceki oturumdaki sekmeleri ve pencereleri geri getirebilir, onlara ihtiyacınız yoksa baştan yeni oturum başlatabilirsiniz.">
 
