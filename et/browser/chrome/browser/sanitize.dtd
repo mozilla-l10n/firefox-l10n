@@ -19,6 +19,6 @@
 <!ENTITY itemOfflineApps.accesskey       "g">
 <!ENTITY itemDownloads.label             "Allalaadimiste ajalugu">
 <!ENTITY itemDownloads.accesskey         "A">
-<!ENTITY itemSessions.label              "Autenditud seansid">
-<!ENTITY itemSessions.accesskey          "e">
+<!ENTITY itemActiveLogins.label          "Aktiivsed seansid">
+<!ENTITY itemActiveLogins.accesskey      "e">
 <!ENTITY window.width                    "35em">

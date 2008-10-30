@@ -27,7 +27,7 @@
 <!ENTITY chooseFolderWin.accesskey     "s">
 <!ENTITY chooseFolderMac.label         "Vali...">
 <!ENTITY chooseFolderMac.accesskey     "a">
-<!ENTITY alwaysAsk.label               "Seda tüüpi failide korral küsitakse alati, kuhu need salvestada">
+<!ENTITY alwaysAsk.label               "Alati küsitakse, kuhu failid salvestada">
 <!ENTITY alwaysAsk.accesskey           "S">
 
 <!ENTITY addonsMgr.label               "Laiendused">
