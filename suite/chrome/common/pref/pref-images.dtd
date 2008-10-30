@@ -1,0 +1,26 @@
+<!ENTITY pref.images.title              "Imagevs">
+
+<!ENTITY imageBlocking.label            "Política de aceitação de Imagem">
+
+<!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
+    Place "&brandShortName;" in the phrase where the name of the application should
+	 appear
+-->
+<!ENTITY imageDetails                   "Específica como é que o &brandShortName; lida com imagens.">
+
+<!ENTITY accAllImagesRadio.label        "Aceitar todas as imagens">
+<!ENTITY accAllImagesRadio.accesskey    "A">
+<!ENTITY accOrgImagesRadio.label        "Aceitar imagens que tiveram apenas origem no servidor">
+<!ENTITY accOrgImagesRadio.accesskey    "r">
+<!ENTITY disableImages.label            "Não carregar nenhuma imagem">
+<!ENTITY disableImages.accesskey        "N">
+<!ENTITY viewImagesExplanation.label    "Ver a lista de sítios com a informação de aceitação de imagem guardada">
+<!ENTITY viewImages.label               "Gerir permissão de imagens">
+<!ENTITY viewImages.accesskey           "p">
+<!ENTITY animLoopingTitle.label         "As imagens animadas devem repetir">
+<!ENTITY animLoopAsSpecified.label      "Tantas vezes quanto a imagem especificar">
+<!ENTITY animLoopAsSpecified.accesskey  "T">
+<!ENTITY animLoopOnce.label             "Uma vez">
+<!ENTITY animLoopOnce.accesskey         "U">
+<!ENTITY animLoopNever.label            "Nunca">
+<!ENTITY animLoopNever.accesskey        "c">
