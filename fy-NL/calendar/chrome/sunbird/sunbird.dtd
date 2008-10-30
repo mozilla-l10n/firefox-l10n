@@ -1,0 +1,91 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Sun Microsystems code.
+   -
+   - The Initial Developer of the Original Code is
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   - Portions created by the Initial Developer are Copyright (C) 2008
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY sunbird.choosedate.button.tooltip                 "Kies datum om nei ta te gean" >
+<!ENTITY sunbird.cut.button.tooltip                        "Knippe" >
+<!ENTITY sunbird.copy.button.tooltip                       "Kopiearje" >
+<!ENTITY sunbird.paste.button.tooltip                      "Plakke" >
+<!ENTITY sunbird.print.button.tooltip                      "Aginda ôfdrukke" >
+<!ENTITY sunbird.delete.button.tooltip                     "Selektearre barren fuortsmite" >
+<!ENTITY sunbird.remotereload.button.tooltip               "Alle aginda's op ôfstân op 'e nij laden" >
+
+<!ENTITY sunbird.choosedate.button.label                   "Kies datum" >
+<!ENTITY sunbird.cut.button.label                          "Knippe" >
+<!ENTITY sunbird.copy.button.label                         "Kopiearje" >
+<!ENTITY sunbird.paste.button.label                        "Plakke" >
+<!ENTITY sunbird.delete.button.label                       "Fuortsmite" >
+<!ENTITY sunbird.remotereload.button.label                 "Op 'e nij lade" >
+
+<!ENTITY sunbird.flat.topbar.choosedate                    "Gean nei datum" >
+<!ENTITY sunbird.flat.topbar.dayview                       "Deibyld" >
+<!ENTITY sunbird.flat.topbar.weekview                      "Wikebyld" >
+<!ENTITY sunbird.flat.topbar.monthview                     "Moannebyld" >
+<!ENTITY sunbird.flat.topbar.multiweekview                 "Multiwikebyld" >
+
+<!ENTITY sunbird.dayview.accesskey                         "D" >
+<!ENTITY sunbird.weekview.accesskey                        "W" >
+<!ENTITY sunbird.monthview.accesskey                       "M" >
+<!ENTITY sunbird.multiweekview.accesskey                   "u" >
+
+
+<!ENTITY sunbird.calendartab.label                         "Datum">
+<!ENTITY sunbird.listofcalendarstab.label                  "Aginda's">
+
+<!ENTITY sunbird.find.key                                  "F">
+<!ENTITY sunbird.close.key                                 "W">
+
+<!ENTITY sunbird.menu.numberofweeks.label                  "Oantal wiken" >
+<!ENTITY sunbird.menu.numberofweeks.accesskey              "O" >
+<!ENTITY sunbird.menu.numberofweeks.2                      "2 wiken" >
+<!ENTITY sunbird.menu.numberofweeks.3                      "3 wiken" >
+<!ENTITY sunbird.menu.numberofweeks.4                      "4 wiken" >
+<!ENTITY sunbird.menu.numberofweeks.5                      "5 wiken" >
+<!ENTITY sunbird.menu.numberofweeks.6                      "6 wiken" >
+
+<!-- customizable toolbars -->
+<!ENTITY sunbird.context.customize.label                   "Oanpasse…">
+<!ENTITY sunbird.context.customize.accesskey               "O">
+<!ENTITY sunbird.menu.customize.label                      "Arkbalke oanpasse…">
+<!ENTITY sunbird.menu.customize.accesskey                  "A">
+<!ENTITY sunbird.maintoolbar.name                          "Haadarkbalke">
+<!ENTITY sunbird.maintoolbar.accesskey                     "H">
+
+<!-- Sunbird Help -->
+<!ENTITY sunbird.help.label                                "Helpynhâld">
+<!ENTITY sunbird.help.accesskey                            "H">
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+<!ENTITY mainWindow.title                                  "&brandFullName;">

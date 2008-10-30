@@ -54,26 +54,9 @@
 <!ENTITY calendar.new.server.key                "L">
 <!ENTITY calendar.new.server.accesskey          "a">
 
-<!ENTITY calendar.open.file.label               "Agindabestân iepenje…">
-<!ENTITY calendar.open.file.key                 "O">
-<!ENTITY calendar.open.file.accesskey           "i">
-
-<!ENTITY event.edit.event                       "Seleksje bewurkje…">
-<!ENTITY event.edit.event.key                   "E">
-<!ENTITY event.edit.event.accesskey             "w">
-
-<!ENTITY event.delete.event                     "Selektearre barren fuortsmite">
-<!ENTITY event.delete.event.accesskey           "f">
-
-<!ENTITY event.delete.tasks                     "Selektearre taken fuortsmite">
-<!ENTITY event.delete.tasks.accesskey           "t">
-
 <!ENTITY calendar.print.label                   "Ofdrukke…">
 <!ENTITY calendar.print.key                     "P">
 <!ENTITY calendar.print.accesskey               "d">
-
-<!ENTITY calendar.pagesetup.label               "Side-ynstellings…">
-<!ENTITY calendar.pagesetup.accesskey           "s">
 
 <!ENTITY calendar.import.label                  "Ymportearje…">
 <!ENTITY calendar.import.key                    "I">
@@ -84,54 +67,8 @@
 <!ENTITY calendar.export.selection.label        "Seleksje eksportearje…">
 <!ENTITY calendar.export.selection.accesskey    "e">
 
-<!ENTITY calendar.subscribe.label               "Oanmelde by aginda op oare kompjûter…">
-<!ENTITY calendar.subscribe.accesskey           "m">
-
-<!ENTITY calendar.reloadserver.label            "Aginda’s op ôfstân ferfarskje">
-<!ENTITY calendar.reloadserver.key              "R">
-<!ENTITY calendar.reloadserver.accesskey        "r">
-
 <!ENTITY calendar.publish.label                 "Publisearje…">
 <!ENTITY calendar.publish.accesskey             "P">
-<!ENTITY calendar.publish.calendar.label        "Aginda publisearje…">
-<!ENTITY calendar.publish.calendar.accesskey    "p">
-<!ENTITY calendar.publish.selection.label       "Seleksje publisearje…">
-<!ENTITY calendar.publish.selection.accesskey   "c">
-
-<!ENTITY calendar.quit.label                    "Ofslute">
-<!ENTITY calendar.quit.accesskey                "O">
-<!ENTITY calendar.quit.key                      "Q">
-<!ENTITY calendar.quit.label.mac                "&brandShortName; slute">
-
-<!ENTITY calendar.exit.label                    "Ofslute">
-<!ENTITY calendar.exit.accesskey                "O">
-
-<!ENTITY calendar.undo.label                    "Ungedien meitsje">
-<!ENTITY calendar.undo.key                      "Z">
-<!ENTITY calendar.undo.accesskey                "U">
-
-<!ENTITY calendar.redo.label                    "Op 'e nij útfiere">
-<!ENTITY calendar.redo.key                      "Y">
-<!ENTITY calendar.redo.accesskey                "n">
-
-<!ENTITY calendar.cut.label                     "Knippe">
-<!ENTITY calendar.cut.key                       "X">
-<!ENTITY calendar.cut.accesskey                 "n">
-
-<!ENTITY calendar.copy.label                    "Kopiearje">
-<!ENTITY calendar.copy.key                      "C">
-<!ENTITY calendar.copy.accesskey                "K">
-
-<!ENTITY calendar.paste.label                   "Plakke">
-<!ENTITY calendar.paste.key                     "V">
-<!ENTITY calendar.paste.accesskey               "P">
-
-<!ENTITY calendar.selectall.label               "Alles selektearje">
-<!ENTITY calendar.selectall.key                 "A">
-<!ENTITY calendar.selectall.accesskey           "A">
-
-<!ENTITY toolbarsMenu.label                     "Arkbalken">
-<!ENTITY toolbarsMenu.accesskey                 "A">
 
 <!ENTITY calendar.toolbar.label                 "Aginda-arkbalke">
 <!ENTITY calendar.toolbar.accesskey             "e">
@@ -140,12 +77,6 @@
 
 <!ENTITY calendar.menu.customize.label          "Oanpasse…">
 <!ENTITY calendar.menu.customize.accesskey      "O">
-
-<!ENTITY showStatusBarCmd.label                 "Steatbalke">
-<!ENTITY showStatusBarCmd.accesskey             "S">
-
-<!ENTITY showTaskBoxCmd.label                   "Takenlist">
-<!ENTITY showTaskBoxCmd.accesskey               "T">
 
 <!ENTITY showUnifinderCmd.label                 "Barren sykje">
 <!ENTITY showUnifinderCmd.accesskey             "s">
@@ -160,20 +91,8 @@
 <!ENTITY calendar.menu.numberofweeks.5          "Fiif wiken">
 <!ENTITY calendar.menu.numberofweeks.6          "Seis wiken">
 
-<!ENTITY calendar.fullscreen.label              "Folslein skerm">
-<!ENTITY calendar.fullscreen.accesskey          "l">
-
-<!ENTITY calendar.addons.label                  "Tafoegings">
-<!ENTITY calendar.addons.accesskey              "f">
-
-<!ENTITY goMenu.label                           "Gean">
-<!ENTITY goMenu.accesskey                       "G">
-
 <!ENTITY goTodayCmd.label                       "Hjoed">
 <!ENTITY goTodayCmd.accesskey                   "H">
-
-<!ENTITY goDateCmd.label                        "Datum…">
-<!ENTITY goDateCmd.accesskey                    "D">
 
 <!ENTITY goPreviousCmd.day.label                "Foarige dei">
 <!ENTITY goPreviousCmd.week.label               "Foarige wike">
@@ -185,62 +104,8 @@
 <!ENTITY goNextCmd.month.label                  "Folgjende moanne">
 <!ENTITY goNextCmd.all.accesskey                "o">
 
-<!ENTITY toolsMenu.label                        "Ekstra">
-<!ENTITY toolsMenu.accesskey                    "k">
-
-<!ENTITY errorConsoleCmd.label                  "Flaterkonsole">
-<!ENTITY errorConsoleCmd.accesskey              "F">
-
 <!ENTITY addressBookCmd.label                   "Adresboek">
 <!ENTITY addressBookCmd.accesskey               "A">
-
-<!ENTITY helpMenu.label                         "Help">
-<!ENTITY helpMenu.accesskey                     "H">
-<!-- LOCALIZATION NOTE some localizations of Windows use "?"
-           for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label                      "Help"> 
-<!ENTITY helpMenuWin.accesskey                  "H">
-
-<!-- Toolbar items -->
-<!ENTITY fileMenu.label                         "Bestân">
-<!ENTITY fileMenu.accesskey                     "B">
-
-<!ENTITY editMenu.label                         "Bewurkje">
-<!ENTITY editMenu.accesskey                     "w">
-<!ENTITY optionsCmd.label                       "Opsjes…">
-<!ENTITY optionsCmd.accesskey                   "O">
-<!ENTITY preferencesCmd.label                   "Foarkarren">
-<!ENTITY preferencesCmd.accesskey               "F">
-<!ENTITY preferencesCmdMac.label                "Foarkarren…">
-<!ENTITY preferencesCmdMac.commandkey           ",">
-<!ENTITY preferencesCmdMac.modifiers            "accel">
-
-<!ENTITY viewMenu.label                         "Byld">
-<!ENTITY viewMenu.accesskey                     "l">
-
-<!ENTITY releaseCmd.label                       "Utjefte-opmerkings">
-<!ENTITY releaseCmd.accesskey                   "U">
-<!ENTITY aboutCmd.label                         "Oer &brandFullName;">
-<!ENTITY aboutCmd.accesskey                     "S">
-<!ENTITY updateCmd.label                        "Kontrolearje op fernijings…">
-<!ENTITY updateCmd.accesskey                    "o">
-
-<!-- Mac OS X "Window" menu items -->
-<!ENTITY windowMenu.label                       "Finster">
-<!ENTITY minimizeWindow.label                   "Minimalisearje">
-<!ENTITY zoomWindow.label                       "Zoom">
-<!ENTITY minimizeWindow.key                     "M">
-<!ENTITY bringAllToFront.label                  "Alles nei foaren bringe">
-
-<!-- Mac OS X Application menu items -->
-<!ENTITY servicesMenuMac.label          "Tsjinsten">
-<!ENTITY hideThisAppCmdMac.label        "&brandShortName; ferstoppe">
-<!ENTITY hideThisAppCmdMac.commandkey   "f">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
-<!ENTITY hideOtherAppsCmdMac.label      "Oare ferstoppe">
-<!ENTITY hideOtherAppsCmdMac.commandkey "f">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
-<!ENTITY showAllAppsCmdMac.label        "Alle toane">
 
 <!ENTITY calendar.importcalendar.label          "Aginda ymportearje…">
 
