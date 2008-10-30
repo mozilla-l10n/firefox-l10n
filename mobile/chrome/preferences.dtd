@@ -2,14 +2,14 @@
 <!ENTITY permissions.default.image.title "Cargar imágenes">
 <!ENTITY permissions.default.image.description "Hace más bonitos a los sitios web">
 <!ENTITY javascript.enabled.title "Activar Javascript">
-<!ENTITY javascript.enabled.description "Hace que los sitios web flasheen">
+<!ENTITY javascript.enabled.description "Mejora las webs con JS">
 <!ENTITY plugins.enabled.title "Activar plugins">
-<!ENTITY plugins.enabled.description "Hace molestos a los sitios web">
+<!ENTITY plugins.enabled.description "Hace las webs más molestas">
 <!ENTITY privacy.title "Privacidad y seguridad">
 <!ENTITY network.cookie.cookieBehavior.title "Guardar cookies">
 <!ENTITY network.cookie.cookieBehavior.description "Deliciosas galletitas">
 <!ENTITY clear.private.data.title "Limpiar datos privados">
 <!ENTITY clear.private.data.button "Limpiar…">
-<!ENTITY clear.private.data.description "Saves your hide">
+<!ENTITY clear.private.data.description "Borra sus datos">
 <!ENTITY signon.rememberSignons.title "Guardar contraseñas">
 <!ENTITY signon.rememberSignons.description "Le ayuda a escribir menos">
