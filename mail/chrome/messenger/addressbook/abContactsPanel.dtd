@@ -1,0 +1,18 @@
+<!ENTITY addressbookPicker.label      "Aadressiraamat:">
+<!ENTITY addressbookPicker.accesskey  "A">
+<!ENTITY searchInput.label            "Otsing:">
+<!ENTITY searchInput.accesskey        "O">
+<!ENTITY SearchNameOrEmail.label      "Nimi või e-post">
+
+<!ENTITY deleteAddrBookCard.label     "Kustuta">
+<!ENTITY addrBookCardProperties.label "Omadused">
+<!ENTITY addtoToFieldMenu.label       "Lisa väljale Kellele">
+<!ENTITY addtoCcFieldMenu.label       "Lisa väljale Koopia">
+<!ENTITY addtoBccFieldMenu.label      "Lisa väljale Pimekoopia">
+
+<!ENTITY toButton.label               "Lisa väljale Kellele:">
+<!ENTITY toButton.accesskey           "L">
+<!ENTITY ccButton.label               "Lisa väljale Koopia:">
+<!ENTITY ccButton.accesskey           "i">
+<!ENTITY bccButton.label              "Lisa väljale Pimekoopia:">
+<!ENTITY bccButton.accesskey          "v">
