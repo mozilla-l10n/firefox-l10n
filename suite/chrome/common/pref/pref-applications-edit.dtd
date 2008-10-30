@@ -1,0 +1,19 @@
+<!ENTITY editType.label "Type bewerken">
+<!ENTITY newType.label "Nieuw type">
+<!ENTITY extension.label "Extensie:">
+<!ENTITY extension.accesskey "E">
+<!ENTITY mimetype.label "Mime-type:">
+<!ENTITY mimetype.accesskey "m">
+<!ENTITY description.label "Beschrijving:">
+<!ENTITY description.accesskey "d">
+<!ENTITY handling.label "Wanneer een bestand van dit type is tegengekomen">
+<!ENTITY useDefault.label "Open het met de standaard applicatie">
+<!ENTITY useDefault.accesskey "o">
+<!ENTITY saveToDisk.label "Op schijf opslaan">
+<!ENTITY saveToDisk.accesskey "s">
+<!ENTITY application.label "Open het met:">
+<!ENTITY application.accesskey "w">
+<!ENTITY browse.label "Kies…">
+<!ENTITY browse.accesskey "c">
+<!ENTITY askBeforeOpen.label "Vraag me voordat dit bastandstype verwerkt word">
+<!ENTITY askBeforeOpen.accesskey "k">

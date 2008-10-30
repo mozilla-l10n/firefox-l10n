@@ -1,0 +1,229 @@
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+<!ENTITY msgComposeWindow.title "Nieuw bericht: (geen onderwerp)">
+
+<!ENTITY fromAddr.label "Van:">
+<!ENTITY fromAddr.accesskey "V">
+<!ENTITY subject.label  "Onderwerp:">
+<!ENTITY subject.accesskey "n">
+<!ENTITY attachments.label "Bijlagen:">
+<!ENTITY attachments.accesskey "a">
+
+<!-- menu items:  the . means that the menu item isn't implemented yet -->
+
+<!-- File menu items -->
+<!ENTITY newMessage.label "Bericht">  
+<!ENTITY newMessage.accesskey "B">  
+<!ENTITY saveCmd.label "Opslaan">
+<!ENTITY saveCmd.key "S">
+<!ENTITY saveCmd.accesskey "O">
+<!ENTITY saveAsCmd.label "Opslaan als">
+<!ENTITY saveAsCmd.accesskey "l">
+<!ENTITY saveAsFileCmd.label "Bestand…">
+<!ENTITY saveAsFileCmd.accesskey "B">
+<!ENTITY saveAsDraftCmd.label "Concept">
+<!ENTITY saveAsDraftCmd.accesskey "C">
+<!ENTITY saveAsTemplateCmd.label "Sjabloon">
+<!ENTITY saveAsTemplateCmd.accesskey "S">
+<!ENTITY attachMenu.label "Bijlage">
+<!ENTITY attachMenu.accesskey "B">
+<!ENTITY attachFileCmd.label "Bestand(en)…">
+<!ENTITY attachFileCmd.key "">
+<!ENTITY attachFileCmd.accesskey "B">
+<!ENTITY attachPageCmd.label "Webpagina…">
+<!ENTITY attachPageCmd.accesskey "W">
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCardCmd.label "Persoonlijke visitekaart (vCard)">
+<!ENTITY attachVCardCmd.accesskey "P">
+<!ENTITY sendNowCmd.label "Nu verzenden">
+<!ENTITY sendCmd.keycode "VK_RETURN">
+<!ENTITY sendNowCmd.accesskey "v">
+<!ENTITY sendLaterCmd.label "Later verzenden">
+<!ENTITY sendLaterCmd.keycode "VK_RETURN">
+<!ENTITY sendLaterCmd.accesskey "z">
+<!ENTITY printSetupCmd.label "Pagina-instellingen…">
+<!ENTITY printSetupCmd.accesskey "P">
+<!ENTITY printCmd.label "Afdrukken…">
+<!ENTITY printCmd.key "P">
+<!ENTITY printCmd.accesskey "d">
+<!ENTITY closeCmd.label "Sluiten">
+
+<!-- Edit menu items -->
+<!ENTITY editRewrapCmd.label "Opnieuw uitlijnen">
+<!ENTITY editRewrapCmd.accesskey  "l">
+<!ENTITY findCmd.label "Zoeken en vervangen…">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "Z">
+<!ENTITY findAgainCmd.label "Opnieuw zoeken">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.accesskey "w">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "Vorige zoeken">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.accesskey "r">
+<!ENTITY accountManagerCmd.label "E-mail &amp; Nieuwsgroepen accountinstelingen…">
+<!ENTITY accountManagerCmd.accesskey "c">
+
+<!-- View menu items -->
+<!ENTITY showComposeToolbarCmd.label "E-mailwerkbalk">
+<!ENTITY showComposeToolbarCmd.accesskey "E">
+<!ENTITY showFormatToolbarCmd.label "Opmaakwerkbalk">
+<!ENTITY showFormatToolbarCmd.accesskey "O">
+<!ENTITY showParagraphMarksCmd.label ".Show Paragraph Marks">
+<!ENTITY pageSourceCmd.label ".Page Source">
+<!ENTITY pageSourceCmd.accesskey "u">
+<!ENTITY pageInfoCmd.label ".Page Info">
+<!ENTITY pageInfoCmd.accesskey "I">
+<!ENTITY dcharMenu.label "Character Set">
+<!ENTITY dcharIso1Cmd.label "Western (ISO-8859-1)">
+<!ENTITY dcharIso2Cmd.label "Central European (ISO-8859-2)">
+<!ENTITY dcharIso3Cmd.label "South European (ISO-8859-3)">
+<!ENTITY dcharIso4Cmd.label "Baltic (ISO-8859-4)">
+<!ENTITY dcharIso9Cmd.label "Turkish (ISO-8859-9)">
+<!ENTITY dcharIso10Cmd.label "Nordic (ISO-8859-10)">
+<!ENTITY dcharIso14Cmd.label "Celtic (ISO-8859-14)">
+<!ENTITY dcharIso15Cmd.label "Westers (ISO-8859-15)">
+<!ENTITY dcharJapanCmd.label "Japans (ISO-2022-JP)">
+<!ENTITY dcharTradChiBigCmd.label "Chinese Traditional (Big5)">
+<!ENTITY dcharSimpChiGbCmd.label "Chinese Simplified (GB2312)">
+<!ENTITY dcharKoreanCmd.label "Korean (EUC-KR)">
+<!ENTITY dcharUtf8Cmd.label "Unicode (UTF-8)">
+<!ENTITY dcharRusCmd.label "Cyrillic (KOI8-R)">
+<!ENTITY dcharUkrCmd.label "Cyrillic/Ukrainian (KOI8-U)">
+<!ENTITY dcharIsoGreekCmd.label "Greek (ISO-8859-7)">
+<!ENTITY dcharVietViCmd.label "Vietnamese (VISCII)">
+<!ENTITY dcharThaiCmd.label "Thai (TIS-620)">
+<!ENTITY dcharArmCmd.label "Armenian (ARMSCII-8)">
+<!ENTITY dcharDEFAULT.label "Set Default Mail Send Character Set">
+
+<!-- Format menu items -->
+<!ENTITY formatMenu.label "Opmaak">
+<!ENTITY formatMenu.accesskey "M">
+
+<!-- Options menu items -->
+<!ENTITY optionsMenu.label "Opties">
+<!ENTITY optionsMenu.accesskey "O">
+
+<!ENTITY doNotCompleteAddrCmd.label ".Do Not Complete Address">
+<!ENTITY showMatchingAddrCmd.label ".Show Matching Address">
+
+<!ENTITY addSignatureCmd.label ".Add Signature File">
+
+<!ENTITY quoteCmd.label "Bericht citeren">
+<!ENTITY quoteCmd.accesskey "B">
+<!ENTITY selectAddressCmd.label "Addressen selecteren…">
+<!ENTITY selectAddressCmd.key "">
+<!ENTITY selectAddressCmd.accesskey "A">
+
+<!ENTITY checkSpellingCmd.label "Spelling controleren…">
+<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd.accesskey "c">
+<!ENTITY enableInlineSpellChecker.label "Spellingcontrole tijdens typen">
+<!ENTITY enableInlineSpellChecker.accesskey "S">
+
+<!ENTITY priorityMenu.label "Prioriteit">
+<!ENTITY priorityMenu.accesskey "P">
+<!ENTITY lowestPriorityCmd.label "Laagst">
+<!ENTITY lowestPriorityCmd.accesskey "a">
+<!ENTITY lowPriorityCmd.label "Laag">
+<!ENTITY lowPriorityCmd.accesskey "L">
+<!ENTITY normalPriorityCmd.label "Normaal">
+<!ENTITY normalPriorityCmd.accesskey "N">
+<!ENTITY highPriorityCmd.label "Hoog">
+<!ENTITY highPriorityCmd.accesskey "H">
+<!ENTITY highestPriorityCmd.label "Hoogst">
+<!ENTITY highestPriorityCmd.accesskey "o">
+
+<!ENTITY returnReceiptMenu.label "Leesbevestiging">
+<!ENTITY returnReceiptMenu.accesskey "L">
+<!ENTITY outputFormatMenu.label "Opmaak">
+<!ENTITY outputFormatMenu.accesskey "O">
+<!ENTITY autoFormatCmd.label "Automatisch herkennen ">
+<!ENTITY autoFormatCmd.accesskey "A">
+<!ENTITY plainTextFormatCmd.label "Alleen platte tekst">
+<!ENTITY plainTextFormatCmd.accesskey "p">
+<!ENTITY htmlFormatCmd.label "Alleen HTML-tekst">
+<!ENTITY htmlFormatCmd.accesskey "H">
+<!ENTITY bothFormatCmd.label "Platte en HTML-tekst">
+<!ENTITY bothFormatCmd.accesskey "e">
+
+<!ENTITY UuencodeAttachmentCmd.label "Uuencode instead of MIME for Attachments">
+
+
+<!ENTITY fileCarbonCopyCmd.label "Bericht kopiëren naar">
+<!ENTITY fileCarbonCopyCmd.accesskey "k">
+<!ENTITY fileHereMenu.label "Hier opslaan">
+
+<!--LOCALIZATION NOTE Debug Menu Don't translate anything in the Debug menu section -->
+<!-- Debug Menu, imported from editorAppShell.dtd -->
+<!ENTITY debugMenu.label "Debug">
+<!ENTITY outputTextCmd.label "Output Text">
+<!ENTITY outputHTMLCmd.label "Output HTML">
+<!ENTITY insertTextCmd.label "Insert Text">
+<!ENTITY testSelectionCmd.label "Test Selection">
+<!ENTITY testTableLayoutCmd.label "Test Table Layout">
+<!ENTITY testDocumentCmd.label "Test Document">
+<!ENTITY showEmbeddedCmd.label "Show Embedded Objects">
+<!ENTITY dumpContentCmd.label "Dump Content Tree">
+<!ENTITY runUnitTestsCmd.label "Run Unit Tests">
+<!ENTITY startLogCmd.label "Start Log">
+<!ENTITY stopLogCmd.label "Stop Log">
+<!ENTITY runLogCmd.label "Run Log">
+
+<!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
+<!-- Toolbar items -->
+<!ENTITY sendButton.label "Verzenden">
+<!ENTITY quoteButton.label "Citaat">
+<!ENTITY addressButton.label "Adresboek">
+<!ENTITY attachButton.label "Bijlage">
+<!ENTITY spellingButton.label "Spelling">
+<!ENTITY saveButton.label "Opslaan">
+<!ENTITY stopButton.label "Stop">
+
+<!--tooltips-->
+<!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
+<!ENTITY addressBar.tooltip "Addresbalk">
+<!ENTITY formatToolbar.tooltip "Formatting Toolbar">
+<!ENTITY sendButton.tooltip "Dit bericht nu verzenden">
+<!ENTITY sendlaterButton.tooltip "Dit bericht later verzenden">
+<!ENTITY quoteButton.tooltip "Het vorige bericht citeren">
+<!ENTITY addressButton.tooltip "Een geadresseerde uit een adresboek selecteren">
+<!ENTITY attachButton.tooltip "Een bijlage koppelen">
+<!ENTITY saveButton.tooltip "Dit bericht opslaan">
+<!ENTITY stopButton.tooltip "Stop the current transfer"> 
+
+<!-- Toolbar items, imported from editorAppShell.xul -->
+<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
+<!ENTITY formatToolbar.boldChar "V">
+<!ENTITY formatToolbar.italicChar "I">
+<!ENTITY formatToolbar.underlineChar "O">
+
+<!-- context menu items -->
+<!ENTITY spellCheckNoSuggestions.label "Geen suggesties gevonden">
+<!ENTITY spellCheckIgnoreWord.label "Woord negeren">
+<!ENTITY spellCheckIgnoreWord.accesskey "d">
+<!ENTITY spellCheckAddToDictionary.label "Toevoegen aan woordenboek">
+<!ENTITY spellCheckAddToDictionary.accesskey "T">
+<!ENTITY undo.label "Ongedaan maken">
+<!ENTITY undo.accesskey "O">
+<!ENTITY cut.label "Knippen">
+<!ENTITY cut.accesskey "n">
+<!ENTITY copy.label "Kopiëren">
+<!ENTITY copy.accesskey "K">
+<!ENTITY paste.label "Plakken">
+<!ENTITY paste.accesskey "P">
+<!ENTITY pasteQuote.label "Plakken als citaat">
+<!ENTITY pasteQuote.accesskey "c">
+
+<!ENTITY openAttachment.label "Open">
+<!ENTITY openAttachment.accesskey "O">
+<!ENTITY delete.label "Verwijderen">
+<!ENTITY delete.accesskey "V">
+<!ENTITY renameAttachment.label "Hernoemen…">
+<!ENTITY renameAttachment.accesskey "H">
+<!ENTITY selectAll.label "Alles selecteren">
+<!ENTITY selectAll.accesskey "A">
+<!ENTITY attachFile.label "Bestand(en) koppelen…">
+<!ENTITY attachFile.accesskey "B">
+<!ENTITY attachPage.label "Webpagina koppelen…">
+<!ENTITY attachPage.accesskey "W">

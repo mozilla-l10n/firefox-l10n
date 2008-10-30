@@ -1,0 +1,27 @@
+<!-- extracted from content/viewSource.xul -->
+
+<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.title "&brandShortName;"> 
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.titlemodifier "&brandShortName;"> 
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierseparator " - ">
+<!ENTITY mainWindow.preface "Bron voor: ">
+
+<!ENTITY viewPartialSourceWindow.title "DOM bron">
+
+<!ENTITY menu_wrapLongLines.title "Lange regels terug laten lopen">
+<!ENTITY menu_wrapLongLines.accesskey "L">
+
+<!ENTITY menu_highlightSyntax.label "Syntaxis kleuren">
+<!ENTITY menu_highlightSyntax.accesskey "S">
+
+<!ENTITY findNextCmd.label "Volgende zoeken">
+<!ENTITY findNextCmd.accesskey "N">
+
+<!ENTITY goToLineCmd.label "Naar regel gaan…">
+<!ENTITY goToLineCmd.accesskey "L">
+<!ENTITY goToLineCmd.commandkey "l">
+
+<!ENTITY printSetupCmd.label "Pagina-instellingen…">
+<!ENTITY printSetupCmd.accesskey "I">

@@ -1,0 +1,12 @@
+<!ENTITY accountManagerTitle.label "Accountinstellingen">
+<!ENTITY addAccountButton.label "Account toevoegen…">
+<!ENTITY addAccountButton.accesskey "t">
+<!ENTITY setDefaultButton.label "Instellen als standaard">
+<!ENTITY setDefaultButton.accesskey "I">
+<!ENTITY duplicateButton.label "Duplicaat">
+<!ENTITY removeButton.label "Account verwijderen">
+<!ENTITY removeButton.accesskey "V">
+<!ENTITY duplicate.label "Duplicaat">
+<!ENTITY accountManager.size "width: 64em; height: 50em;">
+<!ENTITY macAccountManager.size "width: 69em; height: 50em;">
+<!ENTITY accountTree.width "width: 17em;">

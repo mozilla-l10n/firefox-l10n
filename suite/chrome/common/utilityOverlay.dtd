@@ -1,0 +1,95 @@
+<!-- these things need to move into utilityOverlay.xul -->
+<!ENTITY offlineGoOfflineCmd.label              "Offline werken">
+<!ENTITY offlineGoOfflineCmd.accesskey          "w">
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
+<!ENTITY fileMenu.label                         "Bestand">
+<!ENTITY fileMenu.accesskey                     "B">
+<!ENTITY newMenu.label                          "Nieuw">
+<!ENTITY newMenu.accesskey                      "i">
+<!ENTITY newBlankPageCmd.label                  "Webpagina in Composer">
+<!ENTITY newBlankPageCmd.accesskey              "C">
+<!ENTITY newBlankPageCmd.key                    "n">
+<!ENTITY newPageFromTemplateCmd.label           "Webpagina op basis van sjabloon">
+<!ENTITY newPageFromTemplateCmd.accesskey       "s">
+<!ENTITY newPageFromDraftCmd.label              "Webpagina op basis van klad">
+<!ENTITY newPageFromDraftCmd.accesskey          "k">
+<!ENTITY newNavigatorCmd.label                  "Browservenster">
+<!ENTITY newNavigatorCmd.key                    "N">
+<!ENTITY newNavigatorCmd.accesskey              "B">
+
+<!ENTITY editMenu.label                         "Bewerken">
+<!ENTITY editMenu.accesskey                     "w">
+<!ENTITY undoCmd.label                          "Ongedaan maken">
+<!ENTITY undoCmd.key                            "Z">
+<!ENTITY undoCmd.accesskey                      "O">
+<!ENTITY redoCmd.label                          "Opnieuw uitvoeren">
+<!ENTITY redoCmd.key                            "Y">
+<!ENTITY redoCmd.accesskey                      "u">
+<!ENTITY cutCmd.label                           "Knippen">
+<!ENTITY cutCmd.key                             "X">
+<!ENTITY cutCmd.accesskey                       "n">
+<!ENTITY copyCmd.label                          "Kopiëren">
+<!ENTITY copyCmd.key                            "C">
+<!ENTITY copyCmd.accesskey                      "K">
+<!ENTITY pasteCmd.label                         "Plakken">
+<!ENTITY pasteCmd.key                           "V">
+<!ENTITY pasteCmd.accesskey                     "P">
+<!ENTITY deleteCmd.label                        "Verwijderen">
+<!ENTITY deleteCmd.key                          "w">
+<!ENTITY deleteCmd.accesskey                    "V">
+<!ENTITY selectAllCmd.label                     "Alles selecteren">
+<!ENTITY selectAllCmd.key                       "A">
+<!ENTITY selectAllCmd.accesskey                 "A">
+<!ENTITY preferencesCmd.label                   "Voorkeuren…">
+<!ENTITY preferencesCmd.key                     "V">
+<!ENTITY preferencesCmd.accesskey               "o">
+<!ENTITY findTypeTextCmd.label                  "Zoeken terwijl u typt">
+<!ENTITY findTypeTextCmd.accesskey              "Z">
+<!ENTITY findTypeLinksCmd.label                 "Koppelingen zoeken terwijl u typt">
+<!ENTITY findTypeLinksCmd.accesskey             "K">
+
+<!ENTITY viewMenu.label                         "Beeld">
+<!ENTITY viewMenu.accesskey                     "l">
+<!ENTITY viewToolbarsMenu.label                 "Tonen/verbergen">
+<!ENTITY viewToolbarsMenu.accesskey             "T">
+<!ENTITY showTaskbarCmd.label                   "Statusbalk">
+<!ENTITY showTaskbarCmd.accesskey               "S">
+
+<!ENTITY helpMenu.label                         "Help">
+<!ENTITY helpMenu.accesskey                     "H">   
+
+<!ENTITY releaseCmd.label                       "Uitgaveopmerkingen">
+<!ENTITY releaseCmd.accesskey                   "U">
+<!ENTITY updateCmd.label                        "Controleren op updates…">
+<!ENTITY updateCmd.accesskey                    "C">
+<!ENTITY aboutCmd.label                         "Over &brandShortName;">
+<!ENTITY aboutCmd.accesskey                     "s">
+<!ENTITY aboutCommPluginsCmd.label              "Over plug-ins">
+<!ENTITY aboutCommPluginsCmd.accesskey          "p">
+
+<!ENTITY direct.label                           "Online (proxy: geen)">
+<!ENTITY direct.accesskey                       "n">
+<!ENTITY manual.label                           "Online (proxy: handmatig)">
+<!ENTITY manual.accesskey                       "h">
+<!ENTITY pac.label                              "Online (proxy: auto-URL)">
+<!ENTITY pac.accesskey                          "a">
+<!ENTITY wpad.label                             "Online (proxy: autodetectie)">
+<!ENTITY wpad.accesskey                         "d">
+<!ENTITY system.label                                   "Online (Proxy: Systeemproxy)">
+<!ENTITY system.accesskey                               "S">
+
+<!ENTITY proxy.label                            "Proxyconfiguratie…">
+<!ENTITY proxy.accesskey                        "P">
+
+<!ENTITY bidiSwitchTextDirectionItem.label      "Tekstrichting omkeren">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey  "n">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
+
+<!-- Popup Blocked notification menu -->
+<!ENTITY allowPopups.accesskey        "p">
+<!ENTITY showPopupManager.label       "Beheer Pop-ups">
+<!ENTITY showPopupManager.accesskey   "B">
+<!ENTITY dontShowMessage.label        "Laat dit bericht niet zien als er pop-ups zijn geblokkeerd">
+<!ENTITY dontShowMessage.accesskey    "L">

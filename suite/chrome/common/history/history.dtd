@@ -1,0 +1,35 @@
+<!-- extracted from ./history.xul -->
+
+<!ENTITY menuBar.tooltip            "Menubalk">
+<!ENTITY fileMenu.label             "Bestand">
+<!ENTITY closeCmd.label             "Sluiten">
+<!ENTITY editMenu.label             "Bewerken">
+<!ENTITY undoCmd.label              "Ongedaan maken">
+<!ENTITY redoCmd.label              "Opnieuw uitvoeren">
+<!ENTITY cutCmd.label               "Knippen">
+<!ENTITY copyCmd.label              "Kopiëren">
+<!ENTITY pasteCmd.label             "Plakken">
+<!ENTITY deleteCmd.label            "Verwijderen">
+<!ENTITY deleteHostnameCmd.accesskey "H">
+<!ENTITY deleteDomainCmd.accesskey  "s">
+<!ENTITY selAllCmd.label            "Alles selecteren">
+<!ENTITY findHisCmd.label           "Geschiedenis doorzoeken…">
+<!ENTITY findHisCmd.commandkey      "f">
+<!ENTITY findHisCmd.accesskey       "G">
+<!ENTITY groupBy.label              "Sorteren op">
+<!ENTITY groupBy.accesskey          "S">
+<!ENTITY groupByDay.label           "Dag">
+<!ENTITY groupByDay.accesskey       "D">
+<!ENTITY groupBySite.label          "Website">
+<!ENTITY groupBySite.accesskey      "S">
+<!ENTITY groupByNone.label          "Geen">
+<!ENTITY groupByNone.accesskey      "G">
+<!ENTITY historyWindowTitle.label   "Geschiedenis">
+<!ENTITY menuitem.view.unsorted.label "Ongesorteerd">
+<!ENTITY menuitem.view.unsorted.accesskey "O">
+<!ENTITY sortAscending.label        "Oplopend">
+<!ENTITY sortAscending.accesskey    "o">
+<!ENTITY sortDescending.label       "Aflopend">
+<!ENTITY sortDescending.accesskey   "d">
+<!ENTITY menuitem.view.show_columns.label "Kolommen tonen">
+<!ENTITY menuitem.view.show_columns.accesskey "K">

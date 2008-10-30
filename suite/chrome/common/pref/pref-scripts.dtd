@@ -1,0 +1,20 @@
+<!-- extracted from content/pref-scripts.xul -->
+
+<!--LOCALIZATION NOTE : FILE The 'Scripts & Plug-ins' preferences dialog -->
+<!ENTITY pref.scripts.title              "Scripts &amp; plug-ins">
+
+<!ENTITY navigator.label                 "Browser">
+<!ENTITY navigator.accesskey             "B">
+
+<!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
+<!ENTITY enableJavaScript.label          "JavaScript inschakelen voor">
+<!ENTITY allowScripts.label              "Scripts toestaan om:">
+<!ENTITY allowScripts.accesskey          "s">
+<!ENTITY allowWindowMoveResize.label     "Bestaande vensters te verplaatsen, vergroten of verkleinen">
+<!ENTITY allowWindowFlip.label           "Vensters te minimaliseren of maximaliseren">
+<!ENTITY allowWindowStatusChange.label   "Statusbalktekst aan te passen">
+<!ENTITY allowWindowImageSrcChange.label "Afbeeldingen aan te passen">
+<!ENTITY allowContextmenuDisable.label   "Contextmenu&apos;s in-/uitschakelen">
+<!ENTITY allowHideStatusBar.label        "De statusbalk te verbergen">
+
+<!ENTITY enablePlugin.label              "Plug-ins inschakelen voor">

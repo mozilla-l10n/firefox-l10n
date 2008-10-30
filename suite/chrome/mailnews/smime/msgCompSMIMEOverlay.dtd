@@ -1,0 +1,16 @@
+<!ENTITY securityMenu.label "Beveiliging">
+<!ENTITY securityMenu.accesskey "v">
+<!ENTITY menu_securityEncryptIfPossible.label "Versleutelen indien mogelijk">
+<!ENTITY menu_securityEncryptIfPossible.accesskey "m">
+<!ENTITY menu_securityEncryptRequire.label "Bericht versleutelen">
+<!ENTITY menu_securityEncryptRequire.accesskey "v">
+<!ENTITY menu_securityNoEncryption.label "Bericht niet versleutelen">
+<!ENTITY menu_securityNoEncryption.accesskey "N">
+<!ENTITY menu_securitySign.label "Bericht digitaal ondertekenen">
+<!ENTITY menu_securitySign.accesskey "O">
+<!ENTITY menu_securityStatus.label "Beveiligingsinfo bekijken">
+<!ENTITY menu_securityStatus.accesskey "I">
+<!ENTITY securityButton.label "Beveiliging">
+<!ENTITY securityButton.tooltip "Beveiligingsinstellingen bekijken of veranderen">
+<!ENTITY menu_viewSecurityStatus.label "Beveiligingsinfo">
+<!ENTITY menu_viewSecurityStatus.accesskey "I">

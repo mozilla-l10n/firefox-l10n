@@ -1,0 +1,21 @@
+<!--null-->
+<!ENTITY pref.notifications.title "Notificaties">
+<!ENTITY notifications.caption "Notificaties">
+<!ENTITY newMessagesArrive.label "Als nieuwe berichten arriveren:">
+<!ENTITY playSound.label "Een geluid afspelen">
+<!ENTITY playSound.accesskey "P">
+<!ENTITY showAnimatedAlert.label "Een melding tonen">
+<!ENTITY showAnimatedAlert.accesskey "t">
+<!ENTITY showTrayIcon.label "Een werkbalkicoon tonen">
+<!ENTITY showTrayIcon.accesskey "t">
+<!ENTITY bounceSystemDockIcon.label "Het systeemvakpictogram animeren">
+<!ENTITY bounceSystemDockIcon.accesskey "i">
+<!ENTITY preview.label "Voorbeeld">
+<!ENTITY preview.accesskey "v">
+<!ENTITY systemsound.label "Standaard systeemgeluid voor nieuwe e-mail">
+<!ENTITY systemsound.accesskey "y">
+<!ENTITY customsound.label "Het volgende geluidsbestand gebruiken">
+<!ENTITY customsound.accesskey "v">
+<!ENTITY browse.label "Bladeren…">
+<!ENTITY browse.accesskey "B">
+<!ENTITY browse.title "bestand kiezen">

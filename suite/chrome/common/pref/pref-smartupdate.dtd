@@ -1,0 +1,22 @@
+<!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
+<!ENTITY pref.smartUpdate.title               "Software-Installatie">
+<!ENTITY smartTitle.label                     "Software-installaties en -updates beheren">
+<!ENTITY enableSU.label                       "Websites toestaan om extensies en updates te installeren">
+<!ENTITY enableSU.accesskey                   "w">
+<!ENTITY allowedSites.label                   "Toegestaande sites">
+<!ENTITY allowedSites.accesskey               "T">
+
+<!ENTITY verifyUpdates.caption                "Updates">
+<!ENTITY autoUpdates.label                    "Automatisch controleren op updates voor:">
+<!ENTITY appUpdates.label                     "&brandShortName;">
+<!ENTITY appUpdates.accesskey                 "S">
+<!ENTITY daily.label                          "dagelijks">
+<!ENTITY appDaily.accesskey                   "d">
+<!ENTITY weekly.label                         "wekelijks">
+<!ENTITY appWeekly.accesskey                  "w">
+<!ENTITY extensionsUpdates.label              "Geïnstalleerde Add-ons">
+<!ENTITY extensionsUpdates.accesskey          "n">
+<!ENTITY extensionsDaily.accesskey            "i">
+<!ENTITY extensionsWeekly.accesskey           "k">
+<!ENTITY addonManagerButton.label             "Add-onbeheerder">
+<!ENTITY addonManagerButton.accesskey         "b">

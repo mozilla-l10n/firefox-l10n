@@ -1,0 +1,31 @@
+<!ENTITY pref.download.title "Downloads">
+<!ENTITY downloadBehavior.label "Tijdens het starten van het ophalen van een bestand">
+<!ENTITY downloadLocation.label "Tijdens het opslaan van een bestand">
+<!ENTITY finishedBehavior.label "Wanneer het ophalen van een bestand is voltooid">
+<!ENTITY openDM.label "De Downloadbeheerder openen">
+<!ENTITY openDM.accesskey "D">
+<!ENTITY openProgressDialog.label "Een voortgangsdialoogvenster openen">
+<!ENTITY openProgressDialog.accesskey "V">
+<!ENTITY doNothing.label "Niets openen">
+<!ENTITY doNothing.accesskey "N">
+<!ENTITY promptDownload.label "Naar locatie voor ophalen vragen en standaard gebruik maken van">
+<!ENTITY promptDownload.accesskey "R">
+<!ENTITY lastLocation.label "Laatste map voor ophalen">
+<!ENTITY lastLocation.accesskey "L">
+<!ENTITY specifiedLocation.label "Gespecifieerde map voor ophalen">
+<!ENTITY specifiedLocation.accesskey "G">
+<!ENTITY autoDownload.label "Bestanden automatisch ophalen naar de gespecifieerde map">
+<!ENTITY autoDownload.accesskey "A">
+<!ENTITY downloadFolder.label "Huidige map voor ophalen:">
+<!ENTITY chooseDownloadFolder.label "Map kiezen…">
+<!ENTITY chooseDownloadFolder.accesskey "M">
+<!ENTITY playSound.label "Een geluid afspelen">
+<!ENTITY playSound.accesskey "G">
+<!ENTITY showAlert.label "Een waarschuwing tonen">
+<!ENTITY showAlert.accesskey "W">
+<!ENTITY browse.label "Bladeren…">
+<!ENTITY browse.accesskey "B">
+<!ENTITY preview.label "Voorbeeld">
+<!ENTITY preview.accesskey "V">
+<!ENTITY soundURL.label "URL van geluid:">
+<!ENTITY soundURL.accesskey "U">

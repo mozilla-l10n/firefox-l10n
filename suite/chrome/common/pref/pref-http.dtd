@@ -1,0 +1,17 @@
+<!ENTITY pref.http.title "HTTP Networking">
+<!ENTITY prefDirect.label "Directe verbindingsopties">
+<!ENTITY prefProxy.label "Proxy verbindingsopties">
+<!ENTITY prefEnableHTTP10.label "HTTP 1.0 gebruiken">
+<!ENTITY prefEnableHTTP10.accesskey "H">
+<!ENTITY prefEnableHTTP10Proxy.accesskey "P">
+<!ENTITY prefEnableHTTP11.label "HTTP 1.1 gebruiken">
+<!ENTITY prefEnableHTTP11.accesskey "T">
+<!ENTITY prefEnableHTTP11Proxy.accesskey "T">
+<!ENTITY prefEnableKeepAlive.label "Keep-Alive inschakelen">
+<!ENTITY prefEnableKeepAlive.accesskey "K">
+<!ENTITY prefEnableKeepAliveProxy.accesskey "E">
+<!ENTITY prefEnablePipelining.label "Pipelining inschakelen">
+<!ENTITY prefEnablePipelining.accesskey "P">
+<!ENTITY prefEnablePipeliningProxy.accesskey "I">
+<!ENTITY prefPara "HTTP verbindingen kunnen, gebruikmakend van deze opties, afgesteld worden om danwel prestatie danwel compatibiliteit te verbeteren. Van sommige proxy-servers is bijvoorbeeld bekend dat ze HTTP/1.0 (bekijk de uitgave opmerkingen voor details) vereisen.">
+<!ENTITY prefPipeWarning "WAARSCHUWING: pipelining is een experimentele mogelijkheid, ontworpen om de prestatie tijden het laden van pagina’s te verbeteren, het wordt helaas niet goed ondersteund door sommige webservers en proxies.">

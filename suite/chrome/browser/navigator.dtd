@@ -1,0 +1,213 @@
+<!-- extracted from content/navigator.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate accesskey and commandkey --> 
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE --> 
+<!ENTITY mainWindow.title "&brandShortName;"> 
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.titlemodifier "&brandShortName;"> 
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+
+<!ENTITY nothingAvailable.label "(Niets beschikbaar)">
+
+<!ENTITY browserCmd.label       "Nieuw browservenster">
+<!ENTITY browserCmd.accesskey	"N">
+<!ENTITY tabCmd.label "Browsertabblad">
+<!ENTITY tabCmd.accesskey "t">
+<!ENTITY tabCmd.commandkey "T">
+<!ENTITY openCmd.label "Weblocatie openen…">
+<!ENTITY openCmd.accesskey "W">
+<!ENTITY openCmd.commandkey "l">
+<!ENTITY openFileCmd.label "Bestand openen…">
+<!ENTITY openFileCmd.accesskey "o">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY recentTabs.label "Onlangs gesloten tabbladen">
+<!ENTITY recentTabs.accesskey "t">
+<!ENTITY recentTabs.commandkey "t">
+<!ENTITY editPageCmd.label "Pagina bewerken">
+<!ENTITY editPageCmd.accesskey "e">
+<!ENTITY editPageCmd.commandkey "e">
+<!ENTITY editFrameCmd.label "Deelvenster bewerken">
+<!ENTITY editFrameCmd.accesskey "v">
+<!ENTITY editFrameSetCmd.label "Deelvensterverzameling bewerken">
+<!ENTITY editFrameSetCmd.accesskey "t">
+
+<!ENTITY uploadFile.label "Bestand publiceren…">
+<!ENTITY uploadFile.accesskey "p">
+
+<!ENTITY printSetupCmd.label "Pagina-instellingen…">
+<!ENTITY printSetupCmd.accesskey "i">
+<!ENTITY printPreviewCmd.label "Afdrukvoorbeeld">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "Afdrukken…">
+<!ENTITY printCmd.accesskey "d">
+<!ENTITY printCmd.commandkey "p">
+
+<!ENTITY viewMenu.label "Beeld">
+<!ENTITY viewMenu.accesskey "K">
+
+<!ENTITY toolbarsCmd.label "Tonen/Verbergen">
+<!ENTITY toolbarsCmd.accesskey "T">
+<!ENTITY navbarCmd.label "Navigatiewerkbalk">
+<!ENTITY navbarCmd.accesskey "N">
+<!ENTITY personalbarCmd.label "Persoonlijke werkbalk">
+<!ENTITY personalbarCmd.accesskey "P">
+<!ENTITY tabbarCmd.label "Tabbladenbalk">
+<!ENTITY tabbarCmd.accesskey "T">
+<!ENTITY taskbarCmd.label "Statusbalk">
+<!ENTITY taskbarCmd.accesskey "S">
+<!ENTITY componentbarCmd.label "Componentenbalk">
+<!ENTITY componentbarCmd.accesskey "C">
+
+<!ENTITY useStyleSheetMenu.label "Stijl gebruiken">
+<!ENTITY useStyleSheetMenu.accesskey "S">
+<!ENTITY useStyleSheetNone.label "Geen">
+<!ENTITY useStyleSheetNone.accesskey "G">
+<!ENTITY useStyleSheetPersistentOnly.label "Standaard paginastijl">
+<!ENTITY useStyleSheetPersistentOnly.accesskey "T">
+<!ENTITY pageSourceCmd.label "Paginabron">
+<!ENTITY pageSourceCmd.accesskey "P">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "Pagina-info">
+<!ENTITY pageInfoCmd.accesskey "i">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY fullScreenCmd.label "Volledig scherm">
+<!ENTITY fullScreenCmd.accesskey "V">
+<!ENTITY translateMenu.label "Pagina vertalen">
+<!ENTITY translateMenu.accesskey "t">
+<!ENTITY translate.commandKey "t">
+
+<!ENTITY closeOtherTabs.label "Overige tabbladen sluiten">
+<!ENTITY closeOtherTabs.accesskey "t">
+<!ENTITY closeWindow.label "Venster sluiten">
+<!ENTITY closeWindow.accesskey "V">
+
+<!ENTITY minimizeButton.tooltip       "Minimaliseren">
+<!ENTITY restoreButton.tooltip        "Herstellen">
+
+<!-- I'd like all this to move to an overlay or something -->
+<!ENTITY bidiMenu.label "Bidi-opties">
+<!ENTITY directionBidiMenu.label "Standaardrichting">
+<!ENTITY directionRTLBidiCmd.label "Van rechts naar links">
+<!ENTITY directionLTRBidiCmd.label "Van links naar rechts">
+<!ENTITY texttypeBidiMenu.label "Tekstsoort">
+<!ENTITY charsettexttypeBidiCmd.label "Gebaseerd op tekenset">
+<!ENTITY logicaltexttypeBidiCmd.label "Logisch">
+<!ENTITY visualtexttypeBidiCmd.label "Visueel">
+<!ENTITY numeralBidiMenu.label "Numerieke vorm">
+<!ENTITY regularcontextnumeralBidiCmd.label "Contextafhankelijk">
+<!ENTITY hindicontextnumeralBidiCmd.label "Hindi-nummers in RTL-documentrichting">
+<!ENTITY arabicnumeralBidiCmd.label "Arabisch">
+<!ENTITY hindinumeralBidiCmd.label "Hindi">
+<!ENTITY controlstextmodeBidiMenu.label "Tekstmodus in controls">
+<!ENTITY logicalcontrolstextmodeBidiCmd.label "Logisch">
+<!ENTITY visiualcontrolstextmodeBidiCmd.label "Visueel">
+<!ENTITY containercontrolstextmodeBidiCmd.label "Zoals het document dat het bevat">
+<!ENTITY charactersetBidiMenu.label "Tekenset">
+<!ENTITY doccharactersetBidiCmd.label "De door het document gespecificeerde tekenset gebruiken">
+<!ENTITY defaultcharactersetBidiCmd.label "Mijn standaard tekenset gebruiken en de door het document gespecificeerde set negeren">
+
+<!ENTITY webContentMenu.label "Talen en webinhoud">
+<!ENTITY webContentMenu.accesskey "l">
+<!ENTITY downloadMore.label "Meer downloaden">
+<!ENTITY downloadMore.accesskey "d">
+<!ENTITY applyTheme.label       "Thema toepassen">
+<!ENTITY applyTheme.accesskey	"n"> 
+<!ENTITY getNewThemesCmd.label "Nieuwe thema’s verkrijgen">
+<!ENTITY getNewThemesCmd.accesskey "N">
+<!ENTITY searchMenu.label "Zoeken">
+<!ENTITY searchMenu.accesskey "S">
+<!ENTITY findOnCmd.label "Zoeken in deze pagina…">
+<!ENTITY findOnCmd.accesskey "Z">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label "Nogmaals zoeken">
+<!ENTITY findAgainCmd.accesskey "m">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findPrevCmd.label "Vorige zoeken">
+<!ENTITY findPrevCmd.accesskey "r">
+<!ENTITY findPrevCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findPrevCmd.commandkey2 "VK_F3">
+
+<!ENTITY searchInternetCmd.label "Zoeken op het web">
+<!ENTITY searchInternetCmd.accesskey "Z">
+<!ENTITY searchInternet.commandKey "s">
+
+<!ENTITY clearPrivateDataCmd.label "Privégegevens opruimen">
+<!ENTITY clearPrivateDataCmd.accesskey "P">
+
+<!ENTITY goMenu.label "Ga naar">
+<!ENTITY goMenu.accesskey "G">
+<!ENTITY goHomeCmd.label "Beginpagina">
+<!ENTITY goHomeCmd.accesskey "B">
+
+<!ENTITY bookmarksMenu.label "Bladwijzers">
+<!ENTITY bookmarksMenu.accesskey "a">
+<!ENTITY addCurPageCmd.label "Deze pagina toevoegen aan bladwijzers">
+<!ENTITY addCurPageCmd.accesskey "t">
+<!ENTITY addCurPageAsCmd.label "Bladwijzer archiveren…">
+<!ENTITY addCurPageAsCmd.accesskey "a">
+<!ENTITY addCurPageAsCmd.commandkey "d">
+<!ENTITY addCurTabsAsCmd.label "Deze groep tabbladen toevoegen aan bladwijzers…">
+<!ENTITY addCurTabsAsCmd.accesskey "g">
+<!ENTITY manBookmarksCmd.label "Bladwijzers beheren…">
+<!ENTITY manBookmarksCmd.accesskey "b">
+<!ENTITY manBookmarksCmd.commandkey "b">
+<!ENTITY feedsMenu.label "Abonneren op deze pagina">
+<!ENTITY feedsMenu.accesskey "a">
+<!ENTITY emptyItem.label "(Leeg)">
+
+<!ENTITY helpMenuCmd.label "Help">
+<!ENTITY helpMenuCmd.accesskey "H">
+<!ENTITY helpContentsCmd.label "Helpinhoud">
+<!ENTITY softwareUpdatesCmd.label "Software-updates">
+<!ENTITY technicalSupportCmd.label "Technische ondersteuning">
+<!ENTITY releaseNotesCmd.label "Uitgaveopmerkingen">
+
+<!ENTITY menuBar.tooltip                  "Menubalk">
+<!ENTITY personalToolbar.tooltip          "Persoonlijke werkbalk">
+<!ENTITY navigationToolbar.tooltip        "Navigatiewerkbalk">
+
+<!-- Toolbar items --> 
+<!ENTITY backButton.label             "Terug">
+<!ENTITY backButton.tooltip           "Een pagina terug gaan">
+<!ENTITY forwardButton.label          "Vooruit">
+<!ENTITY forwardButton.tooltip        "Een pagina vooruit gaan">
+<!ENTITY reloadButton.label           "Herladen">
+<!ENTITY reloadButton.tooltip         "Huidige pagina herladen">
+<!ENTITY stopButton.label             "Stoppen">
+<!ENTITY stopButton.tooltip           "Het laden van deze pagina stoppen">
+<!ENTITY searchButton.label           "Zoeken">
+<!ENTITY searchButton.tooltip         "Typ een woord in het veld aan de linkerkant en klik dan op Zoeken">
+<!ENTITY goButton.label               "Ga naar">
+<!ENTITY goButton.tooltip             "Typ een locatie in het veld aan de linkerkant en klik dan op Ga naar">
+<!ENTITY printButton.label            "Afdrukken">
+<!ENTITY printButton.tooltip          "Deze pagina afdrukken">
+
+<!ENTITY throbber.tooltip             "Ga naar de &vendorShortName;-beginpagina">
+
+<!ENTITY locationBar.tooltip          "Voer een zoekterm, sleutelwoord of webadres in">
+<!ENTITY locationBar.accesskey        "d">
+<!ENTITY locationBar.title            "Locatie">
+
+<!ENTITY proxyIcon.tooltip            "Sleep dit pictogram om een koppeling naar deze pagina te maken">
+<!ENTITY internetKeyword.tooltip      "Keer terug naar een eerder weergegeven pagina of kies een sleutelwoord">
+
+<!-- Toolbar items --> 
+<!ENTITY  bookmarksButton.label       "Bladwijzers">
+<!ENTITY  bookmarksButton.tooltip     "Bladwijzerlijst">
+<!ENTITY  homeButton.label            "Beginpagina">
+
+<!-- Statusbar -->
+<!ENTITY  statusText.label            "Voltooid">
+
+<!ENTITY historyCmd.label           "Geschiedenis">
+<!ENTITY historyCmd.accesskey       "i">
+<!ENTITY history.commandKey         "h">
+
+<!ENTITY popupIcon.tooltiptext      "Pop-ups van deze website deblokkeren">
+
+<!ENTITY bidiSwitchPageDirectionItem.label        "Paginarichting omdraaien">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "P">

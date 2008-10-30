@@ -1,0 +1,29 @@
+<!ENTITY copyAndFolderTitle.label "Kopieën &amp; Mappen">
+<!ENTITY sendingPrefix.label "Bij het verzenden van berichten, automatisch:">
+<!ENTITY fccMailFolder.label "Een kopie plaatsen in:">
+<!ENTITY fccMailFolder.accesskey "k">
+<!ENTITY fccReplyFollowsParent.label "Antwoorden plaatsen in de map van het bericht waarop wordt geantwoord">
+<!ENTITY fccReplyFollowsParent.accesskey "l">
+<!ENTITY chooseFolderButton.label "Map kiezen…">
+<!ENTITY bccAddress.label "Bcc naar deze e-mailadressen:">
+<!ENTITY bccAddress.accesskey "B">
+<!ENTITY specialFolderTitle.label "Speciale mappen">
+<!ENTITY draftMailFolder.label "Berichtconcepten bewaren in:">
+<!ENTITY templateMailFolder.label "Berichtsjablonen bewaren in:">
+<!ENTITY saveMessageDlg.label "Bevestiging weergeven als berichten zijn opgeslagen">
+<!ENTITY saveMessageDlg.accesskey "w">
+<!ENTITY sentFolderOn.label "Map &quot;Verzonden&quot; in:">
+<!ENTITY sentFolderOn.accesskey "V">
+<!ENTITY sentInOtherFolder.label "Anders:">
+<!ENTITY sentInOtherFolder.accesskey "A">
+<!ENTITY draftsFolderOn.label "Map &quot;Concepten&quot; in:">
+<!ENTITY draftsFolderOn.accesskey "C">
+<!ENTITY draftInOtherFolder.label "Anders:">
+<!ENTITY draftInOtherFolder.accesskey "n">
+<!ENTITY templatesFolderOn.label "Map &quot;Sjablonen&quot; in:">
+<!ENTITY templatesFolderOn.accesskey "S">
+<!ENTITY templateInOtherFolder.label "Anders:">
+<!ENTITY templateInOtherFolder.accesskey "d">
+<!ENTITY specialFoldersTitle.label "Concepten en sjablonen">
+<!ENTITY keepDrafts.label "Berichtconcepten bewaren in:">
+<!ENTITY keepTempltes.label "Berichtsjablonen bewaren in:">

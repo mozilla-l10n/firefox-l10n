@@ -1,0 +1,9 @@
+<!--null-->
+<!ENTITY all.label "Alle berichtkoppen downloaden">
+<!ENTITY all.accesskey "d">
+<!ENTITY download.label "Download">
+<!ENTITY download.accesskey "o">
+<!ENTITY headers.label "berichtkoppen">
+<!ENTITY headers.accesskey "k">
+<!ENTITY mark.label "Overige berichten als gelezen markeren">
+<!ENTITY mark.accesskey "M">

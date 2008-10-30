@@ -1,0 +1,28 @@
+<!ENTITY window.title "Berichtenfilters">
+<!ENTITY nameColumn.label "Filternaam">
+<!ENTITY activeColumn.label "Actief">
+<!ENTITY newButton.label "Nieuw…">
+<!ENTITY newButton.accesskey "N">
+<!ENTITY editButton.label "Bewerken…">
+<!ENTITY editButton.accesskey "B">
+<!ENTITY deleteButton.label "Verwijderen">
+<!ENTITY deleteButton.accesskey "V">
+<!ENTITY reorderUpButton.label "Omhoog verplaatsen">
+<!ENTITY reorderUpButton.accesskey "h">
+<!ENTITY reorderDownButton.label "Omlaag verplaatsen">
+<!ENTITY reorderDownButton.accesskey "l">
+<!ENTITY filterHeader.label "Geactiveerde filters werken in de onderstaande volgorde.">
+<!ENTITY filtersForPrefix.label "Filters voor:">
+<!ENTITY filtersForPrefix.accesskey "F">
+<!ENTITY viewLogButton.label "Filterlogboek">
+<!ENTITY viewLogButton.accesskey "i">
+<!ENTITY runFilters.label "Nu toepassen">
+<!ENTITY runFilters.accesskey "T">
+<!ENTITY stopFilters.label "Stoppen">
+<!ENTITY stopFilters.accesskey "S">
+<!ENTITY folderPickerPrefix.label "Geselecteerde filter(s) toepassen op:">
+<!ENTITY folderPickerPrefix.accesskey "P">
+<!ENTITY choosethis.label "Deze map kiezen">
+<!ENTITY choosethisnewsserver.label "Deze nieuwsserver kiezen">
+<!ENTITY helpButton.label "Help">
+<!ENTITY helpButton.accesskey "H">
