@@ -237,6 +237,8 @@
 <!ENTITY reloadImageCmd.accesskey     "m">
 <!ENTITY viewImageCmd.label           "Afficher l'image">
 <!ENTITY viewImageCmd.accesskey       "h">
+<!ENTITY viewVideoCmd.label           "Afficher la vidéo">
+<!ENTITY viewVideoCmd.accesskey       "v">
 <!ENTITY viewBGImageCmd.label         "Afficher l'image de fond">
 <!ENTITY viewBGImageCmd.accesskey     "h">
 <!ENTITY setDesktopBackgroundCmd.label      "Choisir l'image comme fond d'écran">
