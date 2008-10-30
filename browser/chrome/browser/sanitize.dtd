@@ -17,6 +17,6 @@
 <!ENTITY itemOfflineApps.accesskey "t">
 <!ENTITY itemDownloads.label "Ferill niðurhals">
 <!ENTITY itemDownloads.accesskey "N">
-<!ENTITY itemSessions.label "Sannvottaðar lotur">
-<!ENTITY itemSessions.accesskey "S">
+<!ENTITY itemActiveLogins.label "Virkar innskráningar">
+<!ENTITY itemActiveLogins.accesskey "i">
 <!ENTITY window.width "30em">
