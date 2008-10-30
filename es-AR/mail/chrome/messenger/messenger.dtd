@@ -688,9 +688,9 @@
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Servicios">
 <!ENTITY hideThisAppCmdMac.label        "Ocultar &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "O">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
-<!ENTITY hideOtherAppsCmdMac.label      "Ocultar otros">
-<!ENTITY hideOtherAppsCmdMac.commandkey "O">
+<!ENTITY hideOtherAppsCmdMac.label      "Ocultar otras">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Mostrar todo">
