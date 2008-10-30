@@ -1,0 +1,22 @@
+<!--LOCALIZATION NOTE : FILE The Location Bar prefs panel -->
+<!ENTITY pref.locationBar.title                "Barra de localização">
+
+<!ENTITY autoComplete.label                    "Auto completar">
+<!ENTITY enableAutoComplete.label              "Auto completar a partir do seu histórico de navegação">
+<!ENTITY enableAutoComplete.accesskey          "A">
+<!ENTITY autoCompleteAutoFill.label            "Completar automáticamente com a melhor opção">
+<!ENTITY autoCompleteAutoFill.accesskey        "u">
+<!ENTITY autoCompleteShowPopup.label           "Mostrar lista com os resultados">
+<!ENTITY autoCompleteShowPopup.accesskey       "s">
+<!ENTITY autoCompleteMatchOnlyTyped.label      "Mostrar apenas os sítios web escritos anteriormente">
+<!ENTITY autoCompleteMatchOnlyTyped.accesskey  "M">
+
+<!ENTITY searchEngine.label                    "Motor de pesquisa da internet">
+<!ENTITY showSearchEngine.label                "Mostrar o motor de pesquisa pré-definido">
+<!ENTITY showSearchEngine.accesskey            "e">
+
+<!ENTITY unknownLocations.label                "Localizações desconhecidas">
+<!ENTITY domainGuessing.label                  "Adicionar &quot;www.&quot; e &quot;.com&quot; à localização se não for encontrada uma página web">
+<!ENTITY domainGuessing.accesskey              "d">
+<!ENTITY keywords.label                        "Efectuar uma pesquisa na web quando o texto introduzido não for um endereço">
+<!ENTITY keywords.accesskey                    "f">

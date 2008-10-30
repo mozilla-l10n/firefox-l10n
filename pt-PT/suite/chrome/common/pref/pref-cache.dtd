@@ -1,0 +1,28 @@
+<!-- extracted from content/pref-cache.xul -->
+
+<!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
+<!ENTITY pref.cache.title                "Cache">
+<!ENTITY pref.cache.caption              "Aplicar Opções de Cache">
+<!ENTITY cachePara                       "A cache mantém cópias das páginas web visitadas frequentemente no seu disco rígido. (Clicar em Recarregar mostra sempre a última versão da página.)">
+<!ENTITY diskCache.label                 "Tamanho:">
+<!ENTITY diskCache.accesskey             "T">
+<!ENTITY mbytes                          "MB">
+<!ENTITY diskCacheFolder.label           "Localização da pasta da Cache:">
+<!ENTITY clearDiskCache.label            "Limpar Cache">
+<!ENTITY clearDiskCache.accesskey        "L">
+<!ENTITY chooseDiskCacheFolder.label     "Escolher pasta…">
+<!ENTITY chooseDiskCacheFolder.accesskey "p">
+<!ENTITY diskCacheFolderExplanation      "Os ficheiros da Cache serão guardados numa sub-pasta com o nome &quot;Cache&quot; na directoria que especificou. Reinicie o &brandShortName; para que as alterações tenham efeito.">
+<!ENTITY docCache                        "Comparar a página da cache com a página na rede:">
+<!ENTITY oncePsessionRadio.label         "Uma vez por sessão">
+<!ENTITY oncePsessionRadio.accesskey     "o">
+<!ENTITY everyTimeRadio.label            "Sempre que vejo esta página">
+<!ENTITY everyTimeRadio.accesskey        "e">
+<!ENTITY neverRadio.label                "Nunca">
+<!ENTITY neverRadio.accesskey            "N">
+<!ENTITY autoRadio.label                 "Quando a página estiver desactualizada">
+<!ENTITY autoRadio.accesskey             "Q">
+
+<!ENTITY prefetchTitle.label             "Ligação de Prefetching">
+<!ENTITY enablePrefetch.label            "Fazer Prefetch a páginas web quando estiver em espera, para que ligações em páginas web desenhadas para prefetching possam ser carregadas mais rápidamente">
+<!ENTITY enablePrefetch.accesskey        "P">
