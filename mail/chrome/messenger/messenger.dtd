@@ -688,9 +688,9 @@
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Tenester">
 <!ENTITY hideThisAppCmdMac.label        "Skjul &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "S">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
 <!ENTITY hideOtherAppsCmdMac.label      "Skjul andre">
-<!ENTITY hideOtherAppsCmdMac.commandkey "S">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Vis alle">
