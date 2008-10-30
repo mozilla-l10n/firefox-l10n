@@ -1,0 +1,8 @@
+
+<!ENTITY incompatible.title "नमिल्दो वस्तु">
+<!ENTITY incompatible.intro "निम्न वस्तुहरू &brandShortName; मा यो अद्यावधिकसँग मिल्दोजुल्दो छैन र यो स्थापना गर्दा अक्षम हुनेछ:">
+<!ENTITY incompatible.update "&brandShortName; ले घटनामा तिनीहरूलाई अद्यावधिकका लागि आवधिक रूपमा जाँच गर्नेछ जहाव मिल्दो संस्करण उपलब्ध हुन्छ ।">
+<!ENTITY incompatible.suffix "&brandShortName; अद्यावधिकहरूले महत्वपूर्ण सुरक्षा सुधारहरू समाविष्ट गर्दछ । तपाईँको सुरक्षाको लागि, तपाईँको केही विस्तार र विषयवस्तुहरू नमिलेता पनि &brandShortName; अद्यावधिक गर्नुहोस् भन्ने जोडदार सिफारिस गर्दछ ।">
+                                     
+<!ENTITY closebutton.label "बन्द गर्नुहोस्">
+

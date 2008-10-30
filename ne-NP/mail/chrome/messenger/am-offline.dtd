@@ -1,0 +1,33 @@
+<!ENTITY doNotDownloadPop3Movemail.label "डिस्क खाली स्थान बचत गर्न, डाउनलोड नगर्नुहोस्:">
+<!ENTITY doNotDownload.label "डिस्क खाली स्थान बचत गर्न, अफलाइन प्रयोगका लागि डाउनलोड नगर्नुहोस्:">
+<!ENTITY offlineNewFolder.label "मैले नयाँ फोल्डर सिर्जना गर्दा, अफलाइन प्रयोगका लागि तिनीहरू चयन गर्नुहोस्">
+<!ENTITY offlineNewFolder.accesskey "c">
+<!ENTITY offlineNotDownload.label "यस भन्दा ठूलो सन्देश">
+<!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY kb.label "किलोबाइट">
+<!ENTITY days.label "दिन">
+<!ENTITY daysOld.label "पुराना दिन">
+<!ENTITY message.label "सन्देश">
+<!ENTITY nntpNotDownloadRead.label "सन्देश पढ्नुहोस्">
+<!ENTITY nntpNotDownloadRead.accesskey "R">
+<!ENTITY nntpDownloadMsg.label "यसभन्दा बढी सन्देश">
+<!ENTITY nntpDownloadMsg.accesskey "e">
+<!ENTITY retentionCleanup.label "डिस्क खाली स्थान पुन: प्राप्त गर्न, पुराना सन्देशहरू स्थायी रूपमा मेट्न सक्नुपर्छ">
+<!ENTITY retentionKeepMsg.label "यसभन्दा बढी सन्देश मेट्नुहोस्">
+<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "कुनै सन्देश पनि नमेट्नुहोस्">
+<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepNew.label "सबै तर अन्तिम मेट्नुहोस्">
+<!ENTITY retentionKeepNew.accesskey "l">
+<!ENTITY retentionKeepUnread.label "सधै पढिएका सन्देश मात्र मेट्नुहोस्">
+<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY nntpRemoveBody.label "यसभन्दा कम सन्देशको मुख्य भाग मात्र">
+<!ENTITY nntpRemoveBody.accesskey "O">
+<!ENTITY offlineSelectNntp.label "अफलाइन प्रयोगका लागि समाचारसमूह चयन गर्नुहोस्...">
+<!ENTITY offlineSelectImap.label "अफलाइन प्रयोगका लागि फोल्डर चयन गर्नुहोस्...">
+<!ENTITY offlineSelect.accesskey "S">
+<!ENTITY offlineDesc.label "तपाईँले आफ्नो सन्देशहरू स्थानीय रूपमा डाउनलोड गर्न सक्नुहुन्छ जसले गर्दा तपाईँले अफलाइन काम गर्दा पनि तिनीहरू उपलब्ध हुन्छन् ।">
+<!ENTITY makeInboxMsgsAvailable.label "मैले अफलाइन काम गर्दा मेरो पत्रमञ्जूषामा सन्देशहरू उपलब्ध गराउनुहोस्">
+<!ENTITY makeInboxMsgsAvailable.accesskey "b">
+<!ENTITY offlineGroupTitle.label "अफलाइन">
+<!ENTITY diskspaceGroupTitle.label "डिस्क खाली स्थान">

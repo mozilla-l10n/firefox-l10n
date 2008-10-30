@@ -1,0 +1,43 @@
+<!ENTITY caption.label "#1 खोल्दै">
+<!-- Localization note: The default intro text has 3 "inserts":
+        #1 - replaced with the descriptive text that describes the mime type
+             (e.g., "MSWord Document")
+        #2 - replaced with the mime type (e.g., "application/ms-word")
+        #3 - replaced with the filename (e.g., "manual.doc")
+        #4 - will be replaced by the brand name (e.g., "Mozilla")
+     If there is no descriptive text, then the alternative text is used which
+     has only insert #2.
+ -->
+
+<!ENTITY intro.label "फाइल &quot;#3&quot; #2 (#1) प्रकारको हो, र #4 ले यसप्रकारको फाइल कसरी ह्यान्डल गर्ने थाहा हुँदैन । यो फाइल यसमा अवस्थित छ:">
+<!ENTITY intro.noDesc.label "फाइल &quot;#3&quot;  #2 प्रकारको हो, र #4 लाई कसरी यसप्रकारको फाइल ह्यान्डल गर्ने थाहा हुँदैन । यो फाइल यसमा अवस्थित छ:">
+
+<!ENTITY intro.attachment.label "साइटले सुझाव गरेको छ कि &quot;#3&quot; एउटा संलग्न फाइलको रूपमा ह्यान्डल गरिन्छ । यो #2 (#1) प्रकारको छ र यसमा अवस्थित छ:">
+<!ENTITY intro.attachment.noDesc.label "साइटले सुझाव गरेको छ कि &quot;#3&quot; एउटा संलग्न फाइलको रूपमा ह्यान्डल गर्न सकिन्छ । यो #2 प्रकारको छ र यसमा अवस्थित छ:">
+
+<!ENTITY intro.sniffed.label "#4 ले फाइल &quot;#3&quot; #2 (#1) प्रकारको हुनुपर्ने पत्ता लगायो । फाइल यसमा अवस्थित छ:">
+<!ENTITY intro.sniffed.noDesc.label "#4 ले फाइल &quot;#3&quot; #2 प्रकारको हुनुपर्ने पत्ता लगायो । फाइल यसमा अवस्थित छ:">
+
+<!ENTITY prompt.label "#1 ले यो फाइलसँग के गर्छ ?">
+
+<!ENTITY alwaysHandle.label "यो प्रकारको फाइल ह्यान्डल गर्दा सधै यो कार्य सम्पादन गर्दछ">
+<!ENTITY alwaysHandle.accesskey "A">
+
+<!ENTITY saveToDisk.label "यसलाई डिस्कमा बचत गर्नुहोस्">
+<!ENTITY saveToDisk.accesskey "S">
+
+<!ENTITY useSystemDefault.label "पूर्वनिर्धारित अनुप्रयोग (#1) सँग यसलाई खोल्नुहोस्">
+<!ENTITY useSystemDefault.noDesc.label "पूर्वनिर्धारित अनुप्रयोगसँग यसलाई खोल्नुहोस्">
+<!ENTITY useSystemDefault.accesskey "O">
+<!-- LOCALIZATION NOTE:  do not localize "#1" -->
+
+<!ENTITY openUsing.label "यसलाई यससँग खोल्नुहोस्">
+<!ENTITY openUsing.accesskey "w">
+
+<!ENTITY chooseApp.label "रोज्नुहोस्...">
+<!ENTITY chooseApp.accesskey "C">
+
+<!ENTITY chooseAppFilePickerTitle "मद्दतकर्ता अनुप्रयोग रोज्नुहोस्">
+
+<!ENTITY badApp "तपाईले निर्दिष्ट गर्नुभएको अनुप्रयोग (&quot;#1&quot;) फेला पार्न सकिएन ।  फाइलनाम जाँच गर्नुहोस् र अन्य अनुप्रयोग चयन गर्नुहोस् ।">
+<!ENTITY badApp.title "अनुप्रयोग फेला परेन">

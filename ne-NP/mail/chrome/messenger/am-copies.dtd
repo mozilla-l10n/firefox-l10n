@@ -1,0 +1,35 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "प्रतिलिपि &amp; फोल्डर">
+<!ENTITY sendingPrefix.label "स्वचालित रूपले, सन्देश पठाउदा: ">
+<!ENTITY fccMailFolder.label "यसभित्र एउटा प्रतिलिपि राख्नुहोस्:">
+<!ENTITY fccMailFolder.accesskey "P">
+<!ENTITY fccReplyFollowsParent.label "सन्देश प्रतिउत्तर पठाइएको फोल्डरमा प्रतिउत्तरलाई राख्नुहोस्">
+<!ENTITY fccReplyFollowsParent.accesskey "l">
+<!ENTITY chooseFolderButton.label "फोल्डर रोज्नुहोस्...">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "यी इमेल ठेगाना Bcc गर्नुहोस्:">
+<!ENTITY bccAddress.accesskey "B">
+<!ENTITY specialFolderTitle.label "विशेष फोल्डर">
+<!ENTITY draftMailFolder.label "यसमा सन्देश ड्राफ्ट राख्नुहोस्:">
+<!ENTITY templateMailFolder.label "यसमा सन्देश टेम्प्लेट राख्नुहोस्:">
+<!ENTITY saveMessageDlg.label "सन्देश बचत गर्दा स्वीकृति सन्देश देखाउनुहोस्द">
+<!ENTITY saveMessageDlg.accesskey "S">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "&quot;Sent&quot; यस फोल्डरमा:">
+<!ENTITY sentFolderOn.accesskey "e">
+<!ENTITY sentInOtherFolder.label "अन्य:">
+<!ENTITY sentInOtherFolder.accesskey "O">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "&quot;Drafts&quot; यस फोल्डरमा:">
+<!ENTITY draftsFolderOn.accesskey "D">
+<!ENTITY draftInOtherFolder.label "अन्य:">
+<!ENTITY draftInOtherFolder.accesskey "t">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "&quot;Templates&quot; यस फोल्डरमा:">
+<!ENTITY templatesFolderOn.accesskey "m">
+<!ENTITY templateInOtherFolder.label "अन्य:">
+<!ENTITY templateInOtherFolder.accesskey "r">
+<!ENTITY specialFoldersTitle.label "ड्राफ्ट र टेम्प्लेट">
+<!ENTITY keepDrafts.label "यसमा सन्देश ड्राफ्ट राख्नुहोस्:">
+<!ENTITY keepTempltes.label "यसमा सन्देश टेम्प्लेट राख्नुहोस्:">

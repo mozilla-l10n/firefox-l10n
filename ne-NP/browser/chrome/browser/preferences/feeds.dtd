@@ -1,0 +1,8 @@
+<!ENTITY feedClick.label "मैले वेब फिडमा क्लिक गर्दा:">
+<!ENTITY showPreview.label "मलाई पूर्वावलोकन देखाउनुहोस् र कुन फिड रिडर प्रयोग गर्ने सोध्नुहोस्">
+<!ENTITY showPreview.accesskey "S">
+<!ENTITY subscribeUsing.label "यसको प्रयोग गरेर फिडमा सदस्य बन्नुहोस्:">
+<!ENTITY subscribeUsing.accesskey "u">
+<!ENTITY liveBookmarks.label "लाइभ पुस्तकचिनो">
+<!ENTITY chooseApplication.label "अनुप्रयोग रोज्नुहोस्...">
+<!ENTITY chooseApplication.accesskey "C">

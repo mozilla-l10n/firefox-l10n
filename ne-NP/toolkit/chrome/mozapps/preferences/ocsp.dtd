@@ -1,0 +1,11 @@
+<!ENTITY window.width "38em">
+
+<!ENTITY ocspDialog.title "प्रमाणीकरण">
+<!ENTITY validation.ocsp.description "&brandShortName; ले प्रमाणपत्रहरू रूजु गर्न अनलाइन प्रमाणपत्र वस्तुस्थिति प्रोटोकल (OCSP) प्रयोग गर्न सक्छ । यस प्रकारले OCSP प्रयोग गर्न &brandShortName; सेट गर्नुहोस्:">
+<!ENTITY disableOCSP.label "प्रमाणपत्र वैधताका लागि OCSP प्रयोग नगर्नुहोस्">
+<!ENTITY certOCSP.label "एउटा OCSP सेवा यूआरएल निर्दिष्ट गर्ने प्रमाणपत्र मात्र वैध गर्न OCSP प्रयोग गर्नुहोस्">
+<!ENTITY proxyOCSP.label "यो यूआरएल र साइनर प्रयोग गरेर सबै प्रमाणपत्रहरू वैध गर्न OCSP प्रयोग गर्नुहोस्:">
+<!ENTITY serviceURL.label "सेवा यूआरएल:">
+<!ENTITY serviceURL.accesskey "S">
+<!ENTITY signingCA.label "प्रतिक्रिया साइनर:">
+<!ENTITY signingCA.accesskey "R">

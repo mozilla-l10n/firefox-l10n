@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY newsBlogSubscriptions.label "आरएसएस सदस्यता">
+<!ENTITY subscriptionDesc.label "द्रष्टब्य: फिडका लागि फोल्डर हटाउनाले वा परिवर्तन गर्नाले अघिल्लो डाउनलोड गरिएको लेखमा कुनै असर गर्ने छैन ।">
+<!ENTITY feedTitle.label "शीर्षक:">
+<!ENTITY location.label "स्थान:">
+
+<!ENTITY button.addFeed.label "थप्नुहोस्">
+<!ENTITY button.addFeed.accesskey "A">
+<!ENTITY button.editFeed.label "सम्पादन गर्नुहोस्">
+<!ENTITY button.editFeed.accesskey "E">
+<!ENTITY button.removeFeed.label "हटाउनुहोस्">
+<!ENTITY button.removeFeed.accesskey "R">
+<!ENTITY button.importOPML.label "आयात">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label "निर्यात">
+<!ENTITY button.exportOPML.accesskey "X">
+
+<!ENTITY cmd.close.commandKey "w">

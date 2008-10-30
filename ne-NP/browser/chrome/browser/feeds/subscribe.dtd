@@ -1,0 +1,10 @@
+<!ENTITY feedPage.title "फिड हेर्दैछ">
+<!ENTITY feedSubscriptionInfo1a "यो एउटा &#8220; हो">
+<!ENTITY feedName "फिड">
+<!ENTITY feedSubscriptionInfo1b "&#8221; यो साइटमा बारम्बार परिवर्तन हुने सामाग्री ।">
+<!ENTITY feedSubscriptionInfo2 "यो सामाग्री परिवर्तन हुँदा अद्यावधिक रुपमा प्राप्त गर्न तपाईँले यो फिडमा सदस्य बन्न सक्नुहुन्छ ।">
+<!ENTITY feedSubscribeNow "अहिले सदस्य बन्नुहोस्">
+<!ENTITY subscribeUsing "यो फिड प्रयोग गर्दा सदस्य बन्नुहोस् ">
+<!ENTITY feedLiveBookmarks "लाइभ पुस्तकचिनो">
+<!ENTITY error.title "फिड प्रक्रिया गर्दा त्रुटि">
+<!ENTITY error.message "यो फिड प्रक्रिया गर्दा त्रुटि थियो । :-( तपाईँले यो के हो थाहा भएमा अझै पनि यो फिडमा सदस्य बन्न सक्नुहुन्छ । सन्दर्भका लागि, त्रुटि यो थियो:">

@@ -1,0 +1,7 @@
+<!--LOCALIZATION NOTE printPreviewProgress.dtd Main UI for Print Preview Progress Dialog -->
+<!ENTITY printWindow.title "मुद्रण पूर्वावलोकन">
+<!ENTITY title "शीर्षक:">
+<!ENTITY spaces "खाली स्थान
+">
+<!ENTITY preparing "तयार गर्दैछ...">
+<!ENTITY progress "प्रगति:">

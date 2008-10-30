@@ -1,0 +1,20 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY newPagesIn.label "नयाँ पृष्ठ यसमा खोल्नुपर्दछ:">
+<!ENTITY inNewWindow.label "एउटा नयाँ सञ्झ्याल">
+<!ENTITY inNewWindow.accesskey "w">
+<!ENTITY inNewTab.label "एउटा नयाँ ट्याब">
+<!ENTITY inNewTab.accesskey "t">
+
+<!ENTITY warnCloseMultipleTabs.label "बहुबिध ट्याब बन्द गर्दा मलाई सावधान गराउनुहोस्">
+<!ENTITY warnCloseMultipleTabs.accesskey "m">
+
+<!ENTITY warnOpenManyTabs.label "&brandShortName; लाई ढिलो बनाउन सक्ने बहुबिध ट्याब खोल्दा मलाई सावधान गराउनुहोस्">
+<!ENTITY warnOpenManyTabs.accesskey "o">
+
+<!ENTITY showTabBar.label "सधैँ ट्याबपट्टी देखाउनुहोस्">
+<!ENTITY showTabBar.accesskey "b">
+
+<!ENTITY switchToNewTabs.label "मैले नयाँ ट्याबमा लिङ्क खोल्दा, यसलाई तत्काल स्विच गर्नुहोस्">
+<!ENTITY switchToNewTabs.accesskey "s">

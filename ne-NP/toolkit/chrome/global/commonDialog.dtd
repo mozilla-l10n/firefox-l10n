@@ -1,0 +1,6 @@
+<!ENTITY header.label "छोटो शीर्षक">
+<!ENTITY message.label "केही नमूना पाठ यहाँ जान्छ ।">
+<!ENTITY editfield0.label "प्रयोगकर्ता नाम:">
+<!ENTITY editfield1.label "पासवर्ड:">
+<!ENTITY editfield2.label "पासवर्ड यकिन गर्नुहोस्:">
+<!ENTITY checkbox.label "जाँच गर्नुहोस्">

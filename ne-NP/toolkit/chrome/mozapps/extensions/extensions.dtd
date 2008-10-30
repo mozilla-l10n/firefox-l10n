@@ -1,0 +1,116 @@
+<!ENTITY addons.title "एड-अन्स">
+<!-- Default window size for the addon manager in pixels -->
+
+<!ENTITY em.width "520">
+<!ENTITY em.height "380">
+
+<!ENTITY cmd.info.commandKey "i">
+<!ENTITY cmd.options.commandKey ",">
+<!ENTITY cmd.close.commandKey "w">
+<!-- View labels -->
+
+<!ENTITY extensions.label "विस्तार">
+<!ENTITY themes.label "विषयवस्तु">
+<!ENTITY locales.label "भाषा">
+<!ENTITY plugins.label "प्लगइन">
+<!ENTITY update.label "अद्यावधिक">
+<!ENTITY install.label "स्थापना">
+<!-- Command Bar items -->
+
+<!ENTITY cmd.checkUpdatesAll.label "अद्यावधिक फेला पार्नुहोस्">
+<!ENTITY cmd.checkUpdatesAll.accesskey "F">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "तपाईँको एड-अन्सलाई अद्यावधिक फेला पार्दछ">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "तपाईँको विषयवस्तुलाई अद्यावधिक फेला पार्दछ">
+<!ENTITY cmd.installLocalFile.label "स्थापना गर्नुहोस्...">
+<!ENTITY cmd.installFile.accesskey "I">
+<!ENTITY cmd.installFileAddon.tooltip "एउटा एड-अन स्थापना गर्नुहोस्">
+<!ENTITY cmd.installFileTheme.tooltip "विषयवस्तु स्थापना गर्नुहोस्">
+<!ENTITY cmd.installUpdatesAll.label "अद्यावधिक स्थापना गर्नुहोस्">
+<!ENTITY cmd.installUpdatesAll.accesskey "I">
+<!ENTITY cmd.installUpdatesAll.tooltip "चयन गरिएको अद्यावधिक स्थापना गर्दछ">
+<!ENTITY cmd.restartApp.label "&brandShortName; फेरि सुरु गर्नुहोस्">
+<!ENTITY cmd.restartApp.accesskey "R">
+<!ENTITY cmd.restartApp.tooltip "स्थापना समाप्त गर्न &brandShortName; फेरि सुरु गर्दछ">
+<!ENTITY cmd.skip.label "फड्काउनुहोस्">
+<!ENTITY cmd.skip.accesskey "S">
+<!ENTITY cmd.skip.tooltip "यी अद्यावधिक फड्काउनुहोस्">
+<!ENTITY cmd.continue.label "जारी राख्नुहोस्">
+<!ENTITY cmd.continue.accesskey "C">
+<!ENTITY cmd.continue.tooltip "&brandShortName; लोडिङ जारी राख्नुहोस्">
+
+<!ENTITY cmd.enableAll.label "सबै सक्षम पार्नुहोस्">
+<!ENTITY cmd.enableAll.accesskey "a">
+<!ENTITY cmd.enableAll.tooltip "प्रदर्शन गरिएका सबै एड-अन्स सक्षम पार्नुहोस्">
+<!ENTITY cmd.disableAll.label "सबै अक्षम पार्नुहोस्">
+<!ENTITY cmd.disableAll.accesskey "s">
+<!ENTITY cmd.disableAll.tooltip "प्रदर्शन गरिएका सबै एड-अन्स अक्षम पार्नुहोस्">
+<!-- Displayed in the selected Add-on's richlistitem and context menu -->
+
+<!ENTITY cmd.useTheme.label "विषयवस्तु प्रयोग गर्नुहोस्">
+<!ENTITY cmd.useTheme.accesskey "T">
+<!ENTITY cmd.useTheme.tooltip "&brandShortName; को विषयवस्तु परिवर्तन गर्दछ">
+<!ENTITY cmd.options.label "विकल्प">
+<!ENTITY cmd.options.accesskey "O">
+<!ENTITY cmd.options.tooltip "चयन गरिएका विस्तारका लागि विकल्प सेट गर्नुहोस्">
+<!ENTITY cmd.optionsUnix.label "प्राथमिकता">
+<!ENTITY cmd.optionsUnix.accesskey "r">
+<!ENTITY cmd.optionsUnix.tooltip "चयन गरिएका विस्तारका लागि प्राथमिकता सम्पादन गर्नुहोस्">
+<!ENTITY cmd.enable.label "सक्षम गर्नुहोस्">
+<!ENTITY cmd.enable.accesskey "E">
+<!ENTITY cmd.enable.tooltip "&brandShortName; फेरि सुरु हुँदा यो एड-अन सक्षम पार्नुहोस्">
+<!ENTITY cmd.disable.label "अक्षम पार्नुहोस्">
+<!ENTITY cmd.disable.accesskey "D">
+<!ENTITY cmd.disable.tooltip "&brandShortName; फेरि सुरु गर्दा यो एड-अन अक्षम पार्नुहोस्">
+<!ENTITY cmd.uninstall.label "विस्थापन गर्नुहोस्">
+<!ENTITY cmd.uninstall2.accesskey "U">
+<!ENTITY cmd.uninstall2.tooltip "&brandShortName; फेरि सुरु हुँदा यो एड-अन विस्थापन गर्नुहोस्">
+<!ENTITY cmd.cancelUninstall.label "विस्थापन रद्द गर्नुहोस्">
+<!ENTITY cmd.cancelUninstall.accesskey "C">
+<!ENTITY cmd.cancelUninstall.tooltip "यो एड-अनको विस्थापन रद्द गर्नुहोस्">
+<!ENTITY cmd.installUpdate.label "अद्यावधिक स्थापना गर्नुहोस्">
+<!ENTITY cmd.installUpdate.accesskey "I">
+<!ENTITY cmd.installUpdate.tooltip "यो एड-अनका लागि एउटा अद्यावधिक स्थापना गर्नुहोस्">
+<!-- The selected add-on's cancel action button label -->
+<!ENTITY cancel.label "रद्द गर्नुहोस्">
+<!ENTITY cancel.accesskey "C">
+<!-- Only displayed in the selected Add-on's context menu -->
+
+<!ENTITY cmd.homepage.label "गृह पृष्ठ हेर्नुहोस्">
+<!ENTITY cmd.homepage.accesskey "H">
+<!ENTITY cmd.about2.label "यो एड-अनको बारेमा">
+<!ENTITY cmd.about.accesskey "A">
+<!ENTITY cmd.checkUpdate.label "अद्यावधिक फेला पार्नुहोस्">
+<!ENTITY cmd.checkUpdate.accesskey "F">
+
+<!ENTITY cmd.includeUpdate.label "अद्यावधिक सम्मिलित गर्नुहोस्">
+<!ENTITY cmd.includeUpdate.accesskey "n">
+<!ENTITY includeUpdate.label "यो अद्यावधिक सम्मिलित गर्नुहोस्">
+<!ENTITY includeUpdate.accesskey "n">
+<!ENTITY includeUpdate.tooltip "अद्यावधिकहरू स्थापना गर्दा यो एड-अन सम्मिलित गर्नुहोस्">
+<!-- Status Messsages -->
+
+<!ENTITY needsDependencies.label "थप वस्तुहरू आवश्यक पर्दछ ।">
+<!ENTITY blocklisted.label "तपाईँको सुरक्षाको लागि अक्षम गरियो ।">
+<!ENTITY toBeDisabled.label "&brandShortName; फेरि सुरु हुँदा यो एड-अन अक्षम गरिनेछ ।">
+<!ENTITY toBeEnabled.label "&brandShortName; फेरि सुरु हुँदा यो एड-अन सक्षम गरिनेछ ।">
+<!ENTITY toBeInstalled.label "&brandShortName; फेरि सुरु हुँदा यो एड-अन स्थापना गरिनेछ ।">
+<!ENTITY toBeUninstalled.label "&brandShortName; फेरि सुरु हुँदा यो एड-अन विस्थापन गरिनेछ ।">
+<!ENTITY toBeUpgraded.label "&brandShortName; फेरि सुरु हुँदा यो एड-अन स्तरवृद्धि गरिनेछ ।">
+
+<!ENTITY getExtensions.label "विस्तार प्राप्त गर्नुहोस्">
+<!ENTITY getExtensions.tooltip "addons.mozilla.org बाट विस्तारहरू प्राप्त गर्नुहोस्">
+<!ENTITY getThemes.label "विषयवस्तु प्राप्त गर्नुहोस्">
+<!ENTITY getThemes.tooltip "addons.mozilla.org बाट विषयवस्तु प्राप्त गर्नुहोस्">
+<!ENTITY previewNoThemeSelected.label "कुनै विषयवस्तु चयन गरिएको छैन">
+<!ENTITY previewNoPreviewImage.label "यो विषयवस्तुसँग पूर्वावलोकन छवि छैन">
+<!ENTITY moreInfo.label "अरू जानकारी">
+<!ENTITY closeMessage.tooltip "यो सन्देश बन्द गर्नुहोस्">
+
+<!ENTITY updateSuccess.label "अद्यावधिक सफलतापूर्वक पूरा भयो ।">
+<!ENTITY installSuccess.label "स्थापना सफलतापूर्वक पूरा भयो ।">
+<!ENTITY installSuccessRestart.label "यो स्थापना पूरा गर्न फेरि सुरु गर्नुहोस् ।">
+<!ENTITY installWaiting.label "प्रतिक्षा गर्दैछ...">
+<!ENTITY installIncompatibleUpdate.label "मिल्दोपना जाँच गर्दैछ...">
+<!ENTITY installFinishing.label "स्थापना गर्दैछ...">
+<!ENTITY installFailure.label "स्थापना असफल भयो ।">
+

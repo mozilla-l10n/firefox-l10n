@@ -1,0 +1,14 @@
+
+<!ENTITY prefWindow.titleWin "विकल्प">
+<!ENTITY prefWindow.titleGNOME "&brandShortName; प्राथमिकता">
+<!ENTITY prefWindow.styleWin "चौडाइ: 42em; उचाइ: 40em;">
+<!ENTITY prefWindow.styleMac "चौडाइ: 47em;">
+<!ENTITY prefWindow.styleGNOME "चौडाइ: 42em; उचाइ: 38.5em;">
+
+<!ENTITY paneMain.title "मुख्य">
+<!ENTITY paneTabs.title "ट्याब">
+<!ENTITY paneContent.title "सामाग्री">
+<!ENTITY paneFeeds.title "फिड">
+<!ENTITY panePrivacy.title "गोप्य">
+<!ENTITY paneSecurity.title "सुरक्षा">
+<!ENTITY paneAdvanced.title "उन्नत">

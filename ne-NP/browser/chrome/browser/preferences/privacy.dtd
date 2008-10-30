@@ -1,0 +1,52 @@
+<!ENTITY history.label "इतिहास">
+<!-- LOCALIZATION NOTE:
+  The entities rememberBefore.label and rememberAfter.label appear on a single
+  line in preferences as follows:
+
+  &rememberBefore.label  [ textbox for number of days ]   &rememberAfter.label;
+-->
+
+<!ENTITY rememberBefore.label "पछिल्लो समयमा अवलोकन गरिएका पृष्ठ स्मरण गर्ने समय">
+<!ENTITY rememberBefore.accesskey "v">
+<!ENTITY rememberAfter.label "दिन ">
+
+<!ENTITY rememberForms.label "फारम र खोजी पट्टीमा मैले गरेको प्रविष्टि सम्झनुहोस्">
+<!ENTITY rememberForms.accesskey "f">
+
+<!ENTITY rememberDownloads.label "मैले गरेको डाउनलोड सम्झनुहोस्">
+<!ENTITY rememberDownloads.accesskey "d">
+
+
+<!ENTITY cookies.label "कुकी">
+
+<!ENTITY acceptCookies.label "साइटका कुकी स्वीकार गर्नुहोस्">
+<!ENTITY acceptCookies.accesskey "c">
+
+<!ENTITY keepUntil.label "कहिले सम्म राख्नुहुन्छ:">
+<!ENTITY keepUntil.accesskey "K">
+
+<!ENTITY expire.label "तिनीहरूको म्याद समाप्त नहुँदासम्म">
+<!ENTITY close.label "मैले &brandShortName; बन्द नगर्दासम्म">
+<!ENTITY askEachTime.label "ठीकै छ, हरेक पटक मलाई सोध्नुहोस्">
+
+<!ENTITY cookieExceptions.label "अपवाद...">
+<!ENTITY cookieExceptions.accesskey "E">
+
+<!ENTITY showCookies.label "कुकी देखाउनुहोस्...">
+<!ENTITY showCookies.accesskey "S">
+
+
+<!ENTITY privateData.label "निजी डेटा">
+
+<!ENTITY alwaysClear.label "सधैँ मैले brandShortName बन्द गर्दा मेरो निजी डेटा खाली गर्नुहोस्;">
+<!ENTITY alwaysClear.accesskey "b">
+
+<!ENTITY askBeforeClear.label "निजी डेटा खाली गर्नुभन्दा पहिला मलाई सोध्नुहोस्">
+<!ENTITY askBeforeClear.accesskey "A">
+
+<!ENTITY clearDataSettings.label "सेटिङ...">
+<!ENTITY clearDataSettings.accesskey "t">
+
+<!ENTITY clearDataNow.label "अहिले खाली गर्नुहोस्...">
+<!ENTITY clearDataNow.label2 "अहिले खाली गर्नुहोस्">
+<!ENTITY clearDataNow.accesskey "N">

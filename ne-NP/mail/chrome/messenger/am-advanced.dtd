@@ -1,0 +1,22 @@
+<!-- extracted from am-advanced.xul -->
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpServer.label "बाह्यगमन सर्भर (SMTP) सेटिङ">
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpDesc.label "तपाईँले एउटा भन्दा बढी बाह्यगमन सर्भर (SMTP) निर्दिष्ट गर्न सकेता पनि, उन्नत प्रयोगकर्ताका लागि यो मात्र सिफारिस गरिन्छ । बहुविध SMTP सर्भर सेटिङका कारणले सन्देश पठाउदा त्रुटि हुनसक्छ ।">
+
+<!ENTITY smtpListAdd.label "थप्नुहोस्...">
+<!ENTITY smtpListAdd.accesskey "d">
+<!ENTITY smtpListEdit.label "सम्पादन गर्नुहोस्...">
+<!ENTITY smtpListEdit.accesskey "E">
+<!ENTITY smtpListDelete.label "हटाउनुहोस्">
+<!ENTITY smtpListDelete.accesskey "m">
+<!ENTITY smtpListSetDefault.label "पूर्वनिर्धारित सेट गर्नुहोस्">
+<!ENTITY smtpListSetDefault.accesskey "t">
+
+<!ENTITY serverDescription.label "वर्णन: ">
+<!ENTITY serverName.label "सर्भर नाम: ">
+<!ENTITY serverPort.label "पोर्ट: ">
+<!ENTITY userName.label "प्रयोगकर्ता नाम: ">
+<!ENTITY useSecureConnection.label "सुरक्षित जडान: ">

@@ -1,0 +1,80 @@
+<!ENTITY itemGeneral.label "साधारण">
+<!ENTITY itemUpdate.label "अद्यावधिक गर्नुहोस्">
+<!ENTITY itemNetworking.label "सञ्जाल &amp; डिस्क खाली स्थान">
+<!ENTITY itemCertificates.label "प्रमाणपत्र">
+<!-- General Settings -->
+
+
+<!ENTITY showCondensedAddresses.label "मेरो ठेगाना पुस्तकका मानिसका लागि प्रदर्शन नाम मात्र देखाउनुहोस्">
+<!ENTITY showCondensedAddresses.accesskey "p">
+<!-- LOCALIZATION NOTE (markAsRead.label): This will concatenate with
+     "xxx seconds before marking a message as read", using a number and
+     (markAsReadEnd.label). -->
+
+<!ENTITY markAsRead.label "प्रतिक्षा गर्नुहोस्">
+<!ENTITY markAsRead.accesskey "W">
+<!ENTITY markAsReadEnd.label "सन्देशलाई पढिएको रूपमा चिनो लगाउनुभन्दा पहिलाको सेकेन्ड">
+<!ENTITY markAsReadEnd.accesskey "d">
+<!ENTITY showFolderColumns.label "फोल्डर फलकमा विस्तारित स्तम्भ देखाउनुहोस्">
+<!ENTITY showFolderColumns.accesskey "l">
+<!ENTITY rememberLastMsg.label "सबैभन्दा पछि चयन गरिएको सन्देश याद गर्नुहोस्">
+<!ENTITY rememberLastMsg.accesskey "b">
+<!ENTITY reuseExp.label "यस भित्र नयाँ सञ्झ्याल खोल्नुहोस्:">
+<!ENTITY reuseExpRadio0.label "नयाँ सन्देश सञ्झ्याल">
+<!ENTITY reuseExpRadio0.accesskey "i">
+<!ENTITY reuseExpRadio1.label "अवस्थित सन्देश सञ्झ्याल">
+<!ENTITY reuseExpRadio1.accesskey "x">
+<!ENTITY reuseExpRadio2.label "नयाँ सन्देश ट्याब">
+<!ENTITY reuseExpRadio2.accesskey "Z">
+<!ENTITY connectionTimeout.label "जडान समय समाप्त: ">
+<!ENTITY connectionTimeout.accesskey "C">
+<!ENTITY connectionSeconds.label "सेकेन्ड">
+<!ENTITY configEditDesc.label "उन्नत कन्फिगरेसन">
+<!ENTITY configEdit.label "कन्फिगरेसन सम्पादक...">
+<!ENTITY configEdit.accesskey "g">
+<!ENTITY returnReceiptsInfo.label "फिर्ता प्राप्तिलाई कसरी &brandShortName; ले ह्यान्डल गर्दछ निर्धारण गर्नुहोस्">
+<!ENTITY showReturnReceipts.label "फिर्ता प्राप्त...">
+<!ENTITY showReturnReceipts.accesskey "R">
+<!-- Update -->
+
+<!ENTITY autoCheck.label "यसलाई अद्यावधिक गर्नका लागि स्वचालित रूपमा जाँच गर्नुहोस्:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "h">
+<!ENTITY enableAddonsUpdate.label "स्थापना गरिएका एड-अन">
+<!ENTITY enableAddonsUpdate.accesskey "t">
+<!ENTITY checkNow.label "अहिले जाँच गर्नुहोस्...">
+<!ENTITY whenUpdatesFound.label "&brandShortName; मा अद्यावधिक गर्दा फेला पर्दछन्">
+<!ENTITY modeAskMe.label "मलाई के गर्न चाहेको सोध्नुहोस्">
+<!ENTITY modeAskMe.accesskey "k">
+<!ENTITY modeAutomatic.label "स्वचालित रूपमा डाउनलोड गर्नुहोस् र अद्यावधिकलाई स्थापना गर्नुहोस्">
+<!ENTITY modeAutomatic.accesskey "m">
+<!ENTITY modeAutoAddonWarn.label "यदि यसले मेरा कुनै पनि एड-अन अक्षम पार्ने भएमा चेतावनी दिनुहोस्">
+<!ENTITY modeAutoAddonWarn.accesskey "-">
+<!ENTITY showUpdates.label "अद्यावधिक इतिहास देकाउनुहोस्">
+<!ENTITY showUpdates.accesskey "y">
+<!-- Networking and Disk Space -->
+
+<!ENTITY showConnections.label "जडान...">
+<!ENTITY showConnections.accesskey "n">
+<!ENTITY proxiesInfo.label "इन्टरनेटमा कसरी &brandShortName; जडान हुन्छ निर्धारण गर्नुहोस्">
+<!ENTITY connectionsInfo.caption "जडान">
+<!ENTITY offlineInfo.caption "अफलाइन">
+<!ENTITY offlineInfo.label "अफलाइन कन्फिगर गर्नुहोस्">
+<!ENTITY showOffline.label "अफलाइन...">
+<!ENTITY showOffline.accesskey "O">
+
+<!ENTITY Diskspace "डिस्क खालीस्थान">
+<!ENTITY offlineCompact.label "यसले बचत गरेपछि फोल्डर सङ्कुचन गर्नुहोस्">
+<!ENTITY offlineCompact.accesskey "v">
+<!ENTITY kb.label "किलोबाइट">
+<!-- Certificates -->
+
+<!ENTITY certificatesInfo.label "प्रमाणपत्र, खारेजी सूची, प्रमाणपत्र प्रमाणीकरण र सुरक्षा यन्त्र प्रबन्ध गर्नुहोस् ।">
+<!ENTITY viewCertificates.label "प्रमाणपत्र हेर्नुहोस्">
+<!ENTITY viewCertificates.accesskey "a">
+<!ENTITY viewCRLs.label "खारेजी सूची">
+<!ENTITY viewCRLs.accesskey "e">
+<!ENTITY viewOCSP.label "प्रमाणीकरण">
+<!ENTITY viewOCSP.accesskey "f">
+<!ENTITY viewSecurityDevices.label "सुरक्षा यन्त्र">
+<!ENTITY viewSecurityDevices.accesskey "u">

@@ -1,0 +1,58 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title "पृष्ठ सेटअप">
+
+<!ENTITY basic.tab "ढाँचा र विकल्प">
+
+<!ENTITY formatGroup.label "ढाँचा">
+
+<!ENTITY orientation.label "अभिमुखिकरण:">
+<!ENTITY portrait "पोर्ट्रेट">
+<!ENTITY landscape "ल्यान्डस्केप">
+
+<!ENTITY scale.label "मापन:">
+<!ENTITY scalePercent "&#037;">
+
+<!ENTITY shrinkToFit.label "पृष्ठ चौडाइ मिलाउन खुम्च्याउनुहोस्">
+
+<!ENTITY optionsGroup.label "विकल्प">
+
+<!ENTITY printBG.label "पृष्ठभूमि मुद्रण गर्नुहोस् (रङ र छवि)">
+
+<!ENTITY advanced.tab "सीमान्त र हेडर/फुटर">
+
+<!ENTITY marginGroup.label "सीमान्त (#1)">
+<!ENTITY marginUnits.inches "इन्च">
+<!ENTITY marginUnits.metric "मिलिमिटर">
+<!ENTITY marginTop.label "माथि:">
+<!ENTITY marginBottom.label "तल:">
+<!ENTITY marginLeft.label "बायाँ:">
+<!ENTITY marginRight.label "दायाँ:">
+
+<!ENTITY headerFooter.label "हेडर र फुटर">
+
+<!ENTITY hfLeft.label "बायाँ:">
+<!ENTITY hfCenter.label "केन्द्र:">
+<!ENTITY hfRight.label "दायाँ:">
+<!ENTITY headerLeft.tip "बायाँ हेडर">
+<!ENTITY headerCenter.tip "केन्द्र हेडर">
+<!ENTITY headerRight.tip "दायाँ हेडर">
+<!ENTITY footerLeft.tip "बायाँ फुटर">
+<!ENTITY footerCenter.tip "केन्द्र फुटर">
+<!ENTITY footerRight.tip "दायाँ फुटर">
+
+<!ENTITY hfTitle "शीर्षक">
+<!ENTITY hfTitle.code "[&amp; T]">
+<!ENTITY hfURL "URL">
+<!ENTITY hfURL.code "[&amp; U]">
+<!ENTITY hfDateAndTime "मिति/समय">
+<!ENTITY hfDateAndTime.code "&amp; D">
+<!ENTITY hfPage "पृष्ठ #">
+<!ENTITY hfPage.code "[&amp; P]">
+<!ENTITY hfPageAndTotal "पृष्ठ # को #">
+<!ENTITY hfPageAndTotal.code "[&amp;PT]">
+<!ENTITY hfBlank "खाली">
+<!ENTITY hfCustom "अनुकूल...">
+
+<!ENTITY customPrompt.title "अनुकूल...">
+<!ENTITY customPrompt.prompt "तपाईँको अनुकूल हेडर/फुटर पाठ प्रविष्ट गर्नुहोस्">

@@ -1,0 +1,90 @@
+<!-- Note: due to bug 143065, the only remaining accesskeys available to be used
+     in the Advanced pane are: "b", "j", "q", "z" -->
+
+<!ENTITY generalTab.label "साधारण">
+
+<!ENTITY accessibility.label "पहुँच">
+
+<!ENTITY useCursorNavigation.label "पृष्ठ भित्र नेभिगेट गर्न सधैँ कर्सर कुञ्जी प्रयोग गर्नुहोस्">
+<!ENTITY useCursorNavigation.accesskey "c">
+<!ENTITY searchStartTyping.label "मैले टाइप गर्न सुरुगर्दा पाठको खोजी गर्नुहोस्">
+<!ENTITY searchStartTyping.accesskey "x">
+
+<!ENTITY browsing.label "ब्राउजिङ">
+
+<!ENTITY useAutoScroll.label "स्वचालित स्क्रोलिङ प्रयोग गर्नुहोस्">
+<!ENTITY useAutoScroll.accesskey "a">
+<!ENTITY useSmoothScrolling.label "महिन स्क्रोलिङ प्रयोग गर्नुहोस्">
+<!ENTITY useSmoothScrolling.accesskey "m">
+<!ENTITY checkSpelling.label "मैले टाइप गरे अनुरुपको हिज्जे जाँच गर्नुहोस्">
+<!ENTITY checkSpelling.accesskey "t">
+
+<!ENTITY languages.label "भाषा">
+
+<!ENTITY chooseLanguage.label "पृष्ठ प्रदर्शन गर्नका लागि तपाईँले रुचाएका भाषा रोज्नुहोस्">
+<!ENTITY chooseButton.label "रोज्नुहोस्...">
+<!ENTITY chooseButton.accesskey "o">
+
+
+<!ENTITY networkTab.label "सञ्जाल">
+
+<!ENTITY connection.label "जडान">
+
+<!ENTITY connectionDesc.label "इन्टरनेटमा कसरी &brandShortName; जडान हुन्छ कन्फिगर गर्नुहोस्">
+<!ENTITY connectionSettings.label "सेटिङ...">
+<!ENTITY connectionSettings.accesskey "e">
+
+<!ENTITY cache.label "क्यास">
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+
+<!ENTITY useCacheBefore.label "यससम्म प्रयोग गर्नुहोस्">
+<!ENTITY useCacheBefore.accesskey "U">
+<!ENTITY useCacheAfter.label "क्यासका लागि खाली स्थानको MB">
+
+
+<!ENTITY updateTab.label "अद्यावधिक गर्नुहोस्">
+
+<!ENTITY autoCheck.label "अद्यावधिकगर्नका लागि स्वचालित रुपमा जाँच गर्नुहोस्:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "F">
+<!ENTITY enableAddonsUpdate.label "एड-अन स्थापना">
+<!ENTITY enableAddonsUpdate.accesskey "n">
+<!ENTITY enableSearchUpdate.label "खोजी इन्जिन">
+<!ENTITY enableSearchUpdate.accesskey "h">
+<!ENTITY whenUpdatesFound.label " &brandShortName; मा अद्यावधिक फेला पार्दा:">
+<!ENTITY askMe.label "मैले गर्न चाहेको कुरा सोध्नुहोस्">
+<!ENTITY askMe.accesskey "k">
+<!ENTITY modeAutomatic.label "स्वचालित रुपमा डाउनलोड गर्दछ र अद्यावधिकलाई स्थापना गर्दछ">
+<!ENTITY modeAutomatic.accesskey "d">
+<!ENTITY modeAutoAddonWarn.label "यदि यसले कुनै मेरो एड-अन अक्षम पार्ने भएमा सावधानी गराउनुहोस्">
+<!ENTITY modeAutoAddonWarn.accesskey "W">
+<!ENTITY updateHistory.label "अद्यावधिक इतिहास देखाउनुहोस्">
+<!ENTITY updateHistory.accesskey "p">
+
+
+<!ENTITY encryptionTab.label "गुप्तिकरण">
+
+<!ENTITY protocols.label "प्रोटोकल">
+<!ENTITY useSSL3.label "SSL 3.0 प्रयोग गर्नुहोस्">
+<!ENTITY useSSL3.accesskey "3">
+<!ENTITY useTLS1.label "TLS 1.0 प्रयोग गर्नुहोस्">
+<!ENTITY useTLS1.accesskey "1">
+<!ENTITY certificates.label "प्रमाणपत्र">
+<!ENTITY certselect.description "कतिबेला वेबसाइटलाई प्रमाणपत्र आवश्यक हुन्छ:">
+<!ENTITY certs.auto "कुनै एकलाई स्वचालित रुपमा चयन गर्नुहोस्">
+<!ENTITY certs.auto.accesskey "l">
+<!ENTITY certs.ask "प्रत्येक समय मलाई सोध्नुहोस्">
+<!ENTITY certs.ask.accesskey "i">
+<!ENTITY viewCerts.label "प्रमाणपत्र हेर्नुहोस्">
+<!ENTITY viewCerts.accesskey "s">
+<!ENTITY viewCRLs.label "खारेज सूची">
+<!ENTITY viewCRLs.accesskey "R">
+<!ENTITY verify.label "रुजु">
+<!ENTITY verify.accesskey "V">
+<!ENTITY viewSecurityDevices.label "सुरक्षा यन्त्र">
+<!ENTITY viewSecurityDevices.accesskey "y">

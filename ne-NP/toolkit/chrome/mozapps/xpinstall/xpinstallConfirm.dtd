@@ -1,0 +1,8 @@
+<!-- extracted from institems.xul -->
+
+<!ENTITY dialog.title "सफ्टवेयर स्थापना">
+<!ENTITY warningText2.label "खराब सफ्टवेयरले तपाईँको कम्प्युटर नष्ट गर्न सक्छ वा तपाईँको गोपनीयता भङ्ग गर्दछ ।">
+<!ENTITY warningText3.label "तपाईँलाई विश्वास लागेको संसाधानबाट मात्र सफ्टवेयर स्थापना गर्नुहोस् ।">
+
+<!ENTITY from.label "बाट:">
+

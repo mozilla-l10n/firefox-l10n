@@ -1,0 +1,72 @@
+<!ENTITY updateWizard.title "सफ्टवेयर अद्यावधिक गर्नुहोस्">
+
+<!ENTITY window.width "36em">
+<!ENTITY window.macWidth "39em">
+
+<!ENTITY checking.title "अद्यावधिकका लागि जाँच गर्दै">
+<!ENTITY checking.label "&brandShortName; अहिले अद्यावधिकका लागि जाँच गर्दैछ...">
+
+<!ENTITY cancel.label "रद्द गर्नुहोस्">
+<!ENTITY cancel.accesskey "C">
+
+<!ENTITY noupdatesfound.title "अद्यावधिक फेला परेन">
+<!ENTITY noupdatesfound.intro "त्यहाँ नयाँ अद्यावधिक छैन । &brandShortName; नयाँ अद्यावधिकका लागि आवधिक रूपमा जाँच गर्न सक्छ ।">
+
+<!ENTITY updatesfound.title "उपलब्ध अद्यावधिक गर्नुहोस्">
+
+<!ENTITY moreDetails.label "अझ धेरै विवरण #0187;">
+<!ENTITY moreDetails.accesskey "#">
+<!ENTITY clickHere.label "यो अद्यावधिकको बारेमा धेरै सूचना हेर्नुहोस्">
+
+<!ENTITY incompatible.warning "यो अद्यावधिकले तिनीहरू अद्यावधिक नभए सम्म तिनीहरूको विस्तार र/वा विषयवस्तुको केही काम रोक्नेछ ।">
+<!ENTITY listIncompatible.label "सूची देखाउनुहोस्">
+<!ENTITY listIncompatible.accesskey "L">
+
+<!ENTITY upgrade.evangelism "तपाईँले जति सक्दो चाँडो &brandShortName; स्तरवृद्धि गर्नुहोस् भन्ने जोडदार रूपमा सिफारिस गरिन्छ ।">
+
+<!ENTITY license.title "इजाजतपत्र सम्झौता">
+<!ENTITY license.intro "यो अद्यावधिक स्थापना गर्न तपाईँ यो इजाजतपत्र सम्झौतासँग सहमत हुनुपर्छ । कृपया यसलाई सावधानीपूर्वक पढ्नुहोस्:">
+<!ENTITY license.instructions "यदि तपाईँ यो सम्झौताको शर्तसँग सहमत हुनुहुन्छ भने, यो अद्यावधिकको स्थापना जारी राख्न तल म सहमत छु बटन क्लिक गर्नुहोस् ।">
+
+<!ENTITY license.titleText "सफ्टवेयर इजाजतपत्र सम्झौता">
+<!ENTITY license.introText "यो सफ्टवेयर प्रयोग गर्नका लागि शर्त र अवस्था ।">
+<!ENTITY license.instructionText "कृपया निम्न इजाजतपत्र सम्झौता पढ्नुहोस् । यो सम्झौताको बाँकी हेर्न स्क्रोलपट्टी प्रयोग गर्नुहोस् ।">
+<!ENTITY license.accept "म इजाजतपत्र सम्झौताको शर्त स्वीकार गर्छु">
+<!ENTITY license.accept.accesskey "c">
+<!ENTITY license.decline "म इजाजतपत्र सम्झौताको शर्त स्वीकार गर्दिन">
+<!ENTITY license.decline.accesskey "T">
+
+<!ENTITY downloading.title "अद्यावधिक डाउनलोड हुँदैछ">
+<!ENTITY downloading.intro "अद्यावधिक डाउनलोड हुँदैछ...">
+<!ENTITY connecting.label "अद्यावधिक सर्भरमा जडान गर्दैछ...">
+<!ENTITY verificationFailedText.label "&brandShortName; यसले डाउनलोड गरेको बढोत्तरित अद्यावधिकको एकीकरण रूजु गर्न असक्षम भयो, त्यसैले अहिले यसले पूरै अद्यावधिक प्याकेज डाउनलोड गर्दैछ ।">
+
+<!ENTITY details.link "विवरण">
+<!ENTITY pause.label "पज गर्नुहोस्">
+<!ENTITY pause.accesskey "e">
+<!ENTITY close.label "बन्द गर्नुहोस्">
+<!ENTITY close.accesskey "C">
+
+<!ENTITY error.label "त्यहाँ यो अद्यावधिक डाउनलोड गर्न वा स्थापना गर्नका लागि समस्याहरूको जाँच भइरहेको छ । जसले गर्दा &brandShortName; अद्यावधिक गर्न सकेन:">
+                                           
+<!ENTITY errorManual.label "तपाईँ &brandShortName; लाई यो लिङ्क हेरेर र पछिल्लो संस्करण डाउनलोड गरेर म्यानुअल तरीकाले अद्यावधिक गर्न सक्नुहुन्छ:">
+                                           
+<!ENTITY errorpatching.title "अद्यावधिक असफल भयो">
+<!ENTITY errorpatching.intro "आंशिक अद्यावधिक लागू गर्न सकेन । &brandShortName; ले पूरै अद्यावधिक डाउनलोड गरेर फेरि प्रयास गर्नेछ ।">
+
+<!ENTITY finished.title "डाउनलोड अद्यावधिक गर्नुहोस्">
+<!ENTITY finished.text "अद्यावधिक सफलतापूर्वक डाउनलोड र रूजु भएको छ, र यो पछिल्लो पटक &brandShortName; सुरु हुँदा स्थापना हुनेछ ।">
+
+<!ENTITY finishedBackground.title "स्थापना गर्न तयार भएकोलाई अद्यावधिक गर्नुहोस्">
+<!ENTITY finishedBackground.text "&brandShortName; ले एउटा महत्वपूर्ण अद्यावधिक डाउनलोड र रूजु गरेको छ । अरू धेरै विवरणका लागि तल लिङ्क क्लिक गर्नुहोस् ।">
+<!ENTITY finishedBackground.name "अद्यावधिक गर्नुहोस्:">
+<!ENTITY finishedBackground.more1 "फेरि सुरु गर्नुहोस् क्लिक गर्नुहोस् &brandShortName; अब अहिले अद्यावधिक गर्नुहोस् स्थापना गर्न ।">
+<!ENTITY finishedBackground.more2 "यो संवाद बन्द गर्न र काम जारी राख्न पछि क्लिक गर्नुहोस् । &brandShortName; ले पछिल्लो पटक यो सुरु हुँदा स्थापना गर्नेछ ।">
+
+<!ENTITY installed.title "अद्यावधिक स्थापना गरियो">
+<!ENTITY installed.intro "अद्यावधिक सफलतापूर्वक स्थापना गरियो ।">
+<!ENTITY whatsnew.label "नयाँ के छ बारेमा अरू धेरै पढ्नुहोस्...">
+
+<!ENTITY update.details.label "विवरण">
+<!ENTITY update.installedOn.label "यसमा स्थापित:">
+<!ENTITY update.status.label "वस्तुस्थिति:">

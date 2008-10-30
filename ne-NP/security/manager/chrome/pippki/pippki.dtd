@@ -1,0 +1,133 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is mozilla.org code.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Terry Hayes <thayes@netscape.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!-- Values for changepassword.xul -->
+
+<!ENTITY setPassword.title "मुख्य पासवर्ड परिवर्तन गर्नुहोस्">
+<!ENTITY setPassword.tokenName.label "सुरक्षा यन्त्र">
+<!ENTITY setPassword.oldPassword.label "हालको पासवर्ड:">
+<!ENTITY setPassword.newPassword.label "नयाँ पासवर्ड:">
+<!ENTITY setPassword.reenterPassword.label "नयाँ पासवर्ड (फेरि):">
+<!ENTITY setPassword.meter.label "पासवर्ड गुणस्तर मिटर">
+<!ENTITY setPassword.meter.loading "लोड हुँदैछ">
+<!-- Values for resetpassword.xul -->
+
+<!ENTITY resetPasswordButtonLabel "रिसेट गर्नुहोस्">
+<!ENTITY resetPassword.title "मुख्य पासवर्ड रिसेट गर्नुहोस्">
+<!ENTITY resetPassword.text "यदि तपाईँले मुख्य पासवर्ड रिसेट गर्नुभयो भने, तपाईँको भण्डारण गरिएको सबै वेब र इमेल पासवर्ड, फाराम डेटा, व्यक्तिगत प्रमाणपत्र र निजी कुञ्जीहरू बिर्सन सक्नेछ । तपाईँ आफ्नो मुख्य पासवर्ड रिसेट गर्न निश्चित हुनुहुन्छ ?">
+<!-- Values for getpassword.xul -->
+
+<!ENTITY getPassword.title "मुख्य पासवर्ड प्रविष्ट गर्नुहोस्">
+<!ENTITY getPassword.tokenName.label "सुरक्षा यन्त्र">
+<!ENTITY getPassword.password.label "पासवर्ड:">
+<!-- These should be common -->
+
+<!ENTITY piperror.title "त्रुटि">
+<!ENTITY pipalert.title "त्रुटि - पुन: प्राप्त गर्न सक्दैन">
+<!-- Prefs panel strings -->
+
+<!ENTITY pref.security.general.lHeader "सुरक्षा">
+<!ENTITY pref.security.general.rHeader "सामान्य सुरक्षाका लागि सेटिङ">
+<!ENTITY pref.security.general.header "सामान्य सुरक्षाका लागि सेटिङ">
+<!ENTITY pref.security.general.level.title "सुरक्षा स्तर">
+<!ENTITY pref.security.general.paranoid.label "पारानोइड सुरक्षा सेटिङ प्रयोग गर्नुहोस्">
+<!ENTITY pref.security.general.certificates.title "प्रमाणपत्र">
+<!ENTITY pref.security.general.manageCert.label "प्रमाणपत्र प्रबन्ध गर्नुहोस्">
+<!-- Downloading a cert -->
+
+<!ENTITY downloadCert.title "प्रमाणपत्र डाउनलोड हुँदैछ">
+<!ENTITY downloadCert.message1 "तपाईँलाई नयाँ प्रमाणपत्र अधिकार (सीए) विश्वास गर्न सोधिन्छ ।">
+<!ENTITY downloadCert.trustSSL "वेब साइटहरू पहिचानका लागि यो सीए विश्वास गर्नुहोस् ।">
+<!ENTITY downloadCert.trustEmail "इमेल प्रयोगकर्ताहरू पहिचान गर्न यो सीएलाई विश्वास गर्नुहोस् ।">
+<!ENTITY downloadCert.trustObjSign "सफ्टवेयर विकासकर्ताहरू पहिचान गर्नका लागि लाई यो सीए विश्वास गर्नुहोस् ।">
+<!ENTITY downloadCert.message3 "कुनैपनि उद्देश्यका लागि सीए विश्वास गर्नु अगाडि, तपाईँले यस प्रमाणपत्र र यसको नीति र कार्यविधि(यदि उपलब्ध भएमा) परीक्षण गर्नु पर्दछ ।">
+<!ENTITY downloadCert.viewCert.label "दृश्य">
+<!ENTITY downloadCert.viewPolicy.label "नीति">
+<!ENTITY downloadCert.viewCert.text "सीए प्रमाणपत्र परीक्षण गर्नुहोस्">
+<!ENTITY downloadCert.viewPolicy.text "सीए नीति र कार्यविधि परीक्षण गर्नुहोस्">
+<!-- Certificate Exists in database -->
+
+<!ENTITY caCertExists.title "प्रमाणपत्र अवस्थित छ">
+<!ENTITY caCertExists.message "प्रमाणपत्र पहिल्यै अवस्थित छ ।">
+<!-- Strings for the MismatchDomain dialog  -->
+
+<!ENTITY domainMismatch.title "सुरक्षा त्रुटि: डोमेन नाम मिलेन">
+<!ENTITY examineCert.label "प्रमाणपत्र हेर्नुहोस्">
+<!ENTITY examineCert.accesskey "V">
+<!-- Strings for the Server cert expired dialog  -->
+
+<!ENTITY serverCertExpired.continue "तपाईँ जे भए पनि जारी राख्नुहन्छ ?">
+<!ENTITY serverCertExpired.accept.label "जारी राख्नुहोस्">
+<!-- Strings for the SSL client auth ask dialog -->
+
+<!ENTITY clientAuthAsk.title "प्रयोगकर्ता पहिचान अनुरोध">
+<!ENTITY clientAuthAsk.message1 "यो साइटले तपाईँलाई आफ्नो प्रमाणपत्रबाट चिनिनुहोस् भनी अनुरोध गर्यो:">
+<!ENTITY clientAuthAsk.message2 "चिनारीको रूपमा प्रस्तुत हुन प्रमाणपत्र रोज्नुहोस्:">
+<!ENTITY clientAuthAsk.message3 "चयन गरिएको प्रमाणपत्रको विवरण:">
+<!-- Strings for the cert picker dialog -->
+
+<!ENTITY certPicker.title "प्रमाणपत्र चयन गर्नुहोस्">
+<!ENTITY certPicker.info "प्रमाणपत्र:">
+<!ENTITY certPicker.detailsLabel "चयन गरिएको प्रमाणपत्रको विवरण:">
+
+<!ENTITY pkcs12.setpassword.title "प्रमाणपत्र जगेडा पासवर्ड रोज्नुहोस्">
+<!ENTITY pkcs12.setpassword.message "तपाईँले यहाँ सेट गर्नुभएको प्रमाणपत्र जगेडा पासवर्डले जगेडा फाइल सुरक्षित गर्दछ जुन तपाईँ सिर्जना गर्दै हुनुहुन्छ । तपाईँले यो पासवर्ड जगेडासँग प्रक्रिया गर्नका लागि सेट गर्नुपर्छ ।">
+<!ENTITY pkcs12.setpassword.label1 "प्रमाणपत्र जगेडा पासवर्ड:">
+<!ENTITY pkcs12.setpassword.label2 "प्रमाणपत्र जगेडा पासवर्ड (फेरि):">
+<!ENTITY pkcs12.setpassword.reminder "महत्वपूर्ण: यदि तपाईँले प्रमाणपत्र जगेडा पासवर्ड बिर्सनुभयो भने, तपाईँले पछि यो जगेडा पूर्वावस्थामा ल्याउन सक्नुहुने छैन , कृपया यसलाई सुरक्षित स्थानमा रेकर्ड गर्नुहोस् ।">
+
+<!ENTITY pkcs12.getpassword.title "पासवर्ड प्रविष्टि संवाद">
+<!ENTITY pkcs12.getpassword.message "कृपया यो प्रमाणपत्र जगेडा गुप्तिकरण गर्न प्रयोग गरिएको पासवर्ड प्रविष्ट गर्नुहोस् ।">
+
+<!ENTITY chooseToken.title "टोकन संवाद रोज्नुहोस्">
+<!ENTITY chooseToken.message1 "कृपया टोकन रोज्नुहोस् ।">
+
+<!ENTITY escrowWarn.title "गुप्तिकरण कुञ्जी प्रतिलिपि">
+<!ENTITY escrowWarn.message1 "महत्वपूर्ण: यो प्रमाणपत्र अधिकारले तपाईँको गुप्तिकरण निजी कुञ्जीको जगेडा बनाउँन सोध्यो ।">
+<!ENTITY escrowWarn.benefit1 "फाइदा यो छ कि यदि तपाईँले आफ्नो गुप्तिकरण निजी कुञ्जी पहुँच गर्नुभयो भने, तपाईँले यो प्रमाणपत्र अधिकारबाट प्रतिलिपि अनुरोध गर्न सक्नुहुन्छ ।">
+<!ENTITY escrowWarn.message2 "यद्यपि, तपाईँको गुप्तिकरण निजी कुञ्जी प्रमाणपत्र अधिकारद्वारा भण्डारण गरिनेछ, तपाईँको गुप्तिकृत गरिएको इमेल वा कागजातहरू तपाईँको अनुमति बिना पढ्न सकिन्छ ।">
+
+<!ENTITY serverCrlNextupdate.message "कृपया सहयोगका लागि तपाईँको प्रणाली प्रशासकलाई सोध्नुहोस्">
+<!-- Strings for the CreateCertInfo dialog  -->
+
+<!ENTITY createCertInfo.title "एउटा निजी कुञ्जी सिर्जना गर्दै">
+<!ENTITY createCertInfo.msg1 "कुञ्जी सिर्जना प्रगतिमा छ... यसले केही मिनेट लिन सक्छ...">
+<!ENTITY createCertInfo.msg2 "कृपया प्रतिक्षा गर्नुहोस्...">
+<!-- Form Signing confirmation prompt -->
+
+<!ENTITY formSigning.title "पाठ साइनिङ अनुरोध">
+<!ENTITY formSigning.cert "साइनिङ प्रमाणपत्र">
+<!ENTITY formSigning.confirmPassword "तपाईँको चयन गरिएको प्रमाणपत्र प्रयोग गरेर यो पाठ सन्देश साइन गर्न तपाईँ सहमत हुनुहुन्छ भन्ने यकिन गर्न, कृपया मुख्य पासवर्ड प्रविष्ट गरेर यकिन गर्नुहोस्:">

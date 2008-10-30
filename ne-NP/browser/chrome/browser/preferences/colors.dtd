@@ -1,0 +1,22 @@
+<!ENTITY colorsDialog.title "रङ">
+<!ENTITY window.width "38em">
+<!ENTITY window.macWidth "41em">
+
+<!ENTITY allowPagesToUse.label "मैले चयन गरेका माथिका रङको सट्टामा, पृष्ठलाई तिनको आफ्नो रङ रोज्न अनुमति दिनुहोस्">
+<!ENTITY allowPagesToUse.accesskey "A">
+
+<!ENTITY color "पाठ र पृष्ठभूमि">
+<!ENTITY textColor.label "पाठ:">
+<!ENTITY textColor.accesskey "t">
+<!ENTITY backgroundColor.label "पृष्ठभूमि:">
+<!ENTITY backgroundColor.accesskey "b">
+<!ENTITY useSystemColors.label "प्रणाली रङ प्रयोग गर्नुहोस्">
+<!ENTITY useSystemColors.accesskey "s">
+
+<!ENTITY underlineLinks.label "अधोरेखा लिङ्क">
+<!ENTITY underlineLinks.accesskey "u">
+<!ENTITY links "लिङ्क रङ">
+<!ENTITY linkColor.label "अवलोकन नगरिएका लिङ्क:">
+<!ENTITY linkColor.accesskey "l">
+<!ENTITY visitedLinkColor.label "अवलोकन गरिएका लिङ्क:">
+<!ENTITY visitedLinkColor.accesskey "v">

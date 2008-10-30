@@ -1,0 +1,123 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is mozilla.org code.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Ian McGreer <mcgreer@netscape.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY certmgr.title "प्रमाणपत्र प्रबन्धक">
+
+<!ENTITY certmgr.tab.mine "तपाईँका प्रमाणपत्र">
+<!ENTITY certmgr.tab.others "अन्य व्यक्ति">
+<!ENTITY certmgr.tab.websites "वेब साइट">
+<!ENTITY certmgr.tab.ca "अधिकारहरू">
+
+<!ENTITY certmgr.ca.builtins "सीएएसमा निर्माण गर्नुहोस्">
+<!ENTITY certmgr.ca.mycas "तपाईँद्वारा प्रबन्ध गरिएको सीएएस">
+
+<!ENTITY certmgr.mine "तपाईँसँग यी संस्थाका प्रमाणपत्रहरू छन् जसले तपाईँलाई चिनाउँछ:">
+<!ENTITY certmgr.others "तपाईँसँग फाइलमा प्रमाणपत्रहरू छन् जसले यी व्यक्तिहरूलाई चिन्दछ:">
+<!ENTITY certmgr.websites "तपाईँसँग फाइलमा प्रमाणपत्रहरू छन् जसले यी वेबसाइटहरू चिनाउँदछ:">
+<!ENTITY certmgr.cas "तपाईँसँग फाइलमा प्रमाणपत्रहरू छन जसले ती प्रमाणपत्र अधिकारहरू पहिचान गर्दछ:">
+
+<!ENTITY certmgr.detail.general_tab.title "साधारण">
+<!ENTITY certmgr.detail.prettyprint_tab.title "विवरण">
+
+<!ENTITY certmgr.subjectinfo.label "लाई">
+<!ENTITY certmgr.issuerinfo.label "द्वारा">
+<!ENTITY certmgr.validity.label "वैद्यता">
+<!ENTITY certmgr.fingerprints.label "औठाछाप">
+<!ENTITY certmgr.certdetail.title "प्रमाणपत्र विस्तृत">
+<!ENTITY certmgr.certdetail.cn "साझा नाम(CN)">
+<!ENTITY certmgr.certdetail.o "संस्था (O)">
+<!ENTITY certmgr.certdetail.ou "संस्थागत इकाई (OU)">
+<!ENTITY certmgr.certdetail.serialnumber "क्रम सङ्ख्या">
+<!ENTITY certmgr.certdetail.sha1fingerprint "SHA1 औँठाछाप">
+<!ENTITY certmgr.certdetail.md5fingerprint "MD5 औँठाछाप">
+
+<!ENTITY certmgr.editcert.title "सुरक्षा प्रमाणपत्र सेटिङ सम्पादन गर्नुहोस्">
+<!ENTITY certmgr.editcacert.title "सीए प्रमाणपत्र ट्रस्ट सेटिङ सम्पादन गर्नुहोस्">
+<!ENTITY certmgr.editsslcert.title "वेबसाइट प्रमाणपत्र ट्रस्ट सेटिङ सम्पादन गर्नुहोस्">
+<!ENTITY certmgr.editcert.edittrust "विशवास सेटिङ सम्पादन गर्नुहोस्:">
+<!ENTITY certmgr.editcert.trustssl "यो प्रमाणपत्रले वेब साइट चिन्न सक्छ ।">
+<!ENTITY certmgr.editcert.trustemail "यो प्रमाणपत्रले मेल प्रयोगकर्ता चिन्न सक्छ ।">
+<!ENTITY certmgr.editcert.trustobjsign "यो प्रमाणपत्रले सफ्टवेयर निर्माताहरू पहिचान गर्दछ ।">
+<!ENTITY certmgr.editsslcert.edittrust "प्रमाणपत्र ट्रस्ट सेटिङ सम्पादन गर्नुहोस्:">
+<!ENTITY certmgr.editsslcert.dotrust "यो प्रमाणपत्रको आधिकारिकता ट्रस्ट गर्नुहोस् ।">
+<!ENTITY certmgr.editsslcert.donttrust "यो प्रमाणपत्रको आधिकारिकता ट्रस्ट नगर्नुहोस् ।">
+<!ENTITY certmgr.editemailcert.title "साना प्रमाणपत्र ट्रस्ट सेटिङ सम्पादन गर्नुहोस्">
+<!ENTITY certmgr.editemailcert.edittrust "प्रमाणपत्र ट्रस्ट सेटिङ सम्पादन गर्नुहोस्:">
+<!ENTITY certmgr.editemailcert.dotrust "यो प्रमाणपत्रको आधिकारिकता ट्रस्ट गर्नुहोस् ।">
+<!ENTITY certmgr.editemailcert.donttrust "यो प्रमाणपत्रको आधिकारिकता ट्रस्ट नगर्नुहोस् ।">
+
+<!ENTITY certmgr.deletecert.title "प्रमाणपत्र मेट्नुहोस्">
+<!ENTITY certmgr.deletecert.beforename "तपाईँलाई यो प्रमाणपत्र मेट्न अनुरोध गरिएको छ:">
+<!ENTITY certmgr.deletecert.aftername "तपाईँ यो प्रमाणपत्र मेट्न निश्चित हुनुहुन्छ ?">
+<!ENTITY certmgr.deleteusercert.title "तपाईँको प्रमाणपत्र मेट्नुहोस्">
+<!ENTITY certmgr.deleteusercert.beforename "तपाईँलाई प्रमाणपत्र मेट्न अनुरोध गरियो:">
+<!ENTITY certmgr.deleteusercert.aftername "एक पटक तपाईँले यो प्रमाणपत्र मेट्नुभएको छ, तपाईँले मेल पढ्न सक्नुहुन्न जुन यो सँग गुप्तिकृत भएको छ ।">
+
+<!ENTITY certmgr.certname "प्रमाणपत्रको नाम">
+<!ENTITY certmgr.tokenname "सुरक्षा यन्त्र">
+<!ENTITY certmgr.purpose "उद्देश्य">
+<!ENTITY certmgr.issued "जारी मिति">
+<!ENTITY certmgr.expires "समाप्त मिति">
+<!ENTITY certmgr.email "इमेल ठेगाना">
+<!ENTITY certmgr.serial "क्रम सङ्ख्या">
+<!ENTITY certmgr.ocsp_info "प्रमाणपत्र OCSP सँग वैधता गरिएको छैन । यसो गर्न दृश्य क्लिक गर्नुहोस् ।">
+
+<!ENTITY certmgr.close.label "बन्द गर्नुहोस्">
+<!ENTITY certmgr.close.accesskey "C">
+<!ENTITY certmgr.view.label "दृश्य">
+<!ENTITY certmgr.view.accesskey "V">
+<!ENTITY certmgr.edit.label "सम्पादन">
+<!ENTITY certmgr.edit.accesskey "E">
+<!ENTITY certmgr.editca.label "सीए ट्रस्ट सम्पादन गर्नुहोस्">
+<!ENTITY certmgr.editca.accesskey "d">
+<!ENTITY certmgr.add.label "थप्नुहोस्">
+<!ENTITY certmgr.add.accesskey "A">
+<!ENTITY certmgr.delete.label "मेट्नुहोस्">
+<!ENTITY certmgr.delete.accesskey "D">
+<!ENTITY certmgr.backup.label "जगेडा">
+<!ENTITY certmgr.backup.accesskey "B">
+<!ENTITY certmgr.backupall.label "सबै जगेडा राख्नुहोस्">
+<!ENTITY certmgr.backupall.accesskey "k">
+<!ENTITY certmgr.restore.label "आयात गर्नुहोस्">
+<!ENTITY certmgr.restore.accesskey "m">
+<!ENTITY certmgr.details.label "प्रमाणपत्र फाँट">
+<!ENTITY certmgr.details.accesskey "F">
+<!ENTITY certmgr.fields.label "फाँट मान">
+<!ENTITY certmgr.fields.accesskey "V">
+<!ENTITY certmgr.hierarchy.label "प्रमाणपत्र सोपानक्रम">
+<!ENTITY certmgr.hierarchy.accesskey "C">
+

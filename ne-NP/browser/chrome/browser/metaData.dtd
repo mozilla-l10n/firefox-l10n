@@ -1,0 +1,26 @@
+<!ENTITY no-properties.label "गुण सेट गरिएको छैन ।">
+
+<!ENTITY caption.label "तत्व गुण">
+<!ENTITY image-sec.label "छवि गुण">
+<!ENTITY image-url.label "स्थान:">
+<!ENTITY image-desc.label "वर्णन:">
+<!ENTITY image-alt.label "वैकल्पिक पाठ:">
+<!ENTITY image-width.label "चौडाइ:">
+<!ENTITY image-height.label "उचाइ:">
+<!ENTITY image-filesize.label "फाइलको साइज:">
+<!ENTITY insdel-sec.label "गुण घुसाउनुहोस्/मेट्नुहोस्">
+<!ENTITY insdel-cite.label "सूचना:">
+<!ENTITY insdel-date.label "मिति:">
+<!ENTITY link-sec.label "लिङ्क गुण">
+<!ENTITY link-url.label "ठेगाना:">
+<!ENTITY link-target.label "यसमा खुल्नेछ:">
+<!ENTITY link-type.label "लक्षित प्रकार:">
+<!ENTITY link-lang.label "लक्षित भाषा:">
+<!ENTITY link-rel.label "सम्बन्ध:">
+<!ENTITY link-rev.label "उल्टो सम्बन्ध:">
+<!ENTITY misc-sec.label "बिबिध गुण">
+<!ENTITY misc-lang.label "पाठ भाषा:">
+<!ENTITY misc-title.label "शीर्षक:">
+<!ENTITY misc-tblsummary.label "तालिका सारांश:">
+<!ENTITY quote-sec.label "उद्धरण गुण">
+<!ENTITY quote-cite.label "सूचना:">

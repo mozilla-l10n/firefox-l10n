@@ -1,0 +1,29 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "मुद्रण गर्नुहोस्">
+
+<!ENTITY printDialog.title "मुद्रण गर्नुहोस्">
+
+<!ENTITY fpDialog.title "फाइल बचत गर्नुहोस्">
+
+<!ENTITY fileCheck.label "फाइलमा मुद्रण गर्नुहोस्">
+<!ENTITY propertiesButton.label "गुण...">
+<!ENTITY descText.label "मुद्रक वर्णन:">
+<!ENTITY printer.label "मुद्रक">
+<!ENTITY printerInput.label "मुद्रक नाम:">
+
+<!ENTITY printrangeGroup.label "मुद्रण दायरा">
+<!ENTITY allpagesRadio.label "सबै पृष्ठ">
+<!ENTITY rangeRadio.label "पृष्ठ">
+<!ENTITY frompageInput.label "बाट">
+<!ENTITY topageInput.label "लाई">
+<!ENTITY selectionRadio.label "चयन">
+
+<!ENTITY copies.label "प्रतिलिपि">
+<!ENTITY numCopies.label "प्रतिलिपिको सङ्ख्या:">
+
+<!ENTITY printframeGroup.label "मुद्रण फ्रेम">
+<!ENTITY aslaidoutRadio.label "पर्दामा देखिए जस्तै">
+<!ENTITY selectedframeRadio.label "चयन गरिएको फ्रेम">
+<!ENTITY eachframesepRadio.label "हरेक फ्रेम छुट्टा छुट्टै ">
+

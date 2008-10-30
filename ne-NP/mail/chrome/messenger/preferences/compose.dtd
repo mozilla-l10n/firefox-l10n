@@ -1,0 +1,65 @@
+<!ENTITY itemGeneral.label "साधारण">
+<!ENTITY itemAutoComplete.label "सम्बोधन">
+<!ENTITY itemSpellCheck.label "हिज्जे">
+<!ENTITY itemSendFormat.label "पठाउने ढाँचा">
+
+<!ENTITY forwardReply.label "सन्देश पठाउँदैछ">
+<!ENTITY forwardMsg.label "सन्देश पठाउनुहोस्:">
+<!ENTITY forwardMsg.accesskey "f">
+<!ENTITY inline.label "इनलाइन">
+<!ENTITY inline.accesskey "I">
+<!ENTITY asAttachment.label "सङ्लग्नताका रूपमा">
+<!ENTITY asAttachment.accesskey "A">
+
+<!ENTITY htmlComposeHeader.label "एचटीएमएल">
+<!ENTITY font.label "फन्ट:">
+<!ENTITY font.accesskey "n">
+<!ENTITY size.label "साइज:">
+<!ENTITY size.accesskey "z">
+<!ENTITY fontColor.label "पाठ रङ:">
+<!ENTITY fontColor.accesskey "x">
+<!ENTITY bgColor.label "पृष्ठभूमि रङ:">
+<!ENTITY bgColor.accesskey "B">
+<!ENTITY restoreHTMLDefaults.label "पूर्वनिर्धारितलाई पूर्वावस्थामा ल्याउनुहोस्">
+<!ENTITY restoreHTMLDefaults.accesskey "R">
+
+<!ENTITY sendingMessagesHeader.label "सन्देश रचना">
+<!ENTITY spellCheck.label "पठाउनुभन्दा पहिला हिज्जे जाँच गर्नुहोस्">
+<!ENTITY spellCheck.accesskey "C">
+<!ENTITY spellCheckInline.label "तपाईँले टाइप गर्दा हिज्जे जाँच सक्षम पार्नुहोस्">
+<!ENTITY spellCheckInline1.accesskey "k">
+<!ENTITY languagePopup.label "भाषा:">
+<!ENTITY languagePopup.accessKey "g">
+<!ENTITY downloadDictionaries.label "अरू शब्दकोश डाउनलोड गर्नुहोस्">
+
+<!ENTITY useMIME.label "8-bit क्यारेक्टर समावेश भएका सन्देशका लागि, 'उद्धरण गरिएका मुद्रणयोग्य' MIME सङ्केतन प्रयोग गर्नुहोस्">
+<!ENTITY useMIME.accesskey "o">
+<!ENTITY warnOnSendAccelKey.label "सन्देश पठाउनलाई कुञ्जीपाटी सर्टकट प्रयोग गर्ने बेलामा यकीन गर्नुहोस्">
+<!ENTITY warnOnSendAccelKey.accesskey "i">
+<!ENTITY autoSave.label "प्रत्येकलाई स्वत: बचत गर्नुहोस्">
+<!ENTITY autoSave.accesskey "u">
+<!ENTITY autoSaveEnd.label "मिनेट">
+<!ENTITY autoSaveEnd.accesskey "m">
+<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+<!ENTITY wrapOutMsg.label "यसमा सादा पाठ सान्देश र्याप गर्नुहोस्">
+<!ENTITY wrapOutMsg.accesskey "l">
+<!ENTITY char.label "क्यारेक्टर">
+
+<!ENTITY emailCollectionPicker.label "बाह्यगमन इमेल ठेगाना मेरोमा स्वचालित रूपले थप्नुहोस्:">
+<!ENTITY emailCollectionPicker.accesskey "t">
+<!ENTITY addressingTitle.label "ठेगाना स्वत:समापन">
+<!ENTITY autocompleteText.label "सन्देशलाई सम्बोधन गर्दा, यस भित्रको मिल्दो प्रविष्टि हेर्नुहोस्:">
+<!ENTITY addressingEnable.label "स्थानीय ठेगाना पुस्तक">
+<!ENTITY addressingEnable.accesskey "A">
+<!ENTITY directories.label "डाइरेक्टरी सर्भर:">
+<!ENTITY directories.accesskey "D">
+<!ENTITY editDirectories.label "डाइरेक्टरी सम्पादन गर्नुहोस्...">
+<!ENTITY editDirectories.accesskey "E">
+<!ENTITY matchText.label "यदि तपाईँको स्थानीय ठेगाना पुस्तकमा जोडा भएमा:">
+<!ENTITY skipDirectory.label "डाइरेक्टरीमा खोजी नगर्नुहोस्">
+
+<!ENTITY sendOptionsCaption.label "पठाउनुहोस् र एचटीएमएल विकल्प">
+<!ENTITY sendOptionsDescription.label "पाठ ढाँचा व्यवहार कन्फिगर गर्नुहोस्">
+<!ENTITY sendOptions.label "पठाउने विकल्प...">
+<!ENTITY sendOptions.accesskey "S">
+

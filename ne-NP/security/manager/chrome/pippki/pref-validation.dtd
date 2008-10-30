@@ -1,0 +1,85 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is mozilla.org code.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David P. Drinan (ddrinan@netscape.com)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY pref.validation.title "वैधता">
+
+<!ENTITY validation.crl.caption "सीआरएल">
+<!ENTITY validation.crl.description "प्रमाणपत्र खण्डन सूची (सीआरएल) प्रबन्ध गर्न सीआरएल प्रबन्धक प्रयोग गर्नुहोस् जुन तपाईँको प्रमाणपत्र डाटाबेसमा भण्डारन गरिएका छन् ।">
+<!ENTITY validation.managecrls.button "सीआरएल प्रबन्ध गर्नुहोस्...">
+<!ENTITY validation.managecrls.accesskey "M">
+<!ENTITY validation.crlmanager.label "सीआरएल प्रबन्ध गर्नुहोस्">
+<!ENTITY validation.crlname.label "नाम">
+<!ENTITY validation.crllastupdate.label "अन्तिम अद्यावधिक">
+<!ENTITY validation.crlnextupdate.label "पछिल्लो अद्यावधिक">
+<!ENTITY validation.crlautoupdateenabled.label "स्वत: अद्यावधिक गर्नुहोस्">
+<!ENTITY validation.crlautoupdatestatus.label "वस्तुस्थिति स्वत: अद्यावधिक गर्नुहोस्">
+<!ENTITY validation.deletecrl.label "मेट्नुहोस्">
+<!ENTITY validation.deletecrl.accesskey "D">
+<!ENTITY validation.updatecrl.label "अद्यावधिक">
+<!ENTITY validation.updatecrl.accesskey "U">
+<!ENTITY validation.advanced.label "सेटिङ">
+<!ENTITY validation.advanced.accesskey "S">
+
+<!ENTITY validation.crl.autoupdate.title "स्वचालित सीआरएल अद्यावधिक प्राथमिकता">
+<!ENTITY validation.crl.autoupdate.enable.label "यो यूआरएलका लागि स्वचालित अद्यावधिक सक्षम पार्नुहोस्">
+<!ENTITY validation.crl.autoupdate.time.label1 "अद्यावधिक गर्नुहोस्">
+<!ENTITY validation.crl.autoupdate.time.label2 "पछिल्लो अद्यावधिक मिति अघिको दिन">
+<!ENTITY validation.crl.autoupdate.freq.label1 "हरेक अद्यावधिक गर्नुहोस्">
+<!ENTITY validation.crl.autoupdate.freq.label2 "दिन">
+<!ENTITY validation.crl.autoupdate.url.label "सीआरएल यसबाट आयात गरिनेछ:">
+<!ENTITY crl.import.status.title "सीआरएल आयात वस्तुस्थिति">
+<!ENTITY crl.import.success.message "प्रमाणपत्र खण्डन सूची (सीआरएल) सफलतापूर्वक आयातित गरियो ।">
+<!ENTITY crl.issuer.label "यसद्वारा झिकिएको सीआरएल:">
+<!ENTITY crl.issuer.org.label "सङ्गठन:">
+<!ENTITY crl.issuer.orgunit.label "एकाइ: ">
+<!ENTITY crl.import.nextupdate.label "पछिल्लो अद्यावधिक:">
+<!ENTITY crl.autoupdate.fail.cnt.label "अघिल्लो क्रमागत अद्यावधिक असफलता: ">
+<!ENTITY crl.autoupdate.fail.reason.label "अन्तिम अद्यावधिक असफलताको विवरण:">
+<!ENTITY edit.button "सेटिङ">
+
+<!ENTITY validation.ocsp.caption "OCSP">
+<!ENTITY validation.ocsp.description "&brandShortName; ले प्रमाणपत्रहरू रूजु गर्न अनलाइन प्रमाणपत्र वस्तुस्थिति प्रोटोकल (OCSP) प्रयोग गर्न सक्छ । यस प्रकारले OCSP प्रयोग गर्न &brandShortName; सेट गर्नुहोस्:">
+<!ENTITY disableOCSP.label "प्रमाणपत्र वैधताका लागि OCSP प्रयोग नगर्नुहोस्">
+<!ENTITY disableOCSP.accesskey "D">
+<!ENTITY certOCSP.label "एउटा OSCP सेवा यूआरएल निर्दिष्ट गर्ने प्रमाणपत्र मात्र वैधता गर्न OCSP प्रयोग गर्नुहोस्">
+<!ENTITY certOCSP.accesskey "U">
+<!ENTITY proxyOCSP.label "यो यूआरएल र साइनर प्रयोग गरेर सबै प्रमाणपत्र वैधता गर्न OSCP प्रयोग गर्नुहोस्:">
+<!ENTITY proxyOCSP.accesskey "O">
+<!ENTITY serviceURL.label "सेवा यूआरएल:">
+<!ENTITY serviceURL.accesskey "S">
+<!ENTITY signingCA.label "प्रतिक्रिया साइनर:">
+<!ENTITY signingCA.accesskey "R">

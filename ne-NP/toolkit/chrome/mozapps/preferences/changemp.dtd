@@ -1,0 +1,9 @@
+<!ENTITY setPassword.title "मुख्य पासवर्ड परिवर्तन गर्नुहोस्">
+<!ENTITY setPassword.tokenName.label "सुरक्षा यन्त्र">
+<!ENTITY setPassword.oldPassword.label "हालको पासवर्ड:">
+<!ENTITY setPassword.newPassword.label "नयाँ पासवर्ड प्रविष्ट गर्नुहोस्:">
+<!ENTITY setPassword.reenterPassword.label "पासवर्ड पुन-प्रविष्ट गर्नुहोस्:">
+<!ENTITY setPassword.meter.label "पासवर्ड गुणस्तर मिटर">
+<!ENTITY setPassword.meter.loading "लोड हुदैछ">
+<!ENTITY masterPasswordDescription.label "मुख्य पासवर्ड संवेदनशील सूचना जस्तै साइट पासवर्ड सुरक्षित गर्न प्रयोग गरिन्छ । यदि तपाईँले मुख्य पासवर्ड सिर्जना गर्नुभएको छ भने तपाईँले &brandShortName; ले पासवर्डद्वारा सुरक्षित गरिएको बचत सूचना पुन: प्राप्त गर्दा तपाईँलाई यो प्रति सत्र एकपटक प्रविष्ट गर्न सोधिन्छ ।">
+<!ENTITY masterPasswordWarning.label "कृपया तपाईँले आफूले सेट गर्नुभएको मुख्य पासवर्ड सम्झनु भयो भन्ने निश्चित गर्नुहोस् । यदि तपाईँले मुख्य पासवर्ड बिर्सनुभयो भने, तपाईँ यसले सुरक्षित गरेको कुनै पनि सूचना पहुँच गर्न सक्षम हुनुहुनेछ ।">

@@ -1,0 +1,33 @@
+<!ENTITY serverAdvanced.label "उन्नत खाता सेटिङ">
+<!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY imapAdvanced.label "उन्नत IMAP सर्भर सेटिङ">
+<!ENTITY serverDirectory.label "IMAP सर्भर डाइरेक्टरी:">
+<!ENTITY serverDirectory.accesskey "d">
+<!ENTITY usingSubscription.label "सदस्य गरिएका फोल्डरहरू मात्र देखाउनुहोस्">
+<!ENTITY usingSubscription.accesskey "w">
+<!ENTITY dualUseFolders.label "सर्भरले फोल्डर समर्थन गर्दछ जसले उप-फोल्डर र सन्देशहरू समाविष्ट गर्छ">
+<!ENTITY dualUseFolders.accesskey "f">
+<!ENTITY useIdle.label "यसि सर्भरले यसलाई समर्थन गरेमा IDLE आदेश प्रयोग गर्नुहोस्">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "क्यासमा अधिक्तम सङ्ख्याको सर्भर जडान">
+<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY namespaceDesc.label "These preferences specify the namespaces on your IMAP server">
+<!ENTITY personalNamespace.label "व्यक्तिगत नेमस्पेस:">
+<!ENTITY personalNamespace.accesskey "P">
+<!ENTITY publicNamespace.label "सार्वजनिक (साझेदार गरिएको)">
+<!ENTITY publicNamespace.accesskey "u">
+<!ENTITY otherUsersNamespace.label "अन्य प्रयोगकर्ता:">
+<!ENTITY otherUsersNamespace.accesskey "O">
+<!ENTITY overrideNamespaces.label "यी नेमस्पेसहरूलाई अधिलेखन गर्न सर्भरलाई अनुमति दिनुहोस्">
+<!ENTITY overrideNamespaces.accesskey "A">
+<!ENTITY pop3Desc.label "यो सर्भरका लागि पप मेल डाउनलोड गर्दा, नयाँ मेलका लागि निम्न फोल्डर प्रयोग गर्नुहोस् ।">
+<!ENTITY folderStorage.label "मेल कहाँ भण्डारण गर्ने">
+<!ENTITY globalInbox.label "विश्वव्यापी पत्रमञ्जूषा (स्थानीय फोल्डरको खाता)">
+<!ENTITY globalInbox.accesskey "G">
+<!ENTITY accountDirectory.label "यो सर्भरको खाताका लागि पत्रमञ्जूषा">
+<!ENTITY accountDirectory.accesskey "S">
+<!ENTITY deferToServer.label "फरक खाताका लागि पत्रमञ्जूषा">
+<!ENTITY deferToServer.accesskey "D">
+<!ENTITY deferGetNewMail.label "नयाँ मेल प्राप्त गर्दा यो सर्भर समावेश गर्नुहोस्">
+<!ENTITY deferGetNewMail.accesskey "I">

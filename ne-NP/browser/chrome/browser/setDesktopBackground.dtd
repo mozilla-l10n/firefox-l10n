@@ -1,0 +1,9 @@
+<!ENTITY position.label "स्थिति:">
+<!ENTITY tile.label "टायल">
+<!ENTITY center.label "केन्द्र">
+<!ENTITY stretch.label "फैलाउनु">
+<!ENTITY preview.label "पूर्वावलोकन">
+<!ENTITY color.label "रङ:">
+<!ENTITY setDesktopBackground.title "डेस्कटप पृष्ठभूमि सेट गर्नुहोस्">
+<!ENTITY openDesktopPrefs.label "डेस्कटप प्राथमिकता खोल्नुहोस्">
+<!ENTITY closeWindow.key "w">

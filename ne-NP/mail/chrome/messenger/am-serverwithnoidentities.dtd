@@ -1,0 +1,12 @@
+<!ENTITY accountTitle.label "खाता सेटिङ">
+<!ENTITY accountSettingsDesc.label "निम्न विशेष खाता हुन् । त्यहाँ यो सँग सम्बन्धित कुनै पहिचानहरू छैन ।">
+<!ENTITY accountName.label "खाता नाम:">
+<!ENTITY accountName.accesskey "N">
+<!ENTITY messageStorage.label "सन्देश भण्डारण">
+<!ENTITY emptyTrashOnExit.label "अन्त्य गर्दा रद्दीटोकरी खाली गर्नुहोस्">
+<!ENTITY emptyTrashOnExit.accesskey "x">
+<!ENTITY localPath.label "स्थानीय डाइरेक्टरी:">
+<!ENTITY localPath.accesskey "L">
+<!ENTITY localFolderPicker.label "स्थानीय डाइरेक्टरी चयन गर्नुहोस्">
+<!ENTITY browseFolder.label "ब्राउज...">
+<!ENTITY browseFolder.accesskey "B">

@@ -1,0 +1,8 @@
+<!ENTITY identitiesListTitle.label "यस खातासँग सम्बन्धित परिचय">
+<!ENTITY identitiesListDesc.label "बहुविध परिचय समर्थन">
+<!ENTITY identitiesListAdd.label "थप्नुहोस्...">
+<!ENTITY identitiesListAdd.accesskey "A">
+<!ENTITY identitiesListEdit.label "सम्पादन गर्नुहोस्...">
+<!ENTITY identitiesListEdit.accesskey "E">
+<!ENTITY identitiesListDelete.label "मेट्नुहोस्">
+<!ENTITY identitiesListDelete.accesskey "D">

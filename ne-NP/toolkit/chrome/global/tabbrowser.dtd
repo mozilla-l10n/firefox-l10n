@@ -1,0 +1,13 @@
+<!ENTITY untitledTab "(शीर्षकविहिन)">
+<!ENTITY newTab.label "नयाँ ट्याब">
+<!ENTITY newTab.accesskey "N">
+<!ENTITY closeTab.label "ट्याब बन्द गर्नुहोस्">
+<!ENTITY closeTab.accesskey "c">
+<!ENTITY closeOtherTabs.accesskey "o">
+<!ENTITY closeOtherTabs.label "अन्य ट्याब बन्द गर्नुहोस्">
+<!ENTITY reloadAllTabs.label "सबै ट्याबहरू रिलोड गर्नुहोस्">
+<!ENTITY reloadAllTabs.accesskey "A">
+<!ENTITY reloadTab.label "ट्याब रिलोड गर्नुहोस्">
+<!ENTITY reloadTab.accesskey "r">
+<!ENTITY newTabButton.tooltip "नयाँ ट्याब खोल्नुहोस्">
+<!ENTITY listAllTabs.label "सबै ट्याबहरू सूचीबद्ध गर्नुहोस्">

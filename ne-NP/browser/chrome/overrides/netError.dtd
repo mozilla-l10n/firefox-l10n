@@ -1,0 +1,56 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "पृष्ठ लोड गर्दा त्रुटि">
+<!ENTITY retry.label "पुन: प्रयास गर्नुहोस्">
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "जडान गर्न अक्षम">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "यो ठेगाना निषेध गरिएको छ">
+<!ENTITY deniedPortAccess.longDesc "_: deniedPortAccess.longDesc
+">
+
+<!ENTITY dnsNotFound.title "सर्भर फेला परेन">
+<!ENTITY dnsNotFound.longDesc "<ul> <li><strong>www</strong>.example.com को साटोमा<strong>ww</strong>.example.com जस्तै टाइप त्रुटिका लागि ठेगाना जाँच गर्नुहोस्</li> <li>यदि तपाईँ कुनै पनि पृष्ठ लोड गर्न सक्षम नभएमा, तपाईँको कम्प्युटरको सञ्जाल जडान जाँच गर्नुहोस् ।</li> <li>यदि तपाईँको कम्प्युटर वा सञ्जाल फायरवाल वा प्रोकसीद्वारा सुरक्षित गरिएको भएमा, &brandShortName; लाई वेब पहुँच गर्न अनुमति दिइएको निश्चित हुनुहोस् ।</li> </ul>">
+
+<!ENTITY fileNotFound.title "फाइल फेला परेन">
+<!ENTITY fileNotFound.longDesc "<ul> <li>ठूलोबर्ण वा अन्य टाइप त्रुटिका लागि फाइल नाम जाँच गर्नुहोस् ।</li> <li>यदि फाइल सारिएको, पुन: नामकरण गरिएको वा मेटिएको छ छैन हेर्न जाँच गर्नुहोस् ।</li> </ul>">
+
+
+<!ENTITY generic.title "Oops.">
+<!ENTITY generic.longDesc "<p>&brandShortName; ले केही कारणले गर्दा यो पृष्ठ लोड गर्न सक्दैन ।</p>">
+
+<!ENTITY malformedURI.title "ठेगाना बैध छैन">
+<!ENTITY malformedURI.longDesc "<ul> <li>वेब ठेगाना सधैँ<strong>http://www.example.com/</strong> रुपमा लेखिन्छ</li> <li>तपाईँले अगाडि स्ल्यास प्रयोग गरेको निश्चित गर्नुहोस् (i.e. <strong>/</strong>) ।</li> </ul>">
+
+<!ENTITY netInterrupt.title "जडानलाई रोकिएको थियो">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY netOffline.title "अफलाइन मोड">
+<!ENTITY netOffline.longDesc "<ul> <li>फाइल मेनुमा &quot;अफलाइन कार्य गर्नुहोस्&quot; अनचेक गर्नुहोस्, त्यसपछि पुन: प्रयास गर्नुहोस् ।</li> </ul>">
+
+<!ENTITY netReset.title "जडान रिसेट गरिएको थियो">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "जडानको समय समाप्त भएको छ">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY protocolNotFound.title "ठेगाना बुझेको थिएन">
+<!ENTITY protocolNotFound.longDesc "<ul> <li>यो ठेगाना खोल्न तपाईँले अर्को सफ्टवेयर स्थापन गर्न आवश्यक हुनसक्छ ।</li> </ul>">
+
+<!ENTITY proxyConnectFailure.title "प्रोक्सी सर्भरले जडान अस्वीकार गरेको छ">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>प्रोक्सी सेटिङ ठीक भएको निश्चित गर्न तिनीहरूलाई जाँच गर्नुहोस् ।</li> <li>प्रोक्सी सर्भरले कार्य गरेको निश्चित गर्न तपाईँको सञ्जाल प्रशासकलाई निश्चित गर्नुहोस् ।</li> </ul>">
+
+<!ENTITY proxyResolveFailure.title "प्रोक्सी सर्भर फेला पार्न अक्षम">
+<!ENTITY proxyResolveFailure.longDesc "<ul> <li>प्रोक्सी सर्भर ठीक भएको निश्चित गर्न तिनीहरूलाई जाँच गर्नुहोस् ।</li> <li>तपाईँको कम्प्युटरको सञ्जाल जडानले कार्य गरेको निश्चित गर्न जाँच गर्नुहोस् ।</li> <li>यदि तपाईँको कम्प्युटर वा सञ्जाल फायरवाल वा प्रोक्सीद्वारा सुरक्षा गरिएको भएमा, &brandShortName; लाई वेबमा पहुँचका लागि अनुमति भएको निश्चित गर्नुहोस् ।</li> </ul>">
+
+<!ENTITY redirectLoop.title "यो पृष्ठ ठीक तरिकाले पुन: निर्दैशन गरिएको छैन">
+<!ENTITY redirectLoop.longDesc "<ul> <li>यो समस्या कहिलेकाहीँ कुकी स्वीकार गर्न अक्षम वा अस्वीकार गरिएको कारणले हुनसक्छ ।</li> </ul>">
+
+<!ENTITY unknownSocketType.title "सर्भरबाट अनपेक्षित प्रतिक्रिया">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>तपाईँको प्रणालीमा निजी सुरक्षा प्रबन्धक स्थापना गरिएको निश्चित हुन जाँच गर्नुहोस् ।</li> <li>यो सर्भरमा मानक बिहिन कन्फिगरेसनका कारणले हुनसक्छ ।</li> </ul>">
+
+<!ENTITY sharedLongDesc "<ul> <li>साइट अस्थायी रुपमा उपलब्ध नभएको वा धेरै व्यस्त हुनसक्छ । केही मिनेट पछाडि पुन: प्रयास गर्नुहोस् ।</li> <li>यदि तपाईँ कुनै पनि पृष्ठ लोड गर्न अक्षम भएमा, तपाईँको कम्प्युटर सञ्जाल जडान जाँच गर्नुहोस् ।</li> <li>यदि तपाईँको कम्प्युटर वा सञ्जाल फायरवाल वा प्रोक्सीद्वारा सुरक्षा गरिएको भएमा, &brandShortName; लाई वेबमा पहुँचका लागि अनुमति भएको निश्चित गर्नुहोस् ।</li> </ul>">

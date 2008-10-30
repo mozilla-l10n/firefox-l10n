@@ -1,0 +1,52 @@
+<!ENTITY blockPopups.label "पप-अप सञ्झ्याल बन्द गर्नुहोस्">
+<!ENTITY blockPopups.accesskey "B">
+<!ENTITY popupExceptions.label "अपवाद...">
+<!ENTITY popupExceptions.accesskey "E">
+
+<!ENTITY loadImages.label "छवि स्वचालित रुपमा लोड गर्नुहोस्">
+<!ENTITY loadImages.accesskey "I">
+<!ENTITY exceptions.label "अपवाद...">
+<!ENTITY exceptions.accesskey "x">
+
+<!ENTITY enableJavaScript.label "जाभास्क्रिप्ट सक्षम पार्नुहोस्">
+<!ENTITY enableJavaScript.accesskey "J">
+<!ENTITY advancedJS.label "उन्नत...">
+<!ENTITY advancedJS.accesskey "v">
+
+<!ENTITY enableJava.label "जाभा सक्षम पार्नुहोस्">
+<!ENTITY enableJava.accesskey "n">
+
+
+<!ENTITY fontsAndColors.label "फन्ट र रङ">
+
+<!ENTITY defaultFont.label "पूर्वनिर्धारित फन्ट:">
+<!ENTITY defaultFont.accesskey "D">
+<!ENTITY defaultSize.label "साइज:">
+<!ENTITY defaultSize.accesskey "i">
+
+<!ENTITY advancedFonts.label "उन्नत...">
+<!ENTITY advancedFonts.accesskey "d">
+
+<!ENTITY colors.label "रङ...">
+<!ENTITY colors.accesskey "C">
+
+
+<!ENTITY feeds.label "फिड">
+
+<!ENTITY feedReader.label "फिड रिडर:">
+<!ENTITY feedReader.accesskey "F">
+
+<!ENTITY feedClick.label "मैले वेब फिडमा क्लिक गर्दा:">
+<!ENTITY ask.label "के प्रयोग गर्ने भनेर सोध्नुहोस्">
+<!ENTITY ask.accesskey "A">
+<!ENTITY subLiveBookmark.label "सधैँ लाइभ पुस्तकचिनोमा सदस्य बनाउनुहोस्">
+<!ENTITY subLiveBookmark.accesskey "L">
+<!ENTITY subReader.label "सधैँ फिड रिडर प्रयोग गरेर सदस्य बनाउनुहोस्">
+<!ENTITY subReader.accesskey "R">
+
+
+<!ENTITY fileTypes.label "फाइल प्रकार">
+
+<!ENTITY configureFileTypes.label "&brandShortName; ले निश्चित प्रकारका फाइल कसरी ह्यान्डल गर्ने भनेर कन्फिगर गर्नुहोस्">
+<!ENTITY manage.label "प्रबन्ध गर्नुहोस्...">
+<!ENTITY manage.accesskey "M">

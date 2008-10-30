@@ -1,0 +1,659 @@
+<!ENTITY messengerWindow.title "मेल र समाचारसमूह">
+<!ENTITY titledefault.label "&brandFullName;">
+<!ENTITY titleSeparator.label " - ">
+<!-- File Menu -->
+
+<!ENTITY newFolderCmd.label "फोल्डर...">
+<!ENTITY newFolderCmd.accesskey "F">
+<!ENTITY newTabCmd.label "नयाँ ट्याब">
+<!ENTITY newTabCmd.accesskey "T">
+<!ENTITY closeTabCmd.label "ट्याब बन्द गर्नुहोस्">
+<!ENTITY closeTabCmd.accesskey "e">
+<!ENTITY newVirtualFolderCmd.label "बचत गरिएका खोजी...">
+<!ENTITY newVirtualFolderCmd.accesskey "S">
+<!ENTITY newAccountCmd.label "खाता...">
+<!ENTITY newAccountCmd.accesskey "A">
+<!ENTITY openMessageMenu.label "खोल्नुहोस्">
+<!ENTITY openMessageFileCmd.label "बचत गरिएका सन्देश खोल्नुहोस्...">
+<!ENTITY openMessageFileCmd.accesskey "O">
+<!ENTITY openAttachmentCmd.label "संलग्नता">
+<!ENTITY openAttachmentCmd.accesskey "A">
+<!ENTITY saveAsMenu.label "यस रूपमा बचत गर्नुहोस्">
+<!ENTITY saveAsMenu.accesskey "S">
+<!ENTITY saveAsFileCmd.label "फाइल">
+<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveAsFileCmd.key "s">
+<!ENTITY saveAsTemplateCmd.label "टेम्प्लेट">
+<!ENTITY saveAsTemplateCmd.accesskey "T">
+<!ENTITY getNewMsgCmd.label "नयाँ सन्देश प्राप्त गर्नुहोस्">
+<!ENTITY getNewMsgCmd.accesskey "G">
+<!ENTITY getNewMsgCmd.key "t">
+<!ENTITY getNewMsgForCmd.label "यसका लागि नयाँ सन्देश प्राप्त गर्नुहोस्">
+<!ENTITY getNewMsgForCmd.accesskey "w">
+<!ENTITY getAllNewMsgCmd.label "सबै नयाँ सन्देशहरू प्राप्त गर्नुहोस्">
+<!ENTITY getAllNewMsgCmd.key "t">
+<!ENTITY getNextNMsgCmd.label "Get Next 500 News Messages">
+<!ENTITY getNextNMsgCmd.accesskey "t">
+<!ENTITY sendUnsentCmd.label "नपठाइएका सन्देशहरू पठाउनुहोस्">
+<!ENTITY sendUnsentCmd.accesskey "d">
+<!ENTITY subscribeCmd.label "सदस्यता बन्नुहोस्...">
+<!ENTITY subscribeCmd.accesskey "b">
+<!ENTITY renameFolder.label "फोल्डर पुन: नामकरण गर्नुहोस्...">
+<!ENTITY renameFolder.accesskey "R">
+<!ENTITY renameFolder.key "VK_F2">
+<!ENTITY compactFolders.label "फोल्डर सङ्कुचन गर्नुहोस्">
+<!ENTITY compactFolder.accesskey "F">
+<!ENTITY emptyTrashCmd.label "रद्दीटोकरी खाली गर्नुहोस्">
+<!ENTITY emptyTrashCmd.accesskey "y">
+<!ENTITY importCmd.label "आयात...">
+<!ENTITY importCmd.accesskey "I">
+<!ENTITY offlineMenu.label "अफलाइन">
+<!ENTITY offlineMenu.accesskey "l">
+<!ENTITY offlineGoOfflineCmd.label "अफलाइन कार्य">
+<!ENTITY offlineGoOfflineCmd.accesskey "w">
+<!ENTITY synchronizeOfflineCmd.label "अहिले डाउनलोड/समक्रमण गर्नुहोस्...">
+<!ENTITY synchronizeOfflineCmd.accesskey "S">
+<!ENTITY settingsOfflineCmd.label "अफलाइन सेटिङ...">
+<!ENTITY settingsOfflineCmd.accesskey "e">
+<!ENTITY downloadSelectedCmd.label "चयन गरिएका सन्देश प्राप्त गर्नुहोस्">
+<!ENTITY downloadSelectedCmd.accesskey "l">
+<!ENTITY downloadStarredCmd.label "चम्किएका सन्देश प्राप्त गर्नुहोस्">
+<!ENTITY downloadStarredCmd.accesskey "a">
+<!ENTITY printCmd.label "मुद्रण गर्नुहोस्...">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.key "p">
+<!ENTITY printPreviewCmd.label "पूर्वावलोकन मुद्रण गर्नुहोस्">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printPreviewCmd.key "v">
+<!ENTITY printSetupCmd.label "पृष्ठ सेटअप...">
+<!ENTITY printSetupCmd.accesskey "u">
+<!-- Edit Menu -->
+
+<!ENTITY deleteMsgCmd.label "सन्देश मेट्नुहोस्">
+<!ENTITY deleteMsgCmd.accesskey "D">
+<!ENTITY undeleteMsgCmd.label "सन्देश नमेट्नुहोस्">
+<!ENTITY undeleteMsgCmd.accesskey "d">
+<!ENTITY cancelNewsMsgCmd.label "सन्देश रद्द गर्नुहोस्">
+<!ENTITY cancelNewsMsgCmd.accesskey "M">
+<!ENTITY deleteMsgsCmd.label "चयन गरिएका सन्देश मेट्नुहोस्">
+<!ENTITY deleteMsgsCmd.accesskey "D">
+<!ENTITY undeleteMsgsCmd.label "चयन नगरिएका सन्देश नमेट्नुहोस्">
+<!ENTITY undeleteMsgsCmd.accesskey "d">
+<!ENTITY cancelNewsMsgsCmd.label "चयन गरिएका सन्देशहरू रद्द गर्नुहोस्">
+<!ENTITY cancelNewsMsgsCmd.accesskey "n">
+<!ENTITY deleteFolderCmd.label "फोल्डर मेट्नुहोस्">
+<!ENTITY deleteFolderCmd.accesskey "D">
+<!ENTITY unsubscribeNewsgroupCmd.label "सदस्यता हटाउनुहोस्">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "n">
+<!ENTITY selectMenu.label "चयन गर्नुहोस्">
+<!ENTITY selectMenu.accesskey "S">
+<!ENTITY all.label "सबै">
+<!ENTITY all.accesskey "A">
+<!ENTITY selectThreadCmd.label "थ्रेड">
+<!ENTITY selectThreadCmd.accesskey "T">
+<!ENTITY selectThreadCmd.key "a">
+<!ENTITY menuFavoriteFolder.label "मनपर्ने फोल्डर">
+<!ENTITY menuFavoriteFolder.accesskey "a">
+<!ENTITY folderPropsCmd.label "गुण...">
+<!ENTITY folderPropsFolderCmd.label "फोल्डर गुण...">
+<!ENTITY folderPropsNewsgroupCmd.label "समाचारसमूह गुण...">
+<!ENTITY folderPropsCmd.accesskey "o">
+<!ENTITY accountManagerCmd.label "खाता सेटिङ...">
+<!ENTITY accountManagerCmd.accesskey "c">
+<!ENTITY accountManagerCmdUnix.accesskey "A">
+<!ENTITY undoDeleteMsgCmd.label "मेट्ने सन्देश पूर्वस्थितिमा फर्काउनुहोस्">
+<!ENTITY redoDeleteMsgCmd.label "मेट्ने सन्देश रिडु गर्नुहोस्">
+<!ENTITY undoMoveMsgCmd.label "सार्ने सन्देश पूर्वस्थितिमा फर्काउनुहोस्">
+<!ENTITY redoMoveMsgCmd.label "सार्ने सन्देश रिडु गर्नुहोस्">
+<!ENTITY undoCopyMsgCmd.label "प्रतिलिपि सन्देश पूर्वस्थितिमा फर्काउनुहोस्">
+<!ENTITY redoCopyMsgCmd.label "प्रतिलिपि सन्देश रिडु गर्नुहोस्">
+<!ENTITY undoDefaultCmd.label "पूर्वस्थितिमा फर्काउनुहोस्">
+<!ENTITY undoDefaultCmd.accesskey "U">
+<!ENTITY redoDefaultCmd.label "रिडु गर्नुहोस्">
+<!ENTITY redoDefaultCmd.accesskey "R">
+<!-- View Menu -->
+
+<!ENTITY showMessengerToolbarCmd.label "मेल उपकरणपट्टी">
+<!ENTITY showMessengerToolbarCmd.accesskey "o">
+<!ENTITY customizeToolbar.label "अनुकूलन...">
+<!ENTITY customizeToolbar.accesskey "C">
+
+<!ENTITY messagePaneLayoutStyle.label "सजावट">
+<!ENTITY messagePaneLayoutStyle.accesskey "L">
+<!ENTITY messagePaneClassic.label "शास्त्रिय दृश्य">
+<!ENTITY messagePaneClassic.accesskey "C">
+<!ENTITY messagePaneWide.label "फराकिलो दृश्य">
+<!ENTITY messagePaneWide.accesskey "W">
+<!ENTITY messagePaneVertical.label "ठाडो दृश्य">
+<!ENTITY messagePaneVertical.accesskey "V">
+<!ENTITY threadPaneWide.label "फराकिलो सूची दृश्य">
+<!ENTITY threadPaneWide.accesskey "i">
+<!ENTITY showMessageCmd.label "सन्देश फलक">
+<!ENTITY showMessageCmd.accesskey "M">
+
+<!ENTITY folderView.label "फोल्डर">
+<!ENTITY folderView.accesskey "F">
+<!ENTITY allFolders.label "सबै">
+<!ENTITY allFolders.accesskey "A">
+<!ENTITY unreadFolders.label "नपढ्नुहोस्">
+<!ENTITY unreadFolders.accesskey "U">
+<!ENTITY favoriteFolders.label "मनपर्ने">
+<!ENTITY favoriteFolders.accesskey "F">
+<!ENTITY recentFolders.label "हालको">
+<!ENTITY recentFolders.accesskey "R">
+<!-- Sort Menu -->
+
+<!ENTITY sortMenu.label "यसद्वारा क्रमबद्ध">
+<!ENTITY sortMenu.accesskey "S">
+<!ENTITY sortByDateCmd.label "मिति">
+<!ENTITY sortByDateCmd.accesskey "e">
+<!ENTITY sortByStarCmd.label "स्टार">
+<!ENTITY sortByStarCmd.accesskey "S">
+<!ENTITY sortByAttachmentsCmd.label "संलग्नता">
+<!ENTITY sortByAttachmentsCmd.accesskey "A">
+<!ENTITY sortByPriorityCmd.label "प्राथमिकता">
+<!ENTITY sortByPriorityCmd.accesskey "P">
+<!ENTITY sortBySizeCmd.label "साइज">
+<!ENTITY sortBySizeCmd.accesskey "z">
+<!ENTITY sortByStatusCmd.label "वस्तुस्थिति">
+<!ENTITY sortByStatusCmd.accesskey "u">
+<!ENTITY sortByTagsCmd.label "ट्याग">
+<!ENTITY sortByTagsCmd.accesskey "g">
+<!ENTITY sortByJunkStatusCmd.label "जङ्क वस्तुस्थिति">
+<!ENTITY sortByJunkStatusCmd.accesskey "J">
+<!ENTITY sortBySubjectCmd.label "विषय">
+<!ENTITY sortBySubjectCmd.accesskey "b">
+<!ENTITY sortBySenderCmd.label "प्रेषक">
+<!ENTITY sortBySenderCmd.accesskey "n">
+<!ENTITY sortByRecipientCmd.label "प्रापक">
+<!ENTITY sortByRecipientCmd.accesskey "c">
+<!ENTITY sortByUnreadCmd.label "पढ्नुहोस्">
+<!ENTITY sortByUnreadCmd.accesskey "R">
+<!ENTITY sortByOrderReceivedCmd.label "आदेश प्राप्त भयो">
+<!ENTITY sortByOrderReceivedCmd.accesskey "O">
+<!ENTITY sortAscending.label "बढ्दो क्रम">
+<!ENTITY sortAscending.accesskey "A">
+<!ENTITY sortDescending.label "घट्दो क्रम">
+<!ENTITY sortDescending.accesskey "D">
+<!ENTITY sortThreaded.label "थ्रेड गरिएको">
+<!ENTITY sortThreaded.accesskey "T">
+<!ENTITY sortUnthreaded.label "थ्रेडबाट हटाइएको">
+<!ENTITY sortUnthreaded.accesskey "h">
+<!ENTITY groupBySort.label "क्रमबद्ध अनुसार समूह गरियो">
+<!ENTITY groupBySort.accesskey "G">
+<!ENTITY groupBySortCmd.key "G">
+<!ENTITY msgsMenu.label "सन्देश">
+<!ENTITY msgsMenu.accesskey "M">
+<!ENTITY threads.label "थ्रेड">
+<!ENTITY threads.accesskey "e">
+<!ENTITY allMsgsCmd.label "सबै">
+<!ENTITY allMsgsCmd.accesskey "A">
+<!ENTITY expandOrCollapseMenu.label "विस्तार/संक्षिप्त">
+<!ENTITY expandOrCollapseMenu.accesskey "x">
+<!ENTITY expandAllThreadsCmd.label "सबै थ्रेडहरू विस्तार गर्नुहोस्">
+<!ENTITY expandAllThreadsCmd.accesskey "E">
+<!ENTITY expandAllThreadsCmd.key "*">
+<!ENTITY collapseAllThreadsCmd.label "सबै थ्रेडहरू संक्षिप्त गर्नुहोस्">
+<!ENTITY collapseAllThreadsCmd.accesskey "C">
+<!ENTITY collapseAllThreadsCmd.key "\">
+<!ENTITY unreadMsgsCmd.label "नपढ्नुहोस्">
+<!ENTITY unreadMsgsCmd.accesskey "U">
+<!ENTITY threadsWithUnreadCmd.label "नपढिएका थ्रेडहरू">
+<!ENTITY threadsWithUnreadCmd.accesskey "T">
+<!ENTITY watchedThreadsWithUnreadCmd.label "नपढिएका थ्रेडहरू हेरियो">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
+<!ENTITY ignoredThreadsCmd.label "उपेक्षा गरिएका थ्रेड">
+<!ENTITY ignoredThreadsCmd.accesskey "i">
+<!ENTITY headersMenu.label "हेडर">
+<!ENTITY headersMenu.accesskey "H">
+<!ENTITY headersAllCmd.label "सबै">
+<!ENTITY headersAllCmd.accesskey "A">
+<!ENTITY headersNormalCmd.label "सामान्य">
+<!ENTITY headersNormalCmd.accesskey "N">
+<!ENTITY bodyMenu.label "यस रूपमा सन्देशको मुख्य भाग">
+<!ENTITY bodyMenu.accesskey "B">
+<!ENTITY bodyAllowHTML.label "मौलिक एचटीएमएल">
+<!ENTITY bodyAllowHTML.accesskey "H">
+<!ENTITY bodySanitized.label "साधारण एचटीएमएल">
+<!ENTITY bodySanitized.accesskey "S">
+<!ENTITY bodyAsPlaintext.label "खाली पाठ">
+<!ENTITY bodyAsPlaintext.accesskey "P">
+<!ENTITY viewAttachmentsInlineCmd.label "संलग्नता इनलाइन प्रदर्शन गर्नुहोस्">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "A">
+<!ENTITY reloadCmd.label "रिलोड गर्नुहोस्">
+<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY stopCmd.label "रोक्नुहोस्">
+<!ENTITY stopCmd.accesskey "S">
+<!ENTITY textZoomEnlargeCmd.label "बढाउनुहोस्">
+<!ENTITY textZoomEnlargeCmd.accesskey "I">
+<!ENTITY textZoomEnlargeCmd.commandkey "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY textZoomReduceCmd.label "घटाउनुहोस्">
+<!ENTITY textZoomReduceCmd.accesskey "D">
+<!ENTITY textZoomReduceCmd.commandkey "-">
+<!ENTITY textZoomResetCmd.commandkey "0">
+<!ENTITY textZoomResetCmd.label "सामान्य">
+<!ENTITY textZoomResetCmd.accesskey "N">
+<!ENTITY textSize.label "पाठ साइज">
+<!ENTITY textSize.accesskey "x">
+
+<!ENTITY pageSourceCmd.label "सन्देश स्रोत">
+<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.key "u">
+<!-- Search Menu -->
+
+<!ENTITY searchMenu.label "खोजी गर्नुहोस्">
+<!ENTITY searchMenu.accesskey "S">
+
+<!ENTITY findMenu.label "फेला पार्नुहोस्">
+<!ENTITY findMenu.accesskey "F">
+<!ENTITY findCmd.label "यो सन्देशमा फेला पार्नुहोस्...">
+<!ENTITY findCmd.accesskey "F">
+<!ENTITY findCmd.key "f">
+<!ENTITY findAgainCmd.label "फेरि फेला पार्नुहोस्">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.key "g">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.key "g">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY searchMailCmd.label "सन्देशहरू खोजी गर्नुहोस्...">
+<!ENTITY searchMailCmd.accesskey "M">
+<!ENTITY searchMailCmd.key "f">
+<!ENTITY searchAddressesCmd.label "ठेगानाहरू खोजी गर्नुहोस्...">
+<!ENTITY searchAddressesCmd.accesskey "S">
+<!-- Go Menu -->
+
+<!ENTITY goMenu.label "जानुहोस्">
+<!ENTITY goMenu.accesskey "G">
+<!ENTITY nextMenu.label "पछिल्लो">
+<!ENTITY nextMenu.accesskey "N">
+<!ENTITY nextMsgCmd.label "सन्देश">
+<!ENTITY nextMsgCmd.accesskey "M">
+<!ENTITY nextMsgCmd.key "f">
+<!ENTITY nextUnreadMsgCmd.label "नपढिएका सन्देश">
+<!ENTITY nextUnreadMsgCmd.accesskey "U">
+<!ENTITY nextUnreadMsgCmd.key "n">
+<!ENTITY nextStarredMsgCmd.label "चम्किएका सन्देश">
+<!ENTITY nextStarredMsgCmd.accesskey "S">
+<!ENTITY nextUnreadThread.label "थ्रेड नपढ्नुहोस्">
+<!ENTITY nextUnreadThreadCmd.accesskey "T">
+<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY prevMenu.label "अघिल्लो">
+<!ENTITY prevMenu.accesskey "P">
+<!ENTITY prevMsgCmd.label "सन्देश">
+<!ENTITY prevMsgCmd.accesskey "M">
+<!ENTITY previousMsgCmd.key "b">
+<!ENTITY previousMsgCmd.accesskey "M">
+<!ENTITY prevUnreadMsgCmd.label "नपढिएका सन्देश">
+<!ENTITY prevUnreadMsgCmd.accesskey "U">
+<!ENTITY previousUnreadMsgCmd.key "p">
+<!ENTITY previousUnreadMsgCmd.accesskey "U">
+<!ENTITY goForwardCmd.label "अगाडि">
+<!ENTITY goForwardCmd.accesskey "F">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY goBackCmd.label "पछाडि">
+<!ENTITY goBackCmd.accesskey "B">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY prevStarredMsgCmd.label "चम्किएका सन्देश">
+<!ENTITY prevStarredMsgCmd.accesskey "S">
+<!ENTITY startPageCmd.label "मेल सुरुआत पृष्ठ">
+<!ENTITY startPageCmd.accesskey "S">
+<!ENTITY msgMenu.label "सन्देश">
+<!ENTITY msgMenu.accesskey "M">
+<!ENTITY newMsgCmd.label "नयाँ सन्देश">
+<!ENTITY newMsgCmd.accesskey "N">
+<!ENTITY newNewMsgCmd.label "सन्देश">
+<!ENTITY newNewMsgCmd.accesskey "M">
+<!ENTITY replyMsgCmd.label "जवाफ">
+<!ENTITY replyMsgCmd.accesskey "R">
+<!ENTITY replyMsgCmd.key "r">
+<!ENTITY replySenderCmd.label "प्रेषकलाई मात्र जवाफ">
+<!ENTITY replySenderCmd.accesskey "R">
+<!ENTITY replyNewsgroupCmd.label "समाचारसमूहलाई जवाफ">
+<!ENTITY replyNewsgroupCmd.accesskey "y">
+<!ENTITY replyToAllMsgCmd.label "सबैलाई जवाफ">
+<!ENTITY replyToAllMsgCmd.accesskey "p">
+<!ENTITY replyToAllMsgCmd.key "r">
+<!ENTITY forwardMsgCmd.label "अगाडि">
+<!ENTITY forwardMsgCmd.accesskey "F">
+<!ENTITY forwardMsgCmd.key "I">
+<!ENTITY forwardAsMenu.label "यस रूपमा पठाउनुहोस्">
+<!ENTITY forwardAsMenu.accesskey "w">
+<!ENTITY forwardAsInline.label "इनलाइन">
+<!ENTITY forwardAsInline.accesskey "I">
+<!ENTITY forwardAsAttachmentCmd.label "संलग्नता">
+<!ENTITY forwardAsAttachmentCmd.accesskey "A">
+<!ENTITY editMsgAsNewCmd.label "नयाँ सन्देशको रूपमा सम्पादन गर्नुहोस्">
+<!ENTITY editMsgAsNewCmd.accesskey "E">
+<!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY createFilter.label "सन्देशबाट फिल्टर सिर्जना गर्नुहोस्...">
+<!ENTITY createFilter.accesskey "a">
+<!ENTITY moveMsgMenu.label "सार्नुहोस्">
+<!ENTITY moveMsgMenu.accesskey "M">
+<!ENTITY moveCopyMsgRecentMenu.label "हालको">
+<!ENTITY moveCopyMsgRecentMenu.accesskey "R">
+<!ENTITY copyMessageLocation.label "सन्देश स्थान प्रतिलिपि बनाउनुहोस्">
+<!ENTITY copyMessageLocation.accesskey "M">
+<!ENTITY copyMsgMenu.label "प्रतिलिपि बनाउँनुहोस्">
+<!ENTITY copyMsgMenu.accesskey "C">
+<!ENTITY moveToFolderAgain.label "फेरि सार्नुहोस्">
+<!ENTITY moveToFolderAgain.accesskey "i">
+<!ENTITY moveToFolderAgainCmd.key "m">
+<!ENTITY killThreadMenu.label "थ्रेड उपेक्षा गर्नुहोस्">
+<!ENTITY killThreadMenu.accesskey "I">
+<!ENTITY killThreadMenu.key "k">
+<!ENTITY watchThreadMenu.label "थ्रेड हेर्नुहोस्">
+<!ENTITY watchThreadMenu.accesskey "W">
+<!ENTITY watchThreadMenu.key "w">
+<!ENTITY fileHereMenu.label "यहाँ फाइल गर्नुहोस्">
+<!ENTITY fileHereMenu.accesskey "F">
+<!ENTITY copyHereMenu.label "यहाँ प्रतिलिपि बनाउनुहोस्">
+<!ENTITY copyHereMenu.accesskey "C">
+<!ENTITY tagMenu.label "ट्याग">
+<!ENTITY tagMenu.accesskey "g">
+<!ENTITY tagCmd0.key "0">
+<!ENTITY tagCmd1.key "1">
+<!ENTITY tagCmd2.key "2">
+<!ENTITY tagCmd3.key "3">
+<!ENTITY tagCmd4.key "4">
+<!ENTITY tagCmd5.key "5">
+<!ENTITY tagCmd6.key "6">
+<!ENTITY tagCmd7.key "7">
+<!ENTITY tagCmd8.key "8">
+<!ENTITY tagCmd9.key "9">
+<!ENTITY markMenu.label "चिनो लगाउनुहोस्">
+<!ENTITY markMenu.accesskey "k">
+<!ENTITY markAsReadCmd.label "पढेको रूपमा">
+<!ENTITY markAsReadCmd.accesskey "R">
+<!ENTITY markAsReadCmd.key "m">
+<!ENTITY markAsUnreadCmd.label "नपढेको रूपमा">
+<!ENTITY markAsUnreadCmd.accesskey "U">
+<!ENTITY markThreadAsReadCmd.label "पढेको थ्रेड">
+<!ENTITY markThreadAsReadCmd.accesskey "T">
+<!ENTITY markThreadAsReadCmd.key "r">
+<!ENTITY markReadByDateCmd.label "मिति अनुसार पढेको...">
+<!ENTITY markReadByDateCmd.accesskey "D">
+<!ENTITY markReadByDateCmd.key "c">
+<!ENTITY markAllReadCmd.label "सबै पढ्नुहोस्">
+<!ENTITY markAllReadCmd.accesskey "A">
+<!ENTITY markAllReadCmd.key "c">
+<!ENTITY markStarredCmd.label "स्टार थप्नुहोस्">
+<!ENTITY markStarredCmd.accesskey "S">
+<!ENTITY markStarredCmd.key "S">
+<!ENTITY markAsJunkCmd.label "जङ्कको रूपमा">
+<!ENTITY markAsJunkCmd.accesskey "J">
+<!ENTITY markAsJunkCmd.key "j">
+<!ENTITY markAsNotJunkCmd.label "जङ्क नभएको रूपमा">
+<!ENTITY markAsNotJunkCmd.accesskey "N">
+<!ENTITY markAsNotJunkCmd.key "j">
+<!ENTITY recalculateJunkScoreCmd.label "जङ्क मेल नियन्त्रण चलाउनुहोस्">
+<!ENTITY recalculateJunkScoreCmd.accesskey "C">
+<!ENTITY openMessageWindowCmd.label "सन्देश खोल्नुहोस्">
+<!ENTITY openMessageWindowCmd.accesskey "O">
+<!ENTITY openMessageWindowCmd.key "o">
+<!-- Windows Menu -->
+
+<!ENTITY windowMenu.label "सञ्झ्याल">
+<!ENTITY windowMenu.accesskey "W">
+<!-- Tools Menu -->
+
+<!ENTITY tasksMenu.label "उपकरण">
+<!ENTITY tasksMenu.accesskey "T">
+<!ENTITY addons.label "एड-अन्स">
+<!ENTITY addons.accesskey "d">
+<!ENTITY messengerCmd.label "मेल र समाचारसमूह">
+<!ENTITY messengerCmd.accesskey "m">
+<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY addressBookCmd.label "ठेगाना पुस्तिका">
+<!ENTITY addressBookCmd.accesskey "a">
+<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY junkMailCmd.label "जङ्क मेल नियन्त्रण...">
+<!ENTITY junkMailCmd.accesskey "J">
+<!ENTITY runJunkControls.label "फोल्डरमा जङ्क मेल नियन्त्रण चलाउनुहोस्">
+<!ENTITY runJunkControls.accesskey "u">
+<!ENTITY deleteJunk.label "फोल्डरमा जङ्कको रूपमा चिनो लगाइएको मेल मेट्नुहोस्">
+<!ENTITY deleteJunk.accesskey "l">
+<!ENTITY errorConsoleCmd.label "त्रुटि कन्सोल">
+<!ENTITY errorConsoleCmd.accesskey "n">
+<!ENTITY filtersCmd.label "सन्देश फिल्टर...">
+<!ENTITY filtersCmd.accesskey "F">
+<!ENTITY filtersApply.label "फोल्डरमा फिल्टर चलाउनुहोस्">
+<!ENTITY filtersApply.accesskey "R">
+<!-- Help Menu -->
+
+<!ENTITY helpMenu.label "मद्दत">
+<!ENTITY helpMenu.accesskey "H">
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label "मद्दत">
+<!ENTITY helpMenuWin.accesskey "H">
+<!ENTITY releaseCmd.label "द्रष्टब्य प्रकाशन गर्नुहोस्">
+<!ENTITY releaseCmd.accesskey "R">
+<!ENTITY hintsAndTips.label "&brandFullName; मद्दत">
+<!ENTITY hintsAndTipsMac.commandkey "?">
+<!ENTITY hintsAndTips.accesskey "h">
+<!ENTITY updateCmd.accesskey "o">
+<!ENTITY updateCmd.label "अद्यावधिकका लागि जाँच गर्नुहोस् ...">
+<!ENTITY aboutCmd.label "&brandFullName; बारेमा">
+<!ENTITY aboutCmd.accesskey "A">
+<!-- Mail Toolbar -->
+
+<!ENTITY getMsgButton.label "मेल प्राप्त गर्नुहोस्">
+<!ENTITY newMsgButton.label "लेख्नुहोस्">
+<!ENTITY replyButton.label "जवाफ">
+<!ENTITY replyAllButton.label "सबैलाई जवाफ">
+<!ENTITY forwardButton.label "अगाडि">
+<!ENTITY fileButton.label "फाइल">
+<!ENTITY nextButton.label "पछिल्लो">
+<!ENTITY previousButton.label "अघिल्लो">
+<!ENTITY backButton1.label "पछाडि">
+<!ENTITY goForwardButton1.label "अगाडि">
+<!ENTITY deleteButton.label "मेट्नुहोस्">
+<!ENTITY markButton.label "चिनो">
+<!ENTITY printButton.label "मुद्रण गर्नुहोस्">
+<!ENTITY stopButton.label "रोक्नुहोस्">
+<!ENTITY throbberItem.title "क्रियाकलाप सूचक">
+<!ENTITY updatesItem.title "अद्यावधिक">
+<!ENTITY junkButton.label "जङ्क">
+<!ENTITY notJunkButton.label "जङ्क होइन">
+<!ENTITY addressBookButton.label "ठेगाना पुस्तिका">
+<!ENTITY searchItem.title "द्रुत खोजी">
+<!ENTITY mailViewsToolbarItem.title "मेल दृश्य">
+<!ENTITY folderLocationToolbarItem.title "फोल्डर स्थान">
+<!ENTITY tagButton.label "ट्याग">
+<!-- Mail Toolbar Tooltips-->
+
+<!ENTITY advancedButton.tooltip "उन्नत सन्देश खोजी">
+<!ENTITY clearButton.tooltip "खोजी मापदण्ड खाली गर्नुहोस् र सबै सन्देश देखाउनुहोस्">
+<!ENTITY getMsgButton.tooltip "नयाँ सन्देश प्राप्त गर्नुहोस्">
+<!ENTITY newMsgButton.tooltip "नयाँ सन्देश सिर्जना गर्नुहोस्">
+<!ENTITY replyButton.tooltip "सन्देशलाई जवाफ">
+<!ENTITY replyAllButton.tooltip "प्रेषक र सबै प्रापकलाई जवाफ पठाउनुहोस्">
+<!ENTITY forwardButton.tooltip "चयन गरिएका सन्देश पठाउनुहोस्">
+<!ENTITY fileButton.tooltip "फाइलले सन्देश चयन गर्यो">
+<!ENTITY nextButton.tooltip "पछिल्लो नपढेका सन्देशमा सार्नुहोस्">
+<!ENTITY previousButton.tooltip "अघिल्लो नपढेका सन्देशमा सार्नुहोस्">
+<!ENTITY goForwardButton.tooltip "एक सन्देश अगाडि जानुहोस्">
+<!ENTITY goBackButton.tooltip "एक सन्देश पछाडि जानुहोस्">
+<!ENTITY deleteButton.tooltip "चयन गरिएका सन्देश वा फोल्डर मेट्नुहोस्">
+<!ENTITY markButton.tooltip "सन्देशलाई चिनो लगाउनुहोस्">
+<!ENTITY printButton.tooltip "यो सन्देश मुद्रण गर्नुहोस्">
+<!ENTITY stopButton.tooltip "हालको स्थानान्तरण रोक्नुहोस्">
+<!ENTITY junkButton.tooltip "चयन गरिएका सन्देश जङ्कका रूपमा चिनो लगाउनुहोस्">
+<!ENTITY notJunkButton.tooltip "चयन गरिएका सन्देशलाई जङ्क नभएको रूपमा चिनो लगाउनुहोस्">
+<!ENTITY addressBookButton.tooltip "ठेगाना पुस्तिकामा जानुहोस्">
+<!ENTITY tagButton.tooltip "ट्याग सन्देश">
+<!-- Tags Menu Popup -->
+
+<!ENTITY addNewTag.label "नयाँ ट्याग...">
+<!ENTITY addNewTag.accesskey "N">
+<!-- Folder Pane -->
+
+<!ENTITY folderColumn.label "नाम">
+<!ENTITY folderSizeColumn.label "साइज">
+<!-- Folder Pane Context Menu -->
+
+<!ENTITY folderContextOpenNewWindow.label "खोल्नुहोस्">
+<!ENTITY folderContextOpenNewWindow.accesskey "O">
+<!ENTITY folderContextOpenNewTab.label "नयाँ ट्याबमा खोल्नुहोस्">
+<!ENTITY folderContextOpenNewTab.accesskey "T">
+<!ENTITY folderContextNew.label "नयाँ उपफोल्डर...">
+<!ENTITY folderContextNew.accesskey "N">
+<!ENTITY folderContextRename.label "पुन: नामकरण गर्नुहोस्">
+<!ENTITY folderContextRename.accesskey "R">
+<!ENTITY folderContextRemove.label "मेट्नुहोस्">
+<!ENTITY folderContextRemove.accesskey "D">
+<!ENTITY folderContextCompact.label "सङ्कुचन गर्नुहोस्">
+<!ENTITY folderContextCompact.accesskey "C">
+<!ENTITY folderContextEmptyTrash.label "रद्दीटोकरी खाली गर्नुहोस्">
+<!ENTITY folderContextEmptyTrash.accesskey "y">
+<!ENTITY folderContextSendUnsentMessages.label "नपठाइएका सन्देशहरू पठाउनुहोस्">
+<!ENTITY folderContextSendUnsentMessages.accesskey "d">
+<!ENTITY folderContextUnsubscribe.label "सदस्यता हटाउनुहोस्">
+<!ENTITY folderContextUnsubscribe.accesskey "U">
+<!ENTITY folderContextMarkNewsgroupRead.label "पढिएका समाचारसमूहलाई चिनो लगाउनुहोस्">
+<!ENTITY folderContextMarkNewsgroupRead.accesskey "k">
+<!ENTITY folderContextMarkMailFolderRead.label "पढिएका फोल्डरलाई चिनो लगाउनुहोस्">
+<!ENTITY folderContextMarkMailFolderRead.accesskey "k">
+<!ENTITY folderContextSubscribe.label "सदस्यता बन्नुहोस्...">
+<!ENTITY folderContextSubscribe.accesskey "b">
+<!ENTITY folderContextSearchMessages.label "खोजी गर्नुहोस्...">
+<!ENTITY folderContextSearchMessages.accesskey "S">
+<!ENTITY folderContextProperties.label "गुण...">
+<!ENTITY folderContextProperties.accesskey "P">
+<!ENTITY folderContextCopyLocation.label "फोल्डर स्थान प्रतिलिपि बनाउनुहोस्">
+<!ENTITY folderContextCopyLocation.accesskey "L">
+<!ENTITY folderContextFavoriteFolder.label "मनपर्ने फोल्डर">
+<!ENTITY folderContextFavoriteFolder.accesskey "a">
+<!-- Search Bar -->
+
+<!ENTITY SearchNameOrEmail.label "नाम वा इमेल समाविष्ट गर्छ:">
+<!ENTITY SearchNameOrEmail.accesskey "N">
+<!ENTITY clearButton.label "खाली गर्नुहोस्">
+<!ENTITY clearButton.accesskey "C">
+<!-- Quick Search Menu Bar -->
+
+<!ENTITY searchSubjectMenu.label "विषय">
+<!ENTITY searchSenderMenu.label "प्रेषक">
+<!ENTITY searchSubjectOrSenderMenu.label "विषय वा प्रेषक">
+<!ENTITY searchRecipient.label "लाई वा बोधार्थ प्रतिलिपि">
+<!ENTITY searchMessageBody.label "पूरै सन्देश">
+<!ENTITY saveAsVirtualFolderMenu.label "फोल्डरको रूपमा खोजी बचत गर्नुहोस्...">
+<!-- Thread Pane -->
+
+<!ENTITY threadColumn.label "थ्रेड">
+<!ENTITY senderColumn.label "प्रेषक">
+<!ENTITY recipientColumn.label "प्रापक">
+<!ENTITY subjectColumn.label "विषय">
+<!ENTITY dateColumn.label "मिति">
+<!ENTITY priorityColumn.label "प्राथमिकता">
+<!ENTITY tagsColumn.label "ट्याग">
+<!ENTITY accountColumn.label "खाता">
+<!ENTITY statusColumn.label "वस्तुस्थिति">
+<!ENTITY sizeColumn.label "साइज">
+<!ENTITY junkStatusColumn.label "जङ्क वस्तुस्थिति">
+<!ENTITY linesColumn.label "रेखा">
+<!ENTITY unreadColumn.label "नपढ्नुहोस्">
+<!ENTITY totalColumn.label "जम्मा">
+<!ENTITY readColumn.label "पढ्नुहोस्">
+<!ENTITY starredColumn.label "चम्किएको">
+<!ENTITY locationColumn.label "स्थान">
+<!ENTITY idColumn.label "आदेश प्राप्त भयो">
+<!ENTITY attachmentColumn.label "संलग्नता">
+<!-- Thread Pane Tooltips -->
+
+<!ENTITY columnChooser.tooltip "प्रदर्शन गर्न स्तम्भ चयन गर्न क्लिक गर्नहोस्">
+<!ENTITY threadColumn.tooltip "सन्देश थ्रेड प्रदर्शन गर्न क्लिक गर्नुहोस्">
+<!ENTITY senderColumn.tooltip "प्रेषक अनुसार क्रमबद्ध गर्न क्लिक गर्नुहोस्">
+<!ENTITY recipientColumn.tooltip "प्रापक अनुसार क्रमबद्ध गर्न क्लिक गर्नुहोस्">
+<!ENTITY subjectColumn.tooltip "विषय अनुसार क्रमबद्ध गर्न क्लिक गर्नुहोस्">
+<!ENTITY dateColumn.tooltip "मिति अनुसार क्रमबद्ध गर्न क्लिक गर्नुहोस्">
+<!ENTITY priorityColumn.tooltip "प्राथमिकता अनुसार क्रमबद्ध गर्न क्लिक गर्नुहोस्">
+<!ENTITY tagsColumn.tooltip "ट्याग अनुसार क्रमबद्ध गर्न क्लिक गर्नुहोस्">
+<!ENTITY accountColumn.tooltip "खाता अनुसार क्रमबद्ध गर्न क्लिक गर्नुहोस्">
+<!ENTITY statusColumn.tooltip "वस्तुस्थिति अनुसार क्रमबद्ध गर्न क्लिक गर्नुहोस्">
+<!ENTITY sizeColumn.tooltip "साइज अनुसार क्रमबद्ध गर्न क्लिक गर्नुहोस्">
+<!ENTITY junkStatusColumn.tooltip "जङ्क वस्तुस्थिति अनुसार क्रमबद्ध गर्न क्लिक गर्नुहोस्">
+<!ENTITY unreadColumn.tooltip "थ्रेडमा नपढिएका सन्देशहरूको सङ्ख्या">
+<!ENTITY totalColumn.tooltip "थ्रेडमा सन्देशहरूको सङ्ख्या">
+<!ENTITY readColumn.tooltip "पढेको अनुसार क्रमबद्ध गर्न क्लिक गर्नुहोस्">
+<!ENTITY starredColumn.tooltip "स्टार अनुसार क्रमबद्ध गर्न क्लिक गर्नुहोस्">
+<!ENTITY locationColumn.tooltip "स्थान अनुसार क्रमबद्ध गर्न क्लिक गर्नुहोस्">
+<!ENTITY idColumn.tooltip "प्राप्त भएको आदेश अनुसार क्रमबद्ध गर्न क्लिक गर्नुहोस्">
+<!ENTITY attachmentColumn.tooltip "संलग्नता अनुसार क्रमबद्ध गर्न क्लिक गर्नुहोस्">
+<!-- Thread Pane Context Menu -->
+
+<!ENTITY contextOpenNewWindow.label "नयाँ सञ्झ्यालमा सन्देश खोल्नुहोस्">
+<!ENTITY contextOpenNewWindow.accesskey "W">
+<!ENTITY contextOpenNewTab.label "नयाँ ट्याबमा सन्देश खोल्नुहोस्">
+<!ENTITY contextOpenNewTab.accesskey "T">
+<!ENTITY contextEditAsNew.label "नयाँको रूपमा सम्पादन गर्नुहोस्...">
+<!ENTITY contextEditAsNew.accesskey "E">
+<!ENTITY contextReplySender.label "प्रेषकलाई मात्र जवाफ">
+<!ENTITY contextReplySender.accesskey "R">
+<!ENTITY contextReplyNewsgroup.label "समाचारसमूहलाई जवाफ">
+<!ENTITY contextReplyNewsgroup.accesskey "y">
+<!ENTITY contextReplyAll.label "सबैलाई जवाफ पठाउनुहोस्">
+<!ENTITY contextReplyAll.accesskey "A">
+<!ENTITY contextForward.label "अगाडि">
+<!ENTITY contextForward.accesskey "F">
+<!ENTITY contextForwardAsAttachment.label "संलग्नताको रूपमा पठाउनुहोस्">
+<!ENTITY contextForwardAsAttachment.accesskey "o">
+<!ENTITY contextMoveMsgMenu.label "यसमा सार्नुहोस्">
+<!ENTITY contextMoveMsgMenu.accesskey "M">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "हालको">
+<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
+<!ENTITY contextCopyMsgMenu.label "यसमा प्रतिलिपि बनाउनुहोस्">
+<!ENTITY contextCopyMsgMenu.accesskey "C">
+<!ENTITY contextSaveAs.label "यस रूपमा बचत गर्नुहोस्...">
+<!ENTITY contextSaveAs.accesskey "S">
+<!ENTITY contextPrint.label "मुद्रण गर्नुहोस्...">
+<!ENTITY contextPrint.accesskey "P">
+<!ENTITY contextPrintPreview.label "पूर्वावलोकन मुद्रण गर्नुहोस्">
+<!ENTITY contextPrintPreview.accesskey "v">
+<!ENTITY contextDelete.label "मेट्नुहोस्">
+<!ENTITY contextDelete.accesskey "D">
+<!ENTITY contextAddSenderToAddressBook.label "ठेगाना पुस्तिकामा प्रेषक थप्नुहोस्">
+<!ENTITY contextAddSenderToAddressBook.accesskey "B">
+<!ENTITY contextAddAllToAddressBook.label "ठेगाना पुस्तिकामा सबै थप्नुहोस्">
+<!ENTITY contextAddAllToAddressBook.accesskey "A">
+<!-- Junk Bar -->
+
+<!ENTITY junkBarMessage.label "&brandShortName; ले यो सन्देश जङ्क हो भन्ने सोच्दछ ।">
+<!ENTITY junkBarButton.label "यो जङ्क होइन">
+<!ENTITY junkInfoButton.label "?">
+<!-- Remote Content Bar -->
+
+<!ENTITY remoteContentMessage.label "तपाईँको गोपनीयता सुरक्षित गर्न, &brandShortName; ले यो सन्देशमा टाढाको छविहरूलाई ताल्चा लगाएको छ ।">
+<!ENTITY loadRemoteContentButton1.label "छविहरू लोड गर्नुहोस्">
+<!-- Phshing bar Bar -->
+
+<!ENTITY phishingBarMessage.label "&brandShortName; ले यो सन्देश एउटा इमेल स्क्याम हो भन्ने सोच्न सक्छ ।">
+<!ENTITY removePhishingBarButton.label "स्क्याम होइन">
+<!-- Search Bar -->
+
+<!ENTITY quickSearchCmd.key "k">
+<!-- Message Header Context Menu -->
+
+<!ENTITY AddToAddressBook.label "ठेगाना पुस्तिकामा थप्नुहोस्...">
+<!ENTITY AddToAddressBook.accesskey "B">
+<!ENTITY SendMailTo.label "यसलाई मेल बनाउनुहोस्">
+<!ENTITY SendMailTo.accesskey "s">
+<!ENTITY CopyEmailAddress.label "इमेल ठेगाना प्रतिलिपि बनाउनुहोस्">
+<!ENTITY CopyEmailAddress.accesskey "C">
+<!ENTITY CreateFilter.label "सन्देशबाट फिल्टर सिर्जना गर्नुहोस्...">
+<!ENTITY CreateFilter.accesskey "F">
+<!ENTITY BlockAddress.label "ठेगाना रोक्नुहोस्">
+<!ENTITY BlockAddress.accesskey "A">
+<!ENTITY reportPhishingURL.label "इमेल स्क्याम प्रतिवेदन गर्नुहोस्">
+<!ENTITY reportPhishingURL.accesskey "o">
+<!-- Statusbar -->
+
+<!ENTITY statusText.label "काम भयो">
+<!--  Mac OS X Window Menu -->
+
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "सानो पार्नुहोस्">
+<!ENTITY bringAllToFront.label "सबैलाई अगाडि ल्याउनुहोस्">
+<!ENTITY zoomWindow.label "जुम गर्नुहोस्">

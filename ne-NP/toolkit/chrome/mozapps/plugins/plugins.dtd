@@ -1,0 +1,22 @@
+<!ENTITY pluginWizard.title "प्लगइन फेला पार्ने सेवा">
+<!ENTITY pluginWizard.firstPage.title "&pluginWizard.title; मा स्वागत छ">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; ले उपलब्ध प्लगइनहरूका लागि अहिले जाँच गरिरहेको छ...">
+
+<!ENTITY pluginWizard.availablePluginsPage.title "उपलब्ध प्लगइन डाउनलोड">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "निम्न प्लगइनहरू उपलब्ध छन्:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "यी प्लगइनहरू स्थापना गर्न पछिल्लो बटन थिच्नुहोस् ।">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI "स्थापनाको बेला केही प्लगइनहरूले तपाईँबाट थप सूचनाको आवश्यक पर्न सक्छ ।">
+
+<!ENTITY pluginWizard.licensePage.title "प्लगइन इजाजतपत्र">
+<!ENTITY pluginWizard.licensePage.accept.label "म सहमत छु ।">
+<!ENTITY pluginWizard.licensePage.deny.label "म सहमत छैन (प्लगइन स्थापना गरिने छैन) ।">
+
+<!ENTITY pluginWizard.installPluginsPage.title "प्लगइन स्थापना गर्दै">
+<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName; ले प्लगइन स्थापना गर्दैछ...">
+
+<!ENTITY pluginWizard.finalPage.description.label "&brandShortName; ले हराएको प्लगइनहरू स्थापना गर्न समाप्त गर्यो:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label "प्लगइनहरूको बारेमा अरू धेरै फेला पार्नुहोस् वा म्यानुअल तरीकाले हराएको प्लगइन फेला पार्नुहोस् ।">
+<!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; लाई काम गर्नका लागि पुन: सुरुआत गर्न आवश्यक छ ।">
+

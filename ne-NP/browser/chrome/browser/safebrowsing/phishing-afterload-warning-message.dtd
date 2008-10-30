@@ -1,0 +1,27 @@
+<!ENTITY safeb.palm.warning.title "शङ्कास्पद वेब नक्कल">
+
+<!ENTITY safeb.palm.message.p1 "यो पृष्ठले तार्किक प्रयोगकर्ताका लागि व्यक्तिगत वा वित्तिय सूचना बाँडफाँट गर्न डिजाइन गरिएको वेब नक्कल प्रतिवेदन गरेको छ । यो व्यक्तिगत सूचना पृष्ठमा प्रवेश गर्दा चोरी वा अन्य झुटा कार्यको पहिचान हुनसक्छ । &#160;">
+<!ENTITY safeb.palm.message.p1.linkText "अरू पढ्नुहोस् &#187;">
+<!ENTITY safeb.palm.p1.linkStatusText "अरू पढ्नुहोस् &#133;">
+
+<!ENTITY safeb.palm.message.p2.start "यस्ता प्रकारका वेब नक्कललाई फिसिङ आक्रमणका रुपमा चिनिने स्क्याममा प्रयोग गरिन्छ, जसमा स्रोत नक्कल गर्न तपाईँले विश्वास गर्न सक्ने झुटा वेब पृष्ठ र इमेल स्रोत प्रयोग गरिन्छ । तपाईँले यसका बारेमा धेरै कुरा फेला पार्न सक्नुहुन्छ ">
+<!ENTITY safeb.palm.message.p2.linkText "कसरी &brandShortName; तपाईँलाई सुरक्षा गर्दछ">
+<!ENTITY safeb.palm.message.p2.end " फिसिङ आक्रमणबाट ।">
+
+<!ENTITY safeb.palm.accept.label "मलाई यहाँबाट बाहिर लैजानुहोस्!">
+<!ENTITY safeb.palm.accept.statustext "मेरो गृहपृष्ठमा नेभिगेट गर्नुहोस्">
+<!ENTITY safeb.palm.decline.label "यो चेतावनी उपेक्षा गर्नुहोस्">
+<!ENTITY safeb.palm.decline.statustext "चेतावनी बन्द गर्नुहोस्">
+<!ENTITY safeb.palm.notforgery.label "यो वेब नक्कल होइन">
+
+<!ENTITY safeb.palm.addbutton.label "कालो सूचीमा थप्नुहोस्">
+<!ENTITY safeb.palm.addbutton.tooltip "कालो सूचीमा थप्नुहोस्">
+
+<!ENTITY safeb.palm.toolmenu.label "सुरक्षित ब्राउजिङ">
+<!ENTITY safeb.palm.toolmenu.pref.label "प्राथमिकता...">
+<!ENTITY safeb.palm.toolmenu.reportphishing.label "फिसिङ प्रतिवेदन गर्नुहोस्...">
+<!ENTITY safeb.palm.toolmenu.showphishingtestpage.label "परीक्षण पृष्ठ खोल्नुहोस्">
+
+<!ENTITY safeb.palm.provider.logo.tooltip "सुरक्षा ब्राउजिङबाट चेतावनी दिनुहोस्">
+
+<!ENTITY safeb.urlbaricon.tooltip "यो पृष्ठ जोखिमयुक्त हुनसक्छ; विस्तृत विवरणका लागि क्लिक गर्नुहोस् ।">

@@ -1,0 +1,39 @@
+<!ENTITY brandMotto "वेब फेरी खोज्नुहोस्">
+<!ENTITY credit.leads "इन्जिनियरिङ अगुवा">
+<!ENTITY credit.core "अन्तरनिहित विकास समूह">
+<!ENTITY credit.gecko "गेक्को सजावट इन्जिन">
+<!ENTITY credit.thanks "विशेष धन्यवाद">
+
+<!ENTITY credit.thanks2 "सबैलाई धन्यवाद">
+<!ENTITY credit.prethanks "धन्यवाद
+">
+<!ENTITY credit.friends "साथी">
+<!ENTITY credit.and "र">
+<!ENTITY credit.contributors "योगदानकर्ताहरूलाई">
+<!ENTITY credit.postthanks "धन्यवाद
+">
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+
+<!ENTITY credit.translation "अनुवाद
+">
+
+<!ENTITY credit.visuals "दृश्यात्मक डिजाइन संयोजक">
+<!ENTITY credit.theme "विषयवस्तु डिजाइन">
+<!ENTITY credit.brand "ब्रान्ड पहिचान">
+<!ENTITY credit.web "वेब डिजाइन">
+<!ENTITY credit.update "मोजिला अद्यावधिक गर्नुहोस्">
+<!ENTITY credit.qalead "गुणस्तर विश्वास नेतृत्व">
+<!ENTITY credit.qa "गुणस्तर विश्वास">
+<!ENTITY credit.build "निर्माण तथा प्रकाशन">
+<!ENTITY credit.infra "पूर्वाधार समर्थन">
+<!ENTITY credit.support "समर्थन संसाधन">
+<!ENTITY credit.manage "परियोजना प्रबन्ध">
+<!ENTITY credit.marketleads "बजार नेतृत्व">
+<!ENTITY credit.market "बजार">
+<!ENTITY credit.creators "सर्जक">
+<!ENTITY credit.memory "स्मृतिमा">
+<!ENTITY credit.poweredByGecko "निर्माण तथा सञ्चालन Gecko&trade;">

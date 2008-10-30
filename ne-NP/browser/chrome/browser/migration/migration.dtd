@@ -1,0 +1,51 @@
+
+<!ENTITY migrationWizard.title "आयात विजार्ड">
+
+<!ENTITY importFrom.label "यसबाट विकल्प, पुस्तकचिनो, इतिहास, पासवर्ड र अन्य डेटा आयात गर्नुहोस्:">
+<!ENTITY importFromUnix.label "यसबाट प्राथमिकता, पुस्तकचिनो, इतिहास, पासवर्ड र अन्य डेटा आयात गर्नुहोस्:">
+<!ENTITY importFromBookmarks.label "यसबाट पुस्तकचिनो आयात गर्नुहोस्:">
+
+<!ENTITY importFromIE.label "माइक्रोसफ्ट इन्टरनेट अन्वेषक">
+<!ENTITY importFromIE.accesskey "M">
+<!ENTITY importFromPhoenix.label "फायरफक्स 0.8, फायरवर्ड वा फेनिक्स">
+<!ENTITY importFromPhoenix.accesskey "P">
+<!ENTITY importFromNothing.label "कुनै पनि वस्तु आयात नगर्नुहोस्">
+<!ENTITY importFromNothing.accesskey "D">
+<!ENTITY importFromSeamonkey.label "नेटस्केप 6, 7 वा मोजिला 1.x">
+<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromNetscape4.label "नेटस्केप 4.x">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromOpera.label "ओपेरा">
+<!ENTITY importFromOpera.accesskey "O">
+<!ENTITY importFromCamino.label "क्यामिनो">
+<!ENTITY importFromCamino.accesskey "C">
+<!ENTITY importFromSafari.label "सफारी">
+<!ENTITY importFromSafari.accesskey "S">
+<!ENTITY importFromOmniWeb.label "ओम्नि वेब">
+<!ENTITY importFromOmniWeb.accesskey "W">
+<!ENTITY importFromICab.label "आइक्याब">
+<!ENTITY importFromICab.accesskey "i">
+<!ENTITY importFromKonqueror.label "कन्क्वेरर">
+<!ENTITY importFromKonqueror.accesskey "K">
+<!ENTITY importFromEpiphany.label "इपिफ्यानी">
+<!ENTITY importFromEpiphany.accesskey "E">
+<!ENTITY importFromGaleon.label "ग्यालिअन">
+<!ENTITY importFromGaleon.accesskey "G">
+<!ENTITY importFromFile.label "यसबाट फाइल">
+<!ENTITY importFromFile.accesskey "F">
+
+<!ENTITY noMigrationSources.label "पुस्तकचिनो, इतिहास वा पासवर्ड डेटा समाविष्ट नभएको कार्यक्रम फेला पार्न सकिने छैन ।">
+
+<!ENTITY importSource.title "सेटिङ र डेटा आयात गर्नुहोस्">
+<!ENTITY importItems.title "आयात गर्नुपर्ने वस्तु">
+<!ENTITY importItems.label "कुन वस्तु आयात गर्ने चयन गर्नुहोस्:">
+
+<!ENTITY migrating.title "आयात गर्दैछ...">
+<!ENTITY migrating.label "निम्न वस्तु हाल आयात गरिराखेको छ...">
+
+<!ENTITY selectProfile.title "प्रोफाइल चयन गर्नुहोस्">
+<!ENTITY selectProfile.label "यसबाट आयात गर्न निम्न प्रोफाइल उपलब्ध छन्:">
+
+<!ENTITY done.title "आयात समाप्त">
+<!ENTITY done.label "निम्न वस्तु सफलतापूर्वक आयात गरियो:">
+

@@ -1,0 +1,5 @@
+<!ENTITY windowClose.key "w">
+<!ENTITY preferencesDefaultTitleMac.title "प्राथमिकता">
+<!ENTITY preferencesDefaultTitleWin.title "विकल्प">
+<!ENTITY preferencesCloseButton.label "बन्द गर्नुहोस्">
+<!ENTITY preferencesCloseButton.accesskey "C">

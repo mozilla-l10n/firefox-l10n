@@ -1,0 +1,46 @@
+<!ENTITY window.width "400">
+<!ENTITY window.height "300">
+
+<!ENTITY done.label "पूरा भयो">
+<!ENTITY canceled.label "रद्द गरियो">
+<!ENTITY installing.label "स्थापना गर्दैछ...">
+
+<!ENTITY starting.label "सुरु हुँदैछ...">
+<!ENTITY failed.label "असफल भयो">
+
+<!ENTITY downloads.title "डाउनलोड">
+
+<!ENTITY cmd.pause.label "पज गर्नुहोस्">
+<!ENTITY cmd.pause.accesskey "P">
+<!ENTITY cmd.resume.label "पुन: निरन्तरता दिनुहोस्">
+<!ENTITY cmd.resume.accesskey "R">
+<!ENTITY cmd.cancel.label "रद्द गर्नुहोस्">
+<!ENTITY cmd.cancel.accesskey "C">
+<!ENTITY cmd.show.label "फोल्डर समाविष्ट भएको खोल्नुहोस्">
+<!ENTITY cmd.show.labelMac "फेला पार्नेमा देखाउनुहोस्">
+<!ENTITY cmd.show.accesskey "F">
+<!ENTITY cmd.show.accesskeyMac "F">
+<!ENTITY cmd.open.label "खोल्नुहोस्">
+<!ENTITY cmd.open.accesskey "O">
+<!ENTITY cmd.openWith.label "यससँग खोल्नुहोस्...">
+<!ENTITY cmd.openWith.accesskey "h">
+<!ENTITY cmd.retry.label "पुन: प्रयास गर्नुहोस्">
+<!ENTITY cmd.retry.accesskey "R">
+<!ENTITY cmd.remove.label "हटाउनुहोस्">
+<!ENTITY cmd.remove.accesskey "e">
+<!ENTITY cmd.properties.label "गुण">
+<!ENTITY cmd.properties.accesskey "i">
+<!ENTITY cmd.info.commandKey "i">
+
+<!ENTITY cmd.close.commandKey "w">
+<!ENTITY cmd.close2.commandKey "j">
+<!ENTITY cmd.close2Unix.commandKey "y">
+<!ENTITY cmd.cleanUp.label "खाली गर्नुहोस्">
+<!ENTITY cmd.cleanUp.tooltip "सूचीबाट पूरा भएको, रद्द गरिएको र असफल डाउनलोड हटाउँदछ">
+<!ENTITY cmd.cleanUp.accesskey "C">
+
+<!ENTITY closeWhenDone.label "डाउनलोड पूरा हुँदा बन्द गर्नुहोस्">
+<!ENTITY closeWhenDone.tooltip "सबै फाइलहरू डाउनलोड हुँदा डाउनलोडको सञ्झ्याल बन्द गर्दछ">
+
+<!ENTITY filesSavedTo.label "यसमा सबै फाइल डाउनलोड गरियो:">
+<!ENTITY showFolder.label "यो फोल्डर देखाउनुहोस्">

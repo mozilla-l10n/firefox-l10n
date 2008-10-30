@@ -1,0 +1,20 @@
+<!ENTITY sanitizeDialog.title "निजी डेटा खाली गर्नुहोस्">
+
+<!ENTITY clearDataSettings.label "मैले &brandShortName; लाई मेरो निजी डेटा खाली गर्न सोध्दा, यसलाई मेट्नुपर्दछ:">
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+
+<!ENTITY itemHistory.label "ब्राउजिङ इतिहास">
+<!ENTITY itemHistory.accesskey "B">
+<!ENTITY itemFormData.label "सूचना बचत स्वरुप">
+<!ENTITY itemFormData.accesskey "F">
+<!ENTITY itemPasswords.label "बचत पासवर्ड">
+<!ENTITY itemPasswords.accesskey "P">
+<!ENTITY itemCookies.label "कुकी">
+<!ENTITY itemCookies.accesskey "C">
+<!ENTITY itemCache.label "क्यास">
+<!ENTITY itemCache.accesskey "a">
+<!ENTITY itemDownloads.label "डाउनलोड इतिहास">
+<!ENTITY itemDownloads.accesskey "D">
+<!ENTITY itemSessions.label "प्रमाणीकृत सत्र">
+<!ENTITY itemSessions.accesskey "S">

@@ -1,0 +1,17 @@
+<!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
+<!ENTITY sendWindow.title "सन्देश पठाउदैँछ">
+<!ENTITY titlePrefixSave "सन्देश बचत गर्दैछ -">
+<!ENTITY titlePrefixSend "सन्देश पठाउदैँछ -">
+<!ENTITY status "वस्तुस्थिति:">
+<!ENTITY progress "प्रगति:">
+<!-- LOCALIZATION NOTE (percentMsg):
+
+    This string is used to format the text to the right of the progress
+    meter.
+
+    #1 will be replaced by the percentage of the file that has been saved -->
+
+<!ENTITY percentMsg "#1&#037;">
+
+<!ENTITY messageSent "तपाईँको सन्देश पठाइएकोछ">
+<!ENTITY messageSaved "तपाईँको सन्देश बचत गरिएकोछ">

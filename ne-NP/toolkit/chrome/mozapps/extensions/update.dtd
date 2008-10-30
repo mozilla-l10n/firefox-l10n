@@ -1,0 +1,49 @@
+<!ENTITY updateWizard.title "&brandShortName; अद्यावधिक गर्नुहोस्">
+
+<!ENTITY offline.title "&brandShortName; ले अफलाइन कार्य गरिरहेको छ">
+<!ENTITY offline.description "अद्यावधिकहरू यो संस्करणसँग मिल्दोजुल्दो बनाउन तपाईँका एड-अन्सका लागि उपलब्ध छ वा छैन भन्ने हेर्न &brandShortName; लाई अनलाइन जान आवश्यक छ ।">
+<!ENTITY offline.toggleOffline.label "अहिले अनलाइन जानुहोस् ।">
+<!ENTITY offline.toggleOffline.accesskey "G">
+
+<!ENTITY mismatch.win.title "अमिल्दो एड-अन्स">
+<!ENTITY mismatch.top.label "निम्न एड-अन्स &brandShortName; को संस्करणसँग मिल्दोजुल्दो छैन र अक्षम भएको छ:">
+<!ENTITY mismatch.bottom.label "यदि त्यहाँ यो उपलब्ध एड-अन्सको मिल्दोजुल्दो संस्करणहरू छन् &brandShortName; ले जाँच गर्न सक्छ ।">
+
+<!ENTITY checking.wizard.title "मिल्दो एड-अन्सका लागि जाँच गर्दै">
+<!ENTITY checking.top.label "अद्यावधिकहरूका लागि तपाईँको नमिल्दो एड-अन्स जाँच गर्दै...">
+<!ENTITY checking.status "यसले केही मिनेट लिन सक्छ...">
+
+<!ENTITY found.wizard.title "मिल्दो एड-अन्स फेला पर्यो">
+<!ENTITY found.top.label "तपाईँले स्थापना गर्न चाहनुभएको एड-अन्सहरू चयन गर्नुहोस्:">
+<!ENTITY found.disabledXPinstall.label "यी अद्यावधिकहरू स्थापना गर्न सकिँदैन किनभने सफ्टवेयर स्थापना हाल अक्षम गरिएको छ । तपाईँ तल सेटिङ परिवर्तन गर्न सक्नुहुन्छ ।">
+<!ENTITY found.enableXPInstall.label "सफ्टवेयर स्थापना गर्न वेब साइटहरूलाई अनुमति दिनुहोस्">
+<!ENTITY found.enableXPInstall.accesskey "A">
+
+<!ENTITY installing.wizard.title "मिल्दो एड-अन्स स्थापना गर्दै">
+<!ENTITY installing.top.label "तपाईँको एड-अन्समा अद्यावधिकहरू डाउनलोड र स्थापना गर्दैछ...">
+
+<!ENTITY noupdates.wizard.title "कुनै मिल्दो एड-अन्स फेला परेन">
+<!ENTITY noupdates.intro.desc "&brandShortName; ले तपाईँको नमिल्दो एड-अन्सहरूमा अद्यावधिकहरू फेला पार्न असक्षम भयो ।">
+<!ENTITY noupdates.error.desc "अद्यावधिकहरू फेला पार्ने प्रयास गर्दा केही समस्याहरू देखापर्यो ।">
+<!ENTITY noupdates.checkEnabled.desc "यिनीहरूका लागि मिल्दो अद्यावधिकहरू फेला पर्दा &brandShortName; ले आवधिक रूपमा जाँच गर्नेछ र तपाईँलाई जानकारी दिनेछ ।">
+
+<!ENTITY finished.wizard.title "मिल्दो एड-अन्स स्थापना भयो">
+<!ENTITY finished.top.label "&brandShortName; ले तपाईँको एड-अन्समा अद्यावधिकहरू स्थापना गर्यो ।">
+<!ENTITY finished.checkDisabled.desc "एड-अन्सका लागि अद्यावधिकहरू फेला पर्दा &brandShortName; ले आवधिक रूपमा जाँच गर्नेछ र तपाईँलाई जानकारी दिनेछ ।">
+<!ENTITY finished.checkEnabled.desc "एड-अन्सका लागि अद्यावधिकहरू फेला पर्दा &brandShortName; ले आवधिक रूपमा जाँच गर्नेछ र तपाईँलाई जानकारी दिनेछ ।">
+
+<!ENTITY adminDisabled.wizard.title "अद्यावधिकहरूका लागि जाँच गर्न असक्षम">
+<!ENTITY adminDisabled.warning.label "अमिल्दो एड-अन्सहरूमा अद्यावधिकका लागि जाँच गर्न सम्भव छैन किनभने &brandShortName; का लागि सफ्टवेयर स्थापना अक्षम गरिएको छ । कृपया सहयोगका लागि तपाईँको प्रणाली प्रशासकलाई सम्पर्क गर्नुहोस् ।">
+
+<!ENTITY versioninfo.wizard.title "एड-अन्सका मिल्दोपना जाँच गर्दै">
+<!ENTITY versioninfo.top.label "&brandShortName; को यो संस्करणसँग मिल्दोपनाका लागि तपाईँको एड-अन्स जाँच गर्दै ।">
+<!ENTITY versioninfo.waiting "यसले केही मिनेट लिन सक्छ...">
+
+<!ENTITY installerrors.wizard.title "अद्यावधिकहरू स्थापना गर्दा समस्या">
+<!ENTITY installerrors.intro.label "केही एड-अन्सहरू अद्यावधिक गर्दा &brandShortName; ले केही समस्याहरू देखायो ।">
+<!-- general strings used by several of the finish pages -->
+
+<!ENTITY clickFinish.label "&brandShortName; सुरुआत जारी राख्न समाप्त गर्नुहोस् बटन क्लिक गर्नुहोस् ।">
+<!ENTITY enableChecking.label "अद्यावधिकहरूका लागि जाँच गर्न &brandShortName; लाई अनुमति दिनुहोस् ।">
+<!ENTITY details.label "विवरण...">
+<!ENTITY details.accesskey "D">

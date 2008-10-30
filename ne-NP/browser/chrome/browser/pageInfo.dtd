@@ -1,0 +1,120 @@
+<!--
+# ***** BEGIN LICENSE BLOCK *****
+# Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#
+# The contents of this file are subject to the Mozilla Public License Version
+# 1.1 (the "License"); you may not use this file except in compliance with
+# the License. You may obtain a copy of the License at
+# http://www.mozilla.org/MPL/
+#
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# for the specific language governing rights and limitations under the
+# License.
+#
+# The Original Code is Mozilla Communicator client code.
+#
+# The Initial Developer of the Original Code is Daniel Brooks.
+# Portions created by the Initial Developer are Copyright (C) 2001
+# the Initial Developer. All Rights Reserved.
+#
+# Contributor(s): Daniel Brooks <db48x@yahoo.com>
+#
+# Alternatively, the contents of this file may be used under the terms of
+# either the GNU General Public License Version 2 or later (the "GPL"), or
+# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# in which case the provisions of the GPL or the LGPL are applicable instead
+# of those above. If you wish to allow use of your version of this file only
+# under the terms of either the GPL or the LGPL, and not to allow others to
+# use your version of this file under the terms of the MPL, indicate your
+# decision by deleting the provisions above and replace them with the notice
+# and other provisions required by the LGPL or the GPL. If you do not delete
+# the provisions above, a recipient may use your version of this file under
+# the terms of any one of the MPL, the GPL or the LGPL.
+#
+# ***** END LICENSE BLOCK *****
+-->
+
+<!ENTITY preface "जानकारीका लागि: ">
+
+<!ENTITY title "पृष्ठ सूचना">
+<!ENTITY description "हालको पृष्ठ बारेको सूचना">
+<!ENTITY pageInfoWindow.width "425">
+<!ENTITY pageInfoWindow.height "470">
+
+<!ENTITY copy.key "C">
+<!ENTITY copy.label "प्रतिलिपि गर्नुहोस्">
+<!ENTITY copy.accesskey "C">
+<!ENTITY selectall.key "A">
+<!ENTITY selectall.label "सबै चयन गर्नुहोस्">
+<!ENTITY selectall.accesskey "A">
+<!ENTITY closeWindow.key "w">
+
+<!ENTITY generalTab "साधारण">
+<!ENTITY generalAccesskey "G">
+<!ENTITY generalTitle "शीर्षक:">
+<!ENTITY generalURL "ठेगाना:">
+<!ENTITY generalMode "रेन्डर मोड:">
+<!ENTITY generalType "प्रकार:">
+<!ENTITY generalSize "साइज:">
+<!ENTITY generalReferrer "सन्दर्भ URL:">
+<!ENTITY generalSource "क्यास स्रोत:">
+<!ENTITY generalSent "पठाइएको:">
+<!ENTITY generalModified "परिमार्जित:">
+<!ENTITY generalExpires "म्याद समाप्ति:">
+<!ENTITY generalEncoding "सङ्केतन:">
+<!ENTITY generalMeta "मेटा:">
+<!ENTITY generalMetaName "नाम">
+<!ENTITY generalMetaContent "सामाग्री">
+
+<!ENTITY formsTab "फारम">
+<!ENTITY formsAccesskey "F">
+<!ENTITY formAction "फारम कार्य">
+<!ENTITY formMethod "विधि">
+<!ENTITY formName "नाम">
+<!ENTITY formNo "No.">
+<!ENTITY formEncoding "सङ्केतन:">
+<!ENTITY formTarget "लक्ष्य:">
+<!ENTITY formFields "फिल्ड:">
+<!ENTITY formLabel "लेबुल">
+<!ENTITY formFName "फिल्ड नाम">
+<!ENTITY formType "प्रकार">
+<!ENTITY formCValue "हालको मान">
+
+<!ENTITY linksTab "लिङ्क">
+<!ENTITY linksAccesskey "L">
+<!ENTITY linkNo "No.">
+<!ENTITY linkName "नाम">
+<!ENTITY linkAddress "ठेगाना">
+<!ENTITY linkType "प्रकार">
+<!ENTITY linkTarget "लक्ष्य">
+<!ENTITY linkAccessKey "पहुँच कुञ्जी">
+
+<!ENTITY mediaTab "मिडिया">
+<!ENTITY mediaAccesskey "M">
+<!ENTITY mediaHeader "यस पृष्ठका छवि">
+<!ENTITY mediaURL "ठेगाना:">
+<!ENTITY mediaBase "आधार ठेगाना:">
+<!ENTITY mediaAlt "विकल्प पाठ:">
+<!ENTITY mediaAltHeader "विकल्प पाठ">
+<!ENTITY mediaNo "No.">
+<!ENTITY mediaName "नाम">
+<!ENTITY mediaAddress "ठेगाना">
+<!ENTITY mediaType "प्रकार">
+<!ENTITY mediaCount "गणना">
+<!ENTITY mediaPlugin "प्लगइन:">
+<!ENTITY mediaCharset "सङ्केतन:">
+<!ENTITY mediaDimensions "निर्दिष्ट आयाम:">
+<!ENTITY mediaPhysDimensions "वास्तविक आयाम:">
+<!ENTITY mediaEncryption "गुप्तिकरण:">
+<!ENTITY mediaTitle "शीर्षक:">
+<!ENTITY mediaLongdesc "लामो वर्णन:">
+<!ENTITY mediaSaveAs "यस रुपमा बचत गर्नुहोस्...">
+<!ENTITY mediaSaveAs.accesskey "S">
+<!ENTITY mediaPreview "मिडिया पूर्वावलोकन:">
+
+<!ENTITY framesTab "फ्रेम">
+<!ENTITY framesTab.accesskey "r">
+<!ENTITY frameName "नाम">
+<!ENTITY frameAddress "ठेगाना">
+<!ENTITY frameType "प्रकार">

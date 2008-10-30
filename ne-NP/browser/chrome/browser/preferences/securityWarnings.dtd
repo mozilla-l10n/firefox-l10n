@@ -1,0 +1,13 @@
+<!ENTITY securityWarnings.title "सुरक्षा चेतावनी">
+
+<!ENTITY security.warn_when "कुन समयमा चेतावनी सन्देश देखाउने:">
+<!ENTITY security.warn_entering_secure.label "गुप्तिकृत पृष्ठ हेर्दा">
+<!ENTITY security.warn_entering_secure.accesskey "v">
+<!ENTITY security.warn_entering_weak.label "न्यून स्तरको गुप्तिकरण प्रयोग गर्ने पृष्ठ हेर्न लाग्दा">
+<!ENTITY security.warn_entering_weak.accesskey "g">
+<!ENTITY security.warn_leaving_secure.label "मैले गुप्तिकरण नगरिएको पृष्ठका लागि गुप्तिकृत पृष्ठ छोड्दा">
+<!ENTITY security.warn_leaving_secure.accesskey "l">
+<!ENTITY security.warn_submit_insecure.label "मैले गुप्तिकरण नगरिएको सूचना पेश गर्दा">
+<!ENTITY security.warn_submit_insecure.accesskey "s">
+<!ENTITY security.warn_viewing_mixed.label "मैले केहि गुप्तिकरण नगरिएका सूचना समाविष्ट गुप्तिकृत पृष्ठ हेर्न लाग्दा ">
+<!ENTITY security.warn_viewing_mixed.accesskey "u">

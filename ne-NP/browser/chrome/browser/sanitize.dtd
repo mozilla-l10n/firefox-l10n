@@ -1,0 +1,20 @@
+<!ENTITY sanitizeDialog.title "निजी डेटा खाली गर्नुहोस्">
+
+<!ENTITY sanitizeItems.label "निम्न वस्तु अहिले खाली गर्नुहोस्:">
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+
+<!ENTITY itemHistory.label "ब्राउज इतिहास">
+<!ENTITY itemHistory.accesskey "B">
+<!ENTITY itemFormSearchHistory.label "बचत रुप र खोजी इतिहास">
+<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemPasswords.label "बचत पासवर्ड">
+<!ENTITY itemPasswords.accesskey "P">
+<!ENTITY itemCookies.label "कुकी">
+<!ENTITY itemCookies.accesskey "C">
+<!ENTITY itemCache.label "क्यास">
+<!ENTITY itemCache.accesskey "a">
+<!ENTITY itemDownloads.label "डाउनलोड इतिहास">
+<!ENTITY itemDownloads.accesskey "D">
+<!ENTITY itemSessions.label "प्रमाणित सत्र">
+<!ENTITY itemSessions.accesskey "S">

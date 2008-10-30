@@ -1,0 +1,60 @@
+<!-- extracted from content/viewSource.xul -->
+<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
+
+<!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierseparator " - ">
+<!ENTITY mainWindow.preface "स्रोत:">
+
+<!ENTITY fileMenu.label "फाइल">
+<!ENTITY fileMenu.accesskey "F">
+<!ENTITY savePageCmd.label "यस रूपमा पृष्ठ बचत गर्नुहोस्...">
+<!ENTITY savePageCmd.accesskey "A">
+<!ENTITY savePageCmd.commandkey "S">
+<!ENTITY pageSetupCmd.label "पृष्ठ सेटअप...">
+<!ENTITY pageSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "मुद्रण पूर्ववलोकन">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "मुद्रण गर्नुहोस्...">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.commandkey "P">
+<!ENTITY closeCmd.label "बन्द गर्नुहोस्">
+<!ENTITY closeCmd.accesskey "C">
+<!ENTITY closeCmd.commandkey "W">
+
+<!ENTITY textEnlarge.commandkey "+">
+<!ENTITY textEnlarge.commandkey2 "=">
+<!ENTITY textReduce.commandkey "-">
+<!ENTITY textReset.commandkey "0">
+
+<!ENTITY goToLineCmd.label "रेखामा जानुहोस्...">
+<!ENTITY goToLineCmd.accesskey "G">
+<!ENTITY goToLineCmd.commandkey "l">
+
+<!ENTITY viewMenu.label "हेर्नुहोस्">
+<!ENTITY viewMenu.accesskey "V">
+<!ENTITY reloadCmd.label "रिलोड गर्नुहोस्">
+<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY menu_wrapLongLines.title "लामो रेखा बेर्नुहोस्">
+<!ENTITY menu_wrapLongLines.accesskey "W">
+<!ENTITY menu_highlightSyntax.label "वाक्य संरचना हाइलाइटिङ">
+<!ENTITY menu_highlightSyntax.accesskey "H">
+<!ENTITY menu_textSize.label "पाठ साइज">
+<!ENTITY menu_textSize.accesskey "Z">
+<!ENTITY menu_textEnlarge.label "बढाउनुहोस्">
+<!ENTITY menu_textEnlarge.accesskey "I">
+<!ENTITY menu_textReduce.label "घटाउनुहोस्">
+<!ENTITY menu_textReduce.accesskey "D">
+<!ENTITY menu_textReset.label "सामान्य">
+<!ENTITY menu_textReset.accesskey "N">
+
+<!ENTITY findOnCmd.label "यो पृष्ठमा फेला पार्नुहोस्...">
+<!ENTITY findOnCmd.accesskey "F">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label "फेरि फेला पार्नुहोस्">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">

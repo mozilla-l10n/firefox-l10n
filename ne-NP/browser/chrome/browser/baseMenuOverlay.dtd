@@ -1,0 +1,49 @@
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "सानो बनाउनुहोस्">
+<!ENTITY bringAllToFront.label "सबैलाई अगाडि ल्याउनुहोस्">
+<!ENTITY zoomWindow.label "जुम">
+<!ENTITY windowMenu.label "सञ्झ्याल">
+
+<!ENTITY helpMenu.label "मद्दत">
+<!ENTITY helpMenu.accesskey "H">
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label "मद्दत">
+<!ENTITY helpMenuWin.accesskey "H">
+<!ENTITY aboutCmd.label "&brandFullName; बारेमा">
+<!ENTITY aboutCmd.accesskey "A">
+<!ENTITY helpContents.label "मद्दत सामाग्री">
+<!ENTITY helpContents.accesskey "H">
+<!ENTITY helpContentsMac.label "&brandShortName; मद्दत">
+<!ENTITY helpForIEUsers.label "इन्टरनेट एक्सप्लोरर प्रयोगकर्ताका लागि">
+<!ENTITY helpForIEUsers.accesskey "I">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelpMac.commandkey "VK_HELP">
+<!-- LOCALIZATION NOTE openHelpMac2.commandkey and openHelpMac2.modifiers
+                       are all the necessary keys to hit OS X's open-help 
+                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
+<!ENTITY openHelpMac2.commandkey "/">
+<!ENTITY openHelpMac2.modifiers "accel,shift">
+<!ENTITY openHelpMac2.frontendCommandkey "?">
+<!ENTITY openHelpMac2.frontendModifiers "एसेल">
+
+<!ENTITY helpReleaseNotes.label "विमोचन पाठ">
+<!ENTITY helpReleaseNotes.accesskey "N">
+<!ENTITY updateCmd.label "अद्यावधिकका लागि जाँच गर्नुहोस्...">
+<!ENTITY updateCmd.accesskey "o">
+
+<!ENTITY preferencesCmdMac.label "प्राथमिकता...">
+<!ENTITY preferencesCmdMac.commandkey ",">
+<!ENTITY preferencesCmdMac.modifiers "एसेल">
+
+<!ENTITY servicesMenuMac.label "सेवा">
+
+<!ENTITY hideThisAppCmdMac.label "brandShortName लुकाउनुहोस्;">
+<!ENTITY hideThisAppCmdMac.commandkey "H">
+<!ENTITY hideThisAppCmdMac.modifiers "एसेल">
+
+<!ENTITY hideOtherAppsCmdMac.label "अन्यलाई लुकाउनुहोस्">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
+
+<!ENTITY showAllAppsCmdMac.label "सबैलाई देखाउनुहोस्">

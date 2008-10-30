@@ -1,0 +1,6 @@
+<!ENTITY aboutDialog.title "&brandFullName; बारेमा">
+<!ENTITY copyright "श्रेय">
+<!ENTITY aboutLink "&lt; &brandFullName;बारेमा">
+<!ENTITY aboutVersion "संस्करण">
+<!ENTITY copyrightText "&#169;1998-2007 सहयोगीकर्ता । सर्वाधिकार सुरक्षण । फायरफक्स र फायरफक्सका कार्य मोजिला प्रतिष्ठानका ब्यापारिक चिन्ह हुन् ।  सर्वाधिकार सुरक्षण । केही ब्यापारिक चिन्ह अधिकार चार्ल्टन कम्पनीबाट प्राप्त इजाजत पत्र अन्तर्गत प्रयोग गरिन्छ ।">
+<!ENTITY cmdClose.macKey "W">

@@ -1,0 +1,59 @@
+<!ENTITY itemGeneral.label "साधारण">
+<!ENTITY itemJunk.label "जङ्क">
+<!ENTITY itemPhishing.label "इमेल स्काम">
+<!ENTITY itemPasswords.label "पासवर्ड">
+<!ENTITY itemAntiVirus.label "एन्टि-भाइरस">
+
+<!ENTITY disableImageInMailNews.label "मेल सन्देशमा टाढाका छविको लोडिङ रोक्नुहोस्">
+<!ENTITY disableImageInMailNews.accesskey "B">
+<!ENTITY allowRemoteImagesForFriends.label "यदि प्रेषक मेरोमा छ भने टाढाको छविलाई अनुमति दिनुहोस्:">
+<!ENTITY allowRemoteImagesForFriends.accesskey "A">
+<!ENTITY enbJsCheckMailNews.label "मेल सन्देशमा जाभास्क्रिप्ट रोक्नुहोस्">
+<!ENTITY enbJsCheckMailNews.accesskey "J">
+<!-- Junk Mail Controls -->
+
+<!ENTITY junkMail.intro "तपाईँको पूर्वनिर्धारित जङ्क मेल सेटिङ सेट गर्नुहोस् । खाता निर्दिष्ट जङ्क मेल सेटिङ खाता सेटिङमा कन्फिगर गर्न सकिन्छ ।">
+<!ENTITY manualMark.label "मैले सन्देशलाई जङ्कका रूपमा चिनो लगाउदा:">
+<!ENTITY manualMarkModeMove.label "तिनीहरूलाई खाताको &quot;Junk&quot; फोल्डरमा सार्नुहोस्">
+<!ENTITY markAsReadOnSpam.label "जङ्क निर्धारण गरिने सन्देशलाई पढेको रूपमा चिनो लगाउनुहोस्">
+<!ENTITY markAsReadOnSpam.acesskey "k">
+<!ENTITY manualMarkModeDelete.label "तिनलाई मेट्नुहोस्">
+<!ENTITY enableJunkLogging.label "जङ्क फिल्टर लगिङ सक्षम पार्नुहोस्">
+<!ENTITY enableJunkLogging.accesskey "g">
+<!ENTITY openJunkLog.label "लग देखाउनुहोस्">
+<!ENTITY openJunkLog.accesskey "h">
+<!ENTITY resetTrainingData.label "परीक्षण डेटा रिसेट गर्नुहोस्">
+<!ENTITY resetTrainingData.accesskey "D">
+<!-- Phishing Detector -->
+
+<!ENTITY phishingDetector1.intro "&brandShortName; ले तपाईँलाई झुक्याउन प्रयोग गर्ने सामान्य तरिका हेरेर सङ्कास्पद इमेल स्कामका लागि सन्देश विश्लेषण गर्न सक्छ ।">
+<!ENTITY enablePhishingDetector1.label "मैले पढिरहेको सन्देश सङ्कास्पद इमेल स्काम भएमा मलाई बताउनुहोस्">
+<!ENTITY enablePhishingDetector1.accesskey "e">
+<!ENTITY useDownloadedList.label "सङ्कास्पर इमेल स्कामको डाउनलोड गरिएको सूची प्रयोग गर्नुहोस्">
+<!ENTITY useDownloadedList.accesskey "U">
+<!-- Passwords -->
+
+<!ENTITY savedPasswords.intro "&brandShortName; ले तपाईँका सबै खाताका लागि पासवर्ड सूचना याद गर्न सक्छ त्यसैले तपाईँले आफ्नो लगइन विवरण फेरि प्रविष्ट गर्नु आवश्यक पर्दैन ।">
+<!ENTITY encryptEnabled.label "भण्डारण गरिएका पासवर्ड गुप्तिकरण गर्न मास्टर पासवर्ड प्रयोग गर्नुहोस्">
+<!ENTITY encryptEnabled.accesskey "s">
+<!ENTITY masterPassword.intro "सेट गरेमा, मास्टर पासवर्डले तपाईँका सबै पासवर्डको सुरक्षा गर्दछ - तर तपाईँले यसलाई प्रत्येक सत्रमा एक पटक प्रविष्ट गर्नु पर्दछ ।">
+<!ENTITY setMasterPassword.label "मास्टर पासवर्ड">
+<!ENTITY setMasterPassword.accesskey "M">
+<!ENTITY removeMasterPassword.label "मास्टर पासवर्ड हटाउनुहोस्...">
+<!ENTITY removeMasterPassword.accesskey "R">
+<!ENTITY editPasswords.label "बचत गरिएका पासवर्ड सम्पादन गर्नुहोस्">
+<!ENTITY editPasswords.accesskey "i">
+<!-- Anti Virus -->
+
+<!ENTITY antiVirus.intro "&brandShortName; ले एन्टि-भाइरस सफ्टवेयरलाई आगमन मेल सन्देश स्थानीय रूपमा भण्डारण हुनुभन्दा पहिला तिनीहरूको भाइरस विश्लेषणका लागि सजिलो बनाउछ ।">
+<!ENTITY antiVirus.label "एन्टि-भाइरस क्लाइन्टलाई व्यक्तिगत आगमन सन्देश अलग्गै राख्न अनुमति दिनुहोस्">
+<!ENTITY antiVirus.accesskey "l">
+<!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
+
+<!ENTITY antiVirusCaption.label "एन्टि-भाइरस">
+<!ENTITY paswords.label "पासवर्ड">
+<!ENTITY emailScams.label "इमेल स्काम">
+<!ENTITY junkMail.label "जङ्क मेल">
+<!ENTITY itemIntrusions.label "अतिक्रम">
+<!ENTITY itemIntrusionsAndPasswords.label "अतिक्रम &amp; पासवर्ड">
+<!ENTITY itemJunkMail.label "जङ्क मेल">

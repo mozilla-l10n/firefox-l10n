@@ -1,0 +1,9 @@
+<!ENTITY caption.label "निषेधित पपअप">
+
+<!ENTITY intro.label "निम्न पृष्ठ अनुरोध नगरिएका पपअप सञ्झ्याल प्रदर्शनबाट निषेध गरिएका थिय:">
+
+<!ENTITY done.label "पूरा भयो">
+<!ENTITY done.accesskey "D">
+
+<!ENTITY unblock.label "साइट निषेधबाट हटाउनुहोस्">
+<!ENTITY unblock.accesskey "U">

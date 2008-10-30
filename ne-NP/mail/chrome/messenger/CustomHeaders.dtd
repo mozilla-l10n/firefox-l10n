@@ -1,0 +1,7 @@
+<!ENTITY window.title "हेडर अनुकूलन गर्नुहोस्">
+<!ENTITY addButton.label "थप्नुहोस्">
+<!ENTITY addButton.accesskey "A">
+<!ENTITY removeButton.label "हटाउनुहोस्">
+<!ENTITY removeButton.accesskey "R">
+<!ENTITY newMsgHeader.label "नयाँ सन्देश हेडर:">
+<!ENTITY newMsgHeader.accesskey "N">

@@ -1,0 +1,27 @@
+<!ENTITY newBookmark.title "पुस्तकचिनो थप्नुहोस्">
+<!ENTITY newbookmark.label "&brandShortName; यस पृष्ठमा पुस्तकचिनो थप्दछ ।">
+<!ENTITY name.label "नाम:">
+<!ENTITY name.accesskey "N">
+<!ENTITY keyword.label "शब्दकुञ्जी:">
+<!ENTITY keyword.accesskey "K">
+<!ENTITY microsummary.label "लाइभ शीर्षक">
+<!ENTITY url.label "स्थान:">
+<!ENTITY url.accesskey "L">
+<!ENTITY button.createin.label "&gt;&gt; यसमा सिर्जना गर्नुहोस्">
+<!ENTITY button.createin.accesskey "C">
+<!ENTITY button.createin2.label "&lt;&lt; यसमा सिर्जना गर्नुहोस्">
+<!ENTITY createin.label "यसमा सिर्जना गर्नुहोस्:">
+<!ENTITY createin.accesskey "C">
+<!ENTITY moveto.label "यसमा सार्नुहोस्:">
+<!ENTITY moveto.accesskey "M">
+<!ENTITY button.newfolder.label "नयाँ फोल्डर...">
+<!ENTITY button.newfolder.accesskey "o">
+<!ENTITY alwayscreateinfolder.label "यो संवाद फेरी नदेखाउनुहोस्">
+<!ENTITY alwayscreateinfolder.accesskey "a">
+<!ENTITY dontshowmessage.tooltip "यो विकल्प चयन गर्दा, पृष्ठद्वारा उपलब्ध शीर्षक प्रयोग गरेर नयाँ पुस्तकचिनो थपिन्छ ।">
+<!ENTITY selectFolder.label "फोल्डर रोज्नुहोस्">
+
+<!ENTITY expanderDown.tooltip "सबै पुस्तकचिनो फोल्डर देखाउनुहोस्">
+<!ENTITY expanderUp.tooltip "लुकाउनुहोस्">
+<!ENTITY acceptButton.label "थप्नुहोस्">
+<!ENTITY bookmarksToolbar.label "पुस्तकचिनो उपकरणपट्टी">

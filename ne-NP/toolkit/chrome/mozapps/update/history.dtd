@@ -1,0 +1,15 @@
+
+<!ENTITY history.title "इतिहास अद्यावधिक गर्नुहोस्">
+<!ENTITY history.intro "निम्न अद्यावधिकहरू स्थापना गरियो:">
+<!ENTITY closebutton.label "बन्द गर्नुहोस्">
+                                     
+<!ENTITY detailsButton.label "विवरण">
+<!ENTITY detailsButton.accesskey "D">
+
+<!ENTITY noupdates.label "अहिले सम्म कुनै अद्यावधिकहरू स्थापना गरिएको छैन">
+
+<!ENTITY name.header "नाम अद्यावधिक गर्नुहोस्">
+<!ENTITY date.header "मिति स्थापना गर्नुहोस्">
+<!ENTITY type.header "प्रकार">
+<!ENTITY state.header "अवस्था">
+

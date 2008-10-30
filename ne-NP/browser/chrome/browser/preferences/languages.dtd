@@ -1,0 +1,16 @@
+<!ENTITY window.width "30em">
+
+<!ENTITY languages.customize.Header "भाषा">
+<!ENTITY languages.customize.label "भाषा">
+<!ENTITY languages.customize.prefLangDescript "वेब पृष्ठ कहिलेकाहीँ एक भन्दा धेरै भाषामा प्रस्ताव गरिन्छ । प्राथमिकताको क्रममा, यी वेब पृष्ठ प्रदर्शन गर्नका लागि भाषा रोज्नुहोस् ।">
+<!ENTITY languages.customize.active.label "प्राथमिकताको क्रममा भाषा:">
+<!ENTITY languages.customize.moveUp.label "माथि सार्नुहोस्">
+<!ENTITY languages.customize.moveUp.accesskey "U">
+<!ENTITY languages.customize.moveDown.label "तल सार्नुहोस्">
+<!ENTITY languages.customize.moveDown.accesskey "D">
+<!ENTITY languages.customize.deleteButton.label "हटाउनुहोस्">
+<!ENTITY languages.customize.deleteButton.accesskey "R">
+<!ENTITY languages.customize.selectLanguage.label "थपिने भाषा चयन गर्नुहोस्">
+<!ENTITY languages.customize.addButton.label "थप्नुहोस्">
+<!ENTITY languages.customize.addButton.accesskey "A">
+

@@ -1,0 +1,11 @@
+<!-- extracted from content/openLocation.xul -->
+
+<!ENTITY enter.label "वेब स्थान (URL) प्रविष्ट गर्नुहोस्, वा तपाईँले खोल्न चाहने स्थानीय फाइल निर्दिष्ट गर्नुहोस्:">
+<!ENTITY chooseFile.label "फाइल रोज्नुहोस्...">
+<!ENTITY newWindow.label "नयाँ सञ्झ्याल">
+<!ENTITY newTab.label "नयाँ ट्याब">
+<!ENTITY topWindow.label "हालको सञ्झ्याल">
+<!ENTITY caption.label "वेब स्थान खोल्नुहोस्">
+<!ENTITY openWhere.label "यसमा खोल्नुहोस्:">
+<!ENTITY example.label "उदाहरण: &vendorURL;">
+<!ENTITY openBtn.label "खोल्नुहोस्">

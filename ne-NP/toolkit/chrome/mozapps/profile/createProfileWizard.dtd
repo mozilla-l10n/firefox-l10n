@@ -1,0 +1,20 @@
+<!ENTITY newprofile.title "प्रोफाइल विजार्ड सिर्जना गर्नुहोस्">
+<!ENTITY window.size "width: 45em; height: 32em;">
+<!-- First wizard page -->
+
+<!ENTITY profileCreationExplanation_1.text "&brandShortName; ले तपाईँको व्यक्तिगत प्रोफाइलमा तपाईँको सेटिङ र प्राथमिकताहरूको बारे सूचना भण्डारण गर्दछ ।">
+<!ENTITY profileCreationExplanation_2.text "यदि तपाईँले &brandShortName; को प्रतिलिपि अन्य प्रयोगकर्तासँग साझेदार गरिरहनु भएको हो भने, तपाईँले हरेक प्रयोगकर्ताको सूचना अलग राख्न प्रोफाइलहरू राख्न सक्नुहुन्छ । यो गर्न, हरेक प्रयोगकर्ताले उ वा उसको आफ्नो प्रोफाइल सिर्जना गर्नेछ ।">
+<!ENTITY profileCreationExplanation_3.text "यदि तपाईँ&brandShortName; को प्रतिलिपि प्रयोग गर्ने एउटा मात्र व्यक्ति हुनुहुन्छ भने, तपाईँसँग कम्तिमा एउटा प्रोफाइल हुनुपर्दछ । यदि तपाईँ चाहनुहुन्छ भने, तपाईँले आफ्नो लागि सेटिङ र प्राथमिकताको फरक सेटहरू भण्डारण गर्न बहुँविध प्रोफाइलहरू सिर्जना गर्न सक्नुहुन्छ । उदाहरणका लागि, तपाईँसँग व्यवसाय र व्यक्तिगत प्रयोजनका लागि अलग फाइल हुन सक्छ ।">
+<!ENTITY profileCreationExplanation_4.text "तपाईँको प्रोफाइल सिर्जना गर्न सुरु गर्न, पछिल्लो बटन क्लिक गर्नुहोस् ।">
+<!ENTITY profileCreationExplanation_4Mac.text "तपाईँको प्रोफाइल सिर्जना गर्न सुरुआत गर्न, जारी राख्नुहोस् बटन क्लिक गर्नुहोस् ।">
+<!-- Second wizard page -->
+
+<!ENTITY profileCreationIntro.text "यदि तपाईँले विभिन्न प्रोफाइलहरू सिर्जना गर्नुभयो भने तपाईँले प्रोफाइल नामद्वारा तिनीहरूलाई अलग अलग भन्न सक्नुहुन्छ । तपाईँले यहाँ उपलब्ध गराएको नाम प्रयोग गर्न सक्नुहुन्छ वा तपाईँको आफ्नो एउटा प्रयोग गर्न सक्नुहुन्छ ।">
+<!ENTITY profilePrompt.label "नयाँ प्रोफाइल नाम प्रविष्ट गर्नुहोस्:">
+<!ENTITY profilePrompt.accesskey "E">
+<!ENTITY profileDirExplanation.text "तपाईँको प्रयोगकर्ता सेटिङ, प्राथमिकता, पुस्तकचिनो र मेल यहाँ भण्डारण गरिनेछ:">
+<!ENTITY profileDefaultName "पूर्वानिर्धारित प्रयोगकर्ता">
+<!ENTITY button.choosefolder.label "फोल्डर रोज्नुहोस्...">
+<!ENTITY button.choosefolder.accesskey "C">
+<!ENTITY button.usedefault.label "पूर्वानिर्धारित फोल्डर प्रयोग गर्नुहोस्">
+<!ENTITY button.usedefault.accesskey "U">

@@ -1,0 +1,71 @@
+<!ENTITY fontsDialog.title "फन्ट">
+<!ENTITY window.width "39em">
+<!ENTITY window.macWidth "43em">
+<!ENTITY window.unixWidth "41em">
+
+<!ENTITY language.label "फन्टका लागि:">
+<!ENTITY language.accesskey "F">
+
+<!ENTITY size.label "साइज:">
+<!ENTITY size.accesskey1 "z">
+<!ENTITY size.accesskey2 "e">
+
+<!ENTITY proportional.label "समानुपातिक:">
+<!ENTITY proportional.accesskey "P">
+
+<!ENTITY serif.label "सेरिफ:">
+<!ENTITY serif.accesskey "S">
+<!ENTITY sans-serif.label "सान्स-सेरिफ:">
+<!ENTITY sans-serif.accesskey "n">
+<!ENTITY monospace.label "मोनोस्पेस:">
+<!ENTITY monospace.accesskey "M">
+<!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
+<!ENTITY fantasy.label "फन्टासी:">
+<!ENTITY fantasy.accesskey "F">
+<!ENTITY cursive.label "कर्सिभ:">
+<!ENTITY cursive.accesskey "C">
+
+<!ENTITY fontsize.units "पिक्सेल">
+
+<!ENTITY font.langGroup.latin1 "पश्चिमी">
+<!ENTITY font.langGroup.latin2 "मध्य यूरोपेली">
+<!ENTITY font.langGroup.japanese "जापानी">
+<!ENTITY font.langGroup.trad-chinese "परम्परागत चिनियाँ (ताइवान)">
+<!ENTITY font.langGroup.simpl-chinese "सरलिकृत चिनियाँ">
+<!ENTITY font.langGroup.trad-chinese-hk "परम्परागत चिनियाँ (हङकङ)">
+<!ENTITY font.langGroup.korean "कोरियाली">
+<!ENTITY font.langGroup.cyrillic "सिरिलिक">
+<!ENTITY font.langGroup.baltic "बाल्टिक">
+<!ENTITY font.langGroup.el "ग्रिक">
+<!ENTITY font.langGroup.turkish "तुर्किस">
+<!ENTITY font.langGroup.unicode "अन्य भाषा">
+<!ENTITY font.langGroup.user-def "प्रयोगकर्ता परिभाषित">
+<!ENTITY font.langGroup.thai "थाई">
+<!ENTITY font.langGroup.hebrew "हिब्रु">
+<!ENTITY font.langGroup.arabic "अरबी">
+<!ENTITY font.langGroup.devanagari "देभनागरी">
+<!ENTITY font.langGroup.tamil "तामिल">
+<!ENTITY font.langGroup.armenian "आर्मेनी">
+<!ENTITY font.langGroup.bengali "बङ्गाली">
+<!ENTITY font.langGroup.canadian "एकीकृत क्यानडेली वर्णमाला">
+<!ENTITY font.langGroup.ethiopic "इथियोपियाली">
+<!ENTITY font.langGroup.georgian "जर्जियन">
+<!ENTITY font.langGroup.gujarati "गुजराती">
+<!ENTITY font.langGroup.gurmukhi "गुर्मुखी">
+<!ENTITY font.langGroup.khmer "खमेर">
+<!ENTITY font.langGroup.malayalam "मलयालम">
+<!-- Minimum font size -->
+<!ENTITY minSize.label "न्यूनतम फन्ट साइज:">
+<!ENTITY minSize.accesskey "o">
+<!ENTITY minSize.none "कुनै होइन">
+<!-- default font type -->
+
+<!ENTITY useDefaultFontSerif.label "सेरिफ">
+<!ENTITY useDefaultFontSansSerif.label "सान्स सेरिफ">
+
+<!ENTITY allowPagesToUse.label "मैले माथि चयन गरेका साटोमा, पृष्ठलाई तिनीहरूका आफ्ना फन्ट रोज्न अनुमति दिनुहोस्">
+<!ENTITY allowPagesToUse.accesskey "A">
+
+<!ENTITY languages.customize.Charset.grouplabel "क्यारेक्टर सङ्केतन">
+<!ENTITY languages.customize.DefaultCharset.label "पुर्वनिर्धारित क्यारेक्टर सङ्केतन:">
+<!ENTITY languages.customize.DefaultCharset.accesskey "C">

@@ -1,0 +1,47 @@
+<!ENTITY printCmd.commandkey "p">
+
+<!ENTITY findOnCmd.commandkey "F">
+<!ENTITY findAgainCmd.commandkey "G">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY backButton.label "पछाडि">
+<!ENTITY backButton.accesskey "B">
+<!ENTITY backButton.tooltip "एक पृष्ठ पछाडि जानुहोस्">
+<!ENTITY forwardButton.label "अगाडि">
+<!ENTITY forwardButton.accesskey "F">
+<!ENTITY forwardButton.tooltip "एक पृष्ठ अगाडि जानुहोस्">
+<!ENTITY copyCmd.label "प्रतिलिपि बनाउनुहोस्">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY selectAllCmd.label "सबै चयन गर्नुहोस्">
+<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY goBackCmd.commandkey "[">
+<!ENTITY goForwardCmd.commandkey "]">
+<!ENTITY homeButton.label "गृह">
+<!ENTITY homeButton.tooltip "मद्दत सुरुआत पृष्ठमा जानुहोस्">
+<!ENTITY printButton.label "मुद्रण गर्नुहोस्">
+<!ENTITY printButton.tooltip "यो पृष्ठ मुद्रण गर्नुहोस्">
+<!ENTITY closeWindow.commandkey "W">
+
+<!ENTITY throbberItem.title "क्रियाकलाप सूचक">
+<!ENTITY throbber.tooltip " मद्दत खण्डमा अवस्थित मद्दत बटनमा जानुहोस्">
+
+<!ENTITY searchtab.label "खोजी गर्नुहोस्">
+<!ENTITY searchtab.accesskey "S">
+<!ENTITY toctab.label "सामग्री">
+<!ENTITY toctab.accesskey "C">
+
+<!ENTITY textZoomReduceCmd.commandkey "-">
+<!ENTITY textZoomEnlargeCmd.commandkey "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY textZoomResetCmd.commandkey "0">
+
+<!ENTITY helpSearch.commandkey "k">
+
+<!ENTITY zLevel.label "सधै माथि">
+<!ENTITY zLevel.accesskey "T">
+
+<!ENTITY textZoomReduceBtn.label "पाठ साइज घटाउनुहोस्">
+<!ENTITY textZoomReduceBtn.accesskey "D">
+<!ENTITY textZoomEnlargeBtn.label "पाठ साइज बढाउनुहोस्">
+<!ENTITY textZoomEnlargeBtn.accesskey "I">

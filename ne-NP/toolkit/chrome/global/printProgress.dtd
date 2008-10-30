@@ -1,0 +1,18 @@
+<!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
+<!ENTITY printWindow.title "मुद्रण">
+<!ENTITY title "शीर्षक:">
+<!ENTITY progress "प्रगति:">
+<!ENTITY preparing "तयार गर्दैछ...">
+<!ENTITY printComplete "मुद्रण पूरा भयो ।">
+
+<!ENTITY dialogCancel.label "रद्द गर्नुहोस्">
+<!ENTITY dialogClose.label "बन्द गर्नुहोस्">
+<!-- LOCALIZATION NOTE (percentPrint):
+
+    This string is used to format the text to the right of the progress
+    meter.
+
+    #1 will be replaced by the percentage of the file that has been saved -->
+
+<!ENTITY percentPrint "#1&#037;">
+

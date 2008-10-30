@@ -1,0 +1,7 @@
+<!ENTITY dateStarted.label "सुरु गरियो:">
+<!ENTITY dateEnded.label "समाप्त भयो:">
+<!ENTITY window.title "गुण">
+<!ENTITY downloadedFrom.label "बाट:">
+<!ENTITY path.label "लाई:">
+<!ENTITY acceptButton.label "बन्द गर्नुहोस्">
+<!ENTITY cmd.close.commandKey "w">

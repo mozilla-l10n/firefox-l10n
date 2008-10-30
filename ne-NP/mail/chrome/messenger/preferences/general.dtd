@@ -1,0 +1,42 @@
+<!ENTITY systemDefaults.label "प्रणाली पूर्वनिर्धारण गर्दछ">
+<!ENTITY alwaysCheckDefault.label "यदि सुरुआतमा &brandShortName; पूर्वनिर्धारित मेल क्लाइन्ट भएमा देख्नलाई सधैँ जाँच गर्नुहोस्">
+<!ENTITY alwaysCheckDefault.accesskey "l">
+<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
+  There's some sort of bug which makes wrapping checkboxes not properly reflow,
+  causing the bottom border of the groupbox to be cut off; set this
+  appropriately if your localization causes this checkbox to wrap.
+-->
+<!ENTITY alwaysCheckDefault.height "3em">
+<!ENTITY checkNow.label "अहिले जाँच गर्नुहोस्">
+<!ENTITY checkNow.accesskey "N">
+
+<!ENTITY messengerStartPage.label "&brandShortName; सुरु पृष्ठ">
+<!ENTITY enableStartPage.label "&brandShortName; सुरु हुँदा, सन्देश क्षेत्रमा प्रारम्भिक पृष्ठ देखाउनुहोस्">
+<!ENTITY enableStartPage.accesskey "W">
+<!ENTITY location.label "स्थान:">
+<!ENTITY location1.accesskey "o">
+<!ENTITY useDefault.label "पूर्वनिर्धारित पूर्वावस्थामा ल्याउनुहोस्">
+<!ENTITY useDefault.accesskey "R">
+
+<!ENTITY bounceSystemDockIcon.label "डक प्रतिमा एनिमेसन गर्नुहोस्">
+<!ENTITY bounceSystemDockIcon.accesskey "i">
+
+<!ENTITY newMessagesArrive.label "नयाँ सन्देश प्राप्त हुँदा:">
+<!ENTITY playSound.label "ध्वनि बजाउनुहोस्">
+<!ENTITY playSound1.accesskey "d">
+<!ENTITY showAnimatedAlert.label "चेतावनी देखाउनुहोस्">
+<!ENTITY showAnimatedAlert.accesskey "S">
+<!ENTITY customizeMailAlert.label "अनुकूलन गर्नुहोस्...">
+<!ENTITY customizeMailAlert.accesskey "C">
+
+<!ENTITY soundNotification1.caption "ध्वनि">
+<!ENTITY play.label "बजाउनुहोस्">
+<!ENTITY play.accesskey "P">
+<!ENTITY systemsound.label "नयाँ मेलका लागि पूर्वनिर्धारित प्रणाली ध्वनि">
+<!ENTITY systemsoundMac.label "प्रणाली चेतावनी ध्वनि">
+<!ENTITY systemsoundMac.accesskey "y">
+<!ENTITY systemsound.accesskey "y">
+<!ENTITY customsound.label "निम्न ध्वनि फाइल प्रयोग गर्नुहोस्">
+<!ENTITY customsound.accesskey "U">
+<!ENTITY browse.label "ब्राउज गर्नुहोस्...">
+<!ENTITY browse.accesskey "B">

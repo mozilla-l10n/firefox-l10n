@@ -1,0 +1,25 @@
+<!ENTITY license.part0 "प्रतिलिपिअधिकार हो">
+<!ENTITY license.part1 "यसद्वारा">
+<!ENTITY license.contrib "योगदानकर्ता">
+<!ENTITY license.part2 "यसमा सेटआउट भएको शर्तको आधारमा">
+<!ENTITY license.part3 "कागजात । सबै अधिकार सञ्चित गरियो ।">
+
+<!ENTITY about.version "संस्करण">
+
+<!ENTITY about.copy.beforeLink "प्रतिलिपिअधिकार &copy; 1998-2007">
+<!ENTITY about.copy.linkTitle "योगदानकर्ता">
+<!ENTITY about.copy.afterLink "मोजिला परियोजनामा ।">
+
+<!ENTITY about.license.beforeLink "पढ्नुहोस्">
+<!ENTITY about.license.linkTitle "जानकारी इजाजत दिदै">
+<!ENTITY about.license.afterLink "यो वस्तुका लागि ।">
+
+<!ENTITY about.relnotes.beforeLink "पढ्नुहोस्">
+<!ENTITY about.relnotes.linkTitle "द्रष्टब्य छोड्दछ">
+<!ENTITY about.relnotes.afterLink "यो संस्करणका लागि ।">
+
+<!ENTITY about.buildconfig.beforeLink "हेर्नुहोस">
+<!ENTITY about.buildconfig.linkTitle "कन्फिगरेसन निर्माण गर्नुहोस्">
+<!ENTITY about.buildconfig.afterLink "यो संस्करणका लागि प्रयोग गरियो ।">
+
+<!ENTITY about.buildIdentifier "पहिचायक निर्माण गर्नुहोस्:">

@@ -1,0 +1,12 @@
+<!ENTITY dialog.title "उपकरणपट्टी अनुकूलन गर्नुहोस्">
+<!ENTITY dialog.style "चौडाइ: 635px; उचाइ: 400px;">
+<!ENTITY instructions.description "तपाईँले उपकरणपट्टीबाट वा लाई तानेर वस्तुहरू थप्न वा हटाउन सक्नुहुन्छ ।">
+<!ENTITY show.label "देखाउनुहोस्:">
+<!ENTITY iconsAndText.label "प्रतिमा र पाठ">
+<!ENTITY icons.label "प्रतिमा">
+<!ENTITY text.label "पाठ">
+<!ENTITY useSmallIcons.label "सानो प्रतिमा प्रयोग गर्नुहोस्">
+<!ENTITY restoreDefaultSet.label "पूर्वानिर्धारित सेट पूर्वावस्थामा ल्याउनुहोस्">
+<!ENTITY addNewToolbar.label "नयाँ उपकरणपट्टी थप्नुहोस्">
+<!ENTITY saveChanges.label "काम भयो">
+<!ENTITY undoChanges.label "परिवर्तनहरू पूर्वावस्थामा फर्काउनुहोस्">

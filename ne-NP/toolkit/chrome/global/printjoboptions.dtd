@@ -1,0 +1,28 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "मद्रक गुण">
+
+<!ENTITY paperInput.label "कागज साइज:">
+
+<!ENTITY plexInput.label "प्लेक्स मोड:">
+
+<!ENTITY resolutionInput.label "रिजोल्युसन/गुणस्तर:">
+
+<!ENTITY cmdInput.label "मुद्रण आदेश:">
+
+<!ENTITY jobTitleInput.label "कार्य शीर्षक:">
+
+<!ENTITY colorGroup.label "रङ:">
+<!ENTITY grayRadio.label "ग्रेस्केल">
+<!ENTITY colorRadio.label "रङ">
+
+<!ENTITY colorspaceInput.label "रङ खालीस्थान:">
+
+<!ENTITY fontsGroup.label "फन्ट:">
+<!ENTITY downloadFonts.label "मुद्रकमा फन्टहरू डाउनलोड गर्नुहुन्छ ?">
+
+<!ENTITY edgeMarginInput.label "कागजको किनाराबाट सीमान्तसम्मको अन्तराल">
+<!ENTITY topInput.label "माथि:">
+<!ENTITY bottomInput.label "तल:">
+<!ENTITY leftInput.label "बायाँ:">
+<!ENTITY rightInput.label "दायाँ:">

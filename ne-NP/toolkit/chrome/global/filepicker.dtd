@@ -1,0 +1,18 @@
+<!ENTITY lookInMenuList.label "हेर्नुहोस्:">
+<!ENTITY lookInMenuList.accesskey "L">
+<!ENTITY textInput.label "फाइलनाम:">
+<!ENTITY textInput.accesskey "n">
+<!ENTITY filterMenuList.label "फाइल प्रकार:">
+<!ENTITY filterMenuList.accesskey "t">
+<!ENTITY name.label "नाम">
+<!ENTITY size.label "साइज">
+<!ENTITY lastModified.label "अन्तिम परिमार्जित">
+<!ENTITY permissions.label "अनुमति">
+<!ENTITY showHiddenFiles.label "लुकेका फाइलहरू र डाइरेक्टरीहरू देखाउनुहोस्">
+<!ENTITY showHiddenFiles.accesskey "S">
+
+<!ENTITY noPermissionError.label "तपाईँसँग यो डाइरेक्टरी हेर्ने आवश्यक अनुमतिहरू छैन ।">
+
+<!ENTITY folderUp.tooltiptext "माथिल्लो तहमा जानुहोस्">
+<!ENTITY folderHome.tooltiptext "गृहमा जानुहोस्">
+<!ENTITY folderNew.tooltiptext "नयाँ डाइरेक्टरी सिर्जना गर्नुहोस्">

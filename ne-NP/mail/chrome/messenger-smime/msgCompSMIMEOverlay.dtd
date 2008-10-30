@@ -1,0 +1,25 @@
+<!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
+
+<!ENTITY securityMenu.label "सुरक्षा">
+<!ENTITY securityMenu.accesskey "e">
+
+<!ENTITY menu_securityEncryptIfPossible.label "यदि सम्भव भए गुप्तिकरण गर्नुहोस्">
+<!ENTITY menu_securityEncryptIfPossible.accesskey "P">
+
+<!ENTITY menu_securityEncryptRequire.label "यो सन्देश गुप्तिकृत गर्नुहोस्">
+<!ENTITY menu_securityEncryptRequire.accesskey "E">
+
+<!ENTITY menu_securityNoEncryption.label "यो सन्देश गुप्तिकृत नगर्नुहोस्">
+<!ENTITY menu_securityNoEncryption.accesskey "N">
+
+<!ENTITY menu_securitySign.label "यो सन्देश डिजिटल रूपमा साइन गर्नुहोस्">
+<!ENTITY menu_securitySign.accesskey "S">
+
+<!ENTITY menu_securityStatus.label "सुरक्षा जानकारी हेर्नुहोस्">
+<!ENTITY menu_securityStatus.accesskey "I">
+
+<!ENTITY securityButton.label "सुरक्षा">
+<!ENTITY securityButton.tooltip "सुरक्षा सेटिङ हेर्नुहोस् वा परिवर्तन गर्नुहोस्">
+
+<!ENTITY menu_viewSecurityStatus.label "सन्देश सुरक्षा जानकारी">
+<!ENTITY menu_viewSecurityStatus.accesskey "I">

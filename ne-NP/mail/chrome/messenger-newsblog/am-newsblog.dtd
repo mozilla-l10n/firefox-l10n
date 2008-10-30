@@ -1,0 +1,20 @@
+<!ENTITY newsblogTitle.label "आरएसएस खाता सेटिङ">
+
+<!ENTITY biffStart.label "हरेक नयाँ लेखका लागि जाँच गर्नुहोस्">
+<!ENTITY biffStart.accesskey "k">
+<!ENTITY biffEnd.label "मिनेट">
+
+<!ENTITY loginAtStartup.label "सुरुआतमा नयाँ लेखका लागि जाँच गर्नुहोस्">
+<!ENTITY loginAtStartup.accesskey "C">
+
+<!ENTITY useQuickMode.label "पूर्वनिर्धारित रूपमा, वेब पृष्ठ लोड गर्नको सट्टा लेख सारांश देखाउनुहोस्">
+<!ENTITY useQuickMode.accesskey "B">
+
+<!ENTITY manageSubscriptions.label "सदस्यता प्रबन्ध गर्नुहोस्...">
+<!ENTITY manageSubscriptions.accesskey "M">
+<!-- entities from defaults/isp/rss.rdf -->
+
+<!ENTITY rss.accountName "समाचार &amp; ब्लग">
+<!ENTITY rss.wizardShortName "आरएसएस">
+<!ENTITY rss.wizardLongName "आरएसएस समाचार &amp; ब्लग">
+<!ENTITY rss.hostName "समाचार &amp; ब्लग">

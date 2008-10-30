@@ -1,0 +1,19 @@
+<!ENTITY cutCmd.label "काटनुहोस्">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "प्रतिलिपि बनाउनुहोस्">
+<!ENTITY copyCmd.accesskey "c">
+<!ENTITY pasteCmd.label "टाँस्नुहोस्">
+<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY undoCmd.label "पूर्वावस्थामा फर्काउनुहोस्">
+<!ENTITY undoCmd.accesskey "u">
+<!ENTITY selectAllCmd.label "सबै चयन गर्नुहोस्">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY deleteCmd.label "मेट्नुहोस्">
+<!ENTITY deleteCmd.accesskey "d">
+<!ENTITY spellAddToDictionary.label "शब्दकोशमा थप्नुहोस्">
+<!ENTITY spellAddToDictionary.accesskey "t">
+<!ENTITY spellEnable.label "यो फाँटको हिज्जेजाँच गर्नुहोस्">
+<!ENTITY spellEnable.accesskey "S">
+<!ENTITY spellNoSuggestions.label "(हिज्जे सुझाव छैन)">
+<!ENTITY spellDictionaries.label "भाषा">
+<!ENTITY spellDictionaries.accesskey "l">

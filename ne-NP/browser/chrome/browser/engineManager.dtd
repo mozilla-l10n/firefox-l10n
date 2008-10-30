@@ -1,0 +1,20 @@
+<!ENTITY engineManager.title "खोजी इन्जिन सूची प्रबन्ध गर्नुहोस्">
+<!ENTITY engineManager.style "min-width: 35em;">
+<!ENTITY engineManager.intro "तपाईँले निम्न खोजी इन्जिन स्थापना गर्नुभएको छ:">
+<!-- Buttons -->
+
+<!ENTITY up.label "माथि सार्नुहोस्">
+<!ENTITY up.accesskey "U">
+<!ENTITY dn.label "तल सार्नुहोस्">
+<!ENTITY dn.accesskey "D">
+<!ENTITY remove.label "हटाउनुहोस्">
+<!ENTITY remove.accesskey "R">
+
+<!ENTITY addEngine.label "धेरै खोजी इन्जिन प्राप्त गर्नुहोस्...">
+<!ENTITY addEngine.accesskey "A">
+
+<!ENTITY enableSuggest.label "खोजी सुझाव देखाउनुहोस्">
+<!ENTITY enableSuggest.accesskey "S">
+
+<!ENTITY restoreDefaults.label "पूर्वनिर्धारित पूर्वस्थितिमा लैजानुहोस्">
+<!ENTITY restoreDefaults.accesskey "e">

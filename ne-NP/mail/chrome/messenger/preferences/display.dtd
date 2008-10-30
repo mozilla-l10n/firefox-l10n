@@ -1,0 +1,52 @@
+<!ENTITY itemFormatting.label "ढाँचा">
+<!ENTITY itemTags.label "ट्याग">
+<!ENTITY itemFonts.label "फन्ट">
+
+<!ENTITY textBegin.label "उद्धरण गरिएको सादा पाठ देखावट">
+<!ENTITY style.label "शैली:">
+<!ENTITY style.accesskey "y">
+<!ENTITY regularStyle.label "नियमित">
+<!ENTITY bold.label "बाक्लो">
+<!ENTITY italic.label "छड्के">
+<!ENTITY boldItalic.label "बाक्लो छड्के">
+<!ENTITY size.label "साइज:">
+<!ENTITY size.accesskey "s">
+<!ENTITY regularSize.label "नियमित">
+<!ENTITY bigger.label "ठूलो">
+<!ENTITY smaller.label "सानो">
+<!ENTITY color.label "रङ:">
+<!ENTITY color.accesskey "c">
+<!ENTITY displayWidth.label "सादा पाठ सन्देश">
+<!ENTITY plainText.label "निम्न फन्ट प्रयोग गर्नुहोस्:">
+<!ENTITY displayText.label "उद्धरण गरिएका सादा पाठ सन्देश प्रदर्शन भएको समयमा:">
+<!ENTITY viewingPlainText.label "सादा पाठ सन्देश प्रदर्शन हुने समयमा:">
+<!ENTITY fixedWidth.label "स्थिर फन्ट चौडाइ">
+<!ENTITY fixedWidth.accesskey "x">
+<!ENTITY variableWidth.label "चल फन्ट चौडाइ">
+<!ENTITY variableWidth.accesskey "V">
+<!ENTITY readingMessagesHeader.label "आगमन सन्देशका लागि">
+<!ENTITY colors.label "रङ">
+<!ENTITY overrideColors.label "सन्देश प्रदर्शन हुने समयमा, निम्न रङ प्रयोग गर्नुहोस्:">
+<!ENTITY textColor.label "पाठ रङ:">
+<!ENTITY textColor.accesskey "T">
+<!ENTITY backgroundColor.label "पृष्ठभूमि रङ:">
+<!ENTITY backgroundColor.accesskey "b">
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+
+<!ENTITY convertEmoticons.label "ग्राफिक्सका रूपमा इमोनटिकन प्रदर्शन गर्नुहोस्">
+<!ENTITY convertEmoticons.accesskey "D">
+<!-- labels -->
+
+<!ENTITY displayTagsText.label "तपाईँका सन्देशलाई वर्गीकरण गर्न र प्राथमिकता दिन ट्याग प्रयोग गर्न सकिन्छ ।">
+<!ENTITY addTagButton.label "थप्नुहोस्">
+<!ENTITY addTagButton.accesskey "A">
+<!ENTITY editTagButton.label "सम्पादन">
+<!ENTITY editTagButton.accesskey "E">
+<!ENTITY removeTagButton.label "मेट्नुहोस्">
+<!ENTITY removeTagButton.accesskey "l">
+<!-- Fonts -->
+
+<!ENTITY fontAndEncodingsDescription.label "&brandShortName; द्वारा प्रयोग गरिएका फन्ट र सङ्केतन कन्फिगर गर्नुहोस्">
+<!ENTITY fontsAndEncodingsCaption.label "फन्ट &amp; सङ्केतन">
+<!ENTITY fontOptions.accesskey "F">
+<!ENTITY fontOptions.label "फन्ट...">

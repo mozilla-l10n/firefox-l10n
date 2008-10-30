@@ -1,0 +1,30 @@
+<!ENTITY window.width "36em">
+
+<!ENTITY cookiesonsystem.label "तपाईँको कम्प्युटरमा निम्न कुकी भण्डारण हुन्छन्:">
+<!ENTITY cookiename.label "कुकी नाम">
+<!ENTITY cookiedomain.label "साइट">
+<!ENTITY button.removecookie.label "कुकी हटाउनुहोस्">
+<!ENTITY button.removecookie.accesskey "R">
+<!ENTITY button.removeallcookies.label "सबै कुकी हटाउनुहोस्">
+<!ENTITY button.removeallcookies.accesskey "A">
+
+<!ENTITY props.name.label "नाम:">
+<!ENTITY props.value.label "सामाग्री:">
+<!ENTITY props.domain.label "होस्ट:">
+<!ENTITY props.path.label "मार्ग:">
+<!ENTITY props.secure.label "यसलाई पठाउनुहोस्:">
+<!ENTITY props.expires.label "म्याद समाप्त:">
+
+<!ENTITY window.title "कुकी">
+<!ENTITY windowClose.key "w">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+
+<!ENTITY filter.label "खोजी गर्नुहोस्:">
+<!ENTITY filter.accesskey "S">
+<!ENTITY clear.label "खाली गर्नुहोस्">
+<!ENTITY clear.accesskey "l">
+
+<!ENTITY button.close.label "बन्द गर्नुहोस्">
+<!ENTITY button.close.accesskey "C">
+
