@@ -1,0 +1,214 @@
+<!ENTITY addressbookWindow.title            "Aadressiraamat">
+
+<!-- File Menu -->
+<!ENTITY fileMenu.label                     "Fail">
+<!ENTITY fileMenu.accesskey                 "F">
+<!ENTITY newMenu.label                      "Uus">
+<!ENTITY newMenu.accesskey                  "U">
+<!ENTITY newCard.label                      "Aadressiraamatu kaart...">
+<!ENTITY newCard.accesskey                  "A">
+<!ENTITY newCard.key                        "N">
+<!ENTITY newListCmd.label                   "Meililist">
+<!ENTITY newListCmd.accesskey               "l">
+<!ENTITY newAddressBookCmd.label            "Aadressiraamat...">
+<!ENTITY newAddressBookCmd.accesskey        "A">
+<!ENTITY newLDAPDirectoryCmd.label          "LDAP-i kataloog...">
+<!ENTITY newLDAPDirectoryCmd.accesskey      "D">
+<!ENTITY newMessageCmd.label                "Kiri">
+<!ENTITY newMessageCmd.key                  "M">
+<!ENTITY newMessageCmd.accesskey            "K">
+<!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
+<!ENTITY osxAddressBook.label               "Kasutatakse Mac OS X'i aadressiraamatut">
+<!ENTITY osxAddressBook.accesskey           "O">
+<!ENTITY closeCmd.label                     "Sulge">
+<!ENTITY closeCmd.key                       "W">
+<!ENTITY closeCmd.accesskey                 "S">
+<!ENTITY printSetupCmd.label                "Lehe sätted...">
+<!ENTITY printSetupCmd.accesskey            "l">
+<!ENTITY printPreviewCardViewCmd.label      "Kaardi printimise eelvaade">
+<!ENTITY printPreviewCardViewCmd.accesskey  "e">
+<!ENTITY printPreviewAddressBook.label      "Aadressiraamatu printimise eelvaade">
+<!ENTITY printPreviewAddressBook.accesskey  "A">
+<!ENTITY printCardViewCmd.label             "Prindi kaart...">
+<!ENTITY printCardViewCmd.accesskey         "P">
+<!ENTITY printCardViewCmd.key               "P">
+<!ENTITY printAddressBook.label             "Prindi aadressiraamat...">
+<!ENTITY printAddressBook.accesskey         "n">
+
+<!ENTITY quitApplicationCmdWin.label        "Välju">
+<!ENTITY quitApplicationCmdWin.accesskey    "j">
+<!ENTITY quitApplicationCmd.label           "Välju">
+<!ENTITY quitApplicationCmd.accesskey       "V">
+<!ENTITY quitApplicationCmd.key             "Q">
+
+<!-- Edit Menu -->
+<!ENTITY editMenu.label                     "Redigeerimine">
+<!ENTITY editMenu.accesskey                 "R">
+<!ENTITY undoCmd.label                      "Võta tagasi">
+<!ENTITY undoCmd.key                        "Z">
+<!ENTITY undoCmd.accesskey                  "t">
+<!ENTITY redoCmd.label                      "Tee uuesti">
+<!ENTITY redoCmd.key                        "Y">
+<!ENTITY redoCmd.accesskey                  "s">
+<!ENTITY cutCmd.label                       "Lõika">
+<!ENTITY cutCmd.key                         "X">
+<!ENTITY cutCmd.accesskey                   "L">
+<!ENTITY copyCmd.label                      "Kopeeri">
+<!ENTITY copyCmd.key                        "C">
+<!ENTITY copyCmd.accesskey                  "K">
+<!ENTITY pasteCmd.label                     "Aseta">
+<!ENTITY pasteCmd.key                       "V">
+<!ENTITY pasteCmd.accesskey                 "A">
+<!ENTITY deleteCmd.label                    "Kustuta">
+<!ENTITY deleteCmd.accesskey                "u">
+<!ENTITY deleteAbCmd.label                  "Kustuta aadressiraamat">
+<!ENTITY deleteCardCmd.label                "Kustuta kaart">
+<!ENTITY deleteCardsCmd2.label              "Kustuta kaardid">
+<!ENTITY deleteListCmd.label                "Kustuta list">
+<!ENTITY deleteListsCmd.label               "Kustuta listid">
+<!ENTITY deleteItemsCmd.label               "Kustuta elemendid">
+<!ENTITY selectAllCmd.label                 "Vali kõik">
+<!ENTITY selectAllCmd.key                   "A">
+<!ENTITY searchAddressesCmd.key             "f">
+<!ENTITY selectAllCmd.accesskey             "a">
+<!ENTITY swapFirstNameLastNameCmd.label     "Vaheta ees- ja perekonnanimi">
+<!ENTITY swapFirstNameLastNameCmd.accesskey "V">
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+<!ENTITY hideSwapFnLnUI                     "true">
+<!ENTITY propertiesCmd.label                "Omadused...">
+<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY propertiesCmd.accesskey            "O">
+<!ENTITY propertiesCmd.key                  "i">
+
+<!-- View Menu -->
+<!ENTITY viewMenu.label                     "Vaade">
+<!ENTITY viewMenu.accesskey                 "V">
+<!ENTITY viewToolbarsMenu.label             "Tööriistaribad">
+<!ENTITY viewToolbarsMenu.accesskey         "T">
+<!ENTITY showAbToolbarCmd.label             "Aadressiraamatu riba">
+<!ENTITY showAbToolbarCmd.accesskey         "A">
+<!ENTITY showTaskbarCmd.label               "Olekuriba">
+<!ENTITY showTaskbarCmd.accesskey           "l">
+<!ENTITY customizeToolbar.label             "Kohanda...">
+<!ENTITY customizeToolbar.accesskey         "K">
+<!ENTITY showCardPane.label                 "Kaardi kokkuvõtte paneel">
+<!ENTITY showCardPane.accesskey             "K">
+<!ENTITY menu_ShowNameAs.label              "Nime kuju">
+<!ENTITY menu_ShowNameAs.accesskey          "N">
+<!ENTITY firstLastCmd.label                 "Eesnimi, perekonnanimi">
+<!ENTITY firstLastCmd.accesskey             "E">
+<!ENTITY lastFirstCmd.label                 "Perekonnanimi, eesnimi">
+<!ENTITY lastFirstCmd.accesskey             "P">
+<!ENTITY displayNameCmd.label               "Kuvatav nimi">
+<!ENTITY displayNameCmd.accesskey           "K">
+<!ENTITY sortMenu.label                     "Sorteerimine">
+<!ENTITY sortMenu.accesskey                 "S">
+
+<!-- Tools Menu -->
+<!ENTITY tasksMenu.label                    "Tööriistad">
+<!ENTITY tasksMenu.accesskey                "T">
+<!ENTITY messengerCmd.label                 "E-post ja uudisgrupid">
+<!ENTITY messengerCmd.accesskey             "E">
+<!ENTITY messengerCmd.commandkey            "1">
+<!ENTITY searchAddressesCmd.label           "Aadresside otsing...">
+<!ENTITY searchAddressesCmd.accesskey       "d">
+<!ENTITY importCmd.label                    "Impordi...">
+<!ENTITY importCmd.accesskey                "I">
+<!ENTITY exportCmd.label                    "Ekspordi...">
+<!ENTITY exportCmd.accesskey                "E">
+<!ENTITY preferencesCmd.label               "Valikud...">
+<!ENTITY preferencesCmd.accesskey           "V">
+<!ENTITY preferencesCmdUnix.label           "Eelistused">
+<!ENTITY preferencesCmdUnix.accesskey       "E">
+
+<!-- Address Book Toolbar and Context Menus -->
+<!ENTITY newcardButton.label                "Uus kaart">
+<!ENTITY newcardButton.accesskey            "U">
+<!ENTITY newlistButton.label                "Uus list">
+<!ENTITY newlistButton.accesskey            "l">
+<!ENTITY editButton.label                   "Omadused">
+<!ENTITY editButton.accesskey               "O">
+<!ENTITY newmsgButton.label                 "Kirjuta">
+<!ENTITY newmsgButton.accesskey             "K">
+<!ENTITY newIM.label                        "Kiirsõnum">
+<!ENTITY newIM.accesskey                    "i">
+<!ENTITY deleteButton.label                 "Kustuta">
+<!ENTITY deleteButton.accesskey             "K">
+<!ENTITY throbberItem.title                 "Aktiivsuse indikaator">
+
+<!-- Address Book Toolbar Tooltips -->
+<!ENTITY newcardButton.tooltip              "Loo uus aadressiraamatu kaart">
+<!ENTITY newlistButton.tooltip              "Loo uus meililist">
+<!ENTITY editButton.tooltip                 "Muuda valitud kaarti">
+<!ENTITY newmsgButton.tooltip               "Koosta uus kiri">
+<!ENTITY newIM.tooltip                      "Saada kiirsõnum või vestle">
+<!ENTITY deleteButton.tooltip               "Kustuta valitud kaart või aadressiraamat">
+
+<!-- Dir Tree header -->
+<!ENTITY dirTreeHeader.label                "Aadressiraamatud">
+
+<!-- Search Bar -->
+<!ENTITY SearchNameOrEmail.label            "Nimi või e-post">
+<!ENTITY SearchNameOrEmail.accesskey        "N">
+<!ENTITY advancedButton.tooltip             "Täpsem aadressiotsing">
+<!ENTITY quickSearchCmd.key                 "k">
+<!ENTITY searchItem.title                   "Kiirotsing">
+
+<!-- Results Pane -->
+<!ENTITY GeneratedName.label                "Nimi">
+<!ENTITY GeneratedName.accesskey            "N">
+<!ENTITY PrimaryEmail.label                 "E-post">
+<!ENTITY PrimaryEmail.accesskey             "E">
+<!ENTITY ScreenName.label                   "Kuvatav nimi">
+<!ENTITY ScreenName.accesskey               "v">
+<!ENTITY Company.label                      "Organisatsioon">
+<!ENTITY Company.accesskey                  "O">
+<!ENTITY NickName.label                     "Hüüdnimi">
+<!ENTITY NickName.accesskey                 "d">
+<!ENTITY SecondEmail.label                  "Muud e-posti aadressid">
+<!ENTITY SecondEmail.accesskey              "t">
+<!ENTITY Department.label                   "Osakond">
+<!ENTITY Department.accesskey               "a">
+<!ENTITY JobTitle.label                     "Amet">
+<!ENTITY JobTitle.accesskey                 "m">
+<!ENTITY CellularNumber.label               "Mobiiltelefon">
+<!ENTITY CellularNumber.accesskey           "b">
+<!ENTITY PagerNumber.label                  "Peiler">
+<!ENTITY PagerNumber.accesskey              "e">
+<!ENTITY FaxNumber.label                    "Faks">
+<!ENTITY FaxNumber.accesskey                "F">
+<!ENTITY HomePhone.label                    "Kodune telefon">
+<!ENTITY HomePhone.accesskey                "u">
+<!ENTITY WorkPhone.label                    "Töötelefon">
+<!ENTITY WorkPhone.accesskey                "f">
+<!ENTITY sortAscending.label                "Kasvav">
+<!ENTITY sortAscending.accesskey            "K">
+<!ENTITY sortDescending.label               "Kahanev">
+<!ENTITY sortDescending.accesskey           "h">
+<!ENTITY _PhoneticName.label                "Nime hääldus">
+<!ENTITY _PhoneticName.accesskey            "h">
+
+<!-- Card Summary Pane -->
+<!-- Box Headings -->
+<!ENTITY contact.heading                    "Kontakt">
+<!ENTITY home.heading                       "Kodu">
+<!ENTITY other.heading                      "Muu">
+<!ENTITY phone.heading                      "Telefon">
+<!ENTITY work.heading                       "Töö">
+<!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading                "Kirjeldus">
+<!ENTITY addresses.heading                  "Aadressid">
+<!-- For Map It! -->
+<!ENTITY mapItButton.label                  "Vaata kaardil">
+<!ENTITY mapIt.tooltip                      "Kuva adresaadi juures oleva aadressi asupaika veebis">
+
+<!-- Status Bar -->
+<!ENTITY statusText.label "">
+
+<!--  Mac OS X Window Menu -->
+<!ENTITY windowMenu.label                   "Aken">
+<!ENTITY minimizeWindow.label               "Minimeeri">
+<!ENTITY minimizeWindow.key                 "m">
+<!ENTITY bringAllToFront.label              "Too kõik ette">
+<!ENTITY zoomWindow.label                   "Suurendus">
