@@ -104,8 +104,8 @@
 
 <!ENTITY calendar.newtask.button.label          "Nije taak" >
 <!ENTITY calendar.newevent.button.label         "Nij barren" >
-<!ENTITY calendar.delete.button.label           "Fuortsmite" >
 <!ENTITY calendar.edit.button.label             "Bewurkje" >
+<!ENTITY calendar.print.button.label            "Ofdrukke" >
 
 <!ENTITY calendar.import.button.tooltip            "Barrens ymportearje út in lokaal bestân" >
 <!ENTITY calendar.export.button.tooltip            "Barrens eksportearje nei in lokaal bestân" >
