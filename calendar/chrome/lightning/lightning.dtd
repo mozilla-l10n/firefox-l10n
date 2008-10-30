@@ -60,6 +60,8 @@
 <!ENTITY lightning.toolbar.calendar.accesskey "C">
 <!ENTITY lightning.toolbar.task.label "Attività">
 <!ENTITY lightning.toolbar.task.accesskey "A">
+<!ENTITY lightning.toolbar.newevent.label "Evento">
+<!ENTITY lightning.toolbar.newtask.label "Attività">
 <!ENTITY lightning.toolbar.day.label "Giorno">
 <!ENTITY lightning.toolbar.day.accesskey "G">
 <!ENTITY lightning.toolbar.week.label "Settimana">
