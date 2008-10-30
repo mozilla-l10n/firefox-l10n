@@ -231,8 +231,8 @@
 <!ENTITY viewPageInfoCmd.accesskey    "e">
 <!ENTITY viewFrameInfoCmd.label       "Frame-Informationen anzeigen">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
-<!ENTITY showImageCmd.label           "Grafik laden">
-<!ENTITY showImageCmd.accesskey       "G">
+<!ENTITY reloadImageCmd.label         "Grafik neu laden">
+<!ENTITY reloadImageCmd.accesskey     "G">
 <!ENTITY viewImageCmd.label           "Grafik anzeigen">
 <!ENTITY viewImageCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "Hintergrundgrafik anzeigen">
