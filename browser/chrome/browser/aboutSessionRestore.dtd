@@ -1,9 +1,11 @@
-<!ENTITY restorepage.title          "Återställ föregående session">
-<!ENTITY restorepage.titletext      "Den senaste &brandShortName;-sessionen avslutades oväntat">
-<!ENTITY restorepage.shortDesc      "Du kan återställa flikar och fönster från den föregående sessionen, eller starta en ny session om de inte längre behövs. Vi ber om ursäkt för besväret.">
+<!ENTITY restorepage.tabtitle       "Återställ session">
+<!ENTITY restorepage.pagetitle      "Vill du återställa din session?">
+<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
+                        you may translate "crash" instead (even though it's IT-speak) -->
+<!ENTITY restorepage.issueDesc      "Den senaste &brandShortName;-sessionen avslutades oväntat. Vi ber om ursäkt för det inträffade. Du kan återställa flikarna och fönstren från den föregående sessionen eller starta en ny session om de inte längre behövs.">
 <!ENTITY restorepage.remedies       "Om &brandShortName; avslutas oväntat upprepade gånger:">
 <!ENTITY restorepage.dueToChrome    "Försök att avaktivera nyligen installerade tillägg i fönstret Tillägg.">
-<!ENTITY restorepage.dueToContent   "Försök att återställa sessionen utan de webbsidor du misstänker orsakade kraschen:">
+<!ENTITY restorepage.dueToContent   "Försök att återställa sessionen utan de webbsidor du misstänker orsakade problemet:">
 
 <!ENTITY restorepage.restoreButton  "Återställ föregående session">
 <!ENTITY restorepage.restore.access "Å">
@@ -12,5 +14,5 @@
 
 <!ENTITY restorepage.restoreHeader  "Återställ">
 <!ENTITY restorepage.listHeader     "Fönster och flikar">
-<!-- LOCALIZATION NOTE: %S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Fönster #&#37;S">
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Fönster &#37;S">
