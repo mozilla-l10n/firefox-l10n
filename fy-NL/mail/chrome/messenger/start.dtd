@@ -40,5 +40,3 @@ function installDic(anchor)
                           <ul><li><a href='http://downloads.mozdev.org/dictionaries/spell-nl.xpi'
                           onclick='installDic(this);return false'>download het Nederlandse woordenboek rechtstreeks</a>.</li></ul>
 			  <p>Deze woordenboeken zijn beschikbaar onder de GNU/GPL-licentie en mogen daarom niet standaard worden meegeleverd in Thunderbird NL.</p>">
-
-<!ENTITY startpage.poweredByGecko "Aangedreven door Gecko.">

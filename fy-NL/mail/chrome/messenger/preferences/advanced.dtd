@@ -26,8 +26,6 @@
 <!ENTITY reuseExpRadio0.accesskey      "i">
 <!ENTITY reuseExpRadio1.label          "In besteand berjochtfinster">
 <!ENTITY reuseExpRadio1.accesskey      "a">
-<!ENTITY reuseExpRadio2.label          "In nij berjochtljepblêd">
-<!ENTITY reuseExpRadio2.accesskey      "l">
 <!ENTITY configEditDesc.label          "Wiidweide konfiguraasje">
 <!ENTITY configEdit.label              "Konfiguraasje-bewurker…">
 <!ENTITY configEdit.accesskey          "f">

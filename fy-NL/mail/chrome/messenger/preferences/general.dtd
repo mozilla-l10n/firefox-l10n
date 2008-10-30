@@ -29,7 +29,6 @@
 <!ENTITY customizeMailAlert.label         "Oanpasse...">
 <!ENTITY customizeMailAlert.accesskey     "O">
 
-<!ENTITY soundNotification1.caption       "Lûd">
 <!ENTITY play.label                       "Ofspylje">
 <!ENTITY play.accesskey                   "f">
 <!ENTITY systemsound.label                "Standert systeemlûd foar nije e-mail">

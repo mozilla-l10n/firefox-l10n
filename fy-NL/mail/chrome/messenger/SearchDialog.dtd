@@ -5,15 +5,11 @@
 <!ENTITY searchSubfolders.accesskey  "s">
 <!ENTITY resetButton.label           "Wissen">
 <!ENTITY resetButton.accesskey       "W">
-<!ENTITY optionsButton.label         "Opties">
-<!ENTITY closeButton.label           "Sluiten">
 <!ENTITY openButton.label            "Openen">
 <!ENTITY openButton.accesskey        "O">
 <!ENTITY deleteButton.label          "Verwijderen">
 <!ENTITY deleteButton.accesskey      "V">
 <!ENTITY searchDialogTitle.label     "Berichten zoeken">
-<!ENTITY conditionDesc.label         "Berichten zoeken die overeenkomen met:">
-<!ENTITY conditions.label            "Criteria">
 <!ENTITY results.label               "Resultaten">
 <!ENTITY fileHereMenu.label          "Hier opslaan">
 <!ENTITY fileHereMenu.accesskey      "H">
@@ -46,7 +42,6 @@
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Grootte">
 <!ENTITY junkStatusColumn.label "Ongewenst-berichtstatus">
-<!ENTITY linesColumn.label "Regels">
 <!ENTITY unreadColumn.label "Ongelezen">
 <!ENTITY totalColumn.label "Totaal">
 <!ENTITY readColumn.label "Gelezen">

@@ -1,17 +1,13 @@
 <!-- extracted from AccountManager.xul -->
 
-<!ENTITY accountManagerTitle.label "Akkountynstellings">
+<!ENTITY accountManagerTitle.label "Accountynstellings">
 
-<!ENTITY addAccountButton.label "Akkount tafoegje…">
+<!ENTITY addAccountButton.label "Account tafoegje…">
 <!ENTITY addAccountButton.accesskey "t">
 <!ENTITY setDefaultButton.label "Ynstelle as standert">
 <!ENTITY setDefaultButton.accesskey "Y">
-<!ENTITY duplicateButton.label "Duplikaat">
-<!ENTITY removeButton.label "Akkount fuortsmite">
+<!ENTITY removeButton.label "Account fuortsmite">
 <!ENTITY removeButton.accesskey "F">
-
-<!ENTITY nameCol.label "Namme">
-<!ENTITY duplicate.label "Duplikaat">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
