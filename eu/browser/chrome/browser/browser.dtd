@@ -233,10 +233,12 @@
 <!ENTITY viewPageInfoCmd.accesskey "I">
 <!ENTITY viewFrameInfoCmd.label "Ikusi markoaren informazioa">
 <!ENTITY viewFrameInfoCmd.accesskey "I">
-<!ENTITY showImageCmd.label "Erakutsi irudia">
-<!ENTITY showImageCmd.accesskey "S">
+<!ENTITY reloadImageCmd.label "Reload Image">
+<!ENTITY reloadImageCmd.accesskey "R">
 <!ENTITY viewImageCmd.label "Ikusi irudia">
 <!ENTITY viewImageCmd.accesskey "I">
+<!ENTITY viewVideoCmd.label "View Video">
+<!ENTITY viewVideoCmd.accesskey "I">
 <!ENTITY viewBGImageCmd.label "Ikusi atzeko planoko irudia">
 <!ENTITY viewBGImageCmd.accesskey "a">
 <!ENTITY setDesktopBackgroundCmd.label "Jarri idazmahaiaren atzeko planoan...">
@@ -264,8 +266,16 @@
 <!ENTITY sendLinkCmd.accesskey "d">
 <!ENTITY saveImageCmd.label "Gorde irudia honela...">
 <!ENTITY saveImageCmd.accesskey "g">
+<!ENTITY saveVideoCmd.label "Save Video As…">
+<!ENTITY saveVideoCmd.accesskey "v">
+<!ENTITY saveAudioCmd.label "Save Audio As…">
+<!ENTITY saveAudioCmd.accesskey "v">
 <!ENTITY sendImageCmd.label "Bidali irudia...">
 <!ENTITY sendImageCmd.accesskey "d">
+<!ENTITY sendVideoCmd.label "Send Video…">
+<!ENTITY sendVideoCmd.accesskey "n">
+<!ENTITY sendAudioCmd.label "Send Audio…">
+<!ENTITY sendAudioCmd.accesskey "n">
 <!ENTITY copyLinkCmd.label "Kopiatu loturaren helbidea">
 <!ENTITY copyLinkCmd.accesskey "k">
 <!ENTITY copyLinkTextCmd.label "Kopiatu loturaren testua">
@@ -274,6 +284,10 @@
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyImageContentsCmd.label "Kopiatu irudia">
 <!ENTITY copyImageContentsCmd.accesskey "k">
+<!ENTITY copyVideoURLCmd.label "Copy Video Location">
+<!ENTITY copyVideoURLCmd.accesskey "o">
+<!ENTITY copyAudioURLCmd.label "Copy Audio Location">
+<!ENTITY copyAudioURLCmd.accesskey "o">
 <!ENTITY blockImageCmd.accesskey "B">
 <!ENTITY metadataCmd.label "Propietateak">
 <!ENTITY metadataCmd.accesskey "P">
@@ -281,11 +295,26 @@
 <!ENTITY copyEmailCmd.accesskey "E">
 <!ENTITY thisFrameMenu.label "Marko hau">
 <!ENTITY thisFrameMenu.accesskey "h">
+<!-- Media (video/audio) controls -->
+
+<!ENTITY mediaPlay.label "Play">
+<!ENTITY mediaPlay.accesskey "P">
+<!ENTITY mediaPause.label "Pause">
+<!ENTITY mediaPause.accesskey "P">
+<!ENTITY mediaMute.label "Mute">
+<!ENTITY mediaMute.accesskey "M">
+<!ENTITY mediaUnmute.label "Unmute">
+<!ENTITY mediaUnmute.accesskey "m">
+<!ENTITY mediaShowControls.label "Show Controls">
+<!ENTITY mediaShowControls.accesskey "C">
+<!ENTITY mediaHideControls.label "Hide Controls">
+<!ENTITY mediaHideControls.accesskey "C">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
+
 
 
 <!ENTITY fullZoomEnlargeCmd.label "Gerturatu">

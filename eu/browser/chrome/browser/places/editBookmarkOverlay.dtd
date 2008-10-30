@@ -21,3 +21,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label "Kargatu laster-marka alboko barran">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey "a">
 <!ENTITY editBookmarkOverlay.choose.label "Hautatu…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label "New Folder">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey "N">
