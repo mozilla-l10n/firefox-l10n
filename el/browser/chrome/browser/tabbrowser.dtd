@@ -18,3 +18,5 @@
 <!ENTITY  bookmarkThisTab.label       "Η καρτέλα ως σελιδοδείκτης">
 <!ENTITY  bookmarkThisTab.accesskey   "σ">
 
+<!ENTITY  newTabButton.tooltip        "Άνοιγμα μιας νέας καρτέλας">
+

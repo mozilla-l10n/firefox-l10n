@@ -1,9 +1,3 @@
-<!ENTITY newPagesIn.label             "Οι νέες σελίδες θα ανοίγουν σε:">
-
-<!ENTITY inNewWindow.label            "ένα νέο παράθυρο">
-<!ENTITY inNewWindow.accesskey        "θ">
-<!ENTITY inNewTab.label               "μια νέα καρτέλα">
-<!ENTITY inNewTab.accesskey           "τ">
 
 <!ENTITY showTabBar.label             "Πάντα εμφάνιση της εργαλειοθήκης καρτελών">
 <!ENTITY showTabBar.accesskey         "φ">
@@ -16,3 +10,9 @@
 
 <!ENTITY warnOpenManyTabs.label       "Προειδοποίηση στο άνοιγμα πολλαπλών καρτελών που μπορεί να επιβραδύνουν τον &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "ο">
+
+
+<!ENTITY newWindowsAsTabs.label       "Άνοιγμα νέων παραθύρων σε νέα καρτέλα">
+<!ENTITY newWindowsAsTabs.accesskey   "τ">
+
+

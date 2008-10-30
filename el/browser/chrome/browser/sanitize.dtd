@@ -12,8 +12,7 @@
 <!ENTITY itemCookies.accesskey        "C">
 <!ENTITY itemCache.accesskey          "θ">
 <!ENTITY itemDownloads.accesskey      "ψ">
-<!ENTITY itemSessions.label           "Συνεδρίες με σύνδεση">
-<!ENTITY itemSessions.accesskey       "υ">
+
 <!ENTITY itemFormSearchHistory.label  "Αποθηκευμένες φόρμες και ιστορικό αναζήτησης">
  <!ENTITY itemFormSearchHistory.accesskey "φ">
 
@@ -22,4 +21,7 @@
 
 <!ENTITY itemOfflineApps.label        "Δεδομένα ιστοσελίδων για εργασία χωρίς σύνδεση">
 <!ENTITY itemOfflineApps.accesskey    "δ">
+
+<!ENTITY itemActiveLogins.label       "Ενεργές συνεδρίες">
+<!ENTITY itemActiveLogins.accesskey   "υ">
 

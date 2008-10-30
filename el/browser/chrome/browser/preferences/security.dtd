@@ -8,17 +8,6 @@
   useDownloadedList.label convey the meaning "suspected" (and not something like
   "known").
 -->
-<!ENTITY  tellMaybeAttackSite.label     "Προειδοποίηση αν η σελίδα είναι ύποπτη για κακόβουλες επιθέσεις">
-<!ENTITY  tellMaybeAttackSite.accesskey "θ">
-
-
-<!ENTITY  tellMaybeForgery.label     "Προειδοποίηση για το αν η σελίδα ανήκει στις ύποπτες για πλαστογραφία σελίδες">
-<!ENTITY  tellMaybeForgery.accesskey "δ">
-
-
-
-
-
 
 <!ENTITY  passwords.label               "Κωδικοί">
 
@@ -46,3 +35,10 @@
 
 <!ENTITY  warningSettings.label         "Ρυθμίσεις...">
 <!ENTITY  warningSettings.accesskey     "θ">
+
+<!ENTITY  blockAttackSites.label     "Φραγή σελίδων που έχουν αναφερθεί ως κακόβουλες">
+<!ENTITY  blockAttackSites.accesskey "κ">
+
+<!ENTITY  blockWebForgeries.label     "Φραγή σελίδων που έχουν αναφερθεί ως πλαστές">
+<!ENTITY  blockWebForgeries.accesskey "φ">
+
