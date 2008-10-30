@@ -4,7 +4,6 @@
 <!ENTITY window.unixWidth "41em">
 <!ENTITY language.label "Caratteri per:">
 <!ENTITY language.accesskey "t">
-<!ENTITY typefaces.label "Carattere visualizzato">
 <!ENTITY sizes.label "Dimensione (px)">
 <!ENTITY proportionalSize.accesskey "e">
 <!ENTITY monospaceSize.accesskey "x">
@@ -16,7 +15,6 @@
 <!ENTITY sans-serif.accesskey "n">
 <!ENTITY monospace.label "Larghezza fissa:">
 <!ENTITY monospace.accesskey "L">
-<!ENTITY fontsize.units "pixel">
 <!ENTITY font.langGroup.latin1 "Occidentale">
 <!ENTITY font.langGroup.latin2 "Centro europeo">
 <!ENTITY font.langGroup.japanese "Giapponese">
@@ -49,7 +47,6 @@
 <!ENTITY minSize.none "Nessuna">
 <!ENTITY useDefaultFontSerif.label "Con grazie">
 <!ENTITY useDefaultFontSansSerif.label "Senza grazie">
-<!ENTITY newLanguages.label "Nuove lingue possono essere configurate usando il Pannello Lingue.">
 <!ENTITY useDocumentFonts.label "Consenti ai messaggi di usare altri caratteri">
 <!ENTITY useDocumentFonts.accesskey "o">
 <!ENTITY sendDefaultCharset.label "Posta in uscita:">

@@ -16,7 +16,6 @@
 <!ENTITY messageIdField2.label "message-id ">
 <!ENTITY inReplyToField2.label "in risposta a">
 <!ENTITY originalWebsite2.label "sito web">
-<!ENTITY saveAll.label "Salva tutti..">
 <!ENTITY editMessageDescription.label "Questa è una bozza">
 <!ENTITY editMessageButton.label "Modifica…">
 <!ENTITY replyButton.label "rispondi…">

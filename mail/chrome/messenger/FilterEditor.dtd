@@ -15,8 +15,6 @@
 <!ENTITY contextBoth.label "durante il controllo della posta o in modalità manuale">
 <!ENTITY filterActionDesc.label "Esegui queste azioni:">
 <!ENTITY filterActionDesc.accesskey "E">
-<!ENTITY newFolderButton.label "Nuova cartella…">
-<!ENTITY newFolderButton.accesskey "N">
 <!ENTITY moveMessage.label "Sposta i messaggi in">
 <!ENTITY copyMessage.label "Copia il messaggio in">
 <!ENTITY forwardTo.label "Inoltra il messaggio a:">

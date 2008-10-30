@@ -1,5 +1,4 @@
 <!ENTITY dialog.title "Ricevute di ritorno">
-<!ENTITY receiptSettings.label "Ricevute di ritorno">
 <!ENTITY requestReceipt.label "Quando si spediscono i messaggi chiedere sempre la ricevuta di ritorno">
 <!ENTITY requestReceipt.accesskey "Q">
 <!ENTITY receiptArrive.label "Quando arriva una ricevuta:">
