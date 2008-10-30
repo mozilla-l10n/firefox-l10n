@@ -21,3 +21,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label         "Laaditakse külgribal">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey     "d">
 <!ENTITY editBookmarkOverlay.choose.label                "Vali…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label       "Uus kaust">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey   "U">
