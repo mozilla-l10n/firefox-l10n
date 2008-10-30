@@ -10,10 +10,10 @@
 <!ENTITY preferencesCmd.modifiers       "accel">
 <!ENTITY servicesMenu.label             "Servicios">
 <!ENTITY hideThisAppCmd.label           "Ocultar &brandShortName;">
-<!ENTITY hideThisAppCmd.key             "O">
+<!ENTITY hideThisAppCmd.key             "H">
 <!ENTITY hideThisAppCmd.modifiers       "accel">
 <!ENTITY hideOtherAppsCmd.label         "Ocultar otros">
-<!ENTITY hideOtherAppsCmd.key           "O">
+<!ENTITY hideOtherAppsCmd.key           "H">
 <!ENTITY hideOtherAppsCmd.modifiers     "accel,alt">
 <!ENTITY showAllAppsCmd.label           "Mostrar todo">
 <!ENTITY quitApplicationCmd.label       "Salir de &brandShortName;"> 
