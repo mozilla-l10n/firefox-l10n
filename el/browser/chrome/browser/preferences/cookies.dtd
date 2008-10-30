@@ -22,8 +22,6 @@
 
 <!ENTITY     filter.label                   "Αναζήτηση:">
 <!ENTITY     filter.accesskey               "ζ">
-<!ENTITY     clear.label                    "Εκκαθάριση">
-<!ENTITY     clear.accesskey                "θ">
 
 <!ENTITY     button.close.label             "Κλείσιμο">
 <!ENTITY     button.close.accesskey         "Κ">

@@ -5,12 +5,9 @@
 <!ENTITY  focusSearch1.key        "f">
 <!ENTITY  focusSearch2.key        "k">
 
-<!ENTITY  filter.label            "Αναζήτηση:">
-<!ENTITY  filter.accesskey        "ζ">
-
-<!ENTITY  clear.label             "Εκκαθάριση">
-<!ENTITY  clear.accesskey         "κ">
 
 <!ENTITY  actionColumn2.label     "Ενέργεια">
 <!ENTITY  actionColumn2.accesskey "Ε">
+
+<!ENTITY  filter.emptytext        "Αναζήτηση">
 

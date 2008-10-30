@@ -5,6 +5,7 @@
 <!ENTITY removepermission.label       "Απομάκρυνση σελίδας">
 <!ENTITY removeallpermissions.label   "Απομάκρυνση όλων των σελίδων">
 <!ENTITY address.label                "Διεύθυνση ή ιστοσελίδα:">
+<!ENTITY address.accesskey            "Δ">
 <!ENTITY block.label                  "Φραγή">
 <!ENTITY session.label                "Να επιτρέπεται μόνο για τη συνεδρία">
 <!ENTITY allow.label                  "Να επιτρέπεται">

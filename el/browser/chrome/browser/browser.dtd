@@ -120,7 +120,7 @@
 <!ENTITY newNavigatorCmd.accesskey "Ν">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.label "Νέο παράθυρο">
-<!ENTITY newTabButton.tooltip "Ανοίγει μια νέα καρτέλα">
+
 <!ENTITY newWindowButton.tooltip "Ανοίγει ένα νέο παράθυρο">
 
 <!ENTITY openCmd.commandkey "l">
@@ -329,8 +329,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY addCurPagesCmd.label "Όλες οι καρτέλες ως σελιδοδείκτης...">
 
 
-<!ENTITY showImageCmd.label           "Προβολή εικόνας">
-<!ENTITY showImageCmd.accesskey       "β">
+
 <!ENTITY copyLinkTextCmd.label        "Αντιγραφή κειμένου δεσμού">
 <!ENTITY copyLinkTextCmd.accesskey    "μ">
 
@@ -378,6 +377,42 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY organizeBookmarks.label "Οργάνωση σελιδοδεικτών…">
 <!ENTITY backForwardMenu.tooltip      "Πρόσφατες σελίδες">
+
+<!ENTITY copyVideoURLCmd.label        "Αντιγραφή τοποθεσίας βίντεο">
+<!ENTITY copyVideoURLCmd.accesskey    "γ">
+<!ENTITY copyAudioURLCmd.label        "Αντιγραφή τοποθεσίας ήχου">
+<!ENTITY copyAudioURLCmd.accesskey    "γ">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "Αναπαραγωγή">
+<!ENTITY mediaPlay.accesskey         "π">
+<!ENTITY mediaPause.label            "Παύση">
+<!ENTITY mediaPause.accesskey        "η">
+<!ENTITY mediaMute.label             "Σίγαση">
+<!ENTITY mediaMute.accesskey         "Σ">
+<!ENTITY mediaUnmute.label           "Άρση σίγασης">
+<!ENTITY mediaUnmute.accesskey       "ρ">
+<!ENTITY mediaShowControls.label     "Εμφάνιση κουμπιών">
+<!ENTITY mediaShowControls.accesskey "φ">
+<!ENTITY mediaHideControls.label     "Απόκρυψη κουμπιών">
+<!ENTITY mediaHideControls.accesskey "ψ">
+
+
+<!ENTITY reloadImageCmd.label         "Ανανέωση εικόνας">
+<!ENTITY reloadImageCmd.accesskey     "ν">
+
+<!ENTITY saveAudioCmd.label           "Αποθήκευση ήχου ως…">
+<!ENTITY saveAudioCmd.accesskey       "θ">
+
+<!ENTITY saveVideoCmd.label           "Αποθήκευση βίντεο ως…">
+<!ENTITY saveVideoCmd.accesskey       "θ">
+
+<!ENTITY sendVideoCmd.label           "Αποστολή βίντεο…">
+<!ENTITY sendVideoCmd.accesskey       "λ">
+<!ENTITY sendAudioCmd.label           "Αποστολή ήχου…">
+<!ENTITY sendAudioCmd.accesskey       "λ">
+
+
 
 
 

@@ -40,8 +40,6 @@
 
 <!ENTITY  generalTab            "Γενικά">
 <!ENTITY  generalTab.accesskey  "Γ">
-<!ENTITY  generalSecurityMore   "Περισσότερα">
-<!ENTITY  generalSecurityMore.accesskey "ι">
 <!ENTITY  mediaTab.accesskey    "μ">
 <!ENTITY  mediaSize             "Μέγεθος">
 <!ENTITY  mediaBlockImage.accesskey "α">
@@ -138,4 +136,9 @@
 <!ENTITY  mediaLocation         "Τοποθεσία:">
 <!ENTITY  mediaText             "Σχετικό κείμενο:">
 <!ENTITY  mediaDimension        "Διαστάσεις:">
+
+<!ENTITY  generalSecurityDetails   "Λεπτομέρειες">
+<!ENTITY  generalSecurityDetails.accesskey "π">
+
+
 
