@@ -14,7 +14,9 @@
 <!ENTITY itemOfflineApps.accesskey    "מ">
 <!ENTITY itemDownloads.label "היסטוריית הורדות">
 <!ENTITY itemDownloads.accesskey "ה">
-<!ENTITY itemSessions.label "חיבורים מאומתים">
-<!ENTITY itemSessions.accesskey "ח">
+<!-- ### ENTITY itemSessions.label "חיבורים מאומתים" -->
+<!-- ### ENTITY itemSessions.accesskey "ח" -->
 <!ENTITY clearDataSettings.label      "כאשר אני מבקש מ־&brandShortName; לנקות את הנתונים האישיים שלי, זה ימחוק את:">
+<!ENTITY itemActiveLogins.label       "התחברויות פעילות">
+<!ENTITY itemActiveLogins.accesskey   "ח">
 <!ENTITY window.width                 "30em">

@@ -182,8 +182,10 @@
 <!ENTITY viewFrameInfoCmd.label "הצג מידע אודות המסגרת">
 <!ENTITY viewFrameInfoCmd.accesskey "ד">
 
-<!ENTITY showImageCmd.label           "הצג תמונה">
-<!ENTITY showImageCmd.accesskey       "ה">
+<!-- ### ENTITY showImageCmd.label           "הצג תמונה" -->
+<!-- ### ENTITY showImageCmd.accesskey       "ה" -->
+<!ENTITY reloadImageCmd.label         "טען מחדש תמונה">
+<!ENTITY reloadImageCmd.accesskey     "ת">
 
 <!ENTITY viewImageCmd.label "הצג תמונה">
 <!ENTITY viewImageCmd.accesskey "צ">
