@@ -222,6 +222,8 @@
 <!ENTITY reloadFrameCmd.accesskey     "n">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Boarne fan seleksje besjen">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML-boarne besjen">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "B">
 <!ENTITY viewPageSourceCmd.label      "Sideboarne besjen">
 <!ENTITY viewPageSourceCmd.accesskey  "b">
@@ -231,8 +233,8 @@
 <!ENTITY viewPageInfoCmd.accesskey    "Y">
 <!ENTITY viewFrameInfoCmd.label       "Dielfinsterynfo besjen">
 <!ENTITY viewFrameInfoCmd.accesskey   "Y">
-<!ENTITY showImageCmd.label           "Toan ôfbylding">
-<!ENTITY showImageCmd.accesskey       "T">
+<!ENTITY reloadImageCmd.label         "Ofbylding op 'e nij lade">
+<!ENTITY reloadImageCmd.accesskey     "l">
 <!ENTITY viewImageCmd.label           "Ofbylding besjen">
 <!ENTITY viewImageCmd.accesskey       "f">
 <!ENTITY viewBGImageCmd.label         "Eftergrûnôfbylding besjen">
@@ -262,8 +264,16 @@
 <!ENTITY sendLinkCmd.accesskey        "s">
 <!ENTITY saveImageCmd.label           "Ofbylding bewarje as...">
 <!ENTITY saveImageCmd.accesskey       "n">
+<!ENTITY saveVideoCmd.label           "Bewarje fideo as...">
+<!ENTITY saveVideoCmd.accesskey       "f">
+<!ENTITY saveAudioCmd.label           "Bewarje audio as...">
+<!ENTITY saveAudioCmd.accesskey       "a">
 <!ENTITY sendImageCmd.label           "Ofbylding ferstjoere...">
 <!ENTITY sendImageCmd.accesskey       "s">
+<!ENTITY sendVideoCmd.label           "Stjoer fideo…">
+<!ENTITY sendVideoCmd.accesskey       "t">
+<!ENTITY sendAudioCmd.label           "Stjoer audio…">
+<!ENTITY sendAudioCmd.accesskey       "o">
 <!ENTITY copyLinkCmd.label            "Keppelingslokaasje kopiearje">
 <!ENTITY copyLinkCmd.accesskey        "p">
 <!ENTITY copyLinkTextCmd.label        "Kopiearje keppelingstekst">
@@ -272,6 +282,10 @@
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Ofbylding kopiearje">
 <!ENTITY copyImageContentsCmd.accesskey  "k">
+<!ENTITY copyVideoURLCmd.label        "Kopiearje fideolokaasje">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Kopiearje audiolokaasje">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY blockImageCmd.accesskey       "b">
 <!ENTITY metadataCmd.label            "Eigenskippen">
 <!ENTITY metadataCmd.accesskey        "E">
@@ -279,6 +293,21 @@
 <!ENTITY copyEmailCmd.accesskey       "m">
 <!ENTITY thisFrameMenu.label              "Dit dielfinster">
 <!ENTITY thisFrameMenu.accesskey          "D">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "Spylje">
+<!ENTITY mediaPlay.accesskey         "S">
+<!ENTITY mediaPause.label            "Pauze">
+<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaMute.label             "Lûd út">
+<!ENTITY mediaMute.accesskey         "L">
+<!ENTITY mediaUnmute.label           "Lûd oan">
+<!ENTITY mediaUnmute.accesskey       "o">
+<!ENTITY mediaShowControls.label     "Toan knoppen">
+<!ENTITY mediaShowControls.accesskey "T">
+<!ENTITY mediaHideControls.label     "Ferstop knoppen">
+<!ENTITY mediaHideControls.accesskey "F">
+
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and

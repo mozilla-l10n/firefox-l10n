@@ -22,10 +22,9 @@
 <!ENTITY printButton.tooltip            "Dizze side ôfdrukke">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY searchtab.label               "Sykje">
-<!ENTITY searchtab.accesskey            "S">
-<!ENTITY searchClose.tooltip            "Sykrisseltaten slute">
-<!ENTITY toctab.label                  "Ynhâld">
+<!ENTITY search.emptytext               "Sykje">
+<!ENTITY searchHeader.label             "Sykrisseltaten">
+<!ENTITY toctab.label                   "Ynhâld">
 <!ENTITY toctab.accesskey               "Y">
 
 <!-- LOCALIZATION NOTE :

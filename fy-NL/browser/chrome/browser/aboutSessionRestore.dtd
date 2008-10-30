@@ -1,16 +1,18 @@
-<!ENTITY restorepage.title          "Werstel foargeande sesje">
-<!ENTITY restorepage.titletext      "Jo lêste &brandShortName; sesje is ûnferwacht sluten">
-<!ENTITY restorepage.shortDesc      "Jo kinne de ljepblêden en skermen werstelle fan jo foargeande sesje, of in nije sesje starte as jo tinke dat jo se net mear nedich hawwe. Us ferontskuligings foar it ûngemak.">
-<!ENTITY restorepage.remedies       "As &brandShortName; faker slút:">
-<!ENTITY restorepage.dueToChrome    "Besykje resint ynstallearre útwreidings út te skeakeljen yn de tafoegingsbehearder.">
-<!ENTITY restorepage.dueToContent   "Besykje jo sesje te werstellen sûnder websiden wêrfan jo tinke dat se problemen feroarsaakje:">
+<!ENTITY restorepage.tabtitle			"Werstel foargeande sesje">
+<!ENTITY restorepage.pagetitle			"Wolle jo jo sesje werstelle?">
+<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
+                        you may translate "crash" instead (even though it's IT-speak) -->
+<!ENTITY restorepage.issueDesc			"Jo foarige &brandShortName; sesje is ûnferwacht ôfsluten. Us ferûntskuldigings foar it ûngemak. Jo kinne de ljepblêden en skermen werstelle fan jo foargeande sesje, of in nije sesje starte as jo tinke dat jo se net mear nedich hawwe.">
+<!ENTITY restorepage.remedies			"As &brandShortName; faker slút:">
+<!ENTITY restorepage.dueToChrome		"Besykje resint ynstallearre útwreidings út te skeakeljen yn de tafoegingsbehearder.">
+<!ENTITY restorepage.dueToContent		"Besykje jo sesje te werstellen sûnder websiden wêrfan jo tinke dat se problemen feroarsaakje:">
 
-<!ENTITY restorepage.restoreButton  "Westel foargeande sesje">
-<!ENTITY restorepage.restore.access "W">
-<!ENTITY restorepage.cancelButton   "Start nije sesje">
-<!ENTITY restorepage.cancel.access  "S">
+<!ENTITY restorepage.restoreButton		"Westel foargeande sesje">
+<!ENTITY restorepage.restore.access		"W">
+<!ENTITY restorepage.cancelButton		"Start nije sesje">
+<!ENTITY restorepage.cancel.access		"S">
 
-<!ENTITY restorepage.restoreHeader  "Werstel">
-<!ENTITY restorepage.listHeader     "Skermen en ljepblêden">
+<!ENTITY restorepage.restoreHeader		"Werstel">
+<!ENTITY restorepage.listHeader			"Skermen en ljepblêden">
 <!-- LOCALIZATION NOTE: %S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Skerm #&#37;S">
+<!ENTITY restorepage.windowLabel		"Skerm #&#37;S">

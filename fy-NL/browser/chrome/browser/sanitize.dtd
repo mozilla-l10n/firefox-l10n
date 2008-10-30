@@ -19,6 +19,6 @@
 <!ENTITY itemOfflineApps.accesskey    "W">
 <!ENTITY itemDownloads.label          "Ynlaadskiednis">
 <!ENTITY itemDownloads.accesskey      "D">
-<!ENTITY itemSessions.label           "Autentisearre sesjes">
-<!ENTITY itemSessions.accesskey       "s">
+<!ENTITY itemActiveLogins.label       "Aktieve lochyns">
+<!ENTITY itemActiveLogins.accesskey   "l">
 <!ENTITY window.width                 "30em">
