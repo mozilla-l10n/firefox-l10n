@@ -1,0 +1,52 @@
+<!ENTITY blockPopups.label "بازداشتن پنجره‌های واشو">
+<!ENTITY blockPopups.accesskey "ب">
+<!ENTITY popupExceptions.label "استثناها...">
+<!ENTITY popupExceptions.accesskey "ا">
+
+<!ENTITY loadImages.label "بارگیری تصاویر به طور خودکار">
+<!ENTITY loadImages.accesskey "ت">
+<!ENTITY exceptions.label "استثناها...">
+<!ENTITY exceptions.accesskey "س">
+
+<!ENTITY enableJavaScript.label "فعال بودن جاوا اسکریپت">
+<!ENTITY enableJavaScript.accesskey "ج">
+<!ENTITY advancedJS.label "پیشرفته...">
+<!ENTITY advancedJS.accesskey "پ">
+
+<!ENTITY enableJava.label "فعال بودن جاوا">
+<!ENTITY enableJava.accesskey "ج">
+
+
+<!ENTITY fontsAndColors.label "قلم‌ها و رنگ‌ها">
+
+<!ENTITY defaultFont.label "قلم پیش‌فرض:">
+<!ENTITY defaultFont.accesskey "پ">
+<!ENTITY defaultSize.label "اندازه:">
+<!ENTITY defaultSize.accesskey "ن">
+
+<!ENTITY advancedFonts.label "پیشرفته...">
+<!ENTITY advancedFonts.accesskey "پ">
+
+<!ENTITY colors.label "رنگ‌ها...">
+<!ENTITY colors.accesskey "ر">
+
+
+<!ENTITY feeds.label "خوردها:">
+
+<!ENTITY feedReader.label "خوردخوان:">
+<!ENTITY feedReader.accesskey "خ">
+
+<!ENTITY feedClick.label "هنگامی که روی یک خورد وبی کلیک می‌شود:">
+<!ENTITY ask.label "سؤال شود">
+<!ENTITY ask.accesskey "س">
+<!ENTITY subLiveBookmark.label "همیشه با چوب‌الفِ زنده آبونه شود">
+<!ENTITY subLiveBookmark.accesskey "چ">
+<!ENTITY subReader.label "همیشه با خوردخوان آبونه شود">
+<!ENTITY subReader.accesskey "خ">
+
+
+<!ENTITY fileTypes.label "انواع پرونده‌ها">
+
+<!ENTITY configureFileTypes.label "پیکربندی چگونگی برخورد با انواع فایل‌ها توسط &brandShortName;">
+<!ENTITY manage.label "مدیریت...">
+<!ENTITY manage.accesskey "م">

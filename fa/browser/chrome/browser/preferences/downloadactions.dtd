@@ -1,0 +1,32 @@
+<!ENTITY downloadactionsWindow.title "کنش‌های بارگیری">
+<!ENTITY window.width "480">
+<!ENTITY window.height "310">
+
+<!ENTITY fileTypesDescription.label "کنش مربوط با هر یک انواع پرونده‌های زیر به طور خودکار اجرا شود:">
+
+<!ENTITY fileHandlerColumn.label "کنش">
+<!ENTITY fileHandlerColumn.accesskey "ک">
+<!ENTITY fileTypeColumn.label "نوع پرونده">
+<!ENTITY fileTypeColumn.accesskey "پ">
+<!ENTITY fileMIMETypeColumn.label "نوع MIME">
+<!ENTITY fileMIMETypeColumn.accesskey "ن">
+<!ENTITY fileExtensionColumn.label "ضمیمه">
+<!ENTITY fileExtensionColumn.accesskey "ض">
+
+<!ENTITY remove.label "حذف کنش">
+<!ENTITY remove.accesskey "ح">
+<!ENTITY edit.label "تغییر کنش...">
+<!ENTITY edit.accesskey "ت">
+
+<!ENTITY windowClose.key "w">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+
+<!ENTITY filter.label "جستجو:">
+<!ENTITY filter.accesskey "ج">
+<!ENTITY clear.label "پاک کردن">
+<!ENTITY clear.accesskey "پ">
+
+<!ENTITY button.close.label "بستن">
+<!ENTITY button.close.accesskey "ب">
+

@@ -1,0 +1,27 @@
+<!ENTITY safeb.palm.warning.title "جعل وبی احتمالی">
+
+<!ENTITY safeb.palm.message.p1 "گزارش شده است که این صفحه یک جعل وبی برای گول زدن کاربران به منظور گرفتن اطلاعات خصوصی و مالی آن‌ها است. وارد کردن هرگونه اطلاعات شخصی در این صفحه ممکن است به دزدی هویت یا کلاه‌برداری‌های دیگری منجر شود. &#160;">
+<!ENTITY safeb.palm.message.p1.linkText "اطلاعات بیشتر &gt;&gt;">
+<!ENTITY safeb.palm.p1.linkStatusText "اطلاعات بیشتر &#133;">
+
+<!ENTITY safeb.palm.message.p2.start "این نوع از جعل وبی نقشه‌ای است برای حقهٔ ماهی‌گیری، که در آن صفحات وب یا نامه‌های الکترونیکی جعلی سعی در شبیه بودن به منابع مورد اعتماد شما را دارند. اطلاعات بیشتر در مورد ">
+<!ENTITY safeb.palm.message.p2.linkText "چگونگی محافظت &brandShortName; از شما">
+<!ENTITY safeb.palm.message.p2.end "در مقابل حقّه‌های ماهی‌گیری.">
+
+<!ENTITY safeb.palm.accept.label "ترک این مکان!">
+<!ENTITY safeb.palm.accept.statustext "هدایت به صفحهٔ آغازه">
+<!ENTITY safeb.palm.decline.label "این هشدار نادیده گرفته شود">
+<!ENTITY safeb.palm.decline.statustext "بستن هشدار">
+<!ENTITY safeb.palm.notforgery.label "این صفحه جعل وبی نیست">
+
+<!ENTITY safeb.palm.addbutton.label "اضافه کردن به فهرست سیاه">
+<!ENTITY safeb.palm.addbutton.tooltip "اضافه کردن به فهرست سیاه">
+
+<!ENTITY safeb.palm.toolmenu.label "مرور کردنِ امن">
+<!ENTITY safeb.palm.toolmenu.pref.label "ترجیحات...">
+<!ENTITY safeb.palm.toolmenu.reportphishing.label "گزارش وب‌گاه فریبکار...">
+<!ENTITY safeb.palm.toolmenu.showphishingtestpage.label "باز کردن صفحهٔ آزمایش">
+
+<!ENTITY safeb.palm.provider.logo.tooltip "هشدار از طرف «مرور کردن امن»‏">
+
+<!ENTITY safeb.urlbaricon.tooltip "امکان دارد این صفحه خطرناک باشد؛ برای جزئیات اینجا کلیک کنید.">

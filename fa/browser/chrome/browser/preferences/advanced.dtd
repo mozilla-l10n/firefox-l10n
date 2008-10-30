@@ -1,0 +1,90 @@
+<!-- Note: due to bug 143065, the only remaining accesskeys available to be used
+     in the Advanced pane are: "b", "j", "q", "z" -->
+
+<!ENTITY generalTab.label "عمومی">
+
+<!ENTITY accessibility.label "دسترسی‌پذیری">
+
+<!ENTITY useCursorNavigation.label "در مرور صفحات همیشه از مکان‌نما استفاده شود">
+<!ENTITY useCursorNavigation.accesskey "م">
+<!ENTITY searchStartTyping.label "هنگامی که شروع به وارد کردن حروف می‌کنم، به دنبال متن جستجو شود">
+<!ENTITY searchStartTyping.accesskey "ج">
+
+<!ENTITY browsing.label "مرور">
+
+<!ENTITY useAutoScroll.label "استفاده از لغزش خودکار">
+<!ENTITY useAutoScroll.accesskey "ل">
+<!ENTITY useSmoothScrolling.label "استفاده از لغزش هموار">
+<!ENTITY useSmoothScrolling.accesskey "ه">
+<!ENTITY checkSpelling.label "بررسی املا در هنگام وارد کردن متن">
+<!ENTITY checkSpelling.accesskey "م">
+
+<!ENTITY languages.label "زبان‌ها">
+
+<!ENTITY chooseLanguage.label "زبان ترجیحیِ خود برای صفحات را انتخاب کنید">
+<!ENTITY chooseButton.label "انتخاب...">
+<!ENTITY chooseButton.accesskey "ا">
+
+
+<!ENTITY networkTab.label "شبکه">
+
+<!ENTITY connection.label "اتصال">
+
+<!ENTITY connectionDesc.label "چگونگی اتصال &brandShortName; به اینترنت را پیکربندی کنید">
+<!ENTITY connectionSettings.label "تنظیمات...">
+<!ENTITY connectionSettings.accesskey "ت">
+
+<!ENTITY cache.label "حافظهٔ نهان">
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+
+<!ENTITY useCacheBefore.label "استفاده تا حداکثر">
+<!ENTITY useCacheBefore.accesskey "ا">
+<!ENTITY useCacheAfter.label "مگابایت از فضای دیسک برای حافظهٔ نهان.">
+
+
+<!ENTITY updateTab.label "به‌هنگام‌سازی">
+
+<!ENTITY autoCheck.label "بررسی متناوب برای به‌هنگام‌سازی:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "ف">
+<!ENTITY enableAddonsUpdate.label "افزودنی‌های نصب‌شده">
+<!ENTITY enableAddonsUpdate.accesskey "ا">
+<!ENTITY enableSearchUpdate.label "موتورهای جستجو">
+<!ENTITY enableSearchUpdate.accesskey "م">
+<!ENTITY whenUpdatesFound.label "هنگامی که به‌هنگام‌سازی برای &brandShortName; موجود بود:">
+<!ENTITY askMe.label "سؤال شود تا تصمیم بگیرم">
+<!ENTITY askMe.accesskey "س">
+<!ENTITY modeAutomatic.label "به‌هنگام‌سازی‌های به طور خودکار بارگیری و نصب شود.">
+<!ENTITY modeAutomatic.accesskey "ب">
+<!ENTITY modeAutoAddonWarn.label "در صورتی که این کار باعث از کار افتادن افزودنی‌ها می‌شود اخطار داده شود">
+<!ENTITY modeAutoAddonWarn.accesskey "خ">
+<!ENTITY updateHistory.label "نمایش تاریخچهٔ به‌هنگام‌سازی">
+<!ENTITY updateHistory.accesskey "ت">
+
+
+<!ENTITY encryptionTab.label "رمزنگاری">
+
+<!ENTITY protocols.label "قراردادها">
+<!ENTITY useSSL3.label "استفاده از SSL 3.0">
+<!ENTITY useSSL3.accesskey "3">
+<!ENTITY useTLS1.label "استفاده از TLS 1.0">
+<!ENTITY useTLS1.accesskey "1">
+<!ENTITY certificates.label "گواهی‌ها">
+<!ENTITY certselect.description "هنگامی که وب‌گاهی به گواهی احتیاج دارد:">
+<!ENTITY certs.auto "به طور خودکار انتخاب شود">
+<!ENTITY certs.auto.accesskey "خ">
+<!ENTITY certs.ask "هر بار پرسیده شود">
+<!ENTITY certs.ask.accesskey "ه">
+<!ENTITY viewCerts.label "نمایش گواهی‌ها">
+<!ENTITY viewCerts.accesskey "ن">
+<!ENTITY viewCRLs.label "فهرست‌های ابطال">
+<!ENTITY viewCRLs.accesskey "ط">
+<!ENTITY verify.label "تأیید کردن">
+<!ENTITY verify.accesskey "ت">
+<!ENTITY viewSecurityDevices.label "دستگاه‌های امنیتی">
+<!ENTITY viewSecurityDevices.accesskey "س">

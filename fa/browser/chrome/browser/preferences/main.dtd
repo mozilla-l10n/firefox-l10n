@@ -1,0 +1,48 @@
+<!ENTITY startup.label "راه‌اندازی">
+
+<!ENTITY startupPage.label "هنگام شروع &brandShortName;:">
+<!ENTITY startupPage.accesskey "ه">
+<!ENTITY startupHomePage.label "نمایش صفحهٔ آغازه">
+<!ENTITY startupBlankPage.label "نمایش صفحهٔ خالی">
+<!ENTITY startupLastSession.label "نمایش صفحات و زبانه‌های قبلی">
+<!ENTITY location.label "صفحهٔ آغازه:">
+<!ENTITY location.accesskey "ص">
+<!ENTITY useCurrentPage.label "استفاده از صفحات فعلی">
+<!ENTITY useCurrentPage.accesskey "ف">
+<!ENTITY useMultiple.label "استفاده از صفحات فعلی">
+<!ENTITY useBookmark.label "استفاده از چوب‌الف">
+<!ENTITY useBookmark.accesskey "چ">
+<!ENTITY restoreDefault.label "مقدار پیش‌فرض">
+<!ENTITY restoreDefault.accesskey "پ">
+
+<!ENTITY downloads.label "بارگیری‌ها">
+
+<!ENTITY showWhenDownloading.label "هنگام شروع بارگیری پنجرهٔ بارگیری‌ها نشان داده شود.">
+<!ENTITY showWhenDownloading.accesskey "ن">
+<!ENTITY closeWhenDone.label "پس از اتمام بارگیری‌ها بسته شود">
+<!ENTITY closeWhenDone.accesskey "ب">
+<!ENTITY saveTo.label "ذخیرهٔ پرونده در">
+<!ENTITY saveTo.accesskey "ذ">
+<!ENTITY chooseFolderWin.label "مرور...">
+<!ENTITY chooseFolderWin.accesskey "م">
+<!ENTITY chooseFolderMac.label "انتخاب...">
+<!ENTITY chooseFolderMac.accesskey "ا">
+<!ENTITY alwaysAsk.label "محل ذخیرهٔ هر پرونده سؤال شود">
+<!ENTITY alwaysAsk.accesskey "م">
+
+
+<!ENTITY systemDefaults.label "پیش‌فرض‌های سیستم">
+<!--XXX-->
+
+<!ENTITY alwaysCheckDefault.label "همیشه هنگام آغاز بررسی شود که &brandShortName; مرورگر پیش‌فرض است یا نه.">
+<!ENTITY alwaysCheckDefault.accesskey "ی">
+<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
+  There's some sort of bug which makes wrapping checkboxes not properly reflow,
+  causing the bottom border of the groupbox to be cut off; set this
+  appropriately if your localization causes this checkbox to wrap.
+-->
+
+<!ENTITY alwaysCheckDefault.height "3em">
+
+<!ENTITY checkNow.label "هم‌اکنون بررسی شود">
+<!ENTITY checkNow.accesskey "ک">

@@ -1,0 +1,20 @@
+<!ENTITY sanitizeDialog.title "پاک کردن اطلاعات خصوصی">
+
+<!ENTITY sanitizeItems.label "موارد زیر هم اکنون پاک شوند:">
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+
+<!ENTITY itemHistory.label "تاریخچهٔ مرور">
+<!ENTITY itemHistory.accesskey "م">
+<!ENTITY itemFormSearchHistory.label "فرم ذخیره‌شده و تاریخچهٔ جستجو">
+<!ENTITY itemFormSearchHistory.accesskey "ف">
+<!ENTITY itemPasswords.label "گذرواژه‌های ذخیره شده">
+<!ENTITY itemPasswords.accesskey "گ">
+<!ENTITY itemCookies.label "کوکی‌ها">
+<!ENTITY itemCookies.accesskey "ک">
+<!ENTITY itemCache.label "حافظهٔ نهان">
+<!ENTITY itemCache.accesskey "ح">
+<!ENTITY itemDownloads.label "تاریخچهٔ بارگیری">
+<!ENTITY itemDownloads.accesskey "ب">
+<!ENTITY itemSessions.label "نشست‌های تأیید شده">
+<!ENTITY itemSessions.accesskey "ن">

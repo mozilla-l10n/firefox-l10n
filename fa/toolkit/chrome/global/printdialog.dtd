@@ -1,0 +1,29 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "چاپ">
+
+<!ENTITY printDialog.title "چاپ">
+
+<!ENTITY fpDialog.title "ذخیرهٔ پرونده">
+
+<!ENTITY fileCheck.label "چاپ در پرونده">
+<!ENTITY propertiesButton.label "ویژگی‌ها...">
+<!ENTITY descText.label "شرح چاپگر:">
+<!ENTITY printer.label "چاپگر">
+<!ENTITY printerInput.label "نام چاپگر:">
+
+<!ENTITY printrangeGroup.label "محدودهٔ چاپ">
+<!ENTITY allpagesRadio.label "همهٔ صفحات">
+<!ENTITY rangeRadio.label "صفحات">
+<!ENTITY frompageInput.label "از">
+<!ENTITY topageInput.label "تا">
+<!ENTITY selectionRadio.label "انتخاب">
+
+<!ENTITY copies.label "نسخه">
+<!ENTITY numCopies.label "تعداد نسخه‌ها">
+
+<!ENTITY printframeGroup.label "چاپ چارچوب‌ها">
+<!ENTITY aslaidoutRadio.label "شبیه صفحهٔ نمایش">
+<!ENTITY selectedframeRadio.label "چارچوب انتخاب شده">
+<!ENTITY eachframesepRadio.label "هر چارچوب به طور جداگانه">
+

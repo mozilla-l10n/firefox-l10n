@@ -1,0 +1,116 @@
+<!ENTITY addons.title "افزودنی‌ها">
+<!-- Default window size for the addon manager in pixels -->
+
+<!ENTITY em.width "580">
+<!ENTITY em.height "380">
+
+<!ENTITY cmd.info.commandKey "i">
+<!ENTITY cmd.options.commandKey ",">
+<!ENTITY cmd.close.commandKey "w">
+<!-- View labels -->
+
+<!ENTITY extensions.label "ضمیمه‌ها">
+<!ENTITY themes.label "تم‌ها">
+<!ENTITY locales.label "زبان‌ها">
+<!ENTITY plugins.label "متصل شونده‌ها">
+<!ENTITY update.label "به‌هنگام‌سازی‌ها">
+<!ENTITY install.label "نصب">
+<!-- Command Bar items -->
+
+<!ENTITY cmd.checkUpdatesAll.label "یافتن به‌هنگام‌سازی‌ها">
+<!ENTITY cmd.checkUpdatesAll.accesskey "ی">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "به دنبال به‌هنگام‌سازی برای افزودنی‌های موجود می‌گردد">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "به دنبال به‌هنگام‌سازی برای تم‌های موجود می‌گردد">
+<!ENTITY cmd.installLocalFile.label "نصب...">
+<!ENTITY cmd.installFile.accesskey "ص">
+<!ENTITY cmd.installFileAddon.tooltip "افزودنی جدید نصب می‌کند">
+<!ENTITY cmd.installFileTheme.tooltip "تم جدید نصب می‌کند">
+<!ENTITY cmd.installUpdatesAll.label "نصب به‌هنگام‌سازی‌ها">
+<!ENTITY cmd.installUpdatesAll.accesskey "ن">
+<!ENTITY cmd.installUpdatesAll.tooltip "به‌هنگام‌سازی‌های انتخاب شده را نصب می‌کند">
+<!ENTITY cmd.restartApp.label "راه‌اندازی مجدد &brandShortName;">
+<!ENTITY cmd.restartApp.accesskey "ج">
+<!ENTITY cmd.restartApp.tooltip "راه‌اندازی مجدد &brandShortName; برای اتمام نصب">
+<!ENTITY cmd.skip.label "پرش">
+<!ENTITY cmd.skip.accesskey "پ">
+<!ENTITY cmd.skip.tooltip "پریدن از این به‌هنگام‌سازی‌ها">
+<!ENTITY cmd.continue.label "ادامه">
+<!ENTITY cmd.continue.accesskey "ا">
+<!ENTITY cmd.continue.tooltip "ادامهٔ بار کردن &brandShortName;">
+
+<!ENTITY cmd.enableAll.label "به کار انداختن همه">
+<!ENTITY cmd.enableAll.accesskey "ب">
+<!ENTITY cmd.enableAll.tooltip "به کار انداختن همهٔ افزودنی‌های مشهود">
+<!ENTITY cmd.disableAll.label "از کار انداختن همه">
+<!ENTITY cmd.disableAll.accesskey "ز">
+<!ENTITY cmd.disableAll.tooltip "از کار انداختن همهٔ  افزودنی‌های مشهود">
+<!-- Displayed in the selected Add-on's richlistitem and context menu -->
+
+<!ENTITY cmd.useTheme.label "استفاده از تم">
+<!ENTITY cmd.useTheme.accesskey "ت">
+<!ENTITY cmd.useTheme.tooltip "تم &brandShortName; را تغییر می‌دهد">
+<!ENTITY cmd.options.label "گزینه‌ها">
+<!ENTITY cmd.options.accesskey "گ">
+<!ENTITY cmd.options.tooltip "تنظیم گزینه‌ها برای ضمیمهٔ انتخاب‌شده">
+<!ENTITY cmd.optionsUnix.label "ترجیحات">
+<!ENTITY cmd.optionsUnix.accesskey "ت">
+<!ENTITY cmd.optionsUnix.tooltip "تنظیم ترجیحات برای ضمیمهٔ انتخاب‌شده">
+<!ENTITY cmd.enable.label "به کار انداختن">
+<!ENTITY cmd.enable.accesskey "ب">
+<!ENTITY cmd.enable.tooltip "به کار انداختن این افزودنی در راه‌اندازی بعدی &brandShortName;">
+<!ENTITY cmd.disable.label "از کار انداختن">
+<!ENTITY cmd.disable.accesskey "ا">
+<!ENTITY cmd.disable.tooltip "از کار انداختن این افزودنی در راه‌اندازی بعدی &brandShortName;">
+<!ENTITY cmd.uninstall.label "عزل">
+<!ENTITY cmd.uninstall2.accesskey "ع">
+<!ENTITY cmd.uninstall2.tooltip "عزل این افزودنی در راه‌اندازی بعدی &brandShortName;">
+<!ENTITY cmd.cancelUninstall.label "انصراف از عزل">
+<!ENTITY cmd.cancelUninstall.accesskey "ا">
+<!ENTITY cmd.cancelUninstall.tooltip "انصراف از عزل کردن این افزودنی">
+<!ENTITY cmd.installUpdate.label "در حال نصب به‌هنگام‌سازی">
+<!ENTITY cmd.installUpdate.accesskey "د">
+<!ENTITY cmd.installUpdate.tooltip "نصب یک به‌هنگام‌سازی برای این افزودنی">
+<!-- The selected add-on's cancel action button label -->
+<!ENTITY cancel.label "انصراف">
+<!ENTITY cancel.accesskey "ن">
+<!-- Only displayed in the selected Add-on's context menu -->
+
+<!ENTITY cmd.homepage.label "بازدید از صفحهٔ آغازه">
+<!ENTITY cmd.homepage.accesskey "آ">
+<!ENTITY cmd.about2.label "دربارهٔ این افزودنی">
+<!ENTITY cmd.about.accesskey "د">
+<!ENTITY cmd.checkUpdate.label "یافتن به‌هنگام‌سازی">
+<!ENTITY cmd.checkUpdate.accesskey "ی">
+
+<!ENTITY cmd.includeUpdate.label "گنجاندن به‌هنگام‌سازی">
+<!ENTITY cmd.includeUpdate.accesskey "گ">
+<!ENTITY includeUpdate.label "گنجاندن این  به‌هنگام‌سازی">
+<!ENTITY includeUpdate.accesskey "گ">
+<!ENTITY includeUpdate.tooltip "نصب به‌هنگام‌سازی‌ها شامل این افزودنی نیز شود">
+<!-- Status Messsages -->
+
+<!ENTITY needsDependencies.label "به موارد دیگری نیاز دارد.">
+<!ENTITY blocklisted.label "برای احتیاط غیرفعال شد.">
+<!ENTITY toBeDisabled.label "این افزودنی بعد از راه‌اندازی مجدد &brandShortName; از کار خواهد افتاد.">
+<!ENTITY toBeEnabled.label "این افزودنی بعد از راه‌اندازی مجدد &brandShortName; به کار خواهد افتاد.">
+<!ENTITY toBeInstalled.label "این افزودنی پس از راه‌اندازی مجدد &brandShortName; نصب خواهد شد.">
+<!ENTITY toBeUninstalled.label "این افزودنی پس از راه‌اندازی مجدد &brandShortName; عزل خواهد شد.">
+<!ENTITY toBeUpgraded.label "این افزودنی پس از راه‌اندازی مجدد &brandShortName; ارتقا خواهد یافت.">
+
+<!ENTITY getExtensions.label "گرفتن ضمیمهٔ جدید">
+<!ENTITY getExtensions.tooltip "گرفتن ضمیمه‌های بیشتر از addons.mozilla.org">
+<!ENTITY getThemes.label "گرفتن تم جدید">
+<!ENTITY getThemes.tooltip "گرفتن تم‌های بیشتر از update.mozilla.org">
+<!ENTITY previewNoThemeSelected.label "هیچ تم‌ای انتخاب نشده است">
+<!ENTITY previewNoPreviewImage.label "این تم تصویر پیش‌نمایش ندارد">
+<!ENTITY moreInfo.label "اطلاعات بیشتر">
+<!ENTITY closeMessage.tooltip "بستن این پیغام">
+
+<!ENTITY updateSuccess.label "به‌هنگام‌سازی با موفقیت تمام شد.">
+<!ENTITY installSuccess.label "نصب با موفقیت تمام شد.">
+<!ENTITY installSuccessRestart.label "برای اتمام نصب برنامه را دوباره راه‌اندازی کنید.">
+<!ENTITY installWaiting.label "در حال انتظار...">
+<!ENTITY installIncompatibleUpdate.label "بررسی سازگاری...">
+<!ENTITY installFinishing.label "در حال نصب...">
+<!ENTITY installFailure.label "نصب شکست خورد.">
+

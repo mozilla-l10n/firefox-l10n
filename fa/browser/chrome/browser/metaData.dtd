@@ -1,0 +1,26 @@
+<!ENTITY no-properties.label "هیچکدام از ویژگی‌ها تنظیم نشده‌اند.">
+
+<!ENTITY caption.label "ویژگی‌های عنصر">
+<!ENTITY image-sec.label "ویژگی‌های تصویر">
+<!ENTITY image-url.label "مکان:">
+<!ENTITY image-desc.label "شرح:">
+<!ENTITY image-alt.label "متن جایگزین:">
+<!ENTITY image-width.label "عرض:">
+<!ENTITY image-height.label "ارتفاع:">
+<!ENTITY image-filesize.label "اندازهٔ پرونده:">
+<!ENTITY insdel-sec.label "ویژگی‌های درج/حذف">
+<!ENTITY insdel-cite.label "اطلاعات:">
+<!ENTITY insdel-date.label "تاریخ:">
+<!ENTITY link-sec.label "ویژگی‌های پیوند">
+<!ENTITY link-url.label "نشانی:">
+<!ENTITY link-target.label "محل باز شدن:">
+<!ENTITY link-type.label "نوع هدف:">
+<!ENTITY link-lang.label "زبان هدف:">
+<!ENTITY link-rel.label "نسبت:">
+<!ENTITY link-rev.label "نسبت معکوس:">
+<!ENTITY misc-sec.label "ویژگی‌های متفرقه">
+<!ENTITY misc-lang.label "زبان متن:">
+<!ENTITY misc-title.label "عنوان:">
+<!ENTITY misc-tblsummary.label "خلاصهٔ جدول:">
+<!ENTITY quote-sec.label "ویژگی‌های نقل قول">
+<!ENTITY quote-cite.label "اطلاعات:">

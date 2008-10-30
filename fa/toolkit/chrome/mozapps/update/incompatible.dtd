@@ -1,0 +1,10 @@
+
+<!ENTITY incompatible.title "موارد ناسازگار">
+<!ENTITY incompatible.intro "مؤلفه‌های زیر با نسخهٔ جدید &brandShortName; تازه نصب‌شده سازگار نیستند و بعد از نصب غیرفعال خواهند شد:">
+<!ENTITY incompatible.update "&brandShortName; به طور مرتب به‌هنگام‌سازهای آنها را بررسی می‌کند و هر وقت که نسخه‌های سازگار موجود بود، شما را مطلع می‌کند.">
+<!ENTITY incompatible.suffix "به‌هنگام‌سازی‌های &brandShortName; حاوی اصلاحات مهم امنیتی هستند. برای
+                                     حفاظت از شما، به شدت توصیه می‌کنیم &brandShortName; را به‌هنگام سازید
+                                     حتی اگر برخی از ضمیمه‌ها و تم‌هایتان ناسازگار باشند.">
+                                     
+<!ENTITY closebutton.label "بستن">
+

@@ -1,0 +1,14 @@
+
+<!ENTITY prefWindow.titleWin "گزینه‌ها">
+<!ENTITY prefWindow.titleGNOME "ترجیحات &brandShortName;">
+<!ENTITY prefWindow.styleWin "width: 45em; height: 40em;">
+<!ENTITY prefWindow.styleMac "width: 50em">
+<!ENTITY prefWindow.styleGNOME "width: 45em; height: 38.5em">
+
+<!ENTITY paneMain.title "اصلی">
+<!ENTITY paneTabs.title "زبانه‌ها">
+<!ENTITY paneContent.title "محتوا">
+<!ENTITY paneFeeds.title "خوردها">
+<!ENTITY panePrivacy.title "خصوصی">
+<!ENTITY paneSecurity.title "امنیت">
+<!ENTITY paneAdvanced.title "پیشرفته">

@@ -1,0 +1,6 @@
+<!ENTITY header.label "عنوان مختصر">
+<!ENTITY message.label "چند متن نمونه از این قرار است.">
+<!ENTITY editfield0.label "نام کاربر:">
+<!ENTITY editfield1.label "گذرواژه:">
+<!ENTITY editfield2.label "تصدیق گذرواژه:">
+<!ENTITY checkbox.label "بررسی">

@@ -1,0 +1,13 @@
+<!ENTITY untitledTab "(بی‌عنوان)">
+<!ENTITY newTab.label "زبانهٔ جدید">
+<!ENTITY newTab.accesskey "ج">
+<!ENTITY closeTab.label "بستن زبانه">
+<!ENTITY closeTab.accesskey "ب">
+<!ENTITY closeOtherTabs.accesskey "د">
+<!ENTITY closeOtherTabs.label "بستن زبانه‌های دیگر">
+<!ENTITY reloadAllTabs.label "بازآوردن همهٔ زبانه‌ها">
+<!ENTITY reloadAllTabs.accesskey "ه">
+<!ENTITY reloadTab.label "باز‌آوردن زبانه">
+<!ENTITY reloadTab.accesskey "ز">
+<!ENTITY newTabButton.tooltip "باز کردن یک زبانهٔ جدید">
+<!ENTITY listAllTabs.label "فهرست همهٔ زبانه‌ها">

@@ -1,0 +1,25 @@
+<!ENTITY license.part0 "دارای حق نسخه‌برداری است">
+<!ENTITY license.part1 "توسط">
+<!ENTITY license.contrib "مشارکت‌کنندگان">
+<!ENTITY license.part2 "طبق عبارات بیان شده در">
+<!ENTITY license.part3 "نوشتار.  تمامی حقوق محفوظ است.">
+
+<!ENTITY about.version "نسخهٔ">
+
+<!ENTITY about.copy.beforeLink "حق نسخه‌برداری &copy; ۱۹۹۸-۲۰۰۶ توسط">
+<!ENTITY about.copy.linkTitle "مشارکت‌کنندگان">
+<!ENTITY about.copy.afterLink "در پروژهٔ موزیلا.">
+
+<!ENTITY about.license.beforeLink "خواندن">
+<!ENTITY about.license.linkTitle "اطلاعات مجوز">
+<!ENTITY about.license.afterLink "برای این محصول.">
+
+<!ENTITY about.relnotes.beforeLink "خواندن">
+<!ENTITY about.relnotes.linkTitle "یادداشت‌های انتشار">
+<!ENTITY about.relnotes.afterLink "برای این نسخه.">
+
+<!ENTITY about.buildconfig.beforeLink "نگاه کنید به">
+<!ENTITY about.buildconfig.linkTitle "پیکربندی ساخت">
+<!ENTITY about.buildconfig.afterLink "استفاده شده برای این نسخه.">
+
+<!ENTITY about.buildIdentifier "شناسهٔ ساخت: ‎">

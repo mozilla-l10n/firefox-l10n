@@ -1,0 +1,52 @@
+<!ENTITY history.label "تاریخچه">
+<!-- LOCALIZATION NOTE:
+  The entities rememberBefore.label and rememberAfter.label appear on a single
+  line in preferences as follows:
+
+  &rememberBefore.label  [ textbox for number of days ]   &rememberAfter.label;
+-->
+
+<!ENTITY rememberBefore.label "صفحات بازدیدشده برای">
+<!ENTITY rememberBefore.accesskey "ب">
+<!ENTITY rememberAfter.label "روز اخیر به خاطر سپرده شود">
+
+<!ENTITY rememberForms.label "اطلاعاتی که در فرم‌های صفحات وب و نوار جستجو وارد می‌شوند را خاطر سپرده شوند.">
+<!ENTITY rememberForms.accesskey "ط">
+
+<!ENTITY rememberDownloads.label "فایل‌های بارگیری‌شده به خاطر سپرده شوند">
+<!ENTITY rememberDownloads.accesskey "خ">
+
+
+<!ENTITY cookies.label "کوکی‌ها">
+
+<!ENTITY acceptCookies.label "به وب‌گاه‌ها اجازهٔ استفاده از کوکی داده شود">
+<!ENTITY acceptCookies.accesskey "ج">
+
+<!ENTITY keepUntil.label "نگهداری شوند تا:">
+<!ENTITY keepUntil.accesskey "ن">
+
+<!ENTITY expire.label "منقضی شوند">
+<!ENTITY close.label "&brandShortName; بسته شود">
+<!ENTITY askEachTime.label "هر بار پرسیده شود">
+
+<!ENTITY cookieExceptions.label "استثناها...">
+<!ENTITY cookieExceptions.accesskey "ت">
+
+<!ENTITY showCookies.label "نمایش کوکی‌ها...">
+<!ENTITY showCookies.accesskey "ک">
+
+
+<!ENTITY privateData.label "اطلاعات خصوصی">
+
+<!ENTITY alwaysClear.label "اطلاعات خصوصی همیشه هنگام بستن &brandShortName; پاک شوند">
+<!ENTITY alwaysClear.accesskey "ه">
+
+<!ENTITY askBeforeClear.label "قبل از پاک کردن اطلاعات خصوصی  سؤال شود">
+<!ENTITY askBeforeClear.accesskey "س">
+
+<!ENTITY clearDataSettings.label "تنظیمات...">
+<!ENTITY clearDataSettings.accesskey "ت">
+
+<!ENTITY clearDataNow.label "هم‌اکنون پاک شود...">
+<!ENTITY clearDataNow.label2 "هم‌اکنون پاک شود">
+<!ENTITY clearDataNow.accesskey "پ">

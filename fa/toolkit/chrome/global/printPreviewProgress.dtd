@@ -1,0 +1,6 @@
+<!--LOCALIZATION NOTE printPreviewProgress.dtd Main UI for Print Preview Progress Dialog -->
+<!ENTITY printWindow.title "پیش‌نمایش چاپ">
+<!ENTITY title "عنوان:">
+<!ENTITY spaces "            ">
+<!ENTITY preparing "در حال آماده‌سازی...">
+<!ENTITY progress "پیشرفت:">

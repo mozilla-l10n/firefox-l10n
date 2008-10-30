@@ -1,0 +1,75 @@
+<!ENTITY updateWizard.title "به‌هنگام‌سازی نرم‌افزار">
+
+<!ENTITY window.width "36em">
+<!ENTITY window.macWidth "39em">
+
+<!ENTITY checking.title "در حال گشتن به دنبال به‌هنگام‌سازی‌ها">
+<!ENTITY checking.label "&brandShortName; در حال بررسی برای به‌هنگام‌سازی‌ها است...">
+
+<!ENTITY cancel.label "انصراف">
+<!ENTITY cancel.accesskey "ن">
+
+<!ENTITY noupdatesfound.title "هیچ به‌هنگام‌سازی‌ای پیدا نشد">
+<!ENTITY noupdatesfound.intro "هیچ به‌هنگام‌سازی‌ای موجود نیست. &brandShortName; می‌تواند به طور مرتب به‌هنگام‌سازی‌ها را بررسی کند.">
+
+<!ENTITY updatesfound.title "به‌هنگام‌سازی موجود است">
+
+<!ENTITY moreDetails.label "اطلاعات بیشتر &gt;&gt;">
+<!ENTITY moreDetails.accesskey "ا">
+<!ENTITY clickHere.label "اطلاعات بیشتر در مورد این به‌هنگام‌سازی">
+
+<!ENTITY incompatible.warning "این به‌هنگام‌سازی باعث از کار افتادن بعضی از ضمیمه‌ها و یا تم‌ها، تا هنگامی که به‌هنگام شوند، خواهد شد.">
+<!ENTITY listIncompatible.label "نمایش فهرست">
+<!ENTITY listIncompatible.accesskey "ف">
+
+<!ENTITY upgrade.evangelism "به شدت پیشنهاد می‌شود که &brandShortName; را بلافاصله ارتقاء دهید.">
+
+<!ENTITY license.title "توافق‌نامهٔ مجوز">
+<!ENTITY license.intro "برای نصب این به‌هنگام‌سازی باید این توافق‌نامهٔ مجوز را بپذیرید. لطفاً آن را با دقت بخوانید.">
+<!ENTITY license.instructions "اگر موارد این توافق‌نامه را می‌پذیرید، «موافق هستم» را انتخاب کنید تا نصب به‌هنگام‌سازی ادامه پیدا کند.">
+
+<!ENTITY license.titleText "توافق‌نامهٔ مجوز نرم‌افزار">
+<!ENTITY license.introText "شرایط استفاده از این نرم‌افزار.">
+<!ENTITY license.instructionText "لطفاً توافق‌نامهٔ مجوز نرم‌افزار حاضر را بخوانید. برای دیدن ادامهٔ این متن از نوار لغزنده استفاده کنید.">
+<!ENTITY license.accept "من با مفاد این توافق‌نامه موافق هستم">
+<!ENTITY license.accept.accesskey "ه">
+<!ENTITY license.decline "من با مفاد این توافق‌نامه موافق نیستم">
+<!ENTITY license.decline.accesskey "ن">
+
+<!ENTITY downloading.title "در حال بارگیری به‌هنگام‌سازی">
+<!ENTITY downloading.intro "در حال بارگیری این به‌هنگام‌سازی...">
+<!ENTITY connecting.label "در حال برقراری اتصال با کارگزار به‌هنگام‌سازی...">
+<!ENTITY verificationFailedText.label "درستی به‌هنگام‌سازی فزایندهٔ بارگیری شده توسط &brandShortName; تأیید نشد، بنابراین در حال بارگیری بستهٔ کامل به‌هنگام‌سازی است.">
+
+<!ENTITY details.link "جزئیات">
+<!ENTITY pause.label "مکث">
+<!ENTITY pause.accesskey "ث">
+<!ENTITY close.label "بستن">
+<!ENTITY close.accesskey "ب">
+
+<!ENTITY error.label "مشکلاتی در بررسی، بارگیری، یا نصب این به‌هنگام‌سازی به وجود آمد.&brandShortName; نمی‌تواند به‌هنگام‌سازی شود، چون:">
+                                           
+<!ENTITY errorManual.label "شما می‌توانید &brandShortName; را با مراجعه به این پیوند و بارگیری آخرین نسخه به طور دستی به‌هنگام سازید:">
+                                           
+<!ENTITY errorpatching.title "به‌هنگام‌سازی شکست خورد">
+<!ENTITY errorpatching.intro "به‌هنگام‌سازی جزئی قابل اجرا نیست. &brandShortName; سعی می‌کند یک بستهٔ کامل را  بارگیری کند.">
+
+<!ENTITY finished.title "به‌هنگام‌سازی بارگیری شد">
+<!ENTITY finished.text "به‌هنگام‌سازی با موفقیت بارگیری و وارسی شد،
+                                           و بار بعدی که &brandShortName; آغاز به کار کند، نصب خواهد گردید.">
+
+<!ENTITY finishedBackground.title "به‌هنگام‌سازی آمادهٔ نصب است">
+<!ENTITY finishedBackground.text "&brandShortName; یک به‌هنگام‌سازی مهم را بارگیری و وارسی کرده است. 
+                                           برای اطلاعات بیشتر بر روی پیوند زیر کلیک کنید.">
+<!ENTITY finishedBackground.name "به‌هنگام‌سازی:">
+<!ENTITY finishedBackground.more1 "برای نصب این به‌هنگام‌سازی هم‌اکنون دکمهٔ «هم‌اکنون &brandShortName; را راه‌اندازی مجدد کنید» را فشار دهید.">
+<!ENTITY finishedBackground.more2 "برای بستن این پنجره و ادامه دادن به کارتان، دکمهٔ «بعد» را فشار دهید. &brandShortName;
+                                           این به‌هنگام‌سازی را بار بعدی که آغاز به کار می‌کند، نصب خواهد کرد.">
+
+<!ENTITY installed.title "به‌هنگام‌سازی نصب شد">
+<!ENTITY installed.intro "‏این به‌هنگام‌سازی با موفقیت نصب شد.">
+<!ENTITY whatsnew.label "در مورد چیزهای جدید بیشتر بدانید...">
+
+<!ENTITY update.details.label "جزئیات">
+<!ENTITY update.installedOn.label "نصب شد در:">
+<!ENTITY update.status.label "وضعیت:">

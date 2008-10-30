@@ -1,0 +1,6 @@
+<!ENTITY aboutDialog.title "دربارهٔ &brandFullName;">
+<!ENTITY copyright "دست‌اندرکاران">
+<!ENTITY aboutLink "&lt; دربارهٔ &brandFullName;">
+<!ENTITY aboutVersion "نسخهٔ">
+<!ENTITY copyrightText "&#169; مشارکت‌کنندگان ۱۹۹۸-۲۰۰۶. کلیه حقوق محفوظ است. فایرفاکس و نشان‌های فایرفاکس علامت تجاری بنیاد موزیلا هستند. کلیه حقوق محفوظ است. بعضی از علائم تجاری استفاده شده تحت مجوز شرکت چارلتون هستند.">
+<!ENTITY cmdClose.macKey "W">

@@ -1,0 +1,22 @@
+<!ENTITY pluginWizard.title "سرویس پیدا کردن متصل شونده">
+<!ENTITY pluginWizard.firstPage.title "به &pluginWizard.title; خوش آمدید">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; اکنون در حال جستجو به دنبال متصل شونده‌های موجود است...">
+
+<!ENTITY pluginWizard.availablePluginsPage.title "متصل شونده‌های قابل بارگیری موجود">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "متصل شونده‌های زیر موجود است:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "برای نصب این متصل شونده‌ها دکمهٔ بعد را فشار دهید.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI "بعضی متصل شونده‌ها ممکن است هنگام نصب اطالاعات بیشتری از شما بپرسند.">
+
+<!ENTITY pluginWizard.licensePage.title "مجوز متصل شونده">
+<!ENTITY pluginWizard.licensePage.accept.label "موافقت با شرایط مجوز.">
+<!ENTITY pluginWizard.licensePage.deny.label "عدم موافقت با شرایط مجوز (متصل شونده نصب نخواهد شد).">
+
+<!ENTITY pluginWizard.installPluginsPage.title "در حال نصب متصل شونده">
+<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName; در حال نصب متصل شونده‌هاست...">
+
+<!ENTITY pluginWizard.finalPage.description.label "&brandShortName; نصب متصل شونده‌ها را به پایان رساند:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label "اطلاعات بیشتری در مورد متصل شونده‌ها کسب کنید یا متصل شونده‌ها را خودتان دستی پیدا کنید.">
+<!ENTITY pluginWizard.finalPage.restart.label "برای به کار افتادن متصل شونده(ها) باید &brandShortName; مجدداً راه‌اندازی کرد.">
+

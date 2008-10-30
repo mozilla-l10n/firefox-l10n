@@ -1,0 +1,27 @@
+<!ENTITY newBookmark.title "اضافه کردن چوب‌الف">
+<!ENTITY newbookmark.label "&brandShortName; یک چوب‌الف به این صفحه اضافه می‌کند.">
+<!ENTITY name.label "نام:">
+<!ENTITY name.accesskey "ن">
+<!ENTITY keyword.label "کلیدواژه:">
+<!ENTITY keyword.accesskey "ک">
+<!ENTITY microsummary.label "عناوین زنده">
+<!ENTITY url.label "مکان:">
+<!ENTITY url.accesskey "م">
+<!ENTITY button.createin.label "ایجاد در &gt;&gt;">
+<!ENTITY button.createin.accesskey "ا">
+<!ENTITY button.createin2.label "ایجاد در &lt;&lt;">
+<!ENTITY createin.label "ایجاد در:">
+<!ENTITY createin.accesskey "ا">
+<!ENTITY moveto.label "جابه‌جایی به:">
+<!ENTITY moveto.accesskey "ج">
+<!ENTITY button.newfolder.label "پوشهٔ جدید ...">
+<!ENTITY button.newfolder.accesskey "پ">
+<!ENTITY alwayscreateinfolder.label "این جعبهٔ محاوره دیگر نشان داده نشود.">
+<!ENTITY alwayscreateinfolder.accesskey "ن">
+<!ENTITY dontshowmessage.tooltip "وقتی این گزینه انتخاب شده باشد، چوب‌‌الف‌های جدید با استفاده از عنوان صفحه اضافه می‌گردند.">
+<!ENTITY selectFolder.label "پوشه را انتخاب کنید">
+
+<!ENTITY expanderDown.tooltip "همهٔ پوشه‌های چوب‌الف‌ها نشان داده شوند">
+<!ENTITY expanderUp.tooltip "مخفی کردن">
+<!ENTITY acceptButton.label "اضافه کردن">
+<!ENTITY bookmarksToolbar.label "نوار ابزار چوب‌الف‌ها">

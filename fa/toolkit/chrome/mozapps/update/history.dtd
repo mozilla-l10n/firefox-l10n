@@ -1,0 +1,15 @@
+
+<!ENTITY history.title "تاریخچهٔ به‌هنگام‌سازی">
+<!ENTITY history.intro "به‌هنگام‌سازی‌های زیر نصب شده‌اند:">
+<!ENTITY closebutton.label "بستن">
+                                     
+<!ENTITY detailsButton.label "جزئیات">
+<!ENTITY detailsButton.accesskey "ج">
+
+<!ENTITY noupdates.label "هیچ به‌هنگام‌سازی‌ای هنوز نصب نشده است">
+
+<!ENTITY name.header "نام به‌هنگام‌سازی">
+<!ENTITY date.header "تاریخ شد">
+<!ENTITY type.header "نوع">
+<!ENTITY state.header "وضعیت">
+

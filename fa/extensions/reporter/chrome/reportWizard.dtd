@@ -1,0 +1,56 @@
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title "گزارش وب‌گاه ناهموار">
+
+<!ENTITY privacyNotice.label "سیاست حریم خصوصی">
+<!ENTITY reportWizardPrivacy.description "این ابزار به شما امکان می‌دهد که تیم مبلّغان را در جریان وب‌گاه‌هایی که طور خوبی با &brandShortName; کار نمی‌کنند یا می‌خواهند &brandShortName; را از دور خارج کنند، قرار دهید. به این طریق شما می‌توانید ما را در راه بهتر کردن &brandShortName; برای کاربرانش یاری رسانید. لطفاً اگر مایل به همیاری هستید، دقیقه‌ای وقت گذاشته و راهنمای زیر را مطالعه نمایید.">
+<!ENTITY reportWizardMustAgree.description "برای ادامه دادن، باید با سیاست حریم خصوصی بالا موافقت کنید:">
+
+<!ENTITY dontShowPrivacyStatement.label "سیاست حریم خصوصی بالا را خوانده و با آن موافق هستم.">
+<!ENTITY dontShowPrivacyStatement.accesskey "م">
+
+<!ENTITY reportForm.label "پرکردن گزارش">
+
+<!ENTITY reportForm.description "در مورد  مشکلی که برخوردید کمی توضیح دهید:">
+<!ENTITY reportForm.url.title "نشانی اینترنتی وب‌گاه:">
+<!-- No ":" at the end -->
+
+<!ENTITY reportForm.behind_login.title "استفاده از وب‌گاه نیاز به گذرواژه دارد">
+<!ENTITY reportForm.behind_login.accesskey "گ">
+
+<!ENTITY reportForm.problem_type.title "نوع مشکل:">
+<!ENTITY reportForm.problem_type.accesskey "م">
+
+<!ENTITY reportForm.problem_type.chooseOne.title "یکی را انتخاب کنید...">
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+
+<!ENTITY reportForm.problem_type.item1.title "مرورگر پشتیبانی نمی‌شود">
+<!ENTITY reportForm.problem_type.item2.title "ورود امکان‌پذیر نیست">
+<!ENTITY reportForm.problem_type.item3.title "متصل‌شونده نشان داده نمی‌شود">
+<!ENTITY reportForm.problem_type.item4.title "نوع دیگری از محتوا از دست رفته است">
+<!ENTITY reportForm.problem_type.item5.title "درست عمل نمی‌کند">
+<!ENTITY reportForm.problem_type.item6.title "درست به نظر نمی‌رسد">
+<!ENTITY reportForm.problem_type.item7.title "دیگر مشکلات">
+
+<!ENTITY reportForm.describe.title "مشکل را توضیح دهید:">
+<!ENTITY reportForm.describe.accesskey "ت">
+
+<!ENTITY reportForm.platform.title "بستر:">
+<!ENTITY reportForm.product.title "محصول:">
+<!ENTITY reportForm.gecko.title "Gecko:">
+<!ENTITY reportForm.useragent.title "مأمور کاربر:">
+<!ENTITY reportForm.language.title "زبان:">
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+
+<!ENTITY reportForm.email.title "پست الکترونیک (اختیاری):">
+<!ENTITY reportForm.email.accesskey "پ">
+
+<!ENTITY reportForm.privacyPolicy.title "سیاست حریم خصوصی">
+<!ENTITY reportForm.privacyPolicy.tooltip "نمایش سیاست حریم خصوصی">
+
+<!ENTITY reportResults.showDetail.title "نمایش جزئیات">
+<!ENTITY reportResults.showDetail.accesskey "ن">
+
+<!ENTITY sendReport.label "ارسال گزارش">
+<!ENTITY sendReport.description "ارسال گزارش به کارگزار...">
+
+<!ENTITY finish.label "گزارش ارسال شد">

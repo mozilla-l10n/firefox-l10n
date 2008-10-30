@@ -1,0 +1,120 @@
+<!--
+# ***** BEGIN LICENSE BLOCK *****
+# Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#
+# The contents of this file are subject to the Mozilla Public License Version
+# 1.1 (the "License"); you may not use this file except in compliance with
+# the License. You may obtain a copy of the License at
+# http://www.mozilla.org/MPL/
+#
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# for the specific language governing rights and limitations under the
+# License.
+#
+# The Original Code is Mozilla Communicator client code.
+#
+# The Initial Developer of the Original Code is Daniel Brooks.
+# Portions created by the Initial Developer are Copyright (C) 2001
+# the Initial Developer. All Rights Reserved.
+#
+# Contributor(s): Daniel Brooks <db48x@yahoo.com>
+#
+# Alternatively, the contents of this file may be used under the terms of
+# either the GNU General Public License Version 2 or later (the "GPL"), or
+# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# in which case the provisions of the GPL or the LGPL are applicable instead
+# of those above. If you wish to allow use of your version of this file only
+# under the terms of either the GPL or the LGPL, and not to allow others to
+# use your version of this file under the terms of the MPL, indicate your
+# decision by deleting the provisions above and replace them with the notice
+# and other provisions required by the LGPL or the GPL. If you do not delete
+# the provisions above, a recipient may use your version of this file under
+# the terms of any one of the MPL, the GPL or the LGPL.
+#
+# ***** END LICENSE BLOCK *****
+-->
+
+<!ENTITY preface "اطلاعات برای: ">
+
+<!ENTITY title "اطلاعات صفحه">
+<!ENTITY description "اطلاعات در مورد صفحهٔ فعلی">
+<!ENTITY pageInfoWindow.width "425">
+<!ENTITY pageInfoWindow.height "470">
+
+<!ENTITY copy.key "C">
+<!ENTITY copy.label "نسخه‌برداری">
+<!ENTITY copy.accesskey "ن">
+<!ENTITY selectall.key "A">
+<!ENTITY selectall.label "انتخاب همه">
+<!ENTITY selectall.accesskey "ه">
+<!ENTITY closeWindow.key "w">
+
+<!ENTITY generalTab "عمومی">
+<!ENTITY generalAccesskey "ع">
+<!ENTITY generalTitle "عنوان:">
+<!ENTITY generalURL "نشانی:">
+<!ENTITY generalMode "حالت ترسیم:">
+<!ENTITY generalType "نوع:">
+<!ENTITY generalSize "اندازه:">
+<!ENTITY generalReferrer "نشانی اینترنتی ارجاع شده:">
+<!ENTITY generalSource "متن در حافظهٔ نهان:">
+<!ENTITY generalSent "ارسال شده:">
+<!ENTITY generalModified "زمان تغییر:">
+<!ENTITY generalExpires "زمان انقضاء:">
+<!ENTITY generalEncoding "کدگذاری:">
+<!ENTITY generalMeta "متا:">
+<!ENTITY generalMetaName "نام">
+<!ENTITY generalMetaContent "محتوا">
+
+<!ENTITY formsTab "فرم‌ها">
+<!ENTITY formsAccesskey "ف">
+<!ENTITY formAction "کنش فرم">
+<!ENTITY formMethod "روش">
+<!ENTITY formName "نام">
+<!ENTITY formNo "شمارهٔ">
+<!ENTITY formEncoding "کدگذاری:">
+<!ENTITY formTarget "هدف:">
+<!ENTITY formFields "فیلدها:">
+<!ENTITY formLabel "برچسب">
+<!ENTITY formFName "نام فیلد">
+<!ENTITY formType "نوع">
+<!ENTITY formCValue "مقدار فعلی">
+
+<!ENTITY linksTab "پیوندها">
+<!ENTITY linksAccesskey "پ">
+<!ENTITY linkNo "شمارهٔ">
+<!ENTITY linkName "نام">
+<!ENTITY linkAddress "نشانی">
+<!ENTITY linkType "نوع">
+<!ENTITY linkTarget "هدف">
+<!ENTITY linkAccessKey "کلید دست‌یابی">
+
+<!ENTITY mediaTab "رسانه">
+<!ENTITY mediaAccesskey "ر">
+<!ENTITY mediaHeader "تصویرهای این صفحه">
+<!ENTITY mediaURL "نشانی:">
+<!ENTITY mediaBase "نشانی پایه:">
+<!ENTITY mediaAlt "متن بدل:">
+<!ENTITY mediaAltHeader "متن بدل">
+<!ENTITY mediaNo "شمارهٔ">
+<!ENTITY mediaName "نام">
+<!ENTITY mediaAddress "نشانی">
+<!ENTITY mediaType "نوع">
+<!ENTITY mediaCount "تعداد">
+<!ENTITY mediaPlugin "متصل شونده:">
+<!ENTITY mediaCharset "کدگذاری:">
+<!ENTITY mediaDimensions "ابعاد تعیین شده:">
+<!ENTITY mediaPhysDimensions "ابعاد واقعی:">
+<!ENTITY mediaEncryption "رمزنگاری:">
+<!ENTITY mediaTitle "عنوان:">
+<!ENTITY mediaLongdesc "شرح طولانی:">
+<!ENTITY mediaSaveAs "ذخیره به نام...">
+<!ENTITY mediaSaveAs.accesskey "ن">
+<!ENTITY mediaPreview "پیش‌نمایش رسانه">
+
+<!ENTITY framesTab "چارچوب‌ها">
+<!ENTITY framesTab.accesskey "چ">
+<!ENTITY frameName "نام">
+<!ENTITY frameAddress "نشانی">
+<!ENTITY frameType "نوع">

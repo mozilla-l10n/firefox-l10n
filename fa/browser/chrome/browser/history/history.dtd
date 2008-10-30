@@ -1,0 +1,28 @@
+<!ENTITY find.label "جستجو:">
+<!ENTITY find.accesskey "ج">
+<!ENTITY expand.label "بسط دادن">
+<!ENTITY expand.accesskey "ب">
+<!ENTITY collapse.label "جمع کردن">
+<!ENTITY collapse.accesskey "ج">
+<!ENTITY byDate.label "‌بر حسب تاریخ">
+<!ENTITY byDate.accesskey "ت">
+<!ENTITY bySite.label "بر حسب پایگاه">
+<!ENTITY bySite.accesskey "پ">
+<!ENTITY view.label "نما">
+<!ENTITY view.accesskey "ن">
+<!ENTITY byMostVisited.label "بر حسب بیشترین بازدید">
+<!ENTITY byMostVisited.accesskey "ب">
+<!ENTITY byLastVisited.label "بر حسب آخرین بازدید">
+<!ENTITY byLastVisited.accesskey "خ">
+<!ENTITY byDayAndSite.label "بر حسب تاریخ و پایگاه">
+<!ENTITY byDayAndSite.accesskey "ر">
+<!ENTITY openLinkInWindow.label "باز کردن">
+<!ENTITY openLinkInWindow.accesskey "ب">
+<!ENTITY openInNewTab.label "باز کردن در زبانهٔ جدید">
+<!ENTITY openInNewTab.accesskey "ز">
+<!ENTITY openInNewWindow.label "باز کردن در پنجرهٔ جدید">
+<!ENTITY openInNewWindow.accesskey "پ">
+<!ENTITY bookmarkLink.label "چوب‌الف گذاری برای این پیوند...">
+<!ENTITY bookmarkLink.accesskey "چ">
+<!ENTITY copyLink.label "نسخه‌برداری از مکان پیوند">
+<!ENTITY copyLink.accesskey "ن">

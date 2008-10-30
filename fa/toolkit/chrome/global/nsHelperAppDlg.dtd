@@ -1,0 +1,43 @@
+<!ENTITY caption.label "در حال باز کردن #1">
+<!-- Localization note: The default intro text has 3 "inserts":
+        #1 - replaced with the descriptive text that describes the mime type
+             (e.g., "MSWord Document")
+        #2 - replaced with the mime type (e.g., "application/ms-word")
+        #3 - replaced with the filename (e.g., "manual.doc")
+        #4 - will be replaced by the brand name (e.g., "Mozilla")
+     If there is no descriptive text, then the alternative text is used which
+     has only insert #2.
+ -->
+
+<!ENTITY intro.label "پروندهٔ «#3» از نوع #2 (#1) است، و #4 نمی‌داند با این نوع پرونده چه کار کند. محل این پرونده اینجاست:">
+<!ENTITY intro.noDesc.label "پروندهٔ «#3» از نوع #2 است، و #4 نمی‌داند با این نوع پرونده چه کار کند. محل این پرونده اینجاست:">
+
+<!ENTITY intro.attachment.label "پایگاه پیشنهاد کرده است که با «#3» مثل یک پیوست رفتار شود. این پرونده از نوع #2 (#1) است و در این محل قرار دارد:">
+<!ENTITY intro.attachment.noDesc.label "پایگاه پیشنهاد کرده است که با «#3» مثل یک پیوست رفتار شود. این پرونده از نوع #2 است و در این محل قرار دارد:">
+
+<!ENTITY intro.sniffed.label "به تشخیص #4پروندهٔ «#3» از نوع #2 (#1) به نظر می‌رسد. محل این پرونده اینجاست:">
+<!ENTITY intro.sniffed.noDesc.label "به تشخیص #4پروندهٔ «#3» از نوع #2 به نظر می‌رسد. محل این پرونده اینجاست:">
+
+<!ENTITY prompt.label "#1 باید با این پرونده چه کند؟">
+
+<!ENTITY alwaysHandle.label "همیشه در مواقع کار با این نوع پرونده‌ها  این کنش انجام شود.">
+<!ENTITY alwaysHandle.accesskey "ه">
+
+<!ENTITY saveToDisk.label "ذخیره‌سازی در دیسک.">
+<!ENTITY saveToDisk.accesskey "ذ">
+
+<!ENTITY useSystemDefault.label "باز کردن با برنامهٔ پیش‌فرض (#1)‏">
+<!ENTITY useSystemDefault.noDesc.label "باز کردن با برنامهٔ پیش‌فرض">
+<!ENTITY useSystemDefault.accesskey "ب">
+<!-- LOCALIZATION NOTE:  do not localize "#1" -->
+
+<!ENTITY openUsing.label "باز کردن با">
+<!ENTITY openUsing.accesskey "ز">
+
+<!ENTITY chooseApp.label "انتخاب...">
+<!ENTITY chooseApp.accesskey "ا">
+
+<!ENTITY chooseAppFilePickerTitle "انتخاب برنامهٔ کمکی">
+
+<!ENTITY badApp "برنامه‌ای که مشخص کرده‌اید («#1») پیدا نمی شود.  نام پرونده را بررسی کنید یا برنامهٔ دیگری انتخاب کنید.">
+<!ENTITY badApp.title "برنامه پیدا نشد">

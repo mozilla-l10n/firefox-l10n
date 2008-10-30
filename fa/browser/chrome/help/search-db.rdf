@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:nc="http://home.netscape.com/NC-rdf#">
+
+  <Description rdf:about="urn:root">
+    <nc:subheadings>
+      <Seq>
+        <!--
+          These nodes are used for searching purposes; they display in search results but do not
+          show up in the default listing displayed when the help viewer loads.
+          DO NOT CREATE NAME COLLISIONS BETWEEN THE ITEMS HERE AND THE ITEMS IN THE TOC!
+        -->
+        <li><Description nc:name="گزینه‌های دسترسی‌پذیری" nc:link="prefs.xhtml#accessibility" nc:platform="win os2"/></li>
+        <li><Description nc:name="ترجیحات دسترسی‌پذیری" nc:link="prefs.xhtml#accessibility" nc:platform="unix mac"/></li>
+        <li><Description nc:name="تأیید هویت (تعریف)" nc:link="glossary.xhtml#authentication"/></li>
+        <li><Description nc:name="دکمهٔ برگشتن" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="بازداشتن پنجره‌های واشو" nc:link="popup.xhtml"/></li>
+        <li><Description nc:name="چوب‌الف (تعریف)" nc:link="glossary.xhtml#bookmark"/></li>
+        <li><Description nc:name="نوار ابزار چوب‌الف‌ها (تعریف)" nc:link="glossary.xhtml#Bookmarks_Toolbar"/></li>
+        <li><Description nc:name="مرور کردن" nc:link="using_firebird.xhtml#navigating_web_pages"/></li>
+        <li><Description nc:name="حافظهٔ نهان (تعریف)" nc:link="glossary.xhtml#cache"/></li>
+        <li><Description nc:name="گواهی (تعریف)" nc:link="glossary.xhtml#certificate"/></li>
+        <li><Description nc:name="گواهی‌ها" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="فهرست‌های ابطال گواهی" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="کارگیر (تعریف)" nc:link="glossary.xhtml#client"/></li>
+        <li><Description nc:name="پیکربندی ضمیمه‌ها" nc:link="customization.xhtml#add_ons_configuring_extensions"/></li>
+        <li><Description nc:name="کوکی (تعریف)" nc:link="glossary.xhtml#cookie"/></li>
+        <li><Description nc:name="رمزنگاری (تعریف)" nc:link="glossary.xhtml#cryptography"/></li>
+        <li><Description nc:name="رمزگشایی (تعریف)" nc:link="glossary.xhtml#decryption"/></li>
+        <li><Description nc:name="شناسهٔ دیجیتالی (تعریف)" nc:link="glossary.xhtml#digital_ID"/></li>
+        <li><Description nc:name="از کار انداختن، به کار انداختن، و عزل افزودنی‌ها" nc:link="customization.xhtml#add_ons_uninstalling"/></li>
+        <li><Description nc:name="رمزنگاری (تعریف)" nc:link="glossary.xhtml#encryption"/></li>
+        <li><Description nc:name="زبان نشان‌گذاری قابل توسعه (XML) (تعریف)" nc:link="glossary.xhtml#XML"/></li>
+        <li><Description nc:name="feed (تعریف)" nc:link="glossary.xhtml#feed"/></li>
+        <li><Description nc:name="قرارداد انتقال پرونده (FTP) (تعریف)" nc:link="glossary.xhtml#File_Transfer_Protocol"/></li>
+        <li><Description nc:name="FIPS PUBS 140-1 (تعریف)" nc:link="glossary.xhtml#FIPS_PUBS_140-1"/></li>
+        <li><Description nc:name="دکمهٔ جلو رفتن" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="جلو یا عقب رفتن" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="دکمهٔ آغازه" nc:link="using_firebird.xhtml#viewing_your_home_page"/></li>
+        <li><Description nc:name="صفحهٔ آغازه (تعریف)" nc:link="glossary.xhtml#home_page"/></li>
+        <li><Description nc:name="زبان نشان‌گذاری ابرمتن (HTML) (تعریف)" nc:link="glossary.xhtml#Hypertext_Markup_Language"/></li>
+        <li><Description nc:name="وارد کردن صفحات محبوب اینترنت اکسپلورر" nc:link="forieusers.xhtml#about_your_ie_settings"/></li>
+        <li><Description nc:name="اینترنت (تعریف)" nc:link="glossary.xhtml#Internet"/></li>
+        <li><Description nc:name="آدرس قرارداد اینترنت (IP) (تعریف)" nc:link="glossary.xhtml#Internet_protocol_address"/></li>
+        <li><Description nc:name="جاوا (تعریف)" nc:link="glossary.xhtml#Java"/></li>
+        <li><Description nc:name="جاوا اسکریپت (تعریف)" nc:link="glossary.xhtml#JavaScript"/></li>
+        <li><Description nc:name="زبان‌ها" nc:link="prefs.xhtml#languages"/></li>
+        <li><Description nc:name="چوب‌الف زنده (تعریف)" nc:link="glossary.xhtml#live_bookmark"/></li>
+        <li><Description nc:name="نوار مکان (تعریف)" nc:link="glossary.xhtml#location_bar"/></li>
+        <li><Description nc:name="گذرواژهٔ اصلی (تعریف)" nc:link="glossary.xhtml#master_password"/></li>
+        <li><Description nc:name="نوار ابزار راهبری (تعریف)" nc:link="glossary.xhtml#navigation_toolbar"/></li>
+        <li><Description nc:name="مدیر گذرواژه (تعریف)" nc:link="glossary.xhtml#Password_Manager"/></li>
+        <li><Description nc:name="PKCS #11 (تعریف)" nc:link="glossary.xhtml#PKCS_11"/></li>
+        <li><Description nc:name="متصل شونده (تعریف)" nc:link="glossary.xhtml#Plugin"/></li>
+        <li><Description nc:name="متصل شونده‌ها" nc:link="using_firebird.xhtml#managing_different_file_types"/></li>
+        <li><Description nc:name="کلید خصوصی (تعریف)" nc:link="glossary.xhtml#private_key"/></li>
+        <li><Description nc:name="پیشکار (تعریف)" nc:link="glossary.xhtml#proxy"/></li>
+        <li><Description nc:name="صفحات وب به تازگی بازدید شده" nc:link="using_firebird.xhtml#moving_to_another_page"/></li>
+        <li><Description nc:name="دکمهٔ بازآوری" nc:link="using_firebird.xhtml#stopping_and_reloading"/></li>
+        <li><Description nc:name="موتور جستجو (تعریف)" nc:link="glossary.xhtml#search_engine"/></li>
+        <li><Description nc:name="جستجو توسط نوار مکان" nc:link="using_firebird.xhtml#moving_to_another_page"/></li>
+        <li><Description nc:name="جستجو توسط نوار جستجو" nc:link="using_firebird.xhtml#searching_the_web"/></li>
+        <li><Description nc:name="جستجو با استفاده از متنی از صفحه" nc:link="using_firebird.xhtml#searching_on_selected_words_in_a_web_page"/></li>
+        <li><Description nc:name="پایگاه امن (تعریف)" nc:link="glossary.xhtml#secure_site"/></li>
+        <li><Description nc:name="لایهٔ سوکت‌های امن (SSL) (تعریف)" nc:link="glossary.xhtml#SSL"/></li>
+        <li><Description nc:name="کارگزار (تعریف)" nc:link="glossary.xhtml#server"/></li>
+        <li><Description nc:name="تنظیم یا تغییر گذرواژهٔ اصلی" nc:link="prefs.xhtml#set_change_master_password"/></li>
+        <li><Description nc:name="به‌هنگام‌سازی‌های نرم‌افزار" nc:link="menu_reference.xhtml#check_for_updates"/></li>
+        <li><Description nc:name="میلهٔ وضعیت (تعریف)" nc:link="glossary.xhtml#Status_Bar"/></li>
+        <li><Description nc:name="دکمهٔ توقف" nc:link="using_firebird.xhtml#stopping_and_reloading"/></li>
+        <li><Description nc:name="تعویض تم‌ها" nc:link="customization.xhtml#add_ons_switching_themes"/></li>
+        <li><Description nc:name="TLS (تعریف)" nc:link="glossary.xhtml#TLS"/></li>
+        <li><Description nc:name="TCP/IP (قرارداد کنترل انتقال/قرارداد اینترنت) (تعریف)" nc:link="glossary.xhtml#TCP_IP"/></li>
+        <li><Description nc:name="مکان‌یاب یک‌شکل منبع (URL) (تعریف)" nc:link="glossary.xhtml#Uniform_Resource_Locator"/></li>
+        <li><Description nc:name="به‌هنگام‌سازی افزودنی‌ها" nc:link="customization.xhtml#add_ons_updating"/></li>
+        <li><Description nc:name="تأیید" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="نمایش متن HTML" nc:link="menu_reference.xhtml#page_source"/></li>
+        <li><Description nc:name="صفحهٔ وب (تعریف)" nc:link="glossary.xhtml#web_page"/></li>
+        <li><Description nc:name="وب‌گاه (تعریف)" nc:link="glossary.xhtml#web_site"/></li>
+        <li><Description nc:name="وب جهان‌گستر (تعریف)" nc:link="glossary.xhtml#World_Wide_Web"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+</RDF>

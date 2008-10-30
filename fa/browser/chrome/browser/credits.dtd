@@ -1,0 +1,37 @@
+<!ENTITY brandMotto "وب را دوباره کشف کنید">
+<!ENTITY credit.leads "رهبران مهندسی">
+<!ENTITY credit.core "گروه برنامه‌سازی اصلی">
+<!ENTITY credit.gecko "موتور صفحه‌بندی Gecko">
+<!ENTITY credit.thanks "با تشکر ویژه از">
+
+<!ENTITY credit.thanks2 "با تشکر فراوان از">
+<!ENTITY credit.prethanks "">
+<!ENTITY credit.friends "دوستان">
+<!ENTITY credit.and "و">
+<!ENTITY credit.contributors "دست‌اندرکاران">
+<!ENTITY credit.postthanks "">
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+
+<!ENTITY credit.translation "<h3>مترجمان</h3><ul><li>بهنام اسفهبد</li><li>میلاد زکریا</li><li>مسعوداحمدزاده</li><li>نیوشا بلندزاده</li><li>روزبه پورنادر</li><li>هوشمندحسن‌نیا</li><li>سارا خلعت‌بری</li><li>علیرضا خیرخواهان</li><li>فرزانه سرافراز</li><li>الناز سربر</li><li>سحر فدائیان</li><li>رضامحمدی</li><li>احسان اخگری</li></ul>
+">
+
+<!ENTITY credit.visuals "هماهنگ‌کنندهٔ طراحی بصری">
+<!ENTITY credit.theme "طراحی تم">
+<!ENTITY credit.brand "ثبت علامت تجاری">
+<!ENTITY credit.web "طراحی شبکه">
+<!ENTITY credit.update "به‌هنگام‌سازی موزیلا">
+<!ENTITY credit.qalead "رهبر تضمین کیفیت">
+<!ENTITY credit.qa "تضمین کیفیت">
+<!ENTITY credit.build "ساخت و انتشار">
+<!ENTITY credit.infra "پشتیبانی زیرساخت">
+<!ENTITY credit.support "منابع پشتیبانی">
+<!ENTITY credit.manage "مدیریت پروژه">
+<!ENTITY credit.marketleads "رهبران بازاریابی">
+<!ENTITY credit.market "بازاریابی">
+<!ENTITY credit.creators "ایجاد شده توسط">
+<!ENTITY credit.memory "تقدیم به خاطرهٔ">
+<!ENTITY credit.poweredByGecko "‏به‌کار انداخته شده توسط ‎Gecko&trade;‏">

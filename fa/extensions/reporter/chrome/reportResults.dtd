@@ -1,0 +1,14 @@
+<!ENTITY reportSite "وب‌گاه">
+<!ENTITY reportProblemType "نوع مشکل">
+<!ENTITY reportDecsription "شرح">
+<!ENTITY reportPlatform "بستر">
+<!ENTITY reportProduct "محصول">
+<!ENTITY reportoscpu "سیستم عامل">
+<!ENTITY reportGecko "Gecko">
+<!ENTITY reportBuildConfig "پیکربندی ساخت">
+<!ENTITY reportUseragent "مأمور کاربر">
+<!ENTITY reportLanguage "زبان">
+<!ENTITY reportEmail "پست الکترونیکی">
+<!ENTITY error "جزئیات خطا">
+<!ENTITY faultCode "کد">
+<!ENTITY faultMessage "پیغام">

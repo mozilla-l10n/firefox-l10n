@@ -1,0 +1,47 @@
+<!ENTITY printCmd.commandkey "p">
+
+<!ENTITY findOnCmd.commandkey "F">
+<!ENTITY findAgainCmd.commandkey "G">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY backButton.label "عقب">
+<!ENTITY backButton.accesskey "ع">
+<!ENTITY backButton.tooltip "برگشتن به یک صفحهٔ قبل">
+<!ENTITY forwardButton.label "جلو">
+<!ENTITY forwardButton.accesskey "ج">
+<!ENTITY forwardButton.tooltip "جلو رفتن به یک صفحهٔ بعد">
+<!ENTITY copyCmd.label "نسخه‌برداری">
+<!ENTITY copyCmd.accesskey "ن">
+<!ENTITY selectAllCmd.label "انتخاب همه">
+<!ENTITY selectAllCmd.accesskey "ه">
+<!ENTITY goBackCmd.commandkey "[">
+<!ENTITY goForwardCmd.commandkey "]">
+<!ENTITY homeButton.label "آغازه">
+<!ENTITY homeButton.tooltip "رفتن به صفحهٔ آغازهٔ راهنما">
+<!ENTITY printButton.label "چاپ">
+<!ENTITY printButton.tooltip "چاپ کردن این صفحه">
+<!ENTITY closeWindow.commandkey "W">
+
+<!ENTITY throbberItem.title "شاخص فعالیت">
+<!ENTITY throbber.tooltip "رفتن به راهنمای بخش راهنما">
+
+<!ENTITY searchtab.label "جستجو">
+<!ENTITY searchtab.accesskey "ج">
+<!ENTITY toctab.label "محتوا">
+<!ENTITY toctab.accesskey "م">
+
+<!ENTITY textZoomReduceCmd.commandkey "-">
+<!ENTITY textZoomEnlargeCmd.commandkey "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY textZoomResetCmd.commandkey "0">
+
+<!ENTITY helpSearch.commandkey "k">
+
+<!ENTITY zLevel.label "همیشه روی دیگر پنجره‌ها">
+<!ENTITY zLevel.accesskey "ر">
+
+<!ENTITY textZoomReduceBtn.label "کاهش اندازهٔ متن">
+<!ENTITY textZoomReduceBtn.accesskey "ک">
+<!ENTITY textZoomEnlargeBtn.label "افزایش اندازهٔ متن">
+<!ENTITY textZoomEnlargeBtn.accesskey "ا">
