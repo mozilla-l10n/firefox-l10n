@@ -10,8 +10,7 @@
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Helbide hau murriztuta dago">
-<!ENTITY deniedPortAccess.longDesc "_: deniedPortAccess.longDesc
-">
+<!ENTITY deniedPortAccess.longDesc "_: deniedPortAccess.longDesc">
 
 <!ENTITY dnsNotFound.title "Zerbitzaria ez da aurkitu">
 <!ENTITY dnsNotFound.longDesc "<ul> <li>Helbidea ondo begiratu mota honetako erroreak ekiditeko: <strong>ww</strong>.adibidea.net <strong>www</strong>.adibidea.net-en ordez</li> <li>Ezin baduzu inolako orririk kargatu, zure ordenagailuaren sare konexioa begiratu.</li> <li>Zure ordenagailua edo sarea firewall edo proxy baten bitartez babestuta badago, ziurtatu &brandShortName; -(e)k Weba nabigatzeko baimenik daukan.</li> </ul>">
