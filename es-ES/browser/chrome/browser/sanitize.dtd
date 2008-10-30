@@ -15,6 +15,6 @@
 <!ENTITY itemOfflineApps.accesskey "O">
 <!ENTITY itemDownloads.label "Historial de descargas">
 <!ENTITY itemDownloads.accesskey "D">
-<!ENTITY itemActiveLogins.label "Active Logins">
-<!ENTITY itemActiveLogins.accesskey "L">
+<!ENTITY itemActiveLogins.label "Sesiones activas">
+<!ENTITY itemActiveLogins.accesskey "S">
 <!ENTITY window.width "30em">
