@@ -1,9 +1,11 @@
-<!ENTITY restorepage.title          "Sitzungswiederherstellung">
-<!ENTITY restorepage.titletext      "Ihre letzte  &brandShortName;-Sitzung wurde unerwartet geschlossen">
-<!ENTITY restorepage.shortDesc      "Sie können die Tabs und Fenster Ihrer letzten Sitzung wiederherstellen oder eine neue Sitzung starten, falls Sie die Fenster nicht mehr benötigen. Bitte entschuldigen Sie die Unannehmlichkeiten.">
+<!ENTITY restorepage.tabtitle       "Sitzungswiederherstellung">
+<!ENTITY restorepage.pagetitle      "Soll die Sitzung wiederhergestellt werden?">
+<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
+                        you may translate "crash" instead (even though it's IT-speak) -->
+<!ENTITY restorepage.issueDesc      "Ihre letzte  &brandShortName;-Sitzung wurde unerwartet geschlossen. Bitte entschuldigen Sie die Unannehmlichkeiten. Sie können die Tabs und Fenster Ihrer letzten Sitzung wiederherstellen oder eine neue Sitzung starten, falls Sie die Fenster nicht mehr benötigen.">
 <!ENTITY restorepage.remedies       "Falls &brandShortName; wiederholt abstürzt, können Sie Folgendes probieren:">
 <!ENTITY restorepage.dueToChrome    "Deaktivieren Sie kürzlich installierte Erweiterungen im Add-ons-Manager.">
-<!ENTITY restorepage.dueToContent   "Stellen Sie die Sitzung wieder her, ohne die Webseiten, die den Absturz ausgelöst haben könnten:">
+<!ENTITY restorepage.dueToContent   "Stellen Sie die Sitzung wieder her, ohne die Webseiten, die das Problem ausgelöst haben könnten:">
 
 <!ENTITY restorepage.restoreButton  "Sitzung wiederherstellen">
 <!ENTITY restorepage.restore.access "S">
@@ -12,5 +14,5 @@
 
 <!ENTITY restorepage.restoreHeader  "Wiederherstellen">
 <!ENTITY restorepage.listHeader     "Fenster und Tabs">
-<!-- LOCALIZATION NOTE: %S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Fenster #&#37;S">
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Fenster &#37;S">
