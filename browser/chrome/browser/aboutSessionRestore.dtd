@@ -1,6 +1,6 @@
-<!ENTITY restorepage.title "Ripristino sessione precedente">
-<!ENTITY restorepage.titletext "L'ultima sessione di &brandShortName; si è chiusa in modo inaspettato">
-<!ENTITY restorepage.shortDesc "È possibile ripristinare le schede e le finestre aperte durante la sessione precedente, oppure iniziare una nuova sessione se non si desidera recuperare tali informazioni. Ci scusiamo per l'inconveniente.">
+<!ENTITY restorepage.tabtitle "Ripristino della sessione">
+<!ENTITY restorepage.pagetitle "Si desidera ripristinare la sessione precedente?">
+<!ENTITY restorepage.issueDesc "L'ultima sessione di &brandShortName; si è chiusa in modo inaspettato. Ci scusiamo per l'inconveniente. È possibile ripristinare le schede e le finestre aperte durante la sessione precedente, oppure iniziare una nuova sessione se non si desidera recuperare tali informazioni.">
 <!ENTITY restorepage.remedies "Se &brandShortName; si chiude ripetutamente, provare a:">
 <!ENTITY restorepage.dueToChrome "disattivare le estensioni installate di recente nella Gestione componenti aggiuntivi.">
 <!ENTITY restorepage.dueToContent "ripristinare la sessione escludendo le pagine che potrebbero aver causato il blocco dell'applicazione:">
