@@ -21,3 +21,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Öppna bokmärket i sidofältet">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "Ö">
 <!ENTITY editBookmarkOverlay.choose.label                    "Välj…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Ny mapp">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "N">
