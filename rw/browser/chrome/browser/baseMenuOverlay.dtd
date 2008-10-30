@@ -1,0 +1,49 @@
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "Gutubya">
+<!ENTITY bringAllToFront.label    "Kuzana byose Imbere">
+<!ENTITY zoomWindow.label         "Ihindurangano">
+<!ENTITY windowMenu.label         "Idirishya">
+
+<!ENTITY helpMenu.label           "Ifashayobora"> 
+<!ENTITY helpMenu.accesskey       "f"> 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "Ifashayobora"> 
+<!ENTITY helpMenuWin.accesskey    "f">
+<!ENTITY aboutCmd.label           "Ibyerekeye &brandFullName;">
+<!ENTITY aboutCmd.accesskey       "b">
+<!ENTITY helpContents.label       "Ibikubiye mu Ifashayobora">
+<!ENTITY helpContents.accesskey   "k">
+<!ENTITY helpContentsMac.label    "Ifashayobora rya &brandShortName;">
+<!ENTITY helpForIEUsers.label     "Bigenewe Abakoresha Internet Explorer">
+<!ENTITY helpForIEUsers.accesskey "i">
+<!ENTITY openHelp.commandkey      "VK_F1">
+<!ENTITY openHelpMac.commandkey   "VK_HELP">
+<!-- LOCALIZATION NOTE openHelpMac2.commandkey and openHelpMac2.modifiers
+                       are all the necessary keys to hit OS X's open-help 
+                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
+<!ENTITY openHelpMac2.commandkey           "/">
+<!ENTITY openHelpMac2.modifiers            "accel,shift">
+<!ENTITY openHelpMac2.frontendCommandkey   "?">
+<!ENTITY openHelpMac2.frontendModifiers    "accel">
+
+<!ENTITY helpReleaseNotes.label         "Ibisobanuro ku Cyatangajwe">
+<!ENTITY helpReleaseNotes.accesskey     "s">
+<!ENTITY updateCmd.label                "Kugenzura Ibyavuguruwe...">
+<!ENTITY updateCmd.accesskey            "z">
+
+<!ENTITY  preferencesCmdMac.label        "Ibyatoranyijwe...">
+<!ENTITY  preferencesCmdMac.commandkey        ",">
+<!ENTITY  preferencesCmdMac.modifiers        "accel">
+
+<!ENTITY  servicesMenuMac.label        "Ibikorwa">
+
+<!ENTITY  hideThisAppCmdMac.label        "Guhisha &brandShortName;">
+<!ENTITY  hideThisAppCmdMac.commandkey        "H">
+<!ENTITY  hideThisAppCmdMac.modifiers        "accel">
+
+<!ENTITY  hideOtherAppsCmdMac.label        "Guhisha Ibindi">
+<!ENTITY  hideOtherAppsCmdMac.commandkey      "H">
+<!ENTITY  hideOtherAppsCmdMac.modifiers        "accel,alt">
+
+<!ENTITY  showAllAppsCmdMac.label        "Kwerekana Byose">

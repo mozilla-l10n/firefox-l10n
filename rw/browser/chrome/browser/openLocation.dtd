@@ -1,0 +1,11 @@
+<!-- extracted from content/openLocation.xul -->
+
+<!ENTITY enter.label "Kwinjira ahari urubuga ( URL), cyangwa kugaragaza neza dosiye ya hafi wifuza gufungura:">  
+<!ENTITY chooseFile.label "Guhitamo Dosiye...">
+<!ENTITY newWindow.label "Idirishya Rishya">
+<!ENTITY newTab.label "Agafishi Gashya">
+<!ENTITY topWindow.label "Idirishya Rigezweho">
+<!ENTITY caption.label "Gufungura Ahari Urubuga">
+<!ENTITY openWhere.label "Gufungurira muri:">
+<!ENTITY example.label "Urugero: &ugurishaURL;">
+<!ENTITY openBtn.label "Gufungura">

@@ -1,0 +1,22 @@
+<!ENTITY pluginWizard.title                                  "Serivise ya Mushakisha Agacomekwamo">
+<!ENTITY pluginWizard.firstPage.title                        "Murakaza neza kuri &pluginWizard.title;">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; ubu irimo kugenzura uducomekwamo duhari...">
+
+<!ENTITY pluginWizard.availablePluginsPage.title             "Ibyimurwa Bicomekwamo Bihari">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Uducomekwamo dukurikira turahari:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Gukanda Ibikurikira kugira ngo winjizemo utu ducomekwamo.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Tumwe mu ducomekwamo dushobora kugusaba amakuru y'inyongera mu gihe cyo kwinjizamo.">
+
+<!ENTITY pluginWizard.licensePage.title                      "Amayemerakoresha yo Gucomekamo">
+<!ENTITY pluginWizard.licensePage.accept.label               "Ndabyemeye.">
+<!ENTITY pluginWizard.licensePage.deny.label                 "Ndabyanze (agacomekwamo ntikazinjizwamo).">
+
+<!ENTITY pluginWizard.installPluginsPage.title               "Irimo Kwinjizamo Uducomekwamo">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; irimo kwinjizamo uducomekwamo...">
+
+<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; yarangije kwinjizamo uducomekwamo tubura:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "Gushaka ibindi byerekeye Uducomekwamo cyangwa gushaka n'intoki uducomekwamo tubura.">
+<!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; ikeneye kongera gutangizwa kugira ngo aga(udu)comekwamo ga(du)kore.">
+

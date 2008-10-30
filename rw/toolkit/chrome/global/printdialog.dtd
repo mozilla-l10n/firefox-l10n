@@ -1,0 +1,29 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "Gucapa">
+
+<!ENTITY printDialog.title "Gucapa">
+
+<!ENTITY fpDialog.title "Kubika Dosiye">
+
+<!ENTITY fileCheck.label "Shyira ku rupapuro kuri dosiye">
+<!ENTITY propertiesButton.label "Ibiranga...">
+<!ENTITY descText.label "Ibisobanuro by'Imashini-NshyiraRupapuro:">
+<!ENTITY printer.label "Mucapyi">
+<!ENTITY printerInput.label "Izina ry'Imashini-NshyiraRupapuro:">
+
+<!ENTITY printrangeGroup.label "Gucapa Intondeke">
+<!ENTITY allpagesRadio.label "Paji Zose">
+<!ENTITY rangeRadio.label  "Paji">
+<!ENTITY frompageInput.label  "bivuye">
+<!ENTITY topageInput.label  "bijya">
+<!ENTITY selectionRadio.label "Ihitamo">
+
+<!ENTITY copies.label "Amakopi">
+<!ENTITY numCopies.label "Umubare w'amakopi:">
+
+<!ENTITY printframeGroup.label "Gucapa Amakadiri">
+<!ENTITY aslaidoutRadio.label "Nkuko byatondetswe kuri mugaragaza">
+<!ENTITY selectedframeRadio.label  "Ikadiri yatoranyijwe">
+<!ENTITY eachframesepRadio.label  "Buri kadiri ukwayo">
+

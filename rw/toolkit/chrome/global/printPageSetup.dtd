@@ -1,0 +1,58 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title    "Itunganyarupapuro">
+
+<!ENTITY basic.tab           "Imiterere &amp; Amahitamo">
+
+<!ENTITY formatGroup.label   "Imiterere">
+
+<!ENTITY orientation.label   "Icyerekezo:">
+<!ENTITY portrait            "Mpagarike">
+<!ENTITY landscape           "Ntambike">
+
+<!ENTITY scale.label         "Igipimo:">
+<!ENTITY scalePercent        "&#037;">
+
+<!ENTITY shrinkToFit.label   "Kwegeranya Kugira ngo Bijye ku Murambararo wa Paji">
+
+<!ENTITY optionsGroup.label  "Amahitamo">
+
+<!ENTITY printBG.label       "Imbuganyuma y'Icapa (Amabara &amp; Amashusho)">
+
+<!ENTITY advanced.tab        "Marije &amp; Umutwempangano/Imperampangano">
+
+<!ENTITY marginGroup.label   "Marije (#1)">
+<!ENTITY marginUnits.inches  "inshi">
+<!ENTITY marginUnits.metric  "milimetero">
+<!ENTITY marginTop.label     "Hejuru:">
+<!ENTITY marginBottom.label  "Hasi:">
+<!ENTITY marginLeft.label    "Ibumoso:">
+<!ENTITY marginRight.label   "Iburyo:">
+
+<!ENTITY headerFooter.label  "Imitwempangano &amp; Imperampangano">
+
+<!ENTITY hfLeft.label        "Ibumoso:">
+<!ENTITY hfCenter.label      "Hagati:">
+<!ENTITY hfRight.label       "Iburyo:">
+<!ENTITY headerLeft.tip      "Umutwe ibumoso">
+<!ENTITY headerCenter.tip    "Umutwe hagati">
+<!ENTITY headerRight.tip     "Umutwe iburyo">
+<!ENTITY footerLeft.tip      "Imperampangano ibumoso">
+<!ENTITY footerCenter.tip    "Imperampangano hagati">
+<!ENTITY footerRight.tip     "Imperampangano iburyo">
+
+<!ENTITY hfTitle             "Umutwe">
+<!ENTITY hfTitle.code        "[&amp;T]">
+<!ENTITY hfURL               "URL">
+<!ENTITY hfURL.code          "[&amp;U]">
+<!ENTITY hfDateAndTime       "Itariki/Igihe">
+<!ENTITY hfDateAndTime.code  "&amp;D">
+<!ENTITY hfPage              "Paji#">
+<!ENTITY hfPage.code         "[&amp;P]">
+<!ENTITY hfPageAndTotal      "Paji # ya #">
+<!ENTITY hfPageAndTotal.code "[&amp;PT]">
+<!ENTITY hfBlank             "--ahatanditseho--">
+<!ENTITY hfCustom            "Kuboneza...">
+
+<!ENTITY customPrompt.title  "Kuboneza...">
+<!ENTITY customPrompt.prompt "Kwinjiza inyandiko y'umutwempangano/imperampangano">

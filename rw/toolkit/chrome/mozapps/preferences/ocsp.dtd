@@ -1,0 +1,11 @@
+<!ENTITY window.width                 "38em">
+
+<!ENTITY ocspDialog.title             "Igenzura">
+<!ENTITY validation.ocsp.description  "&brandShortName; ishobora gukoresha OCSP kusuzuma ibyemezo. Shiraho &brandShortName; ukoreshe OCSP mu buryo bukurikira:">
+<!ENTITY disableOCSP.label            "Ntukoreshe OCSP mu gusuzuma ibyemezo">
+<!ENTITY certOCSP.label               "Gukoresha OCSP mu gusuzuma gusa ibyemezo itanga igikorwa cya URL ya OCSP">
+<!ENTITY proxyOCSP.label              "Gukoresha OCSP mu gusuzuma ibyemezo byose zikoresha iyi URL n'ishiraho umukono:">
+<!ENTITY serviceURL.label             "Igikorwa cya URL:">
+<!ENTITY serviceURL.accesskey         "U">
+<!ENTITY signingCA.label              "Igisubizo cy'ushiraho umukono:">
+<!ENTITY signingCA.accesskey          "I">

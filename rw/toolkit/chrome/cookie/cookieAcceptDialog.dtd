@@ -1,0 +1,20 @@
+<!ENTITY     props.box.label                "Ibyerekeye iyi Dosiyenyibutsa">
+<!ENTITY     props.name.label               "Izina:">
+<!ENTITY     props.value.label              "Ibirimo:">
+<!ENTITY     props.domain.label             "Inturo:">
+<!ENTITY     props.path.label               "Inzira:">
+<!ENTITY     props.secure.label             "Gutumaho:">
+<!ENTITY     props.expires.label            "Yarenze Igihe:">
+<!ENTITY     props.policy.label             "Politiki:"> 
+
+<!ENTITY     button.allow.label             "Kwemera">
+<!ENTITY     button.allow.accesskey         "e">
+<!ENTITY     button.session.label           "Kwemera Umukoro">
+<!ENTITY     button.session.accesskey       "k">
+<!ENTITY     button.deny.label              "Kwanga">
+<!ENTITY     button.deny.accesskey          "a">
+
+<!ENTITY     dialog.title                   "Kwemeza igenamiterere rya Dosiyenyibutsa">
+<!ENTITY     dialog.remember.label          "Gukoresha ibyo nahisemo ku Dosiyenyibutsa zose zatanzwe n'uru rubuga">
+<!ENTITY     dialog.remember.accesskey      "r">
+

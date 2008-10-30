@@ -1,0 +1,9 @@
+<!ENTITY position.label             "Ibirindiro:">
+<!ENTITY tile.label                 "Agakaro">
+<!ENTITY center.label               "Hagati">
+<!ENTITY stretch.label              "Kurambura">
+<!ENTITY preview.label              "Ibibanjirije">
+<!ENTITY color.label                "Ibara:">
+<!ENTITY setDesktopBackground.title "Ishizweho Imbuganyuma y'Ibiro">
+<!ENTITY openDesktopPrefs.label     "Gufungura Ibyatoranyijwe by'Ibiro">
+<!ENTITY closeWindow.key            "w">

@@ -1,0 +1,6 @@
+<!ENTITY removePassword.title              "Gusiba Ijambobanga Ngenga">
+<!ENTITY removeInfo.label                  "Ugomba kwinjiza ijambobanga ufite ubu kugira ngo ukomeze:">
+<!ENTITY removeWarning1.label              "Ijambobanga Ngenga ryawe rikoreshwa kugira ngo urinde amakuru akomeye nk'amagambobanga y'urubuga. ">
+<!ENTITY removeWarning2.label              "Nuvanaho Ijambobanga Ngenga amakuru yawe ntabwo azarindwa mudasobwa yawe niramuka ivangiwe.">
+<!ENTITY setPassword.oldPassword.label     "Ijambobanga iriho:">
+

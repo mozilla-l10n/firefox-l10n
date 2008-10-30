@@ -1,0 +1,20 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY newPagesIn.label "Paji nshya zigomba gufungurirwa muri:">
+<!ENTITY  inNewWindow.label        "idirishya rishya">
+<!ENTITY inNewWindow.accesskey        "r">
+<!ENTITY  inNewTab.label        "agafishi gashya">
+<!ENTITY inNewTab.accesskey           "f">
+
+<!ENTITY warnCloseMultipleTabs.label "Kumenyesha igihe udufishi dutandukanye tugiye gufungwa">
+<!ENTITY warnCloseMultipleTabs.accesskey "m">
+
+<!ENTITY warnOpenManyTabs.label "Kumburira igihe ngiye gufungura udufishi tunyuranye dushobora gutuma &brandShortName; igenda buhoro">
+<!ENTITY warnOpenManyTabs.accesskey "m">
+
+<!ENTITY  showTabBar.label "Kwerekana buri gihe umwanya w'udufishi">
+<!ENTITY showTabBar.accesskey         "w">
+
+<!ENTITY  switchToNewTabs.label "Iyo mfunguye ihuza mu gafishi gashya, kuryimukiraho ako kanya">
+<!ENTITY switchToNewTabs.accesskey    "y">

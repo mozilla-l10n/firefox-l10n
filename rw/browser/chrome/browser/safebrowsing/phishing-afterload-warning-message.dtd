@@ -1,0 +1,27 @@
+<!ENTITY  safeb.palm.warning.title "Rushobora Kuba Urubuga Mpimbano">
+
+<!ENTITY  safeb.palm.message.p1 "Hagaragajwe ko iyi paji ari urubuga mpimbano rugamije kubeshya abakoresha bakamena amabanga yabo cyangwa andi makuru yerekeye imari. Kwandika amabanga yawe kuri iyi paji bishobora gutuma umwirondoro wawe bawiba cyangwa bawukoresha mu buryo butemewe. &#160;">
+<!ENTITY  safeb.palm.message.p1.linkText "Gusoma ibindi bisobanuro &#187;">
+<!ENTITY  safeb.palm.p1.linkStatusText "Gusoma ibindi bisobanuro &#133;">
+
+<!ENTITY  safeb.palm.message.p2.start "Ubu bwoko bw'imbuga mpimbano bukoreshwa mu bujuranterineti bita ibitero by'ubujuranterineti, usanga paji rubuga na imeyili mpimpano zikoreshwamo kugira ngo zigane inkomoko ushobora kwizera. Ushobora kubona ibindi bisobanuro byerekeye ">
+<!ENTITY  safeb.palm.message.p2.linkText "uko Firefox ikurinda">
+<!ENTITY  safeb.palm.message.p2.end " ibitero by'ubujunteri.">
+
+<!ENTITY  safeb.palm.accept.label "Nsohora muno!">
+<!ENTITY  safeb.palm.accept.statustext "Kubuganya ugana kuri paji ndasukirwaho yanjye">
+<!ENTITY  safeb.palm.decline.label "Kwirengagiza iri burira">
+<!ENTITY  safeb.palm.decline.statustext "Gufunga iri burira">
+<!ENTITY  safeb.palm.notforgery.label "Uru ntabwo ari urubuga ruhimbano">
+
+<!ENTITY  safeb.palm.addbutton.label "Kongera ku ilisiti kato">
+<!ENTITY  safeb.palm.addbutton.tooltip "Kongera ku ilisiti kato">
+
+<!ENTITY  safeb.palm.toolmenu.label "Ishakisha Ryizewe">
+<!ENTITY  safeb.palm.toolmenu.pref.label "Ibyatoranyijwe...">
+<!ENTITY  safeb.palm.toolmenu.reportphishing.label "Gutanga raporo ku bujuranterineti...">
+<!ENTITY  safeb.palm.toolmenu.showphishingtestpage.label "Gufungura Paji y'Igerageza">
+
+<!ENTITY  safeb.palm.provider.logo.tooltip "Iburira rivuye ku Ishakisha Ryizewe">
+
+<!ENTITY  safeb.urlbaricon.tooltip "Iyi paji ishobora gutera ibibazo, kanda kugira ngo ubone ibindi bisobanuro.">

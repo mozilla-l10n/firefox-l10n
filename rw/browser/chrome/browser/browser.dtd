@@ -1,0 +1,390 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+<!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+
+<!ENTITY viewsourcetitle.preface "Inkomoko ya: ">
+
+<!ENTITY nothingAvailable.label "(Nta kintu kiriho)">
+
+<!ENTITY tabCmd.label "Agafishi Gashya">
+<!ENTITY tabCmd.accesskey "f">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openLocationCmd.label "Gufungura Ahantu...">
+<!ENTITY openLocationCmd.accesskey "h">
+<!ENTITY openFileCmd.label "Gufungura Dosiye...">
+<!ENTITY openFileCmd.accesskey "f">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY printSetupCmd.label "Itunganyarupapuro...">
+<!ENTITY printSetupCmd.accesskey "p">
+<!ENTITY printPreviewCmd.label "Igaragazambere ry'Ibicapwa">
+<!ENTITY printPreviewCmd.accesskey "r">
+<!ENTITY printCmd.label "Gucapa...">
+<!ENTITY printCmd.accesskey "c">
+<!ENTITY printCmd.commandkey "p">
+<!ENTITY import.label "Kuvana Hanze...">
+<!ENTITY import.accesskey "v">
+
+<!ENTITY goOfflineCmd.label "Gukora Hatariho Interineti">
+<!ENTITY goOfflineCmd.accesskey "I">
+
+<!ENTITY navbarCmd.label "Umwanyabikoresho wa Mutemberezi">
+<!ENTITY navbarCmd.accesskey "n">
+<!ENTITY personalbarCmd.label "Umwanyabikoresho w'Utumenyetso">
+<!ENTITY personalbarCmd.accesskey "b">
+<!ENTITY bookmarksToolbarItem.label "Ibigize Umwanyabikoresho w'Utumenyetso">
+<!ENTITY taskbarCmd.label "Umwanya Mimerere">
+<!ENTITY taskbarCmd.accesskey "r">
+
+<!ENTITY pageSourceCmd.label "Inkomoko ya Paji">
+<!ENTITY pageSourceCmd.accesskey "P">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "Amakuru ya Paji">
+<!ENTITY pageInfoCmd.accesskey "y">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY fullScreenCmd.label "Mugaragaza Yuzuye">
+<!ENTITY fullScreenCmd.accesskey "z">
+
+<!ENTITY fullScreenMinimize.tooltip "Kugabanya ingano">
+<!ENTITY fullScreenRestore.tooltip "Kugaruraho">
+<!ENTITY fullScreenClose.tooltip "Gufunga">
+
+<!ENTITY closeWindow.label "Gufunga Idirishya">
+
+<!ENTITY bookmarksMenu.label "Utumenyetso">
+<!ENTITY bookmarksMenu.accesskey "m">
+<!ENTITY addCurPageAsCmd.label "Gushyira Akamenyetso kuri Iyi Paji...">
+<!ENTITY addCurPageAsCmd.commandkey "d">
+<!ENTITY  subscribeToPageMenupopup.label "Kwiyandikisha kuri Iyi Paji">
+<!ENTITY  subscribeToPageMenuitem.label "Kwiyandikisha kuri Iyi Paji...">
+<!ENTITY  addLiveBookmarkMenupopup.label        "Kwongeraho Akamenyetso Kahumeka">
+<!ENTITY  addLiveBookmarkMenuitem.label        "Kwongeraho Akamenyetso Kahumeka...">
+<!ENTITY  addCurPagesCmd.label        "Gushyira Utumenyetso Ku Dufishi Twose...">
+<!ENTITY  addCurPagesCmd.accesskey    "T">
+<!ENTITY  manBookmarksCmd.label        "Gucunga Utumenyetso...">
+<!ENTITY manBookmarksCmd.accesskey "m">
+<!ENTITY bookmarkAllCmd.label "Gushyira Utumenyetso ku Dufishi Twose...">
+<!ENTITY  searchBookmarksCmd.label        "Gushaka mu Utumenyetso...">
+<!ENTITY  searchBookmarksCmd.accesskey    "s">
+<!ENTITY  searchBookmarksCmd.commandkey        "B">
+
+<!ENTITY backCmd.label                "Inyuma">
+<!ENTITY backCmd.accesskey            "y">
+<!ENTITY backButton.tooltip           "Gusubira Inyuma Paji Imwe">
+<!ENTITY forwardCmd.label             "Imbere">
+<!ENTITY forwardCmd.accesskey         "b">
+<!ENTITY forwardButton.tooltip        "Kujya Imbere Paji Imwe">
+<!ENTITY reloadCmd.label              "Kongera Gutangiza">
+<!ENTITY reloadCmd.accesskey          "r">
+<!ENTITY reloadButton.tooltip         "Kongera Gutangiza Paji Igezweho">
+<!ENTITY stopCmd.label                "Guhagarika">
+<!ENTITY stopCmd.accesskey            "h">
+<!ENTITY stopCmd.macCommandKey        ".">
+<!ENTITY stopButton.tooltip           "Guhagarika Gutangiza Iyi Paji">
+<!ENTITY goEndCap.label               "Kujya">
+<!ENTITY goEndCap.tooltip             "Kujya kuri aderesi mu Mwanya w'Indangahantu">
+<!ENTITY printButton.label            "Gucapa">
+<!ENTITY printButton.tooltip          "Gucapa Iyi Paji">
+
+<!ENTITY locationItem.title           "Ahantu">
+<!ENTITY searchItem.title             "Gushakisha">
+<!ENTITY throbberItem.title           "Ikiranga Igikorwa">
+<!ENTITY bookmarksItem.title          "Utumenyetso">
+<!ENTITY updatesItem.title            "Ibyavuguruwe">
+
+<!ENTITY proxyIcon.tooltip            "Kurura maze urekure aka gashushondanga kugira ngo ureme ihuriro ry'iyi paji">
+
+<!-- Toolbar items --> 
+<!ENTITY  homeButton.label            "Intangiriro">
+
+<!ENTITY bookmarksButton.label          "Utumenyetso">
+<!ENTITY bookmarksButton.tooltip        "Kwerekana utumenyetso twawe">
+<!ENTITY bookmarksSidebarCmd.accesskey  "m">
+<!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+
+<!ENTITY historyButton.label            "Amateka">
+<!ENTITY historyButton.tooltip          "Kugaragaza paji uheruka kureba">
+<!ENTITY historySidebarCmd.accesskey    "t">
+<!ENTITY historySidebarCmd.commandKey   "h">
+
+<!ENTITY toolsMenu.label              "Ibikoresho">
+<!ENTITY toolsMenu.accesskey          "k"> 
+
+<!ENTITY keywordfield.label           "Kongera Ijambofatizo kuri iri Shakisha...">
+<!ENTITY keywordfield.accesskey       "K">
+<!ENTITY search.label                 "Ishakisha Rubuga">
+<!ENTITY search.accesskey             "s">
+<!ENTITY downloads.label              "Ibikururwa">
+<!ENTITY downloads.tooltip            "Kugaragaza aho ibikururwa bigeze byimurwa">
+<!ENTITY downloads.accesskey          "i">
+<!ENTITY downloads.commandkey         "j">
+<!ENTITY downloadsUnix.commandkey     "y">
+<!ENTITY  addons.label        "Imigereka">
+<!ENTITY  addons.tooltip       "Kwerekana no Gucunga Imigereka yinjijwemo">
+<!ENTITY  addons.accesskey     "g">
+
+<!ENTITY javaConsoleCmd.label         "Konsole Java">
+<!ENTITY javaConsoleCmd.accesskey     "J">
+<!ENTITY  errorConsoleCmd.label        "Konsole y'Amakosa">
+<!ENTITY  errorConsoleCmd.accesskey    "K">
+
+<!ENTITY fileMenu.label         "Dosiye"> 
+<!ENTITY fileMenu.accesskey       "D">
+<!ENTITY newMenu.label            "Gishya">
+<!ENTITY newMenu.accesskey          "G">
+<!ENTITY newNavigatorCmd.label        "Idirisha Rishya">
+<!ENTITY newNavigatorCmd.key        "N">
+<!ENTITY newNavigatorCmd.accesskey      "R">
+
+<!ENTITY editMenu.label         "Guhindura"> 
+<!ENTITY editMenu.accesskey       "h"> 
+<!ENTITY undoCmd.label            "Kuvaho">  
+<!ENTITY undoCmd.key            "Z">  
+<!ENTITY undoCmd.accesskey          "v"> 
+<!ENTITY redoCmd.label            "Gusubiramo">  
+<!ENTITY redoCmd.key            "Y">  
+<!ENTITY redoCmd.accesskey          "r"> 
+<!ENTITY cutCmd.label           "Gukata">  
+<!ENTITY cutCmd.key             "X">  
+<!ENTITY cutCmd.accesskey         "t"> 
+<!ENTITY copyCmd.label            "Gukoporora">  
+<!ENTITY copyCmd.key            "C">  
+<!ENTITY copyCmd.accesskey          "k"> 
+<!ENTITY pasteCmd.label           "Komeka">  
+<!ENTITY pasteCmd.key           "V">  
+<!ENTITY pasteCmd.accesskey         "m"> 
+<!ENTITY deleteCmd.label          "Gusiba">  
+<!ENTITY deleteCmd.key            "D">  
+<!ENTITY deleteCmd.accesskey        "b"> 
+<!ENTITY selectAllCmd.label         "Guhitamo Byose">  
+<!ENTITY selectAllCmd.key         "A">  
+<!ENTITY selectAllCmd.accesskey       "h"> 
+<!ENTITY preferencesCmd.label       "Amahitamo...">
+<!ENTITY preferencesCmd.accesskey     "o"> 
+<!ENTITY preferencesCmdUnix.label       "Ibyatoranyijwe">
+<!ENTITY preferencesCmdUnix.accesskey     "y"> 
+
+<!ENTITY clearPrivateDataCmd.label            "Gusiba Ibyatanzwe Bwite">
+<!ENTITY clearPrivateDataCmd.accesskey        "b">
+
+<!ENTITY viewMenu.label         "Kureba"> 
+<!ENTITY viewMenu.accesskey       "r"> 
+<!ENTITY viewToolbarsMenu.label       "Imyanyabikoresho"> 
+<!ENTITY viewToolbarsMenu.accesskey     "y"> 
+<!ENTITY viewSidebarMenu.label "Umwanyaruhande">
+<!ENTITY viewSidebarMenu.accesskey "a">
+<!ENTITY viewCustomizeToolbar.label       "Kuboneza..."> 
+<!ENTITY viewCustomizeToolbar.accesskey     "b"> 
+
+<!-- XXX historyMenu entities are used with or without places (bug 336058) -->
+<!ENTITY  historyMenu.label        "Amateka">
+<!ENTITY  historyMenu.accesskey    "t">
+<!ENTITY  historyUndoMenu.label        "Udufishi Twafunze Iyimura">
+<!ENTITY historyUndoMenu.accesskey "f">
+
+<!-- XXX places only -->
+<!ENTITY  historyHomeCmd.label        "Intangiriro">
+<!ENTITY  historyHomeCmd.accesskey    "t">
+<!ENTITY  historySearchCmd.label        "Gushaka mu Mateka...">
+<!ENTITY  historySearchCmd.accesskey    "s">
+<!ENTITY  historyShowCmd.label        "Kureba Amateka Yose...">
+<!ENTITY  historyShowCmd.accesskey        "Y">
+<!ENTITY  placesToolbarButton.label        "Kwerekana Utumenyetso &amp; Amateka">
+<!ENTITY  placesToolbarButton.tooltip      "Kwerekana Utumenyetso &amp; Amateka">
+<!-- XXX remove below if places sticks -->
+<!ENTITY goMenu.label "Kujyayo">
+<!ENTITY goMenu.accesskey "j">
+<!ENTITY goHomeCmd.label "Intangiriro">
+<!ENTITY earlierHistory.label "Amateka Yabanjije">
+<!ENTITY  historyShowSidebarCmd.label      "Kwerekana mu Mwanyaruhande">
+<!-- XXX remove above if places sticks --> 
+
+<!ENTITY releaseCmd.accesskey "s">
+<!ENTITY releaseCmd.label     "Ibisobanuro ku Cyatangajwe">
+
+<!ENTITY openCmd.commandkey           "l">
+<!ENTITY urlbar.accesskey             "d">
+
+<!-- 
+  Comment duplicated from browser-sets.inc:
+
+  Search Command Key Logic works like this:
+  
+  Unix: Ctrl+J (0.8, 0.9 support)
+        Ctrl+K (cross platform binding)
+  Mac:  Ctrl+K (cross platform binding)
+  Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat) 
+
+  We support Ctrl+K on all platforms now and advertise it in the menu since it is
+  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
+  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
+  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
+  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
+  for people to switch to Linux.
+
+  Do *not* tamper with these values without talking to ben@mozilla.org
+  
+ -->
+<!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
+<!ENTITY searchFocusUnix.commandkey   "j">
+
+<!ENTITY openLinkCmd.label            "Gufungurira Ihuza mu Dirishya Rishya">
+<!ENTITY openLinkCmd.accesskey        "D">
+<!ENTITY openLinkCmdInTab.label       "Gufungurira Ihuza mu Gafishi Gashya">
+<!ENTITY openLinkCmdInTab.accesskey   "G">
+<!ENTITY openLinkInWindowCmd.label    "Gufungura">
+<!ENTITY openLinkInWindowCmd.accesskey "f">
+<!ENTITY openFrameCmd.label           "Gufungura Ikadiri mu Idirishya Rishya">
+<!ENTITY openFrameCmd.accesskey       "I">
+<!ENTITY openFrameCmdInTab.label      "Gufungura Ikadiri mu Gafishi Gashya">
+<!ENTITY openFrameCmdInTab.accesskey  "m">
+<!ENTITY showOnlyThisFrameCmd.label     "Kwerekana Iyi Kadiri Gusa">
+<!ENTITY showOnlyThisFrameCmd.accesskey "K">
+<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY reloadFrameCmd.label         "Kongera Gutangiza Ikadiri">
+<!ENTITY reloadFrameCmd.accesskey     "o">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Kureba Inkomoko y'Ihitamo">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Kureba Inkomo y'ImibareML">
+<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPageSourceCmd.label      "Kureba Inkomoko ya Paji">
+<!ENTITY viewPageSourceCmd.accesskey  "P">
+<!ENTITY viewFrameSourceCmd.label     "Kureba Inkomoko y'Ikadiri">
+<!ENTITY viewFrameSourceCmd.accesskey "d">
+<!ENTITY viewPageInfoCmd.label        "Kureba Amakuru ya Paji">
+<!ENTITY viewPageInfoCmd.accesskey    "y">
+<!ENTITY viewFrameInfoCmd.label       "Kureba Amakuru y'Ikadiri">
+<!ENTITY viewFrameInfoCmd.accesskey   "e">
+<!ENTITY viewImageCmd.label           "Kureba Ishusho">
+<!ENTITY viewImageCmd.accesskey       "I">
+<!ENTITY viewBGImageCmd.label         "Kureba Ishusho Mbuganyuma">
+<!ENTITY viewBGImageCmd.accesskey     "y">
+<!ENTITY setDesktopBackgroundCmd.label      "Ishizweho nk'imbuganyuma y'ibiro...">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "m">
+<!ENTITY bookmarkPageCmd.label        "Gushyira Akamenyetso Kuri Iyi Paji">
+<!ENTITY bookmarkPageCmd.accesskey    "P">
+<!ENTITY bookmarkLinkCmd.label        "Gushyira Akamenyetso Kuri Iri Huza...">
+<!ENTITY bookmarkLinkCmd.accesskey    "H">
+<!ENTITY bookmarkFrameCmd.label       "Gushyira Akamenyetso Kuri Iyi Kadiri...">
+<!ENTITY bookmarkFrameCmd.accesskey   "d">
+<!ENTITY sendPageCmd.label            "Kohereza Ihuza...">
+<!ENTITY sendPageCmd.accesskey        "h">
+<!ENTITY savePageCmd.label            "Kubika Paji Muri...">
+<!ENTITY savePageCmd.accesskey        "b">
+<!-- alternate for content area context menu -->
+<!ENTITY  savePageCmd.accesskey2        "P">
+<!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY saveFrameCmd.label           "Kubika Ikadiri Muri...">
+<!ENTITY saveFrameCmd.accesskey       "i">
+<!ENTITY saveLinkCmd.label            "Kubika Ihuza Muri...">
+<!ENTITY saveLinkCmd.accesskey        "K">
+<!ENTITY sendLinkCmd.label            "Kohereza Ihuza..."> 
+<!ENTITY sendLinkCmd.accesskey        "z">
+<!ENTITY saveImageCmd.label           "Kubika Ishusho Muri...">
+<!ENTITY saveImageCmd.accesskey       "b">
+<!ENTITY sendImageCmd.label           "Kohereza Ishusho...">
+<!ENTITY sendImageCmd.accesskey       "e">
+<!ENTITY copyLinkCmd.label            "Gukoporora Ahari Ihuza">
+<!ENTITY copyLinkCmd.accesskey        "p">
+<!ENTITY copyImageCmd.label           "Gukoporora Ahari Ishusho">
+<!ENTITY copyImageCmd.accesskey       "o">
+<!ENTITY copyImageContentsCmd.label   "Gukoporora Ishusho">
+<!ENTITY copyImageContentsCmd.accesskey  "r"> 
+<!ENTITY blockImageCmd.accesskey       "g">
+<!ENTITY metadataCmd.label            "Ibiranga">
+<!ENTITY metadataCmd.accesskey        "r">
+<!ENTITY copyEmailCmd.label           "Gukoporora Aderesi Imeyili">
+<!ENTITY copyEmailCmd.accesskey       "k">
+<!ENTITY thisFrameMenu.label              "Iyi Kadiri">
+<!ENTITY thisFrameMenu.accesskey          "K">
+
+<!ENTITY textZoomEnlargeCmd.label       "Kongera">
+<!ENTITY textZoomEnlargeCmd.accesskey   "K">
+<!ENTITY textZoomEnlargeCmd.commandkey  "+">
+<!ENTITY textZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+
+<!ENTITY textZoomReduceCmd.label        "Kugabanya">
+<!ENTITY textZoomReduceCmd.accesskey    "b">
+<!ENTITY textZoomReduceCmd.commandkey   "-">
+<!ENTITY textZoomResetCmd.commandkey    "0">
+<!ENTITY textZoomResetCmd.label         "Gisanzwe">
+<!ENTITY textZoomResetCmd.accesskey     "z">
+<!ENTITY textSize.label                 "Ingano y'Inyandiko">
+<!ENTITY textSize.accesskey             "g">
+
+<!ENTITY newTabButton.tooltip           "Gufungura agafishi gashya">
+<!ENTITY newWindowButton.tooltip        "Gufungura idirishya nshya">
+<!ENTITY sidebarCloseButton.tooltip     "Gufunga umwanyaruhande">
+
+<!ENTITY cutButton.tooltip              "Gukata">
+<!ENTITY copyButton.tooltip             "Gukoporora">
+<!ENTITY pasteButton.tooltip            "Komeka">
+
+<!ENTITY quitApplicationCmdWin.label       "Gusohoka"> 
+<!ENTITY quitApplicationCmdWin.accesskey   "o">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY quitApplicationCmd.label       "Kuvamo"> 
+<!ENTITY quitApplicationCmd.accesskey   "v">
+<!ENTITY  quitApplicationCmdMac.label        "Kuvamo">
+<!ENTITY  quitApplicationCmdMac.key        "Q">
+
+<!ENTITY closeCmd.label                 "Gufunga">  
+<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.accesskey             "G">
+
+<!ENTITY pageStyleMenu.label "Imisusire ya Paji">
+<!ENTITY pageStyleMenu.accesskey "s">
+<!ENTITY pageStyleButton.label "Imisusire ya Paji">
+<!ENTITY pageStyleNoStyle.label "Nta Misusire">
+<!ENTITY pageStyleNoStyle.accesskey "N">
+<!ENTITY pageStylePersistentOnly.label "Imisusire ya Paji y'Ibanze">
+<!ENTITY pageStylePersistentOnly.accesskey "b">
+
+<!ENTITY pageStyleIcon.tooltip             "Kwimukira ku yindi misusire ya Paji">
+<!ENTITY pageReportIcon.tooltip            "Guhindura amagenamiterere yirambura ajyanye n'uru rubuga makuru.">
+
+<!ENTITY allowPopups.accesskey "p">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, which is used in the "popup blocked" info bar . -->
+<!ENTITY editPopupSettingsUnix.label "Guhindura Ibyatoranyijwe by'Ingufuri y'Ibyifungura...">
+<!ENTITY editPopupSettings.label "Guhindura Amahitamo y'Ingufuri y'Ibyifungura...">
+<!ENTITY editPopupSettings.accesskey "r">
+<!ENTITY dontShowMessage.accesskey "D">
+
+<!ENTITY bidiSwitchPageDirectionItem.label        "Guhinduranya Icyerekezo cya Paji">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "G">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Guhindura Icyerekezo cy'Inyandiko">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
+<!ENTITY findOnCmd.label     "Gushaka kuri Iyi Paji...">
+<!ENTITY findOnCmd.accesskey "P">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "Kongera Gushaka">
+<!ENTITY findAgainCmd.accesskey "G">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY  spellAddToDictionary.label "Kongera mu nkoranyamagambo">
+<!ENTITY spellAddToDictionary.accesskey "n">
+<!ENTITY  spellEnable.label "Genzura imyandikire y'ibiri muri uyu mwanya">
+<!ENTITY spellEnable.accesskey "z">
+<!ENTITY  spellNoSuggestions.label "(Nta myandikire yifujwe)">
+<!ENTITY  spellDictionaries.label        "Indimi">
+<!ENTITY  spellDictionaries.accesskey    "d">
+<!ENTITY  spellAddDictionaries.label "Kongera mu nkoranyamagambo...">
+<!ENTITY spellAddDictionaries.accesskey "K">
+
+<!-- new bookmarks and history -->
+<!ENTITY  location.status.not_bookmarked "Inyenyeri (Irafunze)">
+<!ENTITY  location.status.bookmarked "Inyenyeri (Irafunguye)">
+<!ENTITY  location.status.bookmark.tooltip        "Kwongera Akamenyetso kuri iyi Paji">

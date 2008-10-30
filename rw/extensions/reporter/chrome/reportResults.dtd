@@ -1,0 +1,14 @@
+<!ENTITY reportSite                  "Paji">
+<!ENTITY reportProblemType           "Ubwoko bw'Ikibazo">
+<!ENTITY reportDecsription           "Isobanuramiterere">
+<!ENTITY reportPlatform              "Sisitemu">
+<!ENTITY reportProduct               "Igikubo">
+<!ENTITY reportoscpu                 "Sisitemu y'Imikorere">
+<!ENTITY reportGecko                 "Gecko">
+<!ENTITY reportBuildConfig           "Imiterere ya Yubaka rya Porogaramu">
+<!ENTITY reportUseragent             "UmukoziUkoresha">
+<!ENTITY reportLanguage              "Ururimi">
+<!ENTITY reportEmail                 "Imeli">
+<!ENTITY error                       "Amasesengurabyose y'Ikosa">
+<!ENTITY faultCode                   "Kodi">
+<!ENTITY faultMessage                "Ubutumwa">

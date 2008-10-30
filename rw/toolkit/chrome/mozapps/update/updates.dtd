@@ -1,0 +1,85 @@
+<!ENTITY  updateWizard.title              "Ibihuzagihe bya Porogaramu">
+
+<!ENTITY  window.width                    "36em">
+<!ENTITY  window.macWidth                 "39em">
+
+<!ENTITY  checking.title                  "Kugenzura niba ari ibihuzigihe">
+<!ENTITY  checking.label                  "&brandShortName; iri kugenzura ubu ibihuzagihe...">
+
+<!ENTITY  cancel.label                    "Kureka">
+<!ENTITY  cancel.accesskey                "r">
+
+<!ENTITY  noupdatesfound.title            "Nta bihuzagihe byabonetse">
+<!ENTITY  noupdatesfound.intro            "There are no new updates available. &brandShortName; may check 
+                                           periodically for new updates.">
+
+<!ENTITY  updatesfound.title              "Ibigeze kugihe bikuboneka">
+
+<!ENTITY  moreDetails.label               "Ibindi bisobanuro &#0187;">
+<!ENTITY  moreDetails.accesskey           "b">
+<!ENTITY  clickHere.label                 "Reba ibindi bisobanuro by'iki igihuzagihe">
+
+<!ENTITY  incompatible.warning            "This update will cause some of your extensions and/or themes 
+                                           to stop working until they are updated.">
+<!ENTITY  listIncompatible.label          "Kwerekana ilisiti">
+<!ENTITY  listIncompatible.accesskey      "l">
+
+<!ENTITY  upgrade.evangelism              "It is strongly recommended that you upgrade &brandShortName; 
+                                           as soon as possible.">
+
+<!ENTITY  license.title                   "Amasezerano y'Iyemererakoresha">
+<!ENTITY  license.intro                   "To install this update you must agree to this license agreement. 
+                                           Please read it carefully:">
+<!ENTITY  license.instructions            "If you agree to the terms of this agreement, click I Agree 
+                                           below to continue installing this update.">
+
+<!ENTITY license.titleText "Amasezerano y'Iyemererakoresha ya Porogaramu Mudasobwa">
+<!ENTITY license.introText "Ibisabwa kugira ngo wemererwe gukoresha iyi porogaramu mudasobwa.">
+<!ENTITY license.instructionText "Usabwe gusoma amasezerano yerekeye imikoreshereze akurikira. Koresha agafashanyereza kugira ngo urebe igice  gisigaye cy'amazerano.">
+<!ENTITY license.accept "Nemeye ibiteganywa n'Amasezerano Yerekeye Imikoreshereze">
+<!ENTITY license.accept.accesskey "y">
+<!ENTITY license.decline "Ntabwo nemeye ibiteganywa n' Amasezerano Yerekeye Imikoreshereze">
+<!ENTITY license.decline.accesskey "N">
+
+<!ENTITY  downloading.title               "Iyimura ry'ibihuzagihe">
+<!ENTITY  downloading.intro               "Iyimura ry'ibihuzagihe...">
+<!ENTITY  connecting.label                "Winjira muri Seriveri ihuje n'igihe...">
+<!ENTITY  verificationFailedText.label    "&brandShortName; was unable to verify the integrity of the 
+                                           incremental update it downloaded, so it is now downloading
+                                           the complete update package.">
+
+<!ENTITY  details.link                    "Birambuye">
+<!ENTITY  pause.label                     "Kuhagarara">
+<!ENTITY  pause.accesskey                 "h">
+<!ENTITY  close.label                     "Gufunga">
+<!ENTITY  close.accesskey                 "f">
+
+<!ENTITY  error.label                     "There were problems checking for, downloading or installing this 
+                                           update. &brandShortName; could not be updated because:">
+                                           
+<!ENTITY  errorManual.label               "You can update &brandShortName; manually by visiting this link
+                                           and downloading the latest version:">
+                                           
+<!ENTITY  errorpatching.title             "Kuvugurura Bitakunze">
+<!ENTITY  errorpatching.intro             "The partial Update could not be applied. 
+                                           &brandShortName; will try again by downloading a complete Update.">
+
+<!ENTITY  finished.title                  "Igihuzagihe ryimuwe">
+<!ENTITY  finished.text                   "The update was successfully downloaded and verified, and it will
+                                           be installed the next time &brandShortName; starts.">
+
+<!ENTITY  finishedBackground.title        "Ibigeze kugihe biteguye kwinjiza">
+<!ENTITY  finishedBackground.text         "&brandShortName; has downloaded and verified an important update. 
+                                           Click the link below for more details.">
+<!ENTITY  finishedBackground.name         "Ihuzagihe:">
+<!ENTITY finishedBackground.more1 "Gukanda Kongera Gutangiza &brandShortName; Ubu kugira ngo winjizemo icyavuguruwe.">
+<!ENTITY  finishedBackground.more2        "Click Later to close this dialog and continue working. &brandShortName;
+                                           will install the update the next time it starts.">
+
+<!ENTITY  installed.title                 "Igihuzagihe ryatunganyijwe">
+<!ENTITY  installed.intro                 "Igihuzagihe ryatunganyijwe neza">
+<!ENTITY  whatsnew.label                  "Gusoma ibikurikira ku byerekeye ibishya...">
+
+<!ENTITY  update.details.label            "Birambuye">
+<!ENTITY  update.installedOn.label        "Isanzwe kuri:">
+<!ENTITY  update.status.label             "Imimerere:">

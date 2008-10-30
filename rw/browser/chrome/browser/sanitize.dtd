@@ -1,0 +1,20 @@
+<!ENTITY sanitizeDialog.title         "Gusiba Ibyatanzwe Bwite">
+
+<!ENTITY sanitizeItems.label          "Gusiba Ibigize Bikurikiye Ubu:">
+
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+<!ENTITY itemHistory.label            "Mugushakisha Amateka">
+<!ENTITY itemHistory.accesskey        "M">
+<!ENTITY  itemFormSearchHistory.label        "Amateka y'Amafishi yabitswe n'Ishakisha">
+<!ENTITY  itemFormSearchHistory.accesskey        "A">
+<!ENTITY itemPasswords.label          "Amagambobanga Yabitswe">
+<!ENTITY itemPasswords.accesskey      "A">
+<!ENTITY itemCookies.label            "Dosiyenyibutsa">
+<!ENTITY itemCookies.accesskey        "y">
+<!ENTITY itemCache.label              "Ubwihisho">
+<!ENTITY itemCache.accesskey          "U">
+<!ENTITY itemDownloads.label          "Amateka y'Igikururwa">
+<!ENTITY itemDownloads.accesskey      "I">
+<!ENTITY itemSessions.label           "Imikoro Yagenzuwe">
+<!ENTITY itemSessions.accesskey       "m">

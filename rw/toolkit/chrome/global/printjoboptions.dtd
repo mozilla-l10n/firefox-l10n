@@ -1,0 +1,28 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "Ibiranga Mucapyi">
+
+<!ENTITY paperInput.label "Ingano y'Urupapuro:">
+
+<!ENTITY plexInput.label "Uburyo bwa Plex:">
+
+<!ENTITY resolutionInput.label "Imikemurire/Iby'ingenzi:">
+
+<!ENTITY cmdInput.label "Ibwiriza ry'Icapa:">
+
+<!ENTITY jobTitleInput.label "Izina ry'umurimo:">
+
+<!ENTITY colorGroup.label "Ibara:">
+<!ENTITY grayRadio.label "IgipimoKijuju">
+<!ENTITY colorRadio.label "Ibara">
+
+<!ENTITY colorspaceInput.label "Umwanya w'ibara:">
+
+<!ENTITY fontsGroup.label "Imyandikire:">
+<!ENTITY downloadFonts.label "Gukora iyimura y'Imyandikire Kuri Imashini-NshyiraRupapuro">
+
+<!ENTITY edgeMarginInput.label "Nta kintu kuva ku mpande y'igipapuro kugeza kuri marije">
+<!ENTITY topInput.label "Hejuru:">
+<!ENTITY bottomInput.label "Hasi:">
+<!ENTITY leftInput.label "Ibumoso:">
+<!ENTITY rightInput.label "Iburyo:">

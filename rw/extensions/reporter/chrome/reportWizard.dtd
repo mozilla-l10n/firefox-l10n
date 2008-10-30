@@ -1,0 +1,55 @@
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title                         "Kumenyekanisha Urubugamakuru Rwangiritse">
+
+<!ENTITY privacyNotice.label                        "Politiki y'umwihariko">
+<!ENTITY reportWizardPrivacy.description            "Iki gikoresho gituma ushobora kubwira Itsinda ry'Ibwirizabutumwa ibyerekeye imbuga makuru zidakora neza muri &brandShortName;, cyangwa zifunga &brandShortName;. Ubu ni bwo buryo bwawe bwo kudufasha gutuma abakoresha &brandShortName; bayikoresha neza. Usabwe gufata akanya ugasoma ibikurira kugira ngo umenye uko dukoresha amakuru dukusanya uramutse uhisemo kugiramo uruhare.">
+<!ENTITY reportWizardMustAgree.description          "Kugira ngo ukomeze ugomba kwemera politiki y'ubuzima bwite yavuzwe haruguru.">
+
+<!ENTITY dontShowPrivacyStatement.label             "Nasomye kandi nemeye politiki y'ubuzima bwite yavuzwe haruguru.">
+<!ENTITY dontShowPrivacyStatement.accesskey         "N">
+
+<!ENTITY reportForm.label                           "Kuzuza icyegeranyo">
+
+<!ENTITY reportForm.description                     "Kudusobanurira muri make ibyerekeye ikibazo wahuye na cyo:">
+<!ENTITY reportForm.url.title                       "URL y'imbuga:">
+
+<!ENTITY reportForm.behind_login.title              "Imbuga ya webu yacunzwe n'ijambobanga."><!-- No ":" at the end -->
+<!ENTITY reportForm.behind_login.accesskey          "j">
+
+<!ENTITY reportForm.problem_type.title              "Ubwoko bw'ikibazo:">
+<!ENTITY reportForm.problem_type.accesskey          "k">
+
+<!ENTITY reportForm.problem_type.chooseOne.title    "Watoranya rimwe...">
+
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+<!ENTITY reportForm.problem_type.item1.title        "Ishakisha ntiryemewe">
+<!ENTITY reportForm.problem_type.item2.title        "Ntishoboye kwinjira">
+<!ENTITY reportForm.problem_type.item3.title        "Agacomekwamo ntikerekanwe">
+<!ENTITY reportForm.problem_type.item4.title        "Harabura ibindi bikubiyemo">
+<!ENTITY reportForm.problem_type.item5.title        "Imyifatire siyo">
+<!ENTITY reportForm.problem_type.item6.title        "Imigaragarire si yo">
+<!ENTITY reportForm.problem_type.item7.title        "Ikindi kibazo">
+
+<!ENTITY reportForm.describe.title                  "Gusobanura ikibazo:">
+<!ENTITY reportForm.describe.accesskey              "b">
+
+<!ENTITY reportForm.platform.title                  "Urujyano:">
+<!ENTITY reportForm.product.title                   "Igikoresho:">
+<!ENTITY reportForm.gecko.title                     "Gecko:">
+<!ENTITY reportForm.useragent.title                 "UmukoziUkoresha:">
+<!ENTITY reportForm.language.title                  "Ururimi:">
+
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+<!ENTITY reportForm.email.title                     "Imeli (bitari ngombwa):">
+<!ENTITY reportForm.email.accesskey                 "E">
+
+<!ENTITY reportForm.privacyPolicy.title             "Politiki y'umwihariko">
+<!ENTITY reportForm.privacyPolicy.tooltip           "Reba Politiki y'umwihariko">
+
+<!ENTITY reportResults.showDetail.title             "Kwerekana Amasesengurabyose">
+<!ENTITY reportResults.showDetail.accesskey         "S">
+
+<!ENTITY sendReport.label                           "Hohereza icyegeranyo">
+<!ENTITY sendReport.description                     "Hohereza icyegeranyo kuri seriveri...">
+
+<!ENTITY finish.label                               "Raporo yoherejwe">

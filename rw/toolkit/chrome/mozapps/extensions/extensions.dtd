@@ -1,0 +1,116 @@
+<!ENTITY  addons.title        "Imigereka">
+
+<!-- Default window size for the addon manager in pixels -->
+<!ENTITY  em.width        "520">
+<!ENTITY  em.height       "380">
+
+<!ENTITY cmd.info.commandKey              "i">
+<!ENTITY cmd.options.commandKey           ",">
+<!ENTITY cmd.close.commandKey             "w">
+
+<!-- View labels -->
+<!ENTITY  extensions.label    "Imigereka">
+<!ENTITY  themes.label        "Insanganyamatsiko">
+<!ENTITY  locales.label        "Indimi">
+<!ENTITY  plugins.label        "Ibicomekwaho">
+<!ENTITY  update.label        "Ibyavuguruwe">
+<!ENTITY  install.label "Iyinjizaporogaramu">
+
+<!-- Command Bar items -->
+<!ENTITY  cmd.checkUpdatesAll.label        "Kubona Ibyavuguruwe">
+<!ENTITY cmd.checkUpdatesAll.accesskey    "b">
+<!ENTITY  cmd.checkUpdatesAllAddon.tooltip        "Kubona Ibyavuguruwe ku Imigereka yawe">
+<!ENTITY  cmd.checkUpdatesAllTheme.tooltip        "Kubona Ibyavuguruwe ku Nsanganyamatsiko zawe">
+<!ENTITY  cmd.installLocalFile.label        "Kwinjizamo...">
+<!ENTITY cmd.installFile.accesskey        "j">
+<!ENTITY  cmd.installFileAddon.tooltip        "Kwinjizamo Umugereka">
+<!ENTITY  cmd.installFileTheme.tooltip        "Kwinjizamo Insanganyamatsiko">
+<!ENTITY  cmd.installUpdatesAll.label        "Kwinjizamo Ibihuzagihe">
+<!ENTITY cmd.installUpdatesAll.accesskey  "j">
+<!ENTITY  cmd.installUpdatesAll.tooltip      "Kwinjizamo ibihuzagihe byatoranyije">
+<!ENTITY  cmd.restartApp.label        "Kongera Gutangiza &brandShortName;">
+<!ENTITY cmd.restartApp.accesskey         "n">
+<!ENTITY  cmd.restartApp.tooltip "Yongera gutangiza &brandShortName; kugira ngo iyinjizaporogaramu rirangire">
+<!ENTITY  cmd.skip.label "Gusimbuka">
+<!ENTITY cmd.skip.accesskey               "s">
+<!ENTITY  cmd.skip.tooltip "Gusimbuka ibi byavuguruwe">
+<!ENTITY  cmd.continue.label        "Komeza">
+<!ENTITY cmd.continue.accesskey           "m">
+<!ENTITY  cmd.continue.tooltip      "Komeza gutangiza &brandShortName;">
+
+<!ENTITY  cmd.enableAll.label        "Gukoresha Byose">
+<!ENTITY cmd.enableAll.accesskey          "k">
+<!ENTITY  cmd.enableAll.tooltip "Gufungura Imigereka yose igaragara">
+<!ENTITY  cmd.disableAll.label       "Guhagarika Byose">
+<!ENTITY cmd.disableAll.accesskey         "h">
+<!ENTITY  cmd.disableAll.tooltip "Guhagarika Imigereka yose igaragara">
+
+<!-- Displayed in the selected Add-on's richlistitem and context menu -->
+<!ENTITY cmd.useTheme.label               "Gukoresha Insanganyamatsiko">
+<!ENTITY cmd.useTheme.accesskey           "k">
+<!ENTITY cmd.useTheme.tooltip             "Ihindura Insanganyamatsiko ya &brandShortName;">
+<!ENTITY cmd.options.label                "Amahitamo">
+<!ENTITY cmd.options.accesskey            "t">
+<!ENTITY cmd.options.tooltip              "Kugena amahitamo bujyana n'Umugereka watoranyijwe">
+<!ENTITY cmd.optionsUnix.label            "Ibyatoranyijwe">
+<!ENTITY cmd.optionsUnix.accesskey        "b">
+<!ENTITY cmd.optionsUnix.tooltip          "Hindura ibyatoranyijwe y'umugereka wahisemo">
+<!ENTITY cmd.enable.label                 "Gufungura">
+<!ENTITY cmd.enable.accesskey             "f">
+<!ENTITY  cmd.enable.tooltip "Gufungura uyu Mugereka &brandShortName; yongeye gutangizwa">
+<!ENTITY cmd.disable.label                "Guhagarika">
+<!ENTITY cmd.disable.accesskey            "h">
+<!ENTITY  cmd.disable.tooltip "Guhagarika uyu Mugereka &brandShortName; yongeye gutangizwa">
+<!ENTITY cmd.uninstall.label              "Kuvanamo">
+<!ENTITY cmd.uninstall2.accesskey         "v">
+<!ENTITY  cmd.uninstall2.tooltip "Kuvanamo uyu Mugereka &brandShortName; yongeye gutangizwa">
+<!ENTITY  cmd.cancelUninstall.label "Kureka Ivanamoporogaramu">
+<!ENTITY cmd.cancelUninstall.accesskey    "r">
+<!ENTITY  cmd.cancelUninstall.tooltip "Kureka ivanamo ry'uyu Mugereka">
+<!ENTITY  cmd.installUpdate.label "Kwinjizamo Igihuzagihe">
+<!ENTITY cmd.installUpdate.accesskey      "z">
+<!ENTITY  cmd.installUpdate.tooltip "Kwinjizamo igihuzagihe cy'uyu Mugereka">
+<!-- The selected add-on's cancel action button label -->
+<!ENTITY  cancel.label        "Kureka">
+<!ENTITY cancel.accesskey                 "r">
+
+<!-- Only displayed in the selected Add-on's context menu -->
+<!ENTITY cmd.homepage.label               "Gusura Paji Ndasukirwaho">
+<!ENTITY cmd.homepage.accesskey           "P">
+<!ENTITY  cmd.about2.label        "Ibyerekeye uyu Mugereka">
+<!ENTITY cmd.about.accesskey              "y">
+<!ENTITY  cmd.checkUpdate.label   "Gushaka Igihuzagihe">
+<!ENTITY cmd.checkUpdate.accesskey        "I">
+
+<!ENTITY  cmd.includeUpdate.label "Gushyiramo Icyavuguruwe">
+<!ENTITY cmd.includeUpdate.accesskey      "s">
+<!ENTITY  includeUpdate.label "Gushyiramo iki cyavuguruwe">
+<!ENTITY includeUpdate.accesskey          "y">
+<!ENTITY  includeUpdate.tooltip "Gushyiramo uyu Mugereka igihe cyo kwinjizamo ibyavuguruwe">
+
+<!-- Status Messsages -->
+<!ENTITY  needsDependencies.label "Isaba ibintu by'inyongera.">
+<!ENTITY  blocklisted.label "Yahagaritswe kubera umutekano wawe.">
+<!ENTITY  toBeDisabled.label "Uyu Mugereka izahagarikwa &brandShortName; yongeye gutangizwa.">
+<!ENTITY  toBeEnabled.label "Uyu Mugereka izafungurwa &brandShortName; yongeye gutangizwa.">
+<!ENTITY  toBeInstalled.label "Uyu Mugereka izinjizwamo &brandShortName; yongeye gutangizwa.">
+<!ENTITY  toBeUninstalled.label "Uyu Mugereka izavanwamo &brandShortName; yongeye gutangizwa.">
+<!ENTITY  toBeUpgraded.label "Uyu Mugereka izavugururwa &brandShortName; yongeye gutangizwa.">
+
+<!ENTITY  getExtensions.label        "Kubona Imigereka">
+<!ENTITY  getExtensions.tooltip      "Kubona Imigereka ya addons.mozilla.org">
+<!ENTITY  getThemes.label        "Kubona Insanganyamatsiko">
+<!ENTITY  getThemes.tooltip      "Kubona Insanganyamatsiko ya addons.mozilla.org">
+<!ENTITY previewNoThemeSelected.label     "Nta Nsanganyamatsiko Yatoranyijwe">
+<!ENTITY previewNoPreviewImage.label      "Iyi Nsanganyamatsiko ntabwo ifite Ishusho ry'Igaragazambere">
+<!ENTITY  moreInfo.label        "Amakuru Arenze">
+<!ENTITY  closeMessage.tooltip     "Gufunga ubu butumwa">
+
+<!ENTITY  updateSuccess.label        "Ihuzagihe yarangiye neza.">
+<!ENTITY  installSuccess.label        "Iyinjizaporogaramu ryarangiye neza.">
+<!ENTITY  installSuccessRestart.label        "Kongera gutangira kugira ngo urangize iyinjizaporogaramu">
+<!ENTITY  installWaiting.label        "Gutegereza...">
+<!ENTITY  installIncompatibleUpdate.label "Irimo kugenzura ko bijyanye...">
+<!ENTITY  installFinishing.label        "Kwinjizamo...">
+<!ENTITY  installFailure.label        "Iyinjizaporogaramu ryanze.">
+

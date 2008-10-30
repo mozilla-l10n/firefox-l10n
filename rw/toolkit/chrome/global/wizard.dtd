@@ -1,0 +1,20 @@
+<!ENTITY  button-back-mac.label "Gusubira Inyuma">
+<!ENTITY button-back-mac.accesskey "y">
+<!ENTITY  button-next-mac.label "Gukomeza">
+<!ENTITY button-next-mac.accesskey "k">
+<!ENTITY  button-finish-mac.label "Byakozwe">
+<!ENTITY  button-cancel-mac.label "Kureka">
+
+<!ENTITY  button-back-unix.label "Inyuma">
+<!ENTITY button-back-unix.accesskey "y">
+<!ENTITY  button-next-unix.label "Imbere">
+<!ENTITY button-next-unix.accesskey "b">
+<!ENTITY  button-finish-unix.label "Kurangiza">
+<!ENTITY  button-cancel-unix.label "Kureka">
+
+<!ENTITY  button-back-win.label "&lt; Inyuma">
+<!ENTITY button-back-win.accesskey "y">
+<!ENTITY  button-next-win.label "Imbere &gt;">
+<!ENTITY button-next-win.accesskey "b">
+<!ENTITY  button-finish-win.label "Kurangiza">
+<!ENTITY  button-cancel-win.label "Kureka">

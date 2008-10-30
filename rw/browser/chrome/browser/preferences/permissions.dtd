@@ -1,0 +1,22 @@
+<!ENTITY window.title                 "Amarengayobora">
+<!ENTITY window.width                 "36em">
+
+<!ENTITY treehead.sitename.label      "Paji">
+<!ENTITY treehead.status.label        "Imimerere">
+<!ENTITY addpermission.label          "Iwebu Nshya">
+<!ENTITY removepermission.label       "Gukuraho Rubuga">
+<!ENTITY removepermission.accesskey   "k">
+<!ENTITY removeallpermissions.label   "Gukuraho Imbuga Zose">
+<!ENTITY removeallpermissions.accesskey "P">
+<!ENTITY address.label                "Aderesi ya Rubuga:">
+<!ENTITY block.label                  "Kubuza">
+<!ENTITY block.accesskey              "z">
+<!ENTITY session.label                "Kwemera Ninjiye">
+<!ENTITY session.accesskey            "e">
+<!ENTITY allow.label                  "Kwemera">
+<!ENTITY allow.accesskey              "m">
+<!ENTITY windowClose.key              "w">
+
+<!ENTITY button.close.label           "Gufunga">
+<!ENTITY button.close.accesskey       "n">
+

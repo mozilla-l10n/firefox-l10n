@@ -1,0 +1,52 @@
+<!ENTITY  history.label             "Amateka">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberBefore.label and rememberAfter.label appear on a single
+  line in preferences as follows:
+
+  &rememberBefore.label  [ textbox for number of days ]   &rememberAfter.label;
+-->
+<!ENTITY  rememberBefore.label        "Kwibukwa paji zasuwe bwa nyuma iminsi">
+<!ENTITY  rememberBefore.accesskey      "y">
+<!ENTITY  rememberAfter.label        ".">
+
+<!ENTITY  rememberForms.label        "Kwibukwa amakuru nanditse mu mafishi no mu mwanya w'ishakisha.">
+<!ENTITY  rememberForms.accesskey      "f">
+
+<!ENTITY  rememberDownloads.label "Kwibuka ibyo nakuruye">
+<!ENTITY  rememberDownloads.accesskey   "n">
+
+
+<!ENTITY  cookies.label        "Dosiyenyibutsa">
+
+<!ENTITY  acceptCookies.label "Kwemera dosiye nyibutsa zivuye ku mbuga">
+<!ENTITY  acceptCookies.accesskey       "d">
+
+<!ENTITY keepUntil.label "Kugumishaho kugeza:">
+<!ENTITY keepUntil.accesskey "K">
+
+<!ENTITY expire.label "zirangije igihe">
+<!ENTITY close.label "igihe mfungira &brandShortName;">
+<!ENTITY askEachTime.label "kumbaza buri gihe">
+
+<!ENTITY  cookieExceptions.label        "Amarengayobora...">
+<!ENTITY  cookieExceptions.accesskey  "y">
+
+<!ENTITY  showCookies.label    "Kwerekana Dosiyenyibutsa...">
+<!ENTITY  showCookies.accesskey         "r">
+
+
+<!ENTITY privateData.label "Ibyatanzwe Bwite">
+
+<!ENTITY  alwaysClear.label "Gusiba buri gihe amakuru bwite iyo mfunze &brandShortName;">
+<!ENTITY  alwaysClear.accesskey          "i">
+
+<!ENTITY askBeforeClear.label "Kumbaza mbere yo gusiba ibyatanzwe bwite">
+<!ENTITY askBeforeClear.accesskey "m">
+
+<!ENTITY  clearDataSettings.label        "Amagenamiterere...">
+<!ENTITY  clearDataSettings.accesskey    "m">
+
+<!ENTITY clearDataNow.label "Gusiba Ubu...">
+<!ENTITY clearDataNow.label2 "Gusiba Ubu">
+<!ENTITY clearDataNow.accesskey "U">

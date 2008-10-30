@@ -1,0 +1,5 @@
+<!ENTITY  windowClose.key                         "w">
+<!ENTITY  preferencesDefaultTitleMac.title        "Ibyatoranyijwe">
+<!ENTITY  preferencesDefaultTitleWin.title        "Amahitamo">
+<!ENTITY  preferencesCloseButton.label            "Gufunga">
+<!ENTITY  preferencesCloseButton.accesskey        "f">

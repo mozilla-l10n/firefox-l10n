@@ -1,0 +1,19 @@
+<!ENTITY cutCmd.label "Gukata">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "Gukoporora">
+<!ENTITY copyCmd.accesskey "k">
+<!ENTITY pasteCmd.label "Komeka">
+<!ENTITY pasteCmd.accesskey "e">
+<!ENTITY undoCmd.label "Gukuraho">
+<!ENTITY undoCmd.accesskey "u">
+<!ENTITY selectAllCmd.label "Guhitamo Byose">
+<!ENTITY selectAllCmd.accesskey "B">
+<!ENTITY deleteCmd.label "Gusiba">
+<!ENTITY deleteCmd.accesskey "s">
+<!ENTITY  spellAddToDictionary.label "Kongera mu nkoranyamagambo">
+<!ENTITY spellAddToDictionary.accesskey "n">
+<!ENTITY  spellEnable.label "Genzura imyandikire y'ibiri muri uyu mwanya">
+<!ENTITY spellEnable.accesskey "z">
+<!ENTITY  spellNoSuggestions.label "(Nta myandikire yifujwe)">
+<!ENTITY  spellDictionaries.label        "Indimi">
+<!ENTITY  spellDictionaries.accesskey    "d">

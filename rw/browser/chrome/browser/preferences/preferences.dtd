@@ -1,0 +1,14 @@
+
+<!ENTITY  prefWindow.titleWin     "Amahitamo">
+<!ENTITY  prefWindow.titleGNOME   "Ibyatoranyijwe bya &brandShortName;">
+<!ENTITY  prefWindow.styleWin        "width: 42em; height: 40em;">
+<!ENTITY  prefWindow.styleMac     "width: 47em;">
+<!ENTITY  prefWindow.styleGNOME        "width: 42em; height: 38.5em;">
+
+<!ENTITY  paneMain.title "Y'Ibanze">
+<!ENTITY  paneTabs.title          "Udufishi">
+<!ENTITY  paneContent.title       "Ibikubiyemo">
+<!ENTITY paneFeeds.title "Byinjizwa">
+<!ENTITY  panePrivacy.title       "Ubuzima Bwite">
+<!ENTITY  paneSecurity.title        "Umutekano">
+<!ENTITY  paneAdvanced.title      "Bihanitse">

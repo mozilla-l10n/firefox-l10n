@@ -1,0 +1,6 @@
+<!--LOCALIZATION NOTE printPreviewProgress.dtd Main UI for Print Preview Progress Dialog -->
+<!ENTITY printWindow.title "Igaragazambere ry'Ibicapwa"> 
+<!ENTITY title   "Umutwe:"> 
+<!ENTITY spaces    "            ">
+<!ENTITY preparing "Irimo gutegura...">
+<!ENTITY progress "Aho bigeze:">

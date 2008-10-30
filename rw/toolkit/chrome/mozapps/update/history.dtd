@@ -1,0 +1,15 @@
+
+<!ENTITY  history.title             "Mateka y'ibihuzagihe">
+<!ENTITY  history.intro             "Ibyavuguruwe bikurikira byinjijwemo:">
+<!ENTITY  closebutton.label         "Gufunga">
+                                     
+<!ENTITY  detailsButton.label       "Birambuye">
+<!ENTITY  detailsButton.accesskey   "r">
+
+<!ENTITY  noupdates.label           "Nta byavuguruwe byari byinjizwamo">
+
+<!ENTITY  name.header               "Izina ry'ibihuzagihe">
+<!ENTITY  date.header               "Itariki y'iyinjizaporogaramu">
+<!ENTITY  type.header               "Ubwoko">
+<!ENTITY  state.header              "Leta">
+
