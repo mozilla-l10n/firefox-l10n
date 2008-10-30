@@ -1,6 +1,8 @@
-<!ENTITY restorepage.title          "Gjenopprett tidligere programøkt">
-<!ENTITY restorepage.titletext      "Den siste programøkten med &brandShortName; ble avbrutt">
-<!ENTITY restorepage.shortDesc      "Du kan gjenopprette fanene og vinduene fra den forrige programøkten, eller du kan starte en ny programøkt dersom du ikke trenger dem. Vi beklager eventuell ubeleilighet dette har medført.">
+<!ENTITY restorepage.tabtitle       "Gjenopprett programøkt">
+<!ENTITY restorepage.pagetitle      "Vil du gjenopprette programøkten?">
+<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
+                        you may translate "crash" instead (even though it's IT-speak) -->
+<!ENTITY restorepage.issueDesc      "Den siste programøkten med &brandShortName; ble avbrutt. Vi beklager ubeleiligheten dette har medført. Du kan gjenopprette fanene og vinduene fra den forrige programøkten, eller du kan starte en ny programøkt dersom du ikke trenger dem.">
 <!ENTITY restorepage.remedies       "Dersom &brandShortName; uventet lukkes igjen:">
 <!ENTITY restorepage.dueToChrome    "Forsøk å slå av utvidelser som du nettopp har installert i utvidelsesbehandleren.">
 <!ENTITY restorepage.dueToContent   "Forsøk å gjenopprette programøkten uten nettsider som du tror kan ha forårsaket krasjet:">
@@ -12,5 +14,5 @@
 
 <!ENTITY restorepage.restoreHeader  "Gjenopprett">
 <!ENTITY restorepage.listHeader     "Vinduer og faner">
-<!-- LOCALIZATION NOTE: %S will be replaced with a number. -->
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Vindu #&#37;S">
