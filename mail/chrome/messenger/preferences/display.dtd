@@ -1,8 +1,6 @@
 <!ENTITY itemFormatting.label             "Opmaak">
 <!ENTITY itemTags.label                   "Labels">
-<!ENTITY itemFonts.label                  "Lettertypen">
 
-<!ENTITY textBegin.label                  "Geciteerde-platte-tekstverschijning">
 <!ENTITY style.label                      "Stijl:">
 <!ENTITY style.accesskey                  "S">
 <!ENTITY regularStyle.label               "Normaal">
@@ -19,12 +17,10 @@
 <!ENTITY displayWidth.label               "Platte-tekstberichten">
 <!ENTITY plainText.label                  "Het volgende lettertype gebruiken:">
 <!ENTITY displayText.label                "Geciteerde tekst in platte-tekstberichten weergeven als:">
-<!ENTITY viewingPlainText.label           "Bij het weergeven van platte-tekstberichten:">
 <!ENTITY fixedWidth.label                 "Vaste-breedte-lettertype">
 <!ENTITY fixedWidth.accesskey             "V">
 <!ENTITY variableWidth.label              "Variabele-breedte-lettertype">
 <!ENTITY variableWidth.accesskey          "r">
-<!ENTITY readingMessagesHeader.label      "Voor inkomende berichten">
 <!ENTITY colors.label                     "Kleuren">
 <!ENTITY overrideColors.label             "Bij het weergeven van berichten de volgende kleuren gebruiken:">
 <!ENTITY textColor.label                  "Tekstkleur:">

@@ -3,9 +3,6 @@
 <!ENTITY securityMenu.label "Befeiliging">
 <!ENTITY securityMenu.accesskey "f">
 
-<!ENTITY menu_securityEncryptIfPossible.label "Fersiferje as it mooglik is">
-<!ENTITY menu_securityEncryptIfPossible.accesskey "m">
-
 <!ENTITY menu_securityEncryptRequire.label "Berjocht fersiferje">
 <!ENTITY menu_securityEncryptRequire.accesskey "f">
 

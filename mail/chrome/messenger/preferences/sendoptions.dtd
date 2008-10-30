@@ -27,7 +27,5 @@
 
 <!ENTITY add.htmltitle                "In HTML-domeinnamme tafoegje">
 <!ENTITY add.htmldomain               "HTML-domeinnamme:">
-<!ENTITY add.htmldomain.accesskey     "d">
 <!ENTITY add.plaintexttitle           "In platte-tekstdomeinnamme tafoegje">
 <!ENTITY add.plaintextdomain          "Platte-tekstdomeinnamme:">
-<!ENTITY add.plaintext.accesskey      "d">

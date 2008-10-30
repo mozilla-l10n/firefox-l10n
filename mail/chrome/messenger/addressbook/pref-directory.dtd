@@ -37,14 +37,12 @@
 
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 <!ENTITY pref.ldap.window.title    "LDAP-maptsjinners">
-<!ENTITY directory.label           "Foegje in map ta">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "LDAP-maptsjinner:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 <!ENTITY directoriesText.label     "Selektearje in LDAP-maptsjinner:">
 <!ENTITY directoriesText.accesskey "S">
 <!-- LOCALIZATION NOTE (autocomplete.title) : do not translate "LDAP" in below line -->
-<!ENTITY autocomplete.title        "LDAP-maptsjinner">
 <!ENTITY addDirectory.label        "Tafoegje">
 <!ENTITY addDirectory.accesskey    "T">
 <!ENTITY editDirectory.label       "Bewurkje">

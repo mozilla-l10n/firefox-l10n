@@ -1,5 +1,4 @@
 <!ENTITY dialog.title "Leesbevestigingen">
-<!ENTITY receiptSettings.label "Leesbevestigingen">
 <!ENTITY requestReceipt.label "Altijd een leesbevestiging vragen bij het verzenden van berichten">
 <!ENTITY requestReceipt.accesskey "t">
 <!ENTITY receiptArrive.label "Als een leesbevestiging aankomt:">

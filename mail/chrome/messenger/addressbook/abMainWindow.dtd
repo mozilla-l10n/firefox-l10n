@@ -60,7 +60,6 @@
 <!ENTITY pasteCmd.key                                   "V">
 <!ENTITY pasteCmd.accesskey                             "P">
 <!ENTITY deleteCmd.label                                "Fuortsmite">
-<!ENTITY deleteCmd.key                                  "D">
 <!ENTITY deleteCmd.accesskey                            "F">
 <!ENTITY deleteAbCmd.label                              "Adresboek fuortsmite">
 <!ENTITY deleteCardCmd.label                            "Kaart fuortsmite">
@@ -118,7 +117,6 @@
 <!ENTITY exportCmd.label                                "Eksportearje">
 <!ENTITY exportCmd.accesskey                            "E">
 <!ENTITY preferencesCmd.label                           "Opsjes…">
-<!ENTITY preferencesCmd.key                             "O">
 <!ENTITY preferencesCmd.accesskey                       "O">
 <!ENTITY preferencesCmdUnix.label                       "Foarkarren">
 <!ENTITY preferencesCmdUnix.accesskey                   "F">

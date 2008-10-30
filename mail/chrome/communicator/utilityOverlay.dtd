@@ -25,7 +25,6 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY deleteCmd.label "Fuortsmite">
-<!ENTITY deleteCmd.key "d">
 <!ENTITY deleteCmd.accesskey "F">
 <!ENTITY selectAllCmd.label "Alles selektearje">
 <!ENTITY selectAllCmd.key "A">
@@ -35,9 +34,6 @@
 <!ENTITY preferencesCmdUnix.label "Foarkarren">
 <!ENTITY preferencesCmdUnix.accesskey "k">
 
-<!ENTITY findTypeTextCmd.label "Tekst sykje by it typen">
-<!ENTITY findTypeTextCmd.accesskey "s">
-
 <!ENTITY viewMenu.label "Byld">
 <!ENTITY viewMenu.accesskey "L">
 <!ENTITY viewToolbarsMenu.label "Arkbalken">
@@ -45,18 +41,8 @@
 <!ENTITY showTaskbarCmd.label "Steatbalke">
 <!ENTITY showTaskbarCmd.accesskey "S">
 
-<!ENTITY direct.label "Ferbining (proxy: gjin)">
-<!ENTITY direct.accesskey "n">
-<!ENTITY manual.label "Ferbining (proxy: hânmjittich)">
-<!ENTITY manual.accesskey "h">
-<!ENTITY pac.label "Ferbining (proxy: auto)">
-<!ENTITY pac.accesskey "a">
-
 <!ENTITY proxy.label "Proxykonfiguraasje...">
 <!ENTITY proxy.accesskey "P">
-
-<!ENTITY findTypeTextCmd.key "/">
-<!ENTITY findTypeLinksCmd.key "'">
 
 <!ENTITY closeCmd.label "Slute">
 <!ENTITY closeCmd.key "W">

@@ -1,20 +1,18 @@
 <!ENTITY securityTitle.label "Befeiliging">
 <!ENTITY securityHeading.label "Om ûndertekene of fersifere berjochten te ferstjoeren moatte jo in digitale ûndertekening en in fersiferingssertifikaat spesifisearje.">
 <!ENTITY encryptionGroupTitle.label "Fersifering">
-<!ENTITY encryptionChoiceLabel.label "Standaard versleutelingsinstelling bij verzenden van berichten:">
-<!ENTITY neverEncrypt.label "Nooit (geen versleuteling gebruiken)">
-<!ENTITY alwaysEncryptMessage.label "Vereist (kan bericht niet verzenden, tenzij alle geadresseerden een certificaat hebben)">
-<!ENTITY encryptionCert.message "Dit certificaat gebruiken voor het versleutelen en ontcijferen van naar u verzonden berichten:">
-<!ENTITY encryptionCert.notselected "Geen certificaat ingesteld">
-<!ENTITY certificate.button "Selecteren…">
-<!ENTITY certificate_clear.button "Wissen">
-<!ENTITY signingGroupTitle.label "Digitale ondertekening">
-<!ENTITY signMessage.label "Alle berichten digitaal ondertekenen (standaard)">
-<!ENTITY signingCert.message "Dit certificaat gebruiken om berichten die u verzendt digitaal te ondertekenen:">
-<!ENTITY signingCert.notselected "Geen certificaat ingesteld">
+<!ENTITY encryptionChoiceLabel.label "Standert fersiferingsynstelling by ferstjoern fan berjochten:">
+<!ENTITY neverEncrypt.label "Noait (gjin fersifering brûke)">
+<!ENTITY alwaysEncryptMessage.label "Fereasket (kin berjocht net ferstjoere, tenzij alle adressearden in sertifikaat hawwe)">
+<!ENTITY encryptionCert.message "Dit sertifikaat brûke foar it fersiferjen en ûntsiferjen fan nei jo ferstjoerde berjochten:">
+<!ENTITY certificate.button "Selektearje…">
+<!ENTITY certificate_clear.button "Wisse">
+<!ENTITY signingGroupTitle.label "Digitale ûndertekening">
+<!ENTITY signMessage.label "Alle berjochten digitaal ûndertekenje (standert)">
+<!ENTITY signingCert.message "Dit sertifikaat brûke om berjochten dy't jo ferstjoere digitaal te ûndertekenjen:">
 
-<!ENTITY certificates.label     "Certificaten">
-<!ENTITY managecerts.label      "Certificaten bekijken">
-<!ENTITY managecerts.accesskey  "C">
-<!ENTITY managedevices.label    "Beveiligingsapparaten">
+<!ENTITY certificates.label     "Sertifikaten">
+<!ENTITY managecerts.label      "Sertifikaten besjen">
+<!ENTITY managecerts.accesskey  "S">
+<!ENTITY managedevices.label    "Befeiligingsapparaten">
 <!ENTITY managedevices.accesskey "B">

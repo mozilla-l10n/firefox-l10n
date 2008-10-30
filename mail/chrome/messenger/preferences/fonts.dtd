@@ -6,7 +6,6 @@
 <!ENTITY  language.label                          "Lettertypen voor:">
 <!ENTITY  language.accesskey                      "L">
 
-<!ENTITY  typefaces.label                         "Lettertype">
 <!ENTITY  sizes.label                             "Grootte (pixels)">
 <!ENTITY  proportionalSize.accesskey              "G">
 <!ENTITY  monospaceSize.accesskey                 "e">
@@ -20,8 +19,6 @@
 <!ENTITY  sans-serif.accesskey                    "c">
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "M">
-
-<!ENTITY  fontsize.units                          "pixels">
 
 <!ENTITY  font.langGroup.latin1                   "Westers">
 <!ENTITY  font.langGroup.latin2                   "Centraal-Europees">
@@ -59,8 +56,6 @@
 <!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Met schreef">
 <!ENTITY  useDefaultFontSansSerif.label           "Schreefloos">
-
-<!ENTITY  newLanguages.label                      "Nieuwe talen kunnen worden geconfigureerd in het paneel Talen.">
 
 <!ENTITY  useDocumentFonts.label                  "Berichten toestaan om andere lettertypen te gebruiken">
 <!ENTITY  useDocumentFonts.accesskey              "a">
