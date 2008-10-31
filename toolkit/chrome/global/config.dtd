@@ -45,6 +45,7 @@
 
 <!ENTITY filterPrefs.label "Filtru:">
 <!ENTITY filterPrefs.accesskey "i">
+<!ENTITY focusFilter.key "f">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Nume preferință">

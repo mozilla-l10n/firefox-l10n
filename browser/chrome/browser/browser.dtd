@@ -233,10 +233,12 @@
 <!ENTITY viewPageInfoCmd.accesskey    "i">
 <!ENTITY viewFrameInfoCmd.label       "Vezi informații despre cadru">
 <!ENTITY viewFrameInfoCmd.accesskey   "i">
-<!ENTITY showImageCmd.label           "Arată imaginea">
-<!ENTITY showImageCmd.accesskey       "i">
+<!ENTITY reloadImageCmd.label         "Reîncarcă imaginea">
+<!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "Vezi imaginea">
 <!ENTITY viewImageCmd.accesskey       "i">
+<!ENTITY viewVideoCmd.label           "Vezi clipul">
+<!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "Vezi imaginea de fundal">
 <!ENTITY viewBGImageCmd.accesskey     "f">
 <!ENTITY setDesktopBackgroundCmd.label      "Setează ca tapet pe spațiul de lucru...">
@@ -264,8 +266,16 @@
 <!ENTITY sendLinkCmd.accesskey        "l">
 <!ENTITY saveImageCmd.label           "Salvează imaginea ca...">
 <!ENTITY saveImageCmd.accesskey       "v">
+<!ENTITY saveVideoCmd.label           "Salvează clipul ca…">
+<!ENTITY saveVideoCmd.accesskey       "v">
+<!ENTITY saveAudioCmd.label           "Salvează fișierul audio ca…">
+<!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY sendImageCmd.label           "Trimite imaginea...">
 <!ENTITY sendImageCmd.accesskey       "n">
+<!ENTITY sendVideoCmd.label           "Trimite clipul…">
+<!ENTITY sendVideoCmd.accesskey       "T">
+<!ENTITY sendAudioCmd.label           "Trimite fișierul audio…">
+<!ENTITY sendAudioCmd.accesskey       "T">
 <!ENTITY copyLinkCmd.label            "Copiază adresa legăturii">
 <!ENTITY copyLinkCmd.accesskey        "C">
 <!ENTITY copyLinkTextCmd.label        "Copiază textul legăturii">
@@ -274,13 +284,32 @@
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Copiază imaginea">
 <!ENTITY copyImageContentsCmd.accesskey  "p"> 
-<!ENTITY blockImageCmd.accesskey       "g">
+<!ENTITY copyVideoURLCmd.label        "Copiază adresa clipului">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Copiază adresa fișierului audio">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY blockImageCmd.accesskey      "g">
 <!ENTITY metadataCmd.label            "Proprietăți">
 <!ENTITY metadataCmd.accesskey        "P">
 <!ENTITY copyEmailCmd.label           "Copiază adresa de email">
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Acest cadru">
 <!ENTITY thisFrameMenu.accesskey          "d">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "Redare">
+<!ENTITY mediaPlay.accesskey         "R">
+<!ENTITY mediaPause.label            "Pauză">
+<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaMute.label             "Mut">
+<!ENTITY mediaMute.accesskey         "M">
+<!ENTITY mediaUnmute.label           "Activează sonorul">
+<!ENTITY mediaUnmute.accesskey       "A">
+<!ENTITY mediaShowControls.label     "Arată controalele">
+<!ENTITY mediaShowControls.accesskey "c">
+<!ENTITY mediaHideControls.label     "Ascunde controalele">
+<!ENTITY mediaHideControls.accesskey "c">
+
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and

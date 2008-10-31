@@ -8,7 +8,7 @@
 <!ENTITY safeb.palm.message.p2.linkText "cum &brandShortName; vă protejează">
 <!ENTITY safeb.palm.message.p2.end "de atacuri „phishing”.">
 
-<!ENTITY safeb.palm.accept.label "Du-mă de-aici!">
+<!ENTITY safeb.palm.accept.label "Du-mă de aici!">
 <!ENTITY safeb.palm.accept.statustext "Du-mă la pagina mea de start">
 <!ENTITY safeb.palm.decline.label "Ignoră acest avertisment">
 <!ENTITY safeb.palm.decline.statustext "Închide avertismentul" >
