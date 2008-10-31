@@ -1,6 +1,8 @@
-<!ENTITY restorepage.title          "Restaurar sesión previa">
-<!ENTITY restorepage.titletext      "Su última sesión de &brandShortName; se ha cerrado inesperadamente">
-<!ENTITY restorepage.shortDesc      "Puede restaurar las pestañas y ventanas de su sesión anterior o iniciar una nueva si no las necesita más. Nuestras disculpas por los inconvenientes ocasionados.">
+<!ENTITY restorepage.tabtitle       "Restaurar sesión previa">
+<!ENTITY restorepage.pagetitle      "¿Desea restaurar su sesión?">
+<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
+                        you may translate "crash" instead (even though it's IT-speak) -->
+<!ENTITY restorepage.issueDesc      "Su sesión anterior de &brandShortName; se ha cerrado inesperadamente. Nuestras disculpas por los inconvenientes ocasionados. Puede restaurar las pestañas y ventanas de su sesión anterior o iniciar una nueva si no las necesita más.">
 <!ENTITY restorepage.remedies       "Si &brandShortName; se cierra repetidamente:">
 <!ENTITY restorepage.dueToChrome    "Intente deshabilitar cualquier extensión agregada recientemente en el Administrador de agregados.">
 <!ENTITY restorepage.dueToContent   "Intente restaurar su sesión sin las páginas web que sospeche que estén causando el problema:">

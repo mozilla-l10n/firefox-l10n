@@ -19,4 +19,7 @@
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "v">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Mostrar todas las etiquetas">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Cargar este marcador en la barra lateral">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "b"><!ENTITY editBookmarkOverlay.choose.label                    "Seleccionar…">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "b">
+<!ENTITY editBookmarkOverlay.choose.label                    "Seleccionar…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Nueva carpeta">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "N">
