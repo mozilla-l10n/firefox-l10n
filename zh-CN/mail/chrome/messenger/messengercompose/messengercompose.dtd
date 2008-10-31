@@ -69,7 +69,6 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "删除">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "d">
 <!ENTITY selectAllCmd.label "选择全部">
 <!ENTITY selectAllCmd.key "A">
@@ -90,7 +89,6 @@
 <!ENTITY viewToolbarsMenuNew.label "工具栏">
 <!ENTITY viewToolbarsMenuNew.accesskey "T">
 <!ENTITY showCompositionToolbarCmd.label "编写工具栏">
-<!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "格式栏">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "状态栏">
@@ -155,7 +153,6 @@
 <!ENTITY accountManagerCmd.accesskey "m">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
 <!ENTITY preferencesCmd.label "选项…">
-<!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "首选项">
 <!ENTITY preferencesCmdUnix.accesskey "n">
@@ -192,9 +189,6 @@
 <!ENTITY subject.accesskey "s">
 <!ENTITY attachments.label "附件:">
 <!ENTITY attachments.accesskey "a">
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
 <!ENTITY SmileButton.tooltip "插入一个笑脸">
 <!ENTITY smiley1Cmd.label "微笑">
 <!ENTITY smiley2Cmd.label "皱眉">

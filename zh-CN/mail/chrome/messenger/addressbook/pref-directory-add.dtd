@@ -12,12 +12,9 @@
 <!ENTITY directorySecure.accesskey "U">
 <!ENTITY directoryLogin.label "使用用户名和密码来登录">
 <!ENTITY directoryLogin.accesskey "L">
-<!ENTITY advancedOptionsButton.label "高级选项">
-<!ENTITY advancedOptionsButton.accesskey "a">
 <!ENTITY General.tab "基本信息">
 <!ENTITY Offline.tab "脱机">
 <!ENTITY Advanced.tab "高级">
-<!ENTITY advancedOptionsTitle.label "高级选项">
 <!ENTITY portNumber.label "端口号：">
 <!ENTITY portNumber.accesskey "p">
 <!ENTITY searchFilter.label "搜索过滤器：">

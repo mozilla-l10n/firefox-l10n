@@ -15,8 +15,6 @@
 <!ENTITY contextBoth.label "检查邮件或者手动运行">
 <!ENTITY filterActionDesc.label "执行动作:">
 <!ENTITY filterActionDesc.accesskey "P">
-<!ENTITY newFolderButton.label "新建文件夹…">
-<!ENTITY newFolderButton.accesskey "N">
 <!ENTITY moveMessage.label "移动消息至">
 <!ENTITY copyMessage.label "复制消息至">
 <!ENTITY forwardTo.label "转发消息至">

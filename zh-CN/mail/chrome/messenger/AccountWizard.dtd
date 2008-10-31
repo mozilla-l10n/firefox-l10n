@@ -16,17 +16,12 @@
 <!ENTITY fullnameLabel.accesskey "Y">
 <!ENTITY emailLabel.label "电子邮件地址:">
 <!ENTITY emailLabel.accesskey "E">
-<!ENTITY emailDesc.label "输入您的电子邮件地址；这是其他人给您发送邮件时使用的地址：">
-<!ENTITY emailExample.label "例如：example@netscape.net">
 <!ENTITY serverTitle.label "服务器信息">
-<!ENTITY incomingServerTitle.label "接收服务器">
 <!ENTITY incomingServerTypeDesc.label "选择您使用的接收服务器类型。">
-<!ENTITY incomingServerTypeLabel.label "服务器类型：">
 <!ENTITY incomingServerNameDesc.label "输入接收服务器名。（例如，&quot;pop.netscape.net&quot;）">
 <!ENTITY incomingServerLabel.label "接收服务器:">
 <!ENTITY incomingServerLabel.accesskey "S">
 <!ENTITY newsServerNameDesc.label "输入新闻 (NNTP) 服务器名。（例如，&quot;news.netscape.net&quot;。）">
-<!ENTITY smtpServerTitle.label "发送 (SMTP) 服务器">
 <!ENTITY smtpServerDesc.label "输入发送服务器 (SMTP) 名。（例如，&quot;smtp.netscape.net&quot;）">
 <!ENTITY smtpServerLabel.label "外发服务器:">
 <!ENTITY smtpServerLabel.accesskey "O">
@@ -36,7 +31,6 @@
 <!ENTITY imapType.accesskey "I">
 <!ENTITY popType.label "POP 邮件服务器">
 <!ENTITY popType.accesskey "P">
-<!ENTITY nntpType.label "新闻服务器">
 <!ENTITY haveSmtp1.prefix "将使用您当前的外发服务器(SMTP)， &quot;">
 <!ENTITY haveSmtp1.suffix "&quot;。您也可以通过选择‘工具’菜单下的‘邮件和新闻组帐号设置’对外发服务器设置进行修改。">
 <!ENTITY loginTitle.label "用户名 ">
@@ -53,7 +47,6 @@
 <!ENTITY haveSmtp3.suffix "&quot; 和您的接收服务器相同，您的接收用户名将被用来访问它。您也可以通过选择‘工具’菜单下的‘邮件和新闻组帐号设置’对外发服务器设置进行修改。">
 <!ENTITY accnameTitle.label "帐户名称">
 <!ENTITY accnameDesc.label "输入您想要此帐户使用的名称。（例如，&quot;工作帐户&quot;、&quot;家庭帐户&quot; 或 &quot;新闻帐户&quot;）">
-<!ENTITY accnameExample.label "例如，工作帐户、家庭帐户或新闻帐户">
 <!ENTITY accnameLabel.label "帐户名称:">
 <!ENTITY accnameLabel.accesskey "A">
 <!ENTITY completionTitle.label "恭喜您！">

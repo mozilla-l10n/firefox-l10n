@@ -1,7 +1,5 @@
 <!ENTITY securityMenu.label "安全">
 <!ENTITY securityMenu.accesskey "e">
-<!ENTITY menu_securityEncryptIfPossible.label "如果可能则加密">
-<!ENTITY menu_securityEncryptIfPossible.accesskey "P">
 <!ENTITY menu_securityEncryptRequire.label "加密此消息">
 <!ENTITY menu_securityEncryptRequire.accesskey "E">
 <!ENTITY menu_securityNoEncryption.label "不加密此消息">

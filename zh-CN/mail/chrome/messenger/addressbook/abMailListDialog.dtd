@@ -5,7 +5,6 @@
 <!ENTITY ListNickName.label "列表别名：">
 <!ENTITY ListDescription.label "描述：">
 <!ENTITY AddressTitle.label "输入姓名或将地址拖到下面的邮件列表中：">
-<!ENTITY RemoveButton.label "删除">
 <!ENTITY UpButton.label "上移">
 <!ENTITY DownButton.label "下移">
 <!ENTITY addToAddressBook.accesskey "A">

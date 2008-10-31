@@ -4,32 +4,26 @@
 <!ENTITY askMe.label "询问我将做什么">
 <!ENTITY askMe.accesskey "k">
 <!ENTITY convertPlain.label "把消息转换为纯文本">
-<!ENTITY convertPlain.accesskey "c">
+<!ENTITY convertPlain.accesskey "C">
 <!ENTITY sendHTML.label "无论如何均以 HTML 格式发送">
-<!ENTITY sendHTML.accesskey "s">
+<!ENTITY sendHTML.accesskey "S">
 <!ENTITY sendBoth.label "以纯文本和 HTML 两种格式发送">
 <!ENTITY sendBoth.accesskey "e">
-<!ENTITY receiveHTML.label "如果您知道某个收件人可以接收 HTML 邮件，在收件人通讯录名片中取消选中“只以纯文本格式发送（非 HTML）”复选框。">
 <!ENTITY override.label "说明：使用通讯录为收件人指定优先的文本格式。">
 <!ENTITY domaindesc.label "当向具有如下所列域的地址发送消息时，&brandShortName; 会自动以正确的格式来发送消息。">
 <!ENTITY HTMLTab.label "HTML 域">
-<!ENTITY HTMLTab.accesskey "h">
+<!ENTITY HTMLTab.accesskey "H">
 <!ENTITY PlainTextTab.label "纯文本域">
-<!ENTITY PlainTextTab.accesskey "p">
+<!ENTITY PlainTextTab.accesskey "P">
 <!ENTITY AddHtmlDomain.label "添加…">
-<!ENTITY AddHtmlDomain.accesskey "a">
+<!ENTITY AddHtmlDomain.accesskey "A">
 <!ENTITY AddPlainText.label "添加…">
-<!ENTITY AddPlainText.accesskey "d">
+<!ENTITY AddPlainText.accesskey "A">
 <!ENTITY DeleteHtmlDomain.label "删除">
-<!ENTITY DeleteHtmlDomain.accesskey "l">
+<!ENTITY DeleteHtmlDomain.accesskey "D">
 <!ENTITY DeletePlainText.label "删除">
-<!ENTITY DeletePlainText.accesskey "t">
+<!ENTITY DeletePlainText.accesskey "D">
 <!ENTITY add.htmltitle "添加 HTML 域名">
 <!ENTITY add.htmldomain "HTML 域名：">
-<!ENTITY add.htmldomain.accesskey "d">
 <!ENTITY add.plaintexttitle "添加纯文本域名：">
 <!ENTITY add.plaintextdomain "纯文本域名称：">
-<!ENTITY add.plaintext.accesskey "d">
-<!ENTITY domainnameError.title "域名错误">
-<!ENTITY duplicationError.label "域名 @string@ 已经存在于列表中。">
-<!ENTITY dualEntryError.label "一个域名不能同时出现在 HTML 和纯文本列表中。此域名@string@ 已经存在。">

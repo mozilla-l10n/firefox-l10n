@@ -20,7 +20,6 @@
 <!ENTITY showAnimatedAlert.accesskey "S">
 <!ENTITY customizeMailAlert.label "自定义…">
 <!ENTITY customizeMailAlert.accesskey "C">
-<!ENTITY soundNotification1.caption "声音">
 <!ENTITY play.label "播放">
 <!ENTITY play.accesskey "P">
 <!ENTITY systemsound.label "默认的系统新邮件提示声">

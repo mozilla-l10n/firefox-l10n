@@ -50,7 +50,6 @@
 <!ENTITY retention.label "保留策略">
 <!ENTITY retentionUseDefault.label "使用服务器默认设置">
 <!ENTITY retentionUseDefault.accesskey "d">
-<!ENTITY days.label "天的消息">
 <!ENTITY daysOld.label "天的消息">
 <!ENTITY message.label "消息">
 <!ENTITY retentionCleanup.label "将旧消息永久删除可释放更多的磁盘空间">
@@ -71,16 +70,13 @@
 <!ENTITY offlineFolder.button.accesskey "D">
 <!ENTITY selectofflineNewsgroup.check.label "选择要脱机使用的新闻组">
 <!ENTITY selectofflineNewsgroup.check.accesskey "o">
-<!ENTITY UseDefaultofflineNewsgroup.check.label "使用帐户默认设置">
 <!ENTITY offlineNewsgroup.button.label "立即下载">
 <!ENTITY offlineNewsgroup.button.accesskey "D">
-<!ENTITY folderProps.information.label "信息：">
 <!ENTITY folderProps.name.label "名称：">
 <!ENTITY folderProps.name.accesskey "N">
 <!ENTITY folderProps.location.label "地址:">
 <!ENTITY folderProps.location.accesskey "L">
 <!ENTITY folderSharingTab.label "共享">
-<!ENTITY privilegesDesc.label "与网络用户共享此文件夹以及其他文件夹、显示和设置访问权限">
 <!ENTITY privileges.button.label "权限…">
 <!ENTITY privileges.button.accesskey "P">
 <!ENTITY permissionsDesc.label "您拥有如下的权限：">

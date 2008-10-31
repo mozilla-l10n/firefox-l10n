@@ -1,10 +1,8 @@
 <!--null-->
 <!ENTITY pref.ldap.window.title "LDAP 目录服务器">
-<!ENTITY directory.label "添加一个目录">
 <!ENTITY directories.label "LDAP 目录服务器：">
 <!ENTITY directoriesText.label "选择 LDAP 目录服务器：">
 <!ENTITY directoriesText.accesskey "S">
-<!ENTITY autocomplete.title "LDAP 目录服务器">
 <!ENTITY addDirectory.label "添加">
 <!ENTITY addDirectory.accesskey "a">
 <!ENTITY editDirectory.label "编辑">

@@ -4,15 +4,11 @@
 <!ENTITY searchSubfolders.accesskey "e">
 <!ENTITY resetButton.label "清除">
 <!ENTITY resetButton.accesskey "C">
-<!ENTITY optionsButton.label "选项">
-<!ENTITY closeButton.label "关闭">
 <!ENTITY openButton.label "打开">
 <!ENTITY openButton.accesskey "n">
 <!ENTITY deleteButton.label "删除">
 <!ENTITY deleteButton.accesskey "D">
 <!ENTITY searchDialogTitle.label "搜索消息">
-<!ENTITY conditionDesc.label "搜索符合条件的消息：">
-<!ENTITY conditions.label "条件">
 <!ENTITY results.label "结果">
 <!ENTITY fileHereMenu.label "移动至此处">
 <!ENTITY fileHereMenu.accesskey "F">
@@ -41,7 +37,6 @@
 <!ENTITY statusColumn.label "状态">
 <!ENTITY sizeColumn.label "大小">
 <!ENTITY junkStatusColumn.label "垃圾状态">
-<!ENTITY linesColumn.label "行">
 <!ENTITY unreadColumn.label "未读">
 <!ENTITY totalColumn.label "总共">
 <!ENTITY readColumn.label "已读">

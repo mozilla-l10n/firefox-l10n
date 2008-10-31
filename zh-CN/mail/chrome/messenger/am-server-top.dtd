@@ -1,9 +1,5 @@
 <!ENTITY securitySettings.label "安全设置">
 <!ENTITY serverSettings.label "服务器设置">
-<!ENTITY popServer.label "POP 邮件服务器">
-<!ENTITY imapServer.label "IMAP 邮件服务器">
-<!ENTITY newsServer.label "新闻服务器">
-<!ENTITY webmail.label "Web 邮件帐户">
 <!ENTITY serverType.label "服务器类型：">
 <!ENTITY serverName.label "服务器名称：">
 <!ENTITY serverName.accesskey "S">
@@ -40,9 +36,7 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "自动下载新消息">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY hostname.label "服务器主机名">
 <!ENTITY username.label "您的登录名">
-<!ENTITY popServerTitle.label "POP 服务器消息">
 <!ENTITY deleteMessagePrefix.label "在删除消息时：">
 <!ENTITY modelMoveToTrash.label "将之移到此文件夹中:">
 <!ENTITY modelMoveToTrash.accesskey "o">

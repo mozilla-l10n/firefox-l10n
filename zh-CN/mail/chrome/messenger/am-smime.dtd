@@ -5,13 +5,11 @@
 <!ENTITY neverEncrypt.label "从不（不加密）">
 <!ENTITY alwaysEncryptMessage.label "必需（所有接收者必须有证书，否则不发送消息）">
 <!ENTITY encryptionCert.message "使用如下证书对发送给您的消息进行加密和解密：">
-<!ENTITY encryptionCert.notselected "没有设置证书">
 <!ENTITY certificate.button "选择…">
 <!ENTITY certificate_clear.button "清空">
 <!ENTITY signingGroupTitle.label "数字签名">
 <!ENTITY signMessage.label "对消息数字签名（默认）">
 <!ENTITY signingCert.message "使用如下证书对您发送的消息进行数字签名：">
-<!ENTITY signingCert.notselected "没有设置证书">
 <!ENTITY certificates.label "证书">
 <!ENTITY managecerts.label "查看证书">
 <!ENTITY managecerts.accesskey "V">

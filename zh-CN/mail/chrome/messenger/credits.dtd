@@ -1,23 +1,10 @@
 <!ENTITY credit.title "&brandFullName; 贡献者">
 <!ENTITY brandMotto "雷鸟放飞！">
 <!ENTITY credit.leads "工程领导者">
-<!ENTITY credit.core "核心开发团队">
-<!ENTITY credit.gecko "Gecko 布局引擎">
 <!ENTITY credit.thanks "特别致谢">
 <!ENTITY credit.translation "<h3>翻译人员</h3><ul><li>文少华</li><li>Serena Xiao</li></ul>">
-<!ENTITY credit.visuals "视觉协同设计">
 <!ENTITY credit.theme "主题设计">
-<!ENTITY credit.brand "品牌设计">
-<!ENTITY credit.web "网页设计">
-<!ENTITY credit.update "Mozilla 更新">
-<!ENTITY credit.qalead "质量管理领导者">
 <!ENTITY credit.qa "质量管理">
 <!ENTITY credit.build "编译发布">
-<!ENTITY credit.infra "基础支持">
-<!ENTITY credit.support "资源支持">
-<!ENTITY credit.manage "项目管理">
-<!ENTITY credit.marketleads "市场运作领导者">
-<!ENTITY credit.market "市场运作">
-<!ENTITY credit.creators "创造者">
 <!ENTITY credit.memory "深情怀念">
 <!ENTITY credit.poweredByGecko "由 Gecko&trade;  提供动力">
