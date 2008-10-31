@@ -12,8 +12,6 @@
 <!ENTITY itemCache.accesskey          "e">
 <!ENTITY itemDownloads.label          "Historik Shkarkimesh">
 <!ENTITY itemDownloads.accesskey      "k">
-<!ENTITY itemSessions.label           "Sesione të Mirëfilltësuar">
-<!ENTITY itemSessions.accesskey       "S">
 <!ENTITY window.width                 "30em">
 <!ENTITY clearDataSettings.label      "Kur i kërkoj &brandShortName;-it të pastrojë të dhënat e mia vetjake, do të duhej të fshinte:">
 <!ENTITY itemOfflineApps.label        "Të dhëna &quot;Site&quot;-i Web &quot;Offline&quot;">
