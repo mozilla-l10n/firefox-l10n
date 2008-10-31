@@ -21,3 +21,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label "Hlaða þessu bókamerki inn í hliðslá">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey "h">
 <!ENTITY editBookmarkOverlay.choose.label "Velja…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label "Ný mappa">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey "N">

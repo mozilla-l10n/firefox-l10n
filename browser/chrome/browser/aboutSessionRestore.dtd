@@ -1,5 +1,5 @@
 <!ENTITY restorepage.tabtitle "Endurheimta lotu">
-<!ENTITY restorepage.pagetitle "Viltu endurreisa seinustu lotu?">
+<!ENTITY restorepage.pagetitle "Viltu endurheimta seinustu lotu?">
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
 <!ENTITY restorepage.issueDesc "Seinasta &brandShortName; lota lokaðist óvænt. Við biðjumst velvirðingar á óþægindinum. Þú getur endurheimt flipa og glugga frá seinustu lotu, eða byrjað nýja lotu ef þú þarfnast þeirra ekki.">

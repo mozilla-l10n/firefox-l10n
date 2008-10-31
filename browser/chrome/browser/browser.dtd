@@ -247,6 +247,8 @@
 <!ENTITY reloadImageCmd.accesskey "R">
 <!ENTITY viewImageCmd.label "Sjá mynd">
 <!ENTITY viewImageCmd.accesskey "m">
+<!ENTITY viewVideoCmd.label "Skoða myndband">
+<!ENTITY viewVideoCmd.accesskey "S">
 <!ENTITY viewBGImageCmd.label "Sjá bakgrunnsmynd">
 <!ENTITY viewBGImageCmd.accesskey "b">
 <!ENTITY setDesktopBackgroundCmd.label "Setja sem bakgrunnsmynd…">
