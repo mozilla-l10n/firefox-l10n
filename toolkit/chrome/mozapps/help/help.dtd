@@ -19,9 +19,8 @@
 <!ENTITY printButton.label "打印">
 <!ENTITY printButton.tooltip "打印当前页">
 <!ENTITY closeWindow.commandkey "W">
-<!ENTITY searchtab.label "搜索">
-<!ENTITY searchtab.accesskey "S">
-<!ENTITY searchClose.tooltip "关闭搜索结果">
+<!ENTITY search.emptytext "搜索">
+<!ENTITY searchHeader.label "搜索结果">
 <!ENTITY toctab.label "内容">
 <!ENTITY toctab.accesskey "C">
 <!ENTITY fullZoomReduceCmd.commandkey "-">

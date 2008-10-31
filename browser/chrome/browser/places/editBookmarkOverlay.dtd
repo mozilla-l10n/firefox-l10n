@@ -21,3 +21,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label "在侧栏中载入此书签">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey "h">
 <!ENTITY editBookmarkOverlay.choose.label "选择…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label "新建文件夹">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey "o">

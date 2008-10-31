@@ -15,6 +15,6 @@
 <!ENTITY itemOfflineApps.accesskey "O">
 <!ENTITY itemDownloads.label "下载历史">
 <!ENTITY itemDownloads.accesskey "D">
-<!ENTITY itemSessions.label "已通过验证的会话">
-<!ENTITY itemSessions.accesskey "S">
+<!ENTITY itemActiveLogins.label "活动的已登录会话">
+<!ENTITY itemActiveLogins.accesskey "L">
 <!ENTITY window.width "30em">
