@@ -320,8 +320,6 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY identity.runBy "i cili xhiron për llogari të">
 <!ENTITY identity.connectedTo "Jeni lidhur te">
-<!ENTITY showImageCmd.label           "Shfaq Pamjen">
-<!ENTITY showImageCmd.accesskey       "S">
 <!ENTITY bookmarkPageCmd2.accesskey   "F">
 <!ENTITY bookmarkPageCmd2.label       "Faqeruaje Këtë Faqe">            
 <!ENTITY bookmarkThisFrameCmd.accesskey  "k">            
@@ -352,3 +350,33 @@
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 <!ENTITY organizeBookmarks.label "Organizoni Faqerojtësit…">
+
+<!ENTITY copyVideoURLCmd.label        "Kopjo Vendndodhje Videoje
+<!ENTITY copyVideoURLCmd.accesskey    "k">
+<!ENTITY copyAudioURLCmd.label        "Kopjo Vendndodhje Audioje">
+<!ENTITY copyAudioURLCmd.accesskey    "k">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "Luaje">
+<!ENTITY mediaPlay.accesskey         "L">
+<!ENTITY mediaPause.label            "Pushim">
+<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaMute.label             "Pa Zë">
+<!ENTITY mediaMute.accesskey         "A">
+<!ENTITY mediaUnmute.label           "Me Zë">
+<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaShowControls.label     "Shfaqi Kontrollet">
+<!ENTITY mediaShowControls.accesskey "K">
+<!ENTITY mediaHideControls.label     "Fshihi Kontrollet">
+<!ENTITY mediaHideControls.accesskey "K">
+
+<!ENTITY reloadImageCmd.label         "Ringarko Pamjen">
+<!ENTITY reloadImageCmd.accesskey     "R">
+<!ENTITY saveVideoCmd.label           "Ruaje Videon Si…">
+<!ENTITY saveVideoCmd.accesskey       "u">
+<!ENTITY saveAudioCmd.label           "Ruaje Audion Si…">
+<!ENTITY saveAudioCmd.accesskey       "u">
+<!ENTITY sendVideoCmd.label           "Dërgoje Videon…">
+<!ENTITY sendVideoCmd.accesskey       "d">
+<!ENTITY sendAudioCmd.label           "Dërgoje Audion…">
+<!ENTITY sendAudioCmd.accesskey       "d">

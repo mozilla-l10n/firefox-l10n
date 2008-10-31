@@ -16,8 +16,6 @@
 <!ENTITY fullZoomEnlargeBtn.label 	"Rrit Madhësi Teksti">
 <!ENTITY fullZoomEnlargeBtn.accesskey   "I">
 <!ENTITY closeWindow.commandkey         "W">
-<!ENTITY searchtab.label    	  	"Kërkim">
-<!ENTITY searchtab.accesskey            "K">
 <!ENTITY toctab.label       	  	"Përmbajtje">
 <!ENTITY toctab.accesskey               "P">
 <!ENTITY fullZoomReduceCmd.commandkey	"-">
@@ -34,8 +32,9 @@
 <!ENTITY selectAllCmd.label             "Përzgjidhni Tërë">
 <!ENTITY selectAllCmd.accesskey         "A">
 <!ENTITY helpSearch.commandkey          "k">
-<!ENTITY searchClose.tooltip            "Mbylli përfundimet e kërkimit">
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY search.emptytext               "Kërkoni">
+<!ENTITY searchHeader.label             "Përfundime kërkimi">
