@@ -351,7 +351,7 @@
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 <!ENTITY organizeBookmarks.label "Organizoni Faqerojtësit…">
 
-<!ENTITY copyVideoURLCmd.label        "Kopjo Vendndodhje Videoje
+<!ENTITY copyVideoURLCmd.label        "Kopjo Vendndodhje Videoje">
 <!ENTITY copyVideoURLCmd.accesskey    "k">
 <!ENTITY copyAudioURLCmd.label        "Kopjo Vendndodhje Audioje">
 <!ENTITY copyAudioURLCmd.accesskey    "k">
