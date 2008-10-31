@@ -23,3 +23,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Ngarkoje këtë faqerojtës te anështylla">
 <!ENTITY editBookmarkOverlay.choose.label                    "Zgjidhni…">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Veçojini etiketat me presje.">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Dosje e Re">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "D">

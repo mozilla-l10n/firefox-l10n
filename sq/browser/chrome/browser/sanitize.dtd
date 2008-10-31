@@ -18,3 +18,6 @@
 <!ENTITY clearDataSettings.label      "Kur i kërkoj &brandShortName;-it të pastrojë të dhënat e mia vetjake, do të duhej të fshinte:">
 <!ENTITY itemOfflineApps.label        "Të dhëna &quot;Site&quot;-i Web &quot;Offline&quot;">
 <!ENTITY itemOfflineApps.accesskey    "T">
+
+<!ENTITY itemActiveLogins.label       "Hyrje Aktive">
+<!ENTITY itemActiveLogins.accesskey   "A">

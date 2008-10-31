@@ -380,3 +380,7 @@
 <!ENTITY sendVideoCmd.accesskey       "d">
 <!ENTITY sendAudioCmd.label           "Dërgoje Audion…">
 <!ENTITY sendAudioCmd.accesskey       "d">
+
+
+<!ENTITY viewVideoCmd.label           "Shiheni Videon">
+<!ENTITY viewVideoCmd.accesskey       "S">
