@@ -1,0 +1,13 @@
+<!-- extracted from content/pref-offline.xul -->
+
+<!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
+<!ENTITY window.title  "Desligado">
+<!ENTITY boxHeader  "Desligado">
+<!ENTITY rHeader  "Desligado">
+<!--LOCALIZATION NOTE (textStart): Don't translate "&brandShortName;".
+    Place "&brandShortName;" in the phrase where the name of the application should
+	 appear
+-->
+<!ENTITY textStart   "Ao iniciar o &brandShortName;:">
+<!ENTITY radioAskMode  "Perguntar-me se quero o modo ligado ou desligado">
+<!ENTITY radioUsePrev  "Usar o meu estado ligado/desligado anterior"> 

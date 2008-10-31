@@ -1,0 +1,31 @@
+<!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
+
+<!ENTITY  languages.customize.prefLangDescript          "As páginas web estão normalmente disponíveis em mais do que um idioma. Escolha os idiomas para mostrar as páginas web por ordem de preferência.">
+<!ENTITY languages.customize.title                      "Idiomas">
+<!ENTITY langtitle.label                                "idiomas para páginas web">
+<!ENTITY languages.customize.prefAddLangDescript        "Seleccione o(s) idiomas) que deseja adicionar.">
+<!ENTITY languages.customize.addButton.label            "Adicionar…">
+<!ENTITY languages.customize.addButton.accesskey        "A">
+<!ENTITY languages.customize.deleteButton.label         "Remover">
+<!ENTITY languages.customize.deleteButton.accesskey     "R">
+<!ENTITY languages.customize.add.title.label            "Adicionar idiomas">
+<!ENTITY languages.customize.available.label            "Idiomas:">
+<!ENTITY languages.customize.active.label               "Idiomas por ordem de preferência:">
+<!ENTITY languages.customize.others.label               "Outros:">
+<!ENTITY languages.customize.others.accesskey           "O">
+<!ENTITY languages.customize.Charset.grouplabel         "Codificação de caracteres pré-definida">
+<!ENTITY languages.customize.DefaultCharset.label       "Codificação de caracteres:">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "C">
+<!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
+<!ENTITY languages.customize.others.examples            "ex: en-bz, ar-jo">
+<!ENTITY languages.customize.moveUp.label               "Mover para cima">
+<!ENTITY languages.customize.moveUp.accesskey           "c">
+<!ENTITY languages.customize.moveDown.label             "Mover para baixo">
+<!ENTITY languages.customize.moveDown.accesskey         "b">
+
+<!ENTITY spelling.label                                 "Escrita">
+<!ENTITY checkSpelling.label                            "Verificar escrita ao escrever:">
+<!ENTITY checkSpelling.accesskey                        "a">
+<!ENTITY dontCheckSpelling.label                        "Nunca">
+<!ENTITY multilineCheckSpelling.label                   "Em caixas multi linha">
+<!ENTITY alwaysCheckSpelling.label                      "Todas as caixas">

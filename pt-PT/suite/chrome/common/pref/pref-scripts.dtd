@@ -1,0 +1,20 @@
+<!-- extracted from content/pref-scripts.xul -->
+
+<!--LOCALIZATION NOTE : FILE The 'Scripts & Plug-ins' preferences dialog -->
+<!ENTITY pref.scripts.title              "Scripts &amp; Plugins">
+
+<!ENTITY navigator.label                 "Navegador">
+<!ENTITY navigator.accesskey             "N">
+
+<!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
+<!ENTITY enableJavaScript.label          "Activar JavaScript para">
+<!ENTITY allowScripts.label              "Permitir scripts para:">
+<!ENTITY allowScripts.accesskey          "s">
+<!ENTITY allowWindowMoveResize.label     "Mover ou redimensionar janelas existentes">
+<!ENTITY allowWindowFlip.label           "Aumentar ou diminuir janelas">
+<!ENTITY allowWindowStatusChange.label   "Mudar o texto da barra de estado">
+<!ENTITY allowWindowImageSrcChange.label "mudar imagens">
+<!ENTITY allowContextmenuDisable.label   "Disactivar ou substituir menus de contexto">
+<!ENTITY allowHideStatusBar.label        "Ocultar a barra de estado">
+
+<!ENTITY enablePlugin.label              "Activar Plugins para">
