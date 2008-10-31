@@ -262,8 +262,6 @@
 <!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.label       "फ्रेम सूचना देखें">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
-<!ENTITY showImageCmd.label           "छवि दिखाएँ">
-<!ENTITY showImageCmd.accesskey       "S">
 <!ENTITY viewImageCmd.label           "छवि देखें">
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "पृष्ठभूमि छवि देखें">
@@ -421,3 +419,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "अधिक सूचना…">
 
 <!ENTITY downloadMonitor2.tooltip "डाउनलोड विंडो खोलने के लिए क्लिक करें">
+
+<!ENTITY reloadImageCmd.accesskey     "R">
+<!ENTITY reloadImageCmd.label         "छवि फिर लोड करें">
+
+<!ENTITY viewVideoCmd.label           "वीडियो देखें">
+<!ENTITY viewVideoCmd.accesskey       "I">
+

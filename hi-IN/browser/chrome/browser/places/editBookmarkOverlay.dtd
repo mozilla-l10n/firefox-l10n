@@ -21,3 +21,6 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "बाज़ू पट्टी में यह पुस्तचिह्न लोड करें">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
 <!ENTITY editBookmarkOverlay.choose.label                    "चुनें…">
+
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "नया फ़ोल्डर">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">

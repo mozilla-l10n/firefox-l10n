@@ -21,10 +21,6 @@
 <!ENTITY printButton.label              "छापें">
 <!ENTITY printButton.tooltip            "यह पृष्ठ छापें">
 <!ENTITY closeWindow.commandkey         "W">
-
-<!ENTITY searchtab.label                "खोजें">
-<!ENTITY searchtab.accesskey            "S">
-<!ENTITY searchClose.tooltip            "खोज परिणाम बंद करें">
 <!ENTITY toctab.label                   "अंतर्वस्तु">
 <!ENTITY toctab.accesskey               "C">
 
@@ -51,3 +47,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceBtn.accesskey    "O">
 <!ENTITY fullZoomEnlargeBtn.label       "बड़ा करें">
 <!ENTITY fullZoomEnlargeBtn.accesskey   "I">
+
+<!ENTITY search.emptytext               "खोजें">
+<!ENTITY searchHeader.label             "परिणाम खोजें">
+
