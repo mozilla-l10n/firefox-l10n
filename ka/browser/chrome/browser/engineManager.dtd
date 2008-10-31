@@ -12,10 +12,10 @@
 <!ENTITY  dn.accesskey              "D">
 <!ENTITY  remove.label              "ამოღება">
 <!ENTITY  remove.accesskey          "R">
-<!ENTITY  edit.label                "საკვანძო სიტყვის რედაქტირება...">
+<!ENTITY  edit.label                "საკვანძო სიტყვის რედაქტირება…">
 <!ENTITY  edit.accesskey            "t">
 
-<!ENTITY  addEngine.label           "სხვა საძიებო სისტემები...">
+<!ENTITY  addEngine.label           "სხვა საძიებო სისტემები…">
 <!ENTITY  addEngine.accesskey       "A">
 
 <!ENTITY  enableSuggest.label       "ძიების შემოთავაზებების ჩვენება">

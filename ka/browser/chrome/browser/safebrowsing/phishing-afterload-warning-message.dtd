@@ -15,8 +15,6 @@
 <!ENTITY safeb.palm.notforgery.label2 "ეს არაა ვებ ყალთაბანდობა…">
 <!ENTITY safeb.palm.report.label "რატომაა ეს საიტი დაბლოკილი?">
 
-<!ENTITY safeb.urlbaricon.tooltip "ეს გვერდი შესაძლოა საშიში იყოს; დაწკაპეთ დეტალებისთვის.">
-
 <!ENTITY safeb.blocked.malware.title "მოიერიშე საიტის პატაკი!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "ეს ვებ საიტი <span id='malware_sitename'/> ცნობილია როგორც მოიერიშე საიტი და დაიბლოკა თქვენი უსაფრთხოების პარამეტრების თანახმად.">

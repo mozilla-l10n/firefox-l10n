@@ -60,8 +60,8 @@
 <!ENTITY  generalEncoding       "კოდირება:">
 <!ENTITY  generalMetaName       "სახელი">
 <!ENTITY  generalMetaContent    "შიგთავსი">
-<!ENTITY  generalSecurityMore   "დაწვრილებით">
-<!ENTITY  generalSecurityMore.accesskey "o">
+<!ENTITY  generalSecurityDetails   "დაწვრილებით">
+<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "მედია">
 <!ENTITY  mediaTab.accesskey        "M">

@@ -8,6 +8,7 @@
 <!ENTITY removeallpermissions.label   "ყველა საიტის ამოღება">
 <!ENTITY removeallpermissions.accesskey "e">
 <!ENTITY address.label                "ვებ საიტის მისამართი:">
+<!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "დაბლოკვა">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "სეანსზე დაშვება">

@@ -22,10 +22,9 @@
 <!ENTITY printButton.tooltip            "ამ გვერდის ბეჭდვა">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY searchtab.label    	  	"ძიება">
-<!ENTITY searchtab.accesskey            "S">
-<!ENTITY searchClose.tooltip            "ძიების შედეგების დახურვა">
-<!ENTITY toctab.label       	  	"შინაარსი">
+<!ENTITY search.emptytext               "ძიება">
+<!ENTITY searchHeader.label             "ძიების შედეგები">
+<!ENTITY toctab.label                   "შინაარსი">
 <!ENTITY toctab.accesskey               "C">
 
 <!-- LOCALIZATION NOTE :

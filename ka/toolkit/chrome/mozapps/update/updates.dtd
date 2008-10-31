@@ -10,8 +10,10 @@
 <!ENTITY  cancel.accesskey                "C">
 
 <!ENTITY  noupdatesfound.title            "განახლება ვერ მოიძებნა">
-<!ENTITY  noupdatesfound.intro            "ახალი განახლებები მიუწვდომელია. &brandShortName;-ს შეუძლია 
-                                           პერიოდულად შეამოწმოს განახლებები.">
+<!ENTITY  noupdatesautoenabled.intro      "შესაძლო განახლებები არაა. &brandShortName; ბრაუზერი
+                                           პერიოდულად შეამოწმებს განახლებებს.">
+<!ENTITY  noupdatesautodisabled.intro     "Tშესაძლო განახლებები არაა. გთხოვთ კვლავ საცდოთ მოგვიანებით ან ნება დართოთ
+                                           &brandShortName; ბრაუზერს ეს თქვენს ნაცვლად გააკეთოს.">
 
 <!ENTITY  incompatibleChecking.label      "ამ განახლების შემოწმება არსებულ პაკეტებთან და/ან თემებთან თავსებადობაზე…">
 <!ENTITY  clickHere.label                 "ამ განახლების შესახებ დამატებითი ინფორმაციის ნახვა">

@@ -222,6 +222,8 @@
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "მონიშნულის წყაროს ჩვენება">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML წყაროს ჩვენება">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "გვერდის ვებ კოდების ჩვენება">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
@@ -231,10 +233,12 @@
 <!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.label       "ბლოკის მონაცემების ჩვენება">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
-<!ENTITY showImageCmd.label           "გამოსახულების ჩვენება">
-<!ENTITY showImageCmd.accesskey       "S">
+<!ENTITY reloadImageCmd.label           "გამოსახულების განახლება">
+<!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "ნახატის ჩვენება">
 <!ENTITY viewImageCmd.accesskey       "I">
+<!ENTITY viewVideoCmd.label           "ვიდეოს ჩვენება">
+<!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "ფონის ნახატის ჩვენება">
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "შპალერად მითითება…">
@@ -262,8 +266,16 @@
 <!ENTITY sendLinkCmd.accesskey        "d">
 <!ENTITY saveImageCmd.label           "ნახატის შენახვა როგორც…">
 <!ENTITY saveImageCmd.accesskey       "v">
+<!ENTITY saveVideoCmd.label           "ვიდეოს შენახვა როგორც…">
+<!ENTITY saveVideoCmd.accesskey       "v">
+<!ENTITY saveAudioCmd.label           "აუდიოს შენახვა როგორც…">
+<!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY sendImageCmd.label           "ნახატის გაგზავნა…">
 <!ENTITY sendImageCmd.accesskey       "n">
+<!ENTITY sendVideoCmd.label           "ვიდეოს გაგზავნა…">
+<!ENTITY sendVideoCmd.accesskey       "n">
+<!ENTITY sendAudioCmd.label           "აუდიოს გაგზავნა…">
+<!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label            "ბმის კოპირება">
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyLinkTextCmd.label        "ბმის ტექსტის კოპირება">
@@ -272,6 +284,10 @@
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "ნახატის კოპირება">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
+<!ENTITY copyVideoURLCmd.label        "ვიდეოს მისამართის კოპირება">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "აუდიოს მისამართის კოპირება">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY blockImageCmd.accesskey       "B">
 <!ENTITY metadataCmd.label            "პარამეტრები">
 <!ENTITY metadataCmd.accesskey        "P">
@@ -279,6 +295,21 @@
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "ეს ბლოკი">
 <!ENTITY thisFrameMenu.accesskey          "h">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "დაკვრა">
+<!ENTITY mediaPlay.accesskey         "P">
+<!ENTITY mediaPause.label            "პაუზა">
+<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaMute.label             "ხმის ამორთვა">
+<!ENTITY mediaMute.accesskey         "M">
+<!ENTITY mediaUnmute.label           "ხმის ჩართვა">
+<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaShowControls.label     "პულტის ჩვენება">
+<!ENTITY mediaShowControls.accesskey "C">
+<!ENTITY mediaHideControls.label     "პულტის დამალვა">
+<!ENTITY mediaHideControls.accesskey "C">
+
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -307,8 +338,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "მასშტაბი">
 <!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY newTabButton.tooltip           "ახალი დაფის გახსნა">
-<!ENTITY newWindowButton.tooltip        "ახალი ფანჯრის გახსნა">
+<!ENTITY newWindowButton.tooltip        "ახალი სარკმლის გახსნა">
 <!ENTITY sidebarCloseButton.tooltip     "გვერდითი პანელის დახურვა">
 
 <!ENTITY cutButton.tooltip              "ამოჭრა">

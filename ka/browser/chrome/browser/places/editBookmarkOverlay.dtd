@@ -21,3 +21,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "ამ სანიშნის გვერდითა პანელში ჩატვირთვა">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
 <!ENTITY editBookmarkOverlay.choose.label                    "შერჩევა…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "ახალი დასტა">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "N">

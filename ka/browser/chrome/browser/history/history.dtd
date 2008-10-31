@@ -22,7 +22,7 @@
 <!ENTITY openInNewTab.accesskey "T">
 <!ENTITY openInNewWindow.label "გახსნა ახალ დაფაზე">
 <!ENTITY openInNewWindow.accesskey "W">
-<!ENTITY bookmarkLink.label "ბმის სანიშნეებში შეტანა...">
+<!ENTITY bookmarkLink.label "ბმის სანიშნეებში შეტანა…">
 <!ENTITY bookmarkLink.accesskey "B">
 <!ENTITY copyLink.label "ბმის მისამართის კოპირება">
 <!ENTITY copyLink.accesskey "C">

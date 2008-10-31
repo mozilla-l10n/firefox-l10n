@@ -16,3 +16,4 @@
 <!ENTITY  bookmarkThisTab.accesskey    "B">
 <!ENTITY  undoCloseTab.label          "დაფის ხელახლა გახსნა">
 <!ENTITY  undoCloseTab.accesskey      "U">
+<!ENTITY  newTabButton.tooltip        "ახალი დაფის გახსნა">

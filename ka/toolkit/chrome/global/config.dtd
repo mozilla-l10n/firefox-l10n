@@ -44,9 +44,8 @@
 <!ENTITY aboutWarningCheckbox.label "ამ გაფრთხილების ჩვენება შემდგომ">
 
 <!ENTITY filterPrefs.label "ფილტრი:">
-<!ENTITY filterPrefs.accesskey "I">
-<!ENTITY showAll.label "სრული ჩვენება">
-<!ENTITY showAll.accesskey "W">
+<!ENTITY filterPrefs.accesskey "F">
+<!ENTITY focusFilter.key "f">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "პარამეტრი">

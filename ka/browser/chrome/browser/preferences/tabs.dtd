@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label             "ახალი გვერდები უნდა გაიხსნას:">
-<!ENTITY inNewWindow.label            "ახალ ფანჯარაში">
-<!ENTITY inNewWindow.accesskey        "w">
-<!ENTITY inNewTab.label               "ახალ დაფაზე">
-<!ENTITY inNewTab.accesskey           "t">
+<!ENTITY newWindowsAsTabs.label       "Open new windows in a new tab instead">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
 
 <!ENTITY warnCloseMultipleTabs.label  "გაფრთხილება მრავალი დაფის დახურვისას">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">

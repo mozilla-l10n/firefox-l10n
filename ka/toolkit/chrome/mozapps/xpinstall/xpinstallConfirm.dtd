@@ -2,7 +2,7 @@
 
 <!ENTITY dialog.title "პროგრამის ჩადგმა">
 <!ENTITY dialog.style            "width: 50em">
-<!ENTITY warningMain.label       "ჩადგით მხოლოდ ის პროგრამები რომელთა წარმომავლობას ენდობით.">
+<!ENTITY warningPrimary.label       "ჩადგით მოდულები მხოლოდ იმ ავტორებისგან რომელთაც ენდობით.">
 <!ENTITY warningSecondary.label  "მავნე პროგრამას შეუძლია თქვენს კომპიუტერს ან კონფიდენციალობას ზიან მიაყენოს.">
 
 <!ENTITY from.label "აქედან:">

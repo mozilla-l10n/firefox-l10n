@@ -7,8 +7,4 @@
 <!ENTITY  focusSearch1.key        "f">
 <!ENTITY  focusSearch2.key        "k">
 
-<!ENTITY  filter.label            "ძიება:">
-<!ENTITY  filter.accesskey        "S">
-
-<!ENTITY  clear.label             "გასუფთავება">
-<!ENTITY  clear.accesskey         "l">
+<!ENTITY  filter.emptytext        "ძიება">

@@ -21,3 +21,5 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "მოდულ(ებ)ის გასააქტივებლად &brandShortName; უნდა დაიხუროს და ხელახლა გაიხსნას.">
 
 <!ENTITY missingPlugin.label                                 "მოდულის ჩამოსატვირთად დაწკაპეთ აქ.">
+<!ENTITY disabledPlugin.label                                "მოდული შიგთავსისთვის ამოირთო. თქვენი მოდულების სამართავად დაწკაპეთ აქ.">
+<!ENTITY blockedPlugin.label                                 "ეს მოდული ამორთულია თქვენი უსაფრთხოების მიზნით.">

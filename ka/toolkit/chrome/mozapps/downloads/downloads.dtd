@@ -39,6 +39,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.clearList.tooltip              "დასრულებული, გაუქმებული და არშემდგარი ჩამოტვირთვების სიიდან ამოღება">
 <!ENTITY cmd.clearList.accesskey            "C">
 <!ENTITY cmd.find.commandKey              "f">
+<!ENTITY cmd.search.commandKey            "k">
 
 <!ENTITY closeWhenDone.label              "დახურვა ჩამოტვირთვის დასრულებისას">
 <!ENTITY closeWhenDone.tooltip            "ჩამოტვირთვის დაფის დახურვა ყველა ფაილის ჩამოტვირთვის შემდეგ">

@@ -19,6 +19,6 @@
 <!ENTITY itemOfflineApps.accesskey    "O">
 <!ENTITY itemDownloads.label          "ჩამოტვირთვის დავთარი">
 <!ENTITY itemDownloads.accesskey      "D">
-<!ENTITY itemSessions.label           "სეანსები აუთენტიფიკაციით">
-<!ENTITY itemSessions.accesskey       "S">
+<!ENTITY itemActiveLogins.label       "აქტიური შემოსვლები">
+<!ENTITY itemActiveLogins.accesskey   "L">
 <!ENTITY window.width                 "30em">
