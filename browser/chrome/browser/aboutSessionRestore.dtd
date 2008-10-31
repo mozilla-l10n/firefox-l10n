@@ -1,6 +1,8 @@
-<!ENTITY restorepage.title "Obnovení předchozí relace">
-<!ENTITY restorepage.titletext "Předchozí relace aplikace &brandShortName; skončila neočekávaně">
-<!ENTITY restorepage.shortDesc "Nyní můžete obnovit otevřené panely a okna původní relace a nebo začít novou relaci, pokud je již nepotřebujete. Omlouváme se za nepříjemnosti.">
+<!ENTITY restorepage.tabtitle "Obnovení relace">
+<!ENTITY restorepage.pagetitle "Chcete obnovit vaši relaci?">
+<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
+                        you may translate "crash" instead (even though it's IT-speak) -->
+<!ENTITY restorepage.issueDesc "Předchozí relace aplikace &brandShortName; skončila neočekávaně. Omlouváme se za nepříjemnosti. Nyní můžete obnovit otevřené panely a okna původní relace a nebo začít novou relaci, pokud je již nepotřebujete.">
 <!ENTITY restorepage.remedies "Pokud se &brandShortName; ukončuje opakovaně:">
 <!ENTITY restorepage.dueToChrome "Zkuste pomocí Správce doplňků odebrat některý z naposledy přidaných doplňků.">
 <!ENTITY restorepage.dueToContent "Zkuste obnovit relaci bez webové stránky, o které si myslíte, že způsobuje pád:">
@@ -12,5 +14,5 @@
 
 <!ENTITY restorepage.restoreHeader  "Obnovit">
 <!ENTITY restorepage.listHeader     "Okna a panely">
-<!-- LOCALIZATION NOTE: %S will be replaced with a number. -->
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Okno #&#37;S">
