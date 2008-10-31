@@ -22,4 +22,4 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey "C">
 <!ENTITY editBookmarkOverlay.choose.label "Scegli…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label "Nuova cartella">
-<!ENTITY editBookmarkOverlay.newFolderButton.accesskey "N">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey "o">
