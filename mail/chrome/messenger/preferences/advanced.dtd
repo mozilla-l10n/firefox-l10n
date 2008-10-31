@@ -19,8 +19,6 @@
 <!ENTITY reuseExpRadio0.accesskey "i">
 <!ENTITY reuseExpRadio1.label "已打开的消息窗口">
 <!ENTITY reuseExpRadio1.accesskey "x">
-<!ENTITY reuseExpRadio2.label "新消息标签页">
-<!ENTITY reuseExpRadio2.accesskey "Z">
 <!ENTITY configEditDesc.label "高级配置">
 <!ENTITY configEdit.label "配置编辑器…">
 <!ENTITY configEdit.accesskey "g">
@@ -61,7 +59,6 @@
 <!ENTITY useCacheAfter.label "MB 磁盘空间作为缓存">
 <!ENTITY clearCacheNow.label "立即清空">
 <!ENTITY clearCacheNow.accesskey "C">
-<!ENTITY certificatesInfo2.label "管理证书、证书吊销列表、证书验证以及安全设备。">
 <!ENTITY viewCertificates.label "查看证书">
 <!ENTITY viewCertificates.accesskey "a">
 <!ENTITY viewCRLs.label "证书吊销列表">

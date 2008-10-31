@@ -1,12 +1,3 @@
 <!--null-->
-<!ENTITY subscribechoosethis.label "选择此新闻服务器">
-<!ENTITY subscribeclickhere.label "单击此处选择一个新闻服务器">
 <!ENTITY newfolderchoosethis.label "选择我的父节点">
-<!ENTITY newfolderclickhere.label "单击此处选择">
-<!ENTITY renamefolderchoosethis.label "选择此文件夹">
-<!ENTITY renamefolderclickhere.label "单击此处选择一个文件夹">
 <!ENTITY filemessageschoosethis.label "选择此文件夹">
-<!ENTITY filemessagesclickhere.label "单击此处选择一个文件夹">
-<!ENTITY chooseaccountclickhere.label "单击此处选择帐户">
-<!ENTITY choosefolderclickhere.label "单击此处选择文件夹">
-<!ENTITY chooseserverToDeferTo.label "单击此处以选择保存消息的帐户">

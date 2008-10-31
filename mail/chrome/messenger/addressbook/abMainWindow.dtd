@@ -54,7 +54,6 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "p">
 <!ENTITY deleteCmd.label "删除">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "d">
 <!ENTITY deleteAbCmd.label "删除通讯录">
 <!ENTITY deleteCardCmd.label "删除名片">
@@ -106,7 +105,6 @@
 <!ENTITY exportCmd.label "导出…">
 <!ENTITY exportCmd.accesskey "E">
 <!ENTITY preferencesCmd.label "选项…">
-<!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "首选项">
 <!ENTITY preferencesCmdUnix.accesskey "n">

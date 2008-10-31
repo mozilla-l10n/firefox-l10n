@@ -3,5 +3,3 @@
 <!ENTITY unreadColumn.label "未读">
 <!ENTITY totalColumn.label "总共">
 <!ENTITY folderSizeColumn.label "大小">
-<!ENTITY accounts.label "帐户">
-<!ENTITY accounts.img "chrome://messenger/skin/local-mailhost.gif">

@@ -5,7 +5,6 @@
 <!ENTITY prefWindow.styleGNOME "width: 42em; min-height: 38em;">
 <!ENTITY paneGeneral.title "常规">
 <!ENTITY paneDisplay.title "显示">
-<!ENTITY paneTags.title "标签">
 <!ENTITY paneComposition.title "编写">
 <!ENTITY paneAttachments.title "附件">
 <!ENTITY panePrivacy.title "隐私">

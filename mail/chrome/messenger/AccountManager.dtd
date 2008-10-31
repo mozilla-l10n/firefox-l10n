@@ -3,11 +3,8 @@
 <!ENTITY addAccountButton.accesskey "A">
 <!ENTITY setDefaultButton.label "设置为默认帐户">
 <!ENTITY setDefaultButton.accesskey "f">
-<!ENTITY duplicateButton.label "复制">
 <!ENTITY removeButton.label "删除帐户">
 <!ENTITY removeButton.accesskey "R">
-<!ENTITY nameCol.label "姓名">
-<!ENTITY duplicate.label "复制">
 <!ENTITY accountManager.size "width: 55em; height: 50em;">
 <!ENTITY macAccountManager.size "width: 60em; height: 50em;">
 <!ENTITY accountTree.width "width: 17em;">

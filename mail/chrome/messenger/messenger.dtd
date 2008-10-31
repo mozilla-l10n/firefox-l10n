@@ -3,15 +3,12 @@
 <!ENTITY titleSeparator.label " - ">
 <!ENTITY newFolderCmd.label "文件夹…">
 <!ENTITY newFolderCmd.accesskey "F">
-<!ENTITY newTabCmd.label "新建标签页">
-<!ENTITY newTabCmd.accesskey "T">
 <!ENTITY closeTabCmd.label "关闭标签页">
 <!ENTITY closeTabCmd.accesskey "e">
 <!ENTITY newVirtualFolderCmd.label "已保存搜索…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newAccountCmd.label "帐户…">
 <!ENTITY newAccountCmd.accesskey "A">
-<!ENTITY openMessageMenu.label "打开">
 <!ENTITY openMessageFileCmd.label "打开已保存消息…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "附件">
@@ -64,7 +61,6 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "打印预览">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "页面设置…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY deleteMsgCmd.label "删除消息">
@@ -123,8 +119,6 @@
 <!ENTITY messagePaneWide.accesskey "W">
 <!ENTITY messagePaneVertical.label "直视图">
 <!ENTITY messagePaneVertical.accesskey "V">
-<!ENTITY threadPaneWide.label "宽列表视图">
-<!ENTITY threadPaneWide.accesskey "i">
 <!ENTITY showMessageCmd.label "消息">
 <!ENTITY showMessageCmd.accesskey "M">
 <!ENTITY folderView.label "文件夹">
@@ -183,8 +177,6 @@
 <!ENTITY threads.accesskey "e">
 <!ENTITY allMsgsCmd.label "全部">
 <!ENTITY allMsgsCmd.accesskey "A">
-<!ENTITY expandOrCollapseMenu.label "展开/折叠">
-<!ENTITY expandOrCollapseMenu.accesskey "x">
 <!ENTITY expandAllThreadsCmd.label "展开所有论题">
 <!ENTITY expandAllThreadsCmd.accesskey "E">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -235,8 +227,6 @@
 <!ENTITY pageSourceCmd.label "消息源代码">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
-<!ENTITY searchMenu.label "搜索">
-<!ENTITY searchMenu.accesskey "S">
 <!ENTITY findMenu.label "查找">
 <!ENTITY findMenu.accesskey "F">
 <!ENTITY findCmd.label "在消息中查找…">
@@ -357,8 +347,6 @@
 <!ENTITY markAsReadCmd.label "已读">
 <!ENTITY markAsReadCmd.accesskey "R">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "未读">
-<!ENTITY markAsUnreadCmd.accesskey "U">
 <!ENTITY markThreadAsReadCmd.label "论题为已读">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -383,7 +371,6 @@
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY windowMenu.label "窗口">
-<!ENTITY windowMenu.accesskey "W">
 <!ENTITY tasksMenu.label "工具">
 <!ENTITY tasksMenu.accesskey "T">
 <!ENTITY addons.label "附加组件">
@@ -424,7 +411,6 @@
 <!ENTITY printButton.label "打印">
 <!ENTITY stopButton.label "停止">
 <!ENTITY throbberItem.title "活动指示器">
-<!ENTITY updatesItem.title "更新">
 <!ENTITY junkButton.label "垃圾">
 <!ENTITY notJunkButton.label "非垃圾">
 <!ENTITY addressBookButton.label "通讯录">
@@ -434,7 +420,6 @@
 <!ENTITY tagButton.label "标签">
 <!ENTITY compactButton.label "压缩">
 <!ENTITY advancedButton.tooltip "高级消息搜索">
-<!ENTITY clearButton.tooltip "清空搜索准则，并显示所有消息">
 <!ENTITY getMsgButton.tooltip "获取新消息">
 <!ENTITY getAllNewMsgCmd.label "获取所有新消息">
 <!ENTITY getAllNewMsgCmd.accesskey "G">
@@ -500,8 +485,6 @@
 <!ENTITY folderContextSettings.accesskey "e">
 <!ENTITY SearchNameOrEmail.label "名称或者电子邮件包含:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
-<!ENTITY clearButton.label "清除">
-<!ENTITY clearButton.accesskey "C">
 <!ENTITY searchSubjectMenu.label "标题">
 <!ENTITY searchFromMenu.label "发件人">
 <!ENTITY searchSubjectOrFromMenu.label "标题或发件人">
@@ -520,7 +503,6 @@
 <!ENTITY statusColumn.label "状态">
 <!ENTITY sizeColumn.label "大小">
 <!ENTITY junkStatusColumn.label "垃圾状态">
-<!ENTITY linesColumn.label "行">
 <!ENTITY unreadColumn.label "未读">
 <!ENTITY totalColumn.label "总共">
 <!ENTITY readColumn.label "已读">
@@ -577,8 +559,6 @@
 <!ENTITY contextPrint.accesskey "P">
 <!ENTITY contextPrintPreview.label "打印预览">
 <!ENTITY contextPrintPreview.accesskey "v">
-<!ENTITY contextDelete.label "删除">
-<!ENTITY contextDelete.accesskey "D">
 <!ENTITY junkBarMessage1.label "垃圾邮件">
 <!ENTITY junkBarButton1.label "非垃圾">
 <!ENTITY junkInfoButton.label "?">
@@ -602,8 +582,6 @@
 <!ENTITY CopyEmailAddress.accesskey "C">
 <!ENTITY CreateFilterFrom.label "创建过滤器，从…">
 <!ENTITY CreateFilterFrom.accesskey "F">
-<!ENTITY BlockAddress.label "阻止地址">
-<!ENTITY BlockAddress.accesskey "A">
 <!ENTITY reportPhishingURL.label "报告电子邮件欺诈">
 <!ENTITY reportPhishingURL.accesskey "o">
 <!ENTITY saveLinkAsCmd.label "链接另存为…">

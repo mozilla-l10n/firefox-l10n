@@ -4,7 +4,6 @@
 <!ENTITY window.unixWidth "41em">
 <!ENTITY language.label "字体，对：">
 <!ENTITY language.accesskey "t">
-<!ENTITY typefaces.label "字样">
 <!ENTITY sizes.label "大小（象素）">
 <!ENTITY proportionalSize.accesskey "e">
 <!ENTITY monospaceSize.accesskey "x">
@@ -16,7 +15,6 @@
 <!ENTITY sans-serif.accesskey "n">
 <!ENTITY monospace.label "等宽字体：">
 <!ENTITY monospace.accesskey "m">
-<!ENTITY fontsize.units "像素">
 <!ENTITY font.langGroup.latin1 "西方">
 <!ENTITY font.langGroup.latin2 "中欧">
 <!ENTITY font.langGroup.japanese "日语">
@@ -49,7 +47,6 @@
 <!ENTITY minSize.none "无">
 <!ENTITY useDefaultFontSerif.label "衬线字体">
 <!ENTITY useDefaultFontSansSerif.label "无衬线字体">
-<!ENTITY newLanguages.label "您可以使用语言面板配置新语言。">
 <!ENTITY useDocumentFonts.label "允许消息使用其他字体">
 <!ENTITY useDocumentFonts.accesskey "o">
 <!ENTITY sendDefaultCharset.label "发送邮件：">

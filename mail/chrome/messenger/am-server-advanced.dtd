@@ -1,5 +1,4 @@
 <!ENTITY serverAdvanced.label "高级帐户设置">
-<!ENTITY imapAdvanced.label "高级 IMAP 服务器设置">
 <!ENTITY serverDirectory.label "IMAP 服务器目录：">
 <!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "仅显示已订阅的文件夹">
@@ -20,7 +19,6 @@
 <!ENTITY overrideNamespaces.label "允许服务器忽略这些名字空间">
 <!ENTITY overrideNamespaces.accesskey "A">
 <!ENTITY pop3Desc.label "从此服务器下载 pop 邮件时，使用下列文件夹保存新邮件：">
-<!ENTITY folderStorage.label "保存邮件的位置">
 <!ENTITY globalInbox.label "全局收件箱（本地文件夹帐户）">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "此服务器帐户的收件箱">

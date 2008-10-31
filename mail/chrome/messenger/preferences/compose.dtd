@@ -1,8 +1,6 @@
 <!ENTITY itemGeneral.label "常规">
 <!ENTITY itemAutoComplete.label "地址查找">
 <!ENTITY itemSpellCheck.label "拼写检查">
-<!ENTITY itemSendFormat.label "发送格式">
-<!ENTITY forwardReply.label "正在转发消息">
 <!ENTITY forwardMsg.label "转发消息：">
 <!ENTITY forwardMsg.accesskey "w">
 <!ENTITY inline.label "内联">
@@ -22,7 +20,6 @@
 <!ENTITY bgColor.accesskey "B">
 <!ENTITY restoreHTMLDefaults.label "恢复默认值">
 <!ENTITY restoreHTMLDefaults.accesskey "R">
-<!ENTITY sendingMessagesHeader.label "编写消息">
 <!ENTITY spellCheck.label "发送前进行拼写检查">
 <!ENTITY spellCheck.accesskey "C">
 <!ENTITY spellCheckInline.label "启用即时拼写检查">
@@ -46,9 +43,6 @@
 <!ENTITY directoriesNone.label "无">
 <!ENTITY editDirectories.label "编辑目录…">
 <!ENTITY editDirectories.accesskey "E">
-<!ENTITY matchText.label "如果在本地通讯录中有匹配的：">
-<!ENTITY skipDirectory.label "不在目录中搜索">
-<!ENTITY sendOptionsCaption.label "发送及 HTML 选项">
 <!ENTITY sendOptionsDescription.label "配置文本格式行为：">
 <!ENTITY sendOptions.label "发送选项…">
 <!ENTITY sendOptions.accesskey "S">
