@@ -1,0 +1,18 @@
+<!ENTITY restorepage.tabtitle       "Rikthe Sesionin">
+<!ENTITY restorepage.pagetitle      "Do të Donit të Riktheni Sesionin Tuaj?">
+<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
+                        you may translate "crash" instead (even though it's IT-speak) -->
+<!ENTITY restorepage.issueDesc      "Sesioni juaj i mëparshëm i  &brandShortName;-it u mbyll papritmas. Ju kërkojmë ndjesë sinqerisht për këtë mangësi. Mund të riktheni skedat dhe dritaret e sesionit të mëparshëm, ose të nisni një sesion të ri nëse ato nuk ju duhen më.">
+<!ENTITY restorepage.remedies       "Po qe se &brandShortName;-i mbyllet në mënyrë të përsëritur:">
+<!ENTITY restorepage.dueToChrome    "Provoni të çaktivizoni te Përgjegjësi i Shtesave cilindo zgjerim të shtuar së fundmi.">
+<!ENTITY restorepage.dueToContent   "Provoni të riktheni sesionin tuaj pa ndonjë faqe Web për të cilën dyshoni se mund të shkaktojë problemin:">
+
+<!ENTITY restorepage.restoreButton  "Rikthe Sesionin e Mëparshëm">
+<!ENTITY restorepage.restore.access "R">
+<!ENTITY restorepage.cancelButton   "Nis Sesion të Ri">
+<!ENTITY restorepage.cancel.access  "N">
+
+<!ENTITY restorepage.restoreHeader  "Rikthe">
+<!ENTITY restorepage.listHeader     "Dritare dhe Skeda">
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Dritaren &#37;S">
