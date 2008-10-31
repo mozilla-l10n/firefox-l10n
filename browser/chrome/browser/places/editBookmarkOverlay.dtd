@@ -21,3 +21,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Laad dizze blêdwizer yn de sidebalke">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "s">
 <!ENTITY editBookmarkOverlay.choose.label                    "Kies…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Nije map">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "a">

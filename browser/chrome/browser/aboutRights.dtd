@@ -2,7 +2,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "oer:rjochten">
 <!ENTITY rights.intro-header    "Oer jo rjochten">
-<!ENTITY rights.intro "&brandFullName; is fergees en iepen boarne software, makke troch in mienskip fan t鹺enen fan oeral oer de wr鈒d. Der binne in pear dingen dy't jo witte moatte:">
+<!ENTITY rights.intro "&brandFullName; is fergees en iepen boarne software, makke troch in mienskip fan t没zenen fan oeral oer de wr芒ld. Der binne in pear dingen dy't jo witte moatte:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -12,29 +12,29 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-<!ENTITY rights.intro-point1a "&brandShortName; is jo beskikber makke 鹡der de betingsten fan de ">
+<!ENTITY rights.intro-point1a "&brandShortName; is jo beskikber makke 没nder de betingsten fan de ">
 <!ENTITY rights.intro-point1b "Mozilla Publike Lisinsje">
-<!ENTITY rights.intro-point1c ". Dit betsjut dat jo &brandShortName; br鹝e meie, kopiearje en distribuearje nei oaren.  Jo binne ek wolkom om de boarnekoade te bewurkjen of &brandShortName; sa as jo dat wolle. De Mozilla Publike Lisinsje jout jo ek it rjocht om jo oanpaste ferzje te fersprieden.">
+<!ENTITY rights.intro-point1c ". Dit betsjut dat jo &brandShortName; br没ke meie, kopiearje en distribuearje nei oaren.  Jo binne ek wolkom om de boarnekoade te bewurkjen of &brandShortName; sa as jo dat wolle. De Mozilla Publike Lisinsje jout jo ek it rjocht om jo oanpaste ferzje te fersprieden.">
 
-<!ENTITY rights.intro-point2a "Mozilla jout jo gjin inkele rjochten om de Mozilla en Firefox hannelsmerken og logo's te br鹝en. Fierdere ynformaasje oer hannelsmerken kin ">
+<!ENTITY rights.intro-point2a "Mozilla jout jo gjin inkele rjochten om de Mozilla en Firefox hannelsmerken og logo's te br没ken. Fierdere ynformaasje oer hannelsmerken kin ">
 <!ENTITY rights.intro-point2b "hjir">
-<!ENTITY rights.intro-point2c " f鹡 wurde.">
+<!ENTITY rights.intro-point2c " f没n wurde.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "Privacy betingsten foar &vendorShortName;'s produkten kinne ">
 <!ENTITY rights.intro-point3b "hjir">
-<!ENTITY rights.intro-point3c " f鹡 wurde.">
+<!ENTITY rights.intro-point3c " f没n wurde.">
 
 <!-- point 3 text for unbranded builds -->
 <!ENTITY rights.intro-point3-unbranded "Tapaste privacy betingsten foar dit produkt soenen hjir toant wurde moatte.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; biedt ek opsjonele webstee ynformaasje tsjinsten, lykas de SafeBrowsing tsjinst; mar, wy kinne net garandearje dat se 100&#37; akkuraat of flater-frij binne. Mear details, ynklusief ynformaasje oer hoe't jo de tsjinsten 鷗skeakelje kinne, kin f鹡 wurde yn de ">
+<!ENTITY rights.intro-point4a "&brandShortName; biedt ek opsjonele webstee ynformaasje tsjinsten, lykas de SafeBrowsing tsjinst; mar, wy kinne net garandearje dat se 100&#37; akkuraat of flater-frij binne. Mear details, ynklusief ynformaasje oer hoe't jo de tsjinsten 煤tskeakelje kinne, kin f没n wurde yn de ">
 <!ENTITY rights.intro-point4b "tsjinsttermen">
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "As dit produkt webtsjinsten br鹝t, moat elke tapaste tsjinsttermen foar de tsjinst(en) keppele nei de ">
+<!ENTITY rights.intro-point4a-unbranded "As dit produkt webtsjinsten br没kt, moat elke tapaste tsjinsttermen foar de tsjinst(en) keppele nei de ">
 <!ENTITY rights.intro-point4b-unbranded "Webstee Tsjinsten">
 <!ENTITY rights.intro-point4c-unbranded " seksje.">
 
@@ -45,21 +45,21 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; br鹝t webstee ynformaasje tsjinsten (&quot;Tsjinsten&quot;), lykas de SafeBrowsing tsjinst, dy't beskikber is foar jo gebr鹝 mei dizze binaire ferzje fan &brandShortName; sa as hjir鹡der beskreun. As jo de tsjinsten net br鹝e wolle of de foarwearden hjir鹡der binne 鹡akseptable, kinne jo de SafeBrowsing tsjinst 鷗skeakelje troch it applikaasje foarkarmenu te iepenjen en ">
+<!ENTITY rights.webservices-a "&brandFullName; br没kt webstee ynformaasje tsjinsten (&quot;Tsjinsten&quot;), lykas de SafeBrowsing tsjinst, dy't beskikber is foar jo gebr没k mei dizze binaire ferzje fan &brandShortName; sa as hjir没nder beskreun. As jo de tsjinsten net br没ke wolle of de foarwearden hjir没nder binne 没nakseptable, kinne jo de SafeBrowsing tsjinst 煤tskeakelje troch it applikaasje foarkarmenu te iepenjen en ">
 <!ENTITY rights.webservices-b "Feilichheid">
-<!ENTITY rights.webservices-c " seksje te selektearjen en de opsjes foar &quot;&blockAttackSites.label;&quot; en &quot;&blockWebForgeries.label;&quot; 鷗 te skeakeljen.">
+<!ENTITY rights.webservices-c " seksje te selektearjen en de opsjes foar &quot;&blockAttackSites.label;&quot; en &quot;&blockWebForgeries.label;&quot; 煤t te skeakeljen.">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "In oersicht fan de webstee tsjinsten dy't yn it produkt sitte, tegaar mei ynstruksjes oer hoe't jo se 鷗skeakelje kinne, indien mooglik, soe hjir stean moatte.">
+<!ENTITY rights.webservices-unbranded "In oersicht fan de webstee tsjinsten dy't yn it produkt sitte, tegaar mei ynstruksjes oer hoe't jo se 煤tskeakelje kinne, indien mooglik, soe hjir stean moatte.">
 
 <!-- point 1 text for unbranded builds -->
-<!ENTITY rights.webservices-term1-unbranded "Tapaste tsjinstbetingsten moatte hjir oanj鹡 wurde.">
+<!ENTITY rights.webservices-term1-unbranded "Tapaste tsjinstbetingsten moatte hjir oanj没n wurde.">
 
 <!-- points 1-7 text for branded builds -->
-<!ENTITY rights.webservices-term1 "&vendorShortName; en syn meiwurkers, lisinsje鷗jouwers en partners wurkje om de meast accurate en up-to-date phishing en malware ynformaasje. It kin echter net garandeard wurde dat dizze ynformaasje is comprehensive and error-free: some risky sites may not be identified and some safe sites may be identified in error.">
-<!ENTITY rights.webservices-term2 "&vendorShortName; may discontinue or change the Services at its discretion.">
-<!ENTITY rights.webservices-term3 "You are welcome to use these Services with the accompanying version of &brandShortName;, and you have all the rights necessary to do so.  &vendorShortName; and its licensors reserve all other rights in the Services.  These terms are not intended to limit any rights granted under open source licenses applicable to &brandShortName; and to corresponding source code versions of &brandShortName;.">
-<!ENTITY rights.webservices-term4 "The Services are provided &quot;as-is.&quot;  &vendorShortName;, its contributors, licensors, and distributors, disclaim all warranties, whether express or implied, including without limitation, warranties that the Services are merchantable and fit for your particular purposes.  You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.">
+<!ENTITY rights.webservices-term1 "&vendorShortName; en syn meiwurkers, lisinsje煤tjouwers en partners wurkje om de meast accurate en up-to-date phishing en malware ynformaasje. It kin echter net garandeard wurde dat dizze ynformaasje grut gen么ch is en flater-frij: sommige risikofolle sides meie noch net identifisearre w锚ze en sommige feilige sides meie identifisearre w锚ze as in flater.">
+<!ENTITY rights.webservices-term2 "&vendorShortName; mei de Tsjinsten stoppe of wizigje nei eigen goeddunken.">
+<!ENTITY rights.webservices-term3 "Jo binne wolkom om dizze Tsjinsten te br没ken mei de byhearende ferzje fan &brandShortName;, en jo hawwe alle rjochten nedich om dat te dwaan.  &vendorShortName; en syn lisinsje煤tjouwers beh芒lde alle rjochtenyn de Tsjinsten.  Dizze betingsten binne net bedoeld om jo rjochten te beheinen foar rjochten j没n 没nder iepen boarne lisinsjes fan tapassing op &brandShortName; en ta oerienkommende boernekoade ferzjes fan &brandShortName;.">
+<!ENTITY rights.webservices-term4 "De Tjinsten wurde &quot;as-is&quot; oanbean.  &vendorShortName;, syn meiwurkers, lisinsje煤tjouwers, en distributeurs, 没ntkenne alle oansprakelijkheid, ekspres of mei sin, ynklusief s没nder beheining, oansprakelijkheid dy't de Tsjinsten are merchantable and fit for your particular purposes.  You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.">
 <!ENTITY rights.webservices-term5 "Except as required by law, &vendorShortName;, its contributors, licensors, and distributors will not be liable for any indirect, special, incidental, consequential, punitive, or exemplary damages arising out of or in any way relating to the use of &brandShortName; and the Services.  The collective liability under these terms will not exceed $500 (five hundred dollars). Some jurisdictions do not allow the exclusion or limitation of certain damages, so this exclusion and limitation may not apply to you.">
 <!ENTITY rights.webservices-term6 "&vendorShortName; may update these terms as necessary from time to time. These terms may not be modified or cancelled without &vendorShortName;'s written agreement.">
 <!ENTITY rights.webservices-term7 "These terms are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.">

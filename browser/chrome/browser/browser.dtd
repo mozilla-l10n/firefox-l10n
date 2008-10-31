@@ -237,6 +237,8 @@
 <!ENTITY reloadImageCmd.accesskey     "l">
 <!ENTITY viewImageCmd.label           "Ofbylding besjen">
 <!ENTITY viewImageCmd.accesskey       "f">
+<!ENTITY viewVideoCmd.label           "Toan fideo">
+<!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "Eftergrûnôfbylding besjen">
 <!ENTITY viewBGImageCmd.accesskey     "g">
 <!ENTITY setDesktopBackgroundCmd.label      "As eftergrûn ynstelle">
