@@ -65,8 +65,7 @@
 <!ENTITY prefColumnHeader.tooltip "Πατήστε για ταξινόμηση">
 <!ENTITY reset.accesskey "π">
 <!ENTITY reset.label "Επαναφορά">
-<!ENTITY showAll.accesskey "μ">
-<!ENTITY showAll.label "Εμφάνιση όλων">
+
 <!ENTITY string.accesskey "λ">
 <!ENTITY string.label "Αλφαριθμητικό">
 <!ENTITY toggle.accesskey "T">
@@ -81,6 +80,7 @@
 
 
 
+<!ENTITY focusFilter.key "f">
 
 
 

@@ -412,6 +412,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY sendAudioCmd.label           "Αποστολή ήχου…">
 <!ENTITY sendAudioCmd.accesskey       "λ">
 
+<!ENTITY viewVideoCmd.label           "Προβολή βίντεο">
+<!ENTITY viewVideoCmd.accesskey       "β">
+
 
 
 

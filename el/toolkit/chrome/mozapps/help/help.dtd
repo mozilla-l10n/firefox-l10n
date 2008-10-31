@@ -23,8 +23,8 @@
 
 
 
-<!ENTITY searchtab.label    	  	"Αναζήτηση">
-<!ENTITY searchtab.accesskey            "ζ">
+
+
 <!ENTITY toctab.label       	  	"Περιεχόμενα">
 <!ENTITY toctab.accesskey               "χ">
 
@@ -50,7 +50,7 @@
 <!ENTITY selectAllCmd.label             "Επιλογή όλων">
 <!ENTITY selectAllCmd.accesskey         "λ">
 
-<!ENTITY searchClose.tooltip            "Κλείσιμο αποτελεσμάτων αναζήτησης">
+
 
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
@@ -61,3 +61,7 @@
 <!ENTITY fullZoomReduceBtn.accesskey    "O">
 <!ENTITY fullZoomEnlargeBtn.label       "Μεγέθυνση">
 <!ENTITY fullZoomEnlargeBtn.accesskey   "γ">
+
+<!ENTITY search.emptytext               "Αναζήτηση">
+<!ENTITY searchHeader.label             "Αποτελέσματα αναζήτησης">
+

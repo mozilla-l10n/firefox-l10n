@@ -1,5 +1,5 @@
 <!ENTITY pluginWizard.firstPage.title                        "Καλώς ήλθατε στην &pluginWizard.title;">
-<!ENTITY pluginWizard.title                                  "Υπηρεσία εύρεσης πρόθετων λειτουργιών">
+<!ENTITY pluginWizard.title                                  "Υπηρεσία εύρεσης πρόσθετων λειτουργιών">
 
 <!ENTITY pluginWizard.checkingForPlugins.description.label   "Ο &brandShortName; ελέγχει για διαθέσιμες πρόσθετες λειτουργίες...">
 
@@ -21,4 +21,6 @@
 <!ENTITY pluginWizard.finalPage.restart.label               "Ο &brandShortName; χρειάζεται να επανεκκινήσει για να λειτουργήσουν οι πρόσθετες λειτουργίες.">
 
 <!ENTITY missingPlugin.label                                 "Πατήστε εδώ για τη λήψη της πρόσθετης λειτουργίας.">
+<!ENTITY disabledPlugin.label                                "Η πρόσθετη λειτουργία για αυτό το περιεχόμενο έχει απενεργοποιηθεί. Πατήστε εδώ για να διαχειριστείτε τις πρόσθετες λειτουργίες σας.">
+<!ENTITY blockedPlugin.label                                 "Για την προστασία σας αυτή η πρόσθετη λειτουργία έχει φραγεί.">
 

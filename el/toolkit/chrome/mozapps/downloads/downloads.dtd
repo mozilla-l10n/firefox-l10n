@@ -58,5 +58,5 @@
 <!ENTITY showFolder.label "Εμφάνιση αυτού του φακέλου">
 <!ENTITY starting.label "Εκκίνηση...">
 
-
+<!ENTITY cmd.search.commandKey            "k">
 

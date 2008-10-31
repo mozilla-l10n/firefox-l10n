@@ -36,3 +36,6 @@
 <!ENTITY editBookmarkOverlay.choose.label                    "Επιλογή…">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Διαχωρισμός ετικετών με κόμματα">
 
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Νέος φάκελος">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "ο">
+
