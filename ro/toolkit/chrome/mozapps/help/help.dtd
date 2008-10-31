@@ -22,9 +22,8 @@
 <!ENTITY printButton.tooltip            "Tipărește această pagină">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY searchtab.label                "Căutare">
-<!ENTITY searchtab.accesskey            "C">
-<!ENTITY searchClose.tooltip            "Închide rezultatele căutării">
+<!ENTITY search.emptytext               "Căutare">
+<!ENTITY searchHeader.label             "Rezultatele căutării">
 <!ENTITY toctab.label                   "Cuprins">
 <!ENTITY toctab.accesskey               "s">
 

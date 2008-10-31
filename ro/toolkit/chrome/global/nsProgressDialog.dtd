@@ -68,7 +68,7 @@
 
 <!-- Button labels -->
 <!ENTITY cancel "Anulează"> 
-<!ENTITY pause  "Oprește">
+<!ENTITY pause  "Pauză">
 <!ENTITY resume "Reia">
 <!ENTITY close  "Închide">
 <!ENTITY reveal "Arată adresa fișierului">

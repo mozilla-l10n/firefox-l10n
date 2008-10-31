@@ -19,6 +19,6 @@
 <!ENTITY itemOfflineApps.accesskey    "o">
 <!ENTITY itemDownloads.label          "Istoric descărcări">
 <!ENTITY itemDownloads.accesskey      "d">
-<!ENTITY itemSessions.label           "Sesiuni autentificate">
-<!ENTITY itemSessions.accesskey       "S">
+<!ENTITY itemActiveLogins.label       "Autentificări active">
+<!ENTITY itemActiveLogins.accesskey   "A">
 <!ENTITY window.width                 "30em">
