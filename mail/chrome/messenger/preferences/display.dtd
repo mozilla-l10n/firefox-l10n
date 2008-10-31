@@ -1,7 +1,5 @@
 <!ENTITY itemFormatting.label "格式化">
 <!ENTITY itemTags.label "标签">
-<!ENTITY itemFonts.label "字体">
-<!ENTITY textBegin.label "引用的纯文本外观">
 <!ENTITY style.label "样式：">
 <!ENTITY style.accesskey "y">
 <!ENTITY regularStyle.label "常规">
@@ -18,12 +16,10 @@
 <!ENTITY displayWidth.label "纯文本消息">
 <!ENTITY plainText.label "使用下列字体：">
 <!ENTITY displayText.label "当显示引用的纯文本消息时使用以下设置：">
-<!ENTITY viewingPlainText.label "当查看纯文本消息时：">
 <!ENTITY fixedWidth.label "固定宽度字体">
 <!ENTITY fixedWidth.accesskey "x">
 <!ENTITY variableWidth.label "可变宽度字体">
 <!ENTITY variableWidth.accesskey "V">
-<!ENTITY readingMessagesHeader.label "对接收的消息">
 <!ENTITY colors.label "颜色">
 <!ENTITY overrideColors.label "显示消息时，使用下列颜色：">
 <!ENTITY textColor.label "文本颜色：">
