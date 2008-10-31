@@ -21,3 +21,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label "Nahrát tuto záložku v postranní liště">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey "h">
 <!ENTITY editBookmarkOverlay.choose.label "Vybrat…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label "Nová složka">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey "v">

@@ -237,6 +237,8 @@
 <!ENTITY reloadImageCmd.accesskey "O">
 <!ENTITY viewImageCmd.label "Zobrazit obrázek">
 <!ENTITY viewImageCmd.accesskey "Z">
+<!ENTITY viewVideoCmd.label "Zobrazit video">
+<!ENTITY viewVideoCmd.accesskey "Z">
 <!ENTITY viewBGImageCmd.label "Zobrazit obrázek na pozadí">
 <!ENTITY viewBGImageCmd.accesskey "o">
 <!ENTITY setDesktopBackgroundCmd.label "Nastavit pozadí plochy…">
