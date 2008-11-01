@@ -1,13 +1,13 @@
-<!ENTITY restorepage.title "Restaurar la sesión anterior">
-<!ENTITY restorepage.titletext "La última sesión de &brandShortName; se cerró inesperadamente">
-<!ENTITY restorepage.shortDesc "Puede restaurar las pestañas y las ventanas de su sesión anterior, o bien iniciar una sesión nueva si no se necesitan en un futuro. Nuestras disculpas por los inconvenientes.">
+<!ENTITY restorepage.tabtitle "Restaurar sesión">
+<!ENTITY restorepage.pagetitle "¿Le gustaría restaurar su sesión anterior?">
+<!ENTITY restorepage.issueDesc "La última sesión de &brandShortName; se ha cerrado de forma inesperada. Sinceramente lo sentimos por las molestias. Puede restaurar sus pestañas y ventanas de su sesión anterior, o abrir una sesión nueva si no se necesita más la sesión antigua.">
 <!ENTITY restorepage.remedies "Si &brandShortName; se cierra repetidamente:">
 <!ENTITY restorepage.dueToChrome "Intente deshabilitar cualquier extensión añadida recientemente desde la ventana de Complementos.">
-<!ENTITY restorepage.dueToContent "Intente restaurar su sesión sin las páginas web que crea que pueden estar causando el cierre:">
+<!ENTITY restorepage.dueToContent "Intente restaurar su sesión sin las páginas web que crea que puedan estar causando el cierre:">
 <!ENTITY restorepage.restoreButton "Restaurar sesión anterior">
 <!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.cancelButton "Iniciar sesión nueva">
 <!ENTITY restorepage.cancel.access "I">
 <!ENTITY restorepage.restoreHeader "Restaurar">
 <!ENTITY restorepage.listHeader "Ventanas y pestañas">
-<!ENTITY restorepage.windowLabel "Ventana #&#037;S">
+<!ENTITY restorepage.windowLabel "Ventana &#037;S">
