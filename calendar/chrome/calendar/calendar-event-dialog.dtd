@@ -1,4 +1,4 @@
- <!-- ***** BEGIN LICENSE BLOCK *****
+<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -20,6 +20,12 @@
    -
    - Contributor(s):
    -   Cédric Corazza <cedric.corazza@wanadoo.fr>
+   -   Michael Buettner <michael.buettner@sun.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Stefan Sitter <ssitter@gmail.com>
+   -   Martin Schroeder <mschroeder@mozilla.x-home.org>
+   -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
+   -   Fred Jendrzejewski <fred.jen@web.de>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -37,15 +43,17 @@
 
 <!ENTITY event.title.label                  "ელემენტის რედაქტირება" >
 
+<!ENTITY newevent.before.label              "ადრე" >
+<!ENTITY newevent.after.label               "შემდეგ" >
+
 <!ENTITY newevent.from.label                "დაწყ." >
 <!ENTITY newevent.to.label                  "-" >
-<!ENTITY newevent.attendees.sendEmail.label "დამსწრეთათვის მოწვევის ელფოსტით გაგზავნა">
+<!ENTITY newevent.attendees.notify.label    "დამსწრეთა გაფრთხილება">
 
 <!ENTITY newevent.status.label              "სტატუსი" >
 <!ENTITY newevent.status.accesskey          "S" >
 <!ENTITY newevent.status.none.label         "არ მითითებულა" >
 <!ENTITY newevent.status.cancelled.label    "გაუქმდა" >
-
 <!ENTITY newevent.status.tentative.label    "საცდელი" >
 <!ENTITY newevent.status.confirmed.label    "დადასტურდა" >
 <!ENTITY newevent.status.needsaction.label  "საჭიროებს ქმედებას" >
@@ -55,10 +63,331 @@
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; დასრულდა">
 
-<!-- Alarm -->
+<!-- Menubar -->
+<!ENTITY  event.menu.file.label                           "ფაილი">
+<!ENTITY  event.menu.file.accesskey                       "F">
+<!ENTITY  event.menu.file.new.label                       "ახალი">
+<!ENTITY  event.menu.file.new.accesskey                   "N">
+<!ENTITY  event.menu.file.new.event.label                 "მოვლენა">
+<!ENTITY  event.menu.file.new.event.accesskey             "E">
+<!ENTITY  event.menu.file.new.message.label               "გზავნილი">
+<!ENTITY  event.menu.file.new.message.accesskey           "M">
+<!ENTITY  event.menu.file.new.address.label               "წიგნაკის ბარათი">
+<!ENTITY  event.menu.file.new.address.accesskey           "C">
+<!ENTITY  event.menu.file.close.label                     "დახურვა">
+<!ENTITY  event.menu.file.close.accesskey                 "C">
+<!ENTITY  event.menu.file.save.label                      "შენახვა">
+<!ENTITY  event.menu.file.save.accesskey                  "S">
+<!ENTITY  event.menu.file.page.setup.label                "გვერდის პარამეტრები">
+<!ENTITY  event.menu.file.page.setup.accesskey            "u">
+<!ENTITY  event.menu.file.print.label                     "დაბეჭდვა">
+<!ENTITY  event.menu.file.print.accesskey                 "P">
+<!ENTITY  event.menu.file.exit.label                      "გასვლა">
+<!ENTITY  event.menu.file.exit.accesskey                  "x">
+
+<!ENTITY  event.menu.edit.label                           "რედაქტირება">
+<!ENTITY  event.menu.edit.accesskey                       "E">
+<!ENTITY  event.menu.edit.undo.label                      "დაბრუნება">
+<!ENTITY  event.menu.edit.undo.accesskey                  "U">
+<!ENTITY  event.menu.edit.redo.label                      "გამეორება">
+<!ENTITY  event.menu.edit.redo.accesskey                  "R">
+<!ENTITY  event.menu.edit.cut.label                       "ამოჭრა">
+<!ENTITY  event.menu.edit.cut.accesskey                   "t">
+<!ENTITY  event.menu.edit.copy.label                      "კოპირება">
+<!ENTITY  event.menu.edit.copy.accesskey                  "C">
+<!ENTITY  event.menu.edit.paste.label                     "ჩასმა">
+<!ENTITY  event.menu.edit.paste.accesskey                 "P">
+<!ENTITY  event.menu.edit.select.all.label                "ყველას მონიშვნა">
+<!ENTITY  event.menu.edit.select.all.accesskey            "A">
+
+<!ENTITY  event.menu.view.label                           "ხედი">
+<!ENTITY  event.menu.view.accesskey                       "V">
+<!ENTITY  event.menu.view.toolbars.label                  "პულტები">
+<!ENTITY  event.menu.view.toolbars.accesskey              "T">
+<!ENTITY  event.menu.view.toolbars.event.label            "მოვლენის პულტი">
+<!ENTITY  event.menu.view.toolbars.event.accesskey        "E">
+<!ENTITY  event.menu.view.toolbars.customize.label        "მორგება">
+<!ENTITY  event.menu.view.toolbars.customize.accesskey    "C">
+<!ENTITY  event.menu.view.showlink.label                  "დაკავშირებული ბმის ჩვენება">
+<!ENTITY  event.menu.view.showlink.accesskey              "R">
+
+<!ENTITY  event.menu.options.label                        "პარამეტრები">
+<!ENTITY  event.menu.options.accesskey                    "O">
+<!ENTITY  event.menu.options.attachments.label                "ვებგვერდის თანდართვა…">
+<!ENTITY  event.menu.options.attachments.accesskey            "W">
+<!ENTITY  event.menu.options.attendees.label              "დამსწრეთა მოწვევა…">
+<!ENTITY  event.menu.options.attendees.accesskey          "I">
+<!ENTITY  event.menu.options.spellcheck.label             "მართლწერის შემოწმება…">
+<!ENTITY  event.menu.options.spellcheck.accesskey         "h">
+<!ENTITY  event.menu.options.inline.spellcheck.label      "მართლწერის შემოწმება შეტანისას">
+<!ENTITY  event.menu.options.inline.spellcheck.accesskey  "S">
+<!ENTITY  event.menu.options.link.label                   "ბმის დამატება…">
+<!ENTITY  event.menu.options.link.accesskey               "L">
+<!ENTITY  event.menu.options.timezone.label               "საათობრივი ზონა">
+<!ENTITY  event.menu.options.timezone.accesskey           "z">
+<!ENTITY  event.menu.options.priority2.label                  "პრიორიტეტი">
+<!ENTITY  event.menu.options.priority2.accesskey              "y">
+<!ENTITY  event.menu.options.priority.notspecified.label      "არ მითითებულა">
+<!ENTITY  event.menu.options.priority.notspecified.accesskey  "o">
+<!ENTITY  event.menu.options.priority.low.label           "დაბალი">
+<!ENTITY  event.menu.options.priority.low.accesskey       "L">
+<!ENTITY  event.menu.options.priority.normal.label        "ჩვეულებრივი">
+<!ENTITY  event.menu.options.priority.normal.accesskey    "N">
+<!ENTITY  event.menu.options.priority.high.label          "მაღალი">
+<!ENTITY  event.menu.options.priority.high.accesskey      "H">
+<!ENTITY  event.menu.options.privacy.label                "კონფიდენციალობა">
+<!ENTITY  event.menu.options.privacy.accesskey            "P">
+<!ENTITY  event.menu.options.privacy.public.label         "საზოგადო მოვლენა">
+<!ENTITY  event.menu.options.privacy.public.accesskey     "u">
+<!ENTITY  event.menu.options.privacy.confidential.label   "დროსა და თარიღის ჩვენება">
+<!ENTITY  event.menu.options.privacy.confidential.accesskey "S">
+<!ENTITY  event.menu.options.privacy.private.label        "პირადი მოვლენა">
+<!ENTITY  event.menu.options.privacy.private.accesskey    "r">
+<!ENTITY  event.menu.options.show.time.label              "დროის ჩვენება როგორც">
+<!ENTITY  event.menu.options.show.time.accesskey          "T">
+<!ENTITY  event.menu.options.show.time.busy.label         "დაკავებული">
+<!ENTITY  event.menu.options.show.time.busy.accesskey     "B">
+<!ENTITY  event.menu.options.show.time.free.label         "თავისუფალი">
+<!ENTITY  event.menu.options.show.time.free.accesskey     "F">
+
+<!ENTITY event.help.label                                 "დახმარება">
+<!ENTITY event.help.accesskey                             "H">
+<!ENTITY event.help.release.notes.label                   "ვერსიის მონაცემები">
+<!ENTITY event.help.release.notes.accesskey               "R">
+<!ENTITY event.help.help.label                            "&brandShortName; დახმარება">
+<!ENTITY event.help.help.accesskey                        "H">
+<!ENTITY event.help.about.label                           "&brandShortName; - ინფორმაცია">
+<!ENTITY event.help.about.accesskey                       "A">
+
+<!ENTITY event.invite.attendees.label                     "დამსწრეთა მოწვევა…">
+<!ENTITY event.invite.attendees.accesskey                 "I">
+<!ENTITY event.email.attendees.label                      "წერილის შედგენა ყველა დამსწრისთვის…">
+<!ENTITY event.email.attendees.accesskey                  "A">
+<!ENTITY event.email.tentative.attendees.label            "წერილის შედგენა დასაზუსტებელი დამსწრეთათვის…">
+<!ENTITY event.email.tentative.attendees.accesskey        "U">
+
+<!-- Toolbar -->
+<!ENTITY  event.toolbar.save.label                        "შენახვა და დახურვა">
+<!ENTITY  event.toolbar.attendees.label                   "დამსწრეთა მოწვევა">
+<!ENTITY  event.toolbar.spellcheck.label                  "მართლწერა">
+<!ENTITY  event.toolbar.privacy.label                     "კონფიდენციალობა">
+<!ENTITY  event.toolbar.attachments.label                 "თანდართვა">
+
+<!-- Main page -->
+<!ENTITY event.title.textbox.label                        "სათაური:" >
+<!ENTITY event.title.textbox.accesskey                    "T">
+<!ENTITY event.location.label                             "ადგილი:" >
+<!ENTITY event.location.accesskey                         "L">
+<!ENTITY event.categories.label                           "კატეგორია:">
+<!ENTITY event.categories.accesskey                       "y">
+<!ENTITY event.calendar.label                             "კალენდარი:" >
+<!ENTITY event.calendar.accesskey                         "C">
+<!ENTITY event.attendees.label                            "დამსწრეები:" >
+<!ENTITY event.attendees.accesskey                        "I" >
+<!ENTITY event.alldayevent.label                          "მთელი დღის მოვლენა" >
+<!ENTITY event.alldayevent.accesskey                      "d">
+<!ENTITY event.from.label                                 "დაწყება:" >
+<!ENTITY event.from.accesskey                             "S">
+<!ENTITY task.from.label                                  "დაწყება:" >
+<!ENTITY task.from.accesskey                              "B">
+<!ENTITY event.to.label                                   "დასრულება:" >
+<!ENTITY event.to.accesskey                               "n">
+<!ENTITY task.to.label                                    "ვადა:" >
+<!ENTITY task.to.accesskey                                "u">
+<!ENTITY task.status.label                                "სტატუსი:" >
+<!ENTITY task.status.accesskey                            "a">
+<!ENTITY event.repeat.label                               "გამეორება:" >
+<!ENTITY event.repeat.accesskey                           "R">
+<!ENTITY event.reminder.label                             "შეხსენება:" >
+<!ENTITY event.reminder.accesskey                         "m">
+<!ENTITY event.description.label                          "აღწერილობა:" >
+<!ENTITY event.description.accesskey                      "p">
+<!ENTITY event.attachments.label                          "დანართები:" >
+<!ENTITY event.attachments.accesskey                      "h" >
+<!ENTITY event.attachments.popup.remove.label             "ამოღება" >
+<!ENTITY event.attachments.popup.remove.accesskey         "R" >
+<!ENTITY event.attachments.popup.open.label               "გახსნა" >
+<!ENTITY event.attachments.popup.open.accesskey           "O" >
+<!ENTITY event.attachments.popup.removeAll.label          "ყველას ამოღება" >
+<!ENTITY event.attachments.popup.removeAll.accesskey      "A" >
+<!ENTITY event.attachments.popup.attachPage.label         "ვებგვერდის თანდართვა…" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "W" >
+<!ENTITY event.url.label                                  "დაკავშირებული ბმა:" >
+<!ENTITY event.priority2.label                            "პრიორიტეტი:">
+
+<!ENTITY event.reminder.none.label                        "შეხსენების გარეშე " >
+<!ENTITY event.reminder.5minutes.before.label             "5 წუთით ადრე" >
+<!ENTITY event.reminder.10minutes.before.label            "10 წუთით ადრე" >
+<!ENTITY event.reminder.15minutes.before.label            "15 წუთით ადრე" >
+<!ENTITY event.reminder.30minutes.before.label            "30 წუთით ადრე" >
+<!ENTITY event.reminder.45minutes.before.label            "45 წუთით ადრე" >
+<!ENTITY event.reminder.1hour.before.label                "1 საათით ადრე" >
+<!ENTITY event.reminder.2hours.before.label               "2 საათით ადრე" >
+<!ENTITY event.reminder.5hours.before.label               "5 საათით ადრე" >
+<!ENTITY event.reminder.15hours.before.label              "15 საათით ადრე" >
+<!ENTITY event.reminder.1day.before.label                 "1 დღით ადრე" >
+<!ENTITY event.reminder.2days.before.label                "2 დღით ადრე" >
+<!ENTITY event.reminder.1week.before.label                "1 კვირით ადრე" >
+<!ENTITY event.reminder.custom.label                      "საკუთარი…" >
+
+<!ENTITY event.reminder.multiple.label                    "მრავალჯერადი შეხსენებები…" >
+
+<!-- Recurrence dialog -->
+<!ENTITY recurrence.title.label                         "გამეორების რედაქტირება">
+
+<!ENTITY event.repeat.does.not.repeat.label             "გამეორების გარეშე">
+<!ENTITY event.repeat.daily.label                       "ყოვლ დღეს">
+<!ENTITY event.repeat.weekly.label                      "კვირაში ერთხელ">
+<!ENTITY event.repeat.every.weekday.label               "კვირის ყოველ დღეს">
+<!ENTITY event.repeat.bi.weekly.label                   "ორ კვირაში ერთხელ">
+<!ENTITY event.repeat.monthly.label                     "თვეში ერთხელ">
+<!ENTITY event.repeat.yearly.label                      "წელიწადში ერთხელ">
+<!ENTITY event.repeat.custom.label                      "საკუთარი…">
+
+<!ENTITY event.recurrence.pattern.label                 "გამეორების პერიოდი">
+<!ENTITY event.recurrence.occurs.label                  "გამეორება" >
+<!ENTITY event.recurrence.day.label                     "ყოველდღიური" >
+<!ENTITY event.recurrence.week.label                    "ყოველკვირეული" >
+<!ENTITY event.recurrence.month.label                   "ყოველთვიური" >
+<!ENTITY event.recurrence.year.label                    "ყოველწლიური" >
+
+<!ENTITY event.recurrence.pattern.every.label           "ყოველ" >
+<!ENTITY repeat.units.days.both                         "დღე" >
+<!ENTITY event.recurrence.pattern.every.weekday.label   "კვირის ყოველ დღეს" >
+
+<!ENTITY event.recurrence.pattern.weekly.every.label    "ყოველ" >
+<!ENTITY repeat.units.weeks.both                        "კვირა" >
+<!ENTITY event.recurrence.on.label                      "თარიღი:" >
+
+<!ENTITY event.recurrence.pattern.monthly.every.label   "ყოველ" >
+<!ENTITY repeat.units.months.both                       "თვე" >
+<!ENTITY event.recurrence.the.label                     "" >
+<!ENTITY event.recurrence.repeat.first.label            "პირველი">
+<!ENTITY event.recurrence.repeat.second.label           "მეორე">
+<!ENTITY event.recurrence.repeat.third.label            "მესამე">
+<!ENTITY event.recurrence.repeat.fourth.label           "მეოთხე">
+<!ENTITY event.recurrence.repeat.fifth.label            "მეხუთე">
+<!ENTITY event.recurrence.repeat.last.label             "ბოლო ">
+<!ENTITY event.recurrence.pattern.monthly.week.1.label  "კვირა" >
+<!ENTITY event.recurrence.pattern.monthly.week.2.label  "ორშაბათი" >
+<!ENTITY event.recurrence.pattern.monthly.week.3.label  "სამშაბათი" >
+<!ENTITY event.recurrence.pattern.monthly.week.4.label  "ოთხშაბათი" >
+<!ENTITY event.recurrence.pattern.monthly.week.5.label  "ხუთშაბათი" >
+<!ENTITY event.recurrence.pattern.monthly.week.6.label  "პარასკევი" >
+<!ENTITY event.recurrence.pattern.monthly.week.7.label  "შაბათი" >
+<!ENTITY event.recurrence.repeat.dayofmonth.label       "თვის დღე">
+<!ENTITY event.recurrence.repeat.recur.label            "განმეორებითი დღე(ებ)ი">
+
+<!ENTITY event.recurrence.every.label                   "ყოველი:" >
+<!ENTITY repeat.units.years.both                             "წელი" >
+<!ENTITY event.recurrence.pattern.yearly.every.month.label   "ყოველ" >
+<!ENTITY event.recurrence.pattern.yearly.every.weekday.label "ყოველ" >
+
+<!-- LOCALIZATON NOTE
+     Some languages use a preposition when describing dates:
+     Portuguese: 6 de Setembro
+     English: 6 [of] September
+     event.recurrence.pattern.yearly.of.label is "of" in
+     Edit recurrence window -> Recurrence pattern -> Repeat yearly
+-->
+<!ENTITY event.recurrence.pattern.yearly.of.label            "" >
+
+<!ENTITY event.recurrence.pattern.yearly.month.1.label       "იანვარი" >
+<!ENTITY event.recurrence.pattern.yearly.month.2.label       "თებერვალი" >
+<!ENTITY event.recurrence.pattern.yearly.month.3.label       "მარტი" >
+<!ENTITY event.recurrence.pattern.yearly.month.4.label       "აპრილი" >
+<!ENTITY event.recurrence.pattern.yearly.month.5.label       "მაისი" >
+<!ENTITY event.recurrence.pattern.yearly.month.6.label       "ივნისი" >
+<!ENTITY event.recurrence.pattern.yearly.month.7.label       "ივლისი" >
+<!ENTITY event.recurrence.pattern.yearly.month.8.label       "აგვისტო" >
+<!ENTITY event.recurrence.pattern.yearly.month.9.label       "სექტემბერი" >
+<!ENTITY event.recurrence.pattern.yearly.month.10.label      "ოქტომბერი" >
+<!ENTITY event.recurrence.pattern.yearly.month.11.label      "ნოემბერი" >
+<!ENTITY event.recurrence.pattern.yearly.month.12.label      "დეკემბერი" >
+<!ENTITY event.recurrence.pattern.yearly.first.label         "პირველი">
+<!ENTITY event.recurrence.pattern.yearly.second.label        "მეორე">
+<!ENTITY event.recurrence.pattern.yearly.third.label         "მესამე">
+<!ENTITY event.recurrence.pattern.yearly.fourth.label        "მეოთხე">
+<!ENTITY event.recurrence.pattern.yearly.fifth.label         "მეხუთე">
+<!ENTITY event.recurrence.pattern.yearly.last.label          "ბოლო">
+<!ENTITY event.recurrence.pattern.yearly.week.1.label        "კვირა" >
+<!ENTITY event.recurrence.pattern.yearly.week.2.label        "ორშაბათი" >
+<!ENTITY event.recurrence.pattern.yearly.week.3.label        "სამშაბათი" >
+<!ENTITY event.recurrence.pattern.yearly.week.4.label        "ოთხშაბათი" >
+<!ENTITY event.recurrence.pattern.yearly.week.5.label        "ხუთშაბათი" >
+<!ENTITY event.recurrence.pattern.yearly.week.6.label        "პარასკევი" >
+<!ENTITY event.recurrence.pattern.yearly.week.7.label        "შაბათი" >
+<!ENTITY event.recurrence.of.label                      "-" >
+<!ENTITY event.recurrence.pattern.yearly.month2.1.label      "იანვარი" >
+<!ENTITY event.recurrence.pattern.yearly.month2.2.label      "თებერვალი" >
+<!ENTITY event.recurrence.pattern.yearly.month2.3.label      "მარტი" >
+<!ENTITY event.recurrence.pattern.yearly.month2.4.label      "აპრილი" >
+<!ENTITY event.recurrence.pattern.yearly.month2.5.label      "მაისი" >
+<!ENTITY event.recurrence.pattern.yearly.month2.6.label      "ივნისი" >
+<!ENTITY event.recurrence.pattern.yearly.month2.7.label      "ივლისი" >
+<!ENTITY event.recurrence.pattern.yearly.month2.8.label      "აგვისტო" >
+<!ENTITY event.recurrence.pattern.yearly.month2.9.label      "სექტემბერი" >
+<!ENTITY event.recurrence.pattern.yearly.month2.10.label     "ოქტომბერი" >
+<!ENTITY event.recurrence.pattern.yearly.month2.11.label     "ნოემბერი" >
+<!ENTITY event.recurrence.pattern.yearly.month2.12.label     "დეკემბერი" >
+
+<!ENTITY event.recurrence.range.label                   "განმეორებათა რანგი">
+<!ENTITY event.recurrence.forever.label                 "დასრულების თარიღის გარეშე" >
+<!ENTITY event.recurrence.repeat.for.label              "შექმნა" >
+<!ENTITY event.recurrence.appointments.label            "შეხვედრა/ები" >
+<!ENTITY event.repeat.until.label                       "გამეორება ვიდრე" >
+<!ENTITY event.recurrence.preview.label                 "ესკიზი">
+
+<!-- Reminder dialog -->
 <!ENTITY alarm.units.minutes                "წუთი" >
 <!ENTITY alarm.units.hours                  "საათი" >
 <!ENTITY alarm.units.days                   "დღე" >
 
-<!ENTITY newevent.before.label              "დაწყებამდე" >
-<!ENTITY newevent.after.label               "შემდეგ" >
+<!ENTITY reminder.title.label                           "საკუთარი შეხსენება">
+<!ENTITY reminder.dialogtitle.label                     "შეხსენებათა გამართვა">
+<!ENTITY reminder.reminderDetails.label                 "შეხსენების დეტალები">
+<!ENTITY reminder.action.label                          "შეხსენების ქმედების შერჩევა">
+<!ENTITY reminder.action.alert.label                    "გაფრთხილების ჩვენება">
+<!ENTITY reminder.action.email.label                    "ელფოსტით გაგზავნა">
+<!ENTITY reminder.new.label                             "ახალი">
+<!ENTITY reminder.delete.label                          "წაშლა">
+<!ENTITY reminder.relation.start.label                  "მოვლენის დაწყება">
+<!ENTITY reminder.relation.end.label                    "მოვლენის დასრულება">
+<!ENTITY reminder.add.label                             "დამატება">
+<!ENTITY reminder.add.accesskey                         "A">
+<!ENTITY reminder.remove.label                          "ამოღება">
+<!ENTITY reminder.remove.accesskey                      "R">
+
+
+<!-- Attendees dialog -->
+<!ENTITY invite.title.label              "დამსწრეთა მოწვევა">
+<!ENTITY event.organizer.label           "დაგეგმვა">
+<!ENTITY event.freebusy.suggest.slot     "დროის სარკმლის შეთავაზება:">
+<!ENTITY event.freebusy.next.slot        "შემდეგი სარკმელი " >
+<!ENTITY event.freebusy.previous.slot    " წინა სარკმელი" >
+<!ENTITY event.freebusy.zoom             "მასშტაბი:">
+<!ENTITY event.freebusy.plus             "შემდეგი საათი" >
+<!ENTITY event.freebusy.minus            "წინა საათი" >
+<!ENTITY event.freebusy.legend.free      "თავისუფალია" >
+<!ENTITY event.freebusy.legend.busy      "დაკავებულია" >
+<!ENTITY event.freebusy.legend.unknown   "ინფორმაცია არაა" >
+
+<!-- Timezone dialog -->
+<!ENTITY timezone.title.label            "გთხოვთ მიუთითოთ საათობრივი ზონა">
+
+<!-- Read-Only dialog -->
+<!ENTITY read.only.general.label         "ზოგადი">
+<!ENTITY read.only.title.label           "სათაური:">
+<!ENTITY read.only.repeat.label          "გამეორება:">
+<!ENTITY read.only.location.label        "ადგილი:">
+<!ENTITY read.only.category.label        "კატეგორია:">
+<!ENTITY read.only.organizer.label       "მოთავე:">
+<!ENTITY read.only.reply.label           "პასუხი:">
+<!ENTITY read.only.accept.label          "დავესწრები">
+<!ENTITY read.only.decline.label         "არ დავესწრები">
+<!ENTITY read.only.needs.action.label    "მოგვიანებით დავაზუსტებ">
+<!ENTITY read.only.reminder.label        "შეხსენება:">
+<!ENTITY read.only.attendees.label       "დამსწრეები">
+<!ENTITY read.only.description.label     "აღწერილობა">
+<!ENTITY read.only.documents.label       "დოკუმენტები">
+<!ENTITY read.only.link.label            "დაკავშირებული ბმა">
