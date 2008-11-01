@@ -43,24 +43,9 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- General -->
-<!ENTITY calendar.file.default.name  "ჩემი კალენდარი" >
 <!ENTITY calendar.calendar.label     "კალენდარი">
 <!ENTITY calendar.calendar.accesskey "C">
 
-
-<!ENTITY calendar.confirm.deleteallevents  "ნამდვილად გსურთ ყველა მონიშნული მოვლენის წაშლა?" >
-<!ENTITY calendar.confirm.deleteevent "ნამდვილად გსურთ ამ მოვლენის წაშლა სათაურით: " >
-<!ENTITY calendar.confirm.deleteuntitledevent "ნამდვილად გსურთ ამ უსაათაურო მოვლენის წაშლა?" >
-
-<!ENTITY calendar.flat.topbar.choosedate       "გადასვლა თარიღზე" >
-<!ENTITY calendar.flat.topbar.dayview          "დღის ჩვენება" >
-<!ENTITY calendar.dayview.accesskey            "D" >
-<!ENTITY calendar.flat.topbar.weekview         "კვირის ჩვენება" >
-<!ENTITY calendar.weekview.accesskey           "W" >
-<!ENTITY calendar.flat.topbar.monthview        "თვის ჩვენება" >
-<!ENTITY calendar.monthview.accesskey          "M" >
-<!ENTITY calendar.flat.topbar.multiweekview    "მრავალი კვირის ჩვენება" >
-<!ENTITY calendar.multiweekview.accesskey      "u" >
 <!ENTITY calendar.dayView.key                  "1" >
 <!ENTITY calendar.weekView.key                 "2" >
 <!ENTITY calendar.multiweekView.key            "3" >
@@ -68,14 +53,11 @@
 
 <!ENTITY calendar.newtask.button.tooltip          "ახალი ამოცანის შექმნა" >
 <!ENTITY calendar.newevent.button.tooltip         "ახალი კალენდარული მოვლენის შექმნა" >
-<!ENTITY calendar.delete.button.tooltip           "შერჩეული მოვლენის წაშლა" >
 <!ENTITY calendar.edit.button.tooltip             "შერჩეული მოვლენის რედაქტირება" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "ამოცანები" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "დასრულებული ამოცანების ჩვენება">
 
-<!ENTITY calendar.calendartab.label "თარიღი">
-<!ENTITY calendar.listofcalendarstab.label "კალენდრები">
 <!ENTITY calendar.today.button.label        "დღეს" >
 <!ENTITY calendar.tomorrow.button.label       "ხვალ">
 <!ENTITY calendar.soon.button.label           "მალე">
@@ -103,11 +85,9 @@
 <!ENTITY calendar.unifinder.tree.calendarname.label    "კალენდრის სახელი">
 <!ENTITY calendar.unifinder.tree.duration.label      "ვადა">
 <!ENTITY calendar.unifinder.close.tooltip            "მოვლენათა ძიებისა და სიის დახურვა">
-<!ENTITY calendar.find.key  "F">
 
 <!ENTITY calendar.today.button.tooltip        "გადასვლა დღევანდელზე" >
 <!ENTITY calendar.todaypane.button.tooltip        "დღევანდელი დაფა" >
-<!ENTITY calendar.choosedate.button.tooltip       "გადასვლის თარიღის არჩევა" >
 <!ENTITY calendar.unifinder.button.tooltip        "მოვლენათა პოვნა და ჩვენება" >
 
 <!ENTITY calendar.day.button.tooltip          "გადართვა დღეზე" >
@@ -124,19 +104,7 @@
 
 <!ENTITY calendar.newtask.button.label          "ახალი ამოცანა" >
 <!ENTITY calendar.newevent.button.label         "ახალი მოვლენა" >
-<!ENTITY calendar.delete.button.label           "წაშლა" >
 <!ENTITY calendar.edit.button.label             "რედაქტირება" >
-
-<!ENTITY calendar.choosedate.button.label       "თარიღის არჩევა" >
-
-<!ENTITY calendar.cut.button.tooltip            "ამოჭრა" >
-<!ENTITY calendar.copy.button.tooltip           "კოპირება" >
-<!ENTITY calendar.paste.button.tooltip          "ჩასმა" >
-<!ENTITY calendar.print.button.tooltip          "კალენდრის ბეჭდვა" >
-
-<!ENTITY calendar.cut.button.label              "ამოჭრა" >
-<!ENTITY calendar.copy.button.label             "კოპირება" >
-<!ENTITY calendar.paste.button.label            "ჩასმა" >
 <!ENTITY calendar.print.button.label            "ბეჭდვა" >
 
 <!ENTITY calendar.import.button.tooltip            "მოვლენების იმპორტი ადგილობრივი ფაილიდან" >
@@ -152,9 +120,6 @@
 <!ENTITY calendar.publish.button.label             "გამოქვეყნება" >
 <!ENTITY calendar.unifinder.button.label           "მოვლენათა პოვნა" >
 
-<!ENTITY calendar.remotereload.button.label   "განახლება" >
-<!ENTITY calendar.remotereload.button.tooltip   "ყველა გარე კალენდრის განახლება" >
-
 <!ENTITY calendar.day.button.label          "დღე" >
 <!ENTITY calendar.week.button.label         "კვირა" >
 <!ENTITY calendar.month.button.label        "თვე" >
@@ -169,17 +134,7 @@
 <!ENTITY calendar.orientation.label "ხედის დატრიალება" >
 <!ENTITY calendar.orientation.accesskey "o" >
 
-<!ENTITY calendar.menu.options.close.key        "W">
-
 <!ENTITY calendar.search.options.searchfor " შეიცავს">
-
-<!ENTITY calendar.menu.numberofweeks.label     "კვირების რაოდენობა" >
-<!ENTITY calendar.menu.numberofweeks.accesskey "N" >
-<!ENTITY calendar.menu.numberofweeks.2      "2 კვირა" >
-<!ENTITY calendar.menu.numberofweeks.3      "3 კვირა" >
-<!ENTITY calendar.menu.numberofweeks.4      "4 კვირა" >
-<!ENTITY calendar.menu.numberofweeks.5      "5 კვირა" >
-<!ENTITY calendar.menu.numberofweeks.6      "6 კვირა" >
 
 <!ENTITY calendar.list.header.label                 "კალენდარი">
 
@@ -212,18 +167,9 @@
 <!ENTITY calendar.task.category.button.tooltip  "ამოცანათა კატეგორიები">
 <!ENTITY calendar.task.complete.button.tooltip  "შერჩეულ ამოცანათა დასრულებულად მონიშვნა">
 <!ENTITY calendar.task.priority.button.tooltip  "პრიორიტეტის შეცვლა">
-<!ENTITY calendar.task.delete.button.tooltip    "შერჩეულ ამოცანათა წაშლა">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label            "დოკუმენტი: მზადაა">
-
-<!-- customizable toolbars -->
-<!ENTITY calendar.context.customize.label             "მორგება">
-<!ENTITY calendar.context.customize.accesskey         "C">
-<!ENTITY calendar.menu.customize.label                "პულტის მორგება">
-<!ENTITY calendar.menu.customize.accesskey            "C">
-<!ENTITY calendar.maintoolbar.name                    "მენიუს პულტი">
-<!ENTITY calendar.maintoolbar.accesskey               "M">
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label      "გახსნა">
@@ -366,10 +312,6 @@
 <!ENTITY calendarproperties.cache.label    "ბუფერი (ექსპერიმენტულია, საჭიროებს გადატვირთვას)">
 <!ENTITY calendarproperties.enabled.label "ამ კალენდრის ჩართვა">
 
-<!-- Sunbird Help -->
-<!ENTITY calendar.help.label               "დახმარების შინაარსი">
-<!ENTITY calendar.help.accesskey           "H">
-
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "კალენდრის გამოქვეყნება">
 <!ENTITY calendar.publish.url.label                 "გამოქვეყნების მისამართი">
@@ -397,8 +339,4 @@
 <!ENTITY calendar.error.detail "დეტალები…">
 <!ENTITY calendar.error.number "შეცდომის ნომერი:">
 <!ENTITY calendar.error.description "აღწერილობა:">
-<!ENTITY calendar.error.title "მოხდა შეცდომა">
-
-
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">
+<!ENTITY calendar.error.title "დაიმზირება შეცდომა">

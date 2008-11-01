@@ -35,7 +35,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  validation.crlmanager.label             "გაუქმებულთა სიის მართვ">
+<!ENTITY  validation.crlmanager.label             "გაუქმებულთა სიის მართვა">
 <!ENTITY  validation.crlmanager.description       "გაუქმებულ სერთიფიკატთა ეს სია (CRL) თქვენს მონაცემთა ბაზაში ინახება:">
 <!ENTITY  validation.crlname.label                "სახელი">
 <!ENTITY  validation.crllastupdate.label          "ბოლო განახლება">
