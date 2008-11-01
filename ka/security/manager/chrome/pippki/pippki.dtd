@@ -51,7 +51,7 @@
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title  "მთავარი პაროლის მითითება">
-<!ENTITY getPassword.tokenName.label "უსაფრთხოების მექანიზმი">
+<!ENTITY getPassword.tokenName2.label "უსაფრთხოების მექანიზმი">
 <!ENTITY getPassword.password.label "პაროლი:">
 
 <!-- These should be common -->
@@ -129,3 +129,7 @@
 <!ENTITY protectedAuth.title "დაცული რგოლის აუთენტიფიკაცია">
 <!ENTITY protectedAuth.msg "გთხოვთ გაიიაროთ რგოლის აუთენტიფიკაცია. აუთენტიფიკაციის მეთოდი თქვენი რგოლის ტიპზეა დამოკიდებული.">
 <!ENTITY protectedAuth.tokenName.label "რგოლი:">
+
+<!ENTITY certErrorDlg.title "უსაფრთხო კავშირი ვერ შედგა">
+<!ENTITY certErrorDlg.info1 "შესაძლოა ეს სერვერის კონფიგურაციის პრობლემაა ან ვიღაც ცდილობს სერვერის საკუთარ თავად გასაღებას.">
+<!ENTITY certErrorDlg.info2 "თუ სერვერს წარსულში წარმატებით უკავშირდებოდით, შესაძლოა შეცდომა დროებითია და შეგიძლიათ სცადოთ მოგვიანებით.">
