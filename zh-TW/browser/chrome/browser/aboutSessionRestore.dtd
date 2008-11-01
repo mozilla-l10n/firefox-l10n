@@ -2,7 +2,7 @@
 <!ENTITY restorepage.pagetitle      "你想要回復你的瀏覽狀態嗎？">
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "你先前 &brandShortName; 的瀏覽狀態被異常關閉。我們對造成的不便表示誠摯的歉意。你可以回復先前瀏覽的分頁與視窗。如果不再需要先前的瀏覽狀態，也可以開啟新的。">
+<!ENTITY restorepage.issueDesc      "你先前 &brandShortName; 的瀏覽狀態被異常關閉。我們誠摯的對造成的不便表示歉意。你可以回復先前瀏覽的分頁與視窗。如果不再需要先前的瀏覽狀態，也可以開啟新的。">
 <!ENTITY restorepage.remedies       "如果 &brandShortName; 繼續被異常關閉：">
 <!ENTITY restorepage.dueToChrome    "試著在附加元件管理員中停用最近新安裝的附加元件。">
 <!ENTITY restorepage.dueToContent   "試著回復你的瀏覽狀態，但不回復你懷疑造成異常關閉的分頁：">
