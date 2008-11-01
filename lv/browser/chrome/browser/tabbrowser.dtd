@@ -16,3 +16,4 @@
 <!ENTITY bookmarkThisTab.accesskey "B">
 <!ENTITY undoCloseTab.label "Atsaukt cilnes aizvēršanu">
 <!ENTITY undoCloseTab.accesskey "U">
+<!ENTITY  newTabButton.tooltip        "Atvērt jaunu cilni">

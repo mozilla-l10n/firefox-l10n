@@ -21,3 +21,5 @@
 <!ENTITY pluginWizard.finalPage.restart.label "Lai spraudņi strādātu, nepieciešams restartēt &brandShortName;.">
   
 <!ENTITY missingPlugin.label "Spiediet šeit, lai lejupielādētu spraudni.">
+<!ENTITY disabledPlugin.label "Šī satura spraudnis tika deaktivizēts. Klikšķiniet šeit, lai pārvaldītu spraudņus.">
+<!ENTITY blockedPlugin.label "Jūsu drošības nodrošināšanai šis spraudnis ir bloķēts.">

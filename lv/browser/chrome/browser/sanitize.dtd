@@ -19,6 +19,6 @@
 <!ENTITY itemOfflineApps.accesskey "T">
 <!ENTITY itemDownloads.label "Lejupielāžu vēsture">
 <!ENTITY itemDownloads.accesskey "J">
-<!ENTITY itemSessions.label "Autentificētās sesijas">
-<!ENTITY itemSessions.accesskey "C">
+<!ENTITY itemActiveLogins.label       "Aktīvie lietotāji">
+<!ENTITY itemActiveLogins.accesskey   "L">
 <!ENTITY window.width "30em">

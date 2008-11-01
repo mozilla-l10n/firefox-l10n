@@ -45,3 +45,4 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 <!ENTITY showFolder.label "Parādīt šo mapi">
 <!ENTITY searchBox.label "Meklēt...">
+<!ENTITY cmd.search.commandKey            "k">

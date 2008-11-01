@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label "Jaunas lapas vajadzētu atvērt:">
-<!ENTITY inNewWindow.label "jaunā logā">
-<!ENTITY inNewWindow.accesskey "g">
-<!ENTITY inNewTab.label "jaunā cilnē">
-<!ENTITY inNewTab.accesskey "l">
+<!ENTITY newWindowsAsTabs.label       "Vērt jaunus logus jaunās cilnēs">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
 
 <!ENTITY warnCloseMultipleTabs.label "Brīdināt, pirms aizvērt vairākas cilnes">
 <!ENTITY warnCloseMultipleTabs.accesskey "b">

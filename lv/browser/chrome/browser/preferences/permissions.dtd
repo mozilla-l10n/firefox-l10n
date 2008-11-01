@@ -8,6 +8,7 @@
 <!ENTITY removeallpermissions.label "Aizvākt visas vietnes">
 <!ENTITY removeallpermissions.accesskey "e">
 <!ENTITY address.label "Tīmekļa vietnes adrese:">
+<!ENTITY address.accesskey            "d">
 <!ENTITY block.label "Bloķēt">
 <!ENTITY block.accesskey "B">
 <!ENTITY session.label "Atļaut tikai šīs sesijas laikā">

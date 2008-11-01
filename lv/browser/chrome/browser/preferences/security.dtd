@@ -8,11 +8,11 @@
   "known").
 -->
 
-<!ENTITY tellMaybeAttackSite.label "Brīdināt mani, ja manis apmeklētā lapa tiek uzskatīta par bīstamu">
-<!ENTITY tellMaybeAttackSite.accesskey "k">
+<!ENTITY  blockAttackSites.label     "Bloķēt kaitnieku lapu">
+<!ENTITY  blockAttackSites.accesskey "k">
 
-<!ENTITY tellMaybeForgery.label "Brīdināt mani, ja apmeklējamā lapa tiek uzskatīta par krāpniecisku">
-<!ENTITY tellMaybeForgery.accesskey "R">
+<!ENTITY  blockWebForgeries.label     "Bloķēt krāpnieku lapu">
+<!ENTITY  blockWebForgeries.accesskey "B">
 
 <!ENTITY addonExceptions.label "Izņēmumi...">
 <!ENTITY addonExceptions.accesskey "I">

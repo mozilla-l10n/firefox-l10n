@@ -15,8 +15,6 @@
 <!ENTITY safeb.palm.notforgery.label2 "Šī lapa nav krāpnieciska...">
 <!ENTITY safeb.palm.report.label "Kāpēc šī lapa tika bloķēta?">
 
-<!ENTITY safeb.urlbaricon.tooltip "Šī lapa varētu būt bīstama; klikšķiniet, lai iegūtu sīkāku informāciju.">
-
 <!ENTITY safeb.blocked.malware.title "Iespējama kaitnieku lapa!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "Lietotāji ir sūdzējušies par lapu <span id='malware_sitename'/>. Tā tiek uzskatīta par bīstamu kaitnieku lapu, un, balstoties uz jūsu drosības iestatījumiem, tā ir bloķēta.">

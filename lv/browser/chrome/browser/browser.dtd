@@ -231,10 +231,10 @@
 <!ENTITY viewPageInfoCmd.accesskey "I">
 <!ENTITY viewFrameInfoCmd.label "Skatīt informāciju par ietvaru">
 <!ENTITY viewFrameInfoCmd.accesskey "I">
-<!ENTITY showImageCmd.label "Rādīt attēlu">
-<!ENTITY showImageCmd.accesskey "R">
 <!ENTITY viewImageCmd.label "Skatīt attēlu">
 <!ENTITY viewImageCmd.accesskey "T">
+<!ENTITY viewVideoCmd.label           "Skatīt video">
+<!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label "Skatīt fona attēlu">
 <!ENTITY viewBGImageCmd.accesskey "f">
 <!ENTITY setDesktopBackgroundCmd.label "Uzlikt kā darbvirsmas fonu...">
@@ -309,7 +309,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label "Mērogs">
 <!ENTITY fullZoom.accesskey "M">
 
-<!ENTITY newTabButton.tooltip "Atvērt jaunu cilni">
 <!ENTITY newWindowButton.tooltip "Atvērt jaunu logu">
 <!ENTITY sidebarCloseButton.tooltip "Aizvērt sānjoslu">
 
@@ -392,3 +391,31 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Sīkāka informācija...">
 
 <!ENTITY downloadMonitor2.tooltip "Atvērt lejupielāžu logu">
+<!ENTITY copyAudioURLCmd.label        "Kopēt audio adresi">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY copyVideoURLCmd.label        "Kopēt video adresi">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "Atskaņot">
+<!ENTITY mediaPlay.accesskey         "s">
+<!ENTITY mediaPause.label            "Apturēt">
+<!ENTITY mediaPause.accesskey        "t">
+<!ENTITY mediaMute.label             "Apklusināt">
+<!ENTITY mediaMute.accesskey         "a">
+<!ENTITY mediaUnmute.label           "Atjaunot">
+<!ENTITY mediaUnmute.accesskey       "a">
+<!ENTITY mediaShowControls.label     "Rādīt kontroles">
+<!ENTITY mediaShowControls.accesskey "k">
+<!ENTITY mediaHideControls.label     "Slēpt kontroles">
+<!ENTITY mediaHideControls.accesskey "k">
+<!ENTITY reloadImageCmd.label         "Pārlādēt attēlu">
+<!ENTITY reloadImageCmd.accesskey     "R">
+<!ENTITY saveVideoCmd.label           "Saglabāt video kā…">
+<!ENTITY saveVideoCmd.accesskey       "g">
+<!ENTITY saveAudioCmd.label           "Saglabāt audio kā…">
+<!ENTITY saveAudioCmd.accesskey       "g">
+<!ENTITY sendVideoCmd.label           "Nosūtīt video…">
+<!ENTITY sendVideoCmd.accesskey       "n">
+<!ENTITY sendAudioCmd.label           "Nosūtīt audio…">
+<!ENTITY sendAudioCmd.accesskey       "n">

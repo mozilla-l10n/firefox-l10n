@@ -22,9 +22,8 @@
 <!ENTITY printButton.tooltip "Drukāt šo lapu">
 <!ENTITY closeWindow.commandkey "V">
 
-<!ENTITY searchtab.label "Meklēt">
-<!ENTITY searchtab.accesskey "M">
-<!ENTITY searchClose.tooltip "Aizvērt meklēšanas rezultātus">
+<!ENTITY search.emptytext               "Meklēt">
+<!ENTITY searchHeader.label             "Meklēšanas rezultāti">
 <!ENTITY toctab.label "Saturs">
 <!ENTITY toctab.accesskey "S">
 <!-- LOCALIZATION NOTE :

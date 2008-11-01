@@ -10,8 +10,6 @@
 <!ENTITY cancel.accesskey "C">
 
 <!ENTITY noupdatesfound.title "Nav atrasti atjauninājumi">
-<!ENTITY noupdatesfound.intro "Nav pieejami jauni atjauninājumu. &brandShortName; var regulāri 
-pārbaudīt jaunu atjauninājumu pieejamību.">
 
 <!ENTITY incompatibleChecking.label "Pārbauda, vai šis atjauninājums nesagādās problēmas jūsu paplašinājumiem un/vai tēmām...">
 <!ENTITY clickHere.label "Vairāk informācijas par šo atjauninājumu">
@@ -79,3 +77,5 @@ instalēs šo atjauninājumu nākamajā palaišanas reizē.">
 <!ENTITY update.details.label "Sīkāka informācija">
 <!ENTITY update.installedOn.label "Uzinstalēts:">
 <!ENTITY update.status.label "Statuss:">
+<!ENTITY  noupdatesautoenabled.intro      "Jaunu atjauninājumu nav. &brandShortName; ik pa brīdim pārbaudīt atjauninājumus.">
+<!ENTITY  noupdatesautodisabled.intro     "Jaunu atjauninājumu nav. Pārbaudiet tos vēlreiz vēlāk vai arī aktivizējiet &brandShortName; automātisko atjauninājumu pārbaudi.">

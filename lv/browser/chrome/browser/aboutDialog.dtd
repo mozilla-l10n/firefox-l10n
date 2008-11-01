@@ -7,3 +7,6 @@
 <!ENTITY copyrightInfo "&#169;1998-2008 Veidotāji. Visas tiesības aizsargātas. Firefox un 
 Firefox logo ir Mozilla Foundation preču zīmes.  Visas tiesības 
 aizsargātas.">
+<!ENTITY closeCmdGNOME.label        "Aizvēt">  
+<!ENTITY closeCmdGNOME.accesskey    "A">
+<!ENTITY copyrightGNOME.accesskey   "i">

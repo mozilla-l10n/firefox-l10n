@@ -45,8 +45,7 @@
 
 <!ENTITY filterPrefs.label "Filtrs:">
 <!ENTITY filterPrefs.accesskey "F">
-<!ENTITY showAll.label "Rādīt visu">
-<!ENTITY showAll.accesskey "R">
+<!ENTITY focusFilter.key "f">
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "Iestatījuma nosaukums">

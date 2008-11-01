@@ -60,8 +60,8 @@
 <!ENTITY generalEncoding "Kodējums:">
 <!ENTITY generalMetaName "Nosaukums">
 <!ENTITY generalMetaContent "Saturs">
-<!ENTITY generalSecurityMore "Vairāk">
-<!ENTITY generalSecurityMore.accesskey "o">
+<!ENTITY generalSecurityDetails "Papildus informācija">
+<!ENTITY generalSecurityDetails.accesskey "P">
 
 <!ENTITY mediaTab "Multivide">
 <!ENTITY mediaTab.accesskey "M">

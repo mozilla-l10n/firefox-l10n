@@ -20,4 +20,6 @@
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip "Rādīt visas birkas">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label "Ielādēt šo grāmatzīmi sānu joslā">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey "o">
-<!ENTITY editBookmarkOverlay.choose.label "Izvēlieties...">
+<!ENTITY editBookmarkOverlay.choose.label "Izvēlieties…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Jauna mape">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "m">

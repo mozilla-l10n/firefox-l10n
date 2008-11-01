@@ -7,8 +7,4 @@
 <!ENTITY focusSearch1.key "f">
 <!ENTITY focusSearch2.key "k">
 
-<!ENTITY filter.label "Meklēt:">
-<!ENTITY filter.accesskey "M">
-
-<!ENTITY clear.label "Attīrīt">
-<!ENTITY clear.accesskey "t">
+<!ENTITY  filter.emptytext        "Meklēt">

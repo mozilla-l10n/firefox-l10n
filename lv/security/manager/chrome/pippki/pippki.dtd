@@ -51,7 +51,7 @@
 <!-- Values for getpassword.xul -->
 
 <!ENTITY getPassword.title "Ievadiet galveno paroli">
-<!ENTITY getPassword.tokenName.label "Drošības ierīce">
+<!ENTITY getPassword.tokenName2.label "Drošības ierīce">
 <!ENTITY getPassword.password.label "Parole:">
 <!-- These should be common -->
 
@@ -129,3 +129,7 @@
 <!ENTITY protectedAuth.title "Aizsargātas marķierierīces autentificēšana">
 <!ENTITY protectedAuth.msg "Lūdzu autentificējiet marķierierīci. Autentificēšanas metode atkarīga no ierīces tipa.">
 <!ENTITY protectedAuth.tokenName.label "Marķierieīce:">
+
+<!ENTITY certErrorDlg.title "Drošais savienojums nav izdevies">
+<!ENTITY certErrorDlg.info1 "Šīs problēmas cēlonis varētu būt servera konfigurācijas problēma vai arī tas, ka kāds mēģina uzdoties par šo serveri.">
+<!ENTITY certErrorDlg.info2 "Ja iepriekš jums ir izdevies veiksmīgi pielsēgties šim serverim, kļūda var būt īslaicīga un jūs varat mēģināt vēlreiz nedaudz vēlāk.">
