@@ -22,8 +22,8 @@
 <!ENTITY printButton.tooltip "Inprimatu orri hau">
 <!ENTITY closeWindow.commandkey "W">
 
-<!ENTITY search.emptytext "Search">
-<!ENTITY searchHeader.label "Search results">
+<!ENTITY search.emptytext "Bilatu">
+<!ENTITY searchHeader.label "Bilaketaren emaitzak">
 <!ENTITY toctab.label "Edukiak">
 <!ENTITY toctab.accesskey "E">
 <!-- LOCALIZATION NOTE :

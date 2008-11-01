@@ -232,13 +232,13 @@
 <!ENTITY viewPageInfoCmd.label "Ikusi orriaren informazioa">
 <!ENTITY viewPageInfoCmd.accesskey "I">
 <!ENTITY viewFrameInfoCmd.label "Ikusi markoaren informazioa">
-<!ENTITY viewFrameInfoCmd.accesskey "I">
-<!ENTITY reloadImageCmd.label "Reload Image">
+<!ENTITY viewFrameInfoCmd.accesskey "U">
+<!ENTITY reloadImageCmd.label "Berritu irudia">
 <!ENTITY reloadImageCmd.accesskey "R">
 <!ENTITY viewImageCmd.label "Ikusi irudia">
 <!ENTITY viewImageCmd.accesskey "I">
-<!ENTITY viewVideoCmd.label "View Video">
-<!ENTITY viewVideoCmd.accesskey "I">
+<!ENTITY viewVideoCmd.label "Ikusi bideoa">
+<!ENTITY viewVideoCmd.accesskey "K">
 <!ENTITY viewBGImageCmd.label "Ikusi atzeko planoko irudia">
 <!ENTITY viewBGImageCmd.accesskey "a">
 <!ENTITY setDesktopBackgroundCmd.label "Jarri idazmahaiaren atzeko planoan...">
@@ -266,16 +266,16 @@
 <!ENTITY sendLinkCmd.accesskey "d">
 <!ENTITY saveImageCmd.label "Gorde irudia honela...">
 <!ENTITY saveImageCmd.accesskey "g">
-<!ENTITY saveVideoCmd.label "Save Video As…">
-<!ENTITY saveVideoCmd.accesskey "v">
-<!ENTITY saveAudioCmd.label "Save Audio As…">
-<!ENTITY saveAudioCmd.accesskey "v">
+<!ENTITY saveVideoCmd.label "Gorde bideoa honela...">
+<!ENTITY saveVideoCmd.accesskey "b">
+<!ENTITY saveAudioCmd.label "Gorde audioa honela...">
+<!ENTITY saveAudioCmd.accesskey "r">
 <!ENTITY sendImageCmd.label "Bidali irudia...">
 <!ENTITY sendImageCmd.accesskey "d">
-<!ENTITY sendVideoCmd.label "Send Video…">
-<!ENTITY sendVideoCmd.accesskey "n">
-<!ENTITY sendAudioCmd.label "Send Audio…">
-<!ENTITY sendAudioCmd.accesskey "n">
+<!ENTITY sendVideoCmd.label "Bidali bideoa...">
+<!ENTITY sendVideoCmd.accesskey "d">
+<!ENTITY sendAudioCmd.label "Bidali audioa...">
+<!ENTITY sendAudioCmd.accesskey "d">
 <!ENTITY copyLinkCmd.label "Kopiatu loturaren helbidea">
 <!ENTITY copyLinkCmd.accesskey "k">
 <!ENTITY copyLinkTextCmd.label "Kopiatu loturaren testua">
@@ -284,9 +284,9 @@
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyImageContentsCmd.label "Kopiatu irudia">
 <!ENTITY copyImageContentsCmd.accesskey "k">
-<!ENTITY copyVideoURLCmd.label "Copy Video Location">
+<!ENTITY copyVideoURLCmd.label "Kopiatu bideoaren helbidea">
 <!ENTITY copyVideoURLCmd.accesskey "o">
-<!ENTITY copyAudioURLCmd.label "Copy Audio Location">
+<!ENTITY copyAudioURLCmd.label "Kopiatu audioaren helbidea">
 <!ENTITY copyAudioURLCmd.accesskey "o">
 <!ENTITY blockImageCmd.accesskey "B">
 <!ENTITY metadataCmd.label "Propietateak">
@@ -297,18 +297,18 @@
 <!ENTITY thisFrameMenu.accesskey "h">
 <!-- Media (video/audio) controls -->
 
-<!ENTITY mediaPlay.label "Play">
+<!ENTITY mediaPlay.label "Erreproduzitu">
 <!ENTITY mediaPlay.accesskey "P">
-<!ENTITY mediaPause.label "Pause">
+<!ENTITY mediaPause.label "Pausatu">
 <!ENTITY mediaPause.accesskey "P">
-<!ENTITY mediaMute.label "Mute">
+<!ENTITY mediaMute.label "Mututu">
 <!ENTITY mediaMute.accesskey "M">
-<!ENTITY mediaUnmute.label "Unmute">
+<!ENTITY mediaUnmute.label "Ez mututu">
 <!ENTITY mediaUnmute.accesskey "m">
-<!ENTITY mediaShowControls.label "Show Controls">
-<!ENTITY mediaShowControls.accesskey "C">
-<!ENTITY mediaHideControls.label "Hide Controls">
-<!ENTITY mediaHideControls.accesskey "C">
+<!ENTITY mediaShowControls.label "Erakutsi kontrolak">
+<!ENTITY mediaShowControls.accesskey "K">
+<!ENTITY mediaHideControls.label "Ezkutatu kontrolak">
+<!ENTITY mediaHideControls.accesskey "K">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.

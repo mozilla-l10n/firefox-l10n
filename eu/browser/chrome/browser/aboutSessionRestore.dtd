@@ -1,11 +1,11 @@
-<!ENTITY restorepage.tabtitle "Leheneratu saioa">
-<!ENTITY restorepage.pagetitle "Would You Like to Restore Your Session?">
+<!ENTITY restorepage.tabtitle "Berreskuratu saioa">
+<!ENTITY restorepage.pagetitle "Zure saioa berreskuratu nahi duzu?">
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc "Your previous &brandShortName; session closed unexpectedly. We sincerely apologize for the inconvenience. You can restore the tabs and windows from your previous session, or start a new session if they are no longer needed.">
+<!ENTITY restorepage.issueDesc "Zure aurreko &brandShortName; saioa espero gabe itxi zen. Barkamenak eskatzen dizkizugu eragozpenengatik. Aurreko saioko fitxak eta leihoak berreskura ditzakezu edo, hauek ez badira luzaroan behar, saio berria hasi.">
 <!ENTITY restorepage.remedies "&brandShortName; ezuztean ixten bada:">
 <!ENTITY restorepage.dueToChrome "Saiatu azken aldian gehituriko gehigarriak gehigarri kudeatzailean ezgaitzen.">
-<!ENTITY restorepage.dueToContent "Try restoring your session without any Web pages you suspect might be causing the problem:">
+<!ENTITY restorepage.dueToContent "Saiatu zure saioa berreskuratzen arazoa sortzen ari direla uste duzun web orririk gabe:">
 
 <!ENTITY restorepage.restoreButton "Leheneratu aurrekoa saioa">
 <!ENTITY restorepage.restore.access "R">
