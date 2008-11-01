@@ -11,6 +11,10 @@
 <!ENTITY contextSendThisLink.accesskey "с">
 <!ENTITY contextSendImage.label "Отправить изображение…">
 <!ENTITY contextSendImage.accesskey "п">
+<!ENTITY contextSendVideo.label "Отправить видео…">
+<!ENTITY contextSendVideo.accesskey "п">
+<!ENTITY contextSendAudio.label "Отправить аудио…">
+<!ENTITY contextSendAudio.accesskey "п">
 <!ENTITY contextSendFrame.label "Отправить фрейм…">
 <!ENTITY contextSendFrame.accesskey "т">
 <!ENTITY sendLinkCmd.label "Отправить ссылку…">
