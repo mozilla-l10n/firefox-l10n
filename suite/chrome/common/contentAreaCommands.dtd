@@ -69,7 +69,11 @@
 <!ENTITY saveLinkCmd.accesskey "E">
 <!ENTITY saveImageAsCmd.label "Enregistrer l'image sous…">
 <!ENTITY saveImageCmd.label "Enregistrer l'image">
-<!ENTITY saveImageCmd.accesskey "a">
+<!ENTITY saveImageCmd.accesskey "s">
+<!ENTITY saveVideoCmd.label "Enregistrer la vidéo sous…">
+<!ENTITY saveVideoCmd.accesskey "s">
+<!ENTITY saveAudioCmd.label "Enregistrer le fichier audio sous…">
+<!ENTITY saveAudioCmd.accesskey "s">
 <!ENTITY copyCmd.label "Copier">
 <!ENTITY copyCmd.accesskey "p">
 <!ENTITY selectAllCmd.label "Tout sélectionner">
@@ -78,6 +82,10 @@
 <!ENTITY copyLinkCmd.accesskey "n">
 <!ENTITY copyImageCmd.label "Copier l'image">
 <!ENTITY copyImageCmd.accesskey "m">
+<!ENTITY copyVideoURLCmd.label "Copier l'URL de la vidéo">
+<!ENTITY copyVideoURLCmd.accesskey "o">
+<!ENTITY copyAudioURLCmd.label "Copier l'URL du fichier audio">
+<!ENTITY copyAudioURLCmd.accesskey "o">
 <!ENTITY metadataCmd.label "Propriétés">
 <!ENTITY metadataCmd.accesskey "r">
 <!ENTITY copyEmailCmd.label "Copier l'adresse">
@@ -94,6 +102,18 @@
 <!ENTITY redoCmd.accesskey "a">
 <!ENTITY thisFrameMenu.label "Ce cadre">
 <!ENTITY thisFrameMenu.accesskey "C">
+<!ENTITY mediaPlay.label "Lire">
+<!ENTITY mediaPlay.accesskey "L">
+<!ENTITY mediaPause.label "Pause">
+<!ENTITY mediaPause.accesskey "P">
+<!ENTITY mediaMute.label "Muet">
+<!ENTITY mediaMute.accesskey "u">
+<!ENTITY mediaUnmute.label "Audible">
+<!ENTITY mediaUnmute.accesskey "A">
+<!ENTITY mediaShowControls.label "Afficher les contrôles">
+<!ENTITY mediaShowControls.accesskey "c">
+<!ENTITY mediaHideControls.label "Masquer les contrôles">
+<!ENTITY mediaHideControls.accesskey "M">
 <!ENTITY search.accesskey "r">
 <!ENTITY bidiSwitchPageDirectionItem.label "Changer la direction de la page">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "g">

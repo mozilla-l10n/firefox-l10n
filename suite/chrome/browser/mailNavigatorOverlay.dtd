@@ -13,7 +13,11 @@
 <!ENTITY contextSendThisLink.label        "Envoyer ce lien…">
 <!ENTITY contextSendThisLink.accesskey    "o">
 <!ENTITY contextSendImage.label           "Envoyer l'image…">
-<!ENTITY contextSendImage.accesskey       "i">
+<!ENTITY contextSendImage.accesskey       "n">
+<!ENTITY contextSendVideo.label           "Envoyer la vidéo…">
+<!ENTITY contextSendVideo.accesskey       "n">
+<!ENTITY contextSendAudio.label           "Envoyer le fichier audio…">
+<!ENTITY contextSendAudio.accesskey       "n">
 <!ENTITY contextSendFrame.label           "Envoyer le cadre…">
 <!ENTITY contextSendFrame.accesskey       "c">
 
