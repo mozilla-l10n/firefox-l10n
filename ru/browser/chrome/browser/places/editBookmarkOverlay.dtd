@@ -21,5 +21,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label "Загружать закладку в боковой панели">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey "г">
 <!ENTITY editBookmarkOverlay.choose.label "Выбрать…">
-<!ENTITY editBookmarkOverlay.newFolderButton.label "Новая папка">
+<!ENTITY editBookmarkOverlay.newFolderButton.label "Создать папку">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey "о">
