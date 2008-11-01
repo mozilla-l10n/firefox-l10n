@@ -19,6 +19,6 @@
 <!ENTITY itemOfflineApps.accesskey    "O">
 <!ENTITY itemDownloads.label          "下載記錄">
 <!ENTITY itemDownloads.accesskey      "D">
-<!ENTITY itemActiveLogins.label       "Active Logins">
+<!ENTITY itemActiveLogins.label       "已登入的連線">
 <!ENTITY itemActiveLogins.accesskey   "L">
 <!ENTITY window.width                 "30em">

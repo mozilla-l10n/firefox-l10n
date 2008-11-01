@@ -1,0 +1,65 @@
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.pagetitle       "about:rights">
+<!ENTITY rights.intro-header    "關於你的權利">
+<!ENTITY rights.intro "&brandFullName; 是一個自由且公開源碼的軟體，由來自世界各地數千位成員組成的社群所製作。有一些你需要知道的事：">
+
+<!-- Note on pointa / pointb / pointc form:
+     These points each have an embedded link in the HTML, so each point is
+     split into chunks for text before the link, the link text, and the text
+     after the link. If a localized grammar doesn't need the before or after
+     chunk, it can be left blank.
+
+     Also note the leading/trailing whitespace in strings here, which is
+     deliberate for formatting around the embedded links. -->
+<!ENTITY rights.intro-point1a "&brandShortName; 是基於 ">
+<!ENTITY rights.intro-point1b "Mozilla Public License">
+<!ENTITY rights.intro-point1c " 定義的條件提供給你的。這代表你有權使用、複製、將 &brandShortName; 散佈給他人。我們也歡迎你自行修改 &brandShortName; 的程式碼以滿足你的需求。Mozilla Public License 也同時給予你散佈修改版本的權利。">
+
+<!ENTITY rights.intro-point2a "Mozilla 沒有給予你使用 Mozilla 與 Firefox 註冊商標與標誌的任何權利。更多關於註冊商標的使用說明請看">
+<!ENTITY rights.intro-point2b "這裡">
+<!ENTITY rights.intro-point2c "。">
+
+<!-- point 3 text for official branded builds -->
+<!ENTITY rights.intro-point3a "&vendorShortName; 產品的個人隱私條款請看">
+<!ENTITY rights.intro-point3b "這裡">
+<!ENTITY rights.intro-point3c "。">
+
+<!-- point 3 text for unbranded builds -->
+<!ENTITY rights.intro-point3-unbranded "適用此產品的個人隱私條款應在此處列出。">
+
+<!-- point 4 text for official branded builds -->
+<!ENTITY rights.intro-point4a "&brandShortName; 也提供可停用的附加資訊服務，例如 SafeBrowsing 服務；但是我們無法保證他們 100&#37; 準確且沒有錯誤。在">
+<!ENTITY rights.intro-point4b "服務條款">
+<!ENTITY rights.intro-point4c "可以找到更多資訊，包括如何停用這些服務的說明。">
+
+<!-- point 4 text for unbranded builds -->
+<!ENTITY rights.intro-point4a-unbranded "若此產品包含任何資訊服務，適用的服務條款應寫在">
+<!ENTITY rights.intro-point4b-unbranded "相關網站服務">
+<!ENTITY rights.intro-point4c-unbranded "段落。">
+
+<!ENTITY rights.webservices-header "&brandFullName; 相關網站服務">
+
+<!-- Note that this paragraph references a couple of entities from
+     preferences/security.dtd, so that we can refer to text the user sees in
+     the UI, without this page being forgotten every time those strings are
+     updated.  -->
+<!-- intro paragraph for branded builds -->
+<!ENTITY rights.webservices-a "&brandFullName; 使用某些網站資訊服務（以下簡稱「Services」），例如 SafeBrowsing 服務，由以下描述的方式在執行檔版本的 &brandShortName; 下提供給你。若你不想要使用這些「服務」或是你不接受以下的服務條款，你可以到程式的偏好設定，選擇">
+<!ENTITY rights.webservices-b "安全">
+<!ENTITY rights.webservices-c "頁面，取消「&blockAttackSites.label;」與「&blockWebForgeries.label;」選項來停用 SafeBrowsing 服務。">
+
+<!-- intro paragraph for unbranded builds -->
+<!ENTITY rights.webservices-unbranded "此產品包含的相關網站服務，和如何停用這些服務（若適用的話），應該要寫在這裡。">
+
+<!-- point 1 text for unbranded builds -->
+<!ENTITY rights.webservices-term1-unbranded "適用於本產品的服務條款應該要寫在這裡。">
+
+<!-- points 1-7 text for branded builds -->
+<!ENTITY rights.webservices-term1 "&vendorShortName; 與貢獻者、授權者與合作者將盡力提供準確的詐騙防護與有害網站資訊。然而，這些提供者無法保證這些資訊是全面、完整，且沒有錯誤：某些有風險的網站可能不會被指認出來，寫某些安全的網站可能會被錯誤的標記。">
+<!ENTITY rights.webservices-term2 "&vendorShortName; 將依自己的判斷修改或是停止「服務」。">
+<!ENTITY rights.webservices-term3 "你可以在附有「服務」的 &brandShortName; 版本使用「服務」，且你有所有使用「服務」所需的權利。&vendorShortName; 與它的授權者保留其他與「服務」有關的權利。這些條款不限制任何適用於 &brandShortName; 的開放源碼授權所給予的權利，與 &brandShortName; 的源碼版本。">
+<!ENTITY rights.webservices-term4 "「服務」依現狀提供。&vendorShortName;、它的貢獻者、授權者、與散佈者，不提供任何明示或隱含的保證，包含且不限於「服務」的可用性與你的用途的適用性。你須接受所有使用「服務」於你的用途時的風險，與「服務」的品質與效能。某些司法管轄區不容許排除或限制一些隱含的保證，所以此條款可能不適用於你。">
+<!ENTITY rights.webservices-term5 "除非法律要求，&vendorShortName;、它的貢獻者、授權者、與散佈者不會對任何損害負責任，包含任何使用 &brandShortName; 與「服務」的有關的非直接的、特別的、無法避免的、示範性的損害。此條款以下的集體責任不會超過 US$500（美金五百元）。某些司法管轄區不容許排除或限制一些隱含的保證，所以此條款可能不適用於你。">
+<!ENTITY rights.webservices-term6 "&vendorShortName; 可以隨著時間與需要修改這些條款。這些條款在沒有 &vendorShortName; 的書面同意前不得修改或是刪去。">
+<!ENTITY rights.webservices-term7 "這些條款由美國加利福尼亞州法律所規範，除了法律衝突條款。若此條款有任何部分無效或是無法執行，其他部分還是會保持完全有效。若此正體中文翻譯與英文原文有任何意義上的衝突，以英文原文為準。">
