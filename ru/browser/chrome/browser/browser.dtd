@@ -183,6 +183,8 @@
 <!ENTITY reloadImageCmd.accesskey "р">
 <!ENTITY viewImageCmd.label "Открыть изображение">
 <!ENTITY viewImageCmd.accesskey "т">
+<!ENTITY viewVideoCmd.label "Просмотреть видео">
+<!ENTITY viewVideoCmd.accesskey "с">
 <!ENTITY viewBGImageCmd.label "Открыть фоновое изображение">
 <!ENTITY viewBGImageCmd.accesskey "р">
 <!ENTITY setDesktopBackgroundCmd.label "Сделать фоновым рисунком рабочего стола…">
@@ -239,16 +241,16 @@
 <!ENTITY thisFrameMenu.label "В этом фрейме">
 <!ENTITY thisFrameMenu.accesskey "ф">
 <!ENTITY mediaPlay.label "Воспроизвести">
-<!ENTITY mediaPlay.accesskey "п">
+<!ENTITY mediaPlay.accesskey "с">
 <!ENTITY mediaPause.label "Приостановить">
 <!ENTITY mediaPause.accesskey "с">
 <!ENTITY mediaMute.label "Убрать звук">
 <!ENTITY mediaMute.accesskey "б">
-<!ENTITY mediaUnmute.label "Дать звук">
+<!ENTITY mediaUnmute.label "Восстановить звук">
 <!ENTITY mediaUnmute.accesskey "т">
-<!ENTITY mediaShowControls.label "Показать управление">
+<!ENTITY mediaShowControls.label "Показать пульт управления">
 <!ENTITY mediaShowControls.accesskey "а">
-<!ENTITY mediaHideControls.label "Скрыть управление">
+<!ENTITY mediaHideControls.label "Скрыть пульт управления">
 <!ENTITY mediaHideControls.accesskey "к">
 <!ENTITY fullZoomEnlargeCmd.label "Увеличить">
 <!ENTITY fullZoomEnlargeCmd.accesskey "в">

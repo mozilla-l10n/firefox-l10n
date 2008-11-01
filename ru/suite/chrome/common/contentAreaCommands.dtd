@@ -69,6 +69,10 @@
 <!ENTITY saveImageAsCmd.label "Сохранить изображение как…">
 <!ENTITY saveImageCmd.label "Сохранить изображение">
 <!ENTITY saveImageCmd.accesskey "х">
+<!ENTITY saveVideoCmd.label "Сохранить видео как…">
+<!ENTITY saveVideoCmd.accesskey "х">
+<!ENTITY saveAudioCmd.label "Сохранить аудио как…">
+<!ENTITY saveAudioCmd.accesskey "х">
 <!ENTITY copyCmd.label "Копировать">
 <!ENTITY copyCmd.accesskey "К">
 <!ENTITY selectAllCmd.label "Выделить всё">
@@ -77,6 +81,10 @@
 <!ENTITY copyLinkCmd.accesskey "ы">
 <!ENTITY copyImageCmd.label "Копировать изображение">
 <!ENTITY copyImageCmd.accesskey "и">
+<!ENTITY copyVideoURLCmd.label "Копировать ссылку на видео">
+<!ENTITY copyVideoURLCmd.accesskey "п">
+<!ENTITY copyAudioURLCmd.label "Копировать ссылку на аудио">
+<!ENTITY copyAudioURLCmd.accesskey "п">
 <!ENTITY metadataCmd.label "Свойства">
 <!ENTITY metadataCmd.accesskey "й">
 <!ENTITY copyEmailCmd.label "Копировать адрес электронной почты">
@@ -93,6 +101,18 @@
 <!ENTITY redoCmd.accesskey "П">
 <!ENTITY thisFrameMenu.label "В этом фрейме">
 <!ENTITY thisFrameMenu.accesskey "ф">
+<!ENTITY mediaPlay.label "Воспроизвести">
+<!ENTITY mediaPlay.accesskey "с">
+<!ENTITY mediaPause.label "Приостановить">
+<!ENTITY mediaPause.accesskey "с">
+<!ENTITY mediaMute.label "Убрать звук">
+<!ENTITY mediaMute.accesskey "б">
+<!ENTITY mediaUnmute.label "Восстановить звук">
+<!ENTITY mediaUnmute.accesskey "т">
+<!ENTITY mediaShowControls.label "Показать пульт управления">
+<!ENTITY mediaShowControls.accesskey "а">
+<!ENTITY mediaHideControls.label "Скрыть пульт управления">
+<!ENTITY mediaHideControls.accesskey "к">
 <!ENTITY search.accesskey "П">
 <!ENTITY bidiSwitchPageDirectionItem.label "Переключить направление текста на странице">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "н">
