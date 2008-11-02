@@ -44,7 +44,6 @@
 <!ENTITY ListDescription.label "Popis: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label "Vložte e-mailové adresy pro tuto skupinu:">
-<!ENTITY RemoveButton.label "Odebrat">
 <!ENTITY UpButton.label "Přesunout výše">
 <!ENTITY DownButton.label "Přesunout níže">
 <!-- Access Keys -->

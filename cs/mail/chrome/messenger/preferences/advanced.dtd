@@ -26,8 +26,6 @@
 <!ENTITY reuseExpRadio0.accesskey "N">
 <!ENTITY reuseExpRadio1.label "Aktuálním okně se zprávou">
 <!ENTITY reuseExpRadio1.accesskey "A">
-<!ENTITY reuseExpRadio2.label "Novém panelu">
-<!ENTITY reuseExpRadio2.accesskey "p">
 <!ENTITY configEditDesc.label "Rozšířená konfigurace">
 <!ENTITY configEdit.label "Editor předvoleb…">
 <!ENTITY configEdit.accesskey "E">
@@ -40,7 +38,7 @@
 <!ENTITY display.caption "Zobrazení">
 
 <!-- Update -->
-<!ENTITY autoCheck.label "Opakovaně kontrolovat aktualizace pro:"> 
+<!ENTITY autoCheck.label "Opakovaně kontrolovat aktualizace pro:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "T">
 <!ENTITY enableAddonsUpdate.label "Nainstalované doplňky">
@@ -54,7 +52,7 @@
 <!ENTITY modeAutoAddonWarn.label "Upozornit, pokud by aktualizace zakázala některé doplňky">
 <!ENTITY modeAutoAddonWarn.accesskey "U">
 <!ENTITY showUpdates.label "Zobrazit historii aktualizací">
-<!ENTITY showUpdates.accesskey "Z"> 
+<!ENTITY showUpdates.accesskey "Z">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label "Nastavení">
@@ -84,7 +82,6 @@
 <!ENTITY clearCacheNow.accesskey "m">
 
 <!-- Certificates -->
-<!ENTITY certificatesInfo2.label "Spravovat certifikáty, seznamy zneplatnění, ověřování certifikátů a bezpečnostní zařízení">
 <!ENTITY viewCertificates.label "Certifikáty…">
 <!ENTITY viewCertificates.accesskey "C">
 <!ENTITY viewCRLs.label "Zneplatnění…">

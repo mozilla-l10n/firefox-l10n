@@ -47,14 +47,13 @@
 <!ENTITY folderCharsetOverride.accesskey "a">
 <!ENTITY folderRebuildSummaryFile.label "Přeindexovat">
 <!ENTITY folderRebuildSummaryFile.accesskey "P">
-<!ENTITY folderRebuildSummaryFileTip.label "Obnoví indexový soubor">      
+<!ENTITY folderRebuildSummaryFileTip.label "Obnoví indexový soubor">
 
 <!ENTITY retention.label "Pravidla uchovávání zpráv">
 <!ENTITY retentionUseDefault.label  "Použít výchozí nastavení serveru">
 <!ENTITY retentionUseDefault.accesskey "v">
-<!ENTITY days.label "dní">
 <!ENTITY daysOld.label "dny(ů)">
-<!ENTITY message.label "zprávy"> 
+<!ENTITY message.label "zprávy">
 <!ENTITY retentionCleanup.label "Pro ušetření místa na disku lze staré zprávy automaticky mazat">
 <!ENTITY retentionDeleteMsg.label "Smazat zprávy starší než">
 <!ENTITY retentionDeleteMsg.accesskey "S">
@@ -63,7 +62,7 @@
 <!ENTITY retentionKeepNew.label "Smazat vše mimo posledních">
 <!ENTITY retentionKeepNew.accesskey "m">
 <!ENTITY retentionKeepUnread.label "Vždy smazat přečtené zprávy">
-<!ENTITY retentionKeepUnread.accesskey "V"> 
+<!ENTITY retentionKeepUnread.accesskey "V">
 
 <!ENTITY folderOfflineTab.label "Režim offline">
 <!ENTITY folderCheckForNewMessages.label "Kontrolovat tuto složku na nové zprávy">
@@ -76,18 +75,15 @@
 
 <!ENTITY selectofflineNewsgroup.check.label "Označte tuto diskusní skupinu pro použití v režimu offline">
 <!ENTITY selectofflineNewsgroup.check.accesskey "O">
-<!ENTITY UseDefaultofflineNewsgroup.check.label "Použít výchozí nastavení účtu ">
 <!ENTITY offlineNewsgroup.button.label "Stáhnout nyní">
 <!ENTITY offlineNewsgroup.button.accesskey "S">
 
-<!ENTITY folderProps.information.label "Informace:">
 <!ENTITY folderProps.name.label "Název:">
 <!ENTITY folderProps.name.accesskey "N">
 <!ENTITY folderProps.location.label "Adresa:">
 <!ENTITY folderProps.location.accesskey "A">
 
 <!ENTITY folderSharingTab.label "Sdílení">
-<!ENTITY privilegesDesc.label "Sdílení této a dalších složek s uživateli na síti a zobrazení přístupových práv">
 <!ENTITY privileges.button.label "Privilegia…">
 <!ENTITY privileges.button.accesskey "P">
 <!ENTITY permissionsDesc.label "Máte následující oprávnění:">

@@ -43,12 +43,3 @@
 <!ENTITY antiVirus.intro "Aplikace &brandShortName; může antivirovým programům umožnit analyzování zpráv příchozí pošty na výskyt virů ještě dříve, než jsou tyto zprávy uloženy do složek pošty.">
 <!ENTITY antiVirus.label "Povolit antivirovým klientům prohlížet jednotlivé příchozí zprávy">
 <!ENTITY antiVirus.accesskey "P">
-
-<!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
-<!ENTITY antiVirusCaption.label "Antivirus">
-<!ENTITY paswords.label "Hesla">
-<!ENTITY emailScams.label "Podvodná pošta">
-<!ENTITY junkMail.label "Nevyžádaná pošta">
-<!ENTITY itemIntrusions.label "Obtěžování">
-<!ENTITY itemIntrusionsAndPasswords.label "Obtěžování a hesla">
-<!ENTITY itemJunkMail.label "Nevyžádaná pošta">

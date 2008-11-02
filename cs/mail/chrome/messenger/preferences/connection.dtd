@@ -1,5 +1,5 @@
 <!ENTITY connectionsDialog.title "Nastavení připojení">
-<!ENTITY window.width "40em"> 
+<!ENTITY window.width "40em">
 
 <!ENTITY proxyTitle.label "Nastavení proxy serveru pro přístup na Internet">
 <!ENTITY noProxyTypeRadio.label "Bez proxy serveru">
@@ -14,10 +14,6 @@
 <!ENTITY autoTypeRadio.accesskey "a">
 <!ENTITY reload.label "Znovu načíst">
 <!ENTITY reload.accesskey "Z">
-<!ENTITY ftp.label "FTP proxy:">
-<!ENTITY ftp.accesskey "F">
-<!ENTITY gopher.label "Gopher proxy:">
-<!ENTITY gopher.accesskey "G">
 <!ENTITY http.label "HTTP proxy:">
 <!ENTITY http.accesskey "H">
 <!ENTITY ssl.label "SSL proxy:">

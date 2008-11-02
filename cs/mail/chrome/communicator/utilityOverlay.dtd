@@ -1,6 +1,6 @@
 <!-- these things need to move into utilityOverlay.xul -->
 
-<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
 <!ENTITY fileMenu.label "Soubor">
 <!ENTITY fileMenu.accesskey "s">
@@ -25,8 +25,7 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "l">
 <!ENTITY deleteCmd.label "Smazat">
-<!ENTITY deleteCmd.key "D">
-<!ENTITY deleteCmd.accesskey "s">
+<!ENTITY deleteCmd.accesskey "S">
 <!ENTITY selectAllCmd.label "Vybrat vše">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
@@ -34,9 +33,6 @@
 <!ENTITY preferencesCmd.accesskey "M">
 <!ENTITY preferencesCmdUnix.label "Předvolby">
 <!ENTITY preferencesCmdUnix.accesskey "e">
- 
-<!ENTITY findTypeTextCmd.label "Hledat během psaní text">
-<!ENTITY findTypeTextCmd.accesskey "x">
 
 <!ENTITY viewMenu.label "Zobrazit">
 <!ENTITY viewMenu.accesskey "z">
@@ -45,18 +41,8 @@
 <!ENTITY showTaskbarCmd.label "Stavový řádek">
 <!ENTITY showTaskbarCmd.accesskey "S">
 
-<!ENTITY direct.label "Online (proxy: žádná)">
-<!ENTITY direct.accesskey "N">
-<!ENTITY manual.label "Online (proxy: manuální)">
-<!ENTITY manual.accesskey "M">
-<!ENTITY pac.label "Online (proxy: automatická)">
-<!ENTITY pac.accesskey "A">
-
 <!ENTITY proxy.label "Konfigurace proxy serveru…">
 <!ENTITY proxy.accesskey "C">
-
-<!ENTITY findTypeTextCmd.key "/">
-<!ENTITY findTypeLinksCmd.key "'">
 
 <!ENTITY closeCmd.label "Zavřít">
 <!ENTITY closeCmd.key "W">

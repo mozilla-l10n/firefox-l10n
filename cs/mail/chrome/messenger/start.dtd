@@ -28,6 +28,4 @@
 <!ENTITY startpage.pageInfo "Informace o produktu najdete na">
 <!ENTITY startpage.pageURL "http://www.mozilla-europe.org/cs/products/thunderbird/">
 
-<!ENTITY startpage.extra ""> 
-
-<!ENTITY startpage.poweredByGecko "Poháněno Geckem.">
+<!ENTITY startpage.extra "">

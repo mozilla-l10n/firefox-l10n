@@ -49,6 +49,7 @@
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Zalomit">
+<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "l">
 <!ENTITY findCmd.label "Najít/nahradit…">
 <!ENTITY findCmd.key "F">

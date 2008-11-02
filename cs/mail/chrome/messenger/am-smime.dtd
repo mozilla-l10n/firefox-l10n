@@ -5,17 +5,14 @@
 <!ENTITY neverEncrypt.label "Nikdy (nepoužívat šifrování)">
 <!ENTITY alwaysEncryptMessage.label "Vyžadováno (nelze odeslat zprávy, pokud všichni příjemci nemají certifikáty)">
 <!ENTITY encryptionCert.message "Použít tento certifikát pro zašifrování a dešifrování obdržených zpráv:">
-<!ENTITY encryptionCert.notselected "Není nastaven žádný certifikát">
 <!ENTITY certificate.button "Vybrat…">
 <!ENTITY certificate_clear.button "Vymazat">
 <!ENTITY signingGroupTitle.label "Digitální podpis">
 <!ENTITY signMessage.label "Digitálně podepsat zprávy (výchozí)">
 <!ENTITY signingCert.message "Používat tento certifikát pro digitální podpis odesílaných zpráv:">
-<!ENTITY signingCert.notselected "Není nastaven žádný certifikát">
 
 <!ENTITY certificates.label "Certifikáty">
 <!ENTITY managecerts.label "Zobrazit certifikáty">
-<!ENTITY managecerts.accesskey  "Z"> 
+<!ENTITY managecerts.accesskey  "Z">
 <!ENTITY managedevices.label "Bezpečnostní zařízení">
 <!ENTITY managedevices.accesskey "B">
- 

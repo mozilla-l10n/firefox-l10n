@@ -1,8 +1,6 @@
 <!ENTITY itemFormatting.label "Formátování">
 <!ENTITY itemTags.label "Štítky">
-<!ENTITY itemFonts.label "Písma">
 
-<!ENTITY textBegin.label "Zobrazení prostého citovaného textu uvedeného znakem '>'">
 <!ENTITY style.label "Styl:">
 <!ENTITY style.accesskey "S">
 <!ENTITY regularStyle.label "Normální">
@@ -19,12 +17,10 @@
 <!ENTITY displayWidth.label "Zobrazení prostých textových zpráv a článků">
 <!ENTITY plainText.label "Použít písmo:">
 <!ENTITY displayText.label "Použít následující nastavení pro zobrazení citovaných zpráv v čistém textu:">
-<!ENTITY viewingPlainText.label "Při zobrazení zpráv v čistém textu:">
 <!ENTITY fixedWidth.label "Neproporcionální písmo">
 <!ENTITY fixedWidth.accesskey "N">
 <!ENTITY variableWidth.label "Proporcionální písmo">
 <!ENTITY variableWidth.accesskey "r">
-<!ENTITY readingMessagesHeader.label "Pro příchozí zprávy">
 <!ENTITY colors.label "Barvy">
 <!ENTITY overrideColors.label "Při zobrazení zpráv použít následující barvy:">
 <!ENTITY textColor.label "Barva textu:">
