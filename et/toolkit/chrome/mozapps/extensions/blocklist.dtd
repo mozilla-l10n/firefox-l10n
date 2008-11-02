@@ -1,0 +1,10 @@
+<!ENTITY blocklist.title             "Lisad võivad tekitada probleeme">
+<!ENTITY blocklist.style             "width: 45em; height: 30em">
+<!ENTITY blocklist.summary           "&brandShortName; tuvastas, et järgnevad lisad võivad põhjustada stabiilsuse või turvalisuse probleeme:">
+<!ENTITY blocklist.softblocked       "Sinu turvalisuse tagamiseks on tugevalt soovitatud, et sa keelad need lisad ja taaskäivitad rakenduse.">
+<!ENTITY blocklist.hardblocked       "Need lisad on tuntud kui turvalisuse või stabiilsuse probleemide tekitajad ja need blokiti, siiski pead sa rakenduse taaskäivitama, et need täielikult keelata.">
+<!ENTITY blocklist.softandhard       "Lisad, mis on tuntud kui turvalisuse või stabiilsuse probleemide tekitajad, blokiti. Muud lisad omavad kergemat riski, kuid on siiski tugevalt soovitatav, et sa need keelad ja taaskäivitad rakenduse.">
+<!ENTITY blocklist.moreinfo          "Rohkem infot">
+
+<!ENTITY blocklist.accept.label      "Taaskäivita &brandShortName;">
+<!ENTITY blocklist.accept.accesskey  "T">
