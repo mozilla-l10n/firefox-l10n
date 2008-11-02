@@ -45,9 +45,13 @@
 <!ENTITY contextSendThisLink.label       "Išsiųsti saitą el. paštu…">
 <!ENTITY contextSendThisLink.accesskey   "s">
 <!ENTITY contextSendImage.label          "Išsiųsti paveikslą el. paštu…">
-<!ENTITY contextSendImage.accesskey      "e">
+<!ENTITY contextSendImage.accesskey      "a">
+<!ENTITY contextSendVideo.label          "Išsiųsti vaizdą el. paštu…">
+<!ENTITY contextSendVideo.accesskey      "a">
+<!ENTITY contextSendAudio.label          "Išsiųsti garsą el. paštu…">
+<!ENTITY contextSendAudio.accesskey      "a">
 <!ENTITY contextSendFrame.label          "Išsiųsti kadrą el. paštu…">
-<!ENTITY contextSendFrame.accesskey      "e">
+<!ENTITY contextSendFrame.accesskey      "s">
 
 <!ENTITY sendLinkCmd.label               "Išsiųsti adresą el. paštu…"> 
 <!ENTITY sendLinkCmd.accesskey           "d">
