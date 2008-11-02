@@ -62,8 +62,6 @@
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "C">
 
 <!-- Messenger Sidebar -->
-<!ENTITY lightning.sidebar.invitations.label "მოწვევები">
-<!ENTITY lightning.sidebar.invitations.accesskey "I">
 <!ENTITY lightning.calendar.label            "კალენდარი">
 <!ENTITY lightning.calendar.accesskey        "C">
 <!ENTITY lightning.tasks.label               "ამოცანები">
@@ -77,15 +75,9 @@
 <!ENTITY lightning.toolbar.task.label      "ამოცანები">
 <!ENTITY lightning.toolbar.task.accesskey     "T">
 
-<!-- Customize Toolbar Dialog -->
-<!ENTITY customize.toolbar.selector.label    "პულტი:">
-<!ENTITY customize.toolbar.selector.mode     "რეჟიმის პულტ">
-<!ENTITY customize.toolbar.selector.mail     "ფოსტის პულტი">
-<!ENTITY customize.toolbar.selector.calendar "კალენდრის პულტი">
-<!ENTITY customize.toolbar.selector.task     "ამოცანათა პულტი">
-<!ENTITY customize.toolbar.location.label    "მისამართი:">
-<!ENTITY customize.toolbar.location.top      "ზემოთ">
-<!ENTITY customize.toolbar.location.bottom   "ქვემოთ">
+<!-- Toolbar write button -->
+<!ENTITY lightning.toolbar.newevent.label     "მოვლენა">
+<!ENTITY lightning.toolbar.newtask.label      "ამოცანა">
 
 <!-- Messenger Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "დღე">
@@ -121,3 +113,4 @@
 <!ENTITY todaypane.showNone.accesskey "N">
 <!ENTITY todaypane.showTodayPane.label "დღის პანელის ჩვენება">
 <!ENTITY todaypane.showTodayPane.accesskey "o">
+<!ENTITY todaypane.statusButton.label "დღევანდელი დღე">
