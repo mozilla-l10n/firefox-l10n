@@ -7,7 +7,7 @@ a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
 <!ENTITY certerror.pagetitle  "Μη έμπιστη σύνδεση">
-<!ENTITY certerror.longpagetitle "Η παρούσα σύνδεση δεν είναι έμπιστη">
+<!ENTITY certerror.longpagetitle "Η τρέχουσα σύνδεση στην σελίδα δεν είναι έμπιστη">
 
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
