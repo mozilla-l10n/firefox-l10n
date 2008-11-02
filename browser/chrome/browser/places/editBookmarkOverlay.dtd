@@ -53,3 +53,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Atverti šį adresą parankinėje">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "v">
 <!ENTITY editBookmarkOverlay.choose.label                    "Parinkti…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Naujas aplankas">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "N">

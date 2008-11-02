@@ -51,6 +51,6 @@
 <!ENTITY itemOfflineApps.accesskey    "D">
 <!ENTITY itemDownloads.label          "Atsiuntimų žurnalas">
 <!ENTITY itemDownloads.accesskey      "A">
-<!ENTITY itemSessions.label           "Seansų tapatumo duomenys">
-<!ENTITY itemSessions.accesskey       "e">
+<!ENTITY itemActiveLogins.label       "Esami prisijungimai">
+<!ENTITY itemActiveLogins.accesskey   "E">
 <!ENTITY window.width                 "30em">

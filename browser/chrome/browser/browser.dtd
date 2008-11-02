@@ -267,6 +267,8 @@
 <!ENTITY reloadImageCmd.accesskey     "n">
 <!ENTITY viewImageCmd.label           "Rodyti paveikslą">
 <!ENTITY viewImageCmd.accesskey       "y">
+<!ENTITY viewVideoCmd.label           "Rodyti vaizdo įrašą">
+<!ENTITY viewVideoCmd.accesskey       "y">
 <!ENTITY viewBGImageCmd.label         "Rodyti fono piešinį">
 <!ENTITY viewBGImageCmd.accesskey     "f">
 <!ENTITY setDesktopBackgroundCmd.label        "Padaryti darbastalio fono piešiniu…">
