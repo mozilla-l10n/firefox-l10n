@@ -101,7 +101,11 @@
 <!ENTITY saveLinkCmd.accesskey        "Į">
 <!ENTITY saveImageAsCmd.label         "Įrašyti paveikslą kaip…">
 <!ENTITY saveImageCmd.label           "Įrašyti paveikslą">
-<!ENTITY saveImageCmd.accesskey       "v">
+<!ENTITY saveImageCmd.accesskey       "r">
+<!ENTITY saveVideoCmd.label           "Įrašyti vaizdą kaip…">
+<!ENTITY saveVideoCmd.accesskey       "r">
+<!ENTITY saveAudioCmd.label           "Įrašyti garsą kaip…">
+<!ENTITY saveAudioCmd.accesskey       "r">
 <!ENTITY copyCmd.label                "Kopijuoti">
 <!ENTITY copyCmd.accesskey            "o">
 <!ENTITY selectAllCmd.label           "Pažymėti viską">
@@ -110,6 +114,10 @@
 <!ENTITY copyLinkCmd.accesskey        "j">
 <!ENTITY copyImageCmd.label           "Kopijuoti paveikslo adresą">
 <!ENTITY copyImageCmd.accesskey       "i">
+<!ENTITY copyVideoURLCmd.label        "Kopijuoti vaizdo adresą">
+<!ENTITY copyVideoURLCmd.accesskey    "i">
+<!ENTITY copyAudioURLCmd.label        "Kopijuoti garso adresą">
+<!ENTITY copyAudioURLCmd.accesskey    "i">
 <!ENTITY metadataCmd.label            "Savybės">
 <!ENTITY metadataCmd.accesskey        "S">
 <!ENTITY copyEmailCmd.label           "Kopijuoti el. pašto adresą">
@@ -126,6 +134,18 @@
 <!ENTITY redoCmd.accesskey            "t">
 <!ENTITY thisFrameMenu.label          "Kadras">
 <!ENTITY thisFrameMenu.accesskey      "K">
+<!ENTITY mediaPlay.label              "Groti">
+<!ENTITY mediaPlay.accesskey          "G">
+<!ENTITY mediaPause.label             "Pristabdyti">
+<!ENTITY mediaPause.accesskey         "P">
+<!ENTITY mediaMute.label              "Išjungti garsą">
+<!ENTITY mediaMute.accesskey          "r">
+<!ENTITY mediaUnmute.label            "Įjungti garsą">
+<!ENTITY mediaUnmute.accesskey        "r">
+<!ENTITY mediaShowControls.label      "Rodyti mygtukus">
+<!ENTITY mediaShowControls.accesskey  "m">
+<!ENTITY mediaHideControls.label      "Nerodyti mygtukų">
+<!ENTITY mediaHideControls.accesskey  "m">
 <!ENTITY search.accesskey             "š">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Pakeisti puslapio kryptį">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "a">
