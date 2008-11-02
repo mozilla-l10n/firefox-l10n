@@ -96,6 +96,7 @@
 <!ENTITY insecureUpdate.label "Не обеспечивает безопасные обновления.">
 <!ENTITY needsDependencies.label "Требует дополнительных компонентов.">
 <!ENTITY blocklisted.label "Отключено в целях вашей безопасности.">
+<!ENTITY softBlocklisted.label "Вызывает проблемы со стабильностью или безопасностью.">
 <!ENTITY toBeDisabled.label "Это дополнение будет отключено при перезапуске &brandShortName;.">
 <!ENTITY toBeEnabled.label "Это дополнение будет включено при перезапуске &brandShortName;.">
 <!ENTITY toBeInstalled.label "Это дополнение будет установлено при перезапуске &brandShortName;.">
@@ -146,3 +147,5 @@
 <!ENTITY eula.width "560px">
 <!ENTITY eula.height "400px">
 <!ENTITY eula.accept "Принять и установить…">
+<!ENTITY blocklist.blocked.label "Заблокировано">
+<!ENTITY blocklist.checkbox.label "Отключить">
