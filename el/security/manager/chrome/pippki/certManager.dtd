@@ -5,7 +5,7 @@
 <!ENTITY certmgr.orphans                      "Έχετε πιστοποιητικά στο αρχείο που δεν ταιριάζουν σε κάποια από τις κατηγορίες:">
 
 <!ENTITY certmgr.detail.general_tab.accesskey "Γ">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "Δ">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "Λ">
 
 <!ENTITY certmgr.pending.label                "Γίνεται προβολή πιστοποιητικού...">
 
