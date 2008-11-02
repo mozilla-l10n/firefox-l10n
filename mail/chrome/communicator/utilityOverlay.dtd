@@ -20,7 +20,6 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "у">
 <!ENTITY deleteCmd.label "Выдаліць">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "д">
 <!ENTITY selectAllCmd.label "Вылучыць усё">
 <!ENTITY selectAllCmd.key "A">
@@ -29,24 +28,14 @@
 <!ENTITY preferencesCmd.accesskey "Н">
 <!ENTITY preferencesCmdUnix.label "Перавагі">
 <!ENTITY preferencesCmdUnix.accesskey "П">
-<!ENTITY findTypeTextCmd.label "Знаходзіць тэкст, што вы набіраеце">
-<!ENTITY findTypeTextCmd.accesskey "т">
 <!ENTITY viewMenu.label "Прагляд">
 <!ENTITY viewMenu.accesskey "г">
 <!ENTITY viewToolbarsMenu.label "Паліцы прыладаў">
 <!ENTITY viewToolbarsMenu.accesskey "П">
 <!ENTITY showTaskbarCmd.label "Паліца з статусам">
 <!ENTITY showTaskbarCmd.accesskey "С">
-<!ENTITY direct.label "У сетцы (пасярэднік: няма)">
-<!ENTITY direct.accesskey "н">
-<!ENTITY manual.label "У сетцы (пасярэднік: уручную)">
-<!ENTITY manual.accesskey "р">
-<!ENTITY pac.label "У сетцы (пасярэднік: аўта)">
-<!ENTITY pac.accesskey "с">
 <!ENTITY proxy.label "Наладка пасярэднікаў…">
 <!ENTITY proxy.accesskey "л">
-<!ENTITY findTypeTextCmd.key "/">
-<!ENTITY findTypeLinksCmd.key "'">
 <!ENTITY closeCmd.label "Зачыніць">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "ч">

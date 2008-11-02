@@ -20,7 +20,6 @@
 <!ENTITY showAnimatedAlert.accesskey "П">
 <!ENTITY customizeMailAlert.label "Наладзіць…">
 <!ENTITY customizeMailAlert.accesskey "Н">
-<!ENTITY soundNotification1.caption "Гук">
 <!ENTITY play.label "Граць">
 <!ENTITY play.accesskey "Г">
 <!ENTITY systemsound.label "Змоўчны сістэмны гук для новай пошты">

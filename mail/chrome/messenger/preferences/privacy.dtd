@@ -35,10 +35,3 @@
 <!ENTITY antiVirus.intro "&brandShortName; можа палегчыць антывірусным праграмам аналіз уваходных паштовых лістоў да іх мясцовага захавання.">
 <!ENTITY antiVirus.label "Дазволіць спажыўцам-антывірусам змяшчаць асобныя ўваходныя лісты ў карантын">
 <!ENTITY antiVirus.accesskey "в">
-<!ENTITY antiVirusCaption.label "Супраць-Вірус">
-<!ENTITY paswords.label "Паролі">
-<!ENTITY emailScams.label "Э-паштовыя ашукі">
-<!ENTITY junkMail.label "Пошта-лухта">
-<!ENTITY itemIntrusions.label "Уварванні">
-<!ENTITY itemIntrusionsAndPasswords.label "Уварванні і паролі">
-<!ENTITY itemJunkMail.label "Пошта-лухта">

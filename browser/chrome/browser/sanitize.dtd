@@ -15,6 +15,6 @@
 <!ENTITY itemOfflineApps.accesskey "д">
 <!ENTITY itemDownloads.label "Гісторыя загрузак">
 <!ENTITY itemDownloads.accesskey "г">
-<!ENTITY itemSessions.label "Апазнаныя сэсіі">
-<!ENTITY itemSessions.accesskey "с">
+<!ENTITY itemActiveLogins.label "Дзейныя ўваходы">
+<!ENTITY itemActiveLogins.accesskey "ў">
 <!ENTITY window.width "36em">

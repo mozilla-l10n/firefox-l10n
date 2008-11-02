@@ -1,10 +1,8 @@
 <!--null-->
 <!ENTITY pref.ldap.window.title "Паслугачы дырэкторыяў LDAP">
-<!ENTITY directory.label "Дадаць дырэкторыю">
 <!ENTITY directories.label "Паслугач дырэкторыяў LDAP:">
 <!ENTITY directoriesText.label "Выбраць паслугач дырэкторыяў LDAP:">
 <!ENTITY directoriesText.accesskey "В">
-<!ENTITY autocomplete.title "Паслугач дырэкторыяў LDAP">
 <!ENTITY addDirectory.label "Дадаць">
 <!ENTITY addDirectory.accesskey "а">
 <!ENTITY editDirectory.label "Праўка">

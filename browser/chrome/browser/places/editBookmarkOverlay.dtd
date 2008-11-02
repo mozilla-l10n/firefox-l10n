@@ -21,3 +21,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label "Загрузіць гэтую закладку на палічку">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey "З">
 <!ENTITY editBookmarkOverlay.choose.label "Выбар…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label "Новая папка">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey "о">

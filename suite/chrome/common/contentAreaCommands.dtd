@@ -69,6 +69,10 @@
 <!ENTITY saveImageAsCmd.label "Захаваць малюнак як…">
 <!ENTITY saveImageCmd.label "Захаваць малюнак">
 <!ENTITY saveImageCmd.accesskey "м">
+<!ENTITY saveVideoCmd.label "Захаваць відэя як…">
+<!ENTITY saveVideoCmd.accesskey "З">
+<!ENTITY saveAudioCmd.label "Захаваць гук як…">
+<!ENTITY saveAudioCmd.accesskey "З">
 <!ENTITY copyCmd.label "Капіяваць">
 <!ENTITY copyCmd.accesskey "К">
 <!ENTITY selectAllCmd.label "Вылучыць усё">
@@ -77,6 +81,10 @@
 <!ENTITY copyLinkCmd.accesskey "М">
 <!ENTITY copyImageCmd.label "Капіяваць малюнак">
 <!ENTITY copyImageCmd.accesskey "л">
+<!ENTITY copyVideoURLCmd.label "Капіяваць месцазнаходжанне відэя">
+<!ENTITY copyVideoURLCmd.accesskey "К">
+<!ENTITY copyAudioURLCmd.label "Капіяваць месцазнаходжанне гуку">
+<!ENTITY copyAudioURLCmd.accesskey "К">
 <!ENTITY metadataCmd.label "Уласцівасці">
 <!ENTITY metadataCmd.accesskey "У">
 <!ENTITY copyEmailCmd.label "Капіяваць адрас э-пошты">
@@ -93,6 +101,18 @@
 <!ENTITY redoCmd.accesskey "р">
 <!ENTITY thisFrameMenu.label "Гэтая рамка">
 <!ENTITY thisFrameMenu.accesskey "Р">
+<!ENTITY mediaPlay.label "Граць">
+<!ENTITY mediaPlay.accesskey "Г">
+<!ENTITY mediaPause.label "Прыпыніць">
+<!ENTITY mediaPause.accesskey "П">
+<!ENTITY mediaMute.label "Заглушыць">
+<!ENTITY mediaMute.accesskey "З">
+<!ENTITY mediaUnmute.label "Уключыць гук">
+<!ENTITY mediaUnmute.accesskey "У">
+<!ENTITY mediaShowControls.label "Паказаць медыя-кіроўцы">
+<!ENTITY mediaShowControls.accesskey "а">
+<!ENTITY mediaHideControls.label "Схаваць медыя-кіроўцы">
+<!ENTITY mediaHideControls.accesskey "а">
 <!ENTITY search.accesskey "ш">
 <!ENTITY bidiSwitchPageDirectionItem.label "Пераключыць кірунак старонкі">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "р">

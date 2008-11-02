@@ -5,7 +5,6 @@
 <!ENTITY offlineNotDownload.label "Лісты, большыя чым">
 <!ENTITY offlineNotDownload.accesskey "б">
 <!ENTITY kb.label "КБ">
-<!ENTITY days.label "дзён">
 <!ENTITY daysOld.label "дзён">
 <!ENTITY message.label "апошніх лістоў">
 <!ENTITY nntpNotDownloadRead.label "Прачытаныя лісты">

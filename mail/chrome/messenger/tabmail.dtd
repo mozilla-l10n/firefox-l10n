@@ -1,12 +1,2 @@
-<!ENTITY untitledTab "(Без загалоўка)">
-<!ENTITY newTab.label "Новая ўстаўка">
-<!ENTITY newTab.accesskey "Н">
 <!ENTITY closeTab.label "Зачыніць устаўку">
-<!ENTITY closeTab.accesskey "З">
-<!ENTITY closeOtherTabs.accesskey "і">
-<!ENTITY closeOtherTabs.label "Зачыніць іншыя ўстаўкі">
-<!ENTITY reloadAllTabs.label "Абнавіць усе ўстаўкі">
-<!ENTITY reloadAllTabs.accesskey "у">
-<!ENTITY reloadTab.label "Абнавіць устаўку">
-<!ENTITY reloadTab.accesskey "в">
 <!ENTITY listAllTabs.label "Пералічыць усе ўстаўкі">

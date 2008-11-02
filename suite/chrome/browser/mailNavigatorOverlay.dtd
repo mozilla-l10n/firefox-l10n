@@ -11,6 +11,10 @@
 <!ENTITY contextSendThisLink.accesskey "у">
 <!ENTITY contextSendImage.label "Даслаць малюнак…">
 <!ENTITY contextSendImage.accesskey "М">
+<!ENTITY contextSendVideo.label "Даслаць відэя…">
+<!ENTITY contextSendVideo.accesskey "Д">
+<!ENTITY contextSendAudio.label "Даслаць гук…">
+<!ENTITY contextSendAudio.accesskey "Д">
 <!ENTITY contextSendFrame.label "Даслаць рамку…">
 <!ENTITY contextSendFrame.accesskey "ц">
 <!ENTITY sendLinkCmd.label "Даслаць спасылку…">

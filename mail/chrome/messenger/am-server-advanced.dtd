@@ -1,5 +1,4 @@
 <!ENTITY serverAdvanced.label "Пашыраныя наладжванні рахунку">
-<!ENTITY imapAdvanced.label "Пашыраныя наладжванні паслугача IMAP">
 <!ENTITY serverDirectory.label "Дырэкторыя паслугача IMAP:">
 <!ENTITY serverDirectory.accesskey "Д">
 <!ENTITY usingSubscription.label "Паказваць толькі падпісаныя папкі">
@@ -20,7 +19,6 @@
 <!ENTITY overrideNamespaces.label "Дазволіць паслугачу адхіляць гэтыя назвапрасторы">
 <!ENTITY overrideNamespaces.accesskey "Д">
 <!ENTITY pop3Desc.label "Калі пошта загружаецца з гэтага pop-паслугача, карыстацца наступнаю папкаю для новай пошты:">
-<!ENTITY folderStorage.label "Дзе захоўваць пошту">
 <!ENTITY globalInbox.label "Папка Агульныя Атрыманыя (у рахунку Мясцовыя Папкі)">
 <!ENTITY globalInbox.accesskey "А">
 <!ENTITY accountDirectory.label "Папка Атрыманыя для рахунку гэтага паслугача">

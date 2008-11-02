@@ -179,10 +179,12 @@
 <!ENTITY viewPageInfoCmd.accesskey "З">
 <!ENTITY viewFrameInfoCmd.label "Праглядзець звесткі пра рамку">
 <!ENTITY viewFrameInfoCmd.accesskey "З">
-<!ENTITY showImageCmd.label "Паказаць малюнак">
-<!ENTITY showImageCmd.accesskey "П">
+<!ENTITY reloadImageCmd.label "Абнавіць малюнак">
+<!ENTITY reloadImageCmd.accesskey "А">
 <!ENTITY viewImageCmd.label "Праглядзець малюнак">
 <!ENTITY viewImageCmd.accesskey "М">
+<!ENTITY viewVideoCmd.label "Прагледзець відэя">
+<!ENTITY viewVideoCmd.accesskey "г">
 <!ENTITY viewBGImageCmd.label "Праглядзець малюнак фону">
 <!ENTITY viewBGImageCmd.accesskey "Ф">
 <!ENTITY setDesktopBackgroundCmd.label "Усталяваць як фон працоўнага стала…">

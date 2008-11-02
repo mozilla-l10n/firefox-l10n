@@ -13,10 +13,6 @@
 <!ENTITY autoTypeRadio.accesskey "с">
 <!ENTITY reload.label "Абнавіць">
 <!ENTITY reload.accesskey "А">
-<!ENTITY ftp.label "Пасярэднік FTP:">
-<!ENTITY ftp.accesskey "f">
-<!ENTITY gopher.label "Пасярэднік Gopher:">
-<!ENTITY gopher.accesskey "g">
 <!ENTITY http.label "Пасярэднік HTTP:">
 <!ENTITY http.accesskey "h">
 <!ENTITY ssl.label "Пасярэднік SSL:">
