@@ -114,6 +114,7 @@
 <!ENTITY insecureUpdate.label             "Ne fournit pas de mises à jour sécurisées.">
 <!ENTITY needsDependencies.label          "Nécessite des éléments supplémentaires.">
 <!ENTITY blocklisted.label                "Désactivé pour votre protection.">
+<!ENTITY softBlocklisted.label            "Connu pour causer des problèmes de sécurité ou de stabilité.">
 <!ENTITY toBeDisabled.label               "Ce module sera désactivé au prochain redémarrage de &brandShortName;.">
 <!ENTITY toBeEnabled.label                "Ce module sera activé au prochain redémarrage de &brandShortName;.">
 <!ENTITY toBeInstalled.label              "Ce module sera installé au prochain redémarrage de &brandShortName;.">
@@ -170,3 +171,6 @@
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "Accepter et installer…">
+
+<!ENTITY blocklist.blocked.label          "Bloqué">
+<!ENTITY blocklist.checkbox.label         "Désactiver">
