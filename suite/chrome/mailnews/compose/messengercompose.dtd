@@ -40,6 +40,7 @@
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY closeCmd.label "Cerrar">
 <!ENTITY editRewrapCmd.label "Reajuste de línea">
+<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "j">
 <!ENTITY findCmd.label "Buscar y reemplazar…">
 <!ENTITY findCmd.key "F">
