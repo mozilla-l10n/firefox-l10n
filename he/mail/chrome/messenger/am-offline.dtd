@@ -8,7 +8,7 @@
 <!ENTITY offlineNotDownload.label "הודעות גדולות מאשר">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY kb.label "ק״ב">
-<!ENTITY days.label "הימים האחרונים">
+<!-- ### ENTITY days.label "הימים האחרונים" -->
 <!ENTITY daysOld.label "ימים">
 <!ENTITY message.label "ההודעות האחרונות">
 <!ENTITY nntpNotDownloadRead.label "הודעות שנקראו">

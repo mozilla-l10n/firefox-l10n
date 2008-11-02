@@ -6,20 +6,21 @@
 <!ENTITY fccReplyFollowsParent.accesskey "l">
 <!-- ### ENTITY chooseFolderButton.label "בחר תיקייה..." -->
 <!ENTITY bccAddress.label "עותק סמוי לכתובות נוספות:">
-<!ENTITY bccAddress.accesskey "B">
-<!ENTITY specialFolderTitle.label "תיקיות מיוחדות">
-<!ENTITY draftMailFolder.label "שמור טיוטות הודעות בתוך:">
-<!ENTITY templateMailFolder.label "שמור תבניות הודעה בתוך:">
+<!ENTITY bccAddress.accesskey "מ">
+<!-- ### ENTITY specialFolderTitle.label "תיקיות מיוחדות" -->
+<!-- ### ENTITY draftMailFolder.label "שמור טיוטות הודעות בתוך:" -->
+<!-- ### ENTITY templateMailFolder.label "שמור תבניות הודעה בתוך:" -->
 <!ENTITY saveMessageDlg.label "הצג בקשה לאישור כאשר הודעות נשמרות">
 <!ENTITY saveMessageDlg.accesskey "S">
 <!ENTITY sentFolderOn.label "תיקיית &quot;נשלח&quot; על:">
-<!ENTITY sentFolderOn.accesskey "e">
+<!ENTITY sentFolderOn.accesskey "נ">
 <!ENTITY sentInOtherFolder.label "אחר:">
-<!ENTITY sentInOtherFolder.accesskey "O">
+<!ENTITY sentInOtherFolder.accesskey "א">
 <!ENTITY draftsFolderOn.label "תיקיית &quot;טיוטות&quot; על:">
-<!ENTITY draftsFolderOn.accesskey "D">
+<!ENTITY draftsFolderOn.accesskey "ט">
 <!ENTITY draftInOtherFolder.label "אחר:">
-<!ENTITY draftInOtherFolder.acoosecesskey "t">
+<!-- ### ENTITY draftInOtherFolder.acoosecesskey "t" -->
+<!ENTITY draftInOtherFolder.accesskey "א">
 <!ENTITY templatesFolderOn.label "תיקיית &quot;תבניות&quot; על:">
 <!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "אחר:">

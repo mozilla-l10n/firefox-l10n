@@ -50,7 +50,7 @@
 <!ENTITY retention.label "מדיניות שמירה">
 <!ENTITY retentionUseDefault.label "השתמש בברירות המחדל של השרת">
 <!ENTITY retentionUseDefault.accesskey "d">
-<!ENTITY days.label "הימים האחרונים">
+<!-- ### ENTITY days.label "הימים האחרונים" -->
 <!ENTITY daysOld.label "הימים האחרונים">
 <!ENTITY message.label "ההודעות האחרונות">
 <!ENTITY retentionCleanup.label "בכדי להשיג שטח דיסק, הודעות ישנות יכולות להמחק לצמיתות">
@@ -78,7 +78,7 @@
 <!ENTITY offlineNewsgroup.button.label "הורד עכשיו">
 <!ENTITY offlineNewsgroup.button.accesskey "D">
 
-<!ENTITY folderProps.information.label "מידע:">
+<!-- ### ENTITY folderProps.information.label "מידע:" -->
 <!ENTITY folderProps.name.label "שם:">
 <!ENTITY folderProps.name.accesskey "ש">
 <!ENTITY folderProps.location.label              "מיקום:">
@@ -88,7 +88,7 @@
 <!ENTITY privilegesDesc.label "שתף תיקייה זו ותיקיות אחרות עם משתמשים אחרים ברשת והצג והגדר הרשאות גישה">
 <!ENTITY privileges.button.label "הרשאות...">
 <!ENTITY privileges.button.accesskey "P">
-<!ENTITY permissionsDesc.label "יש לך את ההרשאות הבאות:">
+<!-- ### ENTITY permissionsDesc.label "יש לך את ההרשאות הבאות:" -->
 <!ENTITY folderType.label "סוג תיקייה:">
 <!ENTITY folderQuotaTab.label "מיכסה">
 <!ENTITY folderQuotaRoot.label "שורש (root) ההקצאה:">

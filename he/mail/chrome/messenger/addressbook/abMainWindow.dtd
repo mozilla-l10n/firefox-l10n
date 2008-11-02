@@ -51,8 +51,8 @@
 <!ENTITY pasteCmd.label "הדבק">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "p">
-<!-- ### ENTITY deleteCmd.label "מחק" -->
-<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.label "מחק">
+<!-- ### ENTITY deleteCmd.key "D" -->
 <!ENTITY deleteCmd.accesskey "d">
 <!ENTITY deleteAbCmd.label "מחק פנקס כתובות">
 <!ENTITY deleteCardCmd.label "מחק כרטיס">
