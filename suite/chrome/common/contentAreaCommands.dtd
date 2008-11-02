@@ -69,15 +69,23 @@
 <!ENTITY saveLinkCmd.accesskey "k">
 <!ENTITY saveImageAsCmd.label "Uložit obrázek jako…">
 <!ENTITY saveImageCmd.label "Uložit obrázek jako…">
-<!ENTITY saveImageCmd.accesskey "a">
+<!ENTITY saveImageCmd.accesskey "U">
+<!ENTITY saveVideoCmd.label "Uložit video jako…">
+<!ENTITY saveVideoCmd.accesskey "U">
+<!ENTITY saveAudioCmd.label "Uložit audio jako……">
+<!ENTITY saveAudioCmd.accesskey "U">
 <!ENTITY copyCmd.label "Kopírovat">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY selectAllCmd.label "Vybrat vše">
 <!ENTITY selectAllCmd.accesskey "A">
 <!ENTITY copyLinkCmd.label "Kopírovat adresu odkazu">
 <!ENTITY copyLinkCmd.accesskey "K">
-<!ENTITY copyImageCmd.label "Kopírovat obrázek s adresou">
-<!ENTITY copyImageCmd.accesskey "b">
+<!ENTITY copyImageCmd.label "Kopírovat obrázek">
+<!ENTITY copyImageCmd.accesskey "r">
+<!ENTITY copyVideoURLCmd.label "Kopírovat adresu videa">
+<!ENTITY copyVideoURLCmd.accesskey "d">
+<!ENTITY copyAudioURLCmd.label "Kopírovat adresu audia">
+<!ENTITY copyAudioURLCmd.accesskey "d">
 <!ENTITY metadataCmd.label "Vlastnosti">
 <!ENTITY metadataCmd.accesskey "L">
 <!ENTITY copyEmailCmd.label "Kopírovat e-mailovou adresu">
@@ -94,6 +102,18 @@
 <!ENTITY redoCmd.accesskey "O">
 <!ENTITY thisFrameMenu.label "Tento rám">
 <!ENTITY thisFrameMenu.accesskey "t">
+<!ENTITY mediaPlay.label "Přehrát">
+<!ENTITY mediaPlay.accesskey "P">
+<!ENTITY mediaPause.label "Zastavit">
+<!ENTITY mediaPause.accesskey "Z">
+<!ENTITY mediaMute.label "Ztlumit">
+<!ENTITY mediaMute.accesskey "t">
+<!ENTITY mediaUnmute.label "Vypnout ztlumení">
+<!ENTITY mediaUnmute.accesskey "V">
+<!ENTITY mediaShowControls.label "Zobrazit ovládání">
+<!ENTITY mediaShowControls.accesskey "o">
+<!ENTITY mediaHideControls.label "Skrýt ovládání">
+<!ENTITY mediaHideControls.accesskey "o">
 <!ENTITY search.accesskey "W">
 <!ENTITY bidiSwitchPageDirectionItem.label "Přepnout orientaci stránky">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "o">

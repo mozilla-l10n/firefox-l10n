@@ -35,15 +35,12 @@
 
  ***** END LICENSE BLOCK ***** -->
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
-<!ENTITY pref.ldap.window.title "Adresářové servery LDAP"> 
-<!ENTITY directory.label "Přidat adresář">
+<!ENTITY pref.ldap.window.title "Adresářové servery LDAP">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "Server LDAP adresáře:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 <!ENTITY directoriesText.label "Vyberte adresářový LDAP server:">
 <!ENTITY directoriesText.accesskey "L">
-<!-- LOCALIZATION NOTE (autocomplete.title) : do not translate "LDAP" in below line -->
-<!ENTITY autocomplete.title "Server LDAP adresáře">
 <!ENTITY addDirectory.label "Přidat">
 <!ENTITY addDirectory.accesskey "P">
 <!ENTITY editDirectory.label "Upravit">

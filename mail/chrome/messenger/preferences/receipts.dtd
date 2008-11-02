@@ -1,5 +1,4 @@
 <!ENTITY dialog.title "Potvrzení o přečtení">
-<!ENTITY receiptSettings.label "Potvrzení o přečtení">
 <!ENTITY requestReceipt.label "Při odesílání zpráv vždy vyžadovat potvrzení o přečtení">
 <!ENTITY requestReceipt.accesskey "P">
 <!ENTITY receiptArrive.label "Při přijetí potvrzení">

@@ -2,7 +2,6 @@
 <!ENTITY accountTitle.label "Nastavení účtu">
 <!ENTITY accountName.label "Název účtu:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY accountNameDesc.label "Každý účet je označen názvem.">
 <!ENTITY identityTitle.label "Výchozí identita">
 <!ENTITY identityDesc.label "Každý účet obsahuje identifikační informace, které ostatní lidé vidí při čtení vašich zpráv.">
 <!ENTITY name.label "Vaše jméno:">

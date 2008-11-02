@@ -1,9 +1,7 @@
 <!ENTITY itemGeneral.label "Obecné">
 <!ENTITY itemAutoComplete.label "Adresování">
 <!ENTITY itemSpellCheck.label "Pravopis">
-<!ENTITY itemSendFormat.label "Formát odchozí  zprávy">
 
-<!ENTITY forwardReply.label "Přeposílání zpráv">
 <!ENTITY forwardMsg.label "Přeposílat zprávy:">
 <!ENTITY forwardMsg.accesskey "s">
 <!ENTITY inline.label "Vloženě">
@@ -25,7 +23,6 @@
 <!ENTITY restoreHTMLDefaults.label "Obnovit výchozí">
 <!ENTITY restoreHTMLDefaults.accesskey "O">
 
-<!ENTITY sendingMessagesHeader.label "Vytváření zpráv">
 <!ENTITY spellCheck.label "Při odesílání zpráv kontrolovat pravopis">
 <!ENTITY spellCheck.accesskey "k">
 <!ENTITY spellCheckInline.label "Povolit kontrolu pravopisu při psaní">
@@ -39,10 +36,6 @@
 <!ENTITY autoSave.label "Automaticky ukládat každých">
 <!ENTITY autoSave.accesskey "A">
 <!ENTITY autoSaveEnd.label "minut">
-<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
-<!ENTITY wrapOutMsg.label "Zalamovat odchozí textové zprávy po">
-<!ENTITY wrapOutMsg.accesskey "Z">
-<!ENTITY char.label "znacích">
 
 <!ENTITY emailCollectionPicker.label "Automaticky přidat odchozí e-mailovou adresu do složky:">
 <!ENTITY emailCollectionPicker.accesskey "A">
@@ -55,10 +48,7 @@
 <!ENTITY directoriesNone.label "Žádný">
 <!ENTITY editDirectories.label "Upravit adresáře…">
 <!ENTITY editDirectories.accesskey "U">
-<!ENTITY matchText.label "Pokud je nalezen záznam v místních kontaktech:">
-<!ENTITY skipDirectory.label "Neprohledávat adresář">
 
-<!ENTITY sendOptionsCaption.label "Předvolby HTML a odesílání">
 <!ENTITY sendOptionsDescription.label "Nastavení chování textového formátu ">
 <!ENTITY sendOptions.label "Předvolby odesílání…">
 <!ENTITY sendOptions.accesskey "e">

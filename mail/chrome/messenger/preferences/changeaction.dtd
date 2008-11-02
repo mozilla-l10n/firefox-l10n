@@ -19,5 +19,3 @@
 <!ENTITY chooseFolder.accesskey "P">
 <!ENTITY saveToAskMe.label "zeptat se, kam soubor uložit">
 <!ENTITY saveToAskMe.accesskey "z">
-<!ENTITY usePlugin.label "Použít tento zásuvný modul:">
-<!ENTITY usePlugin.accesskey "P">

@@ -15,7 +15,6 @@
 
 <!-- entities from defaults/isp/rss.rdf -->
 <!ENTITY rss.accountName "RSS kanaly">
-<!ENTITY rss.wizardShortName "RSS">  
+<!ENTITY rss.wizardShortName "RSS">
 <!ENTITY rss.wizardLongName "Účet pro RSS kanály">
 <!ENTITY rss.wizardLongName.accesskey "R">
-<!ENTITY rss.hostName "RSS kanaly">

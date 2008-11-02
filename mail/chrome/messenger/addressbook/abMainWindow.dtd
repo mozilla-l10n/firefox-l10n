@@ -60,7 +60,6 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "l">
 <!ENTITY deleteCmd.label "Smazat">
-<!ENTITY deleteCmd.key "d">
 <!ENTITY deleteCmd.accesskey "m">
 <!ENTITY deleteAbCmd.label "Smazat adresář">
 <!ENTITY deleteCardCmd.label "Smazat kontakt">
@@ -118,7 +117,6 @@
 <!ENTITY exportCmd.label "Exportovat…">
 <!ENTITY exportCmd.accesskey "x">
 <!ENTITY preferencesCmd.label "Možnosti…">
-<!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "M">
 <!ENTITY preferencesCmdUnix.label "Předvolby">
 <!ENTITY preferencesCmdUnix.accesskey "v">

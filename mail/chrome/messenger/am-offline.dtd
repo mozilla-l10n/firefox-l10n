@@ -5,7 +5,6 @@
 <!ENTITY offlineNotDownload.label "Zprávy větší než">
 <!ENTITY offlineNotDownload.accesskey "n">
 <!ENTITY kb.label "kB">
-<!ENTITY days.label "dní">
 <!ENTITY daysOld.label "dny(ů)">
 <!ENTITY message.label "zpráv">
 <!ENTITY nntpNotDownloadRead.label "Přečtené zprávy">
@@ -20,7 +19,7 @@
 <!ENTITY retentionKeepNew.label "Smazat vše mimo posledních">
 <!ENTITY retentionKeepNew.accesskey "m">
 <!ENTITY retentionKeepUnread.label "Vždy smazat přečtené zprávy">
-<!ENTITY retentionKeepUnread.accesskey "d"> 
+<!ENTITY retentionKeepUnread.accesskey "d">
 <!ENTITY nntpRemoveBody.label "Odstranit těla zpráv starších než">
 <!ENTITY nntpRemoveBody.accesskey "r">
 <!ENTITY offlineSelectNntp.label "Vybrat diskusní skupiny pro offline použití…">

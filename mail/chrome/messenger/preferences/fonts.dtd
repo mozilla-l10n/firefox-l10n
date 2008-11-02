@@ -1,12 +1,11 @@
 <!ENTITY fontsAndEncodingsDialog.title "Písma a znaková sada">
-<!ENTITY window.width "39em"> 
+<!ENTITY window.width "39em">
 <!ENTITY window.macWidth "43em">
 <!ENTITY window.unixWidth "41em">
 
 <!ENTITY language.label "Znaková sada:">
 <!ENTITY language.accesskey "Z">
 
-<!ENTITY typefaces.label "Řez">
 <!ENTITY sizes.label "Velikost (body)">
 <!ENTITY proportionalSize.accesskey "e">
 <!ENTITY monospaceSize.accesskey "l">
@@ -20,8 +19,6 @@
 <!ENTITY sans-serif.accesskey "B">
 <!ENTITY monospace.label "Neproporcionální:">
 <!ENTITY monospace.accesskey "N">
-
-<!ENTITY fontsize.units "bodů">
 
 <!ENTITY font.langGroup.latin1 "Západní jazyky">
 <!ENTITY font.langGroup.latin2 "Středoevropské jazyky">
@@ -49,7 +46,7 @@
 <!ENTITY font.langGroup.gujarati "Gujarati">
 <!ENTITY font.langGroup.gurmukhi "Gurmukhi">
 <!ENTITY font.langGroup.khmer "Khmerština">
-<!ENTITY font.langGroup.malayalam "Malajština"> 
+<!ENTITY font.langGroup.malayalam "Malajština">
 
 <!-- Minimum font size -->
 <!ENTITY minSize.label "Minimální velikost fontů:">
@@ -59,8 +56,6 @@
 <!-- default font type -->
 <!ENTITY useDefaultFontSerif.label "Patkové">
 <!ENTITY useDefaultFontSansSerif.label "Bezpatkové">
-
-<!ENTITY newLanguages.label "Nové jazyky mohou být nastaveny pomocí panelu Jazyky">
 
 <!ENTITY useDocumentFonts.label "Povolit zprávám používat jiná písma">
 <!ENTITY useDocumentFonts.accesskey "o">

@@ -1,8 +1,6 @@
 <!ENTITY credit.title "Autoři a spolupracovníci">
 <!ENTITY brandMotto "Pošta pod kontrolou">
 <!ENTITY credit.leads "Hlavní inženýr">
-<!ENTITY credit.core "Hlavní vývojáři">
-<!ENTITY credit.gecko "Vykreslovací jádro Gecko">
 <!ENTITY credit.thanks "Speciální poděkování">
 
 <!-- localization credits look like this: -->
@@ -12,19 +10,8 @@
 -->
 <!ENTITY credit.translation "<h3>Vedoucí překladu do češtiny</h3><ul><li>Pavel Franc</li></ul><h3>Na překladu spolupracovali</h3><ul><li>členové týmu CZilla</li></ul>">
 
-<!ENTITY credit.visuals "Koordinátor vizuální identity">
 <!ENTITY credit.theme "Motiv vzhledu">
-<!ENTITY credit.brand "Identita značky">
-<!ENTITY credit.web "Design webu">
-<!ENTITY credit.update "Aktualizace">
-<!ENTITY credit.qalead "Vedoucí kontroly kvality">
 <!ENTITY credit.qa "Kontrola kvality">
 <!ENTITY credit.build "Sestavování verzí">
-<!ENTITY credit.infra "Podpora infrastruktury">
-<!ENTITY credit.support "Podpůrné zdroje">
-<!ENTITY credit.manage "Vedení projektu">
-<!ENTITY credit.marketleads "Vedoucí marketingu">
-<!ENTITY credit.market "Marketing">
-<!ENTITY credit.creators "Vytvořeno">
 <!ENTITY credit.memory "V památce na">
 <!ENTITY credit.poweredByGecko "Poháněno Geckem&trade;">

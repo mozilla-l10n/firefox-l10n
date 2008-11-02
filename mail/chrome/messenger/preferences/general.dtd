@@ -29,7 +29,6 @@
 <!ENTITY customizeMailAlert.label "Přizpůsobit…">
 <!ENTITY customizeMailAlert.accesskey "b">
 
-<!ENTITY soundNotification1.caption "Zvuk">
 <!ENTITY play.label "Přehrát">
 <!ENTITY play.accesskey "h">
 <!ENTITY systemsound.label "Zvuk nové pošty v systému">

@@ -35,14 +35,5 @@
 
  ***** END LICENSE BLOCK ***** -->
 <!-- Labels -->
-<!ENTITY subscribechoosethis.label "Vyberte diskusní server">
-<!ENTITY subscribeclickhere.label "Klepnutím zde vyberete diskusní server">
 <!ENTITY newfolderchoosethis.label "Vyberte nadřazenou složku">
-<!ENTITY newfolderclickhere.label "Klepnutím zde vyberete složku">
-<!ENTITY renamefolderchoosethis.label "Vybrat požadovanou složku">
-<!ENTITY renamefolderclickhere.label "Klepnutím zde vyberete složku">
 <!ENTITY filemessageschoosethis.label "Vybrat složku">
-<!ENTITY filemessagesclickhere.label "Klepnutím zde vyberete složku">
-<!ENTITY chooseaccountclickhere.label "Klepnutím zde vyberete účet">
-<!ENTITY choosefolderclickhere.label "Klepnutím zde vyberete složku">
-<!ENTITY chooseserverToDeferTo.label "Klepnutím zde vyberete účet pro ukládání zpráv">

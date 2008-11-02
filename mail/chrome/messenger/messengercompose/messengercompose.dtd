@@ -75,7 +75,6 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "l">
 <!ENTITY deleteCmd.label "Smazat">
-<!ENTITY deleteCmd.key "d">
 <!ENTITY deleteCmd.accesskey "m">
 <!ENTITY selectAllCmd.label "Vybrat vše">
 <!ENTITY selectAllCmd.key "A">
@@ -98,7 +97,6 @@
 <!ENTITY viewToolbarsMenuNew.label "Nástrojové lišty">
 <!ENTITY viewToolbarsMenuNew.accesskey "N">
 <!ENTITY showCompositionToolbarCmd.label "Lišta pošty">
-<!ENTITY showCompositionToolbarCmd.accesskey "p">
 <!ENTITY showFormattingBarCmd.label "Lišta stylů">
 <!ENTITY showFormattingBarCmd.accesskey "s">
 <!ENTITY showTaskbarCmd.label "Stavový řádek">
@@ -173,7 +171,6 @@
 <!ENTITY accountManagerCmd.accesskey "t">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
 <!ENTITY preferencesCmd.label "Možnosti…">
-<!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "M">
 <!ENTITY preferencesCmdUnix.label "Předvolby">
 <!ENTITY preferencesCmdUnix.accesskey "v">
@@ -220,10 +217,6 @@
 <!ENTITY attachments.accesskey "P">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
 <!ENTITY SmileButton.tooltip "Vloží smajlíka">
 <!ENTITY smiley1Cmd.label "Úsměv">
 <!ENTITY smiley2Cmd.label "Zamračený">

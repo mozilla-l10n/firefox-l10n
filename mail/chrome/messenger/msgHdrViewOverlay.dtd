@@ -54,7 +54,6 @@
 <!ENTITY messageIdField2.label "id zprávy ">
 <!ENTITY inReplyToField2.label "v odpovědi na ">
 <!ENTITY originalWebsite2.label "webový server ">
-<!ENTITY saveAll.label "Uložit vše…">
 
 <!ENTITY editMessageDescription.label "Tato zpráva je koncept">
 <!ENTITY editMessageButton.label "Upravit…">

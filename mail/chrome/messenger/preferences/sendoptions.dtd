@@ -9,7 +9,6 @@
 <!ENTITY sendHTML.accesskey "B">
 <!ENTITY sendBoth.label "Odeslat zprávu ve formátu prostého textu i HTML">
 <!ENTITY sendBoth.accesskey "O">
-<!ENTITY receiveHTML.label "Pokud víte, že konkrétní příjemce je schopen přijímat zprávy ve formátu HTML, odznačte v kontaktu políčko 'Posílat zprávy jako prostý text'.">
 <!ENTITY override.label "Toto nastavení lze změnit u jednotlivé zprávy pomocí nabídky Formát.">
 
 <!ENTITY domaindesc.label "Když pošlete zprávu na adresu v jedné z domén uvedených níže, bude formát zprávy automaticky upraven.">
@@ -28,12 +27,5 @@
 
 <!ENTITY add.htmltitle "Přidat doménu pro HTML">
 <!ENTITY add.htmldomain "Název domény pro HTML:">
-<!ENTITY add.htmldomain.accesskey "H">
 <!ENTITY add.plaintexttitle "Přidat doménu pro prostý text">
 <!ENTITY add.plaintextdomain "Název domény pro prostý text:">
-<!ENTITY add.plaintext.accesskey "t">
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY domainnameError.title "Chyba názvu domény">
-<!ENTITY duplicationError.label "Název domény @string@ již v tomto seznamu existuje.">
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY dualEntryError.label "Název domény @string@ již existuje. Název domény nemůže být uveden jak v seznamu pro formát HTML, tak v seznamu pro prostý text.">
