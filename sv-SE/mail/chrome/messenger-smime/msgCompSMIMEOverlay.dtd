@@ -35,9 +35,6 @@
 <!ENTITY securityMenu.label "Säkerhet">
 <!ENTITY securityMenu.accesskey "S">
 
-<!ENTITY menu_securityEncryptIfPossible.label "Kryptera om möjligt">
-<!ENTITY menu_securityEncryptIfPossible.accesskey "K">
-
 <!ENTITY menu_securityEncryptRequire.label "Kryptera detta meddelande">
 <!ENTITY menu_securityEncryptRequire.accesskey "K">
 

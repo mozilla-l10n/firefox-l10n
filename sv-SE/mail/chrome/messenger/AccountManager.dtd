@@ -35,12 +35,8 @@
 <!ENTITY addAccountButton.accesskey "L">
 <!ENTITY setDefaultButton.label "Gör till standardkonto">
 <!ENTITY setDefaultButton.accesskey "G">
-<!ENTITY duplicateButton.label "Klona">
 <!ENTITY removeButton.label "Ta bort konto">
 <!ENTITY removeButton.accesskey "T">
-
-<!ENTITY nameCol.label "Namn">
-<!ENTITY duplicate.label "Klona">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account

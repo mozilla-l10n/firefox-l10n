@@ -1,5 +1,4 @@
 <!ENTITY dialog.title                 "Mottagningskvitton">
-<!ENTITY receiptSettings.label        "Mottagningskvitton">
 <!ENTITY requestReceipt.label         "Begär alltid mottagningskvitto när meddelanden skickas">
 <!ENTITY requestReceipt.accesskey     "B">
 <!ENTITY receiptArrive.label          "När ett mottagningskvitto anländer:">

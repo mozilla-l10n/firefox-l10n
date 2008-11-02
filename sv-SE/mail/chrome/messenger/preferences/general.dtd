@@ -29,7 +29,6 @@
 <!ENTITY customizeMailAlert.label         "Anpassa…">
 <!ENTITY customizeMailAlert.accesskey     "n">
 
-<!ENTITY soundNotification1.caption       "Ljud">
 <!ENTITY play.label                       "Spela upp">
 <!ENTITY play.accesskey                   "e">
 <!ENTITY systemsound.label                "Systemets standardljud">

@@ -55,7 +55,6 @@
 <!ENTITY pasteCmd.key                  "V">
 <!ENTITY pasteCmd.accesskey            "l">
 <!ENTITY deleteCmd.label               "Ta bort">
-<!ENTITY deleteCmd.key                 "D">
 <!ENTITY deleteCmd.accesskey           "T">
 <!ENTITY selectAllCmd.label            "Markera allt">
 <!ENTITY selectAllCmd.key              "A">
@@ -65,9 +64,6 @@
 <!ENTITY preferencesCmdUnix.label      "Inställningar">
 <!ENTITY preferencesCmdUnix.accesskey  "I">
 
-<!ENTITY findTypeTextCmd.label         "Sök text direkt">
-<!ENTITY findTypeTextCmd.accesskey     "x">
-
 <!ENTITY viewMenu.label                "Visa">
 <!ENTITY viewMenu.accesskey            "s">
 <!ENTITY viewToolbarsMenu.label        "Verktygsfält">
@@ -75,18 +71,8 @@
 <!ENTITY showTaskbarCmd.label          "Statusfält">
 <!ENTITY showTaskbarCmd.accesskey      "S">
 
-<!ENTITY direct.label                  "Uppkopplad (proxy: ingen)">
-<!ENTITY direct.accesskey              "i">
-<!ENTITY manual.label                  "Uppkopplad (proxy: manuell)">
-<!ENTITY manual.accesskey              "m">
-<!ENTITY pac.label                     "Uppkopplad (proxy: auto)">
-<!ENTITY pac.accesskey                 "a">
-
 <!ENTITY proxy.label                   "Proxykonfiguration…">
 <!ENTITY proxy.accesskey               "P">
-
-<!ENTITY findTypeTextCmd.key   "/">
-<!ENTITY findTypeLinksCmd.key  "'">
 
 <!ENTITY closeCmd.label      "Stäng">
 <!ENTITY closeCmd.key        "W">

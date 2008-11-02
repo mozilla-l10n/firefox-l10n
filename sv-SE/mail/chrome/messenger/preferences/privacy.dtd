@@ -43,12 +43,3 @@
 <!ENTITY antiVirus.intro      "&brandShortName; kan göra det lätt för antivirusprogram att granska inkommande e-postmeddelanden innan de sparas lokalt.">
 <!ENTITY antiVirus.label      "Låt antivirusprogram sätta inkommande meddelanden i karantän">
 <!ENTITY antiVirus.accesskey  "L">
-
-<!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
-<!ENTITY antiVirusCaption.label "Antivirus">
-<!ENTITY paswords.label         "Lösenord">
-<!ENTITY emailScams.label       "E-postbluffar">
-<!ENTITY junkMail.label         "Skräppost">
-<!ENTITY itemIntrusions.label   "Intrång">
-<!ENTITY itemIntrusionsAndPasswords.label  "Intrång &amp; lösenord">
-<!ENTITY itemJunkMail.label     "Skräppost">

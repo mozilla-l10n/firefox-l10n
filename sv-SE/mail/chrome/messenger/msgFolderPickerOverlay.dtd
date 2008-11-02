@@ -37,14 +37,5 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Labels -->
-<!ENTITY subscribechoosethis.label     "välj denna diskussionsserver">
-<!ENTITY subscribeclickhere.label      "klicka här för att välja denna diskussionsserver">
 <!ENTITY newfolderchoosethis.label     "välj denna som förälder">
-<!ENTITY newfolderclickhere.label      "Klicka här för att välja">
-<!ENTITY renamefolderchoosethis.label  "välj denna mapp">
-<!ENTITY renamefolderclickhere.label   "klicka här för att välja en mapp">
 <!ENTITY filemessageschoosethis.label  "välj denna mapp">
-<!ENTITY filemessagesclickhere.label   "klicka här för att välja en mapp">
-<!ENTITY chooseaccountclickhere.label  "Klicka här för att välja ett konto">
-<!ENTITY choosefolderclickhere.label   "Klicka här för att välja en mapp">
-<!ENTITY chooseserverToDeferTo.label   "klicka här för att välja ett konto att använda för lagring av meddelanden">

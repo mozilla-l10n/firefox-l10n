@@ -19,5 +19,3 @@
 <!ENTITY  chooseFolder.accesskey              "ä">
 <!ENTITY  saveToAskMe.label                   "fråga mig var filen ska sparas">
 <!ENTITY  saveToAskMe.accesskey               "v">
-<!ENTITY  usePlugin.label                     "Använd denna insticksmodul:">
-<!ENTITY  usePlugin.accesskey                 "A">

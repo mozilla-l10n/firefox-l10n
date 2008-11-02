@@ -36,12 +36,8 @@
 <!ENTITY fccMailFolder.accesskey "k">
 <!ENTITY fccReplyFollowsParent.label "Lägg svaret i samma mapp som det besvarade meddelandet">
 <!ENTITY fccReplyFollowsParent.accesskey "b">
-<!ENTITY chooseFolderButton.label "Välj mapp…">
 <!ENTITY bccAddress.label "Dold kopia till dessa adresser:">
 <!ENTITY bccAddress.accesskey "D">
-<!ENTITY specialFolderTitle.label "Specialmappar">
-<!ENTITY draftMailFolder.label "Spara utkast i:">
-<!ENTITY templateMailFolder.label "Spara mallar i:">
 <!ENTITY saveMessageDlg.label "Visa bekräftelse när meddelanden sparas">
 <!ENTITY saveMessageDlg.accesskey "V">
 <!ENTITY sentFolderOn.label "Mappen ”Skickat” i:">

@@ -38,7 +38,6 @@
 <!ENTITY offlineNotDownload.label "Meddelanden större än">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY kb.label "kB">
-<!ENTITY days.label "dagar">
 <!ENTITY daysOld.label "dagar">
 <!ENTITY message.label "meddelandena">
 <!ENTITY nntpNotDownloadRead.label "Lästa meddelanden">

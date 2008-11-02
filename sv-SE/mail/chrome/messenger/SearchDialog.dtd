@@ -38,15 +38,11 @@
 <!ENTITY searchSubfolders.accesskey  "u">
 <!ENTITY resetButton.label           "Rensa">
 <!ENTITY resetButton.accesskey       "N">
-<!ENTITY optionsButton.label         "Alternativ">
-<!ENTITY closeButton.label           "Stäng">
 <!ENTITY openButton.label            "Öppna">
 <!ENTITY openButton.accesskey        "Ö">
 <!ENTITY deleteButton.label          "Ta bort">
 <!ENTITY deleteButton.accesskey      "T">
 <!ENTITY searchDialogTitle.label     "Sök efter meddelanden">
-<!ENTITY conditionDesc.label         "Sök efter meddelande som matchar:">
-<!ENTITY conditions.label            "Sökkriterier">
 <!ENTITY results.label               "Sökresultat">
 <!ENTITY fileHereMenu.label          "Arkivera här">
 <!ENTITY fileHereMenu.accesskey      "h">
@@ -79,7 +75,6 @@
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Storlek">
 <!ENTITY junkStatusColumn.label "Skräpstatus">
-<!ENTITY linesColumn.label "Rader">
 <!ENTITY unreadColumn.label "Olästa">
 <!ENTITY totalColumn.label "Totalt">
 <!ENTITY readColumn.label "Lästa">

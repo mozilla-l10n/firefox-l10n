@@ -26,8 +26,6 @@
 <!ENTITY reuseExpRadio0.accesskey      "e">
 <!ENTITY reuseExpRadio1.label          "befintligt fönster">
 <!ENTITY reuseExpRadio1.accesskey      "b">
-<!ENTITY reuseExpRadio2.label          "en ny meddelandeflik">
-<!ENTITY reuseExpRadio2.accesskey      "n">
 <!ENTITY configEditDesc.label          "Avancerade inställningar">
 <!ENTITY configEdit.label              "Konfigurationsredigerare…">
 <!ENTITY configEdit.accesskey          "K">
