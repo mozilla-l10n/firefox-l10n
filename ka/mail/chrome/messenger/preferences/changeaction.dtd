@@ -19,5 +19,3 @@
 <!ENTITY  chooseFolder.accesskey              "w">
 <!ENTITY  saveToAskMe.label                   "დამეკითხე ფაილის შენახვის ადგილს">
 <!ENTITY  saveToAskMe.accesskey               "a">
-<!ENTITY  usePlugin.label                     "ამ მოდულის გამოყენება:">
-<!ENTITY  usePlugin.accesskey                 "P">

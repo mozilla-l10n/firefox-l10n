@@ -3,7 +3,6 @@
 <!ENTITY accountTitle.label "ანგარიშის პარამეტრები">
 <!ENTITY accountName.label "ანგარიშის სახელი:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY accountNameDesc.label "ანგარიშის სახელი სჭირდება თითოეულ ანგარიშს">
 <!ENTITY identityTitle.label "იდენტურობა">
 <!ENTITY identityDesc.label "თითოეული ანგარიში შეიცავს თქვენს საიდენტიფიკაციო მონაცემებს, რომლებსაც მიიღებენ წერილების ადრესატები.">
 <!ENTITY name.label "თქვენი სახელი:">

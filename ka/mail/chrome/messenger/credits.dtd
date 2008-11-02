@@ -1,8 +1,6 @@
 <!ENTITY credit.title     "&brandFullName; მადლობები">
 <!ENTITY brandMotto       "ქარიშხალი გვიახლოვდება!">
 <!ENTITY credit.leads     "სისტემები">
-<!ENTITY credit.core      "ბირთვი">
-<!ENTITY credit.gecko     "ძირითადი დიზაინი">
 <!ENTITY credit.thanks    "სპეციალური მადლობა">
 
 <!-- localization credits look like this: -->
@@ -10,21 +8,10 @@
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation "<h3>ქართული ლოკალიზაცია</h3><ul><li>გია შერვაშიძე</li></ul>">
+<!ENTITY credit.translation "<h3>ქართული ვერსია</h3><ul><li>გია შერვაშიძე</li></ul>">
 
-<!ENTITY credit.visuals     "ვიზუალური დიზაინის კოორდინატორი">
-<!ENTITY credit.theme       "თემების დიზაინი">
-<!ENTITY credit.brand       "სავაჭრო ნიშანი">
-<!ENTITY credit.web         "ვებ დიზაინი">
-<!ENTITY credit.update      "მოძილას განახლება">
-<!ENTITY credit.qalead      "ხარისხის კონტროლის უფროსი">
+<!ENTITY credit.theme       "თემის დიზაინი">
 <!ENTITY credit.qa          "ხარისხის კონტროლი">
 <!ENTITY credit.build       "აგება და გამოშვება">
-<!ENTITY credit.infra       "ინფრასტრუქტურის მხარდაჭერა">
-<!ENTITY credit.support     "რესურსებით მომარაგება">
-<!ENTITY credit.manage      "პროექტის მართვა">
-<!ENTITY credit.marketleads "მარკეტინგის უფროსი">
-<!ENTITY credit.market      "მარკეტინგი">
-<!ENTITY credit.creators    "ავტორი">
 <!ENTITY credit.memory      "ეძღვნება ხსოვნას">
-<!ENTITY credit.poweredByGecko "მხარდაჭერა - Gecko&trade;">
+<!ENTITY credit.poweredByGecko "ძრავი - Gecko&trade;">

@@ -29,7 +29,6 @@
 <!ENTITY customizeMailAlert.label         "მორგება…">
 <!ENTITY customizeMailAlert.accesskey     "C">
 
-<!ENTITY soundNotification1.caption       "ხმა">
 <!ENTITY play.label                       "გახმოვანება">
 <!ENTITY play.accesskey                   "P">
 <!ENTITY systemsound.label                "ახალი წერილის ნაგულისხმები სისტემური გახმოვანება">
@@ -40,3 +39,9 @@
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "ნუსხა…">
 <!ENTITY browse.accesskey                 "B">
+
+<!ENTITY addonsMgr.label                  "მოდულები">
+<!ENTITY manageAddonsDescWin.label        "პარამეტრების შეცვლა თქვენი მოდულებისთვის">
+<!ENTITY manageAddonsDescUnix2.label      "პარამეტრების შეცვლა თქვენი მოდულებისთვის">
+<!ENTITY manageAddons.label               "მოდულების მართვა…">
+<!ENTITY manageAddons.accesskey           "M">

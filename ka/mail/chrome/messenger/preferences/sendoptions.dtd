@@ -4,38 +4,28 @@
 <!ENTITY askMe.label                  "დამეკითხე შემდეგ ქმედებას">
 <!ENTITY askMe.accesskey              "k">
 <!ENTITY convertPlain.label           "წერილის ჩვეულებრივ ტექსტად გარდაქმნა">
-<!ENTITY convertPlain.accesskey       "c">
+<!ENTITY convertPlain.accesskey       "C">
 <!ENTITY sendHTML.label               "წერილის მაინც HTML ფორმატით გაგზავნა">
-<!ENTITY sendHTML.accesskey           "s">
+<!ENTITY sendHTML.accesskey           "S">
 <!ENTITY sendBoth.label               "წერილის ორივე, HTML და ტექსტური ფორმატით გაგზავნა">
 <!ENTITY sendBoth.accesskey           "e">
-<!ENTITY receiveHTML.label            "თუ იცით, რომ რომელიმე ადრესატს შეუძლია HTML წერილის მიღება, წიგნაკიდან ადრესატის ბარათში 'წერილის ტექსტური (არა HTML) ფორმატით გაგზავნა' ამორთეთ.">
 <!ENTITY override.label               "შენიშვნა: ადრესატებისთვის წერილების სასურველი ფორმატების მისათითებლად წიგნაკი გამოიყენეთ.">
 
 <!ENTITY domaindesc.label             "წერილის გაგზავნისას ქვემოთ ჩამოთვლილი დომენის შემცველ მისამართებზე, &brandShortName; წერილებს ავტომატურად გააგზავნის მართებული ფორმატით.">
 <!ENTITY HTMLTab.label                "HTML დომენები">
-<!ENTITY HTMLTab.accesskey            "h">
+<!ENTITY HTMLTab.accesskey            "H">
 <!ENTITY PlainTextTab.label           "ტექსტური დომენები">
-<!ENTITY PlainTextTab.accesskey       "p">
+<!ENTITY PlainTextTab.accesskey       "P">
 <!ENTITY AddHtmlDomain.label              "დამატება…">
-<!ENTITY AddHtmlDomain.accesskey      "a">
+<!ENTITY AddHtmlDomain.accesskey      "A">
 <!ENTITY AddPlainText.label           "დამატება…">
-<!ENTITY AddPlainText.accesskey       "d">
+<!ENTITY AddPlainText.accesskey       "A">
 <!ENTITY DeleteHtmlDomain.label           "წაშლა">
-<!ENTITY DeleteHtmlDomain.accesskey   "l">
+<!ENTITY DeleteHtmlDomain.accesskey   "D">
 <!ENTITY DeletePlainText.label        "წაშლა">
-<!ENTITY DeletePlainText.accesskey    "t">
+<!ENTITY DeletePlainText.accesskey    "D">
 
 <!ENTITY add.htmltitle                "HTML დომენის სახელის დამატება">
 <!ENTITY add.htmldomain               "HTML დომენის სახელი:">
-<!ENTITY add.htmldomain.accesskey     "d">
 <!ENTITY add.plaintexttitle           "დომენის ტექსტური სახელის დამატება">
-<!ENTITY add.plaintextdomain          "დომენის ტექსტური სახელი Name:">
-<!ENTITY add.plaintext.accesskey      "d">
-
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY domainnameError.title        "დომენის სახელის შეცდომა">
-<!ENTITY duplicationError.label       "დომენის სახელი @string@ ამ სიაში უკვე არსებობს.">
-
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY dualEntryError.label         "დომენის სახელი ვერ იქნება ორივე, HTML და ტექსტურ სიებში. დომენის სახელი @string@ უკვე არსებობს.">
+<!ENTITY add.plaintextdomain          "დომენის ტექსტური სახელი:">

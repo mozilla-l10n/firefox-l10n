@@ -3,9 +3,6 @@
 <!ENTITY securityMenu.label "უსაფრთხოება">
 <!ENTITY securityMenu.accesskey "e">
 
-<!ENTITY menu_securityEncryptIfPossible.label "დაშიფვრა, თუ შესაძლებელია">
-<!ENTITY menu_securityEncryptIfPossible.accesskey "P">
-
 <!ENTITY menu_securityEncryptRequire.label "წერილის დაშიფვრა">
 <!ENTITY menu_securityEncryptRequire.accesskey "E">
 

@@ -1,0 +1,11 @@
+<!ENTITY editContactName.label "სახელი:">
+<!ENTITY editContactName.accesskey "N">
+
+<!ENTITY editContactEmail.label "ელფოსტა:">
+<!ENTITY editContactEmail.accesskey "E">
+
+<!ENTITY editContactPanelCancel.label "გაუქმება">
+<!ENTITY editContactPanelCancel.accesskey "C">
+
+<!ENTITY editContactPanelDone.label "მზადაა">
+<!ENTITY editContactPanelDone.accesskey "D">

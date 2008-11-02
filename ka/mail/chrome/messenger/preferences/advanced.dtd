@@ -1,4 +1,5 @@
 <!ENTITY itemGeneral.label       "ზოგადი">
+<!ENTITY itemDisplay.label       "წაკითხვა და ჩვენება">
 <!ENTITY itemUpdate.label        "განახლება">
 <!ENTITY itemNetworking.label    "ქსელი და ადგილი დისკზე">
 <!ENTITY itemCertificates.label  "სერთიფიკატები">
@@ -20,24 +21,21 @@
 <!ENTITY secondsLabel.label            "წამი">
 <!ENTITY showFolderColumns.label       "დასტის სარკმელში გაფართოებული სვეტების ჩვენება">
 <!ENTITY showFolderColumns.accesskey   "l">
-<!ENTITY rememberLastMsg.label         "ბოლო შერჩეული წერილის დამახსოვრება">
-<!ENTITY rememberLastMsg.accesskey     "b">
 <!ENTITY openMsgIn.label                "წერილის გახსნა აქ:">
 <!ENTITY reuseExpRadio0.label          "წერილის ახალ ფანჯარაში">
 <!ENTITY reuseExpRadio0.accesskey      "i">
 <!ENTITY reuseExpRadio1.label          "წერილის არსებულ ფანჯარაში">
 <!ENTITY reuseExpRadio1.accesskey      "x">
-<!ENTITY reuseExpRadio2.label          "წერილის ახალი დაფა">
-<!ENTITY reuseExpRadio2.accesskey      "Z">
-<!ENTITY connectionTimeout.label       "კავშირის ვადის გასვლა: ">
-<!ENTITY connectionTimeout.accesskey   "C">
-<!ENTITY connectionSeconds.label       "წამი">
 <!ENTITY configEditDesc.label          "დეტალური გამართვა">
 <!ENTITY configEdit.label              "გამართვის რედაქტორი…">
 <!ENTITY configEdit.accesskey          "g">
 <!ENTITY returnReceiptsInfo.label      "როგორ იმუშავოს &brandShortName; პროგრამამ მიღების დასტურთან">
 <!ENTITY showReturnReceipts.label      "მიღების დასტური…">
 <!ENTITY showReturnReceipts.accesskey  "R">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption                "წაკითხვა">
+<!ENTITY display.caption                "ჩვენება">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "განახლებების ავტომატური შემოწმება:">
@@ -57,9 +55,9 @@
 <!ENTITY showUpdates.accesskey          "y">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showConnections.label         "კავშირი…">
-<!ENTITY showConnections.accesskey     "n">
-<!ENTITY proxiesInfo.label             "როგორ დაუკავშირდეს &brandShortName; პროგრამა ინტერნეტს.">
+<!ENTITY showSettings.label            "პარამეტრები…">
+<!ENTITY showSettings.accesskey        "n">
+<!ENTITY proxiesConfigure.label        "როგორ დაუკავშირდეს &brandShortName; პროგრამა ინტერნეტს.">
 <!ENTITY connectionsInfo.caption       "კავშირი">
 <!ENTITY offlineInfo.caption           "ავტონომიური რეჟიმი">
 <!ENTITY offlineInfo.label             "ავტონომიური რეჟიმის პარამეტრები">
@@ -71,8 +69,19 @@
 <!ENTITY offlineCompact.accesskey "v">
 <!ENTITY kb.label "კბ">
 
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "ბუფერის ზომა">
+<!ENTITY useCacheBefore.accesskey        "U">
+<!ENTITY useCacheAfter.label             "მბ ბუფერისთვის">
+<!ENTITY clearCacheNow.label             "გასუფთავება">
+<!ENTITY clearCacheNow.accesskey         "C">
+
 <!-- Certificates -->
-<!ENTITY certificatesInfo2.label         "სერთიფიკატების მართვა, გაუქმებულთა სიები, სერთიფიკატების შემოწმება და უსაფრთხოების მოწყობილობები.">
 <!ENTITY viewCertificates.label         "სერთიფიკატების ჩვენება">
 <!ENTITY viewCertificates.accesskey     "a">
 <!ENTITY viewCRLs.label                 "გაუქმებულთა სია">

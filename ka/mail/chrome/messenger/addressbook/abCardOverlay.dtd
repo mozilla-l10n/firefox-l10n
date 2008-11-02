@@ -136,6 +136,11 @@
 
 <!ENTITY Other.tab                      "სხვა">
 <!ENTITY Other.accesskey                "h">
+<!ENTITY Birthday.label                 "დაბადების დღე:">
+<!ENTITY Birthday.accesskey             "B">
+<!ENTITY Year.emptytext                 "წელი">
+<!ENTITY Or.value                       "ან">
+<!ENTITY Age.emptytext                  "ასაკი">
 <!ENTITY Custom1.label                  "დამატებითი 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "დამატებითი 2:">

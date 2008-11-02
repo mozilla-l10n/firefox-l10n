@@ -36,14 +36,5 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Labels -->
-<!ENTITY subscribechoosethis.label			"ჯგუფების ამ სერვერის არჩევა">
-<!ENTITY subscribeclickhere.label			"დაწკაპეთ აქ ჯგუფების სერვერის ასარჩევად">
 <!ENTITY newfolderchoosethis.label			"მიმდინარის არჩევა როგორც ძირითადი">
-<!ENTITY newfolderclickhere.label			"დაწკაპეთ აქ ასარჩევად">
-<!ENTITY renamefolderchoosethis.label			"ამ დასტის არჩევა">
-<!ENTITY renamefolderclickhere.label			"დაწკაპეთ აქ დასტის ასარჩევად">
 <!ENTITY filemessageschoosethis.label			"ამ დასტის არჩევა">
-<!ENTITY filemessagesclickhere.label			"დაწკაპეთ აქ დასტის ასარჩევად">
-<!ENTITY chooseaccountclickhere.label			"დაწკაპეთ აქ ანგარიშის ასარჩევად">
-<!ENTITY choosefolderclickhere.label			"დაწკაპეთ აქ დასტის ასარჩევად">
-<!ENTITY chooseserverToDeferTo.label      "დაწკაპეთ აქ წერილების შესანახი ანგარიშის მისათითებლად">

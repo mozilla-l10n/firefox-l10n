@@ -1,5 +1,4 @@
 <!ENTITY dialog.title                  "მიღების დასტური">
-<!ENTITY receiptSettings.label         "მიღების დასტური">
 <!ENTITY requestReceipt.label          "წერილების გაგზავნისას მიღების დასტურის ყოველთვის მოთხოვნა">
 <!ENTITY requestReceipt.accesskey      "W">
 <!ENTITY receiptArrive.label           "მიღების დასტურის მოსვლისას:">
