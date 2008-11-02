@@ -49,7 +49,8 @@
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Reformater">
-<!ENTITY editRewrapCmd.accesskey  "o">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY editRewrapCmd.accesskey "o">
 <!ENTITY findCmd.label "Rechercher">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "h">
