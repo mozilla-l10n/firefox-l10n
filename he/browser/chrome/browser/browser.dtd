@@ -191,6 +191,11 @@
 <!ENTITY viewImageCmd.accesskey "צ">
 <!ENTITY viewBGImageCmd.label "הצג תמונת רקע">
 <!ENTITY viewBGImageCmd.accesskey "ת">
+
+
+<!ENTITY viewVideoCmd.label           "צפה בוידאו">
+<!ENTITY viewVideoCmd.accesskey       "צ">
+
 <!ENTITY setDesktopBackgroundCmd.label "קבע כתמונת רקע...">
 <!ENTITY setDesktopBackgroundCmd.accesskey "כ">
 

@@ -1,6 +1,13 @@
-<!ENTITY restorepage.title          "שחזור הפעלה קודמת">
-<!ENTITY restorepage.titletext      "ההפעלה האחרונה של  &brandShortName; נסגרה באופן לא צפוי">
-<!ENTITY restorepage.shortDesc      "באפשרותך לשחזר את החלונות והלשוניות מההפעלה הקודמת שלך, או להתחיל הפעלה חדשה במידה והחלונות והלשוניות ההן אינן נחוצות יותר. אנו מצטערים על הטרחה.">
+<!-- ### ENTITY restorepage.title          "שחזור הפעלה קודמת" -->
+<!-- ### ENTITY restorepage.titletext      "ההפעלה האחרונה של  &brandShortName; נסגרה באופן לא צפוי" -->
+<!-- ### ENTITY restorepage.shortDesc      "באפשרותך לשחזר את החלונות והלשוניות מההפעלה הקודמת שלך, או להתחיל הפעלה חדשה במידה והחלונות והלשוניות ההן אינן נחוצות יותר. אנו מצטערים על הטרחה." -->
+
+ <!ENTITY restorepage.tabtitle       "שחזור הפעלה">
+  <!ENTITY restorepage.pagetitle      "האם ברצונך לשחזר את ההפעלה שלך?">
+<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
+                        you may translate "crash" instead (even though it's IT-speak) -->
+  <!ENTITY restorepage.issueDesc      "ההפעלה הקודמת של &brandShortName; נסגרה באופן בלתי צפוי. אנו מצטערים על חוסר הנוחות. באפשרותך לשחזר את החלונות והלשוניות שלך מההפעלה הקודמת, או להתחיל הפעלה חדשה במידה ואלו אינם נחוצים יותר.">
+
 <!ENTITY restorepage.remedies       "במידה ו־&brandShortName; נסגר שוב ושוב:">
 <!ENTITY restorepage.dueToChrome    "נסה לנטרל הרחבות שהוספת לאחרונה במנהל התוספות.">
 <!ENTITY restorepage.dueToContent   "נסה לשחזר את ההפעלה ללא דפים שאתה חושד שהם הגורם לקריסה:">
