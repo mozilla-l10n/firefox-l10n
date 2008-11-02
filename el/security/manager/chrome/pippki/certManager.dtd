@@ -19,7 +19,7 @@
 <!ENTITY certmgr.backupall2.label              "Αντίγραφο όλων…">
 <!ENTITY certmgr.restore2.label                "Εισαγωγή…">
 <!ENTITY certmgr.addException.label           "Προσθήκη εξαίρεσης…">
-<!ENTITY certmgr.addException.accesskey       "λ">
+<!ENTITY certmgr.addException.accesskey       "θ">
 
 <!ENTITY exceptionMgr.title                   "Προσθήκη εξαίρεσης ασφαλείας">
 <!ENTITY exceptionMgr.exceptionButton         "Επιβεβαίωση εξαίρεσης ασφαλείας">
