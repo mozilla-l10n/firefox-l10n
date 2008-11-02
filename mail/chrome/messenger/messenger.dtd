@@ -540,8 +540,8 @@
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "שם או דוא״ל מכילים:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
-<!ENTITY clearButton.label "נקה">
-<!ENTITY clearButton.accesskey "C">
+<!-- ### ENTITY clearButton.label "נקה" -->
+<!-- ### ENTITY clearButton.accesskey "C" -->
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "נושא">
@@ -627,8 +627,8 @@
 <!ENTITY contextPrint.accesskey "P">
 <!ENTITY contextPrintPreview.label "הצג לפני הדפסה">
 <!ENTITY contextPrintPreview.accesskey "v">
-<!ENTITY contextDelete.label "מחק">
-<!ENTITY contextDelete.accesskey "D">
+<!-- ### ENTITY contextDelete.label "מחק" -->
+<!-- ### ENTITY contextDelete.accesskey "D" -->
 
 <!-- Junk Bar -->
 <!-- ### ENTITY contextAddSenderToAddressBook.label "הוסף השולח לפנקס כתובות" -->
@@ -675,8 +675,8 @@
 <!-- ### ENTITY CreateFilter.accesskey "F" -->
 <!ENTITY CreateFilterFrom.label "צור מסנן מ…">
 <!ENTITY CreateFilterFrom.accesskey "מ">
-<!ENTITY BlockAddress.label "חסום כתובת">
-<!ENTITY BlockAddress.accesskey "כ">
+<!-- ### ENTITY BlockAddress.label "חסום כתובת" -->
+<!-- ### ENTITY BlockAddress.accesskey "כ" -->
 <!ENTITY reportPhishingURL.label "דווח על הונאת דוא״ל">
 <!ENTITY reportPhishingURL.accesskey "ד">
 

@@ -1,10 +1,10 @@
 <!--null-->
 <!ENTITY pref.ldap.window.title "שרתי מדריך LDAP">
-<!ENTITY directory.label "הוסף מדריך">
+<!-- ### ENTITY directory.label "הוסף מדריך" -->
 <!ENTITY directories.label "שרת מדריך LDAP:">
 <!ENTITY directoriesText.label "בחר שרת מדריך LDAP:‏">
 <!ENTITY directoriesText.accesskey "ב">
-<!ENTITY autocomplete.title "שרת מדריך LDAP">
+<!-- ### ENTITY autocomplete.title "שרת מדריך LDAP" -->
 <!ENTITY addDirectory.label "הוסף">
 <!ENTITY addDirectory.accesskey "ה">
 <!ENTITY editDirectory.label "ערוך">
