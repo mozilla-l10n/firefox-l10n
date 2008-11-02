@@ -143,6 +143,7 @@
 <!ENTITY insecureUpdate.label             "Tillhandahåller inga säkra uppdateringar.">
 <!ENTITY needsDependencies.label          "Kräver ytterligare poster.">
 <!ENTITY blocklisted.label                "Avaktiverad av säkerhetsskäl.">
+<!ENTITY softBlocklisted.label            "Känd för att orsaka säkerhets- eller stabilitetsproblem.">
 <!ENTITY toBeDisabled.label               "Detta tillägg kommer att avaktiveras när &brandShortName; startas om.">
 <!ENTITY toBeEnabled.label                "Detta tillägg kommer att aktiveras när &brandShortName; startas om.">
 <!ENTITY toBeInstalled.label              "Detta tillägg kommer att installeras när &brandShortName; startas om.">
@@ -199,3 +200,6 @@
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "Acceptera och installera…">
+
+<!ENTITY blocklist.blocked.label          "Blockerad">
+<!ENTITY blocklist.checkbox.label         "Inaktiverad">
