@@ -60,7 +60,6 @@
 <!ENTITY pasteCmd.key                                   "V">
 <!ENTITY pasteCmd.accesskey                             "p">
 <!ENTITY deleteCmd.label                                "წაშლა">
-<!ENTITY deleteCmd.key                                  "D">
 <!ENTITY deleteCmd.accesskey                            "d">
 <!ENTITY deleteAbCmd.label                              "წიგნაკის წაშლა">
 <!ENTITY deleteCardCmd.label                            "ბარათის წაშლა">
@@ -118,7 +117,6 @@
 <!ENTITY exportCmd.label                                "ექსპორტი…">
 <!ENTITY exportCmd.accesskey                            "E">
 <!ENTITY preferencesCmd.label                           "პარამეტრები…">
-<!ENTITY preferencesCmd.key                             "O">
 <!ENTITY preferencesCmd.accesskey                       "O">
 <!ENTITY preferencesCmdUnix.label                       "პარამეტრები">
 <!ENTITY preferencesCmdUnix.accesskey                   "n"> 

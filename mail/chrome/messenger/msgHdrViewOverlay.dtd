@@ -35,30 +35,43 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField.label "ვის: ">
-<!ENTITY fromField.label "ვისგან: ">
-<!ENTITY senderField.label "გამგზავნი: ">
-<!ENTITY organizationField.label "ორგანიზაცია: ">
-<!ENTITY replyToField.label "პასუხი: ">
+<!ENTITY toField2.label "ვის: ">
+<!ENTITY fromField2.label "ვისგან: ">
+<!ENTITY senderField2.label "გამგზავნი: ">
+<!ENTITY organizationField2.label "ორგანიზაცია: ">
+<!ENTITY replyToField2.label "პასუხი: ">
 
-<!ENTITY subjectField.label "თემა: ">
-<!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField.label "ასლი: ">
-<!ENTITY bccField.label "ფარული ასლი: ">
-<!ENTITY newsgroupsField.label "ჯგუფები: ">
-<!ENTITY followupToField.label "კონფერენცია: ">
-<!ENTITY tagsHdr.label "ჭდეები: ">
-<!ENTITY dateField.label "თარიღი: ">
-<!ENTITY userAgentField.label "პროგრამა: ">
-<!ENTITY referencesField.label "დამოწმებები: ">
-<!ENTITY messageIdField.label "წერილის კოდი: ">
-<!ENTITY inReplyToField.label "პასუხად: ">
-<!ENTITY originalWebsite.label "ვებსაიტი: ">
-<!ENTITY saveAll.label "ყველას შენახვა..">
+<!ENTITY subjectField2.label "თემა: ">
+<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
+<!ENTITY ccField2.label "ასლი ">
+<!ENTITY bccField2.label "ფარული ასლი ">
+<!ENTITY newsgroupsField2.label "ჯგუფები ">
+<!ENTITY followupToField2.label "კონფერენცია ">
+<!ENTITY tagsHdr2.label "ჭდეები ">
+<!ENTITY dateField2.label "თარიღი ">
+<!ENTITY userAgentField2.label "პროგრამა ">
+<!ENTITY referencesField2.label "დამოწმებები ">
+<!ENTITY messageIdField2.label "გზავნილის კოდი ">
+<!ENTITY inReplyToField2.label "პასუხად ">
+<!ENTITY originalWebsite2.label "ვებსაიტი ">
 
-<!ENTITY editMessage.label "ესკიზის რედაქტირება…">
+<!ENTITY editMessageDescription.label "ეს გხავნილის ესკიზია">
+<!ENTITY editMessageButton.label "რედაქტირება…">
+<!ENTITY replyButton.label "პასუხი…">
+<!ENTITY forwardButton.label "გადაგზავნა…">
+<!ENTITY junkButton.label "მინიშვნა ჯართად">
+<!ENTITY trashButton.tooltiptext "წაშლა">
 
-<!ENTITY openAttachmentCmd.label    "გახსნა">  
+<!ENTITY otherActionsButton.label "სხვა ქმედებები">
+<!ENTITY saveAsMenuItem.label "შენახვა როგორც…">
+<!ENTITY saveAsMenuItem.accesskey "S">
+<!ENTITY viewSourceMenuItem.label "წყაროს ჩვენება…">
+<!ENTITY viewSourceMenuItem.accesskey "V">
+
+<!ENTITY hideDetailsButton.label "დეტალების დამალვა">
+<!ENTITY showDetailsButton.label "დეტალების ჩვენება">
+
+<!ENTITY openAttachmentCmd.label    "გახსნა">
 <!ENTITY openAttachmentCmd.accesskey		"O">  
 <!ENTITY saveAsAttachmentCmd.label    "ჩაწერა როგორც…">  
 <!ENTITY saveAsAttachmentCmd.accesskey		"A"> 

@@ -1,6 +1,4 @@
 <!ENTITY serverAdvanced.label "ანგარიშის დამატებითი პარამეტრები">
-<!-- LOCALIZATION NOTE (imapAdvanced.label): Do not translate "IMAP" -->
-<!ENTITY imapAdvanced.label "IMAP სერვერის დამატებითი პარამეტრები">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP სერვერის დასტა:">
 <!ENTITY serverDirectory.accesskey "d">
@@ -23,7 +21,6 @@
 <!ENTITY overrideNamespaces.label "სერვერისთვის ამ სახელთა არეების გადაფარვის ნების დართვა">
 <!ENTITY overrideNamespaces.accesskey "A">
 <!ENTITY pop3Desc.label "ამ სერვერისთვის pop ფოსტის ჩამოტვირთვისას ახალი ფოსტისთვის შემდეგი დასტის გამოყენება:" >
-<!ENTITY folderStorage.label "ფოსტის შენახვა">
 <!ENTITY globalInbox.label "საერთო საფოსტო ყუთი (ადგილობრივი დასტების ანგარიშში)">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "'შემოსული' ამ სერვერის ანგარიშისთვის">

@@ -11,6 +11,7 @@
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "სხვა LDAP სერვერის გამოყენება:">
 <!ENTITY directories.accesskey     "d">
+<!ENTITY directoriesNone.label     "არა">
 
 <!-- am-addressing.xul -->
 

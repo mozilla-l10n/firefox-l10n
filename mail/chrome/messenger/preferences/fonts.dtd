@@ -6,7 +6,6 @@
 <!ENTITY  language.label                          "შრიფტები:">
 <!ENTITY  language.accesskey                      "t">
 
-<!ENTITY  typefaces.label                         "გარნიტურა">
 <!ENTITY  sizes.label                             "ზომა (პიქსელი)">
 <!ENTITY  proportionalSize.accesskey              "e">
 <!ENTITY  monospaceSize.accesskey                 "x">
@@ -20,8 +19,6 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "მონოსიგანის:">
 <!ENTITY  monospace.accesskey                     "m">
-
-<!ENTITY  fontsize.units                          "პიქსელი">
 
 <!ENTITY  font.langGroup.latin1                   "დასავლური">
 <!ENTITY  font.langGroup.latin2                   "ცენტრალურ ევროპული">
@@ -59,8 +56,6 @@
 <!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "კონტრასტული">
 <!ENTITY  useDefaultFontSansSerif.label           "ერთგვაროვანი">
-
-<!ENTITY  newLanguages.label                      "ახალი ენების მორგება შესაძლებელია ენების პანელიდან.">
 
 <!ENTITY  useDocumentFonts.label                  "წერილებში სხვა შრიფტების გამოყენების უფლება">
 <!ENTITY  useDocumentFonts.accesskey              "o">

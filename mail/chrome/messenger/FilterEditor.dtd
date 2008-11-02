@@ -12,12 +12,13 @@
 <!ENTITY highPriorityCmd.label "მაღალი">
 <!ENTITY highestPriorityCmd.label "უმაღლესი">
 
-<!ENTITY conditionDesc.label "მსგავსი წერილებისთვის:">
-<!ENTITY filterActionDesc.label "შესრულდეს:">
+<!ENTITY contextDesc.label "ფილტრებით სარგებლობა:">
+<!ENTITY contextDesc.accesskey "w">
+<!ENTITY contextIncoming.label "ფოსტის შემოწმებისას">
+<!ENTITY contextManual.label "ხელით შესრულებისას">
+<!ENTITY contextBoth.label "ფოსტის შემოწმების ან ხელით შესრულებისას">
+<!ENTITY filterActionDesc.label "შესრულდეს ეს ქმედებები:">
 <!ENTITY filterActionDesc.accesskey "P">
-
-<!ENTITY newFolderButton.label "ახალი დასტა…">
-<!ENTITY newFolderButton.accesskey "N">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "წერილის გადატანა -">

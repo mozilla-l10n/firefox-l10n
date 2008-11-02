@@ -31,43 +31,30 @@
 
 <!ENTITY emailLabel.label "ელფოსტა:">
 <!ENTITY emailLabel.accesskey "E">
-<!ENTITY emailDesc.label "მიუთითეთ თქვენი ელფოსტის მისამართი; ამ მისამართზე მოგივათ წერილები და დაგიბრუნდებათ პასუხები">
-<!-- LOCALIZATION NOTE (emailExample.label) : do not translate "user@example.net" in below line -->
-<!ENTITY emailExample.label "(მაგალითად: user@example.net).">
 
 <!-- Entities for Server page -->
 
 <!ENTITY serverTitle.label "სერვერის მონაცემები">
-<!ENTITY incomingServerTitle.label "შემომავალი ფოსტის სერვერი">
 <!ENTITY incomingServerTypeDesc.label "მიუთითეთ შემომავალი ფოსტის სერვერის ტიპი.">
-<!ENTITY incomingServerTypeLabel.label "სერვერის ტიპი:">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServerNameDesc.label "მიუთითეთ სახელი თქვენი შემომავალი ფოსტის სერვერისათვის (მაგალითად, &quot;mail.example.net&quot;).">
 <!ENTITY incomingServerLabel.label "შემომავალი ფოსტის სერვერი:">
 <!ENTITY incomingServerLabel.accesskey "S">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "მიუთითეთ სახელი თქვენი ჯგუფების (NNTP) სერვერისათვის (მაგალითად, &quot;news.example.net&quot;).">
-<!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
-<!ENTITY smtpServerTitle.label "გამავალი ფოსტის (SMTP) სერვერი">
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY smtpServerDesc.label "მიუთითეთ სახელი თქვენი გამავალი ფოსტის (SMTP) სერვერისათვის (მაგალითად, &quot;smtp.example.net&quot;).">
 <!ENTITY smtpServerLabel.label "გამავალი ფოსტის სერვერი:">
 <!ENTITY smtpServerLabel.accesskey "O">
 <!ENTITY newsServerLabel.label "ჯგუფების სერვერი:">
-<!ENTITY newsServerLabel.accesskey "N">
+<!ENTITY newsServerLabel.accesskey "w">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY nntpType.label "ჯგუფების სერვერი">
 
-<!-- for when the user has an SMTP server pre-configured -->
-<!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
-     this variable. Also, translate currentSmtpBefore.label and currentSmtpAfter.label as a single sentence,
-	  inserting text after the "&quot;" entity in currentSmtpAfter.label, if required grammatically
--->
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
@@ -104,7 +91,6 @@
 <!ENTITY accnameTitle.label "ანგარიშის სახელი">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "მიუთითეთ სახელი, რომლითაც ამ ანგარიშს ამოიცნობთ (მაგალითად, &quot;სამსახური&quot;, &quot;ბინა&quot; ან &quot;ჯგუფები&quot;).">
-<!ENTITY accnameExample.label "მაგალითად, სამსახურის, ბინის ან ჯგუფების ანგარიში">
 <!ENTITY accnameLabel.label "ანგარიშის სახელი:">
 <!ENTITY accnameLabel.accesskey "A">
 

@@ -1,8 +1,6 @@
 <!ENTITY itemFormatting.label             "გაფორმება">
-<!ENTITY itemTags.label                   "წარწერები">
-<!ENTITY itemFonts.label                  "შრიფტები">
+<!ENTITY itemTags.label                   "ჭდეები">
 
-<!ENTITY textBegin.label                  "ციტირებული ტექსტის სახე">
 <!ENTITY style.label                      "სტილი:">
 <!ENTITY style.accesskey                  "y">
 <!ENTITY regularStyle.label               "ჩვეულებრივი">
@@ -19,12 +17,10 @@
 <!ENTITY displayWidth.label               "ტექსტური წერილები">
 <!ENTITY plainText.label				          "შემდეგი შრიფტის გამოყენება:">
 <!ENTITY displayText.label				        "ციტირებული ტექსტური წერილების ჩვენებისას:">
-<!ENTITY viewingPlainText.label			      "ტექსტური წერილების ჩვენებისას:">
 <!ENTITY fixedWidth.label                 "მონოსიგანის შრიფტი">
 <!ENTITY fixedWidth.accesskey             "x">
 <!ENTITY variableWidth.label              "პროპორციული შრიფტი">
 <!ENTITY variableWidth.accesskey          "V">
-<!ENTITY readingMessagesHeader.label      "შემოსული წერილებისთვის">
 <!ENTITY colors.label                     "ფერები">
 <!ENTITY overrideColors.label             "წერილების ჩვენებისას შემდეგი ფერების გამოყენება:">
 <!ENTITY  textColor.label                 "ტექსტის ფერი:">

@@ -3,8 +3,6 @@
 <!ENTITY alwaysAsk.accesskey          "A">
 <!ENTITY neverAsk.label               "ყველა ჩანართის ამ დასტაში შენახვა:">
 <!ENTITY neverAsk.accesskey           "S">
-<!ENTITY desktop.label                "სამუშაო დაფა">
-<!ENTITY downloads.label              "ჩემი ჩამოტვირთვები">
 <!ENTITY chooseFolderWin.label        "ნუსხა…">
 <!ENTITY chooseFolderWin.accesskey    "B">
 <!ENTITY chooseFolderMac.label        "არჩევა…">
@@ -15,10 +13,3 @@
 <!ENTITY configureActions.label       "ქმედებების ჩვენება და რედაქტირება…">
 <!ENTITY configureActions.accesskey   "V">
 <!ENTITY fileTypesDescription.label   "&brandShortName; ავტომატურად შეინახავს ან გახსნის შემდეგი ტიპის ჩანართებს.">
-
-<!ENTITY fileTypeColName.label        "ფაილის ტიპი">
-<!ENTITY fileHandlerColName.label     "პროგრამა">
-<!ENTITY editFileHandler.label        "ქმედების შეცვლა…">
-<!ENTITY editFileHandler.accesskey    "a">
-<!ENTITY removeFileHandler.label      "ამოღება">
-<!ENTITY removeFileHandler.accesskey  "r">

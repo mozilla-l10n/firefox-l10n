@@ -5,13 +5,11 @@
 <!ENTITY neverEncrypt.label "არასოდეს (დაუშიფრავად)">
 <!ENTITY alwaysEncryptMessage.label "ყოველთვის (არ გაიგზავნება თუ ყველა ადრესატს არ გააჩნია სერთიფიკატი)">
 <!ENTITY encryptionCert.message "ამ სერტთიფიკატის გამოყენება გამოგზავნილი წერილების დასაშიფრად და გასაშიფრად:">
-<!ENTITY encryptionCert.notselected "სერთიფიკატი არ მითითებულა">
 <!ENTITY certificate.button "არჩევა…">
 <!ENTITY certificate_clear.button "გასუფთავება">
 <!ENTITY signingGroupTitle.label "ციფრული ხელმოწერა">
 <!ENTITY signMessage.label "ციფრული ხელმოწერილი წერილები (ნაგულისხმები)">
 <!ENTITY signingCert.message "ამ სერთიფიკატის გასაგზავნი წერილების ხელმოსაწერად გამოყენება:">
-<!ENTITY signingCert.notselected "სერთიფიკატი არ მითითებულა">
 
 <!ENTITY certificates.label     "სერთიფიკატები">
 <!ENTITY managecerts.label      "სერთიფიკატების ჩვენება">

@@ -43,12 +43,3 @@
 <!ENTITY antiVirus.intro      "&brandShortName;-ს შეუძლია ანტივირუსულ პროგრამებს გაუადვილოს შემოსული წერილების ვირუსებზე ანალიზი წერილების ადგილობრივად შენახვამდე.">
 <!ENTITY antiVirus.label      "ანტივირუსული პროგრამებისთვის შემოსული ცალკეული წერილების კარანტინში მოთავსების უფლება">
 <!ENTITY antiVirus.accesskey  "l">
-
-<!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
-<!ENTITY antiVirusCaption.label "ანტივირუსი">
-<!ENTITY paswords.label         "პაროლები">
-<!ENTITY emailScams.label       "შემოჭრა">
-<!ENTITY junkMail.label         "ჯართი">
-<!ENTITY itemIntrusions.label   "შემოჭრები">
-<!ENTITY itemIntrusionsAndPasswords.label  "შემოჭრები და პაროლები">
-<!ENTITY itemJunkMail.label     "ჯართი">
