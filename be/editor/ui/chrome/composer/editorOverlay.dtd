@@ -482,7 +482,7 @@
 <!ENTITY PreviewMode.label "Папярэдні прагляд">
 <!ENTITY PreviewMode.accesskey "г">
 <!ENTITY PreviewMode.tooltip "Адлюстраваць як WYSIWYG (як у азіральніку)">
-<!ENTITY SourceTabDirection "лнп">
+<!ENTITY SourceTabDirection "ltr">
 <!ENTITY structSelect.label "Вылучыць">
 <!ENTITY structSelect.accesskey "л">
 <!ENTITY structRemoveTag.label "Выдаліць тэг">

@@ -3,5 +3,3 @@
 <!ENTITY unreadColumn.label "Непрачытаных">
 <!ENTITY totalColumn.label "Усяго">
 <!ENTITY folderSizeColumn.label "Памер">
-<!ENTITY accounts.label "Рахункі">
-<!ENTITY accounts.img "chrome://messenger/skin/local-mailhost.gif">

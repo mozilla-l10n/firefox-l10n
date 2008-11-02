@@ -3,15 +3,12 @@
 <!ENTITY titleSeparator.label " - ">
 <!ENTITY newFolderCmd.label "Папка…">
 <!ENTITY newFolderCmd.accesskey "П">
-<!ENTITY newTabCmd.label "Новая ўстаўка">
-<!ENTITY newTabCmd.accesskey "Н">
 <!ENTITY closeTabCmd.label "Зачыніць устаўку">
 <!ENTITY closeTabCmd.accesskey "ч">
 <!ENTITY newVirtualFolderCmd.label "Захаваны пошук…">
 <!ENTITY newVirtualFolderCmd.accesskey "п">
 <!ENTITY newAccountCmd.label "Рахунак…">
 <!ENTITY newAccountCmd.accesskey "Р">
-<!ENTITY openMessageMenu.label "Адчыніць">
 <!ENTITY openMessageFileCmd.label "Адкрыць захаваны ліст…">
 <!ENTITY openMessageFileCmd.accesskey "А">
 <!ENTITY openAttachmentCmd.label "Далучэнні">
@@ -64,7 +61,6 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Папярэдні прагляд друку">
 <!ENTITY printPreviewCmd.accesskey "г">
-<!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "Уладкаваць старонку…">
 <!ENTITY printSetupCmd.accesskey "у">
 <!ENTITY deleteMsgCmd.label "Выдаліць ліст">
@@ -123,8 +119,6 @@
 <!ENTITY messagePaneWide.accesskey "Ш">
 <!ENTITY messagePaneVertical.label "Вертыкальны від">
 <!ENTITY messagePaneVertical.accesskey "В">
-<!ENTITY threadPaneWide.label "Шырокі спіс">
-<!ENTITY threadPaneWide.accesskey "ш">
 <!ENTITY showMessageCmd.label "Шыба лістоў">
 <!ENTITY showMessageCmd.accesskey "ш">
 <!ENTITY folderView.label "Папкі">
@@ -183,8 +177,6 @@
 <!ENTITY threads.accesskey "з">
 <!ENTITY allMsgsCmd.label "Усе">
 <!ENTITY allMsgsCmd.accesskey "У">
-<!ENTITY expandOrCollapseMenu.label "Разгарнуць/Згарнуць">
-<!ENTITY expandOrCollapseMenu.accesskey "г">
 <!ENTITY expandAllThreadsCmd.label "Разгарнуць усе нізкі">
 <!ENTITY expandAllThreadsCmd.accesskey "Р">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -235,8 +227,6 @@
 <!ENTITY pageSourceCmd.label "Зыходнік ліста">
 <!ENTITY pageSourceCmd.accesskey "ы">
 <!ENTITY pageSourceCmd.key "u">
-<!ENTITY searchMenu.label "Пошук">
-<!ENTITY searchMenu.accesskey "ш">
 <!ENTITY findMenu.label "Знайсці">
 <!ENTITY findMenu.accesskey "З">
 <!ENTITY findCmd.label "Знайсці ў гэтым лісце…">
@@ -357,8 +347,6 @@
 <!ENTITY markAsReadCmd.label "Прачытанымі">
 <!ENTITY markAsReadCmd.accesskey "ч">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "Непрачытанымі">
-<!ENTITY markAsUnreadCmd.accesskey "Н">
 <!ENTITY markThreadAsReadCmd.label "Нізку як прачытаную">
 <!ENTITY markThreadAsReadCmd.accesskey "Н">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -383,7 +371,6 @@
 <!ENTITY openMessageWindowCmd.accesskey "А">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY windowMenu.label "Акно">
-<!ENTITY windowMenu.accesskey "А">
 <!ENTITY tasksMenu.label "Прылады">
 <!ENTITY tasksMenu.accesskey "л">
 <!ENTITY addons.label "Дадаткі">
@@ -424,7 +411,6 @@
 <!ENTITY printButton.label "Друкаваць">
 <!ENTITY stopButton.label "Прыпыніць">
 <!ENTITY throbberItem.title "Паказнік дзейнасці">
-<!ENTITY updatesItem.title "Абнаўленні">
 <!ENTITY junkButton.label "Лухта">
 <!ENTITY notJunkButton.label "Не лухта">
 <!ENTITY addressBookButton.label "Адрасная кніга">
@@ -434,7 +420,6 @@
 <!ENTITY tagButton.label "Метка">
 <!ENTITY compactButton.label "Ушчыльніць">
 <!ENTITY advancedButton.tooltip "Пашыраны пошук лістоў">
-<!ENTITY clearButton.tooltip "Ачысціць крытэры пошуку і паказаць усе лісты">
 <!ENTITY getMsgButton.tooltip "Атрымаць новыя лісты">
 <!ENTITY getAllNewMsgCmd.label "Атрымаць усе новыя лісты">
 <!ENTITY getAllNewMsgCmd.accesskey "А">
@@ -500,8 +485,6 @@
 <!ENTITY folderContextSettings.accesskey "Н">
 <!ENTITY SearchNameOrEmail.label "Імя або адрас змяшчаюць:">
 <!ENTITY SearchNameOrEmail.accesskey "І">
-<!ENTITY clearButton.label "Ачысціць">
-<!ENTITY clearButton.accesskey "ч">
 <!ENTITY searchSubjectMenu.label "Тэма">
 <!ENTITY searchFromMenu.label "Ад">
 <!ENTITY searchSubjectOrFromMenu.label "Тэма або Ад">
@@ -520,7 +503,6 @@
 <!ENTITY statusColumn.label "Статус">
 <!ENTITY sizeColumn.label "Памер">
 <!ENTITY junkStatusColumn.label "Статус лухты">
-<!ENTITY linesColumn.label "Радкі">
 <!ENTITY unreadColumn.label "Непрачытаных">
 <!ENTITY totalColumn.label "Усяго">
 <!ENTITY readColumn.label "Прачытаных">
@@ -577,8 +559,6 @@
 <!ENTITY contextPrint.accesskey "Д">
 <!ENTITY contextPrintPreview.label "Папярэдні прагляд друку">
 <!ENTITY contextPrintPreview.accesskey "п">
-<!ENTITY contextDelete.label "Выдаліць">
-<!ENTITY contextDelete.accesskey "В">
 <!ENTITY junkBarMessage1.label "Пошта-лухта">
 <!ENTITY junkBarButton1.label "Не лухта">
 <!ENTITY junkInfoButton.label "?">
@@ -602,8 +582,6 @@
 <!ENTITY CopyEmailAddress.accesskey "э">
 <!ENTITY CreateFilterFrom.label "Стварыць сіта з…">
 <!ENTITY CreateFilterFrom.accesskey "c">
-<!ENTITY BlockAddress.label "Блакаваць адрас">
-<!ENTITY BlockAddress.accesskey "Б">
 <!ENTITY reportPhishingURL.label "Паведаміць пра э-паштовую ашуку">
 <!ENTITY reportPhishingURL.accesskey "П">
 <!ENTITY saveLinkAsCmd.label "Захаваць спасылку як…">

@@ -19,8 +19,6 @@
 <!ENTITY reuseExpRadio0.accesskey "н">
 <!ENTITY reuseExpRadio1.label "У існым акне лістоў">
 <!ENTITY reuseExpRadio1.accesskey "і">
-<!ENTITY reuseExpRadio2.label "Новая ўстаўка для ліста">
-<!ENTITY reuseExpRadio2.accesskey "ў">
 <!ENTITY configEditDesc.label "Пашыраная наладка">
 <!ENTITY configEdit.label "Рэдактар наладкі…">
 <!ENTITY configEdit.accesskey "Р">

@@ -69,7 +69,6 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "г">
 <!ENTITY deleteCmd.label "Выдаліць">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "д">
 <!ENTITY selectAllCmd.label "Вылучыць усё">
 <!ENTITY selectAllCmd.key "A">
@@ -90,7 +89,6 @@
 <!ENTITY viewToolbarsMenuNew.label "Паліцы прыладаў">
 <!ENTITY viewToolbarsMenuNew.accesskey "п">
 <!ENTITY showCompositionToolbarCmd.label "Прыладапаліца ўкладання">
-<!ENTITY showCompositionToolbarCmd.accesskey "ў">
 <!ENTITY showFormattingBarCmd.label "Прыладапаліца фарматавання">
 <!ENTITY showFormattingBarCmd.accesskey "ф">
 <!ENTITY showTaskbarCmd.label "Паліца статуса">
@@ -155,7 +153,6 @@
 <!ENTITY accountManagerCmd.accesskey "р">
 <!ENTITY accountManagerCmdUnix.accesskey "р">
 <!ENTITY preferencesCmd.label "Наладкі…">
-<!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "Н">
 <!ENTITY preferencesCmdUnix.label "Перавагі">
 <!ENTITY preferencesCmdUnix.accesskey "П">
@@ -192,9 +189,6 @@
 <!ENTITY subject.accesskey "Т">
 <!ENTITY attachments.label "Далучэнні">
 <!ENTITY attachments.accesskey "ч">
-<!ENTITY formatToolbar.boldChar "В">
-<!ENTITY formatToolbar.italicChar "Р">
-<!ENTITY formatToolbar.underlineChar "П">
 <!ENTITY SmileButton.tooltip "Уставіць тварык-усмешку">
 <!ENTITY smiley1Cmd.label "Усмешка">
 <!ENTITY smiley2Cmd.label "Пахмурны">

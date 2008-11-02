@@ -4,15 +4,11 @@
 <!ENTITY searchSubfolders.accesskey "о">
 <!ENTITY resetButton.label "Ачысціць">
 <!ENTITY resetButton.accesskey "ч">
-<!ENTITY optionsButton.label "Наладкі">
-<!ENTITY closeButton.label "Зачыніць">
 <!ENTITY openButton.label "Адчыніць">
 <!ENTITY openButton.accesskey "А">
 <!ENTITY deleteButton.label "Выдаліць">
 <!ENTITY deleteButton.accesskey "д">
 <!ENTITY searchDialogTitle.label "Пошук лістоў">
-<!ENTITY conditionDesc.label "Шукаць лісты, якія адпавядаюць:">
-<!ENTITY conditions.label "Крытэры">
 <!ENTITY results.label "Вынікі">
 <!ENTITY fileHereMenu.label "Пакласці тут">
 <!ENTITY fileHereMenu.accesskey "П">
@@ -41,7 +37,6 @@
 <!ENTITY statusColumn.label "Статус">
 <!ENTITY sizeColumn.label "Памер">
 <!ENTITY junkStatusColumn.label "Статус лухты">
-<!ENTITY linesColumn.label "Радкі">
 <!ENTITY unreadColumn.label "Непрачытаныя">
 <!ENTITY totalColumn.label "Усяго">
 <!ENTITY readColumn.label "Прачытаныя">

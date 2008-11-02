@@ -4,7 +4,6 @@
 <!ENTITY window.unixWidth "49em">
 <!ENTITY language.label "Шрыфты для:">
 <!ENTITY language.accesskey "Ш">
-<!ENTITY typefaces.label "Знакаўзор">
 <!ENTITY sizes.label "Памер (пікселяў)">
 <!ENTITY proportionalSize.accesskey "а">
 <!ENTITY monospaceSize.accesskey "м">
@@ -16,7 +15,6 @@
 <!ENTITY sans-serif.accesskey "б">
 <!ENTITY monospace.label "Роўнашырокі:">
 <!ENTITY monospace.accesskey "Р">
-<!ENTITY fontsize.units "пікселяў">
 <!ENTITY font.langGroup.latin1 "Заходняя">
 <!ENTITY font.langGroup.latin2 "Цэнтральна-Еўрапейская">
 <!ENTITY font.langGroup.japanese "Японская">
@@ -49,7 +47,6 @@
 <!ENTITY minSize.none "Няма">
 <!ENTITY useDefaultFontSerif.label "Serif">
 <!ENTITY useDefaultFontSansSerif.label "Sans Serif">
-<!ENTITY newLanguages.label "Новыя мовы могуць быць наладжаны з дапамогаю панелі моваў.">
 <!ENTITY useDocumentFonts.label "Дазволіць лістам карыстацца іншымі шрыфтамі">
 <!ENTITY useDocumentFonts.accesskey "і">
 <!ENTITY sendDefaultCharset.label "Выходная пошта:">

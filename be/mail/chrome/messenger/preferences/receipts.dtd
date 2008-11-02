@@ -1,5 +1,4 @@
 <!ENTITY dialog.title "Квіткі атрымання">
-<!ENTITY receiptSettings.label "Квіткі атрымання">
 <!ENTITY requestReceipt.label "Заўсёды патрабаваць квіток атрымання, калі дасылаюцца лісты">
 <!ENTITY requestReceipt.accesskey "З">
 <!ENTITY receiptArrive.label "Калі прыбывае квіток:">

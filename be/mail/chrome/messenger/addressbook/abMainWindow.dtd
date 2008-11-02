@@ -54,7 +54,6 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "у">
 <!ENTITY deleteCmd.label "Выдаліць">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "д">
 <!ENTITY deleteAbCmd.label "Выдаліць адрасную кнігу">
 <!ENTITY deleteCardCmd.label "Выдаліць картку">
@@ -106,7 +105,6 @@
 <!ENTITY exportCmd.label "Экспарт…">
 <!ENTITY exportCmd.accesskey "Э">
 <!ENTITY preferencesCmd.label "Наладкі…">
-<!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "Н">
 <!ENTITY preferencesCmdUnix.label "Перавагі">
 <!ENTITY preferencesCmdUnix.accesskey "П">

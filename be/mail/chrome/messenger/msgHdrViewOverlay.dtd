@@ -16,7 +16,6 @@
 <!ENTITY messageIdField2.label "вызначальнік-ліста">
 <!ENTITY inReplyToField2.label "у-адказе">
 <!ENTITY originalWebsite2.label "пляцоўка сеціва">
-<!ENTITY saveAll.label "Захаваць усе…">
 <!ENTITY editMessageDescription.label "Чарнавік ліста">
 <!ENTITY editMessageButton.label "Праўка…">
 <!ENTITY replyButton.label "адказаць…">

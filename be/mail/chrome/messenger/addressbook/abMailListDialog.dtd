@@ -5,7 +5,6 @@
 <!ENTITY ListNickName.label "Мянушка спіса:">
 <!ENTITY ListDescription.label "Апісанне:">
 <!ENTITY AddressTitle.label "Набярыце адрасы э-пошты, каб дадаць іх у адрасны спіс:">
-<!ENTITY RemoveButton.label "Прыняць">
 <!ENTITY UpButton.label "Рухаць угору">
 <!ENTITY DownButton.label "Рухаць уніз">
 <!ENTITY addToAddressBook.accesskey "Д">

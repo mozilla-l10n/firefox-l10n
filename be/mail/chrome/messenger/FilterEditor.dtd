@@ -15,8 +15,6 @@
 <!ENTITY contextBoth.label "Праверцы пошты і ручным выкананні">
 <!ENTITY filterActionDesc.label "Выканаць гэтыя дзеянні:">
 <!ENTITY filterActionDesc.accesskey "В">
-<!ENTITY newFolderButton.label "Новая папка…">
-<!ENTITY newFolderButton.accesskey "Н">
 <!ENTITY moveMessage.label "Рухаць ліст у">
 <!ENTITY copyMessage.label "Капіяваць ліст у">
 <!ENTITY forwardTo.label "Накіраваць ліст да">

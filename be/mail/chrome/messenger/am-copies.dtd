@@ -4,12 +4,8 @@
 <!ENTITY fccMailFolder.accesskey "З">
 <!ENTITY fccReplyFollowsParent.label "Змяшчаць адказы ў папку ліста, на які даецца адказ">
 <!ENTITY fccReplyFollowsParent.accesskey "а">
-<!ENTITY chooseFolderButton.label "Выбраць папку…">
 <!ENTITY bccAddress.label "Дасылаць схаваныя копіі на гэтыя адрасы э-пошты:">
 <!ENTITY bccAddress.accesskey "С">
-<!ENTITY specialFolderTitle.label "Асаблівыя папкі">
-<!ENTITY draftMailFolder.label "Трымаць чарнавікі лістоў у:">
-<!ENTITY templateMailFolder.label "Трымаць узоры лістоў у:">
 <!ENTITY saveMessageDlg.label "Паказваць дыялог пацвярджэння пасля захавання ліста">
 <!ENTITY saveMessageDlg.accesskey "П">
 <!ENTITY sentFolderOn.label "Папку &quot;Дасланыя&quot; ў:">

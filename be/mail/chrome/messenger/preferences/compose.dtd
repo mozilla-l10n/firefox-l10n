@@ -1,8 +1,6 @@
 <!ENTITY itemGeneral.label "Асноўныя">
 <!ENTITY itemAutoComplete.label "Адрасаванне">
 <!ENTITY itemSpellCheck.label "Праверка правапісу">
-<!ENTITY itemSendFormat.label "Фармат дасылання">
-<!ENTITY forwardReply.label "Накіраванне лістоў">
 <!ENTITY forwardMsg.label "Накіроўваць лісты:">
 <!ENTITY forwardMsg.accesskey "Н">
 <!ENTITY inline.label "Усярэдзіне">
@@ -22,7 +20,6 @@
 <!ENTITY bgColor.accesskey "ф">
 <!ENTITY restoreHTMLDefaults.label "Аднавіць змоўчныя">
 <!ENTITY restoreHTMLDefaults.accesskey "А">
-<!ENTITY sendingMessagesHeader.label "Укладанне лістоў">
 <!ENTITY spellCheck.label "Правяраць правапіс перад дасыланнем">
 <!ENTITY spellCheck.accesskey "п">
 <!ENTITY spellCheckInline.label "Дазволіць праверку правапісу падчас набору">
@@ -46,9 +43,6 @@
 <!ENTITY directoriesNone.label "Няма">
 <!ENTITY editDirectories.label "Рэдагаваць дырэкторыі…">
 <!ENTITY editDirectories.accesskey "Р">
-<!ENTITY matchText.label "Калі існуе супадзенне ў вашых мясцовых адрасных кнігах:">
-<!ENTITY skipDirectory.label "Не шукаць у дырэкторыі">
-<!ENTITY sendOptionsCaption.label "Наладкі дасылання і HTML">
 <!ENTITY sendOptionsDescription.label "Наладкі паводзінаў пры фарматаванні тэксту">
 <!ENTITY sendOptions.label "Наладкі дасылання…">
 <!ENTITY sendOptions.accesskey "с">

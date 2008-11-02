@@ -3,8 +3,6 @@
 <!ENTITY alwaysAsk.accesskey "П">
 <!ENTITY neverAsk.label "Захоўваць усе далучэнні ў гэтую папку:">
 <!ENTITY neverAsk.accesskey "З">
-<!ENTITY desktop.label "Працоўны стол">
-<!ENTITY downloads.label "Мае загрузкі">
 <!ENTITY chooseFolderWin.label "Агляд…">
 <!ENTITY chooseFolderWin.accesskey "А">
 <!ENTITY chooseFolderMac.label "Выбраць…">
@@ -13,9 +11,3 @@
 <!ENTITY configureActions.label "Прагляд і праўка дзеянняў…">
 <!ENTITY configureActions.accesskey "г">
 <!ENTITY fileTypesDescription.label "&brandShortName; можа самастойна загружаць або адчыняць далучэнні пэўных тыпаў.">
-<!ENTITY fileTypeColName.label "Тып файла">
-<!ENTITY fileHandlerColName.label "Прыстасаванне">
-<!ENTITY editFileHandler.label "Змяніць дзеянне…">
-<!ENTITY editFileHandler.accesskey "З">
-<!ENTITY removeFileHandler.label "Выдаліць">
-<!ENTITY removeFileHandler.accesskey "В">

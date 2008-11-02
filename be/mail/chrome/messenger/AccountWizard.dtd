@@ -16,17 +16,12 @@
 <!ENTITY fullnameLabel.accesskey "В">
 <!ENTITY emailLabel.label "Адрас э-пошты:">
 <!ENTITY emailLabel.accesskey "Э">
-<!ENTITY emailDesc.label "Увядзіце ваш адрас э-пошты; той адрас, якім іншыя будуць карыстацца, каб дасылаць лісты да вас">
-<!ENTITY emailExample.label "(напрыклад: user@example.net).">
 <!ENTITY serverTitle.label "Звесткі аб паслугачы">
-<!ENTITY incomingServerTitle.label "Уваходны паслугач">
 <!ENTITY incomingServerTypeDesc.label "Вылучыце тып уваходнага паслугача, якім вы карыстаецеся.">
-<!ENTITY incomingServerTypeLabel.label "Тып паслугача:">
 <!ENTITY incomingServerNameDesc.label "Увядзіце назву вашага ўваходнага паслугача (напрыклад: &quot;mail.example.net&quot;).">
 <!ENTITY incomingServerLabel.label "Уваходны паслугач:">
 <!ENTITY incomingServerLabel.accesskey "П">
 <!ENTITY newsServerNameDesc.label "Увядзіце назву вашага паслугача навінаў (NNTP) (напрыклад: &quot;news.example.net&quot;).">
-<!ENTITY smtpServerTitle.label "Выходны паслугач (SMTP)">
 <!ENTITY smtpServerDesc.label "Увядзіце назву вашага выходнага паслугача (SMTP) (напрыклад: &quot;smtp.example.net&quot;).">
 <!ENTITY smtpServerLabel.label "Выходны паслугач:">
 <!ENTITY smtpServerLabel.accesskey "В">
@@ -36,7 +31,6 @@
 <!ENTITY imapType.accesskey "I">
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY nntpType.label "Паслугач навінаў">
 <!ENTITY haveSmtp1.prefix "Ваш існы выходны паслугач (SMTP), &quot;">
 <!ENTITY haveSmtp1.suffix "&quot;, будзе выкарыстоўвацца. Вы можаце змяніць наладжванні выходнага паслугача, калі выбераце Наладжванні Рахунку Пошты і Навінакупаў у меню Рэдагаваць.">
 <!ENTITY loginTitle.label "Імёны карыстальнікаў">
@@ -53,7 +47,6 @@
 <!ENTITY haveSmtp3.suffix "&quot;, тоесны вашаму ўваходнаму паслугачу, ваша ўваходнае імя карыстальніка будзе ўжывацца, каб зварочвацца да яго. Вы можаце змяніць наладжванні выходнага паслугача, калі выбераце Наладжванні Рахунку ў меню Прылады.">
 <!ENTITY accnameTitle.label "Назва рахунку">
 <!ENTITY accnameDesc.label "Увядзіце пажаданую назву для спасылання на гэты рахунак (напрыклад: &quot;Праца&quot;, &quot;Хатні Рахунак&quot; ці &quot;Навіны&quot;).">
-<!ENTITY accnameExample.label "Напрыклад: Праца, Хатні Рахунак ці  Навіны">
 <!ENTITY accnameLabel.label "Назва рахунку:">
 <!ENTITY accnameLabel.accesskey "Р">
 <!ENTITY completionTitle.label "Віншаванні!">
