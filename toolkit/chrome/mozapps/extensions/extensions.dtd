@@ -112,6 +112,7 @@
 <!ENTITY insecureUpdate.label             "უსაფრთხო განახლეწბებს არ უზრუნველყოფს.">
 <!ENTITY needsDependencies.label          "საჭიროებს დამატებით ელემენტებს.">
 <!ENTITY blocklisted.label                "ეს მოდული ამორთულია თქვენი უსაფრთხოების მიზნით.">
+<!ENTITY softBlocklisted.label            "ცნობილია, რომ იწვევს უსაფრთხოების ან სტაბილობის პრობლემებს.">
 <!ENTITY toBeDisabled.label               "ეს მოდული ამოირთვება &brandShortName; ახალ სეანსზე.">
 <!ENTITY toBeEnabled.label                "ეს მოდული ჩაირთვება &brandShortName; ახალ სეანსზე.">
 <!ENTITY toBeInstalled.label              "ეს მოდული ჩაიდგმება &brandShortName; ახალ სეანსზე.">
@@ -168,3 +169,6 @@
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "მიღება და ჩადგმა…">
+
+<!ENTITY blocklist.blocked.label          "დაბლოკილია">
+<!ENTITY blocklist.checkbox.label         "ამორთვა">
