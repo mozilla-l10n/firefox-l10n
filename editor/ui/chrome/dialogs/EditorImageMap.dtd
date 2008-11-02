@@ -45,60 +45,51 @@
 <!-- Menu Items -->
 <!-- File menu -->
 <!ENTITY mapfileMenu.label "ფაილი">
-<!ENTITY mapfilemenu.accesskey "f">
+<!ENTITY mapfileMenu.accesskey "f">
 <!ENTITY clearCmd.label "გასუფთავება">
-<!ENTITY mapfileclear.accesskey "a">
+<!ENTITY clearCmd.accesskey "a">
 <!ENTITY closeCmd.label "დახურვა">
-<!ENTITY mapfileclose.accesskey "c">
+<!ENTITY closeCmd.accesskey "c">
 
 <!-- Edit menu -->
 <!ENTITY mapeditMenu.label "რედაქტირება">
-<!ENTITY mapeditmenu.accesskey "e">
+<!ENTITY mapeditMenu.accesskey "e">
 <!ENTITY cutCmd.label "ამოჭრა">
-<!ENTITY mapeditcut.accesskey "t">
+<!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "კოპირება">
-<!ENTITY mapeditcopy.accesskey "c">
+<!ENTITY copyCmd.accesskey "c">
 <!ENTITY pasteCmd.label "ჩასმა">
-<!ENTITY mapeditpaste.accesskey "p">
+<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY selectallCmd.label "სრული მონიშვნა">
-<!ENTITY mapselectall.accesskey "s">
+<!ENTITY selectallCmd.accesskey "s">
 <!ENTITY propsCmd.label "აქტიური დეტალის პარამეტრები">
-<!ENTITY mapeditprops.accesskey "h">
+<!ENTITY propsCmd.accesskey "h">
 
 <!-- View menu -->
 <!ENTITY mapviewMenu.label "ჩვენება">
-<!ENTITY mapviewmenu.accesskey "v">
+<!ENTITY mapviewMenu.accesskey "v">
 <!ENTITY showhideTbarCmd.label "პულტის დამალვა">
-<!ENTITY mapviewtbar.accesskey "t">
+<!ENTITY showhideTbarCmd.accesskey "t">
 <!-- Scaling -->
 <!ENTITY mapviewScale.label "მასშტაბი">
-<!ENTITY mapviewscale.accesskey "S">
+<!ENTITY mapviewScale.accesskey "S">
 <!ENTITY apercentCmd.label "100">
-<!ENTITY zoomone.accesskey "1">
+<!ENTITY apercentCmd.accesskey "1">
 <!ENTITY bpercentCmd.label "200">
-<!ENTITY zoomtwo.accesskey "2">
+<!ENTITY bpercentCmd.accesskey "2">
 <!ENTITY cpercentCmd.label "400">
-<!ENTITY zoomthree.accesskey "4">
-<!-- end scaling-->
-<!ENTITY contrastCmd.label "კონტრასტი">
-<!ENTITY contrast.accesskey "n">
-
-<!-- Help menu -->
-<!ENTITY maphelpMenu.label "კარნახი">
-<!ENTITY maphelpmenu.accesskey "h">
-<!ENTITY aboutCmd.label "შესახებ">
-<!ENTITY about.accesskey "b">
+<!ENTITY cpercentCmd.accesskey "4">
 
 <!ENTITY zoominCmd.label "მოახლოება">
 <!ENTITY zoomoutCmd.label "დაშორება">
-<!ENTITY delSpotCmd.label "აქტიური დეტალის წაშლა">
+<!ENTITY delSpotCmd.label "დეტალის წაშლა">
 
 <!-- Keys -->
-<!ENTITY clear.accesskey "d">
-<!ENTITY selectall.accesskey "a">
-<!ENTITY close.accesskey "l">
-<!ENTITY cut.accesskey "x">
-<!ENTITY copy.accesskey "c">
-<!ENTITY paste.accesskey "v">
-<!ENTITY props.accesskey "p">
-<!ENTITY tbar.accesskey "t">
+<!ENTITY clear.key "d">
+<!ENTITY selectall.key "a">
+<!ENTITY close.key "l">
+<!ENTITY cut.key "x">
+<!ENTITY copy.key "c">
+<!ENTITY paste.key "v">
+<!ENTITY props.key "p">
+<!ENTITY tbar.key "t">

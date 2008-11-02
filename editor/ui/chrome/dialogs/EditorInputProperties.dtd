@@ -52,11 +52,13 @@
 
 <!ENTITY InputSettings.label "ველის პარამეტრები">
 <!ENTITY InputName.label "ველის სახელი:">
+<!ENTITY InputName.accesskey "N">
 <!ENTITY GroupName.label "ჯგუფის სახელი:">
-<!ENTITY Name.accesskey "N">
+<!ENTITY GroupName.accesskey "N">
 <!ENTITY InputValue.label "ველის მნიშვნელობა:">
+<!ENTITY InputValue.accesskey "V">
 <!ENTITY InitialValue.label "საწყისი მნიშვნელობა:">
-<!ENTITY Value.accesskey "V">
+<!ENTITY InitialValue.accesskey "V">
 <!ENTITY InputChecked.label "თავიდანვე ჩართული">
 <!ENTITY InputChecked.accesskey "C">
 <!ENTITY InputSelected.label "თავიდანვე შერჩეული">

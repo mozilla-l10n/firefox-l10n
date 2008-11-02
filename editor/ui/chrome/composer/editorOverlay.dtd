@@ -44,158 +44,156 @@
 
 <!-- File menu items -->
 <!ENTITY fileMenu.label "ფაილი">
-<!ENTITY filemenu.accesskey "f">
+<!ENTITY fileMenu.accesskey "F">
 <!ENTITY newBlankPageCmd.label "ახალი სუფთა გვერდი">
-<!ENTITY newBlankPage.accesskey "P" >
+<!ENTITY newBlankPageCmd.accesskey "P" >
 <!ENTITY newMenu.label "ახალი">
-<!ENTITY openFileCmd.label "ფაილის გახსნა...">
-<!ENTITY fileopen.accesskey "o">
-<!ENTITY fileopen.keybinding "o">
-<!ENTITY openremoteCmd.label "ვებგვერდის გახსნა...">
-<!ENTITY fileopenremote.accesskey "l">
-<!ENTITY fileopenremote.keybinding "l">
+<!ENTITY openFileCmd.label "ფაილის გახსნა…">
+<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY openFileCmd.key "O">
+<!ENTITY openRemoteCmd.label "ვებგვერდის გახსნა…">
+<!ENTITY openRemoteCmd.accesskey "L">
+<!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "ბოლო გვერდები">
-<!ENTITY filerecentmenu.accesskey "r">
+<!ENTITY fileRecentMenu.accesskey "R">
 <!ENTITY fileRevert.label "აღდგენა">
-<!ENTITY filerevert.accesskey "v">
+<!ENTITY fileRevert.accesskey "v">
 <!ENTITY saveCmd.label "ჩაწერა">
-<!ENTITY filesave.accesskey "s">
-<!ENTITY filesave.keybinding "s">
-<!ENTITY saveAsCmd.label "ჩაწერა როგორც...">
-<!ENTITY filesaveas.accesskey "A">
+<!ENTITY saveCmd.accesskey "S">
+<!ENTITY saveCmd.key "S">
+<!ENTITY saveAsCmd.label "ჩაწერა როგორც…">
+<!ENTITY saveAsCmd.accesskey "A">
 
 <!ENTITY publishCmd.label "გამოქვეყნება">
-<!ENTITY publishcmd.accesskey "b">
-<!ENTITY publishAsCmd.label "გამოქვეყნება როგორც...">
-<!ENTITY publishas.accesskey "h">
-<!ENTITY exportToTextCmd.label "ექსპორტი ტექსტად...">
-<!ENTITY fileexporttotext.accesskey "T">
+<!ENTITY publishCmd.accesskey "b">
+<!ENTITY publishCmd.key "S">
+<!ENTITY publishAsCmd.label "გამოქვეყნება როგორც…">
+<!ENTITY publishAsCmd.accesskey "h">
+<!ENTITY exportToTextCmd.label "ექსპორტი ტექსტად…">
+<!ENTITY exportToTextCmd.accesskey "T">
 <!ENTITY saveAsChangeEncodingCmd.label "ჩაწერა კოდირებით">
-<!ENTITY filesaveandchangeencoding.accesskey "E">
+<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
 <!ENTITY previewCmd.label "გვერდის გადაფურცვლა">
-<!ENTITY filepreview.accesskey "w">
-<!ENTITY sendPageCmd.label "გვერდის გაგზავნა...">
-<!ENTITY sendPage.accesskey "d">
-<!ENTITY printSetupCmd.label "გვერდის პარამეტრები...">
-<!ENTITY fileprintsetup.accesskey "u">
+<!ENTITY previewCmd.accesskey "w">
+<!ENTITY sendPageCmd.label "გვერდის გაგზავნა…">
+<!ENTITY sendPageCmd.accesskey "d">
+<!ENTITY printSetupCmd.label "გვერდის პარამეტრები…">
+<!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "ბეჭდვის ესკიზი">
-<!ENTITY fileprintpreview.accesskey "v">
-<!ENTITY printCmd.label "ბეჭდვა...">
-<!ENTITY printButtonCmd.label "ბეჭდვა...">
-<!ENTITY fileprint.accesskey "p">
-<!ENTITY fileprint.keybinding "p">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printButtonCmd.label "ბეჭდვა…">
+<!ENTITY printCmd.label "ბეჭდვა…">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.key "P">
 <!ENTITY closeCmd.label "დახურვა">
-<!ENTITY fileclose.accesskey "c">
-<!ENTITY fileclose.keybinding "w">
-<!ENTITY exitCmd.label "დასრულება">
-<!ENTITY fileexit.accesskey "q">
-<!ENTITY fileexit.keybinding "q">
+<!ENTITY closeCmd.accesskey "C">
+<!ENTITY closeCmd.key "W">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "რედაქტირება">
-<!ENTITY editmenu.accesskey "e">
+<!ENTITY editMenu.accesskey "E">
 <!ENTITY pasteNoFormatting.label "ჩასმა ფორმატირების გარეშე">
 <!ENTITY pasteNoFormatting.accesskey "o">
+<!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "ჩასმა როგორც">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY publishSettings.label "გამოქვეყნების პარამეტრები...">
+<!ENTITY publishSettings.label "გამოქვეყნების პარამეტრები…">
 <!ENTITY publishSettings.accesskey "b">
 
 <!-- For a "Paste" submenu when more than 1 
      clipboard formats are available -->
 <!ENTITY pasteHTMLCmd.label "HTML">
-<!ENTITY pasteHTML.accesskey "h">
+<!ENTITY pasteHTMLCmd.accesskey "H">
 <!ENTITY pasteTextCmd.label "ტექსტი">
-<!ENTITY pasteText.accesskey "t">
+<!ENTITY pasteTextCmd.accesskey "T">
 <!ENTITY pasteImageCmd.label "ნახატი">
-<!ENTITY pasteImage.accesskey "i">
+<!ENTITY pasteImageCmd.accesskey "I">
 <!ENTITY pasteRowsCmd.label "მწკრივები">
-<!ENTITY pasteRows.accesskey "r">
+<!ENTITY pasteRowsCmd.accesskey "R">
 <!ENTITY pasteColumnsCmd.label "სვეტები">
-<!ENTITY pasteColumns.accesskey "c">
+<!ENTITY pasteColumnsCmd.accesskey "C">
 <!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
      Set to: "Table" or "Nested Table" depending on context 
      This accesskey must be in both strings -->
-<!ENTITY pasteTable.accesskey "a">
+<!ENTITY pasteTableCmd.accesskey "a">
 <!ENTITY pasteLinkCmd.label "ბმა">
-<!ENTITY editpastelink.accesskey "l">
+<!ENTITY pasteLinkCmd.accesskey "L">
 <!ENTITY pasteAsQuotationCmd.label "ჩასმა ბრჭყალებით">
-<!ENTITY editpastequotation.accesskey "q">
-<!ENTITY editpastequotation.keybinding "v">
+<!ENTITY pasteAsQuotationCmd.accesskey "Q">
 <!ENTITY editStripQuotesCmd.label "ბრჭყალების მოხსნა">
 <!ENTITY editRewrapCmd.label "გადატანა">
-<!ENTITY findCmd.label "ძიება და შეცვლა...">
-<!ENTITY editfind.accesskey "f">
-<!ENTITY editfind.keybinding "f">
-<!ENTITY editfind.keybinding2 "VK_F19">
+<!ENTITY findCmd.label "ძიება და შეცვლა…">
+<!ENTITY findCmd.accesskey "F">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.key2 "VK_F19">
 <!ENTITY findAgainCmd.label "კვლავძიება">
-<!ENTITY editfindnext.accesskey "g">
-<!ENTITY editfindnext.keybinding "g">
-<!ENTITY editfindnext.keybinding2 "VK_F3">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "წინას პოვნა">
-<!ENTITY editfindprev.accesskey "v">
-<!ENTITY editfindprev.keybinding "g">
-<!ENTITY editfindprev.keybinding2 "VK_F3">
+<!ENTITY findPrevCmd.accesskey "v">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "მართლწერის შემოწმება ტექსტის შეტანისას">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd.label "მართლწერის შემოწმება">
-<!ENTITY editcheckspelling.accesskey "h">
-<!ENTITY editcheckspelling.keybinding "k">
+<!ENTITY checkSpellingCmd.accesskey "h">
+<!ENTITY checkSpellingCmd.key "K">
 <!ENTITY validateCmd.label "HTML-ის შემოწმება">
-<!ENTITY validate.accesskey "v">
+<!ENTITY validateCmd.accesskey "V">
 <!ENTITY checkLinksCmd.label "ბმების შემოწმება">
 
 <!-- View menu items -->
 <!ENTITY viewPageSource.label "გვერდის წყარო">
-<!ENTITY viewpagesource.accesskey "s">
+<!ENTITY viewPageSource.accesskey "S">
 <!ENTITY viewParagraphMarks.label "პარაგრაფის ნიშანები">
-<!ENTITY viewparagraphmarks.accesskey "p">
+<!ENTITY viewParagraphMarks.accesskey "P">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "ჩამატება">
-<!ENTITY insertmenu.accesskey "i">
-<!ENTITY insertLinkCmd.label "ბმა...">
-<!ENTITY insertlink.accesskey "l">
-<!ENTITY insertlink.keybinding "l">
-<!ENTITY insertAnchorCmd.label "სახელობითი ღუზა...">
-<!ENTITY insertanchor.accesskey "A">
-<!ENTITY insertImageCmd.label "ნახატი...">
-<!ENTITY insertimage.accesskey "i">
-<!ENTITY insertImageMapCmd.label "ნახატის მართვა...">
+<!ENTITY insertMenu.accesskey "I">
+<!ENTITY insertLinkCmd.label "ბმა…">
+<!ENTITY insertLinkCmd.accesskey "L">
+<!ENTITY insertLinkCmd.key "L">
+<!ENTITY insertAnchorCmd.label "სახელობითი ღუზა…">
+<!ENTITY insertAnchorCmd.accesskey "A">
+<!ENTITY insertImageCmd.label "ნახატი…">
+<!ENTITY insertImageCmd.accesskey "I">
+<!ENTITY insertImageMapCmd.label "ნახატის მართვა…">
 <!ENTITY insertHLineCmd.label "ჰორიზონტალი">
-<!ENTITY inserthline.accesskey "o">
-<!ENTITY insertTableCmd.label "ცხრილი...">
-<!ENTITY inserttable.accesskey "t">
+<!ENTITY insertHLineCmd.accesskey "o">
+<!ENTITY insertTableCmd.label "ცხრილი…">
+<!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertFormMenu.label "ფორმა">
-<!ENTITY insertformmenu.accesskey "F">
-<!ENTITY insertHTMLCmd.label "HTML...">
-<!ENTITY insertHTMLCmd.accesskey "h">
-<!ENTITY insertCharsCmd.label "ასო-ნიშნები...">
-<!ENTITY insertchars.accesskey "C">
+<!ENTITY insertFormMenu.accesskey "F">
+<!ENTITY insertHTMLCmd.label "HTML…">
+<!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertCharsCmd.label "ასო-ნიშნები…">
+<!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakCmd.label "სტრიქონის წყვეტა">
-<!ENTITY insertbreak.accesskey "b">
+<!ENTITY insertBreakCmd.accesskey "B">
 <!ENTITY insertBreakAllCmd.label "წყვეტა ნახატ(ებ)ის ქვემოთ">
-<!ENTITY insertbreakall.accesskey "k">
+<!ENTITY insertBreakAllCmd.accesskey "k">
 
 <!-- Insert form menu items -->
-<!ENTITY insertFormCmd.label "ფორმის განსაზღვრა...">
-<!ENTITY insertform.accesskey "D">
-<!ENTITY insertInputTagCmd.label "ფორმის ველი...">
-<!ENTITY insertinputtag.accesskey "e">
-<!ENTITY insertInputImageCmd.label "ფორმის ნახატი...">
-<!ENTITY insertinputimage.accesskey "I">
-<!ENTITY insertTextAreaCmd.label "ტექსტის არე...">
-<!ENTITY inserttextarea.accesskey "T">
-<!ENTITY insertSelectCmd.label "შერჩევის ნუსხა...">
-<!ENTITY insertselect.accesskey "S">
-<!ENTITY insertButtonCmd.label "ღილაკის მითითება...">
-<!ENTITY insertbutton.accesskey "B">
+<!ENTITY insertFormCmd.label "ფორმის განსაზღვრა…">
+<!ENTITY insertFormCmd.accesskey "D">
+<!ENTITY insertInputTagCmd.label "ფორმის ველი…">
+<!ENTITY insertInputTagCmd.accesskey "e">
+<!ENTITY insertInputImageCmd.label "ფორმის ნახატი…">
+<!ENTITY insertInputImageCmd.accesskey "I">
+<!ENTITY insertTextAreaCmd.label "ტექსტის არე…">
+<!ENTITY insertTextAreaCmd.accesskey "T">
+<!ENTITY insertSelectCmd.label "შერჩევის ნუსხა…">
+<!ENTITY insertSelectCmd.accesskey "S">
+<!ENTITY insertButtonCmd.label "ღილაკის მითითება…">
+<!ENTITY insertButtonCmd.accesskey "B">
 <!ENTITY insertLabelCmd.label "იარლიყის მითითება">
-<!ENTITY insertlabel.accesskey "L">
-<!ENTITY insertFieldSetCmd.label "ველების მითითება...">
-<!ENTITY insertfieldset.accesskey "F">
+<!ENTITY insertLabelCmd.accesskey "L">
+<!ENTITY insertFieldSetCmd.label "ველების მითითება…">
+<!ENTITY insertFieldSetCmd.accesskey "F">
 <!ENTITY insertIsIndexCmd.label "ძიება ინდექსში">
-<!ENTITY insertisindex.accesskey "x">
+<!ENTITY insertIsIndexCmd.accesskey "x">
 
 <!-- Used just in context popup. -->
 <!ENTITY spellCheckNoSuggestions.label "(შემოთავაზებები ვერ მოიძებნა)">
@@ -203,99 +201,99 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "ლექსიკონში დამატება">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY createLinkCmd.label "ბმის შექმნა...">
-<!ENTITY createlink.accesskey "k">
+<!ENTITY createLinkCmd.label "ბმის შექმნა…">
+<!ENTITY createLinkCmd.accesskey "k">
 <!ENTITY editLinkCmd.label "ბმის რედაქტირება ახალ ფანჯარაში">
-<!ENTITY editlink.accesskey "i">
+<!ENTITY editLinkCmd.accesskey "i">
 <!-- (Toplevel Edit menu uses utilityOverlay) -->
 <!ENTITY undoCmd.label "დაბრუნება">
-<!ENTITY undo.accesskey "u">
+<!ENTITY undoCmd.accesskey "U">
 <!ENTITY redoCmd.label "გამეორება">
-<!ENTITY redo.accesskey "r">
+<!ENTITY redoCmd.accesskey "R">
 <!ENTITY cutCmd.label "ამოჭრა">
-<!ENTITY cut.accesskey "t">
+<!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "კოპირება">
-<!ENTITY copy.accesskey "c">
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "ჩასმა">
-<!ENTITY paste.accesskey "p">
+<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY deleteCmd.label "წაშლა">
-<!ENTITY delete.accesskey "d">
+<!ENTITY deleteCmd.accesskey "D">
 <!ENTITY clearCmd.label "გაწმენდა">
-<!ENTITY clear.accesskey "l">
+<!ENTITY clearCmd.accesskey "l">
 <!ENTITY selectAllCmd.label "სრული მონიშვნა">
-<!ENTITY selectall.accesskey "a">
+<!ENTITY selectAllCmd.accesskey "A">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "შრიფტის არჩევა">
 <!ENTITY fontfaceMenu.label "შრიფტი">
-<!ENTITY formatfontmenu.accesskey "f">
+<!ENTITY fontfaceMenu.accesskey "F">
 <!ENTITY fontVarWidth.label "პროპორციული">
-<!ENTITY fontvarwidth.accesskey "v">
+<!ENTITY fontVarWidth.accesskey "V">
 <!ENTITY fontFixedWidth.label "მონოსიგანის">
-<!ENTITY fontfixedwidth.accesskey "x">
-<!ENTITY formatfontfixed.keybinding "t">
-<!ENTITY fontHelveticaFont.label "Helvetica, Arial">
-<!ENTITY fonthelvetica.accesskey "l">
+<!ENTITY fontFixedWidth.accesskey "x">
+<!ENTITY fontFixedWidth.key "T">
+<!ENTITY fontHelvetica.label "Helvetica, Arial">
+<!ENTITY fontHelvetica.accesskey "l">
 <!ENTITY fontTimes.label "Times">
-<!ENTITY fonttimes.accesskey "t">
+<!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
-<!ENTITY fontcourier.accesskey "c">
+<!ENTITY fontCourier.accesskey "C">
 <!ENTITY localfontfaceMenu.label "თქვენი შრიფტები">
-<!ENTITY localfontmenu.accesskey "f">
+<!ENTITY localfontfaceMenu.accesskey "F">
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "შრიფტის ზომის არჩევა">
 <!ENTITY decreaseFontSize.label "შემცირება">
-<!ENTITY decreasefontsize.accesskey "r">
-<!ENTITY decreaseFontSize.keybinding "-">
+<!ENTITY decreaseFontSize.accesskey "r">
+<!ENTITY decreaseFontSize.key "-">
 <!ENTITY increaseFontSize.label "გაზრდა">
-<!ENTITY increasefontsize.accesskey "g">
-<!ENTITY increaseFontSize.keybinding "+">
-<!ENTITY increaseFontSize.keybinding2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY increaseFontSize.accesskey "g">
+<!ENTITY increaseFontSize.key "+">
+<!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
 
-<!ENTITY fontsizeMenu.label "ზომა">
-<!ENTITY formatsizemenu.accesskey "z">
-<!ENTITY size-xx-smallCmd.label "xx-პატარა">
-<!ENTITY size-xx-small.accesskey "a">
+<!ENTITY fontSizeMenu.label "ზომა">
+<!ENTITY fontSizeMenu.accesskey "z">
+<!ENTITY size-xx-smallCmd.label "xx-პაწია">
+<!ENTITY size-xx-smallCmd.accesskey "a">
 <!ENTITY size-x-smallCmd.label "x-პატარა">
-<!ENTITY size-x-small.accesskey "m">
-<!ENTITY size-smallCmd.label "პატარა">
-<!ENTITY size-small.accesskey "s">
+<!ENTITY size-x-smallCmd.accesskey "m">
+<!ENTITY size-smallCmd.label "მომცრო">
+<!ENTITY size-smallCmd.accesskey "s">
 <!ENTITY size-mediumCmd.label "საშუალო">
-<!ENTITY size-medium.accesskey "d">
-<!ENTITY size-largeCmd.label "დიდი">
-<!ENTITY size-large.accesskey "l">
+<!ENTITY size-mediumCmd.accesskey "d">
+<!ENTITY size-largeCmd.label "მოზრდილი">
+<!ENTITY size-largeCmd.accesskey "l">
 <!ENTITY size-x-largeCmd.label "x-დიდი">
-<!ENTITY size-x-large.accesskey "x">
-<!ENTITY size-xx-largeCmd.label "xx-დიდი">
-<!ENTITY size-xx-large.accesskey "e">
+<!ENTITY size-x-largeCmd.accesskey "x">
+<!ENTITY size-xx-largeCmd.label "xx-ვეება">
+<!ENTITY size-xx-largeCmd.accesskey "e">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "ტექსტის სტილი">
-<!ENTITY formatstylemenu.accesskey "s">
+<!ENTITY fontStyleMenu.accesskey "S">
 <!ENTITY styleBoldCmd.label "მუქი">
-<!ENTITY stylebold.accesskey "b">
-<!ENTITY stylebold.keybinding "b">
+<!ENTITY styleBoldCmd.accesskey "B">
+<!ENTITY styleBoldCmd.key "B">
 <!ENTITY styleItalicCmd.label "კურსივი">
-<!ENTITY styleitalic.accesskey "I">
-<!ENTITY styleitalic.keybinding "i">
+<!ENTITY styleItalicCmd.accesskey "I">
+<!ENTITY styleItalicCmd.key "I">
 <!ENTITY styleUnderlineCmd.label "ხაზგასმული">
-<!ENTITY styleunderline.accesskey "u">
-<!ENTITY styleunderline.keybinding "u">
+<!ENTITY styleUnderlineCmd.accesskey "U">
+<!ENTITY styleUnderlineCmd.key "U">
 <!ENTITY styleStrikeThruCmd.label "გადახაზული">
-<!ENTITY stylestrikethru.accesskey "k">
+<!ENTITY styleStrikeThruCmd.accesskey "k">
 <!ENTITY styleSuperscriptCmd.label "ზედა ინდექსი">
-<!ENTITY stylesuperscript.accesskey "p">
+<!ENTITY styleSuperscriptCmd.accesskey "p">
 <!ENTITY styleSubscriptCmd.label "ქვედა ინდექსი">
-<!ENTITY stylesubscript.accesskey "S">
+<!ENTITY styleSubscriptCmd.accesskey "S">
 <!ENTITY styleNonbreakingCmd.label "უწყვეტი">
-<!ENTITY stylenonbreaking.accesskey "N">
+<!ENTITY styleNonbreakingCmd.accesskey "N">
 <!ENTITY styleEm.label "გაძლიერებული">
-<!ENTITY styleEm.accesskey "e">
+<!ENTITY styleEm.accesskey "E">
 <!ENTITY styleStrong.label "მეტად გაძლიერებული">
 <!ENTITY styleStrong.accesskey "t">
 <!ENTITY styleCite.label "ციტირება">
-<!ENTITY styleCite.accesskey "c">
+<!ENTITY styleCite.accesskey "C">
 <!ENTITY styleAbbr.label "შემოკლება">
 <!ENTITY styleAbbr.accesskey "A">
 <!ENTITY styleAcronym.label "აკრონიმი">
@@ -305,67 +303,63 @@
 <!ENTITY styleSamp.label "ნიმუში">
 <!ENTITY styleSamp.accesskey "m">
 <!ENTITY styleVar.label "ცვლადი">
-<!ENTITY styleVar.accesskey "v">
+<!ENTITY styleVar.accesskey "V">
 
-<!ENTITY formatFontColor.label "ტექსტის ფერი...">
-<!ENTITY formatfontcolor.accesskey "c">
-<!ENTITY tableOrCellColor.label "ცხრილის ან უჯრის ფონის ფერი...">
+<!ENTITY formatFontColor.label "ტექსტის ფერი…">
+<!ENTITY formatFontColor.accesskey "C">
+<!ENTITY tableOrCellColor.label "ცხრილის ან უჯრის ფონის ფერი…">
 <!ENTITY tableOrCellColor.accesskey "B">
 
-<!ENTITY formatremovestyles.keybinding "y">
-<!ENTITY formatremovelinks.keybinding "k">
+<!ENTITY formatRemoveStyles.key "Y">
+<!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "სახელობითი ღუზების ამოღება">
 <!ENTITY formatRemoveNamedAnchors.accesskey "R">
-<!ENTITY formatremovenamedanchors.keybinding "a">
+<!ENTITY formatRemoveNamedAnchors.key "A">
 
-<!ENTITY formatindent.keybinding "]">
-<!ENTITY formatoutdent.keybinding "[">
 <!ENTITY paragraphMenu.label "პარაგრაფი">
-<!ENTITY formatparagraphmenu.accesskey "P">
+<!ENTITY paragraphMenu.accesskey "P">
 <!ENTITY paragraphParagraphCmd.label "პარაგრაფი">  
-<!ENTITY paragraphparagraph.accesskey "P">
+<!ENTITY paragraphParagraphCmd.accesskey "P">
 <!ENTITY heading1Cmd.label "სასათაურო 1">
-<!ENTITY heading1.accesskey "1">
+<!ENTITY heading1Cmd.accesskey "1">
 <!ENTITY heading2Cmd.label "სასათაურო 2">
-<!ENTITY heading2.accesskey "2">
+<!ENTITY heading2Cmd.accesskey "2">
 <!ENTITY heading3Cmd.label "სასათაურო 3">
-<!ENTITY heading3.accesskey "3">
+<!ENTITY heading3Cmd.accesskey "3">
 <!ENTITY heading4Cmd.label "სასათაურო 4">
-<!ENTITY heading4.accesskey "4">
+<!ENTITY heading4Cmd.accesskey "4">
 <!ENTITY heading5Cmd.label "სასათაურო 5">
-<!ENTITY heading5.accesskey "5">
+<!ENTITY heading5Cmd.accesskey "5">
 <!ENTITY heading6Cmd.label "სასათაურო 6">
-<!ENTITY heading6.accesskey "6">
+<!ENTITY heading6Cmd.accesskey "6">
 <!ENTITY paragraphAddressCmd.label "მისამართი">
-<!ENTITY paragraphaddress.accesskey "a">
+<!ENTITY paragraphAddressCmd.accesskey "A">
 <!ENTITY paragraphPreformatCmd.label "დაფორმატებული">
-<!ENTITY paragraphpreformat.accesskey "f">
-<!ENTITY paragraphBlockquoteCmd.label "კვადრატული ფრჩხილები">
-<!ENTITY paragraphblockquote.accesskey "b">
+<!ENTITY paragraphPreformatCmd.accesskey "f">
 
 <!-- List menu items -->
 <!ENTITY formatlistMenu.label "სია">
-<!ENTITY formatlistmenu.accesskey "l">
+<!ENTITY formatlistMenu.accesskey "L">
 <!ENTITY noneCmd.label "არა">
-<!ENTITY none.accesskey "N">
+<!ENTITY noneCmd.accesskey "N">
 <!ENTITY listBulletCmd.label "სიმნოლო">
-<!ENTITY listbullet.accesskey "b">
+<!ENTITY listBulletCmd.accesskey "B">
 <!ENTITY listNumberedCmd.label "ნუმერაცია">
-<!ENTITY listnumbered.accesskey "m">
+<!ENTITY listNumberedCmd.accesskey "m">
 <!ENTITY listTermCmd.label "ტერმინი">
-<!ENTITY listterm.accesskey "t">
+<!ENTITY listTermCmd.accesskey "T">
 <!ENTITY listDefinitionCmd.label "განსაზღვრება">
-<!ENTITY listdefinition.accesskey "d">
-<!ENTITY listProps.label "სიის პარამეტრები...">
-<!ENTITY listprops.accesskey "l">
+<!ENTITY listDefinitionCmd.accesskey "D">
+<!ENTITY listProps.label "სიის პარამეტრები…">
+<!ENTITY listPropsCmd.accesskey "L">
 
 <!ENTITY ParagraphSelect.tooltip "პარაგრაფის ფორმატის არჩევა">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "ძირითადი ტექსტი">
-<!ENTITY bodytext.accesskey "T">
+<!ENTITY bodyTextCmd.accesskey "T">
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "დეტალური პარამეტრები">
-<!ENTITY advancedproperties.accesskey "v">
+<!ENTITY advancedPropertiesCmd.accesskey "v">
 
 <!ENTITY NormalAbbr.label "ტექსტი">
 <!ENTITY ParagraphAbbr.label "P">  
@@ -379,24 +373,20 @@
 <!ENTITY AddressAbbr.label "მისამ.">
 <!ENTITY PreformatAbbr.label "ფორმ.">
 
-<!-- Style Sheet submenu NOT IMPLEMENTED -->
-<!ENTITY stylesheetMenu.label "სტილების გამოყენება">
-<!ENTITY formatstylesheetmenu.accesskey "y">
-
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "განთავსება">
-<!ENTITY formatalignmenu.accesskey "a">
+<!ENTITY alignMenu.accesskey "A">
 <!ENTITY alignLeft.label "მარცხნივ">
-<!ENTITY alignleft.accesskey "l">
+<!ENTITY alignLeft.accesskey "L">
 <!ENTITY alignLeft.tooltip "სწორება მარცხნივ">
 <!ENTITY alignCenter.label "ცენტრში">
-<!ENTITY aligncenter.accesskey "c">
+<!ENTITY alignCenter.accesskey "C">
 <!ENTITY alignCenter.tooltip "განთავსება ცენტრში">
 <!ENTITY alignRight.label "მარჯვნივ">
-<!ENTITY alignright.accesskey "r">
+<!ENTITY alignRight.accesskey "R">
 <!ENTITY alignRight.tooltip "განთავსება მარჯვნივ">
 <!ENTITY alignJustify.label "შევსება">
-<!ENTITY alignjustify.accesskey "j">
+<!ENTITY alignJustify.accesskey "J">
 <!ENTITY alignJustify.tooltip "განთავსება შევსებით">
 
 <!-- Layer toolbar items -->
@@ -405,86 +395,84 @@
 <!ENTITY layerBringToFront.tooltip "უკან გადატანა">
 
 <!ENTITY increaseIndent.label "აბზაცის გაზრდა">
-<!ENTITY increaseindent.accesskey "i">
-<!ENTITY increaseindentkb "=">
+<!ENTITY increaseIndent.accesskey "I">
+<!ENTITY increaseIndent.key "]">
 <!ENTITY decreaseIndent.label "აბზაცის შემცირება">
-<!ENTITY decreaseindent.accesskey "D">
-<!ENTITY decreaseindentkb "-">
+<!ENTITY decreaseIndent.accesskey "D">
+<!ENTITY decreaseIndent.key "[">
 
 <!ENTITY grid.label "განლაგების ბადე">
 <!ENTITY grid.accesskey "t">
 
-<!ENTITY pageProperties.label "გვერდის სათაური და პარამეტრები...">
-<!ENTITY pageproperties.accesskey "g">
-<!ENTITY colorsAndBackground.label "გვერდის ფერები და ფონი...">
-<!ENTITY colorsandbackground.accesskey "u">
+<!ENTITY pageProperties.label "გვერდის სათაური და პარამეტრები…">
+<!ENTITY pageProperties.accesskey "g">
+<!ENTITY colorsAndBackground.label "გვერდის ფერები და ფონი…">
+<!ENTITY colorsAndBackground.accesskey "u">
 
 <!-- Table Menu -->
 <!ENTITY tableMenu.label "ცხრილი">
-<!ENTITY tablemenu.accesskey "b">
+<!ENTITY tableMenu.accesskey "b">
+
 <!-- Select Submenu -->
 <!ENTITY tableSelectMenu.label "მონიშვნა">
-<!ENTITY tableselectmenu.accesskey "s">
+<!ENTITY tableSelectMenu.accesskey "S">
 
 <!ENTITY tableSelectMenu2.label "ცხრილის მონიშვნა">
+<!ENTITY tableSelectMenu2.accesskey "S">
 <!ENTITY tableInsertMenu2.label "ცხრილის ჩამატება">
+<!ENTITY tableInsertMenu2.accesskey "I">
 <!ENTITY tableDeleteMenu2.label "ცხრილის წაშლა">
+<!ENTITY tableDeleteMenu2.accesskey "D">
 
 <!-- Insert SubMenu -->
 <!ENTITY tableInsertMenu.label "ჩამატება">
-<!ENTITY tableinsertmenu.accesskey "i">
+<!ENTITY tableInsertMenu.accesskey "I">
 <!ENTITY tableTable.label "ცხრილი">
-<!ENTITY tabletable.accesskey "t">
+<!ENTITY tableTable.accesskey "T">
 <!ENTITY tableRow.label "მწკრივი">
 <!ENTITY tableRows.label "მწკრივ(ებ)ი">
-<!ENTITY tablerow.accesskey "r">
+<!ENTITY tableRow.accesskey "R">
 <!ENTITY tableRowAbove.label "ზედა მწკრივი">
-<!-- uses tablerow.accesskey -->
+<!ENTITY tableRowAbove.accesskey "R">
 <!ENTITY tableRowBelow.label "ქვედა მწკრივი">
-<!ENTITY tablerowbelow.accesskey "b">
+<!ENTITY tableRowBelow.accesskey "B">
 <!ENTITY tableColumn.label "სვეტი">
 <!ENTITY tableColumns.label "სვეტ(ებ)ი">
-<!ENTITY tablecolumn.accesskey "o">
+<!ENTITY tableColumn.accesskey "o">
 <!ENTITY tableColumnBefore.label "წინა სვეტი">
-<!-- uses tablecolumn.accesskey -->
+<!ENTITY tableColumnBefore.accesskey "o">
 <!ENTITY tableColumnAfter.label "შემდეგი სვეტი">
-<!ENTITY tablecolumnafter.accesskey "a">
+<!ENTITY tableColumnAfter.accesskey "A">
 <!ENTITY tableCell.label "უჯრა">
 <!ENTITY tableCells.label "უჯრა(ები)">
-<!ENTITY tablecell.accesskey "c">
+<!ENTITY tableCell.accesskey "C">
 <!ENTITY tableCellContents.label "უჯრის შიგთავსი">
-<!ENTITY tablecellcontents.accesskey "n">
+<!ENTITY tableCellContents.accesskey "n">
 <!ENTITY tableAllCells.label "ყველა უჯრა">
+<!ENTITY tableAllCells.accesskey "A">
 <!ENTITY tableCellBefore.label "წინა უჯრა">
-<!ENTITY tableallcells.accesskey "a">
-<!-- uses tablecell.accesskey -->
+<!ENTITY tableCellBefore.accesskey "C">
 <!ENTITY tableCellAfter.label "შემდეგი უჯრა">
-<!ENTITY tablecellafter.accesskey "f">
+<!ENTITY tableCellAfter.accesskey "f">
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "წაშლა">
-<!ENTITY tabledeletemenu.accesskey "D">
+<!ENTITY tableDeleteMenu.accesskey "D">
 
 <!ENTITY tableFix.label "ცხრილის ფიქსირება">
-<!ENTITY tablefix.accesskey "f">
+<!ENTITY tableFix.accesskey "F">
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
 <!ENTITY tableJoinCells.label "j">
-<!ENTITY tablejoincells.accesskey "j">
+<!ENTITY tableJoinCells.accesskey "j">
 <!ENTITY tableSplitCell.label "უჯრის გაყოფა">
-<!ENTITY tablesplitcell.accesskey "c">
+<!ENTITY tableSplitCell.accesskey "C">
 <!ENTITY convertToTable.label "ცხრილის შექმნა მონიშნულიდან">
-<!ENTITY converttotable.accesskey "r">
-<!ENTITY tableProperties.label "ცხრილის პარამეტრები...">
+<!ENTITY convertToTable.accesskey "r">
+<!ENTITY tableProperties.label "ცხრილის პარამეტრები…">
 <!ENTITY tableProperties.accesskey "o">
-
-<!-- Tools menu -->
-<!ENTITY toolsmenu.accesskey "l">
-<!ENTITY toolbrowser.accesskey "b">
-<!ENTITY toolplaineditor.accesskey "p">
-<!ENTITY toolsetfocus.accesskey "f">
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "მენიუს პანელი">
@@ -588,5 +576,5 @@
 <!ENTITY updateTOC.accesskey      "u">
 <!ENTITY removeTOC.label          "ამოღება">
 <!ENTITY removeTOC.accesskey      "r">
-<!ENTITY tocMenu.label            "შინაარსი...">
+<!ENTITY tocMenu.label            "შინაარსი…">
 <!ENTITY tocMenu.accesskey        "b">
