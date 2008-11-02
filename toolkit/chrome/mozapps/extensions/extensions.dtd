@@ -112,6 +112,7 @@
 <!ENTITY insecureUpdate.label             "Ei paku turvalisi uuendusi.">
 <!ENTITY needsDependencies.label          "Vajab täiendavaid elemente.">
 <!ENTITY blocklisted.label                "Keelatud sinu kaitseks.">
+<!ENTITY softBlocklisted.label            "Tuntud kui turvalisuse või stabiilsuse probleemide tekitaja.">
 <!ENTITY toBeDisabled.label               "See lisa keelatakse &brandShortName;i taaskäivitamisel.">
 <!ENTITY toBeEnabled.label                "See lisa lubatakse &brandShortName;i taaskäivitamisel.">
 <!ENTITY toBeInstalled.label              "See lisa paigaldatakse &brandShortName;i taaskäivitamisel.">
@@ -168,3 +169,6 @@
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "Nõustu ja paigalda...">
+
+<!ENTITY blocklist.blocked.label          "Blokitud">
+<!ENTITY blocklist.checkbox.label         "Keelatud">
