@@ -96,6 +96,7 @@
 <!ENTITY insecureUpdate.label "Non fornisce aggiornamenti sicuri.">
 <!ENTITY needsDependencies.label "Richiede elementi aggiuntivi.">
 <!ENTITY blocklisted.label "Disattivato per proteggere il computer.">
+<!ENTITY softBlocklisted.label "Conosciuto come causa di problemi di stabilità o sicurezza.">
 <!ENTITY toBeDisabled.label "Questo componente verrà disattivato al prossimo riavvio di &brandShortName;.">
 <!ENTITY toBeEnabled.label "Questo componente verrà attivato al prossimo riavvio di &brandShortName;.">
 <!ENTITY toBeInstalled.label "Questo componente verrà installato al prossimo riavvio di &brandShortName;.">
@@ -146,3 +147,5 @@
 <!ENTITY eula.width "560px">
 <!ENTITY eula.height "400px">
 <!ENTITY eula.accept "Accetta e installa…">
+<!ENTITY blocklist.blocked.label "Bloccato">
+<!ENTITY blocklist.checkbox.label "Disattiva">
