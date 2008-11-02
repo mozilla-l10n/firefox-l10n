@@ -1,9 +1,7 @@
 <!ENTITY itemGeneral.label                   "Allmänt">
 <!ENTITY itemAutoComplete.label              "Adressering">
 <!ENTITY itemSpellCheck.label                "Stavning">
-<!ENTITY itemSendFormat.label                "Format">
 
-<!ENTITY forwardReply.label                   "Vidarebefordra meddelanden">
 <!ENTITY forwardMsg.label                     "Vidarebefordra meddelanden:">
 <!ENTITY forwardMsg.accesskey                 "V">
 <!ENTITY inline.label                         "Infogade">
@@ -25,7 +23,6 @@
 <!ENTITY restoreHTMLDefaults.label            "Återställ standard">
 <!ENTITY restoreHTMLDefaults.accesskey        "Å">
 
-<!ENTITY sendingMessagesHeader.label          "Skriva meddelanden">
 <!ENTITY spellCheck.label                     "Kontrollera stavningen innan meddelanden skickas">
 <!ENTITY spellCheck.accesskey                 "K">
 <!ENTITY spellCheckInline.label               "Använd automatisk stavningskontroll">
@@ -51,10 +48,7 @@
 <!ENTITY directoriesNone.label                 "Ingen">
 <!ENTITY editDirectories.label                 "Redigera kataloger…">
 <!ENTITY editDirectories.accesskey             "R">
-<!ENTITY matchText.label                       "Om en matchande e-postadress hittas i lokala adressböcker:">
-<!ENTITY skipDirectory.label                   "Sök inte i katalogen">
 
-<!ENTITY sendOptionsCaption.label              "Alternativ för Skicka och HTML">
 <!ENTITY sendOptionsDescription.label          "Anpassa valet av textformat:">
 <!ENTITY sendOptions.label                     "Anpassa…">
 <!ENTITY sendOptions.accesskey                 "A">

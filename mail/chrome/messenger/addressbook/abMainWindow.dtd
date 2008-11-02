@@ -92,7 +92,6 @@
 <!ENTITY pasteCmd.key                                   "V">  
 <!ENTITY pasteCmd.accesskey                             "l"> 
 <!ENTITY deleteCmd.label                                "Ta bort">  
-<!ENTITY deleteCmd.key                                  "d">  
 <!ENTITY deleteCmd.accesskey                            "T"> 
 <!ENTITY deleteAbCmd.label                              "Ta bort adressboken">  
 <!ENTITY deleteCardCmd.label                            "Ta bort adresskortet">  
@@ -150,7 +149,6 @@
 <!ENTITY exportCmd.label                                "Exportera…">  
 <!ENTITY exportCmd.accesskey                            "x"> 
 <!ENTITY preferencesCmd.label                           "Inställningar…">
-<!ENTITY preferencesCmd.key                             "O">  
 <!ENTITY preferencesCmd.accesskey                       "I">
 <!ENTITY preferencesCmdUnix.label                       "Inställningar">
 <!ENTITY preferencesCmdUnix.accesskey                   "I">

@@ -1,8 +1,6 @@
 <!ENTITY credit.title     "&brandFullName;-medarbetare">
 <!ENTITY brandMotto       "Thunderbirds Are Go!">
 <!ENTITY credit.leads     "Teknisk ledning">
-<!ENTITY credit.core      "Teknisk kärntrupp">
-<!ENTITY credit.gecko     "Gecko Layout Engine">
 <!ENTITY credit.thanks    "Särskilt tack till">
 
 <!-- localization credits look like this: -->
@@ -12,19 +10,8 @@
 -->
 <!ENTITY credit.translation "<h3>Översättning</h3><ul><li>Mikael Hedberg</li><li>Stefan Hermes</li><li>Per Larsson</li><li>Niklas Lundström</li><li>Henrik Olsson</li><li>Roger Sjölander</li><li>Hans Wallanger</li></ul>">
 
-<!ENTITY credit.visuals     "Koordinator för visuell design">
-<!ENTITY credit.theme       "Temadesign">
-<!ENTITY credit.brand       "Varumärkesidentitet">
-<!ENTITY credit.web         "Webbdesign">
-<!ENTITY credit.update      "Mozilla Update">
-<!ENTITY credit.qalead      "Ledare för kvalitetssäkring">
-<!ENTITY credit.qa          "Kvalitetssäkring">
-<!ENTITY credit.build       "Paketering och publicering">
-<!ENTITY credit.infra       "Infrastrukturstöd">
-<!ENTITY credit.support     "Supportresurser">
-<!ENTITY credit.manage      "Projektledning">
-<!ENTITY credit.marketleads "Ledare för marknadsföring">
-<!ENTITY credit.market      "Marknadsföring">
-<!ENTITY credit.creators    "Skapad av">
-<!ENTITY credit.memory      "Till minne av">
+<!ENTITY credit.theme          "Temadesign">
+<!ENTITY credit.qa             "Kvalitetssäkring">
+<!ENTITY credit.build          "Paketering och publicering">
+<!ENTITY credit.memory         "Till minne av">
 <!ENTITY credit.poweredByGecko "Powered by Gecko&trade;">

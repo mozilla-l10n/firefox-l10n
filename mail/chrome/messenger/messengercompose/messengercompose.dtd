@@ -75,7 +75,6 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "y">
 <!ENTITY deleteCmd.label "Ta bort">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "T">
 <!ENTITY selectAllCmd.label "Markera allt">
 <!ENTITY selectAllCmd.key "A">
@@ -98,7 +97,6 @@
 <!ENTITY viewToolbarsMenuNew.label "Verktygsfält"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "V"> 
 <!ENTITY showCompositionToolbarCmd.label "Skriv">
-<!ENTITY showCompositionToolbarCmd.accesskey "S">
 <!ENTITY showFormattingBarCmd.label "Formateringsverktyg">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Statusfält">
@@ -220,10 +218,6 @@
 <!ENTITY attachments.accesskey "B">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
-<!ENTITY formatToolbar.boldChar "F">
-<!ENTITY formatToolbar.italicChar "K">
-<!ENTITY formatToolbar.underlineChar "U">
 <!ENTITY SmileButton.tooltip "Infoga en smilis">
 <!ENTITY smiley1Cmd.label "Ler">
 <!ENTITY smiley2Cmd.label "Bister">

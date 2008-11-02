@@ -56,7 +56,6 @@
 <!ENTITY retention.label                         "Behåll meddelanden">
 <!ENTITY retentionUseDefault.label               "Använd inställningen för servern">
 <!ENTITY retentionUseDefault.accesskey           "v">
-<!ENTITY days.label                              "dagarna">
 <!ENTITY daysOld.label                           "dagar">
 <!ENTITY message.label                           "meddelandena">
 <!ENTITY retentionCleanup.label                  "För att spara diskutrymme kan gamla meddelanden tas bort">
@@ -80,18 +79,15 @@
 
 <!ENTITY selectofflineNewsgroup.check.label      "Den här diskussionsgruppen ska kunna användas när jag arbetar nedkopplad">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "D">
-<!ENTITY UseDefaultofflineNewsgroup.check.label  "Använd standardinställning för kontot ">
 <!ENTITY offlineNewsgroup.button.label           "Hämta nu">
 <!ENTITY offlineNewsgroup.button.accesskey       "ä">
 
-<!ENTITY folderProps.information.label           "Information:">
 <!ENTITY folderProps.name.label	                 "Namn:">
 <!ENTITY folderProps.name.accesskey              "N">
 <!ENTITY folderProps.location.label              "Adress:">
 <!ENTITY folderProps.location.accesskey          "A">
 
 <!ENTITY folderSharingTab.label                  "Delning">
-<!ENTITY privilegesDesc.label                    "Dela ut den här och andra mappar i nätverket och sätt vilka privilegier som ska gälla">
 <!ENTITY privileges.button.label                 "Privilegier">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "Du har dessa privilegier:">

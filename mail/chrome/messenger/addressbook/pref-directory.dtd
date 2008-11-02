@@ -39,14 +39,11 @@
 
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 <!ENTITY pref.ldap.window.title    "LDAP katalogserver">
-<!ENTITY directory.label           "Lägg till en katalog">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "LDAP katalogserver:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 <!ENTITY directoriesText.label     "Välj LDAP katalogserver:">
 <!ENTITY directoriesText.accesskey "V">
-<!-- LOCALIZATION NOTE (autocomplete.title) : do not translate "LDAP" in below line -->
-<!ENTITY autocomplete.title        "LDAP katalogserver">
 <!ENTITY addDirectory.label        "Lägg till">
 <!ENTITY addDirectory.accesskey    "L">
 <!ENTITY editDirectory.label       "Redigera">

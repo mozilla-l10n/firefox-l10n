@@ -34,7 +34,6 @@
 <!ENTITY accountTitle.label "Kontoinställningar">
 <!ENTITY accountName.label "Kontonamn:">
 <!ENTITY accountName.accesskey "K">
-<!ENTITY accountNameDesc.label "Detta är endast för din egen del, så du vet vilka konton som är vilka">
 <!ENTITY identityTitle.label "Standardidentitet">
 <!ENTITY identityDesc.label "Varje konto har en egen identitet som andra ser och identifierar dig med när du skickar meddelanden.">
 <!ENTITY name.label "Ditt namn:">

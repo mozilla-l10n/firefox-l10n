@@ -7,7 +7,6 @@
 
 <!ENTITY paneGeneral.title        "Allmänt">
 <!ENTITY paneDisplay.title        "Visa">
-<!ENTITY paneTags.title           "Etiketter">
 <!ENTITY paneComposition.title    "Skriva">
 <!ENTITY paneAttachments.title    "Bilagor">
 <!ENTITY panePrivacy.title        "Sekretess">

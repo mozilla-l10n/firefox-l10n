@@ -1,8 +1,6 @@
 <!ENTITY itemFormatting.label             "Formatering">
 <!ENTITY itemTags.label                   "Etiketter">
-<!ENTITY itemFonts.label                  "Teckensnitt">
 
-<!ENTITY textBegin.label                  "Citerad text i oformaterade meddelanden">
 <!ENTITY style.label                      "Stil:">
 <!ENTITY style.accesskey                  "S">
 <!ENTITY regularStyle.label               "Normal">
@@ -19,12 +17,10 @@
 <!ENTITY displayWidth.label               "Oformaterade meddelanden">
 <!ENTITY plainText.label                  "Använd teckensnitt av denna typ:">
 <!ENTITY displayText.label                "Vid visning av citerad text i oformaterade meddelanden:">
-<!ENTITY viewingPlainText.label           "När oformaterade meddelanden visas:">
 <!ENTITY fixedWidth.label                 "Fast bredd">
 <!ENTITY fixedWidth.accesskey             "a">
 <!ENTITY variableWidth.label              "Variabel bredd">
 <!ENTITY variableWidth.accesskey          "V">
-<!ENTITY readingMessagesHeader.label      "För inkommande meddelanden">
 <!ENTITY colors.label                     "Färger">
 <!ENTITY overrideColors.label             "Vid visning av meddelanden, använd följande färger:">
 <!ENTITY textColor.label                  "Textfärg:">
