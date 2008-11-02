@@ -1,6 +1,6 @@
 #filter emptyLines
 
-#define MOZ_LANGPACK_CREATOR www.gia.ge
+#define MOZ_LANGPACK_CREATOR www.sangu.ge
 
 # If non-English locales wish to credit multiple contributors, uncomment this
 # variable definition and use the format specified.

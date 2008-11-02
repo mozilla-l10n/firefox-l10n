@@ -80,9 +80,7 @@
 <!ENTITY cellSelectPrevious.accessKey     "P">
 <!ENTITY cellApplyBeforeMove.label        "ცვლილებების გააქტივება მონიშვნის შეცვლამდე">
 <!ENTITY cellKeepCurrentData.label        "არსებულის დატოვება">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label         "არსებული ცვლილებები გააქტივდება">
-<!ENTITY applyBeforeChange2.label         "მონიშვნის შეცვლამდე.">
+<!ENTITY applyBeforeChange.label         "არსებული ცვლილებები გააქტივდება მონიშვნის შეცვლამდე">
 <!ENTITY cellRowSpan.label                "მწკრივების გაერთიანება:">
 <!ENTITY cellColSpan.label                "სვეტების გაერთიანება:">
 <!ENTITY cellContentAlignment.label       "შიგთავსის განთავსება">

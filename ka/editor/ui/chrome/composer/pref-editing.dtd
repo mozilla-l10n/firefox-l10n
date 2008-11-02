@@ -4,9 +4,9 @@
 <!ENTITY  authorName.accesskey      "u">
 <!ENTITY  pageColorHeader           "გვერდის ძირითადი იერსახე">
 
-<!ENTITY defaultColorsRadio.label   "ძირითადი საკითხავი ფერები (გვერდის ფერები არ მიეთითება)">
+<!ENTITY defaultColors.label   "ძირითადი საკითხავი ფერები (გვერდის ფერები არ მიეთითება)">
 <!ENTITY defaultColors.accesskey    "d">
-<!ENTITY customColorsRadio.label    "თქვენი ფერების გამოყენება:">
+<!ENTITY customColors.label    "თქვენი ფერების გამოყენება:">
 <!ENTITY customColors.accesskey     "c">
 
 <!ENTITY normalText.label           "ჩვეულებრივი ტექსტი">
