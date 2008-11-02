@@ -52,7 +52,7 @@
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title  "Introduza o contrasinal principal">
-<!ENTITY getPassword.tokenName.label "Dispositivo de seguranza">
+<!ENTITY getPassword.tokenName2.label "Dispositivo de seguranza:">
 <!ENTITY getPassword.password.label "Contrasinal:">
 
 <!-- These should be common -->
@@ -128,5 +128,9 @@
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Autenticación protexida da chave electrónica">
-<!ENTITY protectedAuth.msg "Autentifíquese coa chave electrónica. O método de autentificación depende do tipo da súa chave electrónica.">
+<!ENTITY protectedAuth.msg "Autentíquese coa chave electrónica. O método de autenticación depende do tipo da súa chave electrónica.">
 <!ENTITY protectedAuth.tokenName.label "Chave electrónica:">
+
+<!ENTITY certErrorDlg.title "Erro na conexión segura">
+<!ENTITY certErrorDlg.info1 "Isto pode ser un problema coa configuración do servidor ou alguén que está a tentar despersonalizalo.">
+<!ENTITY certErrorDlg.info2 "Se xa se conectou algunha vez correctamente con este servidor o erro pode ser temporal e poderá tentar de novo máis tarde.">

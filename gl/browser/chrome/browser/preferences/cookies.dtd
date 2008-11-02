@@ -22,8 +22,6 @@
 
 <!ENTITY     filter.label                   "Buscar:">
 <!ENTITY     filter.accesskey               "B">
-<!ENTITY     clear.label                    "Limpar">
-<!ENTITY     clear.accesskey                "L">
 
 <!ENTITY     button.close.label             "Pechar">
 <!ENTITY     button.close.accesskey         "P">

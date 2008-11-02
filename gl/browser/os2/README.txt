@@ -146,7 +146,8 @@ Problemas coñecidos da versión de OS/2 ----------------------------------
 
 Os problemas multiplataforma normalmente lístanse nas notas da versión de cada lanzamento.
 
-- Firefox emitirá un pitido se o texto copiado no portapapeis excede os 64 kB.Trátase dun aviso, xa que moitas aplicacións (sobre todo o editor do sistema, EPM, e as aplicacións que se executan en xanelas VIO) non poden colar máis desa cantidade.
+- Firefox emitirá un son se o texto copiado no portapapeis excede os 64 
+kB.Trátase dun aviso, xa que moitas aplicacións (sobre todo o editor do sistema, EPM, e as aplicacións que se executan en xanelas VIO) non poden colar máis desa cantidade.
 
 - Firefox non utiliza os tipos de letra de OS/2 como WarpSans e outros non dispoñíbeis en Type1 ou en formato TrueType.Recoméndase a instalación do tipo de letra "Workplace Sans" de  http://users.socis.ca/~ataylo00/creative/fonts/ ou http://hobbes.nmsu.edu/cgi-bin/h-search?key=wpsu_ttf para que Firefox o utilice como subsituto de WarpSans.
 

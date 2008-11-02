@@ -8,6 +8,7 @@
 <!ENTITY removeallpermissions.label   "Eliminar todos os sitios">
 <!ENTITY removeallpermissions.accesskey "E">
 <!ENTITY address.label                "Enderezo do sitio web:">
+<!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Bloquear">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "Permitir para esta sesión">

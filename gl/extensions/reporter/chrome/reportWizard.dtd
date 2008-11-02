@@ -1,11 +1,16 @@
 <!-- Entities for the Sample Extension Options Dialog go here -->
-<!ENTITY reportWizard.title                         "Informar dun sitio web roto">
+<!ENTITY reportWizard.title                         "Informar dun sitio web con problemas">
 
 <!ENTITY privacyNotice.label                        "Política de privacidade">
-<!ENTITY reportWizardPrivacy.description            "Esta ferramenta permítelle informar ao equipo de evanxelización sobre os sitios web que non funcionan correctamente en &brandShortName;, ou &brandShortName; fique fóra. Esta é a súa maneira de axudarnos a asegurar que os usuarios teñan a mellor experiencia posíbel con &brandShortName;. Lea o seguinte para aprender como utilizamos a información recollida e participe.">
-<!ENTITY reportWizardMustAgree.description          "Para continuar ten que aceptar a anterior política de privacidade.">
+<!ENTITY reportWizardPrivacy.description            "Esta ferramenta permítelle informar o 
+equipo de evanxelización sobre os sitios web que non funcionan correctamente en 
+&brandShortName;, ou que bloquean &brandShortName;. Esta é a súa maneira de axudarnos a 
+asegurar que os usuarios teñan a mellor experiencia posíbel con &brandShortName;. Lea o 
+seguinte para saber como utilizamos a información recollida no caso de desexar participar.">
+<!ENTITY reportWizardMustAgree.description          "Para continuar ten que aceptar a política de privacidade.">
 
-<!ENTITY dontShowPrivacyStatement.label             "Lin e acepto a política de privacidade.">
+<!ENTITY dontShowPrivacyStatement.label             "Lin a política de privacidade e 
+acéptoa.">
 <!ENTITY dontShowPrivacyStatement.accesskey         "a">
 
 <!ENTITY reportForm.label                           "Cubra un informe">

@@ -22,9 +22,8 @@
 <!ENTITY printButton.tooltip            "Imprimir esta páxina">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY searchtab.label                "Buscar">
-<!ENTITY searchtab.accesskey            "B">
-<!ENTITY searchClose.tooltip            "Pechar resultados de busca">
+<!ENTITY search.emptytext               "Buscar">
+<!ENTITY searchHeader.label             "Resultados da busca">
 <!ENTITY toctab.label                   "Contidos">
 <!ENTITY toctab.accesskey               "n">
 

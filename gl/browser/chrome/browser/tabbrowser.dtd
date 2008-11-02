@@ -16,3 +16,4 @@
 <!ENTITY  bookmarkThisTab.accesskey   "M">
 <!ENTITY  undoCloseTab.label          "Anular o peche do separador">
 <!ENTITY  undoCloseTab.accesskey      "A">
+<!ENTITY  newTabButton.tooltip        "Abrir un novo separador">

@@ -123,14 +123,16 @@
 <!ENTITY nssFailure2.longDesc "
 <ul>
   <li>Non é posíbel mostrar a páxina que está a tentar visualizar porque non foi posíbel verificar a autenticidade dos datos recibidos.</li>
-  <li>Contacte cos propietarios do sitio web para informalos deste problema. Tamén pode utilizar o comando encontrado no menú de axuda para informar deste sitio roto.</li>
+  <li>Contacte cos propietarios do sitio web para informalos deste problema. Tamén pode 
+utilizar o comando encontrado no menú de axuda para informar deste sitio con problemas.</li>
 </ul>
 ">
 
 <!ENTITY nssBadCert.title "Erro de conexión segura">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
-  <li>Isto podería ser un problema coa configuración do servidor ou alguén que está a tentar imitar o servidor.</li>
+  <li>Isto podería ser un problema coa configuración do servidor ou alguén que está a tentar facerse pasar polo 
+servidor.</li>
   <li>Se xa estivo conectado a este servidor de forma correcta, o erro talvez
 sexa temporal e podería tentar máis tarde.</li>
 </ul>
@@ -145,16 +147,24 @@ sexa temporal e podería tentar máis tarde.</li>
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title "Sitio sospeitoso de ser malicioso">
+<!ENTITY malwareBlocked.title "Sitio sospeitoso de ser de ataque">
 <!ENTITY malwareBlocked.longDesc "
-<p>Os sitios maliciosos tentan instalar programas para roubar información privada, utilizar o computador para atacar outros ou danar o seu sistema.</p>
-<p>Os propietarios de sitios web que crean que foron identificados por erro como maliciosos poden <a href='http://www.stopbadware.org/home/reviewinfo' >solicitar unha revisión</a>.</p>
+<p>Os sitios de ataque tentan instalar programas para roubar 
+información privada, utilizar o computador para atacar outros ou danar o seu sistema.</p>
+<p>Os propietarios de sitios web que crean que foron identificados por 
+erro como de ataque poden <a 
+href='http://www.stopbadware.org/home/reviewinfo' 
+>solicitar unha revisión</a>.</p>
 ">
 
 <!ENTITY phishingBlocked.title "Web sospeitosa de ser falsa">
 <!ENTITY phishingBlocked.longDesc "
-<p>Introducir información persoal nesta páxina pode resultar nun roubo de identidade ou en fraude.</p>
-<p>Estes tipos de webs falsas utilízanse en estafas coñecidas como ataques de suplantación de identidade, en que se utilizan correos electrónicos e webs fraudulentas para imitar fontes en que confía.</p>
+<p>A introdución de información persoal nesta páxina pode 
+resultar en usurpación de identidade ou outro tipo de acción 
+fraudulenta.</p>
+<p>Este tipo de falsificación web utilízase nos casos coñecidos 
+como phishing, nos cales se utilizan correos electrónicos e páxinas web 
+fraudulentas para imitar fontes en que o usuario eventualmente confía.</p>
 ">
 
 <!ENTITY securityOverride.linkText "Ou pode engadir unha excepción…">

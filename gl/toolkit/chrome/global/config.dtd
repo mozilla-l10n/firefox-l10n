@@ -45,8 +45,7 @@
 
 <!ENTITY filterPrefs.label "Filtro:">
 <!ENTITY filterPrefs.accesskey "F">
-<!ENTITY showAll.label "Mostrar todo">
-<!ENTITY showAll.accesskey "M">
+<!ENTITY focusFilter.key "f">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Nome preferido">

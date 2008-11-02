@@ -4,10 +4,15 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Imposíbel conectar">
-<!ENTITY connectionFailure.longDesc "<p>A pesar de o sitio parecer válido, o explorador non conseguiu estabelecer conexión.</p><ul><li>É posíbel que o sitio estea temporalmente non dispoñíbel? Tente de novo máis tarde.</li><li>Non consegue navegar por outros sitios? Verifique a conexión de rede do computador.</li><li>Están o computador ou a rede protexidos por un firewall ou por proxy? Unha configuración incorrecta pode interferir na exploración web.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>A pesar de o sitio parecer válido, o explorador non conseguiu estabelecer 
+conexión.</p><ul><li>É posíbel que o sitio non estea dispoñíbel temporalmente? Tente de novo máis 
+tarde.</li><li>Non 
+consegue navegar por outros sitios? Verifique a conexión de rede do computador.</li><li>Están o computador ou a rede protexidos por un firewall ou por proxy? Unha configuración incorrecta pode interferir na exploración web.</li></ul>">
 
-<!ENTITY deniedPortAccess.title "Porto restrinxido por razóns de seguranza">
-<!ENTITY deniedPortAccess.longDesc "<p>O enderezo solicitado especificaba un porto (i.e. <q>mozilla.org:80</q> para o porto 80 de mozilla.org) normalmente utilizado para propósitos <em>diferentes</em> da exploración web. O explorador cancelou o seu pedido pola súa protección e seguranza.</p>">
+<!ENTITY deniedPortAccess.title "Porto restrinxido por seguranza">
+<!ENTITY deniedPortAccess.longDesc "<p>O enderezo solicitado especificou un porto normalmente <em>non</em> utilizado para a 
+exploración web (por exemplo, <q>mozilla.org:80</q> para o porto 80 
+de mozilla.org) O explorador cancelou o seu pedido para súa protección e seguranza.</p>">
 
 <!ENTITY dnsNotFound.title "Enderezo non encontrado">
 <!ENTITY dnsNotFound.longDesc "<p>O navegador non conseguiu localizar o servidor do enderezo fornecido.</p><ul><li>Introduciu correctamente o dominio? (i.e. <q><strong>ww</strong>.mozilla.org</q> en vez de <q><strong>www</strong>.mozilla.org</q>)</li><li>Ten a certeza de existir este nome de dominio? O seu rexistro pode ter caducado.</li><li>Non consegue navegar por outros sitios? Verifique a conexión de rede e a configuración do servidor DNS.</li><li>Están o computador ou a rede protexidos por un firewall ou por proxy? Unha configuración incorrecta pode interferir na exploración web.</li></ul>">
@@ -41,7 +46,7 @@
 <!ENTITY netReset.longDesc "<p>Interrompeuse a ligazón de rede durante a negociación da conexión. Tente de novo.</p>">
 
 <!ENTITY netTimeout.title "Tempo de espera da rede">
-<!ENTITY netTimeout.longDesc "<p>O navegador esgotou o tempo de espera de resposta porque o sitio solicitado non respondeu ao pedido de conexión.</p><ul><li>É posíbel que o servidor tivese a un alto número de visitas ou estivese fóra de servizo? Tente de novo máis tarde.</li><li>Non consegue navegar por outros sitios? Verifique a conexión de rede do computador.</li><li>Están o computador ou a rede protexidos por un firewall ou por proxy? Unha configuración incorrecta pode interferir na exploración web.</li><li>Continúa a ter problemas? Consulte co administrador da rede ou co fornecedor da Internet para obter soporte técnico.</li></ul>">
+<!ENTITY netTimeout.longDesc "<p>O navegador esgotou o tempo de espera de resposta porque o sitio solicitado non respondeu ao pedido de conexión.</p><ul><li>É posíbel que o servidor tivese un alto número de visitas ou estivese fóra de servizo? Tente de novo máis tarde.</li><li>Non consegue navegar por outros sitios? Verifique a conexión de rede do computador.</li><li>Están o computador ou a rede protexidos por un firewall ou por proxy? Unha configuración incorrecta pode interferir na exploración web.</li><li>Continúa a ter problemas? Consulte co administrador da rede ou co fornecedor da Internet para obter soporte técnico.</li></ul>">
 
 <!ENTITY protocolNotFound.title "Protocolo descoñecido">
 <!ENTITY protocolNotFound.longDesc "<p>O enderezo especifica un protocolo que o navegador non recoñece (i.e. <q>wxyz://</q>) e, portanto, non consegue conectar correctamente co sitio.</p><ul><li>Está a tentar acceder a algún tipo de servizo multimedia ou outros servizos non textuais? Busque no sitio requisitos adicionais.</li><li>Algúns protocolos poden requirir software ou plugins de terceiros para que o explorador consiga recoñecelos.</li></ul>">
@@ -50,10 +55,14 @@
 <!ENTITY proxyConnectFailure.longDesc "<p>O navegador está configurado para utilizar un servidor proxy mais o proxy rexeitou unha conexión.</p><ul><li>É correcta a configuración proxy do navegador? Verifique a configuración e tente de novo.</li><li>Permite o servizo proxy conexións con esta rede?</li><li>Continúa a ter problemas? Consulte co administrador da rede ou co fornecedor da Internet para obter soporte técnico.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Non se encontrou o proxy">
-<!ENTITY proxyResolveFailure.longDesc "<p>O navegador está configurado para utilizar un servidor proxy mais non foi posíbel encontralo.</p><ul><li>É correcta a cofiguración proxy do navegador? Verifique a configuración e tente de novo.</li><li>O computador está conectado a unha rede activa?</li><li>Continúa a ter problemas? Consulte co administrador da rede ou co fornecedor da Internet para obter soporte técnico.</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc "<p>O navegador está configurado para utilizar un servidor proxy mais non foi posíbel 
+encontralo.</p><ul><li>É correcta a configuración proxy do navegador? Verifique a configuración e tente de novo.</li><li>O computador está conectado a unha rede activa?</li><li>Continúa a ter problemas? Consulte co administrador da rede ou co fornecedor da Internet para obter soporte técnico.</li></ul>">
 
 <!ENTITY redirectLoop.title "Redireccionar lazo">
-<!ENTITY redirectLoop.longDesc "<p>O navegador deixou de tentar recuperar o elemento solicitado. O sitio está a redireccionar o pedido de forma que nunca concluirá.</p><ul><li>Desactivou ou bloqueou cookies necesarias para este sitio?</li><li><em>NOTA</em>: Aceptando as cookies do sitio non soluciona o problema, é probábel que sexa debido a un problema da configuración do servidor e non do computador.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p>O navegador deixou de tentar recuperar o elemento solicitado. O sitio está a redireccionar 
+o pedido dunha forma que nunca concluirá.</p><ul><li>Desactivou ou bloqueou cookies necesarias para este 
+sitio?</li><li><em>NOTA</em>: Se aceptando as cookies do sitio non soluciona o problema, é probábel que se deba a un 
+erro da configuración do servidor e non do computador.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Resposta incorrecta">
 <!ENTITY unknownSocketType.longDesc "<p>O sitio respondeu de maneira inesperada á solicitude da rede e o navegador non pode continuar.</p>">
@@ -63,19 +72,26 @@
 
 <!ENTITY nssBadCert.title "Erro de conexión segura">
 <!ENTITY nssBadCert.longDesc2 "<ul>
-<li>Pode ser debido a un problema da configuración do servidor ou pode ser que alguén estea a tentar imitar o servidor.</li>
+<li>Pode ser debido a un problema da configuración do servidor ou pode ser que alguén estea a tentar facerse pasar polo 
+servidor.</li>
 <li>Se xa estivo conectado con este servidor correctamente, o erro podería ser temporal e poderá tentar de novo máis tarde.</li>
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title "Sitio listado como nocivo">
-<!ENTITY malwareBlocked.longDesc "<p>Os sitios nocivos tentan instalar programas para roubar información privada, utilizar o seu computador para atacar outros ou danar o seu sistema.</p>
-<p>Os propietarios de sitios web que crean que foron identificados por erro como sitio nocivo poden <a href='http://www.stopbadware.org/home/reviewinfo' >solicitar unha revisión</a>.</p>">
+<!ENTITY malwareBlocked.title "Sitio considerado de ataque">
+<!ENTITY malwareBlocked.longDesc "<p>Os sitios de ataque tentan instalar 
+programas para roubar información privada, utilizar o seu computador para atacar outros ou danar o seu sistema.</p>
+<p>Os propietarios de sitios web que crean que foron identificados por 
+erro como sitio de ataque poden <a 
+href='http://www.stopbadware.org/home/reviewinfo' >solicitar unha revisión</a>.</p>">
 
-<!ENTITY phishingBlocked.title "Sitio listado como falsificación web">
+<!ENTITY phishingBlocked.title "Sitio considerado como falsificación web">
 <!ENTITY phishingBlocked.longDesc "
-<p>Ao introducir calquera información persoal nesta páxina pode resultar nun roubo de identidade ou noutro fraude.</p>
-<p>Estes tipos de webs falsas utilízanse en estafas coñecidas como ataques de suplantación de identidade, en que se utilizan correos electrónicos e webs fraudulentas para imitar fontes en que confía.</p>">
+<p>A introdución de información persoal nesta páxina pode resultar en usurpación de 
+identidade ou outro tipo de acción fraudulenta.</p>
+<p>Este tipo de falsificación web utilízase nos casos coñecidos como phishing, nos cales 
+se utilizan correos electrónicos e páxinas web fraudulentas para imitar fontes en que o 
+usuario eventualmente confía.</p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,

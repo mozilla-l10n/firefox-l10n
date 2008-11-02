@@ -9,7 +9,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
 <!ENTITY tabCmd.label "Novo separador">
-<!ENTITY tabCmd.accesskey "s">
+<!ENTITY tabCmd.accesskey "v">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Abrir localización…">
 <!ENTITY openLocationCmd.accesskey "l">
@@ -209,8 +209,8 @@
 <!ENTITY viewPageInfoCmd.accesskey    "i">
 <!ENTITY viewFrameInfoCmd.label       "Ver a información do marco">
 <!ENTITY viewFrameInfoCmd.accesskey   "i">
-<!ENTITY showImageCmd.label           "Mostrar a imaxe">
-<!ENTITY showImageCmd.accesskey       "M">
+<!ENTITY reloadImageCmd.label         "Recargar imaxe">
+<!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "Ver a imaxe">
 <!ENTITY viewImageCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "Ver a imaxe de fondo">
@@ -240,8 +240,16 @@
 <!ENTITY sendLinkCmd.accesskey        "l">
 <!ENTITY saveImageCmd.label           "Gardar imaxe como…">
 <!ENTITY saveImageCmd.accesskey       "G">
+<!ENTITY saveVideoCmd.label           "Gardar vídeo como…">
+<!ENTITY saveVideoCmd.accesskey       "v">
+<!ENTITY saveAudioCmd.label           "Gardar audio como…">
+<!ENTITY saveAudioCmd.accesskey       "a">
 <!ENTITY sendImageCmd.label           "Enviar imaxe…">
 <!ENTITY sendImageCmd.accesskey       "n">
+<!ENTITY sendVideoCmd.label           "Enviar vídeo…">
+<!ENTITY sendVideoCmd.accesskey       "d">
+<!ENTITY sendAudioCmd.label           "Enviar audio…">
+<!ENTITY sendAudioCmd.accesskey       "u">
 <!ENTITY copyLinkCmd.label            "Copiar a localización da ligazón">
 <!ENTITY copyLinkCmd.accesskey        "l">
 <!ENTITY copyLinkTextCmd.label        "Copiar texto da ligazón">
@@ -250,6 +258,10 @@
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Copiar imaxe">
 <!ENTITY copyImageContentsCmd.accesskey  "i"> 
+<!ENTITY copyVideoURLCmd.label        "Copiar localización do vídeo">
+<!ENTITY copyVideoURLCmd.accesskey    "v">
+<!ENTITY copyAudioURLCmd.label        "Copiar localización do audio">
+<!ENTITY copyAudioURLCmd.accesskey    "a">
 <!ENTITY blockImageCmd.accesskey       "B">
 <!ENTITY metadataCmd.label            "Propiedades">
 <!ENTITY metadataCmd.accesskey        "P">
@@ -257,6 +269,21 @@
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Este marco">
 <!ENTITY thisFrameMenu.accesskey          "m">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "Reproducir">
+<!ENTITY mediaPlay.accesskey         "R">
+<!ENTITY mediaPause.label            "Pausa">
+<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaMute.label             "Silenciar">
+<!ENTITY mediaMute.accesskey         "S">
+<!ENTITY mediaUnmute.label           "Escoitar">
+<!ENTITY mediaUnmute.accesskey       "E">
+<!ENTITY mediaShowControls.label     "Mostrar controis">
+<!ENTITY mediaShowControls.accesskey "M">
+<!ENTITY mediaHideControls.label     "Ocultar controis">
+<!ENTITY mediaHideControls.accesskey "O">
+
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -281,7 +308,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomToggleCmd.accesskey    "s">
 <!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY fullZoom.accesskey             "Z">
-<!ENTITY newTabButton.tooltip           "Abrir un novo separador">
 <!ENTITY newWindowButton.tooltip        "Abrir unha nova xanela">
 <!ENTITY sidebarCloseButton.tooltip     "Pechar a barra lateral">
 <!ENTITY cutButton.tooltip              "Cortar">

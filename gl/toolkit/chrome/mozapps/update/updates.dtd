@@ -10,8 +10,10 @@
 <!ENTITY  cancel.accesskey                "C">
 
 <!ENTITY  noupdatesfound.title            "Non se encontrou ningunha actualización">
-<!ENTITY  noupdatesfound.intro            "Non existen novas actualizacións dispoñíbeis. &brandShortName; pode buscar 
-                                           periodicamente novas actualizacións.">
+<!ENTITY  noupdatesautoenabled.intro      "Non existen novas actualizacións dispoñíbeis. &brandShortName; will check
+                                           periodically for updates.">
+<!ENTITY  noupdatesautodisabled.intro     "Non existen novas actualizacións dispoñíbeis. Verifique de novo máis tarde ou active
+                                           a busca automática de actualizacións de &brandShortName;.">
 
 <!ENTITY  incompatibleChecking.label      "Verificando se esta actualización pode causar problemas con extensións e/ou temas…">
 <!ENTITY  clickHere.label                 "Ver máis información sobre esta actualización">
