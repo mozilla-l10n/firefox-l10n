@@ -350,7 +350,7 @@
 <!ENTITY listTermCmd.accesskey "T">
 <!ENTITY listDefinitionCmd.label "განსაზღვრება">
 <!ENTITY listDefinitionCmd.accesskey "D">
-<!ENTITY listProps.label "სიის პარამეტრები…">
+<!ENTITY listPropsCmd.label "სიის პარამეტრები…">
 <!ENTITY listPropsCmd.accesskey "L">
 
 <!ENTITY ParagraphSelect.tooltip "პარაგრაფის ფორმატის არჩევა">

@@ -25,7 +25,6 @@
 <!ENTITY pasteCmd.key						"V">  
 <!ENTITY pasteCmd.accesskey					"p"> 
 <!ENTITY deleteCmd.label					"წაშლა">  
-<!ENTITY deleteCmd.key						"D">  
 <!ENTITY deleteCmd.accesskey				"d"> 
 <!ENTITY selectAllCmd.label					"სრული მონიშვნა">  
 <!ENTITY selectAllCmd.key					"A">  
@@ -35,34 +34,21 @@
 <!ENTITY preferencesCmdUnix.label       "Preferences">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY findTypeTextCmd.label "ტექსტის ძებნა აკრეფისას">
-<!ENTITY findTypeTextCmd.accesskey "x">
-
 <!ENTITY viewMenu.label					"ჩვენება"> 
 <!ENTITY viewMenu.accesskey				"v"> 
-<!ENTITY viewToolbarsMenu.label				"აჩვენე/დამალე"> 
+<!ENTITY viewToolbarsMenu.label				"პულტები"> 
 <!ENTITY viewToolbarsMenu.accesskey			"T"> 
 <!ENTITY showTaskbarCmd.label					"სტატუსის პანელი">  
 <!ENTITY showTaskbarCmd.accesskey				"S"> 
 
-<!ENTITY direct.label                                   "ხაზზე (პროქსი: არა)">
-<!ENTITY direct.accesskey                               "n">
-<!ENTITY manual.label                                   "ხაზზე (პროქსი: მითითება)">
-<!ENTITY manual.accesskey                               "m">
-<!ENTITY pac.label                                      "ხაზზე (პროქსი: ავტო)">
-<!ENTITY pac.accesskey                                  "a">
-
 <!ENTITY proxy.label                                    "პროქსის გამართვა...">
 <!ENTITY proxy.accesskey                                "C">
-
-<!ENTITY findTypeTextCmd.key        "/">
-<!ENTITY findTypeLinksCmd.key       "'">
 
 <!ENTITY closeCmd.label			"დახურვა">  
 <!ENTITY closeCmd.key			"W">  
 <!ENTITY closeCmd.accesskey		"c">
 
-<!ENTITY closeWindow.label "ფანჯრის დახურვა">
+<!ENTITY closeWindow.label "სარკმლის დახურვა">
 
 <!ENTITY quitApplicationCmd.label	"გასვლა"> 
 <!ENTITY quitApplicationCmd.key		"Q"> 
