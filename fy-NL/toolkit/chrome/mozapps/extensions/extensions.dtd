@@ -112,6 +112,7 @@
 <!ENTITY insecureUpdate.label             "Fersoarget gjin befeilige fernijngs.">
 <!ENTITY needsDependencies.label          "Hat ekstra ûnderdielen nedich.">
 <!ENTITY blocklisted.label                "Utskeakele foar jo beskerming.">
+<!ENTITY softBlocklisted.label            "Bekend fan it feroarsaakjen fan feilichheids- of stabiliteitsproblemen.">
 <!ENTITY toBeDisabled.label               "Dizze tafoeging sil útskeakele wurde as &brandShortName; op 'e nij start.">
 <!ENTITY toBeEnabled.label                "Dizze tafoeging sil ynskeakele wurde as &brandShortName; op 'e nij start.">
 <!ENTITY toBeInstalled.label              "Dizze tafoeging sil ynstallearre wurde as &brandShortName; op 'e nij start.">
@@ -168,3 +169,6 @@
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "Akseptearje en ynstallearje...">
+
+<!ENTITY blocklist.blocked.label          "Blokkearre">
+<!ENTITY blocklist.checkbox.label         "Utskeakele">
