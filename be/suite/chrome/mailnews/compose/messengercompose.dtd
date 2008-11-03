@@ -40,6 +40,7 @@
 <!ENTITY printCmd.accesskey "Д">
 <!ENTITY closeCmd.label "Зачыніць">
 <!ENTITY editRewrapCmd.label "Перазагінаць">
+<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "г">
 <!ENTITY findCmd.label "Знайсці і замяніць…">
 <!ENTITY findCmd.key "F">
