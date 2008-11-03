@@ -674,9 +674,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Tsjinsten">
 <!ENTITY hideThisAppCmdMac.label        "Ferstop &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "F">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
 <!ENTITY hideOtherAppsCmdMac.label      "Ferstop oaren">
-<!ENTITY hideOtherAppsCmdMac.commandkey "F">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Lit alles sjen">
