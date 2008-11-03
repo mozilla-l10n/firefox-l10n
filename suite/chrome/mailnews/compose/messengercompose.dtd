@@ -81,6 +81,7 @@
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Laužyti iš naujo">
+<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "n">
 <!ENTITY findCmd.label "Ieškoti ir pakeisti…">
 <!ENTITY findCmd.key "f">
