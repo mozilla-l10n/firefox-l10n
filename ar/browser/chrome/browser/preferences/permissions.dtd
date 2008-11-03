@@ -8,13 +8,14 @@
 <!ENTITY removeallpermissions.label "احذف كل المواقع">
 <!ENTITY removeallpermissions.accesskey "ذ">
 <!ENTITY address.label "عنوان موقع وِب:">
+<!ENTITY address.accesskey "و">
 <!ENTITY block.label "امنع">
 <!ENTITY block.accesskey "م">
 <!ENTITY session.label "اسمح للجلسة ">
 <!ENTITY session.accesskey "ج">
 <!ENTITY allow.label "اسمح">
 <!ENTITY allow.accesskey "س">
-<!ENTITY windowClose.key "w">
+<!ENTITY windowClose.key "س">
 
 <!ENTITY button.close.label "أغلق">
 <!ENTITY button.close.accesskey "غ">

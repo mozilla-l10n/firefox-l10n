@@ -19,6 +19,6 @@
 <!ENTITY itemOfflineApps.accesskey "ب">
 <!ENTITY itemDownloads.label "تاريخ التنزيلات">
 <!ENTITY itemDownloads.accesskey "ت">
-<!ENTITY itemSessions.label "الجلسات الموثقة">
-<!ENTITY itemSessions.accesskey "ج">
+<!ENTITY itemActiveLogins.label "تسجيلات الدخول النشِطة">
+<!ENTITY itemActiveLogins.accesskey "ش">
 <!ENTITY window.width "30em">

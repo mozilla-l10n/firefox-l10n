@@ -1,7 +1,7 @@
-<!ENTITY printCmd.commandkey "p">
+<!ENTITY printCmd.commandkey "ط">
 
-<!ENTITY findOnCmd.commandkey "F">
-<!ENTITY findAgainCmd.commandkey "G">
+<!ENTITY findOnCmd.commandkey "ث">
+<!ENTITY findAgainCmd.commandkey "ج">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 <!ENTITY backButton.label "للخلف">
@@ -20,18 +20,24 @@
 <!ENTITY homeButton.tooltip "اذهب إلى صفحة بداية المساعدة">
 <!ENTITY printButton.label "اطبع">
 <!ENTITY printButton.tooltip "اطبع هذه الصّفحة">
-<!ENTITY closeWindow.commandkey "W">
+<!ENTITY closeWindow.commandkey "ن">
 
-<!ENTITY searchtab.label "ابحث">
-<!ENTITY searchtab.accesskey "ب">
-<!ENTITY searchClose.tooltip "أغلق نتائج البحث">
+<!ENTITY search.emptytext "ابحث">
+<!ENTITY searchHeader.label "نتائج البحث">
 <!ENTITY toctab.label "المحتويات">
 <!ENTITY toctab.accesskey "م">
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
 
 <!ENTITY fullZoomReduceCmd.commandkey "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomReduceCmd.commandkey2 "">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 <!ENTITY fullZoomResetCmd.commandkey "0">
 <!ENTITY fullZoomResetCmd.commandkey2 "">

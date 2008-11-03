@@ -10,7 +10,9 @@
 <!ENTITY cancel.accesskey "غ">
 
 <!ENTITY noupdatesfound.title "لم يُعثر على تحديثات">
-<!ENTITY noupdatesfound.intro "لا تتوفر تحديثات. قد يلتمس &brandShortName; التحديثات الجديدة دوريا.">
+<!ENTITY noupdatesautoenabled.intro "لا يوجد تحديثات متاحة. سوف يلتمس &brandShortName; التحديثات بشكل دوري.">
+<!ENTITY noupdatesautodisabled.intro "لا توجد تحديثات متاحة. رجاءً تحقق ثانيةً في وقت لاحق 
+أو فعّل التماس &brandShortName; للتحديث التلقائي.">
 
 <!ENTITY incompatibleChecking.label "يفحص إذا كان هذا التحديث سيتسبب في مشاكل مع امتداداتك و/أو سِماتك...">
 <!ENTITY clickHere.label "اعرض المزيد من التّفاصيل عن هذا التّحديث">
@@ -55,9 +57,10 @@
 <!ENTITY finishedBackground.title "التّحديث جاهز للتّثبيت">
 <!ENTITY finishedBackground.text "أتمّ &brandShortName; للتو تنزيل تحديث هامّ و يجب الآن إعادة تشغيله لتثبيت التحديث.">
 <!ENTITY finishedBackground.name "تحديث:">
+<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
 <!ENTITY finishedBackground.more1 "انقر أعِد التشغيل &brandShortName; الآن لإغلاق كلّ نوافذ &brandShortName; و تثبيت التحديث.">
 <!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!ENTITY  finishedBackground.textNotNow "انقر ليس الآن لإغلاق هذا الحوار و متابعة العمل. سيثبت &brandShortName; التحديث عندما يبدأ مرة ثانية">
+<!ENTITY finishedBackground.textNotNow "انقر ليس الآن لإغلاق هذا الحوار و متابعة العمل. سيثبت &brandShortName; التحديث عندما يبدأ مرة ثانية">
 
 <!ENTITY installed.title "تمّ تثبيت التحديث">
 <!ENTITY installed.intro "تمّ تثبيت التّحديث بنجاح.">

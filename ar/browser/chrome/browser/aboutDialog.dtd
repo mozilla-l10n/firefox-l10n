@@ -1,7 +1,12 @@
 <!ENTITY aboutDialog.title "عنْ &brandFullName;">
 <!ENTITY copyright "المساهمون">
 <!ENTITY copyright.accesskey "م">
+<!ENTITY copyrightGNOME.accesskey "ق">
 <!ENTITY aboutLink "&lt; عنْ &brandFullName;">
 <!ENTITY aboutLink.accesskey "ع">
 <!ENTITY aboutVersion "الإصدارة">
-<!ENTITY copyrightInfo "حقوق النشر للمساهمين &#169;1998-2008. كل الحقوق محفوظة. فايرفوكس وشعارات فايرفوكس علامات تجارية لمؤسسة موزيلا. كل الحقوق محفوظة.">
+<!ENTITY closeCmdGNOME.label "إغلاق">
+<!ENTITY closeCmdGNOME.accesskey "ل">
+<!ENTITY copyrightInfo "حقوق النشر للمساهمين &#169;1998-2008. جميع الحقوق محفوظة. 
+فايرفوكس وشعارات فايرفوكس علامات تجارية لمؤسسة موزيلا. 
+جميع الحقوق محفوظة.">

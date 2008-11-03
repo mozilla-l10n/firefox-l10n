@@ -18,8 +18,8 @@
 <!ENTITY reload.accesskey "ع">
 <!ENTITY ftp.label "وسيط FTP:">
 <!ENTITY ftp.accesskey "و">
-<!ENTITY gopher.label "وسيط جوفر:">
-<!ENTITY gopher.accesskey "ج">
+<!ENTITY gopher.label "وسيط غوفر:">
+<!ENTITY gopher.accesskey "غ">
 <!ENTITY http.label "وسيط HTTP:">
 <!ENTITY http.accesskey "س">
 <!ENTITY ssl.label "وسيط SSL:">

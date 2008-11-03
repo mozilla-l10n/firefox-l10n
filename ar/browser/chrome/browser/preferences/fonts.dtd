@@ -47,10 +47,10 @@
 <!ENTITY font.langGroup.gurmukhi "جورموخي">
 <!ENTITY font.langGroup.khmer "خميري">
 <!ENTITY font.langGroup.malayalam "ملايلامي">
-<!ENTITY  font.langGroup.oriya "أوريا">
-<!ENTITY  font.langGroup.telugu "تيلوجو">
-<!ENTITY  font.langGroup.kannada "كانّادا">
-<!ENTITY  font.langGroup.sinhala "سينهالا">
+<!ENTITY font.langGroup.oriya "أوريا">
+<!ENTITY font.langGroup.telugu "تيلوجو">
+<!ENTITY font.langGroup.kannada "كانّادا">
+<!ENTITY font.langGroup.sinhala "سينهالا">
 <!-- Minimum font size -->
 <!ENTITY minSize.label "الحجم الأدنى للخط:">
 <!ENTITY minSize.accesskey "ح">

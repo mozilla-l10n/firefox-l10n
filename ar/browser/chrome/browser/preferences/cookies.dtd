@@ -22,9 +22,6 @@
 
 <!ENTITY filter.label "ابحث:">
 <!ENTITY filter.accesskey "ب">
-<!ENTITY clear.label "امسح">
-<!ENTITY clear.accesskey "م">
 
 <!ENTITY button.close.label "أغلق">
 <!ENTITY button.close.accesskey "غ">
-

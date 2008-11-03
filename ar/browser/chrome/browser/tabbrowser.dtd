@@ -16,3 +16,4 @@
 <!ENTITY bookmarkThisTab.accesskey "ه">
 <!ENTITY undoCloseTab.label "تراجع عن غلق اللسان">
 <!ENTITY undoCloseTab.accesskey "ت">
+<!ENTITY newTabButton.tooltip "افتح لساناً جديداً">

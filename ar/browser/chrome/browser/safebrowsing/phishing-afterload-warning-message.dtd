@@ -15,8 +15,6 @@
 <!ENTITY safeb.palm.notforgery.label2 "هذا ليس تزوير وِب...">
 <!ENTITY safeb.palm.report.label "لماذا مُنع هذا الموقع؟">
 
-<!ENTITY safeb.urlbaricon.tooltip "قد تكون هذه الصفحة خطرة، اضغط للتفاصيل.">
-
 <!ENTITY safeb.blocked.malware.title "موقع هجوم مُبلغ عنه!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "تمّ الإبلاغ عن الموقع <span id='malware_sitename'/> على أنّه موقع هجوم و مُنع بناء على تفضيلات الأمن عندك.">

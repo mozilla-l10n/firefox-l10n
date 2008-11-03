@@ -51,12 +51,12 @@
 <!-- Values for getpassword.xul -->
 
 <!ENTITY getPassword.title "أدخل كلمة السرّ الرئيسية">
-<!ENTITY getPassword.tokenName.label "جهاز الأمن">
+<!ENTITY getPassword.tokenName2.label "جهاز الأمن:">
 <!ENTITY getPassword.password.label "كلمة السرّ:">
 <!-- These should be common -->
 
 <!ENTITY piperror.title "خطأ">
-<!ENTITY pipalert.title "خطأ - تعذّر التعافي">
+<!ENTITY pipalert.title "خطأ - تعذّر الاسترجاع">
 <!-- Prefs panel strings -->
 
 <!ENTITY pref.security.general.lHeader "الأمن">
@@ -69,7 +69,7 @@
 <!-- Downloading a cert -->
 
 <!ENTITY downloadCert.title "يجري تنزيل الشّهادات">
-<!ENTITY downloadCert.message1 "طُلِب منك الوثوق بسلطة شهادات (س‌ش) جديدة.">
+<!ENTITY downloadCert.message1 "يُطلب منك الوثوق بسلطة شهادات جديدة..">
 <!ENTITY downloadCert.trustSSL "ثِق في سلطة الشّهادات هذه لتعريف مواقع وِب.">
 <!ENTITY downloadCert.trustEmail "ثِق في سلطة الشّهادات هذه لتعريف مستخدمي البريد الإلكتروني.">
 <!ENTITY downloadCert.trustObjSign "ثِق في سلطة الشّهادات هذه لتعريف مطوري البرامج.">
@@ -82,8 +82,6 @@
 
 <!ENTITY caCertExists.title "الشّهادة موجودة">
 <!ENTITY caCertExists.message "هذه الشّهادة موجودة.">
-<!ENTITY examineCert.label "عرض الشّهادة">
-<!ENTITY examineCert.accesskey "ش">
 <!-- Strings for the SSL client auth ask dialog -->
 
 <!ENTITY clientAuthAsk.title "طلب تعريف مستخدم">
@@ -112,6 +110,8 @@
 <!ENTITY escrowWarn.message1 "هامّ: طلبت سلطة الشّهادات هذه إنشاء نسخة احتياطية من مفتاح التعمية السرّي.">
 <!ENTITY escrowWarn.benefit1 "الفائدة هي أنّه إذا فقدت مفتاح التعمية السرّي، يمكنك طلب نسخة من سلطة الشّهادات هذه.">
 <!ENTITY escrowWarn.message2 "إلّا أنّ المفتاح السرّي سيخزّن من قبل سلطة الشّهادات، و يمكن أن يستخدم لقراءة بريدك أو مستنداتك المعمّاة دون إذنك.">
+<!ENTITY examineCert.label "عرض الشّهادة">
+<!ENTITY examineCert.accesskey "ش">
 
 <!ENTITY serverCrlNextupdate.message "رجاءً التمس المساعدة من مدير نظامك">
 <!-- Strings for the CreateCertInfo dialog  -->
@@ -129,3 +129,7 @@
 <!ENTITY protectedAuth.title "استيثاق علامة محمية">
 <!ENTITY protectedAuth.msg "من فضلك استوثق من هذه العلامة. تعتمد طريقة الاستيثاق على نوع علامتك.">
 <!ENTITY protectedAuth.tokenName.label "علامة:">
+
+<!ENTITY certErrorDlg.title "فشل الاتصال الآمن">
+<!ENTITY certErrorDlg.info1 "قد تكون هذه مشكلة في إعدادات الخادوم أو أن أحداً يحاول انتحال هوية الخادوم.">
+<!ENTITY certErrorDlg.info2 "إن كنتَ قد اتصلت بهذا الخادوم بنجاح في الماضي، فالخطأ قد يكون مؤقتاً فيمكنك المحاولة من جديد لاحقاً.">

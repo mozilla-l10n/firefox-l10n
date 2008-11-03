@@ -40,13 +40,13 @@
 <!ENTITY pageInfoWindow.width "600">
 <!ENTITY pageInfoWindow.height "500">
 
-<!ENTITY copy.key "C">
+<!ENTITY copy.key "ن">
 <!ENTITY copy.label "انسخ">
 <!ENTITY copy.accesskey "ن">
 <!ENTITY selectall.key "ك">
 <!ENTITY selectall.label "اختر الكل">
 <!ENTITY selectall.accesskey "ك">
-<!ENTITY closeWindow.key "w">
+<!ENTITY closeWindow.key "ذ">
 
 <!ENTITY generalTab "عام">
 <!ENTITY generalTab.accesskey "ع">
@@ -60,8 +60,8 @@
 <!ENTITY generalEncoding "الترميز:">
 <!ENTITY generalMetaName "الاسم">
 <!ENTITY generalMetaContent "المحتوى">
-<!ENTITY generalSecurityMore "المزيد">
-<!ENTITY generalSecurityMore.accesskey "م">
+<!ENTITY generalSecurityDetails "التفاصيل">
+<!ENTITY generalSecurityDetails.accesskey "ص">
 
 <!ENTITY mediaTab "وسائط">
 <!ENTITY mediaTab.accesskey "و">
@@ -87,14 +87,14 @@
 
 <!ENTITY permTab "التّصاريح">
 <!ENTITY permTab.accesskey "ص">
-<!ENTITY permUseDefault "استخدم المبدئي">
+<!ENTITY permUseDefault "استخدم الافتراضي">
 <!ENTITY permAllow "اسمح">
 <!ENTITY permAllowSession "اسمح للجلسة">
 <!ENTITY permBlock "امنع">
 <!ENTITY permissionsFor "صلاحيات:">
 <!ENTITY permImage "تحميل الصور">
 <!ENTITY permPopup "فتح نوافذ منبثقة">
-<!ENTITY permCookie "وضع سكاكر">
+<!ENTITY permCookie "ضبط الكعكات">
 <!ENTITY permInstall "تثبيت امتدادات وسمات">
 
 <!ENTITY securityTab "السريّة">
@@ -112,9 +112,9 @@
 
 <!ENTITY securityView.privacy.header "الخصوصية والتاريخ">
 <!ENTITY securityView.privacy.history "هل زُرتُ هذا الموقع من قبل؟">
-<!ENTITY securityView.privacy.cookies "هل يحفظ هذا الموقع معلومات (سكاكر) على حاسوبي؟">
-<!ENTITY securityView.privacy.viewCookies "اعرض السكاكر">
-<!ENTITY securityView.privacy.viewCookies.accessKey "س">
+<!ENTITY securityView.privacy.cookies "هل يحفظ هذا الموقع معلومات (كعكات) على حاسوبي؟">
+<!ENTITY securityView.privacy.viewCookies "اعرض الكعكات">
+<!ENTITY securityView.privacy.viewCookies.accessKey "ع">
 <!ENTITY securityView.privacy.passwords "هل حفظتُ أي كلمات سر لهذا الموقع؟">
 <!ENTITY securityView.privacy.viewPasswords "اعرض كلمات السر المحفوظة">
 <!ENTITY securityView.privacy.viewPasswords.accessKey "ك">

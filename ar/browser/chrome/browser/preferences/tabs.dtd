@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label "تُفتح الصفحات الجديدة في:">
-<!ENTITY inNewWindow.label "نافذة جديدة">
-<!ENTITY inNewWindow.accesskey "ج">
-<!ENTITY inNewTab.label "لسان جديد">
-<!ENTITY inNewTab.accesskey "ل">
+<!ENTITY newWindowsAsTabs.label "افتح النوافذ الجديدة في ألسنة جديدة عوضاً عن ذلك">
+<!ENTITY newWindowsAsTabs.accesskey "ل">
 
 <!ENTITY warnCloseMultipleTabs.label "نبّهني عند محاولة إغلاق عدّة ألسنة">
 <!ENTITY warnCloseMultipleTabs.accesskey "ه">

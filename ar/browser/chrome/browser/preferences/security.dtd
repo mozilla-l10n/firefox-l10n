@@ -1,18 +1,18 @@
 <!ENTITY warnAddonInstall.label "حذّرني عندما يحاول موقع تثبيت إضافات">
 <!ENTITY warnAddonInstall.accesskey "ح">
-<!-- LOCALIZATION NOTE (tellMaybeForgery.label, tellMaybeAttackSite.label):
+<!-- LOCALIZATION NOTE (blockWebForgeries.label, blockAttackSites.label):
   The methods by which forged (phished) and attack sites will be detected by
   phishing providers will vary from human review to machine-based heuristics to a
   combination of both, so it's important that these strings and
-  useDownloadedList.label convey the meaning "suspected" (and not something like
+  useDownloadedList.label convey the meaning "reported" (and not something like
   "known").
 -->
 
-<!ENTITY tellMaybeAttackSite.label "أخبرني إذا كان الموقع الذي أزوره موقعا هجوميا مشتبها">
-<!ENTITY tellMaybeAttackSite.accesskey "ه">
+<!ENTITY blockAttackSites.label "احجب مواقع الهجمات المبلّغ عنها">
+<!ENTITY blockAttackSites.accesskey "م">
 
-<!ENTITY tellMaybeForgery.label "أخبرني إذا كان الموقع الذي أزوره موقع احتيال مشتبه">
-<!ENTITY tellMaybeForgery.accesskey "ح">
+<!ENTITY blockWebForgeries.label "احجب تزويرات الوب المبلّغ عنها">
+<!ENTITY blockWebForgeries.accesskey "ج">
 
 <!ENTITY addonExceptions.label "الاستثناءات...">
 <!ENTITY addonExceptions.accesskey "ث">

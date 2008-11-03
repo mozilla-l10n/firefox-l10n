@@ -21,3 +21,5 @@
 <!ENTITY pluginWizard.finalPage.restart.label "يحتاج &brandShortName; إلى إعادة التشغيل لتعمل الملحق(ات).">
   
 <!ENTITY missingPlugin.label "انقر هنا لتنزيل الملحق.">
+<!ENTITY disabledPlugin.label "ملحق هذا المحتوى قد عُطّل. انقر هنا لإدارة ملحقاتك.">
+<!ENTITY blockedPlugin.label "لقد مُنع هذا الملحق من أجل حمايتك.">
