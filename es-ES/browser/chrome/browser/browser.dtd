@@ -247,7 +247,7 @@
 <!ENTITY mediaMute.label "Silenciar">
 <!ENTITY mediaMute.accesskey "S">
 <!ENTITY mediaUnmute.label "Restaurar sonido">
-<!ENTITY mediaUnmute.accesskey "m">
+<!ENTITY mediaUnmute.accesskey "s">
 <!ENTITY mediaShowControls.label "Mostrar controles">
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label "Ocultar controles">
