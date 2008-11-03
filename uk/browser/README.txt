@@ -1,11 +1,6 @@
 Інформацію про установку, запуск та налагодження Firefox, а також список
-відомих проблем та важливих змін можна знайти:
-Англійською мовою — на сайті http://getfirefox.com/releases/
+відомих проблем та важливих змін можна знайти на сайті http://mozilla-europe.org/uk/
 
-Українською мовою — на сайті http://mozilla.org.ua
-та http://mozilla-forum.org.ua/ (форум спільноти користувачів Firefox)
+Поспілкуватись про мозіловські продукти можна на форумі http://mozilla-forum.org.ua/
 
-Російською мовою — на сайті http://www.mozilla-russia.org/
-та http://forum.mozilla-russia.org/ (форум спільноти користувачів Firefox)
-
-
+Або за допомогою IRC irc://irc.mozilla.org#mozilla-ua
