@@ -168,3 +168,8 @@
 <!ENTITY eula.width                       "560पिक्सेल">
 <!ENTITY eula.height                      "400पिक्सेल">
 <!ENTITY eula.accept                      "स्वीकारें व संस्थापित करें…">
+
+<!ENTITY blocklist.blocked.label          "अवरोधित">
+<!ENTITY blocklist.checkbox.label         "निष्क्रिय">
+<!ENTITY softBlocklisted.label            "सुरक्षा या स्थायित्व मुद्दे उत्पन्न करने के लिए जाना जाता है.">
+
