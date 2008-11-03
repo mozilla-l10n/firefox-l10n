@@ -18,5 +18,5 @@
 <!ENTITY itemOfflineApps.accesskey    "d">
 <!ENTITY itemDownloads.label          "historię pobieranych plików">
 <!ENTITY itemDownloads.accesskey      "b">
-<!ENTITY itemSessions.label           "aktywne zalogowania">
-<!ENTITY itemSessions.accesskey       "a">
+<!ENTITY itemActiveLogins.label       "aktywne zalogowania">
+<!ENTITY itemActiveLogins.accesskey   "a">
