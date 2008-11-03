@@ -112,6 +112,7 @@
 <!ENTITY insecureUpdate.label             "Nu oferă actualizări sigure.">
 <!ENTITY needsDependencies.label          "Necesită elemente suplimentare.">
 <!ENTITY blocklisted.label                "Dezactivat pentru protecția dumneavoastră.">
+<!ENTITY softBlocklisted.label            "Se știe că provoacă probleme de stabilitate și securitate.">
 <!ENTITY toBeDisabled.label               "Suplimentul va fi dezactivat după repornirea &brandShortName;.">
 <!ENTITY toBeEnabled.label                "Suplimentul va fi activat după repornirea &brandShortName;.">
 <!ENTITY toBeInstalled.label              "Suplimentul va fi instalat după repornirea &brandShortName;.">
@@ -168,3 +169,6 @@
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "Accept, instalează...">
+
+<!ENTITY blocklist.blocked.label          "Blocat">
+<!ENTITY blocklist.checkbox.label         "Dezactivează">
