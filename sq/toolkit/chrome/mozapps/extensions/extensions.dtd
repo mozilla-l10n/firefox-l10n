@@ -159,3 +159,7 @@
 <!ENTITY searchThrobber.label             "Po kërkohet për shtesa">
 <!ENTITY resetSearch.label                "Pastro Përfundimet">
 <!ENTITY searchResultConnecting.label     "Po bëhet lidhja…">
+
+<!ENTITY blocklist.blocked.label          "Bllokuar">
+<!ENTITY blocklist.checkbox.label         "Çaktivizoje">
+<!ENTITY softBlocklisted.label            "E njohur si shkak problemesh qëndrueshmërie ose sigurie.">
