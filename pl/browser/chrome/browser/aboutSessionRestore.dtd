@@ -1,7 +1,9 @@
-<!ENTITY restorepage.title          "Przywracanie poprzedniej sesji ">
-<!ENTITY restorepage.titletext      "Poprzednia sesja przeglądarki &brandShortName; została nieoczekiwanie przerwana.">
+<!ENTITY restorepage.tabtitle       "Przywracanie sesji">
+<!ENTITY restorepage.pagetitle      "Czy przywrócić sesję przeglądarki?">
+<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
+                        you may translate "crash" instead (even though it's IT-speak) -->
+<!ENTITY restorepage.issueDesc      "Poprzednia sesja przeglądarki &brandShortName; została nieoczekiwanie przerwana. Przepraszamy za niedogodności. Można przywrócić zestaw kart i okien z poprzedniej sesji lub rozpocząć nową, jeśli nie są już one potrzebne.">
 
-<!ENTITY restorepage.shortDesc      "Można przywrócić zestaw kart i okien z poprzedniej sesji lub rozpocząć nową, jeśli nie są już one potrzebne. Przepraszamy za niedogodności.">
 <!ENTITY restorepage.remedies       "Jeśli program &brandShortName; zamyka się sam za każdym razem:">
 <!ENTITY restorepage.dueToChrome    "należy spróbować wyłączyć ostatnio dodane rozszerzenia w Menedżerze dodatków">
 <!ENTITY restorepage.dueToContent   "należy spróbować przywrócić sesję z pominięciem witryn podejrzanych o powodowanie awarii programu:">
