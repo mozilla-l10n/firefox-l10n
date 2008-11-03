@@ -112,6 +112,7 @@
 <!ENTITY insecureUpdate.label "Ez du eguneraketa segururik ematen.">
 <!ENTITY needsDependencies.label "Elementu gehiago behar ditu.">
 <!ENTITY blocklisted.label "Zure segurtasunagatik ezgaituta.">
+<!ENTITY softBlocklisted.label "Segurtasun edo egonkortasun arazoak sortzen dituztela jakina da.">
 <!ENTITY toBeDisabled.label "Gehigarri hau ezgaituta egongo da &brandShortName; berrabiaraztean.">
 <!ENTITY toBeEnabled.label "Gehigarri hau gaituta egongo da &brandShortName; berrabiaraztean.">
 <!ENTITY toBeInstalled.label "Gehigarri hau instalatuta egongo da &brandShortName; berrabiaraztean.">
@@ -168,3 +169,6 @@
 <!ENTITY eula.width "560px">
 <!ENTITY eula.height "400px">
 <!ENTITY eula.accept "Onartu eta instalatu…">
+
+<!ENTITY blocklist.blocked.label "Blokeatuta">
+<!ENTITY blocklist.checkbox.label "Ezgaitu">
