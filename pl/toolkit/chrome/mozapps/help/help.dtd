@@ -21,10 +21,9 @@
 <!ENTITY printButton.label              "Drukuj">
 <!ENTITY printButton.tooltip            "Drukuj bieżącą stronę">
 <!ENTITY closeWindow.commandkey         "W">
- 
-<!ENTITY searchtab.label                "Znajdź">
-<!ENTITY searchtab.accesskey            "Z">
-<!ENTITY searchClose.tooltip            "Zamknij wyniki wyszukiwania">
+
+<!ENTITY search.emptytext               "Szukaj">
+<!ENTITY searchHeader.label             "Wyniki wyszukiwania">
 <!ENTITY toctab.label                   "Spis treści">
 <!ENTITY toctab.accesskey               "S">
   
