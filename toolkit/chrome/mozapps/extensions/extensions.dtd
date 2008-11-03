@@ -96,6 +96,7 @@
 <!ENTITY insecureUpdate.label "不提供安全更新。">
 <!ENTITY needsDependencies.label "需要其他项。">
 <!ENTITY blocklisted.label "出于保护目的禁用">
+<!ENTITY softBlocklisted.label "已知会导致安全或稳定性的问题。">
 <!ENTITY toBeDisabled.label "此附加组件将在 &brandShortName; 重启后禁用。">
 <!ENTITY toBeEnabled.label "此附加组件将在 &brandShortName; 重启后启用。">
 <!ENTITY toBeInstalled.label "此附加组件将在 &brandShortName; 重启后安装。">
@@ -146,3 +147,5 @@
 <!ENTITY eula.width "560px">
 <!ENTITY eula.height "400px">
 <!ENTITY eula.accept "接受并安装…">
+<!ENTITY blocklist.blocked.label "已阻止">
+<!ENTITY blocklist.checkbox.label "禁用">
