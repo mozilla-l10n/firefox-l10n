@@ -6,7 +6,7 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title               "Pole võimalik ühendada">
+<!ENTITY connectionFailure.title               "Viga ühendumisel">
 <!ENTITY connectionFailure.longDesc            "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title                "See aadress on keelatud">

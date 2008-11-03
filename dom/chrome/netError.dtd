@@ -3,7 +3,7 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Pole võimalik ühendada">
+<!ENTITY connectionFailure.title "Viga ühendumisel">
 <!ENTITY connectionFailure.longDesc "<p>Kuigi veebileht tundus korrektne, ei õnnestunud veebilehitsejal ühendust luua.</p><ul><li>Kas leht võib ajutiselt kättesaamatu olla? Proovi hiljem uuesti.</li><li>Kas ka teiste lehtede vaatamine ei õnnestu?  Kontrolli arvuti võrguühendust.</li><li>Kas sinu arvuti või võrk on kaitstud tulemüüriga? Ebakorrektsed tulemüüri sätted võivad segada veebilehitsemist.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Port on turvakaalutlustel keelatud">
