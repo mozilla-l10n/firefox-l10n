@@ -1,7 +1,7 @@
 <!ENTITY accountTitle.label "הגדרות חשבון">
 <!ENTITY accountName.label "שם החשבון:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY accountNameDesc.label "שם החשבון משמש לזיהוי כל חשבון">
+<!-- ###ENTITY accountNameDesc.label "שם החשבון משמש לזיהוי כל חשבון" -->
 <!ENTITY identityTitle.label "זהות ברירת מחדל">
 <!ENTITY identityDesc.label "לכל חשבון יש זהות, שהיא המידע שאנשים אחרים יראו כאשר יקראו את ההודעות שלך.">
 <!ENTITY name.label "שמך:">

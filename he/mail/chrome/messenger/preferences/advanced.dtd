@@ -32,8 +32,8 @@
 <!ENTITY reuseExpRadio0.accesskey "ד">
 <!ENTITY reuseExpRadio1.label "בחלון הודעה קיים">
 <!ENTITY reuseExpRadio1.accesskey "ח">
-<!ENTITY reuseExpRadio2.label "לשונית הודעה חדשה">
-<!ENTITY reuseExpRadio2.accesskey "ל">
+<!-- ###ENTITY reuseExpRadio2.label "לשונית הודעה חדשה" -->
+<!-- ###ENTITY reuseExpRadio2.accesskey "ל"-->
 <!-- ### ENTITY connectionTimeout.label "זמן מוקצב לחיבור:" -->
 <!-- ### ENTITY connectionTimeout.accesskey "פ" -->
 <!-- ### ENTITY connectionSeconds.label "שניות" -->
