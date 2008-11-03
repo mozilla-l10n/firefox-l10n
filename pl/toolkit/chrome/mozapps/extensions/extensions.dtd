@@ -112,6 +112,7 @@
 <!ENTITY insecureUpdate.label             "Nie dostarcza bezpiecznych aktualizacji.">
 <!ENTITY needsDependencies.label          "Wymaga dodatkowych elementów.">
 <!ENTITY blocklisted.label                "Wyłączony z przyczyn bezpieczeństwa.">
+<!ENTITY softBlocklisted.label            "Stwarza zagrożenie bezpieczeństwa lub utraty stabilności.">
 <!ENTITY toBeDisabled.label               "Zostanie wyłączony przy ponownym uruchomieniu programu &brandShortName;.">
 <!ENTITY toBeEnabled.label                "Zostanie włączony przy ponownym uruchomieniu programu &brandShortName;.">
 <!ENTITY toBeInstalled.label              "Zostanie zainstalowany przy ponownym uruchomieniu programu &brandShortName;.">
@@ -168,3 +169,6 @@
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "Akceptuję, zainstaluj…">
+
+<!ENTITY blocklist.blocked.label          "Zablokowany">
+<!ENTITY blocklist.checkbox.label         "Wyłącz">
