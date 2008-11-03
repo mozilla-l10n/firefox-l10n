@@ -3,4 +3,4 @@
 
 Поспілкуватись про мозіловські продукти можна на форумі http://mozilla-forum.org.ua/
 
-Або за допомогою IRC irc://irc.mozilla.org#mozilla-ua
+Або початитись в IRC irc://irc.mozilla.org#mozilla-ua
