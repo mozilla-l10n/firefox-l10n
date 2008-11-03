@@ -128,7 +128,7 @@
 <!ENTITY searchFailed.label               "&brandShortName; ei saanud laiendusi kohale toimetada">
 <!ENTITY recommendedHeader.label          "Soovitatud">
 <!ENTITY recommendedThrobber.label        "Tõmmatakse soovitatud laienduste infot">
-<!ENTITY searchThrobber.label             "Otsitakse laiendusid">
+<!ENTITY searchThrobber.label             "Otsitakse laiendusi">
 <!ENTITY resetSearch.label                "Puhasta tulemused">
 <!ENTITY noSearchResults.label            "Kõik tulemused on juba paigaldatud või ei ühildu.">
 <!ENTITY noRecommendedResults.label       "Kõik soovitatud laiendused on juba paigaldatud või ei ühildu.">
