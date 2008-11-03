@@ -96,6 +96,7 @@
 <!ENTITY insecureUpdate.label "Не ўтрымлівае абнаўленняў бяспекі.">
 <!ENTITY needsDependencies.label "Патрабуюцца дадатковыя адзінкі">
 <!ENTITY blocklisted.label "Забаронена дзеля вашай аховы.">
+<!ENTITY softBlocklisted.label "Вядомы тым, што выклікае праблемы ўстойлівасці і бяспекі.">
 <!ENTITY toBeDisabled.label "Гэты дадатак будзе забаронены падчас перазапуску &brandShortName;.">
 <!ENTITY toBeEnabled.label "Гэты дадатак будзе дазволены падчас перазапуску &brandShortName;.">
 <!ENTITY toBeInstalled.label "Гэты дадатак будзе ўсталяваны падчас перазапуску &brandShortName;.">
@@ -146,3 +147,5 @@
 <!ENTITY eula.width "580px">
 <!ENTITY eula.height "410px">
 <!ENTITY eula.accept "Пагадзіцца і ўсталяваць…">
+<!ENTITY blocklist.blocked.label "Блакавана">
+<!ENTITY blocklist.checkbox.label "Забаронена">
