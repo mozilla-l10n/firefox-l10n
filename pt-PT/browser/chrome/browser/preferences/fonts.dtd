@@ -65,5 +65,5 @@
 <!ENTITY languages.customize.DefaultCharset.label "Codificação de caracteres por omissão:">
 <!ENTITY languages.customize.DefaultCharset.accesskey "C">
 
-<!ENTITY  sizeProportional.accesskey              "z">
-<!ENTITY  sizeMonospace.accesskey                 "e">
+<!ENTITY  sizeProportional.accesskey              "a">
+<!ENTITY  sizeMonospace.accesskey                 "m">
