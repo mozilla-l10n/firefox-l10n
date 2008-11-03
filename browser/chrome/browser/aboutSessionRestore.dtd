@@ -1,0 +1,18 @@
+<!ENTITY restorepage.tabtitle       "Restaurează sesiunea">
+<!ENTITY restorepage.pagetitle      "Doriți să restaurați sesiunea anterioară?">
+<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
+                        you may translate "crash" instead (even though it's IT-speak) -->
+<!ENTITY restorepage.issueDesc      "Sesiunea dumneavoastră de &brandShortName; s-a încheiat neașteptat. Ne cerem scuze pentru orice inconvenient creat. Puteți restaura filele și ferestrele din sesiunea anterioară sau puteți începe o nouă sesiunea dacă nu mai aveți nevoie de ele.">
+<!ENTITY restorepage.remedies       "Dacă &brandShortName; se închide în mod repetat:">
+<!ENTITY restorepage.dueToChrome    "Încercați să dezactivați cele mai recent instalate suplimente din gestionarul de suplimente.">
+<!ENTITY restorepage.dueToContent   "Încercați să restaurați sesiunea fără pagini pe care le suspectați că ar putea crea problema:">
+
+<!ENTITY restorepage.restoreButton  "Restaurează sesiunea anterioară">
+<!ENTITY restorepage.restore.access "R">
+<!ENTITY restorepage.cancelButton   "Pornește o sesiune nouă">
+<!ENTITY restorepage.cancel.access  "S">
+
+<!ENTITY restorepage.restoreHeader  "Restaurează">
+<!ENTITY restorepage.listHeader     "Ferestre și file">
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Fereastra &#37;S">
