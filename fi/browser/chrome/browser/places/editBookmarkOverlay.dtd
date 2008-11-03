@@ -21,3 +21,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Avaa kirjanmerkki sivupalkkiin">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "v">
 <!ENTITY editBookmarkOverlay.choose.label                    "Valitse…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Uusi kansio">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "U">

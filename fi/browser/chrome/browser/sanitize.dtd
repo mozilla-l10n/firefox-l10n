@@ -1,7 +1,7 @@
 <!ENTITY sanitizeDialog.title          "Poista yksityisyystietoja">
 
 <!ENTITY sanitizeItems.label           "Poista seuraavat tiedot:">
-<!ENTITY clearDataSettings.label      "Seuraavat yksityisyystiedot pitäisi pyydettäessä poistaa:">
+<!ENTITY clearDataSettings.label      "Seuraavat yksityisyystiedot poistetaan pyydettäessä:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
@@ -19,6 +19,6 @@
 <!ENTITY itemOfflineApps.accesskey    "Y">
 <!ENTITY itemDownloads.label           "Latauslista">
 <!ENTITY itemDownloads.accesskey       "L">
-<!ENTITY itemSessions.label            "Todennetut istunnot">
-<!ENTITY itemSessions.accesskey        "d">
+<!ENTITY itemActiveLogins.label       "Aktiiviset kirjautumiset">
+<!ENTITY itemActiveLogins.accesskey   "k">
 <!ENTITY window.width                 "30em">
