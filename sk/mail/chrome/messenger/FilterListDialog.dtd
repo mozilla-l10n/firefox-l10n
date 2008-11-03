@@ -22,8 +22,8 @@
 <!ENTITY stopFilters.accesskey "s">
 <!ENTITY folderPickerPrefix.label "Spustiť vybrané filtre na priečinok:">
 <!ENTITY folderPickerPrefix.accesskey "r">
-<!ENTITY choosethis.label "zvoliť tento priečinok">
-<!ENTITY choosethisnewsserver.label "vybrať tento server diskusných skupín">
+<!ENTITY choosethis.label "Zvoliť tento priečinok">
+<!ENTITY choosethisnewsserver.label "Zvoliť tento server diskusných skupín">
 <!ENTITY helpButton.label "Pomocník">
 <!ENTITY helpButton.accesskey "P">
 <!ENTITY closeCmd.key "W">

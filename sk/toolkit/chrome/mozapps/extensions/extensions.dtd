@@ -112,6 +112,7 @@
 <!ENTITY insecureUpdate.label             "Neposkytuje zabezpečené aktualizácie.">
 <!ENTITY needsDependencies.label          "Vyžaduje ďalšie doplnky.">
 <!ENTITY blocklisted.label                "Zakázané z dôvodu vašej ochrany.">
+<!ENTITY softBlocklisted.label            "Spôsobuje problémy s bezpečnosťou alebo stabilitou.">
 <!ENTITY toBeDisabled.label               "Tento doplnok bude zakázaný po reštarte aplikácie &brandShortName;">
 <!ENTITY toBeEnabled.label                "Tento doplnok bude povolený po reštarte aplikácie &brandShortName;">
 <!ENTITY toBeInstalled.label              "Tento doplnok bude nainštalovaný po reštarte aplikácie &brandShortName;">
@@ -168,3 +169,6 @@
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "Prijať a nainštalovať…">
+
+<!ENTITY blocklist.blocked.label          "Blokované">
+<!ENTITY blocklist.checkbox.label         "Zakázané">

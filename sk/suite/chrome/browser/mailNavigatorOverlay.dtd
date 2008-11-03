@@ -14,6 +14,10 @@
 <!ENTITY contextSendThisLink.accesskey   "e">
 <!ENTITY contextSendImage.label          "Odoslať obrázok…">
 <!ENTITY contextSendImage.accesskey      "b">
+<!ENTITY contextSendVideo.label          "Odoslať video…">
+<!ENTITY contextSendVideo.accesskey      "l">
+<!ENTITY contextSendAudio.label          "Odoslať zvuk…">
+<!ENTITY contextSendAudio.accesskey      "l">
 <!ENTITY contextSendFrame.label          "Odoslať rámec…">
 <!ENTITY contextSendFrame.accesskey      "d">
 

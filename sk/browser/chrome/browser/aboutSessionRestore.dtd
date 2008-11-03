@@ -1,6 +1,8 @@
-<!ENTITY restorepage.title          "Obnovenie predchádzajúcej relácie">
-<!ENTITY restorepage.titletext      "Posledná relácia prehliadača &brandShortName; bola neočakávane ukončená">
-<!ENTITY restorepage.shortDesc      "Teraz môžete obnoviť okná a karty otvorené pri ukončení predchádzajúcej relácie, alebo spustiť novú reláciu, ak tieto nie sú potrebné. Ospravedlňujeme sa za spôsobené nepríjemnosti.">
+<!ENTITY restorepage.tabtitle       "Obnovenie relácie">
+<!ENTITY restorepage.pagetitle      "Chcete obnoviť vašu reláciu?">
+<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
+                        you may translate "crash" instead (even though it's IT-speak) -->
+<!ENTITY restorepage.issueDesc      "Posledná relácia prehliadača &brandShortName; bola neočakávane ukončená. Ospravedlňujeme sa za túto nepríjemnosť. Teraz môžete obnoviť okná a karty otvorené pri ukončení predchádzajúcej relácie, alebo spustiť novú reláciu, ak tieto nie sú potrebné.">
 <!ENTITY restorepage.remedies       "Ak sa &brandShortName; ukončuje opakovane:">
 <!ENTITY restorepage.dueToChrome    "V Správcovi doplnkov skúste zákazať naposledy pridané rozšírenia.">
 <!ENTITY restorepage.dueToContent   "Skúste obnoviť reláciu bez načítania stránok, ktoré by mohli spôsobovať zlyhanie:">
@@ -12,5 +14,5 @@
 
 <!ENTITY restorepage.restoreHeader  "Obnoviť">
 <!ENTITY restorepage.listHeader     "Okná a karty">
-<!-- LOCALIZATION NOTE: %S will be replaced with a number. -->
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Okno č. &#37;S">

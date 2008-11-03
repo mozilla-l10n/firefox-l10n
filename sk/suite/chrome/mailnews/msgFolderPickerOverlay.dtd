@@ -40,9 +40,9 @@
 <!ENTITY subscribeclickhere.label "kliknutím sem vyberte server diskusných skupín">
 <!ENTITY newfolderchoosethis.label "vybrať ako rodiča">
 <!ENTITY newfolderclickhere.label "Kliknutím sem vybrať">
-<!ENTITY renamefolderchoosethis.label "vybrať tento priečinok">
+<!ENTITY renamefolderchoosethis.label "zvoliť tento priečinok">
 <!ENTITY renamefolderclickhere.label "kliknutím sem vyberte tento priečinok">
-<!ENTITY filemessageschoosethis.label "vybrať tento priečinok">
+<!ENTITY filemessageschoosethis.label "zvoliť tento priečinok">
 <!ENTITY filemessagesclickhere.label "kliknutím sem vyberte tento priečinok">
 <!ENTITY chooseaccountclickhere.label "Kliknutím sem zvoľte účet">
 <!ENTITY choosefolderclickhere.label "Kliknutím sem zvoľte priečinok">
