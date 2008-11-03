@@ -1,10 +1,170 @@
-<!ENTITY blocklist.title             "Add-ons may be causing problems">
-<!ENTITY blocklist.style             "width: 45em; height: 30em">
-<!ENTITY blocklist.summary           "&brandShortName; has determined that the following add-ons are known to cause stability or security problems:">
-<!ENTITY blocklist.softblocked       "For your protection, it is highly recommended that you restart with these add-ons disabled.">
-<!ENTITY blocklist.hardblocked       "These add-ons have a high risk of causing stability or security problems and have been blocked, but a restart is required to disable them completely.">
-<!ENTITY blocklist.softandhard       "The add-ons that have a high risk of causing stability or security problems have been blocked. The others are lower risk, but it is highly recommended that you restart with them disabled.">
-<!ENTITY blocklist.moreinfo          "More information">
+<!ENTITY addons.title                     "Eklentiler">
 
-<!ENTITY blocklist.accept.label      "Restart &brandShortName;">
-<!ENTITY blocklist.accept.accesskey  "R">
+<!-- Default window size for the addon manager in pixels -->
+<!ENTITY em.width                         "520">
+<!ENTITY em.height                        "380">
+
+<!ENTITY cmd.info.commandKey              "i">
+<!ENTITY cmd.options.commandKey           ",">
+<!ENTITY cmd.close.commandKey             "w">
+
+<!-- View labels -->
+<!ENTITY search.label                     "Eklenti edin">
+<!ENTITY extensions.label                 "Eklentiler">
+<!ENTITY themes.label                     "Temalar">
+<!ENTITY locales.label                    "Diller">
+<!ENTITY plugins.label                    "Yan uygulamalar">
+<!ENTITY update.label                     "Güncellemeler">
+<!ENTITY install.label                    "Kurulum">
+
+<!-- Command Bar items -->
+<!ENTITY cmd.checkUpdatesAll.label        "Güncellemelere bak">
+<!ENTITY cmd.checkUpdatesAll.accesskey    "b">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Eklenti güncellemelerine bak">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Tema güncellemelerine bak">
+<!ENTITY cmd.installLocalFile.label       "Kur...">
+<!ENTITY cmd.installLocalFile.accesskey   "K">
+<!ENTITY cmd.installFileAddon.tooltip     "Eklenti kur">
+<!ENTITY cmd.installFileTheme.tooltip     "Tema kur">
+<!ENTITY cmd.installUpdatesAll.label      "Güncellemeleri kur">
+<!ENTITY cmd.installUpdatesAll.accesskey  "G">
+<!ENTITY cmd.installUpdatesAll.tooltip    "Seçilen güncellemeleri kur">
+<!ENTITY cmd.restartApp2.label            "&brandShortName; uygulamasını tekrar başlat">
+<!ENTITY cmd.restartApp2.accesskey        "r">
+<!ENTITY cmd.restartApp2.tooltip          "Değişiklikleri uygulamak için &brandShortName; uygulamasını tekrar başlatır">
+<!ENTITY cmd.skip.label                   "Atla">
+<!ENTITY cmd.skip.accesskey               "A">
+<!ENTITY cmd.skip.tooltip                 "Bu güncellemeleri atla">
+<!ENTITY cmd.continue.label               "Devam et">
+<!ENTITY cmd.continue.accesskey           "D">
+<!ENTITY cmd.continue.tooltip             "&brandShortName; yüklemesine devam eder">
+
+<!ENTITY cmd.enableAll.label              "Tümünü etkinleştir">
+<!ENTITY cmd.enableAll.accesskey          "e">
+<!ENTITY cmd.enableAll.tooltip            "Tüm eklentileri ektinleştir">
+<!ENTITY cmd.disableAll.label             "Tümünü etkisizleştir">
+<!ENTITY cmd.disableAll.accesskey         "s">
+<!ENTITY cmd.disableAll.tooltip           "Tüm eklentileri etkisizleştir">
+
+<!-- Displayed in the selected Add-on's richlistitem and context menu -->
+<!ENTITY cmd.useTheme.label               "Temayı kullan">
+<!ENTITY cmd.useTheme.accesskey           "T">
+<!ENTITY cmd.useTheme.tooltip             "&brandShortName; temasını değiştirir">
+<!ENTITY cmd.options.label                "Seçenekler">
+<!ENTITY cmd.options.accesskey            "S">
+<!ENTITY cmd.options.tooltip              "Seçili eklenti için seçenekleri gösterir ve ayarlar">
+<!ENTITY cmd.optionsUnix.label            "Tercihler">
+<!ENTITY cmd.optionsUnix.accesskey        "r">
+<!ENTITY cmd.optionsUnix.tooltip          "Seçili eklentilerin tercihlerini düzenlemenizi sağlar">
+<!ENTITY cmd.enable.label                 "Etkinleştir">
+<!ENTITY cmd.enable.accesskey             "E">
+<!ENTITY cmd.enable.tooltip               "Bu eklentiyi &brandShortName; baştan başlatıldığında etkin hale getirir">
+<!ENTITY cmd.disable.label                "Etkisizleştir">
+<!ENTITY cmd.disable.accesskey            "t">
+<!ENTITY cmd.disable.tooltip              "Bu eklentiyi &brandShortName; baştan başlatıldığında etkisiz hale getirir">
+<!ENTITY cmd.uninstall.label              "Kaldır">
+<!ENTITY cmd.uninstall2.accesskey         "K">
+<!ENTITY cmd.uninstall2.tooltip           "Bu eklentiyi &brandShortName; baştan başlatıldığında kaldırır">
+<!ENTITY cmd.cancelUninstall.label        "Kaldırma işleminden vazgeç">
+<!ENTITY cmd.cancelUninstall.accesskey    "v">
+<!ENTITY cmd.cancelUninstall.tooltip      "Eklenti kaldırımından vazgeç">
+<!ENTITY cmd.cancelInstall.label          "Kurulumdan vazgeç">
+<!ENTITY cmd.cancelInstall.accesskey      "K">
+<!ENTITY cmd.cancelInstall.tooltip        "Bu eklentinin kurulumundan vazgeçilir">
+<!ENTITY cmd.cancelUpgrade.label          "Güncellemeden vazgeç">
+<!ENTITY cmd.cancelUpgrade.accesskey      "G">
+<!ENTITY cmd.cancelUpgrade.tooltip        "Bu eklentinin sürüm güncellemesinden vazgeç">
+<!ENTITY cmd.installUpdate.label          "Güncellemeleri kur">
+<!ENTITY cmd.installUpdate.accesskey      "k">
+<!ENTITY cmd.installUpdate.tooltip        "Eklenti güncellemesini uygular">
+<!ENTITY cmd.showUpdateInfo.label         "Bilgileri göster">
+<!ENTITY cmd.showUpdateInfo.accesskey     "B">
+<!ENTITY cmd.showUpdateInfo.tooltip       "Bu güncelleme hakkında ayrıntılı bilgileri gösterir">
+<!ENTITY cmd.hideUpdateInfo.label         "Bilgileri gizle">
+<!ENTITY cmd.hideUpdateInfo.accesskey     "g">
+<!ENTITY cmd.hideUpdateInfo.tooltip       "Bu güncelleme hakkında bilgileri gizler">
+<!ENTITY cmd.installSearchResult.label     "&brandShortName; uygulamasına ekle...">
+<!ENTITY cmd.installSearchResult.accesskey "a">
+<!ENTITY cmd.installSearchResult.tooltip   "Bu eklentiyi indir ve kur">
+<!-- The selected add-on's cancel action button label -->
+<!ENTITY cancel.label                     "Vazgeç">
+<!ENTITY cancel.accesskey                 "z">
+<!ENTITY cancelInstall.label              "Vazgeç">
+<!ENTITY cancelInstall.accesskey          "V">
+<!ENTITY cancelUpgrade.label              "Vazgeç">
+<!ENTITY cancelUpgrade.accesskey          "V">
+
+<!-- Only displayed in the selected Add-on's context menu -->
+<!ENTITY cmd.homepage.label               "İnternet sayfasını ziyaret et">
+<!ENTITY cmd.homepage.accesskey           "s">
+<!ENTITY cmd.about2.label                 "Eklenti hakkında">
+<!ENTITY cmd.about.accesskey              "E">
+<!ENTITY cmd.checkUpdate.label            "Güncellemelere bak">
+<!ENTITY cmd.checkUpdate.accesskey        "b">
+
+<!ENTITY cmd.includeUpdate.label          "Güncellemeleri içersin">
+<!ENTITY cmd.includeUpdate.accesskey      "n">
+<!ENTITY includeUpdate.label              "Bu güncellemeyi içersin">
+<!ENTITY includeUpdate.accesskey          "n">
+<!ENTITY includeUpdate.tooltip            "Bu güncelleme kurulursa bu eklentiyi de içerir">
+
+<!-- Status Messsages -->
+<!ENTITY insecureUpdate.label             "Güvenli güncellemeler sağlamaz.">
+<!ENTITY needsDependencies.label          "Ek öğeler gerekli.">
+<!ENTITY blocklisted.label                "Güvenliğiniz için etkisizleştirildi.">
+<!ENTITY toBeDisabled.label               "&brandShortName; baştan başlatıldığında etkisiz hale getirilecek.">
+<!ENTITY toBeEnabled.label                "&brandShortName; baştan başlatıldığında etkinleştirilecek.">
+<!ENTITY toBeInstalled.label              "&brandShortName; baştan başlatıldığında kurulacak.">
+<!ENTITY toBeUninstalled.label            "&brandShortName; baştan başlatıldığında kaldırılacak.">
+<!ENTITY toBeUpdated.label                "&brandShortName; baştan başlatıldığında eklenti güncellenecek.">
+
+<!ENTITY getExtensions.label              "Eklenti indir">
+<!ENTITY getThemes.label                  "Tema indir">
+<!ENTITY getPlugins.label                 "Yan uygulama indir">
+
+<!ENTITY searchAddons.label               "Tüm eklentileri ara">
+<!ENTITY browseAddons.label               "Tüm eklentilere bak">
+<!ENTITY searchFailed.label               "&brandShortName; eklentilere ulaşamadı">
+<!ENTITY recommendedHeader.label          "Tavsiye ediliyor">
+<!ENTITY recommendedThrobber.label        "Tavsiye edilen eklentilere ulaşılıyor">
+<!ENTITY searchThrobber.label             "Eklentiler aranıyor">
+<!ENTITY resetSearch.label                "Sonuçları temizle">
+<!ENTITY noSearchResults.label            "Bulunanlar ya zaten kurulu ya da uyumsuz.">
+<!ENTITY noRecommendedResults.label       "Tavsiye edilenler ya zaten kurulu ya da uyumsuz.">
+<!ENTITY emptySearch.label                "Eşleşen eklenti yok">
+<!ENTITY emptySearch.button               "Tamam">
+<!ENTITY cancelSearch.button              "Vazgeç">
+<!ENTITY searchFailed.button              "Tamam">
+<!ENTITY searchResultHomepage.value       "Daha fazla bilgi al">
+<!ENTITY searchBox.label                  "Tüm eklentileri ara">
+<!ENTITY recommendedResults.label         "Tavsiye edilen tüm eklentilere bak">
+<!ENTITY searchResultConnecting.label     "Bağlanılıyor...">
+<!ENTITY searchResultInstalling.label     "Kuruluyor...">
+<!ENTITY searchResultFailed.label         "Kurulum başarısız oldu">
+<!ENTITY searchResultInstalled.label      "Kurulum tamamlandı">
+<!ENTITY addonTypeExtension.label         "Eklenti">
+<!ENTITY addonTypeTheme.label             "Tema">
+<!ENTITY missingThumbnail.label           "Önizleme yok">
+
+<!ENTITY previewNoThemeSelected.label     "Tema seçilmedi">
+<!ENTITY previewNoPreviewImage.label      "Bu temanın önizleme resmi yok">
+<!ENTITY moreInfo.label                   "Detaylı bilgiler">
+<!ENTITY infoNoAddonSelected.label        "Güncellenecek bir şey seçilmedi">
+<!ENTITY infoNoUpdateInfo.label           "Bu güncellemede daha fazla bilgi mevcut değil">
+<!ENTITY infoUpdateInfoError.label        "Bu güncellemenin ayrıntıları yüklenirken bir hata meydana geldi">
+
+<!ENTITY updateSuccess.label              "Güncelleme başarılı bir şekilde tamamlandı.">
+<!ENTITY installSuccess.label             "Kurulum başarılı bir şekilde tamamlandı.">
+<!ENTITY installSuccessRestart.label      "Kurulumu tamamlamak için uygulamayı baştan başlatın.">
+<!ENTITY updateSuccessRestart.label       "Güncellemeyi tamamlamak için tekrar başlatın.">
+<!ENTITY installWaiting.label             "Biraz bekleyin...">
+<!ENTITY installIncompatibleUpdate.label  "Uyumluluk kontrol ediliyor...">
+<!ENTITY installFinishing.label           "Kuruluyor...">
+<!ENTITY installFailure.label             "Kurulum başarısız.">
+
+<!ENTITY progressStatus.label             "Güncellemelere bakılıyor">
+
+<!ENTITY eula.title                       "Son kullanıcı lisans sözleşmesi">
+<!ENTITY eula.width                       "560px">
+<!ENTITY eula.height                      "400px">
+<!ENTITY eula.accept                      "Kabul et ve kur...">
