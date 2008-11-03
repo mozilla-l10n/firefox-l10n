@@ -199,5 +199,7 @@
 <!ENTITY searchResultConnecting.label     "Σύνδεση…">
 
 
-
+<!ENTITY blocklist.blocked.label          "Φραγμένα">
+<!ENTITY blocklist.checkbox.label         "Απενεργοποίηση">
+<!ENTITY softBlocklisted.label            "Γνωστά για προβλήματα σταθερότητας ή ασφάλειας.">
 
