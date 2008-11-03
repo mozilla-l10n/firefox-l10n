@@ -143,7 +143,8 @@
 <!-- Status Messsages -->
 <!ENTITY insecureUpdate.label             "Nepateikia saugių atnaujinimų.">
 <!ENTITY needsDependencies.label          "Reikia papildomų elementų.">
-<!ENTITY blocklisted.label                "Išjungta saugumo sumetimais.">
+<!ENTITY blocklisted.label                "Išjungtas saugumo sumetimais.">
+<!ENTITY softBlocklisted.label            "Žinomas saugumo ar stabilumo problemų sukėlėjas.">
 <!ENTITY toBeDisabled.label               "Šis priedas bus išjungtas paleidus programą „&brandShortName;“ iš naujo.">
 <!ENTITY toBeEnabled.label                "Šis priedas bus įjungtas paleidus programą „&brandShortName;“ iš naujo.">
 <!ENTITY toBeInstalled.label              "Šis priedas bus įdiegtas paleidus programą „&brandShortName;“ iš naujo.">
@@ -200,3 +201,6 @@
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "Priimti licenciją ir įdiegti priedą…">
+
+<!ENTITY blocklist.blocked.label          "Užblokuotas">
+<!ENTITY blocklist.checkbox.label         "Išjungti">
