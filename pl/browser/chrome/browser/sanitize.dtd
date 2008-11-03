@@ -17,6 +17,6 @@
 <!ENTITY itemOfflineApps.label        "dane witryn trybu offline">
 <!ENTITY itemOfflineApps.accesskey    "d">
 <!ENTITY itemDownloads.label          "historię pobieranych plików">
-<!ENTITY itemDownloads.accesskey      "b"> 
-<!ENTITY itemSessions.label           "sesje uwierzytelnione"> 
-<!ENTITY itemSessions.accesskey       "s">
+<!ENTITY itemDownloads.accesskey      "b">
+<!ENTITY itemSessions.label           "aktywne zalogowania">
+<!ENTITY itemSessions.accesskey       "a">
