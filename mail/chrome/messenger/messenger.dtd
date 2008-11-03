@@ -3,8 +3,8 @@
 <!ENTITY titleSeparator.label " - ">
 <!ENTITY newFolderCmd.label "תיקייה...">
 <!ENTITY newFolderCmd.accesskey "ת">
-<!ENTITY newTabCmd.label "לשונית חדשה">
-<!ENTITY newTabCmd.accesskey "ש">
+<!-- ###ENTITY newTabCmd.label "לשונית חדשה" -->
+<!-- ###ENTITY newTabCmd.accesskey "ש" -->
 <!ENTITY closeTabCmd.label "סגור לשונית">
 <!ENTITY closeTabCmd.accesskey "ג">
 <!ENTITY newVirtualFolderCmd.label "חיפוש שמור...">
@@ -69,7 +69,7 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "הצג לפני הדפסה">
 <!ENTITY printPreviewCmd.accesskey "נ">
-<!ENTITY printPreviewCmd.key "v">
+<!-- ###ENTITY printPreviewCmd.key "v" -->
 <!ENTITY printSetupCmd.label "הגדרת עמוד...">
 <!ENTITY printSetupCmd.accesskey "ה">
 <!ENTITY deleteMsgCmd.label "מחק הודעה">
@@ -128,8 +128,8 @@
 <!ENTITY messagePaneWide.accesskey "ח">
 <!ENTITY messagePaneVertical.label "תצוגה אנכית">
 <!ENTITY messagePaneVertical.accesskey "א">
-<!ENTITY threadPaneWide.label "תצוגת רשימה רחבה">
-<!ENTITY threadPaneWide.accesskey "ש">
+<!-- ###ENTITY threadPaneWide.label "תצוגת רשימה רחבה" -->
+<!-- ###ENTITY threadPaneWide.accesskey "ש" -->
 <!ENTITY showMessageCmd.label "חלונית הודעה">
 <!ENTITY showMessageCmd.accesskey "ה">
 <!ENTITY folderView.label "תיקיות">
@@ -191,8 +191,8 @@
 <!ENTITY threads.accesskey "e">
 <!ENTITY allMsgsCmd.label "הכל">
 <!ENTITY allMsgsCmd.accesskey "A">
-<!ENTITY expandOrCollapseMenu.label "הרחב/צמצם">
-<!ENTITY expandOrCollapseMenu.accesskey "x">
+<!-- ###ENTITY expandOrCollapseMenu.label "הרחב/צמצם" -->
+<!-- ###ENTITY expandOrCollapseMenu.accesskey "x" -->
 <!ENTITY expandAllThreadsCmd.label "הרחב את כל נושאי הדיון">
 <!ENTITY expandAllThreadsCmd.accesskey "E">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -242,8 +242,8 @@
 <!ENTITY pageSourceCmd.label "קוד מקור ההודעה">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
-<!ENTITY searchMenu.label "חיפוש">
-<!ENTITY searchMenu.accesskey "S">
+<!-- ###ENTITY searchMenu.label "חיפוש" -->
+<!-- ###ENTITY searchMenu.accesskey "S" -->
 <!ENTITY findMenu.label "מצא">
 <!ENTITY findMenu.accesskey "מ">
 <!ENTITY findCmd.label "מצא בהודעה זו...">
@@ -368,8 +368,8 @@
 <!ENTITY markAsReadCmd.label "כנקרא">
 <!ENTITY markAsReadCmd.accesskey "R">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "כלא נקראו">
-<!ENTITY markAsUnreadCmd.accesskey "U">
+<!-- ###ENTITY markAsUnreadCmd.label "כלא נקראו" -->
+<!-- ###ENTITY markAsUnreadCmd.accesskey "U" -->
 <!ENTITY markThreadAsReadCmd.label "נושא כנקרא">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -390,13 +390,13 @@
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "הפעל פקדי דואר זבל">
 <!ENTITY recalculateJunkScoreCmd.accesskey "C">
-<!ENTITY openMessageWindowCmd.label "פתח הודעה">
+<!-- ###ENTITY openMessageWindowCmd.label "פתח הודעה" -->
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "חלון">
-<!ENTITY windowMenu.accesskey "W">
+<!-- ###ENTITY windowMenu.accesskey "W" -->
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "כלים">
@@ -456,7 +456,7 @@
 <!ENTITY printButton.label "הדפסה">
 <!ENTITY stopButton.label "עצור">
 <!ENTITY throbberItem.title "מחוון פעילות">
-<!ENTITY updatesItem.title "עדכונים">
+<!-- ####ENTITY updatesItem.title "עדכונים" -->
 <!ENTITY junkButton.label "דואר זבל">
 <!ENTITY notJunkButton.label "לא זבל">
 <!ENTITY addressBookButton.label "פנקס כתובות">
@@ -469,7 +469,7 @@
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "חיפוש הודעות מתקדם">
-<!ENTITY clearButton.tooltip "נקה את קריטריון החיפוש והראה את כל ההודעות">
+<!-- ###ENTITY clearButton.tooltip "נקה את קריטריון החיפוש והראה את כל ההודעות" -->
 <!ENTITY getMsgButton.tooltip "קבל הודעות חדשות">
 <!ENTITY newMsgButton.tooltip "צור הודעה חדשה">
 <!ENTITY replyButton.tooltip "השב להודעה">
@@ -567,7 +567,7 @@
 <!ENTITY statusColumn.label "מצב">
 <!ENTITY sizeColumn.label "גודל">
 <!ENTITY junkStatusColumn.label "מצב דואר זבל">
-<!ENTITY linesColumn.label "שורות">
+<!-- ###ENTITY linesColumn.label "שורות" -->
 <!ENTITY unreadColumn.label "לא נקראה">
 <!ENTITY totalColumn.label "סה״כ">
 <!ENTITY readColumn.label "נקראה">

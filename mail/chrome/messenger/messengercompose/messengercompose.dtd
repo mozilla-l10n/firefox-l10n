@@ -69,7 +69,7 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "מחק">
-<!ENTITY deleteCmd.key "D">
+<!-- ###ENTITY deleteCmd.key "D" -->
 <!ENTITY deleteCmd.accesskey "ח">
 <!ENTITY selectAllCmd.label "בחר הכל">
 <!ENTITY selectAllCmd.key "A">
@@ -94,7 +94,7 @@
 <!-- ### ENTITY showFormatToolbarCmd.label "סרגל כלים עיצוב" -->
 <!-- ### ENTITY showFormatToolbarCmd.accesskey "ע" -->
 <!ENTITY showCompositionToolbarCmd.label "סרגל כלים כתיבה">
-<!ENTITY showCompositionToolbarCmd.accesskey "כ">
+<!-- ###ENTITY showCompositionToolbarCmd.accesskey "כ" -->
 <!ENTITY showFormattingBarCmd.label "סרגל עיצוב">
 <!ENTITY showFormattingBarCmd.accesskey "ע">
 <!ENTITY showTaskbarCmd.label "שורת מצב">
@@ -159,7 +159,7 @@
 <!ENTITY accountManagerCmd.accesskey "ה">
 <!ENTITY accountManagerCmdUnix.accesskey "ה">
 <!ENTITY preferencesCmd.label "אפשרויות...">
-<!ENTITY preferencesCmd.key "O">
+<!-- ###ENTITY preferencesCmd.key "O" -->
 <!ENTITY preferencesCmd.accesskey "א">
 <!ENTITY preferencesCmdUnix.label "העדפות">
 <!ENTITY preferencesCmdUnix.accesskey "פ">
@@ -205,9 +205,9 @@
 <!ENTITY subject.accesskey "נ">
 <!ENTITY attachments.label "קבצים מצורפים:">
 <!ENTITY attachments.accesskey "c">
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
+<!-- ###ENTITY formatToolbar.boldChar "B" -->
+<!-- ###ENTITY formatToolbar.italicChar "I" -->
+<!-- ###ENTITY formatToolbar.underlineChar "U" -->
 <!ENTITY SmileButton.tooltip "הכנס פרצוף מחייך">
 <!ENTITY smiley1Cmd.label "חיוך">
 <!ENTITY smiley2Cmd.label "זועף">
