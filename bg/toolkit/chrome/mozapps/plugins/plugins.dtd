@@ -21,3 +21,5 @@
 <!ENTITY pluginWizard.finalPage.restart.label "Трябва да рестартирате &brandShortName;, за да заработят приставките.">
   
 <!ENTITY missingPlugin.label "Натиснете тук, за да изтеглите приставката.">
+<!ENTITY disabledPlugin.label "Приставката за това съдържание е изключена. Щракнете тук, за да видите приставките.">
+<!ENTITY blockedPlugin.label "Приставката беше блокирана от съобрания за сигурност.">

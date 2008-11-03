@@ -7,8 +7,4 @@
 <!ENTITY focusSearch1.key "ф">
 <!ENTITY focusSearch2.key "к">
 
-<!ENTITY filter.label "Търсене">
-<!ENTITY filter.accesskey "Т">
-
-<!ENTITY clear.label "Изчистване">
-<!ENTITY clear.accesskey "И">
+<!ENTITY filter.emptytext "Търсене">

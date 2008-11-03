@@ -1,18 +1,18 @@
 <!ENTITY warnAddonInstall.label "Предупреждение при опит на сайт да инсталира добавки">
 <!ENTITY warnAddonInstall.accesskey "д">
-<!-- LOCALIZATION NOTE (tellMaybeForgery.label, tellMaybeAttackSite.label):
+<!-- LOCALIZATION NOTE (blockWebForgeries.label, blockAttackSites.label):
   The methods by which forged (phished) and attack sites will be detected by
   phishing providers will vary from human review to machine-based heuristics to a
   combination of both, so it's important that these strings and
-  useDownloadedList.label convey the meaning "suspected" (and not something like
+  useDownloadedList.label convey the meaning "reported" (and not something like
   "known").
 -->
 
-<!ENTITY tellMaybeAttackSite.label "Предупреждение при подозрение за атакуващ сайт">
-<!ENTITY tellMaybeAttackSite.accesskey "а">
+<!ENTITY blockAttackSites.label "Блокиране на сайтовете, докладвани като „атакуващи“">
+<!ENTITY blockAttackSites.accesskey "Б">
 
-<!ENTITY tellMaybeForgery.label "Предупреждение при подозрение за измамнически сайт">
-<!ENTITY tellMaybeForgery.accesskey "и">
+<!ENTITY blockWebForgeries.label "Блокиране на сайтовете, докладвани като „измамнически“">
+<!ENTITY blockWebForgeries.accesskey "к">
 
 <!ENTITY addonExceptions.label "Изключения…">
 <!ENTITY addonExceptions.accesskey "И">

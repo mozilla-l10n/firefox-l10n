@@ -60,8 +60,8 @@
 <!ENTITY generalEncoding "Кодиране на знаците:">
 <!ENTITY generalMetaName "Име">
 <!ENTITY generalMetaContent "Съдържание">
-<!ENTITY generalSecurityMore "Още">
-<!ENTITY generalSecurityMore.accesskey "о">
+<!ENTITY generalSecurityDetails "Подробности">
+<!ENTITY generalSecurityDetails.accesskey "D">
 
 <!ENTITY mediaTab "Медия">
 <!ENTITY mediaTab.accesskey "М">

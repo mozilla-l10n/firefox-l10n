@@ -21,9 +21,9 @@
 <!ENTITY gopher.label "Прокси за Gopher:">
 <!ENTITY gopher.accesskey "G">
 <!ENTITY http.label "Прокси за HTTP:">
-<!ENTITY http.accesskey "H">
+<!ENTITY http.accesskey "П">
 <!ENTITY ssl.label "Прокси за SSL:">
-<!ENTITY ssl.accesskey "S">
+<!ENTITY ssl.accesskey "L">
 <!ENTITY socks.label "SOCKS хост:">
 <!ENTITY socks.accesskey "C">
 <!ENTITY socks4.label "SOCKS v4">

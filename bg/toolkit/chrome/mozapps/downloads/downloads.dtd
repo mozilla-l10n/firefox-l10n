@@ -39,6 +39,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.clearList.tooltip "Изчистване на списъка с изтегляния">
 <!ENTITY cmd.clearList.accesskey "И">
 <!ENTITY cmd.find.commandKey "f">
+<!ENTITY cmd.search.commandKey "к">
 
 <!ENTITY closeWhenDone.label "Затваряне при завършване на изтеглянето">
 <!ENTITY closeWhenDone.tooltip "Затваряне на прозореца на изтеглянията, когато всички файлове са изтеглени">

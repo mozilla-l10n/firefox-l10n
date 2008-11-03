@@ -222,6 +222,8 @@
 <!ENTITY reloadFrameCmd.accesskey "П">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Изходен код на маркираното">
 <!ENTITY viewPartialSourceForMathMLCmd.label "MathML код">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label "Изходен код на страницата">
 <!ENTITY viewPageSourceCmd.accesskey "к">
@@ -231,10 +233,12 @@
 <!ENTITY viewPageInfoCmd.accesskey "И">
 <!ENTITY viewFrameInfoCmd.label "Информация за рамката">
 <!ENTITY viewFrameInfoCmd.accesskey "И">
-<!ENTITY showImageCmd.label "Показване на изображението">
-<!ENTITY showImageCmd.accesskey "в">
+<!ENTITY reloadImageCmd.label "Reload Image">
+<!ENTITY reloadImageCmd.accesskey "R">
 <!ENTITY viewImageCmd.label "Преглед на изображението">
 <!ENTITY viewImageCmd.accesskey "П">
+<!ENTITY viewVideoCmd.label "View Video">
+<!ENTITY viewVideoCmd.accesskey "I">
 <!ENTITY viewBGImageCmd.label "Преглед на фоновото изображение">
 <!ENTITY viewBGImageCmd.accesskey "ф">
 <!ENTITY setDesktopBackgroundCmd.label "Поставяне като фон на работния плот…">
@@ -262,8 +266,16 @@
 <!ENTITY sendLinkCmd.accesskey "щ">
 <!ENTITY saveImageCmd.label "Запис на изображението като…">
 <!ENTITY saveImageCmd.accesskey "и">
+<!ENTITY saveVideoCmd.label "Запис на видеото като...">
+<!ENTITY saveVideoCmd.accesskey "в">
+<!ENTITY saveAudioCmd.label "Запис на аудиото като...">
+<!ENTITY saveAudioCmd.accesskey "а">
 <!ENTITY sendImageCmd.label "Изпращане на изображението…">
 <!ENTITY sendImageCmd.accesskey "И">
+<!ENTITY sendVideoCmd.label "Изпращане на видео...">
+<!ENTITY sendVideoCmd.accesskey "щ">
+<!ENTITY sendAudioCmd.label "Изпращане на аудио...">
+<!ENTITY sendAudioCmd.accesskey "щ">
 <!ENTITY copyLinkCmd.label "Копиране адреса на връзката">
 <!ENTITY copyLinkCmd.accesskey "а">
 <!ENTITY copyLinkTextCmd.label "Копиране текста на връзката">
@@ -272,6 +284,10 @@
 <!ENTITY copyImageCmd.accesskey "а">
 <!ENTITY copyImageContentsCmd.label "Копиране на изображението">
 <!ENTITY copyImageContentsCmd.accesskey "К">
+<!ENTITY copyVideoURLCmd.label "Копиране адреса на видеото">
+<!ENTITY copyVideoURLCmd.accesskey "а">
+<!ENTITY copyAudioURLCmd.label "Копиране адреса на аудиото">
+<!ENTITY copyAudioURLCmd.accesskey "а">
 <!ENTITY blockImageCmd.accesskey "B">
 <!ENTITY metadataCmd.label "Свойства">
 <!ENTITY metadataCmd.accesskey "в">
@@ -279,11 +295,26 @@
 <!ENTITY copyEmailCmd.accesskey "е">
 <!ENTITY thisFrameMenu.label "Тази рамка">
 <!ENTITY thisFrameMenu.accesskey "р">
+<!-- Media (video/audio) controls -->
+
+<!ENTITY mediaPlay.label "Изпълнение">
+<!ENTITY mediaPlay.accesskey "И">
+<!ENTITY mediaPause.label "Пауза">
+<!ENTITY mediaPause.accesskey "П">
+<!ENTITY mediaMute.label "Без звук">
+<!ENTITY mediaMute.accesskey "Б">
+<!ENTITY mediaUnmute.label "Звук">
+<!ENTITY mediaUnmute.accesskey "З">
+<!ENTITY mediaShowControls.label "Показване на копчетата">
+<!ENTITY mediaShowControls.accesskey "к">
+<!ENTITY mediaHideControls.label "Скриване на копчетата">
+<!ENTITY mediaHideControls.accesskey "к">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
+
 
 
 <!ENTITY fullZoomEnlargeCmd.label "Увеличаване">
@@ -308,7 +339,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label "Мащабиране">
 <!ENTITY fullZoom.accesskey "М">
 
-<!ENTITY newTabButton.tooltip "Отваряне на нов подпрозорец">
 <!ENTITY newWindowButton.tooltip "Отваряне на нов прозорец">
 <!ENTITY sidebarCloseButton.tooltip "Затваряне на страничната лента">
 

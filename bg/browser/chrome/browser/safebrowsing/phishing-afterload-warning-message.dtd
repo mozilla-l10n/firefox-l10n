@@ -15,8 +15,6 @@
 <!ENTITY safeb.palm.notforgery.label2 "Това не е измамнически сайт…">
 <!ENTITY safeb.palm.report.label "Защо е блокиран сайтът?">
 
-<!ENTITY safeb.urlbaricon.tooltip "Тази страница може да е опасна; щракнете за подробности.">
-
 <!ENTITY safeb.blocked.malware.title "Сайтът е докладван като „атакуващ“!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "Сайтът <span id='malware_sitename'/> е докладван като „атакуващ“ и беше блокиран.">

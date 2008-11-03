@@ -51,7 +51,7 @@
 <!-- Values for getpassword.xul -->
 
 <!ENTITY getPassword.title "Въведете главна парола">
-<!ENTITY getPassword.tokenName.label "Устройство по безопасността">
+<!ENTITY getPassword.tokenName2.label "Устройство по безопасността:">
 <!ENTITY getPassword.password.label "Парола:">
 <!-- These should be common -->
 
@@ -129,3 +129,7 @@
 <!ENTITY protectedAuth.title "Защитена удостоверяваща токена">
 <!ENTITY protectedAuth.msg "Моля, удостоверете токената. Начинът на удостоверяване зависи от токената.">
 <!ENTITY protectedAuth.tokenName.label "Токена:">
+
+<!ENTITY certErrorDlg.title "Защитената връзка е прекъсната">
+<!ENTITY certErrorDlg.info1 "Това може да е проблем с настройките на сървъра или някой се опитва да го хакне.">
+<!ENTITY certErrorDlg.info2 "Ако преди сте се свързвали успешно с този сървър грешката може да е временна. Опитайте по-късно.">

@@ -19,6 +19,6 @@
 <!ENTITY itemOfflineApps.accesskey "Д">
 <!ENTITY itemDownloads.label "История на изтеглянията">
 <!ENTITY itemDownloads.accesskey "И">
-<!ENTITY itemSessions.label "Удостоверени сесии">
-<!ENTITY itemSessions.accesskey "У">
+<!ENTITY itemActiveLogins.label "Active Logins">
+<!ENTITY itemActiveLogins.accesskey "L">
 <!ENTITY window.width "30em">

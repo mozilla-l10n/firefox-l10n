@@ -10,7 +10,9 @@
 <!ENTITY cancel.accesskey "О">
 
 <!ENTITY noupdatesfound.title "Не са открити обновявания">
-<!ENTITY noupdatesfound.intro "Няма обновявания. &brandShortName; може да проверява периодично за такива.">
+<!ENTITY noupdatesautoenabled.intro "Няма обновявания. &brandShortName; ще проверява периодично за такива.">
+<!ENTITY noupdatesautodisabled.intro "Няма обновявания. Проверете друг път или включете
+функцията за автоматично обновяване на &brandShortName;">
 
 <!ENTITY incompatibleChecking.label "Проверява се дали обновяването няма да причини проблеми с разширенията и/или темите…">
 <!ENTITY clickHere.label "Показване на повече информация за това обновяване">

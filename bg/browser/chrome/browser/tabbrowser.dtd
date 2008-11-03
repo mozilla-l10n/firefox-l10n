@@ -16,3 +16,4 @@
 <!ENTITY bookmarkThisTab.accesskey "О">
 <!ENTITY undoCloseTab.label "Отмяна (затваряне на подпрозорец)">
 <!ENTITY undoCloseTab.accesskey "я">
+<!ENTITY newTabButton.tooltip "Отваряне на нов подпрозорец">
