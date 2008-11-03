@@ -233,10 +233,12 @@
 <!ENTITY viewPageInfoCmd.accesskey "I">
 <!ENTITY viewFrameInfoCmd.label "Ver informação da frame">
 <!ENTITY viewFrameInfoCmd.accesskey "i">
-<!ENTITY showImageCmd.label           "Mostrar Imagem">
-<!ENTITY showImageCmd.accesskey       "s">
+<!ENTITY reloadImageCmd.label           "Recarregar Imagem">
+<!ENTITY reloadImageCmd.accesskey       "R">
 <!ENTITY viewImageCmd.label "Ver imagem">
 <!ENTITY viewImageCmd.accesskey "V">
+<!ENTITY viewVideoCmd.label           "Ver Vídeo">
+<!ENTITY viewVideoCmd.accesskey       "d">
 <!ENTITY viewBGImageCmd.label "Ver imagem de fundo">
 <!ENTITY viewBGImageCmd.accesskey "v">
 <!ENTITY setDesktopBackgroundCmd.label "Definir como fundo do ambiente de trabalho...">
