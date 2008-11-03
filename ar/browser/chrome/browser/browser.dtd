@@ -203,9 +203,9 @@
   
  -->
 
-<!ENTITY searchFocus.commandkey "k">
-<!ENTITY searchFocus.commandkey2 "e">
-<!ENTITY searchFocusUnix.commandkey "j">
+<!ENTITY searchFocus.commandkey "ب">
+<!ENTITY searchFocus.commandkey2 "ث">
+<!ENTITY searchFocusUnix.commandkey "ي">
 
 <!ENTITY openLinkCmd.label "افتح الوصلة في نافذة جديدة">
 <!ENTITY openLinkCmd.accesskey "ج">
@@ -405,7 +405,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.unverifiedsite2 "لا يوفّر هذا الموقع معلومات الهويّة.">
 <!ENTITY identity.connectedTo "تتصل بـ">
-
+<!--
 example.com
 which is run by
 Example Enterprises, Inc.
