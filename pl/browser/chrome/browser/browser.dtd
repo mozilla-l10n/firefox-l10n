@@ -239,11 +239,12 @@
 <!ENTITY viewPageInfoCmd.accesskey "I" >
 <!ENTITY viewFrameInfoCmd.label "Pokaż informacje o ramce" >
 <!ENTITY viewFrameInfoCmd.accesskey "i" >
-<!-- FIXME (showImageCmd, viewImageCmd) jak odróżnić show od view lepiej niż teraz... -->
-<!ENTITY showImageCmd.label           "Wyświetl obrazek">
-<!ENTITY showImageCmd.accesskey       "W">
+<!ENTITY reloadImageCmd.label         "Odśwież obrazek">
+<!ENTITY reloadImageCmd.accesskey     "O">
 <!ENTITY viewImageCmd.label           "Pokaż obrazek" >
 <!ENTITY viewImageCmd.accesskey       "P" >
+<!ENTITY viewVideoCmd.label           "Pokaż wideo">
+<!ENTITY viewVideoCmd.accesskey       "P">
 <!ENTITY viewBGImageCmd.label "Pokaż obrazek tła" >
 <!ENTITY viewBGImageCmd.accesskey "t" >
 <!ENTITY setDesktopBackgroundCmd.label "Ustaw jako tapetę…" >
