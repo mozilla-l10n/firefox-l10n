@@ -159,8 +159,8 @@
 <!ENTITY event.help.about.label "&brandShortName;(r)i buruz">
 <!ENTITY event.help.about.accesskey "B">
 
-<!ENTITY event.invite.attendees.label "Invite Attendees…">
-<!ENTITY event.invite.attendees.accesskey "I">
+<!ENTITY event.invite.attendees.label "Gonbidatu partaideak…">
+<!ENTITY event.invite.attendees.accesskey "G">
 <!ENTITY event.email.attendees.label "Partaide guztientzat E-posta idatzi...">
 <!ENTITY event.email.attendees.accesskey "G">
 <!ENTITY event.email.tentative.attendees.label "Erabaki gabeko partaideei E-posta idatzi...">
@@ -210,7 +210,7 @@
 <!ENTITY event.attachments.popup.open.accesskey "I">
 <!ENTITY event.attachments.popup.removeAll.label "Kendu denak">
 <!ENTITY event.attachments.popup.removeAll.accesskey "A">
-<!ENTITY event.attachments.popup.attachPage.label "Attach Webpage…">
+<!ENTITY event.attachments.popup.attachPage.label "Erantsi web-orria…">
 <!ENTITY event.attachments.popup.attachPage.accesskey "W">
 <!ENTITY event.url.label "Erlazionatutako lotura:">
 <!ENTITY event.priority2.label "Lehentasuna:">

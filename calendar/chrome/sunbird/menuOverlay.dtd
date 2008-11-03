@@ -59,7 +59,7 @@
 <!ENTITY calendar.pagesetup.label "Prestatu orria...">
 <!ENTITY calendar.pagesetup.accesskey "u">
 
-<!ENTITY calendar.subscribe.label "Subscribe to Remote Calendar…">
+<!ENTITY calendar.subscribe.label "Harpidetu urruneko egutegira…">
 <!ENTITY calendar.subscribe.accesskey "R">
 
 <!ENTITY calendar.reloadserver.label "Urruneko egutegiak birkargatu">
