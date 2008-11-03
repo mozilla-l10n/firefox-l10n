@@ -21,7 +21,7 @@
 <!ENTITY radioAutoDownload                "Áno, prevziať">
 <!ENTITY radioAutoDownload.accesskey      "z">
 <!ENTITY radioNotDownload                 "Nie, nepreberať">
-<!ENTITY radioNotDownload.accesskey       "e">
+<!ENTITY radioNotDownload.accesskey       "b">
 <!ENTITY radioAskDownload                 "Vždy sa opýtať">
 <!ENTITY radioAskDownload.accesskey       "t">
 <!ENTITY Diskspace                        "Miesto na disku">

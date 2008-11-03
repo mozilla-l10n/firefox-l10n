@@ -21,3 +21,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Túto záložku načítať v bočnom paneli">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "b">
 <!ENTITY editBookmarkOverlay.choose.label                    "Vybrať…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Nový priečinok">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">

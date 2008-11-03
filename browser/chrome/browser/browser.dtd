@@ -237,6 +237,8 @@
 <!ENTITY reloadImageCmd.accesskey     "t">
 <!ENTITY viewImageCmd.label           "Zobraziť obrázok">
 <!ENTITY viewImageCmd.accesskey       "b">
+<!ENTITY viewVideoCmd.label           "Zobraziť video">
+<!ENTITY viewVideoCmd.accesskey       "b">
 <!ENTITY viewBGImageCmd.label         "Zobraziť obrázok pozadia">
 <!ENTITY viewBGImageCmd.accesskey     "b">
 <!ENTITY setDesktopBackgroundCmd.label "Nastaviť ako pozadie pracovnej plochy…">
@@ -298,11 +300,11 @@
 <!ENTITY mediaPlay.label             "Prehrať">
 <!ENTITY mediaPlay.accesskey         "P">
 <!ENTITY mediaPause.label            "Pozastaviť">
-<!ENTITY mediaPause.accesskey        "a">
+<!ENTITY mediaPause.accesskey        "P">
 <!ENTITY mediaMute.label             "Stlmiť">
 <!ENTITY mediaMute.accesskey         "m">
 <!ENTITY mediaUnmute.label           "Zrušiť stlmenie">
-<!ENTITY mediaUnmute.accesskey       "Z">
+<!ENTITY mediaUnmute.accesskey       "m">
 <!ENTITY mediaShowControls.label     "Zobraziť ovládanie">
 <!ENTITY mediaShowControls.accesskey "n">
 <!ENTITY mediaHideControls.label     "Skryť ovládanie">

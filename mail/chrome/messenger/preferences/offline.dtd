@@ -19,6 +19,6 @@
 <!ENTITY radioAutoDownload.label "Áno, prevziať">
 <!ENTITY radioAutoDownload.accesskey "z">
 <!ENTITY radioNotDownload.label "Nie, nepreberať">
-<!ENTITY radioNotDownload.accesskey "e">
+<!ENTITY radioNotDownload.accesskey "b">
 <!ENTITY radioAskDownload.label "Vždy sa opýtať">
 <!ENTITY radioAskDownload.accesskey "t">

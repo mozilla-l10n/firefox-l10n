@@ -49,6 +49,7 @@
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Zalomiť znovu">
+<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "Z">
 <!ENTITY findCmd.label "Hľadať a nahradiť…">
 <!ENTITY findCmd.key "F">
