@@ -1,8 +1,0 @@
-<!ENTITY  feedClick.label             "Ko odprem spletni vir:">
-<!ENTITY  showPreview.label           "prikaži predogled in me vprašaj, kateri bralnik uporabiti">
-<!ENTITY  showPreview.accesskey       "p">
-<!ENTITY  subscribeUsing.label        "se naroči na vir z:">
-<!ENTITY  subscribeUsing.accesskey    "n">
-<!ENTITY  liveBookmarks.label         "živim zaznamkom">
-<!ENTITY  chooseApplication.label     "Izberi program ...">
-<!ENTITY  chooseApplication.accesskey "I">

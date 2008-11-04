@@ -1,0 +1,18 @@
+<!ENTITY restorepage.tabtitle       "Obnovi sejo">
+<!ENTITY restorepage.pagetitle      "Ali želite obnoviti vašo sejo?">
+<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
+                        you may translate "crash" instead (even though it's IT-speak) -->
+<!ENTITY restorepage.issueDesc      "Vaša prejšnja seja programa &brandShortName; se je nepričakovano končala. Opravičujemo se za neprijetnost. Zavihke in okna iz prejšnje seje lahko obnovite ali začnete novo sejo, če jih ne potrebujete več.">
+<!ENTITY restorepage.remedies       "Če se &brandShortName; pogosto zapira:">
+<!ENTITY restorepage.dueToChrome    "Poskusite onemogočiti katerega izmed novejših dodatkov v Upravitelju dodatkov.">
+<!ENTITY restorepage.dueToContent   "Poskusite obnoviti sejo brez tistih spletnih strani, ki po vašem mnenju povzročajo težave:">
+
+<!ENTITY restorepage.restoreButton  "Obnovi prejšnjo sejo">
+<!ENTITY restorepage.restore.access "O">
+<!ENTITY restorepage.cancelButton   "Začni novo sejo">
+<!ENTITY restorepage.cancel.access  "Z">
+
+<!ENTITY restorepage.restoreHeader  "Obnovi">
+<!ENTITY restorepage.listHeader     "Okna in zavihke">
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Okno &#37;S">
