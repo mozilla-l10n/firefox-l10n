@@ -26,8 +26,6 @@
 <!ENTITY reuseExpRadio0.accesskey "n">
 <!ENTITY reuseExpRadio1.label "I bhfuinneog theachtaireachta atá ann">
 <!ENTITY reuseExpRadio1.accesskey "f">
-<!ENTITY reuseExpRadio2.label "I gcluaisín nua teachtaireachta">
-<!ENTITY reuseExpRadio2.accesskey "Z">
 <!ENTITY configEditDesc.label "Cumraíocht Chasta">
 <!ENTITY configEdit.label "Eagarthóir Cumraíochta…">
 <!ENTITY configEdit.accesskey "g">
@@ -84,7 +82,6 @@
 <!ENTITY clearCacheNow.accesskey "B">
 <!-- Certificates -->
 
-<!ENTITY certificatesInfo2.label "Bainistiú na dteastas, na liostaí cúlghairme, na ngléasanna slándála agus fhíorú na dteastas.">
 <!ENTITY viewCertificates.label "Taispeáin Teastais">
 <!ENTITY viewCertificates.accesskey "a">
 <!ENTITY viewCRLs.label "Liostaí Cúlghairme">

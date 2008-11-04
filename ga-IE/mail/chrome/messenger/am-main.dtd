@@ -3,7 +3,6 @@
 <!ENTITY accountTitle.label "Socruithe Cuntais">
 <!ENTITY accountName.label "Ainm an Chuntais:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY accountNameDesc.label "Úsáidtear an t-ainm cuntais chun gach cuntas a aithint">
 <!ENTITY identityTitle.label "Aitheantas Réamhshocruithe">
 <!ENTITY identityDesc.label "Tá aitheantas ag gach cuntas. Seo an t-eolas a fheiceann daoine agus iad ag léamh teachtaireachtaí uaitse.">
 <!ENTITY name.label "D'ainm:">

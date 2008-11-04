@@ -6,7 +6,6 @@
 <!ENTITY language.label "Clófhoirne do:">
 <!ENTITY language.accesskey "d">
 
-<!ENTITY typefaces.label "Cló-éadan">
 <!ENTITY sizes.label "Méid (picteilíní)">
 <!ENTITY proportionalSize.accesskey "l">
 <!ENTITY monospaceSize.accesskey "L">
@@ -20,8 +19,6 @@
 <!ENTITY sans-serif.accesskey "n">
 <!ENTITY monospace.label "Cló Aonleithid:">
 <!ENTITY monospace.accesskey "a">
-
-<!ENTITY fontsize.units "picteilíní">
 
 <!ENTITY font.langGroup.latin1 "Iartharach">
 <!ENTITY font.langGroup.latin2 "Lár-Eorpach">
@@ -59,8 +56,6 @@
 
 <!ENTITY useDefaultFontSerif.label "Serif">
 <!ENTITY useDefaultFontSansSerif.label "Sans Serif">
-
-<!ENTITY newLanguages.label "Is féidir teangacha nua a chumrú i bPainéal na dTeangacha.">
 
 <!ENTITY useDocumentFonts.label "Ceadaigh teachtaireachtaí chun clónna eile a úsáid">
 <!ENTITY useDocumentFonts.accesskey "n">

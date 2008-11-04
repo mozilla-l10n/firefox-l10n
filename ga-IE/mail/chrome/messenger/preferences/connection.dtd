@@ -14,10 +14,6 @@
 <!ENTITY autoTypeRadio.accesskey "A">
 <!ENTITY reload.label "Athluchtaigh">
 <!ENTITY reload.accesskey "l">
-<!ENTITY ftp.label "Seachfhreastalaí FTP:">
-<!ENTITY ftp.accesskey "f">
-<!ENTITY gopher.label "Seachfhreastalaí Gopher:">
-<!ENTITY gopher.accesskey "g">
 <!ENTITY http.label "Seachfhreastalaí HTTP:">
 <!ENTITY http.accesskey "h">
 <!ENTITY ssl.label "Seachfhreastalaí SSL:">

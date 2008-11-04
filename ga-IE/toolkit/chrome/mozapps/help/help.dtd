@@ -22,9 +22,8 @@
 <!ENTITY printButton.tooltip "Priontáil an leathanach seo">
 <!ENTITY closeWindow.commandkey "W">
 
-<!ENTITY searchtab.label "Cuardaigh">
-<!ENTITY searchtab.accesskey "U">
-<!ENTITY searchClose.tooltip "Dún torthaí cuardaigh">
+<!ENTITY search.emptytext "Cuardach">
+<!ENTITY searchHeader.label "Torthaí cuardaigh">
 <!ENTITY toctab.label "Ábhar">
 <!ENTITY toctab.accesskey "B">
 <!-- LOCALIZATION NOTE :

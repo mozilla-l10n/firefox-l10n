@@ -3,8 +3,6 @@
 <!ENTITY alwaysAsk.accesskey "A">
 <!ENTITY neverAsk.label "Sábháil gach iatán san fhillteán seo:">
 <!ENTITY neverAsk.accesskey "S">
-<!ENTITY desktop.label "Deasc">
-<!ENTITY downloads.label "Mo Chuid Íosluchtaithe">
 <!ENTITY chooseFolderWin.label "Brabhsáil…">
 <!ENTITY chooseFolderWin.accesskey "B">
 <!ENTITY chooseFolderMac.label "Roghnaigh…">
@@ -15,10 +13,3 @@
 <!ENTITY configureActions.label "Taispeáin agus Cuir Gníomhartha in Eagar…">
 <!ENTITY configureActions.accesskey "T">
 <!ENTITY fileTypesDescription.label "Is féidir le &brandShortName; iatáin de chineálacha áirithe a oscailt go huathoibríoch.">
-
-<!ENTITY fileTypeColName.label "Cineál Comhaid">
-<!ENTITY fileHandlerColName.label "Feidhmchlár">
-<!ENTITY editFileHandler.label "Athraigh Gníomh…">
-<!ENTITY editFileHandler.accesskey "a">
-<!ENTITY removeFileHandler.label "Bain">
-<!ENTITY removeFileHandler.accesskey "b">

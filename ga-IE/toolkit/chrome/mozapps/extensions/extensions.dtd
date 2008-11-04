@@ -112,6 +112,7 @@
 <!ENTITY insecureUpdate.label "Ní sholáthraíonn sé seo nuashonruithe slána.">
 <!ENTITY needsDependencies.label "Míreanna breise de dhíth.">
 <!ENTITY blocklisted.label "Díchumasaithe ar mhaithe le do chosaint.">
+<!ENTITY softBlocklisted.label "Known to cause security or stability issues.">
 <!ENTITY toBeDisabled.label "Díchumasófar an Breiseán seo nuair a atosófar &brandShortName;.">
 <!ENTITY toBeEnabled.label "Cumasófar an Breiseán seo nuair a atosófar &brandShortName;.">
 <!ENTITY toBeInstalled.label "Déanfar suiteáil ar an mBreiseán seo nuair a atosófar &brandShortName;.">
@@ -168,3 +169,6 @@
 <!ENTITY eula.width "560px">
 <!ENTITY eula.height "400px">
 <!ENTITY eula.accept "Glac Leis agus Suiteáil…">
+
+<!ENTITY blocklist.blocked.label "Coiscthe">
+<!ENTITY blocklist.checkbox.label "Díchumasaigh">

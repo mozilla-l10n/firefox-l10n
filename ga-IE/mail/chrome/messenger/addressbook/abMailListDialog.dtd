@@ -46,7 +46,6 @@
 <!ENTITY ListDescription.label "Cur Síos: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label "Iontráil seoltaí ríomhphoist chun iad a chur leis an liosta postála:">
-<!ENTITY RemoveButton.label "Bain">
 <!ENTITY UpButton.label "Bog Suas">
 <!ENTITY DownButton.label "Bog Síos">
 <!-- Access Keys -->

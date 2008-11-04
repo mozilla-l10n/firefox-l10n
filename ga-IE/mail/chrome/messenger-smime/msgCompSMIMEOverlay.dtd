@@ -3,9 +3,6 @@
 <!ENTITY securityMenu.label "Slándáil">
 <!ENTITY securityMenu.accesskey "l">
 
-<!ENTITY menu_securityEncryptIfPossible.label "Criptigh Más Féidir">
-<!ENTITY menu_securityEncryptIfPossible.accesskey "F">
-
 <!ENTITY menu_securityEncryptRequire.label "Criptigh an Teachtaireacht Seo">
 <!ENTITY menu_securityEncryptRequire.accesskey "C">
 

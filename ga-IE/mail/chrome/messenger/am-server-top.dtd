@@ -2,13 +2,6 @@
 
 <!ENTITY securitySettings.label "Socruithe Slándála">
 <!ENTITY serverSettings.label "Socruithe an Fhreastalaí">
-<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
-<!ENTITY popServer.label "Freastalaí Ríomhphoist POP">
-<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
-<!ENTITY imapServer.label "Freastalaí Ríomhphoist IMAP">
-<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
-<!ENTITY newsServer.label "Freastalaí Nuachta (NNTP)">
-<!ENTITY webmail.label "Cuntas ríomhphoist Gréasáin">
 <!ENTITY serverType.label "Cineál an Fhreastalaí:">
 <!ENTITY serverName.label "Ainm an fhreastalaí:">
 <!ENTITY serverName.accesskey "S">
@@ -50,10 +43,7 @@
 <!ENTITY deleteOnServer2.accesskey "s">
 <!ENTITY downloadOnBiff.label "Íosluchtaigh teachtaireachtaí nua go huathoibríoch">
 <!ENTITY downloadOnBiff.accesskey "n">
-<!ENTITY hostname.label "Ainm an fhreastalaí">
 <!ENTITY username.label "D'ainm úsáideora">
-<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
-<!ENTITY popServerTitle.label "Faisnéis an Fhreastalaí POP">
 <!ENTITY deleteMessagePrefix.label "Nuair a scriosaim teachtaireacht:">
 <!ENTITY modelMoveToTrash.label "Bog é go dtí an fillteán seo:">
 <!ENTITY modelMoveToTrash.accesskey "o">

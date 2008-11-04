@@ -52,7 +52,6 @@
 <!ENTITY retention.label "Polasaí Coinneála">
 <!ENTITY retentionUseDefault.label "Úsáid réamhshocruithe an fhreastalaí">
 <!ENTITY retentionUseDefault.accesskey "d">
-<!ENTITY days.label "lá anuas">
 <!ENTITY daysOld.label "lá d'aois">
 <!ENTITY message.label "teachtaireacht is déanaí">
 <!ENTITY retentionCleanup.label "Chun spás diosca a fháil, is féidir seanteachtaireachtaí a scriosadh go buan">
@@ -76,18 +75,15 @@
 
 <!ENTITY selectofflineNewsgroup.check.label "Roghnaigh an grúpa nuachta seo le haghaidh úsáide as líne">
 <!ENTITY selectofflineNewsgroup.check.accesskey "o">
-<!ENTITY UseDefaultofflineNewsgroup.check.label "Úsáid an réamhshocrú ó shocruithe an chuntais">
 <!ENTITY offlineNewsgroup.button.label "Íosluchtaigh Anois">
 <!ENTITY offlineNewsgroup.button.accesskey "L">
 
-<!ENTITY folderProps.information.label "Faisnéis:">
 <!ENTITY folderProps.name.label "Ainm:">
 <!ENTITY folderProps.name.accesskey "N">
 <!ENTITY folderProps.location.label "Suíomh:">
 <!ENTITY folderProps.location.accesskey "S">
 
 <!ENTITY folderSharingTab.label "Comhroinnt">
-<!ENTITY privilegesDesc.label "Déan fillteáin a chomhroinnt le húsáideoirí líonra, agus ceadanna rochtana a thaispeáint agus a shocrú.">
 <!ENTITY privileges.button.label "Ceadanna…">
 <!ENTITY privileges.button.accesskey "C">
 <!ENTITY permissionsDesc.label "Tá na ceadanna seo a leanas agat:">

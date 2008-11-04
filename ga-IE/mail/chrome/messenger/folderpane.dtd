@@ -38,6 +38,3 @@
 <!ENTITY unreadColumn.label "Gan léamh">
 <!ENTITY totalColumn.label "Iomlán">
 <!ENTITY folderSizeColumn.label "Méid">
-<!ENTITY accounts.label "Cuntais">
-<!-- LOCALIZATION NOTE (accounts.img) : DONT_TRANSLATE -->
-<!ENTITY accounts.img "chrome://messenger/skin/local-mailhost.gif">

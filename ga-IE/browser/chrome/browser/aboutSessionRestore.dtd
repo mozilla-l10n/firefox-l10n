@@ -1,6 +1,8 @@
-<!ENTITY restorepage.title "Athchóirigh an Seisiún Roimhe Seo">
-<!ENTITY restorepage.titletext "Stop do sheisiún dheireanach &brandShortName; gan súil leis">
-<!ENTITY restorepage.shortDesc "Is féidir leat na cluaisíní agus na fuinneoga ó do sheisiún dheireanach a chur ar ais, nó seisiún nua a thosú mura bhfuil siad de dhíth ort a thuilleadh.  Is oth linn an briseadh seo.">
+<!ENTITY restorepage.tabtitle "Athchóirigh an Seisiún">
+<!ENTITY restorepage.pagetitle "An bhfuil fonn ort do sheisiún a athchóiriú?">
+<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
+                        you may translate "crash" instead (even though it's IT-speak) -->
+<!ENTITY restorepage.issueDesc "Stop do sheisiún dheireanach &brandShortName; gan súil leis. Tá brón orainn faoi seo. Is féidir leat na cluaisíní agus na fuinneoga ó do sheisiún dheireanach a chur ar ais, nó seisiún nua a thosú mura bhfuil siad de dhíth ort a thuilleadh.">
 <!ENTITY restorepage.remedies "Má dhúnann &brandShortName; arís agus arís eile:">
 <!ENTITY restorepage.dueToChrome "Bain triail as eisínteachtaí a cuireadh leis le déanaí a dhíchumasú i mBainisteoir na mBreiseán.">
 <!ENTITY restorepage.dueToContent "Bain triail as do sheisiún a athbhunú gan leathanaigh Ghréasáin a cheapann tú gur iad atá freagrach as an gcliseadh:">
@@ -12,5 +14,5 @@
 
 <!ENTITY restorepage.restoreHeader "Athshlánaigh">
 <!ENTITY restorepage.listHeader "Fuinneoga agus Cluaisíní">
-<!-- LOCALIZATION NOTE: %S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel "Fuinneog #&#37;S">
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel "Fuinneog &#37;S">

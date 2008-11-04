@@ -43,12 +43,3 @@
 <!ENTITY antiVirus.intro "Is féidir le &brandShortName; cabhrú le bogearraí frithvíris chun teachtaireachtaí isteach a chuardach le haghaidh víreas sula stórálfar go logánta iad.">
 <!ENTITY antiVirus.label "Ceadaigh do chliaint fhrithvíris teachtaireachtaí isteach a chur ar coraintín">
 <!ENTITY antiVirus.accesskey "l">
-<!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
-
-<!ENTITY antiVirusCaption.label "Frith-Víreas">
-<!ENTITY paswords.label "Focail Fhaire">
-<!ENTITY emailScams.label "Camscéimeanna Ríomhphoist">
-<!ENTITY junkMail.label "Dramhphost">
-<!ENTITY itemIntrusions.label "Ionraí">
-<!ENTITY itemIntrusionsAndPasswords.label "Ionraí &amp; Focail Fhaire">
-<!ENTITY itemJunkMail.label "Dramhphost">

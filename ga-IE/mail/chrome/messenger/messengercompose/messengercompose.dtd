@@ -75,7 +75,6 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "t">
 <!ENTITY deleteCmd.label "Scrios">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "s">
 <!ENTITY selectAllCmd.label "Roghnaigh Uile">
 <!ENTITY selectAllCmd.key "A">
@@ -98,7 +97,6 @@
 <!ENTITY viewToolbarsMenuNew.label "Barraí Uirlisí">
 <!ENTITY viewToolbarsMenuNew.accesskey "U">
 <!ENTITY showCompositionToolbarCmd.label "Barra Cumadóireachta">
-<!ENTITY showCompositionToolbarCmd.accesskey "u">
 <!ENTITY showFormattingBarCmd.label "Barra Formáidithe">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Barra Stádais">
@@ -173,7 +171,6 @@
 <!ENTITY accountManagerCmd.accesskey "c">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
 <!ENTITY preferencesCmd.label "Roghanna…">
-<!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "R">
 <!ENTITY preferencesCmdUnix.label "Sainroghanna">
 <!ENTITY preferencesCmdUnix.accesskey "n">
@@ -219,11 +216,7 @@
 <!ENTITY attachments.label "Iatáin:">
 <!ENTITY attachments.accesskey "t">
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
 
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
 <!ENTITY SmileButton.tooltip "Ionsáigh miongháire">
 <!ENTITY smiley1Cmd.label "Miongháire">
 <!ENTITY smiley2Cmd.label "Púicín">
