@@ -1,0 +1,10 @@
+<!ENTITY blocklist.title "D'fhéadfadh breiseáin a bheith freagrach as fadhbanna">
+<!ENTITY blocklist.style "width: 50em; height: 34em">
+<!ENTITY blocklist.summary "&brandShortName; has determined that the following add-ons are known to cause stability or security problems:">
+<!ENTITY blocklist.softblocked "For your protection, it is highly recommended that you restart with these add-ons disabled.">
+<!ENTITY blocklist.hardblocked "These add-ons have a high risk of causing stability or security problems and have been blocked, but a restart is required to disable them completely.">
+<!ENTITY blocklist.softandhard "The add-ons that have a high risk of causing stability or security problems have been blocked. The others are lower risk, but it is highly recommended that you restart with them disabled.">
+<!ENTITY blocklist.moreinfo "Tuilleadh eolais">
+
+<!ENTITY blocklist.accept.label "Atosaigh &brandShortName;">
+<!ENTITY blocklist.accept.accesskey "A">

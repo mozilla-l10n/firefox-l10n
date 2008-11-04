@@ -1,0 +1,13 @@
+<!ENTITY privatebrowsingpage.tabtitle "Brabhsáil Phríobháideach">
+
+<!ENTITY privatebrowsingpage.pagetitle "Brabhsáil Phríobháideach">
+
+<!ENTITY privatebrowsingpage.issueDesc "&brandShortName; won't remember any history for this session.">
+<!ENTITY privatebrowsingpage.longDesc "No history will be recorded by &brandShortName; during this browsing session.  This includes browser history, search history, download history, web form history, cookies, and temporary internet files.  However, any files you download or bookmarks you create will be preserved.">
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc "You may want to start by also clearing your recent history.">
+<!ENTITY privatebrowsingpage.recentHistory.label "Glan an Stair Is Déanaí">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey "G">
+
+<!ENTITY privatebrowsingpage.howToStopDesc "Chun brabhsáil phríobháideach a stopadh, díthiceáil Uirlisí &gt; Brabhsáil Phríobháideach.">
+<!ENTITY privatebrowsingpage.footerDesc "Bain Sult As!">
