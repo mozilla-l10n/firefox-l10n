@@ -1,13 +1,13 @@
-<!ENTITY privatebrowsingpage.tabtitle                  "Private Browsing">
+<!ENTITY privatebrowsingpage.tabtitle                  "निजी ब्राउज़िंग">
 
-<!ENTITY privatebrowsingpage.pagetitle                 "Private Browsing">
+<!ENTITY privatebrowsingpage.pagetitle                 "निजी ब्राउज़िंग">
 
-<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; won't remember any history for this session.">
-<!ENTITY privatebrowsingpage.longDesc                  "No history will be recorded by &brandShortName; during this browsing session.  This includes browser history, search history, download history, web form history, cookies, and temporary internet files.  However, any files you download or bookmarks you create will be preserved.">
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; इस सत्र का कोई इतिहास नहीं रखेगा.">
+<!ENTITY privatebrowsingpage.longDesc                  "&brandShortName; के द्वारा इस ब्राउजिंग सत्र का कोई इतिहास नहीं रखा जाएगा.  इसमें ब्राउज़र इतिहास, खोज इतिहास, डाउनलोड इतिहास, वेब फ़ॉर्म इतिहास, कुकी, और अस्थायी इंटरनेट फ़ाइलें शामिल हैं.  हालांकि, कोई भी फ़ाइलें जिसे आपने डाउनलोड किया है अथवा पुस्तचिह्न जिसे आपने बनाया है को संरक्षित रखा जाएगा.">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "You may want to start by also clearing your recent history.">
-<!ENTITY privatebrowsingpage.recentHistory.label       "Clear Recent History">
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "आप अपना हाल का इतिहास साफ कर भी शुरू कर सकते हैं.">
+<!ENTITY privatebrowsingpage.recentHistory.label       "हाल के इतिहास साफ करें">
 <!ENTITY privatebrowsingpage.recentHistory.accesskey   "C">
 
-<!ENTITY privatebrowsingpage.howToStopDesc             "To stop private browsing, uncheck Tools &gt; Private Browsing.">
-<!ENTITY privatebrowsingpage.footerDesc                "Enjoy!">
+<!ENTITY privatebrowsingpage.howToStopDesc             "निजी ब्राउज़िंग रोकने के लिए, औज़ार &gt; निजी ब्राउज़िग अनचेक करें.">
+<!ENTITY privatebrowsingpage.footerDesc                "आनंद उठाएँ!">

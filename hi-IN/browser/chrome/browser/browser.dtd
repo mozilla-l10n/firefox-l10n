@@ -426,3 +426,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY viewVideoCmd.label           "वीडियो देखें">
 <!ENTITY viewVideoCmd.accesskey       "I">
 
+
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (निजी ब्राउज़िंग)">
+
+<!ENTITY privateBrowsingCmd.label            "निजी ब्राउजिंग">
+<!ENTITY privateBrowsingCmd.accesskey        "B">
+
+
