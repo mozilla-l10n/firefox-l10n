@@ -1,0 +1,13 @@
+<!ENTITY privatebrowsingpage.tabtitle                  "Navegação Privada">
+
+<!ENTITY privatebrowsingpage.pagetitle                 "Navegação Privada">
+
+<!ENTITY privatebrowsingpage.issueDesc                 "O &brandShortName; não se lembra de qualquer histórico para esta sessão.">
+<!ENTITY privatebrowsingpage.longDesc                  "Não será guardado nenhum histórico pelo &brandShortName; durante esta sessão de navegação. Isto inclui o histórico de navegação, histórico de pesquisa, histórico de transferências, histórico de formulários web, cookies e ficheiros temporários da internet.  No entanto, quaisquer ficheiros que transfira ou marcadores que adicione serão preservados.">
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Pode também começar por querer limpar o histórico recente.">
+<!ENTITY privatebrowsingpage.recentHistory.label       "Limpar histórico recente">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey   "L">
+
+<!ENTITY privatebrowsingpage.howToStopDesc             "Para parar a navegação privada, desseleccione Ferramentas &gt; Navegação Privada.">
+<!ENTITY privatebrowsingpage.footerDesc                "Disfrute!">
