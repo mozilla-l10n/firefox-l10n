@@ -1,0 +1,18 @@
+<!ENTITY restorepage.tabtitle "استرجع الجلسة">
+<!ENTITY restorepage.pagetitle "هل تريد استرجاع جلستك؟">
+<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
+                        you may translate "crash" instead (even though it's IT-speak) -->
+<!ENTITY restorepage.issueDesc "أُغلقت جلستك &brandShortName; السايقة بشكل غير متوقع. نعتذر بشدة عن هذا الإزعاج. يمكنك استرجاع الألسنة والنوافذ من الجلسة الماضية، أو بدء جلسة جديدة إن لم تعد بحاجة إلى ما كان في القديمة.">
+<!ENTITY restorepage.remedies "إن تكرر انغلاق &brandShortName;:">
+<!ENTITY restorepage.dueToChrome "جرّب تعطيل أيّ ملحقات أضفتها مؤخراً باستخدام مدير الملحقات.">
+<!ENTITY restorepage.dueToContent "جرّب استرجاع جلستك من دون أي صفحات وب تشتبه في أنها قد أحدثت الانهيار:">
+
+<!ENTITY restorepage.restoreButton "استرجع الجلسة السابقة">
+<!ENTITY restorepage.restore.access "س">
+<!ENTITY restorepage.cancelButton "ابدأ جلسة جديدة">
+<!ENTITY restorepage.cancel.access "ب">
+
+<!ENTITY restorepage.restoreHeader "استرجع">
+<!ENTITY restorepage.listHeader "النوافذ والألسنة">
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel "النافذة %S">
