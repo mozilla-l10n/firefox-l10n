@@ -1,0 +1,13 @@
+<!ENTITY privatebrowsingpage.tabtitle                  "Privaat sneupe">
+
+<!ENTITY privatebrowsingpage.pagetitle                 "Privaat sneupe">
+
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; sil neat ûnthâlde fan de skiednis tiidens dizze sesje.">
+<!ENTITY privatebrowsingpage.longDesc                  "Der sil gjin skiednis byhâlden wurde troch &brandShortName; tiidens dizze sneupsesje.  Dit jildt foar browserskiednis, sykskiednis, ynlaadskiednis, webformulier skiednis, cookies, en tiidlike ynternetbestannen.  Allinnich, bestannen dy't jo ynlade of blêdwizers dy't jo meitsje sille bewarre wurde.">
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Jo wolle miskien ek starte om jo resinte skiednis fuort te smiten.">
+<!ENTITY privatebrowsingpage.recentHistory.label       "Resinte skiednis fuortsmite">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey   "f">
+
+<!ENTITY privatebrowsingpage.howToStopDesc             "Om te stoppen mei privaat sneupe, deselektear Ekstra &gt; Privaat sneupe.">
+<!ENTITY privatebrowsingpage.footerDesc                "In protte wille!">
