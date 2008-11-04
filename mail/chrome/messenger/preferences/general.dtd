@@ -40,3 +40,9 @@
 <!ENTITY customsound.accesskey            "u">
 <!ENTITY browse.label                     "Bla gjennom …">
 <!ENTITY browse.accesskey                 "B">
+
+<!ENTITY addonsMgr.label                  "Utvidingar">
+<!ENTITY manageAddonsDescWin.label        "Endre val for utvidingane dine">
+<!ENTITY manageAddonsDescUnix2.label      "Endre innstillingar for utvidingar">
+<!ENTITY manageAddons.label               "Handsam utvidingar …">
+<!ENTITY manageAddons.accesskey           "H">

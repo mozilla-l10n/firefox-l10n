@@ -79,10 +79,8 @@
 <!ENTITY cellSelectPrevious.label         "Førre:">
 <!ENTITY cellSelectPrevious.accessKey     "F">
 <!ENTITY cellApplyBeforeMove.label        "Bruk endringar før byte av merka område">
-<!ENTITY cellKeepCurrentData.label        "Hald på dei gjeldande innstillingane">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label         "Følgjande endringar vil verte brukte">
-<!ENTITY applyBeforeChange2.label         "før byte av merket område.">
+<!ENTITY cellKeepCurrentData.label        "Behald gjeldande innstillingar">
+<!ENTITY applyBeforeChange.label          "Desse endringane vil verte brukte før byte av merka område.">
 <!ENTITY cellRowSpan.label                "Radspanning">
 <!ENTITY cellColSpan.label                "Kolonnespanning">
 <!ENTITY cellContentAlignment.label       "Innhaldsjustering">

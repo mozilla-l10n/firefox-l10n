@@ -4,9 +4,9 @@
 <!ENTITY  authorName.accesskey      "F">
 <!ENTITY  pageColorHeader           "Standardutsjånad">
 
-<!ENTITY defaultColorsRadio.label   "Lesaren sine standardfargar (ikkje vel fargar på sida)">
+<!ENTITY defaultColors.label        "Lesaren sine standarfargar (Ikkje vel fargar på sida)">
 <!ENTITY defaultColors.accesskey    "L">
-<!ENTITY customColorsRadio.label    "Bruk eigne fargar:">
+<!ENTITY customColors.label         "Bruk standardfargar:">
 <!ENTITY customColors.accesskey     "B">
 
 <!ENTITY normalText.label           "Normal tekst">

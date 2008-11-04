@@ -44,7 +44,7 @@
 <!ENTITY renameFolder.accesskey "E">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Komprimer mapper">
-<!ENTITY compactFolder.accesskey    "K">
+<!ENTITY compactFolders.accesskey    "F">
 <!ENTITY emptyTrashCmd.label "Tøm bosskorg">
 <!ENTITY emptyTrashCmd.accesskey    "T">
 <!ENTITY importCmd.label "Importer …">
@@ -187,7 +187,6 @@
 <!ENTITY sortUnthreaded.accesskey "U">
 <!ENTITY groupBySort.label "Grupper etter sortering">
 <!ENTITY groupBySort.accesskey "G">
-<!ENTITY groupBySortCmd.key "G">
 <!ENTITY msgsMenu.label "Meldingar">
 <!ENTITY msgsMenu.accesskey "M">
 <!ENTITY threads.label "Trådar">
@@ -226,22 +225,33 @@
 <!ENTITY bodyAsPlaintext.accesskey "R">
 <!ENTITY viewAttachmentsInlineCmd.label "Vis vedlegg innbunde i meldingane">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "V">
-<!ENTITY reloadCmd.label "Oppdater">
-<!ENTITY reloadCmd.accesskey "O">
-<!ENTITY stopCmd.label "Stopp">
-<!ENTITY stopCmd.accesskey "S">
-<!ENTITY textZoomEnlargeCmd.label "Større skrift">
-<!ENTITY textZoomEnlargeCmd.accesskey "S">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
-<!ENTITY textZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY textZoomReduceCmd.label "Mindre skrift">
-<!ENTITY textZoomReduceCmd.accesskey "M">
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomResetCmd.commandkey "0">
-<!ENTITY textZoomResetCmd.label     "Normal">
-<!ENTITY textZoomResetCmd.accesskey "N">
-<!ENTITY textSize.label             "Skriftstorleik">
-<!ENTITY textSize.accesskey             "S">
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY fullZoomEnlargeCmd.label       "Forstørre">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "F">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY fullZoomReduceCmd.label        "Forminske">
+<!ENTITY fullZoomReduceCmd.accesskey    "o">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
+<!ENTITY fullZoomResetCmd.label         "Tilbakestill">
+<!ENTITY fullZoomResetCmd.accesskey     "T">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY fullZoomToggleCmd.label        "Forstørr berre tekst">
+<!ENTITY fullZoomToggleCmd.accesskey    "t">
+<!ENTITY fullZoom.label                 "Forstørre">
+<!ENTITY fullZoom.accesskey             "F">
 
 <!ENTITY pageSourceCmd.label "Kjeldekode">
 <!ENTITY pageSourceCmd.accesskey "K">
@@ -282,8 +292,8 @@
 <!ENTITY nextStarredMsgCmd.label "Melding med stjerne">
 <!ENTITY nextStarredMsgCmd.accesskey "M">
 <!ENTITY nextUnreadThread.label "Ulesen tråd">
-<!ENTITY nextUnreadThreadCmd.accesskey "t">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "T">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Førre">
 <!ENTITY prevMenu.accesskey "F">
 <!ENTITY prevMsgCmd.label "Melding">

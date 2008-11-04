@@ -138,9 +138,6 @@
 <!ENTITY task.toolbar.label                     "Oppgåve-verktøylinje">
 <!ENTITY task.toolbar.accesskey                 "O">
 
-<!ENTITY mode.toolbar.label                     "Modusverktøylinje">
-<!ENTITY mode.toolbar.accesskey                 "M">
-
 <!ENTITY calendar.menu.customize.label          "Tilpass …">
 <!ENTITY calendar.menu.customize.accesskey      "T">
 
