@@ -36,14 +36,5 @@
  ***** END LICENSE BLOCK ***** -->
 <!-- Labels -->
 
-<!ENTITY subscribechoosethis.label "roghnaigh an freastalaí nuachta seo">
-<!ENTITY subscribeclickhere.label "cliceáil anseo chun freastalaí nuachta a roghnú">
 <!ENTITY newfolderchoosethis.label "roghnaigh é seo don mháthair">
-<!ENTITY newfolderclickhere.label "Cliceáil anseo chun roghnú">
-<!ENTITY renamefolderchoosethis.label "roghnaigh an fillteán seo">
-<!ENTITY renamefolderclickhere.label "cliceáil anseo chun fillteán a roghnú">
 <!ENTITY filemessageschoosethis.label "roghnaigh an fillteán seo">
-<!ENTITY filemessagesclickhere.label "cliceáil anseo chun fillteán a roghnú">
-<!ENTITY chooseaccountclickhere.label "Cliceáil anseo chun cuntas a roghnú">
-<!ENTITY choosefolderclickhere.label "Cliceáil anseo chun fillteán a roghnú">
-<!ENTITY chooseserverToDeferTo.label "Cliceáil anseo chun cuntas a roghnú le haghaidh stóráil na dteachtaireachtaí">

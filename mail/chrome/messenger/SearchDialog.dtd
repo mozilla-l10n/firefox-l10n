@@ -5,15 +5,11 @@
 <!ENTITY searchSubfolders.accesskey "e">
 <!ENTITY resetButton.label "Bánaigh">
 <!ENTITY resetButton.accesskey "B">
-<!ENTITY optionsButton.label "Roghanna">
-<!ENTITY closeButton.label "Dún">
 <!ENTITY openButton.label "Oscail">
 <!ENTITY openButton.accesskey "o">
 <!ENTITY deleteButton.label "Scrios">
 <!ENTITY deleteButton.accesskey "S">
 <!ENTITY searchDialogTitle.label "Cuardaigh Teachtaireachtaí">
-<!ENTITY conditionDesc.label "Cuardaigh teachtaireachtaí a mheaitseálann:">
-<!ENTITY conditions.label "Critéir">
 <!ENTITY results.label "Torthaí">
 <!ENTITY fileHereMenu.label "Comhdaigh Anseo">
 <!ENTITY fileHereMenu.accesskey "C">
@@ -46,7 +42,6 @@
 <!ENTITY statusColumn.label "Stádas">
 <!ENTITY sizeColumn.label "Méid">
 <!ENTITY junkStatusColumn.label "Stádas Dramhphoist">
-<!ENTITY linesColumn.label "Línte">
 <!ENTITY unreadColumn.label "Gan léamh">
 <!ENTITY totalColumn.label "Iomlán">
 <!ENTITY readColumn.label "Léite">

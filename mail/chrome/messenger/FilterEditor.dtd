@@ -19,9 +19,6 @@
 <!ENTITY contextBoth.label "Ríomhphost á sheiceáil nó an scagaire á rith de láimh">
 <!ENTITY filterActionDesc.label "Déan na gníomhartha seo:">
 <!ENTITY filterActionDesc.accesskey "G">
-
-<!ENTITY newFolderButton.label "Fillteán Nua…">
-<!ENTITY newFolderButton.accesskey "N">
 <!-- New Style Filter Rule Actions -->
 
 <!ENTITY moveMessage.label "Bog an teachtaireacht go">

@@ -1,8 +1,6 @@
 <!ENTITY itemFormatting.label "Formáidiú">
 <!ENTITY itemTags.label "Clibeanna">
-<!ENTITY itemFonts.label "Clófhoirne">
 
-<!ENTITY textBegin.label "Cuma ghnáth-théacs luaite">
 <!ENTITY style.label "Stíl:">
 <!ENTITY style.accesskey "s">
 <!ENTITY regularStyle.label "Gnách">
@@ -19,12 +17,10 @@
 <!ENTITY displayWidth.label "Teachtaireachtaí Gnáth-théacs">
 <!ENTITY plainText.label "Úsáid an cló seo:">
 <!ENTITY displayText.label "Agus teachtaireachtaí gnáth-théacs á dtaispeáint mar athfhriotal:">
-<!ENTITY viewingPlainText.label "Agus teachtaireachtaí gnáth-théacs á dtaispeáint:">
 <!ENTITY fixedWidth.label "Cló aonleithid">
 <!ENTITY fixedWidth.accesskey "a">
 <!ENTITY variableWidth.label "Cló il-leithid">
 <!ENTITY variableWidth.accesskey "I">
-<!ENTITY readingMessagesHeader.label "Le haghaidh teachtaireachtaí isteach">
 <!ENTITY colors.label "Dathanna">
 <!ENTITY overrideColors.label "Agus teachtaireachtaí a dtaispeáint, úsáid na dathanna seo:">
 <!ENTITY textColor.label "Dath an Téacs:">

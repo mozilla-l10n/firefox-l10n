@@ -1,6 +1,4 @@
 <!ENTITY serverAdvanced.label "Ardshocruithe Cuntais">
-<!-- LOCALIZATION NOTE (imapAdvanced.label): Do not translate "IMAP" -->
-<!ENTITY imapAdvanced.label "Ardsocruithe an Fhreastalaí IMAP">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "Comhadlann an fhreastalaí IMAP:">
 <!ENTITY serverDirectory.accesskey "d">
@@ -23,7 +21,6 @@
 <!ENTITY overrideNamespaces.label "Ceadaigh don fhreastalaí na hainmspásanna seo a shárú">
 <!ENTITY overrideNamespaces.accesskey "A">
 <!ENTITY pop3Desc.label "Agus ríomhphost POP á íosluchtú ón bhfreastalaí seo, úsáid an fillteán seo a leanas le haghaidh teachtaireachtaí nua:">
-<!ENTITY folderStorage.label "Cá stórálfar ríomhphost">
 <!ENTITY globalInbox.label "Bosca Isteach Uilíoch (Cuntas na bhFillteán Logánta)">
 <!ENTITY globalInbox.accesskey "B">
 <!ENTITY accountDirectory.label "Bosca Isteach chuntas an fhreastalaí seo">

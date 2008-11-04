@@ -21,3 +21,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label "Luchtaigh an leabharmharc seo sa bharra taoibh">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey "h">
 <!ENTITY editBookmarkOverlay.choose.label "Roghnaigh…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label "Fillteán Nua">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey "f">

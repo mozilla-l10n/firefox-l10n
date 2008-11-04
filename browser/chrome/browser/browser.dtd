@@ -7,6 +7,9 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Brabhsáil Phríobháideach)">
 
 <!ENTITY tabCmd.label "Cluaisín Nua">
 <!ENTITY tabCmd.accesskey "C">
@@ -161,6 +164,9 @@
 <!ENTITY clearPrivateDataCmd.label "Bánaigh Sonraí Príobháideacha">
 <!ENTITY clearPrivateDataCmd.accesskey "P">
 
+<!ENTITY privateBrowsingCmd.label "Brabhsáil Phríobháideach">
+<!ENTITY privateBrowsingCmd.accesskey "B">
+
 <!ENTITY viewMenu.label "Amharc">
 <!ENTITY viewMenu.accesskey "A">
 <!ENTITY viewToolbarsMenu.label "Barraí Uirlisí">
@@ -233,10 +239,12 @@
 <!ENTITY viewPageInfoCmd.accesskey "I">
 <!ENTITY viewFrameInfoCmd.label "Taispeáin Eolas Fráma">
 <!ENTITY viewFrameInfoCmd.accesskey "E">
-<!ENTITY showImageCmd.label "Athluchtaigh an Íomhá">
-<!ENTITY showImageCmd.accesskey "A">
+<!ENTITY reloadImageCmd.label "Athluchtaigh an Íomhá">
+<!ENTITY reloadImageCmd.accesskey "A">
 <!ENTITY viewImageCmd.label "Taispeáin an Íomhá Amháin">
 <!ENTITY viewImageCmd.accesskey "T">
+<!ENTITY viewVideoCmd.label "Féach ar Fhíseán">
+<!ENTITY viewVideoCmd.accesskey "F">
 <!ENTITY viewBGImageCmd.label "Taispeáin Íomhá sa Chúlra">
 <!ENTITY viewBGImageCmd.accesskey "c">
 <!ENTITY setDesktopBackgroundCmd.label "Socraigh Mar Chúlra na Deisce…">
@@ -264,8 +272,16 @@
 <!ENTITY sendLinkCmd.accesskey "n">
 <!ENTITY saveImageCmd.label "Sábháil an Íomhá Mar…">
 <!ENTITY saveImageCmd.accesskey "m">
+<!ENTITY saveVideoCmd.label "Sábháil an Físeán Mar…">
+<!ENTITY saveVideoCmd.accesskey "f">
+<!ENTITY saveAudioCmd.label "Sábháil an Fhuaim Mar…">
+<!ENTITY saveAudioCmd.accesskey "b">
 <!ENTITY sendImageCmd.label "Seol an Íomhá…">
 <!ENTITY sendImageCmd.accesskey "n">
+<!ENTITY sendVideoCmd.label "Seol an Físeán…">
+<!ENTITY sendVideoCmd.accesskey "e">
+<!ENTITY sendAudioCmd.label "Seol an Fhuaim…">
+<!ENTITY sendAudioCmd.accesskey "l">
 <!ENTITY copyLinkCmd.label "Cóipeáil Suíomh an Naisc">
 <!ENTITY copyLinkCmd.accesskey "p">
 <!ENTITY copyLinkTextCmd.label "Cóipeáil Téacs an Naisc">
@@ -274,6 +290,10 @@
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyImageContentsCmd.label "Cóipeáil an Íomhá">
 <!ENTITY copyImageContentsCmd.accesskey "p">
+<!ENTITY copyVideoURLCmd.label "Cóipeáil Suíomh an Fhíseáin">
+<!ENTITY copyVideoURLCmd.accesskey "p">
+<!ENTITY copyAudioURLCmd.label "Cóipeáil Suíomh na Fuaime">
+<!ENTITY copyAudioURLCmd.accesskey "c">
 <!ENTITY blockImageCmd.accesskey "B">
 <!ENTITY metadataCmd.label "Airíonna">
 <!ENTITY metadataCmd.accesskey "A">
@@ -281,11 +301,26 @@
 <!ENTITY copyEmailCmd.accesskey "E">
 <!ENTITY thisFrameMenu.label "An Fráma Seo">
 <!ENTITY thisFrameMenu.accesskey "r">
+<!-- Media (video/audio) controls -->
+
+<!ENTITY mediaPlay.label "Seinn">
+<!ENTITY mediaPlay.accesskey "S">
+<!ENTITY mediaPause.label "Cuir ar Shos">
+<!ENTITY mediaPause.accesskey "S">
+<!ENTITY mediaMute.label "Gan Fuaim">
+<!ENTITY mediaMute.accesskey "M">
+<!ENTITY mediaUnmute.label "Le Fuaim">
+<!ENTITY mediaUnmute.accesskey "m">
+<!ENTITY mediaShowControls.label "Taispeáin Rialtáin">
+<!ENTITY mediaShowControls.accesskey "R">
+<!ENTITY mediaHideControls.label "Folaigh Rialtáin">
+<!ENTITY mediaHideControls.accesskey "R">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
+
 
 
 <!ENTITY fullZoomEnlargeCmd.label "Súmáil Isteach">
@@ -390,3 +425,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Tuilleadh Eolais…">
 
 <!ENTITY downloadMonitor2.tooltip "Cliceáil chun fuinneog na n-íosluchtuithe a oscailt">
+
+<!ENTITY ctrlTab.search.emptyText "Cuardaigh Cluaisíní">

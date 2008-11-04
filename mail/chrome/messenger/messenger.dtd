@@ -5,15 +5,12 @@
 
 <!ENTITY newFolderCmd.label "Fillteán…">
 <!ENTITY newFolderCmd.accesskey "F">
-<!ENTITY newTabCmd.label "Cluaisín Nua">
-<!ENTITY newTabCmd.accesskey "C">
 <!ENTITY closeTabCmd.label "Dún Cluaisín">
 <!ENTITY closeTabCmd.accesskey "c">
 <!ENTITY newVirtualFolderCmd.label "Cuardach Sábháilte…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newAccountCmd.label "Cuntas…">
 <!ENTITY newAccountCmd.accesskey "C">
-<!ENTITY openMessageMenu.label "Oscail">
 <!ENTITY openMessageFileCmd.label "Oscail Teachtaireacht Shábháilte…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Iatáin">
@@ -66,7 +63,6 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Réamhamharc Priontála">
 <!ENTITY printPreviewCmd.accesskey "r">
-<!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "Socrú Leathanaigh…">
 <!ENTITY printSetupCmd.accesskey "l">
 <!-- Edit Menu -->
@@ -130,8 +126,6 @@
 <!ENTITY messagePaneWide.accesskey "L">
 <!ENTITY messagePaneVertical.label "Amharc Ingearach">
 <!ENTITY messagePaneVertical.accesskey "I">
-<!ENTITY threadPaneWide.label "Amharc Leathan Liosta">
-<!ENTITY threadPaneWide.accesskey "i">
 <!ENTITY showMessageCmd.label "Pána Teachtaireachta">
 <!ENTITY showMessageCmd.accesskey "T">
 
@@ -193,8 +187,6 @@
 <!ENTITY threads.accesskey "e">
 <!ENTITY allMsgsCmd.label "Uile">
 <!ENTITY allMsgsCmd.accesskey "U">
-<!ENTITY expandOrCollapseMenu.label "Leathnaigh/Laghdaigh">
-<!ENTITY expandOrCollapseMenu.accesskey "t">
 <!ENTITY expandAllThreadsCmd.label "Leathnaigh Gach Snáithe">
 <!ENTITY expandAllThreadsCmd.accesskey "E">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -258,9 +250,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
 <!-- Search Menu -->
-
-<!ENTITY searchMenu.label "Cuardaigh">
-<!ENTITY searchMenu.accesskey "U">
 
 <!ENTITY findMenu.label "Aimsigh">
 <!ENTITY findMenu.accesskey "A">
@@ -343,14 +332,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Cruthaigh Scagaire ón Teachtaireacht…">
 <!ENTITY createFilter.accesskey "a">
-<!ENTITY moveMsgMenu.label "Bog">
-<!ENTITY moveMsgMenu.accesskey "B">
+<!ENTITY moveMsgToMenu.label "Bog Go">
+<!ENTITY moveMsgToMenu.accesskey "B">
 <!ENTITY moveCopyMsgRecentMenu.label "Le Gairid">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY copyMessageLocation.label "Cóipeáil Suíomh na Teachtaireachta">
 <!ENTITY copyMessageLocation.accesskey "M">
-<!ENTITY copyMsgMenu.label "Cóipeáil">
-<!ENTITY copyMsgMenu.accesskey "C">
+<!ENTITY copyMsgToMenu.label "Cóipeáil Go">
+<!ENTITY copyMsgToMenu.accesskey "C">
 <!ENTITY moveToFolderAgain.label "Bog Arís">
 <!ENTITY moveToFolderAgain.accesskey "a">
 <!ENTITY moveToFolderAgainCmd.key "m">
@@ -384,8 +373,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsReadCmd.label "Léite">
 <!ENTITY markAsReadCmd.accesskey "L">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "Gan Léamh">
-<!ENTITY markAsUnreadCmd.accesskey "G">
 <!ENTITY markThreadAsReadCmd.label "Snáithe Léite">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -412,7 +399,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Windows Menu -->
 
 <!ENTITY windowMenu.label "Fuinneog">
-<!ENTITY windowMenu.accesskey "F">
 <!-- Tools Menu -->
 
 <!ENTITY tasksMenu.label "Uirlisí">
@@ -457,7 +443,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY printButton.label "Priontáil">
 <!ENTITY stopButton.label "Stad">
 <!ENTITY throbberItem.title "Táscaire Gníomhaíochta">
-<!ENTITY updatesItem.title "Nuashonruithe">
 <!ENTITY junkButton.label "Dramhphost">
 <!ENTITY notJunkButton.label "Post Ceart">
 <!ENTITY addressBookButton.label "Leabhar Seoltaí">
@@ -469,7 +454,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Mail Toolbar Tooltips-->
 
 <!ENTITY advancedButton.tooltip "Ardchuardach na dteachtaireachtaí">
-<!ENTITY clearButton.tooltip "Glan na critéir chuardaigh agus taispeáin gach teachtaireacht">
 <!ENTITY getMsgButton.tooltip "Faigh teachtaireachtaí nua">
 <!ENTITY getAllNewMsgCmd.label "Faigh Gach Teachtaireacht Nua">
 <!ENTITY getAllNewMsgCmd.accesskey "G">
@@ -543,8 +527,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY SearchNameOrEmail.label "Ainm nó Seoladh Ríomhphoist ina bhfuil:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
-<!ENTITY clearButton.label "Bánaigh">
-<!ENTITY clearButton.accesskey "B">
 <!-- Quick Search Menu Bar -->
 
 <!ENTITY searchSubjectMenu.label "Ábhar">
@@ -567,7 +549,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY statusColumn.label "Stádas">
 <!ENTITY sizeColumn.label "Méid">
 <!ENTITY junkStatusColumn.label "Stádas Dramhphoist">
-<!ENTITY linesColumn.label "Línte">
 <!ENTITY unreadColumn.label "Gan léamh">
 <!ENTITY totalColumn.label "Iomlán">
 <!ENTITY readColumn.label "Léite">
@@ -628,8 +609,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrint.accesskey "P">
 <!ENTITY contextPrintPreview.label "Réamhamharc Priontála">
 <!ENTITY contextPrintPreview.accesskey "r">
-<!ENTITY contextDelete.label "Scrios">
-<!ENTITY contextDelete.accesskey "S">
 <!-- Junk Bar -->
 
 <!ENTITY junkBarMessage1.label "Dramhphost">
@@ -663,8 +642,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY CopyEmailAddress.accesskey "C">
 <!ENTITY CreateFilterFrom.label "Cruthaigh Scagaire Ó…">
 <!ENTITY CreateFilterFrom.accesskey "S">
-<!ENTITY BlockAddress.label "Cuir Cosc ar an Seoladh">
-<!ENTITY BlockAddress.accesskey "A">
 <!ENTITY reportPhishingURL.label "Seol Tuairisc faoi Camscéim Ríomhphoist">
 <!ENTITY reportPhishingURL.accesskey "o">
 <!-- Content Pane Context Menu -->

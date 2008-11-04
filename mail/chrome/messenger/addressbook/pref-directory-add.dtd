@@ -48,12 +48,9 @@
 <!ENTITY directorySecure.accesskey "S">
 <!ENTITY directoryLogin.label "DN ceangail: ">
 <!ENTITY directoryLogin.accesskey "i">
-<!ENTITY advancedOptionsButton.label "Ardroghanna">
-<!ENTITY advancedOptionsButton.accesskey "a">
 <!ENTITY General.tab "Ginearálta">
 <!ENTITY Offline.tab "As Líne">
 <!ENTITY Advanced.tab "Ardroghanna">
-<!ENTITY advancedOptionsTitle.label "Ardroghanna">
 <!ENTITY portNumber.label "Uimhir phoirt: ">
 <!ENTITY portNumber.accesskey "p">
 <!ENTITY searchFilter.label "Scagaire cuardaigh:">

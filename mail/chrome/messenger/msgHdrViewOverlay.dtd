@@ -54,7 +54,6 @@
 <!ENTITY messageIdField2.label "aitheantas-teachtaireachta ">
 <!ENTITY inReplyToField2.label "freagra-ar ">
 <!ENTITY originalWebsite2.label "suíomh-gréasáin ">
-<!ENTITY saveAll.label "Sábháil Gach Rud…">
 
 <!ENTITY editMessageDescription.label "Is dréacht é seo">
 <!ENTITY editMessageButton.label "Eagar…">

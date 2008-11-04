@@ -54,26 +54,9 @@
 <!ENTITY calendar.new.server.key "L">
 <!ENTITY calendar.new.server.accesskey "l">
 
-<!ENTITY calendar.open.file.label "Oscail Comhad Féilire…">
-<!ENTITY calendar.open.file.key "O">
-<!ENTITY calendar.open.file.accesskey "O">
-
-<!ENTITY event.edit.event "Cuir an Roghnúchán in Eagar…">
-<!ENTITY event.edit.event.key "E">
-<!ENTITY event.edit.event.accesskey "E">
-
-<!ENTITY event.delete.event "Scrios na hImeachtaí Roghnaithe">
-<!ENTITY event.delete.event.accesskey "R">
-
-<!ENTITY event.delete.tasks "Scrios na Tascanna Roghnaithe">
-<!ENTITY event.delete.tasks.accesskey "T">
-
 <!ENTITY calendar.print.label "Priontáil…">
 <!ENTITY calendar.print.key "R">
 <!ENTITY calendar.print.accesskey "P">
-
-<!ENTITY calendar.pagesetup.label "Socrú Leathanaigh…">
-<!ENTITY calendar.pagesetup.accesskey "l">
 
 <!ENTITY calendar.import.label "Iompórtáil…">
 <!ENTITY calendar.import.key "I">
@@ -84,54 +67,8 @@
 <!ENTITY calendar.export.selection.label "Easpórtáil Roghnúchán…">
 <!ENTITY calendar.export.selection.accesskey "R">
 
-<!ENTITY calendar.subscribe.label "Liostáil le Cianfhéilire…">
-<!ENTITY calendar.subscribe.accesskey "C">
-
-<!ENTITY calendar.reloadserver.label "Athluchtaigh Cianfhéilirí">
-<!ENTITY calendar.reloadserver.key "R">
-<!ENTITY calendar.reloadserver.accesskey "A">
-
 <!ENTITY calendar.publish.label "Foilsigh…">
 <!ENTITY calendar.publish.accesskey "f">
-<!ENTITY calendar.publish.calendar.label "Foilsigh Féilire…">
-<!ENTITY calendar.publish.calendar.accesskey "f">
-<!ENTITY calendar.publish.selection.label "Foilsigh Roghnúchán…">
-<!ENTITY calendar.publish.selection.accesskey "r">
-
-<!ENTITY calendar.quit.label "Scoir">
-<!ENTITY calendar.quit.accesskey "S">
-<!ENTITY calendar.quit.key "Q">
-<!ENTITY calendar.quit.label.mac "Scoir ó &brandShortName;">
-
-<!ENTITY calendar.exit.label "Scoir">
-<!ENTITY calendar.exit.accesskey "s">
-
-<!ENTITY calendar.undo.label "Cealaigh">
-<!ENTITY calendar.undo.key "Z">
-<!ENTITY calendar.undo.accesskey "l">
-
-<!ENTITY calendar.redo.label "Athfheidhmigh">
-<!ENTITY calendar.redo.key "Y">
-<!ENTITY calendar.redo.accesskey "f">
-
-<!ENTITY calendar.cut.label "Gearr">
-<!ENTITY calendar.cut.key "X">
-<!ENTITY calendar.cut.accesskey "g">
-
-<!ENTITY calendar.copy.label "Cóipeáil">
-<!ENTITY calendar.copy.key "C">
-<!ENTITY calendar.copy.accesskey "C">
-
-<!ENTITY calendar.paste.label "Greamaigh">
-<!ENTITY calendar.paste.key "V">
-<!ENTITY calendar.paste.accesskey "R">
-
-<!ENTITY calendar.selectall.label "Roghnaigh Uile">
-<!ENTITY calendar.selectall.key "W">
-<!ENTITY calendar.selectall.accesskey "U">
-
-<!ENTITY toolbarsMenu.label "Barraí Uirlisí">
-<!ENTITY toolbarsMenu.accesskey "U">
 
 <!ENTITY calendar.toolbar.label "Barraí Uirlisí Calendar">
 <!ENTITY calendar.toolbar.accesskey "B">
@@ -140,12 +77,6 @@
 
 <!ENTITY calendar.menu.customize.label "Saincheap…">
 <!ENTITY calendar.menu.customize.accesskey "C">
-
-<!ENTITY showStatusBarCmd.label "Barra Stádais">
-<!ENTITY showStatusBarCmd.accesskey "B">
-
-<!ENTITY showTaskBoxCmd.label "Liosta Tascanna">
-<!ENTITY showTaskBoxCmd.accesskey "L">
 
 <!ENTITY showUnifinderCmd.label "Aimsigh Imeachtaí">
 <!ENTITY showUnifinderCmd.accesskey "M">
@@ -160,20 +91,8 @@
 <!ENTITY calendar.menu.numberofweeks.5 "Cúig Seachtaine">
 <!ENTITY calendar.menu.numberofweeks.6 "Sé Seachtaine">
 
-<!ENTITY calendar.fullscreen.label "Lánscáileán">
-<!ENTITY calendar.fullscreen.accesskey "I">
-
-<!ENTITY calendar.addons.label "Breiseáin">
-<!ENTITY calendar.addons.accesskey "b">
-
-<!ENTITY goMenu.label "Gabh">
-<!ENTITY goMenu.accesskey "G">
-
 <!ENTITY goTodayCmd.label "Inniu">
 <!ENTITY goTodayCmd.accesskey "I">
-
-<!ENTITY goDateCmd.label "Dáta…">
-<!ENTITY goDateCmd.accesskey "D">
 
 <!ENTITY goPreviousCmd.day.label "An Lá Roimhe Seo">
 <!ENTITY goPreviousCmd.week.label "An tSeachtain Roimhe Seo">
@@ -185,62 +104,8 @@
 <!ENTITY goNextCmd.month.label "An Mhí Seo Chugainn">
 <!ENTITY goNextCmd.all.accesskey "l">
 
-<!ENTITY toolsMenu.label "Uirlisí">
-<!ENTITY toolsMenu.accesskey "U">
-
-<!ENTITY errorConsoleCmd.label "Consól Earráide">
-<!ENTITY errorConsoleCmd.accesskey "E">
-
 <!ENTITY addressBookCmd.label "Leabhar Seoltaí">
 <!ENTITY addressBookCmd.accesskey "A">
-
-<!ENTITY helpMenu.label "Cabhair">
-<!ENTITY helpMenu.accesskey "H">
-<!-- LOCALIZATION NOTE some localizations of Windows use "?"
-           for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label "Cabhair">
-<!ENTITY helpMenuWin.accesskey "H">
-<!-- Toolbar items -->
-
-<!ENTITY fileMenu.label "Comhad">
-<!ENTITY fileMenu.accesskey "C">
-
-<!ENTITY editMenu.label "Eagar">
-<!ENTITY editMenu.accesskey "E">
-<!ENTITY optionsCmd.label "Roghanna…">
-<!ENTITY optionsCmd.accesskey "R">
-<!ENTITY preferencesCmd.label "Sainroghanna">
-<!ENTITY preferencesCmd.accesskey "n">
-<!ENTITY preferencesCmdMac.label "Sainroghanna…">
-<!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.modifiers "accel">
-
-<!ENTITY viewMenu.label "Amharc">
-<!ENTITY viewMenu.accesskey "A">
-
-<!ENTITY releaseCmd.label "Nótaí Eisiúna">
-<!ENTITY releaseCmd.accesskey "N">
-<!ENTITY aboutCmd.label "Maidir le &brandFullName;">
-<!ENTITY aboutCmd.accesskey "M">
-<!ENTITY updateCmd.label "Lorg Nuashonruithe…">
-<!ENTITY updateCmd.accesskey "o">
-<!-- Mac OS X "Window" menu items -->
-
-<!ENTITY windowMenu.label "Fuinneog">
-<!ENTITY minimizeWindow.label "Íoslaghdaigh">
-<!ENTITY zoomWindow.label "Súmáil">
-<!ENTITY minimizeWindow.key "B">
-<!ENTITY bringAllToFront.label "Tabhair an tIomlán chun Tosaigh">
-<!-- Mac OS X Application menu items -->
-
-<!ENTITY servicesMenuMac.label "Seirbhísí">
-<!ENTITY hideThisAppCmdMac.label "Folaigh &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
-<!ENTITY hideOtherAppsCmdMac.label "Folaigh Cinn Eile">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
-<!ENTITY showAllAppsCmdMac.label "Taispeáin Gach">
 
 <!ENTITY calendar.importcalendar.label "Iompórtáil Féilire…">
 

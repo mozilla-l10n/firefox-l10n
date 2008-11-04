@@ -60,7 +60,6 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "r">
 <!ENTITY deleteCmd.label "Scrios">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "s">
 <!ENTITY deleteAbCmd.label "Scrios Leabhar Seoltaí">
 <!ENTITY deleteCardCmd.label "Scrios Cárta">
@@ -118,7 +117,6 @@
 <!ENTITY exportCmd.label "Easpórtáil…">
 <!ENTITY exportCmd.accesskey "E">
 <!ENTITY preferencesCmd.label "Roghanna…">
-<!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "R">
 <!ENTITY preferencesCmdUnix.label "Sainroghanna">
 <!ENTITY preferencesCmdUnix.accesskey "n">

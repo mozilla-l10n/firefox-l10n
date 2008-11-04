@@ -6,12 +6,8 @@
 <!ENTITY addAccountButton.accesskey "C">
 <!ENTITY setDefaultButton.label "Socraigh mar Réamhshocrú">
 <!ENTITY setDefaultButton.accesskey "r">
-<!ENTITY duplicateButton.label "Dúbail">
 <!ENTITY removeButton.label "Bain Cuntas">
 <!ENTITY removeButton.accesskey "B">
-
-<!ENTITY nameCol.label "Ainm">
-<!ENTITY duplicate.label "Dúbail">
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      setting dialog, which specifies the width and height in em units of the dialog.

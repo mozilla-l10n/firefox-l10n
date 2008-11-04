@@ -19,6 +19,6 @@
 <!ENTITY itemOfflineApps.accesskey "O">
 <!ENTITY itemDownloads.label "Stair an Bhainisteora Íosluchtaithe">
 <!ENTITY itemDownloads.accesskey "S">
-<!ENTITY itemSessions.label "Seisiúin Fhíordheimhnithe">
-<!ENTITY itemSessions.accesskey "S">
+<!ENTITY itemActiveLogins.label "Active Logins">
+<!ENTITY itemActiveLogins.accesskey "L">
 <!ENTITY window.width "30em">

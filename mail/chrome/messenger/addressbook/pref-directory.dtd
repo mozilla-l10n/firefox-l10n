@@ -37,14 +37,11 @@
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 
 <!ENTITY pref.ldap.window.title "Freastalaithe Eolaire LDAP">
-<!ENTITY directory.label "Cuir eolaire leis">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "Freastalaí Eolaire LDAP:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 <!ENTITY directoriesText.label "Roghnaigh Freastalaí Eolaire LDAP:">
 <!ENTITY directoriesText.accesskey "S">
-<!-- LOCALIZATION NOTE (autocomplete.title) : do not translate "LDAP" in below line -->
-<!ENTITY autocomplete.title "Freastalaí Eolaire LDAP">
 <!ENTITY addDirectory.label "Cuir Leis">
 <!ENTITY addDirectory.accesskey "l">
 <!ENTITY editDirectory.label "Eagar">

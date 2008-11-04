@@ -62,8 +62,6 @@
 <!ENTITY lightning.menupopup.open.calendar.accesskey "C">
 <!-- Messenger Sidebar -->
 
-<!ENTITY lightning.sidebar.invitations.label "Cuirí">
-<!ENTITY lightning.sidebar.invitations.accesskey "C">
 <!ENTITY lightning.calendar.label "Féilire">
 <!ENTITY lightning.calendar.accesskey "F">
 <!ENTITY lightning.tasks.label "Tascanna">
@@ -76,6 +74,10 @@
 <!ENTITY lightning.toolbar.calendar.accesskey "F">
 <!ENTITY lightning.toolbar.task.label "Tascanna">
 <!ENTITY lightning.toolbar.task.accesskey "T">
+<!-- Toolbar write button -->
+
+<!ENTITY lightning.toolbar.newevent.label "Teagmhas">
+<!ENTITY lightning.toolbar.newtask.label "Task">
 <!-- Messenger Toolbar -->
 
 <!ENTITY lightning.toolbar.day.label "Lá">

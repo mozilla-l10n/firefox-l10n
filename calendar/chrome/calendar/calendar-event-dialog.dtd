@@ -48,7 +48,7 @@
 
 <!ENTITY newevent.from.label "Ó">
 <!ENTITY newevent.to.label "Chuig">
-<!ENTITY newevent.attendees.sendEmail.label "Seol cuirí chuig an lucht freastail mar ríomhphost">
+<!ENTITY newevent.attendees.notify.label "Notify attendees">
 
 <!ENTITY newevent.status.label "Stádas">
 <!ENTITY newevent.status.accesskey "S">

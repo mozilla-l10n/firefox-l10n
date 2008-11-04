@@ -1,9 +1,7 @@
 <!ENTITY itemGeneral.label "Ginearálta">
 <!ENTITY itemAutoComplete.label "Seoladh">
 <!ENTITY itemSpellCheck.label "Litriú">
-<!ENTITY itemSendFormat.label "Formáid Seolta">
 
-<!ENTITY forwardReply.label "Cur ar Aghaidh na dTeachtaireachtaí">
 <!ENTITY forwardMsg.label "Cuir teachtaireachtaí ar aghaidh:">
 <!ENTITY forwardMsg.accesskey "a">
 <!ENTITY inline.label "Inlíne">
@@ -25,7 +23,6 @@
 <!ENTITY restoreHTMLDefaults.label "Athchóirigh na Réamhshocruithe">
 <!ENTITY restoreHTMLDefaults.accesskey "R">
 
-<!ENTITY sendingMessagesHeader.label "Cumadóireacht Teachtaireachtaí">
 <!ENTITY spellCheck.label "Ceartaigh litriú sula seolfar é">
 <!ENTITY spellCheck.accesskey "C">
 <!ENTITY spellCheckInline.label "Cumasaigh litriú beo">
@@ -39,10 +36,6 @@
 <!ENTITY autoSave.label "Sábháil go huathoibríoch gach">
 <!ENTITY autoSave.accesskey "u">
 <!ENTITY autoSaveEnd.label "nóiméad">
-<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
-<!ENTITY wrapOutMsg.label "Timfhill teachtaireachtaí gnáth-théacs ag">
-<!ENTITY wrapOutMsg.accesskey "l">
-<!ENTITY char.label "carachtar">
 
 <!ENTITY emailCollectionPicker.label "Cuir seoltaí ríomhphoist amach go huathoibríoch le mo:">
 <!ENTITY emailCollectionPicker.accesskey "t">
@@ -55,10 +48,7 @@
 <!ENTITY directoriesNone.label "Gan sonrú">
 <!ENTITY editDirectories.label "Cuir Eolairí in Eagar…">
 <!ENTITY editDirectories.accesskey "E">
-<!ENTITY matchText.label "Má tá iontráil oiriúnach i do leabhair sheoltaí logánta:">
-<!ENTITY skipDirectory.label "Ná déan cuardach san eolaire">
 
-<!ENTITY sendOptionsCaption.label "Roghanna Seolta agus HTML">
 <!ENTITY sendOptionsDescription.label "Cumraigh iompar an fhormáidithe téacs">
 <!ENTITY sendOptions.label "Roghanna Seolta…">
 <!ENTITY sendOptions.accesskey "S">

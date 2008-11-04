@@ -4,38 +4,28 @@
 <!ENTITY askMe.label "Fiafraigh díom cad atá le déanamh">
 <!ENTITY askMe.accesskey "f">
 <!ENTITY convertPlain.label "Tiontaigh an teachtaireacht go gnáth-théacs">
-<!ENTITY convertPlain.accesskey "t">
+<!ENTITY convertPlain.accesskey "T">
 <!ENTITY sendHTML.label "Seol an teachtaireacht mar HTML">
-<!ENTITY sendHTML.accesskey "s">
+<!ENTITY sendHTML.accesskey "S">
 <!ENTITY sendBoth.label "Seol an teachtaireacht mar ghnáth-théacs agus HTML araon">
 <!ENTITY sendBoth.accesskey "e">
-<!ENTITY receiveHTML.label 'Má tá a fhios agat gur féidir le faighteoir áirithe glacadh le HTML, athraigh an rogha "Formáid teachtaireachta de rogha" ar chárta an fhaighteora sa Leabhar Seoltaí.'>
 <!ENTITY override.label "Nóta: úsáid an Leabhar Seoltaí chun a rogha fhormáide a shonrú d'fhaighteoirí.">
 
 <!ENTITY domaindesc.label "Má sheolann tú teachtaireacht go dtí seoladh atá i gceann de na bhfearainn thíosluaite, roghnóidh &brandShortName; an fhormáid cheart go huathoibríoch.">
 <!ENTITY HTMLTab.label "Fearainn HTML">
-<!ENTITY HTMLTab.accesskey "h">
+<!ENTITY HTMLTab.accesskey "H">
 <!ENTITY PlainTextTab.label "Fearainn Ghnáth-Théacs">
-<!ENTITY PlainTextTab.accesskey "g">
+<!ENTITY PlainTextTab.accesskey "G">
 <!ENTITY AddHtmlDomain.label "Cuir Leis…">
-<!ENTITY AddHtmlDomain.accesskey "c">
+<!ENTITY AddHtmlDomain.accesskey "C">
 <!ENTITY AddPlainText.label "Cuir Leis…">
 <!ENTITY AddPlainText.accesskey "C">
 <!ENTITY DeleteHtmlDomain.label "Scrios">
 <!ENTITY DeleteHtmlDomain.accesskey "i">
 <!ENTITY DeletePlainText.label "Scrios">
-<!ENTITY DeletePlainText.accesskey "o">
+<!ENTITY DeletePlainText.accesskey "S">
 
 <!ENTITY add.htmltitle "Cuir Ainm Fearainn HTML Leis">
 <!ENTITY add.htmldomain "Ainm Fearainn HTML:">
-<!ENTITY add.htmldomain.accesskey "H">
 <!ENTITY add.plaintexttitle "Cuir Ainm Fearainn Ghnáth-Théacs Leis">
 <!ENTITY add.plaintextdomain "Ainm Fearainn Ghnáth-Théacs:">
-<!ENTITY add.plaintext.accesskey "G">
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-
-<!ENTITY domainnameError.title "Earráid in Ainm Fearainn">
-<!ENTITY duplicationError.label "Tá an t-ainm fearainn @string@ sa liosta seo cheana.">
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-
-<!ENTITY dualEntryError.label "Ní féidir le hainm fearainn bheith sa liosta HTML agus sa liosta Ghnáth-Théacs. Tá an t-ainm fearainn @string@ ann cheana.">
