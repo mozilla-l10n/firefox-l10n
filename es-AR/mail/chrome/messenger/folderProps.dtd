@@ -52,7 +52,6 @@
 <!ENTITY retention.label "Política de retención">
 <!ENTITY retentionUseDefault.label  "Usar configuración del servidor">
 <!ENTITY retentionUseDefault.accesskey "d">
-<!ENTITY days.label "días">
 <!ENTITY daysOld.label "días">
 <!ENTITY message.label "mensajes">
 <!ENTITY retentionCleanup.label "Para recuperar espacio en disco, los mensajes viejos pueden ser borrados permanentemente">
@@ -76,18 +75,15 @@
 
 <!ENTITY selectofflineNewsgroup.check.label "Seleccionar este grupo de noticias para usar sin conexión">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "o">
-<!ENTITY UseDefaultofflineNewsgroup.check.label "Utilizar la configuración por defecto de la cuenta">
 <!ENTITY offlineNewsgroup.button.label "Descargar ahora">
 <!ENTITY offlineNewsgroup.button.accesskey       "D">
 
-<!ENTITY folderProps.information.label "Información:">
 <!ENTITY folderProps.name.label "Nombre:">
 <!ENTITY folderProps.name.accesskey              "N">
 <!ENTITY folderProps.location.label              "Ubicación:">
 <!ENTITY folderProps.location.accesskey          "U">
 
 <!ENTITY folderSharingTab.label "Compartir">
-<!ENTITY privilegesDesc.label "Compartir ésta y otras carpetas con usuarios de la red y mostrar y configurar los privilegios de acceso">
 <!ENTITY privileges.button.label "Privilegios...">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label "Tiene los siguientes permisos:">

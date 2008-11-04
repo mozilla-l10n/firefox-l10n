@@ -6,13 +6,9 @@
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "Dejar las respuestas en la carpeta del mensaje al que se está respondiendo">
 <!ENTITY fccReplyFollowsParent.accesskey "c">
-<!ENTITY chooseFolderButton.label "Elegir carpeta…">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Cco a estas direcciones:">
 <!ENTITY bccAddress.accesskey "C">
-<!ENTITY specialFolderTitle.label "Carpetas especiales">
-<!ENTITY draftMailFolder.label "Guardar los borradores de mensajes en:">
-<!ENTITY templateMailFolder.label "Guardar las plantillas de mensajes en:">
 <!ENTITY saveMessageDlg.label "Mostrar diálogo de confirmación cuando se guarden los mensajes">
 <!ENTITY saveMessageDlg.accesskey "s">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): do not translate "Sent" in below line. see bug #64199 -->

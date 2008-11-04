@@ -1,15 +1,14 @@
 <!ENTITY serverAdvanced.label "Configuración avanzada de cuentas">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY imapAdvanced.label "Configuración avanzada de servidor IMAP">
 <!ENTITY serverDirectory.label "directorio del servidor IMAP:">
 <!ENTITY serverDirectory.accesskey "d">
-<!ENTITY usingSubscription.label "Mostrar sólo las carpetas suscritas">
+<!ENTITY usingSubscription.label "Mostrar sólo las carpetas suscriptas">
 <!ENTITY usingSubscription.accesskey "u">
-<!ENTITY dualUseFolders.label "El servidor admite carpetas que contengan sub-carpetas y mensajes">
+<!ENTITY dualUseFolders.label "El servidor admite carpetas que contengan subcarpetas y mensajes">
 <!ENTITY dualUseFolders.accesskey "g">
 <!ENTITY useIdle.label "Usar comando IDLE si el servidor lo admite">
 <!ENTITY useIdle.accesskey "I">
-<!ENTITY maximumConnectionsNumber.label "Número máximo de conexiones del servidor a la caché">
+<!ENTITY maximumConnectionsNumber.label "Número máximo de conexiones del servidor a caché">
 <!ENTITY maximumConnectionsNumber.accesskey "m">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
 <!ENTITY namespaceDesc.label "Estas preferencias especifican los espacios de nombres en su servidor IMAP">
@@ -22,7 +21,6 @@
 <!ENTITY overrideNamespaces.label "Permitir que el servidor reemplace estos espacios de nombres">
 <!ENTITY overrideNamespaces.accesskey "a">
 <!ENTITY pop3Desc.label "Al descargar el correo pop3 de este servidor, se puede almacenar en la bandeja de entrada global (la bandeja de entrada en Carpetas locales), en la bandeja de entrada de esta cuenta, o en la bandeja de entrada de otra cuenta pop3">
-<!ENTITY folderStorage.label "Dónde guardar el correo">
 <!ENTITY globalInbox.label "Bandeja de entrada global (Carpetas locales)">
 <!ENTITY globalInbox.accesskey "g">
 <!ENTITY accountDirectory.label "Bandeja de entrada para la cuenta de este servidor">

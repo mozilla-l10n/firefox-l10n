@@ -25,7 +25,6 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY deleteCmd.label "Eliminar">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "d">
 <!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.key "A">
@@ -35,9 +34,6 @@
 <!ENTITY preferencesCmdUnix.label "Preferences">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
-<!ENTITY findTypeTextCmd.label "Encontrar texto a medida que escribe">
-<!ENTITY findTypeTextCmd.accesskey "x">
-
 <!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenu.label "Barras de herramientas">
@@ -45,18 +41,8 @@
 <!ENTITY showTaskbarCmd.label "Barra de estado">
 <!ENTITY showTaskbarCmd.accesskey "s">
 
-<!ENTITY direct.label "En línea (proxy: ninguno)">
-<!ENTITY direct.accesskey "n">
-<!ENTITY manual.label "Conectado (proxy: manual)">
-<!ENTITY manual.accesskey "m">
-<!ENTITY pac.label "Conectado (proxy: auto)">
-<!ENTITY pac.accesskey "a">
-
 <!ENTITY proxy.label "Configuración de proxy...">
 <!ENTITY proxy.accesskey "C">
-
-<!ENTITY findTypeTextCmd.key        "/">
-<!ENTITY findTypeLinksCmd.key       "'">
 
 <!ENTITY closeCmd.label         "Cerrar">  
 <!ENTITY closeCmd.key         "W">  

@@ -1,8 +1,6 @@
 <!ENTITY itemFormatting.label             "Formato">
 <!ENTITY itemTags.label                   "Etiquetas">
-<!ENTITY itemFonts.label                  "Tipografías">
 
-<!ENTITY textBegin.label                  "Apariencia del texto plano citado">
 <!ENTITY style.label                      "Estilo:">
 <!ENTITY style.accesskey                  "E">
 <!ENTITY regularStyle.label               "Regular">
@@ -19,12 +17,10 @@
 <!ENTITY displayWidth.label               "Mensajes de texto plano">
 <!ENTITY plainText.label                      "Usar la siguiente tipografía:">
 <!ENTITY displayText.label                    "Cuando se muestren mensajes de texto plano citados:">
-<!ENTITY viewingPlainText.label               "Cuando se muestren mensajes de texto plano:">
 <!ENTITY fixedWidth.label                 "Letra de ancho fijo">
 <!ENTITY fixedWidth.accesskey             "n">
 <!ENTITY variableWidth.label              "Letra de ancho variable">
 <!ENTITY variableWidth.accesskey          "V">
-<!ENTITY readingMessagesHeader.label      "Para mensajes entrantes">
 <!ENTITY colors.label                     "Colores">
 <!ENTITY overrideColors.label             "Cuando se muestren mensajes, usar los colores siguientes:">
 <!ENTITY textColor.label                  "Color del texto:">

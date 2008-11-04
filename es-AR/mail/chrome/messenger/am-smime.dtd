@@ -1,17 +1,15 @@
 <!ENTITY securityTitle.label "Seguridad">
-<!ENTITY securityHeading.label "To send and receive signed or encrypted messages, you should specify both a digital signing certificate and an encryption certificate.">
-<!ENTITY encryptionGroupTitle.label "Encryption">
-<!ENTITY encryptionChoiceLabel.label "Default encryption setting when sending messages:">
+<!ENTITY securityHeading.label "Para enviar y recibir mensajes firmados o cifrados, debe especificar tanto un certificado de firma digital como un certificado de cifrado.">
+<!ENTITY encryptionGroupTitle.label "Cifrado">
+<!ENTITY encryptionChoiceLabel.label "Cifrado predeterminado al enviar mensajes:">
 <!ENTITY neverEncrypt.label "Nunca (no usar cifrado)">
-<!ENTITY alwaysEncryptMessage.label "Required (can't send message unless all recipients have certificates)">
-<!ENTITY encryptionCert.message "Use this certificate to encrypt &amp; decrypt messages sent to you:">
-<!ENTITY encryptionCert.notselected "No certificate set">
-<!ENTITY certificate.button "Seleccionar...">
+<!ENTITY alwaysEncryptMessage.label "Requerido (no se puede enviar el mensaje a menos que todos los destinatarios tengan certificados)">
+<!ENTITY encryptionCert.message "Usear este certificado para cifrar y descifrar los mensajes que le sean enviados:">
+<!ENTITY certificate.button "Seleccionar…">
 <!ENTITY certificate_clear.button "Limpiar">
 <!ENTITY signingGroupTitle.label "Firma digital">
 <!ENTITY signMessage.label "Firmar los mensajes digitalmente (por defecto)">
-<!ENTITY signingCert.message "Use this certificate to digitally sign messages you send:">
-<!ENTITY signingCert.notselected "No certificate set">
+<!ENTITY signingCert.message "Usear este certificado para firmar digitalmente los mensajes que envíe:">
 
 <!ENTITY certificates.label     "Certificados">
 <!ENTITY managecerts.label      "Ver certificados">

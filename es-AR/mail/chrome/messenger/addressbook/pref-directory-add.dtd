@@ -48,12 +48,9 @@ The Initial Developer of the Original Code is
 <!ENTITY directorySecure.accesskey "U">
 <!ENTITY directoryLogin.label "DN para inicio de sesión:">
 <!ENTITY directoryLogin.accesskey "i">
-<!ENTITY advancedOptionsButton.label "Opciones avanzadas">
-<!ENTITY advancedOptionsButton.accesskey "a">
 <!ENTITY General.tab "General">
 <!ENTITY Offline.tab "Desconectado">
 <!ENTITY Advanced.tab "Avanzadas">
-<!ENTITY advancedOptionsTitle.label "Opciones avanzadas">
 <!ENTITY portNumber.label "Número de puerto:">
 <!ENTITY portNumber.accesskey "p">
 <!ENTITY searchFilter.label "Filtro de búsqueda:">

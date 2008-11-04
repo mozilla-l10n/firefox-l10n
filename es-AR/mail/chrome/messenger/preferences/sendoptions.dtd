@@ -9,7 +9,6 @@
 <!ENTITY sendHTML.accesskey           "s">
 <!ENTITY sendBoth.label               "Enviar el mensaje en los dos formatos (texto plano y HTML)">
 <!ENTITY sendBoth.accesskey           "e">
-<!ENTITY receiveHTML.label            "Si sabe que un destinatario puede recibir mensajes en HTML, deseleccione la casilla 'Enviar mensajes como texto plano (no HTML) en la tarjeta de la libreta de direcciones del destinatario.">
 <!ENTITY override.label               "Nota: Use la libreta de direcciones para especificar los formatos preferidos de sus contactos.">
 
 <!ENTITY domaindesc.label             "Cuando envie un correo a una dirección con uno de los dominios listados debajo, &brandShortName; enviará el mensaje automáticamente en el formato correcto.">
@@ -28,14 +27,6 @@
 
 <!ENTITY add.htmltitle                "Agregar el nombre del dominio HTML">
 <!ENTITY add.htmldomain               "Nombre de dominio HTML:">
-<!ENTITY add.htmldomain.accesskey     "d">
 <!ENTITY add.plaintexttitle           "Agregar el nombre de dominio de texto plano">
 <!ENTITY add.plaintextdomain          "Nombre de dominio de texto plano:">
-<!ENTITY add.plaintext.accesskey      "d">
 
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY domainnameError.title        "Error en el nombre de dominio">
-<!ENTITY duplicationError.label       "El nombre de dominio @string@ ya existe en esta lista.">
-
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY dualEntryError.label         "Un nombre de dominio no puede aparece en ambas listas. El nombre de dominio @string@ ya existe.">

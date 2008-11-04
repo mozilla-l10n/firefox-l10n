@@ -1,8 +1,6 @@
 <!ENTITY credit.title     "&brandFullName; Credits">
 <!ENTITY brandMotto       "Thunderbirds Are Go!">
 <!ENTITY credit.leads     "Líderes de ingeniería">
-<!ENTITY credit.core      "Grupo de desarrollo principal">
-<!ENTITY credit.gecko     "Gecko Layout Engine">
 <!ENTITY credit.thanks    "Gracias especiales a">
 
 <!-- localization credits look like this: -->
@@ -12,19 +10,8 @@
 -->
 <!ENTITY credit.translation "<h3>Traductores</h3><ul><li>Marcelo Poli</li><li>Ariel Burone</li><li>Sergio Celani</li><li>Guillermo Movia</li><li>Pamela Gulijczuk</li><li>Mariano Cuenze</li><li>José María Torres</li><li>Nahuel Rebollo</li><li>Sergio Miranda</li></ul>">
 
-<!ENTITY credit.visuals     "Coordinador de diseño visual">
 <!ENTITY credit.theme       "Diseño de temas">
-<!ENTITY credit.brand       "Identidad de marca">
-<!ENTITY credit.web         "Diseño web">
-<!ENTITY credit.update      "Actualización de Mozilla">
-<!ENTITY credit.qalead      "Líder de control de calidad">
 <!ENTITY credit.qa          "Control de calidad">
 <!ENTITY credit.build       "Build and Release">
-<!ENTITY credit.infra       "Soporte de infraestructura">
-<!ENTITY credit.support     "Recursos de soporte">
-<!ENTITY credit.manage      "Administración de proyecto">
-<!ENTITY credit.marketleads "Líderes de marketing">
-<!ENTITY credit.market      "Marketing">
-<!ENTITY credit.creators    "Creado por">
 <!ENTITY credit.memory      "En memoria de">
 <!ENTITY credit.poweredByGecko "Powered by Gecko&trade;">

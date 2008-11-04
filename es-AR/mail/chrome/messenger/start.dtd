@@ -1,5 +1,5 @@
-<!ENTITY startpage.welcome "Bienvenido a &brandFullName;!">
-<!ENTITY startpage.intro "&brandFullName; es un poderoso cliente de correo y noticias de código abierto..">
+<!ENTITY startpage.welcome "¡Bienvenido a &brandFullName;!">
+<!ENTITY startpage.intro "&brandFullName; es un poderoso cliente de correo y noticias de código abierto.">
 
 <!ENTITY startpage.features "Características">
 
@@ -29,4 +29,3 @@
 
 <!ENTITY startpage.extra "">
 
-<!ENTITY startpage.poweredByGecko "Powered by Gecko.">
