@@ -31,7 +31,7 @@
 
 <!ENTITY  warnings.label                "Μηνύματα προειδοποίησης">
 
-<!ENTITY  chooseWarnings.label          "Επιλέξτε για ποιες προειδοποιήσεις θέλετε να εμφανίζονται">
+<!ENTITY  chooseWarnings.label          "Επιλέξτε ποιες προειδοποιήσεις θέλετε να εμφανίζονται">
 
 <!ENTITY  warningSettings.label         "Ρυθμίσεις...">
 <!ENTITY  warningSettings.accesskey     "θ">

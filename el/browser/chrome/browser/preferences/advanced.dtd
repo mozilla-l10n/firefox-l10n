@@ -80,8 +80,8 @@
 <!ENTITY enableAppUpdate.label          "Τον &brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "F">
 
-<!ENTITY autoCheck.label                "Αυτόματος έλεγχος για ενημερώσεις για:">
-<!ENTITY whenUpdatesFound.label         "Όταν βρίσκονται ενημερώσεις για το &brandShortName;">
+<!ENTITY autoCheck.label                "Αυτόματος έλεγχος ενημερώσεων για:">
+<!ENTITY whenUpdatesFound.label         "Όταν βρίσκονται ενημερώσεις για τον &brandShortName;">
 <!ENTITY modeAutomatic.label            "Να γίνεται αυτόματη λήψη και εγκατάσταση της ενημέρωσης">
 <!ENTITY modeAutomatic.accesskey        "λ">
 <!ENTITY enableSearchUpdate.label       "Μηχανές αναζήτησης">
