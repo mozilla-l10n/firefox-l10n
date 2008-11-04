@@ -55,7 +55,7 @@
 <!ENTITY piperror.title "Villa">
 <!ENTITY pipalert.title "Villa - get ekki endurheimt">
 <!-- Prefs panel strings -->
-<!ENTITY pref.security.general.lHeader "Öryggi">
+<!ENTITY pref.security.general.lHeader "öryggis">
 <!ENTITY pref.security.general.rHeader "Stillingar fyrir almennt öryggi">
 <!ENTITY pref.security.general.header "Stillingar fyrir almennt öryggi">
 <!ENTITY pref.security.general.level.title "Öryggisstig">

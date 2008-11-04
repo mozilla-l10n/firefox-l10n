@@ -89,7 +89,7 @@
 <!ENTITY pref.calendar.advanced.encryption.certs.ask "Spyrja í hvert skipti">
 <!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "i">
 <!ENTITY pref.calendar.advanced.encryption.viewCerts.label "Skoða skilríki">
-<!ENTITY pref.calendar.advanced.encryption.viewCerts.accesskey "s">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.accesskey "k">
 <!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "Afturköllunarlisti">
 <!ENTITY pref.calendar.advanced.encryption.viewCRLs.accesskey "R">
 <!ENTITY pref.calendar.advanced.encryption.verify2.label "Sannprófun">

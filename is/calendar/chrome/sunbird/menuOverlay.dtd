@@ -47,20 +47,20 @@
 <!ENTITY calendar.open.file.accesskey "O">
 <!ENTITY event.edit.event "Breyta atriði…">
 <!ENTITY event.edit.event.key "E">
-<!ENTITY event.edit.event.accesskey "E">
+<!ENTITY event.edit.event.accesskey "B">
 <!ENTITY event.delete.event "Eyða völdu atriði">
 <!ENTITY event.delete.event.accesskey "D">
 <!ENTITY event.delete.tasks "Eyða völdum verkum">
 <!ENTITY event.delete.tasks.accesskey "E">
 <!ENTITY calendar.pagesetup.label "Uppsetning síðu…">
-<!ENTITY calendar.pagesetup.accesskey "u">
+<!ENTITY calendar.pagesetup.accesskey "U">
 <!ENTITY calendar.subscribe.label "Gerast áskrifandi að fjartengdu dagatali…">
 <!ENTITY calendar.subscribe.accesskey "R">
 <!ENTITY calendar.reloadserver.label "Endurnýja fjartengd dagatöl">
-<!ENTITY calendar.reloadserver.key "R">
+<!ENTITY calendar.reloadserver.key "r">
 <!ENTITY calendar.reloadserver.accesskey "R">
 <!ENTITY calendar.publish.calendar.label "Gefa út dagatal…">
-<!ENTITY calendar.publish.calendar.accesskey "G">
+<!ENTITY calendar.publish.calendar.accesskey "e">
 <!ENTITY calendar.publish.selection.label "Gefa út valin atriði…">
 <!ENTITY calendar.publish.selection.accesskey "G">
 <!ENTITY calendar.quit.label "Hætta">
@@ -71,10 +71,10 @@
 <!ENTITY calendar.exit.accesskey "H">
 <!ENTITY calendar.undo.label "Afturkalla">
 <!ENTITY calendar.undo.key "Z">
-<!ENTITY calendar.undo.accesskey "u">
+<!ENTITY calendar.undo.accesskey "f">
 <!ENTITY calendar.redo.label "Endurtaka">
 <!ENTITY calendar.redo.key "Y">
-<!ENTITY calendar.redo.accesskey "r">
+<!ENTITY calendar.redo.accesskey "n">
 <!ENTITY calendar.cut.label "Klippa">
 <!ENTITY calendar.cut.key "X">
 <!ENTITY calendar.cut.accesskey "K">
@@ -86,7 +86,7 @@
 <!ENTITY calendar.paste.accesskey "L">
 <!ENTITY calendar.selectall.label "Velja allt">
 <!ENTITY calendar.selectall.key "A">
-<!ENTITY calendar.selectall.accesskey "A">
+<!ENTITY calendar.selectall.accesskey "j">
 <!ENTITY toolbarsMenu.label "Verkfærarein">
 <!ENTITY toolbarsMenu.accesskey "V">
 <!ENTITY showStatusBarCmd.label "Stöðurein">
@@ -96,15 +96,15 @@
 <!ENTITY calendar.fullscreen.label "Skjáhamur">
 <!ENTITY calendar.fullscreen.accesskey "S">
 <!ENTITY calendar.addons.label "Viðbætur">
-<!ENTITY calendar.addons.accesskey "V">
+<!ENTITY calendar.addons.accesskey "i">
 <!ENTITY goMenu.label "Áfram">
 <!ENTITY goMenu.accesskey "f">
 <!ENTITY goDateCmd.label "Dagsetning…">
-<!ENTITY goDateCmd.accesskey "D">
+<!ENTITY goDateCmd.accesskey "a">
 <!ENTITY toolsMenu.label "Verkfæri">
 <!ENTITY toolsMenu.accesskey "V">
 <!ENTITY errorConsoleCmd.label "Villugluggi">
-<!ENTITY errorConsoleCmd.accesskey "V">
+<!ENTITY errorConsoleCmd.accesskey "g">
 <!ENTITY helpMenu.label "Hjálp">
 <!ENTITY helpMenu.accesskey "H">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"

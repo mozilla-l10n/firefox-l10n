@@ -53,7 +53,7 @@
 <!ENTITY sunbird.flat.topbar.monthview "Mánuður">
 <!ENTITY sunbird.flat.topbar.multiweekview "Margra viku sýn">
 <!ENTITY sunbird.dayview.accesskey "D">
-<!ENTITY sunbird.weekview.accesskey "W">
+<!ENTITY sunbird.weekview.accesskey "V">
 <!ENTITY sunbird.monthview.accesskey "M">
 <!ENTITY sunbird.multiweekview.accesskey "u">
 <!ENTITY sunbird.calendartab.label "Dagsetning">
@@ -68,9 +68,9 @@
 <!ENTITY sunbird.menu.numberofweeks.5 "5 Vikur">
 <!ENTITY sunbird.menu.numberofweeks.6 "6 Vikur">
 <!-- customizable toolbars -->
-<!ENTITY sunbird.context.customize.label "Sérsniða…">
+<!ENTITY sunbird.context.customize.label "Sérsníða…">
 <!ENTITY sunbird.context.customize.accesskey "S">
-<!ENTITY sunbird.menu.customize.label "Sérsniða verkfærarein…">
+<!ENTITY sunbird.menu.customize.label "Sérsníða verkfærarein…">
 <!ENTITY sunbird.menu.customize.accesskey "S">
 <!ENTITY sunbird.maintoolbar.name "Aðal verkfærarein">
 <!ENTITY sunbird.maintoolbar.accesskey "M">

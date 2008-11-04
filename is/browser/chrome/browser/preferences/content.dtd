@@ -2,7 +2,7 @@
 <!ENTITY blockPopups.accesskey "L">
 <!ENTITY popupExceptions.label "Undanþágur…">
 <!ENTITY popupExceptions.accesskey "U">
-<!ENTITY loadImages.label "Hlaða myndum inn sjálfkrafa">
+<!ENTITY loadImages.label "Hlaða sjálfkrafa inn myndum">
 <!ENTITY loadImages.accesskey "I">
 <!ENTITY exceptions.label "Undanþágur…">
 <!ENTITY exceptions.accesskey "n">

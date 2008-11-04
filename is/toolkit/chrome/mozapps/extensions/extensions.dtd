@@ -103,6 +103,7 @@
 <!ENTITY insecureUpdate.label "Býður ekki upp á öruggar uppfærslur.">
 <!ENTITY needsDependencies.label "Þarfnast fleiri hluta.">
 <!ENTITY blocklisted.label "Gert óvirkt þér til verndunar.">
+<!ENTITY softBlocklisted.label "Er þekkt fyrir að valda öryggisvandræðum eða hruni.">
 <!ENTITY toBeDisabled.label "Þessi viðbót verður gerð óvirk þegar &brandShortName; er endurræstur.">
 <!ENTITY toBeEnabled.label "Þessi viðbót verður gerð virk þegar &brandShortName; er endurræstur.">
 <!ENTITY toBeInstalled.label "Þessi viðbót verður sett upp þegar &brandShortName; er endurræstur.">
@@ -153,3 +154,5 @@
 <!ENTITY eula.width "560px">
 <!ENTITY eula.height "400px">
 <!ENTITY eula.accept "Samþykkja og setja upp…">
+<!ENTITY blocklist.blocked.label "Lokað">
+<!ENTITY blocklist.checkbox.label "Gera óvirkt">

@@ -7,6 +7,9 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Einkavöfrun)">
 <!ENTITY tabCmd.label "Nýr flipi">
 <!ENTITY tabCmd.accesskey "f">
 <!ENTITY tabCmd.commandkey "t">
@@ -171,6 +174,8 @@
 
 <!ENTITY clearPrivateDataCmd.label "Hreinsa persónuleg gögn">
 <!ENTITY clearPrivateDataCmd.accesskey "e">
+<!ENTITY privateBrowsingCmd.label "Einkavöfrun">
+<!ENTITY privateBrowsingCmd.accesskey "E">
 <!ENTITY viewMenu.label "Skoða">
  
 <!ENTITY viewMenu.accesskey "k">

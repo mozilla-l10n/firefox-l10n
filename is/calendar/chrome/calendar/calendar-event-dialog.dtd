@@ -80,7 +80,7 @@
 <!ENTITY event.menu.file.exit.label "Hætta">
 <!ENTITY event.menu.file.exit.accesskey "H">
 <!ENTITY event.menu.edit.label "Breyta">
-<!ENTITY event.menu.edit.accesskey "E">
+<!ENTITY event.menu.edit.accesskey "B">
 <!ENTITY event.menu.edit.undo.label "Afturkalla">
 <!ENTITY event.menu.edit.undo.accesskey "U">
 <!ENTITY event.menu.edit.redo.label "Endurtaka">
@@ -94,12 +94,12 @@
 <!ENTITY event.menu.edit.select.all.label "Velja allt">
 <!ENTITY event.menu.edit.select.all.accesskey "A">
 <!ENTITY event.menu.view.label "Skoða">
-<!ENTITY event.menu.view.accesskey "S">
+<!ENTITY event.menu.view.accesskey "k">
 <!ENTITY event.menu.view.toolbars.label "Verkfærarein">
 <!ENTITY event.menu.view.toolbars.accesskey "V">
 <!ENTITY event.menu.view.toolbars.event.label "Atburða verkfærarein">
 <!ENTITY event.menu.view.toolbars.event.accesskey "E">
-<!ENTITY event.menu.view.toolbars.customize.label "Sérsniða…">
+<!ENTITY event.menu.view.toolbars.customize.label "Sérsníða…">
 <!ENTITY event.menu.view.toolbars.customize.accesskey "S">
 <!ENTITY event.menu.view.showlink.label "Sýna tengda hlekki">
 <!ENTITY event.menu.view.showlink.accesskey "S">
@@ -143,12 +143,12 @@
 <!ENTITY event.menu.options.show.time.free.accesskey "L">
 <!ENTITY event.help.label "Hjálp">
 <!ENTITY event.help.accesskey "H">
-<!ENTITY event.help.release.notes.label "útgáfuupplýsingar">
-<!ENTITY event.help.release.notes.accesskey "R">
+<!ENTITY event.help.release.notes.label "Útgáfuupplýsingar">
+<!ENTITY event.help.release.notes.accesskey "u">
 <!ENTITY event.help.help.label "&brandShortName; hjálp">
 <!ENTITY event.help.help.accesskey "H">
 <!ENTITY event.help.about.label "Um &brandShortName;">
-<!ENTITY event.help.about.accesskey "A">
+<!ENTITY event.help.about.accesskey "U">
 <!ENTITY event.invite.attendees.label "Bjóða þátttakendum…">
 <!ENTITY event.invite.attendees.accesskey "B">
 <!ENTITY event.email.attendees.label "Sníða póst til allra þátttakenda…">
