@@ -168,3 +168,8 @@
 <!ENTITY eula.width "560px">
 <!ENTITY eula.height "400px">
 <!ENTITY eula.accept "Pieņemt un instalēt...">
+
+<!ENTITY blocklist.blocked.label          "Bloķēts">
+<!ENTITY blocklist.checkbox.label         "Deaktivizēt">
+
+<!ENTITY softBlocklisted.label            "Rada drovības risku un darbības traucējumus.">

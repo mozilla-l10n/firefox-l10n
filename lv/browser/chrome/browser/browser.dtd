@@ -419,3 +419,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY sendVideoCmd.accesskey       "n">
 <!ENTITY sendAudioCmd.label           "Nosūtīt audio…">
 <!ENTITY sendAudioCmd.accesskey       "n">
+
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Privātā pārlūkosana)">
+<!ENTITY privateBrowsingCmd.label            "Privātā pārlūkošana">
+<!ENTITY privateBrowsingCmd.accesskey        "P">
