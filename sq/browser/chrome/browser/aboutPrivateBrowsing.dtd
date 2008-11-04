@@ -1,0 +1,13 @@
+<!ENTITY privatebrowsingpage.tabtitle                  "Shfletim Vetjak">
+
+<!ENTITY privatebrowsingpage.pagetitle                 "Shfletim Vetjak">
+
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName;-i nuk do të mbajë mend ndonjë historik rreth këtij sesioni.">
+<!ENTITY privatebrowsingpage.longDesc                  "Nuk do të regjistrohet ndonjë historik nga &brandShortName;-i gjatë këtij sesioni shfletimi.  Kjo përfshin historik shfletimi, historik kërkimesh, historik shkarkimesh, historik formularësh web, &quot;cookies&quot;, dhe kartela të përkohshme interneti.  Sidoqoftë, cilado kartelë që shkarkoni apo faqeruani do të ruhet.">
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Mundet edhe të doni të filloni duke pastruar historikun tuaj së fundmi.">
+<!ENTITY privatebrowsingpage.recentHistory.label       "Pastro Historikun Së Fundmi">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey   "P">
+
+<!ENTITY privatebrowsingpage.howToStopDesc             "Për ndaljen e shfletimit vetjak, hiqeni shenjën prej Mjete &gt; Shfletim Vetjak.">
+<!ENTITY privatebrowsingpage.footerDesc                "Shijojeni!">
