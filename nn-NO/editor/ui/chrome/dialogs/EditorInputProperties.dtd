@@ -52,11 +52,13 @@
 
 <!ENTITY InputSettings.label "Feltinnstillingar">
 <!ENTITY InputName.label "Feltnamn:">
+<!ENTITY InputName.accesskey "N">
 <!ENTITY GroupName.label "Gruppenamn:">
-<!ENTITY Name.accesskey "N">
+<!ENTITY GroupName.accesskey "N">
 <!ENTITY InputValue.label "Feltverdi:">
+<!ENTITY InputValue.accesskey "V">
 <!ENTITY InitialValue.label "Opphavleg verdi:">
-<!ENTITY Value.accesskey "V">
+<!ENTITY InitialValue.accesskey "V">
 <!ENTITY InputChecked.label "Opphavleg avkryssa">
 <!ENTITY InputChecked.accesskey "O">
 <!ENTITY InputSelected.label "Opphavleg valt">

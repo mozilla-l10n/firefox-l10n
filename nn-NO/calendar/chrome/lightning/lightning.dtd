@@ -77,16 +77,6 @@
 <!ENTITY lightning.toolbar.task.label         "Oppgåver">
 <!ENTITY lightning.toolbar.task.accesskey     "O">
 
-<!-- Customize Toolbar Dialog -->
-<!ENTITY customize.toolbar.selector.label    "Verktøylinje:">
-<!ENTITY customize.toolbar.selector.mode     "Modusverktøylinje">
-<!ENTITY customize.toolbar.selector.mail     "E-postverktøylinje">
-<!ENTITY customize.toolbar.selector.calendar "Kalenderverktøylinje">
-<!ENTITY customize.toolbar.selector.task     "Oppgåve-verktøylinje">
-<!ENTITY customize.toolbar.location.label    "Plassering:">
-<!ENTITY customize.toolbar.location.top      "Topp">
-<!ENTITY customize.toolbar.location.bottom   "Botn">
-
 <!-- Messenger Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Dag">
 <!ENTITY lightning.toolbar.day.accesskey             "D">
@@ -121,3 +111,4 @@
 <!ENTITY todaypane.showNone.accesskey "n">
 <!ENTITY todaypane.showTodayPane.label "Vis i dag-vindauget">
 <!ENTITY todaypane.showTodayPane.accesskey "v">
+<!ENTITY todaypane.statusButton.label "I dag-vindauget">

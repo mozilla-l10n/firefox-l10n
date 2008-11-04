@@ -43,14 +43,8 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- General -->
-<!ENTITY calendar.file.default.name  "Min kalender" >
 <!ENTITY calendar.calendar.label     "Kalender">
 <!ENTITY calendar.calendar.accesskey "K">
-
-
-<!ENTITY calendar.confirm.deleteallevents  "Er du sikker på at du vil slette alle dei valde hendingane?" >
-<!ENTITY calendar.confirm.deleteevent "Er du sikker på at du vil slette hendinga med tittelen: " >
-<!ENTITY calendar.confirm.deleteuntitledevent "Er du sikker på at du vil slette denne hendinga utan tittel?" >
 
 <!ENTITY calendar.flat.topbar.choosedate       "Gå til dato" >
 <!ENTITY calendar.flat.topbar.dayview          "Dag" >

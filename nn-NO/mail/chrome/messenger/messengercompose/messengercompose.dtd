@@ -70,6 +70,7 @@
 <!ENTITY pasteCmd.label "Lim inn">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "L">
+<!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY editRewrapCmd.label "Bryt om att">
 <!ENTITY editRewrapCmd.key "T">
 <!ENTITY editRewrapCmd.accesskey "B">

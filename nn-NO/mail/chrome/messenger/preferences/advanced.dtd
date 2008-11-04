@@ -1,4 +1,5 @@
 <!ENTITY itemGeneral.label       "Generelt">
+<!ENTITY itemDisplay.label       "Les &amp; Vis">
 <!ENTITY itemUpdate.label        "Oppdatering">
 <!ENTITY itemNetworking.label    "Nettverk og diskplass">
 <!ENTITY itemCertificates.label  "Sertifikat">
@@ -20,8 +21,6 @@
 <!ENTITY secondsLabel.label            "sekund">
 <!ENTITY showFolderColumns.label       "Vis utvida kolonner i mappesyninga">
 <!ENTITY showFolderColumns.accesskey   "k">
-<!ENTITY rememberLastMsg.label         "Hugs den sist valte meldinga">
-<!ENTITY rememberLastMsg.accesskey     "H">
 <!ENTITY openMsgIn.label               "Opne nye meldingar i:">
 <!ENTITY reuseExpRadio0.label          "Eit nytt vindauge">
 <!ENTITY reuseExpRadio0.accesskey      "i">
@@ -29,15 +28,16 @@
 <!ENTITY reuseExpRadio1.accesskey      "E">
 <!ENTITY reuseExpRadio2.label          "Ei ny meldingsfane">
 <!ENTITY reuseExpRadio2.accesskey      "n">
-<!ENTITY connectionTimeout.label       "Tidsavbrot for tilkoplingar: ">
-<!ENTITY connectionTimeout.accesskey   "T">
-<!ENTITY connectionSeconds.label       "sekund">
 <!ENTITY configEditDesc.label          "Avanserte innstillingar">
 <!ENTITY configEdit.label              "Endre innstillingar …">
 <!ENTITY configEdit.accesskey          "g">
 <!ENTITY returnReceiptsInfo.label      "Avgjer korleis &brandShortName; skal handsame returnerte kvitteringar">
 <!ENTITY showReturnReceipts.label      "Send tilbake kvitteringar …">
 <!ENTITY showReturnReceipts.accesskey  "R">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption                "Les">
+<!ENTITY display.caption                "Vis">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Sjå etter oppdateringar automatisk for:">
@@ -57,9 +57,9 @@
 <!ENTITY showUpdates.accesskey          "o">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showConnections.label         "Tilkopling">
-<!ENTITY showConnections.accesskey     "n">
-<!ENTITY proxiesInfo.label             "Avgjer korleis &brandShortName; skal kople seg til Internett.">
+<!ENTITY showSettings.label            "Settings…">
+<!ENTITY showSettings.accesskey        "n">
+<!ENTITY proxiesConfigure.label        "Configure how &brandShortName; connects to the Internet">
 <!ENTITY connectionsInfo.caption       "Tilkopling">
 <!ENTITY offlineInfo.caption           "Fråkopla">
 <!ENTITY offlineInfo.label             "Endre innstillingane for fråkopla bruk">
@@ -70,6 +70,18 @@
 <!ENTITY offlineCompact.label "Komprimer mapper når det vil spare meir enn">
 <!ENTITY offlineCompact.accesskey "v">
 <!ENTITY kb.label " KB">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Use up to">
+<!ENTITY useCacheBefore.accesskey        "U">
+<!ENTITY useCacheAfter.label             "MB of space for the cache">
+<!ENTITY clearCacheNow.label             "Clear Now">
+<!ENTITY clearCacheNow.accesskey         "C">
 
 <!-- Certificates -->
 <!ENTITY certificatesInfo2.label        "Handsam sertifikat, tilbakekallingsliste, validering av sertifikat and sikkerheitseiningar.">
