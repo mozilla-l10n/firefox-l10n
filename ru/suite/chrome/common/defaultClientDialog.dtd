@@ -3,5 +3,6 @@
 <!ENTITY browser.label "Браузера">
 <!ENTITY email.label "Почтового клиента">
 <!ENTITY newsgroups.label "Клиента групп новостей">
+<!ENTITY rss.label "Клиента RSS каналов">
 <!ENTITY checkOnStartup.label "Всегда производить эту проверку при запуске &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "В">

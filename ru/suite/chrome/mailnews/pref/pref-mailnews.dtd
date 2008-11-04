@@ -14,6 +14,8 @@
 <!ENTITY setDefaultMail.accesskey "ч">
 <!ENTITY setDefaultNews.label "Конференций">
 <!ENTITY setDefaultNews.accesskey "ф">
+<!ENTITY setDefaultFeed.label "Ленты новостей">
+<!ENTITY setDefaultFeed.accesskey "е">
 <!ENTITY messengerStartPage.caption "Начальная страница">
 <!ENTITY enableStartPage.label "Показывать стартовую страницу в области просмотра сообщения при запуске почтового клиента">
 <!ENTITY enableStartPage.accesskey "с">
