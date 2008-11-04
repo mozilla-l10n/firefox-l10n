@@ -7,7 +7,7 @@
 
 <!ENTITY  color                           "Text și fundal">
 <!ENTITY  textColor.label                 "Text:">
-<!ENTITY  textColor.accesskey             "t">
+<!ENTITY  textColor.accesskey             "T">
 <!ENTITY  backgroundColor.label           "Fundal:">
 <!ENTITY  backgroundColor.accesskey       "F">
 <!ENTITY  useSystemColors.label           "Folosește culorile sistemului">
