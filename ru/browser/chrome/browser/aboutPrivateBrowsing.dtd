@@ -1,0 +1,9 @@
+<!ENTITY privatebrowsingpage.tabtitle "Частный доступ">
+<!ENTITY privatebrowsingpage.pagetitle "Частный доступ">
+<!ENTITY privatebrowsingpage.issueDesc "&brandShortName; не будет запоминать какую-либо историю для этой сессии.">
+<!ENTITY privatebrowsingpage.longDesc "В течение этой сессии &brandShortName; не будет производить запись в журналы и не будет записывать историю. Это включает в себя журнал посещений, журнал поиска, журнал загрузок, журнал веб-форм, куки и временные файлы интернета. Однако, любые загруженные вами файлы или созданные вами закладки будут сохранены.">
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc "Возможно, вы захотите начать с очистки своей недавней истории.">
+<!ENTITY privatebrowsingpage.recentHistory.label "Очистить недавнюю историю">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey "ч">
+<!ENTITY privatebrowsingpage.howToStopDesc "Чтобы выйти из режима частного доступа, снимите флажок «Инструменты &gt; Частный доступ».">
+<!ENTITY privatebrowsingpage.footerDesc "Наслаждайтесь!">
