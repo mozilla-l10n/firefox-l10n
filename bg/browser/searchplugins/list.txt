@@ -1,6 +1,7 @@
+911bg
 amazondotcom
-answers
-creativecommons
-eBay
+diribg
 google
-yahoo
+pe-bg
+portalbgdict
+wikipedia-bg

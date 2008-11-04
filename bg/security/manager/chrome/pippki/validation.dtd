@@ -35,12 +35,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.validation.title "Validation">
-
-<!ENTITY validation.crl.caption "CRL">
-<!ENTITY validation.crl.description "Управлението на CRL работи със списъка с анулирани сертификати (CRL), съхранени в базата сертификати.">
-<!ENTITY validation.managecrls.button "Управление на CRL-и…">
-<!ENTITY validation.managecrls.accesskey "У">
 <!ENTITY validation.crlmanager.label "Управление на CRL">
 <!ENTITY validation.crlmanager.description "Следните списъци на отменени сертификати (CRL-и) се съхраняват в базата данни от сертификати:">
 <!ENTITY validation.crlname.label "Име">
@@ -71,17 +65,3 @@
 <!ENTITY crl.autoupdate.fail.cnt.label "Предходно поредно неуспешно обновяване:">
 <!ENTITY crl.autoupdate.fail.reason.label "Подробности от последното неуспешно обновяване:">
 <!ENTITY edit.button "Настройване">
-
-<!ENTITY validation.ocsp.caption "OCSP">
-<!ENTITY enableOCSP.label "Използване на OCSP за потвърждаване на валидността на сертификатите">
-<!ENTITY enableOCSP.accesskey "И">
-<!ENTITY certOCSP2.label "Проверяване на сертификат, ако задава OCSP сървър">
-<!ENTITY certOCSP2.accesskey "П">
-<!ENTITY proxyOCSP2.label "Проверяване на всички сертификати чрез следния OCSP сървър:">
-<!ENTITY proxyOCSP2.accesskey "р">
-<!ENTITY serviceURL.label "Адрес на услугата:">
-<!ENTITY serviceURL.accesskey "у">
-<!ENTITY signingCA.label "Подписващ отговора:">
-<!ENTITY signingCA.accesskey "П">
-<!ENTITY validation.requireOCSP.description "Когато връзката с OCSP сървърът не може да се осъществи, смятане на сертификата за невалиден">
-<!ENTITY validation.requireOCSP.accesskey "К">
