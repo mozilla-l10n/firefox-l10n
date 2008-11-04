@@ -4,11 +4,8 @@
 <!ENTITY addAccountButton.accesskey "A">
 <!ENTITY setDefaultButton.label "Definir como predeterminada">
 <!ENTITY setDefaultButton.accesskey "f">
-<!ENTITY duplicateButton.label "Duplicar">
 <!ENTITY removeButton.label "Eliminar cuenta">
 <!ENTITY removeButton.accesskey "r">
-<!ENTITY nameCol.label "Nombre">
-<!ENTITY duplicate.label "Duplicar">
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      setting dialog, which specifies the width and height in em units of the dialog.

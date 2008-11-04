@@ -37,14 +37,11 @@ March 31, 1998.
  
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 <!ENTITY pref.ldap.window.title "Servidores de directorio LDAP">
-<!ENTITY directory.label "Añadir un directorio">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "Servidor de directorio LDAP:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 <!ENTITY directoriesText.label "Selecionar un servidor de directorio LDAP:">
 <!ENTITY directoriesText.accesskey "S">
-<!-- LOCALIZATION NOTE (autocomplete.title) : do not translate "LDAP" in below line -->
-<!ENTITY autocomplete.title "Servidor de directorio LDAP">
 <!ENTITY addDirectory.label "Añadir">
 <!ENTITY addDirectory.accesskey "A">
 <!ENTITY editDirectory.label "Editar">

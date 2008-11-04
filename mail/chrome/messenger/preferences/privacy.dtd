@@ -44,11 +44,3 @@
 <!ENTITY antiVirus.label      "Permitir a los antivirus poner en cuarentena mensajes individualmente">
 <!ENTITY antiVirus.accesskey  "l">
 
-<!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
-<!ENTITY antiVirusCaption.label "Antivirus">
-<!ENTITY paswords.label         "Contraseñas">
-<!ENTITY emailScams.label       "Fraudes de correo">
-<!ENTITY junkMail.label         "Correo basura">
-<!ENTITY itemIntrusions.label   "Invasiones">
-<!ENTITY itemIntrusionsAndPasswords.label  "Invasiones y contraseñas">
-<!ENTITY itemJunkMail.label     "Correo basura">

@@ -21,6 +21,4 @@ Rights Reserved.
 <!ENTITY unreadColumn.label "No leídos">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY folderSizeColumn.label "Tamaño">
-<!ENTITY accounts.label "Cuentas">
-<!-- LOCALIZATION NOTE (accounts.img) : DONT_TRANSLATE -->
-<!ENTITY accounts.img "chrome://messenger/skin/local-mailhost.gif">
+

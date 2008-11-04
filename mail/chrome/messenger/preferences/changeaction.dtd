@@ -7,7 +7,7 @@
 <!ENTITY  openDefault.accesskey               "O">
 <!ENTITY  openApplication.label               "Abrirlos con esta aplicación:">
 <!ENTITY  openApplication.accesskey           "e">
-<!ENTITY  changeApp.label                     "Examinar...">
+<!ENTITY  changeApp.label                     "Examinar…">
 <!ENTITY  changeApp.accesskey                 "x">
 <!ENTITY  saveToDisk.label                    "Guardarlos en mi computadora">
 <!ENTITY  saveToDisk.accesskey                "S">
@@ -15,9 +15,8 @@
 <!ENTITY  saveToDefaultFolder.accesskey       "d">
 <!ENTITY  saveToThisFolder.label              "en esta carpeta:">
 <!ENTITY  saveToThisFolder.accesskey          "h">
-<!ENTITY  chooseFolder.label                  "Examinar...">
+<!ENTITY  chooseFolder.label                  "Examinar…">
 <!ENTITY  chooseFolder.accesskey              "n">
 <!ENTITY  saveToAskMe.label                   "preguntarme donde guardar el archivo">
 <!ENTITY  saveToAskMe.accesskey               "a">
-<!ENTITY  usePlugin.label                     "Usar este plugin:">
-<!ENTITY  usePlugin.accesskey                 "P">
+

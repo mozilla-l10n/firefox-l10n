@@ -10,7 +10,7 @@
 <!ENTITY useQuickMode.label "Mostrar de forma predeterminada el resumen de artículos en vez de cargar la página web">
 <!ENTITY useQuickMode.accesskey "B">
 
-<!ENTITY manageSubscriptions.label "Administrar suscripciones...…">
+<!ENTITY manageSubscriptions.label "Administrar suscripciones…">
 <!ENTITY manageSubscriptions.accesskey "M">
 
 <!-- entities from defaults/isp/rss.rdf -->
@@ -18,6 +18,4 @@
 <!ENTITY rss.wizardShortName        "RSS">  
 <!ENTITY rss.wizardLongName         "Noticias y Blogs RSS">
 <!ENTITY rss.wizardLongName.accesskey "R">
-<!ENTITY rss.hostName               "Noticias y Blogs">
-
 

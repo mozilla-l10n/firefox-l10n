@@ -3,9 +3,6 @@
 <!ENTITY securityMenu.label "Seguridad">
 <!ENTITY securityMenu.accesskey "e">
 
-<!ENTITY menu_securityEncryptIfPossible.label "Cifrar si es posible">
-<!ENTITY menu_securityEncryptIfPossible.accesskey "p">
-
 <!ENTITY menu_securityEncryptRequire.label "Cifrar este mensaje">
 <!ENTITY menu_securityEncryptRequire.accesskey "E">
 

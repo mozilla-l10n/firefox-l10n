@@ -46,7 +46,6 @@ The Initial Developer of the Original Code is
 <!ENTITY ListDescription.label "Descripción:">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label "Escriba direcciones de correo para añadirlas a la lista:">
-<!ENTITY RemoveButton.label "Eliminar">
 <!ENTITY UpButton.label "Subir">
 <!ENTITY DownButton.label "Bajar">
 

@@ -3,7 +3,6 @@
 <!ENTITY accountTitle.label "Configuración de la cuenta">
 <!ENTITY accountName.label "Nombre de la cuenta:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY accountNameDesc.label "El nombre de la cuenta se usa para identificar cada cuenta.">
 <!ENTITY identityTitle.label "Identidad">
 <!ENTITY identityDesc.label "Cada cuenta tiene una identidad, que es la información que otras personas verán al leer sus mensajes.">
 <!ENTITY name.label "Su nombre:">
