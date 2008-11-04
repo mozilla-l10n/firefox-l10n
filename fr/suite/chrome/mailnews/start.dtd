@@ -43,6 +43,7 @@
 <!ENTITY features.title "Fonctions">
 <!ENTITY feat_multiacc.label "Support de comptes multiples">
 <!ENTITY feat_junk.label "Détection des messages indésirables">
+<!ENTITY feat_rss.label "Lecteur de flux RSS">
 <!ENTITY feat_filters.label "Filtres des messages">
 <!ENTITY feat_htmlmsg.label "Gestion des messages au format HTML">
 <!ENTITY feat_abook.label "Carnet d'adresses">
