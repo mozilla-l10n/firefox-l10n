@@ -1,0 +1,9 @@
+<!ENTITY privatebrowsingpage.tabtitle "Navigazione anonima">
+<!ENTITY privatebrowsingpage.pagetitle "Navigazione anonima">
+<!ENTITY privatebrowsingpage.issueDesc "&brandShortName; non conserverà alcuna cronologia per questa sessione.">
+<!ENTITY privatebrowsingpage.longDesc "Per questa sessione di navigazione in &brandShortName; non verrà conservata alcuna cronologia. Questo include informazioni relative a navigazione, ricerche, download, compilazione di moduli, cookie e file temporanei. Tuttavia eventuali file scaricati o segnalibri creati verranno mantenuti.">
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc "Probabilmente si desidera svuotare anche la cronologia recente.">
+<!ENTITY privatebrowsingpage.recentHistory.label "Svuota cronologia recente">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey "v">
+<!ENTITY privatebrowsingpage.howToStopDesc "Per abbandonare la Navigazione anonima, togliere la spunta alla voce Strumenti &gt; Navigazione anonima.">
+<!ENTITY privatebrowsingpage.footerDesc "Buon divertimento">
