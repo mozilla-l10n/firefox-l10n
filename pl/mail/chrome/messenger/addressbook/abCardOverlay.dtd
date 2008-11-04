@@ -39,113 +39,113 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY Contact.tab 				"Kontakt">
-<!ENTITY Contact.accesskey 			"t">
-<!ENTITY Name.box 				"Nazwa">
-<!-- LOCALIZATION NOTE:
- NameField1, NameField2, PhoneticField1, PhoneticField2
+<!ENTITY Contact.tab       "Kontakt">
+<!ENTITY Contact.accesskey "t">
+<!ENTITY Name.box          "Nazwa">
+
+<!-- LOCALIZATION NOTE: NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
  "FirstName" and "LastName" can be swapped for id to change the order
  but they should not be translated (same applied to phonetic id).
- Make sure the translation of label corresponds to the order of id.
--->
+ Make sure the translation of label corresponds to the order of id. -->
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
-<!ENTITY NameField1.id 				"FirstName">
+<!ENTITY NameField1.id "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
-<!ENTITY NameField2.id 				"LastName">
+<!ENTITY NameField2.id "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField1.id 			"PhoneticFirstName">
+<!ENTITY PhoneticField1.id "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField2.id 			"PhoneticLastName">
-<!ENTITY NameField1.label 			"Imię:">
-<!ENTITY NameField1.accesskey 			"I">
-<!ENTITY NameField2.label 			"Nazwisko:">
-<!ENTITY NameField2.accesskey 			"N">
-<!ENTITY PhoneticField1.label 			"Wymowa:">
-<!ENTITY PhoneticField2.label 			"Wymowa:">
-<!ENTITY DisplayName.label 			"Pokazuj jako:">
-<!ENTITY DisplayName.accesskey 			"P">
-<!ENTITY NickName.label 			"Pseudonim:">
-<!ENTITY NickName.accesskey 			"e">
-<!ENTITY Internet.box 				"Internet">
-<!ENTITY PrimaryEmail.label 			"E-mail:">
-<!ENTITY PrimaryEmail.accesskey 		"E">
-<!ENTITY SecondEmail.label 			"Dodatkowy e-mail:">
-<!ENTITY SecondEmail.accesskey 			"o">
-<!ENTITY PreferMailFormat.label 		"Preferowany format otrzymywanych wiadomości:">
-<!ENTITY PreferMailFormat.accesskey 		"r">
-<!ENTITY PlainText.label 			"Tekstowy">
-<!ENTITY HTML.label 				"HTML">
-<!ENTITY Unknown.label 				"Nieznany">
-<!ENTITY ScreenName.label 			"Komunikator:">
-<!ENTITY ScreenName.accesskey 			"K">
+<!ENTITY PhoneticField2.id "PhoneticLastName">
 
-<!ENTITY allowRemoteContent.label 		"Zezwól na zdalne obrazki w wiadomościach HTML">
-<!ENTITY allowRemoteContent.accesskey 		"Z">
+<!ENTITY NameField1.label               "Imię:">
+<!ENTITY NameField1.accesskey           "I">
+<!ENTITY NameField2.label               "Nazwisko:">
+<!ENTITY NameField2.accesskey           "N">
+<!ENTITY PhoneticField1.label           "Wymowa:">
+<!ENTITY PhoneticField2.label           "Wymowa:">
+<!ENTITY DisplayName.label              "Pokazuj jako:">
+<!ENTITY DisplayName.accesskey          "P">
+<!ENTITY NickName.label                 "Pseudonim:">
+<!ENTITY NickName.accesskey             "e">
+<!ENTITY Internet.box                   "Internet">
+<!ENTITY PrimaryEmail.label             "E-mail:">
+<!ENTITY PrimaryEmail.accesskey         "E">
+<!ENTITY SecondEmail.label              "Dodatkowy e-mail:">
+<!ENTITY SecondEmail.accesskey          "o">
+<!ENTITY PreferMailFormat.label         "Preferowany format otrzymywanych wiadomości:">
+<!ENTITY PreferMailFormat.accesskey     "r">
+<!ENTITY PlainText.label                "Tekstowy">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "Nieznany">
+<!ENTITY ScreenName.label               "Komunikator AIM:">
+<!ENTITY ScreenName.accesskey           "K">
 
-<!ENTITY Phones.box 				"Telefony">
-<!ENTITY WorkPhone.label 			"Praca:">
-<!ENTITY WorkPhone.accesskey 			"a">
-<!ENTITY HomePhone.label 			"Dom:">
-<!ENTITY HomePhone.accesskey 			"m">
-<!ENTITY FaxNumber.label 			"Faks:">
-<!ENTITY FaxNumber.accesskey 			"F">
-<!ENTITY PagerNumber.label 			"Pager:">
-<!ENTITY PagerNumber.accesskey 			"g">
-<!ENTITY CellularNumber.label 			"Telefon komórkowy:">
-<!ENTITY CellularNumber.accesskey 		"T">
-<!ENTITY Address.tab 				"Adres">
-<!ENTITY Address.accesskey 			"s">
-<!ENTITY Home.box 				"Domowy">
-<!ENTITY HomeAddress.label 			"Adres:">
-<!ENTITY HomeAddress.accesskey 			"A">
-<!ENTITY HomeAddress2.label 			"">
-<!ENTITY HomeAddress2.accesskey 		"">
-<!ENTITY HomeCity.label 			"Miasto:">
-<!ENTITY HomeCity.accesskey 			"M">
-<!ENTITY HomeState.label 			"Województwo:">
-<!ENTITY HomeState.accesskey 			"W">
-<!ENTITY HomeZipCode.label 			"Kod pocztowy:">
-<!ENTITY HomeZipCode.accesskey 			"K">
-<!ENTITY HomeCountry.label 			"Państwo:">
-<!ENTITY HomeCountry.accesskey 			"P">
-<!ENTITY HomeWebPage.label 			"Strona WWW:">
-<!ENTITY HomeWebPage.accesskey 			"W">
-<!ENTITY Work.box 				"Służbowy">
-<!ENTITY JobTitle.label 			"Stanowisko:">
-<!ENTITY JobTitle.accesskey 			""><!-- FIXME -->
-<!ENTITY Department.label 			"Dział:">
-<!ENTITY Department.accesskey 			"z">
-<!ENTITY Company.label 				"Firma/Organizacja:">
-<!ENTITY Company.accesskey 			"F">
-<!ENTITY WorkAddress.label 			"Adres:">
-<!ENTITY WorkAddress.accesskey 			"r">
-<!ENTITY WorkAddress2.label 			"">
-<!ENTITY WorkAddress2.accesskey 		"">
-<!ENTITY WorkCity.label 			"Miasto:">
-<!ENTITY WorkCity.accesskey 			"i">
-<!ENTITY WorkState.label 			"Województwo:">
-<!ENTITY WorkState.accesskey 			"j">
-<!ENTITY WorkZipCode.label 			"Kod pocztowy:">
-<!ENTITY WorkZipCode.accesskey 			"c">
-<!ENTITY WorkCountry.label 			"Państwo:">
-<!ENTITY WorkCountry.accesskey 			"o">
-<!ENTITY WorkWebPage.label 			"Strona WWW:">
-<!ENTITY WorkWebPage.accesskey 			"n">
-<!ENTITY Other.tab 				"Inne">
-<!ENTITY Other.accesskey 			"e">
-<!ENTITY Birthday.label        "Urodziny:">
-<!ENTITY Birthday.accesskey    "U">
-<!ENTITY Year.emptytext        "Rok">
-<!ENTITY Or.value              "lub">
-<!ENTITY Age.emptytext         "wiek">
-<!ENTITY Custom1.label 				"Informacja 1:">
-<!ENTITY Custom1.accesskey 			"1">
-<!ENTITY Custom2.label 				"Informacja 2:">
-<!ENTITY Custom2.accesskey 			"2">
-<!ENTITY Custom3.label 				"Informacja 3:">
-<!ENTITY Custom3.accesskey 			"3">
-<!ENTITY Custom4.label 				"Informacja 4:">
-<!ENTITY Custom4.accesskey 			"4">
-<!ENTITY Notes.box 				"Notatki">
-<!ENTITY Notes.accesskey 			"N">
+<!ENTITY allowRemoteContent.label       "Zezwól na zdalne obrazki w wiadomościach HTML">
+<!ENTITY allowRemoteContent.accesskey   "Z">
+
+<!ENTITY Phones.box                     "Telefony">
+<!ENTITY WorkPhone.label                "Praca:">
+<!ENTITY WorkPhone.accesskey            "a">
+<!ENTITY HomePhone.label                "Dom:">
+<!ENTITY HomePhone.accesskey            "m">
+<!ENTITY FaxNumber.label                "Faks:">
+<!ENTITY FaxNumber.accesskey            "F">
+<!ENTITY PagerNumber.label              "Pager:">
+<!ENTITY PagerNumber.accesskey          "g">
+<!ENTITY CellularNumber.label           "Telefon komórkowy:">
+<!ENTITY CellularNumber.accesskey       "T">
+<!ENTITY Address.tab                    "Adres">
+<!ENTITY Address.accesskey              "s">
+<!ENTITY Home.box                       "Domowy">
+<!ENTITY HomeAddress.label              "Adres:">
+<!ENTITY HomeAddress.accesskey          "A">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.label                 "Miasto:">
+<!ENTITY HomeCity.accesskey             "M">
+<!ENTITY HomeState.label                "Województwo:">
+<!ENTITY HomeState.accesskey            "W">
+<!ENTITY HomeZipCode.label              "Kod pocztowy:">
+<!ENTITY HomeZipCode.accesskey          "K">
+<!ENTITY HomeCountry.label              "Państwo:">
+<!ENTITY HomeCountry.accesskey          "P">
+<!ENTITY HomeWebPage.label              "Strona WWW:">
+<!ENTITY HomeWebPage.accesskey          "W">
+<!ENTITY Work.box                       "Służbowy">
+<!ENTITY JobTitle.label                 "Stanowisko:">
+<!ENTITY JobTitle.accesskey             ""><!-- FIXME -->
+<!ENTITY Department.label               "Dział:">
+<!ENTITY Department.accesskey           "z">
+<!ENTITY Company.label                  "Firma/Organizacja:">
+<!ENTITY Company.accesskey              "F">
+<!ENTITY WorkAddress.label              "Adres:">
+<!ENTITY WorkAddress.accesskey          "r">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.label                 "Miasto:">
+<!ENTITY WorkCity.accesskey             "i">
+<!ENTITY WorkState.label                "Województwo:">
+<!ENTITY WorkState.accesskey            "j">
+<!ENTITY WorkZipCode.label              "Kod pocztowy:">
+<!ENTITY WorkZipCode.accesskey          "c">
+<!ENTITY WorkCountry.label              "Państwo:">
+<!ENTITY WorkCountry.accesskey          "o">
+<!ENTITY WorkWebPage.label              "Strona WWW:">
+<!ENTITY WorkWebPage.accesskey          "n">
+<!ENTITY Other.tab                      "Inne">
+<!ENTITY Other.accesskey                "e">
+<!ENTITY Birthday.label                 "Urodziny:">
+<!ENTITY Birthday.accesskey             "U">
+<!ENTITY Year.emptytext                 "Rok">
+<!ENTITY Or.value                       "lub">
+<!ENTITY Age.emptytext                  "wiek">
+<!ENTITY Custom1.label                  "Informacja 1:">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "Informacja 2:">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "Informacja 3:">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "Informacja 4:">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.box                      "Notatki">
+<!ENTITY Notes.accesskey                "N">
