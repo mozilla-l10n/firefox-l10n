@@ -50,7 +50,9 @@
 <!ENTITY setDefaultMail.label "le courrier">
 <!ENTITY setDefaultMail.accesskey "e">
 <!ENTITY setDefaultNews.label "les groupes">
-<!ENTITY setDefaultNews.accesskey "m">
+<!ENTITY setDefaultNews.accesskey "s">
+<!ENTITY setDefaultFeed.label "les flux">
+<!ENTITY setDefaultFeed.accesskey "x">
 
 <!ENTITY messengerStartPage.caption "Page de démarrage du Courrier">
 <!ENTITY enableStartPage.label "Afficher la page de démarrage au lancement du Courrier">
