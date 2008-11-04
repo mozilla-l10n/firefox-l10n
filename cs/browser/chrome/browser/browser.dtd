@@ -7,6 +7,9 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Anonymní prohlížení)">
 
 <!ENTITY tabCmd.label "Nový panel">
 <!ENTITY tabCmd.accesskey "p">
@@ -160,6 +163,9 @@
 
 <!ENTITY clearPrivateDataCmd.label "Vymazat důvěrná data">
 <!ENTITY clearPrivateDataCmd.accesskey "d">
+
+<!ENTITY privateBrowsingCmd.label "Anonymní prohlížení">
+<!ENTITY privateBrowsingCmd.accesskey "A">
 
 <!ENTITY viewMenu.label "Zobrazit">
 <!ENTITY viewMenu.accesskey "Z">
