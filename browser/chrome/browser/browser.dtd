@@ -2,187 +2,192 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title                       "&brandFullName;">
+<!ENTITY mainWindow.title                        "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifier               "&brandFullName;">
+<!ENTITY mainWindow.titlemodifier                "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator  " - ">
+<!ENTITY mainWindow.titlemodifiermenuseparator   " - ">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (privaatne veebilehitsemine)">
 
-<!ENTITY tabCmd.label                           "Uus kaart">
-<!ENTITY tabCmd.accesskey                       "k">
+<!ENTITY tabCmd.label                            "Uus kaart">
+<!ENTITY tabCmd.accesskey                        "k">
+<!ENTITY tabCmd.commandkey                       "t">
+<!ENTITY openLocationCmd.label                   "Ava asukoht...">
+<!ENTITY openLocationCmd.accesskey               "A">
+<!ENTITY openFileCmd.label                       "Ava fail...">
+<!ENTITY openFileCmd.accesskey                   "f">
+<!ENTITY openFileCmd.commandkey                  "o">
+<!ENTITY printSetupCmd.label                     "Lehekülje sätted...">
+<!ENTITY printSetupCmd.accesskey                 "L">
+<!ENTITY printPreviewCmd.label                   "Lehekülje eelvaade">
+<!ENTITY printPreviewCmd.accesskey               "e">
+<!ENTITY printCmd.label                          "Prindi...">
+<!ENTITY printCmd.accesskey                      "P">
+<!ENTITY printCmd.commandkey                     "p">
+<!ENTITY import.label                            "Impordi...">
+<!ENTITY import.accesskey                        "I">
 
-<!ENTITY tabCmd.commandkey                      "t">
-<!ENTITY openLocationCmd.label                  "Ava asukoht...">
-<!ENTITY openLocationCmd.accesskey              "A">
-<!ENTITY openFileCmd.label                      "Ava fail...">
-<!ENTITY openFileCmd.accesskey                  "f">
-<!ENTITY openFileCmd.commandkey                 "o">
-<!ENTITY printSetupCmd.label                    "Lehekülje sätted...">
-<!ENTITY printSetupCmd.accesskey                "L">
-<!ENTITY printPreviewCmd.label                  "Lehekülje eelvaade">
-<!ENTITY printPreviewCmd.accesskey              "e">
-<!ENTITY printCmd.label                         "Prindi...">
-<!ENTITY printCmd.accesskey                     "P">
-<!ENTITY printCmd.commandkey                    "p">
-<!ENTITY import.label                           "Impordi...">
-<!ENTITY import.accesskey                       "I">
+<!ENTITY goOfflineCmd.label                      "Tööta võrguta">
+<!ENTITY goOfflineCmd.accesskey                  "T">
 
-<!ENTITY goOfflineCmd.label                     "Tööta võrguta">
-<!ENTITY goOfflineCmd.accesskey                 "T">
+<!ENTITY navbarCmd.label                         "Asukoha tööriistariba">
+<!ENTITY navbarCmd.accesskey                     "A">
+<!ENTITY personalbarCmd.label                    "Järjehoidjariba">
+<!ENTITY personalbarCmd.accesskey                "J">
+<!ENTITY bookmarksToolbarItem.label              "Järjehoidjariba elemendid">
+<!ENTITY taskbarCmd.label                        "Olekuriba">
+<!ENTITY taskbarCmd.accesskey                    "O">
 
-<!ENTITY navbarCmd.label                        "Asukoha tööriistariba">
-<!ENTITY navbarCmd.accesskey                    "A">
-<!ENTITY personalbarCmd.label                   "Järjehoidjariba">
-<!ENTITY personalbarCmd.accesskey               "J">
-<!ENTITY bookmarksToolbarItem.label             "Järjehoidjariba elemendid">
-<!ENTITY taskbarCmd.label                       "Olekuriba">
-<!ENTITY taskbarCmd.accesskey                   "O">
+<!ENTITY pageSourceCmd.label                     "Veebilehe lähtekood">
+<!ENTITY pageSourceCmd.accesskey                 "l">
+<!ENTITY pageSourceCmd.commandkey                "u">
+<!ENTITY pageInfoCmd.label                       "Veebilehe info">
+<!ENTITY pageInfoCmd.accesskey                   "i">
+<!ENTITY pageInfoCmd.commandkey                  "i">
+<!ENTITY fullScreenCmd.label                     "Täisekraani režiim">
+<!ENTITY fullScreenCmd.accesskey                 "r">
 
-<!ENTITY pageSourceCmd.label                    "Veebilehe lähtekood">
-<!ENTITY pageSourceCmd.accesskey                "l">
-<!ENTITY pageSourceCmd.commandkey               "u">
-<!ENTITY pageInfoCmd.label                      "Veebilehe info">
-<!ENTITY pageInfoCmd.accesskey                  "i">
-<!ENTITY pageInfoCmd.commandkey                 "i">
-<!ENTITY fullScreenCmd.label                    "Täisekraani režiim">
-<!ENTITY fullScreenCmd.accesskey                "r">
+<!ENTITY fullScreenMinimize.tooltip              "Minimeeri">
+<!ENTITY fullScreenRestore.tooltip               "Taasta">
+<!ENTITY fullScreenClose.tooltip                 "Sulge">
+<!ENTITY fullScreenAutohide.label                "Peida tööriistaribad">
+<!ENTITY fullScreenAutohide.accesskey            "P">
+<!ENTITY fullScreenExit.label                    "Välju täisekraani režiimist">
+<!ENTITY fullScreenExit.accesskey                "V">
 
-<!ENTITY fullScreenMinimize.tooltip             "Minimeeri">
-<!ENTITY fullScreenRestore.tooltip              "Taasta">
-<!ENTITY fullScreenClose.tooltip                "Sulge">
-<!ENTITY fullScreenAutohide.label               "Peida tööriistaribad">
-<!ENTITY fullScreenAutohide.accesskey           "P">
-<!ENTITY fullScreenExit.label                   "Välju täisekraani režiimist">
-<!ENTITY fullScreenExit.accesskey               "V">
+<!ENTITY closeWindow.label                       "Sulge aken">
+<!ENTITY closeWindow.accesskey                   "S">
 
-<!ENTITY closeWindow.label                      "Sulge aken">
-<!ENTITY closeWindow.accesskey                  "S">
+<!ENTITY bookmarksMenu.label                     "Järjehoidjad">
+<!ENTITY bookmarksMenu.accesskey                 "J">
+<!ENTITY bookmarkThisPageCmd.label               "Lisa see veebileht järjehoidjatesse...">
+<!ENTITY bookmarkThisPageCmd.commandkey          "d">
+<!ENTITY subscribeToPageMenupopup.label          "Selle veebilehe uudisvoo tellimine">
+<!ENTITY subscribeToPageMenuitem.label           "Telli selle veebilehe uudisvoog...">
+<!ENTITY addCurPagesCmd.label                    "Lisa kõik kaardid järjehoidjatesse...">
+<!ENTITY organizeBookmarks.label                 "Redigeeri järjehoidjaid...">
+<!ENTITY bookmarkAllCmd.label                    "Lisa kõik kaardid järjehoidjatesse...">
 
-<!ENTITY bookmarksMenu.label                    "Järjehoidjad">
-<!ENTITY bookmarksMenu.accesskey                "J">
-<!ENTITY bookmarkThisPageCmd.label              "Lisa see veebileht järjehoidjatesse...">
-<!ENTITY bookmarkThisPageCmd.commandkey         "d">
-<!ENTITY subscribeToPageMenupopup.label         "Selle veebilehe uudisvoo tellimine">
-<!ENTITY subscribeToPageMenuitem.label          "Telli selle veebilehe uudisvoog...">
-<!ENTITY addCurPagesCmd.label                   "Lisa kõik kaardid järjehoidjatesse...">
-<!ENTITY organizeBookmarks.label                "Redigeeri järjehoidjaid...">
-<!ENTITY bookmarkAllCmd.label                   "Lisa kõik kaardid järjehoidjatesse...">
+<!ENTITY backCmd.label                           "Tagasi">
+<!ENTITY backCmd.accesskey                       "T">
+<!ENTITY backButton.tooltip                      "Tagasi üks lehekülg">
+<!ENTITY forwardCmd.label                        "Edasi">
+<!ENTITY forwardCmd.accesskey                    "E">
+<!ENTITY forwardButton.tooltip                   "Edasi üks lehekülg">
+<!ENTITY backForwardMenu.tooltip                 "Hiljutised lehed">
+<!ENTITY reloadCmd.label                         "Laadi uuesti">
+<!ENTITY reloadCmd.accesskey                     "L">
+<!ENTITY reloadButton.tooltip                    "Laadi uuesti">
+<!ENTITY stopCmd.label                           "Peata">
+<!ENTITY stopCmd.accesskey                       "P">
+<!ENTITY stopCmd.macCommandKey                   ".">
+<!ENTITY stopButton.tooltip                      "Peata selle lehe laadimine">
+<!ENTITY goEndCap.tooltip                        "Mine aadressiribal olevale aadressile">
+<!ENTITY printButton.label                       "Prindi">
+<!ENTITY printButton.tooltip                     "Prindi see leht">
 
-<!ENTITY backCmd.label                          "Tagasi">
-<!ENTITY backCmd.accesskey                      "T">
-<!ENTITY backButton.tooltip                     "Tagasi üks lehekülg">
-<!ENTITY forwardCmd.label                       "Edasi">
-<!ENTITY forwardCmd.accesskey                   "E">
-<!ENTITY forwardButton.tooltip                  "Edasi üks lehekülg">
-<!ENTITY backForwardMenu.tooltip                "Hiljutised lehed">
-<!ENTITY reloadCmd.label                        "Laadi uuesti">
-<!ENTITY reloadCmd.accesskey                    "L">
-<!ENTITY reloadButton.tooltip                   "Laadi uuesti">
-<!ENTITY stopCmd.label                          "Peata">
-<!ENTITY stopCmd.accesskey                      "P">
-<!ENTITY stopCmd.macCommandKey                  ".">
-<!ENTITY stopButton.tooltip                     "Peata selle lehe laadimine">
-<!ENTITY goEndCap.tooltip                       "Mine aadressiribal olevale aadressile">
-<!ENTITY printButton.label                      "Prindi">
-<!ENTITY printButton.tooltip                    "Prindi see leht">
-
-<!ENTITY locationItem.title                     "Asukoht">
-<!ENTITY searchItem.title                       "Otsi">
-<!ENTITY throbberItem.title                     "Aktiivsuse indikaator">
-<!ENTITY bookmarksItem.title                    "Järjehoidjad">
+<!ENTITY locationItem.title                      "Asukoht">
+<!ENTITY searchItem.title                        "Otsi">
+<!ENTITY throbberItem.title                      "Aktiivsuse indikaator">
+<!ENTITY bookmarksItem.title                     "Järjehoidjad">
 
 <!-- Toolbar items --> 
-<!ENTITY homeButton.label                       "Kodu">
+<!ENTITY homeButton.label                        "Kodu">
 
-<!ENTITY bookmarksButton.label                  "Järjehoidjad">
-<!ENTITY bookmarksButton.tooltip                "Vaata oma järjehoidjaid">
-<!ENTITY bookmarksSidebarCmd.accesskey          "j">
-<!ENTITY bookmarksSidebarCmd.commandkey         "b">
-<!ENTITY bookmarksSidebarWinCmd.commandkey      "i">
+<!ENTITY bookmarksButton.label                   "Järjehoidjad">
+<!ENTITY bookmarksButton.tooltip                 "Vaata oma järjehoidjaid">
+<!ENTITY bookmarksSidebarCmd.accesskey           "j">
+<!ENTITY bookmarksSidebarCmd.commandkey          "b">
+<!ENTITY bookmarksSidebarWinCmd.commandkey       "i">
 
-<!ENTITY historyButton.label                    "Ajalugu">
-<!ENTITY historyButton.tooltip                  "Hiljuti külastatud lehtede vaatamine">
-<!ENTITY historySidebarCmd.accesskey            "A">
-<!ENTITY historySidebarCmd.commandKey           "h">
+<!ENTITY historyButton.label                     "Ajalugu">
+<!ENTITY historyButton.tooltip                   "Hiljuti külastatud lehtede vaatamine">
+<!ENTITY historySidebarCmd.accesskey             "A">
+<!ENTITY historySidebarCmd.commandKey            "h">
 
-<!ENTITY toolsMenu.label                        "Tööriistad">
-<!ENTITY toolsMenu.accesskey                    "T">
+<!ENTITY toolsMenu.label                         "Tööriistad">
+<!ENTITY toolsMenu.accesskey                     "T">
 
-<!ENTITY keywordfield.label                     "Lisa võti sellele otsingule...">
-<!ENTITY keywordfield.accesskey                 "v">
-<!ENTITY search.label                           "Veebiotsing">
-<!ENTITY search.accesskey                       "o">
-<!ENTITY downloads.label                        "Allalaadimised">
-<!ENTITY downloads.tooltip                      "Vaata käimasolevate allalaadimiste edenemist">
-<!ENTITY downloads.accesskey                    "A">
-<!ENTITY downloads.commandkey                   "j">
-<!ENTITY downloadsUnix.commandkey               "y">
-<!ENTITY addons.label                           "Lisad">
-<!ENTITY addons.tooltip                         "Vaata ja halda paigaldatud lisasid">
-<!ENTITY addons.accesskey                       "L">
+<!ENTITY keywordfield.label                      "Lisa võti sellele otsingule...">
+<!ENTITY keywordfield.accesskey                  "v">
+<!ENTITY search.label                            "Veebiotsing">
+<!ENTITY search.accesskey                        "o">
+<!ENTITY downloads.label                         "Allalaadimised">
+<!ENTITY downloads.tooltip                       "Vaata käimasolevate allalaadimiste edenemist">
+<!ENTITY downloads.accesskey                     "A">
+<!ENTITY downloads.commandkey                    "j">
+<!ENTITY downloadsUnix.commandkey                "y">
+<!ENTITY addons.label                            "Lisad">
+<!ENTITY addons.tooltip                          "Vaata ja halda paigaldatud lisasid">
+<!ENTITY addons.accesskey                        "L">
 
-<!ENTITY errorConsoleCmd.label                  "Vigade konsool">
-<!ENTITY errorConsoleCmd.accesskey              "V">
-<!ENTITY errorConsoleCmd.commandkey             "j">
+<!ENTITY errorConsoleCmd.label                   "Vigade konsool">
+<!ENTITY errorConsoleCmd.accesskey               "V">
+<!ENTITY errorConsoleCmd.commandkey              "j">
 
-<!ENTITY fileMenu.label                         "Fail">
+<!ENTITY fileMenu.label                          "Fail">
 
-<!ENTITY fileMenu.accesskey                     "F">
-<!ENTITY newNavigatorCmd.label                  "Uus aken">
-<!ENTITY newNavigatorCmd.key                    "N">
-<!ENTITY newNavigatorCmd.accesskey              "U">
+<!ENTITY fileMenu.accesskey                      "F">
+<!ENTITY newNavigatorCmd.label                   "Uus aken">
+<!ENTITY newNavigatorCmd.key                     "N">
+<!ENTITY newNavigatorCmd.accesskey               "U">
 
-<!ENTITY editMenu.label                         "Redigeerimine">
-<!ENTITY editMenu.accesskey                     "R">
-<!ENTITY undoCmd.label                          "Võta tagasi">
-<!ENTITY undoCmd.key                            "Z">
-<!ENTITY undoCmd.accesskey                      "V">
-<!ENTITY redoCmd.label                          "Tee uuesti">
-<!ENTITY redoCmd.key                            "Y">
-<!ENTITY redoCmd.accesskey                      "T">
-<!ENTITY cutCmd.label                           "Lõika">
-<!ENTITY cutCmd.key                             "X">
-<!ENTITY cutCmd.accesskey                       "L">
-<!ENTITY copyCmd.label                          "Kopeeri">
-<!ENTITY copyCmd.key                            "C">
-<!ENTITY copyCmd.accesskey                      "K">
-<!ENTITY pasteCmd.label                         "Aseta">
-<!ENTITY pasteCmd.key                           "V">
-<!ENTITY pasteCmd.accesskey                     "A">
-<!ENTITY deleteCmd.label                        "Kustuta">
-<!ENTITY deleteCmd.key                          "D">
-<!ENTITY deleteCmd.accesskey                    "u">
-<!ENTITY selectAllCmd.label                     "Vali kõik">
-<!ENTITY selectAllCmd.key                       "A">
-<!ENTITY selectAllCmd.accesskey                 "i">
-<!ENTITY preferencesCmd.label                   "Sätted...">
-<!ENTITY preferencesCmd.accesskey               "S">
-<!ENTITY preferencesCmdUnix.label               "Eelistused">
-<!ENTITY preferencesCmdUnix.accesskey           "E">
+<!ENTITY editMenu.label                          "Redigeerimine">
+<!ENTITY editMenu.accesskey                      "R">
+<!ENTITY undoCmd.label                           "Võta tagasi">
+<!ENTITY undoCmd.key                             "Z">
+<!ENTITY undoCmd.accesskey                       "V">
+<!ENTITY redoCmd.label                           "Tee uuesti">
+<!ENTITY redoCmd.key                             "Y">
+<!ENTITY redoCmd.accesskey                       "T">
+<!ENTITY cutCmd.label                            "Lõika">
+<!ENTITY cutCmd.key                              "X">
+<!ENTITY cutCmd.accesskey                        "L">
+<!ENTITY copyCmd.label                           "Kopeeri">
+<!ENTITY copyCmd.key                             "C">
+<!ENTITY copyCmd.accesskey                       "K">
+<!ENTITY pasteCmd.label                          "Aseta">
+<!ENTITY pasteCmd.key                            "V">
+<!ENTITY pasteCmd.accesskey                      "A">
+<!ENTITY deleteCmd.label                         "Kustuta">
+<!ENTITY deleteCmd.key                           "D">
+<!ENTITY deleteCmd.accesskey                     "u">
+<!ENTITY selectAllCmd.label                      "Vali kõik">
+<!ENTITY selectAllCmd.key                        "A">
+<!ENTITY selectAllCmd.accesskey                  "i">
+<!ENTITY preferencesCmd.label                    "Sätted...">
+<!ENTITY preferencesCmd.accesskey                "S">
+<!ENTITY preferencesCmdUnix.label                "Eelistused">
+<!ENTITY preferencesCmdUnix.accesskey            "E">
 
-<!ENTITY clearPrivateDataCmd.label              "Kustuta privaatsed andmed">
-<!ENTITY clearPrivateDataCmd.accesskey          "p">
+<!ENTITY clearPrivateDataCmd.label               "Kustuta privaatsed andmed">
+<!ENTITY clearPrivateDataCmd.accesskey           "p">
 
-<!ENTITY viewMenu.label                         "Vaade">
-<!ENTITY viewMenu.accesskey                     "V">
-<!ENTITY viewToolbarsMenu.label                 "Tööriistaribad">
-<!ENTITY viewToolbarsMenu.accesskey             "T">
-<!ENTITY viewSidebarMenu.label                  "Külgriba">
-<!ENTITY viewSidebarMenu.accesskey              "K">
-<!ENTITY viewCustomizeToolbar.label             "Kohanda...">
-<!ENTITY viewCustomizeToolbar.accesskey         "o">
+<!ENTITY privateBrowsingCmd.label                "Privaatne veebilehitsemine">
+<!ENTITY privateBrowsingCmd.accesskey            "i">
 
-<!ENTITY historyMenu.label                      "Ajalugu">
-<!ENTITY historyMenu.accesskey                  "A">
-<!ENTITY historyUndoMenu.label                  "Hiljuti suletud kaardid">
+<!ENTITY viewMenu.label                          "Vaade">
+<!ENTITY viewMenu.accesskey                      "V">
+<!ENTITY viewToolbarsMenu.label                  "Tööriistaribad">
+<!ENTITY viewToolbarsMenu.accesskey              "T">
+<!ENTITY viewSidebarMenu.label                   "Külgriba">
+<!ENTITY viewSidebarMenu.accesskey               "K">
+<!ENTITY viewCustomizeToolbar.label              "Kohanda...">
+<!ENTITY viewCustomizeToolbar.accesskey          "o">
 
-<!ENTITY historyHomeCmd.label                   "Kodu">
-<!ENTITY showAllHistoryCmd2.label               "Näita kogu ajalugu">
-<!ENTITY showAllHistoryCmd.commandkey           "H">
+<!ENTITY historyMenu.label                       "Ajalugu">
+<!ENTITY historyMenu.accesskey                   "A">
+<!ENTITY historyUndoMenu.label                   "Hiljuti suletud kaardid">
 
-<!ENTITY openCmd.commandkey                     "l">
-<!ENTITY urlbar.emptyText                       "Otsi järjehoidjatest ja ajaloost">
-<!ENTITY urlbar.accesskey                       "d">
+<!ENTITY historyHomeCmd.label                    "Kodu">
+<!ENTITY showAllHistoryCmd2.label                "Näita kogu ajalugu">
+<!ENTITY showAllHistoryCmd.commandkey            "H">
+
+<!ENTITY openCmd.commandkey                      "l">
+<!ENTITY urlbar.emptyText                        "Otsi järjehoidjatest ja ajaloost">
+<!ENTITY urlbar.accesskey                        "d">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -205,112 +210,112 @@
   
  -->
 
-<!ENTITY searchFocus.commandkey                 "k">
-<!ENTITY searchFocus.commandkey2                "e">
-<!ENTITY searchFocusUnix.commandkey             "j">
+<!ENTITY searchFocus.commandkey                  "k">
+<!ENTITY searchFocus.commandkey2                 "e">
+<!ENTITY searchFocusUnix.commandkey              "j">
 
-<!ENTITY openLinkCmd.label                      "Ava link uues aknas">
-<!ENTITY openLinkCmd.accesskey                  "l">
-<!ENTITY openLinkCmdInTab.label                 "Ava link uuel kaardil">
-<!ENTITY openLinkCmdInTab.accesskey             "k">
-<!ENTITY openFrameCmd.label                     "Ava paneel uues aknas">
-<!ENTITY openFrameCmd.accesskey                 "p">
-<!ENTITY openFrameCmdInTab.label                "Ava paneel uuel kaardil">
-<!ENTITY openFrameCmdInTab.accesskey            "u">
-<!ENTITY showOnlyThisFrameCmd.label             "Näita ainult seda paneeli">
-<!ENTITY showOnlyThisFrameCmd.accesskey         "d">
-<!ENTITY reloadCmd.commandkey                   "r">
-<!ENTITY reloadFrameCmd.label                   "Laadi paneeli sisu uuesti">
-<!ENTITY reloadFrameCmd.accesskey               "L">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Vaata valiku lähtekoodi">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Vaata MathML lähtekoodi">
+<!ENTITY openLinkCmd.label                       "Ava link uues aknas">
+<!ENTITY openLinkCmd.accesskey                   "l">
+<!ENTITY openLinkCmdInTab.label                  "Ava link uuel kaardil">
+<!ENTITY openLinkCmdInTab.accesskey              "k">
+<!ENTITY openFrameCmd.label                      "Ava paneel uues aknas">
+<!ENTITY openFrameCmd.accesskey                  "p">
+<!ENTITY openFrameCmdInTab.label                 "Ava paneel uuel kaardil">
+<!ENTITY openFrameCmdInTab.accesskey             "u">
+<!ENTITY showOnlyThisFrameCmd.label              "Näita ainult seda paneeli">
+<!ENTITY showOnlyThisFrameCmd.accesskey          "d">
+<!ENTITY reloadCmd.commandkey                    "r">
+<!ENTITY reloadFrameCmd.label                    "Laadi paneeli sisu uuesti">
+<!ENTITY reloadFrameCmd.accesskey                "L">
+<!ENTITY viewPartialSourceForSelectionCmd.label  "Vaata valiku lähtekoodi">
+<!ENTITY viewPartialSourceForMathMLCmd.label     "Vaata MathML lähtekoodi">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey         "e">
-<!ENTITY viewPageSourceCmd.label                "Vaata veebilehe lähtekoodi">
-<!ENTITY viewPageSourceCmd.accesskey            "t">
-<!ENTITY viewFrameSourceCmd.label               "Vaata paneeli lähtekoodi">
-<!ENTITY viewFrameSourceCmd.accesskey           "n">
-<!ENTITY viewPageInfoCmd.label                  "Vaata veebilehe infot">
-<!ENTITY viewPageInfoCmd.accesskey              "i">
-<!ENTITY viewFrameInfoCmd.label                 "Vaata paneeli infot">
-<!ENTITY viewFrameInfoCmd.accesskey             "i">
-<!ENTITY reloadImageCmd.label                   "Laadi pilt uuesti">
-<!ENTITY reloadImageCmd.accesskey               "L">
-<!ENTITY viewImageCmd.label                     "Vaata pilti">
-<!ENTITY viewImageCmd.accesskey                 "t">
-<!ENTITY viewVideoCmd.label                     "Vaata Videot">
-<!ENTITY viewVideoCmd.accesskey                 "i">
-<!ENTITY viewBGImageCmd.label                   "Vaata taustapilti">
-<!ENTITY viewBGImageCmd.accesskey               "s">
-<!ENTITY setDesktopBackgroundCmd.label          "Sea taustapildiks...">
-<!ENTITY setDesktopBackgroundCmd.accesskey      "e">
-<!ENTITY bookmarkPageCmd2.label                 "Pane see veebileht järjehoidjatesse">
-<!ENTITY bookmarkPageCmd2.accesskey             "P">
-<!ENTITY bookmarkThisLinkCmd.label              "Pane see link järjehoidjatesse">
-<!ENTITY bookmarkThisLinkCmd.accesskey          "n">
-<!ENTITY bookmarkThisFrameCmd.label             "Pane see paneel järjehoidjatesse">
-<!ENTITY bookmarkThisFrameCmd.accesskey         "e">
-<!ENTITY sendPageCmd.label                      "Saada link...">
-<!ENTITY sendPageCmd.accesskey                  "S">
-<!ENTITY savePageCmd.label                      "Salvesta veebileht kui...">
-<!ENTITY savePageCmd.accesskey                  "S">
+<!ENTITY viewPartialSourceCmd.accesskey          "e">
+<!ENTITY viewPageSourceCmd.label                 "Vaata veebilehe lähtekoodi">
+<!ENTITY viewPageSourceCmd.accesskey             "t">
+<!ENTITY viewFrameSourceCmd.label                "Vaata paneeli lähtekoodi">
+<!ENTITY viewFrameSourceCmd.accesskey            "n">
+<!ENTITY viewPageInfoCmd.label                   "Vaata veebilehe infot">
+<!ENTITY viewPageInfoCmd.accesskey               "i">
+<!ENTITY viewFrameInfoCmd.label                  "Vaata paneeli infot">
+<!ENTITY viewFrameInfoCmd.accesskey              "i">
+<!ENTITY reloadImageCmd.label                    "Laadi pilt uuesti">
+<!ENTITY reloadImageCmd.accesskey                "L">
+<!ENTITY viewImageCmd.label                      "Vaata pilti">
+<!ENTITY viewImageCmd.accesskey                  "t">
+<!ENTITY viewVideoCmd.label                      "Vaata Videot">
+<!ENTITY viewVideoCmd.accesskey                  "i">
+<!ENTITY viewBGImageCmd.label                    "Vaata taustapilti">
+<!ENTITY viewBGImageCmd.accesskey                "s">
+<!ENTITY setDesktopBackgroundCmd.label           "Sea taustapildiks...">
+<!ENTITY setDesktopBackgroundCmd.accesskey       "e">
+<!ENTITY bookmarkPageCmd2.label                  "Pane see veebileht järjehoidjatesse">
+<!ENTITY bookmarkPageCmd2.accesskey              "P">
+<!ENTITY bookmarkThisLinkCmd.label               "Pane see link järjehoidjatesse">
+<!ENTITY bookmarkThisLinkCmd.accesskey           "n">
+<!ENTITY bookmarkThisFrameCmd.label              "Pane see paneel järjehoidjatesse">
+<!ENTITY bookmarkThisFrameCmd.accesskey          "e">
+<!ENTITY sendPageCmd.label                       "Saada link...">
+<!ENTITY sendPageCmd.accesskey                   "S">
+<!ENTITY savePageCmd.label                       "Salvesta veebileht kui...">
+<!ENTITY savePageCmd.accesskey                   "S">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2                 "a">
-<!ENTITY savePageCmd.commandkey                 "s">
-<!ENTITY saveFrameCmd.label                     "Salvesta paneel kui...">
-<!ENTITY saveFrameCmd.accesskey                 "v">
-<!ENTITY printFrameCmd.label                    "Prindi paneeli sisu...">
-<!ENTITY printFrameCmd.accesskey                "P">
-<!ENTITY saveLinkCmd.label                      "Salvesta link kui...">
-<!ENTITY saveLinkCmd.accesskey                  "k">
-<!ENTITY sendLinkCmd.label                      "Saada link...">
-<!ENTITY sendLinkCmd.accesskey                  "d">
-<!ENTITY saveImageCmd.label                     "Salvesta pilt kui...">
-<!ENTITY saveImageCmd.accesskey                 "p">
-<!ENTITY saveVideoCmd.label                     "Salvesta video kui...">
-<!ENTITY saveVideoCmd.accesskey                 "v">
-<!ENTITY saveAudioCmd.label                     "Salvesta audio kui...">
-<!ENTITY saveAudioCmd.accesskey                 "a">
-<!ENTITY sendImageCmd.label                     "Saada pilt...">
-<!ENTITY sendImageCmd.accesskey                 "d">
-<!ENTITY sendVideoCmd.label                     "Saada video...">
-<!ENTITY sendVideoCmd.accesskey                 "i">
-<!ENTITY sendAudioCmd.label                     "Saada audio...">
-<!ENTITY sendAudioCmd.accesskey                 "u">
-<!ENTITY copyLinkCmd.label                      "Kopeeri lingi aadress">
-<!ENTITY copyLinkCmd.accesskey                  "o">
-<!ENTITY copyLinkTextCmd.label                  "Kopeeri lingi tekst">
-<!ENTITY copyLinkTextCmd.accesskey              "r">
-<!ENTITY copyImageCmd.label                     "Kopeeri pildi aadress">
-<!ENTITY copyImageCmd.accesskey                 "o">
-<!ENTITY copyImageContentsCmd.label             "Kopeeri pilt">
-<!ENTITY copyImageContentsCmd.accesskey         "e">
-<!ENTITY copyVideoURLCmd.label                  "Kopeeri video aadress">
-<!ENTITY copyVideoURLCmd.accesskey              "e">
-<!ENTITY copyAudioURLCmd.label                  "Kopeeri audio aadress">
-<!ENTITY copyAudioURLCmd.accesskey              "p">
-<!ENTITY blockImageCmd.accesskey                "B">
-<!ENTITY metadataCmd.label                      "Omadused">
-<!ENTITY metadataCmd.accesskey                  "u">
-<!ENTITY copyEmailCmd.label                     "Kopeeri e-posti aadress">
-<!ENTITY copyEmailCmd.accesskey                 "i">
-<!ENTITY thisFrameMenu.label                    "See paneel">
-<!ENTITY thisFrameMenu.accesskey                "p">
+<!ENTITY savePageCmd.accesskey2                  "a">
+<!ENTITY savePageCmd.commandkey                  "s">
+<!ENTITY saveFrameCmd.label                      "Salvesta paneel kui...">
+<!ENTITY saveFrameCmd.accesskey                  "v">
+<!ENTITY printFrameCmd.label                     "Prindi paneeli sisu...">
+<!ENTITY printFrameCmd.accesskey                 "P">
+<!ENTITY saveLinkCmd.label                       "Salvesta link kui...">
+<!ENTITY saveLinkCmd.accesskey                   "k">
+<!ENTITY sendLinkCmd.label                       "Saada link...">
+<!ENTITY sendLinkCmd.accesskey                   "d">
+<!ENTITY saveImageCmd.label                      "Salvesta pilt kui...">
+<!ENTITY saveImageCmd.accesskey                  "p">
+<!ENTITY saveVideoCmd.label                      "Salvesta video kui...">
+<!ENTITY saveVideoCmd.accesskey                  "v">
+<!ENTITY saveAudioCmd.label                      "Salvesta audio kui...">
+<!ENTITY saveAudioCmd.accesskey                  "a">
+<!ENTITY sendImageCmd.label                      "Saada pilt...">
+<!ENTITY sendImageCmd.accesskey                  "d">
+<!ENTITY sendVideoCmd.label                      "Saada video...">
+<!ENTITY sendVideoCmd.accesskey                  "i">
+<!ENTITY sendAudioCmd.label                      "Saada audio...">
+<!ENTITY sendAudioCmd.accesskey                  "u">
+<!ENTITY copyLinkCmd.label                       "Kopeeri lingi aadress">
+<!ENTITY copyLinkCmd.accesskey                   "o">
+<!ENTITY copyLinkTextCmd.label                   "Kopeeri lingi tekst">
+<!ENTITY copyLinkTextCmd.accesskey               "r">
+<!ENTITY copyImageCmd.label                      "Kopeeri pildi aadress">
+<!ENTITY copyImageCmd.accesskey                  "o">
+<!ENTITY copyImageContentsCmd.label              "Kopeeri pilt">
+<!ENTITY copyImageContentsCmd.accesskey          "e">
+<!ENTITY copyVideoURLCmd.label                   "Kopeeri video aadress">
+<!ENTITY copyVideoURLCmd.accesskey               "e">
+<!ENTITY copyAudioURLCmd.label                   "Kopeeri audio aadress">
+<!ENTITY copyAudioURLCmd.accesskey               "p">
+<!ENTITY blockImageCmd.accesskey                 "B">
+<!ENTITY metadataCmd.label                       "Omadused">
+<!ENTITY metadataCmd.accesskey                   "u">
+<!ENTITY copyEmailCmd.label                      "Kopeeri e-posti aadress">
+<!ENTITY copyEmailCmd.accesskey                  "i">
+<!ENTITY thisFrameMenu.label                     "See paneel">
+<!ENTITY thisFrameMenu.accesskey                 "p">
 
 <!-- Media (video/audio) controls -->
-<!ENTITY mediaPlay.label                        "Esita">
-<!ENTITY mediaPlay.accesskey                    "E">
-<!ENTITY mediaPause.label                       "Paus">
-<!ENTITY mediaPause.accesskey                   "P">
-<!ENTITY mediaMute.label                        "Summutatud">
-<!ENTITY mediaMute.accesskey                    "S">
-<!ENTITY mediaUnmute.label                      "Summutus maha">
-<!ENTITY mediaUnmute.accesskey                  "m">
-<!ENTITY mediaShowControls.label                "Näita juhtnuppe">
-<!ENTITY mediaShowControls.accesskey            "N">
-<!ENTITY mediaHideControls.label                "Peida juhtnupud">
-<!ENTITY mediaHideControls.accesskey            "e">
+<!ENTITY mediaPlay.label                         "Esita">
+<!ENTITY mediaPlay.accesskey                     "E">
+<!ENTITY mediaPause.label                        "Paus">
+<!ENTITY mediaPause.accesskey                    "P">
+<!ENTITY mediaMute.label                         "Summutatud">
+<!ENTITY mediaMute.accesskey                     "S">
+<!ENTITY mediaUnmute.label                       "Summutus maha">
+<!ENTITY mediaUnmute.accesskey                   "m">
+<!ENTITY mediaShowControls.label                 "Näita juhtnuppe">
+<!ENTITY mediaShowControls.accesskey             "N">
+<!ENTITY mediaHideControls.label                 "Peida juhtnupud">
+<!ENTITY mediaHideControls.accesskey             "e">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -318,94 +323,94 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label               "Suurenda">
-<!ENTITY fullZoomEnlargeCmd.accesskey           "S">
+<!ENTITY fullZoomEnlargeCmd.label                "Suurenda">
+<!ENTITY fullZoomEnlargeCmd.accesskey            "S">
 
-<!ENTITY fullZoomEnlargeCmd.commandkey          "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2         "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3         "">
+<!ENTITY fullZoomEnlargeCmd.commandkey           "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2          "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3          "">
 
-<!ENTITY fullZoomReduceCmd.label                "Vähenda">
-<!ENTITY fullZoomReduceCmd.accesskey            "V">
-<!ENTITY fullZoomReduceCmd.commandkey           "-">
-<!ENTITY fullZoomReduceCmd.commandkey2          "">
+<!ENTITY fullZoomReduceCmd.label                 "Vähenda">
+<!ENTITY fullZoomReduceCmd.accesskey             "V">
+<!ENTITY fullZoomReduceCmd.commandkey            "-">
+<!ENTITY fullZoomReduceCmd.commandkey2           "">
 
-<!ENTITY fullZoomResetCmd.label                 "Algsuurus">
-<!ENTITY fullZoomResetCmd.accesskey             "A">
-<!ENTITY fullZoomResetCmd.commandkey            "0">
-<!ENTITY fullZoomResetCmd.commandkey2           "">
+<!ENTITY fullZoomResetCmd.label                  "Algsuurus">
+<!ENTITY fullZoomResetCmd.accesskey              "A">
+<!ENTITY fullZoomResetCmd.commandkey             "0">
+<!ENTITY fullZoomResetCmd.commandkey2            "">
 
-<!ENTITY fullZoomToggleCmd.label                "Suurenda ainult teksti">
-<!ENTITY fullZoomToggleCmd.accesskey            "t">
-<!ENTITY fullZoom.label                         "Suurendamine">
-<!ENTITY fullZoom.accesskey                     "u">
+<!ENTITY fullZoomToggleCmd.label                 "Suurenda ainult teksti">
+<!ENTITY fullZoomToggleCmd.accesskey             "t">
+<!ENTITY fullZoom.label                          "Suurendamine">
+<!ENTITY fullZoom.accesskey                      "u">
 
-<!ENTITY newWindowButton.tooltip                "Ava uus aken">
-<!ENTITY sidebarCloseButton.tooltip             "Sulge külgriba">
+<!ENTITY newWindowButton.tooltip                 "Ava uus aken">
+<!ENTITY sidebarCloseButton.tooltip              "Sulge külgriba">
 
-<!ENTITY cutButton.tooltip                      "Lõika">
-<!ENTITY copyButton.tooltip                     "Kopeeri">
-<!ENTITY pasteButton.tooltip                    "Aseta">
+<!ENTITY cutButton.tooltip                       "Lõika">
+<!ENTITY copyButton.tooltip                      "Kopeeri">
+<!ENTITY pasteButton.tooltip                     "Aseta">
 
-<!ENTITY quitApplicationCmdWin.label            "Välju">
-<!ENTITY quitApplicationCmdWin.accesskey        "j">
-<!ENTITY goBackCmd.commandKey                   "[">
-<!ENTITY goForwardCmd.commandKey                "]">
-<!ENTITY quitApplicationCmd.label               "Välju">
-<!ENTITY quitApplicationCmd.accesskey           "j">
-<!ENTITY quitApplicationCmdMac.label            "Välju">
-<!ENTITY quitApplicationCmdMac.key              "Q">
+<!ENTITY quitApplicationCmdWin.label             "Välju">
+<!ENTITY quitApplicationCmdWin.accesskey         "j">
+<!ENTITY goBackCmd.commandKey                    "[">
+<!ENTITY goForwardCmd.commandKey                 "]">
+<!ENTITY quitApplicationCmd.label                "Välju">
+<!ENTITY quitApplicationCmd.accesskey            "j">
+<!ENTITY quitApplicationCmdMac.label             "Välju">
+<!ENTITY quitApplicationCmdMac.key               "Q">
 
-<!ENTITY closeCmd.label                         "Sulge">
-<!ENTITY closeCmd.key                           "W">
-<!ENTITY closeCmd.accesskey                     "u">
+<!ENTITY closeCmd.label                          "Sulge">
+<!ENTITY closeCmd.key                            "W">
+<!ENTITY closeCmd.accesskey                      "u">
 
-<!ENTITY pageStyleMenu.label                    "Veebilehe stiil">
-<!ENTITY pageStyleMenu.accesskey                "h">
-<!ENTITY pageStyleNoStyle.label                 "Stiil puudub">
-<!ENTITY pageStyleNoStyle.accesskey             "p">
-<!ENTITY pageStylePersistentOnly.label          "Veebilehe baasstiil">
-<!ENTITY pageStylePersistentOnly.accesskey      "b">
+<!ENTITY pageStyleMenu.label                     "Veebilehe stiil">
+<!ENTITY pageStyleMenu.accesskey                 "h">
+<!ENTITY pageStyleNoStyle.label                  "Stiil puudub">
+<!ENTITY pageStyleNoStyle.accesskey              "p">
+<!ENTITY pageStylePersistentOnly.label           "Veebilehe baasstiil">
+<!ENTITY pageStylePersistentOnly.accesskey       "b">
 
-<!ENTITY pageReportIcon.tooltip                 "Muuda selle veebilehe hüpikakende blokeerimise sätteid">
+<!ENTITY pageReportIcon.tooltip                  "Muuda selle veebilehe hüpikakende blokeerimise sätteid">
 
-<!ENTITY allowPopups.accesskey                  "p">
+<!ENTITY allowPopups.accesskey                   "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label            "Muuda hüpikakende blokeerija eelistusi...">
-<!ENTITY editPopupSettings.label                "Muuda hüpikakende blokeerija sätteid...">
-<!ENTITY editPopupSettings.accesskey            "M">
-<!ENTITY dontShowMessage.accesskey              "d">
+<!ENTITY editPopupSettingsUnix.label             "Muuda hüpikakende blokeerija eelistusi...">
+<!ENTITY editPopupSettings.label                 "Muuda hüpikakende blokeerija sätteid...">
+<!ENTITY editPopupSettings.accesskey             "M">
+<!ENTITY dontShowMessage.accesskey               "d">
 
-<!ENTITY bidiSwitchPageDirectionItem.label      "Muuda lehe suunda">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey  "h">
-<!ENTITY bidiSwitchTextDirectionItem.label      "Muuda teksti suunda">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey  "d">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
+<!ENTITY bidiSwitchPageDirectionItem.label       "Muuda lehe suunda">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey   "h">
+<!ENTITY bidiSwitchTextDirectionItem.label       "Muuda teksti suunda">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey   "d">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey  "X">
 
-<!ENTITY findOnCmd.label                        "Otsi sellelt lehelt...">
-<!ENTITY findOnCmd.accesskey                    "s">
-<!ENTITY findOnCmd.commandkey                   "f">
-<!ENTITY findAgainCmd.label                     "Otsi uuesti">
-<!ENTITY findAgainCmd.accesskey                 "u">
-<!ENTITY findAgainCmd.commandkey                "g">
-<!ENTITY findAgainCmd.commandkey2               "VK_F3">
+<!ENTITY findOnCmd.label                         "Otsi sellelt lehelt...">
+<!ENTITY findOnCmd.accesskey                     "s">
+<!ENTITY findOnCmd.commandkey                    "f">
+<!ENTITY findAgainCmd.label                      "Otsi uuesti">
+<!ENTITY findAgainCmd.accesskey                  "u">
+<!ENTITY findAgainCmd.commandkey                 "g">
+<!ENTITY findAgainCmd.commandkey2                "VK_F3">
 
-<!ENTITY spellAddDictionaries.label             "Lisa sõnaraamatuid...">
-<!ENTITY spellAddDictionaries.accesskey         "n">
+<!ENTITY spellAddDictionaries.label              "Lisa sõnaraamatuid...">
+<!ENTITY spellAddDictionaries.accesskey          "n">
 
-<!ENTITY editBookmark.done.label                "Sobib">
-<!ENTITY editBookmark.cancel.label              "Loobu">
-<!ENTITY editBookmark.removeBookmark.label      "Eemalda järjehoidja">
-<!ENTITY editBookmark.removeBookmark.accessKey  "E">
-<!ENTITY editBookmark.undo.label                "Võta tagasi">
-<!ENTITY editBookmark.undo.accessKey            "V">
-<!ENTITY editBookmark.edit.label                "Redigeeri...">
-<!ENTITY editBookmark.edit.accessKey            "R">
+<!ENTITY editBookmark.done.label                 "Sobib">
+<!ENTITY editBookmark.cancel.label               "Loobu">
+<!ENTITY editBookmark.removeBookmark.label       "Eemalda järjehoidja">
+<!ENTITY editBookmark.removeBookmark.accessKey   "E">
+<!ENTITY editBookmark.undo.label                 "Võta tagasi">
+<!ENTITY editBookmark.undo.accessKey             "V">
+<!ENTITY editBookmark.edit.label                 "Redigeeri...">
+<!ENTITY editBookmark.edit.accessKey             "R">
 
-<!ENTITY identity.unverifiedsite2               "Sellel leheküljel puudub identifitseeriv info.">
-<!ENTITY identity.connectedTo                   "Sa oled ühendatud aadressiga">
+<!ENTITY identity.unverifiedsite2                "Sellel leheküljel puudub identifitseeriv info.">
+<!ENTITY identity.connectedTo                    "Sa oled ühendatud aadressiga">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -417,8 +422,8 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy                         "ja seda hooldab ettevõte">
+<!ENTITY identity.runBy                          "ja seda hooldab ettevõte">
 
-<!ENTITY identity.moreInfoLinkText              "Rohkem infot...">
+<!ENTITY identity.moreInfoLinkText               "Rohkem infot...">
 
-<!ENTITY downloadMonitor2.tooltip               "Klõpsa, et avada allalaadimiste aken">
+<!ENTITY downloadMonitor2.tooltip                "Klõpsa, et avada allalaadimiste aken">
