@@ -1,0 +1,13 @@
+<!ENTITY privatebrowsingpage.tabtitle                  "Navigare fără urme">
+
+<!ENTITY privatebrowsingpage.pagetitle                 "Navigare fără urme">
+
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; nu va memora nimic în istoric pentru această sesiune.">
+<!ENTITY privatebrowsingpage.longDesc                  "&brandShortName; nu va înregistra nimic pe parcursul acestei sesiuni. Mai exact nu se va înregistra nimic în istoricul navigării, al căutărilor, al descărcărilor, al formularelor web precum nici cookie-uri și fișiere temporare. Totuși fișierele pe care le descărcați vor fi păstrate.">
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Puteți începe și prin curățarea istoricului recent.">
+<!ENTITY privatebrowsingpage.recentHistory.label       "Curăță istoricul recent">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey   "C">
+
+<!ENTITY privatebrowsingpage.howToStopDesc             "Pentru a nu mai naviga fără urme, debifați Unelte &gt; Navigare fără urme.">
+<!ENTITY privatebrowsingpage.footerDesc                "Navigare plăcută!">
