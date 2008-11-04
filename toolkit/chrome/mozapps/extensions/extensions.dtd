@@ -112,6 +112,7 @@
 <!ENTITY insecureUpdate.label   "No provee actualizaciones seguras">
 <!ENTITY needsDependencies.label "Requiere ítems adicionales.">
 <!ENTITY blocklisted.label "Deshabilitado para su protección.">
+<!ENTITY softBlocklisted.label            "Se sabe que causa problemas de seguridad o estabilidad.">
 <!ENTITY toBeDisabled.label "Este agregado se deshabilitará cuando se reinicie &brandShortName;.">
 <!ENTITY toBeEnabled.label "Este agregado se habilitará cuando se reinicie &brandShortName;.">
 <!ENTITY toBeInstalled.label "Este agregado se instalará cuando se reinicie &brandShortName;.">
@@ -167,3 +168,6 @@
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "Acceptar e instalar…">
+
+<!ENTITY blocklist.blocked.label          "Bloqueado">
+<!ENTITY blocklist.checkbox.label         "Deshabilitar">
