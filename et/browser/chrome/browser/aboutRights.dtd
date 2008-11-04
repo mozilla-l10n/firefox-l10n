@@ -2,7 +2,7 @@
 <!ENTITY rights.locale-direction            "ltr">
 <!ENTITY rights.pagetitle                   "about:rights">
 <!ENTITY rights.intro-header                "Sinu õigustest">
-<!ENTITY rights.intro                       "&brandFullName; on vaba ja avatud koodiga tarkvara, mille on loonud kommuun, kus on tuhandeid inimesi üle maailma. On mõned asjad, mida sa peaksid teadma:">
+<!ENTITY rights.intro                       "&brandFullName; on vaba ja avatud koodiga tarkvara, mille on loonud kommuun, mis moodustub tuhandetest inimestest üle maailma. On mõned asjad, mida sa peaksid teadma:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
