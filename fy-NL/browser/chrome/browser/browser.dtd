@@ -7,6 +7,9 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Privaat sneupe)">
 
 <!ENTITY tabCmd.label "Nij ljepblêd">
 <!ENTITY tabCmd.accesskey "L">
@@ -160,6 +163,9 @@
 
 <!ENTITY clearPrivateDataCmd.label            "Priveegegevens opskjinje">
 <!ENTITY clearPrivateDataCmd.accesskey        "p">
+
+<!ENTITY privateBrowsingCmd.label            "Privaat sneupe">
+<!ENTITY privateBrowsingCmd.accesskey        "s">
 
 <!ENTITY viewMenu.label               "Byld"> 
 <!ENTITY viewMenu.accesskey           "L"> 
