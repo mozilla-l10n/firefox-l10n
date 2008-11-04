@@ -1,7 +1,7 @@
 <!ENTITY privatebrowsingpage.tabtitle "Navegación privada">
 <!ENTITY privatebrowsingpage.pagetitle "Navegación privada">
 <!ENTITY privatebrowsingpage.issueDesc "&brandShortName; no recordará nada del historial durante esta sesión.">
-<!ENTITY privatebrowsingpage.longDesc "&brandShortName; no guardará nada en su historial durante esta sesión de navegación. Esto incluye el historial de páginas visitadas, el de búsquedas y de descargas, formularios web rellenados, cookies y archivos temporales de internet. Sin embargo, cualquier archivo que descargues o marcadores añadidos sí serán preservados.">
+<!ENTITY privatebrowsingpage.longDesc "&brandShortName; no guardará nada en su historial durante esta sesión de navegación. Esto incluye el historial de páginas visitadas, el de búsquedas y de descargas, formularios web rellenados, cookies y archivos temporales de internet. Sin embargo, cualquier archivo que descargue o cualquier marcador añadido sí serán preservados.">
 <!ENTITY privatebrowsingpage.clearRecentHistoryDesc "Igual desea comenzar limpiando su historial más reciente.">
 <!ENTITY privatebrowsingpage.recentHistory.label "Limpiar historial reciente">
 <!ENTITY privatebrowsingpage.recentHistory.accesskey "h">
