@@ -112,6 +112,7 @@
 <!ENTITY insecureUpdate.label             "Tilbyr ikke sikre oppdateringer.">
 <!ENTITY needsDependencies.label          "Krever flere elementer.">
 <!ENTITY blocklisted.label                "Avslått av sikkerhetsårsaker.">
+<!ENTITY softBlocklisted.label            "Er kjent for å skape sikkerhets- eller stabilitetsproblemer.">
 <!ENTITY toBeDisabled.label               "Denne utvidelsen vil bli avslått når du starter &brandShortName; på nytt.">
 <!ENTITY toBeEnabled.label                "Denne utvidelsen vil bli påslått når du starter &brandShortName; på nytt.">
 <!ENTITY toBeInstalled.label              "Denne utvidelsen vil bli installert når du starter &brandShortName; på nytt.">
@@ -168,3 +169,6 @@
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "Godta avtalen og installer …">
+
+<!ENTITY blocklist.blocked.label          "Blokkert">
+<!ENTITY blocklist.checkbox.label         "Slå av">
