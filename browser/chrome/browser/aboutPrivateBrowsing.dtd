@@ -1,0 +1,13 @@
+<!ENTITY privatebrowsingpage.tabtitle "Anonymní prohlížení">
+
+<!ENTITY privatebrowsingpage.pagetitle "Anonymní prohlížení">
+
+<!ENTITY privatebrowsingpage.issueDesc "&brandShortName; si nebude pro tuto relaci pamatovat žádnou historii.">
+<!ENTITY privatebrowsingpage.longDesc "Při anonymním prohlížení nebude &brandShortName; zaznamenávat žádnou historii a to včetně historie stránek, formulářů, historie hledání, cookies a souborů ve vyrovnávací paměti. Nicméně vámi stažené soubory a vytvořené záložky budou zachovány.">
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc "Možná byste také chtěli vymazat nedávnou historii.">
+<!ENTITY privatebrowsingpage.recentHistory.label "Vymazat nedávnou historii">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey "V">
+
+<!ENTITY privatebrowsingpage.howToStopDesc "Pro ukončení anonymního prohlížení odškrtněte Nástroje &gt; Anonymní prohlížení.">
+<!ENTITY privatebrowsingpage.footerDesc "Užijte si to!">

@@ -7,12 +7,12 @@
 <!ENTITY restorepage.dueToChrome "Zkuste pomocí Správce doplňků odebrat některý z naposledy přidaných doplňků.">
 <!ENTITY restorepage.dueToContent "Zkuste obnovit relaci bez webové stránky, o které si myslíte, že způsobuje pád:">
 
-<!ENTITY restorepage.restoreButton  "Obnovit předchozí relaci">
+<!ENTITY restorepage.restoreButton "Obnovit předchozí relaci">
 <!ENTITY restorepage.restore.access "O">
-<!ENTITY restorepage.cancelButton   "Začít novou relaci">
-<!ENTITY restorepage.cancel.access  "Z">
+<!ENTITY restorepage.cancelButton "Začít novou relaci">
+<!ENTITY restorepage.cancel.access "Z">
 
-<!ENTITY restorepage.restoreHeader  "Obnovit">
-<!ENTITY restorepage.listHeader     "Okna a panely">
+<!ENTITY restorepage.restoreHeader "Obnovit">
+<!ENTITY restorepage.listHeader "Okna a panely">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Okno #&#37;S">
+<!ENTITY restorepage.windowLabel "Okno #&#37;S">
