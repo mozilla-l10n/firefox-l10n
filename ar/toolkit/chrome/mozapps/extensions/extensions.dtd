@@ -112,6 +112,7 @@
 <!ENTITY insecureUpdate.label "لا يمنح تحديثات آمنة">
 <!ENTITY needsDependencies.label "يتطلب عناصر إضافية.">
 <!ENTITY blocklisted.label "عُطِّل لحمايتك.">
+<!ENTITY softBlocklisted.label "معروفة بأنها قد تسبب مشكلات في الأمن أو في الثبات.">
 <!ENTITY toBeDisabled.label "ستُعطّل هذه الإضافة عند إعادة تشغيل &brandShortName;.">
 <!ENTITY toBeEnabled.label "ستُفعّل هذه الإضافة عند إعادة تشغيل &brandShortName;.">
 <!ENTITY toBeInstalled.label "ستُثبّت هذه الإضافة عند إعادة تشغيل &brandShortName;.">
@@ -168,3 +169,6 @@
 <!ENTITY eula.width "560px">
 <!ENTITY eula.height "400px">
 <!ENTITY eula.accept "اقبل وثبّت...">
+
+<!ENTITY blocklist.blocked.label          "محظور">
+<!ENTITY blocklist.checkbox.label         "عطّل">

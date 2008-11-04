@@ -1,7 +1,7 @@
-<!ENTITY printCmd.commandkey "ط">
+<!ENTITY printCmd.commandkey "p">
 
-<!ENTITY findOnCmd.commandkey "ث">
-<!ENTITY findAgainCmd.commandkey "ج">
+<!ENTITY findOnCmd.commandkey "F">
+<!ENTITY findAgainCmd.commandkey "G">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 <!ENTITY backButton.label "للخلف">
@@ -20,7 +20,7 @@
 <!ENTITY homeButton.tooltip "اذهب إلى صفحة بداية المساعدة">
 <!ENTITY printButton.label "اطبع">
 <!ENTITY printButton.tooltip "اطبع هذه الصّفحة">
-<!ENTITY closeWindow.commandkey "ن">
+<!ENTITY closeWindow.commandkey "W">
 
 <!ENTITY search.emptytext "ابحث">
 <!ENTITY searchHeader.label "نتائج البحث">

@@ -32,14 +32,14 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.removeFromList.label "احذف من القائمة">
 <!ENTITY cmd.removeFromList.accesskey "ح">
 
-<!ENTITY cmd.close.commandKey "ذ">
+<!ENTITY cmd.close.commandKey "w">
 <!ENTITY cmd.close2.commandKey "j">
 <!ENTITY cmd.close2Unix.commandKey "y">
 <!ENTITY cmd.clearList.label "امسح القائمة">
 <!ENTITY cmd.clearList.tooltip "يزيل التّنزيلات المكتملة، والملغاة والفاشلة من القائمة">
 <!ENTITY cmd.clearList.accesskey "م">
-<!ENTITY cmd.find.commandKey "ب">
-<!ENTITY cmd.search.commandKey "ح">
+<!ENTITY cmd.find.commandKey "f">
+<!ENTITY cmd.search.commandKey "k">
 
 <!ENTITY closeWhenDone.label "أغلق عند انتهاء التّنزيلات">
 <!ENTITY closeWhenDone.tooltip "يغلق نافذة التّنزيلات عند انتهاء تنزيل كلّ الملفّات">
