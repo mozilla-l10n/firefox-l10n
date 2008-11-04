@@ -3,5 +3,5 @@
 <!ENTITY dialog.title "Hugbúnaðar uppsetning">
 <!ENTITY dialog.style "width: 45em">
 <!ENTITY warningPrimary.label "Settu bara inn viðbætur frá þeim höfundum sem þú treystir.">
-<!ENTITY warningSecondary.label "Varasamur hugbúnaður gæti skemmt tölvuna eða misnotað þína friðhelgi.">
+<!ENTITY warningSecondary.label "Varasamur hugbúnaður gæti skemmt tölvuna eða misnotað friðhelgi þína.">
 <!ENTITY from.label "Frá:">

@@ -230,8 +230,8 @@
 <!ENTITY calendar.context.properties.label "Eiginleikar">
 <!ENTITY calendar.context.properties.accesskey "i">
 <!ENTITY calendar.context.convertmenu.label "Breyta í">
-<!ENTITY calendar.context.convertmenu.accesskey.mail "n">
-<!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
+<!ENTITY calendar.context.convertmenu.accesskey.mail "B">
+<!ENTITY calendar.context.convertmenu.accesskey.calendar "B">
 <!ENTITY calendar.context.convertmenu.event.label "Atburður…">
 <!ENTITY calendar.context.convertmenu.event.accesskey "A">
 <!ENTITY calendar.context.convertmenu.message.label "Skilaboð…">

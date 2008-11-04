@@ -28,8 +28,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.goToDownloadPage.accesskey "n">
 <!ENTITY cmd.copyDownloadLink.label "Afrita niðurhalstengil">
 <!ENTITY cmd.copyDownloadLink.accesskey "L">
-<!ENTITY cmd.removeFromList.label "Fjarlægja Tengill">
-<!ENTITY cmd.removeFromList.accesskey "e">
+<!ENTITY cmd.removeFromList.label "Fjarlægja úr lista">
+<!ENTITY cmd.removeFromList.accesskey "F">
 <!ENTITY cmd.close.commandKey "w">
 <!ENTITY cmd.close2.commandKey "j">
 <!ENTITY cmd.close2Unix.commandKey "y">

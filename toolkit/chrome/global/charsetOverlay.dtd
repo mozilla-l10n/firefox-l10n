@@ -9,7 +9,7 @@
 <!ENTITY charsetMenuMore1.accesskey "V">
 <!ENTITY charsetMenuMore2.label "Austur Evrópa">
 <!ENTITY charsetMenuMore2.accesskey "E">
-<!ENTITY charsetMenuMore3.label "Austur Asía">
+<!ENTITY charsetMenuMore3.label "Austurasísk">
 <!ENTITY charsetMenuMore3.accesskey "A">
 <!ENTITY charsetMenuMore4.label "SA &amp; SV Asía">
 <!ENTITY charsetMenuMore4.accesskey "S">
@@ -17,5 +17,5 @@
 <!ENTITY charsetMenuMore5.accesskey "M">
 <!ENTITY charsetMenuUnicode.label "Unicode">
 <!ENTITY charsetMenuUnicode.accesskey "U">
-<!ENTITY charsetCustomize.label "Sérsniða lista…">
+<!ENTITY charsetCustomize.label "Sérsníða lista…">
 <!ENTITY charsetCustomize.accesskey "S">

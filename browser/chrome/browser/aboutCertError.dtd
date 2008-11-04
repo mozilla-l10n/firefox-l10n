@@ -13,17 +13,17 @@ be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara1 "Þú hefur beðið &brandShortName; um að tengjast
 örugglega við <b>#1</b>, en ekki er hægt að staðfesta að tengingin sé örugg.">
-<!ENTITY certerror.introPara2 "Venjulega, ef þú reynir að tengjast með öruggum hætti,
-mun vefsvæð sýna örugg skilríki til að sanna að þú sért
-á réttum stað. Hins vegar, er ekki hægt að sannreyna skilríki þessa vefsvæðis.">
+<!ENTITY certerror.introPara2 "Venjulega er það þannig, að ef þú reynir að tengjast með öruggum hætti,
+mun vefsvæðið sýna örugg skilríki sem sanna að þú sért
+á réttum stað. En hins vegar, er ekki hægt að sannreyna skilríki þessa vefsvæðis.">
 <!ENTITY certerror.whatShouldIDo.heading "Hvað ætti ég að gera?">
 <!ENTITY certerror.whatShouldIDo.content "Ef þú getur venjulega tengst við
-þetta vefsvæði án vandamála, gæti þessi villa þýtt að einhver er
+þetta vefsvæði án vandamála, gæti villan þýtt að einhver er
 að villa á sér heimildir fyrir þetta vefsvæði, og þú ættir ekki að halda áfram.">
 <!ENTITY certerror.getMeOutOfHere.label "Hjálpaðu mér héðan út!">
-<!ENTITY certerror.expert.heading "Ég skil áhætturnar">
+<!ENTITY certerror.expert.heading "Ég skil þessar áhættur">
 <!ENTITY certerror.expert.content "Ef þú skilur hvað er í gangi, getur þú
-sagt &brandShortName; að byrja að treysta skilríkjum þessa vefsvæðis.
+sagt &brandShortName; að byrja núna að treysta skilríkjum vefsvæðisins.
 <b>Jafnvel þótt þú treystir þessu vefsvæði, gæti þessi villa þýtt að einhver sé að
 fikta við tenginguna þína.</b>">
 <!ENTITY certerror.expert.contentPara2 "Ekki bæta við undantekningu nema
