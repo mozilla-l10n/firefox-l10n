@@ -7,6 +7,9 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (privat nettlesing)">
 
 <!ENTITY tabCmd.label "Ny fane">
 <!ENTITY tabCmd.accesskey "f">
@@ -160,6 +163,9 @@
 
 <!ENTITY clearPrivateDataCmd.label            "Slett private data">
 <!ENTITY clearPrivateDataCmd.accesskey        "e">
+
+<!ENTITY privateBrowsingCmd.label            "Privat nettlesing">
+<!ENTITY privateBrowsingCmd.accesskey        "P">
 
 <!ENTITY viewMenu.label         "Vis">
 <!ENTITY viewMenu.accesskey       "V">
