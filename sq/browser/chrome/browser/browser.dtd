@@ -384,3 +384,11 @@
 
 <!ENTITY viewVideoCmd.label           "Shiheni Videon">
 <!ENTITY viewVideoCmd.accesskey       "S">
+
+
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Shfletim Vetjak)">
+<!ENTITY privateBrowsingCmd.label            "Shfletim Vetjak">
+<!ENTITY privateBrowsingCmd.accesskey        "S">
+
