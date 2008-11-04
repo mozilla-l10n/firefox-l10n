@@ -39,6 +39,10 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " – ">
 
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (privatusis naršymas)">
+
 <!ENTITY tabCmd.label "Nauja kortelė">
 <!ENTITY tabCmd.accesskey "k">
 <!ENTITY tabCmd.commandkey "t">
@@ -149,7 +153,7 @@
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Priedai">
 <!ENTITY addons.tooltip               "Rodyti ir tvarkyti įdiegtus priedus">
-<!ENTITY addons.accesskey             "P">
+<!ENTITY addons.accesskey             "r">
 
 <!ENTITY errorConsoleCmd.label        "Klaidų pultas">
 <!ENTITY errorConsoleCmd.accesskey    "K">
@@ -191,6 +195,9 @@
 
 <!ENTITY clearPrivateDataCmd.label            "Pašalinti privačius duomenis">
 <!ENTITY clearPrivateDataCmd.accesskey        "š">
+
+<!ENTITY privateBrowsingCmd.label            "Privatusis naršymas">
+<!ENTITY privateBrowsingCmd.accesskey        "P">
 
 <!ENTITY viewMenu.label         "Rodymas"> 
 <!ENTITY viewMenu.accesskey       "R"> 
