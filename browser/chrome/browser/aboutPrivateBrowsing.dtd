@@ -1,0 +1,13 @@
+<!ENTITY privatebrowsingpage.tabtitle                  "Navigation privée">
+
+<!ENTITY privatebrowsingpage.pagetitle                 "Navigation privée">
+
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; ne conservera aucun historique pour cette session.">
+<!ENTITY privatebrowsingpage.longDesc                  "Aucun historique ne sera enregistré par &brandShortName; au cours de cette session de navigation. En font partie l'historique de navigation, l'historique des recherches, l'historique des téléchargements, les entrées de formulaires, cookies et fichiers temporaires. Cependant, tout fichier téléchargé ou marque-page que vous ajoutez sera conservé.">
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Vous pouvez commencer par nettoyer votre historique récent.">
+<!ENTITY privatebrowsingpage.recentHistory.label       "Nettoyer l'historique récent">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey   "c">
+
+<!ENTITY privatebrowsingpage.howToStopDesc             "Pour arrêter la navigation privée, décochez Outils &gt; Navigation privée.">
+<!ENTITY privatebrowsingpage.footerDesc                "C'est parti !">
