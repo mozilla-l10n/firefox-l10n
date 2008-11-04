@@ -417,5 +417,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Ιδιωτική περιήγηση)">
+
+<!ENTITY privateBrowsingCmd.label            "Ιδιωτική περιήγηση">
+<!ENTITY privateBrowsingCmd.accesskey        "δ">
+
+
 
 

@@ -1,0 +1,14 @@
+<!ENTITY privatebrowsingpage.tabtitle                  "Ιδιωτική περιήγηση">
+
+<!ENTITY privatebrowsingpage.pagetitle                 "Ιδιωτική περιήγηση">
+
+<!ENTITY privatebrowsingpage.issueDesc                 "Ο &brandShortName; δεν θα αποθηκεύει ιστορικό για αυτή τη συνεδρία.">
+<!ENTITY privatebrowsingpage.longDesc                  "Δεν θα γίνεται καταγραφή ιστορικού για αυτή την συνεδρία από τον &brandShortName;.  Αυτό περιλαμβάνει ιστορικό περιηγητή, αναζητήσεων, λήψεων, συμπλήρωσης φορμών, cookies, και προσωρινών αρχείων διαδικτύου.  Διατηρούνται όμως τα αρχεία του κατεβάσατε και οι σελιδοδείκτες που δημιουργήσατε.">
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Ίσως να θέλετε να ξεκινήσετε διαγράφοντας το πρόσφατο ιστορικό σας.">
+<!ENTITY privatebrowsingpage.recentHistory.label       "Εκκαθάριση ιστορικού">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey   "κ">
+
+<!ENTITY privatebrowsingpage.howToStopDesc             "Για να διακόψετε την Ιδιωτική περιήγηση, αποεπιλέξτε το Tools &gt; Ιδιωτική περιήγηση.">
+<!ENTITY privatebrowsingpage.footerDesc                "Καλή συνέχεια!">
+
