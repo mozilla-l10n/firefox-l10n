@@ -1,7 +1,7 @@
 <!ENTITY mainWindow.title "&brandFullName;">
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Режим скрытия следов)">
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Режим секретности)">
 <!ENTITY tabCmd.label "Новая вкладка">
 <!ENTITY tabCmd.accesskey "в">
 <!ENTITY tabCmd.commandkey "t">
@@ -136,8 +136,8 @@
 <!ENTITY preferencesCmdUnix.accesskey "Н">
 <!ENTITY clearPrivateDataCmd.label "Удалить личные данные">
 <!ENTITY clearPrivateDataCmd.accesskey "л">
-<!ENTITY privateBrowsingCmd.label "Режим скрытия следов">
-<!ENTITY privateBrowsingCmd.accesskey "а">
+<!ENTITY privateBrowsingCmd.label "Режим секретности">
+<!ENTITY privateBrowsingCmd.accesskey "ж">
 <!ENTITY viewMenu.label "Вид">
 <!ENTITY viewMenu.accesskey "В">
 <!ENTITY viewToolbarsMenu.label "Панели инструментов">
