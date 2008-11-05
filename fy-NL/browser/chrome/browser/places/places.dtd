@@ -71,6 +71,11 @@
 <!ENTITY cmd.edit_redo.accesskey  				"n">
 <!ENTITY cmd.edit_redo.key  					"y">
 
+<!ENTITY cmd.delete.label               		"Dizze side fuortsmite">
+<!ENTITY cmd.delete.accesskey           		"D">
+<!ENTITY cmd.deleteDomainData.label     		"Ferjit dit webstee">
+<!ENTITY cmd.deleteDomainData.accesskey 		"F">
+
 <!ENTITY cmd.open.label   						"Iepenje">
 <!ENTITY cmd.open.accesskey  					"I">
 <!ENTITY cmd.open_window.label  				"Iepenje yn in Nij Finster">
