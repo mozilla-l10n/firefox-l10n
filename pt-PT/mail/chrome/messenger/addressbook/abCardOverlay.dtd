@@ -38,6 +38,7 @@
 <!ENTITY Contact.tab "Contacto">
 <!ENTITY Contact.accesskey "C">
 <!ENTITY Name.box "Nome">
+
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
@@ -45,9 +46,8 @@
  but they should not be translated (same applied to phonetic id).
  Make sure the translation of label corresponds to the order of id.
 -->
+
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
-
-
 <!ENTITY NameField1.id "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
 <!ENTITY NameField2.id "LastName">
@@ -82,8 +82,12 @@
 
 <!ENTITY allowRemoteContent.label "Permitir imagens remotas em mensagens HTML.">
 <!ENTITY allowRemoteContent.accesskey "g">
+<!ENTITY allowRemoteContent.tooltip     "Em mensagens  HTML é possível
+incluir imagens de origens remotas. Abrir assim uma mensagem irá abrir
+uma ligação a uma fonte externa. Isto pode levar a um seguimento da mensagem
+ao ser lida. Ao seleccionar esta caixa irá permitir imagens remotas em
+mensagens HTML deste contacto.">
 
-<!ENTITY Phones.box "Telefones">
 <!ENTITY WorkPhone.label "Trabalho:">
 <!ENTITY WorkPhone.accesskey "t">
 <!ENTITY HomePhone.label "Casa:">
@@ -95,9 +99,8 @@
 <!ENTITY CellularNumber.label "Telemóvel:">
 <!ENTITY CellularNumber.accesskey "V">
 
-<!ENTITY Address.tab "Endereço">
-<!ENTITY Address.accesskey "E">
-<!ENTITY Home.box "Casa">
+<!ENTITY Home.tab                       "Privado">
+<!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label "Endereço:">
 <!ENTITY HomeAddress.accesskey "d">
 <!ENTITY HomeAddress2.label "">
@@ -112,7 +115,9 @@
 <!ENTITY HomeCountry.accesskey "s">
 <!ENTITY HomeWebPage.label "Página Web:">
 <!ENTITY HomeWebPage.accesskey "W">
-<!ENTITY Work.box "Trabalho">
+
+<!ENTITY Work.tab "Trabalho">
+<!ENTITY Work.accesskey                 "T">
 <!ENTITY JobTitle.label "Título:">
 <!ENTITY JobTitle.accesskey "u">
 <!ENTITY Department.label "Departamento:">
@@ -149,5 +154,5 @@
 <!ENTITY Custom3.accesskey "3">
 <!ENTITY Custom4.label "Personalizado 4:">
 <!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.box "Notas">
+<!ENTITY Notes.label "Notas">
 <!ENTITY Notes.accesskey "N">
