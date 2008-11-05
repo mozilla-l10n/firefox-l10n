@@ -1,8 +1,8 @@
 <!ENTITY itemGeneral.label "כללי">
 <!ENTITY itemAutoComplete.label "מיעון">
 <!ENTITY itemSpellCheck.label "איות">
-<!ENTITY itemSendFormat.label "תבנית שליחה">
-<!ENTITY forwardReply.label "העברת הודעות">
+<!-- ### ENTITY itemSendFormat.label "תבנית שליחה" -->
+<!-- ### ENTITY forwardReply.label "העברת הודעות" -->
 <!ENTITY forwardMsg.label "הודעות מועברות:">
 <!ENTITY forwardMsg.accesskey "ה">
 <!ENTITY inline.label "בתוך השורה">
@@ -23,7 +23,7 @@
 <!ENTITY bgColor.accesskey "ר">
 <!ENTITY restoreHTMLDefaults.label "שחזר ברירות מחדל">
 <!ENTITY restoreHTMLDefaults.accesskey "ב">
-<!ENTITY sendingMessagesHeader.label "חיבור הודעות">
+<!-- ### ENTITY sendingMessagesHeader.label "חיבור הודעות" -->
 <!ENTITY spellCheck.label "בדוק איות לפני שליחה">
 <!ENTITY spellCheck.accesskey "ב">
 <!ENTITY spellCheckInline.label "אפשר בדיקת איות תוך כדי הקלדה">
@@ -53,9 +53,9 @@
 <!ENTITY directories.accesskey "ש">
 <!ENTITY editDirectories.label "ערוך ספריות...">
 <!ENTITY editDirectories.accesskey "ע">
-<!ENTITY matchText.label "אם יש התאמה בפנקסי הכתובות המקומיים שלך:">
-<!ENTITY skipDirectory.label "אל תחפש במדריך">
-<!ENTITY sendOptionsCaption.label "שליחה ואפשרויות HTML">
+<!-- ### ENTITY matchText.label "אם יש התאמה בפנקסי הכתובות המקומיים שלך:" -->
+<!-- ### ENTITY skipDirectory.label "אל תחפש במדריך" -->
+<!-- ### ENTITY sendOptionsCaption.label "שליחה ואפשרויות HTML" -->
 <!ENTITY sendOptionsDescription.label "הגדר התנהגות סגנון טקסט">
 <!ENTITY sendOptions.label "אפשרויות שליחה...">
 <!ENTITY sendOptions.accesskey "ל">
