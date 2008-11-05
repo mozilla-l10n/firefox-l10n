@@ -2,19 +2,14 @@
 <!ENTITY window.width "36em">
 <!ENTITY window.macWidth "42em">
 <!ENTITY checking.title "Controllo aggiornamenti">
-<!ENTITY checking.label "&brandShortName; sta controllando gli aggiornamenti…">
-<!ENTITY cancel.label "Annulla">
-<!ENTITY cancel.accesskey "A">
+<!ENTITY updateCheck.label "Ricerca in corso di nuove versioni di &brandShortName;…">
 <!ENTITY noupdatesfound.title "Nessun aggiornamento trovato">
 <!ENTITY noupdatesautoenabled.intro "Non sono disponibili nuovi aggiornamenti. &brandShortName; controllerà periodicamente la presenza di aggiornamenti.">
 <!ENTITY noupdatesautodisabled.intro "Non sono disponibili nuovi aggiornamenti. Ricontrollare più tardi o attivare il controllo automatico degli aggiornamenti di &brandShortName;.">
-<!ENTITY incompatibleChecking.label "Verifica in corso dell'aggiornamento per compatibilità con le estensioni o i temi installati…">
+<!ENTITY incompatibleCheck.title "Verifica compatibilità componenti aggiuntivi">
+<!ENTITY incompatibleCheck.label "Ricerca in corso di nuove versioni dei componenti aggiuntivi…">
 <!ENTITY clickHere.label "Visualizza altre informazioni su questo aggiornamento">
-<!ENTITY incompatible.warning "Questo aggiornamento bloccherà il funzionamento di alcuni temi o estensioni
-                                           finché non verranno aggiornati.">
-<!ENTITY listIncompatible.label "Mostra elenco">
-<!ENTITY listIncompatible.accesskey "M">
-<!ENTITY upgrade.evangelism "Si raccomanda di aggiornare al più presto &brandShortName;.">
+<!ENTITY evangelism.desc "Si consiglia di installare il prima possibile questo aggiornamento di &brandShortName;.">
 <!ENTITY license.instructions "Se si accettano i termini dell'accordo di licenza fare clic su Accetto per continuare con l'installazione dell'aggiornamento.">
 <!ENTITY license.titleText "Contratto di licenza software">
 <!ENTITY license.introText "Termini e condizioni per l'utilizzo del software.">
@@ -23,31 +18,26 @@
 <!ENTITY license.accept.accesskey "e">
 <!ENTITY license.decline "Non accetto i termini del contratto di licenza">
 <!ENTITY license.decline.accesskey "N">
+<!ENTITY incompatibleList.title "Rilevati componenti aggiuntivi non compatibili">
 <!ENTITY downloading.title "Download degli aggiornamenti">
 <!ENTITY downloading.intro "Download degli aggiornamenti…">
 <!ENTITY connecting.label "Connessione al server degli aggiornamenti…">
 <!ENTITY verificationFailedText.label "&brandShortName; non può verificare l'integrità dell'aggiornamento 
                                             incrementale scaricato, perciò verrà scaricato il pacchetto di
                                             aggiornamento completo.">
+<!ENTITY viewDetails.tooltip "Visualizza i dettagli di questo aggiornamento">
 <!ENTITY details.link "Dettagli">
-<!ENTITY pause.label "Pausa">
-<!ENTITY pause.accesskey "P">
-<!ENTITY close.label "Chiudi">
-<!ENTITY close.accesskey "C">
 <!ENTITY error.label "Si è verificato un problema nel controllo, nel download o nell'installazione di questo aggiornamento. &brandShortName; potrebbe non essersi aggiornato poiché:">
 <!ENTITY errorManual.label "È possibile aggiornare &brandShortName; manualmente visitando il seguente link
                                            e scaricando l'ultima versione:">
 <!ENTITY errorpatching.title "Aggiornamento fallito">
 <!ENTITY errorpatching.intro "L'aggiornamento parziale non può essere applicato. 
                                            &brandShortName; ritenterà nuovamente scaricando un aggiornamento completo.">
-<!ENTITY finished.title "Aggiornamento scaricato">
-<!ENTITY finished.text "L'aggiornamento è stato scaricato e verificato correttamente. Verrà installato al prossimo avvio di &brandShortName;.">
-<!ENTITY finishedBackground.title "Aggiornamento pronto per l'installazione">
-<!ENTITY finishedBackground.text "&brandShortName; ha scaricato e verificato un aggiornamento importante.
-Fare clic sul link sottostante per maggiori dettagli.">
+<!ENTITY finishedPage.title "Aggiornamento pronto per l'installazione">
+<!ENTITY finishedPage.text "L'aggiornamento verrà installato al prossimo avvio di &brandShortName;. È possibile riavviare ora &brandShortName;, oppure proseguire con il lavoro e riavviarlo in seguito.">
+<!ENTITY finishedBackgroundPage.text "Un aggiornamento per migliorare stabilità e sicurezza di &brandShortName; è stato scaricato ed è pronto per l'installazione.">
 <!ENTITY finishedBackground.name "Aggiornamento:">
-<!ENTITY finishedBackground.more1 "Fare clic su Riavvia &brandShortName; adesso per installare l'aggiornamento immediatamente.">
-<!ENTITY finishedBackground.textNotNow "Fare clic su Non adesso per chiudere questa finestra e continuare con il lavoro. &brandShortName; installerà l'aggiornamento al prossimo avvio.">
+<!ENTITY finishedBackground.more "L'aggiornamento verrà installato al prossimo avvio di &brandShortName;. È possibile riavviare ora &brandShortName;, oppure proseguire con il lavoro e riavviarlo in seguito.">
 <!ENTITY installed.title "Aggiornamento installato">
 <!ENTITY installed.intro "L'aggiornamento è stato installato correttamente.">
 <!ENTITY whatsnew.label "Informazioni sulle novità…">

@@ -327,3 +327,4 @@
 <!ENTITY identity.runBy "Questo sito è gestito da">
 <!ENTITY identity.moreInfoLinkText "Altre informazioni su questo sito…">
 <!ENTITY downloadMonitor2.tooltip "Fare clic per aprire la finestra dei download">
+<!ENTITY ctrlTab.search.emptyText "Cerca schede">

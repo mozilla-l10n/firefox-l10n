@@ -63,6 +63,10 @@
 <!ENTITY cmd.edit_redo.label "Ripeti">
 <!ENTITY cmd.edit_redo.accesskey "R">
 <!ENTITY cmd.edit_redo.key "y">
+<!ENTITY cmd.delete.label "Elimina questa pagina">
+<!ENTITY cmd.delete.accesskey "E">
+<!ENTITY cmd.deleteDomainData.label "Dimentica questo sito">
+<!ENTITY cmd.deleteDomainData.accesskey "D">
 <!ENTITY cmd.open.label "Apri">
 <!ENTITY cmd.open.accesskey "A">
 <!ENTITY cmd.open_window.label "Apri in una nuova finestra">
