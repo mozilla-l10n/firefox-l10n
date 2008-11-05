@@ -12,8 +12,8 @@
 <!ENTITY  noupdatesautodisabled.intro     "Der binne gjin fernijings beskikber. Kontrolearje it letter op 'e nij of skeakel
                                            &brandShortName; syn automatyske fernijingskontrole yn.">
 
-<!ENTITY  incompatibleChecking.label      "Oan it kontrolearjen of dizze fernijing problemen feroarsaakje kin by jo oare útwreidings en/of tema's...">
-<!ENTITY  incompatibleCheck.label         "Kontrolearret no op fernijings fan jo tafoegings">
+<!ENTITY  incompatibleCheck.title         "Kontrolearret tafoegings kompatibiliteit">
+<!ENTITY  incompatibleCheck.label         "Siket nei fernijings fan jo tafoegings">
 
 <!ENTITY  clickHere.label                 "Besjoch mear ynformaasje oer dizze fernijing">
 
