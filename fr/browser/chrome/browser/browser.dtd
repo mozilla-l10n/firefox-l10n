@@ -427,3 +427,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Plus d'informations…">
 
 <!ENTITY downloadMonitor2.tooltip "Cliquez pour ouvrir la fenêtre des téléchargements">
+
+<!ENTITY ctrlTab.search.emptyText "Rechercher dans les onglets">
