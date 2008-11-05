@@ -1,7 +1,7 @@
 <!ENTITY mainWindow.title "&brandFullName;">
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Частный доступ)">
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Режим скрытия следов)">
 <!ENTITY tabCmd.label "Новая вкладка">
 <!ENTITY tabCmd.accesskey "в">
 <!ENTITY tabCmd.commandkey "t">
@@ -136,7 +136,7 @@
 <!ENTITY preferencesCmdUnix.accesskey "Н">
 <!ENTITY clearPrivateDataCmd.label "Удалить личные данные">
 <!ENTITY clearPrivateDataCmd.accesskey "л">
-<!ENTITY privateBrowsingCmd.label "Частный доступ">
+<!ENTITY privateBrowsingCmd.label "Режим скрытия следов">
 <!ENTITY privateBrowsingCmd.accesskey "а">
 <!ENTITY viewMenu.label "Вид">
 <!ENTITY viewMenu.accesskey "В">
