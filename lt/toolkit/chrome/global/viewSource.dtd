@@ -99,3 +99,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey "t">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY backCmd.label "Atgal">
+<!ENTITY backCmd.accesskey "A">
+<!ENTITY forwardCmd.label "Pirmyn">
+<!ENTITY forwardCmd.accesskey "P">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
