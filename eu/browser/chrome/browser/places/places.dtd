@@ -71,6 +71,11 @@
 <!ENTITY cmd.edit_redo.accesskey "R">
 <!ENTITY cmd.edit_redo.key "y">
 
+<!ENTITY cmd.delete.label "Ezabatu orri hau">
+<!ENTITY cmd.delete.accesskey "E">
+<!ENTITY cmd.deleteDomainData.label "Ahaztu gune honetaz">
+<!ENTITY cmd.deleteDomainData.accesskey "A">
+
 <!ENTITY cmd.open.label "Ireki">
 <!ENTITY cmd.open.accesskey "I">
 <!ENTITY cmd.open_window.label "Ireki leiho berri batetan">

@@ -4,10 +4,7 @@
 <!ENTITY window.macWidth "39em">
 
 <!ENTITY checking.title "Eguneraketen bila arakatzen">
-<!ENTITY checking.label "&brandShortName; eguneraketak bilatzen ari da...">
-
-<!ENTITY cancel.label "Utzi">
-<!ENTITY cancel.accesskey "U">
+<!ENTITY updateCheck.label "&brandShortName;-ren bertsio berrien bila bilatzen…">
 
 <!ENTITY noupdatesfound.title "Ez da eguneraketarik aurkitu">
 <!ENTITY noupdatesautoenabled.intro "Ez dago eguneraketarik eskuragarri. &brandShortName;-ek aldiro 
@@ -15,14 +12,13 @@ bilaturko ditu eguneraketak.">
 <!ENTITY noupdatesautodisabled.intro "Ez dago eguneraketarik eskuragarri. Mesedez arakatu beranduago edo gaitu 
 &brandShortName;-ren eguneraketa arakatze automatikoa.">
 
-<!ENTITY incompatibleChecking.label "Eguneraketa honek zure hedapen edo gaiekin arazoak sor ditzaken egiaztatzen...">
+<!ENTITY incompatibleCheck.title "Gehigarri bateragarritasuna egiaztatzen">
+<!ENTITY incompatibleCheck.label "Gehigarrien bertsio berriagoak bilatzen…">
+
 <!ENTITY clickHere.label "Ikusi eguneraketa honi buruzko xehetasun gehiago">
 
-<!ENTITY incompatible.warning "Eguneraketa honek zure hedapen edota gairen bat eguneratu artean funtzionatzeari uztea eragin dezake.">
-<!ENTITY listIncompatible.label "Erakutsi zerrenda">
-<!ENTITY listIncompatible.accesskey "Z">
-
-<!ENTITY upgrade.evangelism "Oso gomendagarria da &brandShortName; ahalik eta azkarren eguneratzea.">
+<!ENTITY evangelism.desc "Oso gomendagarria da &brandShortName; -ren
+ bertsio-berritze hau ahal bezain laster ezartzea.">
 
 <!ENTITY license.instructions "Lizentzi-kontratu honen baldintzak onartuz gero, egin klik Onartzen dut botoian instalazioarekin aurrera jarraitzeko.">
 
@@ -34,16 +30,16 @@ bilaturko ditu eguneraketak.">
 <!ENTITY license.decline "LIzentzi-kontratuaren baldintzak EZ ditut onartzen">
 <!ENTITY license.decline.accesskey "E">
 
+<!ENTITY incompatibleList.title "Gehigarri bateraezinak aurkitu dira">
+
 <!ENTITY downloading.title "Eguneraketa deskargatzen">
 <!ENTITY downloading.intro "Eguneraketa deskargatzen...">
 <!ENTITY connecting.label "Eguneraketen zerbitzarira konektatzen...">
 <!ENTITY verificationFailedText.label "&brandShortName; ez da gai deskargatu duen eguneraketa inkrementalaren integritatea egiaztatzeko, beraz eguneraketa pakete osoa deskargatzen ari da orain.">
 
+<!ENTITY viewDetails.tooltip "Ikusi bertsio-berritze honen xehetasunak">
+
 <!ENTITY details.link "Xehetasunak">
-<!ENTITY pause.label "Gelditu">
-<!ENTITY pause.accesskey "e">
-<!ENTITY close.label "Itxi">
-<!ENTITY close.accesskey "I">
 
 <!ENTITY error.label "Arazo bat gertatu da eguneraketa hau bilatu, deskargatu edo instalatzerakoan. &brandShortName; honegatik ezin da eguneratu:">
                                            
@@ -52,16 +48,15 @@ bilaturko ditu eguneraketak.">
 <!ENTITY errorpatching.title "Eguneraketak huts egin du">
 <!ENTITY errorpatching.intro "Ezin da eguneraketa partziala ezarri. &brandShortName; orain eguneraketa osoa deskargatzen saiatuko da.">
 
-<!ENTITY finished.title "Eguneraketa deskargatu da">
-<!ENTITY finished.text "Eguneraketa behar bezala deskargatu eta egiaztatu da eta &brandShortName; abiarazten den hurrengo aldian instalatuko da.">
+<!ENTITY finishedPage.title "Eguneraketa instalatzeko prest">
+<!ENTITY finishedPage.text "Bertsio-berritzea  &brandShortName; abiarazten den hurrengo aldian ezarriko da. 
+&brandShortName; orain berrabiarazi edo lanean jarraitu eta beranduago berrabiarazi dezakezu.">
 
-<!ENTITY finishedBackground.title "Eguneraketa instalatzeko prest">
-<!ENTITY finishedBackground.text "&brandShortName;(e)k eguneraketa garrantzitsu bat deskargatu eta egiaztatu du. Egin klik beheko loturan xehetasun gehiago jasotzeko.">
+<!ENTITY finishedBackgroundPage.text "&brandShortName;-ren segurtasun eta egonkortasun eguneraketa bat deskargatua izan da eta instalatzeko prest dago.">
 <!ENTITY finishedBackground.name "Eguneraketa:">
-<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
-<!ENTITY finishedBackground.more1 "Egin klik Berrabiarazi botoian &brandShortName; eguneraketa orain instalatzeko.">
-<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!ENTITY finishedBackground.textNotNow "Egin klik Beranduago botoian leiho hau itxi eta lanean jarraitzeko. &brandShortName; abiarazten den hurrengo aldian instalatuko da eguneraketa.">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY finishedBackground.more "Bertsio-berritzea  &brandShortName; abiarazten den hurrengo aldian ezarriko da. 
+ &brandShortName; orain berrabiarazi edo lanean jarraitu eta beranduago berrabiarazi dezakezu.">
 
 <!ENTITY installed.title "Eguneraketa instalatu da">
 <!ENTITY installed.intro "Eguneraketa ondo instalatu da.">
