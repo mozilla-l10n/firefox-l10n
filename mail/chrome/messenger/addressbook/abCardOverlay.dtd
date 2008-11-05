@@ -35,9 +35,9 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY Contact.tab                     "Kontakt"> 
+<!ENTITY Contact.tab                     "Kontakt">
 <!ENTITY Contact.accesskey               "K">
-<!ENTITY Name.box                        "Name"> 
+<!ENTITY Name.box                        "Name">
 
 <!-- LOCALIZATION NOTE: 
  NameField1, NameField2, PhoneticField1, PhoneticField2
@@ -48,13 +48,13 @@
 -->
 
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
-<!ENTITY NameField1.id                  "FirstName"> 
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
-<!ENTITY NameField2.id                  "LastName"> 
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField1.id              "PhoneticFirstName"> 
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField2.id              "PhoneticLastName"> 
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
 <!ENTITY NameField1.label               "Vorname:">
 <!ENTITY NameField1.accesskey           "o">
@@ -80,10 +80,10 @@
 <!ENTITY ScreenName.label               "Messenger-Name:">
 <!ENTITY ScreenName.accesskey           "r">
 
-<!ENTITY allowRemoteContent.label       "Externe Grafiken in HTML-Nachrichten erlauben">
+<!ENTITY allowRemoteContent.label       "Externe Grafiken erlauben">
 <!ENTITY allowRemoteContent.accesskey   "x">
+<!ENTITY allowRemoteContent.tooltip     "In HTML-Nachrichten können Grafiken von externen Quellen eingebunden sein. Beim Anzeigen dieser Nachrichten wird eine Verbindung zur externen Quelle hergestellt. Dabei könnte zurück verfolgt werden, dass die Nachricht gelesen wird. Durch Aktivieren dieser Option erlauben Sie das Laden der Grafiken von externen Quellen bei Nachrichten dieses Absenders.">
 
-<!ENTITY Phones.box                     "Telefon">
 <!ENTITY WorkPhone.label                "Dienstlich:">
 <!ENTITY WorkPhone.accesskey            "h">
 <!ENTITY HomePhone.label                "Privat:">
@@ -95,43 +95,43 @@
 <!ENTITY CellularNumber.label           "Mobil:">
 <!ENTITY CellularNumber.accesskey       "M">
 
-<!ENTITY Address.tab                    "Adresse"> 
-<!ENTITY Address.accesskey              "A">
-<!ENTITY Home.box                       "Privat"> 
-<!ENTITY HomeAddress.label              "Adresse:"> 
+<!ENTITY Home.tab                       "Privat">
+<!ENTITY Home.accesskey                 "P">
+<!ENTITY HomeAddress.label              "Adresse:">
 <!ENTITY HomeAddress.accesskey          "d">
-<!ENTITY HomeAddress2.label             ""> 
+<!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
-<!ENTITY HomeCity.label                 "Ort:"> 
+<!ENTITY HomeCity.label                 "Ort:">
 <!ENTITY HomeCity.accesskey             "O">
-<!ENTITY HomeState.label                "Bundesland:"> 
+<!ENTITY HomeState.label                "Bundesland:">
 <!ENTITY HomeState.accesskey            "u">
-<!ENTITY HomeZipCode.label              "PLZ:"> 
+<!ENTITY HomeZipCode.label              "PLZ:">
 <!ENTITY HomeZipCode.accesskey          "P">
 <!ENTITY HomeCountry.label              "Land:">
 <!ENTITY HomeCountry.accesskey          "L">
-<!ENTITY HomeWebPage.label              "Webseite:"> 
+<!ENTITY HomeWebPage.label              "Webseite:">
 <!ENTITY HomeWebPage.accesskey          "W">
-<!ENTITY Work.box                       "Dienstlich"> 
-<!ENTITY JobTitle.label                 "Titel:"> 
+<!ENTITY Work.tab                       "Dienstlich">
+<!ENTITY Work.accesskey                 "D">
+<!ENTITY JobTitle.label                 "Titel:">
 <!ENTITY JobTitle.accesskey             "i">
-<!ENTITY Department.label               "Abteilung:"> 
+<!ENTITY Department.label               "Abteilung:">
 <!ENTITY Department.accesskey           "t">
-<!ENTITY Company.label                  "Organisation:"> 
+<!ENTITY Company.label                  "Organisation:">
 <!ENTITY Company.accesskey              "g">
-<!ENTITY WorkAddress.label              "Adresse:"> 
+<!ENTITY WorkAddress.label              "Adresse:">
 <!ENTITY WorkAddress.accesskey          "e">
-<!ENTITY WorkAddress2.label             ""> 
+<!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
-<!ENTITY WorkCity.label                 "Ort:"> 
+<!ENTITY WorkCity.label                 "Ort:">
 <!ENTITY WorkCity.accesskey             "r">
-<!ENTITY WorkState.label                "Bundesland:"> 
+<!ENTITY WorkState.label                "Bundesland:">
 <!ENTITY WorkState.accesskey            "u">
-<!ENTITY WorkZipCode.label              "PLZ:"> 
+<!ENTITY WorkZipCode.label              "PLZ:">
 <!ENTITY WorkZipCode.accesskey          "Z">
 <!ENTITY WorkCountry.label              "Land:">
 <!ENTITY WorkCountry.accesskey          "n">
-<!ENTITY WorkWebPage.label              "Webseite:"> 
+<!ENTITY WorkWebPage.label              "Webseite:">
 <!ENTITY WorkWebPage.accesskey          "b">
 
 <!ENTITY Other.tab                      "Sonstiges">
@@ -150,5 +150,5 @@
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Benutzerdef. 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.box                      "Notizen">
+<!ENTITY Notes.label                    "Notizen">
 <!ENTITY Notes.accesskey                "N">
