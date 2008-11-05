@@ -74,16 +74,21 @@
 <!ENTITY SecondEmail.label "Adresse alternative :">
 <!ENTITY SecondEmail.accesskey "r">
 <!ENTITY PreferMailFormat.label "Préfère recevoir les messages au format :">
-<!ENTITY PreferMailFormat.accesskey "v">
+<!ENTITY PreferMailFormat.accesskey     "v">
 <!ENTITY PlainText.label "Texte simple (sans HTML)">
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Inconnu">
 <!ENTITY ScreenName.label "Pseudo AIM :">
 <!ENTITY ScreenName.accesskey "e">
 
-<!ENTITY allowRemoteContent.label "Autoriser les images distantes dans les courriels en HTML">
-<!ENTITY allowRemoteContent.accesskey "A">
-<!ENTITY Phones.box "Numéros de téléphone"> 
+<!ENTITY allowRemoteContent.label       "Autoriser les images distantes.">
+<!ENTITY allowRemoteContent.accesskey   "r">
+<!ENTITY allowRemoteContent.tooltip     "Dans les messages HTML, il est possible
+d'intégrer des images depuis des sources distantes. L'ouverture d'un tel message ouvrira
+une connexion vers cette source externe. Ceci peut permettre le traçage de la lecture
+du message. En décochant cette case, vous autoriserez de telles images externes
+dans les messages HTML de ce contact.">
+
 <!ENTITY WorkPhone.label "Travail :"> 
 <!ENTITY WorkPhone.accesskey "l">
 <!ENTITY HomePhone.label "Domicile :"> 
@@ -95,11 +100,10 @@
 <!ENTITY CellularNumber.label "Portable :"> 
 <!ENTITY CellularNumber.accesskey "t">
 
-<!ENTITY Address.tab "Adresses">
-<!ENTITY Address.accesskey "A">
-<!ENTITY Home.box "Personnelle">
-<!ENTITY HomeAddress.label "N°, rue :">
-<!ENTITY HomeAddress.accesskey "N">
+<!ENTITY Home.tab                       "Privée">
+<!ENTITY Home.accesskey                 "P">
+<!ENTITY HomeAddress.label "Adresse :">
+<!ENTITY HomeAddress.accesskey "A">
 <!ENTITY HomeAddress2.label "">
 <!ENTITY HomeAddress2.accesskey "">
 <!ENTITY HomeCity.label "Ville/Localité :">
@@ -111,8 +115,10 @@
 <!ENTITY HomeCountry.label "Pays :">
 <!ENTITY HomeCountry.accesskey "P">
 <!ENTITY HomeWebPage.label "Page Web :">
-<!ENTITY HomeWebPage.accesskey "W">
-<!ENTITY Work.box "Professionnelle">
+<!ENTITY HomeWebPage.accesskey          "e">
+
+<!ENTITY Work.tab                       "Professionnelle">
+<!ENTITY Work.accesskey                 "o">
 <!ENTITY JobTitle.label "Fonction :">
 <!ENTITY JobTitle.accesskey "F">
 <!ENTITY Department.label "Service :">
@@ -126,7 +132,7 @@
 <!ENTITY WorkCity.label "Ville/Localité :">
 <!ENTITY WorkCity.accesskey "L">
 <!ENTITY WorkState.label "État/Prov. :">
-<!ENTITY WorkState.accesskey "/">
+<!ENTITY WorkState.accesskey "v">
 <!ENTITY WorkZipCode.label "Code Postal :">
 <!ENTITY WorkZipCode.accesskey "t">
 <!ENTITY WorkCountry.label "Pays :">
@@ -149,5 +155,5 @@
 <!ENTITY Custom3.accesskey "3">
 <!ENTITY Custom4.label "Divers 4 :"> 
 <!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.box "Remarques">
-<!ENTITY Notes.accesskey "R">
+<!ENTITY Notes.label                    "Notes :">
+<!ENTITY Notes.accesskey                "N">
