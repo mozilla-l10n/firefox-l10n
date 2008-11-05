@@ -1,13 +1,13 @@
-<!ENTITY privatebrowsingpage.tabtitle                  "Nabigatze pribatua">
+<!ENTITY privatebrowsingpage.tabtitle "Nabigatze pribatua">
 
-<!ENTITY privatebrowsingpage.pagetitle                 "Nabigatze pribatua">
+<!ENTITY privatebrowsingpage.pagetitle "Nabigatze pribatua">
 
-<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName;-(e)k ez du saio honen ezer gogoratuko.">
-<!ENTITY privatebrowsingpage.longDesc                  "Ez da historiarik gordeko &brandShortName;-en nabigatze saio honetan. Nabigazio historia, bilaketa historia, deskarga historia, web inprimaki historia, cookieak eta aldiroko internet fitxategiak barne. Hala ere dekargatzen duzun edozein fitxategik edo sortzen duzun edoizen laster-markek mantendu egingo dira.">
+<!ENTITY privatebrowsingpage.issueDesc "&brandShortName;-(e)k ez du saio honen ezer gogoratuko.">
+<!ENTITY privatebrowsingpage.longDesc "Ez da historiarik gordeko &brandShortName;-en nabigatze saio honetan. Nabigazio historia, bilaketa historia, deskarga historia, web inprimaki historia, cookieak eta aldiroko internet fitxategiak barne. Hala ere dekargatzen duzun edozein fitxategik edo sortzen duzun edoizen laster-markek mantendu egingo dira.">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Agiasn azken bolarako historia garbitzen hasi nahi duzu.">
-<!ENTITY privatebrowsingpage.recentHistory.label       "Garbitu azken bolarako historia">
-<!ENTITY privatebrowsingpage.recentHistory.accesskey   "G">
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc "Agiasn azken bolarako historia garbitzen hasi nahi duzu.">
+<!ENTITY privatebrowsingpage.recentHistory.label "Garbitu azken bolarako historia">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey "G">
 
-<!ENTITY privatebrowsingpage.howToStopDesc             "Nabigazio pribatua gelditzeko, deshautatu Tresnak &gt; nabigazio pribatua.">
-<!ENTITY privatebrowsingpage.footerDesc                "Gozatu!">
+<!ENTITY privatebrowsingpage.howToStopDesc "Nabigazio pribatua gelditzeko, deshautatu Tresnak &gt; nabigazio pribatua.">
+<!ENTITY privatebrowsingpage.footerDesc "Gozatu!">
