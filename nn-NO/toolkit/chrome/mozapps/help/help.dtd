@@ -22,11 +22,10 @@
 <!ENTITY printButton.tooltip            "Skriv ut denne sida">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY searchtab.label                "Søk">
-<!ENTITY searchtab.accesskey            "S">
-<!ENTITY searchClose.tooltip            "Lat att søkjeresultat">
+<!ENTITY search.emptytext               "Søk">
+<!ENTITY searchHeader.label             "Søkjeresultat">
 <!ENTITY toctab.label                   "Innhald">
-<!ENTITY toctab.accesskey               "I">
+<!ENTITY toctab.accesskey               "n">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -47,7 +46,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zLevel.label                   "Alltid øvst">
 <!ENTITY zLevel.accesskey               "A">
 
-<!ENTITY fullZoomReduceBtn.label        "Forminske">
-<!ENTITY fullZoomReduceBtn.accesskey    "F">
-<!ENTITY fullZoomEnlargeBtn.label       "Forstørre">
-<!ENTITY fullZoomEnlargeBtn.accesskey   "o">
+<!ENTITY fullZoomReduceBtn.label        "Mindre skrift">
+<!ENTITY fullZoomReduceBtn.accesskey    "M">
+<!ENTITY fullZoomEnlargeBtn.label       "Større skrift">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "S">
