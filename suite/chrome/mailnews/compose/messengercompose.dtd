@@ -18,7 +18,7 @@
 <!ENTITY saveCmd.accesskey "s">
 <!ENTITY saveAsCmd.label "Lagre som">
 <!ENTITY saveAsCmd.accesskey "o">
-<!ENTITY saveAsFileCmd.label "Fil ...">
+<!ENTITY saveAsFileCmd.label "Fil …">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsDraftCmd.label "Utkast">
 <!ENTITY saveAsDraftCmd.accesskey "U">
@@ -26,10 +26,10 @@
 <!ENTITY saveAsTemplateCmd.accesskey "M">
 <!ENTITY attachMenu.label "Legg ved">
 <!ENTITY attachMenu.accesskey "L">
-<!ENTITY attachFileCmd.label "Fil(er) ...">
+<!ENTITY attachFileCmd.label "Fil(er) …">
 <!ENTITY attachFileCmd.key "">
 <!ENTITY attachFileCmd.accesskey "F">
-<!ENTITY attachPageCmd.label "Nettside ...">
+<!ENTITY attachPageCmd.label "Nettside …">
 <!ENTITY attachPageCmd.accesskey "N">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Personlig kort (vCard)">
@@ -42,15 +42,16 @@
 <!ENTITY sendLaterCmd.accesskey "e">
 <!ENTITY printSetupCmd.label "Utskriftsformat">
 <!ENTITY printSetupCmd.accesskey "o">
-<!ENTITY printCmd.label "Skriv ut ...">
+<!ENTITY printCmd.label "Skriv ut …">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "u">
 <!ENTITY closeCmd.label "Lukk">
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Tekstbrytning">
+<!ENTITY editRewrapCmd.key "T">
 <!ENTITY editRewrapCmd.accesskey "B">
-<!ENTITY findCmd.label "Søk og erstatt ...">
+<!ENTITY findCmd.label "Søk og erstatt …">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "S">
 <!ENTITY findAgainCmd.label "Søk igjen">
@@ -61,7 +62,7 @@
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.accesskey "e">
-<!ENTITY accountManagerCmd.label "Kontoinnstillinger ...">
+<!ENTITY accountManagerCmd.label "Kontoinnstillinger …">
 <!ENTITY accountManagerCmd.accesskey "K">
 
 <!-- View menu items -->
@@ -111,11 +112,11 @@
 
 <!ENTITY quoteCmd.label "Siter melding">
 <!ENTITY quoteCmd.accesskey "S">
-<!ENTITY selectAddressCmd.label "Velg adresser ...">
+<!ENTITY selectAddressCmd.label "Velg adresser …">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "V">
 
-<!ENTITY checkSpellingCmd.label "Stavekontroller ...">
+<!ENTITY checkSpellingCmd.label "Stavekontroller …">
 <!ENTITY checkSpellingCmd.key "K">
 <!ENTITY checkSpellingCmd.accesskey "a">
 <!ENTITY enableInlineSpellChecker.label "Stavekontroller mens du skriver">

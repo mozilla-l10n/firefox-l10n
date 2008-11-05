@@ -51,6 +51,8 @@
 <!ENTITY setDefaultMail.accesskey         "E">
 <!ENTITY setDefaultNews.label             "Nyhetsgrupper">
 <!ENTITY setDefaultNews.accesskey         "N">
+<!ENTITY setDefaultFeed.label             "Nyhetskilder">
+<!ENTITY setDefaultFeed.accesskey         "h">
 
 <!ENTITY messengerStartPage.caption       "Startside for e-post">
 <!ENTITY enableStartPage.label            "Vis denne startsiden i meldingsområdet ved oppstart">

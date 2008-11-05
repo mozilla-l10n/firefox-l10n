@@ -80,10 +80,14 @@
 <!ENTITY ScreenName.label               "Skjermnavn:">
 <!ENTITY ScreenName.accesskey           "S">
 
-<!ENTITY allowRemoteContent.label       "Tillat bilder fra nettsteder i HTML e-post.">
+<!ENTITY allowRemoteContent.label       "Tillat bilder fra eksterne kilder.">
 <!ENTITY allowRemoteContent.accesskey   "T">
+<!ENTITY allowRemoteContent.tooltip     "I HTML-meldinger er det mulig å
+legge ved bilder fra eksterne kilder. Ved åpning av meldinger vil tilkoblinger
+til den eksterne kilden åpnes. Dette kan gjøre det mulig å spore
+at meldingen blir lest. Ved å krysse av her, tillater du slike innbundne
+bilder i HTML-meldinger fra denne kontakten.">
 
-<!ENTITY Phones.box                     "Telefoner">
 <!ENTITY WorkPhone.label                "Arbeid:">
 <!ENTITY WorkPhone.accesskey            "A">
 <!ENTITY HomePhone.label                "Hjemme:">
@@ -95,9 +99,8 @@
 <!ENTITY CellularNumber.label           "Mobiltelefon:">
 <!ENTITY CellularNumber.accesskey       "M">
 
-<!ENTITY Address.tab                    "Adresse"> 
-<!ENTITY Address.accesskey              "A">
-<!ENTITY Home.box                       "Hjem"> 
+<!ENTITY Home.tab                       "Privat">
+<!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "Adresse:"> 
 <!ENTITY HomeAddress.accesskey          "d">
 <!ENTITY HomeAddress2.label             ""> 
@@ -112,7 +115,9 @@
 <!ENTITY HomeCountry.accesskey          "L">
 <!ENTITY HomeWebPage.label              "Nettside:"> 
 <!ENTITY HomeWebPage.accesskey          "N">
-<!ENTITY Work.box                       "Arbeid"> 
+
+<!ENTITY Work.tab                       "Arbeid">
+<!ENTITY Work.accesskey                 "A">
 <!ENTITY JobTitle.label                 "Tittel:"> 
 <!ENTITY JobTitle.accesskey             "T">
 <!ENTITY Department.label               "Avdeling:"> 
@@ -149,5 +154,5 @@
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Egendefinert 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.box                      "Notater">
+<!ENTITY Notes.label                    "Notater">
 <!ENTITY Notes.accesskey                "N">
