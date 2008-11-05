@@ -1,5 +1,5 @@
 <!ENTITY  typeColumn.label        "Inhoudstype">
-<!ENTITY  typeColumn.accesskey    "I">
+<!ENTITY  typeColumn.accesskey    "t">
 
 <!ENTITY  actionColumn2.label     "Actie">
 <!ENTITY  actionColumn2.accesskey "A">

@@ -47,7 +47,6 @@
 <!ENTITY filterPrefs.accesskey "F">
 <!ENTITY focusFilter.key "f">
 
-
 <!-- Columns -->
 <!ENTITY prefColumn.label "Voorkeurnaam">
 <!ENTITY lockColumn.label "Status">

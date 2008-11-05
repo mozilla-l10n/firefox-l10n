@@ -1,9 +1,9 @@
 <!ENTITY restorepage.title          "Vorige sessie herstellen">
-<!ENTITY restorepage.titletext      "Uw laatste sessie van &brandShortName; onverwacht afgesloten">
-<!ENTITY restorepage.shortDesc      "U kunt de tabbladen en vensters van uw vorige sessie herstellen, of een nieuwe sessie starten als ze niet meer nodig zijn. Onze excusses voor het ongemak.">
-<!ENTITY restorepage.remedies       "Als &brandShortName; regelmatig afsluit:">
-<!ENTITY restorepage.dueToChrome    "Probeer recent toegevoegde extensies in de add-on beheerder uit te schakelen.">
-<!ENTITY restorepage.dueToContent   "Probeer uw sessie te herstellen zonder webpagina's die volgens u het probleem veroorzaken:">
+<!ENTITY restorepage.titletext      "Uw laatste sessie van &brandShortName; is onverwacht afgesloten">
+<!ENTITY restorepage.shortDesc      "U kunt de tabbladen en vensters van uw vorige sessie herstellen, of een nieuwe sessie starten als deze niet meer nodig zijn. Onze excuses voor het ongemak.">
+<!ENTITY restorepage.remedies       "Als &brandShortName; herhaaldelijk afsluit:">
+<!ENTITY restorepage.dueToChrome    "Proberen onlangs toegevoegde extensies in de add-onbeheerder uit te schakelen.">
+<!ENTITY restorepage.dueToContent   "Proberen uw sessie te herstellen zonder webpagina’s die volgens u het probleem zouden kunnen veroorzaken:">
 
 <!ENTITY restorepage.restoreButton  "Vorige sessie herstellen">
 <!ENTITY restorepage.restore.access "V">
