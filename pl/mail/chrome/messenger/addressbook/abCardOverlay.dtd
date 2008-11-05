@@ -80,10 +80,10 @@
 <!ENTITY ScreenName.label               "Komunikator AIM:">
 <!ENTITY ScreenName.accesskey           "K">
 
-<!ENTITY allowRemoteContent.label       "Zezwól na zdalne obrazki w wiadomościach HTML">
+<!ENTITY allowRemoteContent.label       "Zezwól na zdalne obrazki w wiadomościach.">
 <!ENTITY allowRemoteContent.accesskey   "Z">
+<!ENTITY allowRemoteContent.tooltip     "W wiadomościach HTML możliwe jest wstawianie zdalnych obrazków. Otwarcie takiej wiadomości otworzy połączenie ze zdalnym zasobem co może umożliwić wysyłającemu śledzić, czy wiadomość została odczytana. Zaznaczenie tego pola pozwoli automatycznie wczytywać takie zdalne obrazki w wiadomościach od tego kontaktu.">
 
-<!ENTITY Phones.box                     "Telefony">
 <!ENTITY WorkPhone.label                "Praca:">
 <!ENTITY WorkPhone.accesskey            "a">
 <!ENTITY HomePhone.label                "Dom:">
@@ -94,9 +94,9 @@
 <!ENTITY PagerNumber.accesskey          "g">
 <!ENTITY CellularNumber.label           "Telefon komórkowy:">
 <!ENTITY CellularNumber.accesskey       "T">
-<!ENTITY Address.tab                    "Adres">
-<!ENTITY Address.accesskey              "s">
-<!ENTITY Home.box                       "Domowy">
+
+<!ENTITY Home.tab                       "Prywatny:">
+<!ENTITY Home.accesskey                 "y">
 <!ENTITY HomeAddress.label              "Adres:">
 <!ENTITY HomeAddress.accesskey          "A">
 <!ENTITY HomeAddress2.label             "">
@@ -111,9 +111,11 @@
 <!ENTITY HomeCountry.accesskey          "P">
 <!ENTITY HomeWebPage.label              "Strona WWW:">
 <!ENTITY HomeWebPage.accesskey          "W">
-<!ENTITY Work.box                       "Służbowy">
+
+<!ENTITY Work.tab                       "Służbowy">
+<!ENTITY Work.accesskey                 "u">
 <!ENTITY JobTitle.label                 "Stanowisko:">
-<!ENTITY JobTitle.accesskey             ""><!-- FIXME -->
+<!ENTITY JobTitle.accesskey             "S">
 <!ENTITY Department.label               "Dział:">
 <!ENTITY Department.accesskey           "z">
 <!ENTITY Company.label                  "Firma/Organizacja:">
@@ -147,5 +149,5 @@
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Informacja 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.box                      "Notatki">
+<!ENTITY Notes.label                    "Notatki:">
 <!ENTITY Notes.accesskey                "N">
