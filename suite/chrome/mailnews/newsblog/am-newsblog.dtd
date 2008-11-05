@@ -1,0 +1,20 @@
+<!ENTITY newsblogTitle.label "RSS-Account-Einstellungen">
+
+<!ENTITY biffStart.label "Alle">
+<!ENTITY biffStart.accesskey "A">
+<!ENTITY biffEnd.label "Minuten auf neue Artikel prüfen">
+
+<!ENTITY loginAtStartup.label "Beim Starten auf neue Artikel prüfen"> 
+<!ENTITY loginAtStartup.accesskey "B">
+
+<!ENTITY useQuickMode.label "Als Standard die Artikel-Zusammenfassung anzeigen, anstatt die Webseite anzuzeigen"> 
+<!ENTITY useQuickMode.accesskey "S">
+
+<!ENTITY manageSubscriptions.label "Abonnements verwalten…"> 
+<!ENTITY manageSubscriptions.accesskey "o">
+
+<!-- entities from defaults/isp/rss.rdf -->
+<!ENTITY rss.accountName            "News &amp; Blogs">
+<!ENTITY rss.wizardShortName        "RSS">  
+<!ENTITY rss.wizardLongName         "RSS-News &amp; Blogs">
+<!ENTITY rss.wizardLongName.accesskey "R">

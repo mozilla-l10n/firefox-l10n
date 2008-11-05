@@ -70,6 +70,10 @@
 <!ENTITY saveImageAsCmd.label         "Grafik speichern unter…">
 <!ENTITY saveImageCmd.label           "Grafik speichern">
 <!ENTITY saveImageCmd.accesskey       "p">
+<!ENTITY saveVideoCmd.label           "Video speichern unter…">
+<!ENTITY saveVideoCmd.accesskey       "u">
+<!ENTITY saveAudioCmd.label           "Audio speichern unter…">
+<!ENTITY saveAudioCmd.accesskey       "u">
 <!ENTITY copyCmd.label                "Kopieren">
 <!ENTITY copyCmd.accesskey            "K">
 <!ENTITY selectAllCmd.label           "Alles auswählen">
@@ -78,6 +82,10 @@
 <!ENTITY copyLinkCmd.accesskey        "A">
 <!ENTITY copyImageCmd.label           "Grafik kopieren">
 <!ENTITY copyImageCmd.accesskey       "k">
+<!ENTITY copyVideoURLCmd.label        "Video-Adresse kopieren">
+<!ENTITY copyVideoURLCmd.accesskey    "V">
+<!ENTITY copyAudioURLCmd.label        "Audio-Adresse kopieren">
+<!ENTITY copyAudioURLCmd.accesskey    "u">
 <!ENTITY metadataCmd.label            "Eigenschaften">
 <!ENTITY metadataCmd.accesskey        "i">
 <!ENTITY copyEmailCmd.label           "E-Mail-Adresse kopieren">
@@ -94,6 +102,18 @@
 <!ENTITY redoCmd.accesskey            "W">
 <!ENTITY thisFrameMenu.label          "Aktueller Frame">
 <!ENTITY thisFrameMenu.accesskey      "A">
+<!ENTITY mediaPlay.label              "W">
+<!ENTITY mediaPlay.accesskey          "Wiedergabe">
+<!ENTITY mediaPause.label             "Pause">
+<!ENTITY mediaPause.accesskey         "P">
+<!ENTITY mediaMute.label              "Stumm schalten">
+<!ENTITY mediaMute.accesskey          "S">
+<!ENTITY mediaUnmute.label            "Laut schalten">
+<!ENTITY mediaUnmute.accesskey        "L">
+<!ENTITY mediaShowControls.label      "Medien-Steuerelemente anzeigen">
+<!ENTITY mediaShowControls.accesskey  "M">
+<!ENTITY mediaHideControls.label      "Medien-Steuerelemente verstecken">
+<!ENTITY mediaHideControls.accesskey  "M">
 <!ENTITY search.accesskey             "W">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Seitenrichtung umschalten">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "u">
