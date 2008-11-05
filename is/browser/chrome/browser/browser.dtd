@@ -422,3 +422,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "sem er keyrt af">
 <!ENTITY identity.moreInfoLinkText "Nánari upplýsingar…">
 <!ENTITY downloadMonitor2.tooltip "Smelltu til að opna niðurhalsglugga">
+<!ENTITY ctrlTab.search.emptyText "Leita í flipum">

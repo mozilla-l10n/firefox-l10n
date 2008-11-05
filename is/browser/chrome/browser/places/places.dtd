@@ -64,6 +64,10 @@
 <!ENTITY cmd.edit_redo.label "Endurtaka">
 <!ENTITY cmd.edit_redo.accesskey "R">
 <!ENTITY cmd.edit_redo.key "y">
+<!ENTITY cmd.delete.label "Eyða þessari síðu">
+<!ENTITY cmd.delete.accesskey "E">
+<!ENTITY cmd.deleteDomainData.label "Gleyma þessu vefsvæði">
+<!ENTITY cmd.deleteDomainData.accesskey "F">
 <!ENTITY cmd.open.label "Opna">
 <!ENTITY cmd.open.accesskey "O">
 <!ENTITY cmd.open_window.label "Opna í nýjum glugga">

@@ -2,22 +2,17 @@
 <!ENTITY window.width "36em">
 <!ENTITY window.macWidth "45em">
 <!ENTITY checking.title "Athuga uppfærslur">
-<!ENTITY checking.label "&brandShortName; er að athuga uppfærslur…">
-<!ENTITY cancel.label "Hætta við">
-<!ENTITY cancel.accesskey "H">
+<!ENTITY updateCheck.label "Leita að nýrri útgáfu af &brandShortName;…">
 <!ENTITY noupdatesfound.title "Engar uppfærslur fundust">
 <!ENTITY noupdatesautoenabled.intro "Engar uppfærslur eru til. &brandShortName; mun athuga
                                            reglulega hvort til eru uppfærslur.">
 <!ENTITY noupdatesautodisabled.intro "Engar uppfærslur eru til. Vinsamlega athugaðu aftur seinna eða virkjaðu
                                            sjálfvirkar uppfærslur fyrir &brandShortName;.">
-<!ENTITY incompatibleChecking.label "Er að athuga ef þessi uppfærsla mun valda vandræðum með viðbætur og/eða þema…">
+<!ENTITY incompatibleCheck.title "Athuga samhæfni viðbótar">
+<!ENTITY incompatibleCheck.label "Leita að uppfærðum viðbótum…">
 <!ENTITY clickHere.label "Skoða meiri upplýsingar um uppfærslu">
-<!ENTITY incompatible.warning "Þessi uppfærsla mun valda því að einhverjar viðbætur og/eða þema
-                                           mun hætta að virka þangað til þær eru uppfærðar.">
-<!ENTITY listIncompatible.label "Sýna lista">
-<!ENTITY listIncompatible.accesskey "L">
-<!ENTITY upgrade.evangelism "Mælt er með því að þú uppfærir &brandShortName; 
-                                           eins fljótt og auðið er.">
+<!ENTITY evangelism.desc "Við mælum með því að þú setjir inn þessa
+                                           uppfærslu fyrir &brandShortName; eins fljótt og auðið er.">
 <!ENTITY license.instructions "Ef þú samþykkir skilmála þessa samnings, smelltu þá á Ég samþykki
                                            hérna fyrir neðan til að halda áfram uppsetningu.">
 <!ENTITY license.titleText "Hugbúnaðarleyfis samningur">
@@ -27,17 +22,15 @@
 <!ENTITY license.accept.accesskey "g">
 <!ENTITY license.decline "Ég samþykki EKKI skilmála samningsins">
 <!ENTITY license.decline.accesskey "E">
+<!ENTITY incompatibleList.title "Ósamhæfðar viðbætur fundust">
 <!ENTITY downloading.title "Niðurhala uppfærslu">
 <!ENTITY downloading.intro "Niðurhala uppfærslu…">
 <!ENTITY connecting.label "Tengist við uppfærslu þjón…">
 <!ENTITY verificationFailedText.label "&brandShortName; gat ekki sannreynt áreiðanleika 
                                            uppfærslunnar, þannig að í staðinn er verið að niðurhala
                                            heildaruppfærslu pakka.">
+<!ENTITY viewDetails.tooltip "Skoða nánari upplýsingar fyrir þessa uppfærslu">
 <!ENTITY details.link "Nánar">
-<!ENTITY pause.label "Í bið">
-<!ENTITY pause.accesskey "b">
-<!ENTITY close.label "Loka">
-<!ENTITY close.accesskey "L">
 <!ENTITY error.label "Upp komu villur við að athuga, ná í eða setja upp
                                            uppfærsluna. Ekki var hægt að uppfæra &brandShortName; vegna:">
 
@@ -49,18 +42,15 @@
 <!ENTITY errorpatching.title "Uppfærsla mistókst">
 <!ENTITY errorpatching.intro "Ekki var hægt að setja upp bótar uppfærslu. 
                                            &brandShortName; mun reyna að ná í heildaruppfærslu.">
-<!ENTITY finished.title "Uppfærsla niðurhalið">
-<!ENTITY finished.text "Uppfærsla var niðurhalið og sannreynd, og verður
-                                           sett upp í næsta skipti þegar &brandShortName; er ræst aftur.">
-<!ENTITY finishedBackground.title "Uppfærsla tilbúin til uppsetningar">
-<!ENTITY finishedBackground.text "&brandShortName; er búinn að niðurhala og sannreyna mikilvæga uppfærslu.
-                                           Smelltu á krækju fyrir neðan fyrir meiri upplýsingar.">
+<!ENTITY finishedPage.title "Uppfærsla tilbúin til uppsetningar">
+<!ENTITY finishedPage.text "Uppfærslan verður sett inn í næsta skipti sem &brandShortName; verður endurræstur. Þú 
+                                           getur endurræst &brandShortName; núna, eða haldið áfram að vinna og endurræst seinna.">
+<!ENTITY finishedBackgroundPage.text "Búið er að niðurhala öryggis- og stöðugleikauppfærslu fyrir &brandShortName;
+                                           og er hún tilbúinn til innsetningar.">
 <!ENTITY finishedBackground.name "Uppfærsla:">
-<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
-<!ENTITY finishedBackground.more1 "Smelltu á endurræsa &brandShortName; núna til að setja upp uppfærslu strax.">
-<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!ENTITY finishedBackground.textNotNow "Smelltu á Ekki núna til að loka þessum glugga og halda áfram að vinna. &brandShortName;
-                                           mun setja upp uppfærsluna í næsta skipti sem hann ræsir.">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY finishedBackground.more "Uppfærslan verður sett inn í næsta skipti sem &brandShortName; verður endurræstur. Þú
+                                           getur endurræst &brandShortName; núna, eða haldið áfram að vinna og endurræst seinna.">
 <!ENTITY installed.title "Uppfærsla sett upp">
 <!ENTITY installed.intro "Uppsetning uppfærslu tókst.">
 <!ENTITY whatsnew.label "Lesa hvað er nýtt…">

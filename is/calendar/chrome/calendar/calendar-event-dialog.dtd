@@ -355,6 +355,7 @@
 <!ENTITY read.only.reply.label "Svar:">
 <!ENTITY read.only.accept.label "Ég mæti">
 <!ENTITY read.only.decline.label "Ég mæti ekki">
+<!ENTITY read.only.tentative.label "Ég mæti kannski">
 <!ENTITY read.only.needs.action.label "Ég staðfesti seinna">
 <!ENTITY read.only.reminder.label "Áminning:">
 <!ENTITY read.only.attendees.label "Þátttakendur">
