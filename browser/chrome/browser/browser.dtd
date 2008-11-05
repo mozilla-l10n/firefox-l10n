@@ -327,3 +327,4 @@
 <!ENTITY identity.runBy "que pertenece a">
 <!ENTITY identity.moreInfoLinkText "Más información…">
 <!ENTITY downloadMonitor2.tooltip "Clic para abrir la ventana de descargas">
+<!ENTITY ctrlTab.search.emptyText "Buscar pestañas">
