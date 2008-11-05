@@ -339,6 +339,7 @@
 <!ENTITY read.only.reply.label "Rispondi:">
 <!ENTITY read.only.accept.label "Parteciperò">
 <!ENTITY read.only.decline.label "Non parteciperò">
+<!ENTITY read.only.tentative.label "Forse posso partecipare">
 <!ENTITY read.only.needs.action.label "Confermerò più tardi">
 <!ENTITY read.only.reminder.label "Promemoria:">
 <!ENTITY read.only.attendees.label "Partecipanti">

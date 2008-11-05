@@ -47,6 +47,6 @@
 <!ENTITY pref.categories.color.label "Colore">
 <!ENTITY pref.categories.usecolor.label "Usa colore">
 <!ENTITY pref.categories.none.label "(nessuno)">
-<!ENTITY pref.categories.overwrite "Esiste già una categoria con questo nome. \n La vuoi sovrascrivere?">
+<!ENTITY pref.categories.overwrite "Esiste già una categoria con questo nome. \n Sovrascriverla?">
 <!ENTITY pref.categories.overwrite.title "Attenzione: nome duplicato">
 <!ENTITY pref.categories.noBlankCategories "È necessario inserire un nome di categoria.">
