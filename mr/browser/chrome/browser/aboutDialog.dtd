@@ -5,3 +5,6 @@
 <!ENTITY aboutLink.accesskey    "A">
 <!ENTITY copyright.accesskey    "C">
 <!ENTITY copyrightInfo          "&#169;1998-2008 योगदानकर्ता. सर्व हक्क सुरक्षित. फायरफॉक्स व फायरफॉक्स प्रतिक हे Mozilla संस्थापनाचे व्यापारचिन्ह आहे.  सर्व हक्क सुरक्षित.">
+<!ENTITY copyrightGNOME.accesskey   "r">
+<!ENTITY closeCmdGNOME.label        "बंद करा">  
+<!ENTITY closeCmdGNOME.accesskey    "C">
