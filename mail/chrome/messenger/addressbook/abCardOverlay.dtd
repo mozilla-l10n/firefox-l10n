@@ -122,7 +122,7 @@ Pažymėjus šią parinktį, tokie tinkle esantys paveikslai šio adresato laiš
 <!ENTITY Or.value                       "arba">
 <!ENTITY Age.emptytext                  "amžius">
 
-<!ENTITY Work.box                       "Darbovietė">
+<!ENTITY Work.tab                       "Darbovietė">
 <!ENTITY Work.accesskey                 "D">
 <!ENTITY JobTitle.label                 "Pareigos:">
 <!ENTITY JobTitle.accesskey             "e">
