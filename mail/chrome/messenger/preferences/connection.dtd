@@ -19,10 +19,10 @@
 <!-- ### ENTITY configAutoconfigText.accesskey "u" -->
 <!ENTITY reload.label "טען מחדש">
 <!ENTITY reload.accesskey "ט">
-<!ENTITY ftp.label "שרת מתווך FTP:">
-<!ENTITY ftp.accesskey "f">
-<!ENTITY gopher.label "שרת מתווך Gopher:">
-<!ENTITY gopher.accesskey "g">
+<!-- ### ENTITY ftp.label "שרת מתווך FTP:" -->
+<!-- ### ENTITY ftp.accesskey "f" -->
+<!-- ### ENTITY gopher.label "שרת מתווך Gopher:" -->
+<!-- ### ENTITY gopher.accesskey "g" -->
 <!ENTITY http.label "שרת מתווך HTTP‏:">
 <!ENTITY http.accesskey "h">
 <!ENTITY ssl.label "שרת מתווך SSL:">
