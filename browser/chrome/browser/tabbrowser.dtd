@@ -3,8 +3,8 @@
 <!ENTITY newTab.accesskey           "N">
 <!ENTITY closeTab.label             "Tabblad sluiten">
 <!ENTITY closeTab.accesskey         "s">
-<!ENTITY closeOtherTabs.label       "De andere tabbladen sluiten">
-<!ENTITY closeOtherTabs.accesskey   "a">
+<!ENTITY closeOtherTabs.label       "Overige tabbladen sluiten">
+<!ENTITY closeOtherTabs.accesskey   "e">
 <!ENTITY reloadAllTabs.label        "Alle tabbladen vernieuwen">
 <!ENTITY reloadAllTabs.accesskey    "r">
 <!ENTITY reloadTab.label            "Tabblad vernieuwen">
@@ -16,4 +16,4 @@
 <!ENTITY  bookmarkThisTab.accesskey    "m">
 <!ENTITY  undoCloseTab.label          "Tabblad sluiten ongedaan maken">
 <!ENTITY  undoCloseTab.accesskey      "o">
-<!ENTITY  newTabButton.tooltip        "Open een nieuw tabblad">
+<!ENTITY  newTabButton.tooltip        "Een nieuw tabblad openen">

@@ -1,4 +1,4 @@
-<!ENTITY newWindowsAsTabs.label       "Open nieuwe vensters in een nieuwe tabblad">
+<!ENTITY newWindowsAsTabs.label       "Nieuwe vensters openen in een nieuw tabblad">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
 <!ENTITY warnCloseMultipleTabs.label  "Mij waarschuwen bij het sluiten van meerdere tabbladen">
