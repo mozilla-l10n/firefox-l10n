@@ -4,30 +4,20 @@
 <!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  checking.title                  "Έλεγχος για ενημερώσεις">
-<!ENTITY  checking.label                  "Ο &brandShortName; ελέγχει για ενημερώσεις...">
 
-<!ENTITY  cancel.label                    "Ακύρωση">
-<!ENTITY  cancel.accesskey                "κ">
+
 
 
 
 <!ENTITY  clickHere.label                 "Πατήστε εδώ">
 
-<!ENTITY  incompatible.warning            "Αυτή η ενημέρωση θα απενεργοποιήσει κάποιες από τις επεκτάσεις και τα θέματα σας
-                                                                     μέχρι αυτά να ενημερωθούν.">
-<!ENTITY  listIncompatible.label          "Εμφάνιση λίστας">
-<!ENTITY  listIncompatible.accesskey      "λ">
 
-<!ENTITY  upgrade.evangelism              "Πρέπει να ενημερώσετε τον &brandShortName; όσο το δυνατόν πιο σύντομα 
-                                                                      πατώντας Λήψη &amp; Εγκατάσταση &#0187;.">
+
 
 <!ENTITY  downloading.intro               "Οι παρακάτω ενημερώσεις εγκαθίστανται/εγκαταστάθηκαν:">
 
 <!ENTITY  details.link                    "Λεπτομέρειες">
-<!ENTITY  pause.label                     "Παύση">
-<!ENTITY  pause.accesskey                 "Π">
-<!ENTITY  close.label                     "Κλείσιμο">
-<!ENTITY  close.accesskey                 "κ">
+
 
 
 <!ENTITY  license.titleText               "Άδεια χρήσης λογισμικού">
@@ -38,10 +28,6 @@
 <!ENTITY  license.decline                 "ΔΕΝ αποδέχομαι τους όρους της άδειας χρήσης">
 <!ENTITY  license.decline.accesskey       "Δ">
 
-<!ENTITY  finished.text                   "Η ενημέρωση λήφθηκε και επικυρώθηκε και θα εγκατασταθεί στην επόμενη εκκίνηση του &brandShortName;.">
-
-<!ENTITY  finishedBackground.text         "Ο &brandShortName; έκανε λήψη και επικύρωση μιας σημαντικής ενημέρωσης. Πατήστε το παρακάτω δεσμό για περισσότερες λεπτομέρειες.">
-<!ENTITY  finishedBackground.more1        "Πατήστε Επανεκκίνηση &brandShortName; τώρα για να εγκαταστήσετε την ενημέρωση.">
 
 
 
@@ -58,8 +44,8 @@
 
 <!ENTITY  downloading.title               "Λήψη αρχείων ενημέρωσης">
 <!ENTITY  connecting.label                "Σύνδεση με τον εξυπηρετητή ενημερώσεων...">
-<!ENTITY  finished.title                  "Έγινε λήψη της ενημέρωσης">
-<!ENTITY  finishedBackground.title        "Η ενημέρωση είναι έτοιμη να εγκατασταθεί">
+
+
 <!ENTITY  finishedBackground.name         "Ενημέρωση:">
 
 
@@ -77,10 +63,34 @@
                                            Ο &brandShortName; θα προσπαθήσει ξανά να κάνει λήψη ολόκληρης της ενημέρωσης.">
 <!ENTITY  whatsnew.label                  "Διαβάστε περισσότερα για το τι νέο υπάρχει...">
 
-<!ENTITY  incompatibleChecking.label      "Γίνεται έλεγχος για το αν αυτή η ενημέρωση θα δημιουργήσει προβλήματα με τις επεκτάσεις ή/και τα θέματα σας...">
 
-<!ENTITY  finishedBackground.textNotNow   "Πατήστε Όχι τώρα για να συνεχίσετε χωρίς επανεκκίνηση. Η ενημέρωση θα εγκατασταθεί την επόμενη φορά που θα ξεκινήσετε τον &brandShortName;.">
+
+
 
 <!ENTITY  noupdatesautoenabled.intro      "Δεν υπάρχουν νέες ενημερώσεις διαθέσιμες. Ο &brandShortName; μπορεί να ελέγχει σε περιοδικά χρονικά διαστήματα για ενημερώσεις.">
 <!ENTITY  noupdatesautodisabled.intro     "Δεν υπάρχουν νέες ενημερώσεις διαθέσιμες. Παρακαλώ ελέγξτε ξανά αργότερα ή ενεργοποιήστε τον αυτόματα έλεγχο ενημερώσεων του &brandShortName;.">
+
+
+<!ENTITY  evangelism.desc                 "Σας συστήνουμε να εγκαταστήσετε αυτή την ενημέρωση για τον &brandShortName; όσο το δυνατόν πιο σύντομα.">
+
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more         "Η ενημέρωση θα εγκατασταθεί στην επόμενη εκκίνηση του &brandShortName;. Μπορείτε
+                                           να επανεκκινήσετε τον &brandShortName; τώρα, ή να συνεχίσετε και τον επανεκκινήσετε αργότερα.">
+
+
+<!ENTITY  finishedBackgroundPage.text     "Έγινε λήψη μιας ενημέρωσης σταθερότητας και ασφάλειας για τον &brandShortName; και είναι έτοιμη για εγκατάσταση.">
+
+<!ENTITY  finishedPage.title              "Η ενημέρωση είναι έτοιμη για εγκατάσταση">
+<!ENTITY  finishedPage.text               "Η ενημέρωση θα εγκατασταθεί στην επόμενη εκκίνηση του &brandShortName;. Μπορείτε
+                                           να επανεκκινήσετε τον &brandShortName; τώρα, ή να συνεχίσετε και τον επανεκκινήσετε αργότερα.">
+
+<!ENTITY  incompatibleCheck.label         "Αναζήτηση για νεότερες εκδόσεις των προσθέτων σας…">
+
+<!ENTITY  incompatibleCheck.title         "Έλεγχος συμβατότητας προσθέτων">
+
+<!ENTITY  incompatibleList.title          "Βρέθηκαν ασύμβατα πρόσθετα">
+
+<!ENTITY  updateCheck.label               "Έλεγχος για νεότερες εκδόσεις του &brandShortName;…">
+
+<!ENTITY  viewDetails.tooltip             "Προβολή λεπτομερειών για αυτή την ενημέρωση">
 

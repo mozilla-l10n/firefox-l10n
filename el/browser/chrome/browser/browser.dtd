@@ -425,5 +425,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY privateBrowsingCmd.accesskey        "δ">
 
 
+<!ENTITY ctrlTab.search.emptyText "Αναζήτηση καρτελών">
+
 
 

@@ -53,3 +53,10 @@
 <!ENTITY textReset.commandkey2 "">
 
 
+<!ENTITY backCmd.label "Πίσω">
+<!ENTITY backCmd.accesskey "Π">
+<!ENTITY forwardCmd.label "Μπροστά">
+<!ENTITY forwardCmd.accesskey "Μ">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
+

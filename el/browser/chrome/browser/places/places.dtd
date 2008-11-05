@@ -308,3 +308,11 @@
 <!ENTITY cmd.context_new_folder.accesskey "φ">
 
 
+<!ENTITY cmd.delete.label               "Διαγραφή αυτής της σελίδας">
+<!ENTITY cmd.delete.accesskey           "Δ">
+<!ENTITY cmd.deleteDomainData.label     "Όχι απομνημόνευση αυτής της σελίδας">
+<!ENTITY cmd.deleteDomainData.accesskey "χ">
+
+
+
+
