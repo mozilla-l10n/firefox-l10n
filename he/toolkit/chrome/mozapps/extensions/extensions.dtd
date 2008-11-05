@@ -111,6 +111,7 @@
 
 <!-- Status Messsages -->
 <!ENTITY insecureUpdate.label             "לא מספק עדכונים מאובטחים.">
+<!ENTITY softBlocklisted.label            "ידועה בגרימת בעיות יציבות או אבטחה.">
 <!ENTITY toBeUpdated.label                "תוספת זו תעודכן כאשר &brandShortName; יופעל מחדש.">
 <!ENTITY getPlugins.label                 "קבל תוספים">
 <!ENTITY infoNoAddonSelected.label        "לא נבחרו עדכונים">
@@ -154,3 +155,6 @@
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "קבל תנאים והמשך…">
+
+<!ENTITY blocklist.blocked.label          "נחסם">
+<!ENTITY blocklist.checkbox.label         "מנוטרל">

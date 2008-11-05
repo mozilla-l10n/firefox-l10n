@@ -1,6 +1,17 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (גלישה פרטית)">
+
 <!ENTITY tabCmd.label "לשונית חדשה">
 <!ENTITY tabCmd.accesskey "ש">
 <!ENTITY tabCmd.commandkey "t">
@@ -139,6 +150,11 @@
 <!ENTITY preferencesCmdUnix.accesskey "ד">
 <!ENTITY clearPrivateDataCmd.label "נקה נתונים אישיים">
 <!ENTITY clearPrivateDataCmd.accesskey "נ">
+
+<!ENTITY privateBrowsingCmd.label            "גלישה פרטית">
+<!ENTITY privateBrowsingCmd.accesskey        "פ">
+
+
 <!ENTITY viewMenu.label "תצוגה">
 <!ENTITY viewMenu.accesskey "ת">
 <!ENTITY viewToolbarsMenu.label "סרגלי כלים">

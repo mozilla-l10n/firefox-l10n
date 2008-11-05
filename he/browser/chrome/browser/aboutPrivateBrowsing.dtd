@@ -1,0 +1,13 @@
+<!ENTITY privatebrowsingpage.tabtitle                  "גלישה פרטית">
+
+<!ENTITY privatebrowsingpage.pagetitle                 "גלישה פרטית">
+
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; לא ישמור היסטוריה כלשהי בהפעלה זו.">
+<!ENTITY privatebrowsingpage.longDesc                  "לא תשמר היסטוריה כלשהי בהפעלה זו של &brandShortName;, לרבות היסטוריית הדפדפן, היסטוריית חיפושים, היסטוריית הורדות, היסטוריית טפסים, עוגיות וקבצי אינטרנט זמניים. למרות זאת, קבצים שתוריד או סימניות שתיצור ישמרו.">
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "ייתכן ותרצה להתחיל עם היסטוריה נקיה.">
+<!ENTITY privatebrowsingpage.recentHistory.label       "מחק היסטוריה אחרונה">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey   "מ">
+
+<!ENTITY privatebrowsingpage.howToStopDesc             "כדי לסיים את הגלישה הפרטית, הסר את הסימון מתפריט כלים &gt; גלישה פרטית.">
+<!ENTITY privatebrowsingpage.footerDesc                "תהנה!">
