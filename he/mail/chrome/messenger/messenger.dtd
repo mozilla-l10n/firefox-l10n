@@ -11,7 +11,7 @@
 <!ENTITY newVirtualFolderCmd.accesskey "פ">
 <!ENTITY newAccountCmd.label "חשבון...">
 <!ENTITY newAccountCmd.accesskey "ח">
-<!ENTITY openMessageMenu.label "פתיחה">
+<!ENTITY openMessageWindowCmd.label "פתיחה">
 <!ENTITY openMessageFileCmd.label "פתח הודעה שמורה...">
 <!ENTITY openMessageFileCmd.accesskey "ת">
 <!ENTITY openAttachmentCmd.label "קבצים מצורפים">
