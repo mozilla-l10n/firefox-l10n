@@ -71,6 +71,11 @@
 <!ENTITY cmd.edit_redo.accesskey                  "i">
 <!ENTITY cmd.edit_redo.key                        "Y">
 
+<!ENTITY cmd.delete.label                         "Kustuta see leht">
+<!ENTITY cmd.delete.accesskey                     "K">
+<!ENTITY cmd.deleteDomainData.label               "Unusta selle lehe info">
+<!ENTITY cmd.deleteDomainData.accesskey           "U">
+
 <!ENTITY cmd.open.label                           "Ava">
 <!ENTITY cmd.open.accesskey                       "A">
 <!ENTITY cmd.open_window.label                    "Ava uues aknas">

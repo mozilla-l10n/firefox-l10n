@@ -4,10 +4,7 @@
 <!ENTITY window.macWidth                 "40em">
 
 <!ENTITY checking.title                  "Uuenduste kontrollimine">
-<!ENTITY checking.label                  "&brandShortName; kontrollib uuenduste olemasolu...">
-
-<!ENTITY cancel.label                    "Loobu">
-<!ENTITY cancel.accesskey                "L">
+<!ENTITY updateCheck.label               "Uuritakse, kas leidub uut versiooni &brandShortName;ist...">
 
 <!ENTITY noupdatesfound.title            "Uuendusi ei leitud">
 <!ENTITY  noupdatesautoenabled.intro     "Uuendusi ei ole praegu saadaval. &brandShortName; kontrollib uuendusi
@@ -15,15 +12,12 @@
 <!ENTITY  noupdatesautodisabled.intro    "Uuendusi ei ole praegu saadaval. Palun kontrolli hiljem uuesti või
                                           luba &brandShortName;il automaatne uuenduste kontrollimine.">
 
-<!ENTITY incompatibleChecking.label      "Kontrollitakse, kas uuendus võib põhjustada probleeme olemasolevate laienduste ja/või teemadega...">
+<!ENTITY incompatibleCheck.title         "Kontrollitakse ühilduvust lisadega">
+<!ENTITY  incompatibleCheck.label        "Uuridakse, kas leidub uusi versioone sinu lisadest...">
+
 <!ENTITY clickHere.label                 "Rohkem teavet uuenduse kohta">
 
-<!ENTITY incompatible.warning            "See uuendus põhjustab mõne laienduse ja/või teema töös probleeme ning 
-                                          need keelatakse, kuni nad on uuendatud.">
-<!ENTITY listIncompatible.label          "Näita nimekirja">
-<!ENTITY listIncompatible.accesskey      "N">
-
-<!ENTITY upgrade.evangelism              "&brandShortName;i uuendamine on soovitatav esimesel 
+<!ENTITY evangelism.desc                 "On tugevalt soovitatav, et sa uuendad sellele &brandShortName;i versioonile esimesel
                                           võimalusel.">
 
 <!ENTITY license.instructions            "Kui oled tingimustega nõus, siis klõpsa Nõustun, et jätkata uuenduse 
@@ -37,6 +31,8 @@
 <!ENTITY license.decline                 "Ei nõustu lepingu tingimustega">
 <!ENTITY license.decline.accesskey       "t">
 
+<!ENTITY  incompatibleList.title         "Leiti lisasid, mis ei ühildu">
+
 <!ENTITY downloading.title               "Uuenduse allalaadimine">
 <!ENTITY downloading.intro               "Uuenduse allalaadimine...">
 <!ENTITY connecting.label                "Ühendumine uuenduste serveriga...">
@@ -44,11 +40,9 @@
                                           seetõttu laaditakse nüüd alla kogu uuenduse 
                                           pakett.">
 
+<!ENTITY  viewDetails.tooltip             "Vaata selle uuenduse üksikasju">
+
 <!ENTITY details.link                    "Üksikasjad">
-<!ENTITY pause.label                     "Peata">
-<!ENTITY pause.accesskey                 "e">
-<!ENTITY close.label                     "Sulge">
-<!ENTITY close.accesskey                 "S">
 
 <!ENTITY error.label                     "Uuenduse kontrollimisel, allalaadimisel või paigaldamisel esines probleeme.
                                           &brandShortName;i ei uuendatud, kuna:">
@@ -60,19 +54,16 @@
 <!ENTITY errorpatching.intro             "Osalist uuendust ei õnnestunud rakendada. &brandShortName; proovib
                                           alla laadida terve uuenduse.">
 
-<!ENTITY finished.title                  "Uuendus on alla laaditud">
-<!ENTITY finished.text                   "Uuendus laaditi edukalt alla ja verifitseeriti ning paigaldatakse
-                                          &brandShortName;i järgmise käivitamise ajal.">
+<!ENTITY finishedPage.title              "Uuendus on paigaldamiseks valmis">
+<!ENTITY finishedPage.text               "Uuendus paigaldatakse järgmisel &brandShortName;i käivitumisel. Sa võid
+                                          taaskäivitada &brandShortName;i kohe või jätkata tööd ning taaskäivitada hiljem.">
 
-<!ENTITY finishedBackground.title        "Uuendus on paigaldamiseks valmis">
-<!ENTITY finishedBackground.text         "&brandShortName; on alla laadinud ja verifitseerinud olulise uuenduse. 
-                                          Klõpsa lingil, et näha rohkem detaile.">
+<!ENTITY finishedBackgroundPage.text     "&brandShortName;ile on alla laaditud turvalisuse ja stabiilsuse uuendus ning see on
+                                           paigaldamiseks valmis.">
 <!ENTITY finishedBackground.name         "Uuendus:">
-<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
-<!ENTITY finishedBackground.more1        "Uuenduse koheseks paigaldamiseks klõpsa Taaskäivita &brandShortName;.">
-<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!ENTITY finishedBackground.textNotNow   "Töö jätkamiseks ja selle akna sulgemiseks klõpsa Hiljem. Uuendus paigaldatakse 
-                                          &brandShortName;i järgmise käivitamise ajal.">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY finishedBackground.more         "Uuendus paigaldatakse järgmisel &brandShortName;i käivitumisel. Sa võid
+                                          taaskäivitada &brandShortName;i kohe või jätkata tööd ning taaskäivitada hiljem.">
 
 <!ENTITY installed.title                 "Uuendus on paigaldatud">
 <!ENTITY installed.intro                 "Uuendus on edukalt paigaldatud.">
