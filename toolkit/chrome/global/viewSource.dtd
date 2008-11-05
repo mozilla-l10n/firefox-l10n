@@ -51,3 +51,9 @@
 <!ENTITY findAgainCmd.accesskey "T">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY backCmd.label "Indietro">
+<!ENTITY backCmd.accesskey "n">
+<!ENTITY forwardCmd.label "Avanti">
+<!ENTITY forwardCmd.accesskey "A">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
