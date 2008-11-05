@@ -10,15 +10,15 @@
 <!ENTITY itemFormSearchHistory.label  "Lagra skjema- og søkjehistorikk">
 <!ENTITY itemFormSearchHistory.accesskey "L">
 <!ENTITY itemPasswords.label          "Lagra passord">
-<!ENTITY itemPasswords.accesskey      "r">
-<!ENTITY itemCookies.label            "Infokapslar">
+<!ENTITY itemPasswords.accesskey      "L">
+<!ENTITY itemCookies.label            "Informasjonskapslar">
 <!ENTITY itemCookies.accesskey        "I">
-<!ENTITY itemCache.label              "Mellomlager">
-<!ENTITY itemCache.accesskey          "M">
+<!ENTITY itemCache.label              "Snøgglager">
+<!ENTITY itemCache.accesskey          "S">
 <!ENTITY itemOfflineApps.label        "Fråkopla nettsidedata">
 <!ENTITY itemOfflineApps.accesskey    "F">
 <!ENTITY itemDownloads.label          "Nedlastingshistorikk">
 <!ENTITY itemDownloads.accesskey      "d">
-<!ENTITY itemSessions.label           "Autentiserte økter">
-<!ENTITY itemSessions.accesskey       "A">
+<!ENTITY itemActiveLogins.label       "Aktive innloggingar">
+<!ENTITY itemActiveLogins.accesskey   "A">
 <!ENTITY window.width                 "30em">

@@ -7,19 +7,22 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Privat nettlesing)">
 
 <!ENTITY tabCmd.label "Ny fane">
 <!ENTITY tabCmd.accesskey "f">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Opne adresse …">
-<!ENTITY openLocationCmd.accesskey "a">
+<!ENTITY openLocationCmd.accesskey "d">
 <!ENTITY openFileCmd.label "Opne fil …">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Sideoppsett …">
 <!ENTITY printSetupCmd.accesskey "o">
 <!ENTITY printPreviewCmd.label "Førehandsvis sida">
-<!ENTITY printPreviewCmd.accesskey "s">
+<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Skriv ut …">
 <!ENTITY printCmd.accesskey "u">
 <!ENTITY printCmd.commandkey "p">
@@ -161,6 +164,9 @@
 <!ENTITY clearPrivateDataCmd.label            "Slett private data">
 <!ENTITY clearPrivateDataCmd.accesskey        "e">
 
+<!ENTITY privateBrowsingCmd.label            "Privat nettlesing">
+<!ENTITY privateBrowsingCmd.accesskey        "B">
+
 <!ENTITY viewMenu.label         "Vis"> 
 <!ENTITY viewMenu.accesskey       "V"> 
 <!ENTITY viewToolbarsMenu.label       "Verktøylinjer"> 
@@ -233,10 +239,12 @@
 <!ENTITY viewPageInfoCmd.accesskey    "n">
 <!ENTITY viewFrameInfoCmd.label       "Vis informasjon om ramma">
 <!ENTITY viewFrameInfoCmd.accesskey   "n">
-<!ENTITY showImageCmd.label           "Vis bilete">
-<!ENTITY showImageCmd.accesskey       "V">
+<!ENTITY reloadImageCmd.label         "Oppdater bilete">
+<!ENTITY reloadImageCmd.accesskey     "l">
 <!ENTITY viewImageCmd.label           "Vis bilete">
 <!ENTITY viewImageCmd.accesskey       "V">
+<!ENTITY viewVideoCmd.label           "Vis video">
+<!ENTITY viewVideoCmd.accesskey       "V">
 <!ENTITY viewBGImageCmd.label         "Vis bakgrunnsbilete">
 <!ENTITY viewBGImageCmd.accesskey     "b">
 <!ENTITY setDesktopBackgroundCmd.label      "Vel som skrivebordbakgrunn …">
@@ -264,8 +272,16 @@
 <!ENTITY sendLinkCmd.accesskey        "S">
 <!ENTITY saveImageCmd.label           "Lagre bilete som …">
 <!ENTITY saveImageCmd.accesskey       "b">
+<!ENTITY saveVideoCmd.label           "Lagre video som …">
+<!ENTITY saveVideoCmd.accesskey       "a">
+<!ENTITY saveAudioCmd.label           "Lagre lyd som …">
+<!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY sendImageCmd.label           "Send bilete …">
-<!ENTITY sendImageCmd.accesskey       "S">
+<!ENTITY sendImageCmd.accesskey       "i">
+<!ENTITY sendVideoCmd.label           "Send video …">
+<!ENTITY sendVideoCmd.accesskey       "n">
+<!ENTITY sendAudioCmd.label           "Send lyd …">
+<!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label            "Kopier lenkjemål">
 <!ENTITY copyLinkCmd.accesskey        "K">
 <!ENTITY copyLinkTextCmd.label        "Kopier lenkjetekst">
@@ -274,7 +290,11 @@
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Kopier bilete">
 <!ENTITY copyImageContentsCmd.accesskey  "e"> 
-<!ENTITY blockImageCmd.accesskey       "r">
+<!ENTITY copyVideoURLCmd.label        "Kopier videoadresse">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Kopier lydadresse">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY blockImageCmd.accesskey      "r">
 <!ENTITY metadataCmd.label            "Eigenskapar">
 <!ENTITY metadataCmd.accesskey        "E">
 <!ENTITY copyEmailCmd.label           "Kopier e-postadresse">
@@ -282,20 +302,35 @@
 <!ENTITY thisFrameMenu.label              "Denne ramma">
 <!ENTITY thisFrameMenu.accesskey          "D">
 
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "Spel av">
+<!ENTITY mediaPlay.accesskey         "a">
+<!ENTITY mediaPause.label            "Pause">
+<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaMute.label             "Slå av lyd">
+<!ENTITY mediaMute.accesskey         "S">
+<!ENTITY mediaUnmute.label           "Slå på lyd">
+<!ENTITY mediaUnmute.accesskey       "S">
+<!ENTITY mediaShowControls.label     "Vis kontrollar">
+<!ENTITY mediaShowControls.accesskey "V">
+<!ENTITY mediaHideControls.label     "Skjul kontrollar">
+<!ENTITY mediaHideControls.accesskey "k">
+
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "Forstørre">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "F">
+<!ENTITY fullZoomEnlargeCmd.label       "Større skrift">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "S">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label        "Forminske">
-<!ENTITY fullZoomReduceCmd.accesskey    "o">
+<!ENTITY fullZoomReduceCmd.label        "Mindre skrift">
+<!ENTITY fullZoomReduceCmd.accesskey    "M">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 

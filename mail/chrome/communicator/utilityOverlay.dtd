@@ -25,8 +25,7 @@
 <!ENTITY pasteCmd.key            "V">
 <!ENTITY pasteCmd.accesskey          "L">
 <!ENTITY deleteCmd.label          "Slett">
-<!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "t">
+<!ENTITY deleteCmd.accesskey        "S">
 <!ENTITY selectAllCmd.label          "Merk alt">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "M">
@@ -35,9 +34,6 @@
 <!ENTITY preferencesCmdUnix.label       "Innstillingar …">
 <!ENTITY preferencesCmdUnix.accesskey     "I">
 
-<!ENTITY findTypeTextCmd.label "Finn tekst medan du skriv">
-<!ENTITY findTypeTextCmd.accesskey "t">
-
 <!ENTITY viewMenu.label          "Vis">
 <!ENTITY viewMenu.accesskey        "V">
 <!ENTITY viewToolbarsMenu.label        "Verktøylinjer">
@@ -45,18 +41,8 @@
 <!ENTITY showTaskbarCmd.label          "Statuslinje">
 <!ENTITY showTaskbarCmd.accesskey        "a">
 
-<!ENTITY direct.label                                   "Tilkopla (utan mellomtenar)">
-<!ENTITY direct.accesskey                               "n">
-<!ENTITY manual.label                                   "Tilkopla (manuell mellomtenar)">
-<!ENTITY manual.accesskey                               "m">
-<!ENTITY pac.label                                      "Tilkopla (automatisk mellomtenar)">
-<!ENTITY pac.accesskey                                  "a">
-
 <!ENTITY proxy.label                                    "Innstillingar for mellomtenar …">
 <!ENTITY proxy.accesskey                                "m">
-
-<!ENTITY findTypeTextCmd.key        "/">
-<!ENTITY findTypeLinksCmd.key       "">
 
 <!ENTITY closeCmd.label      "Lat att">
 <!ENTITY closeCmd.key      "W">
