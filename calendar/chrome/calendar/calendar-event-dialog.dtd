@@ -385,6 +385,7 @@
 <!ENTITY read.only.reply.label           "Responder:">
 <!ENTITY read.only.accept.label          "Vou atender">
 <!ENTITY read.only.decline.label         "Não vou atender">
+<!ENTITY read.only.tentative.label       "Posso atender">
 <!ENTITY read.only.needs.action.label    "Comfirmo mais tarde">
 <!ENTITY read.only.reminder.label        "Lembrança:">
 <!ENTITY read.only.attendees.label       "Participantes">
