@@ -45,6 +45,7 @@ som støtter avansert søppelpostkontroll og andre nyttige funksjoner.">
 <!ENTITY features.title "Funksjoner">
 <!ENTITY feat_multiacc.label "Støtte for flere kontoer">
 <!ENTITY feat_junk.label "Oppdaging av søppelpost">
+<!ENTITY feat_rss.label "RSS-leser">
 <!ENTITY feat_filters.label "Meldingsfiltre">
 <!ENTITY feat_htmlmsg.label "Støtte for HTML-meldinger">
 <!ENTITY feat_abook.label "Adressebok">

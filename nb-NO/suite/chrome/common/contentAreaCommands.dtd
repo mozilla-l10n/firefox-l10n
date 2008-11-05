@@ -70,6 +70,10 @@
 <!ENTITY saveImageAsCmd.label         "Lagre bilde som …">
 <!ENTITY saveImageCmd.label           "Lagre bilde">
 <!ENTITY saveImageCmd.accesskey       "L">
+<!ENTITY saveVideoCmd.label           "Lagre video som …">
+<!ENTITY saveVideoCmd.accesskey       "L">
+<!ENTITY saveAudioCmd.label           "Lagre lyd som …">
+<!ENTITY saveAudioCmd.accesskey       "L">
 <!ENTITY copyCmd.label                "Kopier">
 <!ENTITY copyCmd.accesskey            "K">
 <!ENTITY selectAllCmd.label           "Merk alt">
@@ -77,7 +81,11 @@
 <!ENTITY copyLinkCmd.label            "Kopier lenkemål">
 <!ENTITY copyLinkCmd.accesskey        "K">
 <!ENTITY copyImageCmd.label           "Kopier bildeadresse">
-<!ENTITY copyImageCmd.accesskey       "B">
+<!ENTITY copyImageCmd.accesskey       "b">
+<!ENTITY copyVideoURLCmd.label        "Kopier videoadresse">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Kopier lydadresse">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY metadataCmd.label            "Egenskaper">
 <!ENTITY metadataCmd.accesskey        "E">
 <!ENTITY copyEmailCmd.label           "Kopier e-postadresse">
@@ -94,6 +102,18 @@
 <!ENTITY redoCmd.accesskey            "G">
 <!ENTITY thisFrameMenu.label          "Denne rammen">
 <!ENTITY thisFrameMenu.accesskey      "D">
+<!ENTITY mediaPlay.label              "Spill av">
+<!ENTITY mediaPlay.accesskey          "S">
+<!ENTITY mediaPause.label             "Pause">
+<!ENTITY mediaPause.accesskey         "P">
+<!ENTITY mediaMute.label              "Slå av lyd">
+<!ENTITY mediaMute.accesskey          "S">
+<!ENTITY mediaUnmute.label            "Slå på lyd">
+<!ENTITY mediaUnmute.accesskey        "l">
+<!ENTITY mediaShowControls.label      "Vis mediakontroller">
+<!ENTITY mediaShowControls.accesskey  "V">
+<!ENTITY mediaHideControls.label      "Skjul mediakontroller">
+<!ENTITY mediaHideControls.accesskey  "k">
 <!ENTITY search.accesskey             "N">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Bytt sideretning">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "d">

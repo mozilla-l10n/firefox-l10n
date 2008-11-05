@@ -385,6 +385,7 @@
 <!ENTITY read.only.reply.label           "Svar:">
 <!ENTITY read.only.accept.label          "Jeg deltar">
 <!ENTITY read.only.decline.label         "Jeg deltar ikke">
+<!ENTITY read.only.tentative.label       "Jeg deltar kanskje">
 <!ENTITY read.only.needs.action.label    "Jeg beslutter senere">
 <!ENTITY read.only.reminder.label        "Påminnelse:">
 <!ENTITY read.only.attendees.label       "Deltakere">
