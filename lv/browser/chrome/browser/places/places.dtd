@@ -213,3 +213,8 @@
 <!ENTITY detailsPane.less.accesskey "z">
 <!ENTITY detailsPane.noPreviewAvailable.label "Priekšskatījums">
 <!ENTITY detailsPane.selectAnItemText.description "Izvēlieties elementu, ko aplūkot vai rediģēt">
+
+<!ENTITY cmd.delete.label               "Dzēst šo lapu">
+<!ENTITY cmd.delete.accesskey           "D">
+<!ENTITY cmd.deleteDomainData.label     "Aizmirst par šo lapu">
+<!ENTITY cmd.deleteDomainData.accesskey "A">

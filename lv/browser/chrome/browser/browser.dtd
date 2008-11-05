@@ -423,3 +423,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Privātā pārlūkosana)">
 <!ENTITY privateBrowsingCmd.label            "Privātā pārlūkošana">
 <!ENTITY privateBrowsingCmd.accesskey        "P">
+<!ENTITY ctrlTab.search.emptyText "Meklēt cilnes">

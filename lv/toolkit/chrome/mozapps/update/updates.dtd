@@ -4,23 +4,10 @@
 <!ENTITY window.macWidth "39em">
 
 <!ENTITY checking.title "Pārbauda atjauninājumus">
-<!ENTITY checking.label "&brandShortName; tagad pārbauda atjauninājumus...">
-
-<!ENTITY cancel.label "Atcelt">
-<!ENTITY cancel.accesskey "C">
 
 <!ENTITY noupdatesfound.title "Nav atrasti atjauninājumi">
 
-<!ENTITY incompatibleChecking.label "Pārbauda, vai šis atjauninājums nesagādās problēmas jūsu paplašinājumiem un/vai tēmām...">
 <!ENTITY clickHere.label "Vairāk informācijas par šo atjauninājumu">
-
-<!ENTITY incompatible.warning "Šis atjauninājums neļaus darboties dažiem jūsu paplašinājumiem un/vai tēmām, 
-līdz tie tiks atjaunitāti.">
-<!ENTITY listIncompatible.label "Rādīt sarakstu">
-<!ENTITY listIncompatible.accesskey "S">
-
-<!ENTITY upgrade.evangelism "Ļoti ieteicams atjaunināt &brandShortName; 
-pēc iespējas agrāk.">
 
 <!ENTITY license.instructions "Ja piekrītat šī līguma noteikumiem, spiediet zemāk esošo Es piekrītu, 
 un varēsiet turpināt atjauninājuma instalēšanu.">
@@ -41,10 +28,8 @@ un varēsiet turpināt atjauninājuma instalēšanu.">
 pilnais atjauninājums.">
 
 <!ENTITY details.link "Sīkāka informācija">
-<!ENTITY pause.label "Pauze">
-<!ENTITY pause.accesskey "e">
-<!ENTITY close.label "Aizvērt">
-<!ENTITY close.accesskey "Z">
+
+<!ENTITY  evangelism.desc                 "Šo &brandShortName; atjauninājumu būtu jāuzstāda pēc iespējas ātrāk.">
 
 <!ENTITY error.label "Gadījās problēmas, pārbaudot, lejupielādējot vai instalējot šo 
 atjauninājumu. Neizdevās atjaunināt &brandShortName;, jo:">
@@ -56,19 +41,10 @@ un lejupielādējot jaunāko versiju.">
 <!ENTITY errorpatching.intro "Neizdevās pielietot daļējo atjauninājumu. 
 &brandShortName; mēģinās vēlreiz lejupielādējot pilno atjauninājumu.">
 
-<!ENTITY finished.title "Atjauninājums lejupielādēts">
-<!ENTITY finished.text "Atjauninājums ir sekmīgi lejupielādēs un pārbaudīs, un tiks 
-instalēts nākamajā &brandShortName; palaišanas reizē.">
-
-<!ENTITY finishedBackground.title "Atjauninājums gatavs instalēšanai">
-<!ENTITY finishedBackground.text "&brandShortName; ir lejupielādējis un pārbaudījis svarīgu atjauninājumu. 
-Spiediet zemāk redzamo saiti, lai redzētu vairāk informācijas.">
 <!ENTITY finishedBackground.name "Atjauninājums:">
 <!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
-<!ENTITY finishedBackground.more1 "Spiediet Pārstartēt &brandShortName; tagad, lai tūlīt instalētu atjauninājumu.">
+<!ENTITY finishedBackground.more "Spiediet Pārstartēt &brandShortName; tagad, lai tūlīt instalētu atjauninājumu.">
 <!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!ENTITY finishedBackground.textNotNow "Spiediet Ne tagad, lai aizvērtu šo logu un turpinātu strādāt. &brandShortName; 
-instalēs šo atjauninājumu nākamajā palaišanas reizē.">
 
 <!ENTITY installed.title "Atjauninājums uzinstalēts">
 <!ENTITY installed.intro "Atjauninājums sekmīgi uzinstalēts.">
@@ -79,3 +55,17 @@ instalēs šo atjauninājumu nākamajā palaišanas reizē.">
 <!ENTITY update.status.label "Statuss:">
 <!ENTITY  noupdatesautoenabled.intro      "Jaunu atjauninājumu nav. &brandShortName; ik pa brīdim pārbaudīt atjauninājumus.">
 <!ENTITY  noupdatesautodisabled.intro     "Jaunu atjauninājumu nav. Pārbaudiet tos vēlreiz vēlāk vai arī aktivizējiet &brandShortName; automātisko atjauninājumu pārbaudi.">
+
+<!ENTITY  finishedPage.title              "Atjauninājumi ir gatavi uzstādīšanai">
+<!ENTITY  finishedPage.text               "Atjauninājumi tiks uzstādīti nākamo reizi, kad &brandShortName; tiks palaists. Jūs varat pārstartēt &brandShortName; tūlīt vai arī turpināt strādāt un izdarīt to vēlāk.">
+
+<!ENTITY  finishedBackgroundPage.text     "&brandShortName; drošības atjauninājums ir lejupielādēts un gatavs instalēšanai.">
+
+<!ENTITY  incompatibleCheck.title         "Pārbauda papildinājumu savietojumu">
+<!ENTITY  incompatibleCheck.label         "Meklē jūsu papildinājumu jaunākās versijas…">
+
+<!ENTITY  incompatibleList.title          "Atrasti nesaderīgi papildinājumi">
+
+<!ENTITY  updateCheck.label               "Meklē jaunāku &brandShortName; versiju…">
+
+<!ENTITY  viewDetails.tooltip             "Aplūkot sīkāķu informāciju par atjauninājumu">
