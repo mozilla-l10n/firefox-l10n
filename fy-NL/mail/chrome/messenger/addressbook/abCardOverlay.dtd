@@ -35,9 +35,9 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY Contact.tab "Kontakt">
-<!ENTITY Contact.accesskey	"K">
-<!ENTITY Name.box "Namme">
+<!ENTITY Contact.tab				"Kontakt">
+<!ENTITY Contact.accesskey			"K">
+<!ENTITY Name.box					"Namme">
 
 <!-- LOCALIZATION NOTE: 
  NameField1, NameField2, PhoneticField1, PhoneticField2
@@ -82,8 +82,12 @@
 
 <!ENTITY allowRemoteContent.label       "Ofbyldings op ôfstân yn HTML-e-mail tastean.">
 <!ENTITY allowRemoteContent.accesskey   "d">
+<!ENTITY allowRemoteContent.tooltip     "Yn HTML berjochten is it mooglik om
+ôfbyldings fanoare boarnen te pleatsen. It iepenjen fan sa'n bejocht sil in
+ferbining iepenje nei dizze eksterne boarne. It is mooglik dat sjoen wurd dat 
+it brjocht lêzen is. It oanfinken fan dit fak stiet it laden fan dizze eksterne
+ôfbyldings yn HTML-berjochten fan dit persoan ta.">
 
-<!ENTITY Phones.box "Telefoan">
 <!ENTITY WorkPhone.label "Wurk">
 <!ENTITY WorkPhone.accesskey "r">
 <!ENTITY HomePhone.label "Thús">
@@ -95,9 +99,8 @@
 <!ENTITY CellularNumber.label "Mobyl:">
 <!ENTITY CellularNumber.accesskey "M">
 
-<!ENTITY Address.tab "Adres">
-<!ENTITY Address.accesskey	"A">
-<!ENTITY Home.box "Thús">
+<!ENTITY Home.tab "Privee">
+<!ENTITY Home.accesskey	"P">
 <!ENTITY HomeAddress.label "Adres:">
 <!ENTITY HomeAddress.accesskey	"d">
 <!ENTITY HomeAddress2.label "">
@@ -112,20 +115,22 @@
 <!ENTITY HomeCountry.accesskey          "L">
 <!ENTITY HomeWebPage.label "Webstee:">
 <!ENTITY HomeWebPage.accesskey	"s">
-<!ENTITY Work.box "Wurk">
-<!ENTITY JobTitle.label "Titel:">
+
+<!ENTITY Work.tab						"Wurk">
+<!ENTITY Work.accesskey                 "W">
+<!ENTITY JobTitle.label					"Titel:">
 <!ENTITY JobTitle.accesskey             "e">
-<!ENTITY Department.label "Ofdieling:">
+<!ENTITY Department.label				"Ofdieling:">
 <!ENTITY Department.accesskey           "f">
-<!ENTITY Company.label "Organisaasje:">
+<!ENTITY Company.label					"Organisaasje:">
 <!ENTITY Company.accesskey              "i">
-<!ENTITY WorkAddress.label "Adres:">
+<!ENTITY WorkAddress.label				"Adres:">
 <!ENTITY WorkAddress.accesskey          "r">
-<!ENTITY WorkAddress2.label "">
+<!ENTITY WorkAddress2.label				"">
 <!ENTITY WorkAddress2.accesskey         "">
-<!ENTITY WorkCity.label "Plak:">
+<!ENTITY WorkCity.label					"Plak:">
 <!ENTITY WorkCity.accesskey             "S">
-<!ENTITY WorkState.label "Provinsje:">
+<!ENTITY WorkState.label				"Provinsje:">
 <!ENTITY WorkState.accesskey            "v">
 <!ENTITY WorkZipCode.label "Postkoade:">
 <!ENTITY WorkZipCode.accesskey          "k">
@@ -141,13 +146,13 @@
 <!ENTITY Year.emptytext                 "Jier">
 <!ENTITY Or.value                       "of">
 <!ENTITY Age.emptytext                  "Leeftiid">
-<!ENTITY Custom1.label "Oars 1:">
-<!ENTITY Custom1.accesskey "1">
-<!ENTITY Custom2.label "Oars 2:">
-<!ENTITY Custom2.accesskey "2">
-<!ENTITY Custom3.label "Oars 3:">
-<!ENTITY Custom3.accesskey "3">
-<!ENTITY Custom4.label "Oars 4:">
-<!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.box "Oantekenings">
-<!ENTITY Notes.accesskey                "n">
+<!ENTITY Custom1.label					"Oars 1:">
+<!ENTITY Custom1.accesskey				"1">
+<!ENTITY Custom2.label					"Oars 2:">
+<!ENTITY Custom2.accesskey				"2">
+<!ENTITY Custom3.label					"Oars 3:">
+<!ENTITY Custom3.accesskey				"3">
+<!ENTITY Custom4.label					"Oars 4:">
+<!ENTITY Custom4.accesskey				"4">
+<!ENTITY Notes.label					"Notysjes">
+<!ENTITY Notes.accesskey                "N">
