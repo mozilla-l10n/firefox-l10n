@@ -327,3 +327,4 @@
 <!ENTITY identity.runBy "который управляется">
 <!ENTITY identity.moreInfoLinkText "Подробнее…">
 <!ENTITY downloadMonitor2.tooltip "Щёлкните, чтобы открыть окно загрузок">
+<!ENTITY ctrlTab.search.emptyText "Поиск во вкладках">

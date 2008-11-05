@@ -28,9 +28,9 @@
 <!ENTITY Unknown.label "Неизвестно">
 <!ENTITY ScreenName.label "Интернет-пейджер:">
 <!ENTITY ScreenName.accesskey "й">
-<!ENTITY allowRemoteContent.label "Разрешить загрузку изображений из сети для HTML сообщений.">
+<!ENTITY allowRemoteContent.label "Разрешить загрузку изображений из сети.">
 <!ENTITY allowRemoteContent.accesskey "з">
-<!ENTITY Phones.box "Телефоны">
+<!ENTITY allowRemoteContent.tooltip "В HTML-сообщения возможно включать изображения из внешних источников. Открытие подобного сообщения приведёт к созданию соединения с внешним источником и позволит этому источнику узнать, что сообщение было прочитано. Установив этот флажок, вы разрешите включать изображения из внешних источников для HTML-сообщений, полученных от этого контакта.">
 <!ENTITY WorkPhone.label "Рабочий:">
 <!ENTITY WorkPhone.accesskey "а">
 <!ENTITY HomePhone.label "Домашний:">
@@ -41,9 +41,8 @@
 <!ENTITY PagerNumber.accesskey "й">
 <!ENTITY CellularNumber.label "Сотовый:">
 <!ENTITY CellularNumber.accesskey "т">
-<!ENTITY Address.tab "Адрес">
-<!ENTITY Address.accesskey "д">
-<!ENTITY Home.box "Домашний">
+<!ENTITY Home.tab "Личное">
+<!ENTITY Home.accesskey "ч">
 <!ENTITY HomeAddress.label "Адрес:">
 <!ENTITY HomeAddress.accesskey "д">
 <!ENTITY HomeAddress2.label "">
@@ -58,7 +57,8 @@
 <!ENTITY HomeCountry.accesskey "т">
 <!ENTITY HomeWebPage.label "Веб-страница:">
 <!ENTITY HomeWebPage.accesskey "с">
-<!ENTITY Work.box "Рабочий">
+<!ENTITY Work.tab "Рабочее">
+<!ENTITY Work.accesskey "б">
 <!ENTITY JobTitle.label "Должность:">
 <!ENTITY JobTitle.accesskey "л">
 <!ENTITY Department.label "Отдел:">
@@ -94,5 +94,5 @@
 <!ENTITY Custom3.accesskey "3">
 <!ENTITY Custom4.label "Прочее 4:">
 <!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.box "Заметки">
+<!ENTITY Notes.label "Заметки:">
 <!ENTITY Notes.accesskey "м">
