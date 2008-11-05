@@ -60,7 +60,7 @@
 
 <!ENTITY backCmd.label "पीछे">
 <!ENTITY backCmd.accesskey "B">
-<!ENTITY forwardCmd.label "अग्रेषित करें">
+<!ENTITY forwardCmd.label "अग्रेषित करें ">
 <!ENTITY forwardCmd.accesskey "F">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
