@@ -1,0 +1,13 @@
+<!ENTITY privatebrowsingpage.tabtitle                  "Navegació privada">
+
+<!ENTITY privatebrowsingpage.pagetitle                 "Navegació privada">
+
+<!ENTITY privatebrowsingpage.issueDesc                 "El &brandShortName; no recordarà res de l'historial d'aquesta sessió.">
+<!ENTITY privatebrowsingpage.longDesc                  "El &brandShortName; no registrarà a l'historial durant aquesta sessió de navegació. En això s'hi inclou l'historial de navegació, l'historial de cerques,  l'historial de baixades, l'historial dels formularis web, les galetes i altres fitxers temporals d'Internet. Per altra banda, sí que es conservaran els fitxers que baixeu i les adreces d'interès que deseu.">
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Podeu voler començar ara netejant alhora el vostre historial més recent.">
+<!ENTITY privatebrowsingpage.recentHistory.label       "Neteja l'historial recent">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey   "j">
+
+<!ENTITY privatebrowsingpage.howToStopDesc             "Per a aturar la navegació privada, desactiveu-la des de Eines &gt; Navegació privada.">
+<!ENTITY privatebrowsingpage.footerDesc                "Gaudiu-ne!">
