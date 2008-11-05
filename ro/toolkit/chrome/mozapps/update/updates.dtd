@@ -4,23 +4,19 @@
 <!ENTITY  window.macWidth                 "43em">
 
 <!ENTITY  checking.title                  "Căutare actualizări">
-<!ENTITY  checking.label                  "&brandShortName; verifică acum dacă există actualizări...">
-
-<!ENTITY  cancel.label                    "Renunță">
-<!ENTITY  cancel.accesskey                "R">
+<!ENTITY  updateCheck.label               "Se caută versiuni noi de &brandShortName;…">
 
 <!ENTITY  noupdatesfound.title            "Nu s-au găsit actualizări">
 <!ENTITY  noupdatesautoenabled.intro      "Nu sunt actualizări disponibile. &brandShortName; va verifica periodic dacă există actualizări.">
 <!ENTITY  noupdatesautodisabled.intro     "Nu sunt actualizări disponibile. Încercați din nou mai târziu sau activați verificarea automată de actualizări &brandShortName;.">
 
-<!ENTITY  incompatibleChecking.label      "Se verifică dacă această actualizare are probleme cu extensiile și/sau temele dumneavoastră...">
+<!ENTITY  incompatibleCheck.title         "Verificare compatibilitate suplimente">
+<!ENTITY  incompatibleCheck.label         "Se caută versiuni noi pentru suplimentele dumneavoastră…">
+
 <!ENTITY  clickHere.label                 "Mai multe informații despre această actualizare">
 
-<!ENTITY  incompatible.warning            "Această actualizare va face ca unele din extensiile și/sau temele dumneavoastră să nu mai funcționeze până când nu vor fi și ele actualizate.">
-<!ENTITY  listIncompatible.label          "Arată lista">
-<!ENTITY  listIncompatible.accesskey      "l">
-
-<!ENTITY  upgrade.evangelism              "Vă recomandăm cu tărie să actualizați &brandShortName; cât mai curând posibil.">
+<!ENTITY  evangelism.desc                 "Vă recomandăm cu tărie să instalați această 
+                                           actualizare de &brandShortName; cât mai curând.">
 
 <!ENTITY  license.instructions            "Dacă sunteți de acord cu termenii din acest acord, apăsați „Sunt de acord” pentru a continua instalarea actualizării.">
 
@@ -32,16 +28,16 @@
 <!ENTITY  license.decline                 "NU accept termenii acordului de licențiere">
 <!ENTITY  license.decline.accesskey       "N">
 
+<!ENTITY  incompatibleList.title          "S-au găsit suplimente incompatibile">
+
 <!ENTITY  downloading.title               "Descărcare actualizare">
 <!ENTITY  downloading.intro               "Se descarcă actualizarea...">
 <!ENTITY  connecting.label                "Conectare la serverul de actualizare...">
 <!ENTITY  verificationFailedText.label    "&brandShortName; nu a putut verifica integritatea actualizării incrementale pe care a transferat-o, astfel că acum descarcă întregul pachet de actualizare.">
 
+<!ENTITY  viewDetails.tooltip             "Vezi detaliile acestei actualizări">
+
 <!ENTITY  details.link                    "Detalii">
-<!ENTITY  pause.label                     "Pauză">
-<!ENTITY  pause.accesskey                 "P">
-<!ENTITY  close.label                     "Închide">
-<!ENTITY  close.accesskey                 "c">
 
 <!ENTITY  error.label                     "Au apărut probleme la verificarea, descărcarea sau instalarea acestei actualizări. &brandShortName; a putut fi actualizat deoarece:">
                                            
@@ -50,16 +46,16 @@
 <!ENTITY  errorpatching.title             "Actualizarea a eșuat">
 <!ENTITY  errorpatching.intro             "Actualizarea parțială nu a putut fi aplicată. &brandShortName; va încerca din nou, de data aceasta descărcând o actualizare completă.">
 
-<!ENTITY  finished.title                  "Actualizare descărcată">
-<!ENTITY  finished.text                   "Actualizarea a fost descărcată și verificată cu succes și va fi instalată la următoarea pornire a &brandShortName;.">
+<!ENTITY  finishedPage.title              "Actualizarea este gata de instalare">
+<!ENTITY  finishedPage.text               "Actualizarea va fi instalată la următoarea pornire a &brandShortName;. Puteți 
+                                           reporni &brandShortName; acum sau vă puteți continua sesiunea și să reporniți mai târziu.">
 
-<!ENTITY  finishedBackground.title        "Actualizarea este gata de instalare">
-<!ENTITY  finishedBackground.text         "&brandShortName; a descărcat și verificat o actualizare importantă. Faceți clic pe legătura de mai jos pentru mai multe detalii.">
+<!ENTITY  finishedBackgroundPage.text     "S-a descărcat o actualizare de securitate și stabilitate pentru
+                                           &brandShortName;.">
 <!ENTITY  finishedBackground.name         "Actualizare:">
-<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
-<!ENTITY  finishedBackground.more1        "Apăsați Repornește &brandShortName; pentru a instala actualizarea.">
-<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!ENTITY  finishedBackground.textNotNow   "Apăsați Nu acum pentru a închide acest dialog și a continua lucrul. &brandShortName; va instala această actualizare la următoarea pornire.">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more         "Actualizarea va fi instalată la următoarea pornire a &brandShortName;. Puteți
+                                           reporni &brandShortName; acum sau vă puteți continua sesiunea și să reporniți mai târziu.">
 
 <!ENTITY  installed.title                 "Actualizare instalată">
 <!ENTITY  installed.intro                 "Actualizarea a fost instalată cu succes.">
