@@ -1,74 +1,74 @@
-<!ENTITY  updateWizard.title              "सॉफ्टवेयर अद्यतन">
+<!ENTITY  updateWizard.title              "Software Update">
 
 <!ENTITY  window.width                    "36em">
 <!ENTITY  window.macWidth                 "39em">
 
-<!ENTITY  checking.title                  "अद्यतन के लिये जांच">
-<!ENTITY  checking.label                  "&brandShortName; अब अद्यतन के लिये जांच रहा है...">
+<!ENTITY  checking.title                  "Checking for Updates">
+<!ENTITY  updateCheck.label               "Looking for newer versions of &brandShortName;…">
 
-<!ENTITY  cancel.label                    "रद्द करें">
-<!ENTITY  cancel.accesskey                "C">
+<!ENTITY  noupdatesfound.title            "No Updates Found">
+<!ENTITY  noupdatesautoenabled.intro      "There are no updates available. &brandShortName; will check
+                                           periodically for updates.">
+<!ENTITY  noupdatesautodisabled.intro     "There are no updates available. Please check again later or enable
+                                           &brandShortName;'s automatic update checking.">
 
-<!ENTITY  clickHere.label                 "इस अद्यतन के बारे में ज्यादा सूचना देखें">
+<!ENTITY  incompatibleCheck.title         "Checking Add-on Compatibility">
+<!ENTITY  incompatibleCheck.label         "Looking for newer versions of your add-ons…">
 
-<!ENTITY  incompatible.warning            "यह अद्यतन आपके कुछ विस्तार का कारण और/या थीम को काम करने से रोकने के लिये जबतक वे अद्यतन किये जाते हैं.">
-<!ENTITY  listIncompatible.label          "सूची दिखायें">
-<!ENTITY  listIncompatible.accesskey      "L">
+<!ENTITY  clickHere.label                 "View more information about this update">
 
-<!ENTITY  upgrade.evangelism              "इसकी जोरदार अनुशंसा है कि आप अपना &brandShortName; यथाशीघ्र उन्नत करें.">
-<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!ENTITY  finishedBackground.textNotNow   "अभी नहीं क्लिक करें इस संवाद को बंद करने के लिए और काम जारी रखने के लिए. &brandShortName;
-अद्यतन संस्थापित करेगा अगली बार जब यह आरंभ होता है.">
-<!ENTITY  incompatibleChecking.label      "जाँच रहा है यदि यह अद्यतन आपके विस्तार और/या प्रसंग के साथ समस्या का जन्म दे रहा है…">
+<!ENTITY  evangelism.desc                 "It is strongly recommended that you apply this 
+                                           update for &brandShortName; as soon as possible.">
 
-<!ENTITY  license.instructions            "अगर आप इस मसौदे से सहमत हैं, नीचे मैं सहमत हूं पर क्लिक करें इस अद्यतन के संस्थापन जारी रखने के लिये.">
+<!ENTITY  license.instructions            "If you agree to the terms of this agreement, click I Agree 
+                                           below to continue installing this update.">
 
-<!ENTITY  license.titleText               "सॉफ्टवेयर लाइसेंस मसौदा">
-<!ENTITY  license.introText               "इस सॉफ्टवेयर के प्रयोग के लिए शर्त व स्थिति.">
-<!ENTITY  license.instructionText         "कृपया निम्नलिखित लाइसेंस अनुबंध पढ़ें. स्क्रॉव बार को प्रयोग करें इस अनुबंध के शेष को देखने के लिए.">
-<!ENTITY  license.accept                  "मैं लाइसेंस अनुबंध की शर्त स्वीकार करता हूं">
+<!ENTITY  license.titleText               "Software License Agreement">
+<!ENTITY  license.introText               "Terms and conditions for using this software.">
+<!ENTITY  license.instructionText         "Please read the following license agreement. Use the scroll bar to view the rest of this agreement.">
+<!ENTITY  license.accept                  "I accept the terms of the License Agreement">
 <!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "मैं लाइसेंस अनुबंध की शर्त स्वीकार नहीं करता हूं">
+<!ENTITY  license.decline                 "I do NOT accept the terms of the License Agreement">
 <!ENTITY  license.decline.accesskey       "T">
 
-<!ENTITY  downloading.title               "अद्यतन डाउनलोड कर रहा है">
-<!ENTITY  downloading.intro               "अद्यतन डाउनलोड कर रहा है...">
-<!ENTITY  connecting.label                "अद्यतन सर्वर में जोड़ रहा है...">
-<!ENTITY  verificationFailedText.label    "&brandShortName; असमर्थ था यह जांचने के लिये डाउनलोड किया संवर्द्धित अद्यतन, इसलिये यह अब पूरा अद्यतन संकुल डाउनलोड कर रहा है.">
+<!ENTITY  incompatibleList.title          "Incompatible Add-ons Found">
 
-<!ENTITY  details.link                    "विवरण">
-<!ENTITY  pause.label                     "ठहरें">
-<!ENTITY  pause.accesskey                 "e">
-<!ENTITY  close.label                     "बंद करें">
-<!ENTITY  close.accesskey                 "C">
+<!ENTITY  downloading.title               "Downloading Update">
+<!ENTITY  downloading.intro               "Downloading the update…">
+<!ENTITY  connecting.label                "Connecting to the update server…">
+<!ENTITY  verificationFailedText.label    "&brandShortName; was unable to verify the integrity of the 
+                                           incremental update it downloaded, so it is now downloading
+                                           the complete update package.">
 
-<!ENTITY  error.label                     "इस अद्यतन के जांचने, डाउनलोडिंग या संस्थापन के लिये समस्या थी. &brandShortName; को अद्यतन नहीं किया जा सका क्योंकि:">
+<!ENTITY  viewDetails.tooltip             "View details for this update">
+
+<!ENTITY  details.link                    "Details">
+
+<!ENTITY  error.label                     "There were problems checking for, downloading, or installing this 
+                                           update. &brandShortName; could not be updated because:">
                                            
-<!ENTITY  errorManual.label               "आप &brandShortName; दस्ती रूप से अद्यतन कर सकते हैं लिंक पर जाकर और नवीनतम संस्करण डाुनलोड करके:">
+<!ENTITY  errorManual.label               "You can update &brandShortName; manually by visiting this link
+                                           and downloading the latest version:">
                                            
-<!ENTITY  errorpatching.title             "अद्यतन विफल">
-<!ENTITY  errorpatching.intro             "आंशिक अद्यतन लागू नहीं किया जा सका. 
-                                           &brandShortName; एक पूरे अद्यतन के डाउनलोड से इसे कोशिश करेगा.">
+<!ENTITY  errorpatching.title             "Update Failed">
+<!ENTITY  errorpatching.intro             "The partial Update could not be applied. 
+                                           &brandShortName; will try again by downloading a complete Update.">
 
-<!ENTITY  finished.title                  "डाउनलोड किये को अद्यतन करें">
+<!ENTITY  finishedPage.title              "Update Ready to Install">
+<!ENTITY  finishedPage.text               "The update will be installed the next time &brandShortName; starts. You 
+                                           can restart &brandShortName; now, or continue working and restart later.">
 
-<!ENTITY  finished.text                   "अद्यतन सफलतापूर्वक डाउनलोड व जांचा गया, और यह तब संस्थापित किया जायेगा जब अगली बार &brandShortName; आरंभ होता है.">
+<!ENTITY  finishedBackgroundPage.text     "A security and stability update for &brandShortName; has been
+                                           downloaded and is ready to be installed.">
+<!ENTITY  finishedBackground.name         "Update:">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more         "The update will be installed the next time &brandShortName; starts. You
+                                           can restart &brandShortName; now, or continue working and restart later.">
 
-<!ENTITY  finishedBackground.title        "अद्यतन संस्थापन के लिये तैयार है">
-<!ENTITY  finishedBackground.text         "&brandShortName; ने महत्वपूर्ण अद्यतन को डाउनलोड व जांचा. ज्यादा विवरण के लिए लिंक पर क्लिक करें.">
-<!ENTITY  finishedBackground.name         "अद्यतन:">
-<!ENTITY  finishedBackground.more1        "&brandShortName; को अब अद्यतन को फिर अधिष्टापित करने के लिए फिर आरंभ करें.">
+<!ENTITY  installed.title                 "Update Installed">
+<!ENTITY  installed.intro                 "The update was successfully installed.">
+<!ENTITY  whatsnew.label                  "Read more about what's new…">
 
-
-<!ENTITY  installed.title                 "संस्थापित किया अद्यतन करें">
-<!ENTITY  installed.intro                 "अद्यतन सफलतापूर्वक संस्थापित था.">
-<!ENTITY  whatsnew.label                  "क्या नया है इसके बारे में ज्यादा पढें...">
-
-<!ENTITY  update.details.label            "विवरण">
-<!ENTITY  update.installedOn.label        "इसपर संस्थापित:">
-<!ENTITY  update.status.label             "स्थिति:">
-<!ENTITY  noupdatesfound.title            "कोई अद्यतन नहीं मिला">
-
-<!ENTITY  noupdatesautodisabled.intro     "कोई अद्यतन उपलब्ध नहीं है. कृपया बाद में फिर जाँचें या                                            &brandShortName; के स्वचालित अद्यतन जाँच सक्रिय करें.">
-<!ENTITY  noupdatesautoenabled.intro      "कोई अद्यतन उपलब्ध नहीं है. &brandShortName; आवधिक रूप से अद्यतनों की जाँच करेगा.">
-
+<!ENTITY  update.details.label            "Details">
+<!ENTITY  update.installedOn.label        "Installed on:">
+<!ENTITY  update.status.label             "Status:">
