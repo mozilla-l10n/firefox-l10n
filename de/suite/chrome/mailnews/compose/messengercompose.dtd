@@ -49,6 +49,7 @@
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Neu umbrechen">
+<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "N">
 <!ENTITY findCmd.label "Suchen und ersetzen…">
 <!ENTITY findCmd.key "F">

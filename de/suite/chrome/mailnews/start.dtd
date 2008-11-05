@@ -44,6 +44,7 @@
 <!ENTITY features.title "Funktionen">
 <!ENTITY feat_multiacc.label "Unterstützung mehrerer Accounts">
 <!ENTITY feat_junk.label "Junk-Mail-Erkennung">
+<!ENTITY feat_rss.label "RSS-Leseprogramm">
 <!ENTITY feat_filters.label "Nachrichtenfilter">
 <!ENTITY feat_htmlmsg.label "Unterstützung von HTML-Nachrichten">
 <!ENTITY feat_abook.label "Adressbuch">
