@@ -71,6 +71,11 @@
 <!ENTITY cmd.edit_redo.accesskey    "R">
 <!ENTITY cmd.edit_redo.key          "y">
 
+<!ENTITY cmd.delete.label               "Șterge această pagină">
+<!ENTITY cmd.delete.accesskey           "Ș">
+<!ENTITY cmd.deleteDomainData.label     "Uită totul despre acest sait">
+<!ENTITY cmd.deleteDomainData.accesskey "U">
+
 <!ENTITY cmd.open.label                  "Deschide">
 <!ENTITY cmd.open.accesskey              "D">
 <!ENTITY cmd.open_window.label           "Deschide într-o fereastră nouă">
