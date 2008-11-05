@@ -71,6 +71,11 @@
 <!ENTITY cmd.edit_redo.accesskey    "G">
 <!ENTITY cmd.edit_redo.key          "y">
 
+<!ENTITY cmd.delete.label               "Slett denne siden">
+<!ENTITY cmd.delete.accesskey           "S">
+<!ENTITY cmd.deleteDomainData.label     "Glem dette nettstedet">
+<!ENTITY cmd.deleteDomainData.accesskey "G">
+
 <!ENTITY cmd.open.label                  "Åpne">
 <!ENTITY cmd.open.accesskey              "Å">
 <!ENTITY cmd.open_window.label           "Åpne i nytt vindu">
