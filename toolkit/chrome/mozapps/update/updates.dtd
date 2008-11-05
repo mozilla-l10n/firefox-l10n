@@ -4,10 +4,7 @@
 <!ENTITY  window.macWidth                 "39em">
 
 <!ENTITY  checking.title                  "Ser etter oppdateringer">
-<!ENTITY  checking.label                  "&brandShortName; søker nå etter oppdateringer …">
-
-<!ENTITY  cancel.label                    "Avbryt">
-<!ENTITY  cancel.accesskey                "A">
+<!ENTITY  updateCheck.label               "Søker etter nyere versjoner av &brandShortName; …">
 
 <!ENTITY  noupdatesfound.title            "Ingen oppdateringer funnet">
 <!ENTITY  noupdatesautoenabled.intro      "Ingen oppdateringer er tilgjengelige. &brandShortName; vil se
@@ -15,16 +12,13 @@
 <!ENTITY  noupdatesautodisabled.intro     "Ingen oppdateringer er tilgjengelig. Prøv igjen senere, eller
                                            slå på automatisk oppdateringssøk for &brandShortName;.">
 
-<!ENTITY  incompatibleChecking.label      "Kontrollerer om denne oppdateringen kan gi problemer med noen av utvidelsene eller temaene dine …">
+<!ENTITY  incompatibleCheck.title         "Kontrollerer utvidelseskompatibilitet">
+<!ENTITY  incompatibleCheck.label         "Søker etter nyere versjoner av dine utvidelser og temaer …">
+
 <!ENTITY  clickHere.label                 "Trykk her for mer informasjon om denne oppdateringen">
 
-<!ENTITY  incompatible.warning            "Denne oppdateringen vil forårsake at noen av utvidelsene og/eller temaer
-                                           slutter å virke inntil de er oppdatert.">
-<!ENTITY  listIncompatible.label          "Vis liste">
-<!ENTITY  listIncompatible.accesskey      "l">
-
-<!ENTITY  upgrade.evangelism              "Det er sterkt anbefalt at du oppgraderer &brandShortName;
-                                           så snart som mulig.">
+<!ENTITY  evangelism.desc                 "Det er sterkt anbefalt at du installerer denne 
+                                           oppdateringen for &brandShortName; så snart som mulig.">
 
 <!ENTITY  license.instructions            "Dersom du godtar betingelsene i avtalen, trykk på «Godta»-knappen under for
                                            å fortsette å installere oppdateringen.">
@@ -37,6 +31,8 @@
 <!ENTITY  license.decline                 "Jeg godtar IKKE betingelsene i lisensavtalen">
 <!ENTITY  license.decline.accesskey       "e">
 
+<!ENTITY  incompatibleList.title          "Fant inkompatible utvidelser/temaer">
+
 <!ENTITY  downloading.title               "Laster ned oppdatering">
 <!ENTITY  downloading.intro               "Laster ned oppdateringen …">
 <!ENTITY  connecting.label                "Kobler til oppdateringstjeneren …">
@@ -44,35 +40,30 @@
                                            den inkrementelle oppdateringen den lastet ned, så den fullstendige oppdateringspakken
                                            blir nå lastet ned.">
 
+<!ENTITY  viewDetails.tooltip             "Vis detaljer for denne oppdateringen">
+
 <!ENTITY  details.link                    "Detaljer">
-<!ENTITY  pause.label                     "Pause">
-<!ENTITY  pause.accesskey                 "e">
-<!ENTITY  close.label                     "Lukk">
-<!ENTITY  close.accesskey                 "L">
 
 <!ENTITY  error.label                     "Det oppstod problemer under kontroll, nedlasting eller installering av denne
                                            oppdateringen. Klarte ikke oppdatere &brandShortName; fordi:">
-
+                                           
 <!ENTITY  errorManual.label               "Du kan oppdatere &brandShortName; ved å manuelt laste ned siste
                                            versjon fra denne lenken:">
-
+                                           
 <!ENTITY  errorpatching.title             "Oppdatering feilet">
 <!ENTITY  errorpatching.intro             "Installering av den inkrementelle oppdateringen feilet.
                                            &brandShortName; vil forsøke å laste ned den fullstendige oppdateringen.">
 
-<!ENTITY  finished.title                  "Oppdatering lastet ned">
-<!ENTITY  finished.text                   "Oppdateringen ble lastet ned og kontrollert, og vil installeres
-                                           neste gang du starter &brandShortName;.">
+<!ENTITY  finishedPage.title              "Oppdatering er klar til å installere">
+<!ENTITY  finishedPage.text               "Oppdateringen installeres neste gang &brandShortName; starter. Du
+                                           kan starte &brandShortName pånytt nå, eller du kan fortsette å arbeide og starte på nytt senere.">
 
-<!ENTITY  finishedBackground.title        "Oppdatering er klar til å bli installert">
-<!ENTITY  finishedBackground.text         "&brandShortName; har fullført nedlasting av en viktig
-                                           oppdatering. Trykk på lenken under for mer informasjon.">
+<!ENTITY  finishedBackgroundPage.text     "En sikkerhets- og stabilitetsoppdatering for &brandShortName; er
+                                           lastet ned, og er klar til å installeres.">
 <!ENTITY  finishedBackground.name         "Oppdaterer:">
-<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
-<!ENTITY  finishedBackground.more1        "Trykk «Start &brandShortName; på nytt nå» for å installere oppdateringen nå.">
-<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!ENTITY  finishedBackground.textNotNow   "Trykk «Senere» for å fortsette å arbeide. &brandShortName;
-                                           vil da installere oppdateringen neste gang den starter.">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more         "Oppdateringen vil installeres neste gang &brandShortName; starter. Du
+                                           kan starte &brandShortName; på nytt nå, eller du kan fortsette å arbeide og starte på nytt senere.">
 
 <!ENTITY  installed.title                 "Oppdatering installert">
 <!ENTITY  installed.intro                 "Oppdateringen ble installert.">
