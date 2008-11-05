@@ -36,26 +36,21 @@
 <!ENTITY  window.macWidth                 "39em">
 
 <!ENTITY  checking.title                  "Ieškoma naujinimų">
-<!ENTITY  checking.label                  "„&brandShortName;“ tikrina, ar yra naujinimų…">
-
-<!ENTITY  cancel.label                    "Atsisakyti">
-<!ENTITY  cancel.accesskey                "A">
+<!ENTITY  updateCheck.label               "Ieškoma „&brandShortName;“ naujinimų…">
 
 <!ENTITY  noupdatesfound.title            "Naujinimų nerasta">
 <!ENTITY  noupdatesautoenabled.intro      "Šiuo metu naujinimų nėra. „&brandShortName;“ periodiškai
                                            tikrins, ar išleistos naujos versijos.">
 <!ENTITY  noupdatesautodisabled.intro     "Šiuo metu naujinimų nėra. Bandykite jų ieškoti vėliau arba įjunkite
                                            automatinį naujinimų tikrinimą „&brandShortName;“ nuostatose.">
-<!ENTITY  incompatibleChecking.label      "Tikrinama, ar šis naujinimas nesukels suderinamumo su jūsų naudojamais plėtiniais ir/ar grafiniais aplankalais problemų…">
+
+<!ENTITY  incompatibleCheck.title         "Tikrinamas priedų suderinamumas">
+<!ENTITY  incompatibleCheck.label         "Ieškoma naudojamų priedų naujinimų…">
+
 <!ENTITY  clickHere.label                 "Peržiūrėti išsamesnę informaciją apie šį naujinimą">
 
-<!ENTITY  incompatible.warning            "Įdiegus šį naujinimą gali neveikti kai kurie esami plėtiniai ir/ar apvalkalai,
-                                           kol jie nebus atnaujinti.">
-<!ENTITY  listIncompatible.label          "Rodyti sąrašą">
-<!ENTITY  listIncompatible.accesskey      "R">
-
-<!ENTITY  upgrade.evangelism              "Rekomenduotina kuo skubiau atnaujinti „&brandShortName;“.">
-
+<!ENTITY  evangelism.desc                 "Primygtinai patartina šį „&brandShortName;“ naujinimą 
+                                           įdiegti kuo skubiau.">
 
 <!ENTITY  license.instructions            "Jei sutinkate su licencijos sąlygomis, tai spustelėkite „Sutinku“, ir 
                                            naujinimo diegimas bus tęsiamas.">
@@ -68,6 +63,8 @@
 <!ENTITY  license.decline                 "NESUTINKU su licencijos sąlygomis">
 <!ENTITY  license.decline.accesskey       "N">
 
+<!ENTITY  incompatibleList.title          "Rasta nesuderinamų priedų">
+
 <!ENTITY  downloading.title               "Naujinimo atsiuntimas">
 <!ENTITY  downloading.intro               "Atsiunčiamas naujinimas…">
 <!ENTITY  connecting.label                "Jungiamasi prie naujinimų serverio…">
@@ -75,11 +72,9 @@
                                            prieauginio naujinimo nepažeistumo, todėl šiuo metu atsiunčiamas visas
                                            atnaujinimo paketas.">
 
+<!ENTITY  viewDetails.tooltip             "Rodyti išsamesnę informaciją apie naujinimą">
+
 <!ENTITY  details.link                    "Išsamiau">
-<!ENTITY  pause.label                     "Pauzė">
-<!ENTITY  pause.accesskey                 "P">
-<!ENTITY  close.label                     "Užverti">
-<!ENTITY  close.accesskey                 "U">
 
 <!ENTITY  error.label                     "Nesklandumai ieškant, atsiunčiant ar įdiegiant šį naujinimą. 
                                            „&brandShortName;“ nepavyko atnaujinti dėl šių priežasčių:">
@@ -91,19 +86,16 @@
 <!ENTITY  errorpatching.intro             "Dalinis atnaujinimas nepavyko. 
                                            Bus bandoma atnaujinti atsiuntus visą naujinimą.">
 
-<!ENTITY  finished.title                  "Naujinimas atsiųstas">
-<!ENTITY  finished.text                  "Naujinimas sėkmingai atsiųstas ir patikrintas. Prašom paleisti 
-                                           „&brandShortName;“ iš naujo.">
+<!ENTITY  finishedPage.title              "Naujinimas paruoštas diegimui">
+<!ENTITY  finishedPage.text               "Naujinimas bus įdiegtas iš naujo paleidus „&brandShortName;“. Galite
+                                           programą paleisti iš naujo dabar, arba tęsti darbą ir tai padaryti vėliau.">
 
-<!ENTITY  finishedBackground.title        "Naujinimas paruoštas diegimui">
-<!ENTITY  finishedBackground.text        "„&brandShortName;“ atsiuntė ir patikrino svarbų naujinimą. Daugiau galima sužinoti spustelėjus
-                                           žemiau esantį saitą.">
+<!ENTITY  finishedBackgroundPage.text     "Parsiųstas ir paruoštas diegti „&brandShortName;“ saugumo ir 
+                                           stabilumo atnaujinimas.">
 <!ENTITY  finishedBackground.name         "Naujinimas:">
-<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
-<!ENTITY  finishedBackground.more1        "Spustelėkite „Paleisti „&brandShortName;“ iš naujo dabar“, jei norite įdiegti naujinimą dabar.">
-<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!ENTITY  finishedBackground.textNotNow   "Jei norite tęsti darbą su programa, spustelėkite „Ne dabar“. Naujinimas bus įdiegtas 
-                                           kitą kartą paleidus „&brandShortName;“.">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more         "Naujinimas bus įdiegtas iš naujo paleidus „&brandShortName;“. Galite
+                                           programą paleisti iš naujo dabar, arba tęsti darbą ir tai padaryti vėliau.">
 
 <!ENTITY  installed.title                 "Atnaujinta">
 <!ENTITY  installed.intro                 "Naujinimas sėkmingai įdiegtas.">

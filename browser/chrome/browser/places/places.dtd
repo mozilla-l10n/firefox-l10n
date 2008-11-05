@@ -103,6 +103,11 @@
 <!ENTITY cmd.edit_redo.accesskey        "t">
 <!ENTITY cmd.edit_redo.key              "y">
 
+<!ENTITY cmd.delete.label                "Pašalinti šį tinklalapį">
+<!ENTITY cmd.delete.accesskey            "š">
+<!ENTITY cmd.deleteDomainData.label      "Užmiršti viską apie šią svetainę">
+<!ENTITY cmd.deleteDomainData.accesskey  "U">
+
 <!ENTITY cmd.open.label                  "Atverti">
 <!ENTITY cmd.open.accesskey              "A">
 <!ENTITY cmd.open_window.label           "Atverti naujame lange">
