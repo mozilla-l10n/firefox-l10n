@@ -370,10 +370,9 @@
 
 <!-- Timezone dialog -->
 
-<!ENTITY timezone.title.label            "Spesifisearje de tiidsône">
+<!ENTITY timezone.title.label            "Spesifisearje de tiidssoane">
 
 <!-- Read-Only dialog -->
-
 <!ENTITY read.only.general.label         "Algemien">
 <!ENTITY read.only.title.label           "Titel:">
 <!ENTITY read.only.repeat.label          "Werhelje:">
@@ -383,6 +382,7 @@
 <!ENTITY read.only.reply.label           "Antwurd:">
 <!ENTITY read.only.accept.label          "Ik sil oanwêzich wêze">
 <!ENTITY read.only.decline.label         "Ik sil net oanwêzich wêze">
+<!ENTITY read.only.tentative.label       "Ik kin mooglik dielnimme">
 <!ENTITY read.only.needs.action.label    "Ik sil letter befestigje">
 <!ENTITY read.only.reminder.label        "Warskôging:">
 <!ENTITY read.only.attendees.label       "Dielnimmers">
