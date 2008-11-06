@@ -18,8 +18,8 @@
 <!ENTITY install.label                    "Installation">
 
 <!-- Command Bar items -->
-<!ENTITY cmd.checkUpdatesAll.label        "Updaten">
-<!ENTITY cmd.checkUpdatesAll.accesskey    "U">
+<!ENTITY cmd.checkUpdatesAll.label        "Aktualisieren">
+<!ENTITY cmd.checkUpdatesAll.accesskey    "A">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Auf Updates für Add-ons überprüfen">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Auf Updates für Themes überprüfen">
 <!ENTITY cmd.installLocalFile.label       "Installieren…">
@@ -99,8 +99,8 @@
 <!ENTITY cmd.homepage.accesskey           "H">
 <!ENTITY cmd.about2.label                 "Über dieses Add-on">
 <!ENTITY cmd.about.accesskey              "Ü">
-<!ENTITY cmd.checkUpdate.label            "Updaten">
-<!ENTITY cmd.checkUpdate.accesskey        "U">
+<!ENTITY cmd.checkUpdate.label            "Aktualisieren">
+<!ENTITY cmd.checkUpdate.accesskey        "A">
 
 <!ENTITY cmd.includeUpdate.label          "Update einschließen">
 <!ENTITY cmd.includeUpdate.accesskey      "d">
