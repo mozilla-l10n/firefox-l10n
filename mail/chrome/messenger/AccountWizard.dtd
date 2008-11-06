@@ -2,7 +2,7 @@
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
 <!ENTITY accountSetupInfo.label "Per poter ricevere i messaggi, è necessario configurare gli account di posta e dei gruppi di discussione.">
 <!ENTITY accountTypeTitle.label "Configurazione nuovo account">
-<!ENTITY accountTypeDesc.label "Questa autocomposizione raccoglierà le informazioni necessarie alla creazione di un account di posta o per i gruppi di discussione. Se non si fosse a conoscenza di alcune delle informazioni richieste contattare il proprio amministratore di sistema o il fornitore di servizi.">
+<!ENTITY accountTypeDesc.label "Questa creazione guidata raccoglierà le informazioni necessarie alla creazione di un account di posta o per i gruppi di discussione. Se non si fosse a conoscenza di alcune delle informazioni richieste contattare il proprio amministratore di sistema o il fornitore di servizi.">
 <!ENTITY accountTypeDirections.label "Selezionare il tipo di account da configurare:">
 <!ENTITY accountTypeMail.label "Account di posta">
 <!ENTITY accountTypeMail.accesskey "p">
@@ -14,7 +14,7 @@
 <!ENTITY fullnameExample.label "(ad esempio, &quot;Mario Rossi&quot;).">
 <!ENTITY fullnameLabel.label "Nome:">
 <!ENTITY fullnameLabel.accesskey "N">
-<!ENTITY emailLabel.label "Indirizzo email:">
+<!ENTITY emailLabel.label "Indirizzo e-mail:">
 <!ENTITY emailLabel.accesskey "I">
 <!ENTITY serverTitle.label "Informazioni sul server">
 <!ENTITY incomingServerTypeDesc.label "Selezionare il tipo di server in ingresso utilizzato.">
@@ -58,5 +58,5 @@
 <!ENTITY downloadOnLogin.label "Scarica subito i messaggi">
 <!ENTITY deferStorageDesc.label "Togliere la spunta per conservare la posta di questo account in una cartella separata. Questo sposterà l'account al primo livello. In caso contrario farà parte della cartella 'Posta in arrivo' globale delle Cartelle locali.">
 <!ENTITY deferStorage.label "Usa 'Posta in arrivo' globale (posta nelle 'Cartelle Locali')">
-<!ENTITY clickFinish.label "Premere Fine per salvare queste impostazioni ed uscire dall'autocomposizione dell'account.">
+<!ENTITY clickFinish.label "Premere Fine per salvare queste impostazioni ed uscire dalla creazione guidata dell'account.">
 <!ENTITY clickFinish.labelMac "Clic su Fatto per salvare queste impostazioni ed uscire dalla creazione guidata del nuovo account.">

@@ -59,7 +59,7 @@
 <!ENTITY unreadColumn.tooltip "Numero di messaggi non letti nella discussione">
 <!ENTITY totalColumn.tooltip "Numero totale di messaggi nella discussione">
 <!ENTITY readColumn.tooltip "Ordina per letti">
-<!ENTITY receivedColumn.tooltip "Clic per ordinare per data di ricevimento">
+<!ENTITY receivedColumn.tooltip "Clic per ordinare per data di ricezione">
 <!ENTITY starredColumn.tooltip "Clic per ordinare per speciale">
 <!ENTITY locationColumn.tooltip "Ordina per posizione">
 <!ENTITY idColumn.tooltip "Ordina per ricezione">

@@ -7,5 +7,5 @@
 <!ENTITY folderSelectionCaption.label "Selezionare le cartelle in cui cercare:">
 <!ENTITY chooseFoldersButton.label "Scegliere…">
 <!ENTITY chooseFoldersButton.accesskey "c">
-<!ENTITY searchOnline.label "Ricerca in linea (fornisce risultati aggiornati per le cartelle IMAP o dei Gruppi di discussione ma aumenta il tempo necessario ad aprire la cartella)">
+<!ENTITY searchOnline.label "Ricerca in linea (fornisce risultati aggiornati per le cartelle IMAP o dei Gruppi di discussione ma aumenta il tempo necessario per aprire la cartella)">
 <!ENTITY searchOnline.accesskey "S">

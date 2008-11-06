@@ -44,7 +44,7 @@
 <!ENTITY _PhoneticName.accesskey "f">
 <!ENTITY NickName.label "Soprannome">
 <!ENTITY NickName.accesskey "S">
-<!ENTITY SecondEmail.label "Email aggiuntiva">
+<!ENTITY SecondEmail.label "E-mail aggiuntiva">
 <!ENTITY SecondEmail.accesskey "l">
 <!ENTITY Department.label "Reparto">
 <!ENTITY Department.accesskey "r">

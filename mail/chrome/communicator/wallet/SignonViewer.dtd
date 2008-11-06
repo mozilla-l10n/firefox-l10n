@@ -6,8 +6,8 @@
 <!ENTITY tab.nocapture.label "Moduli da non salvare">
 <!ENTITY spiel.signonsstored.label "Il programma ha salvato le informazioni di accesso per i seguenti siti:">
 <!ENTITY spiel.signonsnotstored.label "Il programma non salverà le informazioni di accesso per i seguenti siti:">
-<!ENTITY spiel.nopreview.label "Il programma non chiederà conferma per i singoli campi prima della compilazione automatica di moduli dei seguenti siti:">
-<!ENTITY spiel.nocapture.label "Il programma non chiederà di salvare moduli dai seguenti siti:">
+<!ENTITY spiel.nopreview.label "Per i seguenti siti il gestore moduli non mostrerà l'anteprima dei moduli prima della loro compilazione automatica:">
+<!ENTITY spiel.nocapture.label "Il gestore moduli non chiederà di salvare moduli per i seguenti siti:">
 <!ENTITY treehead.site.label "Sito">
 <!ENTITY treehead.username.label "Nome utente">
 <!ENTITY treehead.password.label "Password">

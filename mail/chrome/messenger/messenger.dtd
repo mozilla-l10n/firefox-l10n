@@ -483,7 +483,7 @@
 <!ENTITY folderContextFavoriteFolder.accesskey "p">
 <!ENTITY folderContextSettings.label "Impostazioni…">
 <!ENTITY folderContextSettings.accesskey "I">
-<!ENTITY SearchNameOrEmail.label "Nome o Email contengono:">
+<!ENTITY SearchNameOrEmail.label "Nome o E-mail contengono:">
 <!ENTITY SearchNameOrEmail.accesskey "c">
 <!ENTITY searchSubjectMenu.label "Oggetto">
 <!ENTITY searchFromMenu.label "Mittente">
@@ -520,13 +520,13 @@
 <!ENTITY priorityColumn.tooltip "Clic per ordinare per priorità">
 <!ENTITY tagsColumn.tooltip "Clic per ordinare per etichetta">
 <!ENTITY accountColumn.tooltip "Fare clic per ordinare per account">
-<!ENTITY statusColumn.tooltip "Clic per ordinare per status">
+<!ENTITY statusColumn.tooltip "Clic per ordinare per stato">
 <!ENTITY sizeColumn.tooltip "Clic per ordinare per dimensione">
 <!ENTITY junkStatusColumn.tooltip "Clic per ordinare per indesiderata">
 <!ENTITY unreadColumn.tooltip "Numero messaggi non letti nella discussione">
 <!ENTITY totalColumn.tooltip "Numero totale di messaggi nella discussione">
 <!ENTITY readColumn.tooltip "Clic per ordinare per letto">
-<!ENTITY receivedColumn.tooltip "Clic per ordinare per data di ricevimento">
+<!ENTITY receivedColumn.tooltip "Clic per ordinare per data di ricezione">
 <!ENTITY starredColumn.tooltip "Clic per ordinare per speciale">
 <!ENTITY locationColumn.tooltip "Clic per ordinare per posizione">
 <!ENTITY idColumn.tooltip "Clic per ordinare per ordine ricezione">
@@ -576,9 +576,9 @@
 <!ENTITY EditContact.accesskey "M">
 <!ENTITY ViewContact.label "Visualizza contatto">
 <!ENTITY ViewContact.accesskey "V">
-<!ENTITY SendMailTo.label "Scrivi email a">
+<!ENTITY SendMailTo.label "Scrivi e-mail a">
 <!ENTITY SendMailTo.accesskey "S">
-<!ENTITY CopyEmailAddress.label "Copia indirizzo email">
+<!ENTITY CopyEmailAddress.label "Copia indirizzo e-mail">
 <!ENTITY CopyEmailAddress.accesskey "C">
 <!ENTITY CreateFilterFrom.label "Creare filtro da…">
 <!ENTITY CreateFilterFrom.accesskey "F">
@@ -596,7 +596,7 @@
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY copyImageCmd.label "Copia indirizzo immagine">
 <!ENTITY copyImageCmd.accesskey "o">
-<!ENTITY copyEmailCmd.label "Copia indirizzo email">
+<!ENTITY copyEmailCmd.label "Copia indirizzo e-mail">
 <!ENTITY copyEmailCmd.accesskey "i">
 <!ENTITY statusText.label "Fatto">
 <!ENTITY minimizeWindow.label "Contrai">

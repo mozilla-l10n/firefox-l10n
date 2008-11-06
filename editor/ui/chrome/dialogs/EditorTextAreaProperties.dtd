@@ -44,7 +44,7 @@
 <!ENTITY TextAreaCols.accessKey "C">
 <!ENTITY TextAreaReadOnly.label "Sola lettura">
 <!ENTITY TextAreaReadOnly.accessKey "S">
-<!ENTITY TextAreaDisabled.label "Disabilitato">
+<!ENTITY TextAreaDisabled.label "Disattivato">
 <!ENTITY TextAreaDisabled.accessKey "D">
 <!ENTITY TextAreaTabIndex.label "Indice tabulazione:">
 <!ENTITY TextAreaTabIndex.accessKey "I">
@@ -55,7 +55,7 @@
 <!ENTITY TextAreaWrap.label "A capo:">
 <!ENTITY TextAreaWrap.accessKey "A">
 <!ENTITY WrapDefault.value "Predefinito">
-<!ENTITY WrapOff.value "Disabilitato">
+<!ENTITY WrapOff.value "Disattivato">
 <!ENTITY WrapHard.value "Alla larghezza">
 <!ENTITY WrapSoft.value "Tra le parole">
 <!ENTITY WrapPhysical.value "Fisico">

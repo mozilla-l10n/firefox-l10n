@@ -3,7 +3,7 @@
 <!ENTITY encryptionGroupTitle.label "Cifratura">
 <!ENTITY encryptionChoiceLabel.label "Impostazioni cifratura predefinite per la spedizione messaggi:">
 <!ENTITY neverEncrypt.label "Mai (non cifrare)">
-<!ENTITY alwaysEncryptMessage.label "Sempre (impedisce la spedizione a meno che tutti i destinatarti abbiano un certificato)">
+<!ENTITY alwaysEncryptMessage.label "Sempre (impedisce la spedizione a meno che tutti i destinatari abbiano un certificato)">
 <!ENTITY encryptionCert.message "Utilizza il seguente certificato per cifrare o decifrare i messaggi ricevuti:">
 <!ENTITY certificate.button "Seleziona…">
 <!ENTITY certificate_clear.button "Pulisci">

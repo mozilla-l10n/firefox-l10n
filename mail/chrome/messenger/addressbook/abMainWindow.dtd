@@ -128,7 +128,7 @@
 <!ENTITY newIM.tooltip "Invia messaggio istantaneo o chatta">
 <!ENTITY deleteButton.tooltip "Eliminare gli indirizzi selezionati o la rubrica">
 <!ENTITY dirTreeHeader.label "Rubriche">
-<!ENTITY SearchNameOrEmail.label "Nome o email">
+<!ENTITY SearchNameOrEmail.label "Nome o e-mail">
 <!ENTITY SearchNameOrEmail.accesskey "N">
 <!ENTITY advancedButton.tooltip "Ricerca avanzata">
 <!ENTITY quickSearchCmd.key "k">
@@ -143,7 +143,7 @@
 <!ENTITY Company.accesskey "O">
 <!ENTITY NickName.label "Soprannome">
 <!ENTITY NickName.accesskey "S">
-<!ENTITY SecondEmail.label "Email aggiuntiva">
+<!ENTITY SecondEmail.label "E-mail aggiuntiva">
 <!ENTITY SecondEmail.accesskey "I">
 <!ENTITY Department.label "Reparto">
 <!ENTITY Department.accesskey "r">

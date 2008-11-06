@@ -47,7 +47,7 @@
 <!ENTITY ButtonValue.accesskey "a">
 <!ENTITY tabIndex.label "Indice tabulazione:">
 <!ENTITY tabIndex.accesskey "I">
-<!ENTITY ButtonDisabled.label "Disabilitato">
+<!ENTITY ButtonDisabled.label "Disattivato">
 <!ENTITY ButtonDisabled.accesskey "D">
 <!ENTITY AccessKey.label "Scorciatoia tastiera:">
 <!ENTITY AccessKey.accesskey "o">

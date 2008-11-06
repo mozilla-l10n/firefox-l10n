@@ -11,7 +11,7 @@
 <!ENTITY manualMarkModeDelete.accesskey "n">
 <!ENTITY markAsReadOnSpam.label "Marca come letti tutti i messaggi riconosciuti come posta indesiderata">
 <!ENTITY markAsReadOnSpam.accesskey "e">
-<!ENTITY enableJunkLogging.label "Abilita registro attività per la posta indesiderata">
+<!ENTITY enableJunkLogging.label "Attiva registro attività per la posta indesiderata">
 <!ENTITY enableJunkLogging.accesskey "o">
 <!ENTITY openJunkLog.label "Mostra registro attività">
 <!ENTITY openJunkLog.accesskey "M">
