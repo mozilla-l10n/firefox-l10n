@@ -1,5 +1,5 @@
 <!ENTITY newsblogTitle.label "Configuración de la cuenta RSS">
-<!ENTITY biffStart.label "Buscar nuevos mensajes cada ">
+<!ENTITY biffStart.label "Buscar mensajes nuevos cada ">
 <!ENTITY biffStart.accesskey "j">
 <!ENTITY biffEnd.label "minutos">
 <!ENTITY loginAtStartup.label "Comprobar si hay mensajes nuevos al iniciar">
