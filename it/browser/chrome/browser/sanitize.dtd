@@ -1,20 +1,31 @@
-<!ENTITY sanitizeDialog.title "Elimina i dati personali">
+<!ENTITY sanitizePrefs.title "Elimina dati personali">
+<!ENTITY sanitizeDialog2.title "Elimina cronologia recente">
 <!ENTITY sanitizeItems.label "Cancella adesso i seguenti elementi:">
-<!ENTITY clearDataSettings.label "Quando si richiede a &brandShortName; di eliminare i dati personali, devono essere cancellati:">
-<!ENTITY itemHistory.label "Cronologia navigazione">
-<!ENTITY itemHistory.accesskey "r">
-<!ENTITY itemFormSearchHistory.label "Dati salvati nei moduli e cronologia ricerche">
-<!ENTITY itemFormSearchHistory.accesskey "n">
+<!ENTITY clearDataSettings2.label "Alla chiusura di &brandShortName; eliminare automaticamente:">
+<!ENTITY clearDuration.label "Rimuovi">
+<!ENTITY clearDuration.lastHour "ultima ora">
+<!ENTITY clearDuration.last2Hours "ultime 2 ore">
+<!ENTITY clearDuration.last4Hours "ultime 4 ore">
+<!ENTITY clearDuration.today "cronologia di oggi">
+<!ENTITY clearDuration.everything "cronologia completa">
+<!ENTITY clearDuration.suffix "">
+<!ENTITY historySection.label "Cronologia">
+<!ENTITY dataSection.label "Dati">
+<!ENTITY itemVisitedPages.label "Pagine visitate">
+<!ENTITY itemVisitedPages.accesskey "P">
+<!ENTITY itemFormSearchEntries.label "Moduli e ricerche">
+<!ENTITY itemFormSearchEntries.accesskey "M">
 <!ENTITY itemPasswords.label "Password salvate">
 <!ENTITY itemPasswords.accesskey "P">
 <!ENTITY itemCookies.label "Cookie">
 <!ENTITY itemCookies.accesskey "C">
-<!ENTITY itemCache.label "Cache">
-<!ENTITY itemCache.accesskey "a">
+<!ENTITY itemWebCache.label "Cache di navigazione">
+<!ENTITY itemWebCache.accesskey "C">
 <!ENTITY itemOfflineApps.label "Dati non in linea dei siti web ">
 <!ENTITY itemOfflineApps.accesskey "w">
-<!ENTITY itemDownloads.label "Cronologia download">
-<!ENTITY itemDownloads.accesskey "d">
+<!ENTITY itemDownloadList.label "Elenco dei download">
+<!ENTITY itemDownloadList.accesskey "D">
 <!ENTITY itemActiveLogins.label "Login attivi">
 <!ENTITY itemActiveLogins.accesskey "L">
 <!ENTITY window.width "30em">
+<!ENTITY column.width "14em">
