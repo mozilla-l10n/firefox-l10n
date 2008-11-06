@@ -1,0 +1,16 @@
+<!ENTITY pane.title                 "Saatmise õnnestumise teavitus">
+<!ENTITY useGlobalPrefs.label       "Selle konto jaoks kasutatakse üldisi teavituse seadeid">
+<!ENTITY useGlobalPrefs.accesskey   "S">
+<!ENTITY useCustomPrefs.label       "Selle konto jaoks kasutatakse kohandatud saatmise õnnestumise teavitust">
+<!ENTITY useCustomPrefs.accesskey   "e">
+<!ENTITY requestAlways.label        "Kirja saatmisel nõutakse alati saatmise õnnestumise teavitust">
+<!ENTITY requestAlways.accesskey    "K">
+<!ENTITY optionTitle.label          "Teavitust nõutakse kui:">
+<!ENTITY requestOnSucess.label      "saatmine õnnestub">
+<!ENTITY requestOnSucess.accesskey  "s">
+<!ENTITY requestOnFailure.label     "saatmine ebaõnnestub">
+<!ENTITY requestOnFailure.accesskey "a">
+<!ENTITY requestOnDelay.label       "saatmine viibib">
+<!ENTITY requestOnDelay.accesskey   "t">
+<!ENTITY requestNever.label         "ei nõuta kunagi">
+<!ENTITY requestNever.accesskey     "n">
