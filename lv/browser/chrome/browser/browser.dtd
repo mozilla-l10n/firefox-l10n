@@ -158,8 +158,9 @@
 <!ENTITY preferencesCmdUnix.label "Iestatījumi">
 <!ENTITY preferencesCmdUnix.accesskey "m">
 
-<!ENTITY clearPrivateDataCmd.label "Dzēst privātos datus">
-<!ENTITY clearPrivateDataCmd.accesskey "P">
+<!ENTITY clearRecentHistoryCmd.label            "Dzēst pārlūkošanas vēsturi">
+<!ENTITY clearRecentHistoryCmd.accesskey        "D">
+
 
 <!ENTITY viewMenu.label "Skats">
 <!ENTITY viewMenu.accesskey "S">
