@@ -4,7 +4,7 @@
 <!ENTITY window.macWidth "41em">
 
 <!ENTITY checking.title "Buscando actualizaciones">
-<!ENTITY checking.label "Buscando nuevas versiones de &brandShortName;…">
+<!ENTITY  updateCheck.label               "Buscando nuevas versiones de &brandShortName;…">
 
 <!ENTITY noupdatesfound.title "No se encontraron actualizaciones">
 <!ENTITY  noupdatesautoenabled.intro 	"No hay nuevas actualizaciones disponibles. &brandShortName; puede buscar
