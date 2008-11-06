@@ -10,14 +10,14 @@
 
 <!ENTITY fileMenu.label "Archivo">
 <!ENTITY fileMenu.accesskey "A">
-<!ENTITY savePageCmd.label "Guardar página como...">
+<!ENTITY savePageCmd.label "Guardar página como…">
 <!ENTITY savePageCmd.accesskey "o">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Configurar página...">
+<!ENTITY pageSetupCmd.label "Configurar página…">
 <!ENTITY pageSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Vista previa">
 <!ENTITY printPreviewCmd.accesskey "V">
-<!ENTITY printCmd.label "Imprimir...">
+<!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "P">
 <!ENTITY closeCmd.label "Cerrar">
@@ -38,7 +38,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "">
 
-<!ENTITY goToLineCmd.label "Ir a línea">
+<!ENTITY goToLineCmd.label "Ir a línea…">
 <!ENTITY goToLineCmd.accesskey "I">
 <!ENTITY goToLineCmd.commandkey "l">
 
@@ -60,10 +60,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textReset.label "Normal">
 <!ENTITY menu_textReset.accesskey "N">
 
-<!ENTITY findOnCmd.label "Buscar en esta página...">
+<!ENTITY findOnCmd.label "Buscar en esta página…">
 <!ENTITY findOnCmd.accesskey "B">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label "Buscar de nuevo">
 <!ENTITY findAgainCmd.accesskey "n">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY backCmd.label "Atrás">
+<!ENTITY backCmd.accesskey "A">
+<!ENTITY forwardCmd.label "Adelante">
+<!ENTITY forwardCmd.accesskey "d">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
