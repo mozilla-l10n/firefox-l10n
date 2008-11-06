@@ -30,27 +30,43 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY sanitizeDialog.title         "Privačių duomenų šalinimas">
+<!ENTITY sanitizePrefs.title          "Pašalinti privačius duomenis">
+<!ENTITY sanitizeDialog2.title        "Žurnalo valymas">
 
 <!ENTITY sanitizeItems.label          "Išvalyti šiuos objektus:">
-<!ENTITY clearDataSettings.label      "Liepus „&brandShortName;“ pašalinti privačius duomenis, turi būti išvalomi:">
+<!ENTITY clearDataSettings2.label     "Baigiant darbą su „&brandShortName;“, turi būti išvalomi:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY itemHistory.label            "Naršymo žurnalas">
-<!ENTITY itemHistory.accesskey        "N">
-<!ENTITY itemFormSearchHistory.label           "Formos ir paieškos duomenys">
-<!ENTITY itemFormSearchHistory.accesskey       "F">
+<!ENTITY clearDuration.label          "Pašalinti ">
+<!ENTITY clearDuration.lastHour       "pastarosios valandos">
+<!ENTITY clearDuration.last2Hours     "pastarųjų dviejų valandų">
+<!ENTITY clearDuration.last4Hours     "pastarųjų keturių valandų">
+<!ENTITY clearDuration.today          "šios dienos">
+<!ENTITY clearDuration.everything     "visus">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix         "įrašus">
+
+<!ENTITY historySection.label         "Žurnalas">
+<!ENTITY dataSection.label            "Kita">
+
+<!ENTITY itemVisitedPages.label       "Lankyti tinklalapiai">
+<!ENTITY itemVisitedPages.accesskey   "L">
+<!ENTITY itemFormSearchEntries.label  "Formos ir paieškos duomenys">
+<!ENTITY itemFormSearchEntries.accesskey "F">
 <!ENTITY itemPasswords.label          "Įrašyti slaptažodžiai">
 <!ENTITY itemPasswords.accesskey      "r">
 <!ENTITY itemCookies.label            "Slapukai">
 <!ENTITY itemCookies.accesskey        "S">
-<!ENTITY itemCache.label              "Podėlis">
-<!ENTITY itemCache.accesskey          "P">
+<!ENTITY itemWebCache.label           "Podėlis">
+<!ENTITY itemWebCache.accesskey       "P">
 <!ENTITY itemOfflineApps.label        "Duomenys darbui atsijungus">
 <!ENTITY itemOfflineApps.accesskey    "D">
-<!ENTITY itemDownloads.label          "Atsiuntimų žurnalas">
-<!ENTITY itemDownloads.accesskey      "A">
+<!ENTITY itemDownloadList.label       "Atsiuntimų sąrašas">
+<!ENTITY itemDownloadList.accesskey   "A">
 <!ENTITY itemActiveLogins.label       "Esami prisijungimai">
 <!ENTITY itemActiveLogins.accesskey   "E">
+
 <!ENTITY window.width                 "30em">
+<!ENTITY column.width                 "14em">
