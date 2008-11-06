@@ -42,6 +42,7 @@ abierto, que incluye detección avanzada de correo basura y otras útiles caract
 <!ENTITY features.title "Características">
 <!ENTITY feat_multiacc.label "Admite múltiples cuentas">
 <!ENTITY feat_junk.label "Detección de correo basura">
+<!ENTITY feat_rss.label "Lector RSS">
 <!ENTITY feat_filters.label "Filtros de mensajes">
 <!ENTITY feat_htmlmsg.label "Soporte de mensajes HTML">
 <!ENTITY feat_abook.label "Libreta de direcciones">

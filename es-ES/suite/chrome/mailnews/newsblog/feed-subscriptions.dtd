@@ -1,0 +1,15 @@
+<!ENTITY newsBlogSubscriptions.label "Suscripciones RSS">
+<!ENTITY subscriptionDesc.label "Nota: eliminar o cambiar la carpeta de un canal no afectará a los artículos descargados previamente.">
+<!ENTITY feedTitle.label "Título:">
+<!ENTITY location.label "Dirección:">
+<!ENTITY button.addFeed.label "Añadir">
+<!ENTITY button.addFeed.accesskey "A">
+<!ENTITY button.editFeed.label "Editar">
+<!ENTITY button.editFeed.accesskey "E">
+<!ENTITY button.removeFeed.label "Eliminar">
+<!ENTITY button.removeFeed.accesskey "E">
+<!ENTITY button.importOPML.label "Importar">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label "Exportar">
+<!ENTITY button.exportOPML.accesskey "X">
+<!ENTITY cmd.close.commandKey "w">
