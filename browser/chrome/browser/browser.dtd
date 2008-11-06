@@ -193,8 +193,8 @@
 <!ENTITY preferencesCmdUnix.label       "Nuostatos">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearPrivateDataCmd.label            "Pašalinti privačius duomenis">
-<!ENTITY clearPrivateDataCmd.accesskey        "š">
+<!ENTITY clearRecentHistoryCmd.label          "Valyti žurnalą">
+<!ENTITY clearRecentHistoryCmd.accesskey      "V">
 
 <!ENTITY privateBrowsingCmd.label            "Privatusis naršymas">
 <!ENTITY privateBrowsingCmd.accesskey        "P">
