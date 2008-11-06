@@ -161,8 +161,8 @@
 <!ENTITY preferencesCmdUnix.label     "Foarkarren...">
 <!ENTITY preferencesCmdUnix.accesskey "F">
 
-<!ENTITY clearPrivateDataCmd.label            "Priveegegevens opskjinje">
-<!ENTITY clearPrivateDataCmd.accesskey        "p">
+<!ENTITY clearRecentHistoryCmd.label            "Wis resinte skiednis">
+<!ENTITY clearRecentHistoryCmd.accesskey        "S">
 
 <!ENTITY privateBrowsingCmd.label            "Privaat sneupe">
 <!ENTITY privateBrowsingCmd.accesskey        "s">
