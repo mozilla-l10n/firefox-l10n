@@ -159,8 +159,6 @@
 <!ENTITY preferencesCmd.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "ਮੇਰੀ ਪਸੰਦ">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
-<!ENTITY clearPrivateDataCmd.label            "ਪ੍ਰਾਈਵੇਟ ਡਾਟਾ ਸਾਫ਼ ਕਰੋ">
-<!ENTITY clearPrivateDataCmd.accesskey        "P">
 
 
 <!ENTITY viewMenu.label         "ਵੇਖੋ">
@@ -238,8 +236,6 @@
 <!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.label       "ਫਰੇਮ ਜਾਣਕਾਰੀ ਵੇਖੋ">
 <!ENTITY viewFrameInfoCmd.accesskey   "i">
-<!ENTITY showImageCmd.label           "ਚਿੱਤਰ ਵੇਖੋ">
-<!ENTITY showImageCmd.accesskey       "S">
 <!ENTITY viewImageCmd.label           "ਇੱਕਲਾ ਚਿੱਤਰ ਵੇਖੋ">
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "ਬੈਕਗਰਾਊਂਡ ਚਿੱਤਰ ਵੇਖੋ">

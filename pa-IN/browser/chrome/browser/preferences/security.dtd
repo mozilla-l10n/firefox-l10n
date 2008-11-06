@@ -8,11 +8,7 @@
   useDownloadedList.label convey the meaning "suspected" (and not something like
   "known").
 -->
-<!ENTITY  tellMaybeAttackSite2.label     "ਅਟੈਕ ਸਾਈਟ ਵਜੋਂ ਰਿਪੋਰਟ ਕੀਤੀਆਂ ਸਾਈਟਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ">
-<!ENTITY  tellMaybeAttackSite.accesskey "k">
 
-<!ENTITY  tellMaybeForgery2.label     "ਵੈੱਬ ਜਾਲ੍ਹਸਾਜ਼ੀ ਰਿਪੋਰਟ ਕੀਤੀਆਂ ਸਾਈਟਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ">
-<!ENTITY  tellMaybeForgery.accesskey "B">
 
 <!ENTITY  addonExceptions.label         "ਛੋਟ...">
 <!ENTITY  addonExceptions.accesskey     "E">

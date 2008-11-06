@@ -4,10 +4,6 @@
 <!ENTITY  window.macWidth                 "39em">
 
 <!ENTITY  checking.title                  "ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
-<!ENTITY  checking.label                  "&brandShortName; ਹੁਣ ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰ ਰਿਹਾ ਹੈ...">
-
-<!ENTITY  cancel.label                    "ਰੱਦ ਕਰੋ">
-<!ENTITY  cancel.accesskey                "C">
 
 <!ENTITY  noupdatesfound.title            "ਕੋਈ ਅੱਪਡੇਟ ਨਹੀਂ ਮਿਲਿਆ ਹੈ">
 <!ENTITY  noupdatesautoenabled.intro      "There are no updates available. &brandShortName; will check
@@ -17,11 +13,6 @@
 
 <!ENTITY  clickHere.label                 "ਇਸ ਅੱਪਡੇਟ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਪਰਾਪਤ ਕਰਨ ਲਈ ਇੱਥੇ ਦਬਾਉ">
 
-<!ENTITY  incompatible.warning            "ਇਸ ਅੱਪਡੇਟ ਨਾਲ ਤੁਹਾਡੇ ਕੁਝ ਐਡ-ਆਨ/ਸਰੂਪ ਉਦੋਂ ਤੱਕ ਕੰਮ ਕਰਨਾ ਬੰਦ ਕਰ ਦੇਣਗੇ, ਜਦੋਂ ਤੱਕ ਕਿ ਉਹਨਾਂ ਦੇ ਅੱਪਡੇਟ ਮਿਲ ਨਹੀਂ ਜਾਦੀ ਹਨ।।">
-<!ENTITY  listIncompatible.label          "ਲਿਸਟ ਵੇਖੋ">
-<!ENTITY  listIncompatible.accesskey      "L">
-
-<!ENTITY  upgrade.evangelism              "ਤੁਹਾਨੂੰ &brandShortName; ਨੂੰ ਜਿੰਨਾ ਛੇਤੀ ਹੋ ਸਕੇ ਡਾਊਨਲੋਡ &amp; ਇੰਸਟਾਲ &#0187; ਰਾਹੀਂ ਅੱਪਡੇਟ ਕਰਨ ਦੀ ਜ਼ੋਰਦਾਰ ਸਿਫਾਰਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ।">
 
 <!ENTITY  license.instructions            "ਜੇਕਰ ਤੁਸੀਂ ਇਹਨਾਂ ਸ਼ਰਤਾਂ ਨਾਲ ਸਹਿਮਤ ਹੋ ਤਾਂ ਇਸ ਅੱਪਡੇਟ ਨੂੰ ਜਾਰੀ ਰੱਖਣ ਲਈ ਮੈਂ ਸਹਿਮਤ ਹਾਂ ਨੂੰ ਦਬਾਉ।">
 
@@ -40,10 +31,6 @@
 <!ENTITY  connecting.label                "ਅੱਪਡੇਟ ਸਰਵਰ ਨਾਲ ਜੁੜਿਆ ਜਾ ਰਿਹਾ ਹੈ...">
 <!ENTITY  verificationFailedText.label    "&brandShortName; ਇਸ ਰਾਹੀਂ ਡਾਊਨਲੋਡ ਕੀਤੇ ਆਵਰਤੀ ਅੱਪਡੇਟ ਦੀ ਇਕਸਾਰਤਾ ਚੈਕ ਕਰਨ ਲਈ ਫੇਲ ਹੋਇਆ ਹੈ, ਸੋ ਹੁਣ ਪੂਰਾ ਅੱਪਡੇਟ ਪੈਕੇਜ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ।">
 <!ENTITY  details.link                    "ਵੇਰਵਾ">
-<!ENTITY  pause.label                     "ਪੋਜ਼">
-<!ENTITY  pause.accesskey                 "e">
-<!ENTITY  close.label                     "ਬੰਦ ਕਰੋ">
-<!ENTITY  close.accesskey                 "C">
 
 <!ENTITY  error.label                     "ਇਸ ਅੱਪਡੇਟ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਦੌਰਾਨ ਗਲਤੀ ਹੈ। &brandShortName; ਨੂੰ ਅੱਪਡੇਟ ਨਹੀਂ ਕੀਤਾ ਸਕਿਆ ਹੈ, 
                                            ਕਿਉਕਿ:">
@@ -52,20 +39,12 @@
 <!ENTITY  errorpatching.title             "ਅੱਪਡੇਟ ਫੇਲ੍ਹ ਹੋਇਆ">
 <!ENTITY  errorpatching.intro             "ਅਧੂਰੇ ਅੱਪਡੇਟ ਨੂੰ ਲਾਗੂ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ। 
                                             &brandShortName; ਪੂਰੇ ਅੱਪਡੇਟ ਨੂੰ ਮੁੜ ਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ ਕਰੇਗਾ।">
-<!ENTITY  finished.title                  "ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਹੋ ਗਿਆ">
-<!ENTITY  finished.text                   "ਅੱਪਡੇਟ ਨੂੰ ਸਫ਼ਲਤਾਪੂਰਕ ਡਾਊਨਲੋਡ ਅਤੇ ਜਾਂਚਿਆ ਗਿਆ ਹੈ ਅਤੇ ਇਸ ਨੂੰ
-                                            &brandShortName; ਦੇ ਅਗਲੀ ਵਾਰ ਚਾਲੂ ਹੋਣ ਉਪਰੰਤ ਇੰਸਟਾਲ ਕੀਤਾ ਜਾਵੇਗਾ">
-<!ENTITY  finishedBackground.title        "ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਹੋਣ ਲਈ ਤਿਆਰ ਹੈ">
+
 <!ENTITY  finishedBackground.name         "ਅੱਪਡੇਟ:">
 
-<!ENTITY  finishedBackground.text         "&brandShortName; ਨੇ ਇੱਕ ਖਾਸ ਅੱਪਡੇਟ ਨੂੰ ਡਾਊਨਲੋਡ ਅਤੇ ਜਾਂਚ ਲਿਆ ਹੈ।
-                                           ਹੋਰ ਵੇਰਵੇ ਲਈ ਹੇਠਾਂ ਦਬਾਓ।">
-<!ENTITY  finishedBackground.more1        "ਅੱਪਡੇਟ ਨੂੰ ਹੁਣੇ ਇੰਸਟਾਲ ਕਰਨ ਲਈ &brandShortName; ਮੁੜ-ਚਾਲੂ ਨੂੰ ਦਬਾਓ।">
+
 
 <!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!ENTITY  finishedBackground.textNotNow   "ਇਹ ਡਾਈਲਾਗ ਨੂੰ ਬੰਦ ਕਰਨ ਅਤੇ ਕੰਮ ਜਾਰੀ ਰੱਖਣ ਲਈ ਜਾਰੀ ਰੱਖੋ ਨੂੰ ਦਬਾਓ, &brandShortName;
-                                           ਅਗਲੀ ਵਾਰ ਚਾਲੂ ਹੋਣ ਉਪਰੰਤ ਇਸ ਨੂੰ ਇੰਸਟਾਲ ਕਰੇਗਾ।">
-
 
 <!ENTITY  installed.title                 "ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਹੋਇਆ">
 <!ENTITY  installed.intro                 "ਅੱਪਡੇਟ ਸਫ਼ਲਤਾਪੂਰਕ ਇੰਸਟਾਲ ਹੋਇਆ।">

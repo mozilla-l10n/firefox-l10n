@@ -1,22 +1,10 @@
-<!ENTITY sanitizeDialog.title         "ਪ੍ਰਾਈਵੇਟ ਡਾਟਾ ਸਾਫ਼ ਕਰੋ">
 
-<!ENTITY clearDataSettings.label      "ਜਦੋਂ ਮੈਂ &brandShortName; ਨੂੰ ਮੇਰਾ ਪ੍ਰਾਈਵੇਟ ਡਾਟਾ ਸਾਫ਼ ਕਰਨ ਲਈ ਕਿਹਾ ਤਾਂ ਇਸ ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੀਦਾ ਹੈ:">
 
 <!ENTITY sanitizeItems.label          "ਹੇਠ ਦਿੱਤੀਆਂ ਆਈਟਮਾਂ ਹੁਣੇ ਸਾਫ਼ ਕਰੋ:">
-<!ENTITY itemHistory.label            "ਸਾਇਟ ਖੋਲ੍ਹਣ ਅਤੀਤ">
-<!ENTITY itemHistory.accesskey        "B">
-<!ENTITY itemFormSearchHistory.label  "ਸੰਭਾਲੇ ਫਾਰਮ ਅਤੇ ਖੋਜ ਅਤੀਤ">
-<!ENTITY itemFormSearchHistory.accesskey "F">
 <!ENTITY itemPasswords.label          "ਸੰਭਾਲੇ ਪਾਸਵਰਡ">
 <!ENTITY itemPasswords.accesskey      "P">
 <!ENTITY itemCookies.label            "ਕੂਕੀਜ਼">
 <!ENTITY itemCookies.accesskey        "C">
-<!ENTITY itemCache.label              "ਕੈਸ਼">
-<!ENTITY itemCache.accesskey          "a">
 <!ENTITY itemOfflineApps.label        "ਆਫਲਾਈਨ ਵੈਬ-ਸਾਈਟ ਡਾਟਾ">
 <!ENTITY itemOfflineApps.accesskey    "O">
-<!ENTITY itemDownloads.label          "ਡਾਊਨਲੋਡ ਅਤੀਤ">
-<!ENTITY itemDownloads.accesskey      "D">
-<!ENTITY itemSessions.label           "ਪਰਮਾਣਿਤ ਸ਼ੈਸ਼ਨ">
-<!ENTITY itemSessions.accesskey       "S">
 <!ENTITY window.width                 "30em">

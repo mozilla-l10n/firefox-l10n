@@ -22,9 +22,6 @@
 <!ENTITY printButton.tooltip            "ਇਹ ਪੇਜ਼ ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY searchtab.label                "ਖੋਜ">
-<!ENTITY searchtab.accesskey            "S">
-<!ENTITY searchClose.tooltip            "ਖੋਜ ਨਤੀਜੇ ਬੰਦ ਕਰੋ">
 <!ENTITY toctab.label                   "ਸਮੱਗਰੀ">
 <!ENTITY toctab.accesskey               "C">
 
