@@ -384,6 +384,7 @@
 <!ENTITY read.only.reply.label           "Vasta:">
 <!ENTITY read.only.accept.label          "Osalen">
 <!ENTITY read.only.decline.label         "Ei osale">
+<!ENTITY read.only.tentative.label       "Pole otsustanud">
 <!ENTITY read.only.needs.action.label    "Kinnitan hiljem">
 <!ENTITY read.only.reminder.label        "Meeldetuletus:">
 <!ENTITY read.only.attendees.label       "Osalejad">
