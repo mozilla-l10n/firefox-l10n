@@ -71,6 +71,11 @@
 <!ENTITY cmd.edit_redo.accesskey    "R">
 <!ENTITY cmd.edit_redo.key          "y">
 
+<!ENTITY cmd.delete.label               "刪除此頁面">
+<!ENTITY cmd.delete.accesskey           "D">
+<!ENTITY cmd.deleteDomainData.label     "刪除與此網站有關的紀錄">
+<!ENTITY cmd.deleteDomainData.accesskey "F">
+
 <!ENTITY cmd.open.label                  "開啟">
 <!ENTITY cmd.open.accesskey              "O">
 <!ENTITY cmd.open_window.label           "用新視窗開啟">
