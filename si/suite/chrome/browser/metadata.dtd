@@ -1,26 +1,1 @@
-<!ENTITY no-properties.label   "No properties set.">
-
-<!ENTITY caption.label         "Element Properties">
-<!ENTITY image-sec.label       "Image Properties">
-<!ENTITY image-url.label       "Location:">
-<!ENTITY image-desc.label      "Description:">
-<!ENTITY image-alt.label       "Alternate text:">
-<!ENTITY image-width.label     "Width:">
-<!ENTITY image-height.label    "Height:">
-<!ENTITY image-filesize.label  "Size of File:">
-<!ENTITY insdel-sec.label      "Insert/Delete Properties">
-<!ENTITY insdel-cite.label     "Info:">
-<!ENTITY insdel-date.label     "Date:">
-<!ENTITY link-sec.label        "Link Properties">
-<!ENTITY link-url.label        "Address:">
-<!ENTITY link-target.label     "Will open in:">
-<!ENTITY link-type.label       "Target type:">
-<!ENTITY link-lang.label       "Target language:">
-<!ENTITY link-rel.label        "Relation:">
-<!ENTITY link-rev.label        "Reversed relation:">
-<!ENTITY misc-sec.label        "Miscellaneous Properties">
-<!ENTITY misc-lang.label       "Text language:">
-<!ENTITY misc-title.label      "Title:">
-<!ENTITY misc-tblsummary.label "Table summary:">
-<!ENTITY quote-sec.label       "Quote Properties">
-<!ENTITY quote-cite.label      "Info:">
+<!ENTITY no-properties.label   "වත්කම් කුළකය නැත."><!ENTITY caption.label         "අංග වත්කම්"><!ENTITY image-sec.label       "රූපයේ වත්කම්"><!ENTITY image-url.label       "ස්ථානය:"><!ENTITY image-desc.label      "විස්තරය:"><!ENTITY image-alt.label       "විකල්පීය පෙළ:"><!ENTITY image-size.label      " මාන:"><!ENTITY image-type.label      "වර්‍ගය:"><!ENTITY link-ping.label       "දන්වනු ලබයි:"><!ENTITY image-filesize.label  "ගොනුවේ පරිමාණය:"><!ENTITY insdel-sec.label      "වත්කම් ඇතුළත්/ඉවත් කිරීම"><!ENTITY insdel-cite.label     "තොරතුරු:"><!ENTITY insdel-date.label     "දිනය:"><!ENTITY link-sec.label        "පුරුක් වත්කම්"><!ENTITY link-url.label        "ලිපිනය:"><!ENTITY link-target.label     "විවෘත්ත වනුයේ:"><!ENTITY link-type.label       "ඉලක්ක වර්‍ගය:"><!ENTITY link-lang.label       "ඉලක්කගත භාෂාව:"><!ENTITY link-rel.label        "සම්බන්ධය:"><!ENTITY link-rev.label        "ප්‍රතිවර්තිත සම්බන්ධය:"><!ENTITY misc-sec.label        "විවිධ වත්කම්"><!ENTITY misc-lang.label       "පෙළ භාෂාව:"><!ENTITY misc-title.label      "සිරස්තල:"><!ENTITY misc-tblsummary.label "වගු සාරාංශය:"><!ENTITY quote-sec.label       "උපුටාගත් වත්කම්"><!ENTITY quote-cite.label      "තොරතුරු:">
