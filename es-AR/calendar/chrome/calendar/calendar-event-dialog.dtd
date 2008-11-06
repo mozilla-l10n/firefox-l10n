@@ -20,7 +20,7 @@
    -
    - Contributor(s):
    -   Cédric Corazza <cedric.corazza@wanadoo.fr>
-   -   Michael Büttner <michael.buettner@sun.com>
+   -   Michael Buettner <michael.buettner@sun.com>
    -   Philipp Kewisch <mozilla@kewis.ch>
    -   Stefan Sitter <ssitter@gmail.com>
    -   Martin Schroeder <mschroeder@mozilla.x-home.org>
@@ -385,6 +385,7 @@
 <!ENTITY read.only.reply.label           "Responder:">
 <!ENTITY read.only.accept.label          "Participaré">
 <!ENTITY read.only.decline.label         "No participaré">
+<!ENTITY read.only.tentative.label       "Podría participar">
 <!ENTITY read.only.needs.action.label    "Confirmaré después">
 <!ENTITY read.only.reminder.label        "Recordatorio:">
 <!ENTITY read.only.attendees.label       "Participantes">
