@@ -1,0 +1,31 @@
+<!--LOCALIZATION NOTE : FILE The Advanced Proxy Preferences dialog -->
+<!ENTITY  pref.proxies.advanced.title "Preferências avançadas de Proxy">
+<!ENTITY  protocols.caption           "Protocolo específico dos Proxies">
+<!ENTITY  protocols.description       "Normalmente o mesmo proxy pode negociar com todos os protocolos listados aqui.">
+<!ENTITY  http.label                  "HTTP Proxy:">
+<!ENTITY  http.accesskey              "x">
+<!ENTITY  ssl.label                   "SSL Proxy:">
+<!ENTITY  ssl.accesskey               "L">
+<!ENTITY  ftp.label                   "FTP Proxy:">
+<!ENTITY  ftp.accesskey               "F">
+<!ENTITY  gopher.label                "Gopher Proxy:">
+<!ENTITY  gopher.accesskey            "G">
+<!ENTITY  reuseProxy.label            "Usar definições HTTP Proxy para todos os protocolos">
+<!ENTITY  reuseProxy.accesskey        "U">
+<!ENTITY  port.label                  "Porta:">
+<!ENTITY  HTTPPort.accesskey          "P">
+<!ENTITY  SSLPort.accesskey           "o">
+<!ENTITY  FTPPort.accesskey           "r">
+<!ENTITY  gopherPort.accesskey        "">
+
+<!ENTITY  socks.caption               "Proxy geral">
+<!ENTITY  socks.description           "Um SOCKS proxy é um proxy genérico que usado às vezes em ambientes corporativos ou similares.">
+<!ENTITY  socks.label                 "SOCKS Proxy:">
+<!ENTITY  socks.accesskey             "S">
+<!ENTITY  socks4.label                "SOCKS v4">
+<!ENTITY  socks4.accesskey            "C">
+<!ENTITY  socks5.label                "SOCKS v5">
+<!ENTITY  socks5.accesskey            "K">
+<!ENTITY  socksRemoteDNS.label        "Usar para negociar com servidores (recomendado para SOCKS v5)">
+<!ENTITY  socksRemoteDNS.accesskey    "e">
+<!ENTITY  SOCKSport.accesskey         "t">

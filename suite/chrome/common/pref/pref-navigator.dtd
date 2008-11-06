@@ -1,0 +1,47 @@
+<!ENTITY pref.navigator.title           "Navegador">
+
+<!ENTITY navRadio                       "Mostrar ao">
+<!ENTITY navStartPageMenu.label         "Iníciar o navegador">
+<!ENTITY newWinPageMenu.label           "Nova janela">
+<!ENTITY newTabPageMenu.label           "Novo separador">
+
+<!ENTITY blankPageRadio.label           "Página em branco">
+<!ENTITY blankPageRadio.accesskey       "b">
+<!ENTITY homePageRadio.label            "Página inicial">
+<!ENTITY homePageRadio.accesskey        "i">
+<!ENTITY lastPageRadio.label            "Última página visitada">
+<!ENTITY lastPageRadio.accesskey        "l">
+
+<!ENTITY header2.label                  "Página inicial">
+<!ENTITY homePageIntro.label            "Clicar no botão da página inicial leva-o para este grupo de páginas:">
+<!ENTITY useCurrent.label               "Usar página actual">
+<!ENTITY useCurrent.accesskey           "U">
+<!ENTITY useCurrentGroup.label          "Usar grupo actual">
+<!ENTITY useCurrentGroup.accesskey      "g">
+<!ENTITY browseFile.label               "Escolher ficheiro…">
+<!ENTITY browseFile.accesskey           "c">
+<!ENTITY useDefault.label               "Restaurar pré-definições">
+<!ENTITY useDefault.accesskey           "R">
+
+<!ENTITY toolbarIntro.label             "Seleccione os botões que quer ver na barra de ferramentas:">
+
+<!ENTITY navToolbarIntro.label          "Barra de ferramentas de navegação">
+<!ENTITY goButton.label                 "Ir">
+<!ENTITY goButton.accesskey             "r">
+<!ENTITY searchButton.label             "Procurar">
+<!ENTITY searchButton.accesskey         "P">
+<!ENTITY printButton.label              "Imprimir">
+<!ENTITY printButton.accesskey          "I">
+
+<!ENTITY persToolbarIntro.label         "Barra de ferramentas pessoal">
+<!ENTITY homeButton.label               "Página inicial">
+<!ENTITY homeButton.accesskey           "g">
+<!ENTITY bookmarksButton.label          "Marcadores">
+<!ENTITY bookmarksButton.accesskey      "M">
+
+<!ENTITY defaultBrowserGroup.label      "Navegador pré-definido">
+<!ENTITY defaultBrowserButton.label     "Aplicar navegador pré-definido">
+<!ENTITY defaultBrowserButton.accesskey "d">
+<!ENTITY alreadyDefaultText             "O &brandShortName; já é o seu navegador pré-definido.">
+<!ENTITY defaultPendingText             "O &brandShortName; irá passar a ser o seu navegador pré-definido quando clicar em OK.">
+<!ENTITY makeDefaultText                "Tornar o &brandShortName; o seu navegador pré-definido.">
