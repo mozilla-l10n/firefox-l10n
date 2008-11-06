@@ -59,8 +59,6 @@
 <!ENTITY  generalEncoding       "સંગ્રહપદ્ધતિ:">
 <!ENTITY  generalMetaName       "નામ">
 <!ENTITY  generalMetaContent    "વિષયસુચી">
-<!ENTITY  generalSecurityMore   "વધુ">
-<!ENTITY  generalSecurityMore.accesskey "o">
 
 <!ENTITY  mediaTab              "મીડિયા">
 <!ENTITY  mediaTab.accesskey    "M">

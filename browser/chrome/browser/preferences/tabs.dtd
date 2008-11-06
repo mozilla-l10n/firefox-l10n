@@ -1,9 +1,3 @@
-<!ENTITY newPagesIn.label             "નવા પાનાંઓ આમાં ખૂલવા જોઈએ:">
-<!ENTITY inNewWindow.label            "એક નવી વિન્ડો">
-<!ENTITY inNewWindow.accesskey        "w">
-<!ENTITY inNewTab.label               "એક નવી ટેબ">
-<!ENTITY inNewTab.accesskey           "t">
-
 <!ENTITY warnCloseMultipleTabs.label      "જ્યારે હું ઘણી ટેબો સાથેની વિન્ડો બંધ કરું ત્યારે મને ચેતવો">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
 

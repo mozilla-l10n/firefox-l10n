@@ -156,9 +156,6 @@
 <!ENTITY preferencesCmdUnix.label       "પસંદગીઓ">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearPrivateDataCmd.label            "ખાનગી માહિતી સાફ કરો">
-<!ENTITY clearPrivateDataCmd.accesskey        "P">
-
 <!ENTITY viewMenu.label         "જુઓ"> 
 <!ENTITY viewMenu.accesskey       "V"> 
 <!ENTITY viewToolbarsMenu.label       "સાધનપટ્ટીઓ"> 
@@ -290,7 +287,6 @@
 <!ENTITY fullZoom.label                 "લખાણ માપ">
 <!ENTITY fullZoom.accesskey             "z">
 
-<!ENTITY newTabButton.tooltip           "નવી ટેબ ખોલો">
 <!ENTITY newWindowButton.tooltip        "નવી વિન્ડો ખોલો">
 <!ENTITY sidebarCloseButton.tooltip     "બાજુપટ્ટી બંધ કરો">
 
@@ -354,10 +350,8 @@
 <!ENTITY showAllHistoryCmd2.label "બધો ઈતિહાસ બતાવો…">
 
 <!ENTITY fullZoomToggleCmd.label        "માત્ર લખાણ નાનુંમોટું કરો">
-<!ENTITY showImageCmd.accesskey       "S">
 <!ENTITY downloadMonitor2.tooltip "ડાઉનલોડ વિન્ડો ખોલવા માટે ક્લિક કરો">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
-<!ENTITY showImageCmd.label           "ચિત્ર બતાવો">
 <!ENTITY copyLinkTextCmd.accesskey    "x">
 <!ENTITY copyLinkTextCmd.label        "કડી લખાણની નકલ કરો">
 

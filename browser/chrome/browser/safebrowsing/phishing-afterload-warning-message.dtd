@@ -15,8 +15,6 @@
 <!ENTITY safeb.palm.notforgery.label2 "આ વેબ ગુનાખોરી નથી">
 <!ENTITY safeb.palm.report.label "આ સાઈટ શા માટે અટકાવાયેલ હતી?">
 
-<!ENTITY safeb.urlbaricon.tooltip "આ પાનું ભયાનક હોઈ શકે; વિગતો માટે ક્લિક કરો.">
-
 <!ENTITY safeb.blocked.malware.title "અહેવાલ અપાયેલ હુમલા સાઈટો!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "<span id='malware_sitename'/> આગળની આ વેબસાઈટ હુમલા સાઈટ તરીકે અહેવાલ આપવામાં આવેલ છે અને તે તમારી સુરક્ષા પસંદગીઓ પર અટકાવાયેલ છે.">
