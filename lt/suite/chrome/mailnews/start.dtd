@@ -47,6 +47,7 @@
 <!ENTITY features.title "Savybės">
 <!ENTITY feat_multiacc.label "galimybė dirbti su keliais pašto abonentais vienu metu">
 <!ENTITY feat_junk.label "šlamšto aptikimas">
+<!ENTITY feat_rss.label "sklaidos kanalų (RSS) skaitytuvė">
 <!ENTITY feat_filters.label "Laiškų filtrai">
 <!ENTITY feat_htmlmsg.label "darbas su raiškiaisiais (HTML) laiškais">
 <!ENTITY feat_abook.label "Adresų knyga">

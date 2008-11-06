@@ -12,6 +12,8 @@
    - License.
    -
    - Contributor(s):
+   -   Gintautas Grigas <grigas@ktl.mii.lt>
+   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
    -   Rimas Kudelis <rq@akl.lt>
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -28,13 +30,23 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY defaultClient.title  "Numatytoji programa">
-<!ENTITY defaultClient.intro  "Skirti „&brandShortName;“ numatytąja:">
+<!ENTITY newsblogTitle.label "RSS paskyros nuostatos">
 
-<!ENTITY browser.label "žiniatinklio naršykle">
-<!ENTITY email.label "el. pašto programa">
-<!ENTITY newsgroups.label "naujienų grupių programa">
-<!ENTITY rss.label "sklaidos kanalų skaitytuve">
+<!ENTITY biffStart.label "Tikrinti, ar atsirado naujų straipsnių, kas ">
+<!ENTITY biffStart.accesskey "k">
+<!ENTITY biffEnd.label "min.">
 
-<!ENTITY checkOnStartup.label "Paleidžiant „&brandShortName;“ tikrinti, ar ji yra numatytoji">
-<!ENTITY checkOnStartup.accesskey "P">
+<!ENTITY loginAtStartup.label "Paleidžiant programą tikrinti, ar yra naujų straipsnių"> 
+<!ENTITY loginAtStartup.accesskey "P">
+
+<!ENTITY useQuickMode.label "Pradžioje rodyti ne visą straipsnį, o tik jo santrauką"> 
+<!ENTITY useQuickMode.accesskey "r">
+
+<!ENTITY manageSubscriptions.label "Tvarkyti prenumeratas…"> 
+<!ENTITY manageSubscriptions.accesskey "T">
+
+<!-- entities from defaults/isp/rss.rdf -->
+<!ENTITY rss.accountName                "Naujienos">
+<!ENTITY rss.wizardShortName            "RSS">  
+<!ENTITY rss.wizardLongName             "RSS naujienas">
+<!ENTITY rss.wizardLongName.accesskey   "R">
