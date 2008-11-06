@@ -68,6 +68,8 @@
 <!-- ENTITY  generalMeta           "মিটা:" -->
 <!ENTITY  generalMetaName       "নাম">
 <!ENTITY  generalMetaContent    "বিষয়বস্তু">
+<!ENTITY  generalSecurityDetails   "Details">
+<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!-- ENTITY  formsTab              "ফর্ম" -->
 <!-- ENTITY  formsAccesskey        "F" -->
@@ -134,8 +136,8 @@
 <!ENTITY  feedTab               "ফিড">
 <!ENTITY  feedTab.accesskey     "F">
 
-<!ENTITY  generalSecurityMore   "অতিরিক্ত">
-<!ENTITY  generalSecurityMore.accesskey "o">
+<!-- ENTITY  generalSecurityMore   "অতিরিক্ত" -->
+<!-- ENTITY  generalSecurityMore.accesskey "o" -->
 
 <!ENTITY  permAllow             "অনুমোদন করুন">
 <!ENTITY  permAllowSession      "সেশানের জন্য অনুমোদন করুন">

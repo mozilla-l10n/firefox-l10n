@@ -1,23 +1,23 @@
-<!ENTITY sanitizeDialog.title         "ব্যক্তিগত তথ্য মুছে ফেলুন">
+<!-- ENTITY sanitizeDialog.title         "ব্যক্তিগত তথ্য মুছে ফেলুন" -->
 
 <!ENTITY sanitizeItems.label          "নিম্নলিখিত বিষয়বস্তুগুলি এই মুহূর্তে মুছে ফেলুন:">
-<!ENTITY clearDataSettings.label      "&brandShortName;-কে ব্যক্তিগত তথ্য মুছে ফেলার নির্দেশ দেওয়া হলে, নিম্নলিখিত তথ্য মুছে ফেলা হবে:">
+<!-- ENTITY clearDataSettings.label      "&brandShortName;-কে ব্যক্তিগত তথ্য মুছে ফেলার নির্দেশ দেওয়া হলে, নিম্নলিখিত তথ্য মুছে ফেলা হবে:" -->
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY itemHistory.label            "ব্রাউজিং সংক্রান্ত পূর্ববর্তী তথ্য">
-<!ENTITY itemHistory.accesskey        "B">
-<!ENTITY itemFormSearchHistory.label  "ফর্মের সংরক্ষিত তথ্য এবং ব্রাউজিং সংক্রান্ত পূর্ববর্তী তথ্য">
-<!ENTITY itemFormSearchHistory.accesskey "F">
+<!-- ENTITY itemHistory.label            "ব্রাউজিং সংক্রান্ত পূর্ববর্তী তথ্য" -->
+<!-- ENTITY itemHistory.accesskey        "B" -->
+<!-- ENTITY itemFormSearchHistory.label  "ফর্মের সংরক্ষিত তথ্য এবং ব্রাউজিং সংক্রান্ত পূর্ববর্তী তথ্য" -->
+<!-- ENTITY itemFormSearchHistory.accesskey "F" -->
 <!ENTITY itemPasswords.label          "সংরক্ষিত পাসওয়ার্ড">
 <!ENTITY itemPasswords.accesskey      "P">
 <!ENTITY itemCookies.label            "কুকি">
 <!ENTITY itemCookies.accesskey        "C">
-<!ENTITY itemCache.label              "ক্যাশে">
-<!ENTITY itemCache.accesskey          "a">
-<!ENTITY itemDownloads.label          "ডাউনলোড সংক্রান্ত পূর্ববর্তী তথ্য">
-<!ENTITY itemDownloads.accesskey      "D">
-<!ENTITY itemSessions.label           "অনুমোদিত সেশান">
+<!-- ENTITY itemCache.label              "ক্যাশে" -->
+<!-- ENTITY itemCache.accesskey          "a" -->
+<!-- ENTITY itemDownloads.label          "ডাউনলোড সংক্রান্ত পূর্ববর্তী তথ্য" -->
+<!-- ENTITY itemDownloads.accesskey      "D" -->
+<!-- ENTITY itemSessions.label           "অনুমোদিত সেশান" -->
 <!ENTITY itemSessions.accesskey       "S">
 <!ENTITY itemOfflineApps.label        "অফ-লাইন ওয়েব-সাইটের তথ্য">
 <!ENTITY itemOfflineApps.accesskey    "O">

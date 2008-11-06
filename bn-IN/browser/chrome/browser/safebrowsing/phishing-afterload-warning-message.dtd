@@ -26,7 +26,7 @@
 
 <!-- ENTITY safeb.palm.provider.logo.tooltip "নিরাপদ ব্রাউজিং ব্যবস্থা থেকে প্রাপ্ত সতর্কবার্তা" -->
 
-<!ENTITY safeb.urlbaricon.tooltip "পৃষ্ঠাটি বিপজ্জনক হতে পারে; বিবরণ জানতে ক্লিক করুন।">
+<!-- ENTITY safeb.urlbaricon.tooltip "পৃষ্ঠাটি বিপজ্জনক হতে পারে; বিবরণ জানতে ক্লিক করুন।" -->
 
 <!ENTITY safeb.blocked.malware.title "সুনিশ্চিত বিপজ্জনক সাইট!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

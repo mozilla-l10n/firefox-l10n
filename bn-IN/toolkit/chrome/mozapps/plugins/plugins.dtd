@@ -21,3 +21,6 @@
 <!ENTITY pluginWizard.finalPage.restart.label               "প্লাগ-ইনগুলি কার্যকরী করার জন্য &brandShortName; পুনরায় আরম্ভ করা প্রয়োজন।">
 
 <!ENTITY missingPlugin.label                                 "প্লাগ-ইন ডাউনলোড করার জন্য এইখানে ক্লিক করুন।">
+
+<!ENTITY disabledPlugin.label                                "The plugin for this content has been disabled. Click here to manage your plugins.">
+<!ENTITY blockedPlugin.label                                 "This plugin has been blocked for your protection.">

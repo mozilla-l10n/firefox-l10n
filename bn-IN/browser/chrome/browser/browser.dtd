@@ -13,6 +13,10 @@
 <!ENTITY downloadMonitor2.tooltip "Click to open downloads window">
 <!-- ENTITY nothingAvailable.label "(কিছু উপলব্ধ নেই)" -->
 
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Private Browsing)">
+
 <!ENTITY tabCmd.label "নতুন ট্যাব">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
@@ -38,6 +42,20 @@
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisPageCmd.label "চিহ্নিত পৃষ্ঠা বুকমার্ক করুন">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "Play">
+<!ENTITY mediaPlay.accesskey         "P">
+<!ENTITY mediaPause.label            "Pause">
+<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaMute.label             "Mute">
+<!ENTITY mediaMute.accesskey         "M">
+<!ENTITY mediaUnmute.label           "Unmute">
+<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaShowControls.label     "Show Controls">
+<!ENTITY mediaShowControls.accesskey "C">
+<!ENTITY mediaHideControls.label     "Hide Controls">
+<!ENTITY mediaHideControls.accesskey "C">
 
 <!ENTITY goOfflineCmd.label "অফলাইন অবস্থায় কর্ম">
 <!ENTITY goOfflineCmd.accesskey "w">
@@ -128,8 +146,8 @@
 <!ENTITY historySidebarCmd.commandKey   "h">
 <!ENTITY showAllHistoryCmd2.label "সকল পূর্ববর্তী তথ্য প্রদর্শন করা হবে">
 <!ENTITY showAllHistoryCmd.commandkey "H">
-<!ENTITY showImageCmd.label           "ছবি প্রদর্শন করা হবে">
-<!ENTITY showImageCmd.accesskey       "S">
+<!-- ENTITY showImageCmd.label           "ছবি প্রদর্শন করা হবে" -->
+<!-- ENTITY showImageCmd.accesskey       "S" -->
 
 <!ENTITY toolsMenu.label              "সরঞ্জাম">
 <!ENTITY toolsMenu.accesskey          "T"> 
@@ -189,8 +207,11 @@
 <!ENTITY preferencesCmdUnix.label       "বিবিধ বৈশিষ্ট্য">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearPrivateDataCmd.label            "ব্যক্তিগত তথ্য মুছে ফেলুন">
-<!ENTITY clearPrivateDataCmd.accesskey        "P">
+<!-- ENTITY clearPrivateDataCmd.label            "ব্যক্তিগত তথ্য মুছে ফেলুন" -->
+<!-- ENTITY clearPrivateDataCmd.accesskey        "P" -->
+
+<!ENTITY privateBrowsingCmd.label            "Private Browsing">
+<!ENTITY privateBrowsingCmd.accesskey        "B">
 
 <!ENTITY viewMenu.label         "প্রদর্শন"> 
 <!ENTITY viewMenu.accesskey       "V"> 
@@ -285,8 +306,19 @@
 <!ENTITY viewImageCmd.label           "ছবি প্রদর্শন">
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "পটভূমির ছবি প্রদর্শন">
+<!ENTITY viewVideoCmd.label           "View Video">
+<!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.accesskey     "w">
+<!ENTITY reloadImageCmd.label         "Reload Image">
+<!ENTITY reloadImageCmd.accesskey     "R">
+
+
+
 <!ENTITY setDesktopBackgroundCmd.label      "ডেস্কটপের পটভূমি রূপে নির্ধারণ করুন......">
+<!ENTITY copyVideoURLCmd.label        "Copy Video Location">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Copy Audio Location">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!-- ENTITY bookmarkPageCmd.label        "বর্তমান পৃষ্ঠা বুকমার্ক করুন..." -->
 <!-- ENTITY bookmarkPageCmd.accesskey    "m" -->
@@ -311,6 +343,16 @@
 <!ENTITY saveImageCmd.accesskey       "v">
 <!ENTITY sendImageCmd.label           "ছবি প্রেরণ করুন...">
 <!ENTITY sendImageCmd.accesskey       "n">
+<!ENTITY sendVideoCmd.label           "Send Video…">
+<!ENTITY sendVideoCmd.accesskey       "n">
+<!ENTITY sendAudioCmd.label           "Send Audio…">
+<!ENTITY sendAudioCmd.accesskey       "n">
+<!ENTITY saveVideoCmd.label           "Save Video As…">
+<!ENTITY saveVideoCmd.accesskey       "v">
+<!ENTITY saveAudioCmd.label           "Save Audio As…">
+<!ENTITY saveAudioCmd.accesskey       "v">
+
+
 <!ENTITY copyLinkCmd.label            "লিঙ্কের দ্বারা চিহ্নিত অবস্থান কপি করুন">
 <!ENTITY copyLinkCmd.accesskey        "C">
 <!ENTITY copyLinkTextCmd.label        "লিঙ্কের জন্য প্রদর্শিত তথ্য কপি করুন">
@@ -341,7 +383,7 @@
 <!-- ENTITY textSize.label                 "হরফের মাপ" -->
 <!-- ENTITY textSize.accesskey             "z" -->
 
-<!ENTITY newTabButton.tooltip           "নতুন ট্যাব খুলুন">
+<!-- ENTITY newTabButton.tooltip           "নতুন ট্যাব খুলুন" -->
 <!ENTITY newWindowButton.tooltip        "নতুন উইন্ডো খুলুন">
 <!ENTITY sidebarCloseButton.tooltip     "সাইডবার বন্ধ করুন">
 
@@ -455,3 +497,4 @@
 <!ENTITY identity.connectedTo "চিহ্নিত সাইটের সাথে সংযোগ স্থাপিত হয়েছে">
 <!ENTITY identity.runBy "এটি সঞ্চালনকারী">
 <!ENTITY identity.moreInfoLinkText "অধিক বিবরণ…">
+<!ENTITY ctrlTab.search.emptyText "Search Tabs">

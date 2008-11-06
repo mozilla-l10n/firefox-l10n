@@ -9,6 +9,7 @@
 <!ENTITY removeallpermissions.label   "সমস্ত সাইট মুছে ফেলুন">
 <!ENTITY removeallpermissions.accesskey "e">
 <!ENTITY address.label                "ওয়েব-সাইটের ঠিকানা:">
+<!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "প্রতিরোধ করা হবে">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "সেশনের জন্য প্রবেশাধিকার প্রদান করা হবে">

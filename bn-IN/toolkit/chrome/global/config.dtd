@@ -46,8 +46,9 @@
 
 <!ENTITY filterPrefs.label "ফিল্টার:">
 <!ENTITY filterPrefs.accesskey "I">
-<!ENTITY showAll.label "সমস্ত প্রদর্শন করা হবে">
-<!ENTITY showAll.accesskey "W">
+<!ENTITY focusFilter.key "f">
+<!-- ENTITY showAll.label "সমস্ত প্রদর্শন করা হবে" -->
+<!-- ENTITY showAll.accesskey "W" -->
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "পছন্দসই বৈশিষ্ট্যের নাম">

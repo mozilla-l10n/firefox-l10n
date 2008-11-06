@@ -7,8 +7,10 @@
 <!ENTITY  focusSearch1.key        "f">
 <!ENTITY  focusSearch2.key        "k">
 
-<!ENTITY  filter.label            "অনুসন্ধান:">
-<!ENTITY  filter.accesskey        "S">
+<!ENTITY  filter.emptytext        "অনুসন্ধান">
 
-<!ENTITY  clear.label             "মুছে ফেলুন">
-<!ENTITY  clear.accesskey         "l">
+<!-- ENTITY  filter.label            "অনুসন্ধান:" -->
+<!-- ENTITY  filter.accesskey        "S" -->
+
+<!-- ENTITY  clear.label             "মুছে ফেলুন" -->
+<!-- ENTITY  clear.accesskey         "l" -->

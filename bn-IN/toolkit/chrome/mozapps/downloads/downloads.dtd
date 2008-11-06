@@ -12,6 +12,7 @@
 <!-- ENTITY failed.label                     "ব্যর্থ" -->
 
 <!ENTITY downloads.title                  "ডাউনলোড">
+<!ENTITY cmd.search.commandKey            "k">
 
 <!ENTITY cmd.pause.label                  "স্থগিত করুন">
 <!ENTITY cmd.pause.accesskey              "P">

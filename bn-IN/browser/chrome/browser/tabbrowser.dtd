@@ -16,3 +16,4 @@
 <!ENTITY  bookmarkThisTab.accesskey   "B">
 <!ENTITY  undoCloseTab.label          "ট্যাব বন্ধের কর্ম বাতিল করুন">
 <!ENTITY  undoCloseTab.accesskey      "U">
+<!ENTITY  newTabButton.tooltip        "Open a new tab">

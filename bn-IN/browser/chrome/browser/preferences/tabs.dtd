@@ -1,11 +1,13 @@
 <!-- ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd"
 %brandDTD; -->
 
-<!ENTITY newPagesIn.label             "নতুন পেজ খুলতে ব্যবহৃত হবে:">
-<!ENTITY inNewWindow.label            "নতুন উইন্ডো">
-<!ENTITY inNewWindow.accesskey        "w">
-<!ENTITY inNewTab.label               "নতুন ট্যাব">
-<!ENTITY inNewTab.accesskey           "t">
+<!ENTITY newWindowsAsTabs.label       "Open new windows in a new tab instead">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
+<!-- ENTITY newPagesIn.label             "নতুন পেজ খুলতে ব্যবহৃত হবে:" -->
+<!-- ENTITY inNewWindow.label            "নতুন উইন্ডো" -->
+<!-- ENTITY inNewWindow.accesskey        "w" -->
+<!-- ENTITY inNewTab.label               "নতুন ট্যাব" -->
+<!-- ENTITY inNewTab.accesskey           "t" -->
 
 <!ENTITY warnCloseMultipleTabs.label  "একাধিক ট্যাব বন্ধ করার প্রচেষ্টা করা হলে সতর্কবাণী প্রদর্শিত হবে">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
