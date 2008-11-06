@@ -137,8 +137,8 @@
 
 <!ENTITY event.invite.attendees.label                     "Invită participanți...">
 <!ENTITY event.invite.attendees.accesskey                 "I">
-<!ENTITY event.email.attendees.label                      "Compune un mesaj către toți participanții..">
-<!ENTITY event.email.attendees.accesskey                  "i">
+<!ENTITY event.email.attendees.label                      "Compune un mesaj către toți participanții…">
+<!ENTITY event.email.attendees.accesskey                  "a">
 <!ENTITY event.email.tentative.attendees.label            "Compune un mesaj către participanții indeciși...">
 <!ENTITY event.email.tentative.attendees.accesskey        "n">
 
@@ -191,7 +191,7 @@
 <!ENTITY event.url.label                                  "Legătura către asocieri:" >
 <!ENTITY event.priority2.label                            "Importanță:">
 
-<!ENTITY event.reminder.none.label                        "Fără memento" >
+<!ENTITY event.reminder.none.label                        "Fără memento " >
 <!ENTITY event.reminder.5minutes.before.label             "cu 5 minute înainte" >
 <!ENTITY event.reminder.10minutes.before.label            "cu 10 minute înainte" >
 <!ENTITY event.reminder.15minutes.before.label            "cu 15 minute înainte" >
@@ -327,8 +327,8 @@
 <!ENTITY invite.title.label              "Invită participanți">
 <!ENTITY event.organizer.label           "Organizator">
 <!ENTITY event.freebusy.suggest.slot     "Sugerați intervalul orar:">
-<!ENTITY event.freebusy.next.slot        "Intervalul următor" >
-<!ENTITY event.freebusy.previous.slot    "Intervalul precedent" >
+<!ENTITY event.freebusy.next.slot        "Next slot " >
+<!ENTITY event.freebusy.previous.slot    " Intervalul precedent" >
 <!ENTITY event.freebusy.zoom             "Scalare:">
 <!ENTITY event.freebusy.plus             "Ora următoare" >
 <!ENTITY event.freebusy.minus            "Ora precedentă" >
