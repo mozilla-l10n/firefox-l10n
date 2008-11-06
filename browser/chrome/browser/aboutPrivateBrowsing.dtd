@@ -1,0 +1,13 @@
+<!ENTITY privatebrowsingpage.tabtitle                  "Súkromné prehliadanie">
+
+<!ENTITY privatebrowsingpage.pagetitle                 "Súkromné prehliadanie">
+
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; si nebude pre túto reláciu pamätať históriu.">
+<!ENTITY privatebrowsingpage.longDesc                  "Prehliadač &brandShortName; nebude zaznamenávať počas tejto relácie históriu. To znamená históriu navštívených stránok a vyhľadávania, záznamy o prevzatých súboroch, údaje zadané do formulárov, cookies a dočasné internetové súbory. Prevzaté súbory a vytvorené záložky však ostanú zachované.">
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Ak chcete, môžete vymazať aj aktuálnu históriu prehliadania.">
+<!ENTITY privatebrowsingpage.recentHistory.label       "Vymazať aktuálnu históriu">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey   "V">
+
+<!ENTITY privatebrowsingpage.howToStopDesc             "Režim Súkromné prehliadanie vypnete zrušením označenia voľby Nástroje &gt; Súkromné prehliadanie.">
+<!ENTITY privatebrowsingpage.footerDesc                "Príjemné prehliadanie!">
