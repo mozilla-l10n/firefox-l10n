@@ -161,8 +161,8 @@
 <!ENTITY preferencesCmdUnix.label "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey "f">
 
-<!ENTITY clearPrivateDataCmd.label "Limpar informações privadas">
-<!ENTITY clearPrivateDataCmd.accesskey "L">
+<!ENTITY clearRecentHistoryCmd.label "Limpar Histórico recente">
+<!ENTITY clearRecentHistoryCmd.accesskey "L">
 
 <!ENTITY privateBrowsingCmd.label            "Navegação Privada">
 <!ENTITY privateBrowsingCmd.accesskey        "P">
