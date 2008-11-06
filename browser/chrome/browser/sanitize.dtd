@@ -2,7 +2,7 @@
 <!ENTITY sanitizeDialog2.title         "Borrar historial reciente">
 
 <!ENTITY sanitizeItems.label          "Limpiar los siguientes ítems ahora:">
-<!ENTITY clearDataSettings.label      "Cuando salga de &brandShortName;, debería borrar automáticamente:">
+<!ENTITY clearDataSettings2.label     "Cuando salga de &brandShortName;, debería borrar automáticamente:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
