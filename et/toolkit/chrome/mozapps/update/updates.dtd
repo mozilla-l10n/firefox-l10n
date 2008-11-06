@@ -13,7 +13,7 @@
                                           luba &brandShortName;il automaatne uuenduste kontrollimine.">
 
 <!ENTITY incompatibleCheck.title         "Kontrollitakse ühilduvust lisadega">
-<!ENTITY  incompatibleCheck.label        "Uuridakse, kas leidub uusi versioone sinu lisadest...">
+<!ENTITY  incompatibleCheck.label        "Uuritakse, kas leidub uusi versioone sinu lisadest...">
 
 <!ENTITY clickHere.label                 "Rohkem teavet uuenduse kohta">
 
