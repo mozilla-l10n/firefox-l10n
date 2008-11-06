@@ -15,7 +15,6 @@
 
 <!ENTITY editBookmark.done.label                     "කළා">
 <!ENTITY printFrameCmd.label          "රාමුව මුද්‍රණය…">
-<!ENTITY showImageCmd.accesskey       "S">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
 <!ENTITY fullZoomResetCmd.label         "යළි සකසන්න">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
@@ -27,7 +26,6 @@
 <!ENTITY bookmarkThisLinkCmd.label      "මෙම පුරුක පිටු සලකුණුගත කරන්න">
 <!ENTITY identity.moreInfoLinkText "බොහෝ තොරතුරු…">
 <!ENTITY fullScreenAutohide.accesskey "H">
-<!ENTITY showImageCmd.label           "රූපය දර්ශනය කරන්න">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 <!ENTITY printFrameCmd.accesskey      "P">
 <!ENTITY editBookmark.edit.accessKey                 "E">
@@ -111,9 +109,6 @@
 <!ENTITY addCurPagesCmd.label "සියලු ටැබ පිටු සලකුණුගත කරන්න...">
 
 <!ENTITY bookmarkAllCmd.label "සියලු ටැබ පිටු සලකුණුගත කරන්න...">
-
-
-
 <!ENTITY backCmd.label                "පසුපසට">
 <!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "පිටුවක් පසුපසට">
@@ -135,26 +130,19 @@
 <!ENTITY searchItem.title             "සොයන්න">
 <!ENTITY throbberItem.title           "ක්‍රියාකාරකම් දක්වනය">
 <!ENTITY bookmarksItem.title          "පිටු සලකුණු">
-
-
-
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label            "මුල් පිටුව">
-
 <!ENTITY bookmarksButton.label          "පිටු සලකුණු">
 <!ENTITY bookmarksButton.tooltip        "ඔබගේ පිටු සලකුණු පෙන්වීමට">
 <!ENTITY bookmarksSidebarCmd.accesskey  "B">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
-
 <!ENTITY historyButton.label            "අතීතය">
 <!ENTITY historyButton.tooltip          "ඔබ මෑතකදී ලබාගත් පිටු පෙන්වීමට">
 <!ENTITY historySidebarCmd.accesskey    "s">
 <!ENTITY historySidebarCmd.commandKey   "h">
-
 <!ENTITY toolsMenu.label              "මෙවලම්">
 <!ENTITY toolsMenu.accesskey          "T"> 
-
 <!ENTITY keywordfield.label           "මෙම සෙවුම සඳහා සෙවුම් වදනක් එක් කරන්න...">
 <!ENTITY keywordfield.accesskey       "K">
 <!ENTITY search.label                 "වෙබ් සෙවුම">
@@ -167,18 +155,12 @@
 <!ENTITY addons.label                 "ඇඩෝන">
 <!ENTITY addons.tooltip               "ඇඩෝන ස්ථාපනය සහ කළමනාකරණය දර්ශනය">
 <!ENTITY addons.accesskey             "A">
-
 <!ENTITY errorConsoleCmd.label        "දෝෂ කන්සෝලය">
 <!ENTITY errorConsoleCmd.accesskey    "C">
-
 <!ENTITY fileMenu.label         "ගොනු"> 
-
-
-
 <!ENTITY newNavigatorCmd.label        "නව කවුළුවක්">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
-
 <!ENTITY editMenu.label         "සැකසුම්"> 
 <!ENTITY editMenu.accesskey       "E"> 
 <!ENTITY undoCmd.label            "අහෝසි කරන්න">  
@@ -206,10 +188,8 @@
 <!ENTITY preferencesCmd.accesskey     "O"> 
 <!ENTITY preferencesCmdUnix.label       "අභිප්‍රේත">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
-
 <!ENTITY clearPrivateDataCmd.label            "පෞද්ගලික දත්ත මකන්න">
 <!ENTITY clearPrivateDataCmd.accesskey        "P">
-
 <!ENTITY viewMenu.label         "දසුන්"> 
 <!ENTITY viewMenu.accesskey       "V"> 
 <!ENTITY viewToolbarsMenu.label       "මෙවලම් තීරු"> 
@@ -219,23 +199,44 @@
 <!ENTITY viewCustomizeToolbar.label       "රිසිකරණය..."> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C"> 
 
+<!ENTITY copyVideoURLCmd.label        "දෘශ්‍ය පිහිටුම පිටපත් කරන්න">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "ශ්‍රව්‍ය පිහිටුම පිටපත් කරන්න">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (පෞද්ගලික ගවේශනය)">
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "වාදනය">
+<!ENTITY mediaPlay.accesskey         "P">
+<!ENTITY mediaPause.label            "විරාමය">
+<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaMute.label             "නිහඬ කරන්න">
+<!ENTITY mediaMute.accesskey         "M">
+<!ENTITY mediaUnmute.label           "නිහඬ නොකරන්න">
+<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaShowControls.label     "පාලන දර්ශනය">
+<!ENTITY mediaShowControls.accesskey "C">
+<!ENTITY mediaHideControls.label     "පාලන සඟවන්න">
+<!ENTITY mediaHideControls.accesskey "C">
+<!ENTITY privateBrowsingCmd.label            "පෞද්ගලික ගවේශනය">
+<!ENTITY privateBrowsingCmd.accesskey        "B">
+<!ENTITY reloadImageCmd.label         "පිතුර යළි පූරණය">
+<!ENTITY reloadImageCmd.accesskey     "R">
+<!ENTITY saveVideoCmd.label           "දෘශ්‍ය සුරකින අයුර…">
+<!ENTITY saveVideoCmd.accesskey       "v">
+<!ENTITY saveAudioCmd.label           "ශ්‍රව්‍ය සුරකින අයුර…">
+<!ENTITY saveAudioCmd.accesskey       "v">
+<!ENTITY sendVideoCmd.label           "දෘශ්‍ය යවන්න…">
+<!ENTITY sendVideoCmd.accesskey       "n">
+<!ENTITY sendAudioCmd.label           "ශ්‍රව්‍ය යවන්න…">
+<!ENTITY sendAudioCmd.accesskey       "n">
+<!ENTITY viewVideoCmd.label           "දෘශ්‍ය දර්ශනය">
+<!ENTITY viewVideoCmd.accesskey       "I">
+
 <!-- XXX historyMenu entities are used with or without places (bug 336058) -->
 <!ENTITY historyMenu.label "අතීතය">
 <!ENTITY historyMenu.accesskey "s">
-
-
 <!-- XXX places only -->
 <!ENTITY historyHomeCmd.label "ආරම්භක පිටුව">
-
-
-
-
-<!-- XXX remove below if places sticks -->
-
-
-<!-- XXX remove above if places sticks -->
-
-
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.accesskey             "d">
 
