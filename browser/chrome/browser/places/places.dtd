@@ -71,6 +71,11 @@
 <!ENTITY cmd.edit_redo.accesskey "F">
 <!ENTITY cmd.edit_redo.key "y">
 
+<!ENTITY cmd.delete.label "Scrios an Leathanach Seo">
+<!ENTITY cmd.delete.accesskey "S">
+<!ENTITY cmd.deleteDomainData.label "Forget About This Site">
+<!ENTITY cmd.deleteDomainData.accesskey "F">
+
 <!ENTITY cmd.open.label "Oscail">
 <!ENTITY cmd.open.accesskey "O">
 <!ENTITY cmd.open_window.label "Oscail i bhFuinneog Nua">
