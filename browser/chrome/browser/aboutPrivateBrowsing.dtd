@@ -1,7 +1,7 @@
 <!ENTITY privatebrowsingpage.tabtitle "Navigazione anonima">
 <!ENTITY privatebrowsingpage.pagetitle "Navigazione anonima">
 <!ENTITY privatebrowsingpage.issueDesc "&brandShortName; non conserverà alcuna cronologia per questa sessione.">
-<!ENTITY privatebrowsingpage.longDesc "In questa sessione di &brandShortName; non verrà conservata alcuna cronologia relativa a navigazione, ricerche, download, compilazione di moduli, cookie e file temporanei. Tuttavia  verranno mantenuti eventuali file scaricati o segnalibri creati.">
+<!ENTITY privatebrowsingpage.longDesc "In questa sessione di &brandShortName; non verrà conservata alcuna cronologia relativa a navigazione, ricerche, download, compilazione di moduli, cookie e file temporanei. Tuttavia verranno mantenuti eventuali file scaricati o segnalibri creati.">
 <!ENTITY privatebrowsingpage.clearRecentHistoryDesc "Probabilmente si desidera svuotare anche la cronologia recente.">
 <!ENTITY privatebrowsingpage.recentHistory.label "Svuota cronologia recente">
 <!ENTITY privatebrowsingpage.recentHistory.accesskey "v">
