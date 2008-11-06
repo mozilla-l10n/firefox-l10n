@@ -22,12 +22,12 @@
 <!ENTITY restoreHTMLDefaults.accesskey "R">
 <!ENTITY spellCheck.label "Controlla ortografia prima di inviare">
 <!ENTITY spellCheck.accesskey "C">
-<!ENTITY spellCheckInline.label "Abilita il controllo ortografico durante la digitazione">
+<!ENTITY spellCheckInline.label "Attiva il controllo ortografico durante la digitazione">
 <!ENTITY spellCheckInline1.accesskey "n">
 <!ENTITY languagePopup.label "Lingua:">
 <!ENTITY languagePopup.accessKey "g">
 <!ENTITY downloadDictionaries.label "Scarica altri dizionari">
-<!ENTITY warnOnSendAccelKey.label "Chiedi conferma quando si usa una scorciatoia da tastiera per spedire il messaggio">
+<!ENTITY warnOnSendAccelKey.label "Chiedi conferma quando si usa una scorciatoia da tastiera per inviare il messaggio">
 <!ENTITY warnOnSendAccelKey.accesskey "h">
 <!ENTITY autoSave.label "Salvataggio automatico ogni">
 <!ENTITY autoSave.accesskey "v">

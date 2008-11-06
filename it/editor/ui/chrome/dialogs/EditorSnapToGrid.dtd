@@ -36,7 +36,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY windowTitle.label "Aderenza alla griglia">
-<!ENTITY enableSnapToGrid.label "abilita aderenza alla griglia">
+<!ENTITY enableSnapToGrid.label "attiva aderenza alla griglia">
 <!ENTITY enableSnapToGrid.accessKey "a">
 <!ENTITY sizeEditField.label "Dimensione griglia:">
 <!ENTITY sizeEditField.accessKey "D">

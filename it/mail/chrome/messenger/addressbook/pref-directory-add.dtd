@@ -28,5 +28,5 @@
 <!ENTITY return.label "Non visualizzare più di">
 <!ENTITY return.accesskey "N">
 <!ENTITY results.label "risultati">
-<!ENTITY offlineText.label "È possibile scaricare una copia locale di questa cartella, in modo da renderla disponibile anche una volta scollegati.">
+<!ENTITY offlineText.label "È possibile scaricare una copia locale di questa cartella, in modo da renderla disponibile anche una volta non in linea.">
 <!ENTITY newDirectoryWidth "36em">

@@ -1,6 +1,6 @@
 <!ENTITY window.title "Filtri messaggi">
 <!ENTITY nameColumn.label "Nome filtro">
-<!ENTITY activeColumn.label "Abilitato">
+<!ENTITY activeColumn.label "Attivato">
 <!ENTITY newButton.label "Nuovo…">
 <!ENTITY newButton.accesskey "N">
 <!ENTITY editButton.label "Modifica…">
@@ -11,7 +11,7 @@
 <!ENTITY reorderUpButton.accesskey "S">
 <!ENTITY reorderDownButton.label "Sposta giù">
 <!ENTITY reorderDownButton.accesskey "g">
-<!ENTITY filterHeader.label "I filtri abilitati sono eseguiti in automatico nel seguente ordine.">
+<!ENTITY filterHeader.label "I filtri attivati sono eseguiti in automatico nel seguente ordine.">
 <!ENTITY filtersForPrefix.label "Filtri per:">
 <!ENTITY filtersForPrefix.accesskey "F">
 <!ENTITY viewLogButton.label "Registro attività filtri">
