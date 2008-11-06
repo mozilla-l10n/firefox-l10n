@@ -67,6 +67,10 @@
 <!ENTITY lightning.tasks.label               "Ülesanded">
 <!ENTITY lightning.tasks.accesskey           "Ü">
 
+<!-- Toolbar write button -->
+<!ENTITY lightning.toolbar.newevent.label     "Sündmus">
+<!ENTITY lightning.toolbar.newtask.label      "Ülesanne">
+
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.mail.label         "E-post">
 <!ENTITY lightning.toolbar.mail.accesskey     "p">
