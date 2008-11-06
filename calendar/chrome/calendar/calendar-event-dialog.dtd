@@ -56,7 +56,7 @@
 <!ENTITY newevent.status.accesskey          "B" >
 <!ENTITY newevent.status.none.label         "Neapibrėžta" >
 <!ENTITY newevent.status.cancelled.label    "Atšauktas" >
-<!ENTITY newevent.status.tentative.label    "Bandomasis" >
+<!ENTITY newevent.status.tentative.label    "Preliminarus" >
 <!ENTITY newevent.status.confirmed.label    "Patvirtintas" >
 <!ENTITY newevent.status.needsaction.label  "Reikalingas veiksmas" >
 <!ENTITY newevent.status.inprogress.label   "Vyksta" >
@@ -165,7 +165,7 @@
 <!ENTITY event.invite.attendees.accesskey                 "P">
 <!ENTITY event.email.attendees.label                      "Rašyti laišką visiems dalyviams…">
 <!ENTITY event.email.attendees.accesskey                  "v">
-<!ENTITY event.email.tentative.attendees.label            "Rašyti laišką neapsisprendusiems dalyviams…">
+<!ENTITY event.email.tentative.attendees.label            "Rašyti laišką preliminariai apsisprendusiems dalyviams…">
 <!ENTITY event.email.tentative.attendees.accesskey        "n">
 
 <!-- Toolbar -->
@@ -385,6 +385,7 @@
 <!ENTITY read.only.reply.label           "Atsakyti:">
 <!ENTITY read.only.accept.label          "Aš dalyvausiu">
 <!ENTITY read.only.decline.label         "Aš nedalyvausiu">
+<!ENTITY read.only.tentative.label       "Galbūt dalyvausiu">
 <!ENTITY read.only.needs.action.label    "Apsisprendimą pranešiu vėliau">
 <!ENTITY read.only.reminder.label        "Priminimas:">
 <!ENTITY read.only.attendees.label       "Dalyviai">
