@@ -36,4 +36,5 @@ that require it.  -->
 <!ENTITY itemActiveLogins.label       "connexions actives">
 <!ENTITY itemActiveLogins.accesskey   "o">
 
-<!ENTITY column.width                 "14em">
+<!ENTITY window.width                 "35em">
+<!ENTITY column.width                 "16em">
