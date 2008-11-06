@@ -6,7 +6,7 @@
 <!ENTITY clearDuration.lastHour "ultima ora">
 <!ENTITY clearDuration.last2Hours "ultime 2 ore">
 <!ENTITY clearDuration.last4Hours "ultime 4 ore">
-<!ENTITY clearDuration.today "cronologia di oggi">
+<!ENTITY clearDuration.today "oggi">
 <!ENTITY clearDuration.everything "cronologia completa">
 <!ENTITY clearDuration.suffix "">
 <!ENTITY historySection.label "Cronologia">
@@ -19,8 +19,8 @@
 <!ENTITY itemPasswords.accesskey "P">
 <!ENTITY itemCookies.label "Cookie">
 <!ENTITY itemCookies.accesskey "C">
-<!ENTITY itemWebCache.label "Cache di navigazione">
-<!ENTITY itemWebCache.accesskey "C">
+<!ENTITY itemWebCache.label "Cache">
+<!ENTITY itemWebCache.accesskey "a">
 <!ENTITY itemOfflineApps.label "Dati non in linea dei siti web ">
 <!ENTITY itemOfflineApps.accesskey "w">
 <!ENTITY itemDownloadList.label "Elenco dei download">
@@ -28,4 +28,4 @@
 <!ENTITY itemActiveLogins.label "Login attivi">
 <!ENTITY itemActiveLogins.accesskey "L">
 <!ENTITY window.width "30em">
-<!ENTITY column.width "14em">
+<!ENTITY column.width "15em">
