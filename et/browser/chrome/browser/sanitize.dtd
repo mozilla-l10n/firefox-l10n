@@ -1,24 +1,40 @@
-<!ENTITY sanitizeDialog.title            "Privaatsete andmete kustutamine">
+<!ENTITY sanitizePrefs.title            "Privaatsete andmete kustutamine">
+<!ENTITY sanitizeDialog2.title          "Hiljutise ajaloo kustutamine">
 
-<!ENTITY sanitizeItems.label             "Kustuta järgnevad andmed:">
-<!ENTITY clearDataSettings.label         "Kui soovitakse, et &brandShortName; kustutaks privaatsed andmed, siis kustutatakse:">
+<!ENTITY sanitizeItems.label             "Kustutatakse järgnevad andmed:">
+<!ENTITY clearDataSettings2.label        "Kui ma &brandShortName;ist väljun, siis kustutatakse:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY itemHistory.label               "Lehitsemise ajalugu">
-<!ENTITY itemHistory.accesskey           "s">
-<!ENTITY itemFormSearchHistory.label     "Salvestatud vormide ja otsingu ajalugu">
-<!ENTITY itemFormSearchHistory.accesskey "v">
+<!ENTITY clearDuration.label             "Eemaldatakse ">
+<!ENTITY clearDuration.lastHour          "viimane tund">
+<!ENTITY clearDuration.last2Hours        "vanemad kui 2 tundi">
+<!ENTITY clearDuration.last4Hours        "vanemad kui 4 tundi">
+<!ENTITY clearDuration.today             "minu tänane ajalugu">
+<!ENTITY clearDuration.everything        "kogu mu ajalugu">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix            "">
+
+<!ENTITY historySection.label            "Ajalugu">
+<!ENTITY dataSection.label               "Andmed">
+
+<!ENTITY itemVisitedPages.label          "Lehitsemise ajalugu">
+<!ENTITY itemVisitedPages.accesskey      "s">
+<!ENTITY itemFormSearchEntries.label     "Salvestatud vormide ja otsingu ajalugu">
+<!ENTITY itemFormSearchEntries.accesskey "v">
 <!ENTITY itemPasswords.label             "Salvestatud paroolid">
 <!ENTITY itemPasswords.accesskey         "l">
 <!ENTITY itemCookies.label               "Küpsised">
 <!ENTITY itemCookies.accesskey           "K">
-<!ENTITY itemCache.label                 "Vahemälu">
-<!ENTITY itemCache.accesskey             "h">
+<!ENTITY itemWebCache.label              "Vahemälu">
+<!ENTITY itemWebCache.accesskey          "h">
 <!ENTITY itemOfflineApps.label           "Võrguta režiimis töötavate lehtede andmed">
 <!ENTITY itemOfflineApps.accesskey       "g">
-<!ENTITY itemDownloads.label             "Allalaadimiste ajalugu">
-<!ENTITY itemDownloads.accesskey         "A">
+<!ENTITY itemDownloadList.label          "Allalaadimiste ajalugu">
+<!ENTITY itemDownloadList.accesskey      "A">
 <!ENTITY itemActiveLogins.label          "Aktiivsed seansid">
 <!ENTITY itemActiveLogins.accesskey      "e">
+
 <!ENTITY window.width                    "35em">
+<!ENTITY column.width                    "14em">
