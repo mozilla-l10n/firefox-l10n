@@ -21,7 +21,7 @@
 <!-- ENTITY  moreDetails.accesskey           "M" -->
 <!ENTITY  clickHere.label                 "চিহ্নিত আপডেট সম্পর্কে অধিক তথ্য জানুন">
 
-<!-- ENTITY  checking.label                  "&brandShortName; is now checking for updates…" -->
+<!-- ENTITY  checking.label                  "&brandShortName; is now checking for updates…"-->
 
 <!-- ENTITY  incompatible.warning            "এই আপডেট প্রয়োগ করার ফলে আপনার ব্যবহৃত কয়েকটি এক্সটেনশন এবং/অথবা থিম 
                                            আপডেট না করা অবধি সেগুলি চালানো যাবে না।" -->

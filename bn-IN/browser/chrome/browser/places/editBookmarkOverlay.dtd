@@ -21,6 +21,6 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "সাইড-বারের মধ্যে চিহ্নিত বুকমার্ক লোড করুন">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
 <!ENTITY editBookmarkOverlay.choose.label                    "নির্বাচন করুন…">
-<!ENTITY editBookmarkOverlay.newFolderButton.label           "New Folder">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "নতুন ফোল্ডার">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">
 

@@ -44,22 +44,22 @@
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!-- Media (video/audio) controls -->
-<!ENTITY mediaPlay.label             "Play">
+<!ENTITY mediaPlay.label             "সঞ্চালন করুন">
 <!ENTITY mediaPlay.accesskey         "P">
-<!ENTITY mediaPause.label            "Pause">
+<!ENTITY mediaPause.label            "স্থগিত করুন">
 <!ENTITY mediaPause.accesskey        "P">
-<!ENTITY mediaMute.label             "Mute">
+<!ENTITY mediaMute.label             "নিঃশব্দ">
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "Unmute">
 <!ENTITY mediaUnmute.accesskey       "m">
-<!ENTITY mediaShowControls.label     "Show Controls">
+<!ENTITY mediaShowControls.label     "নিয়ন্ত্রণের বাটন প্রদর্শন করা হবে">
 <!ENTITY mediaShowControls.accesskey "C">
-<!ENTITY mediaHideControls.label     "Hide Controls">
+<!ENTITY mediaHideControls.label     "নিয়ন্ত্রণের বাটন আড়াল করা হবে">
 <!ENTITY mediaHideControls.accesskey "C">
 
 <!ENTITY goOfflineCmd.label "অফলাইন অবস্থায় কর্ম">
 <!ENTITY goOfflineCmd.accesskey "w">
-<!ENTITY clearRecentHistoryCmd.label            "Clear Recent History">
+<!ENTITY clearRecentHistoryCmd.label            "সাম্প্রতিক ব্যবহার সংক্রান্ত তথ্য মুছে ফেলুন">
 <!ENTITY clearRecentHistoryCmd.accesskey        "H">
 
 <!ENTITY navbarCmd.label "চলাচলে ব্যবহৃত টুলবার">
@@ -212,7 +212,7 @@
 <!-- ENTITY clearPrivateDataCmd.label            "ব্যক্তিগত তথ্য মুছে ফেলুন" -->
 <!-- ENTITY clearPrivateDataCmd.accesskey        "P" -->
 
-<!ENTITY privateBrowsingCmd.label            "Private Browsing">
+<!ENTITY privateBrowsingCmd.label            "ব্যক্তিগত ব্রাউজিং">
 <!ENTITY privateBrowsingCmd.accesskey        "B">
 
 <!ENTITY viewMenu.label         "প্রদর্শন"> 
@@ -308,18 +308,18 @@
 <!ENTITY viewImageCmd.label           "ছবি প্রদর্শন">
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "পটভূমির ছবি প্রদর্শন">
-<!ENTITY viewVideoCmd.label           "View Video">
+<!ENTITY viewVideoCmd.label           "ভিডিও দেখুন">
 <!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.accesskey     "w">
-<!ENTITY reloadImageCmd.label         "Reload Image">
+<!ENTITY reloadImageCmd.label         "ছবি নতুন করে প্রদর্শন করা হবে">
 <!ENTITY reloadImageCmd.accesskey     "R">
 
 
 
 <!ENTITY setDesktopBackgroundCmd.label      "ডেস্কটপের পটভূমি রূপে নির্ধারণ করুন......">
-<!ENTITY copyVideoURLCmd.label        "Copy Video Location">
+<!ENTITY copyVideoURLCmd.label        "ভিডিও-র অবস্থান কপি করুন">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "Copy Audio Location">
+<!ENTITY copyAudioURLCmd.label        "অডিও-র অবস্থান কপি করুন">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!-- ENTITY bookmarkPageCmd.label        "বর্তমান পৃষ্ঠা বুকমার্ক করুন..." -->
@@ -345,13 +345,13 @@
 <!ENTITY saveImageCmd.accesskey       "v">
 <!ENTITY sendImageCmd.label           "ছবি প্রেরণ করুন...">
 <!ENTITY sendImageCmd.accesskey       "n">
-<!ENTITY sendVideoCmd.label           "Send Video…">
+<!ENTITY sendVideoCmd.label           "ভিডিও পাঠিয়ে দিন…">
 <!ENTITY sendVideoCmd.accesskey       "n">
-<!ENTITY sendAudioCmd.label           "Send Audio…">
+<!ENTITY sendAudioCmd.label           "অডিও পাঠিয়ে দিন…">
 <!ENTITY sendAudioCmd.accesskey       "n">
-<!ENTITY saveVideoCmd.label           "Save Video As…">
+<!ENTITY saveVideoCmd.label           "নতুন রূপে ভিডিও সংরক্ষণ করুন…">
 <!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "Save Audio As…">
+<!ENTITY saveAudioCmd.label           "নতুন রূপে অডিও সংরক্ষণ করুন…">
 <!ENTITY saveAudioCmd.accesskey       "v">
 
 
@@ -499,4 +499,4 @@
 <!ENTITY identity.connectedTo "চিহ্নিত সাইটের সাথে সংযোগ স্থাপিত হয়েছে">
 <!ENTITY identity.runBy "এটি সঞ্চালনকারী">
 <!ENTITY identity.moreInfoLinkText "অধিক বিবরণ…">
-<!ENTITY ctrlTab.search.emptyText "Search Tabs">
+<!ENTITY ctrlTab.search.emptyText "ট্যাবের মধ্যে অনুসন্ধান করুন">

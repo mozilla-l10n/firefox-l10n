@@ -68,7 +68,7 @@
 <!-- ENTITY  generalMeta           "মিটা:" -->
 <!ENTITY  generalMetaName       "নাম">
 <!ENTITY  generalMetaContent    "বিষয়বস্তু">
-<!ENTITY  generalSecurityDetails   "Details">
+<!ENTITY  generalSecurityDetails   "বিবরণ">
 <!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!-- ENTITY  formsTab              "ফর্ম" -->
