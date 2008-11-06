@@ -1,0 +1,20 @@
+<!ENTITY junkSettings.label     "Rämpsposti sätted">
+<!ENTITY trainingWarning.label  "Kui see säte on lubatud, siis pead sa kõigepealt &brandShortName;i õpetama rämpsposti ära tundma. Seda saad teha, kasutades tööriistariba nuppu Rämpspost. Sa pead tuvastama nii rämpsposti kui ka seda, mis tegelikult pole rämpspost.">
+<!ENTITY level.label            "Selle konto jaoks lubatakse õppiv rämpspostifilter">
+<!ENTITY level.accesskey        "S">
+
+<!ENTITY move.label             "Uued rämpskirjad liigutatakse:">
+<!ENTITY move.accesskey         "U">
+<!ENTITY junkFolderOn.label     "&quot;Rämpspost&quot; kausta kontos:">
+<!ENTITY junkFolderOn.accesskey "R">
+<!ENTITY otherFolder.label      "muusse kausta:">
+<!ENTITY otherFolder.accesskey  "m">
+<!ENTITY purge1.label           "Kustutatakse rämpspost, mis on vanem kui">
+<!ENTITY purge1.accesskey       "K">
+<!ENTITY purge2.label           "päeva">
+
+<!ENTITY whitelist.label        "Kirja ei märgita rämpspostiks, kui saatja on: ">
+<!ENTITY whitelist.accesskey    "K">
+
+<!ENTITY ispHeaders.label       "Usaldatakse rämpsposti päiseid, mille on määranud:">
+<!ENTITY ispHeaders.accesskey   "L">

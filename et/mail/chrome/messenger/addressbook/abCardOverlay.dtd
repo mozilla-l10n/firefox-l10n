@@ -82,8 +82,11 @@
 
 <!ENTITY allowRemoteContent.label     "HTML-kirjades lubatakse välised pildid">
 <!ENTITY allowRemoteContent.accesskey "p">
+<!ENTITY allowRemoteContent.tooltip   "HTML-kirjades on võimalik kasutada pilte,
+mis pärinevad välistest allikatest. Sellise kirja avamisel luuakse ühendus välise
+allikaga. See annab võimaluse jälgida, kas sa lugesid kirja. Linnukese märkmisel
+lubatakse sellised välised pildid selle kontakti HTML-kirjades.">
 
-<!ENTITY Phones.box                   "Telefonid">
 <!ENTITY WorkPhone.label              "Tööl:">
 <!ENTITY WorkPhone.accesskey          "T">
 <!ENTITY HomePhone.label              "Kodus:">
@@ -95,9 +98,8 @@
 <!ENTITY CellularNumber.label         "Mobiil:">
 <!ENTITY CellularNumber.accesskey     "M">
 
-<!ENTITY Address.tab                  "Aadress">
-<!ENTITY Address.accesskey            "A">
-<!ENTITY Home.box                     "Kodu">
+<!ENTITY Home.tab                     "Kodu">
+<!ENTITY Home.accesskey               "K">
 <!ENTITY HomeAddress.label            "Aadress:">
 <!ENTITY HomeAddress.accesskey        "d">
 <!ENTITY HomeAddress2.label           "">
@@ -112,7 +114,9 @@
 <!ENTITY HomeCountry.accesskey        "R">
 <!ENTITY HomeWebPage.label            "Veebileht:">
 <!ENTITY HomeWebPage.accesskey        "V">
-<!ENTITY Work.box                     "Töö">
+
+<!ENTITY Work.tab                     "Töö">
+<!ENTITY Work.accesskey               "T">
 <!ENTITY JobTitle.label               "Amet:">
 <!ENTITY JobTitle.accesskey           "e">
 <!ENTITY Department.label             "Osakond:">
@@ -149,5 +153,5 @@
 <!ENTITY Custom3.accesskey            "3">
 <!ENTITY Custom4.label                "Kohandatud 4:">
 <!ENTITY Custom4.accesskey            "4">
-<!ENTITY Notes.box                    "Märkused">
+<!ENTITY Notes.label                  "Märkused">
 <!ENTITY Notes.accesskey              "u">

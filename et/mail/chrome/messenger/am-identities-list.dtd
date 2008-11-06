@@ -1,0 +1,7 @@
+<!ENTITY identitiesListDesc.label       "Mitme identiteedi tugi">
+<!ENTITY identitiesListAdd.label        "Lisa...">
+<!ENTITY identitiesListAdd.accesskey    "L">
+<!ENTITY identitiesListEdit.label       "Redigeeri...">
+<!ENTITY identitiesListEdit.accesskey   "E">
+<!ENTITY identitiesListDelete.label     "Kustuta">
+<!ENTITY identitiesListDelete.accesskey "K">
