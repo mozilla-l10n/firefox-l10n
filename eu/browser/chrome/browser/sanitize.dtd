@@ -1,24 +1,40 @@
-<!ENTITY sanitizeDialog.title "Garbitu datu pribatuak">
+<!ENTITY sanitizePrefs.title "Clear Private Data">
+<!ENTITY sanitizeDialog2.title "Clear Recent History">
 
 <!ENTITY sanitizeItems.label "Osagai hauek orain garbitu:">
-<!ENTITY clearDataSettings.label "&brandShortName;-(e)ri nire datu pribatuak garbitzeko eskatzean hau ezabatu beharko luke:">
+<!ENTITY clearDataSettings2.label "When I quit &brandShortName;, it should automatically clear all:">
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
 
-<!ENTITY itemHistory.label "Nabigazioaren historia">
-<!ENTITY itemHistory.accesskey "B">
-<!ENTITY itemFormSearchHistory.label "Gordetako inprimaki eta bilaketen historia">
-<!ENTITY itemFormSearchHistory.accesskey "I">
+<!ENTITY clearDuration.label "Remove ">
+<!ENTITY clearDuration.lastHour "the last hour">
+<!ENTITY clearDuration.last2Hours "the last 2 hours">
+<!ENTITY clearDuration.last4Hours "the last 4 hours">
+<!ENTITY clearDuration.today "my history for today">
+<!ENTITY clearDuration.everything "my entire history">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix "">
+
+<!ENTITY historySection.label "History">
+<!ENTITY dataSection.label "Data">
+
+<!ENTITY itemVisitedPages.label "Visited Pages">
+<!ENTITY itemVisitedPages.accesskey "V">
+<!ENTITY itemFormSearchEntries.label "Form &amp; Search Entries">
+<!ENTITY itemFormSearchEntries.accesskey "F">
 <!ENTITY itemPasswords.label "Gordetako pasahitzak">
 <!ENTITY itemPasswords.accesskey "P">
 <!ENTITY itemCookies.label "Cookie-ak">
 <!ENTITY itemCookies.accesskey "C">
-<!ENTITY itemCache.label "Katxea">
-<!ENTITY itemCache.accesskey "k">
+<!ENTITY itemWebCache.label "Web Cache">
+<!ENTITY itemWebCache.accesskey "W">
 <!ENTITY itemOfflineApps.label "Lineaz kanpoko webguneen datuak">
 <!ENTITY itemOfflineApps.accesskey "L">
-<!ENTITY itemDownloads.label "Deskargen historia">
-<!ENTITY itemDownloads.accesskey "D">
+<!ENTITY itemDownloadList.label "Download List">
+<!ENTITY itemDownloadList.accesskey "D">
 <!ENTITY itemActiveLogins.label "Active Logins">
 <!ENTITY itemActiveLogins.accesskey "L">
+
 <!ENTITY window.width "30em">
+<!ENTITY column.width "14em">

@@ -17,8 +17,8 @@ bilaturko ditu eguneraketak.">
 
 <!ENTITY clickHere.label "Ikusi eguneraketa honi buruzko xehetasun gehiago">
 
-<!ENTITY evangelism.desc "Oso gomendagarria da &brandShortName; -ren
- bertsio-berritze hau ahal bezain laster ezartzea.">
+<!ENTITY evangelism.desc "Oso gomendagarria da &brandShortName; -ren 
+bertsio-berritze hau ahal bezain laster ezartzea.">
 
 <!ENTITY license.instructions "Lizentzi-kontratu honen baldintzak onartuz gero, egin klik Onartzen dut botoian instalazioarekin aurrera jarraitzeko.">
 
@@ -56,7 +56,7 @@ bilaturko ditu eguneraketak.">
 <!ENTITY finishedBackground.name "Eguneraketa:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY finishedBackground.more "Bertsio-berritzea  &brandShortName; abiarazten den hurrengo aldian ezarriko da. 
- &brandShortName; orain berrabiarazi edo lanean jarraitu eta beranduago berrabiarazi dezakezu.">
+&brandShortName; orain berrabiarazi edo lanean jarraitu eta beranduago berrabiarazi dezakezu.">
 
 <!ENTITY installed.title "Eguneraketa instalatu da">
 <!ENTITY installed.intro "Eguneraketa ondo instalatu da.">
