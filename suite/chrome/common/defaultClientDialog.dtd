@@ -3,5 +3,6 @@
 <!ENTITY browser.label "Navegador">
 <!ENTITY email.label "Correo-e">
 <!ENTITY newsgroups.label "Grupos de noticias">
+<!ENTITY rss.label "Canales RSS">
 <!ENTITY checkOnStartup.label "Hacer siempre esta comprobación al iniciar &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "H">
