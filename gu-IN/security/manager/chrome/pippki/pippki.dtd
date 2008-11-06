@@ -34,7 +34,6 @@
 <!ENTITY resetPassword.text "જો તમે મુખ્ય પાસવર્ડ બદલશો તો, તમારા બધા વેબ અને ઇ-મેઇલ પાસવર્ડ, ફોર્મ માહિતી, અંગત પ્રમાણપત્રો અને કી ભુલાઇ જશે. શું તમે ચોક્કસપણે તમારો મુખ્ય પાસવર્ડ બદલવા માંગો છો?">
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title "મુખ્ય પાસવર્ડ નાખો">
-<!ENTITY getPassword.tokenName.label "સુરક્ષા ઉપકરણ">
 <!ENTITY getPassword.password.label "પાસવર્ડ:">
 <!-- These should be common -->
 <!ENTITY piperror.title "ભૂલ">

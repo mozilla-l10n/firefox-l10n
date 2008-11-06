@@ -43,8 +43,6 @@
 
 <!ENTITY filterPrefs.label "ગાળક:">
 <!ENTITY filterPrefs.accesskey "I">
-<!ENTITY showAll.label "બધુ બતાવો">
-<!ENTITY showAll.accesskey "W">
 <!-- Columns -->
 <!ENTITY prefColumn.label "પસંદગી નામ">
 <!ENTITY lockColumn.label "સ્થિતિ">

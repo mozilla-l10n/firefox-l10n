@@ -2,7 +2,6 @@
 
 <!ENTITY dialog.title            "સોફ્ટવેર સ્થાપન">
 <!ENTITY dialog.style            "width: 45em">
-<!ENTITY warningMain.label       "માત્ર એવા જ લેખકોમાંથી ઉમેરાઓ સ્થાપિત કરો જેમનો તમે વિશ્વાસ કરો.">
 <!ENTITY warningSecondary.label  "મલીન સોફ્ટવેર તમારા કમપ્યૂટરને બગાડી શકશે અથવા તમારું ખાનગીપણું ભંગ કરશે.">
 
 <!ENTITY from.label "માંથી:">

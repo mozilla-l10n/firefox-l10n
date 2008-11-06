@@ -26,9 +26,6 @@
 <!ENTITY fullZoomEnlargeBtn.accesskey   "I">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY searchtab.label    	  	"શોધો">
-<!ENTITY searchtab.accesskey            "S">
-<!ENTITY searchClose.tooltip            "શોધ પરિણામો બંધ કરો">
 <!ENTITY toctab.label       	  	"સમાવિષ્ટો">
 <!ENTITY toctab.accesskey               "C">
 <!ENTITY helpSearch.commandkey          "k">
