@@ -80,7 +80,7 @@
 <!ENTITY cellSelectPrevious.accessKey     "P">
 <!ENTITY cellApplyBeforeMove.label        "在改變選取中儲存格前套用所改設定">
 <!ENTITY cellKeepCurrentData.label        "保留目前設定">
-<!ENTITY applyBeforeChange.label          "所改設定會在改變選取儲存格前先行套用。">
+<!ENTITY applyBeforeChange.label          "更改的設定會在改變選取儲存格前先行套用。">
 <!ENTITY cellRowSpan.label                "跨行:">
 <!ENTITY cellColSpan.label                "跨欄:">
 <!ENTITY cellContentAlignment.label       "內容對齊格子方式">

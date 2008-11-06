@@ -4,23 +4,18 @@
 <!ENTITY  window.macWidth                 "39em">
 
 <!ENTITY  checking.title                  "正在檢查是否有更新檔">
-<!ENTITY  checking.label                  "&brandShortName; 正在檢查是否有可用的更新…">
-
-<!ENTITY  cancel.label                    "取消">
-<!ENTITY  cancel.accesskey                "C">
+<!ENTITY  updateCheck.label               "正在尋找更新版的 &brandShortName;…">
 
 <!ENTITY  noupdatesfound.title            "無任何更新">
 <!ENTITY  noupdatesautoenabled.intro      "目前沒有新的更新檔。 &brandShortName; 會定期檢查是否有更新。">
 <!ENTITY  noupdatesautodisabled.intro     "目前沒有新的更新檔。請稍候再檢查或是啟用 &brandShortName; 的自動檢查更新功能。">
 
-<!ENTITY  incompatibleChecking.label      "檢查此次擴充套件╱佈景主題的更新有無相容性問題…">
+<!ENTITY  incompatibleCheck.title         "檢查附加元件相容性">
+<!ENTITY  incompatibleCheck.label         "正在尋找你的附加元件的更新版本…">
+
 <!ENTITY  clickHere.label                 "檢視關於此更新的詳細訊息">
 
-<!ENTITY  incompatible.warning            "此項更新會導致你的擴充套件或佈景主題被暫停使用，直到它們也更新成相容版本為止。">
-<!ENTITY  listIncompatible.label          "顯示列表">
-<!ENTITY  listIncompatible.accesskey      "L">
-
-<!ENTITY  upgrade.evangelism              "強烈建議你馬上更新 &brandShortName; 。">
+<!ENTITY  evangelism.desc                 "強烈建議你立刻套用 &brandShortName; 的更新版本。">
 
 <!ENTITY  license.instructions            "若你同意此授權協議，請按「我同意」以繼續安裝。">
 
@@ -32,16 +27,16 @@
 <!ENTITY  license.decline                 "我「不」接受授權協議的條款">
 <!ENTITY  license.decline.accesskey       "T">
 
+<!ENTITY  incompatibleList.title          "找到不相容附加元件">
+
 <!ENTITY  downloading.title               "正在下載更新檔">
 <!ENTITY  downloading.intro               "正在下載下列更新檔…">
 <!ENTITY  connecting.label                "連線至更新伺服器…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; 無法確認下載更新的完整性，所以現在會重新下載完整的更新套件。">
 
+<!ENTITY  viewDetails.tooltip             "檢視此更新的相關細節">
+
 <!ENTITY  details.link                    "細節">
-<!ENTITY  pause.label                     "暫停">
-<!ENTITY  pause.accesskey                 "e">
-<!ENTITY  close.label                     "關閉">
-<!ENTITY  close.accesskey                 "C">
 
 <!ENTITY  error.label                     "檢查、下載、或安裝更新時發生問題。 &brandShortName; 無法更新，原因:">
                                            
@@ -50,16 +45,13 @@
 <!ENTITY  errorpatching.title             "更新失敗">
 <!ENTITY  errorpatching.intro             "部份更新失敗。 &brandShortName; 將會重新下載完整更新。">
 
-<!ENTITY  finished.title                  "已下載更新">
-<!ENTITY  finished.text                   "已成功下載並驗證更新程式，當下次 &brandShortName; 啟動時就會開始安裝。">
+<!ENTITY  finishedPage.title              "已可開始安裝更新程式">
+<!ENTITY  finishedPage.text               "此更新會在下次 &brandShortName; 啟動時安裝。你可以現在就重開 &brandShortName;，或是繼續使用，稍後再重新啟動。">
 
-<!ENTITY  finishedBackground.title        "已可開始安裝更新程式">
-<!ENTITY  finishedBackground.text         "&brandShortName; 已下載並驗證重大更新，按下面的鏈結閱讀詳細資訊。">
+<!ENTITY  finishedBackgroundPage.text     "一個 &brandShortName; 的安全與穩定性更新已經下載，可以立刻開始安裝。">
 <!ENTITY  finishedBackground.name         "更新:">
-<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
-<!ENTITY  finishedBackground.more1        "按「立刻重開 &brandShortName;」會立刻安裝更新。">
-<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!ENTITY  finishedBackground.textNotNow   "按「現在不要」會關閉視窗並繼續執行。&brandShortName; 會在下次啟動時安裝更新。">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more         "此更新會在下次 &brandShortName; 啟動時安裝。你可以現在就重開 &brandShortName;，或是繼續使用，稍後再重新啟動。">
 
 <!ENTITY  installed.title                 "已安裝更新檔">
 <!ENTITY  installed.intro                 "已成功安裝更新。">
