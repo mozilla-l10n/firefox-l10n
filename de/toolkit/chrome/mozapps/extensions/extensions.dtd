@@ -109,10 +109,10 @@
 <!ENTITY includeUpdate.tooltip            "Dieses Add-on einschließen, wenn Updates installiert werden">
 
 <!-- Status Messsages -->
-<!ENTITY insecureUpdate.label             "Bietet keine sicheren Updates.">
-<!ENTITY needsDependencies.label          "Erfordert weitere Add-ons.">
-<!ENTITY blocklisted.label                "Zu Ihrer Sicherheit deaktiviert.">
-<!ENTITY softBlocklisted.label            "Bekannt für Sicherheits- oder Stabilitätsprobleme.">
+<!ENTITY insecureUpdate.label             "Bietet keine sicheren Updates">
+<!ENTITY needsDependencies.label          "Erfordert weitere Add-ons">
+<!ENTITY blocklisted.label                "Zu Ihrer Sicherheit deaktiviert">
+<!ENTITY softBlocklisted.label            "Bekannt für Sicherheits- oder Stabilitätsprobleme">
 <!ENTITY toBeDisabled.label               "Dieses Add-on wird deaktiviert, wenn &brandShortName; neu gestartet wird.">
 <!ENTITY toBeEnabled.label                "Dieses Add-on wird aktiviert, wenn &brandShortName; neu gestartet wird.">
 <!ENTITY toBeInstalled.label              "Dieses Add-on wird installiert, wenn &brandShortName; neu gestartet wird.">
