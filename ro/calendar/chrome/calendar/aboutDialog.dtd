@@ -44,10 +44,10 @@
 <!ENTITY aboutVersion           "versiunea">
 <!ENTITY copyrightText          "©1998-2008 Colaboratorii. Toate drepturile sunt rezervate. Mozilla Sunbird, Sunbird, și siglele Sunbird sunt mărci înregistrate ale Fundației Mozilla. Toate drepturile asupra lor sunt rezervate.">
 
-<!ENTITY brandMotto       "la timpul potrivit">
+<!ENTITY brandMotto       "era și timpul">
 <!ENTITY credit.thanks    "Mulțumiri speciale">
 
-<!ENTITY credit.translation "<h3>Tradus de</h3><ul><li>Comunitatea narro.i18n.ro</li></ul>">
+<!ENTITY credit.translation "<h3>Tradus de</h3><ul><li>Alexandru Szasz</li><li>Comunitatea tradu.softwareliber.ro</li></ul>">
 
 <!ENTITY credit.powered     "Bazat pe">
 <!ENTITY license.and        "și">

@@ -54,26 +54,9 @@
 <!ENTITY calendar.new.server.key                "L">
 <!ENTITY calendar.new.server.accesskey          "l">
 
-<!ENTITY calendar.open.file.label               "Deschide fișierul calendar…">
-<!ENTITY calendar.open.file.key                 "D">
-<!ENTITY calendar.open.file.accesskey           "D">
-
-<!ENTITY event.edit.event                       "Editează selecția…">
-<!ENTITY event.edit.event.key                   "E">
-<!ENTITY event.edit.event.accesskey             "E">
-
-<!ENTITY event.delete.event                     "Șterge evenimentele selectate">
-<!ENTITY event.delete.event.accesskey           "s">
-
-<!ENTITY event.delete.tasks                     "Șterge sarcinile selectate">
-<!ENTITY event.delete.tasks.accesskey           "t">
-
 <!ENTITY calendar.print.label                   "Tipărește...">
 <!ENTITY calendar.print.key                     "P">
 <!ENTITY calendar.print.accesskey               "p">
-
-<!ENTITY calendar.pagesetup.label               "Aranjare în pagină...">
-<!ENTITY calendar.pagesetup.accesskey           "A">
 
 <!ENTITY calendar.import.label                  "Importă...">
 <!ENTITY calendar.import.key                    "I">
@@ -84,71 +67,16 @@
 <!ENTITY calendar.export.selection.label        "Exportă selecția…">
 <!ENTITY calendar.export.selection.accesskey    "s">
 
-<!ENTITY calendar.subscribe.label               "Abonare la un calendar aflat la distanță…">
-<!ENTITY calendar.subscribe.accesskey           "r">
-
-<!ENTITY calendar.reloadserver.label            "Reîncarcă calendarele aflate la distanță">
-<!ENTITY calendar.reloadserver.key              "R">
-<!ENTITY calendar.reloadserver.accesskey        "R">
-
 <!ENTITY calendar.publish.label                 "Publică…">
 <!ENTITY calendar.publish.accesskey             "b">
-<!ENTITY calendar.publish.calendar.label        "Publică calendarul…">
-<!ENTITY calendar.publish.calendar.accesskey    "b">
-<!ENTITY calendar.publish.selection.label       "Publică selecția…">
-<!ENTITY calendar.publish.selection.accesskey   "c">
-
-<!ENTITY calendar.quit.label                    "Ieșire">
-<!ENTITY calendar.quit.accesskey                "I">
-<!ENTITY calendar.quit.key                      "Q">
-<!ENTITY calendar.quit.label.mac                "Părăsește &brandShortName;">
-
-<!ENTITY calendar.exit.label                    "Ieșire">
-<!ENTITY calendar.exit.accesskey                "I">
-
-<!ENTITY calendar.undo.label                    "Desfă">
-<!ENTITY calendar.undo.key                      "Z">
-<!ENTITY calendar.undo.accesskey                "D">
-
-<!ENTITY calendar.redo.label                    "Refă">
-<!ENTITY calendar.redo.key                      "Y">
-<!ENTITY calendar.redo.accesskey                "R">
-
-<!ENTITY calendar.cut.label                     "Taie">
-<!ENTITY calendar.cut.key                       "X">
-<!ENTITY calendar.cut.accesskey                 "T">
-
-<!ENTITY calendar.copy.label                    "Copiază">
-<!ENTITY calendar.copy.key                      "C">
-<!ENTITY calendar.copy.accesskey                "C">
-
-<!ENTITY calendar.paste.label                   "Lipește">
-<!ENTITY calendar.paste.key                     "V">
-<!ENTITY calendar.paste.accesskey               "p">
-
-<!ENTITY calendar.selectall.label               "Selectează tot">
-<!ENTITY calendar.selectall.key                 "A">
-<!ENTITY calendar.selectall.accesskey           "a">
-
-<!ENTITY toolbarsMenu.label                     "Bare de unelte">
-<!ENTITY toolbarsMenu.accesskey                 "t">
 
 <!ENTITY calendar.toolbar.label                 "Bara de unelte pentru calendar">
 <!ENTITY calendar.toolbar.accesskey             "t">
 <!ENTITY task.toolbar.label                     "Bara de unelte pentru sarcini">
 <!ENTITY task.toolbar.accesskey                 "B">
 
-<!ENTITY mode.toolbar.label                     "Bara de unelte pentru moduri">
-<!ENTITY mode.toolbar.accesskey                 "m">
-
 <!ENTITY calendar.menu.customize.label          "Personalizează…">
 <!ENTITY calendar.menu.customize.accesskey      "P">
-
-<!ENTITY showStatusBarCmd.label                 "Bară de stare">
-<!ENTITY showStatusBarCmd.accesskey             "B">
-
-<!ENTITY showTaskBoxCmd.label                   "Lista de sarcini">
-<!ENTITY showTaskBoxCmd.accesskey               "L">
 
 <!ENTITY showUnifinderCmd.label                 "Căutare">
 <!ENTITY showUnifinderCmd.accesskey             "C">
@@ -163,20 +91,8 @@
 <!ENTITY calendar.menu.numberofweeks.5          "Cinci săptămâni">
 <!ENTITY calendar.menu.numberofweeks.6          "Șase săptămâni">
 
-<!ENTITY calendar.fullscreen.label              "Pe tot ecranul">
-<!ENTITY calendar.fullscreen.accesskey          "P">
-
-<!ENTITY calendar.addons.label                  "Suplimente">
-<!ENTITY calendar.addons.accesskey              "S">
-
-<!ENTITY goMenu.label                           "Mergi la">
-<!ENTITY goMenu.accesskey                       "g">
-
 <!ENTITY goTodayCmd.label                       "Ziua de azi">
 <!ENTITY goTodayCmd.accesskey                   "Z">
-
-<!ENTITY goDateCmd.label                        "Data…">
-<!ENTITY goDateCmd.accesskey                    "D">
 
 <!ENTITY goPreviousCmd.day.label                "Ziua trecută">
 <!ENTITY goPreviousCmd.week.label               "Săptămâna trecută">
@@ -188,62 +104,8 @@
 <!ENTITY goNextCmd.month.label                  "Luna viitoare">
 <!ENTITY goNextCmd.all.accesskey                "r">
 
-<!ENTITY toolsMenu.label                        "Unelte">
-<!ENTITY toolsMenu.accesskey                    "t">
-
-<!ENTITY errorConsoleCmd.label                  "Consolă de erori">
-<!ENTITY errorConsoleCmd.accesskey              "C">
-
 <!ENTITY addressBookCmd.label                   "Agendă de contacte">
 <!ENTITY addressBookCmd.accesskey               "A">
-
-<!ENTITY helpMenu.label                         "Ajutor">
-<!ENTITY helpMenu.accesskey                     "j">
-<!-- LOCALIZATION NOTE some localizations of Windows use "?"
-           for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label                      "Ajutor"> 
-<!ENTITY helpMenuWin.accesskey                  "j">
-
-<!-- Toolbar items -->
-<!ENTITY fileMenu.label                         "Fișier">
-<!ENTITY fileMenu.accesskey                     "F">
-
-<!ENTITY editMenu.label                         "Editare">
-<!ENTITY editMenu.accesskey                     "E">
-<!ENTITY optionsCmd.label                       "Opțiuni...">
-<!ENTITY optionsCmd.accesskey                   "O">
-<!ENTITY preferencesCmd.label                   "Preferințe">
-<!ENTITY preferencesCmd.accesskey               "n">
-<!ENTITY preferencesCmdMac.label                "Preferințe…">
-<!ENTITY preferencesCmdMac.commandkey           ",">
-<!ENTITY preferencesCmdMac.modifiers            "accel">
-
-<!ENTITY viewMenu.label                         "Vizualizare">
-<!ENTITY viewMenu.accesskey                     "V">
-
-<!ENTITY releaseCmd.label                       "Note asupra ediției">
-<!ENTITY releaseCmd.accesskey                   "r">
-<!ENTITY aboutCmd.label                         "Despre &brandFullName;">
-<!ENTITY aboutCmd.accesskey                     "D">
-<!ENTITY updateCmd.label                        "Caută actualizări...">
-<!ENTITY updateCmd.accesskey                    "C">
-
-<!-- Mac OS X "Window" menu items -->
-<!ENTITY windowMenu.label                       "Fereastră">
-<!ENTITY minimizeWindow.label                   "Minimizează">
-<!ENTITY zoomWindow.label                       "Scalare">
-<!ENTITY minimizeWindow.key                     "M">
-<!ENTITY bringAllToFront.label                  "Adu-le pe toate în față">
-
-<!-- Mac OS X Application menu items -->
-<!ENTITY servicesMenuMac.label          "Servicii">
-<!ENTITY hideThisAppCmdMac.label        "Ascunde &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
-<!ENTITY hideOtherAppsCmdMac.label      "Ascunde-le pe celelalte">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
-<!ENTITY showAllAppsCmdMac.label        "Arată toate">
 
 <!ENTITY calendar.importcalendar.label          "Importă calendar…">
 

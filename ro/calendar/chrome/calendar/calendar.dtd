@@ -43,24 +43,9 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- General -->
-<!ENTITY calendar.file.default.name  "Calendarul meu" >
 <!ENTITY calendar.calendar.label     "Calendar">
 <!ENTITY calendar.calendar.accesskey "C">
 
-
-<!ENTITY calendar.confirm.deleteallevents  "Sigur doriți să ștergeți evenimentele selectate?" >
-<!ENTITY calendar.confirm.deleteevent "Sigur doriți să ștergeți evenimentul intitulat:" >
-<!ENTITY calendar.confirm.deleteuntitledevent "Sigur doriți să ștergeți acest eveniment fără titlu?" >
-
-<!ENTITY calendar.flat.topbar.choosedate       "Mergi la dată" >
-<!ENTITY calendar.flat.topbar.dayview          "Vezi ziua" >
-<!ENTITY calendar.dayview.accesskey            "z" >
-<!ENTITY calendar.flat.topbar.weekview         "Vezi săptămâna" >
-<!ENTITY calendar.weekview.accesskey           "s" >
-<!ENTITY calendar.flat.topbar.monthview        "Vezi luna" >
-<!ENTITY calendar.monthview.accesskey          "l" >
-<!ENTITY calendar.flat.topbar.multiweekview    "Mai multe săptămâni" >
-<!ENTITY calendar.multiweekview.accesskey      "u" >
 <!ENTITY calendar.dayView.key                  "1" >
 <!ENTITY calendar.weekView.key                 "2" >
 <!ENTITY calendar.multiweekView.key            "3" >
@@ -68,14 +53,11 @@
 
 <!ENTITY calendar.newtask.button.tooltip          "Creează o sarcină nouă" >
 <!ENTITY calendar.newevent.button.tooltip         "Creează un eveniment nou" >
-<!ENTITY calendar.delete.button.tooltip           "Șterge evenimentul selectat" >
 <!ENTITY calendar.edit.button.tooltip             "Editează evenimentul selectat" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Sarcini" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Arată sarcinile îndeplinite">
 
-<!ENTITY calendar.calendartab.label "Dată">
-<!ENTITY calendar.listofcalendarstab.label "Calendare">
 <!ENTITY calendar.today.button.label       "Astăzi">
 <!ENTITY calendar.tomorrow.button.label       "Mâine">
 <!ENTITY calendar.soon.button.label           "În curând">
@@ -103,11 +85,9 @@
 <!ENTITY calendar.unifinder.tree.calendarname.label  "Nume calendar">
 <!ENTITY calendar.unifinder.tree.duration.label      "Termen la">
 <!ENTITY calendar.unifinder.close.tooltip            "Închide căutarea și lista de evenimente">
-<!ENTITY calendar.find.key  "F">
 
 <!ENTITY calendar.today.button.tooltip            "Mergi la ziua de azi" >
 <!ENTITY calendar.todaypane.button.tooltip        "Arată panoul cu ziua de azi" >
-<!ENTITY calendar.choosedate.button.tooltip       "Alegeți data la care să mergeți" >
 <!ENTITY calendar.unifinder.button.tooltip        "Găsiți și listați evenimente" >
 
 <!ENTITY calendar.day.button.tooltip            "Comută la vizualizarea zilei" >
@@ -124,19 +104,7 @@
 
 <!ENTITY calendar.newtask.button.label          "Sarcină" >
 <!ENTITY calendar.newevent.button.label         "Eveniment" >
-<!ENTITY calendar.delete.button.label           "Șterge" >
 <!ENTITY calendar.edit.button.label             "Editează" >
-
-<!ENTITY calendar.choosedate.button.label       "Alege data" >
-
-<!ENTITY calendar.cut.button.tooltip            "Taie" >
-<!ENTITY calendar.copy.button.tooltip           "Copiază" >
-<!ENTITY calendar.paste.button.tooltip          "Lipește" >
-<!ENTITY calendar.print.button.tooltip          "Tipărește calendarul" >
-
-<!ENTITY calendar.cut.button.label              "Taie" >
-<!ENTITY calendar.copy.button.label             "Copiază" >
-<!ENTITY calendar.paste.button.label            "Lipește" >
 <!ENTITY calendar.print.button.label            "Tipărește" >
 
 <!ENTITY calendar.import.button.tooltip            "Importă evenimente dintr-un fișier local" >
@@ -152,9 +120,6 @@
 <!ENTITY calendar.publish.button.label             "Publică" >
 <!ENTITY calendar.unifinder.button.label           "Căutare" >
 
-<!ENTITY calendar.remotereload.button.label   "Reîncarcă" >
-<!ENTITY calendar.remotereload.button.tooltip   "Reîncarcă toate calendarele aflate la distanță" >
-
 <!ENTITY calendar.day.button.label              "Zi" >
 <!ENTITY calendar.week.button.label             "Săptămână" >
 <!ENTITY calendar.month.button.label            "Lună" >
@@ -169,17 +134,7 @@
 <!ENTITY calendar.orientation.label "Rotește vizualizarea" >
 <!ENTITY calendar.orientation.accesskey "o" >
 
-<!ENTITY calendar.menu.options.close.key        "W">
-
 <!ENTITY calendar.search.options.searchfor "care conțin">
-
-<!ENTITY calendar.menu.numberofweeks.label     "Număr de săptămâni" >
-<!ENTITY calendar.menu.numberofweeks.accesskey "N" >
-<!ENTITY calendar.menu.numberofweeks.2      "2 săptămâni" >
-<!ENTITY calendar.menu.numberofweeks.3      "3 săptămâni" >
-<!ENTITY calendar.menu.numberofweeks.4      "4 săptămâni" >
-<!ENTITY calendar.menu.numberofweeks.5      "5 săptămâni" >
-<!ENTITY calendar.menu.numberofweeks.6      "6 săptămâni" >
 
 <!ENTITY calendar.list.header.label                 "Calendar">
 
@@ -212,18 +167,9 @@
 <!ENTITY calendar.task.category.button.tooltip  "Categorisiți sarcinile">
 <!ENTITY calendar.task.complete.button.tooltip  "Marchează sarcinile selectate ca îndeplinite">
 <!ENTITY calendar.task.priority.button.tooltip  "Schimbă prioritatea">
-<!ENTITY calendar.task.delete.button.tooltip    "Șterge sarcina selectată">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Document: gata">
-
-<!-- customizable toolbars -->
-<!ENTITY calendar.context.customize.label             "Personalizează...">
-<!ENTITY calendar.context.customize.accesskey         "P">
-<!ENTITY calendar.menu.customize.label                "Personalizează bara de unelte…">
-<!ENTITY calendar.menu.customize.accesskey            "P">
-<!ENTITY calendar.maintoolbar.name                    "Bara principală de unelte">
-<!ENTITY calendar.maintoolbar.accesskey               "M">
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label      "Deschide">
@@ -366,10 +312,6 @@
 <!ENTITY calendarproperties.cache.label    "Cache (EXPERIMENTAL, necesită repornirea)">
 <!ENTITY calendarproperties.enabled.label "Activează acest calendar">
 
-<!-- Sunbird Help -->
-<!ENTITY calendar.help.label               "Manual de utilizare">
-<!ENTITY calendar.help.accesskey           "M">
-
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "Publicare calendar">
 <!ENTITY calendar.publish.url.label                 "Adresa de publicare">
@@ -398,7 +340,3 @@
 <!ENTITY calendar.error.number "Numărul erorii:">
 <!ENTITY calendar.error.description "Descriere:">
 <!ENTITY calendar.error.title "A apărut o eroare">
-
-
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">
