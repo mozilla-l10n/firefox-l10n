@@ -172,8 +172,8 @@
 <!ENTITY preferencesCmdUnix.accesskey "V">
  
 
-<!ENTITY clearPrivateDataCmd.label "Hreinsa persónuleg gögn">
-<!ENTITY clearPrivateDataCmd.accesskey "e">
+<!ENTITY clearRecentHistoryCmd.label "Hreinsa nýlega ferla">
+<!ENTITY clearRecentHistoryCmd.accesskey "H">
 <!ENTITY privateBrowsingCmd.label "Einkavöfrun">
 <!ENTITY privateBrowsingCmd.accesskey "E">
 <!ENTITY viewMenu.label "Skoða">

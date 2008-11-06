@@ -57,7 +57,7 @@
 <!ENTITY pref.calendar.advanced.useMasterPassword.label "Nota eitt aðal lykilorð til að dulkóða önnur geymd lykilorð">
 <!ENTITY pref.calendar.advanced.useMasterPassword.accesskey "N">
 <!ENTITY pref.calendar.advanced.masterPassword.intro "Ef þetta er virkt, þá mun aðal lykilorð vernda öll önnur lykilorð, en þú verður að slá það inn í eitt skipti fyrir hverja lotu.">
-<!ENTITY pref.calendar.advanced.changeMasterPassword.label "Breyta aðal lykilorði">
+<!ENTITY pref.calendar.advanced.changeMasterPassword.label "Breyta aðal lykilorði…">
 <!ENTITY pref.calendar.advanced.changeMasterPassword.accesskey "B">
 <!ENTITY pref.calendar.advanced.viewPasswords.label "Skoða geymd lykilorð…">
 <!ENTITY pref.calendar.advanced.viewPasswords.accesskey "g">

@@ -109,8 +109,8 @@
 <!ENTITY event.menu.options.attachments.accesskey "v">
 <!ENTITY event.menu.options.attendees.label "Bjóða þátttakendum…">
 <!ENTITY event.menu.options.attendees.accesskey "B">
-<!ENTITY event.menu.options.spellcheck.label "Athuga stafsetningu…">
-<!ENTITY event.menu.options.spellcheck.accesskey "h">
+<!ENTITY event.menu.options.spellcheck.label "Yfirfara stafsetningu…">
+<!ENTITY event.menu.options.spellcheck.accesskey "Y">
 <!ENTITY event.menu.options.inline.spellcheck.label "Athuga innsláttar stafsetningu">
 <!ENTITY event.menu.options.inline.spellcheck.accesskey "S">
 <!ENTITY event.menu.options.link.label "Bæta við tengli…">
