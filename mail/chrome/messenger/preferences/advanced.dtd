@@ -8,7 +8,7 @@
 <!ENTITY autoMarkAsRead.label "Marca automaticamente i messaggi come letti">
 <!ENTITY autoMarkAsRead.accesskey "A">
 <!ENTITY markAsReadNoDelay.label "Appena visualizzati">
-<!ENTITY markAsReadNoDelay.accesskey "m">
+<!ENTITY markAsReadNoDelay.accesskey "v">
 <!ENTITY markAsReadDelay.label "Dopo averli visualizzati per">
 <!ENTITY markAsReadDelay.accesskey "e">
 <!ENTITY secondsLabel.label "secondi">

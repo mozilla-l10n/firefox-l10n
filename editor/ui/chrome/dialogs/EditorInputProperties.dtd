@@ -64,7 +64,7 @@
 <!ENTITY InputReadOnly.label "Sola lettura">
 <!ENTITY InputReadOnly.accesskey "S">
 <!ENTITY InputDisabled.label "Disattivato">
-<!ENTITY InputDisabled.accesskey "b">
+<!ENTITY InputDisabled.accesskey "D">
 <!ENTITY tabIndex.label "Indice tabulazione:">
 <!ENTITY tabIndex.accesskey "I">
 <!ENTITY TextSize.label "Dimensioni campo:">
