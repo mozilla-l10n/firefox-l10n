@@ -4,23 +4,18 @@
 <!ENTITY window.macWidth "39em">
 
 <!ENTITY checking.title "Nuashonruithe á seiceáil">
-<!ENTITY checking.label "Tá cibé nuashonruithe atá le fáil á lorg anois ag &brandShortName;…">
-
-<!ENTITY cancel.label "Cealaigh">
-<!ENTITY cancel.accesskey "C">
+<!ENTITY updateCheck.label "Looking for newer versions of &brandShortName;…">
 
 <!ENTITY noupdatesfound.title "Ní bhfuarthas nuashonruithe">
 <!ENTITY noupdatesautoenabled.intro "Níl nuashonrú ar bith le fáil. Seiceálfaidh &brandShortName; ó am go chéile an bhfuil nuashonruithe nua ann.">
 <!ENTITY noupdatesautodisabled.intro "Níl nuashonruithe ar fáil. Lorg arís iad níos déanaí, nó cumasaigh seiceáil nuashonruithe uathoibríoch &brandShortName;.">
 
-<!ENTITY incompatibleChecking.label "Ag seiceáil an mbeidh fadhbanna le do chuid eisínteachtaí agus/nó téamaí de dheasca an nuashonraithe seo…">
+<!ENTITY incompatibleCheck.title "Checking Add-on Compatibility">
+<!ENTITY incompatibleCheck.label "Looking for newer versions of your add-ons…">
+
 <!ENTITY clickHere.label "Tuilleadh eolais faoin nuashonrú seo">
 
-<!ENTITY incompatible.warning "Cuirfidh an nuashonrú seo cuid de na heisínteachtaí/téamaí atá agat as feidhm go dtí go nuashonrófar iad dá réir.">
-<!ENTITY listIncompatible.label "Taispeáin Liosta">
-<!ENTITY listIncompatible.accesskey "L">
-
-<!ENTITY upgrade.evangelism "Moltar duit an nuashonrú seo ar &brandShortName; a shuiteáil chomh luath agus is féidir.">
+<!ENTITY evangelism.desc "Moltar duit an nuashonrú seo ar &brandShortName; a shuiteáil chomh luath agus is féidir.">
 
 <!ENTITY license.instructions "Má ghlacann tú le coinníollacha an chomhaontaithe seo, cliceáil Glacaim Leis thíos chun leanúint le suiteáil an nuashonraithe.">
 
@@ -32,16 +27,16 @@
 <!ENTITY license.decline "Nílim toilteanach glacadh le coinníollacha an Chomhaontú um Cheadúnas">
 <!ENTITY license.decline.accesskey "T">
 
+<!ENTITY incompatibleList.title "Aimsíodh Breiseáin Neamh-Chomhoiriúnacha">
+
 <!ENTITY downloading.title "Nuashonrú á Íosluchtú">
 <!ENTITY downloading.intro "Nuashonrú á íosluchtú…">
 <!ENTITY connecting.label "Ag dul i dteagmháil le freastalaí na nuashonruithe…">
 <!ENTITY verificationFailedText.label "Níorbh fhéidir le &brandShortName; sláine an nuashonraithe incrimintigh a fhíorú tar éis é a íosluchtú. Dá bhrí sin, tá an pacáiste nuashonraithe á íosluchtú ina iomláine.">
 
+<!ENTITY viewDetails.tooltip "Mionsonraí faoin nuashonrú seo">
+
 <!ENTITY details.link "Mionsonraí">
-<!ENTITY pause.label "Cuir ar Shos">
-<!ENTITY pause.accesskey "o">
-<!ENTITY close.label "Dún">
-<!ENTITY close.accesskey "D">
 
 <!ENTITY error.label "Bhí fadhbanna ann agus an nuashonrú seo á lorg, á íosluchtú nó á shuiteáil. Níorbh fhéidir &brandShortName; a nuashonrú de bharr:">
                                            
@@ -50,16 +45,13 @@
 <!ENTITY errorpatching.title "Theip ar Nuashonrú">
 <!ENTITY errorpatching.intro "Níorbh fhéidir an páirt-nuashonrú a chur i bhfeidhm. Déanfaidh &brandShortName; iarracht eile trí nuashonrú iomlán a íosluchtú.">
 
-<!ENTITY finished.title "Nuashonrú Íosluchtaithe">
-<!ENTITY finished.text "D'éirigh le híosluchtú agus fíorú an nuashonraithe, agus suiteálfar é an chéad uair eile a thosóidh tú &brandShortName;.">
+<!ENTITY finishedPage.title "Nuashonrú Réidh le Suiteáil">
+<!ENTITY finishedPage.text "The update will be installed the next time &brandShortName; starts. You can restart &brandShortName; now, or continue working and restart later.">
 
-<!ENTITY finishedBackground.title "Nuashonrú Réidh le Suiteáil">
-<!ENTITY finishedBackground.text "D'íosluchtaigh agus d'fhíoraigh &brandShortName; nuashonrú tábhachtach. Cliceáil an nasc thíos chun tuilleadh sonraí a fháil.">
+<!ENTITY finishedBackgroundPage.text "A security and stability update for &brandShortName; has been downloaded and is ready to be installed.">
 <!ENTITY finishedBackground.name "Nuashonrú:">
-<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
-<!ENTITY finishedBackground.more1 "Cliceáil Atosaigh &brandShortName; Anois chun an nuashonrú a shuiteáil anois.">
-<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!ENTITY finishedBackground.textNotNow "Chun an dialóg seo a dhúnadh agus leanúint den obair, cliceáil 'Níos Déanaí'; déanfaidh &brandShortName; an nuashonrú a shuiteáil nuair a úsáidfear arís é.">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY finishedBackground.more "The update will be installed the next time &brandShortName; starts. You can restart &brandShortName; now, or continue working and restart later.">
 
 <!ENTITY installed.title "Nuashonrú Suiteáilte">
 <!ENTITY installed.intro "D'éirigh le suiteáil an nuashonraithe.">

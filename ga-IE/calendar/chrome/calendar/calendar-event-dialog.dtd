@@ -48,7 +48,7 @@
 
 <!ENTITY newevent.from.label "Ó">
 <!ENTITY newevent.to.label "Chuig">
-<!ENTITY newevent.attendees.notify.label "Notify attendees">
+<!ENTITY newevent.attendees.notify.label "Cuir in iúl don lucht freastail">
 
 <!ENTITY newevent.status.label "Stádas">
 <!ENTITY newevent.status.accesskey "S">
@@ -385,6 +385,7 @@
 <!ENTITY read.only.reply.label "Freagair:">
 <!ENTITY read.only.accept.label "Beidh mé i láthair">
 <!ENTITY read.only.decline.label "Ní bheidh mé i láthair">
+<!ENTITY read.only.tentative.label "Seans go mbeidh mé i láthair">
 <!ENTITY read.only.needs.action.label "Dearbhóidh mé níos déanaí">
 <!ENTITY read.only.reminder.label "Meabhrúchán:">
 <!ENTITY read.only.attendees.label "Rannpháirtithe">

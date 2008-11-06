@@ -73,17 +73,17 @@
 <!ENTITY SecondEmail.label "Ríomhphost Breise:">
 <!ENTITY SecondEmail.accesskey "i">
 <!ENTITY PreferMailFormat.label "Formáid teachtaireachta de rogha:">
-<!ENTITY PreferMailFormat.accesskey "r">
+<!ENTITY PreferMailFormat.accesskey "f">
 <!ENTITY PlainText.label "Gnáth-théacs">
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Anaithnid">
 <!ENTITY ScreenName.label "Ainm Scáileáin:">
 <!ENTITY ScreenName.accesskey "S">
 
-<!ENTITY allowRemoteContent.label "Ceadaigh cianíomhánna i ríomhphost HTML.">
+<!ENTITY allowRemoteContent.label "Ceadaigh cianíomhánna.">
 <!ENTITY allowRemoteContent.accesskey "c">
+<!ENTITY allowRemoteContent.tooltip "In HTML messages it is possible to embed images from remote sources. Opening such a message will open a connection to this external source. This may allow tracking of the message being read. Checking this box will allow such external embedded images in HTML messages from this contact.">
 
-<!ENTITY Phones.box "Fóin">
 <!ENTITY WorkPhone.label "Obair:">
 <!ENTITY WorkPhone.accesskey "o">
 <!ENTITY HomePhone.label "Baile:">
@@ -91,15 +91,14 @@
 <!ENTITY FaxNumber.label "Facs:">
 <!ENTITY FaxNumber.accesskey "c">
 <!ENTITY PagerNumber.label "Glaoire:">
-<!ENTITY PagerNumber.accesskey "G">
+<!ENTITY PagerNumber.accesskey "g">
 <!ENTITY CellularNumber.label "Fón Siúil:">
 <!ENTITY CellularNumber.accesskey "N">
 
-<!ENTITY Address.tab "Seoladh">
-<!ENTITY Address.accesskey "W">
-<!ENTITY Home.box "Baile">
+<!ENTITY Home.tab "Príobháideach">
+<!ENTITY Home.accesskey "R">
 <!ENTITY HomeAddress.label "Seoladh:">
-<!ENTITY HomeAddress.accesskey "s">
+<!ENTITY HomeAddress.accesskey "S">
 <!ENTITY HomeAddress2.label "">
 <!ENTITY HomeAddress2.accesskey "">
 <!ENTITY HomeCity.label "Cathair:">
@@ -111,28 +110,30 @@
 <!ENTITY HomeCountry.label "Tír:">
 <!ENTITY HomeCountry.accesskey "t">
 <!ENTITY HomeWebPage.label "Leathanach Gréasáin:">
-<!ENTITY HomeWebPage.accesskey "G">
-<!ENTITY Work.box "Obair">
+<!ENTITY HomeWebPage.accesskey "e">
+
+<!ENTITY Work.tab "Obair">
+<!ENTITY Work.accesskey "W">
 <!ENTITY JobTitle.label "Teideal:">
-<!ENTITY JobTitle.accesskey "e">
+<!ENTITY JobTitle.accesskey "i">
 <!ENTITY Department.label "Roinn:">
 <!ENTITY Department.accesskey "n">
 <!ENTITY Company.label "Eagras:">
 <!ENTITY Company.accesskey "E">
 <!ENTITY WorkAddress.label "Seoladh:">
-<!ENTITY WorkAddress.accesskey "l">
+<!ENTITY WorkAddress.accesskey "S">
 <!ENTITY WorkAddress2.label "">
 <!ENTITY WorkAddress2.accesskey "">
 <!ENTITY WorkCity.label "Cathair:">
-<!ENTITY WorkCity.accesskey "i">
+<!ENTITY WorkCity.accesskey "a">
 <!ENTITY WorkState.label "Stát/Cúige:">
-<!ENTITY WorkState.accesskey "g">
+<!ENTITY WorkState.accesskey "S">
 <!ENTITY WorkZipCode.label "Cód Poist:">
 <!ENTITY WorkZipCode.accesskey "P">
 <!ENTITY WorkCountry.label "Tír:">
-<!ENTITY WorkCountry.accesskey "r">
+<!ENTITY WorkCountry.accesskey "t">
 <!ENTITY WorkWebPage.label "Leathanach Gréasáin:">
-<!ENTITY WorkWebPage.accesskey "l">
+<!ENTITY WorkWebPage.accesskey "e">
 
 <!ENTITY Other.tab "Eile">
 <!ENTITY Other.accesskey "h">
@@ -149,5 +150,5 @@
 <!ENTITY Custom3.accesskey "3">
 <!ENTITY Custom4.label "Saincheaptha 4:">
 <!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.box "Nótaí">
+<!ENTITY Notes.label "Nótaí:">
 <!ENTITY Notes.accesskey "N">
