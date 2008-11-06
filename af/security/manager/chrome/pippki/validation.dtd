@@ -35,12 +35,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.validation.title "Stawing">
-
-<!ENTITY validation.crl.caption "SOL">
-<!ENTITY validation.crl.description "Gebruik die SOL-bestuurder om die sertifikaatopheffingslyste (SOL) te bestuur wat in u sertifikaatdatabasis gestoor is.">
-<!ENTITY validation.managecrls.button "Bestuur SOL'e…">
-<!ENTITY validation.managecrls.accesskey "M">
 <!ENTITY validation.crlmanager.label "Bestuur SOL'e">
 <!ENTITY validation.crlmanager.description "Hierdie sertifikaatopheffingslyste (CRL) word gestoor in u sertifikaatdatabasis:">
 <!ENTITY validation.crlname.label "Naam">
@@ -71,17 +65,3 @@
 <!ENTITY crl.autoupdate.fail.cnt.label "Vorige opeenvolgende mislukte bywerkings: ">
 <!ENTITY crl.autoupdate.fail.reason.label "Besonderhede van vorige mislukte bywerking: ">
 <!ENTITY edit.button "Opstelling">
-
-<!ENTITY validation.ocsp.caption "OCSP">
-<!ENTITY enableOCSP.label "Gebruik die protokol vir aanlyn sertifikaatstatus (OCSP) om die huidige geldigheid van sertifikate te bevestig">
-<!ENTITY enableOCSP.accesskey "G">
-<!ENTITY certOCSP2.label "Valideer 'n sertifikaat as dit 'n OCSP-bediener vermeld">
-<!ENTITY certOCSP2.accesskey "V">
-<!ENTITY proxyOCSP2.label "Valideer alle sertifikaat met die volgende OCSP-bediener:">
-<!ENTITY proxyOCSP2.accesskey "v">
-<!ENTITY serviceURL.label "Diens-URL:">
-<!ENTITY serviceURL.accesskey "D">
-<!ENTITY signingCA.label "Responsondertekenaar:">
-<!ENTITY signingCA.accesskey "R">
-<!ENTITY validation.requireOCSP.description "Wanneer 'n OCSP-bedienerverbinding misluk, beskou die sertifikaat as ongeldig">
-<!ENTITY validation.requireOCSP.accesskey "W">

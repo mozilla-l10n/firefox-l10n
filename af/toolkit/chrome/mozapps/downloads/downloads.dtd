@@ -39,6 +39,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.clearList.tooltip "Verwyder afgehandelde, gekanselleerde of mislukte aflaaie van die lys">
 <!ENTITY cmd.clearList.accesskey "M">
 <!ENTITY cmd.find.commandKey "f">
+<!ENTITY cmd.search.commandKey "k">
 
 <!ENTITY closeWhenDone.label "Sluit af wanneer aflaaie afgehandel is">
 <!ENTITY closeWhenDone.tooltip "Sluit aflaaie-venster af wanneer alle lêers klaar afgelaai is">

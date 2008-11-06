@@ -22,9 +22,8 @@
 <!ENTITY printButton.tooltip "Druk hierdie bladsy">
 <!ENTITY closeWindow.commandkey "W">
 
-<!ENTITY searchtab.label "Soek">
-<!ENTITY searchtab.accesskey "S">
-<!ENTITY searchClose.tooltip "Sluit soekresultate af">
+<!ENTITY search.emptytext "Search">
+<!ENTITY searchHeader.label "Search results">
 <!ENTITY toctab.label "Inhoud">
 <!ENTITY toctab.accesskey "I">
 <!-- LOCALIZATION NOTE :

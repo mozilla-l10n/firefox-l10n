@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label "Nuwe bladsye moet geopen word in:">
-<!ENTITY inNewWindow.label "'n nuwe venster">
-<!ENTITY inNewWindow.accesskey "w">
-<!ENTITY inNewTab.label "'n nuwe oortjie">
-<!ENTITY inNewTab.accesskey "o">
+<!ENTITY newWindowsAsTabs.label "Open new windows in a new tab instead">
+<!ENTITY newWindowsAsTabs.accesskey "t">
 
 <!ENTITY warnCloseMultipleTabs.label "Waarsku my wanneer ek meer as een oortjie sluit">
 <!ENTITY warnCloseMultipleTabs.accesskey "m">

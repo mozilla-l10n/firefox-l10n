@@ -19,6 +19,6 @@
 <!ENTITY itemOfflineApps.accesskey "V">
 <!ENTITY itemDownloads.label "Aflaaigeskiedenis">
 <!ENTITY itemDownloads.accesskey "A">
-<!ENTITY itemSessions.label "Stawingsessies">
-<!ENTITY itemSessions.accesskey "S">
+<!ENTITY itemActiveLogins.label "Active Logins">
+<!ENTITY itemActiveLogins.accesskey "L">
 <!ENTITY window.width "30em">

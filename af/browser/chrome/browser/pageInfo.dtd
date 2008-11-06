@@ -60,8 +60,8 @@
 <!ENTITY generalEncoding "Enkodering:">
 <!ENTITY generalMetaName "Naam">
 <!ENTITY generalMetaContent "Inhoud">
-<!ENTITY generalSecurityMore "Meer">
-<!ENTITY generalSecurityMore.accesskey "e">
+<!ENTITY generalSecurityDetails "Besonderhede">
+<!ENTITY generalSecurityDetails.accesskey "D">
 
 <!ENTITY mediaTab "Media">
 <!ENTITY mediaTab.accesskey "M">

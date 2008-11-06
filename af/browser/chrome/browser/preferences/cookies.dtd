@@ -22,9 +22,6 @@
 
 <!ENTITY filter.label "Soek:">
 <!ENTITY filter.accesskey "S">
-<!ENTITY clear.label "Maak skoon">
-<!ENTITY clear.accesskey "s">
 
 <!ENTITY button.close.label "Sluit">
 <!ENTITY button.close.accesskey "S">
-

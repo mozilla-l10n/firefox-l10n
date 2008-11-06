@@ -21,3 +21,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label "Laai hierdie boekmerk in die kantbalk">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey "h">
 <!ENTITY editBookmarkOverlay.choose.label "Kies…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label "New Folder">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey "o">

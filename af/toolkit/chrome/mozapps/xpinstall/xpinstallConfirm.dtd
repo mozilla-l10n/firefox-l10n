@@ -2,7 +2,7 @@
 
 <!ENTITY dialog.title "Sagteware-installering">
 <!ENTITY dialog.style "width: 45em;">
-<!ENTITY warningMain.label "Installeer net byvoegings van outeurs wat u vertrou.">
+<!ENTITY warningPrimary.label "Install add-ons only from authors whom you trust.">
 <!ENTITY warningSecondary.label "Kwaadwillige sagteware kan u rekenaar beskadig of op u privaatheid inbreuk maak.">
 
 <!ENTITY from.label "van:">

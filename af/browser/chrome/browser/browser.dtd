@@ -7,6 +7,9 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Private Browsing)">
 
 <!ENTITY tabCmd.label "Nuwe oortjie">
 <!ENTITY tabCmd.accesskey "O">
@@ -161,6 +164,9 @@
 <!ENTITY clearPrivateDataCmd.label "Skrap private data">
 <!ENTITY clearPrivateDataCmd.accesskey "P">
 
+<!ENTITY privateBrowsingCmd.label "Private Browsing">
+<!ENTITY privateBrowsingCmd.accesskey "B">
+
 <!ENTITY viewMenu.label "Bekyk">
 <!ENTITY viewMenu.accesskey "B">
 <!ENTITY viewToolbarsMenu.label "Nutsbalke">
@@ -222,6 +228,8 @@
 <!ENTITY reloadFrameCmd.accesskey "H">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Bekyk bron van gemerkte deel">
 <!ENTITY viewPartialSourceForMathMLCmd.label "Bekyk MathML-bron">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label "Bekyk bron van bladsy">
 <!ENTITY viewPageSourceCmd.accesskey "B">
@@ -231,10 +239,12 @@
 <!ENTITY viewPageInfoCmd.accesskey "I">
 <!ENTITY viewFrameInfoCmd.label "Bekyk raaminfo">
 <!ENTITY viewFrameInfoCmd.accesskey "I">
-<!ENTITY showImageCmd.label "Wys prent">
-<!ENTITY showImageCmd.accesskey "W">
+<!ENTITY reloadImageCmd.label "Reload Image">
+<!ENTITY reloadImageCmd.accesskey "R">
 <!ENTITY viewImageCmd.label "Bekyk prent">
 <!ENTITY viewImageCmd.accesskey "P">
+<!ENTITY viewVideoCmd.label "View Video">
+<!ENTITY viewVideoCmd.accesskey "I">
 <!ENTITY viewBGImageCmd.label "Bekyk agtergrondprent">
 <!ENTITY viewBGImageCmd.accesskey "k">
 <!ENTITY setDesktopBackgroundCmd.label "As werkskermagtergrond…">
@@ -262,8 +272,16 @@
 <!ENTITY sendLinkCmd.accesskey "u">
 <!ENTITY saveImageCmd.label "Stoor prent as…">
 <!ENTITY saveImageCmd.accesskey "o">
+<!ENTITY saveVideoCmd.label "Save Video As…">
+<!ENTITY saveVideoCmd.accesskey "v">
+<!ENTITY saveAudioCmd.label "Save Audio As…">
+<!ENTITY saveAudioCmd.accesskey "v">
 <!ENTITY sendImageCmd.label "Gestuurde prent…">
 <!ENTITY sendImageCmd.accesskey "u">
+<!ENTITY sendVideoCmd.label "Send Video…">
+<!ENTITY sendVideoCmd.accesskey "n">
+<!ENTITY sendAudioCmd.label "Send Audio…">
+<!ENTITY sendAudioCmd.accesskey "n">
 <!ENTITY copyLinkCmd.label "Kopieer skakelligging">
 <!ENTITY copyLinkCmd.accesskey "k">
 <!ENTITY copyLinkTextCmd.label "Kopieer skakelteks">
@@ -272,6 +290,10 @@
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyImageContentsCmd.label "Kopieer prent">
 <!ENTITY copyImageContentsCmd.accesskey "k">
+<!ENTITY copyVideoURLCmd.label "Copy Video Location">
+<!ENTITY copyVideoURLCmd.accesskey "o">
+<!ENTITY copyAudioURLCmd.label "Copy Audio Location">
+<!ENTITY copyAudioURLCmd.accesskey "o">
 <!ENTITY blockImageCmd.accesskey "B">
 <!ENTITY metadataCmd.label "Eienskappe">
 <!ENTITY metadataCmd.accesskey "E">
@@ -279,11 +301,26 @@
 <!ENTITY copyEmailCmd.accesskey "E">
 <!ENTITY thisFrameMenu.label "Hierdie raam">
 <!ENTITY thisFrameMenu.accesskey "i">
+<!-- Media (video/audio) controls -->
+
+<!ENTITY mediaPlay.label "Speel">
+<!ENTITY mediaPlay.accesskey "S">
+<!ENTITY mediaPause.label "Laat wag">
+<!ENTITY mediaPause.accesskey "L">
+<!ENTITY mediaMute.label "Mute">
+<!ENTITY mediaMute.accesskey "M">
+<!ENTITY mediaUnmute.label "Unmute">
+<!ENTITY mediaUnmute.accesskey "m">
+<!ENTITY mediaShowControls.label "Show Controls">
+<!ENTITY mediaShowControls.accesskey "C">
+<!ENTITY mediaHideControls.label "Hide Controls">
+<!ENTITY mediaHideControls.accesskey "C">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
+
 
 
 <!ENTITY fullZoomEnlargeCmd.label "Zoem in">
@@ -308,7 +345,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label "Zoem">
 <!ENTITY fullZoom.accesskey "Z">
 
-<!ENTITY newTabButton.tooltip "Open 'n nuwe oortjie">
 <!ENTITY newWindowButton.tooltip "Open 'n nuwe venster">
 <!ENTITY sidebarCloseButton.tooltip "Sluit kantbalk">
 
@@ -391,3 +427,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Meer inligting…">
 
 <!ENTITY downloadMonitor2.tooltip "Klik om aflaaivenster te open">
+
+<!ENTITY ctrlTab.search.emptyText "Search Tabs">

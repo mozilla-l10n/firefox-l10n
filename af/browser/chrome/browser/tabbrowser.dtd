@@ -16,3 +16,4 @@
 <!ENTITY bookmarkThisTab.accesskey "B">
 <!ENTITY undoCloseTab.label "Ontdoen oortjie sluit">
 <!ENTITY undoCloseTab.accesskey "O">
+<!ENTITY newTabButton.tooltip "Open 'n nuwe oortjie">
