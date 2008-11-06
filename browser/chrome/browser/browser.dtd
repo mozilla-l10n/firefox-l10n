@@ -134,8 +134,8 @@
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferenze">
 <!ENTITY preferencesCmdUnix.accesskey "n">
-<!ENTITY clearPrivateDataCmd.label "Elimina i dati personali">
-<!ENTITY clearPrivateDataCmd.accesskey "E">
+<!ENTITY clearRecentHistoryCmd.label "Elimina cronologia recente">
+<!ENTITY clearRecentHistoryCmd.accesskey "E">
 <!ENTITY privateBrowsingCmd.label "Navigazione anonima">
 <!ENTITY privateBrowsingCmd.accesskey "N">
 <!ENTITY viewMenu.label "Visualizza">
