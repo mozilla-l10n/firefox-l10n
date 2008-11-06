@@ -188,8 +188,7 @@
 <!ENTITY preferencesCmd.accesskey     "O"> 
 <!ENTITY preferencesCmdUnix.label       "අභිප්‍රේත">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
-<!ENTITY clearPrivateDataCmd.label            "පෞද්ගලික දත්ත මකන්න">
-<!ENTITY clearPrivateDataCmd.accesskey        "P">
+<!ENTITY ctrlTab.search.emptyText "ටැබ් සෙවුම">
 <!ENTITY viewMenu.label         "දසුන්"> 
 <!ENTITY viewMenu.accesskey       "V"> 
 <!ENTITY viewToolbarsMenu.label       "මෙවලම් තීරු"> 
