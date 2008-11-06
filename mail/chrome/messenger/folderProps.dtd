@@ -52,7 +52,6 @@
 <!ENTITY retention.label "Politica de păstrare">
 <!ENTITY retentionUseDefault.label  "Utilizează setările implicite ale serverului">
 <!ENTITY retentionUseDefault.accesskey "U">
-<!ENTITY days.label "zile">
 <!ENTITY daysOld.label "zile">
 <!ENTITY message.label "mesaje">
 <!ENTITY retentionCleanup.label "Pentru economisirea spațiului pe disc, se pot șterge permanent mesajele vechi.">
@@ -76,18 +75,15 @@
 
 <!ENTITY selectofflineNewsgroup.check.label      "Selectează acest grup de news pentru uz offline">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "o">
-<!ENTITY UseDefaultofflineNewsgroup.check.label  "Folosește valorile implicite din setările contului">
 <!ENTITY offlineNewsgroup.button.label           "Descarcă acum">
 <!ENTITY offlineNewsgroup.button.accesskey       "D">
 
-<!ENTITY folderProps.information.label           "Informații:">
 <!ENTITY folderProps.name.label                  "Nume:">
 <!ENTITY folderProps.name.accesskey              "N">
 <!ENTITY folderProps.location.label              "Amplasare:">
 <!ENTITY folderProps.location.accesskey          "l">
 
 <!ENTITY folderSharingTab.label                  "Partajare">
-<!ENTITY privilegesDesc.label                    "Partajează acest dosar (și altele) cu utilizatorii din rețea; afișează și ajustează privilegiile de acces">
 <!ENTITY privileges.button.label                 "Privilegii...">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "Aveți următoarele drepturi:">

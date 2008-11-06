@@ -87,7 +87,7 @@
 <!-- Keys -->
 <!ENTITY clear.key "C">
 <!ENTITY selectall.key "o">
-<!ENTITY close.key "c">
+<!ENTITY close.key "l">
 <!ENTITY cut.key "T">
 <!ENTITY copy.key "C">
 <!ENTITY paste.key "p">

@@ -19,5 +19,3 @@
 <!ENTITY  chooseFolder.accesskey              "R">
 <!ENTITY  saveToAskMe.label                   "întreabă-mă unde se va salva fișierul">
 <!ENTITY  saveToAskMe.accesskey               "a">
-<!ENTITY  usePlugin.label                     "Folosește acest plugin:">
-<!ENTITY  usePlugin.accesskey                 "p">

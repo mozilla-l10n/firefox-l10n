@@ -5,7 +5,6 @@
 <!ENTITY offlineNotDownload.label "Mesaje mai mari de">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY kb.label "KO">
-<!ENTITY days.label "ZILE">
 <!ENTITY daysOld.label "zile">
 <!ENTITY message.label "mesaje">
 <!ENTITY nntpNotDownloadRead.label "Mesaje citite">

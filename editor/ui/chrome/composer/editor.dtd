@@ -44,17 +44,17 @@
 
 <!-- View menu items -->
 <!ENTITY viewMenu.label "Vizualizare">
-<!ENTITY viewmenu.accesskey "v">
+<!ENTITY viewMenu.accesskey "V">
 <!ENTITY compositionToolbarCmd.label "Bară de redactare">
-<!ENTITY compositiontb.accesskey "C">
+<!ENTITY compositionToolbarCmd.accesskey "B">
 <!ENTITY formattingToolbarCmd.label "Bară de formatare">
-<!ENTITY formattingtb.accesskey "F">
+<!ENTITY formattingToolbarCmd.accesskey "B">
 <!ENTITY editmodeToolbarCmd.label "Bară de editare">
-<!ENTITY editmodetb.accesskey "E">
+<!ENTITY editmodeToolbarCmd.accesskey "B">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formatare">
-<!ENTITY formatmenu.accesskey "O">
+<!ENTITY formatMenu.accesskey "F">
 
 <!ENTITY helpMenu.label "Ajutor">
 <!ENTITY aboutCmd.label ".Despre">
@@ -63,4 +63,3 @@
 <!ENTITY editMode.label "Mod editare:">
 
 <!ENTITY statusText.label "Terminat de încărcat pagina">
-

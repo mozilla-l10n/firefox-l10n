@@ -4,10 +4,10 @@
 <!ENTITY  authorName.accesskey      "A">
 <!ENTITY  pageColorHeader           "Aspect implicit pagină">
 
-<!ENTITY defaultColorsRadio.label   "Culorile implicite ale cititorului (Nu introduce culori în pagină)">
-<!ENTITY defaultColors.accesskey    "d">
-<!ENTITY customColorsRadio.label    "Folosește culori personalizate:">
-<!ENTITY customColors.accesskey     "C">
+<!ENTITY defaultColors.label        "Culorile implicite ale cititorului (Nu seta nici o culoare)">
+<!ENTITY defaultColors.accesskey    "C">
+<!ENTITY customColors.label         "Folosește culori personalizate:">
+<!ENTITY customColors.accesskey     "c">
 
 <!ENTITY normalText.label           "Text normal">
 <!ENTITY normalText.accesskey       "n">

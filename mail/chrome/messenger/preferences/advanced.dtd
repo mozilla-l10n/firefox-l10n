@@ -1,4 +1,5 @@
 <!ENTITY itemGeneral.label       "Generale">
+<!ENTITY itemDisplay.label       "Reading &amp; Display">
 <!ENTITY itemUpdate.label        "Actualizare">
 <!ENTITY itemNetworking.label    "Rețea și spațiu pe disc">
 <!ENTITY itemCertificates.label  "Certificate">
@@ -20,24 +21,21 @@
 <!ENTITY secondsLabel.label            "secunde">
 <!ENTITY showFolderColumns.label       "Expandează coloanele din panoul cu dosare">
 <!ENTITY showFolderColumns.accesskey   "l">
-<!ENTITY rememberLastMsg.label         "Reține ultimul mesaj selectat">
-<!ENTITY rememberLastMsg.accesskey     "R">
 <!ENTITY openMsgIn.label               "Deschide mesajele în:">
 <!ENTITY reuseExpRadio0.label          "O fereastră de mesaj nouă">
 <!ENTITY reuseExpRadio0.accesskey      "O">
 <!ENTITY reuseExpRadio1.label          "O fereastră de mesaj existentă">
 <!ENTITY reuseExpRadio1.accesskey      "x">
-<!ENTITY reuseExpRadio2.label          "O filă de mesaj nou">
-<!ENTITY reuseExpRadio2.accesskey      "a">
-<!ENTITY connectionTimeout.label       "Timp de expirare a conexiunii:">
-<!ENTITY connectionTimeout.accesskey   "c">
-<!ENTITY connectionSeconds.label       "secunde">
 <!ENTITY configEditDesc.label          "Configurare avansată">
 <!ENTITY configEdit.label              "Editor de configurație...">
 <!ENTITY configEdit.accesskey          "g">
 <!ENTITY returnReceiptsInfo.label      "Configurați gestionarea confirmărilor de primire">
 <!ENTITY showReturnReceipts.label      "Confirmări de primire...">
 <!ENTITY showReturnReceipts.accesskey  "r">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption                "Citire">
+<!ENTITY display.caption                "Afișare">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Caută automat actualizări pentru:">
@@ -57,9 +55,9 @@
 <!ENTITY showUpdates.accesskey          "A">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showConnections.label         "Conexiune...">
-<!ENTITY showConnections.accesskey     "n">
-<!ENTITY proxiesInfo.label             "Determină cum se conectează &brandShortName; la Internet.">
+<!ENTITY showSettings.label            "Setări...">
+<!ENTITY showSettings.accesskey        "S">
+<!ENTITY proxiesConfigure.label        "Configurați cum se conectează &brandShortName; la Internet">
 <!ENTITY connectionsInfo.caption       "Conexiune">
 <!ENTITY offlineInfo.caption           "Deconectat">
 <!ENTITY offlineInfo.label             "Configurează preferințele pentru modul deconectat">
@@ -71,8 +69,19 @@
 <!ENTITY offlineCompact.accesskey "C">
 <!ENTITY kb.label "KO">
 
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Folosește până la">
+<!ENTITY useCacheBefore.accesskey        "F">
+<!ENTITY useCacheAfter.label             "MO de spațiu pentru cache">
+<!ENTITY clearCacheNow.label             "Curăță acum">
+<!ENTITY clearCacheNow.accesskey         "C">
+
 <!-- Certificates -->
-<!ENTITY certificatesInfo2.label        "Gestionează certificatele, listele de revocare, validările certificatelor și dispozitivele de securitate.">
 <!ENTITY viewCertificates.label         "Vizualizare certificate">
 <!ENTITY viewCertificates.accesskey     "a">
 <!ENTITY viewCRLs.label                 "Liste de revocare">

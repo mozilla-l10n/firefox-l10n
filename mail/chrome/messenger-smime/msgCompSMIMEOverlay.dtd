@@ -3,9 +3,6 @@
 <!ENTITY securityMenu.label "Securitate">
 <!ENTITY securityMenu.accesskey "e">
 
-<!ENTITY menu_securityEncryptIfPossible.label "Criptează dacă e posibil">
-<!ENTITY menu_securityEncryptIfPossible.accesskey "r">
-
 <!ENTITY menu_securityEncryptRequire.label "Criptează mesajul">
 <!ENTITY menu_securityEncryptRequire.accesskey "C">
 

@@ -6,12 +6,8 @@
 <!ENTITY addAccountButton.accesskey "A">
 <!ENTITY setDefaultButton.label "Marchează ca implicit">
 <!ENTITY setDefaultButton.accesskey "M">
-<!ENTITY duplicateButton.label "Duplicare">
 <!ENTITY removeButton.label "Șterge cont">
 <!ENTITY removeButton.accesskey "t">
-
-<!ENTITY nameCol.label "Nume">
-<!ENTITY duplicate.label "Duplicare">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account

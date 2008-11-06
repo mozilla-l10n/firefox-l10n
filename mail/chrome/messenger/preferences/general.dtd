@@ -29,7 +29,6 @@
 <!ENTITY customizeMailAlert.label         "Personalizează...">
 <!ENTITY customizeMailAlert.accesskey     "P">
 
-<!ENTITY soundNotification1.caption       "Sunet">
 <!ENTITY play.label                       "Redă">
 <!ENTITY play.accesskey                   "R">
 <!ENTITY systemsound.label                "Sunetul de sistem implicit pentru mesaj nou">
@@ -40,3 +39,9 @@
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "Răsfoiește...">
 <!ENTITY browse.accesskey                 "R">
+
+<!ENTITY addonsMgr.label                  "Suplimente">
+<!ENTITY manageAddonsDescWin.label        "Schimbați opțiunile suplimentelor">
+<!ENTITY manageAddonsDescUnix2.label      "Schimbați preferințele suplimentelor">
+<!ENTITY manageAddons.label               "Gestionare suplimente...">
+<!ENTITY manageAddons.accesskey           "m">

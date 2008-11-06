@@ -1,9 +1,7 @@
 <!ENTITY itemGeneral.label                   "Generale">
 <!ENTITY itemAutoComplete.label              "Adrese">
 <!ENTITY itemSpellCheck.label                "Ortografie">
-<!ENTITY itemSendFormat.label                "Format de trimitere">
 
-<!ENTITY forwardReply.label                   "Înaintare mesaje">
 <!ENTITY forwardMsg.label                     "Înaintează mesajele:">
 <!ENTITY forwardMsg.accesskey                 "Î">
 <!ENTITY inline.label                         "Mesaj inclus">
@@ -25,7 +23,6 @@
 <!ENTITY restoreHTMLDefaults.label            "Restaurează setările implicite">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
 
-<!ENTITY sendingMessagesHeader.label          "Redactare mesaje">
 <!ENTITY spellCheck.label                     "Verifică ortografia înainte de a trimite">
 <!ENTITY spellCheck.accesskey                 "c">
 <!ENTITY spellCheckInline.label               "Activează verificarea ortografiei în timpul tastării">
@@ -39,10 +36,6 @@
 <!ENTITY autoSave.label                       "Salvează automat la fiecare">
 <!ENTITY autoSave.accesskey                   "u">
 <!ENTITY autoSaveEnd.label                    "minute">
-<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
-<!ENTITY wrapOutMsg.label                     "Încadrează mesajele text pe lățime la">
-<!ENTITY wrapOutMsg.accesskey                 "l">
-<!ENTITY char.label                           "caractere">
 
 <!ENTITY emailCollectionPicker.label           "Adaugă automat adresele de email din mesajele trimise la:">
 <!ENTITY emailCollectionPicker.accesskey       "t">
@@ -55,10 +48,7 @@
 <!ENTITY directoriesNone.label                 "Niciunul">
 <!ENTITY editDirectories.label                 "Editează directoarele...">
 <!ENTITY editDirectories.accesskey             "E">
-<!ENTITY matchText.label                       "Dacă se găsește ceva potrivit în agendele locale de contacte:">
-<!ENTITY skipDirectory.label                   "Nu căuta în acest director">
 
-<!ENTITY sendOptionsCaption.label              "Opțiuni HTML și de trimitere">
 <!ENTITY sendOptionsDescription.label          "Configurează aspectul textului">
 <!ENTITY sendOptions.label                     "Opțiuni de trimitere...">
 <!ENTITY sendOptions.accesskey                 "O">

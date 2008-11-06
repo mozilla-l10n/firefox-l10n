@@ -25,7 +25,6 @@
 <!ENTITY pasteCmd.key            "v">
 <!ENTITY pasteCmd.accesskey          "L">
 <!ENTITY deleteCmd.label          "Șterge">
-<!ENTITY deleteCmd.key            "d">
 <!ENTITY deleteCmd.accesskey        "g">
 <!ENTITY selectAllCmd.label          "Selectează tot">
 <!ENTITY selectAllCmd.key          "A">
@@ -35,9 +34,6 @@
 <!ENTITY preferencesCmdUnix.label       "Preferințe">
 <!ENTITY preferencesCmdUnix.accesskey     "e">
 
-<!ENTITY findTypeTextCmd.label "Caută textul în timp ce tastez">
-<!ENTITY findTypeTextCmd.accesskey "x">
-
 <!ENTITY viewMenu.label          "Vizualizare">
 <!ENTITY viewMenu.accesskey        "V">
 <!ENTITY viewToolbarsMenu.label        "Bare de unelte">
@@ -45,18 +41,8 @@
 <!ENTITY showTaskbarCmd.label          "Bară de stare">
 <!ENTITY showTaskbarCmd.accesskey        "s">
 
-<!ENTITY direct.label                                   "Conectat (proxy: fără)">
-<!ENTITY direct.accesskey                               "f">
-<!ENTITY manual.label                                   "Conectat (proxy: manual)">
-<!ENTITY manual.accesskey                               "m">
-<!ENTITY pac.label                                      "Conectat (proxy: auto)">
-<!ENTITY pac.accesskey                                  "a">
-
 <!ENTITY proxy.label                                    "Configurare proxy...">
 <!ENTITY proxy.accesskey                                "C">
-
-<!ENTITY findTypeTextCmd.key        "/">
-<!ENTITY findTypeLinksCmd.key       "'">
 
 <!ENTITY closeCmd.label      "Închide">
 <!ENTITY closeCmd.key      "w">

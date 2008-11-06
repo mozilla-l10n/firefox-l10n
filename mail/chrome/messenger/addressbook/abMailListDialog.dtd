@@ -46,7 +46,6 @@
 <!ENTITY ListDescription.label          "Descriere:">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Tastați adrese de email în lista de mai jos:">
-<!ENTITY RemoveButton.label             "Șterge">
 <!ENTITY UpButton.label                 "Mută sus">
 <!ENTITY DownButton.label               "Mută jos">
 

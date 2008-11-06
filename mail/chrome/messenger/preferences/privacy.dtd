@@ -43,12 +43,3 @@
 <!ENTITY antiVirus.intro      "&brandShortName; poate ușura munca programelor anti-virus scanând mesajele de viruși înainte de a le stoca pe disc.">
 <!ENTITY antiVirus.label      "Permite programelor anti-virus să pună în carantină individual mesajele primite">
 <!ENTITY antiVirus.accesskey  "l">
-
-<!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
-<!ENTITY antiVirusCaption.label "Anti-virus">
-<!ENTITY paswords.label         "Parole">
-<!ENTITY emailScams.label       "Înșelătorii prin email">
-<!ENTITY junkMail.label         "Mesaje spam (nesolicitate)">
-<!ENTITY itemIntrusions.label   "Intruziuni">
-<!ENTITY itemIntrusionsAndPasswords.label  "Intruziuni și parole">
-<!ENTITY itemJunkMail.label     "Mesaje spam (nesolicitate)">

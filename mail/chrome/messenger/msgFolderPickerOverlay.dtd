@@ -36,14 +36,5 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Labels -->
-<!ENTITY subscribechoosethis.label      "alege acest server de news">
-<!ENTITY subscribeclickhere.label      "apăsați aici pentru a alege un server de news">
 <!ENTITY newfolderchoosethis.label      "alege acesta ca părinte">
-<!ENTITY newfolderclickhere.label      "Apăsați aici pentru a selecta">
-<!ENTITY renamefolderchoosethis.label      "alege acest dosar">
-<!ENTITY renamefolderclickhere.label      "apăsați aici pentru a alege un dosar">
-<!ENTITY filemessageschoosethis.label      "alege acest dosar">
-<!ENTITY filemessagesclickhere.label      "apăsați aici pentru a alege un dosar">
-<!ENTITY chooseaccountclickhere.label      "Apăsați aici pentru a selecta un cont">
-<!ENTITY choosefolderclickhere.label      "Apăsați aici pentru a selecta un dosar">
-<!ENTITY chooseserverToDeferTo.label      "clic aici pentru a selecta un cont de folosit pentru stocarea mesajelor">
+<!ENTITY filemessageschoosethis.label   "alege acest dosar">

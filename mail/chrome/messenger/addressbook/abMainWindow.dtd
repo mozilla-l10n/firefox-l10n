@@ -60,7 +60,6 @@
 <!ENTITY pasteCmd.key                                   "v">
 <!ENTITY pasteCmd.accesskey                             "I">
 <!ENTITY deleteCmd.label                                "Șterge">
-<!ENTITY deleteCmd.key                                  "d">
 <!ENTITY deleteCmd.accesskey                            "Ș">
 <!ENTITY deleteAbCmd.label                              "Șterge agenda de contacte">
 <!ENTITY deleteCardCmd.label                            "Șterge fișă">
@@ -118,7 +117,6 @@
 <!ENTITY exportCmd.label                                "Export...">
 <!ENTITY exportCmd.accesskey                            "E">
 <!ENTITY preferencesCmd.label                           "Opțiuni...">
-<!ENTITY preferencesCmd.key                             "O">
 <!ENTITY preferencesCmd.accesskey                       "O">
 <!ENTITY preferencesCmdUnix.label                       "Preferințe">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">

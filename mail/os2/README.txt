@@ -41,10 +41,11 @@ problems and installation issues with Thunderbird.
 
 ================================================================================
 
-- This release requires the C runtime DLLs (libc-0.6.1) from
-  ftp://ftp.netlabs.org/pub/gcc/libc-0.6.1-csd1.zip
-  in order to run.  You can unpack them in the same directory as the
-  Thunderbird executable or somewhere else in your LIBPATH.
+- This release requires updated C runtime DLLs (libc-0.5.1) from
+     http://www.innotek.de/products/gccos2/download/gccos2download_e.html
+  in order to run. By default the installation routine places them in \OS2\DLL
+  on your bootdrive, but you can put them in the same directory as Thunderbird's
+  executable, or somewhere else in your LIBPATH.
 
 - Minimum hardware requirements
   + Pentium class processor
@@ -99,16 +100,15 @@ OS/2 Installation Instructions
 
      1. Click the "Zip" link on the site you're downloading Thunderbird from
      to download the ZIP package to your machine. This file is typically called
-     thunderbird-x.x.x.en-US.os2.zip where the "x.x.x" is replaced by the
-     Thunderbird version.
+     thunderbird-*-os2.zip where the "*" is replaced by the Thunderbird version.
 
      2. Navigate to where you downloaded the file and unpack it using your
      favorite unzip tool.
 
      3. Keep in mind that the unzip process creates a directory "thunderbird"
-     below the location you point it to, e.g.
-        unzip thunderbird-1.0.1.en-US.os2.zip -d c:\thunderbird-1.0.1
-     will unpack Thunderbird into c:\thunderbird-1.0.1\thunderbird.
+     below the location you point it to, i.e. 
+        unzip thunderbird-1.0-os2.zip -d c:\thunderbird-1.0
+     will unpack Thunderbird into c:\thunderbird-1.0\thunderbird.
 
      4. Make sure that you are _not_ unpacking over an old installation. This is
      known to cause problems.
@@ -116,7 +116,7 @@ OS/2 Installation Instructions
      5. To start Thunderbird, navigate to the directory you extracted
      Thunderbird to, make sure that the C library DLLs are copied to the
      installation directory or installed in the LIBPATH, and then double-click
-     the thunderbird.exe object.
+     the Thunderbird.exe object.
 
 
 Running multiple versions concurrently
@@ -186,6 +186,10 @@ behavior of Thunderbird on OS/2:
   other applications using the high resolution timer (multimedia apps) act
   strangely.
 
+- set MOZILLA_USE_EXTENDED_FT2LIB=T
+  If you have the Innotek Font Engine installed this variable enables special
+  functions in Thunderbird to handle unicode characters.
+
 - set MOZ_NO_REMOTE=1
   Use this to run two instances of Thunderbird simultaneously (like e.g. debug
   and optimized version).
@@ -200,18 +204,11 @@ Known Problems of the OS/2 version
 Cross-platform problems are usually listed in the release notes of each
 milestone release.
 
-- Thunderbird will beep when copying more than 64 kB of text to the clipboard.
-  This is to alert users that many applications (most notably the system
-  editor, EPM, and applications running in VIO windows) cannot paste more
-  than this.
-
-- Thunderbird cannot make use of OS/2 fonts like WarpSans and others which
-  are not available in Type1 or TrueType format. It is therefore
-  recommended to install the "Workplace Sans" font from
-     http://users.socis.ca/~ataylo00/creative/fonts/
-  or
-     http://hobbes.nmsu.edu/cgi-bin/h-search?key=wpsu_ttf
-  which Thunderbird will use as a replacement of WarpSans.
+- Bug 167884, "100% CPU load when viewing site [tiling transparent PNG]":
+  https://bugzilla.mozilla.org/show_bug.cgi?id=167884
+On OS/2, Mozilla's rendering engine is known to have very slow performance on
+websites that use small, repeated images with transparency for their layout.
+This might also affect HTML emails displayed in Thunderbird.
 
 Other known problems can be found by following the link "Current Open Warpzilla
 Bugs" on the OS/2 Mozilla page <http://www.mozilla.org/ports/os2/>.

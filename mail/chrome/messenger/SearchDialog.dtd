@@ -5,15 +5,11 @@
 <!ENTITY searchSubfolders.accesskey  "e">
 <!ENTITY resetButton.label           "Golește">
 <!ENTITY resetButton.accesskey       "G">
-<!ENTITY optionsButton.label         "Opțiuni">
-<!ENTITY closeButton.label           "Închide">
 <!ENTITY openButton.label            "Deschide">
 <!ENTITY openButton.accesskey        "D">
 <!ENTITY deleteButton.label          "Șterge">
 <!ENTITY deleteButton.accesskey      "g">
 <!ENTITY searchDialogTitle.label     "Căutare mesaje">
-<!ENTITY conditionDesc.label         "Caută mesaje care îndeplinesc:">
-<!ENTITY conditions.label            "Criterii">
 <!ENTITY results.label               "Rezultate">
 <!ENTITY fileHereMenu.label          "Îndosariază aici">
 <!ENTITY fileHereMenu.accesskey      "Î">
@@ -46,7 +42,6 @@
 <!ENTITY statusColumn.label "Stare">
 <!ENTITY sizeColumn.label "Mărime">
 <!ENTITY junkStatusColumn.label "Statut de spam">
-<!ENTITY linesColumn.label "Rânduri">
 <!ENTITY unreadColumn.label "Necitit">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Citit">

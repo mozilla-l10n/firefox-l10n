@@ -1,8 +1,6 @@
 <!ENTITY itemFormatting.label             "Formatare">
 <!ENTITY itemTags.label                   "Etichete">
-<!ENTITY itemFonts.label                  "Fonturi">
 
-<!ENTITY textBegin.label                  "Aspectul textului citat">
 <!ENTITY style.label                      "Stil">
 <!ENTITY style.accesskey                  "S">
 <!ENTITY regularStyle.label               "Normal">
@@ -19,12 +17,10 @@
 <!ENTITY displayWidth.label               "Mesaje text">
 <!ENTITY plainText.label                  "Folosește următorul font:">
 <!ENTITY displayText.label                "Pentru afișarea mesajelor text citate:">
-<!ENTITY viewingPlainText.label            "Pentru afișarea mesajelor text:">
 <!ENTITY fixedWidth.label                 "Font cu lățime fixă">
 <!ENTITY fixedWidth.accesskey             "x">
 <!ENTITY variableWidth.label              "Font cu lățime variabilă">
 <!ENTITY variableWidth.accesskey          "v">
-<!ENTITY readingMessagesHeader.label      "Pentru mesajele primite">
 <!ENTITY colors.label                     "Culori">
 <!ENTITY overrideColors.label             "Culori folosite la afișarea mesajelor:">
 <!ENTITY textColor.label                  "Culoare text:">
