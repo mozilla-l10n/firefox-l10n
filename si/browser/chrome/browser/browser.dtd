@@ -197,7 +197,8 @@
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "රිසිකරණය..."> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C"> 
-
+<!ENTITY clearRecentHistoryCmd.label            "මෑත අතීත දත්ත මකන්න">
+<!ENTITY clearRecentHistoryCmd.accesskey        "H">
 <!ENTITY copyVideoURLCmd.label        "දෘශ්‍ය පිහිටුම පිටපත් කරන්න">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "ශ්‍රව්‍ය පිහිටුම පිටපත් කරන්න">
