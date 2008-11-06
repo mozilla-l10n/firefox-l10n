@@ -51,6 +51,8 @@
 <!ENTITY setDefaultMail.accesskey         "o">
 <!ENTITY setDefaultNews.label             "Diskusné skupiny">
 <!ENTITY setDefaultNews.accesskey         "k">
+<!ENTITY setDefaultFeed.label             "Kanály">
+<!ENTITY setDefaultFeed.accesskey         "n">
 
 <!ENTITY messengerStartPage.caption       "Úvodná stránka pošty">
 <!ENTITY enableStartPage.label            "Pri spustení pošty zobraziť stránku v oblasti správy">

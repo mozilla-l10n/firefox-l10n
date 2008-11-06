@@ -7,6 +7,9 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Režim Súkromné prehliadanie)">
 
 <!ENTITY tabCmd.label "Nová karta">
 <!ENTITY tabCmd.accesskey "a">
@@ -158,8 +161,11 @@
 <!ENTITY preferencesCmdUnix.label "Možnosti">
 <!ENTITY preferencesCmdUnix.accesskey "M">
 
-<!ENTITY clearPrivateDataCmd.label            "Odstrániť súkromné údaje">
-<!ENTITY clearPrivateDataCmd.accesskey        "O">
+<!ENTITY clearRecentHistoryCmd.label            "Vymazať históriu prehliadania">
+<!ENTITY clearRecentHistoryCmd.accesskey        "h">
+
+<!ENTITY privateBrowsingCmd.label            "Súkromné prehliadanie">
+<!ENTITY privateBrowsingCmd.accesskey        "k">
 
 <!ENTITY viewMenu.label "Zobraziť">
 <!ENTITY viewMenu.accesskey "Z">
@@ -420,3 +426,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Viac informácií…">
 
 <!ENTITY downloadMonitor2.tooltip "Kliknutím otvoríte Správcu preberania súborov">
+
+<!ENTITY ctrlTab.search.emptyText "Hľadať karty">

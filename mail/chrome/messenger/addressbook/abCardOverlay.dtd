@@ -62,42 +62,45 @@
 <!ENTITY PhoneticField1.label           "Výslovnosť:">
 <!ENTITY PhoneticField2.label           "Výslovnosť:">
 <!ENTITY DisplayName.label              "Zobrazované meno:">
-<!ENTITY DisplayName.accesskey          "Z">
+<!ENTITY DisplayName.accesskey          "a">
 <!ENTITY NickName.label                 "Prezývka:">
-<!ENTITY NickName.accesskey             "r">
+<!ENTITY NickName.accesskey             "P">
 <!ENTITY Internet.box                   "Internet">
 <!ENTITY PrimaryEmail.label             "E-mailová adresa:">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Ďalšia e-mailová adresa:">
-<!ENTITY SecondEmail.accesskey          "a">
+<!ENTITY SecondEmail.accesskey          "l">
 <!ENTITY PreferMailFormat.label         "Preferuje príjem správ vo formáte:">
 <!ENTITY PreferMailFormat.accesskey     "u">
 <!ENTITY PlainText.label                "Len text">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Neznámy">
-<!ENTITY ScreenName.label               "Účet pre IM:">
+<!ENTITY ScreenName.label               "Meno na IM:">
 <!ENTITY ScreenName.accesskey           "I">
 
-<!ENTITY allowRemoteContent.label       "V správach vo formáte HTML povoliť vzdialené obrázky">
-<!ENTITY allowRemoteContent.accesskey   "H">
+<!ENTITY allowRemoteContent.label       "Povoliť vzdialené obrázky">
+<!ENTITY allowRemoteContent.accesskey   "n">
+<!ENTITY allowRemoteContent.tooltip     "Do správ vo formáte HTML je možné
+vložiť obrázky zo vzdialených serverov. Pri otvorení takejto správy sa 
+vytvorí pripojenie k danému serveru. Týmto je možné sledovať,
+či bola správa prečítaná. Označením tejto voľby umožníte v správach od tohto kontaktu 
+načítavanie externých obrázkov v správach vo formáte HTML.">
 
-<!ENTITY Phones.box                     "Telefóny">
 <!ENTITY WorkPhone.label                "Zamestnanie:">
-<!ENTITY WorkPhone.accesskey            "s">
+<!ENTITY WorkPhone.accesskey            "t">
 <!ENTITY HomePhone.label                "Domov:">
 <!ENTITY HomePhone.accesskey            "D">
 <!ENTITY FaxNumber.label                "Fax:">
 <!ENTITY FaxNumber.accesskey            "F">
 <!ENTITY PagerNumber.label              "Pager:">
-<!ENTITY PagerNumber.accesskey          "P">
+<!ENTITY PagerNumber.accesskey          "g">
 <!ENTITY CellularNumber.label           "Mobil:">
 <!ENTITY CellularNumber.accesskey       "b">
 
-<!ENTITY Address.tab                    "Adresa">
-<!ENTITY Address.accesskey              "A">
-<!ENTITY Home.box                       "Domov">
+<!ENTITY Home.tab                       "Súkromné">
+<!ENTITY Home.accesskey                 "S">
 <!ENTITY HomeAddress.label              "Adresa:">
-<!ENTITY HomeAddress.accesskey          "d">
+<!ENTITY HomeAddress.accesskey          "A">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Mesto:">
@@ -107,30 +110,32 @@
 <!ENTITY HomeZipCode.label              "PSČ:">
 <!ENTITY HomeZipCode.accesskey          "P">
 <!ENTITY HomeCountry.label              "Krajina:">
-<!ENTITY HomeCountry.accesskey          "K">
+<!ENTITY HomeCountry.accesskey          "n">
 <!ENTITY HomeWebPage.label              "Webová stránka:">
 <!ENTITY HomeWebPage.accesskey          "W">
-<!ENTITY Work.box                       "Zamestnanie">
+
+<!ENTITY Work.tab                       "Zamestnanie">
+<!ENTITY Work.accesskey                 "Z">
 <!ENTITY JobTitle.label                 "Titul:">
-<!ENTITY JobTitle.accesskey             "i">
+<!ENTITY JobTitle.accesskey             "u">
 <!ENTITY Department.label               "Oddelenie:">
-<!ENTITY Department.accesskey           "l">
+<!ENTITY Department.accesskey           "d">
 <!ENTITY Company.label                  "Organizácia:">
-<!ENTITY Company.accesskey              "O">
+<!ENTITY Company.accesskey              "c">
 <!ENTITY WorkAddress.label              "Adresa:">
-<!ENTITY WorkAddress.accesskey          "r">
+<!ENTITY WorkAddress.accesskey          "A">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Mesto:">
-<!ENTITY WorkCity.accesskey             "e">
+<!ENTITY WorkCity.accesskey             "M">
 <!ENTITY WorkState.label                "Štát:">
-<!ENTITY WorkState.accesskey            "á">
+<!ENTITY WorkState.accesskey            "t">
 <!ENTITY WorkZipCode.label              "PSČ:">
-<!ENTITY WorkZipCode.accesskey          "S">
+<!ENTITY WorkZipCode.accesskey          "P">
 <!ENTITY WorkCountry.label              "Krajina:">
 <!ENTITY WorkCountry.accesskey          "n">
 <!ENTITY WorkWebPage.label              "Webová stránka:">
-<!ENTITY WorkWebPage.accesskey          "b">
+<!ENTITY WorkWebPage.accesskey          "W">
 
 <!ENTITY Other.tab                      "Ostatné">
 <!ENTITY Other.accesskey                "O">
@@ -147,5 +152,5 @@
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Ostatné 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.box                      "Poznámky">
-<!ENTITY Notes.accesskey                "z">
+<!ENTITY Notes.label                    "Poznámky:">
+<!ENTITY Notes.accesskey                "n">

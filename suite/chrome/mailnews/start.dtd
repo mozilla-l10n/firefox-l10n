@@ -44,6 +44,7 @@
 <!ENTITY features.title "Funkcie">
 <!ENTITY feat_multiacc.label "Podpora viacerých účtov">
 <!ENTITY feat_junk.label "Detekcia nevyžiadanej pošty">
+<!ENTITY feat_rss.label "Čítačka RSS">
 <!ENTITY feat_filters.label "Filtrovanie správ">
 <!ENTITY feat_htmlmsg.label "Podpora pre správy vo formáte HTML">
 <!ENTITY feat_abook.label "Adresár kontaktov">
