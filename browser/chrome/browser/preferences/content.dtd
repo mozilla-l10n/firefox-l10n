@@ -29,6 +29,6 @@
 <!ENTITY defaultFont.accesskey "O">
 
 <!ENTITY languages.label              "Idiomas">
-<!ENTITY chooseLanguage.label         "Escolha a sua língua preferida para mostrar as páginas">
-<!ENTITY chooseButton.label           "Escolha...">
+<!ENTITY chooseLanguage.label         "Escolha o seu idioma preferido para mostrar as páginas">
+<!ENTITY chooseButton.label           "Escolher...">
 <!ENTITY chooseButton.accesskey       "o">
