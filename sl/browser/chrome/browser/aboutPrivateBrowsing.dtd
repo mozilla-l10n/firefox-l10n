@@ -1,13 +1,13 @@
-<!ENTITY privatebrowsingpage.tabtitle                  "Private Browsing">
+<!ENTITY privatebrowsingpage.tabtitle                  "Zasebno brskanje">
 
-<!ENTITY privatebrowsingpage.pagetitle                 "Private Browsing">
+<!ENTITY privatebrowsingpage.pagetitle                 "Zasebno brskanje">
 
-<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; won't remember any history for this session.">
-<!ENTITY privatebrowsingpage.longDesc                  "No history will be recorded by &brandShortName; during this browsing session.  This includes browser history, search history, download history, web form history, cookies, and temporary internet files.  However, any files you download or bookmarks you create will be preserved.">
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; za to sejo ne bo shranil zgodovine.">
+<!ENTITY privatebrowsingpage.longDesc                  "&brandShortName; v tej seji ne bo shranjeval zgodovine brskanja.  To vključuje zgodovino spletnih strani, zgodovino iskanja, zgodovino prenosov, zgodovino spletnih obrazcev, piškote in začasne internetne datoteke.  Ohranjene pa bodo vse datoteke, ki jih prenesete, in zaznamki, ki jih ustvarite.">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "You may want to start by also clearing your recent history.">
-<!ENTITY privatebrowsingpage.recentHistory.label       "Clear Recent History">
-<!ENTITY privatebrowsingpage.recentHistory.accesskey   "C">
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Ob zagonu lahko počistite tudi vašo nedavno zgodovino.">
+<!ENTITY privatebrowsingpage.recentHistory.label       "Počisti nedavno zgodovino">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey   "P">
 
-<!ENTITY privatebrowsingpage.howToStopDesc             "To stop private browsing, uncheck Tools &gt; Private Browsing.">
-<!ENTITY privatebrowsingpage.footerDesc                "Enjoy!">
+<!ENTITY privatebrowsingpage.howToStopDesc             "Za izklop zasebnega brskanja izberite Orodja &gt; Zasebno brskanje.">
+<!ENTITY privatebrowsingpage.footerDesc                "Uživajte!">
