@@ -189,8 +189,8 @@
 <!ENTITY preferencesCmdUnix.label       "वरीयता">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearPrivateDataCmd.label            "निजी आँकड़ा साफ करें">
-<!ENTITY clearPrivateDataCmd.accesskey        "P">
+<!ENTITY clearRecentHistoryCmd.label            "हाल का इतिहास साफ करें">
+<!ENTITY clearRecentHistoryCmd.accesskey        "H">
 
 <!ENTITY viewMenu.label         "दृश्य"> 
 <!ENTITY viewMenu.accesskey       "V"> 
@@ -435,3 +435,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY privateBrowsingCmd.accesskey        "B">
 
 
+<!ENTITY ctrlTab.search.emptyText "टैब खोजें">

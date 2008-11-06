@@ -49,6 +49,12 @@
 <!ENTITY cmd.restoreFromFile.label      "फ़ाइल चुनें…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
+<!ENTITY cmd.delete.label               "यह पृष्ठ मिटाएँ">
+<!ENTITY cmd.delete.accesskey           "D">
+<!ENTITY cmd.deleteDomainData.label     "इस साइट के बारे में भूल जाएँ">
+<!ENTITY cmd.deleteDomainData.accesskey "F">
+
+
 <!ENTITY cmd.select_all.label "सभी चुनें">
 <!ENTITY cmd.select_all.accesskey "A">
 <!ENTITY cmd.select_all.key "a">

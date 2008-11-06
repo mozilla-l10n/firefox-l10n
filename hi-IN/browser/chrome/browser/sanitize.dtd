@@ -1,22 +1,40 @@
-<!ENTITY sanitizeDialog.title         "निजी आंकड़ा साफ करें">
+<!ENTITY sanitizePrefs.title           "निजी आंकड़ा साफ करें">
+<!ENTITY sanitizeDialog2.title         "हाल का इतिहास साफ करें">
 
 <!ENTITY sanitizeItems.label          "निम्न मद अब साफ करें:">
-<!ENTITY itemHistory.label            "ब्राउज़िग इतिहास">
-<!ENTITY itemHistory.accesskey        "B">
-<!ENTITY itemPasswords.label          "सहेजा गया शब्दकूट">
-<!ENTITY itemPasswords.accesskey      "P">
-<!ENTITY itemCookies.label            "कूकीज">
-<!ENTITY itemCookies.accesskey        "C">
-<!ENTITY itemCache.label              "कैश">
-<!ENTITY itemCache.accesskey          "a">
-<!ENTITY itemDownloads.label          "डाउनलोड इतिहास">
-<!ENTITY itemDownloads.accesskey      "D">
-<!ENTITY itemOfflineApps.label        "ऑफ़लाइन वेबसाइट आँकड़ा">
-<!ENTITY clearDataSettings.label      "जब मैं &brandShortName; से मेरा निजी आँकड़ा साफ करने के लिए पूछता हूँ, इसे मिटाना चाहिए:">
-<!ENTITY itemFormSearchHistory.label  "सहेजा प्रपत्र व खोज इतिहास">
-<!ENTITY itemFormSearchHistory.accesskey "F">
-<!ENTITY itemOfflineApps.accesskey    "O">
-<!ENTITY window.width                 "30em">
+<!ENTITY clearDataSettings2.label     "जब मैं &brandShortName; छोड़ता हूँ, इसे स्वतः सभी साफ करना चाहिए:">
 
-<!ENTITY itemActiveLogins.accesskey   "L">
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+<!ENTITY clearDuration.label          "हटाएँ">
+<!ENTITY clearDuration.lastHour       "अंतिम घंटे">
+<!ENTITY clearDuration.last2Hours     "अंतिम 2 घंटे">
+<!ENTITY clearDuration.last4Hours     "अंतिम 4 घंटे">
+<!ENTITY clearDuration.today          "आज के लिए मेरा इतिहास">
+<!ENTITY clearDuration.everything     "मेरा पूरा इतिहास">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix         "">
+
+<!ENTITY historySection.label         "इतिहास">
+<!ENTITY dataSection.label            "आँकड़ा">
+
+<!ENTITY itemVisitedPages.label       "देखे गए पृष्ठ">
+<!ENTITY itemVisitedPages.accesskey   "V">
+<!ENTITY itemFormSearchEntries.label  "&amp; खोज प्रविष्टियों से">
+<!ENTITY itemFormSearchEntries.accesskey "F">
+<!ENTITY itemPasswords.label          "कूटशब्द सहेजें">
+<!ENTITY itemPasswords.accesskey      "P">
+<!ENTITY itemCookies.label            "कुकीज़">
+<!ENTITY itemCookies.accesskey        "C">
+<!ENTITY itemWebCache.label           "वेब कैश">
+<!ENTITY itemWebCache.accesskey       "W">
+<!ENTITY itemOfflineApps.label        "ऑफ़लाइन वेबसाइट आँकड़ा">
+<!ENTITY itemOfflineApps.accesskey    "O">
+<!ENTITY itemDownloadList.label       "डाउनलोड सूची">
+<!ENTITY itemDownloadList.accesskey   "D">
 <!ENTITY itemActiveLogins.label       "सक्रिय लॉगिन">
+<!ENTITY itemActiveLogins.accesskey   "L">
+
+<!ENTITY window.width                 "30em">
+<!ENTITY column.width                 "14em">
