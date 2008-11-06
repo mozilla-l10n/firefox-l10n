@@ -1,0 +1,91 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Sun Microsystems code.
+   -
+   - The Initial Developer of the Original Code is
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   - Portions created by the Initial Developer are Copyright (C) 2008
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY sunbird.choosedate.button.tooltip                 "Alegeți data la care să mergeți" >
+<!ENTITY sunbird.cut.button.tooltip                        "Taie" >
+<!ENTITY sunbird.copy.button.tooltip                       "Copiază" >
+<!ENTITY sunbird.paste.button.tooltip                      "Lipește" >
+<!ENTITY sunbird.print.button.tooltip                      "Tipărește calendarul" >
+<!ENTITY sunbird.delete.button.tooltip                     "Șterge evenimentul selectat" >
+<!ENTITY sunbird.remotereload.button.tooltip               "Reîncarcă toate calendarele la distanță" >
+
+<!ENTITY sunbird.choosedate.button.label                   "Alege data" >
+<!ENTITY sunbird.cut.button.label                          "Taie" >
+<!ENTITY sunbird.copy.button.label                         "Copiază" >
+<!ENTITY sunbird.paste.button.label                        "Lipește" >
+<!ENTITY sunbird.delete.button.label                       "Șterge" >
+<!ENTITY sunbird.remotereload.button.label                 "Reîncarcă" >
+
+<!ENTITY sunbird.flat.topbar.choosedate                    "Mergi la dată" >
+<!ENTITY sunbird.flat.topbar.dayview                       "Vezi ziua" >
+<!ENTITY sunbird.flat.topbar.weekview                      "Vezi săptămâna" >
+<!ENTITY sunbird.flat.topbar.monthview                     "Vezi luna" >
+<!ENTITY sunbird.flat.topbar.multiweekview                 "Mai multe săptămâni" >
+
+<!ENTITY sunbird.dayview.accesskey                         "z" >
+<!ENTITY sunbird.weekview.accesskey                        "s" >
+<!ENTITY sunbird.monthview.accesskey                       "l" >
+<!ENTITY sunbird.multiweekview.accesskey                   "u" >
+
+
+<!ENTITY sunbird.calendartab.label                         "Dată">
+<!ENTITY sunbird.listofcalendarstab.label                  "Calendare">
+
+<!ENTITY sunbird.find.key                                  "F">
+<!ENTITY sunbird.close.key                                 "W">
+
+<!ENTITY sunbird.menu.numberofweeks.label                  "Număr de săptămâni" >
+<!ENTITY sunbird.menu.numberofweeks.accesskey              "N" >
+<!ENTITY sunbird.menu.numberofweeks.2                      "2 săptămâni" >
+<!ENTITY sunbird.menu.numberofweeks.3                      "3 săptămâni" >
+<!ENTITY sunbird.menu.numberofweeks.4                      "4 săptămâni" >
+<!ENTITY sunbird.menu.numberofweeks.5                      "5 săptămâni" >
+<!ENTITY sunbird.menu.numberofweeks.6                      "6 săptămâni" >
+
+<!-- customizable toolbars -->
+<!ENTITY sunbird.context.customize.label                   "Personalizează…">
+<!ENTITY sunbird.context.customize.accesskey               "P">
+<!ENTITY sunbird.menu.customize.label                      "Personalizează bara de unelte…">
+<!ENTITY sunbird.menu.customize.accesskey                  "P">
+<!ENTITY sunbird.maintoolbar.name                          "Bara principală de unelte">
+<!ENTITY sunbird.maintoolbar.accesskey                     "p">
+
+<!-- Sunbird Help -->
+<!ENTITY sunbird.help.label                                "Manual de utilizare">
+<!ENTITY sunbird.help.accesskey                            "M">
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+<!ENTITY mainWindow.title                                  "&brandFullName;">
