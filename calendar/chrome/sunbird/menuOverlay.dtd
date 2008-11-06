@@ -52,7 +52,7 @@
 <!ENTITY event.delete.event.accesskey "D">
 <!ENTITY event.delete.tasks "Eyða völdum verkum">
 <!ENTITY event.delete.tasks.accesskey "E">
-<!ENTITY calendar.pagesetup.label "Uppsetning síðu…">
+<!ENTITY calendar.pagesetup.label "Síðustillingar…">
 <!ENTITY calendar.pagesetup.accesskey "U">
 <!ENTITY calendar.subscribe.label "Gerast áskrifandi að fjartengdu dagatali…">
 <!ENTITY calendar.subscribe.accesskey "R">

@@ -1,22 +1,35 @@
-<!ENTITY sanitizeDialog.title "Hreinsa persónuleg gögn">
+<!ENTITY sanitizePrefs.title "Hreinsa persónuleg gögn">
+<!ENTITY sanitizeDialog2.title "Hreinsa nýlega ferla">
 <!ENTITY sanitizeItems.label "Hreinsa eftirfarandi hluti núna:">
-<!ENTITY clearDataSettings.label "Þegar ég bið &brandShortName; um að hreinsa persónuleg gögn, þá ætti hann að hreinsa:">
+<!ENTITY clearDataSettings2.label "Þegar ég loka &brandShortName;, ætti sjálfkrafa að hreinsa:">
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY itemHistory.label "Ferill vafra">
-<!ENTITY itemHistory.accesskey "e">
-<!ENTITY itemFormSearchHistory.label "Vistuð eyðublöð og leitar ferill">
-<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY clearDuration.label "Fjarlægja ">
+<!ENTITY clearDuration.lastHour "seinasta klukkutímann">
+<!ENTITY clearDuration.last2Hours "seinustu 2 klukkutímana">
+<!ENTITY clearDuration.last4Hours "seinustu 4 klukkutíma">
+<!ENTITY clearDuration.today "allan feril í dag">
+<!ENTITY clearDuration.everything "allan feril">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix "">
+<!ENTITY historySection.label "Ferill">
+<!ENTITY dataSection.label "Gögn">
+<!ENTITY itemVisitedPages.label "Heimsóttar síður">
+<!ENTITY itemVisitedPages.accesskey "H">
+<!ENTITY itemFormSearchEntries.label "Eyðublað &amp; Leitarinnsláttur">
+<!ENTITY itemFormSearchEntries.accesskey "E">
 <!ENTITY itemPasswords.label "Vistuð lykilorð">
 <!ENTITY itemPasswords.accesskey "V">
 <!ENTITY itemCookies.label "Smákökur">
 <!ENTITY itemCookies.accesskey "S">
-<!ENTITY itemCache.label "Flýtiminni">
-<!ENTITY itemCache.accesskey "F">
+<!ENTITY itemWebCache.label "Vef skyndiminni">
+<!ENTITY itemWebCache.accesskey "V">
 <!ENTITY itemOfflineApps.label "Ótengd vefgögn">
 <!ENTITY itemOfflineApps.accesskey "t">
-<!ENTITY itemDownloads.label "Ferill niðurhals">
-<!ENTITY itemDownloads.accesskey "N">
+<!ENTITY itemDownloadList.label "Niðurhala lista">
+<!ENTITY itemDownloadList.accesskey "N">
 <!ENTITY itemActiveLogins.label "Virkar innskráningar">
 <!ENTITY itemActiveLogins.accesskey "i">
 <!ENTITY window.width "30em">
+<!ENTITY column.width "14em">

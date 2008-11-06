@@ -45,7 +45,7 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "h">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Nota sjálfgefið hljóð">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "s">
-<!ENTITY pref.calendar.alarms.sound.browse.label "Finna…">
+<!ENTITY pref.calendar.alarms.sound.browse.label "Fletta…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "F">
 <!ENTITY pref.calendar.alarms.sound.preview.label "Forskoða">
 <!ENTITY pref.calendar.alarms.sound.preview.accessKey "o">
