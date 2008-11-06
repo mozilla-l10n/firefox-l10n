@@ -70,11 +70,11 @@
 <!ENTITY pasteCmd.label "Inserează">
 <!ENTITY pasteCmd.key "v">
 <!ENTITY pasteCmd.accesskey "I">
+<!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY editRewrapCmd.label "Înfășoară rândurile">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "Î">
 <!ENTITY deleteCmd.label "Șterge">
-<!ENTITY deleteCmd.key "d">
 <!ENTITY deleteCmd.accesskey "Ș">
 <!ENTITY selectAllCmd.label "Selectează tot">
 <!ENTITY selectAllCmd.key "A">
@@ -97,7 +97,6 @@
 <!ENTITY viewToolbarsMenuNew.label "Bare de unelte"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "t"> 
 <!ENTITY showCompositionToolbarCmd.label "Bară de redactare">
-<!ENTITY showCompositionToolbarCmd.accesskey "B">
 <!ENTITY showFormattingBarCmd.label "Bară de formatare">
 <!ENTITY showFormattingBarCmd.accesskey "f">
 <!ENTITY showTaskbarCmd.label "Bară de stare">
@@ -172,7 +171,6 @@
 <!ENTITY accountManagerCmd.accesskey "c">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
 <!ENTITY preferencesCmd.label "Opțiuni...">
-<!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "Preferințe">
 <!ENTITY preferencesCmdUnix.accesskey   "n"> 
@@ -219,10 +217,6 @@
 <!ENTITY attachments.accesskey "A">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
 <!ENTITY SmileButton.tooltip "Inserează o figură zâmbitoare">
 <!ENTITY smiley1Cmd.label "Zâmbet">
 <!ENTITY smiley2Cmd.label "Scârbit">

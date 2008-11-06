@@ -80,9 +80,7 @@
 <!ENTITY cellSelectPrevious.accessKey     "P">
 <!ENTITY cellApplyBeforeMove.label        "Aplică schimbările înainte de modificarea selecției">
 <!ENTITY cellKeepCurrentData.label        "Păstrează setările actuale">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label         "Schimbările curente vor fi aplicate">
-<!ENTITY applyBeforeChange2.label         "înainte de modificarea selecției.">
+<!ENTITY applyBeforeChange.label          "Current changes will be applied before changing the selection.">
 <!ENTITY cellRowSpan.label                "Întindere pe rânduri:">
 <!ENTITY cellColSpan.label                "Întindere pe coloane:">
 <!ENTITY cellContentAlignment.label       "Aliniere conținut">

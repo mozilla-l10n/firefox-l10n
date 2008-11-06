@@ -9,7 +9,6 @@
 <!ENTITY sendHTML.accesskey           "s">
 <!ENTITY sendBoth.label               "Trimite mesajul atât în format text cât și în format HTML">
 <!ENTITY sendBoth.accesskey           "e">
-<!ENTITY receiveHTML.label            "Dacă știți că un destinatar anume poate primi mesaje HTML, lăsați nebifată opțiunea „Trimite mesaje ca text (fără HTML)” din înregistrarea destinatarului din agenda de contacte.">
 <!ENTITY override.label               "Sfat: Folosiți agenda de contacte pentru a specifica formatul preferat de destinatari.">
 
 <!ENTITY domaindesc.label             "Când trimiteți un mesaj la o adresă cu unul din numele domeniului afișat mai jos, &brandShortName; va trimite automat mesajul în formatul corect.">
@@ -28,14 +27,5 @@
 
 <!ENTITY add.htmltitle                "Adaugă un nume de domeniu pentru HTML">
 <!ENTITY add.htmldomain               "Nume de domeniu HTML:">
-<!ENTITY add.htmldomain.accesskey     "d">
 <!ENTITY add.plaintexttitle           "Adaugă nume de domeniu pentru text simplu">
 <!ENTITY add.plaintextdomain          "Nume de domeniu pentru text simplu:">
-<!ENTITY add.plaintext.accesskey      "d">
-
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY domainnameError.title        "Eroare în numele domeniului">
-<!ENTITY duplicationError.label       "Numele domeniului @string@ deja există în această listă.">
-
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY dualEntryError.label         "Un nume de domeniu nu poate apărea atât în listele HTML cât și în cele de text. Numele domeniului @string@ deja există.">

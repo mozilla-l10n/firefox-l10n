@@ -54,7 +54,6 @@
 <!ENTITY messageIdField2.label "message-id ">
 <!ENTITY inReplyToField2.label "in-reply-to ">
 <!ENTITY originalWebsite2.label "sait web ">
-<!ENTITY saveAll.label "Salvează toate...">
 
 <!ENTITY editMessageDescription.label "Acesta e un mesaj netrimis, o ciornă">
 <!ENTITY editMessageButton.label "Editează…">

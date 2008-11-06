@@ -2,13 +2,6 @@
 
 <!ENTITY securitySettings.label "Setări de securitate">
 <!ENTITY serverSettings.label "Setările serverului">
-<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
-<!ENTITY popServer.label "Server mail POP">
-<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
-<!ENTITY imapServer.label "Server mail IMAP">
-<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
-<!ENTITY newsServer.label "Server NNTP">
-<!ENTITY webmail.label "Cont WebMail">
 <!ENTITY serverType.label "Tip server:">
 <!ENTITY serverName.label "Nume server:">
 <!ENTITY serverName.accesskey "s">
@@ -50,10 +43,7 @@
 <!ENTITY deleteOnServer2.accesskey "P">
 <!ENTITY downloadOnBiff.label "Descarcă automat mesajele noi">
 <!ENTITY downloadOnBiff.accesskey "D">
-<!ENTITY hostname.label "Nume host server">
 <!ENTITY username.label "Numele dumneavoastră de login">
-<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
-<!ENTITY popServerTitle.label "Informații server POP">
 <!ENTITY deleteMessagePrefix.label "Când șterg un mesaj:">
 <!ENTITY modelMoveToTrash.label "Mută-l în coșul de gunoi">
 <!ENTITY modelMoveToTrash.accesskey "M">

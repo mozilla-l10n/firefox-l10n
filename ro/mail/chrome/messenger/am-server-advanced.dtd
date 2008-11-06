@@ -1,6 +1,4 @@
 <!ENTITY serverAdvanced.label "Setări avansate pentru cont">
-<!-- LOCALIZATION NOTE (imapAdvanced.label): Do not translate "IMAP" -->
-<!ENTITY imapAdvanced.label "Setări avansate pentru serverul IMAP">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "Director pe serverul IMAP:">
 <!ENTITY serverDirectory.accesskey "D">
@@ -23,7 +21,6 @@
 <!ENTITY overrideNamespaces.label "Permite serverului să suprascrie aceste nume de spații">
 <!ENTITY overrideNamespaces.accesskey "a">
 <!ENTITY pop3Desc.label "Când se descarcă mesaje pop3 de pe acest server, folosește următorul dosar pentru mesajele noi:" >
-<!ENTITY folderStorage.label "Unde se stochează mesajele">
 <!ENTITY globalInbox.label "Căsuța poștală globală (Contul local)">
 <!ENTITY globalInbox.accesskey "g">
 <!ENTITY accountDirectory.label "Căsuță poștală pentru contul acestui server">

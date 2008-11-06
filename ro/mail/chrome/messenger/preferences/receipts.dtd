@@ -1,5 +1,4 @@
 <!ENTITY dialog.title                  "Confirmări de primire">
-<!ENTITY receiptSettings.label         "Confirmări de primire">
 <!ENTITY requestReceipt.label          "La trimiterea unui mesaj, solicită întotdeauna confirmare de primire">
 <!ENTITY requestReceipt.accesskey      "L">
 <!ENTITY receiptArrive.label           "Când sosește o confirmare:">

@@ -20,9 +20,6 @@
 <!ENTITY filterActionDesc.label "Efectuează următoarele acțiuni:">
 <!ENTITY filterActionDesc.accesskey "E">
 
-<!ENTITY newFolderButton.label "Dosar nou...">
-<!ENTITY newFolderButton.accesskey "n">
-
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Mută mesajul în">
 <!ENTITY copyMessage.label "Copiază mesajul în">

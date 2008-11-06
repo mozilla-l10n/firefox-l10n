@@ -82,8 +82,12 @@
 
 <!ENTITY allowRemoteContent.label       "Permite imagini de la distanță în mesajele HTML.">
 <!ENTITY allowRemoteContent.accesskey   "P">
+<!ENTITY allowRemoteContent.tooltip     "In HTML messages it is possible to
+embed images from remote sources. Opening such a message will open a
+connection to this external source. This may allow tracking of the
+message being read. Checking this box will allow such external embedded
+images in HTML messages from this contact.">
 
-<!ENTITY Phones.box                     "Telefoane">
 <!ENTITY WorkPhone.label                "Serviciu:">
 <!ENTITY WorkPhone.accesskey            "S">
 <!ENTITY HomePhone.label                "Acasă:">
@@ -95,9 +99,8 @@
 <!ENTITY CellularNumber.label           "Mobil:">
 <!ENTITY CellularNumber.accesskey       "M">
 
-<!ENTITY Address.tab                    "Adrese">
-<!ENTITY Address.accesskey              "A">
-<!ENTITY Home.box                       "Acasă">
+<!ENTITY Home.tab                       "Privat">
+<!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "Adresă:">
 <!ENTITY HomeAddress.accesskey          "A">
 <!ENTITY HomeAddress2.label             "">
@@ -112,7 +115,9 @@
 <!ENTITY HomeCountry.accesskey          "a">
 <!ENTITY HomeWebPage.label              "Pagină web:">
 <!ENTITY HomeWebPage.accesskey          "P">
-<!ENTITY Work.box                       "Serviciu">
+
+<!ENTITY Work.tab                       "Lucru">
+<!ENTITY Work.accesskey                 "L">
 <!ENTITY JobTitle.label                 "Titlu:">
 <!ENTITY JobTitle.accesskey             "T">
 <!ENTITY Department.label               "Departament:">
@@ -149,5 +154,5 @@
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Diverse 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.box                      "Note">
+<!ENTITY Notes.label                    "Notes:">
 <!ENTITY Notes.accesskey                "N">

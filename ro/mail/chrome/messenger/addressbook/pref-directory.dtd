@@ -37,14 +37,11 @@
 
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 <!ENTITY pref.ldap.window.title    "Servere repertoar LDAP">
-<!ENTITY directory.label           "Adaugă repertoar">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Server repertoar LDAP:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 <!ENTITY directoriesText.label     "Alegeți un repertoar LDAP:">
 <!ENTITY directoriesText.accesskey "A">
-<!-- LOCALIZATION NOTE (autocomplete.title) : do not translate "LDAP" in below line -->
-<!ENTITY autocomplete.title        "Server repertoar LDAP">
 <!ENTITY addDirectory.label        "Adaugă">
 <!ENTITY addDirectory.accesskey    "A">
 <!ENTITY editDirectory.label       "Editează">

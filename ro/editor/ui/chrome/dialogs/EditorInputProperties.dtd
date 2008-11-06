@@ -52,11 +52,13 @@
 
 <!ENTITY InputSettings.label "Setările câmpului">
 <!ENTITY InputName.label "Nume câmp:">
+<!ENTITY InputName.accesskey "N">
 <!ENTITY GroupName.label "Nume grup:">
-<!ENTITY Name.accesskey "N">
+<!ENTITY GroupName.accesskey "N">
 <!ENTITY InputValue.label "Valoare câmp:">
+<!ENTITY InputValue.accesskey "V">
 <!ENTITY InitialValue.label "Valoare inițială:">
-<!ENTITY Value.accesskey "v">
+<!ENTITY InitialValue.accesskey "V">
 <!ENTITY InputChecked.label "Inițial bifat">
 <!ENTITY InputChecked.accesskey "b">
 <!ENTITY InputSelected.label "Inițial selectat">
