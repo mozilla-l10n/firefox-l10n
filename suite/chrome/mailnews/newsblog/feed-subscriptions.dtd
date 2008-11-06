@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY newsBlogSubscriptions.label "RSS kanalų prenumerata">
+<!ENTITY subscriptionDesc.label "RSS kanalų prenumeratų tvarkymas">
+<!ENTITY feedTitle.label "Pavadinimas:">
+<!ENTITY location.label  "Adresas:">
+
+<!ENTITY button.addFeed.label       "Pridėti">
+<!ENTITY button.addFeed.accesskey   "P">
+<!ENTITY button.editFeed.label      "Tvarkyti">
+<!ENTITY button.editFeed.accesskey  "v">
+<!ENTITY button.removeFeed.label "Pašalinti">
+<!ENTITY button.removeFeed.accesskey   "š">
+<!ENTITY button.importOPML.label "Importuoti">
+<!ENTITY button.importOPML.accesskey   "I">
+<!ENTITY button.exportOPML.label "Eksportuoti">
+<!ENTITY button.exportOPML.accesskey   "E">
+
+<!ENTITY cmd.close.commandKey             "w">

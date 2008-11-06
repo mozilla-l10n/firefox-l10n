@@ -12,6 +12,8 @@
    - License.
    -
    - Contributor(s):
+   -   Gintautas Grigas <grigas@ktl.mii.lt>
+   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
    -   Rimas Kudelis <rq@akl.lt>
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -28,13 +30,22 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY defaultClient.title  "Numatytoji programa">
-<!ENTITY defaultClient.intro  "Skirti „&brandShortName;“ numatytąja:">
+<!-- Feed Properties Dialog -->
+<!ENTITY window.title "Sklaidos kanalo savybės">
 
-<!ENTITY browser.label "žiniatinklio naršykle">
-<!ENTITY email.label "el. pašto programa">
-<!ENTITY newsgroups.label "naujienų grupių programa">
-<!ENTITY rss.label "sklaidos kanalų skaitytuve">
+<!ENTITY feedFolder.label "Kur laikyti kanalo straipsnius: ">
+<!ENTITY feedFolder.accesskey "K">
 
-<!ENTITY checkOnStartup.label "Paleidžiant „&brandShortName;“ tikrinti, ar ji yra numatytoji">
-<!ENTITY checkOnStartup.accesskey "P">
+<!ENTITY feedLocation.label "Kanalo URL: ">
+<!ENTITY feedLocation.accesskey "U">
+
+<!ENTITY choosethisfolder.label  "parinkti šį aplanką">
+
+<!ENTITY quickMode.label "Vietoje viso straipsnio rodyti tik jo santrauką">
+<!ENTITY quickMode.accesskey "v">
+
+<!ENTITY copyLinkCmd.label        "Kopijuoti saito adresą"> 
+<!ENTITY copyLinkCmd.accesskey    "j">
+
+<!ENTITY pasteLinkCmd.label       "Įdėti">
+<!ENTITY pasteLinkCmd.accesskey   "ė">

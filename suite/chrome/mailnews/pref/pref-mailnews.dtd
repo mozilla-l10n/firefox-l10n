@@ -54,6 +54,8 @@
 <!ENTITY setDefaultMail.accesskey         "e">
 <!ENTITY setDefaultNews.label             "naujienų grupėms">
 <!ENTITY setDefaultNews.accesskey         "g">
+<!ENTITY setDefaultFeed.label             "sklaidos kanalams">
+<!ENTITY setDefaultFeed.accesskey         "k">
 
 <!ENTITY messengerStartPage.caption       "Į pašto pradžios tinklalapį">
 <!ENTITY enableStartPage.label            "Paleidus pašto programą, rodyti pradžios tinklalapį">

@@ -64,7 +64,7 @@
 <!ENTITY NameField2.accesskey           "P">
 <!ENTITY PhoneticField1.label           "Fonetinis:"> 
 <!ENTITY PhoneticField2.label           "Fonetinė:"> 
-<!ENTITY DisplayName.label              "Asmenvardis:">
+<!ENTITY DisplayName.label              "Rodomas vardas:">
 <!ENTITY DisplayName.accesskey          "m">
 <!ENTITY NickName.label                 "Slapyvardis">
 <!ENTITY NickName.accesskey             "l">
@@ -155,5 +155,5 @@ Pažymėjus šią parinktį, tokie tinkle esantys paveikslai šio adresato laiš
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Papildoma 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.label                    "Pastabos">
+<!ENTITY Notes.label                    "Pastabos:">
 <!ENTITY Notes.accesskey                "P">
