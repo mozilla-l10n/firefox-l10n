@@ -42,7 +42,7 @@
 <!ENTITY CellularNumber.label "Cellulare:">
 <!ENTITY CellularNumber.accesskey "C">
 <!ENTITY Home.tab "Privato">
-<!ENTITY Home.accesskey "P">
+<!ENTITY Home.accesskey "I">
 <!ENTITY HomeAddress.label "Indirizzo:">
 <!ENTITY HomeAddress.accesskey "z">
 <!ENTITY HomeAddress2.label "">
