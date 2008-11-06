@@ -59,6 +59,8 @@
 
 <!ENTITY goOfflineCmd.label "অফলাইন অবস্থায় কর্ম">
 <!ENTITY goOfflineCmd.accesskey "w">
+<!ENTITY clearRecentHistoryCmd.label            "Clear Recent History">
+<!ENTITY clearRecentHistoryCmd.accesskey        "H">
 
 <!ENTITY navbarCmd.label "চলাচলে ব্যবহৃত টুলবার">
 <!ENTITY navbarCmd.accesskey "N">

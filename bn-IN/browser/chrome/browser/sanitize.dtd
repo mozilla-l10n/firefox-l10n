@@ -18,9 +18,40 @@
 <!-- ENTITY itemDownloads.label          "ডাউনলোড সংক্রান্ত পূর্ববর্তী তথ্য" -->
 <!-- ENTITY itemDownloads.accesskey      "D" -->
 <!-- ENTITY itemSessions.label           "অনুমোদিত সেশান" -->
-<!ENTITY itemSessions.accesskey       "S">
+<!-- ENTITY itemSessions.accesskey       "S" -->
 <!ENTITY itemOfflineApps.label        "অফ-লাইন ওয়েব-সাইটের তথ্য">
 <!ENTITY itemOfflineApps.accesskey    "O">
 <!ENTITY window.width                 "30em">
+<!ENTITY column.width                 "14em">
+
+<!ENTITY clearDataSettings2.label     "When I quit &brandShortName;, it should automatically clear all:">
+<!ENTITY clearDuration.everything     "my entire history">
+<!ENTITY clearDuration.label          "Remove ">
+<!ENTITY clearDuration.last2Hours     "the last 2 hours">
+<!ENTITY clearDuration.last4Hours     "the last 4 hours">
+<!ENTITY clearDuration.lastHour       "the last hour">
+<!ENTITY clearDuration.today          "my history for today">
+<!ENTITY clearDuration.suffix         "">
+<!ENTITY historySection.label         "History">
+<!ENTITY dataSection.label            "Data">
+<!ENTITY itemActiveLogins.label       "Active Logins">
+<!ENTITY itemActiveLogins.accesskey   "L">
+<!ENTITY itemDownloadList.label       "Download List">
+<!ENTITY itemDownloadList.accesskey   "D">
+<!ENTITY itemFormSearchEntries.label  "Form &amp; Search Entries">
+<!ENTITY itemFormSearchEntries.accesskey "F">
+<!ENTITY itemVisitedPages.label       "Visited Pages">
+<!ENTITY itemVisitedPages.accesskey   "V">
+<!ENTITY itemWebCache.label           "Web Cache">
+<!ENTITY itemWebCache.accesskey       "W">
+<!ENTITY sanitizePrefs.title           "Clear Private Data">
+<!ENTITY sanitizeDialog2.title         "Clear Recent History">
+
+
+
+
+
+
+
 
 

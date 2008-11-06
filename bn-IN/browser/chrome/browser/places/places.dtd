@@ -213,3 +213,8 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.noPreviewAvailable.label "পূর্ববরূপ প্রদর্শন">
 <!ENTITY detailsPane.selectAnItemText.description "কোনো বস্তু প্রদর্শন করার জন্য ও সেটির বৈশিষ্ট্য পরিবর্তের উদ্দেশ্যে নির্বাচন করুন">
+
+<!ENTITY cmd.delete.accesskey           "D">
+<!ENTITY cmd.delete.label               "Delete This Page">
+<!ENTITY cmd.deleteDomainData.label     "Forget About This Site">
+<!ENTITY cmd.deleteDomainData.accesskey "F">
