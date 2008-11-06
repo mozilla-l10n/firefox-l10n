@@ -1,25 +1,40 @@
-<!ENTITY sanitizeDialog.title         "Odstránenie súkromných údajov">
+<!ENTITY sanitizePrefs.title           "Odstránenie súkromných údajov">
+<!ENTITY sanitizeDialog2.title         "Vymazanie nedávnej histórie">
 
 <!ENTITY sanitizeItems.label          "Vymazať nasledujúce položky:">
-<!ENTITY clearDataSettings.label      "Pri odstraňovaní súkromných údajov v aplikácii &brandShortName; odstrániť nasledujúce údaje:">
+<!ENTITY clearDataSettings2.label     "Pri ukončení aplikácie &brandShortName; automaticky odstrániť:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY itemHistory.label            "História">
-<!ENTITY itemHistory.accesskey        "H">
-<!ENTITY itemFormSearchHistory.label  "Uložené formuláre a história hľadania">
-<!ENTITY itemFormSearchHistory.accesskey "U">
+<!ENTITY clearDuration.label          "Odstrániť údaje za ">
+<!ENTITY clearDuration.lastHour       "poslednú hodinu">
+<!ENTITY clearDuration.last2Hours     "posledné 2 hodiny">
+<!ENTITY clearDuration.last4Hours     "posledné 4 hodiny">
+<!ENTITY clearDuration.today          "celý dnešný deň">
+<!ENTITY clearDuration.everything     "celú históriu">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix         "">
+
+<!ENTITY historySection.label         "História">
+<!ENTITY dataSection.label            "Údaje">
+
+<!ENTITY itemVisitedPages.label       "Navštívené stránky">
+<!ENTITY itemVisitedPages.accesskey   "N">
+<!ENTITY itemFormSearchEntries.label  "Položky formulárov a vyhľadávania">
+<!ENTITY itemFormSearchEntries.accesskey "f">
 <!ENTITY itemPasswords.label          "Uložené heslá">
-<!ENTITY itemPasswords.accesskey      "e">
+<!ENTITY itemPasswords.accesskey      "U">
 <!ENTITY itemCookies.label            "Cookies">
 <!ENTITY itemCookies.accesskey        "C">
-<!ENTITY itemCache.label              "Vyrovnávacia pamäť (cache)">
-<!ENTITY itemCache.accesskey          "m">
-<!ENTITY itemOfflineApps.label        "Údaje stránok v režime offline">
-<!ENTITY itemOfflineApps.accesskey    "o">
-<!ENTITY itemDownloads.label          "História preberania súborov">
-<!ENTITY itemDownloads.accesskey      "s">
+<!ENTITY itemWebCache.label           "Webová vyrovnávacia pamäť">
+<!ENTITY itemWebCache.accesskey       "W">
+<!ENTITY itemOfflineApps.label        "Stránky v režime offline">
+<!ENTITY itemOfflineApps.accesskey    "S">
+<!ENTITY itemDownloadList.label       "Zoznam prevzatých súborov">
+<!ENTITY itemDownloadList.accesskey   "Z">
 <!ENTITY itemActiveLogins.label       "Aktívne prihlásenia">
 <!ENTITY itemActiveLogins.accesskey   "A">
-<!ENTITY window.width                 "30em">
 
+<!ENTITY window.width                 "30em">
+<!ENTITY column.width                 "16em">

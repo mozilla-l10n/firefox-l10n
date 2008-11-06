@@ -4,6 +4,7 @@
 <!ENTITY browser.label "Prehliadač">
 <!ENTITY email.label "Pošta">
 <!ENTITY newsgroups.label "Diskusné skupiny">
+<!ENTITY rss.label "Kanály RSS">
 
 <!ENTITY checkOnStartup.label "Vždy vykonvať túto kontrolu pri spustení &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "V">

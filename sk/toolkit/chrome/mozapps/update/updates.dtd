@@ -4,10 +4,7 @@
 <!ENTITY  window.macWidth                 "39em">
 
 <!ENTITY  checking.title                  "Zisťujú sa aktualizácie">
-<!ENTITY  checking.label                  "&brandShortName; kontroluje dostupnosť aktualizácií…">
-
-<!ENTITY  cancel.label                    "Zrušiť">
-<!ENTITY  cancel.accesskey                "Z">
+<!ENTITY  updateCheck.label               "Vyhľadáva sa novšia verzia &brandShortName;…">
 
 <!ENTITY  noupdatesfound.title            "Nenájdené žiadne aktualizácie">
 <!ENTITY  noupdatesautoenabled.intro      "Neboli nájdené žiadne aktualizácie. &brandShortName; bude
@@ -15,15 +12,13 @@
 <!ENTITY  noupdatesautodisabled.intro     "Nie sú dostupné žiadne aktualizácie. Skúste to neskôr alebo povoľte
                                            automatickú kontrolu aktualizácií &brandShortName;u.">
 
-<!ENTITY  incompatibleChecking.label      "Kontroluje sa, či táto aktualizácia nespôsobí problémy s vašimi rozšíreniami/témami…">
+<!ENTITY  incompatibleCheck.title         "Kontrola kompatibility doplnkov">
+<!ENTITY  incompatibleCheck.label         "Vyhľadávajú sa nové verzie vašich doplnkov…">
+
 <!ENTITY  clickHere.label                 "Zobraziť viac informácií o tejto aktualizácii">
 
-<!ENTITY  incompatible.warning            "Táto aktualizácia programu spôsobí, že niektoré rozšírenia a témy
-                                           nebudú fungovať, ak ich neaktualizujete.">
-<!ENTITY  listIncompatible.label          "Zobraziť zoznam">
-<!ENTITY  listIncompatible.accesskey      "b">
-
-<!ENTITY  upgrade.evangelism              "Dôrazne odporúčame čo najskôr aktualizovať &brandShortName;.">
+<!ENTITY  evangelism.desc                 "Dôrazne odporúčame čo najskôr použiť túto aktualizáciu 
+                                           aplikácie &brandShortName;.">
 
 <!ENTITY  license.instructions            "Ak súhlasíte s podmienkami tejto licenčnej zmluvy, kliknite na tlačidlo Súhlasím
                                            a pokračujte v inštalácii aktualizácie.">
@@ -36,6 +31,8 @@
 <!ENTITY  license.decline                 "NESÚHLASÍM s licenčnou zmluvou">
 <!ENTITY  license.decline.accesskey       "N">
 
+<!ENTITY  incompatibleList.title          "Nájdené nekompatibilné doplnky">
+
 <!ENTITY downloading.title                "Prevzatie aktualizácie">
 <!ENTITY downloading.intro                "Preberá sa aktualizácia…">
 <!ENTITY connecting.label                 "Pripája sa k aktualizačnému serveru…">
@@ -43,11 +40,9 @@
                                            prevzatej rozdielovej aktualizácie. Mali by ste prevziať
                                            kompletný aktualizačný balík.">
 
+<!ENTITY  viewDetails.tooltip             "Zobraziť podrobnosti k tejto aktualizácii">
+
 <!ENTITY details.link                     "Podrobnosti">
-<!ENTITY pause.label                      "Pozastaviť">
-<!ENTITY pause.accesskey                  "P">
-<!ENTITY close.label                      "Zavrieť">
-<!ENTITY close.accesskey                  "e">
 
 <!ENTITY error.label                      "Pri kontrole, preberaní alebo inštalácii aktualizácie došlo k chybe. &brandShortName;
                                            sa nepodarilo aktualizovať, pretože: ">
@@ -59,18 +54,18 @@
 <!ENTITY errorpatching.intro              "Použitie rozdielovej aktualizácie bolo neúspešné. 
                                            &brandShortName; sa pokúsi prevziať kompletnú aktualizáciu.">
                                            
-<!ENTITY finished.title                   "Aktualizácia dokončená">
-<!ENTITY finished.text                    "Aktualizácie boli úspešne prevzaté a overené. Aktualizácia bude dokončená po reštartovaní programu &brandShortName;.">
+<!ENTITY  finishedPage.title              "Aktualizácia pripravená na inštaláciu">
+<!ENTITY  finishedPage.text               "Táto aktualizácia bude nainštalovaná pri najbližšom spustení aplikácie 
+                                           &brandShortName;. Aplikáciu &brandShortName; môžete reštartovať teraz, alebo 
+                                           pokračujte v práci a reštartujte neskôr.">
                                            
-<!ENTITY finishedBackground.title         "Aktualizácie sú pripravené na inštaláciu">
-<!ENTITY finishedBackground.text          "&brandShortName; práve dokončil preberanie a overenie dôležitých aktualizácií. 
-                                           Ak sa chcete dozvedieť viac informácií, kliknite na zobrazený odkaz.">
+<!ENTITY  finishedBackgroundPage.text     "&brandShortName; práve dokončil preberanie bezpečnostnej a stabilizačnej 
+                                           aktualizácie, ktorá je teraz pripravená na inštaláciu.">
 <!ENTITY  finishedBackground.name         "Aktualizácia:">
-<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
-<!ENTITY  finishedBackground.more1        "Kliknutím na tlačidlo Reštartovať zatvoríte všetky okná aplikácie &brandShortName; a nainštalujete aktualizácie.">
-<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!ENTITY  finishedBackground.textNotNow   "Kliknutím na tlačidlo Teraz nie zavriete toto dialógové okno a môžete pokračovať bez reštartovania. Aktualizácie sa
-                                           nainštalujú automaticky pri ďalšom spustení aplikácie &brandShortName;.">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more         "Táto aktualizácia bude nainštalovaná pri najbližšom spustení aplikácie 
+                                           &brandShortName;. Aplikáciu &brandShortName; môžete reštartovať teraz, alebo 
+                                           pokračujte v práci a reštartujte neskôr.">
                                            
 <!ENTITY installed.title                  "Aktualizácia nainštalovaná">
 <!ENTITY installed.intro                  "Aktualizácia bola úspešne nainštalovaná.">
