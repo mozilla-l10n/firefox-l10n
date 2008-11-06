@@ -162,8 +162,8 @@
 <!ENTITY preferencesCmdUnix.label                "Eelistused">
 <!ENTITY preferencesCmdUnix.accesskey            "E">
 
-<!ENTITY clearPrivateDataCmd.label               "Kustuta privaatsed andmed">
-<!ENTITY clearPrivateDataCmd.accesskey           "p">
+<!ENTITY clearRecentHistoryCmd.label             "Kustuta hiljutine ajalugu">
+<!ENTITY clearRecentHistoryCmd.accesskey         "t">
 
 <!ENTITY privateBrowsingCmd.label                "Privaatne veebilehitsemine">
 <!ENTITY privateBrowsingCmd.accesskey            "i">
