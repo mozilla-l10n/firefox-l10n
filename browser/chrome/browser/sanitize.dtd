@@ -1,12 +1,26 @@
-<!ENTITY sanitizeDialog.title         "Privee-gegevens opskjinje">
+<!ENTITY sanitizePrefs.title          "Privee-gegevens opskjinje">
+<!ENTITY sanitizeDialog2.title        "Wis resinte skiednis">
 
 <!ENTITY sanitizeItems.label          "De folgjende ûnderdielen no fuortsmite:">
-<!ENTITY clearDataSettings.label      "As ik &brandShortName; freegje myn priveegegevens op te skjinjen, it folgjende fuortsmite:">
+<!ENTITY clearDataSettings2.label      "As ik &brandShortName; ôfslút, moat it alles automatysk it folgjende opskjinje:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY itemHistory.label            "Blêderskiednis">
-<!ENTITY itemHistory.accesskey        "N">
+<!ENTITY clearDuration.label          "Fuortsmite ">
+<!ENTITY clearDuration.lastHour       "it lêste oer">
+<!ENTITY clearDuration.last2Hours     "de lêste 2 oeren">
+<!ENTITY clearDuration.last4Hours     "de lêste 4 oeren">
+<!ENTITY clearDuration.today          "myn skiednis fan hjoed">
+<!ENTITY clearDuration.everything     "myn folsleine skiednis">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix         "">
+
+<!ENTITY historySection.label         "Skiednis">
+<!ENTITY dataSection.label            "Gegevens">
+
+<!ENTITY itemVisitedPages.label            "Besochte sides">
+<!ENTITY itemVisitedPages.accesskey        "B">
 <!ENTITY itemFormSearchHistory.label           "Bewarre formulier- en sykskiednis">
 <!ENTITY itemFormSearchHistory.accesskey       "f">
 <!ENTITY itemPasswords.label          "Bewarre wachtwurden">
@@ -15,10 +29,12 @@
 <!ENTITY itemCookies.accesskey        "C">
 <!ENTITY itemCache.label              "Buffer">
 <!ENTITY itemCache.accesskey          "B">
-<!ENTITY itemOfflineApps.label        "Bewarre Websteegegevens">
-<!ENTITY itemOfflineApps.accesskey    "W">
+<!ENTITY itemOfflineApps.label        "Bewarre websteegegevens">
+<!ENTITY itemOfflineApps.accesskey    "g">
 <!ENTITY itemDownloads.label          "Ynlaadskiednis">
-<!ENTITY itemDownloads.accesskey      "D">
+<!ENTITY itemDownloads.accesskey      "Y">
 <!ENTITY itemActiveLogins.label       "Aktieve lochyns">
 <!ENTITY itemActiveLogins.accesskey   "l">
+
 <!ENTITY window.width                 "30em">
+<!ENTITY column.width                 "14em">
