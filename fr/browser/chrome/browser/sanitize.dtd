@@ -1,24 +1,39 @@
-<!ENTITY sanitizeDialog.title         "Effacer mes traces">
+<!ENTITY sanitizePrefs.title           "Effacer mes traces">
+<!ENTITY sanitizeDialog2.title         "Supprimer l'historique récent">
 
 <!ENTITY sanitizeItems.label          "Supprimer immédiatement les éléments suivants :">
-<!ENTITY clearDataSettings.label      "Quand je demande à &brandShortName; d'effacer mes traces, supprimer les éléments suivants :">
+<!ENTITY clearDataSettings2.label     "Lorsque je quitte &brandShortName;, supprimer automatiquement les éléments suivants :">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY itemHistory.label            "historique de navigation">
-<!ENTITY itemHistory.accesskey        "h">
-<!ENTITY itemFormSearchHistory.label  "recherches et données de formulaires enregistrées">
-<!ENTITY itemFormSearchHistory.accesskey "f">
+<!ENTITY clearDuration.label          "Supprimer ">
+<!ENTITY clearDuration.lastHour       "la dernière heure">
+<!ENTITY clearDuration.last2Hours     "les deux dernières heures">
+<!ENTITY clearDuration.last4Hours     "les quatre dernières heures">
+<!ENTITY clearDuration.today          "l'historique du jour">
+<!ENTITY clearDuration.everything     "l'historique complet">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix         "">
+
+<!ENTITY historySection.label         "Historique">
+<!ENTITY dataSection.label            "Données">
+
+<!ENTITY itemVisitedPages.label       "pages visitées">
+<!ENTITY itemVisitedPages.accesskey   "v">
+<!ENTITY itemFormSearchEntries.label  "formulaires et saisies de recherche">
+<!ENTITY itemFormSearchEntries.accesskey "f">
 <!ENTITY itemPasswords.label          "mots de passe enregistrés">
-<!ENTITY itemPasswords.accesskey      "M">
+<!ENTITY itemPasswords.accesskey      "m">
 <!ENTITY itemCookies.label            "cookies">
 <!ENTITY itemCookies.accesskey        "c">
-<!ENTITY itemCache.label              "cache">
-<!ENTITY itemCache.accesskey          "a">
+<!ENTITY itemWebCache.label           "cache Web">
+<!ENTITY itemWebCache.accesskey       "W">
 <!ENTITY itemOfflineApps.label        "données de sites Web hors connexion">
 <!ENTITY itemOfflineApps.accesskey    "d">
-<!ENTITY itemDownloads.label          "historique de téléchargement">
-<!ENTITY itemDownloads.accesskey      "t">
+<!ENTITY itemDownloadList.label       "liste des téléchargements">
+<!ENTITY itemDownloadList.accesskey   "s">
 <!ENTITY itemActiveLogins.label       "connexions actives">
 <!ENTITY itemActiveLogins.accesskey   "o">
-<!ENTITY window.width                 "35em">
+
+<!ENTITY column.width                 "14em">
