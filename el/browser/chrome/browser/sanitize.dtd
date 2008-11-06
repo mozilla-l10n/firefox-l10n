@@ -1,27 +1,41 @@
-<!ENTITY sanitizeDialog.title         "Εκκαθάριση προσωπικών δεδομένων">
+<!ENTITY sanitizePrefs.title           "Εκκαθάριση προσωπικών δεδομένων">
+<!ENTITY sanitizeDialog2.title         "Εκκαθάριση ιστορικού">
 
 <!ENTITY sanitizeItems.label          "Εκκαθάριση των ακόλουθων αντικειμένων τώρα:">
-<!ENTITY itemHistory.label            "Ιστορικό περιήγησης">
+<!ENTITY clearDataSettings2.label     "Κατά το κλείσιμο του &brandShortName;, θα γίνεται αυτόματη εκκαθάριση  όλων:">
+
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+<!ENTITY clearDuration.label          "Απομάκρυνση">
+<!ENTITY clearDuration.lastHour       "από την τελευταία ώρα">
+<!ENTITY clearDuration.last2Hours     "από τις τελευταίες 2 ώρες">
+<!ENTITY clearDuration.last4Hours     "από τις τελευταίες 4 ώρες">
+<!ENTITY clearDuration.today          "το σημερινό μου ιστορικό">
+<!ENTITY clearDuration.everything     "όλο το ιστορικό">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix         "">
+
+<!ENTITY historySection.label         "Ιστορικό">
+<!ENTITY dataSection.label            "Δεδομένα">
+
+<!ENTITY itemVisitedPages.label       "Αναγνωσμένες σελίδες">
+<!ENTITY itemVisitedPages.accesskey   "γ">
+<!ENTITY itemFormSearchEntries.label  "Φόρμες &amp; αναζητήσεις">
+<!ENTITY itemFormSearchEntries.accesskey "Φ">
 <!ENTITY itemPasswords.label          "Αποθηκευμένοι κωδικοί">
+<!ENTITY itemPasswords.accesskey      "π">
 <!ENTITY itemCookies.label            "Cookies">
-<!ENTITY itemCache.label              "Λανθάνουσα μνήμη">
-<!ENTITY itemDownloads.label          "Ιστορικό λήψης αρχείων">
-
-<!ENTITY itemHistory.accesskey        "σ">
-<!ENTITY itemPasswords.accesskey      "κ">
 <!ENTITY itemCookies.accesskey        "C">
-<!ENTITY itemCache.accesskey          "θ">
-<!ENTITY itemDownloads.accesskey      "ψ">
-
-<!ENTITY itemFormSearchHistory.label  "Αποθηκευμένες φόρμες και ιστορικό αναζήτησης">
- <!ENTITY itemFormSearchHistory.accesskey "φ">
-
-<!ENTITY window.width                 "38em">
-<!ENTITY clearDataSettings.label      "Κατά την εκκαθάριση προσωπικών δεδομένων από τον &brandShortName; θα διαγράφονται:">
-
+<!ENTITY itemWebCache.label           "Προσωρινή Cache">
+<!ENTITY itemWebCache.accesskey       "σ">
 <!ENTITY itemOfflineApps.label        "Δεδομένα ιστοσελίδων για εργασία χωρίς σύνδεση">
 <!ENTITY itemOfflineApps.accesskey    "δ">
-
+<!ENTITY itemDownloadList.label       "Λίστα λήψεων">
+<!ENTITY itemDownloadList.accesskey   "ψ">
 <!ENTITY itemActiveLogins.label       "Ενεργές συνεδρίες">
 <!ENTITY itemActiveLogins.accesskey   "υ">
+
+<!ENTITY window.width                 "38em">
+<!ENTITY column.width                 "18em">
 

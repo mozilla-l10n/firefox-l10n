@@ -302,8 +302,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY editPopupSettingsUnix.label "Επεξεργασία προτιμήσεων φραγής παραθύρων...">
 <!ENTITY bookmarkAllCmd.label "'Ολες οι καρτέλες ως σελιδοδείκτης...">
-<!ENTITY clearPrivateDataCmd.label            "Εκκαθάριση προσωπικών δεδομένων">
-<!ENTITY clearPrivateDataCmd.accesskey        "θ">
+
 <!ENTITY quitApplicationCmdMac.label    "Έξοδος">
 <!ENTITY quitApplicationCmdMac.key      "Q">
 
@@ -427,5 +426,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY ctrlTab.search.emptyText "Αναζήτηση καρτελών">
 
+<!ENTITY clearRecentHistoryCmd.label            "Εκκαθάριση ιστορικού">
+<!ENTITY clearRecentHistoryCmd.accesskey        "θ">
 
 
