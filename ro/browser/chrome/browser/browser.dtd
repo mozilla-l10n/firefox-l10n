@@ -161,8 +161,8 @@
 <!ENTITY preferencesCmdUnix.label       "Preferințe">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearPrivateDataCmd.label            "Șterge datele private">
-<!ENTITY clearPrivateDataCmd.accesskey        "p">
+<!ENTITY clearRecentHistoryCmd.label            "Curăță istoricul recent">
+<!ENTITY clearRecentHistoryCmd.accesskey        "C">
 
 <!ENTITY privateBrowsingCmd.label            "Navigare fără urme">
 <!ENTITY privateBrowsingCmd.accesskey        "N">
