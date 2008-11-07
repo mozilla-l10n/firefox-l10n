@@ -3,8 +3,7 @@
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY itemFormSearchHistory.label  "Kayıtlı form ve arama geçmişi">
-<!ENTITY itemFormSearchHistory.accesskey "f">
+<!
 <!ENTITY itemPasswords.label          "Kayıtlı parolalar">
 <!ENTITY itemPasswords.accesskey      "p">
 <!ENTITY itemCookies.label            "Çerezler">
@@ -41,7 +40,7 @@
 <!ENTITY sanitizeDialog2.title         "Güncel Geçmişi Temizle">
 <!ENTITY sanitizePrefs.title           "Özel Verileri Temizle">
 
-
+<!ENTITY clearDuration.lastHour       "son saat">
 
 
 
