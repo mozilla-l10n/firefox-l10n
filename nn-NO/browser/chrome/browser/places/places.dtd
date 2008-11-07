@@ -44,7 +44,7 @@
 
 <!ENTITY cmd.backup.label               "Reservekopi …">
 <!ENTITY cmd.backup.accesskey           "R">
-<!ENTITY cmd.restore2.label             "Gjenopprett …">
+<!ENTITY cmd.restore2.label             "Still tilbake …">
 <!ENTITY cmd.restore2.accesskey         "G">
 <!ENTITY cmd.restoreFromFile.label      "Vel fil …">
 <!ENTITY cmd.restoreFromFile.accesskey  "V">
@@ -70,6 +70,11 @@
 <!ENTITY cmd.edit_redo.label        "Gjer om">
 <!ENTITY cmd.edit_redo.accesskey    "G">
 <!ENTITY cmd.edit_redo.key          "y">
+
+<!ENTITY cmd.delete.label               "Slett denne sida">
+<!ENTITY cmd.delete.accesskey           "S">
+<!ENTITY cmd.deleteDomainData.label     "Gløym denne sida">
+<!ENTITY cmd.deleteDomainData.accesskey "G">
 
 <!ENTITY cmd.open.label                  "Opne">
 <!ENTITY cmd.open.accesskey              "O">

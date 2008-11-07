@@ -13,15 +13,12 @@
 <!ENTITY highestPriorityCmd.label "Høgast">
 
 <!ENTITY contextDesc.label "Bruk filteret når:">
-<!ENTITY contextDesc.accesskey "w">
+<!ENTITY contextDesc.accesskey "B">
 <!ENTITY contextIncoming.label "Hentar e-post">
 <!ENTITY contextManual.label "Ved manuell filtrering">
 <!ENTITY contextBoth.label "Hentar e-post eller manuell filtrering">
 <!ENTITY filterActionDesc.label "Gjer følgjande med meldingane:">
 <!ENTITY filterActionDesc.accesskey "G">
-
-<!ENTITY newFolderButton.label "Ny mappe …">
-<!ENTITY newFolderButton.accesskey "N">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Flytt melding til">

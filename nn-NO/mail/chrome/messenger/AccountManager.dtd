@@ -6,12 +6,8 @@
 <!ENTITY addAccountButton.accesskey "L">
 <!ENTITY setDefaultButton.label "Set som standard">
 <!ENTITY setDefaultButton.accesskey "S">
-<!ENTITY duplicateButton.label "Duplikat">
 <!ENTITY removeButton.label "Slett konto">
 <!ENTITY removeButton.accesskey "t">
-
-<!ENTITY nameCol.label "Namn">
-<!ENTITY duplicate.label "Duplikat">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account

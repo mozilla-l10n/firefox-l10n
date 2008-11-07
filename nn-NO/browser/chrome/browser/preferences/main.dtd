@@ -12,7 +12,7 @@
 <!ENTITY useMultiple.label         "Bruk opne nettsider">
 <!ENTITY useBookmark.label         "Bruk bokmerke">
 <!ENTITY useBookmark.accesskey     "k">
-<!ENTITY restoreDefault.label      "Gjenopprett standard">
+<!ENTITY restoreDefault.label      "Still tilbake til standard">
 <!ENTITY restoreDefault.accesskey  "s">
 
 <!ENTITY downloads.label     "Nedlastingar">

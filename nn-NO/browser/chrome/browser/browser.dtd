@@ -50,7 +50,7 @@
 <!ENTITY fullScreenCmd.accesskey "u">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimer">
-<!ENTITY fullScreenRestore.tooltip "Gjenopprett">
+<!ENTITY fullScreenRestore.tooltip "Bygg opp att">
 <!ENTITY fullScreenClose.tooltip "Lat att">
 <!ENTITY fullScreenAutohide.label "Skjul verktøylinjer">
 <!ENTITY fullScreenAutohide.accesskey "S">
@@ -236,9 +236,9 @@
 <!ENTITY viewFrameSourceCmd.label     "Vis kjeldekode for ramma">
 <!ENTITY viewFrameSourceCmd.accesskey "k">
 <!ENTITY viewPageInfoCmd.label        "Vis informasjon om sida">
-<!ENTITY viewPageInfoCmd.accesskey    "n">
+<!ENTITY viewPageInfoCmd.accesskey    "V">
 <!ENTITY viewFrameInfoCmd.label       "Vis informasjon om ramma">
-<!ENTITY viewFrameInfoCmd.accesskey   "n">
+<!ENTITY viewFrameInfoCmd.accesskey   "V">
 <!ENTITY reloadImageCmd.label         "Oppdater bilete">
 <!ENTITY reloadImageCmd.accesskey     "l">
 <!ENTITY viewImageCmd.label           "Vis bilete">
@@ -249,12 +249,12 @@
 <!ENTITY viewBGImageCmd.accesskey     "b">
 <!ENTITY setDesktopBackgroundCmd.label      "Vel som skrivebordbakgrunn …">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "b">
-<!ENTITY bookmarkPageCmd2.label       "Bokmerk denne sida">
-<!ENTITY bookmarkPageCmd2.accesskey   "m">
-<!ENTITY bookmarkThisLinkCmd.label      "Bokmerk denne lenkja">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "B">
-<!ENTITY bookmarkThisFrameCmd.label      "Bokmerk denne ramma">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY bookmarkPageCmd2.label       "Legg til bokmerke …">
+<!ENTITY bookmarkPageCmd2.accesskey   "L">
+<!ENTITY bookmarkThisLinkCmd.label      "Legg til bokmerke for lenkja …">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "L">
+<!ENTITY bookmarkThisFrameCmd.label      "Legg til bokmerke for ramma …">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "L">
 <!ENTITY sendPageCmd.label            "Send lenkje …">
 <!ENTITY sendPageCmd.accesskey        "S">
 <!ENTITY savePageCmd.label            "Lagre sida som …">
@@ -263,9 +263,9 @@
 <!ENTITY savePageCmd.accesskey2       "o">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Lagre ramma som …">
-<!ENTITY saveFrameCmd.accesskey       "r">
+<!ENTITY saveFrameCmd.accesskey       "a">
 <!ENTITY printFrameCmd.label          "Skriv ut ramme …">
-<!ENTITY printFrameCmd.accesskey      "S">
+<!ENTITY printFrameCmd.accesskey      "k">
 <!ENTITY saveLinkCmd.label            "Lagre lenkja som …">
 <!ENTITY saveLinkCmd.accesskey        "L">
 <!ENTITY sendLinkCmd.label            "Send lenkje …"> 
@@ -298,7 +298,7 @@
 <!ENTITY metadataCmd.label            "Eigenskapar">
 <!ENTITY metadataCmd.accesskey        "E">
 <!ENTITY copyEmailCmd.label           "Kopier e-postadresse">
-<!ENTITY copyEmailCmd.accesskey       "K">
+<!ENTITY copyEmailCmd.accesskey       "o">
 <!ENTITY thisFrameMenu.label              "Denne ramma">
 <!ENTITY thisFrameMenu.accesskey          "D">
 
@@ -340,9 +340,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Forstørr berre tekst">
-<!ENTITY fullZoomToggleCmd.accesskey    "T">
-<!ENTITY fullZoom.label                 "Forstørre">
-<!ENTITY fullZoom.accesskey             "F">
+<!ENTITY fullZoomToggleCmd.accesskey    "o">
+<!ENTITY fullZoom.label                 "Skalering">
+<!ENTITY fullZoom.accesskey             "r">
 
 <!ENTITY newWindowButton.tooltip        "Opnar nytt vindauge">
 <!ENTITY sidebarCloseButton.tooltip     "Lat att sidestolpen">
@@ -357,7 +357,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Avslutt"> 
 <!ENTITY quitApplicationCmd.accesskey   "t">
-<!ENTITY quitApplicationCmdMac.label    "Avslutt">
+<!ENTITY quitApplicationCmdMac.label    "Avslutt &brandShortName;">
 <!ENTITY quitApplicationCmdMac.key      "Q">
 
 <!ENTITY closeCmd.label                 "Lat att">  
@@ -365,7 +365,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.accesskey             "L">
 
 <!ENTITY pageStyleMenu.label "Sidestil">
-<!ENTITY pageStyleMenu.accesskey "i">
+<!ENTITY pageStyleMenu.accesskey "e">
 <!ENTITY pageStyleNoStyle.label "Ingen stil">
 <!ENTITY pageStyleNoStyle.accesskey "I">
 <!ENTITY pageStylePersistentOnly.label "Vanleg sidestil">
@@ -373,7 +373,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageReportIcon.tooltip            "Endre innstillingar for blokkering av sprettoppvindauge for denne nettstaden">
 
-<!ENTITY allowPopups.accesskey "T">
+<!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
@@ -401,8 +401,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Ferdig">
 <!ENTITY editBookmark.cancel.label                   "Avbryt">
-<!ENTITY editBookmark.removeBookmark.label           "Fjern bokmerke">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+<!ENTITY editBookmark.removeBookmark.label           "Slett bokmerke">
+<!ENTITY editBookmark.removeBookmark.accessKey       "S">
 <!ENTITY editBookmark.undo.label                     "Angre">
 <!ENTITY editBookmark.undo.accessKey                 "A">
 <!ENTITY editBookmark.edit.label                     "Rediger …">
@@ -426,3 +426,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Meir info …">
 
 <!ENTITY downloadMonitor2.tooltip "Klikk for å opne nedlastingsvindauget">
+
+<!ENTITY ctrlTab.search.emptyText "Søkjefaner">

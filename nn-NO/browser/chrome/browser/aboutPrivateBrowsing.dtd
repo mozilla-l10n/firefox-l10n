@@ -1,0 +1,13 @@
+<!ENTITY privatebrowsingpage.tabtitle                  "Privat nettlesing">
+
+<!ENTITY privatebrowsingpage.pagetitle                 "Privat nettlesing">
+
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; vil ikkje loggføre historikk for denne økta.">
+<!ENTITY privatebrowsingpage.longDesc                  "Ingen historikk vert loggført av &brandShortName; i denne nettlesarøkta. Dette gjeld nettlesarhistorikk, søkjehistorikk, nedlastingshistorikk, skjema, infokapslar og mellombelse Internett-filer. Merk at filer du lastar ned og bokmerker du lagar vil bli tatt vare på.">
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Du vil kanskje også ønskje å fjerne historikk som nyleg er oppretta.">
+<!ENTITY privatebrowsingpage.recentHistory.label       "Fjern nyare historikk">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey   "F">
+
+<!ENTITY privatebrowsingpage.howToStopDesc             "For å avslutte privat nettlesing, fjern avkryssinga frå Verktøy &gt; Privat nettlesing.">
+<!ENTITY privatebrowsingpage.footerDesc                "Kos deg!">

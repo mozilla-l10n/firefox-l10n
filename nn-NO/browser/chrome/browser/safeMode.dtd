@@ -45,16 +45,16 @@
 <!ENTITY disableAddons.label          "Slå av alle tema og programtillegg">
 <!ENTITY disableAddons.accesskey      "S">
 
-<!ENTITY resetToolbars.label          "Gjenopprett verktøylinjer og kontrollar">
+<!ENTITY resetToolbars.label          "Still tilbake verktøylinjer og kontrollar">
 <!ENTITY resetToolbars.accesskey      "G">
 
-<!ENTITY resetBookmarks.label         "Gjenopprett dei opprinnelege bokmerka i &brandShortName;">
+<!ENTITY resetBookmarks.label         "Still tilbake til dei opprinnelege bokmerka i &brandShortName;">
 <!ENTITY resetBookmarks.accesskey     "b">
 
-<!ENTITY resetUserPrefs.label         "Gjenopprett dei opprinnelege brukarinnstillingane i &brandShortName;">
+<!ENTITY resetUserPrefs.label         "Still tilbake til dei opphavlege brukarinnstillingane i &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey     "n">
 
-<!ENTITY restoreSearch.label          "Gjenopprett opphavlege søkjemotorar">
+<!ENTITY restoreSearch.label          "Still tilbake til dei opphavlege søkjemotorane">
 <!ENTITY restoreSearch.accesskey      "s">
 
 <!ENTITY changeAndRestartButton.label "Lagre endringane og start om">
