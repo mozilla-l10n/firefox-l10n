@@ -71,6 +71,11 @@
 <!ENTITY cmd.edit_redo.accesskey "o">
 <!ENTITY cmd.edit_redo.key "y">
 
+<!ENTITY cmd.delete.label "Smazat tuto stránku">
+<!ENTITY cmd.delete.accesskey "S">
+<!ENTITY cmd.deleteDomainData.label "Zapomenout na tuto stránku">
+<!ENTITY cmd.deleteDomainData.accesskey "Z">
+
 <!ENTITY cmd.open.label "Otevřít">
 <!ENTITY cmd.open.accesskey "O">
 <!ENTITY cmd.open_window.label "Otevřít v novém okně">
