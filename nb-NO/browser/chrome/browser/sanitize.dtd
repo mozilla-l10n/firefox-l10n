@@ -1,24 +1,40 @@
-<!ENTITY sanitizeDialog.title         "Slett private data">
+<!ENTITY sanitizePrefs.title           "Slett private data">
+<!ENTITY sanitizeDialog2.title         "Slett nylig historikk">
 
 <!ENTITY sanitizeItems.label          "Slett disse elementene nå:">
-<!ENTITY clearDataSettings.label      "Når jeg ber &brandShortName; om å slette mine private data skal den slette:">
+<!ENTITY clearDataSettings2.label     "Når jeg avslutter &brandShortName; skal den automatisk slette:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY itemHistory.label            "Nettleserhistorikk">
-<!ENTITY itemHistory.accesskey        "N">
-<!ENTITY itemFormSearchHistory.label  "Søkehistorikk og lagrede skjemaer">
-<!ENTITY itemFormSearchHistory.accesskey "S">
+<!ENTITY clearDuration.label          "Slett ">
+<!ENTITY clearDuration.lastHour       "den siste timen">
+<!ENTITY clearDuration.last2Hours     "de siste 2 timene">
+<!ENTITY clearDuration.last4Hours     "de siste 4 timene">
+<!ENTITY clearDuration.today          "historikken for i dag">
+<!ENTITY clearDuration.everything     "all historikk">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix         "">
+
+<!ENTITY historySection.label         "Historikk">
+<!ENTITY dataSection.label            "Data">
+
+<!ENTITY itemVisitedPages.label       "Besøkte nettsider">
+<!ENTITY itemVisitedPages.accesskey   "B">
+<!ENTITY itemFormSearchEntries.label  "Skjemaverdier og søkehistorikk">
+<!ENTITY itemFormSearchEntries.accesskey "S">
 <!ENTITY itemPasswords.label          "Lagrede passord">
 <!ENTITY itemPasswords.accesskey      "L">
 <!ENTITY itemCookies.label            "Infokapsler">
 <!ENTITY itemCookies.accesskey        "I">
-<!ENTITY itemCache.label              "Hurtiglager">
-<!ENTITY itemCache.accesskey          "H">
+<!ENTITY itemWebCache.label           "Hurtiglager for nettsider">
+<!ENTITY itemWebCache.accesskey       "H">
 <!ENTITY itemOfflineApps.label        "Frakoblet nettsidedata">
 <!ENTITY itemOfflineApps.accesskey    "F">
-<!ENTITY itemDownloads.label          "Nedlastingshistorikk">
-<!ENTITY itemDownloads.accesskey      "d">
+<!ENTITY itemDownloadList.label       "Nedlastingslisten">
+<!ENTITY itemDownloadList.accesskey   "d">
 <!ENTITY itemActiveLogins.label       "Aktive innlogginger">
 <!ENTITY itemActiveLogins.accesskey   "A">
+
 <!ENTITY window.width                 "30em">
+<!ENTITY column.width                 "14em">
