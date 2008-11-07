@@ -37,11 +37,11 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY pref.security.title "Приватность и защита">
 <!ENTITY privateData.label "Личные данные">
-<!ENTITY alwaysClear.label "При закрытии &brandShortName; всегда удалять мои личные данные">
+<!ENTITY alwaysClear.label "При закрытии &brandShortName; всегда стирать мои личные данные">
 <!ENTITY alwaysClear.accesskey "у">
-<!ENTITY askBeforeClear.label "Спрашивать перед удалением личных данных">
+<!ENTITY askBeforeClear.label "Спрашивать перед стиранием личных данных">
 <!ENTITY askBeforeClear.accesskey "п">
-<!ENTITY clearDataSettings.label "Когда я прошу &brandShortName; удалить мои личные данные, он должен стереть:">
-<!ENTITY clearDataDialog.label "Очистить сейчас…">
-<!ENTITY clearDataSilent.label "Очистить сейчас">
-<!ENTITY clearDataDialog.accesskey "с">
+<!ENTITY clearDataSettings.label "Когда я прошу &brandShortName; стереть мои личные данные, он должен удалить:">
+<!ENTITY clearDataDialog.label "Стереть сейчас…">
+<!ENTITY clearDataSilent.label "Стереть сейчас">
+<!ENTITY clearDataDialog.accesskey "т">
