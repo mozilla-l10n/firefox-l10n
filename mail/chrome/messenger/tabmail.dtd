@@ -1,12 +1,2 @@
-<!ENTITY untitledTab "(izengabea)">
-<!ENTITY newTab.label "Fitxa berria">
-<!ENTITY newTab.accesskey "T">
 <!ENTITY closeTab.label "Itxi fitxa">
-<!ENTITY closeTab.accesskey "x">
-<!ENTITY closeOtherTabs.accesskey "b">
-<!ENTITY closeOtherTabs.label "Itxi beste fitxak">
-<!ENTITY reloadAllTabs.label "Berritu fitxa guztiak">
-<!ENTITY reloadAllTabs.accesskey "G">
-<!ENTITY reloadTab.label "Berritu fitxa">
-<!ENTITY reloadTab.accesskey "r">
 <!ENTITY listAllTabs.label "Zerrendatu fitxa guztiak">

@@ -1,6 +1,6 @@
 <!ENTITY searchIntegration.engineName "Windows bilaketa">
-<!ENTITY searchIntegration.title "&searchIntegration.engineName; Integration">
-<!ENTITY searchIntegration.description "Would you like to enable &searchIntegration.engineName; to index and search through &brandShortName; mail and news messages?">
+<!ENTITY searchIntegration.title "&searchIntegration.engineName; integrazioa">
+<!ENTITY searchIntegration.description "&searchIntegration.engineName;(e)k indizeak sortzea nahi duzu &brandShortName;(e)ko posta- eta berri-mezuetan bilatzeko?">
 
-<!ENTITY searchIntegration.accept "Enable &searchIntegration.engineName;">
-<!ENTITY searchIntegration.cancel "Don't Enable &searchIntegration.engineName;">
+<!ENTITY searchIntegration.accept "Gaitu &searchIntegration.engineName;">
+<!ENTITY searchIntegration.cancel "Ezgaitu &searchIntegration.engineName;">

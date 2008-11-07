@@ -46,7 +46,6 @@
 <!ENTITY ListDescription.label "Azalpena: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label "Idatzi eposta helbideak posta zerrendara gehitzeko:">
-<!ENTITY RemoveButton.label "Ezabatu">
 <!ENTITY UpButton.label "Gora">
 <!ENTITY DownButton.label "Behera">
 <!-- Access Keys -->

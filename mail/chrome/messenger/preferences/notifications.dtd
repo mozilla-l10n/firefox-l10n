@@ -1,11 +1,11 @@
-<!ENTITY notificationsDialog2.title "Customize New Mail Alert">
+<!ENTITY notificationsDialog2.title "Pertsonalizatu posta berriaren alerta">
 <!ENTITY window.width "30em">
 
-<!ENTITY alertCustomization.intro "Choose which fields to show in the alert notification:">
-<!ENTITY previewText.label "Message Preview Text">
+<!ENTITY alertCustomization.intro "Hautatu zein eremu nahi duzun erakustea jakinarazpen-alertan:">
+<!ENTITY previewText.label "Mezuaren aurreikuspen-testua">
 <!ENTITY previewText.accesskey "M">
-<!ENTITY subject.label "Subject">
-<!ENTITY subject.accesskey "S">
-<!ENTITY sender.label "Sender">
+<!ENTITY subject.label "Gaia">
+<!ENTITY subject.accesskey "G">
+<!ENTITY sender.label "Bidaltzailea">
 <!ENTITY sender.accesskey "e">
 

@@ -1,4 +1,4 @@
-<!ENTITY fontsAndEncodingsDialog.title "Fonts &amp; Encodings">
+<!ENTITY fontsAndEncodingsDialog.title "Letra-tipoak eta kodeketak">
 <!ENTITY window.width "45em">
 <!ENTITY window.macWidth "49em">
 <!ENTITY window.unixWidth "47em">
@@ -6,7 +6,6 @@
 <!ENTITY language.label "Honen Letra-tipoa:">
 <!ENTITY language.accesskey "t">
 
-<!ENTITY typefaces.label "Tipografia">
 <!ENTITY sizes.label "Tamaina (pixel)">
 <!ENTITY proportionalSize.accesskey "e">
 <!ENTITY monospaceSize.accesskey "x">
@@ -21,8 +20,6 @@
 <!ENTITY monospace.label "Monospace:">
 <!ENTITY monospace.accesskey "m">
 
-<!ENTITY fontsize.units "pixel">
-
 <!ENTITY font.langGroup.latin1 "Mendebaldekoa">
 <!ENTITY font.langGroup.latin2 "Europa Erdialdekoa">
 <!ENTITY font.langGroup.japanese "Japoniarra">
@@ -34,44 +31,42 @@
 <!ENTITY font.langGroup.baltic "Baltikokoa">
 <!ENTITY font.langGroup.el "Grekoa">
 <!ENTITY font.langGroup.turkish "Turkiarra">
-<!ENTITY font.langGroup.unicode "Bestelakoak Hizkuntzak">
+<!ENTITY font.langGroup.unicode "Bestelako hizkuntzak">
 <!ENTITY font.langGroup.user-def "Erabiltzaileak definitua">
 <!ENTITY font.langGroup.thai "Thailandiarra">
 <!ENTITY font.langGroup.hebrew "Hebrearra">
-<!ENTITY font.langGroup.arabic "arabiarra">
+<!ENTITY font.langGroup.arabic "Arabiarra">
 <!ENTITY font.langGroup.devanagari "Devanagari">
 <!ENTITY font.langGroup.tamil "Tamila">
 <!ENTITY font.langGroup.armenian "Armeniarra">
-<!ENTITY font.langGroup.bengali "bengaliarra">
-<!ENTITY font.langGroup.canadian "Kanadiera">
-<!ENTITY font.langGroup.ethiopic "Etiopiera">
+<!ENTITY font.langGroup.bengali "Bengaliarra">
+<!ENTITY font.langGroup.canadian "Kanadarra">
+<!ENTITY font.langGroup.ethiopic "Etiopiarra">
 <!ENTITY font.langGroup.georgian "Georgiarra">
-<!ENTITY font.langGroup.gujarati "gujeratiarra">
-<!ENTITY font.langGroup.gurmukhi "Gurmukhi-koa">
+<!ENTITY font.langGroup.gujarati "Gujeratiera">
+<!ENTITY font.langGroup.gurmukhi "Gurmukhiarra">
 <!ENTITY font.langGroup.khmer "Khmer">
-<!ENTITY font.langGroup.malayalam "malayalama">
+<!ENTITY font.langGroup.malayalam "Malayalama">
 <!-- Minimum font size -->
 
 <!ENTITY minSize.label "Letra-tipoaren gutxieneko tamaina:">
 <!ENTITY minSize.accesskey "x">
-<!ENTITY minSize.none "Batere">
+<!ENTITY minSize.none "Bat ere ez">
 <!-- default font type -->
 
 <!ENTITY useDefaultFontSerif.label "Serif">
 <!ENTITY useDefaultFontSansSerif.label "Sans Serif">
 
-<!ENTITY newLanguages.label "Hizkuntza berriak Hizkuntza Panelaren bidez konfigura daitezke.">
-
 <!ENTITY useDocumentFonts.label "Baimendu mezuak beste letra-tipo batzuk erabiltzea">
 <!ENTITY useDocumentFonts.accesskey "o">
 <!-- Language settings -->
 
-<!ENTITY sendDefaultCharset.label "Outgoing Mail:">
-<!ENTITY sendDefaultCharset.accesskey "u">
-<!ENTITY languagesTitle1.label "Karaktere kodeketa">
-<!ENTITY composingDescription.label "Set the default character encodings for sending and receiving mail">
+<!ENTITY sendDefaultCharset.label "Irteerako posta:">
+<!ENTITY sendDefaultCharset.accesskey "r">
+<!ENTITY languagesTitle1.label "Karaktere-kodeketa">
+<!ENTITY composingDescription.label "Ezarri posta bidali eta jasotzeko lehenetsitako karaktere-kodeketak">
 
-<!ENTITY viewDefaultCharsetList.label "Incoming Mail:">
-<!ENTITY viewDefaultCharsetList.accesskey "I">
-<!ENTITY replyInDefaultCharset2.label "When possible, use the default character encoding in replies">
+<!ENTITY viewDefaultCharsetList.label "Sarrerakoa posta:">
+<!ENTITY viewDefaultCharsetList.accesskey "S">
+<!ENTITY replyInDefaultCharset2.label "Erabili erantzunetan lehenetsitako karaktere-kodeketa ahal bada">
 <!ENTITY replyInDefaultCharset2.accesskey "h">

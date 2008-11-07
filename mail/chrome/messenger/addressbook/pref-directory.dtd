@@ -37,14 +37,11 @@
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 
 <!ENTITY pref.ldap.window.title "LDAP Direktorio Zerbitzariak">
-<!ENTITY directory.label "Gehitu direktorio bat">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "LDAP direktorio-zerbitzaria:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 <!ENTITY directoriesText.label "Hautatu LDAP direktorio-zerbitzari bat:">
 <!ENTITY directoriesText.accesskey "H">
-<!-- LOCALIZATION NOTE (autocomplete.title) : do not translate "LDAP" in below line -->
-<!ENTITY autocomplete.title "LDAP direktorio-zerbitzaria">
 <!ENTITY addDirectory.label "Gehitu">
 <!ENTITY addDirectory.accesskey "g">
 <!ENTITY editDirectory.label "Editatu">

@@ -2,13 +2,6 @@
 
 <!ENTITY securitySettings.label "Segurtasun Ezarpenak">
 <!ENTITY serverSettings.label "Zerbitzariaren Ezarpenak">
-<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
-<!ENTITY popServer.label "POP Posta-zerbitzaria">
-<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
-<!ENTITY imapServer.label "IMAP Posta-zerbitzaria">
-<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
-<!ENTITY newsServer.label "Berri-zerbitzaria (NNTP)">
-<!ENTITY webmail.label "WebMail kontua">
 <!ENTITY serverType.label "Zerbitzari-mota:">
 <!ENTITY serverName.label "Zerbitzari-izena:">
 <!ENTITY serverName.accesskey "Z">
@@ -50,10 +43,7 @@
 <!ENTITY deleteOnServer2.accesskey "e">
 <!ENTITY downloadOnBiff.label "Deskargatu automatikoki mezu berri guztiak">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY hostname.label "Zerbitzariaren Ostalari-izena">
 <!ENTITY username.label "Saioa Hasteko Izena">
-<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
-<!ENTITY popServerTitle.label "POP Zerbitzariaren Informazioa">
 <!ENTITY deleteMessagePrefix.label "Mezu bat ezabatzean:">
 <!ENTITY modelMoveToTrash.label "Mugitu karpetara mugitu honetara:">
 <!ENTITY modelMoveToTrash.accesskey "u">

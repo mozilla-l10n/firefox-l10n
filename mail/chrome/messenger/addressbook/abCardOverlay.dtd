@@ -82,8 +82,12 @@
 
 <!ENTITY allowRemoteContent.label "Onartu urruneko irudiak HTML mezuetan.">
 <!ENTITY allowRemoteContent.accesskey "d">
+<!ENTITY allowRemoteContent.tooltip "HTML mezuetan irudiak txerta daitezke 
+kanpoko iturrietatik. Halako mezu bat zabalduz gero, konexio bat irekiko da 
+kanpoko baliabide honetara. Irakurtzen ari zaren mezua arakatua 
+izatea ekar lezake honek. Kutxa hau markatuz gero, kontaktu honen 
+HTML mezuetan kanpoko iturrietatik txertatutako irudiak onartuko dira.">
 
-<!ENTITY Phones.box "Telefonoak">
 <!ENTITY WorkPhone.label "Lanekoa:">
 <!ENTITY WorkPhone.accesskey "l">
 <!ENTITY HomePhone.label "Etxekoa:">
@@ -91,15 +95,14 @@
 <!ENTITY FaxNumber.label "Fax-a:">
 <!ENTITY FaxNumber.accesskey "x">
 <!ENTITY PagerNumber.label "Bilagailua:">
-<!ENTITY PagerNumber.accesskey "B">
+<!ENTITY PagerNumber.accesskey "b">
 <!ENTITY CellularNumber.label "Mugikorra:">
 <!ENTITY CellularNumber.accesskey "M">
 
-<!ENTITY Address.tab "Helbidea">
-<!ENTITY Address.accesskey "A">
-<!ENTITY Home.box "Etxekoa">
+<!ENTITY Home.tab "Pribatua">
+<!ENTITY Home.accesskey "P">
 <!ENTITY HomeAddress.label "Helbidea:">
-<!ENTITY HomeAddress.accesskey "d">
+<!ENTITY HomeAddress.accesskey "D">
 <!ENTITY HomeAddress2.label "">
 <!ENTITY HomeAddress2.accesskey "">
 <!ENTITY HomeCity.label "Hiria:">
@@ -111,8 +114,10 @@
 <!ENTITY HomeCountry.label "Herrialdea:">
 <!ENTITY HomeCountry.accesskey "i">
 <!ENTITY HomeWebPage.label "Web Orria:">
-<!ENTITY HomeWebPage.accesskey "W">
-<!ENTITY Work.box "Lana">
+<!ENTITY HomeWebPage.accesskey "w">
+
+<!ENTITY Work.tab "Lanbidea">
+<!ENTITY Work.accesskey "L">
 <!ENTITY JobTitle.label "Titulua:">
 <!ENTITY JobTitle.accesskey "u">
 <!ENTITY Department.label "Atala:">
@@ -120,13 +125,13 @@
 <!ENTITY Company.label "Erakundea:">
 <!ENTITY Company.accesskey "E">
 <!ENTITY WorkAddress.label "Helbidea:">
-<!ENTITY WorkAddress.accesskey "d">
-<!ENTITY WorkAddress2.label "">
-<!ENTITY WorkAddress2.accesskey "">
+<!ENTITY WorkAddress.accesskey "D">
+<!ENTITY WorkAddress2.label "_: intl.menuitems.alwaysappendaccesskeys">
+<!ENTITY WorkAddress2.accesskey "_: intl.menuitems.alwaysappendaccesskeys">
 <!ENTITY WorkCity.label "Hiria:">
 <!ENTITY WorkCity.accesskey "i">
 <!ENTITY WorkState.label "Estatua/Probintzia:">
-<!ENTITY WorkState.accesskey "b">
+<!ENTITY WorkState.accesskey "B">
 <!ENTITY WorkZipCode.label "ZIP/Posta Kodea:">
 <!ENTITY WorkZipCode.accesskey "P">
 <!ENTITY WorkCountry.label "Herrialdea:">
@@ -149,5 +154,5 @@
 <!ENTITY Custom3.accesskey "3">
 <!ENTITY Custom4.label "4 Pertsonalizatua:">
 <!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.box "Oharrak">
-<!ENTITY Notes.accesskey "N">
+<!ENTITY Notes.label "Oharrak:">
+<!ENTITY Notes.accesskey "O">

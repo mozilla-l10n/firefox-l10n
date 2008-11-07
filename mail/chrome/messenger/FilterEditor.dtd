@@ -19,9 +19,6 @@
 <!ENTITY contextBoth.label "Posta arakatzean edo eskuz exekutatzen">
 <!ENTITY filterActionDesc.label "Ekintza hau egin:">
 <!ENTITY filterActionDesc.accesskey "E">
-
-<!ENTITY newFolderButton.label "Kapeta Berria...">
-<!ENTITY newFolderButton.accesskey "K">
 <!-- New Style Filter Rule Actions -->
 
 <!ENTITY moveMessage.label "Mezua hona Mugitu:">

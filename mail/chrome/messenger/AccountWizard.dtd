@@ -31,24 +31,17 @@
 
 <!ENTITY emailLabel.label "ePosta Helbidea:">
 <!ENTITY emailLabel.accesskey "E">
-<!ENTITY emailDesc.label "Idatzi zure eposta helbidea; helbide hau besteek zuri mezuak bidaltzeko erabiliko dutena da">
-<!-- LOCALIZATION NOTE (emailExample.label) : do not translate "user@example.net" in below line -->
-<!ENTITY emailExample.label "(adibidez: user@example.net).">
 <!-- Entities for Server page -->
 
 
 <!ENTITY serverTitle.label "Zerbitzariaren Informazioa">
-<!ENTITY incomingServerTitle.label "Posta Jasotzeko Zerbitzaria">
 <!ENTITY incomingServerTypeDesc.label "Erabiltzen duzun posta jasotzeko zerbitzari mota hauta ezazu.">
-<!ENTITY incomingServerTypeLabel.label "Zerbitzari Mota:">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServerNameDesc.label "Posta jasotzeko zerbitzari motaren izena idatz ezazu (adibidez, &quot;mail.adibide.net&quot;).">
 <!ENTITY incomingServerLabel.label "Posta Jasotzeko Zerbitzaria:">
 <!ENTITY incomingServerLabel.accesskey "Z">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Idatzi berri-zerbitzariaren izena (NNTP) (adibidez, &quot;berriak.adibide.net&quot;).">
-<!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
-<!ENTITY smtpServerTitle.label "ePosta Bidaltzeko Zerbitzaria (SMTP)">
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY smtpServerDesc.label "Idatzi posta bidaltzeko zerbitzariaren izena (SMTP) (adibidez, &quot;smtp.adibide.net&quot;).">
 <!ENTITY smtpServerLabel.label "ePosta Bidaltzeko Zerbitzaria:">
@@ -61,12 +54,6 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY nntpType.label "Berri Zerbitzaria">
-<!-- for when the user has an SMTP server pre-configured -->
-<!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
-     this variable. Also, translate currentSmtpBefore.label and currentSmtpAfter.label as a single sentence,
-    inserting text after the "&quot;" entity in currentSmtpAfter.label, if required grammatically
--->
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
@@ -104,7 +91,6 @@
 <!ENTITY accnameTitle.label "Kontuaren Izena">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Idatzi kontu hau izendatzeko erabili nahi duzun testua (adibidez, &quot;Laneko Kontua&quot;, &quot;Etxeko kontua&quot; edo &quot;Berrien Kontua&quot;).">
-<!ENTITY accnameExample.label "Adibidez, Laneko kontua, etxeko kontua edo Berri kontua">
 <!ENTITY accnameLabel.label "Kontuaren Izena:">
 <!ENTITY accnameLabel.accesskey "K">
 <!-- Entities for Done (Congratulations) page -->

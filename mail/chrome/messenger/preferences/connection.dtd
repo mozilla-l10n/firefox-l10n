@@ -1,28 +1,24 @@
-<!ENTITY connectionsDialog.title "Konexio ezarpenak">
+<!ENTITY connectionsDialog.title "Konexio-ezarpenak">
 <!ENTITY window.width "46em">
 
 <!ENTITY proxyTitle.label "Konfiguratu internetera sartzeko proxy-ak">
-<!ENTITY noProxyTypeRadio.label "No proxy">
+<!ENTITY noProxyTypeRadio.label "Proxy-rik ez">
 <!ENTITY noProxyTypeRadio.accesskey "y">
-<!ENTITY systemTypeRadio.label "Use system proxy settings">
-<!ENTITY systemTypeRadio.accesskey "u">
-<!ENTITY WPADTypeRadio.label "Sare honetako proxy ezarpenak automatikoki detektatu">
-<!ENTITY WPADTypeRadio.accesskey "d">
-<!ENTITY manualTypeRadio.label "Eskuzko proxy konfigurazioa:">
-<!ENTITY manualTypeRadio.accesskey "e">
+<!ENTITY systemTypeRadio.label "Erabili sistemaren proxy-ezarpenak">
+<!ENTITY systemTypeRadio.accesskey "e">
+<!ENTITY WPADTypeRadio.label "Automatikoki detektatu sare honetako proxy-ezarpenak">
+<!ENTITY WPADTypeRadio.accesskey "s">
+<!ENTITY manualTypeRadio.label "Eskuzko proxy-konfigurazioa:">
+<!ENTITY manualTypeRadio.accesskey "s">
 <!ENTITY autoTypeRadio.label "Proxy-aren konfigurazio automatikoko URLa:">
 <!ENTITY autoTypeRadio.accesskey "A">
 <!ENTITY reload.label "Berritu">
 <!ENTITY reload.accesskey "b">
-<!ENTITY ftp.label "FTP Proxy-a:">
-<!ENTITY ftp.accesskey "f">
-<!ENTITY gopher.label "Gopher Proxy-a:">
-<!ENTITY gopher.accesskey "g">
-<!ENTITY http.label "HTTP Proxy-a:">
+<!ENTITY http.label "HTTP proxy-a:">
 <!ENTITY http.accesskey "h">
-<!ENTITY ssl.label "SSL Proxy-a:">
+<!ENTITY ssl.label "SSL proxy-a:">
 <!ENTITY ssl.accesskey "s">
-<!ENTITY socks.label "SOCKS Ostalaria:">
+<!ENTITY socks.label "SOCKS ostalaria:">
 <!ENTITY socks.accesskey "c">
 <!ENTITY socks4.label "SOCKS v4">
 <!ENTITY socks4.accesskey "k">
@@ -37,5 +33,5 @@
 <!ENTITY noproxy.label "Proxy-rik ez hauentzat:">
 <!ENTITY noproxy.accesskey "n">
 <!ENTITY noproxyExplain.label "Adibidez: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY shareproxy.label "Proxy zerbitzari hau erabili protokolo guztientzako">
+<!ENTITY shareproxy.label "Erabili proxy hau protokolo guztientzako">
 <!ENTITY shareproxy.accesskey "x">

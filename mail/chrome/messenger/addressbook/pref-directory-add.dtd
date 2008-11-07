@@ -48,12 +48,9 @@
 <!ENTITY directorySecure.accesskey "E">
 <!ENTITY directoryLogin.label "DNa lotu: ">
 <!ENTITY directoryLogin.accesskey "l">
-<!ENTITY advancedOptionsButton.label "Aukera aurreratuak">
-<!ENTITY advancedOptionsButton.accesskey "a">
 <!ENTITY General.tab "Orokorra">
 <!ENTITY Offline.tab "Lineaz kanpo">
 <!ENTITY Advanced.tab "Aurreratua">
-<!ENTITY advancedOptionsTitle.label "Aukera aurreratuak">
 <!ENTITY portNumber.label "Ataka-zenbakia: ">
 <!ENTITY portNumber.accesskey "a">
 <!ENTITY searchFilter.label "Bilaketa iragazkia: ">
