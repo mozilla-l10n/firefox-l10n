@@ -128,3 +128,5 @@
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY saveVideoCmd.label           "Save Video As…">
 <!ENTITY saveVideoCmd.accesskey       "v">
+<!ENTITY copyVideoURLCmd.label        "Copy Video Location">
+<!ENTITY copyVideoURLCmd.accesskey    "o">

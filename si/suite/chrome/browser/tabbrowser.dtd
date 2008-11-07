@@ -11,4 +11,6 @@
 <!ENTITY  reloadTab.accesskey         "r">
 <!ENTITY  undoCloseTab.label          "වැසීම අහෝසි කරන්න">
 <!ENTITY  undoCloseTab.accesskey      "U">
-<!ENTITY  newTabButton.tooltip        "නව ටැබයක් විවෘත කරන්න">
+<!ENTITY  newTabButton.tooltip        "නව ටැබයක් විවෘත කරන්න"><!ENTITY  bookmarkGroup.label    "Bookmark This Group of Tabs">
+<!ENTITY  bookmarkGroup.accesskey  "B">
+<!ENTITY  closeTabButton.tooltip   "Close current tab">
