@@ -58,3 +58,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey2 "">
 <!ENTITY viewMenu.accesskey "ת">
 <!ENTITY viewMenu.label "תצוגה">
+
+<!ENTITY backCmd.label "אחורה">
+<!ENTITY backCmd.accesskey "א">
+<!ENTITY forwardCmd.label "קדימה">
+<!ENTITY forwardCmd.accesskey "ק">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
