@@ -1,0 +1,18 @@
+<!ENTITY securityTitle.label         "Turvalisus">
+<!ENTITY securityHeading.label       "Krüptitud kirjade saatmiseks ja vastuvõtuks pead määrama nii digitaalse allkirjastussertifikaadi kui krüptimissertifikaadi.">
+<!ENTITY encryptionGroupTitle.label  "Krüptimine">
+<!ENTITY encryptionChoiceLabel.label "Saadetavate kirjade vaikimisi krüptimise sätted:">
+<!ENTITY neverEncrypt.label          "mitte kunagi (krüptimist ei kasutata)">
+<!ENTITY alwaysEncryptMessage.label  "nõutud (kirja ei saa saata, kui kõigil vastuvõtjatel ei ole sertifikaate)">
+<!ENTITY encryptionCert.message      "Kirjade krüptimiseks ja lahtikrüptimiseks kasutatakse järgmist sertifikaati:">
+<!ENTITY certificate.button          "Vali...">
+<!ENTITY certificate_clear.button    "Puhasta">
+<!ENTITY signingGroupTitle.label     "Digiallkirjastamine">
+<!ENTITY signMessage.label           "Kirjad digiallkirjastatakse (vaikimisi)">
+<!ENTITY signingCert.message         "Saadetavate kirjade allkirjastamiseks kasutatakse järgmist sertifikaati:">
+
+<!ENTITY certificates.label          "Sertifikaadid">
+<!ENTITY managecerts.label           "Kuva sertifikaate">
+<!ENTITY managecerts.accesskey       "K">
+<!ENTITY managedevices.label         "Turvaseadmed">
+<!ENTITY managedevices.accesskey     "T">
