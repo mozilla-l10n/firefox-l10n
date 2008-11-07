@@ -7,14 +7,14 @@
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
 <!ENTITY clearDuration.label             "Eemaldatakse ">
-<!ENTITY clearDuration.lastHour          "viimane tund">
-<!ENTITY clearDuration.last2Hours        "vanemad kui 2 tundi">
-<!ENTITY clearDuration.last4Hours        "vanemad kui 4 tundi">
-<!ENTITY clearDuration.today             "minu tänane ajalugu">
-<!ENTITY clearDuration.everything        "kogu mu ajalugu">
+<!ENTITY clearDuration.lastHour          "viimase tunni">
+<!ENTITY clearDuration.last2Hours        "viimase 2 tunni">
+<!ENTITY clearDuration.last4Hours        "viimase 4 tunni">
+<!ENTITY clearDuration.today             "minu tänasest">
+<!ENTITY clearDuration.everything        "tervest minu">
 <!-- Localization note (clearDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearDuration.suffix            "">
+<!ENTITY clearDuration.suffix            "ajaloost">
 
 <!ENTITY historySection.label            "Ajalugu">
 <!ENTITY dataSection.label               "Andmed">
