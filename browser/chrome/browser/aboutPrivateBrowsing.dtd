@@ -1,0 +1,13 @@
+<!ENTITY privatebrowsingpage.tabtitle                  "व्यक्तिगत संचारन">
+
+<!ENTITY privatebrowsingpage.pagetitle                 "व्यक्तिगत संचारन">
+
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; या सत्रकरीता इतिहास स्मर्णीस ठेवणार नाही.">
+<!ENTITY privatebrowsingpage.longDesc                  "संचारन सत्रवेळी &brandShortName; द्वारे इतिहास संग्रहीत केले जाणार नाही.  या अंतर्गत ब्राऊजर इतिहास, शोध इतिहास, डाऊनलोड इतिहास, वेब फॉर्म इतिहास, व तात्पुर्ते इन्टरनेट फाइल समाविष्टीत आहे.  तरी, तुम्ही डाऊनलोड केलेले फाइल व बनविलेले ओळकचिन्ह संचयीत केले जातिल.">
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "तुम्ही अलिकडील इतिहास नष्ट करून सुरूवात करू शकता.">
+<!ENTITY privatebrowsingpage.recentHistory.label       "अलिकडील इतिहास नष्ट करा">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey   "C">
+
+<!ENTITY privatebrowsingpage.howToStopDesc             "व्यक्तिगत संचारन थांबविण्याकरीता, साधन &gt; व्यक्तिगत संचारन निवडू नका.">
+<!ENTITY privatebrowsingpage.footerDesc                "मजा घ्या!">
