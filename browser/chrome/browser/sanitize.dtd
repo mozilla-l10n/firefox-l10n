@@ -1,21 +1,8 @@
-<!ENTITY sanitizeDialog.title "व्यक्तिगत माहिती पुसून टाका">
 <!ENTITY sanitizeItems.label "हे घटक आता पुसुन टाका:">
-<!ENTITY itemHistory.label "इतिहासाचा संचार">
-<!ENTITY itemHistory.accesskey "B">
 <!ENTITY itemPasswords.label "पासवर्ड संचयीत केले">
 <!ENTITY itemPasswords.accesskey "P">
 <!ENTITY itemCookies.label "कुकीज">
 <!ENTITY itemCookies.accesskey "C">
-<!ENTITY itemCache.label "कॅश">
-<!ENTITY itemCache.accesskey "a">
-<!ENTITY itemDownloads.label "इतिहास डाउनलोड करा">
-<!ENTITY itemDownloads.accesskey "D">
-<!ENTITY itemSessions.label "विश्वसनीय कार्यकाळ">
-<!ENTITY itemSessions.accesskey "S">
-<!ENTITY itemFormSearchHistory.accesskey "F">
-<!ENTITY itemFormSearchHistory.label  "फार्म व इतिहास शोध जतन केले">
-
 <!ENTITY itemOfflineApps.label        "ऑफलाइन संकेतस्थळ माहिती">
 <!ENTITY itemOfflineApps.accesskey    "O">
 <!ENTITY window.width                 "30em">
-<!ENTITY clearDataSettings.label      "&brandShortName; ला व्यक्तिगत माहिती पुसून टाकायची विनंती केल्यास, माहिती हटवून टाका:">

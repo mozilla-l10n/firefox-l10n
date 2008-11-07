@@ -36,8 +36,6 @@
 
 <!ENTITY filterPrefs.label "चाळण:">
 <!ENTITY filterPrefs.accesskey "I">
-<!ENTITY showAll.label "सर्व दर्शवा">
-<!ENTITY showAll.accesskey "W">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "प्राधान्याता नाव">

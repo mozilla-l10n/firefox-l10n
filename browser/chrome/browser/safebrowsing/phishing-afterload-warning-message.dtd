@@ -12,7 +12,6 @@
 <!ENTITY safeb.palm.accept.statustext "माझ्या मुख्य पानाकडे स्थानांतरीत व्हा">
 <!ENTITY safeb.palm.decline.label "ह्या सावधानतेस दुर्लक्ष करा">
 <!ENTITY safeb.palm.decline.statustext "सावधानता बंद करा" >
-<!ENTITY safeb.urlbaricon.tooltip "हे पान धोकादायक असू शकते; तपशील करीता क्लिक करा.">
 
 <!ENTITY safeb.palm.notforgery.label2 "हे वेब बनावटीपण नाही…">
 <!ENTITY safeb.palm.report.label "हे स्थळ का रोखले गेले?">

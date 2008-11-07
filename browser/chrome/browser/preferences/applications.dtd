@@ -6,9 +6,3 @@
 
 <!ENTITY  focusSearch1.key        "f">
 <!ENTITY  focusSearch2.key        "k">
-
-<!ENTITY  filter.label            "शोध:">
-<!ENTITY  filter.accesskey        "S">
-
-<!ENTITY  clear.label             "पुसून टाक">
-<!ENTITY  clear.accesskey         "l">

@@ -1,13 +1,8 @@
 <!ENTITY switchToNewTabs.label        "नविन टॅब मध्य लिंक उघडताच, त्वरीत त्याकडे जावे">
 <!ENTITY warnCloseMultipleTabs.label  "एकापेक्षा जास्त टॅब बंद करतेवेळी मला सावध करा">
 <!ENTITY showTabBar.accesskey         "b">
-<!ENTITY inNewWindow.label            "a नविन चौकट">
-<!ENTITY inNewTab.accesskey           "t">
 <!ENTITY warnOpenManyTabs.label       "एकापेक्षा जास्त टॅब उघडतेवेळी मला सावध करा कारण त्यामुळे &brandShortName; हळु होऊ शकतो">
-<!ENTITY inNewTab.label               "एक नविन टॅब">
 <!ENTITY showTabBar.label             "नेहमी टॅब पट्टी दर्शवा">
-<!ENTITY inNewWindow.accesskey        "w">
 <!ENTITY warnOpenManyTabs.accesskey   "o">
 <!ENTITY switchToNewTabs.accesskey    "s">
-<!ENTITY newPagesIn.label             "नविन पाने यात उघडायला हवीत:">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">

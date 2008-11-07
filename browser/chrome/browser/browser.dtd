@@ -143,8 +143,6 @@
 <!ENTITY preferencesCmdUnix.label "प्राधान्यता">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
-<!ENTITY clearPrivateDataCmd.label "वैयक्तिगत माहिती पुसून टाका">
-<!ENTITY clearPrivateDataCmd.accesskey "P">
 
 <!ENTITY viewMenu.label "दृश्य">
 <!ENTITY viewMenu.accesskey "V">
@@ -245,7 +243,6 @@
 <!ENTITY thisFrameMenu.accesskey "h">
 <!-- + is above this key on many keyboards -->
 
-<!ENTITY newTabButton.tooltip "नविन टॅब उघडा">
 <!ENTITY newWindowButton.tooltip " नविन दृश्यचौकट उघडा ">
 <!ENTITY sidebarCloseButton.tooltip "बाजुचीपट्टी बंद करा">
 
@@ -335,8 +332,7 @@
 <!ENTITY copyLinkTextCmd.accesskey    "x">
 <!ENTITY downloadMonitor2.tooltip "डाऊनलोड चौकट उघडण्याकरीता क्लिक करा">
 <!ENTITY urlbar.emptyText             "ओळखचिन्ह व इतिहास">
-<!ENTITY showImageCmd.label           "प्रतिमा दर्शवा">
-<!ENTITY showImageCmd.accesskey       "S">
+
 <!ENTITY showAllHistoryCmd2.label "सर्व इतिहास दर्शवा">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY printFrameCmd.label          "पटलची छपाई करा...">
