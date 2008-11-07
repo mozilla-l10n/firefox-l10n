@@ -15,7 +15,7 @@
 <!ENTITY enableStartPage.accesskey        "N">
 <!ENTITY location.label                   "Adresse:">
 <!ENTITY location1.accesskey               "A">
-<!ENTITY useDefault.label                 "Gjenopprett standard">
+<!ENTITY useDefault.label                 "Still tilbake til standard">
 <!ENTITY useDefault.accesskey             "G">
 
 <!ENTITY bounceSystemDockIcon.label       "Animer startmeny-ikonet (docking-ikonet)">

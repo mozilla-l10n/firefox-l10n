@@ -5,15 +5,11 @@
 <!ENTITY searchSubfolders.accesskey  "u">
 <!ENTITY resetButton.label           "Tøm">
 <!ENTITY resetButton.accesskey       "T">
-<!ENTITY optionsButton.label         "Innstillingar">
-<!ENTITY closeButton.label           "Lat att">
 <!ENTITY openButton.label            "Opne">
 <!ENTITY openButton.accesskey        "O">
 <!ENTITY deleteButton.label          "Slett">
 <!ENTITY deleteButton.accesskey      "S">
 <!ENTITY searchDialogTitle.label     "Søk i meldingar">
-<!ENTITY conditionDesc.label         "Søk i meldingar som passar:">
-<!ENTITY conditions.label            "Kriterium">
 <!ENTITY results.label               "Resultat">
 <!ENTITY fileHereMenu.label          "Arkiver her">
 <!ENTITY fileHereMenu.accesskey      "A">
@@ -46,7 +42,6 @@
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Storleik">
 <!ENTITY junkStatusColumn.label "Uønskt">
-<!ENTITY linesColumn.label "Linjer">
 <!ENTITY unreadColumn.label "Ikkje lese">
 <!ENTITY totalColumn.label "Til saman">
 <!ENTITY readColumn.label "Lese">

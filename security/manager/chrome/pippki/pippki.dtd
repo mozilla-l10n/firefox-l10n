@@ -56,7 +56,7 @@
 
 <!-- These should be common -->
 <!ENTITY piperror.title "Feil">
-<!ENTITY pipalert.title "Feil - kunne ikkje gjenopprette">
+<!ENTITY pipalert.title "Feil - kunne ikkje byggje opp att">
 
 <!-- Prefs panel strings -->
 <!ENTITY pref.security.general.lHeader "Sikkerheit">

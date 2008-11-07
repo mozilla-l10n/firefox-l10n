@@ -1,0 +1,65 @@
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.pagetitle       "about:rights">
+<!ENTITY rights.intro-header    "Om dine rettar">
+<!ENTITY rights.intro "&brandFullName; er programvare basert på fri og open kjeldekode, som er bygd av eit fellesskap av tusenvis rundt om i heile verda. Det er nokre ting du bør vere merksam på:">
+
+<!-- Note on pointa / pointb / pointc form:
+     These points each have an embedded link in the HTML, so each point is
+     split into chunks for text before the link, the link text, and the text
+     after the link. If a localized grammar doesn't need the before or after
+     chunk, it can be left blank.
+
+     Also note the leading/trailing whitespace in strings here, which is
+     deliberate for formatting around the embedded links. -->
+<!ENTITY rights.intro-point1a "&brandShortName; er gjort tilgjengeleg for deg under vilkåra i ">
+<!ENTITY rights.intro-point1b "Mozilla Public License">
+<!ENTITY rights.intro-point1c ". Dette tyder at du kan bruke, kopiere og distribuere &brandShortName; til andre. Du kan også endre kjeldekoden til &brandShortName; som du vil, for å passe til dine behov. Mozilla Public License gjev deg også rett til å distribuere endra versjonar.">
+
+<!ENTITY rights.intro-point2a "Mozilla gjev deg ikkje rett til å bruke Mozilla- eller Firefox-varemerka eller logoar. Meir informasjon om varemerke kan du finne">
+<!ENTITY rights.intro-point2b "her">
+<!ENTITY rights.intro-point2c ".">
+
+<!-- point 3 text for official branded builds -->
+<!ENTITY rights.intro-point3a "Personvernerklæring for &vendorShortName; sine produkt kan du finne ">
+<!ENTITY rights.intro-point3b "her">
+<!ENTITY rights.intro-point3c ".">
+
+<!-- point 3 text for unbranded builds -->
+<!ENTITY rights.intro-point3-unbranded "Informasjon om personvernerklæring for dette produktet bør vere oppført her.">
+
+<!-- point 4 text for official branded builds -->
+<!ENTITY rights.intro-point4a "&brandShortName; gjev deg også valfrie nettside-informasjonstenester, som mellom anna SafeBrowsing-tenesta; vi kan likevel ikkje garantere at dei er 100&#37; nøyaktige eller feilfrie. Meir informasjon, også om korleis tenestene kan slåast av, kan du finne i ">
+<!ENTITY rights.intro-point4b "tenestevilkåra">
+<!ENTITY rights.intro-point4c ".">
+
+<!-- point 4 text for unbranded builds -->
+<!ENTITY rights.intro-point4a-unbranded "Dersom dette produktet omfattar nett-tenester, så bør tenestevilkår for tenestene lenkjast opp til ">
+<!ENTITY rights.intro-point4b-unbranded "Nett-tenester">
+<!ENTITY rights.intro-point4c-unbranded "-seksjonen.">
+
+<!ENTITY rights.webservices-header "&brandFullName; Nett-tenester">
+
+<!-- Note that this paragraph references a couple of entities from
+     preferences/security.dtd, so that we can refer to text the user sees in
+     the UI, without this page being forgotten every time those strings are
+     updated.  -->
+<!-- intro paragraph for branded builds -->
+<!ENTITY rights.webservices-a "&brandFullName; brukar nett-tenester (&quot;Tjenester&quot;), som mellom anna SafeBrowsing-tenesta, som er tilgjengeleg for deg i den binære versjonen av &brandShortName; som skildra nedanfor. Dersom du ikkje ønskjer å bruke Tenestene, eller om vilkåra nedanfor ikkje er akseptable, kan du slå av SafeBrowsing-tenesta frå Program-innstillingane, ved å velje ">
+<!ENTITY rights.webservices-b "Sikerheit">
+<!ENTITY rights.webservices-c " -seksjonen, og deretter fjerne avkryssingane frå &quot;&blockAttackSites.label;&quot; og &quot;&blockWebForgeries.label;&quot;">
+
+<!-- intro paragraph for unbranded builds -->
+<!ENTITY rights.webservices-unbranded "Ei oversikt over nett-tenestene som dette produktet inneheld, samt informasjon om korleis du kan slå dei av, bør inkluderast her.">
+
+<!-- point 1 text for unbranded builds -->
+<!ENTITY rights.webservices-term1-unbranded "Andre tenestevilkår for dette produktet bør førast opp her.">
+
+<!-- points 1-7 text for branded builds -->
+<!ENTITY rights.webservices-term1 "&vendorShortName; og bidragsytarane deira, lisensgjevarar og partnarar jobbar for å tilby den mest oppdaterte og nøyaktige informasjonen om skadeleg programvare og phishing. Dei kan likevel diverre ikkje garantere at informasjonen dekkjer alt, eller er feilfri: Nokre risikable nettstader er kan hende ikkje oppdaga enno, og nokre trygge nettstader kan feilaktig ha blitt klassifiserte som risikable.">
+<!ENTITY rights.webservices-term2 "&vendorShortName; kan avbryte eller endre Tenestene etter eige ønskje.">
+<!ENTITY rights.webservices-term3 "Du er velkomen til å bruke desse Tenestene med den medfølgjande versjonen av &brandShortName;, og du har alle rettar for å gjere det. &vendorShortName; og dess lisensgjevarar reserverer alle andre rettar til Tenestene. Desse vilkåra er ikkje meint for å avgrense rettane som er gjevne under open kjeldekode-lisensane som er knytta til &brandShortName;, og den tilhøyrande kjeldekodeutgåva av &brandShortName;.">
+<!ENTITY rights.webservices-term4 "Tenestene er tilbydde &quot;som-de-er.&quot; &vendorShortName;, bidragsytarane, lisensgjevarane og distributørane gjev ingen garantiar, verken eksplisitt eller implisitt, inkludert utan avgrensingar, garantiar for at Tenestene skal passe til dine føremål. Du har den fulle og heile risikoen for å velje Tenestene for å oppnå dine føremål, samt for kvaliteten og ytinga til Tenstene. Nokre jurisdiksjonar tillèt ikkje at implisitte garantiar vert ekskluderte, så dettee dementiet gjeld kanskje ikkje deg.">
+<!ENTITY rights.webservices-term5 "Med unntak av der det er påkravd av lova, &vendorShortName;, dess bidragsytarar, lisensgjevarar og distributørar er ikkje ansvarlege for nokon indirekte, spesiell, tilfeldig, følgjeleg, strafferettsleg eller mønstergyldige skadar eller ulemper som skjer som ei følgje av eller relatert til bruk av &brandShortName; og Tenestene. Det kollektive ansvaret i desse vilkåra vil ikkje overstige $500 (fem hundre amerikanske dollar). Nokre jurisdiksjonar tillèt ikkje eksklusjon eller avgrensing av enkelte former av skade, så det er mogleg desse eksklusjonane og avgrensingane ikkje gjeld deg.">
+<!ENTITY rights.webservices-term6 "&vendorShortName; kan oppdatere desse vilkåra etter behov med jamne mellomrom. Vilkåra kan ikkje verte endra eller annullerte utan skriftleg avtale frå &vendorShortName;.">
+<!ENTITY rights.webservices-term7 "Desse vilkåra er underlagt lova til staten California, U.S.A., med unntak av der lovpålegg krev unntak. Dersom nokre av desse vilkåra viser seg å vere ugyldige eller ikkje rettskraftige, vil dei attverande delane framleis ha effekt. Dersom det er avvik mellom ein omsett versjon av desse vilkåra og den engelske utgåva, vil den engelske utgåva gjelde.">
