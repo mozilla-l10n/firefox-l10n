@@ -54,7 +54,6 @@
 <!ENTITY messageIdField2.label "mezu-id-a ">
 <!ENTITY inReplyToField2.label "honen-erantzun ">
 <!ENTITY originalWebsite2.label "webgunea ">
-<!ENTITY saveAll.label "Gorde dena…">
 
 <!ENTITY editMessageDescription.label "Mezua zirriborroa da">
 <!ENTITY editMessageButton.label "Editatu...">

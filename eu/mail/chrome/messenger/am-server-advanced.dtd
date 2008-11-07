@@ -1,6 +1,4 @@
 <!ENTITY serverAdvanced.label "Kontu hobespen aurreratuak">
-<!-- LOCALIZATION NOTE (imapAdvanced.label): Do not translate "IMAP" -->
-<!ENTITY imapAdvanced.label "IMAP zerbitzarien hobespen aurreratuak">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP zerbitzari direktorioa:">
 <!ENTITY serverDirectory.accesskey "d">
@@ -23,7 +21,6 @@
 <!ENTITY overrideNamespaces.label "Onartu zerbitzariari izen hauek gainidaztea">
 <!ENTITY overrideNamespaces.accesskey "A">
 <!ENTITY pop3Desc.label "Zerbitzari honetatik pop posta deskargatzean, hurrengo karpeta erabili posta berriarentzat:">
-<!ENTITY folderStorage.label "Posta non gorde">
 <!ENTITY globalInbox.label "Postakutxa Orokorra (Karpeta Lokalak kontua)">
 <!ENTITY globalInbox.accesskey "O">
 <!ENTITY accountDirectory.label "Zerbitzari kontu honen postakutxa">

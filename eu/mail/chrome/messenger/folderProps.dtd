@@ -52,7 +52,6 @@
 <!ENTITY retention.label "Gordetze-politika">
 <!ENTITY retentionUseDefault.label "Erabili zerbitzariak lehenetsitakoa">
 <!ENTITY retentionUseDefault.accesskey "l">
-<!ENTITY days.label "egun">
 <!ENTITY daysOld.label "egun">
 <!ENTITY message.label "mezu">
 <!ENTITY retentionCleanup.label "Disko lekua berreskuratzeko, mezu zaharrak betirako ezaba daitezke">
@@ -76,18 +75,15 @@
 
 <!ENTITY selectofflineNewsgroup.check.label "Hautatu berri-talde hau lineaz kanpo erabiltzeko">
 <!ENTITY selectofflineNewsgroup.check.accesskey "l">
-<!ENTITY UseDefaultofflineNewsgroup.check.label "Erabili kontu-ezarpenetako lehenetsia ">
 <!ENTITY offlineNewsgroup.button.label "Jaitsi orain">
 <!ENTITY offlineNewsgroup.button.accesskey "J">
 
-<!ENTITY folderProps.information.label "Informazioa:">
 <!ENTITY folderProps.name.label "Izena:">
 <!ENTITY folderProps.name.accesskey "I">
 <!ENTITY folderProps.location.label "Kokalekua:">
 <!ENTITY folderProps.location.accesskey "L">
 
 <!ENTITY folderSharingTab.label "Partekatzea">
-<!ENTITY privilegesDesc.label "Partekatu karpeta hau eta besteak sareko erabiltzaileekin eta bistaratu eta ezarri atzitze pribilegioak">
 <!ENTITY privileges.button.label "Pribilegioak...">
 <!ENTITY privileges.button.accesskey "P">
 <!ENTITY permissionsDesc.label "Hurrengo baimenak dituzu:">

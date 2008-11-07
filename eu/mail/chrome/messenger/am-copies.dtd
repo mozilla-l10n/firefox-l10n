@@ -6,13 +6,9 @@
 <!ENTITY fccMailFolder.accesskey "G">
 <!ENTITY fccReplyFollowsParent.label "Place replies in the folder of the message being replied to">
 <!ENTITY fccReplyFollowsParent.accesskey "o">
-<!ENTITY chooseFolderButton.label "Aukeratu karpeta...">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Ezkutuko Kopia bidali helbide hauetara:">
 <!ENTITY bccAddress.accesskey "E">
-<!ENTITY specialFolderTitle.label "Karpeta bereziak">
-<!ENTITY draftMailFolder.label "Gorde zirriborroak hemen:">
-<!ENTITY templateMailFolder.label "Gorde txantiloiak hemen:">
 <!ENTITY saveMessageDlg.label "Erakutsi berresteko elkarrizketa-koadroa mezuak gordetzean">
 <!ENTITY saveMessageDlg.accesskey "s">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

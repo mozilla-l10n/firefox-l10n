@@ -5,15 +5,11 @@
 <!ENTITY searchSubfolders.accesskey "l">
 <!ENTITY resetButton.label "Garbitu">
 <!ENTITY resetButton.accesskey "G">
-<!ENTITY optionsButton.label "Aukerak">
-<!ENTITY closeButton.label "Itxi">
 <!ENTITY openButton.label "Ireki">
 <!ENTITY openButton.accesskey "i">
 <!ENTITY deleteButton.label "Ezabatu">
 <!ENTITY deleteButton.accesskey "E">
 <!ENTITY searchDialogTitle.label "Mezuak bilatu">
-<!ENTITY conditionDesc.label "Bilatu hau betetzen duten mezuak:">
-<!ENTITY conditions.label "Irizpideak">
 <!ENTITY results.label "Emaitzak">
 <!ENTITY fileHereMenu.label "Gorde hemen">
 <!ENTITY fileHereMenu.accesskey "R">
@@ -46,7 +42,6 @@
 <!ENTITY statusColumn.label "Egoera">
 <!ENTITY sizeColumn.label "Tamaina">
 <!ENTITY junkStatusColumn.label "Zabor-postaren Egoera">
-<!ENTITY linesColumn.label "Lerroak">
 <!ENTITY unreadColumn.label "Irakurri gabeak">
 <!ENTITY totalColumn.label "Guztira">
 <!ENTITY readColumn.label "Irakurrita">

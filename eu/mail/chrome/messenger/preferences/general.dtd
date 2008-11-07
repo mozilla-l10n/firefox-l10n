@@ -1,5 +1,5 @@
-<!ENTITY systemDefaults.label "Sistema lehenespenak">
-<!ENTITY alwaysCheckDefault.label "Beti egiaztatu &brandShortName; lehenetsiriko eposta bezeroa den.">
+<!ENTITY systemDefaults.label "Sistemaren lehenespenak">
+<!ENTITY alwaysCheckDefault.label "Egiaztatu abiaraztean &brandShortName; lehenetsitako posta-bezeroa dela.">
 <!ENTITY alwaysCheckDefault.accesskey "l">
 <!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
   There's some sort of bug which makes wrapping checkboxes not properly reflow,
@@ -24,13 +24,12 @@
 <!ENTITY newMessagesArrive.label "Mezu berri bat iristerakoan:">
 <!ENTITY playSound.label "Soinu bat erreproduzitu">
 <!ENTITY playSound1.accesskey "d">
-<!ENTITY showAnimatedAlert.label "Abisu bat erakutsi">
+<!ENTITY showAnimatedAlert.label "Erakutsi abisua">
 <!ENTITY showAnimatedAlert.accesskey "S">
 <!ENTITY customizeMailAlert.label "Pertsonalizatu...">
 <!ENTITY customizeMailAlert.accesskey "P">
 
-<!ENTITY soundNotification1.caption "Sound">
-<!ENTITY play.label "Play">
+<!ENTITY play.label "Erreproduzitu">
 <!ENTITY play.accesskey "P">
 <!ENTITY systemsound.label "SLehentsitako sistema soinua posta berriarentzat">
 <!ENTITY systemsoundMac.label "Sistema alerta soinua">

@@ -3,7 +3,6 @@
 <!ENTITY accountTitle.label "Kontu Ezarpenak">
 <!ENTITY accountName.label "Kontuaren Izena:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY accountNameDesc.label "Kontuaren izena kontu bakoitza identifikatzeko erabiltzen da">
 <!ENTITY identityTitle.label "Lehenetsitako Nortasuna">
 <!ENTITY identityDesc.label "Kontu bakoitzak nortasun bat du, zeina beste jendeak zure mezuak irakurtzen dituenean ikusten duen informazioa den.">
 <!ENTITY name.label "Zure izena:">

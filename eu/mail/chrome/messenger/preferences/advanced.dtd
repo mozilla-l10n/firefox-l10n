@@ -1,42 +1,40 @@
 <!ENTITY itemGeneral.label "Orokorra">
-<!ENTITY itemDisplay.label "Reading &amp; Display">
+<!ENTITY itemDisplay.label "Irakurri eta bistaratzea">
 <!ENTITY itemUpdate.label "Eguneraketa">
-<!ENTITY itemNetworking.label "Network &amp; Disk Space">
+<!ENTITY itemNetworking.label "Sare eta diskoko lekua">
 <!ENTITY itemCertificates.label "Ziurtagiriak">
 <!-- General Settings -->
 
 
-<!ENTITY showCondensedAddresses.label "Ikusi nire helbide liburuko pertsonen bistarazte izena bakarrik">
+<!ENTITY showCondensedAddresses.label "Erakutsi nire helbide liburuko pertsonen bistarazte-izena bakarrik">
 <!ENTITY showCondensedAddresses.accesskey "p">
 
-<!ENTITY autoMarkAsRead.label "Automatically mark messages as read">
+<!ENTITY autoMarkAsRead.label "Markatu automatikoki mezuak irakurrita gisa">
 <!ENTITY autoMarkAsRead.accesskey "A">
-<!ENTITY markAsReadNoDelay.label "Immediately on display">
-<!ENTITY markAsReadNoDelay.accesskey "d">
+<!ENTITY markAsReadNoDelay.label "Bistaratu bezain laster">
+<!ENTITY markAsReadNoDelay.accesskey "b">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label "After displaying for">
+<!ENTITY markAsReadDelay.label "Denbora batez bistaratu eta gero:">
 <!ENTITY markAsReadDelay.accesskey "e">
-<!ENTITY secondsLabel.label "segundu">
-<!ENTITY showFolderColumns.label "Erakutsi zabaldutako zutabeak karpeta panelean">
+<!ENTITY secondsLabel.label "segundo">
+<!ENTITY showFolderColumns.label "Erakutsi zabaldutako zutabeak karpeten panelean">
 <!ENTITY showFolderColumns.accesskey "k">
-<!ENTITY openMsgIn.label "Ireki mezuak hemen:">
-<!ENTITY reuseExpRadio0.label "Mezu leiho berri batean">
+<!ENTITY openMsgIn.label "Ireki mezuak:">
+<!ENTITY reuseExpRadio0.label "Mezu-leiho berri batean">
 <!ENTITY reuseExpRadio0.accesskey "h">
-<!ENTITY reuseExpRadio1.label "Dagoen mezu leihoan">
+<!ENTITY reuseExpRadio1.label "Dagoen mezu-leihoan">
 <!ENTITY reuseExpRadio1.accesskey "d">
-<!ENTITY reuseExpRadio2.label "A new message tab">
-<!ENTITY reuseExpRadio2.accesskey "Z">
-<!ENTITY configEditDesc.label "Konfigurazio Aurreratua">
-<!ENTITY configEdit.label "Konfigurazio Editorea...">
+<!ENTITY configEditDesc.label "Konfigurazio aurreratua">
+<!ENTITY configEdit.label "Konfigurazio-editorea...">
 <!ENTITY configEdit.accesskey "g">
-<!ENTITY returnReceiptsInfo.label "Determine how &brandShortName; handles return receipts">
-<!ENTITY showReturnReceipts.label "Return Receipts...">
+<!ENTITY returnReceiptsInfo.label "Zehaztu hartu-agiriak nola kudeatzen dituen &brandShortName;(e)k">
+<!ENTITY showReturnReceipts.label "Hartu-agiriak...">
 <!ENTITY showReturnReceipts.accesskey "R">
 <!-- Display and Reading Settings -->
 
-<!ENTITY reading.caption "Reading">
+<!ENTITY reading.caption "Irakurtzea">
 <!ENTITY display.caption "Bistaratu">
 <!-- Update -->
 
@@ -84,11 +82,11 @@
 <!ENTITY clearCacheNow.accesskey "G">
 <!-- Certificates -->
 
-<!ENTITY viewCertificates.label "View Certificates">
+<!ENTITY viewCertificates.label "Ikusi ziurtagiriak">
 <!ENTITY viewCertificates.accesskey "a">
-<!ENTITY viewCRLs.label "Revocation Lists">
+<!ENTITY viewCRLs.label "Baliogabetze zerrendak">
 <!ENTITY viewCRLs.accesskey "e">
-<!ENTITY validation.label "Validation">
-<!ENTITY validation.accesskey "d">
-<!ENTITY viewSecurityDevices.label "Security Devices">
+<!ENTITY validation.label "Egiaztapena">
+<!ENTITY validation.accesskey "g">
+<!ENTITY viewSecurityDevices.label "Segurtasun-gailuak">
 <!ENTITY viewSecurityDevices.accesskey "u">

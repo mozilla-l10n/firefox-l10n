@@ -6,12 +6,8 @@
 <!ENTITY addAccountButton.accesskey "G">
 <!ENTITY setDefaultButton.label "Kontu hau Lehenetsi">
 <!ENTITY setDefaultButton.accesskey "l">
-<!ENTITY duplicateButton.label "Bikoiztu">
 <!ENTITY removeButton.label "Kontua ezabatu">
 <!ENTITY removeButton.accesskey "E">
-
-<!ENTITY nameCol.label "Izena">
-<!ENTITY duplicate.label "Bikoiztu">
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      setting dialog, which specifies the width and height in em units of the dialog.

@@ -36,14 +36,5 @@
  ***** END LICENSE BLOCK ***** -->
 <!-- Labels -->
 
-<!ENTITY subscribechoosethis.label "berri-talde zerbitzari hau aukeratu">
-<!ENTITY subscribeclickhere.label "egin klik hemen berri-zerbitzari bat aukeratzeko">
 <!ENTITY newfolderchoosethis.label "aukeratu hau gurasoarentzat">
-<!ENTITY newfolderclickhere.label "Egin klik hemen hautatzeko">
-<!ENTITY renamefolderchoosethis.label "karpeta hau aukeratu">
-<!ENTITY renamefolderclickhere.label "egin klik hemen karpeta bat aukeratzeko">
 <!ENTITY filemessageschoosethis.label "karpeta hau aukeratu">
-<!ENTITY filemessagesclickhere.label "egin klik hemen karpeta bat aukeratzeko">
-<!ENTITY chooseaccountclickhere.label "Egin klik hemen kontu bat aukeratzeko">
-<!ENTITY choosefolderclickhere.label "Egin klik hemen karpeta bat aukeratzeko">
-<!ENTITY chooseserverToDeferTo.label "egin klik hemen mezuak gordetzeko kontua aukeratzeko">

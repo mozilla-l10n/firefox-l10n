@@ -1,60 +1,54 @@
 <!ENTITY itemGeneral.label "Orokorra">
 <!ENTITY itemAutoComplete.label "Helbideratzea">
 <!ENTITY itemSpellCheck.label "Ortografia">
-<!ENTITY itemSendFormat.label "Bidalketa Formatua">
 
-<!ENTITY forwardReply.label "Mezuak Birbidaltzen">
-<!ENTITY forwardMsg.label "Mezuak Birbidali:">
+<!ENTITY forwardMsg.label "Birbidali mezuak:">
 <!ENTITY forwardMsg.accesskey "b">
 <!ENTITY inline.label "Barruan">
 <!ENTITY inline.accesskey "B">
-<!ENTITY asAttachment.label "Eranskin Bezala">
+<!ENTITY asAttachment.label "Eranskin gisa">
 <!ENTITY asAttachment.accesskey "A">
-<!ENTITY addExtension.label "add extension to file name">
+<!ENTITY addExtension.label "gehitu luzapena fitxategi-izenari">
 <!ENTITY addExtension.accesskey "f">
 
 <!ENTITY htmlComposeHeader.label "HTML">
-<!ENTITY font.label "Font:">
-<!ENTITY font.accesskey "n">
-<!ENTITY size.label "Size:">
-<!ENTITY size.accesskey "z">
-<!ENTITY fontColor.label "Text Color:">
-<!ENTITY fontColor.accesskey "x">
-<!ENTITY bgColor.label "Background Color:">
-<!ENTITY bgColor.accesskey "B">
-<!ENTITY restoreHTMLDefaults.label "Restore Defaults">
+<!ENTITY font.label "Letra-tipoa:">
+<!ENTITY font.accesskey "r">
+<!ENTITY size.label "Tamaina:">
+<!ENTITY size.accesskey "m">
+<!ENTITY fontColor.label "Testuaren kolorea:">
+<!ENTITY fontColor.accesskey "s">
+<!ENTITY bgColor.label "Atzeko planoko kolorea:">
+<!ENTITY bgColor.accesskey "A">
+<!ENTITY restoreHTMLDefaults.label "Berrezarri lehenetsiak">
 <!ENTITY restoreHTMLDefaults.accesskey "R">
 
-<!ENTITY sendingMessagesHeader.label "Mezuak Sortzen">
-<!ENTITY spellCheck.label "Bidali aurretik ortografia egiaztatu">
-<!ENTITY spellCheck.accesskey "O">
-<!ENTITY spellCheckInline.label "Gaitu erabili nahi duzun motako egiazketa">
-<!ENTITY spellCheckInline1.accesskey "k">
+<!ENTITY spellCheck.label "Egiaztatu ortografia bidali aurretik">
+<!ENTITY spellCheck.accesskey "G">
+<!ENTITY spellCheckInline.label "Gaitu ortografia egiaztatzea idatzi ahala">
+<!ENTITY spellCheckInline1.accesskey "r">
 <!ENTITY languagePopup.label "Hizkuntza:">
 <!ENTITY languagePopup.accessKey "z">
-<!ENTITY downloadDictionaries.label "Hiztegi Gehiago Deskargatu">
+<!ENTITY downloadDictionaries.label "Deskargatu hiztegi gehiago">
 
-<!ENTITY warnOnSendAccelKey.label "Mezu bat bidaltzeko laster-teklak erabiltzean Berrespena eskatu">
+<!ENTITY warnOnSendAccelKey.label "Eskatu berrespena mezua bidaltzeko laster-tekla erabiltzean">
 <!ENTITY warnOnSendAccelKey.accesskey "i">
-<!ENTITY autoSave.label "Zenbatero automatikoki gorde: ">
+<!ENTITY autoSave.label "Gorde automatikoki: ">
 <!ENTITY autoSave.accesskey "u">
 <!ENTITY autoSaveEnd.label "minuturo">
 
-<!ENTITY emailCollectionPicker.label "Bidalitako eposta helbideak automaitikoki hemen gehitu:">
+<!ENTITY emailCollectionPicker.label "Gehitu automatikoki bidalitako posta-helbideak:">
 <!ENTITY emailCollectionPicker.accesskey "t">
-<!ENTITY addressingTitle.label "Helbideen Osatze automatikoa">
-<!ENTITY autocompleteText.label "Mezuak helbideratzean, bilatu pareko sarrerak hemen:">
-<!ENTITY addressingEnable.label "Helbide Liburu Lokala">
+<!ENTITY addressingTitle.label "Helbideen osatze automatikoa">
+<!ENTITY autocompleteText.label "Bilatu pareko sarrerak mezuak helbideratzean:">
+<!ENTITY addressingEnable.label "Helbide-liburu lokalean">
 <!ENTITY addressingEnable.accesskey "A">
-<!ENTITY directories.label "Direktorio Zerbitzaria:">
+<!ENTITY directories.label "Direktorio-zerbitzaria:">
 <!ENTITY directories.accesskey "D">
-<!ENTITY directoriesNone.label "None">
-<!ENTITY editDirectories.label "Editatu Direktorioak...">
+<!ENTITY directoriesNone.label "Bat ere ez">
+<!ENTITY editDirectories.label "Editatu direktorioak...">
 <!ENTITY editDirectories.accesskey "E">
-<!ENTITY matchText.label "Zure helbide liburu lokalean pareko bat aurkitzean:">
-<!ENTITY skipDirectory.label "Ez bilatu direktorioan">
 
-<!ENTITY sendOptionsCaption.label "Bidalketa eta HTML Aukerak">
-<!ENTITY sendOptionsDescription.label "Testuaren formatuaren jokabidea konfiguratu">
-<!ENTITY sendOptions.label "Bidalketa Aukerak...">
+<!ENTITY sendOptionsDescription.label "Konfiguratu testuaren formatuaren jokaera">
+<!ENTITY sendOptions.label "Bidalketa aukerak...">
 <!ENTITY sendOptions.accesskey "B">

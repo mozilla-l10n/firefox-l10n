@@ -5,15 +5,12 @@
 
 <!ENTITY newFolderCmd.label "Karpeta...">
 <!ENTITY newFolderCmd.accesskey "K">
-<!ENTITY newTabCmd.label "Fitxa berria">
-<!ENTITY newTabCmd.accesskey "T">
 <!ENTITY closeTabCmd.label "Itxi fitxa">
 <!ENTITY closeTabCmd.accesskey "x">
 <!ENTITY newVirtualFolderCmd.label "Gordetako Bilaketa...">
 <!ENTITY newVirtualFolderCmd.accesskey "G">
 <!ENTITY newAccountCmd.label "Kontua...">
 <!ENTITY newAccountCmd.accesskey "K">
-<!ENTITY openMessageMenu.label "Ireki">
 <!ENTITY openMessageFileCmd.label "Ireki Gordetako Mezua...">
 <!ENTITY openMessageFileCmd.accesskey "I">
 <!ENTITY openAttachmentCmd.label "Eranskinak">
@@ -66,7 +63,6 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Inprimatze Aurrebista">
 <!ENTITY printPreviewCmd.accesskey "b">
-<!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "Prestatu Orria...">
 <!ENTITY printSetupCmd.accesskey "u">
 <!-- Edit Menu -->
@@ -96,7 +92,7 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Mezu izardunak">
 <!ENTITY selectFlaggedCmd.accesskey "Z">
-<!ENTITY menuFavoriteFolder.label "Karpeta Gogokoena">
+<!ENTITY menuFavoriteFolder.label "Karpeta gogokoa">
 <!ENTITY menuFavoriteFolder.accesskey "a">
 <!ENTITY folderPropsCmd.label "Propietateak...">
 <!ENTITY folderPropsFolderCmd.label "Karpetaren Propietateak...">
@@ -130,8 +126,6 @@
 <!ENTITY messagePaneWide.accesskey "Z">
 <!ENTITY messagePaneVertical.label "Bistaratze Bertikala">
 <!ENTITY messagePaneVertical.accesskey "B">
-<!ENTITY threadPaneWide.label "Zerrenda Zabal Bistaratzea">
-<!ENTITY threadPaneWide.accesskey "z">
 <!ENTITY showMessageCmd.label "Mezu Panela">
 <!ENTITY showMessageCmd.accesskey "M">
 
@@ -193,8 +187,6 @@
 <!ENTITY threads.accesskey "h">
 <!ENTITY allMsgsCmd.label "Denak">
 <!ENTITY allMsgsCmd.accesskey "A">
-<!ENTITY expandOrCollapseMenu.label "Zabaldu/Tolestu">
-<!ENTITY expandOrCollapseMenu.accesskey "t">
 <!ENTITY expandAllThreadsCmd.label "Zabaldu hari Guztiak">
 <!ENTITY expandAllThreadsCmd.accesskey "Z">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -258,9 +250,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.accesskey "u">
 <!ENTITY pageSourceCmd.key "u">
 <!-- Search Menu -->
-
-<!ENTITY searchMenu.label "Bilatu">
-<!ENTITY searchMenu.accesskey "B">
 
 <!ENTITY findMenu.label "Aurkitu">
 <!ENTITY findMenu.accesskey "A">
@@ -384,8 +373,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsReadCmd.label "Irakurrita bezala">
 <!ENTITY markAsReadCmd.accesskey "R">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "Irakurri gabe bezala">
-<!ENTITY markAsUnreadCmd.accesskey "G">
 <!ENTITY markThreadAsReadCmd.label "Haria irakurrita bezala">
 <!ENTITY markThreadAsReadCmd.accesskey "H">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -412,7 +399,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Windows Menu -->
 
 <!ENTITY windowMenu.label "Leihoa">
-<!ENTITY windowMenu.accesskey "L">
 <!-- Tools Menu -->
 
 <!ENTITY tasksMenu.label "Tresnak">
@@ -457,7 +443,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY printButton.label "Inprimatu">
 <!ENTITY stopButton.label "Gelditu">
 <!ENTITY throbberItem.title "Aktibitate Adierazlea">
-<!ENTITY updatesItem.title "Eguneraketak">
 <!ENTITY junkButton.label "Zabor-posta">
 <!ENTITY notJunkButton.label "Ez da zaborra">
 <!ENTITY addressBookButton.label "Helbide-liburua">
@@ -469,7 +454,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Mail Toolbar Tooltips-->
 
 <!ENTITY advancedButton.tooltip "Mezuen bilaketa aurreratua">
-<!ENTITY clearButton.tooltip "Garbitu bilaketa irizpidea eta erakutsi mezu guztiak">
 <!ENTITY getMsgButton.tooltip "Hartu mezu berriak">
 <!ENTITY getAllNewMsgCmd.label "Hartu mezu berri guztiak">
 <!ENTITY getAllNewMsgCmd.accesskey "H">
@@ -543,8 +527,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY SearchNameOrEmail.label "Izena edo e-postak badauka:">
 <!ENTITY SearchNameOrEmail.accesskey "I">
-<!ENTITY clearButton.label "Garbitu">
-<!ENTITY clearButton.accesskey "G">
 <!-- Quick Search Menu Bar -->
 
 <!ENTITY searchSubjectMenu.label "Gaia">
@@ -567,7 +549,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY statusColumn.label "Egoera">
 <!ENTITY sizeColumn.label "Tamaina">
 <!ENTITY junkStatusColumn.label "Zabor-posta Egoera">
-<!ENTITY linesColumn.label "Lerroak">
 <!ENTITY unreadColumn.label "Irakurri gabeak">
 <!ENTITY totalColumn.label "Guztira">
 <!ENTITY readColumn.label "Irakurriak">
@@ -628,8 +609,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrint.accesskey "P">
 <!ENTITY contextPrintPreview.label "Inprimatzeko Aurrebista">
 <!ENTITY contextPrintPreview.accesskey "b">
-<!ENTITY contextDelete.label "Ezabatu">
-<!ENTITY contextDelete.accesskey "E">
 <!-- Junk Bar -->
 
 <!ENTITY junkBarMessage1.label "Zabor-posta">
@@ -663,8 +642,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY CopyEmailAddress.accesskey "K">
 <!ENTITY CreateFilterFrom.label "Sortu iragazkia…">
 <!ENTITY CreateFilterFrom.accesskey "S">
-<!ENTITY BlockAddress.label "Blokeatu Helbideak">
-<!ENTITY BlockAddress.accesskey "A">
 <!ENTITY reportPhishingURL.label "E-posta iruzur baten berri eman">
 <!ENTITY reportPhishingURL.accesskey "o">
 <!-- Content Pane Context Menu -->
