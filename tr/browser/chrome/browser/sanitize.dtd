@@ -3,7 +3,7 @@
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!
+
 <!ENTITY itemPasswords.label          "Kayıtlı parolalar">
 <!ENTITY itemPasswords.accesskey      "p">
 <!ENTITY itemCookies.label            "Çerezler">
