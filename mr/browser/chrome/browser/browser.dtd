@@ -372,3 +372,38 @@
 <!ENTITY editBookmark.edit.label                     "संपादन...">
 <!ENTITY editBookmark.edit.accessKey                 "E">
 <!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (व्यक्तिगत संचारन)">
+<!ENTITY clearRecentHistoryCmd.label            "अलिकडील इतिहास नष्ट करा">
+<!ENTITY clearRecentHistoryCmd.accesskey        "H">
+<!ENTITY privateBrowsingCmd.label            "व्यक्तिगत संचारन">
+<!ENTITY privateBrowsingCmd.accesskey        "B">
+<!ENTITY reloadImageCmd.label         "प्रतिमा पुन्ह दाखल करा">
+<!ENTITY reloadImageCmd.accesskey     "R">
+<!ENTITY viewVideoCmd.label           "विडीओ पहा">
+<!ENTITY viewVideoCmd.accesskey       "I">
+<!ENTITY saveVideoCmd.label           "विडीओ यानुरूप पहा…">
+<!ENTITY saveVideoCmd.accesskey       "v">
+<!ENTITY saveAudioCmd.label           "ऑडिओ यानुरूप पहा…">
+<!ENTITY saveAudioCmd.accesskey       "v">
+<!ENTITY sendVideoCmd.label           "विडीओ पाठवा…">
+<!ENTITY sendVideoCmd.accesskey       "n">
+<!ENTITY sendAudioCmd.label           "ऑडिओ पाठवा…">
+<!ENTITY sendAudioCmd.accesskey       "n">
+<!ENTITY copyVideoURLCmd.label        "विडीओ स्थान प्रतिकृत करा">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "ऑडिओ स्थान प्रतिकृत करा">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY mediaPlay.label             "चालवा">
+<!ENTITY mediaPlay.accesskey         "P">
+<!ENTITY mediaPause.label            "स्तब्ध करा">
+<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaMute.label             "मंद करा">
+<!ENTITY mediaMute.accesskey         "M">
+<!ENTITY mediaUnmute.label           "मंद करू नका">
+<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaShowControls.label     "नियंत्रण दर्शवा">
+<!ENTITY mediaShowControls.accesskey "C">
+<!ENTITY mediaHideControls.label     "नियंत्रण लपवा">
+<!ENTITY mediaHideControls.accesskey "C">
+<!ENTITY ctrlTab.search.emptyText "टॅब शोधा">
