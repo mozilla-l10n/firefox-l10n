@@ -161,8 +161,8 @@
 <!ENTITY preferencesCmdUnix.label       "Innstillingar">
 <!ENTITY preferencesCmdUnix.accesskey     "I"> 
 
-<!ENTITY clearPrivateDataCmd.label            "Slett private data">
-<!ENTITY clearPrivateDataCmd.accesskey        "e">
+<!ENTITY clearRecentHistoryCmd.label            "Slett nyleg historikk">
+<!ENTITY clearRecentHistoryCmd.accesskey        "S">
 
 <!ENTITY privateBrowsingCmd.label            "Privat nettlesing">
 <!ENTITY privateBrowsingCmd.accesskey        "B">

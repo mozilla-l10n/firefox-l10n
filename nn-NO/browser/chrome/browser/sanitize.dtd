@@ -1,24 +1,40 @@
-<!ENTITY sanitizeDialog.title         "Fjern private data">
+<!ENTITY sanitizePrefs.title           "Slett private data">
+<!ENTITY sanitizeDialog2.title         "Slett nyleg historikk">
 
 <!ENTITY sanitizeItems.label          "Fjern desse elementa no:">
-<!ENTITY clearDataSettings.label      "Når eg spør &brandShortName; om å slette private data skal han slette:">
+<!ENTITY clearDataSettings2.label     "Når eg avsluttar &brandShortName;, skal følgjande automatisk slettast:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY itemHistory.label            "Nettlesarhistorikk">
-<!ENTITY itemHistory.accesskey        "N">
-<!ENTITY itemFormSearchHistory.label  "Lagra skjema- og søkjehistorikk">
-<!ENTITY itemFormSearchHistory.accesskey "L">
+<!ENTITY clearDuration.label          "Fjern">
+<!ENTITY clearDuration.lastHour       "den siste timen">
+<!ENTITY clearDuration.last2Hours     "dei siste 2 timane">
+<!ENTITY clearDuration.last4Hours     "dei siste 4 timane">
+<!ENTITY clearDuration.today          "min historikk i dag">
+<!ENTITY clearDuration.everything     "all historikk">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix         "">
+
+<!ENTITY historySection.label         "Historikk">
+<!ENTITY dataSection.label            "Data">
+
+<!ENTITY itemVisitedPages.label       "Vitja sider">
+<!ENTITY itemVisitedPages.accesskey   "V">
+<!ENTITY itemFormSearchEntries.label  "Form &amp; Search Entries">
+<!ENTITY itemFormSearchEntries.accesskey "F">
 <!ENTITY itemPasswords.label          "Lagra passord">
 <!ENTITY itemPasswords.accesskey      "L">
 <!ENTITY itemCookies.label            "Informasjonskapslar">
 <!ENTITY itemCookies.accesskey        "I">
-<!ENTITY itemCache.label              "Snøgglager">
-<!ENTITY itemCache.accesskey          "S">
+<!ENTITY itemWebCache.label           "Nettsnøgglager">
+<!ENTITY itemWebCache.accesskey       "N">
 <!ENTITY itemOfflineApps.label        "Fråkopla nettsidedata">
 <!ENTITY itemOfflineApps.accesskey    "F">
-<!ENTITY itemDownloads.label          "Nedlastingshistorikk">
-<!ENTITY itemDownloads.accesskey      "d">
+<!ENTITY itemDownloadList.label       "Last ned liste">
+<!ENTITY itemDownloadList.accesskey   "L">
 <!ENTITY itemActiveLogins.label       "Aktive innloggingar">
 <!ENTITY itemActiveLogins.accesskey   "A">
+
 <!ENTITY window.width                 "30em">
+<!ENTITY column.width                 "14em">
