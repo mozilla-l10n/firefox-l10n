@@ -57,3 +57,10 @@
 <!ENTITY textEnlarge.commandkey3 "">
 <!ENTITY textReduce.commandkey2 "">
 <!ENTITY textReset.commandkey2 "">
+
+<!ENTITY backCmd.label "પાછળ">
+<!ENTITY backCmd.accesskey "B">
+<!ENTITY forwardCmd.label "આગળ">
+<!ENTITY forwardCmd.accesskey "F">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">

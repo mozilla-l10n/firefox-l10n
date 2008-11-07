@@ -15,3 +15,5 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label "પ્લગ-ઇન વિશે વધુ શોધો અથવા જાતે ખૂટતી પ્લગ-ઇન શોધો.">
 <!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; ને પ્લગ-ઇન કામ કરવા માટે ફરી શરુ કરવુ પડશે.">
 <!ENTITY missingPlugin.label                                 "પ્લગઈન ડાઉનલોડ કરવા માટે અંહિ ક્લિક કરો.">
+<!ENTITY disabledPlugin.label                                "આ સમાવિષ્ટ માટેનું પ્લગઈન નિષ્ક્રિય કરવામાં આવેલ છે. તમારા પ્લગઈનોની વ્યવસ્થા કરવા માટે અંહિ ક્લિક કરો.">
+<!ENTITY blockedPlugin.label                                 "આ પ્લગઈન તમારી સુરક્ષા માટે અટકાવવામાં આવેલ છે.">

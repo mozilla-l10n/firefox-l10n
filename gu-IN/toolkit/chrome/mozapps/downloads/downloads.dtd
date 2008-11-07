@@ -49,3 +49,4 @@
 <!ENTITY cmd.showMac.label                "શોધકમાં બતાવો">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY window.width2                    "485">
+<!ENTITY cmd.search.commandKey            "k">
