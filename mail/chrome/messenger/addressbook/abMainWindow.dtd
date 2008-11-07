@@ -5,7 +5,7 @@
 <!ENTITY fileMenu.accesskey                             "D">
 <!ENTITY newMenu.label                                  "Neu">
 <!ENTITY newMenu.accesskey                              "N">
-<!ENTITY newCard.label                                  "Adressbuch-Karte…">
+<!ENTITY newCard.label                                  "Kontakt…">
 <!ENTITY newCard.accesskey                              "A">
 <!ENTITY newCard.key                                    "N">
 <!ENTITY newListCmd.label                               "Verteiler-Liste…">
@@ -25,11 +25,11 @@
 <!ENTITY closeCmd.accesskey                             "c">
 <!ENTITY printSetupCmd.label                            "Seite einrichten…">
 <!ENTITY printSetupCmd.accesskey                        "S">
-<!ENTITY printPreviewCardViewCmd.label                  "Druckvorschau: Karte">
+<!ENTITY printPreviewCardViewCmd.label                  "Druckvorschau: Kontakt">
 <!ENTITY printPreviewCardViewCmd.accesskey              "D">
 <!ENTITY printPreviewAddressBook.label                  "Druckvorschau: Adressbuch">
 <!ENTITY printPreviewAddressBook.accesskey              "r">
-<!ENTITY printCardViewCmd.label                         "Drucke Karte…">
+<!ENTITY printCardViewCmd.label                         "Drucke Kontakt…">
 <!ENTITY printCardViewCmd.accesskey                     "u">
 <!ENTITY printCardViewCmd.key                           "P">
 <!ENTITY printAddressBook.label                         "Drucke Adressbuch…">
@@ -62,8 +62,8 @@
 <!ENTITY deleteCmd.label                                "Löschen">
 <!ENTITY deleteCmd.accesskey                            "L">
 <!ENTITY deleteAbCmd.label                              "Lösche Adressbuch">
-<!ENTITY deleteCardCmd.label                            "Lösche Karte">
-<!ENTITY deleteCardsCmd2.label                          "Lösche Karten">
+<!ENTITY deleteCardCmd.label                            "Lösche Kontakt">
+<!ENTITY deleteCardsCmd2.label                          "Lösche Kontakte">
 <!ENTITY deleteListCmd.label                            "Lösche Liste">
 <!ENTITY deleteListsCmd.label                           "Lösche Listen">
 <!ENTITY deleteItemsCmd.label                           "Lösche Elemente">
@@ -91,7 +91,7 @@
 <!ENTITY showTaskbarCmd.accesskey                       "S">
 <!ENTITY customizeToolbar.label                         "Anpassen…">
 <!ENTITY customizeToolbar.accesskey                     "A">
-<!ENTITY showCardPane.label                             "Kartenvorschau">
+<!ENTITY showCardPane.label                             "Kontaktvorschau">
 <!ENTITY showCardPane.accesskey                         "K">
 <!ENTITY menu_ShowNameAs.label                          "Namen anzeigen">
 <!ENTITY menu_ShowNameAs.accesskey                      "N"> 
@@ -122,7 +122,7 @@
 <!ENTITY preferencesCmdUnix.accesskey                   "n"> 
 
 <!-- Address Book Toolbar and Context Menus -->  
-<!ENTITY newcardButton.label                            "Neue Karte">
+<!ENTITY newcardButton.label                            "Neuer Kontakt">
 <!ENTITY newcardButton.accesskey                        "K">
 <!ENTITY newlistButton.label                            "Neue Liste">
 <!ENTITY newlistButton.accesskey                        "L">
@@ -137,12 +137,12 @@
 <!ENTITY throbberItem.title                             "Aktivitäts-Indikator">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newcardButton.tooltip                          "Neue Adressbuch-Karte erstellen">
+<!ENTITY newcardButton.tooltip                          "Neuen Kontakt erstellen">
 <!ENTITY newlistButton.tooltip                          "Neue Liste erstellen">
-<!ENTITY editButton.tooltip                             "Gewählte Karte bearbeiten">
+<!ENTITY editButton.tooltip                             "Gewählten Kontakt bearbeiten">
 <!ENTITY newmsgButton.tooltip                           "Neue Nachricht verfassen">
 <!ENTITY newIM.tooltip                                  "Neue Sofortnachricht (instant message) oder neuen Chat verfassen">
-<!ENTITY deleteButton.tooltip                           "Gewählte Karte oder Adressbuch löschen">
+<!ENTITY deleteButton.tooltip                           "Gewählten Kontakt oder Adressbuch löschen">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Adressbücher">
@@ -200,7 +200,7 @@
 <!ENTITY addresses.heading                              "Adressen">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Karte anzeigen">
-<!ENTITY mapIt.tooltip                                  "Karte für diese Adresse aus dem Web anzeigen">
+<!ENTITY mapIt.tooltip                                  "Landkarte für diese Adresse aus dem Web anzeigen">
 
 <!-- Status Bar -->
 <!ENTITY statusText.label "">
