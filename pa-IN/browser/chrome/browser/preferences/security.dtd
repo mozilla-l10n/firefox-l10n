@@ -8,7 +8,11 @@
   useDownloadedList.label convey the meaning "suspected" (and not something like
   "known").
 -->
+<!ENTITY  blockAttackSites.label     "Block reported attack sites">
+<!ENTITY  blockAttackSites.accesskey "k">
 
+<!ENTITY  blockWebForgeries.label     "Block reported web forgeries">
+<!ENTITY  blockWebForgeries.accesskey "B">
 
 <!ENTITY  addonExceptions.label         "ਛੋਟ...">
 <!ENTITY  addonExceptions.accesskey     "E">
