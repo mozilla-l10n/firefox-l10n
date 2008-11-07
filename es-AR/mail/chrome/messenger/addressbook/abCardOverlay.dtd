@@ -83,7 +83,6 @@ The Initial Developer of the Original Code is
 <!ENTITY allowRemoteContent.label       "Permite imágenes remotas en el correo HTML.">
 <!ENTITY allowRemoteContent.accesskey   "g">
 
-<!ENTITY Phones.box "Teléfonos">
 <!ENTITY WorkPhone.label "Trabajo:">
 <!ENTITY WorkPhone.accesskey "j">
 <!ENTITY HomePhone.label "Casa:">
@@ -95,9 +94,8 @@ The Initial Developer of the Original Code is
 <!ENTITY CellularNumber.label "Teléfono celular:">
 <!ENTITY CellularNumber.accesskey "M">
 
-<!ENTITY Address.tab "Dirección">
-<!ENTITY Address.accesskey              "D">
-<!ENTITY Home.box "Casa">
+<!ENTITY Home.tab "Privado">
+<!ENTITY Home.accesskey "v">
 <!ENTITY HomeAddress.label "Dirección:">
 <!ENTITY HomeAddress.accesskey          "d">
 <!ENTITY HomeAddress2.label             "">
@@ -112,7 +110,9 @@ The Initial Developer of the Original Code is
 <!ENTITY HomeCountry.accesskey          "P">
 <!ENTITY HomeWebPage.label "Página web:">
 <!ENTITY HomeWebPage.accesskey          "W">
-<!ENTITY Work.box "Trabajo">
+
+<!ENTITY Work.label "Trabajo">
+<!ENTITY Work.accesskey "j">
 <!ENTITY JobTitle.label "Puesto:">
 <!ENTITY JobTitle.accesskey             "e">
 <!ENTITY Department.label "Departamento:">
@@ -149,5 +149,5 @@ The Initial Developer of the Original Code is
 <!ENTITY Custom3.accesskey "3">
 <!ENTITY Custom4.label "Personalizado 4:">
 <!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.box "Notas">
+<!ENTITY Notes.label "Notas:">
 <!ENTITY Notes.accesskey                "N">
