@@ -1,0 +1,16 @@
+
+<!ENTITY  prefWindow.titleWin     "Tùy chọn">
+<!ENTITY  prefWindow.titleGNOME   "Các tùy chọn của &brandShortName;">
+<!-- When making changes to prefWindow.styleWin test both Windows Classic and
+     Luna since widget heights are different based on the OS theme -->
+<!ENTITY  prefWin.styleWin2       "rộng: 42em; cao-tốithiểu: 39em;">
+<!ENTITY  prefWin.styleMac2       "rộng: 47em; cao-tốithiểu: 40em;">
+<!ENTITY  prefWin.styleGNOME2     "rộng: 42em; cao-tốithiểu: 39.5em;">
+
+<!ENTITY  paneMain.title          "Tổng quát">
+<!ENTITY  paneTabs.title          "Thẻ">
+<!ENTITY  paneContent.title       "Nội dung">
+<!ENTITY  paneApplications.title  "Chương trình">
+<!ENTITY  panePrivacy.title       "Riêng tư">
+<!ENTITY  paneSecurity.title      "Bảo mật">
+<!ENTITY  paneAdvanced.title      "Nâng cao">

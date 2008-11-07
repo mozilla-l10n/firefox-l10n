@@ -1,0 +1,15 @@
+<!ENTITY brandMotto       "Tái khám phá Web">
+<!ENTITY credit.thanks    "Đặc biệt cảm ơn">
+
+<!ENTITY credit.thanks2       "Trân trọng cảm ơn đến">
+<!ENTITY credit.contributors2 "những người đóng góp">
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation "">
+
+<!ENTITY credit.memory      "Trong tình thương yêu của">
+<!ENTITY credit.poweredByGeckoReg "Sức mạnh từ Gecko&reg;">

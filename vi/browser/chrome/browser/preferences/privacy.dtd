@@ -1,0 +1,55 @@
+<!ENTITY  history.label "Lược sử">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
+-->
+<!ENTITY  rememberDaysBefore.label      "Giữ lược sử của tôi trong ít nhất">
+<!ENTITY  rememberDaysBefore.accesskey  "s">
+<!ENTITY  rememberDaysAfter2.label      "ngày">
+
+<!ENTITY  rememberForms.label           "Lưu thông tin tôi nhập vào các biểu mẫu và thanh tìm kiếm">
+<!ENTITY  rememberForms.accesskey       "b">
+
+<!ENTITY  rememberDownloads.label       "Ghi nhớ những gì tôi đã tải xuống">
+<!ENTITY  rememberDownloads.accesskey   "x">
+
+
+<!ENTITY  cookies.label                 "Cookie">
+
+<!ENTITY  acceptCookies.label           "Cho phép cookie từ các trang">
+<!ENTITY  acceptCookies.accesskey       "C">
+
+<!ENTITY  acceptThirdParty.label        "Cho phép cookie hãng thứ ba">
+<!ENTITY  acceptThirdParty.accesskey    "o">
+
+<!ENTITY  keepUntil.label               "Lưu cho tới khi:">
+<!ENTITY  keepUntil.accesskey           "k">
+
+<!ENTITY  expire.label                  "chúng hết hạn">
+<!ENTITY  close.label                   "tôi thoát &brandShortName;">
+<!ENTITY  askEachTime.label             "hỏi tôi mỗi lần">
+
+<!ENTITY  cookieExceptions.label        "Ngoại trừ…">
+<!ENTITY  cookieExceptions.accesskey    "N">
+
+<!ENTITY  showCookies.label             "Hiện Cookie…">
+<!ENTITY  showCookies.accesskey         "e">
+
+
+<!ENTITY  privateData.label             "Dữ liệu Cá nhân">
+
+<!ENTITY  alwaysClear.label              "Luôn luôn xóa các dữ liệu cá nhân khi tôi thoát &brandShortName;">
+<!ENTITY  alwaysClear.accesskey          "L">
+
+<!ENTITY  askBeforeClear.label           "Hỏi tôi trước khi xóa các dữ liệu cá nhân">
+<!ENTITY  askBeforeClear.accesskey       "H">
+
+<!ENTITY  clearDataSettings.label        "Thiết lập…">
+<!ENTITY  clearDataSettings.accesskey    "p">
+
+<!ENTITY  clearDataNow.label             "Xóa Ngay…">
+<!ENTITY  clearDataNow.label2            "Xóa Ngay">
+<!ENTITY  clearDataNow.accesskey         "a">

@@ -1,0 +1,27 @@
+<!ENTITY no-properties.label   "Không có thuộc tính.">
+
+<!ENTITY caption.label         "Thuộc tính của Thành phần">
+<!ENTITY image-sec.label       "Thuộc tính của Hình ảnh">
+<!ENTITY image-url.label       "Địa chỉ:">
+<!ENTITY image-type.label      "Kiểu:">
+<!ENTITY image-desc.label      "Mô tả:">
+<!ENTITY image-alt.label       "Văn bản thay thế:">
+<!ENTITY image-size.label      "Khổ Ảnh:">
+<!ENTITY image-filesize.label  "Kích thước Tập tin:">
+<!ENTITY insdel-sec.label      "Chèn/Xóa Thuộc tính">
+<!ENTITY insdel-cite.label     "Thông tin:">
+<!ENTITY insdel-date.label     "Ngày tháng:">
+<!ENTITY link-sec.label        "Thuộc tính của Liên kết">
+<!ENTITY link-url.label        "Địa chỉ:">
+<!ENTITY link-target.label     "Sẽ mở trong:">
+<!ENTITY link-type.label       "Loại đích:">
+<!ENTITY link-lang.label       "Ngôn ngữ đích:">
+<!ENTITY link-rel.label        "Liên hệ:">
+<!ENTITY link-rev.label        "Liên hệ ngược:">
+<!ENTITY link-ping.label       "Sẽ nhắc:">
+<!ENTITY misc-sec.label        "Linh tinh">
+<!ENTITY misc-lang.label       "Ngôn ngữ của Văn bản:">
+<!ENTITY misc-title.label      "Tiêu đề:">
+<!ENTITY misc-tblsummary.label "Bảng tổng hợp:">
+<!ENTITY quote-sec.label       "Thuộc tính của trích dẫn">
+<!ENTITY quote-cite.label      "Thông tin:">

@@ -1,0 +1,7 @@
+<!ENTITY startDescription.label            "Một trang web đã cố mở một cửa sổ popup mà chưa được bạn cho phép. &brandShortName; đã tự động đóng cửa sổ đó.  Mỗi khi &brandShortName; chặn các popup đó, bạn sẽ thấy một biểu tượng trên thanh trạng thái.">
+
+<!ENTITY endDescription.label              "Bạn có thể nhấp vào biểu tượng này để biết trang nào bị &brandShortName; chặn các popup và cho phép trang nào mở popup nếu chúng cần để trang web tương tác bình thường.">
+
+<!ENTITY caption.label                     "Thông tin về Trình chặn Popup">
+
+<!ENTITY done.label "Xong">

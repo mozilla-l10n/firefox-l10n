@@ -1,0 +1,17 @@
+<!ENTITY phishDlg.title  "Các Điều khoản của Dịch vụ Chống lừa đảo trực tuyến">
+
+<!-- LOCALIZATION NOTE:
+     The following entities contain sizing information for the phishing privacy
+     agreement dialog, which is opened when you select the "Check by asking"
+     option as how the browser checks for phishing attempts (if you haven't
+     already agreed with the policy for that provider; once you agree to a
+     provider's policy, you don't see it again).
+-->
+<!ENTITY phishDlg.height      "40em">
+<!ENTITY phishDlg.width       "35em">
+
+<!ENTITY acceptToS.label      "Tôi chấp nhận Các điều khoản của Dịch vụ Chống lừa đảo trực tuyến này">
+<!ENTITY declineToS.label     "Tôi KHÔNG chấp nhận Các điều khoản của Dịch vụ Chống lừa đảo trực tuyến này">
+
+<!ENTITY accept.label         "Chấp nhận và Tiếp tục">
+<!ENTITY cancel.label         "Hủy bỏ">

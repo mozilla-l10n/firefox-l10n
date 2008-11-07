@@ -1,0 +1,28 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "In">
+
+<!ENTITY printDialog.title "In">
+
+<!ENTITY fpDialog.title "Lưu Tệp">
+
+<!ENTITY fileCheck.label "In thành Tệp">
+<!ENTITY propertiesButton.label "Thuộc tính…">
+<!ENTITY descText.label "Mô tả máy In:">
+<!ENTITY printer.label "Máy In">
+<!ENTITY printerInput.label "Tên Máy In:">
+
+<!ENTITY printrangeGroup.label "Khoảng muốn In">
+<!ENTITY allpagesRadio.label "Toàn bộ các Trang">
+<!ENTITY rangeRadio.label  "Trang">
+<!ENTITY frompageInput.label  "từ">
+<!ENTITY topageInput.label  "đến">
+<!ENTITY selectionRadio.label "Phần Được chọn">
+
+<!ENTITY copies.label "Bản sao">
+<!ENTITY numCopies.label "Số bản sao:">
+
+<!ENTITY printframeGroup.label "In các Khung">
+<!ENTITY aslaidoutRadio.label "Như đã đặt trên màn hình">
+<!ENTITY selectedframeRadio.label  "Khung đã chọn">
+<!ENTITY eachframesepRadio.label  "Mỗi khung riêng biệt">

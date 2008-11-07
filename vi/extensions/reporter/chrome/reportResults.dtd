@@ -1,0 +1,15 @@
+<!ENTITY reportSite                  "Trang">
+<!ENTITY reportProblemType           "Loại Vấn đề">
+<!ENTITY reportDecsription           "Mô tả">
+<!ENTITY reportPlatform              "Hệ điều hành">
+<!ENTITY reportProduct               "Sản phẩm">
+<!ENTITY reportoscpu                 "OS">
+<!ENTITY reportGecko                 "Gecko">
+<!ENTITY reportBuildConfig           "Cấu hình Build">
+<!ENTITY reportUseragent             "Useragent">
+<!ENTITY reportLanguage              "Ngôn ngữ">
+<!ENTITY reportCharset               "Bộ mã">
+<!ENTITY reportEmail                 "Email">
+<!ENTITY error                       "Chi tiết Lỗi">
+<!ENTITY faultCode                   "Mã">
+<!ENTITY faultMessage                "Thông điệp">

@@ -1,0 +1,25 @@
+<!ENTITY editBookmarkOverlay.name.label                      "Tên:">
+<!ENTITY editBookmarkOverlay.name.accesskey                  "n">
+<!ENTITY editBookmarkOverlay.location.label                  "Địa chỉ:">
+<!ENTITY editBookmarkOverlay.location.accesskey              "a">
+<!ENTITY editBookmarkOverlay.feedLocation.label              "Địa chỉ Feed:">
+<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
+<!ENTITY editBookmarkOverlay.siteLocation.label              "Địa chỉ Trang:">
+<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "r">
+<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Tiêu đề Động">
+<!ENTITY editBookmarkOverlay.folder.label                    "Thư mục:">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Hiện tất cả thư mục chứa trang-đánh-dấu">
+<!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Ẩn">
+<!ENTITY editBookmarkOverlay.tags.label                      "Thẻ">
+<!ENTITY editBookmarkOverlay.tags.accesskey                  "h">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Ngăn cách thẻ bằng dấu phẩy">
+<!ENTITY editBookmarkOverlay.description.label               "Mô tả:">
+<!ENTITY editBookmarkOverlay.description.accesskey           "M">
+<!ENTITY editBookmarkOverlay.keyword.label                   "Từ khóa">
+<!ENTITY editBookmarkOverlay.keyword.accesskey               "k">
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Hiện tất cả các thẻ">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Tải trang-đánh-dấu này trong thanh lề">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "i">
+<!ENTITY editBookmarkOverlay.choose.label                    "Chọn…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Thư mục Mới">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "i">

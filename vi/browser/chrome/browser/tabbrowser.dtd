@@ -1,0 +1,19 @@
+<!ENTITY  untitledTab            "(Khôngtiêuđề)">
+<!ENTITY  newTab.label           "Thẻ Mới">
+<!ENTITY  newTab.accesskey       "T">
+<!ENTITY  closeTab.label         "Đóng Thẻ">
+<!ENTITY  closeTab.accesskey         "g">
+<!ENTITY  closeOtherTabs.accesskey  "K">
+<!ENTITY  closeOtherTabs.label   "Đóng Các Thẻ Khác">
+<!ENTITY  reloadAllTabs.label    "Tải lại Tất cả Các thẻ">
+<!ENTITY  reloadAllTabs.accesskey         "l">
+<!ENTITY  reloadTab.label        "Tải lại Thẻ">
+<!ENTITY  reloadTab.accesskey         "i">
+<!ENTITY  listAllTabs.label      "Liệt kê tất cả các thẻ">
+<!ENTITY  bookmarkAllTabs.label       "Đánh dấu Tất cả Các thẻ…">
+<!ENTITY  bookmarkAllTabs.accesskey   "u">
+<!ENTITY  bookmarkThisTab.label       "Đánh dấu Thẻ Này">
+<!ENTITY  bookmarkThisTab.accesskey   "N">
+<!ENTITY  undoCloseTab.label          "Hoàn tác Đóng Thẻ">
+<!ENTITY  undoCloseTab.accesskey      "H">
+<!ENTITY  newTabButton.tooltip        "Mở một thẻ mới">

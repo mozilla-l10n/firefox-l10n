@@ -1,0 +1,28 @@
+<!ENTITY find.label                "Tìm kiếm:">
+<!ENTITY find.accesskey            "k">
+<!ENTITY expand.label              "Mở rộng">
+<!ENTITY expand.accesskey          "r">
+<!ENTITY collapse.label            "Thu nhỏ">
+<!ENTITY collapse.accesskey        "h">
+<!ENTITY byDate.label "Theo Ngày tháng">
+<!ENTITY byDate.accesskey "N">
+<!ENTITY bySite.label "Theo Trang">
+<!ENTITY bySite.accesskey "a">
+<!ENTITY view.label "Xem">
+<!ENTITY view.accesskey "e">
+<!ENTITY byMostVisited.label "Theo Vào Nhiều nhất">
+<!ENTITY byMostVisited.accesskey "V">
+<!ENTITY byLastVisited.label "Theo Vào Gần đây">
+<!ENTITY byLastVisited.accesskey "G">
+<!ENTITY byDayAndSite.label "Theo Ngày tháng và Trang">
+<!ENTITY byDayAndSite.accesskey "y">
+<!ENTITY openLinkInWindow.label "Mở">
+<!ENTITY openLinkInWindow.accesskey "M">
+<!ENTITY openInNewTab.label "Mở trong Thẻ Mới">
+<!ENTITY openInNewTab.accesskey "t">
+<!ENTITY openInNewWindow.label "Mở trong Cửa Sổ Mới">
+<!ENTITY openInNewWindow.accesskey "S">
+<!ENTITY bookmarkLink.label "Đánh dấu Liên kết Này…">
+<!ENTITY bookmarkLink.accesskey "u">
+<!ENTITY copyLink.label "Chép Địa Chỉ Liên Kết">
+<!ENTITY copyLink.accesskey "C">

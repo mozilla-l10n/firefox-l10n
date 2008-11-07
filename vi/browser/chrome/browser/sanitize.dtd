@@ -1,0 +1,24 @@
+<!ENTITY sanitizeDialog.title         "Xóa dữ liệu Cá nhân">
+
+<!ENTITY sanitizeItems.label          "Xóa các mục sau:">
+<!ENTITY clearDataSettings.label      "Khi tôi yêu cầu &brandShortName; xóa dữ liệu cá nhân của tôi, chương trình nên xóa:">
+
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+<!ENTITY itemHistory.label            "Lược sử Duyệt web">
+<!ENTITY itemHistory.accesskey        "D">
+<!ENTITY itemFormSearchHistory.label  "Lược sử Tìm kiếm và Biểu mẫu đã lưu">
+<!ENTITY itemFormSearchHistory.accesskey "B">
+<!ENTITY itemPasswords.label          "Mật khẩu đã lưu">
+<!ENTITY itemPasswords.accesskey      "k">
+<!ENTITY itemCookies.label            "Cookie">
+<!ENTITY itemCookies.accesskey        "C">
+<!ENTITY itemCache.label              "Đệm">
+<!ENTITY itemCache.accesskey          "m">
+<!ENTITY itemOfflineApps.label        "Dữ liệu Trang web Ngoại tuyến">
+<!ENTITY itemOfflineApps.accesskey    "n">
+<!ENTITY itemDownloads.label          "Lược sử Tải xuống">
+<!ENTITY itemDownloads.accesskey      "x">
+<!ENTITY itemActiveLogins.label       "Các Đăng Nhập Đang Hoạt Động">
+<!ENTITY itemActiveLogins.accesskey   "h">
+<!ENTITY window.width                 "30em">

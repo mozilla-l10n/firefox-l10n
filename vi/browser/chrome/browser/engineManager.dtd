@@ -1,0 +1,25 @@
+<!ENTITY  engineManager.title       "Quản lí Danh sách Máy Tìm kiếm">
+<!ENTITY  engineManager.style       "rộng-tốithiểu: 35em;">
+<!ENTITY  engineManager.intro       "Bạn đã cài các máy tìm kiếm sau:">
+
+<!ENTITY  columnLabel.name          "Tên">
+<!ENTITY  columnLabel.keyword       "Từ khóa">
+
+<!-- Buttons -->
+<!ENTITY  up.label                  "Chuyển Lên">
+<!ENTITY  up.accesskey              "L">
+<!ENTITY  dn.label                  "Chuyển Xuống">
+<!ENTITY  dn.accesskey              "g">
+<!ENTITY  remove.label              "Xóa">
+<!ENTITY  remove.accesskey          "X">
+<!ENTITY  edit.label                "Sửa Từ khóa…">
+<!ENTITY  edit.accesskey            "T">
+
+<!ENTITY  addEngine.label           "Cài thêm máy tìm kiếm…">
+<!ENTITY  addEngine.accesskey       "k">
+
+<!ENTITY  enableSuggest.label       "Hiện đề xuất tìm kiếm">
+<!ENTITY  enableSuggest.accesskey   "i">
+
+<!ENTITY  restoreDefaults.label     "Khôi phục về Mặc định">
+<!ENTITY  restoreDefaults.accesskey "M">

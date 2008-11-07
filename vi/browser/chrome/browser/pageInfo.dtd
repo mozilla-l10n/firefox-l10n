@@ -1,0 +1,122 @@
+<!--
+# ***** BEGIN LICENSE BLOCK *****
+# Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#
+# The contents of this file are subject to the Mozilla Public License Version
+# 1.1 (the "License"); you may not use this file except in compliance with
+# the License. You may obtain a copy of the License at
+# http://www.mozilla.org/MPL/
+#
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# for the specific language governing rights and limitations under the
+# License.
+#
+# The Original Code is Mozilla Communicator client code.
+#
+# The Initial Developer of the Original Code is Daniel Brooks.
+# Portions created by the Initial Developer are Copyright (C) 2001
+# the Initial Developer. All Rights Reserved.
+#
+# Contributor(s): Daniel Brooks <db48x@yahoo.com>
+#                 Florian QUEZE <f.qu@queze.net>
+#                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
+#
+# Alternatively, the contents of this file may be used under the terms of
+# either the GNU General Public License Version 2 or later (the "GPL"), or
+# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# in which case the provisions of the GPL or the LGPL are applicable instead
+# of those above. If you wish to allow use of your version of this file only
+# under the terms of either the GPL or the LGPL, and not to allow others to
+# use your version of this file under the terms of the MPL, indicate your
+# decision by deleting the provisions above and replace them with the notice
+# and other provisions required by the LGPL or the GPL. If you do not delete
+# the provisions above, a recipient may use your version of this file under
+# the terms of any one of the MPL, the GPL or the LGPL.
+#
+# ***** END LICENSE BLOCK *****
+-->
+
+<!ENTITY  pageInfoWindow.width  "425">
+<!ENTITY  pageInfoWindow.height "500">
+
+<!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "Chép">
+<!ENTITY  copy.accesskey        "C">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "Chọn Toàn Bộ">
+<!ENTITY  selectall.accesskey   "B">
+<!ENTITY  closeWindow.key       "w">
+
+<!ENTITY  generalTab            "Tổng quát">
+<!ENTITY  generalTab.accesskey  "T">
+<!ENTITY  generalURL            "Địa chỉ:">
+<!ENTITY  generalType           "Kiểu:">
+<!ENTITY  generalMode           "Chế độ Xử lí:">
+<!ENTITY  generalSize           "Kích thước:">
+<!ENTITY  generalReferrer       "URL liên quan:">
+<!ENTITY  generalSource         "Nguồn Đệm:">
+<!ENTITY  generalModified       "Được chỉnh sửa:">
+<!ENTITY  generalEncoding       "Bảng mã:">
+<!ENTITY  generalMetaName       "Tên">
+<!ENTITY  generalMetaContent    "Nội dung">
+<!ENTITY  generalSecurityDetails   "Chi tiết">
+<!ENTITY  generalSecurityDetails.accesskey "C">
+
+<!ENTITY  mediaTab              "Đa phương tiện">
+<!ENTITY  mediaTab.accesskey    "a">
+<!ENTITY  mediaLocation         "Địa chỉ:">
+<!ENTITY  mediaText             "Văn bản đi kèm:">
+<!ENTITY  mediaAltHeader        "Văn bản phụ">
+<!ENTITY  mediaAddress          "Địa chỉ">
+<!ENTITY  mediaType             "Kiểu">
+<!ENTITY  mediaSize             "Kích thước">
+<!ENTITY  mediaCount            "Tổng số">
+<!ENTITY  mediaDimension        "Kích cỡ:">
+<!ENTITY  mediaLongdesc         "Mô tả đầy đủ:">
+<!ENTITY  mediaBlockImage.accesskey "C">
+<!ENTITY  mediaSaveAs           "Lưu Thành…">
+<!ENTITY  mediaSaveAs.accesskey "L">
+<!ENTITY  mediaSaveAs2.accesskey "h">
+<!ENTITY  mediaPreview          "Xem trước:">
+
+<!ENTITY  feedTab               "Feed">
+<!ENTITY  feedTab.accesskey     "F">
+<!ENTITY  feedSubscribe         "Đăng kí">
+<!ENTITY  feedSubscribe.accesskey "g">
+
+<!ENTITY  permTab               "Quyền hạn">
+<!ENTITY  permTab.accesskey     "Q">
+<!ENTITY  permUseDefault        "Dùng Mặc định">
+<!ENTITY  permAllow             "Cho phép">
+<!ENTITY  permAllowSession      "Cho phép theo Phiên">
+<!ENTITY  permBlock             "Chặn">
+<!ENTITY  permissionsFor        "Quyền hạn cho:">
+<!ENTITY  permImage             "Tải Ảnh">
+<!ENTITY  permPopup             "Mở Cửa Sổ Pop-up">
+<!ENTITY  permCookie            "Đặt Cookie">
+<!ENTITY  permInstall           "Cài Phần mở rộng hoặc Giao diện">
+
+<!ENTITY  securityTab           "Bảo mật">
+<!ENTITY  securityTab.accesskey "B">
+<!ENTITY  securityHeader        "Thông tin bảo mật của trang này">
+<!ENTITY  securityView.certView "Xem Chứng chỉ">
+<!ENTITY  securityView.accesskey "C">
+<!ENTITY  securityView.unknown   "Không rõ">
+
+
+<!ENTITY  securityView.identity.header   "Định danh Trang Web">
+<!ENTITY  securityView.identity.owner    "Chủ:">
+<!ENTITY  securityView.identity.domain   "Trang web:">
+<!ENTITY  securityView.identity.verifier "Kiểm định bởi:">
+
+<!ENTITY  securityView.privacy.header                   "Riêng tư &amp; Lược sử">
+<!ENTITY  securityView.privacy.history                  "Tôi đã từng xem trang web này trước ngày hôm nay chưa?">
+<!ENTITY  securityView.privacy.cookies                  "Trang web này có đang lưu thông tin (cookie) trên máy tôi không?">
+<!ENTITY  securityView.privacy.viewCookies              "Xem Cookie">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "e">
+<!ENTITY  securityView.privacy.passwords                "Tôi có lưu mật khẩu nào trên trang web này không?">
+<!ENTITY  securityView.privacy.viewPasswords            "Xem Mật khẩu đã Lưu">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "M">
+
+<!ENTITY  securityView.technical.header                 "Chi tiết Kĩ thuật">

@@ -1,0 +1,12 @@
+<!ENTITY dialog.title             "Tùy biến Thanh công cụ">
+<!ENTITY dialog.style             "width: 635px; height: 400px;">
+<!ENTITY instructions.description "Bạn có thể thêm hoặc bớt thành phần thông qua kéo từ hoặc thả tới các thanh công cụ.">
+<!ENTITY show.label               "Hiện:">
+<!ENTITY iconsAndText.label       "Biểu tượng và Tên">
+<!ENTITY icons.label              "Biểu tượng">
+<!ENTITY text.label               "Tên">
+<!ENTITY useSmallIcons.label      "Dùng Biểu tượng Nhỏ">
+<!ENTITY restoreDefaultSet.label  "Khôi phục Mặc định">
+<!ENTITY addNewToolbar.label      "Thêm Thanh Công cụ Mới">
+<!ENTITY saveChanges.label        "Xong">
+<!ENTITY undoChanges.label        "Hoàn tác các Thay đổi">

@@ -1,0 +1,28 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "Thuộc tính của Máy In">
+
+<!ENTITY paperInput.label "Cỡ Giấy:">
+
+<!ENTITY plexInput.label "Chế độ Plex:">
+
+<!ENTITY resolutionInput.label "Độ phân giải/Chất lượng:">
+
+<!ENTITY cmdInput.label "Lệnh In:">
+
+<!ENTITY jobTitleInput.label "Tiêu đề Công việc:">
+
+<!ENTITY colorGroup.label "Màu:">
+<!ENTITY grayRadio.label "Đen trắng">
+<!ENTITY colorRadio.label "Màu">
+
+<!ENTITY colorspaceInput.label "Khoảng Màu:">
+
+<!ENTITY fontsGroup.label "Phông:">
+<!ENTITY downloadFonts.label "Tải Phông xuống cho máy In?">
+
+<!ENTITY edgeMarginInput.label "Khoảng trống giữa cạnh giấy đến Lề">
+<!ENTITY topInput.label "Đỉnh:">
+<!ENTITY bottomInput.label "Đáy:">
+<!ENTITY leftInput.label "Trái:">
+<!ENTITY rightInput.label "Phải:">

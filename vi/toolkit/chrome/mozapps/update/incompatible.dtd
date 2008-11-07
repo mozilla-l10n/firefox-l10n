@@ -1,0 +1,13 @@
+
+<!ENTITY  incompatible.title        "Các mục Không tương thích">
+<!ENTITY  incompatible.intro        "Các mục sau không tương thích với bản cập nhật này của &brandShortName; và
+                                     sẽ bị vô hiệu hóa khi nó được cài:">
+<!ENTITY  incompatible.update       "&brandShortName; sẽ kiểm tra các bản cập nhật định kì khi tồn tại một bản cập nhật 
+                                     tương thích.">
+<!ENTITY  incompatible.suffix       "Các bản cập nhật của &brandShortName; chứa rất nhiều cải thiện về bảo mật. Để bảo vệ
+                                     bạn, chúng tôi khuyến cáo bạn nên cập nhật &brandShortName; cho dù 
+                                     một số phần Mở rộng và Giao diện không hoạt động nữa.">
+                                     
+<!ENTITY  closebutton.label         "Đóng">
+                                     
+                                     

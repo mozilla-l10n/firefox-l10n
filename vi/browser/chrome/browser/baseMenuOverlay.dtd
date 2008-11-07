@@ -1,0 +1,48 @@
+<!ENTITY minimizeWindow.key       "u">
+<!ENTITY minimizeWindow.label     "Thu nhỏ">
+<!ENTITY bringAllToFront.label    "Đưa Toàn Bộ ra Trước">
+<!ENTITY zoomWindow.label         "Thu phóng">
+<!ENTITY windowMenu.label         "Cửa sổ">
+
+<!ENTITY helpMenu.label           "Trợ giúp"> 
+<!ENTITY helpMenu.accesskey       "p"> 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "Trợ giúp"> 
+<!ENTITY helpMenuWin.accesskey    "p">
+<!ENTITY aboutCmd.label           "Thông tin về &brandFullName;">
+<!ENTITY aboutCmd.accesskey       "v">
+<!ENTITY helpContents.label       "Nội dung Trợ giúp">
+<!ENTITY helpContents.accesskey   "T">
+<!ENTITY helpContentsMac.label    "Trợ giúp">
+<!ENTITY helpForIEUsers.label     "Dành cho Người dùng Internet Explorer">
+<!ENTITY helpForIEUsers.accesskey "I">
+<!ENTITY openHelp.commandkey      "VK_F1">
+<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
+                       are all the necessary keys to hit OS X's open-help 
+                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
+<!ENTITY openHelpMac.commandkey           "/">
+<!ENTITY openHelpMac.modifiers            "accel,shift">
+<!ENTITY openHelpMac.frontendCommandkey   "?">
+<!ENTITY openHelpMac.frontendModifiers    "accel">
+
+<!ENTITY helpReleaseNotes.label         "Ghi chú Phát hành">
+<!ENTITY helpReleaseNotes.accesskey     "P">
+<!ENTITY updateCmd.label                "Tìm bản Cập nhật…">
+<!ENTITY updateCmd.accesskey            "n">
+
+<!ENTITY preferencesCmdMac.label        "Tùy chỉnh…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+
+<!ENTITY servicesMenuMac.label          "Dịch vụ">
+
+<!ENTITY hideThisAppCmdMac.label        "Ẩn &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "n">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+
+<!ENTITY hideOtherAppsCmdMac.label      "Ẩn các ứng dụng khác">
+<!ENTITY hideOtherAppsCmdMac.commandkey "n">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+
+<!ENTITY showAllAppsCmdMac.label        "Hiện Toàn Bộ">

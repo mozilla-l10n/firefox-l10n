@@ -1,0 +1,10 @@
+<!-- extracted from content/openLocation.xul -->
+
+<!ENTITY enter.label "Nhập địa chỉ (URL), hoặc chỉ ra tệp muốn mở:">  
+<!ENTITY chooseFile.label "Chọn Tệp...">
+<!ENTITY newWindow.label "Cửa Sổ Mới">
+<!ENTITY newTab.label "Thẻ Mới">
+<!ENTITY topWindow.label "Cửa sổ Hiện tại">
+<!ENTITY caption.label "Mở địa chỉ Web">
+<!ENTITY openWhere.label "Mở trong:">
+<!ENTITY openBtn.label "Mở">

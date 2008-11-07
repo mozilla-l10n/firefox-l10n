@@ -1,0 +1,7 @@
+<!ENTITY crashes.title              "Các báo cáo lỗi đã gửi">
+<!ENTITY id.heading                 "Định danh Báo cáo">
+<!ENTITY date.heading               "Ngày được gửi">
+<!ENTITY noReports.label            "Không có báo cáo lỗi nào đã được gửi.">
+<!ENTITY noConfig.label             "Chương trình này không thể hiển thị các báo cáo lỗi. Tùy chỉnh cho <code>breakpad.reportURL</code> phải được cấu hình.">
+<!ENTITY clearReports.label         "Xóa Báo cáo">
+

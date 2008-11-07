@@ -1,0 +1,26 @@
+<!ENTITY safeb.palm.warning.title "Nghi ngờ Web Lừa đảo">
+
+<!ENTITY safeb.palm.message.p1 "Trang này đã được báo cáo là một trang web lừa đảo được thiết kế ra để lừa người dùng tiết lộ các thông tin cá nhân hoặc tài chính. Nhập bất kì thông tin nào vào trang này có thể bị rò rỉ thông tin hoặc bị lừa. &#160;">
+<!ENTITY safeb.palm.message.p1.linkText "Đọc thêm &#187;">
+<!ENTITY safeb.palm.p1.linkStatusText "Đọc thêm &#133;">
+
+<!ENTITY safeb.palm.message.p2.start "Những loại trang web lừa đảo này được dùng để lừa đảo hay là tấn công lừa đảo, thường giả thành các trang web và email mà bạn tin tưởng. Bạn có thể tìm hiểu thêm về ">
+<!ENTITY safeb.palm.message.p2.linkText "làm cách nào &brandShortName; bảo vệ bạn">
+<!ENTITY safeb.palm.message.p2.end " khỏi các cuộc tấn công lừa đảo.">
+
+<!ENTITY safeb.palm.accept.label "Đưa tôi ra khỏi đây!">
+<!ENTITY safeb.palm.accept.statustext "Quay về trang chủ của tôi">
+<!ENTITY safeb.palm.decline.label "Bỏ qua cảnh báo này">
+<!ENTITY safeb.palm.decline.statustext "Tắt cảnh bào đi" >
+<!ENTITY safeb.palm.notforgery.label2 "Đây không phải trang web giả mạo…">
+<!ENTITY safeb.palm.report.label "Tại sao trang này bị chặn?">
+
+<!ENTITY safeb.blocked.malware.title "Trang Ác Ý Đã Biết!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malware.shortDesc "Trang web tại <span id='malware_sitename'/> được báo cáo là trang web ác ý và đã bị chặn dựa trên tùy chỉnh bảo mật của bạn.">
+<!ENTITY safeb.blocked.malware.longDesc "<p>Trang Ác ý cố gắng cài đặt các chương trình để ăn cắp thông tin riêng, dùng máy của bạn để tấn công máy khác, hoặc làm hư hệ thống của bạn.</p><p>Một số trang ác ý cố tình phân phối phần mềm độc hại, nhưng nhiều cái đã bị sửa đổi mà không được phép hoặc người sở hữu không được biết.</p>">
+
+<!ENTITY safeb.blocked.phishing.title "Trang Giả Mạo Đã Biết!">
+<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishing.shortDesc "Trang web tại <span id='phishing_sitename'/> được báo cáo là trang web giả mạo và đã bị chặn dựa trên tùy chỉnh bảo mật của bạn.">
+<!ENTITY safeb.blocked.phishing.longDesc "<p>Web giả mạo được thiết kế để lừa bạn tiết lộ thông tin tài chính hoặc cá nhân bằng cách bắt chước các trang mà bạn tin tưởng.</p><p>Nhập thông tin trên trang web này có thể khiến bạn bị trộm danh tính hoặc bị lừa.</p>">

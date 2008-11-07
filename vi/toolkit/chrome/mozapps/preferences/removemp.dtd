@@ -1,0 +1,6 @@
+<!ENTITY removePassword.title              "Xóa Mật mã Chính">
+<!ENTITY removeInfo.label                  "Bạn cần nhập mật mã hiện tại của bạn để tiếp tục:">
+<!ENTITY removeWarning1.label              "Mật mã Chính của bạn được dùng để bảo vệ thông tin nhạy cảm.">
+<!ENTITY removeWarning2.label              "Nếu bạn xóa Mật mã chính các thông tin của bạn sẽ không được bảo vệ nếu máy tính của bạn bị tấn công.">
+<!ENTITY setPassword.oldPassword.label     "Mật mã hiện tại:">
+

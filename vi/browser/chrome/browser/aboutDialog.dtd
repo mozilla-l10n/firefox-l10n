@@ -1,0 +1,10 @@
+<!ENTITY aboutDialog.title          "Thông tin về &brandFullName;">
+<!ENTITY copyright                  "Những người thực hiện">
+<!ENTITY copyright.accesskey        "N">
+<!ENTITY copyrightGNOME.accesskey   "h">
+<!ENTITY aboutLink                  "&lt; Thông tin về &brandFullName;">
+<!ENTITY aboutLink.accesskey        "v">
+<!ENTITY aboutVersion               "phiên bản">
+<!ENTITY closeCmdGNOME.label        "Đóng">  
+<!ENTITY closeCmdGNOME.accesskey    "Đ">
+<!ENTITY copyrightInfo              "&#169;1998-2008 Các thành viên đóng góp giữ bản quyền. Mọi Quyền Được Bảo Lưu. Firefox và các logo của Firefox là thương hiệu của Mozilla Foundation. Mọi quyền được bảo lưu.">

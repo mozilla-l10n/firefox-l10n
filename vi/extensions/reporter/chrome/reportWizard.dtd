@@ -1,0 +1,58 @@
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title                         "Báo cáo Trang web Hỏng">
+
+<!ENTITY privacyNotice.label                        "Điều khoản Riêng tư">
+<!ENTITY reportWizardPrivacy.description            "Công cụ này cho phép bạn thông báo cho Nhóm Evangelism về những trang web hoạt động không bình thường trong &brandShortName;, hoặc làm &brandShortName; bị thoát. Đây là cách bạn giúp chúng tôi có thể đảm bảo tạo ra được những trải nghiệm tuyệt vời nhất cho người dùng &brandShortName;. Vui lòng bỏ chút thời gian đọc điều khoản sau về việc chúng tôi dùng những thông tin được thu thập như thế nào, để bạn có cơ sở quyết định về việc có nên tham gia hay không.">
+<!ENTITY reportWizardMustAgree.description          "Để tiếp tục bạn cần đồng ý với những điều khoản riêng tư ở trên.">
+
+<!ENTITY dontShowPrivacyStatement.label             "Tôi đã đọc và đồng ý với các điều khoản phía trên.">
+<!ENTITY dontShowPrivacyStatement.accesskey         "v">
+
+<!ENTITY reportForm.label                           "Điền thông tin vào Báo cáo">
+
+<!ENTITY reportForm.description                     "Cho chúng tôi biết về vấn đề bạn đã gặp phải:">
+<!ENTITY reportForm.url.title                       "URL của trang Web:">
+<!ENTITY reportForm.url.accesskey                   "U">
+
+<!ENTITY reportForm.behind_login.title              "Trang web được bảo vệ bởi mật khẩu"><!-- No ":" at the end -->
+<!ENTITY reportForm.behind_login.accesskey          "w">
+
+<!ENTITY reportForm.problem_type.title              "Loại Vấn đề:">
+<!ENTITY reportForm.problem_type.accesskey          "L">
+
+<!ENTITY reportForm.problem_type.chooseOne.title    "Chọn Một…">
+
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+<!ENTITY reportForm.problem_type.item1.title        "Trình duyệt không được hỗ trợ">
+<!ENTITY reportForm.problem_type.item2.title        "Không đăng nhập được">
+<!ENTITY reportForm.problem_type.item3.title        "Phần bổ trợ không hiển thị">
+<!ENTITY reportForm.problem_type.item4.title        "Thiếu các thành phần khác">
+<!ENTITY reportForm.problem_type.item5.title        "Sai cách tương tác">
+<!ENTITY reportForm.problem_type.item6.title        "Sai cách trình bày">
+<!ENTITY reportForm.problem_type.item7.title        "Vấn đề khác">
+<!ENTITY reportForm.problem_type.item8.title        "Truy cập bị vô hiệu">
+<!ENTITY reportForm.problem_type.item9.title        "Hiển thị sai">
+
+<!ENTITY reportForm.describe.title                  "Mô tả Vấn đề:">
+<!ENTITY reportForm.describe.accesskey              "M">
+
+<!ENTITY reportForm.platform.title                  "Hệ điều hành:">
+<!ENTITY reportForm.product.title                   "Sản phẩm:">
+<!ENTITY reportForm.gecko.title                     "Gecko:">
+<!ENTITY reportForm.useragent.title                 "Useragent:">
+<!ENTITY reportForm.language.title                  "Ngôn ngữ:">
+
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+<!ENTITY reportForm.email.title                     "Email (Tùy chọn):">
+<!ENTITY reportForm.email.accesskey                 "E">
+
+<!ENTITY reportForm.privacyPolicy.title             "Điều khoản Riêng tư">
+<!ENTITY reportForm.privacyPolicy.tooltip           "Xem Điều khoản Riêng tư">
+
+<!ENTITY reportResults.showDetail.title             "Hiện Chi tiết">
+<!ENTITY reportResults.showDetail.accesskey         "H">
+
+<!ENTITY sendReport.label                           "Đang gửi Báo cáo">
+<!ENTITY sendReport.description                     "Đang gửi Báo cáo tới máy chủ…">
+
+<!ENTITY finish.label                               "Đã gửi Báo cáo">

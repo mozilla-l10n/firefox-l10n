@@ -1,0 +1,25 @@
+<!ENTITY pluginWizard.title                                  "Dịch vụ Tìm phần Bổ trợ">
+<!ENTITY pluginWizard.firstPage.title                        "Chào mừng đến với &pluginWizard.title;">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; đang tìm các phần bổ trợ sẵn có…">
+
+<!ENTITY pluginWizard.availablePluginsPage.title             "Tải các Phần bổ trợ Sẵn có">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Có các phần bổ trợ sau:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Nhấp Tiến để cài những phần bổ trợ này.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Một số phần bổ trợ yêu cầu một vài thông tin của bạn trong quá trình cài đặt.">
+
+<!ENTITY pluginWizard.licensePage.title                      "Giấy phép của Phần bổ trợ">
+<!ENTITY pluginWizard.licensePage.accept.label               "Tôi đồng ý.">
+<!ENTITY pluginWizard.licensePage.deny.label                 "Tôi không đồng ý (phần bổ trợ sẽ không được cài).">
+
+<!ENTITY pluginWizard.installPluginsPage.title               "Đang cài Phần bổ trợ">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; đang cài phần bổ trợ…">
+
+<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; đã cài xong các phần bổ trợ còn thiếu:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "Tìm hiểu thêm về các Phần bổ trợ hoặc tìm các phần bổ trợ còn thiếu một cách thủ công.">
+<!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; cần phải được khởi động lại để (các) phần bổ trợ hoạt động.">
+  
+<!ENTITY missingPlugin.label                                 "Nhấp vào đây để tải phần bổ trợ xuống.">
+<!ENTITY disabledPlugin.label                                "Phần bổ trợ cho nội dung này đã bị vô hiệu hóa. Nhấn vào đây để quản lí các phần bổ trợ của bạn.">
+<!ENTITY blockedPlugin.label                                 "Phần bổ trợ này đã bị chặn để bảo vệ bạn.">
