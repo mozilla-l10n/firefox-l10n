@@ -161,8 +161,8 @@
 <!ENTITY preferencesCmdUnix.label "Předvolby">
 <!ENTITY preferencesCmdUnix.accesskey "v">
 
-<!ENTITY clearPrivateDataCmd.label "Vymazat důvěrná data">
-<!ENTITY clearPrivateDataCmd.accesskey "d">
+<!ENTITY clearRecentHistoryCmd.label "Vymazat nedávnou historii">
+<!ENTITY clearRecentHistoryCmd.accesskey "h">
 
 <!ENTITY privateBrowsingCmd.label "Anonymní prohlížení">
 <!ENTITY privateBrowsingCmd.accesskey "A">
@@ -316,6 +316,7 @@
 <!ENTITY mediaHideControls.label "Skrýt ovládání">
 <!ENTITY mediaHideControls.accesskey "o">
 
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
@@ -424,4 +425,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "Více informací…">
 
-<!ENTITY downloadMonitor2.tooltip "Po klepnutí otevře Správce stahování">
+<!ENTITY downloadMonitor2.tooltip "Klepnutí otevře správce stahování">
+
+<!ENTITY ctrlTab.search.emptyText "Prohledat panely">

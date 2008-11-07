@@ -39,7 +39,7 @@
 <!ENTITY Contact.accesskey "K">
 <!ENTITY Name.box "Jméno">
 
-<!-- LOCALIZATION NOTE: 
+<!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
  "FirstName" and "LastName" can be swapped for id to change the order
@@ -82,8 +82,12 @@
 
 <!ENTITY allowRemoteContent.label "Ve zprávách v HTML formátu povolit obrázky ze vzdálených serverů.">
 <!ENTITY allowRemoteContent.accesskey "h">
+<!ENTITY allowRemoteContent.tooltip "In HTML messages it is possible to embed images from remote sources. Opening such a message will open a connection to this external source. This may allow tracking of the message being read. Checking this box will allow such external embedded images in HTML messages from this contact.">
 
-<!ENTITY Phones.box "Telefony">
+
+
+
+
 <!ENTITY WorkPhone.label "Zaměstnání:">
 <!ENTITY WorkPhone.accesskey "Z">
 <!ENTITY HomePhone.label "Domů:">
@@ -95,9 +99,8 @@
 <!ENTITY CellularNumber.label "Mobilní telefon:">
 <!ENTITY CellularNumber.accesskey "M">
 
-<!ENTITY Address.tab "Adresa">
-<!ENTITY Address.accesskey "A">
-<!ENTITY Home.box "Bydliště">
+<!ENTITY Home.tab "Bydliště">
+<!ENTITY Home.accesskey "B">
 <!ENTITY HomeAddress.label "Adresa:">
 <!ENTITY HomeAddress.accesskey "r">
 <!ENTITY HomeAddress2.label "">
@@ -112,7 +115,9 @@
 <!ENTITY HomeCountry.accesskey "Z">
 <!ENTITY HomeWebPage.label "Webová stránka:">
 <!ENTITY HomeWebPage.accesskey "W">
-<!ENTITY Work.box "Zaměstnání">
+
+<!ENTITY Work.tab "Zaměstnání">
+<!ENTITY Work.accesskey "Z">
 <!ENTITY JobTitle.label "Pozice:">
 <!ENTITY JobTitle.accesskey "i">
 <!ENTITY Department.label "Oddělení:">
@@ -149,5 +154,5 @@
 <!ENTITY Custom3.accesskey "3">
 <!ENTITY Custom4.label "Položka 4:">
 <!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.box "Poznámky">
+<!ENTITY Notes.label "Poznámky:">
 <!ENTITY Notes.accesskey "P">

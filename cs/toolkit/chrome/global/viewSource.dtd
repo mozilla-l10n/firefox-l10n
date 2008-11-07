@@ -46,7 +46,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY viewMenu.accesskey "Z">
 <!ENTITY reloadCmd.label "Obnovit">
 <!ENTITY reloadCmd.accesskey "O">
-<!ENTITY reloadCmd.commandkey "r"> 
+<!ENTITY reloadCmd.commandkey "r">
 <!ENTITY menu_wrapLongLines.title "Zalamovat dlouhé řádky">
 <!ENTITY menu_wrapLongLines.accesskey "l">
 <!ENTITY menu_highlightSyntax.label "Zvýrazňovat syntaxi">
@@ -67,3 +67,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey "t">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY backCmd.label "Zpět">
+<!ENTITY backCmd.accesskey "Z">
+<!ENTITY forwardCmd.label "Vpřed">
+<!ENTITY forwardCmd.accesskey "V">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
