@@ -66,7 +66,16 @@
 <!ENTITY DisplayName.accesskey          "D">
 <!ENTITY NickName.label                 "Nickname:">
 <!ENTITY NickName.accesskey             "N">
-
+<!ENTITY Home.tab                       "Private">
+<!ENTITY Home.accesskey                 "P">
+<!ENTITY Work.accesskey                 "W">
+<!ENTITY Work.tab                       "Work">
+<!ENTITY allowRemoteContent.tooltip     "In HTML messages it is possible to
+embed images from remote sources. Opening such a message will open a
+connection to this external source. This may allow tracking of the
+message being read. Checking this box will allow such external embedded
+images in HTML messages from this contact.">
+<!ENTITY Notes.label                    "Notes:">
 <!ENTITY Internet.box                   "Internet">
 <!ENTITY PrimaryEmail.label             "Email:">
 <!ENTITY PrimaryEmail.accesskey         "E">
@@ -82,8 +91,6 @@
 
 <!ENTITY allowRemoteContent.label       "Allow remote images in HTML mail.">
 <!ENTITY allowRemoteContent.accesskey   "w">
-
-<!ENTITY Phones.box                     "Phones">
 <!ENTITY WorkPhone.label                "Work:">
 <!ENTITY WorkPhone.accesskey            "k">
 <!ENTITY HomePhone.label                "Home:">
@@ -94,10 +101,6 @@
 <!ENTITY PagerNumber.accesskey          "P">
 <!ENTITY CellularNumber.label           "Mobile:">
 <!ENTITY CellularNumber.accesskey       "M">
-
-<!ENTITY Address.tab                    "Address">
-<!ENTITY Address.accesskey              "A">
-<!ENTITY Home.box                       "Home">
 <!ENTITY HomeAddress.label              "Address:">
 <!ENTITY HomeAddress.accesskey          "d">
 <!ENTITY HomeAddress2.label             "">
@@ -112,7 +115,6 @@
 <!ENTITY HomeCountry.accesskey          "u">
 <!ENTITY HomeWebPage.label              "Web Page:">
 <!ENTITY HomeWebPage.accesskey          "W">
-<!ENTITY Work.box                       "Work">
 <!ENTITY JobTitle.label                 "Title:">
 <!ENTITY JobTitle.accesskey             "e">
 <!ENTITY Department.label               "Department:">
@@ -149,5 +151,4 @@
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Custom 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.box                      "Notes">
 <!ENTITY Notes.accesskey                "N">
