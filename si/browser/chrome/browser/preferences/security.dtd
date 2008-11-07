@@ -8,10 +8,9 @@
   useDownloadedList.label convey the meaning "suspected" (and not something like
   "known").
 -->
-<!ENTITY  tellMaybeForgery.accesskey "T">
-<!ENTITY  tellMaybeForgery2.label     "වංචාවන් සඳහා සැක කර ඇත්නම් අවහිර කරන්න">
 
-
+<!ENTITY  blockWebForgeries.label     "වංචාවන් සඳහා සැක කර ඇත්නම් අවහිර කරන්න">
+<!ENTITY  blockWebForgeries.accesskey "B">
 <!-- LOCALIZATION NOTE (askThirdParty.label):
   The entities askThirdParty.label and askThirdPartyAfter.label appear on a
   single line in preferences as follows:
@@ -34,16 +33,12 @@
 <!ENTITY  useMasterPassword.accesskey    "U">
 <!ENTITY  changeMasterPassword.label     "ප්‍රධාන රහස්පදය වෙනස්කරන්න...">
 <!ENTITY  changeMasterPassword.accesskey "M">
-
-
-<!ENTITY  tellMaybeAttackSite.accesskey "k">
-
 <!ENTITY  warnings.label                "අවවාද පණිවිඩ">
-
 <!ENTITY  chooseWarnings.label          "අන්තර්ජාලය ගවේශනයේදි දර්ශනය වීම සදගහා ඔබට අවශ්‍ය අවවාද පණිවිඩය තෝරන්න">
-
 <!ENTITY  warningSettings.label         "සැකසුම්...">
 <!ENTITY  warningSettings.accesskey     "S">
 <!ENTITY  savedPasswords.label            "සුරැකු රහස්පද…">
 <!ENTITY  savedPasswords.accesskey        "P">
-<!ENTITY  tellMaybeAttackSite2.label     "ආක්‍රමණික අඩවියක් නම් අවහිර කරන්න">
+<!ENTITY  blockAttackSites.label     "ආක්‍රමණික අඩවි අවහිර කරන්න">
+<!ENTITY  blockAttackSites.accesskey "k">
+
