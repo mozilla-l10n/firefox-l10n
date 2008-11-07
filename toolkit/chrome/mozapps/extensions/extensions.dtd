@@ -167,3 +167,8 @@
 <!ENTITY emptySearch.button               "બરાબર">
 <!ENTITY noSearchResults.label            "બધા પરિણામો પહેલાથી જ સ્થાપિત થયેલ છે અથવા અસુસંગત છે.">
 <!ENTITY searchResultConnecting.label     "જોડાઈ રહ્યા છીએ…">
+
+
+<!ENTITY blocklist.blocked.label          "અટકાવાયેલ">
+<!ENTITY blocklist.checkbox.label         "નિષ્ક્રિય કરો">
+<!ENTITY softBlocklisted.label            "સુરક્ષા અને સુગમતા મુદ્દાઓ સર્જવા માટે જાણીતું છે.">

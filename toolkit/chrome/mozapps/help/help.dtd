@@ -40,3 +40,6 @@
 
 <!ENTITY zLevel.label                   "હંમેશા ઉપર રાખો">
 <!ENTITY zLevel.accesskey               "T">
+
+<!ENTITY search.emptytext               "શોધો">
+<!ENTITY searchHeader.label             "શોધ પરિણામો">

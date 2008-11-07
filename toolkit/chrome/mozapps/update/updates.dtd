@@ -42,3 +42,16 @@
 <!ENTITY  installed.intro                 "સુધારો સફળતાપૂર્વક સ્થાપિત થઈ ગયો હતો.">
 <!ENTITY  whatsnew.label                  "શું નવું છે એના વિશે વધુ વાંચો...">
 <!ENTITY  verificationFailedText.label    "&brandShortName; એ વધાતા જતા સુધારાની સંકલનતા ચકાસવામાં અસમર્થ હતું કે જે તેણે ડાઉનલોડ કર્યું છે, તેથી તે હવે સંપૂર્ણ સુધારા પેકેજ ડાઉનલોડ કરી રહ્યું છે.">
+
+<!ENTITY  evangelism.desc                 "એ ખૂબ આગ્રહણીય છે કે તમે  &brandShortName; માટે શક્ય એટલો જલદી સુધારો લાગુ કરો.">
+<!ENTITY  finishedBackground.more         "સુધારો ફરીવાર જ્યારે તમે &brandShortName; શરૂ કરો ત્યારે સ્થાપિત થઈ જશે. તમે &brandShortName; ને હમણાં પુનઃશરૂ કરી શકો, કે પછી કામ કરવાનું ચાલુ રાખો અને પછીથી પુનઃશરૂ કરો.">
+<!ENTITY  finishedBackgroundPage.text     "&brandShortName; માટે સુરક્ષા અને સુગમતા સુધારો ડાઉનલોડ થઈ ગયેલ છે અને તે સ્થાપિત થવા માટે તૈયાર છે.">
+<!ENTITY  finishedPage.title              "સુધારો સ્થાપન કરવા માટે તૈયાર છે">
+<!ENTITY  finishedPage.text               "સુધારો ફરીવાર જ્યારે તમે &brandShortName; શરૂ કરો ત્યારે સ્થાપિત થઈ જશે. તમે &brandShortName; ને હમણાં પુનઃશરૂ કરી શકો, કે પછી કામ કરવાનું ચાલુ રાખો અને પછીથી પુનઃશરૂ કરો.">
+<!ENTITY  incompatibleCheck.title         "ઉમેરા સુસંગતતા ચકાસી રહ્યા છીએ">
+<!ENTITY  incompatibleCheck.label         "તમારા ઉમેરાઓની નવી આવૃત્તિઓ માટે જોઈ રહ્યા છીએ...">
+<!ENTITY  incompatibleList.title          "અસુસંગત ઉમેરાઓ મળ્યા">
+<!ENTITY  noupdatesautodisabled.intro     "ત્યાં કોઈ સુધારો ઉપલબ્ધ નથી. મહેરબાની કરીને પછી ફરીથી ચકાસો અથવા &brandShortName; ના આપોઆપ સુધારા ચકાસણીને સક્રિય કરો.">
+<!ENTITY  noupdatesautoenabled.intro      "ત્યાં કોઈ સુધારાઓ ઉપલબ્ધ નથી. &brandShortName; સુધારાઓ માટે સામયિક રીતે ચકાસી શકશે.">
+<!ENTITY  updateCheck.label               "&brandShortName; ની નવી આવૃત્તિઓ માટે જોઈ રહ્યા છીએ…">
+<!ENTITY  viewDetails.tooltip             "આ સુધારા માટેની વિગતો જુઓ">

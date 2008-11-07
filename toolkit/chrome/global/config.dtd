@@ -34,6 +34,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY window.title "about:config">
+<!ENTITY focusFilter.key "f">
 
 <!-- about:config warning page -->
 <!ENTITY aboutWarningTitle.label "કાળજી રાખો, આ પાનું લવાઈ ગયેલ છે!">
