@@ -71,6 +71,11 @@
 <!ENTITY cmd.edit_redo.accesskey        "R">
 <!ENTITY cmd.edit_redo.key              "y">
 
+<!ENTITY cmd.delete.label               "ამ გვერდის წაშლა">
+<!ENTITY cmd.delete.accesskey           "D">
+<!ENTITY cmd.deleteDomainData.label     "ამ საიტის დავიწყება">
+<!ENTITY cmd.deleteDomainData.accesskey "F">
+
 <!ENTITY cmd.open.label                 "გახსნა">
 <!ENTITY cmd.open.accesskey             "O">
 <!ENTITY cmd.open_window.label          "გახსნა ახალ ფანჯარაში">

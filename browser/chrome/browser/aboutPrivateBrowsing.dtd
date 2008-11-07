@@ -1,0 +1,13 @@
+<!ENTITY privatebrowsingpage.tabtitle                  "პირადი სეანსი">
+
+<!ENTITY privatebrowsingpage.pagetitle                 "პირადი სეანსი">
+
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; ამ სეანსის ისტორიას არ შეინახავს.">
+<!ENTITY privatebrowsingpage.longDesc                  "ამ სეანსზე &brandShortName; პროგრამის მიერ ისტორია არ შეინახება.  იგულისხმება საიტების, ძიების, ჩამოტვირთვების, ვებ ფორმების ისტორიები, ნაჭდევები და დროებითი ინტერნეტ ფაილები.  თუმცა, თქვენს მიერ ჩამოტვირთული ფაილები და შექმნილი სანიშნეები შენარჩუნდება.">
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "შესაძლოა ასევე მოისურვოთ დაწყება თქვენი უახლესი ისტორიის წაშლით.">
+<!ENTITY privatebrowsingpage.recentHistory.label       "უახლესი ისტორიის გასუფთავება">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey   "C">
+
+<!ENTITY privatebrowsingpage.howToStopDesc             "პირადი სეანსის შესანახად, ამორთეთ სამარჯვებიდან &gt; პირადი სეანსი.">
+<!ENTITY privatebrowsingpage.footerDesc                "ისიამოვნეთ!">

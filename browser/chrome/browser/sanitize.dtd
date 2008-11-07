@@ -1,24 +1,40 @@
-<!ENTITY sanitizeDialog.title         "პირადი მონაცემთა დასუფთავება">
+<!ENTITY sanitizePrefs.title           "პირად მონაცემთა დასუფთავება">
+<!ENTITY sanitizeDialog2.title         "უახლესი ისტორიის გასუფთავება">
 
 <!ENTITY sanitizeItems.label          "შემდეგი ელემენტების ახლავე ამოშლა:">
-<!ENTITY clearDataSettings.label      "პირად მონაცემთა წაშლის მოთხოვნისას &brandShortName; პროგრამამ უნდა წაშალოს:">
+<!ENTITY clearDataSettings2.label      "&brandShortName; სეანსის დასრულებისას, ავტომატურად უნდა წაიშალოს ყველა:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY itemHistory.label            "ჩვენების ისტორია">
-<!ENTITY itemHistory.accesskey        "B">
-<!ENTITY itemFormSearchHistory.label  "შენახული ფორმა და ძიების ისტორია">
-<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY clearDuration.label          "ამოღება - ">
+<!ENTITY clearDuration.lastHour       "ბოლო საათი">
+<!ENTITY clearDuration.last2Hours     "ბოლო 2 საათი">
+<!ENTITY clearDuration.last4Hours     "ბოლო 4 საათი">
+<!ENTITY clearDuration.today          "ჩემი დღევანდელი ისტორია">
+<!ENTITY clearDuration.everything     "ჩემის სრული ისტორია">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix         "">
+
+<!ENTITY historySection.label         "ისტორია">
+<!ENTITY dataSection.label            "მონაცემები">
+
+<!ENTITY itemVisitedPages.label       "ნანახი გვერდები">
+<!ENTITY itemVisitedPages.accesskey   "V">
+<!ENTITY itemFormSearchEntries.label  "ფორმები და საძიებო კონტექსტები">
+<!ENTITY itemFormSearchEntries.accesskey "F">
 <!ENTITY itemPasswords.label          "შენახული პაროლები">
 <!ENTITY itemPasswords.accesskey      "P">
 <!ENTITY itemCookies.label            "ნაჭდევები">
 <!ENTITY itemCookies.accesskey        "C">
-<!ENTITY itemCache.label              "ბუფერი">
-<!ENTITY itemCache.accesskey          "a">
+<!ENTITY itemWebCache.label           "ვებ ბუფერი">
+<!ENTITY itemWebCache.accesskey       "W">
 <!ENTITY itemOfflineApps.label        "ვებსაიტის გარე მონაცემები">
 <!ENTITY itemOfflineApps.accesskey    "O">
-<!ENTITY itemDownloads.label          "ჩამოტვირთვის დავთარი">
-<!ENTITY itemDownloads.accesskey      "D">
-<!ENTITY itemActiveLogins.label       "აქტიური შემოსვლები">
+<!ENTITY itemDownloadList.label       "ჩამოტვირთვების სია">
+<!ENTITY itemDownloadList.accesskey   "D">
+<!ENTITY itemActiveLogins.label       "აქტიური შესვლები">
 <!ENTITY itemActiveLogins.accesskey   "L">
+
 <!ENTITY window.width                 "30em">
+<!ENTITY column.width                 "14em">
