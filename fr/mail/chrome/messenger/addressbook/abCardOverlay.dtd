@@ -115,10 +115,15 @@ dans les messages HTML de ce contact.">
 <!ENTITY HomeCountry.label "Pays :">
 <!ENTITY HomeCountry.accesskey "P">
 <!ENTITY HomeWebPage.label "Page Web :">
-<!ENTITY HomeWebPage.accesskey          "e">
+<!ENTITY HomeWebPage.accesskey "e">
+<!ENTITY Birthday.label "Anniversaire :">
+<!ENTITY Birthday.accesskey "A">
+<!ENTITY Year.emptytext "Année">
+<!ENTITY Or.value "ou">
+<!ENTITY Age.emptytext "Âge">
 
-<!ENTITY Work.tab                       "Professionnelle">
-<!ENTITY Work.accesskey                 "o">
+<!ENTITY Work.tab "Professionnelle">
+<!ENTITY Work.accesskey "o">
 <!ENTITY JobTitle.label "Fonction :">
 <!ENTITY JobTitle.accesskey "F">
 <!ENTITY Department.label "Service :">
@@ -142,11 +147,6 @@ dans les messages HTML de ce contact.">
 
 <!ENTITY Other.tab "Informations complémentaires">
 <!ENTITY Other.accesskey "n">
-<!ENTITY Birthday.label "Anniversaire :">
-<!ENTITY Birthday.accesskey "A">
-<!ENTITY Year.emptytext "Année">
-<!ENTITY Or.value "ou">
-<!ENTITY Age.emptytext "Âge">
 <!ENTITY Custom1.label "Divers 1 :">
 <!ENTITY Custom1.accesskey "1">
 <!ENTITY Custom2.label "Divers 2 :"> 
