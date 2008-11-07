@@ -1,0 +1,62 @@
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.pagetitle       "हक्क:विषयी">
+<!ENTITY rights.intro-header    "तुमच्या हक्क विषयी">
+<!ENTITY rights.intro "&brandFullName; फ्री व ओपन सोअर्स सॉफ्टवेअर आहे, जे हजारो वापरकर्ता समाज द्वारे बनविले गेले आहे. तुम्हाला याविषयी काहिक गोष्टी माहित असणे जरूरी आहे:">
+
+<!-- Note on pointa / pointb / pointc form:
+     These points each have an embedded link in the HTML, so each point is
+     split into chunks for text before the link, the link text, and the text
+     after the link. If a localized grammar doesn't need the before or after
+     chunk, it can be left blank.
+
+     Also note the leading/trailing whitespace in strings here, which is
+     deliberate for formatting around the embedded links. -->
+<!ENTITY rights.intro-point1a "&brandShortName; तुम्हाला अटी अंतर्गत उपलब्ध करून दिले जाते">
+<!ENTITY rights.intro-point1b "Mozilla Public License">
+<!ENTITY rights.intro-point1c ". याचा अर्थ तुम्ही &brandShortName; याचा वापर, इतरांकरीता प्रतिकृत व वितरण करू शकता.  तुम्ही &brandShortName; चा स्त्रोत कोड देखिल आवश्यकता नुरूप संपादीत करू शकता. Mozilla Public License तुम्हाला तुमची संपादीत आवृत्तीच वितरण करीता परवागनी देतो.">
+
+<!ENTITY rights.intro-point2a "Mozilla व Firefox व्यापारचिन्ह किंवा लोगो करीता Mozilla तुम्हाला कुठल्याही प्रकारची परवानगी देत नाही. व्यापारचिन्ह विषयी अगाऊ माहिती येथे आढळेल">
+<!ENTITY rights.intro-point2b "येथे">
+<!ENTITY rights.intro-point2c ".">
+
+<!-- point 3 text for official branded builds -->
+<!ENTITY rights.intro-point3a "&vendorShortName;'s उत्पादन करीता गोपणीय करार येथे आढळेल ">
+<!ENTITY rights.intro-point3b "येथे">
+<!ENTITY rights.intro-point3c ".">
+
+<!-- point 3 text for unbranded builds -->
+<!ENTITY rights.intro-point3-unbranded "या उत्पादन करीता लागूहोण्याजोगी गोपणीय करार येथे दर्शविले गेले पाहिजे.">
+
+<!-- point 4 text for official branded builds -->
+<!ENTITY rights.intro-point4a "&brandShortName; वैकल्पिक संकेत स्थळ माहिती सेव पुरविते, जसे की सुरक्षीत संचारन सेवा; तरी, ते 100&#37; अचूक किंवा त्रुटी-विहीन याची आम्ही हमी देत नाही. सेवा अकार्यान्वीत करण्यासंबंधि, अधिक माहिती, तुम्हाला खालिल सेवा अटी अंतर्गत प्राप्त होतील ">
+<!ENTITY rights.intro-point4b "सेवा अटी">
+<!ENTITY rights.intro-point4c ".">
+
+<!-- point 4 text for unbranded builds -->
+<!ENTITY rights.intro-point4a-unbranded "या उत्पादन करीता वेब सेवा समाविष्ट करण्यात आले असल्यास, सेवा करीता कुठलिही सेवा अटी खालिल स्थळाशी जोडले गेले पाहिजे ">
+<!ENTITY rights.intro-point4b-unbranded "संकेत स्थळ सेवा">
+<!ENTITY rights.intro-point4c-unbranded " विभाग.">
+
+<!ENTITY rights.webservices-header "&brandFullName; संकेत स्थळ सेवा">
+
+<!-- Note that this paragraph references a couple of entities from
+     preferences/security.dtd, so that we can refer to text the user sees in
+     the UI, without this page being forgotten every time those strings are
+     updated.  -->
+<!-- intro paragraph for branded builds -->
+<!ENTITY rights.webservices-a "&brandFullName; संकेत स्थल माहिती सेवा (&quot;Services&quot;) चा वापर करतो, जसे की सुरक्षीत संचारन सेवा, जे तुम्हाला खालिलरित्या, &brandShortName; च्या बायनरी आवृत्तीसह वापरणीस उपलब्ध आहे. तुम्हाला सेवाचा वापर करायचा नसल्यास किंवा अटी अस्वीकराण्याजोगी असल्यास, तुम्ही अनुप्रयोगाचे प्राधान्यक्रम उघडून, व खालिल विभाग निवडून सुरक्षीत संचारन सेवा अकार्यान्वीत करू शकता ">
+<!ENTITY rights.webservices-b "सुरक्षा">
+<!ENTITY rights.webservices-c " विभाग, आणि &quot;&blockAttackSites.label;&quot; व &quot;&blockWebForgeries.label;&quot; करीता पर्याय निवडू नका ">
+
+<!-- intro paragraph for unbranded builds -->
+<!ENTITY rights.webservices-unbranded "उत्पादनसह समाविष्टीत संकेत स्थळ सेवाचे पुनरावलोकन, त्याचबरोबर त्यास अकार्यान्वीत करण्याकरीता सूचनाचे समावेषन, लागू होत असल्यास, येथे समाविष्ट केले गेले पाहिजे.">
+
+<!-- point 1 text for unbranded builds -->
+<!ENTITY rights.webservices-term1-unbranded "या उत्पादन करीता लागूहोण्याजोगी सेवा अटी येथे दर्शविले गेले पाहिजे.">
+
+<!-- points 1-7 text for branded builds -->
+<!ENTITY rights.webservices-term1 "&vendorShortName; व त्याचे सहभागी, करारकर्ता व सहपाठी सर्वात उत्तम व परियुक्त फिशींग व मालवेर विषयी माहिती पुरविते.  तरी, माहिती पूर्ण व त्रुटी-हीन याची खात्री पुरविली जाऊ शकत नाही: काहिक धोकादायी स्थळ ओळखले जाऊ शकत नाही व काहिक सुरक्षीत स्थळ त्रुटी अंतर्गत आढळले जातिल.">
+<!ENTITY rights.webservices-term2 "&vendorShortName; पुढे जाण्यास नकार देऊ शकतो किंवा इच्छा नुरूप सेवा बदलवू शकतो.">
+<!ENTITY rights.webservices-term3 "तुम्ही ही सेवा &brandShortName; च्या आवृत्तीसह वापरण्यास स्वागत केले जाते, व असे करण्याकरीता तुमच्याकडे आवश्यक हक्क आहे.  &vendorShortName; व त्याचे करारकर्ता सेवा अंतर्गत सर्व हक्क सुरक्षीत केले जाते.  या अटींचा उद्देश ओपन सोअर्स परवाना अंर्गत &brandShortName; करीता व &brandShortName; च्या परस्पर स्त्रोत कोड आवृत्ती लागू होण्याजोगी हक्क मर्यादीत करण्याकरीता नाही.">
+<!ENTITY rights.webservices-term6 "&vendorShortName; या अटी वेळो वेळी अद्ययावतीत केले जाऊ शकते. या अटी &vendorShortName; चे लिखीत करार नुरूप विना संपादन किंवा रद्द केले जाऊ शकते.">
