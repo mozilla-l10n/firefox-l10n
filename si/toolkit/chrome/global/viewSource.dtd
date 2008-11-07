@@ -50,7 +50,6 @@
 <!ENTITY menu_textReduce.accesskey "D">
 <!ENTITY menu_textReset.label "සාමාන්‍ය">
 <!ENTITY menu_textReset.accesskey "N">
-
 <!ENTITY findOnCmd.label     "මෙම පිටුවේ සොයන්න...">
 <!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
@@ -61,3 +60,9 @@
 <!ENTITY textEnlarge.commandkey3 "">
 <!ENTITY textReset.commandkey2 "">
 <!ENTITY textReduce.commandkey2 "">
+<!ENTITY backCmd.label "පසුපසට">
+<!ENTITY backCmd.accesskey "B">
+<!ENTITY forwardCmd.label "ඉදිරියට">
+<!ENTITY forwardCmd.accesskey "F">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
