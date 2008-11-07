@@ -22,3 +22,5 @@
 <!ENTITY editBookmarkOverlay.choose.label                    "තෝරන්න…">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "ලේබල කොමාවක් මඟින් වෙන් කරන්න">
 
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "නව බහලුම">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">

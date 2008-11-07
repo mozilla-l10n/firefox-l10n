@@ -1,25 +1,35 @@
-<!ENTITY sanitizeDialog.title         "පෞද්ගලික දත්ත පැහැදිළි කරන්න">
 
-<!ENTITY sanitizeItems.label          "පහත අයිතම දැන් පැහැදිළි කරන්න:">
+<!ENTITY sanitizeItems.label          "පහත අයිතම දැන් මකන්න:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY itemHistory.label            "සැරිසර අතීතය">
-<!ENTITY itemHistory.accesskey        "B">
-<!ENTITY itemFormSearchHistory.label  "සුරැකූ පෝරම සහ සෙවුම් අතීතය">
-<!ENTITY itemFormSearchHistory.accesskey "F">
 <!ENTITY itemPasswords.label          "රහස්පදය">
 <!ENTITY itemPasswords.accesskey      "P">
 <!ENTITY itemCookies.label            "කුකී">
-<!ENTITY itemCookies.accesskey        "C">
-<!ENTITY itemCache.label              "කැච්">
 <!ENTITY itemCache.accesskey          "a">
-<!ENTITY itemDownloads.label          "බාගත කිරීම් අතීතය">
-<!ENTITY itemDownloads.accesskey      "D">
-<!ENTITY itemSessions.label           "සත්‍යාපනය කළ සැසි">
-<!ENTITY itemSessions.accesskey       "S">
-
 <!ENTITY itemOfflineApps.label        "නොබැඳි වෙබ් අඩවි දත්ත">
 <!ENTITY itemOfflineApps.accesskey    "O">
-<!ENTITY clearDataSettings.label      "මා විමසන විට &brandShortName; විසින් මාගේ පෞද්ගලික දත්ත මකාදමයි:">
 <!ENTITY window.width                 "30em">
+<!ENTITY clearDataSettings2.label     "When I quit &brandShortName;, it should automatically clear all:">
+<!ENTITY clearDuration.label          "Remove ">
+<!ENTITY clearDuration.lastHour       "the last hour">
+<!ENTITY clearDuration.last2Hours     "the last 2 hours">
+<!ENTITY clearDuration.last4Hours     "the last 4 hours">
+<!ENTITY clearDuration.today          "my history for today">
+<!ENTITY clearDuration.everything     "my entire history">
+<!ENTITY clearDuration.suffix         "">
+<!ENTITY column.width                 "14em">
+<!ENTITY dataSection.label            "දත්ත">
+<!ENTITY historySection.label         "අතීතය">
+<!ENTITY itemActiveLogins.label       "සක්‍රීය පිවිසුම්">
+<!ENTITY itemActiveLogins.accesskey   "L">
+<!ENTITY itemDownloadList.label       "බාගැනීමේ ලැයිස්තුව">
+<!ENTITY itemDownloadList.accesskey   "D">
+<!ENTITY itemFormSearchEntries.label  "පෝරම සහ සෙවුම් ඇතුළත් කිරීම්">
+<!ENTITY itemFormSearchEntries.accesskey "F">
+<!ENTITY itemVisitedPages.label       "පිවිසුණු පිටු">
+<!ENTITY itemVisitedPages.accesskey   "V">
+<!ENTITY itemWebCache.label           "වෙබ් කැච්">
+<!ENTITY itemWebCache.accesskey       "W">
+<!ENTITY sanitizeDialog2.title         "මෑත අතීතය මකන්න">
+<!ENTITY sanitizePrefs.title           "පෞද්ගලික දත්ත මකන්න">

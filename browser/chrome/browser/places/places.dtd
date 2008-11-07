@@ -212,3 +212,7 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.noPreviewAvailable.label "පුර්‍ව දසුන">
 <!ENTITY detailsPane.selectAnItemText.description "වත්කම් දර්ශනයට සහ සැකසීමට අයිතමයක් තෝරන්න">
+<!ENTITY cmd.delete.label               "මෙම පිටුව මකන්න">
+<!ENTITY cmd.delete.accesskey           "D">
+<!ENTITY cmd.deleteDomainData.label     "මෙම පිටුව ගැන නොසිතන්න">
+<!ENTITY cmd.deleteDomainData.accesskey "F">
