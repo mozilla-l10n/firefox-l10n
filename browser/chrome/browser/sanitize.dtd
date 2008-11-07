@@ -6,7 +6,6 @@
 <!ENTITY itemPasswords.label          "රහස්පදය">
 <!ENTITY itemPasswords.accesskey      "P">
 <!ENTITY itemCookies.label            "කුකී">
-<!ENTITY itemCache.accesskey          "a">
 <!ENTITY itemOfflineApps.label        "නොබැඳි වෙබ් අඩවි දත්ත">
 <!ENTITY itemOfflineApps.accesskey    "O">
 <!ENTITY window.width                 "30em">
@@ -33,3 +32,4 @@
 <!ENTITY itemWebCache.accesskey       "W">
 <!ENTITY sanitizeDialog2.title         "මෑත අතීතය මකන්න">
 <!ENTITY sanitizePrefs.title           "පෞද්ගලික දත්ත මකන්න">
+<!ENTITY itemCookies.accesskey        "C">
