@@ -1,0 +1,20 @@
+<!ENTITY window.title "Ordenar pasta">
+
+<!ENTITY sortOptions.label "Opções de ordenar">
+<!ENTITY description.label "O &brandShortName; pode ordenar pastas individuais. Use estas opções para personalizar a ordem para esta pastas.">
+
+<!ENTITY sortBy.label "Ordenar por:">
+<!ENTITY sortBy.name.label "Nome">
+<!ENTITY sortBy.url.label "Localização">
+<!ENTITY sortBy.shortcutUrl.label "Palavra-chave">
+<!ENTITY sortBy.description.label "Descrição">
+<!ENTITY sortBy.bookmarkAddDate.label "Adicionado">
+<!ENTITY sortBy.lastModifiedDate.label "Última modificação">
+<!ENTITY sortBy.lastVisitDate.label "Última visita">
+
+<!ENTITY sortOrder.label "Ordenar:">
+<!ENTITY sortAscending.label "Ascendente">
+<!ENTITY sortDescending.label "Descendente">
+
+<!ENTITY sortFoldersFirst.label "Ordenar pastas primeiro">
+<!ENTITY sortRecursively.label "ordenar recursivamente">
