@@ -115,6 +115,11 @@ mensagens HTML deste contacto.">
 <!ENTITY HomeCountry.accesskey "s">
 <!ENTITY HomeWebPage.label "Página Web:">
 <!ENTITY HomeWebPage.accesskey "W">
+<!ENTITY Birthday.label                 "Aniversário:">
+<!ENTITY Birthday.accesskey             "v">
+<!ENTITY Year.emptytext                 "Ano">
+<!ENTITY Or.value                       "ou">
+<!ENTITY Age.emptytext                  "Idade">
 
 <!ENTITY Work.tab "Trabalho">
 <!ENTITY Work.accesskey                 "T">
