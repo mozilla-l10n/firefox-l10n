@@ -8,8 +8,6 @@
   useDownloadedList.label convey the meaning "suspected" (and not something like
   "known").
 -->
-<!ENTITY  tellMaybeForgery.label     "ನಾನು ಭೇಟಿ ನೀಡುತ್ತಿರುವ ತಾಣವು  ನಕಲಿ ಎಂದು ಸಂಶಯವಿದ್ದರೆ  ನನಗೆ ಸೂಚಿಸು">
-<!ENTITY  tellMaybeForgery.accesskey "T">
 
 
 <!-- LOCALIZATION NOTE (askThirdParty.label):
@@ -46,5 +44,3 @@
 
 <!ENTITY  savedPasswords.label            "ಉಳಿಸಲಾದ ಗುಪ್ತಪದಗಳು…">
 <!ENTITY  savedPasswords.accesskey        "P">
-<!ENTITY  tellMaybeAttackSite.label     "ನಾನು ಭೇಟಿ ನೀಡುತ್ತಿರುವ ತಾಣವು ಒಂದು ದಾಳಿಕಾರಕ ತಾಣವೆಂಬ ಅನುಮಾನವಿದ್ದರೆ ತಿಳಿಸು">
-<!ENTITY  tellMaybeAttackSite.accesskey "k">

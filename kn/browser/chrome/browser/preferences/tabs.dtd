@@ -1,9 +1,3 @@
-<!ENTITY newPagesIn.label             "ಹೊಸ ಪುಟಗಳು ಹೀಗೆ ತೆರೆಯಬೇಕು :">
-<!ENTITY inNewWindow.label            "ಒಂದು ಹೊಸ ಕಿಟಕಿಯಲ್ಲಿ(ವಿಂಡೋ)">
-<!ENTITY inNewWindow.accesskey        "w">
-<!ENTITY inNewTab.label               "ಒಂದು  ಹಾಳೆಯಲ್ಲಿ(ಟ್ಯಾಬ್)">
-<!ENTITY inNewTab.accesskey           "t">
-
 <!ENTITY warnCloseMultipleTabs.label  "ಅನೇಕ ಹಾಳೆಗಳನ್ನು ಮುಚ್ಚುವಾಗ ನನ್ನನ್ನು ಎಚ್ಚರಿಸು">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
 

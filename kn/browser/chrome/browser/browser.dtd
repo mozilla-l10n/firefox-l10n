@@ -152,9 +152,6 @@
 <!ENTITY preferencesCmdUnix.label       "ಆದ್ಯತೆಗಳು">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearPrivateDataCmd.label            "ಖಾಸಗಿ ಮಾಹಿತಿಯನ್ನು ಅಳಿಸಿಹಾಕು">
-<!ENTITY clearPrivateDataCmd.accesskey        "P">
-
 <!ENTITY viewMenu.label         "ನೋಟ"> 
 <!ENTITY viewMenu.accesskey       "V"> 
 <!ENTITY viewToolbarsMenu.label       "ಉಪಕರಣ ಪಟ್ಟಿಗಳು"> 
@@ -267,7 +264,6 @@
 <!-- + is above this key on many keyboards -->
 
 
-<!ENTITY newTabButton.tooltip           "ಒಂದು ಹೊಸ ಹಾಳೆಯನ್ನು ತೆರೆ">
 <!ENTITY newWindowButton.tooltip        "ಒಂದು ಹೊಸ ವಿಂಡೋವನ್ನು ತೆರೆ">
 <!ENTITY sidebarCloseButton.tooltip     "ಬದಿಯಪಟ್ಟಿಯನ್ನು ಮುಚ್ಚು">
 
@@ -373,8 +369,6 @@
 <!ENTITY printFrameCmd.label          "ಫ್ರೇಮ್ ಅನ್ನು ಮುದ್ರಿಸು…">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY showAllHistoryCmd2.label "ಎಲ್ಲಾ ಇತಿಹಾಸವನ್ನು ತೋರಿಸು">
-<!ENTITY showImageCmd.accesskey       "S">
-<!ENTITY showImageCmd.label           "ಚಿತ್ರವನ್ನು ತೋರಿಸು">
 <!ENTITY urlbar.emptyText             "ಬುಕ್‌ಮಾರ್ಕುಗಳನ್ನು ಹಾಗು ಇತಿಹಾಸವನ್ನು ಹುಡುಕು">
 <!ENTITY fullZoom.accesskey             "Z">
 <!-- new bookmarks and history -->

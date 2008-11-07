@@ -74,9 +74,6 @@
 <!ENTITY  feedSubscribe         "ಚಂದಾದಾರನಾಗು">
 <!ENTITY  feedSubscribe.accesskey "u">
 
-<!ENTITY  generalSecurityMore   "ಹೆಚ್ಚು">
-<!ENTITY  generalSecurityMore.accesskey "o">
-
 <!ENTITY  generalTab.accesskey  "G">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaDimension        "ಆಕಾರ:">

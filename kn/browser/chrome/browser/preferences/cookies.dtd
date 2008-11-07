@@ -22,8 +22,6 @@
 
 <!ENTITY     filter.label                   "ಹುಡುಕು:">
 <!ENTITY     filter.accesskey               "S">
-<!ENTITY     clear.label                    "ತೆರವುಗೊಳಿಸು">
-<!ENTITY     clear.accesskey                "l">
 
 <!ENTITY     button.close.label             "ಮುಚ್ಚು">
 <!ENTITY     button.close.accesskey         "C">

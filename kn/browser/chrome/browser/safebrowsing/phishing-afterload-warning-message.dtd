@@ -16,9 +16,6 @@
 <!ENTITY safeb.palm.notforgery.label2 "ಇದು ಜಾಲ ವಂಚನೆಯಲ್ಲ…">
 <!ENTITY safeb.palm.report.label "ಈ ತಾಣವನ್ನು ಏಕೆ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ?">
 
-
-<!ENTITY safeb.urlbaricon.tooltip "ಈ ಪುಟವು ಅಪಾಯಕಾರಿಯಾಗಿರಬಹುದು; ವಿವರಗಳಿಗಾಗಿ ಕ್ಲಿಕ್ಕಿಸಿ.">
-
 <!ENTITY safeb.blocked.malware.title "ಧಾಳಿಕಾರಕ ತಾಣ ಎಂದು ಪರಿಗಣಿಸಲಾಗಿದೆ!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "<span id='malware_sitename'/> ನಲ್ಲಿನ ಈ ಜಾಲ ತಾಣವು ಒಂದು ಧಾಳಿಕಾರಕ ತಾಣ ಎಂದು ಪರಿಗಣಿಸಿ ನಿಮ್ಮ ಸುರಕ್ಷತಾ ಆದ್ಯತೆಗಳ ಅನುಸಾರವಾಗಿ ಇದನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ.">
