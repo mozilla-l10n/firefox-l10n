@@ -16,15 +16,15 @@
 <!ENTITY itemFormSearchEntries.label "Moduli e ricerche">
 <!ENTITY itemFormSearchEntries.accesskey "M">
 <!ENTITY itemPasswords.label "Password salvate">
-<!ENTITY itemPasswords.accesskey "P">
+<!ENTITY itemPasswords.accesskey "s">
 <!ENTITY itemCookies.label "Cookie">
 <!ENTITY itemCookies.accesskey "C">
 <!ENTITY itemWebCache.label "Cache">
 <!ENTITY itemWebCache.accesskey "a">
 <!ENTITY itemOfflineApps.label "Dati non in linea dei siti web ">
-<!ENTITY itemOfflineApps.accesskey "w">
+<!ENTITY itemOfflineApps.accesskey "D">
 <!ENTITY itemDownloadList.label "Elenco dei download">
-<!ENTITY itemDownloadList.accesskey "D">
+<!ENTITY itemDownloadList.accesskey "E">
 <!ENTITY itemActiveLogins.label "Login attivi">
 <!ENTITY itemActiveLogins.accesskey "L">
 <!ENTITY window.width "30em">
