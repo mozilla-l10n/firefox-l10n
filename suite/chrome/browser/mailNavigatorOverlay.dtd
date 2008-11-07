@@ -20,3 +20,7 @@
 <!ENTITY sendLinkCmd.label               "Send Link…"> 
 <!ENTITY sendLinkCmd.accesskey           "d">
 
+<!ENTITY contextSendVideo.label          "Send Video…">
+<!ENTITY contextSendVideo.accesskey      "n">
+<!ENTITY contextSendAudio.label          "Send Audio…">
+<!ENTITY contextSendAudio.accesskey      "n">
