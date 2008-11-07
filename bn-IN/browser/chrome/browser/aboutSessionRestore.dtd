@@ -1,18 +1,18 @@
-<!ENTITY restorepage.tabtitle       "Restore Session">
-<!ENTITY restorepage.pagetitle      "Would You Like to Restore Your Session?">
+<!ENTITY restorepage.tabtitle       "সেশান পুনরুদ্ধার করুন">
+<!ENTITY restorepage.pagetitle      "পূর্ববর্তী সেশান পুনরুদ্ধার করতে ইচ্ছুক কি?">
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "Your previous &brandShortName; session closed unexpectedly. We sincerely apologize for the inconvenience. You can restore the tabs and windows from your previous session, or start a new session if they are no longer needed.">
-<!ENTITY restorepage.remedies       "If &brandShortName; closes repeatedly:">
-<!ENTITY restorepage.dueToChrome    "Try disabling any recently added extensions in the Add-ons Manager.">
-<!ENTITY restorepage.dueToContent   "Try restoring your session without any Web pages you suspect might be causing the problem:">
+<!ENTITY restorepage.issueDesc      "পূর্ববর্তী &brandShortName; সেশান অপ্রত্যাশিতভাবে সমাপ্ত হয়েছিল। এর জন্য আমরা দুঃখিত।  সংশ্লিষ্ট পূর্ববর্তী সেশানের ট্যাব ও উইন্ডো পুনরুদ্ধার করুন অথবা সেইগুলির প্রয়োজন না থাকলে একটি নতুন সেশান আরম্ভ করুন।">
+<!ENTITY restorepage.remedies       "&brandShortName; একাধিকবার বন্ধ হলে:">
+<!ENTITY restorepage.dueToChrome    "অতিরিক্ত সামগ্রী পরিচালন ব্যবস্থার সাহায্যে সম্প্রতি যোগ করা কোনো অতিরিক্ত সামগ্রী নিষ্ক্রিয় করে পরীক্ষা করুন।">
+<!ENTITY restorepage.dueToContent   "সমস্যার কারণ হিসাবে চিহ্নিত সন্দেহজনক কোনো পেজ বন্ধ করে সেশানটি পুনরায় আরম্ভের প্রচেষ্টা করুন:">
 
-<!ENTITY restorepage.restoreButton  "Restore Previous Session">
+<!ENTITY restorepage.restoreButton  "পূর্ববর্তী সেশান পুনরুদ্ধার করুন">
 <!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.cancelButton   "Start New Session">
+<!ENTITY restorepage.cancelButton   "নতুন সেশান আরম্ভ করুন">
 <!ENTITY restorepage.cancel.access  "S">
 
-<!ENTITY restorepage.restoreHeader  "Restore">
-<!ENTITY restorepage.listHeader     "Windows and Tabs">
+<!ENTITY restorepage.restoreHeader  "পুনরুদ্ধার করুন">
+<!ENTITY restorepage.listHeader     "উইন্ডো ও ট্যাব">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Window &#37;S">
+<!ENTITY restorepage.windowLabel    "উইন্ডো &#37;S">
