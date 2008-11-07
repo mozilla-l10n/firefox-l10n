@@ -6,3 +6,6 @@
 <!ENTITY warnOpenManyTabs.accesskey   "o">
 <!ENTITY switchToNewTabs.accesskey    "s">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
+
+<!ENTITY newWindowsAsTabs.label       "नविन चौकट नविन टॅब अंतर्गत त्याऐवजी उघडा">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
