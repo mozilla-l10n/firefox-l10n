@@ -12,21 +12,21 @@
 <!ENTITY acceptThirdParty.label "Принимать куки со сторонних сайтов">
 <!ENTITY acceptThirdParty.accesskey "с">
 <!ENTITY keepUntil.label "Сохранять куки:">
-<!ENTITY keepUntil.accesskey "С">
+<!ENTITY keepUntil.accesskey "х">
 <!ENTITY expire.label "до истечения срока их действия">
 <!ENTITY close.label "до закрытия мною &brandShortName;">
 <!ENTITY askEachTime.label "спрашивать каждый раз">
 <!ENTITY cookieExceptions.label "Исключения…">
 <!ENTITY cookieExceptions.accesskey "к">
 <!ENTITY showCookies.label "Показать куки…">
-<!ENTITY showCookies.accesskey "П">
+<!ENTITY showCookies.accesskey "о">
 <!ENTITY privateData.label "Личные данные">
 <!ENTITY alwaysClear.label "При закрытии &brandShortName; всегда стирать мои личные данные">
-<!ENTITY alwaysClear.accesskey "у">
+<!ENTITY alwaysClear.accesskey "з">
 <!ENTITY askBeforeClear.label "Спрашивать перед стиранием личных данных">
-<!ENTITY askBeforeClear.accesskey "С">
+<!ENTITY askBeforeClear.accesskey "ш">
 <!ENTITY clearDataSettings.label "Настроить…">
-<!ENTITY clearDataSettings.accesskey "Н">
+<!ENTITY clearDataSettings.accesskey "т">
 <!ENTITY clearDataNow.label "Стереть сейчас…">
 <!ENTITY clearDataNow.label2 "Стереть сейчас">
-<!ENTITY clearDataNow.accesskey "т">
+<!ENTITY clearDataNow.accesskey "е">
