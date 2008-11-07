@@ -41,9 +41,6 @@
 <!ENTITY  update.status.label             "स्थिती:">
 
 <!ENTITY  license.instructionText         "कृपया खालिल परवाना करार वाचा. कराराचे उर्वरीत भाग पाहण्याकरीता वर खाली पट्टीचा वापर करा.">
-<!ENTITY  finished.text                   "अद्ययावत यशस्वीरित्या डाउनलोड झाले व तपासल्या सुद्धा गेले, व त्याचे 
-प्रतिष्ठापन पुढच्यावेळी
-                                           &brandShortName; सुरूकरतेवेळी होईल.">
 <!ENTITY  license.accept.accesskey        "c">
 
 <!ENTITY  license.titleText               "सॉफ्टवेअर परवाना करार">
