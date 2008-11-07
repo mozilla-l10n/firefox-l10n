@@ -119,3 +119,6 @@
 <!ENTITY  securityView.technical.header                 "ટેક્નિકલ વિગતો">
 
 <!ENTITY  generalMode           "રેન્ડર સ્થિતિ:">
+
+<!ENTITY  generalSecurityDetails   "વિગતો">
+<!ENTITY  generalSecurityDetails.accesskey "D">

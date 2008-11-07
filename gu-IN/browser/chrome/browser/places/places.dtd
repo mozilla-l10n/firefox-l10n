@@ -213,3 +213,8 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.noPreviewAvailable.label "પૂર્વદર્શન">
 <!ENTITY detailsPane.selectAnItemText.description "વસ્તુના ગુણધર્મો જોવા અને તેમાં ફેરફાર કરવા માટે તેને પસંદ કરો">
+
+<!ENTITY cmd.delete.label               "આ પાનું કાઢી નાંખો">
+<!ENTITY cmd.delete.accesskey           "D">
+<!ENTITY cmd.deleteDomainData.label     "આ સાઈટ વિશે ભૂલી જાવ">
+<!ENTITY cmd.deleteDomainData.accesskey "F">

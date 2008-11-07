@@ -21,3 +21,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
 <!ENTITY editBookmarkOverlay.choose.label                    "પસંદ કરો…">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "ટેગોને અલ્પવિરામથી અલગ પાડો.">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "નવું ફોલ્ડર">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">
