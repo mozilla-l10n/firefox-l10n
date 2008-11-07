@@ -161,8 +161,8 @@
 <!ENTITY preferencesCmdUnix.label "Voorkeure">
 <!ENTITY preferencesCmdUnix.accesskey "k">
 
-<!ENTITY clearPrivateDataCmd.label "Skrap private data">
-<!ENTITY clearPrivateDataCmd.accesskey "P">
+<!ENTITY clearRecentHistoryCmd.label "Clear Recent History">
+<!ENTITY clearRecentHistoryCmd.accesskey "H">
 
 <!ENTITY privateBrowsingCmd.label "Private Browsing">
 <!ENTITY privateBrowsingCmd.accesskey "B">
