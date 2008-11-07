@@ -93,8 +93,8 @@
 <!ENTITY showStatusBarCmd.accesskey "S">
 <!ENTITY showTaskBoxCmd.label "Yfirlit verka">
 <!ENTITY showTaskBoxCmd.accesskey "L">
-<!ENTITY calendar.fullscreen.label "Skjáhamur">
-<!ENTITY calendar.fullscreen.accesskey "S">
+<!ENTITY calendar.fullscreen.label "Fylla skjá">
+<!ENTITY calendar.fullscreen.accesskey "k">
 <!ENTITY calendar.addons.label "Viðbætur">
 <!ENTITY calendar.addons.accesskey "i">
 <!ENTITY goMenu.label "Áfram">

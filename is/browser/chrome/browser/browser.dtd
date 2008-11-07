@@ -42,8 +42,8 @@
 <!ENTITY pageInfoCmd.label "Síðuupplýsingar">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "Skjáhamur">
-<!ENTITY fullScreenCmd.accesskey "j">
+<!ENTITY fullScreenCmd.label "Fylla skjá">
+<!ENTITY fullScreenCmd.accesskey "k">
 <!ENTITY fullScreenMinimize.tooltip "Minnka">
 <!ENTITY fullScreenRestore.tooltip "Endurheimta">
 <!ENTITY fullScreenClose.tooltip "Loka">
