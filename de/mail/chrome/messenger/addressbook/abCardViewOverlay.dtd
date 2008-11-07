@@ -46,5 +46,5 @@
 <!ENTITY addresses.heading           "Adressen">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label           "Karte anzeigen">
-<!ENTITY mapIt.tooltip               "Karte für diese Adresse aus dem Web anzeigen">
+<!ENTITY mapIt.tooltip               "Landkarte für diese Adresse aus dem Web anzeigen">
 
