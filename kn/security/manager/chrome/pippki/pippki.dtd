@@ -51,7 +51,6 @@
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title  "ಮುಖ್ಯಗುಪ್ತಪದವನ್ನು ದಾಖಲಿಸಿ">
-<!ENTITY getPassword.tokenName.label "ಸುರಕ್ಷತಾ ಸಾಧನ">
 <!ENTITY getPassword.password.label "ಗುಪ್ತಪದ:">
 
 <!-- These should be common -->

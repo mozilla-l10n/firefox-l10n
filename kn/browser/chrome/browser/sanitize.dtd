@@ -2,7 +2,6 @@
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY itemHistory.label            "ವೀಕ್ಷಣಾ ಪೂರ್ವಇತಿಹಾಸ">
 <!ENTITY itemPasswords.accesskey      "P">
 <!ENTITY itemCookies.label            "ಕುಕಿಗಳು">
 <!ENTITY itemCookies.accesskey        "C">

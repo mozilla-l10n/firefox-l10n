@@ -38,8 +38,6 @@
 
 <!ENTITY filterPrefs.label "ಫಿಲ್ಟರ್:">
 <!ENTITY filterPrefs.accesskey "I">
-<!ENTITY showAll.label "ಎಲ್ಲವನ್ನೂ ತೋರಿಸು">
-<!ENTITY showAll.accesskey "W">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "ಆದ್ಯತೆಯ ಹೆಸರು">
