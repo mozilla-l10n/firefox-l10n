@@ -82,6 +82,11 @@ The Initial Developer of the Original Code is
 
 <!ENTITY allowRemoteContent.label       "Permite imágenes remotas en el correo HTML.">
 <!ENTITY allowRemoteContent.accesskey   "g">
+<!ENTITY allowRemoteContent.tooltip     "En mensajes HTML messages es posible
+incrustar imágenes de fuentes remotas. Abriendo esos mensajes se abrirá una
+conexión a esa fuente externa. Ésto puede permitir el rastreo del
+mensaje que se está leyendo. Marcando esta caja permitirá esas imágenes externas
+incrustadas en mensajes HTML de este contacto.">
 
 <!ENTITY WorkPhone.label "Trabajo:">
 <!ENTITY WorkPhone.accesskey "j">
@@ -110,8 +115,13 @@ The Initial Developer of the Original Code is
 <!ENTITY HomeCountry.accesskey          "P">
 <!ENTITY HomeWebPage.label "Página web:">
 <!ENTITY HomeWebPage.accesskey          "W">
+<!ENTITY Birthday.label                 "Cumpleaños:">
+<!ENTITY Birthday.accesskey             "C">
+<!ENTITY Year.emptytext                 "Año">
+<!ENTITY Or.value                       "o">
+<!ENTITY Age.emptytext                  "Edad">
 
-<!ENTITY Work.label "Trabajo">
+<!ENTITY Work.tab "Trabajo">
 <!ENTITY Work.accesskey "j">
 <!ENTITY JobTitle.label "Puesto:">
 <!ENTITY JobTitle.accesskey             "e">
@@ -136,11 +146,6 @@ The Initial Developer of the Original Code is
 
 <!ENTITY Other.tab "Otros">
 <!ENTITY Other.accesskey                "t">
-<!ENTITY Birthday.label                 "Cumpleaños:">
-<!ENTITY Birthday.accesskey             "C">
-<!ENTITY Year.emptytext                 "Año">
-<!ENTITY Or.value                       "o">
-<!ENTITY Age.emptytext                  "Edad">
 <!ENTITY Custom1.label "Personalizado 1:">
 <!ENTITY Custom1.accesskey "1">
 <!ENTITY Custom2.label "Personalizado 2:">
