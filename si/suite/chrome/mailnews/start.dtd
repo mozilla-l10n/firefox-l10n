@@ -64,3 +64,4 @@ client, supporting advanced junk mail detection and other useful features.">
 '<a href="http://www.mozilla.org/mailnews/">We</a> welcome bug reports and feature
 requests, but please read the <a id="releaseNotesURL" href="">release notes</a> and query
 <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a> first.'>
+<!ENTITY feat_rss.label "RSS Reader">
