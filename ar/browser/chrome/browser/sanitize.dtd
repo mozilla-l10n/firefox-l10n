@@ -1,24 +1,39 @@
-<!ENTITY sanitizeDialog.title "امسح البيانات الشخصية">
+<!ENTITY sanitizePrefs.title           "امسح البيانات الشخصية">
+<!ENTITY sanitizeDialog2.title "امسح التاريخ الحالي">
 
 <!ENTITY sanitizeItems.label "امسح العناصر التّالية الآن:">
-<!ENTITY clearDataSettings.label "عندما أطلب من &brandShortName; مسح بياناتي الشخصيّة، عليه أن يمسح:">
+<!ENTITY clearDataSettings2.label     "عند خروجي من &brandShortName;، ينبغي عليه تلقائياً أن يمسح كل:">
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
+<!ENTITY clearDuration.label          "أزِل ">
+<!ENTITY clearDuration.lastHour       "آخر ساعة">
+<!ENTITY clearDuration.last2Hours     "آخر ساعتين">
+<!ENTITY clearDuration.last4Hours     "آخر أربع ساعات">
+<!ENTITY clearDuration.today          "التاريخ لهذا اليوم">
+<!ENTITY clearDuration.everything     "التاريخ كله">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix         "">
 
-<!ENTITY itemHistory.label "تاريخ التصفح">
-<!ENTITY itemHistory.accesskey "ت">
-<!ENTITY itemFormSearchHistory.label "تاريخ البحث و الاستمارات المحفوظ">
-<!ENTITY itemFormSearchHistory.accesskey "ب">
+<!ENTITY historySection.label         "التاريخ">
+<!ENTITY dataSection.label            "البيانات">
+
+<!ENTITY itemVisitedPages.label       "الصفحات التي زرتها">
+<!ENTITY itemVisitedPages.accesskey   "ر">
 <!ENTITY itemPasswords.label "كلمات السر المحفوظة">
 <!ENTITY itemPasswords.accesskey "ك">
-<!ENTITY itemCookies.label "السكاكر">
+<!ENTITY itemCookies.label "الكعكات">
 <!ENTITY itemCookies.accesskey "س">
-<!ENTITY itemCache.label "الذاكرة المؤقتة">
-<!ENTITY itemCache.accesskey "ذ">
+<!ENTITY itemDownloadList.label       "قائمة التنزيل">
+<!ENTITY itemDownloadList.accesskey   "ز">
 <!ENTITY itemOfflineApps.label "بيانات المواقع للعمل دون اتصال">
 <!ENTITY itemOfflineApps.accesskey "ب">
-<!ENTITY itemDownloads.label "تاريخ التنزيلات">
-<!ENTITY itemDownloads.accesskey "ت">
+<!ENTITY itemWebCache.label           "ذاكرة الوب المخبّأة">
+<!ENTITY itemWebCache.accesskey       "و">
+<!ENTITY itemFormSearchEntries.label  "مُدخلات بحث &amp; النماذج">
+<!ENTITY itemFormSearchEntries.accesskey "ث">
 <!ENTITY itemActiveLogins.label "تسجيلات الدخول النشِطة">
 <!ENTITY itemActiveLogins.accesskey "ش">
+
 <!ENTITY window.width "30em">
+<!ENTITY column.width "14em">

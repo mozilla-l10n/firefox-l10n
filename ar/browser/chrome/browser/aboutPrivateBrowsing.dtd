@@ -1,0 +1,13 @@
+<!ENTITY privatebrowsingpage.tabtitle                  "تصفح خاص">
+
+<!ENTITY privatebrowsingpage.pagetitle                 "تصفح خاص">
+
+<!ENTITY privatebrowsingpage.issueDesc                 "لن يحفظ &brandShortName; أيّ تاريخ لهذه الجلسة.">
+<!ENTITY privatebrowsingpage.longDesc                  "لن يسجّل &brandShortName; الأحداث التي ستجري خلال جلسة التصفح هذه. ذلك يتضمّن تاريخ التصفح، وتاريخ البحث، وتاريخ التحميلات، وتاريخ نماذج الوب، والكعكات، وملفات الإنترنت المؤقتة. ولكنه سيحتفظ بالملفات التي تحمّلها وبالعلامات المرجعية التي تضيفها. ">
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "قد ترغب بأن تبدأ بمسح تاريخك الحالي.">
+<!ENTITY privatebrowsingpage.recentHistory.label       "امسح التاريخ الحالي">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey   "س">
+
+<!ENTITY privatebrowsingpage.howToStopDesc             "لإيقاف التصفح الخاص، أزِل التأشير عن أدوات &lt; تصفح خاص.">
+<!ENTITY privatebrowsingpage.footerDesc                "استمتع!">

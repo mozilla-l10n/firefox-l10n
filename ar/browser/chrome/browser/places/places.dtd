@@ -71,6 +71,11 @@
 <!ENTITY cmd.edit_redo.accesskey "ع">
 <!ENTITY cmd.edit_redo.key "y">
 
+<!ENTITY cmd.delete.label               "احذف هذه الصفحة">
+<!ENTITY cmd.delete.accesskey           "ذ">
+<!ENTITY cmd.deleteDomainData.label     "انسَ هذا الموقع">
+<!ENTITY cmd.deleteDomainData.accesskey "ن">
+
 <!ENTITY cmd.open.label "افتح">
 <!ENTITY cmd.open.accesskey "ف">
 <!ENTITY cmd.open_window.label "افتح في نافذة جديدة">

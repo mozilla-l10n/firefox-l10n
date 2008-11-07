@@ -4,24 +4,20 @@
 <!ENTITY window.macWidth "39em">
 
 <!ENTITY checking.title "يجري التماس التحديثات">
-<!ENTITY checking.label "يلتمس &brandShortName; التحديثات الآن...">
-
-<!ENTITY cancel.label "ألغِ">
-<!ENTITY cancel.accesskey "غ">
+<!ENTITY  updateCheck.label               "يجري البحث عن إصدارات أحدث من &brandShortName;…">
 
 <!ENTITY noupdatesfound.title "لم يُعثر على تحديثات">
 <!ENTITY noupdatesautoenabled.intro "لا يوجد تحديثات متاحة. سوف يلتمس &brandShortName; التحديثات بشكل دوري.">
 <!ENTITY noupdatesautodisabled.intro "لا توجد تحديثات متاحة. رجاءً تحقق ثانيةً في وقت لاحق 
 أو فعّل التماس &brandShortName; للتحديث التلقائي.">
 
-<!ENTITY incompatibleChecking.label "يفحص إذا كان هذا التحديث سيتسبب في مشاكل مع امتداداتك و/أو سِماتك...">
+<!ENTITY  incompatibleCheck.title         "يجري التحقق من توافق الإضافة">
+<!ENTITY  incompatibleCheck.label         "يجري البحث عن إصدارات أحدث من إضافاتك…">
+<!ENTITY  incompatibleList.title          "عُثر على إضافات غير متوافقة">
+
 <!ENTITY clickHere.label "اعرض المزيد من التّفاصيل عن هذا التّحديث">
 
-<!ENTITY incompatible.warning "سيجعل هذا التّحديث بعض امتداداتك و/أو سِماتك متوقفة عن العمل حتى يتمّ تحديثها.">
-<!ENTITY listIncompatible.label "اعرض قائمة">
-<!ENTITY listIncompatible.accesskey "ق">
-
-<!ENTITY upgrade.evangelism "ينصح بشدّة تحديث &brandShortName; عاجلا قدر الإمكان.">
+<!ENTITY  evangelism.desc                 "يُنصح بشدة أن تطّبق هذا التحديث على &brandShortName; في أقرب وقت ممكن.">
 
 <!ENTITY license.instructions "إذا كنت موافقا على شروط هذه الاتّفاقية، انقر موافق بأسفل لمتابعة تنزيل التّحديث.">
 
@@ -38,11 +34,8 @@
 <!ENTITY connecting.label "يتّصل بخادوم التحديثات...">
 <!ENTITY verificationFailedText.label "لم يتمكّن &brandShortName; من التّحقق من تكامل التحديث المتزايد الذي نزّله، لذلك فإنّه ينزّل تحديثا كاملا الآن.">
 
+<!ENTITY  viewDetails.tooltip             "اعرض تفاصيل هذا التحديث">
 <!ENTITY details.link "التفاصيل">
-<!ENTITY pause.label "ألبث">
-<!ENTITY pause.accesskey "ل">
-<!ENTITY close.label "أغلق">
-<!ENTITY close.accesskey "غ">
 
 <!ENTITY error.label "كان هناك مشاكل في فحص، تنزيل أو تثبيت هذا التحديث. &brandShortName; لا يمكن تحديثه لأن:">
                                            
@@ -51,16 +44,15 @@
 <!ENTITY errorpatching.title "فشل التّحديث">
 <!ENTITY errorpatching.intro "تعذّر تطبيق التّحديث الجزئي. سيحاول &brandShortName; مرّة أخرى بتنزيل كلّ التّحديث.">
 
-<!ENTITY finished.title "تمّ تنزيل التّحديث">
-<!ENTITY finished.text "تم تنزيل و التحقّق من التحديث بنجاح. عليك الآن إعادة تشغيل &brandShortName; لتثبيت التحديث.">
-
-<!ENTITY finishedBackground.title "التّحديث جاهز للتّثبيت">
-<!ENTITY finishedBackground.text "أتمّ &brandShortName; للتو تنزيل تحديث هامّ و يجب الآن إعادة تشغيله لتثبيت التحديث.">
 <!ENTITY finishedBackground.name "تحديث:">
-<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
-<!ENTITY finishedBackground.more1 "انقر أعِد التشغيل &brandShortName; الآن لإغلاق كلّ نوافذ &brandShortName; و تثبيت التحديث.">
-<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!ENTITY finishedBackground.textNotNow "انقر ليس الآن لإغلاق هذا الحوار و متابعة العمل. سيثبت &brandShortName; التحديث عندما يبدأ مرة ثانية">
+
+<!ENTITY  finishedBackground.more         "سوف يُثبّت التحديث في المرة المقبلة التي يبدأ &brandShortName; فيها. يمكنك إعادة تشغيل &brandShortName; الآن، أو متابعة العمل وإعادة تشغيله لاحقاً.">
+
+<!ENTITY  finishedPage.title              "التحديث جاهز للتثبيت">
+<!ENTITY  finishedPage.text               "التحديث سيُثبّت في المرة المقبلة التي يبدأ فيها &brandShortName;. يمكنك إعادة تشغيل &brandShortName; الآن أو متابعة العمل وإعادة التشغيل لاحقاً.">
+
+<!ENTITY  finishedBackgroundPage.text     "A security and stability update for &brandShortName; has been
+                                           downloaded and is ready to be installed.">
 
 <!ENTITY installed.title "تمّ تثبيت التحديث">
 <!ENTITY installed.intro "تمّ تثبيت التّحديث بنجاح.">

@@ -7,6 +7,9 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (تصفح خاص)">
 
 <!ENTITY tabCmd.label "لسان جديد">
 <!ENTITY tabCmd.accesskey "ل">
@@ -158,8 +161,11 @@
 <!ENTITY preferencesCmdUnix.label "التفضيلات">
 <!ENTITY preferencesCmdUnix.accesskey "ف">
 
-<!ENTITY clearPrivateDataCmd.label "امسح البيانات الشخصية">
-<!ENTITY clearPrivateDataCmd.accesskey "ح">
+<!ENTITY clearRecentHistoryCmd.label            "امسح التاريخ الحالي">
+<!ENTITY clearRecentHistoryCmd.accesskey        "س">
+
+<!ENTITY privateBrowsingCmd.label            "تصفح خاص">
+<!ENTITY privateBrowsingCmd.accesskey        "خ">
 
 <!ENTITY viewMenu.label "عرض">
 <!ENTITY viewMenu.accesskey "ع">
@@ -419,3 +425,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "المزيد من المعلومات...">
 
 <!ENTITY downloadMonitor2.tooltip "انقر لفتح نافذة التنزيلات">
+
+<!ENTITY ctrlTab.search.emptyText "ابحث في الألسنة">
