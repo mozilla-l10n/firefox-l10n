@@ -73,7 +73,7 @@
 <!ENTITY SecondEmail.label              "დამატებითი ელფოსტა:">
 <!ENTITY SecondEmail.accesskey          "i">
 <!ENTITY PreferMailFormat.label         "წერილების შემდეგ ფორმატში მიღება ურჩევნია:">
-<!ENTITY PreferMailFormat.accesskey     "r">
+<!ENTITY PreferMailFormat.accesskey     "v">
 <!ENTITY PlainText.label                "ტექსტი">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "უცნობი">
@@ -81,9 +81,13 @@
 <!ENTITY ScreenName.accesskey           "S">
 
 <!ENTITY allowRemoteContent.label       "გარე ნახატების ნებართვა HTML ფოსტაში.">
-<!ENTITY allowRemoteContent.accesskey   "w">
+<!ENTITY allowRemoteContent.accesskey   "r">
+<!ENTITY allowRemoteContent.tooltip     "HTML გზავნილებში შესაძლებელია
+გამოსახულებათა ჩართვა გარე წყაროებიდან. ასეთი გზავნილის გახსნისას
+მოხდება გარე წყაროსთან დაკავშირება. ეს გზავნილის წაკითხვის დასტურის
+შესაძლებლობასაც იძლევა. ამ პარამეტრის ჩართვა ამ კონტაქტიდან HTML გზავნილებში
+გამოსახულებათა ჩართვის ნებას იძლევა.">
 
-<!ENTITY Phones.box                     "ტელეფონები">
 <!ENTITY WorkPhone.label                "სამსახური:">
 <!ENTITY WorkPhone.accesskey            "k">
 <!ENTITY HomePhone.label                "ბინა:">
@@ -91,15 +95,14 @@
 <!ENTITY FaxNumber.label                "ფაქსი:">
 <!ENTITY FaxNumber.accesskey            "x">
 <!ENTITY PagerNumber.label              "პეიჯერი:">
-<!ENTITY PagerNumber.accesskey          "P">
+<!ENTITY PagerNumber.accesskey          "g">
 <!ENTITY CellularNumber.label           "მობილური:">
 <!ENTITY CellularNumber.accesskey       "M">
 
-<!ENTITY Address.tab                    "მისამართი"> 
-<!ENTITY Address.accesskey              "A">
-<!ENTITY Home.box                       "ბინა"> 
+<!ENTITY Home.tab                       "პირადი">
+<!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "მისამართი:"> 
-<!ENTITY HomeAddress.accesskey          "d">
+<!ENTITY HomeAddress.accesskey          "A">
 <!ENTITY HomeAddress2.label             ""> 
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "ქალაქი:"> 
@@ -111,43 +114,45 @@
 <!ENTITY HomeCountry.label              "ქვეყანა:">
 <!ENTITY HomeCountry.accesskey          "u">
 <!ENTITY HomeWebPage.label              "ვებ-გვერდი:"> 
-<!ENTITY HomeWebPage.accesskey          "W">
-<!ENTITY Work.box                       "სამსახური"> 
-<!ENTITY JobTitle.label                 "თანამდებობა"> 
-<!ENTITY JobTitle.accesskey             "e">
-<!ENTITY Department.label               "განყოფილება:"> 
-<!ENTITY Department.accesskey           "m">
-<!ENTITY Company.label                  "ორგანიზაცია:"> 
-<!ENTITY Company.accesskey              "O">
-<!ENTITY WorkAddress.label              "მისამართი:"> 
-<!ENTITY WorkAddress.accesskey          "r">
-<!ENTITY WorkAddress2.label             ""> 
-<!ENTITY WorkAddress2.accesskey         "">
-<!ENTITY WorkCity.label                 "ქალაქი:"> 
-<!ENTITY WorkCity.accesskey             "i">
-<!ENTITY WorkState.label                "რეგიონი/რაიონი:"> 
-<!ENTITY WorkState.accesskey            "v">
-<!ENTITY WorkZipCode.label              "ZIP/საფოსტო კოდი:"> 
-<!ENTITY WorkZipCode.accesskey          "P">
-<!ENTITY WorkCountry.label              "ქვეყანა:">
-<!ENTITY WorkCountry.accesskey          "n">
-<!ENTITY WorkWebPage.label              "ვებ-გვერდი:"> 
-<!ENTITY WorkWebPage.accesskey          "b">
-
-<!ENTITY Other.tab                      "სხვა">
-<!ENTITY Other.accesskey                "h">
+<!ENTITY HomeWebPage.accesskey          "e">
 <!ENTITY Birthday.label                 "დაბადების დღე:">
 <!ENTITY Birthday.accesskey             "B">
 <!ENTITY Year.emptytext                 "წელი">
 <!ENTITY Or.value                       "ან">
 <!ENTITY Age.emptytext                  "ასაკი">
-<!ENTITY Custom1.label                  "დამატებითი 1:">
+
+<!ENTITY Work.tab                       "სამსახური"> 
+<!ENTITY Work.accesskey                 "W">
+<!ENTITY JobTitle.label                 "თანამდებობა"> 
+<!ENTITY JobTitle.accesskey             "i">
+<!ENTITY Department.label               "განყოფილება:"> 
+<!ENTITY Department.accesskey           "m">
+<!ENTITY Company.label                  "ორგანიზაცია:"> 
+<!ENTITY Company.accesskey              "O">
+<!ENTITY WorkAddress.label              "მისამართი:"> 
+<!ENTITY WorkAddress.accesskey          "A">
+<!ENTITY WorkAddress2.label             ""> 
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.label                 "ქალაქი:"> 
+<!ENTITY WorkCity.accesskey             "y">
+<!ENTITY WorkState.label                "რეგიონი/რაიონი:"> 
+<!ENTITY WorkState.accesskey            "S">
+<!ENTITY WorkZipCode.label              "ZIP/საფოსტო კოდი:"> 
+<!ENTITY WorkZipCode.accesskey          "Z">
+<!ENTITY WorkCountry.label              "ქვეყანა:">
+<!ENTITY WorkCountry.accesskey          "u">
+<!ENTITY WorkWebPage.label              "ვებ-გვერდი:"> 
+<!ENTITY WorkWebPage.accesskey          "e">
+
+<!ENTITY Other.tab                      "სხვა">
+<!ENTITY Other.accesskey                "h">
+<!ENTITY Custom1.label                  "საკუთარი 1:">
 <!ENTITY Custom1.accesskey              "1">
-<!ENTITY Custom2.label                  "დამატებითი 2:">
+<!ENTITY Custom2.label                  "საკუთარი 2:">
 <!ENTITY Custom2.accesskey              "2">
-<!ENTITY Custom3.label                  "დამატებითი 3:">
+<!ENTITY Custom3.label                  "საკუთარი 3:">
 <!ENTITY Custom3.accesskey              "3">
-<!ENTITY Custom4.label                  "დამატებითი 4:">
+<!ENTITY Custom4.label                  "საკუთარი 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.box                      "შენიშვნები">
+<!ENTITY Notes.label                      "შენიშვნები:">
 <!ENTITY Notes.accesskey                "N">

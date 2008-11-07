@@ -385,6 +385,7 @@
 <!ENTITY read.only.reply.label           "პასუხი:">
 <!ENTITY read.only.accept.label          "დავესწრები">
 <!ENTITY read.only.decline.label         "არ დავესწრები">
+<!ENTITY read.only.tentative.label       "შევეცდები დავესწრო">
 <!ENTITY read.only.needs.action.label    "მოგვიანებით დავაზუსტებ">
 <!ENTITY read.only.reminder.label        "შეხსენება:">
 <!ENTITY read.only.attendees.label       "დამსწრეები">

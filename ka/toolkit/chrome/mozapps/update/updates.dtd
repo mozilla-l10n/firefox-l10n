@@ -4,10 +4,7 @@
 <!ENTITY  window.macWidth                 "50em">
 
 <!ENTITY  checking.title                  "განახლებების შემოწმება">
-<!ENTITY  checking.label                  "&brandShortName; ამოწმებს შესაძლო განახლებებს…">
-
-<!ENTITY  cancel.label                    "გაუქმება">
-<!ENTITY  cancel.accesskey                "C">
+<!ENTITY  updateCheck.label               "&brandShortName; ბოლო ვერსიების შემოწმება…">
 
 <!ENTITY  noupdatesfound.title            "განახლება ვერ მოიძებნა">
 <!ENTITY  noupdatesautoenabled.intro      "შესაძლო განახლებები არაა. &brandShortName; ბრაუზერი
@@ -15,15 +12,12 @@
 <!ENTITY  noupdatesautodisabled.intro     "Tშესაძლო განახლებები არაა. გთხოვთ კვლავ საცდოთ მოგვიანებით ან ნება დართოთ
                                            &brandShortName; ბრაუზერს ეს თქვენს ნაცვლად გააკეთოს.">
 
-<!ENTITY  incompatibleChecking.label      "ამ განახლების შემოწმება არსებულ პაკეტებთან და/ან თემებთან თავსებადობაზე…">
+<!ENTITY  incompatibleCheck.title         "პაკეტის თავსებადობის შემოწმება">
+<!ENTITY  incompatibleCheck.label         "თქვენი პაკეტების ახალი ვერსიების მოძიება…">
+
 <!ENTITY  clickHere.label                 "ამ განახლების შესახებ დამატებითი ინფორმაციის ნახვა">
 
-<!ENTITY  incompatible.warning            "ეს განახლება შეაჩერებს თქვენი ზოგიერთი მოდულის/თემის მუშაობას 
-                                           მისი განახლების დასრულებამდე.">
-<!ENTITY  listIncompatible.label          "სიის ჩვენება">
-<!ENTITY  listIncompatible.accesskey      "L">
-
-<!ENTITY  upgrade.evangelism              "მკაცრად რეკომენდებულია,რომ &brandShortName; 
+<!ENTITY  evangelism.desc                 "მკაცრად რეკომენდებულია,რომ &brandShortName; 
                                            რაც შეიძლება სწრაფად განაახლოთ.">
 
 <!ENTITY  license.instructions            "თუ შეთანხმების პირობებს ეთანხმებით, განახლების ჩადგმის 
@@ -37,6 +31,8 @@
 <!ENTITY  license.decline                 "არ ვიღებ სალიცენზიო შეთანხმების პირობებს">
 <!ENTITY  license.decline.accesskey       "T">
 
+<!ENTITY  incompatibleList.title          "მოიძებნა არათავსებადი პაკეტი">
+
 <!ENTITY  downloading.title               "განახლების ჩამოტვირთვა">
 <!ENTITY  downloading.intro               "განახლება იტვირთება…">
 <!ENTITY  connecting.label                "დაკავშირება განახლების სერვერთან…">
@@ -44,11 +40,9 @@
                                            განახლების მთლიანობას, ასე რომ, იგი ჩამოტვირთავს
                                            განახლების სრულ პაკეტს.">
 
+<!ENTITY  viewDetails.tooltip             "განახლების დეტალების ჩვენება">
+
 <!ENTITY  details.link                    "დეტალები">
-<!ENTITY  pause.label                     "პაუზა">
-<!ENTITY  pause.accesskey                 "e">
-<!ENTITY  close.label                     "დახურვა">
-<!ENTITY  close.accesskey                 "C">
 
 <!ENTITY  error.label                     "პრობლემა ამ განახლების ჩამოტვირთვისას ან ჩადგმისას. 
                                            &brandShortName; ვერ განახლდება რადგან:">
@@ -60,19 +54,16 @@
 <!ENTITY  errorpatching.intro             "ნაწილობრივი განახლება შეუძლებელია. 
                                            &brandShortName; კვლავ შეეცდება სრული განახლების გადმოტვირთვის გზით.">
 
-<!ENTITY  finished.title                  "განახლება ჩამოიტვირთა">
-<!ENTITY  finished.text                   "განახლება წარმატებით ჩამოიტვირთა და შემოწმდა. განახლების 
-                                           ჩასადდგმელად &brandShortName; უნდა გააიტვირთოს.">
+<!ENTITY  finishedPage.title              "განახლება მზადაა ჩასადგმელად">
+<!ENTITY  finishedPage.text               "განახლება ჩაიდგმება &brandShortName; შემდეგ სეანსზე. შეგიძლიათ დახუროთ და ხელახლა
+                                           გახსნათ &brandShortName; ან გააგრძელოთ მუშაობა და გააკეთოთ ეს მოგვიანებით.">
 
-<!ENTITY  finishedBackground.title        "განახლება მზადაა ჩასადგმელად">
-<!ENTITY  finishedBackground.text         "&brandShortName;-მა დაასრულა მნიშვნელოვანი განახლების ჩამოტვირთვა 
-                                           და განახლების ჩასადგმელად უნდა გადაიტვირთოს.">
+<!ENTITY  finishedBackgroundPage.text     "&brandShortName; უსაფრთხოებისა და სტაბილურობის განახლებები ჩამოიტვირთა
+                                           და მზადაა ჩასადგმელად.">
 <!ENTITY  finishedBackground.name         "განახლება:">
-<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
-<!ENTITY  finishedBackground.more1        "განახლების ახლავე ჩასადგმელად დაწკაპეთ &brandShortName; ხელახალი ჩატვირთვა.">
-<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!ENTITY  finishedBackground.textNotNow   "დიალოგის დასახურად და მუშაობის გასაგრძელებლად დაწკაპეთ ღილაკი - არა ახლა.
-                                           განახლება &brandShortName;-ის შემდეგ სეანსზე ჩაიდგმება.">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more         "განახლება ჩაიდგმება &brandShortName; შემდეგ სეანსზე. შეგიძლიათ დახუროთ და ხელახლა
+                                           გახსნათ &brandShortName; ან გააგრძელოთ მუშაობა და გააკეთოთ ეს მოგვიანებით.">
 
 <!ENTITY  installed.title                 "განახლება ჩაიდგა">
 <!ENTITY  installed.intro                 "განახლება წარმატებით ჩაიდგა.">

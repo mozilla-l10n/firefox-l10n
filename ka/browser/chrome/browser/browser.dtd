@@ -7,6 +7,9 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (პირადი სეანსი)">
 
 <!ENTITY tabCmd.label "ახალი დაფა">
 <!ENTITY tabCmd.accesskey "T">
@@ -158,8 +161,11 @@
 <!ENTITY preferencesCmdUnix.label       "პარამეტრები">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearPrivateDataCmd.label            "პირად მონაცემთა გასუფთავება">
-<!ENTITY clearPrivateDataCmd.accesskey        "P">
+<!ENTITY clearRecentHistoryCmd.label            "უახლესი ისტორიის გასუფთავება">
+<!ENTITY clearRecentHistoryCmd.accesskey        "H">
+
+<!ENTITY privateBrowsingCmd.label            "პირადი სეანსი">
+<!ENTITY privateBrowsingCmd.accesskey        "B">
 
 <!ENTITY viewMenu.label         "ჩვენება"> 
 <!ENTITY viewMenu.accesskey       "V"> 
@@ -420,3 +426,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "დაწვრილებით…">
 
 <!ENTITY downloadMonitor2.tooltip "დაწკაპეთ ორმაგად ჩამოტვირთვების სარკმლის გასახსნელად">
+
+
+<!ENTITY ctrlTab.search.emptyText "ძიება დაფებში">
