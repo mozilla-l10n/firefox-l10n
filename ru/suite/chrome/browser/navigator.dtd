@@ -113,8 +113,8 @@
 <!ENTITY searchInternetCmd.label "Поиск в Интернете">
 <!ENTITY searchInternetCmd.accesskey "П">
 <!ENTITY searchInternet.commandKey "s">
-<!ENTITY clearPrivateDataCmd.label "Удалить личные данные…">
-<!ENTITY clearPrivateDataCmd.accesskey "л">
+<!ENTITY clearPrivateDataCmd.label "Стереть личные данные…">
+<!ENTITY clearPrivateDataCmd.accesskey "т">
 <!ENTITY goMenu.label "Переход">
 <!ENTITY goMenu.accesskey "е">
 <!ENTITY goHomeCmd.label "Домашняя страница">

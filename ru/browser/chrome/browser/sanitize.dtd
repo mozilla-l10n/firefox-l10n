@@ -1,6 +1,6 @@
-<!ENTITY sanitizePrefs.title "Удаление личных данных">
-<!ENTITY sanitizeDialog2.title "Очистка недавней истории">
-<!ENTITY sanitizeItems.label "Удалить следующие данные:">
+<!ENTITY sanitizePrefs.title "Стирание личных данных">
+<!ENTITY sanitizeDialog2.title "Стирание недавней истории">
+<!ENTITY sanitizeItems.label "Стереть следующие данные:">
 <!ENTITY clearDataSettings2.label "Когда я выхожу из &brandShortName;, он должен автоматически стереть:">
 <!ENTITY clearDuration.label "Удалить">
 <!ENTITY clearDuration.lastHour "за последний час">
