@@ -7,6 +7,9 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Private Browsing)">
 
 <!ENTITY tabCmd.label "ਨਵੀਂ ਟੈਬ">
 <!ENTITY tabCmd.accesskey "T">
@@ -160,6 +163,11 @@
 <!ENTITY preferencesCmdUnix.label       "ਮੇਰੀ ਪਸੰਦ">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
+<!ENTITY clearRecentHistoryCmd.label            "Clear Recent History">
+<!ENTITY clearRecentHistoryCmd.accesskey        "H">
+
+<!ENTITY privateBrowsingCmd.label            "Private Browsing">
+<!ENTITY privateBrowsingCmd.accesskey        "B">
 
 <!ENTITY viewMenu.label         "ਵੇਖੋ">
 <!ENTITY viewMenu.accesskey       "V">
@@ -236,8 +244,12 @@
 <!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.label       "ਫਰੇਮ ਜਾਣਕਾਰੀ ਵੇਖੋ">
 <!ENTITY viewFrameInfoCmd.accesskey   "i">
+<!ENTITY reloadImageCmd.label         "Reload Image">
+<!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "ਇੱਕਲਾ ਚਿੱਤਰ ਵੇਖੋ">
 <!ENTITY viewImageCmd.accesskey       "I">
+<!ENTITY viewVideoCmd.label           "View Video">
+<!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "ਬੈਕਗਰਾਊਂਡ ਚਿੱਤਰ ਵੇਖੋ">
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "ਡੈਸਕਟਾਪ ਬੈਕਗਰਾਊਡ ਵਾਂਗ ਸੈੱਟ ਕਰੋ...">
@@ -259,32 +271,57 @@
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "...ਫਰੇਮ ਇੰਝ ਸੰਭਾਲੋ">
 <!ENTITY saveFrameCmd.accesskey       "F">
-<!ENTITY printFrameCmd.label          "...ਫਰੇਮ ਪਰਿੰਟ ਕਰੋ">
+<!ENTITY printFrameCmd.label          "Print Frame…">
 <!ENTITY printFrameCmd.accesskey      "P">
-<!ENTITY saveLinkCmd.label            "...ਲਿੰਕ ਇੰਝ ਸੰਭਾਲੋ">
+<!ENTITY saveLinkCmd.label            "Save Link As…">
 <!ENTITY saveLinkCmd.accesskey        "k">
-<!ENTITY sendLinkCmd.label            "...ਲਿੰਕ ਭੇਜੋ"> 
+<!ENTITY sendLinkCmd.label            "Send Link…"> 
 <!ENTITY sendLinkCmd.accesskey        "d">
-<!ENTITY saveImageCmd.label           "...ਚਿੱਤਰ ਇੰਝ ਸੰਭਾਲੋ">
+<!ENTITY saveImageCmd.label           "Save Image As…">
 <!ENTITY saveImageCmd.accesskey       "v">
-<!ENTITY sendImageCmd.label           "...ਚਿੱਤਰ ਭੇਜੋ">
+<!ENTITY saveVideoCmd.label           "Save Video As…">
+<!ENTITY saveVideoCmd.accesskey       "v">
+<!ENTITY saveAudioCmd.label           "Save Audio As…">
+<!ENTITY saveAudioCmd.accesskey       "v">
+<!ENTITY sendImageCmd.label           "Send Image…">
 <!ENTITY sendImageCmd.accesskey       "n">
-<!ENTITY copyLinkCmd.label            "ਲਿੰਕ ਟਿਕਾਣਾ ਕਾਪੀ ਕਰੋ">
-<!ENTITY copyLinkCmd.accesskey        "C">
-<!ENTITY copyImageCmd.label           "ਚਿੱਤਰ ਟਿਕਾਣਾ ਕਾਪੀ ਕਰੋ">
-<!ENTITY copyImageCmd.accesskey       "o">
-<!ENTITY copyImageContentsCmd.label   "ਚਿੱਤਰ ਕਾਪੀ ਕਰੋ">
-<!ENTITY copyImageContentsCmd.accesskey  "y"> 
-<!ENTITY blockImageCmd.accesskey       "g">
-<!ENTITY copyLinkTextCmd.label        "ਲਿੰਕ ਟੈਕਸਟ ਕਾਪੀ ਕਰੋ">
+<!ENTITY sendVideoCmd.label           "Send Video…">
+<!ENTITY sendVideoCmd.accesskey       "n">
+<!ENTITY sendAudioCmd.label           "Send Audio…">
+<!ENTITY sendAudioCmd.accesskey       "n">
+<!ENTITY copyLinkCmd.label            "Copy Link Location">
+<!ENTITY copyLinkCmd.accesskey        "a">
+<!ENTITY copyLinkTextCmd.label        "Copy Link Text">
 <!ENTITY copyLinkTextCmd.accesskey    "x">
-<!ENTITY metadataCmd.label            "ਗੁਣ">
+<!ENTITY copyImageCmd.label           "Copy Image Location">
+<!ENTITY copyImageCmd.accesskey       "o">
+<!ENTITY copyImageContentsCmd.label   "Copy Image">
+<!ENTITY copyImageContentsCmd.accesskey  "y"> 
+<!ENTITY copyVideoURLCmd.label        "Copy Video Location">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Copy Audio Location">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY blockImageCmd.accesskey      "B">
+<!ENTITY metadataCmd.label            "Properties">
 <!ENTITY metadataCmd.accesskey        "P">
-<!ENTITY copyEmailCmd.label           "ਈ-ਮੇਲ ਐਡਰੈੱਸ ਕਾਪੀ ਕਰੋ">
+<!ENTITY copyEmailCmd.label           "Copy Email Address">
 <!ENTITY copyEmailCmd.accesskey       "E">
-<!ENTITY thisFrameMenu.label              "ਇਹ ਫਰੇਮ">
+<!ENTITY thisFrameMenu.label              "This Frame">
 <!ENTITY thisFrameMenu.accesskey          "h">
 
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "Play">
+<!ENTITY mediaPlay.accesskey         "P">
+<!ENTITY mediaPause.label            "Pause">
+<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaMute.label             "Mute">
+<!ENTITY mediaMute.accesskey         "M">
+<!ENTITY mediaUnmute.label           "Unmute">
+<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaShowControls.label     "Show Controls">
+<!ENTITY mediaShowControls.accesskey "C">
+<!ENTITY mediaHideControls.label     "Hide Controls">
+<!ENTITY mediaHideControls.accesskey "C">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -401,3 +438,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "ਹੋਰ ਜਾਣਕਾਰੀ…">
 
 <!ENTITY downloadMonitor2.tooltip "ਡਾਊਨਲੋਡ ਵਿੰਡੋ ਖੋਲ੍ਹਣ ਵਾਸਤੇ ਕਲਿੱਕ ਕਰੋ">
+
+<!ENTITY ctrlTab.search.emptyText "Search Tabs">
