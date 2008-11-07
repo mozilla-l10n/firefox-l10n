@@ -110,3 +110,21 @@
 <!ENTITY spellDictionaries.accesskey    "L">
 <!ENTITY spellAddDictionaries.label     "Download More Dictionaries…">
 <!ENTITY spellAddDictionaries.accesskey "D">
+<!ENTITY copyAudioURLCmd.label        "Copy Audio Location">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY mediaHideControls.label      "Hide Media Controls">
+<!ENTITY mediaHideControls.accesskey  "a">
+<!ENTITY mediaMute.label              "Mute">
+<!ENTITY mediaMute.accesskey          "M">
+<!ENTITY mediaPause.label             "Pause">
+<!ENTITY mediaPause.accesskey         "P">
+<!ENTITY mediaPlay.label              "Play">
+<!ENTITY mediaPlay.accesskey          "P">
+<!ENTITY mediaShowControls.label      "Show Media Controls">
+<!ENTITY mediaShowControls.accesskey  "a">
+<!ENTITY mediaUnmute.label            "Unmute">
+<!ENTITY mediaUnmute.accesskey        "m">
+<!ENTITY saveAudioCmd.label           "Save Audio As…">
+<!ENTITY saveAudioCmd.accesskey       "v">
+<!ENTITY saveVideoCmd.label           "Save Video As…">
+<!ENTITY saveVideoCmd.accesskey       "v">

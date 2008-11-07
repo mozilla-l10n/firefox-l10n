@@ -367,12 +367,8 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Create Filter From Message…">
 <!ENTITY createFilter.accesskey "a">
-<!ENTITY moveMsgMenu.label "Move">
-<!ENTITY moveMsgMenu.accesskey "M">
 <!ENTITY copyMessageLocation.label "Copy Message Location">
 <!ENTITY copyMessageLocation.accesskey "M">
-<!ENTITY copyMsgMenu.label "Copy">
-<!ENTITY copyMsgMenu.accesskey "C">
 <!ENTITY moveCopyMsgRecentMenu.label "Recent">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY killThreadMenu.label "Ignore Thread">
@@ -463,7 +459,10 @@
 <!ENTITY deleteJunk.accesskey "e">
 <!ENTITY importCmd.label "Import…">
 <!ENTITY importCmd.accesskey "I">
-
+<!ENTITY copyMsgToMenu.label "Copy To">
+<!ENTITY copyMsgToMenu.accesskey "C">
+<!ENTITY moveMsgToMenu.label "Move To">
+<!ENTITY moveMsgToMenu.accesskey "M">
 <!-- Folder Pane -->
 <!ENTITY nameColumn.label "Name">
 <!ENTITY unreadColumn.label "Unread">

@@ -12,3 +12,4 @@
 <!ENTITY session.accesskey              "S">
 <!ENTITY allow.label                    "Allow">
 <!ENTITY allow.accesskey                "A">
+<!ENTITY address.accesskey              "d">
