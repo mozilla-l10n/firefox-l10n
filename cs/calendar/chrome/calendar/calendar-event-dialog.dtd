@@ -385,6 +385,7 @@
 <!ENTITY read.only.reply.label "Odpověď:">
 <!ENTITY read.only.accept.label "Zúčastním se">
 <!ENTITY read.only.decline.label "Nezúčastním se">
+<!ENTITY read.only.tentative.label "Možná se zúčastním">
 <!ENTITY read.only.needs.action.label "Potvrdím později">
 <!ENTITY read.only.reminder.label "Připomenutí:">
 <!ENTITY read.only.attendees.label "Účastníci">
