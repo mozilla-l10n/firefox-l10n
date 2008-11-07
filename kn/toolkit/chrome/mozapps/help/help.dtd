@@ -22,8 +22,6 @@
 <!ENTITY printButton.tooltip            "ಈ ಪುಟವನ್ನು ಮುದ್ರಿಸು">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY searchtab.label    	  	"ಹುಡುಕು">
-<!ENTITY searchtab.accesskey            "S">
 <!ENTITY toctab.label       	  	"ವಿಷಯಗಳು">
 <!ENTITY toctab.accesskey               "C">
 
@@ -50,5 +48,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY searchClose.tooltip            "ಹುಡುಕಲಾದ ಫಲಿತಾಂಶಗಳನ್ನು ಮುಚ್ಚು">
