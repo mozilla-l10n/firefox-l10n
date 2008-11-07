@@ -75,3 +75,6 @@
 <!ENTITY  feedSubscribe         "सबस्क्राइब">
 <!ENTITY  feedSubscribe.accesskey "u">
 <!ENTITY  generalTab.accesskey  "G">
+
+<!ENTITY  generalSecurityDetails   "तपशील">
+<!ENTITY  generalSecurityDetails.accesskey "D">

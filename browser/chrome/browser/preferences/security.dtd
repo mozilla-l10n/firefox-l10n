@@ -34,3 +34,8 @@
 
 <!ENTITY  savedPasswords.label            "संचयीत गुप्तशब्द…">
 <!ENTITY  savedPasswords.accesskey        "P">
+
+<!ENTITY  blockAttackSites.label     "कळविलेले प्रभावीत स्थळ अडवा">
+<!ENTITY  blockAttackSites.accesskey "k">
+<!ENTITY  blockWebForgeries.label     "कळविलेले वेब बनावट स्थळ अडवा">
+<!ENTITY  blockWebForgeries.accesskey "B">
