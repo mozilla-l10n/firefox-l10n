@@ -1,0 +1,45 @@
+<!-- the following is for the task menu overlay -->
+
+<!ENTITY cookieMessageTitle.label "Permissões de cookie alteradas">
+<!ENTITY cookieDisplayCookiesCmd.label "Gerir cookies guardados">
+<!ENTITY cookieDisplayCookiesCmd.accesskey "G">
+<!ENTITY cookieAllowCookiesCmd.label "Permitir cookies deste sítio">
+<!ENTITY cookieAllowCookiesCmd.accesskey "e">
+<!ENTITY cookieAllowCookiesMsg.label "Cookies deste sítio serão sempre permitidos.">
+<!ENTITY cookieAllowSessionCookiesCmd.label "Permitir cookies de sessão para este sítio">
+<!ENTITY cookieAllowSessionCookiesCmd.accesskey "s">
+<!ENTITY cookieAllowSessionCookiesMsg.label "Este sítio pode usar cookies apenas para a sessão actual.">
+<!ENTITY cookieCookiesDefaultCmd.label "Usar premissões de cookies pré-definidos">
+<!ENTITY cookieCookiesDefaultCmd.accesskey "U">
+<!ENTITY cookieCookiesDefaultMsg.label "Cookies deste sítio serão aceites ou rejeitados baseado nas pré-definições.">
+<!ENTITY cookieBlockCookiesCmd.label "Bloquear cookies deste sítio">
+<!ENTITY cookieBlockCookiesCmd.accesskey "B">
+<!ENTITY cookieBlockCookiesMsg.label "Cookies deste sítio serão sempre rejeitados.">
+
+<!ENTITY cookieImageMessageTitle.label "Permissões de imagem alteradas">
+<!ENTITY cookieDisplayImagesCmd.label "Gerir permissões de imagem">
+<!ENTITY cookieDisplayImagesCmd.accesskey "m">
+<!ENTITY cookieAllowImagesCmd.label "Permitir imagens deste sítio">
+<!ENTITY cookieAllowImagesCmd.accesskey "Ae">
+<!ENTITY cookieAllowImagesMsg.label "Imagens deste sítio serão sempre transferidas.">
+<!ENTITY cookieImagesDefaultCmd.label "Usar premissões de imagem pré-definidas">
+<!ENTITY cookieImagesDefaultCmd.accesskey "U">
+<!ENTITY cookieImagesDefaultMsg.label "Imagens deste sítio serão transferidas baseadas nas pré-definições.">
+<!ENTITY cookieBlockImagesCmd.label "Bloquear imagens deste sítio">
+<!ENTITY cookieBlockImagesCmd.accesskey "B">
+<!ENTITY cookieBlockImagesMsg.label "Imagens deste sítio nunca serão transferidas.">
+
+<!ENTITY cookieAllowPopupsCmd.label                  "Permitir Popups deste sítio">
+<!ENTITY cookieAllowPopupsCmd.accesskey              "P">
+<!ENTITY cookieManagePopups.label                    "Gerir Popups">
+<!ENTITY cookieManagePopups.accesskey                "G">
+
+<!ENTITY cookieTutorialCmd.label "Compreender a privacidade">
+<!ENTITY cookieTutorialCmd.accesskey "r">
+
+<!ENTITY cookieCookieManager.label "Gestor de Cookie">
+<!ENTITY cookieCookieManager.accesskey "c">
+<!ENTITY cookieImageManager.label "Gestor de imagem">
+<!ENTITY cookieImageManager.accesskey "i">
+<!ENTITY cookiePopupManager.label "Gestor de Popup">
+<!ENTITY cookiePopupManager.accesskey "o">
