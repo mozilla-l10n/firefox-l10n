@@ -134,8 +134,8 @@
 <!ENTITY preferencesCmd.accesskey "Н">
 <!ENTITY preferencesCmdUnix.label "Настройки">
 <!ENTITY preferencesCmdUnix.accesskey "Н">
-<!ENTITY clearPrivateDataCmd.label "Удалить личные данные">
-<!ENTITY clearPrivateDataCmd.accesskey "л">
+<!ENTITY clearRecentHistoryCmd.label "Очистка недавней истории">
+<!ENTITY clearRecentHistoryCmd.accesskey "ч">
 <!ENTITY privateBrowsingCmd.label "Режим секретности">
 <!ENTITY privateBrowsingCmd.accesskey "ж">
 <!ENTITY viewMenu.label "Вид">
