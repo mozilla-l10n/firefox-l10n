@@ -213,3 +213,10 @@
 <!ENTITY detailsPane.less.accesskey "a">
 <!ENTITY detailsPane.noPreviewAvailable.label "Önizleme">
 <!ENTITY detailsPane.selectAnItemText.description "Özelliklerini görmek ve değiştirmek için bir öğe seçin">
+
+<!ENTITY cmd.delete.label               "Bu sayfayı sil">
+<!ENTITY cmd.delete.accesskey           "s">
+<!ENTITY cmd.deleteDomainData.label     "Bu siteyi unut">
+<!ENTITY cmd.deleteDomainData.accesskey "u">
+
+

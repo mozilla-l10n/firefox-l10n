@@ -158,8 +158,6 @@
 <!ENTITY preferencesCmdUnix.label       "Seçenekler">
 <!ENTITY preferencesCmdUnix.accesskey     "k"> 
 
-<!ENTITY clearPrivateDataCmd.label            "Özel verileri temizle">
-<!ENTITY clearPrivateDataCmd.accesskey        "t">
 
 <!ENTITY viewMenu.label         "Görünüm"> 
 <!ENTITY viewMenu.accesskey       "m"> 
@@ -432,4 +430,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY privateBrowsingCmd.label            "Gizli tarama">
 <!ENTITY privateBrowsingCmd.accesskey        "G"> 
 
+<!ENTITY clearRecentHistoryCmd.label  "Yakın geçmişi temizle">
+<!ENTITY clearRecentHistoryCmd.accesskey   "t">
+
+<!ENTITY ctrlTab.search.emptyText "Sekme arama">
 
