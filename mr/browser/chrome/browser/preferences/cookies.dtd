@@ -22,8 +22,6 @@
 
 <!ENTITY filter.label "शोधा:">
 <!ENTITY filter.accesskey "S">
-<!ENTITY clear.label "साफ करा">
-<!ENTITY clear.accesskey "l">
 
 <!ENTITY button.close.label "बंद">
 <!ENTITY button.close.accesskey "C">

@@ -15,8 +15,6 @@
 <!ENTITY printButton.label              "छपाई">
 <!ENTITY printButton.tooltip            "हे पान छापा">
 <!ENTITY closeWindow.commandkey         "W">
-<!ENTITY searchtab.label    	  	"शोधा">
-<!ENTITY searchtab.accesskey            "S">
 <!ENTITY toctab.label       	  	"मजकूर">
 <!ENTITY toctab.accesskey               "C">
 <!ENTITY helpSearch.commandkey          "k">
@@ -36,6 +34,6 @@
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 <!ENTITY fullZoomReduceBtn.label        "लहान करा">
 <!ENTITY fullZoomReduceBtn.accesskey    "O">
-<!ENTITY searchClose.tooltip            "शोध परिणाम बंद करा">
+
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">

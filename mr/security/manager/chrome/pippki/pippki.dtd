@@ -51,7 +51,7 @@
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title  "मुख्य गुप्तशब्द प्रविष्ट करा">
-<!ENTITY getPassword.tokenName.label "सुरक्षा साधन">
+
 <!ENTITY getPassword.password.label "गुप्तशब्द:">
 
 <!-- These should be common -->

@@ -8,8 +8,6 @@
   useDownloadedList.label convey the meaning "suspected" (and not something like
   "known").
 -->
-<!ENTITY  tellMaybeForgery.label     "भेट देऊ इच्छित स्थळ संशयीत असल्यास मला सांगा">
-<!ENTITY  tellMaybeForgery.accesskey "T">
 
 <!-- LOCALIZATION NOTE (askThirdParty.label):
   The entities askThirdParty.label and askThirdPartyAfter.label appear on a
@@ -36,5 +34,3 @@
 
 <!ENTITY  savedPasswords.label            "संचयीत गुप्तशब्द…">
 <!ENTITY  savedPasswords.accesskey        "P">
-<!ENTITY  tellMaybeAttackSite.label     "भेट देण्याजोगी स्थळ सदोषीत प्रहार स्थळ आहे का">
-<!ENTITY  tellMaybeAttackSite.accesskey "k">
