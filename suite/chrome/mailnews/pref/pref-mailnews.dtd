@@ -72,3 +72,5 @@
 <!ENTITY printButton.accesskey            "P">
 <!ENTITY stopButton.label                 "Stop">
 <!ENTITY stopButton.accesskey             "S">
+<!ENTITY setDefaultFeed.label             "Feeds">
+<!ENTITY setDefaultFeed.accesskey         "e">
