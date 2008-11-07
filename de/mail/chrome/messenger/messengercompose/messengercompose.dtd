@@ -11,7 +11,7 @@
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "N">
 <!ENTITY newCard.label "Kontakt…">
-<!ENTITY newCard.accesskey "A">
+<!ENTITY newCard.accesskey "K">
 <!ENTITY attachMenu.label "Anhängen">
 <!ENTITY attachMenu.accesskey "h">
 <!ENTITY attachFileCmd.label "Datei(en) als Anhang anfügen…">

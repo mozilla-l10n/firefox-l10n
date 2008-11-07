@@ -6,17 +6,17 @@
 <!ENTITY newMenu.label                                  "Neu">
 <!ENTITY newMenu.accesskey                              "N">
 <!ENTITY newCard.label                                  "Kontakt…">
-<!ENTITY newCard.accesskey                              "A">
+<!ENTITY newCard.accesskey                              "K">
 <!ENTITY newCard.key                                    "N">
 <!ENTITY newListCmd.label                               "Verteiler-Liste…">
 <!ENTITY newListCmd.accesskey                           "V">
 <!ENTITY newAddressBookCmd.label                        "Adressbuch">
-<!ENTITY newAddressBookCmd.accesskey                    "b">
+<!ENTITY newAddressBookCmd.accesskey                    "A">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP-Verzeichnis…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "L">
 <!ENTITY newMessageCmd.label                            "Nachricht">
 <!ENTITY newMessageCmd.key                              "M">
-<!ENTITY newMessageCmd.accesskey                        "n">
+<!ENTITY newMessageCmd.accesskey                        "N">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
 <!ENTITY osxAddressBook.label                           "Mac OS X-Adressbuch verwenden">
 <!ENTITY osxAddressBook.accesskey                       "O">
@@ -131,14 +131,14 @@
 <!ENTITY newmsgButton.label                             "Verfassen">
 <!ENTITY newmsgButton.accesskey                         "V">
 <!ENTITY newIM.label                                    "Messenger">
-<!ENTITY newIM.accesskey                                "s">
+<!ENTITY newIM.accesskey                                "M">
 <!ENTITY deleteButton.label                             "Löschen">
-<!ENTITY deleteButton.accesskey                         "L">
+<!ENTITY deleteButton.accesskey                         "ö">
 <!ENTITY throbberItem.title                             "Aktivitäts-Indikator">
 
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newcardButton.tooltip                          "Neuen Kontakt erstellen">
-<!ENTITY newlistButton.tooltip                          "Neue Liste erstellen">
+<!ENTITY newlistButton.tooltip                          "Neue Verteiler-Liste erstellen">
 <!ENTITY editButton.tooltip                             "Gewählten Kontakt bearbeiten">
 <!ENTITY newmsgButton.tooltip                           "Neue Nachricht verfassen">
 <!ENTITY newIM.tooltip                                  "Neue Sofortnachricht (instant message) oder neuen Chat verfassen">

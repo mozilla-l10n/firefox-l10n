@@ -634,7 +634,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY EditContact.label "Kontakt bearbeiten…">
 <!ENTITY EditContact.accesskey "K">
 <!ENTITY ViewContact.label "Kontakt anzeigen">
-<!ENTITY ViewContact.accesskey "o">
+<!ENTITY ViewContact.accesskey "K">
 <!ENTITY SendMailTo.label "Nachricht an diese Adresse verfassen">
 <!ENTITY SendMailTo.accesskey "N">
 <!ENTITY CopyEmailAddress.label "E-Mail-Adresse kopieren">
