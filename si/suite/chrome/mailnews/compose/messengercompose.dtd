@@ -227,3 +227,4 @@
 <!ENTITY attachFile.accesskey "F">
 <!ENTITY attachPage.label "Attach Web Page…">
 <!ENTITY attachPage.accesskey "W">
+<!ENTITY editRewrapCmd.key "R">
