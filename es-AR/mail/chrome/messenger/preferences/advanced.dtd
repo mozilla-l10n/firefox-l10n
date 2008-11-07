@@ -1,4 +1,5 @@
 <!ENTITY itemGeneral.label       "General">
+<!ENTITY itemDisplay.label       "Reading &amp; Display">
 <!ENTITY itemUpdate.label        "Actualización">
 <!ENTITY itemNetworking.label    "Red y espacio en disco">
 <!ENTITY itemCertificates.label  "Certificados">
@@ -20,24 +21,21 @@
 <!ENTITY secondsLabel.label            "segundos">
 <!ENTITY showFolderColumns.label       "Mostrar columnas expandidas en la vista de carpetas">
 <!ENTITY showFolderColumns.accesskey   "v">
-<!ENTITY rememberLastMsg.label         "Recordar el último mensaje seleccionado">
-<!ENTITY rememberLastMsg.accesskey     "j">
 <!ENTITY openMsgIn.label               "Abrir los menajes en:">
 <!ENTITY reuseExpRadio0.label          "Una nueva ventana de mensaje">
 <!ENTITY reuseExpRadio0.accesskey      "U">
 <!ENTITY reuseExpRadio1.label          "Una ventana de mensaje existente">
 <!ENTITY reuseExpRadio1.accesskey      "x">
-<!ENTITY reuseExpRadio2.label          "Una nueva pestaña de mensaje">
-<!ENTITY reuseExpRadio2.accesskey      "p">
-<!ENTITY connectionTimeout.label       "Tiempo de espera de conexión: ">
-<!ENTITY connectionTimeout.accesskey   "C">
-<!ENTITY connectionSeconds.label       "segundos">
 <!ENTITY configEditDesc.label          "Configuración avanzada">
 <!ENTITY configEdit.label              "Editor de configuración…">
 <!ENTITY configEdit.accesskey          "g">
 <!ENTITY returnReceiptsInfo.label      "Determine cómo &brandShortName; maneja los avisos de recepción">
 <!ENTITY showReturnReceipts.label      "Avisos de recepción…">
 <!ENTITY showReturnReceipts.accesskey  "R">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption                "Reading">
+<!ENTITY display.caption                "Display">
 
 <!-- Update -->
 <!ENTITY autoCheck.label              "Buscar periódicamente actualizaciones para:">
@@ -57,9 +55,9 @@
 <!ENTITY showUpdates.accesskey          "u">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showConnections.label         "Conexión…">
-<!ENTITY showConnections.accesskey     "n">
-<!ENTITY proxiesInfo.label             "Determine como &brandShortName; se conecta a Internet.">
+<!ENTITY showSettings.label            "Settings…">
+<!ENTITY showSettings.accesskey        "n">
+<!ENTITY proxiesConfigure.label        "Configurar como &brandShortName; se conecta a Internet.">
 <!ENTITY connectionsInfo.caption       "Conexión">
 <!ENTITY offlineInfo.caption           "Sin conexión">
 <!ENTITY offlineInfo.label             "Configure las opciones 'Sin conexión'">
@@ -71,8 +69,19 @@
 <!ENTITY offlineCompact.accesskey "e">
 <!ENTITY kb.label "KB">
 
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Usar hasta">
+<!ENTITY useCacheBefore.accesskey        "U">
+<!ENTITY useCacheAfter.label             "MB de espacio para caché">
+<!ENTITY clearCacheNow.label             "Borrar ahora">
+<!ENTITY clearCacheNow.accesskey         "B">
+
 <!-- Certificates -->
-<!ENTITY certificatesInfo2.label        "Administrar certificados, listas de revocación, validación de certificados y dispositivos de seguridad.">
 <!ENTITY viewCertificates.label         "Ver certificados">
 <!ENTITY viewCertificates.accesskey     "a">
 <!ENTITY viewCRLs.label                 "Listas de revocación">

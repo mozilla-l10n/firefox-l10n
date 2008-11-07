@@ -29,7 +29,6 @@
 <!ENTITY customizeMailAlert.label         "Personalizar…">
 <!ENTITY customizeMailAlert.accesskey     "z">
 
-<!ENTITY soundNotification1.caption       "Sonido">
 <!ENTITY play.label                       "Reproducir">
 <!ENTITY play.accesskey                   "d">
 <!ENTITY systemsound.label                "Sonido del sistema para un nuevo mensaje">
@@ -40,3 +39,9 @@
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "Examinar…">
 <!ENTITY browse.accesskey                 "x">
+
+<!ENTITY addonsMgr.label                  "Agregados">
+<!ENTITY manageAddonsDescWin.label        "Cambiar opciones para sus agregados">
+<!ENTITY manageAddonsDescUnix2.label      "Cambiar preferencias para sus agregados">
+<!ENTITY manageAddons.label               "Administrar agregados…">
+<!ENTITY manageAddons.accesskey           "M">
