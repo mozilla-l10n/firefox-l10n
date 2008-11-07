@@ -30,7 +30,7 @@
 <!ENTITY cmd.installUpdatesAll.label      "আপডেট ইনস্টল করুন">
 <!ENTITY cmd.installUpdatesAll.accesskey  "I">
 <!ENTITY cmd.installUpdatesAll.tooltip    "নির্বাচিত আপডেট ইনস্টল করে">
-<!ENTITY cmd.restartApp2.label            "Restart &brandShortName;">
+<!ENTITY cmd.restartApp2.label            "&brandShortName; পুনরায় আরম্ভ করুন">
 <!ENTITY cmd.restartApp2.accesskey        "R">
 <!ENTITY cmd.restartApp2.tooltip          "পরিবর্তন প্রয়োগ করার উদ্দেশ্যে  &brandShortName; পুনরায় আরম্ভ করুন">
 <!-- ENTITY cmd.restartApp.label             "&brandShortName; পুনরায় আরম্ভ করুন" -->
@@ -118,7 +118,7 @@
 <!ENTITY insecureUpdate.label             "নিরাপদ আপডেট উপলব্ধ করা হয় না।">
 <!ENTITY needsDependencies.label          "অতিরিক্ত বস্তু আবশ্যক।">
 <!ENTITY blocklisted.label                "আপনার নিরাপত্তার জন্য নিষ্ক্রিয় করা রয়েছে।">
-<!ENTITY softBlocklisted.label            "Known to cause security or stability issues.">
+<!ENTITY softBlocklisted.label            "নিরাপত্তা ও স্থায়ীত্ব সংক্রান্ত সমস্যা উৎপন্ন করে।">
 <!ENTITY toBeDisabled.label               "&brandShortName; পুনরায় আরম্ভ করা হলে চিহ্নিত অতিরিক্ত সামগ্রীটি নিষ্ক্রিয় করা হবে।">
 <!ENTITY toBeEnabled.label                "&brandShortName; পুনরায় আরম্ভ করা হলে চিহ্নিত অতিরিক্ত সামগ্রীটি সক্রিয় করা হবে।">
 <!ENTITY toBeInstalled.label              "&brandShortName; পুনরায় আরম্ভ করা হলে চিহ্নিত অতিরিক্ত সামগ্রীটি ইনস্টল করা হবে।">
@@ -182,5 +182,5 @@
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "সম্মতি জ্ঞাপন করে ইনস্টল করুন…">
 
-<!ENTITY blocklist.blocked.label          "Blocked">
-<!ENTITY blocklist.checkbox.label         "Disable">
+<!ENTITY blocklist.blocked.label          "প্রতিরোধ করা হয়েছে">
+<!ENTITY blocklist.checkbox.label         "নিষ্ক্রিয় করুন">

@@ -22,5 +22,5 @@
 
 <!ENTITY missingPlugin.label                                 "প্লাগ-ইন ডাউনলোড করার জন্য এইখানে ক্লিক করুন।">
 
-<!ENTITY disabledPlugin.label                                "The plugin for this content has been disabled. Click here to manage your plugins.">
-<!ENTITY blockedPlugin.label                                 "This plugin has been blocked for your protection.">
+<!ENTITY disabledPlugin.label                                "এই বিষয়বস্তুর সাথে ব্যবহারযোগ্য প্লাগ-ইন নিষ্ক্রিয় করা হয়েছে। প্লাগ-ইন পরিচালনার জন্য এইখানে ক্লিক করুন।">
+<!ENTITY blockedPlugin.label                                 "আপনার নিরাপত্তার জন্য এই প্লাগ-ইন প্রতিরোধ করা হয়েছে।">

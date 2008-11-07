@@ -25,8 +25,8 @@
 <!-- ENTITY throbberItem.title             "কর্ম চিহ্নকারী" -->
 <!-- ENTITY throbber.tooltip               "সহায়তা বিভাগের সহায়তা অংশে চলুন" -->
 
-<!ENTITY search.emptytext               "Search">
-<!ENTITY searchHeader.label             "Search results">
+<!ENTITY search.emptytext               "অনুসন্ধান">
+<!ENTITY searchHeader.label             "অনুসন্ধানের ফলাফল">
 <!-- ENTITY searchtab.label    	  	"অনুসন্ধান" -->
 <!-- ENTITY searchtab.accesskey            "S" -->
 <!-- ENTITY searchClose.tooltip            "অনুসন্ধানের ফলাফল বন্ধ করা হবে" -->

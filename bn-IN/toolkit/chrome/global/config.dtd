@@ -62,7 +62,7 @@
 
 <!-- Context Menu -->
 <!ENTITY copyPref.key "C">
-<!ENTITY copyPref.label "Copy">
+<!ENTITY copyPref.label "কপি করুন">
 <!ENTITY copyPref.accesskey "C">
 <!ENTITY copyName.label "নাম কপি করুন">
 <!ENTITY copyName.accesskey "C">
