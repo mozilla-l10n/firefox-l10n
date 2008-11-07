@@ -168,3 +168,14 @@
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "Kabul et ve kur...">
+<!ENTITY blocklist.blocked.label          "Engellendi">
+<!ENTITY blocklist.checkbox.label         "Devre dışı bırak">
+
+<!ENTITY softBlocklisted.label            "Güvenlik veya kararlılık sorunlarına yol açtığı biliniyor.">
+
+<!ENTITY blocklist.blocked.label          "Engellendi">
+<!ENTITY blocklist.checkbox.label         "Devre dışı bırak">
+
+<!ENTITY softBlocklisted.label            "Güvenlik ve kararlılık sorunlarına yol açtığı biliniyor.">
+
+

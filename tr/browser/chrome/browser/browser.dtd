@@ -411,7 +411,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mediaHideControls.label     "Düğmeleri gizle">
 <!ENTITY mediaHideControls.accesskey "D">
 
- <!ENTITY reloadImageCmd.label         "Resmi tazele">
+<!ENTITY reloadImageCmd.label         "Resmi tazele">
 <!ENTITY reloadImageCmd.accesskey     "t">
 <!ENTITY saveVideoCmd.label           "Videoyu farklı kaydet...">
 <!ENTITY saveVideoCmd.accesskey       "v">
@@ -425,4 +425,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY viewVideoCmd.label           "Videoyu izle">
 <!ENTITY viewVideoCmd.accesskey       "v">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title inside the private browsing mode -->
+
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Gizli Tarama)">
+
+<!ENTITY privateBrowsingCmd.label            "Gizli tarama">
+<!ENTITY privateBrowsingCmd.accesskey        "G"> 
+
 
