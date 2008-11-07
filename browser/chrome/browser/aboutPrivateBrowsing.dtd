@@ -1,0 +1,13 @@
+<!ENTITY privatebrowsingpage.tabtitle                  "ખાનગી બ્રાઉઝીંગ">
+
+<!ENTITY privatebrowsingpage.pagetitle                 "ખાનગી બ્રાઉઝીંગ">
+
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; આ સત્ર માટે કોઈપણ ઈતિહાસ યાદ રાખશે નહિં.">
+<!ENTITY privatebrowsingpage.longDesc                  "આ બ્રાઉઝીંગ સત્ર દરમ્યાન કોઈપણ ઈતિહાસ &brandShortName; દ્વારા રેકોર્ડ કરવામાં આવશે નહિં. આ બ્રાઉઝર ઈતિહાસ, શોધ ઈતિહાસ, ડાઉનલોડ ઈતિહાસ, વેબ ફોર્મ ઈતિહાસ, કુકીઓ અને કામચલાઉ ઈન્ટરનેટ ફાઈલોનો સમાવેશ કરે છે. છતાંય, તમે ડાઉનલોડ કરેલ કોઈપણ ફાઈલો કે બુકમાર્કો સચવાશે.">
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "તમે તમારો છેલ્લો ઈતિહાસ સાફ કરીને પણ શરૂ કરવા માંગશો.">
+<!ENTITY privatebrowsingpage.recentHistory.label       "છેલ્લો ઈતિહાસ સાફ કરો">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey   "C">
+
+<!ENTITY privatebrowsingpage.howToStopDesc             "ખાનગી બ્રાઉઝીંગ અટકાવવા માટે, સાધનો &gt; ખાનગી બ્રાઉઝીંગની ચકાસણી દૂર કરો.">
+<!ENTITY privatebrowsingpage.footerDesc                "મજા માણો!">
