@@ -26,3 +26,9 @@
 
 <!ENTITY  warningSettings.label         "સુયોજનો...">
 <!ENTITY  warningSettings.accesskey     "S">
+
+<!ENTITY  blockAttackSites.label     "અહેવાલિત હુમલા સાઈટોને અટકાવો">
+<!ENTITY  blockAttackSites.accesskey "k">
+
+<!ENTITY  blockWebForgeries.label     "અહેવાલિત વેબ ગુનાખોરોને અટકાવો">
+<!ENTITY  blockWebForgeries.accesskey "B">

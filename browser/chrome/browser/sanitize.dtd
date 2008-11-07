@@ -1,11 +1,40 @@
-<!ENTITY sanitizeItems.label          "નીચેની વસ્તુઓ હમણાં સાફ કરો:">
+<!ENTITY sanitizePrefs.title           "ખાનગી માહિતી સાફ કરો">
+<!ENTITY sanitizeDialog2.title         "છેલ્લો ઈતિહાસ સાફ કરો">
+
+<!ENTITY sanitizeItems.label          "નીચેની વસ્તુઓ હમણાં જ સાફ કરો:">
+<!ENTITY clearDataSettings2.label     "જ્યારે હું &brandShortName; બંધ કરું, ત્યારે તે બધું આપોઆપ સાફ કરતું હોવું જોઈએ:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
+<!ENTITY clearDuration.label          "દૂર કરો ">
+<!ENTITY clearDuration.lastHour       "છેલ્લો કલાક">
+<!ENTITY clearDuration.last2Hours     "છેલ્લા ૨ કલાકો">
+<!ENTITY clearDuration.last4Hours     "છેલ્લા ૪ કલાકો">
+<!ENTITY clearDuration.today          "મારો આજનો ઈતિહાસ">
+<!ENTITY clearDuration.everything     "મારો આખો ઈતિહાસ">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix         "">
+
+<!ENTITY historySection.label         "ઈતિહાસ">
+<!ENTITY dataSection.label            "માહિતી">
+
+<!ENTITY itemVisitedPages.label       "મુલાકાત લેવાયેલ પાનાંઓ">
+<!ENTITY itemVisitedPages.accesskey   "V">
+<!ENTITY itemFormSearchEntries.label  "&amp; શોધ પ્રવેશોમાંથી">
+<!ENTITY itemFormSearchEntries.accesskey "F">
 <!ENTITY itemPasswords.label          "સંગ્રહાયેલ પાસવર્ડો">
 <!ENTITY itemPasswords.accesskey      "P">
 <!ENTITY itemCookies.label            "કુકીઓ">
 <!ENTITY itemCookies.accesskey        "C">
+<!ENTITY itemWebCache.label           "વેબ કેશ">
+<!ENTITY itemWebCache.accesskey       "W">
 <!ENTITY itemOfflineApps.label        "ઓફલાઈન વેબસાઈટ માહિતી">
 <!ENTITY itemOfflineApps.accesskey    "O">
+<!ENTITY itemDownloadList.label       "ડાઉનલોડ યાદી">
+<!ENTITY itemDownloadList.accesskey   "D">
+<!ENTITY itemActiveLogins.label       "સક્રિય પ્રવેશો">
+<!ENTITY itemActiveLogins.accesskey   "L">
+
 <!ENTITY window.width                 "30em">
+<!ENTITY column.width                 "14em">

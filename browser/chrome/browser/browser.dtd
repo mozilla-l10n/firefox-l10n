@@ -385,3 +385,38 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY clearRecentHistoryCmd.accesskey        "H">
+<!ENTITY clearRecentHistoryCmd.label            "છેલ્લો ઈતિહાસ સાફ કરો">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "ઓડિયો સ્થાનની નકલ કરો">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyVideoURLCmd.label        "વીડિયો સ્થાનની નકલ કરો">
+<!ENTITY ctrlTab.search.emptyText "શોધ ટેબો">
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (ખાનગી બ્રાઉઝીંગ)">
+<!ENTITY mediaHideControls.accesskey "C">
+<!ENTITY mediaHideControls.label     "નિયંત્રણો છુપાવો">
+<!ENTITY mediaMute.accesskey         "M">
+<!ENTITY mediaMute.label             "મૂંગુ કરો">
+<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaPause.label            "અટકાવો">
+<!ENTITY mediaPlay.accesskey         "P">
+<!ENTITY mediaPlay.label             "વગાડો">
+<!ENTITY mediaShowControls.accesskey "C">
+<!ENTITY mediaShowControls.label     "નિયંત્રણો બતાવો">
+<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaUnmute.label           "મૂંગાપણું દૂર કરો">
+<!ENTITY privateBrowsingCmd.accesskey        "B">
+<!ENTITY privateBrowsingCmd.label            "ખાનગી બ્રાઉઝીંગ">
+<!ENTITY reloadImageCmd.accesskey     "R">
+<!ENTITY reloadImageCmd.label         "ઈમેજ પુનઃલાવો">
+<!ENTITY saveAudioCmd.accesskey       "v">
+<!ENTITY saveAudioCmd.label           "ઓડિયો આ રીતે સંગ્રહો…">
+<!ENTITY saveVideoCmd.accesskey       "v">
+<!ENTITY saveVideoCmd.label           "વીડિયો આ રીતે સંગ્રહો…">
+<!ENTITY sendAudioCmd.accesskey       "n">
+<!ENTITY sendAudioCmd.label           "ઓડિયો મોકલો…">
+<!ENTITY sendVideoCmd.accesskey       "n">
+<!ENTITY sendVideoCmd.label           "વીડિયો મોકલો…">
+<!ENTITY viewVideoCmd.accesskey       "I">
+<!ENTITY viewVideoCmd.label           "વીડિયો જુઓ">
