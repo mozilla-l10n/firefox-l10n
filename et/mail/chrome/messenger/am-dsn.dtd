@@ -1,7 +1,7 @@
 <!ENTITY pane.title                 "Saatmise õnnestumise teavitus">
-<!ENTITY useGlobalPrefs.label       "Selle konto jaoks kasutatakse üldisi teavituse seadeid">
-<!ENTITY useGlobalPrefs.accesskey   "S">
-<!ENTITY useCustomPrefs.label       "Selle konto jaoks kasutatakse kohandatud saatmise õnnestumise teavitust">
+<!ENTITY useGlobalPrefs.label       "Kasutatakse üldisi saatmise õnnestumise teavituse sätteid">
+<!ENTITY useGlobalPrefs.accesskey   "s">
+<!ENTITY useCustomPrefs.label       "Kohandatud saatmise õnnestumise teavitus">
 <!ENTITY useCustomPrefs.accesskey   "e">
 <!ENTITY requestAlways.label        "Kirja saatmisel nõutakse alati saatmise õnnestumise teavitust">
 <!ENTITY requestAlways.accesskey    "K">
