@@ -169,3 +169,6 @@
 
 
 
+<!ENTITY blocklist.blocked.label          "අවහිර කර ඇත">
+<!ENTITY blocklist.checkbox.label         "අක්‍රීය කරන්න">
+<!ENTITY softBlocklisted.label            "Known to cause security or stability issues.">
