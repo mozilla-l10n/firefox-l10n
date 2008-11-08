@@ -5,15 +5,12 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Carpeta…">
 <!ENTITY newFolderCmd.accesskey "C">
-<!ENTITY newTabCmd.label "Nueva pestaña">
-<!ENTITY newTabCmd.accesskey "t">
 <!ENTITY closeTabCmd.label "Cerrar pestaña">
 <!ENTITY closeTabCmd.accesskey "e">
 <!ENTITY newVirtualFolderCmd.label "Búsqueda guardada…">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newAccountCmd.label "Cuenta…">
 <!ENTITY newAccountCmd.accesskey "a">
-<!ENTITY openMessageMenu.label "Abrir">
 <!ENTITY openMessageFileCmd.label "Abrir mensaje guardado…">
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY openAttachmentCmd.label "Adjuntos">
@@ -44,7 +41,7 @@
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Compactar carpetas">
-<!ENTITY compactFolder.accesskey "C">
+<!ENTITY compactFolders.accesskey "C">
 <!ENTITY emptyTrashCmd.label "Vaciar papelera">
 <!ENTITY emptyTrashCmd.accesskey "p">
 <!ENTITY importCmd.label "Importar…">
@@ -66,7 +63,6 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Vista preliminar">
 <!ENTITY printPreviewCmd.accesskey "V">
-<!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "u">
 
@@ -130,8 +126,6 @@
 <!ENTITY messagePaneWide.accesskey "m">
 <!ENTITY messagePaneVertical.label "Vista vertical">
 <!ENTITY messagePaneVertical.accesskey "V">
-<!ENTITY threadPaneWide.label "Vista de lista amplia">
-<!ENTITY threadPaneWide.accesskey "i">
 <!ENTITY showMessageCmd.label "Mensaje">
 <!ENTITY showMessageCmd.accesskey "e">
 
@@ -187,15 +181,12 @@
 <!ENTITY sortUnthreaded.accesskey "N">
 <!ENTITY groupBySort.label "Agrupados por orden">
 <!ENTITY groupBySort.accesskey "g">
-<!ENTITY groupBySortCmd.key "G">
 <!ENTITY msgsMenu.label "Mensajes">
 <!ENTITY msgsMenu.accesskey "M">
 <!ENTITY threads.label "Conversaciones">
 <!ENTITY threads.accesskey "v">
 <!ENTITY allMsgsCmd.label "Todo">
 <!ENTITY allMsgsCmd.accesskey "T">
-<!ENTITY expandOrCollapseMenu.label "Expandir/contraer">
-<!ENTITY expandOrCollapseMenu.accesskey "x">
 <!ENTITY expandAllThreadsCmd.label "Expandir todas las conversaciones">
 <!ENTITY expandAllThreadsCmd.accesskey "E">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -226,31 +217,39 @@
 <!ENTITY bodyAsPlaintext.accesskey "T">
 <!ENTITY viewAttachmentsInlineCmd.label "Ver adjuntos incorporados">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "a">
-<!ENTITY reloadCmd.label "Recargar">
-<!ENTITY reloadCmd.accesskey "R">
-<!ENTITY stopCmd.label "Detener">
-<!ENTITY stopCmd.accesskey "D">
-<!ENTITY textZoomEnlargeCmd.label "Aumentar">
-<!ENTITY textZoomEnlargeCmd.accesskey "A">
-<!ENTITY textZoomEnlargeCmd.commandkey "+"><!-- + is above this key on many keyboards -->
-<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY textZoomReduceCmd.label "Disminuir">
-<!ENTITY textZoomReduceCmd.accesskey "D">
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomResetCmd.commandkey "0">
-<!ENTITY textZoomResetCmd.label "Normal">
-<!ENTITY textZoomResetCmd.accesskey "N">
-<!ENTITY textSize.label "Tamaño del texto">
-<!ENTITY textSize.accesskey "x">
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY fullZoomEnlargeCmd.label "Aumentar">
+<!ENTITY fullZoomEnlargeCmd.accesskey "A">
+<!ENTITY fullZoomEnlargeCmd.commandkey "+"><!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY fullZoomReduceCmd.label "Disminuir">
+<!ENTITY fullZoomReduceCmd.accesskey "D">
+<!ENTITY fullZoomReduceCmd.commandkey "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
+<!ENTITY fullZoomResetCmd.label "Normal">
+<!ENTITY fullZoomResetCmd.accesskey "N">
+<!ENTITY fullZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY fullZoomToggleCmd.label        "Sólo el texto">
+<!ENTITY fullZoomToggleCmd.accesskey    "T">
+<!ENTITY fullZoom.label                 "Sólo el texto">
+<!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY pageSourceCmd.label "Fuente del mensaje">
 <!ENTITY pageSourceCmd.accesskey "u">
 <!ENTITY pageSourceCmd.key "u">
 
 <!-- Search Menu -->
-<!ENTITY searchMenu.label "Buscar">
-<!ENTITY searchMenu.accesskey "s">
-
 <!ENTITY findMenu.label "Buscar">
 <!ENTITY findMenu.accesskey "u">
 <!ENTITY findCmd.label "Buscar en este mensaje…">
@@ -282,8 +281,8 @@
 <!ENTITY nextStarredMsgCmd.label "Mensaje destacado">
 <!ENTITY nextStarredMsgCmd.accesskey "s">
 <!ENTITY nextUnreadThread.label "Conversación no leída">
-<!ENTITY nextUnreadThreadCmd.accesskey "c">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "c">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Anterior">
 <!ENTITY prevMenu.accesskey "A">
 <!ENTITY prevMsgCmd.label "Mensaje">
@@ -332,14 +331,14 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Crear filtro a partir del mensaje…">
 <!ENTITY createFilter.accesskey "a">
-<!ENTITY moveMsgMenu.label "Mover">
-<!ENTITY moveMsgMenu.accesskey "M">
+<!ENTITY moveMsgToMenu.label "Mover a">
+<!ENTITY moveMsgToMenu.accesskey "M">
 <!ENTITY moveCopyMsgRecentMenu.label "Reciente">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY copyMessageLocation.label "Copiar dirección del mensaje">
 <!ENTITY copyMessageLocation.accesskey "m">
-<!ENTITY copyMsgMenu.label "Copiar">
-<!ENTITY copyMsgMenu.accesskey "C">
+<!ENTITY copyMsgToMenu.label "Copiar a">
+<!ENTITY copyMsgToMenu.accesskey "C">
 <!ENTITY moveToFolderAgain.label "Mover nuevamente">
 <!ENTITY moveToFolderAgain.accesskey "u">
 <!ENTITY moveToFolderAgainCmd.key "m">
@@ -373,8 +372,6 @@
 <!ENTITY markAsReadCmd.label "Como leídos">
 <!ENTITY markAsReadCmd.accesskey "l">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "Como no leídos">
-<!ENTITY markAsUnreadCmd.accesskey "n">
 <!ENTITY markThreadAsReadCmd.label "Conversación como leída">
 <!ENTITY markThreadAsReadCmd.accesskey "C">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -401,7 +398,6 @@
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "Ventana">
-<!ENTITY windowMenu.accesskey "V">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Herramientas">
@@ -446,7 +442,6 @@
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY stopButton.label "Detener">
 <!ENTITY throbberItem.title "Indicador de actividad">
-<!ENTITY updatesItem.title "Actualizaciones">
 <!ENTITY junkButton.label "Basura">
 <!ENTITY notJunkButton.label "No es basura">
 <!ENTITY addressBookButton.label "Direcciones">
@@ -458,7 +453,6 @@
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Búsqueda avanzada de mensajes">
-<!ENTITY clearButton.tooltip "Vaciar los criterios de búsqueda y mostrar todos los mensajes">
 <!ENTITY getMsgButton.tooltip "Recibir mensajes nuevos">
 <!ENTITY getAllNewMsgCmd.label "Recibir todos los mensajes nuevos">
 <!ENTITY getAllNewMsgCmd.accesskey "G">
@@ -532,8 +526,6 @@
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "El nombre o dirección contiene:">
 <!ENTITY SearchNameOrEmail.accesskey "n">
-<!ENTITY clearButton.label "Limpiar">
-<!ENTITY clearButton.accesskey "L">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Asunto">
@@ -556,7 +548,6 @@
 <!ENTITY statusColumn.label "Estado">
 <!ENTITY sizeColumn.label "Tamaño">
 <!ENTITY junkStatusColumn.label "Estado de correo basura">
-<!ENTITY linesColumn.label "Líneas">
 <!ENTITY unreadColumn.label "No leídos">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Leído">
@@ -617,8 +608,6 @@
 <!ENTITY contextPrint.accesskey "I">
 <!ENTITY contextPrintPreview.label "Vista preliminar">
 <!ENTITY contextPrintPreview.accesskey "v">
-<!ENTITY contextDelete.label "Borrar">
-<!ENTITY contextDelete.accesskey "B">
 
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "Correo basura">
@@ -652,8 +641,6 @@
 <!ENTITY CopyEmailAddress.accesskey "C">
 <!ENTITY CreateFilterFrom.label "Crear filtro de…">
 <!ENTITY CreateFilterFrom.accesskey "F">
-<!ENTITY BlockAddress.label "Bloquear dirección">
-<!ENTITY BlockAddress.accesskey "a">
 <!ENTITY reportPhishingURL.label "Informar correo electrónico trampa">
 <!ENTITY reportPhishingURL.accesskey "o">
 
