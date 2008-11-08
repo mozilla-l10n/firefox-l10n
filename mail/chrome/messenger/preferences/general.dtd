@@ -20,7 +20,7 @@
 <!ENTITY showAnimatedAlert.accesskey "א">
 <!ENTITY customizeMailAlert.label "התאמה אישית...">
 <!ENTITY customizeMailAlert.accesskey "ה">
-<!ENTITY soundNotification1.caption "צליל">
+<!-- ###ENTITY soundNotification1.caption "צליל" -->
 <!ENTITY play.label "נגן">
 <!ENTITY play.accesskey "נ">
 <!ENTITY systemsound.label "צליל ברירת מחדל של המערכת לדואר חדש">
