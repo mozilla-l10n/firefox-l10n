@@ -6,11 +6,11 @@
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY clearDuration.label          "清除今日">
+<!ENTITY clearDuration.label          "清除範圍: ">
 <!ENTITY clearDuration.lastHour       "之前 1 小時">
 <!ENTITY clearDuration.last2Hours     "之前 2 小時">
 <!ENTITY clearDuration.last4Hours     "之前 4 小時">
-<!ENTITY clearDuration.today          "的瀏覽記錄">
+<!ENTITY clearDuration.today          "今日的瀏覽記錄">
 <!ENTITY clearDuration.everything     "我的所有瀏覽記錄">
 <!-- Localization note (clearDuration.suffix) - trailing entity for languages
 that require it.  -->
