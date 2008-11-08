@@ -7,7 +7,7 @@
 <!-- ### ENTITY prefWindow.styleUnix "width: 42em;" -->
 <!ENTITY paneGeneral.title "כללי">
 <!ENTITY paneDisplay.title "תצוגה">
-<!ENTITY paneTags.title "תגיות">
+<!-- ###ENTITY paneTags.title "תגיות" -->
 <!ENTITY paneComposition.title "חיבור הודעה">
 <!ENTITY paneAttachments.title "נספחים">
 <!ENTITY panePrivacy.title "פרטיות">

@@ -4,7 +4,7 @@
 <!ENTITY window.unixWidth "41em">
 <!ENTITY language.label "גופנים עבור:">
 <!ENTITY language.accesskey "ע">
-<!ENTITY typefaces.label "גופן">
+<!-- ###ENTITY typefaces.label "גופן" -->
 <!ENTITY sizes.label "גודל (פיקסלים)">
 <!ENTITY proportionalSize.accesskey "e">
 <!ENTITY monospaceSize.accesskey "x">
@@ -16,7 +16,7 @@
 <!ENTITY sans-serif.accesskey "ר">
 <!ENTITY monospace.label "רוחב קבוע:">
 <!ENTITY monospace.accesskey "ב">
-<!ENTITY fontsize.units "פיקסלים">
+<!-- ###ENTITY fontsize.units "פיקסלים" -->
 <!ENTITY font.langGroup.latin1 "מערבי">
 <!ENTITY font.langGroup.latin2 "מרכז אירופי">
 <!ENTITY font.langGroup.japanese "יפנית">
@@ -49,7 +49,7 @@
 <!ENTITY minSize.none "ללא">
 <!ENTITY useDefaultFontSerif.label "סריף">
 <!ENTITY useDefaultFontSansSerif.label "סאן־סריף">
-<!ENTITY newLanguages.label 'ניתן להוסיף שפות חדשות בעזרת הלוח "שפות".'>
+<!-- ###ENTITY newLanguages.label 'ניתן להוסיף שפות חדשות בעזרת הלוח "שפות".' -->
 <!ENTITY useDocumentFonts.label "אפשר להודעות לבחור את הגופנים שלהם">
 <!ENTITY useDocumentFonts.accesskey "א">
 <!ENTITY sendDefaultCharset.label "דואר יוצא:">

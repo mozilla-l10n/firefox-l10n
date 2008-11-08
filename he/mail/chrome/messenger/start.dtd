@@ -21,4 +21,4 @@
 <!ENTITY startpage.pageInfo "למידע על המוצר, בקר ב">
 <!ENTITY startpage.pageURL "http://www.mozilla.org/products/thunderbird/">
 <!ENTITY startpage.extra "">
-<!ENTITY startpage.poweredByGecko "מופעל על ידי Gecko.">
+<!-- ###ENTITY startpage.poweredByGecko "מופעל על ידי Gecko."-->

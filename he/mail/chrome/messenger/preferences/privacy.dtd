@@ -46,10 +46,10 @@
 <!ENTITY antiVirus.intro "&brandShortName; יכול לגרום לתוכנות אנטי-וירוס לנתח בקלות הודעות דואר נכנס עבור וירוסים לפני שהן מאוכסנות באופן מקומי.">
 <!ENTITY antiVirus.label "אפשר ללקוחות אנטי וירוס לבודד הודעות יחידות מתוך ההודעות הנכנסות">
 <!ENTITY antiVirus.accesskey "ב">
-<!ENTITY antiVirusCaption.label "אנטי-וירוס">
-<!ENTITY paswords.label "סיסמאות">
-<!ENTITY emailScams.label "הונאות דוא״ל">
-<!ENTITY junkMail.label "דואר זבל">
-<!ENTITY itemIntrusions.label "פריצות">
-<!ENTITY itemIntrusionsAndPasswords.label "פריצות וסיסמאות">
-<!ENTITY itemJunkMail.label "דואר זבל">
+<!-- ###ENTITY antiVirusCaption.label "אנטי-וירוס"-->
+<!-- ###ENTITY paswords.label "סיסמאות"-->
+<!-- ###ENTITY emailScams.label "הונאות דוא״ל"-->
+<!-- ###ENTITY junkMail.label "דואר זבל"-->
+<!-- ###ENTITY itemIntrusions.label "פריצות"-->
+<!-- ###ENTITY itemIntrusionsAndPasswords.label "פריצות וסיסמאות"-->
+<!-- ###ENTITY itemJunkMail.label "דואר זבל"-->

@@ -30,8 +30,11 @@
 <!ENTITY ScreenName.label "שם מסך:">
 <!ENTITY ScreenName.accesskey "S">
 <!ENTITY allowRemoteContent.label "אפשר תמונות מרוחקות בדואר HTML.">
-<!ENTITY allowRemoteContent.accesskey "g">
-<!ENTITY Phones.box "טלפונים">
+<!ENTITY allowRemoteContent.accesskey "ת">
+<!ENTITY allowRemoteContent.tooltip     "בהודעות HTML ניתן לצרף תמונות ממקורות מרוחקים. פתיחה של הודעות אלו תפתח חיבור עם מקור מרוחק זה. דרך זו יכולה לאפשר לאחרים לדעת כי ההודעה נקראה. סימון תיבה זו תאפשר לתמונות חיצוניות המצורפות להודעות HTML להיטען בהודעות מאיש קשר זה.">
+
+
+<!-- ###ENTITY Phones.box "טלפונים" -->
 <!ENTITY WorkPhone.label "עבודה:">
 <!ENTITY WorkPhone.accesskey "W">
 <!ENTITY HomePhone.label "בית:">
@@ -42,8 +45,11 @@
 <!ENTITY PagerNumber.accesskey "P">
 <!ENTITY CellularNumber.label "נייד:">
 <!ENTITY CellularNumber.accesskey "M">
-<!ENTITY Address.tab "כתובת">
-<!ENTITY Home.box "בית">
+<!-- ###ENTITY Address.tab "כתובת" -->
+<!-- ###ENTITY Home.box "בית" -->
+
+<!ENTITY Home.tab                       "פרטי">
+<!ENTITY Home.accesskey                 "פ">
 <!ENTITY HomeAddress.label "כתובת:">
 <!ENTITY HomeAddress2.label "">
 <!ENTITY HomeCity.label "עיר:">
@@ -51,7 +57,7 @@
 <!ENTITY HomeZipCode.label "מיקוד:">
 <!ENTITY HomeCountry.label "ארץ:">
 <!ENTITY HomeWebPage.label "אתר אינטרנט:">
-<!ENTITY Work.box "עבודה">
+<!-- ###ENTITY Work.box "עבודה" -->
 <!ENTITY JobTitle.label "תפקיד:">
 <!ENTITY Department.label "מחלקה:">
 <!ENTITY Company.label "ארגון:">
@@ -71,8 +77,9 @@
 <!ENTITY Custom3.accesskey "3">
 <!ENTITY Custom4.label "מותאם אישית 4:">
 <!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.box "הערות">
-<!ENTITY Address.accesskey              "כ">
+<!ENTITY Notes.label                    "הערות:">
+<!-- ###ENTITY Notes.box "הערות" -->
+<!-- ###ENTITY Address.accesskey              "כ"-->
 <!ENTITY Age.emptytext                  "גיל">
 <!ENTITY Birthday.accesskey             "ל">
 <!ENTITY Birthday.label                 "תאריך לידה:">
@@ -86,6 +93,8 @@
 <!ENTITY HomeState.accesskey            "מ">
 <!ENTITY HomeWebPage.accesskey          "א">
 <!ENTITY HomeZipCode.accesskey          "ק">
+<!ENTITY Work.tab                       "עבודה">
+<!ENTITY Work.accesskey                 "ע">
 <!ENTITY JobTitle.accesskey             "e">
 <!ENTITY Notes.accesskey                "ה">
 <!ENTITY Or.value                       "או">
