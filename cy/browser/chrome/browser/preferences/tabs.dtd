@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label "Agor tudalennau newydd mewn:">
-<!ENTITY inNewWindow.label "ffenestr newydd">
-<!ENTITY inNewWindow.accesskey "f">
-<!ENTITY inNewTab.label "tab newydd">
-<!ENTITY inNewTab.accesskey "t">
+<!ENTITY newWindowsAsTabs.label "Agor ffenestr newydd mewn tab newydd yn lle hynny">
+<!ENTITY newWindowsAsTabs.accesskey "t">
 
 <!ENTITY warnCloseMultipleTabs.label "Rhybuddio wrth gau tabiau lluosog">
 <!ENTITY warnCloseMultipleTabs.accesskey "g">

@@ -8,7 +8,7 @@
 <!ENTITY backButton.accesskey "N">
 <!ENTITY backButton.tooltip "Nôl un tudalen">
 <!ENTITY forwardButton.label "Ymlaen">
-<!ENTITY forwardButton.accesskey "F">
+<!ENTITY forwardButton.accesskey "Y">
 <!ENTITY forwardButton.tooltip "Ymlaen un tudalen">
 <!ENTITY copyCmd.label "Copïo">
 <!ENTITY copyCmd.accesskey "C">
@@ -22,9 +22,8 @@
 <!ENTITY printButton.tooltip "Argraffu'r dudalen">
 <!ENTITY closeWindow.commandkey "W">
 
-<!ENTITY searchtab.label "Chwilio">
-<!ENTITY searchtab.accesskey "C">
-<!ENTITY searchClose.tooltip "Cau canlyniadau'r chwilio">
+<!ENTITY search.emptytext "Chwilio">
+<!ENTITY searchHeader.label "Canlyniadau Chwilio">
 <!ENTITY toctab.label "Cynnwys">
 <!ENTITY toctab.accesskey "C">
 <!-- LOCALIZATION NOTE :
@@ -50,5 +49,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomReduceBtn.label "Chwyddo Allan">
 <!ENTITY fullZoomReduceBtn.accesskey "A">
-<!ENTITY fullZoomEnlargeBtn.label "Chwyddo Fewn">
-<!ENTITY fullZoomEnlargeBtn.accesskey "F">
+<!ENTITY fullZoomEnlargeBtn.label "Chwyddo Mewn">
+<!ENTITY fullZoomEnlargeBtn.accesskey "M">

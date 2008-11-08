@@ -1,9 +1,9 @@
 <!ENTITY position.label "Safle:">
 <!ENTITY tile.label "Teilio">
-<!ENTITY center.label "Canol">
+<!ENTITY center.label "Canoli">
 <!ENTITY stretch.label "Estyn">
 <!ENTITY preview.label "Rhagolwg">
 <!ENTITY color.label "Lliw:">
-<!ENTITY setDesktopBackground.title "Gosod Cefndir Bwrdd Gwaith">
+<!ENTITY setDesktopBackground.title "Gosod Cefndir y Bwrdd Gwaith">
 <!ENTITY openDesktopPrefs.label "Dewisiadau Open Desktop">
 <!ENTITY closeWindow.key "w">

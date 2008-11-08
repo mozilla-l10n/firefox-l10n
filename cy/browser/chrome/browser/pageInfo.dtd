@@ -55,13 +55,13 @@
 <!ENTITY generalMode "Modd Llunio:">
 <!ENTITY generalSize "Maint:">
 <!ENTITY generalReferrer "URL cyfeirio:">
-<!ENTITY generalSource "Ffynhonnell Ystorfa">
+<!ENTITY generalSource "Ffynhonnell Ystorfa:">
 <!ENTITY generalModified "Newidiwyd:">
 <!ENTITY generalEncoding "Amgodio:">
 <!ENTITY generalMetaName "Enw">
 <!ENTITY generalMetaContent "Cynnwys">
-<!ENTITY generalSecurityMore "Mwy">
-<!ENTITY generalSecurityMore.accesskey "M">
+<!ENTITY generalSecurityDetails "Manylion">
+<!ENTITY generalSecurityDetails.accesskey "M">
 
 <!ENTITY mediaTab "Cyfrwng">
 <!ENTITY mediaTab.accesskey "y">
@@ -75,7 +75,7 @@
 <!ENTITY mediaDimension "Maint:">
 <!ENTITY mediaLongdesc "Priodoledd Hir:">
 <!ENTITY mediaBlockImage.accesskey "B">
-<!ENTITY mediaSaveAs "Cadw Fel:">
+<!ENTITY mediaSaveAs "Cadw Fel...">
 <!ENTITY mediaSaveAs.accesskey "F">
 <!ENTITY mediaSaveAs2.accesskey "y">
 <!ENTITY mediaPreview "Rhagolwg Cyfrwng:">
@@ -94,7 +94,7 @@
 <!ENTITY permissionsFor "Caniatâd ar gyfer:">
 <!ENTITY permImage "Llwytho Delweddau">
 <!ENTITY permPopup "Agor Llamlenni">
-<!ENTITY permCookie "Gosod cwcis">
+<!ENTITY permCookie "Gosod Cwcis">
 <!ENTITY permInstall "Gosod Estyniadau neu Themâu">
 
 <!ENTITY securityTab "Diogelwch">

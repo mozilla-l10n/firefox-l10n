@@ -7,16 +7,16 @@
 
 <!ENTITY color "Testun a Chefndir">
 <!ENTITY textColor.label "Testun:">
-<!ENTITY textColor.accesskey "t">
+<!ENTITY textColor.accesskey "T">
 <!ENTITY backgroundColor.label "Cefndir:">
-<!ENTITY backgroundColor.accesskey "c">
+<!ENTITY backgroundColor.accesskey "C">
 <!ENTITY useSystemColors.label "Defnyddio lliwiau'r system">
 <!ENTITY useSystemColors.accesskey "d">
 
 <!ENTITY underlineLinks.label "Tanlinellu cysylltiadau">
-<!ENTITY underlineLinks.accesskey "a">
+<!ENTITY underlineLinks.accesskey "A">
 <!ENTITY links "Lliwiau Cysylltiadau">
 <!ENTITY linkColor.label "Cysylltiadau heb gael ymweliad:">
-<!ENTITY linkColor.accesskey "h">
+<!ENTITY linkColor.accesskey "H">
 <!ENTITY visitedLinkColor.label "Cysylltiadau wedi cael ymweliad:">
-<!ENTITY visitedLinkColor.accesskey "w">
+<!ENTITY visitedLinkColor.accesskey "W">

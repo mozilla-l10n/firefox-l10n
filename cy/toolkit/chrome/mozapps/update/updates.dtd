@@ -4,24 +4,20 @@
 <!ENTITY window.macWidth "39em">
 
 <!ENTITY checking.title "Gwirio am Ddiweddariadau">
-<!ENTITY checking.label "Mae &brandShortName; yn gwirio am ddiweddariadau…">
-
-<!ENTITY cancel.label "Diddymu">
-<!ENTITY cancel.accesskey "D">
+<!ENTITY updateCheck.label "Chwilio am fersiwn newydd o &brandShortName;…">
 
 <!ENTITY noupdatesfound.title "Heb Ganfod Diweddariadau">
-<!ENTITY noupdatesfound.intro "Nid oes diweddariad newydd ar gael. Bydd &brandShortName; yn 
+<!ENTITY noupdatesautoenabled.intro "Nid oes diweddariad newydd ar gael. Bydd &brandShortName; yn 
 gwirio o bryd i'w gilydd am ddiweddariadau newydd.">
+<!ENTITY noupdatesautodisabled.intro "Nid oes diweddariadau ar gael. Gwiriwch eto neu alluogi 
+gwirio diweddariadau awtomatig BrandShortName.">
 
-<!ENTITY incompatibleChecking.label "Gwirio os yw'r diweddariad yn achosi anawsterau gyda'ch estyniadau a/neu themâu...">
+<!ENTITY incompatibleCheck.title "Gwirio Cytunedd yr Ychwanegyn">
+<!ENTITY incompatibleCheck.label "Chwilio am fersiwn mwy diweddar o'ch ychwanegion...">
+
 <!ENTITY clickHere.label "Darllen mwy am y diweddariad">
 
-<!ENTITY incompatible.warning "Bydd y diweddariad yn achosi i rai o'ch estyniadau a/neu themâu 
-beidio gweithio nes eu bod wedi cael eu diweddaru.">
-<!ENTITY listIncompatible.label "Dangos Rhestr">
-<!ENTITY listIncompatible.accesskey "R">
-
-<!ENTITY upgrade.evangelism "Argymhellir yn gryf eich bod yn diweddaru &brandShortName; 
+<!ENTITY evangelism.desc "Argymhellir yn gryf eich bod yn diweddaru &brandShortName; 
 gynted ag y bo modd.">
 
 <!ENTITY license.instructions "Os ydych yn cytuno ag amodau'r cytundeb, cliciwch Cytuno 
@@ -35,6 +31,8 @@ isod i barhau i osod y diweddariad.">
 <!ENTITY license.decline "NID wyf yn derbyn amodau'r Cytundeb Trwyddedu">
 <!ENTITY license.decline.accesskey "N">
 
+<!ENTITY incompatibleList.title "Wedi Canfod Ychwanegion Anghytûn">
+
 <!ENTITY downloading.title "Llwytho'r Diweddariad">
 <!ENTITY downloading.intro "Llwytho'r diweddariad...">
 <!ENTITY connecting.label "Cysylltu á'r gweinydd diweddaru...">
@@ -42,11 +40,9 @@ isod i barhau i osod y diweddariad.">
 diweddariad cynyddol mae wedi ei lwytho, felly mae'n 
 llwytho'r pecyn diweddaru cyfan.">
 
+<!ENTITY viewDetails.tooltip "Gweld manylion y diweddariad">
+
 <!ENTITY details.link "Manylion">
-<!ENTITY pause.label "Saib">
-<!ENTITY pause.accesskey "s">
-<!ENTITY close.label "Cau">
-<!ENTITY close.accesskey "C">
 
 <!ENTITY error.label "Bu anawsterau wrth lwytho neu osod y diweddariad. Nid oedd 
 modd diweddaru &brandShortName; oherwydd:">
@@ -58,19 +54,16 @@ modd diweddaru &brandShortName; oherwydd:">
 <!ENTITY errorpatching.intro "Nid oedd modd gosod y Diweddariad rhannol. 
 Bydd &brandShortName; yn ceisio eto drwy lwytho'r Diweddariad cyfan.">
 
-<!ENTITY finished.title "Diweddariad wedi ei Lwytho i Lawr">
-<!ENTITY finished.text "Cafodd y diweddariad ei lwytho a'i wirio'n llwyddiannus, a bydd yn 
-cael ei osod y tro nesaf fydd &brandShortName; yn cychwyn.">
+<!ENTITY finishedPage.title "Diweddariad yn Barod i'w Osod">
+<!ENTITY finishedPage.text "Bydd y diweddariad yn cael ei osod y tro nesaf y bydd &brandShortName; yn cychwyn.
+Gallwch ailgychwyn &brandShortName; nawr neu barhau i weithio a'i ailgychwyn yn hwyrach.">
 
-<!ENTITY finishedBackground.title "Diweddariad yn Barod i'w Osod">
-<!ENTITY finishedBackground.text "Mae &brandShortName; wedi llwytho a gwirio diweddariad pwysig. 
-Cliciwch y cysylltiad isod am wybodaeth bellach.">
+<!ENTITY finishedBackgroundPage.text "Mae diweddariad diogelwch a sefydlogrwydd ar gyfer  &BrandShortName; 
+wedi ei lwytho i lawr ac mae'n barod i'w osod.">
 <!ENTITY finishedBackground.name "Diweddaru:">
-<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
-<!ENTITY finishedBackground.more1 "Cliciwch Ailgychwyn &brandShortName; Nawr i osod y diweddariad.">
-<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!ENTITY finishedBackground.textNotNow "Cliciwch Nid Nawr i gau'r blwch yma a pharhau i weithio, bydd &brandShortName; 
-yn gosod y diweddariad y tro nesaf fydd yn cychwyn.">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY finishedBackground.more "Bydd y diweddariad yn cael ei osod y tro nesaf y bydd &brandShortName; yn cychwyn. 
+Mae modd ailgychwyn &brandShortName; nawr, neu barhau i weithio ac ailgychwyn yn hwyrach.">
 
 <!ENTITY installed.title "Diweddariad wedi ei Osod">
 <!ENTITY installed.intro "Cafodd y diweddariad ei osod yn llwyddiannus.">

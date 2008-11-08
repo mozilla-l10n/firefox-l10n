@@ -1,4 +1,4 @@
-<!ENTITY reportSite "Safle">
+<!ENTITY reportSite "Gwefan">
 <!ENTITY reportProblemType "Math o Broblem">
 <!ENTITY reportDecsription "Disgrifiad">
 <!ENTITY reportPlatform "Platfform">
@@ -8,7 +8,7 @@
 <!ENTITY reportBuildConfig "Ffurf Adeiledd">
 <!ENTITY reportUseragent "Asiant Defnyddiwr">
 <!ENTITY reportLanguage "Iaith">
-<!ENTITY reportCharset "Set Nodau">
+<!ENTITY reportCharset "Set Nod">
 <!ENTITY reportEmail "E-bost">
 <!ENTITY error "Manylion Gwall">
 <!ENTITY faultCode "Cod">

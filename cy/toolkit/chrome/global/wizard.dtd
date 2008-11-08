@@ -2,7 +2,7 @@
 <!ENTITY button-back-mac.accesskey "N">
 <!ENTITY button-next-mac.label "Parhau">
 <!ENTITY button-next-mac.accesskey "P">
-<!ENTITY button-finish-mac.label "Wedi gorffen">
+<!ENTITY button-finish-mac.label "Wedi Gorffen">
 <!ENTITY button-cancel-mac.label "Diddymu">
 
 <!ENTITY button-back-unix.label "Nôl">

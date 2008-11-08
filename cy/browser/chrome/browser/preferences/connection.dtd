@@ -7,11 +7,11 @@
 <!ENTITY noProxyTypeRadio.label "Dim dirprwy">
 <!ENTITY noProxyTypeRadio.accesskey "d">
 <!ENTITY systemTypeRadio.label "Defnyddio gosodiadau dirprwyol y system">
-<!ENTITY systemTypeRadio.accesskey "g">
+<!ENTITY systemTypeRadio.accesskey "G">
 <!ENTITY WPADTypeRadio.label "AwtoGanfod gosodiadau dirprwyol ar gyfer y rhwydwaith">
 <!ENTITY WPADTypeRadio.accesskey "a">
 <!ENTITY manualTypeRadio.label "Ffurfweddiad dirprwyol llaw">
-<!ENTITY manualTypeRadio.accesskey "f">
+<!ENTITY manualTypeRadio.accesskey "F">
 <!ENTITY autoTypeRadio.label "URL ffurfweddu dirprwy yn awtomatig:">
 <!ENTITY autoTypeRadio.accesskey "U">
 <!ENTITY reload.label "Ail-lwytho">

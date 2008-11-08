@@ -4,7 +4,7 @@
 
 
 <!ENTITY connectionFailure.title "Methu Cysylltu">
-<!ENTITY connectionFailure.longDesc "<p>Er bod y safle i'w weld yn ddilys, nid oedd y porwr yn gallu creu cysylltiad.</p><ul><li>Efallai nad yw'r safle ar gael dros dro? Ceisiwch eto.</li><li>Methu pori safleoedd eraill?  Gwiriwch gysylltiad y cyfrifiadur â'r rhwydwaith.</li><li>A yw eich cyfrifiadur a'r rhwydwaith wedi eu hamddiffyn gan fur cadarn neu ddirprwy? Mae gosodiadau anghywir yn gallu ymyrryd â phori'r we.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Er bod y safle i'w weld yn ddilys, nid oedd y porwr yn gallu creu cysylltiad.</p><ul><li>Efallai nad yw'r safle ar gael dros dro? Ceisiwch eto.</li><li>Methu pori safleoedd eraill?  Gwiriwch gysylltiad y cyfrifiadur â'r rhwydwaith.</li><li>A yw eich cyfrifiadur a'r rhwydwaith wedi eu hamddiffyn gan fur cadarn neu ddirprwy? Mae gosodiadau anghywir yn gallu ymyrryd â phori'r We.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Cyfyngwyd ar y Porth am Resymau Diogelwch">
 <!ENTITY deniedPortAccess.longDesc "<p>Gofynnodd y cyfeiriad am borth (e.e. <q>mozilla.org:80</q> sef porth 80 ar mozilla.org) sy'n cael ei ddefnyddio am resymau <em>heblaw</em> pori'r We. Mae'r porwr wedi diddymu eich cais er eich diogelwch.</p>">

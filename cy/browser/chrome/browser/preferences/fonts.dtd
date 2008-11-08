@@ -15,7 +15,7 @@
 
 <!ENTITY serif.label "Serif:">
 <!ENTITY serif.accesskey "S">
-<!ENTITY sans-serif.label "Sans-serif:">
+<!ENTITY sans-serif.label "Sans Serif">
 <!ENTITY sans-serif.accesskey "n">
 <!ENTITY monospace.label "Monospace::">
 <!ENTITY monospace.accesskey "O">

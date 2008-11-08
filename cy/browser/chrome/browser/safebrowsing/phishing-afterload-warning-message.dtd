@@ -15,8 +15,6 @@
 <!ENTITY safeb.palm.notforgery.label2 "Nid twyll gwe yw hwn...">
 <!ENTITY safeb.palm.report.label "Pam gafodd y wefan ei rwystro?">
 
-<!ENTITY safeb.urlbaricon.tooltip "Gall y dudalen hon fod yn beryglus; cliciwch am fanylion.">
-
 <!ENTITY safeb.blocked.malware.title "Gwefan Ymosod Hysbys!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "Mae'r wefan <span id=malware_sitename'/> yn hysbys fel gwefan ymosod ac wedi ei rwystro ar sail eich dewisiadau diogelwch.">

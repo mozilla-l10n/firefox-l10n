@@ -2,11 +2,11 @@
 <!ENTITY charsetMenu.label "Nodau">
 <!ENTITY charsetMenu.accesskey "N">
 <!ENTITY charsetMenuAutodet.label "Canfod Awtomatig">
-<!ENTITY charsetMenuAutodet.accesskey "a">
+<!ENTITY charsetMenuAutodet.accesskey "A">
 <!ENTITY charsetMenuMore.label "Rhagor o Amgodiadau">
-<!ENTITY charsetMenuMore.accesskey "r">
+<!ENTITY charsetMenuMore.accesskey "R">
 <!ENTITY charsetMenuMore1.label "Gorllewin Ewrop">
-<!ENTITY charsetMenuMore1.accesskey "g">
+<!ENTITY charsetMenuMore1.accesskey "G">
 <!ENTITY charsetMenuMore2.label "Dwyrain Ewrop">
 <!ENTITY charsetMenuMore2.accesskey "D">
 <!ENTITY charsetMenuMore3.label "Dwyrain Asia">
@@ -18,4 +18,4 @@
 <!ENTITY charsetMenuUnicode.label "Unicode">
 <!ENTITY charsetMenuUnicode.accesskey "U">
 <!ENTITY charsetCustomize.label "Addasu'r Rhestr">
-<!ENTITY charsetCustomize.accesskey "a">
+<!ENTITY charsetCustomize.accesskey "A">

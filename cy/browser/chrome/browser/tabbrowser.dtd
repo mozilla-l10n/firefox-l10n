@@ -2,13 +2,13 @@
 <!ENTITY newTab.label "Tab Newydd">
 <!ENTITY newTab.accesskey "T">
 <!ENTITY closeTab.label "Cau Tab">
-<!ENTITY closeTab.accesskey "c">
+<!ENTITY closeTab.accesskey "C">
 <!ENTITY closeOtherTabs.accesskey "e">
 <!ENTITY closeOtherTabs.label "Cau Tabiau Eraill">
 <!ENTITY reloadAllTabs.label "Ail lwytho Pob Tab">
 <!ENTITY reloadAllTabs.accesskey "P">
 <!ENTITY reloadTab.label "Ail lwytho Tab">
-<!ENTITY reloadTab.accesskey "a">
+<!ENTITY reloadTab.accesskey "A">
 <!ENTITY listAllTabs.label "Rhestr pob tab">
 <!ENTITY bookmarkAllTabs.label "Gosod Nod Tudalen i bob Tab">
 <!ENTITY bookmarkAllTabs.accesskey "T">
@@ -16,3 +16,4 @@
 <!ENTITY bookmarkThisTab.accesskey "G">
 <!ENTITY undoCloseTab.label "Dadwneud Cau Tab">
 <!ENTITY undoCloseTab.accesskey "D">
+<!ENTITY newTabButton.tooltip "Agor tab newydd">
