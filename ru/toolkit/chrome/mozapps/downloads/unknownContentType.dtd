@@ -2,7 +2,7 @@
 <!ENTITY intro.label "Вы собираетесь открыть файл">
 <!ENTITY from.label "из">
 <!ENTITY actionQuestion.label "Как &brandShortName; следует обработать этот файл?">
-<!ENTITY openWith.label "Открыть с помощью">
+<!ENTITY openWith.label "Открыть в">
 <!ENTITY openWith.accesskey "т">
 <!ENTITY other.label "Выбрать…">
 <!ENTITY saveFile.label "Сохранить файл">
