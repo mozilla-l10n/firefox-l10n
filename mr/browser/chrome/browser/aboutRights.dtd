@@ -44,6 +44,16 @@
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
+<!-- intro paragraph for branded builds -->
+<!ENTITY rights.webservices-a "&brandFullName; संकेत स्थल माहिती सेवा (&quot;Services&quot;) चा वापर करतो, जसे की सुरक्षीत संचारन सेवा, जे तुम्हाला खालिलरित्या, &brandShortName; च्या बायनरी आवृत्तीसह वापरणीस उपलब्ध आहे. तुम्हाला सेवाचा वापर करायचा नसल्यास किंवा अटी अस्वीकराण्याजोगी असल्यास, तुम्ही अनुप्रयोगाचे प्राधान्यक्रम उघडून, व खालिल विभाग निवडून सुरक्षीत संचारन सेवा अकार्यान्वीत करू शकता ">
+<!ENTITY rights.webservices-b "सुरक्षा">
+<!ENTITY rights.webservices-c " विभाग, आणि &quot;&blockAttackSites.label;&quot; व &quot;&blockWebForgeries.label;&quot; करीता पर्याय निवडू नका ">
+
+<!-- intro paragraph for unbranded builds -->
+<!ENTITY rights.webservices-unbranded "उत्पादनसह समाविष्टीत संकेत स्थळ सेवाचे पुनरावलोकन, त्याचबरोबर त्यास अकार्यान्वीत करण्याकरीता सूचनाचे समावेषन, लागू होत असल्यास, येथे समाविष्ट केले गेले पाहिजे.">
+
+<!-- point 1 text for unbranded builds -->
+<!ENTITY rights.webservices-term1-unbranded "या उत्पादन करीता लागूहोण्याजोगी सेवा अटी येथे दर्शविले गेले पाहिजे.">
 
 <!-- points 1-7 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; and its contributors, licensors and partners work to provide the most accurate and up-to-date phishing and malware information. However, they cannot guarantee that this information is comprehensive and error-free: some risky sites may not be identified and some safe sites may be identified in error.">
