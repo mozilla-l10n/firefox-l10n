@@ -15,14 +15,14 @@ that require it.  -->
 <!ENTITY historySection.label         "Historik">
 <!ENTITY dataSection.label            "Të dhëna">
 
-B<!ENTITY itemVisitedPages.label       "Faqe të Vizituara">
-B<!ENTITY itemVisitedPages.accesskey   "V">
-B<!ENTITY itemFormSearchEntries.label  "Zëra Formularësh &amp; Kërkimesh">
-B<!ENTITY itemFormSearchEntries.accesskey "Z">
-B<!ENTITY itemWebCache.label           "Fshehtinë Web">
-B<!ENTITY itemWebCache.accesskey       "W">
-B<!ENTITY itemDownloadList.label       "Listë Shkarkimesh">
-B<!ENTITY itemDownloadList.accesskey   "S">
+<!ENTITY itemVisitedPages.label       "Faqe të Vizituara">
+<!ENTITY itemVisitedPages.accesskey   "V">
+<!ENTITY itemFormSearchEntries.label  "Zëra Formularësh &amp; Kërkimesh">
+<!ENTITY itemFormSearchEntries.accesskey "Z">
+<!ENTITY itemWebCache.label           "Fshehtinë Web">
+<!ENTITY itemWebCache.accesskey       "W">
+<!ENTITY itemDownloadList.label       "Listë Shkarkimesh">
+<!ENTITY itemDownloadList.accesskey   "S">
 
 <!ENTITY sanitizePrefs.title           "Pastro të Dhënat Vetjake">
 <!ENTITY sanitizeDialog2.title         "Pastro Historikun Së fundmi">
