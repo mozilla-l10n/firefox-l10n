@@ -165,3 +165,7 @@
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "स्वीकारा व प्रतिष्ठापीत करा…">
+
+<!ENTITY blocklist.blocked.label          "रोखले">
+<!ENTITY blocklist.checkbox.label         "अकार्यान्वीत">
+<!ENTITY softBlocklisted.label            "सुरक्षा किंवा स्थिरता अडचणी निर्माण करण्यास परिचीत आहे.">

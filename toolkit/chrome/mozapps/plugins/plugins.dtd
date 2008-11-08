@@ -20,3 +20,5 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label "पुरक कार्यक्रमांविषयी अधीक शोध घ्या किंवा हरवलेल्या पुरक कार्यक्रमांचा माहितीपुस्तीकेतून शोध घ्या.">
 <!ENTITY pluginWizard.finalPage.restart.label "पुरक कार्यक्रम(कार्यक्रमांना) कार्यान्वीत करण्याकरीता &brandShortName; ला पुन्हा सुरू करावे लागेल.">
 <!ENTITY missingPlugin.label                                 "प्लगइन डाऊनलोड करण्याकरीता येथे क्लिक करा.">
+<!ENTITY disabledPlugin.label                                "या अनुक्रम करीता प्लगइन अकार्यान्वीत केले गेले आहे. प्लगइन व्यवस्थापन करीता येथे क्लिक करा.">
+<!ENTITY blockedPlugin.label                                 "हे प्लगइन तुमच्या सुरक्षा करीता रोखले गेले.">
