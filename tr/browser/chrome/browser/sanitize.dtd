@@ -1,47 +1,39 @@
-<!ENTITY sanitizeItems.label          "Aşağıdaki öğeleri sil:">
+<!ENTITY sanitizePrefs.title           "Özel verileri temizle">
+<!ENTITY sanitizeDialog2.title         "Yakın geçmişi temizle">
 
+<!ENTITY sanitizeItems.label          "Aşağıdaki öğeleri hemen sil:">
+<!ENTITY clearDataSettings2.label     "&brandShortName; uygulamasından çıktığımda bunlar kendiliğinden silinsin:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-
-<!ENTITY itemPasswords.label          "Kayıtlı parolalar">
-<!ENTITY itemPasswords.accesskey      "p">
-<!ENTITY itemCookies.label            "Çerezler">
-<!ENTITY itemCookies.accesskey        "z">
-
-<!ENTITY itemOfflineApps.label        "Çevrim dışı sayfa verileri">
-<!ENTITY itemOfflineApps.accesskey    "e">
-
-<!ENTITY window.width                 "23em">
-<!ENTITY itemActiveLogins.label       "Etkin Oturumlar">
-<!ENTITY itemActiveLogins.accesskey   "L">
-
-<!ENTITY clearDataSettings2.label "&brandShortName; uygulamasından çıktığımda bunlar kendiliğinden silinsin:">
-<!ENTITY clearDuration.everything "bütün geçmişim">
-<!ENTITY clearDuration.label "Kaldır">
+<!ENTITY clearDuration.label          "Temizlenecek dönem: ">
+<!ENTITY clearDuration.lastHour       "son 1 saat">
 <!ENTITY clearDuration.last2Hours     "son 2 saat">
 <!ENTITY clearDuration.last4Hours     "son 4 saat">
-<!ENTITY clearDuration.suffix         "">
 <!ENTITY clearDuration.today          "bugün">
-<!ENTITY column.width                 "14em">
-<!ENTITY dataSection.label            "Veri">
+<!ENTITY clearDuration.everything     "tüm geçmiş">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages that require it.  -->
+<!ENTITY clearDuration.suffix         "">
+
 <!ENTITY historySection.label         "Geçmiş">
-<!ENTITY itemDownloadList.label       "İndirme listesi">
-<!ENTITY itemDownloadList.accesskey   "D">
+<!ENTITY dataSection.label            "Veri">
 
-<!ENTITY itemFormSearchEntries.label  "Form ve arama girdileri">
-<!ENTITY itemFormSearchEntries.accesskey "F">
 <!ENTITY itemVisitedPages.label       "Ziyaret edilen sayfalar">
-<!ENTITY itemVisitedPages.accesskey   "Z">
+<!ENTITY itemVisitedPages.accesskey   "z">
+<!ENTITY itemFormSearchEntries.label  "Form ve arama girdileri">
+<!ENTITY itemFormSearchEntries.accesskey "m">
+<!ENTITY itemPasswords.label          "Kayıtlı parolalar">
+<!ENTITY itemPasswords.accesskey      "o">
+<!ENTITY itemCookies.label            "Çerezler">
+<!ENTITY itemCookies.accesskey        "e">
+<!ENTITY itemWebCache.label           "Önbellek">
+<!ENTITY itemWebCache.accesskey       "n">
+<!ENTITY itemOfflineApps.label        "Çevrim dışı site verileri">
+<!ENTITY itemOfflineApps.accesskey    "d">
+<!ENTITY itemDownloadList.label       "İndirme listesi">
+<!ENTITY itemDownloadList.accesskey   "t">
+<!ENTITY itemActiveLogins.label       "Etkin oturumlar">
+<!ENTITY itemActiveLogins.accesskey   "u">
 
-<!ENTITY itemWebCache.label           "Web önbelleği">
-<!ENTITY itemWebCache.accesskey       "W">
-
-<!ENTITY sanitizeDialog2.title         "Güncel Geçmişi Temizle">
-<!ENTITY sanitizePrefs.title           "Özel Verileri Temizle">
-
-<!ENTITY clearDuration.lastHour       "son saat">
-
-
-
-
+<!ENTITY window.width                 "30em">
+<!ENTITY column.width                 "14em">

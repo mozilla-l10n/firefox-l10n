@@ -1,11 +1,11 @@
-<!ENTITY privatebrowsingpage.tabtitle                  "Gizli tarama">
+<!ENTITY privatebrowsingpage.tabtitle                  "Gizli Tarama">
 
-<!ENTITY privatebrowsingpage.pagetitle                 "Gizli tarama">
+<!ENTITY privatebrowsingpage.pagetitle                 "Gizli Tarama">
 
-<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; bu oturumda geçen hiçbir şey hatırlamayacak.">
-<!ENTITY privatebrowsingpage.longDesc                  "Bu oturum boyunca &brandShortName; geçmiş kaydı tutmayacak. Buna ziyaret, arama, indirme ve form geçmişi ile çerezler ve geçici internet dosyaları dahildir. Yine de indirdiğiniz dosyalar ya da koyduğunuz yer imleri korunacaktır.">
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; bu oturumda geçen hiçbir şeyi hatırlamayacak.">
+<!ENTITY privatebrowsingpage.longDesc                  "&brandShortName; bu oturum boyunca kayıt tutmayacak. Ziyaret geçmişi, arama geçmişi, indirme geçmişi, form geçmişi, çerezler ve geçici internet dosyaları buna dahildir. İndirdiğiniz dosyalar ya da koyduğunuz yer imleri ne olursa olsun korunacaktır.">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Yakın zamandaki tarama geçmişini silerek başlamak da isteyebilirsiniz.">
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "İşe yakın zamandaki tarama geçmişini silerek de başlamak isteyebilirsiniz.">
 <!ENTITY privatebrowsingpage.recentHistory.label       "Yakın geçmişi sil">
 <!ENTITY privatebrowsingpage.recentHistory.accesskey   "s">
 
