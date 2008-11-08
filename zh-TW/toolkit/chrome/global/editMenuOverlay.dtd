@@ -3,7 +3,7 @@
 <!ENTITY undoCmd.label             "復原">
 <!ENTITY undoCmd.key               "Z">
 <!ENTITY undoCmd.accesskey         "U">
-<!ENTITY redoCmd.label             "取消復原">
+<!ENTITY redoCmd.label             "取消「復原」">
 <!ENTITY redoCmd.key               "Y">
 <!ENTITY redoCmd.accesskey         "R">
 <!ENTITY cutCmd.label              "剪下">
