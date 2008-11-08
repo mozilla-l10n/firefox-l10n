@@ -63,6 +63,10 @@
 <!ENTITY cmd.edit_redo.label "Вярнуць">
 <!ENTITY cmd.edit_redo.accesskey "В">
 <!ENTITY cmd.edit_redo.key "y">
+<!ENTITY cmd.delete.label "Выдаліць гэтую старонку">
+<!ENTITY cmd.delete.accesskey "д">
+<!ENTITY cmd.deleteDomainData.label "Забыць гэтую пляцоўку">
+<!ENTITY cmd.deleteDomainData.accesskey "З">
 <!ENTITY cmd.open.label "Адчыніць">
 <!ENTITY cmd.open.accesskey "А">
 <!ENTITY cmd.open_window.label "Адчыніць у новым акне">

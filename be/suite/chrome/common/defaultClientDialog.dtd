@@ -3,5 +3,6 @@
 <!ENTITY browser.label "Азіральнік">
 <!ENTITY email.label "Э-Пошты">
 <!ENTITY newsgroups.label "Навінакупы">
+<!ENTITY rss.label "Жывільнікі RSS">
 <!ENTITY checkOnStartup.label "Заўсёды рабіць гэтую праверку падчас запуску &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "З">

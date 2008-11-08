@@ -1,6 +1,7 @@
 <!ENTITY mainWindow.title "&brandShortName;">
 <!ENTITY mainWindow.titlemodifier "&brandShortName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Адасобленае азіранне)">
 <!ENTITY tabCmd.label "Новая ўстаўка">
 <!ENTITY tabCmd.accesskey "т">
 <!ENTITY tabCmd.commandkey "t">
@@ -133,8 +134,10 @@
 <!ENTITY preferencesCmd.accesskey "Н">
 <!ENTITY preferencesCmdUnix.label "Перавагі">
 <!ENTITY preferencesCmdUnix.accesskey "П">
-<!ENTITY clearPrivateDataCmd.label "Ачысціць прыватныя даныя">
-<!ENTITY clearPrivateDataCmd.accesskey "п">
+<!ENTITY clearRecentHistoryCmd.label "Ачысціць нядаўнюю гісторыю">
+<!ENTITY clearRecentHistoryCmd.accesskey "г">
+<!ENTITY privateBrowsingCmd.label "Адасобленае азіранне">
+<!ENTITY privateBrowsingCmd.accesskey "а">
 <!ENTITY viewMenu.label "Прагляд">
 <!ENTITY viewMenu.accesskey "П">
 <!ENTITY viewToolbarsMenu.label "Паліцы прыладаў">
@@ -324,3 +327,4 @@
 <!ENTITY identity.runBy "які падтрымліваецца">
 <!ENTITY identity.moreInfoLinkText "Падрабязнасці…">
 <!ENTITY downloadMonitor2.tooltip "Пстрыкніце, каб адкрыць акно загрузак">
+<!ENTITY ctrlTab.search.emptyText "Устаўкі пошуку">

@@ -1,0 +1,15 @@
+<!ENTITY newsBlogSubscriptions.label "Падпіскі RSS">
+<!ENTITY subscriptionDesc.label "Заўвага: выдаленне або змяненне папкі для жывільніка не закране папярэдне загружаныя артыкулы.">
+<!ENTITY feedTitle.label "Загаловак:">
+<!ENTITY location.label "Месцазнаходжанне:">
+<!ENTITY button.addFeed.label "Дадаць">
+<!ENTITY button.addFeed.accesskey "Д">
+<!ENTITY button.editFeed.label "Правіць">
+<!ENTITY button.editFeed.accesskey "П">
+<!ENTITY button.removeFeed.label "Выдаліць">
+<!ENTITY button.removeFeed.accesskey "В">
+<!ENTITY button.importOPML.label "Імпартаваць">
+<!ENTITY button.importOPML.accesskey "І">
+<!ENTITY button.exportOPML.label "Экспартаваць">
+<!ENTITY button.exportOPML.accesskey "Э">
+<!ENTITY cmd.close.commandKey "w">
