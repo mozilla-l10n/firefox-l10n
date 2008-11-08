@@ -44,19 +44,12 @@
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
-<!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; संकेत स्थल माहिती सेवा (&quot;Services&quot;) चा वापर करतो, जसे की सुरक्षीत संचारन सेवा, जे तुम्हाला खालिलरित्या, &brandShortName; च्या बायनरी आवृत्तीसह वापरणीस उपलब्ध आहे. तुम्हाला सेवाचा वापर करायचा नसल्यास किंवा अटी अस्वीकराण्याजोगी असल्यास, तुम्ही अनुप्रयोगाचे प्राधान्यक्रम उघडून, व खालिल विभाग निवडून सुरक्षीत संचारन सेवा अकार्यान्वीत करू शकता ">
-<!ENTITY rights.webservices-b "सुरक्षा">
-<!ENTITY rights.webservices-c " विभाग, आणि &quot;&blockAttackSites.label;&quot; व &quot;&blockWebForgeries.label;&quot; करीता पर्याय निवडू नका ">
-
-<!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "उत्पादनसह समाविष्टीत संकेत स्थळ सेवाचे पुनरावलोकन, त्याचबरोबर त्यास अकार्यान्वीत करण्याकरीता सूचनाचे समावेषन, लागू होत असल्यास, येथे समाविष्ट केले गेले पाहिजे.">
-
-<!-- point 1 text for unbranded builds -->
-<!ENTITY rights.webservices-term1-unbranded "या उत्पादन करीता लागूहोण्याजोगी सेवा अटी येथे दर्शविले गेले पाहिजे.">
 
 <!-- points 1-7 text for branded builds -->
-<!ENTITY rights.webservices-term1 "&vendorShortName; व त्याचे सहभागी, करारकर्ता व सहपाठी सर्वात उत्तम व परियुक्त फिशींग व मालवेर विषयी माहिती पुरविते.  तरी, माहिती पूर्ण व त्रुटी-हीन याची खात्री पुरविली जाऊ शकत नाही: काहिक धोकादायी स्थळ ओळखले जाऊ शकत नाही व काहिक सुरक्षीत स्थळ त्रुटी अंतर्गत आढळले जातिल.">
-<!ENTITY rights.webservices-term2 "&vendorShortName; पुढे जाण्यास नकार देऊ शकतो किंवा इच्छा नुरूप सेवा बदलवू शकतो.">
-<!ENTITY rights.webservices-term3 "तुम्ही ही सेवा &brandShortName; च्या आवृत्तीसह वापरण्यास स्वागत केले जाते, व असे करण्याकरीता तुमच्याकडे आवश्यक हक्क आहे.  &vendorShortName; व त्याचे करारकर्ता सेवा अंतर्गत सर्व हक्क सुरक्षीत केले जाते.  या अटींचा उद्देश ओपन सोअर्स परवाना अंर्गत &brandShortName; करीता व &brandShortName; च्या परस्पर स्त्रोत कोड आवृत्ती लागू होण्याजोगी हक्क मर्यादीत करण्याकरीता नाही.">
-<!ENTITY rights.webservices-term6 "&vendorShortName; या अटी वेळो वेळी अद्ययावतीत केले जाऊ शकते. या अटी &vendorShortName; चे लिखीत करार नुरूप विना संपादन किंवा रद्द केले जाऊ शकते.">
+<!ENTITY rights.webservices-term1 "&vendorShortName; and its contributors, licensors and partners work to provide the most accurate and up-to-date phishing and malware information. However, they cannot guarantee that this information is comprehensive and error-free: some risky sites may not be identified and some safe sites may be identified in error.">
+<!ENTITY rights.webservices-term2 "&vendorShortName; may discontinue or change the Services at its discretion.">
+<!ENTITY rights.webservices-term3 "You are welcome to use these Services with the accompanying version of &brandShortName;, and you have all the rights necessary to do so.  &vendorShortName; and its licensors reserve all other rights in the Services.  These terms are not intended to limit any rights granted under open source licenses applicable to &brandShortName; and to corresponding source code versions of &brandShortName;.">
+<!ENTITY rights.webservices-term4 "The Services are provided &quot;as-is.&quot;  &vendorShortName;, its contributors, licensors, and distributors, disclaim all warranties, whether express or implied, including without limitation, warranties that the Services are merchantable and fit for your particular purposes.  You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.">
+<!ENTITY rights.webservices-term5 "Except as required by law, &vendorShortName;, its contributors, licensors, and distributors will not be liable for any indirect, special, incidental, consequential, punitive, or exemplary damages arising out of or in any way relating to the use of &brandShortName; and the Services.  The collective liability under these terms will not exceed $500 (five hundred dollars). Some jurisdictions do not allow the exclusion or limitation of certain damages, so this exclusion and limitation may not apply to you.">
+<!ENTITY rights.webservices-term6 "&vendorShortName; may update these terms as necessary from time to time. These terms may not be modified or cancelled without &vendorShortName;'s written agreement.">
+<!ENTITY rights.webservices-term7 "These terms are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.">
