@@ -37,3 +37,6 @@
 
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY search.emptytext               "शोध">
+<!ENTITY searchHeader.label             "शोध परिणाम">

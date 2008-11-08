@@ -37,3 +37,4 @@
 <!ENTITY cmd.clearList.accesskey          "C">
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY searchBox.label                  "शोधा…">
+<!ENTITY cmd.search.commandKey            "k">
