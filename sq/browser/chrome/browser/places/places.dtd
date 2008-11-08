@@ -210,3 +210,8 @@
 <!ENTITY views.accesskey                "P">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
+
+<!ENTITY cmd.delete.label               "Fshije Këtë Faqe">
+<!ENTITY cmd.delete.accesskey           "F">
+<!ENTITY cmd.deleteDomainData.label     "Harroje Këtë &quot;Site&quot;">
+<!ENTITY cmd.deleteDomainData.accesskey "H">

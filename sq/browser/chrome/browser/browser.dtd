@@ -147,9 +147,6 @@
 <!ENTITY preferencesCmdUnix.label       "Parapëlqime">
 <!ENTITY preferencesCmdUnix.accesskey     "l"> 
 
-<!ENTITY clearPrivateDataCmd.label            "Pastro Të dhëna Vetjake">
-<!ENTITY clearPrivateDataCmd.accesskey        "P">
-
 <!ENTITY viewMenu.label         "Shihni"> 
 <!ENTITY viewMenu.accesskey       "S"> 
 <!ENTITY viewToolbarsMenu.label       "Panele"> 
@@ -392,3 +389,6 @@
 <!ENTITY privateBrowsingCmd.label            "Shfletim Vetjak">
 <!ENTITY privateBrowsingCmd.accesskey        "S">
 
+<!ENTITY clearRecentHistoryCmd.label            "Pastro Historikun Së fundmi">
+<!ENTITY clearRecentHistoryCmd.accesskey        "H">
+<!ENTITY ctrlTab.search.emptyText "Kërko në Skeda">
