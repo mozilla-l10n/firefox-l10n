@@ -83,10 +83,14 @@
 <!ENTITY ScreenName.label               "Skärmnamn:">
 <!ENTITY ScreenName.accesskey           "n">
 
-<!ENTITY allowRemoteContent.label       "Tillåt fjärrbilder i HTML-meddelanden.">
+<!ENTITY allowRemoteContent.label       "Tillåt fjärrbilder.">
 <!ENTITY allowRemoteContent.accesskey   "å">
+<!ENTITY allowRemoteContent.tooltip     "I HTML-meddelanden är det möjligt att
+lägga in bilder från andra källor. Om du öppnar ett sådant meddelande kommer
+en anslutning till den externa källan att öppnas. Det gör det möjligt för andra
+att spåra meddelandet du läser. Kryssar du i den här rutan tillåter du
+sådana externa inbäddade bilder i HTML-meddelanden från den här kontakten.">
 
-<!ENTITY Phones.box                     "Telefonnummer">
 <!ENTITY WorkPhone.label                "Arbete:">
 <!ENTITY WorkPhone.accesskey            "b">
 <!ENTITY HomePhone.label                "Hem:">
@@ -94,56 +98,57 @@
 <!ENTITY FaxNumber.label                "Fax:">
 <!ENTITY FaxNumber.accesskey            "x">
 <!ENTITY PagerNumber.label              "Personsökare:">
-<!ENTITY PagerNumber.accesskey          "P">
+<!ENTITY PagerNumber.accesskey          "r">
 <!ENTITY CellularNumber.label           "Mobil:">
 <!ENTITY CellularNumber.accesskey       "M">
 
-<!ENTITY Address.tab			"Adress">
-<!ENTITY Address.accesskey              "A">
-<!ENTITY Home.box                       "Hem">
-<!ENTITY HomeAddress.label		"Adress:">
+<!ENTITY Home.tab                       "Privat">
+<!ENTITY Home.accesskey                 "P">
+<!ENTITY HomeAddress.label              "Adress:">
 <!ENTITY HomeAddress.accesskey          "d">
-<!ENTITY HomeAddress2.label		"">
+<!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
-<!ENTITY HomeCity.label			"Ort:">
+<!ENTITY HomeCity.label                 "Ort:">
 <!ENTITY HomeCity.accesskey             "O">
-<!ENTITY HomeState.label		"Delstat/Region:">
+<!ENTITY HomeState.label                "Delstat/Region:">
 <!ENTITY HomeState.accesskey            "s">
-<!ENTITY HomeZipCode.label		"Postnummer:">
-<!ENTITY HomeZipCode.accesskey          "P">
-<!ENTITY HomeCountry.label		"Land:">
+<!ENTITY HomeZipCode.label              "Postnummer:">
+<!ENTITY HomeZipCode.accesskey          "u">
+<!ENTITY HomeCountry.label              "Land:">
 <!ENTITY HomeCountry.accesskey          "L">
-<!ENTITY HomeWebPage.label		"Webbplats:">
+<!ENTITY HomeWebPage.label              "Webbplats:">
 <!ENTITY HomeWebPage.accesskey          "W">
-<!ENTITY Work.box                       "Arbete">
-<!ENTITY JobTitle.label			"Titel:">
-<!ENTITY JobTitle.accesskey             "i">
-<!ENTITY Department.label		"Avdelning:">
-<!ENTITY Department.accesskey           "v">
-<!ENTITY Company.label			"Organisation:">
-<!ENTITY Company.accesskey              "r">
-<!ENTITY WorkAddress.label		"Adress:">
-<!ENTITY WorkAddress.accesskey          "e">
-<!ENTITY WorkAddress2.label		"">
-<!ENTITY WorkAddress2.accesskey         "">
-<!ENTITY WorkCity.label			"Ort:">
-<!ENTITY WorkCity.accesskey             "t">
-<!ENTITY WorkState.label		"Delstat/Region:">
-<!ENTITY WorkState.accesskey            "g">
-<!ENTITY WorkZipCode.label		"Postnummer:">
-<!ENTITY WorkZipCode.accesskey          "u">
-<!ENTITY WorkCountry.label		"Land:">
-<!ENTITY WorkCountry.accesskey          "n">
-<!ENTITY WorkWebPage.label		"Webbplats:">
-<!ENTITY WorkWebPage.accesskey          "b">
-
-<!ENTITY Other.tab                      "Övrigt">
-<!ENTITY Other.accesskey                "Ö">
 <!ENTITY Birthday.label                 "Födelsedag:">
 <!ENTITY Birthday.accesskey             "F">
 <!ENTITY Year.emptytext                 "År">
 <!ENTITY Or.value                       "eller">
 <!ENTITY Age.emptytext                  "Ålder">
+
+<!ENTITY Work.tab                       "Arbete">
+<!ENTITY Work.accesskey                 "A">
+<!ENTITY JobTitle.label                 "Titel:">
+<!ENTITY JobTitle.accesskey             "T">
+<!ENTITY Department.label               "Avdelning:">
+<!ENTITY Department.accesskey           "v">
+<!ENTITY Company.label                  "Organisation:">
+<!ENTITY Company.accesskey              "r">
+<!ENTITY WorkAddress.label              "Adress:">
+<!ENTITY WorkAddress.accesskey          "d">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.label                 "Ort:">
+<!ENTITY WorkCity.accesskey             "O">
+<!ENTITY WorkState.label                "Delstat/Region:">
+<!ENTITY WorkState.accesskey            "s">
+<!ENTITY WorkZipCode.label              "Postnummer:">
+<!ENTITY WorkZipCode.accesskey          "u">
+<!ENTITY WorkCountry.label              "Land:">
+<!ENTITY WorkCountry.accesskey          "L">
+<!ENTITY WorkWebPage.label              "Webbplats:">
+<!ENTITY WorkWebPage.accesskey          "W">
+
+<!ENTITY Other.tab                      "Övrigt">
+<!ENTITY Other.accesskey                "Ö">
 <!ENTITY Custom1.label                  "Övrigt 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Övrigt 2:">
@@ -152,5 +157,5 @@
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Övrigt 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.box                      "Anteckningar">
+<!ENTITY Notes.label                    "Anteckningar:">
 <!ENTITY Notes.accesskey                "n">
