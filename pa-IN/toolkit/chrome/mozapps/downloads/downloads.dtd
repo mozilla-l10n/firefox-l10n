@@ -25,7 +25,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.open.accesskey               "O">
 <!ENTITY cmd.openWith.label               "...ਨਾਲ ਖੋਲ੍ਹੋ">
 <!ENTITY cmd.openWith.accesskey           "h">
-<!ENTITY cmd.retry.label                  "ਰੀ-ਟਰਾਈ">
+<!ENTITY cmd.retry.label                  "ਮੁੜ-ਟਰਾਈ">
 <!ENTITY cmd.retry.accesskey              "R">
 <!ENTITY cmd.goToDownloadPage.label       "ਡਾਊਨਲੋਡ ਪੇਜ਼ ਉੱਤੇ ਜਾਓ">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">

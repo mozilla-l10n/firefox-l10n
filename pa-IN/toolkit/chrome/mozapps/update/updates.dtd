@@ -59,9 +59,10 @@
                                            downloaded and is ready to be installed.">
 <!ENTITY  finishedBackground.name         "Update:">
 
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more         "The update will be installed the next time &brandShortName; starts. You
+                                           can restart &brandShortName; now, or continue working and restart later.">
 
-
-<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
 
 <!ENTITY  installed.title                 "ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਹੋਇਆ">
 <!ENTITY  installed.intro                 "ਅੱਪਡੇਟ ਸਫ਼ਲਤਾਪੂਰਕ ਇੰਸਟਾਲ ਹੋਇਆ।">

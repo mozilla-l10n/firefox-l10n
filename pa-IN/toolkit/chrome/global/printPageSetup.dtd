@@ -50,7 +50,7 @@
 
 <!ENTITY hfPage              "ਪੇਜ਼ #">
 
-<!ENTITY hfPageAndTotal      "ਪੇਜ਼ #, # ਵਿਚੋਂ">
+<!ENTITY hfPageAndTotal      "ਪੇਜ਼ #, # ਵਿੱਚੋਂ">
 
 <!ENTITY hfBlank             "--ਖਾਲੀ--">
 <!ENTITY hfCustom            "ਕਸਟਮ...">

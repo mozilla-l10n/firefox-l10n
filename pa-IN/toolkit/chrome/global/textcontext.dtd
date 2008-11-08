@@ -10,10 +10,10 @@
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY deleteCmd.label "ਹਟਾਓ">
 <!ENTITY deleteCmd.accesskey "d">
-<!ENTITY spellAddToDictionary.label "ਡਿਕਸ਼ਨਰੀ ਵਿੱਚ ਸ਼ਾਮਿਲ">
+<!ENTITY spellAddToDictionary.label "ਡਿਕਸ਼ਨਰੀ ਵਿੱਚ ਸ਼ਾਮਲ">
 <!ENTITY spellAddToDictionary.accesskey "t">
-<!ENTITY spellCheckEnable.label "Check Spelling">
+<!ENTITY spellCheckEnable.label "ਸਪੈਲਿੰਗ਼ ਚੈੱਕ ਕਰੋ">
 <!ENTITY spellCheckEnable.accesskey "S">
-<!ENTITY spellNoSuggestions.label "(ਕੋਈ ਸ਼ਬਦ-ਜੋੜ ਸੁਝਾਅ ਨਹੀਂ ਹੈ)">
+<!ENTITY spellNoSuggestions.label "(ਕੋਈ ਸਪੈਲਿੰਗ ਸੁਝਾਅ ਨਹੀਂ ਹੈ)">
 <!ENTITY spellDictionaries.label "ਭਾਸ਼ਾਵਾਂ">
 <!ENTITY spellDictionaries.accesskey "l">

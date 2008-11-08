@@ -4,7 +4,7 @@
 <!ENTITY editfield1.label "ਪਾਸਵਰਡ:"> 
 <!ENTITY editfield2.label "ਪਾਸਵਰਡ ਪੁਸ਼ਟੀ:"> 
 <!ENTITY checkbox.label   "ਚੈੱਕ">
-<!ENTITY copyCmd.label    "ਕਾਪੀ">
+<!ENTITY copyCmd.label    "ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "ਸਭ ਚੁਣੋ">
 <!ENTITY selectAllCmd.accesskey "A">

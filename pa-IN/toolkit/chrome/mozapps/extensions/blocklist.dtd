@@ -1,10 +1,10 @@
-<!ENTITY blocklist.title             "Add-ons may be causing problems">
+<!ENTITY blocklist.title             "ਸ਼ਾਇਦ ਐਡ-ਆਨ ਸਮੱਸਿਆ ਪੈਦਾ ਕਰ ਰਹੀ ਹੈ">
 <!ENTITY blocklist.style             "width: 45em; height: 30em">
-<!ENTITY blocklist.summary           "&brandShortName; has determined that the following add-ons are known to cause stability or security problems:">
-<!ENTITY blocklist.softblocked       "For your protection, it is highly recommended that you restart with these add-ons disabled.">
+<!ENTITY blocklist.summary           "&brandShortName; ਨੂੰ ਲੱਗਦਾ ਹੈ ਕਿ ਹੇਠ ਦਿੱਤੀਆਂ ਐਡ-ਆਨ ਸਥਿਰਤਾ ਜਾਂ ਸੁਰੱਖਿਆ ਸਮੱਸਿਆਵਾਂ ਪੈਦਾ ਕਰ ਰਹੀਆਂ ਹਨ:">
+<!ENTITY blocklist.softblocked       "ਤੁਹਾਡੀ ਸੁਰੱਖਿਆ ਲਈ, ਤੁਹਾਨੂੰ ਇਹ ਪਲੱਗਇਨ ਆਯੋਗ ਕਰਕੇ ਮੁੜ-ਚਾਲੂ ਕਰਨ ਦੀ ਸਿਫਾਰਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ।">
 <!ENTITY blocklist.hardblocked       "These add-ons have a high risk of causing stability or security problems and have been blocked, but a restart is required to disable them completely.">
 <!ENTITY blocklist.softandhard       "The add-ons that have a high risk of causing stability or security problems have been blocked. The others are lower risk, but it is highly recommended that you restart with them disabled.">
-<!ENTITY blocklist.moreinfo          "More information">
+<!ENTITY blocklist.moreinfo          "ਹੋਰ ਜਾਣਕਾਰੀ">
 
-<!ENTITY blocklist.accept.label      "Restart &brandShortName;">
+<!ENTITY blocklist.accept.label      "&brandShortName; ਮੁੜ-ਚਾਲੂ ਕਰੋ">
 <!ENTITY blocklist.accept.accesskey  "R">

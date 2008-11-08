@@ -1,4 +1,4 @@
-<!ENTITY caption.label         "#1 ਨੂੰ ਖੋਲਿਆ ਜਾਂਦਾ ਹੈ">
+<!ENTITY caption.label         "#1 ਨੂੰ ਖੋਲ੍ਹਿਆ ਜਾਂਦਾ ਹੈ">
 
 <!-- Localization note: The default intro text has 3 "inserts":
         #1 - replaced with the descriptive text that describes the mime type
@@ -15,8 +15,8 @@
 <!ENTITY intro.attachment.label "ਸਾਇਟ ਸਿਫਾਰਸ਼ ਕਰਦੀ ਹੈ ਕਿ &quot;#3&quot; ਨੂੰ ਇੱਕ ਅਟੈਂਚਮੈਂਟ ਵਾਂਗ ਵੇਖੋ। ਇਸ ਦੀ ਕਿਸਮ #2 (#1) ਹੈ ਅਤੇ ਇਹ ਇੱਥੇ ਸਥਿਤ ਹੈ:">
 <!ENTITY intro.attachment.noDesc.label "ਸਾਇਟ ਸਿਫਾਰਸ਼ ਕਰਦੀ ਹੈ ਕਿ &quot;#3&quot; ਨੂੰ ਇੱਕ ਅਟੈਂਚਮੈਂਟ ਵਾਂਗ ਵੇਖੋ। ਇਸ ਦੀ ਕਿਸਮ  #2 ਹੈ ਅਤੇ ਇਹ ਇੱਥੇ ਸਥਿਤ ਹੈ:">
 
-<!ENTITY intro.sniffed.label "ਪ੍ਰੋਗਰਾਮ #4 ਨੇ ਖੋਜਿਆ ਹੈ ਕਿ ਫਾਇਲ &quot;#3&quot;   ਦੀ ਕਿਸਮ #2 (#1) ਜਾਪਦੀ ਹੈ। ਇਹ ਮੌਜੂਦ ਹੈ:">
-<!ENTITY intro.sniffed.noDesc.label "ਪ੍ਰੋਗਰਾਮ #4 ਨੇ ਖੋਜਿਆ ਹੈ ਕਿ ਫਾਇਲ &quot;#3&quot;   ਦੀ ਕਿਸਮ #2 ਜਾਪਦੀ ਹੈ। ਇਹ ਮੌਜੂਦ ਹੈ:">
+<!ENTITY intro.sniffed.label "ਪਰੋਗਰਾਮ #4 ਨੇ ਖੋਜਿਆ ਹੈ ਕਿ ਫਾਇਲ &quot;#3&quot;   ਦੀ ਕਿਸਮ #2 (#1) ਜਾਪਦੀ ਹੈ। ਇਹ ਮੌਜੂਦ ਹੈ:">
+<!ENTITY intro.sniffed.noDesc.label "ਪਰੋਗਰਾਮ #4 ਨੇ ਖੋਜਿਆ ਹੈ ਕਿ ਫਾਇਲ &quot;#3&quot;   ਦੀ ਕਿਸਮ #2 ਜਾਪਦੀ ਹੈ। ਇਹ ਮੌਜੂਦ ਹੈ:">
 
 <!ENTITY prompt.label          "ਇਸ ਫਾਇਲ ਨਾਲ  #1 ਨੇ ਕੀ ਕਰਨਾ ਹੈ?">
 
