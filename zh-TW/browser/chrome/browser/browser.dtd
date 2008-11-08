@@ -161,7 +161,7 @@
 <!ENTITY preferencesCmdUnix.label       "偏好設定">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearRecentHistoryCmd.label            "刪除最近的瀏覽記錄">
+<!ENTITY clearRecentHistoryCmd.label            "刪除最近的歷史記錄">
 <!ENTITY clearRecentHistoryCmd.accesskey        "H">
 
 <!ENTITY privateBrowsingCmd.label            "隱私瀏覽">
