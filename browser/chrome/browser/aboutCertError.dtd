@@ -10,6 +10,6 @@
 <!ENTITY certerror.expert.heading "Sono consapevole dei rischi">
 <!ENTITY certerror.expert.content "Se si comprende il motivo per cui viene mostrata questa segnalazione, è possibile fare in modo che, a partire da questo momento, l'identificazione di questo sito venga ritenuta affidabile da &brandShortName;.
 <b>Anche se si ha fiducia nel sito, questo errore potrebbe comunque significare che qualcuno sta cercando di interferire con la connessione.</b>">
-<!ENTITY certerror.expert.contentPara2 "Non aggiungere un'eccezione se non si conosce un buon motivo per cui questo sito non stia utilizzando una modalità di identificazione affidabile.">
+<!ENTITY certerror.expert.contentPara2 "Aggiungere un'eccezione solo nel caso in cui si conosca un motivo valido per cui questo sito non sta utilizzando una modalità di identificazione affidabile.">
 <!ENTITY certerror.addException.label "Aggiungi eccezione…">
 <!ENTITY certerror.technical.heading "Dettagli tecnici">
