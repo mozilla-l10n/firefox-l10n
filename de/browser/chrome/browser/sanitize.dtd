@@ -1,24 +1,40 @@
-<!ENTITY sanitizeDialog.title         "Private Daten löschen">
+<!ENTITY sanitizePrefs.title           "Private Daten löschen">
+<!ENTITY sanitizeDialog2.title         "Neuste Chronik löschen">
+
 
 <!ENTITY sanitizeItems.label          "Folgende Daten jetzt löschen:">
-<!ENTITY clearDataSettings.label      "Wenn &brandShortName; angewiesen wird, private Daten zu löschen, folgende Daten entfernen:">
+<!ENTITY clearDataSettings2.label     "Wenn &brandShortName; beendet wird, folgende Daten automatisch löschen:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY itemHistory.label            "Chronik">
-<!ENTITY itemHistory.accesskey        "n">
-<!ENTITY itemFormSearchHistory.label  "Gespeicherte Such- und Formulardaten">
-<!ENTITY itemFormSearchHistory.accesskey "G">
+<!ENTITY clearDuration.label          "">
+<!ENTITY clearDuration.lastHour       "Die letzte Stunde">
+<!ENTITY clearDuration.last2Hours     "Die letzten zwei Stunden">
+<!ENTITY clearDuration.last4Hours     "Die letzten vier Stunden">
+<!ENTITY clearDuration.today          "Die Chronik für heute">
+<!ENTITY clearDuration.everything     "Die gesamte Chronik">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix         "löschen">
+
+<!ENTITY historySection.label         "Chronik">
+<!ENTITY dataSection.label            "Daten">
+
+<!ENTITY itemVisitedPages.label       "Besuchte Seiten">
+<!ENTITY itemVisitedPages.accesskey   "B">
+<!ENTITY itemFormSearchEntries.label  "Formular- &amp; Sucheinträge">
+<!ENTITY itemFormSearchEntries.accesskey "F">
 <!ENTITY itemPasswords.label          "Gespeicherte Passwörter">
 <!ENTITY itemPasswords.accesskey      "P">
 <!ENTITY itemCookies.label            "Cookies">
 <!ENTITY itemCookies.accesskey        "C">
-<!ENTITY itemCache.label              "Cache">
-<!ENTITY itemCache.accesskey          "a">
+<!ENTITY itemWebCache.label           "Web-Cache">
+<!ENTITY itemWebCache.accesskey       "W">
 <!ENTITY itemOfflineApps.label        "Offline-Website-Daten">
 <!ENTITY itemOfflineApps.accesskey    "O">
-<!ENTITY itemDownloads.label          "Download-Chronik">
-<!ENTITY itemDownloads.accesskey      "D">
+<!ENTITY itemDownloadList.label       "Download-Liste">
+<!ENTITY itemDownloadList.accesskey   "D">
 <!ENTITY itemActiveLogins.label       "Aktive Logins">
 <!ENTITY itemActiveLogins.accesskey   "L">
 <!ENTITY window.width                 "30em">
+<!ENTITY column.width                 "14em">

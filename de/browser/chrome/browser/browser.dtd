@@ -158,8 +158,8 @@
 <!ENTITY preferencesCmdUnix.label       "Einstellungen">
 <!ENTITY preferencesCmdUnix.accesskey     "E"> 
 
-<!ENTITY clearPrivateDataCmd.label            "Private Daten löschen">
-<!ENTITY clearPrivateDataCmd.accesskey        "P">
+<!ENTITY clearRecentHistoryCmd.label            "Neuste Chronik löschen">
+<!ENTITY clearRecentHistoryCmd.accesskey        "N">
 
 <!ENTITY viewMenu.label         "Ansicht"> 
 <!ENTITY viewMenu.accesskey       "A"> 
