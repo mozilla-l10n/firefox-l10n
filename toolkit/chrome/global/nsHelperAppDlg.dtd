@@ -9,12 +9,12 @@
 <!ENTITY alwaysHandle.label "Выполнять для всех таких файлов автоматически">
 <!ENTITY alwaysHandle.accesskey "ы">
 <!ENTITY saveToDisk.label "Сохранить файл на диск">
-<!ENTITY saveToDisk.accesskey "С">
-<!ENTITY useSystemDefault.label "Открыть с помощью приложения по умолчанию (#1)">
-<!ENTITY useSystemDefault.noDesc.label "Открыть с помощью приложения по умолчанию">
-<!ENTITY useSystemDefault.accesskey "О">
-<!ENTITY openUsing.label "Открыть с помощью">
-<!ENTITY openUsing.accesskey "О">
+<!ENTITY saveToDisk.accesskey "х">
+<!ENTITY useSystemDefault.label "Открыть его в приложении по умолчанию (#1)">
+<!ENTITY useSystemDefault.noDesc.label "Открыть его в приложении по умолчанию">
+<!ENTITY useSystemDefault.accesskey "т">
+<!ENTITY openUsing.label "Открыть его в">
+<!ENTITY openUsing.accesskey "к">
 <!ENTITY chooseApp.label "Выбрать…">
 <!ENTITY chooseApp.accesskey "б">
 <!ENTITY chooseAppFilePickerTitle "Выбор приложения">

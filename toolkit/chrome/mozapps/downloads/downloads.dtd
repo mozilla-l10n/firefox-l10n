@@ -15,8 +15,8 @@
 <!ENTITY cmd.showMac.accesskey "к">
 <!ENTITY cmd.open.label "Открыть">
 <!ENTITY cmd.open.accesskey "О">
-<!ENTITY cmd.openWith.label "Открыть с помощью…">
-<!ENTITY cmd.openWith.accesskey "п">
+<!ENTITY cmd.openWith.label "Открыть в…">
+<!ENTITY cmd.openWith.accesskey "т">
 <!ENTITY cmd.retry.label "Повторить попытку">
 <!ENTITY cmd.retry.accesskey "в">
 <!ENTITY cmd.goToDownloadPage.label "Перейти к странице загрузки">
