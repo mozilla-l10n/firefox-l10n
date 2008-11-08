@@ -1,5 +1,5 @@
-<!ENTITY newWindowsAsTabs.label "Open new windows in a new tab instead">
-<!ENTITY newWindowsAsTabs.accesskey "t">
+<!ENTITY newWindowsAsTabs.label "Open nuwe vensters eerder in 'n nuwe oortjie">
+<!ENTITY newWindowsAsTabs.accesskey "o">
 
 <!ENTITY warnCloseMultipleTabs.label "Waarsku my wanneer ek meer as een oortjie sluit">
 <!ENTITY warnCloseMultipleTabs.accesskey "m">

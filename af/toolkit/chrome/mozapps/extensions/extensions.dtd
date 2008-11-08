@@ -112,7 +112,7 @@
 <!ENTITY insecureUpdate.label "Bied nie beveiligde bywerkings nie.">
 <!ENTITY needsDependencies.label "Vereis bykomende items.">
 <!ENTITY blocklisted.label "Gedeaktiveer vir u beskerming.">
-<!ENTITY softBlocklisted.label "Known to cause security or stability issues.">
+<!ENTITY softBlocklisted.label "Het vantevore sekuriteit- of stabiliteitprobleme opgelewer.">
 <!ENTITY toBeDisabled.label "Hierdie byvoeging sal gedeaktiveer word wanneer &brandShortName; herbegin word.">
 <!ENTITY toBeEnabled.label "Hierdie byvoeging sal geaktiveer word wanneer &brandShortName; herbegin word.">
 <!ENTITY toBeInstalled.label "Hierdie byvoeging sal geïnstalleer word wanneer &brandShortName; herbegin word.">
@@ -170,5 +170,5 @@
 <!ENTITY eula.height "400px">
 <!ENTITY eula.accept "Aanvaar en installeer…">
 
-<!ENTITY blocklist.blocked.label "Blocked">
-<!ENTITY blocklist.checkbox.label "Disable">
+<!ENTITY blocklist.blocked.label "Geblokkeer">
+<!ENTITY blocklist.checkbox.label "Deaktiveer">

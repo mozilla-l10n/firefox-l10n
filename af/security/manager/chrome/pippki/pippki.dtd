@@ -51,7 +51,7 @@
 <!-- Values for getpassword.xul -->
 
 <!ENTITY getPassword.title "Tik meesterwagwoord in">
-<!ENTITY getPassword.tokenName2.label "Security Device:">
+<!ENTITY getPassword.tokenName2.label "Sekuriteitstoestel:">
 <!ENTITY getPassword.password.label "Wagwoord:">
 <!-- These should be common -->
 
@@ -131,5 +131,5 @@
 <!ENTITY protectedAuth.tokenName.label "Teken:">
 
 <!ENTITY certErrorDlg.title "Kon nie beveilig koppel nie">
-<!ENTITY certErrorDlg.info1 "This could be a problem with the server's configuration or it could be someone trying to impersonate the server.">
-<!ENTITY certErrorDlg.info2 "If you have connected to this server successfully in the past the error may be temporary and you can try again later.">
+<!ENTITY certErrorDlg.info1 "Daar kan dalk fout met die bediener se opstelling wees, of dalk probeer iemand die bediener na-aap.">
+<!ENTITY certErrorDlg.info2 "As u in die verlede suksesvol aan hierdie bediener gekoppel het, kan die fout dalk tydelik wees, en dan kan u later weer probeer.">

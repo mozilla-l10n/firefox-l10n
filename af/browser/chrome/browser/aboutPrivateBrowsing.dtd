@@ -1,13 +1,13 @@
-<!ENTITY privatebrowsingpage.tabtitle "Private Browsing">
+<!ENTITY privatebrowsingpage.tabtitle "Private blaaiery">
 
-<!ENTITY privatebrowsingpage.pagetitle "Private Browsing">
+<!ENTITY privatebrowsingpage.pagetitle "Private blaaiery">
 
-<!ENTITY privatebrowsingpage.issueDesc "&brandShortName; won't remember any history for this session.">
-<!ENTITY privatebrowsingpage.longDesc "No history will be recorded by &brandShortName; during this browsing session.  This includes browser history, search history, download history, web form history, cookies, and temporary internet files.  However, any files you download or bookmarks you create will be preserved.">
+<!ENTITY privatebrowsingpage.issueDesc "&brandShortName; sal nie enige geskiedenis vir hierdie sessie onthou nie.">
+<!ENTITY privatebrowsingpage.longDesc "Geen geskiedenis sal tydens hierdie blaaisessie deur &brandShortName; onthou word nie.  Dit geld vir blaaigeskiedenis, soekgeskiedenis, aflaaigeskiedenis, webvormgeskiedenis, koekies en tydelike internetlêers.  Enige lêers wat u aflaai en boekmerke wat u skep, sal egter behoue bly.">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc "You may want to start by also clearing your recent history.">
-<!ENTITY privatebrowsingpage.recentHistory.label "Clear Recent History">
-<!ENTITY privatebrowsingpage.recentHistory.accesskey "C">
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc "Dit kan ook slim wees om u onlangse geskiedenis eers skoon te maak.">
+<!ENTITY privatebrowsingpage.recentHistory.label "Maak onlangse geskiedenis skoon">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey "M">
 
-<!ENTITY privatebrowsingpage.howToStopDesc "To stop private browsing, uncheck Tools &gt; Private Browsing.">
-<!ENTITY privatebrowsingpage.footerDesc "Enjoy!">
+<!ENTITY privatebrowsingpage.howToStopDesc "Om op te hou privaat te blaai, ontmerk Nutsgoed &gt; 'Private blaaiery'.">
+<!ENTITY privatebrowsingpage.footerDesc "Geniet dit!">

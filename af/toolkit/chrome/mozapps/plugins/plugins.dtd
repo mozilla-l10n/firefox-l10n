@@ -21,5 +21,5 @@
 <!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; moet herlaai word vir die inprop(pe) om te werk.">
   
 <!ENTITY missingPlugin.label "Kliek hier om inprop af te laai.">
-<!ENTITY disabledPlugin.label "The plugin for this content has been disabled. Click here to manage your plugins.">
-<!ENTITY blockedPlugin.label "This plugin has been blocked for your protection.">
+<!ENTITY disabledPlugin.label "Die inprop vir hierdie inhoud is gedeaktiveer.  Kliek hier om u inproppe te bestuur.">
+<!ENTITY blockedPlugin.label "Hierdie inprop is vir u beskerming geblokkeer.">

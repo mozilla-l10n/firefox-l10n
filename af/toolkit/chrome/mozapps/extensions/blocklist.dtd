@@ -1,9 +1,9 @@
 <!ENTITY blocklist.title "Byvoegings kan dalk probleme veroorsaak">
-<!ENTITY blocklist.style "width: 45em; height: 30em">
-<!ENTITY blocklist.summary "&brandShortName; has determined that the following add-ons are known to cause stability or security problems:">
-<!ENTITY blocklist.softblocked "For your protection, it is highly recommended that you restart with these add-ons disabled.">
-<!ENTITY blocklist.hardblocked "These add-ons have a high risk of causing stability or security problems and have been blocked, but a restart is required to disable them completely.">
-<!ENTITY blocklist.softandhard "The add-ons that have a high risk of causing stability or security problems have been blocked. The others are lower risk, but it is highly recommended that you restart with them disabled.">
+<!ENTITY blocklist.style "width: 45em; height: 30em;">
+<!ENTITY blocklist.summary "&brandShortName; het bepaal dat die volgende byvoegings daarvoor bekend is dat dit stabiliteit- of sekuriteitsprobleme het.">
+<!ENTITY blocklist.softblocked "Vir u beskerming word dit ernstig aanbeveel dat u weer begin, met hierdie byvoegings gedeaktiveer.">
+<!ENTITY blocklist.hardblocked "Hierdie byvoegings dra 'n hoë risiko van stabiliteit- of sekuriteitprobleme, en is geblokkeer, maar u moet nog herbegin om dit volledig te deaktiveer.">
+<!ENTITY blocklist.softandhard "Die byvoegings met 'n hoë risiko van stabiliteit- of sekuriteitprobleme is geblokkeer. Die ander het 'n laer risiko, maar daar word aanbeveel dat u hebegin, met hulle gedeaktiveer.">
 <!ENTITY blocklist.moreinfo "Meer inligting">
 
 <!ENTITY blocklist.accept.label "Herbegin &brandShortName;">

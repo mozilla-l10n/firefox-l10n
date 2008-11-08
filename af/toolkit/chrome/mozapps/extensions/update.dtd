@@ -36,7 +36,8 @@ versoenbare bywerkings vir hierdie byvoegings gevind word.">
 <!ENTITY finished.wizard.title "Versoenbare byvoegings geïnstalleer">
 <!ENTITY finished.top.label "&brandShortName; het die bywerkings vir u byvoegings geïnstalleer.">
 <!ENTITY finished.checkDisabled.desc "&brandShortName; kan nou en dan kontroleer en u verwittig wanneer bywerkings vir byvoegings gevind word.">
-<!ENTITY finished.checkEnabled.desc "&brandShortName; sal nou en dan kontroleer en u verwittig wanneer bywerkings vir byvoegings gevind word.">
+<!ENTITY finished.checkEnabled.desc "&brandShortName; sal nou en dan kontroleer en u verwittig 
+wanneer bywerkings vir byvoegings gevind word.">
 
 <!ENTITY adminDisabled.wizard.title "Kon nie vir bywerkings kontroleer nie">
 <!ENTITY adminDisabled.warning.label "Dis nie moontlik om vir bywerkings vir onversoenbare byvoegings te 

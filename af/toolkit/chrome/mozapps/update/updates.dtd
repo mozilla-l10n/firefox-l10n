@@ -4,21 +4,21 @@
 <!ENTITY window.macWidth "39em">
 
 <!ENTITY checking.title "Kontroleer vir bywerkings">
-<!ENTITY updateCheck.label "Looking for newer versions of &brandShortName;…">
+<!ENTITY updateCheck.label "Soek tans vir jonger weergawes van &brandShortName;…">
 
 <!ENTITY noupdatesfound.title "Geen bywerkings gevind nie">
-<!ENTITY noupdatesautoenabled.intro "There are no updates available. &brandShortName; will check
-                                           periodically for updates.">
-<!ENTITY noupdatesautodisabled.intro "There are no updates available. Please check again later or enable
-                                           &brandShortName;'s automatic update checking.">
+<!ENTITY noupdatesautoenabled.intro "Daar is geen bywerkings beskikbaar nie. &brandShortName; kan nou en dan 
+kontroleer vir bywerkings.">
+<!ENTITY noupdatesautodisabled.intro "Daar is geen bywerkings nie. Kontroleer later weer, of aktiveer 
+&brandShortName; se outomatiese kontrolering.">
 
-<!ENTITY incompatibleCheck.title "Checking Add-on Compatibility">
-<!ENTITY incompatibleCheck.label "Looking for newer versions of your add-ons…">
+<!ENTITY incompatibleCheck.title "Kontroleer of byvoegings versoenbaar is">
+<!ENTITY incompatibleCheck.label "Soek tans vir jonger weergawes van u byvoegings…">
 
 <!ENTITY clickHere.label "Bekyk meer inligting oor hierdie bywerking">
 
-<!ENTITY evangelism.desc "It is strongly recommended that you apply this 
-                                           update for &brandShortName; as soon as possible.">
+<!ENTITY evangelism.desc "Daar word sterk aanbeveel dat u hierdie bywerking 
+vir &brandShortName; so gou moontlik toepas.">
 
 <!ENTITY license.instructions "As u met die bepalings van hierdie ooreenkoms instem, kliek Ek stem in hier 
 onder om hierdie bywerking te installeer.">
@@ -31,7 +31,7 @@ onder om hierdie bywerking te installeer.">
 <!ENTITY license.decline "Ek aanvaar nié die bepalings van die lisensieooreenkoms nie">
 <!ENTITY license.decline.accesskey "T">
 
-<!ENTITY incompatibleList.title "Incompatible Add-ons Found">
+<!ENTITY incompatibleList.title "Onversoenbare byvoegings gevind">
 
 <!ENTITY downloading.title "Laai bywerking af">
 <!ENTITY downloading.intro "Laai tans die bywerking af…">
@@ -40,7 +40,7 @@ onder om hierdie bywerking te installeer.">
 bywerking wat afgelaai is, verifieer nie, en daarom laai dit 
 nou die volledige pakket af.">
 
-<!ENTITY viewDetails.tooltip "View details for this update">
+<!ENTITY viewDetails.tooltip "Bekyk details vir hierdie bywerking">
 
 <!ENTITY details.link "Besonderhede">
 
@@ -54,15 +54,13 @@ nou die volledige pakket af.">
 weer probeer om die volledige bywerking af te laai.">
 
 <!ENTITY finishedPage.title "Bywerking gereed om geïnstalleer te word">
-<!ENTITY finishedPage.text "The update will be installed the next time &brandShortName; starts. You 
-                                           can restart &brandShortName; now, or continue working and restart later.">
+<!ENTITY finishedPage.text "Die bywerking sal geïnstalleer word wanneer &brandShortName; weer begin. U kan &brandShortName; nou herbegin, of voortgaan om te werk, en later herbegin.">
 
-<!ENTITY finishedBackgroundPage.text "A security and stability update for &brandShortName; has been
-                                           downloaded and is ready to be installed.">
+<!ENTITY finishedBackgroundPage.text "'n Sekuriteit-en-stabiliteit-bywerking vir &brandShortName; is 
+afgelaai en is gereed om geïnstalleer te word.">
 <!ENTITY finishedBackground.name "Bywerking:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY finishedBackground.more "The update will be installed the next time &brandShortName; starts. You
-                                           can restart &brandShortName; now, or continue working and restart later.">
+<!ENTITY finishedBackground.more "Die bywerking sal geïnstalleer word wanneer &brandShortName; weer begin. U kan &brandShortName; nou herbegin, of voortgaan om te werk, en later herbegin.">
 
 <!ENTITY installed.title "Bywerking geïnstalleer">
 <!ENTITY installed.intro "Die bywerking is suksesvol geïnstalleer.">

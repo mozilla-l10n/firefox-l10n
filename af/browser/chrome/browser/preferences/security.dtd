@@ -8,10 +8,10 @@
   "known").
 -->
 
-<!ENTITY blockAttackSites.label "Block reported attack sites">
+<!ENTITY blockAttackSites.label "Blokkeer aangegewe aanvalswerwe">
 <!ENTITY blockAttackSites.accesskey "k">
 
-<!ENTITY blockWebForgeries.label "Block reported web forgeries">
+<!ENTITY blockWebForgeries.label "Blokkeer aangegewe webnamaaksels">
 <!ENTITY blockWebForgeries.accesskey "B">
 
 <!ENTITY addonExceptions.label "Uitsonderings…">

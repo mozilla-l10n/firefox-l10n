@@ -9,7 +9,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
                                                                   inside the private browsing mode -->
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Private Browsing)">
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (private blaaiery)">
 
 <!ENTITY tabCmd.label "Nuwe oortjie">
 <!ENTITY tabCmd.accesskey "O">
@@ -161,10 +161,10 @@
 <!ENTITY preferencesCmdUnix.label "Voorkeure">
 <!ENTITY preferencesCmdUnix.accesskey "k">
 
-<!ENTITY clearRecentHistoryCmd.label "Clear Recent History">
-<!ENTITY clearRecentHistoryCmd.accesskey "H">
+<!ENTITY clearRecentHistoryCmd.label "Maak onlangse geskiedenis skoon">
+<!ENTITY clearRecentHistoryCmd.accesskey "G">
 
-<!ENTITY privateBrowsingCmd.label "Private Browsing">
+<!ENTITY privateBrowsingCmd.label "Private blaaiery">
 <!ENTITY privateBrowsingCmd.accesskey "B">
 
 <!ENTITY viewMenu.label "Bekyk">
@@ -239,11 +239,11 @@
 <!ENTITY viewPageInfoCmd.accesskey "I">
 <!ENTITY viewFrameInfoCmd.label "Bekyk raaminfo">
 <!ENTITY viewFrameInfoCmd.accesskey "I">
-<!ENTITY reloadImageCmd.label "Reload Image">
-<!ENTITY reloadImageCmd.accesskey "R">
+<!ENTITY reloadImageCmd.label "Herlaai prent">
+<!ENTITY reloadImageCmd.accesskey "H">
 <!ENTITY viewImageCmd.label "Bekyk prent">
 <!ENTITY viewImageCmd.accesskey "P">
-<!ENTITY viewVideoCmd.label "View Video">
+<!ENTITY viewVideoCmd.label "Bekyk video">
 <!ENTITY viewVideoCmd.accesskey "I">
 <!ENTITY viewBGImageCmd.label "Bekyk agtergrondprent">
 <!ENTITY viewBGImageCmd.accesskey "k">
@@ -272,16 +272,16 @@
 <!ENTITY sendLinkCmd.accesskey "u">
 <!ENTITY saveImageCmd.label "Stoor prent as…">
 <!ENTITY saveImageCmd.accesskey "o">
-<!ENTITY saveVideoCmd.label "Save Video As…">
+<!ENTITY saveVideoCmd.label "Stoor video as…">
 <!ENTITY saveVideoCmd.accesskey "v">
-<!ENTITY saveAudioCmd.label "Save Audio As…">
-<!ENTITY saveAudioCmd.accesskey "v">
+<!ENTITY saveAudioCmd.label "Stoor klank as…">
+<!ENTITY saveAudioCmd.accesskey "o">
 <!ENTITY sendImageCmd.label "Gestuurde prent…">
 <!ENTITY sendImageCmd.accesskey "u">
-<!ENTITY sendVideoCmd.label "Send Video…">
-<!ENTITY sendVideoCmd.accesskey "n">
-<!ENTITY sendAudioCmd.label "Send Audio…">
-<!ENTITY sendAudioCmd.accesskey "n">
+<!ENTITY sendVideoCmd.label "Stuur video…">
+<!ENTITY sendVideoCmd.accesskey "u">
+<!ENTITY sendAudioCmd.label "Stuur klank…">
+<!ENTITY sendAudioCmd.accesskey "u">
 <!ENTITY copyLinkCmd.label "Kopieer skakelligging">
 <!ENTITY copyLinkCmd.accesskey "k">
 <!ENTITY copyLinkTextCmd.label "Kopieer skakelteks">
@@ -290,9 +290,9 @@
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyImageContentsCmd.label "Kopieer prent">
 <!ENTITY copyImageContentsCmd.accesskey "k">
-<!ENTITY copyVideoURLCmd.label "Copy Video Location">
+<!ENTITY copyVideoURLCmd.label "Kopieer videoligging">
 <!ENTITY copyVideoURLCmd.accesskey "o">
-<!ENTITY copyAudioURLCmd.label "Copy Audio Location">
+<!ENTITY copyAudioURLCmd.label "Kopieer klankligging">
 <!ENTITY copyAudioURLCmd.accesskey "o">
 <!ENTITY blockImageCmd.accesskey "B">
 <!ENTITY metadataCmd.label "Eienskappe">
@@ -307,14 +307,14 @@
 <!ENTITY mediaPlay.accesskey "S">
 <!ENTITY mediaPause.label "Laat wag">
 <!ENTITY mediaPause.accesskey "L">
-<!ENTITY mediaMute.label "Mute">
-<!ENTITY mediaMute.accesskey "M">
-<!ENTITY mediaUnmute.label "Unmute">
-<!ENTITY mediaUnmute.accesskey "m">
-<!ENTITY mediaShowControls.label "Show Controls">
-<!ENTITY mediaShowControls.accesskey "C">
-<!ENTITY mediaHideControls.label "Hide Controls">
-<!ENTITY mediaHideControls.accesskey "C">
+<!ENTITY mediaMute.label "Dower">
+<!ENTITY mediaMute.accesskey "D">
+<!ENTITY mediaUnmute.label "Ontdower">
+<!ENTITY mediaUnmute.accesskey "d">
+<!ENTITY mediaShowControls.label "Wys kontroles">
+<!ENTITY mediaShowControls.accesskey "W">
+<!ENTITY mediaHideControls.label "Versteek kontroles">
+<!ENTITY mediaHideControls.accesskey "V">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
@@ -428,4 +428,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Klik om aflaaivenster te open">
 
-<!ENTITY ctrlTab.search.emptyText "Search Tabs">
+<!ENTITY ctrlTab.search.emptyText "Deursoek oortjies">
