@@ -51,3 +51,9 @@
 <!ENTITY findAgainCmd.accesskey "ў">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY backCmd.label "Назад">
+<!ENTITY backCmd.accesskey "з">
+<!ENTITY forwardCmd.label "Наперад">
+<!ENTITY forwardCmd.accesskey "п">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">

@@ -1,20 +1,31 @@
-<!ENTITY sanitizeDialog.title "Ачысціць прыватныя даныя">
+<!ENTITY sanitizePrefs.title "Знішчэнне прыватных здаткаў">
+<!ENTITY sanitizeDialog2.title "Знішчэнне нядаўняй гісторыі">
 <!ENTITY sanitizeItems.label "Ачысціць наступныя адзінкі зараз:">
-<!ENTITY clearDataSettings.label "Калі я запытваю &brandShortName; ачысціць мае прыватныя даныя, ён мусіць вынішчыць:">
-<!ENTITY itemHistory.label "Гісторыя азірання">
-<!ENTITY itemHistory.accesskey "а">
-<!ENTITY itemFormSearchHistory.label "Захаваныя формы і гісторыя пошуку">
-<!ENTITY itemFormSearchHistory.accesskey "ф">
+<!ENTITY clearDataSettings2.label "Калі я закрываю &brandShortName;, ён павінен самастойна знішчаць усе:">
+<!ENTITY clearDuration.label "Выдаліць">
+<!ENTITY clearDuration.lastHour "апошнюю гадзіну">
+<!ENTITY clearDuration.last2Hours "апошнія 2 гадзіны">
+<!ENTITY clearDuration.last4Hours "апошнія 4 гадзіны">
+<!ENTITY clearDuration.today "маю сённяшнюю гісторыю">
+<!ENTITY clearDuration.everything "усю маю гісторыю">
+<!ENTITY clearDuration.suffix "">
+<!ENTITY historySection.label "Гісторыю">
+<!ENTITY dataSection.label "Здаткі">
+<!ENTITY itemVisitedPages.label "Наведаныя старонкі">
+<!ENTITY itemVisitedPages.accesskey "в">
+<!ENTITY itemFormSearchEntries.label "Адзінкі формаў і пошуку">
+<!ENTITY itemFormSearchEntries.accesskey "ф">
 <!ENTITY itemPasswords.label "Захаваныя паролі">
 <!ENTITY itemPasswords.accesskey "п">
 <!ENTITY itemCookies.label "Біркі">
 <!ENTITY itemCookies.accesskey "б">
-<!ENTITY itemCache.label "Запаснік">
-<!ENTITY itemCache.accesskey "З">
+<!ENTITY itemWebCache.label "Запаснік Сеціва">
+<!ENTITY itemWebCache.accesskey "З">
 <!ENTITY itemOfflineApps.label "Пазасеткавыя здаткі пляцовак сеціва">
 <!ENTITY itemOfflineApps.accesskey "д">
-<!ENTITY itemDownloads.label "Гісторыя загрузак">
-<!ENTITY itemDownloads.accesskey "г">
+<!ENTITY itemDownloadList.label "Спіс загрузак">
+<!ENTITY itemDownloadList.accesskey "г">
 <!ENTITY itemActiveLogins.label "Дзейныя ўваходы">
 <!ENTITY itemActiveLogins.accesskey "ў">
 <!ENTITY window.width "36em">
+<!ENTITY column.width "15em">

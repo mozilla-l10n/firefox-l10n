@@ -2,22 +2,17 @@
 <!ENTITY window.width "41em">
 <!ENTITY window.macWidth "44em">
 <!ENTITY checking.title "Праверка абнаўленняў">
-<!ENTITY checking.label "&brandShortName; зараз правярае, ці існуюць абнаўленні…">
-<!ENTITY cancel.label "Скасаваць">
-<!ENTITY cancel.accesskey "С">
+<!ENTITY updateCheck.label "Шукаюцца навейшыя версіі &brandShortName;…">
 <!ENTITY noupdatesfound.title "Абнаўленні не знойдзены">
 <!ENTITY noupdatesautoenabled.intro "Няма даступных абнаўленняў. &brandShortName; будзе правяраць час ад часу,
                                            ці яны з'явіліся.">
 <!ENTITY noupdatesautodisabled.intro "Няма даступных абнаўленняў. Праверце, калі ласка, пазней ці дазвольце
                                            &brandShortName; рабіць праверку самастойна.">
-<!ENTITY incompatibleChecking.label "Правяраць, ці гэтае абнаўленне выкліча праблемы з вашымі пашырэннямі і/ці тэмамі…">
+<!ENTITY incompatibleCheck.title "Праверка сумяшчальнасці дадаткаў">
+<!ENTITY incompatibleCheck.label "Шукаюцца навейшыя версіі вашых дадаткаў…">
 <!ENTITY clickHere.label "Пабачыць болей падрабязныя звесткі пра гэта абнаўленне">
-<!ENTITY incompatible.warning "Гэтае абнаўленне спыніць працу асобных вашых пашырэнняў і/або тэмаў, 
-                                           пакуль яны не абновяцца.">
-<!ENTITY listIncompatible.label "Паказаць спіс">
-<!ENTITY listIncompatible.accesskey "і">
-<!ENTITY upgrade.evangelism "Вам настойліва раіцца абнавіць &brandShortName; 
-                                           як мага хутчэй.">
+<!ENTITY evangelism.desc "Вам настойліва раіцца ўжыць гэтае 
+                                           абнаўленне &brandShortName; як мага хутчэй.">
 <!ENTITY license.instructions "Калі вы згодны з умовамі гэтага пагаднення, пстрыкніце Я Згодзен(на) 
                                            ніжэй, каб працягнуць усталяванне гэтага абнаўлення.">
 <!ENTITY license.titleText "Ліцэнзійнае пагадненне праграмнага забеспячэння">
@@ -27,17 +22,15 @@
 <!ENTITY license.accept.accesskey "з">
 <!ENTITY license.decline "Я НЕ згодны з умовамі Ліцэнзійнага Пагаднення">
 <!ENTITY license.decline.accesskey "Н">
+<!ENTITY incompatibleList.title "Знойдзены несумяшчальныя дадаткі">
 <!ENTITY downloading.title "Загрузка абнаўлення">
 <!ENTITY downloading.intro "Загрузка абнаўлення…">
 <!ENTITY connecting.label "Злучэнне з паслугачом абнаўленняў…">
 <!ENTITY verificationFailedText.label "&brandShortName; не здолеў праверыць цэласнасць загружанага
                                            ўздымнага абнаўлення, таму ён загружае
                                            поўны пакет абнаўлення.">
+<!ENTITY viewDetails.tooltip "Прагляд падрабязнасцяў гэтага абнаўлення">
 <!ENTITY details.link "Падрабязнасці">
-<!ENTITY pause.label "Прыпыніць">
-<!ENTITY pause.accesskey "п">
-<!ENTITY close.label "Зачыніць">
-<!ENTITY close.accesskey "ч">
 <!ENTITY error.label "Здарыліся праблемы ў час праверкі, загрузкі або ўсталявання гэтага 
                                            абнаўлення. &brandShortName; не можа абнавіцца з прычыны:">
 <!ENTITY errorManual.label "Вы можаце абнавіць &brandShortName; уручную. Дзеля гэтага наведайце
@@ -45,16 +38,14 @@
 <!ENTITY errorpatching.title "Няўдача абнаўлення">
 <!ENTITY errorpatching.intro "Частковае абнаўленне не выканана. 
                                            &brandShortName; паспрабуе зрабіць яго зноў, загрузіўшы абнаўленне цалкам.">
-<!ENTITY finished.title "Абнаўленне выпампавана">
-<!ENTITY finished.text "Абнаўленне паспяхова загружана і праверана, яно будзе
-                                           ўсталявана пасля перазапуску &brandShortName;.">
-<!ENTITY finishedBackground.title "Абнаўленне гатова для ўсталявання">
-<!ENTITY finishedBackground.text "&brandShortName; загрузіў і праверыў важнае абнаўленне. 
-                                           Пстрыкніце па спасылцы ўнізе, каб атрымаць падрабязнасці.">
+<!ENTITY finishedPage.title "Абнаўленне гатова для ўсталявання">
+<!ENTITY finishedPage.text "Абнаўленне будзе ўсталявана наступным разам, пры запуску &brandShortName;. Вы 
+                                           можаце перазапусціць &brandShortName; зараз ці працягнуць працаваць і перазапусціць яго пазней.">
+<!ENTITY finishedBackgroundPage.text "Абнаўленне бяспекі і ўстойлівасці &brandShortName;
+                                           загружана і гатова для ўсталявання.">
 <!ENTITY finishedBackground.name "Абнаўленне:">
-<!ENTITY finishedBackground.more1 "Пстрыкніце Перазапусціць &brandShortName; Зараз, каб усталяваць абнаўленне зараз.">
-<!ENTITY finishedBackground.textNotNow "Пстрыкніце Не Зараз, каб закрыць гэты дыялог і працягнуць працу. &brandShortName;
-                                           усталюе гэтае абнаўленне пасля перазапуску.">
+<!ENTITY finishedBackground.more "Абнаўленне будзе ўсталявана наступным разам, пры запуску &brandShortName;. Вы 
+                                           можаце перазапусціць &brandShortName; зараз ці працягнуць працаваць і перазапусціць яго пазней.">
 <!ENTITY installed.title "Абнаўленне ўсталявана">
 <!ENTITY installed.intro "Абнаўленне паспяхова ўсталявана.">
 <!ENTITY whatsnew.label "Прачытаць пра навінкі падрабязней…">

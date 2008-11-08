@@ -28,9 +28,13 @@
 <!ENTITY Unknown.label "Невядома">
 <!ENTITY ScreenName.label "Экраннае імя:">
 <!ENTITY ScreenName.accesskey "я">
-<!ENTITY allowRemoteContent.label "Дазволіць адлеглыя малюнкі ў HTML лістах.">
-<!ENTITY allowRemoteContent.accesskey "д">
-<!ENTITY Phones.box "Тэляфоны">
+<!ENTITY allowRemoteContent.label "Дазволіць адлеглыя малюнкі.">
+<!ENTITY allowRemoteContent.accesskey "г">
+<!ENTITY allowRemoteContent.tooltip "У HTML-лісты магчыма ўбудоўваць
+малюнкі з адлеглымі крыніцамі. Адкрыццё такіх малюнкаў стварае
+злучэнне з такой вонкавай крыніцай. Гэта дазваляе адсачыць,
+ці быў ліст прачытаны. Пазначэнне гэтай скрынкі дазваляе такіе
+вонкавыя малюнкі ў HTML-лістах ад гэтага кантакту.">
 <!ENTITY WorkPhone.label "Працоўны:">
 <!ENTITY WorkPhone.accesskey "ц">
 <!ENTITY HomePhone.label "Хатні:">
@@ -41,9 +45,8 @@
 <!ENTITY PagerNumber.accesskey "Г">
 <!ENTITY CellularNumber.label "Мабільнік:">
 <!ENTITY CellularNumber.accesskey "б">
-<!ENTITY Address.tab "Адрас">
-<!ENTITY Address.accesskey "А">
-<!ENTITY Home.box "Хатні">
+<!ENTITY Home.tab "Асабістыя">
+<!ENTITY Home.accesskey "А">
 <!ENTITY HomeAddress.label "Адрас:">
 <!ENTITY HomeAddress.accesskey "А">
 <!ENTITY HomeAddress2.label "">
@@ -58,7 +61,13 @@
 <!ENTITY HomeCountry.accesskey "К">
 <!ENTITY HomeWebPage.label "Старонка Сеціва:">
 <!ENTITY HomeWebPage.accesskey "С">
-<!ENTITY Work.box "Працоўны">
+<!ENTITY Birthday.label "Дзень нараджэння:">
+<!ENTITY Birthday.accesskey "р">
+<!ENTITY Year.emptytext "Год">
+<!ENTITY Or.value "ці">
+<!ENTITY Age.emptytext "Узрост">
+<!ENTITY Work.tab "Працоўныя">
+<!ENTITY Work.accesskey "П">
 <!ENTITY JobTitle.label "Пасада:">
 <!ENTITY JobTitle.accesskey "П">
 <!ENTITY Department.label "Аддзел:">
@@ -81,11 +90,6 @@
 <!ENTITY WorkWebPage.accesskey "С">
 <!ENTITY Other.tab "Іншае">
 <!ENTITY Other.accesskey "ш">
-<!ENTITY Birthday.label "Дзень нараджэння:">
-<!ENTITY Birthday.accesskey "р">
-<!ENTITY Year.emptytext "Год">
-<!ENTITY Or.value "ці">
-<!ENTITY Age.emptytext "Узрост">
 <!ENTITY Custom1.label "Іншае 1:">
 <!ENTITY Custom1.accesskey "1">
 <!ENTITY Custom2.label "Іншае 2:">
@@ -94,5 +98,5 @@
 <!ENTITY Custom3.accesskey "3">
 <!ENTITY Custom4.label "Іншае 4:">
 <!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.box "Заўвагі">
+<!ENTITY Notes.label "Заўвагі:">
 <!ENTITY Notes.accesskey "З">
