@@ -40,13 +40,18 @@
 <!ENTITY copyright.label        "Medverkande">
 <!ENTITY copyright.accesskey    "M">
 <!ENTITY aboutLink.label        "&lt; Om &brandFullName;">
-<!ENTITY aboutLink.accesskey    "O">
+<!ENTITY aboutLink.accesskey    "A">
 <!ENTITY aboutVersion           "versjon">
 <!ENTITY copyrightText          "&#169;1998-2008 Bidragsytarane. Alle rettar med atterhald. Mozilla Sunbird, Sunbird, og Sunbird-logoane er varemerke som tilhøyrer Mozilla Foundation. Alle rettar med atterhald.">
 
 <!ENTITY brandMotto       "det er på tide">
 <!ENTITY credit.thanks    "Ein spesiell takk til">
 
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
 <!ENTITY credit.translation "<h3>Omsetjing</h3><ul><li>Eirik Birkeland</li><li>Bjørn Svindseth</li></ul>">
 
 <!ENTITY credit.powered     "Støtta av">

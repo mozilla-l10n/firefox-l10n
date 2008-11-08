@@ -1,0 +1,182 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.   -
+   -
+   - The Initial Developer of the Original Code is
+   -   OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Garth Smedley <garths@oeone.com>
+   -   Mike Potter <mikep@oeone.com>
+   -   Chris Charabaruk <coldacid@meldstar.com>
+   -   Matthew Willis <mattwillis@gmail.com>
+   -   Stefan Sitter <ssitter@googlemail.com>
+   -   Berend Cornelius <berend.cornelius@sun.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Simon Paquet <bugzilla@babylonsounds.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY calendar.open.file.label                          "Opne kalenderfil …">
+<!ENTITY calendar.open.file.key                            "O">
+<!ENTITY calendar.open.file.accesskey                      "a">
+
+<!ENTITY event.edit.event                                  "Endre …">
+<!ENTITY event.edit.event.key                              "E">
+<!ENTITY event.edit.event.accesskey                        "E">
+
+<!ENTITY event.delete.event                                "Slett valde hendingar">
+<!ENTITY event.delete.event.accesskey                      "S">
+
+<!ENTITY event.delete.tasks                                "Slett valde oppgåver">
+<!ENTITY event.delete.tasks.accesskey                      "v">
+
+<!ENTITY calendar.pagesetup.label                          "Sideoppsett …">
+<!ENTITY calendar.pagesetup.accesskey                      "o">
+
+<!ENTITY calendar.subscribe.label                          "Abonner på ekstern kalender …">
+<!ENTITY calendar.subscribe.accesskey                      "e">
+
+<!ENTITY calendar.reloadserver.label                       "Last inn eksterne kalendrar på nytt">
+<!ENTITY calendar.reloadserver.key                         "R">
+<!ENTITY calendar.reloadserver.accesskey                   "L">
+
+<!ENTITY calendar.publish.calendar.label                   "Publiser kalender …">
+<!ENTITY calendar.publish.calendar.accesskey               "b">
+<!ENTITY calendar.publish.selection.label                  "Publiser utval …">
+<!ENTITY calendar.publish.selection.accesskey              "P">
+
+<!ENTITY calendar.quit.label                               "Avslutt">
+<!ENTITY calendar.quit.accesskey                           "v">
+<!ENTITY calendar.quit.key                                 "Q">
+<!ENTITY calendar.quit.label.mac                           "Avslutt &brandShortName;">
+
+<!ENTITY calendar.exit.label                               "Avslutt">
+<!ENTITY calendar.exit.accesskey                           "v">
+
+<!ENTITY calendar.undo.label                               "Angre">
+<!ENTITY calendar.undo.key                                 "Z">
+<!ENTITY calendar.undo.accesskey                           "A">
+
+<!ENTITY calendar.redo.label                               "Gjer om">
+<!ENTITY calendar.redo.key                                 "Y">
+<!ENTITY calendar.redo.accesskey                           "G">
+
+<!ENTITY calendar.cut.label                                "Klipp ut">
+<!ENTITY calendar.cut.key                                  "X">
+<!ENTITY calendar.cut.accesskey                            "u">
+
+<!ENTITY calendar.copy.label                               "Kopier">
+<!ENTITY calendar.copy.key                                 "C">
+<!ENTITY calendar.copy.accesskey                           "K">
+
+<!ENTITY calendar.paste.label                              "Lim inn">
+<!ENTITY calendar.paste.key                                "V">
+<!ENTITY calendar.paste.accesskey                          "L">
+
+<!ENTITY calendar.selectall.label                          "Merk alt">
+<!ENTITY calendar.selectall.key                            "A">
+<!ENTITY calendar.selectall.accesskey                      "M">
+
+<!ENTITY toolbarsMenu.label                                "Verktøylinjer">
+<!ENTITY toolbarsMenu.accesskey                            "V">
+
+<!ENTITY showStatusBarCmd.label                            "Statuslinje">
+<!ENTITY showStatusBarCmd.accesskey                        "t">
+
+<!ENTITY showTaskBoxCmd.label                              "Oppgåveliste">
+<!ENTITY showTaskBoxCmd.accesskey                          "O">
+
+<!ENTITY calendar.fullscreen.label                         "Fullskjerm">
+<!ENTITY calendar.fullscreen.accesskey                     "F">
+
+<!ENTITY calendar.addons.label                             "Utvidingar">
+<!ENTITY calendar.addons.accesskey                         "U">
+
+<!ENTITY goMenu.label                                      "Gå">
+<!ENTITY goMenu.accesskey                                  "G">
+
+<!ENTITY goDateCmd.label                                   "Dato …">
+<!ENTITY goDateCmd.accesskey                               "D">
+
+<!ENTITY toolsMenu.label                                   "Verktøy">
+<!ENTITY toolsMenu.accesskey                               "e">
+
+<!ENTITY errorConsoleCmd.label                             "Feillogg">
+<!ENTITY errorConsoleCmd.accesskey                         "F">
+
+<!ENTITY helpMenu.label                                    "Hjelp">
+<!ENTITY helpMenu.accesskey                                "H">
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+           for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label                                 "Hjelp">
+<!ENTITY helpMenuWin.accesskey                             "H">
+
+<!ENTITY fileMenu.label                                    "Fil">
+<!ENTITY fileMenu.accesskey                                "F">
+
+<!ENTITY editMenu.label                                    "Rediger">
+<!ENTITY editMenu.accesskey                                "R">
+
+<!ENTITY optionsCmd.label                                  "Innstillingar …">
+<!ENTITY optionsCmd.accesskey                              "I">
+
+<!ENTITY preferencesCmd.label                              "Innstillingar">
+<!ENTITY preferencesCmd.accesskey                          "I">
+<!ENTITY preferencesCmdMac.label                           "Innstillingar …">
+<!ENTITY preferencesCmdMac.commandkey                      ",">
+<!ENTITY preferencesCmdMac.modifiers                       "accel">
+
+<!ENTITY viewMenu.label                                    "Vis">
+<!ENTITY viewMenu.accesskey                                "V">
+
+<!ENTITY releaseCmd.label                                  "Merknader til utgjevinga">
+<!ENTITY releaseCmd.accesskey                              "M">
+
+<!ENTITY aboutCmd.label                                    "Om &brandFullName;">
+<!ENTITY aboutCmd.accesskey                                "O">
+
+<!ENTITY updateCmd.label                                   "Sjå etter oppdateringar …">
+<!ENTITY updateCmd.accesskey                               "S">
+
+<!-- Mac OS X "Window" menu items -->
+<!ENTITY windowMenu.label                                  "Vindauge">
+<!ENTITY minimizeWindow.label                              "Minimer">
+<!ENTITY zoomWindow.label                                  "Zoom">
+<!ENTITY minimizeWindow.key                                "M">
+<!ENTITY bringAllToFront.label                             "Send alle til framgrunnen">
+
+<!-- Mac OS X Application menu items -->
+<!ENTITY servicesMenuMac.label                             "Tenester">
+<!ENTITY hideThisAppCmdMac.label                           "Gøym &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey                      "G">
+<!ENTITY hideThisAppCmdMac.modifiers                       "accel">
+<!ENTITY hideOtherAppsCmdMac.label                         "Gøym andre">
+<!ENTITY hideOtherAppsCmdMac.commandkey                    "G">
+<!ENTITY hideOtherAppsCmdMac.modifiers                     "accel,alt">
+<!ENTITY showAllAppsCmdMac.label                           "Vis alle">
