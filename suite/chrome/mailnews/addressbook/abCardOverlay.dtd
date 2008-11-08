@@ -22,8 +22,8 @@
  Contributor(s):
 
  Alternatively, the contents of this file may be used under the terms of
- either of the GNU General Public License Version 2 or later (the "GPL"),
- or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
  in which case the provisions of the GPL or the LGPL are applicable instead
  of those above. If you wish to allow use of your version of this file only
  under the terms of either the GPL or the LGPL, and not to allow others to
@@ -80,10 +80,14 @@
 <!ENTITY ScreenName.label               "AIM-Name:">
 <!ENTITY ScreenName.accesskey           "I">
 
-<!ENTITY allowRemoteContent.label       "Von außen stammende Grafiken in HTML-Mail erlauben.">
+<!ENTITY allowRemoteContent.label       "Von außen stammende Grafiken erlauben.">
 <!ENTITY allowRemoteContent.accesskey   "V">
+<!ENTITY allowRemoteContent.tooltip     "In HTML-Nachrichten ist es möglich,
+Grafiken aus externen Quellen einzubetten. Das Öffnen einer solchen Nachricht
+öffnet eine Verbindung mit dieser externen Quelle. Dies könnte die Verfolgung
+von gelesenen Nachrichten erlauben. Dieses Kästchen anzuwählen erlaubt solche
+externen eingebetteten Grafiken in HTML-Nachrichten von diesem Kontakt.">
 
-<!ENTITY Phones.box                     "Telefon">
 <!ENTITY WorkPhone.label                "Dienstlich:">
 <!ENTITY WorkPhone.accesskey            "D">
 <!ENTITY HomePhone.label                "Privat:">
@@ -95,9 +99,8 @@
 <!ENTITY CellularNumber.label           "Mobiltelefon:">
 <!ENTITY CellularNumber.accesskey       "M">
 
-<!ENTITY Address.tab                    "Adresse">
-<!ENTITY Address.accesskey              "A">
-<!ENTITY Home.box                       "Privat">
+<!ENTITY Home.tab                       "Privat">
+<!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "Adresse:">
 <!ENTITY HomeAddress.accesskey          "d">
 <!ENTITY HomeAddress2.label             "">
@@ -112,7 +115,14 @@
 <!ENTITY HomeCountry.accesskey          "L">
 <!ENTITY HomeWebPage.label              "Web-Seite:">
 <!ENTITY HomeWebPage.accesskey          "W">
-<!ENTITY Work.box                       "Dienstlich">
+<!ENTITY Birthday.label                 "Geburtstag:">
+<!ENTITY Birthday.accesskey             "G">
+<!ENTITY Year.emptytext                 "Jahr">
+<!ENTITY Or.value                       "oder">
+<!ENTITY Age.emptytext                  "Alter">
+
+<!ENTITY Work.tab                       "Dienstlich">
+<!ENTITY Work.accesskey                 "D">
 <!ENTITY JobTitle.label                 "Titel:">
 <!ENTITY JobTitle.accesskey             "i">
 <!ENTITY Department.label               "Abteilung:">
@@ -120,27 +130,22 @@
 <!ENTITY Company.label                  "Organisation:">
 <!ENTITY Company.accesskey              "g">
 <!ENTITY WorkAddress.label              "Adresse:">
-<!ENTITY WorkAddress.accesskey          "r">
+<!ENTITY WorkAddress.accesskey          "d">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Ort:">
-<!ENTITY WorkCity.accesskey             "t">
+<!ENTITY WorkCity.accesskey             "O">
 <!ENTITY WorkState.label                "Bundesland:">
-<!ENTITY WorkState.accesskey            "u">
+<!ENTITY WorkState.accesskey            "B">
 <!ENTITY WorkZipCode.label              "PLZ:">
-<!ENTITY WorkZipCode.accesskey          "Z">
+<!ENTITY WorkZipCode.accesskey          "P">
 <!ENTITY WorkCountry.label              "Land:">
-<!ENTITY WorkCountry.accesskey          "n">
+<!ENTITY WorkCountry.accesskey          "L">
 <!ENTITY WorkWebPage.label              "Web-Seite:">
-<!ENTITY WorkWebPage.accesskey          "e">
+<!ENTITY WorkWebPage.accesskey          "W">
 
 <!ENTITY Other.tab                      "Andere">
 <!ENTITY Other.accesskey                "n">
-<!ENTITY Birthday.label                 "Geburtstag:">
-<!ENTITY Birthday.accesskey             "G">
-<!ENTITY Year.emptytext                 "Jahr">
-<!ENTITY Or.value                       "oder">
-<!ENTITY Age.emptytext                  "Alter">
 <!ENTITY Custom1.label                  "Benutzerdef. 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Benutzerdef. 2:">
@@ -149,5 +154,5 @@
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Benutzerdef. 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.box                      "Notizen">
+<!ENTITY Notes.label                    "Anmerkungen:">
 <!ENTITY Notes.accesskey                "o">
