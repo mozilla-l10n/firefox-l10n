@@ -48,12 +48,9 @@
 <!ENTITY directorySecure.accesskey         "S">
 <!ENTITY directoryLogin.label              "Bind DN: ">
 <!ENTITY directoryLogin.accesskey          "i">
-<!ENTITY advancedOptionsButton.label       "Avanserte innstillingar">
-<!ENTITY advancedOptionsButton.accesskey   "A">
 <!ENTITY General.tab                       "Generelt">
 <!ENTITY Offline.tab                       "Fråkopla">
 <!ENTITY Advanced.tab                      "Avansert">
-<!ENTITY advancedOptionsTitle.label        "Avanserte innstillingar">
 <!ENTITY portNumber.label                  "Portnummer: ">
 <!ENTITY portNumber.accesskey              "P">
 <!ENTITY searchFilter.label                "Søkjefilter: ">

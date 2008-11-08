@@ -6,18 +6,16 @@
 <!ENTITY  openDefault.label                   "Opne med standard program:">
 <!ENTITY  openDefault.accesskey               "O">
 <!ENTITY  openApplication.label               "Opne med dette programmet:">
-<!ENTITY  openApplication.accesskey           "e">
+<!ENTITY  openApplication.accesskey           "p">
 <!ENTITY  changeApp.label                     "Bla gjennom …">
 <!ENTITY  changeApp.accesskey                 "B">
 <!ENTITY  saveToDisk.label                    "Lagre dei på mi datamaskin">
-<!ENTITY  saveToDisk.accesskey                "S">
+<!ENTITY  saveToDisk.accesskey                "L">
 <!ENTITY  saveToDefaultFolder.label           "i standard nedlastingsmappe">
-<!ENTITY  saveToDefaultFolder.accesskey       "d">
+<!ENTITY  saveToDefaultFolder.accesskey       "i">
 <!ENTITY  saveToThisFolder.label              "i denne mappa:">
-<!ENTITY  saveToThisFolder.accesskey          "h">
+<!ENTITY  saveToThisFolder.accesskey          "m">
 <!ENTITY  chooseFolder.label                  "Bla gjennom …">
-<!ENTITY  chooseFolder.accesskey              "w">
+<!ENTITY  chooseFolder.accesskey              "g">
 <!ENTITY  saveToAskMe.label                   "spør meg kvar fila skal lagrast">
-<!ENTITY  saveToAskMe.accesskey               "a">
-<!ENTITY  usePlugin.label                     "Bruk dette programtillegget:">
-<!ENTITY  usePlugin.accesskey                 "P">
+<!ENTITY  saveToAskMe.accesskey               "s">

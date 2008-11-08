@@ -26,8 +26,6 @@
 <!ENTITY reuseExpRadio0.accesskey      "i">
 <!ENTITY reuseExpRadio1.label          "Eit eksisterande meldingsvindauge">
 <!ENTITY reuseExpRadio1.accesskey      "E">
-<!ENTITY reuseExpRadio2.label          "Ei ny meldingsfane">
-<!ENTITY reuseExpRadio2.accesskey      "n">
 <!ENTITY configEditDesc.label          "Avanserte innstillingar">
 <!ENTITY configEdit.label              "Endre innstillingar …">
 <!ENTITY configEdit.accesskey          "g">
@@ -84,7 +82,6 @@
 <!ENTITY clearCacheNow.accesskey         "C">
 
 <!-- Certificates -->
-<!ENTITY certificatesInfo2.label        "Handsam sertifikat, tilbakekallingsliste, validering av sertifikat and sikkerheitseiningar.">
 <!ENTITY viewCertificates.label         "Vis sertifikat">
 <!ENTITY viewCertificates.accesskey     "a">
 <!ENTITY viewCRLs.label                 "Tilbakekallingslister">

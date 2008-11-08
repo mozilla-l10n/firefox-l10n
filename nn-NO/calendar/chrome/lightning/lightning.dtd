@@ -62,8 +62,6 @@
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "K">
 
 <!-- Messenger Sidebar -->
-<!ENTITY lightning.sidebar.invitations.label "Invitasjonar">
-<!ENTITY lightning.sidebar.invitations.accesskey "I">
 <!ENTITY lightning.calendar.label            "Kalender">
 <!ENTITY lightning.calendar.accesskey        "K">
 <!ENTITY lightning.tasks.label               "Oppgåver">
@@ -76,6 +74,10 @@
 <!ENTITY lightning.toolbar.calendar.accesskey "K">
 <!ENTITY lightning.toolbar.task.label         "Oppgåver">
 <!ENTITY lightning.toolbar.task.accesskey     "O">
+
+<!-- Toolbar write button -->
+<!ENTITY lightning.toolbar.newevent.label     "Hending">
+<!ENTITY lightning.toolbar.newtask.label      "Oppgåve">
 
 <!-- Messenger Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Dag">

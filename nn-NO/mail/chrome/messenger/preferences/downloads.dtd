@@ -3,8 +3,6 @@
 <!ENTITY alwaysAsk.accesskey          "S">
 <!ENTITY neverAsk.label               "Lagre alle vedlegg til denne mappa:">
 <!ENTITY neverAsk.accesskey           "L">
-<!ENTITY desktop.label                "Skrivebord">
-<!ENTITY downloads.label              "Nedlastingane mine">
 <!ENTITY chooseFolderWin.label        "Bla gjennom …">
 <!ENTITY chooseFolderWin.accesskey    "B">
 <!ENTITY chooseFolderMac.label        "Vel …">
@@ -15,10 +13,3 @@
 <!ENTITY configureActions.label       "Vis og rediger handlingar …">
 <!ENTITY configureActions.accesskey   "n">
 <!ENTITY fileTypesDescription.label   "&brandShortName; kan lagre eller opne vedlegg av bestemte typar automatisk.">
-
-<!ENTITY fileTypeColName.label        "Filtype">
-<!ENTITY fileHandlerColName.label     "Program">
-<!ENTITY editFileHandler.label        "Endre handling …">
-<!ENTITY editFileHandler.accesskey    "a">
-<!ENTITY removeFileHandler.label      "Fjern">
-<!ENTITY removeFileHandler.accesskey  "r">

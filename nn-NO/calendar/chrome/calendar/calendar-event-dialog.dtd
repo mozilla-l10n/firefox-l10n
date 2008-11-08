@@ -1,4 +1,4 @@
- <!-- ***** BEGIN LICENSE BLOCK *****
+<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -48,7 +48,7 @@
 
 <!ENTITY newevent.from.label                "Frå" >
 <!ENTITY newevent.to.label                  "Til" >
-<!ENTITY newevent.attendees.sendEmail.label "Send invitasjon til deltakarane via e-post">
+<!ENTITY newevent.attendees.notify.label    "Varsle deltakarar">
 
 <!ENTITY newevent.status.label              "Status" >
 <!ENTITY newevent.status.accesskey          "S" >
@@ -385,6 +385,7 @@
 <!ENTITY read.only.reply.label           "Svar:">
 <!ENTITY read.only.accept.label          "Eg vil vere med">
 <!ENTITY read.only.decline.label         "Eg vil ikkje vere med">
+<!ENTITY read.only.tentative.label       "Eg vil kanskje delta">
 <!ENTITY read.only.needs.action.label    "Eg vil stadfeste seinare">
 <!ENTITY read.only.reminder.label        "Påminning:">
 <!ENTITY read.only.attendees.label       "Deltakarar">

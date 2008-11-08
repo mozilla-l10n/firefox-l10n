@@ -60,7 +60,6 @@
 <!ENTITY pasteCmd.key                                   "V">
 <!ENTITY pasteCmd.accesskey                             "L">
 <!ENTITY deleteCmd.label                                "Slett">
-<!ENTITY deleteCmd.key                                  "D">
 <!ENTITY deleteCmd.accesskey                            "S">
 <!ENTITY deleteAbCmd.label                              "Slett adressebok">
 <!ENTITY deleteCardCmd.label                            "Slett kort">
@@ -118,10 +117,9 @@
 <!ENTITY exportCmd.label                                "Eksporter …">
 <!ENTITY exportCmd.accesskey                            "E">
 <!ENTITY preferencesCmd.label                           "Innstillingar …">
-<!ENTITY preferencesCmd.key                             "O">
 <!ENTITY preferencesCmd.accesskey                       "I">
 <!ENTITY preferencesCmdUnix.label                       "Innstillingar …">
-<!ENTITY preferencesCmdUnix.accesskey                   "n"> 
+<!ENTITY preferencesCmdUnix.accesskey                   "n">
 
 <!-- Address Book Toolbar and Context Menus -->  
 <!ENTITY newcardButton.label                            "Nytt kort">
@@ -212,4 +210,4 @@
 <!ENTITY minimizeWindow.label "Minimer">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Send alle til framgrunnen">
-<!ENTITY zoomWindow.label "Forstørring av vindauge">
+<!ENTITY zoomWindow.label "Forstørr">
