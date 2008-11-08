@@ -15,32 +15,32 @@
 <!ENTITY DisplayName.label "Nome visualizzato:">
 <!ENTITY DisplayName.accesskey "v">
 <!ENTITY NickName.label "Soprannome">
-<!ENTITY NickName.accesskey "S">
+<!ENTITY NickName.accesskey "p">
 <!ENTITY Internet.box "Internet">
-<!ENTITY PrimaryEmail.label "Email:">
-<!ENTITY PrimaryEmail.accesskey "E">
+<!ENTITY PrimaryEmail.label "E-mail">
+<!ENTITY PrimaryEmail.accesskey "-">
 <!ENTITY SecondEmail.label "E-mail aggiuntiva:">
 <!ENTITY SecondEmail.accesskey "g">
 <!ENTITY PreferMailFormat.label "Formato preferito per i messaggi di posta:">
-<!ENTITY PreferMailFormat.accesskey "o">
+<!ENTITY PreferMailFormat.accesskey "F">
 <!ENTITY PlainText.label "Testo semplice">
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Sconosciuto">
 <!ENTITY ScreenName.label "Nome Instant Messenger">
-<!ENTITY ScreenName.accesskey "I">
+<!ENTITY ScreenName.accesskey "M">
 <!ENTITY allowRemoteContent.label "Consenti immagini remote.">
-<!ENTITY allowRemoteContent.accesskey "C">
+<!ENTITY allowRemoteContent.accesskey "t">
 <!ENTITY allowRemoteContent.tooltip "Nei messaggi in HTML è possibile includere immagini da siti remoti. L'apertura di un tale messaggio aprirà una connessione a tale sito. Questo potrebbe consentire al mittente di verificare che il messaggio è stato letto. Spuntare questa casella consentirà l'apertura di immagini esterne contenute in messaggi HTML da questo contatto.">
 <!ENTITY WorkPhone.label "Lavoro:">
 <!ENTITY WorkPhone.accesskey "L">
 <!ENTITY HomePhone.label "Casa:">
-<!ENTITY HomePhone.accesskey "a">
+<!ENTITY HomePhone.accesskey "s">
 <!ENTITY FaxNumber.label "Fax:">
 <!ENTITY FaxNumber.accesskey "x">
 <!ENTITY PagerNumber.label "Cerca persone:">
-<!ENTITY PagerNumber.accesskey "a">
+<!ENTITY PagerNumber.accesskey "e">
 <!ENTITY CellularNumber.label "Cellulare:">
-<!ENTITY CellularNumber.accesskey "C">
+<!ENTITY CellularNumber.accesskey "l">
 <!ENTITY Home.tab "Privato">
 <!ENTITY Home.accesskey "I">
 <!ENTITY HomeAddress.label "Indirizzo:">
@@ -52,7 +52,7 @@
 <!ENTITY HomeState.label "Provincia:">
 <!ENTITY HomeState.accesskey "o">
 <!ENTITY HomeZipCode.label "CAP:">
-<!ENTITY HomeZipCode.accesskey "C">
+<!ENTITY HomeZipCode.accesskey "A">
 <!ENTITY HomeCountry.label "Nazione:">
 <!ENTITY HomeCountry.accesskey "a">
 <!ENTITY HomeWebPage.label "Pagina web:">
@@ -60,9 +60,9 @@
 <!ENTITY Work.tab "Lavoro">
 <!ENTITY Work.accesskey "L">
 <!ENTITY JobTitle.label "Titolo:">
-<!ENTITY JobTitle.accesskey "o">
+<!ENTITY JobTitle.accesskey "T">
 <!ENTITY Department.label "Reparto:">
-<!ENTITY Department.accesskey "R">
+<!ENTITY Department.accesskey "a">
 <!ENTITY Company.label "Organizzazione:">
 <!ENTITY Company.accesskey "O">
 <!ENTITY WorkAddress.label "Indirizzo:">
@@ -72,7 +72,7 @@
 <!ENTITY WorkCity.label "Città:">
 <!ENTITY WorkCity.accesskey "à">
 <!ENTITY WorkState.label "Provincia:">
-<!ENTITY WorkState.accesskey "S">
+<!ENTITY WorkState.accesskey "P">
 <!ENTITY WorkZipCode.label "CAP:">
 <!ENTITY WorkZipCode.accesskey "p">
 <!ENTITY WorkCountry.label "Nazione:">
@@ -82,7 +82,7 @@
 <!ENTITY Other.tab "Altro">
 <!ENTITY Other.accesskey "r">
 <!ENTITY Birthday.label "Compleanno:">
-<!ENTITY Birthday.accesskey "C">
+<!ENTITY Birthday.accesskey "m">
 <!ENTITY Year.emptytext "Anno">
 <!ENTITY Or.value "o">
 <!ENTITY Age.emptytext "Età">

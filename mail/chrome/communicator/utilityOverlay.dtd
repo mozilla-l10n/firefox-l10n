@@ -45,5 +45,5 @@
 <!ENTITY quitApplicationCmd.accesskey "E">
 <!ENTITY quitApplicationCmdUnix.label "Esci">
 <!ENTITY quitApplicationCmdUnix.accesskey "E">
-<!ENTITY quitApplicationCmdMac.label "Chiudere &brandShortName;">
+<!ENTITY quitApplicationCmdMac.label "Esci da &brandShortName;">
 <!ENTITY quitApplicationCmdMac.accesskey "C">
