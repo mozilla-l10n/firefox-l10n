@@ -51,7 +51,7 @@
 <!ENTITY menu_textReset.label "मुळस्थिती">
 <!ENTITY menu_textReset.accesskey "N">
 
-<!ENTITY findOnCmd.label     "ह्या पानात शोधा...">
+<!ENTITY findOnCmd.label     "या पानात शोधा...">
 <!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "पुन्हा शोधा">
@@ -61,3 +61,10 @@
 <!ENTITY textEnlarge.commandkey3 "">
 <!ENTITY textReset.commandkey2 "">
 <!ENTITY textReduce.commandkey2 "">
+
+<!ENTITY backCmd.label "मागे">
+<!ENTITY backCmd.accesskey "B">
+<!ENTITY forwardCmd.label "पुढे">
+<!ENTITY forwardCmd.accesskey "F">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
