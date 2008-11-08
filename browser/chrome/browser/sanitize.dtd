@@ -1,5 +1,5 @@
 <!ENTITY sanitizePrefs.title           "清除隱私資料">
-<!ENTITY sanitizeDialog2.title         "刪除最近的瀏覽記錄">
+<!ENTITY sanitizeDialog2.title         "刪除最近的歷史記錄">
 
 <!ENTITY sanitizeItems.label          "立刻清除下列項目:">
 <!ENTITY clearDataSettings2.label     "當我離開 &brandShortName; 時，它應該自動清除:">
@@ -10,13 +10,13 @@
 <!ENTITY clearDuration.lastHour       "之前 1 小時">
 <!ENTITY clearDuration.last2Hours     "之前 2 小時">
 <!ENTITY clearDuration.last4Hours     "之前 4 小時">
-<!ENTITY clearDuration.today          "今日的瀏覽記錄">
-<!ENTITY clearDuration.everything     "我的所有瀏覽記錄">
+<!ENTITY clearDuration.today          "今日的歷史記錄">
+<!ENTITY clearDuration.everything     "我的所有歷史記錄">
 <!-- Localization note (clearDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearDuration.suffix         "">
 
-<!ENTITY historySection.label         "瀏覽記錄">
+<!ENTITY historySection.label         "歷史記錄">
 <!ENTITY dataSection.label            "資料">
 
 <!ENTITY itemVisitedPages.label       "已瀏覽網頁">
