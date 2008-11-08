@@ -1,24 +1,40 @@
-<!ENTITY sanitizeDialog.title         "Rensa ut känslig data">
+<!ENTITY sanitizePrefs.title           "Rensa ut känslig data">
+<!ENTITY sanitizeDialog2.title         "Rensa ut tidigare historik">
 
 <!ENTITY sanitizeItems.label          "Ta bort följande poster:">
-<!ENTITY clearDataSettings.label      "När jag ber &brandShortName; att rensa ut känslig data ska följande tas bort:">
+<!ENTITY clearDataSettings2.label     "När jag avslutar &brandShortName; ska följande tas bort automatiskt:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY itemHistory.label            "Webbläsarhistorik">
-<!ENTITY itemHistory.accesskey        "W">
-<!ENTITY itemFormSearchHistory.label  "Sparad formulärdata och sökhistorik">
-<!ENTITY itemFormSearchHistory.accesskey "S">
+<!ENTITY clearDuration.label          "Ta bort ">
+<!ENTITY clearDuration.lastHour       "den senaste timmen">
+<!ENTITY clearDuration.last2Hours     "de senaste 2 timmarna">
+<!ENTITY clearDuration.last4Hours     "de senaste 4 timmarna">
+<!ENTITY clearDuration.today          "historiken för idag">
+<!ENTITY clearDuration.everything     "hela historiken">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix         "">
+
+<!ENTITY historySection.label         "Historik">
+<!ENTITY dataSection.label            "Data">
+
+<!ENTITY itemVisitedPages.label       "Besökta sidor">
+<!ENTITY itemVisitedPages.accesskey   "B">
+<!ENTITY itemFormSearchEntries.label  "Formulär- och sökdata">
+<!ENTITY itemFormSearchEntries.accesskey "F">
 <!ENTITY itemPasswords.label          "Sparade lösenord">
-<!ENTITY itemPasswords.accesskey      "ö">
+<!ENTITY itemPasswords.accesskey      "S">
 <!ENTITY itemCookies.label            "Kakor">
 <!ENTITY itemCookies.accesskey        "K">
-<!ENTITY itemCache.label              "Cache">
-<!ENTITY itemCache.accesskey          "C">
+<!ENTITY itemWebCache.label           "Webbcache">
+<!ENTITY itemWebCache.accesskey       "W">
 <!ENTITY itemOfflineApps.label        "Nedkopplad webbplatsdata">
 <!ENTITY itemOfflineApps.accesskey    "N">
-<!ENTITY itemDownloads.label          "Filhämtningshistorik">
-<!ENTITY itemDownloads.accesskey      "F">
+<!ENTITY itemDownloadList.label       "Filhämtningslista">
+<!ENTITY itemDownloadList.accesskey   "h">
 <!ENTITY itemActiveLogins.label       "Aktiva inloggningar">
 <!ENTITY itemActiveLogins.accesskey   "A">
+
 <!ENTITY window.width                 "30em">
+<!ENTITY column.width                 "14em">
