@@ -71,6 +71,11 @@
 <!ENTITY cmd.edit_redo.accesskey    "G">
 <!ENTITY cmd.edit_redo.key          "y">
 
+<!ENTITY cmd.delete.label               "Ta bort den här sidan">
+<!ENTITY cmd.delete.accesskey           "T">
+<!ENTITY cmd.deleteDomainData.label     "Ta bort den här webbplatsen">
+<!ENTITY cmd.deleteDomainData.accesskey "b">
+
 <!ENTITY cmd.open.label                  "Öppna">
 <!ENTITY cmd.open.accesskey              "Ö">
 <!ENTITY cmd.open_window.label           "Öppna i nytt fönster">
