@@ -1,22 +1,61 @@
-<!ENTITY sanitizeDialog.title "ניקוי נתונים אישיים">
+<!-- ### ENTITY sanitizeDialog.title "ניקוי נתונים אישיים" -->
+
+
+<!-- ### ENTITY itemHistory.accesskey "ד" -->
+<!-- ### ENTITY itemFormSearchHistory.label "טפסים שמורים והיסטוריית חיפוש" -->
+<!-- ### ENTITY itemFormSearchHistory.accesskey "ש" -->
+
+<!-- ### ENTITY itemCache.label "מטמון" -->
+<!-- ### ENTITY itemCache.accesskey "מ" -->
+
+<!-- ### ENTITY itemDownloads.label "היסטוריית הורדות" -->
+<!-- ### ENTITY itemDownloads.accesskey "ה" -->
+<!-- ### ENTITY itemSessions.label "חיבורים מאומתים" -->
+<!-- ### ENTITY itemSessions.accesskey "ח" -->
+<!-- ### ENTITY clearDataSettings.label      "כאשר אני מבקש מ־&brandShortName; לנקות את הנתונים האישיים שלי, זה ימחוק את:" -->
+
+<!-- ### ENTITY itemHistory.label "היסטוריית דפדוף" -->
+
+
+
+
+<!ENTITY sanitizePrefs.title           "ניקוי נתונים אישיים">
+<!ENTITY sanitizeDialog2.title         "מחיקת היסטוריה אחרונה">
+
 <!ENTITY sanitizeItems.label "בחר את הפריטים לניקוי:">
-<!ENTITY itemHistory.label "היסטוריית דפדוף">
-<!ENTITY itemHistory.accesskey "ד">
-<!ENTITY itemFormSearchHistory.label "טפסים שמורים והיסטוריית חיפוש">
-<!ENTITY itemFormSearchHistory.accesskey "ש">
+<!ENTITY clearDataSettings2.label     "כאשר אני יוצא מ־&brandShortName;, הפריטים הבאים ינוקו אוטומטית:">
+
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+<!ENTITY clearDuration.label          "הסר ">
+<!ENTITY clearDuration.lastHour       "מהשעה האחרונה">
+<!ENTITY clearDuration.last2Hours     "מהשעתיים האחרונות">
+<!ENTITY clearDuration.last4Hours     "מ־4 שעות אחרונות">
+<!ENTITY clearDuration.today          "ההיסטוריה שלי להיום">
+<!ENTITY clearDuration.everything     "כלל ההיסטוריה שלי">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix         "">
+
+<!ENTITY historySection.label         "היסטוריה">
+<!ENTITY dataSection.label            "נתונים">
+
+<!ENTITY itemVisitedPages.label       "דפים שביקרתי בהם">
+<!ENTITY itemVisitedPages.accesskey   "ב">
+<!ENTITY itemFormSearchEntries.label  "טפסים ופריטי חיפוש">
+<!ENTITY itemFormSearchEntries.accesskey "ט">
 <!ENTITY itemPasswords.label "סיסמאות שמורות">
 <!ENTITY itemPasswords.accesskey "ס">
 <!ENTITY itemCookies.label "עוגיות">
 <!ENTITY itemCookies.accesskey "ע">
-<!ENTITY itemCache.label "מטמון">
-<!ENTITY itemCache.accesskey "מ">
+<!ENTITY itemWebCache.label           "מטמון">
+<!ENTITY itemWebCache.accesskey       "מ">
 <!ENTITY itemOfflineApps.label        "נתונים לא מקוונים של אתרים">
 <!ENTITY itemOfflineApps.accesskey    "מ">
-<!ENTITY itemDownloads.label "היסטוריית הורדות">
-<!ENTITY itemDownloads.accesskey "ה">
-<!-- ### ENTITY itemSessions.label "חיבורים מאומתים" -->
-<!-- ### ENTITY itemSessions.accesskey "ח" -->
-<!ENTITY clearDataSettings.label      "כאשר אני מבקש מ־&brandShortName; לנקות את הנתונים האישיים שלי, זה ימחוק את:">
+<!ENTITY itemDownloadList.label       "רשימת הורדות">
+<!ENTITY itemDownloadList.accesskey   "ה">
 <!ENTITY itemActiveLogins.label       "התחברויות פעילות">
 <!ENTITY itemActiveLogins.accesskey   "ח">
+
 <!ENTITY window.width                 "30em">
+<!ENTITY column.width                 "14em">
