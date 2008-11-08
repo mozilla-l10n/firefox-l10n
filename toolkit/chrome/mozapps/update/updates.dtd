@@ -4,25 +4,24 @@
 <!ENTITY  window.macWidth                 "39em">
 
 <!ENTITY  checking.title                  "Überprüfe auf verfügbare Updates">
-<!ENTITY  checking.label                  "Es wird nun überprüft, ob Updates für &brandShortName; zur Verfügung stehen…">
-
-<!ENTITY  cancel.label                    "Abbrechen">
-<!ENTITY  cancel.accesskey                "A">
+<!ENTITY  updateCheck.label               "Suche nach neueren Versionen von &brandShortName;…">
 
 <!ENTITY  noupdatesfound.title            "Keine Updates verfügbar">
-<!ENTITY  noupdatesautoenabled.intro      "Es sind keine neuen Updates verfügbar. &brandShortName; wird regelmäßig prüfen, ob Updates verfügbar sind.">
-<!ENTITY  noupdatesautodisabled.intro     "Es sind keine neuen Updates verfügbar. Bitte versuchen Sie es später erneut, oder aktivieren Sie das automatische &brandShortName;-Update.">
+<!ENTITY  noupdatesautoenabled.intro      "Es sind keine neuen Updates verfügbar. &brandShortName; wird regelmäßig prüfen,
+                                           ob Updates verfügbar sind.">
+<!ENTITY  noupdatesautodisabled.intro     "Es sind keine neuen Updates verfügbar. Bitte versuchen Sie es später erneut,
+                                           oder aktivieren Sie das automatische &brandShortName;-Update.">
 
-<!ENTITY  incompatibleChecking.label      "Es wird überprüft, ob durch dieses Update Probleme mit Ihren Erweiterungen und/oder Themes entstehen…">
+<!ENTITY  incompatibleCheck.title         "Überprüfe Add-on-Kompatibilität">
+<!ENTITY  incompatibleCheck.label         "Suche nach neueren Versionen Ihrer Add-ons…">
+
 <!ENTITY  clickHere.label                 "Weitere Informationen zu diesem Update ansehen">
 
-<!ENTITY  incompatible.warning            "Dieses Update führt dazu, dass einige Ihrer Erweiterungen und/oder Themes deaktiviert werden müssen, bis kompatible Versionen verfügbar sind.">
-<!ENTITY  listIncompatible.label          "Liste anzeigen">
-<!ENTITY  listIncompatible.accesskey      "L">
+<!ENTITY  evangelism.desc                 "Es wird dringend empfohlen, dass Sie dieses Update
+                                           für &brandShortName; schnellstmöglich installieren.">
 
-<!ENTITY  upgrade.evangelism              "Es wird dringend empfohlen, dass Sie &brandShortName; schnellstmöglich aktualisieren.">
-
-<!ENTITY  license.instructions            "Falls Sie den Bedingungen der Lizenzvereinbarung zustimmen, klicken Sie unten auf Akzeptieren, um mit der Installation des Updates fortzufahren.">
+<!ENTITY  license.instructions            "Falls Sie den Bedingungen der Lizenzvereinbarung zustimmen, klicken Sie unten auf
+                                           Akzeptieren, um mit der Installation des Updates fortzufahren.">
 
 <!ENTITY  license.titleText               "Lizenzvereinbarung">
 <!ENTITY  license.introText               "Bedingungen, um diese Software zu verwenden">
@@ -32,34 +31,39 @@
 <!ENTITY  license.decline                 "Ich lehne die Lizenzvereinbarung ab.">
 <!ENTITY  license.decline.accesskey       "e">
 
+<!ENTITY  incompatibleList.title          "Inkompatible Add-ons gefunden">
+
 <!ENTITY  downloading.title               "Update herunterladen">
 <!ENTITY  downloading.intro               "Das Update wird heruntergeladen…">
 <!ENTITY  connecting.label                "Mit dem Update-Server verbinden…">
-<!ENTITY  verificationFailedText.label    "Die Integrität des heruntergeladenen, inkrementellen Updates für &brandShortName; konnte nicht sichergestellt werden. Daher wird nun das komplette Update-Paket heruntergeladen.">
+<!ENTITY  verificationFailedText.label    "Die Integrität des heruntergeladenen, inkrementellen Updates für
+                                           &brandShortName; konnte nicht sichergestellt werden. Daher wird nun das
+                                           komplette Update-Paket heruntergeladen.">
+
+<!ENTITY  viewDetails.tooltip             "Details für dieses Update anzeigen">
 
 <!ENTITY  details.link                    "Details">
-<!ENTITY  pause.label                     "Pause">
-<!ENTITY  pause.accesskey                 "e">
-<!ENTITY  close.label                     "Schließen">
-<!ENTITY  close.accesskey                 "c">
 
-<!ENTITY  error.label                     "Beim Versuch auf Updates zu überprüfen, diese herunterzuladen oder zu installieren sind Probleme aufgetreten. &brandShortName; konnte aus folgendem Grund nicht aktualisiert werden:">
+<!ENTITY  error.label                     "Beim Versuch auf Updates zu überprüfen, diese herunterzuladen oder zu installieren
+                                           sind Probleme aufgetreten. &brandShortName; konnte aus folgendem Grund nicht aktualisiert werden:">
                                            
-<!ENTITY  errorManual.label               "Sie können &brandShortName; auch manuell aktualisieren. Besuchen Sie dazu den folgenden Link und laden die aktuelle Version herunter:">
+<!ENTITY  errorManual.label               "Sie können &brandShortName; auch manuell aktualisieren. Besuchen Sie dazu den folgenden Link und
+                                           laden die aktuelle Version herunter:">
                                            
 <!ENTITY  errorpatching.title             "Update fehlgeschlagen">
-<!ENTITY  errorpatching.intro             "Das inkrementelle Update für &brandShortName; konnte nicht installiert werden. Es wird nun für einen neuen Versuch das komplette Update-Paket heruntergeladen.">
+<!ENTITY  errorpatching.intro             "Das inkrementelle Update für &brandShortName; konnte nicht installiert werden.
+                                           Es wird nun für einen neuen Versuch das komplette Update-Paket heruntergeladen.">
 
-<!ENTITY  finished.title                  "Update erfolgreich heruntergeladen">
-<!ENTITY  finished.text                   "Das Update wurde erfolgreich heruntergeladen und überprüft. Es wird beim nächsten &brandShortName;-Start installiert.">
+<!ENTITY  finishedPage.title              "Update bereit zur Installation">
+<!ENTITY  finishedPage.text               "Das Update wird beim nächsten &brandShortName;-Start installiert. Sie können
+                                           &brandShortName; jetzt neu starten oder weiter arbeiten und später neu starten.">
 
-<!ENTITY  finishedBackground.title        "Update bereit zur Installation">
-<!ENTITY  finishedBackground.text         "&brandShortName; hat ein wichtiges Update heruntergeladen und überprüft. Klicken Sie unten für weitere Details.">
+<!ENTITY  finishedBackgroundPage.text     "Ein Sicherheits- und Stabilitäts-Update für &brandShortName; wurde heruntergeladen
+                                           und ist bereit zur Installation.">
 <!ENTITY  finishedBackground.name         "Update:">
-<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
-<!ENTITY  finishedBackground.more1        "Klicken Sie bitte auf '&brandShortName; jetzt neu starten', um das Update jetzt zu installieren.">
-<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!ENTITY  finishedBackground.textNotNow   "Klicken Sie auf 'Nicht jetzt', um zunächst weiterzuarbeiten. Das Update wird dann beim nächsten &brandShortName;-Start installiert.">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more         "Das Update wird beim nächsten &brandShortName;-Start installiert. Sie können
+                                           &brandShortName; jetzt neu starten oder weiter arbeiten und später neu starten.">
 
 <!ENTITY  installed.title                 "Update installiert">
 <!ENTITY  installed.intro                 "Das Update wurde erfolgreich installiert.">
