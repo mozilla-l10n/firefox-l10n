@@ -1,0 +1,11 @@
+<!ENTITY editContactName.label            "Nimi:">
+<!ENTITY editContactName.accesskey        "N">
+
+<!ENTITY editContactEmail.label           "E-post:">
+<!ENTITY editContactEmail.accesskey       "E">
+
+<!ENTITY editContactPanelCancel.label     "Loobu">
+<!ENTITY editContactPanelCancel.accesskey "L">
+
+<!ENTITY editContactPanelDone.label       "Valmis">
+<!ENTITY editContactPanelDone.accesskey   "V">
