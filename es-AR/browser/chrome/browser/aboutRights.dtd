@@ -14,7 +14,7 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; está disponible bajo los términos de la ">
 <!ENTITY rights.intro-point1b "Licencia Pública de Mozilla (MPL)">
-<!ENTITY rights.intro-point1c ". Esto significa que puede usar, copiar y comapartir &brandShortName; con otras personas. También tiene la posibilidad de modificar el código fuente de &brandShortName; como desee para que se ajuste a sus necesidades [Pamela sugiere: como desee a fin de que este se ajuste a sus necesidades]. La Licencia Pública de Mozilla también le otorga el derecho a distribuir esas versiones modificadas.">
+<!ENTITY rights.intro-point1c ". Esto significa que puede usar, copiar y compartir &brandShortName; con otras personas. También tiene la posibilidad de modificar el código fuente de &brandShortName; como desee a fin de que éste se ajuste a sus necesidades. La Licencia Pública de Mozilla también le otorga el derecho a distribuir esas versiones modificadas.">
 
 <!ENTITY rights.intro-point2a "Mozilla no otorga derechos con respecto a las marcas registradas y logos de Mozilla y Firefox. Puede encontrar información adicional sobre las marcas registradas ">
 <!ENTITY rights.intro-point2b "aquí">
