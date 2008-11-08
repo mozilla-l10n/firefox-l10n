@@ -174,9 +174,9 @@
 <!-- Mac OS X Application menu items -->
 <!ENTITY servicesMenuMac.label                             "Tenester">
 <!ENTITY hideThisAppCmdMac.label                           "Gøym &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey                      "G">
+<!ENTITY hideThisAppCmdMac.commandkey                      "H">
 <!ENTITY hideThisAppCmdMac.modifiers                       "accel">
 <!ENTITY hideOtherAppsCmdMac.label                         "Gøym andre">
-<!ENTITY hideOtherAppsCmdMac.commandkey                    "G">
+<!ENTITY hideOtherAppsCmdMac.commandkey                    "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers                     "accel,alt">
 <!ENTITY showAllAppsCmdMac.label                           "Vis alle">
