@@ -38,6 +38,9 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (privat surfning)">
 
 <!ENTITY tabCmd.label "Ny flik">
 <!ENTITY tabCmd.accesskey "f">
@@ -189,8 +192,11 @@
 <!ENTITY preferencesCmdUnix.label       "Inställningar">
 <!ENTITY preferencesCmdUnix.accesskey     "I"> 
 
-<!ENTITY clearPrivateDataCmd.label            "Rensa ut känslig data">
-<!ENTITY clearPrivateDataCmd.accesskey        "a">
+<!ENTITY clearRecentHistoryCmd.label            "Rensa ut tidigare historik">
+<!ENTITY clearRecentHistoryCmd.accesskey        "a">
+
+<!ENTITY privateBrowsingCmd.label            "Privat surfning">
+<!ENTITY privateBrowsingCmd.accesskey        "P">
 
 <!ENTITY viewMenu.label         "Visa"> 
 <!ENTITY viewMenu.accesskey       "s"> 
@@ -451,3 +457,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Mer information…">
 
 <!ENTITY downloadMonitor2.tooltip "Klicka för att öppna filhämtningsfönstret">
+
+<!ENTITY ctrlTab.search.emptyText "Sök flikar">
