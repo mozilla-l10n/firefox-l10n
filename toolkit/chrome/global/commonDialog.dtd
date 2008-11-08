@@ -1,9 +1,9 @@
 <!ENTITY header.label "Teitl Byr">
-<!ENTITY message.label "Mae peth testun enghreifftiol yn mynd yma.">
+<!ENTITY message.label "Mae peth Testun enghreifftiol yn mynd yma.">
 <!ENTITY editfield0.label "Enw Defnyddiwr:">
 <!ENTITY editfield1.label "Cyfrinair:">
 <!ENTITY editfield2.label "Cadarnhau Cyfrinair:">
-<!ENTITY checkbox.label "gwirio">
+<!ENTITY checkbox.label "tic">
 <!ENTITY copyCmd.label "Copïo">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "Dewis Popeth">

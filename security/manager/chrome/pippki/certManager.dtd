@@ -129,7 +129,7 @@
 <!ENTITY certmgr.fields.accesskey "G">
 <!ENTITY certmgr.hierarchy.label "Hierarchaeth Tystysgrifau">
 <!ENTITY certmgr.hierarchy.accesskey "H">
-<!ENTITY certmgr.addException.label "Ychwaegu Eithriad...">
+<!ENTITY certmgr.addException.label "Ychwanegu Eithriad...">
 <!ENTITY certmgr.addException.accesskey "e">
 
 <!ENTITY exceptionMgr.title "Ychwanegu Eithriad Diogelwch">

@@ -9,11 +9,11 @@
 <!ENTITY location.accesskey "T">
 <!ENTITY useCurrentPage.label "Tudalen Bresennol">
 <!ENTITY useCurrentPage.accesskey "T">
-<!ENTITY useMultiple.label "Tudalennau Presennol">
+<!ENTITY useMultiple.label "Tudalen Bresennol">
 <!ENTITY useBookmark.label "Nod Tudalen">
 <!ENTITY useBookmark.accesskey "N">
-<!ENTITY restoreDefault.label "Adfer i'r Rhagosodedig">
-<!ENTITY restoreDefault.accesskey "A">
+<!ENTITY restoreDefault.label "Rhagosodedig">
+<!ENTITY restoreDefault.accesskey "R">
 
 <!ENTITY downloads.label "Llwytho i Lawr">
 
@@ -33,5 +33,5 @@
 <!ENTITY addonsMgr.label "Ychwanegion">
 <!ENTITY manageAddonsDescWin.label "Newid dewisiadau eich ychwanegion">
 <!ENTITY manageAddonsDescUnix2.label "Newid dewisiadau ar gyfer eich ychwanegion">
-<!ENTITY manageAddons.label "Rheoli chwanegion...">
+<!ENTITY manageAddons.label "Rheoli Ychwanegion...">
 <!ENTITY manageAddons.accesskey "R">

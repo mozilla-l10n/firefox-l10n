@@ -60,9 +60,9 @@
 <!ENTITY copyCmd.accesskey "O">
 <!ENTITY copyCmd.commandkey "C">
 <!ENTITY sortFirst.label "Yn ôl trefn Cyntaf i Olaf">
-<!ENTITY sortFirst.accesskey "y">
+<!ENTITY sortFirst.accesskey "Y">
 <!ENTITY sortLast.label "Yn ôl trefn Olaf i Cyntaf">
-<!ENTITY sortLast.accesskey "o">
+<!ENTITY sortLast.accesskey "O">
 <!ENTITY closeCmd.commandkey "w">
 <!ENTITY focus1.commandkey "l">
 <!ENTITY focus2.commandkey "d">

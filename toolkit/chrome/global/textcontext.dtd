@@ -1,15 +1,15 @@
 <!ENTITY cutCmd.label "Torri">
 <!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Copïo">
-<!ENTITY copyCmd.accesskey "c">
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "Gludo">
-<!ENTITY pasteCmd.accesskey "g">
+<!ENTITY pasteCmd.accesskey "G">
 <!ENTITY undoCmd.label "Dadwneud">
-<!ENTITY undoCmd.accesskey "d">
+<!ENTITY undoCmd.accesskey "D">
 <!ENTITY selectAllCmd.label "Dewis y Cyfan">
-<!ENTITY selectAllCmd.accesskey "e">
+<!ENTITY selectAllCmd.accesskey "E">
 <!ENTITY deleteCmd.label "Dileu">
-<!ENTITY deleteCmd.accesskey "l">
+<!ENTITY deleteCmd.accesskey "L">
 
 <!ENTITY spellAddToDictionary.label "Ychwanegu at y Geiriadur">
 <!ENTITY spellAddToDictionary.accesskey "y">
@@ -17,4 +17,4 @@
 <!ENTITY spellCheckEnable.accesskey "S">
 <!ENTITY spellNoSuggestions.label "(Dim Awgrymiadau Sillafu)">
 <!ENTITY spellDictionaries.label "Ieithoedd">
-<!ENTITY spellDictionaries.accesskey "i">
+<!ENTITY spellDictionaries.accesskey "I">

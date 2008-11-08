@@ -1,8 +1,11 @@
 <!ENTITY aboutDialog.title "Ynghylch &brandFullName;">
 <!ENTITY copyright "Diolchiadau">
 <!ENTITY copyright.accesskey "D">
+<!ENTITY copyrightGNOME.accesskey "o">
 <!ENTITY aboutLink "&lt; Ynghylch &brandFullName;">
 <!ENTITY aboutLink.accesskey "Y">
 <!ENTITY aboutVersion "fersiwn">
+<!ENTITY closeCmdGNOME.label "Cau">
+<!ENTITY closeCmdGNOME.accesskey "C">
 <!ENTITY copyrightInfo "&#169;1998-2008 Cyfranwyr. Cedwir Pob Hawl. Mae Firefox a logos 
 Firefox yn nodau masnach y Mozilla Foundation.  Cedwir pob hawl.">

@@ -4,7 +4,7 @@
 <!ENTITY em.width "520">
 <!ENTITY em.height "380">
 
-<!ENTITY cmd.info.commandKey "i">
+<!ENTITY cmd.info.commandKey "g">
 <!ENTITY cmd.options.commandKey ",">
 <!ENTITY cmd.close.commandKey "w">
 <!-- View labels -->
@@ -22,7 +22,7 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey "C">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Canfod Diweddariadau i'ch Ychwanegyn">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Canfod Diweddariadau i'ch Themâu">
-<!ENTITY cmd.installLocalFile.label "Gosod">
+<!ENTITY cmd.installLocalFile.label "Gosod...">
 <!ENTITY cmd.installLocalFile.accesskey "g">
 <!ENTITY cmd.installFileAddon.tooltip "Gosod Ychwanegyn">
 <!ENTITY cmd.installFileTheme.tooltip "Gosod Thema">
@@ -42,7 +42,7 @@
 <!ENTITY cmd.enableAll.label "Galluogi Popeth">
 <!ENTITY cmd.enableAll.accesskey "p">
 <!ENTITY cmd.enableAll.tooltip "Galluogi pob Ychwanegyn">
-<!ENTITY cmd.disableAll.label "Aalluogi Popeth">
+<!ENTITY cmd.disableAll.label "Analluogi Popeth">
 <!ENTITY cmd.disableAll.accesskey "a">
 <!ENTITY cmd.disableAll.tooltip "Analluogi pob Ychwanegyn">
 <!-- Displayed in the selected Add-on's richlistitem and context menu -->
@@ -80,7 +80,7 @@
 <!ENTITY cmd.showUpdateInfo.label "Dangos Gwybodaeth">
 <!ENTITY cmd.showUpdateInfo.accesskey "D">
 <!ENTITY cmd.showUpdateInfo.tooltip "Dangos rhagor o wybodaeth am y diweddariadau">
-<!ENTITY cmd.hideUpdateInfo.label "Cuddio gwybodaeth">
+<!ENTITY cmd.hideUpdateInfo.label "Cuddio Gwybodaeth">
 <!ENTITY cmd.hideUpdateInfo.accesskey "C">
 <!ENTITY cmd.hideUpdateInfo.tooltip "Cuddio gwybodaeth am y diweddariadau">
 <!ENTITY cmd.installSearchResult.label "Ychwanegu at &brandShortName;…">
@@ -111,7 +111,8 @@
 
 <!ENTITY insecureUpdate.label "Nid yw'n darparu diweddariadau diogel.">
 <!ENTITY needsDependencies.label "Mae amgen eitemau ychwanegol">
-<!ENTITY blocklisted.label "Anablu eich diogelwch">
+<!ENTITY blocklisted.label "Anablu er eich diogelwch.">
+<!ENTITY softBlocklisted.label "Yn hysbys ei fod yn achosi pryder diogelwch a sefydlogrwydd.">
 <!ENTITY toBeDisabled.label "Bydd yr ychwanegyn yn cael ei anablu pan fydd &brandShortName; wedi ei ailgychwyn.">
 <!ENTITY toBeEnabled.label "Bydd yr ychwanegyn yn cael ei alluogi pan fydd &brandShortName; wedi ei ailgychwyn.">
 <!ENTITY toBeInstalled.label "Bydd yr ychwanegyn wedi ei osod pan fydd &brandShortName; wedi ei ailgychwyn.">
@@ -125,19 +126,19 @@
 <!ENTITY searchAddons.label "Chwilio Pob Ychwanegyn">
 <!ENTITY browseAddons.label "Pori Pob Ychwanegyn">
 <!ENTITY searchFailed.label "Methodd &brandShortName; ag estyn ychwanegion">
-<!ENTITY recommendedHeader.label "Argymhellir">
-<!ENTITY recommendedThrobber.label "Estyn ychwanegion argymellir">
+<!ENTITY recommendedHeader.label "Cymeradwy">
+<!ENTITY recommendedThrobber.label "Estyn ychwanegion cymeradwy">
 <!ENTITY searchThrobber.label "Chwilio'r ychwanegion">
 <!ENTITY resetSearch.label "Clirio'r Canlyniadau">
 <!ENTITY noSearchResults.label "Mae pob canlyniad wedi eu gosod neu yn anghymarus">
-<!ENTITY noRecommendedResults.label "Mae pob argymhelliad wedi eu gosod neu yn anghymarus">
+<!ENTITY noRecommendedResults.label "Mae pob un cymeradwy wedi ei osod neu yn anghymarus">
 <!ENTITY emptySearch.label "Dim ychwanegion cymharus">
 <!ENTITY emptySearch.button "Iawn">
 <!ENTITY cancelSearch.button "Diddymu">
 <!ENTITY searchFailed.button "Iawn">
 <!ENTITY searchResultHomepage.value "Dysgu Mwy">
 <!ENTITY searchBox.label "Chwilio'r Holl Ychwanegion">
-<!ENTITY recommendedResults.label "Gweld yr holl Ychwanegion Argymhellir">
+<!ENTITY recommendedResults.label "Gweld yr Holl Ychwanegion Cymeradwy">
 <!ENTITY searchResultConnecting.label "Cysylltu...">
 <!ENTITY searchResultInstalling.label "Gosod...">
 <!ENTITY searchResultFailed.label "Methodd y Gosod">
@@ -148,7 +149,7 @@
 
 <!ENTITY previewNoThemeSelected.label "Heb Ddewis Thema">
 <!ENTITY previewNoPreviewImage.label "Nid oes gan y Thema Ddelwedd Rhagolwg">
-<!ENTITY moreInfo.label "Rhagor o wybodaeth">
+<!ENTITY moreInfo.label "Rhagor o Wybodaeth">
 <!ENTITY infoNoAddonSelected.label "Heb Ddewis Diweddariad">
 <!ENTITY infoNoUpdateInfo.label "Nid oes gwybodaeth ychwanegol gan y diweddariad">
 <!ENTITY infoUpdateInfoError.label "Bu gwall wrth lwytho gwybodaeth am y diweddariad">
@@ -158,7 +159,7 @@
 <!ENTITY installSuccessRestart.label "Ailgychwyn i gwblhau'r gosod.">
 <!ENTITY updateSuccessRestart.label "Ailgychwyn i gwblhau'r diweddariad.">
 <!ENTITY installWaiting.label "Aros...">
-<!ENTITY installIncompatibleUpdate.label "Gwirio cydnawsedd">
+<!ENTITY installIncompatibleUpdate.label "Gwirio cydnawsedd...">
 <!ENTITY installFinishing.label "Gosod...">
 <!ENTITY installFailure.label "Methodd y gosod.">
 
@@ -168,3 +169,6 @@
 <!ENTITY eula.width "560px">
 <!ENTITY eula.height "400px">
 <!ENTITY eula.accept "Derbyn a Gosod...">
+
+<!ENTITY blocklist.blocked.label "Rhwystrwyd">
+<!ENTITY blocklist.checkbox.label "Analluogi">

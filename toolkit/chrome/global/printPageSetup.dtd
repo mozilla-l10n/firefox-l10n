@@ -47,7 +47,7 @@
 <!ENTITY hfPage "Tudalen #">
 <!ENTITY hfPageAndTotal "Tudalen # o #">
 <!ENTITY hfBlank "--gwag--">
-<!ENTITY hfCustom "Addasu">
+<!ENTITY hfCustom "Addasu...">
 
 <!ENTITY customPrompt.title "Addasu...">
 <!ENTITY customPrompt.prompt "Rhowch destun pennawd /troedyn">

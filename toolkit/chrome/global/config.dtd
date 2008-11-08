@@ -38,15 +38,14 @@
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 
-<!ENTITY aboutWarningTitle.label "Gall hyn ddiddymu eich gwarant!">
+<!ENTITY aboutWarningTitle.label "Mae dreigiau yma!">
 <!ENTITY aboutWarningText.label "Gall newid y gosodiadau uwch wneud niwed i sefydlogrwydd a pherfformiad y rhaglen. Dylech barhau dim ond os ydych yn gwybod beth rydych yn ei wneud.">
 <!ENTITY aboutWarningButton.label "Bydda i'n ofalus, rwy'n addo!">
 <!ENTITY aboutWarningCheckbox.label "Dangos y rhybudd y tro nesaf">
 
 <!ENTITY filterPrefs.label "Hidl:">
 <!ENTITY filterPrefs.accesskey "H">
-<!ENTITY showAll.label "Dangos y Cyfan">
-<!ENTITY showAll.accesskey "D">
+<!ENTITY focusFilter.key "h">
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "Enw'r Dewis">

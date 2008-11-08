@@ -21,3 +21,5 @@
 <!ENTITY pluginWizard.finalPage.restart.label "Mae &brandShortName; angen ei ailgychwyn i'r ategyn(nau) weithio.">
   
 <!ENTITY missingPlugin.label "Cliciwch yma i lwytho ategyn i lawr.">
+<!ENTITY disabledPlugin.label "Mae’r ategyn ar gyfer y cynnwys wedi ei anablu. Cliciwch yma i reoli eich ategynnau.">
+<!ENTITY blockedPlugin.label "Mae'r ategyn wedi ei rwystro er eich diogelwch.">

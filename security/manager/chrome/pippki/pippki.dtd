@@ -47,11 +47,11 @@
 
 <!ENTITY resetPasswordButtonLabel "Ailosod">
 <!ENTITY resetPassword.title "Ailosod Prif Gyfrinair">
-<!ENTITY resetPassword.text "Os byddwch yn ailosod eich prif gyfrinair, bydd eich cyfrineiriau gwe ac e-bost, data ffurflen, tystysgrifau personol ac allweddi preifat sydd wedi eu cadw'n cael eu colli. Ydych chi'n s">
+<!ENTITY resetPassword.text "Os byddwch yn ailosod eich prif gyfrinair, bydd eich cyfrineiriau gwe ac e-bost, data ffurflen, tystysgrifau personol ac allweddi preifat sydd wedi eu cadw'n cael eu colli. Ydych chi'n siŵr eich bod eisiau ailosod eich prif gyfrinair?">
 <!-- Values for getpassword.xul -->
 
 <!ENTITY getPassword.title "Rhoi Prif Gyfrinair">
-<!ENTITY getPassword.tokenName.label "Dyfais Diogelwch">
+<!ENTITY getPassword.tokenName2.label "Dyfais Diogelwch">
 <!ENTITY getPassword.password.label "Cyfrinair:">
 <!-- These should be common -->
 
@@ -129,3 +129,7 @@
 <!ENTITY protectedAuth.title "Dilysu Tocyn Diogel">
 <!ENTITY protectedAuth.msg "Dilyswch i'r tocyn. Mae dulliau dilysu'n dibynnu ar y math o docyn.">
 <!ENTITY protectedAuth.tokenName.label "Tocyn:">
+
+<!ENTITY certErrorDlg.title "Methodd y Cysylltiad Diogel">
+<!ENTITY certErrorDlg.info1 "Gall fod yn anhawster gyda ffurfweddiad y gweinydd neu fod rhywun yn ceisio ffugio bod y gweinydd.">
+<!ENTITY certErrorDlg.info2 "Os ydych wedi cysylltu'n llwyddiannus â'r gweinydd yn y gorffennol gall fod yn wall dros dro a gallwch geisio rhywbryd eto.">

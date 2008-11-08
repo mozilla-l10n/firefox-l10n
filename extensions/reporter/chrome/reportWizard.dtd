@@ -1,5 +1,5 @@
 <!-- Entities for the Sample Extension Options Dialog go here -->
-<!ENTITY reportWizard.title "Adrodd ar Gwefan Wedi Torri">
+<!ENTITY reportWizard.title "Adrodd ar Wefan Wedi Torri">
 
 <!ENTITY privacyNotice.label "Polisi Preifatrwydd">
 <!ENTITY reportWizardPrivacy.description "Mae'r offeryn yn caniatáu i chi ddweud wrth yr Evangelism Team am wefannau nad ydynt yn gweithio'n iawn gyda &brandShortName;, neu sy'n cau &brandShortName; allan. Dyma'ch ffordd chi i'n helpu ni i sicrhau'r profiad gorau i ddefnyddwyr brandShortNam">

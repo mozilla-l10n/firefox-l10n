@@ -39,6 +39,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.clearList.tooltip "Tynnu llwythi cyflawn, anghyflawn a methiannau o'r rhestr">
 <!ENTITY cmd.clearList.accesskey "R">
 <!ENTITY cmd.find.commandKey "m">
+<!ENTITY cmd.search.commandKey "k">
 
 <!ENTITY closeWhenDone.label "Cau pan fydd y llwytho i lawr wedi ei gwblhau">
 <!ENTITY closeWhenDone.tooltip "Cau ffenestri Llwytho i Lawr pan mae'r holl ffeiliau wedi eu cwblhau">

@@ -1,13 +1,14 @@
 <!ENTITY window.title "Eithriadau">
 <!ENTITY window.width "36em">
 
-<!ENTITY treehead.sitename.label "Safle">
+<!ENTITY treehead.sitename.label "Gwefan">
 <!ENTITY treehead.status.label "Statws">
-<!ENTITY removepermission.label "Diddymu'r wefan">
+<!ENTITY removepermission.label "Diddymu'r Wefan">
 <!ENTITY removepermission.accesskey "D">
 <!ENTITY removeallpermissions.label "Diddymu Pob Gwefan">
 <!ENTITY removeallpermissions.accesskey "p">
 <!ENTITY address.label "Cyfeiriad y wefan:">
+<!ENTITY address.accesskey "f">
 <!ENTITY block.label "Rhwystro">
 <!ENTITY block.accesskey "R">
 <!ENTITY session.label "Caniatáu ar gyfer y Sesiwn">
