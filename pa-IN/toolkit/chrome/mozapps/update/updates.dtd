@@ -4,6 +4,7 @@
 <!ENTITY  window.macWidth                 "39em">
 
 <!ENTITY  checking.title                  "ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
+<!ENTITY  updateCheck.label               "Looking for newer versions of &brandShortName;…">
 
 <!ENTITY  noupdatesfound.title            "ਕੋਈ ਅੱਪਡੇਟ ਨਹੀਂ ਮਿਲਿਆ ਹੈ">
 <!ENTITY  noupdatesautoenabled.intro      "There are no updates available. &brandShortName; will check
@@ -11,8 +12,14 @@
 <!ENTITY  noupdatesautodisabled.intro     "There are no updates available. Please check again later or enable
                                            &brandShortName;'s automatic update checking.">
 
+
+<!ENTITY  incompatibleCheck.title         "Checking Add-on Compatibility">
+<!ENTITY  incompatibleCheck.label         "Looking for newer versions of your add-ons…">
+
 <!ENTITY  clickHere.label                 "ਇਸ ਅੱਪਡੇਟ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਪਰਾਪਤ ਕਰਨ ਲਈ ਇੱਥੇ ਦਬਾਉ">
 
+<!ENTITY  evangelism.desc                 "It is strongly recommended that you apply this 
+                                           update for &brandShortName; as soon as possible.">
 
 <!ENTITY  license.instructions            "ਜੇਕਰ ਤੁਸੀਂ ਇਹਨਾਂ ਸ਼ਰਤਾਂ ਨਾਲ ਸਹਿਮਤ ਹੋ ਤਾਂ ਇਸ ਅੱਪਡੇਟ ਨੂੰ ਜਾਰੀ ਰੱਖਣ ਲਈ ਮੈਂ ਸਹਿਮਤ ਹਾਂ ਨੂੰ ਦਬਾਉ।">
 
@@ -24,12 +31,16 @@
 <!ENTITY  license.decline                 "ਮੈਂ ਲਾਈਸੈਂਸ ਇਕਰਾਰਨਾਮੇ ਨਾਲ ਸਹਿਮਤ ਨਹੀਂ ਹਾਂ">
 <!ENTITY  license.decline.accesskey       "T">
 
+<!ENTITY  incompatibleList.title          "Incompatible Add-ons Found">
 
 
 <!ENTITY  downloading.title               "ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ:">
 <!ENTITY  downloading.intro               "ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ...">
 <!ENTITY  connecting.label                "ਅੱਪਡੇਟ ਸਰਵਰ ਨਾਲ ਜੁੜਿਆ ਜਾ ਰਿਹਾ ਹੈ...">
 <!ENTITY  verificationFailedText.label    "&brandShortName; ਇਸ ਰਾਹੀਂ ਡਾਊਨਲੋਡ ਕੀਤੇ ਆਵਰਤੀ ਅੱਪਡੇਟ ਦੀ ਇਕਸਾਰਤਾ ਚੈਕ ਕਰਨ ਲਈ ਫੇਲ ਹੋਇਆ ਹੈ, ਸੋ ਹੁਣ ਪੂਰਾ ਅੱਪਡੇਟ ਪੈਕੇਜ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ।">
+
+<!ENTITY  viewDetails.tooltip             "View details for this update">
+
 <!ENTITY  details.link                    "ਵੇਰਵਾ">
 
 <!ENTITY  error.label                     "ਇਸ ਅੱਪਡੇਟ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਦੌਰਾਨ ਗਲਤੀ ਹੈ। &brandShortName; ਨੂੰ ਅੱਪਡੇਟ ਨਹੀਂ ਕੀਤਾ ਸਕਿਆ ਹੈ, 
@@ -40,7 +51,13 @@
 <!ENTITY  errorpatching.intro             "ਅਧੂਰੇ ਅੱਪਡੇਟ ਨੂੰ ਲਾਗੂ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ। 
                                             &brandShortName; ਪੂਰੇ ਅੱਪਡੇਟ ਨੂੰ ਮੁੜ ਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ ਕਰੇਗਾ।">
 
-<!ENTITY  finishedBackground.name         "ਅੱਪਡੇਟ:">
+<!ENTITY  finishedPage.title              "Update Ready to Install">
+<!ENTITY  finishedPage.text               "The update will be installed the next time &brandShortName; starts. You 
+                                           can restart &brandShortName; now, or continue working and restart later.">
+
+<!ENTITY  finishedBackgroundPage.text     "A security and stability update for &brandShortName; has been
+                                           downloaded and is ready to be installed.">
+<!ENTITY  finishedBackground.name         "Update:">
 
 
 
@@ -53,4 +70,3 @@
 <!ENTITY  update.details.label            "ਵੇਰਵਾ">
 <!ENTITY  update.installedOn.label        "ਇੰਸਟਾਲ ਕੀਤਾ:">
 <!ENTITY  update.status.label             "ਹਾਲਤ:">
-<!ENTITY  incompatibleChecking.label      "ਚੈੱਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਕੀ ਇਹ ਅੱਪਡੇਟ ਤੁਹਾਡੇ ਐਕਸਟੈਸ਼ਨ ਅਤੇ/ਜਾਂ ਥੀਮ ਲਈ ਸਮੱਸਿਆ ਬਣ ਸਕਦਾ ਹੈ।...">

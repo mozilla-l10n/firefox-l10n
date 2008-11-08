@@ -44,6 +44,7 @@
 
 <!ENTITY filterPrefs.label "ਫਿਲਟਰ:">
 <!ENTITY filterPrefs.accesskey "I">
+<!ENTITY focusFilter.key "f">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "ਮੇਰੀ ਪਸੰਦ ਦਾ ਨਾਂ">

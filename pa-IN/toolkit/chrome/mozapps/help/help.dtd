@@ -22,6 +22,8 @@
 <!ENTITY printButton.tooltip            "ਇਹ ਪੇਜ਼ ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY closeWindow.commandkey         "W">
 
+<!ENTITY search.emptytext               "Search">
+<!ENTITY searchHeader.label             "Search results">
 <!ENTITY toctab.label                   "ਸਮੱਗਰੀ">
 <!ENTITY toctab.accesskey               "C">
 

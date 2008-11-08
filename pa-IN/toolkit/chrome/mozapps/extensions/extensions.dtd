@@ -113,6 +113,7 @@
 <!ENTITY insecureUpdate.label             "ਸੁਰੱਖਿਆ ਅੱਪਡੇਟ ਨਹੀਂ ਦਿੰਦਾ ਹੈ।">
 <!ENTITY needsDependencies.label          "ਹੋਰ ਆਈਟਮਾਂ ਦੀ ਲੋੜ ਹੈ।">
 <!ENTITY blocklisted.label                "ਤੁਹਾਡੀ ਸੁਰੱਖਿਆ ਲਈ ਆਯੋਗ ਹੈ।">
+<!ENTITY softBlocklisted.label            "Known to cause security or stability issues.">
 <!ENTITY toBeDisabled.label               "ਜਦੋਂ &brandShortName; ਮੁੜ-ਚਾਲੂ ਕੀਤੀ ਜਾਵੇਗਾ ਤਾਂ ਇਹ ਐਡ-ਆਨ ਨੂੰ ਆਯੋਗ ਕੀਤਾ ਜਾਵੇਗਾ।">
 <!ENTITY toBeEnabled.label                "ਜਦੋਂ &brandShortName; ਮੁੜ-ਚਾਲੂ ਕੀਤੀ ਜਾਵੇਗਾ ਤਾਂ ਇਹ ਐਡ-ਆਨ ਨੂੰ ਯੋਗ ਕੀਤਾ ਜਾਵੇਗਾ।">
 <!ENTITY toBeInstalled.label              "ਜਦੋਂ &brandShortName; ਮੁੜ-ਚਾਲੂ ਕੀਤੀ ਜਾਵੇਗਾ ਤਾਂ ਇਹ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕੀਤੀ ਜਾਵੇਗੀ।">
@@ -173,3 +174,7 @@
 <!ENTITY installFailure.label             "ਇੰਸਟਾਲ ਫੇਲ੍ਹ ਹੈ">
 
 <!ENTITY progressStatus.label             "ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
+
+
+<!ENTITY blocklist.blocked.label          "Blocked">
+<!ENTITY blocklist.checkbox.label         "Disable">
