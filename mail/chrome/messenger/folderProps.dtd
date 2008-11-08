@@ -52,7 +52,6 @@
 <!ENTITY retention.label "Ivaretaking av meldingar">
 <!ENTITY retentionUseDefault.label  "Bruk tenar-standard">
 <!ENTITY retentionUseDefault.accesskey "B">
-<!ENTITY days.label "dagar">
 <!ENTITY daysOld.label "dagar gamle">
 <!ENTITY message.label "meldingar">
 <!ENTITY retentionCleanup.label "For å spare diskplass kan gamle meldingar slettast permanent">
@@ -76,18 +75,15 @@
 
 <!ENTITY selectofflineNewsgroup.check.label      "Vel denne nyhendegruppa for fråkopla bruk">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "V">
-<!ENTITY UseDefaultofflineNewsgroup.check.label  "Bruk standard fra kontooppsett">
 <!ENTITY offlineNewsgroup.button.label           "Last ned no">
 <!ENTITY offlineNewsgroup.button.accesskey       "L">
 
-<!ENTITY folderProps.information.label           "Informasjon:">
 <!ENTITY folderProps.name.label                  "Namn:">
 <!ENTITY folderProps.name.accesskey              "N">
 <!ENTITY folderProps.location.label              "Adresse:">
 <!ENTITY folderProps.location.accesskey          "L">
 
 <!ENTITY folderSharingTab.label                  "Deling">
-<!ENTITY privilegesDesc.label                    "Del denne og andre mapper med nettverksbrukarar og vis/vel innstillingar for tilgjenge">
 <!ENTITY privileges.button.label                 "Privilegium …">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "Du har følgjande løyve:">

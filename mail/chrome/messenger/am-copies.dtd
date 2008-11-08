@@ -6,13 +6,9 @@
 <!ENTITY fccMailFolder.accesskey "g">
 <!ENTITY fccReplyFollowsParent.label "Legg svar i mappa der den opphavlege meldinga ligg">
 <!ENTITY fccReplyFollowsParent.accesskey "v">
-<!ENTITY chooseFolderButton.label "Vel mappe …">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Send blindkopi (BCC) til desse e-postadressene:">
 <!ENTITY bccAddress.accesskey "b">
-<!ENTITY specialFolderTitle.label "Spesialmapper">
-<!ENTITY draftMailFolder.label "Ta vare på meldingsutkast i:">
-<!ENTITY templateMailFolder.label "Ta vare på meldingsmalar i:">
 <!ENTITY saveMessageDlg.label "Vis stadfestingsdialog når meldingar vert lagra">
 <!ENTITY saveMessageDlg.accesskey "V">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

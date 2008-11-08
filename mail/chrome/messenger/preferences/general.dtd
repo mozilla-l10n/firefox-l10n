@@ -29,7 +29,6 @@
 <!ENTITY customizeMailAlert.label         "Avansert …">
 <!ENTITY customizeMailAlert.accesskey     "A">
 
-<!ENTITY soundNotification1.caption       "Lyd">
 <!ENTITY play.label                       "Spel">
 <!ENTITY play.accesskey                   "p">
 <!ENTITY systemsound.label                "Bruk standardsystemlyden for ny e-post">

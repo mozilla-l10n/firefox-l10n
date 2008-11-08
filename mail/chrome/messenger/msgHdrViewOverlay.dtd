@@ -54,7 +54,6 @@
 <!ENTITY messageIdField2.label "meldings-ID">
 <!ENTITY inReplyToField2.label "som-svar-til">
 <!ENTITY originalWebsite2.label "nettstad">
-<!ENTITY saveAll.label "Lagre alle …">
 
 <!ENTITY editMessageDescription.label "Dette er eit meldingsutkast">
 <!ENTITY editMessageButton.label "Rediger …">

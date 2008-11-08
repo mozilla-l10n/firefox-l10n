@@ -1,8 +1,6 @@
 <!ENTITY itemFormatting.label             "Formatering">
 <!ENTITY itemTags.label                   "Merkelappar">
-<!ENTITY itemFonts.label                  "Skrifttypar">
 
-<!ENTITY textBegin.label                  "Vising av sitert tekst">
 <!ENTITY style.label                      "Stil:">
 <!ENTITY style.accesskey                  "t">
 <!ENTITY regularStyle.label               "Vanleg">
@@ -19,12 +17,10 @@
 <!ENTITY displayWidth.label               "Meldingar i normal tekst">
 <!ENTITY plainText.label                  "Bruk denne skrifttypen:">
 <!ENTITY displayText.label                "Når ein viser sitat i tekstmeldingar:">
-<!ENTITY viewingPlainText.label            "Når ein viser reine tekstmeldingar:">
 <!ENTITY fixedWidth.label                 "Skrifttype med fast breidde">
 <!ENTITY fixedWidth.accesskey             "k">
 <!ENTITY variableWidth.label              "Skrifttype med variabel skriftbreidde">
 <!ENTITY variableWidth.accesskey          "V">
-<!ENTITY readingMessagesHeader.label      "For innkomande meldingar">
 <!ENTITY colors.label                     "Fargar">
 <!ENTITY overrideColors.label             "Når du viser meldingar, bruk følgjande fargar:">
 <!ENTITY textColor.label                  "Tekstfarge:">

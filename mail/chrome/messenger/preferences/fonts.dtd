@@ -6,7 +6,6 @@
 <!ENTITY  language.label                          "Skrifttypar for:">
 <!ENTITY  language.accesskey                      "t">
 
-<!ENTITY  typefaces.label                         "Type">
 <!ENTITY  sizes.label                             "Storleik">
 <!ENTITY  proportionalSize.accesskey              "e">
 <!ENTITY  monospaceSize.accesskey                 "x">
@@ -20,8 +19,6 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Skrift med fast teiknavstand:">
 <!ENTITY  monospace.accesskey                     "m">
-
-<!ENTITY  fontsize.units                          "pikslar">
 
 <!ENTITY  font.langGroup.latin1                   "Vestleg">
 <!ENTITY  font.langGroup.latin2                   "Sentraleuropeisk">
@@ -59,8 +56,6 @@
 <!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
-
-<!ENTITY  newLanguages.label                      "Nye språk kan konfigurerast med Språk-panelet.">
 
 <!ENTITY  useDocumentFonts.label                  "La meldingar bruke andre skrifttypar">
 <!ENTITY  useDocumentFonts.accesskey              "L">

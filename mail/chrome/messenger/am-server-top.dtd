@@ -2,13 +2,6 @@
 
 <!ENTITY securitySettings.label "Innstillingar for sikkerheit">
 <!ENTITY serverSettings.label "Tenarinnstillingar">
-<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
-<!ENTITY popServer.label "Meldingstenar (POP)">
-<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
-<!ENTITY imapServer.label "Meldingstenar (IMAP)">
-<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
-<!ENTITY newsServer.label "Meldingstenar (NNTP)">
-<!ENTITY webmail.label "WebMail-konto">
 <!ENTITY serverType.label "Tenartype:">
 <!ENTITY serverName.label "Tenarnamn:">
 <!ENTITY serverName.accesskey "n">
@@ -50,10 +43,7 @@
 <!ENTITY deleteOnServer2.accesskey "H">
 <!ENTITY downloadOnBiff.label "Last ned nye meldingar automatisk">
 <!ENTITY downloadOnBiff.accesskey "n">
-<!ENTITY hostname.label "Tenarnamn">
 <!ENTITY username.label "Innloggingsnamn">
-<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
-<!ENTITY popServerTitle.label "POP Tenarinformasjon">
 <!ENTITY deleteMessagePrefix.label "Når eg slettar ei melding:">
 <!ENTITY modelMoveToTrash.label "Flytt henne til Bosskorga">
 <!ENTITY modelMoveToTrash.accesskey "B">

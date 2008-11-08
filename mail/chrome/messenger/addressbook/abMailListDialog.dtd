@@ -46,7 +46,6 @@
 <!ENTITY ListDescription.label          "Forklaring:">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Skriv inn e-postadressene her for å leggje dei til i e-postlista.">
-<!ENTITY RemoveButton.label             "Fjern">
 <!ENTITY UpButton.label                 "Flytt opp">
 <!ENTITY DownButton.label               "Flytt ned">
 

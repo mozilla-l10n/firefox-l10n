@@ -1,23 +1,21 @@
 <!ENTITY itemGeneral.label                   "Generelt">
 <!ENTITY itemAutoComplete.label              "Adressering">
 <!ENTITY itemSpellCheck.label                "Stavekontroll">
-<!ENTITY itemSendFormat.label                "Sendeformat">
 
-<!ENTITY forwardReply.label                   "Vidaresending av meldingar">
 <!ENTITY forwardMsg.label                     "Vidaresend meldingar:">
 <!ENTITY forwardMsg.accesskey                 "V">
 <!ENTITY inline.label                         "Innebygd">
 <!ENTITY inline.accesskey                     "I">
 <!ENTITY asAttachment.label                   "Som vedlegg">
-<!ENTITY asAttachment.accesskey               "S">
+<!ENTITY asAttachment.accesskey               "o">
 <!ENTITY addExtension.label                   "legg til filtype i filnamnet">
-<!ENTITY addExtension.accesskey               "f">
+<!ENTITY addExtension.accesskey               "e">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Skrifttype:">
 <!ENTITY font.accesskey                       "p">
 <!ENTITY size.label                           "Storleik:">
-<!ENTITY size.accesskey                       "r">
+<!ENTITY size.accesskey                       "o">
 <!ENTITY fontColor.label                      "Tekstfarge:">
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Bakgrunnsfarge:">
@@ -25,7 +23,6 @@
 <!ENTITY restoreHTMLDefaults.label            "Gjennopprett standardinnstillingar">
 <!ENTITY restoreHTMLDefaults.accesskey        "G">
 
-<!ENTITY sendingMessagesHeader.label          "Meldingsskriving">
 <!ENTITY spellCheck.label                     "Køyr stavekontroll før meldingar vert sendte">
 <!ENTITY spellCheck.accesskey                 "K">
 <!ENTITY spellCheckInline.label               "Kontroller staving medan du skriv">
@@ -39,13 +36,9 @@
 <!ENTITY autoSave.label                       "Automatisk lagring kvart">
 <!ENTITY autoSave.accesskey                   "u">
 <!ENTITY autoSaveEnd.label                    "minutt">
-<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
-<!ENTITY wrapOutMsg.label                     "Bryt tekstmeldingar ved">
-<!ENTITY wrapOutMsg.accesskey                 "l">
-<!ENTITY char.label                           "teikn">
 
-<!ENTITY emailCollectionPicker.label           "Legg utgåande e-postmeldingar til automatisk i min:">
-<!ENTITY emailCollectionPicker.accesskey       "t">
+<!ENTITY emailCollectionPicker.label           "Automatisk legg sendt e-post til i::">
+<!ENTITY emailCollectionPicker.accesskey       "A">
 <!ENTITY addressingTitle.label                 "Automatisk adressefullføring">
 <!ENTITY autocompleteText.label                "Ved adressering av meldingar, sjå etter samsvarande adresser i">
 <!ENTITY addressingEnable.label                "Lokale adressebøker">
@@ -55,10 +48,7 @@
 <!ENTITY directoriesNone.label                 "Ingen">
 <!ENTITY editDirectories.label                 "Rediger katalogar …">
 <!ENTITY editDirectories.accesskey             "E">
-<!ENTITY matchText.label                       "Om det er eit treff i lokale adressebøker:">
-<!ENTITY skipDirectory.label                   "Ikkje søk i katalogen">
 
-<!ENTITY sendOptionsCaption.label              "Sending- og HTML-innstillingar">
 <!ENTITY sendOptionsDescription.label          "Konfigurer åtferda til tekstformatet">
 <!ENTITY sendOptions.label                     "Sendeinnstillingar …">
 <!ENTITY sendOptions.accesskey                 "S">

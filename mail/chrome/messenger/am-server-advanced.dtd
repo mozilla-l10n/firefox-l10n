@@ -1,6 +1,4 @@
 <!ENTITY serverAdvanced.label "Avanserte kontoinnstillingar">
-<!-- LOCALIZATION NOTE (imapAdvanced.label): Do not translate "IMAP" -->
-<!ENTITY imapAdvanced.label "Avanserte IMAP-tenarinnstillingar">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP-tenarkatalog:">
 <!ENTITY serverDirectory.accesskey "T">
@@ -23,7 +21,6 @@
 <!ENTITY overrideNamespaces.label "Tillat tenaren å overstyre desse namneromma">
 <!ENTITY overrideNamespaces.accesskey "A">
 <!ENTITY pop3Desc.label "Nye meldingar lasta ned frå POP3-tenaren skal lagrast i denne mappa:" >
-<!ENTITY folderStorage.label "Kvar skal e-posten lagrast?">
 <!ENTITY globalInbox.label "Global innboks («Lokale mapper»-kontoen)">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Innboksen i kontoen til denne tenaren">

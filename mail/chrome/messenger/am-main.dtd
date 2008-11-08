@@ -3,7 +3,6 @@
 <!ENTITY accountTitle.label "Kontoinnstillingar">
 <!ENTITY accountName.label "Kontonamn:">
 <!ENTITY accountName.accesskey "K">
-<!ENTITY accountNameDesc.label "Kontonamnet identifiserer kvar konto">
 <!ENTITY identityTitle.label "Standardidentitet">
 <!ENTITY identityDesc.label "Kvar konto kan ha sin eigen identitet, som er den informasjonen andre personar ser når dei les meldingar du har sendt.">
 <!ENTITY name.label "Namn:">

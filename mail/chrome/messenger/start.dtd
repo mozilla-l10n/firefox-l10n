@@ -41,5 +41,3 @@
    <a href='https://nn-NO.add-ons.mozilla.com/nn-NO/firefox/2.0/dictionaries/'>addons.mozilla.org</a>.
    Bruk følgjande lenkje for å installere norske ordlister: 
    <a href='http://firefox.no/nb-no_nn-no-dictionary.xpi' onclick='installDic(this);return false'>Ordliste for Norsk Nynorsk og Bokmål</a>.<br /><br /></p>">
-
-<!ENTITY startpage.poweredByGecko "Brukar Gecko-teknologi.">

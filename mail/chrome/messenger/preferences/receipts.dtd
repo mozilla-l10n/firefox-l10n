@@ -1,5 +1,4 @@
 <!ENTITY dialog.title                  "Kvitteringar">
-<!ENTITY receiptSettings.label         "Kvitteringar">
 <!ENTITY requestReceipt.label          "Spør alltid etter kvittering ved sending av e-post">
 <!ENTITY requestReceipt.accesskey      "V">
 <!ENTITY receiptArrive.label           "Når ei kvittering vert motteken:">

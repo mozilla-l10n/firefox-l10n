@@ -75,7 +75,6 @@
 <!ENTITY editRewrapCmd.key "T">
 <!ENTITY editRewrapCmd.accesskey "B">
 <!ENTITY deleteCmd.label "Slett">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "S">
 <!ENTITY selectAllCmd.label "Merk alt">
 <!ENTITY selectAllCmd.key "A">
@@ -98,7 +97,6 @@
 <!ENTITY viewToolbarsMenuNew.label "Verktøylinjer"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "V"> 
 <!ENTITY showCompositionToolbarCmd.label "Forfattarlinje">
-<!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "Formateringslinje">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Statuslinje">
@@ -173,7 +171,6 @@
 <!ENTITY accountManagerCmd.accesskey "K">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
 <!ENTITY preferencesCmd.label "Innstillingar …">
-<!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "I">
 <!ENTITY preferencesCmdUnix.label       "Innstillingar">
 <!ENTITY preferencesCmdUnix.accesskey   "n"> 
@@ -220,10 +217,6 @@
 <!ENTITY attachments.accesskey "d">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
-<!ENTITY formatToolbar.boldChar "F">
-<!ENTITY formatToolbar.italicChar "K">
-<!ENTITY formatToolbar.underlineChar "U">
 <!ENTITY SmileButton.tooltip "Set inn smilefjes">
 <!ENTITY smiley1Cmd.label "Smil">
 <!ENTITY smiley2Cmd.label "Rynker panna">
