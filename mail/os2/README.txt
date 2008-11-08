@@ -1,23 +1,23 @@
+Ôªø================================================================================
+= = = = = = = = = = = = =   Leia-me do Thunderbird  = = = = = = = = = = = = = = 
 ================================================================================
-= = = = = = = = = = = = =   Leia-me do Thunderbird  = = = = = = = = = = = = = = =
-================================================================================
 
-O Thunderbird est· sujeito aos termos em detalhe na licenÁa que o acompanha.
+O Thunderbird est√° sujeito aos termos em detalhe na licen√ßa que o acompanha.
 
-Este ficheiro Read Me contÈm informaÁıes sobre os requisitos de sistema e
-instruÁıes de instalaÁ„o e compilaÁ„o do Thunderbird para OS/2.
+Este ficheiro Read Me cont√©m informa√ß√µes sobre os requisitos de sistema e
+instru√ß√µes de instala√ß√£o e compila√ß√£o do Thunderbird para OS/2.
 
-Para mais informaÁıes sobre o Thunderbird, visite
+Para mais informa√ß√µes sobre o Thunderbird, visite
 	http://www.mozilla.org/products/thunderbird/.
 
-Para mais informaÁ„o sobre a porta OS/2 visite http://www.mozilla.org/ports/os2.
+Para mais informa√ß√£o sobre a porta OS/2 visite http://www.mozilla.org/ports/os2.
 
-Para submeter erros ou sugestıes visite o Bugzilla em
+Para submeter erros ou sugest√µes visite o Bugzilla em
 	https://bugzilla.mozilla.org
-para links para erros conhecidos, guias para a notificaÁ„o de novos erros, e
-muito mais. Pode tambÈm obter ajuda com o Bugzilla utilizando o seu cliente de
+para links para erros conhecidos, guias para a notifica√ß√£o de novos erros, e
+muito mais. Pode tamb√©m obter ajuda com o Bugzilla utilizando o seu cliente de
 IRC para ir ao canal #mozillazine no servidor irc.mozilla.org. Problemas
-especÌficos do OS/2 s„o discutidos no canal #warpzilla e na lista de discuss„o
+espec√≠ficos do OS/2 s√£o discutidos no canal #warpzilla e na lista de discuss√£o
 netscape.public.mozilla.os2 no news.mozilla.org e em outros servidores de
 
 
@@ -25,60 +25,60 @@ netscape.public.mozilla.os2 no news.mozilla.org e em outros servidores de
                           Como Obter o Thunderbird
 ================================================================================
 
-As compilaÁıes Milestone oficiais do Thunderbird est„o publicadas na p·gina de
-lanÁamentos em
+As compila√ß√µes Milestone oficiais do Thunderbird est√£o publicadas na p√°gina de
+lan√ßamentos em
 
   http://www.mozilla.org/products/thunderbird/releases/
 
-Os lanÁamentos para OS/2 n„o s„o criados pela equipa do Mozilla.org e podem
-aparecer na p·gina http://www.mozilla.org/ports/os2 antes de aprarecerem na
-p·gina dos lanÁamentos. Tenha a certeza que de lÍ todas as notas de lanÁamento
-do Thunderbird ligadas ‡ p·gina de lanÁamentos para informaÁıes sobre os erros
-conhecidos e questıes de instalaÁ„o Thunderbird.
+Os lan√ßamentos para OS/2 n√£o s√£o criados pela equipa do Mozilla.org e podem
+aparecer na p√°gina http://www.mozilla.org/ports/os2 antes de aprarecerem na
+p√°gina dos lan√ßamentos. Tenha a certeza que de l√™ todas as notas de lan√ßamento
+do Thunderbird ligadas √† p√°gina de lan√ßamentos para informa√ß√µes sobre os erros
+conhecidos e quest√µes de instala√ß√£o Thunderbird.
 
 
 ================================================================================
-                        Requerimentos do sistema para OS/2
+                        Requisitos do sistema para OS/2
 ================================================================================
 
-- Este lanÁamento requer DLLs de execuÁ„o C actualizadas (libc-0.5.1) do
+- Este lan√ßamento requer DLLs de execu√ß√£o C actualizadas (libc-0.5.1) do
 	http://www.innotek.de/products/gccos2/download/gccos2download_e.html
-para que possa ser executado. Por pre-definiÁ„o as rotinas de instalaÁ„o s„o 
-instaladas em \OS2\DLL na sua drive de arranque (bootdrive), mas pode coloc·-las 
-na mesma directoria do execut·vel do Thunderbird, ou no LIBPATH do seu sistema.
+para que possa ser executado. Por pre-defini√ß√£o as rotinas de instala√ß√£o s√£o 
+instaladas em \OS2\DLL na sua drive de arranque (bootdrive), mas pode coloc√°-las 
+na mesma directoria do execut√°vel do Thunderbird, ou no LIBPATH do seu sistema.
 
-- Requisitos mÌnimos de hardware
+- Requisitos m√≠nimos de hardware
   + Processador Pentium class
-  + 64 MiB RAM mais 64 MiB de espaÁo swap livre
-  + 35 MiB de espaÁo em disco livres para a instalaÁ„o mais espaÁo de
+  + 64 MiB RAM mais 64 MiB de espa√ßo swap livre
+  + 35 MiB de espa√ßo em disco livres para a instala√ß√£o mais espa√ßo de
   armazenamento para a cache do disco
 
-- Hardware recomendado para um desempenho aceit·vel
+- Hardware recomendado para um desempenho aceit√°vel
   + 500 MHz de processador
-  + 256 MiB RAM mais 64 MiB de espaÁo swap livre
+  + 256 MiB RAM mais 64 MiB de espa√ßo swap livre
     NOTA: O desempenho e a estabilidade do Thunderbird aumenta quanto mais
-    memÛria RAM estiver disponÌvel. Especialmente para sessıes longas
-    512 MiB de memÛria È recomendado.
-  + Placa gr·fica e driver capaz de mostrar mais de 256 cores
+    mem√≥ria RAM estiver dispon√≠vel. Especialmente para sess√µes longas
+    512 MiB de mem√≥ria √© recomendado.
+  + Placa gr√°fica e driver capaz de mostrar mais de 256 cores
 
 - Requisitos de software
-  + InstalaÁ„o num sistema de ficheiros que suporte nomes de ficheiros longos
-    (ex. HPFS ou JFS mas n„o FAT)
+  + Instala√ß√£o num sistema de ficheiros que suporte nomes de ficheiros longos
+    (ex. HPFS ou JFS mas n√£o FAT)
   + OS/2 Warp 4 com Fixpack 15 ou posterior
-  + MPTS vers„o 5.3
-  + TCP/IP vers„o 4.1
+  + MPTS vers√£o 5.3
+  + TCP/IP vers√£o 4.1
   + INETVER: SOCKETS.SYS=5.3007, AFOS2.SYS=5.3001, AFINET.SYS=5.3006
-    NOTA: N„o tente utilizar MPTS & TCP/IP com versıes abaixo dos nÌveis
+    NOTA: N√£o tente utilizar MPTS & TCP/IP com vers√µes abaixo dos n√≠veis
     INETVER. Apesar de o Thunderbird aparentemente iniciar e correr normalmente
     com estes stacks mais antigos, algumas funcionalidades que o Thunderbird
-    necessita ainda n„o est„o implementadas correctamente em versıes MPTS
+    necessita ainda n√£o est√£o implementadas correctamente em vers√µes MPTS
     mais antigas, o que pode resultar em erros e perda de dados.
 
   + Convenience Pack 2 ou eComStation 1.0.
 
 
 ================================================================================
-                          InstruÁıes de InstalaÁ„o
+                          Instru√ß√µes de Instala√ß√£o
 ================================================================================
 
 For all platforms, unpack into a clean (new) directory.  Installing on top of
@@ -90,8 +90,8 @@ For info on building the Thunderbird source, see
   http://www.mozilla.org/build/
 
 
-OS/2 Installation Instructions
-------------------------------
+Instru√ß√µes de Instala√ß√£o no OS/2
+--------------------------------
 
    On OS/2, Thunderbird does not have an installation program. To install it,
    download the .zip file and follow these steps:
@@ -117,102 +117,102 @@ OS/2 Installation Instructions
      the Thunderbird.exe object.
 
 
-Executar m˙ltiplas versıes em simult‚neo
---------------------------------------
+Executar m√∫ltiplas vers√µes em simult√¢neo
+-----------------------------------------
 
-Devido aos v·rios membros da famÌlia Mozilla (ex. Mozilla, Thunderbird,
-Thunderbird, IBM Web Browser) poderem utilizar versıes diferentes ou
-incompatÌveis das mesmas DLLs, alguns passos extra s„o necess·rios para
-os executar em simult‚neo.
+Devido aos v√°rios membros da fam√≠lia Mozilla (ex. Mozilla, Thunderbird,
+Thunderbird, IBM Web Browser) poderem utilizar vers√µes diferentes ou
+incompat√≠veis das mesmas DLLs, alguns passos extra s√£o necess√°rios para
+os executar em simult√¢neo.
 
-Uma forma de contornar o problema È utilizando a vari·vel LIBPATHSTRICT.
+Uma forma de contornar o problema √© utilizando a vari√°vel LIBPATHSTRICT.
 Para executar o Thunderbird um pode criar um script CMD como no exemplo
-seguinte (onde È assumida uma instalaÁ„o do Thunderbird no directÛrio
+seguinte (onde √© assumida uma instala√ß√£o do Thunderbird no direct√≥rio
 d:\internet\Thunderbird):
 
 	set LIBPATHSTRICT=T
-	rem A linha seguinte pode ser necessÈria quando um programa diferente do  Mozilla program est· listada no LIBPATH
+	rem A linha seguinte pode ser necess√©ria quando um programa diferente do  Mozilla program est√° listada no LIBPATH
 	rem set BEGINLIBPATH=d:\internet\Thunderbird
-	rem A linha seguinte sÛ È necess·ria para executar duas versıes diferentes do  Thunderbird
+	rem A linha seguinte s√≥ √© necess√°ria para executar duas vers√µes diferentes do  Thunderbird
 	rem set MOZ_NO_REMOTE=1
 	d:
 	cd d:\internet\thunderbird
 	thunderbird.exe %1 %2 %3 %4 %5 %6 %7 %8 %9
 
 Da forma semelhante, podemos criar um objecto de programa para iniciar o
-Thunderbird utilizando as seguintes definiÁıes:
+Thunderbird utilizando as seguintes defini√ß√µes:
 
    Caminho e nome do ficheiro:	*
-   Par‚metros:					/c set LIBPATHSTRICT=T & .\thunderbird.exe "%*"
-   DirectÛrio de trabalho:		d:\internet\thunderbird
+   Par√¢metros:					/c set LIBPATHSTRICT=T & .\thunderbird.exe "%*"
+   Direct√≥rio de trabalho:		d:\internet\thunderbird
 
 (Pode ainda necessitar de adiconar MOZ_NO_REMOTE e/ou BEGINLIBPATH como
-no script CMD em cima dependendo da configuraÁ„o do sistema.)
+no script CMD em cima dependendo da configura√ß√£o do sistema.)
 
-Finalmente, o mÈtodo mais simples È utilizando o utilit·rio Run! por
+Finalmente, o m√©todo mais simples √© utilizando o utilit√°rio Run! por
 Rich Walsh que pode ser encontrada no arquivo de software da Hobbes:
 
 	http://hobbes.nmsu.edu/cgi-bin/h-search?key=Run!
 
-Leia a documentaÁ„o do utilit·rio para mais informaÁıes.
+Leia a documenta√ß√£o do utilit√°rio para mais informa√ß√µes.
 
 
-Separando perfis do directÛrio de instalaÁ„o
------------------------------------------------
+Separando perfis do direct√≥rio de instala√ß√£o
+---------------------------------------------
 
-Para separar as localizaÁıes do perfil de utilizador(es) (contendo os
-marcadores e todas as personalizaÁıes) do directÛrio de instalaÁ„o
-para manter as suas preferÍncias no caso de actualizaÁ„o atÈ mesmo
-quando utilizando pacotes ZIP, defina a vari·vel MOZILLA_HOME para
-um directÛrio ‡ sua escolha. Pode fazer isto ou no Config.sys ou num
+Para separar as localiza√ß√µes do perfil de utilizador(es) (contendo os
+marcadores e todas as personaliza√ß√µes) do direct√≥rio de instala√ß√£o
+para manter as suas prefer√™ncias no caso de actualiza√ß√£o at√© mesmo
+quando utilizando pacotes ZIP, defina a vari√°vel MOZILLA_HOME para
+um direct√≥rio √† sua escolha. Pode fazer isto ou no Config.sys ou num
 script ou utilizando um objecto de programa como o listado acima.
 Se adicionou
 
    set MOZILLA_HOME=f:\Data
 
-o perfil de utilizador ser· criado em "f:\Data\Mozilla\thunderbird".
+o perfil de utilizador ser√° criado em "f:\Data\Mozilla\thunderbird".
 
-Se estiver a migrar do Mozilla, a rotina de importaÁ„o do Thunderbird sÛ
-ir· encontrar os dados do perfil existente se MOZILLA_HOME estiver
+Se estiver a migrar do Mozilla, a rotina de importa√ß√£o do Thunderbird s√≥
+ir√° encontrar os dados do perfil existente se MOZILLA_HOME estiver
 correctamente definida e a apontar para o Mozilla.
 
 
-Outras vari·veis de ambiente importantes
--------------------------------------
+Outras vari√°veis de ambiente importantes
+----------------------------------------
 
-Existem algumas vari·veis de ambiente que podem ser utilizadas para
+Existem algumas vari√°veis de ambiente que podem ser utilizadas para
 controlar um comportamento especial do Thunderbird no OS/2:
 
 - set NSPR_OS2_NO_HIRES_TIMER=1
-  Isto far· com que o Thunderbird n„o utilize o temporizador de alta
-  resoluÁ„o do OS/2. Defina-a se outras aplicaÁıes que utilizem este
-  temporizador (aplicaÁıes multimÈdia) estejam a agir de modo estranho.
+  Isto far√° com que o Thunderbird n√£o utilize o temporizador de alta
+  resolu√ß√£o do OS/2. Defina-a se outras aplica√ß√µes que utilizem este
+  temporizador (aplica√ß√µes multim√©dia) estejam a agir de modo estranho.
 
 - set MOZILLA_USE_EXTENDED_FT2LIB=T
-  Se tiver o Innotek Font Engine instalado, esta vari·vel activa
-  funÁıes especiais no Thunderbird para operar com caracteres unicode.
+  Se tiver o Innotek Font Engine instalado, esta vari√°vel activa
+  fun√ß√µes especiais no Thunderbird para operar com caracteres unicode.
 
 - set MOZ_NO_REMOTE=1
-  Utilize isto para executar duas inst‚ncias do Thunderbird em simult‚neo
-  (como por exemplo uma vers„o em depuraÁ„o e outra optimizada).
+  Utilize isto para executar duas inst√¢ncias do Thunderbird em simult√¢neo
+  (como por exemplo uma vers√£o em depura√ß√£o e outra optimizada).
 
-Encontre mais informaÁ„o sobre este tÛpico e outras dicas em
+Encontre mais informa√ß√£o sobre este t√≥pico e outras dicas em
    http://www.os2bbs.com/os2news/Warpzilla.html
 
 
-Problemas conhecidos da vers„o para OS/2
-----------------------------------
+Problemas conhecidos da vers√£o para OS/2
+----------------------------------------
 
-Problemas multi-plataforma s„o geralmente listados nas notas de
-lanÁamento de cada lanÁamento milestone.
+Problemas multi-plataforma s√£o geralmente listados nas notas de
+lan√ßamento de cada lan√ßamento milestone.
 
 - Bug 167884, "100% CPU load when viewing site [tiling transparent PNG]":
   https://bugzilla.mozilla.org/show_bug.cgi?id=167884
-No OS/2, o motor de renderizaÁ„o do Mozilla È conhecido por ter um
+No OS/2, o motor de renderiza√ß√£o do Mozilla √© conhecido por ter um
 desempenho extremamente lento em sites que utilizem imagens pequenas e
-repetidas com transparÍncia no seu layout. Isto afecta tambÈm a
-renderizaÁ„o no Thunderbird.
+repetidas com transpar√™ncia no seu layout. Isto afecta tamb√©m a
+renderiza√ß√£o no Thunderbird.
 
 Outros problemas conhecido podem ser encontrados seguindo o seguinte
-link "Current Open Warpzilla Bugs" na p·gina do OS/2 no
+link "Current Open Warpzilla Bugs" na p√°gina do OS/2 no
 Mozilla <http://www.mozilla.org/ports/os2/>.
