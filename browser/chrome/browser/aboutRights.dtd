@@ -1,8 +1,8 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle       "about:rights">
-<!ENTITY rights.intro-header    "About Your Rights">
-<!ENTITY rights.intro "&brandFullName; is free and open source software, built by a community of thousands from all over the world. There are a few things you should know:">
+<!ENTITY rights.pagetitle       "පිළිබඳ:අයිතීන්">
+<!ENTITY rights.intro-header    "ඔබගේ අයිතීන් පිළිබඳ">
+<!ENTITY rights.intro "&brandFullName; ලොව පුරා සිටින දහස් සංඛ්‍යාත ප්‍රජාවක් විසින් තනන ලද නිදහස් හා විවෘත මෘදුකාංගුකි. ඔබ දැනගත යුතු දේවල් කීපයක් ඇත:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -12,54 +12,54 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-<!ENTITY rights.intro-point1a "&brandShortName; is made available to you under the terms of the ">
-<!ENTITY rights.intro-point1b "Mozilla Public License">
-<!ENTITY rights.intro-point1c ". This means you may use, copy and distribute &brandShortName; to others.  You are also welcome to modify the source code of &brandShortName; as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions.">
+<!ENTITY rights.intro-point1a "හි කොන්දේසි යටතේ &brandShortName; ඔබට ප්‍රයෝජන ගැනීමට නිපදවා ඇත ">
+<!ENTITY rights.intro-point1b "Mozilla පොදු බලපත්‍රය">
+<!ENTITY rights.intro-point1c ". ඔබට &brandShortName; භාවිතා කිරීමට, අන්‍යයන්ට පිටපත් කර දීමට සහ බෙදාහැරීමට ඔබට හැක යන්න මෙයින් අදහස් කෙරේ.  ඔබට ඔබගේ අවශ්‍යතාවය පරිදි &brandShortName; හි මූල කේතය විකරණය කිරීමටද සාදරයෙන් ආරාධනා කරමු. Mozilla පොදු බලපත්‍රය විසින් ඔබගේ විකරණය කරන ලද වෙළුම් බෙදාහැරීමටද ඔබට අයිතිය ලබා දෙයි.">
 
-<!ENTITY rights.intro-point2a "Mozilla does not grant you any rights to the Mozilla and Firefox trademarks or logos. Additional information on Trademarks may be found ">
-<!ENTITY rights.intro-point2b "here">
-<!ENTITY rights.intro-point2c ".">
+<!ENTITY rights.intro-point2a "Mozilla සහ Firefix වෙළඳ ලකුණු සහ සළකුණු සඳහා කිසිම අයිතීයක් Mozilla ඔබට ලබා දෙන්නේ නැත. වෙළඳ ලකුණු පිළිබඳ අමතර තොරතුරු මෙහිදී සොයා ගැනීමට හැකි වනු ඇත. ">
+<!ENTITY rights.intro-point2b "">
+<!ENTITY rights.intro-point2c "">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "Privacy policies for &vendorShortName;'s products may be found ">
-<!ENTITY rights.intro-point3b "here">
+<!ENTITY rights.intro-point3a "&vendorShortName; සඳහා පෞද්ගලික ප්‍රතිපත්ති සොයාගැනීමට හැකි වනු ඇත ">
+<!ENTITY rights.intro-point3b "මෙහිදී">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Any applicable privacy policies for this product should be listed here.">
+<!ENTITY rights.intro-point3-unbranded "මෙම නිෂ්පාදනය සඳහා යෙදිය හැකි සෑම පෞද්ගලික ප්‍රතිපත්තියක්ම මෙහි ලැයිස්තුගත කළ යුතුය.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; also offers optional web site information services, such as the SafeBrowsing service; however, we cannot guarantee they are 100&#37; accurate or error-free. More details, including information on how to disable the services, can be found in the ">
-<!ENTITY rights.intro-point4b "service terms">
+<!ENTITY rights.intro-point4a "&brandShortName; ආරක්ෂාකාරී ගවේශන සේවය වැනි අමතර වියුණු ජාල තොරතුරු සේවාද පිළිගන්වයි; කෙසේ වෙතත් ඒවා 100&#37; නිවැරදි හා දෝෂ රහිත බවට අපිට සහතික වීමට නොහැක. සේවාව අක්‍රිය කරන්නේ කෙසේද යන තොරතුර ඇතුළු තවත් තොරතුරු සොයාගැනීමට හැක ">
+<!ENTITY rights.intro-point4b "සේවා කොන්දේසි">
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "If this product incorporates web services, any applicable service terms for the service(s) should be linked to the ">
-<!ENTITY rights.intro-point4b-unbranded "Web Site Services">
-<!ENTITY rights.intro-point4c-unbranded " section.">
+<!ENTITY rights.intro-point4a-unbranded "මෙම නිෂ්පාදනය වියුණු සේවා අන්තර්ගත කරයි නම්, සේවය(සේවා) සඳහා යෙදිය හැකි ඕනෑම සේවා කොන්දේසියක් ඈඳිය යුතුයි ">
+<!ENTITY rights.intro-point4b-unbranded "වියුණු ජාල සේවා">
+<!ENTITY rights.intro-point4c-unbranded " අංශය.">
 
-<!ENTITY rights.webservices-header "&brandFullName; Web Site Services">
+<!ENTITY rights.webservices-header "&brandFullName; වියුණු ජාල සේවා">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; uses web site information services (&quot;Services&quot;), such as the SafeBrowsing service, that are available for your use with this binary version of &brandShortName; as described below. If you do not want to use the Services or the terms below are unacceptable, you may disable the SafeBrowsing service by opening the application preferences, selecting the ">
-<!ENTITY rights.webservices-b "Security">
-<!ENTITY rights.webservices-c " section, and unchecking the options for &quot;&blockAttackSites.label;&quot; and &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.webservices-a "පහත විස්තර කර ඇති පරිදි &brandShortName; හි මෙම ද්වීමය වෙළුම ඔබගේ භාවිත සඳහා ප්‍රයෝජනයට ගත හැකි ආරක්ෂාකාරී ගවේශන සේවය වැනි වියුණු ජාල තොරතුරු සේවා (&quot;සේවා&quot;) &brandFullName; භාවිතා කරයි. ඔබට සේවා භාවිතා කිරීමට අවශ්‍ය නැත්නම් හෝ පහත කොන්දේසි පිළිගත නොහැකි නම් ආරක්ෂාකරී ගවේශන සේවාව අක්‍රිය කිරීමට වැඩසටහන් අභිප්‍රේත විවෘත කර තෝරන්න ">
+<!ENTITY rights.webservices-b "ආරක්ෂාව">
+<!ENTITY rights.webservices-c " අංශය, සහ &quot;&blockAttackSites.label;&quot; සහ &quot;&blockWebForgeries.label;&quot; විකල්ප වල සළකිණු ඉවත් කරන්න">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "An overview of the web site services the product incorporates, along with instructions on how to disable them, if applicable, should be included here.">
+<!ENTITY rights.webservices-unbranded "නිෂ්පාදනයේ අන්තර්ගත වන වියිණු ජාල සේවා, යෙදවිය හැකි නම් ඒවා අක්‍රිය කරන්නේ කෙසේදැයි උපදෙස් සමඟ මෙහි අඩංගු කළ යුතුය.">
 
 <!-- point 1 text for unbranded builds -->
-<!ENTITY rights.webservices-term1-unbranded "Any applicable service terms for this product should be listed here.">
+<!ENTITY rights.webservices-term1-unbranded "මෙම නිෂ්පාදනය සඳහා යෙදවිය හැකි ඕනෑම සේවා කොන්දේසියක් මෙහි ලැයිස්තුගත කළ යුතුය.">
 
 <!-- points 1-7 text for branded builds -->
-<!ENTITY rights.webservices-term1 "&vendorShortName; and its contributors, licensors and partners work to provide the most accurate and up-to-date phishing and malware information. However, they cannot guarantee that this information is comprehensive and error-free: some risky sites may not be identified and some safe sites may be identified in error.">
-<!ENTITY rights.webservices-term2 "&vendorShortName; may discontinue or change the Services at its discretion.">
-<!ENTITY rights.webservices-term3 "You are welcome to use these Services with the accompanying version of &brandShortName;, and you have all the rights necessary to do so.  &vendorShortName; and its licensors reserve all other rights in the Services.  These terms are not intended to limit any rights granted under open source licenses applicable to &brandShortName; and to corresponding source code versions of &brandShortName;.">
-<!ENTITY rights.webservices-term4 "The Services are provided &quot;as-is.&quot;  &vendorShortName;, its contributors, licensors, and distributors, disclaim all warranties, whether express or implied, including without limitation, warranties that the Services are merchantable and fit for your particular purposes.  You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.">
-<!ENTITY rights.webservices-term5 "Except as required by law, &vendorShortName;, its contributors, licensors, and distributors will not be liable for any indirect, special, incidental, consequential, punitive, or exemplary damages arising out of or in any way relating to the use of &brandShortName; and the Services.  The collective liability under these terms will not exceed $500 (five hundred dollars). Some jurisdictions do not allow the exclusion or limitation of certain damages, so this exclusion and limitation may not apply to you.">
-<!ENTITY rights.webservices-term6 "&vendorShortName; may update these terms as necessary from time to time. These terms may not be modified or cancelled without &vendorShortName;'s written agreement.">
-<!ENTITY rights.webservices-term7 "These terms are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.">
+<!ENTITY rights.webservices-term1 "&vendorShortName; සහ එහි දායකයින්, බලපත්‍රදායකයින් සහ හවුල්කරුවන් ඉතා නිවැරදි සහ අලුත් හානිකර සහ ආක්‍රමණික තොරතුරු සැපයීමට ක්‍රියා කරයි. කෙසේවෙතත් මෙම තොරතුරු විස්තීරණ සහ දෝෂ රහිත බවට සහතික වීමට ඔවුන්ට නොහැක: සමහර අවදානම් සහිත ජාල හඳුනා නොගත හැකි අතර සමහර ආරක්ෂා සහිත ජාල දෝෂ සහිත බවට හඳුනා ගත හැක.">
+<!ENTITY rights.webservices-term2 "&vendorShortName; එහි අභිමතය පරිදි සේවය අත්හිටුවීමට හෝ වෙනස් කිරීමට හැක.">
+<!ENTITY rights.webservices-term3 "මෙම සේවා &brandShortName; හි අනුගාමී වෙළුම සමඟ භාවිතා කිරීමට ඔබට සාදරයෙන් ආරාධනා කරමු සහ ඔබට එසේ කිරීමට අවශ්‍ය සියළු අයිතීන් ඇත.  &vendorShortName; සහ අනුරූප &brandShortName; හි මූල කේත වෙළුමෙහි සහ එහි බලපත්‍රදායකයින් සේවා වල අනෙකුත් සියළු අයිතීන් වෙන් කර ඇත.  &brandShortName; ට යෙදවිය හැකි විවෘත කේත බලපත්‍ර යටතේ ඇති ඕනෑම අයිතීන් සීම කිරීමට මෙම කොන්දේසි අදහස් කරන්නේ නැත.">
+<!ENTITY rights.webservices-term4 "සේවා සපයනු ලබන්නේ &quot;ලෙස.&quot;  &vendorShortName;, එහි දායකයින්, බලපත්‍රදායකයින් සහ බෙදාහරින්නන් සියළු වගකීම්, ඒවා ප්‍රකාශ කළත් ව්‍යංග වුවත්, සේවා විකිණිය හැක සහ සුවිශේෂී කාර්යයට ඔබින බවට වන වගකීම් සීමා රහිතව ප්‍රතික්ෂේප කරයි.  ඔබගේ කාර්යයන්ට සේවා තෝරා ගැනීමට සහ සේවා වල තත්වය හා ක්‍රියාකාරිත්වයට සියළු අවදානම ඔබ දරයි. සමහර අධිකරණ ව්‍යංග වගකීම්වල නිෂේධන කිරීමට හෝ සීමා කිරීමට අවසර නොදෙයි,  එමනිසා මෙම අයිතිය අත් හැරීමේ ප්‍රකාශය ඔබට අදාළ නොවිය හැක.">
+<!ENTITY rights.webservices-term5 "නීතිය විසින් ඉල්ලා ඇති පරිදි හැරුනුකොට &vendorShortName;, එහි දායකයින්, බලපත්‍රදායකයින් සහ බෙදාහරින්නන්, &brandShortName; සහ සේවාවන්ගෙන් හෝ ඒවා භාවිතයේ මොනයම් ආකාරයකට සම්බන්ධ හෝ ඕනෑම අනියම්, සුවිශේෂී, ආගන්තුක, ආනුෂංගික, දණ්ඩනීය හෝ ආදර්ශවත් අලාභ සඳහා වගකිවයුතු නොවනු ඇත.  මෙම කොන්දේසි යටතේ රැස් කළ හැකි වගකීම $500 (ඩොලර් පන්සීයක්) නොඉක්මවනු ඇත. සමහර අධිකරණ ඇතැම් අලාභ  නිෂේධන කිරීමට හෝ සීමා කිරීමට අවසර නොදෙයි,  එමනිසා මෙම නිෂේධනය කිරීම හෝ සීමා කිරීම ඔබට අදාළ නොවිය හැක.">
+<!ENTITY rights.webservices-term6 "&vendorShortName; කාලෙන් කාලෙට අවශ්‍ය පරිදි මෙම කොන්දේසි යාවත්කාල කරනු ඇත. &vendorShortName; ගේ ලිඛිත ගිවිසුමකින් තොරව මෙම කොන්දේසි විකරණය හෝ අහෝසි නොකෙරෙනු ඇත.">
+<!ENTITY rights.webservices-term7 "මෙම කොන්දේසි නීති ව්‍යවස්ථාවේ ගැටීම් බැහැර කර කැලිෆෝනියා, ඇ.එ.ජ. හි නීති මගින් පාලනය කරයි. මෙම කොන්දේසි වල ඕනෑම කොටසක් අවලංගු හෝ ක්‍රියාත්මක කිරීමට නොහැකි වූ විට ඉතිරි කොටස් සම්පූර්ණ බලයෙන් හා ශක්තියෙන් රැඳෙනු ඇත. මෙම කොන්දේසීන්හි පරිවර්ථනය කරන ලද වෙළුමක් හා ඉංග්‍රීසි භාෂා වෙළුම අතර ගැටුම්කාරී අවස්ථාවකදී ඉංග්‍රීසි භාෂා වෙළුම පාලනය කරනු ඇත.">
