@@ -105,6 +105,12 @@
   "ש">
 <!ENTITY cmd.edit_redo.key
   "y">
+
+<!ENTITY cmd.delete.label               "מחק דף זה">
+<!ENTITY cmd.delete.accesskey           "מ">
+<!ENTITY cmd.deleteDomainData.label     "שכח מאתר זה">
+<!ENTITY cmd.deleteDomainData.accesskey "ש">
+
 <!ENTITY cmd.open.label
   "פתח">
 <!ENTITY cmd.open.accesskey

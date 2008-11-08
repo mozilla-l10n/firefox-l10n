@@ -148,12 +148,14 @@
 <!ENTITY preferencesCmd.accesskey "א">
 <!ENTITY preferencesCmdUnix.label "העדפות">
 <!ENTITY preferencesCmdUnix.accesskey "ד">
-<!ENTITY clearPrivateDataCmd.label "נקה נתונים אישיים">
-<!ENTITY clearPrivateDataCmd.accesskey "נ">
+<!-- ### ENTITY clearPrivateDataCmd.label "נקה נתונים אישיים" -->
+<!-- ### ENTITY clearPrivateDataCmd.accesskey "נ" -->
+
+<!ENTITY clearRecentHistoryCmd.label            "מחק היסטוריה אחרונה">
+<!ENTITY clearRecentHistoryCmd.accesskey        "ה">
 
 <!ENTITY privateBrowsingCmd.label            "גלישה פרטית">
 <!ENTITY privateBrowsingCmd.accesskey        "פ">
-
 
 <!ENTITY viewMenu.label "תצוגה">
 <!ENTITY viewMenu.accesskey "ת">
@@ -390,3 +392,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY downloadMonitor2.tooltip "לחץ לפתיחת חלון ההורדות">
 
 <!ENTITY urlbar.emptyText             "חיפוש בסימניות ובהיסטוריה">
+
+<!ENTITY ctrlTab.search.emptyText "חיפוש לשוניות">
