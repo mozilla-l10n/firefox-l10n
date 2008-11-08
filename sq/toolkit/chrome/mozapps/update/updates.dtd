@@ -1,6 +1,3 @@
-
-
-
 <!ENTITY  updateWizard.title              "Përditësim &quot;Software&quot;-i">
 
 <!ENTITY  window.width                    "36em">
@@ -48,3 +45,21 @@
 <!ENTITY  update.details.label            "Hollësi">
 <!ENTITY  update.installedOn.label        "Instaluar në:">
 <!ENTITY  update.status.label             "Gjendje:">
+
+<!ENTITY  viewDetails.tooltip             "Shihni hollësi për këtë përditësim">
+<!ENTITY  updateCheck.label               "Po shihet për versione më të rinj të &brandShortName;-it…">
+
+<!ENTITY  incompatibleList.title          "U gjetën Shtesa të Papërputhshme">
+<!ENTITY  incompatibleCheck.title         "Po kontrollohet Përputhshmëria e Shtesave">
+
+<!ENTITY  clickHere.label                 "Shihni më tepër të dhëna për këtë përditësim">
+
+<!ENTITY  incompatibleCheck.label         "Po shihet për versione më të rinj për shtesat tuaja…">
+
+<!ENTITY  finishedPage.title              "Përditësim Gati për T'u Instaluar">
+<!ENTITY  evangelism.desc                 "Këshillohet me forcë që ta zbatoni këtë përditësim për &brandShortName;-in sa më shpejt të jetë e mundur.">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more         "Përditësimi do të instalohet herës tjetër kur të niset &brandShortName;-i. Mund ta rinisni  &brandShortName;-in tani, ose të vazhdoni të punoni e ta rinisni më vonë.">
+<!ENTITY  finishedBackgroundPage.text     "U shkarkua dhe është gati për instalim një përditësim sigurie dhe qëndrueshmërie për &brandShortName;-in .">
+<!ENTITY  finishedBackground.name         "Përditësim:">
+<!ENTITY  finishedPage.text               "Përditësimi do të instalohet herës tjetër kur të niset &brandShortName;-i. Mund ta rinisni  &brandShortName;-in tani, ose të vazhdoni të punoni e ta rinisni më vonë.">

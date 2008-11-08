@@ -51,3 +51,10 @@
 <!ENTITY textEnlarge.commandkey3 "">
 <!ENTITY textReduce.commandkey2 "">
 <!ENTITY textReset.commandkey2 "">
+
+<!ENTITY backCmd.label "Mbrapsht">
+<!ENTITY backCmd.accesskey "M">
+<!ENTITY forwardCmd.label "Përpara">
+<!ENTITY forwardCmd.accesskey "P">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
