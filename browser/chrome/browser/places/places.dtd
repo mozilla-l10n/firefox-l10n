@@ -213,3 +213,8 @@
 <!ENTITY detailsPane.less.accesskey "М">
 <!ENTITY detailsPane.noPreviewAvailable.label "Попередній перегляд">
 <!ENTITY detailsPane.selectAnItemText.description "Додати елемент до перегляду та редагувати його властивості">
+
+<!ENTITY cmd.delete.accesskey           "У">
+<!ENTITY cmd.delete.label               "Усунути цю сторінку">
+<!ENTITY cmd.deleteDomainData.accesskey "З">
+<!ENTITY cmd.deleteDomainData.label     "Забути про цей сайт">
