@@ -42,7 +42,7 @@
 <!-- manager entities -->
 <!ENTITY            pmDescription.label    "&brandShortName; ਤੁਹਾਡੇ ਪਰੋਫਾਇਲ ਵਿੱਚ ਤੁਹਾਡੀ ਸੈਟਿੰਗ, ਤੁਹਾਡੀ ਪਸੰਦ ਅਤੇ ਹੋਰ ਯੂਜ਼ਰ ਆਈਟਮਾਂ ਬਾਰੇ ਜਾਣਕਾਰੀ ਸੰਭਾਲ ਕੇ ਰੱਖੀ ਜਾਂਦੀ ਹੈ।">
 
-<!ENTITY            offlineState.label    "ਆਫਲਾਇਨ ਕੰਮ ਕਰੋ">
+<!ENTITY            offlineState.label    "ਆਫਲਾਈਨ ਕੰਮ ਕਰੋ">
 <!ENTITY            offlineState.accesskey "o">
 
 <!ENTITY            autoSelect.label       "ਸ਼ੁਰੂ ਕਰਨ ਸਮੇਂ  ਨਾ ਪੁੱਛੋ">

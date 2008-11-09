@@ -1,5 +1,5 @@
 <!ENTITY ocspDialog.title             "ਸਰਟੀਫਿਕੇਟ ਵੈਧਤਾ">
-<!ENTITY enableOCSP.label             "ਸਰਟੀਫਿਕੇਟ ਦੀ ਮੌਜੂਦਾ ਵੈਧਤਾ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਲਈ ਆਨਲਾਇਨ ਸਰਟੀਫਿਕੇਟ ਸਟੇਟਸ ਪਰੋਟੋਕਾਲ (OCSP) ਦੀ ਵਰਤੋਂ ਕਰੋ">
+<!ENTITY enableOCSP.label             "ਸਰਟੀਫਿਕੇਟ ਦੀ ਮੌਜੂਦਾ ਵੈਧਤਾ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਲਈ ਆਨਲਾਈਨ ਸਰਟੀਫਿਕੇਟ ਸਟੇਟਸ ਪਰੋਟੋਕਾਲ (OCSP) ਦੀ ਵਰਤੋਂ ਕਰੋ">
 <!ENTITY enableOCSP.accesskey         "U">
 <!ENTITY certOCSP2.label              "ਇੱਕ ਸਰਟੀਫਿਕੇਟ ਵੈਧ ਬਣਾਓ, ਜੇ ਇਹ ਇੱਕ OCSP ਸਰਵਰ ਦਿੰਦਾ ਹੋਵੇ">
 <!ENTITY certOCSP2.accesskey          "V">

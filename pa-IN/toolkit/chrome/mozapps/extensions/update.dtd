@@ -1,9 +1,9 @@
 <!ENTITY  updateWizard.title              "&brandShortName; ਅੱਪਡੇਟ">
 
-<!ENTITY  offline.title                   "&brandShortName; ਆਫ-ਲਾਇਨ ਕੰਮ ਕਰ ਰਿਹਾ ਹੈ">
-<!ENTITY  offline.description             "&brandShortName; ਨੂੰ ਆਨ-ਲਾਇਨ ਜਾਣ ਦੀ ਲੋੜ ਹੈ, ਤਾਂ ਕਿ ਇਹ ਜਾਂਚ ਕੀਤੀ ਜਾ
+<!ENTITY  offline.title                   "&brandShortName; ਆਫ-ਲਾਈਨ ਕੰਮ ਕਰ ਰਿਹਾ ਹੈ">
+<!ENTITY  offline.description             "&brandShortName; ਨੂੰ ਆਨ-ਲਾਈਨ ਜਾਣ ਦੀ ਲੋੜ ਹੈ, ਤਾਂ ਕਿ ਇਹ ਜਾਂਚ ਕੀਤੀ ਜਾ
                                            ਸਕੇ ਕਿ ਤੁਹਾਡੀ ਐਂਡ-ਆਨ ਲਈ ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਹਨ, ਜਿਸ ਨਾਲ ਉਹ ਇਸ ਵਰਜਨ ਦੇ ਕੰਪੈਟਬਿਲ ਬਣ ਸਕਣ।">
-<!ENTITY  offline.toggleOffline.label     "ਹੁਣੇ ਆਨ-ਲਾਇਨ ਜਾਓ।">
+<!ENTITY  offline.toggleOffline.label     "ਹੁਣੇ ਆਨ-ਲਾਈਨ ਜਾਓ।">
 <!ENTITY  offline.toggleOffline.accesskey "G">
 
 <!ENTITY  mismatch.win.title              "ਨਾ-ਕੰਪੈਟਬਿਲ ਐਂਡ-ਆਨ">
@@ -18,7 +18,7 @@
 <!ENTITY  found.wizard.title               "ਕੰਪੈਟਬਿਲ ਐਂਡ-ਆਨ ਲੱਭ ਗਈਆਂ ਹਨ">
 <!ENTITY  found.top.label                 "ਐਂਡ-ਆਨ ਦੀ ਚੋਣ ਕਰੋ, ਜਿਸ ਨੂੰ ਤੁਸੀਂ ਇੰਸਟਾਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ:">
 <!ENTITY  found.disabledXPinstall.label   "ਇਹ ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤੇ ਜਾ ਸਕਦੇ ਹਨ, ਕਿਉਂਕਿ ਸਾਫਟਵੇਅਰ ਇੰਸਟਾਲੇਸ਼ਨ ਨੂੰ ਇਸ ਸਮੇਂ ਆਯੋਗ ਕੀਤਾ ਗਿਆ ਹੈ
-                                           ਤੁਸੀਂ ਇਹ ਸਥਾਪਨ ਨੂੰ ਹੇਠ ਦਿੱਤੇ ਢੰਗ ਨਾਲ ਬਦਲ ਸਕਦੇ ਹੋ।">
+                                           ਤੁਸੀਂ ਇਹ ਸੈਟਿੰਗ ਨੂੰ ਹੇਠ ਦਿੱਤੇ ਢੰਗ ਨਾਲ ਬਦਲ ਸਕਦੇ ਹੋ।">
 <!ENTITY  found.enableXPInstall.label     "ਵੈੱਬ ਸਾਇਟਾਂ ਨੂੰ ਸਾਫਟਵੇਅਰ ਇੰਸਟਾਲ ਕਰਨ ਦਿਓ">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 
@@ -38,7 +38,7 @@
 <!ENTITY  adminDisabled.wizard.title      "ਅੱਪਡੇਟ ਲਈ ਜਾਂਚ ਕਰਨ ਲਈ ਅਸਫ਼ਲ ਹੈ">
 <!ENTITY  adminDisabled.warning.label     "ਕੰਪੈਟਬਿਲ ਐਂਡ-ਆਨ ਵਾਸਤੇ ਅੱਪਡੇਟ ਬਾਰੇ ਜਾਂਚ ਕਰਨੀ ਸੰਭਵ ਨਹੀਂ ਹੈ
                                            ਕਿਉਂਕਿ &brandShortName; ਲਈ ਸਾਫਟਵੇਅਰ ਇੰਸਟਾਲੇਸ਼ਨ ਉੱਤੇ ਪਾਬੰਦੀ ਹੈ।
-                                           ਸਹਾਇਤਾ ਲਈ ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਸਿਸਟਮ ਪਰਸ਼ਾਸ਼ਕ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।">
+                                           ਮੱਦਦ ਲਈ ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਸਿਸਟਮ ਪਰਸ਼ਾਸ਼ਕ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।">
 
 <!ENTITY  versioninfo.wizard.title        "ਕੰਪੈਟਬਿਲ ਐਂਡ-ਆਨ ਲਈ ਜਾਂਚ ਜਾਰੀ ਹੈ">
 <!ENTITY  versioninfo.top.label           "&brandShortName; ਦੇ ਇਹ ਵਰਜਨ ਨਾਲ ਇਸ ਐਂਡ-ਆਨ

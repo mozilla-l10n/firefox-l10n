@@ -113,7 +113,7 @@
 <!ENTITY insecureUpdate.label             "ਸੁਰੱਖਿਆ ਅੱਪਡੇਟ ਨਹੀਂ ਦਿੰਦਾ ਹੈ।">
 <!ENTITY needsDependencies.label          "ਹੋਰ ਆਈਟਮਾਂ ਦੀ ਲੋੜ ਹੈ।">
 <!ENTITY blocklisted.label                "ਤੁਹਾਡੀ ਸੁਰੱਖਿਆ ਲਈ ਆਯੋਗ ਹੈ।">
-<!ENTITY softBlocklisted.label            "Known to cause security or stability issues.">
+<!ENTITY softBlocklisted.label            "ਸੁਰੱਖਿਆ ਜਾਂ ਸਥਿਰਤਾ ਮੁੱਦੇ ਪੈਦਾ ਕਰਨ ਲਈ ਪਛਾਣ।">
 <!ENTITY toBeDisabled.label               "ਜਦੋਂ &brandShortName; ਮੁੜ-ਚਾਲੂ ਕੀਤੀ ਜਾਵੇਗਾ ਤਾਂ ਇਹ ਐਡ-ਆਨ ਨੂੰ ਆਯੋਗ ਕੀਤਾ ਜਾਵੇਗਾ।">
 <!ENTITY toBeEnabled.label                "ਜਦੋਂ &brandShortName; ਮੁੜ-ਚਾਲੂ ਕੀਤੀ ਜਾਵੇਗਾ ਤਾਂ ਇਹ ਐਡ-ਆਨ ਨੂੰ ਯੋਗ ਕੀਤਾ ਜਾਵੇਗਾ।">
 <!ENTITY toBeInstalled.label              "ਜਦੋਂ &brandShortName; ਮੁੜ-ਚਾਲੂ ਕੀਤੀ ਜਾਵੇਗਾ ਤਾਂ ਇਹ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕੀਤੀ ਜਾਵੇਗੀ।">
@@ -167,7 +167,7 @@
 
 <!ENTITY progressStatus.label             "ਅੱਪਡੇਟ ਲਈ ਚੈਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
 
-<!ENTITY eula.title                       "ਐਡ ਯੂਜ਼ਰ ਲਾਈਸੈਂਸ ਐਗਰੀਮੈਂਟ (EULA)">
+<!ENTITY eula.title                       "ਐਂਡ ਯੂਜ਼ਰ ਲਾਈਸੈਂਸ ਐਗਰੀਮੈਂਟ (EULA)">
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "ਮਨਜ਼ੂਰ ਅਤੇ ਇੰਸਟਾਲ…">
@@ -176,5 +176,5 @@
 <!ENTITY progressStatus.label             "ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
 
 
-<!ENTITY blocklist.blocked.label          "Blocked">
-<!ENTITY blocklist.checkbox.label         "Disable">
+<!ENTITY blocklist.blocked.label          "ਪਾਬੰਦੀਸ਼ੁਦਾ">
+<!ENTITY blocklist.checkbox.label         "ਆਯੋਗ">

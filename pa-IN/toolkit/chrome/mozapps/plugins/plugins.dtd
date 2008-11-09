@@ -19,5 +19,5 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "ਪਲੱਗਇਨ ਬਾਰੇ ਵਧੇਰੇ ਜਾਣਕਾਰੀ ਪ੍ਰਾਪਤ ਕਰੋ ਜਾਂ ਗੁੰਮ ਪਲੱਗਇਨ ਖੁਦ ਖੋਜੋ।">
 <!ENTITY pluginWizard.finalPage.restart.label               "&brandShortName; ਨੂੰ ਇਸ ਪਲੱਗਇਨ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ ਮੁੜ ਚਾਲੂ ਕਰਨਾ ਪਵੇਗਾ।">
 <!ENTITY missingPlugin.label                                 "ਪਲੱਗਇਨ ਡਾਊਨਲੋਡ ਕਰਨ ਵਾਸਤੇ ਇੱਥੇ ਕਲਿੱਕ ਕਰੋ।">
-<!ENTITY disabledPlugin.label                                "The plugin for this content has been disabled. Click here to manage your plugins.">
-<!ENTITY blockedPlugin.label                                 "This plugin has been blocked for your protection.">
+<!ENTITY disabledPlugin.label                                "ਇਸ ਸਮੱਗਰੀ ਲਈ ਪਲੱਗਇਨ ਨੂੰ ਆਯੋਗ ਕੀਤਾ ਗਿਆ ਹੈ। ਆਪਣੀਆਂ ਪਲੱਗਇਨ ਦੇ ਪਰਬੰਧ ਲਈ ਇੱਥੇ ਕਲਿੱਕ ਕਰੋ।">
+<!ENTITY blockedPlugin.label                                 "ਇਹ ਪਲੱਗਇਨ ਉੱਤੇ ਤੁਹਾਡੀ ਸੁਰੱਖਿਆ ਲਈ ਪਾਬੰਦੀ ਲਗਾਈ ਗਈ ਹੈ।">
