@@ -168,3 +168,7 @@
 <!ENTITY eula.width "560px">
 <!ENTITY eula.height "400px">
 <!ENTITY eula.accept "Погодитись та встановити…">
+
+<!ENTITY blocklist.blocked.label          "Блокований">
+<!ENTITY blocklist.checkbox.label         "Вимкнути">
+<!ENTITY softBlocklisted.label            "Відомий як такий, що спричиняє проблеми з безпекою чи стабільністтю.">
