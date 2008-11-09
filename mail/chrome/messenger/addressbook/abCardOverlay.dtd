@@ -111,6 +111,11 @@
 <!ENTITY HomeCountry.accesskey "t">
 <!ENTITY HomeWebPage.label "Leathanach Gréasáin:">
 <!ENTITY HomeWebPage.accesskey "e">
+<!ENTITY Birthday.label "Lá Breithe:">
+<!ENTITY Birthday.accesskey "B">
+<!ENTITY Year.emptytext "Bliain">
+<!ENTITY Or.value "nó">
+<!ENTITY Age.emptytext "Aois">
 
 <!ENTITY Work.tab "Obair">
 <!ENTITY Work.accesskey "W">
@@ -137,11 +142,6 @@
 
 <!ENTITY Other.tab "Eile">
 <!ENTITY Other.accesskey "h">
-<!ENTITY Birthday.label "Lá Breithe:">
-<!ENTITY Birthday.accesskey "B">
-<!ENTITY Year.emptytext "Bliain">
-<!ENTITY Or.value "nó">
-<!ENTITY Age.emptytext "Aois">
 <!ENTITY Custom1.label "Saincheaptha 1:">
 <!ENTITY Custom1.accesskey "1">
 <!ENTITY Custom2.label "Saincheaptha 2:">
