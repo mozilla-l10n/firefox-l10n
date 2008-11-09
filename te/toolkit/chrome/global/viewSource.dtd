@@ -61,3 +61,10 @@
 <!ENTITY textEnlarge.commandkey3 "">
 <!ENTITY textReset.commandkey2 "">
 <!ENTITY textReduce.commandkey2 "">
+
+<!ENTITY backCmd.label "వెనుకకు">
+<!ENTITY backCmd.accesskey "B">
+<!ENTITY forwardCmd.label "ముందుకు">
+<!ENTITY forwardCmd.accesskey "F">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">

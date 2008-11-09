@@ -40,4 +40,5 @@
 <!ENTITY cmd.clearList.tooltip            "పుర్తైన, రద్దైన, మరియు విఫలమైన డౌన్‌లోడులను జాబితానుండి తొలగించుము">
 <!ENTITY cmd.clearList.accesskey          "C">
 <!ENTITY cmd.find.commandKey              "f">
+<!ENTITY cmd.search.commandKey            "k">
 <!ENTITY searchBox.label                  "శోధించు…">

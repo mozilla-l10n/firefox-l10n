@@ -7,7 +7,9 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Private Browsing)">
 
 <!ENTITY tabCmd.label "కొత్త టాబు">
 <!ENTITY tabCmd.accesskey "T">
@@ -151,8 +153,12 @@
 <!ENTITY preferencesCmdUnix.label       "అభీష్టాలు">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearPrivateDataCmd.label            "వ్యక్తిగత డాటాను చెరిపివేయి">
-<!ENTITY clearPrivateDataCmd.accesskey        "P">
+<!ENTITY clearRecentHistoryCmd.label            "ఇటీవలి చరిత్రను చెరిపివేయి">
+<!ENTITY clearRecentHistoryCmd.accesskey        "H">
+
+<!ENTITY privateBrowsingCmd.label            "గోప్య విహరిణి">
+<!ENTITY privateBrowsingCmd.accesskey        "B">
+
 
 <!ENTITY viewMenu.label         "దర్శించు"> 
 <!ENTITY viewMenu.accesskey       "V"> 
@@ -212,6 +218,22 @@
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY showOnlyThisFrameCmd.label     "ఈ ఫ్రేమును మాత్రమే చూపుము">
 <!ENTITY showOnlyThisFrameCmd.accesskey "w">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "ఆడు">
+<!ENTITY mediaPlay.accesskey         "P">
+<!ENTITY mediaPause.label            "కొద్దిసేపు ఆపు">
+<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaMute.label             "ధ్వని లేకుండా చేయి">
+<!ENTITY mediaMute.accesskey         "M">
+<!ENTITY mediaUnmute.label           "ధ్వనిని ప్రవేశపెట్టు">
+<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaShowControls.label     "మీటలు చూపు">
+<!ENTITY mediaShowControls.accesskey "C">
+<!ENTITY mediaHideControls.label     "మీటలు దాచు">
+<!ENTITY mediaHideControls.accesskey "C">
+
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "ఫ్రేమును తిరిగిలోడు చేయుము">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -226,8 +248,12 @@
 <!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.label       "ఫ్రేము  సమాచారాన్ని దర్శించు">
 <!ENTITY viewFrameInfoCmd.accesskey   "i">
+<!ENTITY reloadImageCmd.label         "చిత్రాన్ని మరల ఎక్కించు">
+<!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "చిత్రాన్ని దర్శించు">
 <!ENTITY viewImageCmd.accesskey       "I">
+<!ENTITY viewVideoCmd.label           "దృశ్యాన్ని చూడు">
+<!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "బ్యాక్‌గ్రౌండు చిత్రాన్ని దర్శించు">
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "డెస్కుటాప్ బ్యాక్‌గ్రౌండుగా అమర్చు...">
@@ -247,14 +273,26 @@
 <!ENTITY sendLinkCmd.accesskey        "d">
 <!ENTITY saveImageCmd.label           "చిత్రాన్ని యిలా భద్రపరచు...">
 <!ENTITY saveImageCmd.accesskey       "v">
+<!ENTITY saveVideoCmd.label           "దృశ్యాన్ని  వేరే పేరుతో దాచు …">
+<!ENTITY saveVideoCmd.accesskey       "v">
+<!ENTITY saveAudioCmd.label           "ధ్వనిని   వేరే పేరుతో దాచు …">
+<!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY sendImageCmd.label           "చిత్రాన్ని పంపుము...">
 <!ENTITY sendImageCmd.accesskey       "n">
+<!ENTITY sendVideoCmd.label           "దృశ్యాన్ని   పంపు…">
+<!ENTITY sendVideoCmd.accesskey       "n">
+<!ENTITY sendAudioCmd.label           "ధ్వనిని పంపు …">
+<!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label            "లింకు స్థానాన్ని నకలుతీయుము">
 <!ENTITY copyLinkCmd.accesskey        "C">
 <!ENTITY copyImageCmd.label           "చిత్ర స్థానాన్ని నకలు తీయుము">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "చిత్రాన్ని నకలు తీయుము">
-<!ENTITY copyImageContentsCmd.accesskey  "y"> 
+<!ENTITY copyImageContentsCmd.accesskey  "y">
+<!ENTITY copyVideoURLCmd.label        "దృశ్య  స్థానాన్ని నకలు తీయుము">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "ధ్వని స్థానాన్ని నకలు తీయుము">
+<!ENTITY copyAudioURLCmd.accesskey    "o"> 
 <!ENTITY blockImageCmd.accesskey       "g">
 <!ENTITY metadataCmd.label            "లక్షణాలు">
 <!ENTITY metadataCmd.accesskey        "P">
@@ -263,7 +301,6 @@
 <!ENTITY thisFrameMenu.label              "ఈ ఫ్రేము">
 <!ENTITY thisFrameMenu.accesskey          "h">
 
-<!ENTITY newTabButton.tooltip           "కొత్త టాబును తెరువు">
 <!ENTITY newWindowButton.tooltip        "కొత్త విండోను తెరువు">
 <!ENTITY sidebarCloseButton.tooltip     "పక్క పట్టీని మూయి">
 
@@ -325,7 +362,7 @@
 <!ENTITY identity.connectedTo "మీరు దీనికి అనుసంధానించ బడినారు">
 <!ENTITY editBookmark.done.label                     "అయినది">
 <!ENTITY printFrameCmd.label          "చట్రమును ముద్రించు…">
-<!ENTITY showImageCmd.accesskey       "S">
+
 <!ENTITY backForwardMenu.tooltip      "ఇటీవలి పేజీలు">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
 
@@ -334,6 +371,7 @@
 <!ENTITY bookmarkPageCmd2.label       "ఈ పుటను ఇష్టాంశము చేయుము">
 <!ENTITY fullZoomEnlargeCmd.label       "జూమ్‌చేయి">
 <!ENTITY downloadMonitor2.tooltip "డౌన్‌లోడుల విండో తెరువుటకు నొక్కుము">
+<!ENTITY ctrlTab.search.emptyText "టాబ్లలో వెతుకు">
 <!ENTITY editBookmark.cancel.label                   "రద్దుచేయి">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY editBookmark.edit.label                     "సరిచేయి…">
@@ -341,7 +379,7 @@
 <!ENTITY bookmarkThisLinkCmd.label      "ఈ లింకును ఇష్టాంశము చేయి">
 <!ENTITY identity.moreInfoLinkText "ఎక్కువ సమాచారం…">
 <!ENTITY fullScreenAutohide.accesskey "H">
-<!ENTITY showImageCmd.label           "చిత్రమును చూపుము">
+
 <!ENTITY errorConsoleCmd.commandkey   "j">
 <!ENTITY printFrameCmd.accesskey      "P">
 <!ENTITY editBookmark.edit.accessKey                 "E">

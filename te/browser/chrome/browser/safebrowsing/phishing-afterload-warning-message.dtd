@@ -14,9 +14,6 @@
 <!ENTITY safeb.palm.decline.statustext "హెచ్చరికను మూయి" >
 
 
-
-
-<!ENTITY safeb.urlbaricon.tooltip "ఈ పేజి ప్రమాదకరమైనది కావచ్చు; వివరాలకొరకు నొక్కండి.">
 <!ENTITY safeb.blocked.phishing.title "నివేదించిన వెబ్‌మోసము!">
 <!ENTITY safeb.palm.notforgery.label2 "ఇది వెబ్‌మోసము కాదు…">
 <!ENTITY safeb.blocked.phishing.longDesc "<p>మీ వ్యక్తిగత  లేదా  ఆర్ధిక సమాచారాన్ని బయటపెట్టించుటకు మీరు నమ్మేవాటిని అనుకరిస్తూ వెబ్‌‌మోసాలు రూపొందించబడినవి.</p><p>ఈ వెబ్ పేజీనందు ఏ సమాచారాన్ని ప్రవేశపెట్టినా  దొంగిలింపునకు లేదా యితరమోసానికి గురికావచ్చు.</p>">

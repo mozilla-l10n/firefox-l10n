@@ -21,3 +21,5 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "ప్లగ్ఇన్(లు)  పనిచేయుటకు &brandShortName;ను పునఃప్రారంభించాలి.">
 
 <!ENTITY missingPlugin.label                                 "ప్లగ్ఇన్  డౌన్‌లోడు చేయుటకు ఇక్కడ నొక్కండి.">
+<!ENTITY disabledPlugin.label                                "ఈ  మాధ్యమ సమాచారం కొరకు  ప్లగ్ ఇన్  అచేతనం చేయబడింది. ప్లగ్ ఇన్ లను నిర్వహించుటకు ఇకకడ నొక్కండి.">
+<!ENTITY blockedPlugin.label                                 "ఈ ప్లగ్ ఇన్ మీ రక్షణకొరకు నిరోధించబడింది.">

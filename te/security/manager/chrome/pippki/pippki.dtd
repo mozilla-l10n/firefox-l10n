@@ -51,8 +51,9 @@
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title  "ముఖ్య సంకేతపదాన్ని  ప్రవేశపెట్టండి">
-<!ENTITY getPassword.tokenName.label "రక్షణ  సాధనం">
+<!ENTITY getPassword.tokenName2.label "రక్షణ  సాధనం:">
 <!ENTITY getPassword.password.label "సంకేతపదం:">
+
 
 <!-- These should be common -->
 <!ENTITY piperror.title "దోషం">
@@ -129,5 +130,9 @@
 <!ENTITY formSigning.cert "సైనింగ్  దృవీకరణపత్రం">
 <!ENTITY formSigning.confirmPassword "మీ  ఎంపికచేయబడిన  దృవీకరణపత్రం  ద్వారా  ఈ  టెక్స్టు  సందేశం  సైనుచేయుటకు  ఆమోదిస్తున్నట్లు  నిశ్చయించుటకు, దయచేసి  ముఖ్య  సంకేతపదం  ప్రవేశపెట్టుట  ద్వారా  నిశ్చయించండి:">
 <!ENTITY protectedAuth.tokenName.label "టోకెన్:">
+
+<!ENTITY certErrorDlg.title "రక్షణ భందనములో తప్పు  ">
+<!ENTITY certErrorDlg.info1 "ఇది సేవిక లక్షణాలలో సమస్య వలన లేక  వేరేది  ఈ సేవికలా నటిస్తుండవచ్చు .">
+<!ENTITY certErrorDlg.info2 " మీరు ఈ సేవికను ఇంతకుముందల వాడినట్లయితే , ఈ తప్పు  తాత్కాలికమైనది  అవవచ్చు, తరువాత ప్రయత్నం చేయండి .">
 <!ENTITY protectedAuth.msg "దయచేసి ఈటోకెన్‌కు దృవీకరించుము. దృవీకరణ విధానం మీటోకెన్‌యొక్క రకముపై  ఆధారపడుతుంది.">
 <!ENTITY protectedAuth.title "రక్షించబడిన టోకెన్ దృవీకరణ">

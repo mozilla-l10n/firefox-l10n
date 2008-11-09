@@ -70,6 +70,10 @@
 <!ENTITY cmd.edit_redo.label        "మళ్ళీచేయి">
 <!ENTITY cmd.edit_redo.accesskey    "R">
 <!ENTITY cmd.edit_redo.key          "y">
+<!ENTITY cmd.delete.label               "ఈ పేజీని తొలగించు ">
+<!ENTITY cmd.delete.accesskey           "D">
+<!ENTITY cmd.deleteDomainData.label     "ఈ సైటుని మర్చిపో">
+<!ENTITY cmd.deleteDomainData.accesskey "F">
 
 <!ENTITY cmd.open.label                  "తెరువు">
 <!ENTITY cmd.open.accesskey              "O">

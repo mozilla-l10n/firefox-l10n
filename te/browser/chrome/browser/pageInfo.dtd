@@ -63,6 +63,8 @@
 
 <!ENTITY  generalMetaName       "నామము">
 <!ENTITY  generalMetaContent    "విషయసంగ్రహం">
+<!ENTITY  generalSecurityDetails   "వివరము">
+<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "మాధ్యమం">
 <!ENTITY  mediaAltHeader        "పరిసంభంద పాఠ్యము ">
@@ -86,7 +88,7 @@
 <!ENTITY  securityView.privacy.viewPasswords            "భద్రపరచిన సంకేతపదాలను దర్శించు">
 <!ENTITY  feedTab.accesskey     "F">
 <!ENTITY  feedSubscribe         "సబ్‌స్క్రైబ్">
-<!ENTITY  generalSecurityMore   "ఇంకా">
+
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  securityView.privacy.history                  "ఈరోజు ఇంతకుముందు నేను ఈవెబ్ సైటును దర్శించానా?">
@@ -97,7 +99,7 @@
 <!ENTITY  mediaText             "అనుభందిత పాఠ్యము:">
 <!ENTITY  securityView.identity.owner    "యజమాని: ">
 <!ENTITY  permImage             "చిత్రములను లోడుచేయి">
-<!ENTITY  generalSecurityMore.accesskey "o">
+
 <!ENTITY  mediaSize             "పరిమాణం">
 <!ENTITY  securityTab           "రక్షణ">
 <!ENTITY  mediaBlockImage.accesskey "B">

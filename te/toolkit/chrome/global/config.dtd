@@ -38,8 +38,8 @@
 
 <!ENTITY filterPrefs.label "ఫిల్టర్:">
 <!ENTITY filterPrefs.accesskey "I">
-<!ENTITY showAll.label "అన్ని  చూపుము">
-<!ENTITY showAll.accesskey "W">
+<!ENTITY focusFilter.key "f">
+
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "అభీష్టం  నామము">

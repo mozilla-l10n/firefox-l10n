@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label             "కొత్త పుటులు దీనిలోనే తెరువబడాలి:">
-<!ENTITY inNewWindow.label            "ఒక కొత్త విండో">
-<!ENTITY inNewWindow.accesskey        "w">
-<!ENTITY inNewTab.label               "ఒక కొత్త  టాబు">
-<!ENTITY inNewTab.accesskey           "t">
+<!ENTITY newWindowsAsTabs.label       "కొత్త విండోలను కొత్త టాబులో తెరుచు">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
 
 <!ENTITY warnCloseMultipleTabs.label  "బహుళ టాబులను మూయునపుడు నన్నుహెచ్చరించు">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">

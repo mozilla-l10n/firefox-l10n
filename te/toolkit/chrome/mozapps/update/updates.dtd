@@ -4,22 +4,19 @@
 <!ENTITY  window.macWidth                 "39em">
 
 <!ENTITY  checking.title                  "నవీకరణల  కొరకు  పరిశీలిస్తున్నది">
-<!ENTITY  checking.label                  "&brandShortName; ఇప్పుడ  నవీకరణల కొరకు  పరిశీలిస్తున్నది...">
+<!ENTITY  updateCheck.label               "&brandShortName; ఇప్పుడు  నవీకరణల కొరకు  పరిశీలిస్తున్నది…">
 
-<!ENTITY  cancel.label                    "రద్దుచేయి">
-<!ENTITY  cancel.accesskey                "C">
+
 
 <!ENTITY  noupdatesfound.title            "ఏ  నవీకరణలు  కనుగొనబడలేదు">
-<!ENTITY  noupdatesfound.intro            "అక్కడ  ఏ  కొత్త  నవీకరణలు  అందుబాటులో  లేవు. &brandShortName; సమయానుసారం  కొత్తవాటి  కొరకు  పరశీలించవచ్చు.">
+<!ENTITY  noupdatesautoenabled.intro      "అక్కడ  ఏ  కొత్త  నవీకరణలు  అందుబాటులో  లేవు. &brandShortName; సమయానుసారం  కొత్తవాటి  కొరకు  పరశీలించవచ్చు.">
+<!ENTITY  noupdatesautodisabled.intro     "అక్కడ  ఏ  కొత్త  నవీకరణలు  అందుబాటులో  లేవు.  తరువాత  మరలు వెతకండి లేక &brandShortName; స్వయంచాలనంగా   కొత్తవాటి  కొరకు  పరశీలించటాన్ని  చేతనంచేయండి.">
+
+<!ENTITY  incompatibleCheck.title         " ఈ  విస్తరణ  సరిపోతుందా అని పరిశీలన ">
+<!ENTITY  incompatibleCheck.label         "మీ విస్తరణల నవీకరణలకోసం చూస్తున్నది…">
 
 <!ENTITY  clickHere.label                 "ఈ  నవీకరణ గురించి  ఎక్కువ  సమాచారాన్ని  చూడుము">
-
-<!ENTITY  incompatible.warning            "ఈ నవీకరణ  మీయొక్క  కొన్ని  విస్తరణలు  మరియు/లేదా థీమ్‌లు  నవీకరించబడేదాక  పనిచేయకుండా  వుండునట్లు వుండుటకు కారణంఅవుతుంది.">
-<!ENTITY  listIncompatible.label          "జాబితాను  చూపుము">
-<!ENTITY  listIncompatible.accesskey      "L">
-
-<!ENTITY  upgrade.evangelism              "మీకు సాద్యమైనంత  త్వరగా &brandShortName;ను  నవీకరించమని  గట్టిగా  సిఫార్సు  చేయబడింది.">
-
+<!ENTITY  evangelism.desc                 " &brandShortName; కి ఈ  నవీకరణ  త్వరగా చేయటంమంచిది .">
 <!ENTITY  license.instructions            "మీరు  ఈవొప్పందం యోక్క నిభందనలును ఆమోదించునట్లైతే  క్రిందవున్న  నాకుఆమోదమే అనుదానినినొక్కి  ఈనవీకరణ  సంస్థాపన  కొనసాగింపుము.">
 
 <!ENTITY  license.titleText               "సాఫ్టువేరు  విధాన  వొప్పందపత్రం">
@@ -30,16 +27,15 @@
 <!ENTITY  license.decline                 "నేను  విధాన  వొప్పందపత్రం యొక్క  నిభందనలను  ఆమోదించుటలేదు">
 <!ENTITY  license.decline.accesskey       "T">
 
+<!ENTITY  incompatibleList.title          " సరిపోని యాడ్  ఆన్ లు  కనబడినవి ">
+
 <!ENTITY  downloading.title               "నవీకరణను  డౌనులోడుచేస్తోంది">
 <!ENTITY  downloading.intro               "నవీకరణను  డౌనులోడుచేస్తోంది...">
 <!ENTITY  connecting.label                "నవీకరణ  సేవికకు  అనుసంధానించబడుతోంది...">
 <!ENTITY  verificationFailedText.label    "&brandShortName; అది డౌనులోడు  చేసిన  పురోగమన నవీకరణ యొక్క  ఐక్యతను  నిర్దారించలేకపోతోంది,అందుకని అది యిప్పుడు  పూర్తి  నవీకరణ ప్యాకేజ్‌ను డౌనులోడుచేస్తోంది.">
+<!ENTITY  viewDetails.tooltip             "ఈ నవీకరణ వివరాలు చూడు">
 
 <!ENTITY  details.link                    "వివరాలు">
-<!ENTITY  pause.label                     "నిలుపు">
-<!ENTITY  pause.accesskey                 "e">
-<!ENTITY  close.label                     "మూయి">
-<!ENTITY  close.accesskey                 "C">
 
 <!ENTITY  error.label                     "ఈ నవీకరణ సంస్థాపనకు  లేదా  డౌనులోడింగ్‌‌కు , పరిశీలనజరుపుటకు  సమస్యలు  వున్నవి. &brandShortName; నవీకరించబడదు  ఎంచేతంటే:">
                                            
@@ -48,14 +44,18 @@
 <!ENTITY  errorpatching.title             "నవీకరణ  విఫలమైంది">
 <!ENTITY  errorpatching.intro             "పరోక్ష  నవీకరణ  ఆపాదించబడదు. &brandShortName; పూర్తి  నవీకరణను  డౌనులోడుచేసి  తిరిగి  ప్రయత్నించాలి.">
 
-<!ENTITY  finished.title                  "నవీకరణ  డౌనులోడు అయింది">
-<!ENTITY  finished.text                   "నవీకరణ  సమర్దవంతంగా  డౌనులోడు  అయ్యింది మరియు  నిర్దారించబడింది,మరియు  తదుపరి  &brandShortName; ప్రారంభించ బడినప్పుడు  సంస్థాపించబడుతుంది.">
-
-<!ENTITY  finishedBackground.title        "నవీకరణ సంస్థాపనకు  సిద్దంగా  వున్నది">
-<!ENTITY  finishedBackground.text         "&brandShortName; ఒక  ముఖ్యమైన  నవీకరణను  డౌనులోడుచేసి మరియు నిర్దారించినది.ఎక్కువ  వివరాల కొరకు క్రింది  జోడీని  నోక్కండి .">
 <!ENTITY  finishedBackground.name         "నవీకరణ:">
-<!ENTITY  finishedBackground.more1        "నవీకరణ యిప్పుడే  సంస్థాపించుటకు  &brandShortName; పునఃప్రారంభంను  నొక్కండి  .">
 
+<!ENTITY  finishedPage.title              "నవీకరణ సంస్థాపనకు  సిద్దంగా  వున్నది">
+<!ENTITY  finishedPage.text               " &brandShortName;  పునఃప్రారంభం    చేసినపుడు ఈ నవీకరణ స్థాపించబడుతుంది . మీరు 
+                                           &brandShortName;ను ఇప్పుడు   పునఃప్రారంభం చేయండి లేక  పని కొనసాగించి ఆతరువాత   పునఃప్రారంభం చేయండి.">
+
+<!ENTITY  finishedBackgroundPage.text     "A security and stability update for &brandShortName; has been
+                                           downloaded and is ready to be installed.">
+
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more         " &brandShortName;  పునఃప్రారంభం    చేసినపుడు ఈ నవీకరణ స్థాపించబడుతుంది . మీరు 
+                                           &brandShortName;ను ఇప్పుడు   పునఃప్రారంభం చేయండి లేక  పని కొనసాగించి ఆతరువాత   పునఃప్రారంభం చేయండి.">
 <!ENTITY  installed.title                 "నవీకరణ  సంస్థాపించబడింది">
 <!ENTITY  installed.intro                 "ఆనవీకరణ సమర్ధవంతంగా  సంస్థాపించబడింది.">
 <!ENTITY  whatsnew.label                  "కొత్త దేంటో  దానిగురించి  బాగా చదవండి...">
@@ -63,5 +63,4 @@
 <!ENTITY  update.details.label            "వివరాలు">
 <!ENTITY  update.installedOn.label        "సంస్థాపించబడింది:">
 <!ENTITY  update.status.label             "స్థితి:">
-<!ENTITY  finishedBackground.textNotNow   "ఈ డైలాగ్‌ను మూసి పనికొనసాగించుటకు యిప్పుడుకాదు నొక్కండి. &brandShortName; తరువాతిసారి అది ప్రారంభమైనప్పుడు నవీకరణను సంస్థాపిస్తుంది.">
-<!ENTITY  incompatibleChecking.label      "ఈనవీకరణ మీపొడిగింపులు మరియు/లేదా థీమ్సుతో సమస్యలకు కారణమౌతుందేమో పరిశీలిస్తోంది…">
+

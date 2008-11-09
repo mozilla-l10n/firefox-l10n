@@ -22,8 +22,8 @@
 <!ENTITY printButton.tooltip            "ఈ  పేజీను  ముద్రించు">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY searchtab.label    	  	"శోధించు">
-<!ENTITY searchtab.accesskey            "S">
+<!ENTITY search.emptytext               "శోధించు">
+<!ENTITY searchHeader.label             "శోధన ఫలితాలు">
 <!ENTITY toctab.label       	  	"విషయసంగ్రహాలు">
 <!ENTITY toctab.accesskey               "C">
 
@@ -31,7 +31,7 @@
 
 <!ENTITY zLevel.label                   "ఎల్లప్పుడూ  పైనేవుంచు">
 <!ENTITY zLevel.accesskey               "T">
-<!ENTITY searchClose.tooltip            "శోధన పలితాలను మూయుము">
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.

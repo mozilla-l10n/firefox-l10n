@@ -1,24 +1,41 @@
-<!ENTITY sanitizeDialog.title         "వ్యక్తిగత డాటాను చెరిపివేయుము">
+<!ENTITY sanitizePrefs.title           "వ్యక్తిగత డాటాను చెరిపివేయుము">
+<!ENTITY sanitizeDialog2.title         "ఇటీవలి వీక్షణ చరిత్రను తొలగించు ">
 
 <!ENTITY sanitizeItems.label          "క్రింది అంశములను ఇప్పుడే చెరిపివేయుము:">
+<!ENTITY clearDataSettings2.label     "&brandShortName; నుండి బయటకు రాగానే, స్వయంచాలకంగా   అన్ని అంశములనుచెరిపివేయాలి :">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+<!ENTITY itemFormSearchEntries.label  "ఫారము  &amp; శోధన వివరాలు">
+<!ENTITY itemFormSearchEntries.accesskey "F">
 
-<!ENTITY itemHistory.label            "అన్వేషించిన సమాచారం">
-<!ENTITY itemHistory.accesskey        "B">
-<!ENTITY itemFormSearchHistory.label  "భద్రపరిచిన ఫాం మరియు అన్వేషించిన చరిత్ర">
-<!ENTITY itemFormSearchHistory.accesskey "F">
 <!ENTITY itemPasswords.label          "భద్రపరిచిన సంకేతపదాలు">
 <!ENTITY itemPasswords.accesskey      "P">
 <!ENTITY itemCookies.label            "కుకీలు">
 <!ENTITY itemCookies.accesskey        "C">
-<!ENTITY itemCache.label              "క్యాచీ">
-<!ENTITY itemCache.accesskey          "a">
-<!ENTITY itemDownloads.label          "చరిత్రను డౌనులోడుచేయి">
-<!ENTITY itemDownloads.accesskey      "D">
-<!ENTITY itemSessions.label           "దృవీకరించబడిన భాగాలు">
-<!ENTITY itemSessions.accesskey       "S">
-<!ENTITY clearDataSettings.label      "నేను &brandShortName;ను నావ్యక్తిగత డాటాను శుభ్రంచేమని అడుగగానే అది శుభ్రంచేయాలి:">
+<!ENTITY itemWebCache.label           "వెబ్ క్యాచి">
+<!ENTITY itemWebCache.accesskey       "W">
+
+<!ENTITY itemDownloadList.label       "డౌనులోడు చీటి">
+<!ENTITY itemDownloadList.accesskey   "D">
+<!ENTITY itemActiveLogins.label       "చేతన లాగ్ ఇన్లు">
+<!ENTITY itemActiveLogins.accesskey   "L">
+
+<!ENTITY clearDuration.label          "తొలగించు ">
+<!ENTITY clearDuration.lastHour       "ఇటీవలి  ఒక గంట">
+<!ENTITY clearDuration.last2Hours     "ఇటీవలి  2 గంటలు ">
+<!ENTITY clearDuration.last4Hours     "ఇటీవలి  4 గంటలు">
+<!ENTITY clearDuration.today          "నా  ఈనాటి వీక్షణ చరిత్ర ">
+<!ENTITY clearDuration.everything     "నా   వీక్షణ చరిత్ర మొత్తము ">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix         "">
+
+<!ENTITY historySection.label         "వీక్షణ చరిత్ర">
+<!ENTITY dataSection.label            "దత్తాంశము">
+<!ENTITY itemVisitedPages.label       "దర్శించిన పేజీలు">
+<!ENTITY itemVisitedPages.accesskey   "V">
+
 <!ENTITY itemOfflineApps.accesskey    "O">
 <!ENTITY itemOfflineApps.label        "ఆఫ్‌లైన్ వెబ్‌సైటు డాటా">
 <!ENTITY window.width                 "30em">
+<!ENTITY column.width                 "14em">

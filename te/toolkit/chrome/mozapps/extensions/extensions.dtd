@@ -87,6 +87,8 @@
 <!-- Status Messsages -->
 <!ENTITY needsDependencies.label          "అదనపు  అంశములు అవసరం.">
 <!ENTITY blocklisted.label                "మీ  రక్షణకొరకు  అచేతనం చేయబడింది.">
+<!ENTITY softBlocklisted.label            "అభద్రత  లేక అస్థిరత్వము కలగజేయునని తెలిసినది.">
+
 <!ENTITY toBeDisabled.label               "&brandShortName; పునఃప్రారంభమైనప్పుడు  ఈ  యాడ్-ఆన్  అచేతనం చేయిబడుతుంది">
 <!ENTITY toBeEnabled.label                "&brandShortName; పునఃప్రారంభమైనప్పుడు  ఈ  యాడ్-ఆన్‌ను చేతనం చేయిబడుతుంది.">
 <!ENTITY toBeInstalled.label              "&brandShortName; పునఃప్రారంభమైనప్పుడు  ఈ  యాడ్-ఆన్   సంస్థాపించబడుతుంది.">
@@ -164,3 +166,5 @@
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "ఆమోదించు మరియు సంస్థాపించు…">
+<!ENTITY blocklist.blocked.label          "నిలిపి వేయబడింది">
+<!ENTITY blocklist.checkbox.label         "అచేతనం">
