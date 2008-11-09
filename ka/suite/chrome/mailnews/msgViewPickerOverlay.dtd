@@ -6,11 +6,13 @@
 <!ENTITY viewAll.accesskey "A">
 <!ENTITY viewUnread.label "წასაკითხი">
 <!ENTITY viewUnread.accesskey "U">
+<!ENTITY viewNotDeleted.label "არ წაშლილა">
+<!ENTITY viewNotDeleted.accesskey "D">
 <!ENTITY viewTags.label "ჭდეები">
 <!ENTITY viewTags.accesskey "T">
-<!ENTITY viewCustomViews.label "საკუთარი ჩვენება">
+<!ENTITY viewCustomViews.label "საკუთარი ხედი">
 <!ENTITY viewCustomViews.accesskey "V">
-<!ENTITY viewVirtualFolder.label "ჩვენების დასტად შენახვა...">
+<!ENTITY viewVirtualFolder.label "ხედის დასტად შენახვა…">
 <!ENTITY viewVirtualFolder.accesskey "S">
-<!ENTITY viewCustomizeView.label "მორგება...">
+<!ENTITY viewCustomizeView.label "მორგება…">
 <!ENTITY viewCustomizeView.accesskey "C">

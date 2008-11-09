@@ -10,9 +10,6 @@
 <!ENTITY accOrgCookiesRadio.label       "ნაჭდევების მიღება მხოლოდ მისი დედნის საიტიდან">
 <!ENTITY accOrgCookiesRadio.accesskey   "o">
 
-<!ENTITY accP3PCookiesRadio.label       "ნაჭდევების მიღება პრივატულობის პარამეტრების წესებით">
-<!ENTITY accP3PCookiesRadio.accesskey   "p">
-
 <!ENTITY disableCookies.label           "ნაჭდევების აკრძალვა">
 <!ENTITY disableCookies.accesskey       "B">
 
@@ -38,6 +35,4 @@
 
 <!ENTITY viewCookies.label              "ნაჭდევების მმართველი">
 <!ENTITY viewCookies.accesskey          "M">
-<!ENTITY viewP3P.label                  "პრივატულობის პარამეტრების ჩვენება">
-<!ENTITY viewP3P.accesskey              "V">
 

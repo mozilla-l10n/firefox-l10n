@@ -37,7 +37,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Link Toolbar Title -->
-<!ENTITY linkToolbar.label "საიტზე ნავიგაციის პულტი">
+<!ENTITY linkToolbar.label "საიტის ნავიგაციის პანელი">
 <!ENTITY linkToolbar.accesskey "a">
 
 <!-- Link Toolbar visibility options -->
@@ -77,3 +77,5 @@
 <!ENTITY bookmarkButton.label "სანიშნეები">
 
 <!ENTITY alternateButton.label "სხვა ვერსიები">
+
+<!ENTITY feedButton.label "xხელმოწერა">

@@ -10,7 +10,7 @@
 <!ENTITY diskCacheFolder.label           "ბუფერის დასტის მისამართი:">
 <!ENTITY clearDiskCache.label            "ბუფერის გასუფთავება">
 <!ENTITY clearDiskCache.accesskey        "C">
-<!ENTITY chooseDiskCacheFolder.label     "დასტის არჩევა...">
+<!ENTITY chooseDiskCacheFolder.label     "დასტის არჩევა…">
 <!ENTITY chooseDiskCacheFolder.accesskey "F">
 <!ENTITY diskCacheFolderExplanation      "ბუფერის ფაილები შეინახება თქვენს მიერ მითითებული დასტის &quot;ბუფერი&quot; ქვედასტაში. ცვლილებები გააქტივდება &brandShortName;-ს ახალი სეანსის შემდეგ.">
 <!ENTITY docCache                        "ბუფერში განთავსებული გვერდის ქსელურ ვერსიასთან შედარება:">
@@ -26,4 +26,3 @@
 <!ENTITY prefetchTitle.label             "ბმის წინასწარი ჩატვირთვა">
 <!ENTITY enablePrefetch.label            "უქმად ყოფნისას მიმდინარე ბმების ვებგვერდების წინასწარი ჩატვირთვა, რათა ისინი უფრო სწრაფად გაიხსნას">
 <!ENTITY enablePrefetch.accesskey        "P">
-<!-- <!ENTITY prefetchDesc.label              "ამ ელემენტის შერჩევის შემთხვევაში &brandShortName; შეასრულებ შიგთავსის ბუფერირების საიტის მითითებებს.  ამგვარ საიტებს საიტის შიგთავსის სწრაფად ჩატვირთვა შეუძლიათ."> -->

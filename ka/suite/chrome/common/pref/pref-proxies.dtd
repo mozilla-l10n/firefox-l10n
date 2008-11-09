@@ -6,6 +6,8 @@
 <!ENTITY  proxyTitle.label              "პროქსის პარამეტრები ინტერნეტისთვის">
 <!ENTITY  directTypeRadio.label         "პირდაპირი კავშირი ინტერნეტთან">
 <!ENTITY  directTypeRadio.accesskey     "D">
+<!ENTITY  systemTypeRadio.label         "პროქსის სიტემური პარამეტრების გამოყენება">
+<!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  manualTypeRadio.label         "პროქსის თქვენეული პარამეტრები">
 <!ENTITY  manualTypeRadio.accesskey     "M">
 <!ENTITY  wpadTypeRadio.label           "პროქსი კონფიგურაციის თვითამოცნობა">
@@ -17,9 +19,9 @@
 <!ENTITY  http.label                    "პროქსი:">
 <!ENTITY  http.accesskey                "P">
 <!ENTITY  port.label                    "პორტი:">
-<!ENTITY  HTTPport.accesskey            "o">
-<!ENTITY  advanced.label                "დეტალები...">
+<!ENTITY  HTTPPort.accesskey            "o">
+<!ENTITY  advanced.label                "დეტალები…">
 <!ENTITY  advanced.accesskey            "v">
 <!ENTITY  noproxy.label                 "პროქსი არაა:">
 <!ENTITY  noproxy.accesskey             "N">
-<!ENTITY  noproxyExplain.label          "მაგალითი: .mozilla.org, .gia.ge, 192.168.1.0/24">
+<!ENTITY  noproxyExplain.label          "მაგალითი: .mozilla.org, .sangu.ge, 192.168.1.0/24">

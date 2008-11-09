@@ -51,6 +51,7 @@
 <!ENTITY unreadColumn.label "წასაკითხი საქაღალდეში">
 <!ENTITY totalColumn.label "სულა საქაღალდეში">
 <!ENTITY readColumn.label "წაკითხული">
+<!ENTITY receivedColumn.label "მიღებული">
 <!ENTITY flagColumn.label "ალამი">
 <!ENTITY locationColumn.label "მისამართი">
 <!ENTITY idColumn.label "მიღების რიგი">
@@ -72,6 +73,7 @@
 <!ENTITY unreadColumn.tooltip "წასაკითხი წერილების რაოდენობა საქაღალდეში">
 <!ENTITY totalColumn.tooltip "სულ წერილების რაოდენობა საქაღალდეში">
 <!ENTITY readColumn.tooltip "დაწკაპეთ წაკითხულით სორტირებისთვის">
+<!ENTITY receivedColumn.tooltip "დაწკაპეთ მიღების თარიღით სორტირებისთვის">
 <!ENTITY flagColumn.tooltip "დაწკაპეთ ალმით სორტირებისთვის">
 <!ENTITY locationColumn.tooltip "დაწკაპეთ მისამართით სორტირებისთვის">
 <!ENTITY idColumn.tooltip "დაწკაპეთ მიღების რიგით სორტირებისთვის">

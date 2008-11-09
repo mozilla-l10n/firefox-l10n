@@ -4,23 +4,23 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate accesskey and commandkey --> 
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE --> 
-<!ENTITY mainWindow.title "&brandShortName; {&buildId.label;}"> 
+<!ENTITY mainWindow.title "&brandShortName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
-<!ENTITY mainWindow.titlemodifier "&brandShortName; {&buildId.label;}"> 
+<!ENTITY mainWindow.titlemodifier "&brandShortName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
 <!ENTITY nothingAvailable.label "(ცარიელია)">
 
-<!ENTITY browserCmd.label	"ნავიგატორის ახალი ფანჯარა">
+<!ENTITY browserCmd.label	"ნავიგატორის ახალი სარკმელი">
 <!ENTITY browserCmd.accesskey	"N">
 <!ENTITY tabCmd.label "ნავიგატორის დაფა">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openCmd.label "ვებგვერდის გახსნა...">
+<!ENTITY openCmd.label "ვებგვერდის გახსნა…">
 <!ENTITY openCmd.accesskey "l">
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY openFileCmd.label "ფაილის გახსნა...">
+<!ENTITY openFileCmd.label "ფაილის გახსნა…">
 <!ENTITY openFileCmd.accesskey "o">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY recentTabs.label "ბოლოს დახურული დაფები">
@@ -34,14 +34,14 @@
 <!ENTITY editFrameSetCmd.label "ბლოკების რედაქცია">
 <!ENTITY editFrameSetCmd.accesskey "t">
 
-<!ENTITY uploadFile.label "ფაილის განახლება...">
+<!ENTITY uploadFile.label "ფაილის განახლება…">
 <!ENTITY uploadFile.accesskey "F">
 
-<!ENTITY printSetupCmd.label "გვერდის პარამეტრები...">
+<!ENTITY printSetupCmd.label "გვერდის პარამეტრები…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "ბეჭდვის ესკიზი">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "ბეჭდვა...">
+<!ENTITY printCmd.label "ბეჭდვა…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
 
@@ -52,7 +52,7 @@
 <!ENTITY toolbarsCmd.accesskey "w">
 <!ENTITY navbarCmd.label "ნავიგაციის პულტი">
 <!ENTITY navbarCmd.accesskey "N">
-<!ENTITY personalbarCmd.label "პერსონალური პულტი">
+<!ENTITY personalbarCmd.label "პირადი პულტი">
 <!ENTITY personalbarCmd.accesskey "p">
 <!ENTITY tabbarCmd.label "დაფების პანელი">
 <!ENTITY tabbarCmd.accesskey "T">
@@ -80,7 +80,9 @@
 <!ENTITY translate.commandKey "t">
 
 <!ENTITY closeOtherTabs.label "სხვა დაფების დახურვა">
-<!ENTITY closeWindow.label "ფანჯრის დახურვა">
+<!ENTITY closeOtherTabs.accesskey "T">
+<!ENTITY closeWindow.label "სარკმლის დახურვა">
+<!ENTITY closeWindow.accesskey "W">
 
 <!ENTITY minimizeButton.tooltip       "მინიმიზება">
 <!ENTITY restoreButton.tooltip        "აღდგენა">
@@ -117,7 +119,7 @@
 <!ENTITY getNewThemesCmd.accesskey "G">
 <!ENTITY searchMenu.label "ძიება">
 <!ENTITY searchMenu.accesskey "S">
-<!ENTITY findOnCmd.label "პოვნა ამ გვერდზე...">
+<!ENTITY findOnCmd.label "პოვნა ამ გვერდზე…">
 <!ENTITY findOnCmd.accesskey "f">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label "კვლავძიება">
@@ -133,6 +135,9 @@
 <!ENTITY searchInternetCmd.accesskey "S">
 <!ENTITY searchInternet.commandKey "s">
 
+<!ENTITY clearPrivateDataCmd.label "პირად მონაცემთა გასუფთავება…">
+<!ENTITY clearPrivateDataCmd.accesskey "e">
+
 <!ENTITY goMenu.label "გადასვლა">
 <!ENTITY goMenu.accesskey "g">
 <!ENTITY goHomeCmd.label "თავფურცელი">
@@ -142,14 +147,16 @@
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY addCurPageCmd.label "გვერდის სანიშნეებში შეტანა">
 <!ENTITY addCurPageCmd.accesskey "B">
-<!ENTITY addCurPageAsCmd.label "ფაილის სანიშნე...">
+<!ENTITY addCurPageAsCmd.label "ფაილის სანიშნე…">
 <!ENTITY addCurPageAsCmd.accesskey "F">
 <!ENTITY addCurPageAsCmd.commandkey "d">
-<!ENTITY addCurTabsAsCmd.label "დაფების ჯგუფის სანიშნეებში შეტანა...">
+<!ENTITY addCurTabsAsCmd.label "დაფების ჯგუფის სანიშნეებში შეტანა…">
 <!ENTITY addCurTabsAsCmd.accesskey "G">
-<!ENTITY manBookmarksCmd.label "სანიშნეების მართვა...">
+<!ENTITY manBookmarksCmd.label "სანიშნეების მართვა…">
 <!ENTITY manBookmarksCmd.accesskey "M">
 <!ENTITY manBookmarksCmd.commandkey "b">
+<!ENTITY feedsMenu.label "ხელმოწერა ამ გვერდზე">
+<!ENTITY feedsMenu.accesskey "S">
 <!ENTITY emptyItem.label "(ცარიელია)">
 
 <!ENTITY helpMenuCmd.label "კარნახი">
@@ -160,7 +167,7 @@
 <!ENTITY releaseNotesCmd.label "ვერსიის დოკუმენტაცია">
 
 <!ENTITY menuBar.tooltip                  "მენიუს პანელი">
-<!ENTITY personalToolbar.tooltip          "პერსონალური პულტი">
+<!ENTITY personalToolbar.tooltip          "პირადი პულტი">
 <!ENTITY navigationToolbar.tooltip        "ნავიგაციის პულტი">
 
 <!-- Toolbar items --> 

@@ -1,7 +1,7 @@
 <!-- extracted from content/pref-scripts.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Scripts & Plug-ins' preferences dialog -->
-<!ENTITY pref.scripts.title              "სკრიპტები და მოდულები">
+<!ENTITY pref.scripts.title              "სცენარები და მოდულები">
 
 <!ENTITY navigator.label                 "ნავიგატორი">
 <!ENTITY navigator.accesskey             "N">
@@ -10,8 +10,8 @@
 <!ENTITY enableJavaScript.label          "JavaScript-ის გააქტივება">
 <!ENTITY allowScripts.label              "სცენარების ნებადართვა:">
 <!ENTITY allowScripts.accesskey          "s">
-<!ENTITY allowWindowMoveResize.label     "ფანჯრების გადატანა ან ზომის შეცვლა">
-<!ENTITY allowWindowFlip.label           "ფანჯრების აწევ-დაწევა">
+<!ENTITY allowWindowMoveResize.label     "სარკმლების გადატანა ან ზომის შეცვლა">
+<!ENTITY allowWindowFlip.label           "სარკმლების აწევ-დაწევა">
 <!ENTITY allowWindowStatusChange.label   "სტატუსის პანელის ტექსტის შეცვლა">
 <!ENTITY allowWindowImageSrcChange.label "ნახატების შეცვლა">
 <!ENTITY allowContextmenuDisable.label   "კონტექსტური მენიუს გამორთვა ან შეცვლა">

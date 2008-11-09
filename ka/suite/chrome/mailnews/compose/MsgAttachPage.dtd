@@ -36,5 +36,5 @@
 <!ENTITY caption.label "ვებგვერდის თანდართვა">
 <!ENTITY enter.label "მიუთითეთ ვებ მისამართი (URL), ან ადგილობრივი ფაილი, რომლის თანდართვაც გსურთ:">
 <!ENTITY enter.accesskey "E">
-<!ENTITY chooseFile.label "ფაილის არჩევა...">
+<!ENTITY chooseFile.label "ფაილის არჩევა…">
 <!ENTITY chooseFile.accesskey "C">

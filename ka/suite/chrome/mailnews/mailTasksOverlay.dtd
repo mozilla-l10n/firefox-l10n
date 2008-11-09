@@ -11,9 +11,9 @@
 <!ENTITY taskAddressBook.tooltip  "წიგნაკი">
 
 <!-- searchAddressesCmd is also used by addressbook -->
-<!ENTITY searchAddressesCmd.label                       "მისამართების ძიება...">
+<!ENTITY searchAddressesCmd.label                       "მისამართების ძიება…">
 <!ENTITY searchAddressesCmd.accesskey                   "A">
 
-<!ENTITY searchMailCmd.label "წერილების ძიება...">
+<!ENTITY searchMailCmd.label "წერილების ძიება…">
 <!ENTITY searchMailCmd.accesskey "M">
 <!ENTITY searchMailCmd.key "f">

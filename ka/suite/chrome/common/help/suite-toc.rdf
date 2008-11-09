@@ -10,7 +10,7 @@
       <rdf:Seq>
         <rdf:li> <rdf:Description ID="welcome" nc:name="Help and Support Center" nc:link="welcome_help.xhtml"/> </rdf:li>
         <rdf:li> <rdf:Description ID="help-help" nc:name="Using the Help Window" nc:link="help_help.xhtml"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="ieusers" nc:name="For Internet Explorer Users" nc:link="forieusers.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="ieusers"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav" nc:name="Browsing the Web" nc:link="nav_help.xhtml"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail" nc:name="Using Mail" nc:link="mail_help.xhtml"/> </rdf:li>
         <rdf:li> <rdf:Description ID="comp" nc:name="Creating Web Pages"  nc:link="composer_help.xhtml"/> </rdf:li>
@@ -35,18 +35,6 @@
     </nc:subheadings>
   </rdf:Description>
 
-  <rdf:Description about="#ieusers">
-    <nc:subheadings>
-      <rdf:Seq>
-        <rdf:li> <rdf:Description ID="terms" nc:name="Terminology Differences" nc:link="forieusers.xhtml#mozilla_and_internet_explorer_terminology_differences"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="favorites" nc:name="About Your IE Favorites" nc:link="forieusers.xhtml#about_your_ie_favorites"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="key-features" nc:name="Browser Features" nc:link="forieusers.xhtml#browser_features"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="more-features" nc:name="Other Features" nc:link="forieusers.xhtml#other_features"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="keyboard-shortcuts" nc:name="Keyboard Shortcuts" nc:link="forieusers.xhtml#keyboard_shortcuts"/> </rdf:li>
-      </rdf:Seq>
-    </nc:subheadings>
-  </rdf:Description>
-
   <rdf:Description about="#nav">
     <nc:subheadings>
       <rdf:Seq>
@@ -54,7 +42,7 @@
         <rdf:li> <rdf:Description ID="nav-doc-search" nc:name="Searching the Web" nc:link="nav_help.xhtml#searching_the_web"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-printsave" nc:name="Copying, Saving, and Printing Pages" nc:link="nav_help.xhtml#copying_saving_and_printing_pages"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-language" nc:name="Using Languages and International Content" nc:link="nav_help.xhtml#using_languages_and_international_content"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-plugins" nc:name="Plug-ins and Downloads" nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-pluginsdownloads" nc:name="Plugins and Downloads" nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-ses" nc:name="Improving Speed and Efficiency" nc:link="nav_help.xhtml#improving_speed_and_efficiency"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-proxies" nc:name="Proxies" nc:link="nav_help.xhtml#proxies"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-page-info" nc:name="Viewing Page Info" nc:link="page_info_help.xhtml"/> </rdf:li>
@@ -83,7 +71,6 @@
         <rdf:li> <rdf:Description ID="nav-doc-searchweb" nc:name="Fast Searches" nc:link="nav_help.xhtml#fast_searches"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-smartsearch" nc:name="Sidebar Advanced Search Mode" nc:link="nav_help.xhtml#sidebar_advanced_search_mode"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-searchprefs" nc:name="Setting Search Preferences" nc:link="nav_help.xhtml#setting_search_preferences"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-keywords" nc:name="Using Internet Keywords" nc:link="nav_help.xhtml#using_internet_keywords"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-searchpage" nc:name="Searching Within a Page" nc:link="nav_help.xhtml#searching_within_a_page"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-find_as_you_type" nc:name="Using Find-as-you-type" nc:link="nav_help.xhtml#using_find_as_you_type"/></rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-searchbookmark" nc:name="Searching the Bookmarks or History List" nc:link="nav_help.xhtml#searching_the_bookmarks_or_history_list"/> </rdf:li>
@@ -111,10 +98,10 @@
     </nc:subheadings>
   </rdf:Description>
 
-  <rdf:Description about="#nav-doc-plugins">
+  <rdf:Description about="#nav-doc-pluginsdownloads">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="nav-doc-plug-ins" nc:name="Plug-ins" nc:link="nav_help.xhtml#plug-ins"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-plugins" nc:name="Plugins" nc:link="nav_help.xhtml#plugins"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-helperapps" nc:name="Helper Applications" nc:link="nav_help.xhtml#helper_applications"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-dlmanager" nc:name="Download Manager" nc:link="nav_help.xhtml#download_manager"/> </rdf:li>
       </rdf:Seq>
@@ -196,7 +183,7 @@
         <rdf:li> <rdf:Description ID="mail-doc-view" nc:name="Choosing How You View the Mail Window"  nc:link="mail_help.xhtml#choosing_how_you_view_the_mail_window"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-thread" nc:name="Sorting and Threading Messages"  nc:link="mail_help.xhtml#sorting_and_threading_messages"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-printsave" nc:name="Saving and Printing Messages"  nc:link="mail_help.xhtml#saving_and_printing_messages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-scripts" nc:name="Controlling Images, Scripts, and Plug-ins"  nc:link="mail_help.xhtml#controlling_images_scripts_and_plug-ins"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-scripts" nc:name="Controlling Images, Scripts, and Plugins"  nc:link="mail_help.xhtml#controlling_images_scripts_and_plugins"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -417,7 +404,7 @@
         <rdf:li> <rdf:Description ID="sign-encrypt-signing" nc:name="Signing &amp; Encrypting a New Message" nc:link="mail_sec_help.xhtml#signing_and_encrypting_a_new_message" /> </rdf:li>
         <rdf:li> <rdf:Description ID="sign-encrypt-read" nc:name="Reading Signed &amp; Encrypted Messages" nc:link="mail_sec_help.xhtml#reading_signed_and_encrypted_messages" /> </rdf:li>
         <rdf:li> <rdf:Description ID="compose_security" nc:name="Message Security - Compose Window" nc:link="mail_sec_help.xhtml#message_security_compose_window" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="received_security" nc:name="Message Security - Received Message" nc:link="mail_sec_help.xhtml#message_security_recieved_message" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="received_security" nc:name="Message Security - Received Message" nc:link="mail_sec_help.xhtml#message_security_received_message" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -672,7 +659,9 @@
         <rdf:li> <rdf:Description ID="cust-toolbar" nc:name="Toolbars"  nc:link="customize_help.xhtml#toolbars"/> </rdf:li>
         <rdf:li> <rdf:Description ID="cust-bkmk" nc:name="Bookmarks"  nc:link="customize_help.xhtml#bookmarks"/> </rdf:li>
         <rdf:li> <rdf:Description ID="cust-page" nc:name="Specifying How &brandShortName; Starts Up"  nc:link="customize_help.xhtml#specifying_how_mozilla_starts_up"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-settings" nc:name="Navigator Settings"  nc:link="cs_nav_prefs_appearance.xhtml#navigator_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="appearance_pref" nc:name="Appearance Preferences" nc:link="cs_nav_prefs_appearance.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="navigator_pref_navigator" nc:name="Browser Preferences" nc:link="cs_nav_prefs_navigator.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="advanced_pref_advanced" nc:name="Advanced Preferences" nc:link="cs_nav_prefs_advanced.xhtml"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -750,24 +739,12 @@
     </nc:subheadings>
   </rdf:Description>
 
-<rdf:Description about="#nav-settings">
-    <nc:subheadings>
-      <rdf:Seq>
-        <rdf:li><rdf:Description ID="appearance_pref" nc:name="Appearance" nc:link="cs_nav_prefs_appearance.xhtml#appearance_preferences"/> </rdf:li>
-        <rdf:li><rdf:Description ID="navigator_pref_navigator" nc:name="Navigator" nc:link="cs_nav_prefs_navigator.xhtml#navigator_preferences"/> </rdf:li>
-        <rdf:li><rdf:Description ID="advanced_pref_advanced" nc:name="Advanced" nc:link="cs_nav_prefs_advanced.xhtml"/> </rdf:li>
-
-      </rdf:Seq>
-    </nc:subheadings>
-  </rdf:Description>
-
 <rdf:Description about="#appearance_pref">
     <nc:subheadings>
       <rdf:Seq>
+        <rdf:li> <rdf:Description ID="appearance_pref_content" nc:name="Content" nc:link="cs_nav_prefs_appearance.xhtml#content"/> </rdf:li>
         <rdf:li> <rdf:Description ID="appearance_pref_fonts" nc:name="Fonts" nc:link="cs_nav_prefs_appearance.xhtml#fonts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="appearance_pref_colors" nc:name="Colors" nc:link="cs_nav_prefs_appearance.xhtml#colors"/> </rdf:li>
-        <rdf:li><rdf:Description ID="appearance_pref_themes" nc:name="Themes" nc:link="cs_nav_prefs_appearance.xhtml#themes"/> </rdf:li>
-        <rdf:li><rdf:Description ID="appearance_pref_locales" nc:name="Languages" nc:link="cs_nav_prefs_appearance.xhtml#locales"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="appearance_pref_colors" nc:name="Colors" nc:link="cs_nav_prefs_appearance.xhtml#colors"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -778,19 +755,10 @@
         <rdf:li><rdf:Description ID="navigator_pref_history" nc:name="History" nc:link="cs_nav_prefs_navigator.xhtml#history"/> </rdf:li>
         <rdf:li><rdf:Description ID="navigator_pref_languages" nc:name="Languages" nc:link="cs_nav_prefs_navigator.xhtml#languages"/> </rdf:li>
         <rdf:li><rdf:Description ID="navigator_pref_helper_applications" nc:name="Helper Applications" nc:link="cs_nav_prefs_navigator.xhtml#helper_applications"/> </rdf:li>
-        <rdf:li><rdf:Description ID="navigator_pref_smart_browsing" nc:name="Smart Browsing" nc:link="cs_nav_prefs_navigator.xhtml#smart_browsing"/> </rdf:li>
+        <rdf:li><rdf:Description ID="navigator_pref_location_bar" nc:name="Location Bar" nc:link="cs_nav_prefs_navigator.xhtml#location_bar"/> </rdf:li>
         <rdf:li><rdf:Description ID="navigator_pref_internet_searching" nc:name="Internet Search" nc:link="cs_nav_prefs_navigator.xhtml#internet_search"/> </rdf:li>
         <rdf:li><rdf:Description ID="navigator_pref_tabbed_browsing" nc:name="Tabbed Browsing" nc:link="cs_nav_prefs_navigator.xhtml#tabbed_browsing"/> </rdf:li>
-        <rdf:li><rdf:Description ID="navigator_pref_link_handling" nc:name="Link Handling" nc:link="cs_nav_prefs_navigator.xhtml#link_handling"/> </rdf:li>
         <rdf:li><rdf:Description ID="navigator_pref_downloads" nc:name="Downloads" nc:link="cs_nav_prefs_navigator.xhtml#downloads"/> </rdf:li>
-      </rdf:Seq>
-    </nc:subheadings>
-  </rdf:Description>
-
-<rdf:Description about="#navigator_pref_smart_browsing">
-    <nc:subheadings>
-      <rdf:Seq>
-        <rdf:li><rdf:Description ID="navigator_pref_autocomplete-adv" nc:name="Auto-complete" nc:link="cs_nav_prefs_navigator.xhtml#location_bar_autocomplete"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -798,7 +766,7 @@
 <rdf:Description about="#advanced_pref_advanced">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="advanced_pref_scripts" nc:name="Scripts &amp; Plug-ins" nc:link="cs_nav_prefs_advanced.xhtml#scripts_and_plug-ins"/> </rdf:li>
+        <rdf:li><rdf:Description ID="advanced_pref_scripts" nc:name="Scripts &amp; Plugins" nc:link="cs_nav_prefs_advanced.xhtml#scripts_and_plugins"/> </rdf:li>
         <rdf:li><rdf:Description ID="advanced_pref_keyboard_nav" nc:name="Keyboard Navigation" nc:link="cs_nav_prefs_advanced.xhtml#keyboard_navigation"/> </rdf:li>
         <rdf:li><rdf:Description ID="advanced_pref_cache" nc:name="Cache" nc:link="cs_nav_prefs_advanced.xhtml#cache"/> </rdf:li>
         <rdf:li><rdf:Description ID="advanced_pref_proxies" nc:name="Proxies" nc:link="cs_nav_prefs_advanced.xhtml#proxies"/> </rdf:li>
@@ -847,7 +815,6 @@
         <rdf:li><rdf:Description ID="using-priv-help-cookies-site" nc:name="Managing Cookies Site-By-Site" nc:link="using_priv_help.xhtml#managing_cookies_site-by-site"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-priv-help-cookies-view" nc:name="Viewing Cookies" nc:link="using_priv_help.xhtml#viewing_cookies"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-priv-help-cookies-remove" nc:name="Removing Cookies" nc:link="using_priv_help.xhtml#removing_cookies"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-priv-help-cookies-policies" nc:name="Setting Privacy Levels" nc:link="using_priv_help.xhtml#setting_privacy_levels"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-priv-help-cookies-settings" nc:name="Cookie Manager Settings" nc:link="using_priv_help.xhtml#cookie_manager_settings"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -859,7 +826,6 @@
         <rdf:li><rdf:Description ID="cookies_prefs" nc:name="Cookie Preferences" nc:link="using_priv_help.xhtml#cookies"/> </rdf:li>
         <rdf:li><rdf:Description ID="cookies_stored" nc:name="Stored Cookies" nc:link="using_priv_help.xhtml#stored_cookies"/> </rdf:li>
         <rdf:li><rdf:Description ID="cookie_sites" nc:name="Cookie Sites" nc:link="using_priv_help.xhtml#cookie_sites"/> </rdf:li>
-        <rdf:li><rdf:Description ID="privacy_levels" nc:name="Privacy Settings" nc:link="using_priv_help.xhtml#privacy_settings"/> </rdf:li>
         <rdf:li><rdf:Description ID="cookie_notify" nc:name="Cookie Notification" nc:link="using_priv_help.xhtml#cookie_notification"/> </rdf:li>
 
       </rdf:Seq>
@@ -909,7 +875,6 @@
         <rdf:li><rdf:Description ID="using-priv-help-forms-notify" nc:name="Turning off Form Manager Notification" nc:link="using_priv_help.xhtml#turning_off_form_manager_notification"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-priv-help-forms-view-edit" nc:name="Managing Stored Form Data" nc:link="using_priv_help.xhtml#managing_stored_form_data"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-priv-help-sites-view-edit" nc:name="Editing Stored Site Information" nc:link="using_priv_help.xhtml#editing_stored_site_information"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-priv-help-forms-forms" nc:name="Viewing Privacy Policies" nc:link="using_priv_help.xhtml#viewing_privacy_policies"/> </rdf:li>
         <rdf:li><rdf:Description ID="form_settings" nc:name="Form Settings" nc:link="using_priv_help.xhtml#form_settings"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -1170,7 +1135,7 @@
       <rdf:Seq>
         <rdf:li><rdf:Description ID="shortcuts_using" nc:name="Using Shortcuts" nc:link="shortcuts.xhtml#using_shortcuts"/> </rdf:li>
         <rdf:li><rdf:Description ID="shortcuts_general" nc:name="General &brandShortName; Shortcuts" nc:link="shortcuts.xhtml#general_mozilla_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_navigator" nc:name="Navigator Shortcuts" nc:link="shortcuts-navigator.xhtml"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_navigator" nc:name="Browser Shortcuts" nc:link="shortcuts-navigator.xhtml"/> </rdf:li>
         <rdf:li><rdf:Description ID="shortcuts_mail" nc:name="Mail &amp; Newsgroups Shortcuts" nc:link="shortcuts-mailnews.xhtml"/> </rdf:li>
         <rdf:li><rdf:Description ID="shortcuts_composer" nc:name="Composer Shortcuts" nc:link="shortcuts-composer.xhtml"/> </rdf:li>
         <rdf:li><rdf:Description ID="shortcuts_help" nc:name="Help Window Shortcuts" nc:link="shortcuts.xhtml#help_window_shortcuts"/> </rdf:li>

@@ -1,6 +1,6 @@
 <!ENTITY tabHeader.label "დაფების გამოყენება">
 <!ENTITY tabDisplay.label "დაფების ჩვენება">
-<!ENTITY autoHide.label "დაფების პულტის დამალვა მხოლოდ ერთი გახსნილი დაფის შემთხვევაში">
+<!ENTITY autoHide.label "დაფების პანელის დამალვა მხოლოდ ერთი გახსნილი დაფის შემთხვევაში">
 <!ENTITY autoHide.accesskey "d">
 <!ENTITY background.label "ბმებიდან გახსნილი დაფების არჩევა">
 <!ENTITY background.accesskey "S">
@@ -9,18 +9,18 @@
 <!ENTITY loadGroupAppend.accesskey "A">
 <!ENTITY loadGroupReplace.label "არსებული დაფების შეცვლა">
 <!ENTITY loadGroupReplace.accesskey "R">
-<!ENTITY openTabs.label "ფანჯრების ნაცვლად დაფებად გახსნა როცა:">
+<!ENTITY openTabs.label "სარკმლების ნაცვლად დაფებად გახსნა როცა:">
 
 <!ENTITY newWindow.label "ბმის გახსნის წესები">
-<!ENTITY newWindowDescription.label "ბმების გახსნა ნიშნავს ფანჯრის გახსნას">
+<!ENTITY newWindowDescription.label "ბმების გახსნა ნიშნავს ახალი სარკმლის გახსნას">
 <!ENTITY external.label "სხვა პროგრამების ბმების გახსნა">
 <!ENTITY externalDescription.label "სხვა პროგრამებიდან გადმოცემული ბმების გახსნა">
-<!ENTITY openCurrent.label "მიმდინარე დაფაზე/ფანჯარაში">
+<!ENTITY openCurrent.label "მიმდინარე დაფაზე/სარკმელში">
 <!ENTITY newWindowGroupCurrent.accesskey "c">
 <!ENTITY externalGroupCurrent.accesskey "u">
-<!ENTITY openTab.label "მიმდინარე ფანჯრის ახალ დაფაზე">
+<!ENTITY openTab.label "მიმდინარე სარკმლის ახალ დაფაზე">
 <!ENTITY newWindowGroupTab.accesskey "n">
 <!ENTITY externalGroupTab.accesskey "e">
-<!ENTITY openWindow.label "ახალ ფანჯარაში">
+<!ENTITY openWindow.label "ახალ სარკმელში">
 <!ENTITY newWindowGroupWindow.accesskey "w">
 <!ENTITY externalGroupWindow.accesskey "o">

@@ -1,0 +1,22 @@
+<!--LOCALIZATION NOTE : FILE The Location Bar prefs panel -->
+<!ENTITY pref.locationBar.title                "მისამართების პანელი">
+
+<!ENTITY autoComplete.label                    "თვითდასრულება">
+<!ENTITY enableAutoComplete.label              "თვითდასრულება ისტორიაზე დაყრდნობით ტექსტის შეტანისას">
+<!ENTITY enableAutoComplete.accesskey          "A">
+<!ENTITY autoCompleteAutoFill.label            "თვითშევსება საუკეთესო თანხვედრის მიხედვით">
+<!ENTITY autoCompleteAutoFill.accesskey        "u">
+<!ENTITY autoCompleteShowPopup.label           "თანხვედრათა შედეგების სიის ჩვენება">
+<!ENTITY autoCompleteShowPopup.accesskey       "S">
+<!ENTITY autoCompleteMatchOnlyTyped.label      "თანხვედრები მხოლოდ ადრე მითითებული ვებსაიტებთან">
+<!ENTITY autoCompleteMatchOnlyTyped.accesskey  "M">
+
+<!ENTITY searchEngine.label                    "ინტერნეტის საძიებო სისტემა">
+<!ENTITY showSearchEngine.label                "ნაგულისხმები საძიებო სისტემის ჩვენება">
+<!ENTITY showSearchEngine.accesskey            "e">
+
+<!ENTITY unknownLocations.label                "უცნობი მისამართები">
+<!ENTITY domainGuessing.label                  "მისამართებისთვის &quot;www.&quot; და &quot;.com&quot; დამატება თუ ვებგვერდი ვერ მოიძებნა">
+<!ENTITY domainGuessing.accesskey              "d">
+<!ENTITY keywords.label                        "ინტერნეტ ძიება როც ტექსტი ვებ მისამართი არ გახლავთ">
+<!ENTITY keywords.accesskey                    "P">

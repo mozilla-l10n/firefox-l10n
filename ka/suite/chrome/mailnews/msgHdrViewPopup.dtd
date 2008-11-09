@@ -36,13 +36,16 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Message Header View Popup -->
-<!ENTITY AddToAddressBook.label            "წიგნაკში ჩამატება...">
+<!ENTITY AddToAddressBook.label            "წიგნაკში ჩამატება…">
 <!ENTITY AddToAddressBook.accesskey        "B">
-<!ENTITY SendMailTo.label                  "წერილის შექმნა...">
+<!ENTITY SendMailTo.label                  "წერილის შექმნა…">
 <!ENTITY SendMailTo.accesskey              "s">
 <!ENTITY CopyEmailAddress.label            "ელფოსტის მისამართის კოპირება">
 <!ENTITY CopyEmailAddress.accesskey        "C">
-<!ENTITY CreateFilterFrom.label            "ფილტრის შექმნა...">
+<!ENTITY CreateFilterFrom.label            "ფილტრის შექმნა…">
 <!ENTITY CreateFilterFrom.accesskey        "F">
 <!ENTITY BlockAddress.label                "მისამართების დაბლოკვა">
 <!ENTITY BlockAddress.accesskey            "A">
+<!ENTITY CopyMessageId.label               "გზავნილის კოპირება კოდით (ID)">
+<!ENTITY OpenMessageForMsgId.label         "გზავნილის გახსნა კოდით (ID)">
+<!ENTITY OpenBrowserWithMsgId.label        "ბრაუზერით გზავნილის გახსნა კოდით (ID)">

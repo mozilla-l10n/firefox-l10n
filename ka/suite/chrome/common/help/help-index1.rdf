@@ -169,6 +169,56 @@
          nc:link="customize_help.xhtml#changing_your_home_page"/>
      </rdf:li>
      <rdf:li>
+       <rdf:Description ID="browser:controlling_popups"
+         nc:name="controlling popups"
+         nc:link="cs_priv_prefs_popup.xhtml#controlling_popups"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="browser:Download_Manager"
+         nc:name="Download Manager"
+         nc:link="nav_help.xhtml#plugins_and_downloads"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="browser:full_screen_mode"
+         nc:name="Full screen mode"
+         nc:link="nav_help.xhtml#full_screen_mode"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="browser:helper_applications"
+         nc:name="helper applications"
+         nc:link="cs_nav_prefs_navigator.xhtml#helper_applications"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="browser:home_page"
+         nc:name="home page"
+         nc:link="nav_help.xhtml#viewing_your_home_page"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="browser:keyboard_shortcuts"
+         nc:name="keyboard shortcuts"
+         nc:link="shortcuts-navigator.xhtml"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="browser:opening_pages"
+         nc:name="opening pages"
+         nc:link="nav_help.xhtml#moving_to_another_page"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="browser:preferences"
+         nc:name="Browser Preferences"
+         nc:link="cs_nav_prefs_navigator.xhtml#navigator_preferences"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="browser:set_as_wallpaper"
+         nc:name="set as wallpaper"
+         nc:link="nav_help.xhtml#setting_image_as_wallpaper"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="browser:start_page"
+         nc:name="start page"
+         nc:link="customize_help.xhtml#specifying_a_starting_page"/>
+     </rdf:li>
+     <rdf:li>
        <rdf:Description ID="browser:start_up_components"
          nc:name="start up components"
          nc:link="customize_help.xhtml#specifying_which_components_open_at_launch"/>
@@ -446,11 +496,6 @@
        <rdf:Description ID="cookies:preferences"
          nc:name="cookie preferences"
          nc:link="using_priv_help.xhtml#cookies"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="cookies:privacy_levels_for"
-         nc:name="privacy levels"
-         nc:link="using_priv_help.xhtml#setting_privacy_levels"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="cookies:removing"
@@ -761,16 +806,6 @@
        <rdf:Description ID="intermediate_server_CA_certificates"
          nc:name="intermediate server CA certificates"
          nc:link="cert_dialog_help.xhtml#web_site_certified_by_an_unknown_authority"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="ieusers"
-         nc:name="Internet Explorer User Help"
-         nc:link="forieusers.xhtml"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="Internet_Keywords"
-         nc:name="Internet Keywords"
-         nc:link="nav_help.xhtml#using_internet_keywords"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -851,31 +886,6 @@
    </nc:subheadings>
 </rdf:Description>
 
-<rdf:Description about="#ieusers">
-   <nc:subheadings>
-     <rdf:Seq><rdf:li>
-       <rdf:Description ID="ieusers:terminology-differences"
-         nc:name="Terminology Differences"
-         nc:link="forieusers.xhtml#mozilla_and_internet_explorer_terminology_differences"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="ieusers:your-favorites"
-         nc:name="About Your IE Favorites"
-         nc:link="forieusers.xhtml#about_your_ie_favorites"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="ieusers:additional-software"
-         nc:name="Other Features"
-         nc:link="forieusers.xhtml#other_features"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="ieusers:keyboard-shortcuts"
-         nc:name="Keyboard Shortcuts"
-         nc:link="forieusers.xhtml#keyboard_shortcuts"/>
-     </rdf:li></rdf:Seq>
-   </nc:subheadings>
-</rdf:Description>
-
 <rdf:Description about="help-indexAZ.rdf#j">
    <nc:subheadings>
      <rdf:Seq><rdf:li>
@@ -900,7 +910,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="JavaScript:preferences"
          nc:name="JavaScript Preferences"
-         nc:link="cs_nav_prefs_advanced.xhtml#scripts_and_plug-ins"/>
+         nc:link="cs_nav_prefs_advanced.xhtml#scripts_and_plugins"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -949,7 +959,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="keyboard_shortcuts:Navigator"
-         nc:name="Navigator keyboard shortcuts"
+         nc:name="Browser keyboard shortcuts"
          nc:link="shortcuts-navigator.xhtml"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
@@ -984,8 +994,8 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="languages:Appearance_preferences"
-         nc:name="Appearance preferences"
-         nc:link="cs_nav_prefs_appearance.xhtml#locales"/>
+         nc:name="User interface languages"
+         nc:link="cs_nav_prefs_appearance.xhtml#appearance"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1283,74 +1293,9 @@
          nc:link="help_help.xhtml#finding_the_topic_you_want"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="Navigator"
-         nc:name="Navigator"
-         nc:link="nav_help.xhtml"/>
-     </rdf:li>
-     <rdf:li>
        <rdf:Description ID="Newsgroups"
          nc:name="Newsgroups"
          nc:link="mail_help.xhtml#getting_started_with_newsgroups"/>
-     </rdf:li></rdf:Seq>
-   </nc:subheadings>
-</rdf:Description>
-
-<rdf:Description about="#Navigator">
-   <nc:subheadings>
-     <rdf:Seq><rdf:li>
-       <rdf:Description ID="Navigator:changing_your_home_page"
-         nc:name="changing your home page"
-         nc:link="customize_help.xhtml#changing_your_home_page"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="Navigator:controlling_popups"
-         nc:name="controlling popups"
-         nc:link="cs_priv_prefs_popup.xhtml#controlling_popups"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="Navigator:Download_Manager"
-         nc:name="Download Manager"
-         nc:link="nav_help.xhtml#plugins_and_downloads"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="Navigator:full_screen_mode"
-         nc:name="Full screen mode"
-         nc:link="nav_help.xhtml#full_screen_mode"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="Navigator:helper_applications"
-         nc:name="helper applications"
-         nc:link="cs_nav_prefs_navigator.xhtml#helper_applications"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="Navigator:home_page"
-         nc:name="home page"
-         nc:link="nav_help.xhtml#viewing_your_home_page"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="Navigator:keyboard_shortcuts"
-         nc:name="keyboard shortcuts"
-         nc:link="shortcuts-navigator.xhtml"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="Navigator:opening_pages"
-         nc:name="opening pages"
-         nc:link="nav_help.xhtml#moving_to_another_page"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="Navigator:preferences"
-         nc:name="Navigator Preferences"
-         nc:link="cs_nav_prefs_navigator.xhtml#navigator_preferences"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="Navigator:set_as_wallpaper"
-         nc:name="set as wallpaper"
-         nc:link="nav_help.xhtml#setting_image_as_wallpaper"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="Navigator:start_page"
-         nc:name="start page"
-         nc:link="customize_help.xhtml#specifying_a_starting_page"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1418,7 +1363,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="plugins"
-         nc:name="plug-ins"
+         nc:name="plugins"
          nc:link="nav_help.xhtml#plugins_and_downloads"/>
      </rdf:li>
      <rdf:li>
@@ -1567,9 +1512,9 @@
          nc:link="cs_nav_prefs_appearance.xhtml#colors"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="preferences:locales"
-         nc:name="User Interface languages preferences"
-         nc:link="cs_nav_prefs_appearance.xhtml#locales"/>
+       <rdf:Description ID="preferences:content"
+         nc:name="content preferences"
+         nc:link="cs_nav_prefs_appearance.xhtml#content"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="preferences:cookies"
@@ -1614,7 +1559,7 @@
      <rdf:li>
        <rdf:Description ID="preferences:JavaScript"
          nc:name="JavaScript preferences"
-         nc:link="cs_nav_prefs_advanced.xhtml#scripts_and_plug-ins"/>
+         nc:link="cs_nav_prefs_advanced.xhtml#scripts_and_plugins"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="preferences:keyboard"
@@ -1628,7 +1573,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="preferences:Navigator"
-         nc:name="Navigator preferences"
+         nc:name="Browser preferences"
          nc:link="cs_nav_prefs_navigator.xhtml#navigator_preferences"/>
      </rdf:li>
      <rdf:li>
@@ -1672,11 +1617,6 @@
          nc:link="cs_nav_prefs_navigator.xhtml#tabbed_browsing"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="preferences:themes"
-         nc:name="themes preferences"
-         nc:link="cs_nav_prefs_appearance.xhtml#themes"/>
-     </rdf:li>
-     <rdf:li>
        <rdf:Description ID="preferences:validation"
          nc:name="validation preferences"
          nc:link="validation_help.xhtml#privacy_and_security_preferences_validation"/>
@@ -1702,16 +1642,6 @@
          nc:link="privacy_help.xhtml#internet_address"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="privacy:P3P_levels"
-         nc:name="P3P levels"
-         nc:link="using_priv_help.xhtml#setting_privacy_levels"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="privacy:P3P_standard_and"
-         nc:name="P3P standard"
-         nc:link="page_info_help.xhtml"/>
-     </rdf:li>
-     <rdf:li>
        <rdf:Description ID="privacy:preferences"
          nc:name="privacy preferences"
          nc:link="privsec_help.xhtml"/>
@@ -1720,11 +1650,6 @@
        <rdf:Description ID="privacy:protecting"
          nc:name="protecting your privacy"
          nc:link="privacy_help.xhtml#using_privacy_features"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="privacy:settings"
-         nc:name="privacy settings"
-         nc:link="using_priv_help.xhtml#privacy_settings"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="privacy:viewing_site_policy"

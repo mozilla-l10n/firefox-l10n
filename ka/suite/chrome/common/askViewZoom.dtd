@@ -35,6 +35,5 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- hopefully this will become view zoom, not just text zoom -->
-<!ENTITY askViewZoom.title "ტექსტის მასშტაბი">
-<!ENTITY selectZoom.label "ტექსტის მასშტაბის არჩევა (&#37;):">
+<!ENTITY askViewZoom.title "მასშტაბი">
+<!ENTITY selectZoom.label "მასშტაბის შერჩევა (&#37;):">

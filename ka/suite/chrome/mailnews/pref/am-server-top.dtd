@@ -79,18 +79,16 @@
 <!ENTITY alwaysAuthenticate.label "ამ სერვერთან დაკავშირებისას აუთენტიფიცირების ყოველთვის მოთხოვნა">
 <!ENTITY alwaysAuthenticate.accesskey "w">
 <!ENTITY newsrcFilePath.label "ჯგუფების ფაილი:">
-<!ENTITY newsrcFilePath.accesskey "f">
 <!ENTITY localPath.label "ადგილობრივი დასტა:">
-<!ENTITY localPath.accesskey "L">
 <!ENTITY abbreviate.label "წერილების დასტების პანელში ჯგუფების სახელებს ჩვენების წესის მითითება:">
 <!ENTITY abbreviateOn.label "სრული სახით (მაგალითად, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "შემოკლებულად (მაგალითად, 'n.p.m.mail-news')">
-<!ENTITY advancedButton.label "დეტალები...">
+<!ENTITY advancedButton.label "დეტალები…">
 <!ENTITY serverDefaultCharset.label "ნაგულისხმები კოდირება:">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY localFolderPicker.label "ადგილობრივი დასტის არჩევა">
-<!ENTITY browseFolder.label "ნუსხა...">
+<!ENTITY browseFolder.label "ნუსხა…">
 <!ENTITY browseFolder.accesskey "B">
 <!ENTITY newsrcPicker.label "ჯგუფების ფაილის არჩევა">
-<!ENTITY browseNewsrc.label "ნუსხა...">
+<!ENTITY browseNewsrc.label "ნუსხა…">
 <!ENTITY browseNewsrc.accesskey "e">

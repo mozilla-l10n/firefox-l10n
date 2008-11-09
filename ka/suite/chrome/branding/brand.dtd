@@ -1,6 +1,5 @@
-#expand <!ENTITY  lang.version          "__MOZILLA_LOCALE_VERSION__">
 <!ENTITY  brandFullName         "SeaMonkey">
 <!ENTITY  brandShortName        "SeaMonkey">
 <!ENTITY  vendorShortName       "SeaMonkey">
-<!ENTITY  sidebarName           "გვერდითი პანელი">
-<!ENTITY  copyright.string      "საავტორო უფლება &copy; 2003-2007 Mozilla-ს ფონდი.">
+<!ENTITY  sidebarName           "სტენდი">
+<!ENTITY  copyright.string      "საავტორო უფლება &copy; 2003-2008 Mozilla-ს ფონდი.">

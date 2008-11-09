@@ -60,8 +60,8 @@
 <!ENTITY retentionDownloadMsg.label "რომელთა ასაკიც მეტია ვიდრე">
 <!ENTITY retentionDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "შენარჩუნება:">
-<!ENTITY retentionKeepMsg.label "წრილები რომელთა ასაკიც ნაკლებია ვიდრე">
-<!ENTITY retentionKeepMsg.accesskey "w">
+<!ENTITY retentionDeleteMsg.label "წრილების წაშლა ასაკით მეტი ვიდრე">
+<!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "წველა წერილი">
 <!ENTITY retentionKeepAll.accesskey "A">
 <!ENTITY retentionKeepNew.label "უახლესი">
@@ -87,10 +87,12 @@
 <!ENTITY folderProps.information.label  "ინფორმაცია:">
 <!ENTITY folderProps.name.label	        "სახელი:">
 <!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.location.label              "მდებარეობა:">
+<!ENTITY folderProps.location.accesskey          "L">
 
 <!ENTITY folderSharingTab.label                  "გაზიარება">
 <!ENTITY privilegesDesc.label                    "ამ და სხვა დასტების ქსელის მომხმარებლებისთვის გაზიარება და მათი ჩვენებისა და დაშვების უფლებების მითითება">
-<!ENTITY privileges.button.label                 "პრივილეგიები...">
+<!ENTITY privileges.button.label                 "პრივილეგიები…">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "თქვენ გაქვთ შემდეგი უფლებები:">
 <!ENTITY folderType.label                        "დასტის ტიპი:">

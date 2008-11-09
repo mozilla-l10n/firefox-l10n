@@ -31,8 +31,6 @@
 
 <!ENTITY cookieAllowPopupsCmd.label                  "ფირნიშების დაშვება ამ საიტიდან">
 <!ENTITY cookieAllowPopupsCmd.accesskey              "A">
-<!ENTITY cookieAboutPopupBlocking.label              "ფირნიშების ბლოკირების შესახებ">
-<!ENTITY cookieAboutPopupBlocking.accesskey          "b">
 <!ENTITY cookieManagePopups.label                    "ფირნიშების მართვა">
 <!ENTITY cookieManagePopups.accesskey                "M">
 

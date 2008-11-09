@@ -8,6 +8,6 @@
     Place "&brandShortName;" in the phrase where the name of the application should
 	 appear
 -->
-<!ENTITY textStart   "&brandShortName;–ს დაწყებისას:">
+<!ENTITY textStart   "&brandShortName; სეანსის გახსნისას:">
 <!ENTITY radioAskMode  "მუშაობის ავტონომიური/კავშირის რეჟიმის არჩევა">
 <!ENTITY radioUsePrev  "წინა სეანსის რეჟიმის არჩევა"> 

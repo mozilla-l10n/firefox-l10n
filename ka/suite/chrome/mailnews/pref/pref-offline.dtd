@@ -4,6 +4,7 @@
 <!ENTITY pref.offline.title               "ავტონომიური რეჟიმი და ადგილი დისკზე">
 <!ENTITY pref.offline.caption             "ავტონომიური რეჟიმი ">
 <!ENTITY textStartUp                      "სეანსის დაწყებისას:">
+<!ENTITY textStartUp.accesskey            "W">
 <!ENTITY menuitemRememberPrevState        "წინა რეჟიმის სტატუსის შენახვა">
 <!ENTITY menuitemAskMe                    "დამეკითხე კავშირის რეჟიმზე გადასვლას დაწყებისას">
 <!ENTITY menuitemAlwaysOnline             "დაწყება ყოველთვის კავშირის რეჟიმში">

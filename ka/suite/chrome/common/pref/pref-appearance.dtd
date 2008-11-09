@@ -1,21 +1,13 @@
-<!-- extracted from content/pref-appearance.xul -->
-
 <!--LOCALIZATION NOTE : FILE The Appearance prefs dialog.  -->
+
 <!ENTITY pref.appearance.title "იერსახე">
 <!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
-    Place &brandShortName; in the phrase where the name of the application should
-	 appear
+    Place &brandShortName; in the phrase where the name of the application should appear
 -->
 <!ENTITY onStartLegend.label                    "&brandShortName; სეანსის დაწყებისას გახსენი">
-<!--LOCALIZATION NOTE (navCheck.label): DONT_TRANSLATE -->
-<!ENTITY navCheck.label                         "ნავიგატორი">
-<!ENTITY navCheck.accesskey                     "N">
-<!--LOCALIZATION NOTE (compCheck.label): DONT_TRANSLATE -->
-<!ENTITY compCheck.label                        "რედაქტორი">
-<!ENTITY compCheck.accesskey                    "C">
-<!ENTITY calCheck.label                         "კალენდარი">
-<!ENTITY calCheck.accesskey                     "a">
-<!ENTITY showToolsLegend.label                  "პულტების ჩვენების სახე">
+<!ENTITY navCheck.label                         "ბრაუზერი">
+<!ENTITY navCheck.accesskey                     "B">
+<!ENTITY showToolsLegend.label                  "პულტების ჩვენების წესი -">
 <!ENTITY picsNtextRadio.label                   "ნახატები და ტექსტი">
 <!ENTITY picsNtextRadio.accesskey               "P">
 <!ENTITY picsOnlyRadio.label                    "მხოლოდ ნახატები">
@@ -24,20 +16,11 @@
 <!ENTITY textonlyRadio.accesskey                "x">
 <!ENTITY showHideTooltips.label                 "მინიშნებების ჩვენება">
 <!ENTITY showHideTooltips.accesskey             "T">
-<!ENTITY useSiteIcons.label                     "ვებსაიტების ხატულების ჩვენება">
-<!ENTITY useSiteIcons.accesskey                 "S">
-<!ENTITY enableAutomaticImageResizing.label     "ნახატის ავტომატური მასშტაბირება ფანჯრის შევსებამდე">
-<!ENTITY enableAutomaticImageResizing.accesskey "R">
-<!ENTITY useSmoothScroll.label                  "მდორე გადახვევა">
-<!ENTITY useSmoothScroll.accesskey              "U">
 
-<!--LOCALIZATION NOTE (languageList.txt.label): Don't translate "&brandShortName;".
+<!ENTITY pref.locales.title                     "პროგრამის სამუშაო ენა">
+<!ENTITY selectLocale.label                     "შეარჩიეთ სასურველი ენა პროგრამის მენიუების, დიალოგების, პულტებისა და ღილაკებისთვის:">
+<!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
     Place &brandShortName; in the phrase where the name of the application should appear
 -->
-<!ENTITY languageList.txt.label                 "ენის არჩევა &brandShortName;-სთვის. ამ პარამეტრით აირჩევთ ენას რომელზეც გამოჩნდება დიალოგური ფანჯრები, მენიუები, პულტები და ღილაკები. ახალი ენის გასააქტივებლად &brandShortName; პროგრამის ხელახლა გახსნაა საჭირო.">
-
-<!--LOCALIZATION NOTE (languageList.label): Don't translate "&brandShortName;".
-    Place &brandShortName; in the phrase where the name of the application should appear
--->
-<!ENTITY languageList.label                     "&brandShortName; პროგრამის სასურველი ენის არჩევა:">
+<!ENTITY restartOnLangChange.label              "ენის პარამეტრები გააქტივდება &brandShortName; პროგრამის დახურვისა და ხელახლა გახსნის შემდეგ.">
 

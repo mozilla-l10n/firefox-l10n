@@ -10,7 +10,9 @@
 <!ENTITY alwaysUseUsername.accesskey "U">
 <!ENTITY userName.label "სახელი:">
 <!ENTITY userName.accesskey "m">
-<!ENTITY isSecure.label "დაცული კავშირის გამოყენება:">
+<!ENTITY useSecAuth.label "უსაფრთხო აუთენტიფიკაცია">
+<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY isSecure.label "უსაფრთხო კავშირის გამოყენება:">
 <!ENTITY neverSecure.label "არა">
 <!ENTITY neverSecure.accesskey "N">
 <!ENTITY sometimesSTARTTLS.label "STARTTLS, თუ შესაძლებელია">

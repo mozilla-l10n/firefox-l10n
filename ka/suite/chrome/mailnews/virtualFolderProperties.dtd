@@ -7,7 +7,7 @@
 <!ENTITY searchTermCaption.label "ამ შენახული ძიების დასტისთვის გამოყენებული საძიებო კრიტერიუმის შესწორება: ">
 
 <!ENTITY folderSelectionCaption.label "საძიებო დასტების შერჩევა: ">
-<!ENTITY chooseFoldersButton.label "შერჩევა...">
+<!ENTITY chooseFoldersButton.label "შერჩევა…">
 <!ENTITY chooseFoldersButton.accesskey "h">
 
 <!ENTITY searchOnline.label "ძიება კავშირის რეჟიმში (იძლევა განახლებულ შედეგებს IMAP და სიახლეების დასტებიდან, თუმცა დასტის გახსნის დრო იზრდება)">

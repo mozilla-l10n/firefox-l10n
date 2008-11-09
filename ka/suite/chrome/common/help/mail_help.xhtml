@@ -33,7 +33,7 @@
 
 <ul>
   <li>Click the Mail &amp; Newsgroups icon in the lower-left corner of the
-    &brandShortName; Navigator window.</li>
+    &brandShortName; browser window.</li>
 </ul>
 
 <table>
@@ -317,8 +317,8 @@
       Messages</a></li>
     <li><a href="#saving_and_printing_messages">Saving and Printing
       Messages</a></li>
-    <li><a href="#controlling_images_scripts_and_plug-ins">Controlling Images,
-      Scripts, and Plug-ins</a></li>
+    <li><a href="#controlling_images_scripts_and_plugins">Controlling Images,
+      Scripts, and Plugins</a></li>
   </ul>
 </div>
 
@@ -543,8 +543,8 @@
 
 <p>[<a href="#reading_messages">Return to beginning of section</a>]</p>
 
-<h2 id="controlling_images_scripts_and_plug-ins">Controlling Images, Scripts,
-  and Plug-ins</h2>
+<h2 id="controlling_images_scripts_and_plugins">Controlling Images, Scripts,
+  and Plugins</h2>
 
 <p>By default, images and other content, that is hosted remotely, will not
   display in messages you receive, except from senders in your address books
@@ -565,20 +565,20 @@
   Card</a> for details of how to change which senders can show remote
   content.</p>
 
-<p>By default, JavaScript and plug-ins are not enabled for mail messages you
+<p>By default, JavaScript and plugins are not enabled for mail messages you
   receive. To change these settings:</p>
 
 <ol>
   <li>Open the <span class="mac">&brandShortName;</span>
     <span class="noMac">Edit</span> menu and choose Preferences.</li>
-  <li>Under the Advanced category, click Scripts &amp; Plug-ins. (If no
+  <li>Under the Advanced category, click Scripts &amp; Plugins. (If no
     subcategories are visible, double-click Advanced to expand the
     list.)
     <ul>
       <li>Under <q>Enable JavaScript for</q>, check <q>Mail &amp;
         Newsgroups</q> to enable JavaScript.</li>
-      <li>Under <q>Enable Plug-ins for</q>, check <q>Mail &amp; Newsgroups</q>
-        to enable plug-ins.</li>
+      <li>Under <q>Enable Plugins for</q>, check <q>Mail &amp; Newsgroups</q>
+        to enable plugins.</li>
     </ul>
   </li>
   <li>Click OK to have your changes take affect.</li>
@@ -889,9 +889,9 @@
 
 <h2 id="forwarding_a_message">Forwarding a Message</h2>
 
-<p>When you forward a message, you can specify how to place new text relative
-  to the original text: <em>inline</em> (in the body of the message; this is
-  the default), or as an attachment.</p>
+<p>When you forward a message, you can specify how its contents are included
+  in the new message: <em>inline</em> (in the body of the message), or as an
+  <em>attachment</em>.</p>
 
 <p>To forward a message:</p>
 
@@ -1282,7 +1282,7 @@
     page URL appears in the Attachments area.</li>
 </ol>
 
-<p><strong>Tip</strong>: When you are viewing a page in the Navigator browser,
+<p><strong>Tip</strong>: When you are viewing a page in the browser,
   you can send the page to someone by opening the File menu and choosing Send
   Page.</p>
 
@@ -1292,9 +1292,9 @@
 
 <p>If you receive a mail attachment that consists of a file type that
   &brandShortName; can display (such as graphic files and HTML files), you see
-  the attachment displayed <em>inline</em> (in the body of the message). For
-  other file types, Mail &amp; Newsgroups lets you open the attachment using
-  another application, or you can save the attachment on your hard disk.</p>
+  the attachment displayed inline (in the body of the message). For other file
+  types, Mail &amp; Newsgroups lets you open the attachment using another
+  application, or you can save the attachment on your hard disk.</p>
 
 <p>To open the attachment, make sure you have a program on your computer that
   can open files of the same type as the attachment&apos;s file format. For
@@ -1321,7 +1321,7 @@
         applications. &brandShortName; uses helper applications to determine
         how different file types are opened by other applications from within
         &brandShortName;. For more information, see
-        <a href="nav_help.xhtml#plugins_and_downloads">Plug-ins and
+        <a href="nav_help.xhtml#plugins_and_downloads">Plugins and
         Downloads</a>.</li>
     </ul>
   </li>
@@ -4319,11 +4319,16 @@ to filter unwanted mail, and how phishing detection works.</p>
 <ol>
   <li>Click on any Mail window.</li>
   <li>From the Edit menu, choose Mail &amp; Newsgroup Account Settings.</li>
-  <li>Select Outgoing Server (SMTP) and set up as follows (If you are not sure
-    which option to choose, check with your ISP or system administrator):</li>
+  <li>Select Outgoing Server (SMTP) and either edit an existing server or
+      add a new one. If you are not sure which option to choose, check with
+      your ISP or system administrator)<br/>
+      You can choose from these servers via the Outgoing Server dropdown in
+      the <a href="#account_settings">Identity Settings</a>.</li>
 </ol>
 
 <ul>
+  <li><strong>Description</strong>: A short freetext description of that server
+    configuration. This will show up as first part in the server list.</li>
   <li><strong>Server name</strong>: The SMTP server that will deliver your
     outgoing mail. To use a different SMTP server, change this field.</li>
   <li><strong>Port</strong>: The port on which the SMTP server will be
@@ -4335,6 +4340,10 @@ to filter unwanted mail, and how phishing detection works.</p>
     The first time you send mail, you will be prompted for your password. At
     that time you can instruct &brandShortName; to save your password for
     future sessions.</li>
+  <li><strong>Use secure authentication</strong>: Choose this setting if you
+    want to use secure mechanisms for logging in like CRAM-MD5. If you are
+    unsure if your service supports this, contact your service provider or
+    system administrator.</li>
   <li><strong>Use secure connection</strong>: There are two methods for
     establishing a secure connection to your outgoing server. Pick the one your
     server supports (if you make a choice for which your server is not configured,
@@ -4350,8 +4359,6 @@ to filter unwanted mail, and how phishing detection works.</p>
      </li>
     </ul>
   </li>
-  <li><strong>Advanced</strong>: Click this button to set up additional SMTP
-    servers or to change the default SMTP server.</li>
 </ul>
 
 <p>[<a href="#mail_and_newsgroups_account_settings">Return to beginning of
@@ -4549,18 +4556,12 @@ to filter unwanted mail, and how phishing detection works.</p>
     </table>
 
     <p>When the alert appears, clicking the link displayed in the alert will
-      take you to the first folder that has new mail. If no &brandShortName;
-      applications are running, Quick Launch must be enabled in order to
-      display the new message alert.</p>
+      take you to the first folder that has new mail.
+    </p>
 
-    <p>If any &brandShortName; application is running, then Quick Launch does
-      not need to be enabled in order to display the new message alert. For
-      information on using Quick Launch, see
-      <a href="nav_help.xhtml#using_quick_launch">Using Quick Launch</a>.</p>
-
-    <p>Once &brandShortName; Mail has been started, the new message alert will
-      continue to work even after you close the Mail window (as long as another
-      &brandShortName; application is running).</p>
+    <p>The new message alert will continue to work even after you close the
+      Mail window (as long as another &brandShortName; application is running).
+    </p>
   </li>
 
   <li class="win"><strong>Show a tray icon</strong>: Select this if you want
@@ -4619,8 +4620,11 @@ to filter unwanted mail, and how phishing detection works.</p>
 
 <ul>
   <li><strong>Forward Messages</strong>: Choose how you want forwarded
-    message text to appear: as an attachment or <em>inline</em> (in the body
-    of your message).</li>
+    message text to appear: as an attachment or inline (in the body of your
+    message).</li>
+  <li><strong>Quote attachments viewed inline in replies</strong>: If this
+    option is checked, then attachments (such as images, text, or messages)
+    viewed inline are included in the quote when replying to an email.</li>
   <li><strong>Automatically save the message every [__] minutes</strong>:
     Choose this option if you want Mail &amp; Newsgroups to save the message
     you are currently composing automatically at the given interval. After a
