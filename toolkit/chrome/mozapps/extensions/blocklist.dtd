@@ -1,0 +1,10 @@
+<!ENTITY blocklist.title             "Gall Ychwanegion fod yn achosi problemau">
+<!ENTITY blocklist.style             "width: 45em; height: 30em">
+<!ENTITY blocklist.summary           "Mae &brandShortName; wedi darganfod bod yr ychwanegion canlynol yn achosi problemau ansefydlogrwydd a diogelwch:">
+<!ENTITY blocklist.softblocked       "Er eich diogelwch, rydym yn argymell eich bod yn ailgychwyn â'r ychwanegion hyn wedi'u hanalluogi.">
+<!ENTITY blocklist.hardblocked       "Mae i'r ychwanegion hyn lefel uchel o risg o achosi anhawsterau ansefydlogrwydd a diogelwch, ond mae angen ailgychwyn er mwyn eu hanalluogi'n llwyr.">
+<!ENTITY blocklist.softandhard       "Mae i'r ychwanegion hyn lefel uchel o risg o achosi anhawsterau ansefydlogrwydd a diogelwch, ac maen nhw wedi cael ei rwystro.  Mae i'r lleill lefel is o risg, ond rydych yn argymell eich bod yn ailgychwyn â'r ychwanegion wedi'u hanalluogi.">
+<!ENTITY blocklist.moreinfo          "Mwy o wybodaeth">
+
+<!ENTITY blocklist.accept.label      "Ailgychwyn &brandShortName;">
+<!ENTITY blocklist.accept.accesskey  "A">

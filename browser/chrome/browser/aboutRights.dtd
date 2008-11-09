@@ -1,0 +1,65 @@
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.pagetitle       "about:rights">
+<!ENTITY rights.intro-header    "Ynghylch eich Hawliau">
+<!ENTITY rights.intro "Mae &brandFullName; yn feddalwedd rhydd ac am ddim, wedi ei greu gan gymuned o filoedd o bedwar ban byd. Dyma rhai bwyntiau y dylech chi eu gwybod:">
+
+<!-- Note on pointa / pointb / pointc form:
+     Tosodiad hese points each have an embedded link in the HTML, so each point is
+     split into chunks for text before the link, the link text, and the text
+     after the link. If a localized grammar doesn't need the before or after
+     chunk, it can be left blank.
+
+     Also note the leading/trailing whitespace in strings here, which is
+     deliberate for formatting around the embedded links. -->
+<!ENTITY rights.intro-point1a "Mae &brandShortName; ar gael i chi o dan delerau ">
+<!ENTITY rights.intro-point1b "Trwydded Gyhoeddus Mozilla">
+<!ENTITY rights.intro-point1c ". Gan hynny, gallwch defnyddio, copïo a dosbarthu &brandShortName; i eraill.  Croeso hefyd i chi addasu cod ffynhonnell &brandShortName; i'ch anghenion. Mae Trwydded Gyhoeddus Mozilla hefyd yn rhoi i chi'r hawl i ddosbarthu eich fersiynau cyfaddas.">
+
+<!ENTITY rights.intro-point2a "Nid yw Mozilla yn rhoi unrhyw hawliau i chi i ddefnyddio logos a nodau masnach Mozilla a Firefox. Mae gwybodaeth pellach am Nodau Masnach ar gael ">
+<!ENTITY rights.intro-point2b "yma">
+<!ENTITY rights.intro-point2c ".">
+
+<!-- point 3 text for official branded builds -->
+<!ENTITY rights.intro-point3a "Mae polisïau Preifatrwydd ar gyfer cynhyrchion &vendorShortName; ar gael ">
+<!ENTITY rights.intro-point3b "yma">
+<!ENTITY rights.intro-point3c ".">
+
+<!-- point 3 text for unbranded builds -->
+<!ENTITY rights.intro-point3-unbranded "Dylid rhestru unrhyw bolisïau preifatrwydd cymwys am y cynnyrch hwn yma.">
+
+<!-- point 4 text for official branded builds -->
+<!ENTITY rights.intro-point4a "Mae &brandShortName; hefyd yn cynnig gwasanaethau gwybodaeth gwefannau dewisol, fel y gwasanaeth PoriDiogel; er hynny, nid oes modd gwarantu eu bod yn 100&#37; cywir. Mae manylion pellach, gan gynnwys gwybodaeth am sut i analluogi'r gwasanaethau, ar gael yn y ">
+<!ENTITY rights.intro-point4b "telerau gwasanaeth">
+<!ENTITY rights.intro-point4c ".">
+
+<!-- point 4 text for unbranded builds -->
+<!ENTITY rights.intro-point4a-unbranded "Os bydd y cynnyrch yn cynnwys gwasanaethau gwe, dylid cysylltu unrhyw dermau gwasanaeth cymwys am y gwasanaeth(au) i'r adran ">
+<!ENTITY rights.intro-point4b-unbranded "Gwasanaethau Gwefannau">
+<!ENTITY rights.intro-point4c-unbranded ".">
+
+<!ENTITY rights.webservices-header "Gwasanaethau Gwefannau &brandFullName;">
+
+<!-- Note that this paragraph references a couple of entities from
+     preferences/security.dtd, so that we can refer to text the user sees in
+     the UI, without this page being forgotten every time those strings are
+     updated.  -->
+<!-- intro paragraph for branded builds -->
+<!ENTITY rights.webservices-a "Mae &brandFullName; yn defnyddio gwasanaethau gwybodaeth gwefannau (&quot;Gwasanaethau&quot;), fel y gwasanaeth PoriDiogel, sydd ar gael i'w defnyddio gyda'r fersiwn deuol hwn o &brandShortName; fel sydd i'w weld isod. Os nad ydych am ddefnyddio'r Gwasanaethau na derbyn y telerau isod, gallwch analluogi'r gwasanaeth PoriDiogel trwy agor dewisiadau'r rhaglen, dewis yr adran ">
+<!ENTITY rights.webservices-b "Diogelwch">
+<!ENTITY rights.webservices-c ", a dad-dicio'r dewisiadau ar gyfer &quot;&blockAttackSites.label;&quot; a &quot;&blockWebForgeries.label;&quot;">
+
+<!-- intro paragraph for unbranded builds -->
+<!ENTITY rights.webservices-unbranded "Dylid cynnwys arolwg o'r gwasanaethau gwefannau sydd wedi cynnwys yn y cynnyrch, ynghyd â cyfarwyddiadau ar sut i'w analluogi.">
+
+<!-- point 1 text for unbranded builds -->
+<!ENTITY rights.webservices-term1-unbranded "Dylid rhestru unrhyw dermau gwasanaethau cymwys am y cynnyrch yma.">
+
+<!-- points 1-7 text for branded builds -->
+<!ENTITY rights.webservices-term1 "Mae &vendorShortName; a'i gyfranwyr, trwyddedwyr a phartneriaid yn gweithio i ddarparu'r wybodaeth am wefannau ymosod. Er hynny, nid oes modd gwarantu bod yr wybodaeth yn gynhwysfawr a chywir: efallai na fydd rhai gwefannau peryglus wedi'u hadnabod a bydd rhai gwefannau diogel yn cael eu pardduo ar gam.">
+<!ENTITY rights.webservices-term2 "Gall &vendorShortName; ddiwygio'r Gwasanaethau neu ddod â nhw ar ben os bydd angen.">
+<!ENTITY rights.webservices-term3 "Croeso i chi ddefnyddio'r Gwasanaethau gyda'r fersiwn hwn o &brandShortName;, ac mae gennych yr holl hawliau anghenreidiol.  Cedwir pob hawl arall yn y Gwasanaethau gan &vendorShortName; a'i drwyddedwyr.  Nid oes bwriad cyfyngu unrhyw hawliau sydd gennych o dan drwyddedau cod agored perthnasol i &brandShortName; a'r cod ffynhonnell cyfatebol i &brandShortName;.">
+<!ENTITY rights.webservices-term4 "Mae'r Gwasanaethau yn cael eu darparu fel y mae.  Mae &vendorShortName;, ei gyfranwyr, trwyddedwyr a dosbarthwyr yn gwadu pob gwarant, naill ai wedi'i fynegi neu ymhlyg, gan gynnwys, ond heb fod yn gyfyngedig i warantau oblygedig ynghylch farsiandwyaeth a ffitrwydd at eich pwrpasau arbennig.  Mae'r holl risg ynghylch dewis y Gwasanaethau at eich pwrpasau ac ynghylch ansawdd a pherfformiad y Gwasanaethau yn perthyn i chi. Nid yw pob awdurdodaeth yn caniatáu cau allan neu gyfyngu gwarantau oblygedig, felly efallai na fydd y gwadiad hwn yn berthnasol i chi.">
+<!ENTITY rights.webservices-term5 "Ac eithrio fel mae'r gyfraith yn mynnu, Ni fydd &vendorShortName;, ei gyfranwyr, trwyddedwyr a dosbarthwyr yn atebol am iawndal anuniongyrchol, arbennig, atodol, canlyniadol, cosbol neu enghreifftiol yn codi o neu mewn unrhyw ffordd yn ymwneud â defnydd o &brandShortName; a'r Gwasanaethau.  Ni fydd yr atebolrwydd cyfunol o dan y telerau hyn yn fwy na $500 (pum cant doler). Nid yw pob awdurdodaeth yn caniatáu cau allan neu gyfyngu iawndal sicr, felly efallai na fydd y gwadiad hwn yn berthnasol i chi.">
+<!ENTITY rights.webservices-term6 "Efallai y bydd &vendorShortName; yn diweddaru'r termau hyn o bryd i'w gilydd os bydd rhaid. Nid oes hawl i chi newid neu ddiddymu'r termau hyn heb gytundeb ysgrifenedig &vendorShortName;.">
+<!ENTITY rights.webservices-term7 "Caif y termau hyn eu dehongli'n unol â chyfraith talaith Califfornia, U.D.A, ac eithrio'r gosodiadau dewis cyfraith. Os bydd unrhyw ran o'r termau hyn yn cael ei ystyried i fod yn annilys neu'n amhosibl ei gweithredu, bwriedir gweddill y rhannau i fod yn berthnasol.  Yn achos anghydfod rhwng cyfieithiad o'r termau hyn a'r fersiwn iaith Saesneg, bydd y fersiwn iaith Saesneg yn weithredol.">
