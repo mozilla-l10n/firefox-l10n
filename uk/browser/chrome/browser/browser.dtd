@@ -158,8 +158,6 @@
 <!ENTITY preferencesCmdUnix.label "Налаштування">
 <!ENTITY preferencesCmdUnix.accesskey "Н">
 
-<!ENTITY clearPrivateDataCmd.label "Стерти особисті дані">
-<!ENTITY clearPrivateDataCmd.accesskey "С">
 
 <!ENTITY viewMenu.label "Вигляд">
 <!ENTITY viewMenu.accesskey "В">
@@ -231,8 +229,6 @@
 <!ENTITY viewPageInfoCmd.accesskey "І">
 <!ENTITY viewFrameInfoCmd.label "Інформація про фрейм">
 <!ENTITY viewFrameInfoCmd.accesskey "ф">
-<!ENTITY showImageCmd.label "Показати зображення">
-<!ENTITY showImageCmd.accesskey "з">
 <!ENTITY viewImageCmd.label "Переглянути зображення">
 <!ENTITY viewImageCmd.accesskey "г">
 <!ENTITY viewBGImageCmd.label "Переглянути зображення тла">
@@ -390,3 +386,45 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Розкажіть мені про цей сайт…">
 
 <!ENTITY downloadMonitor2.tooltip "Клацніть щоб відкрити вікно завантажень">
+
+<!ENTITY clearRecentHistoryCmd.accesskey        "О">
+<!ENTITY clearRecentHistoryCmd.label            "Очистити недавню історію">
+<!ENTITY copyAudioURLCmd.accesskey    "у">
+<!ENTITY copyAudioURLCmd.label        "Копіювати адресу аудіо">
+<!ENTITY copyVideoURLCmd.accesskey    "в">
+<!ENTITY copyVideoURLCmd.label        "Копіювати адресу відео">
+<!ENTITY ctrlTab.search.emptyText "Шукати вкладку">
+
+<!-- FIXME: localize -->
+<!ENTITY mediaHideControls.accesskey "х">
+<!ENTITY mediaHideControls.label     "Приховати керувальники">
+<!ENTITY mediaMute.accesskey         "и">
+<!ENTITY mediaMute.label             "Вимкнути звук">
+<!ENTITY mediaPause.accesskey        "П">
+<!ENTITY mediaPause.label            "Пауза">
+<!ENTITY mediaPlay.accesskey         "Г">
+<!ENTITY mediaPlay.label             "Грати">
+<!ENTITY mediaShowControls.accesskey "Показати ">
+<!ENTITY mediaShowControls.label     "Показати керувальники">
+<!ENTITY mediaUnmute.accesskey       "і">
+<!ENTITY mediaUnmute.label           "Увімкнути звук">
+
+<!ENTITY reloadImageCmd.accesskey     "з">
+<!ENTITY reloadImageCmd.label         "Перезавантажити зображення">
+<!ENTITY saveAudioCmd.accesskey       "а">
+<!ENTITY saveAudioCmd.label           "Зберезгти аудіо як…">
+<!ENTITY saveVideoCmd.accesskey       "в">
+<!ENTITY saveVideoCmd.label           "Зберегти відео як…">
+<!ENTITY sendAudioCmd.accesskey       "с">
+<!ENTITY sendAudioCmd.label           "Переслати аудіо як…">
+<!ENTITY sendVideoCmd.accesskey       "с">
+<!ENTITY sendVideoCmd.label           "Переслати відео як…">
+<!ENTITY viewVideoCmd.accesskey       "г">
+<!ENTITY viewVideoCmd.label           "Переглянути відео">
+
+<!-- FIXME: localize -->
+
+<!ENTITY privateBrowsingCmd.accesskey        "П">
+<!ENTITY privateBrowsingCmd.label            "Приватний режим">
+
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Приватний режим)">
