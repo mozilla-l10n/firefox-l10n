@@ -1,7 +1,6 @@
 <!-- extracted from tasksOverlay.xul -->
-<!-- LOCALIZATION NOTE (navigatorCmd.label): DONT_TRANSLATE -->  
-<!ENTITY navigatorCmd.label					"ნავიგატორი">  
-<!ENTITY navigatorCmd.accesskey             "n">
+<!ENTITY navigatorCmd.label "ბრაუზერი">
+<!ENTITY navigatorCmd.accesskey "B">
 <!ENTITY navigatorCmd.commandkey            "1">
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
 <!ENTITY editorCmd.label					"რედაქტორი">
@@ -10,10 +9,10 @@
 
 <!ENTITY securityInfoCmd.label					".უსაფრთხოება">  
 <!ENTITY securityInfoCmd.accesskey				"s">
-<!ENTITY javaConsoleCmd.label					"Java პულტი">
+<!ENTITY javaConsoleCmd.label					"Java კონსოლი">
 <!ENTITY javaConsoleCmd.accesskey				"j">
 
-<!ENTITY errorConsoleCmd.label                                  "შეცდომის პულტი">
+<!ENTITY errorConsoleCmd.label                                  "შეცდომის კონსოლი">
 <!ENTITY errorConsoleCmd.accesskey				"C">
 
 <!-- LOCALIZATION NOTE (privacyMenu.label): DONT_TRANSLATE -->
@@ -27,10 +26,10 @@
 <!ENTITY webDevelopment.label "ვებ პროგრამირება">
 <!ENTITY webDevelopment.accesskey "W">
 
-<!ENTITY windowMenu.label "ფანჯარა">
+<!ENTITY windowMenu.label "სარკმელი">
 <!ENTITY windowMenu.accesskey "W">
 
-<!ENTITY tasksMenu.label "პულტები">
+<!ENTITY tasksMenu.label "სამარჯვები">
 <!ENTITY tasksMenu.accesskey "T"> 
 
 <!ENTITY downloadManagerCmd.label "ჩამოტვირთვის მმართველი">
@@ -39,5 +38,5 @@
 <!ENTITY addonsManagerCmd.label "მოდულების მმართველი">
 <!ENTITY addonsManagerCmd.accesskey "A">
 
-<!ENTITY switchProfileCmd.label "პროფილის გადართვა...">
+<!ENTITY switchProfileCmd.label "პროფილის გადართვა…">
 <!ENTITY switchProfileCmd.accesskey "h">

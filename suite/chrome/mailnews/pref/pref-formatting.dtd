@@ -20,6 +20,7 @@
  the Initial Developer. All Rights Reserved.
 
  Contributor(s):
+   Ian Neal <iann_bugzilla@blueyonder.co.uk>
 
  Alternatively, the contents of this file may be used under the terms of
  either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -41,11 +42,11 @@
 <!ENTITY askMe.label                  "დამეკითხე (საფოსტო პროგრამა დაგეხმარებათ ფორმატის არჩევში)">
 <!ENTITY askMe.accesskey              "k">
 <!ENTITY convertPlain.label           "წერილის ტექსტად გარდაქმნა (ზოგი ფორმატირება შეიძლება დაიკარგოს)">
-<!ENTITY convertPlain.accesskey       "c">
+<!ENTITY convertPlain.accesskey       "C">
 <!ENTITY sendHTML.label               "მაინც HTML ფორმატით გაგზავნა (ზოგიერთი საფოსტო პროგრამა ამ წერილს სწორად ვერ აჩვენებს)">
-<!ENTITY sendHTML.accesskey           "s">
+<!ENTITY sendHTML.accesskey           "S">
 <!ENTITY sendBoth.label               "ორივე - ტექსტური და HTML ფორმატით გაგზავნა (იზრდება წერილის ზომა)">
-<!ENTITY sendBoth.accesskey           "e">
+<!ENTITY sendBoth.accesskey           "n">
 <!ENTITY override.label               "წერილების რედაქტირებისას ნებისმიერი წერილისთვის ამ პარამეტრების შეცვლა შეგიძლიათ პარამეტრების მენიუში.">
 <!ENTITY receiveHTML.label            "თუ თქვენთვის ცნობილია, რომ ადრესატს შეუძლია HTML წერილის წაკითხვა, მოხსენით მონიშვნა 'წერილის ტექსტად (არა HTML) გაგზავნა' წიგნაკის ადრესატის ბარათში.">
 
@@ -55,25 +56,21 @@
 <!ENTITY HTMLdomaintitle.label        "HTML დომენები">
 <!ENTITY HTMLdomaintitle.accesskey    "M">
 <!ENTITY PlainTexttitle.label         "ტექსტური დომენები">
-<!ENTITY PlainTexttitle.accesskey     "p">
+<!ENTITY PlainTexttitle.accesskey     "P">
 <!ENTITY AddButton.label              "დამატება...">
-<!ENTITY AddHtmlDomain.accesskey      "a">
+<!ENTITY AddHtmlDomain.accesskey      "A">
 <!ENTITY AddPlainText.accesskey       "d">
 <!ENTITY DeleteButton.label           "წაშლა">
-<!ENTITY DeleteHtmlDomain.accesskey   "l">
+<!ENTITY DeleteHtmlDomain.accesskey   "e">
 <!ENTITY DeletePlainText.accesskey    "t">
 
-<!-- Add HTML Domain Name -->
+<!-- Add Domain Name -->
 <!ENTITY add.htmltitle                "HTML დომენის სახელის დამატება">
 <!ENTITY add.htmldomain               "HTML დომენის სახელი:">
-<!ENTITY add.htmldomain.accesskey     "d">
 <!ENTITY add.plaintexttitle           "ტექსტური დომენის სახელის დამატება">
 <!ENTITY add.plaintextdomain          "ტექსტური დომენის სახელი:">
-<!ENTITY add.plaintext.accesskey      "d">
 
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
 <!ENTITY domainnameError.title        "დომენის სახელის შეცდომა">
-<!ENTITY duplicationError.label       "დომენის სახელი @string@ ამ სიაში უკვე არსებობს.">
-
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY dualEntryError.label         "დომენის სახელი არ შეიძლება არსებობდეს ორივე HTML და ტექსტურ სიებში. დომენის სახელი @string@ უკვე არსებობს.">
+<!ENTITY invalidEntryError.label      "დომენის სახელი @string@ მცდარია და მხედველობაშI არ მიიღება. დომენის მართებული სახელები უნდა შეიცავდეს წერტილის ნიშანს '.' და სიმბოლოებს მის ორივე მხარეს.">
+

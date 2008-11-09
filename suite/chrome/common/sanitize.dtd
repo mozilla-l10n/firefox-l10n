@@ -1,0 +1,21 @@
+<!ENTITY sanitizeDialog.title            "პირად მონაცემთა დასუფთავება">
+<!ENTITY sanitizeItems.label          "შემდეგი ელემენტების ახლავე ამოშლა:">
+
+<!ENTITY itemHistory.label               "ისტორია">
+<!ENTITY itemHistory.accesskey           "B">
+<!ENTITY itemDownloads.label             "ჩამოტვირთვების ისტორია">
+<!ENTITY itemDownloads.accesskey         "D">
+<!ENTITY itemFormSearchHistory.label     "შენახული ფორმა და ძიების ისტორია">
+<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemCache.label                 "ბუფერი">
+<!ENTITY itemCache.accesskey             "a">
+<!ENTITY itemCookies.label               "ნაჭდევები">
+<!ENTITY itemCookies.accesskey        "C">
+<!ENTITY itemOfflineApps.label           "გარე ვებსაიტის მონაცემები">
+<!ENTITY itemOfflineApps.accesskey    "O">
+<!ENTITY itemPasswords.label             "შენახული პაროლები">
+<!ENTITY itemPasswords.accesskey         "P">
+<!ENTITY itemSessions.label              "სეანსები აუთენტიფიკაციით">
+<!ENTITY itemSessions.accesskey          "S">
+
+<!ENTITY sanitizeButton.label            "პირად მონაცემთა გასუფთავება ახლავე">

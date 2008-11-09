@@ -53,23 +53,7 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY window.title "ფილტრის წესები">
-<!ENTITY subject.label "თემა">
-<!ENTITY sender.label "ვინ">
-<!ENTITY date.label "თარიღი">
-<!ENTITY anyText.label "ტექსტი">
-<!ENTITY keyword.label "სიტყვა-გასაღები">
-<!ENTITY age.label "ასაკი დღეებში">
-<!ENTITY to.label "ვის">
-<!ENTITY size.label "ზომა">
 
-<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
-<!ENTITY cc.label "ასლი">
-
-<!ENTITY status.label "სტატუსი">
-<!ENTITY priority.label "პრიორიტეტი">
-<!ENTITY body.label "შიგთავსი">
-<!ENTITY contains.label "შეიცავს">
-<!ENTITY nocontains.label "არ შეიცავს">
 <!ENTITY filterName.label "ფილტრის სახელი:">
 <!ENTITY filterName.accesskey "i">
 
@@ -82,11 +66,16 @@
 <!ENTITY highPriorityCmd.label "მაღალი">
 <!ENTITY highestPriorityCmd.label "უმაღლესი">
 
-<!ENTITY conditionDesc.label "მსგავსი წერილებისთვის:">
-<!ENTITY filterActionDesc.label "შესრულდეს:">
+<!ENTITY contextDesc.label "ფილტრის გამოყენება:">
+<!ENTITY contextDesc.accesskey "w">
+<!ENTITY contextIncoming.label "ფოსტის შემოწმებისას">
+<!ENTITY contextManual.label "ხელით შესრულებისას">
+<!ENTITY contextBoth.label "ფოსტის შემოწმების ან ხელით შესრულებისას">
+
+<!ENTITY filterActionDesc.label "ამ ქმედებების შესრულება:">
 <!ENTITY filterActionDesc.accesskey "P">
 
-<!ENTITY newFolderButton.label "ახალი დასტა...">
+<!ENTITY newFolderButton.label "ახალი დასტა…">
 <!ENTITY newFolderButton.accesskey "N">
 
 <!-- New Style Filter Rule Actions -->
@@ -104,5 +93,6 @@
 <!ENTITY deleteFromPOP.label "წაშლა POP სერვერიდან">
 <!ENTITY fetchFromPOP.label "მიღება POP სერვერიდან">
 <!ENTITY ignoreThread.label "საქაღალდის იგნორირება">
+<!ENTITY ignoreSubthread.label "ქვესაქაღალდის იგნორირება">
 <!ENTITY watchThread.label "საქაღალდის თვალმიდევნება">
 <!ENTITY stopExecution.label "ფილტრის გამოყენების შეწყვეტა">

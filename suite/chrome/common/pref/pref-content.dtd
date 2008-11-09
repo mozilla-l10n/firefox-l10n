@@ -1,0 +1,22 @@
+<!--LOCALIZATION NOTE : FILE The Appearance > Content prefs dialog.  -->
+
+<!ENTITY pref.content.title                     "შიგთავსი">
+<!ENTITY pref.content.description               "ეს პარამეტრები განსაზღვრავენ თუ როგორ აისახება ვებსაიტი პროგრამაში &brandShortName;.">
+<!ENTITY siteIcons.label                        "ვებსაიტის პიქტოგრამები">
+<!ENTITY useSiteIcons.label                     "ვებსაიტის პიქტოგრამების ჩვენება">
+<!ENTITY useSiteIcons.accesskey                 "S">
+<!ENTITY useFavIcons.label                      "ვებსაიტის პიქტოგრამების დაჯინებული ძიება როცა ისინი გვერდზე არ მითითებულა">
+<!ENTITY useFavIcons.accesskey                  "A">
+<!ENTITY tbIconsDescription.label               "ვებსაიტის პიქტოგრამების ასახვა სანიშნეების მენიუსა და პულტზე:">
+<!ENTITY tbIconsNever.label                     "პიქტოგრამების ყოველთვის დამალვა სანიშნეებისთვის">
+<!ENTITY tbIconsNever.accesskey                 "N">
+<!ENTITY tbIconsCache.label                     "მხოლოდ როცა ვებსაიტი ბოლო ხანებში ჩაიტვირთა">
+<!ENTITY tbIconsCache.accesskey                 "O">
+<!ENTITY tbIconsAlways.label                    "პიქტოგრამების ყოველთვის ჩამოტვირთვა სანიშნეებისთვის">
+<!ENTITY tbIconsAlways.accesskey                "w">
+<!ENTITY enableAutomaticImageResizing.label     "დიდი ზომის გამოსახულებათა ბრაუზერის სარკმლის ზომაზე მორგება">
+<!ENTITY enableAutomaticImageResizing.accesskey "R">
+<!ENTITY useSmoothScroll.label                  "გლუვი გადახვევის გამოყენება">
+<!ENTITY useSmoothScroll.accesskey              "U">
+<!ENTITY textZoomOnly.label                     "მხოლოდ ტექსტის მასშტაბირება ნაცვლად გვერდისა">
+<!ENTITY textZoomOnly.accesskey                 "Z">

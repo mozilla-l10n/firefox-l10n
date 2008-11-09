@@ -45,9 +45,9 @@
 <!ENTITY ccButton.accesskey                  "C"> 
 <!ENTITY bccButton.label                     "მეორე ასლი->">  
 <!ENTITY bccButton.accesskey                 "B">  
-<!ENTITY newButton.label                     "ახალი..."> 
+<!ENTITY newButton.label                     "ახალი…"> 
 <!ENTITY newButton.accesskey                 "N"> 
-<!ENTITY editButton.label                    "რედაქტირება..."> 
+<!ENTITY editButton.label                    "რედაქტირება…"> 
 <!ENTITY editButton.accesskey                "E">
 <!ENTITY removeButton.label                  "ამოღება"> 
 <!ENTITY removeButton.accesskey              "R"> 
@@ -55,8 +55,6 @@
 <!ENTITY lookIn.accesskey                    "L"> 
 <!ENTITY for.label                           "ტექსტი:"> 
 <!ENTITY for.accesskey                       "f"> 
-<!ENTITY clearButton.label                   "წაშლა">
-<!ENTITY clearButton.accesskey               "a">
 <!ENTITY addressMessageTo.label              "წერილის მისამართი:"> 
 
 <!-- Tooltips items -->  

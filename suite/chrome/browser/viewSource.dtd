@@ -19,9 +19,9 @@
 <!ENTITY findNextCmd.label "კვლავძიება">
 <!ENTITY findNextCmd.accesskey "n">
 
-<!ENTITY goToLineCmd.label "გადასვლა სტრიქონზე...">
+<!ENTITY goToLineCmd.label "გადასვლა სტრიქონზე…">
 <!ENTITY goToLineCmd.accesskey "G">
 <!ENTITY goToLineCmd.commandkey "l">
 
-<!ENTITY printSetupCmd.label "გვერდის პარამეტრები...">
+<!ENTITY printSetupCmd.label "გვერდის პარამეტრები…">
 <!ENTITY printSetupCmd.accesskey "u">

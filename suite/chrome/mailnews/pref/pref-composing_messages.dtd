@@ -44,6 +44,8 @@
 <!ENTITY asAttachment.label                   "ჩანართად">
 <!ENTITY asAttachment.accesskey               "A">
 
+<!ENTITY replyQuoteInline.label               "ციტირების სქემა უშუალო პასუხისას">
+<!ENTITY replyQuoteInline.accesskey           "Q">
 <!ENTITY warnOnSendAccelKey.label             "თანხმობის მოთხოვნა წერილების 'სხარტი კლავიშით' გაგზავნისას">
 <!ENTITY warnOnSendAccelKey.accesskey         "k">
 <!-- LOCALIZATION NOTE (autoSave.label): This will concatenate with
@@ -63,7 +65,7 @@
 <!ENTITY spellCheckInline.accesskey           "e">
 <!ENTITY languagePopup.label                  "ენა:">
 <!ENTITY languagePopup.accessKey              "g">
-<!ENTITY moreDictionaries.label               "სხვა ლექსიკონების ჩამოტვირთვა...">
+<!ENTITY moreDictionaries.label               "სხვა ლექსიკონების ჩამოტვირთვა…">
 
 <!ENTITY defaultMessagesHeader.label          "HTML წერილების ძირითადი პარამეტრები">
 <!ENTITY font.label                           "შრიფტი:">

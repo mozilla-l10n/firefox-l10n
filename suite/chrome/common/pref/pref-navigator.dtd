@@ -2,7 +2,7 @@
 
 <!ENTITY  navRadio                  "ჩვენება">
 <!ENTITY  navStartPageMenu.label    "ნავიგატორის სეანსის დაწყება">
-<!ENTITY  newWinPageMenu.label      "ახალ ფანჯარაში">
+<!ENTITY  newWinPageMenu.label      "ახალ სარკმელში">
 <!ENTITY  newTabPageMenu.label      "ახალ დაფაზე">
 
 <!ENTITY  blankPageRadio.label      "სუფთა გვერდით">
@@ -13,14 +13,12 @@
 <!ENTITY  lastPageRadio.accesskey   "L">
 
 <!ENTITY  header2.label             "თავფურცლით">
-<!ENTITY  homePageIntro.label       "დაჭერა ღილაკზე &quot;თავფურცელი&quot; ამ გვერდზე ან გვერდთა ჯგუფზე გადმოგიყვანთ.">
-<!ENTITY  location.label            "მისამართი:">
-<!ENTITY  location.accesskey        "a">
+<!ENTITY  homePageIntro.label       "ტავფურცლის ღილაკზე დაჭერა ამ გვერდზე ან გვერდთა ჯგუფზე გადაგიყვანთ:">
 <!ENTITY  useCurrent.label          "გამოიყენე მიმდინარე გვერდი">
 <!ENTITY  useCurrent.accesskey      "U">
 <!ENTITY  useCurrentGroup.label     "გამოიყენე მიმდინარე ჯგუფი">
 <!ENTITY  useCurrentGroup.accesskey "G">
-<!ENTITY  browseFile.label          "ფაილის არჩევა...">
+<!ENTITY  browseFile.label          "ფაილის არჩევა…">
 <!ENTITY  browseFile.accesskey      "C">
 <!ENTITY  useDefault.label          "საწყისის აღდგენა">
 <!ENTITY  useDefault.accesskey      "R">
@@ -39,3 +37,10 @@
 <!ENTITY  homeButton.accesskey      "e">
 <!ENTITY  bookmarksButton.label     "სანიშნეები">
 <!ENTITY  bookmarksButton.accesskey "k">
+
+<!ENTITY defaultBrowserGroup.label      "ნაგულისხმები ბრაუზერი">
+<!ENTITY defaultBrowserButton.label     "ნაგულისხმები ბრაუზერის მითითება">
+<!ENTITY defaultBrowserButton.accesskey "D">
+<!ENTITY alreadyDefaultText             "&brandShortName; უკვე თქვენი ნაგულისხმები ბრაუზერია.">
+<!ENTITY defaultPendingText             "&brandShortName; მიეთითება როგორც ნაგულისხმები ბრაუზერი, როცა დაწკაპავთ ღილაკს - დიახ.">
+<!ENTITY makeDefaultText                "&brandShortName; პროგრამის ნაგულისხმებ ბრაუზერად მითითება.">

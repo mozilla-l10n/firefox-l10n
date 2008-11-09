@@ -4,11 +4,12 @@
 <!ENTITY     div.cookiesonsystem.label      "კომპიუტერში ჩაწერილი ნაჭდევების ჩვენება და ამოშლა.">
 <!ENTITY     treehead.cookiename.label      "ნაჭდევის სახელი">
 <!ENTITY     treehead.cookiedomain.label    "საიტი"> 
-<!ENTITY     treehead.cookiestatus.label    "სტატუსი"> 
 <!ENTITY     treehead.cookieexpires.label   "ვადა"> 
 <!ENTITY     treehead.infoselected.label    "შერჩეული ნაჭდევის მონაცემები">
 <!ENTITY     button.removecookie.label      "ნაჭდევის ამოშლა">
+<!ENTITY     button.removecookie.accesskey  "R">
 <!ENTITY     button.removeallcookies.label  "ყველა ნაჭდევის ამოშლა">
+<!ENTITY     button.removeallcookies.accesskey "e">
 
 <!ENTITY     props.name.label               "სახელი:">
 <!ENTITY     props.value.label              "შიგთავსი:">
@@ -16,20 +17,26 @@
 <!ENTITY     props.path.label               "გეზი:">
 <!ENTITY     props.secure.label             "გაიგზავნოს:">
 <!ENTITY     props.expires.label            "ვადა:">
-<!ENTITY     props.policy.label             "წესები:"> 
 
 <!ENTITY     treehead.sitename.label        "საიტი">
 <!ENTITY     treehead.status.label          "სტატუსი">
 <!ENTITY     windowtitle.label              "ნაჭდევების მართვა">
 <!ENTITY     buttonaccept.label             "დახურვა">
+<!ENTITY     buttonaccept.accesskey         "C">
 
 <!ENTITY     blockSite.label                "დაბლოკვა">
+<!ENTITY     blockSite.accesskey            "B">
 <!ENTITY     allowSite.label                "დაშვება">
+<!ENTITY     allowSite.accesskey            "A">
 <!ENTITY     allowSiteSession.label         "სეანსი">
+<!ENTITY     allowSiteSession.accesskey     "S">
 <!ENTITY     removepermission.label         "საიტის ამოღება">
+<!ENTITY     removepermission.accesskey     "R">
 <!ENTITY     removeallpermissions.label     "ყველა საიტის ამოღება">
+<!ENTITY     removeallpermissions.accesskey "e">
 
 <!ENTITY     canSet.label                   "შეუძლია ნაჭდევების ჩაწერა">
 <!ENTITY     cannotSet.label                "ეკრძალება ნაჭდევების ჩაწერა">
 
-<!ENTITY     checkbox.label                 "აკრძალული საიტებისთვის მომავალში ნაჭდევებს ჩაწერის აკრძალვა">
+<!ENTITY     futureCookies.label            "ნაჭდევებამოშლილი საიტებისთვის მომავალში ნაჭდევებს ჩაწერის აკრძალვა">
+<!ENTITY     futureCookies.accesskey        "D">

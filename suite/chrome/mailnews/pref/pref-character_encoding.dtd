@@ -41,13 +41,11 @@
 <!ENTITY messageDisplay.caption          "წერილის სარკმელი">
 <!ENTITY viewDefaultCharset.label        "ნაგულისხმები კოდირება:">
 <!ENTITY viewDefaultCharset.accesskey    "D">
-<!ENTITY forceCharsetOverride.label      "წერილის ჩვენებისას ყოველთვის ნაგულისხმები კოდირების გამოყენება (MIME თავსართში მითითებული კოდირების იგნორირება).">
-<!ENTITY forceCharsetOverride.accesskey  "A">
 
 <!ENTITY composingMessages.caption       "წერილების შექმნა">
 <!ENTITY useMIME.label                   "წერილებისთვის, რომლებიც 8-ბიტიან სიმბოლოებს შეიცავენ, 'ბეჭდვად ბრჭყალებიანი' MIME კოდირების გამოყენება. წერილების უცვლელად გაგზავნისთის დატოვეთ როგორც არის.">
 <!ENTITY useMIME.accesskey               "F">
 <!ENTITY sendDefaultCharset.label        "ნაგულისხმები კოდირება:">
 <!ENTITY sendDefaultCharset.accesskey    "C">
-<!ENTITY replyInDefaultCharset.label     "პასუხისას ყოველთვის ამ ნაგულისხმები კოდირების გამოყენება. (როცა ამორთულია ნაგულისხმები მხოლოდ ახალი წერილებისთვის გამოიყენება.)">
-<!ENTITY replyInDefaultCharset.accesskey "w">
+<!ENTITY replyInDefaultCharset2.label     "როცა შესაძლებელია, პასუხისას ამ ნაგულისხმები კოდირების გამოყენება. (როცა ამორთულია ნაგულისხმები მხოლოდ ახალი წერილებისთვის გამოიყენება.)">
+<!ENTITY replyInDefaultCharset2.accesskey "W">

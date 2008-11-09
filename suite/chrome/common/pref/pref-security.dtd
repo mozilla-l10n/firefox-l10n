@@ -37,5 +37,20 @@
 
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
 <!ENTITY pref.security.title              "პრივატულობა და უსაფრთხოება">
-<!ENTITY rContent1 "პრივატულობისა და უსაფრთხოების პარამეტრები განსაზღვრავენ ბრაუზერში ფორმებისა და პაროლების შევსების, ნაჭდევებთან და ნახატებთან, ასევე სერთიფიკატებთან და ბარათებთან მუშაობის წესებს.">
-<!ENTITY rContent2 "თუ პრივატულობისა და უსაფრთხოების მარცხნივ ქვეკატეგორიები არ ჩანს, ორმაგად დაწკაპეთ კატეგორია ნუსხის ჩამოსაშლელად.">
+<!ENTITY privateData.label                "პირადი მონაცმები">
+
+<!ENTITY alwaysClear.label                "ჩემი პირადი მონაცემების ყოველთვის გასუფთავება &brandShortName; ბრაუზერის დახურვისას">
+<!ENTITY alwaysClear.accesskey            "w">
+
+<!ENTITY askBeforeClear.label             "დამეკითხე პირადი მონაცმების გასუფთავება">
+<!ENTITY askBeforeClear.accesskey         "A">
+
+<!ENTITY clearDataSettings.label          "პირადი მონაცემების გასუფთავების მოთხოვნისას &brandShortName; ბრაუზერმა უნდა წაშალოს:">
+
+<!--LOCALIZATION NOTE (clearDataDialog.label, clearDataSilent.label, clearDataDialog.accesskey):
+  The only difference bettween the two labels is that one calls a dialog, the other doesn't.
+  The same accesskey is used for both labels.
+-->
+<!ENTITY clearDataDialog.label            "გასუფთავება ახლავე…">
+<!ENTITY clearDataSilent.label            "გასუფთავება ახლავე">
+<!ENTITY clearDataDialog.accesskey        "N">

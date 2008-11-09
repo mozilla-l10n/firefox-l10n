@@ -50,7 +50,8 @@
 <!ENTITY autocompleteText.label                "წერილების დამისამართებისას მსგავსის მოძებნა:">
 <!ENTITY directories.label                     "დასტების სერვერზე:">
 <!ENTITY directories.accesskey                 "D">
-<!ENTITY editDirectories.label                 "დასტების რედაქტირება...">
+<!ENTITY directoriesNone.label                 "არა">
+<!ENTITY editDirectories.label                 "დასტების რედაქტირება…">
 <!ENTITY editDirectories.accesskey             "E">
 <!ENTITY matchText.label                       "თუ მოიძებნა ლოკალურ მისამართების წიგნაკებში:">
 <!ENTITY skipDirectory.label                   "არ მოძებნო დასტებში">

@@ -45,6 +45,15 @@
 <!ENTITY autounzip.accesskey              "A">
 <!ENTITY preserveThreading.label          "წერილების სორტირებისას საქაღალდეების შენარჩუნება">
 <!ENTITY preserveThreading.accesskey      "v">
+
+<!ENTITY defaultMailSettings.description  "&brandShortName; პროგრამის ნაგულისხმებად მითთება:">
+<!ENTITY setDefaultMail.label             "ფოსტისთვის">
+<!ENTITY setDefaultMail.accesskey         "M">
+<!ENTITY setDefaultNews.label             "სიახლეებისთვის">
+<!ENTITY setDefaultNews.accesskey         "N">
+<!ENTITY setDefaultFeed.label             "არხებისთვის">
+<!ENTITY setDefaultFeed.accesskey         "e">
+
 <!ENTITY messengerStartPage.caption       "ფოსტის საწყისი გვერდი">
 <!ENTITY enableStartPage.label            "საფოსტო სეანსის დაწყებისას სათაო გვერდის წერილების ველში ჩვენება">
 <!ENTITY enableStartPage.accesskey        "W">
@@ -53,8 +62,8 @@
 <!ENTITY useDefault.label                 "ძირითადის აღდგენა">
 <!ENTITY useDefault.accesskey             "D">
 <!ENTITY rememberLastMsg.label            "ბოლო მონიშნული წერილის დამახსოვრება">
-<!ENTITY rememberLastMsg.accesskey        "e">
-<!ENTITY toolbarIntro.caption             "შეარჩიეთ სასურველი ღილაკები პულტზე საჩვენებლად">
+<!ENTITY rememberLastMsg.accesskey        "R">
+<!ENTITY toolbarIntro.caption             "სასურველი ღილაკების შერჩევა პულტზე საჩვენებლად">
 <!ENTITY fileButton.label                 "ფაილი">
 <!ENTITY fileButton.accesskey             "F">
 <!ENTITY nextButton.label                 "შემდეგი">

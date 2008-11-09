@@ -13,7 +13,7 @@
 <!ENTITY findAsYouTypeSound.label "ხმოვანი სიგნალი ტექსტის ვერ მოძებნის შემთხვევაში">
 <!ENTITY findAsYouTypeSound.accesskey "P">
 <!ENTITY findAsYouTypeEnableAuto.label "ვებგვერდზე ტექსტის აკრეფისას ავტომატური ძებნა:">
-<!ENTITY findAsYouTypeEnableAuto.accesskey "a">
+<!ENTITY findAsYouTypeEnableAuto.accesskey "F">
 <!ENTITY findAsYouTypeAutoText.label "ნებისმიერი ტექსტი">
 <!ENTITY findAsYouTypeAutoText.accesskey "A">
 <!ENTITY findAsYouTypeAutoLinks.label "მხოლოდ ბმები">

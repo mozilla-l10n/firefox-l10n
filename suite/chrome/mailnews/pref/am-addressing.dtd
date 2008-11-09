@@ -2,17 +2,18 @@
 
 <!ENTITY addressing.label          "წერილების შედგენა და მისამართები">
 <!ENTITY addressingGroupTitle.label "მისამართები">
-<!ENTITY autocompleteToMyDomain.label     "მისამართებისთვის ჩემი დომენის ავტომატურად დამატება">
-<!ENTITY autocompleteToMyDomain.accesskey "u">
+<!ENTITY autocompleteToMyDomain.label     "მისამართებზე ჩემი დომენის ავტომატური მიმაგრება">
+<!ENTITY autocompleteToMyDomain.accesskey "o">
 <!ENTITY addressingText.label      "მისამართების ძებნისას:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "გლობალური LDAP სერვერის პარამეტრების გამოყენება ამ ანგარიშისათვის">
 <!ENTITY useGlobal.accesskey       "U">
-<!ENTITY editDirectories.label     "დასტების რედაქტირება...">
+<!ENTITY editDirectories.label     "დასტების რედაქტირება…">
 <!ENTITY editDirectories.accesskey "E">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "სხვა LDAP სერვერის გამოყენება:">
 <!ENTITY directories.accesskey     "d">
+<!ENTITY directoriesNone.label     "არა">
 
 <!-- am-addressing.xul -->
 
@@ -21,14 +22,14 @@
 <!ENTITY useHtml.label                        "წერილების შედგენა HTML ფორმატში">
 <!ENTITY useHtml.accesskey                    "C">
 <!ENTITY autoQuote.label                      "პასუხისას დედნის ავტომატური ციტირება">
-<!ENTITY autoQuote.accesskey                  "q">
+<!ENTITY autoQuote.accesskey                  "m">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "შემდეგ,">
-<!ENTITY then.accesskey                       "t">
+<!ENTITY then.accesskey                       "T">
 <!ENTITY aboveQuote.label                     "ჩემი პასუხის დაწყება ციტირების ზემოთ">
 <!ENTITY belowQuote.label                     "ჩემი პასუხის დაწყება ციტირების ქვემოთ">
 <!ENTITY selectAndQuote.label                 "ციტირების შერჩევა">
 <!ENTITY place.label                          "და ჩემი ხელმოწერის განთავსება">
-<!ENTITY place.accesskey                      "p">
+<!ENTITY place.accesskey                      "s">
 <!ENTITY belowText.label                      "ციტირების ქვემოთ (რეკომენდებულია)">
 <!ENTITY aboveText.label                      "ჩემი პასუხის ქვემოთ (ციტირების ზემოთ)">

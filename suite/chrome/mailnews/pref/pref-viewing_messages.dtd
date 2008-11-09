@@ -50,31 +50,34 @@
 <!ENTITY color.label                      "ფერი:">
 <!ENTITY color.accesskey                  "C">
 <!ENTITY displayPlainText.caption         "ჩვეულებრივი ტექსტური წერილები">
-<!ENTITY plainTextFont.label              "შრიფტის შემდეგი ზომის გამოყენება:">
+<!ENTITY fontPlainText.label              "შრიფტი:">
+<!ENTITY fontPlainText.accesskey          "F">
 <!ENTITY displayQuoted.label              "ციტირებული წერილების პარამეტრები:">
-<!ENTITY fixedWidth.label                 "მონოსიგანის შრიფტი">
-<!ENTITY fixedWidth.accesskey             "F">
-<!ENTITY variableWidth.label              "პროპორციული შრიფტი">
-<!ENTITY variableWidth.accesskey          "V">
 <!ENTITY readingMessagesHeader.label      "შემოსული წერილებისათვის">
 <!ENTITY messageWrapping.label            "სტრიქონების გადატანა">
-<!ENTITY wrapInMsg.label                  "სტრიქონების გადატანა ფანჯრის სიგანეზე">
-<!ENTITY wrapInMsg.accesskey              "t">
+<!ENTITY wrapInMsg.label                  "სტრიქონების გადატანა სარკმლის სიგანეზე">
+<!ENTITY wrapInMsg.accesskey              "W">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label           "მიმიკების გრაფიკულად ჩვენება">
 <!ENTITY convertEmoticons.accesskey       "D">
 <!ENTITY generalMessageDisplay.caption    "ძირითადი">
-<!-- LOCALIZATION NOTE (markMessagesRead.label): This will concatenate with
-     "xxx seconds before marking a message as read", using a number and
-     (seconds.label). -->
-<!ENTITY markMessagesRead.label           "დაცდა">
-<!ENTITY markMessagesRead.accesskey       "W">
-<!ENTITY seconds.label                    "წამი წერილების წაკითხულად მონიშვნამდე">
+<!ENTITY autoMarkAsRead.label             "წერილების წაკითხულად ავტომატურად მონიშვნა">
+<!ENTITY autoMarkAsRead.accesskey         "A">
+<!ENTITY markAsReadNoDelay.label          "მაშინვე ეკრანზე ასახვისას">
+<!ENTITY markAsReadNoDelay.accesskey      "m">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "ასახვიდან">
+<!ENTITY markAsReadDelay.accesskey        "t">
+<!ENTITY secondsLabel.label               "წამის შემდეგ">
 
 <!ENTITY openingMessages.label            "წერილების გახსნისას მათი ჩვენება:">
-<!ENTITY newWindowRadio.label             "ახალ ფანჯარში">
+<!ENTITY newWindowRadio.label             "ახალ სარკმელში">
 <!ENTITY newWindowRadio.accesskey         "n">
-<!ENTITY existingWindowRadio.label        "წერილის არსებულ ფანჯარაში">
+<!ENTITY existingWindowRadio.label        "წერილის არსებულ სარკმელში">
 <!ENTITY existingWindowRadio.accesskey    "e">
 <!ENTITY disableContent.label             "ნახატებისა და სხვა შიგთავსის დაბლოკვა გარე წყაროდან,">
 <!ENTITY disableContent.accesskey         "B">
+<!ENTITY showCondensedAddresses.label     "ჩემს წიგნაკში ხალხის მხოლოდ ეკრანული სახელების ჩვენება">
+<!ENTITY showCondensedAddresses.accesskey "o">

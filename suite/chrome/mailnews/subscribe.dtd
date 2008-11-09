@@ -40,6 +40,8 @@
 <!ENTITY subscribeButton.accesskey    "S">
 <!ENTITY unsubscribeButton.label      "ხელმოწერის გაუქმება">
 <!ENTITY unsubscribeButton.accesskey  "U">
+<!ENTITY newGroupsTab.label           "ახალი ჯგუფები">
+<!ENTITY newGroupsTab.accesskey       "N">
 <!ENTITY refreshButton.label          "განახლება">
 <!ENTITY refreshButton.accesskey      "R">
 <!ENTITY stopButton.label             "შეჩერება">

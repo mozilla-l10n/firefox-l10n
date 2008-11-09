@@ -22,8 +22,8 @@
  Contributor(s):
 
  Alternatively, the contents of this file may be used under the terms of
- either of the GNU General Public License Version 2 or later (the "GPL"),
- or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
  in which case the provisions of the GPL or the LGPL are applicable instead
  of those above. If you wish to allow use of your version of this file only
  under the terms of either the GPL or the LGPL, and not to allow others to
@@ -35,10 +35,8 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY chooseAddressBook.label         "დამატება: ">
-<!ENTITY chooseAddressBook.accesskey     "A">
-
 <!ENTITY Contact.tab                     "კონტაქტი"> 
+<!ENTITY Contact.accesskey               "C">
 <!ENTITY Name.box                        "სახელი"> 
 
 <!-- LOCALIZATION NOTE: 
@@ -73,9 +71,9 @@
 <!ENTITY PrimaryEmail.label             "ელფოსტა:">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "დამატებითი ელფოსტა:">
-<!ENTITY SecondEmail.accesskey          "o">
-<!ENTITY PreferMailFormat.label         "წერილების შემდეგ ფორმატში მიღება ურჩევნი :">
-<!ENTITY PreferMailFormat.accesskey     "r">
+<!ENTITY SecondEmail.accesskey          "i">
+<!ENTITY PreferMailFormat.label         "წერილების შემდეგ ფორმატში მიღება ურჩევნია:">
+<!ENTITY PreferMailFormat.accesskey     "v">
 <!ENTITY PlainText.label                "ტექსტი">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "უცნობი">
@@ -83,48 +81,78 @@
 <!ENTITY ScreenName.accesskey           "S">
 
 <!ENTITY allowRemoteContent.label       "გარე ნახატების ნებართვა HTML ფოსტაში.">
-<!ENTITY allowRemoteContent.accesskey   "g">
+<!ENTITY allowRemoteContent.accesskey   "r">
+<!ENTITY allowRemoteContent.tooltip     "HTML გზავნილებში შესაძლებელია
+გამოსახულებათა ჩართვა გარე წყაროებიდან. ასეთი გზავნილის გახსნისას
+მოხდება გარე წყაროსთან დაკავშირება. ეს გზავნილის წაკითხვის დასტურის
+შესაძლებლობასაც იძლევა. ამ პარამეტრის ჩართვა ამ კონტაქტიდან HTML გზავნილებში
+გამოსახულებათა ჩართვის ნებას იძლევა.">
 
-<!ENTITY Phones.box                     "ტელეფონები">
 <!ENTITY WorkPhone.label                "სამსახური:">
-<!ENTITY WorkPhone.accesskey            "W">
+<!ENTITY WorkPhone.accesskey            "k">
 <!ENTITY HomePhone.label                "ბინა:">
-<!ENTITY HomePhone.accesskey            "H">
+<!ENTITY HomePhone.accesskey            "o">
 <!ENTITY FaxNumber.label                "ფაქსი:">
 <!ENTITY FaxNumber.accesskey            "x">
 <!ENTITY PagerNumber.label              "პეიჯერი:">
-<!ENTITY PagerNumber.accesskey          "P">
+<!ENTITY PagerNumber.accesskey          "g">
 <!ENTITY CellularNumber.label           "მობილური:">
 <!ENTITY CellularNumber.accesskey       "M">
 
-<!ENTITY Address.tab                    "მისამართი"> 
-<!ENTITY Home.box                       "ბინა"> 
+<!ENTITY Home.tab                       "პირადი">
+<!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "მისამართი:"> 
+<!ENTITY HomeAddress.accesskey          "A">
 <!ENTITY HomeAddress2.label             ""> 
+<!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "ქალაქი:"> 
+<!ENTITY HomeCity.accesskey             "y">
 <!ENTITY HomeState.label                "რეგიონი/რაიონი:"> 
+<!ENTITY HomeState.accesskey            "S">
 <!ENTITY HomeZipCode.label              "ZIP/საფოსტო კოდი:"> 
+<!ENTITY HomeZipCode.accesskey          "Z">
 <!ENTITY HomeCountry.label              "ქვეყანა:">
-<!ENTITY HomeWebPage.label              "ვებგვერდი:"> 
-<!ENTITY Work.box                       "სამსახური"> 
+<!ENTITY HomeCountry.accesskey          "u">
+<!ENTITY HomeWebPage.label              "ვებ-გვერდი:"> 
+<!ENTITY HomeWebPage.accesskey          "e">
+<!ENTITY Birthday.label                 "დაბადების დღე:">
+<!ENTITY Birthday.accesskey             "B">
+<!ENTITY Year.emptytext                 "წელი">
+<!ENTITY Or.value                       "ან">
+<!ENTITY Age.emptytext                  "ასაკი">
+
+<!ENTITY Work.tab                       "სამსახური"> 
+<!ENTITY Work.accesskey                 "W">
 <!ENTITY JobTitle.label                 "თანამდებობა"> 
+<!ENTITY JobTitle.accesskey             "i">
 <!ENTITY Department.label               "განყოფილება:"> 
+<!ENTITY Department.accesskey           "m">
 <!ENTITY Company.label                  "ორგანიზაცია:"> 
+<!ENTITY Company.accesskey              "O">
 <!ENTITY WorkAddress.label              "მისამართი:"> 
+<!ENTITY WorkAddress.accesskey          "A">
 <!ENTITY WorkAddress2.label             ""> 
+<!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "ქალაქი:"> 
+<!ENTITY WorkCity.accesskey             "y">
 <!ENTITY WorkState.label                "რეგიონი/რაიონი:"> 
+<!ENTITY WorkState.accesskey            "S">
 <!ENTITY WorkZipCode.label              "ZIP/საფოსტო კოდი:"> 
+<!ENTITY WorkZipCode.accesskey          "Z">
 <!ENTITY WorkCountry.label              "ქვეყანა:">
-<!ENTITY WorkWebPage.label              "ვებგვერდი:"> 
+<!ENTITY WorkCountry.accesskey          "u">
+<!ENTITY WorkWebPage.label              "ვებ-გვერდი:"> 
+<!ENTITY WorkWebPage.accesskey          "e">
 
 <!ENTITY Other.tab                      "სხვა">
-<!ENTITY Custom1.label                  "დამატებითი 1:">
+<!ENTITY Other.accesskey                "h">
+<!ENTITY Custom1.label                  "საკუთარი 1:">
 <!ENTITY Custom1.accesskey              "1">
-<!ENTITY Custom2.label                  "დამატებითი 2:">
+<!ENTITY Custom2.label                  "საკუთარი 2:">
 <!ENTITY Custom2.accesskey              "2">
-<!ENTITY Custom3.label                  "დამატებითი 3:">
+<!ENTITY Custom3.label                  "საკუთარი 3:">
 <!ENTITY Custom3.accesskey              "3">
-<!ENTITY Custom4.label                  "დამატებითი 4:">
+<!ENTITY Custom4.label                  "საკუთარი 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.box                      "შენიშვნები">
+<!ENTITY Notes.label                      "შენიშვნები:">
+<!ENTITY Notes.accesskey                "N">

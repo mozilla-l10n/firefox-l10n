@@ -74,9 +74,9 @@
 <!ENTITY copyAddress.accesskey                 "A">
 <!ENTITY deleteAddrBookCard.label              "წაშლა">
 <!ENTITY deleteAddrBookCard.accesskey          "D">
-<!ENTITY newAddrBookCard.label                 "ახალი ბარათი...">
+<!ENTITY newAddrBookCard.label                 "ახალი ბარათი…">
 <!ENTITY newAddrBookCard.accesskey             "N">
-<!ENTITY newAddrBookMailingList.label          "ახალი დაგზავნის ნუსხა...">
+<!ENTITY newAddrBookMailingList.label          "ახალი დაგზავნის ნუსხა…">
 <!ENTITY newAddrBookMailingList.accesskey      "M">
 <!ENTITY addrBookCardProperties.label          "პარამეტრები">
 <!ENTITY addrBookCardProperties.accesskey      "P">

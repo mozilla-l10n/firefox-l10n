@@ -3,13 +3,13 @@
 <!ENTITY popupWindowRejectCmd.accesskey "">
 <!ENTITY popupWindowAllowCmd.label      "ამ საიტიდან ფირნიშების დაშვება">
 <!ENTITY popupWindowAllowCmd.accesskey  "">
-<!ENTITY openLinkCmd.label            "ბმის ახალ ფანჯარაში გახსნა">
+<!ENTITY openLinkCmd.label            "ბმის ახალ სარკმელში გახსნა">
 <!ENTITY openLinkCmd.accesskey        "W">
 <!ENTITY openLinkCmdInTab.label       "ბმის ახალ დაფაზე გახსნა">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkInWindowCmd.label    "გახსნა">
 <!ENTITY openLinkInWindowCmd.accesskey "p">
-<!ENTITY openFrameCmd.label           "ბლოკის ახალ ფანჯარაში გახსნა">
+<!ENTITY openFrameCmd.label           "ბლოკის ახალ სარკმელში გახსნა">
 <!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY openFrameCmdInTab.label      "ბლოკის ახალ დაფაზე გახსნა">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
@@ -41,7 +41,7 @@
 <!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.label       "ინფორმაცია ბლოკის შესახებ">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
-<!ENTITY fitImageCmd.label            "ნახატის მასშტაბირება ფანჯრის ზომაზე">
+<!ENTITY fitImageCmd.label            "ნახატის მასშტაბირება სარკმლის ზომაზე">
 <!ENTITY fitImageCmd.accesskey        "F">
 <!ENTITY reloadImageCmd.label         "ნახატის განახლება">
 <!ENTITY reloadImageCmd.accesskey     "e">
@@ -57,19 +57,23 @@
 <!ENTITY bookmarkLinkCmd.accesskey    "L">
 <!ENTITY bookmarkFrameCmd.label       "ბლოკის სანიშნეებში შეტანა">
 <!ENTITY bookmarkFrameCmd.accesskey   "m">
-<!ENTITY savePageAsCmd.label          "გვერდის შენახვა როგორც...">
-<!ENTITY savePageCmd.label            "გვერდის შენახვა...">
+<!ENTITY savePageAsCmd.label          "გვერდის შენახვა როგორც…">
+<!ENTITY savePageCmd.label            "გვერდის შენახვა…">
 <!ENTITY savePageCmd.accesskey        "a">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameAsCmd.label         "ბლოკის შენახვა როგორც...">
-<!ENTITY saveFrameCmd.label           "ბლოკის შენახვა...">
+<!ENTITY saveFrameAsCmd.label         "ბლოკის შენახვა როგორც…">
+<!ENTITY saveFrameCmd.label           "ბლოკის შენახვა…">
 <!ENTITY saveFrameCmd.accesskey       "m">
-<!ENTITY saveLinkAsCmd.label          "ბმის შენახვა როგორც...">
-<!ENTITY saveLinkCmd.label            "ბმის შენახვა...">
+<!ENTITY saveLinkAsCmd.label          "ბმის შენახვა როგორც…">
+<!ENTITY saveLinkCmd.label            "ბმის შენახვა…">
 <!ENTITY saveLinkCmd.accesskey        "r">
-<!ENTITY saveImageAsCmd.label         "ნახატის შენახვა როგორც...">
-<!ENTITY saveImageCmd.label           "ნახატის შენახვა...">
+<!ENTITY saveImageAsCmd.label         "ნახატის შენახვა როგორც…">
+<!ENTITY saveImageCmd.label           "ნახატის შენახვა…">
 <!ENTITY saveImageCmd.accesskey       "v">
+<!ENTITY saveVideoCmd.label           "ვიდეოს შენახვა როგორც…">
+<!ENTITY saveVideoCmd.accesskey       "v">
+<!ENTITY saveAudioCmd.label           "აუდიოს შენახვა როგორც…">
+<!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY copyCmd.label                "კოპირება">
 <!ENTITY copyCmd.accesskey            "C">
 <!ENTITY selectAllCmd.label           "სრული მონიშვნა">
@@ -78,6 +82,10 @@
 <!ENTITY copyLinkCmd.accesskey        "C">
 <!ENTITY copyImageCmd.label           "ნახატის კოპირება">
 <!ENTITY copyImageCmd.accesskey       "o">
+<!ENTITY copyVideoURLCmd.label        "ვიდეოს ბმის კოპირება">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "აუდიოს ბმის კოპირება">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY metadataCmd.label            "პარამეტრები">
 <!ENTITY metadataCmd.accesskey        "P">
 <!ENTITY copyEmailCmd.label           "ელფოსტის მისამართის კოპირება">
@@ -94,6 +102,18 @@
 <!ENTITY redoCmd.accesskey            "R">
 <!ENTITY thisFrameMenu.label          "ეს ბლოკი">
 <!ENTITY thisFrameMenu.accesskey      "h">
+<!ENTITY mediaPlay.label              "დაკვრა">
+<!ENTITY mediaPlay.accesskey          "P">
+<!ENTITY mediaPause.label             "პაუზა">
+<!ENTITY mediaPause.accesskey         "P">
+<!ENTITY mediaMute.label              "ხმის ამორთვა">
+<!ENTITY mediaMute.accesskey          "M">
+<!ENTITY mediaUnmute.label            "ხმის ჩართვა">
+<!ENTITY mediaUnmute.accesskey        "m">
+<!ENTITY mediaShowControls.label      "პულტის ჩვენება">
+<!ENTITY mediaShowControls.accesskey  "a">
+<!ENTITY mediaHideControls.label      "პულტის დამალვა">
+<!ENTITY mediaHideControls.accesskey  "a">
 <!ENTITY search.accesskey             "W">
 <!ENTITY bidiSwitchPageDirectionItem.label        "გვერდის მიმართულების გადართვა">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
@@ -102,11 +122,11 @@
 <!ENTITY spellAddToDictionary.label     "ლექსიკონში ჩამატება">
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellIgnoreWord.label          "სიტყვის გამოტოვება">
-<!ENTITY spellIgnoreWord.accesskey      "w">
-<!ENTITY spellEnable.label              "ამ ველის მართლწერის შემოწმება">
-<!ENTITY spellEnable.accesskey          "S">
+<!ENTITY spellIgnoreWord.accesskey      "W">
+<!ENTITY spellCheckEnable.label         "მართლწერის შემოწმება">
+<!ENTITY spellCheckEnable.accesskey     "S">
 <!ENTITY spellNoSuggestions.label       "(შემოთავაზებების გარეშე)">
 <!ENTITY spellDictionaries.label        "ენები">
 <!ENTITY spellDictionaries.accesskey    "L">
-<!ENTITY spellAddDictionaries.label     "სხვა ლექსიკონების ჩამოტვირთვა...">
+<!ENTITY spellAddDictionaries.label     "სხვა ლექსიკონების ჩამოტვირთვა…">
 <!ENTITY spellAddDictionaries.accesskey "D">

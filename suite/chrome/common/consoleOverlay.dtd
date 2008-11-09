@@ -36,9 +36,18 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY menuBar.tooltip       "მენიუს პანელი">
+<!ENTITY modeToolbar.tooltip   "რეჟიმის პულტი">
+<!ENTITY entryToolbar.tooltip  "Javascript ელემენტების პულტი">
 <!ENTITY toolbarsCmd.label     "ჩვენება/დამალვა">
 <!ENTITY toolbarsCmd.accesskey "w">
 <!ENTITY toolbarMode.label     "რეჟიმი">
 <!ENTITY toolbarMode.accesskey "M">
 <!ENTITY toolbarEval.label     "JavaScript ელემენტი">
 <!ENTITY toolbarEval.accesskey "J">
+
+<!ENTITY all.accesskey         "A">
+<!ENTITY errors.accesskey      "r">
+<!ENTITY warnings.accesskey    "n">
+<!ENTITY messages.accesskey    "M">
+<!ENTITY clear.accesskey       "l">
+<!ENTITY evaluate.accesskey    "u">

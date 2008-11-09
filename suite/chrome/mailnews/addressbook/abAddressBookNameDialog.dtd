@@ -34,6 +34,5 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-<!ENTITY abAddressBookNameDialog.title "წიგნაკის სახელი">
 <!ENTITY name.label                    "წიგნაკის სახელი:">
 <!ENTITY name.accesskey                "A">

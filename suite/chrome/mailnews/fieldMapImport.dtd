@@ -38,18 +38,18 @@
 <!ENTITY fieldMapImport.title "წიგნაკის იმპორტი">
 <!ENTITY fieldMapImport.size "width: 50em; height: 40em;">
 <!ENTITY fieldMapImport.recordNumber "ჩანაწერიდან დაიმპორტებული მონაცემები: ">
-<!ENTITY fieldMapImport.next "შემდეგი">
+<!ENTITY fieldMapImport.next.label "შემდეგი">
 <!ENTITY fieldMapImport.next.accesskey "N">
-<!ENTITY fieldMapImport.previous "წინა">
+<!ENTITY fieldMapImport.previous.label "წინა">
 <!ENTITY fieldMapImport.previous.accesskey "P">
 <!ENTITY fieldMapImport.text "გამოიყენეთ აწევა და ჩამოწევა მარცხენა დაფაზე წიგნაკის ველების სწორი შესატყვისების მარჯვნივ გადმოსატანად.  გამორიცხეთ იმპორტისათვის არასასურველი ელემენტები.">
-<!ENTITY fieldMapImport.up "აწევაა">
+<!ENTITY fieldMapImport.up.label "აწევა">
 <!ENTITY fieldMapImport.up.accesskey "U">
-<!ENTITY fieldMapImport.down "ჩამოწევა">
+<!ENTITY fieldMapImport.down.label "ჩამოწევა">
 <!ENTITY fieldMapImport.down.accesskey "D">
 <!ENTITY fieldMapImport.fieldListTitle "წიგნაკის ველები">
 <!ENTITY fieldMapImport.dataTitle "ჩანაწერებიდან საიმპორტო მონაცემები">
-<!ENTITY fieldMapImport.skipFirstRecord "პირველი ჩანაწერი ველების სახელებს შეიცავს">
+<!ENTITY fieldMapImport.skipFirstRecord.label "პირველი ჩანაწერი ველების სახელებს შეიცავს">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "F">
 
 

@@ -50,8 +50,8 @@
 <!ENTITY preview.accesskey                "v">
 <!ENTITY systemsound.label                "თქვენი სისტემის სიგნალი">
 <!ENTITY systemsound.accesskey            "M">
-<!ENTITY customsound.label                "ხმოვანი wav ფაილი">
+<!ENTITY customsound.label                "საკუთარი ხმოვანი ფაილი">
 <!ENTITY customsound.accesskey            "C">
-<!ENTITY browse.label                     "ნუსხა...">
+<!ENTITY browse.label                     "ნუსხა…">
 <!ENTITY browse.accesskey                 "B">
 <!ENTITY browse.title                     "ფაილის არჩევა">

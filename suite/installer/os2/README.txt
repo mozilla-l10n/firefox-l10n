@@ -8,16 +8,17 @@ SeaMonkey is subject to the terms detailed in the license agreement
 accompanying it.
 
 This Read Me file contains information about system requirements and
-installation instructions for the OS/2 builds of SeaMonkey. 
+installation instructions for the OS/2 builds of SeaMonkey.
 
-For more info on SeaMonkey, see http://www.mozilla.org/projects/seamonkey/
-For more info on the OS/2 port see http://www.mozilla.org/ports/os2. To
-submit bugs or other feedback, see the Navigator QA menu and check out
-Bugzilla at https://bugzilla.mozilla.org/ for links to known bugs,
-bug-writing guidelines, and more. You can also get help with Bugzilla by
-pointing your IRC client to #mozillazine at irc.mozilla.org, OS/2 specific
-problems are discussed in #warpzilla and in the newsgroup
-mozilla.dev.ports.os2 on news.mozilla.org.
+For more info on SeaMonkey, see http://www.seamonkey-project.org/
+For more info on the OS/2 port see http://www.mozilla.org/ports/os2.
+To submit bugs or other feedback, see
+http://www.seamonkey-project.org/dev/get-involved and check out Bugzilla
+at https://bugzilla.mozilla.org/ for links to known bugs, bug-writing
+guidelines, and more. You can also get help with Bugzilla by pointing your
+IRC client to #mozillazine at irc.mozilla.org, OS/2 specific problems are
+discussed in #warpzilla and in the newsgroup mozilla.dev.ports.os2 on
+news.mozilla.org.
 
 
 ==========================================================================
@@ -40,16 +41,11 @@ for testing, may be buggy. If you are looking for a more polished version
 of SeaMonkey, the SeaMonkey project releases builds of SeaMonkey regularly
 that you can download from
 
-  http://www.mozilla.org/projects/seamonkey/
- 
+  http://www.seamonkey-project.org/releases/
+
 Be sure to read the SeaMonkey release notes for information on known
 problems and installation issues with SeaMonkey.  The release notes can be
 found at the preceding URL along with the releases themselves.
-
-Note: Please use Talkback builds whenever possible. These builds allow
-transmission of crash data back to SeaMonkey and Mozilla developers,
-improved crash analysis, and posting of crash information to our
-crash-data newsgroup.
 
 OS/2 releases are not created by SeaMonkey project or mozilla.org
 themselves and may appear on the page http://www.mozilla.org/ports/os2
@@ -63,17 +59,6 @@ installation issues with SeaMonkey.
                          System Requirements
 
 ==========================================================================
-
-* General
-
-   If you want to view and use the "Modern" theme, your display monitor
-   should be set to display thousands of colors. For users who cannot set
-   their displays to use more than 256 colors, the SeaMonkey project
-   recommends using the "Classic" theme for SeaMonkey.
-
-   To select the Modern theme after you have installed SeaMonkey, from the
-   browser, open the View menu, then open the Apply Theme submenu and
-   choose Modern.
 
 * OS/2
    - This release requires the C runtime DLLs (libc-0.6.1) from
@@ -129,7 +114,7 @@ released builds may cause problems.
 Note: These instructions do not tell you how to build SeaMonkey.
 For info on building SeaMonkey from the mozilla.org source code, see
 
-  http://www.mozilla.org/build/
+  http://developer.mozilla.org/en/docs/Build_Documentation
 
 
 OS/2 Installation Instructions
@@ -140,7 +125,7 @@ OS/2 Installation Instructions
 
    1. Click the "Installer" link on the site you're downloading SeaMonkey
       from to download the installer file to your machine. This file is
-      typically called seamonkey-x.xx.ka-GE.os2.installer.exe where the
+      typically called seamonkey-x.xx.en-US.os2.installer.exe where the
       "x.xx" is replaced by the SeaMonkey version.
 
    2. Navigate to where you downloaded the file, make sure that the C
@@ -160,7 +145,7 @@ OS/2 Installation Instructions
 
    1. Click the "Zip" link on the site you're downloading SeaMonkey from
       to download the ZIP package to your machine. This file is typically
-      called seamonkey-x.x.x.ka-GE.os2.zip where the "x.x.x" is replaced
+      called seamonkey-x.x.x.en-US.os2.zip where the "x.x.x" is replaced
       by the SeaMonkey version.
 
    2. Navigate to where you downloaded the file and unpack it using your
@@ -168,7 +153,7 @@ OS/2 Installation Instructions
 
    3. Keep in mind that the unzip process creates a directory "seamonkey"
       below the location you point it to, e.g.
-        unzip seamonkey-1.7.5.ka-GE.os2.zip -d c:\seamonkey-1.7.5
+        unzip seamonkey-1.7.5.en-US.os2.zip -d c:\seamonkey-1.7.5
       will unpack SeaMonkey into c:\seamonkey-1.7.5\seamonkey.
 
    4. Make sure that you are _not_ unpacking over an old installation.
@@ -246,10 +231,6 @@ behavior of SeaMonkey on OS/2:
   if other applications using the high resolution timer (multimedia apps)
   act strangely.
 
-- set MOZILLA_USE_EXTENDED_FT2LIB=T
-  If you have the Innotek Font Engine installed this variable enables
-  special functions in SeaMonkey to handle unicode characters.
-
 - set MOZ_NO_REMOTE=1
   Use this to run two instances of SeaMonkey simultaneously (e.g. debug
   and optimized version).
@@ -264,11 +245,18 @@ Known Problems of the OS/2 version
 Cross-platform problems are usually listed in the release notes of each
 milestone release.
 
-- Bug 167884, "100% CPU load when viewing site [tiling transparent PNG]":
-  https://bugzilla.mozilla.org/show_bug.cgi?id=167884
-On OS/2, SeaMonkey is known to have very slow performance on websites that
-use small, repeated images with transparency for their layout.
+- SeaMonkey will beep when copying more than 64 kB of text to the clipboard.
+  This is to alert users that many applications (most notably the system
+  editor, EPM, and applications running in VIO windows) cannot paste more
+  than this.
+
+- SeaMonkey cannot make use of OS/2 fonts like WarpSans and others which
+  are not available in Type1 or TrueType format. It is therefore
+  recommended to install the "Workplace Sans" font from
+     http://users.socis.ca/~ataylo00/creative/fonts/
+  or
+     http://hobbes.nmsu.edu/cgi-bin/h-search?key=wpsu_ttf
+  which SeaMonkey will use as a replacement of WarpSans.
 
 Other known problems can be found by following the link "Current Open
-Warpzilla Bugs" on the OS/2 Mozilla page
-<http://www.mozilla.org/ports/os2/>.
+Warpzilla Bugs" on the OS/2 Mozilla page <http://www.mozilla.org/ports/os2/>.

@@ -104,5 +104,5 @@
 <!ENTITY notification.sound.accesskey "P">
 <!ENTITY notification.alert.label     "გამაფრთხილებელი ნიშნის ჩვენება">
 <!ENTITY notification.alert.accesskey "r">
-<!ENTITY notification.window.label    "გვერდის ახალ ფანჯარაში გახსნა">
+<!ENTITY notification.window.label    "გვერდის ახალ სარკმელში გახსნა">
 <!ENTITY notification.window.accesskey "O">

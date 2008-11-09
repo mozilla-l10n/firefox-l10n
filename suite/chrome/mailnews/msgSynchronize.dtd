@@ -12,7 +12,7 @@
 <!ENTITY sendMessage.accesskey "S">
 <!ENTITY workOffline.label "გადმოწერის და/ან სინქრონიზების დასრულებისას ავტონომიურ რეჟიმში გადასვლა">
 <!ENTITY workOffline.accesskey "W">
-<!ENTITY selectButton.label "არჩევა...">
+<!ENTITY selectButton.label "შერჩევა…">
 <!ENTITY selectButton.accesskey "E">
 <!ENTITY MsgSelectDesc.label "წერილების დასტები და ჯგუფების არჩევა ავტონომიური რეჟიმისათვის.">
 <!ENTITY MsgSelectInd.label "გადმოწერა">

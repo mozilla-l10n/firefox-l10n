@@ -4,20 +4,20 @@
 <!ENTITY sendingPrefix.label "წერილის გაგზავნისას, ავტომატურად: ">
 <!ENTITY fccMailFolder.label "ასლი გადაწერე:">
 <!ENTITY fccMailFolder.accesskey "P">
-<!ENTITY fccReplyFollowsParent.label "პასუხების მოთავსება თავად პირველწყარო წერილების დასტაში">
-<!ENTITY fccReplyFollowsParent.accesskey "l">
-<!ENTITY chooseFolderButton.label "დასტის არჩევა...">
+<!ENTITY fccReplyFollowsParent.label "პასუხების მოთავსება პასუხგაცემული წერილის დასტაში">
+<!ENTITY fccReplyFollowsParent.accesskey "c">
+<!ENTITY chooseFolderButton.label "დასტის შერჩევა…">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "მეორე ასლები ამ მისამართებზე:">
 <!ENTITY bccAddress.accesskey "B">
 <!ENTITY specialFolderTitle.label "სპეციალური დასტები">
-<!ENTITY draftMailFolder.label "ესკიზების შენახვა დასტაში:">
-<!ENTITY templateMailFolder.label "წერილების შაბლონების დასტა:">
+<!ENTITY draftMailFolder.label "წერილების ესკიზების დასტა:">
+<!ENTITY templateMailFolder.label "წერილების თარგების დასტა:">
 <!ENTITY saveMessageDlg.label "თანხმობის დიალოგის ჩვენება წერილების შენახვისას">
-<!ENTITY saveMessageDlg.accesskey "S">
+<!ENTITY saveMessageDlg.accesskey "w">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "&quot;გასული&quot; დასტა:">
-<!ENTITY sentFolderOn.accesskey "e">
+<!ENTITY sentFolderOn.accesskey "S">
 <!ENTITY sentInOtherFolder.label "სხვა დასტა:">
 <!ENTITY sentInOtherFolder.accesskey "O">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
@@ -29,7 +29,7 @@
 <!ENTITY templatesFolderOn.label "&quot;შაბლონები&quot; დასტა:">
 <!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "სხვა დასტა:">
-<!ENTITY templateInOtherFolder.accesskey "r">
+<!ENTITY templateInOtherFolder.accesskey "e">
 <!ENTITY specialFoldersTitle.label "ესკიზები და შაბლონები">
 <!ENTITY keepDrafts.label "წერილების ესკიზების დასტა:">
 <!ENTITY keepTempltes.label "წერილების შაბლონების დასტა:">
