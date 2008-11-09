@@ -68,7 +68,6 @@
 <!ENTITY  formAction            "Action de formulaire">
 <!ENTITY  formMethod            "Méthode">
 <!ENTITY  formName              "Nom">
-<!ENTITY  formNo                "Non.">
 <!ENTITY  formEncoding          "Encodage :">
 <!ENTITY  formTarget            "Cible :">
 <!ENTITY  formFields            "Champs:">
