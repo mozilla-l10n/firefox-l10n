@@ -1,40 +1,40 @@
-<!ENTITY sanitizePrefs.title           "Clear Private Data">
-<!ENTITY sanitizeDialog2.title         "Clear Recent History">
+<!ENTITY sanitizePrefs.title           "Počisti zasebne podatke">
+<!ENTITY sanitizeDialog2.title         "Počisti nedavno zgodovino">
 
 <!ENTITY sanitizeItems.label "Počisti naslednje vsebine zdaj:">
-<!ENTITY clearDataSettings2.label     "When I quit &brandShortName;, it should automatically clear all:">
+<!ENTITY clearDataSettings2.label     "Ko zaprem &brandShortName;, naj samodejno počisti:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY clearDuration.label          "Remove ">
-<!ENTITY clearDuration.lastHour       "the last hour">
-<!ENTITY clearDuration.last2Hours     "the last 2 hours">
-<!ENTITY clearDuration.last4Hours     "the last 4 hours">
-<!ENTITY clearDuration.today          "my history for today">
-<!ENTITY clearDuration.everything     "my entire history">
+<!ENTITY clearDuration.label          "Odstrani ">
+<!ENTITY clearDuration.lastHour       "zadnjo uro">
+<!ENTITY clearDuration.last2Hours     "zadnji 2 uri">
+<!ENTITY clearDuration.last4Hours     "zadnje 4 ure">
+<!ENTITY clearDuration.today          "mojo današnjo zgodovino">
+<!ENTITY clearDuration.everything     "mojo celotno zgodovino">
 <!-- Localization note (clearDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearDuration.suffix         "">
 
-<!ENTITY historySection.label         "History">
-<!ENTITY dataSection.label            "Data">
+<!ENTITY historySection.label         "Zgodovino">
+<!ENTITY dataSection.label            "Podatke">
 
-<!ENTITY itemVisitedPages.label       "Visited Pages">
-<!ENTITY itemVisitedPages.accesskey   "V">
-<!ENTITY itemFormSearchEntries.label  "Form &amp; Search Entries">
-<!ENTITY itemFormSearchEntries.accesskey "F">
-<!ENTITY itemPasswords.label "shranjena gesla">
+<!ENTITY itemVisitedPages.label       "Obiskane strani">
+<!ENTITY itemVisitedPages.accesskey   "S">
+<!ENTITY itemFormSearchEntries.label  "Obrazce in iskanja">
+<!ENTITY itemFormSearchEntries.accesskey "O">
+<!ENTITY itemPasswords.label "Shranjena gesla">
 <!ENTITY itemPasswords.accesskey "G">
-<!ENTITY itemCookies.label "piškote">
+<!ENTITY itemCookies.label "Piškote">
 <!ENTITY itemCookies.accesskey "P">
-<!ENTITY itemWebCache.label           "Web Cache">
-<!ENTITY itemWebCache.accesskey       "W">
-<!ENTITY itemOfflineApps.label "podatke pri delu brez povezave">
+<!ENTITY itemWebCache.label           "Predpomnilnik">
+<!ENTITY itemWebCache.accesskey       "R">
+<!ENTITY itemOfflineApps.label "Podatke pri delu brez povezave">
 <!ENTITY itemOfflineApps.accesskey "B">
-<!ENTITY itemDownloadList.label       "Download List">
-<!ENTITY itemDownloadList.accesskey   "D">
-<!ENTITY itemActiveLogins.label       "Active Logins">
-<!ENTITY itemActiveLogins.accesskey   "L">
+<!ENTITY itemDownloadList.label       "Seznam prenosov">
+<!ENTITY itemDownloadList.accesskey   "Z">
+<!ENTITY itemActiveLogins.label       "Aktivne prijave">
+<!ENTITY itemActiveLogins.accesskey   "A">
 
 <!ENTITY window.width                 "30em">
 <!ENTITY column.width                 "14em">
