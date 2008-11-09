@@ -404,4 +404,7 @@
 <!ENTITY viewVideoCmd.label           "ವೀಡಿಯೋ ಅನ್ನು ನೋಡಿ">
 <!ENTITY viewVideoCmd.accesskey       "I">
 
+<!ENTITY clearRecentHistoryCmd.label            "ಇತಿಹಾಸವನ್ನು ತೆರವುಗೊಳಿಸು">
+<!ENTITY clearRecentHistoryCmd.accesskey        "H">
+
 <!-- new bookmarks and history -->
