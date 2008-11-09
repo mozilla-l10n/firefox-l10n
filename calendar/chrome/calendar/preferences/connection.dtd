@@ -80,3 +80,5 @@
 <!ENTITY  noproxyExplain.label          "לדוגמה: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY shareproxy.accesskey "פ">
 <!ENTITY shareproxy.label "השתמש בשרת מתווך זה עבור כל הפרוטוקולים">
+
+<!ENTITY  gopher.accesskey              "G">
