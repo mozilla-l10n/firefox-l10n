@@ -12,7 +12,7 @@ by NSS/PSM via netError.xhtml. -->
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara1 "I keni kërkuar &brandShortName;-it të lidhet në mënyrë të sigurt me <b>#1</b>, por nuk themi dot se lidhja juaj është e sigurt.">
+<!ENTITY certerror.introPara1 "I keni kërkuar &brandShortName;-it të lidhet në mënyrë të sigurt me <b>#1</b>, por nuk thuhet dot se lidhja juaj është e sigurt.">
 <!ENTITY certerror.introPara2 "Normalisht, kur provoni të lidheni në mënyrë të sigurt, &quot;site&quot;-et do të paraqesin një identifikues të besuar për të provuar që jeni duke shkuar te vendi i duhur. Sidoqoftë, identiteti i këtij &quot;site&quot;-i s&apos;mund të verifikohet.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Ç'duhet të Bëj?">

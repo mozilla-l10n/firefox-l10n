@@ -33,8 +33,8 @@ për shtesat tuaja për t&quot;i bërë ato të përputhshme me këtë version."
 <!ENTITY  finished.checkDisabled.desc     "&brandShortName;-i mund të kontrollojë rregullisht dhe njoftojë kur gjen përditësime për shtesat.">
 <!ENTITY  finished.checkEnabled.desc      "&brandShortName;-i do të kontrollojë periodikisht dhe njoftojë kur të gjejë përditësime për shtesat.">
 
-<!ENTITY  adminDisabled.wizard.title      "I pazoti të Kontrolloj për Përditësime">
-<!ENTITY  adminDisabled.warning.label     "Është e pamundur të kontrolloj për përditësime për shtesat e papërputhshme sepse është i çaktivizuar instalimi i programeve për &brandShortName;-in. Ju lutem lidhuni me Përgjegjësin e Sistemit tuaj për ndihmë.">
+<!ENTITY  adminDisabled.wizard.title      "I pazoti të Kontrollojë për Përditësime">
+<!ENTITY  adminDisabled.warning.label     "Është e pamundur të kontrollojë për përditësime për shtesat e papërputhshme sepse është i çaktivizuar instalimi i programeve për &brandShortName;-in. Ju lutem lidhuni me Përgjegjësin e Sistemit tuaj për ndihmë.">
 
 <!ENTITY  versioninfo.wizard.title        "Kontroll Përputhshmërie të Shtesave">
 <!ENTITY  versioninfo.top.label           "Po kontrollohet përputhshmëria e shtesave për përputhshmëri me këtë version të &brandShortName;-it.">

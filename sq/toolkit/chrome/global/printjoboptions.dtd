@@ -11,7 +11,7 @@
 <!ENTITY topInput.label "Sipër:">
 <!ENTITY colorspaceInput.label "&quot;Colorspace&quot;:">
 <!ENTITY fontsGroup.label "Gërma:">
-<!ENTITY downloadFonts.label "Të shkarkoj gërma te shtypësi?">
+<!ENTITY downloadFonts.label "Të shkarkojë gërma te shtypësi?">
 <!ENTITY printJobOptions.title "Veti Shtypësi">
 <!ENTITY resolutionInput.label "Qartësi/Cilësi:">
 <!ENTITY jobTitleInput.label "Titull Akti:">

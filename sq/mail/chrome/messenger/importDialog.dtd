@@ -58,8 +58,8 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 
 <!ENTITY back.label               "&lt; Prapa">
 <!ENTITY forward.label            "Pasuesi &gt;">
-<!ENTITY finish.label             "Përfundo">
-<!ENTITY cancel.label             "Anulo">
+<!ENTITY finish.label             "Përfundoje">
+<!ENTITY cancel.label             "Anuloje">
 
 <!ENTITY select.label             "Përzgjidhni llojin e materialit për t&apos;u importuar:">
 

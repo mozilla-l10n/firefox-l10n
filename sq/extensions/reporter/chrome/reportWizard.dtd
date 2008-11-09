@@ -18,7 +18,7 @@
 
 <!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
 <!ENTITY reportForm.problem_type.item1.title        "Shfletues i pambuluar">
-<!ENTITY reportForm.problem_type.item2.title        "S'futem dot">
+<!ENTITY reportForm.problem_type.item2.title        "S'futet dot">
 <!ENTITY reportForm.problem_type.item3.title        "Nuk tregohet shtojca">
 <!ENTITY reportForm.problem_type.item4.title        "Mungon tjetër lëndë">
 <!ENTITY reportForm.problem_type.item5.title        "Sjellje e gabuar">

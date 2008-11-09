@@ -6,7 +6,7 @@ Welcome_Title=Rregullimi i $ProductName$-it
 Welcome_MessageWelcome=Mirësevini te %s!
 Welcome_Message0=Jeni gati për të instaluar %s 2 Alpha 1.
 Welcome_Message1=Këshillohet fuqimisht të dilni prej tërë programeve Windows para se të xhironi këtë program Rregullimi.
-Welcome_Message2=Klikoni Anulo për të lënë Rregullimin dhe mbyllur mandej çdo program që po xhironi.  Klikoni Pasues për të vazhduar me programin Rregullim.
+Welcome_Message2=Klikoni Anuloje për të lënë Rregullimin dhe mbyllur mandej çdo program që po xhironi.  Klikoni Pasues për të vazhduar me programin Rregullim.
 Welcome_Message3=Klikoni Pasues për të vazhduar me instalimin e %s-it 2 Alpha 1.
 
 License_Title=Marrëveshje Licence Software-i
