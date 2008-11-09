@@ -63,6 +63,10 @@
 <!ENTITY cmd.edit_redo.label "重做">
 <!ENTITY cmd.edit_redo.accesskey "R">
 <!ENTITY cmd.edit_redo.key "y">
+<!ENTITY cmd.delete.label "删除此页面">
+<!ENTITY cmd.delete.accesskey "D">
+<!ENTITY cmd.deleteDomainData.label "清除此站点信息">
+<!ENTITY cmd.deleteDomainData.accesskey "F">
 <!ENTITY cmd.open.label "打开">
 <!ENTITY cmd.open.accesskey "O">
 <!ENTITY cmd.open_window.label "在新窗口中打开">

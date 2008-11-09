@@ -2,19 +2,15 @@
 <!ENTITY window.width "36em">
 <!ENTITY window.macWidth "39em">
 <!ENTITY checking.title "正在检查更新">
-<!ENTITY checking.label "&brandShortName; 正在检查更新…">
-<!ENTITY cancel.label "取消">
-<!ENTITY cancel.accesskey "C">
+<!ENTITY updateCheck.label "查找 &brandShortName; 的新版本…">
 <!ENTITY noupdatesfound.title "没有更新">
 <!ENTITY noupdatesautoenabled.intro "无可用更新。 &brandShortName; 将定期检查更新。">
 <!ENTITY noupdatesautodisabled.intro "无可用更新。 请稍后重试或者启用
                                            &brandShortName; 自动更新检查功能。">
-<!ENTITY incompatibleChecking.label "检查该更新是否会导致现有的扩展或主题出现问题…">
+<!ENTITY incompatibleCheck.title "正在检查附加组件兼容性">
+<!ENTITY incompatibleCheck.label "正在查找附加组件的新版本…">
 <!ENTITY clickHere.label "查看此更新的更多信息">
-<!ENTITY incompatible.warning "此更新可能导致您的某些扩展或者主题失效，直到它们也被更新。">
-<!ENTITY listIncompatible.label "显示列表">
-<!ENTITY listIncompatible.accesskey "L">
-<!ENTITY upgrade.evangelism "强烈建议您尽快升级 &brandShortName; 。">
+<!ENTITY evangelism.desc "我们强烈建议您为 &brandShortName; 尽快应用此更新。">
 <!ENTITY license.instructions "如果您同意此许可协议，请单击下面的 我同意 以继续安装此更新。">
 <!ENTITY license.titleText "软件许可协议">
 <!ENTITY license.introText "使用此软件的限制以及条件。">
@@ -23,26 +19,24 @@
 <!ENTITY license.accept.accesskey "c">
 <!ENTITY license.decline "我拒绝接受许可协议条款">
 <!ENTITY license.decline.accesskey "T">
+<!ENTITY incompatibleList.title "找到不兼容的附加组件">
 <!ENTITY downloading.title "正在下载更新">
 <!ENTITY downloading.intro "正在下载更新…">
 <!ENTITY connecting.label "正在连接至更新服务器…">
 <!ENTITY verificationFailedText.label "&brandShortName; 无法验证下载的增量更新的完整性，因此，它将尝试下载完全的更新包。">
+<!ENTITY viewDetails.tooltip "查看本次更新的详细信息">
 <!ENTITY details.link "详细信息">
-<!ENTITY pause.label "暂停">
-<!ENTITY pause.accesskey "e">
-<!ENTITY close.label "关闭">
-<!ENTITY close.accesskey "C">
 <!ENTITY error.label "检查、下载或安装此更新时发生问题。&brandShortName; 无法被更新，原因为：">
 <!ENTITY errorManual.label "您可以通过此链接手动更新和下载 &brandShortName;  的最新版本：">
 <!ENTITY errorpatching.title "更新失败">
 <!ENTITY errorpatching.intro "无法应用此局部更新。&brandShortName; 将下载完整的更新并重试。">
-<!ENTITY finished.title "更新已下载">
-<!ENTITY finished.text "此更新已被成功下载并经过验证，并将在 &brandShortName; 下次启动时安装。">
-<!ENTITY finishedBackground.title "更新已可安装">
-<!ENTITY finishedBackground.text "&brandShortName; 已经下载并验证了一个重要的更新。请单击下面的链接以获取更多信息。">
+<!ENTITY finishedPage.title "更新已可安装">
+<!ENTITY finishedPage.text "此更新将在下次启动 &brandShortName; 时自动安装。您
+                                           可以立即重启 &brandShortName; ，或者继续工作稍后再重新启动。">
+<!ENTITY finishedBackgroundPage.text "已下载一个 &brandShortName; 的安全、稳定性更新，现在就可以安装。">
 <!ENTITY finishedBackground.name "更新：">
-<!ENTITY finishedBackground.more1 "单击 现在重新启动 &brandShortName; 即可立即安装更新。">
-<!ENTITY finishedBackground.textNotNow "请单击 暂不 即可关闭此对话框并继续工作。 &brandShortName;                                            将在下次启动时安装更新。">
+<!ENTITY finishedBackground.more "此更新将在下次启动 &brandShortName; 时自动安装。您
+                                           可以立即重启 &brandShortName; ，或者继续工作稍后再重新启动。">
 <!ENTITY installed.title "更新已安装">
 <!ENTITY installed.intro "更新已被成功安装">
 <!ENTITY whatsnew.label "查看新特性详细信息…">
