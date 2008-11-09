@@ -21,3 +21,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label "Відкривати цю закладку у бічній панелі">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey "б">
 <!ENTITY editBookmarkOverlay.choose.label "Виберіть…">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "т">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Нова тека">
