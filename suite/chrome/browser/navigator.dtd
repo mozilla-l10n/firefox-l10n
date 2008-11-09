@@ -33,7 +33,7 @@
 <!-- extracted from content/navigator.xul -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items --> 
-<!-- LOCALIZATION NOTE : FILE Do not translate accesskey and commandkey --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE --> 
 <!ENTITY mainWindow.title "&brandShortName;"> 
@@ -42,10 +42,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
-<!ENTITY nothingAvailable.label "(Nėra)">
-
-<!ENTITY browserCmd.label	"Naujas naršyklės langas">
-<!ENTITY browserCmd.accesskey	"š">
 <!ENTITY tabCmd.label "Naršyklės kortelė">
 <!ENTITY tabCmd.accesskey "o">
 <!ENTITY tabCmd.commandkey "T">
@@ -61,10 +57,6 @@
 <!ENTITY editPageCmd.label "Taisyti tinklalapį">
 <!ENTITY editPageCmd.accesskey "T">
 <!ENTITY editPageCmd.commandkey "e">
-<!ENTITY editFrameCmd.label "Taisyti kadrą">
-<!ENTITY editFrameCmd.accesskey "r">
-<!ENTITY editFrameSetCmd.label "Taisyti kadrus">
-<!ENTITY editFrameSetCmd.accesskey "s">
 
 <!ENTITY uploadFile.label "Išsiųsti failą…">
 <!ENTITY uploadFile.accesskey "I">
@@ -109,7 +101,6 @@
 <!ENTITY fullScreenCmd.accesskey "V">
 <!ENTITY translateMenu.label "Išversti tinklalapį">
 <!ENTITY translateMenu.accesskey "v">
-<!ENTITY translate.commandKey "t">
 
 <!ENTITY closeOtherTabs.label "Užverti kitas korteles">
 <!ENTITY closeOtherTabs.accesskey "k">
@@ -119,38 +110,10 @@
 <!ENTITY minimizeButton.tooltip       "Suskleisti">
 <!ENTITY restoreButton.tooltip        "Normalioji veiksena">
 
-<!-- I'd like all this to move to an overlay or something -->
-<!ENTITY bidiMenu.label "Dvikrypčio teksto nuostatos">
-<!ENTITY directionBidiMenu.label "Numatytoji kryptis">
-<!ENTITY directionRTLBidiCmd.label "Iš dešinės į kairę">
-<!ENTITY directionLTRBidiCmd.label "Iš kairės į dešinę">
-<!ENTITY texttypeBidiMenu.label "Teksto įvedimas">
-<!ENTITY charsettexttypeBidiCmd.label "Koduotė">
-<!ENTITY logicaltexttypeBidiCmd.label "Loginis">
-<!ENTITY visualtexttypeBidiCmd.label "Vizualus">
-<!ENTITY numeralBidiMenu.label "Skaitmenų vaizdavimas">
-<!ENTITY regularcontextnumeralBidiCmd.label "Kontekstinis">
-<!ENTITY hindicontextnumeralBidiCmd.label "Hindi numeracija RTL dokumente">
-<!ENTITY arabicnumeralBidiCmd.label "Arabų">
-<!ENTITY hindinumeralBidiCmd.label "Hindi">
-<!ENTITY controlstextmodeBidiMenu.label "Tekstas valdikliuose">
-<!ENTITY logicalcontrolstextmodeBidiCmd.label "Loginis">
-<!ENTITY visiualcontrolstextmodeBidiCmd.label "Vizualus">
-<!ENTITY containercontrolstextmodeBidiCmd.label "Kaip dokumente">
-<!ENTITY charactersetBidiMenu.label "Koduotė">
-<!ENTITY doccharactersetBidiCmd.label "Naudoti dokumente nurodytą koduotę">
-<!ENTITY defaultcharactersetBidiCmd.label "Naudoti numatytąją koduotę nepaisant nurodytos dokumente">
-
-<!ENTITY webContentMenu.label "Kalbos ir lokalės">
-<!ENTITY webContentMenu.accesskey "K">
-<!ENTITY downloadMore.label "Atsiųsti…">
-<!ENTITY downloadMore.accesskey "s">
 <!ENTITY applyTheme.label	"Grafiniai apvalkalai"> 
 <!ENTITY applyTheme.accesskey	"a"> 
 <!ENTITY getNewThemesCmd.label "Atsiųsti kitus apvalkalus…">
 <!ENTITY getNewThemesCmd.accesskey "A">
-<!ENTITY searchMenu.label "Paieška">
-<!ENTITY searchMenu.accesskey "P">
 <!ENTITY findOnCmd.label "Ieškoti šiame tinklalapyje…">
 <!ENTITY findOnCmd.accesskey "I">
 <!ENTITY findOnCmd.commandkey "f">
@@ -191,13 +154,6 @@
 <!ENTITY feedsMenu.accesskey "P">
 <!ENTITY emptyItem.label "(Tuščias)">
 
-<!ENTITY helpMenuCmd.label "Žinynas">
-<!ENTITY helpMenuCmd.accesskey "Ž">
-<!ENTITY helpContentsCmd.label "Žinyno turinys">
-<!ENTITY softwareUpdatesCmd.label "Programinės įrangos atnaujinimai">
-<!ENTITY technicalSupportCmd.label "Techninė priežiūra">
-<!ENTITY releaseNotesCmd.label "Laidos apžvalga">
-
 <!ENTITY menuBar.tooltip                  "Meniu juosta">
 <!ENTITY personalToolbar.tooltip          "Asmeninė mygtukų juosta">
 <!ENTITY navigationToolbar.tooltip        "Naršymo mygtykų juosta">
@@ -225,7 +181,6 @@
 <!ENTITY locationBar.title            "Adresas">
 
 <!ENTITY proxyIcon.tooltip            "Jei norite saitą į tinklalapį įrašyti į asmeninę mygtukų juostą, nuvilkite šį ženkliuką">
-<!ENTITY internetKeyword.tooltip      "Grįžti į prieš tai žiūrėtą tinklalapį arba parinkti reikšminį žodį">
 
 <!-- Toolbar items --> 
 <!ENTITY  bookmarksButton.label       "Adresynas">
