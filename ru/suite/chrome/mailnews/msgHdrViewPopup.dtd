@@ -9,6 +9,8 @@
 <!ENTITY CreateFilterFrom.accesskey "ф">
 <!ENTITY BlockAddress.label "Блокировать адрес">
 <!ENTITY BlockAddress.accesskey "р">
+<!ENTITY copyLinkCmd.label "Копировать ссылку">
+<!ENTITY copyLinkCmd.accesskey "ы">
 <!ENTITY CopyMessageId.label "Копировать идентификатор">
 <!ENTITY OpenMessageForMsgId.label "Открыть сообщение по идентификатору">
 <!ENTITY OpenBrowserWithMsgId.label "Открыть сообщение с идентификатором в браузере">

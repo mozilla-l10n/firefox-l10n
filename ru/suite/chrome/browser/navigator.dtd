@@ -1,9 +1,6 @@
 <!ENTITY mainWindow.title "&brandShortName;">
 <!ENTITY mainWindow.titlemodifier "&brandShortName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!ENTITY nothingAvailable.label "(Недоступно)">
-<!ENTITY browserCmd.label "Окно браузера">
-<!ENTITY browserCmd.accesskey "Н">
 <!ENTITY tabCmd.label "Новая вкладка">
 <!ENTITY tabCmd.accesskey "в">
 <!ENTITY tabCmd.commandkey "t">
@@ -19,10 +16,6 @@
 <!ENTITY editPageCmd.label "Редактировать страницу">
 <!ENTITY editPageCmd.accesskey "Р">
 <!ENTITY editPageCmd.commandkey "e">
-<!ENTITY editFrameCmd.label "Редактировать фрейм">
-<!ENTITY editFrameCmd.accesskey "м">
-<!ENTITY editFrameSetCmd.label "Редактировать набор фреймов">
-<!ENTITY editFrameSetCmd.accesskey "й">
 <!ENTITY uploadFile.label "Загрузить файл на сервер…">
 <!ENTITY uploadFile.accesskey "ф">
 <!ENTITY printSetupCmd.label "Параметры страницы…">
@@ -62,43 +55,16 @@
 <!ENTITY fullScreenCmd.accesskey "э">
 <!ENTITY translateMenu.label "Перевести страницу">
 <!ENTITY translateMenu.accesskey "р">
-<!ENTITY translate.commandKey "t">
 <!ENTITY closeOtherTabs.label "Закрыть другие вкладки">
 <!ENTITY closeOtherTabs.accesskey "к">
 <!ENTITY closeWindow.label "Закрыть окно">
 <!ENTITY closeWindow.accesskey "о">
 <!ENTITY minimizeButton.tooltip "Свернуть">
 <!ENTITY restoreButton.tooltip "Восстановить">
-<!ENTITY bidiMenu.label "Двунаправленный текст">
-<!ENTITY directionBidiMenu.label "Направление по умолчанию">
-<!ENTITY directionRTLBidiCmd.label "Справа налево">
-<!ENTITY directionLTRBidiCmd.label "Слева направо">
-<!ENTITY texttypeBidiMenu.label "Тип текста">
-<!ENTITY charsettexttypeBidiCmd.label "Основанный на кодировке">
-<!ENTITY logicaltexttypeBidiCmd.label "Логический">
-<!ENTITY visualtexttypeBidiCmd.label "Визуальный">
-<!ENTITY numeralBidiMenu.label "Числительные">
-<!ENTITY regularcontextnumeralBidiCmd.label "Контекстные">
-<!ENTITY hindicontextnumeralBidiCmd.label "Числительные хинди в документах с направлением справа налево">
-<!ENTITY arabicnumeralBidiCmd.label "Арабские">
-<!ENTITY hindinumeralBidiCmd.label "Хинди">
-<!ENTITY controlstextmodeBidiMenu.label "Текстовый режим средств управления">
-<!ENTITY logicalcontrolstextmodeBidiCmd.label "Логический">
-<!ENTITY visiualcontrolstextmodeBidiCmd.label "Визуальный">
-<!ENTITY containercontrolstextmodeBidiCmd.label "Как в содержащем их документе">
-<!ENTITY charactersetBidiMenu.label "Кодировка">
-<!ENTITY doccharactersetBidiCmd.label "Кодировка, указанная в документе">
-<!ENTITY defaultcharactersetBidiCmd.label "Кодировка, определённая пользователем, перекрывающая параметры документа">
-<!ENTITY webContentMenu.label "Языки и веб-контент">
-<!ENTITY webContentMenu.accesskey "Я">
-<!ENTITY downloadMore.label "Загрузить ещё">
-<!ENTITY downloadMore.accesskey "З">
 <!ENTITY applyTheme.label "Применить тему">
 <!ENTITY applyTheme.accesskey "т">
 <!ENTITY getNewThemesCmd.label "Загрузить новые темы">
 <!ENTITY getNewThemesCmd.accesskey "т">
-<!ENTITY searchMenu.label "Поиск">
-<!ENTITY searchMenu.accesskey "П">
 <!ENTITY findOnCmd.label "Найти на этой странице…">
 <!ENTITY findOnCmd.accesskey "Н">
 <!ENTITY findOnCmd.commandkey "f">
@@ -134,12 +100,6 @@
 <!ENTITY feedsMenu.label "Подписаться на ленты новостей">
 <!ENTITY feedsMenu.accesskey "д">
 <!ENTITY emptyItem.label "(Пусто)">
-<!ENTITY helpMenuCmd.label "Справка">
-<!ENTITY helpMenuCmd.accesskey "С">
-<!ENTITY helpContentsCmd.label "Содержание">
-<!ENTITY softwareUpdatesCmd.label "Обновления ПО">
-<!ENTITY technicalSupportCmd.label "Техническая поддержка">
-<!ENTITY releaseNotesCmd.label "Примечания к выпуску">
 <!ENTITY menuBar.tooltip "Панель меню">
 <!ENTITY personalToolbar.tooltip "Личная панель">
 <!ENTITY navigationToolbar.tooltip "Панель навигации">
@@ -162,7 +122,6 @@
 <!ENTITY locationBar.accesskey "д">
 <!ENTITY locationBar.title "Расположение">
 <!ENTITY proxyIcon.tooltip "Перетащите этот значок, чтобы создать ссылку на эту страницу">
-<!ENTITY internetKeyword.tooltip "Возвращение к ранее просмотренной странице или выбор краткого имени">
 <!ENTITY bookmarksButton.label "Закладки">
 <!ENTITY bookmarksButton.tooltip "Отображает ваши закладки">
 <!ENTITY homeButton.label "К началу">
