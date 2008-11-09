@@ -8,6 +8,7 @@
 <!ENTITY removeallpermissions.label "Odstrani vse strani">
 <!ENTITY removeallpermissions.accesskey "v">
 <!ENTITY address.label "Naslov strani:">
+<!ENTITY address.accesskey "N">
 <!ENTITY block.label "Prepovej">
 <!ENTITY block.accesskey "P">
 <!ENTITY session.label "Dovoli v tej seji">

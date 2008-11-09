@@ -1,24 +1,40 @@
-<!ENTITY sanitizeDialog.title "Počisti zasebne podatke">
+<!ENTITY sanitizePrefs.title           "Clear Private Data">
+<!ENTITY sanitizeDialog2.title         "Clear Recent History">
 
 <!ENTITY sanitizeItems.label "Počisti naslednje vsebine zdaj:">
-<!ENTITY clearDataSettings.label "Ko programu &brandShortName; naročim brisanje zasebnih podatkov, naj izbriše:">
+<!ENTITY clearDataSettings2.label     "When I quit &brandShortName;, it should automatically clear all:">
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
+<!ENTITY clearDuration.label          "Remove ">
+<!ENTITY clearDuration.lastHour       "the last hour">
+<!ENTITY clearDuration.last2Hours     "the last 2 hours">
+<!ENTITY clearDuration.last4Hours     "the last 4 hours">
+<!ENTITY clearDuration.today          "my history for today">
+<!ENTITY clearDuration.everything     "my entire history">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix         "">
 
-<!ENTITY itemHistory.label "zgodovino obiskanih strani">
-<!ENTITY itemHistory.accesskey "Z">
-<!ENTITY itemFormSearchHistory.label "podatke o obrazcih in iskanjih">
-<!ENTITY itemFormSearchHistory.accesskey "O">
+<!ENTITY historySection.label         "History">
+<!ENTITY dataSection.label            "Data">
+
+<!ENTITY itemVisitedPages.label       "Visited Pages">
+<!ENTITY itemVisitedPages.accesskey   "V">
+<!ENTITY itemFormSearchEntries.label  "Form &amp; Search Entries">
+<!ENTITY itemFormSearchEntries.accesskey "F">
 <!ENTITY itemPasswords.label "shranjena gesla">
 <!ENTITY itemPasswords.accesskey "G">
 <!ENTITY itemCookies.label "piškote">
 <!ENTITY itemCookies.accesskey "P">
-<!ENTITY itemCache.label "predpomnilnik">
-<!ENTITY itemCache.accesskey "d">
+<!ENTITY itemWebCache.label           "Web Cache">
+<!ENTITY itemWebCache.accesskey       "W">
 <!ENTITY itemOfflineApps.label "podatke pri delu brez povezave">
 <!ENTITY itemOfflineApps.accesskey "B">
-<!ENTITY itemDownloads.label "zgodovino prenosov">
-<!ENTITY itemDownloads.accesskey "R">
-<!ENTITY itemSessions.label "overovljene seje">
-<!ENTITY itemSessions.accesskey "S">
-<!ENTITY window.width "30em">
+<!ENTITY itemDownloadList.label       "Download List">
+<!ENTITY itemDownloadList.accesskey   "D">
+<!ENTITY itemActiveLogins.label       "Active Logins">
+<!ENTITY itemActiveLogins.accesskey   "L">
+
+<!ENTITY window.width                 "30em">
+<!ENTITY column.width                 "14em">

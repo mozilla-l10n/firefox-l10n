@@ -15,8 +15,6 @@
 <!ENTITY safeb.palm.notforgery.label2 "To ni spletna prevara...">
 <!ENTITY safeb.palm.report.label "Zakaj je bila ta stran zavrnjena?">
 
-<!ENTITY safeb.urlbaricon.tooltip "Ta stranje lahko nevarna. Kliknite sem za podrobnosti.">
-
 <!ENTITY safeb.blocked.malware.title "Sporočena napadalna stran!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "Spletna stran na naslovu <span id='malware_sitename'/> je bila prijavljena kot napadalna stran in je bila zavrnjena na podlagi vaših varnostnih nastavitev.">

@@ -22,8 +22,6 @@
 
 <!ENTITY filter.label "Išči:">
 <!ENTITY filter.accesskey "I">
-<!ENTITY clear.label "Počisti">
-<!ENTITY clear.accesskey "p">
 
 <!ENTITY button.close.label "Zapri">
 <!ENTITY button.close.accesskey "Z">

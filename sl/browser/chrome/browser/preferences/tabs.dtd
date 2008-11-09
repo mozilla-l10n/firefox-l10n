@@ -1,8 +1,5 @@
-<!ENTITY newPagesIn.label "Nove strani odpri v:">
-<!ENTITY inNewWindow.label "novem oknu">
-<!ENTITY inNewWindow.accesskey "o">
-<!ENTITY inNewTab.label "novem zavihku">
-<!ENTITY inNewTab.accesskey "z">
+<!ENTITY newWindowsAsTabs.label       "Open new windows in a new tab instead">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
 
 <!ENTITY warnCloseMultipleTabs.label "Opozori me ob zapiranju večih zavihkov naenkrat">
 <!ENTITY warnCloseMultipleTabs.accesskey "z">

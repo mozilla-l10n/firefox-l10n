@@ -21,3 +21,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label "Naloži ta zaznamek v stransko vrstico">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey "z">
 <!ENTITY editBookmarkOverlay.choose.label "Izberi ...">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "New Folder">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">

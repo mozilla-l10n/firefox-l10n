@@ -7,8 +7,4 @@
 <!ENTITY focusSearch1.key "f">
 <!ENTITY focusSearch2.key "k">
 
-<!ENTITY filter.label "Išči:">
-<!ENTITY filter.accesskey "I">
-
-<!ENTITY clear.label "Počisti">
-<!ENTITY clear.accesskey "p">
+<!ENTITY filter.emptytext "Išči:">

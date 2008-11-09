@@ -16,3 +16,4 @@
 <!ENTITY bookmarkThisTab.accesskey "Z">
 <!ENTITY undoCloseTab.label "Prekliči zapiranje zavihka">
 <!ENTITY undoCloseTab.accesskey "P">
+<!ENTITY  newTabButton.tooltip        "Open a new tab">
