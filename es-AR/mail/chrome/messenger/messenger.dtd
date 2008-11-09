@@ -242,7 +242,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomToggleCmd.label        "Sólo el texto">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
-<!ENTITY fullZoom.label                 "Sólo el texto">
+<!ENTITY fullZoom.label             	"Zoom">
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY pageSourceCmd.label "Fuente del mensaje">
