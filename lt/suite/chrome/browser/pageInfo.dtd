@@ -70,7 +70,6 @@
 <!ENTITY  formAction            "Programa">
 <!ENTITY  formMethod            "Metodas">
 <!ENTITY  formName              "Vardas">
-<!ENTITY  formNo                "Nr.">
 <!ENTITY  formEncoding          "Koduotė:">
 <!ENTITY  formTarget            "Paskirties objektas:">
 <!ENTITY  formFields            "Laukai">
