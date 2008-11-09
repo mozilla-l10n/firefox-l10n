@@ -7,6 +7,9 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Private Browsing)">
 
 <!ENTITY tabCmd.label "Neuer Tab">
 <!ENTITY tabCmd.accesskey "T">
@@ -160,6 +163,9 @@
 
 <!ENTITY clearRecentHistoryCmd.label            "Neuste Chronik löschen">
 <!ENTITY clearRecentHistoryCmd.accesskey        "N">
+
+<!ENTITY privateBrowsingCmd.label            "Private Browsing">
+<!ENTITY privateBrowsingCmd.accesskey        "B">
 
 <!ENTITY viewMenu.label         "Ansicht"> 
 <!ENTITY viewMenu.accesskey       "A"> 
@@ -418,3 +424,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Weitere Informationen…">
 
 <!ENTITY downloadMonitor2.tooltip "Klicken, um das Download-Fenster zu öffnen">
+
+<!ENTITY ctrlTab.search.emptyText "Tabs durchsuchen">
