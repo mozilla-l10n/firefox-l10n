@@ -10,10 +10,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
-<!ENTITY nothingAvailable.label "(Nada disponível)">
-
-<!ENTITY browserCmd.label	"Nova janela do navegador">
-<!ENTITY browserCmd.accesskey	"N">
 <!ENTITY tabCmd.label "Separador de navegação">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "p">
@@ -29,10 +25,6 @@
 <!ENTITY editPageCmd.label "Editar Página">
 <!ENTITY editPageCmd.accesskey "E">
 <!ENTITY editPageCmd.commandkey "e">
-<!ENTITY editFrameCmd.label "Editar Frame">
-<!ENTITY editFrameCmd.accesskey "m">
-<!ENTITY editFrameSetCmd.label "Editar Frameset">
-<!ENTITY editFrameSetCmd.accesskey "t">
 
 <!ENTITY uploadFile.label "Carregar ficheiro…">
 <!ENTITY uploadFile.accesskey "F">
@@ -52,7 +44,7 @@
 <!ENTITY toolbarsCmd.accesskey "c">
 <!ENTITY navbarCmd.label "Barra de ferramentas de navegação">
 <!ENTITY navbarCmd.accesskey "n">
-<!ENTITY personalbarCmd.label "Barra de ferramentas personalizada">
+<!ENTITY personalbarCmd.label "Barra de ferramentas pessoal">
 <!ENTITY personalbarCmd.accesskey "p">
 <!ENTITY tabbarCmd.label "Barra de Separadores">
 <!ENTITY tabbarCmd.accesskey "S">
@@ -77,7 +69,6 @@
 <!ENTITY fullScreenCmd.accesskey "E">
 <!ENTITY translateMenu.label "Traduzir Página">
 <!ENTITY translateMenu.accesskey "T">
-<!ENTITY translate.commandKey "t">
 
 <!ENTITY closeOtherTabs.label "Fechar outros separadores">
 <!ENTITY closeOtherTabs.accesskey "t">
@@ -87,38 +78,10 @@
 <!ENTITY minimizeButton.tooltip       "Minimizar">
 <!ENTITY restoreButton.tooltip        "Restaurar">
 
-<!-- I'd like all this to move to an overlay or something -->
-<!ENTITY bidiMenu.label "Opções Bidi">
-<!ENTITY directionBidiMenu.label "Direcção pré-definida">
-<!ENTITY directionRTLBidiCmd.label "Direita para a esquerda">
-<!ENTITY directionLTRBidiCmd.label "Esquerda para a direita">
-<!ENTITY texttypeBidiMenu.label "Tipo de texto">
-<!ENTITY charsettexttypeBidiCmd.label "Baseado na aplicação de caracteres">
-<!ENTITY logicaltexttypeBidiCmd.label "Lógica">
-<!ENTITY visualtexttypeBidiCmd.label "Visual">
-<!ENTITY numeralBidiMenu.label "Sombra numérica">
-<!ENTITY regularcontextnumeralBidiCmd.label "Contextual">
-<!ENTITY hindicontextnumeralBidiCmd.label "Numerais Hindi em RTL Document Direction">
-<!ENTITY arabicnumeralBidiCmd.label "Árabe">
-<!ENTITY hindinumeralBidiCmd.label "Hindi">
-<!ENTITY controlstextmodeBidiMenu.label "Modo de texto nos controlos">
-<!ENTITY logicalcontrolstextmodeBidiCmd.label "Lógica">
-<!ENTITY visiualcontrolstextmodeBidiCmd.label "Visual">
-<!ENTITY containercontrolstextmodeBidiCmd.label "Como o documento contido">
-<!ENTITY charactersetBidiMenu.label "Conjunto de caracteres">
-<!ENTITY doccharactersetBidiCmd.label "Usar o conjunto de caracteres aplicado no documento">
-<!ENTITY defaultcharactersetBidiCmd.label "Usar o meu conjunto de caracteres pré-definido, ignorando o conjunto de caracteres especificados no documento">
-
-<!ENTITY webContentMenu.label "Idiomas e conteúdo web">
-<!ENTITY webContentMenu.accesskey "l">
-<!ENTITY downloadMore.label "Transferir mais">
-<!ENTITY downloadMore.accesskey "a">
 <!ENTITY applyTheme.label	"Aplicar tema"> 
 <!ENTITY applyTheme.accesskey	"A"> 
 <!ENTITY getNewThemesCmd.label "Obter novos temas">
 <!ENTITY getNewThemesCmd.accesskey "O">
-<!ENTITY searchMenu.label "Procurar">
-<!ENTITY searchMenu.accesskey "P">
 <!ENTITY findOnCmd.label "Procurar nesta página…">
 <!ENTITY findOnCmd.accesskey "r">
 <!ENTITY findOnCmd.commandkey "f">
@@ -159,13 +122,6 @@
 <!ENTITY feedsMenu.accesskey "S">
 <!ENTITY emptyItem.label "(Vazio)">
 
-<!ENTITY helpMenuCmd.label "Ajuda">
-<!ENTITY helpMenuCmd.accesskey "A">
-<!ENTITY helpContentsCmd.label "Tópicos da ajuda">
-<!ENTITY softwareUpdatesCmd.label "Actualizações de Software">
-<!ENTITY technicalSupportCmd.label "Suporte técnico">
-<!ENTITY releaseNotesCmd.label "Notas de lançamento">
-
 <!ENTITY menuBar.tooltip                  "Barra de Menus">
 <!ENTITY personalToolbar.tooltip          "Barra de ferramentas pessoal">
 <!ENTITY navigationToolbar.tooltip        "Barra de ferramentas de navegação">
@@ -193,7 +149,6 @@
 <!ENTITY locationBar.title            "Localização">
 
 <!ENTITY proxyIcon.tooltip            "Arrastar e largar este ícone para criar uma ligação para esta página">
-<!ENTITY internetKeyword.tooltip      "Regressar à página visualizada anteriormente ou escolha a palavra chave">
 
 <!-- Toolbar items --> 
 <!ENTITY  bookmarksButton.label       "Marcadores">

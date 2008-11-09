@@ -68,7 +68,6 @@
 <!ENTITY  formAction            "Acção do formulário">
 <!ENTITY  formMethod            "Método">
 <!ENTITY  formName              "Nome">
-<!ENTITY  formNo                "No.">
 <!ENTITY  formEncoding          "Codificação:">
 <!ENTITY  formTarget            "Destino:">
 <!ENTITY  formFields            "Campos:">
