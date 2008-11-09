@@ -1,14 +1,9 @@
 <!ENTITY sanitizeItems.label          "ಈ ಕೆಳಗಿನ ಅಂಶಗಳನ್ನು ಈಗಲೆ ಅಳಿಸಿಹಾಕು:">
-<!ENTITY sanitizeDialog.title         "ಖಾಸಗಿ ಮಾಹಿತಿಯನ್ನು ಅಳಿಸಿಹಾಕು">
-<!ENTITY clearDataSettings.label      "ನಾನು  ನನ್ನ ಖಾಸಗಿ ಮಾಹಿತಿಯನ್ನು ಅಳಿಸಿಹಾಕು ಎಂದು &brandShortName; ಅನ್ನು ಕೇಳಿದಾಗ ಅದು ಹೀಗೆ ಮಾಡಬೇಕು:">
+<!ENTITY clearDataSettings2.label     "ನಾನು &brandShortName; ಇಂದ ನಿರ್ಗಮಿಸಿದಾಗ, ಅದು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಎಲ್ಲವನ್ನೂ ಅಳಿಸಿಹಾಕಬೇಕು:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY itemHistory.label            "ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸ">
-<!ENTITY itemHistory.accesskey        "B">
 <!ENTITY itemFormSearchHistory.label  "ಉಳಿಸಲಾದ ಫಾರ್ಮ್ ಹಾಗು ಹುಡುಕು ಇತಿಹಾಸ">
-<!ENTITY itemFormSearchHistory.accesskey "F">
-<!ENTITY itemPasswords.label          "ಉಳಿಸಲಾದ ಗುಪ್ತಪದಗಳು">
 <!ENTITY itemPasswords.accesskey      "P">
 <!ENTITY itemCookies.label            "ಕುಕಿಗಳು">
 <!ENTITY itemCookies.accesskey        "C">
@@ -17,3 +12,24 @@
 <!ENTITY itemActiveLogins.label       "ಸಕ್ರಿಯ ಲಾಗಿನ್‌ಗಳು">
 <!ENTITY itemActiveLogins.accesskey   "L">
 <!ENTITY window.width                 "30em">
+<!ENTITY clearDuration.everything     "ನನ್ನ ಸಂಪೂರ್ಣ ಇತಿಹಾಸ">
+<!ENTITY clearDuration.label          "ತೆಗೆದು ಹಾಕು ">
+<!ENTITY clearDuration.lastHour       "ಕೊನೆಯ ಒಂದು ಘಂಟೆ">
+<!ENTITY clearDuration.last2Hours     "ಕೊನೆಯ ಎರಡು ಘಂಟೆಗಳು">
+<!ENTITY clearDuration.last4Hours     "ಕೊನೆಯ ನಾಲ್ಕು ಘಂಟೆಗಳು">
+<!ENTITY clearDuration.today          "ನನ್ನ ಇಂದಿನ ಇತಿಹಾಸ">
+<!ENTITY clearDuration.suffix         "">
+<!ENTITY column.width                 "14em">
+<!ENTITY historySection.label         "ಇತಿಹಾಸ">
+<!ENTITY dataSection.label            "ಮಾಹಿತಿ">
+<!ENTITY itemDownloadList.label       "ಡೌನ್‌ಲೋಡ್ ಪಟ್ಟಿ">
+<!ENTITY itemDownloadList.accesskey   "D">
+<!ENTITY itemFormSearchEntries.label  "ಫಾರ್ಮ್ ಹಾಗು ಹುಡುಕು ನಮೂದುಗಳು">
+<!ENTITY itemFormSearchEntries.accesskey "F">
+<!ENTITY itemVisitedPages.label       "ಭೇಟಿ ನೀಡಲಾದ ಪುಟಗಳು">
+<!ENTITY itemVisitedPages.accesskey   "V">
+<!ENTITY itemWebCache.label           "ಜಾಲ ಕ್ಯಾಶೆ">
+<!ENTITY itemWebCache.accesskey       "W">
+<!ENTITY sanitizePrefs.title           "ಖಾಸಗಿ ಮಾಹಿತಿಯನ್ನು ಅಳಿಸಿ ಹಾಕು">
+<!ENTITY sanitizeDialog2.title         "ಇತ್ತೀಚಿನ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿ ಹಾಕು">
+

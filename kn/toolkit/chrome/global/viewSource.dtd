@@ -62,3 +62,11 @@
 <!ENTITY textReduce.commandkey2 "">
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "">
+
+<!ENTITY backCmd.label "ಹಿಂದಕ್ಕೆ">
+<!ENTITY backCmd.accesskey "B">
+<!ENTITY forwardCmd.label "ಮುಂದಕ್ಕೆ">
+<!ENTITY forwardCmd.accesskey "F">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
+
