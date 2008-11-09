@@ -498,11 +498,6 @@
          nc:link="using_priv_help.xhtml#cookies"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="cookies:privacy_levels_for"
-         nc:name="Stufen der Privatsph&#228;re f&#252;r Cookies"
-         nc:link="using_priv_help.xhtml#setting_privacy_levels"/>
-     </rdf:li>
-     <rdf:li>
        <rdf:Description ID="cookies:removing"
          nc:name="Entfernen von Cookies"
          nc:link="using_priv_help.xhtml#removing_cookies"/>
@@ -1642,16 +1637,6 @@ nc:link="mail_help.xhtml#importing_mail_from_other_programs"/>
          nc:link="privacy_help.xhtml#internet_address"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="privacy:P3P_levels"
-         nc:name="P3P-Level"
-         nc:link="using_priv_help.xhtml#setting_privacy_levels"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="privacy:P3P_standard_and"
-         nc:name="P3P-Standard"
-         nc:link="page_info_help.xhtml"/>
-     </rdf:li>
-     <rdf:li>
        <rdf:Description ID="privacy:preferences"
          nc:name="Privatsph&#228;reneinstellungen"
          nc:link="privsec_help.xhtml"/>
@@ -1660,11 +1645,6 @@ nc:link="mail_help.xhtml#importing_mail_from_other_programs"/>
        <rdf:Description ID="privacy:protecting"
          nc:name="Sch&#252;tzen Sie Ihre Privatsph&#228;re"
          nc:link="privacy_help.xhtml#using_privacy_features"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="privacy:settings"
-         nc:name="Privatsph&#228;reneinstellungen"
-         nc:link="using_priv_help.xhtml#privacy_settings"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="privacy:viewing_site_policy"

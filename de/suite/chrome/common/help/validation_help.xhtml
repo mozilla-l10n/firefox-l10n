@@ -53,68 +53,66 @@ Sicherheits-Einstellungen - Validierung</h2>
 <h3 id="crl">CRL</h3>
 
 <p>Eine Zertifikat-R&#252;ckruf-Liste (CRL) ist eine Liste widerrufener Zertifikate,
-   die von einer <a href="glossary.xhtml#certificate_authority">certificate authority (CA)</a>
+   die von einer <a href="glossary.xhtml#certificate_authority">Zertifizierungsstelle (CA)</a>
    generiert und signiert wurde. Es ist m&#246;glich, eine CRL in Ihren Browser zu laden, der
    dann &#252;berpr&#252;fen kann, ob Zertifikate noch g&#252;ltig sind, bevor sie 
    f&#252;r eine Authentifizierung genutzt werden.</p>
 
 <p>Klicken Sie auf CRL-Verwaltung, um eine Liste aller CRLs zu sehen, die f&#252;r den
-   Zertifikat-Verwalter verf&#252;gbar sind.</p>
+   Zertifikat-Manager verf&#252;gbar sind.</p>
 
 <p>F&#252;r weitere Informationen &#252;ber die Verwaltung von CRLs siehe
   <a href="using_certs_help.xhtml#managing_crls">CRL-Verwaltung</a>.</p>
 
 <h3 id="ocsp">OCSP</h3>
 
-<p>Das Online Certificate Status Protocol (OCSP) erm&#246;glicht es dem Zertifikat-Verwalter,
+<p>Das Online Certificate Status Protocol (OCSP) erm&#246;glicht es dem Zertifikat-Manager,
    eine Online-&#220;berpr&#252;fung der G&#252;ltigkeit eines Zertifikates vorzunehmen, wann
    immer das Zertifikat betrachtet oder benutzt wird. Dieser Proze&#223; umfasst eine
-   &#220;berpr&#252;fung des Zertifikates gegen eine CRL, die auf einer speziellen Webseite
+   &#220;berpr&#252;fung des Zertifikates gegen eine CRL, die auf einem speziellen Server
    unterhalten wird. Damit das funktioniert, muss Ihr Computer online sein.</p>
 
-<p>Um zu definieren, wie der Zertifikat-Verwalter OCSP benutzt, w&#228;hlen Sie eine
+<p>Um zu definieren, wie der Zertifikat-Manager OCSP benutzt, w&#228;hlen Sie eine
    der Einstellungen im OCSP-Abschnitt der Validierungs-Einstellungen:</p>
 
 <ul>
-    <li><strong>OCSP nicht f&#252;r Zertifikatsvalidierung verwenden</strong>: W&#228;hlen
-        Sie diese Einstellung, wenn Sie nicht m&#246;chten, da&#223; der Zertifikatsverwalter
-	    jedes Mal eine Online-Status&#252;berpr&#252;fung vornimmt, wenn er ein Zertifikat
-	    verifizert. Stattdessen wird, wann immer der Zertifikatverwalter eine
-	    <a href="glossary.xhtml#certificate_verification">Zertifikat-Verifizierung </a> vornimmt, 
-        nur die G&#252;ltigkeitsdauer des Zertifikates best&#228;tigt und ob es korrekt von einer
-	    CA zertifiziert ist, deren eigenes CA-Zertifikat sowohl unter dem CA-Zertifikats-Tab
-	    (im Haupt-Zertifikatverwalter-Fenster) aufgelistet ist und als vertrauensw&#252;rdig f&#252;r
-	    die Ausstellung dieser Zertifikatsart markiert ist.</li>
+  <li><strong>Das Online-Zertifikatsstatus-Protokoll (OCSP) verwenden, um die aktuelle 
+    G&#252;ltigkeit von Zertifikaten zu best&#228;tigen</strong>: Wenn Sie diese Option 
+    w&#228;hlen, f&#252;hrt der Zertifikat-Manager eine Online-Pr&#252;fung durch,
+    wenn ein Zertifikat gepr&#252;ft wird. Ist diese Option deaktiviert, pr&#252;ft der
+    Zertifikat-Manager nur die G&#252;ltigkeits-Dauer sowie ob das Zertifikat von einem
+    Zertifizierungsstelle unterschrieben wurde dessen Zertifikate unter <q>Zertifizierungsstellen</q> 
+    im Zertifikat-Manager aufscheinen und als vertrauensw&#252;rdig f&#252;r diese Art von
+    Zertifikat markiert ist.</li>
+  <li><strong>Ein Zertifikat validieren, wenn es einen OCSP-Server angibt</strong>:
+    W&#228;hlen Sie diese Option, wenn eine Online-Pr&#252;fung durchgef&#252;hrt werden
+    soll, wenn das Zertifikat eine Service-URL zur Validierung angiebt.
+    Der Zertifikat-Manager stellt sicher, dass das Zertifikat von der Validierungs-Stelle
+    als g&#252;ltig anerkannt wird und pr&#252;ft die G&#252;ltigkeits-Periode sowie die 
+    Vertrauensstellung.</li>
+  <li><strong>Alle Zertifikate mittels des folgenden OCSP-Servers validieren</strong>: 
+    W&#228;hlen Sie diese Option, wenn Sie einen bestimmten OCSP-Server angeben wollen, mit 
+    welchem die Validierung aller Zertifikate durchgef&#252;hrt werden soll. Wenn Sie diese
+    Option aktivieren, sollten Sie auch das Zertifikat des Antwort-Unterzeichners ausw&#228;hlen,
+    welches zu dem konfigurierten OCSP-Server passt. Mit dieser Einstellung werden nur 
+    Zertifikate anerkannt, welche mit dem Zertifikat von diesem Antwort-Unterzeichner 
+    (oder mit einem Zertifikat welches mit dem Antwort-Unterzeichner in einer
+    Vertrauensstellung steht) signiert wurden.
 
-    <li><strong>OCSP nur zur Validierung von Zertifikaten verwenden, die eine OCSP-Service-URL
-        angeben</strong>: W&#228;hlen Sie diese Einstellung, wenn Sie m&#246;chten, dass der
-	    Zertifikatverwalter jedes Mal eine Online-Status&#252;berpr&#252;fung vornimmt, wenn er
-	    ein Zertifikat verifiziert, das eine URL f&#252;r diesen Zweck angibt. Wenn eine URL durch
-	    das Zertifikat speziifiziert ist, stellt der Zertifikatverwalter sicher, dass das Zertifikat
-	    dort als g&#252;ltig aufgef&#252;hrt ist und &#252;berpr&#252;ft die G&#252;ltigkeitsperiode
-	    und die Vertrauens-Einstellungen.</li>
-
-    <li><strong>OCSP zur Validierung aller Zertifikate unter Verwendung folgender URL und Unterzeichner
-        verwenden</strong>: W&#228;hlen Sie diese Einstellung, wenn der Zertifikatverwalter bei jeder
-	    Zertifikatpr&#252;fung eine Online-Status&#252;berpr&#252;fung vornehmen soll. Wenn Sie diese
-	    Einstellung w&#228;hlen, sollten Sie auch dasjenige Zertifikat aus dem
-	    Antwort-Unterzeichner-Popup-Men&#252; w&#228;hlen, das den Signierer der OCSP-Antworten
-	    identifiziert. Mit dieser Einstellung werden vom Zertifikatverwalter nur diejenigen Zertifikate
-	    anerkannt, die durch eine OCSP-Antwort verifiziert werden, welche ihrerseits  mit dem
-	    Antwort-Unterzeichner-Zertifikat signiert ist (oder mittels eines Zertifikats signiert, das damit
-	    verkettet ist).
-
-        <p>Wenn Sie ein Antwort-Unterzeichner-Zertifkat aus dem Popup-Men&#252; w&#228;hlen, setzt der
-           Zertifikatverwalter automatisch die Service-URL f&#252;r den Unterzeichner ein (falls vorhanden).
-	       Wenn die Service-URL nicht automatisch eingesetzt wird, m&#252;ssen Sie sie selbst eintragen;
-	      fragen Sie Ihren System-Verwalter nach Einzelheiten.</p></li>
+    <p>Wenn Sie ein Antwort-Unterzeichner-Zertifikat aus dem Popup-Men&#252; w&#228;hlen, setzt der
+      Zertifikat-Manager automatisch die Service-URL f&#252;r den Unterzeichner ein (falls vorhanden).
+      Wenn die Service-URL nicht automatisch eingesetzt wird, m&#252;ssen Sie sie selbst eintragen;
+      fragen Sie Ihren System-Verwalter nach Einzelheiten.</p></li>
+  <li><strong>Wenn eine OCSP-Server-Verbindung fehlschl&#228;gt, das Zertifikat als ung&#252;ltig 
+    betrachten</strong>: Aktivieren Sie diese Option, wenn die Validierung fehlschlagen soll, sobald 
+    keine Verbindung zum OCSP-Server aufgebaut werden kann.</li>
 </ul>
 
 <h2 id="manage_crls">CRL-Verwaltung</h2>
 
 <p>Dieser Abschnitt beschreibt, wie die Dialogbox zur CRL-Verwaltung benutzt wird. Um sie
    anzuzeigen, folgen Sie diesen Schritten:</p>
-
+&#252;
 <ol>
     <li>&#214;ffnen Sie das <span class="noMac">Bearbeiten</span>
         <span class="mac">&brandShortName;</span>-Men&#252; und w&#228;hlen Sie Einstellungen.</li>
