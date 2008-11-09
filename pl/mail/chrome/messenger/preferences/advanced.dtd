@@ -50,7 +50,7 @@
 <!ENTITY modeAskMe.accesskey           "c">
 <!ENTITY modeAutomatic.label           "automatycznie pobierz i zainstaluj aktualizacje">
 <!ENTITY modeAutomatic.accesskey       "b">
-<!ENTITY modeAutoAddonWarn.label       "ostrzeż mnie, jeśli aktualizacja spowoduje zablokowanie rozszerzeń lub motywów">
+<!ENTITY modeAutoAddonWarn.label       "ostrzeż mnie, jeśli aktualizacja spowoduje zablokowanie dodatków">
 <!ENTITY modeAutoAddonWarn.accesskey   "j">
 <!ENTITY showUpdates.label             "Wyświetl historię aktualizacji">
 <!ENTITY showUpdates.accesskey         "h">
