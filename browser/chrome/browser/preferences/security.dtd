@@ -8,9 +8,7 @@
   useDownloadedList.label convey the meaning "reported" (and not something like
   "known").
 -->
-<!ENTITY tellMaybeAttackSite.accesskey "П">
 
-<!ENTITY tellMaybeForgery.accesskey "П">
 
 <!ENTITY addonExceptions.label "Винятки…">
 <!ENTITY addonExceptions.accesskey "В">
@@ -39,5 +37,10 @@
 <!ENTITY warningSettings.label "Настроїти…">
 <!ENTITY warningSettings.accesskey "а">
 
-<!ENTITY  tellMaybeAttackSite2.label     "Блокувати відомі сайти-нападники">
-<!ENTITY  tellMaybeForgery2.label        "Блокувати відомі сайти-підробки">
+
+<!-- FIXME: localize -->
+<!ENTITY  blockAttackSites.accesskey "н">
+<!ENTITY  blockAttackSites.label     "Блокувати сайти, відзвітовані як западники">
+
+<!ENTITY  blockWebForgeries.accesskey "п">
+<!ENTITY  blockWebForgeries.label     "Блокувати сайти, відзвітовані як підробки">
