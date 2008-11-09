@@ -3,7 +3,7 @@
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY itemFormSearchHistory.label  "ಉಳಿಸಲಾದ ಫಾರ್ಮ್ ಹಾಗು ಹುಡುಕು ಇತಿಹಾಸ">
+
 <!ENTITY itemPasswords.accesskey      "P">
 <!ENTITY itemCookies.label            "ಕುಕಿಗಳು">
 <!ENTITY itemCookies.accesskey        "C">
@@ -32,4 +32,6 @@
 <!ENTITY itemWebCache.accesskey       "W">
 <!ENTITY sanitizePrefs.title           "ಖಾಸಗಿ ಮಾಹಿತಿಯನ್ನು ಅಳಿಸಿ ಹಾಕು">
 <!ENTITY sanitizeDialog2.title         "ಇತ್ತೀಚಿನ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿ ಹಾಕು">
+<!ENTITY itemPasswords.label          "ಉಳಿಸಲಾದ ಗುಪ್ತಪದಗಳು">
+
 

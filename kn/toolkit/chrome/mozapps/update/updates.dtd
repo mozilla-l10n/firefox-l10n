@@ -65,3 +65,4 @@
                                            &brandShortName; ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಪರಿಶೀಲಿಸುವಂತೆ ಸಜ್ಜುಗೊಳಿಸಿ.">
 
 <!ENTITY  updateCheck.label               "&brandShortName; ನ ಹೊಸ ಆವೃತ್ತಿಗಾಗಿ ಹುಡುಕಲಾಗುತ್ತಿದೆ…">
+<!ENTITY  viewDetails.tooltip             "ಈ ಅಪ್‌ಡೇಟ್‌ಗಾಗಿನ ವಿವರಗಳನ್ನು ನೋಡು">

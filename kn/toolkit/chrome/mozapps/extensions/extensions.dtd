@@ -172,3 +172,6 @@
 <!ENTITY searchThrobber.label             "ಆಡ್‌-ಆನ್‌ಗಳನ್ನು ಹುಡುಲಾಗುತ್ತಿದೆ">
 <!ENTITY toBeUpdated.label                "ಈ ಆಡ್‌-ಆನ್‌  &brandShortName; ಅನ್ನು  ಮರು ಆರಂಭಿಸಿದಾಗ ನವೀಕರಣಗೊಳ್ಳುತ್ತದೆ.">
 <!ENTITY updateSuccessRestart.label       "ನವೀಕರಣವನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ಮರು ಆರಂಭಿಸು.">
+<!ENTITY blocklist.blocked.label          "ನಿರ್ಬಂಧಿಸಲಾದ">
+<!ENTITY blocklist.checkbox.label         "ಅಶಕ್ತಗೊಂಡ">
+<!ENTITY softBlocklisted.label            "ಸುರಕ್ಷತೆ ಹಾಗು ಕಾರ್ಯಶೀಲತೆಯ ಬಗ್ಗೆ ತೊಂದರೆ ಮಾಡಬಹುದು.">
