@@ -21,3 +21,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "ಈ ಬುಕ್‌ಮಾರ್ಕ್ ಅನ್ನು ಬದಿಯ ಪಟ್ಟಿಯಲ್ಲಿ ಲೋಡ್ ಮಾಡು">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
 <!ENTITY editBookmarkOverlay.choose.label                    "ಆರಿಸು…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "ಹೊಸ ಕಡತಕೋಶ">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">

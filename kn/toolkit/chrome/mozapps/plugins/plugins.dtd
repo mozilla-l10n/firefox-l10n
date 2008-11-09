@@ -21,3 +21,5 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "ಪ್ಲಗ್‌ಇನ್(ಗಳು) ಕೆಲಸ ಮಾಡಲು &brandShortName; ಅನ್ನು ಮತ್ತೊಮ್ಮೆ ಆರಂಭಿಸಬೇಕು.">
   
 <!ENTITY missingPlugin.label                                 "ಪ್ಲಗ್‌ಇನ್‌ ಅನ್ನು ಡೌನ್‌ಲೋಡ್‌ ಮಾಡಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್ಕಿಸಿ.">
+<!ENTITY blockedPlugin.label                                 "ನಿಮ್ಮ ಸುರಕ್ಷತೆಯ ಕಾರಣದಿಂದಾಗಿ ಈ ಪ್ಲಗ್‌ಇನ್  ಅನ್ನು ತಡೆಹಿಡಿಯಲಾಗಿದೆ.">
+<!ENTITY disabledPlugin.label                                "ಈ ವಿಷಯಕ್ಕಾಗಿನ ಪ್ಲಗ್‌ಇನ್‌ ಅನ್ನು ಅಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ. ನಿಮ್ಮ ಪ್ಲಗ್‌ಇನ್ ಅನ್ನು ನಿರ್ವಹಿಸಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ.">

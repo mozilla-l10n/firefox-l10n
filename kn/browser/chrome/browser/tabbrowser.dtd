@@ -16,3 +16,4 @@
 <!ENTITY  bookmarkThisTab.accesskey   "B">
 <!ENTITY  undoCloseTab.label          "ಹಾಳೆ ಮುಚ್ಚಿದ್ದನ್ನು ರದ್ದುಮಾಡು">
 <!ENTITY  undoCloseTab.accesskey      "U">
+<!ENTITY  newTabButton.tooltip        "ಒಂದು ಹೊಸ ಹಾಳೆಯನ್ನು ತೆರೆ">

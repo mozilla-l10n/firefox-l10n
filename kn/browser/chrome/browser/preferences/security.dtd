@@ -44,3 +44,9 @@
 
 <!ENTITY  savedPasswords.label            "ಉಳಿಸಲಾದ ಗುಪ್ತಪದಗಳು…">
 <!ENTITY  savedPasswords.accesskey        "P">
+
+<!ENTITY  blockAttackSites.label     "ಧಾಳಿಕಾರಕ ಎಂದು ವರದಿ ಮಾಡಲಾದ ತಾಣವನ್ನು ನಿರ್ಬಂ ಧಿಸು">
+<!ENTITY  blockAttackSites.accesskey "k">
+
+<!ENTITY  blockWebForgeries.label     "ವಂಚನೆ ಎಂದು ವರದಿ ಮಾಡಲಾದ ತಾಣವನ್ನು ನಿರ್ಬಂ ಧಿಸು">
+<!ENTITY  blockWebForgeries.accesskey "B">

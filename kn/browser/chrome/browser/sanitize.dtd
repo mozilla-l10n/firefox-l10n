@@ -1,10 +1,23 @@
 <!ENTITY sanitizeItems.label          "ಈ ಕೆಳಗಿನ ಅಂಶಗಳನ್ನು ಈಗಲೆ ಅಳಿಸಿಹಾಕು:">
+<!ENTITY sanitizeDialog.title         "ಖಾಸಗಿ ಮಾಹಿತಿಯನ್ನು ಅಳಿಸಿಹಾಕು">
+<!ENTITY clearDataSettings.label      "ನಾನು  ನನ್ನ ಖಾಸಗಿ ಮಾಹಿತಿಯನ್ನು ಅಳಿಸಿಹಾಕು ಎಂದು &brandShortName; ಅನ್ನು ಕೇಳಿದಾಗ ಅದು ಹೀಗೆ ಮಾಡಬೇಕು:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
+<!ENTITY itemHistory.label            "ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸ">
+<!ENTITY itemHistory.accesskey        "B">
+<!ENTITY itemFormSearchHistory.label  "ಉಳಿಸಲಾದ ಫಾರ್ಮ್ ಹಾಗು ಹುಡುಕು ಇತಿಹಾಸ">
+<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemPasswords.label          "ಉಳಿಸಲಾದ ಗುಪ್ತಪದಗಳು">
 <!ENTITY itemPasswords.accesskey      "P">
 <!ENTITY itemCookies.label            "ಕುಕಿಗಳು">
 <!ENTITY itemCookies.accesskey        "C">
-<!ENTITY itemOfflineApps.accesskey    "O">
+<!ENTITY itemCache.label              "ಕ್ಯಾಶೆ">
+<!ENTITY itemCache.accesskey          "a">
 <!ENTITY itemOfflineApps.label        "ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಜಾಲತಾಣದ ಮಾಹಿತಿ">
+<!ENTITY itemOfflineApps.accesskey    "O">
+<!ENTITY itemDownloads.label          "ಡೌನ್‌ಲೋಡ್ ಇತಿಹಾಸ">
+<!ENTITY itemDownloads.accesskey      "D">
+<!ENTITY itemActiveLogins.label       "ಸಕ್ರಿಯ ಲಾಗಿನ್‌ಗಳು">
+<!ENTITY itemActiveLogins.accesskey   "L">
 <!ENTITY window.width                 "30em">

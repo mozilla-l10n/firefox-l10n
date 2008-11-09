@@ -371,4 +371,37 @@
 <!ENTITY showAllHistoryCmd2.label "ಎಲ್ಲಾ ಇತಿಹಾಸವನ್ನು ತೋರಿಸು">
 <!ENTITY urlbar.emptyText             "ಬುಕ್‌ಮಾರ್ಕುಗಳನ್ನು ಹಾಗು ಇತಿಹಾಸವನ್ನು ಹುಡುಕು">
 <!ENTITY fullZoom.accesskey             "Z">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "ಆಡಿಯೋ ತಾಣವನ್ನು ಕಾಪಿ ಮಾಡು">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyVideoURLCmd.label        "ವೀಡಿಯೋ ತಾಣವನ್ನು ಕಾಪಿ ಮಾಡು">
+<!ENTITY ctrlTab.search.emptyText "ಹುಡುಕು ಟ್ಯಾಬ್‌ಗಳು">
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (ಖಾಸಗಿ ವೀಕ್ಷಣೆ)">
+<!ENTITY mediaHideControls.accesskey "C">
+<!ENTITY mediaHideControls.label     "ನಿಯಂತ್ರಣಗಳನ್ನು ಅಡಗಿಸು">
+<!ENTITY mediaMute.accesskey         "M">
+<!ENTITY mediaMute.label             "ಮೂಕವಾಗಿಸು">
+<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaPause.label            "ತಾತ್ಕಾಲಿಕವಾಗಿ ನಿಲ್ಲಿಸು">
+<!ENTITY mediaPlay.accesskey         "P">
+<!ENTITY mediaPlay.label             "ಪ್ಲೇ ಮಾಡು">
+<!ENTITY mediaShowControls.accesskey "C">
+<!ENTITY mediaShowControls.label     "ನಿಯಂತ್ರಣಗಳನ್ನು ತೋರಿಸು">
+<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaUnmute.label           "ಮೂಕವಾಗಿಸಬೇಡ">
+<!ENTITY privateBrowsingCmd.label            "ಖಾಸಗಿ ವೀಕ್ಷಣೆ">
+<!ENTITY privateBrowsingCmd.accesskey        "B">
+<!ENTITY reloadImageCmd.label         "ಚಿತ್ರವನ್ನು ಮರಳಿ ಲೋಡ್ ಮಾಡು">
+<!ENTITY reloadImageCmd.accesskey     "R">
+<!ENTITY saveAudioCmd.label           "ಆಡಿಯೋ ಅನ್ನು ಹೀಗೆ ಉಳಿಸು…">
+<!ENTITY saveAudioCmd.accesskey       "v">
+<!ENTITY saveVideoCmd.label           "ವೀಡಿಯೋ ಅನ್ನು ಹೀಗೆ ಉಳಿಸು…">
+<!ENTITY saveVideoCmd.accesskey       "v">
+<!ENTITY sendAudioCmd.label           "ಆಡಿಯೋ ಅನ್ನು ಕಳುಹಿಸು…">
+<!ENTITY sendAudioCmd.accesskey       "n">
+<!ENTITY sendVideoCmd.label           "ವೀಡಿಯೋ ಅನ್ನು ಕಳುಹಿಸು…">
+<!ENTITY sendVideoCmd.accesskey       "n">
+<!ENTITY viewVideoCmd.label           "ವೀಡಿಯೋ ಅನ್ನು ನೋಡಿ">
+<!ENTITY viewVideoCmd.accesskey       "I">
+
 <!-- new bookmarks and history -->

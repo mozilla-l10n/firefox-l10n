@@ -117,3 +117,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "ತಾಂತ್ರಿಕ ವಿವರಗಳು">
+<!ENTITY  generalSecurityDetails   "ವಿವರಗಳು">
+<!ENTITY  generalSecurityDetails.accesskey "D">

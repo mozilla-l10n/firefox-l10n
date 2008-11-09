@@ -7,3 +7,7 @@
 <!ENTITY copyrightInfo          "&#169;1998-2008 ನಲ್ಲಿ ನೆರವಾದವರು. ಎಲ್ಲಾ ಹಕ್ಕುಗಳನ್ನು ಕಾದಿರಿಸಲಾಗಿದೆ. 
 					     ಫೈರ್ಫಾಕ್ಸ್‍  ಹಾಗು ಫೈರ್ಫಾಕ್ಸ್‍  ಲಾಂಛನಗಳು ಮೊಝಿಲ್ಲಾ ಫೌಂಡೇಶನ್ನಿನ ಟ್ರೇಡ್‍ಮಾರ್ಕ್‍ಗಳಾಗಿರುತ್ತವೆ. 
 					     ಎಲ್ಲಾ ಹಕ್ಕುಗಳನ್ನು ಕಾದಿರಿಸಲಾಗಿದೆ.">
+<!ENTITY closeCmdGNOME.accesskey    "C">
+<!ENTITY closeCmdGNOME.label        "ಮುಚ್ಚು">
+<!ENTITY copyrightGNOME.accesskey   "r">
+

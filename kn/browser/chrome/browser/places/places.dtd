@@ -213,3 +213,8 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.noPreviewAvailable.label "ಮುನ್ನೋಟ">
 <!ENTITY detailsPane.selectAnItemText.description "ಒಂದು ಅಂಶದ ಗುಣಲಕ್ಷಣಗಳನ್ನು  ನೋಡಲು ಹಾಗು ಸಂಪಾದಿಸಲು ಒಂದು ಆಂಶವನ್ನು ಆರಿಸಿ">
+
+<!ENTITY cmd.delete.label               "ಈ ಪುಟವನ್ನು ಅಳಿಸಿ ಹಾಕು">
+<!ENTITY cmd.delete.accesskey           "D">
+<!ENTITY cmd.deleteDomainData.label     "ಈ ತಾಣವನ್ನು ಮರೆತು ಬಿಡು">
+<!ENTITY cmd.deleteDomainData.accesskey "F">

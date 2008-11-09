@@ -46,3 +46,22 @@
 <!ENTITY  update.status.label             "ಸ್ಥಿತಿ:">
 
 <!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
+
+<!ENTITY  evangelism.desc                 "ನಿಮಗೆ ಸಾಧ್ಯವಿದ್ದಷ್ಟು ಬೇಗ ಈ ಅಪ್‌ಡೇಟ್ ಅನ್ನು  &brandShortName; ಗೆ ಅನ್ವಯಿಸಿ ಎಂದು ಸಲಹೆ 						                   ಮಾಡಲಾಗುತ್ತದೆ
+<!ENTITY  finishedPage.title              "ಅನುಸ್ಥಾಪಿಸಲು ಅಪ್‌ಡೇಟ್ ಸಿದ್ಧಗೊಂಡಿದೆ">
+<!ENTITY  finishedPage.text               "ಮುಂದಿನ ಬಾರಿ &brandShortName; ಆರಂಭಗೊಂಡಾಗ ಅಪ್‌ಡೇಟ್ ಅನುಸ್ಥಾಪಿತಗೊಳ್ಳುತ್ತದೆ. 
+			                                                                                                                 ನೀವು &brandShortName; ಅನ್ನು ಈಗ ಆರಂಭಿಸಬಹುದು, ಅಥವ  ನಿಮ್ಮ ಕೆಲಸವನ್ನು ಮುಂದುವರೆಸಿ 						                  ತದನಂತರ ಮರು ಆರಂಭಿಸಿ.">
+
+<!ENTITY  finishedBackgroundPage.text     "&brandShortName; ಗಾಗಿನ ಸುರಕ್ಷತೆ ಹಾಗು ದೃಢತೆಯ ಅಪ್‌ಡೇಟ್ ಒಂದನ್ನು ಡೌನ್‌ಲೋಡ್ 					                                                                  ಮಾಡಲಾಗಿದ್ದು  ಅನುಸ್ಥಾಪನೆಗೆ ಅದು ಸಿದ್ಧಗೊಂಡಿದೆ.">
+<!ENTITY  finishedBackground.name         "ಅಪ್‌ಡೇಟ್:">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more         "ಮುಂದಿನ ಬಾರಿ &brandShortName; ಆರಂಭಗೊಂಡಾಗ ಅಪ್‌ಡೇಟ್ ಅನುಸ್ಥಾಪಿತಗೊಳ್ಳುತ್ತದೆ. 
+			                                                                                                                 ನೀವು &brandShortName; ಅನ್ನು ಈಗ ಆರಂಭಿಸಬಹುದು, ಅಥವ  ನಿಮ್ಮ ಕೆಲಸವನ್ನು ಮುಂದುವರೆಸಿ 						                  ತದನಂತರ ಮರು ಆರಂಭಿಸಿ.">
+<!ENTITY  incompatibleCheck.title         "ಆಡ್‌-ಆನ್‌ಗಳ ಹೊಂದಾಣಿಕೆಯನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ">
+<!ENTITY  incompatibleCheck.label         "ನಿಮ್ಮ ಆಡ್‌-ಆನ್‌ಗಳ  ಹೊಸ ಆವೃತ್ತಿಗಾಗಿ ಹುಡುಕಲಾಗುತ್ತದೆ…">
+<!ENTITY  incompatibleList.title          "ಹೊಂದಕಿಯಾಗದೆ ಇರುವ ಆಡ್‌-ಆನ್‌ಗಳು ಕಂಡುಬಂದಿವೆ">
+<!ENTITY  noupdatesautoenabled.intro      "ಯಾವುದೆ ಅಪ್‌ಡೇಟ್‌ಗಳು ಕಂಡುಬಂದಿಲ್ಲ. &brandShortName; ಕಾಲಕಾಲಕ್ಕೆ 						                 ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಹುಡುಕುತ್ತದೆ.">
+<!ENTITY  noupdatesautodisabled.intro     "ಯಾವುದೆ ಅಪ್‌ಡೇಟ್‌ಗಳು ಕಂಡುಬಂದಿಲ್ಲ. ದಯವಿಟ್ಟು ನಂತರ ಪ್ರಯತ್ನಿಸಿ ಅಥವ 
+                                           &brandShortName; ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಪರಿಶೀಲಿಸುವಂತೆ ಸಜ್ಜುಗೊಳಿಸಿ.">
+
+<!ENTITY  updateCheck.label               "&brandShortName; ನ ಹೊಸ ಆವೃತ್ತಿಗಾಗಿ ಹುಡುಕಲಾಗುತ್ತಿದೆ…">
