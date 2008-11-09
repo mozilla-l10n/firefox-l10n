@@ -1,12 +1,14 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title     inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Zasebno brskanje)">
 
 <!ENTITY tabCmd.label "Nov zavihek">
 <!ENTITY tabCmd.accesskey "Z">
@@ -158,8 +160,11 @@
 <!ENTITY preferencesCmdUnix.label "Nastavitve">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
-<!ENTITY clearPrivateDataCmd.label "Počisti zasebne podatke ...">
-<!ENTITY clearPrivateDataCmd.accesskey "Z">
+<!ENTITY clearRecentHistoryCmd.label            "Počisti nedavno zgodovino">
+<!ENTITY clearRecentHistoryCmd.accesskey        "Z">
+
+<!ENTITY privateBrowsingCmd.label            "Zasebno brskanje">
+<!ENTITY privateBrowsingCmd.accesskey        "B">
 
 <!ENTITY viewMenu.label "Pogled">
 <!ENTITY viewMenu.accesskey "P">
@@ -231,10 +236,12 @@
 <!ENTITY viewPageInfoCmd.accesskey "I">
 <!ENTITY viewFrameInfoCmd.label "Pokaži podatke o okvirju">
 <!ENTITY viewFrameInfoCmd.accesskey "I">
-<!ENTITY showImageCmd.label "Prikaži sliko">
-<!ENTITY showImageCmd.accesskey "P">
+<!ENTITY reloadImageCmd.label         "Ponovno naloži sliko">
+<!ENTITY reloadImageCmd.accesskey     "P">
 <!ENTITY viewImageCmd.label "Pokaži sliko">
 <!ENTITY viewImageCmd.accesskey "I">
+<!ENTITY viewVideoCmd.label           "Pokaži video">
+<!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label "Pokaži sliko za ozadje">
 <!ENTITY viewBGImageCmd.accesskey "o">
 <!ENTITY setDesktopBackgroundCmd.label "Nastavi za sliko ozadja namizja">
@@ -262,8 +269,17 @@
 <!ENTITY sendLinkCmd.accesskey "v">
 <!ENTITY saveImageCmd.label "Shrani sliko kot ...">
 <!ENTITY saveImageCmd.accesskey "s">
+<!ENTITY saveVideoCmd.label           "Shrani video kot ...">
+<!ENTITY saveVideoCmd.accesskey       "v">
+<!ENTITY saveAudioCmd.label           "Shrani zvok kot ...">
+<!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY sendImageCmd.label "Pošlji sliko ...">
 <!ENTITY sendImageCmd.accesskey "k">
+<!ENTITY sendImageCmd.accesskey       "l">
+<!ENTITY sendVideoCmd.label           "Pošlji video ...">
+<!ENTITY sendVideoCmd.accesskey       "o">
+<!ENTITY sendAudioCmd.label           "Pošlji zvok ...">
+<!ENTITY sendAudioCmd.accesskey       "o">
 <!ENTITY copyLinkCmd.label "Kopiraj mesto povezave">
 <!ENTITY copyLinkCmd.accesskey "i">
 <!ENTITY copyLinkTextCmd.label "Kopiraj besedilo povezave">
@@ -272,6 +288,10 @@
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyImageContentsCmd.label "Kopiraj sliko">
 <!ENTITY copyImageContentsCmd.accesskey "a">
+<!ENTITY copyVideoURLCmd.label        "Kopiraj mesto videa">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Kopiraj mesto zvoka">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY blockImageCmd.accesskey "k">
 <!ENTITY metadataCmd.label "Lastnosti">
 <!ENTITY metadataCmd.accesskey "L">
@@ -279,6 +299,21 @@
 <!ENTITY copyEmailCmd.accesskey "E">
 <!ENTITY thisFrameMenu.label "Ta okvir">
 <!ENTITY thisFrameMenu.accesskey "a">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "Predvajaj">
+<!ENTITY mediaPlay.accesskey         "v">
+<!ENTITY mediaPause.label            "Ustavi">
+<!ENTITY mediaPause.accesskey        "v">
+<!ENTITY mediaMute.label             "Nemo">
+<!ENTITY mediaMute.accesskey         "N">
+<!ENTITY mediaUnmute.label           "Glasno">
+<!ENTITY mediaUnmute.accesskey       "n">
+<!ENTITY mediaShowControls.label     "Prikaži gradnike">
+<!ENTITY mediaShowControls.accesskey "g">
+<!ENTITY mediaHideControls.label     "Skrij gradnike">
+<!ENTITY mediaHideControls.accesskey "g">
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
@@ -308,7 +343,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label "Povečevanje">
 <!ENTITY fullZoom.accesskey "P">
 
-<!ENTITY newTabButton.tooltip "Odpri nov zavihek">
 <!ENTITY newWindowButton.tooltip "Odpri novo okno">
 <!ENTITY sidebarCloseButton.tooltip "Zapri stransko vrstico">
 
@@ -386,8 +420,10 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "ki ga poganja">
+<!ENTITY identity.runBy "ki jo poganja">
 
 <!ENTITY identity.moreInfoLinkText "Več podatkov...">
 
 <!ENTITY downloadMonitor2.tooltip "Kliknite za odpiranje okna prenosov">
+
+<!ENTITY ctrlTab.search.emptyText "Iskanje po zavihkih">
