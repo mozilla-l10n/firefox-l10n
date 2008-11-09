@@ -1,23 +1,37 @@
-<!ENTITY sanitizeDialog.title "Стирання особистих даних">
 
 <!ENTITY sanitizeItems.label "Стерти наступні дані:">
-<!ENTITY clearDataSettings.label "Коли я наказую &brandShortName; стерти мою конфіденційну інформацію, він повинен стерти:">
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY itemHistory.label "Журнал відвідувань">
-<!ENTITY itemHistory.accesskey "у">
-<!ENTITY itemFormSearchHistory.label "Збережені дані форм та історія пошуку">
-<!ENTITY itemFormSearchHistory.accesskey "і">
 <!ENTITY itemPasswords.label "Збережені паролі">
 <!ENTITY itemPasswords.accesskey "б">
 <!ENTITY itemCookies.label "Куки">
 <!ENTITY itemCookies.accesskey "у">
-<!ENTITY itemCache.label "Кеш">
-<!ENTITY itemCache.accesskey "К">
 <!ENTITY itemOfflineApps.label "Позамережні дані сайтів">
 <!ENTITY itemOfflineApps.accesskey "а">
-<!ENTITY itemDownloads.label "Журнал завантажень">
-<!ENTITY itemDownloads.accesskey "у">
-<!ENTITY itemSessions.label "Сеанси автентифікації">
-<!ENTITY itemSessions.accesskey "С">
 <!ENTITY window.width "30em">
+
+<!-- FIXME: localize -->
+<!ENTITY clearDataSettings2.label     "Коли я закриваю &brandShortName;, він повинен автоматично очистити всю:">
+<!ENTITY clearDuration.everything     "my entire history">
+<!ENTITY clearDuration.label          "Вилучити ">
+<!ENTITY clearDuration.last2Hours     "останні 2 години">
+<!ENTITY clearDuration.last4Hours     "останні 4 години">
+<!ENTITY clearDuration.lastHour       "останню годину">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages that require it-->
+<!ENTITY clearDuration.suffix         "">
+<!ENTITY clearDuration.today          "мою історію за сьогодні">
+<!ENTITY column.width                 "14em">
+<!ENTITY dataSection.label            "Дані">
+<!ENTITY historySection.label         "Історію">
+<!ENTITY itemActiveLogins.accesskey   "с">
+<!ENTITY itemActiveLogins.label       "Активні сеанси">
+<!ENTITY itemDownloadList.accesskey   "з">
+<!ENTITY itemDownloadList.label       "Список завантажень">
+<!ENTITY itemFormSearchEntries.accesskey "Ф">
+<!ENTITY itemFormSearchEntries.label  "Форми та пошукові запити">
+<!ENTITY itemVisitedPages.accesskey   "с">
+<!ENTITY itemVisitedPages.label       "Відвідані сторінки">
+<!ENTITY itemWebCache.accesskey       "к">
+<!ENTITY itemWebCache.label           "Веб кеш">
+<!ENTITY sanitizeDialog2.title         "Очистити недавню історію">
+<!ENTITY sanitizePrefs.title           "Очистити приватні дані">
