@@ -47,7 +47,7 @@
 
 <!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
 
-<!ENTITY  evangelism.desc                 "ನಿಮಗೆ ಸಾಧ್ಯವಿದ್ದಷ್ಟು ಬೇಗ ಈ ಅಪ್‌ಡೇಟ್ ಅನ್ನು  &brandShortName; ಗೆ ಅನ್ವಯಿಸಿ ಎಂದು ಸಲಹೆ 						                   ಮಾಡಲಾಗುತ್ತದೆ
+<!ENTITY  evangelism.desc                 "ನಿಮಗೆ ಸಾಧ್ಯವಿದ್ದಷ್ಟು ಬೇಗ ಈ ಅಪ್‌ಡೇಟ್ ಅನ್ನು  &brandShortName; ಗೆ ಅನ್ವಯಿಸಿ ಎಂದು ಸಲಹೆ 						                   ಮಾಡಲಾಗುತ್ತದೆ.">
 <!ENTITY  finishedPage.title              "ಅನುಸ್ಥಾಪಿಸಲು ಅಪ್‌ಡೇಟ್ ಸಿದ್ಧಗೊಂಡಿದೆ">
 <!ENTITY  finishedPage.text               "ಮುಂದಿನ ಬಾರಿ &brandShortName; ಆರಂಭಗೊಂಡಾಗ ಅಪ್‌ಡೇಟ್ ಅನುಸ್ಥಾಪಿತಗೊಳ್ಳುತ್ತದೆ. 
 			                                                                                                                 ನೀವು &brandShortName; ಅನ್ನು ಈಗ ಆರಂಭಿಸಬಹುದು, ಅಥವ  ನಿಮ್ಮ ಕೆಲಸವನ್ನು ಮುಂದುವರೆಸಿ 						                  ತದನಂತರ ಮರು ಆರಂಭಿಸಿ.">
