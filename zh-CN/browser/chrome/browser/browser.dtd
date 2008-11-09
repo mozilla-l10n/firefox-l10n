@@ -1,6 +1,7 @@
 <!ENTITY mainWindow.title "&brandFullName;">
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; （隐私浏览）">
 <!ENTITY tabCmd.label "新建标签页">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
@@ -133,8 +134,10 @@
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "首选项">
 <!ENTITY preferencesCmdUnix.accesskey "n">
-<!ENTITY clearPrivateDataCmd.label "清除隐私数据">
-<!ENTITY clearPrivateDataCmd.accesskey "P">
+<!ENTITY clearRecentHistoryCmd.label "清空最近历史记录">
+<!ENTITY clearRecentHistoryCmd.accesskey "H">
+<!ENTITY privateBrowsingCmd.label "隐私浏览">
+<!ENTITY privateBrowsingCmd.accesskey "B">
 <!ENTITY viewMenu.label "查看">
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenu.label "工具栏">
@@ -324,3 +327,4 @@
 <!ENTITY identity.runBy "它的经营者为">
 <!ENTITY identity.moreInfoLinkText "更多信息…">
 <!ENTITY downloadMonitor2.tooltip "单击打开下载窗口">
+<!ENTITY ctrlTab.search.emptyText "搜索标签页">
