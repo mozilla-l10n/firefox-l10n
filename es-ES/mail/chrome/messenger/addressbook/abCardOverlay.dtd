@@ -9,27 +9,27 @@
 <!ENTITY NameField1.label "Nombre:">
 <!ENTITY NameField1.accesskey "N">
 <!ENTITY NameField2.label "Apellidos:">
-<!ENTITY NameField2.accesskey "L">
+<!ENTITY NameField2.accesskey "A">
 <!ENTITY PhoneticField1.label "Nombre fonético:">
 <!ENTITY PhoneticField2.label "Apellido fonético:">
 <!ENTITY DisplayName.label "Mostrado:">
 <!ENTITY DisplayName.accesskey "M">
 <!ENTITY NickName.label "Apodo:">
-<!ENTITY NickName.accesskey "A">
+<!ENTITY NickName.accesskey "d">
 <!ENTITY Internet.box "Internet">
 <!ENTITY PrimaryEmail.label "Correo electrónico:">
 <!ENTITY PrimaryEmail.accesskey "E">
 <!ENTITY SecondEmail.label "Correo electrónico adicional:">
-<!ENTITY SecondEmail.accesskey "i">
+<!ENTITY SecondEmail.accesskey "r">
 <!ENTITY PreferMailFormat.label "Prefiere recibir el mensaje formateado como:">
-<!ENTITY PreferMailFormat.accesskey "b">
+<!ENTITY PreferMailFormat.accesskey "f">
 <!ENTITY PlainText.label "Texto sin formato">
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Desconocido">
 <!ENTITY ScreenName.label "Nombre en pantalla:">
-<!ENTITY ScreenName.accesskey "t">
+<!ENTITY ScreenName.accesskey "b">
 <!ENTITY allowRemoteContent.label "Permitir imágenes remotas.">
-<!ENTITY allowRemoteContent.accesskey "r">
+<!ENTITY allowRemoteContent.accesskey "i">
 <!ENTITY allowRemoteContent.tooltip "En los mensajes HTML es posible incrustar imágenes de orígenes remotos. Abrir tales mensajes abrirá una conexión a ese origen remoto. Esto puede permitir el seguimiento de la lectura del mensaje. Marcar esta casilla permitirá este tipo de imágenes externas incrustadas en los mensajes HTML de este contacto.">
 <!ENTITY WorkPhone.label "Trabajo:">
 <!ENTITY WorkPhone.accesskey "j">
@@ -38,33 +38,38 @@
 <!ENTITY FaxNumber.label "Fax:">
 <!ENTITY FaxNumber.accesskey "x">
 <!ENTITY PagerNumber.label "Buscapersonas:">
-<!ENTITY PagerNumber.accesskey "B">
+<!ENTITY PagerNumber.accesskey "u">
 <!ENTITY CellularNumber.label "Móvil:">
-<!ENTITY CellularNumber.accesskey "M">
+<!ENTITY CellularNumber.accesskey "v">
 <!ENTITY Home.tab "Privado">
 <!ENTITY Home.accesskey "P">
 <!ENTITY HomeAddress.label "Dirección:">
-<!ENTITY HomeAddress.accesskey "r">
+<!ENTITY HomeAddress.accesskey "D">
 <!ENTITY HomeAddress2.label "">
 <!ENTITY HomeAddress2.accesskey "">
 <!ENTITY HomeCity.label "Ciudad:">
 <!ENTITY HomeCity.accesskey "u">
 <!ENTITY HomeState.label "Provincia/estado:">
-<!ENTITY HomeState.accesskey "o">
+<!ENTITY HomeState.accesskey "r">
 <!ENTITY HomeZipCode.label "Código postal / ZIP:">
 <!ENTITY HomeZipCode.accesskey "Z">
 <!ENTITY HomeCountry.label "País:">
-<!ENTITY HomeCountry.accesskey "s">
+<!ENTITY HomeCountry.accesskey "a">
 <!ENTITY HomeWebPage.label "Página web:">
-<!ENTITY HomeWebPage.accesskey "e">
+<!ENTITY HomeWebPage.accesskey "w">
+<!ENTITY Birthday.label "Cumpleaños:">
+<!ENTITY Birthday.accesskey "m">
+<!ENTITY Year.emptytext "Año">
+<!ENTITY Or.value "o">
+<!ENTITY Age.emptytext "Edad">
 <!ENTITY Work.tab "Trabajo">
 <!ENTITY Work.accesskey "T">
 <!ENTITY JobTitle.label "Puesto:">
-<!ENTITY JobTitle.accesskey "u">
+<!ENTITY JobTitle.accesskey "e">
 <!ENTITY Department.label "Departamento:">
-<!ENTITY Department.accesskey "m">
+<!ENTITY Department.accesskey "D">
 <!ENTITY Company.label "Organización:">
-<!ENTITY Company.accesskey "O">
+<!ENTITY Company.accesskey "n">
 <!ENTITY WorkAddress.label "Dirección:">
 <!ENTITY WorkAddress.accesskey "D">
 <!ENTITY WorkAddress2.label "">
@@ -72,20 +77,15 @@
 <!ENTITY WorkCity.label "Ciudad:">
 <!ENTITY WorkCity.accesskey "u">
 <!ENTITY WorkState.label "Provincia/estado:">
-<!ENTITY WorkState.accesskey "S">
+<!ENTITY WorkState.accesskey "r">
 <!ENTITY WorkZipCode.label "Código postal / ZIP:">
 <!ENTITY WorkZipCode.accesskey "Z">
 <!ENTITY WorkCountry.label "País:">
-<!ENTITY WorkCountry.accesskey "P">
+<!ENTITY WorkCountry.accesskey "a">
 <!ENTITY WorkWebPage.label "Página web:">
-<!ENTITY WorkWebPage.accesskey "e">
+<!ENTITY WorkWebPage.accesskey "w">
 <!ENTITY Other.tab "Otros">
 <!ENTITY Other.accesskey "O">
-<!ENTITY Birthday.label "Cumpleaños:">
-<!ENTITY Birthday.accesskey "C">
-<!ENTITY Year.emptytext "Año">
-<!ENTITY Or.value "o">
-<!ENTITY Age.emptytext "Edad">
 <!ENTITY Custom1.label "Personalizado 1:">
 <!ENTITY Custom1.accesskey "1">
 <!ENTITY Custom2.label "Personalizado 2:">
