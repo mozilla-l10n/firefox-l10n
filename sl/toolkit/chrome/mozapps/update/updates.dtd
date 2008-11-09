@@ -9,8 +9,8 @@
 <!ENTITY cancel.label "Prekliči">
 <!ENTITY cancel.accesskey "P">
 
-<!ENTITY noupdatesfound.title "Ni najdenih posodobitev">
-<!ENTITY noupdatesfound.intro "Na voljo ni nobenih posodobitev. &brandShortName; lahko periodično išče posodobitve.">
+<!ENTITY noupdatesfound.title "Trenutno ni posodobitev">
+<!ENTITY noupdatesfound.intro "Na voljo ni nobenih posodobitev. &brandShortName; lahko občasno preveri posodobitve.">
 
 <!ENTITY incompatibleChecking.label "Preverjanje morebitnih težav z vašimi razširitvami in temami, ki jih lahko povzroči ta posodobitev ...">
 <!ENTITY clickHere.label "Kliknite sem za več splošnih podatkov o tej posodobitvi">
