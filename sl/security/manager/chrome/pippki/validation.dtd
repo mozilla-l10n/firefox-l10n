@@ -35,12 +35,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.validation.title "Preverjanje">
-
-<!ENTITY validation.crl.caption "CRL">
-<!ENTITY validation.crl.description "Uporabite upravitelja CRL za upravljanje z zavrnitvenimi seznami certifikatov (CRL), ki so shranjeni v vaši podatkovni bazi certifikatov.">
-<!ENTITY validation.managecrls.button "Upravljaj CRL-je ...">
-<!ENTITY validation.managecrls.accesskey "M">
 <!ENTITY validation.crlmanager.label "Upravljanje CRL-jev">
 <!ENTITY validation.crlmanager.description "Naslednji zavrnitvenimi seznami certifikatov (CRL) so shranjeni v vaši bazi certifikatov:">
 <!ENTITY validation.crlname.label "Ime">
@@ -71,17 +65,3 @@
 <!ENTITY crl.autoupdate.fail.cnt.label "Prejšnje posledično neuspeše posodobitve:">
 <!ENTITY crl.autoupdate.fail.reason.label "Podrobnosti o zadnji neuspešni posodobitvi:">
 <!ENTITY edit.button "Nastavitve">
-
-<!ENTITY validation.ocsp.caption "OCSP">
-<!ENTITY enableOCSP.label "Uporabite Online Certificate Status Protocol (OCSP) za potrditev trenutne veljavnosti certifikatov:">
-<!ENTITY enableOCSP.accesskey "U">
-<!ENTITY certOCSP2.label "Preverite, ali certifikat določa strežnik OCSP">
-<!ENTITY certOCSP2.accesskey "V">
-<!ENTITY proxyOCSP2.label "Vse certifikate preverite z naslednjim strežnikom OCSP:">
-<!ENTITY proxyOCSP2.accesskey "v">
-<!ENTITY serviceURL.label "Storitveni naslov:">
-<!ENTITY serviceURL.accesskey "S">
-<!ENTITY signingCA.label "Podpisnik odgovora:">
-<!ENTITY signingCA.accesskey "R">
-<!ENTITY validation.requireOCSP.description "Ko povezava strežnika OCSP spodleti, obravnavaj certifikat kot neveljaven">
-<!ENTITY validation.requireOCSP.accesskey "W">
