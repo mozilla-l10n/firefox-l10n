@@ -22,9 +22,6 @@
 <!ENTITY printButton.tooltip "Роздрукувати цю сторінку">
 <!ENTITY closeWindow.commandkey "W">
 
-<!ENTITY searchtab.label "Пошук">
-<!ENTITY searchtab.accesskey "о">
-<!ENTITY searchClose.tooltip "Закрити результати пошуку">
 <!ENTITY toctab.label "Зміст">
 <!ENTITY toctab.accesskey "і">
 <!-- LOCALIZATION NOTE :
@@ -52,3 +49,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceBtn.accesskey "н">
 <!ENTITY fullZoomEnlargeBtn.label "Збільшити">
 <!ENTITY fullZoomEnlargeBtn.accesskey "л">
+
+<!ENTITY search.emptytext               "Пошук">
+<!ENTITY searchHeader.label             "Результати пошуку">
