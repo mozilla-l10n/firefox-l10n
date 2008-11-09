@@ -1,0 +1,18 @@
+<!ENTITY restorepage.tabtitle       "Adfer Sesiwn">
+<!ENTITY restorepage.pagetitle      "Hoffech Chi Adfer Eich Sesiwn?">
+<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
+                        you may translate "crash" instead (even though it's IT-speak) -->
+<!ENTITY restorepage.issueDesc      "Mae eich sesiwn &brandShortName; ddiwethaf wedi cau'n annisgwyl. Ymddiheurwn am yr anghyfleustra. Gallwch adfer tabiau a ffenestri eich sesiwn flaenorol, neu ddechrau sesiwn newydd os nad oes angen amdanyn nhw bellach.">
+<!ENTITY restorepage.remedies       "Os bydd &brandShortName; yn cau eto:">
+<!ENTITY restorepage.dueToChrome    "Ceisiwch analluogi unrhyw estyniadau sydd wedi eu hychwanegu'n ddiweddar yn y Rheolwr Ychwanegion.">
+<!ENTITY restorepage.dueToContent   "Ceisiwch adfer eich sesiwn heb unrhyw dudalennau Gwe rydych yn amau y gallen nhw fod yn achosi'r broblem:">
+
+<!ENTITY restorepage.restoreButton  "Adfer Sesiwn Flaenorol">
+<!ENTITY restorepage.restore.access "A">
+<!ENTITY restorepage.cancelButton   "Dechrau Sesiwn Newydd">
+<!ENTITY restorepage.cancel.access  "D">
+
+<!ENTITY restorepage.restoreHeader  "Adfer">
+<!ENTITY restorepage.listHeader     "Ffenestri a Thabiau">
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Ffenestr &#37;S">

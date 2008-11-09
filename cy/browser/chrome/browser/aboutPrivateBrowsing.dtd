@@ -1,0 +1,13 @@
+<!ENTITY privatebrowsingpage.tabtitle                  "Pori Preifat">
+
+<!ENTITY privatebrowsingpage.pagetitle                 "Pori Preifat">
+
+<!ENTITY privatebrowsingpage.issueDesc                 "Ni fydd &brandShortName; yn cofio unrhyw hanes ar gyfer y sesiwn.">
+<!ENTITY privatebrowsingpage.longDesc                  "Ni fydd unrhyw hanes yn cael ei gofio gan &brandShortName; yn ystod y sesiwn pori.  Mae hynny yn cynnwys hanes pori, hanes chwilio, hanes llwytho, hanes ffurflenni gwe, cwcis, a ffeiliau rhyngrywd dros dro.  Er hynny, bydd &brandShortName; yn cadw unrhyw ffeiliau byddwch yn eu llwytho i lawr ac unrhyw nodau tudalen byddwch yn eu creu.">
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Efallai byddwch eisiau clirio eich hanes diweddar hefyd.">
+<!ENTITY privatebrowsingpage.recentHistory.label       "Clirio Hanes Diweddar">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey   "C">
+
+<!ENTITY privatebrowsingpage.howToStopDesc             "I beidio pori'n breifat, dad-diciwch Offer &gt; Pori Preifat.">
+<!ENTITY privatebrowsingpage.footerDesc                "Mwynhewch!">
