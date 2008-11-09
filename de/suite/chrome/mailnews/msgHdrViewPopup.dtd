@@ -46,6 +46,8 @@
 <!ENTITY CreateFilterFrom.accesskey        "F">
 <!ENTITY BlockAddress.label                "Adresse blockieren">
 <!ENTITY BlockAddress.accesskey            "A">
+<!ENTITY copyLinkCmd.label                 "Link-Adresse kopieren">
+<!ENTITY copyLinkCmd.accesskey             "L">
 <!ENTITY CopyMessageId.label               "Nachrichten-ID kopieren">
 <!ENTITY OpenMessageForMsgId.label         "Nachricht für ID öffnen">
 <!ENTITY OpenBrowserWithMsgId.label        "Browser mit Nachrichten-ID öffnen">
