@@ -161,8 +161,8 @@
 <!ENTITY preferencesCmdUnix.label "Sainroghanna">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
-<!ENTITY clearPrivateDataCmd.label "Bánaigh Sonraí Príobháideacha">
-<!ENTITY clearPrivateDataCmd.accesskey "P">
+<!ENTITY clearRecentHistoryCmd.label "Clear Recent History">
+<!ENTITY clearRecentHistoryCmd.accesskey "H">
 
 <!ENTITY privateBrowsingCmd.label "Brabhsáil Phríobháideach">
 <!ENTITY privateBrowsingCmd.accesskey "B">
