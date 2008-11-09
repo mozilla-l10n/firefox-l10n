@@ -10,7 +10,6 @@
         <rdf:li> <rdf:Description nc:name="administrador de certificados" nc:link="glossary.xhtml#certificate_manager"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="administrador de contrase&#241;as" nc:link="glossary.xhtml#password_manager"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="administrador de cookies" nc:link="glossary.xhtml#cookie_manager"/> </rdf:li>
-        <rdf:li> <rdf:Description nc:name="administrador de formularios" nc:link="glossary.xhtml#form_manager"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="algoritmos criptogr&#225;ficos" nc:link="glossary.xhtml#cryptographic_algorithm"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="aplicaci&#243;n auxiliar" nc:link="glossary.xhtml#helper_application"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="asunto" nc:link="glossary.xhtml#subject"/> </rdf:li>

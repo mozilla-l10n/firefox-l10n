@@ -30,11 +30,6 @@
 	 nc:link="using_certs_help.xhtml#about_security_devices_and_modules"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="Form_Manager"
-         nc:name="administrador de formularios"
-	 nc:link="using_priv_help.xhtml#using_the_form_manager"/>
-     </rdf:li>
-     <rdf:li>
        <rdf:Description ID="adding"
          nc:name="a&#241;adir" />
      </rdf:li>
@@ -117,66 +112,6 @@
        <rdf:Description ID="Download_Manager:preferences"
          nc:name="preferencias del administrador de descargas"
 	 nc:link="cs_nav_prefs_navigator.xhtml#downloads"/>
-     </rdf:li></rdf:Seq>
-   </nc:subheadings>
-</rdf:Description>
-
-<rdf:Description about="#Form_Manager">
-   <nc:subheadings>
-     <rdf:Seq><rdf:li>
-       <rdf:Description ID="Form_Manager:encrypting_stored_information"
-         nc:name="cifrar informaci&#243;n guardada"
-	 nc:link="using_priv_help.xhtml#encrypting_stored_sensitive_information"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="Form_Manager:preferences"
-         nc:name="preferencias del administrador de formularios"
-	 nc:link="using_priv_help.xhtml#forms"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="Form_Manager:settings"
-         nc:name="configuraci&#243;n del administrador de formularios"
-	 nc:link="using_priv_help.xhtml#form_settings"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="Form_Manager:using"
-         nc:name="usar el administrador de formularios"
-	 nc:link="using_priv_help.xhtml#using_the_form_manager"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="forms"
-         nc:name="formularios"
-	 nc:link="using_priv_help.xhtml#encrypting_stored_sensitive_information"/>
-     </rdf:li></rdf:Seq>
-   </nc:subheadings>
-</rdf:Description>
-
-<rdf:Description about="#forms">
-   <nc:subheadings>
-     <rdf:Seq><rdf:li>
-       <rdf:Description ID="forms:encrypting_stored_information"
-         nc:name="cifrar informaci&#243;n guardada"
-	 nc:link="using_priv_help.xhtml#encrypting_stored_sensitive_information"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="forms:filling_out_automatically"
-         nc:name="rellenar autom&#225;ticamente"
-	 nc:link="using_priv_help.xhtml#filling_out_forms_automatically"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="forms:preferences"
-         nc:name="preferencias de formularios"
-	 nc:link="using_priv_help.xhtml#forms"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="forms:saving_data"
-         nc:name="guardar datos de formularios"
-	 nc:link="using_priv_help.xhtml#saving_form_data"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="forms:storing_data_from"
-         nc:name="almacenar datos de formularios"
-	 nc:link="using_priv_help.xhtml#managing_stored_form_data"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1742,11 +1677,6 @@
        <rdf:Description ID="preferences:fonts"
          nc:name="preferencias de tipos de letra"
 	 nc:link="cs_nav_prefs_appearance.xhtml#fonts"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="preferences:forms"
-         nc:name="preferencias de formulario"
-	 nc:link="using_priv_help.xhtml#forms"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="preferences:helper_applications"
