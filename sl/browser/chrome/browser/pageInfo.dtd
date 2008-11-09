@@ -37,7 +37,7 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY pageInfoWindow.width "430">
+<!ENTITY pageInfoWindow.width "600">
 <!ENTITY pageInfoWindow.height "500">
 
 <!ENTITY copy.key "C">
@@ -60,8 +60,8 @@
 <!ENTITY generalEncoding "Kodiranje:">
 <!ENTITY generalMetaName "Ime">
 <!ENTITY generalMetaContent "Vsebina">
-<!ENTITY generalSecurityMore "Več">
-<!ENTITY generalSecurityMore.accesskey "V">
+<!ENTITY generalSecurityDetails "Več">
+<!ENTITY generalSecurityDetails.accesskey "V">
 
 <!ENTITY mediaTab "Večpredstavnost">
 <!ENTITY mediaTab.accesskey "M">
