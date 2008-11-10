@@ -4,7 +4,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY deniedPortAccess.title "ਸੁਰੱਖਿਆ ਕਾਰਨਾਂ ਕਰਕੇ ਪੋਰਟ ਪਾਬੰਦੀ">
- <!ENTITY deniedPortAccess.longDesc "[p]ਦਿੱਤੇ ਐਡਰੈੱਸ ਨੇ ਇੱਕ ਪੋਰਟ ਦਿੱਤੀ ਹੈ,(ਜਿਵੇਂ ਕਿ [q]mozilla.org:80[/q] mozilla.org ਲਈ 809) ਜੋ ਕਿ ਆਮ ਕਰਕੇ ਵਰਤੀ ਜਾਦੀ ਹੈ, [em]ਹੋਰ[/em] ਵੈਬ ਝਲਕੀ ਤੋਂ ਬਿਨਾਂ। ਬਰਾਊਜਰ ਨੇ ਤੁਹਾਡੀ ਸੁਰੱਖਿਆ ਲਈ ਬੇਨਤੀ ਨੂੰ ਰੱਦ ਕਰ ਦਿੱਤਾ ਹੈ।[/p]">
+ <!ENTITY deniedPortAccess.longDesc "<p>ਦਿੱਤੇ ਐਡਰੈੱਸ ਨੇ ਇੱਕ ਪੋਰਟ ਦਿੱਤੀ ਹੈ,(ਜਿਵੇਂ ਕਿ <q>mozilla.org:80</q> mozilla.org ਲਈ 809) ਜੋ ਕਿ ਆਮ ਕਰਕੇ ਵਰਤੀ ਜਾਦੀ ਹੈ, <em>ਹੋਰ</em> ਵੈਬ ਝਲਕੀ ਤੋਂ ਬਿਨਾਂ। ਬਰਾਊਜਰ ਨੇ ਤੁਹਾਡੀ ਸੁਰੱਖਿਆ ਲਈ ਬੇਨਤੀ ਨੂੰ ਰੱਦ ਕਰ ਦਿੱਤਾ ਹੈ।</p>">
  
  
 <!ENTITY malformedURI.title "ਗਲਤ ਐਡਰੈੱਸ ਗਲਤੀ">
@@ -14,7 +14,7 @@
 <!ENTITY fileNotFound.longDesc "ਐਡਰੈੱਸ  (URL) ਰਾਹੀਂ ਦਿੱਤੀ ਫਾਇਲ ਲੱਭੀ ਨਹੀਂ ਜਾ ਸਕਦੀ ਹੈ। ਜਾਂਚ ਕਰੋ ਕਿ ਫਾਇਲ ਮੌਜੂਦ ਹੈ ਅਤੇ ਤੁਹਾਡੇ ਕੋਲ ਇਸ ਨੂੰ ਵੇਖਣ ਲਈ ਲੋੜੀਦੇ ਅਧਿਕਾਰ ਹਨ।">
 
 <!ENTITY generic.title "ਮੰਗ ਪੂਰੀ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ">
-<!ENTITY generic.longDesc "[p]ਇਸ ਸਮੱਸਿਆ ਜਾਂ ਗਲਤੀ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਇਸ ਸਮੇਂ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ।[/p]">
+<!ENTITY generic.longDesc "<p>ਇਸ ਸਮੱਸਿਆ ਜਾਂ ਗਲਤੀ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਇਸ ਸਮੇਂ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ।</p>">
 
 <!ENTITY dnsNotFound.title "ਐਡਰੈੱਸ ਨਾ ਲੱਭਣ ਦੀ ਗਲਤੀ">
 <!ENTITY dnsNotFound.longDesc "ਐਡਰੈੱਸ (URL) ਇੱਕ ਪਛਾਣੀ ਸਾਇਟ ਨੂੰ ਨਹੀਂ ਵੇਖਾਉਦਾ ਹੈ ਅਤੇ ਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ। ਇਹ ਐਡਰੈੱਸ ਵਿੱਚ ਗਲਤ ਸ਼ਬਦ-ਜੋੜ ਹੋਣ ਕਰਕੇ ਜਾਂ ਸਿਰਫ ਸਾਇਟ ਮੌਜੂਦ ਨਾ ਹੋਣ ਕਰਕੇ ਹੋ ਸਕਦਾ ਹੈ। ਜੇਕਰ ਇਹ ਯਕੀਨੀ ਹੈ ਕਿ ਐਡਰੈੱਸ ਠੀਕ ਹੈ ਜਾਂ ਜੇਕਰ ਇਹ ਸਮੱਸਿਆ ਕਈ ਸਾਇਟਾਂ ਨਾਲ ਹੈ ਤਾਂ ਇਹ ਤੁਹਾਡੀ ਪ੍ਰਕਾਸੀ ਸੇਵਾਂ (ਜੇਕਰ ਤੁਸੀਂ ਇਸਤੇਮਾਲ ਕਰ ਰਹੇ ਹੋ) ਜਾਂ ਡਾਇਰੈਕਟਰੀ ਨਾਂ ਸੇਵਾ ਖੋਜ ਨਾਲ ਸਮੱਸਿਆ ਕਰਕੇ ਹੈ। ਇਸ ਹਾਲਾਤ ਵਿੱਚ ਤੁਸੀਂ ਸਿਸਟਮ ਦਸਤਾਵੇਜ਼, ਪ੍ਰਬੰਧਕ ਜਾਂ ਇੰਟਰਨੈੱਟ ਸੇਵਾ ਉਪਲੱਬਧ ਕਰਤਾ (ISP) ਤੋਂ ਸਹਾਇਤਾ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦੇ ਹੋ।">
@@ -47,15 +47,15 @@
 <!ENTITY netReset.longDesc "ਸਾਇਟ ਨਾਲ ਸੰਬੰਧ ਅਸਧਾਰਨ ਰੂਪ ਵਿੱਚ ਬੰਦ ਹੋ ਗਿਆ ਹੈ, ਜਦੋਂ ਕਿ ਇੱਕ ਕੁਨੈਕਸ਼ਨ ਨਾਲ ਸੰਪਰਕ ਕੀਤਾ ਗਿਆ ਹੈ ਜਾਂ ਡਾਟਾ ਤਬਦੀਲ ਕੀਤਾ ਗਿਆ ਸੀ। ਇਹ ਸਾਇਟ ਤੇ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਵਿੱਚ ਇੱਕ ਨੈੱਟਵਰਕ ਗਲਤੀ ਹੋਣ ਕਰਕੇ ਹੋਇਆ ਹੈ। ਜੇਕਰ ਸਮੱਸਿਆ ਪਹਿਲਾਂ ਵੀ ਮੌਜੂਦ ਸੀ ਤਾਂ ਆਪਣੇ ਸਿਸਟਮ ਡੌਕੂਮੈਂਟਰ, ਐਡਮਿਨ ਜਾਂ ਇੰਟਰਨੈੱਟ ਸੇਵਾ ਉਪਲੱਬਧਕਰਤਾ (ISP) ਨਾਲ ਸਹਾਇਤਾ ਲਈ ਸੰਪਰਕ ਕਰੋ।">
 
 <!ENTITY netInterrupt.title "ਡਾਟਾ ਸੰਚਾਰ ਦੌਰਾਨ ਗਲਤੀ">
- <!ENTITY netInterrupt.longDesc "[p]ਬਰਾਊਜ਼ਰ ਠੀਕ ਤਰ੍ਹਾਂ ਕੁਨੈਕਟ ਹੋ ਗਿਆ ਸੀ, ਪਰ ਜਾਣਕਾਰੀ ਟਰਾਂਸਫਰ ਹੋਣ ਦੌਰਾਨ ਕੁਨੈਕਟ ਖਤਮ ਹੋ ਗਿਆ। ਬਾਅਦ ਵਿੱਚ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।[/p][ul][li]ਕੀ ਤੁਸੀਂ ਹੋਰ ਸਾਇਟਾਂ ਖੋਲ੍ਹ ਸਕਦੇ ਹੋ? ਕੰਪਿਊਟਰ ਦਾ ਨੈੱਟਵਰਕ ਕੁਨੈਕਸ਼ਨ ਜਾਂਚੋ[/li][li]ਹਾਲੇ ਵੀ ਸਮੱਸਿਆ ਹੈ? ਮੱਦਦ ਲਈ ਆਪਣੇ ਨੈੱਟਵਰਕ ਐਡਮਿਨਸਟੇਟਰ ਜਾਂ ਇੰਟਰਨੈੱਟ ਪਰੋਵਾਇਡਰ ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਜੀ।[/li][/ul]">
+ <!ENTITY netInterrupt.longDesc "<p>ਬਰਾਊਜ਼ਰ ਠੀਕ ਤਰ੍ਹਾਂ ਕੁਨੈਕਟ ਹੋ ਗਿਆ ਸੀ, ਪਰ ਜਾਣਕਾਰੀ ਟਰਾਂਸਫਰ ਹੋਣ ਦੌਰਾਨ ਕੁਨੈਕਟ ਖਤਮ ਹੋ ਗਿਆ। ਬਾਅਦ ਵਿੱਚ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।</p><ul><li>ਕੀ ਤੁਸੀਂ ਹੋਰ ਸਾਇਟਾਂ ਖੋਲ੍ਹ ਸਕਦੇ ਹੋ? ਕੰਪਿਊਟਰ ਦਾ ਨੈੱਟਵਰਕ ਕੁਨੈਕਸ਼ਨ ਜਾਂਚੋ।</li><li>ਹਾਲੇ ਵੀ ਸਮੱਸਿਆ ਹੈ? ਮੱਦਦ ਲਈ ਆਪਣੇ ਨੈੱਟਵਰਕ ਐਡਮਿਨਸਟੇਟਰ ਜਾਂ ਇੰਟਰਨੈੱਟ ਪਰੋਵਾਇਡਰ ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਜੀ।</li></ul>">
  
 <!ENTITY netOffline.title "ਆਫਲਾਇਨ ਗਲਤੀ">
 <!ENTITY netOffline.longDesc "ਝਲਕਾਰਾ ਇਸ ਸਮੇਂ ਆਫਲਾਇਨ ਹੈ ਅਤੇ ਲੋੜੀਦੀ ਸਾਇਟ ਨਾਲ ਜੁੜ ਨਹੀਂ ਸਕਦਾ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਮੁੜ ਕੋਸ਼ਿਸ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਆਪਣੇ ਬਰਾਊਜਰ ਨੂੰ ਆਨਲਾਇਨ ਮੋਡ ਵਿੱਚ ਤਬਦੀਲ ਕਰੋ।">
 <!ENTITY proxyConnectFailure.title "ਪਰਾਕਸੀ ਸਰਵਰ ਕੁਨੈਕਸ਼ਨ ਤੋਂ ਇਨਕਾਰ">
-<!ENTITY proxyConnectFailure.longDesc "[p]The browser is configured to use a proxy server, but the proxy refused a connection.[/p][ul][li]Is the browser's proxy configuration correct? Check the settings and try again.[/li][li]Does the proxy service allow connections from this network?[/li][li]Still having trouble? Consult your network administrator or Internet provider for assistance.[/li][/ul]">
+<!ENTITY proxyConnectFailure.longDesc "<p>The browser is configured to use a proxy server, but the proxy refused a connection.</p><ul><li>Is the browser's proxy configuration correct? Check the settings and try again.</li><li>Does the proxy service allow connections from this network?</li><li>Still having trouble? Consult your network administrator or Internet provider for assistance.</li></ul>">
  
 <!ENTITY proxyResolveFailure.title "ਪਰਾਕਸੀ ਸਰਵਰ ਨਹੀਂ ਮਿਲਿਆ">
-<!ENTITY proxyResolveFailure.longDesc "[p]The browser is configured to use a proxy server, but the proxy could not be found.[/p][ul][li]Is the browser's proxy configuration correct? Check the settings and try again.[/li][li]Is the computer connected to an active network?[/li][li]Still having trouble? Consult your network administrator or Internet provider for assistance.[/li][/ul]">
+<!ENTITY proxyResolveFailure.longDesc "<p>The browser is configured to use a proxy server, but the proxy could not be found.</p><ul><li>Is the browser's proxy configuration correct? Check the settings and try again.</li><li>Is the computer connected to an active network?</li><li>Still having trouble? Consult your network administrator or Internet provider for assistance.</li></ul>">
 
 <!ENTITY nssFailure2.title "ਸੁਰੱਖਿਅਤ ਕੁਨੈਕਸ਼ਨ ਗਲਤੀ">
 <!ENTITY nssFailure2.longDesc "<p>ਪੇਜ਼, ਜੋ ਕਿ ਤੁਸੀਂ ਵੇਖਣ ਦੀ ਟਰਾਈ ਕਰ ਰਹੋ ਹੋ, ਵੇਖਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ, ਕਿਉਂਕਿ ਮਿਲੇ ਡਾਟੇ ਦੀ ਪਰਮਾਣਕਿਤਾ ਜਾਂਚੀਂ ਨਹੀਂ ਜਾ ਸਕੀ ਹੈ।</p><ul><li>ਇਹ ਸਮੱਸਿਆ ਲਈ ਵੈੱਬ ਸਾਇਟ ਦੇ ਮਾਲਕਾਂ ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਜੀ।</li></ul>">

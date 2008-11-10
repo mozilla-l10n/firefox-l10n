@@ -57,7 +57,7 @@
 <!ENTITY certmgr.detail.prettyprint_tab.title "ਵੇਰਵਾ">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 
-<!ENTITY certmgr.pending.label                "Currently verifying certificate...">
+<!ENTITY certmgr.pending.label                "ਹੁਣ ਸਰਟੀਫਿਕੇਟ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ...">
 <!ENTITY certmgr.subjectinfo.label "ਇਸ ਨੂੰ ਜਾਰੀ">
 <!ENTITY certmgr.issuerinfo.label "ਇਸ ਵਲੋਂ ਜਾਰੀ">
 <!ENTITY certmgr.validity.label "ਜਾਇਜ" >
@@ -135,7 +135,7 @@
 <!ENTITY exceptionMgr.title                   "ਸੁਰੱਖਿਆ ਛੋਟਾ ਸ਼ਾਮਲ">
 <!ENTITY exceptionMgr.exceptionButton         "ਸੁਰੱਖਿਆ ਛੋਟ ਪੁਸ਼ਟੀ">
 <!ENTITY exceptionMgr.exceptionButtonAccess   "C">
-<!ENTITY exceptionMgr.supplementalWarning     "Legitimate banks, stores, and other public sites will not ask you to do this.">
+<!ENTITY exceptionMgr.supplementalWarning     "ਉੱਚਤ ਬੈਕਾਂ, ਸਟੋਰ ਅਤੇ ਹੋਰ ਪਬਲਿਕ ਸਾਈਟਾਂ ਤੁਹਾਨੂੰ ਇਹ ਕਰਨ ਲਈ ਨਹੀਂ ਪੁੱਛਣਗੀਆਂ।">
 <!ENTITY exceptionMgr.certlocation.caption2   "ਸਰਵਰ">
 <!ENTITY exceptionMgr.certlocation.url        "ਟਿਕਾਣਾ:">
 <!ENTITY exceptionMgr.certlocation.download   "ਸਰਟੀਫਿਕੇਟ ਲਵੋ">

@@ -35,13 +35,13 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  validation.crlmanager.label             "Manage CRLs">
+<!ENTITY  validation.crlmanager.label             "CRL ਪਰਬੰਧ">
 <!ENTITY  validation.crlmanager.description       "These Certificate Revocation Lists (CRL) are stored in your certificate database:">
 <!ENTITY  validation.crlname.label                "ਨਾਂ">
-<!ENTITY  validation.crllastupdate.label          "Last Update">
-<!ENTITY  validation.crlnextupdate.label          "Next Update">
-<!ENTITY  validation.crlautoupdateenabled.label   "Auto Update">
-<!ENTITY  validation.crlautoupdatestatus.label    "Auto Update Status">
+<!ENTITY  validation.crllastupdate.label          "ਆਖਰੀ ਅੱਪਡੇਟ">
+<!ENTITY  validation.crlnextupdate.label          "ਅਗਲਾ ਅੱਪਡੇਟ">
+<!ENTITY  validation.crlautoupdateenabled.label   "ਆਟੋ ਅੱਪਡੇਟ">
+<!ENTITY  validation.crlautoupdatestatus.label    "ਆਟੋ ਅੱਪਡੇਟ ਹਾਲਤ">
 <!ENTITY  validation.deletecrl.label              "ਹਟਾਓ">
 <!ENTITY  validation.deletecrl.accesskey          "D">
 <!ENTITY  validation.updatecrl.label              "ਅੱਪਡੇਟ">
@@ -59,9 +59,9 @@
 <!ENTITY  crl.import.status.title                 "CRL Import Status">
 <!ENTITY  crl.import.success.message              "The Certificate Revocation List (CRL) was successfully imported.">
 <!ENTITY  crl.issuer.label                        "CRL ਜਾਰੀ ਕਰਤਾ:">
-<!ENTITY  crl.issuer.org.label                    "Organization: ">
+<!ENTITY  crl.issuer.org.label                    "ਸੰਗਠਨ: ">
 <!ENTITY  crl.issuer.orgunit.label                "ਯੂਨਿਟ: ">
-<!ENTITY  crl.import.nextupdate.label             "Next Update On: ">
+<!ENTITY  crl.import.nextupdate.label             "ਅਗਲਾ ਅੱਪਡੇਟ: ">
 <!ENTITY  crl.autoupdate.fail.cnt.label           "Previous Consecutive Update Failures: ">
-<!ENTITY  crl.autoupdate.fail.reason.label        "Details of Last Update Failure: ">
+<!ENTITY  crl.autoupdate.fail.reason.label        "ਆਖਰੀ ਅੱਪਡੇਟ ਫੇਲ੍ਹ ਦਾ ਵੇਰਵਾ: ">
 <!ENTITY  edit.button                             "ਸੈਟਿੰਗ">

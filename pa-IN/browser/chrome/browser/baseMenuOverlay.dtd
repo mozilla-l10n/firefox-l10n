@@ -15,7 +15,7 @@
 <!ENTITY helpContents.label       "ਮੱਦਦ ਸਮੱਗਰੀ">
 <!ENTITY helpContents.accesskey   "p">
 <!ENTITY helpContentsMac.label    "&brandShortName; - ਮੱਦਦ">
-<!ENTITY helpForIEUsers.label     "Internet Explorer ਯੂਜ਼ਰਾਂ ਲਈ">
+<!ENTITY helpForIEUsers.label     "ਇੰਟਰਨੈੱਟ ਐਕਸਪਲੋਰਰ ਯੂਜ਼ਰਾਂ ਲਈ">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey      "VK_F1">
 <!ENTITY openHelpMac.commandkey   "VK_HELP">
