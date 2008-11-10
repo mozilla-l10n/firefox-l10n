@@ -1,0 +1,10 @@
+<!ENTITY blocklist.title             "యాడ్-ఆన్సు సమస్యకు కారణంకావచ్చు">
+<!ENTITY blocklist.style             "width: 45em; height: 30em">
+<!ENTITY blocklist.summary           "ఈ క్రింది యాడు-ఆన్సు స్థరత్వముకు లేదా రక్షణ సమస్యలకు కారణంకావచ్చని &brandShortName; నిర్ధారించింది:">
+<!ENTITY blocklist.softblocked       "మీ రక్షణకొరకు, ఈ యాడు-ఆన్సును అచేతనపరచి పునఃప్రారంభించమని సిఫార్సు చేయడమైనది.">
+<!ENTITY blocklist.hardblocked       "ఈ యాడు-ఆన్సు స్థరత్వముకు లేదా రక్షణకు సమస్యనిచ్చు అధిక ఇబ్బందులను కలిగివున్నాయి మరియు బ్లాక్‌చేయబడినాయి, అయితే వాటిని పూర్తిగా అచేతనపరచుటకు పునఃప్రారంభము అవసరము.">
+<!ENTITY blocklist.softandhard       "స్థరత్వమునకు లేదా రక్షణకు సమస్యనిచ్చు అధిక ఇబ్బందులు కలిగివున్న యాడు-ఆన్సు బ్లాక్‌చేయబడినవి. ఇతరాలు తక్కువ ఇబ్బంది కలవి, అయినా వాటిని అచేతనపరిచి పునఃప్రారంభించుట సిఫార్సు చేయబడింది.">
+<!ENTITY blocklist.moreinfo          "ఎక్కువ సమాచరము">
+
+<!ENTITY blocklist.accept.label      "&brandShortName; పునఃప్రారంభించుము">
+<!ENTITY blocklist.accept.accesskey  "R">

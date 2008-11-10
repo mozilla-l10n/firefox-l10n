@@ -1,0 +1,18 @@
+<!ENTITY restorepage.tabtitle       "సభను తిరిగివుంచు">
+<!ENTITY restorepage.pagetitle      "మీ సంభను తిరిగివుంచాలని అనుకొనుచున్నారా?">
+<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
+                        you may translate "crash" instead (even though it's IT-speak) -->
+<!ENTITY restorepage.issueDesc      "&brandShortName; యొక్క మునుపటి సభ అనుకోకుండా మూయబడింది. అసౌకర్యానికి చింతుస్తున్నాము. మీరు మీ మునుపటి సభనుండి టాబ్లను మరియు విండోలను తిరిగివుంచుకోగలరు, లేదా అవి అవసరము లేకపోతే కొత్త సభను ప్రారంభించవచ్చు.">
+<!ENTITY restorepage.remedies       "&brandShortName; తరుచుగా మూయబడుతుంటే:">
+<!ENTITY restorepage.dueToChrome    "యాడ్-ఆన్సు నిర్వాహికనందు యిటీవల జతపర్చిన పొడిగింపులను అచేతనపరచి ప్రయత్నించుము.">
+<!ENTITY restorepage.dueToContent   "సమస్యకు కారణమనుకొనుచున్న వెబ్ పేజీలు లేకుండాచూసి సభను తిరిగివుంచి ప్రయత్నించండి.:">
+
+<!ENTITY restorepage.restoreButton  "మునుపటి సభను తిరిగివుంచండి">
+<!ENTITY restorepage.restore.access "R">
+<!ENTITY restorepage.cancelButton   "కొత్త సభను ప్రారంభించండి">
+<!ENTITY restorepage.cancel.access  "S">
+
+<!ENTITY restorepage.restoreHeader  "తిరిగివుంచుము">
+<!ENTITY restorepage.listHeader     "విండోలు మరియు టాబ్లు">
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "విండో &#37;S">

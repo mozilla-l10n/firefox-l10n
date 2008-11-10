@@ -1,0 +1,66 @@
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.pagetitle       "about:rights">
+<!ENTITY rights.intro-header    "మీ హక్కుల గురించి">
+<!ENTITY rights.intro "&brandFullName; అనునది ఉచిత మరియు ఓపెన్ సోర్సు సాఫ్టువేరు, యిది ప్రపంచం మొత్తంనుండి వేలకొలది సమూహసభ్యుల చేత నిర్మించబడింది. మీరు తెలుసుకొవలిసిన మరికొన్ని విషయాలువున్నాయి:">
+
+<!-- Note on pointa / pointb / pointc form:
+     These points each have an embedded link in the HTML, so each point is
+     split into chunks for text before the link, the link text, and the text
+     after the link. If a localized grammar doesn't need the before or after
+     chunk, it can be left blank.
+
+     Also note the leading/trailing whitespace in strings here, which is
+     deliberate for formatting around the embedded links. -->
+<!ENTITY rights.intro-point1a "&brandShortName; అనునది ఈ క్రింది  నియమాలకు లోబడి మీకు అందుబాటులో వుటుంది">
+<!ENTITY rights.intro-point1b "మొజిల్లా ప్రజా లైసెన్సు">
+<!ENTITY rights.intro-point1c ". దీనర్ధం మీరు &brandShortName;ను వుపయోగించవచ్చు, నకలుతీయవచ్చు మరియు యితరులకు పంపిణీ చేయవచ్చు. మీరు మీ అవసరాలకు తగినట్లు  &brandShortName; యొక్క సోర్సు కోడ్‌ను సవరించుకోవచ్చు. అలా  సవరించినదానిని పంపిణీ చేసుకొనే హక్కును కూడా మీకు మొజిల్లా ప్రజా లైసెన్సు యిస్తుంది. ">
+
+<!ENTITY rights.intro-point2a "మొజిల్లా  మరియు ఫైరుఫాక్సు వ్యాపారగుర్తులకు లేదా చిహ్నాలకు మొజిల్లా యెటువంటి హక్కులను యివ్వదు. వ్యాపారగుర్తుల గురించి యితర సమాచారము మీకు ">
+<!ENTITY rights.intro-point2b "యిచట">
+<!ENTITY rights.intro-point2c "దొరుకుతుంది.">
+
+<!-- point 3 text for official branded builds -->
+<!ENTITY rights.intro-point3a "&vendorShortName; యొక్క వుత్పత్తులకు గోప్యతా విధానములు">
+<!ENTITY rights.intro-point3b "యిచట">
+<!ENTITY rights.intro-point3c "దొరుకుతాయి.">
+
+<!-- point 3 text for unbranded builds -->
+<!ENTITY rights.intro-point3-unbranded "ఈ వుత్పత్తికి ఆపాదించబడు ఏ గోప్యతా విధానాలైనా యిక్కడ జాబితాచేయాలి.">
+
+<!-- point 4 text for official branded builds -->
+<!ENTITY rights.intro-point4a "సురక్షితఅన్వేషణ సేవవంటి, ఐచ్చిక వెబ్ సైటు సమాచార సేవలనుకూడా &brandShortName; అందిస్తుంది; ఏమైనప్పటికి, అవి 100&#37; ఖచ్చితమైన లేదా దోషములేనివని మనము హామీ ఇవ్వలేము. సేవలను యెలా అచేతనము చేయాలి వంటి సమాచారముగురించి, ఎక్కువ వివరములు">
+<!ENTITY rights.intro-point4b "సేవా నియమాలనందు">
+<!ENTITY rights.intro-point4c "వుంటాయి.">
+
+<!-- point 4 text for unbranded builds -->
+<!ENTITY rights.intro-point4a-unbranded "ఈ వుత్పత్తి వెబ్ సేవలనుకూడా చేర్చివుంచితే, ఆపాదించదగు ఏ సేవా నియమాలైనా">
+<!ENTITY rights.intro-point4b-unbranded "వెబా సైటు సేవలు">
+<!ENTITY rights.intro-point4c-unbranded " విభాగానికి వుండాలి.">
+
+<!ENTITY rights.webservices-header "&brandFullName; వెబ్ సైటు సేవలు">
+
+<!-- Note that this paragraph references a couple of entities from
+     preferences/security.dtd, so that we can refer to text the user sees in
+     the UI, without this page being forgotten every time those strings are
+     updated.  -->
+<!-- intro paragraph for branded builds -->
+<!ENTITY rights.webservices-a "&brandFullName; వెబ్ సైటు సమాచార సేవలను వుపయోగిస్తుంది (&quot;Services&quot;),  సురక్షితఅన్వేషణ సేవవంటిది, ఆవి ఈ క్రింద వివరించినవిధంగా ఈ &brandShortName; యొక్క బైనరీ వర్షన్‌తో అందుబాటులో వుంటాయి.  క్రింద ఆమోదించలేని సేవలను లేదా నియమాలను మీరు వుపయోగించాలని కోరుకోకపోతే, మీరు సురక్షితఅన్వేషణ సేవను అనువర్తన అభీష్టాల టాబ్‌ను తెరచి అచేతనం చేయవచ్చు, దానికొరకు ">
+<!ENTITY rights.webservices-b "రక్షణ">
+<!ENTITY rights.webservices-c " విభాగమును ఎంపికచేయాలి, మరియు  &quot;&blockAttackSites.label;&quot;కు మరియు &quot;&blockWebForgeries.label;&quot;కు ఐచ్చికాలను
+అన్‌చెక్ చేయుము.">
+
+<!-- intro paragraph for unbranded builds -->
+<!ENTITY rights.webservices-unbranded "An overview of the web site services the product incorporates, along with instructions on how to disable them, if applicable, should be included here.">
+
+<!-- point 1 text for unbranded builds -->
+<!ENTITY rights.webservices-term1-unbranded "Any applicable service terms for this product should be listed here.">
+
+<!-- points 1-7 text for branded builds -->
+<!ENTITY rights.webservices-term1 "&vendorShortName; and its contributors, licensors and partners work to provide the most accurate and up-to-date phishing and malware information. However, they cannot guarantee that this information is comprehensive and error-free: some risky sites may not be identified and some safe sites may be identified in error.">
+<!ENTITY rights.webservices-term2 "&vendorShortName; may discontinue or change the Services at its discretion.">
+<!ENTITY rights.webservices-term3 "You are welcome to use these Services with the accompanying version of &brandShortName;, and you have all the rights necessary to do so.  &vendorShortName; and its licensors reserve all other rights in the Services.  These terms are not intended to limit any rights granted under open source licenses applicable to &brandShortName; and to corresponding source code versions of &brandShortName;.">
+<!ENTITY rights.webservices-term4 "The Services are provided &quot;as-is.&quot;  &vendorShortName;, its contributors, licensors, and distributors, disclaim all warranties, whether express or implied, including without limitation, warranties that the Services are merchantable and fit for your particular purposes.  You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.">
+<!ENTITY rights.webservices-term5 "Except as required by law, &vendorShortName;, its contributors, licensors, and distributors will not be liable for any indirect, special, incidental, consequential, punitive, or exemplary damages arising out of or in any way relating to the use of &brandShortName; and the Services.  The collective liability under these terms will not exceed $500 (five hundred dollars). Some jurisdictions do not allow the exclusion or limitation of certain damages, so this exclusion and limitation may not apply to you.">
+<!ENTITY rights.webservices-term6 "&vendorShortName; may update these terms as necessary from time to time. These terms may not be modified or cancelled without &vendorShortName;'s written agreement.">
+<!ENTITY rights.webservices-term7 "These terms are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.">
