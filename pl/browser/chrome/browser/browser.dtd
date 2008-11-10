@@ -166,8 +166,8 @@
 <!ENTITY preferencesCmdUnix.label       "Preferencje">
 <!ENTITY preferencesCmdUnix.accesskey   "r"> 
 
-<!ENTITY clearPrivateDataCmd.label            "Wyczyść dane prywatne">
-<!ENTITY clearPrivateDataCmd.accesskey        "W">
+<!ENTITY clearRecentHistoryCmd.label     "Wyczyść historię przeglądania">
+<!ENTITY clearRecentHistoryCmd.accesskey "W">
 
 <!ENTITY viewMenu.label "Widok" >
 <!ENTITY viewMenu.accesskey "W" >

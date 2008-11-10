@@ -1,22 +1,36 @@
-<!ENTITY sanitizeDialog.title         "Czyszczenie danych prywatnych">
-<!ENTITY window.width                 "30em">
+<!ENTITY sanitizePrefs.title          "Czyszczenie danych prywatnych">
+<!ENTITY sanitizeDialog2.title        "Wyczyść historię przeglądania">
 
 <!ENTITY sanitizeItems.label          "Wyczyść następujące elementy:">
-<!ENTITY clearDataSettings.label      "Podczas czyszczenia danych prywatnych &brandShortName; ma usunąć:">
+<!ENTITY clearDataSettings2.label     "Podczas zamykania programu &brandShortName; powinny zostać usunięte następujące elementy:">
 
-<!ENTITY itemHistory.label            "historię przeglądanych stron">
-<!ENTITY itemHistory.accesskey        "h">  
-<!ENTITY itemFormSearchHistory.label           "dane formularzy i historię wyszukiwania">
-<!ENTITY itemFormSearchHistory.accesskey       "f">
+<!ENTITY clearDuration.label          "Usuń ">
+<!ENTITY clearDuration.lastHour       "z ostatniej godziny">
+<!ENTITY clearDuration.last2Hours     "z ostatnich 2 godzin">
+<!ENTITY clearDuration.last4Hours     "z ostatnich 4 godzin">
+<!ENTITY clearDuration.today          "historię z dzisiaj">
+<!ENTITY clearDuration.everything     "całą historię">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages that require it. -->
+<!ENTITY clearDuration.suffix         "">
+
+<!ENTITY historySection.label         "Historia">
+<!ENTITY dataSection.label            "Dane">
+
+<!ENTITY itemVisitedPages.label       "historię przeglądanych stron">
+<!ENTITY itemVisitedPages.accesskey   "h">
+<!ENTITY itemFormSearchEntries.label  "dane formularzy i historię wyszukiwania">
+<!ENTITY itemFormSearchEntries.accesskey "f">
 <!ENTITY itemPasswords.label          "zapamiętane hasła">
 <!ENTITY itemPasswords.accesskey      "z">     
 <!ENTITY itemCookies.label            "ciasteczka">
 <!ENTITY itemCookies.accesskey        "c">  
-<!ENTITY itemCache.label              "pamięć podręczną">
-<!ENTITY itemCache.accesskey          "p">
+<!ENTITY itemWebCache.label           "pamięć podręczną"><!-- fuzzy, było "Web Cache" -->
+<!ENTITY itemWebCache.accesskey       "p">
 <!ENTITY itemOfflineApps.label        "dane witryn trybu offline">
 <!ENTITY itemOfflineApps.accesskey    "d">
-<!ENTITY itemDownloads.label          "historię pobieranych plików">
-<!ENTITY itemDownloads.accesskey      "b">
+<!ENTITY itemDownloadList.label       "listę pobieranych plików">
+<!ENTITY itemDownloadList.accesskey   "b">
 <!ENTITY itemActiveLogins.label       "aktywne zalogowania">
 <!ENTITY itemActiveLogins.accesskey   "a">
+
+<!ENTITY column.width                 "14em">
