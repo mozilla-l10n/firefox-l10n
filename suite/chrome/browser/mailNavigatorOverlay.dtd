@@ -14,6 +14,10 @@
 <!ENTITY contextSendThisLink.accesskey   "g">
 <!ENTITY contextSendImage.label          "Enviar imagem…">
 <!ENTITY contextSendImage.accesskey      "n">
+<!ENTITY contextSendVideo.label          "Enviar vídeo…">
+<!ENTITY contextSendVideo.accesskey      "i">
+<!ENTITY contextSendAudio.label          "Enviar áudio…">
+<!ENTITY contextSendAudio.accesskey      "i">
 <!ENTITY contextSendFrame.label          "Enviar Frame…">
 <!ENTITY contextSendFrame.accesskey      "v">
 
