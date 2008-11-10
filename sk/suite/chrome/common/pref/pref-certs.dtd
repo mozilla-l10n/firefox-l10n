@@ -36,8 +36,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY resetsettings.label      "Obnoviť pôvodné nastavenia">
-<!ENTITY resetpreferences.label   "Obnoviť nastavenia…">
 <!ENTITY managecerts.caption      "Správa certifikátov">
 <!ENTITY managecerts.text         "Použite tohto Správcu certifikátov na správu svojich vlastných certifikátov, ako aj certifikátov iných ľudí a certifikačných autorít.">
 <!ENTITY managecerts.button       "Správa certifikátov…">

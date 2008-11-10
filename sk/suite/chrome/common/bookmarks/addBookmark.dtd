@@ -44,7 +44,6 @@
 <!ENTITY shortcutURL.label          "Kľúčové slovo:">
 <!ENTITY shortcutURL.accesskey      "K">
 <!ENTITY destination.label          "Cieľové umiestnenie:">
-<!ENTITY destination.accesskey      "C">
 <!ENTITY newFolder.label            "Nový priečinok…">
 <!ENTITY newFolder.accesskey        "o">
 <!ENTITY addGroup.label             "Pridať skupinu záložiek medzi záložky">

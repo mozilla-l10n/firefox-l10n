@@ -36,18 +36,13 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY search.button.label      "Hľadať">
-<!ENTITY search.results.tab       "Použiť">
-<!ENTITY search.advanced.tab      "Nastavenia pre ">
 <!ENTITY allengines.label         "Všetky moduly">
 <!ENTITY within.label             "v">
 <!ENTITY using.label              "použitím">
 <!ENTITY choose.label             "Vyberte vyhľadávacie moduly a kliknite na tlačidlo Hľadať">
 <!ENTITY results.label            "Výsledky vyhľadávania">
 <!ENTITY engine.column.label      "Vyhľadávacie moduly">
-<!ENTITY checkbox.column.label    "Použiť">
-<!ENTITY stop.button.label        "Zastaviť">
 <!ENTITY customize.menuitem.label "Upraviť kategórie…">
-<!ENTITY savesearch.button.label  "Pridať vyhľadávanie medzi záložky">
 <!ENTITY next.button.label        "Ďalšie">
 <!ENTITY previous.button.label    "Predchádzajúce">
 <!ENTITY next.button.tooltip      "Zobrazí ďalšie výsledky vyhľadávania">

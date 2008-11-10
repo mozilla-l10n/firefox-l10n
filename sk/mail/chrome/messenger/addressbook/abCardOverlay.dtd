@@ -58,13 +58,13 @@
 <!ENTITY NameField1.label               "Meno:">
 <!ENTITY NameField1.accesskey           "M">
 <!ENTITY NameField2.label               "Priezvisko:">
-<!ENTITY NameField2.accesskey           "v">
+<!ENTITY NameField2.accesskey           "P">
 <!ENTITY PhoneticField1.label           "Výslovnosť:">
 <!ENTITY PhoneticField2.label           "Výslovnosť:">
 <!ENTITY DisplayName.label              "Zobrazované meno:">
 <!ENTITY DisplayName.accesskey          "a">
 <!ENTITY NickName.label                 "Prezývka:">
-<!ENTITY NickName.accesskey             "P">
+<!ENTITY NickName.accesskey             "v">
 <!ENTITY Internet.box                   "Internet">
 <!ENTITY PrimaryEmail.label             "E-mailová adresa:">
 <!ENTITY PrimaryEmail.accesskey         "E">
@@ -113,6 +113,11 @@ načítavanie externých obrázkov v správach vo formáte HTML.">
 <!ENTITY HomeCountry.accesskey          "n">
 <!ENTITY HomeWebPage.label              "Webová stránka:">
 <!ENTITY HomeWebPage.accesskey          "W">
+<!ENTITY Birthday.label                 "Dátum narodenia:">
+<!ENTITY Birthday.accesskey             "D">
+<!ENTITY Year.emptytext                 "Rok">
+<!ENTITY Or.value                       "alebo">
+<!ENTITY Age.emptytext                  "vek">
 
 <!ENTITY Work.tab                       "Zamestnanie">
 <!ENTITY Work.accesskey                 "Z">
@@ -139,11 +144,6 @@ načítavanie externých obrázkov v správach vo formáte HTML.">
 
 <!ENTITY Other.tab                      "Ostatné">
 <!ENTITY Other.accesskey                "O">
-<!ENTITY Birthday.label                 "Dátum narodenia:">
-<!ENTITY Birthday.accesskey             "D">
-<!ENTITY Year.emptytext                 "Rok">
-<!ENTITY Or.value                       "alebo">
-<!ENTITY Age.emptytext                  "vek">
 <!ENTITY Custom1.label                  "Ostatné 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Ostatné 2:">

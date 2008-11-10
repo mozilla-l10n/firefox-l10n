@@ -68,7 +68,6 @@
 <!ENTITY  formAction            "Akcia formulára">
 <!ENTITY  formMethod            "Metóda">
 <!ENTITY  formName              "Názov">
-<!ENTITY  formNo                "č.">
 <!ENTITY  formEncoding          "Kódovanie:">
 <!ENTITY  formTarget            "Cieľ:">
 <!ENTITY  formFields            "Polia:">

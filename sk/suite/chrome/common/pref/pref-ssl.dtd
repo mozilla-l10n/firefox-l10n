@@ -55,8 +55,6 @@
 <!ENTITY warn.insecurepost.accesskey        "o">
 <!ENTITY warn.leavingsecure                 "opustí zašifrovanú stránku">
 <!ENTITY warn.leavingsecure.accesskey       "u">
-<!ENTITY warn.secureredirect                "bude presmerovaný z jednej zašifrovanej stránky na inú">
-<!ENTITY warn.secureredirecttoinsecure      "bude presmerovaný zo zašifrovanej stránky na nezašifrovanú">
 <!ENTITY warn.viewmixed                     "zobrazí stránku so zmiešaným zašifrovaným/nezašifrovaným obsahom">
 <!ENTITY warn.viewmixed.accesskey           "m">
 

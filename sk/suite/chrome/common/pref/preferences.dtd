@@ -9,14 +9,10 @@
 <!ENTITY colors.label "Farby">
 <!ENTITY navigator.label "Prehliadač">
 <!ENTITY history.label "História">
-<!ENTITY bidi.label "Nastavenia Bidi">
 <!ENTITY languages.label "Jazyky">
 <!ENTITY applications.label "Pomocné aplikácie">
 <!ENTITY locationBar.label "Panel Adresa">
 <!ENTITY tabWindows.label "Prehliadanie na kartách">
-<!ENTITY compose.label "Composer">
-<!ENTITY editing.label "Nové stránky">
-<!ENTITY publish.label "Publikovanie">
 <!ENTITY offline.label "Režim Offline">
 <!ENTITY security.label "Súkromie a bezpečnosť">
 <!ENTITY cookies.label "Cookies">
