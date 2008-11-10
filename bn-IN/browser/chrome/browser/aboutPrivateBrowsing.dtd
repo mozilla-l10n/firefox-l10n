@@ -1,6 +1,6 @@
 <!ENTITY privatebrowsingpage.tabtitle                  "ব্যক্তিগত ব্রাউজিং">
 
-<!ENTITY privatebrowsingpage.pagetitle                 "ব্যক্তিগত ব্রাউজিংয়ের সুবিধা"">
+<!ENTITY privatebrowsingpage.pagetitle                 "ব্যক্তিগত ব্রাউজিংয়ের সুবিধা">
 
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; দ্বারা এই সেশান সম্বন্ধে কোনো ধরনের তথ্য সংরক্ষণ করা হবে না।">
 <!ENTITY privatebrowsingpage.longDesc                  "এই ব্রাউজিং সেশান চলাকালে No history will be recorded by &brandShortName; দ্বারা কোনো ধরনের তথ্য যেমন ব্রাউজার, অনুসন্ধান, ডাউনলোড ও ওয়েব ফর্মের পূর্ববর্তী তথ্য, কুকি ও সাময়িক ইন্টারনেট ফাইল সংরক্ষণ করা হবে না।  কিন্তু, ডাউনলোড করা ফাইল ও নির্মিত বুকমার্কগুলি সংরক্ষণ করা হবে।">
