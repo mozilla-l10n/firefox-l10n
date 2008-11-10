@@ -45,6 +45,6 @@
 <!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "Clique em “Concluir” para continuar abrindo o &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Clique em “Concluir” para continuar abrindo o &brandShortName;.">
-<!ENTITY  enableChecking.label            "Permitir que o &brandShortName; verifique atualizações.">
+<!ENTITY  enableChecking.label            "Permitir que o &brandShortName; verifique atualizações">
 <!ENTITY  details.label                   "Detalhes…">
 <!ENTITY  details.accesskey               "D">

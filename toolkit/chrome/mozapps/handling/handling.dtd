@@ -1,5 +1,5 @@
-<!ENTITY window.emWidth "26em">
-<!ENTITY window.emHeight "26em">
+<!ENTITY window.emWidth "26.0em">
+<!ENTITY window.emHeight "26.0em">
 <!ENTITY ChooseApp.description "Selecione um aplicativo">
 <!ENTITY ChooseApp.label "Procurar…">
 <!ENTITY ChooseApp.accessKey "P">

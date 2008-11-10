@@ -14,19 +14,19 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.resume.label                 "Continuar">
 <!ENTITY cmd.resume.accesskey             "o">
 <!ENTITY cmd.cancel.label                 "Cancelar">
-<!ENTITY cmd.cancel.accesskey             "n">
+<!ENTITY cmd.cancel.accesskey             "a">
 <!ENTITY cmd.show.label                   "Abrir pasta">
-<!ENTITY cmd.show.accesskey               "b">
+<!ENTITY cmd.show.accesskey               "r">
 <!ENTITY cmd.showMac.label                "Abrir no Finder">
-<!ENTITY cmd.showMac.accesskey            "b">
+<!ENTITY cmd.showMac.accesskey            "r">
 <!ENTITY cmd.open.label                   "Abrir">
-<!ENTITY cmd.open.accesskey               "r">
+<!ENTITY cmd.open.accesskey               "A">
 <!ENTITY cmd.openWith.label               "Abrir com…">
 <!ENTITY cmd.openWith.accesskey           "A">
 <!ENTITY cmd.retry.label                  "Reiniciar">
 <!ENTITY cmd.retry.accesskey              "R">
 <!ENTITY cmd.goToDownloadPage.label       "Abrir página de download">
-<!ENTITY cmd.goToDownloadPage.accesskey   "A">
+<!ENTITY cmd.goToDownloadPage.accesskey   "b">
 <!ENTITY cmd.copyDownloadLink.label       "Copiar link do download">
 <!ENTITY cmd.copyDownloadLink.accesskey   "C">
 <!ENTITY cmd.removeFromList.label         "Excluir da lista">

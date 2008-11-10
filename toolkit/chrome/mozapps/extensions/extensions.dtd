@@ -1,8 +1,8 @@
 <!ENTITY addons.title                     "Complementos">
 
 <!-- Default window size for the addon manager in pixels -->
-<!ENTITY em.width                         "520">
-<!ENTITY em.height                        "371">
+<!ENTITY em.width                         "547">
+<!ENTITY em.height                        "400">
 
 <!ENTITY cmd.info.commandKey              "I">
 <!ENTITY cmd.options.commandKey           ",">
@@ -112,6 +112,7 @@
 <!ENTITY insecureUpdate.label             "Não fornece um método seguro de atualização.">
 <!ENTITY needsDependencies.label          "Necessita itens adicionais.">
 <!ENTITY blocklisted.label                "Desativado para sua proteção.">
+<!ENTITY softBlocklisted.label            "Sabida causa de problemas de segurança ou estabilidade.">
 <!ENTITY toBeDisabled.label               "Este complemento será desativado quando o &brandShortName; for reiniciado.">
 <!ENTITY toBeEnabled.label                "Este complemento será ativado quando o &brandShortName; for reiniciado.">
 <!ENTITY toBeInstalled.label              "Este complemento será instalado quando o &brandShortName; for reiniciado.">
@@ -162,9 +163,12 @@
 <!ENTITY installFinishing.label           "Instalando…">
 <!ENTITY installFailure.label             "Falha na instalação">
 
-<!ENTITY progressStatus.label             "Verificando atualizações">
+<!ENTITY progressStatus.label             "Verificando atualizações…">
 
 <!ENTITY eula.title                       "Acordo de licença para o usuário final">
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
-<!ENTITY eula.accept                      "Aceitar e instalar…">
+<!ENTITY eula.accept                      "Aceitar e instalar">
+
+<!ENTITY blocklist.blocked.label          "Bloqueado">
+<!ENTITY blocklist.checkbox.label         "Desativar">
