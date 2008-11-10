@@ -1,7 +1,7 @@
 <!-- extracted from institems.xul -->
 
 <!ENTITY dialog.title            "Instalação de complementos">
-<!ENTITY dialog.style            "width: 45em">
+<!ENTITY dialog.style            "width:45em">
 <!ENTITY warningPrimary.label    "Instale complementos somente de autores que você confia.">
 <!ENTITY warningSecondary.label  "Complementos mal-intencionados podem danificar o seu computador ou comprometer a sua privacidade.">
 

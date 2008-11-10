@@ -40,12 +40,13 @@
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 <!ENTITY aboutWarningTitle.label "HIC SUNT DRACONES">
-<!ENTITY aboutWarningText.label "A modificação destas configurações avançadas pode prejudicar a estabilidade, a segurança e o desempenho deste aplicativo. Você deve continuar somente se estiver seguro do que estiver fazendo.">
-<!ENTITY aboutWarningButton.label "Serei cuidadoso, eu prometo!">
-<!ENTITY aboutWarningCheckbox.label "Exibir este alerta na próxima vez">
+<!ENTITY aboutWarningText.label "A modificação destas configurações avançadas pode prejudicar a estabilidade, a segurança e o desempenho deste aplicativo. Continue somente se estiver seguro do que for fazer.">
+<!ENTITY aboutWarningButton.label "Serei cuidadoso, prometo!">
+<!ENTITY aboutWarningCheckbox.label "Sempre exibir este alerta">
 
 <!ENTITY filterPrefs.label "Localizar:">
 <!ENTITY filterPrefs.accesskey "o">
+<!ENTITY focusFilter.key "F">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Nome">
@@ -58,7 +59,7 @@
 <!ENTITY columnChooser.tooltip "Clique para selecionar quais colunas mostrar"> 
 
 <!-- Context Menu -->
-<!ENTITY copyPref.key "C">
+<!ENTITY copyPref.key "c">
 <!ENTITY copyPref.label "Copiar">
 <!ENTITY copyPref.accesskey "C">
 <!ENTITY copyName.label "Copiar nome">
