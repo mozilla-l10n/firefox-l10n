@@ -44,7 +44,6 @@
 <!ENTITY shortcutURL.label          "Schlüsselwort:">
 <!ENTITY shortcutURL.accesskey      "S">
 <!ENTITY destination.label          "Ziel:">
-<!ENTITY destination.accesskey      "Z">
 <!ENTITY newFolder.label            "Neuer Ordner…">
 <!ENTITY newFolder.accesskey        "N">
 <!ENTITY addGroup.label             "Lesezeichen für diese Gruppe von Tabs ablegen">

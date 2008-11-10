@@ -14,7 +14,6 @@
 <!ENTITY accOrgImagesRadio.accesskey    "u">
 <!ENTITY disableImages.label            "Keine Grafiken laden">
 <!ENTITY disableImages.accesskey        "K">
-<!ENTITY viewImagesExplanation.label    "Eine Liste von Websites, über die Grafik-Akeptanz-Informationen gespeichert sind">
 <!ENTITY viewImages.label               "Grafik-Berechtigungen verwalten">
 <!ENTITY viewImages.accesskey           "G">
 <!ENTITY animLoopingTitle.label         "Wiederholen von animierten Grafiken">

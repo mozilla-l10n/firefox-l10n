@@ -2,8 +2,6 @@
 
 <!ENTITY pref.popups.caption            "Pop-up-Fenster">
 
-<!ENTITY popupDesc.label                "Geben Sie an, wie Pop-up-Fenster behandelt werden, die über oder unter dem aktuellen Browser-Fenster erscheinen:">
-
 <!ENTITY popupBlock.label               "Unerwünschte Pop-up-Fenster blockieren">
 <!ENTITY popupBlock.accesskey           "U">
 

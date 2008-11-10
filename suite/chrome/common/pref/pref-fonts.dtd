@@ -24,8 +24,6 @@
 <!ENTITY  cursive.label                           "Schreibschrift:">
 <!ENTITY  cursive.accesskey                       "c">
 
-<!ENTITY  fontsize.units                          "Pixel">
-
 <!ENTITY  font.langGroup.latin1                   "Westlich">
 <!ENTITY  font.langGroup.latin2                   "Zentraleuropäisch">
 <!ENTITY  font.langGroup.japanese                 "Japanisch">
@@ -62,8 +60,6 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
-<!ENTITY  newLanguages.label                      "Neue Sprachen können mit dem Sprachen-Panel konfiguriert werden.">
-
 <!ENTITY  useDocumentFonts.label                  "Dokumenten erlauben, andere Schriftarten zu verwenden">
 <!ENTITY  useDocumentFonts.accesskey              "D">
 
@@ -72,9 +68,3 @@
 <!ENTITY  header2                                 "Bei Dokumenten mit vorgegebener Schriftart">
 <!ENTITY  useDefaultFont.label                    "Meine Standard-Schriftarten verwenden, die Schriftarten-Auswahl der Seite ignorieren">
 <!ENTITY  useDefaultFont.accesskey                "e">
-<!-- LOCALIZATION NOTE (useDocFontNonDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
-<!ENTITY  useDocFontNonDynamic.label              "Die von der Webseite gewählten Schriftarten verwenden">
-<!ENTITY  useDocFontNonDynamic.accesskey          "W">
-<!-- LOCALIZATION NOTE (useDocFontDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
-<!ENTITY  useDocFontDynamic.label                 "Alle von der Webseite gewählten Schriftarten verwenden">
-<!ENTITY  useDocFontDynamic.accesskey             "A">
