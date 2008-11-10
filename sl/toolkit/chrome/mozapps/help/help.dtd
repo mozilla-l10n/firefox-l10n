@@ -22,17 +22,16 @@
 <!ENTITY printButton.tooltip "Natisni to stran">
 <!ENTITY closeWindow.commandkey "W">
 
-<!ENTITY searchtab.label "Išči">
-<!ENTITY searchtab.accesskey "I">
-<!ENTITY searchClose.tooltip "Zapri rezultate iskanja">
+<!ENTITY search.emptytext               "Search">
+<!ENTITY searchHeader.label             "Search results">
 <!ENTITY toctab.label "Vsebina">
 <!ENTITY toctab.accesskey "V">
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
-
 
 <!ENTITY fullZoomReduceCmd.commandkey "-">
 <!ENTITY fullZoomReduceCmd.commandkey2 "_: fullZoomReduceCmd.commandkey2

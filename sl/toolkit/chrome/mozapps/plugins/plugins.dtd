@@ -21,3 +21,5 @@
 <!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; morate ponovno zagnati, preden bodo novi dodatki začeli delovati.">
   
 <!ENTITY missingPlugin.label "Kliknite sem za prenos dodatka.">
+<!ENTITY disabledPlugin.label                                "The plugin for this content has been disabled. Click here to manage your plugins.">
+<!ENTITY blockedPlugin.label                                 "This plugin has been blocked for your protection.">

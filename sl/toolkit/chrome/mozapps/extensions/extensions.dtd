@@ -1,14 +1,14 @@
 <!ENTITY addons.title "Dodatki">
-<!-- Default window size for the addon manager in pixels -->
 
+<!-- Default window size for the addon manager in pixels -->
 <!ENTITY em.width "520">
 <!ENTITY em.height "380">
 
 <!ENTITY cmd.info.commandKey "i">
 <!ENTITY cmd.options.commandKey ",">
 <!ENTITY cmd.close.commandKey "w">
-<!-- View labels -->
 
+<!-- View labels -->
 <!ENTITY search.label "Dobi dodatke">
 <!ENTITY extensions.label "Razširitve">
 <!ENTITY themes.label "Teme">
@@ -16,8 +16,8 @@
 <!ENTITY plugins.label "Vstavki">
 <!ENTITY update.label "Posodobitve">
 <!ENTITY install.label "Namestitev">
-<!-- Command Bar items -->
 
+<!-- Command Bar items -->
 <!ENTITY cmd.checkUpdatesAll.label "Poišči posodobitve">
 <!ENTITY cmd.checkUpdatesAll.accesskey "S">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Poišče posodobitve vaših dodatkov">
@@ -45,8 +45,8 @@
 <!ENTITY cmd.disableAll.label "Onemogoči vse">
 <!ENTITY cmd.disableAll.accesskey "n">
 <!ENTITY cmd.disableAll.tooltip "Onemogoči vse prikazane dodatke">
-<!-- Displayed in the selected Add-on's richlistitem and context menu -->
 
+<!-- Displayed in the selected Add-on's richlistitem and context menu -->
 <!ENTITY cmd.useTheme.label "Uporabi temo">
 <!ENTITY cmd.useTheme.accesskey "U">
 <!ENTITY cmd.useTheme.tooltip "Spremeni temo, ki jo uporablja &brandShortName;.">
@@ -93,8 +93,8 @@
 <!ENTITY cancelInstall.accesskey "P">
 <!ENTITY cancelUpgrade.label "Prekliči">
 <!ENTITY cancelUpgrade.accesskey "P">
-<!-- Only displayed in the selected Add-on's context menu -->
 
+<!-- Only displayed in the selected Add-on's context menu -->
 <!ENTITY cmd.homepage.label "Obišči domačo stran">
 <!ENTITY cmd.homepage.accesskey "D">
 <!ENTITY cmd.about2.label "O tej razširitvi/temi">
@@ -107,11 +107,12 @@
 <!ENTITY includeUpdate.label "Vključi to posodobitev">
 <!ENTITY includeUpdate.accesskey "v">
 <!ENTITY includeUpdate.tooltip "Vključi ta dodatek pri nameščanju posodobitev">
-<!-- Status Messsages -->
 
+<!-- Status Messsages -->
 <!ENTITY insecureUpdate.label "Ne omogoča varnih posodobitev.">
 <!ENTITY needsDependencies.label "Ima dodatne zahteve.">
 <!ENTITY blocklisted.label "Onemogočeno za vašo varnost.">
+<!ENTITY softBlocklisted.label            "Known to cause security or stability issues.">
 <!ENTITY toBeDisabled.label "Onemogočam ob naslednjem zagonu.">
 <!ENTITY toBeEnabled.label "Omogočam ob naslednjem zagonu.">
 <!ENTITY toBeInstalled.label "Nameščam ob naslednjem zagonu.">
@@ -168,3 +169,6 @@
 <!ENTITY eula.width "560px">
 <!ENTITY eula.height "400px">
 <!ENTITY eula.accept "Sprejmi in namesti ...">
+
+<!ENTITY blocklist.blocked.label          "Blocked">
+<!ENTITY blocklist.checkbox.label         "Disable">

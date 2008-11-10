@@ -39,6 +39,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.clearList.tooltip "Odstrani dokončane, preklicane in neuspele prenose iz seznama">
 <!ENTITY cmd.clearList.accesskey "I">
 <!ENTITY cmd.find.commandKey "f">
+<!ENTITY cmd.search.commandKey            "k">
 
 <!ENTITY closeWhenDone.label "Zapri, ko so vsi prenosi končani">
 <!ENTITY closeWhenDone.tooltip "Zapre okno s prenosi, ko je prenašanje vseh datotek končano">

@@ -2,7 +2,7 @@
 
 <!ENTITY dialog.title "Namestitev programske opreme">
 <!ENTITY dialog.style "width: 45em">
-<!ENTITY warningMain.label "Namesti samo dodatke, katerih avtorjem zaupate.">
+<!ENTITY warningPrimary.label "Namesti samo dodatke, katerih avtorjem zaupate.">
 <!ENTITY warningSecondary.label "Škodljiva programska oprema lahko poškoduje vaš računalnik in zlorabi vašo zasebnost.">
 
 <!ENTITY from.label "iz:">

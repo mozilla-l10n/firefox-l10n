@@ -45,20 +45,19 @@
 
 <!ENTITY filterPrefs.label "Filter:">
 <!ENTITY filterPrefs.accesskey "I">
-<!ENTITY showAll.label "Pokaži vse">
-<!ENTITY showAll.accesskey "K">
-<!-- Columns -->
+<!ENTITY focusFilter.key "i">
 
+<!-- Columns -->
 <!ENTITY prefColumn.label "Izbrano ime">
 <!ENTITY lockColumn.label "Stanje">
 <!ENTITY typeColumn.label "Vrsta">
 <!ENTITY valueColumn.label "Vrednost">
-<!-- Tooltips -->
 
+<!-- Tooltips -->
 <!ENTITY prefColumnHeader.tooltip "Kliknite za razvrščanje">
 <!ENTITY columnChooser.tooltip "Kliknite za izbiro stolpcev za prikaz">
-<!-- Context Menu -->
 
+<!-- Context Menu -->
 <!ENTITY copyPref.key "z">
 <!ENTITY copyPref.label "Kopiraj">
 <!ENTITY copyPref.accesskey "K">
