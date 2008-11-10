@@ -71,6 +71,11 @@
 <!ENTITY cmd.edit_redo.accesskey        "u">
 <!ENTITY cmd.edit_redo.key              "y">
 
+<!ENTITY cmd.delete.label               "Deze pagina verwijderen">
+<!ENTITY cmd.delete.accesskey           "D">
+<!ENTITY cmd.deleteDomainData.label     "Vergeet deze site">
+<!ENTITY cmd.deleteDomainData.accesskey "v">
+
 <!ENTITY cmd.open.label                  "Openen">
 <!ENTITY cmd.open.accesskey              "O">
 <!ENTITY cmd.open_window.label           "Openen in een nieuw venster">
