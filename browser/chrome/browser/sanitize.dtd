@@ -1,20 +1,32 @@
-<!ENTITY sanitizeDialog.title "Bersihkan Data Pribadi">
+<!ENTITY sanitizePrefs.title "Bersihkan Data Pribadi">
+<!ENTITY sanitizeDialog2.title "Bersihkan Riwayat Terakhir">
 <!ENTITY sanitizeItems.label "Hapus data berikut sekarang:">
-<!ENTITY clearDataSettings.label "Saat &brandShortName; diminta untuk membersihkan data pribadi, yang harus dihapus:">
-<!ENTITY itemHistory.label "Riwayat Jelajah Web">
-<!ENTITY itemHistory.accesskey "R">
-<!ENTITY itemFormSearchHistory.label "Isian Form yang Disimpan dan Riwayat Pencarian">
-<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY clearDataSettings2.label "Saat keluar dari &brandShortName;, otomatis hapus semua:">
+<!ENTITY clearDuration.label "Hapus ">
+<!ENTITY clearDuration.lastHour "sejam terakhir">
+<!ENTITY clearDuration.last2Hours "2 jam terakhir">
+<!ENTITY clearDuration.last4Hours "4 jam terakhir">
+<!ENTITY clearDuration.today "riwayat hari ini">
+<!ENTITY clearDuration.everything "seluruh riwayat">
+<!ENTITY clearDuration.suffix "">
+<!ENTITY historySection.label "Riwayat">
+<!ENTITY dataSection.label "Data">
+<!ENTITY itemVisitedPages.label "Halaman yang Telah Dikunjungi">
+<!ENTITY itemVisitedPages.accesskey "H">
+<!ENTITY itemFormSearchEntries.label "Form &amp; Kata Kunci Pencarian">
+<!ENTITY itemFormSearchEntries.accesskey "F">
 <!ENTITY itemPasswords.label "Kata Sandi Tersimpan">
 <!ENTITY itemPasswords.accesskey "S">
 <!ENTITY itemCookies.label "Cookie">
 <!ENTITY itemCookies.accesskey "C">
-<!ENTITY itemCache.label "Cache">
-<!ENTITY itemCache.accesskey "a">
+<!ENTITY itemWebCache.label "Cache Web">
+<!ENTITY itemWebCache.accesskey "a">
 <!ENTITY itemOfflineApps.label "Data Situs Web Offline">
 <!ENTITY itemOfflineApps.accesskey "W">
-<!ENTITY itemDownloads.label "Riwayat Unduhan">
-<!ENTITY itemDownloads.accesskey "U">
-<!ENTITY itemSessions.label "Otentikasi Sesi">
-<!ENTITY itemSessions.accesskey "O">
+<!ENTITY itemDownloadList.label "Riwayat Unduhan">
+<!ENTITY itemDownloadList.accesskey "U">
+<!ENTITY itemActiveLogins.label "Log-Masuk Aktif">
+<!ENTITY itemActiveLogins.accesskey "L">
 <!ENTITY window.width "30em">
+<!ENTITY column.width "14em">
+

@@ -1,0 +1,33 @@
+<!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.pagetitle "about:rights">
+<!ENTITY rights.intro-header "Tentang Hak Anda">
+<!ENTITY rights.intro "&brandFullName; adalah perangkat lunak bebas dan open source yang dibangun oleh ribuan anggota komunitas dari berbagai penjuru dunia. Ada beberapa hal yang perlu anda ketahui:">
+<!ENTITY rights.intro-point1a "&brandShortName; disediakan berdasar persyaratan dalam lisensi ">
+<!ENTITY rights.intro-point1b "Mozilla Public License">
+<!ENTITY rights.intro-point1c ". Ini berarti anda dapat menggunakan, menyalin, dan mendistribusikan &brandShortName; kepada pihak lain.  Anda juga dapat memodifikasi kode sumber program &brandShortName; sesuai dengan kebutuhan anda. Lisensi Mozilla Public License memberi hak kepada anda untuk mendistribusikan versi yang telah anda modifikasi.">
+<!ENTITY rights.intro-point2a "Mozilla tidak memberi anda hak atas merk dagang atau logo Mozilla dan Firefox. Informasi lebih lanjut mengenak Merk Dagang dapat anda temukan ">
+<!ENTITY rights.intro-point2b "di sini">
+<!ENTITY rights.intro-point2c ".">
+<!ENTITY rights.intro-point3a "Kebijakan privasi pada produk &vendorShortName; dapat anda temukan ">
+<!ENTITY rights.intro-point3b "di sini">
+<!ENTITY rights.intro-point3c ".">
+<!ENTITY rights.intro-point3-unbranded "Seluruh kebijakan privasi atas produk ini akan disebutkan di bawah ini.">
+<!ENTITY rights.intro-point4a "&brandShortName; juga menawarkan layanan informasi dari situs web yang dapat digunakan seperti halnya layanan SafeBrowsing. Akan tetapi kami tidak menjamin keakuratan atau atau tingkat kesalahan layanan tersebut secara 100&#37;. Untuk keterangan lebih lanjut, termasuk bagaimana cara mematikan fungsi layanan ini dapat ditemukan pada ">
+<!ENTITY rights.intro-point4b "ketentuan layanan">
+<!ENTITY rights.intro-point4c ".">
+<!ENTITY rights.intro-point4a-unbranded "Jika produk ini menyertakan layanan web, seluruh ketentuan layanan tersebut akan ditaut ke bagian ">
+<!ENTITY rights.intro-point4b-unbranded "Layanan Situs Web">
+<!ENTITY rights.intro-point4c-unbranded ".">
+<!ENTITY rights.webservices-header "Layanan Situs Web &brandFullName;">
+<!ENTITY rights.webservices-a "&brandFullName; menggunakan layanan informasi dari situs web (&quot;Layanan&quot;), seperti halnya layanan SafeBrowsing, yang tersedia untuk anda beserta versi biner &brandShortName; yang dijelaskan di bawah ini. Jika anda tidak menginginkan untuk menggunakan Layanan atau tidak menerima persyaratan di bawah ini, anda dapat mematikan fungsi layanan SafeBrowsing melalui pengaturan aplikasi, kemudian memilih tab ">
+<!ENTITY rights.webservices-b "Keamanan">
+<!ENTITY rights.webservices-c " dan matikan pengaturan untuk &quot;&blockAttackSites.label;&quot; dan &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.webservices-unbranded "Deskripsi mengenai layanan web yang tersedia bersama produk, beserta petunjuk untuk mematikan layanan tersebut, jika dapat diterapkan, akan tersedia di bawah ini.">
+<!ENTITY rights.webservices-term1-unbranded "Semua persyaratan layanan yang dapat diterapkan akan tersedia di bawah ini.">
+<!ENTITY rights.webservices-term1 "Para kontributor, lisensor, dan partner &vendorShortName; bekerja untuk menyediakan informasi phishing dan malware dengan seakurat dan semutakhir mungkin. Akan tetapi mereka tidak menjamin informasi tersebut bersifat komprehensif dan bebas dari kesalahan: beberapa situs yang beresiko mungkin tidak dapat diidentifikasi dan situs yang aman juga dapat salah diidentifikasi.">
+<!ENTITY rights.webservices-term2 "&vendorShortName; dapat memberhentikan atau mengubah Layanan sesuai dengan kebijaksanaan masing-masing.">
+<!ENTITY rights.webservices-term3 "Anda dipersilakan untuk menggunakan Layanan tersebut dengan menggunakan &brandShortName; yang tersedia dan anda berhak untuk menggunakannya. &vendorShortName; dan para lisensor berhak atas hak lainnya dalam Layanan tersebut. Persyaratan ini tidak dimaksudkan untuk membatasi hak yang diberikan atas dasar lisensi open source yang dapat diterapkan pada &brandShortName; dan versi kode sumber &brandShortName; yang berkaitan.">
+<!ENTITY rights.webservices-term4 "Layanan disediakan &quot;sebagaimana adanya&quot;. &vendorShortName;, para kontributor, lisensor, dan distributor menyangkal semua jaminan dan garansi, baik yang telah disebutkan maupun tersirat, termasuk secara tak terbatas, jaminan bahwa Layanan dapat digunakan untuk kepentingan dagang (merchantable) dan sesuai dengan penggunaan khusus oleh anda. Anda menanggung seluruh resiko atas Layanan yang anda pilih untuk anda gunakan dan atas performansi Layanan tersebut. Beberapa yurisdiksi tidak mengizinkan pengecualian atau pembatasan pada jaminan yang tersirat sehingga penyangkalan ini tidak dapat diterapkan pada anda.">
+<!ENTITY rights.webservices-term5 "Kecuali diwajibkan oleh hukum, &vendorShortName;, para kontributor, lisensor, dan distributor tidak akan menanggung kerusakan yang bersifat khusus, tidak langsung, insidental, sebab-akibat, pidana, ganti-rugi yang terjadi atas akibat atau yang berhubungan dengan penggunaan &brandShortName; beserta Layanan-nya. Pertanggungan secara kolektif di bawah persyaratan ini tidak boleh melebihi $500 (lima ratus dollar). Beberapa yuridiksi tidak mengizinkan pengecualian atau pembatasan atas kerusakan tertentu sehingga penyangkalan ini tidak dapat diterapkan pada anda.">
+<!ENTITY rights.webservices-term6 "&vendorShortName; dapat memutakhirkan persyaratan ini secara seperlunya dari waktu ke wktu. Persyaratan ini tidak dapat diubah atau dibatalkan tanpa perjanjian tertulis dengan &vendorShortName;.">
+<!ENTITY rights.webservices-term7 "Persyaratan berikut diatur berdasar hukum negara bagian California, Amerika Serikat, dengan mengecualikan pertentangan atas ketentuan hukum yang bersifat sementara. Jika terdapat bagian dari persyaratan ini yang tidak dalam status sah atau tidak dapat dilaksanakan, bagian lainnya tetap berkekuatan penuh. Jika terjadi pertentangan antara versi terjemahan dan versi berbahasa Inggris atas persyaratan ini, versi berbahasa Inggris yang memiliki kendali penuh.">

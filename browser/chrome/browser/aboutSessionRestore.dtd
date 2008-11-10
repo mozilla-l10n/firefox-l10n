@@ -1,0 +1,13 @@
+<!ENTITY restorepage.tabtitle "Pengembalian Sesi">
+<!ENTITY restorepage.pagetitle "Apakah Anda Ingin Mengembalikan Sesi Sebelumnya?">
+<!ENTITY restorepage.issueDesc "Sesi &brandShortName; sebelumnya tertutup tiba-tiba. Kami mohon maaf atas ketidaknyamanan ini. Anda dapat mengembalikan jendela dan tab pada sesi sebelumnya atau memulai sesi baru jika sesi sebelumnya tidak lagi diperlukan.">
+<!ENTITY restorepage.remedies "Jika &brandShortName; tertutup berulang-ulang:">
+<!ENTITY restorepage.dueToChrome "Coba matikan ekstensi yang baru ditambahkan dengan membuka jendela Pengelola Pengaya">
+<!ENTITY restorepage.dueToContent "Coba mengembalikan sesi sebelumnya tanpa halaman web yang mungkin menyebabkan masalah:">
+<!ENTITY restorepage.restoreButton "Kembalikan Sesi Sebelumnya">
+<!ENTITY restorepage.restore.access "s">
+<!ENTITY restorepage.cancelButton "Mulai Sesi Baru">
+<!ENTITY restorepage.cancel.access "S">
+<!ENTITY restorepage.restoreHeader "Pengembalian Sesi">
+<!ENTITY restorepage.listHeader "Jendela dan Tab">
+<!ENTITY restorepage.windowLabel "Jendela &#037;S">

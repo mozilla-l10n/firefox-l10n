@@ -1,0 +1,9 @@
+<!ENTITY privatebrowsingpage.tabtitle "Mode Penjelajahan Pribadi">
+<!ENTITY privatebrowsingpage.pagetitle "Mode Penjelajahan Pribadi">
+<!ENTITY privatebrowsingpage.issueDesc "&brandShortName; tidak akan mengingat riwayat dalam sesi ini.">
+<!ENTITY privatebrowsingpage.longDesc "Tidak ada riwayat yang akan disimpan oleh &brandShortName; selama sesi penjelajahan ini. Riwayat ini termasuk riwayat penjelajahan, pencarian, unduhan, pengisian form, cookie, dan berkas Internet yang bersifat sementara. Akan tetapi berkas yang telah diunduh dan bookmark yang telah dibuat akan tetap disimpan.">
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc "Anda juga dapat menghapus riwayat anda sebelumnya.">
+<!ENTITY privatebrowsingpage.recentHistory.label "Hapus Riwayat Terakhir">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey "H">
+<!ENTITY privatebrowsingpage.howToStopDesc "Untuk berhenti dari mode penjelahajan pribadi, hapus centang pada menu Alat &gt; Mode Penjelajahan Pribadi.">
+<!ENTITY privatebrowsingpage.footerDesc "Selamat Menikmati!">

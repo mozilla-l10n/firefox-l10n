@@ -63,6 +63,10 @@
 <!ENTITY cmd.edit_redo.label "Ulangi">
 <!ENTITY cmd.edit_redo.accesskey "U">
 <!ENTITY cmd.edit_redo.key "y">
+<!ENTITY cmd.delete.label "Hapus Halaman Ini">
+<!ENTITY cmd.delete.accesskey "H">
+<!ENTITY cmd.deleteDomainData.label "Lupakan Situs Ini">
+<!ENTITY cmd.deleteDomainData.accesskey "L">
 <!ENTITY cmd.open.label "Buka">
 <!ENTITY cmd.open.accesskey "B">
 <!ENTITY cmd.open_window.label "Buka di Jendela Baru">

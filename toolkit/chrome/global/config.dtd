@@ -41,6 +41,7 @@
 <!ENTITY aboutWarningCheckbox.label "Tampilkan peringatan ini lagi nanti">
 <!ENTITY filterPrefs.label "Filter:">
 <!ENTITY filterPrefs.accesskey "i">
+<!ENTITY focusFilter.key "f">
 <!ENTITY prefColumn.label "Nama Pengaturan">
 <!ENTITY lockColumn.label "Status">
 <!ENTITY typeColumn.label "Jenis">
