@@ -67,3 +67,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey  "s">
 <!ENTITY findAgainCmd.commandkey  "g">
 <!ENTITY findAgainCmd.commandkey2  "VK_F3">
+
+<!ENTITY backCmd.label "Edellinen">
+<!ENTITY backCmd.accesskey "E">
+<!ENTITY forwardCmd.label "Seuraava">
+<!ENTITY forwardCmd.accesskey "S">
+<!ENTITY goBackCmd.commandKey "ö">
+<!ENTITY goForwardCmd.commandKey "ä">

@@ -2,7 +2,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
 <!ENTITY rights.intro-header    "Tietoa oikeuksistasi">
-<!ENTITY rights.intro "&brandFullName; on ilmainen ja avoimen lähdekoodin ohjelmisto, jonka on tehnyt tuhansista, ympäri maailmaa asuvista vapaaehtoisista koostuva yhteisö. Seuraavat seikat ovat hyviä tietää:">
+<!ENTITY rights.intro "&brandFullName; on ilmainen ja avoimen lähdekoodin ohjelmisto, jonka tehnyt yhteisö koostuu tuhansista, ympäri maailmaa asuvista vapaaehtoisista. Seuraavat seikat on syytä tietää:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -12,9 +12,9 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-<!ENTITY rights.intro-point1a "&brandShortName; tarjotaan käyttöösi ">
+<!ENTITY rights.intro-point1a "&brandShortName; on tarjottu käyttöösi ">
 <!ENTITY rights.intro-point1b "Mozillan julkisen lisenssin (Mozilla Public License)">
-<!ENTITY rights.intro-point1c "ehtojen mukaisesti. Lisenssissä annetaan sinulle oikeus käyttää, kopioida ja levittää &brandShortName;ia muille tahoille. Sinulla on myös halutessasi oikeus muokata ja muuttaa &brandShortName;in lähdekoodia omien tarpeittesi mukaisesti. Mozillan julkinen lisenssi antaa sinulle myös oikeuden levittää näitä muokkaamiasi versioita.">
+<!ENTITY rights.intro-point1c "ehdoilla. Lisenssissä annetaan sinulle oikeus käyttää, kopioida ja levittää &brandShortName;ia. Sinulla on myös halutessasi oikeus muokata ja muuttaa &brandShortName;in lähdekoodia omien tarpeittesi mukaisesti. Mozillan julkinen lisenssi antaa sinulle myös oikeuden levittää näitä muokkaamiasi versioita.">
 
 <!ENTITY rights.intro-point2a "Mozilla ei anna sinulle mitään oikeuksia Mozilla tai Firefox tavaramerkkeihin tai logoihin. Voit lukea tarkempia lisätietoja tavaramerkeistä  ">
 <!ENTITY rights.intro-point2b "täältä">
@@ -29,7 +29,7 @@
 <!ENTITY rights.intro-point3-unbranded "Kaikki tämän tuotteen käyvät tietosuojakäytänteet tulisi luetteloida tässä.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName;iin on sisällytetty myös vapaavalintaisia verkkopohjaisia palveluja kuten turvallisen selaamisen SafeBrowsing-palvelu. Emme kuitenkaan takaa näiden palvelujen olevan 100&#37; tarkkoja tai virheettömiä. Lisätietoja palveluista mukaan lukien ohjeet niiden poistamiseen päältä, löytyy ">
+<!ENTITY rights.intro-point4a "&brandShortName;iin on sisällytetty myös verkkopohjaisia palveluja kuten turvallisen selaamisen SafeBrowsing-palvelu, jotka voi halutessaan ottaa pois päältä. Emme kuitenkaan takaa näiden palvelujen olevan 100&#37; tarkkoja tai virheettömiä. Lisätietoja palveluista mukaan lukien ohjeet niiden poistamiseen päältä, löytyy ">
 <!ENTITY rights.intro-point4b "palveluehdoista">
 <!ENTITY rights.intro-point4c ".">
 
@@ -45,9 +45,9 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "Jotkin &brandFullName;in toiminnoista käyttävät hyväkseen verkkosivustojen tietopalveluita (&quot;palveluita&quot;), kuten SafeBrowsing-palvelu, jotka ovat käytössäsi tämän &brandShortName;in binääriversion kanssa kuten alla määritellään. Jos et halua käyttää näitä palveluita tai alla selvitetyt ehdot eivät ole hyväksyttäviä, SafeBrowsing-palvelun voi poistaa käytöstä ohjelman asetuksista valitsemalla ">
+<!ENTITY rights.webservices-a "Jotkin &brandFullName;in toiminnoista käyttävät hyväkseen verkkosivustojen tietopalveluita (&quot;palveluita&quot;), kuten SafeBrowsing-palvelu, jotka ovat käytössäsi tämän &brandShortName;in binääriversion kanssa kuten alla määritellään. Jos et halua käyttää näitä palveluita tai alla määritellyt ehdot eivät ole hyväksyttäviä, SafeBrowsing-palvelun voi poistaa käytöstä ohjelman asetuksista valitsemalla ">
 <!ENTITY rights.webservices-b "Turvallisuus">
-<!ENTITY rights.webservices-c " -osan ja poistamalla valinnat kohdista &quot;&blockAttackSites.label;&quot; ja &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.webservices-c "-lehden ja poistamalla valinnat kohdista &quot;&blockAttackSites.label;&quot; ja &quot;&blockWebForgeries.label;&quot;">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Tässä kohdassa tulisi olla kuvaus verkkosivustopalveluista, joita tuote käyttää, sekä ohjeet näiden palvelujen poistamiseen käytöstä jos tämä on mahdollista kyseiselle palvelulle.">

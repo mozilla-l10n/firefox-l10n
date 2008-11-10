@@ -1,24 +1,40 @@
-<!ENTITY sanitizeDialog.title          "Poista yksityisyystietoja">
+<!ENTITY sanitizePrefs.title           "Poista yksityisyystietoja">
+<!ENTITY sanitizeDialog2.title         "Poista historiatietoja">
 
-<!ENTITY sanitizeItems.label           "Poista seuraavat tiedot:">
-<!ENTITY clearDataSettings.label      "Seuraavat yksityisyystiedot poistetaan pyydettäessä:">
+<!ENTITY sanitizeItems.label          "Poista seuraavat tiedot:">
+<!ENTITY clearDataSettings2.label     "Kun &brandShortName; suljetaan, seuraavat tiedot poistetaan:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY itemHistory.label             "Sivuhistoria">
-<!ENTITY itemHistory.accesskey         "S">
-<!ENTITY itemFormSearchHistory.label   "Tallennetut lomake- ja hakutiedot">
-<!ENTITY itemFormSearchHistory.accesskey "T">
-<!ENTITY itemPasswords.label           "Tallennetut salasanat">
-<!ENTITY itemPasswords.accesskey       "a">
-<!ENTITY itemCookies.label             "Evästeet">
-<!ENTITY itemCookies.accesskey         "E">
-<!ENTITY itemCache.label               "Väliaikaistiedostot">
-<!ENTITY itemCache.accesskey           "V">
+<!ENTITY clearDuration.label          "Poista ">
+<!ENTITY clearDuration.lastHour       "viimeisen tunnin tiedot">
+<!ENTITY clearDuration.last2Hours     "viimeisen 2 tunnin tiedot">
+<!ENTITY clearDuration.last4Hours     "viimeisen 4 tunnin tiedot">
+<!ENTITY clearDuration.today          "tämän päivän tiedot">
+<!ENTITY clearDuration.everything     "kaikki historiatiedot">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix         "">
+
+<!ENTITY historySection.label         "Historiatiedot">
+<!ENTITY dataSection.label            "Muut tiedot">
+
+<!ENTITY itemVisitedPages.label       "Sivuhistoria">
+<!ENTITY itemVisitedPages.accesskey   "S">
+<!ENTITY itemFormSearchEntries.label  "Lomake- ja hakutiedot">
+<!ENTITY itemFormSearchEntries.accesskey "o">
+<!ENTITY itemPasswords.label          "Tallennetut salasanat">
+<!ENTITY itemPasswords.accesskey      "T">
+<!ENTITY itemCookies.label            "Evästeet">
+<!ENTITY itemCookies.accesskey        "E">
+<!ENTITY itemWebCache.label           "Väliaikaistiedostot">
+<!ENTITY itemWebCache.accesskey       "V">
 <!ENTITY itemOfflineApps.label        "Yhteydettömän tilan tiedot">
 <!ENTITY itemOfflineApps.accesskey    "Y">
-<!ENTITY itemDownloads.label           "Latauslista">
-<!ENTITY itemDownloads.accesskey       "L">
+<!ENTITY itemDownloadList.label       "Latauslista">
+<!ENTITY itemDownloadList.accesskey   "L">
 <!ENTITY itemActiveLogins.label       "Aktiiviset kirjautumiset">
-<!ENTITY itemActiveLogins.accesskey   "k">
+<!ENTITY itemActiveLogins.accesskey   "A">
+
 <!ENTITY window.width                 "30em">
+<!ENTITY column.width                 "14em">
