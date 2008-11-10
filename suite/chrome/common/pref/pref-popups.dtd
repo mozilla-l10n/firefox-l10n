@@ -2,8 +2,6 @@
 
 <!ENTITY pref.popups.caption            "Vyskakovacie okná">
 
-<!ENTITY popupDesc.label                "Určuje, ako sa spracovávajú vyskakovacie okná, ktoré sa objavujú nad alebo pod aktuálnym oknom prehliadača:">
-
 <!ENTITY popupBlock.label               "Blokovať nevyžiadané vyskakovacie okná">
 <!ENTITY popupBlock.accesskey           "B">
 

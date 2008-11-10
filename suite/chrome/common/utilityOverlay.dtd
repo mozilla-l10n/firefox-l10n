@@ -37,7 +37,6 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY deleteCmd.label "Odstrániť">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "O">
 <!ENTITY selectAllCmd.label "Vybrať všetko">
 <!ENTITY selectAllCmd.key "A">

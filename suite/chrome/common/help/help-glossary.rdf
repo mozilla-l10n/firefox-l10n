@@ -90,7 +90,6 @@
         <rdf:li> <rdf:Description nc:name="Spoofing" nc:link="glossary.xhtml#spoofing"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Správca certifikátov" nc:link="glossary.xhtml#certificate_manager"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Správca cookie" nc:link="glossary.xhtml#cookie_manager"/> </rdf:li>
-        <rdf:li> <rdf:Description nc:name="Správca foriem" nc:link="glossary.xhtml#form_manager"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Správca hesiel" nc:link="glossary.xhtml#password_manager"/> </rdf:li> 
         <rdf:li> <rdf:Description nc:name="SSL" nc:link="glossary.xhtml#ssl"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="SSL certifikát klienta" nc:link="glossary.xhtml#client_ssl_certificate"/> </rdf:li>

@@ -7,21 +7,14 @@
 <!ENTITY editorCmd.accesskey				"C">
 <!ENTITY editorCmd.commandkey				"4">
 
-<!ENTITY securityInfoCmd.label					".Informácie o bezpečnosti">  
-<!ENTITY securityInfoCmd.accesskey				"z">
 <!ENTITY javaConsoleCmd.label					"Konzola Javy">
 <!ENTITY javaConsoleCmd.accesskey				"J">
 
 <!ENTITY errorConsoleCmd.label                                  "Chybová konzola">
 <!ENTITY errorConsoleCmd.accesskey				"C">
 
-<!-- LOCALIZATION NOTE (privacyMenu.label): DONT_TRANSLATE -->
-<!ENTITY privacyMenu.label "Súkromie a bezpečnosť">
-<!ENTITY privacyMenu.accesskey "b">
-
 <!ENTITY taskNavigator.tooltip  "Prehliadač">
 <!ENTITY taskComposer.tooltip  "Composer">
-<!ENTITY taskBar.tooltip  "Stavový riadok">
 
 <!ENTITY webDevelopment.label "Vývoj webu">
 <!ENTITY webDevelopment.accesskey "w">

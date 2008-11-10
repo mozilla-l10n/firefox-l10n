@@ -24,8 +24,6 @@
 <!ENTITY  cursive.label                           "Kurzíva:">
 <!ENTITY  cursive.accesskey                       "K">
 
-<!ENTITY  fontsize.units                          "pixelov">
-
 <!ENTITY font.langGroup.latin1                    "Západné">
 <!ENTITY font.langGroup.latin2                    "Stredoeurópske">
 <!ENTITY font.langGroup.japanese                  "Japonské">
@@ -62,8 +60,6 @@
 <!ENTITY useDefaultFontSerif.label                "Pätkové (serif)">
 <!ENTITY useDefaultFontSansSerif.label            "Bezpätkové (sans-serif)">
 
-<!ENTITY  newLanguages.label                      "Nové jazyky môžete pridať použitím panela Jazyky.">
-
 <!ENTITY  useDocumentFonts.label                  "Povoliť dokumentom používať iné písma">
 <!ENTITY  useDocumentFonts.accesskey              "a">
 
@@ -72,9 +68,3 @@
 <!ENTITY  header2                                 "Ak stránka definuje vlastné písma">
 <!ENTITY  useDefaultFont.label                    "Použiť predvolené písma, ignorovať písma definované stránkou">
 <!ENTITY  useDefaultFont.accesskey                "u">
-<!-- LOCALIZATION NOTE (useDocFontNonDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
-<!ENTITY  useDocFontNonDynamic.label              "Použiť písma definované stránkou">
-<!ENTITY  useDocFontNonDynamic.accesskey          "d">
-<!-- LOCALIZATION NOTE (useDocFontDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
-<!ENTITY  useDocFontDynamic.label                 "Použiť všetky písma definované stránkou">
-<!ENTITY  useDocFontDynamic.accesskey             "v">

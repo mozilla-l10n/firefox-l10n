@@ -4,7 +4,7 @@
                         you may translate "crash" instead (even though it's IT-speak) -->
 <!ENTITY restorepage.issueDesc      "Posledná relácia prehliadača &brandShortName; bola neočakávane ukončená. Ospravedlňujeme sa za túto nepríjemnosť. Teraz môžete obnoviť okná a karty otvorené pri ukončení predchádzajúcej relácie, alebo spustiť novú reláciu, ak tieto nie sú potrebné.">
 <!ENTITY restorepage.remedies       "Ak sa &brandShortName; ukončuje opakovane:">
-<!ENTITY restorepage.dueToChrome    "V Správcovi doplnkov skúste zákazať naposledy pridané rozšírenia.">
+<!ENTITY restorepage.dueToChrome    "V Správcovi doplnkov skúste zakázať naposledy pridané rozšírenia.">
 <!ENTITY restorepage.dueToContent   "Skúste obnoviť reláciu bez načítania stránok, ktoré by mohli spôsobovať zlyhanie:">
 
 <!ENTITY restorepage.restoreButton  "Obnoviť predchádzajúcu reláciu">

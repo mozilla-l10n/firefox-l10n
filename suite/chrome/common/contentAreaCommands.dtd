@@ -15,8 +15,6 @@
 <!ENTITY openFrameCmdInTab.accesskey  "k">
 <!ENTITY showOnlyThisFrameCmd.label     "Zobraziť len tento rámec">
 <!ENTITY showOnlyThisFrameCmd.accesskey "l">
-<!ENTITY addToBookmarksCmd.label      "Pridať medzi záložky">
-<!ENTITY addToBookmarksCmd.accesskey  "P">
 <!ENTITY goBackCmd.label              "Naspäť">
 <!ENTITY goBackCmd.accesskey          "N">
 <!ENTITY goForwardCmd.label           "Dopredu">

@@ -35,8 +35,5 @@
 <!ENTITY     removeallpermissions.label     "Odstrániť všetky stránky">
 <!ENTITY     removeallpermissions.accesskey "e">
 
-<!ENTITY     canSet.label                   "môže nastavovať cookies">
-<!ENTITY     cannotSet.label                "nemôže nastavovať cookies">
-
 <!ENTITY     futureCookies.label            "Zakázať stránkam, ktorých cookies boli odstránené, nastavovať cookies v budúcnosti">
 <!ENTITY     futureCookies.accesskey        "a">

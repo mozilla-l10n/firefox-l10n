@@ -14,7 +14,6 @@
 <!ENTITY accOrgImagesRadio.accesskey    "r">
 <!ENTITY disableImages.label            "Nenačítavať obrázky">
 <!ENTITY disableImages.accesskey        "N">
-<!ENTITY viewImagesExplanation.label    "Zobraziť zoznam stránok, pre ktoré sú uchovávané informácie o obrázkoch">
 <!ENTITY viewImages.label               "Spravovať povolenia pre obrázky">
 <!ENTITY viewImages.accesskey           "S">
 <!ENTITY animLoopingTitle.label         "Počet animácií animovaných obrázkov">

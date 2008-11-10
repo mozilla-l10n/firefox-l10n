@@ -106,7 +106,7 @@
 <!-- today-pane-specific -->
 <!ENTITY todaypane.showMinimonth.label "Zobraziť Mini Mesiac">
 <!ENTITY todaypane.showMinimonth.accesskey "M">
-<!ENTITY todaypane.showMiniday.label "Zobrazť Mini Deň">
+<!ENTITY todaypane.showMiniday.label "Zobraziť Mini Deň">
 <!ENTITY todaypane.showMiniday.accesskey  "d">
 <!ENTITY todaypane.showNone.label "Nezobrazovať nič">
 <!ENTITY todaypane.showNone.accesskey "N">
