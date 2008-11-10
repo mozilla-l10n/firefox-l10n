@@ -82,7 +82,6 @@
 
 <!ENTITY zoominCmd.label "Zoom avant">
 <!ENTITY zoomoutCmd.label "Zoom arrière">
-<!ENTITY delSpotCmd.label "Supprimer le point actif">
 
 <!-- Keys -->
 <!ENTITY clear.key "d">

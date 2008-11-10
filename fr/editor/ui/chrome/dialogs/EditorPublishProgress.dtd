@@ -43,8 +43,6 @@
 
 <!ENTITY status.label          "Publier…">
 <!ENTITY fileList.label        "État de la publication">
-<!ENTITY statusHeader.label    "État">
-<!ENTITY filenameHeader.label  "Nom du fichier">
 <!ENTITY succeeded.label       "Terminé">
 <!ENTITY failed.label          "Échoué">
 

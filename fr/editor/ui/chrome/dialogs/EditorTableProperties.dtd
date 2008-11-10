@@ -69,7 +69,6 @@
 <!ENTITY tableCaptionNone.label           "Aucune">
 <!ENTITY tableInheritColor.label          "(Utiliser la couleur venant de la page)">
 
-<!ENTITY cellPercent.label                "&#37; du tableau">
 <!ENTITY cellSelection.label              "Sélection">
 <!ENTITY cellSelectCell.label             "Cellule">
 <!ENTITY cellSelectRow.label              "Ligne">
@@ -78,11 +77,7 @@
 <!ENTITY cellSelectNext.accessKey         "S">
 <!ENTITY cellSelectPrevious.label         "Précédent">
 <!ENTITY cellSelectPrevious.accessKey     "P">
-<!ENTITY cellApplyBeforeMove.label        "Appliquer les changements avant de changer la sélection">
-<!ENTITY cellKeepCurrentData.label        "Garder les paramètres courants">
 <!ENTITY applyBeforeChange.label          "Les changements actuels vont être appliqués avant de changer la sélection.">
-<!ENTITY cellRowSpan.label                "Fusion des lignes :">
-<!ENTITY cellColSpan.label                "Fusion des colonnes :">
 <!ENTITY cellContentAlignment.label       "Alignement du contenu :">
 <!ENTITY cellHorizontal.label             "Horizontal :">
 <!ENTITY cellHorizontal.accessKey         "z">
@@ -100,7 +95,6 @@
 <!ENTITY cellAlignMiddle.label            "Milieu">
 <!ENTITY cellAlignBottom.label            "En bas">
 <!ENTITY cellAlignJustify.label           "Justifié">
-<!ENTITY cellAlignAtChar.label            "Au caractère :">
 <!ENTITY cellInheritColor.label           "(Ne pas changer la table des couleurs)">
 <!ENTITY cellUseCheckboxHelp.label        "Utiliser les cases à cocher pour déterminer les propriétés à appliquer à toutes les cellules sélectionnées">
 

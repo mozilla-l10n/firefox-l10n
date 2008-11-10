@@ -32,7 +32,6 @@
 <!ENTITY bulletList.value                "Liste à puces (sans nombre)">
 <!ENTITY numberList.value                "Liste numérotée">
 <!ENTITY definitionList.value "Liste de définitions">
-<!ENTITY changeListMsg.label "Quand on change le type de la liste :">
 <!ENTITY changeEntireListRadio.label "Changer toute la liste">
 <!ENTITY changeEntireListRadio.accessKey "C">
 <!ENTITY changeSelectedRadio.label "Changer uniquement les items sélectionnés">
