@@ -1,6 +1,7 @@
 <!ENTITY mainWindow.title "&brandFullName;">
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Mode Penjelajahan Pribadi)">
 <!ENTITY tabCmd.label "Tab Baru">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
@@ -133,8 +134,10 @@
 <!ENTITY preferencesCmd.accesskey "g">
 <!ENTITY preferencesCmdUnix.label "Pengaturan">
 <!ENTITY preferencesCmdUnix.accesskey "g">
-<!ENTITY clearPrivateDataCmd.label "Bersihkan Data Pribadi">
-<!ENTITY clearPrivateDataCmd.accesskey "B">
+<!ENTITY clearRecentHistoryCmd.label "Bersihkan Riwayat Terakhir">
+<!ENTITY clearRecentHistoryCmd.accesskey "B">
+<!ENTITY privateBrowsingCmd.label "Mode Penjelajahan Pribadi">
+<!ENTITY privateBrowsingCmd.accesskey "i">
 <!ENTITY viewMenu.label "Tampilan">
 <!ENTITY viewMenu.accesskey "T">
 <!ENTITY viewToolbarsMenu.label "Toolbar">
@@ -179,10 +182,12 @@
 <!ENTITY viewPageInfoCmd.accesskey "I">
 <!ENTITY viewFrameInfoCmd.label "Lihat Informasi Bingkai">
 <!ENTITY viewFrameInfoCmd.accesskey "i">
-<!ENTITY showImageCmd.label "Tampilkan Gambar">
-<!ENTITY showImageCmd.accesskey "G">
+<!ENTITY reloadImageCmd.label "Muat Ulang Gambar">
+<!ENTITY reloadImageCmd.accesskey "U">
 <!ENTITY viewImageCmd.label "Lihat Gambar">
 <!ENTITY viewImageCmd.accesskey "G">
+<!ENTITY viewVideoCmd.label "Lihat Video">
+<!ENTITY viewVideoCmd.accesskey "V">
 <!ENTITY viewBGImageCmd.label "Lihat Gambar Latar Belakang">
 <!ENTITY viewBGImageCmd.accesskey "L">
 <!ENTITY setDesktopBackgroundCmd.label "Jadikan sebagai Latar Belakang Desktop…">
@@ -209,8 +214,16 @@
 <!ENTITY sendLinkCmd.accesskey "r">
 <!ENTITY saveImageCmd.label "Simpan Gambar dengan Nama…">
 <!ENTITY saveImageCmd.accesskey "a">
+<!ENTITY saveVideoCmd.label "Simpan Video dengan Nama…">
+<!ENTITY saveVideoCmd.accesskey "s">
+<!ENTITY saveAudioCmd.label "Simpan Audio dengan Nama…">
+<!ENTITY saveAudioCmd.accesskey "s">
 <!ENTITY sendImageCmd.label "Kirim Gambar…">
 <!ENTITY sendImageCmd.accesskey "a">
+<!ENTITY sendVideoCmd.label "Kirim Video…">
+<!ENTITY sendVideoCmd.accesskey "k">
+<!ENTITY sendAudioCmd.label "Kirim Audio…">
+<!ENTITY sendAudioCmd.accesskey "k">
 <!ENTITY copyLinkCmd.label "Salin Lokasi Tautan">
 <!ENTITY copyLinkCmd.accesskey "S">
 <!ENTITY copyLinkTextCmd.label "Salin Teks Tautan">
@@ -219,6 +232,10 @@
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyImageContentsCmd.label "Salin Gambar">
 <!ENTITY copyImageContentsCmd.accesskey "G">
+<!ENTITY copyVideoURLCmd.label "Salin Lokasi Video">
+<!ENTITY copyVideoURLCmd.accesskey "o">
+<!ENTITY copyAudioURLCmd.label "Salin Lokasi Audio">
+<!ENTITY copyAudioURLCmd.accesskey "o">
 <!ENTITY blockImageCmd.accesskey "g">
 <!ENTITY metadataCmd.label "Properti">
 <!ENTITY metadataCmd.accesskey "P">
@@ -226,6 +243,18 @@
 <!ENTITY copyEmailCmd.accesskey "E">
 <!ENTITY thisFrameMenu.label "Bingkai Ini">
 <!ENTITY thisFrameMenu.accesskey "B">
+<!ENTITY mediaPlay.label "Mainkan">
+<!ENTITY mediaPlay.accesskey "M">
+<!ENTITY mediaPause.label "Tunda">
+<!ENTITY mediaPause.accesskey "T">
+<!ENTITY mediaMute.label "Senyap">
+<!ENTITY mediaMute.accesskey "S">
+<!ENTITY mediaUnmute.label "Keraskan">
+<!ENTITY mediaUnmute.accesskey "k">
+<!ENTITY mediaShowControls.label "Tampilkan Kendali">
+<!ENTITY mediaShowControls.accesskey "T">
+<!ENTITY mediaHideControls.label "Sembunyikan Kendali">
+<!ENTITY mediaHideControls.accesskey "S">
 <!ENTITY fullZoomEnlargeCmd.label "Perbesar">
 <!ENTITY fullZoomEnlargeCmd.accesskey "b">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
@@ -298,3 +327,4 @@
 <!ENTITY identity.runBy "yang dijalankan oleh">
 <!ENTITY identity.moreInfoLinkText "Informasi lebih lanjut…">
 <!ENTITY downloadMonitor2.tooltip "Klik untuk membuka jendela Unduhan">
+<!ENTITY ctrlTab.search.emptyText "Cari Tab">

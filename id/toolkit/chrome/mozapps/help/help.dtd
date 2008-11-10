@@ -19,9 +19,8 @@
 <!ENTITY printButton.label "Cetak">
 <!ENTITY printButton.tooltip "Cetak halaman ini">
 <!ENTITY closeWindow.commandkey "W">
-<!ENTITY searchtab.label "Cari">
-<!ENTITY searchtab.accesskey "C">
-<!ENTITY searchClose.tooltip "Tutup hasil pencarian">
+<!ENTITY search.emptytext "Cari">
+<!ENTITY searchHeader.label "Hasil Pencarian">
 <!ENTITY toctab.label "Daftar Isi">
 <!ENTITY toctab.accesskey "I">
 <!ENTITY fullZoomReduceCmd.commandkey "-">

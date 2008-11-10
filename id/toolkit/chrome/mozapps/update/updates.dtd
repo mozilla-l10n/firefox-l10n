@@ -2,22 +2,17 @@
 <!ENTITY window.width "36em">
 <!ENTITY window.macWidth "39em">
 <!ENTITY checking.title "Memeriksa Versi Baru">
-<!ENTITY checking.label "&brandShortName; sekarang memeriksa versi baru…">
-<!ENTITY cancel.label "Batal">
-<!ENTITY cancel.accesskey "B">
+<!ENTITY  updateCheck.label "Memeriksa versi baru &brandShortName;…">
 <!ENTITY noupdatesfound.title "Versi Baru Tidak Ditemukan">
 <!ENTITY noupdatesautoenabled.intro "Belum ada versi baru yang tersedia. &brandShortName; akan memeriksa
                                            versi baru secara periodik.">
 <!ENTITY noupdatesautodisabled.intro "Belum ada versi baru yang tersedia. Periksa kembali nanti atau aktifkan
                                            pemeriksaan versi baru otomatis pada &brandShortName;.">
-<!ENTITY incompatibleChecking.label "Memeriksa apakah pemasangan versi baru akan bermasalah dengan ekstensi dan/atau tema anda…">
+<!ENTITY  incompatibleCheck.title "Pemeriksaan Kompatibilitas Pengaya">
+<!ENTITY  incompatibleCheck.label "Memeriksa versi baru pengaya anda…">
 <!ENTITY clickHere.label "Lihat informasi lebih lanjut tentang pemutakhiran ini">
-<!ENTITY incompatible.warning "Pemutakhiran ini akan menyebabkan sebagian ekstensi dan/atau tema Anda
-                                           berhenti bekerja sampai versinya diperbarui.">
-<!ENTITY listIncompatible.label "Lihat Daftar">
-<!ENTITY listIncompatible.accesskey "L">
-<!ENTITY upgrade.evangelism "Kami sangat menyarankan agar Anda meng-upgrade &brandShortName;
-                                           sesegera mungkin.">
+<!ENTITY  evangelism.desc "Sangat disarankan agar anda menerapkan pemutakhiran &brandShortName; ini sesegera mungkin.">
+
 <!ENTITY license.instructions "Apabila Anda setuju dengan syarat persetujuan ini, klik Saya Setuju
                                            di bawah ini untuk melanjutkan pemasangan versi baru ini.">
 <!ENTITY license.titleText "Perjanjian Lisensi Perangkat Lunak">
@@ -27,17 +22,15 @@
 <!ENTITY license.accept.accesskey "S">
 <!ENTITY license.decline "Saya TIDAK menyetujui Perjanjian Lisensi">
 <!ENTITY license.decline.accesskey "T">
+<!ENTITY  incompatibleList.title "Pengaya yang Tidak Kompatibel Ditemukan">
 <!ENTITY downloading.title "Mengunduh Versi Baru">
 <!ENTITY downloading.intro "Mengunduh versi baru…">
 <!ENTITY connecting.label "Menghubungi server pemutakhiran…">
 <!ENTITY verificationFailedText.label "&brandShortName; tidak dapat memverifikasi integritas dari
                                            pemutakhiran bertahap yang diunduh, sebab itu &brandShortName; sekarang mengunduh
                                            paket pemutakhiran yang lengkap.">
+<!ENTITY  viewDetails.tooltip             "Tampilkan detil pemutakhiran ini">
 <!ENTITY details.link "Detil">
-<!ENTITY pause.label "Tunda">
-<!ENTITY pause.accesskey "a">
-<!ENTITY close.label "Tutup">
-<!ENTITY close.accesskey "T">
 <!ENTITY error.label "Terdapat masalah pada pemeriksaan, pengunduhan, atau pemasangan pemutakhiran ini.
                                            &brandShortName; tidak dapat diperbarui karena:">
 <!ENTITY errorManual.label "Anda dapat memperbarui &brandShortName; sendiri dengan mengunjungi tautan ini
@@ -45,13 +38,11 @@
 <!ENTITY errorpatching.title "Pemutakhiran Gagal">
 <!ENTITY errorpatching.intro "Pemutakhiran Parsial tidak dapat diaplikasikan.
                                            &brandShortName; akan mencoba lagi dengan mengunduh pemutakhiran lengkap.">
-<!ENTITY finished.title "Versi Baru Telah Diunduh">
-<!ENTITY finished.text "Pemutakhiran sukses diunduh dan dipastikan keabsahannya, dan akan dipasang saat &brandShortName; dibuka lagi.">
-<!ENTITY finishedBackground.title "Versi Baru Siap Dipasang">
-<!ENTITY finishedBackground.text "&brandShortName; telah mengunduh dan memastikan versi baru yang sangat penting. Klik tautan di bawah ini untuk informasi lengkap.">
-<!ENTITY finishedBackground.name "Pemutakhiran:">
-<!ENTITY finishedBackground.more1 "Klik restart &brandShortName; sekarang untuk memasang versi baru sekarang juga.">
-<!ENTITY finishedBackground.textNotNow "Klik Jangan Saat Ini untuk menutup dialog tanpa merestart. &brandShortName; akan memasang versi baru saat dibuka lagi.">
+<!ENTITY  finishedPage.title "Pemutakhiran Siap Dipasang">
+<!ENTITY  finishedPage.text "Pemutakhiran akan dipasang saat &brandShortName; dibuka lagi. Anda dapat merestart &brandShortName; sekarang juga atau tetap bekerja dan me-restart nanti.">
+<!ENTITY  finishedBackgroundPage.text "Pemutakhiran keamanan dan stabilitas untuk &brandShortName; telah diunduh dan siap untuk dipasang.">
+<!ENTITY  finishedBackground.name "Pemutakhiran:">
+<!ENTITY  finishedBackground.more "Pemutakhiran akan dipasang saat &brandShortName; dimulai lagi. Anda dapat me-restart &brandShortName; sekarang juga atau tetap bekerja dan me-restart nanti.">
 <!ENTITY installed.title "Versi Baru Terpasang">
 <!ENTITY installed.intro "Versi baru sukses dipasang.">
 <!ENTITY whatsnew.label "Baca tentang hal baru…">

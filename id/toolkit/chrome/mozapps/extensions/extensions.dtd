@@ -96,6 +96,7 @@
 <!ENTITY insecureUpdate.label "Tidak menyediakan versi baru yang aman.">
 <!ENTITY needsDependencies.label "Membutuhkan item tambahan.">
 <!ENTITY blocklisted.label "Dimatikan untuk perlindungan anda">
+<!ENTITY softBlocklisted.label "Telah diketahui dapat menimbulkan masalah stabilitas atau keamanan.">
 <!ENTITY toBeDisabled.label "Pengaya berikut akan dimatikan setelah &brandShortName; direstart.">
 <!ENTITY toBeEnabled.label "Pengaya berikut akan diaktifkan setelah &brandShortName; direstart.">
 <!ENTITY toBeInstalled.label "Pengaya berikut akan dipasang setelah &brandShortName; direstart.">
@@ -146,3 +147,5 @@
 <!ENTITY eula.width "560px">
 <!ENTITY eula.height "400px">
 <!ENTITY eula.accept "Setuju dan Pasang…">
+<!ENTITY blocklist.blocked.label "Diblokir">
+<!ENTITY blocklist.checkbox.label "Matikan">
