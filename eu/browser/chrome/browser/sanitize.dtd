@@ -1,40 +1,41 @@
-<!ENTITY sanitizePrefs.title "Clear Private Data">
-<!ENTITY sanitizeDialog2.title "Clear Recent History">
+<!ENTITY sanitizePrefs.title "Garbitu datu pribatuak">
+<!ENTITY sanitizeDialog2.title "Garbitu azkenaldiko historia">
 
 <!ENTITY sanitizeItems.label "Osagai hauek orain garbitu:">
-<!ENTITY clearDataSettings2.label "When I quit &brandShortName;, it should automatically clear all:">
+<!ENTITY clearDataSettings2.label "&brandShortName; ixtean, automatikoki hau garbitu beharko luke:">
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
 
-<!ENTITY clearDuration.label "Remove ">
-<!ENTITY clearDuration.lastHour "the last hour">
-<!ENTITY clearDuration.last2Hours "the last 2 hours">
-<!ENTITY clearDuration.last4Hours "the last 4 hours">
-<!ENTITY clearDuration.today "my history for today">
-<!ENTITY clearDuration.everything "my entire history">
+<!ENTITY clearDuration.label "Kendu ">
+<!ENTITY clearDuration.lastHour "azken ordua">
+<!ENTITY clearDuration.last2Hours "azken 2 orduak">
+<!ENTITY clearDuration.last4Hours "azken 4 orduak">
+<!ENTITY clearDuration.today "nire gaurko historia">
+<!ENTITY clearDuration.everything "nire historia osoa">
 <!-- Localization note (clearDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearDuration.suffix "">
+<!ENTITY clearDuration.suffix "_: clearDuration.suffix
+">
 
-<!ENTITY historySection.label "History">
-<!ENTITY dataSection.label "Data">
+<!ENTITY historySection.label "Historia">
+<!ENTITY dataSection.label "Datuak">
 
-<!ENTITY itemVisitedPages.label "Visited Pages">
-<!ENTITY itemVisitedPages.accesskey "V">
-<!ENTITY itemFormSearchEntries.label "Form &amp; Search Entries">
-<!ENTITY itemFormSearchEntries.accesskey "F">
+<!ENTITY itemVisitedPages.label "Bisitaturiko orriak">
+<!ENTITY itemVisitedPages.accesskey "B">
+<!ENTITY itemFormSearchEntries.label "Inprimaki eta bilaketa sarrerak">
+<!ENTITY itemFormSearchEntries.accesskey "I">
 <!ENTITY itemPasswords.label "Gordetako pasahitzak">
 <!ENTITY itemPasswords.accesskey "P">
 <!ENTITY itemCookies.label "Cookie-ak">
 <!ENTITY itemCookies.accesskey "C">
-<!ENTITY itemWebCache.label "Web Cache">
+<!ENTITY itemWebCache.label "Web-cachea">
 <!ENTITY itemWebCache.accesskey "W">
 <!ENTITY itemOfflineApps.label "Lineaz kanpoko webguneen datuak">
 <!ENTITY itemOfflineApps.accesskey "L">
-<!ENTITY itemDownloadList.label "Download List">
+<!ENTITY itemDownloadList.label "Deskarga historia">
 <!ENTITY itemDownloadList.accesskey "D">
-<!ENTITY itemActiveLogins.label "Active Logins">
-<!ENTITY itemActiveLogins.accesskey "L">
+<!ENTITY itemActiveLogins.label "Saio-hasiera aktiboak">
+<!ENTITY itemActiveLogins.accesskey "S">
 
 <!ENTITY window.width "30em">
 <!ENTITY column.width "14em">
