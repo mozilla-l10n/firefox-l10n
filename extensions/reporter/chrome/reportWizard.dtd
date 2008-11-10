@@ -31,7 +31,7 @@
 <!ENTITY reportForm.problem_type.item6.title        "Aparência incorreta">
 <!ENTITY reportForm.problem_type.item7.title        "Outro problema">
 <!ENTITY reportForm.problem_type.item8.title        "Não acessível a portadores de deficiências">
-<!ENTITY reportForm.problem_type.item9.title        "Versão impressa está incorreta">
+<!ENTITY reportForm.problem_type.item9.title        "Impressão incorreta">
 
 <!ENTITY reportForm.describe.title                  "Descrição do problema:">
 <!ENTITY reportForm.describe.accesskey              "D">
