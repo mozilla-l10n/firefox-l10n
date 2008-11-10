@@ -7,6 +7,9 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;" >
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - " >
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (tryb prywatny)"><!-- FIXME: bap 2011, private browsing -->
 
 <!ENTITY tabCmd.label "Nowa karta" >
 <!ENTITY tabCmd.accesskey "t" >
@@ -168,6 +171,9 @@
 
 <!ENTITY clearRecentHistoryCmd.label     "Wyczyść historię przeglądania">
 <!ENTITY clearRecentHistoryCmd.accesskey "W">
+
+<!ENTITY privateBrowsingCmd.label        "Tryb prywatny">
+<!ENTITY privateBrowsingCmd.accesskey    "T">
 
 <!ENTITY viewMenu.label "Widok" >
 <!ENTITY viewMenu.accesskey "W" >
