@@ -112,6 +112,7 @@
 <!ENTITY insecureUpdate.label             "Verzorgt geen beveiligde updates.">
 <!ENTITY needsDependencies.label          "Vereist extra onderdelen.">
 <!ENTITY blocklisted.label                "Uitgeschakeld voor uw bescherming.">
+<!ENTITY softBlocklisted.label            "Bekende veiligheids of stabiliteits problemen veroorzakers.">
 <!ENTITY toBeDisabled.label               "Deze add-on zal worden uitgeschakeld zodra &brandShortName; wordt herstart.">
 <!ENTITY toBeEnabled.label                "Deze add-on zal worden ingeschakeld zodra &brandShortName; wordt herstart.">
 <!ENTITY toBeInstalled.label              "Deze add-on zal worden geïnstalleerd zodra &brandShortName; wordt herstart.">
@@ -168,3 +169,6 @@
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "Accepteren en installeren…">
+
+<!ENTITY blocklist.blocked.label          "Geblokkeerd">
+<!ENTITY blocklist.checkbox.label         "Uitgeschakeld">
