@@ -161,7 +161,7 @@
 <!ENTITY preferencesCmdUnix.label       "Voorkeuren…">
 <!ENTITY preferencesCmdUnix.accesskey     "V">
 
-<!ENTITY clearRecentHistoryCmd.label            "Recente geschiedenis opruimenClear Recent History">
+<!ENTITY clearRecentHistoryCmd.label            "Recente geschiedenis opruimen">
 <!ENTITY clearRecentHistoryCmd.accesskey        "R">
 
 <!ENTITY privateBrowsingCmd.label            "Privé navigeren">
