@@ -1,28 +1,21 @@
 <!ENTITY  updateWizard.title              "Aktualizacja aplikacji">
 
 <!ENTITY  window.width                    "37em"><!-- en-US: 36 -->
-<!ENTITY  window.macWidth                 "40em"><!-- en-US: 39 -->             
+<!ENTITY  window.macWidth                 "40em"><!-- en-US: 39 -->
 
 <!ENTITY  checking.title                  "Sprawdzanie aktualizacji">
-<!ENTITY  checking.label                  "&brandShortName; sprawdza, czy są dostępne aktualizacje...">
-
-<!ENTITY  cancel.label                    "Anuluj">
-<!ENTITY  cancel.accesskey                "A">
+<!ENTITY  updateCheck.label               "Sprawdzanie dostępności aktualizacji dla programu &brandShortName;…">
 
 <!ENTITY  noupdatesfound.title            "Nie znaleziono żadnych aktualizacji">
 <!ENTITY  noupdatesautoenabled.intro      "Brak dostępnych aktualizacji. &brandShortName; okresowo sprawdza dostępność aktualizacji.">
-<!ENTITY  noupdatesautodisabled.intro     "Brak dostępnych aktualizacji. Prosimy sprawdzić później lub włączyć automatyczne sprawdzanie
-dostępności aktualizacji w programie &brandShortName;">
+<!ENTITY  noupdatesautodisabled.intro     "Brak dostępnych aktualizacji. Prosimy sprawdzić później lub włączyć automatyczne sprawdzanie dostępności aktualizacji w programie &brandShortName;">
 
-<!ENTITY  incompatibleChecking.label      "Sprawdzanie, czy ta aktualizacja spowoduje problemy z zainstalowanymi rozszerzeniami lub motywami...">
+<!ENTITY  incompatibleCheck.title         "Sprawdzanie kompatybilności dodatków">
+<!ENTITY  incompatibleCheck.label         "Sprawdzanie dostępności aktualizacji dla dodatków…">
 
 <!ENTITY  clickHere.label                 "Wyświetl więcej informacji o tej aktualizacji...">
 
-<!ENTITY  incompatible.warning            "Ta aktualizacja spowoduje, że niektóre z rozszerzeń lub motywów przestaną działać, dopóki nie zostaną zaktualizowane.">
-<!ENTITY  listIncompatible.label          "Pokaż listę">
-<!ENTITY  listIncompatible.accesskey      "o">
-
-<!ENTITY  upgrade.evangelism              "Aktualizacja programu &brandShortName; jest wysoce zalecana.">
+<!ENTITY  evangelism.desc                 "Aktualizacja programu &brandShortName; jest wysoce zalecana.">
 
 <!ENTITY  license.instructions            'Jeśli akceptujesz warunki licencji, kliknij przycisk "Zgadzam się", aby kontynuować instalację aktualizacji.'>
 
@@ -34,17 +27,17 @@ dostępności aktualizacji w programie &brandShortName;">
 <!ENTITY  license.decline                 "NIE akceptuję warunków umowy licencyjnej">
 <!ENTITY  license.decline.accesskey       "t">
 
+<!ENTITY  incompatibleList.title          "Niekompatybilne dodatki">
+
 <!ENTITY  downloading.title               "Pobieranie aktualizacji">
 
 <!ENTITY  downloading.intro               "Trwa pobieranie aktualizacji...">
 <!ENTITY  connecting.label                "Łączenie z serwerem aktualizacji...">
 <!ENTITY  verificationFailedText.label    "Nie udało się potwierdzić integralności pobranej aktualizacji. Rozpoczęto pobieranie całego programu.">
 
+<!ENTITY  viewDetails.tooltip             "Wyświetl więcej informacji na temat tej aktualizacji">
+
 <!ENTITY  details.link                    "Szczegóły">
-<!ENTITY  pause.label                     "Wstrzymaj">
-<!ENTITY  pause.accesskey                 "W">
-<!ENTITY  close.label                     "Zamknij">
-<!ENTITY  close.accesskey                 "Z">
 
 <!ENTITY  error.label                     "Pojawiły się problemy podczas sprawdzania, pobierania lub instalacji aktualizacji. Program &brandShortName; nie mógł zostać zaktualizowany, ponieważ:">
 
@@ -53,20 +46,18 @@ dostępności aktualizacji w programie &brandShortName;">
 <!ENTITY  errorpatching.title             "Aktualizacja nie powiodła się">
 <!ENTITY  errorpatching.intro             "Częściowa aktualizacja nie mogła zostać przeprowadzona. &brandShortName; spróbuje pobrać kompletną aktualizację.">
 
-<!ENTITY  finished.title                  "Aktualizacja została pobrana">
-<!ENTITY  finished.text                   "Aktualizacja została pobrana i zweryfikowana; zostanie zainstalowana przy następnym uruchomieniu programu &brandShortName;.">
+<!ENTITY  finishedPage.title              "Aktualizacja gotowa do zainstalowania">
+<!ENTITY  finishedPage.text               "Aktualizacja zostanie zainstalowana przy następnym uruchomieniu programu &brandShortName;. Uruchom teraz ponownie program &brandShortName; lub kontynuuj pracę i zainstaluj aktualizację później.">
 
-<!ENTITY  finishedBackground.title        "Aktualizacja gotowa do zainstalowania">
-<!ENTITY  finishedBackground.text         "Program &brandShortName; pobrał ważną aktualizację. Kliknij poniższy odnośnik, by uzyskać więcej informacji.">
+<!ENTITY  finishedBackgroundPage.text     "Program &brandShortName; pobrał ważną aktualizację i jest gotowy do jej zainstalowania.">
 
 <!ENTITY  finishedBackground.name         "Aktualizacja:">
-<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
-<!ENTITY  finishedBackground.more1        'Kliknij przycisk "Uruchom teraz ponownie", by zainstalować teraz aktualizację.'>
-<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!ENTITY  finishedBackground.textNotNow   'Kliknij przycisk "Nie teraz", by zamknąć to okno i kontynuować pracę. &brandShortName; zainstaluje aktualizację przy następnym uruchomieniu.'>
-<!ENTITY  installed.title                 "Aktualizacja zainstalowana">  
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more         "Aktualizacja zostanie zainstalowana przy następnym uruchomieniu programu &brandShortName;. Uruchom teraz ponownie program &brandShortName; lub nie instaluj teraz i kontynuuj pracę.">
+
+<!ENTITY  installed.title                 "Aktualizacja zainstalowana">
 <!ENTITY  installed.intro                 "Instalacja aktualizacji zakończyła się powodzeniem.">
-<!ENTITY  whatsnew.label                  "Spis najważniejszych zmian..."> 
+<!ENTITY  whatsnew.label                  "Spis najważniejszych zmian...">
 
 <!ENTITY  update.details.label            "Szczegóły">
 <!ENTITY  update.installedOn.label        "Zainstalowano:">
