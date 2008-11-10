@@ -15,8 +15,6 @@
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY showOnlyThisFrameCmd.label     "Nur diesen Frame anzeigen">
 <!ENTITY showOnlyThisFrameCmd.accesskey "g">
-<!ENTITY addToBookmarksCmd.label      "Lesezeichen für diese Seite hinzufügen">
-<!ENTITY addToBookmarksCmd.accesskey  "z">
 <!ENTITY goBackCmd.label              "Zurück">
 <!ENTITY goBackCmd.accesskey          "u">
 <!ENTITY goForwardCmd.label           "Vor">

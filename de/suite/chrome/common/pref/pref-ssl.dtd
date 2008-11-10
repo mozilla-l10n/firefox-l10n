@@ -55,8 +55,6 @@
 <!ENTITY warn.insecurepost.accesskey        "S">
 <!ENTITY warn.leavingsecure                 "Verlassen einer Seite, die Verschlüsselung unterstützt">
 <!ENTITY warn.leavingsecure.accesskey       "V">
-<!ENTITY warn.secureredirect                "Umleitung von einer verschlüsselten Seite auf eine andere verschlüsselte Seite">
-<!ENTITY warn.secureredirecttoinsecure      "Umleitung von einer verschlüsselten Seite auf eine unverschlüsselte Seite">
 <!ENTITY warn.viewmixed                     "Ansehen einer Seite mit einer Mischung von sicheren und unsicheren Inhalten">
 <!ENTITY warn.viewmixed.accesskey           "A">
 
