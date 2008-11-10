@@ -1,0 +1,13 @@
+<!ENTITY privatebrowsingpage.tabtitle                  "వ్యక్తిగత అన్వేషణ">
+
+<!ENTITY privatebrowsingpage.pagetitle                 "వ్యక్తిగత అన్వేషణ">
+
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; ఈ సభకు ఎటువంటి చరిత్రను గుర్తుంచుకోదు.">
+<!ENTITY privatebrowsingpage.longDesc                  "ఈ అన్వేషణ సభనందు &brandShortName;చేత ఏ చరిత్ర రికార్డు చేయబడదు.  ఇది అన్వేషణ చరిత్రను, శోధన చరిత్రను, డౌనులోడు చరిత్రను, వెబ్ ఫాం చరిత్రను, కుకీలను, మరియు తాత్కాలిక ఇంటర్‌నెట్ ఫైళ్ళను చేర్చుతుంది. ఏమైనప్పటికి, మీరు డౌనులోడు చేసిన ఫైళ్ళు లేదా బుక్‌మార్కు చేసినవి వుంచబడతాయి.">
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "మీరు ఇటీవలి చరిత్రను శుభ్రంచేస్తూ కూడా ప్రారంభించవచ్చు.">
+<!ENTITY privatebrowsingpage.recentHistory.label       "ఇటీవలి చరిత్రను శుభ్రంచేయి">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey   "C">
+
+<!ENTITY privatebrowsingpage.howToStopDesc             "వ్యక్తిగత అన్వేషణను ఆపుటకు,  సాధనములు &gt; వ్యక్తిగత అన్వేషణను అన్‌చెక్ చేయుము.">
+<!ENTITY privatebrowsingpage.footerDesc                "ఆనందించండి!">
