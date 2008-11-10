@@ -14,10 +14,6 @@
 <!ENTITY autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "Frissítés">
 <!ENTITY reload.accesskey              "r">
-<!ENTITY  ftp.label                     "FTP-proxy:">
-<!ENTITY ftp.accesskey                 "f">
-<!ENTITY  gopher.label                  "Gopher-proxy:">
-<!ENTITY gopher.accesskey              "g">
 <!ENTITY  http.label                    "HTTP-proxy:">
 <!ENTITY http.accesskey                "h">
 <!ENTITY  ssl.label                     "SSL-proxy:">

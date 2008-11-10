@@ -5,7 +5,6 @@
 <!ENTITY offlineNotDownload.label "Üzenetek, melyek nagyobbak, mint">
 <!ENTITY offlineNotDownload.accesskey "e">
 <!ENTITY kb.label "KB">
-<!ENTITY days.label "napban érkeztek">
 <!ENTITY daysOld.label "nap">
 <!ENTITY message.label "üzenet">
 <!ENTITY nntpNotDownloadRead.label "Üzenet olvasása">

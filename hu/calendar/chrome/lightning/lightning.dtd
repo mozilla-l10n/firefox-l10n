@@ -62,30 +62,22 @@
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "N">
 
 <!-- Messenger Sidebar -->
-<!ENTITY lightning.sidebar.invitations.label "Meghívók">
-<!ENTITY lightning.sidebar.invitations.accesskey "M">
 <!ENTITY lightning.calendar.label            "Naptár">
 <!ENTITY lightning.calendar.accesskey        "N">
 <!ENTITY lightning.tasks.label               "Feladatok">
 <!ENTITY lightning.tasks.accesskey           "F">
 
 <!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "Levelek">
+<!ENTITY lightning.toolbar.mail.label         "Levelezés">
 <!ENTITY lightning.toolbar.mail.accesskey     "L">
 <!ENTITY lightning.toolbar.calendar.label     "Naptár">
 <!ENTITY lightning.toolbar.calendar.accesskey "N">
 <!ENTITY lightning.toolbar.task.label         "Feladatok">
 <!ENTITY lightning.toolbar.task.accesskey     "F">
 
-<!-- Customize Toolbar Dialog -->
-<!ENTITY customize.toolbar.selector.label    "Eszköztár">
-<!ENTITY customize.toolbar.selector.mode     "Mód eszköztár">
-<!ENTITY customize.toolbar.selector.mail     "Levelező eszköztár">
-<!ENTITY customize.toolbar.selector.calendar "Naptár eszköztár">
-<!ENTITY customize.toolbar.selector.task     "Feladat eszköztár">
-<!ENTITY customize.toolbar.location.label    "Hely:">
-<!ENTITY customize.toolbar.location.top      "Tetejére">
-<!ENTITY customize.toolbar.location.bottom   "Aljára">
+<!-- Toolbar write button -->
+<!ENTITY lightning.toolbar.newevent.label     "Esemény">
+<!ENTITY lightning.toolbar.newtask.label      "Feladat">
 
 <!-- Messenger Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Nap">
@@ -121,3 +113,4 @@
 <!ENTITY todaypane.showNone.accesskey "i">
 <!ENTITY todaypane.showTodayPane.label "A Ma panel megjelenítése">
 <!ENTITY todaypane.showTodayPane.accesskey "p">
+<!ENTITY todaypane.statusButton.label "Ma panel">

@@ -6,13 +6,9 @@
 <!ENTITY fccMailFolder.accesskey "M">
 <!ENTITY fccReplyFollowsParent.label "Az üzenetre adott válaszok elhelyezése az üzenettel megegyező mappában">
 <!ENTITY fccReplyFollowsParent.accesskey "z">
-<!ENTITY chooseFolderButton.label "Mappa választása...">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Rejtett másolatot kap (Bcc):">
 <!ENTITY bccAddress.accesskey "R">
-<!ENTITY specialFolderTitle.label "Különleges mappák">
-<!ENTITY draftMailFolder.label "Piszkozatok tárolója:">
-<!ENTITY templateMailFolder.label "Sablonok tárolója:">
 <!ENTITY saveMessageDlg.label "Jóváhagyás kérése üzenet mentésekor">
 <!ENTITY saveMessageDlg.accesskey "J">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

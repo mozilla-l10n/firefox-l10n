@@ -46,15 +46,6 @@
 <!ENTITY calendar.calendar.label     "Naptár">
 <!ENTITY calendar.calendar.accesskey "N">
 
-<!ENTITY calendar.flat.topbar.choosedate       "Ugrás adott napra" >
-<!ENTITY calendar.flat.topbar.dayview          "Napi nézet" >
-<!ENTITY calendar.dayview.accesskey            "N">
-<!ENTITY calendar.flat.topbar.weekview         "Heti nézet" >
-<!ENTITY calendar.weekview.accesskey           "H">
-<!ENTITY calendar.flat.topbar.monthview        "Havi nézet" >
-<!ENTITY calendar.monthview.accesskey          "v">
-<!ENTITY calendar.flat.topbar.multiweekview    "Többheti nézet" >
-<!ENTITY calendar.multiweekview.accesskey      "T">
 <!ENTITY calendar.dayView.key                  "1" >
 <!ENTITY calendar.weekView.key                 "2" >
 <!ENTITY calendar.multiweekView.key            "3" >
@@ -62,14 +53,11 @@
 
 <!ENTITY calendar.newtask.button.tooltip          "Új feladat létrehozása" >
 <!ENTITY calendar.newevent.button.tooltip         "Új elem létrehozása" >
-<!ENTITY calendar.delete.button.tooltip           "Kiválasztott esemény törlése" >
 <!ENTITY calendar.edit.button.tooltip             "Kiválasztott esemény szerkesztése" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Feladatok" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Befejezett feladatok megjelenítése">
 
-<!ENTITY calendar.calendartab.label "Dátum">
-<!ENTITY calendar.listofcalendarstab.label "Naptárak">
 <!ENTITY calendar.today.button.label       "Ma">
 <!ENTITY calendar.tomorrow.button.label       "Holnap">
 <!ENTITY calendar.soon.button.label           "Nemsokára">
@@ -97,11 +85,9 @@
 <!ENTITY calendar.unifinder.tree.calendarname.label  "Naptár neve">
 <!ENTITY calendar.unifinder.tree.duration.label      "Határidő">
 <!ENTITY calendar.unifinder.close.tooltip            "Az eseménykereső és az eseménylista bezárása">
-<!ENTITY calendar.find.key  "F">
 
 <!ENTITY calendar.today.button.tooltip            "Ugrás a mai napra" >
 <!ENTITY calendar.todaypane.button.tooltip        "A Ma panel megjelenítése" >
-<!ENTITY calendar.choosedate.button.tooltip       "Dátumválasztás ugráshoz" >
 <!ENTITY calendar.unifinder.button.tooltip        "Események keresése és listázása" >
 
 <!ENTITY calendar.day.button.tooltip            "Átváltás napi nézetre" >
@@ -118,19 +104,7 @@
 
 <!ENTITY calendar.newtask.button.label          "Új feladat" >
 <!ENTITY calendar.newevent.button.label         "Új esemény" >
-<!ENTITY calendar.delete.button.label           "Törlés" >
 <!ENTITY calendar.edit.button.label             "Szerkesztés" >
-
-<!ENTITY calendar.choosedate.button.label       "Dátumválasztás" >
-
-<!ENTITY calendar.cut.button.tooltip            "Kivágás" >
-<!ENTITY calendar.copy.button.tooltip           "Másolás" >
-<!ENTITY calendar.paste.button.tooltip          "Beillesztés" >
-<!ENTITY calendar.print.button.tooltip          "Naptár nyomtatása" >
-
-<!ENTITY calendar.cut.button.label              "Kivágás" >
-<!ENTITY calendar.copy.button.label             "Másolás" >
-<!ENTITY calendar.paste.button.label            "Beillesztés" >
 <!ENTITY calendar.print.button.label            "Nyomtatás" >
 
 <!ENTITY calendar.import.button.tooltip            "Események importálása helyi fájlból" >
@@ -146,9 +120,6 @@
 <!ENTITY calendar.publish.button.label             "Közzététel" >
 <!ENTITY calendar.unifinder.button.label           "Események keresése" >
 
-<!ENTITY calendar.remotereload.button.label   "Frissítés" >
-<!ENTITY calendar.remotereload.button.tooltip   "Az összes távoli naptár újra betöltése" >
-
 <!ENTITY calendar.day.button.label              "Nap" >
 <!ENTITY calendar.week.button.label             "Hét" >
 <!ENTITY calendar.month.button.label            "Hónap" >
@@ -163,17 +134,7 @@
 <!ENTITY calendar.orientation.label "Nézet elforgatása" >
 <!ENTITY calendar.orientation.accesskey "N">
 
-<!ENTITY calendar.menu.options.close.key        "W">
-
 <!ENTITY calendar.search.options.searchfor " ha tartalmazza">
-
-<!ENTITY calendar.menu.numberofweeks.label     "Hetek száma" >
-<!ENTITY calendar.menu.numberofweeks.accesskey "H">
-<!ENTITY calendar.menu.numberofweeks.2      "2 hét" >
-<!ENTITY calendar.menu.numberofweeks.3      "3 hét" >
-<!ENTITY calendar.menu.numberofweeks.4      "4 hét" >
-<!ENTITY calendar.menu.numberofweeks.5      "5 hét" >
-<!ENTITY calendar.menu.numberofweeks.6      "6 hét" >
 
 <!ENTITY calendar.list.header.label                 "Naptár">
 
@@ -206,18 +167,9 @@
 <!ENTITY calendar.task.category.button.tooltip  "Feladat kategorizálása">
 <!ENTITY calendar.task.complete.button.tooltip  "Kijelölt feladatok befejezettnek jelölése">
 <!ENTITY calendar.task.priority.button.tooltip  "Prioritás változtatása">
-<!ENTITY calendar.task.delete.button.tooltip    "Kijelölt feladat törlése">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Dokumentum: kész">
-
-<!-- customizable toolbars -->
-<!ENTITY calendar.context.customize.label             "Testreszabás...">
-<!ENTITY calendar.context.customize.accesskey         "T">
-<!ENTITY calendar.menu.customize.label                "Eszköztár testreszabása...">
-<!ENTITY calendar.menu.customize.accesskey            "E">
-<!ENTITY calendar.maintoolbar.name                    "Fő eszköztár">
-<!ENTITY calendar.maintoolbar.accesskey               "F">
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label      "Megnyitás">
@@ -360,10 +312,6 @@
 <!ENTITY calendarproperties.cache.label    "Gyorsítótár (KÍSÉRLETI, újraindítás szükséges)">
 <!ENTITY calendarproperties.enabled.label "Naptár bekapcsolása">
 
-<!-- Sunbird Help -->
-<!ENTITY calendar.help.label               "Tartalom">
-<!ENTITY calendar.help.accesskey           "T">
-
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "Naptár közzététele">
 <!ENTITY calendar.publish.url.label                 "Közzétételi hely (URL)">
@@ -392,7 +340,3 @@
 <!ENTITY calendar.error.number "Hibaszám:">
 <!ENTITY calendar.error.description "Leírás:">
 <!ENTITY calendar.error.title "Hiba történt">
-
-
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">

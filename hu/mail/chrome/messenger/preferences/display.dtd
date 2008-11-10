@@ -1,8 +1,6 @@
 <!ENTITY itemFormatting.label             "Formázás">
 <!ENTITY itemTags.label                   "Címkék">
-<!ENTITY itemFonts.label                  "Betűk">
 
-<!ENTITY textBegin.label                  "Idézett szöveg megjelenése">
 <!ENTITY style.label                      "Stílus:">
 <!ENTITY style.accesskey                  "t">
 <!ENTITY regularStyle.label               "Normál">
@@ -19,12 +17,10 @@
 <!ENTITY displayWidth.label               "Normál szöveges levelek">
 <!ENTITY plainText.label                  "A következő betűkészlet használata normál szöveges leveleknél:">
 <!ENTITY displayText.label                "A következő beállítások használata idézett szöveges levelek esetén:">
-<!ENTITY viewingPlainText.label            "Normál szöveges levelek megjelenítésekor:">
 <!ENTITY fixedWidth.label                 "Fix szélességű">
 <!ENTITY fixedWidth.accesskey             "x">
 <!ENTITY variableWidth.label              "Proporcionális">
 <!ENTITY variableWidth.accesskey          "P">
-<!ENTITY readingMessagesHeader.label      "Bejövő levelek">
 <!ENTITY colors.label                     "Színek">
 <!ENTITY overrideColors.label             "A következő színek használata üzenetek megjelenítésekor:">
 <!ENTITY textColor.label                  "Szövegszín:">

@@ -4,10 +4,7 @@
 <!ENTITY  window.macWidth                 "39em">
 
 <!ENTITY  checking.title                  "Frissítések keresése">
-<!ENTITY  checking.label                  "A &brandShortName; keresi a rendelkezésre álló frissítéseket...">
-
-<!ENTITY  cancel.label                    "Mégse">
-<!ENTITY cancel.accesskey                "M">
+<!ENTITY  updateCheck.label               "Looking for newer versions of &brandShortName;...">
 
 <!ENTITY  noupdatesfound.title            "Nincsenek frissítések">
 <!ENTITY  noupdatesautoenabled.intro      "Nincsenek frissítések. A &brandShortName; rendszeresen
@@ -15,18 +12,16 @@
 <!ENTITY  noupdatesautodisabled.intro     "Nincsenek frissítések. Ellenőrizze később, vagy engedélyezza a
                                            &brandShortName;'s automatikus frissítés-ellenőrzőjét.">
 
-<!ENTITY  incompatibleChecking.label      "Ellenőrzése, hogy ez a frissítés okozhat-e gondot a kiterjesztéseknél és témáknál...">
+<!ENTITY  incompatibleCheck.title         "Checking Add-on Compatibility">
+<!ENTITY  incompatibleCheck.label         "Looking for newer versions of your add-ons...">
+
 <!ENTITY  clickHere.label                 "További információk erről a frissítésről">
 
-<!ENTITY  incompatible.warning            "Ez a frissítés bizonyos kiterjesztéseket, illetve témákat
-                                           működésképtelenné tesz, azokat is frissíteni kell.">
-<!ENTITY  listIncompatible.label          "Lista megjelenítése">
-<!ENTITY listIncompatible.accesskey      "L">
+<!ENTITY  evangelism.desc                 "It is strongly recommended that you apply this 
+                                           update for &brandShortName; as soon as possible.">
 
-<!ENTITY  upgrade.evangelism              "Nagyon ajánlott a &brandShortName; frissítése.">
-
-<!ENTITY  license.instructions            "Ha egyetért a szerződés feltételeivel, kattintson az Egyetértek
-                                           gombra a telepítés folytatása előtt.">
+<!ENTITY  license.instructions            "If you agree to the terms of this agreement, click I Agree 
+                                           below to continue installing this update.">
 
 <!ENTITY  license.titleText               "Szoftverlicenc-szerződés">
 <!ENTITY  license.introText               "A szoftver használatának feltételei.">
@@ -36,6 +31,8 @@
 <!ENTITY  license.decline                 "Nem fogadom el a licencszerződés feltételeit.">
 <!ENTITY license.decline.accesskey       "N">
 
+<!ENTITY  incompatibleList.title          "Incompatible Add-ons Found">
+
 <!ENTITY  downloading.title               "Frissítés letöltése">
 <!ENTITY  downloading.intro               "Frissítés letöltése...">
 <!ENTITY  connecting.label                "Kapcsolódás a kiszolgálóhoz...">
@@ -43,11 +40,9 @@
                                            frissítés sértetlenségét, ezért most kénytelen a teljes frissítési
                                            csomagot letölteni.">
 
+<!ENTITY  viewDetails.tooltip             "View details for this update">
+
 <!ENTITY  details.link                    "Részletek">
-<!ENTITY  pause.label                     "Szünet">
-<!ENTITY pause.accesskey                 "S">
-<!ENTITY  close.label                     "Bezárás">
-<!ENTITY close.accesskey                 "B">
 
 <!ENTITY  error.label                     "Gondok támadtak a frissítés ellenőrzése, letöltése vagy telepítése
                                            közben. A &brandShortName; programot nem lehet frissíteni, mert:">
@@ -59,18 +54,16 @@
 <!ENTITY  errorpatching.intro             "A részleges frissítést nem lehetett alkalmazni. 
                                            A &brandShortName; újra próbálkozik, most a teljes frissítés letöltésével.">
 
-<!ENTITY  finished.title                  "Frissítés letöltve">
-<!ENTITY  finished.text                   "A frissítés letöltése és ellenőrzése sikeres volt, a
-                                           &brandShortName; következő indításakor telepítve lesz.">
+<!ENTITY  finishedPage.title              "A frissítés készen áll a telepítésre">
+<!ENTITY  finishedPage.text               "The update will be installed the next time &brandShortName; starts. You 
+                                           can restart &brandShortName; now, or continue working and restart later.">
 
-<!ENTITY  finishedBackground.title        "A frissítés készen áll a telepítésre">
-<!ENTITY  finishedBackground.text         "A &brandShortName; fontos frissítést töltött le és ellenőrzött. 
-                                           További részletekért kattintson az alábbi hivatkozásra.">
+<!ENTITY  finishedBackgroundPage.text     "A security and stability update for &brandShortName; has been
+                                           downloaded and is ready to be installed.">
 <!ENTITY  finishedBackground.name         "Frissítés:">
-<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
-<!ENTITY  finishedBackground.more1        "Kattintson a &brandShortName; újraindítása gombra a frissítés telepítéséhez.">
-<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!ENTITY  finishedBackground.textNotNow   "Kattintson a Nem most gombra a párbeszédpanel bezárásához és a munka folytatásához. A &brandShortName; a következő indításakor fogja a frissítést telepíteni.">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more         "The update will be installed the next time &brandShortName; starts. You
+                                           can restart &brandShortName; now, or continue working and restart later.">
 
 <!ENTITY  installed.title                 "Frissítés telepítve">
 <!ENTITY  installed.intro                 "A frissítés sikeresen telepítve lett.">

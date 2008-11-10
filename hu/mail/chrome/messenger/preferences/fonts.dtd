@@ -6,7 +6,6 @@
 <!ENTITY  language.label                          "Kódolás:">
 <!ENTITY language.accesskey                      "K">
 
-<!ENTITY  typefaces.label                         "Betűkészlet">
 <!ENTITY  sizes.label                             "Méret (képpont)">
 <!ENTITY proportionalSize.accesskey              "M">
 <!ENTITY monospaceSize.accesskey                 "r">
@@ -20,8 +19,6 @@
 <!ENTITY sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Fix szélességű:">
 <!ENTITY monospace.accesskey                     "F">
-
-<!ENTITY  fontsize.units                          "képpont">
 
 <!ENTITY  font.langGroup.latin1                   "Nyugati">
 <!ENTITY  font.langGroup.latin2                   "Közép-európai">
@@ -59,8 +56,6 @@
 <!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Talpas">
 <!ENTITY  useDefaultFontSansSerif.label           "Talpatlan">
-
-<!ENTITY  newLanguages.label                      "Új nyelveket a 'Nyelvek' menüpontban állíthat be.">
 
 <!ENTITY  useDocumentFonts.label                  "Az üzenetek használhatják a saját maguk által megadott betűkészleteket.">
 <!ENTITY useDocumentFonts.accesskey              "z">

@@ -20,9 +20,6 @@
 <!ENTITY filterActionDesc.label "Műveletek végrehajtása:">
 <!ENTITY filterActionDesc.accesskey "v">
 
-<!ENTITY newFolderButton.label "Új mappa...">
-<!ENTITY newFolderButton.accesskey "m">
-
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Üzenet áthelyezése">
 <!ENTITY copyMessage.label "Üzenet átmásolása">

@@ -1,6 +1,4 @@
 <!ENTITY serverAdvanced.label "Haladó postafiók-beállítások">
-<!-- LOCALIZATION NOTE (imapAdvanced.label): Do not translate "IMAP" -->
-<!ENTITY imapAdvanced.label "Az IMAP-kiszolgáló speciális beállításai">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP-kiszolgáló könyvtár:">
 <!ENTITY serverDirectory.accesskey "k">
@@ -23,7 +21,6 @@
 <!ENTITY overrideNamespaces.label "A kiszolgáló felülírhatja ezeket a névtartományokat">
 <!ENTITY overrideNamespaces.accesskey "A">
 <!ENTITY pop3Desc.label "POP-levél letöltésekor erről a kiszolgálóról a következő mappa használata az új levelekhez:" >
-<!ENTITY folderStorage.label "Levelek tárolása">
 <!ENTITY globalInbox.label "Globális gyűjtő (Helyi mappák)">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Beérkezett üzenetek mappa">

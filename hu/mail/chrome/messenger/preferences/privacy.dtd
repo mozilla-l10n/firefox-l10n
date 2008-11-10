@@ -43,12 +43,3 @@
 <!ENTITY antiVirus.intro      "A &brandShortName; könnyen lehetővé teszi a vírusellenes szoftverek számára a bejövő üzenetek ellenőrzését, még mielőtt helyileg tárolná azokat.">
 <!ENTITY antiVirus.label      "A vírusellenes szoftverek karanténba tehetik a bejövő üzeneteket">
 <!ENTITY antiVirus.accesskey  "v">
-
-<!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
-<!ENTITY antiVirusCaption.label "Antivírus">
-<!ENTITY paswords.label         "Jelszavak">
-<!ENTITY emailScams.label       "Csaló e-mail">
-<!ENTITY junkMail.label         "Levélszemét">
-<!ENTITY itemIntrusions.label   "Betolakodók">
-<!ENTITY itemIntrusionsAndPasswords.label  "Betolakodók és jelszavak">
-<!ENTITY itemJunkMail.label     "Levélszemét">

@@ -29,7 +29,6 @@
 <!ENTITY customizeMailAlert.label         "Testreszabás...">
 <!ENTITY customizeMailAlert.accesskey     "T">
 
-<!ENTITY soundNotification1.caption       "Hang">
 <!ENTITY play.label                       "Lejátszás">
 <!ENTITY play.accesskey                   "L">
 <!ENTITY systemsound.label                "Alapértelmezett rendszerhang az új üzenethez">

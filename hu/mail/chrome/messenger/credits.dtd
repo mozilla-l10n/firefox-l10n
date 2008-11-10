@@ -1,8 +1,6 @@
 <!ENTITY credit.title     "A &brandFullName; alkotói">
 <!ENTITY brandMotto       "Hajrá Thunderbird!">
 <!ENTITY credit.leads     "Vezető mérnökök">
-<!ENTITY credit.core      "Főbb fejlesztők">
-<!ENTITY credit.gecko     "Gecko megjelenítőmotor">
 <!ENTITY credit.thanks    "Külön köszönet">
 
 <!-- localization credits look like this: -->
@@ -10,21 +8,10 @@
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation "<h3>Magyar változat</h3><ul><li>Tímár András</li><li><b>FSF.hu Alapítvány</b></li></ul>">
+<!ENTITY credit.translation "">
 
-<!ENTITY credit.visuals     "Látványtervező">
-<!ENTITY credit.theme       "Tématervező">
-<!ENTITY credit.brand       "Márkatervező">
-<!ENTITY credit.web         "Webdesign">
-<!ENTITY credit.update      "Mozilla frissítés">
-<!ENTITY credit.qalead      "Vezető minőségellenőr">
-<!ENTITY credit.qa          "Minőségbiztosítás">
-<!ENTITY credit.build       "Összeépítés és kiadás">
-<!ENTITY credit.infra       "Infrastrukturális támogatás">
-<!ENTITY credit.support     "Támogatás">
-<!ENTITY credit.manage      "Projektmenedzsment">
-<!ENTITY credit.marketleads "Marketingmenedzsment">
-<!ENTITY credit.market      "Marketing">
-<!ENTITY credit.creators    "Létrehozta">
-<!ENTITY credit.memory      "Emléke örökké szívünkben él">
+<!ENTITY credit.theme          "Tématervező">
+<!ENTITY credit.qa             "Minőségbiztosítás">
+<!ENTITY credit.build          "Összeépítés és kiadás">
+<!ENTITY credit.memory         "Emléke örökké szívünkben él">
 <!ENTITY credit.poweredByGecko "A Gecko&trade; motor hajtja.">

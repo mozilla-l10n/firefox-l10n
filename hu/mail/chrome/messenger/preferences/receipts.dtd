@@ -1,5 +1,4 @@
 <!ENTITY dialog.title                  "Tértivevények">
-<!ENTITY receiptSettings.label         "Tértivevények">
 <!ENTITY requestReceipt.label          "Tértivevény kérése minden elküldött üzenethez">
 <!ENTITY requestReceipt.accesskey      "m">
 <!ENTITY receiptArrive.label           "Tértivevények érkezésekor:">

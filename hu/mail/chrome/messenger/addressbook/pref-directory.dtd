@@ -37,14 +37,11 @@
 
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 <!ENTITY pref.ldap.window.title    "LDAP-címtárkiszolgálók">
-<!ENTITY directory.label           "Címtár felvétele">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "LDAP-címtárkiszolgáló:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 <!ENTITY directoriesText.label     "Válasszon egy LDAP-címtárkiszolgálót:">
 <!ENTITY directoriesText.accesskey "V">
-<!-- LOCALIZATION NOTE (autocomplete.title) : do not translate "LDAP" in below line -->
-<!ENTITY autocomplete.title        "LDAP-címtárkiszolgáló">
 <!ENTITY addDirectory.label        "Hozzáadás">
 <!ENTITY addDirectory.accesskey    "H">
 <!ENTITY editDirectory.label       "Szerkesztés">

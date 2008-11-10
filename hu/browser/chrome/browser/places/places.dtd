@@ -71,6 +71,11 @@
 <!ENTITY cmd.edit_redo.accesskey    "r">
 <!ENTITY cmd.edit_redo.key          "y">
 
+<!ENTITY cmd.delete.label               "Oldal törlése">
+<!ENTITY cmd.delete.accesskey           "t">
+<!ENTITY cmd.deleteDomainData.label     "Webhely elfelejtése">
+<!ENTITY cmd.deleteDomainData.accesskey "W">
+
 <!ENTITY cmd.open.label                  "Megnyitás">
 <!ENTITY cmd.open.accesskey              "e">
 <!ENTITY cmd.open_window.label           "Megnyitás új ablakban">

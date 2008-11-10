@@ -48,12 +48,9 @@
 <!ENTITY directorySecure.accesskey         "B">
 <!ENTITY directoryLogin.label              "Bejelentkezési DN: ">
 <!ENTITY directoryLogin.accesskey          "e">
-<!ENTITY advancedOptionsButton.label       "Haladó beállítások">
-<!ENTITY advancedOptionsButton.accesskey   "H">
 <!ENTITY General.tab                       "Általános">
 <!ENTITY Offline.tab                       "Kapcsolat nélküli munka">
 <!ENTITY Advanced.tab                      "Haladó">
-<!ENTITY advancedOptionsTitle.label        "Haladó beállítások">
 <!ENTITY portNumber.label                  "Port száma: ">
 <!ENTITY portNumber.accesskey              "p">
 <!ENTITY searchFilter.label                "Keresési szűrő: ">

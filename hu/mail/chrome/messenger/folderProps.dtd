@@ -52,7 +52,6 @@
 <!ENTITY retention.label "Megőrzési házirend">
 <!ENTITY retentionUseDefault.label  "Kiszolgáló alapértelmezéseinek használata">
 <!ENTITY retentionUseDefault.accesskey "a">
-<!ENTITY days.label "nap">
 <!ENTITY daysOld.label "nap">
 <!ENTITY message.label "üzenet">
 <!ENTITY retentionCleanup.label "Lemezhely felszabadítása céljából a régi üzenetek véglegesen törölhetők.">
@@ -76,18 +75,15 @@
 
 <!ENTITY selectofflineNewsgroup.check.label      "Hírcsoport kiválasztása kapcsolat nélküli munkához">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "H">
-<!ENTITY UseDefaultofflineNewsgroup.check.label  "A fiókbeállításnál megadott alapbeállítások használata ">
 <!ENTITY offlineNewsgroup.button.label           "Letöltés">
 <!ENTITY offlineNewsgroup.button.accesskey       "L">
 
-<!ENTITY folderProps.information.label           "Információ:">
 <!ENTITY folderProps.name.label                  "Név:">
 <!ENTITY folderProps.name.accesskey              "N">
 <!ENTITY folderProps.location.label              "Hely:">
 <!ENTITY folderProps.location.accesskey          "H">
 
 <!ENTITY folderSharingTab.label                  "Megosztás">
-<!ENTITY privilegesDesc.label                    "Mappa megosztása a hálózati felhasználók számára és a jogosultságok beállítása">
 <!ENTITY privileges.button.label                 "Jogosultságok...">
 <!ENTITY privileges.button.accesskey             "J">
 <!ENTITY permissionsDesc.label                   "A következő jogosultságai vannak:">
