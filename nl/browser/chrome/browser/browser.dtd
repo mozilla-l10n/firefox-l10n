@@ -7,6 +7,9 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Privé navigeren)">
 
 <!ENTITY tabCmd.label "Nieuw tabblad">
 <!ENTITY tabCmd.accesskey "t">
@@ -158,8 +161,11 @@
 <!ENTITY preferencesCmdUnix.label       "Voorkeuren…">
 <!ENTITY preferencesCmdUnix.accesskey     "V">
 
-<!ENTITY clearPrivateDataCmd.label            "Privégegevens opruimen">
-<!ENTITY clearPrivateDataCmd.accesskey        "P">
+<!ENTITY clearRecentHistoryCmd.label            "Recente geschiedenis opruimenClear Recent History">
+<!ENTITY clearRecentHistoryCmd.accesskey        "R">
+
+<!ENTITY privateBrowsingCmd.label            "Privé navigeren">
+<!ENTITY privateBrowsingCmd.accesskey        "n">
 
 <!ENTITY viewMenu.label         "Beeld"> 
 <!ENTITY viewMenu.accesskey       "l"> 
@@ -233,10 +239,12 @@
 <!ENTITY viewPageInfoCmd.accesskey    "i">
 <!ENTITY viewFrameInfoCmd.label       "Deelvensterinfo bekijken">
 <!ENTITY viewFrameInfoCmd.accesskey   "i">
-<!ENTITY showImageCmd.label           "Afbeelding tonen">
-<!ENTITY showImageCmd.accesskey       "t">
+<!ENTITY reloadImageCmd.label         "Afbeeldeing herladen">
+<!ENTITY reloadImageCmd.accesskey     "h">
 <!ENTITY viewImageCmd.label           "Afbeelding bekijken">
 <!ENTITY viewImageCmd.accesskey       "f">
+<!ENTITY viewVideoCmd.label           "Video bekijken">
+<!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "Achtergrondafbeelding bekijken">
 <!ENTITY viewBGImageCmd.accesskey     "h">
 <!ENTITY setDesktopBackgroundCmd.label      "Als bureaubladachtergrond instellen…">
@@ -307,6 +315,7 @@
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "Bediening verbergen">
 <!ENTITY mediaHideControls.accesskey "C">
+
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -417,3 +426,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Meer informatie…">
 
 <!ENTITY downloadMonitor2.tooltip "Klik om het downloadvenster te openen">
+
+<!ENTITY ctrlTab.search.emptyText "Zoektabbladen">
