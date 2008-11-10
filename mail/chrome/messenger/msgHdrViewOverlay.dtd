@@ -54,7 +54,6 @@
 <!ENTITY messageIdField2.label "message-id ">
 <!ENTITY inReplyToField2.label "in-reply-to ">
 <!ENTITY originalWebsite2.label "webhely ">
-<!ENTITY saveAll.label "Összes mentése...">
 
 <!ENTITY editMessageDescription.label "Ez egy piszkozat">
 <!ENTITY editMessageButton.label "Szerkesztés...">

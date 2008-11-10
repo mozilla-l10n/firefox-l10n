@@ -19,5 +19,3 @@
 <!ENTITY chooseFolder.accesskey              "a">
 <!ENTITY  saveToAskMe.label                   "Rákérdezés a célmappára a fájl letöltése előtt">
 <!ENTITY saveToAskMe.accesskey               "R">
-<!ENTITY  usePlugin.label                     "Bővítmény használata:">
-<!ENTITY usePlugin.accesskey                 "B">

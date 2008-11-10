@@ -1,9 +1,7 @@
 <!ENTITY itemGeneral.label                   "Általános">
 <!ENTITY itemAutoComplete.label              "Címzés">
 <!ENTITY itemSpellCheck.label                "Helyesírás">
-<!ENTITY itemSendFormat.label                "Küldés formátuma">
 
-<!ENTITY forwardReply.label                   "Levelek továbbítása">
 <!ENTITY forwardMsg.label                     "Levél továbbítása:">
 <!ENTITY forwardMsg.accesskey                 "L">
 <!ENTITY inline.label                         "Beágyazva">
@@ -25,7 +23,6 @@
 <!ENTITY restoreHTMLDefaults.label            "Alapértelmezett értékek visszaállítása">
 <!ENTITY restoreHTMLDefaults.accesskey        "A">
 
-<!ENTITY sendingMessagesHeader.label          "Üzenetek szerkesztése">
 <!ENTITY spellCheck.label                     "Helyesírás ellenőrzése a küldés előtt">
 <!ENTITY spellCheck.accesskey                 "H">
 <!ENTITY spellCheckInline.label               "Helyesírás-ellenőrzés beírás közben">
@@ -39,10 +36,6 @@
 <!ENTITY autoSave.label                       "Automatikus mentés">
 <!ENTITY autoSave.accesskey                   "u">
 <!ENTITY autoSaveEnd.label                    "percenként">
-<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
-<!ENTITY wrapOutMsg.label                     "Levelek tördelése">
-<!ENTITY wrapOutMsg.accesskey                 "T">
-<!ENTITY char.label                           "karakter szélesre">
 
 <!ENTITY emailCollectionPicker.label           "A kimenő levelek címeinek automatikus hozzáadása:">
 <!ENTITY emailCollectionPicker.accesskey       "E">
@@ -55,10 +48,7 @@
 <!ENTITY directoriesNone.label                 "Nincs">
 <!ENTITY editDirectories.label                 "Címtárak szerkesztése...">
 <!ENTITY editDirectories.accesskey             "C">
-<!ENTITY matchText.label                       "Ha a helyi címjegyzékekben van egyező cím:">
-<!ENTITY skipDirectory.label                   "Nem történik keresés a címtárban">
 
-<!ENTITY sendOptionsCaption.label              "Üzenetküldési és HTML-beállítások">
 <!ENTITY sendOptionsDescription.label          "Szövegformátum beállítása">
 <!ENTITY sendOptions.label                     "Üzenetküldési beállítások...">
 <!ENTITY sendOptions.accesskey                 "B">

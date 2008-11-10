@@ -112,6 +112,7 @@
 <!ENTITY insecureUpdate.label             "Nem biztosít biztonságos frissítéseket.">
 <!ENTITY needsDependencies.label          "További elemek szükségesek.">
 <!ENTITY blocklisted.label                "Letiltva az Ön védelme érdekében.">
+<!ENTITY softBlocklisted.label            "Biztonsági vagy stabilitási problémát okoz.">
 <!ENTITY toBeDisabled.label               "Ez a kiegészítő le lesz tiltva a &brandShortName; újraindításakor.">
 <!ENTITY toBeEnabled.label                "Ez a kiegészítő engedélyezve lesz a &brandShortName; újraindításakor.">
 <!ENTITY toBeInstalled.label              "Ez a kiegészítő telepítve lesz a &brandShortName; újraindításakor.">
@@ -168,3 +169,6 @@
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "Elfogadás és telepítés...">
+
+<!ENTITY blocklist.blocked.label          "Blokkolva">
+<!ENTITY blocklist.checkbox.label         "Letiltás">

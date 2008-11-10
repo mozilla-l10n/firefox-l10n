@@ -60,7 +60,6 @@
 <!ENTITY pasteCmd.key                                   "V">
 <!ENTITY pasteCmd.accesskey                             "B">
 <!ENTITY deleteCmd.label                                "Törlés">
-<!ENTITY deleteCmd.key                                  "D">
 <!ENTITY deleteCmd.accesskey                            "T">
 <!ENTITY deleteAbCmd.label                              "Címjegyzék törlése">
 <!ENTITY deleteCardCmd.label                            "Névjegy törlése">
@@ -118,7 +117,6 @@
 <!ENTITY exportCmd.label                                "Exportálás...">
 <!ENTITY exportCmd.accesskey                            "E">
 <!ENTITY preferencesCmd.label                           "Beállítások...">
-<!ENTITY preferencesCmd.key                             "O">
 <!ENTITY preferencesCmd.accesskey                       "B">
 <!ENTITY preferencesCmdUnix.label                       "Beállítások">
 <!ENTITY preferencesCmdUnix.accesskey                   "B">

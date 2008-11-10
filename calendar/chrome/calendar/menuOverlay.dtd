@@ -54,26 +54,9 @@
 <!ENTITY calendar.new.server.key                "L">
 <!ENTITY calendar.new.server.accesskey          "n">
 
-<!ENTITY calendar.open.file.label               "Naptárfájl megnyitása...">
-<!ENTITY calendar.open.file.key                 "O">
-<!ENTITY calendar.open.file.accesskey           "m">
-
-<!ENTITY event.edit.event                       "Kijelölés szerkesztése...">
-<!ENTITY event.edit.event.key                   "E">
-<!ENTITY event.edit.event.accesskey             "z">
-
-<!ENTITY event.delete.event                     "Kijelölt események törlése">
-<!ENTITY event.delete.event.accesskey           "t">
-
-<!ENTITY event.delete.tasks                     "Kijelölt feladatok törlése">
-<!ENTITY event.delete.tasks.accesskey           "e">
-
 <!ENTITY calendar.print.label                   "Nyomtatás...">
 <!ENTITY calendar.print.key                     "P">
 <!ENTITY calendar.print.accesskey               "A">
-
-<!ENTITY calendar.pagesetup.label               "Oldalbeállítás...">
-<!ENTITY calendar.pagesetup.accesskey           "O">
 
 <!ENTITY calendar.import.label                  "Importálás...">
 <!ENTITY calendar.import.key                    "I">
@@ -84,71 +67,16 @@
 <!ENTITY calendar.export.selection.label        "Kijelölés exportálása...">
 <!ENTITY calendar.export.selection.accesskey    "i">
 
-<!ENTITY calendar.subscribe.label               "Feliratkozás távoli naptárra...">
-<!ENTITY calendar.subscribe.accesskey           "F">
-
-<!ENTITY calendar.reloadserver.label            "Távoli naptárak frissítése">
-<!ENTITY calendar.reloadserver.key              "R">
-<!ENTITY calendar.reloadserver.accesskey        "T">
-
 <!ENTITY calendar.publish.label                 "Közzététel...">
 <!ENTITY calendar.publish.accesskey             "K">
-<!ENTITY calendar.publish.calendar.label        "Naptár közzététele...">
-<!ENTITY calendar.publish.calendar.accesskey    "k">
-<!ENTITY calendar.publish.selection.label       "Kijelölés közzététele...">
-<!ENTITY calendar.publish.selection.accesskey   "z">
-
-<!ENTITY calendar.quit.label                    "Kilépés">
-<!ENTITY calendar.quit.accesskey                "K">
-<!ENTITY calendar.quit.key                      "Q">
-<!ENTITY calendar.quit.label.mac                "Kilépés a &brandShortName; programból">
-
-<!ENTITY calendar.exit.label                    "Kilépés">
-<!ENTITY calendar.exit.accesskey                "K">
-
-<!ENTITY calendar.undo.label                    "Visszavonás">
-<!ENTITY calendar.undo.key                      "Z">
-<!ENTITY calendar.undo.accesskey                "V">
-
-<!ENTITY calendar.redo.label                    "Újra">
-<!ENTITY calendar.redo.key                      "Y">
-<!ENTITY calendar.redo.accesskey                "r">
-
-<!ENTITY calendar.cut.label                     "Kivágás">
-<!ENTITY calendar.cut.key                       "X">
-<!ENTITY calendar.cut.accesskey                 "K">
-
-<!ENTITY calendar.copy.label                    "Másolás">
-<!ENTITY calendar.copy.key                      "C">
-<!ENTITY calendar.copy.accesskey                "M">
-
-<!ENTITY calendar.paste.label                   "Beillesztés">
-<!ENTITY calendar.paste.key                     "V">
-<!ENTITY calendar.paste.accesskey               "B">
-
-<!ENTITY calendar.selectall.label               "Minden kijelölése">
-<!ENTITY calendar.selectall.key                 "A">
-<!ENTITY calendar.selectall.accesskey           "i">
-
-<!ENTITY toolbarsMenu.label                     "Eszköztárak">
-<!ENTITY toolbarsMenu.accesskey                 "E">
 
 <!ENTITY calendar.toolbar.label                 "Naptár eszköztár">
 <!ENTITY calendar.toolbar.accesskey             "N">
 <!ENTITY task.toolbar.label                     "Feladat eszköztár">
 <!ENTITY task.toolbar.accesskey                 "F">
 
-<!ENTITY mode.toolbar.label                     "Mód eszköztár">
-<!ENTITY mode.toolbar.accesskey                 "M">
-
 <!ENTITY calendar.menu.customize.label          "Testreszabás...">
 <!ENTITY calendar.menu.customize.accesskey      "E">
-
-<!ENTITY showStatusBarCmd.label                 "Állapotsor">
-<!ENTITY showStatusBarCmd.accesskey             "l">
-
-<!ENTITY showTaskBoxCmd.label                   "Feladatlista">
-<!ENTITY showTaskBoxCmd.accesskey               "F">
 
 <!ENTITY showUnifinderCmd.label                 "Események keresése">
 <!ENTITY showUnifinderCmd.accesskey             "E">
@@ -163,20 +91,8 @@
 <!ENTITY calendar.menu.numberofweeks.5          "Öt hét">
 <!ENTITY calendar.menu.numberofweeks.6          "Hat hét">
 
-<!ENTITY calendar.fullscreen.label              "Teljes képernyős üzemmód">
-<!ENTITY calendar.fullscreen.accesskey          "T">
-
-<!ENTITY calendar.addons.label                  "Kiegészítők">
-<!ENTITY calendar.addons.accesskey              "i">
-
-<!ENTITY goMenu.label                           "Ugrás">
-<!ENTITY goMenu.accesskey                       "U">
-
 <!ENTITY goTodayCmd.label                       "Ma">
 <!ENTITY goTodayCmd.accesskey                   "m">
-
-<!ENTITY goDateCmd.label                        "Dátum...">
-<!ENTITY goDateCmd.accesskey                    "d">
 
 <!ENTITY goPreviousCmd.day.label                "Előző nap">
 <!ENTITY goPreviousCmd.week.label               "Előző hét">
@@ -188,62 +104,8 @@
 <!ENTITY goNextCmd.month.label                  "Következő hónap">
 <!ENTITY goNextCmd.all.accesskey                "K">
 
-<!ENTITY toolsMenu.label                        "Eszközök">
-<!ENTITY toolsMenu.accesskey                    "E">
-
-<!ENTITY errorConsoleCmd.label                  "Hibakonzol">
-<!ENTITY errorConsoleCmd.accesskey              "H">
-
 <!ENTITY addressBookCmd.label                   "Címjegyzék">
 <!ENTITY addressBookCmd.accesskey               "C">
-
-<!ENTITY helpMenu.label                         "Súgó">
-<!ENTITY helpMenu.accesskey                     "S">
-<!-- LOCALIZATION NOTE some localizations of Windows use "?"
-           for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label                      "Súgó"> 
-<!ENTITY helpMenuWin.accesskey                  "S">
-
-<!-- Toolbar items -->
-<!ENTITY fileMenu.label                         "Fájl">
-<!ENTITY fileMenu.accesskey                     "F">
-
-<!ENTITY editMenu.label                         "Szerkesztés">
-<!ENTITY editMenu.accesskey                     "z">
-<!ENTITY optionsCmd.label                       "Beállítások...">
-<!ENTITY optionsCmd.accesskey                   "B">
-<!ENTITY preferencesCmd.label                   "Beállítások">
-<!ENTITY preferencesCmd.accesskey               "B">
-<!ENTITY preferencesCmdMac.label                "Beállítások...">
-<!ENTITY preferencesCmdMac.commandkey           ",">
-<!ENTITY preferencesCmdMac.modifiers            "accel">
-
-<!ENTITY viewMenu.label                         "Nézet">
-<!ENTITY viewMenu.accesskey                     "N">
-
-<!ENTITY releaseCmd.label                       "Verzióinformáció">
-<!ENTITY releaseCmd.accesskey                   "V">
-<!ENTITY aboutCmd.label                         "A &brandFullName; névjegye">
-<!ENTITY aboutCmd.accesskey                     "A">
-<!ENTITY updateCmd.label                        "Frissítések keresése...">
-<!ENTITY updateCmd.accesskey                    "F">
-
-<!-- Mac OS X "Window" menu items -->
-<!ENTITY windowMenu.label                       "Ablak">
-<!ENTITY minimizeWindow.label                   "Kis méret">
-<!ENTITY zoomWindow.label                       "Nagyítás">
-<!ENTITY minimizeWindow.key                     "M">
-<!ENTITY bringAllToFront.label                  "Előtérbe hozás">
-
-<!-- Mac OS X Application menu items -->
-<!ENTITY servicesMenuMac.label          "Szolgáltatások">
-<!ENTITY hideThisAppCmdMac.label        "A &brandShortName; elrejtése">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
-<!ENTITY hideOtherAppsCmdMac.label      "A több elrejtése">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
-<!ENTITY showAllAppsCmdMac.label        "Mindet mutat">
 
 <!ENTITY calendar.importcalendar.label          "Naptár importálása...">
 

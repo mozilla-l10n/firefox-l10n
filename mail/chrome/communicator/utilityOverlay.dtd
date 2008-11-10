@@ -25,7 +25,6 @@
 <!ENTITY pasteCmd.key            "V">
 <!ENTITY pasteCmd.accesskey          "B">
 <!ENTITY deleteCmd.label          "Törlés">
-<!ENTITY deleteCmd.key            "D">
 <!ENTITY deleteCmd.accesskey        "T">
 <!ENTITY selectAllCmd.label          "Mindent kijelöl">
 <!ENTITY selectAllCmd.key          "A">
@@ -35,9 +34,6 @@
 <!ENTITY preferencesCmdUnix.label       "Beállítások">
 <!ENTITY preferencesCmdUnix.accesskey     "B">
 
-<!ENTITY findTypeTextCmd.label "Szöveg keresése gépeléssel">
-<!ENTITY findTypeTextCmd.accesskey "S">
-
 <!ENTITY viewMenu.label          "Nézet">
 <!ENTITY viewMenu.accesskey        "N">
 <!ENTITY viewToolbarsMenu.label        "Eszköztárak">
@@ -45,18 +41,8 @@
 <!ENTITY showTaskbarCmd.label          "Állapotsor">
 <!ENTITY showTaskbarCmd.accesskey        "s">
 
-<!ENTITY direct.label                                   "Online (proxy: nincs)">
-<!ENTITY direct.accesskey                               "n">
-<!ENTITY manual.label                                   "Online (proxy: kézi)">
-<!ENTITY manual.accesskey                               "k">
-<!ENTITY pac.label                                      "Online (proxy: automatikus)">
-<!ENTITY pac.accesskey                                  "a">
-
 <!ENTITY proxy.label                                    "Proxybeállítás...">
 <!ENTITY proxy.accesskey                                "P">
-
-<!ENTITY findTypeTextCmd.key        "/">
-<!ENTITY findTypeLinksCmd.key       "'">
 
 <!ENTITY closeCmd.label      "Bezárás">
 <!ENTITY closeCmd.key      "W">

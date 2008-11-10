@@ -46,7 +46,6 @@
 <!ENTITY ListDescription.label          "Leírás: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Írjon be e-mail címeket, amelyeket hozzá kíván adni a levelezőlistához:">
-<!ENTITY RemoveButton.label             "Eltávolítás">
 <!ENTITY UpButton.label                 "Mozgatás felfelé">
 <!ENTITY DownButton.label               "Mozgatás lefelé">
 

@@ -7,6 +7,9 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (privát böngészés)">
 
 <!ENTITY tabCmd.label "Új lap">
 <!ENTITY tabCmd.accesskey "l">
@@ -110,7 +113,7 @@
 <!ENTITY keywordfield.label           "Kulcsszó hozzáadása a kereséshez...">
 <!ENTITY keywordfield.accesskey       "u">
 <!ENTITY search.label                 "Keresés a weben">
-<!ENTITY search.accesskey             "K">
+<!ENTITY search.accesskey             "w">
 <!ENTITY downloads.label              "Letöltések">
 <!ENTITY downloads.tooltip            "A folyamatban lévő letöltések állapotának megjelenítése">
 <!ENTITY downloads.accesskey          "e">
@@ -158,8 +161,11 @@
 <!ENTITY preferencesCmdUnix.label       "Beállítások">
 <!ENTITY preferencesCmdUnix.accesskey     "B"> 
 
-<!ENTITY clearPrivateDataCmd.label            "Személyes adatok törlése">
-<!ENTITY clearPrivateDataCmd.accesskey        "S">
+<!ENTITY clearRecentHistoryCmd.label            "Előzmények törlése">
+<!ENTITY clearRecentHistoryCmd.accesskey        "E">
+
+<!ENTITY privateBrowsingCmd.label            "Privát böngészés">
+<!ENTITY privateBrowsingCmd.accesskey        "P">
 
 <!ENTITY viewMenu.label         "Nézet"> 
 <!ENTITY viewMenu.accesskey       "N"> 
@@ -233,10 +239,12 @@
 <!ENTITY viewPageInfoCmd.accesskey    "d">
 <!ENTITY viewFrameInfoCmd.label       "Keret adatainak megjelenítése">
 <!ENTITY viewFrameInfoCmd.accesskey   "d">
-<!ENTITY showImageCmd.label           "Kép megjelenítése">
-<!ENTITY showImageCmd.accesskey       "K">
+<!ENTITY reloadImageCmd.label         "Kép újrabetöltése">
+<!ENTITY reloadImageCmd.accesskey     "r">
 <!ENTITY viewImageCmd.label           "Kép megjelenítése">
 <!ENTITY viewImageCmd.accesskey       "s">
+<!ENTITY viewVideoCmd.label           "Videó megtekintése">
+<!ENTITY viewVideoCmd.accesskey       "V">
 <!ENTITY viewBGImageCmd.label         "Háttérkép megjelenítése">
 <!ENTITY viewBGImageCmd.accesskey     "s">
 <!ENTITY setDesktopBackgroundCmd.label      "Beállítás háttérképként...">
@@ -264,8 +272,16 @@
 <!ENTITY sendLinkCmd.accesskey        "H">
 <!ENTITY saveImageCmd.label           "Kép mentése más néven...">
 <!ENTITY saveImageCmd.accesskey       "m">
+<!ENTITY saveVideoCmd.label           "Videó mentése más néven...">
+<!ENTITY saveVideoCmd.accesskey       "v">
+<!ENTITY saveAudioCmd.label           "Hang mentése más néven...">
+<!ENTITY saveAudioCmd.accesskey       "H">
 <!ENTITY sendImageCmd.label           "Kép küldése...">
 <!ENTITY sendImageCmd.accesskey       "K">
+<!ENTITY sendVideoCmd.label           "Videó küldése...">
+<!ENTITY sendVideoCmd.accesskey       "i">
+<!ENTITY sendAudioCmd.label           "Hang küldése...">
+<!ENTITY sendAudioCmd.accesskey       "a">
 <!ENTITY copyLinkCmd.label            "Hivatkozás címének másolása">
 <!ENTITY copyLinkCmd.accesskey        "v">
 <!ENTITY copyLinkTextCmd.label        "Hivatkozás szövegének másolása">
@@ -274,13 +290,32 @@
 <!ENTITY copyImageCmd.accesskey       "l">
 <!ENTITY copyImageContentsCmd.label   "Kép másolása">
 <!ENTITY copyImageContentsCmd.accesskey  "o"> 
-<!ENTITY blockImageCmd.accesskey       "é">
+<!ENTITY copyVideoURLCmd.label        "Videó címének másolása">
+<!ENTITY copyVideoURLCmd.accesskey    "d">
+<!ENTITY copyAudioURLCmd.label        "Hang címének másolása">
+<!ENTITY copyAudioURLCmd.accesskey    "s">
+<!ENTITY blockImageCmd.accesskey      "é">
 <!ENTITY metadataCmd.label            "Tulajdonságok">
 <!ENTITY metadataCmd.accesskey        "T">
 <!ENTITY copyEmailCmd.label           "E-mail cím másolása">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Ez a keret">
 <!ENTITY thisFrameMenu.accesskey          "z">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "Lejátszás">
+<!ENTITY mediaPlay.accesskey         "L">
+<!ENTITY mediaPause.label            "Szünet">
+<!ENTITY mediaPause.accesskey        "S">
+<!ENTITY mediaMute.label             "Némítás">
+<!ENTITY mediaMute.accesskey         "N">
+<!ENTITY mediaUnmute.label           "Hang be">
+<!ENTITY mediaUnmute.accesskey       "H">
+<!ENTITY mediaShowControls.label     "Vezérlők megjelenítése">
+<!ENTITY mediaShowControls.accesskey "V">
+<!ENTITY mediaHideControls.label     "Vezérlők elrejtése">
+<!ENTITY mediaHideControls.accesskey "V">
+
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -391,3 +426,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Bővebb információ...">
 
 <!ENTITY downloadMonitor2.tooltip "Kattintson a letöltési ablak megnyitásához">
+
+<!ENTITY ctrlTab.search.emptyText "Search Tabs">

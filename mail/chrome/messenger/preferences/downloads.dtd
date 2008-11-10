@@ -3,8 +3,6 @@
 <!ENTITY alwaysAsk.accesskey          "R">
 <!ENTITY neverAsk.label               "Minden melléklet mentése a következő mappába:">
 <!ENTITY neverAsk.accesskey           "M">
-<!ENTITY desktop.label                "Asztal">
-<!ENTITY downloads.label              "Letöltések">
 <!ENTITY chooseFolderWin.label        "Tallózás...">
 <!ENTITY chooseFolderWin.accesskey    "T">
 <!ENTITY chooseFolderMac.label        "Tallózás...">
@@ -15,10 +13,3 @@
 <!ENTITY configureActions.label       "Műveletek megtekintése és szerkesztése...">
 <!ENTITY configureActions.accesskey   "M">
 <!ENTITY fileTypesDescription.label   "A &brandShortName; képes automatikusan menteni, illetve megnyitni bizonyos típusú mellékleteket.">
-
-<!ENTITY fileTypeColName.label        "Fájltípus">
-<!ENTITY fileHandlerColName.label     "Alkalmazás">
-<!ENTITY editFileHandler.label        "Művelet megváltoztatása...">
-<!ENTITY editFileHandler.accesskey    "M">
-<!ENTITY removeFileHandler.label      "Eltávolítás">
-<!ENTITY removeFileHandler.accesskey  "E">

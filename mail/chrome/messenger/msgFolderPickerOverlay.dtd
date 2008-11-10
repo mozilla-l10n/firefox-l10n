@@ -36,14 +36,5 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Labels -->
-<!ENTITY subscribechoosethis.label      "hírkiszolgáló kiválasztása">
-<!ENTITY subscribeclickhere.label      "kattintson ide a hírkiszolgáló kiválasztásához">
 <!ENTITY newfolderchoosethis.label      "válassza ezt, ha egy szinttel feljebb kíván lépni">
-<!ENTITY newfolderclickhere.label      "Kattintson ide a kijelöléshez">
-<!ENTITY renamefolderchoosethis.label      "mappa kiválasztása">
-<!ENTITY renamefolderclickhere.label      "kattintson ide mappa választásához">
-<!ENTITY filemessageschoosethis.label      "mappa kiválasztása">
-<!ENTITY filemessagesclickhere.label      "kattintson ide mappa választásához">
-<!ENTITY chooseaccountclickhere.label      "Kattintson ide egy postafiók kiválasztásához">
-<!ENTITY choosefolderclickhere.label      "Kattintson ide egy mappa kiválasztásához">
-<!ENTITY chooseserverToDeferTo.label      "kattintson ide az üzenetek tárolására szolgáló postafiók kiválasztásához">
+<!ENTITY filemessageschoosethis.label   "mappa kiválasztása">

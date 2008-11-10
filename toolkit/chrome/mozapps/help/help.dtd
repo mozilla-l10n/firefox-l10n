@@ -22,9 +22,8 @@
 <!ENTITY printButton.tooltip            "Oldal kinyomtatása">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY searchtab.label                "Keresés">
-<!ENTITY searchtab.accesskey            "K">
-<!ENTITY searchClose.tooltip            "Keresési eredmények bezárása">
+<!ENTITY search.emptytext               "Keresés">
+<!ENTITY searchHeader.label             "Találatok">
 <!ENTITY toctab.label                   "Tartalom">
 <!ENTITY toctab.accesskey               "T">
 

@@ -75,7 +75,6 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "r">
 <!ENTITY deleteCmd.label "Törlés">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "T">
 <!ENTITY selectAllCmd.label "Minden kijelölése">
 <!ENTITY selectAllCmd.key "A">
@@ -98,7 +97,6 @@
 <!ENTITY viewToolbarsMenuNew.label "Eszköztárak"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "E"> 
 <!ENTITY showCompositionToolbarCmd.label "Szerkesztés eszköztár">
-<!ENTITY showCompositionToolbarCmd.accesskey "z">
 <!ENTITY showFormattingBarCmd.label "Formázás eszköztár">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Állapotsor">
@@ -173,7 +171,6 @@
 <!ENTITY accountManagerCmd.accesskey "P">
 <!ENTITY accountManagerCmdUnix.accesskey "P">
 <!ENTITY preferencesCmd.label "Beállítások...">
-<!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "B">
 <!ENTITY preferencesCmdUnix.label       "Beállítások">
 <!ENTITY preferencesCmdUnix.accesskey   "B"> 
@@ -220,10 +217,6 @@
 <!ENTITY attachments.accesskey "M">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
 <!ENTITY SmileButton.tooltip "Hangulatjel beszúrása">
 <!ENTITY smiley1Cmd.label "Mosolygó">
 <!ENTITY smiley2Cmd.label "Rosszkedvű">

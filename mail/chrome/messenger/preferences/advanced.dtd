@@ -1,4 +1,5 @@
 <!ENTITY itemGeneral.label       "Általános">
+<!ENTITY itemDisplay.label       "Olvasás és megjelenítés">
 <!ENTITY itemUpdate.label        "Frissítés">
 <!ENTITY itemNetworking.label    "Hálózat és lemezterület">
 <!ENTITY itemCertificates.label  "Tanúsítványok">
@@ -25,14 +26,16 @@
 <!ENTITY reuseExpRadio0.accesskey      "z">
 <!ENTITY reuseExpRadio1.label          "Létező üzenetablakban">
 <!ENTITY reuseExpRadio1.accesskey      "l">
-<!ENTITY reuseExpRadio2.label          "Új üzenetlapon">
-<!ENTITY reuseExpRadio2.accesskey      "a">
 <!ENTITY configEditDesc.label          "Haladó beállítások">
 <!ENTITY configEdit.label              "Beállításszerkesztő...">
 <!ENTITY configEdit.accesskey          "B">
 <!ENTITY returnReceiptsInfo.label      "A &brandShortName; tértivevény-kezelésének beállítása">
 <!ENTITY showReturnReceipts.label      "Tértivevények...">
 <!ENTITY showReturnReceipts.accesskey  "T">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption                "Olvasás">
+<!ENTITY display.caption                "Megjelenítés">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Frissítések automatikus keresése:">
@@ -79,7 +82,6 @@
 <!ENTITY clearCacheNow.accesskey         "T">
 
 <!-- Certificates -->
-<!ENTITY certificatesInfo2.label        "Tanúsítványok, visszavonási listák, tanúsítványérvényesítők és adatvédelmi eszközök kezelése">
 <!ENTITY viewCertificates.label         "Tanúsítványok megjelenítése">
 <!ENTITY viewCertificates.accesskey     "T">
 <!ENTITY viewCRLs.label                 "Visszavonási listák">

@@ -1,0 +1,13 @@
+<!ENTITY privatebrowsingpage.tabtitle                  "Privát böngészés">
+
+<!ENTITY privatebrowsingpage.pagetitle                 "Privát böngészés">
+
+<!ENTITY privatebrowsingpage.issueDesc                 "A &brandShortName; semmit nem fog megjegyezni ebből a munkamenetből.">
+<!ENTITY privatebrowsingpage.longDesc                  "A &brandShortName; nem jegyzi meg ennek a böngésző-munkamenetnek az adatait.  Ebbe beletartoznak a böngésző előzményei, a keresés előzményei, a letöltések előzményei, a webes űrlapok előzményei, a sütik és az ideiglenes internetes fájlok.  A letöltött fájlok és a létrehozott könyvjelzők viszont megmaradnak.">
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Kezdésként esetleg törölni szeretné a mostani előzményeket.">
+<!ENTITY privatebrowsingpage.recentHistory.label       "Előzmények törlése">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey   "E">
+
+<!ENTITY privatebrowsingpage.howToStopDesc             "A privát böngészés befejezéséhez vegye le a jelölést az Eszközök &gt; Privát böngészés menüelemről.">
+<!ENTITY privatebrowsingpage.footerDesc                "Jó szórakozást!">

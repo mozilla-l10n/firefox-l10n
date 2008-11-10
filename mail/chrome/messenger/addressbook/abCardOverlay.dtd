@@ -73,17 +73,21 @@
 <!ENTITY SecondEmail.label              "További e-mail:">
 <!ENTITY SecondEmail.accesskey          "T">
 <!ENTITY PreferMailFormat.label         "Az üzeneteket a következő formátumban szereti megkapni:">
-<!ENTITY PreferMailFormat.accesskey     "r">
+<!ENTITY PreferMailFormat.accesskey     "v">
 <!ENTITY PlainText.label                "Normál szöveg">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Ismeretlen">
 <!ENTITY ScreenName.label               "Felhasználói név:">
 <!ENTITY ScreenName.accesskey           "F">
 
-<!ENTITY allowRemoteContent.label       "Távoli képek engedélyezése HTML-levélben">
-<!ENTITY allowRemoteContent.accesskey   "T">
+<!ENTITY allowRemoteContent.label       "Allow remote images.">
+<!ENTITY allowRemoteContent.accesskey   "r">
+<!ENTITY allowRemoteContent.tooltip     "In HTML messages it is possible to
+embed images from remote sources. Opening such a message will open a
+connection to this external source. This may allow tracking of the
+message being read. Checking this box will allow such external embedded
+images in HTML messages from this contact.">
 
-<!ENTITY Phones.box                     "Telefon">
 <!ENTITY WorkPhone.label                "Munkahelyi:">
 <!ENTITY WorkPhone.accesskey            "u">
 <!ENTITY HomePhone.label                "Otthoni:">
@@ -91,15 +95,14 @@
 <!ENTITY FaxNumber.label                "Fax:">
 <!ENTITY FaxNumber.accesskey            "x">
 <!ENTITY PagerNumber.label              "Személyhívó:">
-<!ENTITY PagerNumber.accesskey          "h">
+<!ENTITY PagerNumber.accesskey          "g">
 <!ENTITY CellularNumber.label           "Mobil:">
 <!ENTITY CellularNumber.accesskey       "M">
 
-<!ENTITY Address.tab                    "Cím">
-<!ENTITY Address.accesskey              "C">
-<!ENTITY Home.box                       "Otthon">
+<!ENTITY Home.tab                       "Magánjellegű">
+<!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "Cím:">
-<!ENTITY HomeAddress.accesskey          "C">
+<!ENTITY HomeAddress.accesskey          "A">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Város:">
@@ -111,36 +114,38 @@
 <!ENTITY HomeCountry.label              "Ország:">
 <!ENTITY HomeCountry.accesskey          "O">
 <!ENTITY HomeWebPage.label              "Weboldal:">
-<!ENTITY HomeWebPage.accesskey          "W">
-<!ENTITY Work.box                       "Munkahely">
-<!ENTITY JobTitle.label                 "Beosztás:">
-<!ENTITY JobTitle.accesskey             "B">
-<!ENTITY Department.label               "Osztály:">
-<!ENTITY Department.accesskey           "O">
-<!ENTITY Company.label                  "Szervezet:">
-<!ENTITY Company.accesskey              "S">
-<!ENTITY WorkAddress.label              "Cím:">
-<!ENTITY WorkAddress.accesskey          "C">
-<!ENTITY WorkAddress2.label             "">
-<!ENTITY WorkAddress2.accesskey         "">
-<!ENTITY WorkCity.label                 "Város:">
-<!ENTITY WorkCity.accesskey             "V">
-<!ENTITY WorkState.label                "Állam/tartomány:">
-<!ENTITY WorkState.accesskey            "l">
-<!ENTITY WorkZipCode.label              "Irányítószám:">
-<!ENTITY WorkZipCode.accesskey          "I">
-<!ENTITY WorkCountry.label              "Ország:">
-<!ENTITY WorkCountry.accesskey          "O">
-<!ENTITY WorkWebPage.label              "Weboldal:">
-<!ENTITY WorkWebPage.accesskey          "W">
-
-<!ENTITY Other.tab                      "Egyéb">
-<!ENTITY Other.accesskey                "E">
+<!ENTITY HomeWebPage.accesskey          "e">
 <!ENTITY Birthday.label                 "Születési dátum:">
 <!ENTITY Birthday.accesskey             "S">
 <!ENTITY Year.emptytext                 "évente">
 <!ENTITY Or.value                       "vagy">
 <!ENTITY Age.emptytext                  "Kor">
+
+<!ENTITY Work.tab                       "Munkahely">
+<!ENTITY Work.accesskey                 "W">
+<!ENTITY JobTitle.label                 "Beosztás:">
+<!ENTITY JobTitle.accesskey             "i">
+<!ENTITY Department.label               "Osztály:">
+<!ENTITY Department.accesskey           "O">
+<!ENTITY Company.label                  "Szervezet:">
+<!ENTITY Company.accesskey              "S">
+<!ENTITY WorkAddress.label              "Cím:">
+<!ENTITY WorkAddress.accesskey          "A">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.label                 "Város:">
+<!ENTITY WorkCity.accesskey             "y">
+<!ENTITY WorkState.label                "Állam/tartomány:">
+<!ENTITY WorkState.accesskey            "S">
+<!ENTITY WorkZipCode.label              "Irányítószám:">
+<!ENTITY WorkZipCode.accesskey          "Z">
+<!ENTITY WorkCountry.label              "Ország:">
+<!ENTITY WorkCountry.accesskey          "u">
+<!ENTITY WorkWebPage.label              "Weboldal:">
+<!ENTITY WorkWebPage.accesskey          "e">
+
+<!ENTITY Other.tab                      "Egyéb">
+<!ENTITY Other.accesskey                "E">
 <!ENTITY Custom1.label                  "Egyéb 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Egyéb 2:">
@@ -149,5 +154,5 @@
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Egyéb 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.box                      "Megjegyzés">
+<!ENTITY Notes.label                    "Notes:">
 <!ENTITY Notes.accesskey                "M">

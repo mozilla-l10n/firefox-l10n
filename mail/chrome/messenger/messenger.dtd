@@ -5,15 +5,12 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Mappa...">
 <!ENTITY newFolderCmd.accesskey "M">
-<!ENTITY newTabCmd.label "Új lap">
-<!ENTITY newTabCmd.accesskey "l">
 <!ENTITY closeTabCmd.label "Lap bezárása">
 <!ENTITY closeTabCmd.accesskey "b">
 <!ENTITY newVirtualFolderCmd.label "Mentett keresés...">
 <!ENTITY newVirtualFolderCmd.accesskey "k">
 <!ENTITY newAccountCmd.label "Postafiók...">
 <!ENTITY newAccountCmd.accesskey "P">
-<!ENTITY openMessageMenu.label "Megnyitás">
 <!ENTITY openMessageFileCmd.label "Mentett üzenet megnyitása...">
 <!ENTITY openMessageFileCmd.accesskey "e">
 <!ENTITY openAttachmentCmd.label "Mellékletek">
@@ -66,7 +63,6 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Nyomtatási kép">
 <!ENTITY printPreviewCmd.accesskey "t">
-<!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "Oldalbeállítás...">
 <!ENTITY printSetupCmd.accesskey "l">
 
@@ -130,8 +126,6 @@
 <!ENTITY messagePaneWide.accesskey "S">
 <!ENTITY messagePaneVertical.label "Függőleges nézet">
 <!ENTITY messagePaneVertical.accesskey "F">
-<!ENTITY threadPaneWide.label "Széles lista nézet">
-<!ENTITY threadPaneWide.accesskey "l">
 <!ENTITY showMessageCmd.label "Üzenetablak">
 <!ENTITY showMessageCmd.accesskey "Ü">
 
@@ -143,7 +137,7 @@
 <!ENTITY unreadFolders.accesskey "O">
 <!ENTITY favoriteFolders.label "Kedvencek">
 <!ENTITY favoriteFolders.accesskey "K">
-<!ENTITY recentFolders.label "Nemrég használt">
+<!ENTITY recentFolders.label "Nemrég érkezett">
 <!ENTITY recentFolders.accesskey "N">
 
 <!-- Sort Menu -->
@@ -187,15 +181,12 @@
 <!ENTITY sortUnthreaded.accesskey "m">
 <!ENTITY groupBySort.label "Csoportosítás">
 <!ENTITY groupBySort.accesskey "o">
-<!ENTITY groupBySortCmd.key "G">
 <!ENTITY msgsMenu.label "Üzenetek">
 <!ENTITY msgsMenu.accesskey "z">
 <!ENTITY threads.label "Témacsoport">
 <!ENTITY threads.accesskey "T">
 <!ENTITY allMsgsCmd.label "Mind">
 <!ENTITY allMsgsCmd.accesskey "M">
-<!ENTITY expandOrCollapseMenu.label "Kinyitás/Becsukás">
-<!ENTITY expandOrCollapseMenu.accesskey "K">
 <!ENTITY expandAllThreadsCmd.label "Összes témacsoport kinyitása">
 <!ENTITY expandAllThreadsCmd.accesskey "e">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -259,9 +250,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.key "u">
 
 <!-- Search Menu -->
-<!ENTITY searchMenu.label "Keresés">
-<!ENTITY searchMenu.accesskey "e">
-
 <!ENTITY findMenu.label "Keresés">
 <!ENTITY findMenu.accesskey "e">
 <!ENTITY findCmd.label "Keresés ebben az üzenetben...">
@@ -343,14 +331,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Szűrő létrehozása az üzenet alapján...">
 <!ENTITY createFilter.accesskey "S">
-<!ENTITY moveMsgMenu.label "Áthelyezés">
-<!ENTITY moveMsgMenu.accesskey "h">
+<!ENTITY moveMsgToMenu.label "Áthelyezés">
+<!ENTITY moveMsgToMenu.accesskey "h">
 <!ENTITY moveCopyMsgRecentMenu.label "Nemrég használt">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "N">
 <!ENTITY copyMessageLocation.label "Üzenet helyének másolása">
 <!ENTITY copyMessageLocation.accesskey "s">
-<!ENTITY copyMsgMenu.label "Másolás">
-<!ENTITY copyMsgMenu.accesskey "m">
+<!ENTITY copyMsgToMenu.label "Átmásolás">
+<!ENTITY copyMsgToMenu.accesskey "m">
 <!ENTITY moveToFolderAgain.label "Áthelyezés ismét">
 <!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "m">
@@ -384,8 +372,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsReadCmd.label "Olvasottként">
 <!ENTITY markAsReadCmd.accesskey "O">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "Olvasatlanként">
-<!ENTITY markAsUnreadCmd.accesskey "v">
 <!ENTITY markThreadAsReadCmd.label "Olvasott témacsoportként">
 <!ENTITY markThreadAsReadCmd.accesskey "t">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -412,7 +398,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "Ablak">
-<!ENTITY windowMenu.accesskey "A">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Eszközök">
@@ -457,7 +442,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY printButton.label "Nyomtatás">
 <!ENTITY stopButton.label "Leállítás">
 <!ENTITY throbberItem.title "Aktivitásjelző">
-<!ENTITY updatesItem.title  "Frissítések">
 <!ENTITY junkButton.label "Szemét">
 <!ENTITY notJunkButton.label "Nem szemét">
 <!ENTITY addressBookButton.label "Címjegyzék">
@@ -469,7 +453,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Keresés az üzenetekben...">
-<!ENTITY clearButton.tooltip "Keresési feltétel törlése, minden üzenet megjelenítése">
 <!ENTITY getMsgButton.tooltip "Új üzenetek letöltése">
 <!ENTITY getAllNewMsgCmd.label "Összes új üzenet letöltése">
 <!ENTITY getAllNewMsgCmd.accesskey "s">
@@ -543,8 +526,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Név vagy e-mail cím tartalmazza:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
-<!ENTITY clearButton.label "Törlés">
-<!ENTITY clearButton.accesskey "T">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Tárgy">
@@ -567,7 +548,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY statusColumn.label "Állapot">
 <!ENTITY sizeColumn.label "Méret">
 <!ENTITY junkStatusColumn.label "Szemét-e">
-<!ENTITY linesColumn.label "Sor">
 <!ENTITY unreadColumn.label "Olvasatlan">
 <!ENTITY totalColumn.label "Összesen">
 <!ENTITY readColumn.label "Olvasott">
@@ -628,8 +608,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrint.accesskey "N">
 <!ENTITY contextPrintPreview.label "Nyomtatási kép">
 <!ENTITY contextPrintPreview.accesskey "t">
-<!ENTITY contextDelete.label "Törlés">
-<!ENTITY contextDelete.accesskey "T">
 
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "Levélszemét">
@@ -663,8 +641,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY CopyEmailAddress.accesskey "E">
 <!ENTITY CreateFilterFrom.label "Szűrő létrehozása...">
 <!ENTITY CreateFilterFrom.accesskey "S">
-<!ENTITY BlockAddress.label "Cím blokkolása">
-<!ENTITY BlockAddress.accesskey "b">
 <!ENTITY reportPhishingURL.label "E-mail csalás jelentése">
 <!ENTITY reportPhishingURL.accesskey "c">
 

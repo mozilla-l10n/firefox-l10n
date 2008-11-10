@@ -3,9 +3,6 @@
 <!ENTITY securityMenu.label "Biztonság">
 <!ENTITY securityMenu.accesskey "B">
 
-<!ENTITY menu_securityEncryptIfPossible.label "Titkosítás, ha lehetséges">
-<!ENTITY menu_securityEncryptIfPossible.accesskey "T">
-
 <!ENTITY menu_securityEncryptRequire.label "Üzenet titkosítása">
 <!ENTITY menu_securityEncryptRequire.accesskey "i">
 

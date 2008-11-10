@@ -31,24 +31,17 @@
 
 <!ENTITY emailLabel.label "E-mail cím:">
 <!ENTITY emailLabel.accesskey "E">
-<!ENTITY emailDesc.label "Írja be az e-mail címét.  Ez az a cím, amelyre mások e-mailt küldhetnek Önnek.">
-<!-- LOCALIZATION NOTE (emailExample.label) : do not translate "user@example.net" in below line -->
-<!ENTITY emailExample.label "(például: nev@valami.hu)">
 
 <!-- Entities for Server page -->
 
 <!ENTITY serverTitle.label "A kiszolgáló adatai">
-<!ENTITY incomingServerTitle.label "Bejövő leveleket kezelő kiszolgáló">
 <!ENTITY incomingServerTypeDesc.label "Válassza ki a bejövő leveleket kezelő kiszolgáló típusát">
-<!ENTITY incomingServerTypeLabel.label "Kiszolgálótípus:">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServerNameDesc.label "Írja be a bejövő leveleket kezelő kiszolgáló nevét (pl.: „mail.example.net”).">
 <!ENTITY incomingServerLabel.label "Kiszolgáló:">
 <!ENTITY incomingServerLabel.accesskey "K">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Írja be a hírcsoport-kiszolgáló (NNTP) nevét (pl.: „news.example.net”).">
-<!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
-<!ENTITY smtpServerTitle.label "Levélküldő kiszolgáló (SMTP)">
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY smtpServerDesc.label "Írja be a levélküldő kiszolgáló (SMTP) nevét (például: „smtp.example.net”).">
 <!ENTITY smtpServerLabel.label "Kiszolgáló:">
@@ -61,13 +54,7 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY nntpType.label "Hírcsoport-kiszolgáló">
 
-<!-- for when the user has an SMTP server pre-configured -->
-<!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
-     this variable. Also, translate currentSmtpBefore.label and currentSmtpAfter.label as a single sentence,
-    inserting text after the "&quot;" entity in currentSmtpAfter.label, if required grammatically
--->
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
@@ -104,7 +91,6 @@
 <!ENTITY accnameTitle.label "Postafiók neve">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Írja be milyen néven szeretne hivatkozni erre a postafiókra (pl.: „Munka”, „Otthon” vagy „Hírek”).">
-<!ENTITY accnameExample.label "Például Otthon, Munka, Hírek">
 <!ENTITY accnameLabel.label "Postafiók neve:">
 <!ENTITY accnameLabel.accesskey "P">
 

@@ -45,6 +45,7 @@
 
 <!ENTITY filterPrefs.label "Szűrő:">
 <!ENTITY filterPrefs.accesskey "S">
+<!ENTITY focusFilter.key "f">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Beállítás neve">
