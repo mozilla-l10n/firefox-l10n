@@ -66,6 +66,12 @@
 <!ENTITY cmd.edit_redo.label "Refés">
 <!ENTITY cmd.edit_redo.accesskey "R">
 <!ENTITY cmd.edit_redo.key "y">
+
+<!ENTITY cmd.delete.label               "Suprimeix la pàgina">
+<!ENTITY cmd.delete.accesskey           "S">
+<!ENTITY cmd.deleteDomainData.label     "Oblida el lloc">
+<!ENTITY cmd.deleteDomainData.accesskey "O">
+
 <!ENTITY cmd.open.label "Obre">
 <!ENTITY cmd.open.accesskey "O">
 <!ENTITY cmd.open_window.label "Obre en una nova finestra">

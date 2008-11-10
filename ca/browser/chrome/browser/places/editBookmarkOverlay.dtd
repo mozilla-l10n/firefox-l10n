@@ -21,4 +21,6 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Carrega aquesta adreça d'interès a la barra lateral">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "g">
 <!ENTITY editBookmarkOverlay.choose.label                    "Trieu…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Crea una carpeta">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "p">
 
