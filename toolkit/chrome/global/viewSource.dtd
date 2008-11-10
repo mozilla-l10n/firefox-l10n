@@ -33,7 +33,7 @@
 <!ENTITY reloadCmd.accesskey "u">
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY menu_wrapLongLines.title "Potong Baris Panjang">
-<!ENTITY menu_wrapLongLines.accesskey "W">
+<!ENTITY menu_wrapLongLines.accesskey "P">
 <!ENTITY menu_highlightSyntax.label "Pewarnaan Sintaks">
 <!ENTITY menu_highlightSyntax.accesskey "w">
 <!ENTITY menu_textSize.label "Ukuran Teks">

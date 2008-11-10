@@ -1,7 +1,7 @@
 <!ENTITY aboutDialog.title "Tentang &brandFullName;">
 <!ENTITY copyright "Kredit">
 <!ENTITY copyright.accesskey "K">
-<!ENTITY copyrightGNOME.accesskey "H">
+<!ENTITY copyrightGNOME.accesskey "K">
 <!ENTITY aboutLink "&lt; Tentang &brandFullName;">
 <!ENTITY aboutLink.accesskey "g">
 <!ENTITY aboutVersion "versi">
