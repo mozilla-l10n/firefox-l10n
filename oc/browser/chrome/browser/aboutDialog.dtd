@@ -1,9 +1,12 @@
 <!ENTITY aboutDialog.title "A prepaus de &brandFullName;">
 <!ENTITY copyright "Contributors">
 <!ENTITY copyright.accesskey "C">
+<!ENTITY copyrightGNOME.accesskey   "r">
 <!ENTITY aboutLink "&lt; A prepaus de &brandFullName;">
 <!ENTITY aboutLink.accesskey "A">
 <!ENTITY aboutVersion "version">
+<!ENTITY closeCmdGNOME.label        "Tampar">  
+<!ENTITY closeCmdGNOME.accesskey    "T">
 <!ENTITY copyrightInfo "©1998-2008 Contributors. Totes los dreches reservats. Firefox e sos lògos 
                                  son de marcas de la fondacion Mozilla. Totes los dreches 
                                  reservats.">
