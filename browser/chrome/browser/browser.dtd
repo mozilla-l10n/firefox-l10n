@@ -7,6 +7,9 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Navegació privada)">
 
 <!ENTITY tabCmd.label "Obre una pestanya">
 <!ENTITY tabCmd.accesskey "T">
@@ -157,8 +160,11 @@
 <!ENTITY preferencesCmdUnix.label "Preferències">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
-<!ENTITY clearPrivateDataCmd.label            "Neteja les dades privades">
-<!ENTITY clearPrivateDataCmd.accesskey        "j">
+<!ENTITY clearRecentHistoryCmd.label            "Neteja l'historial recent">
+<!ENTITY clearRecentHistoryCmd.accesskey        "h">
+
+<!ENTITY privateBrowsingCmd.label            "Navegació privada">
+<!ENTITY privateBrowsingCmd.accesskey        "p">
 
 <!ENTITY viewMenu.label "Visualitza">
 <!ENTITY viewMenu.accesskey "V">
@@ -230,10 +236,12 @@
 <!ENTITY viewPageInfoCmd.accesskey "i">
 <!ENTITY viewFrameInfoCmd.label "Informació del marc">
 <!ENTITY viewFrameInfoCmd.accesskey "i">
-<!ENTITY showImageCmd.label           "Mostra la imatge">
-<!ENTITY showImageCmd.accesskey       "s">
+<!ENTITY reloadImageCmd.label         "Recarrega la imatge">
+<!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label "Visualitza la imatge">
 <!ENTITY viewImageCmd.accesskey "i">
+<!ENTITY viewVideoCmd.label           "Visualitza el vídeo">
+<!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label "Visualitza la imatge de fons">
 <!ENTITY viewBGImageCmd.accesskey "f">
 <!ENTITY setDesktopBackgroundCmd.label      "Defineix com a fons d'escriptori…">
@@ -261,8 +269,16 @@
 <!ENTITY sendLinkCmd.accesskey "i">
 <!ENTITY saveImageCmd.label "Anomena i desa la imatge…">
 <!ENTITY saveImageCmd.accesskey "a">
+<!ENTITY saveVideoCmd.label           "Anomena i desa el vídeo…">
+<!ENTITY saveVideoCmd.accesskey       "d">
+<!ENTITY saveAudioCmd.label           "Anomena i desa l'àudio…">
+<!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY sendImageCmd.label "Envia la imatge…">
 <!ENTITY sendImageCmd.accesskey "n">
+<!ENTITY sendVideoCmd.label           "Envia el vídeo…">
+<!ENTITY sendVideoCmd.accesskey       "n">
+<!ENTITY sendAudioCmd.label           "Envia l'àudio…">
+<!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label "Copia l'enllaç">
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY copyLinkTextCmd.label        "Copia el text de l'enllaç">
@@ -271,6 +287,10 @@
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyImageContentsCmd.label "Copia la imatge">
 <!ENTITY copyImageContentsCmd.accesskey "m">
+<!ENTITY copyVideoURLCmd.label        "Copia la ubicació del vídeo">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Copia la ubicació de l'àudio">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY blockImageCmd.accesskey "g">
 <!ENTITY metadataCmd.label "Propietats">
 <!ENTITY metadataCmd.accesskey "P">
@@ -278,6 +298,20 @@
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY thisFrameMenu.label "Aquest marc">
 <!ENTITY thisFrameMenu.accesskey "u">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "Reprodueix">
+<!ENTITY mediaPlay.accesskey         "r">
+<!ENTITY mediaPause.label            "Atura">
+<!ENTITY mediaPause.accesskey        "r">
+<!ENTITY mediaMute.label             "Sense so">
+<!ENTITY mediaMute.accesskey         "m">
+<!ENTITY mediaUnmute.label           "Amb so">
+<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaShowControls.label     "Mostra els controls">
+<!ENTITY mediaShowControls.accesskey "c">
+<!ENTITY mediaHideControls.label     "Amaga els controls">
+<!ENTITY mediaHideControls.accesskey "c">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -388,3 +422,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Feu clic per a obrir la finestra de baixades">
 
+<!ENTITY ctrlTab.search.emptyText "Cerca pestanyes">
