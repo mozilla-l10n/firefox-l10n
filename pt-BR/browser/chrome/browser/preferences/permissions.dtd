@@ -1,5 +1,5 @@
 <!ENTITY window.title                 "Exceções">
-<!ENTITY window.width                 "36em">
+<!ENTITY window.width                 "36.0em">
 
 <!ENTITY treehead.sitename.label      "Site">
 <!ENTITY treehead.status.label        "Status">

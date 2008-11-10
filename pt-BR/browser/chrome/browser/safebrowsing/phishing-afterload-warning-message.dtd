@@ -1,10 +1,10 @@
 <!ENTITY safeb.palm.warning.title "Site suspeito de ser uma fraude">
 
-<!ENTITY safeb.palm.message.p1 "Esta página foi denunciada como sendo uma fraude criada para enganar usuários e conseguir informações pessoais ou financeiras. O fornecimento de dados pessoais nesta página pode resultar em roubo de identidade ou outros golpes.  ">
+<!ENTITY safeb.palm.message.p1 "Esta página foi avaliada como sendo uma falsificação criada para enganar usuários e conseguir informações pessoais ou financeiras. O fornecimento de dados pessoais nesta página pode resultar em roubo de identidade ou outros golpes.">
 <!ENTITY safeb.palm.message.p1.linkText "Leia mais »">
 <!ENTITY safeb.palm.p1.linkStatusText "Leia mais ">
 
-<!ENTITY safeb.palm.message.p2.start "Estes tipos de fraude são usados em golpes conhecidos como phishing attacks, em que páginas falsas e emails simulam fontes legítimas nas quais você confiaria. Saiba mais sobre ">
+<!ENTITY safeb.palm.message.p2.start "Estes tipos de fraude são usados em golpes conhecidos como phishing attacks, em que páginas falsas e emails se fazem passar por fontes que você confiaria. Saiba mais sobre ">
 <!ENTITY safeb.palm.message.p2.linkText "como o &brandShortName; protege você">
 <!ENTITY safeb.palm.message.p2.end " de páginas fraudulentas.">
 
@@ -12,17 +12,16 @@
 <!ENTITY safeb.palm.accept.statustext "Ir para minha página inicial">
 <!ENTITY safeb.palm.decline.label "Ignorar este alerta">
 <!ENTITY safeb.palm.decline.statustext "Ocultar alerta" >
-<!ENTITY safeb.palm.notforgery.label2 "Este não é um site fraudado…">
+<!ENTITY safeb.palm.notforgery.label2 "Reportar este alerta de site falso como incorreto…">
 <!ENTITY safeb.palm.report.label "Por que este site foi bloqueado?">
 
-<!ENTITY safeb.blocked.malware.title "Site denunciado como foco de ataques!">
+<!ENTITY safeb.blocked.malware.title "Site considerado foco de ataques!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malware.shortDesc "O site <span id='malware_sitename'/> foi denunciado como sendo um foco de ataques e foi bloqueado baseado em suas preferências de segurança.">
+<!ENTITY safeb.blocked.malware.shortDesc "O site <span id='malware_sitename'/> foi avaliado como sendo um foco de ataques e foi bloqueado de acordo com as suas preferências de segurança.">
 <!ENTITY safeb.blocked.malware.longDesc "<p>Focos de ataques são sites que tentam instalar aplicativos que roubam informações pessoais, usam o seu computador para atacar outros ou danificam o seu sistema.</p>
 <p>Alguns destes sites intencionalmente distribuem software nocivo, mas muitos são comprometidos sem o conhecimento ou permissão de seus responsáveis.</p>">
 
-<!ENTITY safeb.blocked.phishing.title "Site denunciado como fraude!">
+<!ENTITY safeb.blocked.phishing.title "Site considerado falso!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishing.shortDesc "O site <span id='phishing_sitename'/> foi denunciado como sendo uma fraude e foi bloqueado baseado em suas preferências de segurança.">
-<!ENTITY safeb.blocked.phishing.longDesc "<p>Páginas falsas são criadas para enganar você a fim de conseguir informações pessoais ou financeiras. Elas simulam fontes em que você confiaria.</p>
-<p>O fornecimento de informações nesta página pode resultar em roubo de identidade ou outras fraudes.</p>">
+<!ENTITY safeb.blocked.phishing.shortDesc "O site <span id='phishing_sitename'/> foi avaliado como sendo uma falsificação e foi bloqueado de acordo com as suas preferências de segurança.">
+<!ENTITY safeb.blocked.phishing.longDesc "<p>Páginas falsas são criadas para enganar você a fim de conseguir informações pessoais ou financeiras. Elas se fazem passar por fontes que você confiaria.</p><p>O fornecimento de informações nesta página pode resultar em roubo de identidade ou outras fraudes.</p>">

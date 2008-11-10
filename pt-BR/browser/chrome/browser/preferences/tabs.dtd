@@ -1,11 +1,11 @@
-<!ENTITY newWindowsAsTabs.label       "Abrir novas janelas em novas abas">
-<!ENTITY newWindowsAsTabs.accesskey   "b">
+<!ENTITY newWindowsAsTabs.label       "Quando sites requisitarem nova janela, abrir uma aba">
+<!ENTITY newWindowsAsTabs.accesskey   "Q">
 
 <!ENTITY warnCloseMultipleTabs.label  "Alertar ao fechar várias abas">
-<!ENTITY warnCloseMultipleTabs.accesskey  "A">
+<!ENTITY warnCloseMultipleTabs.accesskey  "e">
 
 <!ENTITY warnOpenManyTabs.label       "Alertar que o carregamento de muitas abas pode tornar o &brandShortName; lento">
-<!ENTITY warnOpenManyTabs.accesskey   "e">
+<!ENTITY warnOpenManyTabs.accesskey   "A">
 
 <!ENTITY showTabBar.label             "Sempre exibir a barra de abas">
 <!ENTITY showTabBar.accesskey         "S">

@@ -1,7 +1,7 @@
 <!ENTITY  fontsDialog.title                       "Fontes">
-<!ENTITY  window.width                            "39em">
-<!ENTITY  window.macWidth                         "43em">
-<!ENTITY  window.unixWidth                        "41em">
+<!ENTITY  window.width                            "39.0em">
+<!ENTITY  window.macWidth                         "43.0em">
+<!ENTITY  window.unixWidth                        "41.0em">
 
 <!ENTITY  language.label                          "Fontes padrão para:">
 <!ENTITY  language.accesskey                      "F">

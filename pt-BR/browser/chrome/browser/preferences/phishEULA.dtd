@@ -7,8 +7,8 @@
      already agreed with the policy for that provider; once you agree to a
      provider's policy, you don't see it again).
 -->
-<!ENTITY phishDlg.height      "40em">
-<!ENTITY phishDlg.width       "35em">
+<!ENTITY phishDlg.height      "40.0em">
+<!ENTITY phishDlg.width       "35.0em">
 
 <!ENTITY acceptToS.label      "Eu aceito os termos do serviço de proteção antifraude">
 <!ENTITY declineToS.label     "Eu NÃO aceito os termos do serviço de proteção antifraude">

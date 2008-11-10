@@ -21,3 +21,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Carregar no painel">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "C">
 <!ENTITY editBookmarkOverlay.choose.label                    "Selecionar…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Nova pasta">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">

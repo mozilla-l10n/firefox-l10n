@@ -125,9 +125,8 @@
 ">
 
 <!ENTITY nssBadCert.title "Falha na conexão segura">
-<!ENTITY nssBadCert.longDesc2 "
-<ul>
-  <li>Pode ser um problema com a configuração do servidor ou alguém pode estar tentando falsificar a identidade deste servidor.</li>
+<!ENTITY nssBadCert.longDesc2 "<ul>
+  <li>Pode ser um problema com a configuração do servidor ou pode ser alguém tentando se passar por ele.</li>
   <li>Se você já conectou-se com êxito a este servidor, o erro pode ser temporário e você pode tentar de novo mais tarde.</li>
 </ul>
 ">
@@ -148,7 +147,7 @@
 <!ENTITY phishingBlocked.title "Site suspeito de ser uma fraude!">
 <!ENTITY phishingBlocked.longDesc "
 <p>O fornecimento de dados pessoais nesta página pode resultar em roubo de identidade ou outros golpes.</p>
-<p>Estes tipos de fraude são usados em golpes conhecidos como phishing attacks, em que páginas falsas e emails simulam fontes legítimas nas quais você confiaria.</p>
+<p>Estes tipos de fraude são usados em golpes conhecidos como phishing attacks, em que páginas falsas e emails se fazem passar por fontes que você confiaria.</p>
 ">
 
 <!ENTITY securityOverride.linkText "Ou você pode adicionar uma exceção…">
