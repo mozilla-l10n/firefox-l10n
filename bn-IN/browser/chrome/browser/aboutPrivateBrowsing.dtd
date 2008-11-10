@@ -1,13 +1,13 @@
-<!ENTITY privatebrowsingpage.tabtitle                  "Private Browsing">
+<!ENTITY privatebrowsingpage.tabtitle                  "ব্যক্তিগত ব্রাউজিং">
 
-<!ENTITY privatebrowsingpage.pagetitle                 "Private Browsing">
+<!ENTITY privatebrowsingpage.pagetitle                 "ব্যক্তিগত ব্রাউজিংয়ের সুবিধা"">
 
-<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; won't remember any history for this session.">
-<!ENTITY privatebrowsingpage.longDesc                  "No history will be recorded by &brandShortName; during this browsing session.  This includes browser history, search history, download history, web form history, cookies, and temporary internet files.  However, any files you download or bookmarks you create will be preserved.">
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; দ্বারা এই সেশান সম্বন্ধে কোনো ধরনের তথ্য সংরক্ষণ করা হবে না।">
+<!ENTITY privatebrowsingpage.longDesc                  "এই ব্রাউজিং সেশান চলাকালে No history will be recorded by &brandShortName; দ্বারা কোনো ধরনের তথ্য যেমন ব্রাউজার, অনুসন্ধান, ডাউনলোড ও ওয়েব ফর্মের পূর্ববর্তী তথ্য, কুকি ও সাময়িক ইন্টারনেট ফাইল সংরক্ষণ করা হবে না।  কিন্তু, ডাউনলোড করা ফাইল ও নির্মিত বুকমার্কগুলি সংরক্ষণ করা হবে।">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "You may want to start by also clearing your recent history.">
-<!ENTITY privatebrowsingpage.recentHistory.label       "Clear Recent History">
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "প্রাথমিক ভাবে, সাম্প্রতিক ব্যবহারের পূর্ববর্তী তথ্য মুছে ফেলতে পারেন।">
+<!ENTITY privatebrowsingpage.recentHistory.label       "সাম্প্রতিক ব্যবহারের পূর্ববর্তী তথ্য মুছে ফেলুন">
 <!ENTITY privatebrowsingpage.recentHistory.accesskey   "C">
 
-<!ENTITY privatebrowsingpage.howToStopDesc             "To stop private browsing, uncheck Tools &gt; Private Browsing.">
+<!ENTITY privatebrowsingpage.howToStopDesc             "ব্যক্তিগত ব্রাউজিং বন্ধ করার জন্য সরঞ্জাম &gt; ব্যক্তিগত ব্রাউজিং বিকল্পকে নির্বাচনমুক্ত করুন">
 <!ENTITY privatebrowsingpage.footerDesc                "Enjoy!">
