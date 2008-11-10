@@ -133,8 +133,6 @@
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferéncias">
 <!ENTITY preferencesCmdUnix.accesskey "n">
-<!ENTITY clearPrivateDataCmd.label "Voidar las donadas privadas">
-<!ENTITY clearPrivateDataCmd.accesskey "p">
 <!ENTITY viewMenu.label "Visualizacion">
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenu.label "Barras d'espleches">
@@ -179,8 +177,6 @@
 <!ENTITY viewPageInfoCmd.accesskey "e">
 <!ENTITY viewFrameInfoCmd.label "Visualizar las entresenhas del quadre">
 <!ENTITY viewFrameInfoCmd.accesskey "e">
-<!ENTITY showImageCmd.label "Afichar l'imatge">
-<!ENTITY showImageCmd.accesskey "V">
 <!ENTITY viewImageCmd.label "Visualizar l'imatge">
 <!ENTITY viewImageCmd.accesskey "i">
 <!ENTITY viewBGImageCmd.label "Visualizar l'imatge de fons">
@@ -243,7 +239,6 @@
 <!ENTITY fullZoomToggleCmd.accesskey "t">
 <!ENTITY fullZoom.label "Zoom">
 <!ENTITY fullZoom.accesskey "Z">
-<!ENTITY newTabButton.tooltip "Dobrir un onglet novèl">
 <!ENTITY newWindowButton.tooltip "Dobrir una fenèstra novèla">
 <!ENTITY sidebarCloseButton.tooltip "Tampar la barra laterala">
 <!ENTITY cutButton.tooltip "Copar">
