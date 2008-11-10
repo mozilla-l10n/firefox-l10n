@@ -1,4 +1,4 @@
-<!ENTITY window.width                       "36em">
+<!ENTITY window.width                       "36.0em">
 
 <!ENTITY     cookiesonsystem.label          "Estes cookies estão armazenados no seu computador:">
 <!ENTITY     cookiename.label               "Cookie">

@@ -1,4 +1,4 @@
-<!ENTITY window.width                                   "30em">
+<!ENTITY window.width                                   "30.0em">
 
 <!ENTITY languages.customize.Header                     "Idiomas">
 <!ENTITY languages.customize.prefLangDescript           "Páginas web são ocasionalmente disponibilizadas em mais de um idioma. Selecione em quais idiomas deseja exibí-las.">

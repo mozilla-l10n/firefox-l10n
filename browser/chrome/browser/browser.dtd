@@ -7,6 +7,9 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (navegação privativa)">
 
 <!ENTITY tabCmd.label "Nova aba">
 <!ENTITY tabCmd.accesskey "N">
@@ -158,8 +161,11 @@
 <!ENTITY preferencesCmdUnix.label       "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey     "P"> 
 
-<!ENTITY clearPrivateDataCmd.label            "Limpar dados pessoais">
-<!ENTITY clearPrivateDataCmd.accesskey        "L">
+<!ENTITY clearRecentHistoryCmd.label            "Limpar histórico recente">
+<!ENTITY clearRecentHistoryCmd.accesskey        "L">
+
+<!ENTITY privateBrowsingCmd.label            "Navegação privativa">
+<!ENTITY privateBrowsingCmd.accesskey        "N">
 
 <!ENTITY viewMenu.label         "Exibir"> 
 <!ENTITY viewMenu.accesskey       "x"> 
@@ -179,7 +185,7 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "L">
-<!ENTITY urlbar.emptyText             "Pesquisar favoritos e histórico">
+<!ENTITY urlbar.emptyText             "Localizar no histórico e favoritos">
 <!ENTITY urlbar.accesskey             "n">
 
 <!-- 
@@ -233,10 +239,12 @@
 <!ENTITY viewPageInfoCmd.accesskey    "o">
 <!ENTITY viewFrameInfoCmd.label       "Propriedades do frame">
 <!ENTITY viewFrameInfoCmd.accesskey   "P">
-<!ENTITY showImageCmd.label           "Carregar imagem">
-<!ENTITY showImageCmd.accesskey       "C">
+<!ENTITY reloadImageCmd.label         "Carregar imagem">
+<!ENTITY reloadImageCmd.accesskey     "C">
 <!ENTITY viewImageCmd.label           "Exibir imagem">
 <!ENTITY viewImageCmd.accesskey       "x">
+<!ENTITY viewVideoCmd.label           "Exibir vídeo">
+<!ENTITY viewVideoCmd.accesskey       "x">
 <!ENTITY viewBGImageCmd.label         "Exibir imagem de fundo">
 <!ENTITY viewBGImageCmd.accesskey     "x">
 <!ENTITY setDesktopBackgroundCmd.label      "Definir como papel de parede…">
@@ -264,8 +272,16 @@
 <!ENTITY sendLinkCmd.accesskey        "E">
 <!ENTITY saveImageCmd.label           "Salvar imagem como…">
 <!ENTITY saveImageCmd.accesskey       "i">
+<!ENTITY saveVideoCmd.label           "Salvar vídeo como…">
+<!ENTITY saveVideoCmd.accesskey       "S">
+<!ENTITY saveAudioCmd.label           "Salvar áudio como…">
+<!ENTITY saveAudioCmd.accesskey       "S">
 <!ENTITY sendImageCmd.label           "Enviar imagem">
 <!ENTITY sendImageCmd.accesskey       "v">
+<!ENTITY sendVideoCmd.label           "Enviar vídeo…">
+<!ENTITY sendVideoCmd.accesskey       "n">
+<!ENTITY sendAudioCmd.label           "Enviar áudio…">
+<!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label            "Copiar link">
 <!ENTITY copyLinkCmd.accesskey        "o">
 <!ENTITY copyLinkTextCmd.label        "Copiar texto do link">
@@ -274,13 +290,32 @@
 <!ENTITY copyImageCmd.accesskey       "r">
 <!ENTITY copyImageContentsCmd.label   "Copiar imagem">
 <!ENTITY copyImageContentsCmd.accesskey  "m"> 
-<!ENTITY blockImageCmd.accesskey       "u">
-<!ENTITY metadataCmd.label            "Propriedades">
+<!ENTITY copyVideoURLCmd.label        "Copiar endereço do vídeo">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Copiar endereço do áudio">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY blockImageCmd.accesskey      "u">
+<!ENTITY metadataCmd.label            "Propriedades do elemento">
 <!ENTITY metadataCmd.accesskey        "i">
 <!ENTITY copyEmailCmd.label           "Copiar email">
 <!ENTITY copyEmailCmd.accesskey       "o">
 <!ENTITY thisFrameMenu.label              "Este frame">
 <!ENTITY thisFrameMenu.accesskey          "t">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "Executar">
+<!ENTITY mediaPlay.accesskey         "E">
+<!ENTITY mediaPause.label            "Pausa">
+<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaMute.label             "Desativar som">
+<!ENTITY mediaMute.accesskey         "a">
+<!ENTITY mediaUnmute.label           "Ativar som">
+<!ENTITY mediaUnmute.accesskey       "A">
+<!ENTITY mediaShowControls.label     "Exibir controles">
+<!ENTITY mediaShowControls.accesskey "c">
+<!ENTITY mediaHideControls.label     "Ocultar controles">
+<!ENTITY mediaHideControls.accesskey "c">
+
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -323,7 +358,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Sair"> 
 <!ENTITY quitApplicationCmd.accesskey   "S">
 <!ENTITY quitApplicationCmdMac.label    "Sair do &brandShortName;">
-<!ENTITY quitApplicationCmdMac.key      "Q">
+<!ENTITY quitApplicationCmdMac.key      "q">
 
 <!ENTITY closeCmd.label                 "Fechar">  
 <!ENTITY closeCmd.key                   "w">  
@@ -391,3 +426,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Mais informações…">
 
 <!ENTITY downloadMonitor2.tooltip "Clique para abrir a janela de downloads">
+
+<!ENTITY ctrlTab.search.emptyText "Localizar aba">

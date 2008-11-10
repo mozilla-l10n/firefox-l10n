@@ -6,7 +6,7 @@
 
   &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
 -->
-<!ENTITY  rememberDaysBefore.label      "Manter um histórico de pelo menos">
+<!ENTITY  rememberDaysBefore.label      "Memorizar as páginas visitadas por pelo menos">
 <!ENTITY  rememberDaysBefore.accesskey  "M">
 <!ENTITY  rememberDaysAfter2.label      "dias">
 
@@ -14,7 +14,7 @@
 <!ENTITY  rememberForms.accesskey       "o">
 
 <!ENTITY  rememberDownloads.label       "Memorizar downloads">
-<!ENTITY  rememberDownloads.accesskey   "d">
+<!ENTITY  rememberDownloads.accesskey   "r">
 
 
 <!ENTITY  cookies.label                 "Cookies">
@@ -22,8 +22,8 @@
 <!ENTITY  acceptCookies.label           "Sites podem definir cookies">
 <!ENTITY  acceptCookies.accesskey       "S">
 
-<!ENTITY  acceptThirdParty.label        "Aceitar cookies de sites externos">
-<!ENTITY  acceptThirdParty.accesskey    "t">
+<!ENTITY  acceptThirdParty.label        "Inclusive os de elementos fora do site visitado">
+<!ENTITY  acceptThirdParty.accesskey    "I">
 
 <!ENTITY  keepUntil.label               "Preservar cookies até:">
 <!ENTITY  keepUntil.accesskey           "r">

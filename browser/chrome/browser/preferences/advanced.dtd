@@ -53,8 +53,8 @@
 <!ENTITY autoCheck.label                 "Verificar automaticamente se há atualizações para:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate.label        "Complementos instalados">
-<!ENTITY enableAddonsUpdate.accesskey    "C">
+<!ENTITY enableAddonsUpdate.label        "Extensões e temas instalados">
+<!ENTITY enableAddonsUpdate.accesskey    "E">
 <!ENTITY enableSearchUpdate.label        "Mecanismos de pesquisa">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 <!ENTITY whenUpdatesFound.label          "Ao encontrar atualizações do &brandShortName;:">
@@ -73,7 +73,7 @@
 <!ENTITY offlineNotifyExceptions.accesskey "E">
 
 <!ENTITY offlineAppsList.label           "Estes sites possuem dados armazenados para uso offline:">
-<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsList.height          "7.0em">
 <!ENTITY offlineAppsListRemove.label     "Excluir…">
 <!ENTITY offlineAppsListRemove.accesskey "x">
 <!ENTITY offlineAppRemove.confirm        "Excluir dados offline">
@@ -82,13 +82,13 @@
 
 <!ENTITY protocols.label                 "Protocolos">
 <!ENTITY useSSL3.label                   "SSL 3.0">
-<!ENTITY useSSL3.accesskey               "L">
+<!ENTITY useSSL3.accesskey               "S">
 <!ENTITY useTLS1.label                   "TLS 1.0">
 <!ENTITY useTLS1.accesskey               "T">
 <!ENTITY certificates.label              "Certificados">
 <!ENTITY certSelection.description       "Quando um servidor solicitar meu certificado pessoal:">
 <!ENTITY certs.auto                      "Selecionar um automaticamente">
-<!ENTITY certs.auto.accesskey            "S">
+<!ENTITY certs.auto.accesskey            "e">
 <!ENTITY certs.ask                       "Perguntar quando necessário">
 <!ENTITY certs.ask.accesskey             "P">
 <!ENTITY viewCerts.label                 "Certificados">

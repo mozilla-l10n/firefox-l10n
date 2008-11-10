@@ -37,7 +37,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY advancedJSDialog.title         "Permissões para JavaScript">
-<!ENTITY window.width                   "37em">
+<!ENTITY window.width                   "37.0em">
 
 <!ENTITY allowScripts.label             "Scripts podem:">
 

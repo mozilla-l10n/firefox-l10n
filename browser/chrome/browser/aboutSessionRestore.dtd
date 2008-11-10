@@ -1,0 +1,18 @@
+<!ENTITY restorepage.tabtitle       "Restaurar sessão">
+<!ENTITY restorepage.pagetitle      "Deseja restaurar a sessão?">
+<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
+                        you may translate "crash" instead (even though it's IT-speak) -->
+<!ENTITY restorepage.issueDesc      "A sessão anterior do &brandShortName; foi finalizada abruptamente. Pedimos sinceras desculpas pelo incômodo. Você pode restaurar as abas e janelas que estavam abertas. Se elas não forem mais necessárias, inicie uma nova sessão.">
+<!ENTITY restorepage.remedies       "Se o &brandShortName; continuar fechando:">
+<!ENTITY restorepage.dueToChrome    "Experimente desativar, através da janela Complementos, extensões adicionadas recentemente.">
+<!ENTITY restorepage.dueToContent   "Experimente restaurar a sessão sem as páginas que você suspeite estarem causando o problema:">
+
+<!ENTITY restorepage.restoreButton  "Restaurar sessão anterior">
+<!ENTITY restorepage.restore.access "R">
+<!ENTITY restorepage.cancelButton   "Iniciar nova sessão">
+<!ENTITY restorepage.cancel.access  "I">
+
+<!ENTITY restorepage.restoreHeader  "Restaurar">
+<!ENTITY restorepage.listHeader     "Janelas e abas">
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Janela &#037;S">

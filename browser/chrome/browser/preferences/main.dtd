@@ -4,7 +4,7 @@
 <!ENTITY startupPage.accesskey     "o">
 <!ENTITY startupHomePage.label     "Abrir página inicial">
 <!ENTITY startupBlankPage.label    "Abrir página em branco">
-<!ENTITY startupLastSession.label  "Abrir janelas e abas da última sessão">
+<!ENTITY startupLastSession.label  "Restaurar janelas e abas da sessão anterior">
 <!ENTITY location.label            "Página inicial:">
 <!ENTITY location.accesskey        "n">
 <!ENTITY useCurrentPage.label      "Usar a página aberta">
