@@ -4,24 +4,16 @@
 <!ENTITY window.macWidth "49em">
 
 <!ENTITY checking.title "Перевіряється наявність оновлень…">
-<!ENTITY checking.label "&brandShortName; перевіряє наявність оновлень…">
 
-<!ENTITY cancel.label "Скасувати">
-<!ENTITY cancel.accesskey "и">
 
 <!ENTITY noupdatesfound.title "Оновлення відсутні">
 <!ENTITY  noupdatesautoenabled.intro      "Оновлення відсутні. &brandShortName; буде періодично перевіряти наявніть оновлень.">
 <!-- FIXME: localize -->
 <!ENTITY  noupdatesautodisabled.intro     "There are no updates available. Please check again later or enable &brandShortName;'s automatic update checking.">
 
-<!ENTITY incompatibleChecking.label "Перевірка чи не спричинить це оновлення проблем з вашими розширеннями та/чи темами…">
 <!ENTITY clickHere.label "Переглянути докладнішу інформацію про це оновлення">
 
-<!ENTITY incompatible.warning "Це оновлення приведе до того, що деякі з ваших доповнень перестануть працювати до тих пір, поки вони не будуть оновлені.">
-<!ENTITY listIncompatible.label "Показати список">
-<!ENTITY listIncompatible.accesskey "с">
 
-<!ENTITY upgrade.evangelism "Наполегливо рекомендується якнайскоріше оновити &brandShortName;.">
 
 <!ENTITY license.instructions "Якщо ви згодні з умовами цієї ліцензійної угоди, натисніть на кнопку Я згоден для продовження установки цього оновлення.">
 
@@ -39,10 +31,6 @@
 <!ENTITY verificationFailedText.label "&brandShortName; не зміг перевірити цілісність частково завантаженого оновлення, тому він завантажує повне оновлення.">
 
 <!ENTITY details.link "Подробиці">
-<!ENTITY pause.label "Пауза">
-<!ENTITY pause.accesskey "у">
-<!ENTITY close.label "Закрити">
-<!ENTITY close.accesskey "З">
 
 <!ENTITY error.label "При перевірці, завантаженні або встановленні цього оновлення виникли проблеми. &brandShortName; не був оновлений з наступної причини:">
                                            
@@ -51,16 +39,8 @@
 <!ENTITY errorpatching.title "Помилка оновлення">
 <!ENTITY errorpatching.intro "Часткове оновлення не може бути встановлене. &brandShortName; спробує встановити оновлення, завантаживши повне оновлення.">
 
-<!ENTITY finished.title "Оновлення завантажено">
-<!ENTITY finished.text "Оновлення було успішно завантажено і перевірено, його буде встановлено при наступному запуску &brandShortName;.">
 
-<!ENTITY finishedBackground.title "Оновлення готове для встановлення">
-<!ENTITY finishedBackground.text "&brandShortName; завантажив і перевірив важливе оновлення. Клацніть по приведеному нижче посиланню для отримання докладнішої інформації.">
 <!ENTITY finishedBackground.name "Оновлення:">
-<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
-<!ENTITY finishedBackground.more1 "Натисніть Перезапустити &brandShortName; Зараз, щоб встановити оновлення прямо зараз.">
-<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!ENTITY finishedBackground.textNotNow "Натисніть Пізніше, щоб закрити це діалогове вікно і продовжити роботу. &brandShortName; встановить оновлення при наступному запуску браузера.">
 
 <!ENTITY installed.title "Оновлення встановлено">
 <!ENTITY installed.intro "Оновлення було успішно встановлено.">
@@ -69,3 +49,22 @@
 <!ENTITY update.details.label "Подробиці">
 <!ENTITY update.installedOn.label "Встановлено:">
 <!ENTITY update.status.label "Стан:">
+
+<!ENTITY  evangelism.desc                 "Наполегливо рекомендується якнайскоріше оновити &brandShortName;.">
+                                           
+<!ENTITY  finishedPage.title              "Оновлення готове до установки">
+<!ENTITY  finishedPage.text               "Оновлення буде встановлене при наступному запуску &brandShortName;.
+                                           Ви можете перезапустити &brandShortName; зараз, чи працювати далі і перезапустити потім.">
+
+<!ENTITY  finishedBackgroundPage.text     "Було завантажено оновлення безпеки та стабільності &brandShortName;.
+                                           Воно готове до установки.">
+<!ENTITY  finishedBackground.name         "Оновлення:">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more         "Оновлення буде встановлене при наступному запуску &brandShortName;
+                                           Ви можете перезапустити &brandShortName; зараз, , чи працювати далі і перезапустити потім.">
+
+<!ENTITY  incompatibleCheck.label         "Пошук нових версій ваших додатків…">
+<!ENTITY  incompatibleCheck.title         "Перевірка сумісності додатків">
+<!ENTITY  incompatibleList.title          "Знайдено несумісні додатки">
+<!ENTITY  updateCheck.label               "Пошук нових версій &brandShortName;…">
+<!ENTITY  viewDetails.tooltip             "Переглянути подробиці щодо цього оновлення">
