@@ -43,4 +43,3 @@
 <!ENTITY replaceAllButton.label "Tout remplacer">
 <!ENTITY replaceAllButton.accesskey "T">
 <!ENTITY closeButton.label "Fermer">
-<!ENTITY notFoundWarning.label "Le texte que vous avez saisi est introuvable.">

@@ -32,17 +32,12 @@
    - and other provisions required by the GPL or the LGPL. If you do not delete
    - the provisions above, a recipient may use your version of this file under
    - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
-
 
 <!-- Window title -->
 <!ENTITY windowTitle.label    "Publier la page">
 <!ENTITY windowTitleSettings.label "Paramètres de publication">
-
 <!ENTITY publishTab.label         "Publier">
 <!ENTITY settingsTab.label        "Paramètres">
-
 <!ENTITY publishButton.label      "Publier">
 
 <!-- Publish Tab Panel -->
@@ -72,10 +67,8 @@
 <!ENTITY filename.accesskey "o">
 <!ENTITY filename.tooltip         "Saisir un nom pour ce fichier, en incluant « .html » pour une page Web">
 <!ENTITY filenameExample.label    "exemple : « ma_page.html »">
-<!ENTITY relatedDocs.label        "Autres fichiers à publier">
 <!ENTITY setDefaultButton.label   "Définir par défaut">
 <!ENTITY setDefaultButton.accesskey "D">
-<!ENTITY setDefSiteAndDir.label   "Définir comme site et répertoire par défaut">
 <!ENTITY removeButton.label       "Supprimer le site">
 <!ENTITY removeButton.accesskey "S">
 

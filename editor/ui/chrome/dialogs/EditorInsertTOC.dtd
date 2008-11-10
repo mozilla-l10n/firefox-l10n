@@ -37,7 +37,6 @@
 
 <!ENTITY Window.title        "Table des matières">
 <!ENTITY buildToc.label      "Créer la table des matières à partir de :">
-<!ENTITY style.label         "Style :">
 <!ENTITY tag.label           "Balise :">
 <!ENTITY class.label         "Classe :">
 <!ENTITY header1.label       "Niveau 1">
