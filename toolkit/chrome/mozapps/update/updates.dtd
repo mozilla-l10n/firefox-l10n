@@ -3,26 +3,19 @@
 <!ENTITY  window.width                    "42em">
 <!ENTITY  window.macWidth                 "45em">
 
-<!ENTITY  checking.title                  "S'està comprovant si hi ha actualitzacions">
-<!ENTITY  checking.label                  "El &brandShortName; està comprovant si hi ha actualitzacions…">
-
-<!ENTITY  cancel.label                    "Canceŀla">
-<!ENTITY  cancel.accesskey                "C">
+<!ENTITY  checking.title                  "Comprovació d'actualitzacions">
+<!ENTITY  updateCheck.label               "S'estan cercant versions més noves del &brandShortName;…">
 
 <!ENTITY  noupdatesfound.title            "No s'ha trobat cap actualització">
 <!ENTITY  noupdatesautoenabled.intro      "No hi ha cap actualització disponible. El &brandShortName; comprovarà periòdicament si hi ha noves actualitzacions.">
 <!ENTITY  noupdatesautodisabled.intro     "No hi ha cap actualització disponible. Torneu-ho a provar més endavant o habiliteu la comprovació d'actualitzacions automàtica del &brandShortName;.">
 
-<!ENTITY  incompatibleChecking.label      "S'està comprovant si l'actualització pot causar problemes amb les vostres extensions i/o temes…">
+<!ENTITY  incompatibleCheck.title         "S'està comprovant la compatibilitat dels complements">
+<!ENTITY  incompatibleCheck.label         "S'estan cercant versions més noves dels vostres complements…">
+
 <!ENTITY  clickHere.label                 "Feu clic ací per a més informació general quant a aquesta actualització">
 
-<!ENTITY  incompatible.warning            "Aquesta actualització provocarà que algunes de les vostres extensions i/o temes 
-                                           deixin de funcionar fins que no s'actualitzin.">
-<!ENTITY  listIncompatible.label          "Mostra la llista">
-<!ENTITY  listIncompatible.accesskey      "l">
-
-<!ENTITY  upgrade.evangelism              "És molt recomanable que actualitzeu el &brandShortName; 
-                                           tan aviat com sigui possible.">
+<!ENTITY  evangelism.desc 	          "És molt recomanable que apliqueu aquesta actualització en el &brandShortName; tan aviat com sigui possible.">
 
 <!ENTITY  license.instructions            "Si esteu d'acord amb els termes d'aquest acord, feu clic a Accepto 
                                            per a continuar instaŀlant aquesta actualització.">
@@ -35,18 +28,16 @@
 <!ENTITY  license.decline                 "No accepto els termes de l'acord de llicència">
 <!ENTITY  license.decline.accesskey       "N">
 
+<!ENTITY  incompatibleList.title          "S'han trobat complements incompatibles">
+
 <!ENTITY  downloading.title               "S'està baixant l'actualització">
 <!ENTITY  downloading.intro               "S'està baixant l'actualització…">
 <!ENTITY  connecting.label                "S'està connectant al servidor d'actualitzacions…">
 <!ENTITY  verificationFailedText.label    "El &brandShortName; no ha pogut verificar la integritat 
-                                           de l'actualització incremental que ha baixat, per això, ara està baixant-se
-                                           el paquet d'actualització complet.">
+                                           de l'actualització incremental que ha baixat, per això, ara està baixant-se el paquet d'actualització complet.">
+<!ENTITY  viewDetails.tooltip             "Consulteu els detalls de l'actualització">
 
 <!ENTITY  details.link                    "Detalls">
-<!ENTITY  pause.label                     "Atura">
-<!ENTITY  pause.accesskey                 "t">
-<!ENTITY  close.label                     "Tanca">
-<!ENTITY  close.accesskey                 "c">
 
 <!ENTITY  error.label                     "S'han produït problemes en instaŀlar aquesta actualització. El &brandShortName; no s'ha
                                            pogut actualitzar perquè:">
@@ -58,18 +49,15 @@
 <!ENTITY  errorpatching.intro             "L'actualització parcial no s'ha pogut aplicar. 
                                            El &brandShortName; ho tornarà a provar baixant una actualització completa.">                                  
 
-<!ENTITY  finished.title                  "S'ha baixat l'actualització">
-<!ENTITY  finished.text                   "L'actualització s'ha baixat i verificat amb èxit, i s'instaŀlarà 
-                                           la propera vegada que s'iniciï el &brandShortName;.">
+<!ENTITY  finishedPage.title        	  "L'actualització està preparada per a poder instaŀlar-la">
+<!ENTITY  finishedPage.text		  "L'actualització s'instaŀlarà la propera vegada que el &brandShortName; s'iniciï. Podeu 
+                                           reiniciar el &brandShortName; ara, o continuar treballant i reiniciar-lo més endavant.">
 
-<!ENTITY  finishedBackground.title        "L'actualització està preparada per a instaŀlar-se">
-<!ENTITY  finishedBackground.text         "El &brandShortName; ha baixat i verificat una actualització important.
-                                           Feu clic a l'enllaç de sota per a més detalls.">
+<!ENTITY  finishedBackgroundPage.text         "S'ha baixat una actualització de seguretat i estabilitat del &brandShortName; i està preparada per a poder instaŀlar-la.">
 <!ENTITY  finishedBackground.name         "Actualització:">
-<!ENTITY  finishedBackground.more1        "Feu clic a Reinicia ara el &brandShortName; per a instaŀlar ara l'actualització.">
-<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!ENTITY  finishedBackground.textNotNow   "Feu clic a «Ara no» per a tancar aquest diàleg i continuar treballant. El &brandShortName;
-                                           instaŀlarà l'actualització la propera vegada que s'iniciï.">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more         "L'actualització s'instaŀlara la propera vegada que s'iniciï el &brandShortName;. Podeu reiniciar el &brandShortName; ara, o continuar treballant i reiniciar-lo més endavant.">
+
 
 <!ENTITY  installed.title                 "L'actualització s'ha instaŀlat">
 <!ENTITY  installed.intro                 "L'actualització s'ha instaŀlat amb èxit.">
