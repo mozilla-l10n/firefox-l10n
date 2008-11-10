@@ -35,8 +35,5 @@
 <!ENTITY removeallpermissions.label "Supprimer tous les sites">
 <!ENTITY removeallpermissions.accesskey "t">
 
-<!ENTITY canSet.label "Autoriser les cookies">
-<!ENTITY cannotSet.label "Interdire les cookies">
-
 <!ENTITY futureCookies.label "Ne pas autoriser les sites dont les cookies ont été supprimés à en définir d'autres">
 <!ENTITY futureCookies.accesskey "N">
