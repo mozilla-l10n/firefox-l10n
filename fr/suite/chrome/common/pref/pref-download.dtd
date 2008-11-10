@@ -27,5 +27,3 @@
 <!ENTITY browse.accesskey "u">
 <!ENTITY preview.label "Aperçu">
 <!ENTITY preview.accesskey "A">
-<!ENTITY soundURL.label "Emplacement du fichier son :">
-<!ENTITY soundURL.accesskey "s">

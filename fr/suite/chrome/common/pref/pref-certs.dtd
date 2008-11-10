@@ -36,8 +36,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  resetsettings.label "Remise à zéro des paramètres">
-<!ENTITY  resetpreferences.label "Remise à zéro des préférences…">
 <!ENTITY  managecerts.caption "Gestion des certificats">
 <!ENTITY  managecerts.text "Utilisez le Gestionnaire de certificats pour vos certificats personnels ainsi que pour les autres certificats.">
 <!ENTITY  managecerts.button "Gestion des certificats…">

@@ -55,8 +55,6 @@
 <!ENTITY warn.insecurepost.accesskey "v">
 <!ENTITY warn.leavingsecure "de quitter une page qui prend en charge le chiffrement des données.">
 <!ENTITY warn.leavingsecure.accesskey "q">
-<!ENTITY warn.secureredirect "la redirection d'un site sécurisé vers un autre site sécurisé">
-<!ENTITY warn.secureredirecttoinsecure "la redirection d'un site sécurisé vers un site non sécurisé">
 <!ENTITY warn.viewmixed "de voir une page contenant un mélange de données chiffrées et non chiffrées">
 <!ENTITY warn.viewmixed.accesskey "o">
 

@@ -8,14 +8,10 @@
 <!--LOCALIZATION NOTE (navigator.label): DONT_TRANSLATE -->
 <!ENTITY navigator.label "Navigateur">
 <!ENTITY history.label "Historique">
-<!ENTITY bidi.label "Options Bidi">
 <!ENTITY languages.label "Langues">
 <!ENTITY applications.label "Applications">
 <!ENTITY locationBar.label "Barre d'adresse">
 <!ENTITY tabWindows.label "Onglets">
-<!ENTITY compose.label "Éditeur">
-<!ENTITY editing.label "Modification">
-<!ENTITY publish.label "Publieur">
 <!ENTITY offline.label "Hors ligne">
 <!ENTITY security.label "Confidentialité et sécurité">
 <!ENTITY cookies.label "Cookies">

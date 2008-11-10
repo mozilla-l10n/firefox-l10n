@@ -15,8 +15,6 @@
 <!ENTITY openFrameCmdInTab.accesskey "t">
 <!ENTITY showOnlyThisFrameCmd.label "N'afficher que ce cadre">
 <!ENTITY showOnlyThisFrameCmd.accesskey "N">
-<!ENTITY addToBookmarksCmd.label "Ajouter aux marque-pages">
-<!ENTITY addToBookmarksCmd.accesskey "j">
 <!ENTITY goBackCmd.label "Précédent">
 <!ENTITY goBackCmd.accesskey "r">
 <!ENTITY goForwardCmd.label "Suivant">
