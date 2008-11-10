@@ -51,6 +51,8 @@
 <!ENTITY setDefaultMail.accesskey         "C">
 <!ENTITY setDefaultNews.label             "Notícias">
 <!ENTITY setDefaultNews.accesskey         "N">
+<!ENTITY setDefaultFeed.label             "Fontes">
+<!ENTITY setDefaultFeed.accesskey         "e">
 
 <!ENTITY messengerStartPage.caption       "Página inicial do correio">
 <!ENTITY enableStartPage.label            "Quando o correio é iniciado, mostrar a página inicial na área das mensagens">

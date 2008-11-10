@@ -49,6 +49,7 @@
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Rewrap">
+<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "w">
 <!ENTITY findCmd.label "Procurar e Substituir...">
 <!ENTITY findCmd.key "F">
@@ -178,7 +179,7 @@
 <!ENTITY attachButton.label "Anexar">
 <!ENTITY spellingButton.label "Ortografia">
 <!ENTITY saveButton.label "Guardar">
-!ENTITY stopButton.label "Parar">
+<!ENTITY stopButton.label "Parar">
 
 <!--tooltips-->
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
@@ -221,7 +222,6 @@
 <!ENTITY delete.accesskey "l">
 <!ENTITY renameAttachment.label "Mudar Nome…">
 <!ENTITY renameAttachment.accesskey "M">
-
 <!ENTITY selectAll.label "Seleccionar tudo">
 <!ENTITY selectAll.accesskey "S">
 <!ENTITY attachFile.label "Anexar ficheiros...">
