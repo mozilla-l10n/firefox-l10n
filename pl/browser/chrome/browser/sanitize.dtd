@@ -33,4 +33,6 @@
 <!ENTITY itemActiveLogins.label       "aktywne zalogowania">
 <!ENTITY itemActiveLogins.accesskey   "a">
 
+<!ENTITY window.width                 "30em">
 <!ENTITY column.width                 "14em">
+
