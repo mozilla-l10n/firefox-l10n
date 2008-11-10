@@ -1,0 +1,13 @@
+<!ENTITY privatebrowsingpage.tabtitle                  "Yksityinen selaus">
+
+<!ENTITY privatebrowsingpage.pagetitle                 "Yksityinen selaus">
+
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; ei tallenna tämän istunnon aikana mitään historiatietoja.">
+<!ENTITY privatebrowsingpage.longDesc                  "&brandShortName; ei tallenna tämän istunnon aikana mitään historiatietoja. Näitä tietoja ovat sivuhistoria, hakuhistoria, latauslista, lomakekenttiin syötetyt tiedot, evästeet ja väliaikaistiedostot. Ladatut tiedostot ja uudet kirjanmerkit tallentuvat normaalisti.">
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Poistetaanko aluksi tuoreet historiatiedot?">
+<!ENTITY privatebrowsingpage.recentHistory.label       "Poista historiatiedot">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey   "P">
+
+<!ENTITY privatebrowsingpage.howToStopDesc             "Palaa normaaliin selaustilaan poistamalla valinta kohdasta Työkalut &gt; Yksityinen selaustila.">
+<!ENTITY privatebrowsingpage.footerDesc                "Ok">
