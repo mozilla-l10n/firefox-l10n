@@ -21,18 +21,18 @@ that require it.  -->
 
 <!ENTITY itemVisitedPages.label       "Vitja sider">
 <!ENTITY itemVisitedPages.accesskey   "V">
-<!ENTITY itemFormSearchEntries.label  "Form &amp; Search Entries">
-<!ENTITY itemFormSearchEntries.accesskey "F">
+<!ENTITY itemFormSearchEntries.label  "Skjermverdiar og søkjehistorikk">
+<!ENTITY itemFormSearchEntries.accesskey "S">
 <!ENTITY itemPasswords.label          "Lagra passord">
 <!ENTITY itemPasswords.accesskey      "L">
 <!ENTITY itemCookies.label            "Informasjonskapslar">
 <!ENTITY itemCookies.accesskey        "I">
-<!ENTITY itemWebCache.label           "Nettsnøgglager">
-<!ENTITY itemWebCache.accesskey       "N">
+<!ENTITY itemWebCache.label           "Snøgg lager for nettsider">
+<!ENTITY itemWebCache.accesskey       "n">
 <!ENTITY itemOfflineApps.label        "Fråkopla nettsidedata">
 <!ENTITY itemOfflineApps.accesskey    "F">
 <!ENTITY itemDownloadList.label       "Last ned liste">
-<!ENTITY itemDownloadList.accesskey   "L">
+<!ENTITY itemDownloadList.accesskey   "a">
 <!ENTITY itemActiveLogins.label       "Aktive innloggingar">
 <!ENTITY itemActiveLogins.accesskey   "A">
 

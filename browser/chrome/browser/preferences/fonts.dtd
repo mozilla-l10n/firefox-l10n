@@ -65,4 +65,4 @@
 
 <!ENTITY languages.customize.Charset.grouplabel         "Teiknkoding">
 <!ENTITY languages.customize.DefaultCharset.label       "Standard teiknkoding:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "g">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "a">

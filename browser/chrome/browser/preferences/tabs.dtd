@@ -1,5 +1,5 @@
 <!ENTITY newWindowsAsTabs.label       "Opne nye vindauge i ei fane i staden">
-<!ENTITY newWindowsAsTabs.accesskey   "t">
+<!ENTITY newWindowsAsTabs.accesskey   "e">
 
 <!ENTITY warnCloseMultipleTabs.label  "Åtvar meg når eg lèt att eit vindauge med fleire faner">
 <!ENTITY warnCloseMultipleTabs.accesskey  "v">

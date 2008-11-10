@@ -19,7 +19,7 @@
 <!ENTITY openFileCmd.label "Opne fil …">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Sideoppsett …">
+<!ENTITY printSetupCmd.label "Utskriftsformat …">
 <!ENTITY printSetupCmd.accesskey "o">
 <!ENTITY printPreviewCmd.label "Førehandsvis sida">
 <!ENTITY printPreviewCmd.accesskey "v">
@@ -47,7 +47,7 @@
 <!ENTITY pageInfoCmd.accesskey "d">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Fullskjerm">
-<!ENTITY fullScreenCmd.accesskey "u">
+<!ENTITY fullScreenCmd.accesskey "F">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimer">
 <!ENTITY fullScreenRestore.tooltip "Bygg opp att">
@@ -55,7 +55,7 @@
 <!ENTITY fullScreenAutohide.label "Skjul verktøylinjer">
 <!ENTITY fullScreenAutohide.accesskey "S">
 <!ENTITY fullScreenExit.label "Avslutt fullskjermvising">
-<!ENTITY fullScreenExit.accesskey "A">
+<!ENTITY fullScreenExit.accesskey "v">
 
 <!ENTITY closeWindow.label "Lat att vindauge">
 <!ENTITY closeWindow.accesskey "d">
@@ -162,10 +162,10 @@
 <!ENTITY preferencesCmdUnix.accesskey     "I"> 
 
 <!ENTITY clearRecentHistoryCmd.label            "Slett nyleg historikk">
-<!ENTITY clearRecentHistoryCmd.accesskey        "S">
+<!ENTITY clearRecentHistoryCmd.accesskey        "e">
 
 <!ENTITY privateBrowsingCmd.label            "Privat nettlesing">
-<!ENTITY privateBrowsingCmd.accesskey        "B">
+<!ENTITY privateBrowsingCmd.accesskey        "P">
 
 <!ENTITY viewMenu.label         "Vis"> 
 <!ENTITY viewMenu.accesskey       "V"> 
@@ -248,7 +248,7 @@
 <!ENTITY viewBGImageCmd.label         "Vis bakgrunnsbilete">
 <!ENTITY viewBGImageCmd.accesskey     "b">
 <!ENTITY setDesktopBackgroundCmd.label      "Vel som skrivebordbakgrunn …">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "b">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "m">
 <!ENTITY bookmarkPageCmd2.label       "Legg til bokmerke …">
 <!ENTITY bookmarkPageCmd2.accesskey   "L">
 <!ENTITY bookmarkThisLinkCmd.label      "Legg til bokmerke for lenkja …">
@@ -258,7 +258,7 @@
 <!ENTITY sendPageCmd.label            "Send lenkje …">
 <!ENTITY sendPageCmd.accesskey        "S">
 <!ENTITY savePageCmd.label            "Lagre sida som …">
-<!ENTITY savePageCmd.accesskey        "s">
+<!ENTITY savePageCmd.accesskey        "a">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "o">
 <!ENTITY savePageCmd.commandkey       "s">
@@ -275,7 +275,7 @@
 <!ENTITY saveVideoCmd.label           "Lagre video som …">
 <!ENTITY saveVideoCmd.accesskey       "a">
 <!ENTITY saveAudioCmd.label           "Lagre lyd som …">
-<!ENTITY saveAudioCmd.accesskey       "v">
+<!ENTITY saveAudioCmd.accesskey       "a">
 <!ENTITY sendImageCmd.label           "Send bilete …">
 <!ENTITY sendImageCmd.accesskey       "i">
 <!ENTITY sendVideoCmd.label           "Send video …">
@@ -285,11 +285,11 @@
 <!ENTITY copyLinkCmd.label            "Kopier lenkjemål">
 <!ENTITY copyLinkCmd.accesskey        "K">
 <!ENTITY copyLinkTextCmd.label        "Kopier lenkjetekst">
-<!ENTITY copyLinkTextCmd.accesskey    "e">
+<!ENTITY copyLinkTextCmd.accesskey    "r">
 <!ENTITY copyImageCmd.label           "Kopier biletadresse">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Kopier bilete">
-<!ENTITY copyImageContentsCmd.accesskey  "e"> 
+<!ENTITY copyImageContentsCmd.accesskey  "b"> 
 <!ENTITY copyVideoURLCmd.label        "Kopier videoadresse">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Kopier lydadresse">
@@ -406,7 +406,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.undo.label                     "Angre">
 <!ENTITY editBookmark.undo.accessKey                 "A">
 <!ENTITY editBookmark.edit.label                     "Rediger …">
-<!ENTITY editBookmark.edit.accessKey                 "E">
+<!ENTITY editBookmark.edit.accessKey                 "R">
 
 <!ENTITY identity.unverifiedsite2 "Nettsida har ingen opplysningar om identitet.">
 <!ENTITY identity.connectedTo "Du er kopla til">
