@@ -132,5 +132,5 @@
 <!ENTITY protectedAuth.tokenName.label "Token:">
 
 <!ENTITY certErrorDlg.title "Falha na conexão segura">
-<!ENTITY certErrorDlg.info1 "Este pode ser um problema com a configuração do servidor ou pode ser alguém tentando passar-se por este servidor.">
+<!ENTITY certErrorDlg.info1 "Este pode ser um problema com a configuração do servidor ou pode ser alguém tentando se passar por ele.">
 <!ENTITY certErrorDlg.info2 "Se você já conectou-se com êxito a este servidor, o erro pode ser temporário e você pode tentar de novo mais tarde.">

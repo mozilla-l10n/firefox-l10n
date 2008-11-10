@@ -47,7 +47,7 @@
 <!ENTITY  validation.deletecrl.accesskey          "x">
 <!ENTITY  validation.updatecrl.label              "Atualizar">
 <!ENTITY  validation.updatecrl.accesskey          "A">
-<!ENTITY  validation.advanced.label               "Configurações">
+<!ENTITY  validation.advanced.label               "Configurar…">
 <!ENTITY  validation.advanced.accesskey           "C">
 
 <!ENTITY  validation.crl.autoupdate.title         "Opções para atualização automática da CRL">
@@ -56,7 +56,7 @@
 <!ENTITY  validation.crl.autoupdate.time.label2   "dia(s) antes da data da próxima atualização">
 <!ENTITY  validation.crl.autoupdate.freq.label1   "Atualizar a cada">
 <!ENTITY  validation.crl.autoupdate.freq.label2   "dia(s)">
-<!ENTITY  validation.crl.autoupdate.url.label     "A CRL será importada de: xxx">
+<!ENTITY  validation.crl.autoupdate.url.label     "A CRL será importada de:">
 <!ENTITY  crl.import.status.title                 "Status da importação da CRL">
 <!ENTITY  crl.import.success.message              "A Lista de Certificados Revogados (CRL) foi importada com êxito.">
 <!ENTITY  crl.issuer.label                        "CRL expedida por:">
