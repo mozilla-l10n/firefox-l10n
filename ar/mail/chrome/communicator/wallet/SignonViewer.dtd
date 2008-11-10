@@ -1,0 +1,17 @@
+<!ENTITY windowtitle.label "مدير كلمات السِّر">
+<!ENTITY windowalttitle.label "مدير الاستمارات: المواقع">
+<!ENTITY tab.signonsstored.label "حُفِظت كلمات السِر">
+<!ENTITY tab.signonsnotstored.label "لم تحفظ كلمات السر أبدا">
+<!ENTITY tab.nopreview.label "استمارات لم تعاين أبدا">
+<!ENTITY tab.nocapture.label "استمارات لم تحفظ">
+
+<!ENTITY spiel.signonsstored.label "حَفَظ مدير كلمات السِّر معلومات الولوج للمواقع التَّالية:">
+<!ENTITY spiel.signonsnotstored.label "لن يحفظ مدير كلمات السِّر معلومات الولوج للمواقع التَّالية:">
+<!ENTITY spiel.nopreview.label "لن يراجع مدير الاستمارات الاستمارات من المواقع التَّالية قبل تعبئتها لك:">
+<!ENTITY spiel.nocapture.label "لن يسأل مدير الاستمارات عن حفظ الاستمارات من المواقع التَّالية:">
+
+<!ENTITY treehead.site.label "الموقع">
+<!ENTITY treehead.username.label "اسم المستخدم">
+<!ENTITY treehead.password.label "كلمة السِّر">
+<!ENTITY remove.label "أزِل">
+<!ENTITY removeall.label "أزِل الكلّ">

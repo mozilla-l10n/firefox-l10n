@@ -1,0 +1,61 @@
+<!-- these things need to move into utilityOverlay.xul -->
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+
+
+<!ENTITY fileMenu.label "ملف">
+<!ENTITY fileMenu.accesskey "م">
+<!ENTITY newMenu.label "جديد">
+<!ENTITY newMenu.accesskey "ج">
+
+<!ENTITY editMenu.label "تحرير">
+<!ENTITY editMenu.accesskey "ح">
+<!ENTITY undoCmd.label "تراجع">
+<!ENTITY undoCmd.key "ر">
+<!ENTITY undoCmd.accesskey "ر">
+<!ENTITY redoCmd.label "أعد">
+<!ENTITY redoCmd.key "ع">
+<!ENTITY redoCmd.accesskey "ع">
+<!ENTITY cutCmd.label "قصّ">
+<!ENTITY cutCmd.key "ص">
+<!ENTITY cutCmd.accesskey "ص">
+<!ENTITY copyCmd.label "انسخ">
+<!ENTITY copyCmd.key "خ">
+<!ENTITY copyCmd.accesskey "خ">
+<!ENTITY pasteCmd.label "ألصق">
+<!ENTITY pasteCmd.key "ق">
+<!ENTITY pasteCmd.accesskey "ل">
+<!ENTITY deleteCmd.label "احذف">
+<!ENTITY deleteCmd.accesskey "ذ">
+<!ENTITY selectAllCmd.label "حدِّد الكلّ">
+<!ENTITY selectAllCmd.key "ل">
+<!ENTITY selectAllCmd.accesskey "ك">
+<!ENTITY preferencesCmd.label "الخيارات...">
+<!ENTITY preferencesCmd.accesskey "ا">
+<!ENTITY preferencesCmdUnix.label "التفضيلات">
+<!ENTITY preferencesCmdUnix.accesskey "ض">
+
+<!ENTITY viewMenu.label "عرض">
+<!ENTITY viewMenu.accesskey "ع">
+<!ENTITY viewToolbarsMenu.label "أشرطة الأدوات">
+<!ENTITY viewToolbarsMenu.accesskey "ش">
+<!ENTITY showTaskbarCmd.label "شريط الحالة">
+<!ENTITY showTaskbarCmd.accesskey "ط">
+
+<!ENTITY proxy.label "إعداد الوسيط…">
+<!ENTITY proxy.accesskey "و">
+
+<!ENTITY closeCmd.label "أغلق">
+<!ENTITY closeCmd.key "ذ">
+<!ENTITY closeCmd.accesskey "غ">
+
+<!ENTITY closeWindow.label "أغلق النافذة">
+
+<!ENTITY quitApplicationCmd.label "اخرج">
+<!ENTITY quitApplicationCmd.key "ن">
+<!ENTITY quitApplicationCmd.accesskey "ج">
+
+<!ENTITY quitApplicationCmdUnix.label "أنهِ">
+<!ENTITY quitApplicationCmdUnix.accesskey "ن">
+
+<!ENTITY quitApplicationCmdMac.label "أنهِ &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey "ه">

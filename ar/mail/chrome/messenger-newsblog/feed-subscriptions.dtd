@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY newsBlogSubscriptions.label "اشتراكات التلقيمات">
+<!ENTITY subscriptionDesc.label "ملاحظة: لن يؤثر حذف أو تغيير دليل التلقيم على المقالات التي نُزِّلت من قبل.">
+<!ENTITY feedTitle.label "العنوان: ">
+<!ENTITY location.label "الموقع: ">
+
+<!ENTITY button.addFeed.label "أضِف">
+<!ENTITY button.addFeed.accesskey "ض">
+<!ENTITY button.editFeed.label "حرّر">
+<!ENTITY button.editFeed.accesskey "ح">
+<!ENTITY button.removeFeed.label "احذف">
+<!ENTITY button.removeFeed.accesskey "ح">
+<!ENTITY button.importOPML.label "استورد">
+<!ENTITY button.importOPML.accesskey "س">
+<!ENTITY button.exportOPML.label "صدّر">
+<!ENTITY button.exportOPML.accesskey "ص">
+
+<!ENTITY cmd.close.commandKey "w">

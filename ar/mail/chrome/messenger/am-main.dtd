@@ -1,0 +1,33 @@
+<!-- extracted from am-main.xul -->
+
+<!ENTITY accountTitle.label "إعدادات الحسابات">
+<!ENTITY accountName.label "اسم الحساب:">
+<!ENTITY accountName.accesskey "س">
+<!ENTITY identityTitle.label "الهويّة المبدئية">
+<!ENTITY identityDesc.label "لكلّ حساب هويّة، و هي المعلومات التّي يراها الآخرون عندما يقرؤون رسائلك.">
+<!ENTITY name.label "اسمك:">
+<!ENTITY name.accesskey "ك">
+<!ENTITY email.label "عنوان بريدك:">
+<!ENTITY email.accesskey "ب">
+<!ENTITY replyTo.label "عنوان الرّد:">
+<!ENTITY replyTo.accesskey "د">
+<!ENTITY organization.label "المنظمة:">
+<!ENTITY organization.accesskey "O">
+<!ENTITY signature.label "أرفِق هذا التّوقيع:">
+<!ENTITY signature.accesskey "ر">
+<!ENTITY edit.label "حرِّر…">
+<!ENTITY choose.label "اختر…">
+<!ENTITY choose.accesskey "ر">
+<!ENTITY editVCard.label "حرّر البطاقة…">
+<!ENTITY editVCard.accesskey "ح">
+<!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
+<!ENTITY attachVCard.label "أرفِق بطاقة vCard مع الرّسائل">
+<!ENTITY attachVCard.accesskey "ق">
+
+<!ENTITY manageIdentities.label "أدِر الهويّات…">
+<!ENTITY manageIdentities.accesskey "د">
+<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
+
+<!ENTITY smtpName.label "خادوم الصّادر (SMTP):‏">
+<!ENTITY smtpName.accesskey "ص">
+<!ENTITY smtpDefaultServer.label "استخدم الخادوم المبدئي">

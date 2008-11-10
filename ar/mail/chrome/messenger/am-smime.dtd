@@ -1,0 +1,18 @@
+<!ENTITY securityTitle.label "السرّية">
+<!ENTITY securityHeading.label "لإرسال واستقبال الرسائل الموقّعة والمعمّاة تحتاج لتحديد شهادة توقيع رقمي وشهادة تعمية.">
+<!ENTITY encryptionGroupTitle.label "التعمية">
+<!ENTITY encryptionChoiceLabel.label "إعدادات التعمية المبدئية عند إرسال الرسائل:">
+<!ENTITY neverEncrypt.label "أبدًا (لا تعمِّ)">
+<!ENTITY alwaysEncryptMessage.label "مشترطة (لا يمكن إرسال الرسائل ما لم يمتلك كل المستلمون شهادات)">
+<!ENTITY encryptionCert.message "استخدم هذه الشهادة لتعمية واستخراج الرسائل المرسلة إليك:">
+<!ENTITY certificate.button "اختر…">
+<!ENTITY certificate_clear.button "أخلِ">
+<!ENTITY signingGroupTitle.label "التّوقيع الرقمي">
+<!ENTITY signMessage.label "وقّع الرسائل رقميا (بدئيا)">
+<!ENTITY signingCert.message "استخدم هذه الشهادة لتوقيع الرسائل التي ترسلها رقميًا:">
+
+<!ENTITY certificates.label "الشّهادات">
+<!ENTITY managecerts.label "اعرض الشهادات">
+<!ENTITY managecerts.accesskey "ع">
+<!ENTITY managedevices.label "أجهزة الأمن">
+<!ENTITY managedevices.accesskey "ج">

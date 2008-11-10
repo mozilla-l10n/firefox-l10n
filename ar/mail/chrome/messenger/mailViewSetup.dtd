@@ -1,0 +1,7 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY mailViewSetupTitle.label "ضبط منظور الرسائل">
+<!ENTITY mailViewHeading.label "اسم منظور الرسائل:">
+<!ENTITY mailViewHeading.accesskey "ر">
+<!ENTITY searchTermCaption.label "عند اختيار هذا المنظور، اعرض فقط الرسائل التي:">
+

@@ -1,0 +1,31 @@
+
+<!ENTITY migrationWizard.title "مرشد الاستيراد">
+
+<!ENTITY importFromWin.label "استورد الخيارات وإعدادات الحساب ودفتر العناوين والمرشحات وبيانات أخرى من:">
+<!ENTITY importFromNonWin.label "استورد التفضيلات وإعدادات الحساب ودفتر العناوين والمرشحات وبيانات أخرى من:">
+
+<!ENTITY importFromNothing.label "لا تستورد أي شيء">
+<!ENTITY importFromNothing.accesskey "س">
+<!ENTITY importFromSeamonkey.label "نتسكيب 6 و7 أو موزيلا x.1">
+<!ENTITY importFromSeamonkey.accesskey "ن">
+<!ENTITY importFromNetscape4.label "نتسكيب  4.x">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromOExpress.label "أوتلوك إكسبريس">
+<!ENTITY importFromOExpress.accesskey "و">
+<!ENTITY importFromOutlook.label "أوتلوك">
+<!ENTITY importFromOutlook.accesskey "ت">
+<!ENTITY importFromEudora.label "إيودورا">
+<!ENTITY importFromEudora.accesskey "د">
+
+<!ENTITY importSource.title "استورد الإعدادات ومجلدات البريد مِن">
+<!ENTITY importItems.title "عناصر للاستيراد">
+<!ENTITY importItems.label "اختر عناصرًا لتستورد:">
+
+<!ENTITY migrating.title "يجري الاستيراد…">
+<!ENTITY migrating.label "العناصر التالية تم استيرادها…">
+
+<!ENTITY selectProfile.title "اختر الملف الشخصي">
+<!ENTITY selectProfile.label "الملفات الشخصية التالية متاحة للاستيراد:">
+
+<!ENTITY done.title "تم الاستيراد">
+<!ENTITY done.label "العناصر التالية استُورِدت بنجاح:">

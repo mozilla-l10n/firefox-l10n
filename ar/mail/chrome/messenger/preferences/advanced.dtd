@@ -1,0 +1,92 @@
+<!ENTITY itemGeneral.label "عام">
+<!ENTITY itemDisplay.label "القراءة والعرض">
+<!ENTITY itemUpdate.label "التحديث">
+<!ENTITY itemNetworking.label "الشبكة ومساحة القرص">
+<!ENTITY itemCertificates.label "الشهادات">
+<!-- General Settings -->
+
+
+<!ENTITY showCondensedAddresses.label "اعرض فقط اسم العرض للأشخاص في دفتر عناويني">
+<!ENTITY showCondensedAddresses.accesskey "ع">
+
+<!ENTITY autoMarkAsRead.label "أشّر على الرسائل تلقائياً بانها مقروءة">
+<!ENTITY autoMarkAsRead.accesskey "ئ">
+<!ENTITY markAsReadNoDelay.label "فوراً عند العرض">
+<!ENTITY markAsReadNoDelay.accesskey "ف">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label "بعد العرض لمدة">
+<!ENTITY markAsReadDelay.accesskey "ض">
+<!ENTITY secondsLabel.label "ثوان/ثانية">
+<!ENTITY showFolderColumns.label "اعرض الأعمدة موسعةً في لوحة الدليل">
+<!ENTITY showFolderColumns.accesskey "م">
+<!ENTITY openMsgIn.label "افتح الرسائل في:">
+<!ENTITY reuseExpRadio0.label "نافذة رسالة جديدة ">
+<!ENTITY reuseExpRadio0.accesskey "ن">
+<!ENTITY reuseExpRadio1.label "نافذة رسالة موجودة">
+<!ENTITY reuseExpRadio1.accesskey "م">
+<!ENTITY configEditDesc.label "الإعدادات المتقدمة">
+<!ENTITY configEdit.label "محرر التضبيطات…">
+<!ENTITY configEdit.accesskey "ض">
+<!ENTITY returnReceiptsInfo.label "حدد كيف يتعامل &brandShortName;  مع إعلام الوصول">
+<!ENTITY showReturnReceipts.label "إعلام الوصول…">
+<!ENTITY showReturnReceipts.accesskey "ع">
+<!-- Display and Reading Settings -->
+
+<!ENTITY reading.caption "القراءة">
+<!ENTITY display.caption "العرض">
+<!-- Update -->
+
+<!ENTITY autoCheck.label "التمس التحديثات تلقائيًا:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "ح">
+<!ENTITY enableAddonsUpdate.label "الإضافات المثبتة">
+<!ENTITY enableAddonsUpdate.accesskey "t">
+<!ENTITY checkNow.label "التمس الآن…">
+<!ENTITY whenUpdatesFound.label "عند وجود تحديثات ل‍ ‍&brandShortName; ">
+<!ENTITY modeAskMe.label "اسألني ماذا أريد أن أفعل">
+<!ENTITY modeAskMe.accesskey "س">
+<!ENTITY modeAutomatic.label "نزِّل وثبت التحديثات تلقائيًّا">
+<!ENTITY modeAutomatic.accesskey "ت">
+<!ENTITY modeAutoAddonWarn.label "حذرني لو أن هذا سيعطل أيًّا من ملحقاتي">
+<!ENTITY modeAutoAddonWarn.accesskey "-">
+<!ENTITY showUpdates.label "اعرض تاريخ التحديث ">
+<!ENTITY showUpdates.accesskey "ت">
+<!-- Networking and Disk Space -->
+
+<!ENTITY showSettings.label "إعدادات...">
+<!ENTITY showSettings.accesskey "د">
+<!ENTITY proxiesConfigure.label "يعدّ كيفية اتصال &brandShortName; بالإنترنت">
+<!ENTITY connectionsInfo.caption "الاتصال">
+<!ENTITY offlineInfo.caption "غير متّصل">
+<!ENTITY offlineInfo.label "اضبط إعدادات طور اللااتصال">
+<!ENTITY showOffline.label "غير متصل…">
+<!ENTITY showOffline.accesskey "ص">
+
+<!ENTITY Diskspace "مساحة القرص ">
+<!ENTITY offlineCompact.label "ادمج الأدلة إذا كانت ستوفِّر أكثر من">
+<!ENTITY offlineCompact.accesskey "و">
+<!ENTITY kb.label "ك.بايت">
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+
+<!ENTITY useCacheBefore.label "استخدم حتى">
+<!ENTITY useCacheBefore.accesskey "ى">
+<!ENTITY useCacheAfter.label "م.بايت من المساحة للذاكرة المخبأة">
+<!ENTITY clearCacheNow.label "امسح الآن">
+<!ENTITY clearCacheNow.accesskey "ح">
+<!-- Certificates -->
+
+<!ENTITY viewCertificates.label "اعرض الشهادات">
+<!ENTITY viewCertificates.accesskey "ش">
+<!ENTITY viewCRLs.label "قوائم السحب">
+<!ENTITY viewCRLs.accesskey "س">
+<!ENTITY validation.label "الصلاحية">
+<!ENTITY validation.accesskey "ص">
+<!ENTITY viewSecurityDevices.label "أجهزة الأمن">
+<!ENTITY viewSecurityDevices.accesskey "م">

@@ -1,0 +1,115 @@
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY tableWindow.title "خصائص الجدول">
+<!ENTITY applyButton.label "طبّق">
+<!ENTITY applyButton.accesskey "ط">
+<!ENTITY closeButton.label "أغلق">
+<!ENTITY tableTab.label "جدول">
+<!ENTITY cellTab.label "خلايا">
+<!ENTITY tableRows.label "صفوف:">
+<!ENTITY tableRows.accessKey "ص">
+<!ENTITY tableColumns.label "أعمدة:">
+<!ENTITY tableColumns.accessKey "ع">
+<!ENTITY tableHeight.label "الارتفاع:">
+<!ENTITY tableHeight.accessKey "ع">
+<!ENTITY tableWidth.label "العرض:">
+<!ENTITY tableWidth.accessKey "ض">
+<!ENTITY tableBorderSpacing.label "الحدود والمسافات">
+<!ENTITY tableBorderWidth.label "الحد:">
+<!ENTITY tableBorderWidth.accessKey "د">
+<!ENTITY tableSpacing.label "مسافة:">
+<!ENTITY tableSpacing.accessKey "م">
+<!ENTITY tablePadding.label "الإزاحة:">
+<!ENTITY tablePadding.accessKey "ز">
+<!ENTITY tablePxBetwCells.label "عنصورات بين الخلايا">
+<!ENTITY tablePxBetwBrdrCellContent.label "عنصورات بين حد الخلية ومحتواها">
+<!ENTITY tableAlignment.label "محاذاة الجدول:">
+<!ENTITY tableAlignment.accessKey "م">
+<!ENTITY tableCaption.label "التسمية:">
+<!ENTITY tableCaption.accessKey "ت">
+<!ENTITY tableCaptionAbove.label "فوق الجدول">
+<!ENTITY tableCaptionBelow.label "تحت الجدول">
+<!ENTITY tableCaptionLeft.label "يسار الجدول">
+<!ENTITY tableCaptionRight.label "يمين الجدول">
+<!ENTITY tableCaptionNone.label "لا شيء">
+<!ENTITY tableInheritColor.label "(أظهر ألوان الصفحة من خلاله)">
+
+<!ENTITY cellPercent.label "النسبة من الجدول">
+<!ENTITY cellSelection.label "التحديد">
+<!ENTITY cellSelectCell.label "خلية">
+<!ENTITY cellSelectRow.label "صف">
+<!ENTITY cellSelectColumn.label "عمود">
+<!ENTITY cellSelectNext.label "التالي">
+<!ENTITY cellSelectNext.accessKey "ت">
+<!ENTITY cellSelectPrevious.label "السابق">
+<!ENTITY cellSelectPrevious.accessKey "س">
+<!ENTITY cellApplyBeforeMove.label "طبق التغيرات قبل تغيير التحديد">
+<!ENTITY cellKeepCurrentData.label "احفظ الإعدادات الحالية">
+<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
+<!ENTITY applyBeforeChange.label          "ستُطبّق التغييرات الحالية قبل تغيير التحديد.">
+<!ENTITY cellRowSpan.label "اتساع الصف:">
+<!ENTITY cellColSpan.label "اتساع العمود:">
+<!ENTITY cellContentAlignment.label "محاذاة المحتوى">
+<!ENTITY cellHorizontal.label "أفقية:">
+<!ENTITY cellHorizontal.accessKey "ف">
+<!ENTITY cellVertical.label "رأسية:">
+<!ENTITY cellVertical.accessKey "ر">
+<!ENTITY cellStyle.label "أسلوب الخلية:">
+<!ENTITY cellStyle.accessKey "س">
+<!ENTITY cellNormal.label "عادي">
+<!ENTITY cellHeader.label "الترويسة">
+<!ENTITY cellTextWrap.label "طي النص:">
+<!ENTITY cellTextWrap.accessKey "ن">
+<!ENTITY cellWrap.label "اطوِ">
+<!ENTITY cellNoWrap.label "لا تطوِ">
+<!ENTITY cellAlignTop.label "قمة">
+<!ENTITY cellAlignMiddle.label "وسط">
+<!ENTITY cellAlignBottom.label "قاع">
+<!ENTITY cellAlignJustify.label "ساوِ">
+<!ENTITY cellAlignAtChar.label "عند المحرف:">
+<!ENTITY cellInheritColor.label "(اجعل لون الجدول شفافا)">
+<!ENTITY cellUseCheckboxHelp.label "استخدم صناديق الاختيار لتحديد أي الخصائص ستطبق على كل الخلايا المحددة">
+<!-- Used in both Table and Cell panels  -->
+
+<!ENTITY size.label "المقاس">
+<!ENTITY pixels.label "عنصورات">
+<!ENTITY backgroundColor.label "لون الخلفية:">
+<!ENTITY backgroundColor.accessKey "ل">
+<!ENTITY AlignLeft.label "يسارًا">
+<!ENTITY AlignCenter.label "منتصفا">
+<!ENTITY AlignRight.label "يمينًا">

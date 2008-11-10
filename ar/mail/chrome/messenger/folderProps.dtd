@@ -1,0 +1,95 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David Bienvenu <bienvenu@netscape.com>
+   -   Mohan Bhamidipati <mohanb@netscape.com>
+   -   Lorenzo Colitti   <lorenzo@colitti.com>
+   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY folderProps.windowtitle.label "الخصائص">
+
+<!ENTITY generalInfo.label "معلومات عامة">
+<!ENTITY folderCharsetTab.label "ترميز المحارف المبدئي:">
+<!ENTITY folderCharsetTab.accesskey "ت">
+<!ENTITY folderCharsetOverride.label "طبِّق المبدئي على كل الرسائل في الدليل (سيتجاهل إعدادات ترميز المحارف لكل رسالة والتعرّف التلقائي)">
+<!ENTITY folderCharsetOverride.accesskey "ط">
+<!ENTITY folderRebuildSummaryFile.label "أعد بناء الفهرس">
+<!ENTITY folderRebuildSummaryFile.accesskey "ب">
+<!ENTITY folderRebuildSummaryFileTip.label "أعد بناء ملف الملخّص">
+     
+<!ENTITY retention.label "سياسة الإبقاء">
+<!ENTITY retentionUseDefault.label "استخدم مبدئيّات الخادوم">
+<!ENTITY retentionUseDefault.accesskey "خ">
+<!ENTITY daysOld.label "أيّام">
+<!ENTITY message.label "رسائل">
+<!ENTITY retentionCleanup.label "لاستعادة مساحة القرص يمكن حذف الرّسائل القديمة نهائيًّا">
+<!ENTITY retentionDeleteMsg.label "احذف الرسائل التي تزيد عن">
+<!ENTITY retentionDeleteMsg.accesskey "ر">
+<!ENTITY retentionKeepAll.label "لا تحذف أيًّا من الرّسائل">
+<!ENTITY retentionKeepAll.accesskey "ل">
+<!ENTITY retentionKeepNew.label "احذف كل الرّسائل عدا آخر">
+<!ENTITY retentionKeepNew.accesskey "ع">
+<!ENTITY retentionKeepUnread.label "دائمًا احذف الرّسائل المقروءة">
+<!ENTITY retentionKeepUnread.accesskey "م">
+
+<!ENTITY folderOfflineTab.label "غير متّصل">
+<!ENTITY folderCheckForNewMessages.label "افحص هذا الدليل بحثا عن رسائل جديدة">
+<!ENTITY folderCheckForNewMessages.accesskey "ف">
+
+<!ENTITY offlineFolder.check.label "اختر هذا الدليل للاستخدام دون اتصال">
+<!ENTITY offlineFolder.check.accesskey "خ">
+<!ENTITY offlineFolder.button.label "نزِّل الآن">
+<!ENTITY offlineFolder.button.accesskey "ن">
+
+<!ENTITY selectofflineNewsgroup.check.label "اختر مجموعة الأخبار هذه للاستخدام دون اتصال">
+<!ENTITY selectofflineNewsgroup.check.accesskey "ج">
+<!ENTITY offlineNewsgroup.button.label "نزِّل الآن">
+<!ENTITY offlineNewsgroup.button.accesskey "ن">
+
+<!ENTITY folderProps.name.label "الاسم:">
+<!ENTITY folderProps.name.accesskey "س">
+<!ENTITY folderProps.location.label "الموقع:">
+<!ENTITY folderProps.location.accesskey "ع">
+
+<!ENTITY folderSharingTab.label "المشاركة">
+<!ENTITY privileges.button.label "الصلاحيات...">
+<!ENTITY privileges.button.accesskey "ص">
+<!ENTITY permissionsDesc.label "لديك الصلاحيات التالية:">
+<!ENTITY folderType.label "نوع الدليل:">
+
+<!ENTITY folderQuotaTab.label "الحصّة">
+<!ENTITY folderQuotaRoot.label "جذر الحصّة:">
+<!ENTITY folderQuotaUsage.label "الاستخدام:">
+<!ENTITY folderQuotaStatus.label "الحالة:">

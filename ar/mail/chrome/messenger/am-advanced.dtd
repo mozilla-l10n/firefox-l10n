@@ -1,0 +1,23 @@
+<!-- extracted from am-advanced.xul -->
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpServer.label "إعدادات خادوم الصّادر (SMTP)">
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpDesc.label "بالرّغم أنّه بإمكانك تحديد أكثر من خادوم صادر (SMTP) ، إلا أنّ ذلك يفضّل فقط للمستخدمين الخبراء. يمكن أن يسبب إعداد أكثر من خادوم SMTP أخطاء عند إرسال الرّسائل.">
+
+<!ENTITY smtpListAdd.label "أضِف...">
+<!ENTITY smtpListAdd.accesskey "ض">
+<!ENTITY smtpListEdit.label "حرِّر...">
+<!ENTITY smtpListEdit.accesskey "ح">
+<!ENTITY smtpListDelete.label "أزِل">
+<!ENTITY smtpListDelete.accesskey "ز">
+<!ENTITY smtpListSetDefault.label "اجعله المبْدئي">
+<!ENTITY smtpListSetDefault.accesskey "ب">
+
+<!ENTITY serverDescription.label "الوصف:">
+<!ENTITY serverName.label "اسم الخادوم:">
+<!ENTITY serverPort.label "المَنفذ:">
+<!ENTITY userName.label "اسم المستخدم:">
+<!ENTITY useSecureConnection.label "اتصال آمن:">
+<!ENTITY useSecureAuthentication.label "مصادقة آمنة:">

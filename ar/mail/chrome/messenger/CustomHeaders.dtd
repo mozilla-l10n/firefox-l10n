@@ -1,0 +1,7 @@
+<!ENTITY window.title "خصّص التّرويسات">
+<!ENTITY addButton.label "أضِف">
+<!ENTITY addButton.accesskey "ض">
+<!ENTITY removeButton.label "أزل">
+<!ENTITY removeButton.accesskey "ز">
+<!ENTITY newMsgHeader.label "ترويسة رسالة جديدة:">
+<!ENTITY newMsgHeader.accesskey "ج">

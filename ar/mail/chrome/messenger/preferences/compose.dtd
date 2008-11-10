@@ -1,0 +1,54 @@
+<!ENTITY itemGeneral.label "عام">
+<!ENTITY itemAutoComplete.label "العنونة">
+<!ENTITY itemSpellCheck.label "الإملاء">
+
+<!ENTITY forwardMsg.label "مرر الرسائل:">
+<!ENTITY forwardMsg.accesskey "م">
+<!ENTITY inline.label "ضمن السّياق">
+<!ENTITY inline.accesskey "ض">
+<!ENTITY asAttachment.label "كمرفقة">
+<!ENTITY asAttachment.accesskey "ك">
+<!ENTITY addExtension.label "أضِف الامتداد إلى اسم الملف">
+<!ENTITY addExtension.accesskey "ف">
+
+<!ENTITY htmlComposeHeader.label "HTML">
+<!ENTITY font.label "الخط:">
+<!ENTITY font.accesskey "خ">
+<!ENTITY size.label "الحجم:">
+<!ENTITY size.accesskey "ح">
+<!ENTITY fontColor.label "لون النص:">
+<!ENTITY fontColor.accesskey "ن">
+<!ENTITY bgColor.label "لون الخلفية:">
+<!ENTITY bgColor.accesskey "ف">
+<!ENTITY restoreHTMLDefaults.label "استعد المبدئيات">
+<!ENTITY restoreHTMLDefaults.accesskey "م">
+
+<!ENTITY spellCheck.label "دقِّق الإملاء قبل الإرسال">
+<!ENTITY spellCheck.accesskey "د">
+<!ENTITY spellCheckInline.label "فعّل تدقيق الإملاء بينما أكتب">
+<!ENTITY spellCheckInline1.accesskey "ق">
+<!ENTITY languagePopup.label "اللغة:">
+<!ENTITY languagePopup.accessKey "ل">
+<!ENTITY downloadDictionaries.label "نزِّل المزيد من المعاجم">
+
+<!ENTITY warnOnSendAccelKey.label "اسأل التأكيد عند استخدام اختصارات لوحة المفاتيح لإرسال الرسالة">
+<!ENTITY warnOnSendAccelKey.accesskey "س">
+<!ENTITY autoSave.label "احفظ تلقائيًّا كل">
+<!ENTITY autoSave.accesskey "ح">
+<!ENTITY autoSaveEnd.label "دقائق">
+
+<!ENTITY emailCollectionPicker.label "أضِف آليًّا عنوان البريد الصادر إلى:">
+<!ENTITY emailCollectionPicker.accesskey "ع">
+<!ENTITY addressingTitle.label "التّكملة التلقائية للعناوين">
+<!ENTITY autocompleteText.label "عند عنونة الرسائل، ابحث عن المدخلات المطابقة في:">
+<!ENTITY addressingEnable.label "دفتر العناوين المحلي">
+<!ENTITY addressingEnable.accesskey "ع">
+<!ENTITY directories.label "خادوم الدليل:">
+<!ENTITY directories.accesskey "د">
+<!ENTITY directoriesNone.label "لا شيء">
+<!ENTITY editDirectories.label "حرّر الأدلة…">
+<!ENTITY editDirectories.accesskey "ح">
+
+<!ENTITY sendOptionsDescription.label "اضبط سلوك تنسيق النص">
+<!ENTITY sendOptions.label "خيارات الإرسال…">
+<!ENTITY sendOptions.accesskey "س">

@@ -1,0 +1,9 @@
+
+<!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
+<!ENTITY editorCheck.label "Composer">
+<!ENTITY editorCheck.accesskey "c">
+
+<!ENTITY compose.label "منشئ الرسائل">
+<!ENTITY editing.label "إعدادات الصفحة الجديدة">
+<!ENTITY toolbars.label "أشرطة الأدوات">
+<!ENTITY publish.label "النشر">

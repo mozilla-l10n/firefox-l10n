@@ -1,0 +1,24 @@
+<!ENTITY offlineDialog.title "إعدادات طور اللا اتصال">
+
+<!ENTITY textStartUp "عند البدء:">
+<!ENTITY radioRememberPrevState.label "تذكر حالة الاتصال السابقة">
+<!ENTITY radioRememberPrevState.accesskey "ذ">
+<!ENTITY radioAskMe.label "اسأل عن حالة الاتصال عند بدء التشغيل">
+<!ENTITY radioAskMe.accesskey "ب">
+<!ENTITY radioAlwaysOnline.label "ابدأ التشغيل في حالة الاتصال دائماً">
+<!ENTITY radioAlwaysOnline.accesskey "د">
+
+<!ENTITY textGoingOnline "أأرسل الرسائل غير المرسلة عند الاتصال؟">
+<!ENTITY radioAutoSend.label "نعم">
+<!ENTITY radioAutoSend.accesskey "ن">
+<!ENTITY radioNotSend.label "لا">
+<!ENTITY radioNotSend.accesskey "ل">
+<!ENTITY radioAskUnsent.label "اسألني">
+<!ENTITY radioAskUnsent.accesskey "س">
+<!ENTITY textGoingOffline "أأنزل الرسائل للاستخدام بدون اتصال عند غلق الاتصال؟">
+<!ENTITY radioAutoDownload.label "نعم">
+<!ENTITY radioAutoDownload.accesskey "ت">
+<!ENTITY radioNotDownload.label "لا">
+<!ENTITY radioNotDownload.accesskey "ي">
+<!ENTITY radioAskDownload.label "اسألني">
+<!ENTITY radioAskDownload.accesskey "ا">

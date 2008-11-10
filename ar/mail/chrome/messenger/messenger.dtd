@@ -1,0 +1,685 @@
+<!ENTITY messengerWindow.title "البريد ومجموعات الأخبار">
+<!ENTITY titledefault.label "&brandFullName;">
+<!ENTITY titleSeparator.label " - ">
+<!-- File Menu -->
+
+<!ENTITY newFolderCmd.label "مجلد…">
+<!ENTITY newFolderCmd.accesskey "م">
+<!ENTITY closeTabCmd.label "أغلق اللسان">
+<!ENTITY closeTabCmd.accesskey "غ">
+<!ENTITY newVirtualFolderCmd.label "بحث محفوظ…">
+<!ENTITY newVirtualFolderCmd.accesskey "ب">
+<!ENTITY newAccountCmd.label "الحساب…">
+<!ENTITY newAccountCmd.accesskey "ح">
+<!ENTITY openMessageFileCmd.label "افتح رسالة محفوظة…">
+<!ENTITY openMessageFileCmd.accesskey "ف">
+<!ENTITY openAttachmentCmd.label "مرفقات">
+<!ENTITY openAttachmentCmd.accesskey "ر">
+<!ENTITY saveAsMenu.label "احفظ باسم">
+<!ENTITY saveAsMenu.accesskey "س">
+<!ENTITY saveAsFileCmd.label "ملف">
+<!ENTITY saveAsFileCmd.accesskey "م">
+<!ENTITY saveAsFileCmd.key "س">
+<!ENTITY saveAsTemplateCmd.label "قالب">
+<!ENTITY saveAsTemplateCmd.accesskey "ق">
+<!ENTITY getNewMsgCmd.key "ب">
+<!ENTITY getNewMsgForCmd.label "اجلب الرسائل  الجديدة لـ">
+<!ENTITY getNewMsgForCmd.accesskey "ج">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "جميع الحسابات">
+<!ENTITY getAllNewMsgCmdPopupMenu.accesskey "ج">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "الحساب الحالي">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "ي">
+<!ENTITY getNextNMsgCmd.label "اجلب رسائل الأخبار ال500 التالية">
+<!ENTITY getNextNMsgCmd.accesskey "ل">
+<!ENTITY sendUnsentCmd.label "أرسِل الرسائل غير المرسَلة">
+<!ENTITY sendUnsentCmd.accesskey "ر">
+<!ENTITY subscribeCmd.label "اشترك…">
+<!ENTITY subscribeCmd.accesskey "ش">
+<!ENTITY deleteFolder.label "احذف المجلد">
+<!ENTITY deleteFolder.accesskey "ذ">
+<!ENTITY renameFolder.label "غيّر اسم المجلد…">
+<!ENTITY renameFolder.accesskey "غ">
+<!ENTITY renameFolder.key "VK_F2">
+<!ENTITY compactFolders.label "ادمج المجلدات">
+<!ENTITY compactFolders.accesskey "د">
+<!ENTITY emptyTrashCmd.label "أفرغ المهملات">
+<!ENTITY emptyTrashCmd.accesskey "ف">
+<!ENTITY importCmd.label "استورد…">
+<!ENTITY importCmd.accesskey "س">
+<!ENTITY offlineMenu.label "غير متصل">
+<!ENTITY offlineMenu.accesskey "م">
+<!ENTITY offlineGoOfflineCmd.label "اعمل بلا اتصال">
+<!ENTITY offlineGoOfflineCmd.accesskey "ل">
+<!ENTITY synchronizeOfflineCmd.label "نزّل/زامِن الآن…">
+<!ENTITY synchronizeOfflineCmd.accesskey "ز">
+<!ENTITY settingsOfflineCmd.label "إعدادات اللااتصال…">
+<!ENTITY settingsOfflineCmd.accesskey "ص">
+<!ENTITY downloadSelectedCmd.label "اجلب الرسالة المختارة">
+<!ENTITY downloadSelectedCmd.accesskey "م">
+<!ENTITY downloadStarredCmd.label "اجلب الرسالة المنجمّة">
+<!ENTITY downloadStarredCmd.accesskey "ن">
+<!ENTITY printCmd.label "اطبع…">
+<!ENTITY printCmd.accesskey "ط">
+<!ENTITY printCmd.key "ط">
+<!ENTITY printPreviewCmd.label "معاينة الطّباعة">
+<!ENTITY printPreviewCmd.accesskey "ع">
+<!ENTITY printSetupCmd.label "إعداد الصفحة …">
+<!ENTITY printSetupCmd.accesskey "ع">
+<!-- Edit Menu -->
+
+<!ENTITY deleteMsgCmd.label "احذف الرسالة">
+<!ENTITY deleteMsgCmd.accesskey "ح">
+<!ENTITY undeleteMsgCmd.label "ألغِ حذف الرسالة">
+<!ENTITY undeleteMsgCmd.accesskey "ل">
+<!ENTITY cancelNewsMsgCmd.label "ألغِ الرسالة">
+<!ENTITY cancelNewsMsgCmd.accesskey "ر">
+<!ENTITY deleteMsgsCmd.label "احذف الرسائل المختارة">
+<!ENTITY deleteMsgsCmd.accesskey "ف">
+<!ENTITY undeleteMsgsCmd.label "ألغِ حذف الرسائل المختارة">
+<!ENTITY undeleteMsgsCmd.accesskey "ذ">
+<!ENTITY cancelNewsMsgsCmd.label "ألغِ الرسائل المختارة">
+<!ENTITY cancelNewsMsgsCmd.accesskey "غ">
+<!ENTITY deleteFolderCmd.label "احذف الدليل">
+<!ENTITY deleteFolderCmd.accesskey "د">
+<!ENTITY unsubscribeNewsgroupCmd.label "ألغِ الاشتراك">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "ت">
+<!ENTITY selectMenu.label "اختر">
+<!ENTITY selectMenu.accesskey "خ">
+<!ENTITY all.label "الكل">
+<!ENTITY all.accesskey "ك">
+<!ENTITY selectThreadCmd.label "نقاش">
+<!ENTITY selectThreadCmd.accesskey "ن">
+<!ENTITY selectThreadCmd.key "ك">
+<!ENTITY selectFlaggedCmd.label "الرسائل ذات النجمة">
+<!ENTITY selectFlaggedCmd.accesskey "ة">
+<!ENTITY menuFavoriteFolder.label "مجلد المفضّلات">
+<!ENTITY menuFavoriteFolder.accesskey "ف">
+<!ENTITY folderPropsCmd.label "خصائص…">
+<!ENTITY folderPropsFolderCmd.label "خصائص الدليل…">
+<!ENTITY folderPropsNewsgroupCmd.label "خصائص مجموعة البريد…">
+<!ENTITY folderPropsCmd.accesskey "خ">
+<!ENTITY accountManagerCmd.label "إعدادات الحساب …">
+<!ENTITY accountManagerCmd.accesskey "ع">
+<!ENTITY accountManagerCmdUnix.accesskey "ح">
+<!ENTITY undoDeleteMsgCmd.label "ألغِ حذف الرسالة">
+<!ENTITY redoDeleteMsgCmd.label "أعِد حذف الرسالة">
+<!ENTITY undoMoveMsgCmd.label "ألغِ نقل الرسالة">
+<!ENTITY redoMoveMsgCmd.label "أعِد نقل الرسالة">
+<!ENTITY undoCopyMsgCmd.label "ألغِ نسخ الرسالة">
+<!ENTITY redoCopyMsgCmd.label "أعِد نسخ الرسالة">
+<!ENTITY undoDefaultCmd.label "تراجع">
+<!ENTITY undoDefaultCmd.accesskey "ر">
+<!ENTITY redoDefaultCmd.label "أعِد">
+<!ENTITY redoDefaultCmd.accesskey "ع">
+<!-- View Menu -->
+
+<!ENTITY showMessengerToolbarCmd.label "شريط أدوات البريد">
+<!ENTITY showMessengerToolbarCmd.accesskey "ر">
+<!ENTITY customizeToolbar.label "خصّص…">
+<!ENTITY customizeToolbar.accesskey "خ">
+
+<!ENTITY messagePaneLayoutStyle.label "التصميم">
+<!ENTITY messagePaneLayoutStyle.accesskey "ص">
+<!ENTITY messagePaneClassic.label "مشهد تقليدي">
+<!ENTITY messagePaneClassic.accesskey "ت">
+<!ENTITY messagePaneWide.label "مشهد عريض">
+<!ENTITY messagePaneWide.accesskey "ع">
+<!ENTITY messagePaneVertical.label "مشهد رأسي">
+<!ENTITY messagePaneVertical.accesskey "ر">
+<!ENTITY showMessageCmd.label "لوح الرسائل">
+<!ENTITY showMessageCmd.accesskey "ح">
+
+<!ENTITY folderView.label "الأدلة">
+<!ENTITY folderView.accesskey "د">
+<!ENTITY allFolders.label "الكل">
+<!ENTITY allFolders.accesskey "ك">
+<!ENTITY unreadFolders.label "غير مقروء">
+<!ENTITY unreadFolders.accesskey "غ">
+<!ENTITY favoriteFolders.label "مفضّل">
+<!ENTITY favoriteFolders.accesskey "م">
+<!ENTITY recentFolders.label "حديث">
+<!ENTITY recentFolders.accesskey "ح">
+<!-- Sort Menu -->
+
+<!ENTITY sortMenu.label "رتّب حسب">
+<!ENTITY sortMenu.accesskey "ر">
+<!ENTITY sortByDateCmd.label "التاريخ">
+<!ENTITY sortByDateCmd.accesskey "ت">
+<!ENTITY sortByReceivedCmd.label "الاستلام">
+<!ENTITY sortByReceivedCmd.accesskey "ل">
+<!ENTITY sortByStarCmd.label "النجمة">
+<!ENTITY sortByStarCmd.accesskey "ن">
+<!ENTITY sortByAttachmentsCmd.label "مرفقات">
+<!ENTITY sortByAttachmentsCmd.accesskey "ر">
+<!ENTITY sortByPriorityCmd.label "الأولويّة">
+<!ENTITY sortByPriorityCmd.accesskey "و">
+<!ENTITY sortBySizeCmd.label "الحجم">
+<!ENTITY sortBySizeCmd.accesskey "ح">
+<!ENTITY sortByStatusCmd.label "الحالة">
+<!ENTITY sortByStatusCmd.accesskey "ل">
+<!ENTITY sortByTagsCmd.label "الوسوم">
+<!ENTITY sortByTagsCmd.accesskey "و">
+<!ENTITY sortByJunkStatusCmd.label "حالة السخام">
+<!ENTITY sortByJunkStatusCmd.accesskey "س">
+<!ENTITY sortBySubjectCmd.label "الموضوع">
+<!ENTITY sortBySubjectCmd.accesskey "ض">
+<!ENTITY sortByFromCmd.label "من">
+<!ENTITY sortByFromCmd.accesskey "م">
+<!ENTITY sortByRecipientCmd.label "المُستقبِل">
+<!ENTITY sortByRecipientCmd.accesskey "ق">
+<!ENTITY sortByUnreadCmd.label "مقروء">
+<!ENTITY sortByUnreadCmd.accesskey "ق">
+<!ENTITY sortByOrderReceivedCmd.label "ترتيب التلقي">
+<!ENTITY sortByOrderReceivedCmd.accesskey "ق">
+<!ENTITY sortAscending.label "تصاعدي">
+<!ENTITY sortAscending.accesskey "ص">
+<!ENTITY sortDescending.label "تنازلي">
+<!ENTITY sortDescending.accesskey "ن">
+<!ENTITY sortThreaded.label "نقاشات">
+<!ENTITY sortThreaded.accesskey "ن">
+<!ENTITY sortUnthreaded.label "بلا نقاشات">
+<!ENTITY sortUnthreaded.accesskey "ل">
+<!ENTITY groupBySort.label "مجموعة بالترتيب">
+<!ENTITY groupBySort.accesskey "ج">
+<!ENTITY msgsMenu.label "الرسائل">
+<!ENTITY msgsMenu.accesskey "ر">
+<!ENTITY threads.label "النقاشات">
+<!ENTITY threads.accesskey "ق">
+<!ENTITY allMsgsCmd.label "الكل">
+<!ENTITY allMsgsCmd.accesskey "ك">
+<!ENTITY expandAllThreadsCmd.label "وسّع كل النقاشات">
+<!ENTITY expandAllThreadsCmd.accesskey "ش">
+<!ENTITY expandAllThreadsCmd.key "*">
+<!ENTITY collapseAllThreadsCmd.label "قلِّص كل النقاشات">
+<!ENTITY collapseAllThreadsCmd.accesskey "ق">
+<!ENTITY collapseAllThreadsCmd.key "\">
+<!ENTITY unreadMsgsCmd.label "غير المقروءة">
+<!ENTITY unreadMsgsCmd.accesskey "غ">
+<!ENTITY threadsWithUnreadCmd.label "النقاشات ضمن غير المقروءة">
+<!ENTITY threadsWithUnreadCmd.accesskey "م">
+<!ENTITY watchedThreadsWithUnreadCmd.label "النقاشات المُراقبة ضمن غير المقروءة">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "غ">
+<!ENTITY ignoredThreadsCmd.label "النقاشات المُتجاهلة">
+<!ENTITY ignoredThreadsCmd.accesskey "ج">
+<!ENTITY headersMenu.label "الترويسات">
+<!ENTITY headersMenu.accesskey "ر">
+<!ENTITY headersAllCmd.label "الكل">
+<!ENTITY headersAllCmd.accesskey "ك">
+<!ENTITY headersNormalCmd.label "عادي">
+<!ENTITY headersNormalCmd.accesskey "ع">
+<!ENTITY bodyMenu.label "متن الرسالة ك‍">
+<!ENTITY bodyMenu.accesskey "م">
+<!ENTITY bodyAllowHTML.label "‏HTML الأصلي">
+<!ENTITY bodyAllowHTML.accesskey "H">
+<!ENTITY bodySanitized.label "‏HTML بسيط">
+<!ENTITY bodySanitized.accesskey "ب">
+<!ENTITY bodyAsPlaintext.label "نص صِرْف">
+<!ENTITY bodyAsPlaintext.accesskey "ن">
+<!ENTITY viewAttachmentsInlineCmd.label "اعرض المرفقات في السّياق">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "ف">
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+
+<!ENTITY fullZoomEnlargeCmd.label "كبّر">
+<!ENTITY fullZoomEnlargeCmd.accesskey "ر">
+<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY fullZoomReduceCmd.label "صغّر">
+<!ENTITY fullZoomReduceCmd.accesskey "ص">
+<!ENTITY fullZoomReduceCmd.commandkey "-">
+<!ENTITY fullZoomReduceCmd.commandkey2 "">
+
+<!ENTITY fullZoomResetCmd.label "أعِد ضبط">
+<!ENTITY fullZoomResetCmd.accesskey "ط">
+<!ENTITY fullZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomResetCmd.commandkey2 "">
+
+<!ENTITY fullZoomToggleCmd.label "كبّر النص فقط">
+<!ENTITY fullZoomToggleCmd.accesskey "ص">
+<!ENTITY fullZoom.label "كبّر">
+<!ENTITY fullZoom.accesskey "ك">
+
+<!ENTITY pageSourceCmd.label "مصدر الرسالة">
+<!ENTITY pageSourceCmd.accesskey "ص">
+<!ENTITY pageSourceCmd.key "س">
+<!-- Search Menu -->
+
+
+<!ENTITY findMenu.label "ابحث">
+<!ENTITY findMenu.accesskey "ب">
+<!ENTITY findCmd.label "ابحث في هذه الرسالة…">
+<!ENTITY findCmd.accesskey "ه">
+<!ENTITY findCmd.key "ه">
+<!ENTITY findAgainCmd.label "ابحث مجدداً">
+<!ENTITY findAgainCmd.accesskey "ب">
+<!ENTITY findAgainCmd.key "د">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.key "د">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY searchMailCmd.label "ابحث في الرسائل…">
+<!ENTITY searchMailCmd.accesskey "س">
+<!ENTITY searchMailCmd.key "ب">
+<!ENTITY searchAddressesCmd.label "ابحث في العناوين…">
+<!ENTITY searchAddressesCmd.accesskey "ع">
+<!-- Go Menu -->
+
+<!ENTITY goMenu.label "اذهب">
+<!ENTITY goMenu.accesskey "ذ">
+<!ENTITY nextMenu.label "التالي">
+<!ENTITY nextMenu.accesskey "ت">
+<!ENTITY nextMsgCmd.label "رسالة">
+<!ENTITY nextMsgCmd.accesskey "ر">
+<!ENTITY nextMsgCmd.key "ب">
+<!ENTITY nextUnreadMsgCmd.label "رسالة غير مقروءة">
+<!ENTITY nextUnreadMsgCmd.accesskey "غ">
+<!ENTITY nextUnreadMsgCmd.key "ء">
+<!ENTITY nextStarredMsgCmd.label "رسالة ذات نجمة">
+<!ENTITY nextStarredMsgCmd.accesskey "ذ">
+<!ENTITY nextUnreadThread.label "نقاش غير مقروء">
+<!ENTITY nextUnreadThread.accesskey "ش">
+<!ENTITY nextUnreadThread.key "ش">
+<!ENTITY prevMenu.label "السابق">
+<!ENTITY prevMenu.accesskey "س">
+<!ENTITY prevMsgCmd.label "رسالة">
+<!ENTITY prevMsgCmd.accesskey "ر">
+<!ENTITY prevMsgCmd.key "ا">
+<!ENTITY prevUnreadMsgCmd.label "رسالة غير مقروءة">
+<!ENTITY prevUnreadMsgCmd.accesskey "غ">
+<!ENTITY prevUnreadMsgCmd.key "و">
+<!ENTITY goForwardCmd.label "إلى الأمام">
+<!ENTITY goForwardCmd.accesskey "أ">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY goBackCmd.label "إلى الخلف">
+<!ENTITY goBackCmd.accesskey "خ">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY prevStarredMsgCmd.label "رسالة ذات نجمة">
+<!ENTITY prevStarredMsgCmd.accesskey "ذ">
+<!ENTITY startPageCmd.label "صفحة بداية البريد">
+<!ENTITY startPageCmd.accesskey "ب">
+<!ENTITY msgMenu.label "رسالة">
+<!ENTITY msgMenu.accesskey "ر">
+<!ENTITY newMsgCmd.label "رسالة جديدة">
+<!ENTITY newMsgCmd.accesskey "ج">
+<!ENTITY newNewMsgCmd.label "رسالة">
+<!ENTITY newNewMsgCmd.accesskey "ر">
+<!ENTITY replyMsgCmd.label "رُدّ">
+<!ENTITY replyMsgCmd.accesskey "ر">
+<!ENTITY replyMsgCmd.key "ر">
+<!ENTITY replySenderCmd.label "رُد إلى المُرسِل فقط">
+<!ENTITY replySenderCmd.accesskey "م">
+<!ENTITY replyNewsgroupCmd.label "رُد على مجموعة الأخبار">
+<!ENTITY replyNewsgroupCmd.accesskey "د">
+<!ENTITY replyToAllMsgCmd.label "رد على الجميع">
+<!ENTITY replyToAllMsgCmd.accesskey "ج">
+<!ENTITY replyToAllMsgCmd.key "ر">
+<!ENTITY forwardMsgCmd.label "حوّل">
+<!ENTITY forwardMsgCmd.accesskey "و">
+<!ENTITY forwardMsgCmd.key "l">
+<!ENTITY forwardAsMenu.label "حوّل ك‍">
+<!ENTITY forwardAsMenu.accesskey "ك">
+<!ENTITY forwardAsInline.label "ضمن السّياق">
+<!ENTITY forwardAsInline.accesskey "ض">
+<!ENTITY forwardAsAttachmentCmd.label "مُرفق">
+<!ENTITY forwardAsAttachmentCmd.accesskey "م">
+<!ENTITY editMsgAsNewCmd.label "حرّر الرسالة كجديدة">
+<!ENTITY editMsgAsNewCmd.accesskey "ح">
+<!ENTITY editMsgAsNewCmd.key "ح">
+<!ENTITY createFilter.label "أنشئ مرشِّح مِن الرسالة…">
+<!ENTITY createFilter.accesskey "ش">
+<!ENTITY moveMsgToMenu.label "انقل إلى">
+<!ENTITY moveMsgToMenu.accesskey "ل">
+<!ENTITY moveCopyMsgRecentMenu.label "حديث">
+<!ENTITY moveCopyMsgRecentMenu.accesskey "ح">
+<!ENTITY copyMessageLocation.label "انسخ موقع الرسالة">
+<!ENTITY copyMessageLocation.accesskey "م">
+<!ENTITY copyMsgToMenu.label "انسخ إلى">
+<!ENTITY copyMsgToMenu.accesskey "خ">
+<!ENTITY moveToFolderAgain.label "انقل ثانية">
+<!ENTITY moveToFolderAgain.accesskey "ث">
+<!ENTITY moveToFolderAgainCmd.key "ق">
+<!ENTITY killThreadMenu.label "تجاهل النقاش">
+<!ENTITY killThreadMenu.accesskey "ج">
+<!ENTITY killThreadMenu.key "ه">
+<!ENTITY killSubthreadMenu.label "تجاهل النقاش الفرعي">
+<!ENTITY killSubthreadMenu.accesskey "ع">
+<!ENTITY killSubthreadMenu.key "ت">
+<!ENTITY watchThreadMenu.label "راقب النقاش">
+<!ENTITY watchThreadMenu.accesskey "ق">
+<!ENTITY watchThreadMenu.key "ب">
+<!ENTITY fileHereMenu.label "أرشف هنا">
+<!ENTITY fileHereMenu.accesskey "ه">
+<!ENTITY copyHereMenu.label "انسخ هنا">
+<!ENTITY copyHereMenu.accesskey "ن">
+<!ENTITY tagMenu.label "وسم">
+<!ENTITY tagMenu.accesskey "س">
+<!ENTITY tagCmd0.key "0">
+<!ENTITY tagCmd1.key "1">
+<!ENTITY tagCmd2.key "2">
+<!ENTITY tagCmd3.key "3">
+<!ENTITY tagCmd4.key "4">
+<!ENTITY tagCmd5.key "5">
+<!ENTITY tagCmd6.key "6">
+<!ENTITY tagCmd7.key "7">
+<!ENTITY tagCmd8.key "8">
+<!ENTITY tagCmd9.key "9">
+<!ENTITY markMenu.label "أشِّر">
+<!ENTITY markMenu.accesskey "ش">
+<!ENTITY markAsReadCmd.label "كمقروءة">
+<!ENTITY markAsReadCmd.accesskey "ق">
+<!ENTITY markAsReadCmd.key "م">
+<!ENTITY markThreadAsReadCmd.label "النقاش كمقروء">
+<!ENTITY markThreadAsReadCmd.accesskey "ن">
+<!ENTITY markThreadAsReadCmd.key "و">
+<!ENTITY markReadByDateCmd.label "كمقروء بالتاريخ…">
+<!ENTITY markReadByDateCmd.accesskey "خ">
+<!ENTITY markReadByDateCmd.key "خ">
+<!ENTITY markAllReadCmd.label "الكل مقروء">
+<!ENTITY markAllReadCmd.accesskey "ك">
+<!ENTITY markAllReadCmd.key "ك">
+<!ENTITY markStarredCmd.label "أضِف نجمة">
+<!ENTITY markStarredCmd.accesskey "ن">
+<!ENTITY markStarredCmd.key "ج">
+<!ENTITY markAsJunkCmd.label "كسخام">
+<!ENTITY markAsJunkCmd.accesskey "س">
+<!ENTITY markAsJunkCmd.key "س">
+<!ENTITY markAsNotJunkCmd.label "ليست سخاماً">
+<!ENTITY markAsNotJunkCmd.accesskey "ل">
+<!ENTITY markAsNotJunkCmd.key "س">
+<!ENTITY recalculateJunkScoreCmd.label "شغّل مُتحكِّمات السخام">
+<!ENTITY recalculateJunkScoreCmd.accesskey "م">
+<!ENTITY openMessageWindowCmd.label "افتح الرسالة">
+<!ENTITY openMessageWindowCmd.accesskey "ف">
+<!ENTITY openMessageWindowCmd.key "ف">
+<!-- Windows Menu -->
+
+<!ENTITY windowMenu.label "نافذة">
+<!-- Tools Menu -->
+
+<!ENTITY tasksMenu.label "أدوات">
+<!ENTITY tasksMenu.accesskey "د">
+<!ENTITY addons.label "إضافات">
+<!ENTITY addons.accesskey "ض">
+<!ENTITY messengerCmd.label "البريد و مجموعات الأخبار">
+<!ENTITY messengerCmd.accesskey "ب">
+<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY addressBookCmd.label "دفتر العناوين">
+<!ENTITY addressBookCmd.accesskey "د">
+<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY runJunkControls.label "شغّل متحكّمات السخام على الدليل">
+<!ENTITY runJunkControls.accesskey "د">
+<!ENTITY deleteJunk.label "احذف البريد المؤشر كسخام في الدليل">
+<!ENTITY deleteJunk.accesskey "ح">
+<!ENTITY errorConsoleCmd.label "مرقاب الأعطال">
+<!ENTITY errorConsoleCmd.accesskey "ط">
+<!ENTITY filtersCmd.label "مرشِّحات الرسائِل…">
+<!ENTITY filtersCmd.accesskey "س">
+<!ENTITY filtersApply.label "شغّل المرشِّحات على المجلد">
+<!ENTITY filtersApply.accesskey "ش">
+<!ENTITY filtersApplyToSelection.label "شغّل المرشحات على الرسائل المحددة">
+<!ENTITY filtersApplyToSelection.accesskey "ئ">
+<!ENTITY filtersApplyToMessage.label "شغّل المرشحات على الرسالة">
+<!ENTITY filtersApplyToMessage.accesskey "س">
+<!-- Mail Toolbar -->
+
+<!ENTITY getMsgButton.label "اجلب البريد">
+<!ENTITY newMsgButton.label "اكتب">
+<!ENTITY replyButton.label "رُد">
+<!ENTITY replyAllButton.label "رُد على الكل">
+<!ENTITY forwardButton.label "حوّل">
+<!ENTITY fileButton.label "أرشِف">
+<!ENTITY nextButton.label "اللاحق">
+<!ENTITY previousButton.label "السابق">
+<!ENTITY backButton1.label "إلى الخلف">
+<!ENTITY goForwardButton1.label "إلى الأمام">
+<!ENTITY deleteButton.label "احذف">
+<!ENTITY undeleteButton.label "ألغِ الحذف">
+<!ENTITY markButton.label "أشِّر">
+<!ENTITY printButton.label "اطبع">
+<!ENTITY stopButton.label "قف">
+<!ENTITY throbberItem.title "مبيّن النشاط">
+<!ENTITY junkButton.label "سخام">
+<!ENTITY notJunkButton.label "ليست سخاماً">
+<!ENTITY addressBookButton.label "دفتر العناوين">
+<!ENTITY searchItem.title "بحث سريع">
+<!ENTITY mailViewsToolbarItem.title "مشاهد البريد">
+<!ENTITY folderLocationToolbarItem.title "موقع الدليل">
+<!ENTITY tagButton.label "وسم">
+<!ENTITY compactButton.label "ضغط">
+<!-- Mail Toolbar Tooltips-->
+
+<!ENTITY advancedButton.tooltip "بحث متقدِّم في الرسائل">
+<!ENTITY getMsgButton.tooltip "اجلب الرسائل الجديدة">
+<!ENTITY getAllNewMsgCmd.label "اجلب كل الرسائل الجديدة">
+<!ENTITY getAllNewMsgCmd.accesskey "ج">
+<!ENTITY getAllNewMsgCmd.key "ك">
+<!ENTITY newMsgButton.tooltip "أنشئ رسالة جديدة">
+<!ENTITY replyButton.tooltip "رُد على الرسالة">
+<!ENTITY replyAllButton.tooltip "رُد على المُرسِل وكل المُستلمين">
+<!ENTITY forwardButton.tooltip "حوّل الرسالة المختارة">
+<!ENTITY fileButton.tooltip "أرشف الرسالة المختارة">
+<!ENTITY nextButton.tooltip "الرسالة غير المقروءة اللاحقة">
+<!ENTITY previousButton.tooltip "الرسالة غير المقروءة السابقة">
+<!ENTITY goForwardButton.tooltip "تقدم رسالة واحدة">
+<!ENTITY goBackButton.tooltip "ارجع رسالة واحدة">
+<!ENTITY deleteButton.tooltip "احذف الرسالة أو الدليل المختار">
+<!ENTITY undeleteButton.tooltip "ألغِ حذف الرسالة المختارة">
+<!ENTITY markButton.tooltip "أشِّر الرسائل">
+<!ENTITY printButton.tooltip "اطبع هذه الرسالة">
+<!ENTITY stopButton.tooltip "أوقف النقل الحالي">
+<!ENTITY junkButton.tooltip "أشر الرسائل المختارة على أنها سخام">
+<!ENTITY notJunkButton.tooltip "أشر الرسائل المختارة على أنها ليست سخاما">
+<!ENTITY addressBookButton.tooltip "دفتر العناوين">
+<!ENTITY tagButton.tooltip "سِمْ الرسائل">
+<!ENTITY compactButton.tooltip "أزِل الرسائل المحذوفة من المجلد المحدد">
+<!-- Tags Menu Popup -->
+
+<!ENTITY addNewTag.label "وسم جديد…">
+<!ENTITY addNewTag.accesskey "و">
+<!-- Folder Pane -->
+
+<!ENTITY folderColumn.label "الاسم">
+<!ENTITY folderSizeColumn.label "الحجم">
+<!-- Folder Pane Context Menu -->
+
+<!ENTITY folderContextGetMessages.label "اجلب الرسائل">
+<!ENTITY folderContextGetMessages.accesskey "ج">
+<!ENTITY folderContextOpenNewWindow.label "افتح">
+<!ENTITY folderContextOpenNewWindow.accesskey "ف">
+<!ENTITY folderContextOpenNewTab.label "افتح في لسان جديد">
+<!ENTITY folderContextOpenNewTab.accesskey "ل">
+<!ENTITY folderContextNew.label "دليل فرعي جديد…">
+<!ENTITY folderContextNew.accesskey "ج">
+<!ENTITY folderContextRename.label "غيّر الاسم">
+<!ENTITY folderContextRename.accesskey "س">
+<!ENTITY folderContextRemove.label "احذف">
+<!ENTITY folderContextRemove.accesskey "ذ">
+<!ENTITY folderContextCompact.label "ادمج">
+<!ENTITY folderContextCompact.accesskey "C">
+<!ENTITY folderContextEmptyTrash.label "أفرغ المهملات">
+<!ENTITY folderContextEmptyTrash.accesskey "ف">
+<!ENTITY folderContextEmptyJunk.label "أفرِغ السُخام">
+<!ENTITY folderContextEmptyJunk.accesskey "ف">
+<!ENTITY folderContextSendUnsentMessages.label "أرسِل الرسائل غير المرسَلة">
+<!ENTITY folderContextSendUnsentMessages.accesskey "ر">
+<!ENTITY folderContextUnsubscribe.label "ألغِ الاشتراك">
+<!ENTITY folderContextUnsubscribe.accesskey "ل">
+<!ENTITY folderContextMarkNewsgroupRead.label "أشِّر المجموعة البريديّة كمقروءة">
+<!ENTITY folderContextMarkNewsgroupRead.accesskey "م">
+<!ENTITY folderContextMarkMailFolderRead.label "أشِّر الدليل كمقروء">
+<!ENTITY folderContextMarkMailFolderRead.accesskey "ق">
+<!ENTITY folderContextSubscribe.label "اشترك…">
+<!ENTITY folderContextSubscribe.accesskey "ش">
+<!ENTITY folderContextSearchMessages.label "ابحث…">
+<!ENTITY folderContextSearchMessages.accesskey "ب">
+<!ENTITY folderContextProperties.label "الخصائص…">
+<!ENTITY folderContextProperties.accesskey "خ">
+<!ENTITY folderContextFavoriteFolder.label "دليل المفضّلة">
+<!ENTITY folderContextFavoriteFolder.accesskey "ف">
+<!ENTITY folderContextSettings.label "إعدادات...">
+<!ENTITY folderContextSettings.accesskey "ع">
+<!-- Search Bar -->
+
+<!ENTITY SearchNameOrEmail.label "الاسم أو البريد يحوي:">
+<!ENTITY SearchNameOrEmail.accesskey "س">
+<!-- Quick Search Menu Bar -->
+
+<!ENTITY searchSubjectMenu.label "الموضوع">
+<!ENTITY searchFromMenu.label "مِن">
+<!ENTITY searchSubjectOrFromMenu.label "الموضوع أو المرسِل">
+<!ENTITY searchRecipient.label "المرسَل إليه أو نسخة الكربون">
+<!ENTITY searchSubjectOrRecipientMenu.label "الموضوع أو المرسَل إليه أو نسخة الكربون">
+<!ENTITY searchMessageBody.label "كلّ الرسالة">
+<!ENTITY saveAsVirtualFolderMenu.label "احفظ البحث كمجلد…">
+<!-- Thread Pane -->
+
+<!ENTITY threadColumn.label "نقاش">
+<!ENTITY fromColumn.label "مِن">
+<!ENTITY recipientColumn.label "المستلِم">
+<!ENTITY subjectColumn.label "الموضوع">
+<!ENTITY dateColumn.label "التاريخ">
+<!ENTITY priorityColumn.label "الأولويّة">
+<!ENTITY tagsColumn.label "وسم">
+<!ENTITY accountColumn.label "الحساب">
+<!ENTITY statusColumn.label "الحالة">
+<!ENTITY sizeColumn.label "الحجم">
+<!ENTITY junkStatusColumn.label "حالة السخام">
+<!ENTITY unreadColumn.label "غير المقروء">
+<!ENTITY totalColumn.label "المجموع">
+<!ENTITY readColumn.label "مقروء">
+<!ENTITY receivedColumn.label "مستلَم">
+<!ENTITY starredColumn.label "ذات نجمة">
+<!ENTITY locationColumn.label "الموقع">
+<!ENTITY idColumn.label "ترتيب الاستلام">
+<!ENTITY attachmentColumn.label "مرفقات">
+<!-- Thread Pane Tooltips -->
+
+<!ENTITY columnChooser.tooltip "انقر لاختيار الأعمدة التي ستعرض">
+<!ENTITY threadColumn.tooltip "انقر لتعرض رسائل النقاشات">
+<!ENTITY fromColumn.tooltip "انقر لترتب حسب المرسِل">
+<!ENTITY recipientColumn.tooltip "انقر لترتب حسب المُستلِم">
+<!ENTITY subjectColumn.tooltip "انقر لترتب حسب الموضوع">
+<!ENTITY dateColumn.tooltip "انقر لترتب حسب التاريخ">
+<!ENTITY priorityColumn.tooltip "انقر لترتب حسب الأولوية">
+<!ENTITY tagsColumn.tooltip "انقر لترتب حسب الوسوم">
+<!ENTITY accountColumn.tooltip "انقر لترتب حسب الحساب">
+<!ENTITY statusColumn.tooltip "انقر لترتب حسب الحالة">
+<!ENTITY sizeColumn.tooltip "انقر لترتب حسب الحجم">
+<!ENTITY junkStatusColumn.tooltip "انقر لترتب حسب حالة السخام">
+<!ENTITY unreadColumn.tooltip "عدد الرسائل غير المقروءة في النقاش">
+<!ENTITY totalColumn.tooltip "مجموع الرسائل في النقاش">
+<!ENTITY readColumn.tooltip "انقر لترتب حسب المقروء">
+<!ENTITY receivedColumn.tooltip "انقر لترتب حسب تاريخ الاستلام">
+<!ENTITY starredColumn.tooltip "انقر لترتب حسب النّجمة">
+<!ENTITY locationColumn.tooltip "انقر لترتب حسب الموقع">
+<!ENTITY idColumn.tooltip "انقر لترتب حسب ترتيب الاستلام">
+<!ENTITY attachmentColumn.tooltip "انقر لترتب حسب المُرفقات">
+<!-- Thread Pane Context Menu -->
+
+<!ENTITY contextOpenNewWindow.label "افتح الرسالة في نافذة جديدة">
+<!ENTITY contextOpenNewWindow.accesskey "ج">
+<!ENTITY contextOpenNewTab.label "افتح الرسالة في لسان جديد">
+<!ENTITY contextOpenNewTab.accesskey "ل">
+<!ENTITY contextEditAsNew.label "حرّر كجديدة…">
+<!ENTITY contextEditAsNew.accesskey "ح">
+<!ENTITY contextReplySender.label "رُد إلى المُرسِل فقط">
+<!ENTITY contextReplySender.accesskey "م">
+<!ENTITY contextReplyNewsgroup.label "رُد على مجموعة الأخبار">
+<!ENTITY contextReplyNewsgroup.accesskey "د">
+<!ENTITY contextReplyAll.label "رُد على الجميع">
+<!ENTITY contextReplyAll.accesskey "ر">
+<!ENTITY contextForward.label "إلى الأمام">
+<!ENTITY contextForward.accesskey "أ">
+<!ENTITY contextForwardAsAttachment.label "مرِّر كمرفقات">
+<!ENTITY contextForwardAsAttachment.accesskey "م">
+<!ENTITY contextMoveMsgMenu.label "انقل إلى">
+<!ENTITY contextMoveMsgMenu.accesskey "ن">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "حديث">
+<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "ح">
+<!ENTITY contextCopyMsgMenu.label "انسخ إلى">
+<!ENTITY contextCopyMsgMenu.accesskey "خ">
+<!ENTITY contextSaveAs.label "احفظ باسم…">
+<!ENTITY contextSaveAs.accesskey "ح">
+<!ENTITY contextPrint.label "اطبع…">
+<!ENTITY contextPrint.accesskey "ط">
+<!ENTITY contextPrintPreview.label "معاينة الطّباعة">
+<!ENTITY contextPrintPreview.accesskey "ع">
+<!-- Junk Bar -->
+
+<!ENTITY junkBarMessage1.label "بريد سُخام">
+<!ENTITY junkBarButton1.label "ليست سخاماً">
+<!ENTITY junkInfoButton.label "؟">
+<!-- Remote Content Bar -->
+
+<!ENTITY remoteContentMessage1.label "مُنعت الصور البعيدة لحماية خصوصيتك.">
+<!ENTITY loadRemoteContentButton2.label "أظهِر الصور الآن">
+<!-- Phishing Bar -->
+
+<!ENTITY phishingBarMessage2.label "هذه الرسالة قد تكون خدعة.">
+<!ENTITY removePhishingBarButton1.label "تجاهَل التحذير">
+<!ENTITY reportPhishingError1.label "لا يبدو على هذه الرسالة أنها خدعة.">
+<!-- Quick Search Bar -->
+
+<!ENTITY quickSearchCmd.key "س">
+<!-- Message Header Context Menu -->
+
+<!ENTITY AddToAddressBook.label "أضِف إلى دفتر العناوين…">
+<!ENTITY AddToAddressBook.accesskey "د">
+<!ENTITY AddDirectlyToAddressBook.label "أضِف إلى دفتر العناوين">
+<!ENTITY AddDirectlyToAddressBook.accesskey "د">
+<!ENTITY EditContact.label "حرّر المتصل...">
+<!ENTITY EditContact.accesskey "ح">
+<!ENTITY ViewContact.label "شاهِد معلومات المتصل">
+<!ENTITY ViewContact.accesskey "ت">
+<!ENTITY SendMailTo.label "حرِّر رسالة إلى">
+<!ENTITY SendMailTo.accesskey "ر">
+<!ENTITY CopyEmailAddress.label "انسخ عنوان البريد">
+<!ENTITY CopyEmailAddress.accesskey "ع">
+<!ENTITY CreateFilterFrom.label "أنشئ مرشحاً من...">
+<!ENTITY CreateFilterFrom.accesskey "ش">
+<!ENTITY reportPhishingURL.label "أبلغ عن بريد احتيال">
+<!ENTITY reportPhishingURL.accesskey "ب">
+<!-- Content Pane Context Menu -->
+
+<!ENTITY saveLinkAsCmd.label "احفظ الرابط كـ...">
+<!ENTITY saveLinkAsCmd.accesskey "ك">
+<!ENTITY saveImageAsCmd.label "احفظ الصورة كـ...">
+<!ENTITY saveImageAsCmd.accesskey "ظ">
+<!ENTITY copyCmd.label "انسخ">
+<!ENTITY copyCmd.accesskey "خ">
+<!ENTITY selectAllCmd.label "اختر الكل">
+<!ENTITY selectAllCmd.accesskey "ل">
+<!ENTITY copyLinkCmd.label "انسخ موقع الرابط">
+<!ENTITY copyLinkCmd.accesskey "ن">
+<!ENTITY copyImageCmd.label "انسخ مكان الصورة">
+<!ENTITY copyImageCmd.accesskey "م">
+<!ENTITY copyEmailCmd.label "انسخ البريد الإلكتروني">
+<!ENTITY copyEmailCmd.accesskey "ي">
+<!-- Statusbar -->
+
+<!ENTITY statusText.label "تمّ">
+<!--  Mac OS X Window Menu -->
+
+<!ENTITY minimizeWindow.label "صغّر">
+<!ENTITY minimizeWindow.key "غ">
+<!ENTITY bringAllToFront.label "اجلب الكل للمقدمة">
+<!ENTITY zoomWindow.label "قرّب">
+<!-- Mac OS X Application Menu (Cocoa widgets) -->
+
+<!ENTITY preferencesCmdMac.label "تفضيلات...">
+<!ENTITY preferencesCmdMac.commandkey "،">
+<!ENTITY preferencesCmdMac.modifiers "accel">
+<!ENTITY servicesMenuMac.label "خدمات">
+<!ENTITY hideThisAppCmdMac.label "أخفِ &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey "H">
+<!ENTITY hideThisAppCmdMac.modifiers "accel">
+<!ENTITY hideOtherAppsCmdMac.label "أخفٍ البقية">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
+<!ENTITY showAllAppsCmdMac.label "أظهِر الكل">

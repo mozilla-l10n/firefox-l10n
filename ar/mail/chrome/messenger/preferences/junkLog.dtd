@@ -1,0 +1,6 @@
+<!ENTITY junkLog.title "سجل السخام">
+<!ENTITY junkLogInfo.label "سجّل نشاط التحكم في السخام.">
+<!ENTITY clearLog.label "امسح السجل">
+<!ENTITY clearLog.accesskey "س">
+<!ENTITY closeLog.label "أغلق">
+<!ENTITY closeLog.accesskey "غ">

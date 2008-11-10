@@ -1,0 +1,20 @@
+<!-- Help Menu -->
+<!ENTITY helpMenu.label "مساعدة">
+<!ENTITY helpMenu.accesskey "ة">
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label "مساعدة">
+<!ENTITY helpMenuWin.accesskey "ة">
+<!ENTITY releaseCmd.label "ملاحظات الإصدار">
+<!ENTITY releaseCmd.accesskey "م">
+<!ENTITY openHelp.label "محتويات المساعدة">
+<!ENTITY openHelp.accesskey "ح">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelpMac.label "مساعدة &brandShortName;">
+<!ENTITY openHelpMac2.commandkey   "?">
+<!ENTITY openHelpMac2.modifiers    "accel">
+
+<!ENTITY updateCmd.label "التمِسْ التحديثات…">
+<!ENTITY updateCmd.accesskey "ث">
+<!ENTITY aboutCmd.label "حوْل &brandFullName;">
+<!ENTITY aboutCmd.accesskey "و">

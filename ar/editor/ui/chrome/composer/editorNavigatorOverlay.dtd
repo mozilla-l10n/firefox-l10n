@@ -1,0 +1,6 @@
+
+<!ENTITY editPageCmd.label                "حرّر الصفحة في منشئ الرسائل"> 
+<!ENTITY editPageCmd.accesskey            "ح">
+
+<!ENTITY editLinkCmd.label                "حرّر الرابط في المنشئ الرسائل">
+<!ENTITY editLinkCmd.accesskey            "ر">

@@ -1,0 +1,14 @@
+<!ENTITY virtualFolderProperties.title "دليل بحث محفوظ جديد ">
+<!ENTITY name.label "الاسم:">
+<!ENTITY name.accesskey "س">
+<!ENTITY description.label "أنشئ كدليل فرعي تحت:">
+<!ENTITY description.accesskey "ف">
+
+<!ENTITY searchTermCaption.label "اضبط معايير البحث المُستخدمة في دليل البحث المحفوظ هذا:">
+
+<!ENTITY folderSelectionCaption.label "اختر ملفات للبحث:">
+<!ENTITY chooseFoldersButton.label "اختر…">
+<!ENTITY chooseFoldersButton.accesskey "خ">
+
+<!ENTITY searchOnline.label "ابحث على الخط (يعطي نتائج محدَّثة لـ IMAP و دليل الأخبار لكن يزِيد وقت فتح الملف)">
+<!ENTITY searchOnline.accesskey "خ">

@@ -1,0 +1,30 @@
+<!ENTITY doNotDownloadPop3Movemail.label "لتوفير مساحة القرص، لا تنزّل:">
+<!ENTITY doNotDownload.label "لتوفير مساحة القرص، لا تنزّل للاستخدام في طور اللا اتصال:">
+<!ENTITY allFoldersOffline.label "احتفظ برسائل هذا الحساب على الحاسوب">
+<!ENTITY allFoldersOffline.accesskey "س">
+<!ENTITY offlineNotDownload.label "الرّسائل الأكبر من:">
+<!ENTITY offlineNotDownload.accesskey "ا">
+<!ENTITY kb.label "ك.بايت">
+<!ENTITY daysOld.label "أيّام">
+<!ENTITY message.label "الرّسائل">
+<!ENTITY nntpNotDownloadRead.label "الرّسائل المقروءة">
+<!ENTITY nntpNotDownloadRead.accesskey "ء">
+<!ENTITY nntpDownloadMsg.label "الرّسائل أكثر من">
+<!ENTITY nntpDownloadMsg.accesskey "س">
+<!ENTITY retentionCleanup.label "لاستعادة مساحة القرص يمكن حذف الرّسائل القديمة نهائيًّا">
+<!ENTITY retentionKeepMsg.label "احذف الرّسائل الأكثر من">
+<!ENTITY retentionKeepMsg.accesskey "ف">
+<!ENTITY retentionKeepAll.label "لا تحذف أيًّا من الرّسائل">
+<!ENTITY retentionKeepAll.accesskey "ل">
+<!ENTITY retentionKeepNew.label "احذف كل الرّسائل عدا آخر">
+<!ENTITY retentionKeepNew.accesskey "ع">
+<!ENTITY retentionKeepUnread.label "دائمًا احذف الرّسائل المقروءة">
+<!ENTITY retentionKeepUnread.accesskey "م">
+<!ENTITY nntpRemoveBody.label "فقط متون الرّسائل الأقلّ من">
+<!ENTITY nntpRemoveBody.accesskey "ق">
+<!ENTITY offlineSelectNntp.label "اختر مجموعات أخبار لتُستخدم في طور اللااتصال...">
+<!ENTITY offlineSelectNntp.accesskey "خ">
+<!ENTITY offlineImapAdvancedOffline.label "متقدم...">
+<!ENTITY offlineImapAdvancedOffline.accesskey "م">
+<!ENTITY syncGroupTitle.label "مزامنة الرسائل">
+<!ENTITY diskspaceGroupTitle.label "مساحة القرص">

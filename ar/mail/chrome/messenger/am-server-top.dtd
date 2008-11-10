@@ -1,0 +1,85 @@
+<!-- extracted from am-server-top.xul -->
+
+<!ENTITY securitySettings.label "إعدادات السرية">
+<!ENTITY serverSettings.label "إعدادات الخادوم">
+<!ENTITY serverType.label "نوع الخادوم:">
+<!ENTITY serverName.label "اسم الخادوم:">
+<!ENTITY serverName.accesskey "خ">
+<!ENTITY userName.label "اسم المستخدم:">
+<!ENTITY userName.accesskey "م">
+<!ENTITY port.label "المَنفذ:">
+<!ENTITY port.accesskey "م">
+<!ENTITY serverPortDefault.label "مبدئي:">
+<!ENTITY savePassword.label "احفظ كلمة السر">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
+<!ENTITY biffStart.label "افحص الرسائل الجديدة كل">
+<!ENTITY biffStart.accesskey "ف">
+<!ENTITY biffEnd.label "دقائق">
+<!ENTITY isSecure.label "استخدم اتصالا آمنا (SSL)">
+<!ENTITY isSecure.accesskey "س">
+<!ENTITY socketType.label "استخدم اتصالا آمنا:">
+<!ENTITY neverSecure.label "أبدًا">
+<!ENTITY neverSecure.accesskey "ب">
+<!ENTITY sometimesSecure.label "إذا توفر TLS">
+<!ENTITY sometimesSecure.accesskey "ف">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSSL.label "SSL">
+<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY useSecAuth.label "استخدم استيثاقا آمنا">
+<!ENTITY useSecAuth.accesskey "س">
+<!ENTITY leaveOnServer.label "اترك الرسائل على الخادوم">
+<!ENTITY leaveOnServer.accesskey "ر">
+<!ENTITY headersOnly.label "نزِّل الترويسات فقط">
+<!ENTITY headersOnly.accesskey "ن">
+<!ENTITY deleteByAgeFromServer.label "لمدة أقصاها">
+<!ENTITY deleteByAgeFromServer.accesskey "م">
+<!ENTITY daysEnd.label "أيّام">
+<!ENTITY deleteOnServer2.label "حتى أحذفها">
+<!ENTITY deleteOnServer2.accesskey "ح">
+<!ENTITY downloadOnBiff.label "نزِّل الرسائل الجديدة آليًّا">
+<!ENTITY downloadOnBiff.accesskey "ل">
+<!ENTITY username.label "اسم الولوج">
+
+<!ENTITY deleteMessagePrefix.label "عندما أحذِف رسالة:">
+<!ENTITY modelMoveToTrash.label "انقلها إلى دليل المهملات">
+<!ENTITY modelMoveToTrash.accesskey "ا">
+<!ENTITY modelMarkDeleted.label "أشِّرها كمحذوفة">
+<!ENTITY modelMarkDeleted.accesskey "ف">
+<!ENTITY modelDeleteImmediately.label "أزلها حالًا">
+<!ENTITY modelDeleteImmediately.accesskey "ح">
+<!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY expungeOnExit.label "نظِّف صندوق الوارد عند الخروج">
+<!ENTITY expungeOnExit.accesskey "ظ">
+<!ENTITY emptyTrashOnExit.label "أفرغ المهملات عند الخروج">
+<!ENTITY emptyTrashOnExit.accesskey "خ">
+<!ENTITY loginAtStartup.label "تحقق من وجود رسائل جديدة عند البدء">
+<!ENTITY loginAtStartup.accesskey "C">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+   of messages between them
+-->
+<!ENTITY maxMessagesStart.label "اسألني قبل تنزيل أكثر من">
+<!ENTITY maxMessagesStart.accesskey "س">
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+<!ENTITY maxMessagesEnd.label "رسائل">
+<!ENTITY alwaysAuthenticate.label "اطلب الاستيثاق دائما عند الاتصال بهذا الخادوم">
+<!ENTITY alwaysAuthenticate.accesskey "ط">
+<!ENTITY newsrcFilePath.label "ملف newsrc:">
+<!ENTITY localPath.label "دليل محلي:">
+<!ENTITY abbreviate.label "اعرض أسماء مجموعات الأخبار في لوحة دليل البريد ك‍:">
+<!ENTITY abbreviateOn.label "أسماء كاملة (على سبيل المثال، 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "أسماء مختصرة (على سبيل المثال،  'n.p.m.mail-news')">
+<!ENTITY advancedButton.label "متقدم...">
+<!ENTITY advancedButton.accesskey "م">
+<!ENTITY serverDefaultCharset.label "ترميز المحارف المبدئي:">
+<!ENTITY localFolderPicker.label "اختر دليلًا محلِّيًا">
+<!ENTITY browseFolder.label "تصفّح...">
+<!ENTITY browseFolder.accesskey "ص">
+<!ENTITY newsrcPicker.label "اختر ملف newsrc">
+<!ENTITY browseNewsrc.label "تصفّح...">
+<!ENTITY browseNewsrc.accesskey "ف">

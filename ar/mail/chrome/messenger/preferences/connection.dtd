@@ -1,0 +1,37 @@
+<!ENTITY connectionsDialog.title "إعدادات الاتصال">
+<!ENTITY window.width "37em">
+
+<!ENTITY proxyTitle.label "اضبط وسطاء الدخول إلى الإنترنت">
+<!ENTITY noProxyTypeRadio.label "بدون وسيط">
+<!ENTITY noProxyTypeRadio.accesskey "و">
+<!ENTITY systemTypeRadio.label "استخدم إعدادات وسيط النظام">
+<!ENTITY systemTypeRadio.accesskey "م">
+<!ENTITY WPADTypeRadio.label "تعرَّف تلقائيًّا على إعدادات وسيط هذه الشَّبكة">
+<!ENTITY WPADTypeRadio.accesskey "ش">
+<!ENTITY manualTypeRadio.label "ضبط يدوي للوسيط:">
+<!ENTITY manualTypeRadio.accesskey "ي">
+<!ENTITY autoTypeRadio.label "مسار الضبط التلقائي للوسيط:">
+<!ENTITY autoTypeRadio.accesskey "ت">
+<!ENTITY reload.label "أعد التحميل">
+<!ENTITY reload.accesskey "ح">
+<!ENTITY http.label "وسيط HTTP:">
+<!ENTITY http.accesskey "h">
+<!ENTITY ssl.label "وسيط SSL:">
+<!ENTITY ssl.accesskey "s">
+<!ENTITY socks.label "مُضيف SOCKS:">
+<!ENTITY socks.accesskey "c">
+<!ENTITY socks4.label "SOCKS v4">
+<!ENTITY socks4.accesskey "k">
+<!ENTITY socks5.label "SOCKS v5">
+<!ENTITY socks5.accesskey "v">
+<!ENTITY HTTPport.label "المنفذ:">
+<!ENTITY HTTPport.accesskey "م">
+<!ENTITY SSLport.label "المنفذ:">
+<!ENTITY SSLport.accesskey "ن">
+<!ENTITY SOCKSport.label "المنفذ:">
+<!ENTITY SOCKSport.accesskey "ذ">
+<!ENTITY noproxy.label "لا وسيط لأجل:">
+<!ENTITY noproxy.accesskey "و">
+<!ENTITY noproxyExplain.label "مثال: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY shareproxy.label "استخدم الخادوم الوسيط هذا لكل البروتوكولات ">
+<!ENTITY shareproxy.accesskey "و">

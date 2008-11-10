@@ -1,0 +1,25 @@
+<!ENTITY settings.caption "الإعدادات">
+<!ENTITY security.caption "السرّية والاستيثاق">
+<!ENTITY serverName.label "اسم الخادوم:">
+<!ENTITY serverName.accesskey "خ">
+<!ENTITY serverDescription.label "الوصف:">
+<!ENTITY serverDescription.accesskey "و">
+<!ENTITY serverPort.label "المَنفذ:">
+<!ENTITY serverPort.accesskey "م">
+<!ENTITY alwaysUseUsername.label "استخدم اسمًا وكلمة سر">
+<!ENTITY alwaysUseUsername.accesskey "س">
+<!ENTITY userName.label "اسم المستخدم:">
+<!ENTITY userName.accesskey "م">
+<!ENTITY useSecAuth.label "استخدم المصادقة الآمنة">
+<!ENTITY useSecAuth.accesskey "د">
+<!ENTITY isSecure.label "استخدم اتصالًا آمنًا:">
+<!ENTITY neverSecure.label "لا">
+<!ENTITY neverSecure.accesskey "ل">
+<!ENTITY sometimesSTARTTLS.label "STARTTLS، إن كان متاحاً">
+<!ENTITY sometimesSTARTTLS.accesskey "م">
+<!ENTITY alwaysSTARTTLS.label "STARTTLS">
+<!ENTITY alwaysSTARTTLS.accesskey "T">
+<!ENTITY alwaysSMTPOverSSL.label "SMTP-over-SSL">
+<!ENTITY alwaysSMTPOverSSL.accesskey "L">
+<!ENTITY smtpEditTitle.label "خادوم SMTP">
+<!ENTITY serverPortDefault.label "المبدئي:">

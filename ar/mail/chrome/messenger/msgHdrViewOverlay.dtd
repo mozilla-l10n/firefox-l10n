@@ -1,0 +1,92 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY toField2.label "إلى">
+<!ENTITY fromField2.label "من">
+<!ENTITY senderField2.label "المرسِل">
+<!ENTITY organizationField2.label "المنظمة">
+<!ENTITY replyToField2.label "رد غلى">
+
+<!ENTITY subjectField2.label "الموضوع">
+<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
+<!ENTITY ccField2.label "cc ">
+<!ENTITY bccField2.label "نسخة كربون مخفية">
+<!ENTITY newsgroupsField2.label "مجموعات الأخبار">
+<!ENTITY followupToField2.label "ملحق إلى">
+<!ENTITY tagsHdr2.label "وسوم">
+<!ENTITY dateField2.label "التاريخ">
+<!ENTITY userAgentField2.label "عميل المستخدم">
+<!ENTITY referencesField2.label "الإحالات">
+<!ENTITY messageIdField2.label "معرّف الرسالة">
+<!ENTITY inReplyToField2.label "ردّاً على">
+<!ENTITY originalWebsite2.label "موقع الوب">
+
+<!ENTITY editMessageDescription.label "هذه رسالة مسودّة">
+<!ENTITY editMessageButton.label "حرّر...">
+<!ENTITY replyButton.label "رُدّ...">
+<!ENTITY forwardButton.label "حوّل...">
+<!ENTITY junkButton.label "أضف علامة السُخام">
+<!ENTITY trashButton.tooltiptext "احذف">
+
+<!ENTITY otherActionsButton.label "إجراءات أخرى">
+<!ENTITY saveAsMenuItem.label "احفظ كـ...">
+<!ENTITY saveAsMenuItem.accesskey "ظ">
+<!ENTITY viewSourceMenuItem.label "اعرض المصدر...">
+<!ENTITY viewSourceMenuItem.accesskey "ص">
+
+<!ENTITY hideDetailsButton.label "أخفِ التفاصيل">
+<!ENTITY showDetailsButton.label "أظهِر التفاصيل">
+
+<!ENTITY openAttachmentCmd.label "افتح">
+<!ENTITY openAttachmentCmd.accesskey "ف">
+<!ENTITY saveAsAttachmentCmd.label "احفظ باسم…">
+<!ENTITY saveAsAttachmentCmd.accesskey "س">
+<!ENTITY detachAttachmentCmd.label "افصل…">
+<!ENTITY deleteAttachmentCmd.label "احذف">
+<!ENTITY saveAllAttachmentsCmd.label "احفظ الكل…">
+<!ENTITY saveAllAttachmentsCmd.accesskey "ح">
+<!ENTITY detachAllAttachmentsCmd.label "افصل الكل…">
+<!ENTITY detachAllAttachmentsCmd.accesskey "ف">
+<!ENTITY deleteAllAttachmentsCmd.label "احذف الكل…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "ف">
+
+<!ENTITY copyLinkCmd.label "انسخ موقع الرابط">
+<!ENTITY copyLinkCmd.accesskey "ن">
+
+<!ENTITY CopyMessageId.label "انسخ معرّف الرسالة">
+<!ENTITY OpenMessageForMsgId.label "افتح الرسالة من أجل المعرّف">
+<!ENTITY OpenBrowserWithMsgId.label "افتح المتصفح مع معرّف الرسالة">

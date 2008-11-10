@@ -1,0 +1,32 @@
+<!ENTITY downloadactionsWindow.title "إجراءات التنزيل">
+<!ENTITY window.width "480">
+<!ENTITY window.height "310">
+
+<!ENTITY fileTypesDescription.label "قم آليًّا بالإجراءات المرتبطة بكل من أنواع الملفات التالية:">
+
+<!ENTITY fileHandlerColumn.label "الإجراء">
+<!ENTITY fileHandlerColumn.accesskey "ج">
+<!ENTITY fileTypeColumn.label "نوع الملف ">
+<!ENTITY fileTypeColumn.accesskey "ن">
+<!ENTITY fileMIMETypeColumn.label "نوع MIME">
+<!ENTITY fileMIMETypeColumn.accesskey "M">
+<!ENTITY fileExtensionColumn.label "الامتداد">
+<!ENTITY fileExtensionColumn.accesskey "م">
+
+<!ENTITY remove.label "احذف الإجراء">
+<!ENTITY remove.accesskey "ح">
+<!ENTITY edit.label "غيِّر الإجراء…">
+<!ENTITY edit.accesskey "غ">
+
+<!ENTITY windowClose.key "w">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+
+<!ENTITY filter.label "ابحث:">
+<!ENTITY filter.accesskey "ب">
+<!ENTITY clear.label "أخل">
+<!ENTITY clear.accesskey "l">
+
+<!ENTITY button.close.label "أغلق">
+<!ENTITY button.close.accesskey "غ">
+

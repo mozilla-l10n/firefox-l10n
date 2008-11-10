@@ -1,0 +1,11 @@
+<!ENTITY editContactName.label "الاسم:">
+<!ENTITY editContactName.accesskey "س">
+
+<!ENTITY editContactEmail.label "البريد الإلكتروني:">
+<!ENTITY editContactEmail.accesskey "ك">
+
+<!ENTITY editContactPanelCancel.label "ألغِ">
+<!ENTITY editContactPanelCancel.accesskey "غ">
+
+<!ENTITY editContactPanelDone.label "تمّ">
+<!ENTITY editContactPanelDone.accesskey "ت">

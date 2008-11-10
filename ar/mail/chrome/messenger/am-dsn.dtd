@@ -1,0 +1,16 @@
+<!ENTITY pane.title                 "تنبيه حالة الاستلام">
+<!ENTITY useGlobalPrefs.label       "استخدم تفضيلاتي العمومية لتنبيه حالة الاستلام في هذا الحساب">
+<!ENTITY useGlobalPrefs.accesskey   "س">
+<!ENTITY useCustomPrefs.label       "خصّص تنبيه حالة الاستلام في هذا الحساب">
+<!ENTITY useCustomPrefs.accesskey   "خ">
+<!ENTITY requestAlways.label        "عند إرسال الرسائل، اطلب تنبيه حالة الاستلام دائماً">
+<!ENTITY requestAlways.accesskey    "ع">
+<!ENTITY optionTitle.label          "اطلب التنبيه عند :">
+<!ENTITY requestOnSucess.label      "نجاح إيصال الرسالة">
+<!ENTITY requestOnSucess.accesskey  "ن">
+<!ENTITY requestOnFailure.label     "فشل إيصال الرسالة">
+<!ENTITY requestOnFailure.accesskey "ف">
+<!ENTITY requestOnDelay.label       "تأخير في إيصال الرسالة">
+<!ENTITY requestOnDelay.accesskey   "ت">
+<!ENTITY requestNever.label         "لا تستلم أبداً تنبيه حالة الاستلام">
+<!ENTITY requestNever.accesskey     "د">

@@ -1,0 +1,91 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Editor Smiley Overlay.
+   -
+   - The Initial Developer of the Original Code is
+   - Neil Rashbrook.
+   - Portions created by the Initial Developer are Copyright (C) 2003
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -    Neil Rashbrook <neil@parkwaycc.co.uk>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!-- Smiley Menu items -->
+
+<!ENTITY insertSmiley.label "مبتسم">
+<!ENTITY insertSmiley.accesskey "م">
+
+<!ENTITY smiley1Cmd.label "ابتسامة ">
+<!ENTITY smiley1Cmd.accesskey "ب">
+<!ENTITY smiley1Cmd.tooltip "أدرج وجها مبتسما">
+<!ENTITY smiley2Cmd.label "متجهم">
+<!ENTITY smiley2Cmd.accesskey "ج">
+<!ENTITY smiley2Cmd.tooltip "أدرج وجها متجهّما">
+<!ENTITY smiley3Cmd.label "غمزه">
+<!ENTITY smiley3Cmd.accesskey "غ">
+<!ENTITY smiley3Cmd.tooltip "أدرج وجها غامِزا">
+<!ENTITY smiley4Cmd.label "مخرج لسانه">
+<!ENTITY smiley4Cmd.accesskey "ل">
+<!ENTITY smiley4Cmd.tooltip "أدرج وجها يخرج لسانه">
+<!ENTITY smiley5Cmd.label "يضحك">
+<!ENTITY smiley5Cmd.accesskey "ض">
+<!ENTITY smiley5Cmd.tooltip "أدرج وجها ضاحكا">
+<!ENTITY smiley6Cmd.label "مُحرَج">
+<!ENTITY smiley6Cmd.accesskey "م">
+<!ENTITY smiley6Cmd.tooltip "أدرج وجها مُحرَجا">
+<!ENTITY smiley7Cmd.label "متردد">
+<!ENTITY smiley7Cmd.accesskey "م">
+<!ENTITY smiley7Cmd.tooltip "أدرج وجها مترددا">
+<!ENTITY smiley8Cmd.label "متفاجيء">
+<!ENTITY smiley8Cmd.accesskey "م">
+<!ENTITY smiley8Cmd.tooltip "أدرج وجها متفاجئا">
+<!ENTITY smiley9Cmd.label "قبلة">
+<!ENTITY smiley9Cmd.accesskey "ق">
+<!ENTITY smiley9Cmd.tooltip "أدرج وجه قبلة">
+<!ENTITY smiley10Cmd.label "يصيح">
+<!ENTITY smiley10Cmd.accesskey "ص">
+<!ENTITY smiley10Cmd.tooltip "أدرج وجها صائحا">
+<!ENTITY smiley11Cmd.label "هاديء">
+<!ENTITY smiley11Cmd.accesskey "ه">
+<!ENTITY smiley11Cmd.tooltip "أدرج وجها هادئا">
+<!ENTITY smiley12Cmd.label "فم نقود">
+<!ENTITY smiley12Cmd.accesskey "ف">
+<!ENTITY smiley12Cmd.tooltip "أدرج وجها فم النقود">
+<!ENTITY smiley13Cmd.label "قدم في الفم">
+<!ENTITY smiley13Cmd.accesskey "ق">
+<!ENTITY smiley13Cmd.tooltip "أدرج وجها ذو قدم في الفم">
+<!ENTITY smiley14Cmd.label "بريء">
+<!ENTITY smiley14Cmd.accesskey "ب">
+<!ENTITY smiley14Cmd.tooltip "أدرج وجها بريئا">
+<!ENTITY smiley15Cmd.label "باكٍ">
+<!ENTITY smiley15Cmd.accesskey "ب">
+<!ENTITY smiley15Cmd.tooltip "أدرج وجها باكيا">
+<!ENTITY smiley16Cmd.label "أحمر الشفاه">
+<!ENTITY smiley16Cmd.accesskey "ش">
+<!ENTITY smiley16Cmd.tooltip "أدرج وجها أحمر الشفاة">
+<!ENTITY SmileButton.tooltip "أدرج وجها مبتسما">
+

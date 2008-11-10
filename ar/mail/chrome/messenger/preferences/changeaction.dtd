@@ -1,0 +1,21 @@
+<!ENTITY changeAction.title "غيّر الإجراء">
+<!ENTITY window.width "36em">
+
+<!ENTITY whenDownloading.label "عند تنزيل ملفات كهذا:">
+
+<!ENTITY openDefault.label "افتح بالتطبيق المبدئي:">
+<!ENTITY openDefault.accesskey "ف">
+<!ENTITY openApplication.label "افتح بهذا التطبيق:">
+<!ENTITY openApplication.accesskey "ت">
+<!ENTITY changeApp.label "تصفح…">
+<!ENTITY changeApp.accesskey "ص">
+<!ENTITY saveToDisk.label "احفظ على حاسوبي">
+<!ENTITY saveToDisk.accesskey "ح">
+<!ENTITY saveToDefaultFolder.label "في دليل التنزيل المبدئي">
+<!ENTITY saveToDefaultFolder.accesskey "ا">
+<!ENTITY saveToThisFolder.label "في هذا الدليل:">
+<!ENTITY saveToThisFolder.accesskey "h">
+<!ENTITY chooseFolder.label "تصفح…">
+<!ENTITY chooseFolder.accesskey "ص">
+<!ENTITY saveToAskMe.label "اسألني أين أحفظ الملف">
+<!ENTITY saveToAskMe.accesskey "س">

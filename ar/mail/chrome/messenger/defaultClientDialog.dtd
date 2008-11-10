@@ -1,0 +1,9 @@
+<!ENTITY defaultClient.title "العميل المبدئي">
+<!ENTITY defaultClient.intro "استخدم &brandShortName; كعميل مبدئي لأجل:">
+
+<!ENTITY email.label "البريد">
+<!ENTITY newsgroups.label "مجموعات الأخبار">
+<!ENTITY rss.label "التلقيمات">
+
+<!ENTITY checkOnStartup.label "أجرِ دائما هذا الفحص عند بدأ &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "د">

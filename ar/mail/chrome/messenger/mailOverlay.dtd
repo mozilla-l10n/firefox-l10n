@@ -1,0 +1,8 @@
+<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessageCmd.key "M">
+<!ENTITY newMessageCmd.label "رسالة">
+<!ENTITY newMessageCmd.accesskey "ر">
+ 
+<!ENTITY newCardCmd.label "بطاقة دفتر العناوين...">
+<!ENTITY newCardCmd.accesskey "ب">
+

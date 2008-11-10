@@ -1,0 +1,72 @@
+<!ENTITY fontsAndEncodingsDialog.title "الخطوط والترميزات">
+<!ENTITY window.width "39em">
+<!ENTITY window.macWidth "43em">
+<!ENTITY window.unixWidth "41em">
+
+<!ENTITY language.label "خطوط:">
+<!ENTITY language.accesskey "خ">
+
+<!ENTITY sizes.label "الحجم (عنصورات)">
+<!ENTITY proportionalSize.accesskey "ح">
+<!ENTITY monospaceSize.accesskey "ث">
+
+<!ENTITY proportional.label "نسبي:">
+<!ENTITY proportional.accesskey "ن">
+
+<!ENTITY serif.label "مذيل:">
+<!ENTITY serif.accesskey "م">
+<!ENTITY sans-serif.label "غير مذيل:">
+<!ENTITY sans-serif.accesskey "ر">
+<!ENTITY monospace.label "ثابت العرض:">
+<!ENTITY monospace.accesskey "ث">
+
+<!ENTITY font.langGroup.latin1 "غربي">
+<!ENTITY font.langGroup.latin2 "وسط أوروبي">
+<!ENTITY font.langGroup.japanese "ياباني">
+<!ENTITY font.langGroup.trad-chinese "صيني تقليدي (تايوان)">
+<!ENTITY font.langGroup.simpl-chinese "صيني مبسّط">
+<!ENTITY font.langGroup.trad-chinese-hk "صيني تقليدي (هونج كونج)">
+<!ENTITY font.langGroup.korean "كوري">
+<!ENTITY font.langGroup.cyrillic "سريلي">
+<!ENTITY font.langGroup.baltic "بلطيقي">
+<!ENTITY font.langGroup.el "يوناني">
+<!ENTITY font.langGroup.turkish "تركي">
+<!ENTITY font.langGroup.unicode "لغات أخرى ">
+<!ENTITY font.langGroup.user-def "معرّف من المستخدم">
+<!ENTITY font.langGroup.thai "تايلندي">
+<!ENTITY font.langGroup.hebrew "عبري">
+<!ENTITY font.langGroup.arabic "عربي">
+<!ENTITY font.langGroup.devanagari "دفنجاري">
+<!ENTITY font.langGroup.tamil "تاميلي">
+<!ENTITY font.langGroup.armenian "أرميني">
+<!ENTITY font.langGroup.bengali "بنغالي">
+<!ENTITY font.langGroup.canadian "المقاطع الكنديّة الموحّدة">
+<!ENTITY font.langGroup.ethiopic "إثيوبي">
+<!ENTITY font.langGroup.georgian "جورجي">
+<!ENTITY font.langGroup.gujarati "گوجراتي">
+<!ENTITY font.langGroup.gurmukhi "گورموخي">
+<!ENTITY font.langGroup.khmer "خميري">
+<!ENTITY font.langGroup.malayalam "ملايلام">
+<!-- Minimum font size -->
+
+<!ENTITY minSize.label "أقل حجم للخط:">
+<!ENTITY minSize.accesskey "ح">
+<!ENTITY minSize.none "لا شيء">
+<!-- default font type -->
+
+<!ENTITY useDefaultFontSerif.label "Serif">
+<!ENTITY useDefaultFontSansSerif.label "Sans Serif">
+
+<!ENTITY useDocumentFonts.label "اسمح للرسائل باستخدام خطوط أخرى">
+<!ENTITY useDocumentFonts.accesskey "س">
+<!-- Language settings -->
+
+<!ENTITY sendDefaultCharset.label "البريد الصادر:">
+<!ENTITY sendDefaultCharset.accesskey "ص">
+<!ENTITY languagesTitle1.label "ترميز المحارف">
+<!ENTITY composingDescription.label "حدد ترميز المحارف المبدئي لإرسال واستقبال البريد">
+
+<!ENTITY viewDefaultCharsetList.label "البريد الوارد:">
+<!ENTITY viewDefaultCharsetList.accesskey "و">
+<!ENTITY replyInDefaultCharset2.label "استخدم ترميز الحروف الافتراضي في الردود عند الإمكان">
+<!ENTITY replyInDefaultCharset2.accesskey "ز">

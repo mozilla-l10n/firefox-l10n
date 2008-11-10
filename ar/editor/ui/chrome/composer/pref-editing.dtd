@@ -1,0 +1,28 @@
+<!ENTITY  pref.editing.title        "إعدادات الصفحة الجديدة">
+
+<!ENTITY  authorName.label          "الكاتب:">
+<!ENTITY  authorName.accesskey      "ب">
+<!ENTITY  pageColorHeader           "مظهر الصفحة الافتراضي">
+
+<!ENTITY defaultColors.label        "ألوان القارئ الافتراضية (لا تضبط الألوان في الصفحة)">
+<!ENTITY defaultColors.accesskey    "ض">
+<!ENTITY customColors.label         "استخدم الألوان المخصصة:">
+<!ENTITY customColors.accesskey     "ص">
+
+<!ENTITY normalText.label           "نص عادي">
+<!ENTITY normalText.accesskey       "ع">
+<!ENTITY linkText.label             "نص رابط">
+<!ENTITY linkText.accesskey         "ر">
+<!ENTITY activeLinkText.label       "نص رابط فعّال">
+<!ENTITY activeLinkText.accesskey   "ط">
+<!ENTITY visitedLinkText.label      "نص رابط مَزُور">
+<!ENTITY visitedLinkText.accesskey  "ز">
+<!ENTITY background.label           "خلفية:">
+<!ENTITY background.accesskey       "ة">
+<!ENTITY colon.character            ":">
+
+<!ENTITY backgroundImage.label      "صورة الخلفية:">
+<!ENTITY backgroundImage.accesskey  "خ">
+<!ENTITY chooseFile.label           "اختر ملفاً…">
+<!ENTITY chooseFile.accesskey       "ل">
+

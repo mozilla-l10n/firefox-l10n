@@ -1,0 +1,18 @@
+<!ENTITY addressbookPicker.label "دفتر العناوين:">
+<!ENTITY addressbookPicker.accesskey "ن">
+<!ENTITY searchInput.label "ابحث عن:">
+<!ENTITY searchInput.accesskey "ع">
+<!ENTITY SearchNameOrEmail.label "الاسم أو البريد الإلكتروني">
+
+<!ENTITY deleteAddrBookCard.label "احذف">
+<!ENTITY addrBookCardProperties.label "خصائص">
+<!ENTITY addtoToFieldMenu.label "أضِف إلى الحقل">
+<!ENTITY addtoCcFieldMenu.label "أضِف إلى حقل نسخة كربونية">
+<!ENTITY addtoBccFieldMenu.label "أضِف إلى حقل نسخة كربونية مخفية">
+
+<!ENTITY toButton.label "أضِف إلى:">
+<!ENTITY toButton.accesskey "ض">
+<!ENTITY ccButton.label "أضِف إلى نسخة كربونية:">
+<!ENTITY ccButton.accesskey "ف">
+<!ENTITY bccButton.label "أضِف إلى نسخة كربونية مخفية:">
+<!ENTITY bccButton.accesskey "ب">

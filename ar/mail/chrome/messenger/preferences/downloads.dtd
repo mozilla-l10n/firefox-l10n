@@ -1,0 +1,15 @@
+<!ENTITY askOnSave.label "دليل المرفقات">
+<!ENTITY alwaysAsk.label "اسأل عن موضع حفظ كل ملف">
+<!ENTITY alwaysAsk.accesskey "س">
+<!ENTITY neverAsk.label "احفظ كل المرفقات في هذا المجلد:">
+<!ENTITY neverAsk.accesskey "ح">
+<!ENTITY chooseFolderWin.label "تصفح…">
+<!ENTITY chooseFolderWin.accesskey "ص">
+<!ENTITY chooseFolderMac.label "اختر…">
+<!ENTITY chooseFolderMac.accesskey "خ">
+
+
+<!ENTITY fileTypes.label "إجراءات التنزيل">
+<!ENTITY configureActions.label "اعرض وحرر الإجراءات…">
+<!ENTITY configureActions.accesskey "ح">
+<!ENTITY fileTypesDescription.label "يستطيع &brandShortName; حفظ أو فتح المرفقات من نوع معين آليًّا.">

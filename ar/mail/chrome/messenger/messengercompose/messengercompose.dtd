@@ -1,0 +1,271 @@
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+<!ENTITY msgComposeWindow.title "حرِّر: (لا موضوع)">
+<!-- File Menu -->
+
+<!ENTITY fileMenu.label "ملف">
+<!ENTITY fileMenu.accesskey "م">
+<!ENTITY newMenu.label "جديد">
+<!ENTITY newMenu.accesskey "ج">
+<!ENTITY newMessage.label "رسالة">
+<!ENTITY newMessage.key "ر">
+<!ENTITY newMessageCmd2.key "ج">
+<!ENTITY newMessage.accesskey "ر">
+<!ENTITY newCard.label "بطاقة دفتر العناوين…">
+<!ENTITY newCard.accesskey "ب">
+<!ENTITY attachMenu.label "أرفق">
+<!ENTITY attachMenu.accesskey "ر">
+<!ENTITY attachFileCmd.label "ملفات…">
+<!ENTITY attachFileCmd.accesskey "م">
+<!ENTITY attachPageCmd.label "صفحة وِب…">
+<!ENTITY attachPageCmd.accesskey "ص">
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCardCmd.label "بطاقة شخصية (vCard)">
+<!ENTITY attachVCardCmd.accesskey "ش">
+<!ENTITY closeCmd.label "أغلق">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "غ">
+<!ENTITY saveCmd.label "احفظ">
+<!ENTITY saveCmd.key "S">
+<!ENTITY saveCmd.accesskey "ح">
+<!ENTITY saveAsCmd.label "احفظ باسم">
+<!ENTITY saveAsCmd.accesskey "س">
+<!ENTITY saveAsFileCmd.label "ملف…">
+<!ENTITY saveAsFileCmd.accesskey "م">
+<!ENTITY saveAsDraftCmd.label "مسوّدة">
+<!ENTITY saveAsDraftCmd.accesskey "م">
+<!ENTITY saveAsTemplateCmd.label "قالب">
+<!ENTITY saveAsTemplateCmd.accesskey "ق">
+<!ENTITY sendNowCmd.label "أرسِل الآن">
+<!ENTITY sendCmd.keycode "VK_RETURN">
+<!ENTITY sendNowCmd.accesskey "ر">
+<!ENTITY sendLaterCmd.label "أرسِل لاحقًا">
+<!ENTITY sendLaterCmd.keycode "VK_RETURN">
+<!ENTITY sendLaterCmd.accesskey "ح">
+<!ENTITY printSetupCmd.label "إعداد الصفحة…">
+<!ENTITY printSetupCmd.accesskey "ع">
+<!ENTITY printCmd.label "اطبع…">
+<!ENTITY printCmd.key "ط">
+<!ENTITY printCmd.accesskey "ط">
+<!ENTITY quitApplicationCmdWin.label "اخرج">
+<!ENTITY quitApplicationCmdWin.accesskey "خ">
+<!ENTITY quitApplicationCmd.label "أغلق">
+<!ENTITY quitApplicationCmd.accesskey "غ">
+<!ENTITY quitApplicationCmd.key "غ">
+<!-- Edit Menu -->
+
+<!ENTITY editMenu.label "تحرير">
+<!ENTITY editMenu.accesskey "ح">
+<!ENTITY undoCmd.label "تراجع">
+<!ENTITY undoCmd.key "ج">
+<!ENTITY undoCmd.accesskey "ر">
+<!ENTITY redoCmd.label "أعِد">
+<!ENTITY redoCmd.key "ع">
+<!ENTITY redoCmd.accesskey "ع">
+<!ENTITY cutCmd.label "قص">
+<!ENTITY cutCmd.key "ص">
+<!ENTITY cutCmd.accesskey "ق">
+<!ENTITY copyCmd.label "انسخ">
+<!ENTITY copyCmd.key "خ">
+<!ENTITY copyCmd.accesskey "ن">
+<!ENTITY pasteCmd.label "ألصق">
+<!ENTITY pasteCmd.key "ق">
+<!ENTITY pasteCmd.accesskey "ل">
+<!ENTITY pasteNoFormattingCmd.key "ق">
+<!ENTITY editRewrapCmd.label "أعد التسطير">
+<!ENTITY editRewrapCmd.key "ط">
+<!ENTITY editRewrapCmd.accesskey "ع">
+<!ENTITY deleteCmd.label "احذف">
+<!ENTITY deleteCmd.accesskey "ح">
+<!ENTITY selectAllCmd.label "اختر الكل">
+<!ENTITY selectAllCmd.key "ك">
+<!ENTITY selectAllCmd.accesskey "ك">
+<!ENTITY findCmd.label "ابحث و استبدل…">
+<!ENTITY findCmd.key "ث">
+<!ENTITY findCmd.accesskey "ب">
+<!ENTITY findAgainCmd.label "ابحث مرة أخرى">
+<!ENTITY findAgainCmd.key "م">
+<!ENTITY findAgainCmd.accesskey "م">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "ابحث عن السابق">
+<!ENTITY findPrevCmd.key "س">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.accesskey "ع">
+<!-- View Menu -->
+
+<!ENTITY viewMenu.label "عرض">
+<!ENTITY viewMenu.accesskey "ع">
+<!ENTITY viewToolbarsMenuNew.label "أشرطة الأدوات">
+<!ENTITY viewToolbarsMenuNew.accesskey "ش">
+<!ENTITY showCompositionToolbarCmd.label "شريط أدوات الإنشاء">
+<!ENTITY showFormattingBarCmd.label "شريط التنسيق">
+<!ENTITY showFormattingBarCmd.accesskey "ت">
+<!ENTITY showTaskbarCmd.label "شريط الحالة">
+<!ENTITY showTaskbarCmd.accesskey "ش">
+<!ENTITY customizeToolbar.label "خصّص…">
+<!ENTITY customizeToolbar.accesskey "خ">
+
+<!ENTITY addressSidebar.label "شريط المراسَلون الجانبي">
+<!ENTITY addressSidebar.accesskey "م">
+<!-- Format Menu -->
+
+<!ENTITY formatMenu.label "التنسيق">
+<!ENTITY formatMenu.accesskey "ت">
+<!-- Options Menu -->
+
+<!ENTITY optionsMenu.label "الخيارات">
+<!ENTITY optionsMenu.accesskey "خ">
+<!ENTITY checkSpellingCmd.label "دقِّق الإملاء…">
+<!ENTITY checkSpellingCmd.key "ء">
+<!ENTITY checkSpellingCmd.key2 "VK_F7">
+<!ENTITY checkSpellingCmd.accesskey "د">
+<!ENTITY enableInlineSpellChecker.label "دقق الإملاء أثناء الكتابة">
+<!ENTITY enableInlineSpellChecker.accesskey "د">
+<!ENTITY quoteCmd.label "اقتبس الرسالة">
+<!ENTITY quoteCmd.accesskey "ر">
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
+
+<!ENTITY attachVCard.label "أرفق بطاقة شخصية (vCard)">
+<!ENTITY attachVCard.accesskey "v">
+
+<!ENTITY returnReceiptMenu.label "مستلم الرد">
+<!ENTITY returnReceiptMenu.accesskey "ر">
+<!ENTITY dsnMenu.label "تنبيه حالة الاستلام">
+<!ENTITY dsnMenu.accesskey "ه">
+<!ENTITY outputFormatMenu.label "التنسيق">
+<!ENTITY outputFormatMenu.accesskey "ت">
+<!ENTITY autoFormatCmd.label "تعرّف تلقائيّا">
+<!ENTITY autoFormatCmd.accesskey "ع">
+<!ENTITY plainTextFormatCmd.label "نص صِرْف فقط">
+<!ENTITY plainTextFormatCmd.accesskey "ن">
+<!ENTITY htmlFormatCmd.label "نص غني (HTML) فقط">
+<!ENTITY htmlFormatCmd.accesskey "غ">
+<!ENTITY bothFormatCmd.label "نص صِرْف وغني (HTML)">
+<!ENTITY bothFormatCmd.accesskey "ن">
+<!ENTITY priorityMenu.label "الأولويّة">
+<!ENTITY priorityMenu.accesskey "و">
+<!ENTITY priorityButton.label "الأولويّة:">
+<!ENTITY lowestPriorityCmd.label "الدنيا">
+<!ENTITY lowestPriorityCmd.accesskey "د">
+<!ENTITY lowPriorityCmd.label "منخفضة">
+<!ENTITY lowPriorityCmd.accesskey "م">
+<!ENTITY normalPriorityCmd.label "عادية">
+<!ENTITY normalPriorityCmd.accesskey "ع">
+<!ENTITY highPriorityCmd.label "مرتفعة">
+<!ENTITY highPriorityCmd.accesskey "ر">
+<!ENTITY highestPriorityCmd.label "العليا">
+<!ENTITY highestPriorityCmd.accesskey "ع">
+<!ENTITY fileCarbonCopyCmd.label "أرسِل نسخة إلى">
+<!ENTITY fileCarbonCopyCmd.accesskey "ر">
+<!ENTITY fileHereMenu.label "ملف هنا">
+<!-- Tools Menu -->
+
+<!ENTITY tasksMenu.label "أدوات">
+<!ENTITY tasksMenu.accesskey "د">
+<!ENTITY messengerCmd.label "البريد و مجموعات الأخبار">
+<!ENTITY messengerCmd.accesskey "ب">
+<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY addressBookCmd.label "دفتر العناوين ">
+<!ENTITY addressBookCmd.accesskey "د">
+<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY accountManagerCmd.label "إعدادات الحساب…">
+<!ENTITY accountManagerCmd.accesskey "ع">
+<!ENTITY accountManagerCmdUnix.accesskey "ع">
+<!ENTITY preferencesCmd.label "الخيارات…">
+<!ENTITY preferencesCmd.accesskey "خ">
+<!ENTITY preferencesCmdUnix.label "التفضيلات">
+<!ENTITY preferencesCmdUnix.accesskey "ف">
+<!--  Mac OS X Window Menu -->
+
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "صغّر">
+<!ENTITY bringAllToFront.label "اجلب الكل للمقدمة">
+<!ENTITY zoomWindow.label "قرّب">
+<!ENTITY windowMenu.label "نافذة">
+<!-- Mail Toolbar -->
+
+<!ENTITY sendButton.label "أرسِل">
+<!ENTITY quoteButton.label "اقتبس">
+<!ENTITY addressButton.label "المراسَلون">
+<!ENTITY attachButton.label "أرفق">
+<!ENTITY spellingButton.label "الإملاء">
+<!ENTITY saveButton.label "احفظ">
+<!ENTITY throbberItem.title "مُوضح النشاط">
+<!-- Mail Toolbar Tooltips -->
+
+<!ENTITY sendButton.tooltip "أرسِل هذه الرسالة الآن">
+<!ENTITY sendlaterButton.tooltip "أرسِل هذه الرسالة لاحقًا">
+<!ENTITY quoteButton.tooltip "اقتبس الرسالة السابقة">
+<!ENTITY addressButton.tooltip "اختر مستلمًا من دفتر العناوين">
+<!ENTITY attachButton.tooltip "أرفق مُرفق">
+<!ENTITY saveButton.tooltip "احفظ هذه الرسالة">
+<!ENTITY cutButton.tooltip "قص">
+<!ENTITY copyButton.tooltip "انسخ">
+<!ENTITY pasteButton.tooltip "ألصق">
+<!-- Headers -->
+
+<!ENTITY fromAddr.label "مِن:">
+<!ENTITY fromAddr.accesskey "م">
+<!ENTITY toAddr.label "إلى:">
+<!ENTITY ccAddr.label "ن.ك:">
+<!ENTITY bccAddr.label "ن.ك.م:">
+<!ENTITY replyAddr.label "رد إلى:">
+<!ENTITY newsgroupsAddr.label "مجموعة أخبار:">
+<!ENTITY followupAddr.label "تابع إلى:">
+<!ENTITY subject.label "الموضوع:">
+<!ENTITY subject.accesskey "م">
+<!ENTITY attachments.label "المرفقات:">
+<!ENTITY attachments.accesskey "ر">
+<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
+
+<!ENTITY SmileButton.tooltip "أدرج وجه مبتسم">
+<!ENTITY smiley1Cmd.label "ابتسامة">
+<!ENTITY smiley2Cmd.label "تجهم">
+<!ENTITY smiley3Cmd.label "غمزة">
+<!ENTITY smiley4Cmd.label "ممدود اللسان">
+<!ENTITY smiley5Cmd.label "يضحك">
+<!ENTITY smiley6Cmd.label "مُحرَج">
+<!ENTITY smiley7Cmd.label "متردد">
+<!ENTITY smiley8Cmd.label "متفاجئ">
+<!ENTITY smiley9Cmd.label "قبلة">
+<!ENTITY smiley10Cmd.label "صيحة">
+<!ENTITY smiley11Cmd.label "هادئ">
+<!ENTITY smiley12Cmd.label "فم نقود">
+<!ENTITY smiley13Cmd.label "قدم في الفم">
+<!ENTITY smiley14Cmd.label "بريء">
+<!ENTITY smiley15Cmd.label "بكاء">
+<!ENTITY smiley16Cmd.label "شفاه حمراء">
+<!-- Message Pane Context Menu -->
+
+<!ENTITY spellCheckNoSuggestions.label "لم يُعثر على اقتراحات">
+<!ENTITY spellCheckIgnoreWord.label "تجاهل الكلمة">
+<!ENTITY spellCheckIgnoreWord.accesskey "ج">
+<!ENTITY spellCheckAddToDictionary.label "أضِف إلى المعجم">
+<!ENTITY spellCheckAddToDictionary.accesskey "n">
+<!ENTITY undo.label "تراجع">
+<!ENTITY undo.accesskey "ر">
+<!ENTITY cut.label "قص">
+<!ENTITY cut.accesskey "ق">
+<!ENTITY copy.label "انسخ">
+<!ENTITY copy.accesskey "ن">
+<!ENTITY paste.label "ألصق">
+<!ENTITY paste.accesskey "ل">
+<!ENTITY pasteQuote.label "ألصق كاقتباس">
+<!ENTITY pasteQuote.accesskey "ق">
+
+<!ENTITY openAttachment.label "افتح">
+<!ENTITY openAttachment.accesskey "ف">
+<!ENTITY delete.label "احذف">
+<!ENTITY delete.accesskey "ح">
+<!ENTITY renameAttachment.label "أعِد تسمية...">
+<!ENTITY renameAttachment.accesskey "ة">
+<!ENTITY selectAll.label "اختر الكل">
+<!ENTITY selectAll.accesskey "ك">
+<!ENTITY attachFile.label "أرفق الملفات…">
+<!ENTITY attachFile.accesskey "م">
+<!ENTITY attachPage.label "أرفق صفحة وِب…">
+<!ENTITY attachPage.accesskey "ص">
+<!-- Title for the address picker panel -->
+
+<!ENTITY addressesSidebarTitle.label "المراسَلون">
+

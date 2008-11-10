@@ -1,0 +1,11 @@
+<!ENTITY notificationsDialog2.title "خصص تنويهات البريد الجديد">
+<!ENTITY window.width "30em">
+
+<!ENTITY alertCustomization.intro "اختر أي الحقول تظهر في التنويه:">
+<!ENTITY previewText.label "معاينة الرسالة">
+<!ENTITY previewText.accesskey "ر">
+<!ENTITY subject.label "الموضوع">
+<!ENTITY subject.accesskey "و">
+<!ENTITY sender.label "المُرسِل">
+<!ENTITY sender.accesskey "ل">
+

@@ -1,0 +1,29 @@
+<!ENTITY window.title "مرشِّحات الرسائِل">
+<!ENTITY nameColumn.label "اسم المرشِّح">
+<!ENTITY activeColumn.label "مُفعّل">
+<!ENTITY newButton.label "جديد…">
+<!ENTITY newButton.accesskey "ج">
+<!ENTITY editButton.label "حرر…">
+<!ENTITY editButton.accesskey "ح">
+<!ENTITY deleteButton.label "احذف">
+<!ENTITY deleteButton.accesskey "ح">
+<!ENTITY reorderUpButton.label "انقل لأعلى">
+<!ENTITY reorderUpButton.accesskey "ع">
+<!ENTITY reorderDownButton.label "انقل لأسفل">
+<!ENTITY reorderDownButton.accesskey "س">
+<!ENTITY filterHeader.label "تُشغّل المرشحات تلقائيًّا حسب التّرتيب الظّاهر أدناه.">
+<!ENTITY filtersForPrefix.label "مرشّحات لأجل:">
+<!ENTITY filtersForPrefix.accesskey "م">
+<!ENTITY viewLogButton.label "سجل المرشّح">
+<!ENTITY viewLogButton.accesskey "س">
+<!ENTITY runFilters.label "شغّل الآن">
+<!ENTITY runFilters.accesskey "ش">
+<!ENTITY stopFilters.label "قف">
+<!ENTITY stopFilters.accesskey "ق">
+<!ENTITY folderPickerPrefix.label "شغّل المرشّح(ات) المختار(ة) على:">
+<!ENTITY folderPickerPrefix.accesskey "م">
+<!ENTITY choosethis.label "اختر هذا الدليل">
+<!ENTITY choosethisnewsserver.label "اختر خادوم الأخبار هذا">
+<!ENTITY helpButton.label "مساعدة">
+<!ENTITY helpButton.accesskey "م">
+<!ENTITY closeCmd.key "W">

@@ -1,0 +1,20 @@
+<!ENTITY emailSectionHdr.label "البريد">
+<!ENTITY readMsgsLink.label "الرسائل المقروءة">
+<!ENTITY composeMsgLink.label "اكتب رسالة جديدة">
+
+<!ENTITY newsSectionHdr.label "مجموعات الأخبار">
+<!ENTITY subscribeNewsLink.label "أدر اشتراكات مجموعات الأخبار">
+
+<!ENTITY accountsSectionHdr.label "الحسابات">
+<!ENTITY subscribeImapFolders.label "أدر اشتراكات الأدلة">
+<!ENTITY settingsLink.label "اعرض إعدادات هذا الحساب">
+<!ENTITY newAcctLink.label "أنشئ حسابا جديدا">
+
+<!ENTITY advFeaturesSectionHdr.label "الميزات المتقدمة">
+<!ENTITY searchMsgsLink.label "ابحث في الرسائل">
+<!ENTITY filtersLink.label "أدر مرشِّحات الرسائل">
+<!ENTITY junkSettings.label "إعدادات السخام">
+<!ENTITY offlineLink.label "إعدادات طور اللااتصال">
+
+<!ENTITY rssSectionHdr.label "تلقيمات المدونات و الأخبار">
+<!ENTITY subscibeRSS.label "أدر الاشتراكات">

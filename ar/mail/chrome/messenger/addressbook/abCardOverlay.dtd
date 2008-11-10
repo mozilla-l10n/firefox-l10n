@@ -1,0 +1,158 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY Contact.tab "المتواصل">
+<!ENTITY Contact.accesskey "ص">
+<!ENTITY Name.box "الاسم">
+<!-- LOCALIZATION NOTE:
+ NameField1, NameField2, PhoneticField1, PhoneticField2
+ those fields are either LN or FN depends on the target country.
+ "FirstName" and "LastName" can be swapped for id to change the order
+ but they should not be translated (same applied to phonetic id).
+ Make sure the translation of label corresponds to the order of id.
+-->
+<!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+
+
+<!ENTITY NameField1.id "FirstName">
+<!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id "LastName">
+<!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id "PhoneticFirstName">
+<!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id "PhoneticLastName">
+
+<!ENTITY NameField1.label "الأوّل:">
+<!ENTITY NameField1.accesskey "و">
+<!ENTITY NameField2.label "الأخير:">
+<!ENTITY NameField2.accesskey "خ">
+<!ENTITY PhoneticField1.label "صوتي:">
+<!ENTITY PhoneticField2.label "صوتي:">
+<!ENTITY DisplayName.label "العرض:">
+<!ENTITY DisplayName.accesskey "ع">
+<!ENTITY NickName.label "الكنية:">
+<!ENTITY NickName.accesskey "ك">
+
+<!ENTITY Internet.box "الإنترنت">
+<!ENTITY PrimaryEmail.label "البريد:">
+<!ENTITY PrimaryEmail.accesskey "ب">
+<!ENTITY SecondEmail.label "البريد الإضافي:">
+<!ENTITY SecondEmail.accesskey "ض">
+<!ENTITY PreferMailFormat.label "يفضل استقبال الرسائل المنسقة ك‍:">
+<!ENTITY PreferMailFormat.accesskey "ف">
+<!ENTITY PlainText.label "نص صرف">
+<!ENTITY HTML.label "HTML">
+<!ENTITY Unknown.label "مجهول">
+<!ENTITY ScreenName.label "اسم الشاشة:">
+<!ENTITY ScreenName.accesskey "س">
+
+<!ENTITY allowRemoteContent.label "اسمح بالصور البعيدة في بريد HTML.">
+<!ENTITY allowRemoteContent.accesskey "ص">
+<!ENTITY allowRemoteContent.tooltip     "من الممكن تضمين الصور ذات 
+المصادر البعيدة في رسائل HTML. عند فتح هكذا رسائل، 
+سيُفتح اتصال مع ذلك المصدر الخارجي. قد يسمح هذا 
+بتعقب الرسالى التي تُقرأ. سيسمح التأشير على هذا الصندوق 
+بالصور الخارجية المضمنة في رسائل HTML القادمة من هذا المتواصل.">
+
+<!ENTITY WorkPhone.label "العمل:">
+<!ENTITY WorkPhone.accesskey "ع">
+<!ENTITY HomePhone.label "المنزل">
+<!ENTITY HomePhone.accesskey "م">
+<!ENTITY FaxNumber.label "الفاكس:">
+<!ENTITY FaxNumber.accesskey "ف">
+<!ENTITY PagerNumber.label "جهاز الاستدعاء">
+<!ENTITY PagerNumber.accesskey "ج">
+<!ENTITY CellularNumber.label "المحمول:">
+<!ENTITY CellularNumber.accesskey "م">
+
+<!ENTITY Home.tab                       "خاص">
+<!ENTITY Home.accesskey                 "خ">
+<!ENTITY HomeAddress.label "العنوان:">
+<!ENTITY HomeAddress.accesskey "ن">
+<!ENTITY HomeAddress2.label "">
+<!ENTITY HomeAddress2.accesskey "">
+<!ENTITY HomeCity.label "المدينة:">
+<!ENTITY HomeCity.accesskey "ة">
+<!ENTITY HomeState.label "الولاية/المحافظة:">
+<!ENTITY HomeState.accesskey "و">
+<!ENTITY HomeZipCode.label "الرمز البريدي:">
+<!ENTITY HomeZipCode.accesskey "ي">
+<!ENTITY HomeCountry.label "الدولة:">
+<!ENTITY HomeCountry.accesskey "ل">
+<!ENTITY HomeWebPage.label "صفحة الوِب:">
+<!ENTITY HomeWebPage.accesskey "ب">
+
+<!ENTITY Work.tab                       "العمل">
+<!ENTITY Work.accesskey                 "ع">
+<!ENTITY JobTitle.label "العنوان:">
+<!ENTITY JobTitle.accesskey "ا">
+<!ENTITY Department.label "القِسْم:">
+<!ENTITY Department.accesskey "س">
+<!ENTITY Company.label "المنظّمة:">
+<!ENTITY Company.accesskey "ظ">
+<!ENTITY WorkAddress.label "العنوان:">
+<!ENTITY WorkAddress.accesskey "ل">
+<!ENTITY WorkAddress2.label "">
+<!ENTITY WorkAddress2.accesskey "">
+<!ENTITY WorkCity.label "المدينة:">
+<!ENTITY WorkCity.accesskey "د">
+<!ENTITY WorkState.label "الولاية/المحافظة:">
+<!ENTITY WorkState.accesskey "ح">
+<!ENTITY WorkZipCode.label "الرمز البريدي:">
+<!ENTITY WorkZipCode.accesskey "ز">
+<!ENTITY WorkCountry.label "الدولة:">
+<!ENTITY WorkCountry.accesskey "ة">
+<!ENTITY WorkWebPage.label "صفحة الوِب:">
+<!ENTITY WorkWebPage.accesskey "ص">
+
+<!ENTITY Other.tab "أُخرى">
+<!ENTITY Other.accesskey "ى">
+<!ENTITY Birthday.label "تاريخ الميلاد:">
+<!ENTITY Birthday.accesskey "خ">
+<!ENTITY Year.emptytext "السنة">
+<!ENTITY Or.value "أو">
+<!ENTITY Age.emptytext "العمر">
+<!ENTITY Custom1.label "مخصّص 1:">
+<!ENTITY Custom1.accesskey "1">
+<!ENTITY Custom2.label "مخصّص 2:">
+<!ENTITY Custom2.accesskey "2">
+<!ENTITY Custom3.label "مخصّص 3:">
+<!ENTITY Custom3.accesskey "3">
+<!ENTITY Custom4.label "مخصّص 4:">
+<!ENTITY Custom4.accesskey "4">
+<!ENTITY Notes.label                    "المذكّرات:">
+<!ENTITY Notes.accesskey "م">

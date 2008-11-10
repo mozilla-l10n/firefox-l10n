@@ -1,0 +1,72 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label "ابحث عن الرّسائل في:">
+<!ENTITY searchHeading.accesskey "ث">
+<!ENTITY searchSubfolders.label "ابحث في الأدلة الفرعيّة">
+<!ENTITY searchSubfolders.accesskey "ب">
+<!ENTITY resetButton.label "امسح">
+<!ENTITY resetButton.accesskey "م">
+<!ENTITY openButton.label "افتح">
+<!ENTITY openButton.accesskey "ف">
+<!ENTITY deleteButton.label "احذف">
+<!ENTITY deleteButton.accesskey "ف">
+<!ENTITY searchDialogTitle.label "ابحث في الرّسائل">
+<!ENTITY results.label "النّتائج">
+<!ENTITY fileHereMenu.label "أرشف هنا">
+<!ENTITY fileHereMenu.accesskey "ه">
+<!ENTITY fileButton.label "أرشِف">
+<!ENTITY fileButton.accesskey "ش">
+<!ENTITY closeCmd.key "W">
+<!ENTITY goToFolderButton.label "افتح دليل الرّسائل">
+<!ENTITY goToFolderButton.accesskey "r">
+<!ENTITY saveAsVFButton.label "احفظ كدليل بحث">
+<!ENTITY saveAsVFButton.accesskey "ح">
+<!-- for ABSearchDialog.xul -->
+
+<!ENTITY abSearchHeading.label "ابحث في:">
+<!ENTITY abSearchHeading.accesskey "ث">
+<!ENTITY propertiesButton.label "الخصائص">
+<!ENTITY propertiesButton.accesskey "خ">
+<!ENTITY composeButton.label "اكتب">
+<!ENTITY composeButton.accesskey "ك">
+<!ENTITY abSearchDialogTitle.label "بحث متقدّم في دفتر العناوين">
+<!-- Thread Pane -->
+
+<!ENTITY threadColumn.label "نقاش">
+<!ENTITY fromColumn.label "من">
+<!ENTITY recipientColumn.label "المُستلِم">
+<!ENTITY subjectColumn.label "الموضوع">
+<!ENTITY dateColumn.label "التّاريخ">
+<!ENTITY priorityColumn.label "الأولويّة">
+<!ENTITY tagsColumn.label "الوسوم">
+<!ENTITY accountColumn.label "الحساب">
+<!ENTITY statusColumn.label "الحالة">
+<!ENTITY sizeColumn.label "الحجم">
+<!ENTITY junkStatusColumn.label "حالة السخام">
+<!ENTITY unreadColumn.label "غير مقروء">
+<!ENTITY totalColumn.label "المجموع">
+<!ENTITY readColumn.label "مقروء">
+<!ENTITY receivedColumn.label "مستَلَم">
+<!ENTITY starredColumn.label "مُنجَّم">
+<!ENTITY locationColumn.label "الموقع">
+<!ENTITY idColumn.label "ترتيب الوصول">
+<!-- Thread Pane Tooltips -->
+
+<!ENTITY columnChooser.tooltip "انقر لتختر الأعمدة التي ستُعرض">
+<!ENTITY threadColumn.tooltip "انقر لعرض رسائل النقاشات">
+<!ENTITY fromColumn.tooltip "انقر للترتيب حسب المرسِل">
+<!ENTITY recipientColumn.tooltip "انقر لترتب حسب المُستلِم">
+<!ENTITY subjectColumn.tooltip "انقر لترتب حسب الموضوع">
+<!ENTITY dateColumn.tooltip "انقر لترتب حسب التاريخ">
+<!ENTITY priorityColumn.tooltip "انقر لترتب حسب الأولوية">
+<!ENTITY tagsColumn.tooltip "انقر لترتب حسب الوسوم">
+<!ENTITY accountColumn.tooltip "انقر لترتب حسب الحساب">
+<!ENTITY statusColumn.tooltip "انقر لترتب حسب الحالة">
+<!ENTITY sizeColumn.tooltip "انقر لترتب حسب الحجم">
+<!ENTITY junkStatusColumn.tooltip "انقر لترتب حسب حالة السخام">
+<!ENTITY unreadColumn.tooltip "رقم الرسائل غير المقروءة في النقاش">
+<!ENTITY totalColumn.tooltip "العدد الكلِّي للرسائل في النقاش">
+<!ENTITY readColumn.tooltip "انقر لترتب حسب المقروء">
+<!ENTITY receivedColumn.tooltip "انقر للترتيب حسب تاريخ الاستلام">
+<!ENTITY starredColumn.tooltip "انقر لترتب حسب النجمة">
+<!ENTITY locationColumn.tooltip "انقر لترتب حسب الموضع">
+<!ENTITY idColumn.tooltip "انقر لترتب حسب ترتيب الاستلام">

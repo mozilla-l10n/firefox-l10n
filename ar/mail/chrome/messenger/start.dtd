@@ -1,0 +1,30 @@
+<!ENTITY startpage.welcome "مرحباً في &brandFullName;">
+<!ENTITY startpage.intro "&brandFullName; عميل أخبار وبريد قوي، مفتوح المصدر.">
+
+<!ENTITY startpage.features "الميزات">
+
+<!ENTITY startpage.junkControl "متحكمات سخام بريد تكيّفيّة">
+<!ENTITY startpage.rssReader "قارئ تلقيمات ">
+<!ENTITY startpage.globalInbox "دعم صندوق وارد موحد">
+<!ENTITY startpage.searchFolders "أدلة البحث المحفوظة">
+<!ENTITY startpage.messageGroups "تجميع الرسائل">
+<!ENTITY startpage.privacyProtect "حماية الخصوصية">
+
+<!ENTITY startpage.junkControlURL "http://www.mozilla.org/products/thunderbird/junkmail.html">
+<!ENTITY startpage.rssReaderURL "http://www.mozilla.org/products/thunderbird/rss.html">
+<!ENTITY startpage.globalInboxURL "http://www.mozilla.org/products/thunderbird/global-inbox.html">
+<!ENTITY startpage.searchFoldersURL "http://www.mozilla.org/products/thunderbird/search-folders.html">
+<!ENTITY startpage.messageGroupsURL "http://www.mozilla.org/products/thunderbird/message-grouping.html">
+<!ENTITY startpage.privacyProtectURL "http://www.mozilla.org/products/thunderbird/privacy-protection.html">
+
+<!ENTITY startpage.moreInfo "المزيد من المعلومات">
+
+<!ENTITY startpage.help "مساعدة ثندَربِرْد">
+<!ENTITY startpage.helpInfo "للأسئلة المتكررة والتلميحات والمساعدة العامة، زُر">
+<!ENTITY startpage.helpURL "http://www.mozilla.org/support/thunderbird/">
+
+<!ENTITY startpage.page "صفحة منتج ثندَربِرْد">
+<!ENTITY startpage.pageInfo "للمعلومات عن المنتج، زُر ">
+<!ENTITY startpage.pageURL "http://www.mozilla.org/products/thunderbird/">
+
+<!ENTITY startpage.extra "">

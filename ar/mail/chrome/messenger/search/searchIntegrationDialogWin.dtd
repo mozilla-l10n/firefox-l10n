@@ -1,0 +1,6 @@
+<!ENTITY searchIntegration.engineName "بحث النوافذ">
+<!ENTITY searchIntegration.title "تكامل &searchIntegration.engineName;">
+<!ENTITY searchIntegration.description "هل تريد تمكين &searchIntegration.engineName; من الفهرسة والبحث ضمن رسائل وأخبار&brandShortName;؟">
+
+<!ENTITY searchIntegration.accept "مَكِّن &searchIntegration.engineName;">
+<!ENTITY searchIntegration.cancel "لا تمكِّن &searchIntegration.engineName;">

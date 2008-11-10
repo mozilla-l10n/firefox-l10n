@@ -1,0 +1,40 @@
+<!ENTITY window.title "قواعد التّرشيح">
+
+<!ENTITY filterName.label "اسم المرشِّح:">
+<!ENTITY filterName.accesskey "ر">
+
+<!ENTITY junk.label "سخام">
+<!ENTITY notJunk.label "ليس سخاما">
+
+<!ENTITY lowestPriorityCmd.label "الدنيا">
+<!ENTITY lowPriorityCmd.label "قليلة">
+<!ENTITY normalPriorityCmd.label "عادية">
+<!ENTITY highPriorityCmd.label "عالية">
+<!ENTITY highestPriorityCmd.label "القصوى">
+
+<!ENTITY contextDesc.label "طبّق التصفية عند:">
+<!ENTITY contextDesc.accesskey "ع">
+<!ENTITY contextIncoming.label "فحص البريد">
+<!ENTITY contextManual.label "التشغيل اليدوي">
+<!ENTITY contextBoth.label "فحص البريد أو التشغيل اليدوي">
+<!ENTITY filterActionDesc.label "نفّذ الإجراءات التّالية:">
+<!ENTITY filterActionDesc.accesskey "ن">
+
+<!-- New Style Filter Rule Actions -->
+
+<!ENTITY moveMessage.label "انقل الرّسالة إلى">
+<!ENTITY copyMessage.label "انسخ الرّسالة إلى">
+<!ENTITY forwardTo.label "مرِّر الرّسالة إلى">
+<!ENTITY replyWithTemplate.label "رُد باستخدام قالب">
+<!ENTITY markMessageRead.label "أشِّر كمقروء">
+<!ENTITY markMessageStarred.label "أضِف نجمة">
+<!ENTITY setPriority.label "اجعل الأولويّة">
+<!ENTITY addTag.label "سِمْ الرّسالة">
+<!ENTITY setJunkScore.label "اجعل حالة السخام">
+<!ENTITY deleteMessage.label "احذف الرّسالة">
+<!ENTITY deleteFromPOP.label "احذف من خادوم POP">
+<!ENTITY fetchFromPOP.label "اجلب من خادوم POP">
+<!ENTITY ignoreThread.label "تجاهل النقاش">
+<!ENTITY ignoreSubthread.label "تجاهل النقاش الفرعي">
+<!ENTITY watchThread.label "راقب النقاش">
+<!ENTITY stopExecution.label "أوقِف تشغيل التصفية">

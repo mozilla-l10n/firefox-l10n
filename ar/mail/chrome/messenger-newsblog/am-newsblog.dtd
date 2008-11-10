@@ -1,0 +1,20 @@
+<!ENTITY newsblogTitle.label "إعدادات حساب تلقيمة">
+
+<!ENTITY biffStart.label "التمس المقالات الجديدة كلّ">
+<!ENTITY biffStart.accesskey "ت">
+<!ENTITY biffEnd.label "دقائق">
+
+<!ENTITY loginAtStartup.label "التمس المقالات الجديدة عند البدء">
+<!ENTITY loginAtStartup.accesskey "ت">
+
+<!ENTITY useQuickMode.label "مبدئيا، اعرض ملخص المقالة عوضا عن تحميل صفحة الوِب">
+<!ENTITY useQuickMode.accesskey "م">
+
+<!ENTITY manageSubscriptions.label "أدر الاشتراكات...">
+<!ENTITY manageSubscriptions.accesskey "د">
+<!-- entities from defaults/isp/rss.rdf -->
+
+<!ENTITY rss.accountName "أخبار و مدوّنات">
+<!ENTITY rss.wizardShortName "RSS">
+<!ENTITY rss.wizardLongName "تلقيمات أخبار ومدوّنات">
+<!ENTITY rss.wizardLongName.accesskey "R">

@@ -1,0 +1,589 @@
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1999-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Sammy Ford
+   -   Blake Ross
+   -   Ryan Cassin (rcassin@supernova.org)
+   -   Daniel Glazman (glazman@netscape.com)
+   -   Stephen Donner (technutz@netscape.net)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
+<!-- File menu items -->
+
+
+<!ENTITY fileMenu.label "ملف">
+<!ENTITY fileMenu.accesskey "م">
+<!ENTITY newBlankPageCmd.label "صفحة المحرر">
+<!ENTITY newBlankPageCmd.accesskey "ص">
+<!ENTITY newMenu.label "جديد">
+<!ENTITY openFileCmd.label "افتح ملفا…">
+<!ENTITY openFileCmd.accesskey "ف">
+<!ENTITY openFileCmd.key "O">
+<!ENTITY openRemoteCmd.label "افتح موقع وب…">
+<!ENTITY openRemoteCmd.accesskey "و">
+<!ENTITY openRemoteCmd.key "L">
+<!ENTITY fileRecentMenu.label "الصفحات الحديثة">
+<!ENTITY fileRecentMenu.accesskey "د">
+<!ENTITY fileRevert.label "استرجع">
+<!ENTITY fileRevert.accesskey "ع">
+<!ENTITY saveCmd.label "احفظ">
+<!ENTITY saveCmd.accesskey "ظ">
+<!ENTITY saveCmd.key "S">
+<!ENTITY saveAsCmd.label "احفظ باسم…">
+<!ENTITY saveAsCmd.accesskey "ا">
+
+<!ENTITY publishCmd.label "انشر">
+<!ENTITY publishCmd.accesskey "ن">
+<!ENTITY publishAsCmd.label "انشر باسم…">
+<!ENTITY publishAsCmd.accesskey "ش">
+<!ENTITY publishCmd.key "S">
+<!ENTITY exportToTextCmd.label "صدّر إلى نص صرف…">
+<!ENTITY exportToTextCmd.accesskey "ص">
+<!ENTITY saveAsChangeEncodingCmd.label "احفظ وغيّر ترميز المحارف">
+<!ENTITY saveAsChangeEncodingCmd.accesskey "ز">
+<!ENTITY previewCmd.label "تصفح الصفحة">
+<!ENTITY previewCmd.accesskey "ت">
+<!ENTITY sendPageCmd.label "أرسل الصفحة…">
+<!ENTITY sendPageCmd.accesskey "ل">
+<!ENTITY printSetupCmd.label "إعداد الصفحة …">
+<!ENTITY printSetupCmd.accesskey "ح">
+<!ENTITY printPreviewCmd.label "معاينة الطباعة">
+<!ENTITY printPreviewCmd.accesskey "ع">
+<!ENTITY printCmd.label "اطبع…">
+<!ENTITY printCmd.accesskey "ط">
+<!ENTITY printCmd.key "P">
+<!ENTITY printButtonCmd.label "اطبع…">
+<!ENTITY closeCmd.label "أغلق">
+<!ENTITY closeCmd.accesskey "غ">
+<!ENTITY closeCmd.key "W">
+<!-- Edit menu items -->
+
+<!ENTITY editMenu.label "تحرير">
+<!ENTITY editMenu.accesskey "ت">
+<!ENTITY pasteNoFormatting.label "ألصق بلا التنسيق">
+<!ENTITY pasteNoFormatting.accesskey "ب">
+<!ENTITY pasteNoFormatting.key "V">
+<!ENTITY pasteAs.label "ألصق على هيئة…">
+<!ENTITY pasteAs.accesskey "ك">
+<!ENTITY publishSettings.label "إعدادات موقع النشر…">
+<!ENTITY publishSettings.accesskey "ع">
+<!-- For a "Paste" submenu when more than 1 
+     clipboard formats are available -->
+
+<!ENTITY pasteHTMLCmd.label "HTML">
+<!ENTITY pasteHTMLCmd.accesskey "H">
+<!ENTITY pasteTextCmd.label "نص">
+<!ENTITY pasteTextCmd.accesskey "ن">
+<!ENTITY pasteImageCmd.label "صورة">
+<!ENTITY pasteImageCmd.accesskey "ص">
+<!ENTITY pasteRowsCmd.label "صفوف">
+<!ENTITY pasteRowsCmd.accesskey "ف">
+<!ENTITY pasteColumnsCmd.label "أعمدة">
+<!ENTITY pasteColumnsCmd.accesskey "ع">
+<!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
+     Set to: "Table" or "Nested Table" depending on context 
+     This accesskey must be in both strings -->
+<!ENTITY pasteTableCmd.accesskey "ج">
+<!ENTITY pasteLinkCmd.label "رابط">
+<!ENTITY pasteLinkCmd.accesskey "ر">
+<!ENTITY pasteAsQuotationCmd.label "ألصق كاقتباس">
+<!ENTITY pasteAsQuotationCmd.accesskey "ت">
+<!ENTITY editStripQuotesCmd.label "انزع الاقتباسات">
+<!ENTITY editRewrapCmd.label "أعِد التسطير">
+<!ENTITY findCmd.label "ابحث و استبدل…">
+<!ENTITY findCmd.accesskey "ث">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.key2 "VK_F19">
+<!ENTITY findAgainCmd.label "ابحث ثانيا">
+<!ENTITY findAgainCmd.accesskey "ي">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "ابحث عن السابق">
+<!ENTITY findPrevCmd.accesskey "س">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY enableInlineSpellChecker.label "دقق الإملاء بينما تكتب">
+<!ENTITY enableInlineSpellChecker.accesskey "د">
+<!ENTITY checkSpellingCmd.label "دقِّق الإملاء">
+<!ENTITY checkSpellingCmd.accesskey "ء">
+<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY validateCmd.label "صدّق HTML">
+<!ENTITY validateCmd.accesskey "ص">
+<!ENTITY checkLinksCmd.label "افحص الروابط">
+<!-- View menu items -->
+
+<!ENTITY viewPageSource.label "مصدر الصفحة">
+<!ENTITY viewPageSource.accesskey "ص">
+<!ENTITY viewParagraphMarks.label "علامات الفقرات ">
+<!ENTITY viewParagraphMarks.accesskey "ع">
+<!-- Insert menu items -->
+
+<!ENTITY insertMenu.label "أدرج">
+<!ENTITY insertMenu.accesskey "د">
+<!ENTITY insertLinkCmd.label "رابط…">
+<!ENTITY insertLinkCmd.accesskey "و">
+<!ENTITY insertLinkCmd.key "l">
+<!ENTITY insertAnchorCmd.label "مربط مسمّى…">
+<!ENTITY insertAnchorCmd.accesskey "ر">
+<!ENTITY insertImageCmd.label "صورة…">
+<!ENTITY insertImageCmd.accesskey "ص">
+<!ENTITY insertImageMapCmd.label "خريطة صورة…">
+<!ENTITY insertHLineCmd.label "خط أفقي">
+<!ENTITY insertHLineCmd.accesskey "ف">
+<!ENTITY insertTableCmd.label "جدول…">
+<!ENTITY insertTableCmd.accesskey "ج">
+<!ENTITY insertFormMenu.label "استمارة">
+<!ENTITY insertFormMenu.accesskey "ت">
+<!ENTITY insertHTMLCmd.label "HTML…">
+<!ENTITY insertHTMLCmd.accesskey "h">
+<!ENTITY insertCharsCmd.label "محارف ورموز…">
+<!ENTITY insertCharsCmd.accesskey "ح">
+<!ENTITY insertBreakCmd.label "نهاية السطر">
+<!ENTITY insertBreakCmd.accesskey "ن">
+<!ENTITY insertBreakAllCmd.label "اقطع تحت الصور">
+<!ENTITY insertBreakAllCmd.accesskey "ق">
+<!-- Insert form menu items -->
+
+<!ENTITY insertFormCmd.label "عرّف استمارة…">
+<!ENTITY insertFormCmd.accesskey "ع">
+<!ENTITY insertInputTagCmd.label "حقل الاستمارة…">
+<!ENTITY insertInputTagCmd.accesskey "ق">
+<!ENTITY insertInputImageCmd.label "صورة الاستمارة…">
+<!ENTITY insertInputImageCmd.accesskey "ص">
+<!ENTITY insertTextAreaCmd.label "منطقة النص…">
+<!ENTITY insertTextAreaCmd.accesskey "ن">
+<!ENTITY insertSelectCmd.label "قائمة الاختيار…">
+<!ENTITY insertSelectCmd.accesskey "خ">
+<!ENTITY insertButtonCmd.label "عرّف زرا…">
+<!ENTITY insertButtonCmd.accesskey "ز">
+<!ENTITY insertLabelCmd.label "عرّف تسمية">
+<!ENTITY insertLabelCmd.accesskey "س">
+<!ENTITY insertFieldSetCmd.label "عرّف مجموعة حقول…">
+<!ENTITY insertFieldSetCmd.accesskey "ج">
+<!ENTITY insertIsIndexCmd.label "بحث الفهرس">
+<!ENTITY insertIsIndexCmd.accesskey "ه">
+<!-- Used just in context popup. -->
+
+<!ENTITY spellCheckNoSuggestions.label "(لا توجد اقتراحات)">
+<!ENTITY spellCheckIgnoreWord.label "تجاهل الكلمة">
+<!ENTITY spellCheckIgnoreWord.accesskey "ج">
+<!ENTITY spellCheckAddToDictionary.label "أضِف للمعجم">
+<!ENTITY spellCheckAddToDictionary.accesskey "ق">
+<!ENTITY createLinkCmd.label "أنشئ رابطا…">
+<!ENTITY createLinkCmd.accesskey "ش">
+<!ENTITY editLinkCmd.label "حرّر الرابط في محرر جديد">
+<!ENTITY editLinkCmd.accesskey "ص">
+<!-- (Toplevel Edit menu uses utilityOverlay) -->
+<!ENTITY undoCmd.label "تراجع">
+<!ENTITY undoCmd.accesskey "ت">
+<!ENTITY redoCmd.label "أعِد">
+<!ENTITY redoCmd.accesskey "د">
+<!ENTITY cutCmd.label "قص">
+<!ENTITY cutCmd.accesskey "ق">
+<!ENTITY copyCmd.label "انسخ">
+<!ENTITY copyCmd.accesskey "ن">
+<!ENTITY pasteCmd.label "ألصق">
+<!ENTITY pasteCmd.accesskey "ص">
+<!ENTITY deleteCmd.label "احذف">
+<!ENTITY deleteCmd.accesskey "ح">
+<!ENTITY clearCmd.label "امسح">
+<!ENTITY clearCmd.accesskey "م">
+<!ENTITY selectAllCmd.label "اختر الكل">
+<!ENTITY selectAllCmd.accesskey "ك">
+<!-- Font Face SubMenu -->
+
+<!ENTITY FontFaceSelect.tooltip "اختر خطا">
+<!ENTITY fontfaceMenu.label "الخط">
+<!ENTITY fontfaceMenu.accesskey "خ">
+<!ENTITY fontVarWidth.label "متغير العرض">
+<!ENTITY fontVarWidth.accesskey "م">
+<!ENTITY fontFixedWidth.label "ثابت العرض">
+<!ENTITY fontFixedWidth.accesskey "ث">
+<!ENTITY fontFixedWidth.key "T">
+<!ENTITY fontHelvetica.label "Helvetica, Arial">
+<!ENTITY fontHelvetica.accesskey "l">
+<!ENTITY fontTimes.label "Times">
+<!ENTITY fontTimes.accesskey "t">
+<!ENTITY fontCourier.label "Courier">
+<!ENTITY fontCourier.accesskey "c">
+<!ENTITY localfontfaceMenu.label "الخطوط المحلية">
+<!ENTITY localfontfaceMenu.accesskey "م">
+<!-- Font Size SubMenu -->
+
+<!ENTITY FontSizeSelect.tooltip "اختر حجم الخط">
+<!ENTITY decreaseFontSize.label "أصغر">
+<!ENTITY decreaseFontSize.accesskey "ر">
+<!ENTITY decreaseFontSize.key "-">
+<!ENTITY increaseFontSize.label "أكبر">
+<!ENTITY increaseFontSize.accesskey "ك">
+<!ENTITY increaseFontSize.key "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY increaseFontSize.key2 "=">
+
+<!ENTITY fontSizeMenu.label "الحجم">
+<!ENTITY fontSizeMenu.accesskey "ج">
+<!ENTITY size-xx-smallCmd.label "صغير جدا جدا">
+<!ENTITY size-xx-smallCmd.accesskey "د">
+<!ENTITY size-x-smallCmd.label "صغير جدا">
+<!ENTITY size-x-smallCmd.accesskey "ج">
+<!ENTITY size-smallCmd.label "صغير ">
+<!ENTITY size-smallCmd.accesskey "ص">
+<!ENTITY size-mediumCmd.label "متوسط ">
+<!ENTITY size-mediumCmd.accesskey "ط">
+<!ENTITY size-largeCmd.label "كبير">
+<!ENTITY size-largeCmd.accesskey "ك">
+<!ENTITY size-x-largeCmd.label "كبير جدا">
+<!ENTITY size-x-largeCmd.accesskey "ب">
+<!ENTITY size-xx-largeCmd.label "كبير جدا جدا">
+<!ENTITY size-xx-largeCmd.accesskey "ي">
+<!-- Font Style SubMenu -->
+
+<!ENTITY fontStyleMenu.label "طراز النص">
+<!ENTITY fontStyleMenu.accesskey "ط">
+<!ENTITY styleBoldCmd.label "عريض">
+<!ENTITY styleBoldCmd.accesskey "ع">
+<!ENTITY styleBoldCmd.key "b">
+<!ENTITY styleItalicCmd.label "مائل">
+<!ENTITY styleItalicCmd.accesskey "م">
+<!ENTITY styleItalicCmd.key "i">
+<!ENTITY styleUnderlineCmd.label "مُسطّر">
+<!ENTITY styleUnderlineCmd.accesskey "م">
+<!ENTITY styleUnderlineCmd.key "u">
+<!ENTITY styleStrikeThruCmd.label "مشطوب">
+<!ENTITY styleStrikeThruCmd.accesskey "ش">
+<!ENTITY styleSuperscriptCmd.label "مرتفع">
+<!ENTITY styleSuperscriptCmd.accesskey "ت">
+<!ENTITY styleSubscriptCmd.label "منخفض">
+<!ENTITY styleSubscriptCmd.accesskey "خ">
+<!ENTITY styleNonbreakingCmd.label "بدون انقطاع">
+<!ENTITY styleNonbreakingCmd.accesskey "ن">
+<!ENTITY styleEm.label "تأكيد">
+<!ENTITY styleEm.accesskey "ت">
+<!ENTITY styleStrong.label "تأكيد أقوى">
+<!ENTITY styleStrong.accesskey "ق">
+<!ENTITY styleCite.label "اقتباس">
+<!ENTITY styleCite.accesskey "س">
+<!ENTITY styleAbbr.label "اختصار">
+<!ENTITY styleAbbr.accesskey "خ">
+<!ENTITY styleAcronym.label "لفظة أوائلية">
+<!ENTITY styleAcronym.accesskey "و">
+<!ENTITY styleCode.label "رمز">
+<!ENTITY styleCode.accesskey "ر">
+<!ENTITY styleSamp.label "عينة خرْج">
+<!ENTITY styleSamp.accesskey "ع">
+<!ENTITY styleVar.label "متغير">
+<!ENTITY styleVar.accesskey "م">
+
+<!ENTITY formatFontColor.label "لون الخط…">
+<!ENTITY formatFontColor.accesskey "ن">
+<!ENTITY tableOrCellColor.label "لون خلفية الجدول أو الخلية…">
+<!ENTITY tableOrCellColor.accesskey "خ">
+
+<!ENTITY formatRemoveStyles.key "Y">
+<!ENTITY formatRemoveLinks.key "K">
+<!ENTITY formatRemoveNamedAnchors.label "أزل المرابط المسماة">
+<!ENTITY formatRemoveNamedAnchors.accesskey "ز">
+<!ENTITY formatRemoveNamedAnchors.key "A">
+
+<!ENTITY paragraphMenu.label "فقرة">
+<!ENTITY paragraphMenu.accesskey "ة">
+<!ENTITY paragraphParagraphCmd.label "فقرة">
+<!ENTITY paragraphParagraphCmd.accesskey "ف">
+<!ENTITY heading1Cmd.label "رأس 1">
+<!ENTITY heading1Cmd.accesskey "1">
+<!ENTITY heading2Cmd.label "رأس 2">
+<!ENTITY heading2Cmd.accesskey "2">
+<!ENTITY heading3Cmd.label "رأس 3">
+<!ENTITY heading3Cmd.accesskey "3">
+<!ENTITY heading4Cmd.label "رأس 4">
+<!ENTITY heading4Cmd.accesskey "4">
+<!ENTITY heading5Cmd.label "رأس 5">
+<!ENTITY heading5Cmd.accesskey "5">
+<!ENTITY heading6Cmd.label "رأس 6">
+<!ENTITY heading6Cmd.accesskey "6">
+<!ENTITY paragraphAddressCmd.label "عنوان">
+<!ENTITY paragraphAddressCmd.accesskey "ع">
+<!ENTITY paragraphPreformatCmd.label "قبل التنسيق">
+<!ENTITY paragraphPreformatCmd.accesskey "ق">
+<!-- List menu items -->
+
+<!ENTITY formatlistMenu.label "قائمة">
+<!ENTITY formatlistMenu.accesskey "ق">
+<!ENTITY noneCmd.label "لا شيء">
+<!ENTITY noneCmd.accesskey "ش">
+<!ENTITY listBulletCmd.label "منقوط">
+<!ENTITY listBulletCmd.accesskey "ن">
+<!ENTITY listNumberedCmd.label "مرقّم ">
+<!ENTITY listNumberedCmd.accesskey "م">
+<!ENTITY listTermCmd.label "مصطلح">
+<!ENTITY listTermCmd.accesskey "ص">
+<!ENTITY listDefinitionCmd.label "تعريف">
+<!ENTITY listDefinitionCmd.accesskey "ع">
+<!ENTITY listPropsCmd.label "خصائص القائمة…">
+<!ENTITY listPropsCmd.accesskey "خ">
+
+<!ENTITY ParagraphSelect.tooltip "اختر تنسيق الفقرة">
+<!-- Shared in Paragraph, and Toolbar menulist -->
+<!ENTITY bodyTextCmd.label "نص المتن">
+<!ENTITY bodyTextCmd.accesskey "ن">
+<!-- isn't used in menu now, but may be added in future -->
+<!ENTITY advancedPropertiesCmd.label "خصائص متقدمة">
+<!ENTITY advancedPropertiesCmd.accesskey "د">
+
+<!ENTITY NormalAbbr.label "ن">
+<!ENTITY ParagraphAbbr.label "ف">
+<!ENTITY Heading1Abbr.label "ر1">
+<!ENTITY Heading2Abbr.label "ر2">
+<!ENTITY Heading3Abbr.label "ر3">
+<!ENTITY Heading4Abbr.label "ر4">
+<!ENTITY Heading5Abbr.label "ر5">
+<!ENTITY Heading6Abbr.label "ر6">
+<!ENTITY BlockquoteAbbr.label "اف">
+<!ENTITY AddressAbbr.label "عنوان">
+<!ENTITY PreformatAbbr.label "قبل.">
+<!-- Style Sheet submenu NOT IMPLEMENTED -->
+
+<!-- Align menu items -->
+
+<!ENTITY alignMenu.label "حاذِ">
+<!ENTITY alignMenu.accesskey "ح">
+<!ENTITY alignLeft.label "يسارا">
+<!ENTITY alignLeft.accesskey "ي">
+<!ENTITY alignLeft.tooltip "حاذِ يسارا">
+<!ENTITY alignCenter.label "وسطا">
+<!ENTITY alignCenter.accesskey "و">
+<!ENTITY alignCenter.tooltip "حاذِ للمنتصف">
+<!ENTITY alignRight.label "يمينا">
+<!ENTITY alignRight.accesskey "م">
+<!ENTITY alignRight.tooltip "حاذِ يمينا">
+<!ENTITY alignJustify.label "ساوِ">
+<!ENTITY alignJustify.accesskey "س">
+<!ENTITY alignJustify.tooltip "حاذِ مساوى">
+<!-- Layer toolbar items -->
+
+<!ENTITY layer.tooltip "طبقة">
+<!ENTITY layerSendToBack.tooltip "أرسل للخلف">
+<!ENTITY layerBringToFront.tooltip "اجلب للمقدمة">
+
+<!ENTITY increaseIndent.label "زِد الإزاحة">
+<!ENTITY increaseIndent.accesskey "ز">
+<!ENTITY increaseIndent.key "]">
+<!ENTITY decreaseIndent.label "قلِّل الإزاحة">
+<!ENTITY decreaseIndent.accesskey "ق">
+<!ENTITY decreaseIndent.key "[">
+
+<!ENTITY grid.label "وضع الشبكة">
+<!ENTITY grid.accesskey "و">
+
+<!ENTITY pageProperties.label "عنوان وخصائص الصفحة…">
+<!ENTITY pageProperties.accesskey "ع">
+<!ENTITY colorsAndBackground.label "ألوان وخلفية الصفحة…">
+<!ENTITY colorsAndBackground.accesskey "خ">
+<!-- Table Menu -->
+
+<!ENTITY tableMenu.label "جدول">
+<!ENTITY tableMenu.accesskey "ج">
+<!-- Select Submenu -->
+<!ENTITY tableSelectMenu.label "اختر">
+<!ENTITY tableSelectMenu.accesskey "خ">
+
+<!ENTITY tableSelectMenu2.label "اختيار الجدول">
+<!ENTITY tableSelectMenu2.accesskey "ر">
+<!ENTITY tableInsertMenu2.label "إدراج الجدول">
+<!ENTITY tableInsertMenu2.accesskey "د">
+<!ENTITY tableDeleteMenu2.label "حذف الجدول">
+<!ENTITY tableDeleteMenu2.accesskey "ذ">
+<!-- Insert SubMenu -->
+
+<!ENTITY tableInsertMenu.label "أدرج">
+<!ENTITY tableInsertMenu.accesskey "د">
+<!ENTITY tableTable.label "جدول">
+<!ENTITY tableTable.accesskey "ج">
+<!ENTITY tableRow.label "صف">
+<!ENTITY tableRows.label "صفوف">
+<!ENTITY tableRow.accesskey "ص">
+<!ENTITY tableRowAbove.label "صف فوق ">
+<!ENTITY tableRowAbove.accesskey "ف">
+<!-- uses tablerow.accesskey -->
+<!ENTITY tableRowBelow.label "صف تحت">
+<!ENTITY tableRowBelow.accesskey "ت">
+<!ENTITY tableColumn.label "عمود">
+<!ENTITY tableColumns.label "أعمدة">
+<!ENTITY tableColumn.accesskey "ع">
+<!ENTITY tableColumnBefore.label "عمود قبل">
+<!ENTITY tableColumnBefore.accesskey "ب">
+<!-- uses tableColumn.accesskey -->
+<!ENTITY tableColumnAfter.label "عمود بعد">
+<!ENTITY tableColumnAfter.accesskey "ب">
+<!ENTITY tableCell.label "خلية">
+<!ENTITY tableCells.label "خلايا">
+<!ENTITY tableCell.accesskey "خ">
+<!ENTITY tableCellContents.label "محتويات الخلية ">
+<!ENTITY tableCellContents.accesskey "ح">
+<!ENTITY tableAllCells.label "كل الخلايا">
+<!ENTITY tableCellBefore.label "خلية قبل">
+<!ENTITY tableCellBefore.accesskey "ق">
+<!ENTITY tableAllCells.accesskey "خ">
+<!-- uses tablecell.accesskey -->
+<!ENTITY tableCellAfter.label "خلية بعد">
+<!ENTITY tableCellAfter.accesskey "ع">
+<!-- Delete SubMenu -->
+<!ENTITY tableDeleteMenu.label "احذف">
+<!ENTITY tableDeleteMenu.accesskey "ح">
+
+<!ENTITY tableFix.label "أصلح تخطيط الجدول">
+<!ENTITY tableFix.accesskey "ص">
+<!-- text for "Join Cells" is in editor.properties 
+     ("JoinSelectedCells" and "JoinCellToRight")
+     the access key must exist in both of those strings
+     But value must be set here for accesskey to draw properly
+-->
+<!ENTITY tableJoinCells.label "ض">
+<!ENTITY tableJoinCells.accesskey "ض">
+<!ENTITY tableSplitCell.label "اقسم الخلية ">
+<!ENTITY tableSplitCell.accesskey "ق">
+<!ENTITY convertToTable.label "حول ما هو محدد إلى جدول">
+<!ENTITY convertToTable.accesskey "ن">
+<!ENTITY tableProperties.label "خصائص الجدول…">
+<!ENTITY tableProperties.accesskey "خ">
+<!-- Tools menu -->
+
+<!-- Debug menu items -->
+
+<!-- Toolbar-only items -->
+
+<!ENTITY menuBar.tooltip "شريط القوائم">
+<!ENTITY compositionToolbar.tooltip "شريط أدوات التحرير">
+<!ENTITY formatToolbar.tooltip "شريط أدوات التنسيق">
+<!ENTITY newToolbarCmd.tooltip "أنشئ صفحة جديدة">
+<!ENTITY openToolbarCmd.label "افتح">
+<!ENTITY openToolbarCmd.tooltip "افتح ملفا محليا">
+<!ENTITY saveToolbarCmd.tooltip "احفظ الملف في موقع محلي">
+<!ENTITY publishToolbarCmd.tooltip "ارفع ملفا إلى موقع بعيد">
+<!ENTITY previewToolbarCmd.label "تصفّح">
+<!ENTITY previewToolbarCmd.tooltip "حمّل هذه الصفحة في المتصفح">
+<!ENTITY printToolbarCmd.label "اطبع">
+<!ENTITY printToolbarCmd.tooltip "اطبع هذه الصفحة">
+<!ENTITY findToolbarCmd.label "ابحث">
+<!ENTITY findToolbarCmd.tooltip "ابحث عن نص في الصفحة">
+<!ENTITY spellToolbarCmd.label "دقق الإملاء">
+<!ENTITY spellToolbarCmd.tooltip "دقق إملاء التحديد أو الصفحة كاملة">
+<!ENTITY imageToolbarCmd.label "صورة">
+<!ENTITY imageToolbarCmd.tooltip "أدرج صورة جديدة أو حرر خصائص الصورة المختارة">
+<!ENTITY hruleToolbarCmd.label "خط أفقي">
+<!ENTITY hruleToolbarCmd.tooltip "أدرج خطا أفقيا أو حرر خصائص الخط المختار">
+<!ENTITY tableToolbarCmd.label "جدول">
+<!ENTITY tableToolbarCmd.tooltip "أدرج جدولا جديدا أو حرر خصائص الجدول المختار">
+<!ENTITY linkToolbarCmd.label "رابط">
+<!ENTITY linkToolbarCmd.tooltip "أدرج رابطا جديدا أو حرر خصائص الرابط المختار">
+<!ENTITY anchorToolbarCmd.label "مربط">
+<!ENTITY anchorToolbarCmd.tooltip "أدرج مربطا مسمىً جديدا أو حرر خصائص المربط المختار">
+<!ENTITY textColorCaption.label "لون النص">
+<!ENTITY TextColorButton.tooltip "اختر لون النص">
+<!ENTITY BackgroundColorButton.tooltip "اختر لون الخلفية">
+<!ENTITY throbber.tooltip "اذهب إلي صفحة &vendorShortName; الرئيسية">
+<!ENTITY HighlightColorButton.tooltip "اختر لون إبراز النص">
+<!-- Editor toolbar -->
+
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "حجم الخط الأصغر">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "حجم الخط الأكبر ">
+<!ENTITY boldToolbarCmd.tooltip "عريض">
+<!ENTITY italicToolbarCmd.tooltip "مائل">
+<!ENTITY underlineToolbarCmd.tooltip "خط تحتي">
+<!ENTITY bulletListToolbarCmd.tooltip "طبّق أو احذف قائمة منقوطة">
+<!ENTITY numberListToolbarCmd.tooltip "طبّق أو احذف قائمة مرقمة">
+<!ENTITY outdentToolbarCmd.tooltip "قلل الإزاحة (انقل يسارا)">
+<!ENTITY indentToolbarCmd.tooltip "زِد الإزاحة (انقل يمينا)">
+<!ENTITY AlignPopupButton.tooltip "اختر محاذاة النص">
+<!ENTITY InsertPopupButton.tooltip "أدرج رابطا، أو مربطا، أو صورة، أو خطا أفقيا، أو جدولا">
+<!ENTITY alignLeftButton.tooltip "حاذِ النص قبالة الهامش الأيسر">
+<!ENTITY alignCenterButton.tooltip "حاذِ النص مُوسّطا">
+<!ENTITY alignRightButton.tooltip "حاذِ النص قبالة الهامش الأيمن">
+<!ENTITY alignjustifyButton.tooltip "حاذِ النص قبالة الهامشين الأيسر و الأيمن">
+<!-- Formatting toolbar not used, but may be in future -->
+
+<!ENTITY formatToolbar.boldChar "B">
+<!ENTITY formatToolbar.italicChar "I">
+<!ENTITY formatToolbar.underlineChar "U">
+<!-- Used with color pickers in Format toolbar and Format Menu -->
+
+<!ENTITY colorPicker.default.label "ألوان القارئ المبدئية">
+<!ENTITY colorPicker.default.accesskey "ق">
+<!ENTITY colorLabel.label "اللون:">
+<!ENTITY ok.label "موافق">
+<!-- Display Mode toolbar and View menu items -->
+
+<!ENTITY NormalModeTab.label "عادي">
+<!ENTITY NormalMode.label "نمط التحرير العادي">
+<!ENTITY NormalMode.accesskey "ع">
+<!ENTITY NormalMode.tooltip "اعرض حدود الجدول والمرابط المسماة">
+<!ENTITY AllTagsMode.label "وسوم HTML">
+<!ENTITY AllTagsMode.accesskey "و">
+<!ENTITY AllTagsMode.tooltip "اعرض أيقونات لجميع وسوم HTML">
+
+<!ENTITY HTMLSourceMode.label "مصدر HTML">
+<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
+<!ENTITY SourceMode.label "مصدر">
+<!ENTITY HTMLSourceMode.accesskey "h">
+<!ENTITY HTMLSourceMode.tooltip "حرّر مصدر HTML">
+<!ENTITY PreviewMode.label "عايِن">
+<!ENTITY PreviewMode.accesskey "ع">
+<!ENTITY PreviewMode.tooltip 'اعرض في نمط "ما تراه تحصل عليه"  (كما في الملاح)'>
+<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
+     Use latin "ltr" if you want the <html> image to left of the 
+     'SourceMode.label' text defined above,
+     or use latin "rtl" if you want this image to the right of text
+     This is the value of the HTML 'dir' attribute
+-->
+
+<!ENTITY SourceTabDirection "rtl">
+<!-- Structure Toolbar Context Menu items -->
+
+<!ENTITY structSelect.label "اختر">
+<!ENTITY structSelect.accesskey "خ">
+<!ENTITY structRemoveTag.label "أزل الوسم">
+<!ENTITY structRemoveTag.accesskey "ز">
+<!ENTITY structChangeTag.label "غيّر الوسم">
+<!ENTITY structChangeTag.accesskey "غ">
+<!-- TOC manipulation -->
+
+<!ENTITY insertTOC.label "أدرج">
+<!ENTITY insertTOC.accesskey "د">
+<!ENTITY updateTOC.label "حدّث">
+<!ENTITY updateTOC.accesskey "ح">
+<!ENTITY removeTOC.label "أزل">
+<!ENTITY removeTOC.accesskey "ز">
+<!ENTITY tocMenu.label "جدول المحتويات…">
+<!ENTITY tocMenu.accesskey "ج">
