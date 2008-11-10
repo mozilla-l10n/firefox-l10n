@@ -1,13 +1,10 @@
-<!ENTITY  updateWizard.title               "Ohjelmistopäivitys">
+<!ENTITY  updateWizard.title              "Ohjelmistopäivitys">
 
 <!ENTITY  window.width                    "36em">
 <!ENTITY  window.macWidth                 "39em">
 
 <!ENTITY  checking.title                   "Haetaan päivityksiä">
-<!ENTITY  checking.label                   "&brandShortName; hakee päivityksiä…">
-
-<!ENTITY  cancel.label                     "Peruuta">
-<!ENTITY  cancel.accesskey                 "P">
+<!ENTITY  updateCheck.label               "Haetaan päivityksiä &brandShortName;iin…">
 
 <!ENTITY  noupdatesfound.title             "Päivityksiä ei löytynyt">
 <!ENTITY  noupdatesautoenabled.intro      "Uusia päivityksiä ei ole saatavilla. &brandShortName; hakee
@@ -15,15 +12,12 @@
 <!ENTITY  noupdatesautodisabled.intro     "Uusia päivityksiä ei ole saatavilla. Hae päivityksiä myöhemmin uudestaan
                                            tai ota käyttöön &brandShortName;in automaattinen päivitysten tarkistus.">
 
-<!ENTITY  incompatibleChecking.label      "Tarkistetaan päivityksen ja asennettujen lisäosien yhteensopivuutta…">
+<!ENTITY  incompatibleCheck.title         "Tarkistetaan lisäosien yhteensopivuutta">
+<!ENTITY  incompatibleCheck.label         "Haetaan uusi versioita lisäosista…">
+
 <!ENTITY  clickHere.label                 "Lue lisätietoja tästä päivityksestä">
 
-<!ENTITY  incompatible.warning             "Päivityksen myötä jotkin asennetut laajennukset tai teemat
-                                            lakkaavat toimivasta kunnes ne päivitetään.">
-<!ENTITY  listIncompatible.label           "Näytä lista">
-<!ENTITY  listIncompatible.accesskey       "N">
-
-<!ENTITY  upgrade.evangelism               "Suosittelemme, että &brandShortName; päivitetään ensi tilassa.">
+<!ENTITY  evangelism.desc                 "Suosittelemme, että &brandShortName; päivitetään ensi tilassa.">
 
 
 <!ENTITY  license.instructions             "Jos hyväksyt lisenssisopimuksen, jatka päivityksen asennusta
@@ -37,6 +31,8 @@
 <!ENTITY  license.decline                 "En hyväksy lisenssisopimusta">
 <!ENTITY  license.decline.accesskey       "E">
 
+<!ENTITY  incompatibleList.title          "Yhteensopimattomia lisäosia löytyi">
+
 <!ENTITY  downloading.title                "Ladataan päivitystä">
 <!ENTITY  downloading.intro                "Ladataan päivitystä…">
 <!ENTITY  connecting.label                 "Muodostetaan yhteyttä päivityspalvelimeen…">
@@ -44,11 +40,9 @@
                                             &brandShortName; lataa uuden version kokonaisuudessaan.">
 
 
+<!ENTITY  viewDetails.tooltip             "Lisätietoja tästä päivityksestä">
+
 <!ENTITY  details.link                     "Lisätietoja">
-<!ENTITY  pause.label                      "Pysäytä">
-<!ENTITY  pause.accesskey                  "y">
-<!ENTITY  close.label                      "Sulje">
-<!ENTITY  close.accesskey                  "S">
 
 <!ENTITY  error.label                      "Päivityksen lataus, tarkistus tai asennus ei onnistunut.
                                             Päivitys aiheutti virheilmoituksen:">
@@ -60,19 +54,16 @@
 <!ENTITY  errorpatching.intro              "Korjauspäivitys ei toiminut. 
                                             &brandShortName; lataa päivitetyn ohjelmaversion ja yrittää uudestaan.">
 
-<!ENTITY  finished.title                   "Päivitys ladattiin">
-<!ENTITY  finished.text                    "Päivitys ladattiin ja se läpäisi tarkistukset. Päivitys asennetaan, kun
-                                            &brandShortName; käynnistetään uudelleen.">
+<!ENTITY  finishedPage.title              "Päivitys on valmis asennettavaksi">
+<!ENTITY  finishedPage.text               "Päivitys asennetaan kun &brandShortName; käynnistetään uudelleen. Voit käynnistää 
+                                           &brandShortName;in nyt tai jatkaa selaamista ja käynnistää selaimen uudelleen myöhemmin.">
 
-<!ENTITY  finishedBackground.title         "Päivitys on valmis asennettavaksi">
-<!ENTITY  finishedBackground.text          "Tärkeä päivitys on ladattu ja se läpäisi tarkastuksen. Napsauta
-                                            linkkiä lukeaksesi lisätietoja.">
+<!ENTITY  finishedBackgroundPage.text     "Turvallisuus- ja vakauspäivitys &brandShortName;iin
+                                           on ladattu ja valmis asennettavaksi.">
 <!ENTITY  finishedBackground.name          "Päivitys:">
-<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
-<!ENTITY  finishedBackground.more1         "Asenna päivitys nyt valitsemalla Käynnistä uudelleen.">
-<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!ENTITY  finishedBackground.textNotNow   "Sulje tämä valintaikkuna ja jatka työskentelyä valitsemalla Ei nyt.
-                                           Päivitys asennetaan, kun &brandShortName; käynnistetään uudelleen.">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more         "Päivitys asennetaan kun &brandShortName; käynnistetään uudelleen. Voit käynnistää 
+                                           &brandShortName;in nyt tai jatkaa selaamista ja käynnistää selaimen uudelleen myöhemmin.">
 
 <!ENTITY  installed.title                  "Päivitys asennettiin">
 <!ENTITY  installed.intro                  "Päivityksen asennus onnistui.">

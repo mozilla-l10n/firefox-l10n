@@ -7,6 +7,9 @@
 <!ENTITY mainWindow.titlemodifier  "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator  " - ">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Yksityinen selaus)">
 
 <!ENTITY tabCmd.label  "Uusi välilehti">
 <!ENTITY tabCmd.accesskey  "v">
@@ -158,8 +161,11 @@
 <!ENTITY preferencesCmdUnix.label        "Asetukset">
 <!ENTITY preferencesCmdUnix.accesskey      "A">
 
-<!ENTITY clearPrivateDataCmd.label            "Poista yksityisyystietoja">
-<!ENTITY clearPrivateDataCmd.accesskey        "y">
+<!ENTITY clearRecentHistoryCmd.label            "Poista historiatietoja">
+<!ENTITY clearRecentHistoryCmd.accesskey        "P">
+
+<!ENTITY privateBrowsingCmd.label            "Yksityinen selaus">
+<!ENTITY privateBrowsingCmd.accesskey        "Y">
 
 <!ENTITY viewMenu.label          "Näytä">
 <!ENTITY viewMenu.accesskey        "N">
@@ -302,11 +308,11 @@
 <!ENTITY mediaPause.label            "Pysäytä">
 <!ENTITY mediaPause.accesskey        "y">
 <!ENTITY mediaMute.label             "Mykistä ääni">
-<!ENTITY mediaMute.accesskey         "V">
+<!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "Palauta ääni">
 <!ENTITY mediaUnmute.accesskey       "ä">
 <!ENTITY mediaShowControls.label     "Näytä säätimet">
-<!ENTITY mediaShowControls.accesskey "N">
+<!ENTITY mediaShowControls.accesskey "s">
 <!ENTITY mediaHideControls.label     "Piilota säätimet">
 <!ENTITY mediaHideControls.accesskey "P">
 
@@ -420,3 +426,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Lisätietoja…">
 
 <!ENTITY downloadMonitor2.tooltip "Avaa latausikkuna napsauttamalla hiirellä">
+
+<!ENTITY ctrlTab.search.emptyText "Etsi välilehteä">

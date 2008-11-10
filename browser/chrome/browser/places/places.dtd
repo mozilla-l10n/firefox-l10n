@@ -71,6 +71,11 @@
 <!ENTITY cmd.edit_redo.accesskey    "T">
 <!ENTITY cmd.edit_redo.key          "y">
 
+<!ENTITY cmd.delete.label               "Poista tämä sivu">
+<!ENTITY cmd.delete.accesskey           "P">
+<!ENTITY cmd.deleteDomainData.label     "Unohda tämä sivu">
+<!ENTITY cmd.deleteDomainData.accesskey "U">
+
 <!ENTITY cmd.open.label                  "Avaa">
 <!ENTITY cmd.open.accesskey              "A">
 <!ENTITY cmd.open_window.label           "Avaa uuteen ikkunaan">
