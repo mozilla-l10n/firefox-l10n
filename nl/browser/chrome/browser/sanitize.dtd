@@ -1,24 +1,40 @@
-<!ENTITY sanitizeDialog.title         "Privégegevens opruimen">
+<!ENTITY sanitizePrefs.title           "Privégegevens opruimen">
+<!ENTITY sanitizeDialog2.title         "Recente geschiedenis opruimen">
 
 <!ENTITY sanitizeItems.label          "De volgende gegevens nu wissen:">
-<!ENTITY clearDataSettings.label      "Als ik &brandShortName; vraag mijn privégegevens op te ruimen, het volgende wissen:">
+<!ENTITY clearDataSettings2.label     "Als ik &brandShortName; afsluit, moet het automatisch het volgende wissen:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY itemHistory.label            "Navigatiegeschiedenis">
-<!ENTITY itemHistory.accesskey        "N">
-<!ENTITY itemFormSearchHistory.label  "Opgeslagen formulier- en zoekgeschiedenis">
-<!ENTITY itemFormSearchHistory.accesskey "f">
+<!ENTITY clearDuration.label          "Verwijder ">
+<!ENTITY clearDuration.lastHour       "het laatste uur">
+<!ENTITY clearDuration.last2Hours     "de laatste 2 uur">
+<!ENTITY clearDuration.last4Hours     "de laatste 4 uur">
+<!ENTITY clearDuration.today          "mijn geschiedenis van vandaag">
+<!ENTITY clearDuration.everything     "mijn complete geschiedenis">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix         "">
+
+<!ENTITY historySection.label         "Geschiedenis">
+<!ENTITY dataSection.label            "Data">
+
+<!ENTITY itemVisitedPages.label       "Bezochte pagina's">
+<!ENTITY itemVisitedPages.accesskey   "b">
+<!ENTITY itemFormSearchEntries.label  "Formulier &amp; zoekopdrachten">
+<!ENTITY itemFormSearchEntries.accesskey "F">
 <!ENTITY itemPasswords.label          "Opgeslagen wachtwoorden">
 <!ENTITY itemPasswords.accesskey      "w">
 <!ENTITY itemCookies.label            "Cookies">
 <!ENTITY itemCookies.accesskey        "C">
-<!ENTITY itemCache.label              "Buffer">
-<!ENTITY itemCache.accesskey          "B">
+<!ENTITY itemWebCache.label           "Webbuffer">
+<!ENTITY itemWebCache.accesskey       "W">
 <!ENTITY itemOfflineApps.label        "Offlinewebsitegegevens">
 <!ENTITY itemOfflineApps.accesskey    "O">
-<!ENTITY itemDownloads.label          "Downloadgeschiedenis">
-<!ENTITY itemDownloads.accesskey      "D">
-<!ENTITY itemSessions.label           "Geauthenticeerde sessies">
-<!ENTITY itemSessions.accesskey       "s">
+<!ENTITY itemDownloadList.label       "Downloadlijst">
+<!ENTITY itemDownloadList.accesskey   "D">
+<!ENTITY itemActiveLogins.label       "Actieve logins">
+<!ENTITY itemActiveLogins.accesskey   "L">
+
 <!ENTITY window.width                 "30em">
+<!ENTITY column.width                 "14em">
