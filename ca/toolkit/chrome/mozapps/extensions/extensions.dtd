@@ -112,6 +112,7 @@
 <!ENTITY insecureUpdate.label             "No proporciona actualitzacions segures.">
 <!ENTITY needsDependencies.label          "Calen elements addicionals.">
 <!ENTITY blocklisted.label                "Inhabilitat per a la vostra protecció.">
+<!ENTITY softBlocklisted.label            "Comprometedor per motius de seguretat o estabilitat.">
 <!ENTITY toBeDisabled.label               "S'inhabilitarà aquest complement quan es reiniciï el &brandShortName;.">
 <!ENTITY toBeEnabled.label                "S'habilitarà aquest complement quan es reiniciï el &brandShortName;.">
 <!ENTITY toBeInstalled.label              "S'instaŀlarà aquest complement quan es reiniciï el &brandShortName;.">
@@ -169,3 +170,5 @@
 <!ENTITY eula.height                      "440px">
 <!ENTITY eula.accept                      "Accepta'l i instaŀla-ho…">
 
+<!ENTITY blocklist.blocked.label          "Blocat">
+<!ENTITY blocklist.checkbox.label         "Inhabilita">

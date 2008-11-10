@@ -27,9 +27,8 @@
 <!ENTITY fullZoomEnlargeBtn.accesskey "g">
 <!ENTITY closeWindow.commandkey "W">
 
-<!ENTITY searchtab.label "Cerca">
-<!ENTITY searchtab.accesskey "r">
-<!ENTITY searchClose.tooltip            "Tanca els resultats de la cerca">
+<!ENTITY search.emptytext               "Cerca">
+<!ENTITY searchHeader.label             "Cerca resultats">
 <!ENTITY toctab.label "Continguts">
 <!ENTITY toctab.accesskey "C">
 
