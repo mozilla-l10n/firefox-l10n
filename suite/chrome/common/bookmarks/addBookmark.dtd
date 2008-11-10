@@ -44,7 +44,6 @@
 <!ENTITY shortcutURL.label          "Mot-clé :">
 <!ENTITY shortcutURL.accesskey      "M">
 <!ENTITY destination.label          "Destination :">
-<!ENTITY destination.accesskey      "D">
 <!ENTITY newFolder.label            "Nouveau dossier…">
 <!ENTITY newFolder.accesskey        "o">
 <!ENTITY addGroup.label             "Marquer ce groupe d'onglets">

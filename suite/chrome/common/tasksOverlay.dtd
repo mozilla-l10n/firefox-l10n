@@ -8,21 +8,14 @@
 <!ENTITY editorCmd.accesskey "o">
 <!ENTITY editorCmd.commandkey "4">
 
-<!ENTITY securityInfoCmd.label "Informations de sécurité">
-<!ENTITY securityInfoCmd.accesskey "s">
 <!ENTITY javaConsoleCmd.label "Console Java">
 <!ENTITY javaConsoleCmd.accesskey "J">
 
 <!ENTITY errorConsoleCmd.label "Console d'erreurs">
 <!ENTITY errorConsoleCmd.accesskey "s">
 
-<!-- LOCALIZATION NOTE (privacyMenu.label): DONT_TRANSLATE -->
-<!ENTITY privacyMenu.label "Confidentialité et sécurité">
-<!ENTITY privacyMenu.accesskey "s">
-
 <!ENTITY taskNavigator.tooltip "Navigateur">
 <!ENTITY taskComposer.tooltip "Composeur">
-<!ENTITY taskBar.tooltip "Barre d'état">
 
 <!ENTITY webDevelopment.label "Développement Web">
 <!ENTITY webDevelopment.accesskey "W">
