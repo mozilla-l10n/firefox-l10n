@@ -50,7 +50,7 @@
 <!-- localization credits look like this: -->
 <!--
 <!ENTITY credit.translation
-  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+  "<h3>Omsetjing</h3><ul><li>Eirik Birkeland</li><li>Bjørn Svindseth</li></ul>">
 -->
 <!ENTITY credit.translation "<h3>Omsetjing</h3><ul><li>Eirik Birkeland</li><li>Bjørn Svindseth</li></ul>">
 

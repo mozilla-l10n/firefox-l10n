@@ -22,4 +22,4 @@
 <!ENTITY  enableSuggest.accesskey   "V">
 
 <!ENTITY  restoreDefaults.label     "Still tilbake til standard">
-<!ENTITY  restoreDefaults.accesskey "G">
+<!ENTITY  restoreDefaults.accesskey "t">

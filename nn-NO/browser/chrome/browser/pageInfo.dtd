@@ -83,7 +83,7 @@
 <!ENTITY  feedTab               "Nyhendekjelder">
 <!ENTITY  feedTab.accesskey     "N">
 <!ENTITY  feedSubscribe         "Abonner">
-<!ENTITY  feedSubscribe.accesskey "T">
+<!ENTITY  feedSubscribe.accesskey "A">
 
 <!ENTITY  permTab               "Løyve">
 <!ENTITY  permTab.accesskey     "L">

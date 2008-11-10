@@ -46,7 +46,7 @@
 <!ENTITY disableAddons.accesskey      "S">
 
 <!ENTITY resetToolbars.label          "Still tilbake verktøylinjer og kontrollar">
-<!ENTITY resetToolbars.accesskey      "G">
+<!ENTITY resetToolbars.accesskey      "t">
 
 <!ENTITY resetBookmarks.label         "Still tilbake til dei opprinnelege bokmerka i &brandShortName;">
 <!ENTITY resetBookmarks.accesskey     "b">
@@ -55,7 +55,7 @@
 <!ENTITY resetUserPrefs.accesskey     "n">
 
 <!ENTITY restoreSearch.label          "Still tilbake til dei opphavlege søkjemotorane">
-<!ENTITY restoreSearch.accesskey      "s">
+<!ENTITY restoreSearch.accesskey      "t">
 
 <!ENTITY changeAndRestartButton.label "Lagre endringane og start om">
 <!ENTITY continueButton.label         "Hald fram i sikker modus">

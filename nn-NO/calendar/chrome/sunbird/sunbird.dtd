@@ -34,15 +34,15 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY sunbird.choosedate.button.tooltip                 "Gå til dato" >
+<!ENTITY sunbird.choosedate.button.tooltip                 "Vel dato å gå til" >
 <!ENTITY sunbird.cut.button.tooltip                        "Klipp ut" >
 <!ENTITY sunbird.copy.button.tooltip                       "Kopier" >
 <!ENTITY sunbird.paste.button.tooltip                      "Lim inn" >
 <!ENTITY sunbird.print.button.tooltip                      "Skriv ut kalender" >
-<!ENTITY sunbird.delete.button.tooltip                     "Slett den valde oppgåva" >
+<!ENTITY sunbird.delete.button.tooltip                     "Slett den valde hendinga" >
 <!ENTITY sunbird.remotereload.button.tooltip               "Oppdater alle eksterne kalendrar" >
 
-<!ENTITY sunbird.choosedate.button.label                   "Vel dato å vise" >
+<!ENTITY sunbird.choosedate.button.label                   "Vel dato" >
 <!ENTITY sunbird.cut.button.label                          "Klipp ut" >
 <!ENTITY sunbird.copy.button.label                         "Kopier" >
 <!ENTITY sunbird.paste.button.label                        "Lim inn" >

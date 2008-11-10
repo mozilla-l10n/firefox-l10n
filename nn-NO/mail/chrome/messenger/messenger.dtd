@@ -63,7 +63,7 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Førehandsvising">
 <!ENTITY printPreviewCmd.accesskey "F">
-<!ENTITY printSetupCmd.label "Sideoppsett …">
+<!ENTITY printSetupCmd.label "Utskriftsformat …">
 <!ENTITY printSetupCmd.accesskey "o">
 
 <!-- Edit Menu -->

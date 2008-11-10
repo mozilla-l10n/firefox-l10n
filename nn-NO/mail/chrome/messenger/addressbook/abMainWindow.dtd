@@ -23,7 +23,7 @@
 <!ENTITY closeCmd.label                                 "Lat att">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "L">
-<!ENTITY printSetupCmd.label                            "Sideoppsett …">
+<!ENTITY printSetupCmd.label                            "Utskriftsformat …">
 <!ENTITY printSetupCmd.accesskey                        "o">
 <!ENTITY printPreviewCardViewCmd.label                  "Førehandsvising av kort">
 <!ENTITY printPreviewCardViewCmd.accesskey              "v">
