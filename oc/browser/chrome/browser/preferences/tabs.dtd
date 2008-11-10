@@ -1,8 +1,3 @@
-<!ENTITY newPagesIn.label "Las paginas novèlas se debon dobrir dins :">
-<!ENTITY inNewWindow.label "una fenèstra novèla">
-<!ENTITY inNewWindow.accesskey "f">
-<!ENTITY inNewTab.label "un onglet novèl">
-<!ENTITY inNewTab.accesskey "o">
 <!ENTITY warnCloseMultipleTabs.label "M'alertar quand tampi mai d'un onglet">
 <!ENTITY warnCloseMultipleTabs.accesskey "A">
 <!ENTITY warnOpenManyTabs.label "M'avertir que dobrir mai d'un onglet poiriá alentir &brandShortName;">

@@ -18,7 +18,5 @@
 <!ENTITY focusSearch2.key "k">
 <!ENTITY filter.label "Recercar :">
 <!ENTITY filter.accesskey "R">
-<!ENTITY clear.label "Voidar">
-<!ENTITY clear.accesskey "V">
 <!ENTITY button.close.label "Tampar">
 <!ENTITY button.close.accesskey "T">

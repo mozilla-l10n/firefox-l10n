@@ -11,7 +11,6 @@
 <!ENTITY safeb.palm.decline.statustext "Tampar l'avertiment">
 <!ENTITY safeb.palm.notforgery.label2 "Es pas un sit contrafach…">
 <!ENTITY safeb.palm.report.label "Perqué aqueste sit es blocat ?">
-<!ENTITY safeb.urlbaricon.tooltip "Aquesta pagina pòt èsser dangerosa, clicatz per mai d'entresenhas.">
 <!ENTITY safeb.blocked.malware.title "Sit d'atac raportat !">
 <!ENTITY safeb.blocked.malware.shortDesc "Lo sit de <span id='malware_sitename'/> es estat raportat coma un sit d'atac e l'avèm blocat en nos basant sus vòstras preferéncias de seguretat.">
 <!ENTITY safeb.blocked.malware.longDesc "<p>Los sits d'atac ensajan d'installar de programas que vos raubar d'entresenhas personalas, utilizan vòstre ordenador per n'atacar d'autres o damatjan vòstre sistèma.</p><p>D'unes sits d'atac distribuisson amb intencion de programas dangeroses mas fòrça son implicats sens o que sos proprietaris lo sepan o l'ajan permes.</b>">

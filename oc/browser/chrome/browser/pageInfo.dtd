@@ -19,8 +19,6 @@
 <!ENTITY generalEncoding "Encodatge :">
 <!ENTITY generalMetaName "Nom">
 <!ENTITY generalMetaContent "Contengut">
-<!ENTITY generalSecurityMore "Mai">
-<!ENTITY generalSecurityMore.accesskey "i">
 <!ENTITY mediaTab "Mèdia">
 <!ENTITY mediaTab.accesskey "M">
 <!ENTITY mediaLocation "Emplaçament :">

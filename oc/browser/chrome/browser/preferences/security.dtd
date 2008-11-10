@@ -1,9 +1,5 @@
 <!ENTITY warnAddonInstall.label "M'entresenhar quand de sits ensajan d'installar de moduls complementaris">
 <!ENTITY warnAddonInstall.accesskey "e">
-<!ENTITY tellMaybeAttackSite.label "Senhalar se lo sit que visiti es suspectat d'èsser un sit d'atac">
-<!ENTITY tellMaybeAttackSite.accesskey "u">
-<!ENTITY tellMaybeForgery.label "Senhalar se lo sit que visiti es sospechat d'èsser una contrafaiçon">
-<!ENTITY tellMaybeForgery.accesskey "S">
 <!ENTITY addonExceptions.label "Excepcions…">
 <!ENTITY addonExceptions.accesskey "E">
 <!ENTITY passwords.label "Senhals">

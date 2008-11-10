@@ -1,20 +1,8 @@
-<!ENTITY sanitizeDialog.title "Voidar las donadas privadas">
 <!ENTITY sanitizeItems.label "Voidar los elements seguents ara :">
-<!ENTITY clearDataSettings.label "Quand demandi a &brandShortName; de voidar mas donadas privadas, deurà suprimir :">
-<!ENTITY itemHistory.label "Istoric de navigacion">
-<!ENTITY itemHistory.accesskey "n">
-<!ENTITY itemFormSearchHistory.label "Donadas de formulari e istoric de recèrca enregistradas">
-<!ENTITY itemFormSearchHistory.accesskey "f">
 <!ENTITY itemPasswords.label "Senhals enregistrats">
 <!ENTITY itemPasswords.accesskey "p">
 <!ENTITY itemCookies.label "Cookies">
 <!ENTITY itemCookies.accesskey "C">
-<!ENTITY itemCache.label "Amagatal">
-<!ENTITY itemCache.accesskey "o">
 <!ENTITY itemOfflineApps.label "Donadas de sits web sens connexion">
 <!ENTITY itemOfflineApps.accesskey "s">
-<!ENTITY itemDownloads.label "Istoric de telecargament">
-<!ENTITY itemDownloads.accesskey "d">
-<!ENTITY itemSessions.label "Sesilhas autenticadas">
-<!ENTITY itemSessions.accesskey "S">
 <!ENTITY window.width "30em">
