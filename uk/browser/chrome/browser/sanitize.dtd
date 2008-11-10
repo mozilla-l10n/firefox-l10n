@@ -12,7 +12,7 @@
 
 <!-- FIXME: localize -->
 <!ENTITY clearDataSettings2.label     "Коли я закриваю &brandShortName;, він повинен автоматично очистити всю:">
-<!ENTITY clearDuration.everything     "my entire history">
+<!ENTITY clearDuration.everything     "всю мою історію">
 <!ENTITY clearDuration.label          "Вилучити ">
 <!ENTITY clearDuration.last2Hours     "останні 2 години">
 <!ENTITY clearDuration.last4Hours     "останні 4 години">
