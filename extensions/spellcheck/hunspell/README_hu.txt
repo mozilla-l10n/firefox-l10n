@@ -1,6 +1,6 @@
-Hungarian Hunspell dictionaries version 1.3
+Hungarian Hunspell dictionaries version 1.4
 
-Alias compressed dictionary (work with Hunspell 1.3 or newer versions):
+Alias compressed dictionary (work with Hunspell 1.1.3 or newer versions):
 
 License
 
