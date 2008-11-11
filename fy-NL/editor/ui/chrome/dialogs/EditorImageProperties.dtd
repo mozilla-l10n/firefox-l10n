@@ -78,6 +78,8 @@
 <!ENTITY imagemapBox.label "Afbeeldingsmap">
 <!ENTITY removeImageMapButton.label "Verwijderen">
 <!ENTITY removeImageMapButton.accessKey "V">
+<!ENTITY editImageMapButton.label "Bewurkje…">
+<!ENTITY editImageMapButton.tooltip "Meitsje klibere hotspots foar dizze ôfbylding">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Tekst uitlijnen langs afbeelding">
@@ -99,10 +101,6 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Een rand weergeven om de koppelingsafbeelding">
 <!ENTITY showImageLinkBorder.accessKey "d">
-
-<!-- These controls may be added some day; currently not used -->
-<!ENTITY editImageButton.label "Afbeelding bewerken">
-<!ENTITY editImageButton.tooltip "Afbeelding bewerken in een ander programma">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Formulier">

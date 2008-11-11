@@ -143,7 +143,6 @@
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertCharsCmd.label "Tekens en symboalen...">
 <!ENTITY insertCharsCmd.accesskey "s">
-<!ENTITY insertBreakCmd.accesskey "b">
 <!ENTITY insertBreakAllCmd.label "Ofbrekke nei ôfbylding(s)">
 <!ENTITY insertBreakAllCmd.accesskey "e">
 
@@ -436,7 +435,6 @@
 <!ENTITY linkToolbarCmd.tooltip "Nije koppeling ynfoegje of eigenskippen fan selektearre keppeling oanpasse">
 <!ENTITY anchorToolbarCmd.label "Anker">
 <!ENTITY anchorToolbarCmd.tooltip "Nije ankerferwizing ynfoegje of eigenskippen fan selektearre ankerferwizing oanpasse">
-<!ENTITY textColorCaption.label "Tekstkleur">
 <!ENTITY TextColorButton.tooltip "Tekstkleur kieze">
 <!ENTITY BackgroundColorButton.tooltip "Achtergrûnkleur kieze">
 <!ENTITY throbber.tooltip "Gean nei de thússide fan &vendorShortName;">
