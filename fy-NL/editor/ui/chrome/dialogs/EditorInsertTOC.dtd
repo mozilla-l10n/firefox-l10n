@@ -37,7 +37,6 @@
 
 <!ENTITY Window.title        "Ynhâldsopgave">
 <!ENTITY buildToc.label      "Ynhâldsopgave meitsje fan:">
-<!ENTITY style.label         "Styl:">
 <!ENTITY tag.label           "Koade:">
 <!ENTITY class.label         "Klasse:">
 <!ENTITY header1.label       "Niveau 1">

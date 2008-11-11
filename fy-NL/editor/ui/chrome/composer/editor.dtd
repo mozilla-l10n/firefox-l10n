@@ -55,11 +55,3 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label 								"Opmaak">
 <!ENTITY formatMenu.accesskey 							"M">
-
-<!ENTITY helpMenu.label 								"Help">
-<!ENTITY aboutCmd.label 								".Oer">
-
-<!-- Display Mode Toolbar -->
-<!ENTITY editMode.label 								"Bewurkingsmodus:">
-
-<!ENTITY statusText.label 								"Klear mei it laden fan de side">

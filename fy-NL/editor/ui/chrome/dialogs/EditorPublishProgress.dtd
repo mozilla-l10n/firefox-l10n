@@ -43,8 +43,6 @@
 
 <!ENTITY status.label          "Publisearje...">
 <!ENTITY fileList.label        "Publisearsteat">
-<!ENTITY statusHeader.label    "Steat">
-<!ENTITY filenameHeader.label  "Bestânsnamme">
 <!ENTITY succeeded.label       "Slagge">
 <!ENTITY failed.label          "Mislearre">
 

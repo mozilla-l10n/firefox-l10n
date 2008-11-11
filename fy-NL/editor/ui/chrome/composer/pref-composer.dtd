@@ -5,15 +5,6 @@
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
 <!ENTITY  pref.composer.title           "Composer">
 
-<!ENTITY  saving                        "Bewarje">
-<!ENTITY  AutoSaveCheck                 "Automatysk bewarje elke">
-<!ENTITY  minText                       "minuten">
-
-<!ENTITY  exterLegend.label             "Eksterne bewurkers">
-<!ENTITY  htmlSource                    "HTML-boarne:">
-<!ENTITY  imageeditor                   "Ofbyldings:">
-<!ENTITY  chooseButton.label            "Kieze">
-
 <!ENTITY  recentFiles.title             "Menu resinte siden">
 <!ENTITY  documentsInMenu.label         "Maksimumoantal toande siden:">
 <!ENTITY  documentsInMenu.accesskey     "n">
@@ -28,8 +19,6 @@
 <!ENTITY  showPublishDialog.accesskey   "d">
 
 <!ENTITY  composerEditing.label         "Bewurkje">
-<!ENTITY  spellCheckInline.label        "Stavering kontrolearje tiidens it typen">
-<!ENTITY  spellCheckInline.accesskey    "S">
 <!ENTITY  maintainStructure.label       "Tabellay-out behâlde by it yngoegjen of fuortsmiten fan sellen">
 <!ENTITY  maintainStructure.tooltip     "Behâldt de rjochthoekige foarm fan de tabel troch automatysk sellen by te foegjen nei it fuortsmiten of ynfoegjen fan sellen">
 <!ENTITY  maintainStructure.accesskey   "T">
