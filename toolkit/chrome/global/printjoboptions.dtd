@@ -1,3 +1,4 @@
+<!-- (^^; 使用されない -->
 <!-- extracted from printjoboptions.xul -->
 
 <!ENTITY printJobOptions.title	"プリンタのプロパティ">
@@ -19,7 +20,7 @@
 <!ENTITY colorspaceInput.label	"色空間:">
 
 <!ENTITY fontsGroup.label	"フォント:">
-<!ENTITY downloadFonts.label	"ダウンロードフォントを使用"><!-- (^^; 仮訳 -->
+<!ENTITY downloadFonts.label	"ダウンロードフォントを使用">
 
 <!ENTITY edgeMarginInput.label	"用紙の端から余白までの距離 (inch)">
 <!ENTITY topInput.label		"上:">
