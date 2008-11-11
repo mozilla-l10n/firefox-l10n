@@ -36,22 +36,22 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!-- These strings are for use specifically in the editor's image map dialog. -->
+
 <!-- Window title -->
-
-
 <!ENTITY windowTitle.label "Editor do mapa de Imagem">
+
 <!-- Menu Items -->
 <!-- File menu -->
-
 <!ENTITY mapfileMenu.label "Ficheiro">
 <!ENTITY mapfileMenu.accesskey "f">
 <!ENTITY clearCmd.label "Limpar">
 <!ENTITY clearCmd.accesskey "a">
 <!ENTITY closeCmd.label "Fechar">
 <!ENTITY closeCmd.accesskey "c">
-<!-- Edit menu -->
 
+<!-- Edit menu -->
 <!ENTITY mapeditMenu.label "Editar">
 <!ENTITY mapeditMenu.accesskey "e">
 <!ENTITY cutCmd.label "Cortar">
@@ -64,8 +64,8 @@
 <!ENTITY selectallCmd.accesskey "s">
 <!ENTITY propsCmd.label "Propriedades do Hotspot">
 <!ENTITY propsCmd.accesskey "h">
-<!-- View menu -->
 
+<!-- View menu -->
 <!ENTITY mapviewMenu.label "Ver">
 <!ENTITY mapviewMenu.accesskey "v">
 <!ENTITY showhideTbarCmd.label "Esconder Barra de Ferramentas">
@@ -82,9 +82,8 @@
 
 <!ENTITY zoominCmd.label "Aumentar">
 <!ENTITY zoomoutCmd.label "Diminuir">
-<!ENTITY delSpotCmd.label "Apagar Spot">
-<!-- Keys -->
 
+<!-- Keys -->
 <!ENTITY clear.key "d">
 <!ENTITY selectall.key "a">
 <!ENTITY close.key "l">

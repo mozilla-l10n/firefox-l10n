@@ -14,7 +14,6 @@
 <!ENTITY accOrgImagesRadio.accesskey    "r">
 <!ENTITY disableImages.label            "Não carregar nenhuma imagem">
 <!ENTITY disableImages.accesskey        "N">
-<!ENTITY viewImagesExplanation.label    "Ver a lista de sítios com a informação de aceitação de imagem guardada">
 <!ENTITY viewImages.label               "Gerir permissão de imagens">
 <!ENTITY viewImages.accesskey           "p">
 <!ENTITY animLoopingTitle.label         "As imagens animadas devem repetir">

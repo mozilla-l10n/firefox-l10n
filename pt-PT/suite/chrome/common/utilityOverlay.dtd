@@ -37,7 +37,6 @@
 <!ENTITY pasteCmd.key "v">
 <!ENTITY pasteCmd.accesskey "o">
 <!ENTITY deleteCmd.label "Eliminar">
-<!ENTITY deleteCmd.key "d">
 <!ENTITY deleteCmd.accesskey "l">
 <!ENTITY selectAllCmd.label "Seleccionar tudo">
 <!ENTITY selectAllCmd.key "a">

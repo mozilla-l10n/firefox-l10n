@@ -44,7 +44,6 @@
 <!ENTITY shortcutURL.label          "Palavra-chave:">
 <!ENTITY shortcutURL.accesskey      "P">
 <!ENTITY destination.label          "Destino:">
-<!ENTITY destination.accesskey      "D">
 <!ENTITY newFolder.label            "Nova pasta…">
 <!ENTITY newFolder.accesskey        "a">
 <!ENTITY addGroup.label             "Adicionar grupo de separadores aos marcadores">

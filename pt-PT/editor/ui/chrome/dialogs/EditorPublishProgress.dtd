@@ -35,16 +35,14 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!-- Window title -->
 
+<!-- Window title -->
 <!ENTITY siteUrl.label "URL do Sítio:">
 <!ENTITY docSubdir.label "Subdirectoria da Página:">
 <!ENTITY otherSubdir.label "Subdirectoria da Imagem:">
 
 <!ENTITY status.label "A publicar...">
 <!ENTITY fileList.label "Estado da Publicação">
-<!ENTITY statusHeader.label "Estado">
-<!ENTITY filenameHeader.label "Nome do Ficheiro">
 <!ENTITY succeeded.label "Sucesso">
 <!ENTITY failed.label "Falhou">
 

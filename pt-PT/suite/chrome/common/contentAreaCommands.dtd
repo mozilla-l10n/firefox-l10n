@@ -15,8 +15,6 @@
 <!ENTITY openFrameCmdInTab.accesskey  "s">
 <!ENTITY showOnlyThisFrameCmd.label     "Mostrar apenas esta frame">
 <!ENTITY showOnlyThisFrameCmd.accesskey "a">
-<!ENTITY addToBookmarksCmd.label      "Adicionar aos marcadores">
-<!ENTITY addToBookmarksCmd.accesskey  "m">
 <!ENTITY goBackCmd.label              "Retroceder">
 <!ENTITY goBackCmd.accesskey          "R">
 <!ENTITY goForwardCmd.label           "Avançar">

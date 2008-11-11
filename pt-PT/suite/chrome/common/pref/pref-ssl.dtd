@@ -55,8 +55,6 @@
 <!ENTITY warn.insecurepost.accesskey        "s">
 <!ENTITY warn.leavingsecure                 "Sair de uma página que suporte cifra">
 <!ENTITY warn.leavingsecure.accesskey       "a">
-<!ENTITY warn.secureredirect                "Ser redireccionado de uma página cifrada para outra">
-<!ENTITY warn.secureredirecttoinsecure      "Ser redireccionado de uma página cifrada para para uma não cifrada">
 <!ENTITY warn.viewmixed                     "Ver uma página com e sem cifra">
 <!ENTITY warn.viewmixed.accesskey           "V">
 
