@@ -37,7 +37,6 @@
 
 <!ENTITY Window.title       "Sisukord">
 <!ENTITY buildToc.label     "Sisukorra loomine:">
-<!ENTITY style.label        "Stiil:">
 <!ENTITY tag.label          "Silt:">
 <!ENTITY class.label        "Klass:">
 <!ENTITY header1.label      "Tase 1">

@@ -82,7 +82,6 @@
 
 <!ENTITY zoominCmd.label           "Suurenda">
 <!ENTITY zoomoutCmd.label          "Vähenda">
-<!ENTITY delSpotCmd.label          "Kustuta piirkond">
 
 <!-- Keys -->
 <!ENTITY clear.key                 "d">

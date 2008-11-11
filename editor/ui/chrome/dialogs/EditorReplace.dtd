@@ -58,4 +58,3 @@
 <!ENTITY replaceAllButton.label          "Asenda kõik">
 <!ENTITY replaceAllButton.accesskey      "k">
 <!ENTITY closeButton.label               "Sulge">
-<!ENTITY notFoundWarning.label           "Sisestatud teksti ei leitud.">

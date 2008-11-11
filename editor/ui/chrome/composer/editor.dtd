@@ -55,11 +55,3 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label                        "Vorming">
 <!ENTITY formatMenu.accesskey                    "o">
-
-<!ENTITY helpMenu.label                          "Abi">
-<!ENTITY aboutCmd.label                          ".Info">
-
-<!-- Display Mode Toolbar -->
-<!ENTITY editMode.label                          "Redigeerimise olek:">
-
-<!ENTITY statusText.label                        "Lehe laadimine lõpetatud">
