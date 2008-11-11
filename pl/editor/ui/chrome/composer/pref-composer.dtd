@@ -5,15 +5,6 @@
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
 <!ENTITY pref.composer.title "Kompozytor Stron">
 
-<!ENTITY saving "Zapisywanie">
-<!ENTITY AutoSaveCheck "Automatycznie zapisz co">
-<!ENTITY minText "minut">
-
-<!ENTITY exterLegend.label "Edytory zewnętrzne">
-<!ENTITY htmlSource "Źródło dokumentu HTML:">
-<!ENTITY imageeditor "Obrazki:">
-<!ENTITY chooseButton.label 			"Wybierz…">
-
 <!ENTITY recentFiles.title "Ostatnio edytowane strony">
 <!ENTITY documentsInMenu.label "Ogranicz listę ostatnio edytowanych stron do:">
 <!ENTITY documentsInMenu.accesskey "n">
@@ -28,8 +19,6 @@
 <!ENTITY showPublishDialog.accesskey   "a">
 
 <!ENTITY composerEditing.label "Edytowanie">
-<!ENTITY  spellCheckInline.label        "Sprawdź pisownię podczas wprowadzania tekstu">
-<!ENTITY  spellCheckInline.accesskey    "S">
 <!ENTITY maintainStructure.label "Zachowaj układ tabeli podczas wstawiania i usuwania komórek">
 <!ENTITY maintainStructure.tooltip "Zachowuje prostokątny kształt tabeli automatycznie dostosowując układ komórek po wstawieniu lub usunięciu komórki">
 <!ENTITY maintainStructure.accesskey "m">

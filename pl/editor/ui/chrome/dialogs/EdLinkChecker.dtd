@@ -1,7 +1,4 @@
-<!ENTITY windowTitle.label "Proszę sprawdzić adresy obrazków i odnośników" >
-<!ENTITY urlsNotFound.label "Następujące obrazki lub odnośniki nie zostały znalezione:" >
-<!ENTITY notFoundKey.label "(&quot;X&quot; = nie znaleziono pliku, &quot;?&quot; = Przekroczono limit czasu podczas próby połączenia.)" >
-<!ENTITY changeUrlButton.label "Zmień adres wybranego elementu" >
-<!ENTITY succeeded.label "Powiodło się" >
-<!ENTITY failed.label "Nie powiodło się" >
-<!ENTITY closeButton.label "Zamknij" >
+<!ENTITY windowTitle.label "Proszę sprawdzić adresy obrazków i odnośników">
+<!ENTITY succeeded.label   "Powiodło się">
+<!ENTITY failed.label      "Nie powiodło się">
+<!ENTITY closeButton.label "Zamknij">

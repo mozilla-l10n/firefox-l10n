@@ -38,17 +38,16 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Właściwości listy">
-<!ENTITY ListType.label "Typ listy:">
-<!ENTITY bulletStyle.label "Styl wypunktowania:">
-<!ENTITY startingNumber.label "Rozpocznij od:">
-<!ENTITY startingNumber.accessKey "R">
-<!ENTITY none.value "Brak">
-<!ENTITY bulletList.value "Lista wypunktowana (nienumerowana)">
-<!ENTITY numberList.value "Lista numerowana">
-<!ENTITY definitionList.value "Lista definicji">
-<!ENTITY changeListMsg.label "Podczas zmiany typu listy:">
-<!ENTITY changeEntireListRadio.label "Zmień całą listę">
+<!ENTITY windowTitle.label               "Właściwości listy">
+<!ENTITY ListType.label                  "Typ listy:">
+<!ENTITY bulletStyle.label               "Styl wypunktowania:">
+<!ENTITY startingNumber.label            "Rozpocznij od:">
+<!ENTITY startingNumber.accessKey        "R">
+<!ENTITY none.value                      "Brak">
+<!ENTITY bulletList.value                "Lista wypunktowana (nienumerowana)">
+<!ENTITY numberList.value                "Lista numerowana">
+<!ENTITY definitionList.value            "Lista definicji">
+<!ENTITY changeEntireListRadio.label     "Zmień całą listę">
 <!ENTITY changeEntireListRadio.accessKey "Z">
-<!ENTITY changeSelectedRadio.label "Zmień tylko wybrane elementy">
-<!ENTITY changeSelectedRadio.accessKey 		"m">
+<!ENTITY changeSelectedRadio.label       "Zmień tylko wybrane elementy">
+<!ENTITY changeSelectedRadio.accessKey   "m">

@@ -37,64 +37,75 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-   
+
+<!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+
+<!-- Window title -->
 <!ENTITY windowTitle.label "Właściwości obrazka">
 <!ENTITY pixelsPopup.value "pikseli">
-<!ENTITY percentPopup.value "procent">
-<!ENTITY locationEditField.label "Adres obrazka:">
+
+<!-- These are in the Location tab panel -->
+<!ENTITY locationEditField.label     "Adres obrazka:">
 <!ENTITY locationEditField.accessKey "A">
-<!ENTITY locationEditField.tooltip "Wprowadź nazwę pliku obrazka lub lokację">
-<!ENTITY title.label 				"Etykieta:">
-<!ENTITY title.accessKey "k">
-<!ENTITY title.tooltip 				'Atrybut "Title" wyświetlany jako etykieta'>
-<!ENTITY altText.label "Tekst alternatywny:">
-<!ENTITY altText.accessKey "T">
-<!ENTITY altTextEditField.tooltip "Wprowadź tekst, który będzie wyświetlany w miejscu obrazka">
-<!ENTITY noAltText.label "Nie wyświetlaj tekstu alternatywnego">
-<!ENTITY noAltText.accessKey "N">
-<!ENTITY previewBox.label "Podgląd obrazka">
-<!ENTITY MoreFewerButton.tooltip "Wyświetl mniej lub więcej właściwości do edycji">
-<!ENTITY actualSize.label "Rozmiar oryginalny:">
-<!ENTITY actualSizeRadio.label "Rozmiar oryginalny">
-<!ENTITY actualSizeRadio.accessKey "O">
-<!ENTITY actualSizeRadio.tooltip "Przywróć rozmiar oryginalny">
-<!ENTITY customSizeRadio.label "Rozmiar niestandardowy">
-<!ENTITY customSizeRadio.accessKey "r">
-<!ENTITY customSizeRadio.tooltip "Zmień rozmiar obrazka wyświetlanego na stronie">
-<!ENTITY heightEditField.label "Wysokość:">
-<!ENTITY heightEditField.accessKey "y">
-<!ENTITY widthEditField.label "Szerokość:">
-<!ENTITY widthEditField.accessKey "S">
-<!ENTITY constrainCheckbox.label "Zachowaj skalę">
+<!ENTITY locationEditField.tooltip   "Wprowadź nazwę pliku obrazka lub lokację">
+<!ENTITY title.label                 "Etykieta:">
+<!ENTITY title.accessKey             "k">
+<!ENTITY title.tooltip               'Atrybut "Title" wyświetlany jako etykieta'>
+<!ENTITY altText.label               "Tekst alternatywny:">
+<!ENTITY altText.accessKey           "T">
+<!ENTITY altTextEditField.tooltip    "Wprowadź tekst, który będzie wyświetlany w miejscu obrazka">
+<!ENTITY noAltText.label             "Nie wyświetlaj tekstu alternatywnego">
+<!ENTITY noAltText.accessKey         "N">
+<!ENTITY previewBox.label            "Podgląd obrazka">
+
+<!-- These controls are in the Dimensions tab panel -->
+<!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
+<!ENTITY actualSize.label            "Rozmiar oryginalny:">
+<!ENTITY actualSizeRadio.label       "Rozmiar oryginalny">
+<!ENTITY actualSizeRadio.accessKey   "o">
+<!ENTITY actualSizeRadio.tooltip     "Przywróć rozmiar oryginalny">
+<!ENTITY customSizeRadio.label       "Rozmiar niestandardowy">
+<!ENTITY customSizeRadio.accessKey   "R">
+<!ENTITY customSizeRadio.tooltip     "Zmień rozmiar obrazka wyświetlanego na stronie">
+<!ENTITY heightEditField.label       "Wysokość:">
+<!ENTITY heightEditField.accessKey   "y">
+<!ENTITY widthEditField.label        "Szerokość:">
+<!ENTITY widthEditField.accessKey    "S">
+<!ENTITY constrainCheckbox.label     "Zachowaj skalę">
 <!ENTITY constrainCheckbox.accessKey "Z">
-<!ENTITY constrainCheckbox.tooltip "Zachowaj współczynnik kształtu obrazka">
-<!ENTITY imagemapBox.label "Mapa obrazka">
-<!ENTITY removeImageMapButton.label "Usuń">
+<!ENTITY constrainCheckbox.tooltip   "Zachowaj współczynnik kształtu obrazka">
+
+<!-- These controls are in the Image Map box of the expanded area -->
+<!ENTITY imagemapBox.label              "Mapa obrazka">
+<!ENTITY removeImageMapButton.label     "Usuń">
 <!ENTITY removeImageMapButton.accessKey "U">
-<!ENTITY editImageMapButton.label 		"Edytuj…">
-<!ENTITY editImageMapButton.tooltip "Utwórz aktywne obszary dla tego obrazka">
-<!ENTITY alignment.label "Wyrównaj tekst względem obrazka">
-<!ENTITY bottomPopup.value "Na dole">
-<!ENTITY topPopup.value "U góry">
-<!ENTITY centerPopup.value "Na środku">
-<!ENTITY wrapRightPopup.value "Opływanie z prawej">
-<!ENTITY wrapLeftPopup.value "Opływanie z lewej">
-<!ENTITY spacingBox.label "Odstępy">
-<!ENTITY spacingBox.tooltip "Wprowadź liczbę określającą wielkość odstępu obrazka od otaczających go elementów">
-<!ENTITY leftRightEditField.label "Z lewej i prawej:">
-<!ENTITY leftRightEditField.accessKey "l">
-<!ENTITY topBottomEditField.label "Z góry i dołu:">
-<!ENTITY topBottomEditField.accessKey "g">
-<!ENTITY borderEditField.label "Szerokość obramowania:">
-<!ENTITY borderEditField.accessKey "b">
-<!ENTITY showImageLinkBorder.label "Pokaż ramkę wokół obrazka z odnośnikiem">
-<!ENTITY showImageLinkBorder.accessKey 		"m">
-<!ENTITY makePageBackgroundCheckbox.label "Wybierz jako obrazek tła">
-<!ENTITY makePageBackgroundCheckbox.tooltip "Użyj obrazka jako tło dla Twojej strony">
-<!ENTITY editImageButton.label "Edytuj obrazek">
-<!ENTITY editImageButton.tooltip "Edytuj obrazek w innym programie">
-<!ENTITY imageInputTab.label "Formularz">
-<!ENTITY imageLocationTab.label "Adres">
+<!ENTITY editImageMapButton.label       "Edytuj…">
+<!ENTITY editImageMapButton.tooltip     "Utwórz aktywne obszary dla tego obrazka">
+
+<!-- These are the options for image alignment -->
+<!ENTITY alignment.label        "Wyrównaj tekst względem obrazka">
+<!ENTITY bottomPopup.value      "Na dole">
+<!ENTITY topPopup.value         "U góry">
+<!ENTITY centerPopup.value      "Na środku">
+<!ENTITY wrapRightPopup.value   "Opływanie z prawej">
+<!ENTITY wrapLeftPopup.value    "Opływanie z lewej">
+
+<!-- These controls are in the Spacing Box -->
+<!ENTITY spacingBox.label               "Odstępy">
+<!ENTITY leftRightEditField.label       "Z lewej i prawej:">
+<!ENTITY leftRightEditField.accessKey   "l">
+<!ENTITY topBottomEditField.label       "Z góry i dołu:">
+<!ENTITY topBottomEditField.accessKey   "g">
+<!ENTITY borderEditField.label          "Szerokość obramowania:">
+<!ENTITY borderEditField.accessKey      "b">
+
+<!-- These controls are in the Link Box -->
+<!ENTITY showImageLinkBorder.label     "Pokaż ramkę wokół obrazka z odnośnikiem">
+<!ENTITY showImageLinkBorder.accessKey "m">
+
+<!-- These tabs are currently used in the image input dialog -->
+<!ENTITY imageInputTab.label      "Formularz">
+<!ENTITY imageLocationTab.label   "Adres">
 <!ENTITY imageDimensionsTab.label "Wymiary">
 <!ENTITY imageAppearanceTab.label "Wygląd">
-<!ENTITY imageLinkTab.label "Odnośnik">
+<!ENTITY imageLinkTab.label       "Odnośnik">

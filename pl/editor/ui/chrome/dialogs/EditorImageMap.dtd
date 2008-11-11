@@ -37,7 +37,6 @@
 
 <!ENTITY zoominCmd.label "Powiększ" >
 <!ENTITY zoomoutCmd.label "Pomniejsz" >
-<!ENTITY delSpotCmd.label "Usuń aktywny obszar" >
 
 <!-- Keys -->
 <!ENTITY clear.key     "d">

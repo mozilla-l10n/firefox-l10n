@@ -71,7 +71,6 @@
 <!ENTITY tableCaptionRight.label "Po prawej stronie">
 <!ENTITY tableCaptionNone.label "Brak">
 <!ENTITY tableInheritColor.label "(pozostaw bez zaznaczenia, aby było widoczne tło strony)">
-<!ENTITY cellPercent.label "procent tabeli">
 <!ENTITY cellSelection.label "Zaznaczenie">
 <!ENTITY cellSelectCell.label "Komórka">
 <!ENTITY cellSelectRow.label "Wiersz">
@@ -80,11 +79,7 @@
 <!ENTITY cellSelectNext.accessKey "N">
 <!ENTITY cellSelectPrevious.label "Poprzednie">
 <!ENTITY cellSelectPrevious.accessKey "d">
-<!ENTITY cellApplyBeforeMove.label "Zastosuj zmiany przed zmianą zaznaczenia">
-<!ENTITY cellKeepCurrentData.label "Zachowaj bieżące ustawienia">
 <!ENTITY applyBeforeChange.label "Uwaga: wprowadzone zmiany będą zastosowane przy przejściu do następnego elementu.">
-<!ENTITY cellRowSpan.label "Rozpiętość wiersza:">
-<!ENTITY cellColSpan.label "Rozpiętość kolumny:">
 <!ENTITY cellContentAlignment.label "Wyrównanie zawartości">
 <!ENTITY cellHorizontal.label "W poziomie:">
 <!ENTITY cellHorizontal.accessKey "p">
@@ -102,7 +97,6 @@
 <!ENTITY cellAlignMiddle.label "Do środka">
 <!ENTITY cellAlignBottom.label "Do dołu">
 <!ENTITY cellAlignJustify.label "Wyjustowana">
-<!ENTITY cellAlignAtChar.label "Do znaku:">
 <!ENTITY cellInheritColor.label "(pozostaw bez zaznaczenia, aby było widoczne tło tabeli)">
 <!ENTITY cellUseCheckboxHelp.label "Użyj pól wyboru, aby wybrać, które z powyższych właściwości zostaną zastosowane do zaznaczonych komórek">
 <!ENTITY size.label "Rozmiar">

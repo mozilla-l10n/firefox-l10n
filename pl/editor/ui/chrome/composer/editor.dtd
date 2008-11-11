@@ -59,11 +59,3 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label     "Format">
 <!ENTITY formatMenu.accesskey "F">
-
-<!ENTITY helpMenu.label   "Pomoc">
-<!ENTITY aboutCmd.label   "Informacje o">
-
-<!-- Display Mode Toolbar -->
-<!ENTITY editMode.label   "Tryb edycji:">
-
-<!ENTITY statusText.label "Zakończono wczytywanie strony">

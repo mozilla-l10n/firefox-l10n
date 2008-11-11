@@ -75,10 +75,8 @@
 <!ENTITY filename.accesskey           "l">
 <!ENTITY filename.tooltip             "Proszę wprowadzić nazwę pliku, wraz z rozszerzeniem '.html', pod którą zostanie zachowana bieżąca strona" >
 <!ENTITY filenameExample.label        'np.: "mojastrona.html"' >
-<!ENTITY relatedDocs.label            "Inne pliki WWW do opublikowania" >
 <!ENTITY setDefaultButton.label       "Ustaw jako domyślne" >
-<!ENTITY setDefaultButton.accesskey   "d"> 
-<!ENTITY setDefSiteAndDir.label       "Ustawienia domyślnej witryny oraz katalogu" >
+<!ENTITY setDefaultButton.accesskey   "d">
 <!ENTITY removeButton.label           "Usuń witrynę" >
 <!ENTITY removeButton.accesskey       "U">
 

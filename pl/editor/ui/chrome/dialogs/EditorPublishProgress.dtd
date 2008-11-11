@@ -1,11 +1,9 @@
-<!ENTITY siteUrl.label "URL witryny:" >
-<!ENTITY docSubdir.label "Podkatalog ze stronami:" >
+<!ENTITY siteUrl.label     "URL witryny:" >
+<!ENTITY docSubdir.label   "Podkatalog ze stronami:" >
 <!ENTITY otherSubdir.label "Podkatalog z obrazkami:" >
-<!ENTITY status.label 				"Publikowanie…" >
-<!ENTITY fileList.label "Status publikowania" >
-<!ENTITY statusHeader.label "Status" >
-<!ENTITY filenameHeader.label "Nazwa pliku" >
-<!ENTITY succeeded.label "Powiodło się" >
-<!ENTITY failed.label "Nie powiodło się" >
-<!ENTITY keepOpen "Nie zamykaj tego okna po ukończeniu publikowania." >
+<!ENTITY status.label 	   "Publikowanie…" >
+<!ENTITY fileList.label    "Status publikowania" >
+<!ENTITY succeeded.label   "Powiodło się" >
+<!ENTITY failed.label      "Nie powiodło się" >
+<!ENTITY keepOpen          "Nie zamykaj tego okna po ukończeniu publikowania." >
 <!ENTITY closeButton.label "Zamknij" >
