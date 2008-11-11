@@ -9,7 +9,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
                                                                   inside the private browsing mode -->
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Private Browsing)">
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Nabigatze pribatua)">
 
 <!ENTITY tabCmd.label "Fitxa berria">
 <!ENTITY tabCmd.accesskey "T">
@@ -161,10 +161,10 @@
 <!ENTITY preferencesCmdUnix.label "Hobespenak">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
-<!ENTITY clearRecentHistoryCmd.label "Clear Recent History">
+<!ENTITY clearRecentHistoryCmd.label "Garbitu azkenaldiko historia">
 <!ENTITY clearRecentHistoryCmd.accesskey "H">
 
-<!ENTITY privateBrowsingCmd.label "Private Browsing">
+<!ENTITY privateBrowsingCmd.label "Nabigatze pribatua">
 <!ENTITY privateBrowsingCmd.accesskey "B">
 
 <!ENTITY viewMenu.label "Ikusi">
@@ -428,4 +428,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Egin klik deskarga leihoa irekitzeko">
 
-<!ENTITY ctrlTab.search.emptyText "Search Tabs">
+<!ENTITY ctrlTab.search.emptyText "Bilatu fitxak">
