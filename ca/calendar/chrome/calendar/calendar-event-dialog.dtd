@@ -387,6 +387,7 @@
 <!ENTITY read.only.reply.label           "Respon:">
 <!ENTITY read.only.accept.label          "Hi assistiré">
 <!ENTITY read.only.decline.label         "No hi assistiré">
+<!ENTITY read.only.tentative.label 		 "Potser hi assistiré">
 <!ENTITY read.only.needs.action.label    "Ho confirmaré més tard">
 <!ENTITY read.only.reminder.label        "Recorda-m'ho:">
 <!ENTITY read.only.attendees.label       "Assistents">
