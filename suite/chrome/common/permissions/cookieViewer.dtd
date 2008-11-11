@@ -67,8 +67,5 @@
 <!ENTITY     removeallpermissions.label     "Pašalinti visas svetaines">
 <!ENTITY     removeallpermissions.accesskey "v">
 
-<!ENTITY     canSet.label                   "gali įrašyti slapukus">
-<!ENTITY     cannotSet.label                "negali įrašyti slapukų">
-
 <!ENTITY     futureCookies.label            "Svetainėms, kurių slapukai jau buvo pašalinti, neleisti jų įrašyti iš naujo">
 <!ENTITY     futureCookies.accesskey        "b">

@@ -20,6 +20,8 @@
    -
    - Contributor(s):
    -   Robert John Churchill <rjc@netscape.com>
+	-   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+	-   Rimas Kudelis <rq@akl.lt>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -36,20 +38,14 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY search.button.label      "Ieškoti">
-<!ENTITY search.results.tab       "Vykdyti">
-<!ENTITY search.advanced.tab      "Nuostatos">
 <!ENTITY allengines.label         "Visos ieškyklės">
 <!ENTITY within.label             "Kur:">
 <!ENTITY using.label              "Naudojant">
 <!ENTITY choose.label             "Pasirinkite ieškyklę ir spustelėkite „Ieškoti“">
 <!ENTITY results.label            "Paieškos rezultatai">
 <!ENTITY engine.column.label      "ieškyklės">
-<!ENTITY checkbox.column.label    "Pažymėti">
-<!ENTITY stop.button.label        "Stabdyti">
 <!ENTITY customize.menuitem.label   "Sudaryti ieškyklių grupes…">
-<!ENTITY savesearch.button.label  "Radinius įtraukti į adresyną">
 <!ENTITY next.button.label        "Tolesni">
 <!ENTITY previous.button.label    "Ankstesni">
 <!ENTITY next.button.tooltip      "Rodyti kitus radinius">
 <!ENTITY previous.button.tooltip  "Rodyti ankstesnius radinius">
-

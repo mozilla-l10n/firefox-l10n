@@ -24,8 +24,6 @@
 <!ENTITY  cursive.label                           "Rankraštinis:">
 <!ENTITY  cursive.accesskey                       "R">
 
-<!ENTITY  fontsize.units                          "taškų">
-
 <!ENTITY  font.langGroup.latin1                   "Vakarų Europos">
 <!ENTITY  font.langGroup.latin2                   "Vidurio Europos">
 <!ENTITY  font.langGroup.japanese                 "Japonų">
@@ -62,8 +60,6 @@
 <!ENTITY  useDefaultFontSerif.label               "Su užraitais">
 <!ENTITY  useDefaultFontSansSerif.label           "Be užraitų">
 
-<!ENTITY  newLanguages.label                      "Nauja kalba gali būti įtraukta iš kalbų skydelio.">
-
 <!ENTITY  useDocumentFonts.label                  "Naudoti šriftus iš tinklalapio bei čia patikslintus, nepaisant nurodymų lauke „Įvairiaplotis“.">
 <!ENTITY  useDocumentFonts.accesskey              "u">
 
@@ -72,9 +68,3 @@
 <!ENTITY  header2                                 "Kai tinklalapyje nurodyti šriftai">
 <!ENTITY  useDefaultFont.label                    "Naudoti numatytuosius šriftus, nepaisant nurodytų tinklalapyje">
 <!ENTITY  useDefaultFont.accesskey                "m">
-<!-- LOCALIZATION NOTE (useDocFontNonDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
-<!ENTITY  useDocFontNonDynamic.label              "Naudoti tinklalapyje nurodytus šriftus">
-<!ENTITY  useDocFontNonDynamic.accesskey          "N">
-<!-- LOCALIZATION NOTE (useDocFontDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
-<!ENTITY  useDocFontDynamic.label                 "Naudoti visus tinklalapyje nurodytus šriftus">
-<!ENTITY  useDocFontDynamic.accesskey             "v">

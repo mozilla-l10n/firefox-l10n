@@ -34,8 +34,6 @@
 
 <!ENTITY pref.popups.caption            "Iškylantieji langai">
 
-<!ENTITY popupDesc.label                "Nurodykite, kaip naršyklė turi elgtis su iškylančiais langais, kurie atsiranda virš arba po aktyvaus naršyklės lango:">
-
 <!ENTITY popupBlock.label               "Užblokuoti iškylančius langus">
 <!ENTITY popupBlock.accesskey           "U">
 

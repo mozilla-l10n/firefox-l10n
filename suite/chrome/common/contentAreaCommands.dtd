@@ -47,8 +47,6 @@
 <!ENTITY openFrameCmdInTab.accesskey  "t">
 <!ENTITY showOnlyThisFrameCmd.label     "Rodyti tik šį kadrą">
 <!ENTITY showOnlyThisFrameCmd.accesskey "o">
-<!ENTITY addToBookmarksCmd.label      "Įrašyti į adresyną">
-<!ENTITY addToBookmarksCmd.accesskey  "d">
 <!ENTITY goBackCmd.label              "Atgal">
 <!ENTITY goBackCmd.accesskey          "A">
 <!ENTITY goForwardCmd.label           "Pirmyn">
