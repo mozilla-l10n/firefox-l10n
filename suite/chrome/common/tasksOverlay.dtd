@@ -1,27 +1,20 @@
 <!-- extracted from tasksOverlay.xul -->
-<!ENTITY navigatorCmd.label "Browser">
-<!ENTITY navigatorCmd.accesskey "B">
+<!ENTITY navigatorCmd.label "Navegador">
+<!ENTITY navigatorCmd.accesskey "N">
 <!ENTITY navigatorCmd.commandkey "1">
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
 <!ENTITY editorCmd.label					"Compositor">
 <!ENTITY editorCmd.accesskey				"c">
 <!ENTITY editorCmd.commandkey				"4">
 
-<!ENTITY securityInfoCmd.label					".Info de segurança">  
-<!ENTITY securityInfoCmd.accesskey				"s">
 <!ENTITY javaConsoleCmd.label					"Consola Java">
 <!ENTITY javaConsoleCmd.accesskey				"j">
 
 <!ENTITY errorConsoleCmd.label                                  "Consola de erro">
 <!ENTITY errorConsoleCmd.accesskey				"C">
 
-<!-- LOCALIZATION NOTE (privacyMenu.label): DONT_TRANSLATE -->
-<!ENTITY privacyMenu.label "Privacidade &amp; Segurança">
-<!ENTITY privacyMenu.accesskey "p">
-
 <!ENTITY taskNavigator.tooltip  "Navegador">
 <!ENTITY taskComposer.tooltip  "Compositor">
-<!ENTITY taskBar.tooltip  "Barra de estado">
 
 <!ENTITY webDevelopment.label "Desenvolvimento Web">
 <!ENTITY webDevelopment.accesskey "W">
