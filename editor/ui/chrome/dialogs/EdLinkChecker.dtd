@@ -38,9 +38,6 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label     "Kontrolearje ôfbyldings- en keppelingslokaasjes">
-<!ENTITY urlsNotFound.label    "De folgjende ôfbyldings- of keppelingslokaasjes wurde net fûn:">
-<!ENTITY notFoundKey.label     "(&quot;X&quot; = bestân net fûn, &quot;?&quot; = timeout tiidens ferbiningspoging.)">
-<!ENTITY changeUrlButton.label "Feroar lokaasje fan selektearre item">
 <!ENTITY succeeded.label       "Slagge">
 <!ENTITY failed.label          "Mislearre">
 <!ENTITY closeButton.label     "Slute">

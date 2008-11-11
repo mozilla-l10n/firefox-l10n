@@ -47,7 +47,6 @@
 <!ENTITY bulletList.value "Opsommingslist (net nûmere)">
 <!ENTITY numberList.value "Nûmere list">
 <!ENTITY definitionList.value "Definysjelist">
-<!ENTITY changeListMsg.label "By feroarjen fan it listtype:">
 <!ENTITY changeEntireListRadio.label "Hiele list feroarje">
 <!ENTITY changeEntireListRadio.accessKey "f">
 <!ENTITY changeSelectedRadio.label "Allinnich de selektearre items feroarje">

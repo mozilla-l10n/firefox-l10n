@@ -82,7 +82,6 @@
 
 <!ENTITY zoominCmd.label "Ynzoome">
 <!ENTITY zoomoutCmd.label "Utzoome">
-<!ENTITY delSpotCmd.label "Punt fuortsmite">
 
 <!-- Keys -->
 <!ENTITY clear.key "d">
