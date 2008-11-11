@@ -40,7 +40,7 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Propriedades da Imagem">
 
-<!ENTITY pixelsPopup.value "pixéis"
+<!ENTITY pixelsPopup.value "pixéis">
 
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Localização da Imagem:">
@@ -48,7 +48,7 @@
 <!ENTITY locationEditField.tooltip "Escreva o nome ou a localização da imagem">
 <!ENTITY title.label "Dica:">
 <!ENTITY title.accessKey "D">
-<!ENTITY title.tooltip "O atributo 'título' html que é apresentado como tooltip">
+<!ENTITY title.tooltip "O atributo 'título' html que é apresentado como dica">
 <!ENTITY altText.label "Texto Alternativo:">
 <!ENTITY altText.accessKey "A">
 <!ENTITY altTextEditField.tooltip "Escrever  texto a mostrar em vez da imagem">
