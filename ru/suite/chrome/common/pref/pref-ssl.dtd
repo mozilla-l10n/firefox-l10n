@@ -53,8 +53,6 @@
 <!ENTITY warn.insecurepost.accesskey "ф">
 <!ENTITY warn.leavingsecure "уходом со страницы, поддерживающей шифрование">
 <!ENTITY warn.leavingsecure.accesskey "у">
-<!ENTITY warn.secureredirect "перенаправлением с зашифрованной страницы на зашифрованную">
-<!ENTITY warn.secureredirecttoinsecure "перенаправлением с зашифрованной страницы на незашифрованную">
 <!ENTITY warn.viewmixed "просмотром страницы со смешанным содержанием">
 <!ENTITY warn.viewmixed.accesskey "м">
 <!ENTITY certselect.description "Определите, как &brandShortName; будет выбирать сертификат при его запросе сайтом:">

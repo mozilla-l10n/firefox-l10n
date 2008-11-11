@@ -31,7 +31,5 @@
 <!ENTITY removepermission.accesskey "а">
 <!ENTITY removeallpermissions.label "Удалить все сайты">
 <!ENTITY removeallpermissions.accesskey "с">
-<!ENTITY canSet.label "может сохранять куки">
-<!ENTITY cannotSet.label "не может сохранять куки">
 <!ENTITY futureCookies.label "Не принимать удалённые куки снова">
 <!ENTITY futureCookies.accesskey "р">

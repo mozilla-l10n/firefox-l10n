@@ -1,6 +1,5 @@
 <!ENTITY pref.popups.title "Всплывающие окна">
 <!ENTITY pref.popups.caption "Всплывающие окна">
-<!ENTITY popupDesc.label "Укажите, что следует делать со всплывающими окнами, которые появляются над или под текущим окном браузера:">
 <!ENTITY popupBlock.label "Блокировать всплывающие окна">
 <!ENTITY popupBlock.accesskey "л">
 <!ENTITY popupExceptions.label "Разрешённые сайты…">

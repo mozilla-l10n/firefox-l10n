@@ -66,10 +66,8 @@
 <!ENTITY filename.accesskey "ф">
 <!ENTITY filename.tooltip "Введите имя этого файла, не забудьте расширение «.html», если это веб-страница">
 <!ENTITY filenameExample.label "например, «mypage.html»">
-<!ENTITY relatedDocs.label "Другие файлы для публикации">
 <!ENTITY setDefaultButton.label "Установить по умолчанию">
 <!ENTITY setDefaultButton.accesskey "у">
-<!ENTITY setDefSiteAndDir.label "Установить как сайт и каталог по умолчанию">
 <!ENTITY removeButton.label "Удалить сайт">
 <!ENTITY removeButton.accesskey "д">
 <!ENTITY publishSites.label "Публикация сайтов">

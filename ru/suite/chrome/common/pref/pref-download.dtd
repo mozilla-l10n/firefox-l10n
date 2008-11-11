@@ -27,5 +27,3 @@
 <!ENTITY browse.accesskey "О">
 <!ENTITY preview.label "Просмотр">
 <!ENTITY preview.accesskey "П">
-<!ENTITY soundURL.label "URL файла со звуковым сигналом:">
-<!ENTITY soundURL.accesskey "U">

@@ -39,17 +39,16 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY menuBar.tooltip "Панель меню">
 <!ENTITY bookmarkToolbar.tooltip "Панель закладок">
-<!ENTITY bookmarksSearch.tooltip "Панель поиска в закладках">
 <!ENTITY menuitem.newBookmark.label "Закладку">
-<!ENTITY command.newBookmark.accesskey "З">
+<!ENTITY menuitem.newBookmark.accesskey "к">
 <!ENTITY menuitem.newFolder.label "Папку">
+<!ENTITY menuitem.newFolder.accesskey "а">
 <!ENTITY button.newFolder.label "Создать папку">
 <!ENTITY button.newFolder.accesskey "з">
-<!ENTITY command.newFolder.accesskey "П">
 <!ENTITY menuitem.newSeparator.label "Разделитель">
+<!ENTITY menuitem.newSeparator.accesskey "д">
 <!ENTITY button.newSeparator.label "Создать разделитель">
 <!ENTITY button.newSeparator.accesskey "р">
-<!ENTITY command.newSeparator.accesskey "Р">
 <!ENTITY menuitem.open.label "Открыть файл закладок…">
 <!ENTITY menuitem.open.accesskey "О">
 <!ENTITY menuitem.import.label "Импорт…">
@@ -57,25 +56,27 @@
 <!ENTITY menuitem.export.label "Экспорт…">
 <!ENTITY menuitem.export.accesskey "Э">
 <!ENTITY menuitem.find.label "Поиск в закладках…">
-<!ENTITY command.findBookmarks.label "Поиск…">
 <!ENTITY menuitem.find.accesskey "П">
-<!ENTITY edit.find.keybinding "f">
-<!ENTITY command.properties.label "Свойства…">
+<!ENTITY menuitem.find.find.key "F">
+<!ENTITY command.findBookmarks.label "Поиск…">
+<!ENTITY menuitem.properties.label "Свойства…">
+<!ENTITY menuitem.properties.accesskey "о">
+<!ENTITY button.properties.label "Свойства…">
 <!ENTITY button.properties.accesskey "в">
-<!ENTITY command.properties.accesskey "й">
-<!ENTITY edit.properties.keybinding "i">
-<!ENTITY command.rename.label "Переименовать…">
+<!ENTITY menuitem.properties.key "I">
+<!ENTITY button.rename.label "Переименовать…">
 <!ENTITY button.rename.accesskey "е">
-<!ENTITY command.delete.label "Удалить">
-<!ENTITY button.delete.accesskey "У">
-<!ENTITY command.moveBookmark.label "Переместить закладки…">
-<!ENTITY command.moveBookmarkShort.label "Переместить…">
-<!ENTITY command.moveBookmark.accesskey "и">
+<!ENTITY button.delete.label "Удалить">
+<!ENTITY button.delete.accesskey "д">
+<!ENTITY menuitem.moveBookmark.label "Переместить закладки…">
+<!ENTITY menuitem.moveBookmark.accesskey "м">
+<!ENTITY button.moveBookmark.label "Переместить…">
+<!ENTITY button.moveBookmark.accesskey "м">
 <!ENTITY command.addBookmark.label "Добавить…">
 <!ENTITY command.manageBookmarks.label "Управление">
 <!ENTITY command.sortFolder.label "Сортировать в папке…">
 <!ENTITY command.sortFolder.accesskey "С">
-<!ENTITY edit.sortFolder.keybinding "S">
+<!ENTITY command.sortFolder.key "S">
 <!ENTITY command.sortFolderByName.label "Сортировка элементов папки по имени">
 <!ENTITY command.sortFolderByName.accesskey "э">
 <!ENTITY menuitem.view.command.toolbar.label "Панель инструментов">
@@ -91,25 +92,18 @@
 <!ENTITY menuitem.personaltoolbarfolder.label "Сделать папкой личной панели">
 <!ENTITY menuitem.personaltoolbarfolder.accesskey "л">
 <!ENTITY treecol.name.label "Имя">
-<!ENTITY treecol.name.accesskey "м">
 <!ENTITY treecol.name.tooltip "Щелкните для сортировки по имени">
 <!ENTITY treecol.url.label "Адрес">
-<!ENTITY treecol.url.accesskey "А">
 <!ENTITY treecol.url.tooltip "Щелкните для сортировки по адресу">
 <!ENTITY treecol.shortcut.label "Краткое имя">
-<!ENTITY treecol.shortcut.accesskey "К">
 <!ENTITY treecol.shortcut.tooltip "Щелкните для сортировки по краткому имени">
 <!ENTITY treecol.description.label "Описание">
-<!ENTITY treecol.description.accesskey "О">
 <!ENTITY treecol.description.tooltip "Щелкните для сортировки по описанию">
 <!ENTITY treecol.addedon.label "Добавлена">
-<!ENTITY treecol.addedon.accesskey "Д">
 <!ENTITY treecol.addedon.tooltip "Щелкните для сортировки по порядку добавления">
 <!ENTITY treecol.lastmod.label "Последнее изменение">
-<!ENTITY treecol.lastmod.accesskey "и">
 <!ENTITY treecol.lastmod.tooltip "Щелкните для сортировки по последнему изменению">
 <!ENTITY treecol.lastvisit.label "Последнее посещение">
-<!ENTITY treecol.lastvisit.accesskey "п">
 <!ENTITY treecol.lastvisit.tooltip "Щелкните для сортировки по последнему посещению">
 <!ENTITY bookmarksWindowTitle.label "Менеджер закладок">
 <!ENTITY search.label "Поиск">

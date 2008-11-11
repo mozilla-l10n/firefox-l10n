@@ -41,8 +41,6 @@
 <!ENTITY otherSubdir.label "Подкаталог изображений:">
 <!ENTITY status.label "Публикация…">
 <!ENTITY fileList.label "Состояние публикации">
-<!ENTITY statusHeader.label "Состояние">
-<!ENTITY filenameHeader.label "Имя файла">
 <!ENTITY succeeded.label "Готово">
 <!ENTITY failed.label "Ошибка">
 <!ENTITY keepOpen "Не закрывать это окно после завершения публикации.">

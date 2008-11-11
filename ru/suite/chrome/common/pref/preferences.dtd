@@ -6,14 +6,10 @@
 <!ENTITY colors.label "Цвета">
 <!ENTITY navigator.label "Браузер">
 <!ENTITY history.label "Журнал">
-<!ENTITY bidi.label "Двунаправленный текст">
 <!ENTITY languages.label "Языки">
 <!ENTITY applications.label "Приложения">
 <!ENTITY locationBar.label "Панель адреса">
 <!ENTITY tabWindows.label "Вкладки">
-<!ENTITY compose.label "Компоновщик">
-<!ENTITY editing.label "Параметры новой страницы">
-<!ENTITY publish.label "Публикация">
 <!ENTITY offline.label "Автономная работа">
 <!ENTITY security.label "Приватность и защита">
 <!ENTITY cookies.label "Куки">

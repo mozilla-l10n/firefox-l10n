@@ -44,7 +44,6 @@
 <!ENTITY shortcutURL.label "Краткое имя:">
 <!ENTITY shortcutURL.accesskey "К">
 <!ENTITY destination.label "Назначение:">
-<!ENTITY destination.accesskey "Н">
 <!ENTITY newFolder.label "Создать папку…">
 <!ENTITY newFolder.accesskey "П">
 <!ENTITY addGroup.label "Поместить как группу">
