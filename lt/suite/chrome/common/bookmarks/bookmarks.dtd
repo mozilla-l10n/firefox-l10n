@@ -22,6 +22,8 @@
    -   Stephen Lamm <slamm@netscape.com>
    -   Blake Ross <blakeross@telocity.com>
    -   Mike Kowalski <mikejk@ameritech.net>
+	-   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+	-   Rimas Kudelis <rq@akl.lt>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -38,46 +40,47 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- extracted from ./bookmarks.xul -->
-<!ENTITY menuBar.tooltip               "Meniu juosta">
-<!ENTITY bookmarkToolbar.tooltip       "Adresyno mygtukų juosta">
-<!ENTITY bookmarksSearch.tooltip       "Paieškos adresyne mygtukų juosta">
-<!ENTITY menuitem.newBookmark.label    "Adresas">
-<!ENTITY command.newBookmark.accesskey "A">
-<!ENTITY menuitem.newFolder.label      "Aplankas">
-<!ENTITY button.newFolder.label        "Naujas aplankas">
-<!ENTITY button.newFolder.accesskey    "N">
-<!ENTITY command.newFolder.accesskey   "l">
-<!ENTITY menuitem.newSeparator.label   "Skirtukas">
-<!ENTITY button.newSeparator.label     "Naujas skirtukas">
-<!ENTITY button.newSeparator.accesskey  "r">
-<!ENTITY command.newSeparator.accesskey "k">
-<!ENTITY menuitem.open.label           "Atverti adresyno failą…">
-<!ENTITY menuitem.open.accesskey       "A">
-<!ENTITY menuitem.import.label         "Importuoti tinklaviečių adresyną…">
-<!ENTITY menuitem.import.accesskey     "I">
-<!ENTITY menuitem.export.label         "Eksportuoti tinklaviečių adresyną…">
-<!ENTITY menuitem.export.accesskey     "E">
-<!ENTITY menuitem.find.label           "Ieškoti adresyne…">
-<!ENTITY command.findBookmarks.label   "Ieškoti…">
-<!ENTITY menuitem.find.accesskey       "š">
-<!ENTITY edit.find.keybinding          "f">
-<!ENTITY command.properties.label      "Savybės">
-<!ENTITY button.properties.accesskey  "S">
-<!ENTITY command.properties.accesskey  "S">
-<!ENTITY edit.properties.keybinding    "i">
-<!ENTITY command.rename.label          "Pervardyti…">
-<!ENTITY button.rename.accesskey      "P">
-<!ENTITY command.delete.label          "Pašalinti">
-<!ENTITY button.delete.accesskey      "š">
-<!ENTITY command.moveBookmark.label    "Perkelti į aplanką…">
-<!ENTITY command.moveBookmarkShort.label "Perkelti…">
-<!ENTITY command.moveBookmark.accesskey "e">
-<!ENTITY command.addBookmark.label     "Įtraukti…">
-<!ENTITY command.manageBookmarks.label "Tvarkyti…">
-<!ENTITY command.sortFolder.label      "Rikiuoti aplankus…">
-<!ENTITY command.sortFolder.accesskey  "R">
-<!ENTITY edit.sortFolder.keybinding    "S">
-<!ENTITY command.sortFolderByName.label "Rikiuoti aplankus pagal vardus">
+<!ENTITY menuBar.tooltip                  "Meniu juosta">
+<!ENTITY bookmarkToolbar.tooltip          "Adresyno mygtukų juosta">
+<!ENTITY menuitem.newBookmark.label       "Adresas">
+<!ENTITY menuitem.newBookmark.accesskey   "A">
+<!ENTITY menuitem.newFolder.label         "Aplankas">
+<!ENTITY menuitem.newFolder.accesskey     "l">
+<!ENTITY button.newFolder.label           "Naujas aplankas">
+<!ENTITY button.newFolder.accesskey       "N">
+<!ENTITY menuitem.newSeparator.label      "Skirtukas">
+<!ENTITY menuitem.newSeparator.accesskey  "k">
+<!ENTITY button.newSeparator.label        "Naujas skirtukas">
+<!ENTITY button.newSeparator.accesskey    "r">
+<!ENTITY menuitem.open.label              "Atverti adresyno failą…">
+<!ENTITY menuitem.open.accesskey          "A">
+<!ENTITY menuitem.import.label            "Importuoti tinklaviečių adresyną…">
+<!ENTITY menuitem.import.accesskey        "I">
+<!ENTITY menuitem.export.label            "Eksportuoti tinklaviečių adresyną…">
+<!ENTITY menuitem.export.accesskey        "E">
+<!ENTITY menuitem.find.label              "Ieškoti adresyne…">
+<!ENTITY menuitem.find.accesskey          "š">
+<!ENTITY menuitem.find.find.key           "F">
+<!ENTITY command.findBookmarks.label      "Ieškoti…">
+<!ENTITY menuitem.properties.label        "Savybės…">
+<!ENTITY menuitem.properties.accesskey    "S">
+<!ENTITY button.properties.label          "Savybės…">
+<!ENTITY button.properties.accesskey      "S">
+<!ENTITY menuitem.properties.key          "i">
+<!ENTITY button.rename.label              "Pervardyti…">
+<!ENTITY button.rename.accesskey          "P">
+<!ENTITY button.delete.label              "Pašalinti">
+<!ENTITY button.delete.accesskey          "š">
+<!ENTITY menuitem.moveBookmark.label      "Perkelti į aplanką…">
+<!ENTITY menuitem.moveBookmark.accesskey  "e">
+<!ENTITY button.moveBookmark.label        "Perkelti…">
+<!ENTITY button.moveBookmark.accesskey    "e">
+<!ENTITY command.addBookmark.label        "Įtraukti…">
+<!ENTITY command.manageBookmarks.label    "Tvarkyti…">
+<!ENTITY command.sortFolder.label         "Rikiuoti aplankus…">
+<!ENTITY command.sortFolder.accesskey     "R">
+<!ENTITY command.sortFolder.key           "S">
+<!ENTITY command.sortFolderByName.label   "Rikiuoti aplankus pagal vardus">
 <!ENTITY command.sortFolderByName.accesskey "v">
 
 <!ENTITY menuitem.view.command.toolbar.label        "Mygtukų juosta">
@@ -94,25 +97,18 @@
 <!ENTITY menuitem.personaltoolbarfolder.accesskey   "a">
 
 <!ENTITY treecol.name.label             "Pavadinimas">
-<!ENTITY treecol.name.accesskey         "P">
 <!ENTITY treecol.name.tooltip           "Spustelėkite, jei norite surikiuoti pagal pavadinimą">
 <!ENTITY treecol.url.label              "Adresas">
-<!ENTITY treecol.url.accesskey          "A">
 <!ENTITY treecol.url.tooltip            "Spustelėkite, jei norite surikiuoti pagal adresą">
 <!ENTITY treecol.shortcut.label         "Reikšminis žodis">
-<!ENTITY treecol.shortcut.accesskey     "R">
 <!ENTITY treecol.shortcut.tooltip       "Spustelėkite, jei norite surikiuoti pagal reikšminį žodį">
 <!ENTITY treecol.description.label      "Aprašas">
-<!ENTITY treecol.description.accesskey  "š">
 <!ENTITY treecol.description.tooltip    "Spustelėkite, jei norite surikiuoti pagal aprašą">
 <!ENTITY treecol.addedon.label          "Įtrauktas">
-<!ENTITY treecol.addedon.accesskey      "t">
 <!ENTITY treecol.addedon.tooltip        "Spustelėkite, jei norite surikiuoti pagal įtraukimo datą ir laiką">
 <!ENTITY treecol.lastmod.label          "Atnaujintas">
-<!ENTITY treecol.lastmod.accesskey      "n">
 <!ENTITY treecol.lastmod.tooltip        "Spustelėkite, jei norite surikiuoti pagal atnaujinimo datą ir laiką">
 <!ENTITY treecol.lastvisit.label        "Paskiausiai aplankytas">
-<!ENTITY treecol.lastvisit.accesskey    "l">
 <!ENTITY treecol.lastvisit.tooltip      "Spustelėkite, jei norite surikiuoti pagal paskiausio aplankymo datą ir laiką">
 
 <!ENTITY bookmarksWindowTitle.label     "Adresynas">

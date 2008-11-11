@@ -41,7 +41,6 @@
 <!ENTITY accOrgImagesRadio.accesskey    "i">
 <!ENTITY disableImages.label            "Paveikslų neatsiųsti">
 <!ENTITY disableImages.accesskey        "n">
-<!ENTITY viewImagesExplanation.label    "Peržiūrėti svetainių sąrašą kartu su jų paveikslų priėmimo informacija">
 <!ENTITY viewImages.label               "Tvarkyti leidimus">
 <!ENTITY viewImages.accesskey           "T">
 <!ENTITY animLoopingTitle.label         "Paveikslo animacijos ciklo kartojimas">

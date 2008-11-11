@@ -39,14 +39,10 @@
 <!ENTITY colors.label                "Spalvos">
 <!ENTITY navigator.label             "Naršyklė">
 <!ENTITY history.label               "Žurnalai">
-<!ENTITY bidi.label                  "Dviejų krypčių teksto parinktys">
 <!ENTITY languages.label             "Kalbos">
 <!ENTITY applications.label          "Failų atvėrimas">
 <!ENTITY locationBar.label           "Adreso laukas">
 <!ENTITY tabWindows.label            "Kortelės">
-<!ENTITY compose.label               "Rašyklė">
-<!ENTITY editing.label               "Naujo tinklalapio nuostatos">
-<!ENTITY publish.label               "Publikavimas">
 <!ENTITY offline.label               "Darbas atsijungus">
 <!ENTITY security.label              "Privatumas ir saugumas">
 <!ENTITY cookies.label               "Slapukai">

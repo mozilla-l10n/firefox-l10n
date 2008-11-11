@@ -39,21 +39,14 @@
 <!ENTITY editorCmd.accesskey                "R">
 <!ENTITY editorCmd.commandkey               "4">
 
-<!ENTITY securityInfoCmd.label              ".Saugumo informacija">  
-<!ENTITY securityInfoCmd.accesskey          "S">
 <!ENTITY javaConsoleCmd.label               "Javos pultas">
 <!ENTITY javaConsoleCmd.accesskey           "J">
 
 <!ENTITY errorConsoleCmd.label              "Klaidų pultas">
 <!ENTITY errorConsoleCmd.accesskey          "K">
 
-<!-- LOCALIZATION NOTE (privacyMenu.label): DONT_TRANSLATE -->
-<!ENTITY privacyMenu.label                  "Privatumas ir saugumas">
-<!ENTITY privacyMenu.accesskey              "v">
-
 <!ENTITY taskNavigator.tooltip              "Naršyklė">
 <!ENTITY taskComposer.tooltip               "Rašyklė">
-<!ENTITY taskBar.tooltip                    "Būsenos juosta">
 
 <!ENTITY webDevelopment.label               "Tinklalapių kūrimas">
 <!ENTITY webDevelopment.accesskey           "T">

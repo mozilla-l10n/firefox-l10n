@@ -65,9 +65,6 @@
 <!ENTITY cookieManagePopups.label                    "Tvarkyti iškylančiųjų langų leidimus">
 <!ENTITY cookieManagePopups.accesskey                "š">
 
-<!ENTITY cookieTutorialCmd.label "Privatumo samprata">
-<!ENTITY cookieTutorialCmd.accesskey "s">
-
 <!ENTITY cookieCookieManager.label "Slapukų tvarkytuvė">
 <!ENTITY cookieCookieManager.accesskey "S">
 <!ENTITY cookieImageManager.label "Paveikslų tvarkytuvė">

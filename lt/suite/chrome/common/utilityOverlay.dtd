@@ -70,7 +70,6 @@
 <!ENTITY pasteCmd.key                               "V">  
 <!ENTITY pasteCmd.accesskey                         "d"> 
 <!ENTITY deleteCmd.label                            "Pašalinti">  
-<!ENTITY deleteCmd.key                              "D">  
 <!ENTITY deleteCmd.accesskey                        "š"> 
 <!ENTITY selectAllCmd.label                         "Pažymėti viską">  
 <!ENTITY selectAllCmd.key                           "A">  
