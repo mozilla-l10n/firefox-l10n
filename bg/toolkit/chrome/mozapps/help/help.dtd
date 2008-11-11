@@ -22,8 +22,8 @@
 <!ENTITY printButton.tooltip "Отпечатване на показаната страница">
 <!ENTITY closeWindow.commandkey "W">
 
-<!ENTITY search.emptytext "Search">
-<!ENTITY searchHeader.label "Search results">
+<!ENTITY search.emptytext "Търсене">
+<!ENTITY searchHeader.label "Резултати от търсенето">
 <!ENTITY toctab.label "Съдържание">
 <!ENTITY toctab.accesskey "С">
 <!-- LOCALIZATION NOTE :

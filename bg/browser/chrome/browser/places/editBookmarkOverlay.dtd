@@ -21,5 +21,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label "Зареждане на отметката в страничната лента">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey "м">
 <!ENTITY editBookmarkOverlay.choose.label "Избиране…">
-<!ENTITY editBookmarkOverlay.newFolderButton.label "New Folder">
-<!ENTITY editBookmarkOverlay.newFolderButton.accesskey "o">
+<!ENTITY editBookmarkOverlay.newFolderButton.label "Нова папка">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey "Н">

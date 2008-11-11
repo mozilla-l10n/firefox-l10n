@@ -112,7 +112,7 @@
 <!ENTITY insecureUpdate.label "Не предлага сигурни обновявания.">
 <!ENTITY needsDependencies.label "Изисква допълнителни елементи.">
 <!ENTITY blocklisted.label "Изключен за ваша защита.">
-<!ENTITY softBlocklisted.label "Known to cause security or stability issues.">
+<!ENTITY softBlocklisted.label "Известни с причиняването си на проблеми по безопасността и устойчивостта.">
 <!ENTITY toBeDisabled.label "Добавката ще бъде изключена при рестартиране на &brandShortName;.">
 <!ENTITY toBeEnabled.label "Добавката ще бъде включена при рестартиране на &brandShortName;.">
 <!ENTITY toBeInstalled.label "Добавката ще бъде инсталирана при рестартиране на &brandShortName;.">
@@ -170,5 +170,5 @@
 <!ENTITY eula.height "400px">
 <!ENTITY eula.accept "Приемане и инсталиране…">
 
-<!ENTITY blocklist.blocked.label "Blocked">
-<!ENTITY blocklist.checkbox.label "Disable">
+<!ENTITY blocklist.blocked.label "Блокирани">
+<!ENTITY blocklist.checkbox.label "Изключване">

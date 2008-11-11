@@ -9,7 +9,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
                                                                   inside the private browsing mode -->
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Private Browsing)">
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Скрито браузване)">
 
 <!ENTITY tabCmd.label "Нов подпрозорец">
 <!ENTITY tabCmd.accesskey "д">
@@ -161,11 +161,11 @@
 <!ENTITY preferencesCmdUnix.label "Настройки">
 <!ENTITY preferencesCmdUnix.accesskey "о">
 
-<!ENTITY clearPrivateDataCmd.label "Изчистване на лични данни">
-<!ENTITY clearPrivateDataCmd.accesskey "л">
+<!ENTITY clearRecentHistoryCmd.label "Изчистване на последната история">
+<!ENTITY clearRecentHistoryCmd.accesskey "и">
 
-<!ENTITY privateBrowsingCmd.label "Private Browsing">
-<!ENTITY privateBrowsingCmd.accesskey "B">
+<!ENTITY privateBrowsingCmd.label "Скрито браузване">
+<!ENTITY privateBrowsingCmd.accesskey "С">
 
 <!ENTITY viewMenu.label "Изглед">
 <!ENTITY viewMenu.accesskey "И">
@@ -239,12 +239,12 @@
 <!ENTITY viewPageInfoCmd.accesskey "И">
 <!ENTITY viewFrameInfoCmd.label "Информация за рамката">
 <!ENTITY viewFrameInfoCmd.accesskey "И">
-<!ENTITY reloadImageCmd.label "Reload Image">
-<!ENTITY reloadImageCmd.accesskey "R">
+<!ENTITY reloadImageCmd.label "Презареждане на изображение">
+<!ENTITY reloadImageCmd.accesskey "П">
 <!ENTITY viewImageCmd.label "Преглед на изображението">
 <!ENTITY viewImageCmd.accesskey "П">
-<!ENTITY viewVideoCmd.label "View Video">
-<!ENTITY viewVideoCmd.accesskey "I">
+<!ENTITY viewVideoCmd.label "Показване на видео">
+<!ENTITY viewVideoCmd.accesskey "П">
 <!ENTITY viewBGImageCmd.label "Преглед на фоновото изображение">
 <!ENTITY viewBGImageCmd.accesskey "ф">
 <!ENTITY setDesktopBackgroundCmd.label "Поставяне като фон на работния плот…">
@@ -427,3 +427,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Повече…">
 
 <!ENTITY downloadMonitor2.tooltip "Щракнете, за да се отвори прозорецът с изтеглянията">
+
+<!ENTITY ctrlTab.search.emptyText "Подпрозорци за търсене">

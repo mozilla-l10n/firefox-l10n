@@ -1,24 +1,40 @@
-<!ENTITY sanitizeDialog.title "Изчистване на лични данни">
+<!ENTITY sanitizePrefs.title "Изчистване на лични данни">
+<!ENTITY sanitizeDialog2.title "Изчистване на последната история">
 
 <!ENTITY sanitizeItems.label "Ще бъдат изтрити:">
-<!ENTITY clearDataSettings.label "При изчистване на лични данни да бъдат изтрити:">
+<!ENTITY clearDataSettings2.label "При излизане от &brandShortName; автоматично да се изчистват всички:">
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
 
-<!ENTITY itemHistory.label "История на сърфирането">
-<!ENTITY itemHistory.accesskey "И">
-<!ENTITY itemFormSearchHistory.label "Информация от формуляри и търсения">
-<!ENTITY itemFormSearchHistory.accesskey "ф">
+<!ENTITY clearDuration.label "Премахване">
+<!ENTITY clearDuration.lastHour "последния час">
+<!ENTITY clearDuration.last2Hours "последните 2 часа">
+<!ENTITY clearDuration.last4Hours "последните 4 часа">
+<!ENTITY clearDuration.today "историята ми днес">
+<!ENTITY clearDuration.everything "цялата ми история">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix "">
+
+<!ENTITY historySection.label "История">
+<!ENTITY dataSection.label "Данни">
+
+<!ENTITY itemVisitedPages.label "Посетени страници">
+<!ENTITY itemVisitedPages.accesskey "с">
+<!ENTITY itemFormSearchEntries.label "Формуляри и думи за търсене">
+<!ENTITY itemFormSearchEntries.accesskey "Ф">
 <!ENTITY itemPasswords.label "Пароли">
 <!ENTITY itemPasswords.accesskey "П">
 <!ENTITY itemCookies.label "Бисквитки">
 <!ENTITY itemCookies.accesskey "Б">
-<!ENTITY itemCache.label "Кеш">
-<!ENTITY itemCache.accesskey "К">
+<!ENTITY itemWebCache.label "Уеб кеш">
+<!ENTITY itemWebCache.accesskey "У">
 <!ENTITY itemOfflineApps.label "Данни за сайтове">
 <!ENTITY itemOfflineApps.accesskey "Д">
-<!ENTITY itemDownloads.label "История на изтеглянията">
-<!ENTITY itemDownloads.accesskey "И">
-<!ENTITY itemActiveLogins.label "Active Logins">
-<!ENTITY itemActiveLogins.accesskey "L">
+<!ENTITY itemDownloadList.label "Списък на изтеглянията">
+<!ENTITY itemDownloadList.accesskey "С">
+<!ENTITY itemActiveLogins.label "Активни влизания (login) в сайтове">
+<!ENTITY itemActiveLogins.accesskey "в">
+
 <!ENTITY window.width "30em">
+<!ENTITY column.width "14em">
