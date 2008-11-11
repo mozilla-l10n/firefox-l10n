@@ -3,22 +3,22 @@
 <!ENTITY window.width "39em">
 <!ENTITY window.macWidth "42em">
 
-<!ENTITY  checking.title                  "Checking for Updates">
-<!ENTITY  updateCheck.label               "Looking for newer versions of &brandShortName;…">
+<!ENTITY  checking.title                  "Iskanje posodobitev">
+<!ENTITY  updateCheck.label               "Iskanje novih različic programa &brandShortName; ...">
 
 <!ENTITY noupdatesfound.title "Trenutno ni posodobitev">
-<!ENTITY  noupdatesautoenabled.intro      "There are no updates available. &brandShortName; will check
-                                           periodically for updates.">
-<!ENTITY  noupdatesautodisabled.intro     "There are no updates available. Please check again later or enable
-                                           &brandShortName;'s automatic update checking.">
+<!ENTITY  noupdatesautoenabled.intro      "Posodobitve niso na voljo. &brandShortName; bo redno
+                                           iskal posodobitve.">
+<!ENTITY  noupdatesautodisabled.intro     "Posodobitve niso na voljo. Ponovno poskusite pozneje ali
+                                           vključite samodejno preverjanje posodobitev za &brandShortName;.">
 
-<!ENTITY  incompatibleCheck.title         "Checking Add-on Compatibility">
-<!ENTITY  incompatibleCheck.label         "Looking for newer versions of your add-ons…">
+<!ENTITY  incompatibleCheck.title         "Preverjanje združljivosti dodatkov">
+<!ENTITY  incompatibleCheck.label         "Iskanje novih različic vaših dodatkov ...">
 
 <!ENTITY clickHere.label "Kliknite sem za več splošnih podatkov o tej posodobitvi">
 
-<!ENTITY  evangelism.desc                 "It is strongly recommended that you apply this 
-                                           update for &brandShortName; as soon as possible.">
+<!ENTITY  evangelism.desc                 "Toplo priporočamo, da to posodobitev za 
+                                           &brandShortName; uveljavite čimprej.">
 
 <!ENTITY license.instructions "Če se strinjate s pogoji licence, kliknite gumb Strinjam se za nadaljevanje namestitve.">
 
@@ -30,14 +30,14 @@
 <!ENTITY license.decline "Ne sprejmem pogojev licence">
 <!ENTITY license.decline.accesskey "N">
 
-<!ENTITY  incompatibleList.title          "Incompatible Add-ons Found">
+<!ENTITY  incompatibleList.title          "Najdeni nezdružljivi dodatki">
 
 <!ENTITY downloading.title "Prenos posodobitve">
 <!ENTITY downloading.intro "Prenašam posodobitev ...">
-<!ENTITY connecting.label "Povezujem se na posodobitveni strežnik ...">
+<!ENTITY connecting.label "Povezujem se na strežnik za posodobitve...">
 <!ENTITY verificationFailedText.label "Ker ne morem preveriti integritete prenešene posodobitve po stopnjah, zdaj prenašam celotno posodobitveni paket.">
 
-<!ENTITY  viewDetails.tooltip             "View details for this update">
+<!ENTITY  viewDetails.tooltip             "Prikaži podrobnosti posodobitve">
 
 <!ENTITY details.link "Podrobnosti">
 
@@ -48,16 +48,16 @@
 <!ENTITY errorpatching.title "Posodobitev neuspešna">
 <!ENTITY errorpatching.intro "Delne posodobitve ne morem namestiti. Prenešena bo celotna posodobitev.">
 
-<!ENTITY  finishedPage.title              "Update Ready to Install">
-<!ENTITY  finishedPage.text               "The update will be installed the next time &brandShortName; starts. You 
-                                           can restart &brandShortName; now, or continue working and restart later.">
+<!ENTITY  finishedPage.title              "Posodobitev je na voljo">
+<!ENTITY  finishedPage.text               "Posodobitev bo nameščena, ko boste naslednjič zagnali &brandShortName;. To lahko 
+                                           storite zdaj ali nadaljujete z delom in ga ponovno zaženete pozneje.">
 
-<!ENTITY  finishedBackgroundPage.text     "A security and stability update for &brandShortName; has been
-                                           downloaded and is ready to be installed.">
-<!ENTITY  finishedBackground.name         "Update:">
+<!ENTITY  finishedBackgroundPage.text     "Varnostna posodobitev za &brandShortName; je bila prenešena
+                                           in je na voljo za namestitev.">
+<!ENTITY  finishedBackground.name         "Posodobitev:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "The update will be installed the next time &brandShortName; starts. You
-                                           can restart &brandShortName; now, or continue working and restart later.">
+<!ENTITY  finishedBackground.more         "Posodobitev bo nameščena, ko boste naslednjič zagnali &brandShortName;. To lahko 
+                                           storite zdaj ali nadaljujete z delom in ga ponovno zaženete pozneje.">
 
 <!ENTITY finishedBackground.name "Posodobitev:">
 

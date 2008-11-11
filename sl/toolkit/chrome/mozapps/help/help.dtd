@@ -22,8 +22,8 @@
 <!ENTITY printButton.tooltip "Natisni to stran">
 <!ENTITY closeWindow.commandkey "W">
 
-<!ENTITY search.emptytext               "Search">
-<!ENTITY searchHeader.label             "Search results">
+<!ENTITY search.emptytext               "Iskanje">
+<!ENTITY searchHeader.label             "Rezultati iskanja">
 <!ENTITY toctab.label "Vsebina">
 <!ENTITY toctab.accesskey "V">
 
