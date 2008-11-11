@@ -1,0 +1,4 @@
+<!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
+<!ENTITY sendWindow.title "Kirjade saatmine">
+<!ENTITY status.label     "Olek:">
+<!ENTITY progress.label   "Edenemine:">

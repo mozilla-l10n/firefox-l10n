@@ -1,0 +1,5 @@
+<!ENTITY attachImageSource.label     "Lisa see pilt kirjale">
+<!ENTITY attachImageSource.accesskey "k">
+
+<!ENTITY attachLinkSource.label      "Lisa selle lingi allikas kirjale">
+<!ENTITY attachLinkSource.accesskey  "l">
