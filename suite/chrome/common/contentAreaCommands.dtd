@@ -14,8 +14,6 @@
 <!ENTITY openFrameCmdInTab.accesskey "О">
 <!ENTITY showOnlyThisFrameCmd.label "Показать только этот фрейм">
 <!ENTITY showOnlyThisFrameCmd.accesskey "П">
-<!ENTITY addToBookmarksCmd.label "Добавить страницу в закладки">
-<!ENTITY addToBookmarksCmd.accesskey "Д">
 <!ENTITY goBackCmd.label "Назад">
 <!ENTITY goBackCmd.accesskey "Н">
 <!ENTITY goForwardCmd.label "Вперёд">

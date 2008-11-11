@@ -36,8 +36,6 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY resetsettings.label "Сброс параметров">
-<!ENTITY resetpreferences.label "Сброс настроек…">
 <!ENTITY managecerts.caption "Управление сертификатами">
 <!ENTITY managecerts.text "Используйте менеджер сертификатов для управления личными сертификатами, сертификатами других пользователей и центров сертификации.">
 <!ENTITY managecerts.button "Управление сертификатами…">

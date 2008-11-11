@@ -70,7 +70,6 @@
 <!ENTITY cpercentCmd.accesskey "4">
 <!ENTITY zoominCmd.label "Увеличить">
 <!ENTITY zoomoutCmd.label "Уменьшить">
-<!ENTITY delSpotCmd.label "Удалить участок">
 <!ENTITY clear.key "d">
 <!ENTITY selectall.key "a">
 <!ENTITY close.key "l">

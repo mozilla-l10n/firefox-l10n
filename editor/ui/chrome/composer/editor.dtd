@@ -47,7 +47,3 @@
 <!ENTITY editmodeToolbarCmd.accesskey "р">
 <!ENTITY formatMenu.label "Формат">
 <!ENTITY formatMenu.accesskey "м">
-<!ENTITY helpMenu.label "Справка">
-<!ENTITY aboutCmd.label ".О программе">
-<!ENTITY editMode.label "Режим редактирования:">
-<!ENTITY statusText.label "Страница загружена">

@@ -29,8 +29,6 @@
 <!ENTITY cookieAllowPopupsCmd.accesskey "Р">
 <!ENTITY cookieManagePopups.label "Управление сайтами со всплывающими окнами">
 <!ENTITY cookieManagePopups.accesskey "У">
-<!ENTITY cookieTutorialCmd.label "Понимание приватности">
-<!ENTITY cookieTutorialCmd.accesskey "П">
 <!ENTITY cookieCookieManager.label "Менеджер кук">
 <!ENTITY cookieCookieManager.accesskey "е">
 <!ENTITY cookieImageManager.label "Менеджер изображений">

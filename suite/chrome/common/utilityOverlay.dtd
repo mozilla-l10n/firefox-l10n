@@ -32,7 +32,6 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "с">
 <!ENTITY deleteCmd.label "Удалить">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "У">
 <!ENTITY selectAllCmd.label "Выделить всё">
 <!ENTITY selectAllCmd.key "A">

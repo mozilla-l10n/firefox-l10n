@@ -1,11 +1,4 @@
 <!ENTITY pref.composer.title "Composer">
-<!ENTITY saving "Сохранение">
-<!ENTITY AutoSaveCheck "Автоматически сохранять каждые">
-<!ENTITY minText "минут">
-<!ENTITY exterLegend.label "Внешние редакторы">
-<!ENTITY htmlSource "HTML-кода:">
-<!ENTITY imageeditor "Изображений:">
-<!ENTITY chooseButton.label "Выбрать">
 <!ENTITY recentFiles.title "Последние открытые страницы">
 <!ENTITY documentsInMenu.label "Наибольшее число страниц в списке:">
 <!ENTITY documentsInMenu.accesskey "Н">
@@ -18,8 +11,6 @@
 <!ENTITY showPublishDialog.label "Всегда показывать окно «Публикация» при публикации страниц">
 <!ENTITY showPublishDialog.accesskey "В">
 <!ENTITY composerEditing.label "Редактирование">
-<!ENTITY spellCheckInline.label "Проверять орфографию при наборе текста">
-<!ENTITY spellCheckInline.accesskey "П">
 <!ENTITY maintainStructure.label "Сохранять общую схему таблицы при вставке или удалении ячеек">
 <!ENTITY maintainStructure.tooltip "Предотвращает сжатие границ при удалении одной или более ячеек">
 <!ENTITY maintainStructure.accesskey "т">

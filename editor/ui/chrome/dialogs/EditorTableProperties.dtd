@@ -68,7 +68,6 @@
 <!ENTITY tableCaptionRight.label "Справа от таблицы">
 <!ENTITY tableCaptionNone.label "Нет">
 <!ENTITY tableInheritColor.label "(Будет виден фон страницы)">
-<!ENTITY cellPercent.label "процентов от таблицы">
 <!ENTITY cellSelection.label "Выделение">
 <!ENTITY cellSelectCell.label "Ячейка">
 <!ENTITY cellSelectRow.label "Строка">
@@ -77,11 +76,7 @@
 <!ENTITY cellSelectNext.accessKey "С">
 <!ENTITY cellSelectPrevious.label "Предыдущая">
 <!ENTITY cellSelectPrevious.accessKey "П">
-<!ENTITY cellApplyBeforeMove.label "Применить внесённые поправки перед изменением выделения">
-<!ENTITY cellKeepCurrentData.label "Сохранить текущие параметры">
 <!ENTITY applyBeforeChange.label "Перед изменением выделения будут применены текущие поправки.">
-<!ENTITY cellRowSpan.label "Объединение строк:">
-<!ENTITY cellColSpan.label "Объединение столбцов:">
 <!ENTITY cellContentAlignment.label "Выравнивание содержимого">
 <!ENTITY cellHorizontal.label "Горизонтальное:">
 <!ENTITY cellHorizontal.accessKey "з">
@@ -99,7 +94,6 @@
 <!ENTITY cellAlignMiddle.label "Посередине">
 <!ENTITY cellAlignBottom.label "Понизу">
 <!ENTITY cellAlignJustify.label "По ширине">
-<!ENTITY cellAlignAtChar.label "По символу:">
 <!ENTITY cellInheritColor.label "(Будет виден фон таблицы)">
 <!ENTITY cellUseCheckboxHelp.label "Установите флажки для определения свойств, применяемых ко всем выбранным ячейкам">
 <!ENTITY size.label "Размеры">

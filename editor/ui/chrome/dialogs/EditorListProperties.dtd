@@ -44,7 +44,6 @@
 <!ENTITY bulletList.value "Маркированный (ненумерованный) список">
 <!ENTITY numberList.value "Нумерованный список">
 <!ENTITY definitionList.value "Список определений">
-<!ENTITY changeListMsg.label "При изменении типа списка:">
 <!ENTITY changeEntireListRadio.label "Изменить весь список">
 <!ENTITY changeEntireListRadio.accessKey "И">
 <!ENTITY changeSelectedRadio.label "Изменить выбранные элементы">

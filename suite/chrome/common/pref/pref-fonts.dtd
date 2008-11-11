@@ -15,7 +15,6 @@
 <!ENTITY fantasy.accesskey "Д">
 <!ENTITY cursive.label "Курсив:">
 <!ENTITY cursive.accesskey "К">
-<!ENTITY fontsize.units "пикселов">
 <!ENTITY font.langGroup.latin1 "Западноевропейский">
 <!ENTITY font.langGroup.latin2 "Центральноевропейский">
 <!ENTITY font.langGroup.japanese "Японский">
@@ -48,13 +47,8 @@
 <!ENTITY minSize.none "Нет">
 <!ENTITY useDefaultFontSerif.label "С засечками">
 <!ENTITY useDefaultFontSansSerif.label "Без засечек">
-<!ENTITY newLanguages.label "Новые группы языков могут быть определены с помощью панели языков.">
 <!ENTITY useDocumentFonts.label "Разрешить сообщениям использовать другие шрифты">
 <!ENTITY useDocumentFonts.accesskey "Р">
 <!ENTITY header2 "Когда для страницы определён другой шрифт">
 <!ENTITY useDefaultFont.label "Использовать мои шрифты, игнорируя указанные для страницы">
 <!ENTITY useDefaultFont.accesskey "о">
-<!ENTITY useDocFontNonDynamic.label "Использовать шрифты, указанные для страницы">
-<!ENTITY useDocFontNonDynamic.accesskey "ь">
-<!ENTITY useDocFontDynamic.label "Использовать все шрифты, указанные для страницы">
-<!ENTITY useDocFontDynamic.accesskey "з">

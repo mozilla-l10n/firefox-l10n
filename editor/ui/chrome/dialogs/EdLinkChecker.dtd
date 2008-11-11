@@ -20,7 +20,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Charles Manxke (cmanske@netscape.com)
+   -   Charles Manske (cmanske@netscape.com)
    -   Alexander L. Slovesnik <unghost@mozilla-russia.org> (Russian translation)
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -37,9 +37,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY windowTitle.label "Проверка изображений и объектов ссылок">
-<!ENTITY urlsNotFound.label "Следующие изображения или объекты ссылок не были найдены:">
-<!ENTITY notFoundKey.label "(«X» = файл не найден, «?» = время ожидания соединения истекло)">
-<!ENTITY changeUrlButton.label "Сменить адрес выделенного элемента">
 <!ENTITY succeeded.label "Проверка выполнена успешно">
 <!ENTITY failed.label "При проверке обнаружены ошибки">
 <!ENTITY closeButton.label "Закрыть">

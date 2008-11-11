@@ -37,7 +37,6 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY windowTitle.label "Свойства изображения">
 <!ENTITY pixelsPopup.value "пикселов">
-<!ENTITY percentPopup.value "процентов">
 <!ENTITY locationEditField.label "Адрес изображения:">
 <!ENTITY locationEditField.accessKey "А">
 <!ENTITY locationEditField.tooltip "Введите имя файла с изображением или его адрес">
@@ -50,7 +49,6 @@
 <!ENTITY noAltText.label "Не использовать альтернативный текст">
 <!ENTITY noAltText.accessKey "Н">
 <!ENTITY previewBox.label "Предварительный просмотр изображения">
-<!ENTITY MoreFewerButton.tooltip "Показывать больше или меньше свойств для изменения">
 <!ENTITY actualSize.label "Исходный размер:">
 <!ENTITY actualSizeRadio.label "Исходный размер">
 <!ENTITY actualSizeRadio.accessKey "И">
@@ -77,7 +75,6 @@
 <!ENTITY wrapRightPopup.value "Влево, окружить текстом справа">
 <!ENTITY wrapLeftPopup.value "Вправо, окружить текстом слева">
 <!ENTITY spacingBox.label "Поля">
-<!ENTITY spacingBox.tooltip "Введите размер пустых полей вокруг изображения">
 <!ENTITY leftRightEditField.label "Слева и справа:">
 <!ENTITY leftRightEditField.accessKey "е">
 <!ENTITY topBottomEditField.label "Сверху и снизу:">
@@ -86,10 +83,6 @@
 <!ENTITY borderEditField.accessKey "п">
 <!ENTITY showImageLinkBorder.label "Показывать границу вокруг изображения, содержащего ссылку">
 <!ENTITY showImageLinkBorder.accessKey "г">
-<!ENTITY makePageBackgroundCheckbox.label "Сделать фоном страницы">
-<!ENTITY makePageBackgroundCheckbox.tooltip "Использовать изображение в качестве фона этой страницы">
-<!ENTITY editImageButton.label "Редактировать изображение">
-<!ENTITY editImageButton.tooltip "Редактировать изображение в другом приложении">
 <!ENTITY imageInputTab.label "Форма">
 <!ENTITY imageLocationTab.label "Адрес">
 <!ENTITY imageDimensionsTab.label "Размеры">

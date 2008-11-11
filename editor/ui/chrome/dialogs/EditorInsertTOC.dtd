@@ -37,7 +37,6 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY Window.title "Содержание">
 <!ENTITY buildToc.label "Создать содержание на основе:">
-<!ENTITY style.label "стиля:">
 <!ENTITY tag.label "тега:">
 <!ENTITY class.label "класса:">
 <!ENTITY header1.label "Уровень 1">

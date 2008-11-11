@@ -36,18 +36,13 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY search.button.label "Поиск">
-<!ENTITY search.results.tab "Применить">
-<!ENTITY search.advanced.tab "Параметры для">
 <!ENTITY allengines.label "Всех машин">
 <!ENTITY within.label "в">
 <!ENTITY using.label "используя">
 <!ENTITY choose.label "Выберите поисковые машины, затем нажмите «Поиск»">
 <!ENTITY results.label "Результаты поиска">
 <!ENTITY engine.column.label "Поисковые машины">
-<!ENTITY checkbox.column.label "Использовать">
-<!ENTITY stop.button.label "Остановить">
 <!ENTITY customize.menuitem.label "Изменить категории…">
-<!ENTITY savesearch.button.label "Добавить в закладки">
 <!ENTITY next.button.label "Следующие">
 <!ENTITY previous.button.label "Предыдущие">
 <!ENTITY next.button.tooltip "Показать следующую часть результатов">
