@@ -9,7 +9,6 @@
 <!ENTITY clickHere.label "이 업데이트에 대한 상세 정보 보기">
 <!ENTITY  evangelism.desc                 "&brandShortName; 업데이트를 가능한 빨리 업데이트 하시길 권장합니다.">
 
-<!ENTITY incompatible.warning "업데이트가 완료될 때까지 테마 또는 확장 기능의 일부가 동작하지 않을 수 있습니다.">
 <!ENTITY license.instructions "이 라이센스에 동의하시면 동의함을 선택하여 업데이트를 설치하십시오.">
 <!ENTITY license.titleText "소프트웨어 라이센서 계약조건">
 <!ENTITY license.introText "이 소프트웨어를 사용하기 위한 계약조건.">
@@ -37,7 +36,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
 <!ENTITY finishedBackground.more "업데이트는 &brandShortName; 재시작시 적용 합니다. 지금 &brandShortName;를 재시작 하거나 나중에 하실 수 있습니다.">
 <!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!ENTITY  finishedBackground.textNotNow "재시작을 하지 않으려면 지금 하지 않음을 클릭하십시오. 업데이트는 &brandShortName;가 다시 시작될 때 설치됩니다.">
 <!ENTITY installed.title "업데이트 설치 완료">
 <!ENTITY installed.intro "업데이트 설치가 완료되었습니다.">
 <!ENTITY whatsnew.label "새 소식…">
