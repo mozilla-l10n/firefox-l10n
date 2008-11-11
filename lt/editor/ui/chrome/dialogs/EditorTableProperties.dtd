@@ -71,7 +71,6 @@
 <!ENTITY tableCaptionNone.label           "Nėra">
 <!ENTITY tableInheritColor.label           "(Lentelės fonas yra toks pat, kaip tinklalapio fonas)">
 
-<!ENTITY cellPercent.label                "proc. lentelės">
 <!ENTITY cellSelection.label              "Vaikščiojimas po lentelę">
 <!ENTITY cellSelectCell.label             "Langelis">
 <!ENTITY cellSelectRow.label              "Eilutė">
@@ -80,11 +79,7 @@
 <!ENTITY cellSelectNext.accessKey         "o">
 <!ENTITY cellSelectPrevious.label         "Ankstesnis">
 <!ENTITY cellSelectPrevious.accessKey     "n">
-<!ENTITY cellApplyBeforeMove.label        "Pritaikyti pakeitimus prieš pažymint kitą lentelės dalį">
-<!ENTITY cellKeepCurrentData.label        "Įsiminti šias nuostatas">
 <!ENTITY applyBeforeChange.label          "Pakeitimai bus pritaikyti prieš pažymint kitą lentelės dalį.">
-<!ENTITY cellRowSpan.label                "Eilutės plotis (langeliais):">
-<!ENTITY cellColSpan.label                "Stulpelio aukštis (langeliais):">
 <!ENTITY cellContentAlignment.label       "Langelio turinio lygiuotė">
 <!ENTITY cellHorizontal.label             "Horizontali:">
 <!ENTITY cellHorizontal.accessKey         "H">
@@ -102,7 +97,6 @@
 <!ENTITY cellAlignMiddle.label            "Vidurys">
 <!ENTITY cellAlignBottom.label            "Apačia">
 <!ENTITY cellAlignJustify.label           "Pagal abu kraštus">
-<!ENTITY cellAlignAtChar.label            "Nuo rašmens:">
 <!ENTITY cellInheritColor.label           "(Langelio fonas toks pat, kaip lentelės fonas)">
 <!ENTITY cellUseCheckboxHelp.label        "Parinkite savybes, kurias turės visi pažymėti lentelės langeliai.">
 

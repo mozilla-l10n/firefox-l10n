@@ -1,3 +1,35 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - Contributor(s):
+   -   Gintautas Grigas <grigas@ktl.mii.lt>
+   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+   -   Rimas Kudelis <rq@akl.lt>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
 <!-- extracted from content/pref-composer.xul -->
 
 <!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
@@ -5,18 +37,9 @@
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
 <!ENTITY  pref.composer.title           "Rašyklė">
 
-<!ENTITY  saving                    "Įrašymas">
-<!ENTITY  AutoSaveCheck             "Automatiškai įrašyti kas">
-<!ENTITY  minText                   "min.">
-
-<!ENTITY  exterLegend.label         "Išorinė rašyklė">
-<!ENTITY  htmlSource                "HTML pirminis tekstas:">
-<!ENTITY  imageeditor               "Paveikslai:">
-<!ENTITY  chooseButton.label        "Parinkti">
-
-<!ENTITY  recentFiles.title         "Paskiausiai atvertų tinklalapių sąrašas">
-<!ENTITY  documentsInMenu.label     "Didžiausias tinklalapių skaičius sąraše::">
-<!ENTITY  documentsInMenu.accesskey "D">
+<!ENTITY  recentFiles.title             "Paskiausiai atvertų tinklalapių sąrašas">
+<!ENTITY  documentsInMenu.label         "Didžiausias tinklalapių skaičius sąraše::">
+<!ENTITY  documentsInMenu.accesskey     "D">
 
 <!ENTITY  savingFiles.title             "Įrašant ar publikuojant tinklalapius:">
 <!ENTITY  preserveExisting.label        "Išlaikyti originalų pirminio teksto išdėstymą">
@@ -28,8 +51,6 @@
 <!ENTITY  showPublishDialog.accesskey   "K">
 
 <!ENTITY  composerEditing.label         "Taisa">
-<!ENTITY  spellCheckInline.label        "Tikrinti rašybą renkant tekstą">
-<!ENTITY  spellCheckInline.accesskey    "T">
 <!ENTITY  maintainStructure.label       "Įterpus arba pašalinus langelius, išlaikyti lentelės stačiakampį pavidalą">
 <!ENTITY  maintainStructure.tooltip     "Pašalinus pažymėtus lentelės langelius, jos forma išlieka stačiakampė">
 <!ENTITY  maintainStructure.accesskey   "M">

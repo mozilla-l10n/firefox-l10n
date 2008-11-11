@@ -45,8 +45,6 @@
 
 <!ENTITY status.label          "Publikuojama…">
 <!ENTITY fileList.label        "Publikavimo būsena">
-<!ENTITY statusHeader.label    "Būsena">
-<!ENTITY filenameHeader.label  "Failo vardas">
 <!ENTITY succeeded.label       "Pavyko">
 <!ENTITY failed.label          "Nepavyko">
 

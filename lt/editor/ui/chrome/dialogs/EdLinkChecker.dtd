@@ -20,7 +20,10 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Charles Manxke (cmanske@netscape.com)
+   -   Charles Manxke <cmanske@netscape.com>
+	-   Gintautas Grigas <grigas@ktl.mii.lt>
+	-   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+	-   Rimas Kudelis <rq@akl.lt>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -38,9 +41,6 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label     "Saito arba paveikslo adresų tikrinimas">
-<!ENTITY urlsNotFound.label    "Nepavyko rasti šių paveikslų arba saitų adresų:">
-<!ENTITY notFoundKey.label     "(&quot;X&quot; = failas nerastas, &quot;?&quot; = prisijungimo limitas baigėsi.)">
-<!ENTITY changeUrlButton.label "Pakeisti pažymėto elemento adresą">
 <!ENTITY succeeded.label       "Pavyko">
 <!ENTITY failed.label          "Klaida">
 <!ENTITY closeButton.label     "Užverti">

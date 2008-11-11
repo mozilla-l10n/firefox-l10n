@@ -19,7 +19,9 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Original author: Daniel Glazman (daniel@glazman.org)
+   -   Original author: Daniel Glazman <daniel@glazman.org>
+	-   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+	-   Rimas Kudelis <rq@akl.lt>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -37,7 +39,6 @@
 
 <!ENTITY Window.title        "Turinys">
 <!ENTITY buildToc.label      "Sukurti turinį iš:">
-<!ENTITY style.label         "Stilius:">
 <!ENTITY tag.label           "HTML gairė:">
 <!ENTITY class.label         "Klasė:">
 <!ENTITY header1.label       "1 lygis">

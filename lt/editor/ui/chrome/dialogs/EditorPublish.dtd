@@ -75,10 +75,8 @@
 <!ENTITY filename.accesskey              "v">
 <!ENTITY filename.tooltip                "Surinkite šio tinklalapio failo vardą ir prievardį „.html“">
 <!ENTITY filenameExample.label           "pvz., „Jonas.html“">
-<!ENTITY relatedDocs.label               "Kiti publikuojami failai">
 <!ENTITY setDefaultButton.label          "Laikyti numatytąja">
 <!ENTITY setDefaultButton.accesskey      "n">
-<!ENTITY setDefSiteAndDir.label          "Tinklavietę ir aplanką laikyti numatytaisiais">
 <!ENTITY removeButton.label              "Pašalinti tinklavietės aprašą">
 <!ENTITY removeButton.accesskey          "š">
 
