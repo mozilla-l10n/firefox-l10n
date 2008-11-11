@@ -69,7 +69,6 @@
 <!ENTITY tableCaptionNone.label           "Puudub">
 <!ENTITY tableInheritColor.label          "(Lehe värv paistab läbi)">
 
-<!ENTITY cellPercent.label                "protsenti tabelist">
 <!ENTITY cellSelection.label              "Valik">
 <!ENTITY cellSelectCell.label             "Lahter">
 <!ENTITY cellSelectRow.label              "Rida">
@@ -78,11 +77,7 @@
 <!ENTITY cellSelectNext.accessKey         "J">
 <!ENTITY cellSelectPrevious.label         "Eelmine">
 <!ENTITY cellSelectPrevious.accessKey     "E">
-<!ENTITY cellApplyBeforeMove.label        "Rakenda muutused enne valiku muutmist">
-<!ENTITY cellKeepCurrentData.label        "Säilita olemasolevad sätted">
 <!ENTITY applyBeforeChange.label          "Tehtud muutused rakendatakse enne valiku muutmist.">
-<!ENTITY cellRowSpan.label                "Rea laiumine:">
-<!ENTITY cellColSpan.label                "Veeru laiumine:">
 <!ENTITY cellContentAlignment.label       "Sisu joondamine">
 <!ENTITY cellHorizontal.label             "Horisontaalselt:">
 <!ENTITY cellHorizontal.accessKey         "H">
@@ -100,7 +95,6 @@
 <!ENTITY cellAlignMiddle.label            "Keskele">
 <!ENTITY cellAlignBottom.label            "Alla">
 <!ENTITY cellAlignJustify.label           "Rööpselt">
-<!ENTITY cellAlignAtChar.label            "Kohakuti märgiga:">
 <!ENTITY cellInheritColor.label           "(Tabeli värv paistab läbi)">
 <!ENTITY cellUseCheckboxHelp.label        "Kasuta märkeruute, et määrata, millised omadused valitud lahtritele rakendatakse">
 

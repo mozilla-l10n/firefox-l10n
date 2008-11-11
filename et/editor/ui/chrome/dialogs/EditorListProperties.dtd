@@ -47,7 +47,6 @@
 <!ENTITY bulletList.value                "nummerdamata nimekiri">
 <!ENTITY numberList.value                "nummerdatud nimekiri">
 <!ENTITY definitionList.value            "definitsioonide nimekiri">
-<!ENTITY changeListMsg.label             "Nimekirja tüübi muutmisel:">
 <!ENTITY changeEntireListRadio.label     "muudetakse kogu nimekiri">
 <!ENTITY changeEntireListRadio.accessKey "u">
 <!ENTITY changeSelectedRadio.label       "muudetakse valitud elemendid">

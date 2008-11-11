@@ -34,14 +34,13 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!-- These strings are for use specifically in the editor's image and form image dialogs. -->
 
+<!-- These strings are for use specifically in the editor's image and form image dialogs. -->
 
 <!-- Window title -->
 <!ENTITY windowTitle.label                  "Pildi omadused">
 
 <!ENTITY pixelsPopup.value                  "pikslit">
-<!ENTITY percentPopup.value                 "protsenti">
 
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label            "Pildi asukoht:">
@@ -57,7 +56,6 @@
 <!ENTITY noAltText.accessKey                "r">
 
 <!ENTITY previewBox.label                   "Pildi eelvaade">
-<!ENTITY MoreFewerButton.tooltip            "Muude redigeeritavate omaduste näitamine või varjamine">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
@@ -93,7 +91,6 @@
 
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label                   "Vahed">
-<!ENTITY spacingBox.tooltip                 "Määra, kui palju vaba ruumi tuleb jätta iga pildi ümber">
 <!ENTITY leftRightEditField.label           "Vasakul ja paremal:">
 <!ENTITY leftRightEditField.accessKey       "V">
 <!ENTITY topBottomEditField.label           "Üleval ja all:">
@@ -104,12 +101,6 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label          "Piirjoone näitamine lingitud pildi ümber">
 <!ENTITY showImageLinkBorder.accessKey      "m">
-
-<!-- These controls may be added some day; currently not used -->
-<!ENTITY makePageBackgroundCheckbox.label   "Määra lehe taustaks">
-<!ENTITY makePageBackgroundCheckbox.tooltip "Kasuta pilti lehe taustana">
-<!ENTITY editImageButton.label              "Redigeeri pilti">
-<!ENTITY editImageButton.tooltip            "Ava pilt mõnes teises programmis">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label                "Vorm">

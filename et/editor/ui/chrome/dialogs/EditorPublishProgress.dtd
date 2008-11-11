@@ -43,8 +43,6 @@
 
 <!ENTITY status.label          "Avaldamine…">
 <!ENTITY fileList.label        "Avaldamise staatus">
-<!ENTITY statusHeader.label    "Staatus">
-<!ENTITY filenameHeader.label  "Failinimi">
 <!ENTITY succeeded.label       "Õnnestus">
 <!ENTITY failed.label          "Ebaõnnestus">
 

@@ -72,10 +72,8 @@
 <!ENTITY filename.accesskey           "F">
 <!ENTITY filename.tooltip             "Sisesta nimi selle faili jaoks, kaasa arvatud '.html'">
 <!ENTITY filenameExample.label        "näiteks: &quot;minuleht.html&quot;">
-<!ENTITY relatedDocs.label            "Muud avaldamisele kuuluvad failid">
 <!ENTITY setDefaultButton.label       "Sea vaikeväärtuseks">
 <!ENTITY setDefaultButton.accesskey   "S">
-<!ENTITY setDefSiteAndDir.label       "Sea vaikeväärtuseks veebilehele ja kaustale">
 <!ENTITY removeButton.label           "Eemalda veebileht">
 <!ENTITY removeButton.accesskey       "E">
 

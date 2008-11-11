@@ -38,9 +38,6 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label     "Piltide ja linkide asukohtade kontrollimine">
-<!ENTITY urlsNotFound.label    "Järgmisi piltide või linkide asukohti ei leitud:">
-<!ENTITY notFoundKey.label     "(&quot;X&quot; = faili ei leitud, &quot;?&quot; = aegumine ühendumisel.)">
-<!ENTITY changeUrlButton.label "Muuda valitud eseme asukohta">
 <!ENTITY succeeded.label       "Õnnestus">
 <!ENTITY failed.label          "Ebaõnnestus">
 <!ENTITY closeButton.label     "Sulge">
