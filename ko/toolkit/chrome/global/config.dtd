@@ -1,5 +1,7 @@
 <!ENTITY filterPrefs.label "필터:">
 <!ENTITY filterPrefs.accesskey "I">
+<!ENTITY focusFilter.key "f">
+
 <!ENTITY prefColumn.label "설정 이름">
 <!ENTITY lockColumn.label "상태">
 <!ENTITY typeColumn.label "유형">

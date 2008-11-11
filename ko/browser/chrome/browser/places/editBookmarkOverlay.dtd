@@ -22,3 +22,6 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label "현재 북마크를 사이드 바에서 읽기">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
 <!ENTITY editBookmarkOverlay.choose.label                    "선택…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "새 폴더">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">
+

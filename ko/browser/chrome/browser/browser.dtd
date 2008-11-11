@@ -1,6 +1,16 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (사생활 보호 모드)">
+
 <!ENTITY tabCmd.label "새 탭">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
@@ -122,8 +132,14 @@
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "환경 설정">
 <!ENTITY preferencesCmdUnix.accesskey "n">
-<!ENTITY clearPrivateDataCmd.label "개인 정보 초기화">
-<!ENTITY clearPrivateDataCmd.accesskey "P">
+
+<!ENTITY clearRecentHistoryCmd.label            "최근 기록 삭제">
+<!ENTITY clearRecentHistoryCmd.accesskey        "H">
+
+<!ENTITY privateBrowsingCmd.label            "사생활 보호 모드">
+<!ENTITY privateBrowsingCmd.accesskey        "B">
+
+
 <!ENTITY viewMenu.label "보기">
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenu.label "도구 모음">
@@ -162,10 +178,12 @@
 <!ENTITY viewPageInfoCmd.accesskey "I">
 <!ENTITY viewFrameInfoCmd.label "프레임 등록 정보">
 <!ENTITY viewFrameInfoCmd.accesskey "I">
-<!ENTITY showImageCmd.label           "그림 보여주기">
-<!ENTITY showImageCmd.accesskey       "S">
+<!ENTITY reloadImageCmd.label         "그림 다시 읽기">
+<!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label "그림 보기">
 <!ENTITY viewImageCmd.accesskey "I">
+<!ENTITY viewVideoCmd.label           "동영상 보기">
+<!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label "배경 그림 보기">
 <!ENTITY viewBGImageCmd.accesskey "w">
 <!ENTITY setDesktopBackgroundCmd.label "배경으로 지정…">
@@ -187,10 +205,18 @@
 <!ENTITY saveLinkCmd.accesskey "k">
 <!ENTITY sendLinkCmd.label "메일로 링크 보내기…">
 <!ENTITY sendLinkCmd.accesskey "d">
-<!ENTITY saveImageCmd.label "그림을 다른 이름으로 저장…">
+<!ENTITY saveImageCmd.label "다른 이름으로 그림 저장…">
 <!ENTITY saveImageCmd.accesskey "v">
-<!ENTITY sendImageCmd.label "메일로 그림 보내기…">
-<!ENTITY sendImageCmd.accesskey "n">
+<!ENTITY saveVideoCmd.label           "다른 이름으로 동영상 저장…">
+<!ENTITY saveVideoCmd.accesskey       "v">
+<!ENTITY saveAudioCmd.label           "다른 이름으로 오디오 저장…">
+<!ENTITY saveAudioCmd.accesskey       "v">
+<!ENTITY sendImageCmd.label 			"그림 보내기…">
+<!ENTITY sendImageCmd.accesskey 		"n">
+<!ENTITY sendVideoCmd.label           "동영상 보내기…">
+<!ENTITY sendVideoCmd.accesskey       "n">
+<!ENTITY sendAudioCmd.label           "오디오 보내기…">
+<!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label "링크 주소 복사">
 <!ENTITY copyLinkCmd.accesskey "a">
 <!ENTITY copyLinkTextCmd.label "링크 텍스트 복사">
@@ -199,6 +225,10 @@
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyImageContentsCmd.label "그림 복사">
 <!ENTITY copyImageContentsCmd.accesskey "y">
+<!ENTITY copyVideoURLCmd.label        "동영상 주소 복사">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "오디오 주소 복사">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY blockImageCmd.accesskey "B">
 <!ENTITY metadataCmd.label "속성">
 <!ENTITY metadataCmd.accesskey "P">
@@ -206,6 +236,21 @@
 <!ENTITY copyEmailCmd.accesskey "E">
 <!ENTITY thisFrameMenu.label "현재 프레임">
 <!ENTITY thisFrameMenu.accesskey "h">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "재생">
+<!ENTITY mediaPlay.accesskey         "P">
+<!ENTITY mediaPause.label            "중지">
+<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaMute.label             "음소거">
+<!ENTITY mediaMute.accesskey         "M">
+<!ENTITY mediaUnmute.label           "소리켜기">
+<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaShowControls.label     "버튼 보기">
+<!ENTITY mediaShowControls.accesskey "C">
+<!ENTITY mediaHideControls.label     "버튼 숨기기">
+<!ENTITY mediaHideControls.accesskey "C">
+
 <!ENTITY newWindowButton.tooltip "새 창 열기">
 <!ENTITY sidebarCloseButton.tooltip "탐색 창 닫기">
 <!ENTITY cutButton.tooltip "잘라내기">
@@ -316,3 +361,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "이 사이트는 아래 단체에 의하여 운영됩니다.">
 <!ENTITY identity.moreInfoLinkText "자세히 보기…">
 <!ENTITY downloadMonitor2.tooltip "다운로드 창 열기 선택">
+
+<!ENTITY ctrlTab.search.emptyText "탭 검색">
