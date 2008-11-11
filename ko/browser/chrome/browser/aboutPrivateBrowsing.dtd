@@ -1,0 +1,13 @@
+<!ENTITY privatebrowsingpage.tabtitle                  "사생활 보호 모드">
+
+<!ENTITY privatebrowsingpage.pagetitle                 "사생활 보호 모드">
+
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName;는 현재 모드에서 어떤 기록도 저장하지 않습니다">
+<!ENTITY privatebrowsingpage.longDesc                  "웹 브라우징 동안 &brandShortName;는 어떠한 정보도 저장하지 않습니다. 방문 기록, 검색 기록, 다운로드 기록, 폼 양식 기록, 쿠키, 임시 파일 등이 포함됩니다. 그러나, 다운로드 파일 및 북마크 내용은 저장합니다.">
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "최근 기록을 삭제하는 방법을 제공합니다.">
+<!ENTITY privatebrowsingpage.recentHistory.label       "최근 기록 삭제">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey   "C">
+
+<!ENTITY privatebrowsingpage.howToStopDesc             "사생활 보호 모드를 해제하려면 도구 &gt; 사생활 보호 모드 체크를 해제 하세요.">
+<!ENTITY privatebrowsingpage.footerDesc                "즐거운 인터넷 여행 되세요.">

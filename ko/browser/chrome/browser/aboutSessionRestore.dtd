@@ -1,0 +1,18 @@
+<!ENTITY restorepage.tabtitle       "세션 복원">
+<!ENTITY restorepage.pagetitle      "세션 복원을 하시겠습니까?">
+<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
+                        you may translate "crash" instead (even though it's IT-speak) -->
+<!ENTITY restorepage.issueDesc      "이전 &brandShortName; 세션은 예상치 못한 문제로 종료되었습니다. 여러분의 불편에 진심으로 사과의 말씀을 드립니다. 여러분은 재시작 시 이전 세션의 창과 탭을 모두 복원할 수 있으며 그렇지 않은 경우 새 세션을 열 수 있습니다.">
+<!ENTITY restorepage.remedies       "&brandShortName;가 자주 종료될 경우:">
+<!ENTITY restorepage.dueToChrome    "이전 세션에서 추가한 확장 기능을 사용하지 않도록 시도해 보십시오.">
+<!ENTITY restorepage.dueToContent   "이전 세션에서 문제가 된 것으로 의심되는 웹 페이지를 제외하고 복원을 시도해 보십시오.">
+
+<!ENTITY restorepage.restoreButton  "이전 세션 복원">
+<!ENTITY restorepage.restore.access "R">
+<!ENTITY restorepage.cancelButton   "새로 시작">
+<!ENTITY restorepage.cancel.access  "S">
+
+<!ENTITY restorepage.restoreHeader  "복원">
+<!ENTITY restorepage.listHeader     "창 및 탭">
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "창 &#37;S">

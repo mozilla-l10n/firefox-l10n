@@ -19,14 +19,13 @@
 <!ENTITY printButton.label "인쇄">
 <!ENTITY printButton.tooltip "이 페이지를 인쇄합니다.">
 <!ENTITY closeWindow.commandkey "W">
-<!ENTITY searchtab.label "검색">
-<!ENTITY searchtab.accesskey "S">
-<!ENTITY toctab.label "컨텐트">
+<!ENTITY search.emptytext               "검색">
+<!ENTITY searchHeader.label             "검색 결과">
+<!ENTITY toctab.label "내용">
 <!ENTITY toctab.accesskey "C">
 <!ENTITY helpSearch.commandkey "k">
 <!ENTITY zLevel.label "항상 위에">
 <!ENTITY zLevel.accesskey "T">
-<!ENTITY searchClose.tooltip "검색 결과 닫기">
 <!ENTITY fullZoomReduceCmd.commandkey "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
