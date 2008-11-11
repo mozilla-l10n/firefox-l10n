@@ -47,7 +47,6 @@
 <!ENTITY bulletList.value "Unnummerierte Auflistung">
 <!ENTITY numberList.value "Nummerierte Aufzählung">
 <!ENTITY definitionList.value "Definitionsliste">
-<!ENTITY changeListMsg.label "Beim Ändern des Listentyps:">
 <!ENTITY changeEntireListRadio.label "Ganze Liste ändern">
 <!ENTITY changeEntireListRadio.accessKey "L">
 <!ENTITY changeSelectedRadio.label "Nur gewählte Elemente ändern">

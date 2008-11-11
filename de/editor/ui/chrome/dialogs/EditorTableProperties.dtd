@@ -69,7 +69,6 @@
 <!ENTITY tableCaptionNone.label           "Keiner">
 <!ENTITY tableInheritColor.label           "(Seitenfarbe durchscheinen lassen)">
 
-<!ENTITY cellPercent.label                "Prozent der Tabelle">
 <!ENTITY cellSelection.label              "Auswahl">
 <!ENTITY cellSelectCell.label             "Zelle">
 <!ENTITY cellSelectRow.label              "Zeile">
@@ -78,11 +77,7 @@
 <!ENTITY cellSelectNext.accessKey         "N">
 <!ENTITY cellSelectPrevious.label         "Vorherige">
 <!ENTITY cellSelectPrevious.accessKey     "V">
-<!ENTITY cellApplyBeforeMove.label        "Änderungen vor Auswahländerung anwenden">
-<!ENTITY cellKeepCurrentData.label        "Aktuelle Eistellungen behalten">
 <!ENTITY applyBeforeChange.label          "Aktuelle Änderungen werden angewendet bevor die Auswahl verändert wird.">
-<!ENTITY cellRowSpan.label                "Zeilen-Spanne:">
-<!ENTITY cellColSpan.label                "Spalten-Spanne:">
 <!ENTITY cellContentAlignment.label       "Inhalt ausrichten:">
 <!ENTITY cellHorizontal.label             "Horizontal:">
 <!ENTITY cellHorizontal.accessKey         "H">
@@ -100,7 +95,6 @@
 <!ENTITY cellAlignMiddle.label            "Mitte">
 <!ENTITY cellAlignBottom.label            "Unten">
 <!ENTITY cellAlignJustify.label           "Ausrichten">
-<!ENTITY cellAlignAtChar.label            "Beim Buchstaben:">
 <!ENTITY cellInheritColor.label           "(Tabellenfarbe durchscheinen lassen)">
 <!ENTITY cellUseCheckboxHelp.label        "Verwenden Sie die Kontrollkästchen, um zu bestimmen, welche Einstellungen an alle gewählten Zellen angewendet werden.">
 

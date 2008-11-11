@@ -37,7 +37,6 @@
 
 <!ENTITY Window.title        "Inhaltsverzeichnis">
 <!ENTITY buildToc.label      "Inhaltsverzeichnis erstellen aus:">
-<!ENTITY style.label         "Stil:">
 <!ENTITY tag.label           "Tag:">
 <!ENTITY class.label         "Klasse:">
 <!ENTITY header1.label       "Ebene 1">

@@ -41,7 +41,6 @@
 <!ENTITY windowTitle.label "Grafik-Eigenschaften">
 
 <!ENTITY pixelsPopup.value "Pixel">
-<!ENTITY percentPopup.value "Prozent">
 
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Grafik-Adresse:">
@@ -57,7 +56,6 @@
 <!ENTITY noAltText.accessKey "n">
 
 <!ENTITY previewBox.label "Grafikvorschau">
-<!ENTITY MoreFewerButton.tooltip "Mehr oder weniger Eigenschaften zum Bearbeiten anzeigen">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
@@ -93,7 +91,6 @@
 
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "Außenbereich">
-<!ENTITY spacingBox.tooltip "Geben Sie eine Zahl für den Platz um die Grafik an">
 <!ENTITY leftRightEditField.label "Links und rechts:">
 <!ENTITY leftRightEditField.accessKey "L">
 <!ENTITY topBottomEditField.label "Oben und unten:">
@@ -104,12 +101,6 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Rand um verlinkte Grafik anzeigen">
 <!ENTITY showImageLinkBorder.accessKey "v">
-
-<!-- These controls may be added some day; currently not used -->
-<!ENTITY makePageBackgroundCheckbox.label "Als Hintergrund verwenden">
-<!ENTITY makePageBackgroundCheckbox.tooltip "Grafik als Seitenhintergrund verwenden">
-<!ENTITY editImageButton.label "Grafik bearbeiten">
-<!ENTITY editImageButton.tooltip "Grafikdatei in anderer Anwendung bearbeiten">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Formular">
