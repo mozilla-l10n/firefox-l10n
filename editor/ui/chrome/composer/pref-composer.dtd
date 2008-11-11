@@ -4,20 +4,9 @@
 
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
 <!ENTITY  pref.composer.title           "Composer">
-
-<!ENTITY  saving                        "Speichern">
-<!ENTITY  AutoSaveCheck                 "Automatisch speichern alle">
-<!ENTITY  minText                       "Minuten">
-
-<!ENTITY  exterLegend.label             "Externe Editoren">
-<!ENTITY  htmlSource                    "HTML-Quelle:">
-<!ENTITY  imageeditor                   "Grafiken:">
-<!ENTITY  chooseButton.label            "Durchsuchen">
-
 <!ENTITY  recentFiles.title             "Letzte-Seiten-Menü">
 <!ENTITY  documentsInMenu.label         "Maximale Anzahl an aufgelisteten Seiten:">
 <!ENTITY  documentsInMenu.accesskey     "M">
-
 <!ENTITY  savingFiles.title             "Beim Speichern oder Publizieren von Seiten">
 <!ENTITY  preserveExisting.label        "Formatierung des Original-Quelltextes erhalten">
 <!ENTITY  preserveExisting.accesskey    "o">
@@ -26,10 +15,7 @@
 <!ENTITY  saveAssociatedFiles.accesskey "G">
 <!ENTITY  showPublishDialog.label       "Immer Publizieren-Dialog beim Publizieren von Seiten anzeigen">
 <!ENTITY  showPublishDialog.accesskey   "P">
-
 <!ENTITY  composerEditing.label         "Bearbeiten">
-<!ENTITY  spellCheckInline.label        "Sofort-Rechtschreibprüfung">
-<!ENTITY  spellCheckInline.accesskey    "S">
 <!ENTITY  maintainStructure.label       "Tabellen-Layout beim Einfügen oder Löschen von Zellen erhalten">
 <!ENTITY  maintainStructure.tooltip     "Erhält die rechteckige Form der Tabelle, in dem automatisch Zellen hinzugefügt werden, nachdem Sie Zellen eifügen oder löschen">
 <!ENTITY  maintainStructure.accesskey   "i">

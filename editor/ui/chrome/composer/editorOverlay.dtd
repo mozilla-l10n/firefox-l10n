@@ -79,9 +79,6 @@
 <!ENTITY sendPageCmd.accesskey "S">
 <!ENTITY printSetupCmd.label "Seite einrichten…">
 <!ENTITY printSetupCmd.accesskey "t">
-<!ENTITY printPreviewCmd.label "Druckvorschau">
-<!ENTITY printPreviewCmd.accesskey "r">
-<!ENTITY printButtonCmd.label "Drucken…">
 <!ENTITY printCmd.label "Drucken…">
 <!ENTITY printCmd.accesskey "D">
 <!ENTITY printCmd.key "P">
@@ -99,29 +96,8 @@
 <!ENTITY pasteAs.accesskey "a">
 <!ENTITY publishSettings.label "Publizierungssite-Einstellungen…">
 <!ENTITY publishSettings.accesskey "s">
-
-<!-- For a "Paste" submenu when more than 1 
-     clipboard formats are available -->
-<!ENTITY pasteHTMLCmd.label "HTML">
-<!ENTITY pasteHTMLCmd.accesskey "H">
-<!ENTITY pasteTextCmd.label "Text">
-<!ENTITY pasteTextCmd.accesskey "T">
-<!ENTITY pasteImageCmd.label "Grafik">
-<!ENTITY pasteImageCmd.accesskey "G">
-<!ENTITY pasteRowsCmd.label "Zeilen">
-<!ENTITY pasteRowsCmd.accesskey "Z">
-<!ENTITY pasteColumnsCmd.label "Spalten">
-<!ENTITY pasteColumnsCmd.accesskey "S">
-<!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
-     Set to: "Table" or "Nested Table" depending on context 
-     This accesskey must be in both strings -->
-<!ENTITY pasteTableCmd.accesskey "b">
-<!ENTITY pasteLinkCmd.label "Link">
-<!ENTITY pasteLinkCmd.accesskey "L">
 <!ENTITY pasteAsQuotationCmd.label "Als Zitat einfügen">
 <!ENTITY pasteAsQuotationCmd.accesskey "Z">
-<!ENTITY editStripQuotesCmd.label "Ausschnitt-Zitat">
-<!ENTITY editRewrapCmd.label "Neu umbrechen">
 <!ENTITY findCmd.label "Suchen und ersetzen…">
 <!ENTITY findCmd.accesskey "S">
 <!ENTITY findCmd.key "F">
@@ -141,13 +117,6 @@
 <!ENTITY checkSpellingCmd.key "K">
 <!ENTITY validateCmd.label "HTML validieren">
 <!ENTITY validateCmd.accesskey "v">
-<!ENTITY checkLinksCmd.label "Links überprüfen">
-
-<!-- View menu items -->
-<!ENTITY viewPageSource.label "Quelltext anzeigen">
-<!ENTITY viewPageSource.accesskey "Q">
-<!ENTITY viewParagraphMarks.label "Absatzmarken">
-<!ENTITY viewParagraphMarks.accesskey "A">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Einfügen">
@@ -159,41 +128,16 @@
 <!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "Grafik…">
 <!ENTITY insertImageCmd.accesskey "G">
-<!ENTITY insertImageMapCmd.label "Image Map…">
 <!ENTITY insertHLineCmd.label "Horizontale Linie">
 <!ENTITY insertHLineCmd.accesskey "H">
 <!ENTITY insertTableCmd.label "Tabelle…">
 <!ENTITY insertTableCmd.accesskey "T">
-<!ENTITY insertFormMenu.label "Formular">
-<!ENTITY insertFormMenu.accesskey "F">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertCharsCmd.label "Schriftzeichen und Symbole…">
 <!ENTITY insertCharsCmd.accesskey "c">
-<!ENTITY insertBreakCmd.label "Zeilenvorschub">
-<!ENTITY insertBreakCmd.accesskey "v">
 <!ENTITY insertBreakAllCmd.label "Neue Zeile unter Grafik(en)">
 <!ENTITY insertBreakAllCmd.accesskey "k">
-
-<!-- Insert form menu items -->
-<!ENTITY insertFormCmd.label "Formular definieren…">
-<!ENTITY insertFormCmd.accesskey "D">
-<!ENTITY insertInputTagCmd.label "Formularfeld…">
-<!ENTITY insertInputTagCmd.accesskey "e">
-<!ENTITY insertInputImageCmd.label "Formulargrafik…">
-<!ENTITY insertInputImageCmd.accesskey "g">
-<!ENTITY insertTextAreaCmd.label "Textfeld…">
-<!ENTITY insertTextAreaCmd.accesskey "T">
-<!ENTITY insertSelectCmd.label "Auswahlliste…">
-<!ENTITY insertSelectCmd.accesskey "A">
-<!ENTITY insertButtonCmd.label "Schaltfläche definieren…">
-<!ENTITY insertButtonCmd.accesskey "S">
-<!ENTITY insertLabelCmd.label "Beschriftung definieren">
-<!ENTITY insertLabelCmd.accesskey "B">
-<!ENTITY insertFieldSetCmd.label "Felderbereich definieren…">
-<!ENTITY insertFieldSetCmd.accesskey "l">
-<!ENTITY insertIsIndexCmd.label "Indexsuche">
-<!ENTITY insertIsIndexCmd.accesskey "x">
 
 <!-- Used just in context popup. -->
 <!ENTITY spellCheckNoSuggestions.label "(Keine Vorschläge gefunden)">
@@ -238,8 +182,6 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
-<!ENTITY localfontfaceMenu.label "Lokale Schriftarten">
-<!ENTITY localfontfaceMenu.accesskey "k">
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Schriftgröße wählen">
@@ -361,18 +303,6 @@
 <!ENTITY advancedPropertiesCmd.label "Erweiterte Eigenschaften">
 <!ENTITY advancedPropertiesCmd.accesskey "w">
 
-<!ENTITY NormalAbbr.label "Text">
-<!ENTITY ParagraphAbbr.label "P">  
-<!ENTITY Heading1Abbr.label "H1">
-<!ENTITY Heading2Abbr.label "H2">
-<!ENTITY Heading3Abbr.label "H3">
-<!ENTITY Heading4Abbr.label "H4">
-<!ENTITY Heading5Abbr.label "H5">
-<!ENTITY Heading6Abbr.label "H6">
-<!ENTITY BlockquoteAbbr.label "BQ">
-<!ENTITY AddressAbbr.label "Adr.">
-<!ENTITY PreformatAbbr.label "Pre.">
-
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Ausrichten">
 <!ENTITY alignMenu.accesskey "A">
@@ -458,8 +388,6 @@
 <!ENTITY tableDeleteMenu.label "Löschen">
 <!ENTITY tableDeleteMenu.accesskey "L">
 
-<!ENTITY tableFix.label "Tabellenlayout ausbessern">
-<!ENTITY tableFix.accesskey "b">
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
@@ -501,7 +429,6 @@
 <!ENTITY linkToolbarCmd.tooltip "Neuen Link einfügen oder Eigenschaften des gewählten Links bearbeiten">
 <!ENTITY anchorToolbarCmd.label "Anker">
 <!ENTITY anchorToolbarCmd.tooltip "Neuen Anker einfügen oder Eigenschaften des gewählten Ankers bearbeiten">
-<!ENTITY textColorCaption.label "Textfarbe">
 <!ENTITY TextColorButton.tooltip "Farbe für Text auswählen">
 <!ENTITY BackgroundColorButton.tooltip "Farbe für Hintergrund auswählen">
 <!ENTITY throbber.tooltip "&vendorShortName;-Homepage aufrufen">
@@ -523,17 +450,6 @@
 <!ENTITY alignCenterButton.tooltip "Text zentriert ausrichten">
 <!ENTITY alignRightButton.tooltip "Text am rechten Rand ausrichten">
 <!ENTITY alignjustifyButton.tooltip "Text an linkem und rechten Rand ausrichten">
-
-<!-- Formatting toolbar not used, but may be in future -->
-<!ENTITY formatToolbar.boldChar "F">
-<!ENTITY formatToolbar.italicChar "K">
-<!ENTITY formatToolbar.underlineChar "U">
-
-<!-- Used with color pickers in Format toolbar and Format Menu -->
-<!ENTITY colorPicker.default.label "Standardfarbe des Lesers">
-<!ENTITY colorPicker.default.accesskey "l">
-<!ENTITY colorLabel.label "Farbe:">
-<!ENTITY ok.label "OK">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normal">
