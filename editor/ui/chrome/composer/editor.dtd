@@ -58,11 +58,3 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formatas">
 <!ENTITY formatMenu.accesskey "F">
-
-<!ENTITY helpMenu.label "Žinynas">
-<!ENTITY aboutCmd.label ".Apie">
-
-<!-- Display Mode Toolbar -->
-<!ENTITY editMode.label "Taisos veiksena:">
-
-<!ENTITY statusText.label "Tinklalapis įkeltas">

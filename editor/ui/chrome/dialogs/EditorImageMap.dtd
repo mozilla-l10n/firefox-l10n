@@ -86,7 +86,6 @@
 
 <!ENTITY zoominCmd.label "Padidinti">
 <!ENTITY zoomoutCmd.label "Sumažinti">
-<!ENTITY delSpotCmd.label "Pašalinti saitavietę">
 
 <!-- Keys -->
 <!ENTITY clear.key "d">

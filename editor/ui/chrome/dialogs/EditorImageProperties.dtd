@@ -21,6 +21,7 @@
    -
    - Contributor(s):
 	-   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+	-   Rimas Kudelis <rq@akl.lt>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -42,7 +43,6 @@
 <!ENTITY windowTitle.label "Paveikslo savybės">
 
 <!ENTITY pixelsPopup.value "taškų">
-<!ENTITY percentPopup.value "procentų">
 
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Paveikslo URL:">
@@ -58,7 +58,6 @@
 <!ENTITY noAltText.accessKey "n">
 
 <!ENTITY previewBox.label "Paveikslo peržiūra">
-<!ENTITY MoreFewerButton.tooltip "Parodyti daugiau ar mažiau paveikslo savybių">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
@@ -94,7 +93,9 @@
 
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "Protarpiai">
+<!--
 <!ENTITY spacingBox.tooltip "Surinkite skaičių, nurodantį, kiek vietos palikti aplink paveikslą">
+-->
 <!ENTITY leftRightEditField.label "Iš kairės ir iš dešinės:">
 <!ENTITY leftRightEditField.accessKey "k">
 <!ENTITY topBottomEditField.label "Iš viršaus ir iš apačios:">
@@ -105,12 +106,6 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Aplink paveikslą su saitu rodyti rėmelį">
 <!ENTITY showImageLinkBorder.accessKey "ė">
-
-<!-- These controls may be added some day; currently not used -->
-<!ENTITY makePageBackgroundCheckbox.label "Padaryti tinklalapio fonu">
-<!ENTITY makePageBackgroundCheckbox.tooltip "Panaudoti paveikslą kaip šio tinklalapio foną">
-<!ENTITY editImageButton.label "Taisyti paveikslą">
-<!ENTITY editImageButton.tooltip "Taisyti paveikslo failą kita programa">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Forma">

@@ -81,9 +81,6 @@
 <!ENTITY sendPageCmd.accesskey         "l">
 <!ENTITY printSetupCmd.label           "Puslapio nuostatos…">
 <!ENTITY printSetupCmd.accesskey       "u">
-<!ENTITY printPreviewCmd.label         "Spaudinio peržiūra">
-<!ENTITY printPreviewCmd.accesskey     "ž">
-<!ENTITY printButtonCmd.label          "Spausdinti…">
 <!ENTITY printCmd.label                "Spausdinti…">
 <!ENTITY printCmd.accesskey            "S">
 <!ENTITY printCmd.key                  "P">
@@ -104,26 +101,8 @@
 
 <!-- For a "Paste" submenu when more than 1 
      clipboard formats are available -->
-<!ENTITY pasteHTMLCmd.label            "HTML">
-<!ENTITY pasteHTMLCmd.accesskey        "H">
-<!ENTITY pasteTextCmd.label            "Tekstas">
-<!ENTITY pasteTextCmd.accesskey        "T">
-<!ENTITY pasteImageCmd.label           "Paveikslas">
-<!ENTITY pasteImageCmd.accesskey       "P">
-<!ENTITY pasteRowsCmd.label            "Eilutės">
-<!ENTITY pasteRowsCmd.accesskey        "E">
-<!ENTITY pasteColumnsCmd.label         "Stulpeliai">
-<!ENTITY pasteColumnsCmd.accesskey     "S">
-<!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
-     Set to: "Table" or "Nested Table" depending on context 
-     This accesskey must be in both strings -->
-<!ENTITY pasteTableCmd.accesskey       "L">
-<!ENTITY pasteLinkCmd.label            "Saitas">
-<!ENTITY pasteLinkCmd.accesskey        "S">
 <!ENTITY pasteAsQuotationCmd.label     "Įdėti kaip citatą">
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
-<!ENTITY editStripQuotesCmd.label      "Pašalinti citatas">
-<!ENTITY editRewrapCmd.label           "Laužyti iš naujo">
 <!ENTITY findCmd.label                 "Ieškoti ir pakeisti…">
 <!ENTITY findCmd.accesskey             "I">
 <!ENTITY findCmd.key                   "F">
@@ -143,13 +122,6 @@
 <!ENTITY checkSpellingCmd.key          "K">
 <!ENTITY validateCmd.label             "Patikrinti HTML">
 <!ENTITY validateCmd.accesskey         "H">
-<!ENTITY checkLinksCmd.label           "Patikrinti saitus">
-
-<!-- View menu items -->
-<!ENTITY viewPageSource.label          "Pirminis tekstas">
-<!ENTITY viewPageSource.accesskey      "t">
-<!ENTITY viewParagraphMarks.label      "Pastraipų žymės">
-<!ENTITY viewParagraphMarks.accesskey  "P">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label              "Intarpai">
@@ -161,41 +133,16 @@
 <!ENTITY insertAnchorCmd.accesskey     "Ž">
 <!ENTITY insertImageCmd.label          "Paveikslas…">
 <!ENTITY insertImageCmd.accesskey      "P">
-<!ENTITY insertImageMapCmd.label       "Paveikslo planas…">
 <!ENTITY insertHLineCmd.label          "Horizontali juosta">
 <!ENTITY insertHLineCmd.accesskey      "o">
 <!ENTITY insertTableCmd.label          "Lentelę…">
 <!ENTITY insertTableCmd.accesskey      "L">
-<!ENTITY insertFormMenu.label          "Forma">
-<!ENTITY insertFormMenu.accesskey      "F">
 <!ENTITY insertHTMLCmd.label           "HTML…">
 <!ENTITY insertHTMLCmd.accesskey       "H">
 <!ENTITY insertCharsCmd.label          "Rašmuo…">
 <!ENTITY insertCharsCmd.accesskey      "m">
-<!ENTITY insertBreakCmd.label          "Eilutės pabaiga">
-<!ENTITY insertBreakCmd.accesskey      "b">
 <!ENTITY insertBreakAllCmd.label       "Eilutės pabaiga po paveikslu">
 <!ENTITY insertBreakAllCmd.accesskey   "p">
-
-<!-- Insert form menu items -->
-<!ENTITY insertFormCmd.label           "Aprašyti formą…">
-<!ENTITY insertFormCmd.accesskey       "š">
-<!ENTITY insertInputTagCmd.label       "Formos laukas…">
-<!ENTITY insertInputTagCmd.accesskey   "l">
-<!ENTITY insertInputImageCmd.label     "Formos paveikslas…">
-<!ENTITY insertInputImageCmd.accesskey "v">
-<!ENTITY insertTextAreaCmd.label       "Teksto laukas…">
-<!ENTITY insertTextAreaCmd.accesskey   "T">
-<!ENTITY insertSelectCmd.label         "Sąrašas…">
-<!ENTITY insertSelectCmd.accesskey     "S">
-<!ENTITY insertButtonCmd.label         "Aprašyti mygtuką…">
-<!ENTITY insertButtonCmd.accesskey     "m">
-<!ENTITY insertLabelCmd.label          "Aprašyti žymę">
-<!ENTITY insertLabelCmd.accesskey      "ž">
-<!ENTITY insertFieldSetCmd.label       "Aprašyti laukų grupę…">
-<!ENTITY insertFieldSetCmd.accesskey   "g">
-<!ENTITY insertIsIndexCmd.label        "Indeksuota paieška">
-<!ENTITY insertIsIndexCmd.accesskey    "d">
 
 <!-- Used just in context popup. -->
 <!ENTITY spellCheckNoSuggestions.label "(Nėra siūlymų)">
@@ -240,8 +187,6 @@
 <!ENTITY fontTimes.accesskey           "T">
 <!ENTITY fontCourier.label             "Courier">
 <!ENTITY fontCourier.accesskey         "C">
-<!ENTITY localfontfaceMenu.label       "Vidiniai šriftai">
-<!ENTITY localfontfaceMenu.accesskey   "V">
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip        "Pasirinkti šrifto dydį">
@@ -363,18 +308,6 @@
 <!ENTITY advancedPropertiesCmd.label   "Papildoma taisa">
 <!ENTITY advancedPropertiesCmd.accesskey "P">
 
-<!ENTITY NormalAbbr.label              "Tekstas">
-<!ENTITY ParagraphAbbr.label           "P">
-<!ENTITY Heading1Abbr.label            "Antr. 1">
-<!ENTITY Heading2Abbr.label            "Antr. 2">
-<!ENTITY Heading3Abbr.label            "Antr. 3">
-<!ENTITY Heading4Abbr.label            "Antr. 4">
-<!ENTITY Heading5Abbr.label            "Antr. 5">
-<!ENTITY Heading6Abbr.label            "Antr. 6">
-<!ENTITY BlockquoteAbbr.label          "Citata">
-<!ENTITY AddressAbbr.label             "Adresas">
-<!ENTITY PreformatAbbr.label           "Pre.">
-
 <!-- Align menu items -->
 <!ENTITY alignMenu.label               "Lygiuotė">
 <!ENTITY alignMenu.accesskey           "u">
@@ -460,8 +393,6 @@
 <!ENTITY tableDeleteMenu.label         "Pašalinti">
 <!ENTITY tableDeleteMenu.accesskey     "š">
 
-<!ENTITY tableFix.label                "Fiksuoti lentelės išdėstymą">
-<!ENTITY tableFix.accesskey            "F">
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
@@ -503,7 +434,6 @@
 <!ENTITY linkToolbarCmd.tooltip        "Įterpti saitą arba taisyti pažymėto saito savybes">
 <!ENTITY anchorToolbarCmd.label        "Žymė">
 <!ENTITY anchorToolbarCmd.tooltip      "Įterpti žymę arba taisyti pažymėtos žymės savybes">
-<!ENTITY textColorCaption.label        "Teksto spalva">
 <!ENTITY TextColorButton.tooltip       "Pasirinkti teksto spalvą">
 <!ENTITY BackgroundColorButton.tooltip "Parinkti fono spalvą">
 <!ENTITY throbber.tooltip              "Atverti „&vendorShortName;“ tinklalapį">
@@ -525,17 +455,6 @@
 <!ENTITY alignCenterButton.tooltip     "Centruoti">
 <!ENTITY alignRightButton.tooltip      "Lygiuoti dešinįjį kraštą">
 <!ENTITY alignjustifyButton.tooltip    "Lygiuoti abu kraštus">
-
-<!-- Formatting toolbar not used, but may be in future -->
-<!ENTITY formatToolbar.boldChar        "B">
-<!ENTITY formatToolbar.italicChar      "I">
-<!ENTITY formatToolbar.underlineChar   "U">
-
-<!-- Used with color pickers in Format toolbar and Format Menu -->
-<!ENTITY colorPicker.default.label     "Spalvų neparinkti">
-<!ENTITY colorPicker.default.accesskey "s">
-<!ENTITY colorLabel.label              "Spalva:">
-<!ENTITY ok.label                      "Gerai">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label           "Normalusis">
