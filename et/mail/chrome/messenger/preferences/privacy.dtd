@@ -1,0 +1,45 @@
+<!ENTITY itemJunk.label                    "Rämpspost">
+<!ENTITY itemPhishing.label                "Petukirjad">
+<!ENTITY itemPasswords.label               "Paroolid">
+<!ENTITY itemAntiVirus.label               "Viirustõrje">
+
+<!-- Junk Mail Controls -->
+<!ENTITY junkMail.intro                    "Määra oma vaikimisi rämpsposti sätted. Kontopõhiseid rämpsposti sätteid saab häälestada konto sätetes.">
+<!ENTITY manualMark.label                  "Kui kirjad märgitakse rämpspostiks:">
+<!ENTITY manualMark.accesskey              "K">
+<!ENTITY manualMarkModeMove.label          "liigutatakse nad konto &quot;Rämpspost&quot; kausta">
+<!ENTITY manualMarkModeMove.accesskey      "l">
+<!ENTITY manualMarkModeDelete.label        "need kustutatakse">
+<!ENTITY manualMarkModeDelete.accesskey    "t">
+<!ENTITY markAsReadOnSpam.label            "Rämpspostiks määratud kirjad märgitakse loetuks">
+<!ENTITY markAsReadOnSpam.accesskey        "k">
+<!ENTITY enableJunkLogging.label           "Rämpsposti filtri logimine lubatakse">
+<!ENTITY enableJunkLogging.accesskey       "f">
+<!ENTITY openJunkLog.label                 "Kuva logi">
+<!ENTITY openJunkLog.accesskey             "u">
+<!ENTITY resetTrainingData.label           "Lähtesta rämpsposti filtrid">
+<!ENTITY resetTrainingData.accesskey       "r">
+
+<!-- Phishing Detector -->
+<!ENTITY phishingDetector1.intro           "&brandShortName; saab kirju analüüsida, et avastada tuntumaid e-posti pettuste skeeme, millega üritatakse kasutajaid tüssata.">
+<!ENTITY enablePhishingDetector1.label     "Teavitatakse, kui kirja peetakse petukirjaks">
+<!ENTITY enablePhishingDetector1.accesskey "T">
+<!ENTITY useDownloadedList.label           "Kasutatakse allalaaditud arvatavate petukirjade nimekirja">
+<!ENTITY useDownloadedList.accesskey       "K">
+
+<!-- Passwords -->
+<!ENTITY savedPasswords.intro              "&brandShortName; võib paroolide infot meeles pidada, et sa ei peaks logimisel neid uuesti sisestama.">
+<!ENTITY encryptEnabled.label              "Paroolide krüptimiseks kasutatakse ülemparooli">
+<!ENTITY encryptEnabled.accesskey          "P">
+<!ENTITY masterPassword.intro              "Kui ülemparool on määratud, kaitseb see sinu paroole, kuid sa pead sisestama selle seansi alguses.">
+<!ENTITY setMasterPassword.label           "Ülemparool">
+<!ENTITY setMasterPassword.accesskey       "l">
+<!ENTITY removeMasterPassword.label        "Eemalda ülemparool...">
+<!ENTITY removeMasterPassword.accesskey    "E">
+<!ENTITY editPasswords.label               "Redigeeri salvestatud paroole">
+<!ENTITY editPasswords.accesskey           "g">
+
+<!-- Anti Virus -->
+<!ENTITY antiVirus.intro                   "&brandShortName; võib saabuvate kirjade analüüsimise enne nende lokaalset salvestamist viirustõrje tarkvarale lihtsamaks teha.">
+<!ENTITY antiVirus.label                   "Viirustõrje tarkvaral lubatakse üksikuid saabuvaid kirju karantiini panna">
+<!ENTITY antiVirus.accesskey               "i">

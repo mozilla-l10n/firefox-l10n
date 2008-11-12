@@ -1,0 +1,12 @@
+<!ENTITY prefWindow.titleWin     "Valikud">
+<!ENTITY prefWindow.titleGNOME   "&brandShortName;i eelistused">
+<!ENTITY prefWindow.styleWindows "width: 44em; min-height: 38.5em;">
+<!ENTITY prefWindow.styleMac     "width: 47em;">
+<!ENTITY prefWindow.styleGNOME   "width: 42em;">
+
+<!ENTITY paneGeneral.title       "Üldine">
+<!ENTITY paneDisplay.title       "Kuvamine">
+<!ENTITY paneComposition.title   "Koostamine">
+<!ENTITY paneAttachments.title   "Manused">
+<!ENTITY panePrivacy.title       "Privaatsus">
+<!ENTITY paneAdvanced.title      "Muud">

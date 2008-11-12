@@ -1,0 +1,47 @@
+<!ENTITY systemDefaults.label           "Süsteemi vaikesätted">
+<!ENTITY alwaysCheckDefault.label       "Käivitumisel kontrollitakse alati, kas &brandShortName; on vaikimisi e-posti klient">
+<!ENTITY alwaysCheckDefault.accesskey   "a">
+<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
+  There's some sort of bug which makes wrapping checkboxes not properly reflow,
+  causing the bottom border of the groupbox to be cut off; set this
+  appropriately if your localization causes this checkbox to wrap.
+-->
+<!ENTITY alwaysCheckDefault.height      "3em">
+<!ENTITY checkNow.label                 "Kontrolli nüüd">
+<!ENTITY checkNow.accesskey             "n">
+
+<!ENTITY messengerStartPage.label       "&brandShortName;i avaleht">
+<!ENTITY enableStartPage.label          "&brandShortName;i käivitumisel näidatakse kirja alas avalehte">
+<!ENTITY enableStartPage.accesskey      "i">
+<!ENTITY location.label                 "Asukoht:">
+<!ENTITY location1.accesskey            "o">
+<!ENTITY useDefault.label               "Taasta algväärtus">
+<!ENTITY useDefault.accesskey           "T">
+
+<!ENTITY bounceSystemDockIcon.label     "Animeeritud süsteemiriba ikoon">
+<!ENTITY bounceSystemDockIcon.accesskey "n">
+
+<!ENTITY newMessagesArrive.label        "Uue kirja saabumisel:">
+<!ENTITY playSound.label                "mängitakse helifaili">
+<!ENTITY playSound1.accesskey           "g">
+<!ENTITY showAnimatedAlert.label        "kuvatakse teadet">
+<!ENTITY showAnimatedAlert.accesskey    "u">
+<!ENTITY customizeMailAlert.label       "Kohanda...">
+<!ENTITY customizeMailAlert.accesskey   "K">
+
+<!ENTITY play.label                     "Esita">
+<!ENTITY play.accesskey                 "E">
+<!ENTITY systemsound.label              "vaikimisi uue kirja heli">
+<!ENTITY systemsoundMac.label           "süsteemi hoiatuse heli">
+<!ENTITY systemsoundMac.accesskey       "m">
+<!ENTITY systemsound.accesskey          "h">
+<!ENTITY customsound.label              "kasutatakse järgnevat helifaili">
+<!ENTITY customsound.accesskey          "e">
+<!ENTITY browse.label                   "Lehitse...">
+<!ENTITY browse.accesskey               "L">
+
+<!ENTITY addonsMgr.label                "Lisad">
+<!ENTITY manageAddonsDescWin.label      "Muuda oma lisade sätteid">
+<!ENTITY manageAddonsDescUnix2.label    "Muuda oma lisade eelistusi">
+<!ENTITY manageAddons.label             "Halda lisasid...">
+<!ENTITY manageAddons.accesskey         "H">
