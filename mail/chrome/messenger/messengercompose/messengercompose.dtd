@@ -46,11 +46,6 @@
 <!ENTITY printCmd.label                      "Prindi...">
 <!ENTITY printCmd.key                        "P">
 <!ENTITY printCmd.accesskey                  "P">
-<!ENTITY quitApplicationCmdWin.label         "Välju">
-<!ENTITY quitApplicationCmdWin.accesskey     "j">
-<!ENTITY quitApplicationCmd.label            "Välju">
-<!ENTITY quitApplicationCmd.accesskey        "V">
-<!ENTITY quitApplicationCmd.key              "Q">
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                      "Redigeerimine">
