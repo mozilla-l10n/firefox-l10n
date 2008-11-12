@@ -66,12 +66,6 @@
 <!ENTITY printAddressBook.label                         "Spausdinti adresų knygą…">
 <!ENTITY printAddressBook.accesskey                     "A">
 
-<!ENTITY quitApplicationCmdWin.label                    "Baigti darbą"> 
-<!ENTITY quitApplicationCmdWin.accesskey                "B">
-<!ENTITY quitApplicationCmd.label                       "Baigti darbą"> 
-<!ENTITY quitApplicationCmd.accesskey                   "B">
-<!ENTITY quitApplicationCmd.key "Q">
-
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Taisa">
 <!ENTITY editMenu.accesskey                             "T">

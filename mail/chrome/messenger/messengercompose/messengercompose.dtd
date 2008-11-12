@@ -77,11 +77,6 @@
 <!ENTITY printCmd.label "Spausdinti…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "S">
-<!ENTITY quitApplicationCmdWin.label "Baigti darbą"> 
-<!ENTITY quitApplicationCmdWin.accesskey                "B">
-<!ENTITY quitApplicationCmd.label                       "Baigti darbą"> 
-<!ENTITY quitApplicationCmd.accesskey                   "B">
-<!ENTITY quitApplicationCmd.key "Q">
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "Taisa"> 
