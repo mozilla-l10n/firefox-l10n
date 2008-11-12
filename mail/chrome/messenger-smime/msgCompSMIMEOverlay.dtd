@@ -1,0 +1,22 @@
+<!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
+
+<!ENTITY securityMenu.label                    "Turvalisus">
+<!ENTITY securityMenu.accesskey                "T">
+
+<!ENTITY menu_securityEncryptRequire.label     "See kiri krüptitakse">
+<!ENTITY menu_securityEncryptRequire.accesskey "i">
+
+<!ENTITY menu_securityNoEncryption.label       "Seda kirja ei krüptita">
+<!ENTITY menu_securityNoEncryption.accesskey   "S">
+
+<!ENTITY menu_securitySign.label               "Kiri digiallkirjastatakse">
+<!ENTITY menu_securitySign.accesskey           "r">
+
+<!ENTITY menu_securityStatus.label             "Vaata kirja turvalisuse infot">
+<!ENTITY menu_securityStatus.accesskey         "t">
+
+<!ENTITY securityButton.label                  "Turvalisus">
+<!ENTITY securityButton.tooltip                "Vaata või muuda turvasätteid">
+
+<!ENTITY menu_viewSecurityStatus.label         "Kirja turvalisuse info">
+<!ENTITY menu_viewSecurityStatus.accesskey     "K">
