@@ -37,14 +37,12 @@
 
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 <!ENTITY pref.ldap.window.title    "LDAP ਡਾਇਰੈਕਟਰੀ ਸਰਵਰ">
-<!ENTITY directory.label           "ਇੱਕ ਡਾਇਰੈਕਟਰੀ ਸ਼ਾਮਿਲ">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "LDAP ਡਾਇਰੈਕਟਰੀ ਸਰਵਰ:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 <!ENTITY directoriesText.label     "ਇੱਕ LDAP ਡਾਇਰੈਕਟਰੀ ਸਰਵਰ ਚੁਣੋ:">
 <!ENTITY directoriesText.accesskey "S">
-<!-- LOCALIZATION NOTE (autocomplete.title) : do not translate "LDAP" in below line -->
-<!ENTITY autocomplete.title        "LDAP ਡਾਇਰੈਕਟਰੀ ਸਰਵਰ">
+
 <!ENTITY addDirectory.label        "ਸ਼ਾਮਿਲ">
 <!ENTITY addDirectory.accesskey    "a">
 <!ENTITY editDirectory.label       "ਸੋਧ">

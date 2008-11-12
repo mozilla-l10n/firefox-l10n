@@ -49,12 +49,9 @@
 <!ENTITY directorySecure.accesskey         "U">
 <!ENTITY directoryLogin.label              "ਬਾਇਡ DN: ">
 <!ENTITY directoryLogin.accesskey          "i">
-<!ENTITY advancedOptionsButton.label       "ਤਕਨੀਕੀ ਚੋਣ">
-<!ENTITY advancedOptionsButton.accesskey   "a">
 <!ENTITY General.tab                       "ਸਧਾਰਨ">
 <!ENTITY Offline.tab                       "ਆਫਲਾਇਨ">
 <!ENTITY Advanced.tab                      "ਤਕਨੀਕੀ">
-<!ENTITY advancedOptionsTitle.label        "ਤਕਨੀਕੀ ਚੋਣਾਂ">
 <!ENTITY portNumber.label                  "ਪੋਰਟ ਨੰਬਰ: ">
 <!ENTITY portNumber.accesskey              "p">
 <!ENTITY searchFilter.label                "ਖੋਜ ਫਿਲਟਰ: ">

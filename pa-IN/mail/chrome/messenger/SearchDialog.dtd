@@ -5,15 +5,11 @@
 <!ENTITY searchSubfolders.accesskey  "e">
 <!ENTITY resetButton.label           "ਸਾਫ਼ ਕਰੋ">
 <!ENTITY resetButton.accesskey       "C">
-<!ENTITY optionsButton.label         "ਚੋਣ">
-<!ENTITY closeButton.label           "ਬੰਦ ਕਰੋ">
 <!ENTITY openButton.label            "ਖੋਲ੍ਹੋ">
 <!ENTITY openButton.accesskey        "n">
 <!ENTITY deleteButton.label          "ਹਟਾਓ">
 <!ENTITY deleteButton.accesskey      "D">
 <!ENTITY searchDialogTitle.label     "ਸੁਨੇਹੇ ਖੋਜ">
-<!ENTITY conditionDesc.label         "ਇਸ ਨਾਲ ਮਿਲਦੇ ਸੁਨੇਹੇ ਲਈ ਖੋਜ:">
-<!ENTITY conditions.label            "ਸੀਮਾ">
 <!ENTITY results.label               "ਨਤੀਜਾ">
 <!ENTITY fileHereMenu.label          "ਫਾਇਲ ਇੱਥੇ">
 <!ENTITY fileHereMenu.accesskey      "F">
@@ -47,7 +43,6 @@
 <!ENTITY statusColumn.label "ਹਾਲਤ">
 <!ENTITY sizeColumn.label "ਆਕਾਰ">
 <!ENTITY junkStatusColumn.label "ਕੂੜ ਸਥਿਤੀ">
-<!ENTITY linesColumn.label "ਸਤਰਾਂ">
 <!ENTITY unreadColumn.label "ਨਾ-ਪੜੇ">
 <!ENTITY totalColumn.label "ਕੁੱਲ">
 <!ENTITY readColumn.label "ਪੜੇ">
