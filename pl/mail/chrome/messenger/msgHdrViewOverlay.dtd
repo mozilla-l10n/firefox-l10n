@@ -73,7 +73,7 @@
 <!ENTITY viewSourceMenuItem.label "wyświetl źródło…">
 <!ENTITY viewSourceMenuItem.accesskey "w">
 <!ENTITY hideDetailsButton.label  "ukryj szczegóły">
-<!ENTITY showDetailsButton.label  "wyświetl szczegóły">
+<!ENTITY showDetailsButton.label  "Wyświetl szczegóły"><!-- FIXME: tooltip, not label -->
 
 <!ENTITY openAttachmentCmd.label           "Otwórz">
 <!ENTITY openAttachmentCmd.accesskey       "O">
