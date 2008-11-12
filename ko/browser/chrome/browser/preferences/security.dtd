@@ -1,10 +1,10 @@
 <!ENTITY warnAddonInstall.label "부가 기능을 설치하고자 할 때 알려주기">
 <!ENTITY warnAddonInstall.accesskey "W">
 
-<!ENTITY  blockAttackSites.label     "알려진 공격 사이트 차단">
+<!ENTITY  blockAttackSites.label     "공격 사이트일 경우 차단">
 <!ENTITY  blockAttackSites.accesskey "k">
 
-<!ENTITY  blockWebForgeries.label     "알려진 사기 사이트 사이트 차단">
+<!ENTITY  blockWebForgeries.label     "사기 사이트일 경우 차단">
 <!ENTITY  blockWebForgeries.accesskey "B">
 
 <!ENTITY addonExceptions.label "예외 목록…">
