@@ -39,10 +39,6 @@
 <!ENTITY generalSettings.caption "Paramètres généraux">
 <!ENTITY confirmMove.label "Demander une confirmation lors du déplacement d'un dossier dans la corbeille.">
 <!ENTITY confirmMove.accesskey "c">
-<!ENTITY useMessenger.label "Utiliser le Courrier avec les applications de type MAPI">
-<!ENTITY useMessenger.accesskey "U">
-<!ENTITY autounzip.label "Ouvrir automatiquement les fichiers zip pendant l'enregistrement des pièces jointes">
-<!ENTITY autounzip.accesskey "O">
 <!ENTITY preserveThreading.label "Préserver les discussions lors du tri des messages">
 <!ENTITY preserveThreading.accesskey "r">
 

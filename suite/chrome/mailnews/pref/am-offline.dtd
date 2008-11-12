@@ -5,7 +5,6 @@
 <!ENTITY offlineNotDownload.label "Les messages dont la taille est supérieure à">
 <!ENTITY offlineNotDownload.accesskey "g">
 <!ENTITY kb.label "Ko">
-<!ENTITY days.label "jours">
 <!ENTITY daysOld.label "jours">
 <!ENTITY message.label "messages les plus récents">
 <!ENTITY nntpNotDownloadRead.label "Les messages lus">

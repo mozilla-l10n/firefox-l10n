@@ -49,8 +49,6 @@
 <!ENTITY newListCmd.accesskey "l">
 <!ENTITY newAddressBookCmd.label "Nouveau carnet d'adresses…">
 <!ENTITY newAddressBookCmd.accesskey "B">
-<!ENTITY renameAddressBookCmd.label "Renommer le carnet d'adresses…"> 
-<!ENTITY renameAddressBookCmd.accesskey "R">
 <!ENTITY newLDAPDirectoryCmd.label "Annuaire LDAP…">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey "A">
@@ -106,8 +104,6 @@
 <!ENTITY allowOnlineCheck.label "Vérifier la présence en ligne (AOL)">
 <!ENTITY allowOnlineCheck.accesskey "p">
 
-<!ENTITY stopSearchingCmd.label "Arrêter la recherche">
-
 <!-- Toolbar and Popup items -->
 <!ENTITY newcardButton.label "  Nouvelle fiche  ">
 <!ENTITY newcardButton.accesskey "c">
@@ -121,9 +117,6 @@
 <!ENTITY deleteButton.accesskey "r">
 <!ENTITY newimButton.label "Message instantané">
 <!ENTITY newimButton.accesskey "s">
-<!ENTITY stopButton.label " Arrêter ">
-<!ENTITY searchButton.label "Rechercher">
-<!ENTITY showNames.label "Afficher les noms contenant :">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip "Barre d'outils du carnet d'adresses">
@@ -133,10 +126,7 @@
 <!ENTITY newmsgButton.tooltip "Rédiger un courrier à la sélection">
 <!ENTITY newIM.tooltip "Envoyer un message instantané ou initier un chat">
 <!ENTITY deleteButton.tooltip "Supprimer la fiche ou le carnet sélectionné">
-<!ENTITY stopButton.tooltip "Arrêter le transfert en cours">
-<!ENTITY searchButton.tooltip "Rechercher dans le carnet d'adresses sélectionné">
 <!ENTITY throbber.tooltip "Aller sur la page de &vendorShortName;">
-<!ENTITY clearButton.tooltip "Effacer le critère de recherche et montrer toutes les entrées">
 <!ENTITY advancedButton.tooltip "Recherche avancée d'adresses">
 
 <!-- Status Bar -->  

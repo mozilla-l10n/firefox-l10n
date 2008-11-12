@@ -1,4 +1,3 @@
-<!ENTITY identitiesListTitle.label      "Identités associées à ce compte">
 <!ENTITY identitiesListDesc.label       "Gestion des identités multiples">
 <!ENTITY identitiesListAdd.label        "Ajouter…">
 <!ENTITY identitiesListAdd.accesskey    "j">

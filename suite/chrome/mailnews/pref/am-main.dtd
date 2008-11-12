@@ -3,7 +3,6 @@
 <!ENTITY accountTitle.label "Paramètres du compte">
 <!ENTITY accountName.label "Nom du compte :">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY accountNameDesc.label "Le nom de compte identifie chaque compte">
 <!ENTITY identityTitle.label "Identité par défaut">
 <!ENTITY identityDesc.label "Chaque compte dispose d'informations sur l'expéditeur qui sont systématiquement transmises avec les messages. Elles vous identifient auprès de vos destinataires.">
 <!ENTITY name.label "Votre nom :">
@@ -16,7 +15,6 @@
 <!ENTITY organization.accesskey "O">
 <!ENTITY signature.label "Apposer cette signature :">
 <!ENTITY signature.accesskey "s">
-<!ENTITY edit.label "Modifier…">
 <!ENTITY choose.label "Choisir…">
 <!ENTITY choose.accesskey "C">
 <!ENTITY editVCard.label "Modifier la fiche…">

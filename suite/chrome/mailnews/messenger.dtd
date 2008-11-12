@@ -52,7 +52,6 @@
 <!ENTITY newVirtualFolderCmd.accesskey "r">
 <!ENTITY newAccountCmd.label "Compte…">
 <!ENTITY newAccountCmd.accesskey "p">
-<!ENTITY openMessageMenu.label "Ouvrir">
 <!ENTITY openMessageFileCmd.label "Ouvrir le fichier…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Ouvrir la pièce jointe">
@@ -77,7 +76,6 @@
 <!ENTITY getNextNMsgCmd.accesskey "s">
 <!ENTITY sendUnsentCmd.label "Envoyer les messages en attente">
 <!ENTITY sendUnsentCmd.accesskey "a">
-<!ENTITY loadFirstDraft.label "Charger le premier message brouillon">
 <!ENTITY subscribeCmd.label "S'abonner…">
 <!ENTITY subscribeCmd.accesskey "b">
 <!ENTITY renameFolder.label "Renommer le dossier…">
@@ -101,7 +99,6 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Aperçu avant impression">
 <!ENTITY printPreviewCmd.accesskey "u">
-<!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "Mise en page…">
 <!ENTITY printSetupCmd.accesskey "g">
 
@@ -129,8 +126,6 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Messages cochés">
 <!ENTITY selectFlaggedCmd.accesskey "c">
-<!ENTITY selectInvertCmd.label "Inverser la sélection">
-<!ENTITY selectInvertCmd.accesskey "I">
 <!ENTITY folderPropsCmd.label "Propriétés du dossier">
 <!ENTITY folderPropsFolderCmd.label "Propriétés du dossier…">
 <!ENTITY folderPropsNewsgroupCmd.label "Propriétés du groupe…">
@@ -145,14 +140,10 @@
 <!ENTITY redoCopyMsgCmd.label "Rétablir la copie de message">
 <!ENTITY undoDefaultCmd.label "Annuler">
 <!ENTITY redoDefaultCmd.label "Refaire">
-<!ENTITY editDraftCmd.label "Éditer le brouillon">
-<!ENTITY editDraftCmd.accesskey "b">
 
 <!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label "Barre d'outils courrier">
 <!ENTITY showMessengerToolbarCmd.accesskey "t">
-<!ENTITY customizeToolbar.label "Personnaliser…">
-<!ENTITY customizeToolbar.accesskey "P">
  
 <!-- showSearchToolbarCmd is also used by addressbook -->
 <!ENTITY showSearchToolbarCmd.label "Barre de recherche">
@@ -222,8 +213,6 @@
 <!ENTITY threads.accesskey "D">
 <!ENTITY allMsgsCmd.label "Toutes">
 <!ENTITY allMsgsCmd.accesskey "T">
-<!ENTITY expandOrCollapseMenu.label "Développer/Réduire">
-<!ENTITY expandOrCollapseMenu.accesskey "R">
 <!ENTITY expandAllThreadsCmd.label "Développer toutes les discussions">
 <!ENTITY expandAllThreadsCmd.accesskey "e">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -244,8 +233,6 @@
 <!ENTITY headersAllCmd.accesskey "C">
 <!ENTITY headersNormalCmd.label "Normaux">
 <!ENTITY headersNormalCmd.accesskey "N">
-<!ENTITY headersBriefCmd.label "Courts">
-<!ENTITY headersBriefCmd.accesskey "u">
 <!ENTITY bodyMenu.label "Corps du message en">
 <!ENTITY bodyMenu.accesskey "o">
 <!ENTITY bodyAllowHTML.label "HTML original">
@@ -263,12 +250,6 @@
 <!ENTITY pageSourceCmd.label "Code source du message">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
-<!ENTITY translateMenu.label "Traduire">
-
-<!-- Search Menu -->
-<!-- searchMenu is also used by addressbook -->
-<!ENTITY searchMenu.label "Rechercher">
-<!ENTITY searchMenu.accesskey "R">
 
 <!ENTITY findCmd.label "Rechercher…">
 <!ENTITY findCmd.accesskey "R">
@@ -281,24 +262,11 @@
 <!ENTITY findPrevCmd.accesskey "h">
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!-- LOCALIZATION NOTE (searchCurrentCmd.label) : Do not translate "&lt;" and "&gt;" in below line. -->
-<!ENTITY searchCurrentCmd.label "Rechercher dans &lt;current&gt;">
-<!ENTITY searchCurrentCmd.accesskey "">
-<!-- LOCALIZATION NOTE (searchParentCmd.label) : Do not translate "&lt;" and "&gt;" in below line. -->
-<!ENTITY searchParentCmd.label "Rechercher dans &lt;parent&gt;">
-<!ENTITY searchParentCmd.accesskey "">
-<!-- LOCALIZATION NOTE (searchParentParentCmd.label) : Do not translate "&lt;" and "&gt;" in below line. -->
-<!ENTITY searchParentParentCmd.label "Rechercher dans &lt;parent parent&gt;">
-<!ENTITY searchParentParentCmd.accesskey "">
 
 <!-- Go Menu -->
 
 <!ENTITY goMenu.label "Aller à">
 <!ENTITY goMenu.accesskey "l">
-<!ENTITY firstUnreadMsgCmd.label "Premier message non lu">
-<!ENTITY firstUnreadMsgCmd.accesskey "n">
-<!ENTITY firstFlaggedMsgCmd.label "Premier message coché">
-<!ENTITY firstFlaggedMsgCmd.accesskey "P">
 <!ENTITY nextMenu.label "Suivant">
 <!ENTITY nextMenu.accesskey "v">
 <!ENTITY nextMsgCmd.label "Message">
@@ -309,7 +277,6 @@
 <!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextFlaggedMsgCmd.label "Message coché">
 <!ENTITY nextFlaggedMsgCmd.accesskey "c">
-<!ENTITY nextUnflaggedMsgCmd.label "Message non coché">
 <!ENTITY nextUnreadThread.label "Discussion non lue">
 <!ENTITY nextUnreadThread.accesskey "n">
 <!ENTITY nextUnreadThread.key "t">
@@ -327,10 +294,6 @@
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Message coché">
 <!ENTITY prevFlaggedMsgCmd.accesskey "c">
-<!ENTITY backCmd.label "Retour">
-<!ENTITY backCmd.accesskey "R">
-<!ENTITY forwardCmd.label "Suivant">
-<!ENTITY forwardCmd.accesskey "Fv">
 <!ENTITY startPageCmd.label "Page de garde du Courrier">
 <!ENTITY startPageCmd.accesskey "g">
 <!ENTITY msgMenu.label "Messages">
@@ -388,10 +351,6 @@
 <!ENTITY fileHereMenu.accesskey "a">
 <!ENTITY copyHereMenu.label "Copier ici">
 <!ENTITY copyHereMenu.accesskey "C">
-<!ENTITY addSenderToAddressBookCmd.label "Ajouter l'expéditeur au carnet d'adresses">
-<!ENTITY addSenderToAddressBookCmd.accesskey "s">
-<!ENTITY addAllToAddressBookCmd.label "Ajouter tout au carnet d'adresses">
-<!ENTITY addAllToAddressBookCmd.accesskey "A">
 <!ENTITY tagMenu.label "Étiquette">
 <!ENTITY tagMenu.accesskey "q">
 <!ENTITY tagCustomize.label "Personnaliser…">
@@ -411,8 +370,6 @@
 <!ENTITY markAsReadCmd.label "Comme lu">
 <!ENTITY markAsReadCmd.accesskey "l">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "Comme non lu">
-<!ENTITY markAsUnreadCmd.accesskey "n">
 <!ENTITY markThreadAsReadCmd.label "La discussion comme lue">
 <!ENTITY markThreadAsReadCmd.accesskey "d">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -511,8 +468,6 @@
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label "Chargé">
-<!ENTITY  unreadCountText.label "Non lu(s) : ">
-<!ENTITY  totalCountText.label " Total : ">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Ouvrir dans une nouvelle fenêtre">

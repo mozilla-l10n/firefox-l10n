@@ -52,13 +52,8 @@
 <!ENTITY retention.label "Politique de conservation">
 <!ENTITY retentionUseDefault.label "Utiliser les paramètres par défaut du serveur">
 <!ENTITY retentionUseDefault.accesskey "d">
-<!ENTITY days.label "jours">
 <!ENTITY daysOld.label "derniers jours">
 <!ENTITY message.label "messages">
-<!ENTITY retentionNotDownloadRead.label "Messages lus">
-<!ENTITY retentionNotDownloadRead.accesskey "s">
-<!ENTITY retentionDownloadMsg.label "Messages ayant plus de">
-<!ENTITY retentionDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "Conserver :">
 <!ENTITY retentionDeleteMsg.label "Supprimer les messages ayant plus de ">
 <!ENTITY retentionDeleteMsg.accesskey "m">
@@ -80,18 +75,15 @@
 
 <!ENTITY selectofflineNewsgroup.check.label "Sélectionner ce groupe pour une utilisation hors ligne">
 <!ENTITY selectofflineNewsgroup.check.accesskey "o">
-<!ENTITY UseDefaultofflineNewsgroup.check.label "Utiliser les paramètres par défaut du compte ">
 <!ENTITY offlineNewsgroup.button.label "Télécharger maintenant">
 <!ENTITY offlineNewsgroup.button.accesskey "m">
 
-<!ENTITY folderProps.information.label "Information :">
 <!ENTITY folderProps.name.label "Nom :">
 <!ENTITY folderProps.name.accesskey "N">
 <!ENTITY folderProps.location.label "Emplacement :">
 <!ENTITY folderProps.location.accesskey "E">
 
 <!ENTITY folderSharingTab.label "Partage">
-<!ENTITY privilegesDesc.label "Partage de ce dossier et d'autres avec des utilisateurs du réseau et affichage et réglage des privilèges">
 <!ENTITY privileges.button.label "Privilèges…">
 <!ENTITY privileges.button.accesskey "P">
 <!ENTITY permissionsDesc.label "Vous avez les permissions suivantes :">

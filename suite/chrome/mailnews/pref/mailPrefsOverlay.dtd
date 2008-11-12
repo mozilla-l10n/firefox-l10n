@@ -17,7 +17,6 @@
 <!ENTITY composingMessages.label          "Rédaction des messages">
 <!ENTITY format.label                     "Format d'expédition">
 <!ENTITY return.label                     "Accusés de réception">
-<!ENTITY disk.label                       "Espace disque">
 <!ENTITY junk.label                       "Indésirables">
 <!ENTITY tags.label                       "Étiquettes">
 <!ENTITY characterEncoding.label          "Encodage des caractères">
