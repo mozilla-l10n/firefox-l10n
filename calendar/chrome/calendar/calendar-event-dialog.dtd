@@ -84,8 +84,6 @@
 <!ENTITY  event.menu.file.page.setup.accesskey            "P">
 <!ENTITY  event.menu.file.print.label                     "Spausdinti">
 <!ENTITY  event.menu.file.print.accesskey                 "S">
-<!ENTITY  event.menu.file.exit.label                      "Baigti darbą">
-<!ENTITY  event.menu.file.exit.accesskey                  "B">
 
 <!ENTITY  event.menu.edit.label                           "Taisa">
 <!ENTITY  event.menu.edit.accesskey                       "T">
