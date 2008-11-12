@@ -1,0 +1,20 @@
+<!ENTITY emailSectionHdr.label       "E-post">
+<!ENTITY readMsgsLink.label          "Loe kirju">
+<!ENTITY composeMsgLink.label        "Kirjuta uus kiri">
+
+<!ENTITY newsSectionHdr.label        "Uudistegrupid">
+<!ENTITY subscribeNewsLink.label     "Halda uudistegruppide tellimusi">
+
+<!ENTITY accountsSectionHdr.label    "Kontod">
+<!ENTITY subscribeImapFolders.label  "Halda kaustade tellimusi">
+<!ENTITY settingsLink.label          "Kuva selle konto sätteid">
+<!ENTITY newAcctLink.label           "Loo uus konto">
+
+<!ENTITY advFeaturesSectionHdr.label "Lisavõimalused">
+<!ENTITY searchMsgsLink.label        "Otsi kirju">
+<!ENTITY filtersLink.label           "Halda e-posti filtreid">
+<!ENTITY junkSettings.label          "Rämpsposti sätted">
+<!ENTITY offlineLink.label           "Võrguta režiimi sätted">
+
+<!ENTITY rssSectionHdr.label         "RSS uudised ja blogid">
+<!ENTITY subscibeRSS.label           "Halda tellimusi">
