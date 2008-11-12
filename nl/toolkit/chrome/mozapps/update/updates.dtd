@@ -6,9 +6,6 @@
 <!ENTITY  checking.title                  "Controleren op updates">
 <!ENTITY  checking.label                  "&brandShortName; controleert nu op updates…">
 
-<!ENTITY  cancel.label                    "Annuleren">
-<!ENTITY  cancel.accesskey                "A">
-
 <!ENTITY  noupdatesfound.title            "Geen updates gevonden">
 <!ENTITY  noupdatesautoenabled.intro      "Er zijn geen updates beschikbaar. &brandShortName; zal periodiek
                                            controleren op updates.">
@@ -16,15 +13,12 @@
                                            de automatische updatecontrole van &brandShortName;.">
 
 <!ENTITY  incompatibleChecking.label      "Bezig met controleren of deze update problemen kan veroorzaken met uw extensies en/of thema’s…">
+<!ENTITY  incompatibleCheck.label         "Bezif met cont1roleren op nieuwere versies van uw add-ons…">
+
 <!ENTITY  clickHere.label                 "Meer informatie over deze update bekijken">
 
-<!ENTITY  incompatible.warning            "Deze update zal ervoor zorgen dat sommige van uw extensies
-                                           en/of thema’s niet meer werken totdat deze worden bijgewerkt.">
-<!ENTITY  listIncompatible.label          "Lijst tonen">
-<!ENTITY  listIncompatible.accesskey      "L">
-
-<!ENTITY  upgrade.evangelism              "Het wordt ten sterkste aangeraden &brandShortName; zo snel 
-                                           mogelijk bij te werken.">
+<!ENTITY  evangelism.desc                 "Het wordt ten sterkste aangeraden de update 
+                                           voor &brandShortName; zo snel mogelijk toe te passen.">
 
 <!ENTITY  license.instructions            "Als u instemt met de voorwaarden van deze overeenkomst, klik dan hieronder 
                                            op Ik ga akkoord om door te gaan met de installatie van deze update.">
@@ -37,6 +31,8 @@
 <!ENTITY  license.decline                 "Ik accepteer de voorwaarden van de licentieovereenkomst NIET">
 <!ENTITY  license.decline.accesskey       "T">
 
+<!ENTITY  incompatibleList.title          "Incompatible Add-ons gevonden">
+
 <!ENTITY  downloading.title               "Update downloaden">
 <!ENTITY  downloading.intro               "De update aan het downloaden…">
 <!ENTITY  connecting.label                "Verbinden met de updateserver…">
@@ -44,11 +40,9 @@
                                            incrementele update die is gedownload te verifiëren en downloadt
                                            daarom nu het volledige updatepakket.">
 
+<!ENTITY  viewDetails.tooltip             "Details voor deze update bekijken">
+
 <!ENTITY  details.link                    "Details">
-<!ENTITY  pause.label                     "Pauzeren">
-<!ENTITY  pause.accesskey                 "e">
-<!ENTITY  close.label                     "Sluiten">
-<!ENTITY  close.accesskey                 "S">
 
 <!ENTITY  error.label                     "Er was een probleem bij het controleren op, of het downloaden of installeren
                                            van deze update. &brandShortName; kon niet worden bijgewerkt omdat:">
@@ -64,15 +58,12 @@
 <!ENTITY  finished.text                   "De update is succesvol gedownload en geverifieerd en zal de volgende
                                            keer dat &brandShortName; start worden geïnstalleerd.">
 
-<!ENTITY  finishedBackground.title        "Update klaar om te installeren">
-<!ENTITY  finishedBackground.text         "&brandShortName; heeft een belangrijke update gedownload en geverifieerd.
-                                           Klik op de onderstaande koppeling voor meer details.">
+<!ENTITY  finishedBackgroundPage.text     "&brandShortName; heeft een veiligheids en stabiliteits update gedownload
+                                           en is klaar om te installeren.">
 <!ENTITY  finishedBackground.name         "Update:">
-<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
-<!ENTITY  finishedBackground.more1        "Klik op &brandShortName; nu herstarten om de update nu te installeren.">
-<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!ENTITY  finishedBackground.textNotNow   "Klik op Niet nu om dit dialoogvenster te sluiten en verder te werken. &brandShortName;
-                                           zal de update bij de volgende keer starten installeren.">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more         "De update zal de volgende keer dat  &brandShortName; start worden geïnstalleerd. U
+                                           kunt &brandShortName; nu herstarten of doorgaan met werken en later herstarten.">
 
 <!ENTITY  installed.title                 "Update geïnstalleerd">
 <!ENTITY  installed.intro                 "De update is succesvol geïnstalleerd.">
