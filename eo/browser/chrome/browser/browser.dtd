@@ -7,6 +7,9 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Private Browsing)">
 
 <!ENTITY tabCmd.label "Nova folio">
 <!ENTITY tabCmd.accesskey "F">
@@ -158,8 +161,11 @@
 <!ENTITY preferencesCmdUnix.label "Preferoj">
 <!ENTITY preferencesCmdUnix.accesskey "j">
 
-<!ENTITY clearPrivateDataCmd.label "Forigi privatajn datumojn">
-<!ENTITY clearPrivateDataCmd.accesskey "P">
+<!ENTITY clearRecentHistoryCmd.label "Clear Recent History">
+<!ENTITY clearRecentHistoryCmd.accesskey "H">
+
+<!ENTITY privateBrowsingCmd.label "Private Browsing">
+<!ENTITY privateBrowsingCmd.accesskey "B">
 
 <!ENTITY viewMenu.label "Vidi">
 <!ENTITY viewMenu.accesskey "V">
@@ -233,10 +239,12 @@
 <!ENTITY viewPageInfoCmd.accesskey "P">
 <!ENTITY viewFrameInfoCmd.label "Vidi informon de kadro">
 <!ENTITY viewFrameInfoCmd.accesskey "K">
-<!ENTITY showImageCmd.label "Montri bildon">
-<!ENTITY showImageCmd.accesskey "M">
+<!ENTITY reloadImageCmd.label "Reload Image">
+<!ENTITY reloadImageCmd.accesskey "R">
 <!ENTITY viewImageCmd.label "Vidi bildon">
 <!ENTITY viewImageCmd.accesskey "B">
+<!ENTITY viewVideoCmd.label "View Video">
+<!ENTITY viewVideoCmd.accesskey "I">
 <!ENTITY viewBGImageCmd.label "Vidi fonan bildon">
 <!ENTITY viewBGImageCmd.accesskey "i">
 <!ENTITY setDesktopBackgroundCmd.label "Difini kiel skribotablan fonan bildon…">
@@ -264,8 +272,16 @@
 <!ENTITY sendLinkCmd.accesskey "e">
 <!ENTITY saveImageCmd.label "Konservi bildon kiel…">
 <!ENTITY saveImageCmd.accesskey "n">
+<!ENTITY saveVideoCmd.label "Save Video As…">
+<!ENTITY saveVideoCmd.accesskey "v">
+<!ENTITY saveAudioCmd.label "Save Audio As…">
+<!ENTITY saveAudioCmd.accesskey "v">
 <!ENTITY sendImageCmd.label "Sendi bildon…">
 <!ENTITY sendImageCmd.accesskey "n">
+<!ENTITY sendVideoCmd.label "Send Video…">
+<!ENTITY sendVideoCmd.accesskey "n">
+<!ENTITY sendAudioCmd.label "Send Audio…">
+<!ENTITY sendAudioCmd.accesskey "n">
 <!ENTITY copyLinkCmd.label "Kopii adreson de ligilo">
 <!ENTITY copyLinkCmd.accesskey "k">
 <!ENTITY copyLinkTextCmd.label "Kopii tekston de ligilo">
@@ -274,6 +290,10 @@
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyImageContentsCmd.label "Kopii bildo">
 <!ENTITY copyImageContentsCmd.accesskey "b">
+<!ENTITY copyVideoURLCmd.label "Copy Video Location">
+<!ENTITY copyVideoURLCmd.accesskey "o">
+<!ENTITY copyAudioURLCmd.label "Copy Audio Location">
+<!ENTITY copyAudioURLCmd.accesskey "o">
 <!ENTITY blockImageCmd.accesskey "B">
 <!ENTITY metadataCmd.label "Atributoj">
 <!ENTITY metadataCmd.accesskey "A">
@@ -281,11 +301,26 @@
 <!ENTITY copyEmailCmd.accesskey "R">
 <!ENTITY thisFrameMenu.label "Tiu ĉi kadro">
 <!ENTITY thisFrameMenu.accesskey "i">
+<!-- Media (video/audio) controls -->
+
+<!ENTITY mediaPlay.label "Play">
+<!ENTITY mediaPlay.accesskey "P">
+<!ENTITY mediaPause.label "Pause">
+<!ENTITY mediaPause.accesskey "P">
+<!ENTITY mediaMute.label "Mute">
+<!ENTITY mediaMute.accesskey "M">
+<!ENTITY mediaUnmute.label "Unmute">
+<!ENTITY mediaUnmute.accesskey "m">
+<!ENTITY mediaShowControls.label "Show Controls">
+<!ENTITY mediaShowControls.accesskey "C">
+<!ENTITY mediaHideControls.label "Hide Controls">
+<!ENTITY mediaHideControls.accesskey "C">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
+
 
 
 <!ENTITY fullZoomEnlargeCmd.label "Alproksimiĝi">
@@ -392,3 +427,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Pli da informo…">
 
 <!ENTITY downloadMonitor2.tooltip "Alklaku por malfermi elŝutan fenestron">
+
+<!ENTITY ctrlTab.search.emptyText "Search Tabs">

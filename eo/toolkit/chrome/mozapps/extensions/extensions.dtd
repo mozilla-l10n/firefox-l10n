@@ -112,6 +112,7 @@
 <!ENTITY insecureUpdate.label "Does not provide secure updates.">
 <!ENTITY needsDependencies.label "Aldonaj elementoj postulataj.">
 <!ENTITY blocklisted.label "Malaktivigita por protekti vin.">
+<!ENTITY softBlocklisted.label "Known to cause security or stability issues.">
 <!ENTITY toBeDisabled.label "Tiu ĉi kromprogramo estos malaktivia post la rekomenco de &brandShortName;.">
 <!ENTITY toBeEnabled.label "Tiu ĉi kromprogramo estos aktiva post la rekomenco de &brandShortName;.">
 <!ENTITY toBeInstalled.label "Tiu ĉi kromprogramo estos instalita post la rekomenco de &brandShortName;.">
@@ -168,3 +169,6 @@
 <!ENTITY eula.width "560px">
 <!ENTITY eula.height "400px">
 <!ENTITY eula.accept "Accept and Install…">
+
+<!ENTITY blocklist.blocked.label "Blocked">
+<!ENTITY blocklist.checkbox.label "Disable">

@@ -1,0 +1,13 @@
+<!ENTITY privatebrowsingpage.tabtitle "Privata retesplorado">
+
+<!ENTITY privatebrowsingpage.pagetitle "Privata retesplorado">
+
+<!ENTITY privatebrowsingpage.issueDesc "&brandShortName; ne memoros la historion de ĉiu seanco.">
+<!ENTITY privatebrowsingpage.longDesc "&brandShortName; ne registros la historion dum tiu ĉi retesplora seanco. Tio inkluzivas la retesplorilan, serĉan, elŝutan kaj formularan historion, kuketojn kaj tempajn interretajn dosierojn. Tamen, elŝutitaj dosieroj kaj aldonitaj paĝosignoj estos konservitaj.">
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc "Vi eble volos komenci per forviŝado de via ĵusa historio.">
+<!ENTITY privatebrowsingpage.recentHistory.label "Forviŝi ĵusan historion">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey "F">
+
+<!ENTITY privatebrowsingpage.howToStopDesc "Por haltigi la privatan retesploradon malaktivigu Iloj &gt; Privata retesplorado.">
+<!ENTITY privatebrowsingpage.footerDesc "Ĝuu!">

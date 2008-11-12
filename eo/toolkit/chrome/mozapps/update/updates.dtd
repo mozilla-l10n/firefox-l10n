@@ -4,27 +4,21 @@
 <!ENTITY window.macWidth "39em">
 
 <!ENTITY checking.title "Kontrolado de ĝisdatigoj">
-<!ENTITY checking.label "&brandShortName; kontrolas nun ĉu estas ĝisdatigoj…">
-
-<!ENTITY cancel.label "Nuligi">
-<!ENTITY cancel.accesskey "N">
+<!ENTITY updateCheck.label "Looking for newer versions of &brandShortName;…">
 
 <!ENTITY noupdatesfound.title "Neniu ĝisdatigo trovita">
-<!ENTITY noupdatesautoenabled.intro "There are no updates available. &brandShortName; will check
-                                           periodically for updates.">
-<!ENTITY noupdatesautodisabled.intro "There are no updates available. Please check again later or enable
-                                           &brandShortName;'s automatic update checking.">
+<!ENTITY noupdatesautoenabled.intro "There are no updates available. &brandShortName; will check 
+periodically for updates.">
+<!ENTITY noupdatesautodisabled.intro "There are no updates available. Please check again later or enable 
+&brandShortName;'s automatic update checking.">
 
-<!ENTITY incompatibleChecking.label "Kontrolo, ĉu tiu ĉi ĝisdatigo okazigos problemojn al viaj etendoprogramoj kaj/aŭ etosoj…">
+<!ENTITY incompatibleCheck.title "Checking Add-on Compatibility">
+<!ENTITY incompatibleCheck.label "Looking for newer versions of your add-ons…">
+
 <!ENTITY clickHere.label "Vidi plian informon pri ĉi tiu ĝisdatigo">
 
-<!ENTITY incompatible.warning "Tiu ĉi ĝisdatigo ĉesigos la funkciadon de kelkaj el viaj etendoprogramoj 
-kaj/aŭ etosoj ĝis ankaŭ ili estos ĝisdatigitaj.">
-<!ENTITY listIncompatible.label "Montri liston">
-<!ENTITY listIncompatible.accesskey "L">
-
-<!ENTITY upgrade.evangelism "Estas ege rekomendata ĝisdatigi &brandShortName; 
-kiel eble plej baldaŭ.">
+<!ENTITY evangelism.desc "It is strongly recommended that you apply this 
+                                           update for &brandShortName; as soon as possible.">
 
 <!ENTITY license.instructions "Se vi kunsentas kun la kondiĉoj de tiu ĉi interkonsento alklaku la tekston Mi kunsentas 
 por daŭrigi la instaladon de ĉi tiu ĝisdatigo.">
@@ -37,6 +31,8 @@ por daŭrigi la instaladon de ĉi tiu ĝisdatigo.">
 <!ENTITY license.decline "Mi ne akceptas la kondiĉojn de la permesila interkonsento">
 <!ENTITY license.decline.accesskey "T">
 
+<!ENTITY incompatibleList.title "Incompatible Add-ons Found">
+
 <!ENTITY downloading.title "Elŝutado de ĝisdatigo">
 <!ENTITY downloading.intro "Elŝutado de ĝisdatigo…">
 <!ENTITY connecting.label "Konektado al la ĝisdatiga servilo…">
@@ -44,11 +40,9 @@ por daŭrigi la instaladon de ĉi tiu ĝisdatigo.">
 poioma ĝisdatigo kiun ĝi elŝutis kaj 
 do ĝi elŝutas nun la tutan ĝisdatigan pakon.">
 
+<!ENTITY viewDetails.tooltip "View details for this update">
+
 <!ENTITY details.link "Detaloj">
-<!ENTITY pause.label "Paŭzigi">
-<!ENTITY pause.accesskey "z">
-<!ENTITY close.label "Fermi">
-<!ENTITY close.accesskey "F">
 
 <!ENTITY error.label "Estis problemoj dum la kontrolado, elŝutado aŭ instalado de tiu ĉi 
 ĝisdatigo. &brandShortName; ne povis esti ĝisdatigita ĉar:">
@@ -60,19 +54,16 @@ kaj elŝutu la lastan version:">
 <!ENTITY errorpatching.intro "La parta ĝisdatigo ne povis esti aplikita. 
 &brandShortName; klopodos denove per elŝutado de kompleta ĝisdatigo.">
 
-<!ENTITY finished.title "Ĝisdatigo elŝutita">
-<!ENTITY finished.text "La ĝisdatigo estis sukcese elŝutita kaj kontrolita 
-kaj ĝi estos instalita je la venonta starto de &brandShortName;.">
+<!ENTITY finishedPage.title "Update Ready to Install">
+<!ENTITY finishedPage.text "The update will be installed the next time &brandShortName; starts. You 
+                                           can restart &brandShortName; now, or continue working and restart later.">
 
-<!ENTITY finishedBackground.title "Ĝisdatigo preta por instalado">
-<!ENTITY finishedBackground.text "&brandShortName; elŝutis kaj kontrolis gravan ĝisdatigon. 
-Alklaku la ligilon sube por havi plian informon.">
+<!ENTITY finishedBackgroundPage.text "A security and stability update for &brandShortName; has been
+                                           downloaded and is ready to be installed.">
 <!ENTITY finishedBackground.name "Ĝisdatigo:">
-<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
-<!ENTITY finishedBackground.more1 "Alkalku Restartigi &brandShortName; nun por instali la ĝisdatigon nun.">
-<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!ENTITY finishedBackground.textNotNow "Alklaku Ne nun por fermi tiun ĉi dialogon kaj daŭrigi la retesploradon. 
-&brandShortName; instalos la ĝisdatigon je sia venonta starto.">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY finishedBackground.more "The update will be installed the next time &brandShortName; starts. You
+                                           can restart &brandShortName; now, or continue working and restart later.">
 
 <!ENTITY installed.title "Ĝisdatigo instalita">
 <!ENTITY installed.intro "La ĝisdatigo estis sukcese instalita.">

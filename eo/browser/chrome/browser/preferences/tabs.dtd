@@ -1,5 +1,5 @@
-<!ENTITY newWindowsAsTabs.label       "Malfermi novajn fenestrojn en novaj folioj anstatŭe">
-<!ENTITY newWindowsAsTabs.accesskey   "f">
+<!ENTITY newWindowsAsTabs.label "Malfermi novajn fenestrojn en novaj folioj anstatŭe">
+<!ENTITY newWindowsAsTabs.accesskey "f">
 
 <!ENTITY warnCloseMultipleTabs.label "Atentigi min antaŭ ol fermi plurajn foliojn">
 <!ENTITY warnCloseMultipleTabs.accesskey "m">

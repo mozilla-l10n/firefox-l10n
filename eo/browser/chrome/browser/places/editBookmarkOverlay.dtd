@@ -21,3 +21,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label "Ŝargi tiun ĉi paĝosignon en la flankan strion">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey "Ŝ">
 <!ENTITY editBookmarkOverlay.choose.label "Elekti…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label "Nova dosierujo">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey "o">

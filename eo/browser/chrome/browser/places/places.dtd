@@ -71,6 +71,11 @@
 <!ENTITY cmd.edit_redo.accesskey "R">
 <!ENTITY cmd.edit_redo.key "y">
 
+<!ENTITY cmd.delete.label "Forviŝi tiun ĉi paĝon">
+<!ENTITY cmd.delete.accesskey "D">
+<!ENTITY cmd.deleteDomainData.label "Forgesu tiun ĉi retejon">
+<!ENTITY cmd.deleteDomainData.accesskey "F">
+
 <!ENTITY cmd.open.label "Malfermi">
 <!ENTITY cmd.open.accesskey "M">
 <!ENTITY cmd.open_window.label "Malfermi en nova fenestro">

@@ -45,6 +45,7 @@
 
 <!ENTITY filterPrefs.label "Filtrilo:">
 <!ENTITY filterPrefs.accesskey "I">
+<!ENTITY focusFilter.key "f">
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "Nomo de prefero">
