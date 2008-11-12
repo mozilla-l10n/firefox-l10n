@@ -80,3 +80,53 @@
 <!ENTITY viewMenu.label "תצוגה">
 <!ENTITY walletPasswordManager.accesskey "p">
 <!ENTITY walletPasswordManager.label "מנהל סיסמאות">
+
+
+<!ENTITY calendar.displaytodos.checkbox.accesskey   "מ">
+
+<!ENTITY calendar.displaytodos.checkbox.label       "הצג מטלות בלוח השנה">
+<!ENTITY calendar.export.calendar.accesskey     "י">
+
+<!ENTITY calendar.export.calendar.label         "ייצא לוח שנה…">
+<!ENTITY calendar.export.selection.accesskey    "צ">
+<!ENTITY calendar.export.selection.label        "ייצא בחירה…">
+<!ENTITY calendar.import.key                    "ב">
+
+<!ENTITY calendar.importcalendar.label          "ייבא לוח שנה…">
+<!ENTITY calendar.menu.customize.accesskey      "ה">
+
+<!ENTITY calendar.menu.customize.label          "התאמה אישית…">
+<!ENTITY calendar.menu.numberofweeks.2          "שני שבועות">
+<!ENTITY calendar.menu.numberofweeks.3          "שלושה שבועות">
+<!ENTITY calendar.menu.numberofweeks.4          "ארבעה שבועות">
+<!ENTITY calendar.menu.numberofweeks.5          "חמישה שבועות">
+<!ENTITY calendar.menu.numberofweeks.6          "שישה שבועות">
+
+<!ENTITY calendar.menu.numberofweeks.label      "גודל תצוגה רב־שבועית">
+<!ENTITY calendar.new.server.key                "L">
+<!ENTITY calendar.print.key                     "P">
+<!ENTITY calendar.properties.accesskey          "מ">
+
+<!ENTITY calendar.properties.label              "מאפייני לוח שנה…">
+<!ENTITY calendar.toolbar.accesskey             "ל">
+
+<!ENTITY calendar.toolbar.label                 "סרגל כלים לוח שנה">
+<!ENTITY event.new.event.key                    "N">
+<!ENTITY event.new.todo.key                     "T">
+<!ENTITY goNextCmd.all.accesskey                "ב">
+
+<!ENTITY goNextCmd.day.label                    "היום הבא">
+<!ENTITY goNextCmd.month.label                  "חודש הבא">
+<!ENTITY goNextCmd.week.label                   "שבוע הבא">
+
+<!ENTITY goPreviousCmd.day.label                "יום קודם">
+<!ENTITY goPreviousCmd.month.label              "חודש קודם">
+<!ENTITY goPreviousCmd.week.label               "שבוע קודם">
+<!ENTITY showCurrentView.accesskey              "ת">
+
+<!ENTITY showCurrentView.label                  "תצוגה נוכחית">
+<!ENTITY showUnifinderCmd.accesskey             "מ">
+
+<!ENTITY showUnifinderCmd.label                 "מצא אירועים">
+<!ENTITY task.toolbar.accesskey                 "מ">
+<!ENTITY task.toolbar.label                     "סרגל משימות">
