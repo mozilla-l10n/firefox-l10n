@@ -1,10 +1,10 @@
 <!ENTITY blocklist.title "Kromprogramoj povas esti okazigantaj problemojn">
 <!ENTITY blocklist.style "width: 45em; height: 30em">
-<!ENTITY blocklist.summary "&brandShortName; has determined that the following add-ons are known to cause stability or security problems:">
-<!ENTITY blocklist.softblocked "For your protection, it is highly recommended that you restart with these add-ons disabled.">
-<!ENTITY blocklist.hardblocked "These add-ons have a high risk of causing stability or security problems and have been blocked, but a restart is required to disable them completely.">
-<!ENTITY blocklist.softandhard "The add-ons that have a high risk of causing stability or security problems have been blocked. The others are lower risk, but it is highly recommended that you restart with them disabled.">
-<!ENTITY blocklist.moreinfo "More information">
+<!ENTITY blocklist.summary "&brandShortName; eltrovis ke la jenaj kromprogramoj okazigas stabilecajn aŭ sekurecajn problemojn:">
+<!ENTITY blocklist.softblocked "Por via protektado estas treege rekomendata ke vi restartigu la programon kun tiuj kromprogramoj malaktivaj.">
+<!ENTITY blocklist.hardblocked "Tiuj ĉi kromprogramoj tre riskas okazigi stabilecajn aŭ sekurecajn problemojn kaj ili estis blokitaj, sed restartigo estas postulata por tuta malaktivigo.">
+<!ENTITY blocklist.softandhard "La kromprogramoj kiuj tre riskas okazigi stabilecajn aŭ sekurecaj problemojn estis blokitaj. La aliaj estas malpli riskaj sed estas treege rekomendata malaktivigi ilin kaj restartigi.">
+<!ENTITY blocklist.moreinfo "Plia informo">
 
-<!ENTITY blocklist.accept.label "Restart &brandShortName;">
+<!ENTITY blocklist.accept.label "Restartigi &brandShortName;">
 <!ENTITY blocklist.accept.accesskey "R">

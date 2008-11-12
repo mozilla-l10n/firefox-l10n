@@ -1,18 +1,18 @@
 <!ENTITY restorepage.tabtitle "Restaŭri seancon">
-<!ENTITY restorepage.pagetitle "Would You Like to Restore Your Session?">
+<!ENTITY restorepage.pagetitle "Ĉu vi ŝatus restaŭri vian seancon?">
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc "Your previous &brandShortName; session closed unexpectedly. We sincerely apologize for the inconvenience. You can restore the tabs and windows from your previous session, or start a new session if they are no longer needed.">
-<!ENTITY restorepage.remedies "If &brandShortName; closes repeatedly:">
-<!ENTITY restorepage.dueToChrome "Try disabling any recently added extensions in the Add-ons Manager.">
-<!ENTITY restorepage.dueToContent "Try restoring your session without any Web pages you suspect might be causing the problem:">
+<!ENTITY restorepage.issueDesc "Via antaŭa seanco de &brandShortName; fermiĝis neatendite. Ni tre bedaŭras tion. Vi povos restaŭri la foliojn kaj fenestrojn de via antaŭa seanco aŭ startigi novan seancon se vi ne plu bezonas ilin.">
+<!ENTITY restorepage.remedies "Se &brandShortName; fermiĝas ofte:">
+<!ENTITY restorepage.dueToChrome "Klopodu malaktivigi ĵus aldonitajn etendaĵojn per la Administranto de kromprogramoj.">
+<!ENTITY restorepage.dueToContent "Klopodu restaŭri vian seancon sen iu ajn paĝo kiun vi suspektas povus okazigi la problemon:">
 
-<!ENTITY restorepage.restoreButton "Restore Previous Session">
+<!ENTITY restorepage.restoreButton "Restaŭri antaŭan seancon">
 <!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.cancelButton "Start New Session">
+<!ENTITY restorepage.cancelButton "Komenci novan seancon">
 <!ENTITY restorepage.cancel.access "S">
 
-<!ENTITY restorepage.restoreHeader "Restore">
-<!ENTITY restorepage.listHeader "Windows and Tabs">
+<!ENTITY restorepage.restoreHeader "Restaŭri">
+<!ENTITY restorepage.listHeader "Fenestroj kaj folioj">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel "Window &#37;S">
+<!ENTITY restorepage.windowLabel "Fenestro &#37;S">
