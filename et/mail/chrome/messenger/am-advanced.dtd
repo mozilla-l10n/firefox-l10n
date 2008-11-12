@@ -1,0 +1,22 @@
+<!-- extracted from am-advanced.xul -->
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpServer.label              "Väljuva e-posti (SMTP) serveri sätted">
+
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDesc.label                "Kuigi sa võid määrata ka rohkem kui ühe väljuva e-posti serveri (SMTP), on see soovitatav vaid teadlikumatele kasutajatele. Mitme SMTP serveri häälestamisel võib tekkida vigu kirjade saatmisel.">
+
+<!ENTITY smtpListAdd.label             "Lisa...">
+<!ENTITY smtpListAdd.accesskey         "i">
+<!ENTITY smtpListEdit.label            "Redigeeri...">
+<!ENTITY smtpListEdit.accesskey        "e">
+<!ENTITY smtpListDelete.label          "Eemalda">
+<!ENTITY smtpListDelete.accesskey      "m">
+<!ENTITY smtpListSetDefault.label      "Määra vaikeväärtuseks">
+<!ENTITY smtpListSetDefault.accesskey  "t">
+
+<!ENTITY serverDescription.label       "Kirjeldus: ">
+<!ENTITY serverName.label              "Server: ">
+<!ENTITY serverPort.label              "Port: ">
+<!ENTITY userName.label                "Kasutajanimi: ">
+<!ENTITY useSecureConnection.label     "Turvaline ühendus: ">
+<!ENTITY useSecureAuthentication.label "Turvaline autentimine: ">
