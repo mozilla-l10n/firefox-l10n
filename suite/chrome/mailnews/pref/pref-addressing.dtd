@@ -56,5 +56,3 @@
 <!ENTITY directoriesNone.label                 "Nėra">
 <!ENTITY editDirectories.label                 "Tvarkyti katalogus…">
 <!ENTITY editDirectories.accesskey             "T">
-<!ENTITY matchText.label                       "Sutampantį adresą radus adresų knygoje:">
-<!ENTITY skipDirectory.label                   "neieškoti kataloge">

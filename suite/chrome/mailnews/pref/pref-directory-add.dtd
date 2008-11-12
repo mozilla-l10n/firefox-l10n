@@ -51,12 +51,9 @@
 <!ENTITY directorySecure.accesskey         "a">
 <!ENTITY directoryLogin.label              "Prisijungimo vardas:">
 <!ENTITY directoryLogin.accesskey          "P">
-<!ENTITY advancedOptionsButton.label       "Papildomos savybės">
-<!ENTITY advancedOptionsButton.accesskey   "P">
 <!ENTITY General.tab                       "Bendrosios">
 <!ENTITY Offline.tab                       "Atsijungus nuo tinklo">
 <!ENTITY Advanced.tab                      "Papildomos">
-<!ENTITY advancedOptionsTitle.label        "Papildomos savybės">
 <!ENTITY portNumber.label                  "Prievado numeris: ">
 <!ENTITY portNumber.accesskey              "r">
 <!ENTITY searchFilter.label                "Paieškos filtras: ">

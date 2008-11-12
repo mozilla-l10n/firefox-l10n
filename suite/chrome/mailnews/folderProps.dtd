@@ -55,13 +55,8 @@
 <!ENTITY retention.label "Laiškų šalinimas">
 <!ENTITY retentionUseDefault.label "Naudoti serverio nuostatas">
 <!ENTITY retentionUseDefault.accesskey "d">
-<!ENTITY days.label "dienas(-ų)">
 <!ENTITY daysOld.label "dienas(-ų)">
 <!ENTITY message.label "naujausių laiškų">
-<!ENTITY retentionNotDownloadRead.label "neatsiųsti skaitytų laiškų">
-<!ENTITY retentionNotDownloadRead.accesskey "n">
-<!ENTITY retentionDownloadMsg.label "senesnius nei">
-<!ENTITY retentionDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "Palikti laiškus:">
 <!ENTITY retentionDeleteMsg.label "šalinti laiškus, gautus seniau, nei prieš">
 <!ENTITY retentionDeleteMsg.accesskey "g">
@@ -83,18 +78,15 @@
 
 <!ENTITY selectofflineNewsgroup.check.label      "Šios naujienų grupės laiškus skaityti atsijungus nuo tinklo">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "i">
-<!ENTITY UseDefaultofflineNewsgroup.check.label  "Naudoti numatytąsias paskyrų nuostatas ">
 <!ENTITY offlineNewsgroup.button.label           "Parsisiųsti">
 <!ENTITY offlineNewsgroup.button.accesskey       "P">
 
-<!ENTITY folderProps.information.label           "Informacija:">
 <!ENTITY folderProps.name.label                  "Vardas:">
 <!ENTITY folderProps.name.accesskey              "V">
 <!ENTITY folderProps.location.label              "Vieta:">
 <!ENTITY folderProps.location.accesskey          "t">
 
 <!ENTITY folderSharingTab.label                  "Bendras naudojimas">
-<!ENTITY privilegesDesc.label                    "Šiuo ir kitais aplankais naudotis bendrai su kitais tinklo naudotojais ir rodyti bei nustatyti prieigos teises">
 <!ENTITY privileges.button.label                 "Teisės">
 <!ENTITY privileges.button.accesskey             "T">
 <!ENTITY permissionsDesc.label                   "Jums leidžiama:">

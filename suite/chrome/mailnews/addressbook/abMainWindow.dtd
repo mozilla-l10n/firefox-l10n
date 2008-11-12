@@ -20,6 +20,8 @@
  the Initial Developer. All Rights Reserved.
 
  Contributor(s):
+   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+	Rimas Kudelis <rq@akl.lt>
 
  Alternatively, the contents of this file may be used under the terms of
  either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -49,8 +51,6 @@
 <!ENTITY newListCmd.accesskey                           "š">  
 <!ENTITY newAddressBookCmd.label                        "Adresų knyga…"> 
 <!ENTITY newAddressBookCmd.accesskey                    "n">  
-<!ENTITY renameAddressBookCmd.label                     "Pervardyti adresų knygą…"> 
-<!ENTITY renameAddressBookCmd.accesskey                 "v">  
 <!ENTITY newLDAPDirectoryCmd.label                      "Katalogas…">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "a">
@@ -106,8 +106,6 @@
 <!ENTITY allowOnlineCheck.label                         "Tikrinti, ar prisijungęs prie AOL">
 <!ENTITY allowOnlineCheck.accesskey                     "T">
 
-<!ENTITY stopSearchingCmd.label                         ".Stabdyti paiešką"> 
-
 <!-- Toolbar and Popup items -->  
 <!ENTITY newcardButton.label                            "Nauja kortelė">  
 <!ENTITY newcardButton.accesskey                        "k">  
@@ -121,9 +119,6 @@
 <!ENTITY deleteButton.accesskey                         "š">  
 <!ENTITY newimButton.label                              "Žinutė">  
 <!ENTITY newimButton.accesskey                          "i">  
-<!ENTITY stopButton.label                               ".Stabdyti">  
-<!ENTITY searchButton.label                             ".Ieškoti">  
-<!ENTITY showNames.label                                "Rodyti vardus, turinčius:">  
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Adresų knygos mygtukų juosta">
@@ -133,10 +128,7 @@
 <!ENTITY newmsgButton.tooltip                           "Rašyti laišką"> 
 <!ENTITY newIM.tooltip                                  "Siųsti žinutę arba pradėti pokalbį"> 
 <!ENTITY deleteButton.tooltip                           "Pašalinti pažymėtą kortelę arba adresų knygą"> 
-<!ENTITY stopButton.tooltip                             "Stabdyti šį siuntimą"> 
-<!ENTITY searchButton.tooltip                           "Ieškoti pažymėtoje adresų knygoje"> 
 <!ENTITY throbber.tooltip                               "Atverti &vendorShortName; pradžios tinklalapį">
-<!ENTITY clearButton.tooltip                            "Išvalyti paieškos kriterijų laukus ir parodyti visus įrašus">
 <!ENTITY advancedButton.tooltip                         "Papildoma adresų paieška">
 
 <!-- Status Bar -->  

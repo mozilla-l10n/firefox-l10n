@@ -42,10 +42,6 @@
 <!ENTITY generalSettings.caption          "Bendrosios">
 <!ENTITY confirmMove.label                "Įspėti prieš perkeliant aplankus į šiukšlinę">
 <!ENTITY confirmMove.accesskey            "l">
-<!ENTITY useMessenger.label               "Naudoti MAPI pašto programų laiškus">
-<!ENTITY useMessenger.accesskey           "o">
-<!ENTITY autounzip.label                  "Įrašant laiškų priedus, automatiškai išpakuoti pakuotus (.zip) failus">
-<!ENTITY autounzip.accesskey              "u">
 <!ENTITY preserveThreading.label          "Paisyti gijų, rikiuojant laiškus">
 <!ENTITY preserveThreading.accesskey      "k">
 

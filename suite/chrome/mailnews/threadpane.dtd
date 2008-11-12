@@ -50,7 +50,6 @@
 <!ENTITY statusColumn.label "Būsena">
 <!ENTITY sizeColumn.label "Dydis">
 <!ENTITY junkStatusColumn.label "Šlamšto statusas">
-<!ENTITY linesColumn.label "Eilučių sk.">
 <!ENTITY unreadColumn.label "Neskaitytas">
 <!ENTITY totalColumn.label "Iš viso">
 <!ENTITY readColumn.label "Skaitytas">

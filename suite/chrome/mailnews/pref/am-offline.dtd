@@ -37,7 +37,6 @@
 <!ENTITY offlineNotDownload.label "neatsiųsti laiškų, didesnių kaip">
 <!ENTITY offlineNotDownload.accesskey "d">
 <!ENTITY kb.label "KB">
-<!ENTITY days.label "dienų">
 <!ENTITY daysOld.label "dienų laiškų tekstus">
 <!ENTITY message.label "naujausių laiškų">
 <!ENTITY nntpNotDownloadRead.label "neatsiųsti skaitytų laiškų">
