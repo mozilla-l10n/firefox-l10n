@@ -8,10 +8,16 @@
 <!ENTITY sendPage.label "Envia la pàgina...">
 <!ENTITY sendPage.accesskey "a">
 
-<!ENTITY contextSendPage.label "Envia la pàgina...">
-<!ENTITY contextSendPage.accesskey "v">
+<!ENTITY contextSendThisPage.label "Envia la pàgina...">
+<!ENTITY contextSendThisPage.accesskey "v">
+<!ENTITY contextSendThisLink.label       "Envia l'enllaç…">
+<!ENTITY contextSendThisLink.accesskey   "l">
 <!ENTITY contextSendImage.label "Envia la imatge...">
-<!ENTITY contextSendImage.accesskey "v">
+<!ENTITY contextSendImage.accesskey "n">
+<!ENTITY contextSendVideo.label          "Envia el vídeo…">
+<!ENTITY contextSendVideo.accesskey      "n">
+<!ENTITY contextSendAudio.label          "Envia l'àudio…">
+<!ENTITY contextSendAudio.accesskey      "n">
 <!ENTITY contextSendFrame.label "Envia el marc...">
 <!ENTITY contextSendFrame.accesskey "n">
 
