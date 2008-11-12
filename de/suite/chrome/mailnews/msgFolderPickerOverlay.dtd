@@ -36,14 +36,5 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Labels -->
-<!ENTITY subscribechoosethis.label			"diesen News-Server wählen">
-<!ENTITY subscribeclickhere.label			"hier klicken, um einen News-Server zu wählen">
 <!ENTITY newfolderchoosethis.label			"Ordner hier erstellen">
-<!ENTITY newfolderclickhere.label			"zum Auswählen hier klicken">
-<!ENTITY renamefolderchoosethis.label			"diesen Ordner wählen">
-<!ENTITY renamefolderclickhere.label			"hier klicken, um einen Ordner zu wählen">
 <!ENTITY filemessageschoosethis.label			"diesen Ordner wählen">
-<!ENTITY filemessagesclickhere.label			"hier klicken, um einen Ordner zu wählen">
-<!ENTITY chooseaccountclickhere.label			"Klicken Sie hier, um einen Account zu wählen">
-<!ENTITY choosefolderclickhere.label			"Klicken Sie hier, um einen Ordner zu wählen">
-<!ENTITY chooseserverToDeferTo.label      "Klicken Sie hier, um einen Account zum Speichern der Nachrichten auszuwählen">

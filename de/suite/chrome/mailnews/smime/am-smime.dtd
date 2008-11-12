@@ -8,7 +8,6 @@
 <!ENTITY alwaysEncryptMessage.label "Notwendig (kann keine Nachricht senden, wenn nicht alle Empfänger ein Zertifikat haben)">
 <!ENTITY alwaysEncryptMessage.accesskey "N">
 <!ENTITY encryptionCert.message "Folgendes persönliches Zertifikat verwenden, um ankommende Nachrichten zu ver- und entschlüsseln:">
-<!ENTITY encryptionCert.notselected "Kein Zertifikat gewählt">
 <!ENTITY digitalSign.certificate.button "Auswählen…">
 <!ENTITY digitalSign.certificate.accesskey "A">
 <!ENTITY digitalSign.certificate_clear.button "Leeren">
@@ -21,4 +20,3 @@
 <!ENTITY signMessage.label "Nachrichten digital unterschreiben (als Standard)">
 <!ENTITY signMessage.accesskey "N">
 <!ENTITY signingCert.message "Folgendes Zertifikat zum Absenden digital unterschriebener Nachrichten verwenden:">
-<!ENTITY signingCert.notselected "Kein Zertifikat gewählt">

@@ -1,6 +1,5 @@
 <!ENTITY serverAdvanced.label "Erweiterte Account-Einstellungen">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY imapAdvanced.label "Erweiterte IMAP-Server-Einstellungen">
 <!ENTITY serverDirectory.label "IMAP-Server-Verzeichnis:">
 <!ENTITY serverDirectory.accesskey "I">
 <!ENTITY usingSubscription.label "Nur abonnierte Ordner anzeigen">
@@ -22,7 +21,6 @@
 <!ENTITY overrideNamespaces.label "Server erlauben, diese Namespaces zu übergehen">
 <!ENTITY overrideNamespaces.accesskey "S">
 <!ENTITY pop3Desc.label "Beim Herunterladen von POP3-Mail von diesem Server folgenden Ordner für neue Mails verwenden:" >
-<!ENTITY folderStorage.label "Ort zum Speichern der Mails">
 <!ENTITY globalInbox.label "Globaler Posteingang (Account &quot;Lokale Ordner&quot;)">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Posteingang für den Account dieses Servers">

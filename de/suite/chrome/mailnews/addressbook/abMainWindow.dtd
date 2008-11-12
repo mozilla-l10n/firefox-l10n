@@ -49,8 +49,6 @@
 <!ENTITY newListCmd.accesskey                           "M">  
 <!ENTITY newAddressBookCmd.label                        "Adressbuch…"> 
 <!ENTITY newAddressBookCmd.accesskey                    "A">  
-<!ENTITY renameAddressBookCmd.label                     "Adressbuch umbenennen…"> 
-<!ENTITY renameAddressBookCmd.accesskey                 "A">  
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP-Verzeichnis…">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "L">
@@ -106,8 +104,6 @@
 <!ENTITY allowOnlineCheck.label                         "Online-Präsenz überprüfen (AOL)">
 <!ENTITY allowOnlineCheck.accesskey                     "O">
 
-<!ENTITY stopSearchingCmd.label                         ".Suche abbrechen"> 
-
 <!-- Toolbar and Popup items -->  
 <!ENTITY newcardButton.label                            "Neue Karte">  
 <!ENTITY newcardButton.accesskey                        "N">  
@@ -121,9 +117,6 @@
 <!ENTITY deleteButton.accesskey                         "L">  
 <!ENTITY newimButton.label                              "Instant-Nachricht">  
 <!ENTITY newimButton.accesskey                          "I">  
-<!ENTITY stopButton.label                               ".Stopp">  
-<!ENTITY searchButton.label                             ".Suchen">  
-<!ENTITY showNames.label                                "Namen anzeigen mit:">  
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Adressbuch-Symbolleiste">
@@ -133,10 +126,7 @@
 <!ENTITY newmsgButton.tooltip                           "Neue Mail-Nachricht verfassen"> 
 <!ENTITY newIM.tooltip                                  "Neue Sofortnachricht (instant message) oder neuen Chat verfassen"> 
 <!ENTITY deleteButton.tooltip                           "Gewählte Karte oder Adressbuch löschen"> 
-<!ENTITY stopButton.tooltip                             "Aktuelle Übertragung stoppen"> 
-<!ENTITY searchButton.tooltip                           "Gewähltes Adressbuch durchsuchen"> 
 <!ENTITY throbber.tooltip                               "&vendorShortName;-Homepage aufrufen">
-<!ENTITY clearButton.tooltip                            "Suchkriterien leeren und alle Einträge anzeigen">
 <!ENTITY advancedButton.tooltip                         "Erweiterte Adressensuche">
 
 <!-- Status Bar -->  

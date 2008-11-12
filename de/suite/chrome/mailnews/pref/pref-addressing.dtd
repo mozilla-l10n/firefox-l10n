@@ -53,5 +53,3 @@
 <!ENTITY directoriesNone.label                 "Keines">
 <!ENTITY editDirectories.label                 "Verzeichnisse bearbeiten…">
 <!ENTITY editDirectories.accesskey             "z">
-<!ENTITY matchText.label                       "Wenn eine Übereinstimmung in lokalen Adressbüchern herrscht:">
-<!ENTITY skipDirectory.label                   "Nicht im Verzeichnis suchen">

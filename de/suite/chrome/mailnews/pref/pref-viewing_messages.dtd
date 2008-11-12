@@ -53,8 +53,6 @@
 <!ENTITY fontPlainText.label              "Schrift:">
 <!ENTITY fontPlainText.accesskey          "c">
 <!ENTITY displayQuoted.label              "Einstellungen für zitierte Nachrichten:">
-<!ENTITY readingMessagesHeader.label      "Für eingehende Nachrichten">
-<!ENTITY messageWrapping.label            "Nachrichten-Umbruch">
 <!ENTITY wrapInMsg.label                  "Textumbruch am rechten Fensterrand">
 <!ENTITY wrapInMsg.accesskey              "T">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->

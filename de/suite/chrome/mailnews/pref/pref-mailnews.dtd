@@ -39,10 +39,6 @@
 <!ENTITY generalSettings.caption          "Allgemeine Einstellungen">
 <!ENTITY confirmMove.label                "Bestätigung beim Verschieben von Ordnern in den Papierkorb">
 <!ENTITY confirmMove.accesskey            "B">
-<!ENTITY useMessenger.label               "Bei MAPI-basierten Anwendungen Mail verwenden">
-<!ENTITY useMessenger.accesskey           "e">
-<!ENTITY autounzip.label                  "Zip-Dateien bim Speichern von Attachments automatisch entpacken">
-<!ENTITY autounzip.accesskey              "Z">
 <!ENTITY preserveThreading.label          "Threads beim Sortieren erhalten">
 <!ENTITY preserveThreading.accesskey      "T">
 

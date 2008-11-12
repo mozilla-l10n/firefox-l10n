@@ -47,7 +47,6 @@
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Größe">
 <!ENTITY junkStatusColumn.label "Junk-Status">
-<!ENTITY linesColumn.label "Zeilen">
 <!ENTITY unreadColumn.label "Ungelesen im Thread">
 <!ENTITY totalColumn.label "Gesamt im Thread">
 <!ENTITY readColumn.label "Gelesen">

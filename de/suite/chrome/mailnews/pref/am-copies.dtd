@@ -6,13 +6,9 @@
 <!ENTITY fccMailFolder.accesskey "K">
 <!ENTITY fccReplyFollowsParent.label "Antworten im Ordner der beantworteten Nachricht ablegen">
 <!ENTITY fccReplyFollowsParent.accesskey "w">
-<!ENTITY chooseFolderButton.label "Ordner wählen…">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "BCC an diese E-Mail-Adressen:">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY specialFolderTitle.label "Spezielle Ordner">
-<!ENTITY draftMailFolder.label "Nachrichten-Entwürfe behalten in:">
-<!ENTITY templateMailFolder.label "Nachrichtenvorlagen behalten in:">
 <!ENTITY saveMessageDlg.label "Beim Speichern von Nachrichten Bestätigungsdialog anzeigen">
 <!ENTITY saveMessageDlg.accesskey "S">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

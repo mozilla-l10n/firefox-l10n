@@ -48,12 +48,9 @@
 <!ENTITY directorySecure.accesskey         "V">
 <!ENTITY directoryLogin.label              "DN binden:">
 <!ENTITY directoryLogin.accesskey          "D">
-<!ENTITY advancedOptionsButton.label       "Erweiterte Optionen">
-<!ENTITY advancedOptionsButton.accesskey   "E">
 <!ENTITY General.tab                       "Allgemein">
 <!ENTITY Offline.tab                       "Offline">
 <!ENTITY Advanced.tab                      "Erweitert">
-<!ENTITY advancedOptionsTitle.label        "Erweiterte Optionen">
 <!ENTITY portNumber.label                  "Port-Nummer:">
 <!ENTITY portNumber.accesskey              "P">
 <!ENTITY searchFilter.label                "Suchfilter:">

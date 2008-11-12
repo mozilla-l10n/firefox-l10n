@@ -37,7 +37,6 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY pref.formatting.title        "Sendeformat">
-<!ENTITY sendMail.label               "Sendeformat">
 <!ENTITY sendMaildesc.label           "Beim Senden von formatierten (HTML-) Nachrichten an einen oder mehrere Empfänger, die nicht für HTML-Empfang eingetragen sind:">
 <!ENTITY askMe.label                  "Abfrage, was geschehen soll (Mail fragt Sie nach einem Format)">
 <!ENTITY askMe.accesskey              "A">
@@ -48,7 +47,6 @@
 <!ENTITY sendBoth.label               "Nachrichten in reinem Text und HTML senden">
 <!ENTITY sendBoth.accesskey           "N">
 <!ENTITY override.label               "Sie können diese Einstellungen für einzelne Nachrichten außer Kraft setzen, indem Sie das Optionen-Menü verwenden, wenn Sie eine Nachricht verfassen.">
-<!ENTITY receiveHTML.label            "Wenn Sie wissen, dass ein bestimmter Empfänger HTML-Mails empfangen kann, haken Sie das Kontrollkästchen 'E-Mail als reinen Text senden (kein HTML)' auf der Adressbuchkarte des Empfängers ab.">
 
 <!-- Html and Plain Text Domains  -->
 <!ENTITY domain.title                 "HTML- und Reintext-Domains">

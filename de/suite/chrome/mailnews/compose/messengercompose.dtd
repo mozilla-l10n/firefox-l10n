@@ -27,7 +27,6 @@
 <!ENTITY attachMenu.label "Attachment">
 <!ENTITY attachMenu.accesskey "A">
 <!ENTITY attachFileCmd.label "Datei(en)…">
-<!ENTITY attachFileCmd.key "">
 <!ENTITY attachFileCmd.accesskey "D">
 <!ENTITY attachPageCmd.label "Web-Seite…">
 <!ENTITY attachPageCmd.accesskey "W">
@@ -45,7 +44,6 @@
 <!ENTITY printCmd.label "Drucken…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "D">
-<!ENTITY closeCmd.label "Schließen">
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Neu umbrechen">
@@ -70,32 +68,6 @@
 <!ENTITY showComposeToolbarCmd.accesskey "N">
 <!ENTITY showFormatToolbarCmd.label "Formatierungs-Symbolleiste">
 <!ENTITY showFormatToolbarCmd.accesskey "F">
-<!ENTITY showParagraphMarksCmd.label ".Absatzmarken anzeigen">
-<!ENTITY pageSourceCmd.label ".Seitenquelltext">
-<!ENTITY pageSourceCmd.accesskey ".">
-<!ENTITY pageInfoCmd.label ".Seiteninformationen">
-<!ENTITY pageInfoCmd.accesskey ".">
-<!ENTITY dcharMenu.label "Zeichensatz">
-<!ENTITY dcharIso1Cmd.label "Westlich (ISO-8859-1)">
-<!ENTITY dcharIso2Cmd.label "Mitteleuropäisch (ISO-8859-2)">
-<!ENTITY dcharIso3Cmd.label "Südeuropäisch (ISO-8859-3)">
-<!ENTITY dcharIso4Cmd.label "Baltisch (ISO-8859-4)">
-<!ENTITY dcharIso9Cmd.label "Türkisch (ISO-8859-9)">
-<!ENTITY dcharIso10Cmd.label "Nordisch (ISO-8859-10)">
-<!ENTITY dcharIso14Cmd.label "Keltisch (ISO-8859-14)">
-<!ENTITY dcharIso15Cmd.label "Westlich (ISO-8859-15)">
-<!ENTITY dcharJapanCmd.label "Japanisch (ISO-2022-JP)">
-<!ENTITY dcharTradChiBigCmd.label "Chinesisch traditionell (Big5)">
-<!ENTITY dcharSimpChiGbCmd.label "Chinesisch vereinfacht (GB2312)">
-<!ENTITY dcharKoreanCmd.label "Koreanisch (EUC-KR)">
-<!ENTITY dcharUtf8Cmd.label "Unicode (UTF-8)">
-<!ENTITY dcharRusCmd.label "Kyrillisch (KOI8-R)">
-<!ENTITY dcharUkrCmd.label "Kyrillisch/Ukrainisch (KOI8-U)">
-<!ENTITY dcharIsoGreekCmd.label "Griechisch (ISO-8859-7)">
-<!ENTITY dcharVietViCmd.label "Vietnamesisch (VISCII)">
-<!ENTITY dcharThaiCmd.label "Thai (TIS-620)">
-<!ENTITY dcharArmCmd.label "Armenisch (ARMSCII-8)">
-<!ENTITY dcharDEFAULT.label "Standard-Zeichensatz für das Senden von Mail einstellen">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Format">
@@ -104,11 +76,6 @@
 <!-- Options menu items -->
 <!ENTITY optionsMenu.label "Optionen">
 <!ENTITY optionsMenu.accesskey "O">
-
-<!ENTITY doNotCompleteAddrCmd.label ".Adresse nicht vervollständigen">
-<!ENTITY showMatchingAddrCmd.label ".Übereinstimmende Adressen anzeigen">
-
-<!ENTITY addSignatureCmd.label ".Signatur-Datei hinzufügen">
 
 <!ENTITY quoteCmd.label "Nachricht zitieren">
 <!ENTITY quoteCmd.accesskey "N">
@@ -148,33 +115,13 @@
 <!ENTITY bothFormatCmd.label "Reiner Text und Rich Text (HTML)">
 <!ENTITY bothFormatCmd.accesskey "R">
 
-<!ENTITY UuencodeAttachmentCmd.label "Uuencode statt MIME für Attachments">
-
-
 <!ENTITY fileCarbonCopyCmd.label "Eine Kopie senden an">
 <!ENTITY fileCarbonCopyCmd.accesskey "E">
 <!ENTITY fileHereMenu.label "Hier ablegen">
 
-<!--LOCALIZATION NOTE Debug Menu Don't translate anything in the Debug menu section -->
-<!-- Debug Menu, imported from editorAppShell.dtd -->
-<!ENTITY debugMenu.label "Debug">
-<!ENTITY outputTextCmd.label "Text ausgeben">
-<!ENTITY outputHTMLCmd.label "HTML ausgeben">
-<!ENTITY insertTextCmd.label "Text einfügen">
-<!ENTITY testSelectionCmd.label "Test-Auswahl">
-<!ENTITY testTableLayoutCmd.label "Test-Tabellenlayout">
-<!ENTITY testDocumentCmd.label "Testdokument">
-<!ENTITY showEmbeddedCmd.label "Eingebettete Objekte anzeigen">
-<!ENTITY dumpContentCmd.label "Dump Content Tree">
-<!ENTITY runUnitTestsCmd.label "Run Unit Tests">
-<!ENTITY startLogCmd.label "Protokollierung starten">
-<!ENTITY stopLogCmd.label "Protokollierung beenden">
-<!ENTITY runLogCmd.label "Run Log">
-
 <!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
 <!-- Toolbar items -->
 <!ENTITY sendButton.label "Senden">
-<!ENTITY quoteButton.label "Zitieren">
 <!ENTITY addressButton.label "Adresse">
 <!ENTITY attachButton.label "Attachment">
 <!ENTITY spellingButton.label "Rechtschr.">
@@ -187,17 +134,10 @@
 <!ENTITY formatToolbar.tooltip "Formatierungs-Symbolleiste">
 <!ENTITY sendButton.tooltip "Diese Nachricht jetzt senden"> 
 <!ENTITY sendlaterButton.tooltip "Diese Nachricht später senden"> 
-<!ENTITY quoteButton.tooltip "Die vorherige Nachricht zitieren"> 
 <!ENTITY addressButton.tooltip "Empfänger aus einem Adressbuch wählen"> 
 <!ENTITY attachButton.tooltip "Attachment anfügen"> 
 <!ENTITY saveButton.tooltip "Diese Nachricht speichern"> 
 <!ENTITY stopButton.tooltip "Aktuelle Übertragung stoppen"> 
-
-<!-- Toolbar items, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
-<!ENTITY formatToolbar.boldChar "F">
-<!ENTITY formatToolbar.italicChar "K">
-<!ENTITY formatToolbar.underlineChar "U">
 
 <!-- context menu items -->
 <!ENTITY spellCheckNoSuggestions.label "(Keine Vorschläge gefunden)">
