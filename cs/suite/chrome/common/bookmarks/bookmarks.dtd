@@ -22,7 +22,6 @@
    -   Stephen Lamm <slamm@netscape.com>
    -   Blake Ross <blakeross@telocity.com>
    -   Mike Kowalski <mikejk@ameritech.net>
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -41,17 +40,16 @@
 <!-- extracted from ./bookmarks.xul -->
 <!ENTITY menuBar.tooltip "Nabídka">
 <!ENTITY bookmarkToolbar.tooltip "Nástrojová lišta záložek">
-<!ENTITY bookmarksSearch.tooltip "Lišta pro vyhledávání v záložkách">
 <!ENTITY menuitem.newBookmark.label "Záložka">
-<!ENTITY command.newBookmark.accesskey "Z">
+<!ENTITY menuitem.newBookmark.accesskey "Z">
 <!ENTITY menuitem.newFolder.label "Složka">
+<!ENTITY menuitem.newFolder.accesskey "S">
 <!ENTITY button.newFolder.label "Nová složka">
 <!ENTITY button.newFolder.accesskey "N">
-<!ENTITY command.newFolder.accesskey "S">
 <!ENTITY menuitem.newSeparator.label "Oddělovač">
+<!ENTITY menuitem.newSeparator.accesskey "O">
 <!ENTITY button.newSeparator.label "Nový oddělovač">
-<!ENTITY button.newSeparator.accesskey "o">
-<!ENTITY command.newSeparator.accesskey "O">
+<!ENTITY button.newSeparator.accesskey "v">
 <!ENTITY menuitem.open.label "Otevřít soubor se záložkami…">
 <!ENTITY menuitem.open.accesskey "s">
 <!ENTITY menuitem.import.label "Importovat…">
@@ -59,25 +57,27 @@
 <!ENTITY menuitem.export.label "Exportovat…">
 <!ENTITY menuitem.export.accesskey "x">
 <!ENTITY menuitem.find.label "Hledat záložky…">
+<!ENTITY menuitem.find.accesskey "H">
+<!ENTITY menuitem.find.find.key "F">
 <!ENTITY command.findBookmarks.label "Hledat…">
-<!ENTITY menuitem.find.accesskey "l">
-<!ENTITY edit.find.keybinding "f">
-<!ENTITY command.properties.label "Vlastnosti…">
-<!ENTITY button.properties.accesskey "I">
-<!ENTITY command.properties.accesskey "i">
-<!ENTITY edit.properties.keybinding "i">
-<!ENTITY command.rename.label "Přejmenovat…">
-<!ENTITY button.rename.accesskey "m">
-<!ENTITY command.delete.label "Odstranit">
-<!ENTITY button.delete.accesskey "D">
-<!ENTITY command.moveBookmark.label "Přesunout záložku(y)…">
-<!ENTITY command.moveBookmarkShort.label "Přesunout…">
-<!ENTITY command.moveBookmark.accesskey "P">
+<!ENTITY menuitem.properties.label "Vlastnosti…">
+<!ENTITY menuitem.properties.accesskey "l">
+<!ENTITY button.properties.label "Vlastnosti…">
+<!ENTITY button.properties.accesskey "l">
+<!ENTITY menuitem.properties.key "I">
+<!ENTITY button.rename.label "Přejmenovat…">
+<!ENTITY button.rename.accesskey "P">
+<!ENTITY button.delete.label "Smazat">
+<!ENTITY button.delete.accesskey "m">
+<!ENTITY menuitem.moveBookmark.label "Přesunout záložku(y)…">
+<!ENTITY menuitem.moveBookmark.accesskey "s">
+<!ENTITY button.moveBookmark.label "Přesunout…">
+<!ENTITY button.moveBookmark.accesskey "M">
 <!ENTITY command.addBookmark.label "Přidat…">
-<!ENTITY command.manageBookmarks.label "Upravit">
+<!ENTITY command.manageBookmarks.label "Spravovat">
 <!ENTITY command.sortFolder.label "Seřadit složku…">
 <!ENTITY command.sortFolder.accesskey "S">
-<!ENTITY edit.sortFolder.keybinding "S">
+<!ENTITY command.sortFolder.key "S">
 <!ENTITY command.sortFolderByName.label "Seřadit složku podle názvu">
 <!ENTITY command.sortFolderByName.accesskey "n">
 
@@ -95,25 +95,18 @@
 <!ENTITY menuitem.personaltoolbarfolder.accesskey "o">
 
 <!ENTITY treecol.name.label "Název">
-<!ENTITY treecol.name.accesskey "N">
 <!ENTITY treecol.name.tooltip "Klepnutím seřadíte podle názvu">
 <!ENTITY treecol.url.label "Umístění">
-<!ENTITY treecol.url.accesskey "m">
 <!ENTITY treecol.url.tooltip "Klepnutím seřadíte podle umístění">
 <!ENTITY treecol.shortcut.label "Klíčové slovo">
-<!ENTITY treecol.shortcut.accesskey "K">
 <!ENTITY treecol.shortcut.tooltip "Klepnutím seřadíte podle klíčového slova">
 <!ENTITY treecol.description.label "Popis">
-<!ENTITY treecol.description.accesskey "P">
 <!ENTITY treecol.description.tooltip "Klepnutím seřadíte podle popisu">
 <!ENTITY treecol.addedon.label "Přidáno">
-<!ENTITY treecol.addedon.accesskey "p">
 <!ENTITY treecol.addedon.tooltip "Klepnutím seřadíte podle času přidání">
 <!ENTITY treecol.lastmod.label "Poslední změna">
-<!ENTITY treecol.lastmod.accesskey "m">
 <!ENTITY treecol.lastmod.tooltip "Klepnutím seřadíte podle poslední změny">
 <!ENTITY treecol.lastvisit.label "Poslední návštěva">
-<!ENTITY treecol.lastvisit.accesskey "P">
 <!ENTITY treecol.lastvisit.tooltip "Klepnutím seřadíte podle poslední návštěvy">
 
 <!ENTITY bookmarksWindowTitle.label "Správce záložek">

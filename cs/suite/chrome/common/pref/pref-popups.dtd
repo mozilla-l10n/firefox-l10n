@@ -2,8 +2,6 @@
 
 <!ENTITY pref.popups.caption "Vyskakovací okna">
 
-<!ENTITY popupDesc.label "Určete způsob, jak se bude manipulovat s vyskakovacími okny:">
-
 <!ENTITY popupBlock.label "Blokovat nevyžádaná vyskakovací okna">
 <!ENTITY popupBlock.accesskey "B">
 

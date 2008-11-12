@@ -1,7 +1,7 @@
 <!-- extracted from content/navigator.xul -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items --> 
-<!-- LOCALIZATION NOTE : FILE Do not translate accesskey and commandkey --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE --> 
 <!ENTITY mainWindow.title "&brandShortName;">
@@ -10,10 +10,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
-<!ENTITY nothingAvailable.label "(Nic není dostupné)">
-
-<!ENTITY browserCmd.label "Nové okno">
-<!ENTITY browserCmd.accesskey "N">
 <!ENTITY tabCmd.label "Panel prohlížeče">
 <!ENTITY tabCmd.accesskey "P">
 <!ENTITY tabCmd.commandkey "t">
@@ -29,10 +25,6 @@
 <!ENTITY editPageCmd.label "Upravit stránku">
 <!ENTITY editPageCmd.accesskey "U">
 <!ENTITY editPageCmd.commandkey "e">
-<!ENTITY editFrameCmd.label "Upravit rám">
-<!ENTITY editFrameCmd.accesskey "m">
-<!ENTITY editFrameSetCmd.label "Upravit rozvržení rámů">
-<!ENTITY editFrameSetCmd.accesskey "u">
 
 <!ENTITY uploadFile.label "Nahrát soubor…">
 <!ENTITY uploadFile.accesskey "S">
@@ -77,7 +69,6 @@
 <!ENTITY fullScreenCmd.accesskey "l">
 <!ENTITY translateMenu.label "Přeložit stránku">
 <!ENTITY translateMenu.accesskey "T">
-<!ENTITY translate.commandKey "t">
 
 <!ENTITY closeOtherTabs.label "Zavřít ostatní panely">
 <!ENTITY closeOtherTabs.accesskey "p">
@@ -87,38 +78,10 @@
 <!ENTITY minimizeButton.tooltip "Minimalizuje">
 <!ENTITY restoreButton.tooltip "Obnovit">
 
-<!-- I'd like all this to move to an overlay or something -->
-<!ENTITY bidiMenu.label "Možnosti obousměrného textu (BIDI)">
-<!ENTITY directionBidiMenu.label "Výchozí směr">
-<!ENTITY directionRTLBidiCmd.label "Z prava do leva">
-<!ENTITY directionLTRBidiCmd.label "Z leva do prava">
-<!ENTITY texttypeBidiMenu.label "Typ textu">
-<!ENTITY charsettexttypeBidiCmd.label "Založen na znakové sadě">
-<!ENTITY logicaltexttypeBidiCmd.label "Logický">
-<!ENTITY visualtexttypeBidiCmd.label "Vizuální">
-<!ENTITY numeralBidiMenu.label "Numerálový tvar">
-<!ENTITY regularcontextnumeralBidiCmd.label "Kontextový">
-<!ENTITY hindicontextnumeralBidiCmd.label "Hindi numerály v RTL směru dokumentu">
-<!ENTITY arabicnumeralBidiCmd.label "Arabský">
-<!ENTITY hindinumeralBidiCmd.label "Hindština">
-<!ENTITY controlstextmodeBidiMenu.label "Textový mód v ovládání">
-<!ENTITY logicalcontrolstextmodeBidiCmd.label "Logický">
-<!ENTITY visiualcontrolstextmodeBidiCmd.label "Vizuální">
-<!ENTITY containercontrolstextmodeBidiCmd.label "Stejný jako obsahující dokument">
-<!ENTITY charactersetBidiMenu.label "Znaková sada">
-<!ENTITY doccharactersetBidiCmd.label "Použít znakovou sadu definovanou stránkou">
-<!ENTITY defaultcharactersetBidiCmd.label "Vždy použít výchozí znakovou sadu, bez ohledu na znakovou sadu definovanou stránkou">
-
-<!ENTITY webContentMenu.label "Jazyky a Lokalizovaný obsah">
-<!ENTITY webContentMenu.accesskey "l">
-<!ENTITY downloadMore.label "Získat další">
-<!ENTITY downloadMore.accesskey "D">
 <!ENTITY applyTheme.label "Motivy vzhledu">
 <!ENTITY applyTheme.accesskey "M">
 <!ENTITY getNewThemesCmd.label "Získat nový motiv">
 <!ENTITY getNewThemesCmd.accesskey "Z">
-<!ENTITY searchMenu.label "Hledat">
-<!ENTITY searchMenu.accesskey "H">
 <!ENTITY findOnCmd.label "Najít na této stránce…">
 <!ENTITY findOnCmd.accesskey "j">
 <!ENTITY findOnCmd.commandkey "f">
@@ -159,13 +122,6 @@
 <!ENTITY feedsMenu.accesskey "O">
 <!ENTITY emptyItem.label "(Prázdná)">
 
-<!ENTITY helpMenuCmd.label "Nápověda">
-<!ENTITY helpMenuCmd.accesskey "v">
-<!ENTITY helpContentsCmd.label "Obsah nápovědy">
-<!ENTITY softwareUpdatesCmd.label "Aktualizace vybavení">
-<!ENTITY technicalSupportCmd.label "Technická podpora">
-<!ENTITY releaseNotesCmd.label "Poznámky k verzi">
-
 <!ENTITY menuBar.tooltip "Hlavní nabídka">
 <!ENTITY personalToolbar.tooltip "Osobní lišta">
 <!ENTITY navigationToolbar.tooltip "Lišta navigace">
@@ -193,7 +149,6 @@
 <!ENTITY locationBar.title "Umístění">
 
 <!ENTITY proxyIcon.tooltip "Přetáhnutím ikony vytvoříte odkaz na tuto stránku">
-<!ENTITY internetKeyword.tooltip "Přejde na poslední navštívenou stránku">
 
 <!-- Toolbar items --> 
 <!ENTITY bookmarksButton.label "Záložky">

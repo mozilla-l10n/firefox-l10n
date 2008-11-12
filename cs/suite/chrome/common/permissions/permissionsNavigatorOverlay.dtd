@@ -34,9 +34,6 @@
 <!ENTITY cookieManagePopups.label "Správa vyskakovacích oken">
 <!ENTITY cookieManagePopups.accesskey "V">
 
-<!ENTITY cookieTutorialCmd.label "Rozumíme bezpečnosti">
-<!ENTITY cookieTutorialCmd.accesskey "u">
-
 <!ENTITY cookieCookieManager.label "Správce cookies">
 <!ENTITY cookieCookieManager.accesskey "c">
 <!ENTITY cookieImageManager.label "Správce obrázků">

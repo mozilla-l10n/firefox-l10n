@@ -24,8 +24,6 @@
 <!ENTITY cursive.label "Kurzíva:">
 <!ENTITY cursive.accesskey "k">
 
-<!ENTITY fontsize.units "bodů">
-
 <!ENTITY font.langGroup.latin1 "Západní jazyky">
 <!ENTITY font.langGroup.latin2 "Středoevropské jazyky">
 <!ENTITY font.langGroup.japanese "Japonština">
@@ -62,8 +60,6 @@
 <!ENTITY useDefaultFontSerif.label "Patkové">
 <!ENTITY useDefaultFontSansSerif.label "Bezpatkové">
 
-<!ENTITY newLanguages.label "Nové jazyky mohou být nastaveny pomocí panelu jazyků.">
-
 <!ENTITY useDocumentFonts.label "Povolit stránkám použít jiné písmo">
 <!ENTITY useDocumentFonts.accesskey "j">
 <!-- leaving this stuff in for now -->
@@ -72,9 +68,3 @@
 <!ENTITY header2 "Určuje-li si stránka vlastní písma">
 <!ENTITY useDefaultFont.label "Použít zde nastavená písma, bez ohledu na písma určovaná stránkou">
 <!ENTITY useDefaultFont.accesskey "u">
-<!-- LOCALIZATION NOTE (useDocFontNonDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
-<!ENTITY useDocFontNonDynamic.label "Použít písma určená stránkou s vyjímkou dynamických">
-<!ENTITY useDocFontNonDynamic.accesskey "s">
-<!-- LOCALIZATION NOTE (useDocFontDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
-<!ENTITY useDocFontDynamic.label "Použít všechna písma, která si stránka určí">
-<!ENTITY useDocFontDynamic.accesskey "v">

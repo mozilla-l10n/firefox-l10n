@@ -55,11 +55,3 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formát">
 <!ENTITY formatMenu.accesskey "F">
-
-<!ENTITY helpMenu.label "Nápověda">
-<!ENTITY aboutCmd.label ".O aplikaci">
-
-<!-- Display Mode Toolbar -->
-<!ENTITY editMode.label "Režim úprav:">
-
-<!ENTITY statusText.label "Načítání dokončeno">

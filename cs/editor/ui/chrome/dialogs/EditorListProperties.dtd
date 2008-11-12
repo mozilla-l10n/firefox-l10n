@@ -44,7 +44,6 @@
 <!ENTITY bulletList.value "Seznam s odrážkami">
 <!ENTITY numberList.value "Číslovaný seznam">
 <!ENTITY definitionList.value "Seznam definicí">
-<!ENTITY changeListMsg.label "Při změně typu seznamu:">
 <!ENTITY changeEntireListRadio.label "Změnit celý seznam">
 <!ENTITY changeEntireListRadio.accessKey "c">
 <!ENTITY changeSelectedRadio.label "Změnit pouze označené">

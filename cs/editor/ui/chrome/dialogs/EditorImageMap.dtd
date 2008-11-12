@@ -77,7 +77,6 @@
 
 <!ENTITY zoominCmd.label "Přiblížit">
 <!ENTITY zoomoutCmd.label "Oddálit">
-<!ENTITY delSpotCmd.label "Smazat Spot">
 <!-- Keys -->
 <!ENTITY clear.key "d">
 <!ENTITY selectall.key "a">

@@ -35,8 +35,5 @@
 <!ENTITY removeallpermissions.label "Odebrat všechny servery">
 <!ENTITY removeallpermissions.accesskey "d">
 
-<!ENTITY canSet.label "může uložit cookies">
-<!ENTITY cannotSet.label "nemůže uložit cookies">
-
 <!ENTITY futureCookies.label "Zakázat stránkám znovu nastavit odebrané cookie">
 <!ENTITY futureCookies.accesskey "Z">

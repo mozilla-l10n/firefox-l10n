@@ -72,10 +72,8 @@
 <!ENTITY filename.accesskey "s">
 <!ENTITY filename.tooltip "Zadává název souboru pro webovou stránku včetně '.html' přípony">
 <!ENTITY filenameExample.label "např.: &quot;mojestranka.html&quot;">
-<!ENTITY relatedDocs.label "Další soubory pro zveřejnění">
 <!ENTITY setDefaultButton.label "Nastavit jako výchozí">
 <!ENTITY setDefaultButton.accesskey "v">
-<!ENTITY setDefSiteAndDir.label "Nastavit jako výchozí web a adresář">
 <!ENTITY removeButton.label "Odebrat server">
 <!ENTITY removeButton.accesskey "d">
 

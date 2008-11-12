@@ -8,8 +8,6 @@
 <!ENTITY editorCmd.accesskey "E">
 <!ENTITY editorCmd.commandkey "4">
 
-<!ENTITY securityInfoCmd.label ".Informace o zabezpečení">
-<!ENTITY securityInfoCmd.accesskey "z">
 <!ENTITY javaConsoleCmd.label "Konzola jazyka Java">
 <!ENTITY javaConsoleCmd.accesskey "j">
 
@@ -17,12 +15,8 @@
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!-- LOCALIZATION NOTE (privacyMenu.label): DONT_TRANSLATE -->
 
-<!ENTITY privacyMenu.label "Soukromí a zabezpečení">
-<!ENTITY privacyMenu.accesskey "p">
-
 <!ENTITY taskNavigator.tooltip "Prohlížeč">
 <!ENTITY taskComposer.tooltip "Editor">
-<!ENTITY taskBar.tooltip "Stavový řádek">
 
 <!ENTITY webDevelopment.label "Vývoj webových stránek">
 <!ENTITY webDevelopment.accesskey "w">

@@ -55,8 +55,6 @@
 <!ENTITY warn.insecurepost.accesskey "Z">
 <!ENTITY warn.leavingsecure "Opuštění stránky, která podporuje šifrování">
 <!ENTITY warn.leavingsecure.accesskey "O">
-<!ENTITY warn.secureredirect "Přesměrováním z jedné zabezpečené stránky na druhou">
-<!ENTITY warn.secureredirecttoinsecure "Přesměrováním ze zabezpečené stránky na nezabezpečenou stránku">
 <!ENTITY warn.viewmixed "Zobrazením stránky se směsicí zašifrovaných i nezašifrovaných dat">
 <!ENTITY warn.viewmixed.accesskey "b">
 
