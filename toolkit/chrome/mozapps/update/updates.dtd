@@ -4,7 +4,8 @@
 <!ENTITY  window.macWidth                 "42em">
 
 <!ENTITY  checking.title                  "Controleren op updates">
-<!ENTITY  checking.label                  "&brandShortName; controleert nu op updates…">
+<!ENTITY  checking.title                  "Controleren op updates">
+<!ENTITY  updateCheck.label               "Controleren op nieuwere versies van &brandShortName;…">
 
 <!ENTITY  noupdatesfound.title            "Geen updates gevonden">
 <!ENTITY  noupdatesautoenabled.intro      "Er zijn geen updates beschikbaar. &brandShortName; zal periodiek
@@ -12,8 +13,8 @@
 <!ENTITY  noupdatesautodisabled.intro     "Er zijn geen updates beschikbaar. Controleer later nog eens of activeer
                                            de automatische updatecontrole van &brandShortName;.">
 
-<!ENTITY  incompatibleChecking.label      "Bezig met controleren of deze update problemen kan veroorzaken met uw extensies en/of thema’s…">
-<!ENTITY  incompatibleCheck.label         "Bezif met cont1roleren op nieuwere versies van uw add-ons…">
+<!ENTITY  incompatibleCheck.title         "Add-on compatibileit controleren">
+<!ENTITY  incompatibleCheck.label         "Bezig met controleren op nieuwere versies van uw add-ons…">
 
 <!ENTITY  clickHere.label                 "Meer informatie over deze update bekijken">
 
@@ -54,9 +55,9 @@
 <!ENTITY  errorpatching.intro             "De gedeeltelijke update kon niet worden toegepast. 
                                            &brandShortName; zal het opnieuw proberen door een volledige update te downloaden.">
 
-<!ENTITY  finished.title                  "Update gedownload">
-<!ENTITY  finished.text                   "De update is succesvol gedownload en geverifieerd en zal de volgende
-                                           keer dat &brandShortName; start worden geïnstalleerd.">
+<!ENTITY  finishedPage.title              "Update klaar om te installeren">
+<!ENTITY  finishedPage.text               "De update zal de volgende keer dat  &brandShortName; start worden geïnstalleerd. U 
+                                           kunt &brandShortName; nu herstarten of doorgaan met werken en later herstarten.">
 
 <!ENTITY  finishedBackgroundPage.text     "&brandShortName; heeft een veiligheids en stabiliteits update gedownload
                                            en is klaar om te installeren.">
