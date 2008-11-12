@@ -79,9 +79,6 @@
 <!ENTITY sendPageCmd.accesskey "d">
 <!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Vista preliminar">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printButtonCmd.label "Imprimir…">
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.key "p">
@@ -102,26 +99,8 @@
 
 <!-- For a "Paste" submenu when more than 1 
      clipboard formats are available -->
-<!ENTITY pasteHTMLCmd.label "HTML">
-<!ENTITY pasteHTMLCmd.accesskey "h">
-<!ENTITY pasteTextCmd.label "Texto">
-<!ENTITY pasteTextCmd.accesskey "t">
-<!ENTITY pasteImageCmd.label "Imagen">
-<!ENTITY pasteImageCmd.accesskey "i">
-<!ENTITY pasteRowsCmd.label "Filas">
-<!ENTITY pasteRowsCmd.accesskey "F">
-<!ENTITY pasteColumnsCmd.label "Columnas">
-<!ENTITY pasteColumnsCmd.accesskey "c">
-<!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
-     Set to: "Table" or "Nested Table" depending on context 
-     This accesskey must be in both strings -->
-<!ENTITY pasteTableCmd.accesskey "a">
-<!ENTITY pasteLinkCmd.label "Enlace">
-<!ENTITY pasteLinkCmd.accesskey "d">
 <!ENTITY pasteAsQuotationCmd.label "Pegar como cita">
 <!ENTITY pasteAsQuotationCmd.accesskey "g">
-<!ENTITY editStripQuotesCmd.label "Eliminar comillas">
-<!ENTITY editRewrapCmd.label "Reajuste de línea">
 <!ENTITY findCmd.label "Buscar y reemplazar…">
 <!ENTITY findCmd.accesskey "A">
 <!ENTITY findCmd.key "A">
@@ -141,13 +120,6 @@
 <!ENTITY checkSpellingCmd.key "k">
 <!ENTITY validateCmd.label "Validar HTML">
 <!ENTITY validateCmd.accesskey "v">
-<!ENTITY checkLinksCmd.label "Comprobar enlaces">
-
-<!-- View menu items -->
-<!ENTITY viewPageSource.label "Código fuente de la página">
-<!ENTITY viewPageSource.accesskey "G">
-<!ENTITY viewParagraphMarks.label "Marcas de párrafo">
-<!ENTITY viewParagraphMarks.accesskey "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Insertar">
@@ -159,41 +131,16 @@
 <!ENTITY insertAnchorCmd.accesskey "l">
 <!ENTITY insertImageCmd.label "Imagen…">
 <!ENTITY insertImageCmd.accesskey "i">
-<!ENTITY insertImageMapCmd.label "Mapa de la imagen…">
 <!ENTITY insertHLineCmd.label "Línea horizontal">
 <!ENTITY insertHLineCmd.accesskey "a">
 <!ENTITY insertTableCmd.label "Tabla…">
 <!ENTITY insertTableCmd.accesskey "t">
-<!ENTITY insertFormMenu.label "Formulario">
-<!ENTITY insertFormMenu.accesskey "F">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertCharsCmd.label "Caracteres y símbolos…">
 <!ENTITY insertCharsCmd.accesskey "C">
-<!ENTITY insertBreakCmd.label "Salto de línea">
-<!ENTITY insertBreakCmd.accesskey "b">
 <!ENTITY insertBreakAllCmd.label "Romper la(s) imágen(es) inferior(es)">
 <!ENTITY insertBreakAllCmd.accesskey "R">
-
-<!-- Insert form menu items -->
-<!ENTITY insertFormCmd.label "Definir formulario…">
-<!ENTITY insertFormCmd.accesskey "D">
-<!ENTITY insertInputTagCmd.label "Campo de formulario…">
-<!ENTITY insertInputTagCmd.accesskey "e">
-<!ENTITY insertInputImageCmd.label "Imagen de formulario…">
-<!ENTITY insertInputImageCmd.accesskey "I">
-<!ENTITY insertTextAreaCmd.label "Área de texto…">
-<!ENTITY insertTextAreaCmd.accesskey "T">
-<!ENTITY insertSelectCmd.label "Lista de selección…">
-<!ENTITY insertSelectCmd.accesskey "S">
-<!ENTITY insertButtonCmd.label "Definir botón…">
-<!ENTITY insertButtonCmd.accesskey "B">
-<!ENTITY insertLabelCmd.label "Definir etiqueta">
-<!ENTITY insertLabelCmd.accesskey "L">
-<!ENTITY insertFieldSetCmd.label "Definir conjunto de campos…">
-<!ENTITY insertFieldSetCmd.accesskey "F">
-<!ENTITY insertIsIndexCmd.label "Búsqueda de índices">
-<!ENTITY insertIsIndexCmd.accesskey "x">
 
 <!-- Used just in context popup. -->
 <!ENTITY spellCheckNoSuggestions.label "(No hay sugerencias)">
@@ -238,8 +185,6 @@
 <!ENTITY fontTimes.accesskey "t">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "c">
-<!ENTITY localfontfaceMenu.label "Tipos de letra locales">
-<!ENTITY localfontfaceMenu.accesskey "A">
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Elija un tamaño de letra">
@@ -361,18 +306,6 @@
 <!ENTITY advancedPropertiesCmd.label "Propiedades avanzadas">
 <!ENTITY advancedPropertiesCmd.accesskey "v">
 
-<!ENTITY NormalAbbr.label "Texto">
-<!ENTITY ParagraphAbbr.label "P">
-<!ENTITY Heading1Abbr.label "H1">
-<!ENTITY Heading2Abbr.label "H2">
-<!ENTITY Heading3Abbr.label "H3">
-<!ENTITY Heading4Abbr.label "H4">
-<!ENTITY Heading5Abbr.label "H5">
-<!ENTITY Heading6Abbr.label "H6">
-<!ENTITY BlockquoteAbbr.label "CC">
-<!ENTITY AddressAbbr.label "Direcc.">
-<!ENTITY PreformatAbbr.label "Pre.">
-
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Alinear">
 <!ENTITY alignMenu.accesskey "a">
@@ -457,8 +390,6 @@
 <!ENTITY tableDeleteMenu.label "Eliminar">
 <!ENTITY tableDeleteMenu.accesskey "E">
 
-<!ENTITY tableFix.label "Arreglar apariencia de la tabla">
-<!ENTITY tableFix.accesskey "A">
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
@@ -500,7 +431,6 @@
 <!ENTITY linkToolbarCmd.tooltip "Inserta un nuevo enlace o edita las propiedades del enlace seleccionado">
 <!ENTITY anchorToolbarCmd.label "Enlace interno">
 <!ENTITY anchorToolbarCmd.tooltip "Inserta un nuevo enlace con nombre o modifica las propiedades del enlace con nombre seleccionado">
-<!ENTITY textColorCaption.label "Color del texto">
 <!ENTITY TextColorButton.tooltip "Elija un color para el texto">
 <!ENTITY BackgroundColorButton.tooltip "Elija un color para el fondo">
 <!ENTITY throbber.tooltip "Ir a la página web de &vendorShortName;">
@@ -522,17 +452,6 @@
 <!ENTITY alignCenterButton.tooltip "Alinear texto centrado">
 <!ENTITY alignRightButton.tooltip "Alinear texto a lo largo del margen derecho">
 <!ENTITY alignjustifyButton.tooltip "Alinear texto a lo largo de los márgenes derecho e izquierdo">
-
-<!-- Formatting toolbar not used, but may be in future -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
-
-<!-- Used with color pickers in Format toolbar and Format Menu -->
-<!ENTITY colorPicker.default.label "Color por defecto del usuario">
-<!ENTITY colorPicker.default.accesskey "r">
-<!ENTITY colorLabel.label "Color:">
-<!ENTITY ok.label "Aceptar">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normal">

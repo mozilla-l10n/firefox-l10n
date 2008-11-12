@@ -82,7 +82,6 @@
 
 <!ENTITY zoominCmd.label "Zoom +">
 <!ENTITY zoomoutCmd.label "Zoom -">
-<!ENTITY delSpotCmd.label "Borrar punto">
 
 <!-- Keys -->
 <!ENTITY clear.key "d">

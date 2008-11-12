@@ -20,4 +20,3 @@
 <!ENTITY replaceAllButton.label "Reemplazar todo">
 <!ENTITY replaceAllButton.accesskey "a">
 <!ENTITY closeButton.label "Cerrar">
-<!ENTITY notFoundWarning.label "No se encontró el texto buscado.">

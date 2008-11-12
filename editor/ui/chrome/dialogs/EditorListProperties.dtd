@@ -45,7 +45,6 @@
 <!ENTITY bulletList.value "Lista (no numerada) de viñetas:">
 <!ENTITY numberList.value "Lista numerada">
 <!ENTITY definitionList.value "Lista de definiciones">
-<!ENTITY changeListMsg.label "Al cambiar el tipo de lista:">
 <!ENTITY changeEntireListRadio.label "Cambiar la lista entera">
 <!ENTITY changeEntireListRadio.accessKey "C">
 <!ENTITY changeSelectedRadio.label "Cambiar sólo los elementos seleccionados">
