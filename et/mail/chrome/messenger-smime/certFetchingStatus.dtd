@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
+
+<!ENTITY title.label  "Sertifikaatide allalaadimine">
+<!ENTITY info.message "Kataloogist otsitakse adressaatide sertifikaate. See võib mõned minutid aega võtta.">
+<!ENTITY stop.label   "Peata otsing">
