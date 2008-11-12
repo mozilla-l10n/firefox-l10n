@@ -22,9 +22,8 @@
 <!ENTITY printButton.tooltip            "Deze pagina afdrukken">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY searchtab.label                "Zoeken">
-<!ENTITY searchtab.accesskey            "Z">
-<!ENTITY searchClose.tooltip            "Zoekresultaten sluiten">
+<!ENTITY search.emptytext               "Zoeken">
+<!ENTITY searchHeader.label             "Zoekresultaten">
 <!ENTITY toctab.label                   "Inhoud">
 <!ENTITY toctab.accesskey               "I">
 
