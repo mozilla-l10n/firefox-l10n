@@ -1,0 +1,92 @@
+<!ENTITY itemGeneral.label                "Üldine">
+<!ENTITY itemDisplay.label                "Lugemine ja kuvamine">
+<!ENTITY itemUpdate.label                 "Uuendamine">
+<!ENTITY itemNetworking.label             "Võrk ja kettaruum">
+<!ENTITY itemCertificates.label           "Sertifikaadid">
+
+<!-- General Settings -->
+
+<!ENTITY showCondensedAddresses.label     "Aadressiraamatus olevate kontaktide puhul näidatakse ainult kuvatavat nime">
+<!ENTITY showCondensedAddresses.accesskey "k">
+
+<!ENTITY autoMarkAsRead.label             "Kirjad märgitakse automaatselt loetuks">
+<!ENTITY autoMarkAsRead.accesskey         "K">
+<!ENTITY markAsReadNoDelay.label          "kohe peale kuvamist">
+<!ENTITY markAsReadNoDelay.accesskey      "o">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "märgitakse loetuks pärast">
+<!ENTITY markAsReadDelay.accesskey        "m">
+<!ENTITY secondsLabel.label               "sekundit">
+<!ENTITY showFolderColumns.label          "Kaustade paanis näidatakse laiendatud veerge">
+<!ENTITY showFolderColumns.accesskey      "u">
+<!ENTITY openMsgIn.label                  "Kirjad avatakse:">
+<!ENTITY reuseExpRadio0.label             "uues aknas">
+<!ENTITY reuseExpRadio0.accesskey         "a">
+<!ENTITY reuseExpRadio1.label             "samas aknas">
+<!ENTITY reuseExpRadio1.accesskey         "s">
+<!ENTITY configEditDesc.label             "Täpsem häälestamine">
+<!ENTITY configEdit.label                 "Konfiguratsiooni redaktor...">
+<!ENTITY configEdit.accesskey             "n">
+<!ENTITY returnReceiptsInfo.label         "Määra, kuidas &brandShortName; käsitleb kättesaamise kinnitusi">
+<!ENTITY showReturnReceipts.label         "Kättesaamise kinnitused...">
+<!ENTITY showReturnReceipts.accesskey     "M">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption                  "Lugemine">
+<!ENTITY display.caption                  "Kuvamine">
+
+<!-- Update -->
+<!ENTITY autoCheck.label                  "Järgmisi uuendusi kontrollitakse automaatselt:">
+<!ENTITY enableAppUpdate.label            "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey        "h">
+<!ENTITY enableAddonsUpdate.label         "Paigaldatud lisad">
+<!ENTITY enableAddonsUpdate.accesskey     "t">
+<!ENTITY checkNow.label                   "Kontrolli nüüd...">
+<!ENTITY whenUpdatesFound.label           "Kui &brandShortName;ile leitakse uuendusi:">
+<!ENTITY modeAskMe.label                  "küsitake, mida teha">
+<!ENTITY modeAskMe.accesskey              "k">
+<!ENTITY modeAutomatic.label              "uuendused laaditakse automaatselt alla ja paigaldatakse">
+<!ENTITY modeAutomatic.accesskey          "t">
+<!ENTITY modeAutoAddonWarn.label          "Hoiatatakse, kui see keelab mõne lisa">
+<!ENTITY modeAutoAddonWarn.accesskey      "e">
+<!ENTITY showUpdates.label                "Näita uuenduste ajalugu">
+<!ENTITY showUpdates.accesskey            "j">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showSettings.label               "Sätted...">
+<!ENTITY showSettings.accesskey           "d">
+<!ENTITY proxiesConfigure.label           "Määra, kuidas &brandShortName; ühendub internetti.">
+<!ENTITY connectionsInfo.caption          "Ühendus">
+<!ENTITY offlineInfo.caption              "Ühenduseta">
+<!ENTITY offlineInfo.label                "Võrguta režiimi häälestamine">
+<!ENTITY showOffline.label                "Sätted">
+<!ENTITY showOffline.accesskey            "S">
+
+<!ENTITY Diskspace                        "Kettaruum">
+<!ENTITY offlineCompact.label             "Kaustad tihendatakse, kui see säästab rohkem kui">
+<!ENTITY offlineCompact.accesskey         "b">
+<!ENTITY kb.label                         "KB">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label             "Vahemäluks kasutatakse kuni">
+<!ENTITY useCacheBefore.accesskey         "V">
+<!ENTITY useCacheAfter.label              "MB mälu">
+<!ENTITY clearCacheNow.label              "Puhasta nüüd">
+<!ENTITY clearCacheNow.accesskey          "P">
+
+<!-- Certificates -->
+<!ENTITY viewCertificates.label           "Kuva sertifikaate">
+<!ENTITY viewCertificates.accesskey       "f">
+<!ENTITY viewCRLs.label                   "Tühistusnimekirjad">
+<!ENTITY viewCRLs.accesskey               "h">
+<!ENTITY validation.label                 "Verifitseerimine">
+<!ENTITY validation.accesskey             "t">
+<!ENTITY viewSecurityDevices.label        "Turvaseadmed">
+<!ENTITY viewSecurityDevices.accesskey    "u">

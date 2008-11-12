@@ -1,0 +1,72 @@
+<!ENTITY fontsAndEncodingsDialog.title    "Fondid ja kodeeringud">
+<!ENTITY window.width                     "39em">
+<!ENTITY window.macWidth                  "43em">
+<!ENTITY window.unixWidth                 "41em">
+
+<!ENTITY language.label                   "Fondid keelele:">
+<!ENTITY language.accesskey               "F">
+
+<!ENTITY sizes.label                      "Suurus (pikslites)">
+<!ENTITY proportionalSize.accesskey       "e">
+<!ENTITY monospaceSize.accesskey          "l">
+
+<!ENTITY proportional.label               "Standardne:">
+<!ENTITY proportional.accesskey           "S">
+
+<!ENTITY serif.label                      "Seriifidega:">
+<!ENTITY serif.accesskey                  "f">
+<!ENTITY sans-serif.label                 "Seriifideta:">
+<!ENTITY sans-serif.accesskey             "e">
+<!ENTITY monospace.label                  "Fikseeritud laiusega:">
+<!ENTITY monospace.accesskey              "k">
+
+<!ENTITY font.langGroup.latin1            "Lääne">
+<!ENTITY font.langGroup.latin2            "Kesk-Euroopa">
+<!ENTITY font.langGroup.japanese          "Jaapani">
+<!ENTITY font.langGroup.trad-chinese      "Traditsiooniline hiina (Taiwan)">
+<!ENTITY font.langGroup.simpl-chinese     "Lihtsustatud hiina">
+<!ENTITY font.langGroup.trad-chinese-hk   "Traditsiooniline hiina (Hongkong)">
+<!ENTITY font.langGroup.korean            "Korea">
+<!ENTITY font.langGroup.cyrillic          "Kirillitsa">
+<!ENTITY font.langGroup.baltic            "Balti">
+<!ENTITY font.langGroup.el                "Kreeka">
+<!ENTITY font.langGroup.turkish           "Türgi">
+<!ENTITY font.langGroup.unicode           "Muud keeled">
+<!ENTITY font.langGroup.user-def          "Kasutaja määratud">
+<!ENTITY font.langGroup.thai              "Tai">
+<!ENTITY font.langGroup.hebrew            "Heebrea">
+<!ENTITY font.langGroup.arabic            "Araabia">
+<!ENTITY font.langGroup.devanagari        "Devanaagari">
+<!ENTITY font.langGroup.tamil             "Tamili">
+<!ENTITY font.langGroup.armenian          "Armeenia">
+<!ENTITY font.langGroup.bengali           "Bengaali">
+<!ENTITY font.langGroup.canadian          "Ühtlustatud kanada silpkiri">
+<!ENTITY font.langGroup.ethiopic          "Etioopia">
+<!ENTITY font.langGroup.georgian          "Gruusia">
+<!ENTITY font.langGroup.gujarati          "Gudžarati">
+<!ENTITY font.langGroup.gurmukhi          "Gurmukhi">
+<!ENTITY font.langGroup.khmer             "Khmeri">
+<!ENTITY font.langGroup.malayalam         "Malajalami">
+
+<!-- Minimum font size -->
+<!ENTITY minSize.label                    "Vähim kirja suurus:">
+<!ENTITY minSize.accesskey                "V">
+<!ENTITY minSize.none                     "Puudub">
+
+<!-- default font type -->
+<!ENTITY useDefaultFontSerif.label        "Seriifidega">
+<!ENTITY useDefaultFontSansSerif.label    "Seriifideta">
+
+<!ENTITY useDocumentFonts.label           "Kirjades lubatakse kasutada muid fonte">
+<!ENTITY useDocumentFonts.accesskey       "l">
+
+<!-- Language settings -->
+<!ENTITY sendDefaultCharset.label         "Väljuvad kirjad:">
+<!ENTITY sendDefaultCharset.accesskey     "j">
+<!ENTITY languagesTitle1.label            "Kodeeringud">
+<!ENTITY composingDescription.label       "Määra vaikimisi kodeering kirjade saamiseks ja saatmiseks">
+
+<!ENTITY viewDefaultCharsetList.label     "Saabuvad kirjad:">
+<!ENTITY viewDefaultCharsetList.accesskey "k">
+<!ENTITY replyInDefaultCharset2.label     "Võimalusel kasutatakse vastustes vaikimisi kodeeringut">
+<!ENTITY replyInDefaultCharset2.accesskey "d">

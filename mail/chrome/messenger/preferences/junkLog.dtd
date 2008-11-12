@@ -1,0 +1,6 @@
+<!ENTITY junkLog.title      "Rämpsposti logi">
+<!ENTITY junkLogInfo.label  "Rämpsposti kontrollimise aktiivsuse logi.">
+<!ENTITY clearLog.label     "Puhasta logi">
+<!ENTITY clearLog.accesskey "P">
+<!ENTITY closeLog.label     "Sulge">
+<!ENTITY closeLog.accesskey "l">

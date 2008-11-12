@@ -1,0 +1,10 @@
+<!ENTITY notificationsDialog2.title "Uue kirja saabumisteate kohandamine">
+<!ENTITY window.width               "30em">
+
+<!ENTITY alertCustomization.intro   "Vali, milliseid välju uuest kirjast teavitamisel kuvatakse:">
+<!ENTITY previewText.label          "Kirja lühike sissejuhatus">
+<!ENTITY previewText.accesskey      "K">
+<!ENTITY subject.label              "Teema">
+<!ENTITY subject.accesskey          "T">
+<!ENTITY sender.label               "Saatja">
+<!ENTITY sender.accesskey           "a">
