@@ -84,8 +84,6 @@
 <!ENTITY event.menu.file.page.setup.accesskey "s">
 <!ENTITY event.menu.file.print.label "Imprimer">
 <!ENTITY event.menu.file.print.accesskey "I">
-<!ENTITY event.menu.file.exit.label "Quitter">
-<!ENTITY event.menu.file.exit.accesskey "Q">
 
 <!ENTITY event.menu.edit.label "Édition">
 <!ENTITY event.menu.edit.accesskey "n">

@@ -39,12 +39,6 @@
 <!ENTITY printAddressBook.label				"Imprimer le carnet d'adresses…">
 <!ENTITY printAddressBook.accesskey			"A">
 
-<!ENTITY quitApplicationCmdWin.label                    "Quitter">
-<!ENTITY quitApplicationCmdWin.accesskey                "Q">
-<!ENTITY quitApplicationCmd.label                       "Quitter">
-<!ENTITY quitApplicationCmd.accesskey                   "Q">
-<!ENTITY quitApplicationCmd.key "Q">
-
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Édition">
 <!ENTITY editMenu.accesskey                             "n">
