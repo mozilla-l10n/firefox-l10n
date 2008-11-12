@@ -15,8 +15,6 @@
 <!ENTITY openFrameCmdInTab.accesskey "T">
 <!ENTITY showOnlyThisFrameCmd.label "Zobrazit pouze tento rám">
 <!ENTITY showOnlyThisFrameCmd.accesskey "P">
-<!ENTITY addToBookmarksCmd.label "Přidat k záložkám">
-<!ENTITY addToBookmarksCmd.accesskey "P">
 <!ENTITY goBackCmd.label "Zpět">
 <!ENTITY goBackCmd.accesskey "Z">
 <!ENTITY goForwardCmd.label "Vpřed">

@@ -38,7 +38,6 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Vlastnosti obrázku">
 <!ENTITY pixelsPopup.value "bodů">
-<!ENTITY percentPopup.value "procent">
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Adresa obrázku:">
 <!ENTITY locationEditField.accessKey "d">
@@ -52,7 +51,6 @@
 <!ENTITY noAltText.label "Nepoužít alternativní text">
 <!ENTITY noAltText.accessKey "N">
 <!ENTITY previewBox.label "Náhled obrázku">
-<!ENTITY MoreFewerButton.tooltip "Zobrazí více či méně položek vlastností">
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 <!ENTITY actualSize.label "Současná velikost:">
@@ -84,7 +82,6 @@
 <!ENTITY wrapLeftPopup.value "Zalomení vlevo">
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "Odstup">
-<!ENTITY spacingBox.tooltip "Zadejte číselnou hodnotu, která představuje odstup okolních prvků od okraje obrázku">
 <!ENTITY leftRightEditField.label "Levý a pravý:">
 <!ENTITY leftRightEditField.accessKey "L">
 <!ENTITY topBottomEditField.label "Horní a dolní:">
@@ -94,11 +91,6 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Zobrazit okraje okolo obrázku">
 <!ENTITY showImageLinkBorder.accessKey "o">
-<!-- These controls may be added some day; currently not used -->
-<!ENTITY makePageBackgroundCheckbox.label "Použít na pozadí">
-<!ENTITY makePageBackgroundCheckbox.tooltip "Obrázek bude použit jako pozadí stránky">
-<!ENTITY editImageButton.label "Upravit obrázek">
-<!ENTITY editImageButton.tooltip "Upraví obrázek v jiném programu">
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Formulář">
 <!ENTITY imageLocationTab.label "Adresa">

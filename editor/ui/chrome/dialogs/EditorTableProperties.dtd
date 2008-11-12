@@ -69,7 +69,6 @@
 <!ENTITY tableCaptionNone.label "Žádný">
 <!ENTITY tableInheritColor.label "(Průhledné pozadí tabulky)">
 
-<!ENTITY cellPercent.label "procent tabulky">
 <!ENTITY cellSelection.label "Výběr">
 <!ENTITY cellSelectCell.label "Buňka">
 <!ENTITY cellSelectRow.label "Řádek">
@@ -78,11 +77,7 @@
 <!ENTITY cellSelectNext.accessKey "D">
 <!ENTITY cellSelectPrevious.label "Předchozí">
 <!ENTITY cellSelectPrevious.accessKey "P">
-<!ENTITY cellApplyBeforeMove.label "Použij změny před změnou označení">
-<!ENTITY cellKeepCurrentData.label "Zachovat aktuální nastavení">
 <!ENTITY applyBeforeChange.label "Stávající změny budou uplatněny před změnou označení.">
-<!ENTITY cellRowSpan.label "Rozpětí přes řádky:">
-<!ENTITY cellColSpan.label "Rozpětí přes sloupce:">
 <!ENTITY cellContentAlignment.label "Zarovnání obsahu">
 <!ENTITY cellHorizontal.label "Vodorovně:">
 <!ENTITY cellHorizontal.accessKey "V">
@@ -100,7 +95,6 @@
 <!ENTITY cellAlignMiddle.label "Na střed">
 <!ENTITY cellAlignBottom.label "Dolů">
 <!ENTITY cellAlignJustify.label "Do bloku">
-<!ENTITY cellAlignAtChar.label "Na znak:">
 <!ENTITY cellInheritColor.label "(Průhledné pozadí buňky)">
 <!ENTITY cellUseCheckboxHelp.label "Pomocí zaškrtávací nabídky určíte, které vlastnosti se použijí na všechny označené buňky">
 <!-- Used in both Table and Cell panels  -->

@@ -68,7 +68,6 @@
 <!ENTITY formAction "Akce formuláře">
 <!ENTITY formMethod "Metoda">
 <!ENTITY formName "Název">
-<!ENTITY formNo "Č.">
 <!ENTITY formEncoding "Kódování:">
 <!ENTITY formTarget "Cíl:">
 <!ENTITY formFields "Prvky:">

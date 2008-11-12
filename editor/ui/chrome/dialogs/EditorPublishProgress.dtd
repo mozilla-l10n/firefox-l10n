@@ -42,8 +42,6 @@
 
 <!ENTITY status.label "Zveřejňuji…">
 <!ENTITY fileList.label "Stav zveřejňování">
-<!ENTITY statusHeader.label "Stav">
-<!ENTITY filenameHeader.label "Název souboru">
 <!ENTITY succeeded.label "Úspěšné">
 <!ENTITY failed.label "Neúspěšné">
 

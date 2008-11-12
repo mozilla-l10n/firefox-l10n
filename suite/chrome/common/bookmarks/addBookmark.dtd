@@ -45,7 +45,6 @@
 <!ENTITY shortcutURL.label "Klíčové slovo:">
 <!ENTITY shortcutURL.accesskey "K">
 <!ENTITY destination.label "Umístění:">
-<!ENTITY destination.accesskey "U">
 <!ENTITY newFolder.label "Nová složka…">
 <!ENTITY newFolder.accesskey "s">
 <!ENTITY addGroup.label "Přidat k záložkám tuto skupinu panelů">

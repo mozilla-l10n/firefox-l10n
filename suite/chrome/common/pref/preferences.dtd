@@ -7,14 +7,10 @@
 <!ENTITY colors.label "Barvy">
 <!ENTITY navigator.label "Prohlížeč">
 <!ENTITY history.label "Historie">
-<!ENTITY bidi.label "Obousměrný text">
 <!ENTITY languages.label "Jazyky">
 <!ENTITY applications.label "Pomocné aplikace">
 <!ENTITY locationBar.label "Adresní řádek">
 <!ENTITY tabWindows.label "Prohlížení v panelech">
-<!ENTITY compose.label "Editor">
-<!ENTITY editing.label "Nastavení nové stránky">
-<!ENTITY publish.label "Zveřejnění">
 <!ENTITY offline.label "Režim offline">
 <!ENTITY security.label "Soukromí a zabezpečení">
 <!ENTITY cookies.label "Cookies">

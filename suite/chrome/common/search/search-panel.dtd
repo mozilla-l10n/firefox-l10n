@@ -36,18 +36,13 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY search.button.label "Hledat">
-<!ENTITY search.results.tab "Použít">
-<!ENTITY search.advanced.tab "Nastavení pro ">
 <!ENTITY allengines.label "Všechny vyhledavací služby">
 <!ENTITY within.label "ve skupině">
 <!ENTITY using.label "za použití">
 <!ENTITY choose.label "Vyberte službu a klepněte na Najít.">
 <!ENTITY results.label "Nalezené položky">
 <!ENTITY engine.column.label "Vyhledávací moduly">
-<!ENTITY checkbox.column.label "Použít">
-<!ENTITY stop.button.label "Konec">
 <!ENTITY customize.menuitem.label "Upravit kategorie…">
-<!ENTITY savesearch.button.label "Nalezené položky přidat do záložek">
 <!ENTITY next.button.label "Další">
 <!ENTITY previous.button.label "Předchozí">
 <!ENTITY next.button.tooltip "Zobrazit další výsledky vyhledávání">

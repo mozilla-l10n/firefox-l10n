@@ -37,9 +37,6 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
 <!ENTITY windowTitle.label "Zkontrolovat umístění odkazu a obrázku">
-<!ENTITY urlsNotFound.label "Nebyly nalezeny následující umístění obrázků nebo odkazů:">
-<!ENTITY notFoundKey.label "(&quot;X&quot; = soubor nebyl nalezen, &quot;?&quot; = pokus o spojení se nezdařil.)">
-<!ENTITY changeUrlButton.label "Změnit umístění pro vybranou položku">
 <!ENTITY succeeded.label "Úspěch">
 <!ENTITY failed.label "Selhalo">
 <!ENTITY closeButton.label "Zavřít">
