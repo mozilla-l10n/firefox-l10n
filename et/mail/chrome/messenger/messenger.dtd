@@ -444,7 +444,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY stopButton.label                              "Peata">
 <!ENTITY throbberItem.title                            "Aktiivsuse indikaator">
 <!ENTITY junkButton.label                              "Rämpspost">
-<!ENTITY notJunkButton.label                           "Pole rämpsopst">
+<!ENTITY notJunkButton.label                           "Pole rämpspost">
 <!ENTITY addressBookButton.label                       "Aadressiraamat">
 <!ENTITY searchItem.title                              "Kiirotsing">
 <!ENTITY mailViewsToolbarItem.title                    "Kirja vaated">
