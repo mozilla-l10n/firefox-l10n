@@ -36,7 +36,6 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY Window.title "Tabla de contenidos">
 <!ENTITY buildToc.label "Construir tabla de contenidos de:">
-<!ENTITY style.label "Estilo:">
 <!ENTITY tag.label "Etiqueta:">
 <!ENTITY class.label "Clase:">
 <!ENTITY header1.label "Nivel 1">

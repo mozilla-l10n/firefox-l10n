@@ -41,10 +41,8 @@
 <!ENTITY docSubdir.label       "Subdirectorio de página:">
 <!ENTITY otherSubdir.label     "Subdirectorio de imagen:">
 
-<!ENTITY status.label          "Publicando...">
+<!ENTITY status.label          "Publicando…">
 <!ENTITY fileList.label        "Estado de publicación">
-<!ENTITY statusHeader.label    "Estado">
-<!ENTITY filenameHeader.label  "Archivo">
 <!ENTITY succeeded.label       "Éxito">
 <!ENTITY failed.label          "Falla">
 

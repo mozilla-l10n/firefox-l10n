@@ -68,7 +68,6 @@
 <!ENTITY tableCaptionRight.label "Derecha de la tabla">
 <!ENTITY tableCaptionNone.label "Ninguno">
 <!ENTITY tableInheritColor.label "(Permitir que se vea el color de fondo de la página)">
-<!ENTITY cellPercent.label "porcentaje de la tabla">
 <!ENTITY cellSelection.label "Selección">
 <!ENTITY cellSelectCell.label "Celda">
 <!ENTITY cellSelectRow.label "Fila">
@@ -77,11 +76,7 @@
 <!ENTITY cellSelectNext.accessKey "T">
 <!ENTITY cellSelectPrevious.label "Anterior">
 <!ENTITY cellSelectPrevious.accessKey "R">
-<!ENTITY cellApplyBeforeMove.label "Aplicar cambios antes de cambiar la selección">
-<!ENTITY cellKeepCurrentData.label "Mantener configuración actual">
 <!ENTITY applyBeforeChange.label          "Las modificaciones pendientes serán aplicadas antes de cambiar la selección.">
-<!ENTITY cellRowSpan.label "Filas ocupadas:">
-<!ENTITY cellColSpan.label "Columnas ocupadas:">
 <!ENTITY cellContentAlignment.label "Alineación del contenido">
 <!ENTITY cellHorizontal.label "Horizontal:">
 <!ENTITY cellHorizontal.accessKey "Z">
@@ -99,7 +94,6 @@
 <!ENTITY cellAlignMiddle.label "Medio">
 <!ENTITY cellAlignBottom.label "Parte inferior">
 <!ENTITY cellAlignJustify.label "Justificar">
-<!ENTITY cellAlignAtChar.label "En el carácter:">
 <!ENTITY cellInheritColor.label "(Permitir que se vea el color de fondo de la tabla)">
 <!ENTITY cellUseCheckboxHelp.label "Use las casillas de selección para determinar qué propiedades se aplican a todas las celdas seleccionadas">
 <!-- Used in both Table and Cell panels  -->

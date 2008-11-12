@@ -38,9 +38,6 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label     "Verificar ubicaciones de imágenes y enlaces">
-<!ENTITY urlsNotFound.label    "Las siguientes ubicaciones de imágenes o enlaces no pudieron encontrarse:">
-<!ENTITY notFoundKey.label     "(&quot;X&quot; = archivo no encontrado, &quot;?&quot; = timed-out intentando conectar.)">
-<!ENTITY changeUrlButton.label "Cambiar ubicación del ítem seleccionado">
 <!ENTITY succeeded.label       "Éxito">
 <!ENTITY failed.label          "Falla">
 <!ENTITY closeButton.label     "Cerrar">
