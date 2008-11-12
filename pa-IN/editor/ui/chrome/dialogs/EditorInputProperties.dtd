@@ -52,11 +52,13 @@
 
 <!ENTITY InputSettings.label "ਖੇਤਰ ਵਿਵਸਥਾ">
 <!ENTITY InputName.label "ਖੇਤਰ ਨਾਂ:">
+<!ENTITY InputName.accesskey "N">
 <!ENTITY GroupName.label "ਗਰੁੱਪ ਨਾਂ:">
-<!ENTITY Name.accesskey "N">
+<!ENTITY GroupName.accesskey "N">
 <!ENTITY InputValue.label "ਖੇਤਰ ਮੁੱਲ:">
+<!ENTITY InputValue.accesskey "V">
 <!ENTITY InitialValue.label "ਸ਼ੁਰੂਆਤੀ ਮੁੱਲ:">
-<!ENTITY Value.accesskey "V">
+<!ENTITY InitialValue.accesskey "V">
 <!ENTITY InputChecked.label "ਸ਼ੁਰੂਆਤੀ ਚੈਕ">
 <!ENTITY InputChecked.accesskey "C">
 <!ENTITY InputSelected.label "ਸ਼ੁਰੂਆਤੀ ਚੁਣਿਆ">

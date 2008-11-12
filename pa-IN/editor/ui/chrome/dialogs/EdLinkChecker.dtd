@@ -38,9 +38,6 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label     "ਚਿੱਤਰ ਅਤੇ ਸਬੰਧ ਟਿਕਾਣਾ ਚੁਣੋ">
-<!ENTITY urlsNotFound.label    "ਹੇਠ ਦਿੱਤੇ ਚਿੱਤਰ ਜਾਂ ਸਬੰਧ ਟਿਕਾਣਾ ਨਹੀਂ ਲੱਭਿਆ ਹੈ:">
-<!ENTITY notFoundKey.label     "(&quot;X&quot; = ਫਾਇਲ ਨਹੀਂ ਲੱਭੀ ਹੈ, &quot;?&quot; = ਸੰਪਰਕ ਕਰਨ ਦੌਰਾਨ ਸਮਾਂ ਸਮਾਪਤ)">
-<!ENTITY changeUrlButton.label "ਚੁਣੀ ਇਕਾਈ ਦਾ ਟਿਕਾਣਾ ਵੇਖਾਓ">
 <!ENTITY succeeded.label       "ਸਫ਼ਲ">
 <!ENTITY failed.label          "ਅਸਫ਼ਲ">
 <!ENTITY closeButton.label     "ਬੰਦ ਕਰੋ">

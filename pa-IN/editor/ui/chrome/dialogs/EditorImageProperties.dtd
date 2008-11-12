@@ -26,7 +26,6 @@
 <!ENTITY windowTitle.label "ਚਿੱਤਰ ਵਿਸ਼ੇਸਤਾ">
 
 <!ENTITY pixelsPopup.value "ਪਿਕਸਲ">
-<!ENTITY percentPopup.value "ਪ੍ਰਤੀਸ਼ਤ">
 
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "ਚਿੱਤਰ ਸਥਿਤੀ:">
@@ -42,7 +41,6 @@
 <!ENTITY noAltText.accessKey "D">
 
 <!ENTITY previewBox.label "ਚਿੱਤਰ ਦਰਿਸ਼">
-<!ENTITY MoreFewerButton.tooltip "ਸੋਧ ਕਰਨ ਲਈ ਇੱਕ ਜਾਂ ਵਧੇਰੇ ਦਰਿਸ਼ ਗੁਣ">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
@@ -78,7 +76,6 @@
 
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "ਖਾਲੀ ਥਾਂ">
-<!ENTITY spacingBox.tooltip "ਚਿੱਤਰ ਦੁਆਲੇ ਥਾਂ ਅੰਕ ਦੇ ਰੂਪ ਵਿੱਚ ਦਿਓ">
 <!ENTITY leftRightEditField.label "ਖੱਬੇ ਤੇ ਸੱਜੇ:">
 <!ENTITY leftRightEditField.accessKey "L">
 <!ENTITY topBottomEditField.label "ਉੱਪਰ ਤੇ ਹੇਠਾਂ:">
@@ -90,11 +87,6 @@
 <!ENTITY showImageLinkBorder.label "ਸੰਬੰਧ ਚਿੱਤਰ ਦੁਆਲੇ ਚਿੱਤਰ ਦਿਓ">
 <!ENTITY showImageLinkBorder.accessKey "B">
 
-<!-- These controls may be added some day; currently not used -->
-<!ENTITY makePageBackgroundCheckbox.label "ਸਫੇ ਦੀ ਪਿੱਠਭੂਮੀ ਬਣਾਉ">
-<!ENTITY makePageBackgroundCheckbox.tooltip "ਆਪਣੇ ਸਫੇ ਲਈ ਚਿੱਤਰ ਨੂੰ ਪਿੱਠਭੂਮੀ ਬਣਾਉ">
-<!ENTITY editImageButton.label "ਚਿੱਤਰ ਸੋਧ">
-<!ENTITY editImageButton.tooltip "ਚਿੱਤਰ ਫਾਇਲ ਨੂੰ ਹੋਰ ਕਾਰਜ  ਨਾਲ ਸੋਧੋ">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "ਫਾਰਮ">

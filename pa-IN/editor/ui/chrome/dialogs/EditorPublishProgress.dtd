@@ -43,8 +43,6 @@
 
 <!ENTITY status.label          "ਪ੍ਰਕਾਸ਼ਿਤ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...">
 <!ENTITY fileList.label        "ਪ੍ਰਕਾਸ਼ਨ ਸਥਿਤੀ">
-<!ENTITY statusHeader.label    "ਸਥਿਤੀ">
-<!ENTITY filenameHeader.label  "ਫਾਇਲ ਨਾਂ">
 <!ENTITY succeeded.label       "ਸਫ਼ਲ">
 <!ENTITY failed.label          "ਅਸਫ਼ਲ">
 

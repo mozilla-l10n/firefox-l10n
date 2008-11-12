@@ -37,7 +37,6 @@
 
 <!ENTITY Window.title        "ਤਤਕਰਾ">
 <!ENTITY buildToc.label      "ਇੱਥੋਂ ਤਤਕਰਾ ਬਣਾਓ:">
-<!ENTITY style.label         "ਸ਼ੈਲੀ:">
 <!ENTITY tag.label           "ਟੈਗ:">
 <!ENTITY class.label         "ਕਲਾਸ:">
 <!ENTITY header1.label       "ਪੱਧਰ 1">

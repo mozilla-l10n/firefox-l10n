@@ -32,7 +32,6 @@
 <!ENTITY bulletList.value "ਬਿੰਦੀਆਂ (ਨਾ-ਅੰਕੀ) ਸੂਚੀ">
 <!ENTITY numberList.value "ਅੰਕੀ ਸੂਚੀ">
 <!ENTITY definitionList.value "ਪ੍ਰੀਭਾਸ਼ਾ ਸੂਚੀ">
-<!ENTITY changeListMsg.label "ਜਦੋਂ ਸੂਚੀ ਕਿਸਮ ਤਬਦੀਲ ਕਰਨੀ ਹੋਵੋ:">
 <!ENTITY changeEntireListRadio.label "ਇੰਦਰਾਜ਼ ਸੂਚੀ ਤਬਦੀਲ">
 <!ENTITY changeEntireListRadio.accessKey "C">
 <!ENTITY changeSelectedRadio.label "ਚੁਣੀ ਇਕਾਈ ਤਬਦੀਲ">

@@ -4,14 +4,8 @@
 
 <!--LOCALIZATION NOTE (title.label): DONT_TRANSLATE -->
 <!ENTITY  pref.composer.title           "ਸੰਪਾਦਕ">
-<!ENTITY  saving                    "ਸੰਭਾਲਣਾ">
-<!ENTITY  AutoSaveCheck             "ਇੰਨੇ ਚਿਰ ਬਾਅਦ ਖੁਦ ਹੀ ਸੰਭਾਲੋ">
-<!ENTITY  minText                   "ਮਿੰਟ">
 
-<!ENTITY  exterLegend.label         "ਬਾਹਰੀ ਸੰਪਾਦਕ">
-<!ENTITY  htmlSource                "HTML ਸਰੋਤ:">
-<!ENTITY  imageeditor               "ਚਿੱਤਰ:">
-<!ENTITY  chooseButton.label        "ਚੁਣੋ">
+
 
 <!ENTITY  recentFiles.title         "ਤਾਜ਼ਾ ਪੇਜ਼ ਮੇਨੂ">
 <!ENTITY  documentsInMenu.label     "ਲਿਸਟ ਵਿੱਚ ਵੱਧੋ-ਵੱਧ ਪੇਜ਼ਾਂ ਦੀ ਗਿਣਤੀ:">
@@ -27,8 +21,7 @@
 <!ENTITY  showPublishDialog.accesskey   "A">
 
 <!ENTITY  composerEditing.label         "ਸੰਪਾਦਨ">
-<!ENTITY  spellCheckInline.label        "ਜਿਵੇਂ ਹੀ ਤੁਸੀਂ ਲਿਖੋ, ਸ਼ਬਦ-ਜੋੜ ਜਾਂਚ ਕਰੋ">
-<!ENTITY  spellCheckInline.accesskey    "C">
+
 <!ENTITY  maintainStructure.label       "ਸੈਲਾਂ ਨੂੰ ਸ਼ਾਮਿਲ ਜਾਂ ਹਟਾਉਣ ਸਮੇਂ ਟੇਬਲ ਲੇਆਉਟ ਦੇ ਧਿਆਨ ਰੱਖੋ">
 <!ENTITY  maintainStructure.tooltip     "ਸੈਲਾਂ ਨੂੰ ਸ਼ਾਮਿਲ ਜਾਂ ਹਟਾਉਣ ਸਮੇਂ ਆਟੋਮੈਟਿਕ ਹੀ ਟੇਬਲ ਦੀ ਚੁਭੁਜੀ ਸ਼ਕਲ ਦਾ ਧਿਆਨ ਰੱਕੋ">
 <!ENTITY  maintainStructure.accesskey   "M">

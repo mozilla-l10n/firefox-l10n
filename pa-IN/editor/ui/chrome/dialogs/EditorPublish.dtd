@@ -72,10 +72,8 @@
 <!ENTITY filename.accesskey           "F">
 <!ENTITY filename.tooltip         "ਇਸ ਫਾਇਲ ਲਈ ਨਾਂ ਦਿਓ, ਵੈਬ ਸਫ਼ੇ ਲਈ '.html' ਸਮੇਤ">
 <!ENTITY filenameExample.label    "ਜਿਵੇਂ ਕਿ,: &quot;mypage.html&quot;">
-<!ENTITY relatedDocs.label        "ਪਬਲਿਸ਼ ਕਰਨ ਲਈ ਹੋਰ ਫਾਇਲਾਂ">
 <!ENTITY setDefaultButton.label   "ਡਿਫਾਲਟ ਦੇ ਤੌਰ 'ਤੇ ਵਰਤੋਂ">
 <!ENTITY setDefaultButton.accesskey   "D">
-<!ENTITY setDefSiteAndDir.label   "ਡਿਫਾਲਟ ਸਾਇਟ ਅਤੇ ਡਾਇਰੈਕਟਰੀ ਵਾਂਗ ਦਿਓ">
 <!ENTITY removeButton.label       "ਸਾਇਟ ਹਟਾਓ">
 <!ENTITY removeButton.accesskey       "R">
 

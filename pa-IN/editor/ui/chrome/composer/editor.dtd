@@ -37,28 +37,29 @@
 
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY editorWindow.titlemodifier "ਸੰਪਾਦਕ"> 
+<!ENTITY editorWindow.titlemodifier "Composer"> 
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- View menu items -->
-<!ENTITY viewMenu.label "ਵੇਖੋ">
-<!ENTITY viewmenu.accesskey "v">
-<!ENTITY compositionToolbarCmd.label "ਸੰਪਾਦਨ ਸੰਦ-ਪੱਟੀ">
-<!ENTITY compositiontb.accesskey "c">
-<!ENTITY formattingToolbarCmd.label "ਫਾਰਮੈਟ ਸੰਦ-ਪੱਟੀ">
-<!ENTITY formattingtb.accesskey "f">
-<!ENTITY editmodeToolbarCmd.label "ਢੰਗ ਸੰਦ-ਪੱਟੀ ਸੋਧ">
-<!ENTITY editmodetb.accesskey "E">
-<!-- Format menu items -->
-<!ENTITY formatMenu.label "ਫਾਰਮੈਟ">
-<!ENTITY formatmenu.accesskey "o">
+<!ENTITY viewMenu.label "View">
+<!ENTITY viewMenu.accesskey "V">
+<!ENTITY compositionToolbarCmd.label "Composition Toolbar">
+<!ENTITY compositionToolbarCmd.accesskey "C">
+<!ENTITY formattingToolbarCmd.label "Format Toolbar">
+<!ENTITY formattingToolbarCmd.accesskey "F">
+<!ENTITY editmodeToolbarCmd.label "Edit Mode Toolbar">
+<!ENTITY editmodeToolbarCmd.accesskey "E">
 
-<!ENTITY helpMenu.label "ਸਹਾਇਤਾ">
-<!ENTITY aboutCmd.label "ਇਸ ਬਾਰੇ">
+<!-- Format menu items -->
+<!ENTITY formatMenu.label "Format">
+<!ENTITY formatMenu.accesskey "o">
+
+<!ENTITY helpMenu.label "Help">
+<!ENTITY aboutCmd.label ".About">
 
 <!-- Display Mode Toolbar -->
-<!ENTITY editMode.label "ਸੋਧ ਢੰਗ:">
+<!ENTITY editMode.label "Edit Mode:">
 
-<!ENTITY statusText.label "ਸਫ਼ਾ ਲੋਡ ਹੋਇਆ">
+<!ENTITY statusText.label "Done loading page">
