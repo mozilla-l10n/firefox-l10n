@@ -56,10 +56,6 @@
 <!ENTITY formatMenu.label "تنسيق">
 <!ENTITY formatMenu.accesskey "ق">
 
-<!ENTITY helpMenu.label "مساعدة">
-<!ENTITY aboutCmd.label ".حوْل">
 
 <!-- Display Mode Toolbar -->
-<!ENTITY editMode.label "نمط التحرير:">
 
-<!ENTITY statusText.label "انتهى تحميل الصفحة">

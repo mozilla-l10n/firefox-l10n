@@ -38,9 +38,6 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label     "تحقق من مواقع الصور والروابط">
-<!ENTITY urlsNotFound.label    "لم يتم العثور على مواقع الصور أو الروابط التالية:">
-<!ENTITY notFoundKey.label     "(&quot;X&quot; = الملف غير موجود، &quot;?&quot; = انتهى الزمن الأقصى لمحاولة الاتصال.)">
-<!ENTITY changeUrlButton.label "غيِّر موقع العنصر المختار">
 <!ENTITY succeeded.label       "نجح">
 <!ENTITY failed.label          "فشل">
 <!ENTITY closeButton.label     "أغلِق">

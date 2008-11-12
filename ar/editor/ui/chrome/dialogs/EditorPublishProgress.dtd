@@ -43,8 +43,6 @@
 
 <!ENTITY status.label          "يجري النشر…">
 <!ENTITY fileList.label        "حالة النشر">
-<!ENTITY statusHeader.label    "الحالة">
-<!ENTITY filenameHeader.label  "اسم الملف">
 <!ENTITY succeeded.label       "نجح">
 <!ENTITY failed.label          "فشل">
 

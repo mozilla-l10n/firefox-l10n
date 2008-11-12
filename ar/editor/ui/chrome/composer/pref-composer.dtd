@@ -5,15 +5,6 @@
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
 <!ENTITY  pref.composer.title           "Composer">
 
-<!ENTITY  saving                        "يجري الحفظ">
-<!ENTITY  AutoSaveCheck                 "احفظ تلقائياً كل">
-<!ENTITY  minText                       "دقائق/دقيقة">
-
-<!ENTITY  exterLegend.label             "محرّرون خارجيون">
-<!ENTITY  htmlSource                    "مصدر HTML:">
-<!ENTITY  imageeditor                   "صور:">
-<!ENTITY  chooseButton.label            "اختر">
-
 <!ENTITY  recentFiles.title             "قائمة الصفحات الحديثة">
 <!ENTITY  documentsInMenu.label         "العدد الأقصى للصفحات المسرودة:">
 <!ENTITY  documentsInMenu.accesskey     "ع">
@@ -28,8 +19,6 @@
 <!ENTITY  showPublishDialog.accesskey   "ئ">
 
 <!ENTITY  composerEditing.label         "يجري التحرير">
-<!ENTITY  spellCheckInline.label        "أجرٍ تدقيقاً إملائياً أثناء الكتابة">
-<!ENTITY  spellCheckInline.accesskey    "م">
 <!ENTITY  maintainStructure.label       "حافظ على تخطيط الجدول عند إضافة أو إزالة الخلايا">
 <!ENTITY  maintainStructure.tooltip     "يبقي على شكل الجدول المستطيل عن طريق الإضافة التلقائية للخلايا عند إدراج أو حذف الخلايا">
 <!ENTITY  maintainStructure.accesskey   "ي">

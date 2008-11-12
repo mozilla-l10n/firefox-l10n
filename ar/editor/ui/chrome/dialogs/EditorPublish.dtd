@@ -72,10 +72,8 @@
 <!ENTITY filename.accesskey           "ل">
 <!ENTITY filename.tooltip             "أدخِل اسماً لهذا الملف، مع إضافة ال '.html' لصفحة الوب">
 <!ENTITY filenameExample.label        "مثال: &quot;صفحتي.html&quot;">
-<!ENTITY relatedDocs.label            "ملفات أخرى للنشر">
 <!ENTITY setDefaultButton.label       "اجعله افتراضياً">
 <!ENTITY setDefaultButton.accesskey   "ض">
-<!ENTITY setDefSiteAndDir.label       "لضبط الموقع والمجلد الافتراضيين">
 <!ENTITY removeButton.label           "أزِل الموقع">
 <!ENTITY removeButton.accesskey       "ز">
 

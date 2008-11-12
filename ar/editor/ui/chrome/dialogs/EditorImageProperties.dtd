@@ -41,7 +41,6 @@
 <!ENTITY windowTitle.label "خصائص الصورة">
 
 <!ENTITY pixelsPopup.value "عنصورات">
-<!ENTITY percentPopup.value "نسبة">
 <!-- These are in the Location tab panel -->
 
 <!ENTITY locationEditField.label "مكان الصورة:">
@@ -57,7 +56,6 @@
 <!ENTITY noAltText.accessKey "ل">
 
 <!ENTITY previewBox.label "معاينة الصورة">
-<!ENTITY MoreFewerButton.tooltip "اعرض خصائص أكثر أو أقل لتحريرها">
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 
@@ -80,8 +78,6 @@
 <!ENTITY imagemapBox.label "خريطة الصورة">
 <!ENTITY removeImageMapButton.label "احذف">
 <!ENTITY removeImageMapButton.accessKey "ح">
-<!ENTITY editImageMapButton.label "حرر…">
-<!ENTITY editImageMapButton.tooltip "أنشئ بقعة نشطة قابلة للنقر على هذه الصورة">
 <!-- These are the options for image alignment -->
 
 <!ENTITY alignment.label "حاذِ النص إلى الصورة">
@@ -93,7 +89,6 @@
 <!-- These controls are in the Spacing Box -->
 
 <!ENTITY spacingBox.label "التباعد">
-<!ENTITY spacingBox.tooltip "اكتب رقما لمقدار الفراغ حول الصورة">
 <!ENTITY leftRightEditField.label "يمينًا ويسارًا:">
 <!ENTITY leftRightEditField.accessKey "م">
 <!ENTITY topBottomEditField.label "قمة وقاع:">
@@ -106,10 +101,8 @@
 <!ENTITY showImageLinkBorder.accessKey "ح">
 <!-- These controls may be added some day; currently not used -->
 
-<!ENTITY makePageBackgroundCheckbox.label "اصنع خلفية الصفحة">
-<!ENTITY makePageBackgroundCheckbox.tooltip "استخدم صورة كخلفية لصفحتك">
-<!ENTITY editImageButton.label "حرر الصورة">
-<!ENTITY editImageButton.tooltip "حرر ملف الصورة ببرمجية أخرى">
+<!ENTITY editImageMapButton.label "حرر...">
+<!ENTITY editImageMapButton.tooltip "أنشئ بقعاً ساخنة قابلة للنقر في هذه الصورة">
 <!-- These tabs are currently used in the image input dialog -->
 
 <!ENTITY imageInputTab.label "مِن">

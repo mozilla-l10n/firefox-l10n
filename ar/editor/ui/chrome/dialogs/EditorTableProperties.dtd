@@ -69,7 +69,6 @@
 <!ENTITY tableCaptionNone.label "لا شيء">
 <!ENTITY tableInheritColor.label "(أظهر ألوان الصفحة من خلاله)">
 
-<!ENTITY cellPercent.label "النسبة من الجدول">
 <!ENTITY cellSelection.label "التحديد">
 <!ENTITY cellSelectCell.label "خلية">
 <!ENTITY cellSelectRow.label "صف">
@@ -78,12 +77,8 @@
 <!ENTITY cellSelectNext.accessKey "ت">
 <!ENTITY cellSelectPrevious.label "السابق">
 <!ENTITY cellSelectPrevious.accessKey "س">
-<!ENTITY cellApplyBeforeMove.label "طبق التغيرات قبل تغيير التحديد">
-<!ENTITY cellKeepCurrentData.label "احفظ الإعدادات الحالية">
 <!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
 <!ENTITY applyBeforeChange.label          "ستُطبّق التغييرات الحالية قبل تغيير التحديد.">
-<!ENTITY cellRowSpan.label "اتساع الصف:">
-<!ENTITY cellColSpan.label "اتساع العمود:">
 <!ENTITY cellContentAlignment.label "محاذاة المحتوى">
 <!ENTITY cellHorizontal.label "أفقية:">
 <!ENTITY cellHorizontal.accessKey "ف">
@@ -101,7 +96,6 @@
 <!ENTITY cellAlignMiddle.label "وسط">
 <!ENTITY cellAlignBottom.label "قاع">
 <!ENTITY cellAlignJustify.label "ساوِ">
-<!ENTITY cellAlignAtChar.label "عند المحرف:">
 <!ENTITY cellInheritColor.label "(اجعل لون الجدول شفافا)">
 <!ENTITY cellUseCheckboxHelp.label "استخدم صناديق الاختيار لتحديد أي الخصائص ستطبق على كل الخلايا المحددة">
 <!-- Used in both Table and Cell panels  -->

@@ -47,7 +47,6 @@
 <!ENTITY bulletList.value "قائمة نقطية (غير مرقمة)">
 <!ENTITY numberList.value "قائمة مرقمة">
 <!ENTITY definitionList.value "قائمة تعريف">
-<!ENTITY changeListMsg.label "عند تغيير نوع القائمة:">
 <!ENTITY changeEntireListRadio.label "غيّر كل القائمة">
 <!ENTITY changeEntireListRadio.accessKey "غ">
 <!ENTITY changeSelectedRadio.label "غيّر العناصر المحددة فقط">

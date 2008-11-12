@@ -79,12 +79,9 @@
 <!ENTITY sendPageCmd.accesskey "ل">
 <!ENTITY printSetupCmd.label "إعداد الصفحة …">
 <!ENTITY printSetupCmd.accesskey "ح">
-<!ENTITY printPreviewCmd.label "معاينة الطباعة">
-<!ENTITY printPreviewCmd.accesskey "ع">
 <!ENTITY printCmd.label "اطبع…">
 <!ENTITY printCmd.accesskey "ط">
 <!ENTITY printCmd.key "P">
-<!ENTITY printButtonCmd.label "اطبع…">
 <!ENTITY closeCmd.label "أغلق">
 <!ENTITY closeCmd.accesskey "غ">
 <!ENTITY closeCmd.key "W">
@@ -102,26 +99,12 @@
 <!-- For a "Paste" submenu when more than 1 
      clipboard formats are available -->
 
-<!ENTITY pasteHTMLCmd.label "HTML">
-<!ENTITY pasteHTMLCmd.accesskey "H">
-<!ENTITY pasteTextCmd.label "نص">
-<!ENTITY pasteTextCmd.accesskey "ن">
-<!ENTITY pasteImageCmd.label "صورة">
-<!ENTITY pasteImageCmd.accesskey "ص">
-<!ENTITY pasteRowsCmd.label "صفوف">
-<!ENTITY pasteRowsCmd.accesskey "ف">
-<!ENTITY pasteColumnsCmd.label "أعمدة">
-<!ENTITY pasteColumnsCmd.accesskey "ع">
+
 <!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
      Set to: "Table" or "Nested Table" depending on context 
      This accesskey must be in both strings -->
-<!ENTITY pasteTableCmd.accesskey "ج">
-<!ENTITY pasteLinkCmd.label "رابط">
-<!ENTITY pasteLinkCmd.accesskey "ر">
 <!ENTITY pasteAsQuotationCmd.label "ألصق كاقتباس">
 <!ENTITY pasteAsQuotationCmd.accesskey "ت">
-<!ENTITY editStripQuotesCmd.label "انزع الاقتباسات">
-<!ENTITY editRewrapCmd.label "أعِد التسطير">
 <!ENTITY findCmd.label "ابحث و استبدل…">
 <!ENTITY findCmd.accesskey "ث">
 <!ENTITY findCmd.key "F">
@@ -141,13 +124,8 @@
 <!ENTITY checkSpellingCmd.key "K">
 <!ENTITY validateCmd.label "صدّق HTML">
 <!ENTITY validateCmd.accesskey "ص">
-<!ENTITY checkLinksCmd.label "افحص الروابط">
 <!-- View menu items -->
 
-<!ENTITY viewPageSource.label "مصدر الصفحة">
-<!ENTITY viewPageSource.accesskey "ص">
-<!ENTITY viewParagraphMarks.label "علامات الفقرات ">
-<!ENTITY viewParagraphMarks.accesskey "ع">
 <!-- Insert menu items -->
 
 <!ENTITY insertMenu.label "أدرج">
@@ -159,41 +137,18 @@
 <!ENTITY insertAnchorCmd.accesskey "ر">
 <!ENTITY insertImageCmd.label "صورة…">
 <!ENTITY insertImageCmd.accesskey "ص">
-<!ENTITY insertImageMapCmd.label "خريطة صورة…">
 <!ENTITY insertHLineCmd.label "خط أفقي">
 <!ENTITY insertHLineCmd.accesskey "ف">
 <!ENTITY insertTableCmd.label "جدول…">
 <!ENTITY insertTableCmd.accesskey "ج">
-<!ENTITY insertFormMenu.label "استمارة">
-<!ENTITY insertFormMenu.accesskey "ت">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "h">
 <!ENTITY insertCharsCmd.label "محارف ورموز…">
 <!ENTITY insertCharsCmd.accesskey "ح">
-<!ENTITY insertBreakCmd.label "نهاية السطر">
-<!ENTITY insertBreakCmd.accesskey "ن">
 <!ENTITY insertBreakAllCmd.label "اقطع تحت الصور">
 <!ENTITY insertBreakAllCmd.accesskey "ق">
 <!-- Insert form menu items -->
 
-<!ENTITY insertFormCmd.label "عرّف استمارة…">
-<!ENTITY insertFormCmd.accesskey "ع">
-<!ENTITY insertInputTagCmd.label "حقل الاستمارة…">
-<!ENTITY insertInputTagCmd.accesskey "ق">
-<!ENTITY insertInputImageCmd.label "صورة الاستمارة…">
-<!ENTITY insertInputImageCmd.accesskey "ص">
-<!ENTITY insertTextAreaCmd.label "منطقة النص…">
-<!ENTITY insertTextAreaCmd.accesskey "ن">
-<!ENTITY insertSelectCmd.label "قائمة الاختيار…">
-<!ENTITY insertSelectCmd.accesskey "خ">
-<!ENTITY insertButtonCmd.label "عرّف زرا…">
-<!ENTITY insertButtonCmd.accesskey "ز">
-<!ENTITY insertLabelCmd.label "عرّف تسمية">
-<!ENTITY insertLabelCmd.accesskey "س">
-<!ENTITY insertFieldSetCmd.label "عرّف مجموعة حقول…">
-<!ENTITY insertFieldSetCmd.accesskey "ج">
-<!ENTITY insertIsIndexCmd.label "بحث الفهرس">
-<!ENTITY insertIsIndexCmd.accesskey "ه">
 <!-- Used just in context popup. -->
 
 <!ENTITY spellCheckNoSuggestions.label "(لا توجد اقتراحات)">
@@ -238,8 +193,6 @@
 <!ENTITY fontTimes.accesskey "t">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "c">
-<!ENTITY localfontfaceMenu.label "الخطوط المحلية">
-<!ENTITY localfontfaceMenu.accesskey "م">
 <!-- Font Size SubMenu -->
 
 <!ENTITY FontSizeSelect.tooltip "اختر حجم الخط">
@@ -362,17 +315,7 @@
 <!ENTITY advancedPropertiesCmd.label "خصائص متقدمة">
 <!ENTITY advancedPropertiesCmd.accesskey "د">
 
-<!ENTITY NormalAbbr.label "ن">
-<!ENTITY ParagraphAbbr.label "ف">
-<!ENTITY Heading1Abbr.label "ر1">
-<!ENTITY Heading2Abbr.label "ر2">
-<!ENTITY Heading3Abbr.label "ر3">
-<!ENTITY Heading4Abbr.label "ر4">
-<!ENTITY Heading5Abbr.label "ر5">
-<!ENTITY Heading6Abbr.label "ر6">
-<!ENTITY BlockquoteAbbr.label "اف">
-<!ENTITY AddressAbbr.label "عنوان">
-<!ENTITY PreformatAbbr.label "قبل.">
+
 <!-- Style Sheet submenu NOT IMPLEMENTED -->
 
 <!-- Align menu items -->
@@ -463,8 +406,6 @@
 <!ENTITY tableDeleteMenu.label "احذف">
 <!ENTITY tableDeleteMenu.accesskey "ح">
 
-<!ENTITY tableFix.label "أصلح تخطيط الجدول">
-<!ENTITY tableFix.accesskey "ص">
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
@@ -510,7 +451,6 @@
 <!ENTITY linkToolbarCmd.tooltip "أدرج رابطا جديدا أو حرر خصائص الرابط المختار">
 <!ENTITY anchorToolbarCmd.label "مربط">
 <!ENTITY anchorToolbarCmd.tooltip "أدرج مربطا مسمىً جديدا أو حرر خصائص المربط المختار">
-<!ENTITY textColorCaption.label "لون النص">
 <!ENTITY TextColorButton.tooltip "اختر لون النص">
 <!ENTITY BackgroundColorButton.tooltip "اختر لون الخلفية">
 <!ENTITY throbber.tooltip "اذهب إلي صفحة &vendorShortName; الرئيسية">
@@ -534,15 +474,8 @@
 <!ENTITY alignjustifyButton.tooltip "حاذِ النص قبالة الهامشين الأيسر و الأيمن">
 <!-- Formatting toolbar not used, but may be in future -->
 
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
 <!-- Used with color pickers in Format toolbar and Format Menu -->
 
-<!ENTITY colorPicker.default.label "ألوان القارئ المبدئية">
-<!ENTITY colorPicker.default.accesskey "ق">
-<!ENTITY colorLabel.label "اللون:">
-<!ENTITY ok.label "موافق">
 <!-- Display Mode toolbar and View menu items -->
 
 <!ENTITY NormalModeTab.label "عادي">

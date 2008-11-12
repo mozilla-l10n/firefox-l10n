@@ -82,7 +82,6 @@
 
 <!ENTITY zoominCmd.label "كبِّر">
 <!ENTITY zoomoutCmd.label "صغِّر">
-<!ENTITY delSpotCmd.label "احذف البقعة">
 
 <!-- Keys -->
 <!ENTITY clear.key "d">

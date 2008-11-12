@@ -37,7 +37,6 @@
 
 <!ENTITY Window.title "جدول المحتويات">
 <!ENTITY buildToc.label "انشئ جدول محتويات من:">
-<!ENTITY style.label "الطراز:">
 <!ENTITY tag.label "وسم:">
 <!ENTITY class.label "فئة:">
 <!ENTITY header1.label "المستوى 1">
