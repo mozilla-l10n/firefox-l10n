@@ -82,6 +82,7 @@
 <!ENTITY calendar.displaytodos.checkbox.accesskey "V">
 <!ENTITY calendar.displaytodos.checkbox.label "מטלות בתצוגה">
 <!ENTITY calendar.edit.button.label "ערוך">
+<!ENTITY calendar.print.button.label            "הדפס" >
 <!ENTITY calendar.edit.button.tooltip "ערוך את האירוע שנבחר">
 <!--###ENTITY calendar.events.filter.2weeks.label "אירועים בשבועיים הבאים"-->
 <!ENTITY calendar.events.filter.all.label "כל האירועים">
@@ -175,7 +176,7 @@
 <!--###ENTITY calendar.print.onlyitemsstatus.label "הדפס פריטים במצב הבא בלבד:"-->
 <!--###ENTITY calendar.print.selectoptions.label 'בחר את האפשרויות שלך, ולחץ "אישור" להדפסה'-->
 <!--###ENTITY calendar.print.selectviews.label "בחר תצוגה להדפסה"-->
-<!--###ENTITY calendar.print.window.title "הדפס יומן"-->
+<!ENTITY calendar.print.window.title "הדפס יומן">
 <!ENTITY calendar.publish.button.label "פרסם">
 <!ENTITY calendar.publish.button.tooltip "פרסם אירועים במכונה מרוחקת.">
 <!ENTITY calendar.publish.close.button "סגור">
@@ -526,7 +527,7 @@ http://www.mozilla.org/projects/calendar/caldata/CanadaHolidays.ics"-->
 Close event search and event list">
 <!ENTITY calendar.unifinder.showcompletedtodos.label "הצג משימוש שהושלמו">
 <!ENTITY calendar.unifinder.tree.calendarname.label  "שם לוח שנה">
-<!-- ### #!# ENTITY calendar.unifinder.tree.duration.label      "Due in" -->
+<!ENTITY calendar.unifinder.tree.duration.label      "יתקיים בעוד">
 <!ENTITY calendar.week.button.label             "שבוע" >
 <!ENTITY calendar.week.button.tooltip           "מעבר לתצוגה שבועית" >
 <!ENTITY calendar.weekView.key                 "2" >
