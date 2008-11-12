@@ -31,24 +31,17 @@
 
 <!ENTITY emailLabel.label "Adresse électronique :">
 <!ENTITY emailLabel.accesskey "A">
-<!ENTITY emailDesc.label "Saisissez votre adresse électronique ; c'est à celle-ci que vos correspondants pourront vous envoyer des messages.">
-<!-- LOCALIZATION NOTE (emailExample.label) : do not translate "user@example.net" in below line -->
-<!ENTITY emailExample.label "(par exemple : utilisateur@exemple.fr).">
 
 <!-- Entities for Server page -->
 
 <!ENTITY serverTitle.label "Information sur le serveur">
-<!ENTITY incomingServerTitle.label "Serveur de réception">
 <!ENTITY incomingServerTypeDesc.label "Sélectionnez le type du serveur de réception.">
-<!ENTITY incomingServerTypeLabel.label "Type du serveur :">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServerNameDesc.label "Saisissez le nom du serveur de réception (par exemple, « pop.exemple.fr »).">
 <!ENTITY incomingServerLabel.label "Nom du serveur :">
 <!ENTITY incomingServerLabel.accesskey "N">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Saisissez le nom de votre serveur de groupes (NNTP) (par exemple, « forums.exemple.fr »).">
-<!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
-<!ENTITY smtpServerTitle.label "Serveur d'envoi (SMTP)">
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY smtpServerDesc.label "Saisissez le nom du serveur d'envoi (SMTP) (par exemple, « smtp.exemple.fr »).">
 <!ENTITY smtpServerLabel.label "Nom du serveur :">
@@ -61,13 +54,6 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY nntpType.label "Serveur de groupes">
-
-<!-- for when the user has an SMTP server pre-configured -->
-<!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
-     this variable. Also, translate currentSmtpBefore.label and currentSmtpAfter.label as a single sentence,
-	  inserting text after the "&quot;" entity in currentSmtpAfter.label, if required grammatically
--->
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
@@ -104,7 +90,6 @@
 <!ENTITY accnameTitle.label "Nom du compte ">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Saisissez le nom avec lequel vous souhaitez vous référer à ce compte (par exemple « Compte Travail », « Compte personnel » ou « Compte Groupes »).">
-<!ENTITY accnameExample.label "Par exemple Compte Travail, Compte personnel ou Compte Groupes">
 <!ENTITY accnameLabel.label "Nom du compte :">
 <!ENTITY accnameLabel.accesskey "c">
 

@@ -36,7 +36,6 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY pref.formatting.title "Format d'expédition">
-<!ENTITY sendMail.label "Format d'expédition">
 <!ENTITY sendMaildesc.label "Lors de l'expédition d'un courrier en HTML à un destinataire ne figurant pas dans la liste de ceux pouvant recevoir du HTML :">
 <!ENTITY askMe.label "Me consulter si le document contient du HTML">
 <!ENTITY askMe.accesskey "M">
@@ -47,7 +46,6 @@
 <!ENTITY sendBoth.label "Envoyer au format texte et HTML">
 <!ENTITY sendBoth.accesskey "n">
 <!ENTITY override.label "Vous pouvez forcer ces paramètres lors de l'envoi de chaque message dans le menu Préférences de la fenêtre de composition.">
-<!ENTITY receiveHTML.label "Si vous savez qu'un destinataire peut recevoir du courrier en HTML, alors ne cochez pas la case 'Envoyer en texte simple (pas de HTML)' dans la fiche correspondante du carnet d'adresses.">
 
 <!-- Html and Plain Text Domains  -->
 <!ENTITY domain.title "Domaines HTML et texte simple">

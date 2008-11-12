@@ -53,5 +53,3 @@
 <!ENTITY directoriesNone.label                 "Aucun">
 <!ENTITY editDirectories.label                 "Modifier les annuaires…">
 <!ENTITY editDirectories.accesskey             "M">
-<!ENTITY matchText.label                       "S'il y a une correspondance dans votre carnet d'adresses local :">
-<!ENTITY skipDirectory.label                   "Ne pas chercher dans l'annuaire">

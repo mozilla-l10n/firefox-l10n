@@ -53,8 +53,6 @@
 <!ENTITY fontPlainText.label "Police :">
 <!ENTITY fontPlainText.accesskey "P">
 <!ENTITY displayQuoted.label "Paramètres d'affichage du texte simple cité :">
-<!ENTITY readingMessagesHeader.label "Pour les messages qui arrivent">
-<!ENTITY messageWrapping.label "Message Wrapping">
 <!ENTITY wrapInMsg.label "Reformatage des messages">
 <!ENTITY wrapInMsg.accesskey "e">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->

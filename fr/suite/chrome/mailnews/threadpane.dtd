@@ -47,7 +47,6 @@
 <!ENTITY statusColumn.label "État">
 <!ENTITY sizeColumn.label "Taille">
 <!ENTITY junkStatusColumn.label "Statut indésirable">
-<!ENTITY linesColumn.label "Lignes">
 <!ENTITY unreadColumn.label "Non lus dans la discussion">
 <!ENTITY totalColumn.label "Total dans la discussion">
 <!ENTITY readColumn.label "Lu">
