@@ -3,9 +3,6 @@
 <!ENTITY securityMenu.label "Sicherheit">
 <!ENTITY securityMenu.accesskey "S">
 
-<!ENTITY menu_securityEncryptIfPossible.label "Verschlüsseln, wenn möglich">
-<!ENTITY menu_securityEncryptIfPossible.accesskey "V">
-
 <!ENTITY menu_securityEncryptRequire.label "Diese Nachricht verschlüsseln">
 <!ENTITY menu_securityEncryptRequire.accesskey "D">
 

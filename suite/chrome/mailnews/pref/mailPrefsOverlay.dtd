@@ -17,7 +17,6 @@
 <!ENTITY composingMessages.label          "Verfassen">
 <!ENTITY format.label                     "Sendeformat">
 <!ENTITY return.label                     "Empfangsbestätigungen">
-<!ENTITY disk.label                       "Speicherplatz">
 <!ENTITY junk.label                       "Junk-Mail">
 <!ENTITY tags.label                       "Tags">
 <!ENTITY characterEncoding.label          "Zeichensatz">

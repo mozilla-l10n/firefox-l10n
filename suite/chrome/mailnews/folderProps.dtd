@@ -52,13 +52,8 @@
 <!ENTITY retention.label "Regeln für Lebensdauer">
 <!ENTITY retentionUseDefault.label "Server-Standards verwenden">
 <!ENTITY retentionUseDefault.accesskey "S">
-<!ENTITY days.label "Tage eingetroffen sind">
 <!ENTITY daysOld.label "Tage sind">
 <!ENTITY message.label "Nachrichten">
-<!ENTITY retentionNotDownloadRead.label "Gelesene Nachrichten">
-<!ENTITY retentionNotDownloadRead.accesskey "G">
-<!ENTITY retentionDownloadMsg.label "Nachrichten, die älter sind als">
-<!ENTITY retentionDownloadMsg.accesskey "N">
 <!ENTITY retentionCleanup.label "Behalten:">
 <!ENTITY retentionDeleteMsg.label "Nachrichten löschen, die älter sind als">
 <!ENTITY retentionDeleteMsg.accesskey "c">
@@ -80,18 +75,15 @@
 
 <!ENTITY selectofflineNewsgroup.check.label      "Diese Newsgroup für Offline-Gebrauch auswählen">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "D">
-<!ENTITY UseDefaultofflineNewsgroup.check.label  "Standard aus Account-Einstellungen verwenden">
 <!ENTITY offlineNewsgroup.button.label           "Jetzt herunterladen">
 <!ENTITY offlineNewsgroup.button.accesskey       "J">
 
-<!ENTITY folderProps.information.label           "Informationen:">
 <!ENTITY folderProps.name.label                  "Name:">
 <!ENTITY folderProps.name.accesskey              "N">
 <!ENTITY folderProps.location.label              "Adresse:">
 <!ENTITY folderProps.location.accesskey          "A">
 
 <!ENTITY folderSharingTab.label                  "Freigabe">
-<!ENTITY privilegesDesc.label                    "Diesen Ordner für Netzwerkbenutzer freigeben und Berechtigungen setzen">
 <!ENTITY privileges.button.label                 "Berechtigungen…">
 <!ENTITY privileges.button.accesskey             "B">
 <!ENTITY permissionsDesc.label                   "Sie haben folgende Berechtigungen:">

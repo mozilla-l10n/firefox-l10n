@@ -3,7 +3,6 @@
 <!ENTITY accountTitle.label "Account-Einstellungen">
 <!ENTITY accountName.label "Account-Name:">
 <!ENTITY accountName.accesskey "A">
-<!ENTITY accountNameDesc.label "Der Account-Name identifiziert jeden Account">
 <!ENTITY identityTitle.label "Standard-Identität">
 <!ENTITY identityDesc.label "Jeder Account hat eine Identität. Diese Informationen sehen andere Personen, wenn sie Ihre Nachrichten lesen.">
 <!ENTITY name.label "Ihr Name:">
@@ -16,7 +15,6 @@
 <!ENTITY organization.accesskey "O">
 <!ENTITY signature.label "Diese Signatur anhängen:">
 <!ENTITY signature.accesskey "D">
-<!ENTITY edit.label "Bearbeiten…">
 <!ENTITY choose.label "Durchsuchen…">
 <!ENTITY choose.accesskey "D">
 <!ENTITY editVCard.label "Karte bearbeiten…">
