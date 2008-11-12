@@ -46,9 +46,6 @@
 <!ENTITY ListDescription.label "Description :">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label "Saisissez les adresses à ajouter à la liste de diffusion :">
-<!ENTITY RemoveButton.label "Supprimer">
-<!ENTITY UpButton.label "Vers le haut">
-<!ENTITY DownButton.label "Vers le bas">
 
 <!-- Access Keys -->
 <!ENTITY addToAddressBook.accesskey "A">
