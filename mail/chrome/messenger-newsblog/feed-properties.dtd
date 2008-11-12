@@ -1,0 +1,19 @@
+<!-- Feed Properties Dialog -->
+<!ENTITY window.title           "Uudistevoo omadused">
+
+<!ENTITY feedFolder.label       "Uudised salvestatakse kausta:">
+<!ENTITY feedFolder.accesskey   "U">
+
+<!ENTITY feedLocation.label     "Uudistevoo aadress:">
+<!ENTITY feedLocation.accesskey "d">
+
+<!ENTITY choosethisfolder.label "vali see kaust">
+
+<!ENTITY quickMode.label        "Kuvatakse uudise kokkuvõtet, mitte tervet veebilehte">
+<!ENTITY quickMode.accesskey    "v">
+
+<!ENTITY copyLinkCmd.label      "Kopeeri lingi aadress">
+<!ENTITY copyLinkCmd.accesskey  "G">
+
+<!ENTITY pasteLinkCmd.label     "Aseta">
+<!ENTITY pasteLinkCmd.accesskey "A">

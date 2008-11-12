@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY newsBlogSubscriptions.label "RSS uudistevoogude tellimused">
+<!ENTITY subscriptionDesc.label      "Märkus: uudistevoo kausta eemaldamisel või muutmisel ei rakendu need muudatused varem tõmmatud uudistele.">
+<!ENTITY feedTitle.label             "Pealkiri:">
+<!ENTITY location.label              "Aadress:">
+
+<!ENTITY button.addFeed.label        "Lisa">
+<!ENTITY button.addFeed.accesskey    "L">
+<!ENTITY button.editFeed.label       "Redigeeri">
+<!ENTITY button.editFeed.accesskey   "R">
+<!ENTITY button.removeFeed.label     "Eemalda">
+<!ENTITY button.removeFeed.accesskey "E">
+<!ENTITY button.importOPML.label     "Impordi">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label     "Ekspordi">
+<!ENTITY button.exportOPML.accesskey "k">
+
+<!ENTITY cmd.close.commandKey        "w">
