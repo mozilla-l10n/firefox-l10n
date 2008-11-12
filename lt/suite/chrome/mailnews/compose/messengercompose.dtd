@@ -59,7 +59,6 @@
 <!ENTITY attachMenu.label "Pridėti">
 <!ENTITY attachMenu.accesskey "d">
 <!ENTITY attachFileCmd.label "failą(-us)…">
-<!ENTITY attachFileCmd.key "">
 <!ENTITY attachFileCmd.accesskey "f">
 <!ENTITY attachPageCmd.label "tinklalapį…">
 <!ENTITY attachPageCmd.accesskey "t">
@@ -77,7 +76,6 @@
 <!ENTITY printCmd.label "Spausdinti…">
 <!ENTITY printCmd.key "p">
 <!ENTITY printCmd.accesskey "S">
-<!ENTITY closeCmd.label "Užverti">
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Laužyti iš naujo">
@@ -102,32 +100,6 @@
 <!ENTITY showComposeToolbarCmd.accesskey "P">
 <!ENTITY showFormatToolbarCmd.label "Formatavimo juosta">
 <!ENTITY showFormatToolbarCmd.accesskey "F">
-<!ENTITY showParagraphMarksCmd.label ".Rodyti pastraipų ženklus">
-<!ENTITY pageSourceCmd.label ".tinklalapio pirminis tekstas">
-<!ENTITY pageSourceCmd.accesskey "r">
-<!ENTITY pageInfoCmd.label ".Informacija apie tinklalapį">
-<!ENTITY pageInfoCmd.accesskey "I">
-<!ENTITY dcharMenu.label "Koduotė">
-<!ENTITY dcharIso1Cmd.label "Vakarų Europos (ISO-8859-1)">
-<!ENTITY dcharIso2Cmd.label "Vidurio Europos (ISO-8859-2)">
-<!ENTITY dcharIso3Cmd.label "Pietų Europos (ISO-8859-3)">
-<!ENTITY dcharIso4Cmd.label "Šiaurės šalių (ISO-8859-4)">
-<!ENTITY dcharIso9Cmd.label "Turkų (ISO-8859-9)">
-<!ENTITY dcharIso10Cmd.label "Šiaurės šalių (ISO-8859-10)">
-<!ENTITY dcharIso14Cmd.label "Keltų (ISO-8859-14)">
-<!ENTITY dcharIso15Cmd.label "Vakarų Europos (ISO-8859-15)">
-<!ENTITY dcharJapanCmd.label "Japonų (ISO-2022-JP)">
-<!ENTITY dcharTradChiBigCmd.label "Kinų tardicinė (Big5)">
-<!ENTITY dcharSimpChiGbCmd.label "Kinų supaprastintoji (GB2312)">
-<!ENTITY dcharKoreanCmd.label "Korėjiečių (EUC-KR)">
-<!ENTITY dcharUtf8Cmd.label "Unikodas (UTF-8)">
-<!ENTITY dcharRusCmd.label "Kirilica (KOI8-R)">
-<!ENTITY dcharUkrCmd.label "Kirilica ukrainiečių (KOI8-U)">
-<!ENTITY dcharIsoGreekCmd.label "Graikų (ISO-8859-7)">
-<!ENTITY dcharVietViCmd.label "Vietnamiečių (VISCII)">
-<!ENTITY dcharThaiCmd.label "Tailando (TIS-620)">
-<!ENTITY dcharArmCmd.label "Armėnų (ARMSCII-8)">
-<!ENTITY dcharDEFAULT.label "Laikyti išsiunčiamų laiškų numatytąją koduote">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formatas">
@@ -136,11 +108,6 @@
 <!-- Options menu items -->
 <!ENTITY optionsMenu.label "Parinktys">
 <!ENTITY optionsMenu.accesskey "a">
-
-<!ENTITY doNotCompleteAddrCmd.label ".Pagal surinktą pradžią adreso neužbaigti">
-<!ENTITY showMatchingAddrCmd.label ".Rodyti tekstus, kurių pradžios sutampa su surinktu tekstu">
-
-<!ENTITY addSignatureCmd.label ".Pridėti vizitinės kortelės failą">
 
 <!ENTITY quoteCmd.label "Cituoti originalų laišką">
 <!ENTITY quoteCmd.accesskey "C">
@@ -180,33 +147,12 @@
 <!ENTITY bothFormatCmd.label "Abiejų tipų tekstai (grynasis ir raiškusis)">
 <!ENTITY bothFormatCmd.accesskey "A">
 
-<!ENTITY UuencodeAttachmentCmd.label "Priedus koduoti „Uuencode“ būdu">
-
-
 <!ENTITY fileCarbonCopyCmd.label "Laiško kopiją įdėti į">
 <!ENTITY fileCarbonCopyCmd.accesskey "L">
 <!ENTITY fileHereMenu.label "Perkelti į aplanką">
 
-<!--LOCALIZATION NOTE Debug Menu Don't translate anything in the Debug menu section -->
-<!-- Debug Menu, imported from editorAppShell.dtd -->
-<!ENTITY debugMenu.label "Derinimas">
-<!ENTITY outputTextCmd.label "Išvesti tekstą">
-<!ENTITY outputHTMLCmd.label "Išvesti HTML">
-<!ENTITY insertTextCmd.label "Įterpti tekstą">
-<!ENTITY testSelectionCmd.label "Tikrinti pažymėtą">
-<!ENTITY testTableLayoutCmd.label "Tikrinti lentelės maketą">
-<!ENTITY testDocumentCmd.label "Tikrinti dokumentą">
-<!ENTITY showEmbeddedCmd.label "Rodyti įdėtinius objektus">
-<!ENTITY dumpContentCmd.label "Pateikti atmintinės turinio medį">
-<!ENTITY runUnitTestsCmd.label "Vykdyti testus">
-<!ENTITY startLogCmd.label "Pradėti seansą">
-<!ENTITY stopLogCmd.label "Baigti seansą">
-<!ENTITY runLogCmd.label "Vykdyti seansą">
-
-<!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
 <!-- Toolbar items -->
 <!ENTITY sendButton.label "Išsiųsti">
-<!ENTITY quoteButton.label "Cituoti">
 <!ENTITY addressButton.label "Adresatai">
 <!ENTITY attachButton.label "Pridėti">
 <!ENTITY spellingButton.label "Tikrinti rašybą">
@@ -219,17 +165,10 @@
 <!ENTITY formatToolbar.tooltip "Formatavimo mygtukų juostą">
 <!ENTITY sendButton.tooltip "Išsiųsti laišką dabar"> 
 <!ENTITY sendlaterButton.tooltip "Išsiųsti laišką vėliau"> 
-<!ENTITY quoteButton.tooltip "Cituoti ankstesnį laišką"> 
 <!ENTITY addressButton.tooltip "Parinkti laiško gavėjus iš adresų knygos"> 
 <!ENTITY attachButton.tooltip "Pridėti priedą prie šio laiško"> 
 <!ENTITY saveButton.tooltip "Įrašyti šį laišką"> 
 <!ENTITY stopButton.tooltip "Stabdyti atsiuntimą"> 
-
-<!-- Toolbar items, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
 
 <!-- context menu items -->
 <!ENTITY spellCheckNoSuggestions.label "(Nėra siūlymų)">

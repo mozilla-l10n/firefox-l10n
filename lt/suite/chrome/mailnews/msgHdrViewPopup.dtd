@@ -47,8 +47,6 @@
 <!ENTITY CopyEmailAddress.accesskey        "K">
 <!ENTITY CreateFilterFrom.label            "Sukurti filtrą…">
 <!ENTITY CreateFilterFrom.accesskey        "f">
-<!ENTITY BlockAddress.label                "Blokuoti adresą">
-<!ENTITY BlockAddress.accesskey            "B">
 <!ENTITY copyLinkCmd.label                 "Kopijuoti saito adresą">
 <!ENTITY copyLinkCmd.accesskey             "a">
 <!ENTITY CopyMessageId.label               "Kopijuoti laiško ID">

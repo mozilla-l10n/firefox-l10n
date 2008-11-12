@@ -40,7 +40,6 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY pref.formatting.title        "Siunčiamo teksto tipai">
-<!ENTITY sendMail.label               "Siunčiamo teksto tipai">
 <!ENTITY sendMaildesc.label           "Išsiunčiant laiškus raiškiuoju (HTML) tekstu gali paaiškėti, kad esama adresatų, neįtrauktų į gavėjų, galinčių priimti tokį tekstą, sąrašą. Tuomet:">
 <!ENTITY askMe.label                  "įspėti, kad reikia pasirinkti kitą (grynojo) teksto tipą">
 <!ENTITY askMe.accesskey              "s">
@@ -51,7 +50,6 @@
 <!ENTITY sendBoth.label               "išsiųsti laišką abiejų tipų tekstais – raiškiuoju ir grynuoju (laiškas bus didesnis)">
 <!ENTITY sendBoth.accesskey           "ų">
 <!ENTITY override.label               "Kiekvieno rašomo laiško teksto tipą galima parinkti atskirai. Tam pašto laiškų rašymo lange reikia atverti meniu „Parinktys“ ir pasirinkti „Siunčiamo teksto tipas“.">
-<!ENTITY receiveHTML.label            "Žinodami, kad adresatas gali gauti paštą raiškiuoju tekstu, adresų knygos adresato kortelėje nežymėkite parinkties „Laiškus siųsti grynuoju tekstu“.">
 
 <!-- Html and Plain Text Domains  -->
 <!ENTITY domain.title                 "Raiškiojo (HTML) ir grynojo teksto laiškų sritys">

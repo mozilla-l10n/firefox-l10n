@@ -55,7 +55,6 @@
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newAccountCmd.label "Pašto arba naujienų abonentas…">
 <!ENTITY newAccountCmd.accesskey "P">
-<!ENTITY openMessageMenu.label "Atverti">
 <!ENTITY openMessageFileCmd.label "Atverti failą…">
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY openAttachmentCmd.label "Priedai">
@@ -80,7 +79,6 @@
 <!ENTITY getNextNMsgCmd.accesskey "i">
 <!ENTITY sendUnsentCmd.label "Išsiųsti laiškus">
 <!ENTITY sendUnsentCmd.accesskey "š">
-<!ENTITY loadFirstDraft.label			"Pirma įkelti laiško juodraštį">
 <!ENTITY subscribeCmd.label "Prenumeruoti…">
 <!ENTITY subscribeCmd.accesskey "m">
 <!ENTITY renameFolder.label "Pervardyti aplanką…">
@@ -106,7 +104,6 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Spaudinio peržiūra">
 <!ENTITY printPreviewCmd.accesskey "ž">
-<!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "Puslapio nuostatos…">
 <!ENTITY printSetupCmd.accesskey "P">
 
@@ -134,8 +131,6 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Vėliavėle pažymėtus laiškus">
 <!ENTITY selectFlaggedCmd.accesskey "V">
-<!ENTITY selectInvertCmd.label ".Invertuoti žymėjimą">
-<!ENTITY selectInvertCmd.accesskey "I">
 <!ENTITY filtersCmd.label "Laiškų filtrai…">
 <!ENTITY filtersCmd.accesskey "f">
 <!ENTITY filtersApply.label "Filtruoti pažymėto aplanko laiškus">
@@ -158,14 +153,10 @@
 <!ENTITY redoCopyMsgCmd.label "Atstatyti laiško kopijavimą">
 <!ENTITY undoDefaultCmd.label "Atšaukti">
 <!ENTITY redoDefaultCmd.label "Atstatyti">
-<!ENTITY editDraftCmd.label "Taisyti juodraštį">
-<!ENTITY editDraftCmd.accesskey "u">
 
 <!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label		"Pašto mygtukų juosta">
 <!ENTITY showMessengerToolbarCmd.accesskey	"P">
-<!ENTITY customizeToolbar.label "Tvarkyti…">
-<!ENTITY customizeToolbar.accesskey "T">
 
 <!-- showSearchToolbarCmd is also used by addressbook -->
 <!ENTITY showSearchToolbarCmd.label		"Paieškos juosta">
@@ -235,8 +226,6 @@
 <!ENTITY threads.accesskey "G">
 <!ENTITY allMsgsCmd.label "Visi">
 <!ENTITY allMsgsCmd.accesskey "V">
-<!ENTITY expandOrCollapseMenu.label "Išskleisti arba suskleisti">
-<!ENTITY expandOrCollapseMenu.accesskey "s">
 <!ENTITY expandAllThreadsCmd.label "Išskleisti visas gijas">
 <!ENTITY expandAllThreadsCmd.accesskey "I">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -257,8 +246,6 @@
 <!ENTITY headersAllCmd.accesskey "V">
 <!ENTITY headersNormalCmd.label "Pagrindiniai laukai">
 <!ENTITY headersNormalCmd.accesskey "P">
-<!ENTITY headersBriefCmd.label ".Trumpai">
-<!ENTITY headersBriefCmd.accesskey "T">
 <!ENTITY bodyMenu.label "Laiško tekstas kaip">
 <!ENTITY bodyMenu.accesskey "t">
 <!ENTITY bodyAllowHTML.label "Originalus HTML tekstas">
@@ -276,13 +263,8 @@
 <!ENTITY pageSourceCmd.label "Laiško pirminis tekstas">
 <!ENTITY pageSourceCmd.accesskey "p">
 <!ENTITY pageSourceCmd.key "u">
-<!ENTITY translateMenu.label ".Išversti">
 
 <!-- Search Menu -->
-<!-- searchMenu is also used by addressbook -->
-<!ENTITY searchMenu.label "Paieška">
-<!ENTITY searchMenu.accesskey "P">
-
 <!ENTITY findCmd.label "Ieškoti šiame laiške…">
 <!ENTITY findCmd.accesskey "I">
 <!ENTITY findCmd.key "f">
@@ -294,15 +276,6 @@
 <!ENTITY findPrevCmd.accesskey "o">
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!-- LOCALIZATION NOTE (searchCurrentCmd.label) : Do not translate "&lt;" and "&gt;" in below line. -->
-<!ENTITY searchCurrentCmd.label ".Ieškoti &lt;current&gt;">
-<!ENTITY searchCurrentCmd.accesskey "I">
-<!-- LOCALIZATION NOTE (searchParentCmd.label) : Do not translate "&lt;" and "&gt;" in below line. -->
-<!ENTITY searchParentCmd.label ".Ieškoti &lt;parent&gt;">
-<!ENTITY searchParentCmd.accesskey "I">
-<!-- LOCALIZATION NOTE (searchParentParentCmd.label) : Do not translate "&lt;" and "&gt;" in below line. -->
-<!ENTITY searchParentParentCmd.label ".Ieškoti  &lt;parent parent&gt;">
-<!ENTITY searchParentParentCmd.accesskey "I">
 
 <!ENTITY searchMailCmd.label "Ieškoti pašto ir naujienų laiškuose…">
 <!ENTITY searchMailCmd.accesskey "k">
@@ -312,10 +285,6 @@
 
 <!ENTITY goMenu.label "Eiti">
 <!ENTITY goMenu.accesskey "E">
-<!ENTITY firstUnreadMsgCmd.label ".Pirmas neskaitytas laiškas">
-<!ENTITY firstUnreadMsgCmd.accesskey "P">
-<!ENTITY firstFlaggedMsgCmd.label ".Pirmas skubus laiškas">
-<!ENTITY firstFlaggedMsgCmd.accesskey "k">
 <!ENTITY nextMenu.label "Į tolesnį">
 <!ENTITY nextMenu.accesskey "t">
 <!ENTITY nextMsgCmd.label "laišką">
@@ -326,7 +295,6 @@
 <!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextFlaggedMsgCmd.label "gairele pažymėtą laišką">
 <!ENTITY nextFlaggedMsgCmd.accesskey "r">
-<!ENTITY nextUnflaggedMsgCmd.label "gairele nepažymėtą laišką">
 <!ENTITY nextUnreadThread.label "giją neskaitytų laiškų">
 <!ENTITY nextUnreadThread.accesskey "i">
 <!ENTITY nextUnreadThread.key "t">
@@ -344,10 +312,6 @@
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "gairele pažymėtą laišką">
 <!ENTITY prevFlaggedMsgCmd.accesskey "a">
-<!ENTITY backCmd.label ".Atgal">
-<!ENTITY backCmd.accesskey "t">
-<!ENTITY forwardCmd.label ".Persiųsti">
-<!ENTITY forwardCmd.accesskey "P">
 <!ENTITY startPageCmd.label "Į pašto pradžios tinklalapį">
 <!ENTITY startPageCmd.accesskey "r">
 <!ENTITY msgMenu.label "Laiškas">
@@ -405,10 +369,6 @@
 <!ENTITY fileHereMenu.accesskey "č">
 <!ENTITY copyHereMenu.label "Kopijuoti čia">
 <!ENTITY copyHereMenu.accesskey "a">
-<!ENTITY addSenderToAddressBookCmd.label ".Įtraukti siuntėją į adresų knygą">
-<!ENTITY addSenderToAddressBookCmd.accesskey "r">
-<!ENTITY addAllToAddressBookCmd.label "Įtraukti visus į adresų knygą">
-<!ENTITY addAllToAddressBookCmd.accesskey "v">
 <!ENTITY tagMenu.label "Gairė">
 <!ENTITY tagMenu.accesskey "G">
 <!ENTITY tagCustomize.label "Tvarkyti…">
@@ -428,8 +388,6 @@
 <!ENTITY markAsReadCmd.label "Kaip skaitytą">
 <!ENTITY markAsReadCmd.accesskey "s">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "Kaip neskaitytą">
-<!ENTITY markAsUnreadCmd.accesskey "a">
 <!ENTITY markThreadAsReadCmd.label "Giją kaip skaitytą">
 <!ENTITY markThreadAsReadCmd.accesskey "G">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -507,8 +465,6 @@
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label "Dokumentas baigtas">
-<!ENTITY  unreadCountText.label "Neskaitytų:">
-<!ENTITY  totalCountText.label " Iš viso:">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Atverti laišką naujame lange">

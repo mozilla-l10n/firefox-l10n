@@ -40,7 +40,6 @@
 <!ENTITY alwaysEncryptMessage.label "užšifruoti (laiškas nebus išsiųstas, jei bent vienas iš jo gavėjų neturi liudijimo)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "Šifravimui naudoti šį asmeninį liudijimą:">
-<!ENTITY encryptionCert.notselected "Nenurodytas šifravimo liudijimas">
 <!ENTITY digitalSign.certificate.button "Parinkti…">
 <!ENTITY digitalSign.certificate.accesskey "P">
 <!ENTITY digitalSign.certificate_clear.button "Išvalyti">
@@ -53,4 +52,3 @@
 <!ENTITY signMessage.label "Išsiunčiamus laiškus pasirašyti skaitmeniniškai">
 <!ENTITY signMessage.accesskey "s">
 <!ENTITY signingCert.message "Parašui naudoti šį asmeninį liudijimą:">
-<!ENTITY signingCert.notselected "Nenurodytas parašo liudijimas">

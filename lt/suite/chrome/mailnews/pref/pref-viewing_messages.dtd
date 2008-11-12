@@ -56,8 +56,6 @@
 <!ENTITY fontPlainText.label              "Šriftas:">
 <!ENTITY fontPlainText.accesskey          "r">
 <!ENTITY displayQuoted.label              "Citatų šriftas:">
-<!ENTITY readingMessagesHeader.label      "Gaunamiems laiškams">
-<!ENTITY messageWrapping.label            "Laužyti eilutes">
 <!ENTITY wrapInMsg.label                  "Laužyti eilutes pritaikant prie lango pločio">
 <!ENTITY wrapInMsg.accesskey              "p">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
