@@ -42,11 +42,6 @@
 <!ENTITY printCmd.label "Stampa…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "m">
-<!ENTITY quitApplicationCmdWin.label "Esci">
-<!ENTITY quitApplicationCmdWin.accesskey "E">
-<!ENTITY quitApplicationCmd.label "Esci">
-<!ENTITY quitApplicationCmd.accesskey "E">
-<!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY editMenu.label "Modifica">
 <!ENTITY editMenu.accesskey "M">
 <!ENTITY undoCmd.label "Annulla">
