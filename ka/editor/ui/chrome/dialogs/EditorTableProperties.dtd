@@ -69,7 +69,6 @@
 <!ENTITY tableCaptionNone.label           "არა">
 <!ENTITY tableInheritColor.label           "(გვერდის ფერების ჩვენება)">
 
-<!ENTITY cellPercent.label                "ცხრილის პროცენტი">
 <!ENTITY cellSelection.label              "მონიშვნა">
 <!ENTITY cellSelectCell.label             "უჯრა">
 <!ENTITY cellSelectRow.label              "მწკრივი">
@@ -78,11 +77,7 @@
 <!ENTITY cellSelectNext.accessKey         "N">
 <!ENTITY cellSelectPrevious.label         "წინა">
 <!ENTITY cellSelectPrevious.accessKey     "P">
-<!ENTITY cellApplyBeforeMove.label        "ცვლილებების გააქტივება მონიშვნის შეცვლამდე">
-<!ENTITY cellKeepCurrentData.label        "არსებულის დატოვება">
 <!ENTITY applyBeforeChange.label         "არსებული ცვლილებები გააქტივდება მონიშვნის შეცვლამდე">
-<!ENTITY cellRowSpan.label                "მწკრივების გაერთიანება:">
-<!ENTITY cellColSpan.label                "სვეტების გაერთიანება:">
 <!ENTITY cellContentAlignment.label       "შიგთავსის განთავსება">
 <!ENTITY cellHorizontal.label             "ჰორიზოტული:">
 <!ENTITY cellHorizontal.accessKey         "Z">
@@ -100,7 +95,6 @@
 <!ENTITY cellAlignMiddle.label            "შუაში">
 <!ENTITY cellAlignBottom.label            "ქვევით">
 <!ENTITY cellAlignJustify.label           "შევსება">
-<!ENTITY cellAlignAtChar.label            "სიმბოლოსთან:">
 <!ENTITY cellInheritColor.label           "(ცხრილში ფერების ჩვენება)">
 <!ENTITY cellUseCheckboxHelp.label        "შერჩეული უჯრების პარამეტრების მისათითებლად ჩამრთველების გამოყენება">
 

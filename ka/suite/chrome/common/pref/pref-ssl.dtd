@@ -55,8 +55,6 @@
 <!ENTITY warn.insecurepost.accesskey        "S">
 <!ENTITY warn.leavingsecure                 "დაშიფვრადი გვერდიდან გამოსვლა">
 <!ENTITY warn.leavingsecure.accesskey       "a">
-<!ENTITY warn.secureredirect                "ერთი დაშიფვრადი გვერდიდან მეორეზე გადამისამართება">
-<!ENTITY warn.secureredirecttoinsecure      "დაშიფვრადი გვერდიდან დაუშიფრავ გვერდზე გადამისამართება">
 <!ENTITY warn.viewmixed                     "გვერდის შერეული - დაშიფრული/დაუშიფრავი ჩვენება">
 <!ENTITY warn.viewmixed.accesskey           "V">
 

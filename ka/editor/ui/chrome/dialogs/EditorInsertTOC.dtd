@@ -37,7 +37,6 @@
 
 <!ENTITY Window.title        "შინაარსი">
 <!ENTITY buildToc.label      "შინაარსის შექმნა:">
-<!ENTITY style.label         "სტილი:">
 <!ENTITY tag.label           "ჭდე:">
 <!ENTITY class.label         "კლასი:">
 <!ENTITY header1.label       "საფეხური 1">

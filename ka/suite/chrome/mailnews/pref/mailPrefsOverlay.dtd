@@ -17,7 +17,6 @@
 <!ENTITY composingMessages.label          "შექმნა">
 <!ENTITY format.label                     "გაგზავნის ფორმატი">
 <!ENTITY return.label                     "მიღების შეტყობინება">
-<!ENTITY disk.label                       "ადგილი დისკზე">
 <!ENTITY junk.label                       "ჯართი">
 <!ENTITY tags.label                       "ჭდეები">
 <!ENTITY characterEncoding.label          "სიმბოლოთა კოდირება">

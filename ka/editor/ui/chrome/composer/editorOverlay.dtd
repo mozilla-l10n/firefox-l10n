@@ -79,9 +79,6 @@
 <!ENTITY sendPageCmd.accesskey "d">
 <!ENTITY printSetupCmd.label "გვერდის პარამეტრები…">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "ბეჭდვის ესკიზი">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printButtonCmd.label "ბეჭდვა…">
 <!ENTITY printCmd.label "ბეჭდვა…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "P">
@@ -99,34 +96,13 @@
 <!ENTITY pasteAs.accesskey "a">
 <!ENTITY publishSettings.label "გამოქვეყნების პარამეტრები…">
 <!ENTITY publishSettings.accesskey "b">
-
-<!-- For a "Paste" submenu when more than 1 
-     clipboard formats are available -->
-<!ENTITY pasteHTMLCmd.label "HTML">
-<!ENTITY pasteHTMLCmd.accesskey "H">
-<!ENTITY pasteTextCmd.label "ტექსტი">
-<!ENTITY pasteTextCmd.accesskey "T">
-<!ENTITY pasteImageCmd.label "ნახატი">
-<!ENTITY pasteImageCmd.accesskey "I">
-<!ENTITY pasteRowsCmd.label "მწკრივები">
-<!ENTITY pasteRowsCmd.accesskey "R">
-<!ENTITY pasteColumnsCmd.label "სვეტები">
-<!ENTITY pasteColumnsCmd.accesskey "C">
-<!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
-     Set to: "Table" or "Nested Table" depending on context 
-     This accesskey must be in both strings -->
-<!ENTITY pasteTableCmd.accesskey "a">
-<!ENTITY pasteLinkCmd.label "ბმა">
-<!ENTITY pasteLinkCmd.accesskey "L">
 <!ENTITY pasteAsQuotationCmd.label "ჩასმა ბრჭყალებით">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
-<!ENTITY editStripQuotesCmd.label "ბრჭყალების მოხსნა">
-<!ENTITY editRewrapCmd.label "გადატანა">
-<!ENTITY findCmd.label "ძიება და შეცვლა…">
+<!ENTITY findCmd.label "პოვნა და ჩანაცვლება…">
 <!ENTITY findCmd.accesskey "F">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "კვლავძიება">
+<!ENTITY findAgainCmd.label "შემდეგის პოვნა">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
@@ -141,13 +117,6 @@
 <!ENTITY checkSpellingCmd.key "K">
 <!ENTITY validateCmd.label "HTML-ის შემოწმება">
 <!ENTITY validateCmd.accesskey "V">
-<!ENTITY checkLinksCmd.label "ბმების შემოწმება">
-
-<!-- View menu items -->
-<!ENTITY viewPageSource.label "გვერდის წყარო">
-<!ENTITY viewPageSource.accesskey "S">
-<!ENTITY viewParagraphMarks.label "პარაგრაფის ნიშანები">
-<!ENTITY viewParagraphMarks.accesskey "P">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "ჩამატება">
@@ -159,41 +128,16 @@
 <!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "ნახატი…">
 <!ENTITY insertImageCmd.accesskey "I">
-<!ENTITY insertImageMapCmd.label "ნახატის მართვა…">
 <!ENTITY insertHLineCmd.label "ჰორიზონტალი">
 <!ENTITY insertHLineCmd.accesskey "o">
 <!ENTITY insertTableCmd.label "ცხრილი…">
 <!ENTITY insertTableCmd.accesskey "T">
-<!ENTITY insertFormMenu.label "ფორმა">
-<!ENTITY insertFormMenu.accesskey "F">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertCharsCmd.label "ასო-ნიშნები…">
 <!ENTITY insertCharsCmd.accesskey "C">
-<!ENTITY insertBreakCmd.label "სტრიქონის წყვეტა">
-<!ENTITY insertBreakCmd.accesskey "B">
 <!ENTITY insertBreakAllCmd.label "წყვეტა ნახატ(ებ)ის ქვემოთ">
 <!ENTITY insertBreakAllCmd.accesskey "k">
-
-<!-- Insert form menu items -->
-<!ENTITY insertFormCmd.label "ფორმის განსაზღვრა…">
-<!ENTITY insertFormCmd.accesskey "D">
-<!ENTITY insertInputTagCmd.label "ფორმის ველი…">
-<!ENTITY insertInputTagCmd.accesskey "e">
-<!ENTITY insertInputImageCmd.label "ფორმის ნახატი…">
-<!ENTITY insertInputImageCmd.accesskey "I">
-<!ENTITY insertTextAreaCmd.label "ტექსტის არე…">
-<!ENTITY insertTextAreaCmd.accesskey "T">
-<!ENTITY insertSelectCmd.label "შერჩევის ნუსხა…">
-<!ENTITY insertSelectCmd.accesskey "S">
-<!ENTITY insertButtonCmd.label "ღილაკის მითითება…">
-<!ENTITY insertButtonCmd.accesskey "B">
-<!ENTITY insertLabelCmd.label "იარლიყის მითითება">
-<!ENTITY insertLabelCmd.accesskey "L">
-<!ENTITY insertFieldSetCmd.label "ველების მითითება…">
-<!ENTITY insertFieldSetCmd.accesskey "F">
-<!ENTITY insertIsIndexCmd.label "ძიება ინდექსში">
-<!ENTITY insertIsIndexCmd.accesskey "x">
 
 <!-- Used just in context popup. -->
 <!ENTITY spellCheckNoSuggestions.label "(შემოთავაზებები ვერ მოიძებნა)">
@@ -238,8 +182,6 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
-<!ENTITY localfontfaceMenu.label "თქვენი შრიფტები">
-<!ENTITY localfontfaceMenu.accesskey "F">
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "შრიფტის ზომის არჩევა">
@@ -361,18 +303,6 @@
 <!ENTITY advancedPropertiesCmd.label "დეტალური პარამეტრები">
 <!ENTITY advancedPropertiesCmd.accesskey "v">
 
-<!ENTITY NormalAbbr.label "ტექსტი">
-<!ENTITY ParagraphAbbr.label "P">  
-<!ENTITY Heading1Abbr.label "H1">
-<!ENTITY Heading2Abbr.label "H2">
-<!ENTITY Heading3Abbr.label "H3">
-<!ENTITY Heading4Abbr.label "H4">
-<!ENTITY Heading5Abbr.label "H5">
-<!ENTITY Heading6Abbr.label "H6">
-<!ENTITY BlockquoteAbbr.label "BQ">
-<!ENTITY AddressAbbr.label "მისამ.">
-<!ENTITY PreformatAbbr.label "ფორმ.">
-
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "განთავსება">
 <!ENTITY alignMenu.accesskey "A">
@@ -458,8 +388,6 @@
 <!ENTITY tableDeleteMenu.label "წაშლა">
 <!ENTITY tableDeleteMenu.accesskey "D">
 
-<!ENTITY tableFix.label "ცხრილის ფიქსირება">
-<!ENTITY tableFix.accesskey "F">
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
@@ -501,7 +429,6 @@
 <!ENTITY linkToolbarCmd.tooltip "ახალი ბმის ჩამატება ან მონიშნულის პარამეტრების რედაქტირება">
 <!ENTITY anchorToolbarCmd.label "ღუზა">
 <!ENTITY anchorToolbarCmd.tooltip "ახალი ღუზის ჩამატება ან მონიშნულის პარამეტრების რედაქტირება">
-<!ENTITY textColorCaption.label "ტექსტის ფერი">
 <!ENTITY TextColorButton.tooltip "ტექსტის ფერის არჩევა">
 <!ENTITY BackgroundColorButton.tooltip "ფონის ფერის არჩევა">
 <!ENTITY throbber.tooltip "&vendorShortName;-ს სათაო გვერდზე გადასვლა">
@@ -523,17 +450,6 @@
 <!ENTITY alignCenterButton.tooltip "ტექსტის სწორება ცენტრზე">
 <!ENTITY alignRightButton.tooltip "ტექსტის სწორება მარჯვნივ">
 <!ENTITY alignjustifyButton.tooltip "ტექსტის სწორება შევსებით">
-
-<!-- Formatting toolbar not used, but may be in future -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
-
-<!-- Used with color pickers in Format toolbar and Format Menu -->
-<!ENTITY colorPicker.default.label "საკითხავი ტექსტის ძირითადი ფერი">
-<!ENTITY colorPicker.default.accesskey "r">
-<!ENTITY colorLabel.label "ფერი:">
-<!ENTITY ok.label "დიახ">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "ჩვეულებრივი">

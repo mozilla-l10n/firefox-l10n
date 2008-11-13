@@ -36,18 +36,13 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY search.button.label      "ძიება">
-<!ENTITY search.results.tab       "გამოიყენე">
-<!ENTITY search.advanced.tab      "პარამეტრები ">
 <!ENTITY allengines.label         "ყველა სისტემა">
 <!ENTITY within.label             "კატეგორიებში">
 <!ENTITY using.label              "საშუალებით">
-<!ENTITY choose.label             "აირჩიეთ საძიებო სისტემა და დაწკაპეთ &quot;ძიება&quot;">
+<!ENTITY choose.label             "შეარჩიეთ საძიებო სისტემა და დაწკაპეთ «ძიება»">
 <!ENTITY results.label            "ძიების შედეგები">
 <!ENTITY engine.column.label      "საძიებო სისტემები">
-<!ENTITY checkbox.column.label    "გამოიყენე">
-<!ENTITY stop.button.label        "შეჩერება">
-<!ENTITY customize.menuitem.label   "კატეგორიების რედაქტირება ...">
-<!ENTITY savesearch.button.label  "იების სანიშნეში შენახვა">
+<!ENTITY customize.menuitem.label "კატეგორიების შეცვლა …">
 <!ENTITY next.button.label        "შემდეგი">
 <!ENTITY previous.button.label    "წინა">
 <!ENTITY next.button.tooltip      "ძიების შემდეგი შედეგების ჩვენება">

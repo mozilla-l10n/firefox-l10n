@@ -36,8 +36,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  resetsettings.label      "პარამეტრების აღდგენა">
-<!ENTITY  resetpreferences.label   "პარამეტრების აღდგენა…">
 <!ENTITY  managecerts.caption      "სერთიფიკატების მართვა">
 <!ENTITY  managecerts.text         "პირადი სერთიფიკატების, ისევე როგორც სხვების სერთიფიკატებისა და სააგენტოების სამართავად ისარგებლეთ სერთიფიკატების მმართველით.">
 <!ENTITY  managecerts.button       "სერთიფიკატების მართვა…">

@@ -27,7 +27,6 @@
 <!ENTITY attachMenu.label "მიმაგრება">
 <!ENTITY attachMenu.accesskey "t">
 <!ENTITY attachFileCmd.label "ფაილ(ებ)ი…">
-<!ENTITY attachFileCmd.key "">
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachPageCmd.label "ვებგვერდი…">
 <!ENTITY attachPageCmd.accesskey "W">
@@ -45,7 +44,6 @@
 <!ENTITY printCmd.label "ბეჭდვა…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">
-<!ENTITY closeCmd.label "დახურვა">
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "გადაფორმატება">
@@ -70,33 +68,6 @@
 <!ENTITY showComposeToolbarCmd.accesskey "o">
 <!ENTITY showFormatToolbarCmd.label "დაფორმატების პულტი">
 <!ENTITY showFormatToolbarCmd.accesskey "F">
-<!ENTITY showParagraphMarksCmd.label ".პარაგრაფის ნიშნის ჩვენება">
-<!ENTITY pageSourceCmd.label ".გვერდის წყარო">
-<!ENTITY pageSourceCmd.accesskey "u">
-<!ENTITY pageInfoCmd.label ".ინფორმაცია">
-<!ENTITY pageInfoCmd.accesskey "I">
-<!ENTITY dcharMenu.label "ენები - კოდირება">
-<!ENTITY dcharIso1Cmd.label "დასავლური (ISO-8859-1)">
-<!ENTITY dcharIso2Cmd.label "ცენტრალურ ევროპული (ISO-8859-2)">
-<!ENTITY dcharIso3Cmd.label "სამხრეთ ევროპული (ISO-8859-3)">
-<!ENTITY dcharIso4Cmd.label "ბალტიური (ISO-8859-4)">
-<!ENTITY dcharIso9Cmd.label "თურქული (ISO-8859-9)">
-<!ENTITY dcharIso10Cmd.label "სკანდინავური (ISO-8859-10)">
-<!ENTITY dcharIso14Cmd.label "კელტური (ISO-8859-14)">
-<!ENTITY dcharIso15Cmd.label "დასავლური (ISO-8859-15)">
-<!ENTITY dcharJapanCmd.label "იაპონური (ISO-2022-JP)">
-<!ENTITY dcharTradChiBigCmd.label "ჩინური ტრადიციული (Big5)">
-<!ENTITY dcharSimpChiGbCmd.label "ჩინური გამარტივებული (GB2312)">
-<!ENTITY dcharKoreanCmd.label "კორეული (EUC-KR)">
-<!ENTITY dcharUtf8Cmd.label "უნიკოდი (UTF-8)">
-<!ENTITY dcharRusCmd.label "კირილიცა (KOI8-R)">
-<!ENTITY dcharUkrCmd.label "კირილიცა/უკრაინული (KOI8-U)">
-<!ENTITY dcharIsoGreekCmd.label "ბერძნული (ISO-8859-7)">
-<!ENTITY dcharVietViCmd.label "ვიეტნამური (VISCII)">
-<!ENTITY dcharGeoCmd.label "ქართული (GEOSTD8)">
-<!ENTITY dcharThaiCmd.label "ტაილანდური (TIS-620)">
-<!ENTITY dcharArmCmd.label "სომხური (ARMSCII-8)">
-<!ENTITY dcharDEFAULT.label "ძირითადი კოდირება გასაგზავნი წერილებისთვის">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "ფორმატი">
@@ -105,11 +76,6 @@
 <!-- Options menu items -->
 <!ENTITY optionsMenu.label "ოპციები">
 <!ENTITY optionsMenu.accesskey "p">
-
-<!ENTITY doNotCompleteAddrCmd.label ".ავტოშევსების ამორთვა">
-<!ENTITY showMatchingAddrCmd.label ".სადარი მისამართების ჩვენება">
-
-<!ENTITY addSignatureCmd.label ".ხელმოწერის ფაილის დამატება">
 
 <!ENTITY quoteCmd.label "წერილის ციტირება">
 <!ENTITY quoteCmd.accesskey "Q">
@@ -149,33 +115,13 @@
 <!ENTITY bothFormatCmd.label "ტექსტი და ჰიპერტექსტი (HTML)">
 <!ENTITY bothFormatCmd.accesskey "l">
 
-<!ENTITY UuencodeAttachmentCmd.label "ჩანართებისათვის Uuencode-ს გამოყენება MIME-ის ნაცვლად">
-
-
 <!ENTITY fileCarbonCopyCmd.label "ასლის გადაგზავნა">
 <!ENTITY fileCarbonCopyCmd.accesskey "d">
 <!ENTITY fileHereMenu.label "შენახვის ადგილი">
 
-<!--LOCALIZATION NOTE Debug Menu Don't translate anything in the Debug menu section -->
-<!-- Debug Menu, imported from editorAppShell.dtd -->
-<!ENTITY debugMenu.label "გამართვა">
-<!ENTITY outputTextCmd.label "გამოსავალი ტექსტი">
-<!ENTITY outputHTMLCmd.label "გამოსავალი HTML">
-<!ENTITY insertTextCmd.label "ტექსტის ჩამატება">
-<!ENTITY testSelectionCmd.label "მონიშნულის ტესტირება">
-<!ENTITY testTableLayoutCmd.label "ცხრილის განთავსების ტესტირება">
-<!ENTITY testDocumentCmd.label "დოკუმენტის ტესტირება">
-<!ENTITY showEmbeddedCmd.label "ჩადგმული ობიექტების ჩვენება">
-<!ENTITY dumpContentCmd.label "შიგთავსის ჩვენება">
-<!ENTITY runUnitTestsCmd.label "ბლოკების ტესტირება">
-<!ENTITY startLogCmd.label "შესვლის დაწყება">
-<!ENTITY stopLogCmd.label "შესვლის შეჩერება">
-<!ENTITY runLogCmd.label "შესვლა">
-
 <!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
 <!-- Toolbar items -->
 <!ENTITY sendButton.label "გაგზავნა">
-<!ENTITY quoteButton.label "ციტირება">
 <!ENTITY addressButton.label "მისამართი">
 <!ENTITY attachButton.label "მიმაგრება">
 <!ENTITY spellingButton.label "მართლწერა">
@@ -188,17 +134,10 @@
 <!ENTITY formatToolbar.tooltip "დაფორმატების პულტი">
 <!ENTITY sendButton.tooltip "წერილის დაუყოვნებლივ გაგზავნა"> 
 <!ENTITY sendlaterButton.tooltip "წერილის მოგვიანებით გაგზავნა"> 
-<!ENTITY quoteButton.tooltip "საწყისი წერილის ციტირება"> 
 <!ENTITY addressButton.tooltip "ადრესატის არჩევა წიგნაკიდან"> 
 <!ENTITY attachButton.tooltip "წერილში ფაილის ჩართვა"> 
 <!ENTITY saveButton.tooltip "წერილის შენახვა"> 
 <!ENTITY stopButton.tooltip "მიმდინარე დაგზავნის შეჩერება"> 
-
-<!-- Toolbar items, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
 
 <!-- context menu items -->
 <!ENTITY spellCheckNoSuggestions.label "(შემოთავაზება ვერ მოიძებნა)">

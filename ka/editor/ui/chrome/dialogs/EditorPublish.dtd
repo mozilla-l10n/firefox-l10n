@@ -35,14 +35,11 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-
 <!-- Window title -->
 <!ENTITY windowTitle.label         "გვერდის გამოქვეყნება">
 <!ENTITY windowTitleSettings.label "გამოქვეყვების პარამეტრები">
-
 <!ENTITY publishTab.label         "გამოქვეყნება">
 <!ENTITY settingsTab.label        "პარამეტრები">
-
 <!ENTITY publishButton.label      "გამოქვეყნება">
 
 <!-- Publish Tab Panel -->
@@ -72,10 +69,8 @@
 <!ENTITY filename.accesskey           "F">
 <!ENTITY filename.tooltip         "მიუთითეთ ვებგვერდის ფაილის სახელი '.html'-ის ჩათვლით">
 <!ENTITY filenameExample.label    "მაგ,: &quot;mypage.html&quot;">
-<!ENTITY relatedDocs.label        "სხვა გამოსაქვეყნებელი ფაილები">
 <!ENTITY setDefaultButton.label   "მითითება როგორც ძირითადი">
 <!ENTITY setDefaultButton.accesskey   "D">
-<!ENTITY setDefSiteAndDir.label   "მითითება ძირითად საიტად და დასტად">
 <!ENTITY removeButton.label       "საიტის ამოღება">
 <!ENTITY removeButton.accesskey       "R">
 

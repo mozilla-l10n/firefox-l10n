@@ -44,7 +44,6 @@
 <!ENTITY shortcutURL.label          "საკვანძო სიტყვა:">
 <!ENTITY shortcutURL.accesskey      "K">
 <!ENTITY destination.label          "დანიშნულება:">
-<!ENTITY destination.accesskey      "D">
 <!ENTITY newFolder.label            "ახალი დასტა…">
 <!ENTITY newFolder.accesskey        "w">
 <!ENTITY addGroup.label             "დაფების ჯგუფის სანიშნეებში შეტანა">

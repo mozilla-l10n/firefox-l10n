@@ -43,8 +43,6 @@
 
 <!ENTITY status.label          "გამოქვეყნება…">
 <!ENTITY fileList.label        "გამოქვეყნების სტატუსი">
-<!ENTITY statusHeader.label    "სტატუსი">
-<!ENTITY filenameHeader.label  "ფაილის სახელი">
 <!ENTITY succeeded.label       "წარმატებულია">
 <!ENTITY failed.label          "ვერ მოხერხდა">
 

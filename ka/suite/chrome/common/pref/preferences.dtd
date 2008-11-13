@@ -7,14 +7,10 @@
 <!ENTITY colors.label "ფერები">
 <!ENTITY navigator.label "ბრაუზერი">
 <!ENTITY history.label "ისტორია">
-<!ENTITY bidi.label "წერის ორმხრივი მიმართულება">
 <!ENTITY languages.label "ენები">
 <!ENTITY applications.label "დახმარების პროგრამები">
 <!ENTITY locationBar.label "მისამართის პანელი">
 <!ENTITY tabWindows.label "გახსნა დაფებზე">
-<!ENTITY compose.label "რედაქტორი">
-<!ENTITY editing.label "ახალი გვერდის პარამეტრები">
-<!ENTITY publish.label "გამოქვეყნება">
 <!ENTITY offline.label "ავტონომიური რეჟიმი">
 <!ENTITY security.label "კონფიდენციალობა და უსაფრთხოება">
 <!ENTITY cookies.label "ნაჭდევები">

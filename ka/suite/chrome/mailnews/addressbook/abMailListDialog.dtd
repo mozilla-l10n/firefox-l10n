@@ -46,9 +46,6 @@
 <!ENTITY ListDescription.label          "აღწერილობა: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "მიუთითეთ ელფოსტის მისამართები დაგზავნის სიაში ჩასამატებლად:">
-<!ENTITY RemoveButton.label             "ამოშლა">
-<!ENTITY UpButton.label                 "აწევა">
-<!ENTITY DownButton.label               "ჩამოწევა">
 
 <!-- Access Keys -->
 <!ENTITY addToAddressBook.accesskey     "A">

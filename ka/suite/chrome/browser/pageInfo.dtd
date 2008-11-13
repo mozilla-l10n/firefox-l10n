@@ -68,7 +68,6 @@
 <!ENTITY  formAction            "ფორმის ქმედება">
 <!ENTITY  formMethod            "მეთოდი">
 <!ENTITY  formName              "სახელი">
-<!ENTITY  formNo                "ნომ.">
 <!ENTITY  formEncoding          "კოდირება:">
 <!ENTITY  formTarget            "სამიზნე:">
 <!ENTITY  formFields            "ველები:">

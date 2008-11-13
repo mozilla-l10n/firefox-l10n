@@ -37,7 +37,6 @@
 <!ENTITY pasteCmd.key						"V">  
 <!ENTITY pasteCmd.accesskey					"p"> 
 <!ENTITY deleteCmd.label					"წაშლა">  
-<!ENTITY deleteCmd.key						"D">  
 <!ENTITY deleteCmd.accesskey				"d"> 
 <!ENTITY selectAllCmd.label					"სრული მონიშვნა">  
 <!ENTITY selectAllCmd.key					"A">  

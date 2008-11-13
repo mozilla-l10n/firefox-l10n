@@ -52,13 +52,8 @@
 <!ENTITY retention.label "შენარჩუნების პირობები">
 <!ENTITY retentionUseDefault.label "სერვერის ნაგულისხმები">
 <!ENTITY retentionUseDefault.accesskey "d">
-<!ENTITY days.label "დღე">
 <!ENTITY daysOld.label "days old">
 <!ENTITY message.label "წერილი">
-<!ENTITY retentionNotDownloadRead.label "წაკითხული წერილები">
-<!ENTITY retentionNotDownloadRead.accesskey "R">
-<!ENTITY retentionDownloadMsg.label "რომელთა ასაკიც მეტია ვიდრე">
-<!ENTITY retentionDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "შენარჩუნება:">
 <!ENTITY retentionDeleteMsg.label "წრილების წაშლა ასაკით მეტი ვიდრე">
 <!ENTITY retentionDeleteMsg.accesskey "m">
@@ -80,18 +75,15 @@
 
 <!ENTITY selectofflineNewsgroup.check.label      "ჯგუფის არჩევა ავტონომიური მოხმარებისათვის">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "o">
-<!ENTITY UseDefaultofflineNewsgroup.check.label  "ძირითადი პარამეტრების გამოყენება ანგარიშისათვის ">
 <!ENTITY offlineNewsgroup.button.label           "გადმოწერა ახლავე">
 <!ENTITY offlineNewsgroup.button.accesskey       "D">
 
-<!ENTITY folderProps.information.label  "ინფორმაცია:">
 <!ENTITY folderProps.name.label	        "სახელი:">
 <!ENTITY folderProps.name.accesskey              "N">
 <!ENTITY folderProps.location.label              "მდებარეობა:">
 <!ENTITY folderProps.location.accesskey          "L">
 
 <!ENTITY folderSharingTab.label                  "გაზიარება">
-<!ENTITY privilegesDesc.label                    "ამ და სხვა დასტების ქსელის მომხმარებლებისთვის გაზიარება და მათი ჩვენებისა და დაშვების უფლებების მითითება">
 <!ENTITY privileges.button.label                 "პრივილეგიები…">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "თქვენ გაქვთ შემდეგი უფლებები:">

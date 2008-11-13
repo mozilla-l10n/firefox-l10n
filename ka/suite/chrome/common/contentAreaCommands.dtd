@@ -15,8 +15,6 @@
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY showOnlyThisFrameCmd.label     "მხოლოდ ამ ბლოკის ჩვენება">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
-<!ENTITY addToBookmarksCmd.label      "გვერდის სანიშნეებში ჩამატება">
-<!ENTITY addToBookmarksCmd.accesskey  "B">
 <!ENTITY goBackCmd.label              "უკან">
 <!ENTITY goBackCmd.accesskey          "B">
 <!ENTITY goForwardCmd.label           "წინ">

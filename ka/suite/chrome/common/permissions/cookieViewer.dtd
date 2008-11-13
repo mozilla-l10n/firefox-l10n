@@ -35,8 +35,5 @@
 <!ENTITY     removeallpermissions.label     "ყველა საიტის ამოღება">
 <!ENTITY     removeallpermissions.accesskey "e">
 
-<!ENTITY     canSet.label                   "შეუძლია ნაჭდევების ჩაწერა">
-<!ENTITY     cannotSet.label                "ეკრძალება ნაჭდევების ჩაწერა">
-
 <!ENTITY     futureCookies.label            "ნაჭდევებამოშლილი საიტებისთვის მომავალში ნაჭდევებს ჩაწერის აკრძალვა">
 <!ENTITY     futureCookies.accesskey        "D">

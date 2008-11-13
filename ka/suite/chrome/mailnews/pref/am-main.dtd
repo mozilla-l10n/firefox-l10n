@@ -3,7 +3,6 @@
 <!ENTITY accountTitle.label "ანგარიშის პარამეტრები">
 <!ENTITY accountName.label "ანგარიშის სახელი:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY accountNameDesc.label "ანგარიშის სახელი გამოიყენება თითოეული ანგარიშის ამოსაცნობად">
 <!ENTITY identityTitle.label "ნაგულისხმები იდენტურობა">
 <!ENTITY identityDesc.label "თითოეული ანგარიში შეიცავს თქვენს საიდენტიფიკაციო მონაცემებს, რომლებსაც მიიღებენ წერილების ადრესატები.">
 <!ENTITY name.label "თქვენი სახელი:">
@@ -16,7 +15,6 @@
 <!ENTITY organization.accesskey "O">
 <!ENTITY signature.label "ხელმოწერის თანდართვა:">
 <!ENTITY signature.accesskey "t">
-<!ENTITY edit.label "რედაქტირება…">
 <!ENTITY choose.label "არჩევა…">
 <!ENTITY choose.accesskey "C">
 <!ENTITY editVCard.label "სავიზიტო ბარათის რედაქტირება…">

@@ -52,11 +52,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newAccountCmd.label "ანგარიში…">
 <!ENTITY newAccountCmd.accesskey "A">
-<!ENTITY openMessageMenu.label "გახსნა">
-<!ENTITY openMessageFileCmd.label "წერილის გახსნა…">
+<!ENTITY openMessageFileCmd.label "ფაილის გახსნა…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "ჩანართები">
-<!ENTITY openAttachmentCmd.accesskey "A">
+<!ENTITY openAttachmentCmd.accesskey "h">
 <!ENTITY saveAsMenu.label "შენახვა როგორც">
 <!ENTITY saveAsMenu.accesskey "S">
 <!ENTITY saveAsFileCmd.label "ფაილი">
@@ -77,7 +76,6 @@
 <!ENTITY getNextNMsgCmd.accesskey "t">
 <!ENTITY sendUnsentCmd.label "გასაგზავნი წერილების გაგზავნა">
 <!ENTITY sendUnsentCmd.accesskey "d">
-<!ENTITY loadFirstDraft.label			"პირველი ესკიზის ჩატვირთვა">
 <!ENTITY subscribeCmd.label "ხელმოწერა…">
 <!ENTITY subscribeCmd.accesskey "b">
 <!ENTITY renameFolder.label "დასტის გადარქმევა…">
@@ -101,7 +99,6 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "ბეჭდვის ესკიზი">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "გვერდის პარამეტრები…">
 <!ENTITY printSetupCmd.accesskey "u">
 
@@ -129,8 +126,6 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "ალმიანი წერილები">
 <!ENTITY selectFlaggedCmd.accesskey "F">
-<!ENTITY selectInvertCmd.label ".მინიშვნის დასარკვა">
-<!ENTITY selectInvertCmd.accesskey "I">
 <!ENTITY folderPropsCmd.label "პარამეტრები…">
 <!ENTITY folderPropsFolderCmd.label "დასტის პარამეტრები…">
 <!ENTITY folderPropsNewsgroupCmd.label "ჯგუფების პარამეტრები…">
@@ -145,14 +140,10 @@
 <!ENTITY redoCopyMsgCmd.label "წერილის კოპირების გამეორება">
 <!ENTITY undoDefaultCmd.label "დაბრუნება">
 <!ENTITY redoDefaultCmd.label "გამეორება">
-<!ENTITY editDraftCmd.label "ესკიზის რედაქტირება">
-<!ENTITY editDraftCmd.accesskey "f">
 
 <!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label		"ფოსტის პულტი">
 <!ENTITY showMessengerToolbarCmd.accesskey	"o">
-<!ENTITY customizeToolbar.label                 "მორგება…">
-<!ENTITY customizeToolbar.accesskey             "C">
 
 <!-- showSearchToolbarCmd is also used by addressbook -->
 <!ENTITY showSearchToolbarCmd.label		"ძიების პანელი">
@@ -222,8 +213,6 @@
 <!ENTITY threads.accesskey "e">
 <!ENTITY allMsgsCmd.label "ყველა">
 <!ENTITY allMsgsCmd.accesskey "A">
-<!ENTITY expandOrCollapseMenu.label "ჩამოშლა/აკეცვა">
-<!ENTITY expandOrCollapseMenu.accesskey "x">
 <!ENTITY expandAllThreadsCmd.label "ყველა საქაღალდის ჩამოშლა">
 <!ENTITY expandAllThreadsCmd.accesskey "E">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -244,8 +233,6 @@
 <!ENTITY headersAllCmd.accesskey "A">
 <!ENTITY headersNormalCmd.label "ჩვეულებრივი">
 <!ENTITY headersNormalCmd.accesskey "N">
-<!ENTITY headersBriefCmd.label ".მონახაზი">
-<!ENTITY headersBriefCmd.accesskey "B">
 <!ENTITY bodyMenu.label "წერილის შიგთავსი">
 <!ENTITY bodyMenu.accesskey "B">
 <!ENTITY bodyAllowHTML.label "საწყისი HTML">
@@ -263,12 +250,6 @@
 <!ENTITY pageSourceCmd.label "წერილის პირველწყარო">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
-<!ENTITY translateMenu.label ".თარგმნა">
-
-<!-- Search Menu -->
-<!-- searchMenu is also used by addressbook -->
-<!ENTITY searchMenu.label "ძიება">
-<!ENTITY searchMenu.accesskey "S">
 
 <!ENTITY findCmd.label "ძებნა ამ წერილში…">
 <!ENTITY findCmd.accesskey "F">
@@ -281,24 +262,11 @@
 <!ENTITY findPrevCmd.accesskey "v">
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!-- LOCALIZATION NOTE (searchCurrentCmd.label) : Do not translate "&lt;" and "&gt;" in below line. -->
-<!ENTITY searchCurrentCmd.label ".ძიება &lt;მიმდინარე&gt;-ში">
-<!ENTITY searchCurrentCmd.accesskey "">
-<!-- LOCALIZATION NOTE (searchParentCmd.label) : Do not translate "&lt;" and "&gt;" in below line. -->
-<!ENTITY searchParentCmd.label ".ძიება &lt;ძირეულ&gt;-ში">
-<!ENTITY searchParentCmd.accesskey "">
-<!-- LOCALIZATION NOTE (searchParentParentCmd.label) : Do not translate "&lt;" and "&gt;" in below line. -->
-<!ENTITY searchParentParentCmd.label ".ძიება &lt;ძირეულის ძირეულში&gt;">
-<!ENTITY searchParentParentCmd.accesskey "">
 
 <!-- Go Menu -->
 
 <!ENTITY goMenu.label "გადასვლა">
 <!ENTITY goMenu.accesskey "G">
-<!ENTITY firstUnreadMsgCmd.label ".პირველი წასაკითხი წერილი">
-<!ENTITY firstUnreadMsgCmd.accesskey "U">
-<!ENTITY firstFlaggedMsgCmd.label ".პირველი ალმიანი წერილი">
-<!ENTITY firstFlaggedMsgCmd.accesskey "F">
 <!ENTITY nextMenu.label "შემდეგი">
 <!ENTITY nextMenu.accesskey "N">
 <!ENTITY nextMsgCmd.label "წერილი">
@@ -309,7 +277,6 @@
 <!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextFlaggedMsgCmd.label "ალმიანი წერილი">
 <!ENTITY nextFlaggedMsgCmd.accesskey "F">
-<!ENTITY nextUnflaggedMsgCmd.label "უალმო წერილი">
 <!ENTITY nextUnreadThread.label "წასკითხი საქაღალდე">
 <!ENTITY nextUnreadThread.accesskey "T">
 <!ENTITY nextUnreadThread.key "t">
@@ -327,10 +294,6 @@
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "ალმიანი წერილი">
 <!ENTITY prevFlaggedMsgCmd.accesskey "F">
-<!ENTITY backCmd.label ".უკან">
-<!ENTITY backCmd.accesskey "B">
-<!ENTITY forwardCmd.label ".წინ">
-<!ENTITY forwardCmd.accesskey "F">
 <!ENTITY startPageCmd.label "ფოსტის საწყისი გვერდი">
 <!ENTITY startPageCmd.accesskey "S">
 <!ENTITY msgMenu.label "წერილი">
@@ -388,10 +351,6 @@
 <!ENTITY fileHereMenu.accesskey "F">
 <!ENTITY copyHereMenu.label "კოპირების ადგილი">
 <!ENTITY copyHereMenu.accesskey "C">
-<!ENTITY addSenderToAddressBookCmd.label ".გამომგზავნის წიგნაკში ჩამატება">
-<!ENTITY addSenderToAddressBookCmd.accesskey "S">
-<!ENTITY addAllToAddressBookCmd.label ".ყველას წიგნაკში ჩამატება">
-<!ENTITY addAllToAddressBookCmd.accesskey "A">
 <!ENTITY tagMenu.label "ჭდე">
 <!ENTITY tagMenu.accesskey "g">
 <!ENTITY tagCustomize.label "მორგება…">
@@ -411,8 +370,6 @@
 <!ENTITY markAsReadCmd.label "წაკითხულად">
 <!ENTITY markAsReadCmd.accesskey "R">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "წასაკითხად">
-<!ENTITY markAsUnreadCmd.accesskey "U">
 <!ENTITY markThreadAsReadCmd.label "წაკითხულ საქაღალდედ">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -511,8 +468,6 @@
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label "მზადაა">
-<!ENTITY  unreadCountText.label "წასაკითხი: ">
-<!ENTITY  totalCountText.label " სულ: ">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "წერილის ახალ სარკმელში გახსნა">

@@ -47,7 +47,6 @@
 <!ENTITY statusColumn.label "სტატუსი">
 <!ENTITY sizeColumn.label "ზომა">
 <!ENTITY junkStatusColumn.label "ჯართის სტატუსი">
-<!ENTITY linesColumn.label "სტრიქონი">
 <!ENTITY unreadColumn.label "წასაკითხი საქაღალდეში">
 <!ENTITY totalColumn.label "სულა საქაღალდეში">
 <!ENTITY readColumn.label "წაკითხული">

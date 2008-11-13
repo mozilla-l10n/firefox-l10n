@@ -37,7 +37,6 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY pref.formatting.title        "ფორმატის გაგზავნა">
-<!ENTITY sendMail.label               "ფორმატის გაგზავნა">
 <!ENTITY sendMaildesc.label           "დაფორმატებული (HTML) წერილის გაგზავნისას ადრესატებისთვის რომელთაც მისი წაკითხვა არ შეუძლია:">
 <!ENTITY askMe.label                  "დამეკითხე (საფოსტო პროგრამა დაგეხმარებათ ფორმატის არჩევში)">
 <!ENTITY askMe.accesskey              "k">
@@ -48,11 +47,10 @@
 <!ENTITY sendBoth.label               "ორივე - ტექსტური და HTML ფორმატით გაგზავნა (იზრდება წერილის ზომა)">
 <!ENTITY sendBoth.accesskey           "n">
 <!ENTITY override.label               "წერილების რედაქტირებისას ნებისმიერი წერილისთვის ამ პარამეტრების შეცვლა შეგიძლიათ პარამეტრების მენიუში.">
-<!ENTITY receiveHTML.label            "თუ თქვენთვის ცნობილია, რომ ადრესატს შეუძლია HTML წერილის წაკითხვა, მოხსენით მონიშვნა 'წერილის ტექსტად (არა HTML) გაგზავნა' წიგნაკის ადრესატის ბარათში.">
 
 <!-- Html and Plain Text Domains  -->
 <!ENTITY domain.title                 "HTML და ტექსტური დომენები">
-<!ENTITY domaindesc.label             "წერილის გაგზავნისას ერთერთ ქვემოთმოყვანილ დომენის მისამართზე, ფოსტა ავტომატურად დააგზავნის მათ შესაბამისი ფორმატით.">
+<!ENTITY domaindesc.label             "წერილის გაგზავნისას ერთერთ ქვემოთმოყვანილ დომენის მისამართზე, ფოსტა ავტომატურად დააგზავნის მათ უმჯობესი ფორმატით (დაფორმატებული ან ჩვეულებრივი ტექსტი).">
 <!ENTITY HTMLdomaintitle.label        "HTML დომენები">
 <!ENTITY HTMLdomaintitle.accesskey    "M">
 <!ENTITY PlainTexttitle.label         "ტექსტური დომენები">
@@ -72,5 +70,5 @@
 
 <!ENTITY domainnameError.title        "დომენის სახელის შეცდომა">
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY invalidEntryError.label      "დომენის სახელი @string@ მცდარია და მხედველობაშI არ მიიღება. დომენის მართებული სახელები უნდა შეიცავდეს წერტილის ნიშანს '.' და სიმბოლოებს მის ორივე მხარეს.">
+<!ENTITY invalidEntryError.label      "დომენის სახელი @string@ მცდარია და მხედველობაში არ მიიღება. დომენის მართებული სახელები უნდა შეიცავდეს წერტილის ნიშანს '.' და სიმბოლოებს მის ორივე მხარეს.">
 

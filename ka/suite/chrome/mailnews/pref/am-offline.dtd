@@ -5,7 +5,6 @@
 <!ENTITY offlineNotDownload.label "წერილები რომელთა ზომა მეტია">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY kb.label "კბ-ზე">
-<!ENTITY days.label "დღის">
 <!ENTITY daysOld.label "დღის წინა">
 <!ENTITY message.label "წერილები">
 <!ENTITY nntpNotDownloadRead.label "წაკითხული წერილები">

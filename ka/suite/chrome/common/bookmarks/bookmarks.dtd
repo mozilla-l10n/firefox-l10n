@@ -40,17 +40,16 @@
 <!-- extracted from ./bookmarks.xul -->
 <!ENTITY menuBar.tooltip               "მენიუს პანელი">
 <!ENTITY bookmarkToolbar.tooltip       "სანიშნეების პულტი">
-<!ENTITY bookmarksSearch.tooltip       "სანიშნეების საძიებო პულტი">
 <!ENTITY menuitem.newBookmark.label    "სანიშნე">
-<!ENTITY command.newBookmark.accesskey "B">
+<!ENTITY menuitem.newBookmark.accesskey "B">
 <!ENTITY menuitem.newFolder.label      "დასტა">
+<!ENTITY menuitem.newFolder.accesskey  "F">
 <!ENTITY button.newFolder.label        "ახალი დასტა">
 <!ENTITY button.newFolder.accesskey    "N">
-<!ENTITY command.newFolder.accesskey   "F">
 <!ENTITY menuitem.newSeparator.label   "გამყოფი">
+<!ENTITY menuitem.newSeparator.accesskey "S">
 <!ENTITY button.newSeparator.label     "ახალი გამყოფი">
 <!ENTITY button.newSeparator.accesskey  "o">
-<!ENTITY command.newSeparator.accesskey "S">
 <!ENTITY menuitem.open.label           "სანიშნის გახსნა…">
 <!ENTITY menuitem.open.accesskey       "O">
 <!ENTITY menuitem.import.label         "იმპორტი…">
@@ -58,25 +57,27 @@
 <!ENTITY menuitem.export.label         "ექსპორტი…">
 <!ENTITY menuitem.export.accesskey     "e">
 <!ENTITY menuitem.find.label           "სანიშნეთა ძიება…">
-<!ENTITY command.findBookmarks.label   "ძიება…">
 <!ENTITY menuitem.find.accesskey       "S">
-<!ENTITY edit.find.keybinding          "f">
-<!ENTITY command.properties.label      "პარამეტრები…">
+<!ENTITY menuitem.find.find.key        "F">
+<!ENTITY command.findBookmarks.label   "ძიება…">
+<!ENTITY menuitem.properties.label     "პარამეტრები…">
+<!ENTITY menuitem.properties.accesskey "o">
+<!ENTITY button.properties.label       "პარამეტრები…">
 <!ENTITY button.properties.accesskey  "P">
-<!ENTITY command.properties.accesskey  "o">
-<!ENTITY edit.properties.keybinding    "i">
-<!ENTITY command.rename.label          "გადარქმევა…">
+<!ENTITY menuitem.properties.key       "I">
+<!ENTITY button.rename.label           "გადარქმევა…">
 <!ENTITY button.rename.accesskey      "R">
-<!ENTITY command.delete.label          "წაშლა">
+<!ENTITY button.delete.label           "წაშლა">
 <!ENTITY button.delete.accesskey      "D">
-<!ENTITY command.moveBookmark.label    "სანიშნ(ეებ)ის გადატანა…">
-<!ENTITY command.moveBookmarkShort.label "გადატანა…">
-<!ENTITY command.moveBookmark.accesskey "M">
+<!ENTITY menuitem.moveBookmark.label    "სანიშნ(ეებ)ის გადატანა…">
+<!ENTITY menuitem.moveBookmark.accesskey "M">
+<!ENTITY button.moveBookmark.label     "გადატანა…">
+<!ENTITY button.moveBookmark.accesskey "M">
 <!ENTITY command.addBookmark.label     "დამატება…">
 <!ENTITY command.manageBookmarks.label "მართვა">
 <!ENTITY command.sortFolder.label      "დასტის სორტირება…">
 <!ENTITY command.sortFolder.accesskey  "S">
-<!ENTITY edit.sortFolder.keybinding    "S">
+<!ENTITY command.sortFolder.key        "S">
 <!ENTITY command.sortFolderByName.label "დასტის სორტირება სახელით">
 <!ENTITY command.sortFolderByName.accesskey "N">
 
@@ -94,25 +95,18 @@
 <!ENTITY menuitem.personaltoolbarfolder.accesskey   "p">
 
 <!ENTITY treecol.name.label             "სახელი">
-<!ENTITY treecol.name.accesskey         "n">
 <!ENTITY treecol.name.tooltip           "დაწკაპეთ სახელით სორტირებისთვის">
 <!ENTITY treecol.url.label              "მისამართი">
-<!ENTITY treecol.url.accesskey          "l">
 <!ENTITY treecol.url.tooltip            "დაწკაპეთ მისამართით სორტირებისთვის">
 <!ENTITY treecol.shortcut.label         "სიტყვა–გასაღები">
-<!ENTITY treecol.shortcut.accesskey     "k">
 <!ENTITY treecol.shortcut.tooltip       "დაწკაპეთ საკვანძო სიტყვით სორტირებისთვის">
 <!ENTITY treecol.description.label      "აღწერა">
-<!ENTITY treecol.description.accesskey  "d">
 <!ENTITY treecol.description.tooltip    "დაწკაპეთ აღწერით სორტირებისთვის">
 <!ENTITY treecol.addedon.label          "დაემატა">
-<!ENTITY treecol.addedon.accesskey      "a">
 <!ENTITY treecol.addedon.tooltip        "დაწკაპეთ დამატებულით სორტირებისთვის">
 <!ENTITY treecol.lastmod.label          "ბოლო ცვლილება">
-<!ENTITY treecol.lastmod.accesskey      "m">
 <!ENTITY treecol.lastmod.tooltip        "დაწკაპეთ ბოლო ცვლილებებით სორტირებისთვის">
 <!ENTITY treecol.lastvisit.label        "ბოლო სტუმრობა">
-<!ENTITY treecol.lastvisit.accesskey    "b">
 <!ENTITY treecol.lastvisit.tooltip      "დაწკაპეთ ბოლო სტუმრობებით სორტირებისთვის">
 
 <!ENTITY bookmarksWindowTitle.label     "სანიშნეების მმართველი">

@@ -7,21 +7,14 @@
 <!ENTITY editorCmd.accesskey				"c">
 <!ENTITY editorCmd.commandkey				"4">
 
-<!ENTITY securityInfoCmd.label					".უსაფრთხოება">  
-<!ENTITY securityInfoCmd.accesskey				"s">
 <!ENTITY javaConsoleCmd.label					"Java კონსოლი">
 <!ENTITY javaConsoleCmd.accesskey				"j">
 
 <!ENTITY errorConsoleCmd.label                                  "შეცდომის კონსოლი">
 <!ENTITY errorConsoleCmd.accesskey				"C">
 
-<!-- LOCALIZATION NOTE (privacyMenu.label): DONT_TRANSLATE -->
-<!ENTITY privacyMenu.label "პრივატულობა და უსაფრთხოება">
-<!ENTITY privacyMenu.accesskey "p">
-
 <!ENTITY taskNavigator.tooltip  "ნავიგატორი">
 <!ENTITY taskComposer.tooltip  "რედაქტორი">
-<!ENTITY taskBar.tooltip  "სტატუსის პანელი">
 
 <!ENTITY webDevelopment.label "ვებ პროგრამირება">
 <!ENTITY webDevelopment.accesskey "W">

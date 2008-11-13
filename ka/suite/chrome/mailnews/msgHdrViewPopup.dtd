@@ -44,8 +44,8 @@
 <!ENTITY CopyEmailAddress.accesskey        "C">
 <!ENTITY CreateFilterFrom.label            "ფილტრის შექმნა…">
 <!ENTITY CreateFilterFrom.accesskey        "F">
-<!ENTITY BlockAddress.label                "მისამართების დაბლოკვა">
-<!ENTITY BlockAddress.accesskey            "A">
+<!ENTITY copyLinkCmd.label                 "ბმის მისამართის კოპირება">
+<!ENTITY copyLinkCmd.accesskey             "C">
 <!ENTITY CopyMessageId.label               "გზავნილის კოპირება კოდით (ID)">
 <!ENTITY OpenMessageForMsgId.label         "გზავნილის გახსნა კოდით (ID)">
 <!ENTITY OpenBrowserWithMsgId.label        "ბრაუზერით გზავნილის გახსნა კოდით (ID)">

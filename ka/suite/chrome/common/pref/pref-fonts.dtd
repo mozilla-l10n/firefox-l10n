@@ -24,8 +24,6 @@
 <!ENTITY  cursive.label                           "კურსივი:">
 <!ENTITY  cursive.accesskey                       "c">
 
-<!ENTITY  fontsize.units                          "პიქსელი">
-
 <!ENTITY  font.langGroup.latin1                   "დასავლური">
 <!ENTITY  font.langGroup.latin2                   "ცენტრალურ ევროპული">
 <!ENTITY  font.langGroup.japanese                 "იაპონური">
@@ -62,9 +60,7 @@
 <!ENTITY  useDefaultFontSerif.label               "კონტრასტული">
 <!ENTITY  useDefaultFontSansSerif.label           "ერთგვაროვანი">
 
-<!ENTITY  newLanguages.label                      "ახალი ენები შეიძლება დაემატოს ენების პანელიდან.">
-
-<!ENTITY  useDocumentFonts.label                  "დოკუმენტებისთვის ახალი შრიფტების ნებადართვა">
+<!ENTITY  useDocumentFonts.label                  "დოკუმენტებში ახალი შრიფტების ნებართვა">
 <!ENTITY  useDocumentFonts.accesskey              "o">
 
 <!-- leaving this stuff in for now -->
@@ -72,9 +68,3 @@
 <!ENTITY  header2                                 "როცა ვებგვერდი საკუთარ შრიფტებს უთითებს">
 <!ENTITY  useDefaultFont.label                    "მათ ნაცვლად ჩემი ძირითადი შრიფტების გამოყენება">
 <!ENTITY  useDefaultFont.accesskey                "u">
-<!-- LOCALIZATION NOTE (useDocFontNonDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
-<!ENTITY  useDocFontNonDynamic.label              "ვებგვერდზე მითითებული შრიფტების გამოყენება">
-<!ENTITY  useDocFontNonDynamic.accesskey          "p">
-<!-- LOCALIZATION NOTE (useDocFontDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
-<!ENTITY  useDocFontDynamic.label                 "ვებგვერდზე მითითებული ყველა შრიფტის გამოყენება">
-<!ENTITY  useDocFontDynamic.accesskey             "a">
