@@ -16,8 +16,6 @@
 <!ENTITY fontPlainText.label "Шрифт:">
 <!ENTITY fontPlainText.accesskey "ф">
 <!ENTITY displayQuoted.label "Настройки цитирования сообщений:">
-<!ENTITY readingMessagesHeader.label "Для входящих сообщений">
-<!ENTITY messageWrapping.label "Ширина текста">
 <!ENTITY wrapInMsg.label "Переносить текст по достижении ширины окна">
 <!ENTITY wrapInMsg.accesskey "н">
 <!ENTITY convertEmoticons.label "Отображать смайлики как графику">

@@ -12,12 +12,9 @@
 <!ENTITY directorySecure.accesskey "з">
 <!ENTITY directoryLogin.label "Имя пользователя и пароль:">
 <!ENTITY directoryLogin.accesskey "Р">
-<!ENTITY advancedOptionsButton.label "Дополнительные опции">
-<!ENTITY advancedOptionsButton.accesskey "Д">
 <!ENTITY General.tab "Основное">
 <!ENTITY Offline.tab "Автономно">
 <!ENTITY Advanced.tab "Дополнительно">
-<!ENTITY advancedOptionsTitle.label "Дополнительные опции">
 <!ENTITY portNumber.label "Номер порта:">
 <!ENTITY portNumber.accesskey "п">
 <!ENTITY searchFilter.label "Фильтр поиска:">

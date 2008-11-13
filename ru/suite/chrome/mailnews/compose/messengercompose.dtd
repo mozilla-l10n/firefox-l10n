@@ -21,7 +21,6 @@
 <!ENTITY attachMenu.label "Вложить">
 <!ENTITY attachMenu.accesskey "ж">
 <!ENTITY attachFileCmd.label "Файл(ы)…">
-<!ENTITY attachFileCmd.key "">
 <!ENTITY attachFileCmd.accesskey "л">
 <!ENTITY attachPageCmd.label "Веб-страницу…">
 <!ENTITY attachPageCmd.accesskey "е">
@@ -38,7 +37,6 @@
 <!ENTITY printCmd.label "Печать…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "П">
-<!ENTITY closeCmd.label "Закрыть">
 <!ENTITY editRewrapCmd.label "Переформатировать">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "е">
@@ -59,39 +57,10 @@
 <!ENTITY showComposeToolbarCmd.accesskey "П">
 <!ENTITY showFormatToolbarCmd.label "Панель форматирования">
 <!ENTITY showFormatToolbarCmd.accesskey "ф">
-<!ENTITY showParagraphMarksCmd.label ".Показывать метки абзацев">
-<!ENTITY pageSourceCmd.label ".Исходный код">
-<!ENTITY pageSourceCmd.accesskey "х">
-<!ENTITY pageInfoCmd.label ".Информация о странице">
-<!ENTITY pageInfoCmd.accesskey "И">
-<!ENTITY dcharMenu.label "Кодировка">
-<!ENTITY dcharIso1Cmd.label "Западноевропейская (ISO-8859-1)">
-<!ENTITY dcharIso2Cmd.label "Центральноевропейская (ISO-8859-2)">
-<!ENTITY dcharIso3Cmd.label "Южноевропейская (ISO-8859-3)">
-<!ENTITY dcharIso4Cmd.label "Прибалтийская (ISO-8859-4)">
-<!ENTITY dcharIso9Cmd.label "Турецкая (ISO-8859-9)">
-<!ENTITY dcharIso10Cmd.label "Скандинавская (ISO-8859-10)">
-<!ENTITY dcharIso14Cmd.label "Кельтская (ISO-8859-14)">
-<!ENTITY dcharIso15Cmd.label "Западноевропейская (ISO-8859-15)">
-<!ENTITY dcharJapanCmd.label "Японская (ISO-2022-JP)">
-<!ENTITY dcharTradChiBigCmd.label "Китайская традиционная (Big5)">
-<!ENTITY dcharSimpChiGbCmd.label "Китайская упрощённая (GB2312)">
-<!ENTITY dcharKoreanCmd.label "Корейская (EUC-KR)">
-<!ENTITY dcharUtf8Cmd.label "Юникод (UTF-8)">
-<!ENTITY dcharRusCmd.label "Кириллица (KOI8-R)">
-<!ENTITY dcharUkrCmd.label "Кириллица/Украина (KOI8-U)">
-<!ENTITY dcharIsoGreekCmd.label "Греческая (ISO-8859-7)">
-<!ENTITY dcharVietViCmd.label "Вьетнамская (VISCII)">
-<!ENTITY dcharThaiCmd.label "Тайская (TIS-620)">
-<!ENTITY dcharArmCmd.label "Армянская (ARMSCII-8)">
-<!ENTITY dcharDEFAULT.label "Установить кодировку по умолчанию для исходящей почты">
 <!ENTITY formatMenu.label "Формат">
 <!ENTITY formatMenu.accesskey "Ф">
 <!ENTITY optionsMenu.label "Настройки">
 <!ENTITY optionsMenu.accesskey "й">
-<!ENTITY doNotCompleteAddrCmd.label ".Не делать автодополнение адресов">
-<!ENTITY showMatchingAddrCmd.label ".Показывать совпадающие адреса">
-<!ENTITY addSignatureCmd.label ".Добавить файл подписи">
 <!ENTITY quoteCmd.label "Цитировать сообщение">
 <!ENTITY quoteCmd.accesskey "Ц">
 <!ENTITY selectAddressCmd.label "Выбрать адреса…">
@@ -126,25 +95,10 @@
 <!ENTITY htmlFormatCmd.accesskey "т">
 <!ENTITY bothFormatCmd.label "Обычный текст и HTML">
 <!ENTITY bothFormatCmd.accesskey "б">
-<!ENTITY UuencodeAttachmentCmd.label "UUE-кодирование вместо MIME для вложений">
 <!ENTITY fileCarbonCopyCmd.label "Поместить копию в папку">
 <!ENTITY fileCarbonCopyCmd.accesskey "к">
 <!ENTITY fileHereMenu.label "Поместить сюда">
-<!ENTITY debugMenu.label "Отладка">
-<!ENTITY outputTextCmd.label "Вывод текста">
-<!ENTITY outputHTMLCmd.label "Вывод HTML">
-<!ENTITY insertTextCmd.label "Вставить текст">
-<!ENTITY testSelectionCmd.label "Проверить выделение">
-<!ENTITY testTableLayoutCmd.label "Проверить структуру таблицы">
-<!ENTITY testDocumentCmd.label "Проверить документ">
-<!ENTITY showEmbeddedCmd.label "Показать встроенные объекты">
-<!ENTITY dumpContentCmd.label "Очистить дерево содержимого">
-<!ENTITY runUnitTestsCmd.label "Тестировать блоки">
-<!ENTITY startLogCmd.label "Начать протокол">
-<!ENTITY stopLogCmd.label "Закончить протокол">
-<!ENTITY runLogCmd.label "Выполнить протокол">
 <!ENTITY sendButton.label "Отправить">
-<!ENTITY quoteButton.label "Цитата">
 <!ENTITY addressButton.label "Адрес">
 <!ENTITY attachButton.label "Вложить">
 <!ENTITY spellingButton.label "Орфография">
@@ -154,14 +108,10 @@
 <!ENTITY formatToolbar.tooltip "Панель форматирования">
 <!ENTITY sendButton.tooltip "Отправить это сообщение сейчас">
 <!ENTITY sendlaterButton.tooltip "Отправить это сообщение позже">
-<!ENTITY quoteButton.tooltip "Цитировать предыдущее сообщение">
 <!ENTITY addressButton.tooltip "Выбрать адресата из адресной книги">
 <!ENTITY attachButton.tooltip "Вложить файл в это сообщение">
 <!ENTITY saveButton.tooltip "Сохранить это сообщение">
 <!ENTITY stopButton.tooltip "Остановить текущую передачу данных">
-<!ENTITY formatToolbar.boldChar "Ж">
-<!ENTITY formatToolbar.italicChar "К">
-<!ENTITY formatToolbar.underlineChar "Ч">
 <!ENTITY spellCheckNoSuggestions.label "Предположений не найдено">
 <!ENTITY spellCheckIgnoreWord.label "Пропустить слово">
 <!ENTITY spellCheckIgnoreWord.accesskey "П">

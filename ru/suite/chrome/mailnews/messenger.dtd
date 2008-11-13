@@ -10,7 +10,6 @@
 <!ENTITY newVirtualFolderCmd.accesskey "В">
 <!ENTITY newAccountCmd.label "Учётную запись…">
 <!ENTITY newAccountCmd.accesskey "У">
-<!ENTITY openMessageMenu.label "Открыть">
 <!ENTITY openMessageFileCmd.label "Открыть сохранённое сообщение…">
 <!ENTITY openMessageFileCmd.accesskey "с">
 <!ENTITY openAttachmentCmd.label "Вложения">
@@ -35,7 +34,6 @@
 <!ENTITY getNextNMsgCmd.accesskey "щ">
 <!ENTITY sendUnsentCmd.label "Отправить неотправленные сообщения">
 <!ENTITY sendUnsentCmd.accesskey "т">
-<!ENTITY loadFirstDraft.label "Сначала загрузить черновик сообщения">
 <!ENTITY subscribeCmd.label "Подписка…">
 <!ENTITY subscribeCmd.accesskey "д">
 <!ENTITY renameFolder.label "Переименовать папку…">
@@ -59,7 +57,6 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Предварительный просмотр">
 <!ENTITY printPreviewCmd.accesskey "д">
-<!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "Параметры страницы…">
 <!ENTITY printSetupCmd.accesskey "а">
 <!ENTITY deleteMsgCmd.label "Удалить сообщение">
@@ -85,8 +82,6 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Отмеченные флагом сообщения">
 <!ENTITY selectFlaggedCmd.accesskey "ф">
-<!ENTITY selectInvertCmd.label ".Обратить выделение">
-<!ENTITY selectInvertCmd.accesskey "в">
 <!ENTITY folderPropsCmd.label "Свойства…">
 <!ENTITY folderPropsFolderCmd.label "Свойства папки…">
 <!ENTITY folderPropsNewsgroupCmd.label "Свойства группы новостей…">
@@ -101,12 +96,8 @@
 <!ENTITY redoCopyMsgCmd.label "Повторить копирование сообщения">
 <!ENTITY undoDefaultCmd.label "Отменить">
 <!ENTITY redoDefaultCmd.label "Повторить">
-<!ENTITY editDraftCmd.label "Редактировать черновик">
-<!ENTITY editDraftCmd.accesskey "ч">
 <!ENTITY showMessengerToolbarCmd.label "Панель инструментов почты">
 <!ENTITY showMessengerToolbarCmd.accesskey "П">
-<!ENTITY customizeToolbar.label "Настроить…">
-<!ENTITY customizeToolbar.accesskey "а">
 <!ENTITY showSearchToolbarCmd.label "Панель поиска">
 <!ENTITY showSearchToolbarCmd.accesskey "а">
 <!ENTITY showLocationToolbarCmd.label "Панель адреса">
@@ -169,8 +160,6 @@
 <!ENTITY threads.accesskey "О">
 <!ENTITY allMsgsCmd.label "Все">
 <!ENTITY allMsgsCmd.accesskey "В">
-<!ENTITY expandOrCollapseMenu.label "Развернуть/свернуть">
-<!ENTITY expandOrCollapseMenu.accesskey "Р">
 <!ENTITY expandAllThreadsCmd.label "Развернуть все">
 <!ENTITY expandAllThreadsCmd.accesskey "Р">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -191,8 +180,6 @@
 <!ENTITY headersAllCmd.accesskey "В">
 <!ENTITY headersNormalCmd.label "Обычные">
 <!ENTITY headersNormalCmd.accesskey "О">
-<!ENTITY headersBriefCmd.label ".Краткие">
-<!ENTITY headersBriefCmd.accesskey "К">
 <!ENTITY bodyMenu.label "Тело сообщения">
 <!ENTITY bodyMenu.accesskey "Т">
 <!ENTITY bodyAllowHTML.label "В виде исходного HTML">
@@ -210,9 +197,6 @@
 <!ENTITY pageSourceCmd.label "Исходный текст">
 <!ENTITY pageSourceCmd.accesskey "х">
 <!ENTITY pageSourceCmd.key "u">
-<!ENTITY translateMenu.label ".Перевести">
-<!ENTITY searchMenu.label "Поиск">
-<!ENTITY searchMenu.accesskey "о">
 <!ENTITY findCmd.label "Найти в этом сообщении…">
 <!ENTITY findCmd.accesskey "Н">
 <!ENTITY findCmd.key "f">
@@ -224,18 +208,8 @@
 <!ENTITY findPrevCmd.accesskey "щ">
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY searchCurrentCmd.label ".Поиск в &lt;текущей папке&gt;">
-<!ENTITY searchCurrentCmd.accesskey "">
-<!ENTITY searchParentCmd.label ".Поиск в &lt;папке на уровень выше&gt;">
-<!ENTITY searchParentCmd.accesskey "">
-<!ENTITY searchParentParentCmd.label ".Поиск в &lt;папке на два уровня выше&gt;">
-<!ENTITY searchParentParentCmd.accesskey "">
 <!ENTITY goMenu.label "Переход">
 <!ENTITY goMenu.accesskey "П">
-<!ENTITY firstUnreadMsgCmd.label ".К первому непрочитанному сообщению">
-<!ENTITY firstUnreadMsgCmd.accesskey "н">
-<!ENTITY firstFlaggedMsgCmd.label ".К первому сообщению, отмеченному флагом">
-<!ENTITY firstFlaggedMsgCmd.accesskey "ф">
 <!ENTITY nextMenu.label "Следующее…">
 <!ENTITY nextMenu.accesskey "С">
 <!ENTITY nextMsgCmd.label "сообщение">
@@ -246,7 +220,6 @@
 <!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextFlaggedMsgCmd.label "Отмеченное флагом сообщение">
 <!ENTITY nextFlaggedMsgCmd.accesskey "ф">
-<!ENTITY nextUnflaggedMsgCmd.label "Не отмеченное флагом сообщение">
 <!ENTITY nextUnreadThread.label "непрочитанное обсуждение">
 <!ENTITY nextUnreadThread.accesskey "о">
 <!ENTITY nextUnreadThread.key "t">
@@ -264,10 +237,6 @@
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Отмеченное флагом сообщение">
 <!ENTITY prevFlaggedMsgCmd.accesskey "ф">
-<!ENTITY backCmd.label ".Назад">
-<!ENTITY backCmd.accesskey "Н">
-<!ENTITY forwardCmd.label ".Вперёд">
-<!ENTITY forwardCmd.accesskey "В">
 <!ENTITY startPageCmd.label "Начальная страница">
 <!ENTITY startPageCmd.accesskey "Н">
 <!ENTITY msgMenu.label "Сообщение">
@@ -325,10 +294,6 @@
 <!ENTITY fileHereMenu.accesskey "П">
 <!ENTITY copyHereMenu.label "Копировать сюда">
 <!ENTITY copyHereMenu.accesskey "К">
-<!ENTITY addSenderToAddressBookCmd.label ".Добавить отправителя в адресную книгу">
-<!ENTITY addSenderToAddressBookCmd.accesskey "Д">
-<!ENTITY addAllToAddressBookCmd.label ".Добавить всех в адресную книгу">
-<!ENTITY addAllToAddressBookCmd.accesskey "в">
 <!ENTITY tagMenu.label "Присвоить метку">
 <!ENTITY tagMenu.accesskey "М">
 <!ENTITY tagCustomize.label "Настроить…">
@@ -348,8 +313,6 @@
 <!ENTITY markAsReadCmd.label "Как прочитанное">
 <!ENTITY markAsReadCmd.accesskey "ч">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "Как непрочитанное">
-<!ENTITY markAsUnreadCmd.accesskey "н">
 <!ENTITY markThreadAsReadCmd.label "Обсуждение как прочитанное">
 <!ENTITY markThreadAsReadCmd.accesskey "О">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -438,8 +401,6 @@
 <!ENTITY junkButton.tooltip "Отметить выбранные сообщения как спам">
 <!ENTITY notJunkButton.tooltip "Отметить выбранные сообщение как не спам">
 <!ENTITY statusText.label "Готово">
-<!ENTITY unreadCountText.label "Непрочитанных:">
-<!ENTITY totalCountText.label " Всего:">
 <!ENTITY contextOpenNewWindow.label "Открыть в новом окне">
 <!ENTITY contextOpenNewWindow.accesskey "н">
 <!ENTITY contextEditAsNew.label "Редактировать как новое…">

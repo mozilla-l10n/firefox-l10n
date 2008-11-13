@@ -3,10 +3,6 @@
 <!ENTITY generalSettings.caption "Основные параметры">
 <!ENTITY confirmMove.label "Запрашивать подтверждение при перемещении папок в «Удалённые»">
 <!ENTITY confirmMove.accesskey "а">
-<!ENTITY useMessenger.label "Использовать почтовый клиент из MAPI-приложений">
-<!ENTITY useMessenger.accesskey "И">
-<!ENTITY autounzip.label "Автоматически распаковывать zip-архивы при сохранении вложений">
-<!ENTITY autounzip.accesskey "А">
 <!ENTITY preserveThreading.label "Сохранять группировку по обсуждениям при сортировке сообщений">
 <!ENTITY preserveThreading.accesskey "г">
 <!ENTITY defaultMailSettings.description "Установить &brandShortName; как приложение по умолчанию для:">

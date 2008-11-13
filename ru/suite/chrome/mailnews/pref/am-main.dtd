@@ -1,7 +1,6 @@
 <!ENTITY accountTitle.label "Параметры учётной записи">
 <!ENTITY accountName.label "Имя учётной записи:">
 <!ENTITY accountName.accesskey "И">
-<!ENTITY accountNameDesc.label "Имена учётных записей используются для их идентификации">
 <!ENTITY identityTitle.label "Личные данные">
 <!ENTITY identityDesc.label "Для каждой учётной записи имеются персональные данные, которые смогут увидеть читающие ваши письма адресаты.">
 <!ENTITY name.label "Имя отправителя:">
@@ -14,7 +13,6 @@
 <!ENTITY organization.accesskey "О">
 <!ENTITY signature.label "Файл, содержащий подпись:">
 <!ENTITY signature.accesskey "п">
-<!ENTITY edit.label "Изменить…">
 <!ENTITY choose.label "Выбрать…">
 <!ENTITY choose.accesskey "ы">
 <!ENTITY editVCard.label "Редактировать визитную карточку…">
