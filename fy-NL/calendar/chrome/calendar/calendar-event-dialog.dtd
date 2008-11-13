@@ -75,8 +75,6 @@
 <!ENTITY  event.menu.file.page.setup.accesskey            "i">
 <!ENTITY  event.menu.file.print.label                     "Ofdrukke">
 <!ENTITY  event.menu.file.print.accesskey                 "d">
-<!ENTITY  event.menu.file.exit.label                      "Ofslute">
-<!ENTITY  event.menu.file.exit.accesskey                  "O">
 
 <!ENTITY  event.menu.edit.label                           "Bewurkje">
 <!ENTITY  event.menu.edit.accesskey                       "w">

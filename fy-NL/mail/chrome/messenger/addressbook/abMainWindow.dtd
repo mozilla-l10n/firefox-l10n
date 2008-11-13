@@ -35,12 +35,6 @@
 <!ENTITY printAddressBook.label                         "Adresboek ôfdrukke…">
 <!ENTITY printAddressBook.accesskey                     "f">
 
-<!ENTITY quitApplicationCmdWin.label                    "Ofslute">
-<!ENTITY quitApplicationCmdWin.accesskey                "O">
-<!ENTITY quitApplicationCmd.label                       "Ofslute">
-<!ENTITY quitApplicationCmd.accesskey                   "O">
-<!ENTITY quitApplicationCmd.key                         "Q">
-
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Bewurkje">
 <!ENTITY editMenu.accesskey                             "W">
