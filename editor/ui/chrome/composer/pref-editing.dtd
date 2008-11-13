@@ -4,9 +4,9 @@
 <!ENTITY  authorName.accesskey      "А">
 <!ENTITY  pageColorHeader           "Зовнішність сторінки за замовчанням">
 
-<!ENTITY defaultColorsRadio.label   "Стандартні для читача кольори (Не встановлювати кольори в сторінці)">
+<!ENTITY defaultColors.label        "Стандартні для читача кольори (Не встановлювати кольори в сторінці)">
 <!ENTITY defaultColors.accesskey    "С">
-<!ENTITY customColorsRadio.label    "Власні кольори:">
+<!ENTITY customColors.label         "Власні кольори:">
 <!ENTITY customColors.accesskey     "В">
 
 <!ENTITY normalText.label           "Нормальний текст">
