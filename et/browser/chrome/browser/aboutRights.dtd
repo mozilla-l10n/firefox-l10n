@@ -29,37 +29,39 @@
 <!ENTITY rights.intro-point3-unbranded      "Igasugused selle tootega seonduvad privaatsuse reeglid peaks olema ülesnimetatud siin.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a               "&brandShortName; pakub ka lisanduvaid veebilehtede infoteenuseid, nagu näiteks teenus SafeBrowsing; siiski ei garanteeri me, et need on 100&#37; täpsed või veavabad. Rohkem infot, kaasa arvatud infot, kuidas need teenused keelata, võib leida ">
+<!ENTITY rights.intro-point4a               "&brandShortName; pakub ka lisanduvaid veebipõhiseid infoteenuseid, nagu näiteks teenus SafeBrowsing; siiski ei garanteeri me, et need on 100&#37; täpsed või veavabad. Rohkem infot, kaasa arvatud infot, kuidas need teenused keelata, võib leida ">
 <!ENTITY rights.intro-point4b               "teenuse tingimustest">
 <!ENTITY rights.intro-point4c               ".">
 
 <!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded     "Kui see toode sisaldab endas veebiteenuseid, siis igasugused seonduvad teenuse tingimused selle/nende teenuse/teenuste kohta peaks olema viidatud ">
-<!ENTITY rights.intro-point4b-unbranded     "veebilehtede teenuste">
+<!ENTITY rights.intro-point4b-unbranded     "veebiteenuste">
 <!ENTITY rights.intro-point4c-unbranded     " sektsioonis.">
 
-<!ENTITY rights.webservices-header          "&brandFullName;i veebilehtede teenused">
+<!ENTITY rights.webservices-header          "&brandFullName;i veebiteenused">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; kasutab veebilehtede infoteenuseid (&quot;teenused&quot;), nagu näiteks teenus SafeBrowsing, mis on sulle saadaval selles &brandShortName;i binaarses versioonis, nagu on kirjeldatud allpool. Kui sa ei taha kasutada neid teenuseid või allolevad tingimused on sulle vastuvõetamatud, siis võid sa teenuse SafeBrowsing välja lülitada, avades selleks rakenduse sätete muutmise akna ning valides sealt sekstsiooni ">
-<!ENTITY rights.webservices-b "Turvalisus">
-<!ENTITY rights.webservices-c ". Edasi eemalda linnuke valikutelt &quot;&blockAttackSites.label;&quot; ja &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.webservices-a               "&brandFullName; kasutab veebipõhiseid infoteenuseid (&quot;teenused&quot;), nagu näiteks teenus SafeBrowsing, mis on sulle saadaval selles &brandShortName;i binaarses versioonis, nagu on kirjeldatud allpool. Kui sa ei taha kasutada neid teenuseid või allolevad tingimused on sulle vastuvõetamatud, siis võid sa teenuse SafeBrowsing välja lülitada, avades selleks rakenduse sätete muutmise akna ning valides sealt sekstsiooni ">
+<!ENTITY rights.webservices-b               "Turvalisus">
+<!ENTITY rights.webservices-c               ". Edasi eemalda linnuke valikutelt &quot;&blockAttackSites.label;&quot; ja &quot;&blockWebForgeries.label;&quot;">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "Ülevaade veebilehtede teenustest, mida toode sisaldab ning juhenditest, kuidas neid keelata kui vajalik, peaks olema siin lisatud.">
+<!ENTITY rights.webservices-unbranded       "Ülevaade veebipõhistest teenustest, mida toode sisaldab ning juhenditest, kuidas neid keelata kui vajalik, peaks olema siin lisatud.">
 
 <!-- point 1 text for unbranded builds -->
 <!ENTITY rights.webservices-term1-unbranded "Igasugused vajalikud teenuste tingimused selle toote jaoks peaks olema siin lisatud.">
 
 <!-- points 1-7 text for branded builds -->
-<!ENTITY rights.webservices-term1 "&vendorShortName; ja selle kaasautorid, litsensiaarid ning partnerid töötavad selle heaks, et pakkuda kõige täpsemat ja uuenduslikumat infot veebivõltsingute ja kurivara kohta. Siiski ei saa nad garanteerida, et see info on kõikehõlmav ja veavaba: mõned riskantsed veebilehed võivad jääda tuvastamata ja mõned turvalised saidid võidakse vea tõttu saada ohtlikuks märgitud.">
-<!ENTITY rights.webservices-term2 "&vendorShortName; võib omal valikul teenuseid muuta või nende pakkumise lõpetada.">
-<!ENTITY rights.webservices-term3 "Oled tervitatud kasutama neid teenuseid kaasneva &brandShortName;i versiooniga, ja sul on kõik vajalikud õigused, et seda teha.  &vendorShortName; ja selle litsensiaarid on kaitsnud kõik muud teenuste õigused.  Need tingimused ei ole mõeldud limiteerima misiganes õigusi, mis on &brandShortName;ile ja vastavale &brandShortName;i lähtekoodi versioonile rakenduvate avatud koodi litsentsidega tagatud.">
-<!ENTITY rights.webservices-term4 "The Services are provided &quot;as-is.&quot;  &vendorShortName;, its contributors, licensors, and distributors, disclaim all warranties, whether express or implied, including without limitation, warranties that the Services are merchantable and fit for your particular purposes.  You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.">
-<!ENTITY rights.webservices-term5 "Except as required by law, &vendorShortName;, its contributors, licensors, and distributors will not be liable for any indirect, special, incidental, consequential, punitive, or exemplary damages arising out of or in any way relating to the use of &brandShortName; and the Services.  The collective liability under these terms will not exceed $500 (five hundred dollars). Some jurisdictions do not allow the exclusion or limitation of certain damages, so this exclusion and limitation may not apply to you.">
-<!ENTITY rights.webservices-term6 "&vendorShortName; võib neid tingimuse vajadusel aegajalt muuta. Tingimuste muutmine või nendest loobumine &vendorShortName; kirjaliku loata on keelatud.">
-<!ENTITY rights.webservices-term7 "These terms are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.">
+<!ENTITY rights.webservices-term1           "&vendorShortName; ja selle kaasautorid, litsensiaarid ning partnerid töötavad selle heaks, et pakkuda kõige täpsemat ja uuenduslikumat infot veebivõltsingute ja kurivara kohta. Siiski ei saa nad garanteerida, et see info on kõikehõlmav ja veavaba: mõned riskantsed veebilehed võivad jääda tuvastamata ja mõned turvalised saidid võidakse vea tõttu saada ohtlikuks märgitud.">
+<!ENTITY rights.webservices-term2           "&vendorShortName; võib omal valikul teenuseid muuta või nende pakkumise lõpetada.">
+<!ENTITY rights.webservices-term3           "Oled tervitatud kasutama neid teenuseid kaasneva &brandShortName;i versiooniga ja sul on kõik vajalikud õigused, et seda teha.  &vendorShortName; ja selle litsensiaarid on kaitsnud kõik muud teenuste õigused.  Need tingimused ei ole mõeldud limiteerima misiganes õigusi, mis on &brandShortName;ile ja vastavale &brandShortName;i lähtekoodi versioonile rakenduvate avatud koodi litsentsidega tagatud.">
+<!ENTITY rights.webservices-term4           "Teenuseid osutatakse &quot;nii, nagu nad on&quot; ning &vendorShortName;, selle kaasautorid, litsensiaarid ja levitajad ütlevad lahti igasugustest garantiidest, nii otsestest kui kaudsetest, sealhulgas ilma piiranguta garantiist, et teenused on turustatavad ja sobivad sinu vajadustele. Sa kannad kogu riski oma vajadustele vastavate teenuste valimise ning nende kvaliteedi ja toimimise eest. Mõnes õigusruumis ei ole kaudsete garantiide välistamine või piiramine lubatud; sel juhul ei pruugi lahtiütlus sinu kohta kehtida.">
+<!ENTITY rights.webservices-term5           "Kui seadusega ei ole teisiti ette nähtud, ei vastuta &vendorShortName;, selle kaasautorid, litsentsiaarid ja levitajad mingisuguse kaudse, erilise, ettenägematu, millestki muust tulenenud, rahalist hüvitust või hoiatust kaasa toova kahju eest, mis võib tekkida &brandShortName;i ja selle teenuste kasutamisest või on kuidagi seotud nende kasutamisega. Nende tingimuste kohane kollektiivne vastutus ei ületa 500 dollarit. Mõnes õigusruumis ei ole teatud kahjude
+välistamine või piiramine lubatud; sel juhul ei pruugi see välistamine ja  piiramine sinu kohta kehtida.">
+<!ENTITY rights.webservices-term6           "&vendorShortName; võib neid tingimuse vajadusel aegajalt muuta. Tingimuste muutmine või nendest loobumine &vendorShortName; kirjaliku loata on keelatud.">
+<!ENTITY rights.webservices-term7           "Need tingimused vastavad USA California osariigi seadustele, mis välistab konflikti seadustega. Kui mingi osa neist tingimustest osutub kehtetuks või ei ole jõustatav, jäävad teised osad täielikult jõusse. Konflikti korral nende tingimuste tõlgitud ja ingliskeelse versiooni vahel kehtib ingliskeelne
+versioon.">
