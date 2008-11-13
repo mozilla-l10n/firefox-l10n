@@ -245,6 +245,8 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
+<!ENTITY fontHelvetica.label "Helvetica, Arial">
+<!ENTITY fontHelvetica.accesskey "l">
 <!ENTITY localfontfaceMenu.label "Локальні шрифти">
 <!ENTITY localfontfaceMenu.accesskey "Л">
 
@@ -594,6 +596,4 @@
 <!-- FIXME: localize -->
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveStyles.key "Y">
-
 <!ENTITY pasteTableCmd.accesskey "a">
-<!ENTITY fontHelvetica.label "Helvetica, Arial">
