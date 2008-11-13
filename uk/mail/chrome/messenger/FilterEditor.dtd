@@ -15,8 +15,6 @@
 <!ENTITY filterActionDesc.label "Виконувати наступні дії:">
 <!ENTITY filterActionDesc.accesskey "и">
 
-<!ENTITY newFolderButton.label "Створити теку…">
-<!ENTITY newFolderButton.accesskey "т">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY forwardTo.label "Переслати повідомлення до">
