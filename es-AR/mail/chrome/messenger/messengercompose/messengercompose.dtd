@@ -1,4 +1,4 @@
-<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+q<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Redacción: (sin asunto)">
 
 <!-- File Menu -->
@@ -46,11 +46,6 @@
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "p">
-<!ENTITY quitApplicationCmdWin.label "Salir">
-<!ENTITY quitApplicationCmdWin.accesskey "S">
-<!ENTITY quitApplicationCmd.label "Salir">
-<!ENTITY quitApplicationCmd.accesskey "S">
-<!ENTITY quitApplicationCmd.key "Q">
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "Editar">
