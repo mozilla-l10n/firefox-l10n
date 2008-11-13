@@ -77,8 +77,6 @@
 <!ENTITY event.menu.file.page.setup.accesskey "u">
 <!ENTITY event.menu.file.print.label "Prenta">
 <!ENTITY event.menu.file.print.accesskey "P">
-<!ENTITY event.menu.file.exit.label "Hætta">
-<!ENTITY event.menu.file.exit.accesskey "H">
 <!ENTITY event.menu.edit.label "Breyta">
 <!ENTITY event.menu.edit.accesskey "B">
 <!ENTITY event.menu.edit.undo.label "Afturkalla">
