@@ -52,11 +52,13 @@
 
 <!ENTITY InputSettings.label "Параметри поля">
 <!ENTITY InputName.label "Назва поля:">
+<!ENTITY InputName.accesskey "п">
 <!ENTITY GroupName.label "Назва групи:">
-<!ENTITY Name.accesskey "Н">
+<!ENTITY GroupName.accesskey "г">
 <!ENTITY InputValue.label "Значення поля:">
+<!ENTITY InputValue.accesskey "н">
 <!ENTITY InitialValue.label "Початкове значення:">
-<!ENTITY Value.accesskey "З">
+<!ENTITY InitialValue.accesskey "з">
 <!ENTITY InputChecked.label "Спочатку встановлений">
 <!ENTITY InputChecked.accesskey "с">
 <!ENTITY InputSelected.label "Спочатку вибраний">
