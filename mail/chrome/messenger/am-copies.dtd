@@ -6,13 +6,9 @@
 <!ENTITY fccMailFolder.accesskey "б">
 <!ENTITY fccReplyFollowsParent.label "Зберегти відповідь у теці з початковим повідомленням">
 <!ENTITY fccReplyFollowsParent.accesskey "ч">
-<!ENTITY chooseFolderButton.label "Обрати теку…">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Посилати таємну копію на ці адреси:">
 <!ENTITY bccAddress.accesskey "т">
-<!ENTITY specialFolderTitle.label "Спеціальні теки">
-<!ENTITY draftMailFolder.label "Зберігати чернетки в:">
-<!ENTITY templateMailFolder.label "Зберігати шаблони листів у:">
 <!ENTITY saveMessageDlg.label "Показувати діалог підтвердження під час збереження пошти">
 <!ENTITY saveMessageDlg.accesskey "к">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
