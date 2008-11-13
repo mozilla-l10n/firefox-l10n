@@ -13,7 +13,7 @@
 <!ENTITY purge1.accesskey       "K">
 <!ENTITY purge2.label           "päeva">
 
-<!ENTITY whitelist.label        "Kirja ei märgita rämpspostiks, kui saatja on: ">
+<!ENTITY whitelist.label        "Kirja ei märgita rämpspostiks, kui saatja on järgnevates aadressiraamatutes: ">
 <!ENTITY whitelist.accesskey    "K">
 
 <!ENTITY ispHeaders.label       "Usaldatakse rämpsposti päiseid, mille on määranud:">
