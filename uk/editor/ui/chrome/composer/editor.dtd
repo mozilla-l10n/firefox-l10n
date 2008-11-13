@@ -44,17 +44,17 @@
 
 <!-- View menu items -->
 <!ENTITY viewMenu.label "Вигляд">
-<!ENTITY viewmenu.accesskey "В">
+<!ENTITY viewMenu.accesskey "В">
 <!ENTITY compositionToolbarCmd.label "Панель інструментів для написання">
-<!ENTITY compositiontb.accesskey "П">
+<!ENTITY compositionToolbarCmd.accesskey "П">
 <!ENTITY formattingToolbarCmd.label "Панель форматування">
-<!ENTITY formattingtb.accesskey "ф">
+<!ENTITY formattingToolbarCmd.accesskey "ф">
 <!ENTITY editmodeToolbarCmd.label "Панель режиму редагування">
-<!ENTITY editmodetb.accesskey "р">
+<!ENTITY editmodeToolbarCmd.accesskey "р">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Формат">
-<!ENTITY formatmenu.accesskey "о">
+<!ENTITY formatMenu.accesskey "о">
 
 <!ENTITY helpMenu.label "Довідка">
 <!ENTITY aboutCmd.label ".Про програму">
