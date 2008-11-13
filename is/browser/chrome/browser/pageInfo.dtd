@@ -91,7 +91,7 @@
 <!ENTITY permPopup "Opna sprettiglugga">
 <!ENTITY permCookie "Setja smákökur">
 <!ENTITY permInstall "Setja upp viðbætur eða þema">
-<!ENTITY securityTab "öryggis">
+<!ENTITY securityTab "Öryggi">
 <!ENTITY securityTab.accesskey "Ö">
 <!ENTITY securityHeader "Öryggisupplýsingar þessarar síðu">
 <!ENTITY securityView.certView "Skoða skilríki">
