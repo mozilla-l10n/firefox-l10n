@@ -31,11 +31,6 @@
 <!ENTITY printCardViewCmd.key "P">
 <!ENTITY printAddressBook.label "Stampa rubrica indirizzi…">
 <!ENTITY printAddressBook.accesskey "m">
-<!ENTITY quitApplicationCmdWin.label "Esci">
-<!ENTITY quitApplicationCmdWin.accesskey "E">
-<!ENTITY quitApplicationCmd.label "Esci">
-<!ENTITY quitApplicationCmd.accesskey "E">
-<!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY editMenu.label "Modifica">
 <!ENTITY editMenu.accesskey "M">
 <!ENTITY undoCmd.label "Annulla">

@@ -57,6 +57,11 @@
 <!ENTITY HomeCountry.accesskey "a">
 <!ENTITY HomeWebPage.label "Pagina web:">
 <!ENTITY HomeWebPage.accesskey "e">
+<!ENTITY Birthday.label "Compleanno:">
+<!ENTITY Birthday.accesskey "m">
+<!ENTITY Year.emptytext "Anno">
+<!ENTITY Or.value "o">
+<!ENTITY Age.emptytext "Età">
 <!ENTITY Work.tab "Lavoro">
 <!ENTITY Work.accesskey "L">
 <!ENTITY JobTitle.label "Titolo:">
@@ -81,11 +86,6 @@
 <!ENTITY WorkWebPage.accesskey "e">
 <!ENTITY Other.tab "Altro">
 <!ENTITY Other.accesskey "r">
-<!ENTITY Birthday.label "Compleanno:">
-<!ENTITY Birthday.accesskey "m">
-<!ENTITY Year.emptytext "Anno">
-<!ENTITY Or.value "o">
-<!ENTITY Age.emptytext "Età">
 <!ENTITY Custom1.label "Personalizzato 1:">
 <!ENTITY Custom1.accesskey "1">
 <!ENTITY Custom2.label "Personalizzato 2:">
