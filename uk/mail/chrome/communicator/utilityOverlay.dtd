@@ -25,7 +25,6 @@
 <!ENTITY pasteCmd.key						"V">  
 <!ENTITY pasteCmd.accesskey					"т"> 
 <!ENTITY deleteCmd.label					"Стерти">  
-<!ENTITY deleteCmd.key						"D">  
 <!ENTITY deleteCmd.accesskey				"С"> 
 <!ENTITY selectAllCmd.label					"Виділити все">  
 <!ENTITY selectAllCmd.key					"A">  
@@ -35,8 +34,6 @@
 <!ENTITY preferencesCmdUnix.label       "Налаштування">
 <!ENTITY preferencesCmdUnix.accesskey     "Н"> 
 
-<!ENTITY findTypeTextCmd.label "Пошук тексту під час друку">
-<!ENTITY findTypeTextCmd.accesskey "ш">
 
 <!ENTITY viewMenu.label					"Вигляд"> 
 <!ENTITY viewMenu.accesskey				"в"> 
@@ -45,18 +42,10 @@
 <!ENTITY showTaskbarCmd.label					"Рядок стану">  
 <!ENTITY showTaskbarCmd.accesskey				"я"> 
 
-<!ENTITY direct.label                                   "В мережі (проксі: відсутній)">
-<!ENTITY direct.accesskey                               "і">
-<!ENTITY manual.label                                   "В мережі (проксі: вручну)">
-<!ENTITY manual.accesskey                               "р">
-<!ENTITY pac.label                                      "В мережі (проксі: авто)">
-<!ENTITY pac.accesskey                                  "а">
 
 <!ENTITY proxy.label                                    "Конфігурація проксі-сервера…">
 <!ENTITY proxy.accesskey                                "к">
 
-<!ENTITY findTypeTextCmd.key        "/">
-<!ENTITY findTypeLinksCmd.key       "'">
 
 <!ENTITY closeCmd.label			"Закрити">  
 <!ENTITY closeCmd.key			"W">  
