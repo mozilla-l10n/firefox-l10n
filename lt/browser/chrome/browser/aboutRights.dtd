@@ -32,7 +32,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
 <!ENTITY rights.intro-header    "Apie Jūsų teises">
-<!ENTITY rights.intro "„&brandFullName;“ yra laisvoji atvirojo kodo programa, kuriama tūkstančius žmonių iš viso pasaulio apimančios bendruomenės. Keletas dalykų, kuriuos turėtumėte žinoti:">
+<!ENTITY rights.intro "„&brandFullName;“ yra laisvoji atvirojo kodo programa, kuriama bendruomenės, apimančios tūkstančius žmonių iš viso pasaulio. Keletas dalykų, kuriuos turėtumėte žinoti:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -42,7 +42,7 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-<!ENTITY rights.intro-point1a "„&brandShortName;“ programą Jūs galite naudoti, vadovaudamiesi ">
+<!ENTITY rights.intro-point1a "Programa „&brandShortName;“ Jums leidžiama naudotis, vadovaujantis ">
 <!ENTITY rights.intro-point1b "„Mozilla“ viešąja licencija (Mozilla Public License)">
 <!ENTITY rights.intro-point1c ". Ši licencija leidžia „&brandShortName;“ naudotis, ją dauginti ir platinti kitiems. Be to, galite laisvai modifikuoti programos pradinius tekstus. Licencija nedraudžia platinti ir modifikuotų programos versijų.">
 
