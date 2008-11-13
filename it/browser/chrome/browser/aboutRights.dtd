@@ -12,16 +12,16 @@
 <!ENTITY rights.intro-point3b "a questo indirizzo">
 <!ENTITY rights.intro-point3c ".">
 <!ENTITY rights.intro-point3-unbranded "Qualsiasi informativa sulla privacy relativa a questo prodotto dovrà essere riportata in questa sezione.">
-<!ENTITY rights.intro-point4a "&brandShortName; offre alcuni servizi opzionali in grado di recuperare informazioni da siti web, come ad esempio il servizio di SafeBrowsing, anche se non è possibile garantire l'accuratezza e l'affidabilità di tali servizi. Ulteriori dettagli, comprese indicazioni per disattivarli, sono disponibili ">
+<!ENTITY rights.intro-point4a "&brandShortName; offre alcuni servizi opzionali, come ad esempio il servizio di SafeBrowsing, in grado di recuperare informazioni da siti web, anche se non è possibile garantire l'accuratezza e l'affidabilità di tali servizi. Ulteriori dettagli, comprese indicazioni per disattivarli, sono disponibili ">
 <!ENTITY rights.intro-point4b "nei termini di utilizzo">
 <!ENTITY rights.intro-point4c ".">
 <!ENTITY rights.intro-point4a-unbranded "Se questo prodotto include dei servizi web, tutti i termini di utilizzo dovranno essere riportati nella sezione ">
 <!ENTITY rights.intro-point4b-unbranded "Web Site Services">
 <!ENTITY rights.intro-point4c-unbranded ".">
 <!ENTITY rights.webservices-header "Servizi web di &brandFullName;">
-<!ENTITY rights.webservices-a "&brandFullName; utilizza alcuni servizi web (&quot;Servizi&quot;), come ad esempio il servizio di SafeBrowsing, distribuiti con questa versione dell'eseguibile di &brandShortName; nei termini descritti in seguito. Se non si desidera utilizzare tali Servizi oppure i termini di utilizzo risultano inaccettabili, è possibile disattivare il servizio di SafeBrowsing selezionando le preferenze dell'applicazione, quindi la sezione ">
+<!ENTITY rights.webservices-a "&brandFullName; utilizza alcuni servizi web (&quot;Servizi&quot;), come ad esempio il servizio di SafeBrowsing, distribuiti con questa versione dell'eseguibile di &brandShortName; nei termini descritti di seguito. Se non si desidera utilizzare tali Servizi oppure i termini di utilizzo risultano inaccettabili, è possibile disattivare il servizio di SafeBrowsing selezionando le preferenze dell'applicazione, quindi la sezione ">
 <!ENTITY rights.webservices-b "Sicurezza">
-<!ENTITY rights.webservices-c " e disattivando le opzioni &quot;&blockAttackSites.label;&quot; e &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.webservices-c " e disattivando le opzioni &quot;&blockAttackSites.label;&quot; e &quot;&blockWebForgeries.label;&quot;.">
 <!ENTITY rights.webservices-unbranded "Una panoramica dei servizi web inclusi nel prodotto, comprese le indicazioni per disattivarli (se applicabile), dovranno essere riportati in questa sezione.">
 <!ENTITY rights.webservices-term1-unbranded "Tutti i termini di utilizzo dei servizi relativi a questo prodotto dovranno essere riportati in questa sezione.">
 <!ENTITY rights.webservices-term1 "&vendorShortName; e i suoi collaboratori, i licenziatari e i partner si impegnano a fornire la più accurata e aggiornata protezione possibile da siti malevoli e contraffatti. Tuttavia non è sempre possibile garantire la completezza e l'affidabilità di tali informazioni, infatti alcuni siti web rischiosi potrebbero non essere individuati, così come alcuni siti affidabili potrebbero essere indicati erroneamente come pericolosi.">
