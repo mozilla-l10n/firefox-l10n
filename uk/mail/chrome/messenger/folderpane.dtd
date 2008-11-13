@@ -38,6 +38,3 @@
 <!ENTITY unreadColumn.label "Не прочитано"> 
 <!ENTITY totalColumn.label "Всього"> 
 <!ENTITY folderSizeColumn.label "Розмір"> 
-<!ENTITY accounts.label "Облікові записи">
-<!-- LOCALIZATION NOTE (accounts.img) : DONT_TRANSLATE -->
-<!ENTITY accounts.img "chrome://messenger/skin/local-mailhost.gif">
