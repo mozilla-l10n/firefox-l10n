@@ -1,5 +1,4 @@
 <!ENTITY serverAdvanced.label "Дополнительные параметры учётной записи">
-<!ENTITY imapAdvanced.label "Дополнительные параметры IMAP-сервера">
 <!ENTITY serverDirectory.label "Каталог IMAP-сервера:">
 <!ENTITY serverDirectory.accesskey "К">
 <!ENTITY usingSubscription.label "Показывать только папки на которые вы подписаны">
@@ -20,7 +19,6 @@
 <!ENTITY overrideNamespaces.label "Разрешить серверу перекрывать эти пространства имён">
 <!ENTITY overrideNamespaces.accesskey "Р">
 <!ENTITY pop3Desc.label "При получении почты c данного сервера POP3, помещать её в следующую папку:">
-<!ENTITY folderStorage.label "Где хранить почту">
 <!ENTITY globalInbox.label "Общая папка «Входящие» (находится в «Локальных папках»)">
 <!ENTITY globalInbox.accesskey "О">
 <!ENTITY accountDirectory.label "«Входящие» для данной учётной записи">

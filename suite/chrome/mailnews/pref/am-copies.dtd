@@ -4,12 +4,8 @@
 <!ENTITY fccMailFolder.accesskey "П">
 <!ENTITY fccReplyFollowsParent.label "Сохранять ответы в папке оригинала">
 <!ENTITY fccReplyFollowsParent.accesskey "х">
-<!ENTITY chooseFolderButton.label "Выбрать папку…">
 <!ENTITY bccAddress.label "Отправлять скрытые копии по адресам:">
 <!ENTITY bccAddress.accesskey "к">
-<!ENTITY specialFolderTitle.label "Специальные папки">
-<!ENTITY draftMailFolder.label "Хранить черновики сообщений в:">
-<!ENTITY templateMailFolder.label "Хранить шаблоны сообщений в:">
 <!ENTITY saveMessageDlg.label "Запрашивать подтверждение при сохранении сообщений">
 <!ENTITY saveMessageDlg.accesskey "п">
 <!ENTITY sentFolderOn.label "папку «Отправленные» в:">

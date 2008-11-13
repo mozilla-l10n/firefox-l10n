@@ -8,15 +8,11 @@
 <!ENTITY resetButton.accesskey "О">
 <!ENTITY helpButton.label "Справка">
 <!ENTITY helpButton.accesskey "п">
-<!ENTITY optionsButton.label "Параметры">
-<!ENTITY closeButton.label "Закрыть">
 <!ENTITY openButton.label "Открыть">
 <!ENTITY openButton.accesskey "т">
 <!ENTITY deleteButton.label "Удалить">
 <!ENTITY deleteButton.accesskey "У">
 <!ENTITY searchDialogTitle.label "Поиск сообщений…">
-<!ENTITY conditionDesc.label "Искать сообщения, отвечающие:">
-<!ENTITY conditions.label "Критериям">
 <!ENTITY results.label "Результаты">
 <!ENTITY fileHereMenu.label "Поместить сюда">
 <!ENTITY fileHereMenu.accesskey "П">

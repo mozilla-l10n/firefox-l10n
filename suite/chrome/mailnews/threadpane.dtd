@@ -11,7 +11,6 @@
 <!ENTITY statusColumn.label "Состояние">
 <!ENTITY sizeColumn.label "Размер">
 <!ENTITY junkStatusColumn.label "Спам">
-<!ENTITY linesColumn.label "Строк">
 <!ENTITY unreadColumn.label "Не прочитано в обсуждении">
 <!ENTITY totalColumn.label "Всего в обсуждении">
 <!ENTITY readColumn.label "Прочитано">

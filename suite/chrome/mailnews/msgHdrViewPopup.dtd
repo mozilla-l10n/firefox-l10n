@@ -7,8 +7,6 @@
 <!ENTITY CopyEmailAddress.accesskey "К">
 <!ENTITY CreateFilterFrom.label "Создать фильтр из…">
 <!ENTITY CreateFilterFrom.accesskey "ф">
-<!ENTITY BlockAddress.label "Блокировать адрес">
-<!ENTITY BlockAddress.accesskey "р">
 <!ENTITY copyLinkCmd.label "Копировать ссылку">
 <!ENTITY copyLinkCmd.accesskey "ы">
 <!ENTITY CopyMessageId.label "Копировать идентификатор">
