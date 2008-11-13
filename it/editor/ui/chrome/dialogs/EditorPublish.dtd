@@ -66,10 +66,8 @@
 <!ENTITY filename.accesskey "F">
 <!ENTITY filename.tooltip "Inserire un nome per questo file, incluso '.html' per pagine web">
 <!ENTITY filenameExample.label "es.: &quot;lamiapagina.html&quot;">
-<!ENTITY relatedDocs.label "Altri file da pubblicare">
 <!ENTITY setDefaultButton.label "Imposta come predefinito">
 <!ENTITY setDefaultButton.accesskey "p">
-<!ENTITY setDefSiteAndDir.label "Imposta come cartella e sito predefiniti">
 <!ENTITY removeButton.label "Rimuovi sito">
 <!ENTITY removeButton.accesskey "R">
 <!ENTITY publishSites.label "Siti di pubblicazione">

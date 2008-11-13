@@ -37,7 +37,6 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY Window.title "Indice degli argomenti">
 <!ENTITY buildToc.label "Costruisci l'indice da:">
-<!ENTITY style.label "Stile:">
 <!ENTITY tag.label "Etichetta:">
 <!ENTITY class.label "Classe:">
 <!ENTITY header1.label "Livello 1">

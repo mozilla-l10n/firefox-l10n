@@ -70,7 +70,6 @@
 <!ENTITY cpercentCmd.accesskey "4">
 <!ENTITY zoominCmd.label "Aumenta zoom">
 <!ENTITY zoomoutCmd.label "Diminuisci zoom">
-<!ENTITY delSpotCmd.label "Elimina area">
 <!ENTITY clear.key "d">
 <!ENTITY selectall.key "a">
 <!ENTITY close.key "l">

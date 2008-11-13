@@ -20,7 +20,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Charles Manxke (cmanske@netscape.com)
+   -   Charles Manske (cmanske@netscape.com)
    -   
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -37,9 +37,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY windowTitle.label "Verifica indirizzi collegamenti e immagine">
-<!ENTITY urlsNotFound.label "Impossibile trovare i seguenti indirizzi dei collegamenti o dell'immagine:">
-<!ENTITY notFoundKey.label "(&quot;X&quot; = file non trovato, &quot;?&quot; = tempo scaduto durante il tentativo di connessione.)">
-<!ENTITY changeUrlButton.label "Modifica indirizzo elemento selezionato">
 <!ENTITY succeeded.label "Verificato">
 <!ENTITY failed.label "Non trovato">
 <!ENTITY closeButton.label "Chiudi">

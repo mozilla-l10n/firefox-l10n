@@ -68,7 +68,6 @@
 <!ENTITY tableCaptionRight.label "Dopo della tabella">
 <!ENTITY tableCaptionNone.label "Nessuna">
 <!ENTITY tableInheritColor.label "(Colore della pagina visibile in trasparenza)">
-<!ENTITY cellPercent.label "percentuale tabella">
 <!ENTITY cellSelection.label "Selezione">
 <!ENTITY cellSelectCell.label "Cella">
 <!ENTITY cellSelectRow.label "Riga">
@@ -77,11 +76,7 @@
 <!ENTITY cellSelectNext.accessKey "S">
 <!ENTITY cellSelectPrevious.label "Precedente">
 <!ENTITY cellSelectPrevious.accessKey "P">
-<!ENTITY cellApplyBeforeMove.label "Applica le modifiche prima cambiare selezione">
-<!ENTITY cellKeepCurrentData.label "Mantiene impostazioni correnti">
 <!ENTITY applyBeforeChange.label "Le modifiche saranno applicate prima di modificare la selezione.">
-<!ENTITY cellRowSpan.label "Spazio tra righe:">
-<!ENTITY cellColSpan.label "Spazio tra colonne:">
 <!ENTITY cellContentAlignment.label "Allineamento contenuto">
 <!ENTITY cellHorizontal.label "Orizzontale:">
 <!ENTITY cellHorizontal.accessKey "O">
@@ -99,7 +94,6 @@
 <!ENTITY cellAlignMiddle.label "Al centro">
 <!ENTITY cellAlignBottom.label "In basso">
 <!ENTITY cellAlignJustify.label "Giustifica">
-<!ENTITY cellAlignAtChar.label "Al caratteri:">
 <!ENTITY cellInheritColor.label "(Colore della tabella visibile in trasparenza)">
 <!ENTITY cellUseCheckboxHelp.label "Utilizza le caselle di spunta per determinare quali proprietà saranno applicate alle celle selezionate.">
 <!ENTITY size.label "Dimensioni">
