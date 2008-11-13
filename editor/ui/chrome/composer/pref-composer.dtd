@@ -1,11 +1,4 @@
 <!ENTITY pref.composer.title "Composer">
-<!ENTITY saving "Salvataggio in corso">
-<!ENTITY AutoSaveCheck "Salvare automaticamente ogni">
-<!ENTITY minText "minuti">
-<!ENTITY exterLegend.label "Editor esterni">
-<!ENTITY htmlSource "Sorgente HTML:">
-<!ENTITY imageeditor "Immagini:">
-<!ENTITY chooseButton.label "Scegliere">
 <!ENTITY recentFiles.title "Menu pagine recenti">
 <!ENTITY documentsInMenu.label "Massimo numero di pagine elencate:">
 <!ENTITY documentsInMenu.accesskey "n">
@@ -18,8 +11,6 @@
 <!ENTITY showPublishDialog.label "Visualizza sempre la finestra di dialogo quando si pubblica">
 <!ENTITY showPublishDialog.accesskey "A">
 <!ENTITY composerEditing.label "Modifica">
-<!ENTITY spellCheckInline.label "Controlla ortografia durante la digitazione">
-<!ENTITY spellCheckInline.accesskey "C">
 <!ENTITY maintainStructure.label "Mantenere la struttura della tabella durante l'inserimento o l'eliminazione di celle">
 <!ENTITY maintainStructure.tooltip "Preservare la forma rettangolare della tabella aggiungendo automaticamente celle dopo l'inserimento o l'eliminazione di celle">
 <!ENTITY maintainStructure.accesskey "a">

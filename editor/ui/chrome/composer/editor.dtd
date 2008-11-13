@@ -47,7 +47,3 @@
 <!ENTITY editmodeToolbarCmd.accesskey "B">
 <!ENTITY formatMenu.label "Formato">
 <!ENTITY formatMenu.accesskey "o">
-<!ENTITY helpMenu.label "Guida">
-<!ENTITY aboutCmd.label ".Informazioni su…">
-<!ENTITY editMode.label "Modalità composizione:">
-<!ENTITY statusText.label "Documento: Completato">

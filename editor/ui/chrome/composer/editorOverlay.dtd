@@ -75,9 +75,6 @@
 <!ENTITY sendPageCmd.accesskey "n">
 <!ENTITY printSetupCmd.label "Imposta pagina…">
 <!ENTITY printSetupCmd.accesskey "p">
-<!ENTITY printPreviewCmd.label "Anteprima di stampa">
-<!ENTITY printPreviewCmd.accesskey "p">
-<!ENTITY printButtonCmd.label "Stampa…">
 <!ENTITY printCmd.label "Stampa…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "P">
@@ -93,23 +90,8 @@
 <!ENTITY pasteAs.accesskey "o">
 <!ENTITY publishSettings.label "Impostazioni pubblicazione…">
 <!ENTITY publishSettings.accesskey "m">
-<!ENTITY pasteHTMLCmd.label "HTML">
-<!ENTITY pasteHTMLCmd.accesskey "H">
-<!ENTITY pasteTextCmd.label "Testo">
-<!ENTITY pasteTextCmd.accesskey "T">
-<!ENTITY pasteImageCmd.label "Immagine">
-<!ENTITY pasteImageCmd.accesskey "I">
-<!ENTITY pasteRowsCmd.label "Righe">
-<!ENTITY pasteRowsCmd.accesskey "R">
-<!ENTITY pasteColumnsCmd.label "Colonne">
-<!ENTITY pasteColumnsCmd.accesskey "C">
-<!ENTITY pasteTableCmd.accesskey "a">
-<!ENTITY pasteLinkCmd.label "Collegamento">
-<!ENTITY pasteLinkCmd.accesskey "L">
 <!ENTITY pasteAsQuotationCmd.label "Incolla come citazione">
 <!ENTITY pasteAsQuotationCmd.accesskey "n">
-<!ENTITY editStripQuotesCmd.label "Elimina virgolette">
-<!ENTITY editRewrapCmd.label "Riordina colonne">
 <!ENTITY findCmd.label "Trova e sostituisci…">
 <!ENTITY findCmd.accesskey "T">
 <!ENTITY findCmd.key "F">
@@ -129,11 +111,6 @@
 <!ENTITY checkSpellingCmd.key "K">
 <!ENTITY validateCmd.label "Convalida HTML">
 <!ENTITY validateCmd.accesskey "V">
-<!ENTITY checkLinksCmd.label "Verifica collegamenti">
-<!ENTITY viewPageSource.label "Sorgente pagina">
-<!ENTITY viewPageSource.accesskey "S">
-<!ENTITY viewParagraphMarks.label "Marcatori paragrafo">
-<!ENTITY viewParagraphMarks.accesskey "P">
 <!ENTITY insertMenu.label "Inserisci">
 <!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd.label "Collegamento…">
@@ -143,39 +120,16 @@
 <!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "Immagine…">
 <!ENTITY insertImageCmd.accesskey "I">
-<!ENTITY insertImageMapCmd.label "Mappa immagine…">
 <!ENTITY insertHLineCmd.label "Separatore orizzontale">
 <!ENTITY insertHLineCmd.accesskey "o">
 <!ENTITY insertTableCmd.label "Tabella…">
 <!ENTITY insertTableCmd.accesskey "T">
-<!ENTITY insertFormMenu.label "Modulo">
-<!ENTITY insertFormMenu.accesskey "M">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertCharsCmd.label "Caratteri e simboli…">
 <!ENTITY insertCharsCmd.accesskey "C">
-<!ENTITY insertBreakCmd.label "A capo">
-<!ENTITY insertBreakCmd.accesskey "c">
 <!ENTITY insertBreakAllCmd.label "A capo dopo immagini">
 <!ENTITY insertBreakAllCmd.accesskey "o">
-<!ENTITY insertFormCmd.label "Creazione modulo…">
-<!ENTITY insertFormCmd.accesskey "D">
-<!ENTITY insertInputTagCmd.label "Campo modulo…">
-<!ENTITY insertInputTagCmd.accesskey "o">
-<!ENTITY insertInputImageCmd.label "Immagine modulo…">
-<!ENTITY insertInputImageCmd.accesskey "I">
-<!ENTITY insertTextAreaCmd.label "Area di testo…">
-<!ENTITY insertTextAreaCmd.accesskey "T">
-<!ENTITY insertSelectCmd.label "Lista di selezione..">
-<!ENTITY insertSelectCmd.accesskey "S">
-<!ENTITY insertButtonCmd.label "Crea pulsante…">
-<!ENTITY insertButtonCmd.accesskey "p">
-<!ENTITY insertLabelCmd.label "Crea etichetta">
-<!ENTITY insertLabelCmd.accesskey "t">
-<!ENTITY insertFieldSetCmd.label "Crea gruppo campi…">
-<!ENTITY insertFieldSetCmd.accesskey "r">
-<!ENTITY insertIsIndexCmd.label "Indice ricerca">
-<!ENTITY insertIsIndexCmd.accesskey "r">
 <!ENTITY spellCheckNoSuggestions.label "(Nessun suggerimento)">
 <!ENTITY spellCheckIgnoreWord.label "Ignora la parola">
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
@@ -215,8 +169,6 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
-<!ENTITY localfontfaceMenu.label "Caratteri locali">
-<!ENTITY localfontfaceMenu.accesskey "C">
 <!ENTITY FontSizeSelect.tooltip "Scegliere dimensioni carattere">
 <!ENTITY decreaseFontSize.label "Diminuisci">
 <!ENTITY decreaseFontSize.accesskey "m">
@@ -324,17 +276,6 @@
 <!ENTITY bodyTextCmd.accesskey "T">
 <!ENTITY advancedPropertiesCmd.label "Proprietà avanzate">
 <!ENTITY advancedPropertiesCmd.accesskey "v">
-<!ENTITY NormalAbbr.label "Testo">
-<!ENTITY ParagraphAbbr.label "P">
-<!ENTITY Heading1Abbr.label "H1">
-<!ENTITY Heading2Abbr.label "H2">
-<!ENTITY Heading3Abbr.label "H3">
-<!ENTITY Heading4Abbr.label "H4">
-<!ENTITY Heading5Abbr.label "H5">
-<!ENTITY Heading6Abbr.label "H6">
-<!ENTITY BlockquoteAbbr.label "BQ">
-<!ENTITY AddressAbbr.label "Ind.">
-<!ENTITY PreformatAbbr.label "Pre.">
 <!ENTITY alignMenu.label "Allinea">
 <!ENTITY alignMenu.accesskey "A">
 <!ENTITY alignLeft.label "Sinistra">
@@ -405,8 +346,6 @@
 <!ENTITY tableCellAfter.accesskey "s">
 <!ENTITY tableDeleteMenu.label "Elimina">
 <!ENTITY tableDeleteMenu.accesskey "E">
-<!ENTITY tableFix.label "Struttura della tabella fissa">
-<!ENTITY tableFix.accesskey "F">
 <!ENTITY tableJoinCells.label "j">
 <!ENTITY tableJoinCells.accesskey "j">
 <!ENTITY tableSplitCell.label "Dividi cella">
@@ -441,7 +380,6 @@
 <!ENTITY linkToolbarCmd.tooltip "Modifica collegamento selezionato o ne inserisce uno nuovo">
 <!ENTITY anchorToolbarCmd.label "Ancora">
 <!ENTITY anchorToolbarCmd.tooltip "Modifica ancora selezionata o ne inserisce una nuova">
-<!ENTITY textColorCaption.label "Colore testo">
 <!ENTITY TextColorButton.tooltip "Sceglie il colore per il testo">
 <!ENTITY BackgroundColorButton.tooltip "Sceglie il colore per lo sfondo">
 <!ENTITY throbber.tooltip "Vai alla pagina home di &vendorShortName;">
@@ -461,13 +399,6 @@
 <!ENTITY alignCenterButton.tooltip "Allinea il testo al centro">
 <!ENTITY alignRightButton.tooltip "Allinea il testo lungo il margine destro">
 <!ENTITY alignjustifyButton.tooltip "Allinea il testo lungo i margini sinistro e destro">
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "C">
-<!ENTITY formatToolbar.underlineChar "S">
-<!ENTITY colorPicker.default.label "Colore predefinito del browser">
-<!ENTITY colorPicker.default.accesskey "r">
-<!ENTITY colorLabel.label "Colore:">
-<!ENTITY ok.label "OK">
 <!ENTITY NormalModeTab.label "Normale">
 <!ENTITY NormalMode.label "Composizione normale">
 <!ENTITY NormalMode.accesskey "n">

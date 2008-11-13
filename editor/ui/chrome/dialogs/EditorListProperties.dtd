@@ -44,7 +44,6 @@
 <!ENTITY bulletList.value "Elenco puntato (non numerato)">
 <!ENTITY numberList.value "Elenco numerato">
 <!ENTITY definitionList.value "Elenco definizioni">
-<!ENTITY changeListMsg.label "Quando si cambia tipo elenco:">
 <!ENTITY changeEntireListRadio.label "Cambia l'intero elenco">
 <!ENTITY changeEntireListRadio.accessKey "C">
 <!ENTITY changeSelectedRadio.label "Cambia solo gli elementi selezionati">
