@@ -3,8 +3,6 @@
 <!ENTITY alwaysAsk.accesskey          "т">
 <!ENTITY neverAsk.label               "Зберігати всі вкладені файли в теку:">
 <!ENTITY neverAsk.accesskey           "с">
-<!ENTITY desktop.label                "Робочий стіл">
-<!ENTITY downloads.label              "Мої завантаження">
 <!ENTITY chooseFolderWin.label        "Огляд…">
 <!ENTITY chooseFolderWin.accesskey    "О">
 <!ENTITY chooseFolderMac.label        "Вибрати…">
@@ -16,9 +14,3 @@
 <!ENTITY configureActions.accesskey   "д">
 <!ENTITY fileTypesDescription.label   "&brandShortName; може автоматично зберігати або відкривати вкладення певних типів.">
 
-<!ENTITY fileTypeColName.label        "Тип файлів">
-<!ENTITY fileHandlerColName.label     "Програма">
-<!ENTITY editFileHandler.label        "Змінити дію…">
-<!ENTITY editFileHandler.accesskey    "З">
-<!ENTITY removeFileHandler.label      "Вилучити">
-<!ENTITY removeFileHandler.accesskey  "В">
