@@ -391,6 +391,7 @@
 <!ENTITY read.only.reply.label           "Odpowiedź:">
 <!ENTITY read.only.accept.label          "Będę uczestniczyć">
 <!ENTITY read.only.decline.label         "Nie będę uczestniczyć">
+<!ENTITY read.only.tentative.label       "Możliwe, że będę uczestniczyć">
 <!ENTITY read.only.needs.action.label    "Potwierdzę później">
 <!ENTITY read.only.reminder.label        "Przypomnij:">
 <!ENTITY read.only.attendees.label       "Uczestnicy">
