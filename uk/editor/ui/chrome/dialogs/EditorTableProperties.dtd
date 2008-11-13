@@ -80,9 +80,7 @@
 <!ENTITY cellSelectPrevious.accessKey     "П">
 <!ENTITY cellApplyBeforeMove.label        "Застосувати зміни перед перетворенням виділення">
 <!ENTITY cellKeepCurrentData.label        "Зберегти поточні параметри">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label         "Будуть застосовані поточні зміни">
-<!ENTITY applyBeforeChange2.label         "перед перетворенням виділення.">
+<!ENTITY applyBeforeChange.label          "Поточні зміни будуть застосовані перед перетворенням виділення.">
 <!ENTITY cellRowSpan.label                "Об’єднання рядків:">
 <!ENTITY cellColSpan.label                "Об’єднання стовпців:">
 <!ENTITY cellContentAlignment.label       "Вирівнювання вмісту">
