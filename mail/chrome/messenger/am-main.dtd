@@ -3,7 +3,6 @@
 <!ENTITY accountTitle.label "Параметри облікового запису">
 <!ENTITY accountName.label "Назва облікового запису:">
 <!ENTITY accountName.accesskey "І">
-<!ENTITY accountNameDesc.label "Ця назва вирізняє кожен обліковий запис">
 <!ENTITY identityTitle.label "Ідентифікатор">
 <!ENTITY identityDesc.label "Кожен обліковий запис має ідентифікатор для збереження тієє інформації про Вас, яку бачать одержувачі Ваших повідомлень.">
 <!ENTITY name.label "Ваше ім’я:">
