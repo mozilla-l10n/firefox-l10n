@@ -6,7 +6,6 @@
 <!ENTITY  language.label                          "Шрифти для набору символів:">
 <!ENTITY  language.accesskey                      "Ш">
 
-<!ENTITY  typefaces.label                         "Гарнітура">
 <!ENTITY  sizes.label                             "Розмір (піксели)">
 <!ENTITY  proportionalSize.accesskey              "e">
 <!ENTITY  monospaceSize.accesskey                 "x">
@@ -21,7 +20,6 @@
 <!ENTITY  monospace.label                         "Моноширний:">
 <!ENTITY  monospace.accesskey                     "М">
 
-<!ENTITY  fontsize.units                          "пікселів">
 
 <!ENTITY  font.langGroup.latin1                   "Західноєвропейський">
 <!ENTITY  font.langGroup.latin2                   "Центральноєвропейський">
@@ -60,7 +58,6 @@
 <!ENTITY  useDefaultFontSerif.label               "Із засічками">
 <!ENTITY  useDefaultFontSansSerif.label           "Без засічок">
 
-<!ENTITY  newLanguages.label                      "Нові групи мов можуть бути визначені за допомогою панелі мов.">
 
 <!ENTITY  useDocumentFonts.label                  "Дозволити повідомленням використовувати інші шрифти">
 <!ENTITY  useDocumentFonts.accesskey              "Р">
@@ -73,7 +70,7 @@
 
 <!ENTITY viewDefaultCharsetList.label     "Вхідна пошта:">
 <!ENTITY viewDefaultCharsetList.accesskey	"і">
-<!ENTITY forceCharsetOverride.label       "Застосовувати стандартне кодування для всіх вхідних повідомлень">
-<!ENTITY forceCharsetOverride.accesskey   "З">
-<!ENTITY replyInDefaultCharset.label      "Застосовувати стандартне кодування у відповідях">
-<!ENTITY replyInDefaultCharset.accesskey  "в">
+
+<!-- FIXME: localize -->
+<!ENTITY replyInDefaultCharset2.accesskey "h">
+<!ENTITY replyInDefaultCharset2.label     "When possible, use the default character encoding in replies">
