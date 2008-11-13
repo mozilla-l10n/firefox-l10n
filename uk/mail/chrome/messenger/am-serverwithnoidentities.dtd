@@ -6,7 +6,6 @@
 <!ENTITY emptyTrashOnExit.label "Очищати «Кошик» при виході">
 <!ENTITY emptyTrashOnExit.accesskey "ч">
 <!ENTITY localPath.label "Локальна тека:">
-<!ENTITY localPath.accesskey "Л">
 <!ENTITY localFolderPicker.label "Розташування локальних тек">
 <!ENTITY browseFolder.label "Огляд…">
 <!ENTITY browseFolder.accesskey "О">
