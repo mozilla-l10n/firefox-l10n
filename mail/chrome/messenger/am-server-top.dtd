@@ -2,13 +2,6 @@
 
 <!ENTITY securitySettings.label "Налаштування захисту">
 <!ENTITY serverSettings.label "Параметри сервера">
-<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
-<!ENTITY popServer.label "POP3-сервер">
-<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
-<!ENTITY imapServer.label "IMAP-сервер">
-<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
-<!ENTITY newsServer.label "Сервер конференцій (NNTP)">
-<!ENTITY webmail.label "Обліковий запис WebMail">
 <!ENTITY serverType.label "Тип сервера:">
 <!ENTITY serverName.label "Ім’я сервера:">
 <!ENTITY serverName.accesskey "с">
@@ -50,15 +43,14 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "Автоматично завантажувати нові повідомлення">
 <!ENTITY downloadOnBiff.accesskey "о">
-<!ENTITY hostname.label "Мережеве ім’я сервера">
 <!ENTITY username.label "Ваше реєстраційне ім’я">
-<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
-<!ENTITY popServerTitle.label "Інформація про POP3-сервер">
 <!ENTITY deleteMessagePrefix.label "При вилученні повідомлення:">
-<!ENTITY deleteMessagePrefix.accesskey "е">
 <!ENTITY modelMoveToTrash.label "Перемістити його в теку «Кошик»">
+<!ENTITY modelMoveToTrash.accesskey "К">
 <!ENTITY modelMarkDeleted.label "Позначити його для вилучення">
+<!ENTITY modelMarkDeleted.accesskey "у">
 <!ENTITY modelDeleteImmediately.label "Вилучити його одразу">
+<!ENTITY modelDeleteImmediately.accesskey "о">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Стискати теку «Вхідні» при виході">
 <!ENTITY expungeOnExit.accesskey "т">
@@ -77,9 +69,7 @@
 <!ENTITY alwaysAuthenticate.label "Завжди проводити аутентифікацію при підключенні до цього сервера">
 <!ENTITY alwaysAuthenticate.accesskey "З">
 <!ENTITY newsrcFilePath.label "файл newsrc:">
-<!ENTITY newsrcFilePath.accesskey "й">
 <!ENTITY localPath.label "Локальна тека:">
-<!ENTITY localPath.accesskey "Л">
 <!ENTITY abbreviate.label "Показувати імена конференцій як:">
 <!ENTITY abbreviateOn.label "Повні (наприклад, «netscape.public.mozilla.mail-news»)">
 <!ENTITY abbreviateOff.label "Абревіатури (наприклад, «n.p.m.mail-news»)">
