@@ -35,8 +35,6 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY chooseAddressBook.label                "Додати в: ">
-<!ENTITY chooseAddressBook.accesskey            "Д">
 
 <!ENTITY Contact.tab                     "Контакт"> 
 <!ENTITY Name.box                        "Ім’я"> 
@@ -85,7 +83,6 @@
 <!ENTITY allowRemoteContent.label       "Дозволити віддалені зображення в HTML-листах.">
 <!ENTITY allowRemoteContent.accesskey   "з">
 
-<!ENTITY Phones.box                     "Телефони">
 <!ENTITY WorkPhone.label                "Робочий:">
 <!ENTITY WorkPhone.accesskey            "б">
 <!ENTITY HomePhone.label                "Домашній:">
@@ -97,8 +94,6 @@
 <!ENTITY CellularNumber.label           "Мобільний:">
 <!ENTITY CellularNumber.accesskey       "М">
 
-<!ENTITY Address.tab                    "Адреса"> 
-<!ENTITY Home.box                       "Домашній"> 
 <!ENTITY HomeAddress.label              "Адреса:"> 
 <!ENTITY HomeAddress2.label             ""> 
 <!ENTITY HomeCity.label                 "Місто:"> 
@@ -106,7 +101,6 @@
 <!ENTITY HomeZipCode.label              "Поштовий індекс:"> 
 <!ENTITY HomeCountry.label              "Країна:">
 <!ENTITY HomeWebPage.label              "Веб-сторінка:"> 
-<!ENTITY Work.box                       "Робочий"> 
 <!ENTITY JobTitle.label                 "Посада:"> 
 <!ENTITY Department.label               "Відділ:"> 
 <!ENTITY Company.label                  "Організація:"> 
@@ -128,4 +122,36 @@
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Інше 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.box                      "Заметки">
+
+<!-- FIXME: localize -->
+<!ENTITY Age.emptytext                  "Age">
+<!ENTITY Birthday.accesskey             "B">
+<!ENTITY Birthday.label                 "Birthday:">
+<!ENTITY Company.accesskey              "O">
+<!ENTITY Contact.accesskey               "C">
+<!ENTITY Department.accesskey           "m">
+<!ENTITY Home.accesskey                 "P">
+<!ENTITY Home.tab                       "Private">
+<!ENTITY HomeAddress.accesskey          "A">
+<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.accesskey             "y">
+<!ENTITY HomeCountry.accesskey          "u">
+<!ENTITY HomeState.accesskey            "S">
+<!ENTITY HomeWebPage.accesskey          "e">
+<!ENTITY HomeZipCode.accesskey          "Z">
+<!ENTITY JobTitle.accesskey             "i">
+<!ENTITY Notes.accesskey                "N">
+<!ENTITY Notes.label                    "Notes:">
+<!ENTITY Or.value                       "or">
+<!ENTITY Other.accesskey                "h">
+<!ENTITY Work.accesskey                 "W">
+<!ENTITY Work.tab                       "Work">
+<!ENTITY WorkAddress.accesskey          "A">
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.accesskey             "y">
+<!ENTITY WorkCountry.accesskey          "u">
+<!ENTITY WorkState.accesskey            "S">
+<!ENTITY WorkWebPage.accesskey          "e">
+<!ENTITY WorkZipCode.accesskey          "Z">
+<!ENTITY Year.emptytext                 "Year">
+<!ENTITY allowRemoteContent.tooltip     "In HTML messages it is possible to

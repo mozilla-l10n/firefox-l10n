@@ -36,4 +36,5 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Labels -->
-<!ENTITY name.label			"Ім’я адресної книги">
+<!ENTITY name.label			"Назва адресної книги">
+<!ENTITY name.accesskey  "Н">
