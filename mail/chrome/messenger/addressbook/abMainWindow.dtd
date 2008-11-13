@@ -35,12 +35,6 @@
 <!ENTITY printAddressBook.label                         "Drucke Adressbuch…">
 <!ENTITY printAddressBook.accesskey                     "k">
 
-<!ENTITY quitApplicationCmdWin.label                    "Beenden"> 
-<!ENTITY quitApplicationCmdWin.accesskey                "B">
-<!ENTITY quitApplicationCmd.label                       "Beenden"> 
-<!ENTITY quitApplicationCmd.accesskey                   "B">
-<!ENTITY quitApplicationCmd.key "Q">
-
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Bearbeiten">
 <!ENTITY editMenu.accesskey                             "B">
