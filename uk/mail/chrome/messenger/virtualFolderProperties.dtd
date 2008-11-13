@@ -3,9 +3,6 @@
 <!ENTITY name.accesskey             "Н">
 <!ENTITY description.label          "Створити як вкладену теку:">
 <!ENTITY description.accesskey      "С">
-<!ENTITY searchCriteriaText.label   "Змінити критерії пошуку використовувані для цієї віртуальної теки:">
-<!ENTITY searchCriteriaButton.label "Критерій пошуку…">
-<!ENTITY searchCriteriaButton.accesskey "К">
 
 <!ENTITY searchTermCaption.label "Налаштувати критерії пошуку використовувані для цієї віртуальної теки:">
 
