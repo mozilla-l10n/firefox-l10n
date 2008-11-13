@@ -2,8 +2,6 @@
 
 <!ENTITY pref.popups.caption            "ფირნიშების პირობები">
 
-<!ENTITY popupDesc.label                "წესების მითითება როდესაც საიტი მიმდინარე სარკმელში ახალი ფირნიშის დაუკითახვად გახსნას ცდილობს:">
-
 <!ENTITY popupBlock.label               "ფირნიშების გახსნის აკრძალვა">
 <!ENTITY popupBlock.accesskey           "B">
 

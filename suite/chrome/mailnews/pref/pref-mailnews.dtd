@@ -39,10 +39,6 @@
 <!ENTITY generalSettings.caption          "ძირითადი პარამეტრები">
 <!ENTITY confirmMove.label                "თანხმობის მოთხოვნა დასტის ურნაში გადატანისას">
 <!ENTITY confirmMove.accesskey            "C">
-<!ENTITY useMessenger.label               "ფოსტასთან მუშაობა MAPI-პროგრამებიდან">
-<!ENTITY useMessenger.accesskey           "U">
-<!ENTITY autounzip.label                  "არქივების ავტომატური გახსნა ჩანართების შენახვისას">
-<!ENTITY autounzip.accesskey              "A">
 <!ENTITY preserveThreading.label          "წერილების სორტირებისას საქაღალდეების შენარჩუნება">
 <!ENTITY preserveThreading.accesskey      "v">
 

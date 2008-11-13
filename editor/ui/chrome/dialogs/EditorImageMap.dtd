@@ -82,7 +82,6 @@
 
 <!ENTITY zoominCmd.label "მოახლოება">
 <!ENTITY zoomoutCmd.label "დაშორება">
-<!ENTITY delSpotCmd.label "დეტალის წაშლა">
 
 <!-- Keys -->
 <!ENTITY clear.key "d">

@@ -10,15 +10,11 @@
 <!ENTITY resetButton.accesskey       "C">
 <!ENTITY helpButton.label            "დახმარება">
 <!ENTITY helpButton.accesskey        "l">
-<!ENTITY optionsButton.label         "პარამეტრები">
-<!ENTITY closeButton.label           "დახურვა">
 <!ENTITY openButton.label            "გახსნა">
 <!ENTITY openButton.accesskey        "n">
 <!ENTITY deleteButton.label          "წაშლა">
 <!ENTITY deleteButton.accesskey      "D">
 <!ENTITY searchDialogTitle.label     "წერილების ძიება">
-<!ENTITY conditionDesc.label         "წერილების ძიება რომელშიც:">
-<!ENTITY conditions.label            "კრიტერიუმი">
 <!ENTITY results.label               "შედეგები">
 <!ENTITY fileHereMenu.label          "შენახვის ადგილი">
 <!ENTITY fileHereMenu.accesskey      "F">

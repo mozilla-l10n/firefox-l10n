@@ -41,7 +41,6 @@
 <!ENTITY windowTitle.label "ნახატის პარამეტრებ">
 
 <!ENTITY pixelsPopup.value "პიქსელი">
-<!ENTITY percentPopup.value "პროცენტი">
 
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "ნახატის მისამართი:">
@@ -57,7 +56,6 @@
 <!ENTITY noAltText.accessKey "D">
 
 <!ENTITY previewBox.label "ნახატის ესკიზი">
-<!ENTITY MoreFewerButton.tooltip "მეტი ან ნაკლები პარამეტრის ჩვენება">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
@@ -93,7 +91,6 @@
 
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "დაცილება">
-<!ENTITY spacingBox.tooltip "ნახატის გარშემო სივრცის მითითება">
 <!ENTITY leftRightEditField.label "მარცხნივ და მარჯვნივ :">
 <!ENTITY leftRightEditField.accessKey "L">
 <!ENTITY topBottomEditField.label "ზევით და ქვევით:">
@@ -104,12 +101,6 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "ჩარჩოს ჩვენება ბმის ნახატისათვის">
 <!ENTITY showImageLinkBorder.accessKey "B">
-
-<!-- These controls may be added some day; currently not used -->
-<!ENTITY makePageBackgroundCheckbox.label "გვერდის ფონის შექმნა">
-<!ENTITY makePageBackgroundCheckbox.tooltip "გვერდის ფონად ნახატის გამოყენება">
-<!ENTITY editImageButton.label "ნახატის რედაქტირება">
-<!ENTITY editImageButton.tooltip "ნახატის რედაქტირება სხვა პროგრამით">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "ფორმა">

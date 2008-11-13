@@ -20,7 +20,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Charles Manxke (cmanske@netscape.com)
+   -   Charles Manske (cmanske@netscape.com)
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -38,9 +38,6 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label     "ნახატისა და ბმის მისამართების შემოწმება">
-<!ENTITY urlsNotFound.label    "მითითებული ნახატებისა და ბმის მისამართი ვერ მოიძებნა:">
-<!ENTITY notFoundKey.label     "(&quot;X&quot; = ფაილი ვერ მოიძებნა, &quot;?&quot; = დაკავშირების ვადა გავიდა.)">
-<!ENTITY changeUrlButton.label "მონიშნული ელემენტის მისამართის შეცვლა">
 <!ENTITY succeeded.label       "წარმატებულია">
 <!ENTITY failed.label          "ვერ მოხერხდა">
 <!ENTITY closeButton.label     "Close">

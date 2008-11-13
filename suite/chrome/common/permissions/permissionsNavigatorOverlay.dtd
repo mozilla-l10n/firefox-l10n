@@ -34,9 +34,6 @@
 <!ENTITY cookieManagePopups.label                    "ფირნიშების მართვა">
 <!ENTITY cookieManagePopups.accesskey                "M">
 
-<!ENTITY cookieTutorialCmd.label "წესების გაცნობიერება">
-<!ENTITY cookieTutorialCmd.accesskey "u">
-
 <!ENTITY cookieCookieManager.label "ნაჭდევების მმართველი">
 <!ENTITY cookieCookieManager.accesskey "c">
 <!ENTITY cookieImageManager.label "ნახატების მმართველი">

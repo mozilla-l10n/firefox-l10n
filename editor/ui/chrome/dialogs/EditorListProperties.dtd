@@ -47,7 +47,6 @@
 <!ENTITY bulletList.value "სიმბოლოიანი (გადაუნომრავი) სია">
 <!ENTITY numberList.value "გადანომრილი სია">
 <!ENTITY definitionList.value "განსაზღვრებებით">
-<!ENTITY changeListMsg.label "სიის ტიპის შეცვლისას:">
 <!ENTITY changeEntireListRadio.label "მთელის სიის შეცვლა">
 <!ENTITY changeEntireListRadio.accessKey "C">
 <!ENTITY changeSelectedRadio.label "მხოლოდ მონიშნული ელემენტების შეცვლა">

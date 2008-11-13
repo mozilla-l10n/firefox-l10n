@@ -4,20 +4,9 @@
 
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
 <!ENTITY  pref.composer.title           "დიზაინერი">
-
-<!ENTITY  saving                        "ჩაწერა">
-<!ENTITY  AutoSaveCheck                 "ავტომატურად შენახვა ყოველ">
-<!ENTITY  minText                       "წუთში">
-
-<!ENTITY  exterLegend.label             "გარე რედაქტორები">
-<!ENTITY  htmlSource                    "HTML წყარო:">
-<!ENTITY  imageeditor                   "ნახატები:">
-<!ENTITY  chooseButton.label            "არჩევა">
-
 <!ENTITY  recentFiles.title             "ბოლო გვერდები">
 <!ENTITY  documentsInMenu.label         "სიაში გვერდების მაქსიმალური რაოდენობა:">
 <!ENTITY  documentsInMenu.accesskey     "n">
-
 <!ENTITY  savingFiles.title             "გვერდების შენახვის ან გამოქვეყნებისას">
 <!ENTITY  preserveExisting.label        "პირველწყაროს ფორმატის შენარჩუნება">
 <!ENTITY  preserveExisting.accesskey    "P">
@@ -26,10 +15,7 @@
 <!ENTITY  saveAssociatedFiles.accesskey "S">
 <!ENTITY  showPublishDialog.label       "გამოქვეყნების დიალოგის ყოველთვის ჩვენება გვერდების გამოქვეყნებისას">
 <!ENTITY  showPublishDialog.accesskey   "A">
-
 <!ENTITY  composerEditing.label         "რედაქტირება">
-<!ENTITY  spellCheckInline.label        "მართლწერის შემოწმება ტექსტის შეტანისას">
-<!ENTITY  spellCheckInline.accesskey    "C">
 <!ENTITY  maintainStructure.label       "ცხრილის ფორმატის შენარჩუნება უჯრის დამატების ან წაშლისას">
 <!ENTITY  maintainStructure.tooltip     "ინარჩუნებს ცხრილის მართკუთხა ფრომას უჯრების დამატების ან წაშლის შემთხვევაში უჯრების ავტომატური დამატებით">
 <!ENTITY  maintainStructure.accesskey   "M">
