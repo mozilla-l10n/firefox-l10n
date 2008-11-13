@@ -31,24 +31,17 @@
 
 <!ENTITY emailLabel.label "Електронна адреса:">
 <!ENTITY emailLabel.accesskey "а">
-<!ENTITY emailDesc.label "Введіть вашу поштову адресу; інші будуть використовувати її, щоб надсилати вам листи">
-<!-- LOCALIZATION NOTE (emailExample.label) : do not translate "user@example.net" in below line -->
-<!ENTITY emailExample.label "(наприклад, user@example.net).">
 
 <!-- Entities for Server page -->
 
 <!ENTITY serverTitle.label "Інформація про сервер">
-<!ENTITY incomingServerTitle.label "Сервер вхідних повідомлень">
 <!ENTITY incomingServerTypeDesc.label "Оберіть тип сервера вхідних повідомлень.">
-<!ENTITY incomingServerTypeLabel.label "Тип сервера:">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "«pop.example.net»" in below line -->
 <!ENTITY incomingServerNameDesc.label "Введіть ім’я сервера вхідних повідомлень (наприклад, «mail.example.net»).">
 <!ENTITY incomingServerLabel.label "Вхідний сервер:">
 <!ENTITY incomingServerLabel.accesskey "В">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Введіть ім’я сервера новин (NNTP) (наприклад, «news.example.net»).">
-<!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
-<!ENTITY smtpServerTitle.label "Сервер вихідних повідомлень (SMTP)">
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "«smtp.example.net»" in below line -->
 <!ENTITY smtpServerDesc.label "Введіть ім’я сервера вихідних повідомлень (SMTP) (наприклад, «smtp.example.net»).">
 <!ENTITY smtpServerLabel.label "Сервер вихідних повідомлень:">
@@ -61,7 +54,6 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY nntpType.label "Сервер новин">
 
 <!-- for when the user has an SMTP server pre-configured -->
 <!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
@@ -103,7 +95,6 @@
 
 <!ENTITY accnameTitle.label "Назва облікового запису">
 <!ENTITY accnameDesc.label "Введіть назву, яку б Ви хотіли надати цьому запису (наприклад, «Робоча пошта», «Домашня пошта» або «Новини»).">
-<!ENTITY accnameExample.label "Наприклад, Робоча пошта, Домашня пошта або Новини">
 <!ENTITY accnameLabel.label "Назва запису:">
 <!ENTITY accnameLabel.accesskey "Н">
 

@@ -6,12 +6,9 @@
 <!ENTITY addAccountButton.accesskey "Д">
 <!ENTITY setDefaultButton.label "За умовчанням">
 <!ENTITY setDefaultButton.accesskey "у">
-<!ENTITY duplicateButton.label "Дублювати">
 <!ENTITY removeButton.label "Вилучити обліковий запис">
 <!ENTITY removeButton.accesskey "В">
 
-<!ENTITY nameCol.label "Назва">
-<!ENTITY duplicate.label "Дублікат">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account

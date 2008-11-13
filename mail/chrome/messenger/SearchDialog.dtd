@@ -5,15 +5,11 @@
 <!ENTITY searchSubfolders.accesskey  "к">
 <!ENTITY resetButton.label           "Очистити">
 <!ENTITY resetButton.accesskey       "О">
-<!ENTITY optionsButton.label         "Параметри">
-<!ENTITY closeButton.label           "Закрити">
 <!ENTITY openButton.label            "Відкрити">
 <!ENTITY openButton.accesskey        "д">
 <!ENTITY deleteButton.label          "Вилучити">
 <!ENTITY deleteButton.accesskey      "ч">
 <!ENTITY searchDialogTitle.label     "Пошук повідомлень…">
-<!ENTITY conditionDesc.label         "Шукати повідомлення, що відповідають:">
-<!ENTITY conditions.label            "Критеріям">
 <!ENTITY results.label               "Результати">
 <!ENTITY fileHereMenu.label          "Помістити сюди">
 <!ENTITY fileHereMenu.accesskey      "ю">
@@ -45,7 +41,6 @@
 <!ENTITY statusColumn.label "Стан">
 <!ENTITY sizeColumn.label "Розмір">
 <!ENTITY junkStatusColumn.label "Спам">
-<!ENTITY linesColumn.label "Рядки">
 <!ENTITY unreadColumn.label "Не прочитано">
 <!ENTITY totalColumn.label "Всього">
 <!ENTITY readColumn.label "Прочитано">
