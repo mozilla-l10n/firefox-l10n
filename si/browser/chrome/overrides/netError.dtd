@@ -30,9 +30,9 @@
 ">
 
 
-<!ENTITY generic.title ".">
+<!ENTITY generic.title "ඔහ්!">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; කිසියම් හේතුවක් නිසා මෙම පිටුව පූරණය කළ නොහැක.</p>
+<p> කුමන හෝ හේතුවක් නිසා මේ පිටුව &brandShortName; හට පූරණය කළ නොහැක.</p>
 ">
 
 <!ENTITY malformedURI.title "ලිපිනය නිරවද්‍ය නොවේ">
