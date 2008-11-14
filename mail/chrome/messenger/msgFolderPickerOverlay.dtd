@@ -36,14 +36,5 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Labels -->
-<!ENTITY subscribechoosethis.label			"вибрати цей сервер конференцій">
-<!ENTITY subscribeclickhere.label			"натисніть тут, щоб вибрати сервер конференцій">
 <!ENTITY newfolderchoosethis.label			"вибрати як батьківську">
-<!ENTITY newfolderclickhere.label			"Натисніть тут, щоб виділити">
-<!ENTITY renamefolderchoosethis.label			"вибрати цю теку">
-<!ENTITY renamefolderclickhere.label			"натисніть тут, щоб вибрати теку">
 <!ENTITY filemessageschoosethis.label			"вибрати цю теку">
-<!ENTITY filemessagesclickhere.label			"натисніть тут, щоб вибрати теку">
-<!ENTITY chooseaccountclickhere.label			"Натисніть тут, щоб вибрати обліковий запис">
-<!ENTITY choosefolderclickhere.label			"Натисніть тут, щоб виділити теку">
-<!ENTITY chooseserverToDeferTo.label      "натисніть тут щоб вибрати обліковий запис для збереження повідомлень">
