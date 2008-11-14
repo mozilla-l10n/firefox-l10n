@@ -1,6 +1,0 @@
-<!ENTITY editPageCmd.label                "Редагувати сторінку в Composer"> 
-<!ENTITY editPageCmd.accesskey            "Р">
-
-<!ENTITY editLinkCmd.label                "Редагувати посилання в Composer">
-<!ENTITY editLinkCmd.accesskey            "п">
-
