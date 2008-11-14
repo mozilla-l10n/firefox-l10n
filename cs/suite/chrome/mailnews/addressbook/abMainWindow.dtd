@@ -42,15 +42,13 @@
 
 
 <!ENTITY newCard.label "Kontakt…">
-<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->  
+<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newCard.accesskey "K">
 <!ENTITY newListCmd.label "Skupina…">
-<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
+<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey "S">
 <!ENTITY newAddressBookCmd.label "Složka kontaktů…">
 <!ENTITY newAddressBookCmd.accesskey "K">
-<!ENTITY renameAddressBookCmd.label "Přejmenovat složku kontaktů…">
-<!ENTITY renameAddressBookCmd.accesskey "P">
 <!ENTITY newLDAPDirectoryCmd.label "LDAP adresář…">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey "D">
@@ -59,7 +57,7 @@
 <!ENTITY printCardViewCmd.accesskey "t">
 <!ENTITY printPreviewCardViewCmd.label "Náhled tisku kontaktu">
 <!ENTITY printPreviewCardViewCmd.accesskey "h">
-<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->  
+<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->
 <!ENTITY printCardViewCmd.key "P">
 <!ENTITY printAddressBook.label "Tisk složky kontaktů…">
 <!ENTITY printAddressBook.accesskey "O">
@@ -78,7 +76,7 @@
 <!ENTITY swapFirstNameLastNameCmd.label "Vyměnit jméno/příjmení">
 <!ENTITY swapFirstNameLastNameCmd.accesskey "m">
 <!ENTITY propertiesCmd.label "Vlastnosti…">
-<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->  
+<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY propertiesCmd.accesskey "i">
 <!ENTITY propertiesCmd.key "i">
 <!-- View Menu -->
@@ -88,7 +86,7 @@
 
 <!ENTITY showCardPane.label "Obsah kontaktu">
 <!ENTITY showCardPane.accesskey "O">
-  
+
 <!ENTITY menu_ShowNameAs.label "Zobrazit jméno jako">
 <!ENTITY menu_ShowNameAs.accesskey "b">
 <!ENTITY firstLastCmd.label "Jméno Příjmení">
@@ -106,8 +104,7 @@
 <!ENTITY allowOnlineCheck.label "Ověřit přítomnost online (AOL)">
 <!ENTITY allowOnlineCheck.accesskey "O">
 
-<!ENTITY stopSearchingCmd.label ".Zastavit hledání">
-<!-- Toolbar and Popup items -->  
+<!-- Toolbar and Popup items -->
 
 <!ENTITY newcardButton.label "Nový kontakt">
 <!ENTITY newcardButton.accesskey "K">
@@ -121,9 +118,6 @@
 <!ENTITY deleteButton.accesskey "M">
 <!ENTITY newimButton.label "Krátká zpráva">
 <!ENTITY newimButton.accesskey "K">
-<!ENTITY stopButton.label ".Zastavit">
-<!ENTITY searchButton.label ".Hledat">
-<!ENTITY showNames.label "Zobrazit jména obsahující:">
 <!-- Tooltips -->
 
 <!ENTITY addressbookToolbar.tooltip "Lišta složky kontaktů">
@@ -133,12 +127,9 @@
 <!ENTITY newmsgButton.tooltip "Vytvoří novou zprávu">
 <!ENTITY newIM.tooltip "Pošle krátkou zprávu nebo začne rozhovor">
 <!ENTITY deleteButton.tooltip "Smaže označený kontakt nebo složku kontaktů">
-<!ENTITY stopButton.tooltip "Zastaví průběh akce">
-<!ENTITY searchButton.tooltip "Prohledá označenou složku kontaktů">
 <!ENTITY throbber.tooltip "Přejde na domovskou stránku aplikace &vendorShortName;">
-<!ENTITY clearButton.tooltip "Vymaže vyhledávací řetězec a zobrazí všechny záznamy">
 <!ENTITY advancedButton.tooltip "Rozšířené hledání adres">
-<!-- Status Bar -->  
+<!-- Status Bar -->
 
 <!ENTITY statusText.label "">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->

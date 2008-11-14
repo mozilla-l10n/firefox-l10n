@@ -74,9 +74,6 @@
 <!ENTITY filterActionDesc.label "Provést akci:">
 <!ENTITY filterActionDesc.accesskey "P">
 
-<!ENTITY newFolderButton.label "Nová složka…">
-<!ENTITY newFolderButton.accesskey "N">
-
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Přesunout zprávu do">
 <!ENTITY copyMessage.label "Kopírovat zprávu do">

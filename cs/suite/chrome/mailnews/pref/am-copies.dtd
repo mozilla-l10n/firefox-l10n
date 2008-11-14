@@ -6,13 +6,9 @@
 <!ENTITY fccMailFolder.accesskey "U">
 <!ENTITY fccReplyFollowsParent.label "Uložit odpovědi ve složce zprávy, na kterou je odpovídáno">
 <!ENTITY fccReplyFollowsParent.accesskey "e">
-<!ENTITY chooseFolderButton.label "Vybrat složku…">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Skryté kopie jiných adres:">
 <!ENTITY bccAddress.accesskey "S">
-<!ENTITY specialFolderTitle.label "Zvláštní složky">
-<!ENTITY draftMailFolder.label "Keep message drafts in:">
-<!ENTITY templateMailFolder.label "Zachovat šablony zpráv v:">
 <!ENTITY saveMessageDlg.label "Zobrazit potvrzení při ukládání zpráv">
 <!ENTITY saveMessageDlg.accesskey "Z">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

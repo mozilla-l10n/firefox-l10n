@@ -46,11 +46,6 @@
 <!ENTITY printCmd.label "Tisk…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "T">
-<!ENTITY quitApplicationCmdWin.label "Ukončit">
-<!ENTITY quitApplicationCmdWin.accesskey "U">
-<!ENTITY quitApplicationCmd.label "Ukončit">
-<!ENTITY quitApplicationCmd.accesskey "k">
-<!ENTITY quitApplicationCmd.key "Q">
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "Úpravy">

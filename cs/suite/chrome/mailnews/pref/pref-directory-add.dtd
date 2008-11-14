@@ -48,12 +48,9 @@
 <!ENTITY directorySecure.accesskey "U">
 <!ENTITY directoryLogin.label "Přesné rozlišovací jméno:">
 <!ENTITY directoryLogin.accesskey "p">
-<!ENTITY advancedOptionsButton.label "Rozšířené nastavení">
-<!ENTITY advancedOptionsButton.accesskey "z">
 <!ENTITY General.tab "Obecné">
 <!ENTITY Offline.tab "Režim offline">
 <!ENTITY Advanced.tab "Rozšířené">
-<!ENTITY advancedOptionsTitle.label "Rozšířené nastavení">
 <!ENTITY portNumber.label "Číslo portu: ">
 <!ENTITY portNumber.accesskey "l">
 <!ENTITY searchFilter.label "Prohledávací filtr: ">
@@ -68,7 +65,7 @@
 <!ENTITY return.accesskey "n">
 <!ENTITY results.label "výsledků">
 <!ENTITY offlineText.label "Můžete si stáhnout lokální kopii složky kontaktů, takže bude přístupná pro použití i v režimu offline.">
-<!-- Localization note: this is here because the width of the dialog 
+<!-- Localization note: this is here because the width of the dialog
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->
