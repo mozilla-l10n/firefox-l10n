@@ -52,7 +52,6 @@
 <!ENTITY newVirtualFolderCmd.accesskey "U">
 <!ENTITY newAccountCmd.label "Účet…">
 <!ENTITY newAccountCmd.accesskey "T">
-<!ENTITY openMessageMenu.label "Otevřít">
 <!ENTITY openMessageFileCmd.label "Otevřít uloženou zprávu…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Přílohy">
@@ -77,7 +76,6 @@
 <!ENTITY getNextNMsgCmd.accesskey "d">
 <!ENTITY sendUnsentCmd.label "Odeslat neodeslané zprávy">
 <!ENTITY sendUnsentCmd.accesskey "d">
-<!ENTITY loadFirstDraft.label "Otevřít první rozepsanou zprávu">
 <!ENTITY subscribeCmd.label "Přihlásit k odebírání…">
 <!ENTITY subscribeCmd.accesskey "b">
 <!ENTITY renameFolder.label "Přejmenovat složku…">
@@ -101,7 +99,6 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Print Preview">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "Vzhled stránky…">
 <!ENTITY printSetupCmd.accesskey "v">
 
@@ -129,8 +126,6 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Označené zprávy">
 <!ENTITY selectFlaggedCmd.accesskey "O">
-<!ENTITY selectInvertCmd.label ".Převrátit označené">
-<!ENTITY selectInvertCmd.accesskey "I">
 <!ENTITY folderPropsCmd.label "Vlastnosti…">
 <!ENTITY folderPropsFolderCmd.label "Vlastnosti složky…">
 <!ENTITY folderPropsNewsgroupCmd.label "Vlastnosti diskusní skupiny…">
@@ -145,14 +140,10 @@
 <!ENTITY redoCopyMsgCmd.label "Znovu kopírovat zprávu">
 <!ENTITY undoDefaultCmd.label "Zpět">
 <!ENTITY redoDefaultCmd.label "Znovu">
-<!ENTITY editDraftCmd.label "Upravit rozepsané">
-<!ENTITY editDraftCmd.accesskey "z">
 
 <!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label "Lišta pošty">
 <!ENTITY showMessengerToolbarCmd.accesskey "p">
-<!ENTITY customizeToolbar.label "Vlastní…">
-<!ENTITY customizeToolbar.accesskey "V">
 
 <!-- showSearchToolbarCmd is also used by addressbook -->
 <!ENTITY showSearchToolbarCmd.label "Lišta vyhledávání">
@@ -222,8 +213,6 @@
 <!ENTITY threads.accesskey "v">
 <!ENTITY allMsgsCmd.label "Vše">
 <!ENTITY allMsgsCmd.accesskey "V">
-<!ENTITY expandOrCollapseMenu.label "Rozvinout/Sbalit">
-<!ENTITY expandOrCollapseMenu.accesskey "v">
 <!ENTITY expandAllThreadsCmd.label "Rozvinout všechna vlákna">
 <!ENTITY expandAllThreadsCmd.accesskey "R">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -244,8 +233,6 @@
 <!ENTITY headersAllCmd.accesskey "V">
 <!ENTITY headersNormalCmd.label "Normální">
 <!ENTITY headersNormalCmd.accesskey "N">
-<!ENTITY headersBriefCmd.label ".Stručný">
-<!ENTITY headersBriefCmd.accesskey "T">
 <!ENTITY bodyMenu.label "Tělo zprávy jako">
 <!ENTITY bodyMenu.accesskey "T">
 <!ENTITY bodyAllowHTML.label "Původní HTML">
@@ -263,12 +250,6 @@
 <!ENTITY pageSourceCmd.label "Zdrojový kód zprávy">
 <!ENTITY pageSourceCmd.accesskey "r">
 <!ENTITY pageSourceCmd.key "u">
-<!ENTITY translateMenu.label ".Přeložit">
-
-<!-- Search Menu -->
-<!-- searchMenu is also used by addressbook -->
-<!ENTITY searchMenu.label "Hledat">
-<!ENTITY searchMenu.accesskey "H">
 
 <!ENTITY findCmd.label "Najít ve zprávě…">
 <!ENTITY findCmd.accesskey "T">
@@ -281,24 +262,11 @@
 <!ENTITY findPrevCmd.accesskey "c">
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!-- LOCALIZATION NOTE (searchCurrentCmd.label) : Do not translate "&lt;" and "&gt;" in below line. -->
-<!ENTITY searchCurrentCmd.label ".Hledat v &lt;current&gt;">
-<!ENTITY searchCurrentCmd.accesskey "">
-<!-- LOCALIZATION NOTE (searchParentCmd.label) : Do not translate "&lt;" and "&gt;" in below line. -->
-<!ENTITY searchParentCmd.label ".Hledat v &lt;parent&gt;">
-<!ENTITY searchParentCmd.accesskey "">
-<!-- LOCALIZATION NOTE (searchParentParentCmd.label) : Do not translate "&lt;" and "&gt;" in below line. -->
-<!ENTITY searchParentParentCmd.label ".Hledat v &lt;parent parent&gt;">
-<!ENTITY searchParentParentCmd.accesskey "">
 
 <!-- Go Menu -->
 
 <!ENTITY goMenu.label "Přejít">
 <!ENTITY goMenu.accesskey "P">
-<!ENTITY firstUnreadMsgCmd.label ".První nepřečtená zpráva">
-<!ENTITY firstUnreadMsgCmd.accesskey "P">
-<!ENTITY firstFlaggedMsgCmd.label ".První označkovaná zpráva">
-<!ENTITY firstFlaggedMsgCmd.accesskey "O">
 <!ENTITY nextMenu.label "Další">
 <!ENTITY nextMenu.accesskey "D">
 <!ENTITY nextMsgCmd.label "Message">
@@ -309,7 +277,6 @@
 <!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextFlaggedMsgCmd.label "Zpráva s praporkem">
 <!ENTITY nextFlaggedMsgCmd.accesskey "P">
-<!ENTITY nextUnflaggedMsgCmd.label "Zpráva bez praporku">
 <!ENTITY nextUnreadThread.label "Nepřečtené vlákno">
 <!ENTITY nextUnreadThread.accesskey "T">
 <!ENTITY nextUnreadThread.key "t">
@@ -327,10 +294,6 @@
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Zpráva s praporkem">
 <!ENTITY prevFlaggedMsgCmd.accesskey "r">
-<!ENTITY backCmd.label ".Zpět">
-<!ENTITY backCmd.accesskey "Z">
-<!ENTITY forwardCmd.label ".Vpřed">
-<!ENTITY forwardCmd.accesskey "V">
 <!ENTITY startPageCmd.label "Úvodní stránka pošty">
 <!ENTITY startPageCmd.accesskey "S">
 <!ENTITY msgMenu.label "Message">
@@ -388,10 +351,6 @@
 <!ENTITY fileHereMenu.accesskey "S">
 <!ENTITY copyHereMenu.label "Kopírovat sem">
 <!ENTITY copyHereMenu.accesskey "P">
-<!ENTITY addSenderToAddressBookCmd.label ".Přidat odesílatele do složky kontaktů">
-<!ENTITY addSenderToAddressBookCmd.accesskey "S">
-<!ENTITY addAllToAddressBookCmd.label ".Přidat všechny do složky kontaktů">
-<!ENTITY addAllToAddressBookCmd.accesskey "A">
 <!ENTITY tagMenu.label "Přiřadit štítek">
 <!ENTITY tagMenu.accesskey "d">
 <!ENTITY tagCustomize.label "Vlastní…">
@@ -411,8 +370,6 @@
 <!ENTITY markAsReadCmd.label "Přečtená">
 <!ENTITY markAsReadCmd.accesskey "P">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "Nepřečtená">
-<!ENTITY markAsUnreadCmd.accesskey "N">
 <!ENTITY markThreadAsReadCmd.label "Přečtené vlákno">
 <!ENTITY markThreadAsReadCmd.accesskey "V">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -486,7 +443,7 @@
 <!ENTITY junkButton.label "Nevyžádané">
 <!ENTITY notJunkButton.label "Není nevyžádaná">
 
-<!--Tooltips-->
+<!-- Tooltips -->
 <!ENTITY menuBar.tooltip "Nabídka">
 <!ENTITY mailToolbar.tooltip "Lišta pošty">
 <!ENTITY locationToolbar.tooltip "Lišta navigace">
@@ -511,8 +468,6 @@
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "Hotovo">
-<!ENTITY unreadCountText.label "Nepřečtené: ">
-<!ENTITY totalCountText.label " Celkem: ">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Otevřít zprávu v novém okně">
@@ -578,7 +533,7 @@
 <!ENTITY folderContextSettings.label "Nastavení…">
 <!ENTITY folderContextSettings.accesskey "s">
 
-<!-- SearchBar-->
+<!-- Search Bar -->
 <!-- also used by addressbook -->
 <!ENTITY SearchSubjectOrFrom.label "Předmět nebo odesílatel obsahuje:">
 <!ENTITY SearchSubjectOrFrom.accesskey "S">

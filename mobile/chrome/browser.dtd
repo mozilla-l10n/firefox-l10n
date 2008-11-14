@@ -13,6 +13,8 @@
 <!ENTITY search.tooltip "Hledat">
 <!ENTITY go.label "Přejít">
 <!ENTITY go.tooltip "Přejít">
+<!ENTITY openLocation.label "Otevřít adresu">
+<!ENTITY openLocation.tooltip "Otevře adresu">
 <!ENTITY star.label "Hvězda">
 <!ENTITY star.tooltip "Uložit tuto stránku">
 <!ENTITY bookmarks.label "Záložky">

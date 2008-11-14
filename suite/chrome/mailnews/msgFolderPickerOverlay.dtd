@@ -34,16 +34,7 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-<!-- Labels -->
 
-<!ENTITY subscribechoosethis.label "vyberte diskusní server">
-<!ENTITY subscribeclickhere.label "Klepnutím zde vyberete diskusní server">
+<!-- Labels -->
 <!ENTITY newfolderchoosethis.label "vyberte nadřazenou složku">
-<!ENTITY newfolderclickhere.label "Klepnutím zde vyberete složku">
-<!ENTITY renamefolderchoosethis.label "choose this folder">
-<!ENTITY renamefolderclickhere.label "klepnutím zde vyberete složku">
 <!ENTITY filemessageschoosethis.label "choose this folder">
-<!ENTITY filemessagesclickhere.label "klepnutím zde vyberete složku">
-<!ENTITY chooseaccountclickhere.label "Klepnutím zde vyberete účet">
-<!ENTITY choosefolderclickhere.label "Klepnutím zde vyberete složku">
-<!ENTITY chooseserverToDeferTo.label "klepněte zde pro výběr účtu na ukládání zpráv">

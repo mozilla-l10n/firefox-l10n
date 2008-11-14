@@ -39,10 +39,6 @@
 <!ENTITY generalSettings.caption "Obecné nastavení">
 <!ENTITY confirmMove.label "Potvrzovat přesun složek do koše">
 <!ENTITY confirmMove.accesskey "V">
-<!ENTITY useMessenger.label "Použít Poštu z aplikací založených na MAPI">
-<!ENTITY useMessenger.accesskey "U">
-<!ENTITY autounzip.label "Automaticky rozbalit zip soubry při ukládání přílohy">
-<!ENTITY autounzip.accesskey "A">
 <!ENTITY preserveThreading.label "Při seřazování zpráv uchovávat vlákna">
 <!ENTITY preserveThreading.accesskey "t">
 

@@ -53,8 +53,6 @@
 <!ENTITY fontPlainText.label "Písmo:">
 <!ENTITY fontPlainText.accesskey "P">
 <!ENTITY displayQuoted.label "Nastavení pro citované zprávy:">
-<!ENTITY readingMessagesHeader.label "Pro příchozí zprávy">
-<!ENTITY messageWrapping.label "Zalamování zpráv">
 <!ENTITY wrapInMsg.label "Zalamovat text na šířku okna">
 <!ENTITY wrapInMsg.accesskey "z">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->

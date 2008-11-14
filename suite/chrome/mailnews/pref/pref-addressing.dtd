@@ -53,5 +53,3 @@
 <!ENTITY directoriesNone.label "Žádný">
 <!ENTITY editDirectories.label "Upravit adresáře…">
 <!ENTITY editDirectories.accesskey "U">
-<!ENTITY matchText.label "Pokud je nalezen záznam v lokálních složkách kontaktů:">
-<!ENTITY skipDirectory.label "Neprohledávat adresář">

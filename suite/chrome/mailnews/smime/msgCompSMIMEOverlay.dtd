@@ -3,9 +3,6 @@
 <!ENTITY securityMenu.label "Zabezpečení">
 <!ENTITY securityMenu.accesskey "b">
 
-<!ENTITY menu_securityEncryptIfPossible.label "Pokud to jde, zašifrovat">
-<!ENTITY menu_securityEncryptIfPossible.accesskey "E">
-
 <!ENTITY menu_securityEncryptRequire.label "Zašifrovat zprávu">
 <!ENTITY menu_securityEncryptRequire.accesskey "Z">
 

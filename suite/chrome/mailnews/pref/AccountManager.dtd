@@ -6,11 +6,9 @@
 <!ENTITY addAccountButton.accesskey "P">
 <!ENTITY setDefaultButton.label "Nastavit jako výchozí">
 <!ENTITY setDefaultButton.accesskey "n">
-<!ENTITY duplicateButton.label "Duplikovat">
 <!ENTITY removeButton.label "Odebrat účet">
 <!ENTITY removeButton.accesskey "R">
 
-<!ENTITY duplicate.label "Duplikovat">
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      setting dialog, which specifies the width and height in em units of the dialog.

@@ -2,13 +2,6 @@
 
 <!ENTITY securitySettings.label "Bezpečnostní nastavení">
 <!ENTITY serverSettings.label "Nastavení serveru">
-<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
-<!ENTITY popServer.label "Poštovní server (POP)">
-<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
-<!ENTITY imapServer.label "Poštovní server (IMAP)">
-<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
-<!ENTITY newsServer.label "Diskusní server (NNTP)">
-<!ENTITY webmail.label "Účet webové pošty">
 <!ENTITY serverType.label "Typ serveru:">
 <!ENTITY serverName.label "Název serveru:">
 <!ENTITY serverName.accesskey "S">
@@ -50,10 +43,7 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "Automaticky stahovat nové zprávy">
 <!ENTITY downloadOnBiff.accesskey "a">
-<!ENTITY hostname.label "Jméno serveru">
 <!ENTITY username.label "Vaše přihlašovací jméno">
-<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
-<!ENTITY popServerTitle.label "Informace o POP serveru">
 <!ENTITY deleteMessagePrefix.label "Při odstranění zprávy:">
 <!ENTITY modelMoveToTrash.label "Přesunout zprávu do koše">
 <!ENTITY modelMoveToTrash.accesskey "o">
@@ -68,7 +58,7 @@
 <!ENTITY emptyTrashOnExit.accesskey "y">
 <!ENTITY loginAtStartup.label "Po spuštění zkontrolovat nové zprávy">
 <!ENTITY loginAtStartup.accesskey "Z">
-<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
 	 of messages between them
 -->

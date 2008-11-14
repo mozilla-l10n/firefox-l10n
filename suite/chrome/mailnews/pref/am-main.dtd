@@ -3,7 +3,6 @@
 <!ENTITY accountTitle.label "Nastavení účtu">
 <!ENTITY accountName.label "Název účtu:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY accountNameDesc.label "Každý účet je označen názvem.">
 <!ENTITY identityTitle.label "Identifikační informace">
 <!ENTITY identityDesc.label "Každý účet obsahuje identifikační informace, které ostatní lidé vidí při čtení vašich zpráv.">
 <!ENTITY name.label "Vaše jméno:">
@@ -16,7 +15,6 @@
 <!ENTITY organization.accesskey "O">
 <!ENTITY signature.label "Připojovat tento podpis">
 <!ENTITY signature.accesskey "p">
-<!ENTITY edit.label "Upravit…">
 <!ENTITY choose.label "Vybrat…">
 <!ENTITY choose.accesskey "V">
 <!ENTITY editVCard.label "Upravit vizitku…">

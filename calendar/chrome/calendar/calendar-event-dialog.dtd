@@ -82,8 +82,6 @@
 <!ENTITY event.menu.file.page.setup.accesskey "V">
 <!ENTITY event.menu.file.print.label "Tisk…">
 <!ENTITY event.menu.file.print.accesskey "T">
-<!ENTITY event.menu.file.exit.label "Ukončit">
-<!ENTITY event.menu.file.exit.accesskey "k">
 
 <!ENTITY event.menu.edit.label "Úpravy">
 <!ENTITY event.menu.edit.accesskey "a">
