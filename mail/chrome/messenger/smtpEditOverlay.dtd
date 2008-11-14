@@ -13,11 +13,15 @@
 <!ENTITY isSecure.label "Використовувати захищене з’єднання:">
 <!ENTITY neverSecure.label "Немає">
 <!ENTITY neverSecure.accesskey "Н">
-<!ENTITY sometimesSecure.label "TLS, по можливості">
-<!ENTITY sometimesSecure.accesskey "м">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSmtpS.label "SSL">
-<!ENTITY alwaysSmtpS.accesskey "L">
 <!ENTITY smtpEditTitle.label "SMTP-сервер">
 <!ENTITY serverPortDefault.label "За умовчанням:">
+
+<!-- FIXME: localize -->
+<!ENTITY alwaysSMTPOverSSL.accesskey "L">
+<!ENTITY alwaysSMTPOverSSL.label "SMTP-over-SSL">
+<!ENTITY alwaysSTARTTLS.accesskey "T">
+<!ENTITY alwaysSTARTTLS.label "STARTTLS">
+<!ENTITY sometimesSTARTTLS.accesskey "a">
+<!ENTITY sometimesSTARTTLS.label "STARTTLS, if available">
+<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY useSecAuth.label "Use secure authentication">

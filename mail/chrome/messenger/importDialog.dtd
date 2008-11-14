@@ -52,9 +52,7 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY  window.macWidth         "45em">
 
 <!ENTITY importTitle.label        "Майстер імпорту пошти &brandShortName;">
-<!ENTITY importDesc.label         "Імпорт пошти, адресних книг і налаштувань з інших поштових програм">
 
-<!ENTITY importDescription.label  "Майстер імпортує поштові повідомлення, вміст адресних книг і/або налаштування з інших поштових програм і адресних книг в поштовий клієнт &brandShortName;.">
 <!ENTITY importDescription2.label "Імпортована одного разу, ця інформація буде доступна для вас з поштового клієнта &brandShortName; і/або адресної книги.">
 
 <!ENTITY selectDescription.label  "Виберіть програму, з якої хочете провести імпорт:">
@@ -74,3 +72,9 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY FieldDiscWarning.label  "Ця категорія використовуватиметься для всіх адрес вибраної адресної книги: ">
 <!ENTITY importDialog.homeTitle  "Домашній">
 <!ENTITY importDialog.workTitle  "Робочий">
+
+<!-- FIXME: localize -->
+<!ENTITY importDescription1.label "This wizard will import mail messages, address book entries, preferences, and/or filters from other mail programs and common address book formats into &brandShortName;.">
+<!ENTITY importDialog.allTitle    "Import everything">
+<!ENTITY importDialog.filtersTitle "Filters">
+<!ENTITY importShortDesc.label    "Import Mail, Address Books, Settings, and Filters from other programs">
