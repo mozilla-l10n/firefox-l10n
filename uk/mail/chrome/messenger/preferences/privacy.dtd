@@ -6,10 +6,14 @@
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Налаштуйте загальні параметри спам-фільтрів. Специфічні для облікових записів параметри можуть бути змінені в налаштуваннях облікового запису.">
-<!ENTITY manualMark.label "Коли я позначаю повідомлення спамом:">
+<!ENTITY manualMark.label "Коли я позначаю повідомлення як спам:">
+<!ENTITY manualMark.accesskey "я">
 <!ENTITY manualMarkModeMove.label "Перемістити їх у теку «Спам»">
+<!ENTITY manualMarkModeMove.accesskey "т">
 <!ENTITY markAsReadOnSpam.label "Відмітити такі повідомлення прочитаними">
+<!ENTITY markAsReadOnSpam.accesskey "ч">
 <!ENTITY manualMarkModeDelete.label "Знищити їх">
+<!ENTITY manualMarkModeDelete.accesskey "н">
 <!ENTITY enableJunkLogging.label "Ввімкнути журнал спам-фільтру">
 <!ENTITY enableJunkLogging.accesskey "ж">
 <!ENTITY openJunkLog.label "Показати журнал">
@@ -42,9 +46,3 @@
 <!ENTITY antiVirus.accesskey  "Д">
 
 <!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
-
-<!-- FIXME: localize -->
-<!ENTITY manualMark.accesskey "W">
-<!ENTITY manualMarkModeDelete.accesskey "t">
-<!ENTITY manualMarkModeMove.accesskey "o">
-<!ENTITY markAsReadOnSpam.accesskey "k">

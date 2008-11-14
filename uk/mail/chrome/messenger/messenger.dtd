@@ -571,29 +571,29 @@
 <!ENTITY zoomWindow.label "Розвернути вікно">
 
 <!-- FIXME: localize -->
-<!ENTITY AddDirectlyToAddressBook.accesskey "B">
-<!ENTITY AddDirectlyToAddressBook.label "Add to Address Book">
-<!ENTITY CreateFilterFrom.accesskey "F">
-<!ENTITY CreateFilterFrom.label "Create Filter From…">
-<!ENTITY EditContact.accesskey "E">
-<!ENTITY EditContact.label "Edit Contact…">
-<!ENTITY ViewContact.accesskey "V">
-<!ENTITY ViewContact.label "View Contact">
-<!ENTITY compactButton.label "Compact">
-<!ENTITY compactButton.tooltip "Remove deleted messages from selected folder">
-<!ENTITY compactFolders.accesskey    "F">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY copyCmd.label "Copy">
-<!ENTITY copyEmailCmd.accesskey "E">
-<!ENTITY copyEmailCmd.label "Copy Email Address">
-<!ENTITY copyImageCmd.accesskey "o">
-<!ENTITY copyImageCmd.label "Copy Image Location">
-<!ENTITY copyLinkCmd.accesskey "C">
-<!ENTITY copyLinkCmd.label "Copy Link Location">
-<!ENTITY copyMsgToMenu.accesskey "C">
-<!ENTITY copyMsgToMenu.label "Copy To">
-<!ENTITY deleteFolder.accesskey "e">
-<!ENTITY deleteFolder.label "Delete Folder">
+<!ENTITY AddDirectlyToAddressBook.accesskey "а">
+<!ENTITY AddDirectlyToAddressBook.label "Додати до адресної книги">
+<!ENTITY CreateFilterFrom.accesskey "ф">
+<!ENTITY CreateFilterFrom.label "Створити фільтр з…">
+<!ENTITY EditContact.accesskey "Р">
+<!ENTITY EditContact.label "Редагувати контакт…">
+<!ENTITY ViewContact.accesskey "П">
+<!ENTITY ViewContact.label "Переглянути контакт">
+<!ENTITY compactButton.label "Стиснути">
+<!ENTITY compactButton.tooltip "Усунути вилучені повідомлення з вибраної теки">
+<!ENTITY compactFolders.accesskey    "У">
+<!ENTITY copyCmd.accesskey "К">
+<!ENTITY copyCmd.label "Копіювати">
+<!ENTITY copyEmailCmd.accesskey "e">
+<!ENTITY copyEmailCmd.label "Копівати email адресу">
+<!ENTITY copyImageCmd.accesskey "м">
+<!ENTITY copyImageCmd.label "Копіювати адресу малюнка">
+<!ENTITY copyLinkCmd.accesskey "п">
+<!ENTITY copyLinkCmd.label "Копіювати адресу посилання">
+<!ENTITY copyMsgToMenu.accesskey "у">
+<!ENTITY copyMsgToMenu.label "Копіювати у">
+<!ENTITY deleteFolder.accesskey "т">
+<!ENTITY deleteFolder.label "Усунути теку">
 <!ENTITY filtersApplyToMessage.accesskey "s">
 <!ENTITY filtersApplyToMessage.label "Run Filters on Message">
 <!ENTITY filtersApplyToSelection.accesskey "S">
@@ -606,9 +606,9 @@
 <!ENTITY folderContextSettings.label "Settings…">
 <!ENTITY fromColumn.label "From">
 <!ENTITY fromColumn.tooltip "Click to sort by from">
-<!ENTITY fullZoom.accesskey             "Z">
-<!ENTITY fullZoom.label                 "Zoom">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
+<!ENTITY fullZoom.accesskey             "ш">
+<!ENTITY fullZoom.label                 "Масштаб">
+
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -622,23 +622,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-<!ENTITY fullZoomEnlargeCmd.label       "Zoom In">
-<!ENTITY fullZoomReduceCmd.accesskey    "O">
+<!ENTITY fullZoomEnlargeCmd.label       "Збільшити">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "л">
 
+<!ENTITY fullZoomReduceCmd.accesskey    "н">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
-<!ENTITY fullZoomReduceCmd.label        "Zoom Out">
-<!ENTITY fullZoomResetCmd.accesskey     "R">
+<!ENTITY fullZoomReduceCmd.label        "Зменшувати">
 
+<!ENTITY fullZoomResetCmd.accesskey     "ч">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomResetCmd.commandkey2   "">
-<!ENTITY fullZoomResetCmd.label         "Reset">
-<!ENTITY fullZoomToggleCmd.accesskey    "T">
-<!ENTITY fullZoomToggleCmd.label        "Zoom Text Only">
+<!ENTITY fullZoomResetCmd.label         "Звичайний">
+<!ENTITY fullZoomToggleCmd.accesskey    "т">
+<!ENTITY fullZoomToggleCmd.label        "Збільшувати лише текст">
 <!ENTITY getAllNewMsgCmd.accesskey "G">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "All Accounts">
@@ -650,8 +651,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
 <!ENTITY hideThisAppCmdMac.label        "Hide &brandShortName;">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
-<!ENTITY junkBarButton1.label "Not Junk">
-<!ENTITY junkBarMessage1.label "Junk Mail">
+<!ENTITY junkBarButton1.label "Не спам">
+<!ENTITY junkBarMessage1.label "Спам">
 <!ENTITY killSubthreadMenu.accesskey "S">
 <!ENTITY killSubthreadMenu.key "k">
 <!ENTITY killSubthreadMenu.label "Ignore Subthread">
@@ -660,28 +661,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY moveMsgToMenu.label "Move To">
 <!ENTITY nextUnreadThread.accesskey "T">
 <!ENTITY nextUnreadThread.key "t">
-<!ENTITY phishingBarMessage2.label "This message may be a scam.">
+<!ENTITY phishingBarMessage2.label "Це повідомлення може бути шахрайським.">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.label        "Preferences…">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY prevMsgCmd.key "b">
 <!ENTITY prevUnreadMsgCmd.key "p">
-<!ENTITY receivedColumn.label "Received">
-<!ENTITY receivedColumn.tooltip "Click to sort by date received">
+<!ENTITY receivedColumn.label "Отримано">
+<!ENTITY receivedColumn.tooltip "Клацніть щоб сортувати за датою отримання">
 <!ENTITY remoteContentMessage1.label "To protect your privacy, remote images have been blocked.">
-<!ENTITY removePhishingBarButton1.label "Ignore Warning">
-<!ENTITY reportPhishingError1.label "This message doesn't appear to be a scam.">
+<!ENTITY removePhishingBarButton1.label "Зігнорувати попередження">
+<!ENTITY reportPhishingError1.label "Це повідомлення наче не шахрайське.">
 <!ENTITY saveImageAsCmd.accesskey "v">
 <!ENTITY saveImageAsCmd.label "Save Image As…">
 <!ENTITY saveLinkAsCmd.accesskey "k">
 <!ENTITY saveLinkAsCmd.label "Save Link As…">
-<!ENTITY searchFromMenu.label "From">
-<!ENTITY searchSubjectOrFromMenu.label "Subject or From">
-<!ENTITY searchSubjectOrRecipientMenu.label "Subject, To or Cc">
-<!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY selectAllCmd.label "Select All">
-<!ENTITY selectFlaggedCmd.accesskey "S">
-<!ENTITY selectFlaggedCmd.label "Starred Messages">
+<!ENTITY searchFromMenu.label "Відправник">
+<!ENTITY searchSubjectOrFromMenu.label "Тема або відправник">
+<!ENTITY searchSubjectOrRecipientMenu.label "Тема, адресат або Cc">
+<!ENTITY selectAllCmd.accesskey "В">
+<!ENTITY selectAllCmd.label "Вибрати всі">
+<!ENTITY selectFlaggedCmd.accesskey "П">
+<!ENTITY selectFlaggedCmd.label "Відзначені повідомлення">
 <!ENTITY servicesMenuMac.label          "Services">
 <!ENTITY showAllAppsCmdMac.label        "Show All">
 <!ENTITY sortByFromCmd.accesskey "F">

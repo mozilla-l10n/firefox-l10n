@@ -40,9 +40,8 @@
 <!ENTITY browse.label                     "Огляд…">
 <!ENTITY browse.accesskey                 "О">
 
-<!-- FIXME: localize -->
-<!ENTITY addonsMgr.label                  "Add-ons">
-<!ENTITY manageAddons.accesskey           "M">
-<!ENTITY manageAddons.label               "Manage Add-ons…">
-<!ENTITY manageAddonsDescUnix2.label      "Change preferences for your add-ons">
-<!ENTITY manageAddonsDescWin.label        "Change options for your add-ons">
+<!ENTITY addonsMgr.label                  "Додатки">
+<!ENTITY manageAddons.label               "Керувати додатками…">
+<!ENTITY manageAddons.accesskey           "д">
+<!ENTITY manageAddonsDescUnix2.label      "Змінити налаштування ваших додатків">
+<!ENTITY manageAddonsDescWin.label        "Змінити налаштування ваших додатків">

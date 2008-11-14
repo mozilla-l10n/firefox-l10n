@@ -59,34 +59,34 @@
 <!ENTITY viewSecurityDevices.accesskey  "з">
 
 <!-- FIXME: localize -->
-<!ENTITY autoMarkAsRead.accesskey      "A">
-<!ENTITY autoMarkAsRead.label          "Automatically mark messages as read">
-<!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY clearCacheNow.label             "Clear Now">
-<!ENTITY display.caption                "Display">
-<!ENTITY itemDisplay.label       "Reading &amp; Display">
-<!ENTITY markAsReadDelay.accesskey     "e">
+<!ENTITY autoMarkAsRead.accesskey      "А">
+<!ENTITY autoMarkAsRead.label          "Автоматично позначати листи як прочитані">
+<!ENTITY clearCacheNow.accesskey         "О">
+<!ENTITY clearCacheNow.label             "Очистити зараз">
+<!ENTITY display.caption                "Відображення">
+<!ENTITY itemDisplay.label       "Читання та відображення">
+<!ENTITY markAsReadDelay.accesskey     "Я">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "After displaying for">
-<!ENTITY markAsReadNoDelay.accesskey   "d">
-<!ENTITY markAsReadNoDelay.label       "Immediately on display">
-<!ENTITY openMsgIn.label               "Open messages in:">
-<!ENTITY proxiesConfigure.label        "Configure how &brandShortName; connects to the Internet">
-<!ENTITY reading.caption                "Reading">
+<!ENTITY markAsReadDelay.label         "Як мине">
+<!ENTITY markAsReadNoDelay.accesskey   "З">
+<!ENTITY markAsReadNoDelay.label       "Зразу після відораження">
+<!ENTITY openMsgIn.label               "Відкривати листи у:">
+<!ENTITY proxiesConfigure.label        "Настройте як &brandShortName; з’єднується з інтернетом">
+<!ENTITY reading.caption                "Читання">
 
-<!ENTITY secondsLabel.label            "seconds">
-<!ENTITY showSettings.accesskey        "n">
-<!ENTITY showSettings.label            "Settings…">
+<!ENTITY secondsLabel.label            "секунд">
+<!ENTITY showSettings.accesskey        "Н">
+<!ENTITY showSettings.label            "Настройки…">
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheAfter.label             "MB of space for the cache">
-<!ENTITY useCacheBefore.accesskey        "U">
-<!ENTITY useCacheBefore.label            "Use up to">
-<!ENTITY validation.accesskey           "d">
-<!ENTITY validation.label               "Validation">
+<!ENTITY useCacheAfter.label             "MB місця під кеш">
+<!ENTITY useCacheBefore.accesskey        "ш">
+<!ENTITY useCacheBefore.label            "Використовувати до">
+<!ENTITY validation.accesskey           "р">
+<!ENTITY validation.label               "Перевірка">
