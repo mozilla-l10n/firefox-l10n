@@ -35,14 +35,11 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-
 <!-- Window title -->
 <!ENTITY windowTitle.label            "Pagina publiceren">
 <!ENTITY windowTitleSettings.label    "Publiceerinstellingen">
-
 <!ENTITY publishTab.label             "Publiceren">
 <!ENTITY settingsTab.label            "Instellingen">
-
 <!ENTITY publishButton.label          "Publiceren">
 
 <!-- Publish Tab Panel -->
@@ -72,10 +69,8 @@
 <!ENTITY filename.accesskey           "B">
 <!ENTITY filename.tooltip             "Voer een naam in voor dit bestand, eindigend op ‘html’ voor een webpagina">
 <!ENTITY filenameExample.label        "bv. “mypage.html”">
-<!ENTITY relatedDocs.label            "Andere bestanden om te publiceren">
 <!ENTITY setDefaultButton.label       "Als standaard instellen">
 <!ENTITY setDefaultButton.accesskey   "d">
-<!ENTITY setDefSiteAndDir.label       "Als standaard website en map instellen">
 <!ENTITY removeButton.label           "Website verwijderen">
 <!ENTITY removeButton.accesskey       "v">
 

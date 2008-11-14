@@ -47,7 +47,6 @@
 <!ENTITY bulletList.value "Opsommingslijst (niet genummerd)">
 <!ENTITY numberList.value "Genummerde lijst">
 <!ENTITY definitionList.value "Definitielijst">
-<!ENTITY changeListMsg.label "Bij veranderen van het lijsttype:">
 <!ENTITY changeEntireListRadio.label "Gehele lijst veranderen">
 <!ENTITY changeEntireListRadio.accessKey "v">
 <!ENTITY changeSelectedRadio.label "Alleen de geselecteerde items veranderen">

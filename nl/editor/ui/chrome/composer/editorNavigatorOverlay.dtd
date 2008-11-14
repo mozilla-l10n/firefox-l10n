@@ -1,7 +1,0 @@
-
-<!ENTITY editPageCmd.label                "Pagina bewerken in Composer"> 
-<!ENTITY editPageCmd.accesskey            "e">
-
-<!ENTITY editLinkCmd.label                "Koppeling bewerken in Composer">
-<!ENTITY editLinkCmd.accesskey            "E">
-

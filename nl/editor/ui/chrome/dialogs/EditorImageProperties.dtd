@@ -41,7 +41,6 @@
 <!ENTITY windowTitle.label "Afbeeldingseigenschappen">
 
 <!ENTITY pixelsPopup.value "pixels">
-<!ENTITY percentPopup.value "procent">
 
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Afbeeldingslocatie:">
@@ -57,7 +56,6 @@
 <!ENTITY noAltText.accessKey "G">
 
 <!ENTITY previewBox.label "Afbeeldingsvoorbeeld">
-<!ENTITY MoreFewerButton.tooltip "Meer of minder eigenschappen tonen om te bewerken">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
@@ -93,7 +91,6 @@
 
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "Marges">
-<!ENTITY spacingBox.tooltip "De hoeveelheid ruimte rond de afbeelding invoeren">
 <!ENTITY leftRightEditField.label "Links en rechts">
 <!ENTITY leftRightEditField.accessKey "s">
 <!ENTITY topBottomEditField.label "Boven en onder:">
@@ -104,12 +101,6 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Een rand weergeven om de koppelingsafbeelding">
 <!ENTITY showImageLinkBorder.accessKey "d">
-
-<!-- These controls may be added some day; currently not used -->
-<!ENTITY makePageBackgroundCheckbox.label "Pagina-achtergrond maken">
-<!ENTITY makePageBackgroundCheckbox.tooltip "Afbeelding als achtergrond van uw pagina gebruiken">
-<!ENTITY editImageButton.label "Afbeelding bewerken">
-<!ENTITY editImageButton.tooltip "Afbeelding bewerken in een ander programma">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Formulier">
