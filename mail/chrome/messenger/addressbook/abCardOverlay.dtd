@@ -80,10 +80,14 @@
 <!ENTITY ScreenName.label               "Schermnaam:">
 <!ENTITY ScreenName.accesskey           "S">
 
-<!ENTITY allowRemoteContent.label       "Afbeeldingen op afstand in HTML-e-mail toestaan.">
+<!ENTITY allowRemoteContent.label       "Afbeeldingen op afstand toestaan.">
 <!ENTITY allowRemoteContent.accesskey   "d">
+<!ENTITY allowRemoteContent.tooltip     "In HTML messages it is possible to
+embed images from remote sources. Opening such a message will open a
+connection to this external source. This may allow tracking of the
+message being read. Checking this box will allow such external embedded
+images in HTML messages from this contact.">
 
-<!ENTITY Phones.box                     "Telefoon">
 <!ENTITY WorkPhone.label                "Werk:">
 <!ENTITY WorkPhone.accesskey            "r">
 <!ENTITY HomePhone.label                "Thuis:">
@@ -95,11 +99,10 @@
 <!ENTITY CellularNumber.label           "Mobiel:">
 <!ENTITY CellularNumber.accesskey       "M">
 
-<!ENTITY Address.tab                    "Adres">
-<!ENTITY Address.accesskey              "A">
-<!ENTITY Home.box                       "Thuis">
+<!ENTITY Home.tab                       "Prive">
+<!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "Adres:">
-<!ENTITY HomeAddress.accesskey          "d">
+<!ENTITY HomeAddress.accesskey          "A">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Woonplaats:">
@@ -112,7 +115,14 @@
 <!ENTITY HomeCountry.accesskey          "L">
 <!ENTITY HomeWebPage.label              "Webpagina:">
 <!ENTITY HomeWebPage.accesskey          "b">
-<!ENTITY Work.box                       "Werk">
+<!ENTITY Birthday.label                 "Verjaardag:">
+<!ENTITY Birthday.accesskey             "V">
+<!ENTITY Year.emptytext                 "Jaar">
+<!ENTITY Or.value                       "of">
+<!ENTITY Age.emptytext                  "Leeftijd">
+
+<!ENTITY Work.tab                       "Werk">
+<!ENTITY Work.accesskey                 "W">
 <!ENTITY JobTitle.label                 "Functie:">
 <!ENTITY JobTitle.accesskey             "u">
 <!ENTITY Department.label               "Afdeling:">
@@ -135,12 +145,7 @@
 <!ENTITY WorkWebPage.accesskey          "g">
 
 <!ENTITY Other.tab                      "Overig">
-<!ENTITY Other.accesskey                "O">
-<!ENTITY Birthday.label                 "Verjaardag:">
-<!ENTITY Birthday.accesskey             "V">
-<!ENTITY Year.emptytext                 "Jaar">
-<!ENTITY Or.value                       "of">
-<!ENTITY Age.emptytext                  "Leeftijd">
+<!ENTITY Other.accesskey                "v">
 <!ENTITY Custom1.label                  "Overig 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Overig 2:">
@@ -149,5 +154,5 @@
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Overig 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.box                      "Aantekeningen">
+<!ENTITY Notes.label                    "Aantekeningen">
 <!ENTITY Notes.accesskey                "n">
