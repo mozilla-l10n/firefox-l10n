@@ -20,7 +20,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Charles Manxke (cmanske@netscape.com)
+   -   Charles Manske (cmanske@netscape.com)
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -38,9 +38,6 @@
 <!-- Window title -->
 
 <!ENTITY windowTitle.label "Seiceáil Suíomhanna na nÍomhánna agus na Nasc">
-<!ENTITY urlsNotFound.label "Níor aimsíodh na suíomhanna íomhá nó na naisc seo:">
-<!ENTITY notFoundKey.label "(&quot;X&quot; = níor aimsíodh an comhad, &quot;?&quot; = imithe thar am ag iarraidh ceangail.)">
-<!ENTITY changeUrlButton.label "Athraigh Suíomh na Míre Roghnaithe">
 <!ENTITY succeeded.label "D'éirigh leis">
 <!ENTITY failed.label "Teipthe">
 <!ENTITY closeButton.label "Dún">

@@ -69,7 +69,6 @@
 <!ENTITY tableCaptionNone.label "Gan sonrú">
 <!ENTITY tableInheritColor.label "(Lig le dath an leathanaigh bheith le feiceáil)">
 
-<!ENTITY cellPercent.label "faoin gcéad den tábla">
 <!ENTITY cellSelection.label "Rogha">
 <!ENTITY cellSelectCell.label "Cill">
 <!ENTITY cellSelectRow.label "Ró">
@@ -78,11 +77,7 @@
 <!ENTITY cellSelectNext.accessKey "A">
 <!ENTITY cellSelectPrevious.label "Siar">
 <!ENTITY cellSelectPrevious.accessKey "S">
-<!ENTITY cellApplyBeforeMove.label "Cuir athruithe i bhfeidhm roimh an rogha a athrú">
-<!ENTITY cellKeepCurrentData.label "Coimeád na socruithe reatha">
 <!ENTITY applyBeforeChange.label "Cuirfear na hathruithe reatha i bhfeidhm roimh an rogha a athrú.">
-<!ENTITY cellRowSpan.label "Réise na Rónna:">
-<!ENTITY cellColSpan.label "Réise na gColún:">
 <!ENTITY cellContentAlignment.label "Ailíniú Inneachair">
 <!ENTITY cellHorizontal.label "Cothrománach:">
 <!ENTITY cellHorizontal.accessKey "C">
@@ -100,7 +95,6 @@
 <!ENTITY cellAlignMiddle.label "Lár">
 <!ENTITY cellAlignBottom.label "Ag bun">
 <!ENTITY cellAlignJustify.label "Comhfhadaithe">
-<!ENTITY cellAlignAtChar.label "Ag Carachtar:">
 <!ENTITY cellInheritColor.label "(Lig le dath an tábla bheith le feiceáil)">
 <!ENTITY cellUseCheckboxHelp.label "Úsáid ticbhoscaí le socrú cad iad na hairíonna a chuirtear i bhfeidhm ar gach cill roghnaithe">
 <!-- Used in both Table and Cell panels  -->

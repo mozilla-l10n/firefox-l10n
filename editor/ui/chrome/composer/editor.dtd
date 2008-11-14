@@ -55,11 +55,3 @@
 
 <!ENTITY formatMenu.label "Formáid">
 <!ENTITY formatMenu.accesskey "o">
-
-<!ENTITY helpMenu.label "Cabhair">
-<!ENTITY aboutCmd.label "Maidir Le">
-<!-- Display Mode Toolbar -->
-
-<!ENTITY editMode.label "Mód Eagarthóireachta:">
-
-<!ENTITY statusText.label "Leathanach luchtaithe">

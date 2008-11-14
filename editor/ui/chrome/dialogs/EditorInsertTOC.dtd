@@ -37,7 +37,6 @@
 
 <!ENTITY Window.title "Clár Ábhair">
 <!ENTITY buildToc.label "Clár ábhair le tógáil ó:">
-<!ENTITY style.label "Stíl:">
 <!ENTITY tag.label "Clib:">
 <!ENTITY class.label "Aicme:">
 <!ENTITY header1.label "Leibhéal 1">
