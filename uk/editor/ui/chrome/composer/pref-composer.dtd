@@ -27,3 +27,6 @@
 <!ENTITY  useCSS.accesskey              "с">
 <!ENTITY  crInPCreatesNewP.label        "Клавіша Enter в абзаці створює новий абзац">
 <!ENTITY  crInPCreatesNewP.accesskey    "К">
+
+<!-- FIXME: localize -->
+<!ENTITY  savingFiles.title             "When Saving or Publishing Pages">
