@@ -46,11 +46,6 @@
 <!ENTITY printCmd.label "اطبع…">
 <!ENTITY printCmd.key "ط">
 <!ENTITY printCmd.accesskey "ط">
-<!ENTITY quitApplicationCmdWin.label "اخرج">
-<!ENTITY quitApplicationCmdWin.accesskey "خ">
-<!ENTITY quitApplicationCmd.label "أغلق">
-<!ENTITY quitApplicationCmd.accesskey "غ">
-<!ENTITY quitApplicationCmd.key "غ">
 <!-- Edit Menu -->
 
 <!ENTITY editMenu.label "تحرير">

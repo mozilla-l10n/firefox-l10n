@@ -35,11 +35,6 @@
 <!ENTITY printAddressBook.label "اطبع دفتر العناوين...">
 <!ENTITY printAddressBook.accesskey "د">
 
-<!ENTITY quitApplicationCmdWin.label "اخرج">
-<!ENTITY quitApplicationCmdWin.accesskey "خ">
-<!ENTITY quitApplicationCmd.label "أغلق">
-<!ENTITY quitApplicationCmd.accesskey "غ">
-<!ENTITY quitApplicationCmd.key "ل">
 <!-- Edit Menu -->
 
 <!ENTITY editMenu.label "تحرير">
