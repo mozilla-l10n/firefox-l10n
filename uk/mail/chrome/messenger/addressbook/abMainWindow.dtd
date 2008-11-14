@@ -61,11 +61,9 @@
 <!ENTITY pasteCmd.key                                   "V">
 <!ENTITY pasteCmd.accesskey                             "с">
 <!ENTITY deleteCmd.label                                "Вилучити">
-<!ENTITY deleteCmd.key                                  "D">
 <!ENTITY deleteCmd.accesskey                            "В">
 <!ENTITY deleteAbCmd.label                              "Вилучити адресну книгу">
 <!ENTITY deleteCardCmd.label                            "Вилучити картку">
-<!ENTITY deleteCardsCmd.label                           "Вилучити вибрані картки">
 <!ENTITY selectAllCmd.label                             "Виділити все">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
@@ -117,21 +115,11 @@
 <!ENTITY exportCmd.label                                "Експорт…">
 <!ENTITY exportCmd.accesskey                            "Е">
 <!ENTITY preferencesCmd.label                           "Налаштування…">
-<!ENTITY preferencesCmd.key                             "O">
 <!ENTITY preferencesCmd.accesskey                       "Н">
 <!ENTITY preferencesCmdUnix.label                       "Налаштування">
 <!ENTITY preferencesCmdUnix.accesskey                   "Н"> 
 
 <!-- Help Menu -->
-<!ENTITY helpMenu.label                                 "Довідка">
-<!ENTITY helpMenu.accesskey                             "Д">
-<!ENTITY releaseCmd.label                               "Зауваження до релізу">
-<!ENTITY releaseCmd.accesskey                           "З">
-<!ENTITY hintsAndTips.label                             "Довідка &brandShortName;">
-<!ENTITY hintsAndTips.accesskey                         "Д">
-<!ENTITY hintsAndTipsMac.commandkey                     "?">
-<!ENTITY aboutCmd.label                                 "Про &brandShortName;">
-<!ENTITY aboutCmd.accesskey                             "о">
 
 <!-- Address Book Toolbar and Context Menus -->  
 <!ENTITY newcardButton.label                            "Створити картку">
@@ -201,16 +189,6 @@
 <!ENTITY _PhoneticName.accesskey                        "в">
 
 <!-- Results pane context menu -->
-<!ENTITY composeEmail.label                             "Відіслати повідомлення">
-<!ENTITY composeEmail.accesskey                         "м">
-<!ENTITY deleteAddrBookCard.label                       "Вилучити">
-<!ENTITY deleteAddrBookCard.accesskey                   "ч">
-<!ENTITY newAddrBookCard.label                          "Картку…">
-<!ENTITY newAddrBookCard.accesskey                      "к">
-<!ENTITY newAddrBookMailingList.label                   "Список розсилки…">
-<!ENTITY newAddrBookMailingList.accesskey               "п">
-<!ENTITY addrBookCardProperties.label                   "Властивості">
-<!ENTITY addrBookCardProperties.accesskey               "л">
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
@@ -235,3 +213,11 @@
 <!ENTITY minimizeWindow.label "Згорнути вікно">
 <!ENTITY bringAllToFront.label "Помістити все на передній план">
 <!ENTITY zoomWindow.label "Розвернути вікно">
+
+<!-- FIXME: localize -->
+<!ENTITY deleteCardsCmd2.label                          "Delete Cards">
+<!ENTITY deleteItemsCmd.label                           "Delete Items">
+<!ENTITY deleteListCmd.label                            "Delete List">
+<!ENTITY deleteListsCmd.label                           "Delete Lists">
+<!ENTITY osxAddressBook.accesskey                       "O">
+<!ENTITY osxAddressBook.label                           "Use Mac OS X Address Book">
