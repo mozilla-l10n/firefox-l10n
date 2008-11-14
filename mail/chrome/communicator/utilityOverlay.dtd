@@ -25,7 +25,6 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY deleteCmd.label "Verwijderen">
-<!ENTITY deleteCmd.key "d">
 <!ENTITY deleteCmd.accesskey "V">
 <!ENTITY selectAllCmd.label "Alles selecteren">
 <!ENTITY selectAllCmd.key "A">
@@ -35,9 +34,6 @@
 <!ENTITY preferencesCmdUnix.label "Voorkeuren">
 <!ENTITY preferencesCmdUnix.accesskey "V">
 
-<!ENTITY findTypeTextCmd.label "Tekst zoeken tijdens het typen">
-<!ENTITY findTypeTextCmd.accesskey "z">
-
 <!ENTITY viewMenu.label "Beeld">
 <!ENTITY viewMenu.accesskey "L">
 <!ENTITY viewToolbarsMenu.label "Werkbalken">
@@ -45,18 +41,8 @@
 <!ENTITY showTaskbarCmd.label "Statusbalk">
 <!ENTITY showTaskbarCmd.accesskey "S">
 
-<!ENTITY direct.label "Online (proxy: geen)">
-<!ENTITY direct.accesskey "n">
-<!ENTITY manual.label "Online (proxy: handmatig)">
-<!ENTITY manual.accesskey "h">
-<!ENTITY pac.label "Online (proxy: auto)">
-<!ENTITY pac.accesskey "a">
-
 <!ENTITY proxy.label "Proxyconfiguratie…">
 <!ENTITY proxy.accesskey "P">
-
-<!ENTITY findTypeTextCmd.key "/">
-<!ENTITY findTypeLinksCmd.key "'">
 
 <!ENTITY closeCmd.label "Sluiten">
 <!ENTITY closeCmd.key "W">

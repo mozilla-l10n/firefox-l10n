@@ -75,7 +75,6 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "l">
 <!ENTITY deleteCmd.label "Verwijderen">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "V">
 <!ENTITY selectAllCmd.label "Alles selecteren">
 <!ENTITY selectAllCmd.key "A">
@@ -98,7 +97,6 @@
 <!ENTITY viewToolbarsMenuNew.label "Werkbalken">
 <!ENTITY viewToolbarsMenuNew.accesskey "W">
 <!ENTITY showCompositionToolbarCmd.label "Compositiewerkbalk">
-<!ENTITY showCompositionToolbarCmd.accesskey "C">
 <!ENTITY showFormattingBarCmd.label "Opmaakwerkbalk">
 <!ENTITY showFormattingBarCmd.accesskey "O">
 <!ENTITY showTaskbarCmd.label "Statusbalk">
@@ -173,7 +171,6 @@
 <!ENTITY accountManagerCmd.accesskey "c">
 <!ENTITY accountManagerCmdUnix.accesskey "i">
 <!ENTITY preferencesCmd.label "Opties…">
-<!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Voorkeuren">
 <!ENTITY preferencesCmdUnix.accesskey "V">
@@ -221,9 +218,6 @@
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
-<!ENTITY formatToolbar.boldChar "V">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "O">
 <!ENTITY SmileButton.tooltip "Een smiley invoegen">
 <!ENTITY smiley1Cmd.label "Glimlach">
 <!ENTITY smiley2Cmd.label "Frons">

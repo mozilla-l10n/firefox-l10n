@@ -3,9 +3,6 @@
 <!ENTITY securityMenu.label "Beveiliging">
 <!ENTITY securityMenu.accesskey "v">
 
-<!ENTITY menu_securityEncryptIfPossible.label "Versleutelen indien mogelijk">
-<!ENTITY menu_securityEncryptIfPossible.accesskey "m">
-
 <!ENTITY menu_securityEncryptRequire.label "Bericht versleutelen">
 <!ENTITY menu_securityEncryptRequire.accesskey "v">
 

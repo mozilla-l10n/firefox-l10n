@@ -43,12 +43,3 @@
 <!ENTITY antiVirus.intro      "&brandShortName; kan het antivirussoftware makkelijk maken om inkomende e-mailberichten op virussen te controleren voordat ze lokaal worden opgeslagen.">
 <!ENTITY antiVirus.label      "Antivirusprogramma’s toestaan om individuele inkomende berichten in quarantaine te plaatsen">
 <!ENTITY antiVirus.accesskey  "u">
-
-<!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
-<!ENTITY antiVirusCaption.label "Antivirus">
-<!ENTITY paswords.label         "Wachtwoorden">
-<!ENTITY emailScams.label       "E-mailscams">
-<!ENTITY junkMail.label         "Ongewenste berichten">
-<!ENTITY itemIntrusions.label   "Ongeautoriseerde toegang">
-<!ENTITY itemIntrusionsAndPasswords.label  "Ongeautoriseerde toegang &amp; wachtwoorden">
-<!ENTITY itemJunkMail.label     "Ongewenste berichten">

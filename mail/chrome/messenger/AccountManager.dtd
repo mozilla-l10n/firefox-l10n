@@ -6,12 +6,8 @@
 <!ENTITY addAccountButton.accesskey "t">
 <!ENTITY setDefaultButton.label "Instellen als standaard">
 <!ENTITY setDefaultButton.accesskey "I">
-<!ENTITY duplicateButton.label "Duplicaat">
 <!ENTITY removeButton.label "Account verwijderen">
 <!ENTITY removeButton.accesskey "v">
-
-<!ENTITY nameCol.label "Naam">
-<!ENTITY duplicate.label "Duplicaat">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account

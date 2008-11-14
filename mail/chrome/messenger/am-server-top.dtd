@@ -2,13 +2,6 @@
 
 <!ENTITY securitySettings.label "Beveiligingsinstellingen">
 <!ENTITY serverSettings.label "Serverinstellingen">
-<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
-<!ENTITY popServer.label "POP-mailserver">
-<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
-<!ENTITY imapServer.label "IMAP-mailserver">
-<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
-<!ENTITY newsServer.label "Nieuwsserver (NNTP)">
-<!ENTITY webmail.label "Webmail-account">
 <!ENTITY serverType.label "Servertype:">
 <!ENTITY serverName.label "Servernaam:">
 <!ENTITY serverName.accesskey "S">
@@ -50,10 +43,7 @@
 <!ENTITY deleteOnServer2.accesskey "w">
 <!ENTITY downloadOnBiff.label "Nieuwe berichten automatisch downloaden">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY hostname.label "Server-hostnaam">
 <!ENTITY username.label "Uw inlognaam">
-<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
-<!ENTITY popServerTitle.label "POP-serverinformatie">
 <!ENTITY deleteMessagePrefix.label "Als ik een bericht verwijder:">
 <!ENTITY modelMoveToTrash.label "Het naar deze map verplaatsen:">
 <!ENTITY modelMoveToTrash.accesskey "m">

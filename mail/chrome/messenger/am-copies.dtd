@@ -6,13 +6,9 @@
 <!ENTITY fccMailFolder.accesskey "k">
 <!ENTITY fccReplyFollowsParent.label "Antwoorden plaatsen in de map van het bericht waarop wordt geantwoord">
 <!ENTITY fccReplyFollowsParent.accesskey "l">
-<!ENTITY chooseFolderButton.label "Map kiezen…">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Bcc naar deze e-mailadressen:">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY specialFolderTitle.label "Speciale mappen">
-<!ENTITY draftMailFolder.label "Berichtconcepten bewaren in:">
-<!ENTITY templateMailFolder.label "Berichtsjablonen bewaren in:">
 <!ENTITY saveMessageDlg.label "Bevestiging weergeven als berichten zijn opgeslagen">
 <!ENTITY saveMessageDlg.accesskey "w">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

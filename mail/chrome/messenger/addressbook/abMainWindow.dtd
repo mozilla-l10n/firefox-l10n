@@ -60,7 +60,6 @@
 <!ENTITY pasteCmd.key                                   "V">
 <!ENTITY pasteCmd.accesskey                             "P">
 <!ENTITY deleteCmd.label                                "Verwijderen">
-<!ENTITY deleteCmd.key                                  "D">
 <!ENTITY deleteCmd.accesskey                            "V">
 <!ENTITY deleteAbCmd.label                              "Adresboek verwijderen">
 <!ENTITY deleteCardCmd.label                            "Kaart verwijderen">
@@ -118,7 +117,6 @@
 <!ENTITY exportCmd.label                                "Exporteren…">
 <!ENTITY exportCmd.accesskey                            "E">
 <!ENTITY preferencesCmd.label                           "Opties…">
-<!ENTITY preferencesCmd.key                             "O">
 <!ENTITY preferencesCmd.accesskey                       "O">
 <!ENTITY preferencesCmdUnix.label                       "Voorkeuren">
 <!ENTITY preferencesCmdUnix.accesskey                   "V">

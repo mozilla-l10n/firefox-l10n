@@ -1,9 +1,7 @@
 <!ENTITY itemGeneral.label                   "Algemeen">
 <!ENTITY itemAutoComplete.label              "Adressering">
 <!ENTITY itemSpellCheck.label                "Spelling">
-<!ENTITY itemSendFormat.label                "Verzendopmaak">
 
-<!ENTITY forwardReply.label                   "Berichten doorsturen">
 <!ENTITY forwardMsg.label                     "Berichten doorsturen:">
 <!ENTITY forwardMsg.accesskey                 "d">
 <!ENTITY inline.label                         "In het bericht">
@@ -25,7 +23,6 @@
 <!ENTITY restoreHTMLDefaults.label            "Standaardwaarden herstellen">
 <!ENTITY restoreHTMLDefaults.accesskey        "S">
 
-<!ENTITY sendingMessagesHeader.label          "Berichten opstellen">
 <!ENTITY spellCheck.label                     "Spelling controleren voor het verzenden">
 <!ENTITY spellCheck.accesskey                 "c">
 <!ENTITY spellCheckInline.label               "Spelling controleren tijdens het typen">
@@ -51,10 +48,7 @@
 <!ENTITY directoriesNone.label                 "Geen">
 <!ENTITY editDirectories.label                 "Directory’s bewerken…">
 <!ENTITY editDirectories.accesskey             "w">
-<!ENTITY matchText.label                       "Als er een overeenkomst is in uw lokale adresboeken:">
-<!ENTITY skipDirectory.label                   "Niet in de directory zoeken">
 
-<!ENTITY sendOptionsCaption.label              "HTML- en verzendopties">
 <!ENTITY sendOptionsDescription.label          "Tekstopmaakgedrag configureren">
 <!ENTITY sendOptions.label                     "Verzendopties…">
 <!ENTITY sendOptions.accesskey                 "V">

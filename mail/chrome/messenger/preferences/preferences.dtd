@@ -7,7 +7,6 @@
 
 <!ENTITY paneGeneral.title        "Algemeen">
 <!ENTITY paneDisplay.title        "Weergave">
-<!ENTITY paneTags.title           "Labels">
 <!ENTITY paneComposition.title    "Opstellen">
 <!ENTITY paneAttachments.title    "Bijlagen">
 <!ENTITY panePrivacy.title        "Privacy">

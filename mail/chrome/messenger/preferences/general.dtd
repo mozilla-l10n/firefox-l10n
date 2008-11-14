@@ -29,7 +29,6 @@
 <!ENTITY customizeMailAlert.label         "Aanpassen…">
 <!ENTITY customizeMailAlert.accesskey     "A">
 
-<!ENTITY soundNotification1.caption       "Geluid">
 <!ENTITY play.label                       "Afspelen">
 <!ENTITY play.accesskey                   "f">
 <!ENTITY systemsound.label                "Standaard systeemgeluid voor nieuwe e-mail">

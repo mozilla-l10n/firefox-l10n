@@ -46,7 +46,6 @@
 <!ENTITY ListDescription.label          "Beschrijving: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Typ e-mailadressen om deze toe te voegen aan de mailinglijst:">
-<!ENTITY RemoveButton.label             "Verwijderen">
 <!ENTITY UpButton.label                 "Omhoog verplaatsen">
 <!ENTITY DownButton.label               "Omlaag verplaatsen">
 

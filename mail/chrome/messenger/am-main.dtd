@@ -3,7 +3,6 @@
 <!ENTITY accountTitle.label "Accountinstellingen">
 <!ENTITY accountName.label "Accountnaam:">
 <!ENTITY accountName.accesskey "A">
-<!ENTITY accountNameDesc.label "De accountnaam wordt gebruikt om elke account te identificeren">
 <!ENTITY identityTitle.label "Standaardidentiteit">
 <!ENTITY identityDesc.label "Elke account heeft een identiteit. Dit is de informatie die anderen zien als ze uw berichten lezen.">
 <!ENTITY name.label "Uw naam:">

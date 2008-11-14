@@ -19,5 +19,3 @@
 <!ENTITY  chooseFolder.accesskey              "l">
 <!ENTITY  saveToAskMe.label                   "mij vragen waar het bestand moet worden opgeslagen">
 <!ENTITY  saveToAskMe.accesskey               "v">
-<!ENTITY  usePlugin.label                     "Deze plug-in gebruiken:">
-<!ENTITY  usePlugin.accesskey                 "p">
