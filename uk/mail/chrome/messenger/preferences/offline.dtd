@@ -15,3 +15,14 @@
 <!ENTITY radioNotDownload.label "No">
 <!ENTITY radioNotSend.label "No">
 <!ENTITY radioRememberPrevState.label "Remember previous online state">
+
+<!-- FIXME: localize -->
+<!ENTITY radioAlwaysOnline.accesskey "l">
+<!ENTITY radioAskDownload.accesskey "a">
+<!ENTITY radioAskMe.accesskey "u">
+<!ENTITY radioAskUnsent.accesskey "s">
+<!ENTITY radioAutoDownload.accesskey "e">
+<!ENTITY radioAutoSend.accesskey "Y">
+<!ENTITY radioNotDownload.accesskey "o">
+<!ENTITY radioNotSend.accesskey "N">
+<!ENTITY radioRememberPrevState.accesskey "R">
