@@ -51,3 +51,7 @@
 <!ENTITY messagesHeader.label         "Messages"> -->
 <!ENTITY namefield.label              "Показати елементи, що містять:">
 <!ENTITY namefield.accesskey          "е">
+
+<!-- FIXME: localize -->
+<!ENTITY newGroupsTab.accesskey       "N">
+<!ENTITY newGroupsTab.label           "New Groups">
