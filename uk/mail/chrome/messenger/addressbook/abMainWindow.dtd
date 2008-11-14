@@ -36,11 +36,6 @@
 <!ENTITY printAddressBook.label                         "Друк адресної книги…">
 <!ENTITY printAddressBook.accesskey                     "е">
 
-<!ENTITY quitApplicationCmdWin.label                    "Вихід"> 
-<!ENTITY quitApplicationCmdWin.accesskey                "х">
-<!ENTITY quitApplicationCmd.label                       "Вихід"> 
-<!ENTITY quitApplicationCmd.accesskey                   "х">
-<!ENTITY quitApplicationCmd.key "Q">
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Правка">
