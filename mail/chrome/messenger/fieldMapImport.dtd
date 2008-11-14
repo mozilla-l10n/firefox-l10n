@@ -50,3 +50,10 @@
 <!ENTITY fieldMapImport.previous.label "Previous">
 <!ENTITY fieldMapImport.skipFirstRecord.label "First record contains field names">
 <!ENTITY fieldMapImport.up.label "Move Up">
+
+<!-- FIXME: localize -->
+<!ENTITY fieldMapImport.down.accesskey "D">
+<!ENTITY fieldMapImport.next.accesskey "N">
+<!ENTITY fieldMapImport.previous.accesskey "P">
+<!ENTITY fieldMapImport.skipFirstRecord.accessKey "F">
+<!ENTITY fieldMapImport.up.accesskey "U">

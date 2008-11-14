@@ -154,4 +154,9 @@
 <!ENTITY WorkWebPage.accesskey          "e">
 <!ENTITY WorkZipCode.accesskey          "Z">
 <!ENTITY Year.emptytext                 "Year">
+
 <!ENTITY allowRemoteContent.tooltip     "In HTML messages it is possible to
+embed images from remote sources. Opening such a message will open a
+connection to this external source. This may allow tracking of the
+message being read. Checking this box will allow such external embedded
+images in HTML messages from this contact.">
