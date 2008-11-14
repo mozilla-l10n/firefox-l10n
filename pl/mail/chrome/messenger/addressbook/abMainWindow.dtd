@@ -35,12 +35,6 @@
 <!ENTITY printAddressBook.label         "Drukuj książkę adresową…">
 <!ENTITY printAddressBook.accesskey     "a">
 
-<!ENTITY quitApplicationCmdWin.label     "Zakończ">
-<!ENTITY quitApplicationCmdWin.accesskey "k">
-<!ENTITY quitApplicationCmd.label        "Zakończ">
-<!ENTITY quitApplicationCmd.accesskey    "k">
-<!ENTITY quitApplicationCmd.key          "Q">
-
 <!-- Edit Menu -->
 <!ENTITY editMenu.label         "Edycja">
 <!ENTITY editMenu.accesskey     "E">
