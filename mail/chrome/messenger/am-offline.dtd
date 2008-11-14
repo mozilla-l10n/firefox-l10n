@@ -21,6 +21,7 @@
 <!ENTITY nntpRemoveBody.label "Лише повідомлення менше">
 <!ENTITY nntpRemoveBody.accesskey "Л">
 <!ENTITY offlineSelectNntp.label "Виберіть групи новин для роботи в автономному режимі…">
+<!ENTITY offlineSelectNntp.accesskey "В">
 <!ENTITY diskspaceGroupTitle.label "Дисковий простір">
 
 <!-- FIXME: localize -->
@@ -28,5 +29,5 @@
 <!ENTITY allFoldersOffline.label "Keep messages for this account on this computer">
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
 <!ENTITY offlineImapAdvancedOffline.label "Advanced…">
-<!ENTITY offlineSelectNntp.accesskey "S">
+
 <!ENTITY syncGroupTitle.label "Message Synchronizing">

@@ -54,8 +54,6 @@
 <!ENTITY copyLinkCmd.label        "Копіювати посилання">  
 <!ENTITY copyLinkCmd.accesskey		"К">  
 
-
-
 <!-- FIXME: localize -->
 <!ENTITY CopyMessageId.label "Copy Message-ID">
 <!ENTITY OpenBrowserWithMsgId.label "Open Browser With Message-ID">
@@ -64,31 +62,31 @@
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
 <!ENTITY ccField2.label "cc ">
 <!ENTITY bccField2.label "bcc ">
-<!ENTITY dateField2.label "date ">
-<!ENTITY editMessageButton.label "Edit…">
-<!ENTITY editMessageDescription.label "This is a draft message">
+<!ENTITY dateField2.label "дата ">
+<!ENTITY editMessageButton.label "Редагувати…">
+<!ENTITY editMessageDescription.label "Це чернетка">
 <!ENTITY followupToField2.label "followup-to ">
-<!ENTITY forwardButton.label "forward…">
-<!ENTITY fromField2.label "from ">
-<!ENTITY hideDetailsButton.label "hide details">
+<!ENTITY forwardButton.label "переслати…">
+<!ENTITY fromField2.label "від ">
+<!ENTITY hideDetailsButton.label "приховати подробиці">
 <!ENTITY inReplyToField2.label "in-reply-to ">
-<!ENTITY junkButton.label "mark as junk">
+<!ENTITY junkButton.label "позначити як спам">
 <!ENTITY messageIdField2.label "message-id ">
-<!ENTITY newsgroupsField2.label "newsgroups ">
-<!ENTITY organizationField2.label "organization ">
-<!ENTITY originalWebsite2.label "website ">
-<!ENTITY otherActionsButton.label "other actions">
+<!ENTITY newsgroupsField2.label "групи новин ">
+<!ENTITY organizationField2.label "організація ">
+<!ENTITY originalWebsite2.label "сайт ">
+<!ENTITY otherActionsButton.label "інші дії">
 <!ENTITY referencesField2.label "references ">
-<!ENTITY replyButton.label "reply…">
+<!ENTITY replyButton.label "відповісти…">
 <!ENTITY replyToField2.label "reply-to ">
-<!ENTITY saveAsMenuItem.accesskey "S">
-<!ENTITY saveAsMenuItem.label "save as…">
-<!ENTITY senderField2.label "sender ">
-<!ENTITY showDetailsButton.label "show details">
-<!ENTITY subjectField2.label "subject ">
-<!ENTITY tagsHdr2.label "tags ">
-<!ENTITY toField2.label "to ">
-<!ENTITY trashButton.tooltiptext "delete">
+<!ENTITY saveAsMenuItem.accesskey "з">
+<!ENTITY saveAsMenuItem.label "зберегти як…">
+<!ENTITY senderField2.label "відправник ">
+<!ENTITY showDetailsButton.label "показати подробиці">
+<!ENTITY subjectField2.label "тема ">
+<!ENTITY tagsHdr2.label "позначки ">
+<!ENTITY toField2.label "до ">
+<!ENTITY trashButton.tooltiptext "вилучити">
 <!ENTITY userAgentField2.label "user-agent ">
-<!ENTITY viewSourceMenuItem.accesskey "V">
-<!ENTITY viewSourceMenuItem.label "view source…">
+<!ENTITY viewSourceMenuItem.accesskey "д">
+<!ENTITY viewSourceMenuItem.label "глянути джерело…">

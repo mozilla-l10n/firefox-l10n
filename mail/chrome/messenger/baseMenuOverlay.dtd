@@ -1,22 +1,20 @@
-
-<!-- FIXME: localize -->
 <!-- Help Menu -->
-<!ENTITY helpMenu.label "Help">
-<!ENTITY helpMenu.accesskey "H">
+<!ENTITY helpMenu.label "Довідка">
+<!ENTITY helpMenu.accesskey "Д">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label "Help">
-<!ENTITY helpMenuWin.accesskey "H">
-<!ENTITY releaseCmd.label "Release Notes">
-<!ENTITY releaseCmd.accesskey "R">
-<!ENTITY openHelp.label "Help Contents">
-<!ENTITY openHelp.accesskey "H">
+<!ENTITY helpMenuWin.label "Довідка">
+<!ENTITY helpMenuWin.accesskey "Д">
+<!ENTITY releaseCmd.label "Примітки до випуску">
+<!ENTITY releaseCmd.accesskey "П">
+<!ENTITY openHelp.label "Зміст">
+<!ENTITY openHelp.accesskey "З">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "&brandShortName; Help">
+<!ENTITY openHelpMac.label "Довідка &brandShortName;">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY updateCmd.label "Check for Updates…">
-<!ENTITY updateCmd.accesskey "o">
-<!ENTITY aboutCmd.label "About &brandFullName;">
-<!ENTITY aboutCmd.accesskey "A">
+<!ENTITY updateCmd.label "Перевірити наявність оновлень…">
+<!ENTITY updateCmd.accesskey "о">
+<!ENTITY aboutCmd.label "Про &brandFullName;">
+<!ENTITY aboutCmd.accesskey "о">
