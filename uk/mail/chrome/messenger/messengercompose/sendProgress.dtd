@@ -1,10 +1,6 @@
 <!ENTITY sendWindow.title "Наддсилання повідомлень"> 
 
-
-    meter.
-
-    #1 will be replaced by the percentage of the file that has been saved -->
-
+<!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
 
 <!-- FIXME: localize -->
 <!ENTITY progress.label "Progress:">
