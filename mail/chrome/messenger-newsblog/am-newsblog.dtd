@@ -17,4 +17,4 @@
 <!ENTITY rss.accountName            "Блоги і джерела новин">
 <!ENTITY rss.wizardShortName        "RSS">  
 <!ENTITY rss.wizardLongName         "Блоги і RSS-канали">
-<!ENTITY rss.hostName               "News &amp; Blogs">
+<!ENTITY rss.wizardLongName.accesskey "Б">
