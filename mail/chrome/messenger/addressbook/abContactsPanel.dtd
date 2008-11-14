@@ -14,3 +14,14 @@
 
 
 
+
+<!-- FIXME: localize -->
+<!ENTITY addrBookCardProperties.label       "Properties">
+<!ENTITY addressbookPicker.accesskey        "k">
+<!ENTITY bccButton.accesskey                "B">
+<!ENTITY bccButton.label                    "Add to Bcc:">
+<!ENTITY ccButton.accesskey                 "d">
+<!ENTITY bccButton.accesskey                "B">
+<!ENTITY deleteAddrBookCard.label           "Delete">
+<!ENTITY searchInput.accesskey              "o">
+<!ENTITY toButton.accesskey                 "A">
