@@ -8,27 +8,13 @@
 <!ENTITY showCondensedAddresses.label  "Показувати тільки ім’я людей, що знаходяться в моїй адресній книзі">
 <!ENTITY showCondensedAddresses.accesskey "м">
 
-<!-- LOCALIZATION NOTE (markAsRead.label): This will concatenate with
      "xxx seconds before marking a message as read", using a number and
-     (markAsReadEnd.label). -->
-<!ENTITY markAsRead.label              "Чекати">
-<!ENTITY markAsRead.accesskey          "Ч">
-<!ENTITY markAsReadEnd.label           "секунд перед позначенням повідомлення як прочитаного">
-<!ENTITY markAsReadEnd.accesskey       "з">
 <!ENTITY showFolderColumns.label       "Показувати додаткові колонки у вікні дерева тек">
 <!ENTITY showFolderColumns.accesskey   "к">
-<!ENTITY rememberLastMsg.label         "Запам’ятовувати останнє вибране повідомлення">
-<!ENTITY rememberLastMsg.accesskey     "З">
-<!ENTITY reuseExp.label                "Відкривати нові повідомлення у:">
 <!ENTITY reuseExpRadio0.label          "новому вікні">
 <!ENTITY reuseExpRadio0.accesskey      "н">
 <!ENTITY reuseExpRadio1.label          "вже існуючому вікні">
 <!ENTITY reuseExpRadio1.accesskey      "у">
-<!ENTITY reuseExpRadio2.label          "новій вкладці">
-<!ENTITY reuseExpRadio2.accesskey      "в">
-<!ENTITY connectionTimeout.label       "Час очікування з’єднання:">
-<!ENTITY connectionTimeout.accesskey   "о">
-<!ENTITY connectionSeconds.label       "секунд">
 <!ENTITY configEditDesc.label          "Додаткові налаштування">
 <!ENTITY configEdit.label              "Редактор налаштувань">
 <!ENTITY configEdit.accesskey          "Р">
@@ -54,9 +40,6 @@
 <!ENTITY showUpdates.accesskey          "о">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showConnections.label         "З’єднання…">
-<!ENTITY showConnections.accesskey     "є">																						
-<!ENTITY proxiesInfo.label             "Визначіть, яким чином &brandShortName; з’єднується з Інтернетом.">
 <!ENTITY connectionsInfo.caption       "З’єднання">
 <!ENTITY offlineInfo.caption           "Автономний режим">
 <!ENTITY offlineInfo.label             "Налаштуйте параметри автономного режиму">
@@ -69,12 +52,39 @@
 <!ENTITY kb.label "КБ">
 
 <!-- Certificates -->
-<!ENTITY certificatesInfo.label         "Управління сертифікатами, списками відкликання, перевіркою сертифікатів та пристроями захисту.">
 <!ENTITY viewCertificates.label         "Перегляд сертифікатів">
 <!ENTITY viewCertificates.accesskey     "с">
 <!ENTITY viewCRLs.label                 "Списки відкликання">
 <!ENTITY viewCRLs.accesskey             "в">
-<!ENTITY viewOCSP.label                 "Перевірка">
-<!ENTITY viewOCSP.accesskey             "П">
 <!ENTITY viewSecurityDevices.label      "Пристрої захисту">
 <!ENTITY viewSecurityDevices.accesskey  "з">
+
+<!-- FIXME: localize -->
+<!ENTITY autoMarkAsRead.accesskey      "A">
+<!ENTITY autoMarkAsRead.label          "Automatically mark messages as read">
+<!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY clearCacheNow.label             "Clear Now">
+<!ENTITY display.caption                "Display">
+<!ENTITY itemDisplay.label       "Reading &amp; Display">
+<!ENTITY markAsReadDelay.accesskey     "e">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "After displaying for">
+<!ENTITY markAsReadNoDelay.accesskey   "d">
+<!ENTITY markAsReadNoDelay.label       "Immediately on display">
+<!ENTITY openMsgIn.label               "Open messages in:">
+<!ENTITY proxiesConfigure.label        "Configure how &brandShortName; connects to the Internet">
+<!ENTITY reading.caption                "Reading">
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY secondsLabel.label            "seconds">
+<!ENTITY showSettings.accesskey        "n">
+<!ENTITY showSettings.label            "Settings…">
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+<!ENTITY useCacheAfter.label             "MB of space for the cache">
+<!ENTITY useCacheBefore.accesskey        "U">
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+<!ENTITY useCacheBefore.label            "Use up to">
+<!ENTITY validation.accesskey           "d">
+<!ENTITY validation.label               "Validation">

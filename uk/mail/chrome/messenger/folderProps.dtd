@@ -53,12 +53,9 @@
 <!ENTITY retention.label "Налаштування збереження повідомлень">
 <!ENTITY retentionUseDefault.label  "Використовувати параметри сервера за умовчанням">
 <!ENTITY retentionUseDefault.accesskey "ч">
-<!ENTITY days.label "днів">
 <!ENTITY daysOld.label "днів">
 <!ENTITY message.label "повідомлень">
 <!ENTITY retentionCleanup.label "Для вивільнення місця на диску старі повідомлення можуть бути вилучені ">
-<!ENTITY retentionKeepMsg.label "Вилучати повідомлення старші">
-<!ENTITY retentionKeepMsg.accesskey "е">
 <!ENTITY retentionKeepAll.label "Не вилучати повідомлення">
 <!ENTITY retentionKeepAll.accesskey "Н">
 <!ENTITY retentionKeepNew.label "Вилучати всі, окрім останніх">
@@ -77,16 +74,13 @@
 
 <!ENTITY selectofflineNewsgroup.check.label      "Вибрати цю конференцію для автономної роботи">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "а">
-<!ENTITY UseDefaultofflineNewsgroup.check.label  "Використовувати конференції за умовчанням з параметрів облікового запису">
 <!ENTITY offlineNewsgroup.button.label           "Завантажити">
 <!ENTITY offlineNewsgroup.button.accesskey       "З">
 
-<!ENTITY folderProps.information.label           "Інформація:">
 <!ENTITY folderProps.name.label                  "Назва:">
 <!ENTITY folderProps.name.accesskey              "а">
 
 <!ENTITY folderSharingTab.label                  "Сумісне використання">
-<!ENTITY privilegesDesc.label                    "Використання цієї і інших тек спільно з іншими користувачами мережі, відображення і установка привілеїв доступу.">
 <!ENTITY privileges.button.label                 "Привілеї…">
 <!ENTITY privileges.button.accesskey             "П">
 <!ENTITY permissionsDesc.label                   "У вас є наступні права:">
@@ -96,3 +90,9 @@
 <!ENTITY folderQuotaRoot.label                   "Квота:">
 <!ENTITY folderQuotaUsage.label                  "Використано:">
 <!ENTITY folderQuotaStatus.label                 "Стан:">
+
+<!-- FIXME: localize -->
+<!ENTITY folderProps.location.accesskey          "L">
+<!ENTITY folderProps.location.label              "Location:">
+<!ENTITY retentionDeleteMsg.accesskey "m">
+<!ENTITY retentionDeleteMsg.label "Delete messages more than">

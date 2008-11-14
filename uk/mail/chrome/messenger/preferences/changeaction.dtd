@@ -19,5 +19,3 @@
 <!ENTITY  chooseFolder.accesskey              "О">
 <!ENTITY  saveToAskMe.label                   "питати мене куди зберігати файл">
 <!ENTITY  saveToAskMe.accesskey               "у">
-<!ENTITY  usePlugin.label                     "Використовувати наступний модуль:">
-<!ENTITY  usePlugin.accesskey                 "м">

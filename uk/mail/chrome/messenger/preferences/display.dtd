@@ -1,8 +1,6 @@
 <!ENTITY itemFormatting.label             "Форматування">
 <!ENTITY itemTags.label                   "Позначки">
-<!ENTITY itemFonts.label                  "Шрифти">
 
-<!ENTITY textBegin.label                  "Вид цитати в листі текстового формату">
 <!ENTITY style.label                      "Стиль:">
 <!ENTITY style.accesskey                  "С">
 <!ENTITY regularStyle.label               "Звичайний">
@@ -19,12 +17,10 @@
 <!ENTITY displayWidth.label               "Повідомлення в текстовому форматі">
 <!ENTITY plainText.label				          "Шрифт для повідомлень в текстовому форматі:">
 <!ENTITY displayText.label				        "Використовувати наступні параметри відображення цитат в повідомленнях текстового формату:">
-<!ENTITY viewingPlainText.label			      "При перегляді повідомлень в текстовому форматі:">
 <!ENTITY fixedWidth.label                 "Моноширний">
 <!ENTITY fixedWidth.accesskey             "М">
 <!ENTITY variableWidth.label              "Пропорційний">
 <!ENTITY variableWidth.accesskey          "П">
-<!ENTITY readingMessagesHeader.label      "Для вхідних повідомлень">
 <!ENTITY colors.label                     "Кольори">
 <!ENTITY overrideColors.label             "Використовувати наступні кольори при відображенні повідомлень:">
 <!ENTITY  textColor.label                 "Колір тексту:">

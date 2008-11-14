@@ -1,9 +1,7 @@
 <!ENTITY itemGeneral.label                   "Основні">
 <!ENTITY itemAutoComplete.label              "Автодоповнення">
 <!ENTITY itemSpellCheck.label                "Орфографія">
-<!ENTITY itemSendFormat.label                "Формат вихідних повідомлень">
 
-<!ENTITY forwardReply.label                   "Пересилання повідомлень">
 <!ENTITY forwardMsg.label                     "Пересилати повідомлення:">
 <!ENTITY forwardMsg.accesskey                 "П">
 <!ENTITY inline.label                         "Усередині повідомлення">
@@ -23,7 +21,6 @@
 <!ENTITY restoreHTMLDefaults.label            "Відновити типові значення">
 <!ENTITY restoreHTMLDefaults.accesskey        "В">
 
-<!ENTITY sendingMessagesHeader.label          "Створення повідомлень">
 <!ENTITY spellCheck.label                     "Перевіряти орфографію перед відсиланням повідомлення">
 <!ENTITY spellCheck.accesskey                 "і">
 <!ENTITY spellCheckInline.label               "Перевіряти орфографію при наборі тексту">
@@ -32,18 +29,11 @@
 <!ENTITY languagePopup.accessKey              "М">
 <!ENTITY downloadDictionaries.label           "Завантажити додаткові словники">
 
-<!ENTITY useMIME.label                        "Для повідомлень, що містять 8-бітові символи, використовувати MIME-кодування «quoted printable» (не відзначайте опцію, щоб лист надсилався без кодування)">
-<!ENTITY useMIME.accesskey                    "Д">
 <!ENTITY warnOnSendAccelKey.label             "Запитувати підтвердження при використанні клавіатурних скорочень для надсилання повідомлень">
 <!ENTITY warnOnSendAccelKey.accesskey         "З">
 <!ENTITY autoSave.label                       "Автоматично зберігати повідомлення кожні">
 <!ENTITY autoSave.accesskey                   "А">
 <!ENTITY autoSaveEnd.label                    "хвилин">
-<!ENTITY autoSaveEnd.accesskey                "х">
-<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
-<!ENTITY wrapOutMsg.label                     "Довжина рядка в текстових повідомленнях:">
-<!ENTITY wrapOutMsg.accesskey                 "ж">
-<!ENTITY char.label                           "символів">
 
 <!ENTITY emailCollectionPicker.label           "Автоматично додавати адреси з вихідних листів в:">
 <!ENTITY emailCollectionPicker.accesskey       "А">
@@ -55,11 +45,13 @@
 <!ENTITY directories.accesskey                 "С">
 <!ENTITY editDirectories.label                 "Змінити каталоги…">
 <!ENTITY editDirectories.accesskey             "З">
-<!ENTITY matchText.label                       "Якщо є збіг в локальних адресних книгах:">
-<!ENTITY skipDirectory.label                   "Не шукати в каталозі">
 
-<!ENTITY sendOptionsCaption.label              "Параметри надсилання і HTML">
 <!ENTITY sendOptionsDescription.label          "Текстовий формат:">
 <!ENTITY sendOptions.label                     "Параметри надсилання…">
 <!ENTITY sendOptions.accesskey                 "П">
 
+
+<!-- FIXME: localize -->
+<!ENTITY addExtension.accesskey               "f">
+<!ENTITY addExtension.label                   "add extension to file name">
+<!ENTITY directoriesNone.label                 "None">

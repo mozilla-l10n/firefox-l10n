@@ -68,13 +68,3 @@
 <!ENTITY sortDescending.accesskey              "м">
 
 <!-- context menu -->
-<!ENTITY composeEmail.label                    "Створити повідомлення">
-<!ENTITY composeEmail.accesskey                "С">
-<!ENTITY deleteAddrBookCard.label              "Вилучити">
-<!ENTITY deleteAddrBookCard.accesskey          "В">
-<!ENTITY newAddrBookCard.label                 "Створити картку…">
-<!ENTITY newAddrBookCard.accesskey             "к">
-<!ENTITY newAddrBookMailingList.label          "Створити список розсилки…">
-<!ENTITY newAddrBookMailingList.accesskey      "с">
-<!ENTITY addrBookCardProperties.label          "Властивості">
-<!ENTITY addrBookCardProperties.accesskey      "с">

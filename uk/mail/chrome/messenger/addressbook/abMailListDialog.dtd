@@ -46,7 +46,6 @@
 <!ENTITY ListDescription.label          "Опис:">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Введіть імена або перетягніть адреси в список розсилки внизу:">
-<!ENTITY RemoveButton.label             "Вилучити">
 <!ENTITY UpButton.label                 "Вгору">
 <!ENTITY DownButton.label               "Вниз">
 

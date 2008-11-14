@@ -1,8 +1,6 @@
 
 <!ENTITY migrationWizard.title          "Майстер імпорту">
 
-<!ENTITY importFrom.label               "Імпортувати налаштування, параметри облікового запису, адресну книгу і інші дані з:">
-<!ENTITY importFromUnix.label           "Імпортувати налаштування, параметри облікового запису, адресну книгу і інші дані з:">
 
 <!ENTITY importFromNothing.label        "Не імпортувати нічого">
 <!ENTITY importFromNothing.accesskey    "н">
@@ -29,3 +27,7 @@
 
 <!ENTITY done.title                     "Імпорт завершений">
 <!ENTITY done.label                     "Наступні об’єкти були успішно імпортовані:">
+
+<!-- FIXME: localize -->
+<!ENTITY importFromNonWin.label         "Import Preferences, Account Settings, Address Book, Filters, and other data from:">
+<!ENTITY importFromWin.label            "Import Options, Account Settings, Address Book, Filters and other data from:">

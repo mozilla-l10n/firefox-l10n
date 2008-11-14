@@ -29,7 +29,6 @@
 <!ENTITY customizeMailAlert.label         "Налаштувати…">
 <!ENTITY customizeMailAlert.accesskey     "л">
 
-<!ENTITY soundNotification1.caption       "Звук">
 <!ENTITY play.label                       "Програти">
 <!ENTITY play.accesskey                   "П">
 <!ENTITY systemsound.label                "Стандартний системний звук для нової пошти">
@@ -40,3 +39,10 @@
 <!ENTITY customsound.accesskey            "В">
 <!ENTITY browse.label                     "Огляд…">
 <!ENTITY browse.accesskey                 "О">
+
+<!-- FIXME: localize -->
+<!ENTITY addonsMgr.label                  "Add-ons">
+<!ENTITY manageAddons.accesskey           "M">
+<!ENTITY manageAddons.label               "Manage Add-ons…">
+<!ENTITY manageAddonsDescUnix2.label      "Change preferences for your add-ons">
+<!ENTITY manageAddonsDescWin.label        "Change options for your add-ons">
