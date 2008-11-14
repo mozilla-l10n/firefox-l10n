@@ -79,9 +79,6 @@
 <!ENTITY sendPageCmd.accesskey "v">
 <!ENTITY printSetupCmd.label "Pagina-instellingen…">
 <!ENTITY printSetupCmd.accesskey "i">
-<!ENTITY printPreviewCmd.label "Afdrukvoorbeeld">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printButtonCmd.label "Afdrukken…">
 <!ENTITY printCmd.label "Afdrukken…">
 <!ENTITY printCmd.accesskey "d">
 <!ENTITY printCmd.key "p">
@@ -99,29 +96,8 @@
 <!ENTITY pasteAs.accesskey "P">
 <!ENTITY publishSettings.label "Publicatiewebsite-instellingen…">
 <!ENTITY publishSettings.accesskey "b">
-
-<!-- For a "Paste" submenu when more than 1 
-     clipboard formats are available -->
-<!ENTITY pasteHTMLCmd.label "HTML">
-<!ENTITY pasteHTMLCmd.accesskey "H">
-<!ENTITY pasteTextCmd.label "Tekst">
-<!ENTITY pasteTextCmd.accesskey "T">
-<!ENTITY pasteImageCmd.label "Afbeelding">
-<!ENTITY pasteImageCmd.accesskey "A">
-<!ENTITY pasteRowsCmd.label "Rijen">
-<!ENTITY pasteRowsCmd.accesskey "R">
-<!ENTITY pasteColumnsCmd.label "Kolommen">
-<!ENTITY pasteColumnsCmd.accesskey "K">
-<!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
-     Set to: "Table" or "Nested Table" depending on context 
-     This accesskey must be in both strings -->
-<!ENTITY pasteTableCmd.accesskey "a">
-<!ENTITY pasteLinkCmd.label "Koppeling">
-<!ENTITY pasteLinkCmd.accesskey "l">
 <!ENTITY pasteAsQuotationCmd.label "Plakken als citaat">
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
-<!ENTITY editStripQuotesCmd.label "Quoteringstekens verwijderen">
-<!ENTITY editRewrapCmd.label "Opnieuw uitlijnen">
 <!ENTITY findCmd.label "Zoeken en vervangen…">
 <!ENTITY findCmd.accesskey "Z">
 <!ENTITY findCmd.key "f">
@@ -141,13 +117,6 @@
 <!ENTITY checkSpellingCmd.key "k">
 <!ENTITY validateCmd.label "HTML valideren">
 <!ENTITY validateCmd.accesskey "M">
-<!ENTITY checkLinksCmd.label "Koppelingen controleren">
-
-<!-- View menu items -->
-<!ENTITY viewPageSource.label "Paginabron">
-<!ENTITY viewPageSource.accesskey "P">
-<!ENTITY viewParagraphMarks.label "Alineamarkering">
-<!ENTITY viewParagraphMarks.accesskey "A">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Invoegen">
@@ -159,41 +128,16 @@
 <!ENTITY insertAnchorCmd.accesskey "n">
 <!ENTITY insertImageCmd.label "Afbeelding…">
 <!ENTITY insertImageCmd.accesskey "A">
-<!ENTITY insertImageMapCmd.label "Afbeeldingsmap…">
 <!ENTITY insertHLineCmd.label "Horizontale lijn">
 <!ENTITY insertHLineCmd.accesskey "o">
 <!ENTITY insertTableCmd.label "Tabel…">
 <!ENTITY insertTableCmd.accesskey "T">
-<!ENTITY insertFormMenu.label "Formulier">
-<!ENTITY insertFormMenu.accesskey "F">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertCharsCmd.label "Tekens en symbolen…">
 <!ENTITY insertCharsCmd.accesskey "s">
-<!ENTITY insertBreakCmd.label "Regelafbreking">
-<!ENTITY insertBreakCmd.accesskey "b">
 <!ENTITY insertBreakAllCmd.label "Afbreken na afbeelding(en)">
 <!ENTITY insertBreakAllCmd.accesskey "e">
-
-<!-- Insert form menu items -->
-<!ENTITY insertFormCmd.label "Formulier definiëren…">
-<!ENTITY insertFormCmd.accesskey "d">
-<!ENTITY insertInputTagCmd.label "Formulierveld…">
-<!ENTITY insertInputTagCmd.accesskey "v">
-<!ENTITY insertInputImageCmd.label "Formulierafbeelding…">
-<!ENTITY insertInputImageCmd.accesskey "a">
-<!ENTITY insertTextAreaCmd.label "Tekstgebied…">
-<!ENTITY insertTextAreaCmd.accesskey "T">
-<!ENTITY insertSelectCmd.label "Selectielijst…">
-<!ENTITY insertSelectCmd.accesskey "S">
-<!ENTITY insertButtonCmd.label "Knop definiëren…">
-<!ENTITY insertButtonCmd.accesskey "K">
-<!ENTITY insertLabelCmd.label "Label definiëren">
-<!ENTITY insertLabelCmd.accesskey "L">
-<!ENTITY insertFieldSetCmd.label "Veldverzameling definiëren…">
-<!ENTITY insertFieldSetCmd.accesskey "e">
-<!ENTITY insertIsIndexCmd.label "Index-zoekopdracht">
-<!ENTITY insertIsIndexCmd.accesskey "x">
 
 <!-- Used just in context popup. -->
 <!ENTITY spellCheckNoSuggestions.label "(Geen suggesties gevonden)">
@@ -238,8 +182,6 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
-<!ENTITY localfontfaceMenu.label "Lokale lettertypen">
-<!ENTITY localfontfaceMenu.accesskey "t">
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Tekengrootte kiezen">
@@ -361,18 +303,6 @@
 <!ENTITY advancedPropertiesCmd.label "Geavanceerde opties">
 <!ENTITY advancedPropertiesCmd.accesskey "a">
 
-<!ENTITY NormalAbbr.label "Tekst">
-<!ENTITY ParagraphAbbr.label "A">
-<!ENTITY Heading1Abbr.label "H1">
-<!ENTITY Heading2Abbr.label "H2">
-<!ENTITY Heading3Abbr.label "H3">
-<!ENTITY Heading4Abbr.label "H4">
-<!ENTITY Heading5Abbr.label "H5">
-<!ENTITY Heading6Abbr.label "H6">
-<!ENTITY BlockquoteAbbr.label "BC">
-<!ENTITY AddressAbbr.label "Adr.">
-<!ENTITY PreformatAbbr.label "Pre.">
-
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Uitlijnen">
 <!ENTITY alignMenu.accesskey "U">
@@ -412,6 +342,7 @@
 <!-- Table Menu -->
 <!ENTITY tableMenu.label "Tabel">
 <!ENTITY tableMenu.accesskey "T">
+
 <!-- Select Submenu -->
 <!ENTITY tableSelectMenu.label "Selecteren">
 <!ENTITY tableSelectMenu.accesskey "S">
@@ -457,8 +388,6 @@
 <!ENTITY tableDeleteMenu.label "Verwijderen">
 <!ENTITY tableDeleteMenu.accesskey "V">
 
-<!ENTITY tableFix.label "Tabellay-out herstellen">
-<!ENTITY tableFix.accesskey "h">
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
@@ -500,7 +429,6 @@
 <!ENTITY linkToolbarCmd.tooltip "Nieuwe koppeling invoegen of eigenschappen van geselecteerde koppeling aanpassen">
 <!ENTITY anchorToolbarCmd.label "Anker">
 <!ENTITY anchorToolbarCmd.tooltip "Nieuwe ankerverwijzing invoegen of eigenschappen van geselecteerde ankerverwijzing aanpassen">
-<!ENTITY textColorCaption.label "Tekstkleur">
 <!ENTITY TextColorButton.tooltip "Tekstkleur kiezen">
 <!ENTITY BackgroundColorButton.tooltip "Achtergrondkleur kiezen">
 <!ENTITY throbber.tooltip "Ga naar de homepage van &vendorShortName;">
@@ -522,17 +450,6 @@
 <!ENTITY alignCenterButton.tooltip "Tekst uitlijnen in het midden">
 <!ENTITY alignRightButton.tooltip "Tekst uitlijnen langs de rechtermarge">
 <!ENTITY alignjustifyButton.tooltip "Tekst uitlijnen langs de linker- en rechtermarge">
-
-<!-- Formatting toolbar not used, but may be in future -->
-<!ENTITY formatToolbar.boldChar "V">
-<!ENTITY formatToolbar.italicChar "C">
-<!ENTITY formatToolbar.underlineChar "O">
-
-<!-- Used with color pickers in Format toolbar and Format Menu -->
-<!ENTITY colorPicker.default.label "Standaardkleuren van de lezer">
-<!ENTITY colorPicker.default.accesskey "S">
-<!ENTITY colorLabel.label "Kleur:">
-<!ENTITY ok.label "OK">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normaal">

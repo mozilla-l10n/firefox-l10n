@@ -82,7 +82,6 @@
 
 <!ENTITY zoominCmd.label "Inzoomen">
 <!ENTITY zoomoutCmd.label "Uitzoomen">
-<!ENTITY delSpotCmd.label "Punt verwijderen">
 
 <!-- Keys -->
 <!ENTITY clear.key "d">

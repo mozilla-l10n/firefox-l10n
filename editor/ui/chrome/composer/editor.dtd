@@ -44,23 +44,14 @@
 
 <!-- View menu items -->
 <!ENTITY viewMenu.label "Beeld">
-<!ENTITY viewMenu.accesskey "L">
+<!ENTITY viewMenu.accesskey "l">
 <!ENTITY compositionToolbarCmd.label "Compositiewerkbalk">
 <!ENTITY compositionToolbarCmd.accesskey "C">
 <!ENTITY formattingToolbarCmd.label "Opmaakwerkbalk">
 <!ENTITY formattingToolbarCmd.accesskey "O">
 <!ENTITY editmodeToolbarCmd.label "Bewerkingswerkbalk">
-<!ENTITY editmodeToolbarCmd.accesskey "A">
+<!ENTITY editmodeToolbarCmd.accesskey "a">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Opmaak">
-<!ENTITY formatMenu.accesskey "M">
-
-<!ENTITY helpMenu.label "Help">
-<!ENTITY aboutCmd.label ".Over">
-
-<!-- Display Mode Toolbar -->
-<!ENTITY editMode.label "Bewerkingsmodus:">
-
-<!ENTITY statusText.label "Klaar met laden van de pagina">
-
+<!ENTITY formatMenu.accesskey "m">

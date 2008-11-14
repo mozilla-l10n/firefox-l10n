@@ -37,7 +37,6 @@
 
 <!ENTITY Window.title        "Inhoudsopgave">
 <!ENTITY buildToc.label      "Inhoudsopgave maken van:">
-<!ENTITY style.label         "Stijl:">
 <!ENTITY tag.label           "Code:">
 <!ENTITY class.label         "Klasse:">
 <!ENTITY header1.label       "Niveau 1">

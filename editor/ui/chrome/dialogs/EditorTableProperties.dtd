@@ -69,7 +69,6 @@
 <!ENTITY tableCaptionNone.label           "Geen">
 <!ENTITY tableInheritColor.label          "(Paginakleur laten doorschijnen)">
 
-<!ENTITY cellPercent.label                "procent van de tabel">
 <!ENTITY cellSelection.label              "Selectie">
 <!ENTITY cellSelectCell.label             "Cel">
 <!ENTITY cellSelectRow.label              "Rij">
@@ -78,11 +77,7 @@
 <!ENTITY cellSelectNext.accessKey         "V">
 <!ENTITY cellSelectPrevious.label         "Vorige">
 <!ENTITY cellSelectPrevious.accessKey     "o">
-<!ENTITY cellApplyBeforeMove.label        "Wijzigingen toepassen voor het wijzigen van de selectie">
-<!ENTITY cellKeepCurrentData.label        "Huidige instellingen behouden">
 <!ENTITY applyBeforeChange.label          "Huidige wijzigingen zullen worden toegepast voor het wijzigen van de selectie.">
-<!ENTITY cellRowSpan.label                "Rijbreedte:">
-<!ENTITY cellColSpan.label                "Kolombreedte:">
 <!ENTITY cellContentAlignment.label       "Inhoud uitlijnen">
 <!ENTITY cellHorizontal.label             "Horizontaal:">
 <!ENTITY cellHorizontal.accessKey         "z">
@@ -100,7 +95,6 @@
 <!ENTITY cellAlignMiddle.label            "Midden">
 <!ENTITY cellAlignBottom.label            "Onder">
 <!ENTITY cellAlignJustify.label           "Uitvullen">
-<!ENTITY cellAlignAtChar.label            "Op teken:">
 <!ENTITY cellInheritColor.label           "(Tabelkleur laten doorschijnen)">
 <!ENTITY cellUseCheckboxHelp.label        "Gebruik de selectievakjes om te bepalen welke eigenschappen worden toegepast op alle geselecteerde cellen">
 

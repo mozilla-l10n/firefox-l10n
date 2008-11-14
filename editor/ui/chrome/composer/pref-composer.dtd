@@ -4,20 +4,9 @@
 
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
 <!ENTITY  pref.composer.title           "Composer">
-
-<!ENTITY  saving                        "Opslaan">
-<!ENTITY  AutoSaveCheck                 "Automatisch opslaan elke">
-<!ENTITY  minText                       "minuten">
-
-<!ENTITY  exterLegend.label             "Externe editors">
-<!ENTITY  htmlSource                    "HTML-bron:">
-<!ENTITY  imageeditor                   "Afbeeldingen:">
-<!ENTITY  chooseButton.label            "Kiezen">
-
 <!ENTITY  recentFiles.title             "Menu recente pagina’s">
 <!ENTITY  documentsInMenu.label         "Maximumaantal getoonde pagina’s:">
 <!ENTITY  documentsInMenu.accesskey     "n">
-
 <!ENTITY  savingFiles.title             "Bij het opslaan of publiceren van pagina’s">
 <!ENTITY  preserveExisting.label        "Originele bronopmaak behouden">
 <!ENTITY  preserveExisting.accesskey    "b">
@@ -26,10 +15,7 @@
 <!ENTITY  saveAssociatedFiles.accesskey "A">
 <!ENTITY  showPublishDialog.label       "Altijd publiceerdialoog tonen bij het publiceren van pagina’s">
 <!ENTITY  showPublishDialog.accesskey   "d">
-
 <!ENTITY  composerEditing.label         "Bewerken">
-<!ENTITY  spellCheckInline.label        "Spelling controleren tijdens het typen">
-<!ENTITY  spellCheckInline.accesskey    "S">
 <!ENTITY  maintainStructure.label       "Tabellay-out behouden bij het invoegen of verwijderen van cellen">
 <!ENTITY  maintainStructure.tooltip     "Behoudt de rechthoekige vorm van de tabel door automatisch cellen bij te voegen na het verwijderen of invoegen van cellen">
 <!ENTITY  maintainStructure.accesskey   "T">
