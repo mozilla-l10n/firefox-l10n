@@ -69,7 +69,6 @@
 <!ENTITY tableCaptionNone.label           "Немає">
 <!ENTITY tableInheritColor.label           "(Буде видний фон сторінки)">
 
-<!ENTITY cellPercent.label                "відсотків від таблиці">
 <!ENTITY cellSelection.label              "Виділення">
 <!ENTITY cellSelectCell.label             "Кітинок">
 <!ENTITY cellSelectRow.label              "Строки">
@@ -78,11 +77,7 @@
 <!ENTITY cellSelectNext.accessKey         "Н">
 <!ENTITY cellSelectPrevious.label         "Попередньої">
 <!ENTITY cellSelectPrevious.accessKey     "П">
-<!ENTITY cellApplyBeforeMove.label        "Застосувати зміни перед перетворенням виділення">
-<!ENTITY cellKeepCurrentData.label        "Зберегти поточні параметри">
 <!ENTITY applyBeforeChange.label          "Поточні зміни будуть застосовані перед перетворенням виділення.">
-<!ENTITY cellRowSpan.label                "Об’єднання рядків:">
-<!ENTITY cellColSpan.label                "Об’єднання стовпців:">
 <!ENTITY cellContentAlignment.label       "Вирівнювання вмісту">
 <!ENTITY cellHorizontal.label             "Горизонтальне:">
 <!ENTITY cellHorizontal.accessKey         "Г">
@@ -100,7 +95,6 @@
 <!ENTITY cellAlignMiddle.label            "Посередині">
 <!ENTITY cellAlignBottom.label            "Внизу">
 <!ENTITY cellAlignJustify.label           "Щодо інших об’єктів">
-<!ENTITY cellAlignAtChar.label            "По символу:">
 <!ENTITY cellInheritColor.label           "(Буде видний фон таблиці)">
 <!ENTITY cellUseCheckboxHelp.label        "Встановіть прапорці, щоб визначити, які властивості будуть застосовані до всіх вибраних осередків">
 

@@ -72,10 +72,8 @@
 <!ENTITY filename.accesskey       "Ф">
 <!ENTITY filename.tooltip         "Введіть ім’я цього файлу, включаючи '.html' для веб-сторінки">
 <!ENTITY filenameExample.label    "напр., «mypage.html»">
-<!ENTITY relatedDocs.label        "Інші файли для публікації">
 <!ENTITY setDefaultButton.label   "Встановити за замовчанням">
 <!ENTITY setDefaultButton.accesskey "ч">
-<!ENTITY setDefSiteAndDir.label   "Встановити як сайт і теку за замовчуванням">
 <!ENTITY removeButton.label       "Стерти сайт">
 <!ENTITY removeButton.accesskey   "С">
 

@@ -80,12 +80,9 @@
 <!ENTITY sendPageCmd.accesskey "c">
 <!ENTITY printSetupCmd.label "Параметри сторінки…">
 <!ENTITY printSetupCmd.accesskey "а">
-<!ENTITY printPreviewCmd.label "Попередній перегляд">
-<!ENTITY printPreviewCmd.accesskey "д">
 <!ENTITY printCmd.label "Друк…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "P">
-<!ENTITY printButtonCmd.label "Друк…">
 <!ENTITY closeCmd.label "Закрити">
 <!ENTITY closeCmd.accesskey "З">
 <!ENTITY closeCmd.key "W">
@@ -103,26 +100,12 @@
 
 <!-- For a "Paste" submenu when more than 1 
      clipboard formats are available -->
-<!ENTITY pasteHTMLCmd.label "HTML">
-<!ENTITY pasteHTMLCmd.accesskey "H">
-<!ENTITY pasteTextCmd.label "Текст">
-<!ENTITY pasteTextCmd.accesskey "Т">
 
-<!ENTITY pasteImageCmd.label "Зображення">
-<!ENTITY pasteImageCmd.accesskey "З">
-<!ENTITY pasteRowsCmd.label "Рядки">
-<!ENTITY pasteRowsCmd.accesskey "Р">
-<!ENTITY pasteColumnsCmd.label "Стовпці">
-<!ENTITY pasteColumnsCmd.accesskey "о">
 <!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
      Set to: "Table" or "Nested Table" depending on context 
      This accesskey must be in both strings -->
-<!ENTITY pasteLinkCmd.label "Посилання">
-<!ENTITY pasteLinkCmd.accesskey "и">
 <!ENTITY pasteAsQuotationCmd.label "Вставити як цитату">
 <!ENTITY pasteAsQuotationCmd.accesskey "ц">
-<!ENTITY editStripQuotesCmd.label "Прибрати лапки">
-<!ENTITY editRewrapCmd.label "Переформатувати">
 <!ENTITY findCmd.label "Знайти і замінити…">
 <!ENTITY findCmd.accesskey "з">
 <!ENTITY findCmd.key "F">
@@ -149,13 +132,8 @@
 
 <!ENTITY validateCmd.label "Перевірити HTML">
 <!ENTITY validateCmd.accesskey "П">
-<!ENTITY checkLinksCmd.label "Перевірка посилань">
 
 <!-- View menu items -->
-<!ENTITY viewPageSource.label "Початковий код сторінки">
-<!ENTITY viewPageSource.accesskey "к">
-<!ENTITY viewParagraphMarks.label "Мітки абзацу">
-<!ENTITY viewParagraphMarks.accesskey "М">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Вкласти">
@@ -167,41 +145,18 @@
 <!ENTITY insertAnchorCmd.accesskey "Я">
 <!ENTITY insertImageCmd.label "Зображення…">
 <!ENTITY insertImageCmd.accesskey "З">
-<!ENTITY insertImageMapCmd.label "Карта зображення…">
 <!ENTITY insertHLineCmd.label "Роздільник">
 <!ENTITY insertHLineCmd.accesskey "Р">
 <!ENTITY insertTableCmd.label "Таблицю…">
 <!ENTITY insertTableCmd.accesskey "Т">
-<!ENTITY insertFormMenu.label "Форма">
-<!ENTITY insertFormMenu.accesskey "Ф">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertCharsCmd.label "Літери і символи…">
 <!ENTITY insertCharsCmd.accesskey "Л">
-<!ENTITY insertBreakCmd.label "Розрив рядка">
-<!ENTITY insertBreakCmd.accesskey "а">
 <!ENTITY insertBreakAllCmd.label "Розрив під зображеннями">
 <!ENTITY insertBreakAllCmd.accesskey "з">
 
 <!-- Insert form menu items -->
-<!ENTITY insertFormCmd.label "Визначити форму…">
-<!ENTITY insertFormCmd.accesskey "О">
-<!ENTITY insertInputTagCmd.label "Поле форми…">
-<!ENTITY insertInputTagCmd.accesskey "е">
-<!ENTITY insertInputImageCmd.label "Зображення форми…">
-<!ENTITY insertInputImageCmd.accesskey "и">
-<!ENTITY insertTextAreaCmd.label "Текстове поле…">
-<!ENTITY insertTextAreaCmd.accesskey "Т">
-<!ENTITY insertSelectCmd.label "Список вибору…">
-<!ENTITY insertSelectCmd.accesskey "С">
-<!ENTITY insertButtonCmd.label "Визначити кнопку…">
-<!ENTITY insertButtonCmd.accesskey "о">
-<!ENTITY insertLabelCmd.label "Визначити мітку">
-<!ENTITY insertLabelCmd.accesskey "м">
-<!ENTITY insertFieldSetCmd.label "Визначити набір полів…">
-<!ENTITY insertFieldSetCmd.accesskey "н">
-<!ENTITY insertIsIndexCmd.label "Пошук по індексу">
-<!ENTITY insertIsIndexCmd.accesskey "П">
 
 <!-- Used just in context popup. -->
 <!ENTITY spellCheckNoSuggestions.label "(Припущення відсутні)">
@@ -247,8 +202,6 @@
 <!ENTITY fontCourier.accesskey "C">
 <!ENTITY fontHelvetica.label "Helvetica, Arial">
 <!ENTITY fontHelvetica.accesskey "l">
-<!ENTITY localfontfaceMenu.label "Локальні шрифти">
-<!ENTITY localfontfaceMenu.accesskey "Л">
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Вибір розміру шрифту">
@@ -370,17 +323,6 @@
 <!ENTITY advancedPropertiesCmd.label "Додаткові властивості">
 <!ENTITY advancedPropertiesCmd.accesskey "л">
 
-<!ENTITY NormalAbbr.label "Текст">
-<!ENTITY ParagraphAbbr.label "P">  
-<!ENTITY Heading1Abbr.label "H1">
-<!ENTITY Heading2Abbr.label "H2">
-<!ENTITY Heading3Abbr.label "H3">
-<!ENTITY Heading4Abbr.label "H4">
-<!ENTITY Heading5Abbr.label "H5">
-<!ENTITY Heading6Abbr.label "H6">
-<!ENTITY BlockquoteAbbr.label "BQ">
-<!ENTITY AddressAbbr.label "Addr">
-<!ENTITY PreformatAbbr.label "Pre">
 
 <!-- Style Sheet submenu NOT IMPLEMENTED -->
 
@@ -468,8 +410,6 @@
 <!ENTITY tableDeleteMenu.label "Вилучити">
 <!ENTITY tableDeleteMenu.accesskey "ч">
 
-<!ENTITY tableFix.label "Зафіксувати розташування таблиці">
-<!ENTITY tableFix.accesskey "З">
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
@@ -515,7 +455,6 @@
 <!ENTITY linkToolbarCmd.tooltip "Вставити нове посилання або змінити властивості виділеного">
 <!ENTITY anchorToolbarCmd.label "Якір">
 <!ENTITY anchorToolbarCmd.tooltip "Вставити новий якір або змінити властивості виділеного">
-<!ENTITY textColorCaption.label "Колір тексту">
 <!ENTITY TextColorButton.tooltip "Вибір кольору для тексту">
 <!ENTITY BackgroundColorButton.tooltip "Вибір фонового кольору">
 <!ENTITY throbber.tooltip "Перейти на домашню сторінку &vendorShortName;">
@@ -539,15 +478,8 @@
 <!ENTITY alignjustifyButton.tooltip "Вирівнювання тексту по ширині">
 
 <!-- Formatting toolbar not used, but may be in future -->
-<!ENTITY formatToolbar.boldChar "Ж">
-<!ENTITY formatToolbar.italicChar "К">
-<!ENTITY formatToolbar.underlineChar "Ч">
 
 <!-- Used with color pickers in Format toolbar and Format Menu -->
-<!ENTITY colorPicker.default.label "Кольори користувача за умовчанням">
-<!ENTITY colorPicker.default.accesskey "к">
-<!ENTITY colorLabel.label "Колір:">
-<!ENTITY ok.label "OK">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Звичайний">
@@ -596,4 +528,3 @@
 <!-- FIXME: localize -->
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveStyles.key "Y">
-<!ENTITY pasteTableCmd.accesskey "a">

@@ -41,7 +41,6 @@
 <!ENTITY windowTitle.label "Властивості зображення">
 
 <!ENTITY pixelsPopup.value "пікселів">
-<!ENTITY percentPopup.value "відсотків">
 
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Адреса зображення:">
@@ -57,7 +56,6 @@
 <!ENTITY noAltText.accessKey "Н">
 
 <!ENTITY previewBox.label "Попередній перегляд зображення">
-<!ENTITY MoreFewerButton.tooltip "Показати більше або менше властивостей для зміни">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
@@ -93,7 +91,6 @@
 
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "Поля">
-<!ENTITY spacingBox.tooltip "Введіть розмір порожніх полів навколо зображення">
 <!ENTITY leftRightEditField.label "Зліва і справа:">
 <!ENTITY leftRightEditField.accessKey "л">
 <!ENTITY topBottomEditField.label "Зверху і знизу:">
@@ -106,10 +103,6 @@
 <!ENTITY showImageLinkBorder.accessKey "м">
 
 <!-- These controls may be added some day; currently not used -->
-<!ENTITY makePageBackgroundCheckbox.label "Зробити фоном сторінки">
-<!ENTITY makePageBackgroundCheckbox.tooltip "Використовувати зображення як фонове для цієї сторінки">
-<!ENTITY editImageButton.label "Редагувати зображення">
-<!ENTITY editImageButton.tooltip "Редагувати зображення в іншій програмі">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Форма">

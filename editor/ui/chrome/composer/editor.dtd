@@ -56,11 +56,7 @@
 <!ENTITY formatMenu.label "Формат">
 <!ENTITY formatMenu.accesskey "о">
 
-<!ENTITY helpMenu.label "Довідка">
-<!ENTITY aboutCmd.label ".Про програму">
 
 <!-- Display Mode Toolbar -->
-<!ENTITY editMode.label "Режим редагування:">
 
-<!ENTITY statusText.label "Завантаження сторінки завершено">
 

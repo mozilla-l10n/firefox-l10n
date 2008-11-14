@@ -43,8 +43,6 @@
 
 <!ENTITY status.label          "Публікація…">
 <!ENTITY fileList.label        "Стан публікації">
-<!ENTITY statusHeader.label    "Стан">
-<!ENTITY filenameHeader.label  "Ім’я файлу">
 <!ENTITY succeeded.label       "Успіх">
 <!ENTITY failed.label          "Невдача">
 

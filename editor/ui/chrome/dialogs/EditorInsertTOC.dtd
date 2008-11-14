@@ -37,7 +37,6 @@
 
 <!ENTITY Window.title        "Зміст">
 <!ENTITY buildToc.label      "Створити зміст на основі:">
-<!ENTITY style.label         "стилю:">
 <!ENTITY tag.label           "тега:">
 <!ENTITY class.label         "класу:">
 <!ENTITY header1.label       "Рівень 1">

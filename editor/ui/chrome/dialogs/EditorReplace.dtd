@@ -58,4 +58,3 @@
 <!ENTITY replaceAllButton.label "Замінити все">
 <!ENTITY replaceAllButton.accesskey "В">
 <!ENTITY closeButton.label "Закрити">
-<!ENTITY notFoundWarning.label "Введений вами текст не знайдено.">
