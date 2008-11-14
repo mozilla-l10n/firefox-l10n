@@ -8,7 +8,6 @@
 <!ENTITY showCondensedAddresses.label  "Показувати тільки ім’я людей, що знаходяться в моїй адресній книзі">
 <!ENTITY showCondensedAddresses.accesskey "м">
 
-     "xxx seconds before marking a message as read", using a number and
 <!ENTITY showFolderColumns.label       "Показувати додаткові колонки у вікні дерева тек">
 <!ENTITY showFolderColumns.accesskey   "к">
 <!ENTITY reuseExpRadio0.label          "новому вікні">
@@ -68,6 +67,7 @@
 <!ENTITY itemDisplay.label       "Reading &amp; Display">
 <!ENTITY markAsReadDelay.accesskey     "e">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
 <!ENTITY markAsReadDelay.label         "After displaying for">
 <!ENTITY markAsReadNoDelay.accesskey   "d">
@@ -75,16 +75,18 @@
 <!ENTITY openMsgIn.label               "Open messages in:">
 <!ENTITY proxiesConfigure.label        "Configure how &brandShortName; connects to the Internet">
 <!ENTITY reading.caption                "Reading">
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+
 <!ENTITY secondsLabel.label            "seconds">
 <!ENTITY showSettings.accesskey        "n">
 <!ENTITY showSettings.label            "Settings…">
+<!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
 <!ENTITY useCacheAfter.label             "MB of space for the cache">
 <!ENTITY useCacheBefore.accesskey        "U">
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 <!ENTITY useCacheBefore.label            "Use up to">
 <!ENTITY validation.accesskey           "d">
 <!ENTITY validation.label               "Validation">
