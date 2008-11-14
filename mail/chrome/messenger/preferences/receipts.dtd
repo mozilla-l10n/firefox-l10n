@@ -1,5 +1,4 @@
 <!ENTITY dialog.title                  "Сповіщення про доставку">
-<!ENTITY receiptSettings.label         "Сповіщення про доставку">
 <!ENTITY requestReceipt.label          "Завжди запрошувати сповіщення при надсиланні повідомлень">
 <!ENTITY requestReceipt.accesskey      "з">
 <!ENTITY receiptArrive.label           "При отриманні сповіщення:">
