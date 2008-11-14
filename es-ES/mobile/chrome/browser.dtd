@@ -11,6 +11,8 @@
 <!ENTITY search.tooltip "Buscar">
 <!ENTITY go.label "Ir">
 <!ENTITY go.tooltip "Ir">
+<!ENTITY openLocation.label "Abrir enlace">
+<!ENTITY openLocation.tooltip "Abrir enlace">
 <!ENTITY star.label "Marcar">
 <!ENTITY star.tooltip "Añadir esta página a marcadores">
 <!ENTITY bookmarks.label "Marcadores">
