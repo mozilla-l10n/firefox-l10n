@@ -48,12 +48,9 @@
 <!ENTITY directorySecure.accesskey         "з">
 <!ENTITY directoryLogin.label              "Ім’я користувача (Bind DN):">
 <!ENTITY directoryLogin.accesskey          "к">
-<!ENTITY advancedOptionsButton.label       "Додаткові опції">
-<!ENTITY advancedOptionsButton.accesskey   "Д">
 <!ENTITY General.tab                       "Основне">
 <!ENTITY Offline.tab                       "Автономно">
 <!ENTITY Advanced.tab                      "Додатково">
-<!ENTITY advancedOptionsTitle.label        "Додаткові опції">
 <!ENTITY portNumber.label                  "Порт:">
 <!ENTITY portNumber.accesskey              "П">
 <!ENTITY searchFilter.label                "Фільтр пошуку:">
