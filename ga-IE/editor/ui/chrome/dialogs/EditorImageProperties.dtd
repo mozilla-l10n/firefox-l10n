@@ -41,7 +41,6 @@
 <!ENTITY windowTitle.label "Airíonna Íomhá">
 
 <!ENTITY pixelsPopup.value "picteilíní">
-<!ENTITY percentPopup.value "céatadán">
 <!-- These are in the Location tab panel -->
 
 <!ENTITY locationEditField.label "Suíomh na hÍomhá:">
@@ -57,7 +56,6 @@
 <!ENTITY noAltText.accessKey "N">
 
 <!ENTITY previewBox.label "Réamhamharc Íomhá">
-<!ENTITY MoreFewerButton.tooltip "Taispeáin níos mó nó níos lú airíonna le cur in eagar">
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 
@@ -93,7 +91,6 @@
 <!-- These controls are in the Spacing Box -->
 
 <!ENTITY spacingBox.label "Spásáil">
-<!ENTITY spacingBox.tooltip "Iontráil uimhir don mhéid spáis timpeall na híomhá">
 <!ENTITY leftRightEditField.label "Deis agus clé:">
 <!ENTITY leftRightEditField.accessKey "L">
 <!ENTITY topBottomEditField.label "Barr agus Bun:">
@@ -104,12 +101,6 @@
 
 <!ENTITY showImageLinkBorder.label "Taispeáin imlíne timpeall na híomhá nasctha">
 <!ENTITY showImageLinkBorder.accessKey "I">
-<!-- These controls may be added some day; currently not used -->
-
-<!ENTITY makePageBackgroundCheckbox.label "Cuir an leathanach mar chúlra">
-<!ENTITY makePageBackgroundCheckbox.tooltip "Úsáid íomhá mar chúlra do leathanaigh">
-<!ENTITY editImageButton.label "Cuir Íomhá in Eagar">
-<!ENTITY editImageButton.tooltip "Cuir an comhad íomhá in eagar le clár eile">
 <!-- These tabs are currently used in the image input dialog -->
 
 <!ENTITY imageInputTab.label "Foirm">

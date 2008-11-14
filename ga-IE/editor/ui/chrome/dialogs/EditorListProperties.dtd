@@ -47,7 +47,6 @@
 <!ENTITY bulletList.value "Liosta (Neamhuimhrithe) le hUrchair">
 <!ENTITY numberList.value "Liosta Uimhrithe">
 <!ENTITY definitionList.value "Liosta Sainmhínithe">
-<!ENTITY changeListMsg.label "Agus cineál an liosta á athrú:">
 <!ENTITY changeEntireListRadio.label "Athraigh an liosta iomlán">
 <!ENTITY changeEntireListRadio.accessKey "A">
 <!ENTITY changeSelectedRadio.label "Ná hathraigh ach na míreanna roghnaithe">

@@ -43,8 +43,6 @@
 
 <!ENTITY status.label "Á fhoilsiú…">
 <!ENTITY fileList.label "Stádas Foilsithe">
-<!ENTITY statusHeader.label "Stádas">
-<!ENTITY filenameHeader.label "Ainm comhaid">
 <!ENTITY succeeded.label "D'éirigh leis">
 <!ENTITY failed.label "Teipthe">
 

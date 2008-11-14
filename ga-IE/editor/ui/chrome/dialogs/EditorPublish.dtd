@@ -36,13 +36,10 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
 
-
 <!ENTITY windowTitle.label "Foilsigh an Leathanach">
 <!ENTITY windowTitleSettings.label "Socruithe Foilsithe">
-
 <!ENTITY publishTab.label "Foilsigh">
 <!ENTITY settingsTab.label "Socruithe">
-
 <!ENTITY publishButton.label "Foilsigh">
 <!-- Publish Tab Panel -->
 
@@ -72,10 +69,8 @@
 <!ENTITY filename.accesskey "A">
 <!ENTITY filename.tooltip 'Iontráil ainm don chomhad seo, le ".html" air más leathanach Gréasáin é'>
 <!ENTITY filenameExample.label "m.sh.: &quot;moleathanach.html&quot;">
-<!ENTITY relatedDocs.label "Comhaid eile le foilsiú">
 <!ENTITY setDefaultButton.label "Socraigh mar Réamhshocrú">
 <!ENTITY setDefaultButton.accesskey "R">
-<!ENTITY setDefSiteAndDir.label "Socraigh mar Shuíomh agus Chomhadlann réamhshocraithe">
 <!ENTITY removeButton.label "Bain Suíomh">
 <!ENTITY removeButton.accesskey "B">
 <!-- Settings Tab Panel -->

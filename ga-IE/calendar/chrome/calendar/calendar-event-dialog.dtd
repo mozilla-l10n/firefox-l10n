@@ -82,8 +82,6 @@
 <!ENTITY event.menu.file.page.setup.accesskey "o">
 <!ENTITY event.menu.file.print.label "Priontáil">
 <!ENTITY event.menu.file.print.accesskey "P">
-<!ENTITY event.menu.file.exit.label "Scoir">
-<!ENTITY event.menu.file.exit.accesskey "s">
 
 <!ENTITY event.menu.edit.label "Eagar">
 <!ENTITY event.menu.edit.accesskey "E">

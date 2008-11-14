@@ -4,20 +4,9 @@
 
 
 <!ENTITY pref.composer.title "Composer">
-
-<!ENTITY saving "Ag sábháil">
-<!ENTITY AutoSaveCheck "Sábháil go huathoibríoch gach">
-<!ENTITY minText "nóiméad">
-
-<!ENTITY exterLegend.label "Eagarthóirí Seachtracha">
-<!ENTITY htmlSource "Foinse HTML:">
-<!ENTITY imageeditor "Íomhánna:">
-<!ENTITY chooseButton.label "Roghnaigh">
-
 <!ENTITY recentFiles.title "Roghchlár na Leathanach Deireanach">
 <!ENTITY documentsInMenu.label "Uasmhéid na leathanach liostáilte:">
 <!ENTITY documentsInMenu.accesskey "n">
-
 <!ENTITY savingFiles.title "Agus leathanaigh á sábháil nó á bhfoilsiú">
 <!ENTITY preserveExisting.label "Coimeád formáidiú na bunfhoinse">
 <!ENTITY preserveExisting.accesskey "C">
@@ -26,10 +15,7 @@
 <!ENTITY saveAssociatedFiles.accesskey "S">
 <!ENTITY showPublishDialog.label "Taispeáin an dialóg fhoilsithe i gcónaí agus leathanaigh á bhfoilsiú">
 <!ENTITY showPublishDialog.accesskey "A">
-
 <!ENTITY composerEditing.label "Eagarthóireacht">
-<!ENTITY spellCheckInline.label "Seiceáil litriú le linn clóscríofa">
-<!ENTITY spellCheckInline.accesskey "C">
 <!ENTITY maintainStructure.label "Coimeád leagan amach an tábla agus cealla á n-ionsá nó á scriosadh">
 <!ENTITY maintainStructure.tooltip "Coimeádann seo cruth dronuilleach an tábla trí cealla a chur leis go huathoibríoch tar éis ionsá nó scriosta cealla.">
 <!ENTITY maintainStructure.accesskey "M">

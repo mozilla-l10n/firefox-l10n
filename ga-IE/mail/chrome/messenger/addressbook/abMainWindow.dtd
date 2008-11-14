@@ -34,12 +34,6 @@
 <!ENTITY printCardViewCmd.key "R">
 <!ENTITY printAddressBook.label "Priontáil Leabhar Seoltaí…">
 <!ENTITY printAddressBook.accesskey "A">
-
-<!ENTITY quitApplicationCmdWin.label "Scoir">
-<!ENTITY quitApplicationCmdWin.accesskey "s">
-<!ENTITY quitApplicationCmd.label "Scoir">
-<!ENTITY quitApplicationCmd.accesskey "S">
-<!ENTITY quitApplicationCmd.key "Q">
 <!-- Edit Menu -->
 
 <!ENTITY editMenu.label "Eagar">

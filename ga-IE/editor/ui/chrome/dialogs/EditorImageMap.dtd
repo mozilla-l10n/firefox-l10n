@@ -82,7 +82,6 @@
 
 <!ENTITY zoominCmd.label "Súmáil Isteach">
 <!ENTITY zoomoutCmd.label "Súmáil Amach">
-<!ENTITY delSpotCmd.label "Scrios Ball">
 <!-- Keys -->
 
 <!ENTITY clear.key "d">
