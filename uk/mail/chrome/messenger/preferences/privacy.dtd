@@ -1,22 +1,14 @@
-<!ENTITY itemGeneral.label       "Основні">
 <!ENTITY itemJunk.label          "Спам">
 <!ENTITY itemPhishing.label      "Анти-фішинг">
 <!ENTITY itemPasswords.label     "Паролі">
 <!ENTITY itemAntiVirus.label     "Робота з антивірусом">
 
-<!ENTITY disableImageInMailNews.label  "Не завантажувати з Інтернету зображення, посилання на які зустрічаються в повідомленнях">
-<!ENTITY disableImageInMailNews.accesskey "ж">
-<!ENTITY allowRemoteImagesForFriends.label  "Завантажувати зображення, якщо відправник знаходиться в:">
-<!ENTITY allowRemoteImagesForFriends.accesskey "З">
-<!ENTITY enbJsCheckMailNews.label      "Заблокувати сценарії JavaScript в повідомленнях">
-<!ENTITY enbJsCheckMailNews.accesskey  "а">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Налаштуйте загальні параметри спам-фільтрів. Специфічні для облікових записів параметри можуть бути змінені в налаштуваннях облікового запису.">
 <!ENTITY manualMark.label "Коли я позначаю повідомлення спамом:">
 <!ENTITY manualMarkModeMove.label "Перемістити їх у теку «Спам»">
 <!ENTITY markAsReadOnSpam.label "Відмітити такі повідомлення прочитаними">
-<!ENTITY markAsReadOnSpam.acesskey "В">
 <!ENTITY manualMarkModeDelete.label "Знищити їх">
 <!ENTITY enableJunkLogging.label "Ввімкнути журнал спам-фільтру">
 <!ENTITY enableJunkLogging.accesskey "ж">
@@ -50,10 +42,9 @@
 <!ENTITY antiVirus.accesskey  "Д">
 
 <!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
-<!ENTITY antiVirusCaption.label "Антивірус">
-<!ENTITY paswords.label         "Паролі">
-<!ENTITY emailScams.label       "Електронне шахрайство">
-<!ENTITY junkMail.label         "Спам">
-<!ENTITY itemIntrusions.label   "Втручання">
-<!ENTITY itemIntrusionsAndPasswords.label  "Втручання та паролі">
-<!ENTITY itemJunkMail.label     "Спам">
+
+<!-- FIXME: localize -->
+<!ENTITY manualMark.accesskey "W">
+<!ENTITY manualMarkModeDelete.accesskey "t">
+<!ENTITY manualMarkModeMove.accesskey "o">
+<!ENTITY markAsReadOnSpam.accesskey "k">
