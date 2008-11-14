@@ -1,13 +1,11 @@
 <!ENTITY restorepage.tabtitle       "Відновити сеанс">
-<!ENTITY restorepage.pagetitle      "Чи ви хочете відновити ваш сеанс?">
+<!ENTITY restorepage.pagetitle      "Чи хочете ви відновити ваш сеанс?">
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "Останній сеанс %S було завершено аварійно. Ми щиро перепрошуємо за незручності. 
-                                     Ви можете відновити вкладки і вікна, відкриті при роботі у попередньому сеансі, або розпочати нову сесію,
-                                     якщо вони більше не потрібні.">
+<!ENTITY restorepage.issueDesc      "Останній сеанс &brandShortName; було завершено аварійно. Ми щиро перепрошуємо за незручності. Ви можете відновити вкладки і вікна, відкриті при роботі у попередньому сеансі. Або розпочати новий, якщо вони більше не потрібні.">
 <!ENTITY restorepage.remedies       "Якщо закриття &brandShortName; повторюються:">
-<!ENTITY restorepage.dueToChrome    "Спробуйте вимкнути недавно встановлені розришення у Менеджері Додатків.">
-<!ENTITY restorepage.dueToContent   "Спробуйте відновити ваш сеанс без сторінок, котрі, схоже, спричинили проблему:">
+<!ENTITY restorepage.dueToChrome    "Спробуйте вимкнути недавно встановлені розширення у Менеджері Додатків.">
+<!ENTITY restorepage.dueToContent   "Спробуйте відновити ваш сеанс без тих сторінок, котрі можуть спричиняти збій:">
 
 <!ENTITY restorepage.restoreButton  "Відновити попередній сеанс">
 <!ENTITY restorepage.restore.access "В">
