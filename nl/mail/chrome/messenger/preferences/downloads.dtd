@@ -3,8 +3,6 @@
 <!ENTITY alwaysAsk.accesskey          "v">
 <!ENTITY neverAsk.label               "Alle bijlagen in deze map opslaan:">
 <!ENTITY neverAsk.accesskey           "s">
-<!ENTITY desktop.label                "Bureaublad">
-<!ENTITY downloads.label              "Mijn downloads">
 <!ENTITY chooseFolderWin.label        "Bladeren…">
 <!ENTITY chooseFolderWin.accesskey    "B">
 <!ENTITY chooseFolderMac.label        "Kiezen…">
@@ -15,10 +13,3 @@
 <!ENTITY configureActions.label       "Acties bekijken &amp; bewerken…">
 <!ENTITY configureActions.accesskey   "w">
 <!ENTITY fileTypesDescription.label   "&brandShortName; kan automatisch bijlagen van bepaalde typen opslaan of openen.">
-
-<!ENTITY fileTypeColName.label        "Bestandstype">
-<!ENTITY fileHandlerColName.label     "Toepassing">
-<!ENTITY editFileHandler.label        "Actie wijzigen…">
-<!ENTITY editFileHandler.accesskey    "g">
-<!ENTITY removeFileHandler.label      "Verwijderen">
-<!ENTITY removeFileHandler.accesskey  "v">

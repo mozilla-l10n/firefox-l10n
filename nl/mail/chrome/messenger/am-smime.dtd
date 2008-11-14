@@ -5,13 +5,11 @@
 <!ENTITY neverEncrypt.label "Nooit (geen versleuteling gebruiken)">
 <!ENTITY alwaysEncryptMessage.label "Vereist (kan bericht niet verzenden, tenzij alle geadresseerden een certificaat hebben)">
 <!ENTITY encryptionCert.message "Dit certificaat gebruiken voor het versleutelen en ontcijferen van naar u verzonden berichten:">
-<!ENTITY encryptionCert.notselected "Geen certificaat ingesteld">
 <!ENTITY certificate.button "Selecteren…">
 <!ENTITY certificate_clear.button "Wissen">
 <!ENTITY signingGroupTitle.label "Digitaal ondertekenen">
 <!ENTITY signMessage.label "Berichten (standaard) digitaal ondertekenen">
 <!ENTITY signingCert.message "Dit certificaat gebruiken om berichten die u verzendt digitaal te ondertekenen:">
-<!ENTITY signingCert.notselected "Geen certificaat ingesteld">
 
 <!ENTITY certificates.label     "Certificaten">
 <!ENTITY managecerts.label      "Certificaten bekijken">
