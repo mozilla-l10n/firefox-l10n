@@ -39,10 +39,6 @@
 <!ENTITY generalSettings.caption          "Definições Gerais">
 <!ENTITY confirmMove.label                "Confirmar ao mover pastas para o Lixo">
 <!ENTITY confirmMove.accesskey            "C">
-<!ENTITY useMessenger.label               "Usar Correio de aplicações baseadas em MAPI">
-<!ENTITY useMessenger.accesskey           "U">
-<!ENTITY autounzip.label                  "Expandir automaticamente ficheiros zip ao guardar os anexos">
-<!ENTITY autounzip.accesskey              "a">
 <!ENTITY preserveThreading.label          "Preservar tópicos ao ordenar as mensagens">
 <!ENTITY preserveThreading.accesskey      "v">
 

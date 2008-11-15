@@ -27,7 +27,6 @@
 <!ENTITY attachMenu.label "Anexar">
 <!ENTITY attachMenu.accesskey "x">
 <!ENTITY attachFileCmd.label "Ficheiro(s)...">
-<!ENTITY attachFileCmd.key "">
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachPageCmd.label "Página Web...">
 <!ENTITY attachPageCmd.accesskey "W">
@@ -45,7 +44,6 @@
 <!ENTITY printCmd.label "Imprimir...">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "I">
-<!ENTITY closeCmd.label "Fechar">
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Rewrap">
@@ -70,32 +68,6 @@
 <!ENTITY showComposeToolbarCmd.accesskey "C">
 <!ENTITY showFormatToolbarCmd.label "Barra de Ferramentas de Formatação">
 <!ENTITY showFormatToolbarCmd.accesskey "F">
-<!ENTITY showParagraphMarksCmd.label ".Mostrar Marcas do parágrafo">
-<!ENTITY pageSourceCmd.label ".Origem da Página">
-<!ENTITY pageSourceCmd.accesskey "g">
-<!ENTITY pageInfoCmd.label ".Info da Página">
-<!ENTITY pageInfoCmd.accesskey "I">
-<!ENTITY dcharMenu.label "Codificação de Caracteres">
-<!ENTITY dcharIso1Cmd.label "Ocidental (ISO-8859-1)">
-<!ENTITY dcharIso2Cmd.label "Centro-Europeu (ISO-8859-2)">
-<!ENTITY dcharIso3Cmd.label "Sul Europeu (ISO-8859-3)">
-<!ENTITY dcharIso4Cmd.label "Báltico (ISO-8859-4)">
-<!ENTITY dcharIso9Cmd.label "Turco (ISO-8859-9)">
-<!ENTITY dcharIso10Cmd.label "Nórdico (ISO-8859-10)">
-<!ENTITY dcharIso14Cmd.label "Celtico (ISO-8859-14)">
-<!ENTITY dcharIso15Cmd.label "Ocidental (ISO-8859-15)">
-<!ENTITY dcharJapanCmd.label "Japonês (ISO-2022-JP)">
-<!ENTITY dcharTradChiBigCmd.label "Chinês Tradicional (Big5)">
-<!ENTITY dcharSimpChiGbCmd.label "Chinês Simplificado (GB2312)">
-<!ENTITY dcharKoreanCmd.label "Coreano (EUC-KR)">
-<!ENTITY dcharUtf8Cmd.label "Unicode (UTF-8)">
-<!ENTITY dcharRusCmd.label "Cirílico (KOI8-R)">
-<!ENTITY dcharUkrCmd.label "Cirílico/Ucraniano (KOI8-U)">
-<!ENTITY dcharIsoGreekCmd.label "Grego (ISO-8859-7)">
-<!ENTITY dcharVietViCmd.label "Vietnamita (VISCII)">
-<!ENTITY dcharThaiCmd.label "Tailandês (TIS-620)">
-<!ENTITY dcharArmCmd.label "Arménio (ARMSCII-8)">
-<!ENTITY dcharDEFAULT.label "Personalizar lista">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formatar">
@@ -104,11 +76,6 @@
 <!-- Options menu items -->
 <!ENTITY optionsMenu.label "Opções">
 <!ENTITY optionsMenu.accesskey "o">
-
-<!ENTITY doNotCompleteAddrCmd.label ".Não Completar Endereço">
-<!ENTITY showMatchingAddrCmd.label ".Mostrar Endereços Parecidos">
-
-<!ENTITY addSignatureCmd.label ".Adicionar Ficheiro de Assinatura">
 
 <!ENTITY quoteCmd.label "Citar Mensagem">
 <!ENTITY quoteCmd.accesskey "Q">
@@ -148,33 +115,13 @@
 <!ENTITY bothFormatCmd.label "Ambos os formatos">
 <!ENTITY bothFormatCmd.accesskey "A">
 
-<!ENTITY UuencodeAttachmentCmd.label "Uuencode em vez de MIME para Anexos">
-
-
 <!ENTITY fileCarbonCopyCmd.label "Enviar Uma Cópia para">
 <!ENTITY fileCarbonCopyCmd.accesskey "v">
 <!ENTITY fileHereMenu.label "O Ficheiro Aqui">
 
-<!--LOCALIZATION NOTE Debug Menu Don't translate anything in the Debug menu section -->
-<!-- Debug Menu, imported from editorAppShell.dtd -->
-<!ENTITY debugMenu.label "Debug">
-<!ENTITY outputTextCmd.label "Formatar Texto">
-<!ENTITY outputHTMLCmd.label "Formatar HTML">
-<!ENTITY insertTextCmd.label "Inserir Texto">
-<!ENTITY testSelectionCmd.label "Testar Selecção">
-<!ENTITY testTableLayoutCmd.label "Testar o Esquema da tabela">
-<!ENTITY testDocumentCmd.label "Testar Documento">
-<!ENTITY showEmbeddedCmd.label "Mostrar Objectos Embutidos">
-<!ENTITY dumpContentCmd.label "Dump Content Tree">
-<!ENTITY runUnitTestsCmd.label "Correr Unidades de Teste">
-<!ENTITY startLogCmd.label "Iniciar Registo">
-<!ENTITY stopLogCmd.label "Parar Registo">
-<!ENTITY runLogCmd.label "Correr Registo">
-
 <!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
 <!-- Toolbar items -->
 <!ENTITY sendButton.label "Enviar agora">
-<!ENTITY quoteButton.label "Citar">
 <!ENTITY addressButton.label "Contactos">
 <!ENTITY attachButton.label "Anexar">
 <!ENTITY spellingButton.label "Ortografia">
@@ -187,17 +134,10 @@
 <!ENTITY formatToolbar.tooltip "Barra de ferramentas de Formatação">
 <!ENTITY sendButton.tooltip "Enviar esta mensagem agora"> 
 <!ENTITY sendlaterButton.tooltip "Enviar esta mensagem mais tarde"> 
-<!ENTITY quoteButton.tooltip "itar a mensagem anterior"> 
 <!ENTITY addressButton.tooltip "Seleccione um destinatário de um dos Livros de Endereços"> 
 <!ENTITY attachButton.tooltip "Incluir um anexo"> 
 <!ENTITY saveButton.tooltip "Guardar esta mensagem"> 
 <!ENTITY stopButton.tooltip "Parar a transferência actual"> 
-
-<!-- Toolbar items, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
 
 <!-- context menu items -->
 <!ENTITY spellCheckNoSuggestions.label "Sem sugestões">

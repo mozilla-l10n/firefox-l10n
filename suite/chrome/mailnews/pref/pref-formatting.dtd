@@ -37,7 +37,6 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY pref.formatting.title        "Formato de envio">
-<!ENTITY sendMail.label               "Formato de envio">
 <!ENTITY sendMaildesc.label           "Ao enviar mensagens formatadas (HTML) e um ou mais destinatários não estão indicados como habilitados a receber HTML:">
 <!ENTITY askMe.label                  "Perguntar-me o que fazer (O correio pede para escolher o formato)">
 <!ENTITY askMe.accesskey              "g">
@@ -48,7 +47,6 @@
 <!ENTITY sendBoth.label               "Enviar a mensagem tanto em texto simples como em HTML (maior tamanho da mensagem)">
 <!ENTITY sendBoth.accesskey           "n">
 <!ENTITY override.label               "Pode ultrapassar estas definições para mensagens individuais, usando o menu Opções ao criar a mensagem.">
-<!ENTITY receiveHTML.label            "Se souber que um detrminado destinatário consegue receber correio HTML,des-seleccione a caixa 'Enviar mensagem como texto simples (sem HTML)' no cartão do livro de endereços do destinatário.">
 
 <!-- Html and Plain Text Domains  -->
 <!ENTITY domain.title                 "Domínios HTML e Texto">

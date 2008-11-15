@@ -5,7 +5,6 @@
 <!ENTITY offlineNotDownload.label "Mensagens maiores que ">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY kb.label "KB">
-<!ENTITY days.label "dias">
 <!ENTITY daysOld.label "dias de idade">
 <!ENTITY message.label "mensagens">
 <!ENTITY nntpNotDownloadRead.label "Ler mensagens">

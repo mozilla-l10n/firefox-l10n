@@ -8,7 +8,6 @@
 <!ENTITY alwaysEncryptMessage.label "Requerido (impossível enviar mensagens a menos que os receptores tenham um certificado)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "Usar este Certificado para cifrar/decifrar mensagens enviadas para si:">
-<!ENTITY encryptionCert.notselected "Nenhum certificado preparado">
 <!ENTITY digitalSign.certificate.button "Seleccionar...">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Limpar">
@@ -21,4 +20,3 @@
 <!ENTITY signMessage.label "Assinar mensagens Digitalmente (pré-definição)">
 <!ENTITY signMessage.accesskey "D">
 <!ENTITY signingCert.message "Usar este certificado para assinar digitalmente as mensagens que envia::">
-<!ENTITY signingCert.notselected "Nenhum certificado preparado">

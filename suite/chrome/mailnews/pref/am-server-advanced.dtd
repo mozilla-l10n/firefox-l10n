@@ -1,6 +1,5 @@
 <!ENTITY serverAdvanced.label "Configurações Avançadas da Conta">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY imapAdvanced.label "Configurações Avançadas do servidor IMAP ">
 <!ENTITY serverDirectory.label "Pasta do servidor IMAP:">
 <!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "Mostrar apenas pastas subscritas">
@@ -22,7 +21,6 @@
 <!ENTITY overrideNamespaces.label "Permitir ao servidor ultrapassar estes namespaces">
 <!ENTITY overrideNamespaces.accesskey "a">
 <!ENTITY pop3Desc.label "Quando transferir correio pop deste servidor, usar a pasta seguinte para novo correio:" >
-<!ENTITY folderStorage.label "Onde Guardar Correio">
 <!ENTITY globalInbox.label "Caixa de Entrada Geral (Conta das pastas Locais)">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Caixa de Entrada para esta conta do Servidor">

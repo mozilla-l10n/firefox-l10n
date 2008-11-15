@@ -44,8 +44,6 @@
 <!ENTITY CopyEmailAddress.accesskey        "C">
 <!ENTITY CreateFilterFrom.label            "Criar Filtro De...">
 <!ENTITY CreateFilterFrom.accesskey        "F">
-<!ENTITY BlockAddress.label                "Bloquear Endereço">
-<!ENTITY BlockAddress.accesskey            "B">
 <!ENTITY copyLinkCmd.label                 "Copiar localização da ligação">
 <!ENTITY copyLinkCmd.accesskey             "C">
 <!ENTITY CopyMessageId.label               "Copiar o ID da Mensagem">
