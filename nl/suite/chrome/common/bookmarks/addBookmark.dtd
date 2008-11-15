@@ -45,7 +45,6 @@
 <!ENTITY shortcutURL.label          "Sleutelwoord:">
 <!ENTITY shortcutURL.accesskey      "S">
 <!ENTITY destination.label          "Doel:">
-<!ENTITY destination.accesskey      "D">
 <!ENTITY newFolder.label            "Nieuwe map…">
 <!ENTITY newFolder.accesskey        "w">
 <!ENTITY addGroup.label             "Bladwijzer voor deze groep tabbladen maken">

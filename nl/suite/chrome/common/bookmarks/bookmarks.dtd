@@ -41,17 +41,16 @@
 <!-- extracted from ./bookmarks.xul -->
 <!ENTITY menuBar.tooltip               "Menubalk">
 <!ENTITY bookmarkToolbar.tooltip       "Bladwijzerwerkbalk">
-<!ENTITY bookmarksSearch.tooltip       "Bladwijzerzoekbalk">
 <!ENTITY menuitem.newBookmark.label    "Bladwijzer">
-<!ENTITY command.newBookmark.accesskey "B">
+<!ENTITY menuitem.newBookmark.accesskey "B">
 <!ENTITY menuitem.newFolder.label      "Map">
+<!ENTITY menuitem.newFolder.accesskey  "m">
 <!ENTITY button.newFolder.label        "Nieuwe map">
 <!ENTITY button.newFolder.accesskey    "N">
-<!ENTITY command.newFolder.accesskey   "M">
 <!ENTITY menuitem.newSeparator.label   "Scheidingsteken">
+<!ENTITY menuitem.newSeparator.accesskey "s">
 <!ENTITY button.newSeparator.label     "Nieuw scheidingsteken">
-<!ENTITY button.newSeparator.accesskey  "s">
-<!ENTITY command.newSeparator.accesskey "S">
+<!ENTITY button.newSeparator.accesskey "i">
 <!ENTITY menuitem.open.label           "Bladwijzerbestand openen…">
 <!ENTITY menuitem.open.accesskey       "o">
 <!ENTITY menuitem.import.label         "Importeren…">
@@ -59,25 +58,27 @@
 <!ENTITY menuitem.export.label         "Exporteren…">
 <!ENTITY menuitem.export.accesskey     "E">
 <!ENTITY menuitem.find.label           "Bladwijzers doorzoeken…">
+<!ENTITY menuitem.find.accesskey       "z">
+<!ENTITY menuitem.find.find.key        "F">
 <!ENTITY command.findBookmarks.label   "Zoeken…">
-<!ENTITY menuitem.find.accesskey       "Z">
-<!ENTITY edit.find.keybinding          "f">
-<!ENTITY command.properties.label      "Eigenschappen…">
-<!ENTITY button.properties.accesskey   "E">
-<!ENTITY command.properties.accesskey  "E">
-<!ENTITY edit.properties.keybinding    "i">
-<!ENTITY command.rename.label          "Hernoemen…">
-<!ENTITY button.rename.accesskey       "H">
-<!ENTITY command.delete.label          "Verwijderen">
-<!ENTITY button.delete.accesskey       "d">
-<!ENTITY command.moveBookmark.label    "Bladwijzer(s) verplaatsen…">
-<!ENTITY command.moveBookmarkShort.label "Verplaatsen…">
-<!ENTITY command.moveBookmark.accesskey "r">
+<!ENTITY menuitem.properties.label     "Eigenschappen…">
+<!ENTITY menuitem.properties.accesskey "E">
+<!ENTITY button.properties.label       "Eigenschappen…">
+<!ENTITY button.properties.accesskey   "p">
+<!ENTITY menuitem.properties.key       "i">
+<!ENTITY button.rename.label           "Hernoemen…">
+<!ENTITY button.rename.accesskey       "h">
+<!ENTITY button.delete.label           "Verwijderen">
+<!ENTITY button.delete.accesskey       "v">
+<!ENTITY menuitem.moveBookmark.label   "Bladwijzer(s) verplaatsen…">
+<!ENTITY menuitem.moveBookmark.accesskey "v">
+<!ENTITY button.moveBookmark.label     "Verplaatsen…">
+<!ENTITY button.moveBookmark.accesskey "v">
 <!ENTITY command.addBookmark.label     "Toevoegen…">
 <!ENTITY command.manageBookmarks.label "Beheren">
 <!ENTITY command.sortFolder.label      "Map sorteren…">
 <!ENTITY command.sortFolder.accesskey  "s">
-<!ENTITY edit.sortFolder.keybinding    "S">
+<!ENTITY command.sortFolder.key        "S">
 <!ENTITY command.sortFolderByName.label "Map sorteren op naam">
 <!ENTITY command.sortFolderByName.accesskey "n">
 
@@ -95,25 +96,18 @@
 <!ENTITY menuitem.personaltoolbarfolder.accesskey  "b">
 
 <!ENTITY treecol.name.label             "Naam">
-<!ENTITY treecol.name.accesskey         "N">
 <!ENTITY treecol.name.tooltip           "Klik om te sorteren op naam">
 <!ENTITY treecol.url.label              "Locatie">
-<!ENTITY treecol.url.accesskey          "L">
 <!ENTITY treecol.url.tooltip            "Klik om te sorteren op locatie">
 <!ENTITY treecol.shortcut.label         "Sleutelwoord">
-<!ENTITY treecol.shortcut.accesskey     "S">
 <!ENTITY treecol.shortcut.tooltip       "Klik om te sorteren op sleutelwoord">
 <!ENTITY treecol.description.label      "Beschrijving">
-<!ENTITY treecol.description.accesskey  "B">
 <!ENTITY treecol.description.tooltip    "Klik om te sorteren op beschrijving">
 <!ENTITY treecol.addedon.label          "Toegevoegd">
-<!ENTITY treecol.addedon.accesskey      "T">
 <!ENTITY treecol.addedon.tooltip        "Klik om te sorteren op toegevoegd">
 <!ENTITY treecol.lastmod.label          "Laatste wijziging">
-<!ENTITY treecol.lastmod.accesskey      "w">
 <!ENTITY treecol.lastmod.tooltip        "Klik om te sorteren op laatste wijziging">
 <!ENTITY treecol.lastvisit.label        "Laatst bezocht">
-<!ENTITY treecol.lastvisit.accesskey    "e">
 <!ENTITY treecol.lastvisit.tooltip      "Klik om te sorteren op laatst bezocht">
 
 <!ENTITY bookmarksWindowTitle.label     "Bladwijzerbeheerder">

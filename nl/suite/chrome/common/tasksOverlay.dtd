@@ -7,21 +7,14 @@
 <!ENTITY editorCmd.accesskey         "c">
 <!ENTITY editorCmd.commandkey        "4">
 
-<!ENTITY securityInfoCmd.label       ".Beveiligingsinformatie">
-<!ENTITY securityInfoCmd.accesskey   "b">
 <!ENTITY javaConsoleCmd.label        "Java Console">
 <!ENTITY javaConsoleCmd.accesskey    "j">
 
 <!ENTITY errorConsoleCmd.label       "Foutconsole">
 <!ENTITY errorConsoleCmd.accesskey   "F">
 
-<!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
-<!ENTITY privacyMenu.label            "Privacy &amp; beveiliging">
-<!ENTITY privacyMenu.accesskey        "p">
-
 <!ENTITY taskNavigator.tooltip        "Browser">
 <!ENTITY taskComposer.tooltip         "Composer">
-<!ENTITY taskBar.tooltip              "Statusbalk">
 
 <!ENTITY webDevelopment.label         "Internetontwikkeling">
 <!ENTITY webDevelopment.accesskey     "I">

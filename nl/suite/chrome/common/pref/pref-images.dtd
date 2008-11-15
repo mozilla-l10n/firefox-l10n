@@ -14,7 +14,6 @@
 <!ENTITY accOrgImagesRadio.accesskey    "r">
 <!ENTITY disableImages.label            "Geen afbeeldingen laden">
 <!ENTITY disableImages.accesskey        "n">
-<!ENTITY viewImagesExplanation.label    "Bekijk de lijst met webpagina’s waarvan het accepteren van afbeeldingen is opgeslagen">
 <!ENTITY viewImages.label               "Afbeeldingtoestemmingen beheren">
 <!ENTITY viewImages.accesskey           "P">
 <!ENTITY animLoopingTitle.label         "Geannimeerde afbeeldingen loopen">
