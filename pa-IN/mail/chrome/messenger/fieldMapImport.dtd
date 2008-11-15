@@ -34,20 +34,20 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
- 
-<!ENTITY fieldMapImport.title "ਸਿਰਨਾਵਾਂ ਕਿਤਾਬ ਆਯਾਤ">
-<!ENTITY fieldMapImport.size "ਚੌੜਾਈ: 40em; ਉਚਾਈ: 30em;">
-<!ENTITY fieldMapImport.recordNumber "ਰਿਕਾਰਡ ਲਈ ਡਾਟਾ ਆਯਾਤ: ">
-<!ENTITY fieldMapImport.next "ਅੱਗੇ">
+
+<!ENTITY fieldMapImport.title "Import Address Book">
+<!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
+<!ENTITY fieldMapImport.recordNumber "Imported data for Record: ">
+<!ENTITY fieldMapImport.next.label "Next">
 <!ENTITY fieldMapImport.next.accesskey "N">
-<!ENTITY fieldMapImport.previous "ਪਿੱਛੇ">
+<!ENTITY fieldMapImport.previous.label "Previous">
 <!ENTITY fieldMapImport.previous.accesskey "P">
-<!ENTITY fieldMapImport.text "ਉੱਪਰ ਭੇਜੋ ਅਤੇ ਹੇਠਾਂ  ਭੇਜੋ ਨੂੰ ਸਿਰਨਾਵਾਂ ਕਿਤਾਬ ਖੇਤਰ ਖੱਬੇ ਤੋਂ ਸੱਜੇ ਡਾਟਾ ਭੇਜਣ ਲਈ ਚੁਣੋ। ਨਾ ਚੁਣੇ ਖੇਤਰ ਤੁਸੀਂ ਆਯਾਤ ਨਹੀਂ ਕਰਨੇ ਚਾਹੁੰਦੇ ਹੋ।">
-<!ENTITY fieldMapImport.up "ਉੱਪਰ ਭੇਜੋ">
-<!ENTITY fieldMapImport.up.accesskey "M">
-<!ENTITY fieldMapImport.down "ਹੇਠਾਂ ਭੇਜੋ">
-<!ENTITY fieldMapImport.down.accesskey "o">
-<!ENTITY fieldMapImport.fieldListTitle "ਸਿਰਨਾਵਾਂ ਕਿਤਾਬ ਖੇਤਰ">
-<!ENTITY fieldMapImport.dataTitle "ਰਿਕਾਰਡ ਡਾਟਾ ਆਯਾਤ ਕਰਨ ਲਈ">
-<!ENTITY fieldMapImport.skipFirstRecord "ਪਹਿਲੇ ਰਿਕਾਰਡ 'ਚ ਖੇਤਰ ਨਾਂ ਹੈ">
+<!ENTITY fieldMapImport.text "Use Move Up and Move Down to match the address book fields on the left to the correct data for import on the right. Uncheck items you do not want to import.">
+<!ENTITY fieldMapImport.up.label "Move Up">
+<!ENTITY fieldMapImport.up.accesskey "U">
+<!ENTITY fieldMapImport.down.label "Move Down">
+<!ENTITY fieldMapImport.down.accesskey "D">
+<!ENTITY fieldMapImport.fieldListTitle "Address Book fields">
+<!ENTITY fieldMapImport.dataTitle "Record data to import">
+<!ENTITY fieldMapImport.skipFirstRecord.label "First record contains field names">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "F">

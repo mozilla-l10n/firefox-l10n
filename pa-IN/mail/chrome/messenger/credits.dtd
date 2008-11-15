@@ -1,30 +1,20 @@
-<!ENTITY credit.title     "&brandFullName; ਮਾਣ">
-<!ENTITY brandMotto       "ਥੰਡਰਬਰਡ ਜਾ ਰਿਹਾ ਹੈ!">
-<!ENTITY credit.leads     "ਇੰਜੀਨੀਅਰਗ ਮੋਢੀ">
-<!ENTITY credit.core      "ਕੇਂਦਰੀ ਖੋਜੀ ਟੀਮ">
-<!ENTITY credit.gecko     "Gecko ਖਾਕਾ ਇੰਜਣ">
-<!ENTITY credit.thanks    "ਖਾਸ ਧੰਨਵਾਦ">
+<!ENTITY credit.title     "&brandFullName; Credits">
+<!ENTITY brandMotto       "Thunderbirds Are Go!">
+<!ENTITY credit.leads     "Engineering Leads">
+<!ENTITY credit.thanks    "Special Thanks To">
 
 <!-- localization credits look like this: -->
-
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
 <!ENTITY credit.translation
   "<h3>ਅਨੁਵਾਦ (Translator)</h3><ul><li>ਅਮਨਪਰੀਤ ਸਿੰਘ ਬਰਾੜ ਆਲਮਵਾਲਾ</li>
   <li>Punjabi Open Source R&D Lab</li>
   <li>ਆਪਣੀ ਬੋਲੀ ਆਪਣਾ ਮਾਣ</li></ul>">
 
-<!ENTITY credit.visuals     "ਦਿੱਖ ਡਿਜ਼ਾਈਨ ਮੋਢੀ">
-<!ENTITY credit.theme       "ਸਰੂਪ ਡਿਜ਼ਾਈਨ">
-<!ENTITY credit.brand       "ਮਾਰਕਾ ਪਛਾਣ">
-<!ENTITY credit.web         "ਵੈਬ ਡਿਜ਼ਾਈਨ">
-<!ENTITY credit.update      "ਮੌਜੀਲਾ ਅੱਪਡੇਟ">
-<!ENTITY credit.qalead      "ਗੁਣਵੱਤਾ ਤਸੱਲੀ ਮੋਢੀ">
-<!ENTITY credit.qa          "ਗੁਣਵੱਤਾ ਤਸੱਲੀ">
-<!ENTITY credit.build       "ਨਿਰਮਾਣ ਅਤੇ ਰਿਲੀਜ਼">
-<!ENTITY credit.infra       "ਢਾਂਚਾ ਸਹਿਯੋਗ">
-<!ENTITY credit.support     "ਸਹਾਇਤਾ ਸਰੋਤ">
-<!ENTITY credit.manage      "ਪਰੋਜੈਕਟ ਪਰਬੰਧਨ">
-<!ENTITY credit.marketleads "ਮਾਰਕੀਟ ਮੋਢੀ">
-<!ENTITY credit.market      "ਮਾਰਕੀਟਿੰਗ">
-<!ENTITY credit.creators    "ਬਣਾਇਆ">
-<!ENTITY credit.memory      "ਮੈਮੋਰੀ">
-<!ENTITY credit.poweredByGecko "Gecko&trade; ਰਾਹੀਂ ਸ਼ਕਤੀ ਪਰਾਪਤ">
+<!ENTITY credit.theme          "Theme Design">
+<!ENTITY credit.qa             "Quality Assurance">
+<!ENTITY credit.build          "Build and Release">
+<!ENTITY credit.memory         "In Fond Memory Of">
+<!ENTITY credit.poweredByGecko "Powered by Gecko&trade;">

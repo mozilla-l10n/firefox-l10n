@@ -3,7 +3,7 @@
 <!ENTITY accountTitle.label "ਖਾਤਾ ਵਿਵਸਥਾ">
 <!ENTITY accountName.label "ਖਾਤਾ ਨਾਂ:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY accountNameDesc.label "ਖਾਤਾ ਨਾਂ ਹਰ ਖਾਤੇ ਨੂੰ ਪਛਾਣ ਦੇ ਕੰਮ ਆਉਦਾ ਹੈ">
+
 <!ENTITY identityTitle.label "ਮੂਲ ਪਛਾਣ">
 <!ENTITY identityDesc.label "ਹਰ ਖਾਤੇ ਦੀ ਇੱਕ ਪਛਾਣ ਹੁੰਦੀ ਹੈ, ਜੋ ਕਿ ਜਾਣਕਾਰੀ ਹੈ , ਜਿਸ ਨੂੰ  ਹੋਰ ਲੋਕ ਤੁਹਾਡਾ ਪੱਤਰ ਪੜਨ ਦੌਰਾਨ ਵੇਖ ਸਕਦੇ ਹਨ।">
 <!ENTITY name.label "ਤੁਹਾਡਾ ਨਾਂ:">

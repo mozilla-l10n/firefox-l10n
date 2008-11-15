@@ -19,5 +19,3 @@
 <!ENTITY  chooseFolder.accesskey              "w">
 <!ENTITY  saveToAskMe.label                   "ਫਾਇਲ ਸੰਭਾਲਣ ਸਮੇਂ ਹਰ ਵਾਰ ਮੈਨੂੰ ਪੁੱਛੋ">
 <!ENTITY  saveToAskMe.accesskey               "a">
-<!ENTITY  usePlugin.label                     "ਇਹ ਪਲੱਗਿੰਨ ਵਰਤੋਂ:">
-<!ENTITY  usePlugin.accesskey                 "P">

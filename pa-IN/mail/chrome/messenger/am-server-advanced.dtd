@@ -1,6 +1,6 @@
 <!ENTITY serverAdvanced.label "ਤਕਨੀਕੀ ਖਾਤਾ ਵਿਵਸਥਾ">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY imapAdvanced.label "ਤਕਨੀਕੀ IMAP ਸਰਵਰ ਵਿਵਸਥਾ">
+
 <!ENTITY serverDirectory.label "IMAP ਸਰਵਰ ਡਾਇਰੈਕਟਰੀ:">
 <!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "ਸਵੀਕਾਰ ਫੋਲਡਰ ਹੀ ਵੇਖਾਓ">
@@ -22,7 +22,7 @@
 <!ENTITY overrideNamespaces.label "ਸਰਵਰ ਨੂੰ ਇਹਨਾਂ ਨਾਂ-ਥਾਂ ਨੂੰ ਅਣਡਿੱਠਾ ਕਰਨ ਦਿਓ">
 <!ENTITY overrideNamespaces.accesskey "A">
 <!ENTITY pop3Desc.label "ਇਸ ਸਰਵਰ ਤੋਂ ਜਦੋਂ pop3 ਪੱਤਰ ਡਾਊਨਲੋਡ ਕੀਤੇ ਜਾਣ ਤਾਂ, ਤੁਸੀਂ ਇਸ ਨੂੰ ਵਿਆਪਕ Inbox (ਸਥਾਨਿਕ ਫੋਲਡਰ ਖਾਤੇ ਵਿੱਚ INBOX), ਇਸ ਖਾਤੇ ਲਈ INBOX ਵਿੱਚ, ਹੋਰ POP3 ਖਾਤੇ ਲਈ INBOX ਵਿੱਚ ਵੀ ਸੰਭਾਲ ਸਕਦੇ ਹੋ" >
-<!ENTITY folderStorage.label "ਪੱਤਰ ਕਿੱਥੇ ਸੰਭਾਲਣੇ ਹਨ">
+
 <!ENTITY globalInbox.label "ਵਿਆਪਕ Inbox (ਸਥਾਨਿਕ ਫੋਲਡਰ ਖਾਤਾ)">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "ਇਸ ਸਰਵਰ ਦੇ ਖਾਤੇ ਲਈ Inbox">

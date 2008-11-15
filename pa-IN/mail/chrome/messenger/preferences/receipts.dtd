@@ -1,5 +1,4 @@
 <!ENTITY dialog.title                  "ਪ੍ਰਾਪਤਕਰਤਾ ਵਾਪਸੀ ਰਸੀਦ ">
-<!ENTITY receiptSettings.label         "ਵਾਪਸੀ ਰਸੀਦ">
 <!ENTITY requestReceipt.label          "ਜਦੋਂ ਵੀ ਸੁਨੇਹਾ ਭੇਜਿਆ ਜਾਵੇਂ ਤਾਂ ਹਰ ਸਮੇਂ ਵਾਪਸੀ ਰਸੀਦ ਦੀ ਮੰਗ ਕਰੋ">
 <!ENTITY requestReceipt.accesskey      "W">
 <!ENTITY receiptArrive.label           "ਜਦੋਂ ਇੱਕ ਵਾਪਸੀ ਰਸੀਦ ਦੀ ਆਵੇ:">

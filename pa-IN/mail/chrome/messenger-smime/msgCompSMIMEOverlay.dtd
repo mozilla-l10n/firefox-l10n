@@ -3,9 +3,6 @@
 <!ENTITY securityMenu.label "ਸੁਰੱਖਿਆ">
 <!ENTITY securityMenu.accesskey "e">
 
-<!ENTITY menu_securityEncryptIfPossible.label "ਸੰਭਵ ਹੋਵੇ ਤਾਂ ਇਕ੍ਰਿਪਟ">
-<!ENTITY menu_securityEncryptIfPossible.accesskey "P">
-
 <!ENTITY menu_securityEncryptRequire.label "ਇਹ ਸੁਨੇਹਾ ਇਕ੍ਰਿਪਟ">
 <!ENTITY menu_securityEncryptRequire.accesskey "E">
 

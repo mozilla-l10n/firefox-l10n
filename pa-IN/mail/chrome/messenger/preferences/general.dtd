@@ -1,4 +1,4 @@
-<!ENTITY systemDefaults.label              "ਸਿਸਟਮ ਮੂਲ">
+<!ENTITY systemDefaults.label              "System Defaults">
 <!ENTITY alwaysCheckDefault.label          "Always check to see if &brandShortName; is the default mail client on startup">
 <!ENTITY alwaysCheckDefault.accesskey      "l">
 <!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
@@ -26,10 +26,9 @@
 <!ENTITY playSound1.accesskey              "d">
 <!ENTITY showAnimatedAlert.label          "Show an alert">
 <!ENTITY showAnimatedAlert.accesskey      "S">
-<!ENTITY customizeMailAlert.label         "Customize...">
+<!ENTITY customizeMailAlert.label         "Customize…">
 <!ENTITY customizeMailAlert.accesskey     "C">
 
-<!ENTITY soundNotification1.caption       "Sound">
 <!ENTITY play.label                       "Play">
 <!ENTITY play.accesskey                   "P">
 <!ENTITY systemsound.label                "Default system sound for new mail">
@@ -38,6 +37,11 @@
 <!ENTITY systemsound.accesskey            "y">
 <!ENTITY customsound.label                "Use the following sound file">
 <!ENTITY customsound.accesskey            "U">
-<!ENTITY browse.label                     "Browse...">
+<!ENTITY browse.label                     "Browse…">
 <!ENTITY browse.accesskey                 "B">
 
+<!ENTITY addonsMgr.label                  "Add-ons">
+<!ENTITY manageAddonsDescWin.label        "Change options for your add-ons">
+<!ENTITY manageAddonsDescUnix2.label      "Change preferences for your add-ons">
+<!ENTITY manageAddons.label               "Manage Add-ons…">
+<!ENTITY manageAddons.accesskey           "M">

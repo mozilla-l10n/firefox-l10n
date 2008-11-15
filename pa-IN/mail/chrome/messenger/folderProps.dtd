@@ -52,7 +52,6 @@
 <!ENTITY retention.label "ਰੋਕ ਨੀਤੀ">
 <!ENTITY retentionUseDefault.label  "ਸਰਵਰ ਮੂਲ ਹੀ ਵਰਤੋਂ">
 <!ENTITY retentionUseDefault.accesskey "d">
-<!ENTITY days.label "ਦਿਨ">
 <!ENTITY daysOld.label "ਦਿਨ ਪੁਰਾਣੇ">
 <!ENTITY message.label "ਸੁਨੇਹੇ">
 <!ENTITY retentionCleanup.label "ਡਿਸਕ ਥਾਂ ਨੂੰ ਮੁੜ-ਪਰਾਪਤ ਕਰਨ ਲਈ, ਪੁਰਾਣੇ ਸੁਨਹਿਆਂ ਨੂੰ ਹਮੇਸ਼ਾ ਲਈ ਹਟਾਇਆ ਜਾ ਸਕਦਾ ਹੈ">
@@ -76,18 +75,16 @@
 
 <!ENTITY selectofflineNewsgroup.check.label                 "ਆਫਲਾਇਨ ਇਸਤੇਮਾਲ ਲਈ ਇਹ ਖ਼ਬਰ-ਸਮੂਹ ਇਸਤੇਮਾਲ ਕਰੋ">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "o">
-<!ENTITY UseDefaultofflineNewsgroup.check.label             "ਖਾਤਾ ਸਥਾਪਨ ਵਿੱਚੋਂ ਮੂਲ ਇਸਤੇਮਾਲ ਕਰੋ ">
+
 <!ENTITY offlineNewsgroup.button.label                      "ਡਾਊਨਲੋਡ ਕਰੋ">
 <!ENTITY offlineNewsgroup.button.accesskey       "D">
 
-<!ENTITY folderProps.information.label  "ਜਾਣਕਾਰੀ:">
 <!ENTITY folderProps.name.label	        "ਨਾਂ:">
 <!ENTITY folderProps.name.accesskey              "N">
 <!ENTITY folderProps.location.label              "Location:">
 <!ENTITY folderProps.location.accesskey          "L">
 
 <!ENTITY folderSharingTab.label                             "ਸਾਂਝ">
-<!ENTITY privilegesDesc.label  "ਇਹ ਅਤੇ ਹੋਰ ਫੋਲਡਰ ਨੈੱਟਵਰਕ ਉਪਭੋਗੀ ਨਾਲ ਸਾਂਝੇ ਕਰੋ ਅਤੇ ਵੇਖਾਓ ਤੇ ਅਧਿਕਾਰ ਨਿਰਧਾਰਿਤ ਕਰੋ">
 <!ENTITY privileges.button.label                      "ਅਧਿਕਾਰ...">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                            "ਤੁਹਾਡੇ ਕੋਲ ਹੇਠ ਲਿਖੇ ਅਧਿਕਾਰ ਹਨ:">

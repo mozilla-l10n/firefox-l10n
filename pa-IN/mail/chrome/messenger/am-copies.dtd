@@ -4,16 +4,14 @@
 <!ENTITY sendingPrefix.label "ਜਦੋਂ ਸੁਨੇਹੇ ਭੇਜੇ ਜਾਣ ਤਾਂ ਸਵੈ-ਚਾਲਿਤ: ">
 <!ENTITY fccMailFolder.label "ਇੱਕ ਨਕਲ ਰੱਖੋ:">
 <!ENTITY fccMailFolder.accesskey "P">
-<!ENTITY chooseFolderButton.label "ਫੋਲਡਰ ਚੁਣੋ...">
 <!ENTITY fccReplyFollowsParent.label "ਜਵਾਬ ਦੇਣ ਵਾਲੇ ਪੱਤਰਾਂ ਦੇ ਜਵਾਬ ਫੋਲਡਰ ਵਿੱਚ ਰੱਖੋ">
 <!ENTITY fccReplyFollowsParent.accesskey "l">
 
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Bcc ਇਹ ਸਿਰਨਾਵੀਆਂ ਨੂੰ ਪੱਤਰ ਭੇਜੋ:">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY specialFolderTitle.label "ਖਾਸ ਫੋਲਡਰ">
-<!ENTITY draftMailFolder.label "ਸੁਨੇਹੇ ਡਰਾਫਟ ਵਿੱਚ ਰੱਖੋ:">
-<!ENTITY templateMailFolder.label "ਸੁਨੇਹੇ ਨਮੂਨੇ ਵਿੱਚ ਰੱਖੋ:">
+
+
 <!ENTITY saveMessageDlg.label "ਸੁਨੇਹਾ ਭੇਜਣ ਉਪਰੰਤ ਸੰਭਾਲਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰਵਾਉ">
 <!ENTITY saveMessageDlg.accesskey "S">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): do not translate "Sent" in below line. see bug #64199 -->

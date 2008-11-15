@@ -1,8 +1,6 @@
 <!ENTITY itemFormatting.label             "ਫਾਰਮੈਟ">
 <!ENTITY itemTags.label                   "ਟੈਗ">
-<!ENTITY itemFonts.label                  "ਫੋਂਟ">
 
-<!ENTITY textBegin.label                  "ਕਾਮਿਆਂ ਸਮੇਤ ਸਧਾਰਨ ਪਾਠ ਦਿੱਖ">
 <!ENTITY style.label                      "ਸ਼ੈਲੀ:">
 <!ENTITY style.accesskey                  "y">
 <!ENTITY regularStyle.label               "ਨਿਯਮਿਤ">
@@ -19,12 +17,10 @@
 <!ENTITY displayWidth.label               "ਸਧਾਰਨ ਪਾਠ ਸੁਨੇਹੇ">
 <!ENTITY plainText.label	          "ਹੇਠ ਦਿੱਤੇ ਫੋਂਟ ਵਰਤੋਂ:">
 <!ENTITY displayText.label	       "ਜਦੋਂ ਕਾਮਿਆਂ ਸਮੇਤ ਸਧਾਰਨ ਪਾਠ ਸੁਨੇਹੇ ਵੇਖਾਏ ਜਾਣ:">
-<!ENTITY viewingPlainText.label	   "ਜਦੋਂ ਸਧਾਰਨ ਪਾਠ ਸੁਨੇਹੇ ਵੇਖਾਓ ਜਾਣ:">
 <!ENTITY fixedWidth.label                 "ਸਥਿਰ ਚੌੜਾਈ ਫੋਂਟ">
 <!ENTITY fixedWidth.accesskey             "x">
 <!ENTITY variableWidth.label              "ਅਸਥਿਰ ਚੌੜਾਈ ਫੋਂਟ">
 <!ENTITY variableWidth.accesskey          "V">
-<!ENTITY readingMessagesHeader.label      "ਆਉਣ ਵਾਲੇ ਸੁਨੇਹਿਆਂ ਲਈ">
 <!ENTITY colors.label                     "ਰੰਗ">
 <!ENTITY overrideColors.label             "ਜਦੋਂ ਸੁਨੇਹੇ ਵੇਖਾਏ ਜਾਣ ਤਾਂ ਹੇਠ ਦਿੱਤੇ ਰੰਗ ਵੇਖਾਓ:">
 

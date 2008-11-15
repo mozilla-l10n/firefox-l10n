@@ -21,6 +21,3 @@ Rights Reserved.
 <!ENTITY unreadColumn.label "ਨਾ-ਪੜੇ"> 
 <!ENTITY totalColumn.label "ਕੁੱਲ"> 
 <!ENTITY folderSizeColumn.label "ਆਕਾਰ"> 
-<!ENTITY accounts.label "ਖਾਤਾ">
-<!-- LOCALIZATION NOTE (accounts.img) : DONT_TRANSLATE -->
-<!ENTITY accounts.img "chrome://messenger/skin/local-mailhost.gif">

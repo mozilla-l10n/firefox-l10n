@@ -2,13 +2,9 @@
 
 <!ENTITY securitySettings.label "ਸੁਰੱਖਿਆ ਵਿਵਸਥਾ">
 <!ENTITY serverSettings.label "ਸਰਵਰ ਵਿਵਸਥਾ">
-<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
-<!ENTITY popServer.label "POP ਪੱਤਰ ਸਰਵਰ">
-<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
-<!ENTITY imapServer.label "IMAP ਪੱਤਰ ਸਰਵਰ">
+
 <!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
-<!ENTITY newsServer.label "ਖਬਰਸਾਰ ਸਰਵਰ (NNTP)">
-<!ENTITY webmail.label "ਵੈੱਬ-ਪੱਤਰ(WebMail) ਖਾਤਾ">
+
 <!ENTITY serverType.label "ਸਰਵਰ ਕਿਸਮ:">
 <!ENTITY serverName.label "ਸਰਵਰ ਨਾਂ:">
 <!ENTITY serverName.accesskey "S">
@@ -51,10 +47,9 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "ਨਵੇਂ ਸੁਨੇਹੇ ਸਵੈ-ਚਾਲਿਤ ਹੀ ਡਾਊਨਲੋਡ ਕਰੋ">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY hostname.label "ਸਰਵਰ ਮੇਜ਼ਬਾਨ ਨਾਂ">
+
 <!ENTITY username.label "ਤੁਹਾਡਾ ਲਾੱਗਆਨ ਨਾਂ">
-<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
-<!ENTITY popServerTitle.label "POP ਸਰਵਰ ਜਾਣਕਾਰੀ">
+
 <!ENTITY deleteMessagePrefix.label "ਜਦੋਂ ਮੈਂ ਇੱਕ ਸੁਨੇਹਾ ਹਟਾਵਾਂ:">
 <!ENTITY modelMarkDeleted.accesskey "k">
 <!ENTITY modelMoveToTrash.label "ਇਸ ਨੂੰ ਰੱਦੀ (Trash) ਵਿੱਚ ਭੇਜ ਦਿਓ">

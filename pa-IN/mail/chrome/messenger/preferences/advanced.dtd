@@ -1,4 +1,5 @@
 <!ENTITY itemGeneral.label       "General">
+<!ENTITY itemDisplay.label       "Reading &amp; Display">
 <!ENTITY itemUpdate.label        "Update">
 <!ENTITY itemNetworking.label    "Network &amp; Disk Space">
 <!ENTITY itemCertificates.label  "Certificates">
@@ -20,24 +21,21 @@
 <!ENTITY secondsLabel.label            "seconds">
 <!ENTITY showFolderColumns.label       "Show expanded columns in the folder pane">
 <!ENTITY showFolderColumns.accesskey   "l">
-<!ENTITY rememberLastMsg.label         "Remember the last selected message">
-<!ENTITY rememberLastMsg.accesskey     "b">
 <!ENTITY openMsgIn.label               "Open messages in:">
 <!ENTITY reuseExpRadio0.label          "A new message window">
 <!ENTITY reuseExpRadio0.accesskey      "i">
 <!ENTITY reuseExpRadio1.label          "An existing message window">
 <!ENTITY reuseExpRadio1.accesskey      "x">
-<!ENTITY reuseExpRadio2.label          "A new message tab">
-<!ENTITY reuseExpRadio2.accesskey      "Z">
-<!ENTITY connectionTimeout.label       "Connection timeout: ">
-<!ENTITY connectionTimeout.accesskey   "C">
-<!ENTITY connectionSeconds.label       "seconds">
 <!ENTITY configEditDesc.label          "Advanced Configuration">
 <!ENTITY configEdit.label              "Config Editor…">
 <!ENTITY configEdit.accesskey          "g">
 <!ENTITY returnReceiptsInfo.label      "Determine how &brandShortName; handles return receipts">
 <!ENTITY showReturnReceipts.label      "Return Receipts…">
 <!ENTITY showReturnReceipts.accesskey  "R">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption                "Reading">
+<!ENTITY display.caption                "Display">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Automatically check for updates to:">
@@ -57,9 +55,9 @@
 <!ENTITY showUpdates.accesskey          "y">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showConnections.label         "Connection…">
-<!ENTITY showConnections.accesskey     "n">
-<!ENTITY proxiesInfo.label             "Determine how &brandShortName; connects to the Internet.">
+<!ENTITY showSettings.label            "Settings…">
+<!ENTITY showSettings.accesskey        "n">
+<!ENTITY proxiesConfigure.label        "Configure how &brandShortName; connects to the Internet">
 <!ENTITY connectionsInfo.caption       "Connection">
 <!ENTITY offlineInfo.caption           "Offline">
 <!ENTITY offlineInfo.label             "Configure offline settings">
@@ -71,8 +69,19 @@
 <!ENTITY offlineCompact.accesskey "v">
 <!ENTITY kb.label "KB">
 
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Use up to">
+<!ENTITY useCacheBefore.accesskey        "U">
+<!ENTITY useCacheAfter.label             "MB of space for the cache">
+<!ENTITY clearCacheNow.label             "Clear Now">
+<!ENTITY clearCacheNow.accesskey         "C">
+
 <!-- Certificates -->
-<!ENTITY certificatesInfo2.label        "Manage certificates, revocation lists, certificate validation and security devices.">
 <!ENTITY viewCertificates.label         "View Certificates">
 <!ENTITY viewCertificates.accesskey     "a">
 <!ENTITY viewCRLs.label                 "Revocation Lists">
