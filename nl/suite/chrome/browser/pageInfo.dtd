@@ -68,7 +68,6 @@
 <!ENTITY  formAction            "Formulieractie">
 <!ENTITY  formMethod            "Methode">
 <!ENTITY  formName              "Naam">
-<!ENTITY  formNo                "Nr.">
 <!ENTITY  formEncoding          "Codering:">
 <!ENTITY  formTarget            "Doel:">
 <!ENTITY  formFields            "Velden:">
