@@ -3,7 +3,7 @@
 <!ENTITY bulletStyle.label "סגנון הבלטה:">
 <!ENTITY changeEntireListRadio.accessKey "C">
 <!ENTITY changeEntireListRadio.label "שנה את כל הרשימה">
-<!ENTITY changeListMsg.label "בעת שינוי סוג רשימה:">
+<!-- ###ENTITY changeListMsg.label "בעת שינוי סוג רשימה:"-->
 <!ENTITY changeSelectedRadio.accessKey "I">
 <!ENTITY changeSelectedRadio.label "שנה רק פריטים נבחרים">
 <!ENTITY definitionList.value "רשימת הגדרות">
