@@ -4,6 +4,7 @@
 <!ENTITY browser.label "Browser">
 <!ENTITY email.label "E-mail">
 <!ENTITY newsgroups.label "Nieuwsgroepen">
+<!ENTITY rss.label "RSS-feeds">
 
 <!ENTITY checkOnStartup.label "Deze controle altijd uitvoeren bij het starten van &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "D">

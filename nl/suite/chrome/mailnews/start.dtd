@@ -44,6 +44,7 @@ cli&euml;nt, die geavanceerde detectie van ongewenste berichten en andere handig
 <!ENTITY features.title "Mogelijkheden">
 <!ENTITY feat_multiacc.label "Ondersteuning voor meerdere accounts">
 <!ENTITY feat_junk.label "Detectie van ongewenste berichten">
+<!ENTITY feat_rss.label "RSS-lezer">
 <!ENTITY feat_filters.label "Berichtenfilters">
 <!ENTITY feat_htmlmsg.label "Ondersteuning van berichten in HTML">
 <!ENTITY feat_abook.label "Adressenboek">
