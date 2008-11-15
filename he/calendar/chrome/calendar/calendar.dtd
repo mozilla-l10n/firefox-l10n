@@ -362,7 +362,7 @@ http://www.mozilla.org/projects/calendar/caldata/CanadaHolidays.ics"-->
 
 <!ENTITY calendar.alarm.snoozefor.label             "תנומה למשך">
 <!ENTITY calendar.alarm.snoozeallfor.label          "תנומה לכולם למשך">
-<!--- ###ENTITY calendar.alarm.title.label                 "Calendar Alarm"-->
+<!--###ENTITY calendar.alarm.title.label                 "Calendar Alarm"-->
 <!ENTITY calendar.alarm.dismiss.label               "לשחרר">
 <!ENTITY calendar.alarm.dismissall.label            "לשחרר הכל">
 
