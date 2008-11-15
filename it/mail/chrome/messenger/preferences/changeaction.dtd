@@ -15,5 +15,5 @@
 <!ENTITY saveToThisFolder.accesskey "i">
 <!ENTITY chooseFolder.label "Sfoglia…">
 <!ENTITY chooseFolder.accesskey "f">
-<!ENTITY saveToAskMe.label "chiedere dove salvare il file">
+<!ENTITY saveToAskMe.label "chiedi dove salvare il file">
 <!ENTITY saveToAskMe.accesskey "a">
