@@ -40,8 +40,8 @@
 <!ENTITY subscribeButton.accesskey    "O">
 <!ENTITY unsubscribeButton.label      "Odhlásiť sa">
 <!ENTITY unsubscribeButton.accesskey  "d">
-<!ENTITY newGroupsTab.label           "Nové skupiny">                             
-<!ENTITY newGroupsTab.accesskey       "N">                                      
+<!ENTITY newGroupsTab.label           "Nové skupiny">
+<!ENTITY newGroupsTab.accesskey       "N">
 <!ENTITY refreshButton.label          "Obnoviť">
 <!ENTITY refreshButton.accesskey      "b">
 <!ENTITY stopButton.label             "Zastaviť">
@@ -49,7 +49,7 @@
 <!ENTITY server.label                 "Účet:">
 <!ENTITY server.accesskey             "e">
 <!ENTITY subscribedHeader.label       "Odoberať">
-<!-- commenting out until bug 38906 is fixed 
+<!-- commenting out until bug 38906 is fixed
 <!ENTITY messagesHeader.label         "Messages"> -->
 <!ENTITY namefield.label              "Zobraziť položky, ktoré obsahujú:">
 <!ENTITY namefield.accesskey          "Z">

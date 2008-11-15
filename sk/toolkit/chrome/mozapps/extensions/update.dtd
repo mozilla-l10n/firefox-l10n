@@ -1,7 +1,7 @@
 <!ENTITY  updateWizard.title              "Aktualizácia aplikácie &brandShortName;">
 
 <!ENTITY  offline.title                   "&brandShortName; je v režime offline">
-<!ENTITY  offline.description             "&brandShortName; je potrebné prepnúť do režimu online  
+<!ENTITY  offline.description             "&brandShortName; je potrebné prepnúť do režimu online
                                            za účelom kontroly aktualizácií dostupných pre doplnky,
                                            aby boli kompatibilné s touto verziou.">
 <!ENTITY  offline.toggleOffline.label     "Prejsť do režimu online.">
@@ -10,7 +10,7 @@
 <!ENTITY  mismatch.win.title              "Nekompatibilné doplnky">
 <!ENTITY  mismatch.top.label              "Nasledujúce doplnky nie sú kompatibilné s touto verziou aplikácie &brandShortName; a budú zakázané:">
 <!ENTITY  mismatch.bottom.label           "&brandShortName; môže skontrolovať, či sú dostupné kompatibilné verzie
-                                           týchto doplnkov.">                                        
+                                           týchto doplnkov.">
 
 <!ENTITY  checking.wizard.title           "Vyhľadávanie kompatibilných doplnkov">
 <!ENTITY  checking.top.label              "Vyhľadávajú sa aktualizácie nekompatibilných doplnkov…">

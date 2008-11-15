@@ -69,7 +69,6 @@
 <!ENTITY tableCaptionNone.label "Žiadny">
 <!ENTITY tableInheritColor.label "(Viditeľná farba stránky)">
 
-<!ENTITY cellPercent.label "percent tabuľky">
 <!ENTITY cellSelection.label "Výber">
 <!ENTITY cellSelectCell.label "Bunka">
 <!ENTITY cellSelectRow.label "Riadok">
@@ -78,11 +77,7 @@
 <!ENTITY cellSelectNext.accessKey "a">
 <!ENTITY cellSelectPrevious.label "Predchádzajúci">
 <!ENTITY cellSelectPrevious.accessKey "e">
-<!ENTITY cellApplyBeforeMove.label "Aplikovať zmeny pred presunom">
-<!ENTITY cellKeepCurrentData.label "Nechať aktuálne nastavenie">
 <!ENTITY applyBeforeChange.label "Aktuálne zmeny sa prejavia pri zmene výberu.">
-<!ENTITY cellRowSpan.label "Rozsah riadku:">
-<!ENTITY cellColSpan.label "Rozsah stĺpca:">
 <!ENTITY cellContentAlignment.label "Zarovnanie obsahu">
 <!ENTITY cellHorizontal.label "Horizontálne:">
 <!ENTITY cellHorizontal.accessKey "H">
@@ -100,7 +95,6 @@
 <!ENTITY cellAlignMiddle.label "Do stredu">
 <!ENTITY cellAlignBottom.label "Dole">
 <!ENTITY cellAlignJustify.label "Obojstranne">
-<!ENTITY cellAlignAtChar.label "Na znaku:">
 <!ENTITY cellInheritColor.label "(Viditeľná farba tabuľky)">
 <!ENTITY cellUseCheckboxHelp.label "Označte tie vlastnosti, ktoré sa majú aplikovať na všetky vybrané bunky.">
 

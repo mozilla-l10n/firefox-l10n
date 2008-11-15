@@ -10,8 +10,8 @@
 <!ENTITY alwaysUseUsername.accesskey "u">
 <!ENTITY userName.label "Používateľské meno:">
 <!ENTITY userName.accesskey "m">
-<!ENTITY useSecAuth.label "Použiť zabezpečenú autentifikáciu">                          
-<!ENTITY useSecAuth.accesskey "z">                                              
+<!ENTITY useSecAuth.label "Použiť zabezpečenú autentifikáciu">
+<!ENTITY useSecAuth.accesskey "z">
 <!ENTITY isSecure.label "Použiť bezpečné spojenie:">
 <!ENTITY neverSecure.label "Nikdy">
 <!ENTITY neverSecure.accesskey "k">

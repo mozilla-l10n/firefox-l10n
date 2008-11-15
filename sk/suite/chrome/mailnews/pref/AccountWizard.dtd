@@ -30,24 +30,17 @@
 
 <!ENTITY emailLabel.label "E-mailová adresa:">
 <!ENTITY emailLabel.accesskey "E">
-<!ENTITY emailDesc.label "Zadajte vašu e-mailovú adresu. Túto adresu budú ostatní používať pre odosielanie správ vám">
-<!-- LOCALIZATION NOTE (emailExample.label) : do not translate "user@example.net" in below line -->
-<!ENTITY emailExample.label "(napr. pouzivatel@priklad.sk).">
 
 <!-- Entities for Server page -->
 
 <!ENTITY serverTitle.label "Informácie o serveri">
-<!ENTITY incomingServerTitle.label "Server pre príjem pošty">
 <!ENTITY incomingServerTypeDesc.label "Zvoľte typ servera pre príjem pošty.">
-<!ENTITY incomingServerTypeLabel.label "Typ servera:">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServerNameDesc.label "Zadajte názov vášho servera pre prichádzajúcu poštu (napr. &quot;mail.firma.sk&quot;).">
 <!ENTITY incomingServerLabel.label "Server pre príjem pošty:">
 <!ENTITY incomingServerLabel.accesskey "S">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Zadajte názov vášho diskusného (NNTP) servera (napríklad &quot;news.example.net&quot;).">
-<!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
-<!ENTITY smtpServerTitle.label "Server pre odosielanie pošty (SMTP)">
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY smtpServerDesc.label "Zadajte názov vášho servera pre odosielanie pošty (SMTP) (napríklad &quot;smtp.priklad.sk&quot;).">
 <!ENTITY smtpServerLabel.label "Server pre odosielanie pošty:">
@@ -60,12 +53,6 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY nntpType.label "Diskusný server">
-<!-- for when the user has an SMTP server pre-configured -->
-<!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
-     this variable. Also, translate currentSmtpBefore.label and currentSmtpAfter.label as a single sentence,
-	  inserting text after the "&quot;" entity in currentSmtpAfter.label, if required grammatically
--->
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
@@ -102,7 +89,6 @@
 <!ENTITY accnameTitle.label "Názov účtu">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Zadajte názov tohto účtu (napr. &quot;Osobná pošta&quot;, &quot;Práca&quot;, &quot;Diskusia&quot;…).">
-<!ENTITY accnameExample.label "Napríklad Domáci účet, Pracovný účet alebo Diskusný účet">
 <!ENTITY accnameLabel.label "Názov účtu:">
 <!ENTITY accnameLabel.accesskey "z">
 

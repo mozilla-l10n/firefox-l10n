@@ -34,7 +34,7 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
- 
+
 <!ENTITY newDirectoryTitle.label           "Vlastnosti adresárového servera">
 <!ENTITY directoryName.label               "Názov:">
 <!ENTITY directoryName.accesskey           "N">
@@ -65,7 +65,7 @@
 <!ENTITY return.accesskey                  "N">
 <!ENTITY results.label                     "výsledkov">
 <!ENTITY offlineText.label                 "Môžete si vytvoriť lokálnu kópiu tohto adresára, takže bude k dispozícii aj pri práci v režime offline.">
-<!-- Localization note: this is here because the width of the dialog 
+<!-- Localization note: this is here because the width of the dialog
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->

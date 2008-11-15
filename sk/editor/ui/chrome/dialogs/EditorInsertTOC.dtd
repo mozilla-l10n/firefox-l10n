@@ -34,10 +34,9 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-   
+
 <!ENTITY Window.title         "Obsah">
 <!ENTITY buildToc.label       "Vytvoriť obsah z:">
-<!ENTITY style.label          "Štýl:">
 <!ENTITY tag.label            "Značka:">
 <!ENTITY class.label          "Trieda:">
 <!ENTITY header1.label        "Úroveň 1">

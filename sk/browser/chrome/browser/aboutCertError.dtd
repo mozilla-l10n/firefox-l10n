@@ -19,12 +19,12 @@ stránka zvyčajne poskytne identifikačné údaje na overenie, že sa pripájat
  Identita tejto stránky však nemohla byť overená.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Čo by som mal urobiť?">
-<!ENTITY certerror.whatShouldIDo.content "Ak sa k tejto stránke zvyčajne pripájate bez problémov, 
+<!ENTITY certerror.whatShouldIDo.content "Ak sa k tejto stránke zvyčajne pripájate bez problémov,
 táto chyba môže naznačovať, že niekto sa snaží napodobniť túto stránku a nemali by ste preto pokračovať.">
 <!ENTITY certerror.getMeOutOfHere.label "Rýchlo odtiaľto preč!">
 
 <!ENTITY certerror.expert.heading "Rozumiem možným rizikám">
-<!ENTITY certerror.expert.content "Ak viete, čo sa deje, môžete nastaviť &brandShortName; tak, aby veril 
+<!ENTITY certerror.expert.content "Ak viete, čo sa deje, môžete nastaviť &brandShortName; tak, aby veril
 identifikácii tejto stránky.
 <b>Aj keď tejto stránke dôverujete, táto chyba môže znamenať, že niekto manipuluje s týmto pripojením.</b>">
 <!ENTITY certerror.expert.contentPara2 "Nepridávajte výnimku, pokiaľ nepoznáte dôvody,

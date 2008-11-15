@@ -91,7 +91,7 @@
 <!ENTITY progressMsg "#1kB z #2kB (rýchlosť #3kB/sek.)">
 
 <!-- LOCALIZATION NOTE (unknownTime):
-    
+
     This string is used when the time remaining is unknown. -->
 <!ENTITY unknownTime "Neznámy">
 

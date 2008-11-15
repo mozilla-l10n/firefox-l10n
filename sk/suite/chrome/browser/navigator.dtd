@@ -1,11 +1,11 @@
 <!-- extracted from content/navigator.xul -->
 
-<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items --> 
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE --> 
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandShortName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandShortName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
@@ -78,8 +78,8 @@
 <!ENTITY minimizeButton.tooltip       "Minimalizovať">
 <!ENTITY restoreButton.tooltip        "Obnoviť">
 
-<!ENTITY applyTheme.label	"Použiť tému"> 
-<!ENTITY applyTheme.accesskey	"t"> 
+<!ENTITY applyTheme.label	"Použiť tému">
+<!ENTITY applyTheme.accesskey	"t">
 <!ENTITY getNewThemesCmd.label "Získať nové témy">
 <!ENTITY getNewThemesCmd.accesskey "Z">
 <!ENTITY findOnCmd.label "Hľadať na tejto stránke…">
@@ -126,7 +126,7 @@
 <!ENTITY personalToolbar.tooltip          "Osobný panel">
 <!ENTITY navigationToolbar.tooltip        "Navigačný panel">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY backButton.label             "Naspäť">
 <!ENTITY backButton.tooltip           "Späť o jednu stránku">
 <!ENTITY forwardButton.label          "Dopredu">
@@ -150,7 +150,7 @@
 
 <!ENTITY proxyIcon.tooltip            "Presunutím ikony vytvorte odkaz na túto stránku">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY  bookmarksButton.label       "Záložky">
 <!ENTITY  bookmarksButton.tooltip     "Zoznam záložiek">
 <!ENTITY  homeButton.label            "Domov">
@@ -158,7 +158,7 @@
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Hotovo">
 
-<!ENTITY historyCmd.label           "História">  
+<!ENTITY historyCmd.label           "História">
 <!ENTITY historyCmd.accesskey       "i">
 <!ENTITY history.commandKey         "h">
 

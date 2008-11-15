@@ -9,15 +9,11 @@
 <!ENTITY resetButton.accesskey       "b">
 <!ENTITY helpButton.label            "Pomocník">
 <!ENTITY helpButton.accesskey        "P">
-<!ENTITY optionsButton.label         "Možnosti">
-<!ENTITY closeButton.label           "Zavrieť">
 <!ENTITY openButton.label            "Otvoriť">
 <!ENTITY openButton.accesskey        "t">
 <!ENTITY deleteButton.label          "Odstrániť">
 <!ENTITY deleteButton.accesskey      "r">
 <!ENTITY searchDialogTitle.label     "Hľadanie v správach">
-<!ENTITY conditionDesc.label         "Hľadať správy, ktoré:">
-<!ENTITY conditions.label            "Kritéria">
 <!ENTITY results.label               "Výsledky">
 <!ENTITY fileHereMenu.label          "Uložiť sem">
 <!ENTITY fileHereMenu.accesskey      "U">

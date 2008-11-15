@@ -34,7 +34,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-   
+
 <!ENTITY AdvancedEditButton.label "Pokročilé…">
 <!ENTITY AdvancedEditButton.accessKey "k">
 <!ENTITY AdvancedEditButton.tooltip "Pridať alebo modifikovať atribúty HTML a štýlu, pridať JavaScript udalosti pre tento objekt.">

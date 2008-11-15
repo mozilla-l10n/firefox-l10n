@@ -34,7 +34,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-   
+
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
 <!ENTITY editorWindow.titlemodifier "Composer">
@@ -55,12 +55,3 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formát">
 <!ENTITY formatMenu.accesskey "F">
-
-<!ENTITY helpMenu.label "Pomocník">
-<!ENTITY aboutCmd.label ".O programe">
-
-<!-- Display Mode Toolbar -->
-<!ENTITY editMode.label "Režim úprav:">
-
-<!ENTITY statusText.label "Načítanie stránky: Hotovo">
-

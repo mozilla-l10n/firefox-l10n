@@ -49,8 +49,6 @@
 <!ENTITY newListCmd.accesskey                           "R">
 <!ENTITY newAddressBookCmd.label                        "Adresár">
 <!ENTITY newAddressBookCmd.accesskey                    "A">
-<!ENTITY renameAddressBookCmd.label                     "Premenovať adresár…"> 
-<!ENTITY renameAddressBookCmd.accesskey                 "r">  
 <!ENTITY newLDAPDirectoryCmd.label                      "Priečinok LDAP…">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "L">
@@ -106,9 +104,7 @@
 <!ENTITY allowOnlineCheck.label                         "Kontrolovať prítomnosť online (AOL)">
 <!ENTITY allowOnlineCheck.accesskey                     "K">
 
-<!ENTITY stopSearchingCmd.label                         ".Zastaviť vyhľadávanie"> 
-
-<!-- Toolbar and Popup items -->  
+<!-- Toolbar and Popup items -->
 <!ENTITY newcardButton.label                            "Nová karta">
 <!ENTITY newcardButton.accesskey                        "k">
 <!ENTITY newlistButton.label                            "Nový zoznam">
@@ -118,12 +114,9 @@
 <!ENTITY newmsgButton.label                             "Nová správa">
 <!ENTITY newmsgButton.accesskey                         "N">
 <!ENTITY deleteButton.label                             "Odstrániť">
-<!ENTITY deleteButton.accesskey                         "d">  
-<!ENTITY newimButton.label                              "Rýchla správa">  
-<!ENTITY newimButton.accesskey                          "R">  
-<!ENTITY stopButton.label                               ".Zastaviť">  
-<!ENTITY searchButton.label                             ".Hľadať">  
-<!ENTITY showNames.label                                "Zobraziť mená obsahujúce:">  
+<!ENTITY deleteButton.accesskey                         "d">
+<!ENTITY newimButton.label                              "Rýchla správa">
+<!ENTITY newimButton.accesskey                          "R">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Panel Adresár">
@@ -133,10 +126,7 @@
 <!ENTITY newmsgButton.tooltip                           "Odoslať správu">
 <!ENTITY newIM.tooltip                                  "Odoslať rýchlu správu alebo začať chatovať (Instant message - IM)">
 <!ENTITY deleteButton.tooltip                           "Odstrániť označenú kartu alebo adresár">
-<!ENTITY stopButton.tooltip                             "Zastaviť aktuálny prenos"> 
-<!ENTITY searchButton.tooltip                           "Hľadať v aktuálnom adresári"> 
 <!ENTITY throbber.tooltip                               "Prejsť na domovskú stránku &vendorShortName;">
-<!ENTITY clearButton.tooltip                            "Vymazať vyhľadávanie a zobraziť všetky položky">
 <!ENTITY advancedButton.tooltip                         "Pokročilé hľadanie adresy">
 
 <!-- Status Bar -->

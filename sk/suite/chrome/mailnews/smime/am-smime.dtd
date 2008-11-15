@@ -8,7 +8,6 @@
 <!ENTITY alwaysEncryptMessage.label    "Vždy (neumožní odoslanie, ak všetci adresáti nemajú certifikát)">
 <!ENTITY alwaysEncryptMessage.accesskey "d">
 <!ENTITY encryptionCert.message        "Na šifrovanie a dešifrovanie správ posielaných vám používať tento osobný certifikát:">
-<!ENTITY encryptionCert.notselected    "Žiaden certifikát nie je zadaný">
 <!ENTITY digitalSign.certificate.button "Vybrať…">
 <!ENTITY digitalSign.certificate.accesskey "b">
 <!ENTITY digitalSign.certificate_clear.button "Vymazať">
@@ -21,4 +20,3 @@
 <!ENTITY signMessage.label             "Digitálne podpisovať správy (predvolene)">
 <!ENTITY signMessage.accesskey "D">
 <!ENTITY signingCert.message           "Na digitálne podpisovanie správ používať tento osobný certifikát:">
-<!ENTITY signingCert.notselected       "Nie je nastavený žiadny certifikát">

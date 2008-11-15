@@ -230,7 +230,7 @@
 <!ENTITY progress.level.75.accesskey                  "7">
 <!ENTITY progress.level.100            "100&percnt; dokončených">
 <!ENTITY progress.level.100.accesskey                 "1">
-                                                                 
+
 <!ENTITY priority.level.none                "Nešpecifikovaná">
 <!ENTITY priority.level.none.accesskey      "e">
 <!ENTITY priority.level.low                 "Nízka">

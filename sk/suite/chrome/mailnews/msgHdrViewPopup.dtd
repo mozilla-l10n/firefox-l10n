@@ -44,8 +44,6 @@
 <!ENTITY CopyEmailAddress.accesskey        "K">
 <!ENTITY CreateFilterFrom.label            "Vytvoriť filter z…">
 <!ENTITY CreateFilterFrom.accesskey        "f">
-<!ENTITY BlockAddress.label                "Blokovať adresu">
-<!ENTITY BlockAddress.accesskey            "B">
 <!ENTITY copyLinkCmd.label                 "Kopírovať adresu odkazu">
 <!ENTITY copyLinkCmd.accesskey             "a">
 <!ENTITY CopyMessageId.label               "Kopírovať ID správy">

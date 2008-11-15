@@ -36,7 +36,6 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY pref.formatting.title        "Formát odosielaných správ">
-<!ENTITY sendMail.label               "Formát odosielaných správ">
 <!ENTITY sendMaildesc.label           "Ak odosielate správu vo formáte HTML a jeden alebo viacerí adresáti nie sú schopní prijímať správy v tomto formáte:">
 <!ENTITY askMe.label                  "Opýtať sa (program požiada o výber formátu)">
 <!ENTITY askMe.accesskey              "O">
@@ -47,7 +46,6 @@
 <!ENTITY sendBoth.label               "Odoslať ako HTML aj ako textovú správu (väčšia správa)">
 <!ENTITY sendBoth.accesskey           "L">
 <!ENTITY override.label               "Pri písaní jednotlivých správ môžete tieto nastavenia zmeniť pomocou ponuky Nástroje.">
-<!ENTITY receiveHTML.label            "Ak viete, že daný adresát môže prijímať správy vo formáte HTML, zrušte označenie voľby 'Odoslať správu ako čistý text (nie HTML)' v jeho karte adresára.">
 
 <!-- Html and Plain Text Domains  -->
 <!ENTITY domain.title                 "Textové domény a domény HTML">

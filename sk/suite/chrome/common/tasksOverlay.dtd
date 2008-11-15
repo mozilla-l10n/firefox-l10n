@@ -23,7 +23,7 @@
 <!ENTITY windowMenu.accesskey "k">
 
 <!ENTITY tasksMenu.label "Nástroje">
-<!ENTITY tasksMenu.accesskey "N"> 
+<!ENTITY tasksMenu.accesskey "N">
 
 <!ENTITY downloadManagerCmd.label "Správca preberania súborov">
 <!ENTITY downloadManagerCmd.accesskey "S">
