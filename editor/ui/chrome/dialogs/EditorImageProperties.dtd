@@ -41,7 +41,6 @@
 <!ENTITY windowTitle.label "Bildeegenskaper">
 
 <!ENTITY pixelsPopup.value "piksler">
-<!ENTITY percentPopup.value "prosent">
 
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Bildeadresse:">
@@ -57,7 +56,6 @@
 <!ENTITY noAltText.accessKey "I">
 
 <!ENTITY previewBox.label "Bildeforhåndsvisning">
-<!ENTITY MoreFewerButton.tooltip "Vis flere eller færre egenskaper for redigering">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
@@ -93,7 +91,6 @@
 
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "Mellomrom">
-<!ENTITY spacingBox.tooltip "Skriv et tall for luft rundt bildet">
 <!ENTITY leftRightEditField.label "Venstre og høyre:">
 <!ENTITY leftRightEditField.accessKey "V">
 <!ENTITY topBottomEditField.label "Topp og bunn:">
@@ -104,12 +101,6 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Vis kantlinje rund lenket bilde">
 <!ENTITY showImageLinkBorder.accessKey "V">
-
-<!-- These controls may be added some day; currently not used -->
-<!ENTITY makePageBackgroundCheckbox.label "Bruk som sidebakgrunn">
-<!ENTITY makePageBackgroundCheckbox.tooltip "Bruk bilde som bakgrunn på siden">
-<!ENTITY editImageButton.label "Rediger bilde">
-<!ENTITY editImageButton.tooltip "Rediger bildefil i et annet program">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Skjema">

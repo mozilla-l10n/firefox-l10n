@@ -6,6 +6,8 @@
 
 <!-- General Settings -->
 
+<!ENTITY enableGloda.label             "Slå på meldingsindeksering">
+<!ENTITY enableGloda.accesskey         "S">
 <!ENTITY showCondensedAddresses.label  "Vis bare visningsnavn for personer som er i adresseboken">
 <!ENTITY showCondensedAddresses.accesskey "V">
 
