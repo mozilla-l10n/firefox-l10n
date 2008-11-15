@@ -69,7 +69,11 @@
 <!ENTITY saveLinkCmd.accesskey          "d">
 <!ENTITY saveImageAsCmd.label           "Afbeelding opslaan als…">
 <!ENTITY saveImageCmd.label             "Afbeelding opslaan">
-<!ENTITY saveImageCmd.accesskey         "p">
+<!ENTITY saveImageCmd.accesskey         "n">
+<!ENTITY saveVideoCmd.label             "Video opslaan als…">
+<!ENTITY saveVideoCmd.accesskey         "n">
+<!ENTITY saveAudioCmd.label             "Audio opslaan als…">
+<!ENTITY saveAudioCmd.accesskey         "n">
 <!ENTITY copyCmd.label                  "Kopiëren">
 <!ENTITY copyCmd.accesskey              "K">
 <!ENTITY selectAllCmd.label             "Alles selecteren">
@@ -78,6 +82,10 @@
 <!ENTITY copyLinkCmd.accesskey          "k">
 <!ENTITY copyImageCmd.label             "Afbeeldingslocatie kopiëren">
 <!ENTITY copyImageCmd.accesskey         "o">
+<!ENTITY copyVideoURLCmd.label          "Videolocatie kopiëren">
+<!ENTITY copyVideoURLCmd.accesskey      "k">
+<!ENTITY copyAudioURLCmd.label          "Audiolocatie kopiëren">
+<!ENTITY copyAudioURLCmd.accesskey      "k">
 <!ENTITY metadataCmd.label              "Eigenschappen">
 <!ENTITY metadataCmd.accesskey          "E">
 <!ENTITY copyEmailCmd.label             "E-mailadres kopiëren">
@@ -94,6 +102,18 @@
 <!ENTITY redoCmd.accesskey              "u">
 <!ENTITY thisFrameMenu.label            "Dit deelvenster">
 <!ENTITY thisFrameMenu.accesskey        "d">
+<!ENTITY mediaPlay.label                "Spelen">
+<!ENTITY mediaPlay.accesskey            "s">
+<!ENTITY mediaPause.label               "Pause">
+<!ENTITY mediaPause.accesskey           "P">
+<!ENTITY mediaMute.label                "Dempen">
+<!ENTITY mediaMute.accesskey            "D">
+<!ENTITY mediaUnmute.label              "Ondempen">
+<!ENTITY mediaUnmute.accesskey          "m">
+<!ENTITY mediaShowControls.label        "Bediening tonen">
+<!ENTITY mediaShowControls.accesskey    "C">
+<!ENTITY mediaHideControls.label        "Bediening verbergen">
+<!ENTITY mediaHideControls.accesskey    "C">
 <!ENTITY search.accesskey               "W">
 <!ENTITY bidiSwitchPageDirectionItem.label "Paginarichting omkeren">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "g">

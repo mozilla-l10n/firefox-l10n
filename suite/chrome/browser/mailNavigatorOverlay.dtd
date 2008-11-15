@@ -8,13 +8,16 @@
 <!ENTITY sendPage.label                  "Pagina verzenden…">
 <!ENTITY sendPage.accesskey              "z">
 
-
 <!ENTITY contextSendThisPage.label       "Deze pagina verzendenSend This Page…">
 <!ENTITY contextSendThisPage.accesskey   "d">
 <!ENTITY contextSendThisLink.label       "Deze koppeling verzendenSend This Link…">
 <!ENTITY contextSendThisLink.accesskey   "k">
 <!ENTITY contextSendImage.label          "Afbeelding verzenden…">
 <!ENTITY contextSendImage.accesskey      "n">
+<!ENTITY contextSendVideo.label          "Video verzenden…">
+<!ENTITY contextSendVideo.accesskey      "n">
+<!ENTITY contextSendAudio.label          "Audio verzenden…">
+<!ENTITY contextSendAudio.accesskey      "n">
 <!ENTITY contextSendFrame.label          "Deelvenster verzenden…">
 <!ENTITY contextSendFrame.accesskey      "d">
 
