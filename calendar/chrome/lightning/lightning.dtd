@@ -77,6 +77,10 @@
 <!ENTITY lightning.toolbar.task.label         "משימות">
 <!ENTITY lightning.toolbar.task.accesskey     "מ">
 
+<!-- Toolbar write button -->
+<!ENTITY lightning.toolbar.newevent.label     "אירוע">
+<!ENTITY lightning.toolbar.newtask.label      "משימה">
+
 <!-- Messenger Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "יומי">
 <!ENTITY lightning.toolbar.day.accesskey             "י">

@@ -360,11 +360,11 @@ http://www.mozilla.org/projects/calendar/caldata/CanadaHolidays.ics"-->
 <!ENTITY calendar.alarm.location.label              "מיקום:" >
 <!ENTITY calendar.alarm.details.label               "פרטים…" >
 
-<!-- ### #!# ENTITY calendar.alarm.snoozefor.label             "Snooze for" -->
-<!-- ### #!# ENTITY calendar.alarm.snoozeallfor.label          "Snooze All for" -->
-<!-- ### #!#ENTITY calendar.alarm.title.label                 "Calendar Alarm" -->
-<!-- ### #!#ENTITY calendar.alarm.dismiss.label               "Dismiss" -->
-<!-- ### #!#ENTITY calendar.alarm.dismissall.label            "Dismiss All" -->
+<!ENTITY calendar.alarm.snoozefor.label             "תנומה למשך">
+<!ENTITY calendar.alarm.snoozeallfor.label          "תנומה לכולם למשך">
+<!--- ###ENTITY calendar.alarm.title.label                 "Calendar Alarm"-->
+<!ENTITY calendar.alarm.dismiss.label               "לשחרר">
+<!ENTITY calendar.alarm.dismissall.label            "לשחרר הכל">
 
 <!ENTITY calendar.alarm.snooze.5minutes.label       "5 דקות" >
 <!ENTITY calendar.alarm.snooze.10minutes.label      "10 דקות" >
