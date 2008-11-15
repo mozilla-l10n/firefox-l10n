@@ -84,7 +84,6 @@
 
 <!ENTITY zoominCmd.label "Zooma in">
 <!ENTITY zoomoutCmd.label "Zooma ut">
-<!ENTITY delSpotCmd.label "Ta bort område">
 
 <!-- Keys -->
 <!ENTITY clear.key "d">

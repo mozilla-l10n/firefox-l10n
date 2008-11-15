@@ -38,7 +38,6 @@
 
 <!ENTITY Window.title        "Innehållsförteckning">
 <!ENTITY buildToc.label      "Gör en innehållsförteckning från:">
-<!ENTITY style.label         "Stil:">
 <!ENTITY tag.label           "Tagg:">
 <!ENTITY class.label         "Klass:">
 <!ENTITY header1.label       "Nivå 1">

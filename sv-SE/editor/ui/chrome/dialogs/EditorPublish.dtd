@@ -40,10 +40,8 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label         "Publicera sida">
 <!ENTITY windowTitleSettings.label "Publiceringsinställningar">
-
 <!ENTITY publishTab.label         "Publicera">
 <!ENTITY settingsTab.label        "Inställningar">
-
 <!ENTITY publishButton.label      "Publicera">
 
 <!-- Publish Tab Panel -->
@@ -73,10 +71,8 @@
 <!ENTITY filename.accesskey           "F">
 <!ENTITY filename.tooltip         "Skriv in ett namn på den här filen, inklusive '.html' för en webbsida">
 <!ENTITY filenameExample.label    "t.ex.: &quot;minsida.html&quot;">
-<!ENTITY relatedDocs.label        "Andra filer att publicera">
 <!ENTITY setDefaultButton.label   "Använd som förvald">
 <!ENTITY setDefaultButton.accesskey   "v">
-<!ENTITY setDefSiteAndDir.label   "Använd som förvald plats och katalog">
 <!ENTITY removeButton.label       "Ta bort plats">
 <!ENTITY removeButton.accesskey       "T">
 
