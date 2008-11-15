@@ -11,7 +11,6 @@
 <!ENTITY statusColumn.label "Estado">
 <!ENTITY sizeColumn.label "Tamaño">
 <!ENTITY junkStatusColumn.label "Estado de correo basura">
-<!ENTITY linesColumn.label "Líneas">
 <!ENTITY unreadColumn.label "No leídos en la conversación">
 <!ENTITY totalColumn.label "Total en la conversación">
 <!ENTITY readColumn.label "Leído">

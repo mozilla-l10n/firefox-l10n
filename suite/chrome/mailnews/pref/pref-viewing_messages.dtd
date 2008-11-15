@@ -16,8 +16,6 @@
 <!ENTITY fontPlainText.label "Tipo de letra:">
 <!ENTITY fontPlainText.accesskey "d">
 <!ENTITY displayQuoted.label "Configuración de mensajes citados:">
-<!ENTITY readingMessagesHeader.label "Para los mensajes entrantes">
-<!ENTITY messageWrapping.label "Ajuste de línea en los mensajes">
 <!ENTITY wrapInMsg.label "Ajustar texto al ancho de la ventana">
 <!ENTITY wrapInMsg.accesskey "j">
 <!ENTITY convertEmoticons.label "Mostrar emoticones como gráficos">

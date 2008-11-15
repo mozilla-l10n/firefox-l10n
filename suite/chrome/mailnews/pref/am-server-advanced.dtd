@@ -1,5 +1,4 @@
 <!ENTITY serverAdvanced.label "Configuración avanzada de cuentas">
-<!ENTITY imapAdvanced.label "Configuración avanzada de servidor IMAP">
 <!ENTITY serverDirectory.label "Directorio del servidor IMAP:">
 <!ENTITY serverDirectory.accesskey "D">
 <!ENTITY usingSubscription.label "Mostrar sólo las carpetas suscritas">
@@ -20,7 +19,6 @@
 <!ENTITY overrideNamespaces.label "Permitir que el servidor reemplace estos espacios de nombres">
 <!ENTITY overrideNamespaces.accesskey "A">
 <!ENTITY pop3Desc.label "Al descargar correo POP de este servidor, use la siguiente carpeta para el correo nuevo:">
-<!ENTITY folderStorage.label "Dónde guardar el correo">
 <!ENTITY globalInbox.label "Bandeja de entrada global (cuenta Carpetas locales)">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Bandeja de entrada para la cuenta de este servidor">

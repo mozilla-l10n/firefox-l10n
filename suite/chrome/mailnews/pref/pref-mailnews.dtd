@@ -3,10 +3,6 @@
 <!ENTITY generalSettings.caption "Configuración general">
 <!ENTITY confirmMove.label "Confirmar cuando se muevan carpetas a la papelera">
 <!ENTITY confirmMove.accesskey "C">
-<!ENTITY useMessenger.label "Utilizar Mail para aplicaciones basadas en MAPI">
-<!ENTITY useMessenger.accesskey "U">
-<!ENTITY autounzip.label "Expandir automáticamente archivos ZIP al grabar los adjuntos">
-<!ENTITY autounzip.accesskey "A">
 <!ENTITY preserveThreading.label "Preservar las conversaciones al ordenar mensajes">
 <!ENTITY preserveThreading.accesskey "v">
 <!ENTITY defaultMailSettings.description "Hacer que &brandShortName; sea la aplicación por defecto para:">

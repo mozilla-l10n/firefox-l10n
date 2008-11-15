@@ -10,7 +10,6 @@
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newAccountCmd.label "Cuenta…">
 <!ENTITY newAccountCmd.accesskey "a">
-<!ENTITY openMessageMenu.label "Abrir">
 <!ENTITY openMessageFileCmd.label "Abrir archivo…">
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY openAttachmentCmd.label "Adjuntos">
@@ -35,7 +34,6 @@
 <!ENTITY getNextNMsgCmd.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Procesar mensajes no enviados">
 <!ENTITY sendUnsentCmd.accesskey "m">
-<!ENTITY loadFirstDraft.label "Cargar borrador antes">
 <!ENTITY subscribeCmd.label "Suscribirse…">
 <!ENTITY subscribeCmd.accesskey "b">
 <!ENTITY renameFolder.label "Renombrar carpeta…">
@@ -59,7 +57,6 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Vista preliminar">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "o">
 <!ENTITY deleteMsgCmd.label "Eliminar mensaje">
@@ -85,8 +82,6 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Mensajes señalados">
 <!ENTITY selectFlaggedCmd.accesskey "d">
-<!ENTITY selectInvertCmd.label ".Invertir Selección">
-<!ENTITY selectInvertCmd.accesskey "i">
 <!ENTITY folderPropsCmd.label "Propiedades…">
 <!ENTITY folderPropsFolderCmd.label "Propiedades de carpeta…">
 <!ENTITY folderPropsNewsgroupCmd.label "Propiedades del grupo…">
@@ -101,12 +96,8 @@
 <!ENTITY redoCopyMsgCmd.label "Rehacer 'Copiar mensaje'">
 <!ENTITY undoDefaultCmd.label "Deshacer">
 <!ENTITY redoDefaultCmd.label "Rehacer">
-<!ENTITY editDraftCmd.label "Editar borrador">
-<!ENTITY editDraftCmd.accesskey "b">
 <!ENTITY showMessengerToolbarCmd.label "Barra de herramientas de correo">
 <!ENTITY showMessengerToolbarCmd.accesskey "o">
-<!ENTITY customizeToolbar.label "Personalizar…">
-<!ENTITY customizeToolbar.accesskey "P">
 <!ENTITY showSearchToolbarCmd.label "Barra de búsqueda">
 <!ENTITY showSearchToolbarCmd.accesskey "e">
 <!ENTITY showLocationToolbarCmd.label "Barra de direcciones">
@@ -169,8 +160,6 @@
 <!ENTITY threads.accesskey "v">
 <!ENTITY allMsgsCmd.label "Todas">
 <!ENTITY allMsgsCmd.accesskey "t">
-<!ENTITY expandOrCollapseMenu.label "Expandir/contraer">
-<!ENTITY expandOrCollapseMenu.accesskey "x">
 <!ENTITY expandAllThreadsCmd.label "Expandir todas las conversaciones">
 <!ENTITY expandAllThreadsCmd.accesskey "E">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -191,8 +180,6 @@
 <!ENTITY headersAllCmd.accesskey "a">
 <!ENTITY headersNormalCmd.label "Normal">
 <!ENTITY headersNormalCmd.accesskey "n">
-<!ENTITY headersBriefCmd.label ".Abreviado">
-<!ENTITY headersBriefCmd.accesskey "b">
 <!ENTITY bodyMenu.label "Cuerpo del mensaje como">
 <!ENTITY bodyMenu.accesskey "u">
 <!ENTITY bodyAllowHTML.label "HTML original">
@@ -210,9 +197,6 @@
 <!ENTITY pageSourceCmd.label "Formato original del mensaje">
 <!ENTITY pageSourceCmd.accesskey "g">
 <!ENTITY pageSourceCmd.key "u">
-<!ENTITY translateMenu.label ".Traducir">
-<!ENTITY searchMenu.label "Buscar">
-<!ENTITY searchMenu.accesskey "s">
 <!ENTITY findCmd.label "Buscar en este mensaje…">
 <!ENTITY findCmd.accesskey "B">
 <!ENTITY findCmd.key "f">
@@ -224,18 +208,8 @@
 <!ENTITY findPrevCmd.accesskey "i">
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY searchCurrentCmd.label ".Buscar en &lt;actual&gt;">
-<!ENTITY searchCurrentCmd.accesskey "">
-<!ENTITY searchParentCmd.label ".Buscar en &lt;superior&gt;">
-<!ENTITY searchParentCmd.accesskey "">
-<!ENTITY searchParentParentCmd.label ".Buscar en &lt;superior superior&gt;">
-<!ENTITY searchParentParentCmd.accesskey "">
 <!ENTITY goMenu.label "Ir">
 <!ENTITY goMenu.accesskey "i">
-<!ENTITY firstUnreadMsgCmd.label ".Primer mensaje no leído">
-<!ENTITY firstUnreadMsgCmd.accesskey "n">
-<!ENTITY firstFlaggedMsgCmd.label ".Primer mensaje señalado">
-<!ENTITY firstFlaggedMsgCmd.accesskey "s">
 <!ENTITY nextMenu.label "Siguiente">
 <!ENTITY nextMenu.accesskey "s">
 <!ENTITY nextMsgCmd.label "Mensaje">
@@ -246,7 +220,6 @@
 <!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextFlaggedMsgCmd.label "Mensaje señalado">
 <!ENTITY nextFlaggedMsgCmd.accesskey "s">
-<!ENTITY nextUnflaggedMsgCmd.label "Mensaje sin señalar">
 <!ENTITY nextUnreadThread.label "Conversación no leída">
 <!ENTITY nextUnreadThread.accesskey "v">
 <!ENTITY nextUnreadThread.key "t">
@@ -264,10 +237,6 @@
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Mensaje señalado">
 <!ENTITY prevFlaggedMsgCmd.accesskey "s">
-<!ENTITY backCmd.label ".Atrás">
-<!ENTITY backCmd.accesskey "a">
-<!ENTITY forwardCmd.label ".Reenviar">
-<!ENTITY forwardCmd.accesskey "r">
 <!ENTITY startPageCmd.label "Página de inicio del correo">
 <!ENTITY startPageCmd.accesskey "i">
 <!ENTITY msgMenu.label "Mensaje">
@@ -325,10 +294,6 @@
 <!ENTITY fileHereMenu.accesskey "A">
 <!ENTITY copyHereMenu.label "Copiar aquí">
 <!ENTITY copyHereMenu.accesskey "C">
-<!ENTITY addSenderToAddressBookCmd.label ".Añadir remitente a la libreta de direcciones">
-<!ENTITY addSenderToAddressBookCmd.accesskey "s">
-<!ENTITY addAllToAddressBookCmd.label ".Añadir todos a la libreta de direcciones">
-<!ENTITY addAllToAddressBookCmd.accesskey "a">
 <!ENTITY tagMenu.label "Etiqueta">
 <!ENTITY tagMenu.accesskey "E">
 <!ENTITY tagCustomize.label "Personalizar…">
@@ -348,8 +313,6 @@
 <!ENTITY markAsReadCmd.label "Como leídos">
 <!ENTITY markAsReadCmd.accesskey "l">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "Como no leídos">
-<!ENTITY markAsUnreadCmd.accesskey "n">
 <!ENTITY markThreadAsReadCmd.label "Conversación como leída">
 <!ENTITY markThreadAsReadCmd.accesskey "C">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -438,8 +401,6 @@
 <!ENTITY junkButton.tooltip "Marcar los mensajes seleccionados como correo basura">
 <!ENTITY notJunkButton.tooltip "Marcar los mensajes seleccionados como correo normal">
 <!ENTITY statusText.label "Hecho">
-<!ENTITY unreadCountText.label "No leídos: ">
-<!ENTITY totalCountText.label " Total: ">
 <!ENTITY contextOpenNewWindow.label "Abrir el mensaje en una ventana nueva">
 <!ENTITY contextOpenNewWindow.accesskey "v">
 <!ENTITY contextEditAsNew.label "Editar como nuevo…">

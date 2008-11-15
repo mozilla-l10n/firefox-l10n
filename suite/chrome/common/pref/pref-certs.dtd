@@ -36,8 +36,6 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY resetsettings.label "Reiniciar preferencias">
-<!ENTITY resetpreferences.label "Reiniciar preferencias…">
 <!ENTITY managecerts.caption "Administrar certificados">
 <!ENTITY managecerts.text "Usar el administrador de certificados para gestionar sus certificados personales, así como los de otras personas y autoridades certificadoras.">
 <!ENTITY managecerts.button "Administrar certificados…">

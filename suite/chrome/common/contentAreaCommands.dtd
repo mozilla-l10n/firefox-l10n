@@ -14,8 +14,6 @@
 <!ENTITY openFrameCmdInTab.accesskey "T">
 <!ENTITY showOnlyThisFrameCmd.label "Mostrar sólo este marco">
 <!ENTITY showOnlyThisFrameCmd.accesskey "o">
-<!ENTITY addToBookmarksCmd.label "Añadir esta página a marcadores">
-<!ENTITY addToBookmarksCmd.accesskey "d">
 <!ENTITY goBackCmd.label "Anterior">
 <!ENTITY goBackCmd.accesskey "t">
 <!ENTITY goForwardCmd.label "Siguiente">

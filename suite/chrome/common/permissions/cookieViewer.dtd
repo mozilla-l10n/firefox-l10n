@@ -31,7 +31,5 @@
 <!ENTITY removepermission.accesskey "R">
 <!ENTITY removeallpermissions.label "Eliminar todos los sitios">
 <!ENTITY removeallpermissions.accesskey "E">
-<!ENTITY canSet.label "puede guardar cookies">
-<!ENTITY cannotSet.label "no puede gardar cookies">
 <!ENTITY futureCookies.label "No permitir a los sitios que enviaron cookies eliminadas enviar cookies en el futuro">
 <!ENTITY futureCookies.accesskey "N">

@@ -21,7 +21,6 @@
 <!ENTITY attachMenu.label "Adjuntar">
 <!ENTITY attachMenu.accesskey "t">
 <!ENTITY attachFileCmd.label "Archivo(s)…">
-<!ENTITY attachFileCmd.key "">
 <!ENTITY attachFileCmd.accesskey "v">
 <!ENTITY attachPageCmd.label "Página web…">
 <!ENTITY attachPageCmd.accesskey "W">
@@ -38,7 +37,6 @@
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">
-<!ENTITY closeCmd.label "Cerrar">
 <!ENTITY editRewrapCmd.label "Reajuste de línea">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "j">
@@ -59,39 +57,10 @@
 <!ENTITY showComposeToolbarCmd.accesskey "o">
 <!ENTITY showFormatToolbarCmd.label "Barra de herramientas de formato">
 <!ENTITY showFormatToolbarCmd.accesskey "F">
-<!ENTITY showParagraphMarksCmd.label ".Mostrar marcadores de párrafo">
-<!ENTITY pageSourceCmd.label ".Código fuente de la página">
-<!ENTITY pageSourceCmd.accesskey "u">
-<!ENTITY pageInfoCmd.label ".Información de la página">
-<!ENTITY pageInfoCmd.accesskey "I">
-<!ENTITY dcharMenu.label "Conjunto de caracteres">
-<!ENTITY dcharIso1Cmd.label "Occidental (ISO-8859-1)">
-<!ENTITY dcharIso2Cmd.label "Centroeuropeo (ISO-8859-2)">
-<!ENTITY dcharIso3Cmd.label "Sur de Europa (ISO-8859-3)">
-<!ENTITY dcharIso4Cmd.label "Báltico (ISO-8859-4)">
-<!ENTITY dcharIso9Cmd.label "Turco (ISO-8859-9)">
-<!ENTITY dcharIso10Cmd.label "Nórdico (ISO-8859-10)">
-<!ENTITY dcharIso14Cmd.label "Celta (ISO-8859-14)">
-<!ENTITY dcharIso15Cmd.label "Occidental (ISO-8859-15)">
-<!ENTITY dcharJapanCmd.label "Japonés (ISO-2022-JP)">
-<!ENTITY dcharTradChiBigCmd.label "Chino tradicional (Big5)">
-<!ENTITY dcharSimpChiGbCmd.label "Chino simplificado (GB2312)">
-<!ENTITY dcharKoreanCmd.label "Coreano (EUC-KR)">
-<!ENTITY dcharUtf8Cmd.label "Unicode (UTF-8)">
-<!ENTITY dcharRusCmd.label "Cirílico (KOI8-R)">
-<!ENTITY dcharUkrCmd.label "Cirílico/Ucraniano (KOI8-U)">
-<!ENTITY dcharIsoGreekCmd.label "Griego (ISO-8859-7)">
-<!ENTITY dcharVietViCmd.label "Vietnamita (VISCII)">
-<!ENTITY dcharThaiCmd.label "Tailandés (TIS-620)">
-<!ENTITY dcharArmCmd.label "Armenio (ARMSCII-8)">
-<!ENTITY dcharDEFAULT.label "Cambiar el conjunto de caracteres por defecto de Correo">
 <!ENTITY formatMenu.label "Formato">
 <!ENTITY formatMenu.accesskey "o">
 <!ENTITY optionsMenu.label "Opciones">
 <!ENTITY optionsMenu.accesskey "p">
-<!ENTITY doNotCompleteAddrCmd.label ".No completar la dirección">
-<!ENTITY showMatchingAddrCmd.label ".Mostrar la dirección que coincida">
-<!ENTITY addSignatureCmd.label ".Añadir archivo de firma">
 <!ENTITY quoteCmd.label "Citar mensaje">
 <!ENTITY quoteCmd.accesskey "m">
 <!ENTITY selectAddressCmd.label "Seleccionar direcciones…">
@@ -126,25 +95,10 @@
 <!ENTITY htmlFormatCmd.accesskey "r">
 <!ENTITY bothFormatCmd.label "Texto simple y texto enriquecido (HTML)">
 <!ENTITY bothFormatCmd.accesskey "l">
-<!ENTITY UuencodeAttachmentCmd.label "Uuencode en vez de MIME para los archivos adjuntos">
 <!ENTITY fileCarbonCopyCmd.label "Enviar una copia a">
 <!ENTITY fileCarbonCopyCmd.accesskey "v">
 <!ENTITY fileHereMenu.label "Archivar aquí">
-<!ENTITY debugMenu.label "Depurar">
-<!ENTITY outputTextCmd.label "Texto de salida">
-<!ENTITY outputHTMLCmd.label "Generar HTML">
-<!ENTITY insertTextCmd.label "Insertar texto">
-<!ENTITY testSelectionCmd.label "Probar selección">
-<!ENTITY testTableLayoutCmd.label "Probar el diseño de la tabla">
-<!ENTITY testDocumentCmd.label "Probar documento">
-<!ENTITY showEmbeddedCmd.label "Mostrar objetos empotrados">
-<!ENTITY dumpContentCmd.label "Volcar el árbol de contenido">
-<!ENTITY runUnitTestsCmd.label "Ejecutar pruebas unitarias">
-<!ENTITY startLogCmd.label "Iniciar registro">
-<!ENTITY stopLogCmd.label "Detener registro">
-<!ENTITY runLogCmd.label "Ejecutar registro">
 <!ENTITY sendButton.label "Enviar">
-<!ENTITY quoteButton.label "Entrecomillar">
 <!ENTITY addressButton.label "Direcciones">
 <!ENTITY attachButton.label "Adjuntar">
 <!ENTITY spellingButton.label "Ortografía">
@@ -154,14 +108,10 @@
 <!ENTITY formatToolbar.tooltip "Barra de herramientas de formato">
 <!ENTITY sendButton.tooltip "Enviar este mensaje ahora">
 <!ENTITY sendlaterButton.tooltip "Enviar este mensaje más tarde">
-<!ENTITY quoteButton.tooltip "Entrecomillar el mensaje anterior">
 <!ENTITY addressButton.tooltip "Seleccionar uno o varios destinatarios de una libreta de direcciones">
 <!ENTITY attachButton.tooltip "Adjuntar un archivo a este mensaje">
 <!ENTITY saveButton.tooltip "Guardar este mensaje">
 <!ENTITY stopButton.tooltip "Detener la transferencia actual">
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
 <!ENTITY spellCheckNoSuggestions.label "(no hay sugerencias)">
 <!ENTITY spellCheckIgnoreWord.label "Ignorar palabra">
 <!ENTITY spellCheckIgnoreWord.accesskey "I">

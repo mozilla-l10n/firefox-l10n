@@ -27,5 +27,3 @@
 <!ENTITY browse.accesskey "x">
 <!ENTITY preview.label "Escuchar">
 <!ENTITY preview.accesskey "u">
-<!ENTITY soundURL.label "URL del sonido:">
-<!ENTITY soundURL.accesskey "U">

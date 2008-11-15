@@ -6,14 +6,10 @@
 <!ENTITY colors.label "Colores">
 <!ENTITY navigator.label "Navegador">
 <!ENTITY history.label "Historial">
-<!ENTITY bidi.label "Opciones bidireccionales">
 <!ENTITY languages.label "Idiomas">
 <!ENTITY applications.label "Aplic. auxiliares">
 <!ENTITY locationBar.label "Barra de direcciones">
 <!ENTITY tabWindows.label "Navegación con pestañas">
-<!ENTITY compose.label "Composer">
-<!ENTITY editing.label "Configuración de página nueva">
-<!ENTITY publish.label "Publicar">
 <!ENTITY offline.label "Sin conexión">
 <!ENTITY security.label "Privacidad y seguridad">
 <!ENTITY cookies.label "Cookies">

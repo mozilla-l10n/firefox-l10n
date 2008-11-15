@@ -44,7 +44,6 @@
 <!ENTITY shortcutURL.label "Palabra clave:">
 <!ENTITY shortcutURL.accesskey "c">
 <!ENTITY destination.label "Destino:">
-<!ENTITY destination.accesskey "D">
 <!ENTITY newFolder.label "Nueva carpeta…">
 <!ENTITY newFolder.accesskey "v">
 <!ENTITY addGroup.label "Archivar este grupo de pestañas">

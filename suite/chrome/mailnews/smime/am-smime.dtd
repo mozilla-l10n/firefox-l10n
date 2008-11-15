@@ -8,7 +8,6 @@
 <!ENTITY alwaysEncryptMessage.label "Siempre (no podrá enviar si algún receptor carece de certificado)">
 <!ENTITY alwaysEncryptMessage.accesskey "v">
 <!ENTITY encryptionCert.message "Usar este certificado para cifrar/descifrar mensajes enviados a Vd.:">
-<!ENTITY encryptionCert.notselected "No hay ningún certificado definido">
 <!ENTITY digitalSign.certificate.button "Seleccionar…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Limpiar">
@@ -21,4 +20,3 @@
 <!ENTITY signMessage.label "Firmar mensajes digitalmente">
 <!ENTITY signMessage.accesskey "D">
 <!ENTITY signingCert.message "Usar este certificado para firmar los mensajes que envíe:">
-<!ENTITY signingCert.notselected "No hay ningún certificado definido">

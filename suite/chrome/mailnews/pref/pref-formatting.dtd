@@ -1,6 +1,5 @@
 <!--null-->
 <!ENTITY pref.formatting.title "Formato de envío">
-<!ENTITY sendMail.label "Formato de envío">
 <!ENTITY sendMaildesc.label "Cuando se envíen mensajes con formato (HTML) y uno o más destinatarios no estén listados como capacitados para recibir HTML:">
 <!ENTITY askMe.label "Preguntarme qué hacer (se le pedirá que escoja un formato)">
 <!ENTITY askMe.accesskey "P">
@@ -11,7 +10,6 @@
 <!ENTITY sendBoth.label "Enviar el mensaje en ambos formatos, texto sin formato y HTML (tamaño del mensaje mayor)">
 <!ENTITY sendBoth.accesskey "n">
 <!ENTITY override.label "Puede invalidar estas configuraciones para mensajes individuales utilizando el menú Opciones en la ventana de redacción de correo.">
-<!ENTITY receiveHTML.label "Si sabe que un destinatario en particular puede recibir correo en HTML, desmarque la casilla 'Enviar correo electrónico como texto sin formato (sin HTML)' en la tarjeta de la libreta de direcciones del destinatario.">
 <!ENTITY domain.title "Dominios de HTML y texto sin formato">
 <!ENTITY domaindesc.label "Cuando envíe un mensaje a una dirección en uno de los dominios listados abajo, se envía automáticamente el mensaje en el formato preferido (texto con o sin formato).">
 <!ENTITY HTMLdomaintitle.label "Dominios HTML">

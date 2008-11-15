@@ -32,7 +32,6 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "p">
 <!ENTITY deleteCmd.label "Eliminar">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "E">
 <!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.key "A">
@@ -75,6 +74,20 @@
 <!ENTITY bidiSwitchTextDirectionItem.label "Cambiar dirección del texto">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "C">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
+<!ENTITY customizeToolbar.toolbarmode.label "Configuración de esta barra de herramientas">
+<!ENTITY customizeToolbar.toolbarmode.accesskey "t">
+<!ENTITY customizeToolbar.iconsAndText.label "Iconos y texto">
+<!ENTITY customizeToolbar.iconsAndText.accesskey "x">
+<!ENTITY customizeToolbar.icons.label "Iconos">
+<!ENTITY customizeToolbar.icons.accesskey "I">
+<!ENTITY customizeToolbar.text.label "Texto">
+<!ENTITY customizeToolbar.text.accesskey "T">
+<!ENTITY customizeToolbar.useSmallIcons.label "Usar iconos pequeños">
+<!ENTITY customizeToolbar.useSmallIcons.accesskey "s">
+<!ENTITY customizeToolbar.labelAlignEnd.label "Mostrar texto junto al icono">
+<!ENTITY customizeToolbar.labelAlignEnd.accesskey "o">
+<!ENTITY customizeToolbar.useDefault.label "Usar valores por omisión">
+<!ENTITY customizeToolbar.useDefault.accesskey "m">
 <!ENTITY allowPopups.accesskey "p">
 <!ENTITY showPopupManager.label "Administrar ventanas emergentes">
 <!ENTITY showPopupManager.accesskey "A">
