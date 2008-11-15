@@ -3,6 +3,8 @@
 <!ENTITY itemUpdate.label "Actualizar">
 <!ENTITY itemNetworking.label "Red y espacio en disco">
 <!ENTITY itemCertificates.label "Certificados">
+<!ENTITY enableGloda.label "Activar indexador de mensajes">
+<!ENTITY enableGloda.accesskey "x">
 <!ENTITY showCondensedAddresses.label "Mostrar sólo el atributo 'nombre mostrado' para las personas de mi libreta de direcciones">
 <!ENTITY showCondensedAddresses.accesskey "s">
 <!ENTITY autoMarkAsRead.label "Marcar mensajes automáticamente como leídos">

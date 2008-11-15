@@ -13,5 +13,5 @@
 <!ENTITY purge2.label "días">
 <!ENTITY whitelist.label "No marcar mensajes como correo basura si el remitente está en: ">
 <!ENTITY whitelist.accesskey "N">
-<!ENTITY ispHeaders.label "Confiar en las cabeceras de correo basuras establecidas por: ">
+<!ENTITY ispHeaders.label "Confiar en las cabeceras de correo basura enviadas por: ">
 <!ENTITY ispHeaders.accesskey "C">

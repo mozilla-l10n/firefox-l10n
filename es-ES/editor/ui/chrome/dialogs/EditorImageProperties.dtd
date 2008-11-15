@@ -37,7 +37,6 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY windowTitle.label "Propiedades de la imagen">
 <!ENTITY pixelsPopup.value "píxeles">
-<!ENTITY percentPopup.value "porcentaje">
 <!ENTITY locationEditField.label "URL de la imagen:">
 <!ENTITY locationEditField.accessKey "L">
 <!ENTITY locationEditField.tooltip "Teclee el nombre de archivo de la imagen o su ubicación">
@@ -50,7 +49,6 @@
 <!ENTITY noAltText.label "No usar texto alternativo">
 <!ENTITY noAltText.accessKey "n">
 <!ENTITY previewBox.label "Vista preliminar">
-<!ENTITY MoreFewerButton.tooltip "Mostrar más o menos propiedades a editar">
 <!ENTITY actualSize.label "Tamaño real:">
 <!ENTITY actualSizeRadio.label "Tamaño real">
 <!ENTITY actualSizeRadio.accessKey "A">
@@ -78,7 +76,6 @@
 <!ENTITY wrapRightPopup.value "El texto fluye por la derecha">
 <!ENTITY wrapLeftPopup.value "El texto fluye por la izquierda">
 <!ENTITY spacingBox.label "Espacio">
-<!ENTITY spacingBox.tooltip "Teclee un número para la cantidad de espacio alrededor de la imagen">
 <!ENTITY leftRightEditField.label "Izquierda y derecha:">
 <!ENTITY leftRightEditField.accessKey "I">
 <!ENTITY topBottomEditField.label "Parte superior y parte inferior:">
@@ -87,10 +84,6 @@
 <!ENTITY borderEditField.accessKey "B">
 <!ENTITY showImageLinkBorder.label "Mostrar el borde alrededor de la imagen-enlace">
 <!ENTITY showImageLinkBorder.accessKey "B">
-<!ENTITY makePageBackgroundCheckbox.label "Hacer fondo de página">
-<!ENTITY makePageBackgroundCheckbox.tooltip "Usar imagen como fondo para su página">
-<!ENTITY editImageButton.label "Editar imagen">
-<!ENTITY editImageButton.tooltip "Editar archivo de imagen en otro programa">
 <!ENTITY imageInputTab.label "Formulario">
 <!ENTITY imageLocationTab.label "Ubicación">
 <!ENTITY imageDimensionsTab.label "Dimensiones">

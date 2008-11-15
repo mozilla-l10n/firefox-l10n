@@ -47,7 +47,3 @@
 <!ENTITY editmodeToolbarCmd.accesskey "c">
 <!ENTITY formatMenu.label "Formato">
 <!ENTITY formatMenu.accesskey "o">
-<!ENTITY helpMenu.label "Ayuda">
-<!ENTITY aboutCmd.label ".Acerca de">
-<!ENTITY editMode.label "Modo de edición:">
-<!ENTITY statusText.label "Página cargada">

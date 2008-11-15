@@ -31,11 +31,6 @@
 <!ENTITY printCardViewCmd.key "P">
 <!ENTITY printAddressBook.label "Imprimir libreta de direcciones…">
 <!ENTITY printAddressBook.accesskey "A">
-<!ENTITY quitApplicationCmdWin.label "Salir">
-<!ENTITY quitApplicationCmdWin.accesskey "S">
-<!ENTITY quitApplicationCmd.label "Salir">
-<!ENTITY quitApplicationCmd.accesskey "S">
-<!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "e">
 <!ENTITY undoCmd.label "Deshacer">

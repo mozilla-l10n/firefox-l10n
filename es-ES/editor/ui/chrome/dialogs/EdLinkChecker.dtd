@@ -20,7 +20,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Charles Manxke (cmanske@netscape.com)
+   -   Charles Manske (cmanske@netscape.com)
    -   Proyecto NAVE (http://www.proyectonave.es/)
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -37,9 +37,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY windowTitle.label "Comprobar la dirección de imágenes y enlaces">
-<!ENTITY urlsNotFound.label "No se encontraron las siguientes direcciones de enlaces y/o imágenes:">
-<!ENTITY notFoundKey.label "(&quot;X&quot; = archivo no encontrado, &quot;?&quot; = superado el tiempo de espera para conectar).">
-<!ENTITY changeUrlButton.label "Cambiar la dirección del objeto seleccionado">
 <!ENTITY succeeded.label "Completado">
 <!ENTITY failed.label "Fallido">
 <!ENTITY closeButton.label "Cerrar">
