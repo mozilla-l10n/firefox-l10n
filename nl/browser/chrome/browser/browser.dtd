@@ -273,9 +273,9 @@
 <!ENTITY saveImageCmd.label           "Afbeelding opslaan als…">
 <!ENTITY saveImageCmd.accesskey       "n">
 <!ENTITY saveVideoCmd.label           "Video opslaan als…">
-<!ENTITY saveVideoCmd.accesskey       "v">
+<!ENTITY saveVideoCmd.accesskey       "n">
 <!ENTITY saveAudioCmd.label           "Audio opslaan als…">
-<!ENTITY saveAudioCmd.accesskey       "v">
+<!ENTITY saveAudioCmd.accesskey       "n">
 <!ENTITY sendImageCmd.label           "Afbeelding versturen…">
 <!ENTITY sendImageCmd.accesskey       "s">
 <!ENTITY sendVideoCmd.label           "Video versturen…">
@@ -291,9 +291,9 @@
 <!ENTITY copyImageContentsCmd.label   "Afbeelding kopiëren">
 <!ENTITY copyImageContentsCmd.accesskey  "k">
 <!ENTITY copyVideoURLCmd.label        "Videolocatie kopiëren">
-<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyVideoURLCmd.accesskey    "k">
 <!ENTITY copyAudioURLCmd.label        "Audiolocatie kopiëren">
-<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.accesskey    "k">
 <!ENTITY blockImageCmd.accesskey      "b">
 <!ENTITY metadataCmd.label            "Eigenschappen">
 <!ENTITY metadataCmd.accesskey        "E">
@@ -307,9 +307,9 @@
 <!ENTITY mediaPlay.accesskey         "s">
 <!ENTITY mediaPause.label            "Pause">
 <!ENTITY mediaPause.accesskey        "P">
-<!ENTITY mediaMute.label             "Mute">
-<!ENTITY mediaMute.accesskey         "M">
-<!ENTITY mediaUnmute.label           "Unmute">
+<!ENTITY mediaMute.label             "Dempen">
+<!ENTITY mediaMute.accesskey         "m">
+<!ENTITY mediaUnmute.label           "Ondempen">
 <!ENTITY mediaUnmute.accesskey       "m">
 <!ENTITY mediaShowControls.label     "Bediening tonen">
 <!ENTITY mediaShowControls.accesskey "C">
