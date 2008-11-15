@@ -188,16 +188,16 @@
 <!ENTITY urlbar.emptyText             "Hľadať v záložkách a histórii">
 <!ENTITY urlbar.accesskey           "d">
 
-<!-- 
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
-  
+
   Unix: Ctrl+J (0.8, 0.9 support)
         Ctrl+K (cross platform binding)
   Mac:  Ctrl+K (cross platform binding)
   Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat) 
+        Ctrl+E (IE compat)
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -207,7 +207,7 @@
   for people to switch to Linux.
 
   Do *not* tamper with these values without talking to ben@mozilla.org
-  
+
  -->
 <!ENTITY searchFocus.commandkey        "k">
 <!ENTITY searchFocus.commandkey2       "e">
@@ -228,7 +228,7 @@
 <!ENTITY reloadFrameCmd.accesskey "b">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Zobraziť zdrojový kód výberu">
 <!ENTITY viewPartialSourceForMathMLCmd.label "Zobraziť zdrojový kód MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "r">
 <!ENTITY viewPageSourceCmd.label      "Zobraziť zdrojový kód stránky">

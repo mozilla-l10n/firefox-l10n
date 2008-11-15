@@ -3,11 +3,11 @@
 <!ENTITY itemPasswords.label                   "Heslá">
 <!ENTITY itemAntiVirus.label                   "Antivírus">
 
-<!-- Junk Mail Controls --> 
+<!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro                        "Ak chcete zmeniť špecifické nastavenia nevyžiadanej pošty svojho účtu, prejdite do jeho nastavenia.">
 <!ENTITY manualMark.label                      "Keď manuálne označím správy ako nevyžiadané:">
 <!ENTITY manualMark.accesskey                  "K">
-<!ENTITY manualMarkModeMove.label              "Presunúť ich do priečinka &quot;SPAM&quot; v danom účte"> 
+<!ENTITY manualMarkModeMove.label              "Presunúť ich do priečinka &quot;SPAM&quot; v danom účte">
 <!ENTITY manualMarkModeMove.accesskey          "u">
 <!ENTITY manualMarkModeDelete.label            "Odstrániť ich">
 <!ENTITY manualMarkModeDelete.accesskey        "d">
@@ -20,7 +20,7 @@
 <!ENTITY resetTrainingData.label               "Vymazať zozbierané údaje">
 <!ENTITY resetTrainingData.accesskey           "V">
 
-<!-- Phishing Detector --> 
+<!-- Phishing Detector -->
 <!ENTITY phishingDetector1.intro               "&brandShortName; môže analyzovať prichádzajúcu poštu na prípadné podvodné správy tým, že odhalí techniku použitú na vaše oklamanie.">
 <!ENTITY enablePhishingDetector1.label         "Upozorniť v prípade, ak je čítaná správa podozrivá">
 <!ENTITY enablePhishingDetector1.accesskey     "U">

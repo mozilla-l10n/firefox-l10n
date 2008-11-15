@@ -17,7 +17,6 @@
 <!ENTITY composingMessages.label          "Písanie správ">
 <!ENTITY format.label                     "Formát odosielaných správ">
 <!ENTITY return.label                     "Potvrdenie o prečítaní">
-<!ENTITY disk.label                       "Miesto na disku">
 <!ENTITY junk.label                       "Nevyžiadaná pošta">
 <!ENTITY tags.label                       "Popisy">
 <!ENTITY characterEncoding.label          "Kódovanie">

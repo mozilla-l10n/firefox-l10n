@@ -3,7 +3,7 @@
 <!ENTITY messengerCmd.label					"Pošta a diskusné skupiny">
 <!ENTITY messengerCmd.accesskey				"o">
 <!ENTITY messengerCmd.commandkey			"2">
-<!ENTITY addressBookCmd.label				"Adresár">  
+<!ENTITY addressBookCmd.label				"Adresár">
 <!ENTITY addressBookCmd.accesskey			"A">
 <!ENTITY addressBookCmd.commandkey			"5">
 

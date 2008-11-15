@@ -3,7 +3,7 @@
 <!ENTITY safeb.palm.message.p1 "Táto stránka bola pravdepodobne vytvorená na oklamanie používateľov za účelom získavania osobných alebo finančných údajov. Zadanie osobných údajov na tieto stránky môže viesť k zneužitiu vašej identity alebo iným podvodom. &#160; ">
 <!ENTITY safeb.palm.message.p1.linkText "Čítať viac &#187;">
 <!ENTITY safeb.palm.p1.linkStatusText "Čítať viac &#133;">
-                                      
+
 <!ENTITY safeb.palm.message.p2.start "Takéto typy falšovania webových stránok sú zneužívané pri rôznych podvodoch, kedy sa snažia rôzni podvodníci napodobniť originálne webové stránky, ktorým veríte. Ďalšie informácie nájdete na stránke venovanej tomu, ">
 <!ENTITY safeb.palm.message.p2.linkText "ako vás &brandShortName; chráni">
 <!ENTITY safeb.palm.message.p2.end " pred podvodnými útokmi.">

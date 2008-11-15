@@ -58,7 +58,7 @@
 <!ENTITY emptyTrashOnExit.accesskey "u">
 <!ENTITY loginAtStartup.label "Pri štarte skontrolovať novú poštu">
 <!ENTITY loginAtStartup.accesskey "v">
-<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
 	 of messages between them
 -->

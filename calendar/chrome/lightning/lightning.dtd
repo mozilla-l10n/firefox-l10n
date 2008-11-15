@@ -43,7 +43,7 @@
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
-   
+
 <!-- Tools menu -->
 <!ENTITY lightning.taskLabel "Lightning">
 

@@ -37,7 +37,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-   
+
 <!ENTITY folderProps.windowtitle.label          "Vlastnosti">
 
 <!ENTITY generalInfo.label                      "Všeobecné informácie">
@@ -47,7 +47,7 @@
 <!ENTITY folderCharsetOverride.accesskey        "P">
 <!ENTITY folderRebuildSummaryFile.label         "Preindexovať">
 <!ENTITY folderRebuildSummaryFile.accesskey     "x">
-<!ENTITY folderRebuildSummaryFileTip.label      "Vytvorí nový indexový súbor">    
+<!ENTITY folderRebuildSummaryFileTip.label      "Vytvorí nový indexový súbor">
 
 <!ENTITY retention.label                        "Pravidlá manipulácie so správami">
 <!ENTITY retentionUseDefault.label              "Použiť predvolené nastavenia servera">
@@ -80,8 +80,8 @@
 
 <!ENTITY folderProps.name.label                 "Názov:">
 <!ENTITY folderProps.name.accesskey             "N">
-<!ENTITY folderProps.location.label             "Umiestnenie:">                   
-<!ENTITY folderProps.location.accesskey         "U">                           
+<!ENTITY folderProps.location.label             "Umiestnenie:">
+<!ENTITY folderProps.location.accesskey         "U">
 
 <!ENTITY folderSharingTab.label                 "Zdieľanie">
 <!ENTITY privileges.button.label                "Prístupové práva…">

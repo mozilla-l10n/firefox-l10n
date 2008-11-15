@@ -35,12 +35,6 @@
 <!ENTITY printAddressBook.label                         "Tlačiť adresár…">
 <!ENTITY printAddressBook.accesskey                     "d">
 
-<!ENTITY quitApplicationCmdWin.label                    "Koniec">
-<!ENTITY quitApplicationCmdWin.accesskey                "K">
-<!ENTITY quitApplicationCmd.label                       "Koniec">
-<!ENTITY quitApplicationCmd.accesskey                   "K">
-<!ENTITY quitApplicationCmd.key                         "Q">
-
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Upraviť">
 <!ENTITY editMenu.accesskey                             "U">

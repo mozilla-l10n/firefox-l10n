@@ -47,7 +47,6 @@
 <!ENTITY statusColumn.label "Stav">
 <!ENTITY sizeColumn.label "Veľkosť">
 <!ENTITY junkStatusColumn.label "Spam">
-<!ENTITY linesColumn.label "Riadky">
 <!ENTITY unreadColumn.label "Neprečítané">
 <!ENTITY totalColumn.label "Celkovo">
 <!ENTITY readColumn.label "Prečítané">

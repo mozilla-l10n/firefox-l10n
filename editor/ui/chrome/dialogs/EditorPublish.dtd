@@ -35,14 +35,11 @@
    -
    - ***** END LICENSE BLOCK ***** -->
    
-   
 <!-- Window title -->
 <!ENTITY windowTitle.label          "Publikovanie stránky">
 <!ENTITY windowTitleSettings.label  "Nastavenia pre publikovanie">
-
 <!ENTITY publishTab.label           "Publikovať">
 <!ENTITY settingsTab.label          "Nastavenie">
-
 <!ENTITY publishButton.label        "Publikovať">
 
 <!-- Publish Tab Panel -->
@@ -72,10 +69,8 @@
 <!ENTITY filename.accesskey           "u">
 <!ENTITY filename.tooltip             "Zadajte názov tohto súboru, vrátane '.html' pre web stránku">
 <!ENTITY filenameExample.label        "napríklad: &quot;mojastranka.html&quot;">
-<!ENTITY relatedDocs.label            "Ďalšie súbory, ktoré sa budú publikovať:">
 <!ENTITY setDefaultButton.label       "Nastaviť ako predvolený">
 <!ENTITY setDefaultButton.accesskey   "d">
-<!ENTITY setDefSiteAndDir.label       "Nastaviť ako predvolený server a priečinok">
 <!ENTITY removeButton.label           "Odstrániť server">
 <!ENTITY removeButton.accesskey       "O">
 

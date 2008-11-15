@@ -42,7 +42,7 @@
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY preferencesCmd.label "Možnosti…">
-<!ENTITY preferencesCmd.key					"E">  
+<!ENTITY preferencesCmd.key					"E">
 <!ENTITY preferencesCmd.accesskey "M">
 <!ENTITY findTypeTextCmd.label "Hľadať počas písania textu na stránke">
 <!ENTITY findTypeTextCmd.accesskey "x">
@@ -56,13 +56,13 @@
 <!ENTITY showTaskbarCmd.label "Stavový riadok">
 <!ENTITY showTaskbarCmd.accesskey "S">
 
-<!ENTITY helpMenu.label					"Pomocník"> 
-<!ENTITY helpMenu.accesskey				"P"> 
+<!ENTITY helpMenu.label					"Pomocník">
+<!ENTITY helpMenu.accesskey			"P">
 
 <!ENTITY releaseCmd.label				"Poznámky k vydaniu">
-<!ENTITY releaseCmd.accesskey                   "P">
-<!ENTITY updateCmd.label                        "Kontrola aktualizácií…">
-<!ENTITY updateCmd.accesskey                    "a">
+<!ENTITY releaseCmd.accesskey   "P">
+<!ENTITY updateCmd.label        "Kontrola aktualizácií…">
+<!ENTITY updateCmd.accesskey    "a">
 <!ENTITY aboutCmd.label					"O programe &brandShortName;">
 <!ENTITY aboutCmd.accesskey				"m">
 <!ENTITY aboutCommPluginsCmd.label			"O zásuvných moduloch">
@@ -85,6 +85,21 @@
 <!ENTITY bidiSwitchTextDirectionItem.label        "Prepnúť smer textu">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "r">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
+<!ENTITY customizeToolbar.toolbarmode.label       "Nastavenia pre tento panel nástrojov">
+<!ENTITY customizeToolbar.toolbarmode.accesskey   "N">
+<!ENTITY customizeToolbar.iconsAndText.label      "Ikony a text">
+<!ENTITY customizeToolbar.iconsAndText.accesskey  "k">
+<!ENTITY customizeToolbar.icons.label             "Ikony">
+<!ENTITY customizeToolbar.icons.accesskey         "I">
+<!ENTITY customizeToolbar.text.label              "Text">
+<!ENTITY customizeToolbar.text.accesskey          "T">
+<!ENTITY customizeToolbar.useSmallIcons.label     "Použiť malé ikony">
+<!ENTITY customizeToolbar.useSmallIcons.accesskey "m">
+<!ENTITY customizeToolbar.labelAlignEnd.label     "Zobraziť text vedľa ikony">
+<!ENTITY customizeToolbar.labelAlignEnd.accesskey "Z">
+<!ENTITY customizeToolbar.useDefault.label        "Použiť predvolené nastavenia">
+<!ENTITY customizeToolbar.useDefault.accesskey    "o">
 
 <!-- Popup Blocked notification menu -->
 <!ENTITY allowPopups.accesskey        "P">

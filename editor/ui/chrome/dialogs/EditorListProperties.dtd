@@ -34,7 +34,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-   
+
 <!-- Window title -->
 <!ENTITY windowTitle.label "Vlastnosti zoznamu">
 
@@ -46,7 +46,6 @@
 <!ENTITY bulletList.value "Odrážky (nečíslovaný)">
 <!ENTITY numberList.value "Číslovaný">
 <!ENTITY definitionList.value "Definície">
-<!ENTITY changeListMsg.label "Pri zmene typu zoznamu:">
 <!ENTITY changeEntireListRadio.label "Zmeniť celý zoznam">
 <!ENTITY changeEntireListRadio.accessKey "c">
 <!ENTITY changeSelectedRadio.label "Zmeniť len označené položky">

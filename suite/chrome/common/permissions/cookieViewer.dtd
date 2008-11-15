@@ -3,8 +3,8 @@
 <!ENTITY     div.bannedservers.label        "Spravovať stránky, ktoré môžu a nemôžu ukladať cookies vo vašom počítači.">
 <!ENTITY     div.cookiesonsystem.label      "Zobraziť a odstrániť súbory cookies, ktoré sú uložené vo vašom počítači.">
 <!ENTITY     treehead.cookiename.label      "Názov cookie">
-<!ENTITY     treehead.cookiedomain.label    "Stránka"> 
-<!ENTITY     treehead.cookieexpires.label   "Platnosť do"> 
+<!ENTITY     treehead.cookiedomain.label    "Stránka">
+<!ENTITY     treehead.cookieexpires.label   "Platnosť do">
 <!ENTITY     treehead.infoselected.label    "Informácie o označenom cookie">
 <!ENTITY     button.removecookie.label      "Odstrániť cookie">
 <!ENTITY     button.removecookie.accesskey  "d">

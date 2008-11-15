@@ -53,7 +53,7 @@
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation "<h3>Preklad do slovenčiny</h3><ul><li>Branislav Rozbora</li><li>Vlado Valaštiak (wladow)</li></ul><h3>Korektúry</h3><ul><li>SlovakSoft</li></ul>"> 
+<!ENTITY credit.translation "<h3>Preklad do slovenčiny</h3><ul><li>Branislav Rozbora</li><li>Vlado Valaštiak (wladow)</li></ul><h3>Korektúry</h3><ul><li>SlovakSoft</li></ul>">
 
 
 <!ENTITY credit.powered     "Poháňané jadrom">

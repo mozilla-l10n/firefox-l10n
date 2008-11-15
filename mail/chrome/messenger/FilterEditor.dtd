@@ -36,4 +36,4 @@
 <!ENTITY ignoreThread.label "Ignorovať vlákno">
 <!ENTITY ignoreSubthread.label "Ignorovať podvlákno">
 <!ENTITY watchThread.label "Sledovať vlákno">
-<!ENTITY stopExecution.label "Zastaviť vykonávanie filtra">                           
+<!ENTITY stopExecution.label "Zastaviť vykonávanie filtra">

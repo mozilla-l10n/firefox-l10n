@@ -41,7 +41,6 @@
 <!ENTITY windowTitle.label "Vlastnosti obrázka">
 
 <!ENTITY pixelsPopup.value "bodov">
-<!ENTITY percentPopup.value "percent">
 
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Umiestnenie obrázka">
@@ -57,7 +56,6 @@
 <!ENTITY noAltText.accessKey "N">
 
 <!ENTITY previewBox.label "Ukážka obrázka">
-<!ENTITY MoreFewerButton.tooltip "Zobraziť viac alebo menej vlastností">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
@@ -93,7 +91,6 @@
 
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "Rozostup">
-<!ENTITY spacingBox.tooltip "Rozostup">
 <!ENTITY leftRightEditField.label "Vľavo a vpravo">
 <!ENTITY leftRightEditField.accessKey "V">
 <!ENTITY topBottomEditField.label "Hore a dole">
@@ -104,12 +101,6 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Zobraziť rám okolo obrázka z odkazom">
 <!ENTITY showImageLinkBorder.accessKey "b">
-
-<!-- These controls may be added some day; currently not used -->
-<!ENTITY makePageBackgroundCheckbox.label "Na pozadie">
-<!ENTITY makePageBackgroundCheckbox.tooltip "Na pozadie">
-<!ENTITY editImageButton.label "Upraviť obrázok">
-<!ENTITY editImageButton.tooltip "Upraviť obrázok">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Formulár">

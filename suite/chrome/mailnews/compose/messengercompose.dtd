@@ -27,7 +27,6 @@
 <!ENTITY attachMenu.label "Pripojiť">
 <!ENTITY attachMenu.accesskey "i">
 <!ENTITY attachFileCmd.label "Súbor…">
-<!ENTITY attachFileCmd.key "">
 <!ENTITY attachFileCmd.accesskey "S">
 <!ENTITY attachPageCmd.label "Webovú stránku…">
 <!ENTITY attachPageCmd.accesskey "W">
@@ -45,7 +44,6 @@
 <!ENTITY printCmd.label "Tlačiť…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "T">
-<!ENTITY closeCmd.label "Zavrieť">
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Zalomiť znovu">
@@ -70,32 +68,6 @@
 <!ENTITY showComposeToolbarCmd.accesskey "n">
 <!ENTITY showFormatToolbarCmd.label "Panel Formátovanie">
 <!ENTITY showFormatToolbarCmd.accesskey "F">
-<!ENTITY showParagraphMarksCmd.label ".Zobraziť znaky zalomenia">
-<!ENTITY pageSourceCmd.label ".Zdrojový kód stránky">
-<!ENTITY pageSourceCmd.accesskey "Z">
-<!ENTITY pageInfoCmd.label ".Informácie o stránke">
-<!ENTITY pageInfoCmd.accesskey "I">
-<!ENTITY dcharMenu.label "Kódovanie">
-<!ENTITY dcharIso1Cmd.label "Západné (ISO-8859-1)">
-<!ENTITY dcharIso2Cmd.label "Stredoeurópske (ISO-8859-2)">
-<!ENTITY dcharIso3Cmd.label "Juhoeurópske (ISO-8859-3)">
-<!ENTITY dcharIso4Cmd.label "Pobaltské (ISO-8859-4)">
-<!ENTITY dcharIso9Cmd.label "Turecké (ISO-8859-9)">
-<!ENTITY dcharIso10Cmd.label "Severské (ISO-8859-10)">
-<!ENTITY dcharIso14Cmd.label "Keltské (ISO-8859-14)">
-<!ENTITY dcharIso15Cmd.label "Západné (ISO-8859-15)">
-<!ENTITY dcharJapanCmd.label "Japonské (ISO-2022-JP)">
-<!ENTITY dcharTradChiBigCmd.label "Tradičné čínske (Big5)">
-<!ENTITY dcharSimpChiGbCmd.label "Zjednodušené čínske (GB2312)">
-<!ENTITY dcharKoreanCmd.label "Kórejské (EUC-KR)">
-<!ENTITY dcharUtf8Cmd.label "Unicode (UTF-8)">
-<!ENTITY dcharRusCmd.label "Azbuka (KOI8-R)">
-<!ENTITY dcharUkrCmd.label "Azbuka/Ukrajinská (KOI8-U)">
-<!ENTITY dcharIsoGreekCmd.label "Grécke (ISO-8859-7)">
-<!ENTITY dcharVietViCmd.label "Vietnamské (VISCII)">
-<!ENTITY dcharThaiCmd.label "Thajské (TIS-620)">
-<!ENTITY dcharArmCmd.label "Arménske (ARMSCII-8)">
-<!ENTITY dcharDEFAULT.label "Nastaviť predvolené kódovanie pre odosielanie poštových správ">
 
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "Formát">
@@ -104,10 +76,6 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Možnosti">
 <!ENTITY optionsMenu.accesskey "M">
-<!ENTITY doNotCompleteAddrCmd.label ".Nedopĺňať adresu">
-<!ENTITY showMatchingAddrCmd.label ".Zobraziť zhodnú adresu">
-
-<!ENTITY addSignatureCmd.label ".Pridať súbor podpisu">
 
 <!ENTITY quoteCmd.label "Citovať správu">
 <!ENTITY quoteCmd.accesskey "C">
@@ -147,33 +115,13 @@
 <!ENTITY bothFormatCmd.label "Text a HTML">
 <!ENTITY bothFormatCmd.accesskey "a">
 
-<!ENTITY UuencodeAttachmentCmd.label "Pre prílohy použiť Uuencode namiesto MIME">
-
-
 <!ENTITY fileCarbonCopyCmd.label "Uložiť kópiu do">
 <!ENTITY fileCarbonCopyCmd.accesskey "U">
 <!ENTITY fileHereMenu.label "Uložiť sem">
 
-<!--LOCALIZATION NOTE Debug Menu Don't translate anything in the Debug menu section -->
-<!-- Debug Menu, imported from editorAppShell.dtd -->
-<!ENTITY debugMenu.label "Debug">
-<!ENTITY outputTextCmd.label "Output Text">
-<!ENTITY outputHTMLCmd.label "Output HTML">
-<!ENTITY insertTextCmd.label "Insert Text">
-<!ENTITY testSelectionCmd.label "Test Selection">
-<!ENTITY testTableLayoutCmd.label "Test Table Layout">
-<!ENTITY testDocumentCmd.label "Test Document">
-<!ENTITY showEmbeddedCmd.label "Show Embedded Objects">
-<!ENTITY dumpContentCmd.label "Dump Content Tree">
-<!ENTITY runUnitTestsCmd.label "Run Unit Tests">
-<!ENTITY startLogCmd.label "Start Log">
-<!ENTITY stopLogCmd.label "Stop Log">
-<!ENTITY runLogCmd.label "Run Log">
-
 <!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
 <!-- Toolbar items -->
 <!ENTITY sendButton.label "Odoslať">
-<!ENTITY quoteButton.label "Citovať">
 <!ENTITY addressButton.label "Adresa">
 <!ENTITY attachButton.label "Priložiť">
 <!ENTITY spellingButton.label "Pravopis">
@@ -186,17 +134,10 @@
 <!ENTITY formatToolbar.tooltip "Panel Formátovanie">
 <!ENTITY sendButton.tooltip "Odoslať správu">
 <!ENTITY sendlaterButton.tooltip "Odoslať túto správu neskôr">
-<!ENTITY quoteButton.tooltip "Citovať predchádzajúcu správu">
 <!ENTITY addressButton.tooltip "Vybrať adresáta z Adresára">
 <!ENTITY attachButton.tooltip "Priložiť súbor">
 <!ENTITY saveButton.tooltip "Uložiť túto správu">
-<!ENTITY stopButton.tooltip "Zastaviť aktuálny prenos"> 
-
-<!-- Toolbar items, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
+<!ENTITY stopButton.tooltip "Zastaviť aktuálny prenos">
 
 <!-- context menu items -->
 <!ENTITY spellCheckNoSuggestions.label "Neboli nájdené žiadne návrhy">

@@ -53,5 +53,3 @@
 <!ENTITY directoriesNone.label                 "žiadny">
 <!ENTITY editDirectories.label                 "Upraviť adresáre…">
 <!ENTITY editDirectories.accesskey             "U">
-<!ENTITY matchText.label                       "Ak niečo v lokálnom adresári zodpovedá:">
-<!ENTITY skipDirectory.label                   "Nehľadať v adresári">

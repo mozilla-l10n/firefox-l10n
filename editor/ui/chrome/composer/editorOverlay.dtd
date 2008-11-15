@@ -79,10 +79,7 @@
 <!ENTITY sendPageCmd.accesskey "s">
 <!ENTITY printSetupCmd.label "Nastavenie tlače…">
 <!ENTITY printSetupCmd.accesskey "N">
-<!ENTITY printPreviewCmd.label "Ukážka pred tlačou">
-<!ENTITY printPreviewCmd.accesskey "e">
 <!ENTITY printCmd.label "Tlačiť…">
-<!ENTITY printButtonCmd.label "Tlačiť…">
 <!ENTITY printCmd.accesskey "T">
 <!ENTITY printCmd.key "P">
 <!ENTITY closeCmd.label "Zavrieť">
@@ -100,28 +97,8 @@
 <!ENTITY publishSettings.label "Nastavenie servera na publikovanie…">
 <!ENTITY publishSettings.accesskey "b">
 
-<!-- For a "Paste" submenu when more than 1 
-     clipboard formats are available -->
-<!ENTITY pasteHTMLCmd.label "HTML">
-<!ENTITY pasteHTMLCmd.accesskey "H">
-<!ENTITY pasteTextCmd.label "Text">
-<!ENTITY pasteTextCmd.accesskey "T">
-<!ENTITY pasteImageCmd.label "Obrázok">
-<!ENTITY pasteImageCmd.accesskey "O">
-<!ENTITY pasteRowsCmd.label "Riadky">
-<!ENTITY pasteRowsCmd.accesskey "R">
-<!ENTITY pasteColumnsCmd.label "Stĺpce">
-<!ENTITY pasteColumnsCmd.accesskey "S">
-<!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
-     Set to: "Table" or "Nested Table" depending on context 
-     This accesskey must be in both strings -->
-<!ENTITY pasteTableCmd.accesskey "a">
-<!ENTITY pasteLinkCmd.label "Odkaz">
-<!ENTITY pasteLinkCmd.accesskey "O">
 <!ENTITY pasteAsQuotationCmd.label "Prilepiť ako citáciu">
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
-<!ENTITY editStripQuotesCmd.label "Odstrániť úvodzovky">
-<!ENTITY editRewrapCmd.label "Znovu zalomiť">
 <!ENTITY findCmd.label "Hľadať a nahradiť…">
 <!ENTITY findCmd.accesskey "H">
 <!ENTITY findCmd.key "F">
@@ -141,13 +118,6 @@
 <!ENTITY checkSpellingCmd.key "K">
 <!ENTITY validateCmd.label "Overiť správnosť kódu HTML">
 <!ENTITY validateCmd.accesskey "v">
-<!ENTITY checkLinksCmd.label "Kontrolovať odkazy">
-
-<!-- View menu items -->
-<!ENTITY viewPageSource.label "Zdrojový kód stránky">
-<!ENTITY viewPageSource.accesskey "Z">
-<!ENTITY viewParagraphMarks.label "Značky odstavcov">
-<!ENTITY viewParagraphMarks.accesskey "o">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Vložiť">
@@ -159,41 +129,16 @@
 <!ENTITY insertAnchorCmd.accesskey "k">
 <!ENTITY insertImageCmd.label "Obrázok…">
 <!ENTITY insertImageCmd.accesskey "b">
-<!ENTITY insertImageMapCmd.label "Obrázková mapa…">
 <!ENTITY insertHLineCmd.label "Horizontálna čiara">
 <!ENTITY insertHLineCmd.accesskey "r">
 <!ENTITY insertTableCmd.label "Tabuľka…">
 <!ENTITY insertTableCmd.accesskey "t">
-<!ENTITY insertFormMenu.label "Formulár">
-<!ENTITY insertFormMenu.accesskey "F">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertCharsCmd.label "Znaky a symboly…">
 <!ENTITY insertCharsCmd.accesskey "Z">
-<!ENTITY insertBreakCmd.label "Koniec riadku">
-<!ENTITY insertBreakCmd.accesskey "r">
 <!ENTITY insertBreakAllCmd.label "Zalomiť pod obrázkom">
 <!ENTITY insertBreakAllCmd.accesskey "a">
-
-<!-- Insert form menu items -->
-<!ENTITY insertFormCmd.label "Definovať formulár…">
-<!ENTITY insertFormCmd.accesskey "D">
-<!ENTITY insertInputTagCmd.label "Vstupné pole…">
-<!ENTITY insertInputTagCmd.accesskey "e">
-<!ENTITY insertInputImageCmd.label "Obrázkové vstupné pole…">
-<!ENTITY insertInputImageCmd.accesskey "O">
-<!ENTITY insertTextAreaCmd.label "Textová plocha (textarea)…">
-<!ENTITY insertTextAreaCmd.accesskey "T">
-<!ENTITY insertSelectCmd.label "Výberové pole (select)">
-<!ENTITY insertSelectCmd.accesskey "s">
-<!ENTITY insertButtonCmd.label "Definovať tlačidlo…">
-<!ENTITY insertButtonCmd.accesskey "l">
-<!ENTITY insertLabelCmd.label "Definovať popis">
-<!ENTITY insertLabelCmd.accesskey "n">
-<!ENTITY insertFieldSetCmd.label "Definovať skupinu polí (fieldset) ">
-<!ENTITY insertFieldSetCmd.accesskey "f">
-<!ENTITY insertIsIndexCmd.label "Indexové vyhľadávanie">
-<!ENTITY insertIsIndexCmd.accesskey "x">
 
 <!-- Used just in context popup. -->
 <!ENTITY spellCheckNoSuggestions.label "(Žiadne návrhy)">
@@ -238,8 +183,6 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
-<!ENTITY localfontfaceMenu.label "Lokálne písma">
-<!ENTITY localfontfaceMenu.accesskey "L">
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Vyberte veľkosť písma">
@@ -361,18 +304,6 @@
 <!ENTITY advancedPropertiesCmd.label "Pokročilé vlastnosti…">
 <!ENTITY advancedPropertiesCmd.accesskey "v">
 
-<!ENTITY NormalAbbr.label "Text">
-<!ENTITY ParagraphAbbr.label "P">
-<!ENTITY Heading1Abbr.label "H1">
-<!ENTITY Heading2Abbr.label "H2">
-<!ENTITY Heading3Abbr.label "H3">
-<!ENTITY Heading4Abbr.label "H4">
-<!ENTITY Heading5Abbr.label "H5">
-<!ENTITY Heading6Abbr.label "H6">
-<!ENTITY BlockquoteAbbr.label "BQ">
-<!ENTITY AddressAbbr.label "Adr.">
-<!ENTITY PreformatAbbr.label "Pre.">
-
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Zarovnanie">
 <!ENTITY alignMenu.accesskey "a">
@@ -457,9 +388,7 @@
 <!ENTITY tableDeleteMenu.label "Odstrániť">
 <!ENTITY tableDeleteMenu.accesskey "r">
 
-<!ENTITY tableFix.label "Opraviť rozvrhnutie tabuľky">
-<!ENTITY tableFix.accesskey "O">
-<!-- text for "Join Cells" is in editor.properties 
+<!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
@@ -500,7 +429,6 @@
 <!ENTITY linkToolbarCmd.tooltip "Upraviť vybraný odkaz alebo vložiť nový">
 <!ENTITY anchorToolbarCmd.label "Kotva">
 <!ENTITY anchorToolbarCmd.tooltip "Upraviť vybranú kotvu alebo vložiť novú">
-<!ENTITY textColorCaption.label "Farba textu">
 <!ENTITY TextColorButton.tooltip "Vyberte farbu pre text">
 <!ENTITY BackgroundColorButton.tooltip "Vyberte farbu pozadia">
 <!ENTITY throbber.tooltip "Prejsť na domovskú stránku &vendorShortName;">
@@ -523,17 +451,6 @@
 <!ENTITY alignRightButton.tooltip "Zarovnať text podľa pravého okraja">
 <!ENTITY alignjustifyButton.tooltip "Zarovnať text podľa pravého a ľavého okraja">
 
-<!-- Formatting toolbar not used, but may be in future -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
-
-<!-- Used with color pickers in Format toolbar and Format Menu -->
-<!ENTITY colorPicker.default.label "Implicitná farba">
-<!ENTITY colorPicker.default.accesskey "r">
-<!ENTITY colorLabel.label "Farba:">
-<!ENTITY ok.label "OK">
-
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normálne">
 <!ENTITY NormalMode.label "Normálny režim úprav">
@@ -553,7 +470,7 @@
 <!ENTITY PreviewMode.tooltip "Zobraziť ako WYSIWYG (ako v prehliadači)">
 
 <!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
+     Use latin "ltr" if you want the <html> image to left of the
      'SourceMode.label' text defined above,
      or use latin "rtl" if you want this image to the right of text
      This is the value of the HTML 'dir' attribute

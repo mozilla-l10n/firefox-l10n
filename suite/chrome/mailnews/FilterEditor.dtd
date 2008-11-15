@@ -74,9 +74,6 @@
 <!ENTITY filterActionDesc.label "Vykonať tieto akcie:">
 <!ENTITY filterActionDesc.accesskey "V">
 
-<!ENTITY newFolderButton.label "Nový priečinok…">
-<!ENTITY newFolderButton.accesskey "N">
-
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Presunúť do priečinka">
 <!ENTITY copyMessage.label "Kopírovať do priečinka">
@@ -94,4 +91,4 @@
 <!ENTITY ignoreThread.label "Ignorovať vlákno">
 <!ENTITY ignoreSubthread.label "Ignorovať podvlákno">
 <!ENTITY watchThread.label "Sledovať vlákno">
-<!ENTITY stopExecution.label "Zastaviť vykonávanie filtra">              
+<!ENTITY stopExecution.label "Zastaviť vykonávanie filtra">

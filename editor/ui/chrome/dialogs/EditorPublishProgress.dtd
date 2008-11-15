@@ -43,8 +43,6 @@
 
 <!ENTITY status.label           "Publikuje sa…">
 <!ENTITY fileList.label         "Stav publikovania">
-<!ENTITY statusHeader.label     "Stav">
-<!ENTITY filenameHeader.label   "Názov súboru">
 <!ENTITY succeeded.label        "Prebehlo úspešne">
 <!ENTITY failed.label           "Zlyhalo">
 

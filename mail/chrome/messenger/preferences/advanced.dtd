@@ -6,6 +6,8 @@
 
 <!-- General Settings -->
 
+<!ENTITY enableGloda.label              "Povoliť indexovanie správ">
+<!ENTITY enableGloda.accesskey          "d">
 <!ENTITY showCondensedAddresses.label   "Zobrazovať mená len pre adresy uložené v osobných adresároch">
 <!ENTITY showCondensedAddresses.accesskey "b">
 

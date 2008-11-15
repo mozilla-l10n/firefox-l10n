@@ -82,7 +82,6 @@
 
 <!ENTITY zoominCmd.label "Zväčšiť">
 <!ENTITY zoomoutCmd.label "Zmenšiť">
-<!ENTITY delSpotCmd.label "Zmazať bod">
 
 <!-- Keys -->
 <!ENTITY clear.key "d">

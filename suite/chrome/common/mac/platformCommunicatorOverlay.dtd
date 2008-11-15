@@ -16,21 +16,21 @@
 <!ENTITY hideOtherAppsCmd.key           "H">
 <!ENTITY hideOtherAppsCmd.modifiers     "accel,alt">
 <!ENTITY showAllAppsCmd.label           "Zobraziť všetko">
-<!ENTITY quitApplicationCmd.label       "Ukončiť &brandShortName;"> 
+<!ENTITY quitApplicationCmd.label       "Ukončiť &brandShortName;">
 <!ENTITY quitApplicationCmd.key         "Q">
 <!ENTITY quitApplicationCmd.modifiers   "accel">
 <!-- End of Application menu -->
 
-<!ENTITY closeCmd.label                 "Zavrieť">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Zavrieť">
+<!ENTITY closeCmd.key                   "W">
 
 <!ENTITY printSetupCmd.label            "Nastavenie tlače…">
 <!ENTITY printSetupCmd.accesskey        "N">
 
-<!ENTITY redoCmd.label                  "Znovu">  
-<!ENTITY redoCmd.key                    "Z">  
+<!ENTITY redoCmd.label                  "Znovu">
+<!ENTITY redoCmd.key                    "Z">
 
-<!ENTITY historyCmd.key                 "H">  
+<!ENTITY historyCmd.key                 "H">
 
 <!ENTITY findTypeTextCmd.key            "">
 <!ENTITY findTypeLinksCmd.key           "">

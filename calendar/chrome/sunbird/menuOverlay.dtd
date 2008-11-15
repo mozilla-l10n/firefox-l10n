@@ -134,7 +134,7 @@
 <!ENTITY helpMenu.accesskey                     "P">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
            for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label                      "Pomocník"> 
+<!ENTITY helpMenuWin.label                      "Pomocník">
 <!ENTITY helpMenuWin.accesskey                  "P">
 
 <!ENTITY fileMenu.label                         "Súbor">

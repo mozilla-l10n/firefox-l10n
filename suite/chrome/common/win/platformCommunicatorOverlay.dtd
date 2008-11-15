@@ -1,17 +1,17 @@
 <!-- win -->
 <!-- LOCALIZATION NOTE : FILE Do not translate "accel" or "shift",
-                         You may want to translate the Cmd.key and accesskey --> 
+                         You may want to translate the Cmd.key and accesskey -->
 
-<!ENTITY closeCmd.label                 "Zavrieť">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Zavrieť">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "Z">
 
-<!ENTITY quitApplicationCmd.label       "Koniec"> 
-<!ENTITY quitApplicationCmd.key         "Q"> 
+<!ENTITY quitApplicationCmd.label       "Koniec">
+<!ENTITY quitApplicationCmd.key         "Q">
 <!ENTITY quitApplicationCmd.accesskey   "K">
 
-<!ENTITY redoCmd.label                  "Znovu">  
-<!ENTITY redoCmd.key                    "Y">  
+<!ENTITY redoCmd.label                  "Znovu">
+<!ENTITY redoCmd.key                    "Y">
 <!ENTITY redoCmd.accesskey              "Z">
 
 <!ENTITY findTypeTextCmd.key            "/">

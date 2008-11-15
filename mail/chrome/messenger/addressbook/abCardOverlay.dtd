@@ -34,12 +34,12 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-  
+
 <!ENTITY Contact.tab                     "Kontakt">
 <!ENTITY Contact.accesskey               "K">
 <!ENTITY Name.box                        "Meno">
 
-<!-- LOCALIZATION NOTE: 
+<!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
  "FirstName" and "LastName" can be swapped for id to change the order
@@ -81,9 +81,9 @@
 <!ENTITY allowRemoteContent.label       "Povoliť vzdialené obrázky">
 <!ENTITY allowRemoteContent.accesskey   "n">
 <!ENTITY allowRemoteContent.tooltip     "Do správ vo formáte HTML je možné
-vložiť obrázky zo vzdialených serverov. Pri otvorení takejto správy sa 
+vložiť obrázky zo vzdialených serverov. Pri otvorení takejto správy sa
 vytvorí pripojenie k danému serveru. Týmto je možné sledovať,
-či bola správa prečítaná. Označením tejto voľby umožníte v správach od tohto kontaktu 
+či bola správa prečítaná. Označením tejto voľby umožníte v správach od tohto kontaktu
 načítavanie externých obrázkov v správach vo formáte HTML.">
 
 <!ENTITY WorkPhone.label                "Zamestnanie:">
