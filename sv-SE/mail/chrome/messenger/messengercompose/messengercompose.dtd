@@ -46,11 +46,6 @@
 <!ENTITY printCmd.label "Skriv ut…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "u">
-<!ENTITY quitApplicationCmdWin.label "Avsluta"> 
-<!ENTITY quitApplicationCmdWin.accesskey "A">
-<!ENTITY quitApplicationCmd.label "Avsluta"> 
-<!ENTITY quitApplicationCmd.accesskey "A">
-<!ENTITY quitApplicationCmd.key "Q">
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "Redigera"> 
