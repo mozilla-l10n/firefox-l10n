@@ -5,9 +5,6 @@
 <!ENTITY ListNickName.label "Apodo de lista: ">
 <!ENTITY ListDescription.label "Descripción: ">
 <!ENTITY AddressTitle.label "Escriba direcciones de correo para añadirlas a la lista:">
-<!ENTITY RemoveButton.label "Eliminar">
-<!ENTITY UpButton.label "Subir">
-<!ENTITY DownButton.label "Bajar">
 <!ENTITY addToAddressBook.accesskey "A">
 <!ENTITY ListName.accesskey "L">
 <!ENTITY ListNickName.accesskey "p">

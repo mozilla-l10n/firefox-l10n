@@ -29,8 +29,6 @@
 <!ENTITY cookieAllowPopupsCmd.accesskey "A">
 <!ENTITY cookieManagePopups.label "Administrar ventanas emergentes">
 <!ENTITY cookieManagePopups.accesskey "M">
-<!ENTITY cookieTutorialCmd.label "Comprender la privacidad">
-<!ENTITY cookieTutorialCmd.accesskey "C">
 <!ENTITY cookieCookieManager.label "Administrador de cookies">
 <!ENTITY cookieCookieManager.accesskey "c">
 <!ENTITY cookieImageManager.label "Administrador de imágenes">

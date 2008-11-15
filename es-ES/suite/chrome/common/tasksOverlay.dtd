@@ -4,17 +4,12 @@
 <!ENTITY editorCmd.label "Composer">
 <!ENTITY editorCmd.accesskey "c">
 <!ENTITY editorCmd.commandkey "4">
-<!ENTITY securityInfoCmd.label ".Información de seguridad">
-<!ENTITY securityInfoCmd.accesskey "s">
 <!ENTITY javaConsoleCmd.label "Consola Java">
 <!ENTITY javaConsoleCmd.accesskey "j">
 <!ENTITY errorConsoleCmd.label "Consola de errores">
 <!ENTITY errorConsoleCmd.accesskey "C">
-<!ENTITY privacyMenu.label "Privacidad y seguridad">
-<!ENTITY privacyMenu.accesskey "p">
 <!ENTITY taskNavigator.tooltip "Navegador">
 <!ENTITY taskComposer.tooltip "Composer">
-<!ENTITY taskBar.tooltip "Barra de estado">
 <!ENTITY webDevelopment.label "Desarrollo web">
 <!ENTITY webDevelopment.accesskey "W">
 <!ENTITY windowMenu.label "Ventana">

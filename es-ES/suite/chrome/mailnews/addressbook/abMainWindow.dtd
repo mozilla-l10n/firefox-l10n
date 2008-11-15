@@ -6,8 +6,6 @@
 <!ENTITY newListCmd.accesskey "L">
 <!ENTITY newAddressBookCmd.label "Libreta de direcciones…">
 <!ENTITY newAddressBookCmd.accesskey "o">
-<!ENTITY renameAddressBookCmd.label "Renombrar libreta de direcciones…">
-<!ENTITY renameAddressBookCmd.accesskey "R">
 <!ENTITY newLDAPDirectoryCmd.label "Directorio LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey "D">
 <!ENTITY newIM.label "IM">
@@ -51,7 +49,6 @@
 <!ENTITY exportCmd.accesskey "E">
 <!ENTITY allowOnlineCheck.label "Comprobar presencia en línea (AOL)">
 <!ENTITY allowOnlineCheck.accesskey "C">
-<!ENTITY stopSearchingCmd.label ".Parar búsqueda">
 <!ENTITY newcardButton.label "Nueva tarjeta">
 <!ENTITY newcardButton.accesskey "j">
 <!ENTITY newlistButton.label "Nueva lista">
@@ -64,9 +61,6 @@
 <!ENTITY deleteButton.accesskey "E">
 <!ENTITY newimButton.label "Mensaje instantáneo">
 <!ENTITY newimButton.accesskey "I">
-<!ENTITY stopButton.label ".Parar">
-<!ENTITY searchButton.label ".Buscar">
-<!ENTITY showNames.label "Mostrar nombres que contengan:">
 <!ENTITY addressbookToolbar.tooltip "Barra de herramientas de direcciones">
 <!ENTITY newcardButton.tooltip "Crear una nueva tarjeta en la libreta de direcciones">
 <!ENTITY newlistButton.tooltip "Crear nueva lista">
@@ -74,10 +68,7 @@
 <!ENTITY newmsgButton.tooltip "Enviar un mensaje de correo">
 <!ENTITY newIM.tooltip "Enviar un mensaje o conversación instantáneos">
 <!ENTITY deleteButton.tooltip "Eliminar ficha seleccionada de la libreta de direcciones">
-<!ENTITY stopButton.tooltip "Detener la transferencia actual">
-<!ENTITY searchButton.tooltip "Buscar en la libreta de direcciones seleccionada">
 <!ENTITY throbber.tooltip "Ir a la página principal de &vendorShortName;">
-<!ENTITY clearButton.tooltip "Eliminar criterio de búsqueda y ver todas las entradas">
 <!ENTITY advancedButton.tooltip "Búsqueda avanzada de direcciones">
 <!ENTITY statusText.label "">
 <!ENTITY hideSwapFnLnUI "true">

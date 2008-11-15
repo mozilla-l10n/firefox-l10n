@@ -1,9 +1,5 @@
 <!ENTITY securitySettings.label "Configuración de seguridad">
 <!ENTITY serverSettings.label "Configuración del servidor">
-<!ENTITY popServer.label "Servidor de correo POP">
-<!ENTITY imapServer.label "Servidor de correo IMAP">
-<!ENTITY newsServer.label "Servidor de noticias (NNTP)">
-<!ENTITY webmail.label "Cuenta WebMail">
 <!ENTITY serverType.label "Tipo de servidor:">
 <!ENTITY serverName.label "Nom. servidor:">
 <!ENTITY serverName.accesskey "S">
@@ -40,9 +36,7 @@
 <!ENTITY deleteOnServer2.accesskey "H">
 <!ENTITY downloadOnBiff.label "Descargar automáticamente los mensajes nuevos">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY hostname.label "Nombre del servidor">
 <!ENTITY username.label "Nombre de la cuenta">
-<!ENTITY popServerTitle.label "Información del servidor POP">
 <!ENTITY deleteMessagePrefix.label "Cuando elimine un mensaje:">
 <!ENTITY modelMoveToTrash.label "Moverlo a esta carpeta:">
 <!ENTITY modelMoveToTrash.accesskey "o">

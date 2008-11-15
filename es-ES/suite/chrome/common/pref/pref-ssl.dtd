@@ -21,7 +21,6 @@
    - Contributor(s):
    -   Bob Lord <lord@netscape.com>
    -   Terry Hayes <thayes@netscape.com>
-   -   Proyecto NAVE (http://www.proyectonave.es/)
    -   
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -54,8 +53,6 @@
 <!ENTITY warn.insecurepost.accesskey "E">
 <!ENTITY warn.leavingsecure "Abandonar una página que utiliza cifrado">
 <!ENTITY warn.leavingsecure.accesskey "A">
-<!ENTITY warn.secureredirect "Redireccionar desde una página cifrada a otra">
-<!ENTITY warn.secureredirecttoinsecure "Redireccionar desde una página cifrada hacia otra página sin cifrar.">
 <!ENTITY warn.viewmixed "Ver una página con una mezcla de contenido cifrado/sin cifrar">
 <!ENTITY warn.viewmixed.accesskey "V">
 <!ENTITY certselect.description "Decida cómo seleccionará &brandShortName; un certificado de seguridad para presentar a los sitios web que requieran uno:">

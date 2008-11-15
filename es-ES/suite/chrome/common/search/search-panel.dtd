@@ -36,18 +36,13 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY search.button.label "Buscar">
-<!ENTITY search.results.tab "Aplicar">
-<!ENTITY search.advanced.tab "Configuración para ">
 <!ENTITY allengines.label "Todos los buscadores">
 <!ENTITY within.label "en">
 <!ENTITY using.label "utilizando">
 <!ENTITY choose.label "Elija los buscadores, y luego pulse Buscar">
 <!ENTITY results.label "Resultados de la búsqueda">
 <!ENTITY engine.column.label "Buscadores">
-<!ENTITY checkbox.column.label "Usar">
-<!ENTITY stop.button.label "Parar">
 <!ENTITY customize.menuitem.label "Editar categorías…">
-<!ENTITY savesearch.button.label "Guardar como marcador esta búsqueda">
 <!ENTITY next.button.label "Siguiente">
 <!ENTITY previous.button.label "Anterior">
 <!ENTITY next.button.tooltip "Mostrar siguientes resultados de la búsqueda">

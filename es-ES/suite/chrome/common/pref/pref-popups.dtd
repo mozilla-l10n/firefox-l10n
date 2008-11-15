@@ -1,6 +1,5 @@
 <!ENTITY pref.popups.title "Ventanas emergentes">
 <!ENTITY pref.popups.caption "Ventanas emergentes">
-<!ENTITY popupDesc.label "Especifique cómo manejar ventanas emergentes que aparecen sobre o bajo la ventana actual del navegador:">
 <!ENTITY popupBlock.label "Bloquear ventanas emergentes no solicitadas">
 <!ENTITY popupBlock.accesskey "B">
 <!ENTITY popupExceptions.label "Sitios permitidos…">
