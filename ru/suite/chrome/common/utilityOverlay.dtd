@@ -74,6 +74,20 @@
 <!ENTITY bidiSwitchTextDirectionItem.label "Переключить направление текста на странице">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "т">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
+<!ENTITY customizeToolbar.toolbarmode.label "Настройки этой панели инструментов">
+<!ENTITY customizeToolbar.toolbarmode.accesskey "с">
+<!ENTITY customizeToolbar.iconsAndText.label "Значки и текст">
+<!ENTITY customizeToolbar.iconsAndText.accesskey "а">
+<!ENTITY customizeToolbar.icons.label "Значки">
+<!ENTITY customizeToolbar.icons.accesskey "н">
+<!ENTITY customizeToolbar.text.label "Текст">
+<!ENTITY customizeToolbar.text.accesskey "е">
+<!ENTITY customizeToolbar.useSmallIcons.label "Маленькие значки">
+<!ENTITY customizeToolbar.useSmallIcons.accesskey "н">
+<!ENTITY customizeToolbar.labelAlignEnd.label "Показывать текст рядом со значком">
+<!ENTITY customizeToolbar.labelAlignEnd.accesskey "к">
+<!ENTITY customizeToolbar.useDefault.label "Использовать настройки по умолчанию">
+<!ENTITY customizeToolbar.useDefault.accesskey "п">
 <!ENTITY allowPopups.accesskey "с">
 <!ENTITY showPopupManager.label "Управление сайтами со всплывающими окнами">
 <!ENTITY showPopupManager.accesskey "п">

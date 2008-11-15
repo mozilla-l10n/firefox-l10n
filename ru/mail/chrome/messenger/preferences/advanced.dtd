@@ -3,6 +3,8 @@
 <!ENTITY itemUpdate.label "Обновления">
 <!ENTITY itemNetworking.label "Сеть и дисковое пространство">
 <!ENTITY itemCertificates.label "Сертификаты">
+<!ENTITY enableGloda.label "Включить индексацию сообщений">
+<!ENTITY enableGloda.accesskey "к">
 <!ENTITY showCondensedAddresses.label "Показывать только имя для людей, находящихся в моей адресной книге">
 <!ENTITY showCondensedAddresses.accesskey "и">
 <!ENTITY autoMarkAsRead.label "Автоматически отмечать сообщения как прочитанные">
