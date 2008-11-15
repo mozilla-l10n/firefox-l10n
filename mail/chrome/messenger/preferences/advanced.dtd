@@ -6,6 +6,8 @@
 
 <!-- General Settings -->
 
+<!ENTITY enableGloda.label                "Lubatakse kirjade indekseerija">
+<!ENTITY enableGloda.accesskey            "L">
 <!ENTITY showCondensedAddresses.label     "Aadressiraamatus olevate kontaktide puhul näidatakse ainult kuvatavat nime">
 <!ENTITY showCondensedAddresses.accesskey "k">
 
