@@ -82,8 +82,6 @@
 <!ENTITY  event.menu.file.page.setup.accesskey            "C">
 <!ENTITY  event.menu.file.print.label                     "Imprimir">
 <!ENTITY  event.menu.file.print.accesskey                 "I">
-<!ENTITY  event.menu.file.exit.label                      "Sair">
-<!ENTITY  event.menu.file.exit.accesskey                  "r">
 
 <!ENTITY  event.menu.edit.label                           "Editar">
 <!ENTITY  event.menu.edit.accesskey                       "E">
