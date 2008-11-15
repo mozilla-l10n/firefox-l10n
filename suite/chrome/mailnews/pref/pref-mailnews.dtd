@@ -51,6 +51,8 @@
 <!ENTITY setDefaultMail.accesskey         "M">
 <!ENTITY setDefaultNews.label             "Nieuws">
 <!ENTITY setDefaultNews.accesskey         "N">
+<!ENTITY setDefaultFeed.label             "Feeds">
+<!ENTITY setDefaultFeed.accesskey         "e">
 
 <!ENTITY messengerStartPage.caption       "E-mail startpagina">
 <!ENTITY enableStartPage.label            "Wanneer Mail start, de startpagina in het berichtgedeelte tonen">
