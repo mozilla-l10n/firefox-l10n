@@ -46,7 +46,7 @@
 <!ENTITY copyrightText          "&#169;1998-2008 תורמים. 
 כל הזכויות שמורות. Mozilla Sunbird, Sunbird והסמלים של Sunbird הם סימנים מסחריים של קרן Mozilla. כל הזכויות שמורות.">
 
-<!-- ### ENTITY brandMotto       "it's about time" -->
+<!ENTITY brandMotto       "הגיע הזמן">
 <!ENTITY credit.thanks    "תודות מיוחדות">
 
 <!-- localization credits look like this: -->
