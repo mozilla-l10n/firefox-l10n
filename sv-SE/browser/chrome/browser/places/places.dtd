@@ -73,7 +73,7 @@
 
 <!ENTITY cmd.delete.label               "Ta bort den här sidan">
 <!ENTITY cmd.delete.accesskey           "T">
-<!ENTITY cmd.deleteDomainData.label     "Ta bort den här webbplatsen">
+<!ENTITY cmd.deleteDomainData.label     "Ta bort all historik för webbplatsen">
 <!ENTITY cmd.deleteDomainData.accesskey "b">
 
 <!ENTITY cmd.open.label                  "Öppna">
