@@ -20,7 +20,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Charles Manxke (cmanske@netscape.com)
+   -   Charles Manske (cmanske@netscape.com)
    -   Niklas Lundström <d00-nlu@nada.kth.se>
    -   Lars P M <larspeemm@netscape.net>
    -
@@ -40,9 +40,6 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label     "Kontrollera bild och länk">
-<!ENTITY urlsNotFound.label    "Följande bild eller länk kunnde inte hittas:">
-<!ENTITY notFoundKey.label     "(&quot;X&quot; = fil saknas, &quot;?&quot; = timed-out vid anslutningsförsök)">
-<!ENTITY changeUrlButton.label "Ändra plats för valt objekt">
 <!ENTITY succeeded.label       "Klart">
 <!ENTITY failed.label          "Misslyckades">
 <!ENTITY closeButton.label     "Stäng">

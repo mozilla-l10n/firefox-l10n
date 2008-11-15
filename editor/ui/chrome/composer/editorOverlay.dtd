@@ -82,9 +82,6 @@
 <!ENTITY sendPageCmd.accesskey "c">
 <!ENTITY printSetupCmd.label "Utskriftsformat...">
 <!ENTITY printSetupCmd.accesskey "o">
-<!ENTITY printPreviewCmd.label "Förhandsgranska">
-<!ENTITY printPreviewCmd.accesskey "g">
-<!ENTITY printButtonCmd.label "Skriv ut...">
 <!ENTITY printCmd.label "Skriv ut...">
 <!ENTITY printCmd.accesskey "u">
 <!ENTITY printCmd.key "P">
@@ -102,29 +99,8 @@
 <!ENTITY pasteAs.accesskey "a">
 <!ENTITY publishSettings.label "Publiceringsinställningar...">
 <!ENTITY publishSettings.accesskey "P">
-
-<!-- For a "Paste" submenu when more than 1 
-     clipboard formats are available -->
-<!ENTITY pasteHTMLCmd.label "HTML">
-<!ENTITY pasteHTMLCmd.accesskey "H">
-<!ENTITY pasteTextCmd.label "Text">
-<!ENTITY pasteTextCmd.accesskey "T">
-<!ENTITY pasteImageCmd.label "Bilder">
-<!ENTITY pasteImageCmd.accesskey "i">
-<!ENTITY pasteRowsCmd.label "Rader">
-<!ENTITY pasteRowsCmd.accesskey "R">
-<!ENTITY pasteColumnsCmd.label "Kolumner">
-<!ENTITY pasteColumnsCmd.accesskey "o">
-<!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
-     Set to: "Table" or "Nested Table" depending on context 
-     This accesskey must be in both strings -->
-<!ENTITY pasteTableCmd.accesskey "a">
-<!ENTITY pasteLinkCmd.label "Länk">
-<!ENTITY pasteLinkCmd.accesskey "L">
 <!ENTITY pasteAsQuotationCmd.label "Klistra in som citat">
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
-<!ENTITY editStripQuotesCmd.label "Trunkera citat">
-<!ENTITY editRewrapCmd.label "Flöda om">
 <!ENTITY findCmd.label "Sök och ersätt...">
 <!ENTITY findCmd.accesskey "S">
 <!ENTITY findCmd.key "F">
@@ -144,14 +120,6 @@
 <!ENTITY checkSpellingCmd.key "K">
 <!ENTITY validateCmd.label "Validera HTML">
 <!ENTITY validateCmd.accesskey "V">
-<!ENTITY checkLinksCmd.label "Kontrollera länkar">
-
-<!-- View menu items -->
-<!ENTITY viewPageSource.label "Sidkod">
-<!ENTITY viewPageSource.accesskey "S">
-<!ENTITY viewParagraphMarks.label "Stycketecken">
-<!ENTITY viewParagraphMarks.accesskey "c">
-
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Infoga">
@@ -163,41 +131,16 @@
 <!ENTITY insertAnchorCmd.accesskey "a">
 <!ENTITY insertImageCmd.label "Bild...">
 <!ENTITY insertImageCmd.accesskey "i">
-<!ENTITY insertImageMapCmd.label "Multiklickbar bild">
 <!ENTITY insertHLineCmd.label "Vågrät linje">
 <!ENTITY insertHLineCmd.accesskey "r">
 <!ENTITY insertTableCmd.label "Tabell...">
 <!ENTITY insertTableCmd.accesskey "T">
-<!ENTITY insertFormMenu.label "Formulär">
-<!ENTITY insertFormMenu.accesskey "F">
 <!ENTITY insertHTMLCmd.label "HTML...">
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertCharsCmd.label "Tecken och symboler...">
 <!ENTITY insertCharsCmd.accesskey "c">
-<!ENTITY insertBreakCmd.label "Radbrytning">
-<!ENTITY insertBreakCmd.accesskey "b">
 <!ENTITY insertBreakAllCmd.label "Bryt under bild(er)">
 <!ENTITY insertBreakAllCmd.accesskey "y">
-
-<!-- Insert form menu items -->
-<!ENTITY insertFormCmd.label "Definiera formulär...">
-<!ENTITY insertFormCmd.accesskey "D">
-<!ENTITY insertInputTagCmd.label "Formulärfält...">
-<!ENTITY insertInputTagCmd.accesskey "l">
-<!ENTITY insertInputImageCmd.label "Formulärbild...">
-<!ENTITY insertInputImageCmd.accesskey "i">
-<!ENTITY insertTextAreaCmd.label "Textarea...">
-<!ENTITY insertTextAreaCmd.accesskey "T">
-<!ENTITY insertSelectCmd.label "Lista...">
-<!ENTITY insertSelectCmd.accesskey "s">
-<!ENTITY insertButtonCmd.label "Definiera knapp...">
-<!ENTITY insertButtonCmd.accesskey "k">
-<!ENTITY insertLabelCmd.label "Definiera etiketter">
-<!ENTITY insertLabelCmd.accesskey "e">
-<!ENTITY insertFieldSetCmd.label "Definiera fältmängd...">
-<!ENTITY insertFieldSetCmd.accesskey "f">
-<!ENTITY insertIsIndexCmd.label "Indexsökning">
-<!ENTITY insertIsIndexCmd.accesskey "x">
 
 <!-- Used just in context popup. -->
 <!ENTITY spellCheckNoSuggestions.label "(Inga stavningsförslag)">
@@ -242,8 +185,6 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
-<!ENTITY localfontfaceMenu.label "Lokala teckensnitt">
-<!ENTITY localfontfaceMenu.accesskey "o">
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Välj teckenstorlek">
@@ -365,18 +306,6 @@
 <!ENTITY advancedPropertiesCmd.label "Avancerade egenskaper">
 <!ENTITY advancedPropertiesCmd.accesskey "v">
 
-<!ENTITY NormalAbbr.label "Text">
-<!ENTITY ParagraphAbbr.label "P">  
-<!ENTITY Heading1Abbr.label "H1">
-<!ENTITY Heading2Abbr.label "H2">
-<!ENTITY Heading3Abbr.label "H3">
-<!ENTITY Heading4Abbr.label "H4">
-<!ENTITY Heading5Abbr.label "H5">
-<!ENTITY Heading6Abbr.label "H6">
-<!ENTITY BlockquoteAbbr.label "BC">
-<!ENTITY AddressAbbr.label "Adr.">
-<!ENTITY PreformatAbbr.label "Form.">
-
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Kantställ">
 <!ENTITY alignMenu.accesskey "K">
@@ -461,8 +390,6 @@
 <!ENTITY tableDeleteMenu.label "Ta bort">
 <!ENTITY tableDeleteMenu.accesskey "T">
 
-<!ENTITY tableFix.label "Åtgärda tabellayout">
-<!ENTITY tableFix.accesskey "t">
 <!-- text for "Sammanfoga celler" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
@@ -504,7 +431,6 @@
 <!ENTITY linkToolbarCmd.tooltip "Infoga ny länk eller ändra egenskaperna för markerad länk">
 <!ENTITY anchorToolbarCmd.label "Ankare">
 <!ENTITY anchorToolbarCmd.tooltip "Infoga ett nytt namngivet ankare eller ändra egenskaperna för markerat ankare">
-<!ENTITY textColorCaption.label "Textfärg">
 <!ENTITY TextColorButton.tooltip "Välj färg för texten">
 <!ENTITY BackgroundColorButton.tooltip "Välj färg för bakgrunden">
 <!ENTITY throbber.tooltip "Gå till &vendorShortName;s webbplats">
@@ -526,17 +452,6 @@
 <!ENTITY alignCenterButton.tooltip "Centrera texten">
 <!ENTITY alignRightButton.tooltip "Högerställ texten">
 <!ENTITY alignjustifyButton.tooltip "Justera (slå ut) texten">
-
-<!-- formatting toolbar not used, but may be in future -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
-
-<!-- Used with color pickers in Format toolbar and Format Menu -->
-<!ENTITY colorPicker.default.label "Webbläsarens förvalda färg">
-<!ENTITY colorPicker.default.accesskey "r">
-<!ENTITY colorLabel.label "Färg:">
-<!ENTITY ok.label "OK">
 
 <!-- Display Mode Toolbar and View Menu items -->
 <!ENTITY NormalModeTab.label "Normal">

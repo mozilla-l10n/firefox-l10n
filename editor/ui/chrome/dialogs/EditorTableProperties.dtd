@@ -71,7 +71,6 @@
 <!ENTITY tableCaptionNone.label           "Ingen">
 <!ENTITY tableInheritColor.label           "(Låt sidans färg lysa igenom)">
 
-<!ENTITY cellPercent.label                "procent av tabell">
 <!ENTITY cellSelection.label              "Markering">
 <!ENTITY cellSelectCell.label             "Cell">
 <!ENTITY cellSelectRow.label              "Rad">
@@ -80,11 +79,7 @@
 <!ENTITY cellSelectNext.accessKey         "N">
 <!ENTITY cellSelectPrevious.label         "Föregående">
 <!ENTITY cellSelectPrevious.accessKey     "ö">
-<!ENTITY cellApplyBeforeMove.label        "Verkställ ändringarna innan du ändrar markeringen">
-<!ENTITY cellKeepCurrentData.label        "Behåll aktuella inställningar">
 <!ENTITY applyBeforeChange.label          "Aktuella ändringar kommer att verkställas innan du ändrar markeringen.">
-<!ENTITY cellRowSpan.label                "Radspann:">
-<!ENTITY cellColSpan.label                "Kolumnspann:">
 <!ENTITY cellContentAlignment.label       "Kantställning för innehållet">
 <!ENTITY cellHorizontal.label             "Vågrätt:">
 <!ENTITY cellHorizontal.accessKey         "å">
@@ -102,7 +97,6 @@
 <!ENTITY cellAlignMiddle.label            "Mitten">
 <!ENTITY cellAlignBottom.label            "Nederst">
 <!ENTITY cellAlignJustify.label           "Kantställning">
-<!ENTITY cellAlignAtChar.label            "Vid tecken:">
 <!ENTITY cellInheritColor.label           "(Låt tabellens färg lysa igenom)">
 <!ENTITY cellUseCheckboxHelp.label        "Använd markeringsalternativen för att ange egenskaper som ska gälla för alla markerade celler.">
 

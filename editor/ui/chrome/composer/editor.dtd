@@ -57,12 +57,3 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Format">
 <!ENTITY formatMenu.accesskey "o">
-
-<!ENTITY helpMenu.label "Hjälp">
-<!ENTITY aboutCmd.label ".Om">
-
-<!-- Display Mode Toolbar -->
-<!ENTITY editMode.label "Redigeringsläge:">
-
-<!ENTITY statusText.label "Sidan är inläst">
-
