@@ -41,8 +41,6 @@
 <!ENTITY otherSubdir.label "Subdirectorio de imágenes:">
 <!ENTITY status.label "Publicando…">
 <!ENTITY fileList.label "Estado de la publicación">
-<!ENTITY statusHeader.label "Estado">
-<!ENTITY filenameHeader.label "Nombre de archivo">
 <!ENTITY succeeded.label "Completado con éxito">
 <!ENTITY failed.label "Fallido">
 <!ENTITY keepOpen "Mantener esta ventana abierta una vez completada la publicación.">
