@@ -29,11 +29,11 @@
 <!ENTITY printCardViewCmd.key "P">
 <!ENTITY printAddressBook.label "הדפס פנקס כתובות...">
 <!ENTITY printAddressBook.accesskey "A">
-<!ENTITY quitApplicationCmdWin.label "יציאה">
-<!ENTITY quitApplicationCmdWin.accesskey "x">
-<!ENTITY quitApplicationCmd.label "יציאה">
-<!ENTITY quitApplicationCmd.accesskey "Q">
-<!ENTITY quitApplicationCmd.key "Q">
+<!--###ENTITY quitApplicationCmdWin.label "יציאה"-->
+<!--###ENTITY quitApplicationCmdWin.accesskey "x"-->
+<!--###ENTITY quitApplicationCmd.label "יציאה"-->
+<!--###ENTITY quitApplicationCmd.accesskey "Q"-->
+<!--###ENTITY quitApplicationCmd.key "Q"-->
 <!ENTITY editMenu.label "עריכה">
 <!ENTITY editMenu.accesskey "e">
 <!ENTITY undoCmd.label "בטל">
