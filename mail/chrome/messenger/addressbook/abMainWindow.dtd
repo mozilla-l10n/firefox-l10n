@@ -67,12 +67,6 @@
 <!ENTITY printAddressBook.label                         "Skriv ut adressbok…"> 
 <!ENTITY printAddressBook.accesskey                     "S"> 
 
-<!ENTITY quitApplicationCmdWin.label                    "Avsluta"> 
-<!ENTITY quitApplicationCmdWin.accesskey                "A">
-<!ENTITY quitApplicationCmd.label                       "Avsluta"> 
-<!ENTITY quitApplicationCmd.accesskey                   "A">
-<!ENTITY quitApplicationCmd.key                         "Q">
-
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Redigera"> 
 <!ENTITY editMenu.accesskey                             "R"> 
