@@ -5,7 +5,8 @@
 <!ENTITY itemCertificates.label  "Certyfikaty">
 
 <!-- General Settings -->
-
+<!ENTITY enableGloda.label                "Indeksowanie wiadomości">
+<!ENTITY enableGloda.accesskey            "I">
 <!ENTITY showCondensedAddresses.label     "Pokazuj tylko nazwę kontaktu dla nadawcy z mojej książki adresowej">
 <!ENTITY showCondensedAddresses.accesskey "P">
 
