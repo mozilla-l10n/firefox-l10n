@@ -79,9 +79,6 @@
 <!ENTITY sendPageCmd.accesskey "s">
 <!ENTITY printSetupCmd.label "Sideoppsett …">
 <!ENTITY printSetupCmd.accesskey "o">
-<!ENTITY printPreviewCmd.label "Forhåndsvisning">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printButtonCmd.label "Skriv ut …">
 <!ENTITY printCmd.label "Skriv ut …">
 <!ENTITY printCmd.accesskey "S">
 <!ENTITY printCmd.key "p">
@@ -99,29 +96,8 @@
 <!ENTITY pasteAs.accesskey "L">
 <!ENTITY publishSettings.label "Innstillinger for publiseringssted …">
 <!ENTITY publishSettings.accesskey "p">
-
-<!-- For a "Paste" submenu when more than 1
-     clipboard formats are available -->
-<!ENTITY pasteHTMLCmd.label "HTML">
-<!ENTITY pasteHTMLCmd.accesskey "H">
-<!ENTITY pasteTextCmd.label "Tekst">
-<!ENTITY pasteTextCmd.accesskey "t">
-<!ENTITY pasteImageCmd.label "Bilde">
-<!ENTITY pasteImageCmd.accesskey "i">
-<!ENTITY pasteRowsCmd.label "Rader">
-<!ENTITY pasteRowsCmd.accesskey "r">
-<!ENTITY pasteColumnsCmd.label "Kolonner">
-<!ENTITY pasteColumnsCmd.accesskey "k">
-<!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
-     Set to: "Table" or "Nested Table" depending on context
-     This accesskey must be in both strings -->
-<!ENTITY pasteTableCmd.accesskey "a">
-<!ENTITY pasteLinkCmd.label "Lenke">
-<!ENTITY pasteLinkCmd.accesskey "l">
 <!ENTITY pasteAsQuotationCmd.label "Lim inn som sitat">
 <!ENTITY pasteAsQuotationCmd.accesskey "s">
-<!ENTITY editStripQuotesCmd.label "Fjern sitatmerking">
-<!ENTITY editRewrapCmd.label "Bryt om igjen">
 <!ENTITY findCmd.label "Søk og erstatt …">
 <!ENTITY findCmd.accesskey "F">
 <!ENTITY findCmd.key "f">
@@ -141,13 +117,6 @@
 <!ENTITY checkSpellingCmd.key "k">
 <!ENTITY validateCmd.label "Kontroller HTML">
 <!ENTITY validateCmd.accesskey "v">
-<!ENTITY checkLinksCmd.label "Sjekk lenker">
-
-<!-- View menu items -->
-<!ENTITY viewPageSource.label "Kildekode for siden">
-<!ENTITY viewPageSource.accesskey "s">
-<!ENTITY viewParagraphMarks.label "Avsnittsmerker">
-<!ENTITY viewParagraphMarks.accesskey "A">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Sett inn">
@@ -159,41 +128,16 @@
 <!ENTITY insertAnchorCmd.accesskey "a">
 <!ENTITY insertImageCmd.label "Bilde …">
 <!ENTITY insertImageCmd.accesskey "B">
-<!ENTITY insertImageMapCmd.label "Bildekart …">
 <!ENTITY insertHLineCmd.label "Horisontal linje">
 <!ENTITY insertHLineCmd.accesskey "o">
 <!ENTITY insertTableCmd.label "Tabell …">
 <!ENTITY insertTableCmd.accesskey "t">
-<!ENTITY insertFormMenu.label "Skjema">
-<!ENTITY insertFormMenu.accesskey "S">
 <!ENTITY insertHTMLCmd.label "HTML …">
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertCharsCmd.label "Tegn og symboler …">
 <!ENTITY insertCharsCmd.accesskey "s">
-<!ENTITY insertBreakCmd.label "Linjeskift">
-<!ENTITY insertBreakCmd.accesskey "L">
 <!ENTITY insertBreakAllCmd.label "Linjeskift under bilde(r)">
 <!ENTITY insertBreakAllCmd.accesskey "u">
-
-<!-- Insert form menu items -->
-<!ENTITY insertFormCmd.label "Definer skjema …">
-<!ENTITY insertFormCmd.accesskey "D">
-<!ENTITY insertInputTagCmd.label "Skjemafelt …">
-<!ENTITY insertInputTagCmd.accesskey "f">
-<!ENTITY insertInputImageCmd.label "Skjemabilde …">
-<!ENTITY insertInputImageCmd.accesskey "b">
-<!ENTITY insertTextAreaCmd.label "Tekstområde …">
-<!ENTITY insertTextAreaCmd.accesskey "T">
-<!ENTITY insertSelectCmd.label "Alternativliste …">
-<!ENTITY insertSelectCmd.accesskey "A">
-<!ENTITY insertButtonCmd.label "Definer knapp …">
-<!ENTITY insertButtonCmd.accesskey "k">
-<!ENTITY insertLabelCmd.label "Definer etikett">
-<!ENTITY insertLabelCmd.accesskey "M">
-<!ENTITY insertFieldSetCmd.label "Definer feltsett …">
-<!ENTITY insertFieldSetCmd.accesskey "f">
-<!ENTITY insertIsIndexCmd.label "Indekssøk">
-<!ENTITY insertIsIndexCmd.accesskey "s">
 
 <!-- Used just in context popup. -->
 <!ENTITY spellCheckNoSuggestions.label "(Ingen forslag)">
@@ -238,8 +182,6 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
-<!ENTITY localfontfaceMenu.label "Lokale skrifttyper">
-<!ENTITY localfontfaceMenu.accesskey "S">
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Velg skriftstørrelse">
@@ -361,18 +303,6 @@
 <!ENTITY advancedPropertiesCmd.label "Avanserte egenskaper">
 <!ENTITY advancedPropertiesCmd.accesskey "v">
 
-<!ENTITY NormalAbbr.label "Tekst">
-<!ENTITY ParagraphAbbr.label "P">
-<!ENTITY Heading1Abbr.label "H1">
-<!ENTITY Heading2Abbr.label "H2">
-<!ENTITY Heading3Abbr.label "H3">
-<!ENTITY Heading4Abbr.label "H4">
-<!ENTITY Heading5Abbr.label "H5">
-<!ENTITY Heading6Abbr.label "H6">
-<!ENTITY BlockquoteAbbr.label "BQ">
-<!ENTITY AddressAbbr.label "Adr.">
-<!ENTITY PreformatAbbr.label "Pre.">
-
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Justering">
 <!ENTITY alignMenu.accesskey "J">
@@ -458,8 +388,6 @@
 <!ENTITY tableDeleteMenu.label "Slett">
 <!ENTITY tableDeleteMenu.accesskey "S">
 
-<!ENTITY tableFix.label "Fiks tabelloppsett">
-<!ENTITY tableFix.accesskey "t">
 <!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
@@ -501,7 +429,6 @@
 <!ENTITY linkToolbarCmd.tooltip "Sett inn ny lenke eller rediger den valgte lenkens egenskaper">
 <!ENTITY anchorToolbarCmd.label "Anker">
 <!ENTITY anchorToolbarCmd.tooltip "Sett inn nytt navngitt anker eller rediger valgt ankers egenskaper">
-<!ENTITY textColorCaption.label "Tekstfarge">
 <!ENTITY TextColorButton.tooltip "Velg tekstfarge">
 <!ENTITY BackgroundColorButton.tooltip "Velg bakgrunnsfarge">
 <!ENTITY throbber.tooltip "Gå til hjemmesiden til &vendorShortName;">
@@ -523,17 +450,6 @@
 <!ENTITY alignCenterButton.tooltip "Midtstill tekst">
 <!ENTITY alignRightButton.tooltip "Juster tekst langs høyre marg">
 <!ENTITY alignjustifyButton.tooltip "Juster tekst etter venstre og høyre marg">
-
-<!-- Formatting toolbar not used, but may be in future -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "K">
-<!ENTITY formatToolbar.underlineChar "U">
-
-<!-- Used with color pickers in Format toolbar and Format Menu -->
-<!ENTITY colorPicker.default.label "Leserens standardfarge">
-<!ENTITY colorPicker.default.accesskey "L">
-<!ENTITY colorLabel.label "Farge:">
-<!ENTITY ok.label "OK">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normal">
