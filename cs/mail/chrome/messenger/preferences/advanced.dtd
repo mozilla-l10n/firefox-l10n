@@ -6,6 +6,8 @@
 
 <!-- General Settings -->
 
+<!ENTITY enableGloda.label "Povolit indexování zpráv">
+<!ENTITY enableGloda.accesskey "P">
 <!ENTITY showCondensedAddresses.label "Zobrazit pouze jméno odesílatele, pokud je v mém adresáři">
 <!ENTITY showCondensedAddresses.accesskey "b">
 
