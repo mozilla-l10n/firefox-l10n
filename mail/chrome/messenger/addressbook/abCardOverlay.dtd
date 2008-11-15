@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
  The contents of this file are subject to the Mozilla Public License Version
@@ -162,9 +162,9 @@
 <!ENTITY Year.emptytext                 "Рік">
 
 <!-- FIXME: localize -->
-<!ENTITY allowRemoteContent.tooltip     "In HTML messages it is possible to
-embed images from remote sources. Opening such a message will open a
-connection to this external source. This may allow tracking of the
-message being read. Checking this box will allow such external embedded
-images in HTML messages from this contact.">
+<!ENTITY allowRemoteContent.tooltip     "В HTML-листи можна включати
+зображення з віддалених джерел. Під час відкриття такого листа буде здійснено
+підключення до цих джерел. Це може дозволити відслідкувати факт прочитання
+листа. Відмітивши цей флажок, ви дозволите відкривати зовнішні зображення
+в HTML-листах від цього контакту.">
 
