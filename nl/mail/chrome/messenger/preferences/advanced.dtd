@@ -6,6 +6,8 @@
 
 <!-- General Settings -->
 
+<!ENTITY enableGloda.label             "Berichtenindexer activeren">
+<!ENTITY enableGloda.accesskey         "i">
 <!ENTITY showCondensedAddresses.label  "Van personen in mijn adresboek alleen weergavenaam tonen">
 <!ENTITY showCondensedAddresses.accesskey "p">
 
