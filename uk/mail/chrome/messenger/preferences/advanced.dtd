@@ -90,3 +90,7 @@
 <!ENTITY useCacheBefore.label            "Використовувати до">
 <!ENTITY validation.accesskey           "р">
 <!ENTITY validation.label               "Перевірка">
+
+<!-- FIXME: localize -->
+<!ENTITY enableGloda.accesskey         "i">
+<!ENTITY enableGloda.label             "Enable Message Indexer">
