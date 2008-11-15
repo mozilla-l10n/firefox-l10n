@@ -49,8 +49,6 @@
 <!ENTITY newListCmd.accesskey                           "L">  
 <!ENTITY newAddressBookCmd.label                        "Livro de Endereços..."> 
 <!ENTITY newAddressBookCmd.accesskey                    "i">  
-<!ENTITY renameAddressBookCmd.label                     "Mudar Nome do Livro de Endereços..."> 
-<!ENTITY renameAddressBookCmd.accesskey                 "N">  
 <!ENTITY newLDAPDirectoryCmd.label                      "Directoria LDAP...">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
@@ -106,8 +104,6 @@
 <!ENTITY allowOnlineCheck.label                         "Verificar presença online (AOL)">
 <!ENTITY allowOnlineCheck.accesskey                     "ç">
 
-<!ENTITY stopSearchingCmd.label                         ".Parar Procura"> 
-
 <!-- Toolbar and Popup items -->  
 <!ENTITY newcardButton.label                            "Novo cartão">  
 <!ENTITY newcardButton.accesskey                        "C">  
@@ -121,9 +117,6 @@
 <!ENTITY deleteButton.accesskey                         "l">  
 <!ENTITY newimButton.label                              "Mensagem Instantânea">  
 <!ENTITY newimButton.accesskey                          "I">  
-<!ENTITY stopButton.label                               ".Parar">  
-<!ENTITY searchButton.label                             ".Pesquisar">  
-<!ENTITY showNames.label                                "Mostrar nomes que contêm:">  
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Barra de ferramentas do Livro de Endereços">
@@ -133,10 +126,7 @@
 <!ENTITY newmsgButton.tooltip                           "Enviar uma mensagem de correio"> 
 <!ENTITY newIM.tooltip                                  "Enviar uma mensagem instantânea ou de chat"> 
 <!ENTITY deleteButton.tooltip                           "Apagar o cartão seleccionado ou o livro de endereços"> 
-<!ENTITY stopButton.tooltip                             "Parar a transferência actual"> 
-<!ENTITY searchButton.tooltip                           "Pesquisar o livro de endereços seleccionado"> 
 <!ENTITY throbber.tooltip                               "Ir para a página inicial do &vendorShortName;">
-<!ENTITY clearButton.tooltip                            "Limpar os critérios de pesquisa e mostrar todas as entradas">
 <!ENTITY advancedButton.tooltip                         "Pesquisa avançada de endereços">
 
 <!-- Status Bar -->  

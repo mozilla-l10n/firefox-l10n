@@ -3,7 +3,6 @@
 <!ENTITY accountTitle.label "Configurações da Conta">
 <!ENTITY accountName.label "Nome da Conta:">
 <!ENTITY accountName.accesskey "n">
-<!ENTITY accountNameDesc.label "O nome da conta é usado para identificar cada conta">
 <!ENTITY identityTitle.label "Identidade Pré-Definida">
 <!ENTITY identityDesc.label "Cada conta tem uma identidade, que é a informação que as outras pessoas vêem quando lêem as suas mensagens.">
 <!ENTITY name.label "O seu Nome:">
@@ -16,7 +15,6 @@
 <!ENTITY organization.accesskey "O">
 <!ENTITY signature.label "Anexar esta assinatura:">
 <!ENTITY signature.accesskey "t">
-<!ENTITY edit.label "Editar...">
 <!ENTITY choose.label "Escolher...">
 <!ENTITY choose.accesskey "c">
 <!ENTITY editVCard.label "Editar Cartão...">
