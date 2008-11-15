@@ -1,4 +1,4 @@
-
+﻿
 <!ENTITY addressbookPicker.label            "Адресна книга:">
 <!ENTITY searchInput.label                  "Пошук:">
 <!ENTITY SearchNameOrEmail.label            "Ім’я або адреса електронної пошти">
@@ -16,12 +16,12 @@
 
 
 <!-- FIXME: localize -->
-<!ENTITY addrBookCardProperties.label       "Properties">
-<!ENTITY addressbookPicker.accesskey        "k">
-<!ENTITY bccButton.accesskey                "B">
-<!ENTITY bccButton.label                    "Add to Bcc:">
-<!ENTITY ccButton.accesskey                 "d">
-<!ENTITY bccButton.accesskey                "B">
-<!ENTITY deleteAddrBookCard.label           "Delete">
-<!ENTITY searchInput.accesskey              "o">
-<!ENTITY toButton.accesskey                 "A">
+<!ENTITY addrBookCardProperties.label       "Властивості">
+<!ENTITY addressbookPicker.accesskey        "к">
+<!ENTITY bccButton.accesskey                "п">
+<!ENTITY bccButton.label                    "Потайна копія:">
+<!ENTITY ccButton.accesskey                 "і">
+<!ENTITY bccButton.accesskey                "П">
+<!ENTITY deleteAddrBookCard.label           "Знищити">
+<!ENTITY searchInput.accesskey              "о">
+<!ENTITY toButton.accesskey                 "м">
