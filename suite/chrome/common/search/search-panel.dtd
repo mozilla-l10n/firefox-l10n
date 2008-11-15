@@ -35,20 +35,15 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY search.button.label "Zoeken">
-<!ENTITY search.results.tab "Toepassen">
-<!ENTITY search.advanced.tab "Instellingen voor">
-<!ENTITY allengines.label "Alle zoekmachines">
-<!ENTITY within.label "binnen">
-<!ENTITY using.label "met">
-<!ENTITY choose.label "Kies een zoekmachine en klik op Zoeken">
-<!ENTITY results.label "Zoekresultaten">
-<!ENTITY engine.column.label "Zoekmachines">
-<!ENTITY checkbox.column.label "Gebruik">
-<!ENTITY stop.button.label "Stop">
+<!ENTITY search.button.label      "Zoeken">
+<!ENTITY allengines.label         "Alle zoekmachines">
+<!ENTITY within.label             "binnen">
+<!ENTITY using.label              "met">
+<!ENTITY choose.label             "Kies een zoekmachine en klik op Zoeken">
+<!ENTITY results.label            "Zoekresultaten">
+<!ENTITY engine.column.label      "Zoekmachines">
 <!ENTITY customize.menuitem.label "Bewerk categorieën…">
-<!ENTITY savesearch.button.label "Maak een bladwijzer van deze zoekopdracht">
-<!ENTITY next.button.label "Volgende">
-<!ENTITY previous.button.label "Vorige">
-<!ENTITY next.button.tooltip "Volgende resultaten">
-<!ENTITY previous.button.tooltip "Vorige resultaten">
+<!ENTITY next.button.label        "Volgende">
+<!ENTITY previous.button.label    "Vorige">
+<!ENTITY next.button.tooltip      "Volgende resultaten">
+<!ENTITY previous.button.tooltip  "Vorige resultaten">

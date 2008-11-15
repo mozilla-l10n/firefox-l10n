@@ -55,8 +55,6 @@
 <!ENTITY warn.insecurepost.accesskey        "s">
 <!ENTITY warn.leavingsecure                 "Het verlaten van pagina dat versleuteling ondersteund">
 <!ENTITY warn.leavingsecure.accesskey       "a">
-<!ENTITY warn.secureredirect                "Doorsturen van een versleutelde pagina naar een andere">
-<!ENTITY warn.secureredirecttoinsecure      "Doorsturen van een versleutelde pagina naar een niet versleutelde">
 <!ENTITY warn.viewmixed                     "Het bekijken van een pagina met een versleutelde/ niet versleutelde  mix">
 <!ENTITY warn.viewmixed.accesskey           "V">
 

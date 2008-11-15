@@ -7,14 +7,10 @@
 <!ENTITY colors.label "Kleuren">
 <!ENTITY navigator.label "Browser">
 <!ENTITY history.label "Geschiedenis">
-<!ENTITY bidi.label "Bidi opties">
 <!ENTITY languages.label "Talen">
 <!ENTITY applications.label "Hulptoepassingen">
 <!ENTITY locationBar.label "Locatiebalk">
 <!ENTITY tabWindows.label "Bladeren met tabbladen">
-<!ENTITY compose.label "Composer">
-<!ENTITY editing.label "Nieuwe pagina-instellingen">
-<!ENTITY publish.label "Publiceren">
 <!ENTITY offline.label "Offline">
 <!ENTITY security.label "Privacy &amp; veiligheid">
 <!ENTITY cookies.label "Cookies">

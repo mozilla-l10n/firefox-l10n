@@ -36,8 +36,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  resetsettings.label      "Instellingen herinitialiseren">
-<!ENTITY  resetpreferences.label   "Voorkeuren herinitialiseren…">
 <!ENTITY  managecerts.caption      "Certificaten beheren">
 <!ENTITY  managecerts.text         "Gebruik de certificaatbeheerder om uw persoonlijke certificaten en die van andere en certificaatautoriteiten te beheren.">
 <!ENTITY  managecerts.button       "Certificaten beheren…">

@@ -15,8 +15,6 @@
 <!ENTITY openFrameCmdInTab.accesskey    "t">
 <!ENTITY showOnlyThisFrameCmd.label     "Alleen dit deelvenster tonen">
 <!ENTITY showOnlyThisFrameCmd.accesskey "d">
-<!ENTITY addToBookmarksCmd.label        "Bladwijzer van deze pagina maken">
-<!ENTITY addToBookmarksCmd.accesskey    "l">
 <!ENTITY goBackCmd.label                "Terug">
 <!ENTITY goBackCmd.accesskey            "T">
 <!ENTITY goForwardCmd.label             "Vooruit">

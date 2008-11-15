@@ -24,19 +24,17 @@
 <!ENTITY buttonaccept.label             "Sluiten">
 <!ENTITY     buttonaccept.accesskey         "S">
 
-<!ENTITY blockSite.label                "Blokkeren">
+<!ENTITY     blockSite.label                "Blokkeren">
 <!ENTITY     blockSite.accesskey            "B">
-<!ENTITY allowSite.label                "Toestaan">
+<!ENTITY     allowSite.label                "Toestaan">
 <!ENTITY     allowSite.accesskey            "T">
-<!ENTITY allowSiteSession.label         "Sessie">
+<!ENTITY     allowSiteSession.label         "Sessie">
 <!ENTITY     allowSiteSession.accesskey     "S">
-<!ENTITY removepermission.label         "Webpagina verwijderen">
+<!ENTITY     removepermission.label         "Webpagina verwijderen">
 <!ENTITY     removepermission.accesskey     "v">
-<!ENTITY removeallpermissions.label     "Alle webpagina’s verwijderen">
+<!ENTITY     removeallpermissions.label     "Alle webpagina’s verwijderen">
 <!ENTITY     removeallpermissions.accesskey "a">
 
-<!ENTITY canSet.label                   "Kan cookies instellen">
-<!ENTITY cannotSet.label                "Kan geen cookies instellen">
 
 <!ENTITY     futureCookies.label            "Websites waarvan cookies zijn verwijderd niet toestaan nieuwe cookies in te stellen">
 <!ENTITY     futureCookies.accesskey        "W">
