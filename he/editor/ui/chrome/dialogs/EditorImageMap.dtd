@@ -13,7 +13,7 @@
 <!ENTITY cpercentCmd.label "400">
 <!-- ### ENTITY cut.accesskey "x" -->
 <!ENTITY cutCmd.label "גזור">
-<!ENTITY delSpotCmd.label "מחק נקודה">
+<!-- ###ENTITY delSpotCmd.label "מחק נקודה"-->
 <!ENTITY mapeditMenu.label "עריכה">
 <!-- ### ENTITY mapeditcopy.accesskey "c" -->
 <!-- ### ENTITY mapeditcut.accesskey "t"  -->

@@ -1,7 +1,7 @@
-<!ENTITY changeUrlButton.label "שינוי מיקום של הפריט הנבחר">
+<!-- ###ENTITY changeUrlButton.label "שינוי מיקום של הפריט הנבחר"-->
 <!ENTITY closeButton.label "סגור">
 <!ENTITY failed.label "נכשל">
-<!ENTITY notFoundKey.label "(&quot;X&quot; = קובץ לא נמצא, &quot;?&quot; = תם הזמן המוקצב להתחברות.)">
+<!-- ###ENTITY notFoundKey.label "(&quot;X&quot; = קובץ לא נמצא, &quot;?&quot; = תם הזמן המוקצב להתחברות.)"-->
 <!ENTITY succeeded.label "הצליח">
-<!ENTITY urlsNotFound.label "מיקומי התמונה או הקישור הבאים לא נמצאו:">
+<!-- ###ENTITY urlsNotFound.label "מיקומי התמונה או הקישור הבאים לא נמצאו:"-->
 <!ENTITY windowTitle.label "בדוק מיקומי תמונות וקישורים">
