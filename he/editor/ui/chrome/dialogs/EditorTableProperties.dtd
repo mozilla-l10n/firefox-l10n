@@ -7,24 +7,24 @@
 <!ENTITY applyButton.label "החל">
 <!ENTITY backgroundColor.accessKey "B">
 <!ENTITY backgroundColor.label "צבע רקע:">
-<!ENTITY cellAlignAtChar.label "בתו:">
+<!--###ENTITY cellAlignAtChar.label "בתו:"-->
 <!ENTITY cellAlignBottom.label "למטה">
 <!ENTITY cellAlignJustify.label "יישור דו־צידי">
 <!ENTITY cellAlignMiddle.label "מרכז">
 <!ENTITY cellAlignTop.label "למעלה">
-<!ENTITY cellApplyBeforeMove.label "החל שינויים לפני שינוי הבחירה">
-<!ENTITY cellColSpan.label "חוצה עמודות:">
+<!--###ENTITY cellApplyBeforeMove.label "החל שינויים לפני שינוי הבחירה"-->
+<!--###ENTITY cellColSpan.label "חוצה עמודות:"-->
 <!ENTITY cellContentAlignment.label "ישור תכולה">
 <!ENTITY cellHeader.label "כותרת">
 <!ENTITY cellHorizontal.accessKey "Z">
 <!ENTITY cellHorizontal.label "אופקי:">
 <!ENTITY cellInheritColor.label "(הנח לצבע הטבלה להיראות)">
-<!ENTITY cellKeepCurrentData.label "שמור על הגדרות נוכחיות">
+<!--###ENTITY cellKeepCurrentData.label "שמור על הגדרות נוכחיות"-->
 <!ENTITY cellNoWrap.label "ללא גלישה">
 <!ENTITY cellNormal.label "רגיל">
-<!ENTITY cellPercent.label "אחוז מטבלה">
+<!--###ENTITY cellPercent.label "אחוז מטבלה"-->
 <!ENTITY applyBeforeChange.label          "שינויים נוכחיים יחולו לפני שינוי הבחירה.">
-<!ENTITY cellRowSpan.label "חוצה שורות:">
+<!--###ENTITY cellRowSpan.label "חוצה שורות:"-->
 <!ENTITY cellSelectCell.label "תא">
 <!ENTITY cellSelectColumn.label "עמודה">
 <!ENTITY cellSelectNext.accessKey "N">

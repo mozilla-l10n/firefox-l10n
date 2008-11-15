@@ -17,14 +17,14 @@
 <!ENTITY publishImgCheckbox.tooltip "פרסם תמונות וקבצים אחרים המאוזכרים על־ידי דף זה">
 <!ENTITY publishSites.label "אתרי פרסום">
 <!ENTITY publishTab.label "פרסום">
-<!ENTITY relatedDocs.label "קבצים אחרים לפרסום">
+<!--###ENTITY relatedDocs.label "קבצים אחרים לפרסום"-->
 <!ENTITY removeButton.label "הסר אתר">
 <!ENTITY sameLocationRadio.label "השתמש באותו מיקום כשל הדף">
 <!ENTITY sameLocationRadio.tooltip "פרסם קבצים לאותו מיקום כשל הדף">
 <!ENTITY savePassword.label "שמור סיסמה">
 <!ENTITY savePassword.tooltip "בחר זאת כדי לשמור את סיסמתך באופן מאובטח על־ידי מנהל הסיסמאות">
 <!ENTITY serverInfo.label "מידע על השרת">
-<!ENTITY setDefSiteAndDir.label "הגדר כאתר וספריית ברירת מחדל">
+<!--###ENTITY setDefSiteAndDir.label "הגדר כאתר וספריית ברירת מחדל"-->
 <!ENTITY setDefaultButton.label "הגדר כברירת מחדל">
 <!ENTITY settingsTab.label "הגדרות">
 <!-- ### ENTITY siteDirList.label "בחר או הקלד שם ספרייה באתר הפרסום שלך:" -->

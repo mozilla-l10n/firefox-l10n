@@ -42,11 +42,11 @@
 <!ENTITY printCmd.label "הדפסה...">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "ד">
-<!ENTITY quitApplicationCmdWin.label "יציאה">
-<!ENTITY quitApplicationCmdWin.accesskey "צ">
-<!ENTITY quitApplicationCmd.label "יציאה">
-<!ENTITY quitApplicationCmd.accesskey "Q">
-<!ENTITY quitApplicationCmd.key "Q">
+<!--###ENTITY quitApplicationCmdWin.label "יציאה"-->
+<!--###ENTITY quitApplicationCmdWin.accesskey "צ"-->
+<!--###ENTITY quitApplicationCmd.label "יציאה"-->
+<!--###ENTITY quitApplicationCmd.accesskey "Q"-->
+<!--###ENTITY quitApplicationCmd.key "Q"-->
 <!ENTITY editMenu.label "עריכה">
 <!ENTITY editMenu.accesskey "ע">
 <!ENTITY undoCmd.label "בטל">

@@ -6,6 +6,10 @@
 <!ENTITY showCondensedAddresses.label "הצג רק שמות תצוגה לאנשים שבפנקס הכתובות שלי">
 <!ENTITY showCondensedAddresses.accesskey "צ">
 
+<!-- General Settings -->
+
+<!ENTITY enableGloda.label             "אפשר אינדוקס הודעות">
+<!ENTITY enableGloda.accesskey         "י">
 <!ENTITY autoMarkAsRead.label          "סמן אוטומטית הודעות כנקראו">
 <!ENTITY autoMarkAsRead.accesskey      "א">
 

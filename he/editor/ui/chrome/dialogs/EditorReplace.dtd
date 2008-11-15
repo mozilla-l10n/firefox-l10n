@@ -7,7 +7,7 @@
 <!ENTITY findField.label "מצא טקסט:">
 <!ENTITY findNextButton.accesskey "F">
 <!ENTITY findNextButton.label "מצא את הבא">
-<!ENTITY notFoundWarning.label "הטקסט שהכנסת לא נמצא.">
+<!--###ENTITY notFoundWarning.label "הטקסט שהכנסת לא נמצא."-->
 <!ENTITY replaceAllButton.accesskey "A">
 <!ENTITY replaceAllButton.label "החלף הכל">
 <!ENTITY replaceAndFindButton.accesskey "d">
