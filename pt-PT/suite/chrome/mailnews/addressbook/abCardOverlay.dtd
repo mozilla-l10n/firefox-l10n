@@ -86,7 +86,7 @@
 incluir imagens de origens remotas. Abrir assim uma mensagem irá abrir
 uma ligação a uma fonte externa. Isto pode levar a um seguimento da mensagem
 ao ser lida. Ao seleccionar esta caixa irá permitir imagens remotas em
-mensagens HTML deste contacto..">
+mensagens HTML deste contacto.">
 
 <!ENTITY WorkPhone.label                "Trabalho:">
 <!ENTITY WorkPhone.accesskey            "T">
@@ -97,7 +97,7 @@ mensagens HTML deste contacto..">
 <!ENTITY PagerNumber.label              "Pager:">
 <!ENTITY PagerNumber.accesskey          "P">
 <!ENTITY CellularNumber.label           "Telemóvel:">
-<!ENTITY CellularNumber.accesskey       "v"
+<!ENTITY CellularNumber.accesskey       "v">
 
 <!ENTITY Home.tab                       "Privado">
 <!ENTITY Home.accesskey                 "P">
@@ -119,7 +119,7 @@ mensagens HTML deste contacto..">
 <!ENTITY Birthday.accesskey             "v">
 <!ENTITY Year.emptytext                 "Ano">
 <!ENTITY Or.value                       "ou">
-<!ENTITY Age.emptytext                  "Idade
+<!ENTITY Age.emptytext                  "Idade">
 
 <!ENTITY Work.tab                       "Trabalho"> 
 <!ENTITY Work.accesskey                 "T">
