@@ -41,7 +41,7 @@
 <!ENTITY  reloadAllTabs.accesskey  "a">
 <!ENTITY  reloadTab.label          "Uppdatera flik">
 <!ENTITY  reloadTab.accesskey      "U">
-<!ENTITY  listAllTabs.label        "Listar alla flikar">
+<!ENTITY  listAllTabs.label        "Visa upp alla flikar">
 <!ENTITY  bookmarkAllTabs.label       "Bokmärke för alla flikar…">
 <!ENTITY  bookmarkAllTabs.accesskey   "m">
 <!ENTITY  bookmarkThisTab.label       "Bokmärke för denna flik">
