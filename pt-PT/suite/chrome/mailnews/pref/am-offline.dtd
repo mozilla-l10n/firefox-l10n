@@ -15,7 +15,7 @@
 <!ENTITY retentionKeepMsg.label "Apagar mensagens com mais de">
 <!ENTITY retentionKeepMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Não apagar qualquer mensagem">
-<!ENTITY retentionKeepAll.accesskey "ã">
+<!ENTITY retentionKeepAll.accesskey "g">
 <!ENTITY retentionKeepNew.label "Apagar todas menos as últimas">
 <!ENTITY retentionKeepNew.accesskey "l">
 <!ENTITY retentionKeepUnread.label "Apagar sempre todas as mensagens lidas">

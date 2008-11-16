@@ -43,7 +43,7 @@
 <!ENTITY convertPlain.label           "Converter a mensagem para texto simples (poderá perder-se alguma formatação)">
 <!ENTITY convertPlain.accesskey       "C">
 <!ENTITY sendHTML.label               "Enviar a mensagem como texto formatado (HTML) de qualquer maneira (alguns programas de correio não a apresentarão)">
-<!ENTITY sendHTML.accesskey           "s">
+<!ENTITY sendHTML.accesskey           "v">
 <!ENTITY sendBoth.label               "Enviar a mensagem tanto em texto simples como em HTML (maior tamanho da mensagem)">
 <!ENTITY sendBoth.accesskey           "n">
 <!ENTITY override.label               "Pode ultrapassar estas definições para mensagens individuais, usando o menu Opções ao criar a mensagem.">
@@ -54,13 +54,13 @@
 <!ENTITY HTMLdomaintitle.label        "Domínio HTML">
 <!ENTITY HTMLdomaintitle.accesskey    "M">
 <!ENTITY PlainTexttitle.label         "Domínios formato de texto">
-<!ENTITY PlainTexttitle.accesskey     "P">
+<!ENTITY PlainTexttitle.accesskey     "D">
 <!ENTITY AddButton.label              "Adicionar">
 <!ENTITY AddHtmlDomain.accesskey      "A">
 <!ENTITY AddPlainText.accesskey       "d">
 <!ENTITY DeleteButton.label           "Eliminar">
 <!ENTITY DeleteHtmlDomain.accesskey   "e">
-<!ENTITY DeletePlainText.accesskey    "t">
+<!ENTITY DeletePlainText.accesskey    "l">
 
 <!-- Add Domain Name -->
 <!ENTITY add.htmltitle                "Adicionar nome de domínio HTML ">

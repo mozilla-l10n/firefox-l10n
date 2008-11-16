@@ -48,4 +48,4 @@
 <!ENTITY sendDefaultCharset.label        "Codificação de caracteres pré-definida:">
 <!ENTITY sendDefaultCharset.accesskey    "C">
 <!ENTITY replyInDefaultCharset2.label     "Usar sempre a codificação de caracteres pré-definida em respostas. (Se não estiver seleccionado, apenas as novas mensagens usam esta pré-definição.)">
-<!ENTITY replyInDefaultCharset2.accesskey "w">
+<!ENTITY replyInDefaultCharset2.accesskey "U">

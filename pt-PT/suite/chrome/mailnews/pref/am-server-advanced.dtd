@@ -15,7 +15,7 @@
 <!ENTITY personalNamespace.label "Namespace Pessoal:">
 <!ENTITY personalNamespace.accesskey "P">
 <!ENTITY publicNamespace.label "Pública (partilhada):">
-<!ENTITY publicNamespace.accesskey "ú">
+<!ENTITY publicNamespace.accesskey "b">
 <!ENTITY otherUsersNamespace.label "Outros Utilizadores:">
 <!ENTITY otherUsersNamespace.accesskey "O">
 <!ENTITY overrideNamespaces.label "Permitir ao servidor ultrapassar estes namespaces">
@@ -26,6 +26,6 @@
 <!ENTITY accountDirectory.label "Caixa de Entrada para esta conta do Servidor">
 <!ENTITY accountDirectory.accesskey "S">
 <!ENTITY deferToServer.label "Caixa de Entrada para uma conta diferente do servidor">
-<!ENTITY deferToServer.accesskey "D">
+<!ENTITY deferToServer.accesskey "d">
 <!ENTITY deferGetNewMail.label "Incluir este servidor na recepção de correio">
 <!ENTITY deferGetNewMail.accesskey "I">

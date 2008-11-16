@@ -39,7 +39,7 @@
 <!ENTITY pref.receipts.title          "Recibos de Leitura">
 <!ENTITY prefReceipts.caption         "Recibos de Leitura">
 <!ENTITY requestReceipt.label         "Ao enviar mensagens, pedir sempre um recibo de leitura">
-<!ENTITY requestReceipt.accesskey     "O">
+<!ENTITY requestReceipt.accesskey     "o">
 <!ENTITY receiptArrive.label          "Quando chega um recibo:">
 <!ENTITY leaveIt.label                "Deixar na caixa de entrada">
 <!ENTITY leaveIt.accesskey            "d">
