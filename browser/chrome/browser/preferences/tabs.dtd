@@ -6,5 +6,5 @@
 <!ENTITY warnOpenManyTabs.accesskey "o">
 <!ENTITY showTabBar.label "Sýna alltaf flipaslá">
 <!ENTITY showTabBar.accesskey "f">
-<!ENTITY switchToNewTabs.label "Þegar ég opna tengil í nýjum flipa, skipta yfir á hann strax">
+<!ENTITY switchToNewTabs.label "Þegar ég opna tengil í nýjum flipa, skipta strax yfir á hann">
 <!ENTITY switchToNewTabs.accesskey "s">

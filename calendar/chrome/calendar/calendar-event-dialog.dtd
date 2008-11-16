@@ -312,7 +312,7 @@
 <!ENTITY event.repeat.until.label "Endurtaka þangað til">
 <!ENTITY event.recurrence.preview.label "Forskoða">
 <!-- Reminder dialog -->
-<!ENTITY alarm.units.minutes "mínútu fresti">
+<!ENTITY alarm.units.minutes "mínútur">
 <!ENTITY alarm.units.hours "klukkustundir">
 <!ENTITY alarm.units.days "dagar">
 <!ENTITY reminder.title.label "Sérniðin áminning">

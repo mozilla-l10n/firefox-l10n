@@ -39,7 +39,7 @@
 <!ENTITY unknownSocketType.title "Óvænt svar frá vefþjóni">
 <!ENTITY unknownSocketType.longDesc "<p>Vefsvæðið svaraði netbeiðni á óvæntan hátt þannig að vafrinn getur ekki haldið áfram.</p>">
 <!ENTITY nssFailure2.title "Örugg tenging mistókst">
-<!ENTITY nssFailure2.longDesc "<p>Ekki er hægt að skoða síðuna því ekki er hægt að sannvotta gögnin sem voru móttekin.</p><ul><li>Vinsamlega hafðu samband við vefstjóra vefsvæðisins og láttu þá vita af þessu vandamáli.</li></ul>">
+<!ENTITY nssFailure2.longDesc "<p>Ekki er hægt að skoða síðuna því ekki er hægt að sannvotta gögnin sem voru móttekin.</p><ul><li>Vinsamlega hafðu samband við vefstjóra vefsvæðisins og láttu hann vita af þessu vandamáli.</li></ul>">
 <!ENTITY nssBadCert.title "Örugg tenging mistókst">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Þetta gæti verið vegna vandamála í stillingum vefþjóns, eða einhver gæti verið reyna að þykjast vera þessi vefþjónn.</li> <li>Ef þú hefur getað tengst þessum vefþjóni án vandamála áður, gæti verið að vandamálið væri aðeins tímabundið, þannig að þú gætir reynt aftur seinna.</li> </ul>
 ">
