@@ -2,26 +2,26 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
 <!ENTITY rights.intro-header    "Om dine rettigheter">
-<!ENTITY rights.intro "&brandFullName; er programvare basert på fri og åpen kildekode, som er bygd av et fellesskap av tusenvis rundt om i hele verden. Det er noen ting du bør være oppmerksom på:">
+<!ENTITY rights.intro "&brandFullName; er programvare basert på fri og åpen kildekode, utviklet av et samfunn med tusenvis av medlemmer rundt om i verden. Det er noen ting du bør vite:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
-     split into chunks for text before the link, the link test, and the text
+     split into chunks for text before the link, the link text, and the text
      after the link. If a localized grammar doesn't need the before or after
      chunk, it can be left blank.
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-<!ENTITY rights.intro-point1a "&brandShortName; er gjort tilgjengelig for deg under betingelsene i ">
+<!ENTITY rights.intro-point1a "&brandShortName; er tilgjengelig for deg under betingelsene i ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
-<!ENTITY rights.intro-point1c ". Dette betyr at du kan bruke, kopiere og distribuere &brandShortName; til andre. Du kan også forandre kildekoden til &brandShortName; som du vil, for å passe til dine behov. Mozilla Public License gir deg også rett til å distribuere forandrede versjoner.">
+<!ENTITY rights.intro-point1c ". Dette betyr at du kan bruke, kopiere og formidle &brandShortName; til andre. Du kan også forandre kildekoden til &brandShortName; for å passe til dine behov. Mozilla Public License gir deg også rett til å formidle forandrede versjoner.">
 
-<!ENTITY rights.intro-point2a "Mozilla gir deg ikke rett til å bruke Mozilla- eller Firefox-varemerkene eller logoer. Mer informasjon om varemerker kan du finne ">
+<!ENTITY rights.intro-point2a "Mozilla gir deg ikke rett til å bruke Mozilla- eller Firefox-varemerkene eller logoene. Mer informasjon om varemerker kan du finne ">
 <!ENTITY rights.intro-point2b "her">
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "Personvernerklæring for &vendorShortName; sine produkter kan du finne ">
+<!ENTITY rights.intro-point3a "Personvernerklæring for &vendorShortName;-produkter kan du finne ">
 <!ENTITY rights.intro-point3b "her">
 <!ENTITY rights.intro-point3c ".">
 
@@ -29,23 +29,23 @@
 <!ENTITY rights.intro-point3-unbranded "Informasjon om personvernerklæring for dette produktet bør være henvist her.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; gir deg også valgfrie nettside-informasjonstjenester, som blant annet SafeBrowsing-tjenesten; vi kan likevel ikke garantere at de er 100&#37; nøyaktige eller feilfrie. Mer informasjon, også om hvordan tjenestene kan slås av, kan du finne i ">
-<!ENTITY rights.intro-point4b "tjenestebetingelser">
+<!ENTITY rights.intro-point4a "&brandShortName; tilbyr også valgfrie informasjonstjenester som blant annet SafeBrowsing-tjenesten; men vi kan ikke garantere at de er 100&#37; feilfrie. Mer informasjon, også om hvordan tjenestene kan slås av, kan du finne i ">
+<!ENTITY rights.intro-point4b "tjenestebetingelsene">
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "Dersom dette produktet omfatter web-tjenester, så bør tjenestevilkår for tjenestene lenkes opp i  ">
-<!ENTITY rights.intro-point4b-unbranded "Web-tjenester">
+<!ENTITY rights.intro-point4a-unbranded "Dersom dette produktet omfatter informasjonstjenester, så bør tjenestevilkår for tjenestene lenkes opp i  ">
+<!ENTITY rights.intro-point4b-unbranded "Informasjonstjenester">
 <!ENTITY rights.intro-point4c-unbranded "-seksjonen.">
 
-<!ENTITY rights.webservices-header "&brandFullName; Web-tjenester">
+<!ENTITY rights.webservices-header "&brandFullName; informasjonstjenester">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; bruker web-tjenester (&quot;Tjenester&quot;), som blant annet SafeBrowsing-tjenesten, som er tilgjengelige til deg i den binære versjonen av &brandShortName; som beskrevet nedenfor. Dersom du ikke ønsker å bruke Tjenestene, eller om vilkårene nedenfor ikke er akseptable, kan du slå av SafeBrowsing-tjenesten fra Programmer-innstillingene, ved å velge ">
+<!ENTITY rights.webservices-a "&brandFullName; bruker informasjonstjenester (&quot;Tjenester&quot;), som blant annet SafeBrowsing-tjenesten, som er tilgjengelige for deg i den binære versjonen av &brandShortName; som beskrevet nedenfor. Dersom du ikke ønsker å bruke Tjenestene, eller om vilkårene nedenfor ikke er akseptable, kan du slå av SafeBrowsing-tjenesten fra Programmer-innstillingene, ved å velge ">
 <!ENTITY rights.webservices-b "Sikkerhet">
 <!ENTITY rights.webservices-c "-seksjonen, og deretter fjerne avkryssingene fra &quot;&blockAttackSites.label;&quot; og &quot;&blockWebForgeries.label;&quot;">
 
