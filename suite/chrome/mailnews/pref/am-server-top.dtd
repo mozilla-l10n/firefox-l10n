@@ -18,14 +18,14 @@
 -->
 <!ENTITY biffStart.label "Verificar por novas mensagens a cada ">
 <!ENTITY biffStart.accesskey "f">
-<!ENTITY biffEnd.label "minutes">
+<!ENTITY biffEnd.label "minutos">
 <!ENTITY isSecure.label "Usar ligação segura (SSL)">
 <!ENTITY isSecure.accesskey "U">
 <!ENTITY socketType.label "Usar ligação segura:">
 <!ENTITY neverSecure.label "Nunca">
 <!ENTITY neverSecure.accesskey "N">
 <!ENTITY sometimesSecure.label "TLS, se disponível">
-<!ENTITY sometimesSecure.accesskey "í">
+<!ENTITY sometimesSecure.accesskey "o">
 <!ENTITY alwaysSecure.label "TLS">
 <!ENTITY alwaysSecure.accesskey "T">
 <!ENTITY alwaysSSL.label "SSL">
@@ -40,16 +40,16 @@
 <!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "dias">
 <!ENTITY deleteOnServer2.label "Até eu apagá-los">
-<!ENTITY deleteOnServer2.accesskey "á">
+<!ENTITY deleteOnServer2.accesskey "l">
 <!ENTITY downloadOnBiff.label "Transferir automaticamente novas mensagens">
-<!ENTITY downloadOnBiff.accesskey "á">
+<!ENTITY downloadOnBiff.accesskey "v">
 <!ENTITY username.label "O seu nome de início de sessão">
 <!ENTITY deleteMessagePrefix.label "Quando eu apagar uma mensagem:">
 <!ENTITY modelMoveToTrash.label "Mover para esta pasta:">
 <!ENTITY modelMoveToTrash.accesskey "o">
 <!ENTITY modelMarkDeleted.label "Marcar como apagada">
 <!ENTITY modelMarkDeleted.accesskey "p">
-<!ENTITY modelDeleteImmediately.label "Apagá-la Rapidamente">
+<!ENTITY modelDeleteImmediately.label "Apagá-la rápidamente">
 <!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Limpar a (&quot;Expunge&quot;) Caixa de Entrada ao Sair">

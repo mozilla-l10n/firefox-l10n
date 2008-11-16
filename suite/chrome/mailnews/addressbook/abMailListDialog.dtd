@@ -50,6 +50,6 @@
 <!-- Access Keys -->
 <!ENTITY addToAddressBook.accesskey     "A">
 <!ENTITY ListName.accesskey             "L">
-<!ENTITY ListNickName.accesskey         "L">
+<!ENTITY ListNickName.accesskey         "c">
 <!ENTITY ListDescription.accesskey      "e">
 

@@ -1,7 +1,7 @@
 ﻿<!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label "Assistente de Configuração de Conta">
-<!ENTITY accountWizard.size "width: 47em; height: 38em;">
+<!ENTITY accountWizard.size "width: 55em; height: 44em;">
 
 <!-- Entities for Account Type page -->
 
@@ -106,4 +106,4 @@
 <!ENTITY deferStorageDesc.label "Des-seleccione a caixa de confirmação para guardar o correio desta conta na sua própria pasta. Isto vai tornar a sua conta como uma conta principal. De outra maneira, fará parte da Pasta Geral do Correio a receber.">
 <!ENTITY deferStorage.label "Usar a Caixa de Correio a Receber Geral (Guardar o correio em Pastas Locais)">
 <!ENTITY clickFinish.label "Clique Terminar para guardar estas configurações e Sair do Assistente.">
-<!ENTITY clickFinish.labelMac "Clique feito para guardar estas definições e sair do Assistente de conta.">
+<!ENTITY clickFinish.labelMac "Clique Feito para guardar estas definições e sair do Assistente de conta.">

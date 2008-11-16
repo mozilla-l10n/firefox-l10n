@@ -27,6 +27,6 @@
 <!ENTITY manageIdentities.accesskey "i">
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
-<!ENTITY smtpName.label "Outgoing Server (SMTP):">
-<!ENTITY smtpName.accesskey "u">
+<!ENTITY smtpName.label "Servidor de saída (SMTP):">
+<!ENTITY smtpName.accesskey "v">
 <!ENTITY smtpDefaultServer.label "Usar servidor pré-definido">

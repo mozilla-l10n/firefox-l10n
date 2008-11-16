@@ -107,7 +107,7 @@
 <!-- Toolbar and Popup items -->  
 <!ENTITY newcardButton.label                            "Novo cartão">  
 <!ENTITY newcardButton.accesskey                        "C">  
-<!ENTITY newlistButton.label                            "New List">  
+<!ENTITY newlistButton.label                            "Nova Lista">  
 <!ENTITY newlistButton.accesskey                        "L">  
 <!ENTITY editButton.label                               "Propriedades">  
 <!ENTITY editButton.accesskey                           "P">  
