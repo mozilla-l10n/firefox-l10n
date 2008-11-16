@@ -6,6 +6,8 @@
 
 <!-- General Settings -->
 
+<!ENTITY enableGloda.label             "გზავნილთა ინდექსაციის ჩართვა">
+<!ENTITY enableGloda.accesskey         "i">
 <!ENTITY showCondensedAddresses.label  "წიგნაკში შეტანილი პირების მხოლოდ ეკრანული სახელის ჩვენება">
 <!ENTITY showCondensedAddresses.accesskey "p">
 
