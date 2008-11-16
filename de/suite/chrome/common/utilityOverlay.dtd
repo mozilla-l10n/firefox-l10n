@@ -86,6 +86,21 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
+<!ENTITY customizeToolbar.toolbarmode.label       "Einstellungen für diese Symbolleiste">
+<!ENTITY customizeToolbar.toolbarmode.accesskey   "E">
+<!ENTITY customizeToolbar.iconsAndText.label      "Symbole und Text">
+<!ENTITY customizeToolbar.iconsAndText.accesskey  "u">
+<!ENTITY customizeToolbar.icons.label             "Symbole">
+<!ENTITY customizeToolbar.icons.accesskey         "S">
+<!ENTITY customizeToolbar.text.label              "Text">
+<!ENTITY customizeToolbar.text.accesskey          "T">
+<!ENTITY customizeToolbar.useSmallIcons.label     "Kleine Symbole verwenden">
+<!ENTITY customizeToolbar.useSmallIcons.accesskey "K">
+<!ENTITY customizeToolbar.labelAlignEnd.label     "Text neben Symbol anzeigen">
+<!ENTITY customizeToolbar.labelAlignEnd.accesskey "n">
+<!ENTITY customizeToolbar.useDefault.label        "Standardeinstellungen verwenden">
+<!ENTITY customizeToolbar.useDefault.accesskey    "a">
+
 <!-- Popup Blocked notification menu -->
 <!ENTITY allowPopups.accesskey        "P">
 <!ENTITY showPopupManager.label       "Pop-ups verwalten">
