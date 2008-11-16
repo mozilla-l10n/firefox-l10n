@@ -6,6 +6,8 @@
 
 <!-- General Settings -->
 
+<!ENTITY enableGloda.label             "Nachrichten-Indexierung aktivieren">
+<!ENTITY enableGloda.accesskey         "N">
 <!ENTITY showCondensedAddresses.label  "Bei Adressen aus dem Adressbuch nur den Namen anzeigen">
 <!ENTITY showCondensedAddresses.accesskey "B">
 
