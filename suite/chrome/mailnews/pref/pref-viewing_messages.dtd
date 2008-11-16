@@ -16,8 +16,6 @@
 <!ENTITY fontPlainText.label "Шрыфт:">
 <!ENTITY fontPlainText.accesskey "Ш">
 <!ENTITY displayQuoted.label "Наладжванні лістоў-вытрымак:">
-<!ENTITY readingMessagesHeader.label "Для атрыманых лістоў">
-<!ENTITY messageWrapping.label "Загінанне лістоў">
 <!ENTITY wrapInMsg.label "Загінаць тэкст, каб змяшчаўся ў шырыні акна">
 <!ENTITY wrapInMsg.accesskey "г">
 <!ENTITY convertEmoticons.label "Адлюстроўваць пачуццезнакі графічна">

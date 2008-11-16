@@ -70,7 +70,6 @@
 <!ENTITY cpercentCmd.accesskey "4">
 <!ENTITY zoominCmd.label "Павялічыць">
 <!ENTITY zoomoutCmd.label "Паменшыць">
-<!ENTITY delSpotCmd.label "Выдаліць пляму">
 <!ENTITY clear.key "d">
 <!ENTITY selectall.key "a">
 <!ENTITY close.key "l">

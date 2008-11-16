@@ -1,7 +1,5 @@
 <!ENTITY securityMenu.label "Бяспека">
 <!ENTITY securityMenu.accesskey "я">
-<!ENTITY menu_securityEncryptIfPossible.label "Зашыфраваць, калі магчыма">
-<!ENTITY menu_securityEncryptIfPossible.accesskey "М">
 <!ENTITY menu_securityEncryptRequire.label "Зашыфраваць гэты ліст">
 <!ENTITY menu_securityEncryptRequire.accesskey "ш">
 <!ENTITY menu_securityNoEncryption.label "Не зашыфроўваць гэты ліст">

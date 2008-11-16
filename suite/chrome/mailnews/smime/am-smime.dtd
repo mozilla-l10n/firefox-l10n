@@ -8,7 +8,6 @@
 <!ENTITY alwaysEncryptMessage.label "Патрэбны (немагчыма даслаць ліст, калі не ўсе атрымальнікі маюць пасведчанні)">
 <!ENTITY alwaysEncryptMessage.accesskey "э">
 <!ENTITY encryptionCert.message "Ужываць гэтае пасведчанне, каб шыфраваць і расшыфроўваць лісты, што дасылаюцца да вас:">
-<!ENTITY encryptionCert.notselected "Не вылучана пасведчанне">
 <!ENTITY digitalSign.certificate.button "Вылучыць…">
 <!ENTITY digitalSign.certificate.accesskey "ы">
 <!ENTITY digitalSign.certificate_clear.button "Ачысціць">
@@ -21,4 +20,3 @@
 <!ENTITY signMessage.label "Лічбава падпісваць лісты (змоўчна)">
 <!ENTITY signMessage.accesskey "Л">
 <!ENTITY signingCert.message "Ужываць гэтае пасведчанне, каб лічбава падпісваць лісты, што вы адсылаеце:">
-<!ENTITY signingCert.notselected "Не вылучана пасведчанне">

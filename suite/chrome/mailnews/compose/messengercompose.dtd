@@ -21,7 +21,6 @@
 <!ENTITY attachMenu.label "Далучыць">
 <!ENTITY attachMenu.accesskey "л">
 <!ENTITY attachFileCmd.label "Файл(ы)…">
-<!ENTITY attachFileCmd.key "">
 <!ENTITY attachFileCmd.accesskey "Ф">
 <!ENTITY attachPageCmd.label "Старонку Сеціва…">
 <!ENTITY attachPageCmd.accesskey "С">
@@ -38,7 +37,6 @@
 <!ENTITY printCmd.label "Друкаваць…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "Д">
-<!ENTITY closeCmd.label "Зачыніць">
 <!ENTITY editRewrapCmd.label "Перазагінаць">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "г">
@@ -59,39 +57,10 @@
 <!ENTITY showComposeToolbarCmd.accesskey "о">
 <!ENTITY showFormatToolbarCmd.label "Паліца прыладаў фарматавання">
 <!ENTITY showFormatToolbarCmd.accesskey "Ф">
-<!ENTITY showParagraphMarksCmd.label ".Паказваць знакі абзацаў">
-<!ENTITY pageSourceCmd.label ".Зыходнік старонкі">
-<!ENTITY pageSourceCmd.accesskey "о">
-<!ENTITY pageInfoCmd.label ".Звесткі аб старонцы">
-<!ENTITY pageInfoCmd.accesskey "С">
-<!ENTITY dcharMenu.label "Сукупнасць знакаў">
-<!ENTITY dcharIso1Cmd.label "Заходняя (ISO-8859-1)">
-<!ENTITY dcharIso2Cmd.label "Цэнтральна-Еўрапейская (ISO-8859-2)">
-<!ENTITY dcharIso3Cmd.label "Паўднёва-Еўрапейская (ISO-8859-3)">
-<!ENTITY dcharIso4Cmd.label "Балтыйская (ISO-8859-4)">
-<!ENTITY dcharIso9Cmd.label "Турэцкая (ISO-8859-9)">
-<!ENTITY dcharIso10Cmd.label "Скандынаўская (ISO-8859-10)">
-<!ENTITY dcharIso14Cmd.label "Кельцкая (ISO-8859-14)">
-<!ENTITY dcharIso15Cmd.label "Заходняя (ISO-8859-15)">
-<!ENTITY dcharJapanCmd.label "Японская (ISO-2022-JP)">
-<!ENTITY dcharTradChiBigCmd.label "Кітайская Традыцыйная (Big5)">
-<!ENTITY dcharSimpChiGbCmd.label "Спрошчаная Кітайская (GB2312)">
-<!ENTITY dcharKoreanCmd.label "Карэйская (EUC-KR)">
-<!ENTITY dcharUtf8Cmd.label "Адзіны Код (UTF-8)">
-<!ENTITY dcharRusCmd.label "Кірыліца (KOI8-R)">
-<!ENTITY dcharUkrCmd.label "Кірыліца/Украінская (KOI8-U)">
-<!ENTITY dcharIsoGreekCmd.label "Грэцкая (ISO-8859-7)">
-<!ENTITY dcharVietViCmd.label "В'етнамская (VISCII)">
-<!ENTITY dcharThaiCmd.label "Тайская (TIS-620)">
-<!ENTITY dcharArmCmd.label "Армянская (ARMSCII-8)">
-<!ENTITY dcharDEFAULT.label "Змоўчная сукупнасць знакаў для дасылання пошты">
 <!ENTITY formatMenu.label "Фармат">
 <!ENTITY formatMenu.accesskey "р">
 <!ENTITY optionsMenu.label "Наладкі">
 <!ENTITY optionsMenu.accesskey "Н">
-<!ENTITY doNotCompleteAddrCmd.label ".Не сканчаць адрас">
-<!ENTITY showMatchingAddrCmd.label ".Паказваць адпаведны адрас">
-<!ENTITY addSignatureCmd.label ".Дадаць файл подпісу">
 <!ENTITY quoteCmd.label "Працытаваць ліст">
 <!ENTITY quoteCmd.accesskey "ц">
 <!ENTITY selectAddressCmd.label "Адрасаты…">
@@ -126,25 +95,10 @@
 <!ENTITY htmlFormatCmd.accesskey "з">
 <!ENTITY bothFormatCmd.label "Просты і аздоблены (HTML) тэкст">
 <!ENTITY bothFormatCmd.accesskey "і">
-<!ENTITY UuencodeAttachmentCmd.label "Uuencode замест MIME для далучэнняў">
 <!ENTITY fileCarbonCopyCmd.label "Змясціць копію ў">
 <!ENTITY fileCarbonCopyCmd.accesskey "ь">
 <!ENTITY fileHereMenu.label "Пакласці тут">
-<!ENTITY debugMenu.label "Наладка">
-<!ENTITY outputTextCmd.label "Выданне тэксту">
-<!ENTITY outputHTMLCmd.label "Выданне HTML">
-<!ENTITY insertTextCmd.label "Уставіць тэкст">
-<!ENTITY testSelectionCmd.label "Выпрабаваць вылучэнне">
-<!ENTITY testTableLayoutCmd.label "Выпрабаваць размяшчэнне табліцаў">
-<!ENTITY testDocumentCmd.label "Выпрабаваць дакумент">
-<!ENTITY showEmbeddedCmd.label "Паказваць убудаваныя аб'екты">
-<!ENTITY dumpContentCmd.label "Скінуць дрэва змесціва">
-<!ENTITY runUnitTestsCmd.label "Выканаць выпрабаванні частак">
-<!ENTITY startLogCmd.label "Пачаць метрыку">
-<!ENTITY stopLogCmd.label "Спыніць метрыку">
-<!ENTITY runLogCmd.label "Выконваць метрыку">
 <!ENTITY sendButton.label "Даслаць">
-<!ENTITY quoteButton.label "Вытрымка">
 <!ENTITY addressButton.label "Адрас">
 <!ENTITY attachButton.label "Далучыць">
 <!ENTITY spellingButton.label "Праверка правапісу">
@@ -154,14 +108,10 @@
 <!ENTITY formatToolbar.tooltip "Паліца прылад фарматавання">
 <!ENTITY sendButton.tooltip "Даслаць гэты ліст зараз">
 <!ENTITY sendlaterButton.tooltip "Даслаць гэты ліст пазней">
-<!ENTITY quoteButton.tooltip "Працытаваць папярэдні ліст">
 <!ENTITY addressButton.tooltip "Выбраць атрымальніка з адраснай кнігі">
 <!ENTITY attachButton.tooltip "Уключыць далучэнне">
 <!ENTITY saveButton.tooltip "Захаваць гэты ліст">
 <!ENTITY stopButton.tooltip "Спыніць цяперашні перанос">
-<!ENTITY formatToolbar.boldChar "В">
-<!ENTITY formatToolbar.italicChar "Р">
-<!ENTITY formatToolbar.underlineChar "П">
 <!ENTITY spellCheckNoSuggestions.label "(прапановы не знойдзены)">
 <!ENTITY spellCheckIgnoreWord.label "Ігнараваць слова">
 <!ENTITY spellCheckIgnoreWord.accesskey "І">

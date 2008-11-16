@@ -3,6 +3,8 @@
 <!ENTITY itemUpdate.label "Абнавіць">
 <!ENTITY itemNetworking.label "Сетка і дыскавая прастора">
 <!ENTITY itemCertificates.label "Пасведчанні">
+<!ENTITY enableGloda.label "Дазволіць паказальнік лістоў">
+<!ENTITY enableGloda.accesskey "п">
 <!ENTITY showCondensedAddresses.label "Паказваць толькі адлюстравальнае імя для людзей з маёй адраснай кнігі">
 <!ENTITY showCondensedAddresses.accesskey "П">
 <!ENTITY autoMarkAsRead.label "Самастойна пазначаць лісты прачытанымі">

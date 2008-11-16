@@ -29,8 +29,6 @@
 <!ENTITY cookieAllowPopupsCmd.accesskey "Д">
 <!ENTITY cookieManagePopups.label "Кіраваць вынырцамі">
 <!ENTITY cookieManagePopups.accesskey "К">
-<!ENTITY cookieTutorialCmd.label "Разуменне адасаблення">
-<!ENTITY cookieTutorialCmd.accesskey "Р">
 <!ENTITY cookieCookieManager.label "Кіраўнік бірак">
 <!ENTITY cookieCookieManager.accesskey "Б">
 <!ENTITY cookieImageManager.label "Кіраўнік малюнкаў">

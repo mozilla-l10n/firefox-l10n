@@ -66,10 +66,8 @@
 <!ENTITY filename.accesskey "ф">
 <!ENTITY filename.tooltip "Увядзіце назву для гэтага файла, разам з канчаткам '.html' для старонкі сеціва">
 <!ENTITY filenameExample.label "напрыклад: &quot;маястаронка.html&quot;">
-<!ENTITY relatedDocs.label "Іншыя файлы для публікавання">
 <!ENTITY setDefaultButton.label "Прызначыць змоўчнай">
 <!ENTITY setDefaultButton.accesskey "з">
-<!ENTITY setDefSiteAndDir.label "Прызначыць змоўчнымі пляцоўку і дырэкторыю">
 <!ENTITY removeButton.label "Выдаліць пляцоўку">
 <!ENTITY removeButton.accesskey "В">
 <!ENTITY publishSites.label "Пляцоўкі публікавання">

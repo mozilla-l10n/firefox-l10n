@@ -53,8 +53,6 @@
 <!ENTITY warn.insecurepost.accesskey "Д">
 <!ENTITY warn.leavingsecure "Пакіданне старонкі, якая падтрымлівае шыфраванне">
 <!ENTITY warn.leavingsecure.accesskey "к">
-<!ENTITY warn.secureredirect "Накіраванне з адной зашыфраванай старонкі на іншую">
-<!ENTITY warn.secureredirecttoinsecure "Накіраванне з зашыфраванай старонкі на незашыфраваную старонку">
 <!ENTITY warn.viewmixed "Прагляд старонкі, якая змяшчае зашыфраваныя і незашыфраваныя даныя">
 <!ENTITY warn.viewmixed.accesskey "П">
 <!ENTITY certselect.description "Вырашае, як &brandShortName; выбірае пасведчанне бяспекі для падання яго пляцоўцы сеціва, якая патрабуе пасведчанне:">

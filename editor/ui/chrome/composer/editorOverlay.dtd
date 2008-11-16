@@ -75,9 +75,6 @@
 <!ENTITY sendPageCmd.accesskey "Д">
 <!ENTITY printSetupCmd.label "Уладкаванне старонкі…">
 <!ENTITY printSetupCmd.accesskey "У">
-<!ENTITY printPreviewCmd.label "Папярэдні прагляд друку">
-<!ENTITY printPreviewCmd.accesskey "г">
-<!ENTITY printButtonCmd.label "Друкаваць…">
 <!ENTITY printCmd.label "Друкаваць…">
 <!ENTITY printCmd.accesskey "Д">
 <!ENTITY printCmd.key "P">
@@ -93,23 +90,8 @@
 <!ENTITY pasteAs.accesskey "Я">
 <!ENTITY publishSettings.label "Наладжванні пляцоўкі публікавання…">
 <!ENTITY publishSettings.accesskey "б">
-<!ENTITY pasteHTMLCmd.label "HTML">
-<!ENTITY pasteHTMLCmd.accesskey "H">
-<!ENTITY pasteTextCmd.label "Тэкст">
-<!ENTITY pasteTextCmd.accesskey "Т">
-<!ENTITY pasteImageCmd.label "Малюнак">
-<!ENTITY pasteImageCmd.accesskey "М">
-<!ENTITY pasteRowsCmd.label "Радкі">
-<!ENTITY pasteRowsCmd.accesskey "Р">
-<!ENTITY pasteColumnsCmd.label "Слупкі">
-<!ENTITY pasteColumnsCmd.accesskey "С">
-<!ENTITY pasteTableCmd.accesskey "т">
-<!ENTITY pasteLinkCmd.label "Спасылка">
-<!ENTITY pasteLinkCmd.accesskey "ы">
 <!ENTITY pasteAsQuotationCmd.label "Уставіць як вытрымку">
 <!ENTITY pasteAsQuotationCmd.accesskey "в">
-<!ENTITY editStripQuotesCmd.label "Палосныя цытаты">
-<!ENTITY editRewrapCmd.label "Перазагінаць">
 <!ENTITY findCmd.label "Знайсці і замяніць…">
 <!ENTITY findCmd.accesskey "З">
 <!ENTITY findCmd.key "F">
@@ -129,11 +111,6 @@
 <!ENTITY checkSpellingCmd.key "K">
 <!ENTITY validateCmd.label "Праверыць HTML">
 <!ENTITY validateCmd.accesskey "р">
-<!ENTITY checkLinksCmd.label "Праверыць спасылкі">
-<!ENTITY viewPageSource.label "Зыходнік старонкі">
-<!ENTITY viewPageSource.accesskey "З">
-<!ENTITY viewParagraphMarks.label "Меткі параграфаў">
-<!ENTITY viewParagraphMarks.accesskey "п">
 <!ENTITY insertMenu.label "Уставіць">
 <!ENTITY insertMenu.accesskey "У">
 <!ENTITY insertLinkCmd.label "Спасылка…">
@@ -143,39 +120,16 @@
 <!ENTITY insertAnchorCmd.accesskey "я">
 <!ENTITY insertImageCmd.label "Малюнак…">
 <!ENTITY insertImageCmd.accesskey "М">
-<!ENTITY insertImageMapCmd.label "Мапа малюнка…">
 <!ENTITY insertHLineCmd.label "Гарызантальная рыска">
 <!ENTITY insertHLineCmd.accesskey "Г">
 <!ENTITY insertTableCmd.label "Табліца…">
 <!ENTITY insertTableCmd.accesskey "Т">
-<!ENTITY insertFormMenu.label "Форма">
-<!ENTITY insertFormMenu.accesskey "Ф">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertCharsCmd.label "Знакі і сімвалы…">
 <!ENTITY insertCharsCmd.accesskey "З">
-<!ENTITY insertBreakCmd.label "Абрыў радка">
-<!ENTITY insertBreakCmd.accesskey "А">
 <!ENTITY insertBreakAllCmd.label "Разрыў пад малюнкам(і)">
 <!ENTITY insertBreakAllCmd.accesskey "Р">
-<!ENTITY insertFormCmd.label "Вызначыць форму…">
-<!ENTITY insertFormCmd.accesskey "В">
-<!ENTITY insertInputTagCmd.label "Поле формы…">
-<!ENTITY insertInputTagCmd.accesskey "е">
-<!ENTITY insertInputImageCmd.label "Сфармаваць малюнак…">
-<!ENTITY insertInputImageCmd.accesskey "м">
-<!ENTITY insertTextAreaCmd.label "Тэкставы абсяг…">
-<!ENTITY insertTextAreaCmd.accesskey "Т">
-<!ENTITY insertSelectCmd.label "Спіс для вылучэння…">
-<!ENTITY insertSelectCmd.accesskey "С">
-<!ENTITY insertButtonCmd.label "Вызначыць кнопку…">
-<!ENTITY insertButtonCmd.accesskey "к">
-<!ENTITY insertLabelCmd.label "Вызначыць метку">
-<!ENTITY insertLabelCmd.accesskey "м">
-<!ENTITY insertFieldSetCmd.label "Вызначыць спалучэнне палёў…">
-<!ENTITY insertFieldSetCmd.accesskey "п">
-<!ENTITY insertIsIndexCmd.label "Пошук па паказальніку">
-<!ENTITY insertIsIndexCmd.accesskey "о">
 <!ENTITY spellCheckNoSuggestions.label "(няма прапановаў)">
 <!ENTITY spellCheckIgnoreWord.label "Ігнараваць слова">
 <!ENTITY spellCheckIgnoreWord.accesskey "І">
@@ -215,8 +169,6 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
-<!ENTITY localfontfaceMenu.label "Мясцовыя шрыфты">
-<!ENTITY localfontfaceMenu.accesskey "ш">
 <!ENTITY FontSizeSelect.tooltip "Выбраць памер шрыфту">
 <!ENTITY decreaseFontSize.label "Меншы">
 <!ENTITY decreaseFontSize.accesskey "е">
@@ -324,17 +276,6 @@
 <!ENTITY bodyTextCmd.accesskey "Т">
 <!ENTITY advancedPropertiesCmd.label "Пашыраныя ўласцівасці">
 <!ENTITY advancedPropertiesCmd.accesskey "ш">
-<!ENTITY NormalAbbr.label "Тэкст">
-<!ENTITY ParagraphAbbr.label "P">
-<!ENTITY Heading1Abbr.label "H1">
-<!ENTITY Heading2Abbr.label "H2">
-<!ENTITY Heading3Abbr.label "H3">
-<!ENTITY Heading4Abbr.label "H4">
-<!ENTITY Heading5Abbr.label "H5">
-<!ENTITY Heading6Abbr.label "H6">
-<!ENTITY BlockquoteAbbr.label "BQ">
-<!ENTITY AddressAbbr.label "Addr.">
-<!ENTITY PreformatAbbr.label "Pre.">
 <!ENTITY alignMenu.label "Выраўноўванне">
 <!ENTITY alignMenu.accesskey "В">
 <!ENTITY alignLeft.label "Левае">
@@ -405,8 +346,6 @@
 <!ENTITY tableCellAfter.accesskey "а">
 <!ENTITY tableDeleteMenu.label "Выдаліць">
 <!ENTITY tableDeleteMenu.accesskey "д">
-<!ENTITY tableFix.label "Замацаваць размяшчэнне табліцы">
-<!ENTITY tableFix.accesskey "ц">
 <!ENTITY tableJoinCells.label "я">
 <!ENTITY tableJoinCells.accesskey "я">
 <!ENTITY tableSplitCell.label "Падзяліць  клетку">
@@ -441,7 +380,6 @@
 <!ENTITY linkToolbarCmd.tooltip "Уставіць новую спасылку або рэдагаваць уласцівасці выбранай">
 <!ENTITY anchorToolbarCmd.label "Якар">
 <!ENTITY anchorToolbarCmd.tooltip "Уставіць новы іменаваны якар або рэдагаваць уласцівасці вылучанага якара ">
-<!ENTITY textColorCaption.label "Колер тэксту">
 <!ENTITY TextColorButton.tooltip "Выбраць колер тэксту">
 <!ENTITY BackgroundColorButton.tooltip "Выбраць колер фону">
 <!ENTITY throbber.tooltip "Наведаць хатнюю старонку &vendorShortName;">
@@ -461,13 +399,6 @@
 <!ENTITY alignCenterButton.tooltip "Цэнтраванае выраўноўванне тэксту">
 <!ENTITY alignRightButton.tooltip "Выраўноўваць тэкст уздоўж правага прымежку">
 <!ENTITY alignjustifyButton.tooltip "Выраўноўваць тэкст уздоўж левага і правага прымежкаў">
-<!ENTITY formatToolbar.boldChar "В">
-<!ENTITY formatToolbar.italicChar "р">
-<!ENTITY formatToolbar.underlineChar "П">
-<!ENTITY colorPicker.default.label "Змоўчныя колеры чытальніка">
-<!ENTITY colorPicker.default.accesskey "з">
-<!ENTITY colorLabel.label "Колер:">
-<!ENTITY ok.label "Добра">
 <!ENTITY NormalModeTab.label "Звычайны">
 <!ENTITY NormalMode.label "Звычайны рэжым праўкі ">
 <!ENTITY NormalMode.accesskey "ч">

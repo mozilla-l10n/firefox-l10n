@@ -7,8 +7,8 @@
 <!ENTITY CopyEmailAddress.accesskey "к">
 <!ENTITY CreateFilterFrom.label "Стварыць сіта з…">
 <!ENTITY CreateFilterFrom.accesskey "с">
-<!ENTITY BlockAddress.label "Блакаваць адрас">
-<!ENTITY BlockAddress.accesskey "а">
+<!ENTITY copyLinkCmd.label "Капіяваць месцазнаходжанне спасылкі">
+<!ENTITY copyLinkCmd.accesskey "К">
 <!ENTITY CopyMessageId.label "Капіяваць Вызначальнік-Ліста">
 <!ENTITY OpenMessageForMsgId.label "Адкрыць ліст з вызначальнікам">
 <!ENTITY OpenBrowserWithMsgId.label "Адкрыць азіральнік з Вызначальнікам-Ліста">

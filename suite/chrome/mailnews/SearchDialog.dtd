@@ -8,15 +8,11 @@
 <!ENTITY resetButton.accesskey "ч">
 <!ENTITY helpButton.label "Даведка">
 <!ENTITY helpButton.accesskey "Д">
-<!ENTITY optionsButton.label "Наладкі">
-<!ENTITY closeButton.label "Зачыніць">
 <!ENTITY openButton.label "Адчыніць">
 <!ENTITY openButton.accesskey "А">
 <!ENTITY deleteButton.label "Выдаліць">
 <!ENTITY deleteButton.accesskey "д">
 <!ENTITY searchDialogTitle.label "Пошук лістоў">
-<!ENTITY conditionDesc.label "Шукаць лісты, якія адпавядаюць:">
-<!ENTITY conditions.label "Крытэры">
 <!ENTITY results.label "Вынікі">
 <!ENTITY fileHereMenu.label "Пакласці тут">
 <!ENTITY fileHereMenu.accesskey "П">

@@ -3,10 +3,6 @@
 <!ENTITY generalSettings.caption "Агульныя наладжванні">
 <!ENTITY confirmMove.label "Пацвярджаць перамяшчэнне папак у Смецце">
 <!ENTITY confirmMove.accesskey "с">
-<!ENTITY useMessenger.label "Ужываць Пошту з MAPI-аснованых прыстасаванняў">
-<!ENTITY useMessenger.accesskey "У">
-<!ENTITY autounzip.label "Самастойна разгортваць файлы zip у час захоўвання далучэнняў">
-<!ENTITY autounzip.accesskey "р">
 <!ENTITY preserveThreading.label "Не парушаць нізкі падчас размеркавання лістоў">
 <!ENTITY preserveThreading.accesskey "н">
 <!ENTITY defaultMailSettings.description "Зрабіць &brandShortName; змоўчным прыстасаваннем для:">

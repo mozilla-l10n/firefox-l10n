@@ -31,11 +31,6 @@
 <!ENTITY printCardViewCmd.key "P">
 <!ENTITY printAddressBook.label "Надрукаваць адрасную кнігу…">
 <!ENTITY printAddressBook.accesskey "А">
-<!ENTITY quitApplicationCmdWin.label "Выйсці">
-<!ENTITY quitApplicationCmdWin.accesskey "В">
-<!ENTITY quitApplicationCmd.label "Выйсці">
-<!ENTITY quitApplicationCmd.accesskey "В">
-<!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY editMenu.label "Праўка">
 <!ENTITY editMenu.accesskey "П">
 <!ENTITY undoCmd.label "Адмяніць">

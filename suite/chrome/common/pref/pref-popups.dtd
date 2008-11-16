@@ -1,6 +1,5 @@
 <!ENTITY pref.popups.title "Вокны-вынырцы">
 <!ENTITY pref.popups.caption "Вокны-вынырцы">
-<!ENTITY popupDesc.label "Вызначае, якім чынам апрацоўваць вокны-вынырцы, якія з'яўляюцца зверху ці пад гэтачасовым акном азіральніка:">
 <!ENTITY popupBlock.label "Затрымліваць незапатрабаваныя вокны-вынырцы">
 <!ENTITY popupBlock.accesskey "т">
 <!ENTITY popupExceptions.label "Дазволеныя пляцоўкі…">

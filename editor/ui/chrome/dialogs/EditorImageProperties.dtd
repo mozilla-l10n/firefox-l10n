@@ -37,7 +37,6 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY windowTitle.label "Уласцівасці малюнка">
 <!ENTITY pixelsPopup.value "пікселяў">
-<!ENTITY percentPopup.value "адсоткаў">
 <!ENTITY locationEditField.label "Месцазнаходжанне малюнка:">
 <!ENTITY locationEditField.accessKey "з">
 <!ENTITY locationEditField.tooltip "Набярыце назву файла малюнка ці месцазнаходжанне">
@@ -50,7 +49,6 @@
 <!ENTITY noAltText.label "Не ўжываць дадатковы тэкст">
 <!ENTITY noAltText.accessKey "Н">
 <!ENTITY previewBox.label "Папярэдні прагляд малюнка">
-<!ENTITY MoreFewerButton.tooltip "Адлюстроўваць больш ці менш уласцівасцей для рэдагавання">
 <!ENTITY actualSize.label "Сапраўдны памер:">
 <!ENTITY actualSizeRadio.label "Сапраўдны памер">
 <!ENTITY actualSizeRadio.accessKey "ў">
@@ -77,7 +75,6 @@
 <!ENTITY wrapRightPopup.value "Агортваць справа">
 <!ENTITY wrapLeftPopup.value "Абгортваць злева">
 <!ENTITY spacingBox.label "Прагалы">
-<!ENTITY spacingBox.tooltip "Набраць лік для велічыні прагалаў навокал малюнка">
 <!ENTITY leftRightEditField.label "Злева і справа:">
 <!ENTITY leftRightEditField.accessKey "С">
 <!ENTITY topBottomEditField.label "Угары і ўнізе:">
@@ -86,10 +83,6 @@
 <!ENTITY borderEditField.accessKey "М">
 <!ENTITY showImageLinkBorder.label "Паказваць мяжу навокал злучанага малюнка">
 <!ENTITY showImageLinkBorder.accessKey "М">
-<!ENTITY makePageBackgroundCheckbox.label "Зрабіць фонам старонкі">
-<!ENTITY makePageBackgroundCheckbox.tooltip "Скарыстаць малюнак як фон вашай старонкі">
-<!ENTITY editImageButton.label "Рэдагаваць малюнак">
-<!ENTITY editImageButton.tooltip "Рэдагаваць файл малюнка ў іншай праграме">
 <!ENTITY imageInputTab.label "Форма">
 <!ENTITY imageLocationTab.label "Месцазнаходжанне">
 <!ENTITY imageDimensionsTab.label "Вымярэнні">

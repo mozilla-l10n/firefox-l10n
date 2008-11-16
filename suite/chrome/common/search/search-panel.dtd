@@ -36,18 +36,13 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY search.button.label "Пошук">
-<!ENTITY search.results.tab "Ужыць">
-<!ENTITY search.advanced.tab "Наладжванні для">
 <!ENTITY allengines.label "Усе машыны">
 <!ENTITY within.label " ">
 <!ENTITY using.label "з дапамогай">
 <!ENTITY choose.label "Выберыце машыны пошуку і пстрыкніце Пошук">
 <!ENTITY results.label "Вынікі пошуку">
 <!ENTITY engine.column.label "Машыны пошуку">
-<!ENTITY checkbox.column.label "Выкарыстаць">
-<!ENTITY stop.button.label "Спыніць">
 <!ENTITY customize.menuitem.label "Рэдагаваць катэгорыі …">
-<!ENTITY savesearch.button.label "Дадаць закладку да гэтага пошуку">
 <!ENTITY next.button.label "Наступныя">
 <!ENTITY previous.button.label "Папярэднія">
 <!ENTITY next.button.tooltip "Паказаць наступныя вынікі пошуку">

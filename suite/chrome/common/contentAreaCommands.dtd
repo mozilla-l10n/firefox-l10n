@@ -14,8 +14,6 @@
 <!ENTITY openFrameCmdInTab.accesskey "ў">
 <!ENTITY showOnlyThisFrameCmd.label "Паказваць толькі гэтую рамку">
 <!ENTITY showOnlyThisFrameCmd.accesskey "Г">
-<!ENTITY addToBookmarksCmd.label "Дадаць закладку да гэтай старонкі">
-<!ENTITY addToBookmarksCmd.accesskey "З">
 <!ENTITY goBackCmd.label "Назад">
 <!ENTITY goBackCmd.accesskey "з">
 <!ENTITY goForwardCmd.label "Наперад">

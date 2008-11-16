@@ -12,12 +12,9 @@
 <!ENTITY directorySecure.accesskey "ж">
 <!ENTITY directoryLogin.label "Адрозная назва прывязкі:">
 <!ENTITY directoryLogin.accesskey "р">
-<!ENTITY advancedOptionsButton.label "Пашыраныя наладкі">
-<!ENTITY advancedOptionsButton.accesskey "П">
 <!ENTITY General.tab "Агульныя">
 <!ENTITY Offline.tab "Па-за сеткаю">
 <!ENTITY Advanced.tab "Пашыраны">
-<!ENTITY advancedOptionsTitle.label "Пашыраныя наладкі">
 <!ENTITY portNumber.label "Нумар порта:">
 <!ENTITY portNumber.accesskey "п">
 <!ENTITY searchFilter.label "Сіта пошуку:">

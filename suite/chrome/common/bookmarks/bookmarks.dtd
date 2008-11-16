@@ -39,17 +39,16 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY menuBar.tooltip "Паліца з меню">
 <!ENTITY bookmarkToolbar.tooltip "Прыладапаліца закладак">
-<!ENTITY bookmarksSearch.tooltip "Паліца пошуку закладак">
 <!ENTITY menuitem.newBookmark.label "Закладка">
-<!ENTITY command.newBookmark.accesskey "З">
+<!ENTITY menuitem.newBookmark.accesskey "З">
 <!ENTITY menuitem.newFolder.label "Папка">
+<!ENTITY menuitem.newFolder.accesskey "П">
 <!ENTITY button.newFolder.label "Новая папка">
 <!ENTITY button.newFolder.accesskey "Н">
-<!ENTITY command.newFolder.accesskey "П">
 <!ENTITY menuitem.newSeparator.label "Раздзяляльнік">
+<!ENTITY menuitem.newSeparator.accesskey "Р">
 <!ENTITY button.newSeparator.label "Новы раздзяляльнік">
 <!ENTITY button.newSeparator.accesskey "ь">
-<!ENTITY command.newSeparator.accesskey "Р">
 <!ENTITY menuitem.open.label "Адчыніць файл з закладкамі…">
 <!ENTITY menuitem.open.accesskey "ч">
 <!ENTITY menuitem.import.label "Імпарт…">
@@ -57,25 +56,27 @@
 <!ENTITY menuitem.export.label "Экспарт…">
 <!ENTITY menuitem.export.accesskey "э">
 <!ENTITY menuitem.find.label "Пошук закладак…">
-<!ENTITY command.findBookmarks.label "Пошук…">
 <!ENTITY menuitem.find.accesskey "П">
-<!ENTITY edit.find.keybinding "f">
-<!ENTITY command.properties.label "Уласцівасці…">
+<!ENTITY menuitem.find.find.key "F">
+<!ENTITY command.findBookmarks.label "Пошук…">
+<!ENTITY menuitem.properties.label "Уласцівасці…">
+<!ENTITY menuitem.properties.accesskey "л">
+<!ENTITY button.properties.label "Уласцівасці…">
 <!ENTITY button.properties.accesskey "У">
-<!ENTITY command.properties.accesskey "л">
-<!ENTITY edit.properties.keybinding "i">
-<!ENTITY command.rename.label "Змяніць назву…">
+<!ENTITY menuitem.properties.key "I">
+<!ENTITY button.rename.label "Перайменаваць…">
 <!ENTITY button.rename.accesskey "в">
-<!ENTITY command.delete.label "Выдаліць">
+<!ENTITY button.delete.label "Выдаліць">
 <!ENTITY button.delete.accesskey "д">
-<!ENTITY command.moveBookmark.label "Рухаць закладку(і)…">
-<!ENTITY command.moveBookmarkShort.label "Рухаць…">
-<!ENTITY command.moveBookmark.accesskey "х">
+<!ENTITY menuitem.moveBookmark.label "Перамясціць закладку(і)…">
+<!ENTITY menuitem.moveBookmark.accesskey "м">
+<!ENTITY button.moveBookmark.label "Перамясціць…">
+<!ENTITY button.moveBookmark.accesskey "м">
 <!ENTITY command.addBookmark.label "Дадаць…">
 <!ENTITY command.manageBookmarks.label "Уладкаваць">
 <!ENTITY command.sortFolder.label "Размеркаваць папку…">
 <!ENTITY command.sortFolder.accesskey "м">
-<!ENTITY edit.sortFolder.keybinding "S">
+<!ENTITY command.sortFolder.key "S">
 <!ENTITY command.sortFolderByName.label "Размеркаваць папку па назвам">
 <!ENTITY command.sortFolderByName.accesskey "Н">
 <!ENTITY menuitem.view.command.toolbar.label "Паліца з прыладамі">
@@ -91,25 +92,18 @@
 <!ENTITY menuitem.personaltoolbarfolder.label "Усталяваць як папку паліцы ўласных прыладаў">
 <!ENTITY menuitem.personaltoolbarfolder.accesskey "А">
 <!ENTITY treecol.name.label "Назва">
-<!ENTITY treecol.name.accesskey "н">
 <!ENTITY treecol.name.tooltip "Пстрыкніце, каб размеркаваць па назвам">
 <!ENTITY treecol.url.label "Месцазнаходжанне">
-<!ENTITY treecol.url.accesskey "м">
 <!ENTITY treecol.url.tooltip "Пстрыкніце, каб размеркаваць па месцазнаходжанню">
 <!ENTITY treecol.shortcut.label "Ключавое слова">
-<!ENTITY treecol.shortcut.accesskey "К">
 <!ENTITY treecol.shortcut.tooltip "Пстрыкніце, каб размеркаваць па ключавым словам">
 <!ENTITY treecol.description.label "Апісанне">
-<!ENTITY treecol.description.accesskey "а">
 <!ENTITY treecol.description.tooltip "Пстрыкніце, каб размеркаваць па апісанню">
 <!ENTITY treecol.addedon.label "Дададзена">
-<!ENTITY treecol.addedon.accesskey "а">
 <!ENTITY treecol.addedon.tooltip "Пстрыкніце, каб размеркаваць па дадаванню">
 <!ENTITY treecol.lastmod.label "Апошняе змяненне">
-<!ENTITY treecol.lastmod.accesskey "з">
 <!ENTITY treecol.lastmod.tooltip "Пстрыкніце, каб размеркаваць па апошняму змяненню">
 <!ENTITY treecol.lastvisit.label "Апошняе наведванне">
-<!ENTITY treecol.lastvisit.accesskey "п">
 <!ENTITY treecol.lastvisit.tooltip "Пстрыкніце, каб размеркаваць па апошняму наведванню">
 <!ENTITY bookmarksWindowTitle.label "Кіраўнік закладак">
 <!ENTITY search.label "Пошук">

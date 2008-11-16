@@ -44,7 +44,6 @@
 <!ENTITY bulletList.value "Маркаваны спіс (Ненумараваны)">
 <!ENTITY numberList.value "Пранумараваны спіс">
 <!ENTITY definitionList.value "Спіс азначэнняў">
-<!ENTITY changeListMsg.label "Калі змяняецца тып спіса:">
 <!ENTITY changeEntireListRadio.label "Змяніць увесь спіс">
 <!ENTITY changeEntireListRadio.accessKey "у">
 <!ENTITY changeSelectedRadio.label "Змяніць толькі вылучаныя адзінкі">

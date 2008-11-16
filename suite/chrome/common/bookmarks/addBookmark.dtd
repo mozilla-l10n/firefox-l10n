@@ -44,7 +44,6 @@
 <!ENTITY shortcutURL.label "Ключавое слова:">
 <!ENTITY shortcutURL.accesskey "К">
 <!ENTITY destination.label "Прызначэнне:">
-<!ENTITY destination.accesskey "П">
 <!ENTITY newFolder.label "Новая папка…">
 <!ENTITY newFolder.accesskey "о">
 <!ENTITY addGroup.label "Дадаць закладку да гэтай групы ўставак">

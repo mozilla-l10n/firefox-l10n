@@ -15,7 +15,6 @@
 <!ENTITY fantasy.accesskey "Д">
 <!ENTITY cursive.label "Рукапісны:">
 <!ENTITY cursive.accesskey "Р">
-<!ENTITY fontsize.units "пікселяў">
 <!ENTITY font.langGroup.latin1 "Заходняя">
 <!ENTITY font.langGroup.latin2 "Цэнтральна-Еўрапейская">
 <!ENTITY font.langGroup.japanese "Японская">
@@ -48,13 +47,8 @@
 <!ENTITY minSize.none "Няма">
 <!ENTITY useDefaultFontSerif.label "Serif">
 <!ENTITY useDefaultFontSansSerif.label "Sans Serif">
-<!ENTITY newLanguages.label "Новыя мовы могуць быць наладжаны ў Панэлі Моваў.">
 <!ENTITY useDocumentFonts.label "Дазволіць дакументам карыстацца іншымі шрыфтамі">
 <!ENTITY useDocumentFonts.accesskey "д">
 <!ENTITY header2 "Калі старонка сеціва прызначае свае асабістыя шрыфты">
 <!ENTITY useDefaultFont.label "Карыстацца вызначанымі мною шрыфтамі замест прапанованых старонкай">
 <!ENTITY useDefaultFont.accesskey "к">
-<!ENTITY useDocFontNonDynamic.label "Карыстацца шрыфтамі, якія прызначаны старонкай">
-<!ENTITY useDocFontNonDynamic.accesskey "п">
-<!ENTITY useDocFontDynamic.label "Карыстацца ўсімі шрыфтамі, якія прызначаны старонкай">
-<!ENTITY useDocFontDynamic.accesskey "ў">
