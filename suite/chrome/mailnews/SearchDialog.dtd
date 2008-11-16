@@ -23,7 +23,7 @@
 <!ENTITY goToFolderButton.label      "Abrir Pasta das Mensagens">
 <!ENTITY goToFolderButton.accesskey  "b">
 <!ENTITY saveAsVFButton.label        "Guardar como pasta de Procura">
-<!ENTITY saveAsVFButton.accesskey    "c">>
+<!ENTITY saveAsVFButton.accesskey    "c">
 
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "Procurar em:">
