@@ -5,11 +5,11 @@
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
 <!ENTITY clearDuration.label "Fjarlægja ">
-<!ENTITY clearDuration.lastHour "seinasta klukkutímann">
-<!ENTITY clearDuration.last2Hours "seinustu 2 klukkutímana">
+<!ENTITY clearDuration.lastHour "seinasta klukkutíma">
+<!ENTITY clearDuration.last2Hours "seinustu 2 klukkutíma">
 <!ENTITY clearDuration.last4Hours "seinustu 4 klukkutíma">
 <!ENTITY clearDuration.today "allan feril í dag">
-<!ENTITY clearDuration.everything "allan feril">
+<!ENTITY clearDuration.everything "allan heildarferil">
 <!-- Localization note (clearDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearDuration.suffix "">
@@ -27,7 +27,7 @@ that require it.  -->
 <!ENTITY itemWebCache.accesskey "V">
 <!ENTITY itemOfflineApps.label "Ótengd vefgögn">
 <!ENTITY itemOfflineApps.accesskey "t">
-<!ENTITY itemDownloadList.label "Niðurhala lista">
+<!ENTITY itemDownloadList.label "Niðurhal lista">
 <!ENTITY itemDownloadList.accesskey "N">
 <!ENTITY itemActiveLogins.label "Virkar innskráningar">
 <!ENTITY itemActiveLogins.accesskey "i">

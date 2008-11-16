@@ -114,7 +114,7 @@
 <!ENTITY fileMenu.label "Skrá">
 <!ENTITY fileMenu.accesskey "S">
 <!ENTITY editMenu.label "Breyta">
-<!ENTITY editMenu.accesskey "E">
+<!ENTITY editMenu.accesskey "B">
 <!ENTITY optionsCmd.label "Valkostir…">
 <!ENTITY optionsCmd.accesskey "O">
 <!ENTITY preferencesCmd.label "Valkostir">
@@ -123,11 +123,11 @@
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY preferencesCmdMac.modifiers "accel">
 <!ENTITY viewMenu.label "Skoða">
-<!ENTITY viewMenu.accesskey "S">
-<!ENTITY releaseCmd.label "útgáfuupplýsingar">
-<!ENTITY releaseCmd.accesskey "R">
+<!ENTITY viewMenu.accesskey "k">
+<!ENTITY releaseCmd.label "Útgáfuupplýsingar">
+<!ENTITY releaseCmd.accesskey "t">
 <!ENTITY aboutCmd.label "Um &brandFullName;">
-<!ENTITY aboutCmd.accesskey "A">
+<!ENTITY aboutCmd.accesskey "U">
 <!ENTITY updateCmd.label "Athuga uppfærslur…">
 <!ENTITY updateCmd.accesskey "A">
 <!-- Mac OS X "Window" menu items -->
