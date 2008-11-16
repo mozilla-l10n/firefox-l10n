@@ -57,7 +57,7 @@
 <!ENTITY menuitem.export.label         "Exportar…">
 <!ENTITY menuitem.export.accesskey     "e">
 <!ENTITY menuitem.find.label           "Procurar marcadores…">
-<!ENTITY menuitem.find.accesskey       "S">
+<!ENTITY menuitem.find.accesskey       "s">
 <!ENTITY menuitem.find.find.key          "f">
 <!ENTITY command.findBookmarks.label   "Procurar…">
 <!ENTITY menuitem.properties.label      "Propriedades…">

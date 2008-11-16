@@ -37,7 +37,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY  pref.masterpass.title                  "Senhas Mestras">
-<!ENTITY  managepassword.caption                 "A senha Mestra expirou">
+<!ENTITY  managepassword.caption                 "A Senha Mestra expirou">
 <!ENTITY  managepassword.text                    "O &brandShortName; irá pedir a sua senha mestra:">
 <!ENTITY  managepassword.askfirsttime            "Na primeira vez que for necessária">
 <!ENTITY  managepassword.askfirsttime.accesskey  "p">

@@ -11,7 +11,7 @@
 <!ENTITY  restricted.label    "Sítios restrictos">
 
 <!ENTITY  addSite.label       "Adicionar Sítio…">
-<!ENTITY  addSite.accesskey   "a">
+<!ENTITY  addSite.accesskey   "A">
 <!ENTITY  settings.label      "Definições para ">
 <!ENTITY  settings.accesskey  "s">
 

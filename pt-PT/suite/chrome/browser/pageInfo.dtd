@@ -37,8 +37,8 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!-- Note to localizers, don't localize the strings 'width' or 'height' -->
-<!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 30em;">
+<!ENTITY  pageInfoWindow.width  "600">
+<!ENTITY  pageInfoWindow.height "500">
 
 <!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "Copiar">
@@ -87,10 +87,10 @@
 
 <!ENTITY  mediaTab              "Média">
 <!ENTITY  mediaTab.accesskey    "M">
-<!ENTITY  mediaURL              "Address:">
-<!ENTITY  mediaAlt              "Alternate Text:">
-<!ENTITY  mediaAltHeader        "Alternate Text">
-<!ENTITY  mediaAddress          "Address">
+<!ENTITY  mediaURL              "Endereço:">
+<!ENTITY  mediaAlt              "Texto alternativo:">
+<!ENTITY  mediaAltHeader        "Texto alternativo">
+<!ENTITY  mediaAddress          "Endereço">
 <!ENTITY  mediaType             "Tipo">
 <!ENTITY  mediaSize             "Tamanho">
 <!ENTITY  mediaCount            "Contar">
@@ -99,7 +99,7 @@
 <!ENTITY  mediaTitle            "Titúlo:">
 <!ENTITY  mediaLongdesc         "Descrição longa:">
 <!ENTITY  mediaBlockImage.accesskey "B">
-<!ENTITY  mediaSaveAs           "Guardar comoâ€¦">
+<!ENTITY  mediaSaveAs           "Guardar como€">
 <!ENTITY  mediaSaveAs.accesskey "G">
 <!ENTITY  mediaSaveAs2.accesskey "c">
 <!ENTITY  mediaPreview          "Pré-visualizar média:">
@@ -135,7 +135,7 @@
 <!ENTITY  securityView.identity.verifier "Verificado por: ">
 
 <!ENTITY  securityView.privacy.header                   "Privacidade &amp; Histórico">
-<!ENTITY  securityView.privacy.history                  "Have I visited this website before today?">
+<!ENTITY  securityView.privacy.history                  "Já visitei este sítio hoje?">
 <!ENTITY  securityView.privacy.cookies                  "Este sítio web está a guardar informação (cookies) no meu computador?">
 <!ENTITY  securityView.privacy.viewCookies              "Mostrar as cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
