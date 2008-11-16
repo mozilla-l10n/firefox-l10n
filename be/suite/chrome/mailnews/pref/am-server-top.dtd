@@ -1,9 +1,5 @@
 <!ENTITY securitySettings.label "Наладкі бяспекі">
 <!ENTITY serverSettings.label "Наладжванні паслугача">
-<!ENTITY popServer.label "Паштовы паслугач POP">
-<!ENTITY imapServer.label "Паштовы паслугач IMAP">
-<!ENTITY newsServer.label "Паслугач навінаў (NNTP)">
-<!ENTITY webmail.label "Рахунак УэбПошты">
 <!ENTITY serverType.label "Тып паслугача:">
 <!ENTITY serverName.label "Назва паслугача:">
 <!ENTITY serverName.accesskey "Н">
@@ -40,9 +36,7 @@
 <!ENTITY deleteOnServer2.accesskey "д">
 <!ENTITY downloadOnBiff.label "Самастойна загружаць новыя лісты">
 <!ENTITY downloadOnBiff.accesskey "С">
-<!ENTITY hostname.label "Назва трымальніка паслугача">
 <!ENTITY username.label "Ваша ўваходнае імя">
-<!ENTITY popServerTitle.label "Звесткі аб паслугачы POP">
 <!ENTITY deleteMessagePrefix.label "Калі я выдаляю ліст:">
 <!ENTITY modelMoveToTrash.label "Перамясціць яго ў гэтую папку:">
 <!ENTITY modelMoveToTrash.accesskey "ў">

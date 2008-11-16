@@ -15,5 +15,3 @@
 <!ENTITY directoriesNone.label "Няма">
 <!ENTITY editDirectories.label "Рэдагаваць дырэкторыі…">
 <!ENTITY editDirectories.accesskey "Р">
-<!ENTITY matchText.label "Калі існуе супадзенне ў вашых мясцовых адрасных кнігах:">
-<!ENTITY skipDirectory.label "Не шукаць у дырэкторыі">

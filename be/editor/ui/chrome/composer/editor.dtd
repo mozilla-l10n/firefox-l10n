@@ -47,7 +47,3 @@
 <!ENTITY editmodeToolbarCmd.accesskey "п">
 <!ENTITY formatMenu.label "Фармат">
 <!ENTITY formatMenu.accesskey "Ф">
-<!ENTITY helpMenu.label "Даведка">
-<!ENTITY aboutCmd.label ".Пра">
-<!ENTITY editMode.label "Стан рэдагавання:">
-<!ENTITY statusText.label "Старонка загружана">

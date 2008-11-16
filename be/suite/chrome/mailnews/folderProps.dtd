@@ -50,13 +50,8 @@
 <!ENTITY retention.label "Палітыка ўтрымлівання">
 <!ENTITY retentionUseDefault.label "Карыстацца змоўчкамі паслугача">
 <!ENTITY retentionUseDefault.accesskey "з">
-<!ENTITY days.label "дзён">
 <!ENTITY daysOld.label "дзён">
 <!ENTITY message.label "апошніх лістоў">
-<!ENTITY retentionNotDownloadRead.label "Прачытаныя лісты">
-<!ENTITY retentionNotDownloadRead.accesskey "ч">
-<!ENTITY retentionDownloadMsg.label "Лісты, якім болей, чым">
-<!ENTITY retentionDownloadMsg.accesskey "б">
 <!ENTITY retentionCleanup.label "Трымаць:">
 <!ENTITY retentionDeleteMsg.label "Выдаліць лісты, якім больш за">
 <!ENTITY retentionDeleteMsg.accesskey "В">
@@ -75,16 +70,13 @@
 <!ENTITY offlineFolder.button.accesskey "з">
 <!ENTITY selectofflineNewsgroup.check.label "Вылучыць гэтую навінакупу для карыстання па-за сеткай">
 <!ENTITY selectofflineNewsgroup.check.accesskey "е">
-<!ENTITY UseDefaultofflineNewsgroup.check.label "Карыстацца наладжваннямі рахунку">
 <!ENTITY offlineNewsgroup.button.label "Загрузіць зараз">
 <!ENTITY offlineNewsgroup.button.accesskey "з">
-<!ENTITY folderProps.information.label "Звесткі:">
 <!ENTITY folderProps.name.label "Назва:">
 <!ENTITY folderProps.name.accesskey "Н">
 <!ENTITY folderProps.location.label "Месцазнаходжанне:">
 <!ENTITY folderProps.location.accesskey "М">
 <!ENTITY folderSharingTab.label "Падзел">
-<!ENTITY privilegesDesc.label "Падзяліць гэтую і іншыя папкі з сеткавымі карыстальнікамі, адлюстраваць і наладзіць прывілеі доступу">
 <!ENTITY privileges.button.label "Прывілеі…">
 <!ENTITY privileges.button.accesskey "П">
 <!ENTITY permissionsDesc.label "Вы маеце наступныя дазволы:">

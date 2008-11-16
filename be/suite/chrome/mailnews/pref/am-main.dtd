@@ -1,7 +1,6 @@
 <!ENTITY accountTitle.label "Наладжванні рахунку">
 <!ENTITY accountName.label "Назва рахунку:">
 <!ENTITY accountName.accesskey "Н">
-<!ENTITY accountNameDesc.label "Назва рахунку ўжываецца для вызначэння кожнага рахунку">
 <!ENTITY identityTitle.label "Змоўчная адмета">
 <!ENTITY identityDesc.label "Кожны рахунак мае адмету, або звесткі, якія іншыя людзі бачаць, калі чытаюць вашы лісты.">
 <!ENTITY name.label "Ваша імя:">
@@ -14,7 +13,6 @@
 <!ENTITY organization.accesskey "У">
 <!ENTITY signature.label "Далучыць гэты подпіс:">
 <!ENTITY signature.accesskey "п">
-<!ENTITY edit.label "Рэдагаваць…">
 <!ENTITY choose.label "Выбраць…">
 <!ENTITY choose.accesskey "В">
 <!ENTITY editVCard.label "Рэдагаваць картку…">

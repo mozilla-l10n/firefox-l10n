@@ -68,7 +68,6 @@
 <!ENTITY tableCaptionRight.label "Справа ад табліцы">
 <!ENTITY tableCaptionNone.label "Няма">
 <!ENTITY tableInheritColor.label "(Няхай колеры старонкі будуць бачны скрозь)">
-<!ENTITY cellPercent.label "адсоткаў табліцы">
 <!ENTITY cellSelection.label "Вылучэнне">
 <!ENTITY cellSelectCell.label "Ячэйка">
 <!ENTITY cellSelectRow.label "Шэраг">
@@ -77,11 +76,7 @@
 <!ENTITY cellSelectNext.accessKey "Н">
 <!ENTITY cellSelectPrevious.label "Папярэдняя">
 <!ENTITY cellSelectPrevious.accessKey "П">
-<!ENTITY cellApplyBeforeMove.label "Скарыстацца змяненнямі перад змяненнем вылучэння">
-<!ENTITY cellKeepCurrentData.label "Захоўваць цяперашнія змяненні">
 <!ENTITY applyBeforeChange.label "Гэтачасовыя змяненні будуць ужытыя перад змяненнем вылучэння.">
-<!ENTITY cellRowSpan.label "Распаўсюджванне шэрагу:">
-<!ENTITY cellColSpan.label "Распаўсюджванне слупка:">
 <!ENTITY cellContentAlignment.label "Выраўноўванне змесціва">
 <!ENTITY cellHorizontal.label "Гарызантальнае:">
 <!ENTITY cellHorizontal.accessKey "Г">
@@ -99,7 +94,6 @@
 <!ENTITY cellAlignMiddle.label "Пасярэдзіне">
 <!ENTITY cellAlignBottom.label "Данізу">
 <!ENTITY cellAlignJustify.label "Разасяроджана">
-<!ENTITY cellAlignAtChar.label "Са знаку:">
 <!ENTITY cellInheritColor.label "(Няхай колеры табліцы будуць бачны скрозь)">
 <!ENTITY cellUseCheckboxHelp.label "Ужывайце скрынкі адзнакаў для вызначэння ўласцівасцяў усіх вылучаных ячэйкаў">
 <!ENTITY size.label "Памер">

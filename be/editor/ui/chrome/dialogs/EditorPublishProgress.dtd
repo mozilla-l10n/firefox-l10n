@@ -41,8 +41,6 @@
 <!ENTITY otherSubdir.label "Паддырэкторыя малюнка:">
 <!ENTITY status.label "Публікаванне…">
 <!ENTITY fileList.label "Статус публікавання">
-<!ENTITY statusHeader.label "Статус">
-<!ENTITY filenameHeader.label "Назва файла">
 <!ENTITY succeeded.label "Поспех">
 <!ENTITY failed.label "Няўдача">
 <!ENTITY keepOpen "Трымаць акно адчыненым пасля заканчэння публікавання.">

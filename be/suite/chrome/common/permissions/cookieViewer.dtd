@@ -31,7 +31,5 @@
 <!ENTITY removepermission.accesskey "ы">
 <!ENTITY removeallpermissions.label "Выдаліць усе пляцоўкі">
 <!ENTITY removeallpermissions.accesskey "п">
-<!ENTITY canSet.label "можа ўсталёўваць біркі">
-<!ENTITY cannotSet.label "не можа ўсталёўваць біркі">
 <!ENTITY futureCookies.label "Не дазваляць пляцоўкам, якія ўсталёўвалі выдаленыя біркі, усталёўваць біркі зноў">
 <!ENTITY futureCookies.accesskey "Н">

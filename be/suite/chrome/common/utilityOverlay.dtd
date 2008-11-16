@@ -32,7 +32,6 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "у">
 <!ENTITY deleteCmd.label "Выдаліць">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "д">
 <!ENTITY selectAllCmd.label "Вылучыць усё">
 <!ENTITY selectAllCmd.key "A">
@@ -75,6 +74,20 @@
 <!ENTITY bidiSwitchTextDirectionItem.label "Пераключыць кірунак тэксту">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "к">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
+<!ENTITY customizeToolbar.toolbarmode.label "Наладжванні гэтай прыладапаліцы">
+<!ENTITY customizeToolbar.toolbarmode.accesskey "л">
+<!ENTITY customizeToolbar.iconsAndText.label "Значкі і тэкст">
+<!ENTITY customizeToolbar.iconsAndText.accesskey "і">
+<!ENTITY customizeToolbar.icons.label "Значкі">
+<!ENTITY customizeToolbar.icons.accesskey "З">
+<!ENTITY customizeToolbar.text.label "Тэкст">
+<!ENTITY customizeToolbar.text.accesskey "Т">
+<!ENTITY customizeToolbar.useSmallIcons.label "Дробныя значкі">
+<!ENTITY customizeToolbar.useSmallIcons.accesskey "Д">
+<!ENTITY customizeToolbar.labelAlignEnd.label "Паказваць тэкст побач з значкамі">
+<!ENTITY customizeToolbar.labelAlignEnd.accesskey "б">
+<!ENTITY customizeToolbar.useDefault.label "Аднавіць змоўчныя">
+<!ENTITY customizeToolbar.useDefault.accesskey "А">
 <!ENTITY allowPopups.accesskey "в">
 <!ENTITY showPopupManager.label "Кіраваць вынырцамі">
 <!ENTITY showPopupManager.accesskey "К">

@@ -1,11 +1,4 @@
 <!ENTITY pref.composer.title "Укладальнік">
-<!ENTITY saving "Захаванне">
-<!ENTITY AutoSaveCheck "Самастойна захоўваць кожныя">
-<!ENTITY minText "хвілінаў">
-<!ENTITY exterLegend.label "Вонкавыя рэдактары">
-<!ENTITY htmlSource "Зыходнік HTML:">
-<!ENTITY imageeditor "Малюнкі:">
-<!ENTITY chooseButton.label "Выбраць">
 <!ENTITY recentFiles.title "Меню нядаўніх старонак">
 <!ENTITY documentsInMenu.label "Найбольшая колькасць пералічаных старонак:">
 <!ENTITY documentsInMenu.accesskey "к">
@@ -18,8 +11,6 @@
 <!ENTITY showPublishDialog.label "Заўсёды паказваць дыялог выдання падчас публікавання старонак">
 <!ENTITY showPublishDialog.accesskey "ў">
 <!ENTITY composerEditing.label "Праўка">
-<!ENTITY spellCheckInline.label "Правяраць правапіс падчас набору">
-<!ENTITY spellCheckInline.accesskey "П">
 <!ENTITY maintainStructure.label "Захоўваць раскладку табліцы падчас устаўкі або выдалення ячэек">
 <!ENTITY maintainStructure.tooltip "Захоўваць проставугольную форму табліцы – самастойна дадаваць ячэйкі пасля ўстаўкі або выдалення ячэек">
 <!ENTITY maintainStructure.accesskey "У">

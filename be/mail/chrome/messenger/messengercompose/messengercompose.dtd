@@ -42,11 +42,6 @@
 <!ENTITY printCmd.label "Друкаваць…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "Д">
-<!ENTITY quitApplicationCmdWin.label "Выйсці">
-<!ENTITY quitApplicationCmdWin.accesskey "В">
-<!ENTITY quitApplicationCmd.label "Выйсці">
-<!ENTITY quitApplicationCmd.accesskey "В">
-<!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY editMenu.label "Праўка">
 <!ENTITY editMenu.accesskey "П">
 <!ENTITY undoCmd.label "Адмяніць">

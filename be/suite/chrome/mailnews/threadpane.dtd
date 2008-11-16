@@ -11,7 +11,6 @@
 <!ENTITY statusColumn.label "Статус">
 <!ENTITY sizeColumn.label "Памер">
 <!ENTITY junkStatusColumn.label "Статус лухты">
-<!ENTITY linesColumn.label "Радкі">
 <!ENTITY unreadColumn.label "Непрачытаных у нізцы">
 <!ENTITY totalColumn.label "Усяго ў нізцы">
 <!ENTITY readColumn.label "Чытанне">

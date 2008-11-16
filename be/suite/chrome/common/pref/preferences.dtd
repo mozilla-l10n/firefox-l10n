@@ -6,14 +6,10 @@
 <!ENTITY colors.label "Колеры">
 <!ENTITY navigator.label "Азіральнік">
 <!ENTITY history.label "Гісторыя">
-<!ENTITY bidi.label "Наладкі напрамку тэксту">
 <!ENTITY languages.label "Мовы">
 <!ENTITY applications.label "Дапаможныя прыстасаванні">
 <!ENTITY locationBar.label "Паліца месцазнаходжання">
 <!ENTITY tabWindows.label "Азіранне з устаўкамі">
-<!ENTITY compose.label "Укладальнік">
-<!ENTITY editing.label "Наладжванні новай старонкі">
-<!ENTITY publish.label "Публікаванне">
 <!ENTITY offline.label "Па-за сеткай">
 <!ENTITY security.label "Адасабленне і бяспека">
 <!ENTITY cookies.label "Біркі">

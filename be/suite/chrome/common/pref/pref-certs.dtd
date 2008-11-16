@@ -36,8 +36,6 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY resetsettings.label "Скінуць наладжванні">
-<!ENTITY resetpreferences.label "Скінуць перавагі…">
 <!ENTITY managecerts.caption "Кіраванне пасведчаннямі">
 <!ENTITY managecerts.text "Скарыстайце кіраўнік пасведчаннямі, каб кіраваць як вашымі асабовымі пасведчаннямі, так і пасведчаннямі іншых людзей і крыніцамі пасведчанняў.">
 <!ENTITY managecerts.button "Кіраваць пасведчаннямі…">
