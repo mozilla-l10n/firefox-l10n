@@ -278,8 +278,8 @@
 <!ENTITY nextFlaggedMsgCmd.label "Mensagem Marcada">
 <!ENTITY nextFlaggedMsgCmd.accesskey "a">
 <!ENTITY nextUnreadThread.label "Tópico não lido">
-<!ENTITY nextUnreadThreadCmd.accesskey "T">
-<!ENTITY nextUnreadThreadCmd.key "T">
+<!ENTITY nextUnreadThread.accesskey "T">
+<!ENTITY nextUnreadThread.key "T">
 <!ENTITY prevMenu.label "Anterior">
 <!ENTITY prevMenu.accesskey "A">
 <!ENTITY prevMsgCmd.label "Mensagem">
