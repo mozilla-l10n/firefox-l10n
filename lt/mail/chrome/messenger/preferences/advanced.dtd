@@ -37,11 +37,13 @@
 
 <!-- General Settings -->
 
+<!ENTITY enableGloda.label             "Indeksuoti laiškus">
+<!ENTITY enableGloda.accesskey         "e">
 <!ENTITY showCondensedAddresses.label  "Jei asmens duomenys įrašyti į adresų knygą, tai rodyti tik jo asmenvardį (be adreso)">
-<!ENTITY showCondensedAddresses.accesskey "į">
+<!ENTITY showCondensedAddresses.accesskey "a">
 
 <!ENTITY autoMarkAsRead.label          "Atvertą laišką pažymėti kaip skaitytą">
-<!ENTITY autoMarkAsRead.accesskey      "v">
+<!ENTITY autoMarkAsRead.accesskey      "ž">
 <!ENTITY markAsReadNoDelay.label       "iškart">
 <!ENTITY markAsReadNoDelay.accesskey   "i">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
@@ -59,7 +61,7 @@
 <!ENTITY reuseExpRadio1.accesskey      "t">
 <!ENTITY configEditDesc.label          "Papildoma sąranka (patyrusiems naudotojams).">
 <!ENTITY configEdit.label              "Visų parametrų sąrašas…">
-<!ENTITY configEdit.accesskey          "a">
+<!ENTITY configEdit.accesskey          "V">
 <!ENTITY returnReceiptsInfo.label      "Parinkite „&brandShortName;“ pažymų apie pristatytus laiškus valdymo nuostatas">
 <!ENTITY showReturnReceipts.label      "Laiškų pristatymo pažymos…">
 <!ENTITY showReturnReceipts.accesskey  "L">
