@@ -297,7 +297,7 @@
 <!ENTITY copyEmailCmd.label "Copia l'adreça electrònica">
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY thisFrameMenu.label "Aquest marc">
-<!ENTITY thisFrameMenu.accesskey "u">
+<!ENTITY thisFrameMenu.accesskey "t">
 
 <!-- Media (video/audio) controls -->
 <!ENTITY mediaPlay.label             "Reprodueix">

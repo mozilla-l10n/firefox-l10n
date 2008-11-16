@@ -91,7 +91,7 @@
 <!ENTITY redoCmd.label "Refés">
 <!ENTITY redoCmd.accesskey "R">
 <!ENTITY thisFrameMenu.label "Aquest marc">
-<!ENTITY thisFrameMenu.accesskey "u">
+<!ENTITY thisFrameMenu.accesskey "t">
 <!ENTITY search.accesskey "W">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Commuta la direcció de la pàgina">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
