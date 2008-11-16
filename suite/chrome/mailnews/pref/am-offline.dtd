@@ -1,7 +1,7 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Para ter espaço em disco, não transferir:">
 <!ENTITY doNotDownload.label "Para ter espaço em disco, não transferir para usar no modo desligado:">
-<!ENTITY offlineNewFolder.label "Quando criar novas pastas, seleccioná-las para usar no modo desligado">
-<!ENTITY offlineNewFolder.accesskey "Q">
+<!ENTITY allFoldersOffline.label "Manter as mensagens desta conta neste computador">
+<!ENTITY allFoldersOffline.accesskey "n">
 <!ENTITY offlineNotDownload.label "Mensagens maiores que ">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY kb.label "KB">
