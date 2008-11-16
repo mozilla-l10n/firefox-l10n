@@ -6,7 +6,9 @@
 
 <!-- General Settings -->
 
-<!ENTITY showCondensedAddresses.label  "N'afficher que le nom pour les personnes se trouvant dans le carnet d'adresses">
+<!ENTITY enableGloda.label "Activer l'indexation des messages">
+<!ENTITY enableGloda.accesskey "x">
+<!ENTITY showCondensedAddresses.label "N'afficher que le nom pour les personnes se trouvant dans le carnet d'adresses">
 <!ENTITY showCondensedAddresses.accesskey "N">
 
 <!ENTITY autoMarkAsRead.label          "Marquer automatiquement les messages comme lus">
