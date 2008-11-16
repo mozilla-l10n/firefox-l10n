@@ -6,6 +6,8 @@
 
 <!-- General Settings -->
 
+<!ENTITY enableGloda.label             "Slå på meldingsindeksering">
+<!ENTITY enableGloda.accesskey         "S">
 <!ENTITY showCondensedAddresses.label  "Vis berre synleg namn for personar som er i adresseboka">
 <!ENTITY showCondensedAddresses.accesskey "S">
 
