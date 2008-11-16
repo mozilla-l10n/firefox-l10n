@@ -119,6 +119,21 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey      "P">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey     "X">
 
+<!ENTITY customizeToolbar.toolbarmode.label         "Priemonių juostos nuostatos">
+<!ENTITY customizeToolbar.toolbarmode.accesskey     "n">
+<!ENTITY customizeToolbar.iconsAndText.label        "Piktogramos ir tekstas">
+<!ENTITY customizeToolbar.iconsAndText.accesskey    "i">
+<!ENTITY customizeToolbar.icons.label               "Piktogramos">
+<!ENTITY customizeToolbar.icons.accesskey           "P">
+<!ENTITY customizeToolbar.text.label                "Tekstas">
+<!ENTITY customizeToolbar.text.accesskey            "T">
+<!ENTITY customizeToolbar.useSmallIcons.label       "Mažos piktogramos">
+<!ENTITY customizeToolbar.useSmallIcons.accesskey   "M">
+<!ENTITY customizeToolbar.labelAlignEnd.label       "Tekstas greta piktogramų">
+<!ENTITY customizeToolbar.labelAlignEnd.accesskey   "g">
+<!ENTITY customizeToolbar.useDefault.label          "Atkurti numatytąsias nuostatas">
+<!ENTITY customizeToolbar.useDefault.accesskey      "n">
+
 <!-- Popup Blocked notification menu -->
 <!ENTITY allowPopups.accesskey                      "L">
 <!ENTITY showPopupManager.label                     "Iškylančiųjų langų valdymas">
