@@ -82,8 +82,6 @@
 <!ENTITY  event.menu.file.page.setup.accesskey            "o">
 <!ENTITY  event.menu.file.print.label                     "Skriv ut">
 <!ENTITY  event.menu.file.print.accesskey                 "S">
-<!ENTITY  event.menu.file.exit.label                      "Avslutt">
-<!ENTITY  event.menu.file.exit.accesskey                  "v">
 
 <!ENTITY  event.menu.edit.label                           "Endre">
 <!ENTITY  event.menu.edit.accesskey                       "E">

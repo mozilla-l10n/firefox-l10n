@@ -55,11 +55,3 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Format">
 <!ENTITY formatMenu.accesskey "o">
-
-<!ENTITY helpMenu.label "Hjelp">
-<!ENTITY aboutCmd.label ".Om">
-
-<!-- Display Mode Toolbar -->
-<!ENTITY editMode.label "Redigeringsmodus:">
-
-<!ENTITY statusText.label "Nedlasting av sida ferdig">
