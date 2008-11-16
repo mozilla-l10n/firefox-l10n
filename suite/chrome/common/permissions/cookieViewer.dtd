@@ -35,8 +35,5 @@
 <!ENTITY     removeallpermissions.label     "Slett alle nettsted">
 <!ENTITY     removeallpermissions.accesskey "a">
 
-<!ENTITY     canSet.label                   "kan sette infokapsler">
-<!ENTITY     cannotSet.label                "kan ikke sette infokapsler">
-
 <!ENTITY     futureCookies.label            "Ikke tillat nettsted som eide slettede infokapsler å sette infokapsler i fremtiden">
 <!ENTITY     futureCookies.accesskey        "k">

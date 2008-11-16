@@ -3,7 +3,6 @@
 <!ENTITY accountTitle.label "Kontoinnstillinger">
 <!ENTITY accountName.label "Kontonavn:">
 <!ENTITY accountName.accesskey "n">
-<!ENTITY accountNameDesc.label "Kontonavnet identifiserer hver konto">
 <!ENTITY identityTitle.label "Forvalgt identitet">
 <!ENTITY identityDesc.label "Hver konto kan ha sin egen identitet, som er den informasjonen andre personer ser når de leser meldinger du har sendt.">
 <!ENTITY name.label "Navn:">
@@ -16,16 +15,15 @@
 <!ENTITY organization.accesskey "O">
 <!ENTITY signature.label "Legg ved denne signaturen:">
 <!ENTITY signature.accesskey "S">
-<!ENTITY edit.label "Rediger ...">
-<!ENTITY choose.label "Velg ...">
+<!ENTITY choose.label "Velg …">
 <!ENTITY choose.accesskey "V">
-<!ENTITY editVCard.label "Rediger kort ...">
+<!ENTITY editVCard.label "Rediger kort …">
 <!ENTITY editVCard.accesskey "R">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 <!ENTITY attachVCard.label "Legg ved mitt kort (vCard)">
 <!ENTITY attachVCard.accesskey "L">
 
-<!ENTITY manageIdentities.label "Behandle identiteter ...">
+<!ENTITY manageIdentities.label "Behandle identiteter …">
 <!ENTITY manageIdentities.accesskey "B">
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->

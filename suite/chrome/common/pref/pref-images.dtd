@@ -14,7 +14,6 @@
 <!ENTITY accOrgImagesRadio.accesskey    "r">
 <!ENTITY disableImages.label            "Ikke last noen bilder">
 <!ENTITY disableImages.accesskey        "I">
-<!ENTITY viewImagesExplanation.label    "Vis liste over nettsted som har lagrede bildetillatelser">
 <!ENTITY viewImages.label               "Behandle bildetillatelser">
 <!ENTITY viewImages.accesskey           "B">
 <!ENTITY animLoopingTitle.label         "Animerte bilder skal gå i løkke">

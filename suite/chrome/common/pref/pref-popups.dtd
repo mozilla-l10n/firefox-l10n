@@ -2,8 +2,6 @@
 
 <!ENTITY pref.popups.caption            "Sprettoppvinduer">
 
-<!ENTITY popupDesc.label                "Angi hvordan sprettoppvinduer skal håndteres, når de kommer oppå eller under nettleservinduet:">
-
 <!ENTITY popupBlock.label               "Blokker ikke-forespurte sprettoppvinduer">
 <!ENTITY popupBlock.accesskey           "B">
 

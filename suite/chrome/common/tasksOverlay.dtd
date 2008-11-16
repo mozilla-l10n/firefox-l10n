@@ -7,21 +7,14 @@
 <!ENTITY editorCmd.accesskey				"u">
 <!ENTITY editorCmd.commandkey				"4">
 
-<!ENTITY securityInfoCmd.label					".Sikkerhetsinformasjon">  
-<!ENTITY securityInfoCmd.accesskey				"S">
 <!ENTITY javaConsoleCmd.label					"Java-konsoll">
 <!ENTITY javaConsoleCmd.accesskey				"J">
 
 <!ENTITY errorConsoleCmd.label                                  "Feilkonsoll">
 <!ENTITY errorConsoleCmd.accesskey				"F">
 
-<!-- LOCALIZATION NOTE (privacyMenu.label): DONT_TRANSLATE -->
-<!ENTITY privacyMenu.label "Personvern og sikkerhet">
-<!ENTITY privacyMenu.accesskey "P">
-
 <!ENTITY taskNavigator.tooltip  "Nettleser">
 <!ENTITY taskComposer.tooltip  "Nettsideutvikler">
-<!ENTITY taskBar.tooltip  "Statuslinje">
 
 <!ENTITY webDevelopment.label "Nettsideutvikling">
 <!ENTITY webDevelopment.accesskey "e">
@@ -32,11 +25,11 @@
 <!ENTITY tasksMenu.label "Verktøy">
 <!ENTITY tasksMenu.accesskey "e"> 
 
-<!ENTITY downloadManagerCmd.label "Nedlastinger ...">
+<!ENTITY downloadManagerCmd.label "Nedlastinger">
 <!ENTITY downloadManagerCmd.accesskey "N">
 
-<!ENTITY addonsManagerCmd.label "Utvidelseshåndtering ...">
+<!ENTITY addonsManagerCmd.label "Utvidelseshåndtering">
 <!ENTITY addonsManagerCmd.accesskey "U">
 
-<!ENTITY switchProfileCmd.label "Bytt profil ...">
+<!ENTITY switchProfileCmd.label "Bytt profil …">
 <!ENTITY switchProfileCmd.accesskey "y">

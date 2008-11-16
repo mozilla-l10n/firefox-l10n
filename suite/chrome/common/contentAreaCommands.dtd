@@ -15,8 +15,6 @@
 <!ENTITY openFrameCmdInTab.accesskey  "p">
 <!ENTITY showOnlyThisFrameCmd.label     "Vis bare denne rammen">
 <!ENTITY showOnlyThisFrameCmd.accesskey "b">
-<!ENTITY addToBookmarksCmd.label      "Legg til bokmerke">
-<!ENTITY addToBookmarksCmd.accesskey  "b">
 <!ENTITY goBackCmd.label              "Tilbake">
 <!ENTITY goBackCmd.accesskey          "T">
 <!ENTITY goForwardCmd.label           "Fremover">

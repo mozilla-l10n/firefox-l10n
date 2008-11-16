@@ -41,31 +41,29 @@
 <!-- Menus:  the . means that the menu item isn't implemented yet -->
 
 <!-- File Menu -->
-<!ENTITY newCard.label                                  "Adressekort ...">
+<!ENTITY newCard.label                                  "Adressekort …">
 <!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->  
 <!ENTITY newCard.accesskey                              "A">  
-<!ENTITY newListCmd.label                               "E-postliste ...">
+<!ENTITY newListCmd.label                               "E-postliste …">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
 <!ENTITY newListCmd.accesskey                           "E">  
-<!ENTITY newAddressBookCmd.label                        "Adressebok ..."> 
+<!ENTITY newAddressBookCmd.label                        "Adressebok …"> 
 <!ENTITY newAddressBookCmd.accesskey                    "A">  
-<!ENTITY renameAddressBookCmd.label                     "Endre navn på adressebok ..."> 
-<!ENTITY renameAddressBookCmd.accesskey                 "E">  
-<!ENTITY newLDAPDirectoryCmd.label                      "LDAP-katalog ...">
+<!ENTITY newLDAPDirectoryCmd.label                      "LDAP-katalog …">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "L">
 <!ENTITY newIM.label                                    "IM">
-<!ENTITY printCardViewCmd.label                         "Skriv ut kort ...">
+<!ENTITY printCardViewCmd.label                         "Skriv ut kort …">
 <!ENTITY printCardViewCmd.accesskey                     "k">
 <!ENTITY printPreviewCardViewCmd.label                  "Forhåndsvisning av kort">
 <!ENTITY printPreviewCardViewCmd.accesskey              "v">
 <!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->  
 <!ENTITY printCardViewCmd.key                           "P">
-<!ENTITY printAddressBook.label                         "Skriv ut adressebok ..."> 
+<!ENTITY printAddressBook.label                         "Skriv ut adressebok …"> 
 <!ENTITY printAddressBook.accesskey                     "a"> 
 <!ENTITY printPreviewAddressBook.label                  "Forhåndsvisning av adressebok"> 
 <!ENTITY printPreviewAddressBook.accesskey              "F">
-<!ENTITY printSetupCmd.label                            "Utskriftsformat ...">
+<!ENTITY printSetupCmd.label                            "Utskriftsformat …">
 <!ENTITY printSetupCmd.accesskey                        "o">
 
 <!-- Edit Menu -->
@@ -77,7 +75,7 @@
 <!ENTITY deleteItemsCmd.label                           "Slett valgte elementer">
 <!ENTITY swapFirstNameLastNameCmd.label                 "Bytt om for/etternavn">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "B">  
-<!ENTITY propertiesCmd.label                            "Egenskaper ...">
+<!ENTITY propertiesCmd.label                            "Egenskaper …">
 <!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->  
 <!ENTITY propertiesCmd.accesskey                        "E">  
 <!ENTITY propertiesCmd.key                              "i">  
@@ -99,14 +97,12 @@
 <!ENTITY displayNameCmd.accesskey                       "V"> 
 
 <!-- Tasks Menu -->
-<!ENTITY importCmd.label                                "Importer ...">
+<!ENTITY importCmd.label                                "Importer …">
 <!ENTITY importCmd.accesskey                            "I">
-<!ENTITY exportCmd.label                                "Eksporter ...">
+<!ENTITY exportCmd.label                                "Eksporter …">
 <!ENTITY exportCmd.accesskey                            "E">
 <!ENTITY allowOnlineCheck.label                         "Sjekk om tilkoblet (AOL)">
 <!ENTITY allowOnlineCheck.accesskey                     "S">
-
-<!ENTITY stopSearchingCmd.label                         ".Avslutt søk"> 
 
 <!-- Toolbar and Popup items -->  
 <!ENTITY newcardButton.label                            "Nytt kort">  
@@ -121,9 +117,6 @@
 <!ENTITY deleteButton.accesskey                         "S">  
 <!ENTITY newimButton.label                              "Lynmelding">  
 <!ENTITY newimButton.accesskey                          "I">  
-<!ENTITY stopButton.label                               ".Stopp">  
-<!ENTITY searchButton.label                             ".Søk">  
-<!ENTITY showNames.label                                "Vis navn som inneholder:">  
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Adressebok-verktøylinje">
@@ -133,10 +126,7 @@
 <!ENTITY newmsgButton.tooltip                           "Send en e-post"> 
 <!ENTITY newIM.tooltip                                  "Send en melding eller chat"> 
 <!ENTITY deleteButton.tooltip                           "Slett valgt kort eller adressebok"> 
-<!ENTITY stopButton.tooltip                             "Stopp denne overføringen"> 
-<!ENTITY searchButton.tooltip                           "Søk i den valgte adresseboken"> 
 <!ENTITY throbber.tooltip                               "Gå til hjemmesiden til &brandShortName;">
-<!ENTITY clearButton.tooltip                            "Tøm søkekriteriene og vis alle">
 <!ENTITY advancedButton.tooltip                         "Avansert adressesøk">
 
 <!-- Status Bar -->  

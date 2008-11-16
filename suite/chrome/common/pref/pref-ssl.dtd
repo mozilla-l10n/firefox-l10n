@@ -55,8 +55,6 @@
 <!ENTITY warn.insecurepost.accesskey        "S">
 <!ENTITY warn.leavingsecure                 "Du forlater en side som støtter kryptering">
 <!ENTITY warn.leavingsecure.accesskey       "a">
-<!ENTITY warn.secureredirect                "Videresender fra en kryptert side til en annen">
-<!ENTITY warn.secureredirecttoinsecure      "Videresender fra en kryptert side til en ukryptert side">
 <!ENTITY warn.viewmixed                     "Visning av en side med både kryptert og ukrypterte data">
 <!ENTITY warn.viewmixed.accesskey           "V">
 

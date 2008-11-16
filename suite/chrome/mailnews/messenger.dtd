@@ -52,7 +52,6 @@
 <!ENTITY newVirtualFolderCmd.accesskey "L">
 <!ENTITY newAccountCmd.label "Konto …">
 <!ENTITY newAccountCmd.accesskey "K">
-<!ENTITY openMessageMenu.label "Åpne">
 <!ENTITY openMessageFileCmd.label "Åpne lagret melding …">
 <!ENTITY openMessageFileCmd.accesskey "Å">
 <!ENTITY openAttachmentCmd.label "Vedlegg">
@@ -77,7 +76,6 @@
 <!ENTITY getNextNMsgCmd.accesskey "N">
 <!ENTITY sendUnsentCmd.label "Send usendte meldinger">
 <!ENTITY sendUnsentCmd.accesskey "d">
-<!ENTITY loadFirstDraft.label			"Last inn første utkast">
 <!ENTITY subscribeCmd.label "Meld inn …">
 <!ENTITY subscribeCmd.accesskey "M">
 <!ENTITY renameFolder.label "Endre mappenavn …">
@@ -101,7 +99,6 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Forhåndsvis side">
 <!ENTITY printPreviewCmd.accesskey "F">
-<!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "Utskriftsformat …">
 <!ENTITY printSetupCmd.accesskey "o">
 
@@ -129,8 +126,6 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Flaggede meldinger">
 <!ENTITY selectFlaggedCmd.accesskey "F">
-<!ENTITY selectInvertCmd.label ".Inverter valg">
-<!ENTITY selectInvertCmd.accesskey "I">
 <!ENTITY folderPropsCmd.label "Egenskaper …">
 <!ENTITY folderPropsFolderCmd.label "Mappeegenskaper …">
 <!ENTITY folderPropsNewsgroupCmd.label "Innstillinger for nyhetsgrupper">
@@ -145,14 +140,10 @@
 <!ENTITY redoCopyMsgCmd.label "Gjenta kopiering av melding">
 <!ENTITY undoDefaultCmd.label "Angre">
 <!ENTITY redoDefaultCmd.label "Gjenta">
-<!ENTITY editDraftCmd.label "Rediger utkast">
-<!ENTITY editDraftCmd.accesskey "R">
 
 <!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label		"Verktøylinje for e-post">
 <!ENTITY showMessengerToolbarCmd.accesskey	"e">
-<!ENTITY customizeToolbar.label                 "Tilpass …">
-<!ENTITY customizeToolbar.accesskey             "T">
  
 <!-- showSearchToolbarCmd is also used by addressbook -->
 <!ENTITY showSearchToolbarCmd.label		"Verktøylinje for søke">
@@ -222,8 +213,6 @@
 <!ENTITY threads.accesskey "T">
 <!ENTITY allMsgsCmd.label "Alle">
 <!ENTITY allMsgsCmd.accesskey "A">
-<!ENTITY expandOrCollapseMenu.label "Utvid/slå sammen">
-<!ENTITY expandOrCollapseMenu.accesskey "t">
 <!ENTITY expandAllThreadsCmd.label "Utvid alle">
 <!ENTITY expandAllThreadsCmd.accesskey "U">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -244,8 +233,6 @@
 <!ENTITY headersAllCmd.accesskey "A">
 <!ENTITY headersNormalCmd.label "Normal">
 <!ENTITY headersNormalCmd.accesskey "N">
-<!ENTITY headersBriefCmd.label ".Kort">
-<!ENTITY headersBriefCmd.accesskey "K">
 <!ENTITY bodyMenu.label "Meldingskropp som">
 <!ENTITY bodyMenu.accesskey "d">
 <!ENTITY bodyAllowHTML.label "Opprinnelig HTML">
@@ -263,12 +250,6 @@
 <!ENTITY pageSourceCmd.label "Kildekode">
 <!ENTITY pageSourceCmd.accesskey "K">
 <!ENTITY pageSourceCmd.key "u">
-<!ENTITY translateMenu.label ".Oversett">
-
-<!-- Search Menu -->
-<!-- searchMenu is also used by addressbook -->
-<!ENTITY searchMenu.label "Søk">
-<!ENTITY searchMenu.accesskey "S">
 
 <!ENTITY findCmd.label "Søk i denne meldingen …">
 <!ENTITY findCmd.accesskey "m">
@@ -281,24 +262,11 @@
 <!ENTITY findPrevCmd.accesskey "f">
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!-- LOCALIZATION NOTE (searchCurrentCmd.label) : Do not translate "&lt;" and "&gt;" in below line. -->
-<!ENTITY searchCurrentCmd.label ".Søk i &lt;nåværende&gt;">
-<!ENTITY searchCurrentCmd.accesskey "">
-<!-- LOCALIZATION NOTE (searchParentCmd.label) : Do not translate "&lt;" and "&gt;" in below line. -->
-<!ENTITY searchParentCmd.label "Søk i &lt;parent&gt;">
-<!ENTITY searchParentCmd.accesskey "">
-<!-- LOCALIZATION NOTE (searchParentParentCmd.label) : Do not translate "&lt;" and "&gt;" in below line. -->
-<!ENTITY searchParentParentCmd.label ".Søk i &lt;parent parent&gt;">
-<!ENTITY searchParentParentCmd.accesskey "">
 
 <!-- Go Menu -->
 
 <!ENTITY goMenu.label "Gå">
 <!ENTITY goMenu.accesskey "G">
-<!ENTITY firstUnreadMsgCmd.label ".Første uleste melding">
-<!ENTITY firstUnreadMsgCmd.accesskey "F">
-<!ENTITY firstFlaggedMsgCmd.label ".Første flaggede melding">
-<!ENTITY firstFlaggedMsgCmd.accesskey "F">
 <!ENTITY nextMenu.label "Neste">
 <!ENTITY nextMenu.accesskey "N">
 <!ENTITY nextMsgCmd.label "Melding">
@@ -309,7 +277,6 @@
 <!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextFlaggedMsgCmd.label "Flagget melding">
 <!ENTITY nextFlaggedMsgCmd.accesskey "F">
-<!ENTITY nextUnflaggedMsgCmd.label "Uflagget melding">
 <!ENTITY nextUnreadThread.label "Ulest tråd">
 <!ENTITY nextUnreadThread.accesskey "t">
 <!ENTITY nextUnreadThread.key "t">
@@ -327,10 +294,6 @@
 <!ENTITY goForwardCmd.commandKey "Å">
 <!ENTITY prevFlaggedMsgCmd.label "Flagget melding">
 <!ENTITY prevFlaggedMsgCmd.accesskey "F">
-<!ENTITY backCmd.label ".Tilbake">
-<!ENTITY backCmd.accesskey "T">
-<!ENTITY forwardCmd.label ".Videresend">
-<!ENTITY forwardCmd.accesskey "V">
 <!ENTITY startPageCmd.label "Startside">
 <!ENTITY startPageCmd.accesskey "S">
 <!ENTITY msgMenu.label "Melding">
@@ -388,10 +351,6 @@
 <!ENTITY fileHereMenu.accesskey "A">
 <!ENTITY copyHereMenu.label "Kopier hit">
 <!ENTITY copyHereMenu.accesskey "K">
-<!ENTITY addSenderToAddressBookCmd.label ".Legg til avsender i adressebok">
-<!ENTITY addSenderToAddressBookCmd.accesskey "L">
-<!ENTITY addAllToAddressBookCmd.label ".Legg til i adressebok">
-<!ENTITY addAllToAddressBookCmd.accesskey "a">
 <!ENTITY tagMenu.label "Merkelapp">
 <!ENTITY tagMenu.accesskey "e">
 <!ENTITY tagCustomize.label "Tilpass …">
@@ -411,8 +370,6 @@
 <!ENTITY markAsReadCmd.label "Som lest">
 <!ENTITY markAsReadCmd.accesskey "l">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "Som ulest">
-<!ENTITY markAsUnreadCmd.accesskey "u">
 <!ENTITY markThreadAsReadCmd.label "Tråd som lest">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -511,8 +468,6 @@
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label "Ferdig">
-<!ENTITY  unreadCountText.label "Ulest:">
-<!ENTITY  totalCountText.label " Totalt:">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Åpne melding i nytt vindu">

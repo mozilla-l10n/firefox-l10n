@@ -52,13 +52,8 @@
 <!ENTITY retention.label "Bevaring av meldinger">
 <!ENTITY retentionUseDefault.label "Bruk tjenerens forvalg">
 <!ENTITY retentionUseDefault.accesskey "B">
-<!ENTITY days.label "dager">
-<!ENTITY daysOld.label "dager">
+<!ENTITY daysOld.label "dager gammel">
 <!ENTITY message.label "meldingene">
-<!ENTITY retentionNotDownloadRead.label "Les meldinger">
-<!ENTITY retentionNotDownloadRead.accesskey "R">
-<!ENTITY retentionDownloadMsg.label "Meldinger mer enn">
-<!ENTITY retentionDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "Behold:">
 <!ENTITY retentionDeleteMsg.label "Slett meldinger eldre enn">
 <!ENTITY retentionDeleteMsg.accesskey "e">
@@ -80,19 +75,16 @@
 
 <!ENTITY selectofflineNewsgroup.check.label      "Velg denne nyhetsgruppen for frakoblet bruk">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "V">
-<!ENTITY UseDefaultofflineNewsgroup.check.label  "Bruk standard fra kontooppsett">
 <!ENTITY offlineNewsgroup.button.label           "Last ned nå">
 <!ENTITY offlineNewsgroup.button.accesskey       "L">
 
-<!ENTITY folderProps.information.label           "Informasjon:">
 <!ENTITY folderProps.name.label                  "Navn:">
 <!ENTITY folderProps.name.accesskey              "N">
 <!ENTITY folderProps.location.label              "Adresse:">
 <!ENTITY folderProps.location.accesskey          "A">
 
 <!ENTITY folderSharingTab.label                  "Deling">
-<!ENTITY privilegesDesc.label                    "Del denne og andre mapper med nettverksbrukere og vis/sett tilgangsinnstillinger">
-<!ENTITY privileges.button.label                 "Privilegier ...">
+<!ENTITY privileges.button.label                 "Privilegier …">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "Du har følgende tillatelser:">
 <!ENTITY folderType.label                        "Mappetype:">

@@ -6,13 +6,9 @@
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "Plasser svarmelding i mappen til meldingen som ble svart på">
 <!ENTITY fccReplyFollowsParent.accesskey "l">
-<!ENTITY chooseFolderButton.label "Velg mappe ...">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Send blind kopi (BCC) til disse e-postadressene">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY specialFolderTitle.label "Spesialmapper">
-<!ENTITY draftMailFolder.label "Oppbevar meldingsutkast i:">
-<!ENTITY templateMailFolder.label "Oppbevar meldingsmaler i:">
 <!ENTITY saveMessageDlg.label "Vis bekreftelsesdialog når meldinger lagres">
 <!ENTITY saveMessageDlg.accesskey "M">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

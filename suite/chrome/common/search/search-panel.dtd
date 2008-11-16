@@ -36,18 +36,13 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY search.button.label      "Søk">
-<!ENTITY search.results.tab       "Bruk">
-<!ENTITY search.advanced.tab      "Innstillinger for">
 <!ENTITY allengines.label         "Alle søkemotorer">
 <!ENTITY within.label             "med">
 <!ENTITY using.label              "bruk">
 <!ENTITY choose.label             "Velg søkemotorer og trykk Søk">
 <!ENTITY results.label            "Søkeresultater">
 <!ENTITY engine.column.label      "Søkemotorer">
-<!ENTITY checkbox.column.label    "Bruk">
-<!ENTITY stop.button.label        "Stopp">
-<!ENTITY customize.menuitem.label   "Endre kategorier ...">
-<!ENTITY savesearch.button.label  "Legg til bokmerke på dette søket">
+<!ENTITY customize.menuitem.label "Endre kategorier …">
 <!ENTITY next.button.label        "Neste">
 <!ENTITY previous.button.label    "Forrige">
 <!ENTITY next.button.tooltip      "Vis neste resultater">

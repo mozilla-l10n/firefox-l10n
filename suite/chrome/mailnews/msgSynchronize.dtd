@@ -12,7 +12,7 @@
 <!ENTITY sendMessage.accesskey "u">
 <!ENTITY workOffline.label "Arbeid frakoblet når nedlasting/synkronisering er ferdig">
 <!ENTITY workOffline.accesskey "f">
-<!ENTITY selectButton.label "Velg ...">
+<!ENTITY selectButton.label "Velg …">
 <!ENTITY selectButton.accesskey "V">
 <!ENTITY MsgSelectDesc.label "Velg e-postmappene og nyhetsgruppene du ønsker å bruke frakoblet.">
 <!ENTITY MsgSelectInd.label "Last ned">

@@ -37,14 +37,11 @@
 
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 <!ENTITY pref.ldap.window.title    "LDAP katalogtjener">
-<!ENTITY directory.label           "Legg til en katalog">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "LDAP katalogtjener:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 <!ENTITY directoriesText.label     "Velg en LDAP katalogtjener:">
 <!ENTITY directoriesText.accesskey "V">
-<!-- LOCALIZATION NOTE (autocomplete.title) : do not translate "LDAP" in below line -->
-<!ENTITY autocomplete.title        "LDAP katalogtjener">
 <!ENTITY addDirectory.label        "Legg til">
 <!ENTITY addDirectory.accesskey    "L">
 <!ENTITY editDirectory.label       "Rediger">

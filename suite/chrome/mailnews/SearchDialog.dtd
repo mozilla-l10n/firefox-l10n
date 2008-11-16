@@ -10,15 +10,11 @@
 <!ENTITY resetButton.accesskey       "T">
 <!ENTITY helpButton.label            "Hjelp">
 <!ENTITY helpButton.accesskey        "H">
-<!ENTITY optionsButton.label         "Innstillinger ...">
-<!ENTITY closeButton.label           "Lukk">
 <!ENTITY openButton.label            "Åpne">
 <!ENTITY openButton.accesskey        "n">
 <!ENTITY deleteButton.label          "Slett">
 <!ENTITY deleteButton.accesskey      "e">
 <!ENTITY searchDialogTitle.label     "Søk i meldinger">
-<!ENTITY conditionDesc.label         "Søk i meldinger som tilfredsstiller:">
-<!ENTITY conditions.label            "Kriterie">
 <!ENTITY results.label               "Resultater">
 <!ENTITY fileHereMenu.label          "Arkiver her">
 <!ENTITY fileHereMenu.accesskey      "A">
@@ -32,7 +28,7 @@
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "Søk i:">
 <!ENTITY abSearchHeading.accesskey   "S">
-<!ENTITY propertiesButton.label      "Egenskaper ...">
+<!ENTITY propertiesButton.label      "Egenskaper">
 <!ENTITY propertiesButton.accesskey  "p">
 <!ENTITY composeButton.label         "Skriv ny e-post til">
 <!ENTITY composeButton.accesskey     "n">

@@ -37,7 +37,6 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY pref.formatting.title        "Sendeformat">
-<!ENTITY sendMail.label               "Sendeformat">
 <!ENTITY sendMaildesc.label           "Ved sending av formaterte (HTML) meldinger, og en eller flere av mottakerne er oppgitt som at de ikke kan motta HTML e-post:">
 <!ENTITY askMe.label                  "Spør meg hva som skal gjøres (vil spørre om hvilket format som skal brukes)">
 <!ENTITY askMe.accesskey              "S">
@@ -48,7 +47,6 @@
 <!ENTITY sendBoth.label               "Send meldingen som både HTML og ren tekst (meldingen blir større)">
 <!ENTITY sendBoth.accesskey           "e">
 <!ENTITY override.label               "Du kan overstyre disse innstillingene for hver enkelt melding ved å bruke Innstillinger-menyen mens du skriver meldingen.">
-<!ENTITY receiveHTML.label            "Dersom du kjenner til at en bestemt mottaker kan motta HTML mail e-post, fjern avkryssingen på 'Send e-post som ren tekst (ingen HTML)'-avkryssingboksen i mottakerens adressebokkort.">
 
 <!-- Html and Plain Text Domains  -->
 <!ENTITY domain.title                 "HTML og tekstdomener">

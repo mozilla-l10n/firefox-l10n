@@ -22,8 +22,8 @@
  Contributor(s):
 
  Alternatively, the contents of this file may be used under the terms of
- either of the GNU General Public License Version 2 or later (the "GPL"),
- or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
  in which case the provisions of the GPL or the LGPL are applicable instead
  of those above. If you wish to allow use of your version of this file only
  under the terms of either the GPL or the LGPL, and not to allow others to
@@ -115,6 +115,11 @@ bilder i HTML-meldinger fra denne kontakten.">
 <!ENTITY HomeCountry.accesskey          "L">
 <!ENTITY HomeWebPage.label              "Nettside:"> 
 <!ENTITY HomeWebPage.accesskey          "N">
+<!ENTITY Birthday.label                 "Bursdag:">
+<!ENTITY Birthday.accesskey             "B">
+<!ENTITY Year.emptytext                 "År">
+<!ENTITY Or.value                       "eller">
+<!ENTITY Age.emptytext                  "Alder">
 
 <!ENTITY Work.tab                       "Arbeid">
 <!ENTITY Work.accesskey                 "A">
@@ -141,11 +146,6 @@ bilder i HTML-meldinger fra denne kontakten.">
 
 <!ENTITY Other.tab                      "Annet">
 <!ENTITY Other.accesskey                "A">
-<!ENTITY Birthday.label                 "Bursdag:">
-<!ENTITY Birthday.accesskey             "B">
-<!ENTITY Year.emptytext                 "År">
-<!ENTITY Or.value                       "eller">
-<!ENTITY Age.emptytext                  "Alder">
 <!ENTITY Custom1.label                  "Egendefinert 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Egendefinert 2:">

@@ -27,7 +27,6 @@
 <!ENTITY attachMenu.label "Legg ved">
 <!ENTITY attachMenu.accesskey "L">
 <!ENTITY attachFileCmd.label "Fil(er) …">
-<!ENTITY attachFileCmd.key "">
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachPageCmd.label "Nettside …">
 <!ENTITY attachPageCmd.accesskey "N">
@@ -45,7 +44,6 @@
 <!ENTITY printCmd.label "Skriv ut …">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "u">
-<!ENTITY closeCmd.label "Lukk">
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Tekstbrytning">
@@ -70,32 +68,6 @@
 <!ENTITY showComposeToolbarCmd.accesskey "E">
 <!ENTITY showFormatToolbarCmd.label "Formateringsverktøylinje">
 <!ENTITY showFormatToolbarCmd.accesskey "F">
-<!ENTITY showParagraphMarksCmd.label ".Vis avsnittsmerker">
-<!ENTITY pageSourceCmd.label ".Kildekode">
-<!ENTITY pageSourceCmd.accesskey "d">
-<!ENTITY pageInfoCmd.label ".Sideinformasjon">
-<!ENTITY pageInfoCmd.accesskey "S">
-<!ENTITY dcharMenu.label "Tegnsett">
-<!ENTITY dcharIso1Cmd.label "Vestlig (ISO-8859-1)">
-<!ENTITY dcharIso2Cmd.label "Sentraleuropeisk (ISO-8859-2)">
-<!ENTITY dcharIso3Cmd.label "Søreuropeisk (ISO-8859-3)">
-<!ENTITY dcharIso4Cmd.label "Baltisk (ISO-8859-4)">
-<!ENTITY dcharIso9Cmd.label "Tyrkisk (ISO-8859-9)">
-<!ENTITY dcharIso10Cmd.label "Nordisk (ISO-8859-10)">
-<!ENTITY dcharIso14Cmd.label "Keltisk (ISO-8859-14)">
-<!ENTITY dcharIso15Cmd.label "Vestlig (ISO-8859-15)">
-<!ENTITY dcharJapanCmd.label "Japansk (ISO-2022-JP)">
-<!ENTITY dcharTradChiBigCmd.label "Kinesisk (Big5)">
-<!ENTITY dcharSimpChiGbCmd.label "Kinesisk (GB2312)">
-<!ENTITY dcharKoreanCmd.label "Koreansk (EUC-KR)">
-<!ENTITY dcharUtf8Cmd.label "Unicode (UTF-8)">
-<!ENTITY dcharRusCmd.label "Kyrillisk (KOI8-R)">
-<!ENTITY dcharUkrCmd.label "Kyrillisk/Ukrainsk (KOI8-U)">
-<!ENTITY dcharIsoGreekCmd.label "Gresk (ISO-8859-7)">
-<!ENTITY dcharVietViCmd.label "Vietnamesisk (VISCII)">
-<!ENTITY dcharThaiCmd.label "Thai (TIS-620)">
-<!ENTITY dcharArmCmd.label "Armensk (ARMSCII-8)">
-<!ENTITY dcharDEFAULT.label "Sett forvalgt tegnsett for sending">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Format">
@@ -104,11 +76,6 @@
 <!-- Options menu items -->
 <!ENTITY optionsMenu.label "Innstillinger">
 <!ENTITY optionsMenu.accesskey "I">
-
-<!ENTITY doNotCompleteAddrCmd.label ".Ikke auto-fullfør adresser">
-<!ENTITY showMatchingAddrCmd.label ".Vis passende adresser">
-
-<!ENTITY addSignatureCmd.label ".Legg til signaturfil">
 
 <!ENTITY quoteCmd.label "Siter melding">
 <!ENTITY quoteCmd.accesskey "S">
@@ -148,33 +115,13 @@
 <!ENTITY bothFormatCmd.label "Ren og rik (HTML) tekst">
 <!ENTITY bothFormatCmd.accesskey "R">
 
-<!ENTITY UuencodeAttachmentCmd.label "Uuencode istedenfor MIME i vedlegg">
-
-
 <!ENTITY fileCarbonCopyCmd.label "Send en kopi til">
 <!ENTITY fileCarbonCopyCmd.accesskey "d">
 <!ENTITY fileHereMenu.label "Fil her">
 
-<!--LOCALIZATION NOTE Debug Menu Don't translate anything in the Debug menu section -->
-<!-- Debug Menu, imported from editorAppShell.dtd -->
-<!ENTITY debugMenu.label "Debug">
-<!ENTITY outputTextCmd.label "Output Text">
-<!ENTITY outputHTMLCmd.label "Output HTML">
-<!ENTITY insertTextCmd.label "Insert Text">
-<!ENTITY testSelectionCmd.label "Test Selection">
-<!ENTITY testTableLayoutCmd.label "Test Table Layout">
-<!ENTITY testDocumentCmd.label "Test Document">
-<!ENTITY showEmbeddedCmd.label "Show Embedded Objects">
-<!ENTITY dumpContentCmd.label "Dump Content Tree">
-<!ENTITY runUnitTestsCmd.label "Run Unit Tests">
-<!ENTITY startLogCmd.label "Start Log">
-<!ENTITY stopLogCmd.label "Stop Log">
-<!ENTITY runLogCmd.label "Run Log">
-
 <!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
 <!-- Toolbar items -->
 <!ENTITY sendButton.label "Send">
-<!ENTITY quoteButton.label "Siter">
 <!ENTITY addressButton.label "Adresser">
 <!ENTITY attachButton.label "Legg ved">
 <!ENTITY spellingButton.label "Stavekontroll">
@@ -187,17 +134,10 @@
 <!ENTITY formatToolbar.tooltip "Formateringsverktøylinje">
 <!ENTITY sendButton.tooltip "Send denne meldingen nå"> 
 <!ENTITY sendlaterButton.tooltip "Send denne meldingen senere"> 
-<!ENTITY quoteButton.tooltip "Siter den forrige meldingen"> 
 <!ENTITY addressButton.tooltip "Velg en mottaker fra adresseboken"> 
 <!ENTITY attachButton.tooltip "Inkluder et vedlegg"> 
 <!ENTITY saveButton.tooltip "Lagre denne meldingen"> 
 <!ENTITY stopButton.tooltip "Stopp denne overføringen"> 
-
-<!-- Toolbar items, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
 
 <!-- context menu items -->
 <!ENTITY spellCheckNoSuggestions.label "Ingen forslag funnet">

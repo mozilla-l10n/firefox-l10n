@@ -24,8 +24,6 @@
 <!ENTITY  cursive.label                           "Kursiv">
 <!ENTITY  cursive.accesskey                       "K">
 
-<!ENTITY  fontsize.units                          "punkter">
-
 <!ENTITY  font.langGroup.latin1                   "Vestlig">
 <!ENTITY  font.langGroup.latin2                   "Sentraleuropeisk">
 <!ENTITY  font.langGroup.japanese                 "Japansk">
@@ -62,8 +60,6 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
-<!ENTITY  newLanguages.label                      "Andre språk kan velges i språkdialogen">
-
 <!ENTITY  useDocumentFonts.label                  "Tillat dokumenter å bruke andre skrifttyper">
 <!ENTITY  useDocumentFonts.accesskey              "o">
 
@@ -72,9 +68,3 @@
 <!ENTITY  header2                                 "Når en nettside velger sine egne skrifttyper">
 <!ENTITY  useDefaultFont.label                    "Bruk forvalgte skrifttyper, og ignorer nettsidens foretrukne skrifttyper">
 <!ENTITY  useDefaultFont.accesskey                "s">
-<!-- LOCALIZATION NOTE (useDocFontNonDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
-<!ENTITY  useDocFontNonDynamic.label              "Bruk skrifttypene valgt av nettsiden">
-<!ENTITY  useDocFontNonDynamic.accesskey          "B">
-<!-- LOCALIZATION NOTE (useDocFontDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
-<!ENTITY  useDocFontDynamic.label                 "Bruk alle skrifttypene som nettsiden velger">
-<!ENTITY  useDocFontDynamic.accesskey             "r">

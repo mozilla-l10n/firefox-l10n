@@ -44,7 +44,6 @@
 <!ENTITY shortcutURL.label          "Nøkkelord:">
 <!ENTITY shortcutURL.accesskey      "ø">
 <!ENTITY destination.label          "Mappe:">
-<!ENTITY destination.accesskey      "M">
 <!ENTITY newFolder.label            "Ny mappe …">
 <!ENTITY newFolder.accesskey        "e">
 <!ENTITY addGroup.label             "Lagre fanegruppe">

@@ -36,8 +36,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  resetsettings.label      "Tilbakestill innstillinger">
-<!ENTITY  resetpreferences.label   "Tilbakestill innstillinger …">
 <!ENTITY  managecerts.caption      "Behandle sertifikater">
 <!ENTITY  managecerts.text         "Bruk sertifikatbehandleren for å behandle personlige sertifikater, samt andre personers sertifikater og ustederes sertifikater.">
 <!ENTITY  managecerts.button       "Behandle sertifikater …">
