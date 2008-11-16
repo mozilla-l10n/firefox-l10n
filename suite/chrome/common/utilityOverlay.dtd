@@ -86,6 +86,21 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
+<!ENTITY customizeToolbar.toolbarmode.label       "პარამეტრები ამ პულტისთვის">
+<!ENTITY customizeToolbar.toolbarmode.accesskey   "t">
+<!ENTITY customizeToolbar.iconsAndText.label      "პიქტოგრამები და ტექსტი">
+<!ENTITY customizeToolbar.iconsAndText.accesskey  "a">
+<!ENTITY customizeToolbar.icons.label             "პიქტოგრამები">
+<!ENTITY customizeToolbar.icons.accesskey         "I">
+<!ENTITY customizeToolbar.text.label              "ტექსტი">
+<!ENTITY customizeToolbar.text.accesskey          "T">
+<!ENTITY customizeToolbar.useSmallIcons.label     "პატარა პიქტოგრამები">
+<!ENTITY customizeToolbar.useSmallIcons.accesskey "s">
+<!ENTITY customizeToolbar.labelAlignEnd.label     "ტესტის ჩვენება პიქტოგრამებთან ერთად">
+<!ENTITY customizeToolbar.labelAlignEnd.accesskey "b">
+<!ENTITY customizeToolbar.useDefault.label        "ნაგულისხმები პარამეტრები">
+<!ENTITY customizeToolbar.useDefault.accesskey    "g">
+
 <!-- Popup Blocked notification menu -->
 <!ENTITY allowPopups.accesskey        "p">
 <!ENTITY showPopupManager.label       "ფირნიშების მართვა">
