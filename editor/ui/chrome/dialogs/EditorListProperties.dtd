@@ -47,7 +47,6 @@
 <!ENTITY bulletList.value "Punktmerka (unummerert) liste">
 <!ENTITY numberList.value "Nummerert liste">
 <!ENTITY definitionList.value "Definisjonsliste">
-<!ENTITY changeListMsg.label "Ved endring av listetype:">
 <!ENTITY changeEntireListRadio.label "Endra heile lista">
 <!ENTITY changeEntireListRadio.accessKey "h">
 <!ENTITY changeSelectedRadio.label "Berre endre merkte element">

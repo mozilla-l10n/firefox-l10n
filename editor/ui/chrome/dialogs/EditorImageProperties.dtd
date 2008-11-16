@@ -41,7 +41,6 @@
 <!ENTITY windowTitle.label "Bileteigenskapar">
 
 <!ENTITY pixelsPopup.value "pikslar">
-<!ENTITY percentPopup.value "prosent">
 
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Biletadresse:">
@@ -57,7 +56,6 @@
 <!ENTITY noAltText.accessKey "I">
 
 <!ENTITY previewBox.label "Førehandsvising av biletet">
-<!ENTITY MoreFewerButton.tooltip "Vis fleire eller færre eigenskapar for redigering">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
@@ -93,7 +91,6 @@
 
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "Mellomrom">
-<!ENTITY spacingBox.tooltip "Skriv eit tall for luft kring biletet">
 <!ENTITY leftRightEditField.label "Venstre og høgre:">
 <!ENTITY leftRightEditField.accessKey "V">
 <!ENTITY topBottomEditField.label "Topp og botn:">
@@ -104,12 +101,6 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Vis kantlinje kring lenka bilete">
 <!ENTITY showImageLinkBorder.accessKey "V">
-
-<!-- These controls may be added some day; currently not used -->
-<!ENTITY makePageBackgroundCheckbox.label "Bruk som sidebakgrunn">
-<!ENTITY makePageBackgroundCheckbox.tooltip "Bruk bilete som bakgrunn på sida">
-<!ENTITY editImageButton.label "Rediger bilete">
-<!ENTITY editImageButton.tooltip "Rediger biletfil i eit anna program">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Skjema">

@@ -35,14 +35,11 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-
 <!-- Window title -->
 <!ENTITY windowTitle.label            "Publiser side">
 <!ENTITY windowTitleSettings.label    "Publiseringsinnstillingar">
-
 <!ENTITY publishTab.label             "Publiser">
 <!ENTITY settingsTab.label            "Innstillingar">
-
 <!ENTITY publishButton.label          "Publiser">
 
 <!-- Publish Tab Panel -->
@@ -72,10 +69,8 @@
 <!ENTITY filename.accesskey           "F">
 <!ENTITY filename.tooltip             "Gje denne fila eit namn, inkludert «.html» for nettsider">
 <!ENTITY filenameExample.label        "til dømes: «miside.html»">
-<!ENTITY relatedDocs.label            "Andre filer som kan publiserast">
 <!ENTITY setDefaultButton.label       "Vel som standard">
 <!ENTITY setDefaultButton.accesskey   "D">
-<!ENTITY setDefSiteAndDir.label       "Vel som standardområde og -mappe">
 <!ENTITY removeButton.label           "Fjern område">
 <!ENTITY removeButton.accesskey       "R">
 

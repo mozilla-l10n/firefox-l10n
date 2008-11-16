@@ -69,7 +69,6 @@
 <!ENTITY tableCaptionNone.label           "Ingen">
 <!ENTITY tableInheritColor.label           "(Lat sidefargen skina gjennom)">
 
-<!ENTITY cellPercent.label                "prosent av tabellen">
 <!ENTITY cellSelection.label              "Merka område">
 <!ENTITY cellSelectCell.label             "Celle">
 <!ENTITY cellSelectRow.label              "Rad">
@@ -78,11 +77,7 @@
 <!ENTITY cellSelectNext.accessKey         "n">
 <!ENTITY cellSelectPrevious.label         "Førre:">
 <!ENTITY cellSelectPrevious.accessKey     "F">
-<!ENTITY cellApplyBeforeMove.label        "Bruk endringar før byte av merka område">
-<!ENTITY cellKeepCurrentData.label        "Behald gjeldande innstillingar">
 <!ENTITY applyBeforeChange.label          "Desse endringane vil verte brukte før byte av merka område.">
-<!ENTITY cellRowSpan.label                "Radspanning">
-<!ENTITY cellColSpan.label                "Kolonnespanning">
 <!ENTITY cellContentAlignment.label       "Innhaldsjustering">
 <!ENTITY cellHorizontal.label             "Horisontal:">
 <!ENTITY cellHorizontal.accessKey         "H">
@@ -100,7 +95,6 @@
 <!ENTITY cellAlignMiddle.label            "Midten">
 <!ENTITY cellAlignBottom.label            "Botn">
 <!ENTITY cellAlignJustify.label           "Justering">
-<!ENTITY cellAlignAtChar.label            "Ved teikn:">
 <!ENTITY cellInheritColor.label           "(Lat tabellfargen skina gjennom)">
 <!ENTITY cellUseCheckboxHelp.label        "Bruk avkryssingsboksar for å avgjere kva eigenskapar som skal gjelde alle merka celler">
 

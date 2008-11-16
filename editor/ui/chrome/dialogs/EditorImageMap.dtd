@@ -82,7 +82,6 @@
 
 <!ENTITY zoominCmd.label "Forstørr">
 <!ENTITY zoomoutCmd.label "Forminsk">
-<!ENTITY delSpotCmd.label "Slett område">
 
 <!-- Keys -->
 <!ENTITY clear.key "d">

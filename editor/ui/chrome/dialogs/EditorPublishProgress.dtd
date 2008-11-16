@@ -43,8 +43,6 @@
 
 <!ENTITY status.label          "Publiserer …">
 <!ENTITY fileList.label        "Publiseringsstatus">
-<!ENTITY statusHeader.label    "Status">
-<!ENTITY filenameHeader.label  "Filnamn">
 <!ENTITY succeeded.label       "Lykkast">
 <!ENTITY failed.label          "Mislykkast">
 
