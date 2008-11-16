@@ -17,7 +17,7 @@
 <!ENTITY newPageFromDraftCmd.accesskey "d">
 <!ENTITY newNavigatorCmd.label "Janela do Navegador">
 <!ENTITY newNavigatorCmd.key "N">
-<!ENTITY newNavigatorCmd.accesskey "B">
+<!ENTITY newNavigatorCmd.accesskey "N">
 
 <!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "e">

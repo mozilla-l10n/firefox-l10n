@@ -16,7 +16,7 @@
 <!ENTITY tbIconsAlways.accesskey                "e">
 <!ENTITY enableAutomaticImageResizing.label     "Redimensionar imagens grandes para caberem na janela do navegador">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
-<!ENTITY useSmoothScroll.label                  "Usar scroll suave">
+<!ENTITY useSmoothScroll.label                  "Usar deslocamento suave">
 <!ENTITY useSmoothScroll.accesskey              "U">
 <!ENTITY textZoomOnly.label                     "Aumentar apenas o texto em vez das páginas completas">
 <!ENTITY textZoomOnly.accesskey                 "A">

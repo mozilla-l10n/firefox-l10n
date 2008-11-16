@@ -17,7 +17,7 @@
 <!ENTITY languages.customize.DefaultCharset.label       "Codificação de caracteres:">
 <!ENTITY languages.customize.DefaultCharset.accesskey   "C">
 <!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
-<!ENTITY languages.customize.others.examples            "ex: en-bz, ar-jo">
+<!ENTITY languages.customize.others.examples            "ex: pt-br, ar-jo">
 <!ENTITY languages.customize.moveUp.label               "Mover para cima">
 <!ENTITY languages.customize.moveUp.accesskey           "c">
 <!ENTITY languages.customize.moveDown.label             "Mover para baixo">

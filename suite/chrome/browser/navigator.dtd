@@ -11,7 +11,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
 <!ENTITY tabCmd.label "Separador de navegação">
-<!ENTITY tabCmd.accesskey "T">
+<!ENTITY tabCmd.accesskey "S">
 <!ENTITY tabCmd.commandkey "p">
 <!ENTITY openCmd.label "Abrir localização Web…">
 <!ENTITY openCmd.accesskey "l">
@@ -109,12 +109,12 @@
 <!ENTITY bookmarksMenu.label "Marcadores">
 <!ENTITY bookmarksMenu.accesskey "M">
 <!ENTITY addCurPageCmd.label "Adicionar aos marcadores">
-<!ENTITY addCurPageCmd.accesskey "B">
+<!ENTITY addCurPageCmd.accesskey "i">
 <!ENTITY addCurPageAsCmd.label "Adicionar ficheiro aos marcadores…">
 <!ENTITY addCurPageAsCmd.accesskey "f">
 <!ENTITY addCurPageAsCmd.commandkey "d">
 <!ENTITY addCurTabsAsCmd.label "Adicionar separadores…">
-<!ENTITY addCurTabsAsCmd.accesskey "G">
+<!ENTITY addCurTabsAsCmd.accesskey "s">
 <!ENTITY manBookmarksCmd.label "Gerir marcadores…">
 <!ENTITY manBookmarksCmd.accesskey "m">
 <!ENTITY manBookmarksCmd.commandkey "b">

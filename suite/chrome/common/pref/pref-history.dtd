@@ -9,7 +9,7 @@
 <!ENTITY  clearHistory.accesskey            "r">
 
 <!ENTITY  locationBarHistory.caption        "Barra de localização do histórico">
-<!ENTITY  clearLocationBar.label            "Limpara a lista de sítios guardados no menu da barra de localização.">
-<!ENTITY  clearLocationBarButton.label      "Limapar barra de localização">
+<!ENTITY  clearLocationBar.label            "Limpar a lista de sítios guardados no menu da barra de localização.">
+<!ENTITY  clearLocationBarButton.label      "Limpar barra de localização">
 <!ENTITY  clearLocationBarButton.accesskey  "b">
   
