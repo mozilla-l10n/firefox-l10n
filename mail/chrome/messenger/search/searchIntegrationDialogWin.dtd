@@ -1,6 +1,6 @@
 <!ENTITY searchIntegration.engineName "Windows-Suche">
 <!ENTITY searchIntegration.title "&searchIntegration.engineName;-Integration">
-<!ENTITY searchIntegration.description "Wollen Sie &searchIntegration.engineName; aktivieren, um Nachrichten und Newsgruppen in &brandShortName; indexieren und durchsuchen zu lassen?">
+<!ENTITY searchIntegration.description "Soll es der &searchIntegration.engineName; ermöglicht werden, Nachrichten und Newsgruppen in &brandShortName; zu indexieren und zu durchsuchen?">
 
 <!ENTITY searchIntegration.accept "&searchIntegration.engineName; aktivieren">
 <!ENTITY searchIntegration.cancel "&searchIntegration.engineName; nicht aktivieren">
