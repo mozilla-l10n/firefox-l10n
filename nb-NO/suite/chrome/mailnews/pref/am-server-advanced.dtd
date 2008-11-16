@@ -1,6 +1,5 @@
 <!ENTITY serverAdvanced.label "Avanserte kontoinnstillinger">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY imapAdvanced.label "Avanserte IMAP tjenerinnstillinger">
 <!ENTITY serverDirectory.label "IMAP tjenermappe:">
 <!ENTITY serverDirectory.accesskey "t">
 <!ENTITY usingSubscription.label "Vis bare påmeldte mapper">
@@ -22,7 +21,6 @@
 <!ENTITY overrideNamespaces.label "Tillat tjeneren å overstyre disse navnerommene">
 <!ENTITY overrideNamespaces.accesskey "A">
 <!ENTITY pop3Desc.label "Ved nedlasting av POP e-post for denne tjeneren, bruk følgende mappe for ny post:" >
-<!ENTITY folderStorage.label "Hvor e-post lagres">
 <!ENTITY globalInbox.label "Global innboks («Lokale mapper»-kontoen)">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Innboks for denne tjenerens konto">

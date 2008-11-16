@@ -17,7 +17,6 @@
 <!ENTITY composingMessages.label          "Utforming">
 <!ENTITY format.label                     "Sendeformat">
 <!ENTITY return.label                     "Returkvitteringer">
-<!ENTITY disk.label                       "Diskplass">
 <!ENTITY junk.label                       "Søppelpost">
 <!ENTITY tags.label                       "Merkelapper">
 <!ENTITY characterEncoding.label          "Tegnkoding">

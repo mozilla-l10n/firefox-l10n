@@ -7,14 +7,10 @@
 <!ENTITY colors.label "Farger">
 <!ENTITY navigator.label "Nettleser">
 <!ENTITY history.label "Historikk">
-<!ENTITY bidi.label "Bidi-innstillinger">
 <!ENTITY languages.label "Språk">
 <!ENTITY applications.label "Hjelpeprogrammer">
 <!ENTITY locationBar.label "Adresselinje">
 <!ENTITY tabWindows.label "Nettlesing med faner">
-<!ENTITY compose.label "Forfatting">
-<!ENTITY editing.label "Innstillinger for nye faner">
-<!ENTITY publish.label "Publisering">
 <!ENTITY offline.label "Frakoblet">
 <!ENTITY security.label "Personvern og sikkerhet">
 <!ENTITY cookies.label "Infokapsler">

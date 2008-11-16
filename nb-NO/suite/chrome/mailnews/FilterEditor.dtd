@@ -75,9 +75,6 @@
 <!ENTITY filterActionDesc.label "Gjør dette med meldingene:">
 <!ENTITY filterActionDesc.accesskey "G">
 
-<!ENTITY newFolderButton.label "Ny mappe …">
-<!ENTITY newFolderButton.accesskey "N">
-
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Flytt melding til">
 <!ENTITY copyMessage.label "Kopier melding til">

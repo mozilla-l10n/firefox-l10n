@@ -53,8 +53,6 @@
 <!ENTITY fontPlainText.label              "Skrifttype:">
 <!ENTITY fontPlainText.accesskey          "S">
 <!ENTITY displayQuoted.label              "Innstillinger for siterte meldinger:">
-<!ENTITY readingMessagesHeader.label      "For innkommende meldinger">
-<!ENTITY messageWrapping.label            "Linjebryting">
 <!ENTITY wrapInMsg.label                  "Bryt teksten til å passe i vinduet">
 <!ENTITY wrapInMsg.accesskey              "B">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->

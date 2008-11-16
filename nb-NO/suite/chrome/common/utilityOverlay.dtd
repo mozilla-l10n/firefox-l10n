@@ -37,7 +37,6 @@
 <!ENTITY pasteCmd.key						"V">  
 <!ENTITY pasteCmd.accesskey					"L"> 
 <!ENTITY deleteCmd.label					"Slett">  
-<!ENTITY deleteCmd.key						"D">  
 <!ENTITY deleteCmd.accesskey				"t"> 
 <!ENTITY selectAllCmd.label					"Merk alt">  
 <!ENTITY selectAllCmd.key					"A">  
@@ -86,6 +85,21 @@
 <!ENTITY bidiSwitchTextDirectionItem.label        "Bytt tekstretning">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "e">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
+<!ENTITY customizeToolbar.toolbarmode.label       "Innstillinger for denne verktøylinjen">
+<!ENTITY customizeToolbar.toolbarmode.accesskey   "n">
+<!ENTITY customizeToolbar.iconsAndText.label      "Ikoner og tekst">
+<!ENTITY customizeToolbar.iconsAndText.accesskey  "k">
+<!ENTITY customizeToolbar.icons.label             "Ikoner">
+<!ENTITY customizeToolbar.icons.accesskey         "I">
+<!ENTITY customizeToolbar.text.label              "Tekst">
+<!ENTITY customizeToolbar.text.accesskey          "T">
+<!ENTITY customizeToolbar.useSmallIcons.label     "Bruk små ikoner">
+<!ENTITY customizeToolbar.useSmallIcons.accesskey "B">
+<!ENTITY customizeToolbar.labelAlignEnd.label     "Vis tekst ved siden av ikoner">
+<!ENTITY customizeToolbar.labelAlignEnd.accesskey "V">
+<!ENTITY customizeToolbar.useDefault.label        "Bruk standardinnstillinger">
+<!ENTITY customizeToolbar.useDefault.accesskey    "s">
 
 <!-- Popup Blocked notification menu -->
 <!ENTITY allowPopups.accesskey        "B">

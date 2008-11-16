@@ -47,7 +47,6 @@
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Størrelse">
 <!ENTITY junkStatusColumn.label "Uønsket">
-<!ENTITY linesColumn.label "Linjer">
 <!ENTITY unreadColumn.label "Ikke lest">
 <!ENTITY totalColumn.label "Totalt">
 <!ENTITY readColumn.label "Lest">

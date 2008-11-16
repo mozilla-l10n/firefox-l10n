@@ -2,13 +2,6 @@
 
 <!ENTITY securitySettings.label "Sikkerhetsinnstillinger">
 <!ENTITY serverSettings.label "Tjenerinnstillinger">
-<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
-<!ENTITY popServer.label "Meldingstjener (POP)">
-<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
-<!ENTITY imapServer.label "Meldingstjener (IMAP)">
-<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
-<!ENTITY newsServer.label "Meldingstjener (NNTP)">
-<!ENTITY webmail.label "WebMail-konto">
 <!ENTITY serverType.label "Tjenertype:">
 <!ENTITY serverName.label "Tjenernavn:">
 <!ENTITY serverName.accesskey "T">
@@ -50,10 +43,7 @@
 <!ENTITY deleteOnServer2.accesskey "n">
 <!ENTITY downloadOnBiff.label "Last ned nye meldinger automatisk">
 <!ENTITY downloadOnBiff.accesskey "L">
-<!ENTITY hostname.label "Tjenernavn">
 <!ENTITY username.label "Innloggingsnavn">
-<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
-<!ENTITY popServerTitle.label "POP Tjenerinformasjon">
 <!ENTITY deleteMessagePrefix.label "Når jeg sletter en melding:">
 <!ENTITY modelMoveToTrash.label "Flytt den til denne mappen:">
 <!ENTITY modelMoveToTrash.accesskey "F">
@@ -83,12 +73,12 @@
 <!ENTITY abbreviate.label "Vis navn i mappelista med">
 <!ENTITY abbreviateOn.label "Fulle navn (for eksempel «netscape.public.mozilla.mail-news»)">
 <!ENTITY abbreviateOff.label "Forkortede navn (for eksempel «n.p.m.mail-news»)">
-<!ENTITY advancedButton.label "Avansert ...">
+<!ENTITY advancedButton.label "Avansert …">
 <!ENTITY serverDefaultCharset.label "Forvalgt tegnkoding:">
 <!ENTITY advancedButton.accesskey "A">
 <!ENTITY localFolderPicker.label "Velg lokal mappe:">
-<!ENTITY browseFolder.label "Bla gjennom ...">
+<!ENTITY browseFolder.label "Bla gjennom …">
 <!ENTITY browseFolder.accesskey "B">
 <!ENTITY newsrcPicker.label "Velg newsrc-fil">
-<!ENTITY browseNewsrc.label "Bla gjennom ...">
+<!ENTITY browseNewsrc.label "Bla gjennom …">
 <!ENTITY browseNewsrc.accesskey "B">

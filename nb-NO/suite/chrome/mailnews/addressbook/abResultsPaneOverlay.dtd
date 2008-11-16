@@ -74,9 +74,9 @@
 <!ENTITY copyAddress.accesskey                 "K">
 <!ENTITY deleteAddrBookCard.label              "Slett">
 <!ENTITY deleteAddrBookCard.accesskey          "S">
-<!ENTITY newAddrBookCard.label                 "Nytt kort ...">
+<!ENTITY newAddrBookCard.label                 "Nytt kort …">
 <!ENTITY newAddrBookCard.accesskey             "k">
-<!ENTITY newAddrBookMailingList.label          "Ny e-postliste ...">
+<!ENTITY newAddrBookMailingList.label          "Ny e-postliste …">
 <!ENTITY newAddrBookMailingList.accesskey      "p">
 <!ENTITY addrBookCardProperties.label          "Egenskaper">
 <!ENTITY addrBookCardProperties.accesskey      "p">

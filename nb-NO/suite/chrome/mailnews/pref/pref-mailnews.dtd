@@ -39,10 +39,6 @@
 <!ENTITY generalSettings.caption          "Generelle innstillinger">
 <!ENTITY confirmMove.label                "Bekreft når mapper flyttes til søppelkassa">
 <!ENTITY confirmMove.accesskey            "B">
-<!ENTITY useMessenger.label               "Bruk E-post fra MAPI-baserte programmer">
-<!ENTITY useMessenger.accesskey           "B">
-<!ENTITY autounzip.label                  "Automatisk pakk ut ZIP-filer ved lagring av vedlegg">
-<!ENTITY autounzip.accesskey              "A">
 <!ENTITY preserveThreading.label          "Behold trådstruktur ved sortering av meldinger">
 <!ENTITY preserveThreading.accesskey      "B">
 
