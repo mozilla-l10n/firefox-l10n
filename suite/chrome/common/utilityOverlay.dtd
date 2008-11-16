@@ -87,6 +87,21 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "x">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
 
+<!ENTITY customizeToolbar.toolbarmode.label       "Paramètres pour cette barre d'outils">
+<!ENTITY customizeToolbar.toolbarmode.accesskey   "P">
+<!ENTITY customizeToolbar.iconsAndText.label      "Icônes et texte">
+<!ENTITY customizeToolbar.iconsAndText.accesskey  "I">
+<!ENTITY customizeToolbar.icons.label             "Icônes">
+<!ENTITY customizeToolbar.icons.accesskey         "c">
+<!ENTITY customizeToolbar.text.label              "Texte">
+<!ENTITY customizeToolbar.text.accesskey          "T">
+<!ENTITY customizeToolbar.useSmallIcons.label     "Petites icônes">
+<!ENTITY customizeToolbar.useSmallIcons.accesskey "e">
+<!ENTITY customizeToolbar.labelAlignEnd.label     "Texte à côté des icônes">
+<!ENTITY customizeToolbar.labelAlignEnd.accesskey "x">
+<!ENTITY customizeToolbar.useDefault.label        "Paramètres par défaut">
+<!ENTITY customizeToolbar.useDefault.accesskey    "a">
+
 <!-- Popup Blocked notification menu -->
 <!ENTITY allowPopups.accesskey "A">
 <!ENTITY showPopupManager.label "Gestion des fenêtres popup">
