@@ -16,7 +16,6 @@
 <!ENTITY DisplayName.accesskey "т">
 <!ENTITY NickName.label "Псевдоним:">
 <!ENTITY NickName.accesskey "д">
-<!ENTITY Internet.box "Интернет">
 <!ENTITY PrimaryEmail.label "Электронная почта:">
 <!ENTITY PrimaryEmail.accesskey "л">
 <!ENTITY SecondEmail.label "Доп. адрес электронной почты:">
@@ -57,6 +56,11 @@
 <!ENTITY HomeCountry.accesskey "т">
 <!ENTITY HomeWebPage.label "Веб-страница:">
 <!ENTITY HomeWebPage.accesskey "с">
+<!ENTITY Birthday.label "День рождения:">
+<!ENTITY Birthday.accesskey "е">
+<!ENTITY Year.emptytext "Год">
+<!ENTITY Or.value "или">
+<!ENTITY Age.emptytext "Возраст">
 <!ENTITY Work.tab "Рабочее">
 <!ENTITY Work.accesskey "б">
 <!ENTITY JobTitle.label "Должность:">
@@ -81,11 +85,6 @@
 <!ENTITY WorkWebPage.accesskey "с">
 <!ENTITY Other.tab "Прочее">
 <!ENTITY Other.accesskey "ч">
-<!ENTITY Birthday.label "День рождения:">
-<!ENTITY Birthday.accesskey "е">
-<!ENTITY Year.emptytext "Год">
-<!ENTITY Or.value "или">
-<!ENTITY Age.emptytext "Возраст">
 <!ENTITY Custom1.label "Прочее 1:">
 <!ENTITY Custom1.accesskey "1">
 <!ENTITY Custom2.label "Прочее 2:">
