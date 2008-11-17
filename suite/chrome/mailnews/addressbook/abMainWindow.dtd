@@ -114,13 +114,13 @@
 <!ENTITY newmsgButton.label                             "Criar">  
 <!ENTITY newmsgButton.accesskey                         "C">  
 <!ENTITY deleteButton.label                             "Eliminar">  
-<!ENTITY deleteButton.accesskey                         "l">  
+<!ENTITY deleteButton.accesskey                         "a">  
 <!ENTITY newimButton.label                              "Mensagem Instantânea">  
 <!ENTITY newimButton.accesskey                          "I">  
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Barra de ferramentas do Livro de Endereços">
-<!ENTITY newcardButton.tooltip                          "Criar um novo cartão no livro de endereços"> 
+<!ENTITY newcardButton.tooltip                          "Criar um novo 3 no livro de endereços"> 
 <!ENTITY newlistButton.tooltip                          "Criar uma nova lista"> 
 <!ENTITY editButton.tooltip                             "Editar o cartão seleccionado"> 
 <!ENTITY newmsgButton.tooltip                           "Enviar uma mensagem de correio"> 
