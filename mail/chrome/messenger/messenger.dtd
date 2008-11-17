@@ -5,15 +5,12 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "ෆෝල්ඩරයක්...">
 <!ENTITY newFolderCmd.accesskey "F">
-<!ENTITY newTabCmd.label "නව ටැබයක්">
-<!ENTITY newTabCmd.accesskey "T">
 <!ENTITY closeTabCmd.label "ටැබ වසන්න">
 <!ENTITY closeTabCmd.accesskey "e">
 <!ENTITY newVirtualFolderCmd.label "සුරැකූ සෙවුමක්...">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newAccountCmd.label "ගිණුමක්...">
-<!ENTITY newAccountCmd.accesskey "A">
-<!ENTITY openMessageMenu.label "විවෘත කරන්න">
+<!ENTITY newAccountCmd.accesskey "A"> 
 <!ENTITY openMessageFileCmd.label "සුරැකූ ලිපියක් අරින්න...">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "ඇමුණුම්">
@@ -44,7 +41,7 @@
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "ෆෝල්ඩරය සංයුක්ත කරන්න">
-<!ENTITY compactFolder.accesskey "F">
+<!ENTITY compactFolders.accesskey "F">
 <!ENTITY emptyTrashCmd.label "ඉවතලූ ලිපි මකන්න">
 <!ENTITY emptyTrashCmd.accesskey    "y">
 <!ENTITY importCmd.label "ආයාත...">
@@ -66,7 +63,6 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "මුද්‍රණ පෙරදැක්ම">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "පිටු සැකසුම්...">
 <!ENTITY printSetupCmd.accesskey "u">
 
@@ -130,8 +126,6 @@
 <!ENTITY messagePaneWide.accesskey "W">
 <!ENTITY messagePaneVertical.label "සිරස් පෙනුම">
 <!ENTITY messagePaneVertical.accesskey "V">
-<!ENTITY threadPaneWide.label "පුළුල් ලැයිස්තු පෙනුම">
-<!ENTITY threadPaneWide.accesskey "i">
 <!ENTITY showMessageCmd.label "ලිපි කවුළුව">
 <!ENTITY showMessageCmd.accesskey "M">
 
@@ -187,15 +181,12 @@
 <!ENTITY sortUnthreaded.accesskey "h">
 <!ENTITY groupBySort.label "Grouped By Sort">
 <!ENTITY groupBySort.accesskey "G">
-<!ENTITY groupBySortCmd.key "G">
 <!ENTITY msgsMenu.label "ලිපි">
 <!ENTITY msgsMenu.accesskey "M">
 <!ENTITY threads.label "සබැඳි">
 <!ENTITY threads.accesskey "e">
 <!ENTITY allMsgsCmd.label "සියළු ලිපි">
 <!ENTITY allMsgsCmd.accesskey "A">
-<!ENTITY expandOrCollapseMenu.label "විහිදවන්න/අකුළන්න">
-<!ENTITY expandOrCollapseMenu.accesskey "x">
 <!ENTITY expandAllThreadsCmd.label "සියළු සබැඳි විහිදවන්න">
 <!ENTITY expandAllThreadsCmd.accesskey "E">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -226,31 +217,39 @@
 <!ENTITY bodyAsPlaintext.accesskey "P">
 <!ENTITY viewAttachmentsInlineCmd.label "ඇමුණුම් ලිපිය තුළම පෙන්වන්න">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "A">
-<!ENTITY reloadCmd.label "ප්‍රතිපූරණය (Reload)">
-<!ENTITY reloadCmd.accesskey "R">
-<!ENTITY stopCmd.label "නවතන්න">
-<!ENTITY stopCmd.accesskey "S">
-<!ENTITY textZoomEnlargeCmd.label "වැඩිකරන්න">
-<!ENTITY textZoomEnlargeCmd.accesskey "I">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
-<!ENTITY textZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY textZoomReduceCmd.label "අඩුකරන්න">
-<!ENTITY textZoomReduceCmd.accesskey "D">
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomResetCmd.commandkey "0">
-<!ENTITY textZoomResetCmd.label     "සාමාන්‍ය">
-<!ENTITY textZoomResetCmd.accesskey "N">
-<!ENTITY textSize.label             "පාඨ ප්‍රමාණය">
-<!ENTITY textSize.accesskey             "x">
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY fullZoomEnlargeCmd.label       "විශාල කරන්න">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY fullZoomReduceCmd.label        "කුඩා කරන්න">
+<!ENTITY fullZoomReduceCmd.accesskey    "O">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
+<!ENTITY fullZoomResetCmd.label         "Reset">
+<!ENTITY fullZoomResetCmd.accesskey     "R">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY fullZoomToggleCmd.label        "පාඨ පමණක් විශාල කරන්න">
+<!ENTITY fullZoomToggleCmd.accesskey    "T">
+<!ENTITY fullZoom.label                 "විශාලන">
+<!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY pageSourceCmd.label "ලිපියේ මූලය">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
 
 <!-- Search Menu -->
-<!ENTITY searchMenu.label "සොයන්න">
-<!ENTITY searchMenu.accesskey "S">
-
 <!ENTITY findMenu.label "සොයන්න">
 <!ENTITY findMenu.accesskey "F">
 <!ENTITY findCmd.label "මේ ලිපියේ සොයන්න...">
@@ -282,8 +281,8 @@
 <!ENTITY nextStarredMsgCmd.label "Starred Message">
 <!ENTITY nextStarredMsgCmd.accesskey "S">
 <!ENTITY nextUnreadThread.label "නොකියවූ සබැඳි ලිපියට">
-<!ENTITY nextUnreadThreadCmd.accesskey "T">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "T">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "පෙර">
 <!ENTITY prevMenu.accesskey "P">
 <!ENTITY prevMsgCmd.label "ලිපියට">
@@ -332,14 +331,14 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "පෙරහනක් සාදන්න...">
 <!ENTITY createFilter.accesskey "a">
-<!ENTITY moveMsgMenu.label "ගෙන යන්න">
-<!ENTITY moveMsgMenu.accesskey "M">
+<!ENTITY moveMsgToMenu.label "ගෙන යන්න">
+<!ENTITY moveMsgToMenu.accesskey "M">
 <!ENTITY moveCopyMsgRecentMenu.label "මෑතකිලීන">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY copyMessageLocation.label "ලිපි ස්ථානය පිටපත් කරන්න">
 <!ENTITY copyMessageLocation.accesskey "M">
-<!ENTITY copyMsgMenu.label "පිටපත් කරන්න">
-<!ENTITY copyMsgMenu.accesskey "C">
+<!ENTITY copyMsgToMenu.label "පිටපත් කරන්න">
+<!ENTITY copyMsgToMenu.accesskey "C">
 <!ENTITY moveToFolderAgain.label "යළි ගෙන යන්න">
 <!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "m">
@@ -373,8 +372,6 @@
 <!ENTITY markAsReadCmd.label "කියවූ ලෙස">
 <!ENTITY markAsReadCmd.accesskey "R">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "නොකියවූ ලෙස">
-<!ENTITY markAsUnreadCmd.accesskey "U">
 <!ENTITY markThreadAsReadCmd.label "Thread As Read">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -401,12 +398,11 @@
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "කවුළුව">
-<!ENTITY windowMenu.accesskey "W">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "මෙවලම්">
 <!ENTITY tasksMenu.accesskey "T">
-<!ENTITY addons.label "එක්කිරීම් (Add-ons)">
+<!ENTITY addons.label "ඇඩෝන (Add-ons)">
 <!ENTITY addons.accesskey "d">
 <!ENTITY messengerCmd.label "ලිපි සහ පුවත්සමූහ">
 <!ENTITY messengerCmd.accesskey "m">
@@ -446,7 +442,6 @@
 <!ENTITY printButton.label "මුද්‍රණය">
 <!ENTITY stopButton.label "නවතන්න">
 <!ENTITY throbberItem.title "ක්‍රියාකාරීත්ව දර්ශකය">
-<!ENTITY updatesItem.title  "යාවත්කාලීන කිරීම්">
 <!ENTITY junkButton.label "නිසරු ලිපි">
 <!ENTITY notJunkButton.label "නිසරු සේ නොගැනෙන ලිපි">
 <!ENTITY addressBookButton.label "ලිපින පොත">
@@ -458,7 +453,6 @@
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "වැඩිමනත් ලිපි සෙවුම">
-<!ENTITY clearButton.tooltip "සෙවුම් මානයන් ඉවත්කර සියළු ලිපි පෙන්වන්න">
 <!ENTITY getMsgButton.tooltip "නව ලිපි ලබා ගැනීමට">
 <!ENTITY getAllNewMsgCmd.label "සියළු නව ලිපි ලබා ගැනීමට">
 <!ENTITY getAllNewMsgCmd.accesskey "G">
@@ -467,7 +461,7 @@
 <!ENTITY replyButton.tooltip "ලිපියට පිළිතුරු ලිවීමට">
 <!ENTITY replyAllButton.tooltip "එවන්නා ඇතුළු සැමට පිළිතුරු සැපයීමට">
 <!ENTITY forwardButton.tooltip "තෝරාගත් ලිපිය යොමු කිරීමට">
-<!ENTITY fileButton.tooltip "File selected message">
+<!ENTITY fileButton.tooltip "තෝරාගත් ලිපිය ගොනුගත කරන්න">
 <!ENTITY nextButton.tooltip "මීලඟ නොකියවූ ලිපියට">
 <!ENTITY previousButton.tooltip "පෙර නොකියවූ ලිපියට">
 <!ENTITY goForwardButton.tooltip "ඉදිරි ලිපියට">
@@ -532,8 +526,6 @@
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "නමේ හෝ ලිපියේ අඩංගු:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
-<!ENTITY clearButton.label "හිස් කරන්න">
-<!ENTITY clearButton.accesskey "C">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "විෂයය">
@@ -556,7 +548,6 @@
 <!ENTITY statusColumn.label "තත්ත්වය">
 <!ENTITY sizeColumn.label "විශාලත්වය">
 <!ENTITY junkStatusColumn.label "නිසරු">
-<!ENTITY linesColumn.label "පේළි">
 <!ENTITY unreadColumn.label "නොකියවූ">
 <!ENTITY totalColumn.label "එකතුව">
 <!ENTITY readColumn.label "කියවූ">
@@ -617,8 +608,6 @@
 <!ENTITY contextPrint.accesskey "P">
 <!ENTITY contextPrintPreview.label "මුද්‍රණය පෙර දැක්ම">
 <!ENTITY contextPrintPreview.accesskey "v">
-<!ENTITY contextDelete.label "මකන්න">
-<!ENTITY contextDelete.accesskey "D">
 
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "නිසරු ලිපි">
@@ -652,8 +641,6 @@
 <!ENTITY CopyEmailAddress.accesskey "C">
 <!ENTITY CreateFilterFrom.label "ලිපියෙන් පෙරහනක් සාදන්න...">
 <!ENTITY CreateFilterFrom.accesskey "F">
-<!ENTITY BlockAddress.label "ලිපිනය අවහිර කරන්න">
-<!ENTITY BlockAddress.accesskey "A">
 <!ENTITY reportPhishingURL.label "Email Scam වාර්තා කරන්න">
 <!ENTITY reportPhishingURL.accesskey "o">
 
@@ -693,4 +680,4 @@
 <!ENTITY hideOtherAppsCmdMac.label      "අනෙක්වා සඟවන්න">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
-<!ENTITY showAllAppsCmdMac.label        "සියත්ත පෙන්වන්න">
+<!ENTITY showAllAppsCmdMac.label        "සියල්ල පෙන්වන්න">

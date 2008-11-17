@@ -1,12 +1,2 @@
-<!ENTITY  untitledTab              "(සිරස්තල රහිත)">
-<!ENTITY  newTab.label             "නව ටැබයක්">
-<!ENTITY  newTab.accesskey         "N">
 <!ENTITY  closeTab.label           "ටැබය වසන්න">
-<!ENTITY  closeTab.accesskey       "c">
-<!ENTITY  closeOtherTabs.accesskey "o">
-<!ENTITY  closeOtherTabs.label     "අනෙක් ටැබ් වසන්න">
-<!ENTITY  reloadAllTabs.label      "සියළු ටැබ් ප්‍රත්පූරණය කරන්න">
-<!ENTITY  reloadAllTabs.accesskey  "A">
-<!ENTITY  reloadTab.label          "ටැබය ප්‍රත්පූරණය කරන්න">
-<!ENTITY  reloadTab.accesskey      "r">
 <!ENTITY  listAllTabs.label        "සියළු ටැබ් ලැයිස්තුගත කරන්න">

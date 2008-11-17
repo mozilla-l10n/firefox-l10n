@@ -37,7 +37,7 @@
 <!ENTITY windowTitle.label "තේරීම් ලැයිස්තු ලක්ෂණ">
 
 <!ENTITY Select.label "තේරීම් ලැයිස්තුව">
-<!ENTITY SelectName.label "ගැයිස්තු නම:">
+<!ENTITY SelectName.label "ලැයිස්තු නම:">
 <!ENTITY SelectName.accesskey "N">
 <!ENTITY SelectSize.label "උස:">
 <!ENTITY SelectSize.accesskey "H">

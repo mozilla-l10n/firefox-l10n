@@ -9,15 +9,14 @@
 <!ENTITY  openApplication.accesskey           "e">
 <!ENTITY  changeApp.label                     "පිරික්සන්න...">
 <!ENTITY  changeApp.accesskey                 "B">
-<!ENTITY  saveToDisk.label                    "ඕවා මගේ පරිගණකය තුළ සුරකින්න">
+<!ENTITY  saveToDisk.label                    "ඒවා මගේ පරිගණකය තුළ සුරකින්න">
 <!ENTITY  saveToDisk.accesskey                "S">
 <!ENTITY  saveToDefaultFolder.label           "පෙරනිමි (default) බාගත ෆෝල්ඩරය තුළ">
 <!ENTITY  saveToDefaultFolder.accesskey       "d">
 <!ENTITY  saveToThisFolder.label              "මෙම ෆෝල්ඩරය තුළ:">
 <!ENTITY  saveToThisFolder.accesskey          "h">
-<!ENTITY  chooseFolder.label                  "විරික්සන්න...">
+<!ENTITY  chooseFolder.label                  "පිරික්සන්න...">
 <!ENTITY  chooseFolder.accesskey              "w">
 <!ENTITY  saveToAskMe.label                   "සුරකින්නේ කොතැනටදැයි විමසන්න">
 <!ENTITY  saveToAskMe.accesskey               "a">
-<!ENTITY  usePlugin.label                     "මෙම ප්ලගීනය භාවිතා කරන්න:">
-<!ENTITY  usePlugin.accesskey                 "P">
+

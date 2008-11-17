@@ -83,8 +83,13 @@
 
 <!ENTITY allowRemoteContent.label       "HTML ලිපි තුළ දුරස්ථ රූප (remote images) සඳහා ඉඩ දෙන්න.">
 <!ENTITY allowRemoteContent.accesskey   "g">
+<!ENTITY allowRemoteContent.tooltip     "In HTML messages it is possible to
+embed images from remote sources. Opening such a message will open a
+connection to this external source. This may allow tracking of the
+message being read. Checking this box will allow such external embedded
+images in HTML messages from this contact.">
 
-<!ENTITY Phones.box                     "දුරකතන">
+
 <!ENTITY WorkPhone.label                "කාර්යාලය:">
 <!ENTITY WorkPhone.accesskey            "W">
 <!ENTITY HomePhone.label                "නිවස:">
@@ -96,9 +101,9 @@
 <!ENTITY CellularNumber.label           "ජංගම දු.ක:">
 <!ENTITY CellularNumber.accesskey       "M">
 
-<!ENTITY Address.tab                    "ලිපිනය"> 
-<!ENTITY Address.accesskey              "A">
-<!ENTITY Home.box                       "නිවස"> 
+
+<!ENTITY Home.tab                       "නිවස"> 
+<!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "ලිපිනය:">
 <!ENTITY HomeAddress.accesskey          "d">
 <!ENTITY HomeAddress2.label             "">
@@ -113,7 +118,8 @@
 <!ENTITY HomeCountry.accesskey          "u">
 <!ENTITY HomeWebPage.label              "වෙබ් පිටුව:"> 
 <!ENTITY HomeWebPage.accesskey          "W">
-<!ENTITY Work.box                       "කාර්යාලය"> 
+<!ENTITY Work.tab                       "කාර්යාලය"> 
+<!ENTITY Work.accesskey                 "W">
 <!ENTITY JobTitle.label                 "තනතුර:">
 <!ENTITY JobTitle.accesskey             "e"> 
 <!ENTITY Department.label               "අංශය:"> 
@@ -151,5 +157,5 @@
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "රිසිකරණය 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.box                      "සටහන්">
+<!ENTITY Notes.label                    "සටහන්">
 <!ENTITY Notes.accesskey                "N">

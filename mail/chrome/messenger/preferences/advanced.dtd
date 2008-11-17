@@ -1,10 +1,12 @@
 <!ENTITY itemGeneral.label       "සාමාන්‍ය">
+<!ENTITY itemDisplay.label       "කියවීම සහ පෙන්වීම">
 <!ENTITY itemUpdate.label        "යාවත්කාලීන">
 <!ENTITY itemNetworking.label    "ජාල සහ ඩිස්ක ඉඩ">
 <!ENTITY itemCertificates.label  "සහතික">
 
 <!-- General Settings -->
-
+<!ENTITY enableGloda.label             "Enable Message Indexer">
+<!ENTITY enableGloda.accesskey         "i">
 <!ENTITY showCondensedAddresses.label  "මගේ ලිපින පොතේ අඩංගු අයගේ පෙන්වන නම පමණක් ප්‍රදර්ශණය කරන්න">
 <!ENTITY showCondensedAddresses.accesskey "p">
 
@@ -20,24 +22,21 @@
 <!ENTITY secondsLabel.label            "ට පසු">
 <!ENTITY showFolderColumns.label       "විදහළු තීරු ෆෝල්ඩර කවුළුවේ පෙන්වන්න">
 <!ENTITY showFolderColumns.accesskey   "l">
-<!ENTITY rememberLastMsg.label         "අවසන් වරට තේරූ ලිපිය මතක තබාගන්න">
-<!ENTITY rememberLastMsg.accesskey     "b">
 <!ENTITY openMsgIn.label               "ලිපි විවෘත කරන්නේ:">
 <!ENTITY reuseExpRadio0.label          "නව ලිපි කවුළුවක් තුළ">
 <!ENTITY reuseExpRadio0.accesskey      "i">
 <!ENTITY reuseExpRadio1.label          "පවතින ලිපි කවුළුවක් තුළ">
 <!ENTITY reuseExpRadio1.accesskey      "x">
-<!ENTITY reuseExpRadio2.label          "නව ලිපි ටැබයක් තුළ">
-<!ENTITY reuseExpRadio2.accesskey      "Z">
-<!ENTITY connectionTimeout.label       "සම්බන්ධතාවය කාළය ඉක්මවීය: ">
-<!ENTITY connectionTimeout.accesskey   "C">
-<!ENTITY connectionSeconds.label       "තත්ත්පර">
 <!ENTITY configEditDesc.label          "වැඩිමනත් වින්‍යාස කිරීම්">
 <!ENTITY configEdit.label              "Config Editor...">
 <!ENTITY configEdit.accesskey          "g">
 <!ENTITY returnReceiptsInfo.label      "&brandShortName; ලදුපත් හසුරුවන ආකාරය නිර්ණය කිරීම">
 <!ENTITY showReturnReceipts.label      "ලදුපත්...">
 <!ENTITY showReturnReceipts.accesskey  "R">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption                "කියවීම">
+<!ENTITY display.caption                "පෙන්වීම">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "යාවත්කාලීන කිරීම් සඳහා ස්වයංක්‍රීයව පරීක්ෂා කරන්න:">
@@ -57,9 +56,10 @@
 <!ENTITY showUpdates.accesskey          "y">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showConnections.label         "සම්බන්ධතාවය...">
-<!ENTITY showConnections.accesskey     "n">
-<!ENTITY proxiesInfo.label             "&brandShortName; අන්තර්ජාලයට සම්බන්ධ වන්නේ කෙසේදැයි නිර්ණය කරන්න.">
+<!ENTITY showSettings.label            "සැකසුම්…">
+<!ENTITY showSettings.accesskey        "n">
+<!ENTITY proxiesConfigure.label        "&brandShortName; අන්තර්ජාලයට සම්බන්ධ වන්නේ කෙසේදැයි වින්‍යාස කරන්න">
+<!ENTITY connectionsInfo.caption       "සම්බන්ධතාවය">
 <!ENTITY connectionsInfo.caption       "සම්බන්ධතාවය">
 <!ENTITY offlineInfo.caption           "අසම්බන්ධිත">
 <!ENTITY offlineInfo.label             "අසම්බන්ධිත සැකසුම් වින්‍යාස කරන්න">
@@ -70,9 +70,13 @@
 <!ENTITY offlineCompact.label "මෙම ඉඩට වඩා ඉතිරි කරන්නේ නම් ෆෝල්ඩර සංයුක්ත කරන්න">
 <!ENTITY offlineCompact.accesskey "v">
 <!ENTITY kb.label "kB">
+<!ENTITY clearCacheNow.label             "දැන් හිස් කරන්න">
+<!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY useCacheBefore.label            "කෑච් සඳහා මෙගාබයිට (MB)">
+<!ENTITY useCacheBefore.accesskey        "U">
+<!ENTITY useCacheAfter.label             " දක්වා ප්‍රමාණයක් භාවිතා කරන්න">
 
 <!-- Certificates -->
-<!ENTITY certificatesInfo2.label        "සහතික,අහෝසිකිරීමේ ලැයිස්තුව, සහතික වලංගුකරණය සහ ආරක්‍ෂක මෙවලම් කළමණාකරණය.">
 <!ENTITY viewCertificates.label         "සහතික පෙන්වීම">
 <!ENTITY viewCertificates.accesskey     "a">
 <!ENTITY viewCRLs.label                 "අහෝසිකිරීමේ ලැයිස්තුව">

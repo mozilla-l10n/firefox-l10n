@@ -38,13 +38,11 @@
 
 <!-- Window title -->
 <!ENTITY siteUrl.label         "අඩවියේ URL:">
-<!ENTITY docSubdir.label       "පිටු උප-ඩාරෙක්ටරිය:">
-<!ENTITY otherSubdir.label     "රූප උප-ඩාරෙක්ටරිය:">
+<!ENTITY docSubdir.label       "පිටු උප-ඩිරෙක්ටරිය:">
+<!ENTITY otherSubdir.label     "රූප උප-ඩිරෙක්ටරිය:">
 
 <!ENTITY status.label          "ප්‍රකාශනය…">
 <!ENTITY fileList.label        "ප්‍රකාශන තත්ත්වය">
-<!ENTITY statusHeader.label    "තත්ත්වය">
-<!ENTITY filenameHeader.label  "ගොනු නම">
 <!ENTITY succeeded.label       "සාර්ථකයි">
 <!ENTITY failed.label          "අසාර්ථකයි">
 

@@ -38,6 +38,5 @@
 <!ENTITY unreadColumn.label "නොකියවූ"> 
 <!ENTITY totalColumn.label "එකතුව"> 
 <!ENTITY folderSizeColumn.label "විශාලත්වය"> 
-<!ENTITY accounts.label "ගිණුම්">
 <!-- LOCALIZATION NOTE (accounts.img) : DONT_TRANSLATE -->
-<!ENTITY accounts.img "chrome://messenger/skin/local-mailhost.gif">
+

@@ -72,10 +72,8 @@
 <!ENTITY filename.accesskey           "F">
 <!ENTITY filename.tooltip             "මෙම ගොනුවට නමක් ඇතුළු කරන්න, වෙබ් පිටුවක් සඳහා '.html' ඇතුලක් කරන්න">
 <!ENTITY filenameExample.label        "උදා.,: &quot;mypage.html&quot;">
-<!ENTITY relatedDocs.label            "ප්‍රකාශනය කිරීමට ඇති වෙනත් ගොනු">
 <!ENTITY setDefaultButton.label       "පෙරනිමි සේ සකසන්න">
 <!ENTITY setDefaultButton.accesskey   "D">
-<!ENTITY setDefSiteAndDir.label       "ෙරනිමි අඩවිය සහ ඩාරෙක්ටරිය සේ සකසන්න">
 <!ENTITY removeButton.label           "අඩවිය ඉවත්කරන්න">
 <!ENTITY removeButton.accesskey       "R">
 

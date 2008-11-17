@@ -38,9 +38,6 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label     "රූපයේ සහ සබැඳියේ ස්ථානය පරීක්ෂා කිරීම">
-<!ENTITY urlsNotFound.label    "පහත රූපයේ සහ සබැඳියේ ස්ථානය හමු නොවීය:">
-<!ENTITY notFoundKey.label     "(&quot;X&quot; = ගොනුව හමු නොවීය, &quot;?&quot; = සමිබන්ධවීමේ උත්සාහයේදී කාඵය ඉක්මවීය.)">
-<!ENTITY changeUrlButton.label "තේරූ අයිතමයේ ස්ථානය වෙනස් කිරීම">
 <!ENTITY succeeded.label       "සාර්ථකයි">
 <!ENTITY failed.label          "අසාර්ථකයි">
 <!ENTITY closeButton.label     "වහන්න">

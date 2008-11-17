@@ -3,7 +3,6 @@
 <!ENTITY accountTitle.label "ගිණුමේ සැකසුම්">
 <!ENTITY accountName.label "ගිණුමේ නම:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY accountNameDesc.label "එක් එක් ගිණුම හඳුනාගැනීම සඳහා ගිණුමේ නම භාවිතා කරයි">
 <!ENTITY identityTitle.label "පෙරනිමි (Default) හැඳුනුම">
 <!ENTITY identityDesc.label "සෑම ගිණුමකටම හැඳුනුමක් ඇත, අනෙකුත් පුද්ගලයින් ඔබගේ ලිපි කියවන විටදී එම තොරතුරු දකි.">
 <!ENTITY name.label "ඔබේ නම:">

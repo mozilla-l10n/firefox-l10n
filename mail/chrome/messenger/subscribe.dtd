@@ -40,9 +40,9 @@
 <!ENTITY subscribeButton.accesskey    "S">
 <!ENTITY unsubscribeButton.label      "දායකත්වය අත්හරින්න">
 <!ENTITY unsubscribeButton.accesskey  "U">
-<!ENTITY newGroupsTab.label           "New Groups">
+<!ENTITY newGroupsTab.label           "නව සමූහ">
 <!ENTITY newGroupsTab.accesskey       "N">
-<!ENTITY refreshButton.label          "Refresh">
+<!ENTITY refreshButton.label          "නැවුම් කරන්න">
 <!ENTITY refreshButton.accesskey      "R">
 <!ENTITY stopButton.label             "නවතන්න">
 <!ENTITY stopButton.accesskey         "T">

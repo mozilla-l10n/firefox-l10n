@@ -35,12 +35,6 @@
 <!ENTITY printAddressBook.label                         "ලිපින පොත මුද්‍රණය...">
 <!ENTITY printAddressBook.accesskey                     "A">
 
-<!ENTITY quitApplicationCmdWin.label                    "පිටවෙන්න"> 
-<!ENTITY quitApplicationCmdWin.accesskey                "x">
-<!ENTITY quitApplicationCmd.label                       "පිටවෙන්න"> 
-<!ENTITY quitApplicationCmd.accesskey                   "Q">
-<!ENTITY quitApplicationCmd.key "Q">
-
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "සැකසුම්">
 <!ENTITY editMenu.accesskey                             "e">
@@ -60,13 +54,12 @@
 <!ENTITY pasteCmd.key                                   "V">
 <!ENTITY pasteCmd.accesskey                             "p">
 <!ENTITY deleteCmd.label                                "මකන්න">
-<!ENTITY deleteCmd.key                                  "D">
 <!ENTITY deleteCmd.accesskey                            "d">
 <!ENTITY deleteAbCmd.label                              "ලිපින පොත මකන්න">
 <!ENTITY deleteCardCmd.label                            "පිටුව මකන්න">
 <!ENTITY deleteCardsCmd2.label                          "පිටු මකන්න">
 <!ENTITY deleteListCmd.label                            "ලැයිස්තුව මකන්න">
-<!ENTITY deleteListsCmd.label                           "ලැයිස්තුව මකන්න">
+<!ENTITY deleteListsCmd.label                           "ලැයිස්තු මකන්න">
 <!ENTITY deleteItemsCmd.label                           "අයිතමයන් මකන්න">
 <!ENTITY selectAllCmd.label                             "සියල්ල තෝරන්න">
 <!ENTITY selectAllCmd.key                               "A">
@@ -118,7 +111,6 @@
 <!ENTITY exportCmd.label                                "නිර්යාත...">
 <!ENTITY exportCmd.accesskey                            "E">
 <!ENTITY preferencesCmd.label                           "වරණ...">
-<!ENTITY preferencesCmd.key                             "O">
 <!ENTITY preferencesCmd.accesskey                       "O">
 <!ENTITY preferencesCmdUnix.label                       "මනාපයන්">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
@@ -141,7 +133,7 @@
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newcardButton.tooltip                          "ලිපින පොතට නව පිටුවක් එක් කිරීමට">
 <!ENTITY newlistButton.tooltip                          "නව ලැයිස්තුවක් සෑදීමට">
-<!ENTITY editButton.tooltip                             "තෝරාගත් පිටිවේ වෙනස්කම් කිරීමට">
+<!ENTITY editButton.tooltip                             "තෝරාගත් පිටුවේ වෙනස්කම් කිරීමට">
 <!ENTITY newmsgButton.tooltip                           "ලිපියක් යැවීමට">
 <!ENTITY newIM.tooltip                                  "ක්ෂණික පණිවිඩක් හෝ කතාබහ යැවීමට">
 <!ENTITY deleteButton.tooltip                           "තෝරාගත් පිටුව හෝ පොත මකා දැමීමට">

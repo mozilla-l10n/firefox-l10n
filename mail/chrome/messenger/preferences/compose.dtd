@@ -1,9 +1,7 @@
 <!ENTITY itemGeneral.label                   "සාමාන්‍ය">
 <!ENTITY itemAutoComplete.label              "ලිපිනයන්">
 <!ENTITY itemSpellCheck.label                "අක්ෂර වින්‍යාසය">
-<!ENTITY itemSendFormat.label                "යවන හැඩතල">
 
-<!ENTITY forwardReply.label                   "ලිපි යොමුකිරීම්">
 <!ENTITY forwardMsg.label                     "ලිපි යොමුකිරීම:">
 <!ENTITY forwardMsg.accesskey                 "F">
 <!ENTITY inline.label                         "ලිපිය තුළ">
@@ -25,7 +23,6 @@
 <!ENTITY restoreHTMLDefaults.label            "පෙරනිමි නැවත පිහිටුවන්න">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
 
-<!ENTITY sendingMessagesHeader.label          "ලිපි ලිවීම">
 <!ENTITY spellCheck.label                     "යැවීමට පෙර අක්ෂර වින්‍යාසය පරීක්ෂා කරන්න">
 <!ENTITY spellCheck.accesskey                 "C">
 <!ENTITY spellCheckInline.label               "ලියන විටදීම අක්ෂර වින්‍යාස පරීක්ෂාව බලැති කරන්න">
@@ -38,11 +35,8 @@
 <!ENTITY warnOnSendAccelKey.accesskey         "i">
 <!ENTITY autoSave.label                       "සෑම විනාඩි ">
 <!ENTITY autoSave.accesskey                   "u">
-<!ENTITY autoSaveEnd.label                    "වරක් ස්වයංව සුරකින්න">
+<!ENTITY autoSaveEnd.label                    "ට වරක් ස්වයංව සුරකින්න">
 <!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
-<!ENTITY wrapOutMsg.label                     "පේළි කඩන්නේ අකුරු">
-<!ENTITY wrapOutMsg.accesskey                 "l">
-<!ENTITY char.label                           "අසලදී">
 
 <!ENTITY emailCollectionPicker.label           "ලිපි යවන ලිපින ස්වයංක්‍රීයවම එක් කරන්නේ මගේ:">
 <!ENTITY emailCollectionPicker.accesskey       "t">
@@ -55,10 +49,7 @@
 <!ENTITY directoriesNone.label                 "කිසිවක් නැත">
 <!ENTITY editDirectories.label                 "ඩිරෙක්ටරි සැකසුම්...">
 <!ENTITY editDirectories.accesskey             "E">
-<!ENTITY matchText.label                       "ඔබගේ පෙදෙසි (Local) ලිපින පොත් තුළ ගැලපුමක් ඇතිවිට:">
-<!ENTITY skipDirectory.label                   "ඩිරෙක්ටරි තුළ සෙවීම් නොකරන්න">
 
-<!ENTITY sendOptionsCaption.label              "යැවීම් සහ HTML වරණ">
 <!ENTITY sendOptionsDescription.label          "පාඨ හැඩතල හැසිරීම් වින්‍යාස කිරීම">
 <!ENTITY sendOptions.label                     "යැවීම් වරණ...">
 <!ENTITY sendOptions.accesskey                 "S">

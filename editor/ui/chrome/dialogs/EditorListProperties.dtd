@@ -47,7 +47,6 @@
 <!ENTITY bulletList.value "බුලට් (අංක නොකළ)ලැයිස්තුව">
 <!ENTITY numberList.value "අංක කළ ලැයිස්තුව">
 <!ENTITY definitionList.value "සවිස්තර ලැයිස්තුව">
-<!ENTITY changeListMsg.label "ලැයිස්තු ආකාරය වෙනස් කරන විට:">
 <!ENTITY changeEntireListRadio.label "සම්පූර්ණ ලැයිස්තුව වෙනස් කරන්න">
 <!ENTITY changeEntireListRadio.accessKey "C">
 <!ENTITY changeSelectedRadio.label "තේරූ අයිතමයන් පමණක් වෙනස් කරන්න">

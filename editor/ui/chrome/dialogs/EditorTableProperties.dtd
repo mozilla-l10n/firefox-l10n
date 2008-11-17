@@ -69,7 +69,6 @@
 <!ENTITY tableCaptionNone.label           "කිසිවක් නැත">
 <!ENTITY tableInheritColor.label           "(Let page colour show through)">
 
-<!ENTITY cellPercent.label                "වගුවේ ප්‍රතිශතය">
 <!ENTITY cellSelection.label              "තේරීම">
 <!ENTITY cellSelectCell.label             "නොටුව">
 <!ENTITY cellSelectRow.label              "පේළිය">
@@ -78,13 +77,8 @@
 <!ENTITY cellSelectNext.accessKey         "N">
 <!ENTITY cellSelectPrevious.label         "පෙර">
 <!ENTITY cellSelectPrevious.accessKey     "P">
-<!ENTITY cellApplyBeforeMove.label        "තේරීම වෙනස් කිරීමට පෙර වෙනස්කමි යොදන්න">
-<!ENTITY cellKeepCurrentData.label        "පවතින සැකසුම් පවත්වා ගන්න">
 <!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label         "දැන් සිදුකළ වෙනස්කමි යොදනු ඇත්තේ">
-<!ENTITY applyBeforeChange2.label         "තේරීම වෙනස් කිරීමට පෙරයි.">
-<!ENTITY cellRowSpan.label                "පේළි විහිඳුම:">
-<!ENTITY cellColSpan.label                "තීරු විහිඳුම:">
+<!ENTITY applyBeforeChange.label          "දැන් සිදුකළ වෙනස්කමි යොදනු ඇත්තේ තේරීම වෙනස් කිරීමට පෙරයි..">
 <!ENTITY cellContentAlignment.label       "අන්තර්ගතය පෙළගැසුම">
 <!ENTITY cellHorizontal.label             "තිරස්:">
 <!ENTITY cellHorizontal.accessKey         "z">
@@ -102,7 +96,6 @@
 <!ENTITY cellAlignMiddle.label            "මැද">
 <!ENTITY cellAlignBottom.label            "පහළ">
 <!ENTITY cellAlignJustify.label           "සමව">
-<!ENTITY cellAlignAtChar.label            "අනුලකුණ අසලදී:">
 <!ENTITY cellInheritColor.label           "(Let table colour show through)">
 <!ENTITY cellUseCheckboxHelp.label        "Use tickboxes to determine which properties are applied to all selected cells">
 

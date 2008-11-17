@@ -5,15 +5,6 @@
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
 <!ENTITY  pref.composer.title           "සකසනය">
 
-<!ENTITY  saving                        "සුරැකීම">
-<!ENTITY  AutoSaveCheck                 "සෑම මිකිත්තු ">
-<!ENTITY  minText                       "පසු සුරකින්න">
-
-<!ENTITY  exterLegend.label             "බාහිර සකසනය">
-<!ENTITY  htmlSource                    "HTML මූලය:">
-<!ENTITY  imageeditor                   "රූප:">
-<!ENTITY  chooseButton.label            "තෝරන්න">
-
 <!ENTITY  recentFiles.title             "මෑතකාලීන පිටු මෙනුව">
 <!ENTITY  documentsInMenu.label         "ලැයිස්තුගතකරන උපරිම පිටු ගණන:">
 <!ENTITY  documentsInMenu.accesskey     "n">
@@ -28,8 +19,6 @@
 <!ENTITY  showPublishDialog.accesskey   "A">
 
 <!ENTITY  composerEditing.label         "සැකසුමි">
-<!ENTITY  spellCheckInline.label        "ලියන විටදීම අක්ෂර වින්‍යාස පරීක්ෂා කරන්න">
-<!ENTITY  spellCheckInline.accesskey    "C">
 <!ENTITY  maintainStructure.label       "Maintain table layout when inserting or deleting cells">
 <!ENTITY  maintainStructure.tooltip     "Preserves table's rectangular shape by automatically adding cells after inserting or deleting cells">
 <!ENTITY  maintainStructure.accesskey   "M">

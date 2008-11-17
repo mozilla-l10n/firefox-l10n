@@ -34,7 +34,7 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-<!ENTITY showDetailsButton.label "show details">
+
 <!ENTITY toField2.label "වෙත: ">
 <!ENTITY fromField2.label "වෙතින්: ">
 <!ENTITY senderField2.label "එවන්නා: ">
@@ -54,7 +54,6 @@
 <!ENTITY messageIdField2.label "Message-ID: ">
 <!ENTITY inReplyToField2.label "In-Reply-To: ">
 <!ENTITY originalWebsite2.label "වෙබ් අඩවිය: ">
-<!ENTITY saveAll.label "සියල්ල සුරකින්න..">
 
 <!ENTITY editMessageDescription.label "මෙය කෙටුමුපත් කරන ලිපියකි">
 <!ENTITY editMessageButton.label "සැකසීම...">
@@ -70,6 +69,7 @@
 <!ENTITY viewSourceMenuItem.accesskey "V">
 
 <!ENTITY hideDetailsButton.label "විස්තර සඟවන්න">
+<!ENTITY showDetailsButton.label "විස්තර පෙන්වන්න">
 
 <!ENTITY openAttachmentCmd.label    "විවෘත කරන්න">
 <!ENTITY openAttachmentCmd.accesskey		"O">

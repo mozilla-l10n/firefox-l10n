@@ -6,7 +6,6 @@
 <!ENTITY  language.label                          "අකුරු (සඳහා):">
 <!ENTITY  language.accesskey                      "t">
 
-<!ENTITY  typefaces.label                         "Typeface">
 <!ENTITY  sizes.label                             "විශාලත්වය (පික්සෙල්)">
 <!ENTITY  proportionalSize.accesskey              "e">
 <!ENTITY  monospaceSize.accesskey                 "x">
@@ -21,8 +20,6 @@
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "m">
 
-<!ENTITY  fontsize.units                          "පික්සෙල්">
-
 <!ENTITY  font.langGroup.latin1                   "Western">
 <!ENTITY  font.langGroup.latin2                   "Central European">
 <!ENTITY  font.langGroup.japanese                 "ජපන්">
@@ -35,7 +32,7 @@
 <!ENTITY  font.langGroup.el                       "ග්‍රීක">
 <!ENTITY  font.langGroup.turkish                  "Turkish">
 <!ENTITY  font.langGroup.unicode                  "වෙනත් භාෂාවන්">
-<!ENTITY  font.langGroup.user-def                 "User Defined">
+<!ENTITY  font.langGroup.user-def                 "පරිශීලක තේරූ">
 <!ENTITY  font.langGroup.thai                     "තායි">
 <!ENTITY  font.langGroup.hebrew                   "Hebrew">
 <!ENTITY  font.langGroup.arabic                   "අරාබි">
@@ -59,8 +56,6 @@
 <!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans-serif">
-
-<!ENTITY  newLanguages.label                      "භාෂා පැනලය (Languages Panel) භාවිතායෙන් නව භාෂාවන් වින්‍යාස කළ හැකිය.">
 
 <!ENTITY  useDocumentFonts.label                  "වෙනත් අකුරු භාවිතා කිරීමට ලිපි බලැති කරන්න">
 <!ENTITY  useDocumentFonts.accesskey              "o">

@@ -46,11 +46,6 @@
 <!ENTITY printCmd.label "මුද්‍රණය...">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">
-<!ENTITY quitApplicationCmdWin.label                    "පිටවීම"> 
-<!ENTITY quitApplicationCmdWin.accesskey                "x">
-<!ENTITY quitApplicationCmd.label                       "පිටවීම"> 
-<!ENTITY quitApplicationCmd.accesskey                   "Q">
-<!ENTITY quitApplicationCmd.key "Q"> 
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "සැකසුම්"> 
@@ -70,11 +65,11 @@
 <!ENTITY pasteCmd.label "අලවන්න">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "P">
+<!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY editRewrapCmd.label "Rewrap">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "මකන්න">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "D">
 <!ENTITY selectAllCmd.label "සියල්ල තෝරන්න">
 <!ENTITY selectAllCmd.key "A">
@@ -97,7 +92,6 @@
 <!ENTITY viewToolbarsMenuNew.label "මෙවලම් තීරු"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "T"> 
 <!ENTITY showCompositionToolbarCmd.label "ලිපි ලිවීමේ මෙවලම් තීරුව">
-<!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "හැඩතැසුම් මෙවලම් තීරුව">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "තත්ත්ව තීරුව">
@@ -138,9 +132,9 @@
 <!ENTITY autoFormatCmd.accesskey "A">
 <!ENTITY plainTextFormatCmd.label "සාමාන්‍ය පාඨ පමණි">
 <!ENTITY plainTextFormatCmd.accesskey "P">
-<!ENTITY htmlFormatCmd.label "Rich Text (HTML) Only">
+<!ENTITY htmlFormatCmd.label "Rich Text (HTML) පමණි">
 <!ENTITY htmlFormatCmd.accesskey "R">
-<!ENTITY bothFormatCmd.label "Plain and Rich (HTML) Text">
+<!ENTITY bothFormatCmd.label "සාමාන්‍ය සහ Rich (HTML) පාඨ">
 <!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "ප්‍රමුඛතාවය">
 <!ENTITY priorityMenu.accesskey "P">
@@ -172,7 +166,6 @@
 <!ENTITY accountManagerCmd.accesskey "c">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
 <!ENTITY preferencesCmd.label "වරණ...">
-<!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "මනාපයන්">
 <!ENTITY preferencesCmdUnix.accesskey   "n"> 
@@ -202,7 +195,7 @@
 <!ENTITY saveButton.tooltip "මෙම ලිපිය සුරැකීමට"> 
 <!ENTITY cutButton.tooltip              "කොටස කපා ගැනීමට">
 <!ENTITY copyButton.tooltip             "පිටපත් කිරීමට">
-<!ENTITY pasteButton.tooltip            "අැලවීමට">
+<!ENTITY pasteButton.tooltip            "ඇලවීමට">
 
 <!-- Headers -->
 <!ENTITY fromAddr.label "යවන්නා:">
@@ -220,9 +213,6 @@
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
 <!ENTITY SmileButton.tooltip "Insert a smiley face">
 <!ENTITY smiley1Cmd.label "Smiling">
 <!ENTITY smiley2Cmd.label "Frowning">
@@ -262,7 +252,7 @@
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "මකන්න">
 <!ENTITY delete.accesskey "D">
-<!ENTITY renameAttachment.label "යළි නම් කරන්න…">
+<!ENTITY renameAttachment.label "යළි නම්-කරන්න…">
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "සියල්ල තෝරන්න">
 <!ENTITY selectAll.accesskey "A">

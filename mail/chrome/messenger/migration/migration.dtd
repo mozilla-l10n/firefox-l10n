@@ -1,7 +1,7 @@
 
 <!ENTITY migrationWizard.title          "ආයාත විශාරද">
-<!ENTITY importFromWin.label            "වරණ, ගිණුම් සැකසුම්, ලිපින පොත, පෙරයන්, සහ අනෙකුත් දත්ත ආයාත කිරීම (වෙතින්):">
-<!ENTITY importFromNonWin.label         "මනාපයන්, ගිණුම් සැකසුම්, ලිපින පොත, පෙරයන්, සහ අනෙකුත් දත්ත ආයාත කිරීම (වෙතින්):">
+<!ENTITY importFromWin.label            "වරණ, ගිණුම් සැකසුම්, ලිපින පොත, පෙරහන්, සහ අනෙකුත් දත්ත ආයාත කිරීම (වෙතින්):">
+<!ENTITY importFromNonWin.label         "මනාපයන්, ගිණුම් සැකසුම්, ලිපින පොත, පෙරහන්, සහ අනෙකුත් දත්ත ආයාත කිරීම (වෙතින්):">
 
 <!ENTITY importFromNothing.label        "කිසිවක් ආයාත නොකරන්න">
 <!ENTITY importFromNothing.accesskey    "D">
@@ -16,7 +16,7 @@
 <!ENTITY importFromEudora.label         "Eudora">
 <!ENTITY importFromEudora.accesskey     "E">
 
-<!ENTITY importSource.title             "සැකුම් සහ ලිපි ෆෝල්ඩර ආයාත කරන්න (වෙතින්)">
+<!ENTITY importSource.title             "සැකසුම් සහ ලිපි ෆෝල්ඩර ආයාත කරන්න (වෙතින්)">
 <!ENTITY importItems.title              "ආයාත කරන අයිතමයන්">
 <!ENTITY importItems.label              "ආයාත කරන අයිතමයන් තෝරන්න:">
 

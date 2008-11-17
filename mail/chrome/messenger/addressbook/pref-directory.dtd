@@ -37,14 +37,12 @@
 
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 <!ENTITY pref.ldap.window.title    "LDAP ඩිරෙක්ටරි සේවා">
-<!ENTITY directory.label           "ඩිරෙක්ටරියක් එක් කරන්න">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "LDAP ඩිරෙක්ටරි සේවාදායකය:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 <!ENTITY directoriesText.label     "LDAP ඩිරෙක්ටරි සේවාදායකයක් තෝරන්න:">
 <!ENTITY directoriesText.accesskey "S">
 <!-- LOCALIZATION NOTE (autocomplete.title) : do not translate "LDAP" in below line -->
-<!ENTITY autocomplete.title        "LDAP ඩිරෙක්ටරි සේවාදායකය">
 <!ENTITY addDirectory.label        "එක් කරන්න">
 <!ENTITY addDirectory.accesskey    "a">
 <!ENTITY editDirectory.label       "සැකසුම්">

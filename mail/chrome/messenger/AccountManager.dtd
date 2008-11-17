@@ -6,12 +6,9 @@
 <!ENTITY addAccountButton.accesskey "A">
 <!ENTITY setDefaultButton.label "පෙරනිමි ලෙස සකසන්න">
 <!ENTITY setDefaultButton.accesskey "f">
-<!ENTITY duplicateButton.label "අනු පිටපත">
 <!ENTITY removeButton.label "ගිණුම ඉවත් කරන්න">
 <!ENTITY removeButton.accesskey "R">
-
-<!ENTITY nameCol.label "නම">
-<!ENTITY duplicate.label "අනු පිටපත">
+
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account

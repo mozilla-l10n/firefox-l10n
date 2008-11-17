@@ -8,7 +8,7 @@
 <!ENTITY  fileHandlerColumn.accesskey         "A">
 <!ENTITY  fileTypeColumn.label                "ගොනු ආකාරය">
 <!ENTITY  fileTypeColumn.accesskey            "T">
-<!ENTITY  fileMIMETypeColumn.label            "MIME Type">
+<!ENTITY  fileMIMETypeColumn.label            "MIME ආකාරය">
 <!ENTITY  fileMIMETypeColumn.accesskey        "M">
 <!ENTITY  fileExtensionColumn.label           "දිගුව">
 <!ENTITY  fileExtensionColumn.accesskey       "E">

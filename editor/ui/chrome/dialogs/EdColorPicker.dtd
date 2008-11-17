@@ -47,7 +47,7 @@
 <!ENTITY palette.label "ඵලකය (Palette):">
 <!ENTITY standardPalette.label "සම්මත">
 <!ENTITY webPalette.label "සියලු වෙබ් වර්ණ">
-<!ENTITY background.label "පසුබාම සඳහා:">
+<!ENTITY background.label "පසුබිම සඳහා:">
 <!ENTITY background.accessKey "B">
 <!ENTITY table.label "වගුව">
 <!ENTITY table.accessKey "T">

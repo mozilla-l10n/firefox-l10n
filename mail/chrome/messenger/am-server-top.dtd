@@ -3,12 +3,8 @@
 <!ENTITY securitySettings.label "ආරක්ෂණ සැකසුම්">
 <!ENTITY serverSettings.label "සේවාදායක සැකසුම්">
 <!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
-<!ENTITY popServer.label "POP තැපැල් සේවාදායකය">
 <!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
-<!ENTITY imapServer.label "IMAP තැපැල් සේවාදායකය">
 <!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
-<!ENTITY newsServer.label "පුවත් සේවාදායකය (NNTP)">
-<!ENTITY webmail.label "වෙබ්-තැපැල් ගිණුම">
 <!ENTITY serverType.label "සේවාදායක වර්ගය:">
 <!ENTITY serverName.label "සේවාදායක නම:">
 <!ENTITY serverName.accesskey "S">
@@ -50,10 +46,8 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "ස්වයංක්‍රීයව අලුත් ලිපි භාගත කරන්න">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY hostname.label "සේවාදායක ධාරක නම (Hostname)">
-<!ENTITY username.label "ඔඹගේ පිරුම් නම">
+<!ENTITY username.label "ඔබගේ පිරුම් නම">
 <!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
-<!ENTITY popServerTitle.label "POP සේවාදායක තොරතුරු">
 <!ENTITY deleteMessagePrefix.label "මම ලිපියක් මකන විට:">
 <!ENTITY modelMoveToTrash.label "එය මැකූලිපි ෆෝල්ඩරයට දමන්න">
 <!ENTITY modelMoveToTrash.accesskey "o">

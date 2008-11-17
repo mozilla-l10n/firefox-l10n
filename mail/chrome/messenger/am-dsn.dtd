@@ -8,7 +8,7 @@
 <!ENTITY optionTitle.label          "දැනුම්දීම ඉල්ලනු ලබන්කේ :">
 <!ENTITY requestOnSucess.label      "බෙදාහැරීම සාර්ථක විට">
 <!ENTITY requestOnSucess.accesskey  "S">
-<!ENTITY requestOnFailure.label     "බෙදාහැරීම ුසාර්ථක විට">
+<!ENTITY requestOnFailure.label     "බෙදාහැරීම අසාර්ථක විට">
 <!ENTITY requestOnFailure.accesskey "F">
 <!ENTITY requestOnDelay.label       "බෙදාහැරීම ප්‍රමාදවන විට">
 <!ENTITY requestOnDelay.accesskey   "D">
