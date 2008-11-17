@@ -1,5 +1,4 @@
 <!ENTITY dialog.title                  "ලදුපත්">
-<!ENTITY receiptSettings.label         "ලදුපත්">
 <!ENTITY requestReceipt.label          "ලිපි යැවීමේදී, සෑම විටම ලදුපතක් ඉල්ලුම් කරන්න">
 <!ENTITY requestReceipt.accesskey      "W">
 <!ENTITY receiptArrive.label           "ලදුපතක් ලැබුන විටදී:">

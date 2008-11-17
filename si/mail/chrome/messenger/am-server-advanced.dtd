@@ -1,6 +1,5 @@
 <!ENTITY serverAdvanced.label "වැඩිමනත් ගිණුම් සැකසුම්">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY imapAdvanced.label "වැඩිමනත් IMAP සේවාදායක සැකසුම්">
 <!ENTITY serverDirectory.label "IMAP සේවාදායක ඩිරෙක්ටරි:">
 <!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "දායක වූ ෆෝල්ඩර පමණක් පෙන්වන්න">
@@ -22,7 +21,6 @@
 <!ENTITY overrideNamespaces.label "Allow server to override these namespaces">
 <!ENTITY overrideNamespaces.accesskey "A">
 <!ENTITY pop3Desc.label "When downloading POP3 mail from this server, use the following folder for new mail:" >
-<!ENTITY folderStorage.label "ලිපි ගබඩා කරනු ලබන්නේ">
 <!ENTITY globalInbox.label "Global Inbox (Local Folders Account)">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Inbox for this server's account">

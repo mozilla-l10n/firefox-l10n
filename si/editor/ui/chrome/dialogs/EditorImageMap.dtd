@@ -93,8 +93,6 @@
 
 <!ENTITY zoominCmd.label "විශාල කරන්න">
 <!ENTITY zoomoutCmd.label "කුඩා කරන්න">
-<!ENTITY delSpotCmd.label "Delete Spot">
-
 <!-- Keys -->
 <!ENTITY clear.key "d">
 <!ENTITY selectall.key "a">

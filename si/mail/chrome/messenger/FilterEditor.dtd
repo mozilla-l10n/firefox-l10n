@@ -19,11 +19,8 @@
 <!ENTITY contextIncoming.label "නව ලිපි සඳහා පරීක්ෂා කරන විට">
 <!ENTITY contextManual.label "පරිශීලක යෙදීමේදී (Manually Run)">
 <!ENTITY contextBoth.label "නව ලිපි සඳහා පරීක්ෂා කරන විට හෝ පරිශීලක යෙදීමේදී">
-<!ENTITY filterActionDesc.label "මේවා ක්‍රියාත්මක කරනු:">
+<!ENTITY filterActionDesc.label "මේවා ක්‍රියාත්මක කරන්න:">
 <!ENTITY filterActionDesc.accesskey "P">
-
-<!ENTITY newFolderButton.label "නව ෆෝල්ඩරයක්...">
-<!ENTITY newFolderButton.accesskey "N">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "ලිපි ගෙනයන්නේ මෙතුළට">

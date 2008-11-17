@@ -1,8 +1,6 @@
 <!ENTITY itemFormatting.label             "හැඩගැසුම්">
 <!ENTITY itemTags.label                   "ටැග්ස්">
-<!ENTITY itemFonts.label                  "අකුරු">
 
-<!ENTITY textBegin.label                  "උදෘත (quoted) සාමාන්‍ය පාඨ පෙනීම">
 <!ENTITY style.label                      "විලාසය:">
 <!ENTITY style.accesskey                  "y">
 <!ENTITY regularStyle.label               "Regular">
@@ -17,14 +15,12 @@
 <!ENTITY color.label                      "වර්ණය:">
 <!ENTITY color.accesskey                  "C">
 <!ENTITY displayWidth.label               "සාමාන්‍ය පාඨ ලිපි">
-<!ENTITY plainText.label				  "පහත අකුරු භාවිතා කරන්න:">
-<!ENTITY displayText.label				  "උදෘත (quoted) සාමාන්‍ය පාඨ ලිපි පෙන්වන විටදී:">
-<!ENTITY viewingPlainText.label			  "සාමාන්‍ය පාඨ ලිපි පෙන්වන විටදී:">
+<!ENTITY plainText.label		  "පහත අකුරු භාවිතා කරන්න:">
+<!ENTITY displayText.label		  "උදෘත (quoted) සාමාන්‍ය පාඨ ලිපි පෙන්වන විටදී:">
 <!ENTITY fixedWidth.label                 "නිශ්චිත පළල අකුරු">
 <!ENTITY fixedWidth.accesskey             "x">
 <!ENTITY variableWidth.label              "වෙනස්වන පළල අකුරු">
 <!ENTITY variableWidth.accesskey          "V">
-<!ENTITY readingMessagesHeader.label      "ලැබෙන ලිපි සඳහා">
 <!ENTITY colors.label                     "වර්ණ">
 <!ENTITY overrideColors.label             "ලිපි පෙන්වන විටදී, පහත වර්ණ භාවිතා කරන්න:">
 <!ENTITY textColor.label                  "පාඨ වර්ණය:">

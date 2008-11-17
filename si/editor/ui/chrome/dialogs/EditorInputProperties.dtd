@@ -52,11 +52,13 @@
 
 <!ENTITY InputSettings.label "ක්ෂේත්‍ර සැකසුම්">
 <!ENTITY InputName.label "ක්ෂේත්‍ර නම:">
+<!ENTITY InputName.accesskey "N">
 <!ENTITY GroupName.label "සමූහ නම:">
-<!ENTITY Name.accesskey "N">
+<!ENTITY GroupName.accesskey "N">
 <!ENTITY InputValue.label "ක්ෂේත්‍ර අගය:">
+<!ENTITY InputValue.accesskey "V">
 <!ENTITY InitialValue.label "ආරම්භක අගය:">
-<!ENTITY Value.accesskey "V">
+<!ENTITY InitialValue.accesskey "V">
 <!ENTITY InputChecked.label "ආරම්භයේදී සලකුණු ලූ">
 <!ENTITY InputChecked.accesskey "C">
 <!ENTITY InputSelected.label "ආරම්භයේදී තේරූ">

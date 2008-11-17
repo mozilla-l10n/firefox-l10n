@@ -6,13 +6,9 @@
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "Place replies in the folder of the message being replied to">
 <!ENTITY fccReplyFollowsParent.accesskey "l">
-<!ENTITY chooseFolderButton.label "ෆෝල්ඩරය තෝරන්න...">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "මෙම ලිපිනයන්ට රහස්‍ය පිටපත් යවන්න:">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY specialFolderTitle.label "විශේෂ ෆෝල්ඩර">
-<!ENTITY draftMailFolder.label "ලිපි කෙටුම්පත් මෙතුළ තබන්න:">
-<!ENTITY templateMailFolder.label "ලිපි ආකෘතීන් මෙතුළ තබන්න:">
 <!ENTITY saveMessageDlg.label "ලිපි සුරකින විටදී එය තහවුරු කරවා ගන්න">
 <!ENTITY saveMessageDlg.accesskey "S">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

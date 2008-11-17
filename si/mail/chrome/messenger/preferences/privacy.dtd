@@ -45,10 +45,4 @@
 <!ENTITY antiVirus.accesskey  "l">
 
 <!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
-<!ENTITY antiVirusCaption.label "වෛරස-විරෝධී">
-<!ENTITY paswords.label         "රහස්පද">
-<!ENTITY emailScams.label       "Email Scams">
-<!ENTITY junkMail.label         "නිසරු ලිපි">
-<!ENTITY itemIntrusions.label   "Intrusions">
-<!ENTITY itemIntrusionsAndPasswords.label  "Intrusions &amp; Passwords">
-<!ENTITY itemJunkMail.label     "නිසරු ලිපි">
+

@@ -3,9 +3,6 @@
 <!ENTITY securityMenu.label "ආරක්ෂාව">
 <!ENTITY securityMenu.accesskey "e">
 
-<!ENTITY menu_securityEncryptIfPossible.label "හැකි නම් සංකේතනය කරන්න">
-<!ENTITY menu_securityEncryptIfPossible.accesskey "P">
-
 <!ENTITY menu_securityEncryptRequire.label "මෙම ලිපිය සංකේතනය කරන්න">
 <!ENTITY menu_securityEncryptRequire.accesskey "E">
 

@@ -48,7 +48,7 @@
 <!ENTITY ButtonName.accesskey "N">
 <!ENTITY ButtonValue.label "අගය:">
 <!ENTITY ButtonValue.accesskey "V">
-<!ENTITY tabIndex.label "ටැබ් දර්ෂකය:">
+<!ENTITY tabIndex.label "ටැබ් දර්ශකය:">
 <!ENTITY tabIndex.accesskey "I">
 <!ENTITY ButtonDisabled.label "අබලැති">
 <!ENTITY ButtonDisabled.accesskey "D">

@@ -5,13 +5,11 @@
 <!ENTITY neverEncrypt.label "කිසිවිටෙක එපා (සංකේතන (encryption) භාවිතා නොකරන්න)">
 <!ENTITY alwaysEncryptMessage.label "අවශ්‍යයි (සියළු ලබන්නන් සතුව සහතික නොමැතිනම් ලිපිය යැවිය නොහැකිය)">
 <!ENTITY encryptionCert.message "ඔබ වෙත එවන ලිපි සංකේතනය (encrypt) සහ විසංකේතනය (decrypt)කිරීමට මෙම සහතිකය භාවිතා කරන්න:">
-<!ENTITY encryptionCert.notselected "සහතික සකසා නැත">
 <!ENTITY certificate.button "තෝරන්න...">
 <!ENTITY certificate_clear.button "හිස් කරන්න">
 <!ENTITY signingGroupTitle.label "ඩිජිටල් අත්සන (Digital Signing)">
 <!ENTITY signMessage.label "ලිපි මත ඩිජිටල් අත්සන යොදන්න(පෙරනිමි සැකසුම)">
 <!ENTITY signingCert.message "යන ලිපි වලට ඩිජිටල් අත්සන සෙදීම සඳහා මෙම සහතිකය යොදා ගන්න:">
-<!ENTITY signingCert.notselected "සහතික සකසා නැත">
 
 <!ENTITY certificates.label     "සහතික">
 <!ENTITY managecerts.label      "සහතික පෙන්වන්න">

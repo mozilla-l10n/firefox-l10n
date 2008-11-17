@@ -4,9 +4,9 @@
 <!ENTITY  authorName.accesskey      "u">
 <!ENTITY  pageColorHeader           "පෙරනිමි පිටු පෙනුම">
 
-<!ENTITY defaultColorsRadio.label   "කියවන්නාගේ පෙරනිමි වර්ණ(පිටුවේ වර්ණ භාවිතා නොකරන්න)">
+<!ENTITY defaultColors.label	    "කියවන්නාගේ පෙරනිමි වර්ණ(පිටුවේ වර්ණ භාවිතා නොකරන්න)">
 <!ENTITY defaultColors.accesskey    "d">
-<!ENTITY customColorsRadio.label    "රිසිකරණ වර්ණ භාවිතා කරන්න:">
+<!ENTITY customColors.label 	    "රිසිකරණ වර්ණ භාවිතා කරන්න:">
 <!ENTITY customColors.accesskey     "c">
 
 <!ENTITY normalText.label           "සාමාන්‍ය පාඨ">

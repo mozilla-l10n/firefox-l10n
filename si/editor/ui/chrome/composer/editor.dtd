@@ -44,23 +44,15 @@
 
 <!-- View menu items -->
 <!ENTITY viewMenu.label "දැකුම්">
-<!ENTITY viewmenu.accesskey "v">
+<!ENTITY viewMenu.accesskey "V">
 <!ENTITY compositionToolbarCmd.label "සංයුති මෙවලම් තීරුව">
-<!ENTITY compositiontb.accesskey "c">
+<!ENTITY compositionToolbarCmd.accesskey "C">
 <!ENTITY formattingToolbarCmd.label "හැඩතල මෙවලම් තීරුව">
-<!ENTITY formattingtb.accesskey "f">
+<!ENTITY formattingToolbarCmd.accesskey "F">
 <!ENTITY editmodeToolbarCmd.label "ප්‍රකාර මෙවලම් තීරුව සැකසීම">
-<!ENTITY editmodetb.accesskey "E">
+<!ENTITY editmodeToolbarCmd.accesskey "E">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "හැඩතල">
-<!ENTITY formatmenu.accesskey "o">
-
-<!ENTITY helpMenu.label "උදවු">
-<!ENTITY aboutCmd.label " පිළිබඳ">
-
-<!-- Display Mode Toolbar -->
-<!ENTITY editMode.label "සැකසුම් ප්‍රකාර:">
-
-<!ENTITY statusText.label "පූරණය වන පිටුව කරන ලදි">
+<!ENTITY formatMenu.accesskey "o">
 

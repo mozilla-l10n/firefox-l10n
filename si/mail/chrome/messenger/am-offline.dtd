@@ -1,11 +1,10 @@
 <!ENTITY doNotDownloadPop3Movemail.label "ඩිස්කයේ ඉඩ ඉතිරි කර ගැනීම සඳහා භාගත නොකරන්න:">
-<!ENTITY doNotDownload.label "ඩිස්කයේ ඉඩ ඉතිරි කිරීමට, අසම්බන්ධිතව භාවාතා කිරීම සඳහා භාගත නොකරන්න:">
+<!ENTITY doNotDownload.label "ඩිස්කයේ ඉඩ ඉතිරි කිරීමට, අසම්බන්ධිතව භාවිතා කිරීම සඳහා භාගත නොකරන්න:">
 <!ENTITY allFoldersOffline.label "මෙම පරිගණකහේ මෙම ගිණුම සඳහා ලිපි තබාගන්න">
 <!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY kb.label "kB ට වඩා විශාල ලිපි">
-<!ENTITY days.label "දින">
 <!ENTITY daysOld.label "ට වඩා පැරණි">
 <!ENTITY message.label "ලිපි">
 <!ENTITY nntpNotDownloadRead.label "ලිපි කියවීම">
@@ -23,7 +22,7 @@
 <!ENTITY retentionKeepUnread.accesskey "r">
 <!ENTITY nntpRemoveBody.label "ලිපියේ බඳ (ට වඩා) කුඩා">
 <!ENTITY nntpRemoveBody.accesskey "O">
-<!ENTITY offlineSelectNntp.label "අසම්බන්ධිතව භාවාතා කිරීම සඳහා පුවත්සමූහ තෝරන්න...">
+<!ENTITY offlineSelectNntp.label "අසම්බන්ධිතව භාවිතා කිරීම සඳහා පුවත්සමූහ තෝරන්න...">
 <!ENTITY offlineSelectNntp.accesskey "S">
 <!ENTITY offlineImapAdvancedOffline.label "වැඩිමනත්…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">

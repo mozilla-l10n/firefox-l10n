@@ -27,20 +27,4 @@
 <!ENTITY startpage.pageInfo "For product information, visit the">
 <!ENTITY startpage.pageURL "http://www.mozilla.org/products/thunderbird/">
 
-<!ENTITY startpage.extra '<script type="text/javascript">
-<![CDATA[
-function installDic(anchor)
-{
-    var params = { "en-GB Dictionary": anchor.getAttribute("href") };
-    InstallTrigger.install(params);
-}
-]]>
-</script>
-<h2>Spelling</h2>
-<p><a href="http://downloads.mozdev.org/dictionaries/spell-en-GB.xpi"
-  onclick="installDic(this);return false">Install</a> the British English
-  spell-checking dictionary.
-<a href="http://www.mozilla.org/products/thunderbird/dictionaries.html">Details
-  and other languages</a>.</p>'>
-
-<!ENTITY startpage.poweredByGecko "බලගැන්වුම Gecko.">
+<!ENTITY startpage.extra "">

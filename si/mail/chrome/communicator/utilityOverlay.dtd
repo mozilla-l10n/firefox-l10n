@@ -25,7 +25,6 @@
 <!ENTITY pasteCmd.key						"V">  
 <!ENTITY pasteCmd.accesskey					"P"> 
 <!ENTITY deleteCmd.label					"මකන්න">  
-<!ENTITY deleteCmd.key						"D">  
 <!ENTITY deleteCmd.accesskey				"D"> 
 <!ENTITY selectAllCmd.label					"සියල්ල තෝරන්න">  
 <!ENTITY selectAllCmd.key					"A">  
@@ -35,9 +34,6 @@
 <!ENTITY preferencesCmdUnix.label       "මනාපයන්">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY findTypeTextCmd.label "ටයිප් කරන විට පාඨ සොයන්න (Find Text As You Type)">
-<!ENTITY findTypeTextCmd.accesskey "x">
-
 <!ENTITY viewMenu.label					"දැකුම්"> 
 <!ENTITY viewMenu.accesskey				"V"> 
 <!ENTITY viewToolbarsMenu.label				"මෙවලම් තීරු"> 
@@ -45,18 +41,8 @@
 <!ENTITY showTaskbarCmd.label					"තත්ත්ව තීරුව">  
 <!ENTITY showTaskbarCmd.accesskey				"S"> 
 
-<!ENTITY direct.label                                   "සම්බන්ධිත (ප්‍රොක්සි: නැත)">
-<!ENTITY direct.accesskey                               "n">
-<!ENTITY manual.label                                   "සම්බන්ධිත (ප්‍රොක්සි: manual)">
-<!ENTITY manual.accesskey                               "m">
-<!ENTITY pac.label                                      "සම්බන්ධිත (ප්‍රොක්සි: ස්වයංක්‍රීය)">
-<!ENTITY pac.accesskey                                  "a">
-
 <!ENTITY proxy.label                                    "ප්‍රොක්සි වින්‍යාස (Configuration) කිරීම...">
 <!ENTITY proxy.accesskey                                "C">
-
-<!ENTITY findTypeTextCmd.key        "/">
-<!ENTITY findTypeLinksCmd.key       "'">
 
 <!ENTITY closeCmd.label			"වසන්න">  
 <!ENTITY closeCmd.key			"W">  

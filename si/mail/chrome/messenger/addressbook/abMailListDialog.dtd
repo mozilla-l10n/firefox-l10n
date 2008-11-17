@@ -46,7 +46,6 @@
 <!ENTITY ListDescription.label          "විස්තරය: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "තැපැල් ලැයිස්තුවට එක් කිරීම සඳහා වි.තැ. ලිපිනයන් ඇතුළු කරන්න:">
-<!ENTITY RemoveButton.label             "ඉවත් කරන්න">
 <!ENTITY UpButton.label                 "ඉහලට ගෙනයන්න">
 <!ENTITY DownButton.label               "පහළට ගෙනයන්න">
 

@@ -29,7 +29,6 @@
 <!ENTITY customizeMailAlert.label         "රිසිකරණය...">
 <!ENTITY customizeMailAlert.accesskey     "C">
 
-<!ENTITY soundNotification1.caption       "නාදය">
 <!ENTITY play.label                       "වාදනය කරන්න">
 <!ENTITY play.accesskey                   "P">
 <!ENTITY systemsound.label                "නව ලිපි සඳහා පෙරනිමි පද්ධති නාදය">
@@ -40,3 +39,8 @@
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "පිරික්සන්න...">
 <!ENTITY browse.accesskey                 "B">
+<!ENTITY addonsMgr.label                  "ඇඩෝන">
+<!ENTITY manageAddonsDescWin.label        "ඔබගේ ඇඩෝන සඳහා වරණ වෙනස් කරන්න">
+<!ENTITY manageAddonsDescUnix2.label      "ඔබගේ ඇඩෝන සඳහා මනාපයන්  වෙනස් කරන්න">
+<!ENTITY manageAddons.label               "ඇඩෝන කළමණාකරණය…">
+<!ENTITY manageAddons.accesskey           "M">

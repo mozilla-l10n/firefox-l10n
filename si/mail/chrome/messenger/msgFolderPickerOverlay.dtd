@@ -36,14 +36,5 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Labels -->
-<!ENTITY subscribechoosethis.label			"මෙම පුවත් සේවාදායකය තෝරන්න">
-<!ENTITY subscribeclickhere.label			"පුවත් සේවාදායකයක් තේරීමට මෙහි ක්ලික් කරන්න">
-<!ENTITY newfolderchoosethis.label			"choose this for the parent">
-<!ENTITY newfolderclickhere.label			"තේරීමට මෙහි ක්ලික් කරන්න">
-<!ENTITY renamefolderchoosethis.label			"මෙම ෆෝල්ඩරය තෝරන්න">
-<!ENTITY renamefolderclickhere.label			"ෆෝල්ඩරයක් තේරීමට මෙහි ක්ලික් කරන්න">
-<!ENTITY filemessageschoosethis.label			"මෙම ෆෝල්ඩරය තෝරන්න">
-<!ENTITY filemessagesclickhere.label			"ෆෝල්ඩරයක් තේරීමට මෙහි ක්ලික් කරන්න">
-<!ENTITY chooseaccountclickhere.label			"ගිණුමක් තේරීමට මෙහි ක්ලික් කරන්න">
-<!ENTITY choosefolderclickhere.label			"ෆෝල්ඩරයක් තේරීමට මෙහි ක්ලික් කරන්න">
-<!ENTITY chooseserverToDeferTo.label      "ලිපි තැන්පත් කිරීම සඳහා භාවිතා කිරීමට ගිණුමක් තේරීමට මෙහි ක්ලික් කරන්න">
+<!ENTITY newfolderchoosethis.label      "choose this for the parent">
+<!ENTITY filemessageschoosethis.label   "මෙම ෆෝල්ඩරය තෝරන්න">

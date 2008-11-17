@@ -49,5 +49,5 @@
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
 <!ENTITY headers.label      "ශීර්ෂයන්">
 <!ENTITY headers.accesskey  "h">
-<!ENTITY mark.label         "ඉතරි ශීර්ෂයන් කියවූ ලෙස ලකුණු කරන්න">
+<!ENTITY mark.label         "ඉතිරි ශීර්ෂයන් කියවූ ලෙස ලකුණු කරන්න">
 <!ENTITY mark.accesskey     "M">

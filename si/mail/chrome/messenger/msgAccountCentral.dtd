@@ -6,7 +6,7 @@
 <!ENTITY subscribeNewsLink.label      "දායකත්වයන් කළමණාකරණය දායකත්වයන් කළමණාකරණය"> 
 
 <!ENTITY accountsSectionHdr.label     "ගිණුම්"> 
-<!ENTITY subscribeImapFolders.label   "ෆෙි්ල්ඩර දායකත්වයන් කළමණාකරණය">
+<!ENTITY subscribeImapFolders.label   "ෆෝල්ඩර දායකත්වයන් කළමණාකරණය">
 <!ENTITY settingsLink.label           "මෙම ගිණුමේ සැකසුම් පෙන්වීම"> 
 <!ENTITY newAcctLink.label            "නව ගිණුමක් සෑදීම"> 
 

@@ -5,15 +5,11 @@
 <!ENTITY searchSubfolders.accesskey  "e">
 <!ENTITY resetButton.label           "හිස් කරන්න">
 <!ENTITY resetButton.accesskey       "C">
-<!ENTITY optionsButton.label         "වරණ">
-<!ENTITY closeButton.label           "වසන්න">
 <!ENTITY openButton.label            "විවෘත කරන්න">
 <!ENTITY openButton.accesskey        "n">
 <!ENTITY deleteButton.label          "මකන්න">
 <!ENTITY deleteButton.accesskey      "D">
 <!ENTITY searchDialogTitle.label     "ලිපි සෙවීම">
-<!ENTITY conditionDesc.label         "මෙයට ගැලපෙන ලිපි සොයන්න:">
-<!ENTITY conditions.label            "නිර්ණායකය(Criteria)">
 <!ENTITY results.label               "ප්‍රතිඵල">
 <!ENTITY fileHereMenu.label          "මෙහි ගොනුගත කරන්න">
 <!ENTITY fileHereMenu.accesskey      "F">
@@ -45,8 +41,7 @@
 <!ENTITY accountColumn.label "ගිණුම">
 <!ENTITY statusColumn.label "තත්ත්වය">
 <!ENTITY sizeColumn.label "විශාලත්වය">
-<!ENTITY junkStatusColumn.label "නසරු තත්ත්වය">
-<!ENTITY linesColumn.label "පේළි">
+<!ENTITY junkStatusColumn.label "නිසරු තත්ත්වය">
 <!ENTITY unreadColumn.label "නොකියවූ">
 <!ENTITY totalColumn.label "එකතුව">
 <!ENTITY readColumn.label "කියවූ">

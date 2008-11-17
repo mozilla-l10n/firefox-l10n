@@ -51,7 +51,6 @@
 <!ENTITY retention.label "තබාගැනීමේ පිළිවෙත">
 <!ENTITY retentionUseDefault.label  "සේවාදායක පෛරනිමි භාවිතා කරන්න">
 <!ENTITY retentionUseDefault.accesskey "d">
-<!ENTITY days.label "දින">
 <!ENTITY daysOld.label "දිනකට වඩා පැරණි ලිපි">
 <!ENTITY message.label "ලිපි">
 <!ENTITY retentionCleanup.label "ඩිස්කයේ ඉඩ ලබා ගැනීමට, පැරණි ලිපි ස්ථිරව මැකිය හැකිය">
@@ -75,18 +74,15 @@
 
 <!ENTITY selectofflineNewsgroup.check.label      "අසම්බන්ධිතව භාවිතාව සඳහා මෙම පුවත්සමූහය තෝරන්න">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "o">
-<!ENTITY UseDefaultofflineNewsgroup.check.label  "ගිණුම් සැකසුමේ පෛරනිමි භාවිතා කරන්න">
 <!ENTITY offlineNewsgroup.button.label           "දැන් බාගත කරන්න">
 <!ENTITY offlineNewsgroup.button.accesskey       "D">
 
-<!ENTITY folderProps.information.label           "තොරතුරු:">
 <!ENTITY folderProps.name.label                  "නම:">
 <!ENTITY folderProps.name.accesskey              "N">
 <!ENTITY folderProps.location.label              "ස්ථානය:">
 <!ENTITY folderProps.location.accesskey          "L">
 
 <!ENTITY folderSharingTab.label                  "බෙදාගැනීම">
-<!ENTITY privilegesDesc.label                    "මෙය සහ අනෙකුත් ෆෝල්ඩරයන් ජාලයේ පරිශීලකයින් සමඟ බෙදාගැනීම, ප්‍රවේශ වරප්‍රසාදයන් සැකසීම සහ පෙන්වීම">
 <!ENTITY privileges.button.label                 "වරප්‍රසාදයන්...">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "ඔබට පහත අවසරයන් ඇත:">

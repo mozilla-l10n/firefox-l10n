@@ -41,7 +41,6 @@
 <!ENTITY windowTitle.label "රූපයේ ලක්ෂණ">
 
 <!ENTITY pixelsPopup.value "පික්සෙල්">
-<!ENTITY percentPopup.value "ප්‍රතිශතය">
 
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "රූපයේ ස්ථානය:">
@@ -57,7 +56,6 @@
 <!ENTITY noAltText.accessKey "D">
 
 <!ENTITY previewBox.label "රූපයේ පෙරදැක්ම">
-<!ENTITY MoreFewerButton.tooltip "සැකසීමට අඩු හෝ වැඩි ලක්ෂණ පෙන්වන්න">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
@@ -93,7 +91,6 @@
 
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "හිස් ඉඩ">
-<!ENTITY spacingBox.tooltip "රූපය වටා හිස් ඉඩ ප්‍රමාණය සදහා අගය ටයිප් කරන්න">
 <!ENTITY leftRightEditField.label "වම සහ දකුණ:">
 <!ENTITY leftRightEditField.accessKey "L">
 <!ENTITY topBottomEditField.label "ඉහළ සහ පහළ:">
@@ -104,12 +101,6 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "සබැඳි රූපය වටා දාරය පෙන්වන්න">
 <!ENTITY showImageLinkBorder.accessKey "B">
-
-<!-- These controls may be added some day; currently not used -->
-<!ENTITY makePageBackgroundCheckbox.label "පිටුවේ පසුතලයට යොදන්න">
-<!ENTITY makePageBackgroundCheckbox.tooltip "රූපය ඔබගේ පිටුවේ පසුතලය ලෙස භාවිතා කරන්න">
-<!ENTITY editImageButton.label "රූපයේ සැකසුම්">
-<!ENTITY editImageButton.tooltip "රූපයේ ගොනුව වෙනත් යෙදුමක සැකසීම">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "පෝරමය">
