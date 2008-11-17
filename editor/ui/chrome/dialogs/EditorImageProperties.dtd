@@ -41,7 +41,6 @@
 <!ENTITY windowTitle.label "Proprietăți imagine">
 
 <!ENTITY pixelsPopup.value "pixeli">
-<!ENTITY percentPopup.value "Procent">
 
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Locație imagine:">
@@ -57,7 +56,6 @@
 <!ENTITY noAltText.accessKey "F">
 
 <!ENTITY previewBox.label "Previzualizare imagine">
-<!ENTITY MoreFewerButton.tooltip "Afișează spre editare mai multe sau mai puține proprietăți">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
@@ -93,7 +91,6 @@
 
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "Spațiere">
-<!ENTITY spacingBox.tooltip "Tastați un număr reprezentând spațiul din jurul imaginii">
 <!ENTITY leftRightEditField.label "Stânga și dreapta:">
 <!ENTITY leftRightEditField.accessKey "S">
 <!ENTITY topBottomEditField.label "Sus și jos:">
@@ -104,12 +101,6 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Afișează cu bordură imaginea cu legături">
 <!ENTITY showImageLinkBorder.accessKey "A">
-
-<!-- These controls may be added some day; currently not used -->
-<!ENTITY makePageBackgroundCheckbox.label "Creează fundal">
-<!ENTITY makePageBackgroundCheckbox.tooltip "Folosește imaginea ca fundal al paginii">
-<!ENTITY editImageButton.label "Editează imagine">
-<!ENTITY editImageButton.tooltip "Ediează imaginea în alt program">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "formular">

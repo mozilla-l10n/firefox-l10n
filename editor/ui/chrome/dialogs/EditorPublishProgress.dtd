@@ -43,8 +43,6 @@
 
 <!ENTITY status.label          "Publicare...">
 <!ENTITY fileList.label        "Starea publicării">
-<!ENTITY statusHeader.label    "Stare">
-<!ENTITY filenameHeader.label  "Nume fișier">
 <!ENTITY succeeded.label       "Reușit">
 <!ENTITY failed.label          "Eșuat">
 

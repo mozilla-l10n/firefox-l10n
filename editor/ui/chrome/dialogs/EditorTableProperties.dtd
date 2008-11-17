@@ -69,7 +69,6 @@
 <!ENTITY tableCaptionNone.label           "Nici una">
 <!ENTITY tableInheritColor.label           "(Lasă să se vadă culoarea paginii)">
 
-<!ENTITY cellPercent.label                "procente din tabel">
 <!ENTITY cellSelection.label              "Selecție">
 <!ENTITY cellSelectCell.label             "Celulă">
 <!ENTITY cellSelectRow.label              "RÂND">
@@ -78,11 +77,7 @@
 <!ENTITY cellSelectNext.accessKey         "I">
 <!ENTITY cellSelectPrevious.label         "Înapoi">
 <!ENTITY cellSelectPrevious.accessKey     "P">
-<!ENTITY cellApplyBeforeMove.label        "Aplică schimbările înainte de modificarea selecției">
-<!ENTITY cellKeepCurrentData.label        "Păstrează setările actuale">
-<!ENTITY applyBeforeChange.label          "Current changes will be applied before changing the selection.">
-<!ENTITY cellRowSpan.label                "Întindere pe rânduri:">
-<!ENTITY cellColSpan.label                "Întindere pe coloane:">
+<!ENTITY applyBeforeChange.label          "Schimbările curente vor fi aplicate înainte de schimbarea selecției.">
 <!ENTITY cellContentAlignment.label       "Aliniere conținut">
 <!ENTITY cellHorizontal.label             "Orizontală:">
 <!ENTITY cellHorizontal.accessKey         "Z">
@@ -100,7 +95,6 @@
 <!ENTITY cellAlignMiddle.label            "Mijloc">
 <!ENTITY cellAlignBottom.label            "Jos">
 <!ENTITY cellAlignJustify.label           "Îndreptat">
-<!ENTITY cellAlignAtChar.label            "La caracterul:">
 <!ENTITY cellInheritColor.label           "(Lasă să se vadă culoarea tabelului)">
 <!ENTITY cellUseCheckboxHelp.label        "Folosiți bifele pentru a indica ce proprietăți se aplică celulelor selectate">
 

@@ -46,11 +46,6 @@
 <!ENTITY printCmd.label "Imprimă...">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "p">
-<!ENTITY quitApplicationCmdWin.label                    "Ieșire"> 
-<!ENTITY quitApplicationCmdWin.accesskey                "I">
-<!ENTITY quitApplicationCmd.label                       "Ieșire"> 
-<!ENTITY quitApplicationCmd.accesskey                   "I">
-<!ENTITY quitApplicationCmd.key "Q"> 
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "Editare"> 

@@ -55,11 +55,3 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formatare">
 <!ENTITY formatMenu.accesskey "F">
-
-<!ENTITY helpMenu.label "Ajutor">
-<!ENTITY aboutCmd.label ".Despre">
-
-<!-- Display Mode Toolbar -->
-<!ENTITY editMode.label "Mod editare:">
-
-<!ENTITY statusText.label "Terminat de încărcat pagina">

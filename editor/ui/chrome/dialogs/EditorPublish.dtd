@@ -35,14 +35,11 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-
 <!-- Window title -->
 <!ENTITY windowTitle.label            "Publicare pagină">
 <!ENTITY windowTitleSettings.label    "Setări de publicare">
-
 <!ENTITY publishTab.label             "Publică">
 <!ENTITY settingsTab.label            "Setări">
-
 <!ENTITY publishButton.label          "Publică">
 
 <!-- Publish Tab Panel -->
@@ -72,10 +69,8 @@
 <!ENTITY filename.accesskey           "N">
 <!ENTITY filename.tooltip             "Introduceți un nume pentru acest fișier, adăugând '.html' în cazul unei pagini web">
 <!ENTITY filenameExample.label        "ex.: &quot;paginamea.html&quot;">
-<!ENTITY relatedDocs.label            "Alte fișiere de publicat">
 <!ENTITY setDefaultButton.label       "Implicit">
 <!ENTITY setDefaultButton.accesskey   "I">
-<!ENTITY setDefSiteAndDir.label       "Marchează ca sait și director implicit">
 <!ENTITY removeButton.label           "Elimină saitul">
 <!ENTITY removeButton.accesskey       "E">
 
