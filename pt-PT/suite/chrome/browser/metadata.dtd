@@ -20,7 +20,7 @@
 <!ENTITY link-rev.label        "Relação invertida:">
 <!ENTITY misc-sec.label        "Propriedades dos diversos">
 <!ENTITY misc-lang.label       "Idioma do texto:">
-<!ENTITY misc-title.label      "Titúlo:">
+<!ENTITY misc-title.label      "Título:">
 <!ENTITY misc-tblsummary.label "Tabela de resumo:">
 <!ENTITY quote-sec.label       "Propriedades da citação">
 <!ENTITY quote-cite.label      "Info:">

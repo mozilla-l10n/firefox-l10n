@@ -37,7 +37,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY messengerWindow.title "Mail &amp; Newsgroups">
+<!ENTITY messengerWindow.title "Correio &amp; Grupos de Discussão">
 <!ENTITY titleModifier.label "&brandShortName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -188,7 +188,7 @@
 <!ENTITY sortBySubjectCmd.label "Assunto">
 <!ENTITY sortBySubjectCmd.accesskey "s">
 <!ENTITY sortByFromCmd.label "De">
-<!ENTITY sortByFromCmd.accesskey "F">
+<!ENTITY sortByFromCmd.accesskey "D">
 <!ENTITY sortByRecipientCmd.label "Destinatário">
 <!ENTITY sortByRecipientCmd.accesskey "i">
 <!ENTITY sortByUnreadCmd.label "Lida">
@@ -224,7 +224,7 @@
 <!ENTITY threadsWithUnreadCmd.label "Expandir todos tópicos">
 <!ENTITY threadsWithUnreadCmd.accesskey "C">
 <!ENTITY watchedThreadsWithUnreadCmd.label "Tópicos como não lidos">
-<!ENTITY watchedThreadsWithUnreadCmd.accesskey "M">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "m">
 <!ENTITY ignoredThreadsCmd.label "Ignorados">
 <!ENTITY ignoredThreadsCmd.accesskey "I">  
 <!ENTITY headersMenu.label "Cabeçalhos">
