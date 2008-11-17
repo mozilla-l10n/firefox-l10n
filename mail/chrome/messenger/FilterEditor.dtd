@@ -34,10 +34,10 @@
 
 
 <!-- FIXME: localize -->
-<!ENTITY contextBoth.label "Checking Mail or Manually Run">
-<!ENTITY contextDesc.accesskey "w">
-<!ENTITY contextDesc.label "Apply filter when:">
-<!ENTITY contextIncoming.label "Checking Mail">
-<!ENTITY contextManual.label "Manually Run">
-<!ENTITY ignoreSubthread.label "Ignore Subthread">
-<!ENTITY stopExecution.label "Stop Filter Execution">
+<!ENTITY contextBoth.label "При перевірці пошти чи вручну">
+<!ENTITY contextDesc.accesskey "п">
+<!ENTITY contextDesc.label "Застосувати фільтр:">
+<!ENTITY contextIncoming.label "При перевірці пошти">
+<!ENTITY contextManual.label "Вручну">
+<!ENTITY ignoreSubthread.label "Ігнорувати підпотік">
+<!ENTITY stopExecution.label "Припинити роботу фільтра">
