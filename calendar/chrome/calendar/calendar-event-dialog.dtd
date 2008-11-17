@@ -75,8 +75,6 @@
 <!ENTITY event.menu.file.page.setup.accesskey "m">
 <!ENTITY event.menu.file.print.label "Stampa">
 <!ENTITY event.menu.file.print.accesskey "S">
-<!ENTITY event.menu.file.exit.label "Esci">
-<!ENTITY event.menu.file.exit.accesskey "E">
 <!ENTITY event.menu.edit.label "Modifica">
 <!ENTITY event.menu.edit.accesskey "M">
 <!ENTITY event.menu.edit.undo.label "Annulla">
