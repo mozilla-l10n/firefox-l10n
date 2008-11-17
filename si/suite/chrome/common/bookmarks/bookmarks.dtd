@@ -134,3 +134,5 @@
 <!ENTITY button.delete.label           "Delete">
 <!ENTITY button.moveBookmark.label     "Move…">
 <!ENTITY button.moveBookmark.accesskey "M">
+<!ENTITY menuitem.moveBookmark.label   "Move Bookmark(s)…">
+<!ENTITY menuitem.moveBookmark.accesskey "M">
