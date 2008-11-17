@@ -119,3 +119,18 @@
 
 <!ENTITY search.label                     "Search">
 <!ENTITY search.accesskey                 "S">
+<!ENTITY menuitem.properties.label     "Properties…">
+<!ENTITY menuitem.properties.accesskey "o">
+<!ENTITY menuitem.properties.key       "I">
+<!ENTITY menuitem.newSeparator.accesskey "S">
+<!ENTITY menuitem.newFolder.accesskey  "F">
+<!ENTITY menuitem.newSeparator.accesskey "S">
+<!ENTITY menuitem.newFolder.accesskey  "F">
+<!ENTITY menuitem.newBookmark.accesskey "B">
+<!ENTITY menuitem.find.find.key        "F">
+<!ENTITY command.sortFolder.key        "S">
+<!ENTITY button.rename.label           "Rename…">
+<!ENTITY button.properties.label       "Properties…">
+<!ENTITY button.delete.label           "Delete">
+<!ENTITY button.moveBookmark.label     "Move…">
+<!ENTITY button.moveBookmark.accesskey "M">
