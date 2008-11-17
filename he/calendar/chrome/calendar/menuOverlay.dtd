@@ -1,85 +1,26 @@
-<!ENTITY aboutCmd.accesskey "A">
-<!ENTITY aboutCmd.label "אודות &brandFullName;">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.label "פנקס כתובות">
-<!ENTITY calendar.about.accesskey "C">
-<!ENTITY calendar.about.label "אודות היומן">
-<!ENTITY calendar.copy.accesskey "C">
-<!ENTITY calendar.copy.label "העתק">
-<!ENTITY calendar.cut.accesskey "t">
-<!ENTITY calendar.cut.label "גזור">
-<!ENTITY calendar.export.accesskey "E">
-<!ENTITY calendar.export.label "ייצא את האירועים שנבחרו">
+
 <!ENTITY calendar.import.accesskey "I">
 <!ENTITY calendar.import.label "ייבא מקובץ...">
 <!ENTITY calendar.new.server.accesskey "l">
 <!ENTITY calendar.new.server.label "יומן חדש">
-<!ENTITY calendar.pagesetup.accesskey "u">
-<!ENTITY calendar.pagesetup.label "תצורת דף...">
-<!ENTITY calendar.paste.accesskey "P">
-<!ENTITY calendar.paste.label "הדבק">
-<!ENTITY calendar.preferences.accesskey "e">
-<!ENTITY calendar.preferences.label "העדפות...">
+
 <!ENTITY calendar.print.accesskey "P">
 <!ENTITY calendar.print.label "הדפס יומנים פעילים...">
-<!ENTITY calendar.printpreview.accesskey "v">
-<!ENTITY calendar.printpreview.label "תצוגה מקודמת להדפסה">
+
 <!ENTITY calendar.publish.accesskey "S">
 <!ENTITY calendar.publish.label "פרסם את האירועים שנבחרו....">
-<!ENTITY calendar.selectall.accesskey "A">
-<!ENTITY calendar.selectall.label "בחר הכל">
-<!ENTITY calendar.subscribe.accesskey "R">
-<!ENTITY calendar.subscribe.label "הרשם ליומן מרוחק...">
-<!ENTITY calendar.wizard.accesskey "W">
-<!ENTITY calendar.wizard.label "הפעל אשף">
-<!ENTITY editMenu.accesskey "E">
-<!ENTITY editMenu.label "עריכה">
-<!ENTITY event.delete.event "מחק את האירוע(ים) שנבחר(ו)">
-<!ENTITY event.delete.event.accesskey "D">
-<!ENTITY event.delete.tasks "מחק את המטלה(ות) שנבחר(ו)">
-<!ENTITY event.delete.tasks.accesskey "T">
-<!ENTITY event.edit.event "עריכה">
-<!ENTITY event.edit.event.accesskey "E">
-<!ENTITY event.mail.event "דוור את האירוע(ים) שנבחר(ו)">
-<!ENTITY event.mail.event.accesskey "M">
-<!ENTITY event.menu.title "אירוע">
+
 <!ENTITY event.new.event "אירוע חדש">
 <!ENTITY event.new.event.accesskey "N">
 <!ENTITY event.new.todo "מטלה חדשה">
 <!ENTITY event.new.todo.accesskey "T">
-<!ENTITY eventMenuCmd.accesskey "v">
-<!ENTITY fileMenu.accesskey "F">
-<!ENTITY fileMenu.label "קובץ">
-<!ENTITY goDateCmd.accesskey "D">
-<!ENTITY goDateCmd.label "לך לתאריך">
-<!ENTITY goMenu.accesskey "G">
-<!ENTITY goMenu.label "לך">
-<!ENTITY goNextCmd.accesskey "N">
-<!ENTITY goNextCmd.label "הבא">
+
 <!ENTITY goPreviousCmd.accesskey "P">
-<!ENTITY goPreviousCmd.label "הקודם">
+
 <!ENTITY goTodayCmd.accesskey "T">
-<!ENTITY goTodayCmd.label "לך להיום">
-<!ENTITY helpMenu.accesskey "H">
-<!ENTITY helpMenu.label "עזרה">
-<!ENTITY javaScriptConsoleCmd.accesskey "S">
-<!ENTITY javaScriptConsoleCmd.label "מסוף JavaScript">
-<!ENTITY messengerCmd.accesskey "M">
-<!ENTITY messengerCmd.label "דואר">
-<!ENTITY navigatorCmd.accesskey "B">
-<!ENTITY navigatorCmd.label "דפדפן">
-<!ENTITY preferencesCmd.accesskey "O">
-<!ENTITY preferencesCmd.label "אפשרויות...">
-<!ENTITY releaseCmd.accesskey "R">
-<!ENTITY releaseCmd.label "הערות שחרור">
-<!ENTITY taskMenu.accesskey "T">
-<!ENTITY taskMenu.label "מטלות">
-<!ENTITY toolsMenu.accesskey "o">
-<!ENTITY toolsMenu.label "כלים">
-<!ENTITY viewMenu.accesskey "V">
-<!ENTITY viewMenu.label "תצוגה">
-<!ENTITY walletPasswordManager.accesskey "p">
-<!ENTITY walletPasswordManager.label "מנהל סיסמאות">
+<!ENTITY goTodayCmd.label "לך להיום">
 
 
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "מ">
