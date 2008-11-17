@@ -37,7 +37,6 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY windowTitle.label "Properti Gambar">
 <!ENTITY pixelsPopup.value "piksel">
-<!ENTITY percentPopup.value "persen">
 <!ENTITY locationEditField.label "Lokasi Gambar:">
 <!ENTITY locationEditField.accessKey "L">
 <!ENTITY locationEditField.tooltip "Masukkan nama berkas atau lokasi gambar">
@@ -50,7 +49,6 @@
 <!ENTITY noAltText.label "Jangan gunakan teks alternatif">
 <!ENTITY noAltText.accessKey "J">
 <!ENTITY previewBox.label "Pratinjau Gambar">
-<!ENTITY MoreFewerButton.tooltip "Tampilkan properti lebih banyak atau lebih sedikit untuk diubah">
 <!ENTITY actualSize.label "Ukuran Asli:">
 <!ENTITY actualSizeRadio.label "Ukuran Asli">
 <!ENTITY actualSizeRadio.accessKey "A">
@@ -77,7 +75,6 @@
 <!ENTITY wrapRightPopup.value "Potong di kanan">
 <!ENTITY wrapLeftPopup.value "Potong di kiri">
 <!ENTITY spacingBox.label "Spasi">
-<!ENTITY spacingBox.tooltip "Masukkan jumlah spasi untuk jarak di sekeliling gambar">
 <!ENTITY leftRightEditField.label "Kiri dan Kanan:">
 <!ENTITY leftRightEditField.accessKey "K">
 <!ENTITY topBottomEditField.label "Atas dan Bawah:">
@@ -86,10 +83,6 @@
 <!ENTITY borderEditField.accessKey "t">
 <!ENTITY showImageLinkBorder.label "Tampilkan pita tepian di sekeliling gambar dengan tautan">
 <!ENTITY showImageLinkBorder.accessKey "B">
-<!ENTITY makePageBackgroundCheckbox.label "Atur Menjadi Latar Belakang Halaman">
-<!ENTITY makePageBackgroundCheckbox.tooltip "Gunakan gambar sebagai latar belakang halaman">
-<!ENTITY editImageButton.label "Sunting Gambar">
-<!ENTITY editImageButton.tooltip "Sunting berkas gambar pada program lainnya">
 <!ENTITY imageInputTab.label "Form">
 <!ENTITY imageLocationTab.label "Lokasi">
 <!ENTITY imageDimensionsTab.label "Dimensi">

@@ -20,7 +20,6 @@
 <!ENTITY showAnimatedAlert.accesskey "g">
 <!ENTITY customizeMailAlert.label "Pengaturan…">
 <!ENTITY customizeMailAlert.accesskey "P">
-<!ENTITY soundNotification1.caption "Suara">
 <!ENTITY play.label "Mainkan">
 <!ENTITY play.accesskey "M">
 <!ENTITY systemsound.label "Suara default dari sistem untuk email baru">
@@ -31,3 +30,8 @@
 <!ENTITY customsound.accesskey "U">
 <!ENTITY browse.label "Telusuri…">
 <!ENTITY browse.accesskey "T">
+<!ENTITY addonsMgr.label "Pengaya">
+<!ENTITY manageAddonsDescWin.label "Ubah pengaturan untuk Pengaya">
+<!ENTITY manageAddonsDescUnix2.label "Ubah pengaturan untuk Pengaya">
+<!ENTITY manageAddons.label "Kelola Pengaya…">
+<!ENTITY manageAddons.accesskey "P">

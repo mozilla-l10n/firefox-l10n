@@ -37,7 +37,6 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY Window.title "Daftar Isi">
 <!ENTITY buildToc.label "Buat daftar isi dari:">
-<!ENTITY style.label "Gaya:">
 <!ENTITY tag.label "Tag:">
 <!ENTITY class.label "Kelas:">
 <!ENTITY header1.label "Tingkat 1">

@@ -1,5 +1,4 @@
 <!ENTITY serverAdvanced.label "Pengaturan Akun Canggih">
-<!ENTITY imapAdvanced.label "Pengaturan Server IMAP Canggih">
 <!ENTITY serverDirectory.label "Direktori server IMAP:">
 <!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "Hanya tampilkan folder yang dilanggan">
@@ -20,7 +19,6 @@
 <!ENTITY overrideNamespaces.label "Izinkan server untuk mengganti namespace ini">
 <!ENTITY overrideNamespaces.accesskey "I">
 <!ENTITY pop3Desc.label "Ketika mengunduh email pop dari server ini, gunakan folder berikut untuk email baru:">
-<!ENTITY folderStorage.label "Tempat menyimpan email">
 <!ENTITY globalInbox.label "Kotak Masuk Global (Akun Lokal Folder)">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Kotak masuk untuk akun server ini">

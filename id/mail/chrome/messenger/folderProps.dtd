@@ -38,7 +38,6 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY folderProps.windowtitle.label "Properti">
 <!ENTITY generalInfo.label "Informasi Umum">
 <!ENTITY folderCharsetTab.label "Pengodean Karakter Default:">
 <!ENTITY folderCharsetTab.accesskey "E">
@@ -50,7 +49,6 @@
 <!ENTITY retention.label "Kebijakan Penyimpanan">
 <!ENTITY retentionUseDefault.label "Gunakan pengaturan default server">
 <!ENTITY retentionUseDefault.accesskey "d">
-<!ENTITY days.label "hari">
 <!ENTITY daysOld.label "hari">
 <!ENTITY message.label "pesan">
 <!ENTITY retentionCleanup.label "Untuk mengembalikan ruang disk, pesan lama dapat dihapus secara permanen">
@@ -71,16 +69,14 @@
 <!ENTITY offlineFolder.button.accesskey "U">
 <!ENTITY selectofflineNewsgroup.check.label "Pilih newsgroup ini untuk penggunaan offline">
 <!ENTITY selectofflineNewsgroup.check.accesskey "o">
-<!ENTITY UseDefaultofflineNewsgroup.check.label "Gunakan pengaturan akun default">
 <!ENTITY offlineNewsgroup.button.label "Unduh Sekarang">
 <!ENTITY offlineNewsgroup.button.accesskey "U">
-<!ENTITY folderProps.information.label "Keterangan:">
+<!ENTITY folderProps.windowtitle.label "Keterangan:">
 <!ENTITY folderProps.name.label "Nama:">
 <!ENTITY folderProps.name.accesskey "N">
 <!ENTITY folderProps.location.label "Lokasi:">
 <!ENTITY folderProps.location.accesskey "L">
 <!ENTITY folderSharingTab.label "Berbagi-pakai">
-<!ENTITY privilegesDesc.label "Bagi-pakai folder berikut dengan pengguna dalam jaringan dan tampilkan serta atur hak aksesnya">
 <!ENTITY privileges.button.label "Hak akses…">
 <!ENTITY privileges.button.accesskey "H">
 <!ENTITY permissionsDesc.label "Anda mempunyai hak akses berikut:">

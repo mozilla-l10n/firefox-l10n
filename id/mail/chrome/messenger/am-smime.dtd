@@ -5,13 +5,11 @@
 <!ENTITY neverEncrypt.label "Tidak pernah (jangan gunakan enkripsi)">
 <!ENTITY alwaysEncryptMessage.label "Diwajibkan (tidak dapat mengirim pesan kecuali semua penerima memiliki sertifikat)">
 <!ENTITY encryptionCert.message "Gunakan sertifikat berikut untuk mengenkripsi &amp; mendekripsi pesan yang dikirim kepada anda:">
-<!ENTITY encryptionCert.notselected "Tidak ada sertifikat">
 <!ENTITY certificate.button "Pilih…">
 <!ENTITY certificate_clear.button "Bersihkan">
 <!ENTITY signingGroupTitle.label "Tandatangan Dijital">
 <!ENTITY signMessage.label "Tandatangani pesan secara dijital secara default">
 <!ENTITY signingCert.message "Gunakan sertifikat ini untuk menandatangani pesan yang anda kirim secara dijital:">
-<!ENTITY signingCert.notselected "Tidak ada sertifikat">
 <!ENTITY certificates.label "Sertifikat">
 <!ENTITY managecerts.label "Tampilkan Sertifikat">
 <!ENTITY managecerts.accesskey "S">

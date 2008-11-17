@@ -42,11 +42,6 @@
 <!ENTITY printCmd.label "Cetak…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "C">
-<!ENTITY quitApplicationCmdWin.label "Keluar">
-<!ENTITY quitApplicationCmdWin.accesskey "K">
-<!ENTITY quitApplicationCmd.label "Keluar">
-<!ENTITY quitApplicationCmd.accesskey "K">
-<!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY editMenu.label "Ubah">
 <!ENTITY editMenu.accesskey "U">
 <!ENTITY undoCmd.label "Batal">
@@ -63,12 +58,12 @@
 <!ENTITY copyCmd.accesskey "S">
 <!ENTITY pasteCmd.label "Tempel">
 <!ENTITY pasteCmd.key "V">
+<!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteCmd.accesskey "T">
 <!ENTITY editRewrapCmd.label "Atur ulang pemotongan">
 <!ENTITY editRewrapCmd.key "P">
 <!ENTITY editRewrapCmd.accesskey "u">
 <!ENTITY deleteCmd.label "Hapus">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "H">
 <!ENTITY selectAllCmd.label "Pilih Semua">
 <!ENTITY selectAllCmd.key "A">
@@ -89,7 +84,6 @@
 <!ENTITY viewToolbarsMenuNew.label "Toolbar">
 <!ENTITY viewToolbarsMenuNew.accesskey "T">
 <!ENTITY showCompositionToolbarCmd.label "Toolbar Komposisi">
-<!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "Bar Format">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Bar Status">
@@ -154,7 +148,6 @@
 <!ENTITY accountManagerCmd.accesskey "P">
 <!ENTITY accountManagerCmdUnix.accesskey "A">
 <!ENTITY preferencesCmd.label "Pengaturan…">
-<!ENTITY preferencesCmd.key "P">
 <!ENTITY preferencesCmd.accesskey "P">
 <!ENTITY preferencesCmdUnix.label "Pengaturan">
 <!ENTITY preferencesCmdUnix.accesskey "P">
@@ -191,9 +184,6 @@
 <!ENTITY subject.accesskey "S">
 <!ENTITY attachments.label "Lampiran:">
 <!ENTITY attachments.accesskey "L">
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
 <!ENTITY SmileButton.tooltip "Masukkan gambar smiley">
 <!ENTITY smiley1Cmd.label "Tersenyum">
 <!ENTITY smiley2Cmd.label "Kerut">

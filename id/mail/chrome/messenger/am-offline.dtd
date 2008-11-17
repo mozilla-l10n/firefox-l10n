@@ -5,7 +5,6 @@
 <!ENTITY offlineNotDownload.label "Pesan lebih besar dari">
 <!ENTITY offlineNotDownload.accesskey "P">
 <!ENTITY kb.label "KB">
-<!ENTITY days.label "hari">
 <!ENTITY daysOld.label "hari">
 <!ENTITY message.label "pesan">
 <!ENTITY nntpNotDownloadRead.label "Membaca pesan">

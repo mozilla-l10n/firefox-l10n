@@ -1,8 +1,6 @@
 <!ENTITY itemGeneral.label "Utama">
 <!ENTITY itemAutoComplete.label "Alamat">
 <!ENTITY itemSpellCheck.label "Pengecek Ejaan">
-<!ENTITY itemSendFormat.label "Format Pengiriman">
-<!ENTITY forwardReply.label "Meneruskan Pesan">
 <!ENTITY forwardMsg.label "Teruskan pesan:">
 <!ENTITY forwardMsg.accesskey "T">
 <!ENTITY inline.label "Tidak Terpisah">
@@ -22,7 +20,6 @@
 <!ENTITY bgColor.accesskey "W">
 <!ENTITY restoreHTMLDefaults.label "Kembalikan Nilai Default">
 <!ENTITY restoreHTMLDefaults.accesskey "K">
-<!ENTITY sendingMessagesHeader.label "Menyusun Pesan">
 <!ENTITY spellCheck.label "Periksa ejaan sebelum mengirim">
 <!ENTITY spellCheck.accesskey "e">
 <!ENTITY spellCheckInline.label "Aktifkan pengecek ejaan saat mengetik">
@@ -35,9 +32,6 @@
 <!ENTITY autoSave.label "Simpan Otomatis setiap">
 <!ENTITY autoSave.accesskey "O">
 <!ENTITY autoSaveEnd.label "menit">
-<!ENTITY wrapOutMsg.label "Potong pesan dalam format teks biasa pada">
-<!ENTITY wrapOutMsg.accesskey "l">
-<!ENTITY char.label "karakter">
 <!ENTITY emailCollectionPicker.label "Otomatis tambahkan alamat email keluar ke:">
 <!ENTITY emailCollectionPicker.accesskey "t">
 <!ENTITY addressingTitle.label "Otomatis Melengkapi Alamat">
@@ -49,9 +43,6 @@
 <!ENTITY directoriesNone.label "Tidak ada">
 <!ENTITY editDirectories.label "Ubah Direktori…">
 <!ENTITY editDirectories.accesskey "E">
-<!ENTITY matchText.label "Jika ada yang cocok dengan buku alamat lokal saya:">
-<!ENTITY skipDirectory.label "Jangan mencari pada direktori">
-<!ENTITY sendOptionsCaption.label "Pengaturan Pengiriman dan HTML">
 <!ENTITY sendOptionsDescription.label "Atur pemformatan teks">
 <!ENTITY sendOptions.label "Pengaturan Pengiriman…">
 <!ENTITY sendOptions.accesskey "P">

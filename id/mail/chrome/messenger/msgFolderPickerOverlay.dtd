@@ -1,12 +1,3 @@
 <!--null-->
-<!ENTITY subscribechoosethis.label "pilih server news berikut">
-<!ENTITY subscribeclickhere.label "klik di sini untuk memilih server news">
 <!ENTITY newfolderchoosethis.label "pilih ini untuk parent">
-<!ENTITY newfolderclickhere.label "Klik di sini untuk memilih">
-<!ENTITY renamefolderchoosethis.label "pilih folder ini">
-<!ENTITY renamefolderclickhere.label "klik di sini untuk memilih folder">
 <!ENTITY filemessageschoosethis.label "pilih folder ini">
-<!ENTITY filemessagesclickhere.label "klik di sini untuk memilih folder">
-<!ENTITY chooseaccountclickhere.label "Klik di sini untuk memilih akun">
-<!ENTITY choosefolderclickhere.label "Klik di sini untuk memilih folder">
-<!ENTITY chooseserverToDeferTo.label "klik di sini untuk memilih akun untuk menyimpan pesan">

@@ -30,7 +30,7 @@
 <!ENTITY ScreenName.accesskey "L">
 <!ENTITY allowRemoteContent.label "Izinkan gambar daring dalam email HTML.">
 <!ENTITY allowRemoteContent.accesskey "H">
-<!ENTITY Phones.box "Telepon">
+<!ENTITY allowRemoteContent.tooltip "Gambar dimungkinkan untuk dimasukkan dalam pesan dalam format HTML yang berasal dari sumber daring. Jika pesan ini dibuka, sebuah sambungan akan dibuat ke sumber eksternal. Dengan cara ini, pesan yang dibuka akan dapat diketahui apakah sudah dibuka atau tidak. Dengan mengaktifkan pengaturan ini, gambar dalam pesan berformat HTML seperti yang telah dijelaskan akan ditampilkan dari kontak ini.">
 <!ENTITY WorkPhone.label "Kantor:">
 <!ENTITY WorkPhone.accesskey "k">
 <!ENTITY HomePhone.label "Rumah:">
@@ -41,9 +41,8 @@
 <!ENTITY PagerNumber.accesskey "P">
 <!ENTITY CellularNumber.label "Handphone:">
 <!ENTITY CellularNumber.accesskey "H">
-<!ENTITY Address.tab "Alamat">
-<!ENTITY Address.accesskey "A">
-<!ENTITY Home.box "Rumah">
+<!ENTITY Home.tab "Rumah">
+<!ENTITY Home.accesskey "r">
 <!ENTITY HomeAddress.label "Alamat:">
 <!ENTITY HomeAddress.accesskey "A">
 <!ENTITY HomeAddress2.label "">
@@ -58,7 +57,8 @@
 <!ENTITY HomeCountry.accesskey "N">
 <!ENTITY HomeWebPage.label "URL Web:">
 <!ENTITY HomeWebPage.accesskey "U">
-<!ENTITY Work.box "Kantor">
+<!ENTITY Work.tab "Kantor">
+<!ENTITY Work.accesskey "k">
 <!ENTITY JobTitle.label "Pekerjaan:">
 <!ENTITY JobTitle.accesskey "P">
 <!ENTITY Department.label "Departemen:">
@@ -94,5 +94,5 @@
 <!ENTITY Custom3.accesskey "3">
 <!ENTITY Custom4.label "Suka-suka 4:">
 <!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.box "Catatan">
+<!ENTITY Notes.label "Catatan">
 <!ENTITY Notes.accesskey "C">

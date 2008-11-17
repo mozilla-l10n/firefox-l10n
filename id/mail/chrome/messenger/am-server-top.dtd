@@ -1,9 +1,5 @@
 <!ENTITY securitySettings.label "Pengaturan Keamanan">
 <!ENTITY serverSettings.label "Pengaturan Server">
-<!ENTITY popServer.label "Server Mail POP">
-<!ENTITY imapServer.label "Server Mail IMAP">
-<!ENTITY newsServer.label "Server News (NNTP)">
-<!ENTITY webmail.label "Akun Webmail">
 <!ENTITY serverType.label "Jenis Server:">
 <!ENTITY serverName.label "Nama Server:">
 <!ENTITY serverName.accesskey "S">
@@ -40,9 +36,7 @@
 <!ENTITY deleteOnServer2.accesskey "h">
 <!ENTITY downloadOnBiff.label "Otomatis mengunduh pesan baru">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY hostname.label "Hostname Server">
 <!ENTITY username.label "Nama Log-Masuk Anda">
-<!ENTITY popServerTitle.label "Informasi Server POP">
 <!ENTITY deleteMessagePrefix.label "Ketika saya menghapus pesan:">
 <!ENTITY modelMoveToTrash.label "Pindahkan ke folder:">
 <!ENTITY modelMoveToTrash.accesskey "o">

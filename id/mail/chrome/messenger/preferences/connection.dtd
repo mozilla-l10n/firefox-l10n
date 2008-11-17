@@ -13,10 +13,6 @@
 <!ENTITY autoTypeRadio.accesskey "u">
 <!ENTITY reload.label "Muat ulang">
 <!ENTITY reload.accesskey "u">
-<!ENTITY ftp.label "Proxy untuk FTP:">
-<!ENTITY ftp.accesskey "f">
-<!ENTITY gopher.label "Proxy untuk Gopher:">
-<!ENTITY gopher.accesskey "g">
 <!ENTITY http.label "Proxy untuk HTTP:">
 <!ENTITY http.accesskey "h">
 <!ENTITY ssl.label "Proxy untuk SSL:">

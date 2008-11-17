@@ -5,7 +5,6 @@
 <!ENTITY ListNickName.label "Daftar Alias:">
 <!ENTITY ListDescription.label "Keterangan:">
 <!ENTITY AddressTitle.label "Masukkan alamat email untuk ditambahkan ke milis:">
-<!ENTITY RemoveButton.label "Hapus">
 <!ENTITY UpButton.label "Geser Atas">
 <!ENTITY DownButton.label "Geser Bawah">
 <!ENTITY addToAddressBook.accesskey "A">

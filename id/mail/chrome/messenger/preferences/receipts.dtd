@@ -1,5 +1,4 @@
 <!ENTITY dialog.title "Tanda Konfirmasi Diterima">
-<!ENTITY receiptSettings.label "Tanda Konfirmasi Diterima">
 <!ENTITY requestReceipt.label "Ketika mengirim, selalu minta tanda konfirmasi diterima">
 <!ENTITY requestReceipt.accesskey "k">
 <!ENTITY receiptArrive.label "Saat tanda konfirmasi datang:">
