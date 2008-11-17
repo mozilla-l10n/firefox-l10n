@@ -1,5 +1,5 @@
 <!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
 
 <!ENTITY title.label "Shkarkim Dëshmie">
-<!ENTITY info.message "Po kërkoj për dëshmi marrësish te drejtoria. Kjo mund të dojë pak minuta.">
+<!ENTITY info.message "Po kërkohet për dëshmi marrësish te drejtoria. Kjo mund të dojë pak minuta.">
 <!ENTITY stop.label "Ndalo së Kërkuari">

@@ -21,7 +21,7 @@
 <!ENTITY importItems.title              "Objekte për Importim">
 <!ENTITY importItems.label              "Përzgjidhni cilët objekte të importohen:">
 
-<!ENTITY migrating.title                "Po importoj...">
+<!ENTITY migrating.title                "Po importohet...">
 <!ENTITY migrating.label                "Objektet vijues janë duke u importuar...">
 
 <!ENTITY selectProfile.title            "Përzgjidhni Profil">

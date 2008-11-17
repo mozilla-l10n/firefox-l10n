@@ -53,17 +53,17 @@ Install_MessageInstall=Rregullimi tani do të instalojë përbërësit vijues:
 Install_MessageDownload=Rregullimi do të shkarkojë dhe instalojë tani përbërësit vijues:
 Install_Message0=Klikoni Pasues për të vazhduar.
 
-Downloading_Title=Po shkarkoj
-Downloading_SubTitle=Po shkarkoj përbërësit e nevojshëm...
+Downloading_Title=Po shkarkohen
+Downloading_SubTitle=Po shkarkohen përbërësit e nevojshëm...
 Downloading_Blurb=Rregullimi po shkarkon kartelat e nevojshme për instalimin e $ProductName$-it.
-Downloading_FileName=Tani Po Shkarkoj:
+Downloading_FileName=Tani Po Shkarkohet:
 Downloading_Time=Kohë e Mbetur:
 
-Installing_Title=Po instaloj
-Installing_SubTitle=Po instaloj $ProductName$-in...
+Installing_Title=Po instalohen
+Installing_SubTitle=Po instalohet $ProductName$-i...
 Installing_Blurb=Rregullimi po instalon kartelat e zbatimit. 
-Installing_Status=Po përgatis Kartelë:
-Installing_Component=Tani Po Instaloj:
+Installing_Status=Po përgatitet Kartela:
+Installing_Component=Tani Po Instalohet:
 
 Success_Title=Instalim i Plotë
 Success_Header=Instalim i Plotë
@@ -73,7 +73,7 @@ Success_Launch=Nis %s-in tani.
 
 Check_Message=Shkarkimi i $ProductName$-it qe i sukseshëm. $ProductNameInternal$-i duhet mbyllur që të mund të vazhdohet me instalimin. Klikoni OK për të dalë automatikisht prej $ProductNameInternal$-it dhe për të filluar instalimin.
 Check_FullMessage=$ProductNameInternal$-i duhet mbyllur për të vazhduar me instalimin. Klikoni OK për të dalë automatikisht prej $ProductNameInternal$-it dhe për të filluar instalimin.
-Check_Wait=Po mbyll $ProductNameInternal$-in.  Ju lutem prisni...
+Check_Wait=Po mbyllet $ProductNameInternal$-i.  Ju lutem prisni...
 
 Component_XPCOM=COM Ndërplatformëshe
 Component_Mail=$ProductName$

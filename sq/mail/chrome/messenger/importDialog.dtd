@@ -64,7 +64,7 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY select.label             "Përzgjidhni llojin e materialit për t&apos;u importuar:">
 
 <!ENTITY title.label              "Titull">
-<!ENTITY processing.label         "Po importoj...">
+<!ENTITY processing.label         "Po importohet...">
 
 <!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x ka një vendndodhje postimi për secilën kartë, kurse &brandShortName; ka dy (Shtëpie dhe Pune).">
 <!ENTITY FieldDiscInputText2.label  "Përzgjidhni kategorinë në të cilën doni të ruhen vendndodhjet e importuara të postës:">

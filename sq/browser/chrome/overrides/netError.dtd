@@ -6,7 +6,7 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "I pazoti të lidhem">
+<!ENTITY connectionFailure.title "I pazoti të lidhet">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Kjo vendndodhje është e ndaluar">
@@ -92,7 +92,7 @@
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title "I pazoti të gjej shërbyesin ndërmjetës">
+<!ENTITY proxyResolveFailure.title "I pazoti të gjejë shërbyesin ndërmjetës">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>Kontrolloni rregullimet për ndërmjetësin, për t&apos;u siguruar që janë të saktë.</li>

@@ -1,7 +1,7 @@
 <!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
 <!ENTITY sendWindow.title "Dërgim Mesazhesh"> 
-<!ENTITY titlePrefixSave "Po ruaj Mesazhe -"> 
-<!ENTITY titlePrefixSend "Po dërgoj Mesazhe -"> 
+<!ENTITY titlePrefixSave "Po ruhen Mesazhe -"> 
+<!ENTITY titlePrefixSend "Po dërgohen Mesazhe -"> 
 <!ENTITY status   "Gjendje:"> 
 <!ENTITY progress "Përmbushje:">
 

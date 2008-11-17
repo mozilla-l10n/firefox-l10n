@@ -29,7 +29,7 @@
 <!ENTITY rights.intro-point3-unbranded "Çfarëdo rregulli vetësi që prek këtë produkt do të duhej të figuronte këtu.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; also offers optional web site information services, such as the SafeBrowsing service; however, we cannot guarantee they are 100&#37; accurate or error-free. More details, including information on how to disable the services, can be found in the ">
+<!ENTITY rights.intro-point4a "&brandShortName;-i ofron po ashtu shërbime opsionale të dhënash &quot;site&quote;-esh web, të tillë si shërbimi SafeBrowsing; megjithatë, nuk mund të garantojmë që këta janë 100&#37; të përpiktë dhe pa gabime. Më tepër hollësi, përfshi të dhëna rreth çaktivizimit të shërbimeve, mund të gjenden te ">
 <!ENTITY rights.intro-point4b "kushte shërbimi">
 <!ENTITY rights.intro-point4c ".">
 
@@ -45,7 +45,7 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName;-i përdor shërbime (&quot;Shërbime&quot;) të dhënash &quot;site&quot;-i web, të tillë si shërbimi SafeBrowsing, të cilët janë të passhëm për përdorimin nga ana juaj me këtë version dyor të &brandShortName;-it siç përshkruhet më poshtë. Nëse nuk doni të përdoren Shërbimet apo kushtet e mëposhtme janë të papranueshme, mund ta çaktivizoni shërbimin SafeBrowsing duke hapur parapëlqimet e zbatimit, duke përzgjedhur ndarjen">
+<!ENTITY rights.webservices-a "&brandFullName;-i përdor shërbime (&quot;Shërbime&quot;) të dhënash &quot;site&quot;-i web, të tillë si shërbimi SafeBrowsing, të cilët janë të passhëm për përdorimin nga ana juaj me këtë version dyor të &brandShortName;-it siç përshkruhet më poshtë. Nëse nuk doni të përdoren Shërbimet, apo kushtet e mëposhtme janë të papranueshme, mund ta çaktivizoni shërbimin SafeBrowsing duke hapur parapëlqimet e zbatimit, duke përzgjedhur ndarjen">
 <!ENTITY rights.webservices-b "Siguri,">
 <!ENTITY rights.webservices-c " dhe duke hequr shenjën prej mundësive për &quot;&blockAttackSites.label;&quot; dhe &quot;&blockWebForgeries.label;&quot;">
 
@@ -63,4 +63,4 @@
 <!-- RISHIH EDHE NJË HERË PJESËN MË POSHTË KU FLITET PËR DETYRIMIN KOLEKTIV (THE COLLECTIVE LIABILITY) Si edhe excluding its conflict of law provisions. -->
 <!ENTITY rights.webservices-term5 "Hiq rastet kur e kërkon ligji, &vendorShortName;, pjesëmarrësit në të, të licencuarit prej saj, dhe shpërndarësit e produkteve të saj nuk do të jenë përgjegjës për çfarëdo dëmi të tërthortë, special, të ardhur si incident, si pasojë, si ndëshkim, ose si shembull, që ka rrjedhur prej ose lidhet në çfarëdo mënyre me përdorimin e &brandShortName;-it dhe Shërbimeve.  Detyrimi kolektiv sipas këtyre kushteve nuk do të kalojë $500 (pesëqind dollarë). Disa autoritete nuk e lejojnë përjashtimin ose kufizimin e disa dëmeve, ndaj ky përjashtim dhe kufizim mund të mos zbatohet në rastin tuaj.">
 <!ENTITY rights.webservices-term6 "&vendorShortName;, kohë pas kohe, mund t&apos;i përditësojë këto kushte sipas nevojës. Këto kushte nuk mund të ndryshohen apo anulohen pa një marrëveshje me shkrim nga  &vendorShortName;.">
-<!ENTITY rights.webservices-term7 "Këto kushte trajtohen nga ligjet e shtetit të Kalifornisë, U.S.A., përjashto përplasje të tij me excluding its conflict of law provisions. Nëse çfarëdo pjese e këtyre kushteve shihet si e pavlefshme ose e padetyrueshme, pjesët e mbetura do të mbesin në fuqi dhe efekt të plotë. Në rast përplasje midis versionit të përkthyer të këtyre kushteve dhe versionit në gjuhën angleze, kontrollin e merr versioni në gjuhën angleze.">
+<!ENTITY rights.webservices-term7 "Këto kushte trajtohen nga ligjet e shtetit të Kalifornisë, U.S.A., përjashto përplasje të tij me dispozita ligjore. Nëse çfarëdo pjese e këtyre kushteve shihet si e pavlefshme ose e padetyrueshme, pjesët e mbetura do të mbesin në fuqi dhe me efekt të plotë. Në rast përplasje midis versionit të përkthyer të këtyre kushteve dhe versionit në gjuhën angleze, kontrollin e merr versioni në gjuhën angleze.">
