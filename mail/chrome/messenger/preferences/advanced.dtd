@@ -6,6 +6,8 @@
 
 <!-- General Settings -->
 
+<!ENTITY enableGloda.label             "Habilitar indexador de mensajes">
+<!ENTITY enableGloda.accesskey         "i">
 <!ENTITY showCondensedAddresses.label  "Mostrar solamente el nombre para las personas de mi libreta de direcciones">
 <!ENTITY showCondensedAddresses.accesskey "p">
 
