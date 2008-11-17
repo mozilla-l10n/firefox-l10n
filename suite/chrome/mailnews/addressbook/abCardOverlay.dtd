@@ -16,7 +16,6 @@
 <!ENTITY DisplayName.accesskey "M">
 <!ENTITY NickName.label "Apodo:">
 <!ENTITY NickName.accesskey "A">
-<!ENTITY Internet.box "Internet">
 <!ENTITY PrimaryEmail.label "Correo electrónico:">
 <!ENTITY PrimaryEmail.accesskey "E">
 <!ENTITY SecondEmail.label "Correo electrónico adicional:">
