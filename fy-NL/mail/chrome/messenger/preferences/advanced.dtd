@@ -6,6 +6,8 @@
 
 <!-- General Settings -->
 
+<!ENTITY enableGloda.label             "Berjocht yndeksearder ynskeakelje">
+<!ENTITY enableGloda.accesskey         "y">
 <!ENTITY showCondensedAddresses.label  "Fan minsken yn myn adresboek allinnich werjeftenamme toane">
 <!ENTITY showCondensedAddresses.accesskey "m">
 
