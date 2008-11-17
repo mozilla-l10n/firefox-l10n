@@ -49,7 +49,7 @@
 <!ENTITY print.label "Imprimir">
 <!ENTITY find.label "Procurar">
 <!ENTITY image.label "Imagem">
-<!ENTITY hline.label "H. Line">
+<!ENTITY hline.label "Linha Horiz.">
 <!ENTITY table.label "Tabela">
 <!ENTITY link.label "Ligação">
 <!ENTITY anchor.label "Âncora">

@@ -40,7 +40,7 @@
 <!ENTITY Legend.accesskey "L">
 
 <!ENTITY EditLegendText.label "Editar Legenda:">
-<!ENTITY EditLegendText.accesskey "T">
+<!ENTITY EditLegendText.accesskey "t">
 <!ENTITY LegendAlign.label "Alinhar Legenda:">
 <!ENTITY LegendAlign.accesskey "A">
 <!ENTITY AlignDefault.label "Pré-definido">

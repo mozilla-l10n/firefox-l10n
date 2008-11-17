@@ -53,7 +53,7 @@
 <!ENTITY ButtonDisabled.label "Desactivado">
 <!ENTITY ButtonDisabled.accesskey "D">
 <!ENTITY AccessKey.label "Chave de Acesso:">
-<!ENTITY AccessKey.accesskey "H">
+<!ENTITY AccessKey.accesskey "h">
 
 <!ENTITY RemoveButton.label "Remover Botão">
 <!ENTITY RemoveButton.accesskey "R">
