@@ -82,11 +82,7 @@
 
 <!ENTITY allowRemoteContent.label       "Permite imagini de la distanță în mesajele HTML.">
 <!ENTITY allowRemoteContent.accesskey   "P">
-<!ENTITY allowRemoteContent.tooltip     "In HTML messages it is possible to
-embed images from remote sources. Opening such a message will open a
-connection to this external source. This may allow tracking of the
-message being read. Checking this box will allow such external embedded
-images in HTML messages from this contact.">
+<!ENTITY allowRemoteContent.tooltip     "În mesajele HTML e posibil să înglobați imagini din surse de la distanță. Deschiderea unor astfel de mesaje necesită conexiunea la aceste surse aflate la distanță. Acest lucru poate divulga faptul că ați citit mesajul. Dacă bifați această opțiune, veți permite încărcarea unor astfel de imagini din mesajele primite de la această persoană de contact.">
 
 <!ENTITY WorkPhone.label                "Serviciu:">
 <!ENTITY WorkPhone.accesskey            "S">
@@ -115,6 +111,11 @@ images in HTML messages from this contact.">
 <!ENTITY HomeCountry.accesskey          "a">
 <!ENTITY HomeWebPage.label              "Pagină web:">
 <!ENTITY HomeWebPage.accesskey          "P">
+<!ENTITY Birthday.label                 "Zi de naștere:">
+<!ENTITY Birthday.accesskey             "Z">
+<!ENTITY Year.emptytext                 "An">
+<!ENTITY Or.value                       "sau">
+<!ENTITY Age.emptytext                  "Vârsta">
 
 <!ENTITY Work.tab                       "Lucru">
 <!ENTITY Work.accesskey                 "L">
@@ -141,11 +142,6 @@ images in HTML messages from this contact.">
 
 <!ENTITY Other.tab                      "Altele">
 <!ENTITY Other.accesskey                "h">
-<!ENTITY Birthday.label                 "Zi de naștere:">
-<!ENTITY Birthday.accesskey             "Z">
-<!ENTITY Year.emptytext                 "An">
-<!ENTITY Or.value                       "sau">
-<!ENTITY Age.emptytext                  "Vârsta">
 <!ENTITY Custom1.label                  "Diverse 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Diverse 2:">
@@ -154,5 +150,5 @@ images in HTML messages from this contact.">
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Diverse 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.label                    "Notes:">
+<!ENTITY Notes.label                    "Note:">
 <!ENTITY Notes.accesskey                "N">

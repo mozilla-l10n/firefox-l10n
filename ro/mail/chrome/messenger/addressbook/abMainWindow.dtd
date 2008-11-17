@@ -35,12 +35,6 @@
 <!ENTITY printAddressBook.label                         "Tipărește agenda de contacte...">
 <!ENTITY printAddressBook.accesskey                     "a">
 
-<!ENTITY quitApplicationCmdWin.label                    "Ieșire"> 
-<!ENTITY quitApplicationCmdWin.accesskey                "e">
-<!ENTITY quitApplicationCmd.label                       "Ieșire"> 
-<!ENTITY quitApplicationCmd.accesskey                   "e">
-<!ENTITY quitApplicationCmd.key "Q">
-
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Editare">
 <!ENTITY editMenu.accesskey                             "E">

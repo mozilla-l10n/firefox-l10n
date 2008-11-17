@@ -79,9 +79,6 @@
 <!ENTITY sendPageCmd.accesskey "T">
 <!ENTITY printSetupCmd.label "Aranjare în pagină...">
 <!ENTITY printSetupCmd.accesskey "A">
-<!ENTITY printPreviewCmd.label "Previzualizare tipărire">
-<!ENTITY printPreviewCmd.accesskey "P">
-<!ENTITY printButtonCmd.label "Imprimă...">
 <!ENTITY printCmd.label "Imprimă...">
 <!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.key "P">
@@ -99,29 +96,8 @@
 <!ENTITY pasteAs.accesskey "a">
 <!ENTITY publishSettings.label "Opțiuni sit publicare...">
 <!ENTITY publishSettings.accesskey "b">
-
-<!-- For a "Paste" submenu when more than 1 
-     clipboard formats are available -->
-<!ENTITY pasteHTMLCmd.label "HTML">
-<!ENTITY pasteHTMLCmd.accesskey "H">
-<!ENTITY pasteTextCmd.label "Text">
-<!ENTITY pasteTextCmd.accesskey "T">
-<!ENTITY pasteImageCmd.label "imagine">
-<!ENTITY pasteImageCmd.accesskey "i">
-<!ENTITY pasteRowsCmd.label "RÂNDURI">
-<!ENTITY pasteRowsCmd.accesskey "R">
-<!ENTITY pasteColumnsCmd.label "COLOANE">
-<!ENTITY pasteColumnsCmd.accesskey "C">
-<!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
-     Set to: "Table" or "Nested Table" depending on context 
-     This accesskey must be in both strings -->
-<!ENTITY pasteTableCmd.accesskey "a">
-<!ENTITY pasteLinkCmd.label "Legătură">
-<!ENTITY pasteLinkCmd.accesskey "L">
 <!ENTITY pasteAsQuotationCmd.label "Lipește ca citat">
 <!ENTITY pasteAsQuotationCmd.accesskey "L">
-<!ENTITY editStripQuotesCmd.label "Îndepărtează ghilimelele">
-<!ENTITY editRewrapCmd.label "Înfășoară rândurile">
 <!ENTITY findCmd.label "Caută și înlocuiește...">
 <!ENTITY findCmd.accesskey "C">
 <!ENTITY findCmd.key "F">
@@ -141,13 +117,6 @@
 <!ENTITY checkSpellingCmd.key "K">
 <!ENTITY validateCmd.label "Validează HTML">
 <!ENTITY validateCmd.accesskey "V">
-<!ENTITY checkLinksCmd.label "Verifică legăturile">
-
-<!-- View menu items -->
-<!ENTITY viewPageSource.label "Sursă pagină">
-<!ENTITY viewPageSource.accesskey "S">
-<!ENTITY viewParagraphMarks.label "Marcatori paragraf">
-<!ENTITY viewParagraphMarks.accesskey "M">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Inserare">
@@ -159,41 +128,16 @@
 <!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "Imagine...">
 <!ENTITY insertImageCmd.accesskey "I">
-<!ENTITY insertImageMapCmd.label "Hartă imagine...">
 <!ENTITY insertHLineCmd.label "Linie Orizontală">
 <!ENTITY insertHLineCmd.accesskey "L">
 <!ENTITY insertTableCmd.label "Tabel...">
 <!ENTITY insertTableCmd.accesskey "T">
-<!ENTITY insertFormMenu.label "formular">
-<!ENTITY insertFormMenu.accesskey "f">
 <!ENTITY insertHTMLCmd.label "HTML...">
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertCharsCmd.label "Caractere și simboluri...">
 <!ENTITY insertCharsCmd.accesskey "C">
-<!ENTITY insertBreakCmd.label "Întrerupere rând">
-<!ENTITY insertBreakCmd.accesskey "n">
 <!ENTITY insertBreakAllCmd.label "Întrerupere sub imagine(i)">
 <!ENTITY insertBreakAllCmd.accesskey "n">
-
-<!-- Insert form menu items -->
-<!ENTITY insertFormCmd.label "Definește formular...">
-<!ENTITY insertFormCmd.accesskey "D">
-<!ENTITY insertInputTagCmd.label "Câmp formular...">
-<!ENTITY insertInputTagCmd.accesskey "C">
-<!ENTITY insertInputImageCmd.label "Imagine formular...">
-<!ENTITY insertInputImageCmd.accesskey "I">
-<!ENTITY insertTextAreaCmd.label "Zonă text...">
-<!ENTITY insertTextAreaCmd.accesskey "Z">
-<!ENTITY insertSelectCmd.label "Listă selecție...">
-<!ENTITY insertSelectCmd.accesskey "L">
-<!ENTITY insertButtonCmd.label "Definește buton...">
-<!ENTITY insertButtonCmd.accesskey "D">
-<!ENTITY insertLabelCmd.label "Definește etichetă">
-<!ENTITY insertLabelCmd.accesskey "D">
-<!ENTITY insertFieldSetCmd.label "Definește set câmpuri...">
-<!ENTITY insertFieldSetCmd.accesskey "D">
-<!ENTITY insertIsIndexCmd.label "Căutare index">
-<!ENTITY insertIsIndexCmd.accesskey "C">
 
 <!-- Used just in context popup. -->
 <!ENTITY spellCheckNoSuggestions.label "(nici o sugestie găsită)">
@@ -238,8 +182,6 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
-<!ENTITY localfontfaceMenu.label "Fonturi locale">
-<!ENTITY localfontfaceMenu.accesskey "F">
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Alegeți mărimea fontului">
@@ -361,19 +303,6 @@
 <!ENTITY advancedPropertiesCmd.label "Proprietăți avansate">
 <!ENTITY advancedPropertiesCmd.accesskey "P">
 
-<!ENTITY NormalAbbr.label "Text">
-<!ENTITY ParagraphAbbr.label "P">  
-<!ENTITY Heading1Abbr.label "H1">
-<!ENTITY Heading2Abbr.label "H2
-">
-<!ENTITY Heading3Abbr.label "H3">
-<!ENTITY Heading4Abbr.label "H4">
-<!ENTITY Heading5Abbr.label "H5">
-<!ENTITY Heading6Abbr.label "H6">
-<!ENTITY BlockquoteAbbr.label "BQ">
-<!ENTITY AddressAbbr.label "Adr.">
-<!ENTITY PreformatAbbr.label "Adr.">
-
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Aliniere">
 <!ENTITY alignMenu.accesskey "A">
@@ -459,8 +388,6 @@
 <!ENTITY tableDeleteMenu.label "Șterge">
 <!ENTITY tableDeleteMenu.accesskey "t">
 
-<!ENTITY tableFix.label "Repară macheta tabelului">
-<!ENTITY tableFix.accesskey "R">
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
@@ -502,7 +429,6 @@
 <!ENTITY linkToolbarCmd.tooltip "Inserează o nouă legătură sau editează proprietățile legăturii selectate">
 <!ENTITY anchorToolbarCmd.label "Ancoră">
 <!ENTITY anchorToolbarCmd.tooltip "Inserează o nouă ancoră cu nume sau editează proprietățile ancorei selectate">
-<!ENTITY textColorCaption.label "Culoare text">
 <!ENTITY TextColorButton.tooltip "Alege culoarea pentru text">
 <!ENTITY BackgroundColorButton.tooltip "Alege culoarea pentru fundal">
 <!ENTITY throbber.tooltip "Pagina principală &vendorShortName;">
@@ -524,17 +450,6 @@
 <!ENTITY alignCenterButton.tooltip "Centrează textul">
 <!ENTITY alignRightButton.tooltip "Aliniază textul la dreapta">
 <!ENTITY alignjustifyButton.tooltip "Aliniază textul la stânga și la dreapta">
-
-<!-- Formatting toolbar not used, but may be in future -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "S">
-
-<!-- Used with color pickers in Format toolbar and Format Menu -->
-<!ENTITY colorPicker.default.label "Culoarea implicită a cititorului">
-<!ENTITY colorPicker.default.accesskey "r">
-<!ENTITY colorLabel.label "Culoare:">
-<!ENTITY ok.label "OK">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normal">

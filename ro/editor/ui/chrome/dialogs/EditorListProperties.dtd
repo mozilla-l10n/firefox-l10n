@@ -47,7 +47,6 @@
 <!ENTITY bulletList.value "Listă cu buline (fără numerotare)">
 <!ENTITY numberList.value "Listă cu numerotare">
 <!ENTITY definitionList.value "Listă cu definiții">
-<!ENTITY changeListMsg.label "La schimbarea tipului listei:">
 <!ENTITY changeEntireListRadio.label "Schimbă întreaga listă">
 <!ENTITY changeEntireListRadio.accessKey "S">
 <!ENTITY changeSelectedRadio.label "Schimbă doar elementele selectate">

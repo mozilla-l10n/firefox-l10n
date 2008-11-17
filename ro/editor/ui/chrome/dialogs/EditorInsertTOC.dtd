@@ -37,7 +37,6 @@
 
 <!ENTITY Window.title        "Tablă de materii">
 <!ENTITY buildToc.label      "Construiește tabla de materii după:">
-<!ENTITY style.label         "Stil:">
 <!ENTITY tag.label           "Etichetă:">
 <!ENTITY class.label         "Clasă:">
 <!ENTITY header1.label       "Nivel 1">

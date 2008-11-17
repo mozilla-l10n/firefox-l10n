@@ -82,7 +82,6 @@
 
 <!ENTITY zoominCmd.label "Apropie">
 <!ENTITY zoomoutCmd.label "Depărtează">
-<!ENTITY delSpotCmd.label "Șterge zonă">
 
 <!-- Keys -->
 <!ENTITY clear.key "C">
