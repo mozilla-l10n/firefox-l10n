@@ -5,6 +5,8 @@
 <!ENTITY itemCertificates.label "الشهادات">
 <!-- General Settings -->
 
+<!ENTITY enableGloda.label             "مكّن مفهرس الرسائل">
+<!ENTITY enableGloda.accesskey         "ف">
 
 <!ENTITY showCondensedAddresses.label "اعرض فقط اسم العرض للأشخاص في دفتر عناويني">
 <!ENTITY showCondensedAddresses.accesskey "ع">
