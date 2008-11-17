@@ -102,8 +102,8 @@
 <!ENTITY calendar.nextmonth.button.tooltip      "Luna viitoare" >
 <!ENTITY calendar.prevmonth.button.tooltip      "Luna trecută" >
 
-<!ENTITY calendar.newtask.button.label          "Sarcină" >
-<!ENTITY calendar.newevent.button.label         "Eveniment" >
+<!ENTITY calendar.newtask.button.label          "Sarcină nouă" >
+<!ENTITY calendar.newevent.button.label         "Eveniment nou" >
 <!ENTITY calendar.edit.button.label             "Editează" >
 <!ENTITY calendar.print.button.label            "Tipărește" >
 

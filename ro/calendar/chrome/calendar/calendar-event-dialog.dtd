@@ -48,7 +48,7 @@
 
 <!ENTITY newevent.from.label                "De la" >
 <!ENTITY newevent.to.label                  "Până la" >
-<!ENTITY newevent.attendees.notify.label    "Notify attendees">
+<!ENTITY newevent.attendees.notify.label    "Anunță participanții">
 
 <!ENTITY newevent.status.label              "Stare" >
 <!ENTITY newevent.status.accesskey          "S" >
@@ -82,8 +82,6 @@
 <!ENTITY  event.menu.file.page.setup.accesskey            "A">
 <!ENTITY  event.menu.file.print.label                     "Tipărește">
 <!ENTITY  event.menu.file.print.accesskey                 "p">
-<!ENTITY  event.menu.file.exit.label                      "Ieșire">
-<!ENTITY  event.menu.file.exit.accesskey                  "I">
 
 <!ENTITY  event.menu.edit.label                           "Editare">
 <!ENTITY  event.menu.edit.accesskey                       "E">
@@ -155,9 +153,9 @@
 <!ENTITY event.help.release.notes.label                   "Note asupra ediției">
 <!ENTITY event.help.release.notes.accesskey               "r">
 <!ENTITY event.help.help.label                            "Manualul pentru &brandShortName;">
-<!ENTITY event.help.help.accesskey                        "h">
+<!ENTITY event.help.help.accesskey                        "M">
 <!ENTITY event.help.about.label                           "Despre &brandShortName;">
-<!ENTITY event.help.about.accesskey                       "a">
+<!ENTITY event.help.about.accesskey                       "D">
 
 <!ENTITY event.invite.attendees.label                     "Invită participanți…">
 <!ENTITY event.invite.attendees.accesskey                 "I">
@@ -351,8 +349,8 @@
 <!ENTITY reminder.action.email.label                    "Trimite un mesaj">
 <!ENTITY reminder.new.label                             "Creează">
 <!ENTITY reminder.delete.label                          "Șterge">
-<!ENTITY reminder.relation.start.label                  "the event starts">
-<!ENTITY reminder.relation.end.label                    "the event ends">
+<!ENTITY reminder.relation.start.label                  "începerea evenimentului">
+<!ENTITY reminder.relation.end.label                    "încheierea evenimentului">
 <!ENTITY reminder.add.label                             "Adaugă">
 <!ENTITY reminder.add.accesskey                         "A">
 <!ENTITY reminder.remove.label                          "Șterge">
@@ -385,7 +383,7 @@
 <!ENTITY read.only.reply.label           "Răspunde:">
 <!ENTITY read.only.accept.label          "Voi participa">
 <!ENTITY read.only.decline.label         "Nu voi participa">
-<!ENTITY read.only.tentative.label       "I might attend">
+<!ENTITY read.only.tentative.label       "S-ar putea să particip">
 <!ENTITY read.only.needs.action.label    "Voi confirma mai târziu">
 <!ENTITY read.only.reminder.label        "Memento:">
 <!ENTITY read.only.attendees.label       "Participanți">
