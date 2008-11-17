@@ -70,7 +70,6 @@
 <!ENTITY NickName.label                 "Slapyvardis">
 <!ENTITY NickName.accesskey             "l">
 
-<!ENTITY Internet.box                   "Internetas">
 <!ENTITY PrimaryEmail.label             "El. pašto adresas:">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Papildomas el. pašto adresas:">
