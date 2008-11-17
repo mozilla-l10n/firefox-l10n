@@ -327,7 +327,7 @@
 <!ENTITY invite.title.label              "Invită participanți">
 <!ENTITY event.organizer.label           "Organizator">
 <!ENTITY event.freebusy.suggest.slot     "Sugerați intervalul orar:">
-<!ENTITY event.freebusy.next.slot        "Next slot " >
+<!ENTITY event.freebusy.next.slot        "Intervalul următor " >
 <!ENTITY event.freebusy.previous.slot    " Intervalul precedent" >
 <!ENTITY event.freebusy.zoom             "Scalare:">
 <!ENTITY event.freebusy.plus             "Ora următoare" >

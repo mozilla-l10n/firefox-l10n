@@ -159,7 +159,7 @@
 <!ENTITY releaseCmd.accesskey                              "r">
 
 <!ENTITY aboutCmd.label                                    "Despre &brandFullName;">
-<!ENTITY aboutCmd.accesskey                                "a">
+<!ENTITY aboutCmd.accesskey                                "D">
 
 <!ENTITY updateCmd.label                                   "Caută actualizări...">
 <!ENTITY updateCmd.accesskey                               "C">
