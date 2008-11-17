@@ -3,15 +3,12 @@
 <!ENTITY titleSeparator.label " - ">
 <!ENTITY newFolderCmd.label "Folder…">
 <!ENTITY newFolderCmd.accesskey "F">
-<!ENTITY newTabCmd.label "Tab Baru">
-<!ENTITY newTabCmd.accesskey "T">
 <!ENTITY closeTabCmd.label "Tutup Tab">
 <!ENTITY closeTabCmd.accesskey "u">
 <!ENTITY newVirtualFolderCmd.label "Pencarian Tersimpan…">
 <!ENTITY newVirtualFolderCmd.accesskey "c">
 <!ENTITY newAccountCmd.label "Akun…">
 <!ENTITY newAccountCmd.accesskey "A">
-<!ENTITY openMessageMenu.label "Buka">
 <!ENTITY openMessageFileCmd.label "Buka Pesan Tersimpan…">
 <!ENTITY openMessageFileCmd.accesskey "P">
 <!ENTITY openAttachmentCmd.label "Lampiran">
@@ -42,7 +39,7 @@
 <!ENTITY renameFolder.accesskey "G">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Padatkan Folder">
-<!ENTITY compactFolder.accesskey "d">
+<!ENTITY compactFolders.accesskey "d">
 <!ENTITY emptyTrashCmd.label "Kosongkan Tong Sampah">
 <!ENTITY emptyTrashCmd.accesskey "o">
 <!ENTITY importCmd.label "Impor…">
@@ -64,7 +61,6 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Pratinjau Cetak">
 <!ENTITY printPreviewCmd.accesskey "j">
-<!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "Tata Halaman…">
 <!ENTITY printSetupCmd.accesskey "H">
 <!ENTITY deleteMsgCmd.label "Hapus Pesan">
@@ -123,8 +119,6 @@
 <!ENTITY messagePaneWide.accesskey "M">
 <!ENTITY messagePaneVertical.label "Tampilan Tegak">
 <!ENTITY messagePaneVertical.accesskey "T">
-<!ENTITY threadPaneWide.label "Tampilan Daftar Melebar">
-<!ENTITY threadPaneWide.accesskey "i">
 <!ENTITY showMessageCmd.label "Panel Pesan">
 <!ENTITY showMessageCmd.accesskey "P">
 <!ENTITY folderView.label "Folder">
@@ -177,15 +171,12 @@
 <!ENTITY sortUnthreaded.accesskey "a">
 <!ENTITY groupBySort.label "Kelompokkan dengan Urutan">
 <!ENTITY groupBySort.accesskey "K">
-<!ENTITY groupBySortCmd.key "K">
 <!ENTITY msgsMenu.label "Pesan">
 <!ENTITY msgsMenu.accesskey "P">
 <!ENTITY threads.label "Alur Bahasan">
 <!ENTITY threads.accesskey "A">
 <!ENTITY allMsgsCmd.label "Semua">
 <!ENTITY allMsgsCmd.accesskey "S">
-<!ENTITY expandOrCollapseMenu.label "Ekspansi/Rubuhkan">
-<!ENTITY expandOrCollapseMenu.accesskey "k">
 <!ENTITY expandAllThreadsCmd.label "Ekspansi Semua Alur Bahasan">
 <!ENTITY expandAllThreadsCmd.accesskey "E">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -216,27 +207,26 @@
 <!ENTITY bodyAsPlaintext.accesskey "B">
 <!ENTITY viewAttachmentsInlineCmd.label "Tampilkan Lampiran Tanpa Dipisah dari Pesan">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "A">
-<!ENTITY reloadCmd.label "Muat Ulang">
-<!ENTITY reloadCmd.accesskey "U">
-<!ENTITY stopCmd.label "Berhenti">
-<!ENTITY stopCmd.accesskey "B">
-<!ENTITY textZoomEnlargeCmd.label "Naikkan">
-<!ENTITY textZoomEnlargeCmd.accesskey "N">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
-<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY textZoomReduceCmd.label "Turunkan">
-<!ENTITY textZoomReduceCmd.accesskey "T">
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomResetCmd.commandkey "0">
-<!ENTITY textZoomResetCmd.label "Normal">
-<!ENTITY textZoomResetCmd.accesskey "N">
-<!ENTITY textSize.label "Ukuran Teks">
-<!ENTITY textSize.accesskey "T">
+<!ENTITY fullZoomEnlargeCmd.label "Perbesar">
+<!ENTITY fullZoomEnlargeCmd.accesskey "b">
+<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomReduceCmd.label "Perkecil">
+<!ENTITY fullZoomReduceCmd.accesskey "k">
+<!ENTITY fullZoomReduceCmd.commandkey "-">
+<!ENTITY fullZoomReduceCmd.commandkey2 "">
+<!ENTITY fullZoomResetCmd.label "Normal">
+<!ENTITY fullZoomResetCmd.accesskey "N">
+<!ENTITY fullZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomResetCmd.commandkey2 "">
+<!ENTITY fullZoomToggleCmd.label "Perbesar Teks Saja">
+<!ENTITY fullZoomToggleCmd.accesskey "T">
+<!ENTITY fullZoom.label "Perbesaran">
+<!ENTITY fullZoom.accesskey "P">
 <!ENTITY pageSourceCmd.label "Kode Sumber Pesan">
 <!ENTITY pageSourceCmd.accesskey "P">
 <!ENTITY pageSourceCmd.key "u">
-<!ENTITY searchMenu.label "Cari">
-<!ENTITY searchMenu.accesskey "C">
 <!ENTITY findMenu.label "Cari">
 <!ENTITY findMenu.accesskey "C">
 <!ENTITY findCmd.label "Cari dalam Isi Pesan…">
@@ -266,8 +256,8 @@
 <!ENTITY nextStarredMsgCmd.label "Pesan Berbintang">
 <!ENTITY nextStarredMsgCmd.accesskey "t">
 <!ENTITY nextUnreadThread.label "Alur Bahasan yang Belum Dibaca">
-<!ENTITY nextUnreadThreadCmd.accesskey "A">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "A">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Sebelumnya">
 <!ENTITY prevMenu.accesskey "S">
 <!ENTITY prevMsgCmd.label "Pesan">
@@ -316,14 +306,14 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Buat Filter dari Pesan…">
 <!ENTITY createFilter.accesskey "a">
-<!ENTITY moveMsgMenu.label "Pindahkan">
-<!ENTITY moveMsgMenu.accesskey "P">
+<!ENTITY moveMsgToMenu.label "Pindahkan">
+<!ENTITY moveMsgToMenu.accesskey "P">
 <!ENTITY moveCopyMsgRecentMenu.label "Terbaru">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "T">
 <!ENTITY copyMessageLocation.label "Salin Lokasi Pesan">
 <!ENTITY copyMessageLocation.accesskey "L">
-<!ENTITY copyMsgMenu.label "Salin">
-<!ENTITY copyMsgMenu.accesskey "S">
+<!ENTITY copyMsgToMenu.label "Salin">
+<!ENTITY copyMsgToMenu.accesskey "S">
 <!ENTITY moveToFolderAgain.label "Pindahkan Lagi">
 <!ENTITY moveToFolderAgain.accesskey "L">
 <!ENTITY moveToFolderAgainCmd.key "m">
@@ -357,8 +347,6 @@
 <!ENTITY markAsReadCmd.label "Sudah Dibaca">
 <!ENTITY markAsReadCmd.accesskey "D">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "Belum Dibaca">
-<!ENTITY markAsUnreadCmd.accesskey "B">
 <!ENTITY markThreadAsReadCmd.label "Alur Bahasan Dibaca">
 <!ENTITY markThreadAsReadCmd.accesskey "b">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -383,7 +371,6 @@
 <!ENTITY openMessageWindowCmd.accesskey "P">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY windowMenu.label "Jendela">
-<!ENTITY windowMenu.accesskey "J">
 <!ENTITY tasksMenu.label "Alat">
 <!ENTITY tasksMenu.accesskey "A">
 <!ENTITY addons.label "Pengaya">
@@ -424,7 +411,6 @@
 <!ENTITY printButton.label "Cetak">
 <!ENTITY stopButton.label "Berhenti">
 <!ENTITY throbberItem.title "Indikator Aktivitas">
-<!ENTITY updatesItem.title "Versi Baru">
 <!ENTITY junkButton.label "Junk">
 <!ENTITY notJunkButton.label "Bukan Junk">
 <!ENTITY addressBookButton.label "Buku Alamat">
@@ -434,7 +420,6 @@
 <!ENTITY tagButton.label "Tag">
 <!ENTITY compactButton.label "Padatkan">
 <!ENTITY advancedButton.tooltip "Pencarian pesan khusus">
-<!ENTITY clearButton.tooltip "Bersihkan kriteria pencarian dan tampilkan semua pesan">
 <!ENTITY getMsgButton.tooltip "Ambil pesan baru">
 <!ENTITY getAllNewMsgCmd.label "Ambil Semua Pesan Baru">
 <!ENTITY getAllNewMsgCmd.accesskey "A">
@@ -500,8 +485,6 @@
 <!ENTITY folderContextSettings.accesskey "e">
 <!ENTITY SearchNameOrEmail.label "Nama atau Email yang mengandung:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
-<!ENTITY clearButton.label "Bersihkan">
-<!ENTITY clearButton.accesskey "B">
 <!ENTITY searchSubjectMenu.label "Judul Subyek">
 <!ENTITY searchFromMenu.label "Dari">
 <!ENTITY searchSubjectOrFromMenu.label "Judul Subyek atau Dari">
@@ -520,7 +503,6 @@
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Ukuran">
 <!ENTITY junkStatusColumn.label "Status Junk">
-<!ENTITY linesColumn.label "Nomor Baris">
 <!ENTITY unreadColumn.label "Belum Dibaca">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Sudah Dibaca">
@@ -577,8 +559,6 @@
 <!ENTITY contextPrint.accesskey "C">
 <!ENTITY contextPrintPreview.label "Pratinjau Cetak">
 <!ENTITY contextPrintPreview.accesskey "P">
-<!ENTITY contextDelete.label "Hapus">
-<!ENTITY contextDelete.accesskey "H">
 <!ENTITY junkBarMessage1.label "Email Junk">
 <!ENTITY junkBarButton1.label "Bukan Junk">
 <!ENTITY junkInfoButton.label "?">
@@ -602,8 +582,6 @@
 <!ENTITY CopyEmailAddress.accesskey "S">
 <!ENTITY CreateFilterFrom.label "Buat Filter Dari…">
 <!ENTITY CreateFilterFrom.accesskey "B">
-<!ENTITY BlockAddress.label "Blokir Alamat">
-<!ENTITY BlockAddress.accesskey "B">
 <!ENTITY reportPhishingURL.label "Laporkan Email Penipuan (Scam)">
 <!ENTITY reportPhishingURL.accesskey "o">
 <!ENTITY saveLinkAsCmd.label "Simpan Tautan dengan Nama…">

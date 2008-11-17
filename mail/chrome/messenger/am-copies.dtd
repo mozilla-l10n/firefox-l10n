@@ -4,12 +4,8 @@
 <!ENTITY fccMailFolder.accesskey "M">
 <!ENTITY fccReplyFollowsParent.label "Masukkan balasan pada folder yang sama dengan folder pesan yang dibalas">
 <!ENTITY fccReplyFollowsParent.accesskey "l">
-<!ENTITY chooseFolderButton.label "Pilih folder…">
 <!ENTITY bccAddress.label "Tambahkan Bcc ke alamat email ini:">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY specialFolderTitle.label "Folder Khusus">
-<!ENTITY draftMailFolder.label "Letakkan konsep pesan di:">
-<!ENTITY templateMailFolder.label "Letakkan templat pesan di:">
 <!ENTITY saveMessageDlg.label "Tampilkan dialog konfirmasi ketika pesan disimpan">
 <!ENTITY saveMessageDlg.accesskey "T">
 <!ENTITY sentFolderOn.label "Folder &quot;Terkirim&quot; di:">

@@ -12,12 +12,9 @@
 <!ENTITY directorySecure.accesskey "S">
 <!ENTITY directoryLogin.label "Bind DN: ">
 <!ENTITY directoryLogin.accesskey "i">
-<!ENTITY advancedOptionsButton.label "Pengaturan Canggih">
-<!ENTITY advancedOptionsButton.accesskey "a">
 <!ENTITY General.tab "Umum">
 <!ENTITY Offline.tab "Offline">
 <!ENTITY Advanced.tab "Canggih">
-<!ENTITY advancedOptionsTitle.label "Pengaturan Canggih">
 <!ENTITY portNumber.label "Nomor port:">
 <!ENTITY portNumber.accesskey "P">
 <!ENTITY searchFilter.label "Filter pencarian:">

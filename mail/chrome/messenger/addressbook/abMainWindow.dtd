@@ -31,11 +31,6 @@
 <!ENTITY printCardViewCmd.key "P">
 <!ENTITY printAddressBook.label "Cetak Buku Alamat…">
 <!ENTITY printAddressBook.accesskey "C">
-<!ENTITY quitApplicationCmdWin.label "Keluar">
-<!ENTITY quitApplicationCmdWin.accesskey "k">
-<!ENTITY quitApplicationCmd.label "Keluar">
-<!ENTITY quitApplicationCmd.accesskey "K">
-<!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY editMenu.label "Ubah">
 <!ENTITY editMenu.accesskey "H">
 <!ENTITY undoCmd.label "Batal">
@@ -54,7 +49,6 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "T">
 <!ENTITY deleteCmd.label "Hapus">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "H">
 <!ENTITY deleteAbCmd.label "Hapus Buku Alamat">
 <!ENTITY deleteCardCmd.label "Hapus Kartu Nama">
@@ -106,7 +100,6 @@
 <!ENTITY exportCmd.label "Ekspor…">
 <!ENTITY exportCmd.accesskey "E">
 <!ENTITY preferencesCmd.label "Pengaturan…">
-<!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "P">
 <!ENTITY preferencesCmdUnix.label "Pengaturan">
 <!ENTITY preferencesCmdUnix.accesskey "P">

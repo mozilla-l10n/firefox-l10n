@@ -2,9 +2,9 @@
 <!ENTITY authorName.label "Penyusun:">
 <!ENTITY authorName.accesskey "u">
 <!ENTITY pageColorHeader "Tampilan Halaman Default">
-<!ENTITY defaultColorsRadio.label "Warna default pembaca (tidak menampilkan warna pada halaman)">
+<!ENTITY defaultColors.label "Warna default pembaca (tidak menampilkan warna pada halaman)">
 <!ENTITY defaultColors.accesskey "d">
-<!ENTITY customColorsRadio.label "Gunakan warna kesukaan:">
+<!ENTITY customColors.label "Gunakan warna kesukaan:">
 <!ENTITY customColors.accesskey "c">
 <!ENTITY normalText.label "Teks Normal">
 <!ENTITY normalText.accesskey "N">

@@ -44,7 +44,6 @@
 <!ENTITY bulletList.value "Daftar Berbutir (Tanpa Nomor)">
 <!ENTITY numberList.value "Daftar Bernomor">
 <!ENTITY definitionList.value "Daftar Definisi">
-<!ENTITY changeListMsg.label "Ketika mengubah jenis daftar:">
 <!ENTITY changeEntireListRadio.label "Ubah semua isi daftar">
 <!ENTITY changeEntireListRadio.accessKey "U">
 <!ENTITY changeSelectedRadio.label "Hanya ubah item yang dipilih">

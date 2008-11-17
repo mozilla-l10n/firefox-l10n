@@ -16,17 +16,12 @@
 <!ENTITY fullnameLabel.accesskey "N">
 <!ENTITY emailLabel.label "Alamat Email:">
 <!ENTITY emailLabel.accesskey "E">
-<!ENTITY emailDesc.label "Masukkan alamat email anda; alamat ini akan digunakan orang lain untuk mengirim email kepada anda">
-<!ENTITY emailExample.label "(contohnya: user@example.net).">
 <!ENTITY serverTitle.label "Informasi Server">
-<!ENTITY incomingServerTitle.label "Server Penerima">
 <!ENTITY incomingServerTypeDesc.label "Pilih jenis server penerima yang anda gunakan">
-<!ENTITY incomingServerTypeLabel.label "Jenis Server:">
 <!ENTITY incomingServerNameDesc.label "Masukkan nama server penerima anda (contohnya, &quot;mail.example.net&quot;).">
 <!ENTITY incomingServerLabel.label "Server Penerima:">
 <!ENTITY incomingServerLabel.accesskey "S">
 <!ENTITY newsServerNameDesc.label "Masukkan nama server news (NNTP) anda (contohnya, &quot;news.example.net&quot;),">
-<!ENTITY smtpServerTitle.label "Server Pengirim (SMTP)">
 <!ENTITY smtpServerDesc.label "Masukkan nama server pengirim (SMTP) anda, (contohnya, &quot;smtp.example.net&quot;),">
 <!ENTITY smtpServerLabel.label "Server Pengirim:">
 <!ENTITY smtpServerLabel.accesskey "P">
@@ -36,7 +31,6 @@
 <!ENTITY imapType.accesskey "I">
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY nntpType.label "Server News">
 <!ENTITY haveSmtp1.prefix "Server pengirim (SMTP) yang sudah ada, &quot;">
 <!ENTITY haveSmtp1.suffix "&quot; akan digunakan. Anda dapat mengubah pengaturan server pengirim dengan memilih Pengaturan Akun dari menu Alat.">
 <!ENTITY loginTitle.label "Nama Pengguna">
@@ -53,7 +47,6 @@
 <!ENTITY haveSmtp3.suffix "&quot; sama dengan server penerima anda, nama pengguna server penerima anda akan digunakan untuk mengakses server ini. Anda dapat mengubah pengaturan server pengirim dengan memilih Pengaturan Akun dari menu Alat.">
 <!ENTITY accnameTitle.label "Nama Akun">
 <!ENTITY accnameDesc.label "Masukkan nama yang ingin anda jadikan sebagai referensi akun ini (contohnya, &quot;Akun Kantor&quot;, &quot;Akun Pribadi&quot;, atau &quot;Akun News&quot;).">
-<!ENTITY accnameExample.label "Contohnya, Akun Kantor, Akun Pribadi, atau Akun News">
 <!ENTITY accnameLabel.label "Nama Akun:">
 <!ENTITY accnameLabel.accesskey "A">
 <!ENTITY completionTitle.label "Selamat!">

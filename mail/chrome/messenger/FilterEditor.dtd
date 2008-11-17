@@ -15,8 +15,6 @@
 <!ENTITY contextBoth.label "Mengecek Email atau Dijalankan Manual">
 <!ENTITY filterActionDesc.label "Lakukan aksi berikut:">
 <!ENTITY filterActionDesc.accesskey "L">
-<!ENTITY newFolderButton.label "Folder Baru…">
-<!ENTITY newFolderButton.accesskey "B">
 <!ENTITY moveMessage.label "Pindahkan Pesan ke">
 <!ENTITY copyMessage.label "Salin Pesan ke">
 <!ENTITY forwardTo.label "Teruskan Pesan ke">

@@ -4,7 +4,6 @@
 <!ENTITY window.unixWidth "41em">
 <!ENTITY language.label "Huruf untuk:">
 <!ENTITY language.accesskey "h">
-<!ENTITY typefaces.label "jenis Huruf">
 <!ENTITY sizes.label "Ukuran (piksel)">
 <!ENTITY proportionalSize.accesskey "e">
 <!ENTITY monospaceSize.accesskey "k">
@@ -16,7 +15,6 @@
 <!ENTITY sans-serif.accesskey "t">
 <!ENTITY monospace.label "Spasi tetap:">
 <!ENTITY monospace.accesskey "s">
-<!ENTITY fontsize.units "piksel">
 <!ENTITY font.langGroup.latin1 "Barat">
 <!ENTITY font.langGroup.latin2 "Eropa Tengah">
 <!ENTITY font.langGroup.japanese "Jepang">
@@ -49,7 +47,6 @@
 <!ENTITY minSize.none "Tidak Ada">
 <!ENTITY useDefaultFontSerif.label "Serif">
 <!ENTITY useDefaultFontSansSerif.label "Tanpa Serif">
-<!ENTITY newLanguages.label "Bahasa baru dapat diatur dengan menggunakan panel Bahasa">
 <!ENTITY useDocumentFonts.label "Izinkan pesan untuk menggunakan font lainnya">
 <!ENTITY useDocumentFonts.accesskey "o">
 <!ENTITY sendDefaultCharset.label "Email Keluar:">

@@ -68,7 +68,6 @@
 <!ENTITY tableCaptionRight.label "Di kanan Tabel">
 <!ENTITY tableCaptionNone.label "Tidak ada">
 <!ENTITY tableInheritColor.label "(Warna latar halaman tembus pandang)">
-<!ENTITY cellPercent.label "persen lebar tabel">
 <!ENTITY cellSelection.label "Pilihan">
 <!ENTITY cellSelectCell.label "Sel">
 <!ENTITY cellSelectRow.label "Baris">
@@ -77,12 +76,7 @@
 <!ENTITY cellSelectNext.accessKey "L">
 <!ENTITY cellSelectPrevious.label "Sebelumnya">
 <!ENTITY cellSelectPrevious.accessKey "n">
-<!ENTITY cellApplyBeforeMove.label "Terapkan perubahan sebelum mengubah pilihan">
-<!ENTITY cellKeepCurrentData.label "Gunakan pengaturan sekarang">
-<!ENTITY applyBeforeChange1.label "Perubahan yang ada akan diterapkan">
-<!ENTITY applyBeforeChange2.label "sebelum mengubah pilihan.">
-<!ENTITY cellRowSpan.label "Gabungan Baris:">
-<!ENTITY cellColSpan.label "Gabungan Kolom:">
+<!ENTITY applyBeforeChange.label "Perubahan yang ada akan diterapkan">
 <!ENTITY cellContentAlignment.label "Rata Isi">
 <!ENTITY cellHorizontal.label "Mendatar:">
 <!ENTITY cellHorizontal.accessKey "M">
@@ -100,7 +94,6 @@
 <!ENTITY cellAlignMiddle.label "Di tengah">
 <!ENTITY cellAlignBottom.label "Di dasar">
 <!ENTITY cellAlignJustify.label "Kiri-Kanan">
-<!ENTITY cellAlignAtChar.label "Pada Karakter:">
 <!ENTITY cellInheritColor.label "(Warna latar tabel tembus pandang)">
 <!ENTITY cellUseCheckboxHelp.label "Gunakan kotak centang untuk menentukan properti mana yang akan diterapkan pada sel yang terpilih">
 <!ENTITY size.label "Ukuran">

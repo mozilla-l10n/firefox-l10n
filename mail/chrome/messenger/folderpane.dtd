@@ -3,5 +3,3 @@
 <!ENTITY unreadColumn.label "Belum Dibaca">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY folderSizeColumn.label "Ukuran">
-<!ENTITY accounts.label "Akun">
-<!ENTITY accounts.img "chrome://messenger/skin/local-mailhost.gif">

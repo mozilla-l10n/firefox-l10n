@@ -16,7 +16,6 @@
 <!ENTITY messageIdField2.label "id-pesan">
 <!ENTITY inReplyToField2.label "sebagai-balasan-kepada">
 <!ENTITY originalWebsite2.label "situs-web">
-<!ENTITY saveAll.label "Simpan Semua…">
 <!ENTITY editMessageDescription.label "Pesan ini masih konsep">
 <!ENTITY editMessageButton.label "Sunting…">
 <!ENTITY replyButton.label "balas…">

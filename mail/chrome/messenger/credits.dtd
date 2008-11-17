@@ -1,23 +1,10 @@
 <!ENTITY credit.title "Kredit &brandFullName;">
 <!ENTITY brandMotto "Ayo Maju Thunderbird!">
 <!ENTITY credit.leads "Pimpinan Teknik">
-<!ENTITY credit.core "Pengembangan Inti">
-<!ENTITY credit.gecko "Mesin Layout Gecko">
 <!ENTITY credit.thanks "Terima Kasih Khusus Kepada">
 <!ENTITY credit.translation "<h3>Translators</h3><ul><li>Dody Suria Wijaya</li><li>Milda Irhamni</li><li>Romi Hardiyanto</li></ul>">
-<!ENTITY credit.visuals "Koordinator Desain Visual">
 <!ENTITY credit.theme "Desain Tema">
-<!ENTITY credit.brand "Identitas Merk">
-<!ENTITY credit.web "Desain Web">
-<!ENTITY credit.update "Mozilla Update">
-<!ENTITY credit.qalead "Pimpinan Quality Assurance">
 <!ENTITY credit.qa "Quality Assurance">
 <!ENTITY credit.build "Build dan Rilis">
-<!ENTITY credit.infra "Dukungan Infrastruktur">
-<!ENTITY credit.support "Sumber Daya Dukungan">
-<!ENTITY credit.manage "Manajemen Proyek">
-<!ENTITY credit.marketleads "Pimpinan Marketing">
-<!ENTITY credit.market "Marketing">
-<!ENTITY credit.creators "Diciptakan Oleh">
 <!ENTITY credit.memory "Untuk Mengenang">
 <!ENTITY credit.poweredByGecko "Didukung oleh Gecko&trade;">

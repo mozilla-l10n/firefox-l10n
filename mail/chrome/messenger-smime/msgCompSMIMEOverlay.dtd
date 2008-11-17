@@ -1,7 +1,5 @@
 <!ENTITY securityMenu.label "Keamanan">
 <!ENTITY securityMenu.accesskey "e">
-<!ENTITY menu_securityEncryptIfPossible.label "Dienkripsi jika Dimungkinkan">
-<!ENTITY menu_securityEncryptIfPossible.accesskey "e">
 <!ENTITY menu_securityEncryptRequire.label "Enkripsikan Pesan Ini">
 <!ENTITY menu_securityEncryptRequire.accesskey "E">
 <!ENTITY menu_securityNoEncryption.label "Jangan Enkripsi Pesan Ini">

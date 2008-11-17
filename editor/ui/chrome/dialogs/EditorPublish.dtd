@@ -66,10 +66,8 @@
 <!ENTITY filename.accesskey "N">
 <!ENTITY filename.tooltip "Masukkan nama untuk berkas ini, termasuk '.html' untuk halaman web">
 <!ENTITY filenameExample.label "contoh,: &quot;halamanwebku.html&quot;">
-<!ENTITY relatedDocs.label "Berkas lain untuk diterbitkan">
 <!ENTITY setDefaultButton.label "Atur sebagai Default">
 <!ENTITY setDefaultButton.accesskey "D">
-<!ENTITY setDefSiteAndDir.label "Atur sebagai Situs dan Direktori Default">
 <!ENTITY removeButton.label "Hapus Situs">
 <!ENTITY removeButton.accesskey "H">
 <!ENTITY publishSites.label "Situs Penerbitan">

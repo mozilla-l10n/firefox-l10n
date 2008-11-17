@@ -51,10 +51,12 @@
 <!ENTITY InputSettings.label "Pengaturan Field">
 <!ENTITY InputName.label "Nama Field:">
 <!ENTITY GroupName.label "Nama Grup:">
-<!ENTITY Name.accesskey "N">
+<!ENTITY GroupName.accesskey "g">
+<!ENTITY InputName.accesskey "N">
 <!ENTITY InputValue.label "Nilai Field:">
+<!ENTITY InputValue.accesskey "f">
 <!ENTITY InitialValue.label "Nilai Awal Isian:">
-<!ENTITY Value.accesskey "N">
+<!ENTITY InitialValue.accesskey "a">
 <!ENTITY InputChecked.label "Aktifkan Saat Awal">
 <!ENTITY InputChecked.accesskey "A">
 <!ENTITY InputSelected.label "Terpilih Saat Awal">

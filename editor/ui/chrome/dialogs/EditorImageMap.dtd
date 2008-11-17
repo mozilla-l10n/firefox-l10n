@@ -70,7 +70,6 @@
 <!ENTITY cpercentCmd.accesskey "4">
 <!ENTITY zoominCmd.label "Perbesar">
 <!ENTITY zoomoutCmd.label "Perkecil">
-<!ENTITY delSpotCmd.label "Hapus Spot">
 <!ENTITY clear.key "d">
 <!ENTITY selectall.key "a">
 <!ENTITY close.key "B">

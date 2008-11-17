@@ -36,10 +36,3 @@ Pengaturan email junk pada setiap akun dapat diatur pada Pengaturan Akun.">
 <!ENTITY antiVirus.intro "&brandShortName; dapat memudahkan perangkat lunak anti-virus untuk menganalisis pesan email masuk dari virus sebelum disimpan secara lokal.">
 <!ENTITY antiVirus.label "Izinkan perangkat lunak anti-virus untuk memasukkan pesan secara terpisah ke dalam karantina">
 <!ENTITY antiVirus.accesskey "l">
-<!ENTITY antiVirusCaption.label "Anti-Virus">
-<!ENTITY paswords.label "Kata Sandi">
-<!ENTITY emailScams.label "Email Penipuan">
-<!ENTITY junkMail.label "Email Junk">
-<!ENTITY itemIntrusions.label "Penyusupan Gangguan">
-<!ENTITY itemIntrusionsAndPasswords.label "Kata Sandi &amp; Penyusupan Gangguan">
-<!ENTITY itemJunkMail.label "Email Junk">
