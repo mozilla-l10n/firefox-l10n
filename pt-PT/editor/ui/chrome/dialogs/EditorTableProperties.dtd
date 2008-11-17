@@ -51,7 +51,7 @@
 <!ENTITY tableWidth.accessKey "L">
 <!ENTITY tableBorderSpacing.label "Limites e Espaçamento">
 <!ENTITY tableBorderWidth.label "Limite:">
-<!ENTITY tableBorderWidth.accessKey "I">
+<!ENTITY tableBorderWidth.accessKey "i">
 <!ENTITY tableSpacing.label "Espaçamento:">
 <!ENTITY tableSpacing.accessKey "ç">
 <!ENTITY tablePadding.label "Padding:">

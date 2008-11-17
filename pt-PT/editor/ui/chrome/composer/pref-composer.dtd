@@ -3,7 +3,7 @@
 <!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
 
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
-<!ENTITY pref.composer.title "Composer">
+<!ENTITY pref.composer.title "Compositor">
 <!ENTITY recentFiles.title "Menu de Páginas Recentes">
 <!ENTITY documentsInMenu.label "Número Máximo de Páginas na Lista:">
 <!ENTITY documentsInMenu.accesskey "n">

@@ -53,7 +53,7 @@
 <!ENTITY altText.accessKey "A">
 <!ENTITY altTextEditField.tooltip "Escrever  texto a mostrar em vez da imagem">
 <!ENTITY noAltText.label "Não usar texto alternativo">
-<!ENTITY noAltText.accessKey "U">
+<!ENTITY noAltText.accessKey "u">
 
 <!ENTITY previewBox.label "Pré-Visualizar Imagem">
 

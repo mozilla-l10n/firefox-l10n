@@ -37,7 +37,7 @@
 
 <!ENTITY windowTitle.label "Cor">
 <!ENTITY lastPickedColor.label "Última cor escolhida">
-<!ENTITY lastPickedColor.accessKey "L">
+<!ENTITY lastPickedColor.accessKey "l">
 <!ENTITY setColor1.label "Clique numa cor ou">
 <!ENTITY setColor2.label "introduza um código de cor HTML">
 <!ENTITY setColor2.accessKey "H">

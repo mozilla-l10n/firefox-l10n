@@ -64,11 +64,11 @@
 <!ENTITY pageTitle.label "Título da Página:">
 <!ENTITY pageTitle.accesskey "T">
 <!ENTITY pageTitle.tooltip "Introduza um título para identificar a página na janela e nos marcadores">
-<!ENTITY pageTitleExample.label "e.g.: &quot;My Web Page&quot;">
+<!ENTITY pageTitleExample.label "ex.: &quot;A minha página web&quot;">
 <!ENTITY filename.label "Nome do ficheiro:">
 <!ENTITY filename.accesskey "F">
 <!ENTITY filename.tooltip "Introduza um nome para este ficheiro, incluindo'.html' para páginas web">
-<!ENTITY filenameExample.label "e.g,: &quot;mypage.html&quot;">
+<!ENTITY filenameExample.label "e.g,: &quot;minhapagina.html&quot;">
 <!ENTITY setDefaultButton.label "Aplicar como Pré-Definição">
 <!ENTITY setDefaultButton.accesskey "D">
 <!ENTITY removeButton.label "Remover Sítio">
