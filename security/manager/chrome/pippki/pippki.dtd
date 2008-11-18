@@ -64,3 +64,7 @@
 <!ENTITY protectedAuth.title "Autentificacion protegida per geton">
 <!ENTITY protectedAuth.msg "Autentificatz-vos al geton. Lo metòde d'autentificacion depen del tipe de vòstre geton.">
 <!ENTITY protectedAuth.tokenName.label "Geton :">
+<!ENTITY certErrorDlg.title "La connexion segura a pas capitat">
+<!ENTITY certErrorDlg.info1 "Lo problèma poiriá venir de la configuracion del servidor o del fach que qualqu'un es a ensajar de s'apropriar lo servidor.">
+<!ENTITY certErrorDlg.info2 "Se vos sètz ja connectat a-n aqueste servidor amb succès, benlèu que l'error es temporària, tornatz ensajar pus tard.">
+

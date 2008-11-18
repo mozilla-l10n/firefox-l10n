@@ -5,6 +5,7 @@
 <!ENTITY aboutWarningCheckbox.label "Afichar aqueste avertiment lo còp que ven">
 <!ENTITY filterPrefs.label "Filtre :">
 <!ENTITY filterPrefs.accesskey "I">
+<!ENTITY focusFilter.key "f">
 <!ENTITY prefColumn.label "Nom de l'opcion">
 <!ENTITY lockColumn.label "Estat">
 <!ENTITY typeColumn.label "Mena">
