@@ -87,7 +87,7 @@
 <!ENTITY customizeToolbar.accesskey "t">
 <!ENTITY showCardPane.label         "Panel wizytówek">
 <!ENTITY showCardPane.accesskey     "P">
-<!ENTITY menu_ShowNameAs.label      "Pokaż nazwę jako">
+<!ENTITY menu_ShowNameAs.label      "Pokazuj nazwę jako">
 <!ENTITY menu_ShowNameAs.accesskey  "z">
 <!ENTITY firstLastCmd.label         "Imię, nazwisko">
 <!ENTITY firstLastCmd.accesskey     "I">
@@ -95,7 +95,7 @@
 <!ENTITY lastFirstCmd.accesskey     "n">
 <!ENTITY displayNameCmd.label       "Wyświetlana nazwa">
 <!ENTITY displayNameCmd.accesskey   "W">
-<!ENTITY sortMenu.label             "Sortuj według">
+<!ENTITY sortMenu.label             "Sortowanie według">
 <!ENTITY sortMenu.accesskey         "S">
 
 <!-- Tools Menu -->

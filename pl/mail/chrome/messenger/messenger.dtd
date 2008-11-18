@@ -141,8 +141,8 @@
 <!ENTITY recentFolders.accesskey   "O">
 
 <!-- Sort Menu -->
-<!ENTITY sortMenu.label "Sortuj według">
-<!ENTITY sortMenu.accesskey "S">
+<!ENTITY sortMenu.label                         "Sortowanie według">
+<!ENTITY sortMenu.accesskey                     "S">
 <!ENTITY sortByDateCmd.label "Daty">
 <!ENTITY sortByDateCmd.accesskey "D">
 <!ENTITY sortByReceivedCmd.label     "Daty otrzymania">
@@ -190,12 +190,12 @@
 <!ENTITY threads.accesskey "T">
 <!ENTITY allMsgsCmd.label "Wszystkie">
 <!ENTITY allMsgsCmd.accesskey "W">
-<!ENTITY expandAllThreadsCmd.label "Rozwiń wszystkie wątki">
-<!ENTITY expandAllThreadsCmd.accesskey "R">
-<!ENTITY expandAllThreadsCmd.key "*">
-<!ENTITY collapseAllThreadsCmd.label "Zwiń wszystkie wątki">
-<!ENTITY collapseAllThreadsCmd.accesskey "Z">
-<!ENTITY collapseAllThreadsCmd.key "/">
+<!ENTITY expandAllThreadsCmd.label              "Rozwijaj wszystkie wątki">
+<!ENTITY expandAllThreadsCmd.accesskey          "R">
+<!ENTITY expandAllThreadsCmd.key                "*">
+<!ENTITY collapseAllThreadsCmd.label            "Zwijaj wszystkie wątki">
+<!ENTITY collapseAllThreadsCmd.accesskey        "Z">
+<!ENTITY collapseAllThreadsCmd.key              "/">
 <!ENTITY unreadMsgsCmd.label "Nieprzeczytane">
 <!ENTITY unreadMsgsCmd.accesskey "N">
 <!ENTITY threadsWithUnreadCmd.label "Przeczytane z nowymi wiadomościami">
@@ -204,22 +204,22 @@
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "l">
 <!ENTITY ignoredThreadsCmd.label "Zignorowane wątki">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
-<!ENTITY headersMenu.label "Pokaż nagłówki">
-<!ENTITY headersMenu.accesskey "P">
+<!ENTITY headersMenu.label                      "Pokazuj nagłówki">
+<!ENTITY headersMenu.accesskey                  "P">
 <!ENTITY headersAllCmd.label "Wszystkie">
 <!ENTITY headersAllCmd.accesskey "W">
 <!ENTITY headersNormalCmd.label "Standardowe">
 <!ENTITY headersNormalCmd.accesskey "S">
-<!ENTITY bodyMenu.label "Wyświetl wiadomość jako">
-<!ENTITY bodyMenu.accesskey "O">
+<!ENTITY bodyMenu.label                         "Wyświetlaj wiadomości jako">
+<!ENTITY bodyMenu.accesskey                     "o">
 <!ENTITY bodyAllowHTML.label "Oryginalny HTML">
 <!ENTITY bodyAllowHTML.accesskey "H">
 <!ENTITY bodySanitized.label "Uproszczony HTML">
 <!ENTITY bodySanitized.accesskey "S">
 <!ENTITY bodyAsPlaintext.label "Zwykły tekst">
 <!ENTITY bodyAsPlaintext.accesskey "Z">
-<!ENTITY viewAttachmentsInlineCmd.label "Pokaż załączniki w treści wiadomości">
-<!ENTITY viewAttachmentsInlineCmd.accesskey "c">
+<!ENTITY viewAttachmentsInlineCmd.label         "Pokazuj załączniki w treści wiadomości">
+<!ENTITY viewAttachmentsInlineCmd.accesskey     "z">
 
 <!-- LOCALIZATION NOTE : fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and fullZoomResetCmd.commandkey2
   are alternative acceleration keys for zoom.
