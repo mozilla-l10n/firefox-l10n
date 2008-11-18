@@ -4,9 +4,9 @@
 <!ENTITY  authorName.accesskey		"u">
 <!ENTITY  pageColorHeader		"既定のページ設定">
 
-<!ENTITY defaultColorsRadio.label	"ページで配色を指定しない">
+<!ENTITY defaultColors.label	"ページで配色を指定しない">
 <!ENTITY defaultColors.accesskey	"d">
-<!ENTITY customColorsRadio.label	"配色を指定する:">
+<!ENTITY customColors.label		"配色を指定する:">
 <!ENTITY customColors.accesskey		"c">
 
 <!ENTITY normalText.label		"通常のテキスト">

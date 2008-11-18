@@ -41,12 +41,12 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label		"ページの配色と背景">
 <!ENTITY pageColors.label		"ページの配色">
-<!ENTITY defaultColorsRadio.label	"ページで配色を指定しない">
+<!ENTITY defaultColorsRadio.label	"ページ独自の配色を指定しない">
 <!ENTITY defaultColorsRadio.accessKey	"D">
-<!ENTITY defaultColorsRadio.tooltip	"読者の使用する既定の色を使用します">
+<!ENTITY defaultColorsRadio.tooltip	"読者側の配色設定が使用されます">
 <!ENTITY customColorsRadio.label	"配色を指定する:">
 <!ENTITY customColorsRadio.accessKey	"C">
-<!ENTITY customColorsRadio.tooltip	"読者の使用する既定の色を上書き指定します">
+<!ENTITY customColorsRadio.tooltip	"読者側の配色設定を上書き指定します">
 
 <!ENTITY normalText.label		"通常のテキスト">
 <!ENTITY normalText.accessKey		"N">
