@@ -103,7 +103,7 @@
 <!ENTITY  event.menu.options.timezone.accesskey               "z">
 <!ENTITY  event.menu.options.priority2.label                  "重要度">
 <!ENTITY  event.menu.options.priority2.accesskey              "y">
-<!ENTITY  event.menu.options.priority.notspecified.label      "なし">
+<!ENTITY  event.menu.options.priority.notspecified.label      "指定なし">
 <!ENTITY  event.menu.options.priority.notspecified.accesskey  "o">
 <!ENTITY  event.menu.options.priority.low.label               "低">
 <!ENTITY  event.menu.options.priority.low.accesskey           "L">
