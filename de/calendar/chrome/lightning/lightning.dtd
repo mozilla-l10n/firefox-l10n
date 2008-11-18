@@ -20,9 +20,9 @@
    -
    - Contributor(s):
    -   Mike Shaver <shaver@mozilla.org>
-   -   Simon Paquet <bugzilla@babylonsounds.com>           
+   -   Simon Paquet <bugzilla@babylonsounds.com>
    -   Matthew Willis <mattwillis@mac.com>
-   -   Philipp Kewisch <mozilla@kewis.ch>   
+   -   Philipp Kewisch <mozilla@kewis.ch>
    -   Martin Schroeder <mschroeder@mozilla.x-home.org>
    -   Berend Cornelius <berend.cornelius@sun.com>
    -
@@ -43,7 +43,7 @@
 <!-- WARNING! This file contains UTF-8 encoded characters!                      
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),   
    - your editor isn't using UTF-8 encoding and may munge up the document!      
-  -->                                                                           
+  -->
    
 <!-- Tools menu -->
 <!ENTITY lightning.taskLabel "Lightning">
@@ -63,17 +63,17 @@
 
 <!-- Messenger Sidebar -->
 <!ENTITY lightning.calendar.label                "Kalender">
-<!ENTITY lightning.calendar.accesskey            "K"> 
+<!ENTITY lightning.calendar.accesskey            "K">
 <!ENTITY lightning.tasks.label                   "Aufgaben">
 <!ENTITY lightning.tasks.accesskey               "u">
 
-<!-- Mode Toolbar -->                                                           
-<!ENTITY lightning.toolbar.mail.label         "E-Mail">  
-<!ENTITY lightning.toolbar.mail.accesskey     "E">                            
-<!ENTITY lightning.toolbar.calendar.label     "Kalender"> 
-<!ENTITY lightning.toolbar.calendar.accesskey "K">                         
-<!ENTITY lightning.toolbar.task.label         "Aufgaben">      
-<!ENTITY lightning.toolbar.task.accesskey     "u">                        
+<!-- Mode Toolbar -->
+<!ENTITY lightning.toolbar.mail.label         "E-Mail">
+<!ENTITY lightning.toolbar.mail.accesskey     "E">
+<!ENTITY lightning.toolbar.calendar.label     "Kalender">
+<!ENTITY lightning.toolbar.calendar.accesskey "K">
+<!ENTITY lightning.toolbar.task.label         "Aufgaben">
+<!ENTITY lightning.toolbar.task.accesskey     "u">
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Termin">
@@ -84,8 +84,8 @@
 <!ENTITY lightning.toolbar.day.accesskey             "T">
 <!ENTITY lightning.toolbar.week.label                "Wochenansicht">
 <!ENTITY lightning.toolbar.week.accesskey            "W">
-<!ENTITY lightning.toolbar.multiweek.label           "Mehrwöchige Ansicht">               
-<!ENTITY lightning.toolbar.multiweek.accesskey       "h">                       
+<!ENTITY lightning.toolbar.multiweek.label           "Mehrwöchige Ansicht">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "h">
 <!ENTITY lightning.toolbar.month.label               "Monatsansicht">
 <!ENTITY lightning.toolbar.month.accesskey           "M">
 
@@ -94,7 +94,7 @@
 <!ENTITY lightning.calendarproperties.showtasks.label           "Aufgaben in Tagesplan und Aufgabenmodus anzeigen">
 <!ENTITY lightning.calendarproperties.email.label               "E-Mail:">
 
-<!-- iMIP Bar (meeting support) -->                                             
+<!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.description "Diese Nachricht enthält eine Termineinladung.">
 
 <!-- Lightning specific keybindings -->

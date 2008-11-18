@@ -42,10 +42,10 @@
 <!-- WARNING! This file contains UTF-8 encoded characters!                      
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),   
    - your editor isn't using UTF-8 encoding and may munge up the document!      
-  -->                                                                           
+  -->
 
 <!ENTITY pref.calendar.view.allview.caption "Allgemein">
-<!ENTITY pref.calendar.view.dayandweekviews.caption "Tages- und Wochenansichten">     
+<!ENTITY pref.calendar.view.dayandweekviews.caption "Tages- und Wochenansichten">
 <!ENTITY pref.calendar.view.multiweekview.caption "Mehrwöchige Ansicht">
 <!ENTITY pref.calendar.view.workweek.caption "Werktagansicht">
 
@@ -53,18 +53,18 @@
 <!ENTITY pref.weekstarts.accesskey "r">
 <!ENTITY pref.daysoff.label "Werktage in jeder Woche:">
 
-<!ENTITY pref.calendar.view.daystart.label "Tag startet um:">                    
-<!ENTITY pref.calendar.view.daystart.accesskey "t">                             
-<!ENTITY pref.calendar.view.dayend.label "Tag endet um:">                        
-<!ENTITY pref.calendar.view.dayend.accesskey "e">                               
-<!ENTITY pref.calendar.view.visiblehours.label "Anzeigen:">                         
-<!ENTITY pref.calendar.view.visiblehours.accesskey "n">                         
-<!ENTITY pref.calendar.view.visiblehoursend.label "Stunde(n)">           
+<!ENTITY pref.calendar.view.daystart.label "Tag startet um:">
+<!ENTITY pref.calendar.view.daystart.accesskey "t">
+<!ENTITY pref.calendar.view.dayend.label "Tag endet um:">
+<!ENTITY pref.calendar.view.dayend.accesskey "e">
+<!ENTITY pref.calendar.view.visiblehours.label "Anzeigen:">
+<!ENTITY pref.calendar.view.visiblehours.accesskey "n">
+<!ENTITY pref.calendar.view.visiblehoursend.label "Stunde(n)">
 
 <!ENTITY pref.numberofweeks.label "Standard-Gesamtanzahl der Wochen:">
-<!ENTITY pref.numberofweeks.accesskey "G">                                      
+<!ENTITY pref.numberofweeks.accesskey "G">
 <!ENTITY pref.numberofpreviousweeks.label "Anzahl der vergangenen Wochen:">
-<!ENTITY pref.numberofpreviousweeks.accesskey "v">                              
+<!ENTITY pref.numberofpreviousweeks.accesskey "v">
 <!ENTITY pref.numberofweeks.0 "keine">
 <!ENTITY pref.numberofweeks.1 "1 Woche">
 <!ENTITY pref.numberofweeks.2 "2 Wochen">

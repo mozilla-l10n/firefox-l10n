@@ -44,10 +44,10 @@
 <!ENTITY pref.categories.addButton.label "Hinzufügen…">
 <!ENTITY pref.categories.addButton.accesskey "H">
 <!ENTITY pref.categories.edit.title "Kategorie bearbeiten">
-<!ENTITY pref.categories.editButton.label "Bearbeiten…">                            
-<!ENTITY pref.categories.editButton.accesskey "B">                              
-<!ENTITY pref.categories.removeButton.label "Entfernen">                           
-<!ENTITY pref.categories.removeButton.accesskey "E">                            
+<!ENTITY pref.categories.editButton.label "Bearbeiten…">
+<!ENTITY pref.categories.editButton.accesskey "B">
+<!ENTITY pref.categories.removeButton.label "Entfernen">
+<!ENTITY pref.categories.removeButton.accesskey "E">
 <!ENTITY pref.categories.name.label "Name">
 <!ENTITY pref.categories.color.label "Farbe">
 <!ENTITY pref.categories.usecolor.label "Farbe verwenden">

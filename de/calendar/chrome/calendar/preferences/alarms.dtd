@@ -19,7 +19,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s): 
-   -   Cédric Corazza <cedric.corazza@wanadoo.fr>                              
+   -   Cédric Corazza <cedric.corazza@wanadoo.fr>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -55,14 +55,14 @@
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "z">
 <!ENTITY pref.calendar.alarms.defaults.label "Standardeinstellungen für Alarme">
 <!ENTITY pref.defalarm4events.label "Standardeinstellungen für Alarme bei Terminen:">
-<!ENTITY pref.defalarm4events.accesskey "e">                                    
+<!ENTITY pref.defalarm4events.accesskey "e">
 <!ENTITY pref.defalarm4todos.label "Standardeinstellungen für Alarme bei Aufgaben:">
-<!ENTITY pref.defalarm4todos.accesskey "a">                                     
+<!ENTITY pref.defalarm4todos.accesskey "a">
 <!ENTITY pref.alarm.on "Ein">
 <!ENTITY pref.alarm.off "Aus">
 <!ENTITY pref.defalarmlen4events.label "Alarm startet automatisch vor einem Termin:">
-<!ENTITY pref.defalarmlen4events.accesskey "u">                                 
+<!ENTITY pref.defalarmlen4events.accesskey "u">
 <!ENTITY pref.defalarmlen4todos.label "Alarm startet automatisch vor einer Aufgabe:">
-<!ENTITY pref.defalarmlen4todos.accesskey "o">                                  
+<!ENTITY pref.defalarmlen4todos.accesskey "o">
 <!ENTITY pref.defaultemail.label "Standardadresse, an die Alarme gesendet werden:">
 <!ENTITY pref.defaulttext.label "Standardtext für Alarme:">
