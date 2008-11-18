@@ -258,7 +258,7 @@
 <!ENTITY calendar.context.copyevent.accesskey         "C">
 <!ENTITY calendar.context.pasteevent.label            "ペースト">
 <!ENTITY calendar.context.pasteevent.accesskey        "P">
-<!ENTITY calendar.context.selectall.label             "すべて選択">
+<!ENTITY calendar.context.selectall.label             "すべてを選択">
 <!ENTITY calendar.context.selectall.accesskey         "A">
 <!ENTITY calendar.context.button.label                "Today ペイン" >
 <!ENTITY calendar.context.button.accesskey            "T" >
@@ -285,7 +285,7 @@
 <!ENTITY progress.level.100            "100&percnt;">
 <!ENTITY progress.level.100.accesskey  "1">
                                                                  
-<!ENTITY priority.level.none                "なし">
+<!ENTITY priority.level.none                "指定なし">
 <!ENTITY priority.level.none.accesskey      "s">
 <!ENTITY priority.level.low                 "低">
 <!ENTITY priority.level.low.accesskey       "L">
@@ -395,8 +395,8 @@
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "詳細...">
-<!ENTITY calendar.error.number "エラー番号：">
-<!ENTITY calendar.error.description "記述：">
+<!ENTITY calendar.error.number "エラー番号:">
+<!ENTITY calendar.error.description "記述:">
 <!ENTITY calendar.error.title "エラーが発生しました">
 
 

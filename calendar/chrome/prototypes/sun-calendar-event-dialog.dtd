@@ -63,9 +63,9 @@
 
 <!ENTITY  event.menu.edit.label                           "編集">
 <!ENTITY  event.menu.edit.accesskey                       "E">
-<!ENTITY  event.menu.edit.undo.label                      "取り消し">
+<!ENTITY  event.menu.edit.undo.label                      "取り消す">
 <!ENTITY  event.menu.edit.undo.accesskey                  "U">
-<!ENTITY  event.menu.edit.redo.label                      "やり直し">
+<!ENTITY  event.menu.edit.redo.label                      "やり直す">
 <!ENTITY  event.menu.edit.redo.accesskey                  "R">
 <!ENTITY  event.menu.edit.cut.label                       "カット">
 <!ENTITY  event.menu.edit.cut.accesskey                   "t">
@@ -73,7 +73,7 @@
 <!ENTITY  event.menu.edit.copy.accesskey                  "C">
 <!ENTITY  event.menu.edit.paste.label                     "ペースト">
 <!ENTITY  event.menu.edit.paste.accesskey                 "P">
-<!ENTITY  event.menu.edit.select.all.label                "すべて選択">
+<!ENTITY  event.menu.edit.select.all.label                "すべてを選択">
 <!ENTITY  event.menu.edit.select.all.accesskey            "A">
 
 <!ENTITY  event.menu.view.label                           "表示">
@@ -103,7 +103,7 @@
 <!ENTITY  event.menu.options.timezone.accesskey               "z">
 <!ENTITY  event.menu.options.priority2.label                  "重要度">
 <!ENTITY  event.menu.options.priority2.accesskey              "y">
-<!ENTITY  event.menu.options.priority.notspecified.label      "なし">
+<!ENTITY  event.menu.options.priority.notspecified.label      "指定なし">
 <!ENTITY  event.menu.options.priority.notspecified.accesskey  "o">
 <!ENTITY  event.menu.options.priority.low.label               "低">
 <!ENTITY  event.menu.options.priority.low.accesskey           "L">

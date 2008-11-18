@@ -106,11 +106,11 @@
 <!ENTITY calendar.exit.label                    "終了">
 <!ENTITY calendar.exit.accesskey                "x">
 
-<!ENTITY calendar.undo.label                    "取り消し">
+<!ENTITY calendar.undo.label                    "取り消す">
 <!ENTITY calendar.undo.key                      "Z">
 <!ENTITY calendar.undo.accesskey                "u">
 
-<!ENTITY calendar.redo.label                    "やり直し">
+<!ENTITY calendar.redo.label                    "やり直す">
 <!ENTITY calendar.redo.key                      "Y">
 <!ENTITY calendar.redo.accesskey                "r">
 
@@ -126,7 +126,7 @@
 <!ENTITY calendar.paste.key                     "V">
 <!ENTITY calendar.paste.accesskey               "P">
 
-<!ENTITY calendar.selectall.label               "すべて選択">
+<!ENTITY calendar.selectall.label               "すべてを選択">
 <!ENTITY calendar.selectall.key                 "A">
 <!ENTITY calendar.selectall.accesskey           "A">
 
