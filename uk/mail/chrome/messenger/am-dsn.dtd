@@ -1,5 +1,3 @@
-﻿
-<!-- FIXME: localize -->
 <!ENTITY pane.title                 "Сповіщення про стан доставки">
 <!ENTITY useGlobalPrefs.label       "Вживати глобальні налаштування сповіщень для цього облікового запису">
 <!ENTITY useGlobalPrefs.accesskey   "В">
@@ -15,4 +13,4 @@
 <!ENTITY requestOnDelay.label       "Затримку в доставці">
 <!ENTITY requestOnDelay.accesskey   "З">
 <!ENTITY requestNever.label         "Ніколи не отримувати сповіщень">
-<!ENTITY requestNever.accesskey     "і>
+<!ENTITY requestNever.accesskey     "і">
