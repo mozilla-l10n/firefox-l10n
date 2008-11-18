@@ -1,0 +1,13 @@
+<!ENTITY privatebrowsingpage.tabtitle                  "Navigacion privada">
+
+<!ENTITY privatebrowsingpage.pagetitle                 "Navigacion privada">
+
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; memorizarà pas pu l'istoric d'aqueste sesilha.">
+<!ENTITY privatebrowsingpage.longDesc                  "&brandShortName; enregistrarà pas cap d'istoric pendent la sesilha de navigacion (istoric, istoric de recèrca, istoric de telecargament, istoric de formularis web, cookies e fichièrs internet temporaris. Ça que la, totes los fichièrs qu'avètz telecargats o los marcapaginas serà gardats.">
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Benlèu que voldretz aviar en netejant tanben vòstre istoric recent.">
+<!ENTITY privatebrowsingpage.recentHistory.label       "Voidar l'istoric recent">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey   "V">
+
+<!ENTITY privatebrowsingpage.howToStopDesc             "Per arrestar la navigacion privada, desseleccionatz Espleches&gt;Navigacion privada.">
+<!ENTITY privatebrowsingpage.footerDesc                "Aprofechatz !">
