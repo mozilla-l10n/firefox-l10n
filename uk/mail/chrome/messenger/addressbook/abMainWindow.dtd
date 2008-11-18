@@ -210,8 +210,8 @@
 <!ENTITY zoomWindow.label "Розвернути вікно">
 
 <!-- FIXME: localize -->
-<!ENTITY deleteCardsCmd2.label                          "Вилучити картки">
-<!ENTITY deleteItemsCmd.label                           "Вилучити елементи">
+<!ENTITY deleteCardsCmd2.label                          "Знищити картки">
+<!ENTITY deleteItemsCmd.label                           "Знищити елементи">
 <!ENTITY deleteListCmd.label                            "Знищити список">
 <!ENTITY deleteListsCmd.label                           "Знищити списки">
 <!ENTITY osxAddressBook.accesskey                       "О">
