@@ -34,31 +34,31 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY sunbird.choosedate.button.tooltip                 "Zu Datum wechseln" >
-<!ENTITY sunbird.cut.button.tooltip                        "Ausschneiden" >
-<!ENTITY sunbird.copy.button.tooltip                       "Kopieren" >
-<!ENTITY sunbird.paste.button.tooltip                      "Einfügen" >
-<!ENTITY sunbird.print.button.tooltip                      "Kalender drucken" >
-<!ENTITY sunbird.delete.button.tooltip                     "Markierten Termin löschen" >
-<!ENTITY sunbird.remotereload.button.tooltip               "Alle externen Kalender neu laden" >
+<!ENTITY sunbird.choosedate.button.tooltip                 "Zu Datum wechseln">
+<!ENTITY sunbird.cut.button.tooltip                        "Ausschneiden">
+<!ENTITY sunbird.copy.button.tooltip                       "Kopieren">
+<!ENTITY sunbird.paste.button.tooltip                      "Einfügen">
+<!ENTITY sunbird.print.button.tooltip                      "Kalender drucken">
+<!ENTITY sunbird.delete.button.tooltip                     "Markierten Termin löschen">
+<!ENTITY sunbird.remotereload.button.tooltip               "Alle externen Kalender neu laden">
 
-<!ENTITY sunbird.choosedate.button.label                   "Datum wählen" >
-<!ENTITY sunbird.cut.button.label                          "Ausschneiden" >
-<!ENTITY sunbird.copy.button.label                         "Kopieren" >
-<!ENTITY sunbird.paste.button.label                        "Einfügen" >
-<!ENTITY sunbird.delete.button.label                       "Löschen" >
-<!ENTITY sunbird.remotereload.button.label                 "Neu laden" >
+<!ENTITY sunbird.choosedate.button.label                   "Datum wählen">
+<!ENTITY sunbird.cut.button.label                          "Ausschneiden">
+<!ENTITY sunbird.copy.button.label                         "Kopieren">
+<!ENTITY sunbird.paste.button.label                        "Einfügen">
+<!ENTITY sunbird.delete.button.label                       "Löschen">
+<!ENTITY sunbird.remotereload.button.label                 "Neu laden">
 
-<!ENTITY sunbird.flat.topbar.choosedate                    "Zu Datum wechseln" >
-<!ENTITY sunbird.flat.topbar.dayview                       "Tagesansicht" >
-<!ENTITY sunbird.flat.topbar.weekview                      "Wochenansicht" >
-<!ENTITY sunbird.flat.topbar.monthview                     "Monatsansicht" >
-<!ENTITY sunbird.flat.topbar.multiweekview                 "Mehrwöchige Ansicht" >
+<!ENTITY sunbird.flat.topbar.choosedate                    "Zu Datum wechseln">
+<!ENTITY sunbird.flat.topbar.dayview                       "Tagesansicht">
+<!ENTITY sunbird.flat.topbar.weekview                      "Wochenansicht">
+<!ENTITY sunbird.flat.topbar.monthview                     "Monatsansicht">
+<!ENTITY sunbird.flat.topbar.multiweekview                 "Mehrwöchige Ansicht">
 
-<!ENTITY sunbird.dayview.accesskey                         "T" >
-<!ENTITY sunbird.weekview.accesskey                        "W" >
-<!ENTITY sunbird.monthview.accesskey                       "M" >
-<!ENTITY sunbird.multiweekview.accesskey                   "h" >
+<!ENTITY sunbird.dayview.accesskey                         "T">
+<!ENTITY sunbird.weekview.accesskey                        "W">
+<!ENTITY sunbird.monthview.accesskey                       "M">
+<!ENTITY sunbird.multiweekview.accesskey                   "h">
 
 
 <!ENTITY sunbird.calendartab.label                         "Datum">
@@ -67,13 +67,13 @@
 <!ENTITY sunbird.find.key                                  "F">
 <!ENTITY sunbird.close.key                                 "W">
 
-<!ENTITY sunbird.menu.numberofweeks.label                  "Anzahl der Wochen" >
-<!ENTITY sunbird.menu.numberofweeks.accesskey              "z" >
-<!ENTITY sunbird.menu.numberofweeks.2                      "2 Wochen" >
-<!ENTITY sunbird.menu.numberofweeks.3                      "3 Wochen" >
-<!ENTITY sunbird.menu.numberofweeks.4                      "4 Wochen" >
-<!ENTITY sunbird.menu.numberofweeks.5                      "5 Wochen" >
-<!ENTITY sunbird.menu.numberofweeks.6                      "6 Wochen" >
+<!ENTITY sunbird.menu.numberofweeks.label                  "Anzahl der Wochen">
+<!ENTITY sunbird.menu.numberofweeks.accesskey              "z">
+<!ENTITY sunbird.menu.numberofweeks.2                      "2 Wochen">
+<!ENTITY sunbird.menu.numberofweeks.3                      "3 Wochen">
+<!ENTITY sunbird.menu.numberofweeks.4                      "4 Wochen">
+<!ENTITY sunbird.menu.numberofweeks.5                      "5 Wochen">
+<!ENTITY sunbird.menu.numberofweeks.6                      "6 Wochen">
 
 <!-- customizable toolbars -->
 <!ENTITY sunbird.context.customize.label                   "Anpassen…">

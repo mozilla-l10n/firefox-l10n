@@ -22,8 +22,8 @@
    -                 Mike Potter <mikep@oeone.com>
    -                 Chris Charabaruk <coldacid@meldstar.com>
    -                 Matthew Willis <mattwillis@gmail.com>
-   -                 Stefan Sitter <ssitter@googlemail.com>  
-   -                 Berend Cornelius <berend.cornelius@sun.com> 
+   -                 Stefan Sitter <ssitter@googlemail.com>
+   -                 Berend Cornelius <berend.cornelius@sun.com>
    -                 Philipp Kewisch <mozilla@kewis.ch>
    -                 Simon Paquet <bugzilla@babylonsounds.com>
    -
@@ -71,7 +71,7 @@
 <!ENTITY calendar.publish.accesskey             "P">
 
 <!ENTITY calendar.toolbar.label                 "Kalender-Symbolleiste">
-<!ENTITY calendar.toolbar.accesskey             "K"> 
+<!ENTITY calendar.toolbar.accesskey             "K">
 <!ENTITY task.toolbar.label                     "Aufgaben-Symbolleiste">
 <!ENTITY task.toolbar.accesskey                 "A">
 

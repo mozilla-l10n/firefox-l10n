@@ -19,7 +19,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s): 
-   -   Cédric Corazza <cedric.corazza@wanadoo.fr>                              
+   -   Cédric Corazza <cedric.corazza@wanadoo.fr>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -38,17 +38,17 @@
 <!-- WARNING! This file contains UTF-8 encoded characters!                      
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),   
    - your editor isn't using UTF-8 encoding and may munge up the document!      
-  -->                                                                           
+  -->
 
-<!ENTITY pref.mainbox.label "Allgemeine Einstellungen" >
-<!ENTITY pref.dateformat.label "Datums-Textformat:" >
+<!ENTITY pref.mainbox.label "Allgemeine Einstellungen">
+<!ENTITY pref.dateformat.label "Datums-Textformat:">
 <!ENTITY pref.dateformat.accesskey "D">
-<!ENTITY pref.dateformat.long "Lang" >
+<!ENTITY pref.dateformat.long "Lang">
 <!ENTITY pref.dateformat.short "Kurz"  >
-<!ENTITY pref.defaultlength.label "Standard-Terminlänge:" >
+<!ENTITY pref.defaultlength.label "Standard-Terminlänge:">
 <!ENTITY pref.defaultlength.accesskey "T">
-<!ENTITY pref.defaultsnoozelength.label "Standard-Zeit bis Erinnerung:" >
+<!ENTITY pref.defaultsnoozelength.label "Standard-Zeit bis Erinnerung:">
 <!ENTITY pref.defaultsnoozelength.accesskey "E">
-<!ENTITY pref.refreshbox.label "Aktualisierungseinstellungen" >
-<!ENTITY pref.autorefresh.label "Aktualisierung der Kalender alle" >
-<!ENTITY pref.autorefresh.accesskey "A" >
+<!ENTITY pref.refreshbox.label "Aktualisierungseinstellungen">
+<!ENTITY pref.autorefresh.label "Aktualisierung der Kalender alle">
+<!ENTITY pref.autorefresh.accesskey "A">

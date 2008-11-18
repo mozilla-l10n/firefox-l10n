@@ -46,19 +46,19 @@
 <!ENTITY calendar.calendar.label     "Kalender">
 <!ENTITY calendar.calendar.accesskey "K">
 
-<!ENTITY calendar.dayView.key                  "1" >
-<!ENTITY calendar.weekView.key                 "2" >
-<!ENTITY calendar.multiweekView.key            "3" >
-<!ENTITY calendar.monthView.key                "4" >
+<!ENTITY calendar.dayView.key                  "1">
+<!ENTITY calendar.weekView.key                 "2">
+<!ENTITY calendar.multiweekView.key            "3">
+<!ENTITY calendar.monthView.key                "4">
 
-<!ENTITY calendar.newtask.button.tooltip          "Neue Aufgabe erstellen" >
-<!ENTITY calendar.newevent.button.tooltip         "Neuen Termin erstellen" >
-<!ENTITY calendar.edit.button.tooltip             "Markierten Termin bearbeiten" >
+<!ENTITY calendar.newtask.button.tooltip          "Neue Aufgabe erstellen">
+<!ENTITY calendar.newevent.button.tooltip         "Neuen Termin erstellen">
+<!ENTITY calendar.edit.button.tooltip             "Markierten Termin bearbeiten">
 
-<!ENTITY calendar.unifinder.todoitems.label          "Aufgaben" >
+<!ENTITY calendar.unifinder.todoitems.label          "Aufgaben">
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Abgeschlossene anzeigen">
 
-<!ENTITY calendar.today.button.label          "Heute" >
+<!ENTITY calendar.today.button.label          "Heute">
 <!ENTITY calendar.tomorrow.button.label       "Morgen">
 <!ENTITY calendar.soon.button.label           "Bald">
 
@@ -86,54 +86,54 @@
 <!ENTITY calendar.unifinder.tree.duration.label        "Fällig in">
 <!ENTITY calendar.unifinder.close.tooltip              "Terminsuche/-liste schließen">
 
-<!ENTITY calendar.today.button.tooltip            "Zu Heute wechseln" >
-<!ENTITY calendar.todaypane.button.tooltip        "Tagesplan anzeigen" >
-<!ENTITY calendar.unifinder.button.tooltip        "Termine suchen und auflisten" >
+<!ENTITY calendar.today.button.tooltip            "Zu Heute wechseln">
+<!ENTITY calendar.todaypane.button.tooltip        "Tagesplan anzeigen">
+<!ENTITY calendar.unifinder.button.tooltip        "Termine suchen und auflisten">
 
-<!ENTITY calendar.day.button.tooltip          "Zur Tagesansicht wechseln" >
-<!ENTITY calendar.week.button.tooltip         "Zur Wochenansicht wechseln" >
-<!ENTITY calendar.month.button.tooltip        "Zur Monatsansicht wechseln" >
-<!ENTITY calendar.multiweek.button.tooltip    "Zur mehrwöchigen Ansicht wechseln" >
+<!ENTITY calendar.day.button.tooltip          "Zur Tagesansicht wechseln">
+<!ENTITY calendar.week.button.tooltip         "Zur Wochenansicht wechseln">
+<!ENTITY calendar.month.button.tooltip        "Zur Monatsansicht wechseln">
+<!ENTITY calendar.multiweek.button.tooltip    "Zur mehrwöchigen Ansicht wechseln">
 
-<!ENTITY calendar.nextday.button.tooltip        "Nächster Tag" >
-<!ENTITY calendar.prevday.button.tooltip        "Vorheriger Tag" >
-<!ENTITY calendar.nextweek.button.tooltip       "Nächste Woche" >
-<!ENTITY calendar.prevweek.button.tooltip       "Vorherige Woche" >
-<!ENTITY calendar.nextmonth.button.tooltip      "Nächster Monat" >
-<!ENTITY calendar.prevmonth.button.tooltip      "Vorheriger Monat" >
+<!ENTITY calendar.nextday.button.tooltip        "Nächster Tag">
+<!ENTITY calendar.prevday.button.tooltip        "Vorheriger Tag">
+<!ENTITY calendar.nextweek.button.tooltip       "Nächste Woche">
+<!ENTITY calendar.prevweek.button.tooltip       "Vorherige Woche">
+<!ENTITY calendar.nextmonth.button.tooltip      "Nächster Monat">
+<!ENTITY calendar.prevmonth.button.tooltip      "Vorheriger Monat">
 
-<!ENTITY calendar.newtask.button.label          "Neue Aufgabe" >
-<!ENTITY calendar.newevent.button.label         "Neuer Termin" >
-<!ENTITY calendar.edit.button.label             "Bearbeiten" >
+<!ENTITY calendar.newtask.button.label          "Neue Aufgabe">
+<!ENTITY calendar.newevent.button.label         "Neuer Termin">
+<!ENTITY calendar.edit.button.label             "Bearbeiten">
 
-<!ENTITY calendar.print.button.label            "Drucken" >
+<!ENTITY calendar.print.button.label            "Drucken">
 
-<!ENTITY calendar.import.button.tooltip         "Termine aus einer lokalen Datei importieren" >
-<!ENTITY calendar.export.button.tooltip         "Termine in eine lokale Datei exportieren" >
-<!ENTITY calendar.subscribe.button.tooltip      "Eine Kalenderdatei auf einem externen Rechner abonnieren." >
-<!ENTITY calendar.publish.button.tooltip        "Termine auf einem externen Rechner publizieren." >
+<!ENTITY calendar.import.button.tooltip         "Termine aus einer lokalen Datei importieren">
+<!ENTITY calendar.export.button.tooltip         "Termine in eine lokale Datei exportieren">
+<!ENTITY calendar.subscribe.button.tooltip      "Eine Kalenderdatei auf einem externen Rechner abonnieren.">
+<!ENTITY calendar.publish.button.tooltip        "Termine auf einem externen Rechner publizieren.">
 
-<!ENTITY calendar.export.calendar               "Kalender exportieren…" >
+<!ENTITY calendar.export.calendar               "Kalender exportieren…">
 
-<!ENTITY calendar.import.button.label              "Importieren" >
-<!ENTITY calendar.export.button.label              "Exportieren" >
-<!ENTITY calendar.subscribe.button.label           "Abonnieren" >
-<!ENTITY calendar.publish.button.label             "Publizieren" >
-<!ENTITY calendar.unifinder.button.label           "Termine suchen" >
+<!ENTITY calendar.import.button.label              "Importieren">
+<!ENTITY calendar.export.button.label              "Exportieren">
+<!ENTITY calendar.subscribe.button.label           "Abonnieren">
+<!ENTITY calendar.publish.button.label             "Publizieren">
+<!ENTITY calendar.unifinder.button.label           "Termine suchen">
 
-<!ENTITY calendar.day.button.label                  "Tagesansicht" >
-<!ENTITY calendar.week.button.label                 "Wochenansicht" >
-<!ENTITY calendar.month.button.label                "Monatsansicht" >
-<!ENTITY calendar.multiweek.button.label            "Mehrwöchige Ansicht" >
-<!ENTITY calendar.onlyworkday.checkbox.label        "Nur Werktage" >
-<!ENTITY calendar.onlyworkday.checkbox.accesskey    "N" >
-<!ENTITY calendar.displaytodos.checkbox.label       "Aufgaben in der Ansicht" >
-<!ENTITY calendar.displaytodos.checkbox.accesskey   "f" >
-<!ENTITY calendar.completedtasks.checkbox.label     "Abgeschlossene Aufgaben anzeigen" >
-<!ENTITY calendar.completedtasks.checkbox.accesskey "g" >
+<!ENTITY calendar.day.button.label                  "Tagesansicht">
+<!ENTITY calendar.week.button.label                 "Wochenansicht">
+<!ENTITY calendar.month.button.label                "Monatsansicht">
+<!ENTITY calendar.multiweek.button.label            "Mehrwöchige Ansicht">
+<!ENTITY calendar.onlyworkday.checkbox.label        "Nur Werktage">
+<!ENTITY calendar.onlyworkday.checkbox.accesskey    "N">
+<!ENTITY calendar.displaytodos.checkbox.label       "Aufgaben in der Ansicht">
+<!ENTITY calendar.displaytodos.checkbox.accesskey   "f">
+<!ENTITY calendar.completedtasks.checkbox.label     "Abgeschlossene Aufgaben anzeigen">
+<!ENTITY calendar.completedtasks.checkbox.accesskey "g">
 
-<!ENTITY calendar.orientation.label "Ansicht rotieren" >
-<!ENTITY calendar.orientation.accesskey "o" >
+<!ENTITY calendar.orientation.label "Ansicht rotieren">
+<!ENTITY calendar.orientation.accesskey "o">
 
 <!ENTITY calendar.search.options.searchfor " enthält">
 
@@ -207,8 +207,8 @@
 <!ENTITY calendar.context.pasteevent.accesskey              "E">
 <!ENTITY calendar.context.selectall.label                   "Alles markieren">
 <!ENTITY calendar.context.selectall.accesskey               "m">
-<!ENTITY calendar.context.button.label                      "Tagesplan" >
-<!ENTITY calendar.context.button.accesskey                  "T" >
+<!ENTITY calendar.context.button.label                      "Tagesplan">
+<!ENTITY calendar.context.button.accesskey                  "T">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Fortschritt">
@@ -216,7 +216,7 @@
 <!ENTITY calendar.context.priority.label              "Priorität">
 <!ENTITY calendar.context.priority.accesskey          "P">
 
-<!ENTITY percnt "&#37;" ><!--=percent sign-->
+<!ENTITY percnt "&#37;"><!--=percent sign-->
 
 <!ENTITY calendar.context.markcompleted.label     "Als abgeschlossen markieren">
 <!ENTITY calendar.context.markcompleted.accesskey "o">
@@ -244,8 +244,8 @@
 <!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label              "Neuer Kalender…">
 <!ENTITY calendar.context.newserver.accesskey          "N">
-<!ENTITY calendar.context.findcalendar.label           "Kalender suchen…" >
-<!ENTITY calendar.context.findcalendar.accesskey       "S" >
+<!ENTITY calendar.context.findcalendar.label           "Kalender suchen…">
+<!ENTITY calendar.context.findcalendar.accesskey       "S">
 <!ENTITY calendar.context.deleteserver.label           "Kalender löschen">
 <!ENTITY calendar.context.deleteserver.accesskey       "Ö">
 <!ENTITY calendar.context.reloadserver.label           "Externe Kalender neu laden">
@@ -277,23 +277,23 @@
 <!ENTITY calendar.tasks.view.filtertasks.accesskey       "f">
 
 <!-- Calendar Alarm Dialog -->
-<!ENTITY calendar.alarm.location.label              "Ort:" >
-<!ENTITY calendar.alarm.details.label               "Details…" >
+<!ENTITY calendar.alarm.location.label              "Ort:">
+<!ENTITY calendar.alarm.details.label               "Details…">
 
-<!ENTITY calendar.alarm.snoozefor.label             "Erneut erinnern in" >
-<!ENTITY calendar.alarm.snoozeallfor.label          "An alle erneut erinnern in" >
-<!ENTITY calendar.alarm.title.label                 "Kalenderalarm" >
-<!ENTITY calendar.alarm.dismiss.label               "Bestätigen" >
-<!ENTITY calendar.alarm.dismissall.label            "Alle bestätigen" >
+<!ENTITY calendar.alarm.snoozefor.label             "Erneut erinnern in">
+<!ENTITY calendar.alarm.snoozeallfor.label          "An alle erneut erinnern in">
+<!ENTITY calendar.alarm.title.label                 "Kalenderalarm">
+<!ENTITY calendar.alarm.dismiss.label               "Bestätigen">
+<!ENTITY calendar.alarm.dismissall.label            "Alle bestätigen">
 
-<!ENTITY calendar.alarm.snooze.5minutes.label       "5 Minuten" >
-<!ENTITY calendar.alarm.snooze.10minutes.label      "10 Minuten" >
-<!ENTITY calendar.alarm.snooze.15minutes.label      "15 Minuten" >
-<!ENTITY calendar.alarm.snooze.30minutes.label      "30 Minuten" >
-<!ENTITY calendar.alarm.snooze.45minutes.label      "45 Minuten" >
-<!ENTITY calendar.alarm.snooze.1hour.label          "1 Stunde" >
-<!ENTITY calendar.alarm.snooze.2hours.label         "2 Stunden" >
-<!ENTITY calendar.alarm.snooze.1day.label           "1 Tag" >
+<!ENTITY calendar.alarm.snooze.5minutes.label       "5 Minuten">
+<!ENTITY calendar.alarm.snooze.10minutes.label      "10 Minuten">
+<!ENTITY calendar.alarm.snooze.15minutes.label      "15 Minuten">
+<!ENTITY calendar.alarm.snooze.30minutes.label      "30 Minuten">
+<!ENTITY calendar.alarm.snooze.45minutes.label      "45 Minuten">
+<!ENTITY calendar.alarm.snooze.1hour.label          "1 Stunde">
+<!ENTITY calendar.alarm.snooze.2hours.label         "2 Stunden">
+<!ENTITY calendar.alarm.snooze.1day.label           "1 Tag">
 
 <!-- Calendar Server Dialog -->
 <!ENTITY calendar.server.dialog.title.edit          "Kalender bearbeiten">
