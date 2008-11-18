@@ -15,10 +15,6 @@
 <!ENTITY autoTypeRadio.accesskey "a">
 <!ENTITY reload.label "Actualitza">
 <!ENTITY reload.accesskey "l">
-<!ENTITY ftp.label                     "Servidor intermediari d'FTP:">
-<!ENTITY ftp.accesskey                 "F">
-<!ENTITY gopher.label                  "Servidor intermediari de Gopher:">
-<!ENTITY gopher.accesskey              "G">
 <!ENTITY http.label "Servidor intermediari d'HTTP:">
 <!ENTITY http.accesskey "H">
 <!ENTITY ssl.label "Servidor intermediari d'SSL:">
