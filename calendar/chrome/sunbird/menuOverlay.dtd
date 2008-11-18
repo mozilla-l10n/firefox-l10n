@@ -122,7 +122,7 @@
 <!ENTITY preferencesCmdMac.modifiers "accel">
 <!ENTITY viewMenu.label "Visualizza">
 <!ENTITY viewMenu.accesskey "V">
-<!ENTITY releaseCmd.label "Note di rilascio">
+<!ENTITY releaseCmd.label "Note di versione">
 <!ENTITY releaseCmd.accesskey "N">
 <!ENTITY aboutCmd.label "Informazioni su &brandFullName;">
 <!ENTITY aboutCmd.accesskey "o">
