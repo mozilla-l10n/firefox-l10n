@@ -63,6 +63,12 @@
 <!ENTITY cmd.edit_redo.label "Tornar far">
 <!ENTITY cmd.edit_redo.accesskey "T">
 <!ENTITY cmd.edit_redo.key "y">
+
+<!ENTITY cmd.delete.label               "Suprimir aquesta pagina">
+<!ENTITY cmd.delete.accesskey           "S">
+<!ENTITY cmd.deleteDomainData.label     "Doblidar aqueste sit">
+<!ENTITY cmd.deleteDomainData.accesskey "D">
+
 <!ENTITY cmd.open.label "Dobrir">
 <!ENTITY cmd.open.accesskey "o">
 <!ENTITY cmd.open_window.label "Dobrir dins una fenèstra novèla">

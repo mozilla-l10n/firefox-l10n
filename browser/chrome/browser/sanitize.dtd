@@ -1,8 +1,37 @@
+<!ENTITY sanitizePrefs.title           "Voidar las donadas privadas">
+<!ENTITY sanitizeDialog2.title         "Voidar l'istoric recent">
 <!ENTITY sanitizeItems.label "Voidar los elements seguents ara :">
+<!ENTITY clearDataSettings2.label     "Quand sortissi de &brandShortName;, deu voidar automaticament :">
+<!ENTITY clearDuration.label          "Suprimir ">
+<!ENTITY clearDuration.lastHour       "la darrièra ora">
+<!ENTITY clearDuration.last2Hours     "las 2 darrièras oras">
+<!ENTITY clearDuration.last4Hours     "las 4 darrièras oras">
+<!ENTITY clearDuration.today          "mon istoric de uèi">
+<!ENTITY clearDuration.everything     "mon istoric en entièr">
+<!ENTITY clearDuration.suffix         "">
+<!ENTITY historySection.label         "Istoric">
+<!ENTITY dataSection.label            "Donadas">
 <!ENTITY itemPasswords.label "Senhals enregistrats">
 <!ENTITY itemPasswords.accesskey "p">
 <!ENTITY itemCookies.label "Cookies">
 <!ENTITY itemCookies.accesskey "C">
 <!ENTITY itemOfflineApps.label "Donadas de sits web sens connexion">
 <!ENTITY itemOfflineApps.accesskey "s">
+<!ENTITY itemVisitedPages.label       "Paginas visitadas">
+<!ENTITY itemVisitedPages.accesskey   "v">
+<!ENTITY itemFormSearchEntries.label  "Dintradas de formularis e de recèrca">
+<!ENTITY itemFormSearchEntries.accesskey "f">
+<!ENTITY itemPasswords.label          "Mots de pas enregistrats">
+<!ENTITY itemPasswords.accesskey      "p">
+<!ENTITY itemCookies.label            "Cookies">
+<!ENTITY itemCookies.accesskey        "C">
+<!ENTITY itemWebCache.label           "Amagantal web">
+<!ENTITY itemWebCache.accesskey       "w">
+<!ENTITY itemOfflineApps.label        "Donadas sens connexion de sits">
+<!ENTITY itemOfflineApps.accesskey    "s">
+<!ENTITY itemDownloadList.label       "Tièra de telecargaments">
+<!ENTITY itemDownloadList.accesskey   "t">
+<!ENTITY itemActiveLogins.label       "Connexions activas">
+<!ENTITY itemActiveLogins.accesskey   "a">
 <!ENTITY window.width "30em">
+<!ENTITY column.width                 "14em">
