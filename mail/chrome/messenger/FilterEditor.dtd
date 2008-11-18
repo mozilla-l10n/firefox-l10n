@@ -39,5 +39,5 @@
 <!ENTITY contextDesc.label "Застосувати фільтр:">
 <!ENTITY contextIncoming.label "При перевірці пошти">
 <!ENTITY contextManual.label "Вручну">
-<!ENTITY ignoreSubthread.label "Ігнорувати підпотік">
+<!ENTITY ignoreSubthread.label "Ігнорувати гілку">
 <!ENTITY stopExecution.label "Припинити роботу фільтра">
