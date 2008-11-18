@@ -44,7 +44,6 @@
 <!ENTITY bulletList.value "条目符号（未编号）列表">
 <!ENTITY numberList.value "编号列表">
 <!ENTITY definitionList.value "定义列表">
-<!ENTITY changeListMsg.label "当更改列表类型:">
 <!ENTITY changeEntireListRadio.label "更改全部列表">
 <!ENTITY changeEntireListRadio.accessKey "C">
 <!ENTITY changeSelectedRadio.label "只更改所选项">

@@ -37,7 +37,6 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY windowTitle.label "图像属性">
 <!ENTITY pixelsPopup.value "像素">
-<!ENTITY percentPopup.value "百分比">
 <!ENTITY locationEditField.label "图像 URL：">
 <!ENTITY locationEditField.accessKey "L">
 <!ENTITY locationEditField.tooltip "输入图像的文件名或地址">
@@ -50,7 +49,6 @@
 <!ENTITY noAltText.label "不使用替代文本">
 <!ENTITY noAltText.accessKey "D">
 <!ENTITY previewBox.label "预览图像">
-<!ENTITY MoreFewerButton.tooltip "切换可编辑属性集的显示(多或少两种模式)">
 <!ENTITY actualSize.label "实际大小：">
 <!ENTITY actualSizeRadio.label "实际大小">
 <!ENTITY actualSizeRadio.accessKey "A">
@@ -77,7 +75,6 @@
 <!ENTITY wrapRightPopup.value "折行右对齐">
 <!ENTITY wrapLeftPopup.value "折行左对齐">
 <!ENTITY spacingBox.label "单元间隔">
-<!ENTITY spacingBox.tooltip "输入图像周围的间隔值">
 <!ENTITY leftRightEditField.label "左右空间：">
 <!ENTITY leftRightEditField.accessKey "L">
 <!ENTITY topBottomEditField.label "上下空间：">
@@ -86,10 +83,6 @@
 <!ENTITY borderEditField.accessKey "B">
 <!ENTITY showImageLinkBorder.label "显示已链接图片的边框">
 <!ENTITY showImageLinkBorder.accessKey "B">
-<!ENTITY makePageBackgroundCheckbox.label "制作页面背景">
-<!ENTITY makePageBackgroundCheckbox.tooltip "使用本图片作为页面背景">
-<!ENTITY editImageButton.label "编辑图像">
-<!ENTITY editImageButton.tooltip "在其他程序中编辑图片">
 <!ENTITY imageInputTab.label "表单">
 <!ENTITY imageLocationTab.label "地址">
 <!ENTITY imageDimensionsTab.label "尺寸">

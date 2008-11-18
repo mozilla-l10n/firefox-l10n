@@ -68,7 +68,6 @@
 <!ENTITY tableCaptionRight.label "表格右侧">
 <!ENTITY tableCaptionNone.label "无">
 <!ENTITY tableInheritColor.label "（允许页面颜色透过）">
-<!ENTITY cellPercent.label "表格百分比">
 <!ENTITY cellSelection.label "选择">
 <!ENTITY cellSelectCell.label "单元">
 <!ENTITY cellSelectRow.label "行">
@@ -77,11 +76,7 @@
 <!ENTITY cellSelectNext.accessKey "N">
 <!ENTITY cellSelectPrevious.label "上一个">
 <!ENTITY cellSelectPrevious.accessKey "P">
-<!ENTITY cellApplyBeforeMove.label "更改所选内容之前应用更改">
-<!ENTITY cellKeepCurrentData.label "保留当前设置">
 <!ENTITY applyBeforeChange.label "当前变更将在更改选择项之前应用">
-<!ENTITY cellRowSpan.label "行范围：">
-<!ENTITY cellColSpan.label "列范围：">
 <!ENTITY cellContentAlignment.label "内容对齐">
 <!ENTITY cellHorizontal.label "水平：">
 <!ENTITY cellHorizontal.accessKey "Z">
@@ -99,7 +94,6 @@
 <!ENTITY cellAlignMiddle.label "中部">
 <!ENTITY cellAlignBottom.label "底部">
 <!ENTITY cellAlignJustify.label "调整">
-<!ENTITY cellAlignAtChar.label "在字符：">
 <!ENTITY cellInheritColor.label "（允许表格颜色透过）">
 <!ENTITY cellUseCheckboxHelp.label "使用检查框决定哪个特性将应用于所选择的单元">
 <!ENTITY size.label "大小">

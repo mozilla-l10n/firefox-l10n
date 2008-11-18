@@ -31,11 +31,6 @@
 <!ENTITY printCardViewCmd.key "P">
 <!ENTITY printAddressBook.label "打印通讯录…">
 <!ENTITY printAddressBook.accesskey "A">
-<!ENTITY quitApplicationCmdWin.label "退出">
-<!ENTITY quitApplicationCmdWin.accesskey "x">
-<!ENTITY quitApplicationCmd.label "退出">
-<!ENTITY quitApplicationCmd.accesskey "Q">
-<!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY editMenu.label "编辑">
 <!ENTITY editMenu.accesskey "e">
 <!ENTITY undoCmd.label "撤销">

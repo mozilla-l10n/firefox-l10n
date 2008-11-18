@@ -20,7 +20,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Charles Manxke (cmanske@netscape.com)
+   -   Charles Manske (cmanske@netscape.com)
    -   
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -37,9 +37,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY windowTitle.label "检查图片和链接地址">
-<!ENTITY urlsNotFound.label "无法找到下列图片或者链接地址:">
-<!ENTITY notFoundKey.label "(&quot;X&quot; = 文件未找到, &quot;?&quot; = 连接超时.)">
-<!ENTITY changeUrlButton.label "修改所选项的位置">
 <!ENTITY succeeded.label "成功">
 <!ENTITY failed.label "失败">
 <!ENTITY closeButton.label "关闭">
