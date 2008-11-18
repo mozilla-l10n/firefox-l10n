@@ -14,7 +14,7 @@
 <!ENTITY  bookmarkAllTabs.accesskey   "T">
 <!ENTITY  bookmarkThisTab.label       "Bu sekmeyi yer imlerine ekle...">
 <!ENTITY  bookmarkThisTab.accesskey   "B">
-<!ENTITY  undoCloseTab.label          "Kapaltılan sekmeyi aç">
+<!ENTITY  undoCloseTab.label          "Kapatılan sekmeyi aç">
 <!ENTITY  undoCloseTab.accesskey      "K">
 <!ENTITY  newTabButton.tooltip        "Yeni sekme aç">
 

@@ -20,7 +20,7 @@
 <!ENTITY selectAllCmd.label        "Tümünü seç">
 <!ENTITY selectAllCmd.key          "a">
 <!ENTITY selectAllCmd.accesskey    "T">
-<!ENTITY findCmd.label             "Bul ve değiştir...">
+<!ENTITY findCmd.label             "Bul">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "B">
 <!ENTITY findAgainCmd.label        "Sonrakini bul">

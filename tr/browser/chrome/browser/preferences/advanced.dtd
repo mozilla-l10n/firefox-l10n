@@ -6,8 +6,8 @@
 
 <!ENTITY useCursorNavigation.label       "Sayfaların içinde hareket ederken her zaman işaretçi tuşlarını kullan">
 <!ENTITY useCursorNavigation.accesskey   "S">
-<!ENTITY searchStartTyping.label         "Ben yazmaya başlar başlamaz arama yap">
-<!ENTITY searchStartTyping.accesskey     "B">
+<!ENTITY searchStartTyping.label         "Yazmaya başlar başlamaz arama yap">
+<!ENTITY searchStartTyping.accesskey     "z">
 <!ENTITY blockAutoRefresh.label          "Siteler sayfaları tazelemek ya da yönlendirmek istediğinde beni uyar">
 <!ENTITY blockAutoRefresh.accesskey      "r">
 
@@ -67,7 +67,7 @@
 <!ENTITY updateHistory.label             "Güncelleme geçmişini göster">
 <!ENTITY updateHistory.accesskey         "G">
 
-<!ENTITY offlineNotify.label             "Bir site çevrim dışı kullanım için veri depolamak istediğinde bana söyle">
+<!ENTITY offlineNotify.label             "Bir site çevrim dışı kullanım için veri depolamak istediğinde beni uyar">
 <!ENTITY offlineNotify.accesskey         "t">
 <!ENTITY offlineNotifyExceptions.label   "Ayrıcalıklar...">
 <!ENTITY offlineNotifyExceptions.accesskey "A">
