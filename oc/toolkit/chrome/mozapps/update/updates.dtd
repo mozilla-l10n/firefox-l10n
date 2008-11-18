@@ -2,17 +2,8 @@
 <!ENTITY window.width "36em">
 <!ENTITY window.macWidth "39em">
 <!ENTITY checking.title "Recèrca de mesas a jorn">
-<!ENTITY checking.label "&brandShortName; verifica l'existéncia de mesas a jorn…">
-<!ENTITY cancel.label "Anullar">
-<!ENTITY cancel.accesskey "A">
 <!ENTITY noupdatesfound.title "Cap de mesa a jorn pas trobada">
-<!ENTITY noupdatesfound.intro "Cap de mesa a jorn es pas disponibla. &brandShortName; pòt verificar periodicament se de mesas a jorn novèlas son disponiblas.">
-<!ENTITY incompatibleChecking.label "Verificacion per veire s'aquesta mesa a jorn provocarà de problèmas a las extensions e tèmas installats…">
 <!ENTITY clickHere.label "Mai d'entresenhas a prepaus d'aquesta mesa a jorn">
-<!ENTITY incompatible.warning "Aquesta mesa a jorn provocarà l'arrest del foncionament d'unas extensions e/o d'unes tèmas tant que son pas meses a jorn.">
-<!ENTITY listIncompatible.label "Afichar la tièra">
-<!ENTITY listIncompatible.accesskey "T">
-<!ENTITY upgrade.evangelism "Vos es vivament recomandat de metre a jorn &brandShortName; lo mai rapidament possible.">
 <!ENTITY license.instructions "Se sètz d'acòrdi amb los tèrmes d'aqueste acòrdi, clicatz sus Soi d'acòrdi çaijós per perseguir l'installacion de la masa a jorn.">
 <!ENTITY license.titleText "Acòrdi de licéncia logiciala">
 <!ENTITY license.introText "Tèrmes e condicions d'utilizacion d'aqueste logicial.">
@@ -29,19 +20,10 @@
                                            lo paquetatge complet de mesa a jorn.">
 <!ENTITY details.link "Detalhs">
 <!ENTITY pause.label "Pausa">
-<!ENTITY pause.accesskey "P">
-<!ENTITY close.label "Tampar">
-<!ENTITY close.accesskey "T">
 <!ENTITY error.label "De problèmas son estats rencontrats al moment de la verificacion, del telecargament o de l'installacion d'aquesta mesa a jorn. &brandShortName; a pas pogut èsser mes a jorn en seguida de :">
 <!ENTITY errorManual.label "Podètz metre &brandShortName; a jorn manualament en seguissent aqueste ligam e en telecargant la darrièra version :">
 <!ENTITY errorpatching.title "La mesa a jorn a pas capitat">
 <!ENTITY errorpatching.intro "La mesa a jorn parciala a pas pogut èsser aplicada. &brandShortName; va tornar ensajar en telecargant una mesa a jorn completa.">
-<!ENTITY finished.title "Mesa a jorn telecargada">
-<!ENTITY finished.text "La mesa a jorn es estada  telecargada e verificada corrèctament, e serà installada a l'aviada venenta de &brandShortName;.">
-<!ENTITY finishedBackground.title "Mesa a jorn prèsta per èsser installada">
-<!ENTITY finishedBackground.text "&brandShortName; a acabat de telecargar una mesa a jorn importanta.Clicatz sul ligam çaijós per mai de detalhs.">
-<!ENTITY finishedBackground.name "Mesa a jorn :">
-<!ENTITY finishedBackground.more1 "Clicatz sus « Tornar aviar &brandShortName; » ara per installar la mesa a jorn immediatament.">
 <!ENTITY finishedBackground.textNotNow "Clicatz sus « Pas ara » per tampar aquesta fenèstra de messatge e contunhar vòstre trabalh. La mesa a jorn serà installada a l'aviada venenta de &brandShortName;.">
 <!ENTITY installed.title "Mesa a jorn installada">
 <!ENTITY installed.intro "La mesa a jorn es estada installada amb succès.">
