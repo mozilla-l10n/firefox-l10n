@@ -188,6 +188,8 @@
 <!ENTITY reloadImageCmd.accesskey     "T">
 <!ENTITY viewImageCmd.label "Visualizar l'imatge">
 <!ENTITY viewImageCmd.accesskey "i">
+<!ENTITY viewVideoCmd.label           "Visualizar la vidèo">
+<!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label "Visualizar l'imatge de fons">
 <!ENTITY viewBGImageCmd.accesskey "v">
 <!ENTITY setDesktopBackgroundCmd.label "Definir coma fons d'ecran...">
