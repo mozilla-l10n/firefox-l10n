@@ -32,6 +32,7 @@
 <!ENTITY cmd.clearList.tooltip "Lèva los telecargaments acabats, anullats o infructuoses de la tièra">
 <!ENTITY cmd.clearList.accesskey "V">
 <!ENTITY cmd.find.commandKey "f">
+<!ENTITY cmd.search.commandKey            "k">
 <!ENTITY closeWhenDone.label "Tampar quand los telescargaments son acabats">
 <!ENTITY closeWhenDone.tooltip "Tampa la fenèstra dels telecargaments quand totes los fichièrs son completament telecargats">
 <!ENTITY showFolder.label "Visualizar aqueste repertòri">
