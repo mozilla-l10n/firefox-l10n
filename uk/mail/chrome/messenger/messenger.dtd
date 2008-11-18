@@ -594,18 +594,18 @@
 <!ENTITY copyMsgToMenu.label "Копіювати у">
 <!ENTITY deleteFolder.accesskey "т">
 <!ENTITY deleteFolder.label "Усунути теку">
-<!ENTITY filtersApplyToMessage.accesskey "s">
-<!ENTITY filtersApplyToMessage.label "Run Filters on Message">
-<!ENTITY filtersApplyToSelection.accesskey "S">
-<!ENTITY filtersApplyToSelection.label "Run Filters on Selected Messages">
-<!ENTITY folderContextEmptyJunk.accesskey "J">
-<!ENTITY folderContextEmptyJunk.label "Empty Junk">
-<!ENTITY folderContextGetMessages.accesskey "G">
-<!ENTITY folderContextGetMessages.label "Get Messages">
-<!ENTITY folderContextSettings.accesskey "e">
-<!ENTITY folderContextSettings.label "Settings…">
-<!ENTITY fromColumn.label "From">
-<!ENTITY fromColumn.tooltip "Click to sort by from">
+<!ENTITY filtersApplyToMessage.accesskey "З">
+<!ENTITY filtersApplyToMessage.label "Застосувати фільтри до повідомлення">
+<!ENTITY filtersApplyToSelection.accesskey "с">
+<!ENTITY filtersApplyToSelection.label "Застосувати фільтри до виділених повідомлень">
+<!ENTITY folderContextEmptyJunk.accesskey "ч">
+<!ENTITY folderContextEmptyJunk.label "Очистити теку зі спамом">
+<!ENTITY folderContextGetMessages.accesskey "О">
+<!ENTITY folderContextGetMessages.label "Отримати листи">
+<!ENTITY folderContextSettings.accesskey "л">
+<!ENTITY folderContextSettings.label "Налаштування…">
+<!ENTITY fromColumn.label "Від">
+<!ENTITY fromColumn.tooltip "Натисніть, щоб відсортувати за відправником">
 <!ENTITY fullZoom.accesskey             "ш">
 <!ENTITY fullZoom.label                 "Масштаб">
 
@@ -640,45 +640,45 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.label         "Звичайний">
 <!ENTITY fullZoomToggleCmd.accesskey    "т">
 <!ENTITY fullZoomToggleCmd.label        "Збільшувати лише текст">
-<!ENTITY getAllNewMsgCmd.accesskey "G">
+<!ENTITY getAllNewMsgCmd.accesskey "О">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
-<!ENTITY getAllNewMsgCmdPopupMenu.label "All Accounts">
-<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
-<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Current Account">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.label      "Hide Others">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "Всі облікові записи">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "П">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Поточний обліковий запис">
+<!ENTITY hideOtherAppsCmdMac.commandkey "х">
+<!ENTITY hideOtherAppsCmdMac.label      "Сховати інші">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.label        "Hide &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "С">
+<!ENTITY hideThisAppCmdMac.label        "Сховати &brandShortName;">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
 <!ENTITY junkBarButton1.label "Не спам">
 <!ENTITY junkBarMessage1.label "Спам">
-<!ENTITY killSubthreadMenu.accesskey "S">
+<!ENTITY killSubthreadMenu.accesskey "І">
 <!ENTITY killSubthreadMenu.key "k">
-<!ENTITY killSubthreadMenu.label "Ignore Subthread">
-<!ENTITY loadRemoteContentButton2.label "Display Images Now">
-<!ENTITY moveMsgToMenu.accesskey "M">
-<!ENTITY moveMsgToMenu.label "Move To">
-<!ENTITY nextUnreadThread.accesskey "T">
+<!ENTITY killSubthreadMenu.label "Ігнорувати гілку">
+<!ENTITY loadRemoteContentButton2.label "Показати зображення зараз">
+<!ENTITY moveMsgToMenu.accesskey "е">
+<!ENTITY moveMsgToMenu.label "Перемістити до">
+<!ENTITY nextUnreadThread.accesskey "Н">
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY phishingBarMessage2.label "Це повідомлення може бути шахрайським.">
 <!ENTITY preferencesCmdMac.commandkey   ",">
-<!ENTITY preferencesCmdMac.label        "Preferences…">
+<!ENTITY preferencesCmdMac.label        "Налаштування…">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY prevMsgCmd.key "b">
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY receivedColumn.label "Отримано">
 <!ENTITY receivedColumn.tooltip "Клацніть щоб сортувати за датою отримання">
-<!ENTITY remoteContentMessage1.label "To protect your privacy, remote images have been blocked.">
+<!ENTITY remoteContentMessage1.label "Віддалені зображення були заблоковані для захисту вашої .">
 <!ENTITY removePhishingBarButton1.label "Зігнорувати попередження">
 <!ENTITY reportPhishingError1.label "Це повідомлення наче не шахрайське.">
-<!ENTITY saveImageAsCmd.accesskey "v">
-<!ENTITY saveImageAsCmd.label "Save Image As…">
-<!ENTITY saveLinkAsCmd.accesskey "k">
-<!ENTITY saveLinkAsCmd.label "Save Link As…">
+<!ENTITY saveImageAsCmd.accesskey "З">
+<!ENTITY saveImageAsCmd.label "Зберегти зображення як…">
+<!ENTITY saveLinkAsCmd.accesskey "п">
+<!ENTITY saveLinkAsCmd.label "Зберегти посилання як…">
 <!ENTITY searchFromMenu.label "Відправник">
 <!ENTITY searchSubjectOrFromMenu.label "Тема або відправник">
-<!ENTITY searchSubjectOrRecipientMenu.label "Тема, адресат або Cc">
+<!ENTITY searchSubjectOrRecipientMenu.label "Тема, адресат або копія">
 <!ENTITY selectAllCmd.accesskey "В">
 <!ENTITY selectAllCmd.label "Вибрати всі">
 <!ENTITY selectFlaggedCmd.accesskey "П">
