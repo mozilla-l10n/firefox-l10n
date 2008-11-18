@@ -1,0 +1,18 @@
+<!ENTITY restorepage.tabtitle       "Restaurar la sesilha">
+<!ENTITY restorepage.pagetitle      "Volètz restaurar vòstra sesilha ?">
+<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
+                        you may translate "crash" instead (even though it's IT-speak) -->
+<!ENTITY restorepage.issueDesc      "La sesilha precedenta de &brandShortName; s'es tampada d'un biais inesperat. Sèm vertadièrament desconsolats dels problèmas. Podètz restaurar los onglets e las fenèstras d'aquesta sesilha o aviar una sesilha novèla se n'avètz pas pus besonh.">
+<!ENTITY restorepage.remedies       "Se &brandShortName; se tampa sovent :">
+<!ENTITY restorepage.dueToChrome    "Ensajatz de desactivar las extensions qu'avètz aponduda recentament dins lo gestionari dels moduls complementaris.">
+<!ENTITY restorepage.dueToContent   "Ensajatz de restaurar vòstra sesilha sens las paginas web que sospechatz de causar lo problèma :">
+
+<!ENTITY restorepage.restoreButton  "Restaurar la sesilha precedenta">
+<!ENTITY restorepage.restore.access "R">
+<!ENTITY restorepage.cancelButton   "Aviar una sesilha novèla">
+<!ENTITY restorepage.cancel.access  "A">
+
+<!ENTITY restorepage.restoreHeader  "Restaurar">
+<!ENTITY restorepage.listHeader     "Fenèstras e onglets">
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Fenèstra &#37;S">
