@@ -80,7 +80,7 @@
 <!ENTITY ScreenName.label               "Komunikator AIM:">
 <!ENTITY ScreenName.accesskey           "K">
 
-<!ENTITY allowRemoteContent.label       "Zezwól na zdalne obrazki w wiadomościach.">
+<!ENTITY allowRemoteContent.label       "Zezwól na zdalne obrazki w wiadomościach">
 <!ENTITY allowRemoteContent.accesskey   "Z">
 <!ENTITY allowRemoteContent.tooltip     "W wiadomościach HTML możliwe jest wstawianie zdalnych obrazków. Otwarcie takiej wiadomości otworzy połączenie ze zdalnym zasobem co może umożliwić wysyłającemu śledzić, czy wiadomość została odczytana. Zaznaczenie tego pola pozwoli automatycznie wczytywać takie zdalne obrazki w wiadomościach od tego kontaktu.">
 
