@@ -51,3 +51,9 @@
 <!ENTITY findAgainCmd.accesskey "n">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY backCmd.label "Tornar">
+<!ENTITY backCmd.accesskey "T">
+<!ENTITY forwardCmd.label "Avançar">
+<!ENTITY forwardCmd.accesskey "A">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">

@@ -1,0 +1,10 @@
+<!ENTITY blocklist.title             "De moduls complementaris pòdon pausar de problèmas">
+<!ENTITY blocklist.style             "width: 45em; height: 30em">
+<!ENTITY blocklist.summary           "&brandShortName; a determinat que los moduls complementaris seguents son coneguts per provocar d'insestabilitat o de problèmas de seguretat :">
+<!ENTITY blocklist.softblocked       "Per vos protegir, vos recomandam de desactivar aqueles moduls puèi de tornar aviar Firefox.">
+<!ENTITY blocklist.hardblocked       "These add-ons have a high risk of causing stability or security problems and have been blocked, but a restart is required to disable them completely.">
+<!ENTITY blocklist.softandhard       "The add-ons that have a high risk of causing stability or security problems have been blocked. The others are lower risk, but it is highly recommended that you restart with them disabled.">
+<!ENTITY blocklist.moreinfo          "Mai d'entresenhas">
+
+<!ENTITY blocklist.accept.label      "Tornar aviar &brandShortName;">
+<!ENTITY blocklist.accept.accesskey  "T">
