@@ -57,7 +57,6 @@
 <!ENTITY messageIdField2.label "id-missatge ">
 <!ENTITY inReplyToField2.label "en-resposta-a ">
 <!ENTITY originalWebsite2.label "lloc web ">
-<!ENTITY saveAll.label "Desa-ho tot…">
 
 <!ENTITY editMessageDescription.label "Aço és un esborrany">
 <!ENTITY editMessageButton.label "Edita…">

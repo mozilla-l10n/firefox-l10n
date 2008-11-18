@@ -46,12 +46,3 @@
 <!ENTITY antiVirus.label      "Permet que els programes antivirus posin en quarantena missatges d'entrada individuals">
 <!ENTITY antiVirus.accesskey  "q">
 
-<!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
-<!ENTITY antiVirusCaption.label "Antivirus">
-<!ENTITY paswords.label         "Contrasenyes">
-<!ENTITY emailScams.label       "Missatges fraudulents">
-<!ENTITY junkMail.label         "Correu brossa">
-<!ENTITY itemIntrusions.label   "Intrusions">
-<!ENTITY itemIntrusionsAndPasswords.label  "Intrusions i contrasenyes">
-<!ENTITY itemJunkMail.label     "Correu brossa">
-

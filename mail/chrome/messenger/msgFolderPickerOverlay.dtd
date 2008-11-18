@@ -39,14 +39,5 @@
 
 
 <!-- Labels -->
-<!ENTITY subscribechoosethis.label "trieu aquest servidor de grups de discussió">
-<!ENTITY subscribeclickhere.label "feu clic ací per a triar un servidor de grups de discussió">
 <!ENTITY newfolderchoosethis.label "trieu aquest per al pare">
-<!ENTITY newfolderclickhere.label "Feu clic ací per a seleccionar">
-<!ENTITY renamefolderchoosethis.label "trieu aquesta carpeta">
-<!ENTITY renamefolderclickhere.label "feu clic ací per a triar una carpeta">
 <!ENTITY filemessageschoosethis.label "trieu aquesta carpeta">
-<!ENTITY filemessagesclickhere.label "feu clic ací per a triar una carpeta">
-<!ENTITY chooseaccountclickhere.label "Feu clic ací per a seleccionar un compte">
-<!ENTITY choosefolderclickhere.label "Feu clic ací per a seleccionar una carpeta">
-<!ENTITY chooseserverToDeferTo.label "feu clic ací per a seleccionar un compte per a emmagatzemar els missatges">

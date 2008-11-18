@@ -1,8 +1,6 @@
 <!ENTITY itemFormatting.label             "Format">
 <!ENTITY itemTags.label                   "Etiquetes">
-<!ENTITY itemFonts.label                  "Tipus de lletres">
 
-<!ENTITY textBegin.label                  "Aparença del text net citat">
 <!ENTITY style.label                      "Estil:">
 <!ENTITY style.accesskey                  "i">
 <!ENTITY regularStyle.label               "Normal">
@@ -19,12 +17,10 @@
 <!ENTITY displayWidth.label               "Missatges en text net">
 <!ENTITY plainText.label				          "Utilitza el tipus de lletra següent:">
 <!ENTITY displayText.label				        "Quan es mostrin missatges de text net citat:">
-<!ENTITY viewingPlainText.label			      "Quan es mostrin missatges de text net:">
 <!ENTITY fixedWidth.label                 "Amplada fixa">
 <!ENTITY fixedWidth.accesskey             "x">
 <!ENTITY variableWidth.label              "Amplada variable">
 <!ENTITY variableWidth.accesskey          "v">
-<!ENTITY readingMessagesHeader.label      "Per als missatges d'entrada">
 <!ENTITY colors.label                     "Colors">
 <!ENTITY overrideColors.label             "Quan es mostrin els missatges, utilitza els colors següents:">
 <!ENTITY  textColor.label                 "Color del text:">

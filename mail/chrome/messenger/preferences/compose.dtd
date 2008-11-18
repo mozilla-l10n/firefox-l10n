@@ -1,9 +1,7 @@
 <!ENTITY itemGeneral.label                   "General">
 <!ENTITY itemAutoComplete.label              "Adreçament">
 <!ENTITY itemSpellCheck.label                "Verificació ortogràfica">
-<!ENTITY itemSendFormat.label                "Format d'enviament">
 
-<!ENTITY forwardReply.label                   "Reenviament de missatges">
 <!ENTITY forwardMsg.label                     "Reenvia missatges:">
 <!ENTITY forwardMsg.accesskey                 "n">
 <!ENTITY inline.label                         "Insert">
@@ -25,7 +23,6 @@
 <!ENTITY restoreHTMLDefaults.label            "Restaura els valors per defecte">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
 
-<!ENTITY sendingMessagesHeader.label          "Redacció de missatges">
 <!ENTITY spellCheck.label                     "Comprova l'ortografia abans d'enviar">
 <!ENTITY spellCheck.accesskey                 "C">
 <!ENTITY spellCheckInline.label               "Habilita la verificació ortogràfica quan comenci a escriure">
@@ -39,10 +36,6 @@
 <!ENTITY autoSave.label                       "Deseu automàticament cada">
 <!ENTITY autoSave.accesskey                   "u">
 <!ENTITY autoSaveEnd.label                    "minuts">
-<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
-<!ENTITY wrapOutMsg.label                     "Ajusta els missatges de text net a">
-<!ENTITY wrapOutMsg.accesskey                 "j">
-<!ENTITY char.label                           "caràcters">
 
 <!ENTITY emailCollectionPicker.label           "Afegeix automàticament les adreces electròniques de sortida a:">
 <!ENTITY emailCollectionPicker.accesskey       "t">
@@ -55,10 +48,7 @@
 <!ENTITY directoriesNone.label                 "Cap">
 <!ENTITY editDirectories.label                 "Edita els directoris…">
 <!ENTITY editDirectories.accesskey             "E">
-<!ENTITY matchText.label                       "Si no hi ha cap coincidència a les vostres llibretes d'adreces locals:">
-<!ENTITY skipDirectory.label                   "No cerquis en el directori">
 
-<!ENTITY sendOptionsCaption.label              "Enviament i opcions HTML">
 <!ENTITY sendOptionsDescription.label          "Configura el comportament del format de text">
 <!ENTITY sendOptions.label                     "Opcions d'enviament…">
 <!ENTITY sendOptions.accesskey                 "v">

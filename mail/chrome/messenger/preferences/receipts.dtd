@@ -1,5 +1,4 @@
 <!ENTITY dialog.title                  "Confirmacions de recepció">
-<!ENTITY receiptSettings.label         "Confirmacions de recepció">
 <!ENTITY requestReceipt.label "Quan s'estiguin enviant missatges, sempre soŀlicita una confirmació de recepció">
 <!ENTITY requestReceipt.accesskey "Q">
 <!ENTITY receiptArrive.label "Quan arribi una confirmació de recepció:">

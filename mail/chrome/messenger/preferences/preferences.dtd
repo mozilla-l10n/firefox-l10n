@@ -7,7 +7,6 @@
 
 <!ENTITY paneGeneral.title        "General">
 <!ENTITY paneDisplay.title        "Visualització">
-<!ENTITY paneTags.title           "Etiquetes">
 <!ENTITY paneComposition.title    "Redacció">
 <!ENTITY paneAttachments.title    "Adjuncions">
 <!ENTITY panePrivacy.title        "Privadesa">

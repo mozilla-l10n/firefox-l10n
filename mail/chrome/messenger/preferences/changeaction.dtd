@@ -19,5 +19,3 @@
 <!ENTITY  chooseFolder.accesskey              "v">
 <!ENTITY  saveToAskMe.label                   "demana'm on desar el fitxer">
 <!ENTITY  saveToAskMe.accesskey               "a">
-<!ENTITY  usePlugin.label                     "Utilitza aquest connector:">
-<!ENTITY  usePlugin.accesskey                 "c">
