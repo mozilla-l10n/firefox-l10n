@@ -1,4 +1,4 @@
-
+﻿
 <!ENTITY migrationWizard.title          "Майстер імпорту">
 
 
@@ -29,5 +29,5 @@
 <!ENTITY done.label                     "Наступні об’єкти були успішно імпортовані:">
 
 <!-- FIXME: localize -->
-<!ENTITY importFromNonWin.label         "Import Preferences, Account Settings, Address Book, Filters, and other data from:">
-<!ENTITY importFromWin.label            "Import Options, Account Settings, Address Book, Filters and other data from:">
+<!ENTITY importFromNonWin.label         "Імпорт налаштувань, параметрів облікового запису, адресної книги, фільтрів та інших даних із:">
+<!ENTITY importFromWin.label            "Імпорт налаштувань, параметрів облікового запису, адресної книги, фільтрів та інших даних із:">
