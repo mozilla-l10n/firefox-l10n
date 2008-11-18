@@ -1,6 +1,9 @@
 <!ENTITY mainWindow.title "&brandFullName;">
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator "-">
+
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Navigacion privada)">
+
 <!ENTITY tabCmd.label "Onglet novèl">
 <!ENTITY tabCmd.accesskey "O">
 <!ENTITY tabCmd.commandkey "t">
@@ -133,6 +136,10 @@
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferéncias">
 <!ENTITY preferencesCmdUnix.accesskey "n">
+<!ENTITY clearRecentHistoryCmd.label            "Voidar l'istoric recent">
+<!ENTITY clearRecentHistoryCmd.accesskey        "i">
+<!ENTITY privateBrowsingCmd.label            "Navigacion privada">
+<!ENTITY privateBrowsingCmd.accesskey        "N">
 <!ENTITY viewMenu.label "Visualizacion">
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenu.label "Barras d'espleches">
@@ -177,6 +184,8 @@
 <!ENTITY viewPageInfoCmd.accesskey "e">
 <!ENTITY viewFrameInfoCmd.label "Visualizar las entresenhas del quadre">
 <!ENTITY viewFrameInfoCmd.accesskey "e">
+<!ENTITY reloadImageCmd.label         "Tornar cargar l'imatge">
+<!ENTITY reloadImageCmd.accesskey     "T">
 <!ENTITY viewImageCmd.label "Visualizar l'imatge">
 <!ENTITY viewImageCmd.accesskey "i">
 <!ENTITY viewBGImageCmd.label "Visualizar l'imatge de fons">
@@ -207,6 +216,16 @@
 <!ENTITY saveImageCmd.accesskey "s">
 <!ENTITY sendImageCmd.label "Mandar l'imatge...">
 <!ENTITY sendImageCmd.accesskey "n">
+<!ENTITY saveVideoCmd.label           "Enregistrar la vidèo coma…">
+<!ENTITY saveVideoCmd.accesskey       "g">
+<!ENTITY saveAudioCmd.label           "Enregistrar l'audio coma…">
+<!ENTITY saveAudioCmd.accesskey       "g">
+<!ENTITY sendImageCmd.label           "Mandar l'imatge…">
+<!ENTITY sendImageCmd.accesskey       "n">
+<!ENTITY sendVideoCmd.label           "Mandar la vidèo…">
+<!ENTITY sendVideoCmd.accesskey       "n">
+<!ENTITY sendAudioCmd.label           "Mandar l'audio…">
+<!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label "Copiar l'adreça del ligam">
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY copyLinkTextCmd.label "Copiar lo tèxt del ligam">
@@ -215,6 +234,10 @@
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyImageContentsCmd.label "Copiar l'imatge">
 <!ENTITY copyImageContentsCmd.accesskey "i">
+<!ENTITY copyVideoURLCmd.label        "Copiar l'emplaçament vidèo">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Copiar l'emplaçament audio">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY blockImageCmd.accesskey "g">
 <!ENTITY metadataCmd.label "Proprietats">
 <!ENTITY metadataCmd.accesskey "P">
@@ -222,6 +245,22 @@
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY thisFrameMenu.label "Aqueste quadre">
 <!ENTITY thisFrameMenu.accesskey "q">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "Legir">
+<!ENTITY mediaPlay.accesskey         "L">
+<!ENTITY mediaPause.label            "Pausa">
+<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaMute.label             "Silenciós">
+<!ENTITY mediaMute.accesskey         "c">
+<!ENTITY mediaUnmute.label           "Sonòr">
+<!ENTITY mediaUnmute.accesskey       "S">
+<!ENTITY mediaShowControls.label     "Visualizar los contraròtles">
+<!ENTITY mediaShowControls.accesskey "c">
+<!ENTITY mediaHideControls.label     "Amagar los contraròtles">
+<!ENTITY mediaHideControls.accesskey "c">
+
+
 <!ENTITY fullZoomEnlargeCmd.label "Agrandir">
 <!ENTITY fullZoomEnlargeCmd.accesskey "A">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
@@ -294,3 +333,5 @@
 <!ENTITY identity.runBy "que lo detentor n'es">
 <!ENTITY identity.moreInfoLinkText "Mai d'entresenhas...">
 <!ENTITY downloadMonitor2.tooltip "Clicatz per dobrir la fenèstra dels telecargaments">
+<!ENTITY ctrlTab.search.emptyText "Recercar dins los onglets">
+
