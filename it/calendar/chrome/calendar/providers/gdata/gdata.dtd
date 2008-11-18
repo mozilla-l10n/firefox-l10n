@@ -38,8 +38,8 @@
 <!ENTITY gdata.privacy.default.label "Predefinito Google">
 <!ENTITY gdata.privacy.default.accesskey "P">
 <!ENTITY gdata.migration.title "Migra calendari in sola lettura">
-<!ENTITY gdata.migration.description "Provider for Google calendar ha rilevato che ci sono calendari esistenti in grado di accedere a Google Calendar solamente in lettura. Se si vuole potenziare qualcuno di questo calendari, selezionarli sotto">
-<!ENTITY gdata.migration.upgrade.label "Potenzia">
-<!ENTITY gdata.migration.upgrade.accesskey "P">
+<!ENTITY gdata.migration.description "Provider for Google calendar ha rilevato che ci sono calendari esistenti in grado di accedere a Google Calendar solamente in lettura. Se si vuole aggiornare qualcuno di questo calendari, selezionarli sotto">
+<!ENTITY gdata.migration.upgrade.label "Aggiorna">
+<!ENTITY gdata.migration.upgrade.accesskey "A">
 <!ENTITY gdata.migration.showagain.label "Controlla sempre">
 <!ENTITY gdata.reminder.action.sms.label "Invia un messaggio di testo">

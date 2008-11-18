@@ -139,7 +139,7 @@
 <!ENTITY event.menu.options.show.time.free.accesskey "L">
 <!ENTITY event.help.label "Aiuto">
 <!ENTITY event.help.accesskey "A">
-<!ENTITY event.help.release.notes.label "Note di rilascio">
+<!ENTITY event.help.release.notes.label "Note di versione">
 <!ENTITY event.help.release.notes.accesskey "N">
 <!ENTITY event.help.help.label "Aiuto per &brandShortName;">
 <!ENTITY event.help.help.accesskey "A">
@@ -178,7 +178,7 @@
 <!ENTITY task.to.accesskey "D">
 <!ENTITY task.status.label "Stato:">
 <!ENTITY task.status.accesskey "S">
-<!ENTITY event.repeat.label "Ripetizione:">
+<!ENTITY event.repeat.label "Ricorrenza:">
 <!ENTITY event.repeat.accesskey "R">
 <!ENTITY event.reminder.label "Promemoria:">
 <!ENTITY event.reminder.accesskey "P">
@@ -212,7 +212,7 @@
 <!ENTITY event.reminder.custom.label "Personalizzato…">
 <!ENTITY event.reminder.multiple.label "Promemoria multipli…">
 <!ENTITY recurrence.title.label "Modifica ricorrenza">
-<!ENTITY event.repeat.does.not.repeat.label "Nessuna ripetizione">
+<!ENTITY event.repeat.does.not.repeat.label "Nessuna ricorrenza">
 <!ENTITY event.repeat.daily.label "Giornaliera">
 <!ENTITY event.repeat.weekly.label "Settimanale">
 <!ENTITY event.repeat.every.weekday.label "Ogni giorno della settimana">
