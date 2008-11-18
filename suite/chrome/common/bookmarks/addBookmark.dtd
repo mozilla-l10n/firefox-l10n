@@ -35,17 +35,16 @@
    -
    - ***** END LICENSE BLOCK ***** -->
   
-<!ENTITY newBookmark.title          "File Bookmark">
-<!ENTITY selectFolder.title         "Choose Folder">
-<!ENTITY name.label                 "Name:">
+<!ENTITY newBookmark.title          "පිටුසලකුණු ගොනුව">
+<!ENTITY selectFolder.title         "බහලුම් නාමය">
+<!ENTITY name.label                 "නම:">
 <!ENTITY name.accesskey             "N">
-<!ENTITY url.label                  "Location:">
+<!ENTITY url.label                  "පිහිටුම:">
 <!ENTITY url.accesskey              "L">
-<!ENTITY shortcutURL.label          "Keyword:">
+<!ENTITY shortcutURL.label          "යතුරු වදන:">
 <!ENTITY shortcutURL.accesskey      "K">
-<!ENTITY destination.label          "Destination:">
-<!ENTITY destination.accesskey      "D">
-<!ENTITY newFolder.label            "New Folder…">
+<!ENTITY destination.label          "අන්තය:">
+<!ENTITY newFolder.label            "නව බහලුම…">
 <!ENTITY newFolder.accesskey        "w">
-<!ENTITY addGroup.label             "Bookmark this group of tabs">
+<!ENTITY addGroup.label             "මෙම ටැබ් සමූහය සලකුණු කරන්න">
 <!ENTITY addGroup.accesskey         "B">
