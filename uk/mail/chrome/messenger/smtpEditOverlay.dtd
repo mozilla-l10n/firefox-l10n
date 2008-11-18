@@ -1,4 +1,4 @@
-<!ENTITY settings.caption "Налаштування">
+﻿<!ENTITY settings.caption "Налаштування">
 <!ENTITY security.caption "Безпека і аутентифікація">
 <!ENTITY serverName.label "Ім’я сервера:">
 <!ENTITY serverName.accesskey "І">
@@ -17,11 +17,11 @@
 <!ENTITY serverPortDefault.label "За умовчанням:">
 
 <!-- FIXME: localize -->
-<!ENTITY alwaysSMTPOverSSL.accesskey "L">
-<!ENTITY alwaysSMTPOverSSL.label "SMTP-over-SSL">
-<!ENTITY alwaysSTARTTLS.accesskey "T">
-<!ENTITY alwaysSTARTTLS.label "STARTTLS">
-<!ENTITY sometimesSTARTTLS.accesskey "a">
-<!ENTITY sometimesSTARTTLS.label "STARTTLS, if available">
-<!ENTITY useSecAuth.accesskey "i">
-<!ENTITY useSecAuth.label "Use secure authentication">
+<!ENTITY alwaysSMTPOverSSL.accesskey "ч">
+<!ENTITY alwaysSMTPOverSSL.label "SMTP через SSL">
+<!ENTITY alwaysSTARTTLS.accesskey "в">
+<!ENTITY alwaysSTARTTLS.label "Завжди використовувати STARTTLS">
+<!ENTITY sometimesSTARTTLS.accesskey "я">
+<!ENTITY sometimesSTARTTLS.label "Використовувати STARTTLS якщо можна">
+<!ENTITY useSecAuth.accesskey "з">
+<!ENTITY useSecAuth.label "Використовувати захищену автентифікацію">

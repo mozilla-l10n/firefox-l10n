@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
  The contents of this file are subject to the Mozilla Public License Version
@@ -74,7 +74,7 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY importDialog.workTitle  "Робочий">
 
 <!-- FIXME: localize -->
-<!ENTITY importDescription1.label "This wizard will import mail messages, address book entries, preferences, and/or filters from other mail programs and common address book formats into &brandShortName;.">
-<!ENTITY importDialog.allTitle    "Import everything">
-<!ENTITY importDialog.filtersTitle "Filters">
-<!ENTITY importShortDesc.label    "Import Mail, Address Books, Settings, and Filters from other programs">
+<!ENTITY importDescription1.label "Цей майстер імпортує листи, адресні книги, налаштування чи/та фільтри з інших поштових програм та поширених форматів адресних книжок у &brandShortName;.">
+<!ENTITY importDialog.allTitle    "Імпортувати все">
+<!ENTITY importDialog.filtersTitle "Фільтри">
+<!ENTITY importShortDesc.label    "Імпорт листів, адресних книжок, налаштувань і фільтрів з інших програм">

@@ -1,4 +1,4 @@
-<!ENTITY startpage.welcome "Ласкаво просимо у &brandFullName;!">
+﻿<!ENTITY startpage.welcome "Ласкаво просимо у &brandFullName;!">
 <!ENTITY startpage.intro "&brandFullName; — потужний поштовий та новинний клієнт з відкритими початковими кодами. ">
 
 <!ENTITY startpage.features "Функціональність">

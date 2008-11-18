@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
  The contents of this file are subject to the Mozilla Public License Version
@@ -45,15 +45,15 @@
 
 
 <!-- FIXME: localize -->
-<!ENTITY fieldMapImport.down.label "Move Down">
-<!ENTITY fieldMapImport.next.label "Next">
-<!ENTITY fieldMapImport.previous.label "Previous">
-<!ENTITY fieldMapImport.skipFirstRecord.label "First record contains field names">
-<!ENTITY fieldMapImport.up.label "Move Up">
+<!ENTITY fieldMapImport.down.label "Донизу">
+<!ENTITY fieldMapImport.next.label "Далі">
+<!ENTITY fieldMapImport.previous.label "Назад">
+<!ENTITY fieldMapImport.skipFirstRecord.label "Перший запис містить назви полів">
+<!ENTITY fieldMapImport.up.label "Вгору">
 
 <!-- FIXME: localize -->
-<!ENTITY fieldMapImport.down.accesskey "D">
-<!ENTITY fieldMapImport.next.accesskey "N">
-<!ENTITY fieldMapImport.previous.accesskey "P">
-<!ENTITY fieldMapImport.skipFirstRecord.accessKey "F">
-<!ENTITY fieldMapImport.up.accesskey "U">
+<!ENTITY fieldMapImport.down.accesskey "н">
+<!ENTITY fieldMapImport.next.accesskey "Д">
+<!ENTITY fieldMapImport.previous.accesskey "з">
+<!ENTITY fieldMapImport.skipFirstRecord.accessKey "П">
+<!ENTITY fieldMapImport.up.accesskey "г">

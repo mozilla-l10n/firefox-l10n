@@ -1,4 +1,4 @@
-<!ENTITY  connectionsDialog.title       "Параметри з’єднання">
+﻿<!ENTITY  connectionsDialog.title       "Параметри з’єднання">
 <!ENTITY  window.width                   "54em">
 
 <!ENTITY  proxyTitle.label              "Налаштування проксі для доступу в Інтернет">
@@ -31,10 +31,10 @@
 <!ENTITY  shareproxy.accesskey          "се">
 
 <!-- FIXME: localize -->
-<!ENTITY  HTTPport.label                "Port:">
-<!ENTITY  SOCKSport.label               "Port:">
-<!ENTITY  SSLport.label                 "Port:">
-<!ENTITY  noProxyTypeRadio.accesskey    "y">
-<!ENTITY  noProxyTypeRadio.label        "No proxy">
-<!ENTITY  systemTypeRadio.accesskey     "u">
-<!ENTITY  systemTypeRadio.label         "Use system proxy settings">
+<!ENTITY  HTTPport.label                "Порт:">
+<!ENTITY  SOCKSport.label               "Порт:">
+<!ENTITY  SSLport.label                 "Порт:">
+<!ENTITY  noProxyTypeRadio.accesskey    "Б">
+<!ENTITY  noProxyTypeRadio.label        "Без проксі">
+<!ENTITY  systemTypeRadio.accesskey     "с">
+<!ENTITY  systemTypeRadio.label         "Використовувати системні параметри проксі">

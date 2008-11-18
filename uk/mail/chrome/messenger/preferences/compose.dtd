@@ -1,4 +1,4 @@
-<!ENTITY itemGeneral.label                   "Основні">
+﻿<!ENTITY itemGeneral.label                   "Основні">
 <!ENTITY itemAutoComplete.label              "Автодоповнення">
 <!ENTITY itemSpellCheck.label                "Орфографія">
 
@@ -52,6 +52,6 @@
 
 
 <!-- FIXME: localize -->
-<!ENTITY addExtension.accesskey               "f">
-<!ENTITY addExtension.label                   "add extension to file name">
-<!ENTITY directoriesNone.label                 "None">
+<!ENTITY addExtension.accesskey               "ф">
+<!ENTITY addExtension.label                   "додати розширення до імені файлу">
+<!ENTITY directoriesNone.label                 "Ніякому">

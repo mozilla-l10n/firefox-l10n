@@ -1,4 +1,4 @@
-<!ENTITY doNotDownloadPop3Movemail.label "Щоб зекономити місце на диску, не завантажувати:">
+﻿<!ENTITY doNotDownloadPop3Movemail.label "Щоб зекономити місце на диску, не завантажувати:">
 <!ENTITY doNotDownload.label "Щоб зекономити місце на диску, не завантажувати для роботи в автономному режимі:">
 <!ENTITY offlineNotDownload.label "Повідомлення, більші за">
 <!ENTITY offlineNotDownload.accesskey "Б">
@@ -25,9 +25,9 @@
 <!ENTITY diskspaceGroupTitle.label "Дисковий простір">
 
 <!-- FIXME: localize -->
-<!ENTITY allFoldersOffline.accesskey "o">
-<!ENTITY allFoldersOffline.label "Keep messages for this account on this computer">
-<!ENTITY offlineImapAdvancedOffline.accesskey "A">
-<!ENTITY offlineImapAdvancedOffline.label "Advanced…">
+<!ENTITY allFoldersOffline.accesskey "а">
+<!ENTITY allFoldersOffline.label "Залишати листи облікового запису на цьому комп'ютері">
+<!ENTITY offlineImapAdvancedOffline.accesskey "о">
+<!ENTITY offlineImapAdvancedOffline.label "Додатково…">
 
-<!ENTITY syncGroupTitle.label "Message Synchronizing">
+<!ENTITY syncGroupTitle.label "Синхронізація листів">
