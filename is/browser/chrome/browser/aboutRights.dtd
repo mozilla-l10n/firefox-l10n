@@ -18,7 +18,7 @@
 <!ENTITY rights.intro-point2b "hérna">
 <!ENTITY rights.intro-point2c ".">
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "Hér má finna friðhelgisreglur fyrir &vendorShortName; vörur ">
+<!ENTITY rights.intro-point3a "Finna má friðhelgisreglur fyrir &vendorShortName; vörur ">
 <!ENTITY rights.intro-point3b "hérna">
 <!ENTITY rights.intro-point3c ".">
 <!-- point 3 text for unbranded builds -->
