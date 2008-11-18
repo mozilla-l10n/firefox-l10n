@@ -9,7 +9,7 @@
 <!ENTITY resetPassword.title "Tornar inicializar lo senhal principal">
 <!ENTITY resetPassword.text "S'escafatz vòstre senhal principal, totes vòstres senhals Web e corrièr, vòstras donadas de formularis, vòstres certificats personals e vòstras claus privadas seràn doblidats. Volètz vertadièrament suprimir lo senhal principal ?">
 <!ENTITY getPassword.title "Picar lo senhal principal">
-<!ENTITY getPassword.tokenName.label "Periferic de seguretat">
+<!ENTITY getPassword.tokenName2.label "Periferic de seguretat">
 <!ENTITY getPassword.password.label "Senhal :">
 <!ENTITY piperror.title "Error">
 <!ENTITY pipalert.title "Error - impossible de recuperar">
