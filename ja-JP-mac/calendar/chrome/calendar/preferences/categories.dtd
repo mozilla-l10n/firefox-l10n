@@ -54,5 +54,5 @@
 <!ENTITY pref.categories.none.label   "(なし)">
 <!ENTITY pref.categories.overwrite  "すでにそのカテゴリ名は存在しています。\n上書きしてよろしいですか？">
 <!ENTITY pref.categories.overwrite.title  "警告: 重複した名前">
-<!ENTITY pref.categories.noBlankCategories  "重複しないカテゴリ名を入力してください。">
+<!ENTITY pref.categories.noBlankCategories  "カテゴリ名を入力してください。">
 
