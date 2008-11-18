@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -92,7 +92,7 @@
 <!ENTITY folderQuotaStatus.label                 "Стан:">
 
 <!-- FIXME: localize -->
-<!ENTITY folderProps.location.accesskey          "L">
-<!ENTITY folderProps.location.label              "Location:">
-<!ENTITY retentionDeleteMsg.accesskey "m">
-<!ENTITY retentionDeleteMsg.label "Delete messages more than">
+<!ENTITY folderProps.location.accesskey          "о">
+<!ENTITY folderProps.location.label              "Розташування:">
+<!ENTITY retentionDeleteMsg.accesskey "л">
+<!ENTITY retentionDeleteMsg.label "Видаляти листи більші ніж">

@@ -1,8 +1,8 @@
-
+﻿
 <!-- FIXME: localize -->
-<!ENTITY searchIntegration.engineName "Windows Search">
-<!ENTITY searchIntegration.title "&searchIntegration.engineName; Integration">
-<!ENTITY searchIntegration.description "Would you like to enable &searchIntegration.engineName; to index and search through &brandShortName; mail and news messages?">
+<!ENTITY searchIntegration.engineName "Пошук Windows">
+<!ENTITY searchIntegration.title "Інтеграція з &searchIntegration.engineName;">
+<!ENTITY searchIntegration.description "Чи бажаєте ви ввімкнути &searchIntegration.engineName; для пошуку та індексування листів та новин у &brandShortName;?">
 
-<!ENTITY searchIntegration.accept "Enable &searchIntegration.engineName;">
-<!ENTITY searchIntegration.cancel "Don't Enable &searchIntegration.engineName;">
+<!ENTITY searchIntegration.accept "Ввімкнути &searchIntegration.engineName;">
+<!ENTITY searchIntegration.cancel "Не вмикати &searchIntegration.engineName;">

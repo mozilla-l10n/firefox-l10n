@@ -1,4 +1,4 @@
-<!ENTITY dialog.title                 "Параметри надсилання">
+﻿<!ENTITY dialog.title                 "Параметри надсилання">
 <!ENTITY sendMail.title               "Текстовому форматі">
 <!ENTITY sendMaildesc.label           "При відсиланні повідомлень у форматі HTML, якщо вказано, що один або декілька з адресатів не можуть отримувати пошту у форматі HTML:">
 <!ENTITY askMe.label                  "Запитувати (поштовий клієнт запитає, який формат використовувати)">
@@ -31,7 +31,7 @@
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
 
 <!-- FIXME: localize -->
-<!ENTITY AddHtmlDomain.label          "Add…">
-<!ENTITY AddPlainText.label           "Add…">
-<!ENTITY DeleteHtmlDomain.label       "Delete">
-<!ENTITY DeletePlainText.label        "Delete">
+<!ENTITY AddHtmlDomain.label          "Додати…">
+<!ENTITY AddPlainText.label           "Додати…">
+<!ENTITY DeleteHtmlDomain.label       "Вилучити">
+<!ENTITY DeletePlainText.label        "Вилучити">

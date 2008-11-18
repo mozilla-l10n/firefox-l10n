@@ -1,4 +1,4 @@
-<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+﻿<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
 <!ENTITY viewPicker.label "Перегляд:">
 <!ENTITY viewPicker.accesskey "П">
@@ -16,5 +16,5 @@
 <!ENTITY viewCustomizeView.accesskey "Н">
 
 <!-- FIXME: localize -->
-<!ENTITY viewNotDeleted.accesskey "D">
-<!ENTITY viewNotDeleted.label "Not Deleted">
+<!ENTITY viewNotDeleted.accesskey "в">
+<!ENTITY viewNotDeleted.label "Не вилучені">

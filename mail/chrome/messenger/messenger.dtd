@@ -1,4 +1,4 @@
-<!ENTITY messengerWindow.title "Пошта і конференції">
+﻿<!ENTITY messengerWindow.title "Пошта і конференції">
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " — ">
 
@@ -683,11 +683,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY selectAllCmd.label "Вибрати всі">
 <!ENTITY selectFlaggedCmd.accesskey "П">
 <!ENTITY selectFlaggedCmd.label "Відзначені повідомлення">
-<!ENTITY servicesMenuMac.label          "Services">
-<!ENTITY showAllAppsCmdMac.label        "Show All">
-<!ENTITY sortByFromCmd.accesskey "F">
-<!ENTITY sortByFromCmd.label "From">
-<!ENTITY sortByReceivedCmd.accesskey "v">
-<!ENTITY sortByReceivedCmd.label "Received">
-<!ENTITY undeleteButton.label "Undelete">
-<!ENTITY undeleteButton.tooltip "Undelete selected message">
+<!ENTITY servicesMenuMac.label          "Служби">
+<!ENTITY showAllAppsCmdMac.label        "Показати всі">
+<!ENTITY sortByFromCmd.accesskey "В">
+<!ENTITY sortByFromCmd.label "Від">
+<!ENTITY sortByReceivedCmd.accesskey "О">
+<!ENTITY sortByReceivedCmd.label "Отримано">
+<!ENTITY undeleteButton.label "Відновити">
+<!ENTITY undeleteButton.tooltip "Відновити виділене повідомлення">

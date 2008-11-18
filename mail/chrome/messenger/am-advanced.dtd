@@ -1,4 +1,4 @@
-<!-- extracted from am-advanced.xul -->
+﻿<!-- extracted from am-advanced.xul -->
 
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Параметри сервера вихідних повідомлень (SMTP)">
@@ -22,4 +22,4 @@
 <!ENTITY useSecureConnection.label   "Захищений зв’язок: ">
 
 <!-- FIXME: localize -->
-<!ENTITY useSecureAuthentication.label   "Secure Authentication: ">
+<!ENTITY useSecureAuthentication.label   "Захищена автентифікація: ">

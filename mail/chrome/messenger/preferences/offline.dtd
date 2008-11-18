@@ -1,4 +1,4 @@
-<!ENTITY offlineDialog.title       "Налаштування автономного режиму">
+﻿<!ENTITY offlineDialog.title       "Налаштування автономного режиму">
 
 <!ENTITY textStartUp   "При запуску:">
 
@@ -6,23 +6,23 @@
 <!ENTITY textGoingOffline "Завантажувати повідомлення перед виходом в автономний режим?">
 
 <!-- FIXME: localize -->
-<!ENTITY radioAlwaysOnline.label "Always start up online">
-<!ENTITY radioAskDownload.label "Ask me">
-<!ENTITY radioAskMe.label "Ask me for online state at startup">
-<!ENTITY radioAskUnsent.label "Ask me">
-<!ENTITY radioAutoDownload.label "Yes">
-<!ENTITY radioAutoSend.label "Yes">
-<!ENTITY radioNotDownload.label "No">
-<!ENTITY radioNotSend.label "No">
-<!ENTITY radioRememberPrevState.label "Remember previous online state">
+<!ENTITY radioAlwaysOnline.label "Завжди запускатися в онлайн-режимі">
+<!ENTITY radioAskDownload.label "Питати мене">
+<!ENTITY radioAskMe.label "Питати мене про онлайн-режим при запуску">
+<!ENTITY radioAskUnsent.label "Питати мене">
+<!ENTITY radioAutoDownload.label "Так">
+<!ENTITY radioAutoSend.label "Так">
+<!ENTITY radioNotDownload.label "Ні">
+<!ENTITY radioNotSend.label "Ні">
+<!ENTITY radioRememberPrevState.label "Пам'ятати про автономний режим">
 
 <!-- FIXME: localize -->
-<!ENTITY radioAlwaysOnline.accesskey "l">
-<!ENTITY radioAskDownload.accesskey "a">
-<!ENTITY radioAskMe.accesskey "u">
-<!ENTITY radioAskUnsent.accesskey "s">
-<!ENTITY radioAutoDownload.accesskey "e">
-<!ENTITY radioAutoSend.accesskey "Y">
-<!ENTITY radioNotDownload.accesskey "o">
-<!ENTITY radioNotSend.accesskey "N">
-<!ENTITY radioRememberPrevState.accesskey "R">
+<!ENTITY radioAlwaysOnline.accesskey "З">
+<!ENTITY radioAskDownload.accesskey "П">
+<!ENTITY radioAskMe.accesskey "и">
+<!ENTITY radioAskUnsent.accesskey "т">
+<!ENTITY radioAutoDownload.accesskey "Т">
+<!ENTITY radioAutoSend.accesskey "а">
+<!ENTITY radioNotDownload.accesskey "Н">
+<!ENTITY radioNotSend.accesskey "і">
+<!ENTITY radioRememberPrevState.accesskey "р">

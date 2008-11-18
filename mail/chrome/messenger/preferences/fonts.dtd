@@ -1,4 +1,4 @@
-<!ENTITY  fontsAndEncodingsDialog.title           "Шрифти та кодування">
+﻿<!ENTITY  fontsAndEncodingsDialog.title           "Шрифти та кодування">
 <!ENTITY  window.width                            "54em">
 <!ENTITY  window.macWidth                         "58em">
 <!ENTITY  window.unixWidth                        "56em">
@@ -72,5 +72,5 @@
 <!ENTITY viewDefaultCharsetList.accesskey	"і">
 
 <!-- FIXME: localize -->
-<!ENTITY replyInDefaultCharset2.accesskey "h">
-<!ENTITY replyInDefaultCharset2.label     "When possible, use the default character encoding in replies">
+<!ENTITY replyInDefaultCharset2.accesskey "с">
+<!ENTITY replyInDefaultCharset2.label     "Вживати стандартне кодування символів у відповідях на листи коли це можливо">
