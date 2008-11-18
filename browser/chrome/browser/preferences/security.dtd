@@ -37,10 +37,8 @@
 <!ENTITY warningSettings.label "Настроїти…">
 <!ENTITY warningSettings.accesskey "а">
 
-
-<!-- FIXME: localize -->
 <!ENTITY  blockAttackSites.accesskey "н">
-<!ENTITY  blockAttackSites.label     "Блокувати сайти, відзвітовані як западники">
+<!ENTITY  blockAttackSites.label     "Блокувати сайти, відзвітовані як нападники">
 
 <!ENTITY  blockWebForgeries.accesskey "п">
 <!ENTITY  blockWebForgeries.label     "Блокувати сайти, відзвітовані як підробки">

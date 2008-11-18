@@ -1,15 +1,13 @@
+<!ENTITY privatebrowsingpage.tabtitle                  "Потайливий режим">
 
-<!-- FIXME: localize -->
-<!ENTITY privatebrowsingpage.tabtitle                  "Private Browsing">
+<!ENTITY privatebrowsingpage.pagetitle                 "Потайливий режим">
 
-<!ENTITY privatebrowsingpage.pagetitle                 "Private Browsing">
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; не запам’ятовуватиме історію цього сеансу.">
+<!ENTITY privatebrowsingpage.longDesc                  "&brandShortName; не запише жодних даних про цей сеанс перегляду. Маються на увазі історія браузеру, історія пошуків, історія завантажень, історія веб-форм, куки та тимчасові мережеві файли.  Однак завантажені вами файли та поставлені вами закладки лишаться.">
 
-<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; won't remember any history for this session.">
-<!ENTITY privatebrowsingpage.longDesc                  "No history will be recorded by &brandShortName; during this browsing session.  This includes browser history, search history, download history, web form history, cookies, and temporary internet files.  However, any files you download or bookmarks you create will be preserved.">
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Ви можете також для початку вичистити вашу недавню історію.">
+<!ENTITY privatebrowsingpage.recentHistory.label       "Вичистити недавню історію">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey   "В">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "You may want to start by also clearing your recent history.">
-<!ENTITY privatebrowsingpage.recentHistory.label       "Clear Recent History">
-<!ENTITY privatebrowsingpage.recentHistory.accesskey   "C">
-
-<!ENTITY privatebrowsingpage.howToStopDesc             "To stop private browsing, uncheck Tools &gt; Private Browsing.">
-<!ENTITY privatebrowsingpage.footerDesc                "Enjoy!">
+<!ENTITY privatebrowsingpage.howToStopDesc             "Щоб вийти з потайливого режиму зніміть прапорець Інструменти &gt; Потайливий режим">
+<!ENTITY privatebrowsingpage.footerDesc                "Насолоджуйтесь!">

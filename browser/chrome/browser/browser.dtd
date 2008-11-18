@@ -395,7 +395,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY copyVideoURLCmd.label        "Копіювати адресу відео">
 <!ENTITY ctrlTab.search.emptyText "Шукати вкладку">
 
-<!-- FIXME: localize -->
 <!ENTITY mediaHideControls.accesskey "х">
 <!ENTITY mediaHideControls.label     "Приховати керувальники">
 <!ENTITY mediaMute.accesskey         "и">
@@ -422,9 +421,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY viewVideoCmd.accesskey       "г">
 <!ENTITY viewVideoCmd.label           "Переглянути відео">
 
-<!-- FIXME: localize -->
-
 <!ENTITY privateBrowsingCmd.accesskey        "П">
-<!ENTITY privateBrowsingCmd.label            "Приватний режим">
+<!ENTITY privateBrowsingCmd.label            "Потайливий режим">
 
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Приватний режим)">
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Потайливий режим)">
