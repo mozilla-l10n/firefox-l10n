@@ -47,7 +47,7 @@
 <!ENTITY folderCharsetOverride.accesskey         "S">
 <!ENTITY folderRebuildSummaryFile.label          "Index wiederherstellen">
 <!ENTITY folderRebuildSummaryFile.accesskey      "W">
-<!ENTITY folderRebuildSummaryFileTip.label       "Index-Datei wiederherstellen"> 
+<!ENTITY folderRebuildSummaryFileTip.label       "Index-Datei wiederherstellen">
      
 <!ENTITY retention.label "Speicherplatz">
 <!ENTITY retentionUseDefault.label  "Einstellungen des Kontos verwenden">

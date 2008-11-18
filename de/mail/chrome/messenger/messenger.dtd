@@ -42,7 +42,7 @@
 <!ENTITY deleteFolder.accesskey "l">
 <!ENTITY renameFolder.label "Ordner umbenennen…">
 <!ENTITY renameFolder.accesskey "u">
-<!ENTITY renameFolder.key "VK_F2"> 
+<!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Alle Ordner des Kontos komprimieren">
 <!ENTITY compactFolders.accesskey		"k">
 <!ENTITY emptyTrashCmd.label "Papierkorb leeren">
@@ -203,7 +203,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.label "Beobachtete mit ungelesenen Beiträgen">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "B">
 <!ENTITY ignoredThreadsCmd.label "Ignorierte Themen">
-<!ENTITY ignoredThreadsCmd.accesskey "I">  
+<!ENTITY ignoredThreadsCmd.accesskey "I">
 <!ENTITY headersMenu.label "Kopfzeilen">
 <!ENTITY headersMenu.accesskey "K">
 <!ENTITY headersAllCmd.label "Alle">
@@ -393,7 +393,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsNotJunkCmd.label "Kein Junk">
 <!ENTITY markAsNotJunkCmd.accesskey "N">
 <!ENTITY markAsNotJunkCmd.key "j">
-<!ENTITY recalculateJunkScoreCmd.label "Junk-Filter anwenden"> 
+<!ENTITY recalculateJunkScoreCmd.label "Junk-Filter anwenden">
 <!ENTITY recalculateJunkScoreCmd.accesskey "F">
 <!ENTITY openMessageWindowCmd.label "Öffnen">
 <!ENTITY openMessageWindowCmd.accesskey "Ö">
@@ -410,7 +410,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY messengerCmd.label "&brandShortName;">
 <!ENTITY messengerCmd.accesskey "T">
 <!ENTITY messengerCmd.commandkey "1">
-<!ENTITY addressBookCmd.label "Adressbuch">  
+<!ENTITY addressBookCmd.label "Adressbuch">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.commandkey "2">
 <!ENTITY runJunkControls.label "Junk-Filter auf Ordner anwenden">
@@ -559,7 +559,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Klicken Sie, um die anzuzeigenden Spalten zu wählen">
-<!ENTITY threadColumn.tooltip "Klicken, um Nachrichten-Themen anzuzeigen"> 
+<!ENTITY threadColumn.tooltip "Klicken, um Nachrichten-Themen anzuzeigen">
 <!ENTITY fromColumn.tooltip "Klicken, um nach Von zu sortieren">
 <!ENTITY recipientColumn.tooltip "Klicken, um nach Empfänger zu sortieren">
 <!ENTITY subjectColumn.tooltip "Klicken, um nach Betreff zu sortieren">

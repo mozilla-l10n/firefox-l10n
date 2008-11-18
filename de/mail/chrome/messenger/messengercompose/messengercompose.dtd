@@ -2,7 +2,7 @@
 <!ENTITY msgComposeWindow.title "Verfassen: (Kein Betreff)">
 
 <!-- File Menu -->
-<!ENTITY fileMenu.label "Datei"> 
+<!ENTITY fileMenu.label "Datei">
 <!ENTITY fileMenu.accesskey "D">
 <!ENTITY newMenu.label "Neu">
 <!ENTITY newMenu.accesskey "N">
@@ -48,20 +48,20 @@
 <!ENTITY printCmd.accesskey "D">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.label "Bearbeiten"> 
+<!ENTITY editMenu.label "Bearbeiten">
 <!ENTITY editMenu.accesskey "B">
 <!ENTITY undoCmd.label "Rückgängig">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "R"> 
+<!ENTITY undoCmd.accesskey "R">
 <!ENTITY redoCmd.label "Wiederherstellen">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "W"> 
+<!ENTITY redoCmd.accesskey "W">
 <!ENTITY cutCmd.label "Ausschneiden">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "A"> 
+<!ENTITY cutCmd.accesskey "A">
 <!ENTITY copyCmd.label "Kopieren">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "K"> 
+<!ENTITY copyCmd.accesskey "K">
 <!ENTITY pasteCmd.label "Einfügen">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "E">
@@ -73,7 +73,7 @@
 <!ENTITY deleteCmd.accesskey "L">
 <!ENTITY selectAllCmd.label "Alles auswählen">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "w"> 
+<!ENTITY selectAllCmd.accesskey "w">
 <!ENTITY findCmd.label "Suchen und ersetzen…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "S">
@@ -84,13 +84,13 @@
 <!ENTITY findPrevCmd.label "Vorheriges suchen">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "v"> 
+<!ENTITY findPrevCmd.accesskey "v">
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label "Ansicht"> 
+<!ENTITY viewMenu.label "Ansicht">
 <!ENTITY viewMenu.accesskey "A">
-<!ENTITY viewToolbarsMenuNew.label "Symbolleisten"> 
-<!ENTITY viewToolbarsMenuNew.accesskey "y"> 
+<!ENTITY viewToolbarsMenuNew.label "Symbolleisten">
+<!ENTITY viewToolbarsMenuNew.accesskey "y">
 <!ENTITY showCompositionToolbarCmd.label "Verfassen-Symbolleiste">
 <!ENTITY showFormattingBarCmd.label "Formatierungsleiste">
 <!ENTITY showFormattingBarCmd.accesskey "F">
@@ -99,8 +99,8 @@
 <!ENTITY customizeToolbar.label "Anpassen…">
 <!ENTITY customizeToolbar.accesskey "A">
 
-<!ENTITY addressSidebar.label "Kontakte-Sidebar"> 
-<!ENTITY addressSidebar.accesskey "o"> 
+<!ENTITY addressSidebar.label "Kontakte-Sidebar">
+<!ENTITY addressSidebar.accesskey "o">
 
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "Format">
@@ -168,14 +168,14 @@
 <!ENTITY preferencesCmd.label "Einstellungen…">
 <!ENTITY preferencesCmd.accesskey "E">
 <!ENTITY preferencesCmdUnix.label       "Einstellungen…">
-<!ENTITY preferencesCmdUnix.accesskey   "n"> 
+<!ENTITY preferencesCmdUnix.accesskey   "n">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Fenster minimieren">
 <!ENTITY bringAllToFront.label "Fenster zeigen">
-<!ENTITY zoomWindow.label "Fenster maximieren"> 
-<!ENTITY windowMenu.label "Fenster"> 
+<!ENTITY zoomWindow.label "Fenster maximieren">
+<!ENTITY windowMenu.label "Fenster">
 
 <!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Senden">
@@ -187,12 +187,12 @@
 <!ENTITY throbberItem.title "Aktivitäts-Indikator">
 
 <!-- Mail Toolbar Tooltips -->
-<!ENTITY sendButton.tooltip "Diese Nachricht jetzt senden"> 
-<!ENTITY sendlaterButton.tooltip "Die Nachricht wird in den Postausgang gelegt"> 
-<!ENTITY quoteButton.tooltip "Die vorhergehende Nachricht zitieren"> 
-<!ENTITY addressButton.tooltip "Kontakte-Sidebar ein-/ausblenden"> 
-<!ENTITY attachButton.tooltip "Datei-Anhang zu dieser Nachricht anfügen"> 
-<!ENTITY saveButton.tooltip "Diese Nachricht speichern"> 
+<!ENTITY sendButton.tooltip "Diese Nachricht jetzt senden">
+<!ENTITY sendlaterButton.tooltip "Die Nachricht wird in den Postausgang gelegt">
+<!ENTITY quoteButton.tooltip "Die vorhergehende Nachricht zitieren">
+<!ENTITY addressButton.tooltip "Kontakte-Sidebar ein-/ausblenden">
+<!ENTITY attachButton.tooltip "Datei-Anhang zu dieser Nachricht anfügen">
+<!ENTITY saveButton.tooltip "Diese Nachricht speichern">
 <!ENTITY cutButton.tooltip              "Ausschneiden">
 <!ENTITY copyButton.tooltip             "Kopieren">
 <!ENTITY pasteButton.tooltip            "Einfügen">
@@ -200,12 +200,12 @@
 <!-- Headers -->
 <!ENTITY fromAddr.label "Von:">
 <!ENTITY fromAddr.accesskey "V">
-<!ENTITY toAddr.label "An:"> 
-<!ENTITY ccAddr.label "CC:"> 
-<!ENTITY bccAddr.label "BCC:"> 
-<!ENTITY replyAddr.label "Antwort an:"> 
-<!ENTITY newsgroupsAddr.label "Newsgruppe:"> 
-<!ENTITY followupAddr.label "Followup an:"> 
+<!ENTITY toAddr.label "An:">
+<!ENTITY ccAddr.label "CC:">
+<!ENTITY bccAddr.label "BCC:">
+<!ENTITY replyAddr.label "Antwort an:">
+<!ENTITY newsgroupsAddr.label "Newsgruppe:">
+<!ENTITY followupAddr.label "Followup an:">
 <!ENTITY subject.label "Betreff:">
 <!ENTITY subject.accesskey "r">
 <!ENTITY attachments.label "Anhänge:">

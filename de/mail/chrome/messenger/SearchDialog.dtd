@@ -15,7 +15,7 @@
 <!ENTITY fileHereMenu.accesskey      "I">
 <!ENTITY fileButton.label            "Ablegen">
 <!ENTITY fileButton.accesskey        "b">
-<!ENTITY closeCmd.key                "W"> 
+<!ENTITY closeCmd.key                "W">
 <!ENTITY goToFolderButton.label      "Ordner öffnen">
 <!ENTITY goToFolderButton.accesskey  "O">
 <!ENTITY saveAsVFButton.label        "Als virtuellen Ordner speichern…">
@@ -52,7 +52,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Klicken Sie, um die anzuzeigenden Spalten zu wählen">
-<!ENTITY threadColumn.tooltip "Klicken, um Nachrichten-Themen anzuzeigen"> 
+<!ENTITY threadColumn.tooltip "Klicken, um Nachrichten-Themen anzuzeigen">
 <!ENTITY fromColumn.tooltip "Klicken, um nach Von zu sortieren">
 <!ENTITY recipientColumn.tooltip "Klicken, um nach Empfänger zu sortieren">
 <!ENTITY subjectColumn.tooltip "Klicken, um nach Betreff zu sortieren">

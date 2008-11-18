@@ -71,21 +71,21 @@
 <!ENTITY hideDetailsButton.label "Details ausblenden">
 <!ENTITY showDetailsButton.label "Details anzeigen">
 
-<!ENTITY openAttachmentCmd.label    "Öffnen">  
-<!ENTITY openAttachmentCmd.accesskey		"f">  
-<!ENTITY saveAsAttachmentCmd.label    "Speichern…">  
-<!ENTITY saveAsAttachmentCmd.accesskey		"S"> 
-<!ENTITY detachAttachmentCmd.label    "Abtrennen…">  
-<!ENTITY deleteAttachmentCmd.label    "Löschen">  
-<!ENTITY saveAllAttachmentsCmd.label    "Alle speichern…">  
-<!ENTITY saveAllAttachmentsCmd.accesskey		"A">  
-<!ENTITY detachAllAttachmentsCmd.label    "Alle abtrennen…">  
-<!ENTITY detachAllAttachmentsCmd.accesskey    "t">  
-<!ENTITY deleteAllAttachmentsCmd.label    "Alle löschen">  
-<!ENTITY deleteAllAttachmentsCmd.accesskey    "l">  
+<!ENTITY openAttachmentCmd.label "Öffnen">
+<!ENTITY openAttachmentCmd.accesskey "f">
+<!ENTITY saveAsAttachmentCmd.label "Speichern…">
+<!ENTITY saveAsAttachmentCmd.accesskey "S">
+<!ENTITY detachAttachmentCmd.label "Abtrennen…">
+<!ENTITY deleteAttachmentCmd.label "Löschen">
+<!ENTITY saveAllAttachmentsCmd.label "Alle speichern…">
+<!ENTITY saveAllAttachmentsCmd.accesskey "A">
+<!ENTITY detachAllAttachmentsCmd.label "Alle abtrennen…">
+<!ENTITY detachAllAttachmentsCmd.accesskey "t">
+<!ENTITY deleteAllAttachmentsCmd.label "Alle löschen">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "l">
 
-<!ENTITY copyLinkCmd.label        "Link-Adresse kopieren">  
-<!ENTITY copyLinkCmd.accesskey		"k">  
+<!ENTITY copyLinkCmd.label "Link-Adresse kopieren">
+<!ENTITY copyLinkCmd.accesskey "k">
 
 <!ENTITY CopyMessageId.label "Nachrichten-ID kopieren">
 <!ENTITY OpenMessageForMsgId.label "Nachricht mit der genannten ID öffnen">

@@ -20,7 +20,7 @@
 <!ENTITY otherUsersNamespace.accesskey "A">
 <!ENTITY overrideNamespaces.label "Server erlauben diese Namensräume zu übergehen">
 <!ENTITY overrideNamespaces.accesskey "e">
-<!ENTITY pop3Desc.label "Wo soll der Posteingang dieses Kontos gespeichert werden?" >
+<!ENTITY pop3Desc.label "Wo soll der Posteingang dieses Kontos gespeichert werden?">
 <!ENTITY globalInbox.label "Globaler Posteingang (Lokales Konto)">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Separater Posteingang für dieses Konto">
