@@ -1,7 +1,7 @@
 <!ENTITY askOnSave.label            "Otwierając zawarte w wiadomościach załączniki:">
 <!ENTITY alwaysAsk.label            "Pytaj, gdzie zapisać każdy plik">
 <!ENTITY alwaysAsk.accesskey        "a">
-<!ENTITY neverAsk.label             "Zapisz wszystkie załączniki w folderze:">
+<!ENTITY neverAsk.label             "Zapisuj wszystkie załączniki w folderze:">
 <!ENTITY neverAsk.accesskey         "s">
 <!ENTITY chooseFolderWin.label      "Przeglądaj…">
 <!ENTITY chooseFolderWin.accesskey  "P">

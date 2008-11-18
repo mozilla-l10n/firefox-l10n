@@ -7,7 +7,7 @@
 <!-- General Settings -->
 <!ENTITY enableGloda.label                "Indeksowanie wiadomości">
 <!ENTITY enableGloda.accesskey            "I">
-<!ENTITY showCondensedAddresses.label     "Pokazuj tylko nazwę kontaktu dla nadawcy z mojej książki adresowej">
+<!ENTITY showCondensedAddresses.label     "Pokazuj tylko nazwy kontaktów dla nadawców z mojej książki adresowej">
 <!ENTITY showCondensedAddresses.accesskey "P">
 
 <!ENTITY autoMarkAsRead.label          "Automatycznie oznaczaj wiadomości jako przeczytane:">
@@ -20,10 +20,10 @@
 <!ENTITY markAsReadDelay.label         "po wyświetlaniu przez">
 <!ENTITY markAsReadDelay.accesskey     "y">
 <!ENTITY secondsLabel.label            "sekund">
-<!ENTITY showFolderColumns.label       "Wyświetl nagłówki kolumn panelu folderów">
+<!ENTITY showFolderColumns.label       "Wyświetlaj nagłówki kolumn panelu folderów">
 <!ENTITY showFolderColumns.accesskey   "f">
 <!ENTITY openMsgIn.label               "Otwieraj wiadomości w:">
-<!ENTITY reuseExpRadio0.label          "nowym oknie wiadomości">
+<!ENTITY reuseExpRadio0.label          "nowych oknach wiadomości">
 <!ENTITY reuseExpRadio0.accesskey      "n">
 <!ENTITY reuseExpRadio1.label          "istniejącym oknie wiadomości">
 <!ENTITY reuseExpRadio1.accesskey      "m">
@@ -47,11 +47,11 @@
 <!ENTITY enableAddonsUpdate.accesskey  "d">
 <!ENTITY checkNow.label                "Sprawdź teraz…">
 <!ENTITY whenUpdatesFound.label        "Kiedy zostaną znalezione aktualizacje dla programu &brandShortName;:">
-<!ENTITY modeAskMe.label               "zapytaj mnie, co robić">
+<!ENTITY modeAskMe.label               "pytaj mnie, co zrobić">
 <!ENTITY modeAskMe.accesskey           "c">
-<!ENTITY modeAutomatic.label           "automatycznie pobierz i zainstaluj aktualizacje">
+<!ENTITY modeAutomatic.label           "automatycznie pobieraj i instaluj aktualizacje">
 <!ENTITY modeAutomatic.accesskey       "b">
-<!ENTITY modeAutoAddonWarn.label       "ostrzeż mnie, jeśli aktualizacja spowoduje zablokowanie dodatków">
+<!ENTITY modeAutoAddonWarn.label       "ostrzegaj mnie, jeśli aktualizacja spowoduje zablokowanie dodatków">
 <!ENTITY modeAutoAddonWarn.accesskey   "j">
 <!ENTITY showUpdates.label             "Wyświetl historię aktualizacji">
 <!ENTITY showUpdates.accesskey         "h">

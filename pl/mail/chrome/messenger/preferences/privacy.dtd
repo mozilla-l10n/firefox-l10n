@@ -7,11 +7,11 @@
 <!ENTITY junkMail.intro                 "W tym miejscu można zmienić domyślne ustawienia filtru niechcianej poczty. Aby zmienić ustawienia niechcianej poczty dotyczące konkretnego konta, należy przejść do Konfiguracji kont.">
 <!ENTITY manualMark.label               "W przypadku ręcznego oznaczenia wiadomości jako niechcianej:">
 <!ENTITY manualMark.accesskey           "W">
-<!ENTITY manualMarkModeMove.label       'przenieś wiadomości do folderu "Niechciane"'>
+<!ENTITY manualMarkModeMove.label       'przenoś wiadomości do folderu "Niechciane"'>
 <!ENTITY manualMarkModeMove.accesskey   "p">
-<!ENTITY manualMarkModeDelete.label     "usuń wiadomości">
+<!ENTITY manualMarkModeDelete.label     "usuwaj wiadomości">
 <!ENTITY manualMarkModeDelete.accesskey "u">
-<!ENTITY markAsReadOnSpam.label         "Oznacz wiadomości uznane za niechciane jako przeczytane">
+<!ENTITY markAsReadOnSpam.label         "Oznaczaj wiadomości uznane za niechciane jako przeczytane">
 <!ENTITY markAsReadOnSpam.accesskey     "z">
 <!ENTITY enableJunkLogging.label        "Włącz dziennik niechcianej poczty">
 <!ENTITY enableJunkLogging.accesskey    "d">
@@ -21,7 +21,7 @@
 <!ENTITY resetTrainingData.accesskey    "r">
 
 <!-- Phishing Detector -->
-<!ENTITY phishingDetector1.intro           "&brandShortName; może analizować treść wiadomości w poszukiwaniu typowych technik stosowanych przez oszustów.">
+<!ENTITY phishingDetector1.intro           "&brandShortName; może analizować treści wiadomości w poszukiwaniu typowych technik stosowanych przez oszustów.">
 <!ENTITY enablePhishingDetector1.label     "Informuj, jeżeli wyświetlana wiadomość może być próbą oszustwa">
 <!ENTITY enablePhishingDetector1.accesskey "n">
 <!ENTITY useDownloadedList.label           "Używaj listy podejrzanych wiadomości pobranej z Internetu">
@@ -29,9 +29,9 @@
 
 <!-- Passwords -->
 <!ENTITY savedPasswords.intro         "&brandShortName; może zapamiętać hasła dla wszystkich kont użytkownika, dzięki czemu nie będzie konieczności wprowadzania ich przy każdym logowaniu.">
-<!ENTITY  encryptEnabled.label        "Użyj hasła głównego do zaszyfrowania przechowywanych haseł">
+<!ENTITY  encryptEnabled.label        "Używaj hasła głównego do szyfrowania przechowywanych haseł">
 <!ENTITY  encryptEnabled.accesskey    "o">
-<!ENTITY  masterPassword.intro        "Hasło główne, jeśli jest ustalone, chroni wszystkie hasła użytkownika - ale musi być ono wprowadzone jednorazowo dla każdej sesji.">
+<!ENTITY  masterPassword.intro        "Hasło główne, jeśli jest ustalone, chroni wszystkie hasła użytkownika - ale musi być ono wprowadzane jednorazowo dla każdej sesji.">
 <!ENTITY  setMasterPassword.label     "Hasło główne">
 <!ENTITY  setMasterPassword.accesskey "G">
 <!ENTITY removeMasterPassword.label   "Usuń hasło główne…">
@@ -40,6 +40,6 @@
 <!ENTITY  editPasswords.accesskey     "s">
 
 <!-- Anti Virus -->
-<!ENTITY antiVirus.intro     "&brandShortName; może ułatwić pracę programowi antywirusowemu poprzez umożliwienie mu przeanalizowania przychodzących wiadomości pocztowych, zanim zostaną one zapisane w programie.">
-<!ENTITY antiVirus.label     "Zezwól programowi antywirusowemu na przenoszenie poszczególnych wiadomości do kwarantanny">
+<!ENTITY antiVirus.intro     "&brandShortName; może ułatwiać pracę programom antywirusowym poprzez umożliwienie im analizowania przychodzących wiadomości pocztowych, zanim zostaną one zapisane przez program.">
+<!ENTITY antiVirus.label     "Zezwalaj programom antywirusowym na przenoszenie poszczególnych wiadomości do kwarantanny">
 <!ENTITY antiVirus.accesskey "l">

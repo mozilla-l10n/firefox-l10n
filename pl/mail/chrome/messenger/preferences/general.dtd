@@ -13,7 +13,7 @@
 <!ENTITY checkNow.accesskey        "S">
 
 <!ENTITY messengerStartPage.label  "Strona startowa programu &brandShortName;">
-<!ENTITY enableStartPage.label     "Po uruchomieniu programu wyświetl poniższą stronę startową w oknie wiadomości:">
+<!ENTITY enableStartPage.label     "Po uruchomieniu programu wyświetlaj poniższą stronę startową w oknie wiadomości:">
 <!ENTITY enableStartPage.accesskey "h">
 <!ENTITY location.label            "Adres:">
 <!ENTITY location1.accesskey       "A">
@@ -24,14 +24,14 @@
 <!ENTITY bounceSystemDockIcon.accesskey "c">
 
 <!ENTITY newMessagesArrive.label      "Po odebraniu nowej wiadomości:">
-<!ENTITY playSound.label              "odtwórz dźwięk">
+<!ENTITY playSound.label              "odtwórzaj dźwięk">
 <!ENTITY playSound1.accesskey         "o">
-<!ENTITY showAnimatedAlert.label      "wyświetl informację">
+<!ENTITY showAnimatedAlert.label      "wyświetlaj informację">
 <!ENTITY showAnimatedAlert.accesskey  "w">
 <!ENTITY customizeMailAlert.label     "Dostosuj…">
 <!ENTITY customizeMailAlert.accesskey "t">
 
-<!ENTITY play.label                "Odtwarzaj">
+<!ENTITY play.label                "Odtwórz">
 <!ENTITY play.accesskey            "z">
 <!ENTITY systemsound.label         "domyślny systemowy dźwięk powiadomienia o nowej poczcie">
 <!ENTITY systemsoundMac.label      "systemowy dźwięk powiadomienia">

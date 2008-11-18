@@ -1,13 +1,13 @@
 <!ENTITY dialog.title            "Potwierdzenie doręczenia wiadomości">
-<!ENTITY requestReceipt.label    "Zawsze żądaj potwierdzenia doręczenia wysyłanej wiadomości">
+<!ENTITY requestReceipt.label    "Zawsze żądaj potwierdzeń doręczenia wysyłanych wiadomości">
 <!ENTITY requestReceipt.accesskey "Z">
 <!ENTITY receiptArrive.label     "Otrzymane potwierdzenia doręczenia wiadomości:">
-<!ENTITY leaveIt.label           "pozostaw w folderze Odebrane">
+<!ENTITY leaveIt.label           "pozostawiaj w folderze Odebrane">
 <!ENTITY leaveIt.accesskey       "O">
-<!ENTITY moveToSent.label        "przenieś do folderu Wysłane">
+<!ENTITY moveToSent.label        "przenoś do folderu Wysłane">
 <!ENTITY moveToSent.accesskey    "W">
 <!ENTITY requestMDN.label        "Po otrzymaniu żądania potwierdzenia doręczenia wiadomości:">
-<!ENTITY never.label             "Nigdy nie wysyłaj potwierdzenia doręczenia wiadomości">
+<!ENTITY never.label             "Nigdy nie wysyłaj potwierdzeń doręczenia wiadomości">
 <!ENTITY never.accesskey         "N">
 <!ENTITY returnSome.label        "Wysyłaj potwierdzenia doręczenia wiadomości tylko w poniższych przypadkach:">
 <!ENTITY returnSome.accesskey    "r">
@@ -17,6 +17,6 @@
 <!ENTITY outsideDomain.accesskey "t">
 <!ENTITY otherCases.label        "W innych przypadkach:">
 <!ENTITY otherCases.accesskey    "a">
-<!ENTITY askMe.label             "Wyświetl pytanie">
+<!ENTITY askMe.label             "Wyświetlaj pytanie">
 <!ENTITY alwaysSend.label        "Zawsze wysyłaj">
 <!ENTITY neverSend.label         "Nigdy nie wysyłaj">
