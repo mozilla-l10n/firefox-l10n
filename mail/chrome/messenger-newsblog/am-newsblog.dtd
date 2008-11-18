@@ -4,17 +4,17 @@
 <!ENTITY biffStart.accesskey "N">
 <!ENTITY biffEnd.label "Minuten abrufen">
 
-<!ENTITY loginAtStartup.label "Neue Artikel beim Programmstart abrufen"> 
+<!ENTITY loginAtStartup.label "Neue Artikel beim Programmstart abrufen">
 <!ENTITY loginAtStartup.accesskey "e">
 
-<!ENTITY useQuickMode.label "Artikel-Zusammenfassung anstelle der Webseite anzeigen"> 
+<!ENTITY useQuickMode.label "Artikel-Zusammenfassung anstelle der Webseite anzeigen">
 <!ENTITY useQuickMode.accesskey "A">
 
-<!ENTITY manageSubscriptions.label "Verwalte Abonnements…"> 
+<!ENTITY manageSubscriptions.label "Verwalte Abonnements…">
 <!ENTITY manageSubscriptions.accesskey "V">
 
 <!-- entities from defaults/isp/rss.rdf -->
 <!ENTITY rss.accountName            "RSS-News &amp; Weblogs">
-<!ENTITY rss.wizardShortName        "RSS">  
+<!ENTITY rss.wizardShortName        "RSS">
 <!ENTITY rss.wizardLongName         "RSS-News &amp; Weblogs">
 <!ENTITY rss.wizardLongName.accesskey "R">

@@ -56,7 +56,7 @@
 <!ENTITY expungeOnExit.accesskey "E">
 <!ENTITY emptyTrashOnExit.label "Papierkorb beim Verlassen leeren">
 <!ENTITY emptyTrashOnExit.accesskey "V">
-<!ENTITY loginAtStartup.label "Beim Starten auf neue Nachrichten prüfen"> 
+<!ENTITY loginAtStartup.label "Beim Starten auf neue Nachrichten prüfen">
 <!ENTITY loginAtStartup.accesskey "C">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number

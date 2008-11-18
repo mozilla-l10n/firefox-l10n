@@ -1,20 +1,20 @@
-<!ENTITY emailSectionHdr.label        "E-Mail"> 
-<!ENTITY readMsgsLink.label           "Nachrichten lesen"> 
-<!ENTITY composeMsgLink.label         "Neue Nachricht verfassen"> 
+<!ENTITY emailSectionHdr.label        "E-Mail">
+<!ENTITY readMsgsLink.label           "Nachrichten lesen">
+<!ENTITY composeMsgLink.label         "Neue Nachricht verfassen">
 
-<!ENTITY newsSectionHdr.label         "Newsgruppen"> 
-<!ENTITY subscribeNewsLink.label      "Newsgruppen abonnieren"> 
+<!ENTITY newsSectionHdr.label         "Newsgruppen">
+<!ENTITY subscribeNewsLink.label      "Newsgruppen abonnieren">
 
-<!ENTITY accountsSectionHdr.label     "Konten"> 
+<!ENTITY accountsSectionHdr.label     "Konten">
 <!ENTITY subscribeImapFolders.label   "IMAP-Ordner abonnieren">
-<!ENTITY settingsLink.label           "Konten-Einstellungen bearbeiten"> 
-<!ENTITY newAcctLink.label            "Neues Konto erstellen"> 
+<!ENTITY settingsLink.label           "Konten-Einstellungen bearbeiten">
+<!ENTITY newAcctLink.label            "Neues Konto erstellen">
 
-<!ENTITY advFeaturesSectionHdr.label  "Erweiterte Funktionen"> 
-<!ENTITY searchMsgsLink.label         "Nachrichten suchen"> 
+<!ENTITY advFeaturesSectionHdr.label  "Erweiterte Funktionen">
+<!ENTITY searchMsgsLink.label         "Nachrichten suchen">
 <!ENTITY filtersLink.label            "Filter erstellen">
 <!ENTITY junkSettings.label           "Junk-Filter-Einstellungen">
 <!ENTITY offlineLink.label            "Offline-Einstellungen bearbeiten">
 
-<!ENTITY rssSectionHdr.label          "RSS-Feeds"> 
+<!ENTITY rssSectionHdr.label          "RSS-Feeds">
 <!ENTITY subscibeRSS.label            "Abonnements verwalten">

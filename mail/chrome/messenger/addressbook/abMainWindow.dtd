@@ -78,7 +78,7 @@
 <!ENTITY viewMenu.label                                 "Ansicht">
 <!ENTITY viewMenu.accesskey                             "A">
 <!ENTITY viewToolbarsMenu.label                         "Symbolleisten">
-<!ENTITY viewToolbarsMenu.accesskey                     "y"> 
+<!ENTITY viewToolbarsMenu.accesskey                     "y">
 <!ENTITY showAbToolbarCmd.label                         "Adressbuch-Symbolleiste">
 <!ENTITY showAbToolbarCmd.accesskey                     "o">
 <!ENTITY showTaskbarCmd.label                           "Statusleiste">
@@ -88,9 +88,9 @@
 <!ENTITY showCardPane.label                             "Kontaktvorschau">
 <!ENTITY showCardPane.accesskey                         "K">
 <!ENTITY menu_ShowNameAs.label                          "Namen anzeigen">
-<!ENTITY menu_ShowNameAs.accesskey                      "N"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "N">
 <!ENTITY firstLastCmd.label                             "Vorname Nachname">
-<!ENTITY firstLastCmd.accesskey                         "v"> 
+<!ENTITY firstLastCmd.accesskey                         "v">
 <!ENTITY lastFirstCmd.label                             "Nachname, Vorname">
 <!ENTITY lastFirstCmd.accesskey                         "n">
 <!ENTITY displayNameCmd.label                           "Anzeigename">
@@ -113,9 +113,9 @@
 <!ENTITY preferencesCmd.label                           "Einstellungen…">
 <!ENTITY preferencesCmd.accesskey                       "E">
 <!ENTITY preferencesCmdUnix.label                       "Einstellungen…">
-<!ENTITY preferencesCmdUnix.accesskey                   "n"> 
+<!ENTITY preferencesCmdUnix.accesskey                   "n">
 
-<!-- Address Book Toolbar and Context Menus -->  
+<!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newcardButton.label                            "Neuer Kontakt">
 <!ENTITY newcardButton.accesskey                        "K">
 <!ENTITY newlistButton.label                            "Neue Liste">
