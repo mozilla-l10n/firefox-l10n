@@ -47,7 +47,7 @@
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label     "Adres obrazka:">
 <!ENTITY locationEditField.accessKey "A">
-<!ENTITY locationEditField.tooltip   "Wprowadź nazwę pliku obrazka lub lokację">
+<!ENTITY locationEditField.tooltip   "Wprowadź nazwę pliku obrazka lub jego adres">
 <!ENTITY title.label                 "Etykieta:">
 <!ENTITY title.accessKey             "k">
 <!ENTITY title.tooltip               'Atrybut "Title" wyświetlany jako etykieta'>
