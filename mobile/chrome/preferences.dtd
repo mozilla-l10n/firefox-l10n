@@ -1,0 +1,15 @@
+<!ENTITY content.title                             "內容">
+<!ENTITY permissions.default.image.title           "載入圖片">
+<!ENTITY permissions.default.image.description     "讓網頁更美麗">
+<!ENTITY javascript.enabled.title                  "啟用 JavaScript">
+<!ENTITY javascript.enabled.description            "讓網頁更閃亮">
+<!ENTITY plugins.enabled.title                     "啟用外掛程式">
+<!ENTITY plugins.enabled.description               "讓網頁更吵鬧">
+<!ENTITY privacy.title                             "個人隱私與安全">
+<!ENTITY network.cookie.cookieBehavior.title       "儲存 Cookie">
+<!ENTITY network.cookie.cookieBehavior.description "美味佳餚">
+<!ENTITY clear.private.data.title                  "清除隱私資料">
+<!ENTITY clear.private.data.button                 "清除...">
+<!ENTITY clear.private.data.description            "使你免於躲藏">
+<!ENTITY signon.rememberSignons.title              "儲存密碼">
+<!ENTITY signon.rememberSignons.description        "讓你不用一直重複輸入">

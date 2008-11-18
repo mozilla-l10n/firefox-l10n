@@ -1,0 +1,61 @@
+<!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titleseparator " - ">
+
+<!ENTITY back.label            "上一頁">
+<!ENTITY back.tooltip          "上一頁">
+<!ENTITY forward.label         "下一頁">
+<!ENTITY forward.tooltip       "下一頁">
+<!ENTITY reload.label          "重新載入">
+<!ENTITY reload.tooltip        "重新載入">
+<!ENTITY stop.label            "停止">
+<!ENTITY stop.tooltip          "停止">
+<!ENTITY search.label          "搜尋">
+<!ENTITY search.tooltip        "搜尋">
+<!ENTITY go.label              "衝">
+<!ENTITY go.tooltip            "衝">
+<!ENTITY openLocation.label    "開啟網址">
+<!ENTITY openLocation.tooltip  "開啟網址">
+<!ENTITY star.label            "星號">
+<!ENTITY star.tooltip          "將本頁加入書籤">
+<!ENTITY bookmarks.label       "書籤">
+<!ENTITY bookmarks.tooltip     "檢視書籤">
+
+<!ENTITY newtab.label          "開新分頁">
+<!ENTITY closetab.label        "關閉分頁">
+
+<!ENTITY cut.label             "剪下">
+<!ENTITY copy.label            "複製">
+<!ENTITY copylink.label        "複製鏈結網址">
+<!ENTITY paste.label           "貼上">
+<!ENTITY delete.label          "刪除">
+<!ENTITY selectAll.label       "全選">
+<!ENTITY noSuggestions.label   "(沒有建議)">
+<!ENTITY addToDictionary.label "新增到字典">
+
+<!ENTITY bookmarkName.label    "名稱:">
+<!ENTITY bookmarkFolder.label  "資料夾:">
+<!ENTITY bookmarkTags.label    "標籤:">
+<!ENTITY bookmarkRemove.label  "移除書籤">
+
+<!ENTITY findOnCmd.label     "尋找文字…">
+<!ENTITY findOnCmd.accesskey "F">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "找下一個">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY identity.unverifiedsite2 "此網站沒有提供身分識別資訊。">
+<!ENTITY identity.connectedTo "你已連線到">
+<!-- Localization note (identity.runBy) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy "此網站擁有者：">
