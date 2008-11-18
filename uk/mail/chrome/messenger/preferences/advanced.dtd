@@ -1,4 +1,4 @@
-<!ENTITY itemGeneral.label       "Загальні">
+﻿<!ENTITY itemGeneral.label       "Загальні">
 <!ENTITY itemUpdate.label        "Оновлення">
 <!ENTITY itemNetworking.label    "Мережа та диск">
 <!ENTITY itemCertificates.label  "Сертифікати">
@@ -93,4 +93,4 @@
 
 <!-- FIXME: localize -->
 <!ENTITY enableGloda.accesskey         "i">
-<!ENTITY enableGloda.label             "Enable Message Indexer">
+<!ENTITY enableGloda.label             "Ввімкнути індексування листів">
