@@ -43,7 +43,7 @@
 
 <!ENTITY newevent.status.label              "状態" >
 <!ENTITY newevent.status.accesskey          "S" >
-<!ENTITY newevent.status.none.label         "なし" >
+<!ENTITY newevent.status.none.label         "指定なし" >
 <!ENTITY newevent.status.cancelled.label    "キャンセル" >
 <!ENTITY newevent.status.tentative.label    "未確認" >
 <!ENTITY newevent.status.confirmed.label    "確認済み" >
