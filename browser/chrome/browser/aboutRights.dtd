@@ -13,8 +13,8 @@
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; 是基於 ">
-<!ENTITY rights.intro-point1b "Mozilla Public License">
-<!ENTITY rights.intro-point1c " 定義的條件提供給你的。這代表你有權使用、複製、將 &brandShortName; 散佈給他人。我們也歡迎你自行修改 &brandShortName; 的程式碼以滿足你的需求。Mozilla Public License 也同時給予你散佈修改版本的權利。">
+<!ENTITY rights.intro-point1b "Mozilla 公眾授權條款">
+<!ENTITY rights.intro-point1c "中的條件提供給你的。這表示你有權使用、複製、散布 &brandShortName;。我們也歡迎你自行修改 &brandShortName; 的源碼以滿足你的需求；Mozilla 公眾授權條款也同時賦予你散布修改版本的權利。">
 
 <!ENTITY rights.intro-point2a "Mozilla 沒有給予你使用 Mozilla 與 Firefox 註冊商標與標誌的任何權利。更多關於註冊商標的使用說明請看">
 <!ENTITY rights.intro-point2b "這裡">
