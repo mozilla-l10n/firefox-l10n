@@ -1,3 +1,5 @@
+<!ENTITY newWindowsAsTabs.label       "Dobrir las fenèstras novèlas puslèu dins un onglet novèl">
+<!ENTITY newWindowsAsTabs.accesskey   "g">
 <!ENTITY warnCloseMultipleTabs.label "M'alertar quand tampi mai d'un onglet">
 <!ENTITY warnCloseMultipleTabs.accesskey "A">
 <!ENTITY warnOpenManyTabs.label "M'avertir que dobrir mai d'un onglet poiriá alentir &brandShortName;">

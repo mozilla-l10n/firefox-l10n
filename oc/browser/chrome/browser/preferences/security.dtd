@@ -1,3 +1,7 @@
+<!ENTITY  blockAttackSites.label     "Blocar los sits d'atac raportats">
+<!ENTITY  blockAttackSites.accesskey "c">
+<!ENTITY  blockWebForgeries.label     "Blocar los sits contrafaches raportats">
+<!ENTITY  blockWebForgeries.accesskey "B">
 <!ENTITY warnAddonInstall.label "M'entresenhar quand de sits ensajan d'installar de moduls complementaris">
 <!ENTITY warnAddonInstall.accesskey "e">
 <!ENTITY addonExceptions.label "Excepcions…">

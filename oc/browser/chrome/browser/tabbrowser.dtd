@@ -16,3 +16,4 @@
 <!ENTITY bookmarkThisTab.accesskey "M">
 <!ENTITY undoCloseTab.label "Anullar la tampadura de l'onglet">
 <!ENTITY undoCloseTab.accesskey "u">
+<!ENTITY  newTabButton.tooltip        "Dobrir un onglet novèl">

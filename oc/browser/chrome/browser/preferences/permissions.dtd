@@ -7,6 +7,7 @@
 <!ENTITY removeallpermissions.label "Suprimir totes los sits">
 <!ENTITY removeallpermissions.accesskey "u">
 <!ENTITY address.label "Adreça del sit web :">
+<!ENTITY address.accesskey            "d">
 <!ENTITY block.label "Blocar">
 <!ENTITY block.accesskey "B">
 <!ENTITY session.label "Autorizar pendent la sesilha">
