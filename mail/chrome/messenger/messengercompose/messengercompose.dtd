@@ -266,6 +266,6 @@
 <!ENTITY pasteNoFormattingCmd.key "И">
 <!ENTITY renameAttachment.accesskey "й">
 <!ENTITY renameAttachment.label "Перейменувати…">
-<!ENTITY showCompositionToolbarCmd.label "Панель складання листа">
-<!ENTITY showFormattingBarCmd.accesskey "Ф">
+<!ENTITY showCompositionToolbarCmd.label "Панель інструментів складання листа">
+<!ENTITY showFormattingBarCmd.accesskey "ф">
 <!ENTITY showFormattingBarCmd.label "Панель форматування">

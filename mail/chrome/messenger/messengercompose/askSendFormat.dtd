@@ -1,4 +1,4 @@
-<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
+﻿<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
 <!ENTITY windowTitle.label "Формат вихідного повідомлення">
 
 <!ENTITY recipient.label "Деякі з адресатів не можуть одержувати листа у форматі HTML.">
@@ -14,7 +14,7 @@
 <!ENTITY send.label "Відіслати">
 
 <!-- FIXME: localize -->
-<!ENTITY htmlOnly.accesskey "H">
-<!ENTITY plainTextAndHtml.accesskey "a">
-<!ENTITY plainTextOnly.accesskey "P">
-<!ENTITY send.accesskey "S">
+<!ENTITY htmlOnly.accesskey "л">
+<!ENTITY plainTextAndHtml.accesskey "і">
+<!ENTITY plainTextOnly.accesskey "т">
+<!ENTITY send.accesskey "В">
