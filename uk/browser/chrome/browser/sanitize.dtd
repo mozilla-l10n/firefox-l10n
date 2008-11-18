@@ -10,17 +10,16 @@
 <!ENTITY itemOfflineApps.accesskey "а">
 <!ENTITY window.width "30em">
 
-<!-- FIXME: localize -->
 <!ENTITY clearDataSettings2.label     "Коли я закриваю &brandShortName;, він повинен автоматично очистити всю:">
+<!ENTITY clearDuration.label          "Стерти ">
 <!ENTITY clearDuration.everything     "всю мою історію">
-<!ENTITY clearDuration.label          "Вилучити ">
 <!ENTITY clearDuration.last2Hours     "останні 2 години">
 <!ENTITY clearDuration.last4Hours     "останні 4 години">
 <!ENTITY clearDuration.lastHour       "останню годину">
 <!-- Localization note (clearDuration.suffix) - trailing entity for languages that require it-->
 <!ENTITY clearDuration.suffix         "">
 <!ENTITY clearDuration.today          "мою історію за сьогодні">
-<!ENTITY column.width                 "14em">
+<!ENTITY column.width                 "16em">
 <!ENTITY dataSection.label            "Дані">
 <!ENTITY historySection.label         "Історію">
 <!ENTITY itemActiveLogins.accesskey   "с">

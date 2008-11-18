@@ -669,7 +669,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY receivedColumn.label "Отримано">
 <!ENTITY receivedColumn.tooltip "Клацніть щоб сортувати за датою отримання">
-<!ENTITY remoteContentMessage1.label "Віддалені зображення були заблоковані для захисту вашої .">
+<!ENTITY remoteContentMessage1.label "Віддалені зображення були заблоковані для захисту вашої приватності.">
 <!ENTITY removePhishingBarButton1.label "Зігнорувати попередження">
 <!ENTITY reportPhishingError1.label "Це повідомлення наче не шахрайське.">
 <!ENTITY saveImageAsCmd.accesskey "З">
