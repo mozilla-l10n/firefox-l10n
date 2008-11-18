@@ -41,8 +41,6 @@
 <!ENTITY otherSubdir.label "图像子目录:">
 <!ENTITY status.label "正在发布…">
 <!ENTITY fileList.label "发布状态">
-<!ENTITY statusHeader.label "状态">
-<!ENTITY filenameHeader.label "文件名">
 <!ENTITY succeeded.label "成功">
 <!ENTITY failed.label "失败">
 <!ENTITY keepOpen "发布完毕后不要关闭此窗口。">

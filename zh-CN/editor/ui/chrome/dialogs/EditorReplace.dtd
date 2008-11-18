@@ -56,4 +56,3 @@
 <!ENTITY replaceAllButton.label "全部替换">
 <!ENTITY replaceAllButton.accesskey "A">
 <!ENTITY closeButton.label "关闭">
-<!ENTITY notFoundWarning.label "没有找到您输入的文本。">

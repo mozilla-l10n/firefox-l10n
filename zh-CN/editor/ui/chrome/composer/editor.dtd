@@ -47,7 +47,3 @@
 <!ENTITY editmodeToolbarCmd.accesskey "E">
 <!ENTITY formatMenu.label "格式">
 <!ENTITY formatMenu.accesskey "o">
-<!ENTITY helpMenu.label "帮助">
-<!ENTITY aboutCmd.label "关于">
-<!ENTITY editMode.label "编辑模式:">
-<!ENTITY statusText.label "完成载入页面">

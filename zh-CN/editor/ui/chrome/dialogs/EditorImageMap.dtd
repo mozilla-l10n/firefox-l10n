@@ -70,7 +70,6 @@
 <!ENTITY cpercentCmd.accesskey "4">
 <!ENTITY zoominCmd.label "放大">
 <!ENTITY zoomoutCmd.label "缩小">
-<!ENTITY delSpotCmd.label "删除点">
 <!ENTITY clear.key "d">
 <!ENTITY selectall.key "a">
 <!ENTITY close.key "l">

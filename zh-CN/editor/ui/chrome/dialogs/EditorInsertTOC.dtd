@@ -37,7 +37,6 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY Window.title "目录">
 <!ENTITY buildToc.label "创建目录，根据：">
-<!ENTITY style.label "样式:">
 <!ENTITY tag.label "标记符:">
 <!ENTITY class.label "类别：">
 <!ENTITY header1.label "级别 1">

@@ -1,11 +1,4 @@
 <!ENTITY pref.composer.title "编写器">
-<!ENTITY saving "正在保存">
-<!ENTITY AutoSaveCheck "自动保存，每隔">
-<!ENTITY minText "分钟">
-<!ENTITY exterLegend.label "外部编辑器">
-<!ENTITY htmlSource "HTML 源代码:">
-<!ENTITY imageeditor "图像:">
-<!ENTITY chooseButton.label "选择">
 <!ENTITY recentFiles.title "最近的页面菜单">
 <!ENTITY documentsInMenu.label "最多列出页面数量:">
 <!ENTITY documentsInMenu.accesskey "n">
@@ -18,8 +11,6 @@
 <!ENTITY showPublishDialog.label "发布页面时总是显示发布对话框">
 <!ENTITY showPublishDialog.accesskey "A">
 <!ENTITY composerEditing.label "正在编辑">
-<!ENTITY spellCheckInline.label "在您输入的同时进行拼写检查">
-<!ENTITY spellCheckInline.accesskey "C">
 <!ENTITY maintainStructure.label "添加或删除单元个时保持表格布局">
 <!ENTITY maintainStructure.tooltip "插入或删除单元格后自动添加单元格以维持表格的矩形">
 <!ENTITY maintainStructure.accesskey "M">

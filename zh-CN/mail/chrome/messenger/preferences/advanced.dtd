@@ -3,6 +3,8 @@
 <!ENTITY itemUpdate.label "更新">
 <!ENTITY itemNetworking.label "网络 &amp; 磁盘空间">
 <!ENTITY itemCertificates.label "证书">
+<!ENTITY enableGloda.label "Enable Message Indexer">
+<!ENTITY enableGloda.accesskey "i">
 <!ENTITY showCondensedAddresses.label "仅显示我通讯录中联系人的显示名。">
 <!ENTITY showCondensedAddresses.accesskey "p">
 <!ENTITY autoMarkAsRead.label "自动将消息标记为已读">
