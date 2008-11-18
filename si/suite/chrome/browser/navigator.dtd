@@ -72,7 +72,6 @@
 
 <!-- I'd like all this to move to an overlay or something -->
 
-<!ENTITY charsettexttypeBidiCmd.label "Based on Character Set">
 <!ENTITY applyTheme.label	"Apply Theme"> 
 <!ENTITY applyTheme.accesskey	"A"> 
 <!ENTITY getNewThemesCmd.label "Get New Themes">
@@ -112,7 +111,6 @@
 <!ENTITY feedsMenu.label "Subscribe to This Page">
 <!ENTITY feedsMenu.accesskey "S">
 <!ENTITY emptyItem.label "(Empty)">
-<!ENTITY releaseNotesCmd.label "Release Notes">
 <!ENTITY menuBar.tooltip                  "Menu Bar">
 <!ENTITY personalToolbar.tooltip          "Personal Toolbar">
 <!ENTITY navigationToolbar.tooltip        "Navigation Toolbar">
