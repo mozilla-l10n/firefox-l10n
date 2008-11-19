@@ -681,3 +681,69 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "සියල්ල පෙන්වන්න">
+<!ENTITY SearchSubjectOrFrom.label "Subject or From contains:">
+<!ENTITY SearchSubjectOrFrom.accesskey "S">
+<!ENTITY advancedButton.tooltip "Advanced message search">
+<!ENTITY advancedButton.label "Advanced…">
+<!ENTITY advancedButton.accesskey "A">
+<!ENTITY contextReplySenderAndNewsgroup.label "Reply to Sender and Newsgroup">
+<!ENTITY contextReplySenderAndNewsgroup.accesskey "p">
+<!ENTITY downloadFlaggedCmd.label "Get Flagged Messages">
+<!ENTITY downloadFlaggedCmd.accesskey "G">
+<!ENTITY findPrevCmd.label "Find Previous">
+<!ENTITY findPrevCmd.accesskey "v">
+<!ENTITY findPrevCmd.key "g">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY getNewMsgCmd.label "Get New Messages">
+<!ENTITY getNewMsgCmd.accesskey "G">
+<!ENTITY getNewMsgCmd.key "t">
+<!ENTITY goBackButton.label "Go Back">
+<!ENTITY goForwardButton.label "Go Forward">
+<!ENTITY junkBarButton.label "This is Not Junk">
+<!ENTITY loadRemoteContentButton.label "Show Remote Content">
+<!ENTITY locationToolbar.tooltip "Location Toolbar">
+<!ENTITY mailToolbar.tooltip "Mail Toolbar">
+<!ENTITY markAsNotPhishCmd.label "As Not Scam">
+<!ENTITY markAsNotPhishCmd.accesskey "S">
+<!ENTITY markAsNotPhishCmd.key "p">
+<!ENTITY markAsShowRemoteCmd.label "Show Remote Content">
+<!ENTITY markAsShowRemoteCmd.accesskey "e">
+<!ENTITY markAsShowRemoteCmd.key "r">
+<!ENTITY markFlaggedCmd.label "Flag">
+<!ENTITY markFlaggedCmd.accesskey "F">
+<!ENTITY markFlaggedCmd.key "i">
+<!ENTITY menuBar.tooltip "Menu Bar">
+<!ENTITY nameColumn.label "Name">
+<!ENTITY newMessage.label "New Message">
+<!ENTITY newMessage.accesskey "N">
+<!ENTITY nextFlaggedMsgCmd.label "Flagged Message">
+<!ENTITY nextFlaggedMsgCmd.accesskey "F">
+<!ENTITY phishingBarMessage.label "&brandShortName; thinks this message might be an email scam.">
+<!ENTITY prevFlaggedMsgCmd.label "Flagged Message">
+<!ENTITY prevFlaggedMsgCmd.accesskey "F">
+<!ENTITY reloadCmd.label "Reload">
+<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY remoteContentMessage.label "To protect your privacy, &brandShortName; has blocked remote content in this message.">
+<!ENTITY removePhishingBarButton.label "Not a Scam">
+<!ENTITY replyAllButtonNews.tooltip "Reply to sender and newsgroup">
+<!ENTITY replyToAllRecipientsCmd.label "Reply to All Recipients">
+<!ENTITY replyToAllRecipientsCmd.accesskey "a">
+<!ENTITY replyToSenderAndNewsgroupCmd.label "Reply to Sender and Newsgroup">
+<!ENTITY replyToSenderAndNewsgroupCmd.accesskey "p">
+<!ENTITY showFolderPaneCmd.label "Folder Pane">
+<!ENTITY showFolderPaneCmd.accesskey "F">
+<!ENTITY showLocationToolbarCmd.label "Location Toolbar">
+<!ENTITY showLocationToolbarCmd.accesskey "L">
+<!ENTITY showMessagePaneCmd.label "Message Pane">
+<!ENTITY showMessagePaneCmd.accesskey "M">
+<!-- showSearchToolbarCmd is also used by addressbook -->
+<!ENTITY showSearchToolbarCmd.label		"Search Bar">
+<!ENTITY showSearchToolbarCmd.accesskey	"e">
+<!ENTITY sortByFlagCmd.label "Flag">
+<!ENTITY sortByFlagCmd.accesskey "l">
+<!ENTITY stopCmd.label "Stop">
+<!ENTITY stopCmd.accesskey "S">
+<!ENTITY tagCustomize.label "Customize…">
+<!ENTITY tagCustomize.accesskey "C">
+<!ENTITY throbber.tooltip "Go to the &vendorShortName; home page">
+<!ENTITY titleModifier.label "&brandShortName;">
