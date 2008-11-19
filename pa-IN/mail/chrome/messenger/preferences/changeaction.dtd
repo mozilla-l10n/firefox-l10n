@@ -1,17 +1,17 @@
-<!ENTITY  changeAction.title                  "ਕਾਰਵਾਈ ਬਦਲੋ">
+<!ENTITY  changeAction.title                  "ਐਕਸ਼ਨ ਬਦਲੋ">
 <!ENTITY  window.width                         "36em">
   
-<!ENTITY  whenDownloading.label               "ਜਦੋਂ ਏਦਾਂ ਦੀਆਂ ਫਾਇਲਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾਵੇ:">
+<!ENTITY  whenDownloading.label               "ਜਦੋਂ ਇੰਝ ਦੀਆਂ ਫਾਇਲਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾਵੇ:">
 
-<!ENTITY  openDefault.label                   "ਇਹਨਾਂ ਨੂੰ ਮੂਲ ਕਾਰਜ ਨਾਲ ਖੋਲੋ:">
+<!ENTITY  openDefault.label                   "ਇਹਨਾਂ ਨੂੰ ਡਿਫਾਲਟ ਐਪਲੀਕੇਸ਼ਨ ਨਾਲ ਖੋਲ੍ਹੋ:">
 <!ENTITY  openDefault.accesskey               "O">
-<!ENTITY  openApplication.label               "ਇਸ ਕਾਰਜ ਨਾਲ ਖੋਲੋ:">
+<!ENTITY  openApplication.label               "ਇਸ ਐਪਲੀਕੇਸ਼ਨ ਨਾਲ ਖੋਲ੍ਹੋ:">
 <!ENTITY  openApplication.accesskey           "e">
 <!ENTITY  changeApp.label                     "ਝਲਕ...">
 <!ENTITY  changeApp.accesskey                 "B">
 <!ENTITY  saveToDisk.label                    "ਇਹਨਾਂ ਨੂੰ ਮੇਰੇ ਕੰਪਿਊਟਰ ਉੱਤੇ ਸੰਭਾਲੋ">
 <!ENTITY  saveToDisk.accesskey                "S">
-<!ENTITY  saveToDefaultFolder.label           "ਮੂਲ ਡਾਊਨਲੋਡ ਫੋਲਡਰ ਵਿੱਚ">
+<!ENTITY  saveToDefaultFolder.label           "ਡਿਫਾਲਟ ਡਾਊਨਲੋਡ ਫੋਲਡਰ ਵਿੱਚ">
 <!ENTITY  saveToDefaultFolder.accesskey       "d">
 <!ENTITY  saveToThisFolder.label              "ਇਸ ਫੋਲਡਰ ਵਿੱਚ:">
 <!ENTITY  saveToThisFolder.accesskey          "h">
