@@ -53,7 +53,6 @@
 <!ENTITY retention.label "Exclusão">
 <!ENTITY retentionUseDefault.label  "Usar os padrões do servidor">
 <!ENTITY retentionUseDefault.accesskey "U">
-<!ENTITY days.label "dias">
 <!ENTITY daysOld.label "dias">
 <!ENTITY message.label "mensagens">
 <!ENTITY retentionCleanup.label "Para recuperar espaço em disco, mensagens antigas podem ser permanentemente excluídas.">
@@ -77,18 +76,15 @@
 
 <!ENTITY selectofflineNewsgroup.check.label      "Selecionar este newsgroup para leitura offline">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "S">
-<!ENTITY UseDefaultofflineNewsgroup.check.label  "Usar o padrão das configurações da conta">
 <!ENTITY offlineNewsgroup.button.label           "Receber agora">
 <!ENTITY offlineNewsgroup.button.accesskey       "R">
 
-<!ENTITY folderProps.information.label           "Informação:">
 <!ENTITY folderProps.name.label                  "Nome:">
 <!ENTITY folderProps.name.accesskey              "N">
 <!ENTITY folderProps.location.label              "Endereço:">
 <!ENTITY folderProps.location.accesskey          "E">
 
 <!ENTITY folderSharingTab.label                  "Compartilhamento">
-<!ENTITY privilegesDesc.label                    "Compartilhar estas e outras pastas com usuários da rede, exibir e definir direitos de acesso">
 <!ENTITY privileges.button.label                 "Direitos…">
 <!ENTITY privileges.button.accesskey             "D">
 <!ENTITY permissionsDesc.label                   "Você possui estas permissões:">

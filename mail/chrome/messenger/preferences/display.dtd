@@ -1,8 +1,6 @@
 <!ENTITY itemFormatting.label             "Formatação">
 <!ENTITY itemTags.label                   "Tags">
-<!ENTITY itemFonts.label                  "Fontes">
 
-<!ENTITY textBegin.label                  "Aparência de texto sem formatação citado">
 <!ENTITY style.label                      "Estilo:">
 <!ENTITY style.accesskey                  "E">
 <!ENTITY regularStyle.label               "Regular">
@@ -19,12 +17,10 @@
 <!ENTITY displayWidth.label               "Mensagens sem formatação">
 <!ENTITY plainText.label                  "Usar esta fonte:">
 <!ENTITY displayText.label                "Ao exibir texto citado:">
-<!ENTITY viewingPlainText.label            "Ao exibir mensagens:">
 <!ENTITY fixedWidth.label                 "Monoespaçada">
-<!ENTITY fixedWidth.accesskey             "o">
+<!ENTITY fixedWidth.accesskey             "M">
 <!ENTITY variableWidth.label              "Proporcional">
 <!ENTITY variableWidth.accesskey          "P">
-<!ENTITY readingMessagesHeader.label      "Para mensagens recebidas">
 <!ENTITY colors.label                     "Cores">
 <!ENTITY overrideColors.label             "Ao exibir mensagens, usar estas cores:">
 <!ENTITY textColor.label                  "Texto:">

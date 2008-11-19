@@ -5,13 +5,11 @@
 <!ENTITY neverEncrypt.label "Nunca (não usar criptografia)">
 <!ENTITY alwaysEncryptMessage.label "Sempre criptografar (todos os destinatários devem ter certificados)">
 <!ENTITY encryptionCert.message "Certificado usado para (des)criptografar mensagens enviadas a você:">
-<!ENTITY encryptionCert.notselected "Nenhum certificado definido">
 <!ENTITY certificate.button "Selecionar…">
 <!ENTITY certificate_clear.button "Limpar">
 <!ENTITY signingGroupTitle.label "Assinatura digital">
 <!ENTITY signMessage.label "Assinar mensagens digitalmente (por padrão)">
 <!ENTITY signingCert.message "Certificado usado para assinar digitalmente as mensagens enviadas:">
-<!ENTITY signingCert.notselected "Nenhum certificado definido">
 
 <!ENTITY certificates.label     "Certificados">
 <!ENTITY managecerts.label      "Certificados">

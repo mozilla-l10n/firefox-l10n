@@ -5,15 +5,11 @@
 <!ENTITY searchSubfolders.accesskey  "I">
 <!ENTITY resetButton.label           "Limpar">
 <!ENTITY resetButton.accesskey       "L">
-<!ENTITY optionsButton.label         "Opções">
-<!ENTITY closeButton.label           "Fechar">
 <!ENTITY openButton.label            "Abrir">
 <!ENTITY openButton.accesskey        "A">
 <!ENTITY deleteButton.label          "Excluir">
 <!ENTITY deleteButton.accesskey      "x">
 <!ENTITY searchDialogTitle.label     "Pesquisar mensagens">
-<!ENTITY conditionDesc.label         "Pesquisar mensagens que:">
-<!ENTITY conditions.label            "Critério">
 <!ENTITY results.label               "Resultados">
 <!ENTITY fileHereMenu.label          "Mover para cá">
 <!ENTITY fileHereMenu.accesskey      "M">
@@ -21,7 +17,7 @@
 <!ENTITY fileButton.accesskey        "M">
 <!ENTITY closeCmd.key                "w"> 
 <!ENTITY goToFolderButton.label      "Abrir pasta da mensagem">
-<!ENTITY goToFolderButton.accesskey  "b">
+<!ENTITY goToFolderButton.accesskey  "r">
 <!ENTITY saveAsVFButton.label        "Salvar como pasta de pesquisa…">
 <!ENTITY saveAsVFButton.accesskey    "S">
 
@@ -46,7 +42,6 @@
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Tamanho">
 <!ENTITY junkStatusColumn.label "Spam">
-<!ENTITY linesColumn.label "Linhas">
 <!ENTITY unreadColumn.label "Não lidas">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Lida">

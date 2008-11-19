@@ -46,11 +46,6 @@
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.key "p">
 <!ENTITY printCmd.accesskey "I">
-<!ENTITY quitApplicationCmdWin.label                    "Sair"> 
-<!ENTITY quitApplicationCmdWin.accesskey                "S">
-<!ENTITY quitApplicationCmd.label                       "Sair"> 
-<!ENTITY quitApplicationCmd.accesskey                   "S">
-<!ENTITY quitApplicationCmd.key "q"> 
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "Editar"> 
@@ -70,11 +65,11 @@
 <!ENTITY pasteCmd.label "Colar">
 <!ENTITY pasteCmd.key "v">
 <!ENTITY pasteCmd.accesskey "o">
+<!ENTITY pasteNoFormattingCmd.key "v">
 <!ENTITY editRewrapCmd.label "Reformatar quebras de linha">
-<!ENTITY editRewrapCmd.key "R">
+<!ENTITY editRewrapCmd.key "r">
 <!ENTITY editRewrapCmd.accesskey "b">
 <!ENTITY deleteCmd.label "Excluir">
-<!ENTITY deleteCmd.key "d">
 <!ENTITY deleteCmd.accesskey "x">
 <!ENTITY selectAllCmd.label "Selecionar tudo">
 <!ENTITY selectAllCmd.key "a">
@@ -97,7 +92,6 @@
 <!ENTITY viewToolbarsMenuNew.label "Barras de ferramentas"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "B"> 
 <!ENTITY showCompositionToolbarCmd.label "Padrão">
-<!ENTITY showCompositionToolbarCmd.accesskey "a">
 <!ENTITY showFormattingBarCmd.label "Barra de formatação">
 <!ENTITY showFormattingBarCmd.accesskey "f">
 <!ENTITY showTaskbarCmd.label "Barra de status">
@@ -172,7 +166,6 @@
 <!ENTITY accountManagerCmd.accesskey "n">
 <!ENTITY accountManagerCmdUnix.accesskey "n">
 <!ENTITY preferencesCmd.label "Opções…">
-<!ENTITY preferencesCmd.key "o">
 <!ENTITY preferencesCmd.accesskey "o">
 <!ENTITY preferencesCmdUnix.label       "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey   "P"> 
@@ -195,11 +188,11 @@
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Enviar esta mensagem agora"> 
-<!ENTITY sendlaterButton.tooltip "Armazenar a mensagem na pasta Saída"> 
+<!ENTITY sendlaterButton.tooltip "Armazenar a mensagem na pasta “Saída”"> 
 <!ENTITY quoteButton.tooltip "Citar a mensagem anterior"> 
 <!ENTITY addressButton.tooltip "Selecionar destinatários no catálogo de endereços"> 
 <!ENTITY attachButton.tooltip "Anexar arquivos"> 
-<!ENTITY saveButton.tooltip "Salvar a mensagem na pasta Rascunhos"> 
+<!ENTITY saveButton.tooltip "Salvar a mensagem na pasta “Rascunhos”"> 
 <!ENTITY cutButton.tooltip              "Recortar">
 <!ENTITY copyButton.tooltip             "Copiar">
 <!ENTITY pasteButton.tooltip            "Colar">
@@ -219,10 +212,6 @@
 <!ENTITY attachments.accesskey "n">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
 <!ENTITY SmileButton.tooltip "Inserir um smiley">
 <!ENTITY smiley1Cmd.label "Alegre">
 <!ENTITY smiley2Cmd.label "Triste">

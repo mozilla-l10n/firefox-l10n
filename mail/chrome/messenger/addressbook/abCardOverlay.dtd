@@ -57,15 +57,15 @@
 <!ENTITY PhoneticField2.id              "PhoneticLastName">
 
 <!ENTITY NameField1.label               "Primeiro:">
-<!ENTITY NameField1.accesskey           "i">
+<!ENTITY NameField1.accesskey           "m">
 <!ENTITY NameField2.label               "Último:">
 <!ENTITY NameField2.accesskey           "t">
 <!ENTITY PhoneticField1.label           "Fonético:">
 <!ENTITY PhoneticField2.label           "Fonético:">
 <!ENTITY DisplayName.label              "Apresentar como:">
-<!ENTITY DisplayName.accesskey          "m">
+<!ENTITY DisplayName.accesskey          "s">
 <!ENTITY NickName.label                 "Apelido:">
-<!ENTITY NickName.accesskey             "A">
+<!ENTITY NickName.accesskey             "d">
 
 <!ENTITY Internet.box                   "Internet">
 <!ENTITY PrimaryEmail.label             "Email:">
@@ -78,14 +78,14 @@
 <!ENTITY HTML.label                     "Texto formatado (HTML)">
 <!ENTITY Unknown.label                  "Sem preferência">
 <!ENTITY ScreenName.label               "Nome de tela:">
-<!ENTITY ScreenName.accesskey           "t">
+<!ENTITY ScreenName.accesskey           "N">
 
-<!ENTITY allowRemoteContent.label       "Permitir imagens externas em mensagens com formatação HTML">
-<!ENTITY allowRemoteContent.accesskey   "H">
+<!ENTITY allowRemoteContent.label       "Carregar imagens externas">
+<!ENTITY allowRemoteContent.accesskey   "x">
+<!ENTITY allowRemoteContent.tooltip     "Em mensagens com formatação HTML podem existir imagens que carregam de locais externos. A visualização da mensagem abrirá uma conexão com este endereço. Isto permite que a leitura da mensagem seja registrada. Marque esta opção para permitir que estas imagens externas sejam carregadas para este contato.">
 
-<!ENTITY Phones.box                     "Telefones">
 <!ENTITY WorkPhone.label                "Comercial:">
-<!ENTITY WorkPhone.accesskey            "o">
+<!ENTITY WorkPhone.accesskey            "C">
 <!ENTITY HomePhone.label                "Residencial:">
 <!ENTITY HomePhone.accesskey            "R">
 <!ENTITY FaxNumber.label                "Fax:">
@@ -93,54 +93,55 @@
 <!ENTITY PagerNumber.label              "Pager:">
 <!ENTITY PagerNumber.accesskey          "p">
 <!ENTITY CellularNumber.label           "Celular:">
-<!ENTITY CellularNumber.accesskey       "l">
+<!ENTITY CellularNumber.accesskey       "u">
 
-<!ENTITY Address.tab                    "Endereço">
-<!ENTITY Address.accesskey              "E">
-<!ENTITY Home.box                       "Residencial">
+<!ENTITY Home.tab                       "Pessoal">
+<!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "Endereço:">
-<!ENTITY HomeAddress.accesskey          "E">
+<!ENTITY HomeAddress.accesskey          "n">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Cidade:">
 <!ENTITY HomeCity.accesskey             "C">
 <!ENTITY HomeState.label                "Estado:">
-<!ENTITY HomeState.accesskey            "E">
+<!ENTITY HomeState.accesskey            "s">
 <!ENTITY HomeZipCode.label              "CEP:">
-<!ENTITY HomeZipCode.accesskey          "P">
+<!ENTITY HomeZipCode.accesskey          "E">
 <!ENTITY HomeCountry.label              "País:">
-<!ENTITY HomeCountry.accesskey          "P">
-<!ENTITY HomeWebPage.label              "Endereço na web:">
-<!ENTITY HomeWebPage.accesskey          "E">
-<!ENTITY Work.box                       "Comercial">
+<!ENTITY HomeCountry.accesskey          "s">
+<!ENTITY HomeWebPage.label              "Endereço web:">
+<!ENTITY HomeWebPage.accesskey          "w">
+<!ENTITY Birthday.label                 "Aniversário:">
+<!ENTITY Birthday.accesskey             "v">
+<!ENTITY Year.emptytext                 "Ano">
+<!ENTITY Or.value                       "ou">
+<!ENTITY Age.emptytext                  "Idade">
+
+<!ENTITY Work.tab                       "Trabalho">
+<!ENTITY Work.accesskey                 "T">
 <!ENTITY JobTitle.label                 "Cargo:">
 <!ENTITY JobTitle.accesskey             "C">
 <!ENTITY Department.label               "Setor:">
 <!ENTITY Department.accesskey           "S">
 <!ENTITY Company.label                  "Empresa:">
-<!ENTITY Company.accesskey              "E">
+<!ENTITY Company.accesskey              "m">
 <!ENTITY WorkAddress.label              "Endereço:">
-<!ENTITY WorkAddress.accesskey          "E">
+<!ENTITY WorkAddress.accesskey          "n">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Cidade:">
 <!ENTITY WorkCity.accesskey             "C">
 <!ENTITY WorkState.label                "Estado:">
-<!ENTITY WorkState.accesskey            "E">
+<!ENTITY WorkState.accesskey            "s">
 <!ENTITY WorkZipCode.label              "CEP:">
-<!ENTITY WorkZipCode.accesskey          "P">
+<!ENTITY WorkZipCode.accesskey          "E">
 <!ENTITY WorkCountry.label              "País:">
-<!ENTITY WorkCountry.accesskey          "P">
-<!ENTITY WorkWebPage.label              "Endereço na web:">
-<!ENTITY WorkWebPage.accesskey          "E">
+<!ENTITY WorkCountry.accesskey          "s">
+<!ENTITY WorkWebPage.label              "Endereço web:">
+<!ENTITY WorkWebPage.accesskey          "w">
 
 <!ENTITY Other.tab                      "Outros">
 <!ENTITY Other.accesskey                "O">
-<!ENTITY Birthday.label                 "Aniversário:">
-<!ENTITY Birthday.accesskey             "A">
-<!ENTITY Year.emptytext                 "Ano">
-<!ENTITY Or.value                       "ou">
-<!ENTITY Age.emptytext                  "Idade">
 <!ENTITY Custom1.label                  "Personalizado 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Personalizado 2:">
@@ -149,5 +150,5 @@
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Personalizado 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.box                      "Observações">
-<!ENTITY Notes.accesskey                "O">
+<!ENTITY Notes.label                    "Observações:">
+<!ENTITY Notes.accesskey                "b">

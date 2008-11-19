@@ -1,5 +1,5 @@
 <!ENTITY  changeAction.title                  "Propriedades da ação">
-<!ENTITY  window.width                         "36em">
+<!ENTITY  window.width                         "36.0em">
 
 <!ENTITY  whenDownloading.label               "Ao receber este tipo de arquivo:">
 
@@ -19,5 +19,3 @@
 <!ENTITY  chooseFolder.accesskey              "P">
 <!ENTITY  saveToAskMe.label                   "perguntar onde salvar o arquivo">
 <!ENTITY  saveToAskMe.accesskey               "e">
-<!ENTITY  usePlugin.label                     "Usar este plugin:">
-<!ENTITY  usePlugin.accesskey                 "U">

@@ -2,13 +2,6 @@
 
 <!ENTITY securitySettings.label "Configurações de segurança">
 <!ENTITY serverSettings.label "Receber mensagens">
-<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
-<!ENTITY popServer.label "Servidor POP">
-<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
-<!ENTITY imapServer.label "Servidor IMAP">
-<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
-<!ENTITY newsServer.label "Servidor de news (NNTP)">
-<!ENTITY webmail.label "Conta de webmail">
 <!ENTITY serverType.label "Tipo:">
 <!ENTITY serverName.label "Servidor:">
 <!ENTITY serverName.accesskey "s">
@@ -50,10 +43,7 @@
 <!ENTITY deleteOnServer2.accesskey "e">
 <!ENTITY downloadOnBiff.label "Receber novas mensagens automaticamente">
 <!ENTITY downloadOnBiff.accesskey "e">
-<!ENTITY hostname.label "Nome do servidor">
 <!ENTITY username.label "Nome de usuário">
-<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
-<!ENTITY popServerTitle.label "Informações do servidor POP">
 <!ENTITY deleteMessagePrefix.label "Ao excluir uma mensagem:">
 <!ENTITY modelMoveToTrash.label "Mover para esta pasta:">
 <!ENTITY modelMoveToTrash.accesskey "o">
@@ -62,7 +52,7 @@
 <!ENTITY modelDeleteImmediately.label "Excluir imediatamente">
 <!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Limpar a pasta Entrada ao sair">
+<!ENTITY expungeOnExit.label "Limpar a pasta “Entrada” ao sair">
 <!ENTITY expungeOnExit.accesskey "m">
 <!ENTITY emptyTrashOnExit.label "Esvaziar a lixeira ao sair">
 <!ENTITY emptyTrashOnExit.accesskey "z">

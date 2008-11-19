@@ -1,6 +1,4 @@
 <!ENTITY serverAdvanced.label "Opções avançadas">
-<!-- LOCALIZATION NOTE (imapAdvanced.label): Do not translate "IMAP" -->
-<!ENTITY imapAdvanced.label "Opções avançadas do servidor IMAP">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "Servidor de diretórios IMAP:">
 <!ENTITY serverDirectory.accesskey "I">
@@ -23,7 +21,6 @@
 <!ENTITY overrideNamespaces.label "Permitir que o servidor sobrescreva estes namespaces">
 <!ENTITY overrideNamespaces.accesskey "e">
 <!ENTITY pop3Desc.label "Ao receber mensagens POP deste servidor, salvá-las na:" >
-<!ENTITY folderStorage.label "Onde armazenas mensagens">
 <!ENTITY globalInbox.label "Pasta Entrada da conta Pastas Locais">
 <!ENTITY globalInbox.accesskey "E">
 <!ENTITY accountDirectory.label "Pasta Entrada de uma conta própria">

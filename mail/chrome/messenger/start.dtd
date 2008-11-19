@@ -45,5 +45,3 @@ function installDic(anchor)
 <h2>Instalação do verificador ortográfico</h2>
 <p><a href="http://br.mozdev.org/thunderbird/ortografia.html" onclick="installDic(this);return false">Clique aqui para instalar da internet o verificador para o idioma português</a>.
 <a href="http://br.mozdev.org/thunderbird/vocesabia/?ortografia">Mais informações</a>.</p>'>
-
-<!ENTITY startpage.poweredByGecko "Powered by Gecko.">

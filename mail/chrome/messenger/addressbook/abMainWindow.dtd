@@ -35,12 +35,6 @@
 <!ENTITY printAddressBook.label                         "Imprimir catálogo…">
 <!ENTITY printAddressBook.accesskey                     "a">
 
-<!ENTITY quitApplicationCmdWin.label                    "Sair"> 
-<!ENTITY quitApplicationCmdWin.accesskey                "S">
-<!ENTITY quitApplicationCmd.label                       "Sair"> 
-<!ENTITY quitApplicationCmd.accesskey                   "S">
-<!ENTITY quitApplicationCmd.key "q">
-
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Editar">
 <!ENTITY editMenu.accesskey                             "E">
@@ -60,7 +54,6 @@
 <!ENTITY pasteCmd.key                                   "v">
 <!ENTITY pasteCmd.accesskey                             "o">
 <!ENTITY deleteCmd.label                                "Excluir">
-<!ENTITY deleteCmd.key                                  "d">
 <!ENTITY deleteCmd.accesskey                            "x">
 <!ENTITY deleteAbCmd.label                              "Excluir catálogo">
 <!ENTITY deleteCardCmd.label                            "Excluir contato">
@@ -118,7 +111,6 @@
 <!ENTITY exportCmd.label                                "Exportar…">
 <!ENTITY exportCmd.accesskey                            "x">
 <!ENTITY preferencesCmd.label                           "Opções…">
-<!ENTITY preferencesCmd.key                             "o">
 <!ENTITY preferencesCmd.accesskey                       "o">
 <!ENTITY preferencesCmdUnix.label                       "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey                   "P">
@@ -202,7 +194,7 @@
 <!ENTITY addresses.heading                              "Endereços">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Mapa">
-<!ENTITY mapIt.tooltip                                  "Pesquisar um mapa deste endereço na web">
+<!ENTITY mapIt.tooltip                                  "Pesquisar um mapa deste endereço web">
 
 <!-- Status Bar -->
 <!ENTITY statusText.label "">

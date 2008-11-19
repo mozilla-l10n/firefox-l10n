@@ -1,5 +1,5 @@
 <!ENTITY  connectionsDialog.title       "Configurar conexão">
-<!ENTITY  window.width                   "37em">
+<!ENTITY  window.width                   "37.0em">
 
 <!ENTITY  proxyTitle.label              "Acesso à internet">
 <!ENTITY  noProxyTypeRadio.label        "Sem proxy">
@@ -14,10 +14,6 @@
 <!ENTITY  autoTypeRadio.accesskey       "E">
 <!ENTITY  reload.label                  "Recarregar">
 <!ENTITY  reload.accesskey              "c">
-<!ENTITY  ftp.label                     "FTP:">
-<!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  gopher.label                  "Gopher:">
-<!ENTITY  gopher.accesskey              "G">
 <!ENTITY  http.label                    "HTTP:">
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "SSL:">
