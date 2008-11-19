@@ -27,16 +27,14 @@
 <!ENTITY getNewMsgForCmd.accesskey "w">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "සියලු ගිණුම් සඳහා වූ">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
-<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "මෙම ගිණුම සඳහා වූ">
-<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
+
 <!ENTITY getNextNMsgCmd.label "ඊළඟ නව ලිපි 500 ලබාගන්න">
 <!ENTITY getNextNMsgCmd.accesskey "t">
 <!ENTITY sendUnsentCmd.label "නොයැවූ ලිපි යවන්න">
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "දායකත්වය ලබාගන්න...">
 <!ENTITY subscribeCmd.accesskey "b">
-<!ENTITY deleteFolder.label "බහලුම මකන්න">
-<!ENTITY deleteFolder.accesskey "e">
+
 <!ENTITY renameFolder.label "බහලුම යළි නම් කරන්න...">
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2">
@@ -56,8 +54,7 @@
 <!ENTITY settingsOfflineCmd.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "තෝරාගත් ලිපි ලබාගන්න">
 <!ENTITY downloadSelectedCmd.accesskey "l">
-<!ENTITY downloadStarredCmd.label "Get Starred Messages">
-<!ENTITY downloadStarredCmd.accesskey "a">
+
 <!ENTITY printCmd.label "මුද්‍රණය...">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "p">
@@ -98,7 +95,7 @@
 <!ENTITY folderPropsCmd.accesskey "o">
 <!ENTITY accountManagerCmd.label "ගිණුමේ සැකසුම්...">
 <!ENTITY accountManagerCmd.accesskey "c">
-<!ENTITY accountManagerCmdUnix.accesskey "A">
+
 <!ENTITY undoDeleteMsgCmd.label "ලිපි මැකීම අහෝසි.">
 <!ENTITY redoDeleteMsgCmd.label "ලිපි මැකීම යළි කරන්න">
 <!ENTITY undoMoveMsgCmd.label "ලිපි ගෙනයාම අහෝසි ක.">
@@ -127,14 +124,10 @@
 <!ENTITY showMessageCmd.label "ලිපි කවුළුව">
 <!ENTITY showMessageCmd.accesskey "M">
 
-<!ENTITY folderView.label "බහලුම">
-<!ENTITY folderView.accesskey "F">
-<!ENTITY allFolders.label "සියල්ල">
-<!ENTITY allFolders.accesskey "A">
+
 <!ENTITY unreadFolders.label "නොකියවූ">
 <!ENTITY unreadFolders.accesskey "U">
-<!ENTITY favoriteFolders.label "ප්‍රියතම">
-<!ENTITY favoriteFolders.accesskey "F">
+
 <!ENTITY recentFolders.label "මෑත">
 <!ENTITY recentFolders.accesskey "R">
 
@@ -222,34 +215,11 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "විශාල කරන්න">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label        "කුඩා කරන්න">
-<!ENTITY fullZoomReduceCmd.accesskey    "O">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "යළි සකසන්න">
-<!ENTITY fullZoomResetCmd.accesskey     "R">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "පාඨ පමණක් විශාල කරන්න">
-<!ENTITY fullZoomToggleCmd.accesskey    "T">
-<!ENTITY fullZoom.label                 "විශාලනය">
-<!ENTITY fullZoom.accesskey             "Z">
-
-<!ENTITY pageSourceCmd.label "ලිපියේ මූලය">
-<!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
 
 <!-- Search Menu -->
-<!ENTITY findMenu.label "සොයන්න">
-<!ENTITY findMenu.accesskey "F">
+
 <!ENTITY findCmd.label "මේ ලිපියේ සොයන්න...">
 <!ENTITY findCmd.accesskey "F">
 <!ENTITY findCmd.key "f">
@@ -290,10 +260,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY prevUnreadMsgCmd.accesskey "U">
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goForwardCmd.label "ඉදිරියට">
-<!ENTITY goForwardCmd.accesskey "F">
+
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "පසුපසට">
-<!ENTITY goBackCmd.accesskey "B">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Starred Message">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
@@ -401,8 +370,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY runJunkControls.accesskey "u">
 <!ENTITY deleteJunk.label "බහලුමේ නිසරු සේ සළකුණු කර ඇති ලිපි මකන්න">
 <!ENTITY deleteJunk.accesskey "l">
-<!ENTITY errorConsoleCmd.label "දෝෂ කොන්සෝලය">
-<!ENTITY errorConsoleCmd.accesskey "n">
+
 <!ENTITY filtersCmd.label "ලිපි පෙරණ...">
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "බහලුම මත පෙරහන ක්‍රියා ක.">
@@ -422,7 +390,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextButton.label "ඊළඟ">
 <!ENTITY previousButton.label "පෙර">
 <!ENTITY backButton1.label "පසුපසට">
-<!ENTITY goForwardButton1.label "ඉදිරියට">
+
 <!ENTITY deleteButton.label "මකන්න">
 <!ENTITY undeleteButton.label "මකන්න එපා">
 <!ENTITY markButton.label "සළකුණු කරන්න">
@@ -433,7 +401,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY notJunkButton.label "නිසරු සේ නොගැනෙන ලිපි">
 <!ENTITY addressBookButton.label "ලිපින පොත">
 <!ENTITY searchItem.title "ඉක්මන් සෙවුම">
-<!ENTITY folderLocationToolbarItem.title "බහලුම් පිහිටුම">
+
 <!ENTITY tagButton.label "ටැගය">
 <!ENTITY compactButton.label "සංයුක්ත">
 
@@ -464,20 +432,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY compactButton.tooltip "තෝරාගත් බහලුමෙන් මැකූ ලිපි ඉවත් කිරීමට">
 
 <!-- Tags Menu Popup -->
-<!ENTITY addNewTag.label "නව ටැගයක්…">
-<!ENTITY addNewTag.accesskey "N">
+
 
 <!-- Folder Pane -->
-<!ENTITY folderColumn.label "නම">
-<!ENTITY folderSizeColumn.label "විශාලත්වය">
 
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "ලිපි ලබාගන්න">
 <!ENTITY folderContextGetMessages.accesskey "G">
 <!ENTITY folderContextOpenNewWindow.label "විවෘත කරන්න">
 <!ENTITY folderContextOpenNewWindow.accesskey "O">
-<!ENTITY folderContextOpenNewTab.label "නව ටැබයක විවෘත කරන්න">
-<!ENTITY folderContextOpenNewTab.accesskey "T">
+
 <!ENTITY folderContextNew.label "නව උප බහලුමක්...">
 <!ENTITY folderContextNew.accesskey "N">
 <!ENTITY folderContextRename.label "යළි නම් කරන්න">
@@ -504,8 +468,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextSearchMessages.accesskey "S">
 <!ENTITY folderContextProperties.label "ලක්‍ෂණ...">
 <!ENTITY folderContextProperties.accesskey "P">
-<!ENTITY folderContextFavoriteFolder.label "ප්‍රියතම බහලුම">
-<!ENTITY folderContextFavoriteFolder.accesskey "a">
+
 <!ENTITY folderContextSettings.label "සැකසුම්…">
 <!ENTITY folderContextSettings.accesskey "e">
 
@@ -523,12 +486,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveAsVirtualFolderMenu.label "සෙවුම් බහලුම සේ සුරකින්න...">
 
 <!-- Thread Pane -->
-<!ENTITY fromColumn.label "එවන්නා">
+
 <!ENTITY recipientColumn.label "ලබන්නා">
 <!ENTITY subjectColumn.label "විෂයය">
 <!ENTITY dateColumn.label "දිනය">
 <!ENTITY priorityColumn.label "ප්‍රමුඛතාවය">
-<!ENTITY accountColumn.label "ගිණුම">
 <!ENTITY statusColumn.label "තත්ත්වය">
 <!ENTITY sizeColumn.label "විශාලත්වය">
 <!ENTITY unreadColumn.label "නොකියවූ">
@@ -536,27 +498,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY readColumn.label "කියවූ">
 <!ENTITY receivedColumn.label "ලැබුණු">
 <!ENTITY starredColumn.label "Starred">
-<!ENTITY idColumn.label "ලැබුණු අනුපිළිවෙළ">
 <!ENTITY attachmentColumn.label "ඇමුණුම්">
 
-<!-- Thread Pane Tooltips -->
-<!--<!ENTITY columnChooser.tooltip "පෙන්වීම සඳහා තීරු තේරීමට ක්ලික් කරන්න">
 
-<!ENTITY fromColumn.tooltip "එවන්නා අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY recipientColumn.tooltip "එවන්නා අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY subjectColumn.tooltip "විෂයය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY dateColumn.tooltip "දිනය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY priorityColumn.tooltip "ප්‍රමුඛතාවය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY accountColumn.tooltip "ගිණුම අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY statusColumn.tooltip "තත්ත්වය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY sizeColumn.tooltip "විශාලත්වය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY unreadColumn.tooltip "සබැඳිලිපි තුළ ඇති නොකියවූ ලිපි ගණන">
-<!ENTITY totalColumn.tooltip "සබැඳිලිපි තුළ ඇති මුළු ලිපි ගණන">
-<!ENTITY readColumn.tooltip "කියවීම අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY receivedColumn.tooltip "ලැබුණු දිනය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY starredColumn.tooltip "තරු අනුපිළිවෙළට සැකසීමට ක්ලික් කරන්න">
-<!ENTITY idColumn.tooltip "ලැබුණු අනුපිළිවෙළට අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY attachmentColumn.tooltip "ඇමුණුම් පිළිවෙළ කිරීමට ක්ලික් කරන්න">-->
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "ලිපිය නව කවුළුවක විවෘත කරන්න">
@@ -605,20 +549,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quickSearchCmd.key "k">
 
 <!-- Message Header Context Menu -->
-<!ENTITY AddToAddressBook.label "ලිපින පොතට එක්කරන්න...">
-<!ENTITY AddToAddressBook.accesskey "B">
-<!ENTITY AddDirectlyToAddressBook.label "ලිපින පොතට එක්කරන්න">
-<!ENTITY AddDirectlyToAddressBook.accesskey "B">
-<!ENTITY EditContact.label "ඇඳුනුම් සැකසීම…">
-<!ENTITY EditContact.accesskey "E">
-<!ENTITY ViewContact.label "ඇඳුනුම් පෙන්වීම">
-<!ENTITY ViewContact.accesskey "V">
-<!ENTITY SendMailTo.label "ලිපියක් ලියන්න">
-<!ENTITY SendMailTo.accesskey "s">
-<!ENTITY CopyEmailAddress.label "ලිපිනය පිටපත් කරන්න">
-<!ENTITY CopyEmailAddress.accesskey "C">
-<!ENTITY CreateFilterFrom.label "ලිපියෙන් පෙරහනක් සාදන්න...">
-<!ENTITY CreateFilterFrom.accesskey "F">
+
+
 <!ENTITY reportPhishingURL.label "Email Scam වාර්තා කරන්න">
 <!ENTITY reportPhishingURL.accesskey "o">
 
@@ -650,12 +582,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "සේවාවන්">
-<!ENTITY hideThisAppCmdMac.label        "&brandShortName; සඟවන්න">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
-<!ENTITY hideOtherAppsCmdMac.label      "අනෙක්වා සඟවන්න">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "සියල්ල පෙන්වන්න">
 <!ENTITY SearchSubjectOrFrom.label "Subject or From contains:">
 <!ENTITY SearchSubjectOrFrom.accesskey "S">
@@ -689,7 +615,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markFlaggedCmd.accesskey "F">
 <!ENTITY markFlaggedCmd.key "i">
 <!ENTITY menuBar.tooltip "Menu Bar">
-<!ENTITY nameColumn.label "Name">
+<!ENTITY nameColumn.label "නම">
 <!ENTITY newMessage.label "New Message">
 <!ENTITY newMessage.accesskey "N">
 <!ENTITY nextFlaggedMsgCmd.label "Flagged Message">
@@ -706,20 +632,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyToAllRecipientsCmd.accesskey "a">
 <!ENTITY replyToSenderAndNewsgroupCmd.label "Reply to Sender and Newsgroup">
 <!ENTITY replyToSenderAndNewsgroupCmd.accesskey "p">
-<!ENTITY showFolderPaneCmd.label "Folder Pane">
+<!ENTITY showFolderPaneCmd.label "බහලුම් පුවරුව">
 <!ENTITY showFolderPaneCmd.accesskey "F">
-<!ENTITY showLocationToolbarCmd.label "Location Toolbar">
+<!ENTITY showLocationToolbarCmd.label "පිහිටුම් මෙවලම්තීරුව">
 <!ENTITY showLocationToolbarCmd.accesskey "L">
-<!ENTITY showMessagePaneCmd.label "Message Pane">
+<!ENTITY showMessagePaneCmd.label "පණිවිඩ පුවරුව">
 <!ENTITY showMessagePaneCmd.accesskey "M">
 <!-- showSearchToolbarCmd is also used by addressbook -->
-<!ENTITY showSearchToolbarCmd.label		"Search Bar">
+<!ENTITY showSearchToolbarCmd.label		"සෙවුම් පුවරුව">
 <!ENTITY showSearchToolbarCmd.accesskey	"e">
-<!ENTITY sortByFlagCmd.label "Flag">
+<!ENTITY sortByFlagCmd.label "සංඥා">
 <!ENTITY sortByFlagCmd.accesskey "l">
-<!ENTITY stopCmd.label "Stop">
+<!ENTITY stopCmd.label "නවතන්න">
 <!ENTITY stopCmd.accesskey "S">
-<!ENTITY tagCustomize.label "Customize…">
+<!ENTITY tagCustomize.label "රිසිකරණය…">
 <!ENTITY tagCustomize.accesskey "C">
 <!ENTITY throbber.tooltip "Go to the &vendorShortName; home page">
 <!ENTITY titleModifier.label "&brandShortName;">
