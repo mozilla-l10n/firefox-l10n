@@ -48,7 +48,6 @@
 <!ENTITY bulletList.value "Lista de marcadores (não numerada)">
 <!ENTITY numberList.value "Lista numerada">
 <!ENTITY definitionList.value "Lista de definições">
-<!ENTITY changeListMsg.label "Ao alterar o tipo de lista:">
 <!ENTITY changeEntireListRadio.label "Alterar toda a lista">
 <!ENTITY changeEntireListRadio.accessKey "t">
 <!ENTITY changeSelectedRadio.label "Alterar somente os itens selecionados">

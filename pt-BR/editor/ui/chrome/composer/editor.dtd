@@ -45,23 +45,14 @@
 
 <!-- View menu items -->
 <!ENTITY viewMenu.label "Exibir">
-<!ENTITY viewmenu.accesskey "x">
+<!ENTITY viewMenu.accesskey "x">
 <!ENTITY compositionToolbarCmd.label "Barra de ferramentas">
-<!ENTITY compositiontb.accesskey "c">
-<!ENTITY formattingToolbarCmd.label "Format Toolbar">
-<!ENTITY formattingtb.accesskey "f">
+<!ENTITY compositionToolbarCmd.accesskey "B">
+<!ENTITY formattingToolbarCmd.label "Barra de formatação">
+<!ENTITY formattingToolbarCmd.accesskey "f">
 <!ENTITY editmodeToolbarCmd.label "Modo de edição">
-<!ENTITY editmodetb.accesskey "E">
+<!ENTITY editmodeToolbarCmd.accesskey "E">
 
 <!-- Format menu items -->
-<!ENTITY formatMenu.label "Format">
-<!ENTITY formatmenu.accesskey "o">
-
-<!ENTITY helpMenu.label "Ajuda">
-<!ENTITY aboutCmd.label ".About">
-
-<!-- Display Mode Toolbar -->
-<!ENTITY editMode.label "Edit Mode:">
-
-<!ENTITY statusText.label "Página carregada">
-
+<!ENTITY formatMenu.label "Formatar">
+<!ENTITY formatMenu.accesskey "m">

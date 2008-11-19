@@ -1,13 +1,13 @@
-<!ENTITY  pref.editing.title        "New Page Settings">
+<!ENTITY  pref.editing.title        "Configurações de nova página">
 
-<!ENTITY  authorName.label          "Author:">
-<!ENTITY  authorName.accesskey      "u">
-<!ENTITY  pageColorHeader           "Default Page Appearance">
+<!ENTITY  authorName.label          "Autor:">
+<!ENTITY  authorName.accesskey      "A">
+<!ENTITY  pageColorHeader           "Aparência padrão da página">
 
-<!ENTITY defaultColorsRadio.label   "Não definir as cores da página (usa as cores padrão do internauta)">
-<!ENTITY defaultColors.accesskey    "d">
-<!ENTITY customColorsRadio.label    "Usar cores personalizadas:">
-<!ENTITY customColors.accesskey     "c">
+<!ENTITY defaultColors.label        "Não definir as cores da página (usar as cores padrão do visitante)">
+<!ENTITY defaultColors.accesskey    "N">
+<!ENTITY customColors.label         "Usar cores personalizadas:">
+<!ENTITY customColors.accesskey     "U">
 
 <!ENTITY normalText.label           "Texto - normal">
 <!ENTITY normalText.accesskey       "T">

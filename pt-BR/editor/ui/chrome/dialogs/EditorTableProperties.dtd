@@ -45,7 +45,7 @@
 <!ENTITY tableRows.label                  "Linhas:">
 <!ENTITY tableRows.accessKey              "L">
 <!ENTITY tableColumns.label               "Colunas:">
-<!ENTITY tableColumns.accessKey           "c">
+<!ENTITY tableColumns.accessKey           "C">
 <!ENTITY tableHeight.label                "Altura:">
 <!ENTITY tableHeight.accessKey            "r">
 <!ENTITY tableWidth.label                 "Largura:">
@@ -70,7 +70,6 @@
 <!ENTITY tableCaptionNone.label           "Nenhuma">
 <!ENTITY tableInheritColor.label           "(tabela transparente)">
 
-<!ENTITY cellPercent.label                "porcentagem da tabela">
 <!ENTITY cellSelection.label              "Seleção">
 <!ENTITY cellSelectCell.label             "Célula">
 <!ENTITY cellSelectRow.label              "Linha">
@@ -79,13 +78,7 @@
 <!ENTITY cellSelectNext.accessKey         "P">
 <!ENTITY cellSelectPrevious.label         "Anterior">
 <!ENTITY cellSelectPrevious.accessKey     "t">
-<!ENTITY cellApplyBeforeMove.label        "Aplicar alterações antes de alterar a seleção">
-<!ENTITY cellKeepCurrentData.label        "Manter configurações atuais">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label         "As alterações atuais serão aplicadas">
-<!ENTITY applyBeforeChange2.label         "antes de mudar a seleção.">
-<!ENTITY cellRowSpan.label                "Agrupar linhas:">
-<!ENTITY cellColSpan.label                "Agrupar colunas:">
+<!ENTITY applyBeforeChange.label          "As alterações atuais serão aplicadas antes de mudar a seleção.">
 <!ENTITY cellContentAlignment.label       "Alinhamento do conteúdo">
 <!ENTITY cellHorizontal.label             "Horizontal:">
 <!ENTITY cellHorizontal.accessKey         "z">
@@ -103,7 +96,6 @@
 <!ENTITY cellAlignMiddle.label            "Centralizado">
 <!ENTITY cellAlignBottom.label            "Inferior">
 <!ENTITY cellAlignJustify.label           "Justificado">
-<!ENTITY cellAlignAtChar.label            "No caractere:">
 <!ENTITY cellInheritColor.label           "(célula transparente)">
 <!ENTITY cellUseCheckboxHelp.label        "Marque os campos cujas propriedades devem ser aplicadas nas células selecionadas.">
 

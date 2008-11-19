@@ -39,7 +39,7 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Plano de fundo e cores da página">
 <!ENTITY pageColors.label "Cores da página">
-<!ENTITY defaultColorsRadio.label "Não definir as cores da página (usa as cores padrão do internauta)">
+<!ENTITY defaultColorsRadio.label "Não definir as cores da página (usar as cores padrão do visitante)">
 <!ENTITY defaultColorsRadio.accessKey "N">
 <!ENTITY defaultColorsRadio.tooltip "Usar as configurações de cor do navegador do visitante">
 <!ENTITY customColorsRadio.label "Usar cores personalizadas:">

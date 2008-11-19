@@ -44,8 +44,6 @@
 
 <!ENTITY status.label          "Publishing…">
 <!ENTITY fileList.label        "Publishing Status">
-<!ENTITY statusHeader.label    "Status">
-<!ENTITY filenameHeader.label  "Nome do arquivo">
 <!ENTITY succeeded.label       "Succeeded">
 <!ENTITY failed.label          "Malsucedido">
 

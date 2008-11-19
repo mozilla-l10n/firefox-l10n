@@ -38,7 +38,6 @@
 
 <!ENTITY Window.title        "Sumário">
 <!ENTITY buildToc.label      "Criar sumário de">
-<!ENTITY style.label         "Estilo:">
 <!ENTITY tag.label           "Tag:">
 <!ENTITY class.label         "Class:">
 <!ENTITY header1.label       "Nível 1">
