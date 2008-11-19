@@ -406,7 +406,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY compactButton.label "සංයුක්ත">
 
 <!-- Mail Toolbar Tooltips-->
-<!ENTITY advancedButton.tooltip "වැඩිමනත් ලිපි සෙවුම">
+<!--<!ENTITY advancedButton.tooltip "වැඩිමනත් ලිපි සෙවුම">
 <!ENTITY getMsgButton.tooltip "නව ලිපි ලබා ගැනීමට">
 <!ENTITY getAllNewMsgCmd.label "සියළු නව ලිපි ලබා ගැනීමට">
 <!ENTITY getAllNewMsgCmd.accesskey "G">
@@ -429,7 +429,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY notJunkButton.tooltip "තෝරාගත් ලිපි නසරු ‍නොවන සේ සළකුණු කිරීමට">
 <!ENTITY addressBookButton.tooltip "ලිපින පොතට යොමුවීමට">
 <!ENTITY tagButton.tooltip "ටැග් ලිපි">
-<!ENTITY compactButton.tooltip "තෝරාගත් බහලුමෙන් මැකූ ලිපි ඉවත් කිරීමට">
+<!ENTITY compactButton.tooltip "තෝරාගත් බහලුමෙන් මැකූ ලිපි ඉවත් කිරීමට">-->
 
 <!-- Tags Menu Popup -->
 
@@ -487,7 +487,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Thread Pane -->
 
-<!ENTITY recipientColumn.label "ලබන්නා">
+<!--<!ENTITY recipientColumn.label "ලබන්නා">
 <!ENTITY subjectColumn.label "විෂයය">
 <!ENTITY dateColumn.label "දිනය">
 <!ENTITY priorityColumn.label "ප්‍රමුඛතාවය">
@@ -498,7 +498,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY readColumn.label "කියවූ">
 <!ENTITY receivedColumn.label "ලැබුණු">
 <!ENTITY starredColumn.label "Starred">
-<!ENTITY attachmentColumn.label "ඇමුණුම්">
+<!ENTITY attachmentColumn.label "ඇමුණුම්">-->
 
 
 
