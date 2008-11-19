@@ -92,8 +92,6 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Starred Messages">
 <!ENTITY selectFlaggedCmd.accesskey "S">
-<!ENTITY menuFavoriteFolder.label "ප්‍රියතම බහලුම">
-<!ENTITY menuFavoriteFolder.accesskey "a">
 <!ENTITY folderPropsCmd.label "ලක්ෂණ...">
 <!ENTITY folderPropsFolderCmd.label "බහලුම් ලක්ෂණ...">
 <!ENTITY folderPropsNewsgroupCmd.label "පුවත්සමූහ ලක්ෂණ...">
@@ -339,9 +337,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyMessageLocation.accesskey "M">
 <!ENTITY copyMsgToMenu.label "පිටපත් කරන්න">
 <!ENTITY copyMsgToMenu.accesskey "C">
-<!ENTITY moveToFolderAgain.label "යළි ගෙන යන්න">
-<!ENTITY moveToFolderAgain.accesskey "i">
-<!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "සබැඳුම නොසලකා හරින්න">
 <!ENTITY killThreadMenu.accesskey "I">
 <!ENTITY killThreadMenu.key "k">
@@ -381,9 +376,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAllReadCmd.label "සියල්ල කියවූ ලෙස">
 <!ENTITY markAllReadCmd.accesskey "A">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markStarredCmd.label "Add Star">
-<!ENTITY markStarredCmd.accesskey "S">
-<!ENTITY markStarredCmd.key "S">
 <!ENTITY markAsJunkCmd.label "නිසරු සේ">
 <!ENTITY markAsJunkCmd.accesskey "J">
 <!ENTITY markAsJunkCmd.key "j">
@@ -400,13 +392,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY windowMenu.label "කවුළුව">
 
 <!-- Tools Menu -->
-<!ENTITY tasksMenu.label "මෙවලම්">
-<!ENTITY tasksMenu.accesskey "T">
 <!ENTITY addons.label "ඇඩෝන">
 <!ENTITY addons.accesskey "d">
-<!ENTITY messengerCmd.label "ලිපි සහ පුවත්සමූහ">
-<!ENTITY messengerCmd.accesskey "m">
-<!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "ලිපින පොත">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.commandkey "2">
@@ -446,7 +433,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY notJunkButton.label "නිසරු සේ නොගැනෙන ලිපි">
 <!ENTITY addressBookButton.label "ලිපින පොත">
 <!ENTITY searchItem.title "ඉක්මන් සෙවුම">
-<!ENTITY mailViewsToolbarItem.title "ලිපි දැකුම්">
 <!ENTITY folderLocationToolbarItem.title "බහලුම් පිහිටුම">
 <!ENTITY tagButton.label "ටැගය">
 <!ENTITY compactButton.label "සංයුක්ත">
@@ -537,47 +523,40 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveAsVirtualFolderMenu.label "සෙවුම් බහලුම සේ සුරකින්න...">
 
 <!-- Thread Pane -->
-<!ENTITY threadColumn.label "සබැඳි">
 <!ENTITY fromColumn.label "එවන්නා">
 <!ENTITY recipientColumn.label "ලබන්නා">
 <!ENTITY subjectColumn.label "විෂයය">
 <!ENTITY dateColumn.label "දිනය">
 <!ENTITY priorityColumn.label "ප්‍රමුඛතාවය">
-<!ENTITY tagsColumn.label "ටැග්">
 <!ENTITY accountColumn.label "ගිණුම">
 <!ENTITY statusColumn.label "තත්ත්වය">
 <!ENTITY sizeColumn.label "විශාලත්වය">
-<!ENTITY junkStatusColumn.label "නිසරු">
 <!ENTITY unreadColumn.label "නොකියවූ">
 <!ENTITY totalColumn.label "එකතුව">
 <!ENTITY readColumn.label "කියවූ">
 <!ENTITY receivedColumn.label "ලැබුණු">
 <!ENTITY starredColumn.label "Starred">
-<!ENTITY locationColumn.label "ස්ථානය">
 <!ENTITY idColumn.label "ලැබුණු අනුපිළිවෙළ">
 <!ENTITY attachmentColumn.label "ඇමුණුම්">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "පෙන්වීම සඳහා තීරු තේරීමට ක්ලික් කරන්න">
-<!ENTITY threadColumn.tooltip "සබැඳි ලිපි පෙන්වීමට ක්ලික් කරන්න">
+<!--<!ENTITY columnChooser.tooltip "පෙන්වීම සඳහා තීරු තේරීමට ක්ලික් කරන්න">
+
 <!ENTITY fromColumn.tooltip "එවන්නා අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY recipientColumn.tooltip "එවන්නා අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY subjectColumn.tooltip "විෂයය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY dateColumn.tooltip "දිනය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY priorityColumn.tooltip "ප්‍රමුඛතාවය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY tagsColumn.tooltip "ටැග් අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY accountColumn.tooltip "ගිණුම අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY statusColumn.tooltip "තත්ත්වය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY sizeColumn.tooltip "විශාලත්වය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY junkStatusColumn.tooltip "නිසරු බව අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY unreadColumn.tooltip "සබැඳිලිපි තුළ ඇති නොකියවූ ලිපි ගණන">
 <!ENTITY totalColumn.tooltip "සබැඳිලිපි තුළ ඇති මුළු ලිපි ගණන">
 <!ENTITY readColumn.tooltip "කියවීම අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY receivedColumn.tooltip "ලැබුණු දිනය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY starredColumn.tooltip "තරු අනුපිළිවෙළට සැකසීමට ක්ලික් කරන්න">
-<!ENTITY locationColumn.tooltip "ස්ථානය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY idColumn.tooltip "ලැබුණු අනුපිළිවෙළට අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY attachmentColumn.tooltip "ඇමුණුම් පිළිවෙළ කිරීමට ක්ලික් කරන්න">
+<!ENTITY attachmentColumn.tooltip "ඇමුණුම් පිළිවෙළ කිරීමට ක්ලික් කරන්න">-->
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "ලිපිය නව කවුළුවක විවෘත කරන්න">
@@ -610,13 +589,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrintPreview.accesskey "v">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "නිසරු ලිපි">
+
 <!ENTITY junkBarButton1.label "නිසරු නොවූ">
 <!ENTITY junkInfoButton.label "?">
 
 <!-- Remote Content Bar -->
 <!ENTITY remoteContentMessage1.label "ඔබගේ ර්‍පෙද්ගලිකත්වය රැකීම සඳහා, දුරස්ථ රූප අවහිර කර ඇත.">
-<!ENTITY loadRemoteContentButton2.label "දැන් රූපය පෙන්වන්න">
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "This message may be a scam.">
 <!ENTITY removePhishingBarButton1.label "අවවාදය නොසලකා වරින්න">
@@ -664,8 +642,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY statusText.label "කළා">
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY minimizeWindow.label "කවළුව හකුලන්න">
-<!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "සියල්ල මතුපිටට ගෙනෙන්න">
 <!ENTITY zoomWindow.label "විශාලනය">
 
@@ -747,4 +723,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCustomize.accesskey "C">
 <!ENTITY throbber.tooltip "Go to the &vendorShortName; home page">
 <!ENTITY titleModifier.label "&brandShortName;">
-<!ENTITY junkBarMessage.label "&brandShortName; thinks this message is junk.">
+<!ENTITY junkBarMessage.label "&brandShortName; මෙය නිසරු ලිපියක් සේ සලකයි.">
