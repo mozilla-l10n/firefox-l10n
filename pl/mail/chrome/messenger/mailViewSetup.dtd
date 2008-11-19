@@ -1,4 +1,4 @@
-<!ENTITY mailViewSetupTitle.label "Ustawienia widoku wiadomości">
-<!ENTITY mailViewHeading.label "Nazwa widoku wiadomości:">
+<!ENTITY mailViewSetupTitle.label  "Ustawienia widoku wiadomości">
+<!ENTITY mailViewHeading.label     "Nazwa widoku wiadomości:">
 <!ENTITY mailViewHeading.accesskey "N">
-<!ENTITY searchTermCaption.label "Wybranie tego widoku spowoduje wyświetlenie wiadomości, które">
+<!ENTITY searchTermCaption.label   "Wybranie tego widoku spowoduje wyświetlenie wiadomości, które">

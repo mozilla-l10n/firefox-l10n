@@ -71,6 +71,6 @@
 <!ENTITY offlineText.label           "W celu korzystania z zawartości katalogu w trybie offline należy utworzyć jego lokalną kopię.">
 
 <!-- Localization note: this is here because the width of the dialog
-	 is determined by the width of the base DN box; and that is likely
-	 to vary somewhat with the language. -->
+       is determined by the width of the base DN box; and that is likely
+       to vary somewhat with the language. -->
 <!ENTITY newDirectoryWidth "36em">

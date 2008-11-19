@@ -1,31 +1,31 @@
-<!ENTITY  downloadactionsWindow.title         "Czynności pobierania">
-<!ENTITY  window.width                        "480">
-<!ENTITY  window.height                       "310">
+<!ENTITY downloadactionsWindow.title   "Czynności pobierania">
+<!ENTITY window.width                  "480">
+<!ENTITY window.height                 "310">
 
-<!ENTITY  fileTypesDescription.label          "Automatycznie wykonuj przypisaną czynność dla każdego z poniższych typów plików:">
+<!ENTITY fileTypesDescription.label    "Automatycznie wykonuj przypisaną czynność dla każdego z poniższych typów plików:">
 
-<!ENTITY  fileHandlerColumn.label             "Czynność">
-<!ENTITY  fileHandlerColumn.accesskey         "C">
-<!ENTITY  fileTypeColumn.label                "Typ pliku">
-<!ENTITY  fileTypeColumn.accesskey            "T">
-<!ENTITY  fileMIMETypeColumn.label            "Typ MIME">
-<!ENTITY  fileMIMETypeColumn.accesskey        "M">
-<!ENTITY  fileExtensionColumn.label           "Rozszerzenie">
-<!ENTITY  fileExtensionColumn.accesskey       "e">
+<!ENTITY fileHandlerColumn.label       "Czynność">
+<!ENTITY fileHandlerColumn.accesskey   "C">
+<!ENTITY fileTypeColumn.label          "Typ pliku">
+<!ENTITY fileTypeColumn.accesskey      "T">
+<!ENTITY fileMIMETypeColumn.label      "Typ MIME">
+<!ENTITY fileMIMETypeColumn.accesskey  "M">
+<!ENTITY fileExtensionColumn.label     "Rozszerzenie">
+<!ENTITY fileExtensionColumn.accesskey "e">
 
-<!ENTITY  remove.label                        "Usuń czynność">
-<!ENTITY  remove.accesskey                    "U">
-<!ENTITY edit.label 				"Zmień czynność…">
-<!ENTITY  edit.accesskey                      "Z">
+<!ENTITY remove.label                  "Usuń czynność">
+<!ENTITY remove.accesskey              "U">
+<!ENTITY edit.label                    "Zmień czynność…">
+<!ENTITY edit.accesskey                "Z">
 
-<!ENTITY  windowClose.key                     "w">
-<!ENTITY  focusSearch1.key                    "f">
-<!ENTITY  focusSearch2.key                    "k">
+<!ENTITY windowClose.key               "w">
+<!ENTITY focusSearch1.key              "f">
+<!ENTITY focusSearch2.key              "k">
 
-<!ENTITY  filter.label                        "Szukaj:">
-<!ENTITY  filter.accesskey                    "S">
-<!ENTITY  clear.label                         "Wyczyść">
-<!ENTITY  clear.accesskey                     "W">
+<!ENTITY filter.label                  "Szukaj:">
+<!ENTITY filter.accesskey              "S">
+<!ENTITY clear.label                   "Wyczyść">
+<!ENTITY clear.accesskey               "W">
 
-<!ENTITY  button.close.label                  "Zamknij">
-<!ENTITY  button.close.accesskey              "k">
+<!ENTITY button.close.label            "Zamknij">
+<!ENTITY button.close.accesskey        "k">

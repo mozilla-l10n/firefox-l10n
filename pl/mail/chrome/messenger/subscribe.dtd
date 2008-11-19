@@ -38,21 +38,20 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY subscribeDialog.title "Menedżer subskrypcji">
-<!ENTITY subscribeButton.label "Subskrybuj">
-<!ENTITY subscribeButton.accesskey "S">
-<!ENTITY unsubscribeButton.label "Zrezygnuj z subskrypcji">
-<!ENTITY unsubscribeButton.accesskey "U">
-<!ENTITY newGroupsTab.label 			"Nowe grupy">
-<!ENTITY newGroupsTab.accesskey			 "N">
-<!ENTITY refreshButton.label "Odśwież">
-<!ENTITY refreshButton.accesskey "O">
-<!ENTITY stopButton.label "Zatrzymaj">
-<!ENTITY stopButton.accesskey "Z">
-<!ENTITY server.label "Konto:">
-<!ENTITY server.accesskey "K">
-<!ENTITY subscribedHeader.label "Subskrybuj">
-<!-- commenting out until bug 38906 is fixed 
-<!ENTITY messagesHeader.label "Wiadomości"> -->
-<!ENTITY namefield.label "Filtruj grupy:">
-<!ENTITY namefield.accesskey "F">
+<!ENTITY subscribeDialog.title       "Menedżer subskrypcji">
+<!ENTITY subscribeButton.label       "Subskrybuj">
+<!ENTITY subscribeButton.accesskey   "S">
+<!ENTITY unsubscribeButton.label     "Zrezygnuj z subskrypcji">
+<!ENTITY unsubscribeButton.accesskey "u">
+<!ENTITY newGroupsTab.label          "Nowe grupy">
+<!ENTITY newGroupsTab.accesskey      "N">
+<!ENTITY refreshButton.label         "Odśwież">
+<!ENTITY refreshButton.accesskey     "O">
+<!ENTITY stopButton.label            "Zatrzymaj">
+<!ENTITY stopButton.accesskey        "Z">
+<!ENTITY server.label                "Konto:">
+<!ENTITY server.accesskey            "K">
+<!ENTITY subscribedHeader.label      "Subskrybuj">
+<!-- commenting out until bug 38906 is fixed <!ENTITY messagesHeader.label "Wiadomości"> -->
+<!ENTITY namefield.label             "Filtruj grupy:">
+<!ENTITY namefield.accesskey         "F">

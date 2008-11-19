@@ -1,21 +1,21 @@
 <!-- for SearchDialog.xul -->
-<!ENTITY searchHeading.label "Wyszukaj wiadomości w folderze">
-<!ENTITY searchHeading.accesskey "S">
-<!ENTITY searchSubfolders.label "kontynuuj wyszukiwanie w podfolderach">
+<!ENTITY searchHeading.label        "Wyszukaj wiadomości w folderze">
+<!ENTITY searchHeading.accesskey    "s">
+<!ENTITY searchSubfolders.label     "kontynuuj wyszukiwanie w podfolderach">
 <!ENTITY searchSubfolders.accesskey "k">
-<!ENTITY resetButton.label "Wyczyść">
-<!ENTITY resetButton.accesskey "c">
-<!ENTITY openButton.label "Otwórz">
-<!ENTITY openButton.accesskey "O">
-<!ENTITY deleteButton.label "Usuń">
-<!ENTITY deleteButton.accesskey "U">
-<!ENTITY searchDialogTitle.label "Wyszukaj wiadomości">
-<!ENTITY results.label "Wyniki">
-<!ENTITY fileHereMenu.label "Przenieś tutaj">
-<!ENTITY fileHereMenu.accesskey "t">
-<!ENTITY fileButton.label "Przenieś">
-<!ENTITY fileButton.accesskey "P">
-<!ENTITY closeCmd.key         "W">
+<!ENTITY resetButton.label          "Wyczyść">
+<!ENTITY resetButton.accesskey      "c">
+<!ENTITY openButton.label           "Otwórz">
+<!ENTITY openButton.accesskey       "O">
+<!ENTITY deleteButton.label         "Usuń">
+<!ENTITY deleteButton.accesskey     "U">
+<!ENTITY searchDialogTitle.label    "Wyszukaj wiadomości">
+<!ENTITY results.label              "Wyniki">
+<!ENTITY fileHereMenu.label         "Przenieś tutaj">
+<!ENTITY fileHereMenu.accesskey     "t">
+<!ENTITY fileButton.label           "Przenieś">
+<!ENTITY fileButton.accesskey       "P">
+<!ENTITY closeCmd.key               "W">
 <!ENTITY goToFolderButton.label     "Otwórz folder wiadomości">
 <!ENTITY goToFolderButton.accesskey "f">
 <!ENTITY saveAsVFButton.label       "Zapisz jako folder wyszukiwania">
@@ -35,44 +35,44 @@
 <!-- FIXME(fromColumn): en-US: "From"
      From!=Sender, ale nie ma jak tego poprawic w pl [marcoos]
      zob. https://bugzilla.mozilla.org/show_bug.cgi?id=338753 -->
-<!ENTITY fromColumn.label "Nadawca">
-<!ENTITY recipientColumn.label "Adresat">
-<!ENTITY subjectColumn.label "Temat">
-<!ENTITY dateColumn.label "Data">
-<!ENTITY priorityColumn.label "Priorytet">
-<!ENTITY tagsColumn.label "Etykieta">
-<!ENTITY accountColumn.label "Konto">
-<!ENTITY statusColumn.label "Status">
-<!ENTITY sizeColumn.label "Rozmiar">
+<!ENTITY fromColumn.label       "Nadawca">
+<!ENTITY recipientColumn.label  "Adresat">
+<!ENTITY subjectColumn.label    "Temat">
+<!ENTITY dateColumn.label       "Data">
+<!ENTITY priorityColumn.label   "Priorytet">
+<!ENTITY tagsColumn.label       "Etykieta">
+<!ENTITY accountColumn.label    "Konto">
+<!ENTITY statusColumn.label     "Status">
+<!ENTITY sizeColumn.label       "Rozmiar">
 <!ENTITY junkStatusColumn.label "Status niechcianej poczty">
-<!ENTITY unreadColumn.label "Nieprzeczytane">
-<!ENTITY totalColumn.label "Razem">
-<!ENTITY readColumn.label "Przeczytano">
-<!ENTITY receivedColumn.label "Data otrzymania">
-<!ENTITY starredColumn.label "Oznaczone gwiazdką">
-<!ENTITY locationColumn.label "Adres">
-<!ENTITY idColumn.label "Kolejność otrzymania">
+<!ENTITY unreadColumn.label     "Nieprzeczytane">
+<!ENTITY totalColumn.label      "Razem">
+<!ENTITY readColumn.label       "Przeczytano">
+<!ENTITY receivedColumn.label   "Data otrzymania">
+<!ENTITY starredColumn.label    "Oznaczone gwiazdką">
+<!ENTITY locationColumn.label   "Adres">
+<!ENTITY idColumn.label         "Kolejność otrzymania">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Zaznacz, które kolumny zostaną wyświetlone">
-<!ENTITY threadColumn.tooltip "Kliknij, aby posortować według wątków">
+<!ENTITY columnChooser.tooltip    "Zaznacz, które kolumny zostaną wyświetlone">
+<!ENTITY threadColumn.tooltip     "Kliknij, aby posortować według wątków">
 <!-- FIXME(fromColumn): en-US: "From"
      From!=Sender, ale nie ma jak tego poprawic w pl [marcoos]
      zob. https://bugzilla.mozilla.org/show_bug.cgi?id=338753 -->
-<!ENTITY fromColumn.tooltip "Kliknij, aby posortować według nadawcy">
-<!ENTITY recipientColumn.tooltip "Kliknij, aby posortować według adresata">
-<!ENTITY subjectColumn.tooltip "Kliknij, aby posortować według tematu">
-<!ENTITY dateColumn.tooltip "Kliknij, aby posortować według daty">
-<!ENTITY priorityColumn.tooltip "Kliknij, aby posortować według priorytetu">
-<!ENTITY tagsColumn.tooltip "Kliknij, aby posortować według etykiet">
-<!ENTITY accountColumn.tooltip "Kliknij, aby posortować według konta">
-<!ENTITY statusColumn.tooltip "Kliknij, aby posortować według statusu">
-<!ENTITY sizeColumn.tooltip "Kliknij, aby posortować według rozmiaru">
+<!ENTITY fromColumn.tooltip       "Kliknij, aby posortować według nadawcy">
+<!ENTITY recipientColumn.tooltip  "Kliknij, aby posortować według adresata">
+<!ENTITY subjectColumn.tooltip    "Kliknij, aby posortować według tematu">
+<!ENTITY dateColumn.tooltip       "Kliknij, aby posortować według daty">
+<!ENTITY priorityColumn.tooltip   "Kliknij, aby posortować według priorytetu">
+<!ENTITY tagsColumn.tooltip       "Kliknij, aby posortować według etykiet">
+<!ENTITY accountColumn.tooltip    "Kliknij, aby posortować według konta">
+<!ENTITY statusColumn.tooltip     "Kliknij, aby posortować według statusu">
+<!ENTITY sizeColumn.tooltip       "Kliknij, aby posortować według rozmiaru">
 <!ENTITY junkStatusColumn.tooltip "Kliknij, aby posortować według statusu niechcianej poczty">
-<!ENTITY unreadColumn.tooltip "Liczba wszystkich nieprzeczytanych wiadomości w wątku">
-<!ENTITY totalColumn.tooltip "Liczba wszystkich wiadomości w wątku">
-<!ENTITY readColumn.tooltip "Kliknij, aby posortować według ilości przeczytanych wiadomości">
-<!ENTITY receivedColumn.tooltip "Kliknij, aby posortować według daty otrzymania">
-<!ENTITY starredColumn.tooltip "Kliknij, aby posortować według oznaczenia gwiazdką">
-<!ENTITY locationColumn.tooltip "Kliknij, aby posortować według adresu">
-<!ENTITY idColumn.tooltip "Kliknij, aby posortować według kolejności otrzymania">
+<!ENTITY unreadColumn.tooltip     "Liczba wszystkich nieprzeczytanych wiadomości w wątku">
+<!ENTITY totalColumn.tooltip      "Liczba wszystkich wiadomości w wątku">
+<!ENTITY readColumn.tooltip       "Kliknij, aby posortować według ilości przeczytanych wiadomości">
+<!ENTITY receivedColumn.tooltip   "Kliknij, aby posortować według daty otrzymania">
+<!ENTITY starredColumn.tooltip    "Kliknij, aby posortować według oznaczenia gwiazdką">
+<!ENTITY locationColumn.tooltip   "Kliknij, aby posortować według adresu">
+<!ENTITY idColumn.tooltip         "Kliknij, aby posortować według kolejności otrzymania">

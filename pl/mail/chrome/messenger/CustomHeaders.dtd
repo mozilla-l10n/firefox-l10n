@@ -1,7 +1,7 @@
-<!ENTITY window.title "Dostosuj nagłówki">
-<!ENTITY addButton.label "Dodaj">
-<!ENTITY addButton.accesskey "A">
-<!ENTITY removeButton.label "Usuń">
+<!ENTITY window.title           "Dostosuj nagłówki">
+<!ENTITY addButton.label        "Dodaj">
+<!ENTITY addButton.accesskey    "A">
+<!ENTITY removeButton.label     "Usuń">
 <!ENTITY removeButton.accesskey "U">
-<!ENTITY newMsgHeader.label "Nowy nagłówek wiadomości:">
+<!ENTITY newMsgHeader.label     "Nowy nagłówek wiadomości:">
 <!ENTITY newMsgHeader.accesskey "N">

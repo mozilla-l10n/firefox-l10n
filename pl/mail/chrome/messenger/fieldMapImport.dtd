@@ -22,8 +22,8 @@
  Contributor(s):
        Marek Wawoczny <gmbh@mozillapl.org> (Polish translation)
        Piotr Bartecki <pbartecki@mozillapl.org> (Polish translation)
-       Piotr Komoda <gorky@civ.pl> (Polish translation)   
-       Stefan Plewako <splewakko@aviary.pl> (Polish translation)   
+       Piotr Komoda <gorky@civ.pl> (Polish translation)
+       Stefan Plewako <splewakko@aviary.pl> (Polish translation)
 
  Alternatively, the contents of this file may be used under the terms of
  either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -39,19 +39,19 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY fieldMapImport.title "Importuj książkę adresową">
-<!ENTITY fieldMapImport.size "width: 48em; height: 34em;">
-<!ENTITY fieldMapImport.recordNumber "Dane importowanego rekordu numer:">
-<!ENTITY fieldMapImport.next.label 		"Następny">
-<!ENTITY fieldMapImport.next.accesskey 		"N">
-<!ENTITY fieldMapImport.previous.label 		"Poprzedni">
-<!ENTITY fieldMapImport.previous.accesskey 	"P">
-<!ENTITY fieldMapImport.text "Użyj przycisku Przenieś w górę oraz Przenieś w dół, aby pola po lewej stronie były zgodne z danymi po prawej stronie. Odznacz elementy, które nie chcesz importować.">
-<!ENTITY fieldMapImport.up.label 		"Przesuń w górę">
-<!ENTITY fieldMapImport.up.accesskey "g">
-<!ENTITY fieldMapImport.down.label 		"Przesuń w dół">
-<!ENTITY fieldMapImport.down.accesskey "d">
-<!ENTITY fieldMapImport.fieldListTitle "Pole książki adresowej">
-<!ENTITY fieldMapImport.dataTitle "Importowane dane rekordu">
-<!ENTITY fieldMapImport.skipFirstRecord.label 	"Pierwszy rekord zawiera nazwy pól">
+<!ENTITY fieldMapImport.title                     "Importuj książkę adresową">
+<!ENTITY fieldMapImport.size                      "width: 48em; height: 34em;">
+<!ENTITY fieldMapImport.recordNumber              "Dane importowanego rekordu numer:">
+<!ENTITY fieldMapImport.next.label                "Następny">
+<!ENTITY fieldMapImport.next.accesskey            "N">
+<!ENTITY fieldMapImport.previous.label            "Poprzedni">
+<!ENTITY fieldMapImport.previous.accesskey        "P">
+<!ENTITY fieldMapImport.text                      "Użyj przycisku Przenieś w górę oraz Przenieś w dół, aby pola po lewej stronie były zgodne z danymi po prawej stronie. Odznacz elementy, które nie chcesz importować.">
+<!ENTITY fieldMapImport.up.label                  "Przesuń w górę">
+<!ENTITY fieldMapImport.up.accesskey              "g">
+<!ENTITY fieldMapImport.down.label                "Przesuń w dół">
+<!ENTITY fieldMapImport.down.accesskey            "d">
+<!ENTITY fieldMapImport.fieldListTitle            "Pole książki adresowej">
+<!ENTITY fieldMapImport.dataTitle                 "Importowane dane rekordu">
+<!ENTITY fieldMapImport.skipFirstRecord.label     "Pierwszy rekord zawiera nazwy pól">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "r">

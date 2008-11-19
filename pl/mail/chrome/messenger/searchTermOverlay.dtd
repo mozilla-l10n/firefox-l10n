@@ -1,7 +1,7 @@
-<!ENTITY matchAll.label 			"spełniające wszystkie poniższe kryteria:">
-<!ENTITY matchAll.accesskey 			"a">
-<!ENTITY matchAny.label 			"spełniające dowolne poniższe kryteria:">
-<!ENTITY matchAny.accesskey 			"l">
+<!ENTITY matchAll.label         "spełniające wszystkie poniższe kryteria:">
+<!ENTITY matchAll.accesskey     "a">
+<!ENTITY matchAny.label         "spełniające dowolne poniższe kryteria:">
+<!ENTITY matchAny.accesskey     "l">
 <!ENTITY matchAllMsgs.label     "wszystkich wiadomości">
 <!ENTITY matchAllMsgs.accesskey "w">
 
@@ -10,7 +10,7 @@
   Change the values only when the localized strings in the popup menus
   are truncated in the widgets.
  -->
-<!ENTITY searchTermListAttributesFlexValue 	"5">
-<!ENTITY searchTermListOperatorsFlexValue 	"5">
-<!ENTITY searchTermListValueFlexValue 		"4">
-<!ENTITY searchTermListButtonsFlexValue 	"1">
+<!ENTITY searchTermListAttributesFlexValue "5">
+<!ENTITY searchTermListOperatorsFlexValue  "5">
+<!ENTITY searchTermListValueFlexValue      "4">
+<!ENTITY searchTermListButtonsFlexValue    "1">

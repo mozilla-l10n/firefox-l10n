@@ -28,16 +28,16 @@
 <!ENTITY useDownloadedList.accesskey       "e">
 
 <!-- Passwords -->
-<!ENTITY savedPasswords.intro         "&brandShortName; może zapamiętać hasła dla wszystkich kont użytkownika, dzięki czemu nie będzie konieczności wprowadzania ich przy każdym logowaniu.">
-<!ENTITY  encryptEnabled.label        "Używaj hasła głównego do szyfrowania przechowywanych haseł">
-<!ENTITY  encryptEnabled.accesskey    "o">
-<!ENTITY  masterPassword.intro        "Hasło główne, jeśli jest ustalone, chroni wszystkie hasła użytkownika - ale musi być ono wprowadzane jednorazowo dla każdej sesji.">
-<!ENTITY  setMasterPassword.label     "Hasło główne">
-<!ENTITY  setMasterPassword.accesskey "G">
-<!ENTITY removeMasterPassword.label   "Usuń hasło główne…">
-<!ENTITY  removeMasterPassword.accesskey "U">
-<!ENTITY  editPasswords.label         "Edytuj zapisane hasła">
-<!ENTITY  editPasswords.accesskey     "s">
+<!ENTITY savedPasswords.intro        "&brandShortName; może zapamiętać hasła dla wszystkich kont użytkownika, dzięki czemu nie będzie konieczności wprowadzania ich przy każdym logowaniu.">
+<!ENTITY encryptEnabled.label        "Używaj hasła głównego do szyfrowania przechowywanych haseł">
+<!ENTITY encryptEnabled.accesskey    "o">
+<!ENTITY masterPassword.intro        "Hasło główne, jeśli jest ustalone, chroni wszystkie hasła użytkownika - ale musi być ono wprowadzane jednorazowo dla każdej sesji.">
+<!ENTITY setMasterPassword.label     "Hasło główne">
+<!ENTITY setMasterPassword.accesskey "G">
+<!ENTITY removeMasterPassword.label  "Usuń hasło główne…">
+<!ENTITY removeMasterPassword.accesskey "U">
+<!ENTITY editPasswords.label         "Edytuj zapisane hasła">
+<!ENTITY editPasswords.accesskey     "s">
 
 <!-- Anti Virus -->
 <!ENTITY antiVirus.intro     "&brandShortName; może ułatwiać pracę programom antywirusowym poprzez umożliwienie im analizowania przychodzących wiadomości pocztowych, zanim zostaną one zapisane przez program.">

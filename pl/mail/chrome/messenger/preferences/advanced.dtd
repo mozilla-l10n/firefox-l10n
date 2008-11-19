@@ -15,8 +15,8 @@
 <!ENTITY markAsReadNoDelay.label       "natychmiast po wyświetleniu">
 <!ENTITY markAsReadNoDelay.accesskey   "t">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-	"After displaying for [___] seconds",
-	using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+       "After displaying for [___] seconds",
+       using (markAsReadDelay.label) and a number (secondsLabel.label). -->
 <!ENTITY markAsReadDelay.label         "po wyświetlaniu przez">
 <!ENTITY markAsReadDelay.accesskey     "y">
 <!ENTITY secondsLabel.label            "sekund">

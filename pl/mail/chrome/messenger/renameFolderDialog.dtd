@@ -38,7 +38,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-   
+
 <!ENTITY renameFolderDialog.title "Zmień nazwę folderu">
-<!ENTITY rename.label "Wprowadź nową nazwę dla folderu:">
-<!ENTITY rename.accesskey "e">
+<!ENTITY rename.label             "Wprowadź nową nazwę dla folderu:">
+<!ENTITY rename.accesskey         "e">

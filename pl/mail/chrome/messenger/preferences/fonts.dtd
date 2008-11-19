@@ -1,7 +1,7 @@
-<!ENTITY  fontsAndEncodingsDialog.title "Czcionki i zestawy znaków">
-<!ENTITY  window.width     "40em">
-<!ENTITY  window.macWidth  "47em">
-<!ENTITY  window.unixWidth "46em">
+<!ENTITY fontsAndEncodingsDialog.title "Czcionki i zestawy znaków">
+<!ENTITY window.width     "40em">
+<!ENTITY window.macWidth  "47em">
+<!ENTITY window.unixWidth "46em">
 
 <!ENTITY language.label     "Czcionki:">
 <!ENTITY language.accesskey "C">
@@ -38,15 +38,15 @@
 <!ENTITY font.langGroup.arabic          "Arabskie">
 <!ENTITY font.langGroup.devanagari      "Devanagari">
 <!ENTITY font.langGroup.tamil           "Tamilskie">
-<!ENTITY  font.langGroup.armenian       "Ormiańskie">
-<!ENTITY  font.langGroup.bengali        "Bengalskie">
-<!ENTITY  font.langGroup.canadian       "Ujednolicony sylabariusz kanadyjski">
-<!ENTITY  font.langGroup.ethiopic       "Etiopskie">
-<!ENTITY  font.langGroup.georgian       "Gruzińskie">
-<!ENTITY  font.langGroup.gujarati       "Gudżarati">
-<!ENTITY  font.langGroup.gurmukhi       "Gurmukhi">
-<!ENTITY  font.langGroup.khmer          "Kambodżańskie">
-<!ENTITY  font.langGroup.malayalam      "Malajalam">
+<!ENTITY font.langGroup.armenian        "Ormiańskie">
+<!ENTITY font.langGroup.bengali         "Bengalskie">
+<!ENTITY font.langGroup.canadian        "Ujednolicony sylabariusz kanadyjski">
+<!ENTITY font.langGroup.ethiopic        "Etiopskie">
+<!ENTITY font.langGroup.georgian        "Gruzińskie">
+<!ENTITY font.langGroup.gujarati        "Gudżarati">
+<!ENTITY font.langGroup.gurmukhi        "Gurmukhi">
+<!ENTITY font.langGroup.khmer           "Kambodżańskie">
+<!ENTITY font.langGroup.malayalam       "Malajalam">
 
 <!-- Minimum font size -->
 <!ENTITY minSize.label     "Minimalny rozmiar:">

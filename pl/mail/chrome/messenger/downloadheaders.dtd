@@ -22,7 +22,7 @@
  Contributor(s):
     Marek Wawoczny <gmbh@mozillapl.org> (Polish translation)
     Piotr Bartecki <pbartecki@mozillapl.org> (Polish translation)
-    Piotr Komoda <gorky@civ.pl> (Polish translation)  
+    Piotr Komoda <gorky@civ.pl> (Polish translation)
 
  Alternatively, the contents of this file may be used under the terms of
  either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -37,19 +37,18 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
- 
-<!ENTITY all.label "Pobierz nagłówki wszystkich wiadomości">
-<!ENTITY all.accesskey      "d">
-<!--LOCALIZATION NOTE (download.label):
-    consider the download.label and headers.label as a single sentence
-	 with the number of headers to be downloaded inserted between them:
-	 EXAMPLE: "Download" <some number> "headers"
-	 Either label could be set to null ("") if required grammatically.
--->
 
-<!ENTITY download.label "Pobierz nagłówki">
+<!ENTITY all.label     "Pobierz nagłówki wszystkich wiadomości">
+<!ENTITY all.accesskey "d">
+<!-- LOCALIZATION NOTE (download.label):
+     consider the download.label and headers.label as a single sentence
+     with the number of headers to be downloaded inserted between them:
+       EXAMPLE: "Download" <some number> "headers"
+     Either label could be set to null ("") if required grammatically. -->
+
+<!ENTITY download.label     "Pobierz nagłówki">
 <!ENTITY download.accesskey "o">
-<!ENTITY headers.label "wiadomości">
+<!ENTITY headers.label      "wiadomości">
 <!ENTITY headers.accesskey  "w">
-<!ENTITY mark.label "Oznacz pozostałe jako przeczytane">
+<!ENTITY mark.label         "Oznacz pozostałe jako przeczytane">
 <!ENTITY mark.accesskey     "z">

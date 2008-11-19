@@ -37,12 +37,12 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY contact.heading "Kontakt">
-<!ENTITY home.heading "Dom">
-<!ENTITY other.heading "Inne">
-<!ENTITY phone.heading "Telefon">
-<!ENTITY work.heading "Praca">
+<!ENTITY contact.heading     "Kontakt">
+<!ENTITY home.heading        "Dom">
+<!ENTITY other.heading       "Inne">
+<!ENTITY phone.heading       "Telefon">
+<!ENTITY work.heading        "Praca">
 <!ENTITY description.heading "Opis">
-<!ENTITY addresses.heading "Adresy">
-<!ENTITY mapItButton.label "Pokaż mapę">
-<!ENTITY mapIt.tooltip "Wyświetl mapę z sieci WWW dla tego adresu">
+<!ENTITY addresses.heading   "Adresy">
+<!ENTITY mapItButton.label   "Pokaż mapę">
+<!ENTITY mapIt.tooltip       "Wyświetl mapę z sieci WWW dla tego adresu">

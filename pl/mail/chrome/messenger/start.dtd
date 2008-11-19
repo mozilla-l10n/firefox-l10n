@@ -1,5 +1,5 @@
-<!ENTITY startpage.welcome "&brandFullName; - witamy!">
-<!ENTITY startpage.intro "&brandFullName; jest niezwykle wygodnym i intuicyjnym w obsłudze programem pocztowym o otwartym kodzie źródłowym. Pozwala w łatwy sposób wyszukiwać i filtrować wiadomości, rozpoznaje niechcianą pocztę, a także chroni użytkowników przed przesyłkami będącymi próbą oszustwa.">
+<!ENTITY startpage.welcome  "&brandFullName; - witamy!">
+<!ENTITY startpage.intro    "&brandFullName; jest niezwykle wygodnym i intuicyjnym w obsłudze programem pocztowym o otwartym kodzie źródłowym. Pozwala w łatwy sposób wyszukiwać i filtrować wiadomości, rozpoznaje niechcianą pocztę, a także chroni użytkowników przed przesyłkami będącymi próbą oszustwa.">
 
 <!ENTITY startpage.features "Główne cechy programu:">
 

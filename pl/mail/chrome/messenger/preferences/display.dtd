@@ -1,32 +1,32 @@
-<!ENTITY itemFormatting.label             "Formatowanie">
-<!ENTITY itemTags.label                   "Etykiety">
+<!ENTITY itemFormatting.label       "Formatowanie">
+<!ENTITY itemTags.label             "Etykiety">
 
-<!ENTITY style.label                      "Styl:">
-<!ENTITY style.accesskey                  "t">
-<!ENTITY regularStyle.label               "Normalny">
-<!ENTITY bold.label                       "Pogrubiony">
-<!ENTITY italic.label                     "Kursywa">
-<!ENTITY boldItalic.label                 "Pogrubiona kursywa">
-<!ENTITY size.label                       "Rozmiar:">
-<!ENTITY size.accesskey                   "R">
-<!ENTITY regularSize.label                "Normalny">
-<!ENTITY bigger.label                     "Większy">
-<!ENTITY smaller.label                    "Mniejszy">
-<!ENTITY color.label                      "Kolor:">
-<!ENTITY color.accesskey                  "K">
-<!ENTITY displayWidth.label               "Wiadomości tekstowe">
-<!ENTITY plainText.label                  "Używaj czcionki:">
-<!ENTITY displayText.label                "Ustawienia wyświetlania cytatów w wiadomościach tekstowych:">
-<!ENTITY fixedWidth.label                 "o stałej szerokości">
-<!ENTITY fixedWidth.accesskey             "s">
-<!ENTITY variableWidth.label              "o zmiennej szerokości">
-<!ENTITY variableWidth.accesskey          "z">
-<!ENTITY colors.label                     "Kolory">
-<!ENTITY overrideColors.label             "Podczas wyświetlania wiadomości używaj następujących kolorów:">
-<!ENTITY  textColor.label                 "Kolor tekstu:">
-<!ENTITY  textColor.accesskey             "o">
-<!ENTITY  backgroundColor.label           "Kolor tła:">
-<!ENTITY  backgroundColor.accesskey       "a">
+<!ENTITY style.label                "Styl:">
+<!ENTITY style.accesskey            "t">
+<!ENTITY regularStyle.label         "Normalny">
+<!ENTITY bold.label                 "Pogrubiony">
+<!ENTITY italic.label               "Kursywa">
+<!ENTITY boldItalic.label           "Pogrubiona kursywa">
+<!ENTITY size.label                 "Rozmiar:">
+<!ENTITY size.accesskey             "R">
+<!ENTITY regularSize.label          "Normalny">
+<!ENTITY bigger.label               "Większy">
+<!ENTITY smaller.label              "Mniejszy">
+<!ENTITY color.label                "Kolor:">
+<!ENTITY color.accesskey            "K">
+<!ENTITY displayWidth.label         "Wiadomości tekstowe">
+<!ENTITY plainText.label            "Używaj czcionki:">
+<!ENTITY displayText.label          "Ustawienia wyświetlania cytatów w wiadomościach tekstowych:">
+<!ENTITY fixedWidth.label           "o stałej szerokości">
+<!ENTITY fixedWidth.accesskey       "s">
+<!ENTITY variableWidth.label        "o zmiennej szerokości">
+<!ENTITY variableWidth.accesskey    "z">
+<!ENTITY colors.label               "Kolory">
+<!ENTITY overrideColors.label       "Podczas wyświetlania wiadomości używaj następujących kolorów:">
+<!ENTITY  textColor.label           "Kolor tekstu:">
+<!ENTITY  textColor.accesskey       "o">
+<!ENTITY  backgroundColor.label     "Kolor tła:">
+<!ENTITY  backgroundColor.accesskey "a">
 
 <!ENTITY convertEmoticons.label     "Wyświetlaj emotikony jako grafikę">
 <!ENTITY convertEmoticons.accesskey "W">

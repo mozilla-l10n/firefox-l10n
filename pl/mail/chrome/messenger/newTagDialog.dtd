@@ -19,8 +19,8 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributors:
-   -	Marek Stepien <marcoos@aviary.pl> (Polish localization)
-   -	Stefan Plewako <splewako@aviary.pl> (Polish localization)
+   -   Marek Stepien <marcoos@aviary.pl> (Polish localization)
+   -   Stefan Plewako <splewako@aviary.pl> (Polish localization)
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -37,6 +37,6 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- New Tag Dialog -->
-<!ENTITY newTagDialog.title 			"Nowa etykieta">
-<!ENTITY name.label 				"Nazwa:">
-<!ENTITY name.accesskey 			"N">
+<!ENTITY newTagDialog.title "Nowa etykieta">
+<!ENTITY name.label         "Nazwa:">
+<!ENTITY name.accesskey     "N">

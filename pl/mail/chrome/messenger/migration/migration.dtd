@@ -1,7 +1,7 @@
-<!ENTITY migrationWizard.title          "Importowanie ustawień i danych">
+<!ENTITY migrationWizard.title  "Importowanie ustawień i danych">
 
-<!ENTITY importFromWin.label 			"Importuje opcje, ustawienia kont, książki adresowe, filtry oraz inne dane z:">
-<!ENTITY importFromNonWin.label 		"Importuje opcje, ustawienia kont, książki adresowe, filtry oraz inne dane z:">
+<!ENTITY importFromWin.label    "Importuje opcje, ustawienia kont, książki adresowe, filtry oraz inne dane z:">
+<!ENTITY importFromNonWin.label "Importuje opcje, ustawienia kont, książki adresowe, filtry oraz inne dane z:">
 
 <!ENTITY importFromNothing.label        "Nie importuj niczego">
 <!ENTITY importFromNothing.accesskey    "r">
@@ -16,15 +16,15 @@
 <!ENTITY importFromEudora.label         "Eudora">
 <!ENTITY importFromEudora.accesskey     "E">
 
-<!ENTITY importSource.title 			"Importuj ustawienia i foldery pocztowe">
-<!ENTITY importItems.title              "Elementy do zaimportowania">
-<!ENTITY importItems.label              "Wybierz elementy do zaimportowania:">
+<!ENTITY importSource.title  "Importuj ustawienia i foldery pocztowe">
+<!ENTITY importItems.title   "Elementy do zaimportowania">
+<!ENTITY importItems.label   "Wybierz elementy do zaimportowania:">
 
-<!ENTITY migrating.title                "Importuję…">
-<!ENTITY migrating.label                "Następujące elementy są właśnie importowane…">
+<!ENTITY migrating.title     "Importuję…">
+<!ENTITY migrating.label     "Następujące elementy są właśnie importowane…">
 
-<!ENTITY selectProfile.title            "Wybierz profil">
-<!ENTITY selectProfile.label            "Następujące profile można zaimportować z:">
+<!ENTITY selectProfile.title "Wybierz profil">
+<!ENTITY selectProfile.label "Następujące profile można zaimportować z:">
 
-<!ENTITY done.title                     "Import zakończony">
-<!ENTITY done.label                     "Następujące elementy zostały pomyślnie zaimportowane:">
+<!ENTITY done.title "Import zakończony">
+<!ENTITY done.label "Następujące elementy zostały pomyślnie zaimportowane:">

@@ -57,9 +57,9 @@
 <!ENTITY emptyTrashOnExit.accesskey "w">
 <!ENTITY loginAtStartup.label       "Sprawdzaj podczas uruchamiania, czy są nowe wiadomości">
 <!ENTITY loginAtStartup.accesskey   "h">
-<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-	 of messages between them -->
+    of messages between them -->
 <!ENTITY maxMessagesStart.label     "Pytaj przy pobieraniu więcej niż">
 <!ENTITY maxMessagesStart.accesskey "w">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->

@@ -11,7 +11,7 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is  Mozilla Communicator client code, released
+   - The Original Code is Mozilla Communicator client code, released
    - March 31, 1998.
    -
    - The Initial Developer of the Original Code is
@@ -38,12 +38,12 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY newFolderDialog.title "Nowy folder">
-<!ENTITY name.label "Nazwa:">
-<!ENTITY name.accesskey "n">
-<!ENTITY description.label "Utwórz nowy folder w:">
-<!ENTITY description.accesskey "u">
+<!ENTITY newFolderDialog.title    "Nowy folder">
+<!ENTITY name.label               "Nazwa:">
+<!ENTITY name.accesskey           "n">
+<!ENTITY description.label        "Utwórz nowy folder w:">
+<!ENTITY description.accesskey    "u">
 <!ENTITY folderRestriction1.label "Ten serwer ogranicza foldery do dwóch specjalnych rodzajów.">
 <!ENTITY folderRestriction2.label "Nowy folder może zawierać:">
-<!ENTITY foldersOnly.label "Tylko foldery">
-<!ENTITY messagesOnly.label "Tylko wiadomości">
+<!ENTITY foldersOnly.label        "Tylko foldery">
+<!ENTITY messagesOnly.label       "Tylko wiadomości">
