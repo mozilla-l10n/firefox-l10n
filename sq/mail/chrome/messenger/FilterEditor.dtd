@@ -39,7 +39,7 @@
 <!ENTITY copyMessage.label "Kopjo Mesazhin te">
 <!ENTITY forwardTo.label "Përcillja Mesazhin">
 <!ENTITY replyWithTemplate.label "Përgjigju me Stampë">
-<!ENTITY markMessageRead.label "Shenjoje Si Të lexuar">
+<!ENTITY markMessageRead.label "Shënoje Si Të lexuar">
 <!ENTITY markMessageStarred.label "Shto Yllkë">
 <!ENTITY labelMessage.label "Etiketo Mesazhin Si">
 <!ENTITY setPriority.label "Vërja Përparësinë si">

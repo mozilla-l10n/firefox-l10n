@@ -1,6 +1,6 @@
-<!ENTITY serverAdvanced.label "Rregullime Të mëtejshëm Llogarie">
+<!ENTITY serverAdvanced.label "Rregullime Të mëtejshme Llogarie">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY imapAdvanced.label "Rregullime Të mëtejshmëm Shërbyesi IMAP">
+<!ENTITY imapAdvanced.label "Rregullime Të mëtejshme Shërbyesi IMAP">
 <!ENTITY serverDirectory.label "Drejtori shërbyesi IMAP:">
 <!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "Shfaq vetëm dosje pajtimesh">

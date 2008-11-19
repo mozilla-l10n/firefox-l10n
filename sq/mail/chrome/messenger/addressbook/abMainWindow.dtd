@@ -109,7 +109,7 @@
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "Mjete">
 <!ENTITY tasksMenu.accesskey                            "T">
-<!ENTITY messengerCmd.label                             "Postë &amp; &quot;Newsgroup&quot;-e">
+<!ENTITY messengerCmd.label                             "Postë &amp; Grupe Lajmesh">
 <!ENTITY messengerCmd.accesskey                         "m">
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "Kërko te Vendndodhjet...">

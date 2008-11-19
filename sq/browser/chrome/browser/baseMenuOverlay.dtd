@@ -35,7 +35,7 @@
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
 
-<!ENTITY hideOtherAppsCmdMac.label      "Fshih Të tjera">
+<!ENTITY hideOtherAppsCmdMac.label      "Fshihi Të tjerat">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 

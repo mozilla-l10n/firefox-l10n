@@ -64,7 +64,7 @@
 <!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.accesskey          "C">
 <!ENTITY certmgr.tab.orphan2                  "Të tjera">
-<!ENTITY certmgr.pending.label                "Jam duke vërtetuar dëshminë...">
+<!ENTITY certmgr.pending.label                "Po vërtetohet dëshmia...">
 <!ENTITY certmgr.typesofoverrides             "Përjashtime">
 <!ENTITY certmgr.export.label                 "Eksporto...">                      
 <!ENTITY certmgr.export.accesskey             "E">                              

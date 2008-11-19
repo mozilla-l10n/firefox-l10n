@@ -5,13 +5,13 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "Për të marrë mesazhe, lypset së pari të hapni një llogari Poste ose &quot;Newsgroup&quot;-i.">
+<!ENTITY accountSetupInfo.label "Për të marrë mesazhe, lypset së pari të hapni një llogari Poste ose Grupi Lajmesh.">
 <!ENTITY accountTypeTitle.label "Rregullime Llogarie të Re">
 <!ENTITY accountTypeDesc.label "Ky Krijues do të mbledhë të dhënat e nevojshme për rregullimin e një llogarie Poste ose Lajmesh. Nëse nuk i dini të dhënat e kërkuara, lutemi lidhuni me Përgjegjësin e Sistemit tuaj ose Mundësuesin e Shërbimit Internet (ISP).">
 <!ENTITY accountTypeDirections.label "Përzgjidhni llojin e llogarisë që doni të rregulloni:">
 <!ENTITY accountTypeMail.label "Llogari email">
 <!ENTITY accountTypeMail.accesskey "e">
-<!ENTITY accountTypeNews.label "Llogari &quot;Newsgroup&quot;-i">
+<!ENTITY accountTypeNews.label "Llogari Grupi Lajmesh">
 <!ENTITY accountTypeNews.accesskey "w">
 
 <!-- Entities for Identity page -->
@@ -53,7 +53,7 @@
 <!ENTITY smtpServerDesc.label "Jepni emrin e shërbyesit tuaj dërgues (SMTP) (për shembull, &quot;smtp.example.net&quot;).">
 <!ENTITY smtpServerLabel.label "Shërbyes Dërgues:">
 <!ENTITY smtpServerLabel.accesskey "D">
-<!ENTITY newsServerLabel.label "Shërbyes &quot;Newsgroup&quot;-i:">
+<!ENTITY newsServerLabel.label "Shërbyes Grupi Lajmesh:">
 <!ENTITY newsServerLabel.accesskey "N">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">

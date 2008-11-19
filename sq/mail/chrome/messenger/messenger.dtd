@@ -31,7 +31,7 @@
 <!ENTITY addons.accesskey "d">
 
 
-<!ENTITY messengerWindow.title "Postë &amp; &quot;Newsgroup&quot;-e">
+<!ENTITY messengerWindow.title "Postë &amp; Grupe Lajmesh">
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -115,7 +115,7 @@
 
 <!ENTITY folderPropsCmd.label "Veti...">
 <!ENTITY folderPropsFolderCmd.label "Veti Dosjeje...">
-<!ENTITY folderPropsNewsgroupCmd.label "Veti &quot;Newsgroup&quot;-i...">
+<!ENTITY folderPropsNewsgroupCmd.label "Veti Grupi Lajmesh...">
 <!ENTITY folderPropsCmd.accesskey "o">
 <!ENTITY accountManagerCmd.label "Rregullime Llogarish...">
 <!ENTITY accountManagerCmd.accesskey "c">
@@ -313,7 +313,7 @@
 <!ENTITY replyMsgCmd.key	"r">
 <!ENTITY replySenderCmd.label "Përgjigjju Vetëm Dërguesit">
 <!ENTITY replySenderCmd.accesskey "R">
-<!ENTITY replyNewsgroupCmd.label "Përgjigju te &quot;Newsgroup&quot;">
+<!ENTITY replyNewsgroupCmd.label "Përgjigju te Grupi i Lajmeve">
 <!ENTITY replyNewsgroupCmd.accesskey	"y">
 <!ENTITY replyToAllMsgCmd.label "Përgjigjju të Tërëve">
 <!ENTITY replyToAllMsgCmd.accesskey	"p">
@@ -358,7 +358,7 @@
 <!ENTITY tagCmd7.key "7">
 <!ENTITY tagCmd8.key "8">
 <!ENTITY tagCmd9.key "9">
-<!ENTITY markMenu.label "Shenjo">
+<!ENTITY markMenu.label "Shënoje">
 <!ENTITY markMenu.accesskey "k">
 <!ENTITY markAsReadCmd.label "Si Të lexuar">
 <!ENTITY markAsReadCmd.accesskey "R">
@@ -397,12 +397,7 @@
 <!ENTITY tasksMenu.label "Mjete">
 <!ENTITY tasksMenu.accesskey "T">
 
-
-
-
-
-
-<!ENTITY messengerCmd.label "Postë &amp; &quot;Newsgroup&quot;-e">
+<!ENTITY messengerCmd.label "Postë &amp; Grupe Lajmesh">
 <!ENTITY messengerCmd.accesskey "m">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Libër Vendndodhjesh">  
@@ -447,7 +442,7 @@
 <!ENTITY nextButton.label "Pasuesi">
 <!ENTITY previousButton.label "I mëparshmi">
 <!ENTITY deleteButton.label "Fshij">
-<!ENTITY markButton.label "Shenjo">
+<!ENTITY markButton.label "Shënoje">
 <!ENTITY printButton.label "Shtyp">
 <!ENTITY stopButton.label "Ndal">
 <!ENTITY throbberItem.title "Tregues Veprimtarie">
@@ -464,15 +459,15 @@
 <!ENTITY replyButton.tooltip "Përgjigjju mesazhit">
 <!ENTITY replyAllButton.tooltip "Përgjigjju dërguesit dhe tërë marrësve">
 <!ENTITY forwardButton.tooltip "Përcill mesazhet e përzgjedhur">
-<!ENTITY fileButton.tooltip "Kartelizo mesazhin e përzgjedhur">
+<!ENTITY fileButton.tooltip "Skedoje mesazhin e përzgjedhur">
 <!ENTITY nextButton.tooltip "Shko te mesazhi i palexuar pasues">
 <!ENTITY previousButton.tooltip "Kalo te mesazhi i mëparshëm i palexuar">
 <!ENTITY deleteButton.tooltip "Fshij mesazhe ose dosje të përzgjedhur">
-<!ENTITY markButton.tooltip "Shenjo mesazhe">
+<!ENTITY markButton.tooltip "Shëno mesazhet">
 <!ENTITY printButton.tooltip "Shtyp këtë mesazh">
 <!ENTITY stopButton.tooltip "Ndal shpërnguljen e çastit">
-<!ENTITY junkButton.tooltip "Shenjo si hedhurinë mesazhet e përzgjedhur">
-<!ENTITY notJunkButton.tooltip "Shenjo si jo hedhurinë mesazhet e përzgjedhur">
+<!ENTITY junkButton.tooltip "Mesazhet e përzgjedhur shënoji si hedhurinë">
+<!ENTITY notJunkButton.tooltip "Mesazhet e përzgjedhur shënoji si jo  hedhurinë">
 <!ENTITY addressBookButton.tooltip "Shko te libri i vendndodhjeve">
 
 <!-- Folder Pane -->
@@ -497,9 +492,9 @@
 <!ENTITY folderContextSendUnsentMessages.accesskey "d">
 <!ENTITY folderContextUnsubscribe.label "Çpajtohuni">
 <!ENTITY folderContextUnsubscribe.accesskey "U">
-<!ENTITY folderContextMarkNewsgroupRead.label "Shenjo &quot;Newsgroup&quot;-in si Të lexuar">
+<!ENTITY folderContextMarkNewsgroupRead.label "Shënoje Grupin e Lajmeve si Të lexuar">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "k">
-<!ENTITY folderContextMarkMailFolderRead.label "Shenjo Dosjen Si Të lexuar">
+<!ENTITY folderContextMarkMailFolderRead.label "Shënoje Dosjen Si Të lexuar">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "k">
 <!ENTITY folderContextSubscribe.label "Pajtohuni...">
 <!ENTITY folderContextSubscribe.accesskey "b">
@@ -573,7 +568,7 @@
 <!ENTITY contextEditAsNew.accesskey "E">
 <!ENTITY contextReplySender.label "Përgjigjju Vetëm Dërguesit">
 <!ENTITY contextReplySender.accesskey "R">
-<!ENTITY contextReplyNewsgroup.label "Përgjigju te &quot;Newsgroup&quot;-i">
+<!ENTITY contextReplyNewsgroup.label "Përgjigju te Grupi i Lajmeve">
 <!ENTITY contextReplyNewsgroup.accesskey "y">
 <!ENTITY contextReplyAll.label "Përgjigje për Të tërë">
 <!ENTITY contextReplyAll.accesskey "A">
@@ -679,7 +674,7 @@
 <!ENTITY goForwardButton.tooltip "Hidhu një mesazh përpara">
 <!ENTITY goBackButton.tooltip "Hidhu njq mesazh prapa">
 
-<!ENTITY tagButton.tooltip "Shenjo mesazhe">
+<!ENTITY tagButton.tooltip "Shëno mesazhe">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Shenjë e Re...">

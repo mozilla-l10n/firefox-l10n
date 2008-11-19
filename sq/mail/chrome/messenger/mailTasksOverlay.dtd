@@ -1,13 +1,13 @@
 <!-- LOCALIZATION NOTE (messengerCmd.label): DONT_TRANSLATE -->
 
-<!ENTITY messengerCmd.label					"Mail &amp; Newsgroups">
+<!ENTITY messengerCmd.label					"Postë &amp; Grupe Lajmesh">
 <!ENTITY messengerCmd.accesskey				"m">
 <!ENTITY messengerCmd.commandkey			"1">
 <!ENTITY addressBookCmd.label				"Libër Vendndodhjesh">  
 <!ENTITY addressBookCmd.accesskey			"a">
 <!ENTITY addressBookCmd.commandkey			"2">
 
-<!ENTITY taskMessenger.tooltip  "Postë &amp; &quot;Newsgroup&quot;-e">
+<!ENTITY taskMessenger.tooltip  "Postë &amp; Grupe Lajmesh">
 <!ENTITY taskAddressBook.tooltip  "Libër Vendndodhjesh">
 
 <!-- searchAddressesCmd is also used by addressbook -->
