@@ -1,6 +1,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Um Speicherplatz zu sparen, nicht herunterladen:">
 <!ENTITY doNotDownload.label "Um Speicherplatz zu sparen, nicht zum Offline-Lesen herunterladen:">
-<!ENTITY allFoldersOffline.label "Nachrichten für dieses Konto auf diesem Rechner behalten">
+<!ENTITY allFoldersOffline.label "Nachrichten dieses Kontos auf diesem Computer bereithalten">
 <!ENTITY allFoldersOffline.accesskey "d">
 <!ENTITY offlineNotDownload.label "Nachrichten, die größer sind als">
 <!ENTITY offlineNotDownload.accesskey "g">
@@ -11,14 +11,14 @@
 <!ENTITY nntpNotDownloadRead.accesskey "l">
 <!ENTITY nntpDownloadMsg.label "Nachrichten, die älter sind als">
 <!ENTITY nntpDownloadMsg.accesskey "e">
-<!ENTITY retentionCleanup.label "Um Speicherplatz zu sparen, können gelöscht werden:">
+<!ENTITY retentionCleanup.label "Alte Nachrichten endgültig löschen, um Speicherplatz freizugeben:">
 <!ENTITY retentionKeepMsg.label "Nachrichten, die älter sind als">
 <!ENTITY retentionKeepMsg.accesskey "N">
 <!ENTITY retentionKeepAll.label "Keine Nachrichten">
 <!ENTITY retentionKeepAll.accesskey "K">
 <!ENTITY retentionKeepNew.label "Alle außer den neuesten">
 <!ENTITY retentionKeepNew.accesskey "a">
-<!ENTITY retentionKeepUnread.label "Alle gelesenen Nachrichten">
+<!ENTITY retentionKeepUnread.label "Gelesene Nachrichten immer löschen">
 <!ENTITY retentionKeepUnread.accesskey "g">
 <!ENTITY nntpRemoveBody.label "Behalte nur Nachrichtentexte, die neuer sind als">
 <!ENTITY nntpRemoveBody.accesskey "N">
