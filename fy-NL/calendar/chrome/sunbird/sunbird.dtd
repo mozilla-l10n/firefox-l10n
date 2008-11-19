@@ -50,10 +50,10 @@
 <!ENTITY sunbird.remotereload.button.label                 "Op 'e nij lade" >
 
 <!ENTITY sunbird.flat.topbar.choosedate                    "Gean nei datum" >
-<!ENTITY sunbird.flat.topbar.dayview                       "Deibyld" >
-<!ENTITY sunbird.flat.topbar.weekview                      "Wikebyld" >
-<!ENTITY sunbird.flat.topbar.monthview                     "Moannebyld" >
-<!ENTITY sunbird.flat.topbar.multiweekview                 "Multiwikebyld" >
+<!ENTITY sunbird.flat.topbar.dayview                       "Dei" >
+<!ENTITY sunbird.flat.topbar.weekview                      "Wike" >
+<!ENTITY sunbird.flat.topbar.monthview                     "Moanne" >
+<!ENTITY sunbird.flat.topbar.multiweekview                 "Mear wiken" >
 
 <!ENTITY sunbird.dayview.accesskey                         "D" >
 <!ENTITY sunbird.weekview.accesskey                        "W" >
