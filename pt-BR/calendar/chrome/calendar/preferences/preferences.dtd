@@ -11,14 +11,19 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is mozilla.org code.
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
    -
    - The Initial Developer of the Original Code is
-   - the Mozilla Organization.
-   - Portions created by the Initial Developer are Copyright (C) 1998-2002
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
+   -   Mike Potter <mikep@oeone.com>
+   -   ArentJan Banck <ajbanck@planet.nl>
+   -   Eric Belhaire <belhaire@ief.u-psud.fr>
+   -   Matthew Willis <mattwillis@gmail.com>
+   -   Emerson Prado <emerson.prado.eng@gmail.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,6 +39,15 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY calendarCmd.label  "Calend&#xE1;rio">
-<!ENTITY calendarCmd.accesskey  "r">
-<!ENTITY calendarCmd.commandkey "8">
+<!ENTITY  prefWindow.titleWin     "Opções">
+<!ENTITY  prefWindow.titleGNOME   "Preferências do &brandShortName;">
+<!ENTITY  prefWindow.styleWin     "width: 47em; height: 37em;">
+<!ENTITY  prefWindow.styleMac     "width: 47em;">
+<!ENTITY  prefWindow.styleGNOME   "width: 47em; height: 34.5em;">
+
+<!ENTITY  paneGeneral.title       "Geral">
+<!ENTITY  paneAlarms.title        "Alarmes">
+<!ENTITY  paneCategories.title    "Categorias">
+<!ENTITY  paneViews.title         "Exibições">
+<!ENTITY  paneTimezones.title     "Fuso horário">
+<!ENTITY  paneAdvanced.title      "Avançado">
