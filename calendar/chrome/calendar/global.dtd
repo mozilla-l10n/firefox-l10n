@@ -19,7 +19,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s): Garth Smedley <garths@oeone.com>
-   -                 Erico Mendonca <erico@techisa.srv.br>
+   -   Emerson Prado <emerson.prado.eng@gmail.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,78 +35,59 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY time.midnight "Meia-Noite" >
-<!ENTITY time.1 "01:00" >
-<!ENTITY time.2 "02:00" >
-<!ENTITY time.3 "03:00" >
-<!ENTITY time.4 "04:00" >
-<!ENTITY time.5 "05:00" >
-<!ENTITY time.6 "06:00" >
-<!ENTITY time.7 "07:00" >
-<!ENTITY time.8 "08:00" >
-<!ENTITY time.9 "09:00" >
-<!ENTITY time.10 "10:00" >
-<!ENTITY time.11 "11:00" >
-<!ENTITY time.noon "Meio-Dia" >
-<!ENTITY time.13 "13:00" >
-<!ENTITY time.14 "14:00" >
-<!ENTITY time.15 "15:00" >
-<!ENTITY time.16 "16:00" >
-<!ENTITY time.17 "17:00" >
-<!ENTITY time.18 "18:00" >
-<!ENTITY time.19 "19:00" >
-<!ENTITY time.20 "20:00" >
-<!ENTITY time.21 "21:00" >
-<!ENTITY time.22 "22:00" >
-<!ENTITY time.23 "23:00" >
+<!ENTITY time.midnight "Meia-noite" >
+<!ENTITY time.noon "Meio-dia" >
 
-<!-- Month Names -->
+<!-- Day Names -->
+<!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
+     only used in Preferences > Views > Workweek groupbox -->
 <!ENTITY day.1.Ddd "Dom" >
+<!ENTITY day.1.Ddd.accesskey "D">
 <!ENTITY day.2.Ddd "Seg" >
+<!ENTITY day.2.Ddd.accesskey "S">
 <!ENTITY day.3.Ddd "Ter" >
+<!ENTITY day.3.Ddd.accesskey "T">
 <!ENTITY day.4.Ddd "Qua" >
+<!ENTITY day.4.Ddd.accesskey "Q">
 <!ENTITY day.5.Ddd "Qui" >
+<!ENTITY day.5.Ddd.accesskey "u">
 <!ENTITY day.6.Ddd "Sex" >
-<!ENTITY day.7.Ddd "S&#xE1;b" >
-
-<!ENTITY day.1.DDD "DOM" >
-<!ENTITY day.2.DDD "SEG" >
-<!ENTITY day.3.DDD "TER" >
-<!ENTITY day.4.DDD "QUA" >
-<!ENTITY day.5.DDD "QUI" >
-<!ENTITY day.6.DDD "SEX" >
-<!ENTITY day.7.DDD "SAB" >
+<!ENTITY day.6.Ddd.accesskey "e">
+<!ENTITY day.7.Ddd "Sáb" >
+<!ENTITY day.7.Ddd.accesskey "b">
 
 <!ENTITY day.1.name "Domingo" >
 <!ENTITY day.2.name "Segunda" >
-<!ENTITY day.3.name "Ter&#xE7;a" >
+<!ENTITY day.3.name "Terça" >
 <!ENTITY day.4.name "Quarta" >
 <!ENTITY day.5.name "Quinta" >
 <!ENTITY day.6.name "Sexta" >
-<!ENTITY day.7.name "S&#xE1;bado" >
+<!ENTITY day.7.name "Sábado" >
 
-<!ENTITY time.am "" >
-<!ENTITY time.pm "" >
+<!-- Units -->
+<!ENTITY calendar.global.units.minute   "minuto">
+<!ENTITY calendar.global.units.minutes  "minutos">
+<!ENTITY calendar.global.units.hour     "hora">
+<!ENTITY calendar.global.units.hours    "horas">
+<!ENTITY calendar.global.units.day      "dia">
+<!ENTITY calendar.global.units.days     "dias">
 
-<!ENTITY month.1.MMM "JAN" >
-<!ENTITY month.2.MMM "FEV" >
-<!ENTITY month.3.MMM "MAR" >
-<!ENTITY month.4.MMM "ABR" >
-<!ENTITY month.5.MMM "MAI" >
-<!ENTITY month.6.MMM "JUN" >
-<!ENTITY month.7.MMM "JUL" >
-<!ENTITY month.8.MMM "AGO" >
-<!ENTITY month.9.MMM "SET" >
-<!ENTITY month.10.MMM "OUT" >
-<!ENTITY month.11.MMM "NOV" >
-<!ENTITY month.12.MMM "DEZ" >
+<!ENTITY month.1.name "Janeiro" >
+<!ENTITY month.2.name "Fevereiro" >
+<!ENTITY month.3.name "Março" >
+<!ENTITY month.4.name "Abril" >
+<!ENTITY month.5.name "Maio" >
+<!ENTITY month.6.name "Junho" >
+<!ENTITY month.7.name "Julho" >
+<!ENTITY month.8.name "Agosto" >
+<!ENTITY month.9.name "Setembro" >
+<!ENTITY month.10.name "Outubro" >
+<!ENTITY month.11.name "Novembro" >
+<!ENTITY month.12.name "Dezembro" >
 
-<!ENTITY time.AM "" >
-<!ENTITY time.PM "" >
-
-<!ENTITY more.label "MAIS" >
-<!ENTITY less.label "MENOS" >
-
-<!ENTITY add.label     "Adicionar">
-<!ENTITY edit.label    "Editar">
-<!ENTITY remove.label  "Remover">
+<!ENTITY onemonthbackward.tooltip "Mês anterior" >
+<!ENTITY onemonthforward.tooltip "Mês seguinte" >
+<!ENTITY showToday.tooltip "Ir para hoje">
+<!ENTITY onedayforward.tooltip "Dia anterior">
+<!ENTITY onedaybackward.tooltip "Dia seguinte">
+<!ENTITY showselectedday.tooltip "Exibir eventos do dia selecionado">

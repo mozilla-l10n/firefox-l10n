@@ -11,15 +11,15 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is mozilla.org code.
+   - The Original Code is Calendar migration code.
    -
    - The Initial Developer of the Original Code is
-   - the Mozilla Organization.
-   - Portions created by the Initial Developer are Copyright (C) 1998-2002
+   -   Joey Minta <jminta@gmail.com>
+   - Portions created by the Initial Developer are Copyright (C) 2006
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -                 Erico Mendonca <erico@techisa.srv.br>
+   -   Emerson Prado <emerson.prado.eng@gmail.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,23 +35,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- Select addresses for mail message dialog -->
-<!ENTITY ab-selectAddressesDialog.title "Sele&#xE7;&#xE3;o de Endere&#xE7;os">
-<!ENTITY ab-selectAddressesDialogHeader.label "Selecionar Endere&#xE7;os">
-<!ENTITY ab-selectAddressesDialogLookIn.label "Procurar em: ">
-<!ENTITY ab-selectAddressesDialogNameColumn.label "Nome">
-<!ENTITY ab-selectAddressesDialogEmailColumn.label "Endere&#xE7;o de Email">
-<!ENTITY ab-selectAddressesDialogFor.label "para: ">
-<!ENTITY ab-selectAddressesDialogClearButton.label "Limpar">
-<!ENTITY ab-selectAddressesDialogToButton.label "Para ">
-<!ENTITY ab-selectAddressesDialogCcButton.label "Cc ">
-<!ENTITY ab-selectAddressesDialogBccButton.label "Bcc ">
-<!ENTITY ab-selectAddressesDialogRemoveButton.label "Remover">
-<!ENTITY ab-selectAddressesDialogAddressTo.label "Endere&#xE7;ar Mensagem a:">
-<!ENTITY ab-selectAddressesDialogPrefixTo.label "Para: ">
-<!ENTITY ab-selectAddressesDialogPrefixCc.label "CC: ">
-<!ENTITY ab-selectAddressesDialogPrefixBcc.label "Bcc: ">
-<!ENTITY ab-selectAddressesDialogNoEmailMessage.label "Nenhum endere&#xE7;o de email">
-<!ENTITY ab-selectAddressesDialogInvite.label "Convidar">
-<!ENTITY ab-selectAddressesDialogUninvite.label "Remover">
-<!ENTITY ab-selectAddressesDialogInviteList.label "Lista de Convidados:">
+<!ENTITY migration.title "&brandFullName;: Importação de dados">
+<!ENTITY migration.welcome "Bem-vindo">
+<!ENTITY migration.importing "Importando">
+<!ENTITY migration.list.description "O &brandShortName; pode importar dados de calendário de vários programas populares. Dados dos seguintes programas foram encontrados no seu computador. Favor selecionar de qual você gostaria de importar dados.">
+<!ENTITY migration.progress.description "Importando dados selecionados">
