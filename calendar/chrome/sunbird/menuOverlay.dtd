@@ -121,11 +121,11 @@
 <!ENTITY goMenu.label                                      "Gean">
 <!ENTITY goMenu.accesskey                                  "G">
 
-<!ENTITY goDateCmd.label                                   "Date…">
+<!ENTITY goDateCmd.label                                   "Datum…">
 <!ENTITY goDateCmd.accesskey                               "D">
 
-<!ENTITY toolsMenu.label                                   "Opsjes">
-<!ENTITY toolsMenu.accesskey                               "O">
+<!ENTITY toolsMenu.label                                   "Ekstra">
+<!ENTITY toolsMenu.accesskey                               "E">
 
 <!ENTITY errorConsoleCmd.label                             "Flaterkonsole">
 <!ENTITY errorConsoleCmd.accesskey                         "F">
@@ -141,7 +141,7 @@
 <!ENTITY fileMenu.accesskey                                "B">
 
 <!ENTITY editMenu.label                                    "Bewurkje">
-<!ENTITY editMenu.accesskey                                "B">
+<!ENTITY editMenu.accesskey                                "w">
 
 <!ENTITY optionsCmd.label                                  "Opsjes…">
 <!ENTITY optionsCmd.accesskey                              "O">
