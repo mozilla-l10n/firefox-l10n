@@ -1,42 +1,41 @@
+<!ENTITY fromColumn.label "Nga">
+<!ENTITY fromColumn.tooltip "Klikoni për t&apos;i renditur sipas nga">
+<!ENTITY receivedColumn.label "Marrë më">
+<!ENTITY receivedColumn.tooltip "Klikoni për t&apos;i renditur sipas datës së marrjes">
 <!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "Kërko për mesazhe në:">
-<!ENTITY searchHeading.accesskey     "h">
+<!ENTITY searchHeading.accesskey     "K">
 <!ENTITY searchSubfolders.label      "Kërko në nëndosje">
-<!ENTITY searchSubfolders.accesskey  "e">
-<!ENTITY resetButton.label           "Pastro">
-<!ENTITY resetButton.accesskey       "C">
-<!ENTITY optionsButton.label         "Mundësi">
-<!ENTITY closeButton.label           "Mbyll">
-<!ENTITY openButton.label            "Hap">
-<!ENTITY openButton.accesskey        "n">
-<!ENTITY deleteButton.label          "Fshi">
-<!ENTITY deleteButton.accesskey      "D">
+<!ENTITY searchSubfolders.accesskey  "n">
+<!ENTITY resetButton.label           "Pastroje">
+<!ENTITY resetButton.accesskey       "P">
+<!ENTITY openButton.label            "Hape">
+<!ENTITY openButton.accesskey        "H">
+<!ENTITY deleteButton.label          "Fshije">
+<!ENTITY deleteButton.accesskey      "F">
 <!ENTITY searchDialogTitle.label     "Kërko në Mesazhe">
-<!ENTITY conditionDesc.label         "Kërko për mesazhe në të cilët gjendet:">
-<!ENTITY conditions.label            "Kriter">
 <!ENTITY results.label               "Përfundime">
 <!ENTITY fileHereMenu.label          "Kartelë Këtu">
-<!ENTITY fileHereMenu.accesskey      "F">
+<!ENTITY fileHereMenu.accesskey      "K">
 <!ENTITY fileButton.label            "Kartelë">
-<!ENTITY fileButton.accesskey        "i">
+<!ENTITY fileButton.accesskey        "K">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY goToFolderButton.label      "Hap Dosje Mesazhesh">
-<!ENTITY goToFolderButton.accesskey  "r">
+<!ENTITY goToFolderButton.accesskey  "D">
 <!ENTITY saveAsVFButton.label        "Ruaje si Dosje Kërkimi">
-<!ENTITY saveAsVFButton.accesskey    "v">
+<!ENTITY saveAsVFButton.accesskey    "R">
 
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "Kërko në:">
-<!ENTITY abSearchHeading.accesskey   "h">
+<!ENTITY abSearchHeading.accesskey   "k">
 <!ENTITY propertiesButton.label      "Veti">
-<!ENTITY propertiesButton.accesskey  "P">
+<!ENTITY propertiesButton.accesskey  "V">
 <!ENTITY composeButton.label         "Shkruaj">
-<!ENTITY composeButton.accesskey     "W">
+<!ENTITY composeButton.accesskey     "S">
 <!ENTITY abSearchDialogTitle.label   "Kërkim i Mëtejshëm në Libër Vendndodhjesh">
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Rrjedhë">
-<!ENTITY senderColumn.label "Dërgues">
 <!ENTITY recipientColumn.label "Marrrës">
 <!ENTITY subjectColumn.label "Subjekt">
 <!ENTITY dateColumn.label "Datë">
@@ -46,7 +45,6 @@
 <!ENTITY statusColumn.label "Gjendje">
 <!ENTITY sizeColumn.label "Madhësi">
 <!ENTITY junkStatusColumn.label "Gjendje Hedhurinë">
-<!ENTITY linesColumn.label "Rreshta">
 <!ENTITY unreadColumn.label "Të palexuar">
 <!ENTITY totalColumn.label "Gjithsej">
 <!ENTITY readColumn.label "Lexuar">
@@ -56,7 +54,6 @@
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Klikoni për të përzgjedhur shtylla për t&apos;u shfaqur">
 <!ENTITY threadColumn.tooltip "Klikoni për të shfaqur rrjedha mesazhesh"> 
-<!ENTITY senderColumn.tooltip "Klikoni për t&apos;i renditur sipas dërguesish">
 <!ENTITY recipientColumn.tooltip "Klikoni për t&apos;i renditur sipas marrësish">
 <!ENTITY subjectColumn.tooltip "Klikoni për t&apos;i renditur sipas subjektesh">
 <!ENTITY dateColumn.tooltip "Klikoni për t&apos;i renditur sipas datash">
@@ -69,17 +66,9 @@
 <!ENTITY unreadColumn.tooltip "Numër mesazhesh të palexuar në rrjedhë">
 <!ENTITY totalColumn.tooltip "Numër gjithsej mesazhesh në rrjedhë">
 <!ENTITY readColumn.tooltip "Klikoni për t&apos;i renditur sipas të lexuarve">
-<!ENTITY flagColumn.tooltip "Klikoni për t&apos;i renditur sipas flamurkash">
 <!ENTITY locationColumn.tooltip "Klikoni për t&apos;i renditur sipas vendesh">
 <!ENTITY idColumn.tooltip "Klikoni për t&apos;i renditur sipas rendit të mbërritjes">
 
 <!ENTITY tagsColumn.label "Shenja">
 <!ENTITY starredColumn.label "Me yllkë">
 <!ENTITY starredColumn.tooltip "Klikoni për t&apos;i renditur sipas yllkash">
-
-
-
-
-
-
-

@@ -47,7 +47,6 @@
 <!ENTITY bulletList.value "Listë me Shenja (E panumërtuar)">
 <!ENTITY numberList.value "Listë me Numra">
 <!ENTITY definitionList.value "Listë Përkufizimesh">
-<!ENTITY changeListMsg.label "Kur ndryshohet lloj liste:">
 <!ENTITY changeEntireListRadio.label "Ndrysho tërë listën">
 <!ENTITY changeEntireListRadio.accessKey "C">
 <!ENTITY changeSelectedRadio.label "Ndrysho vetëm pjesët e përzgjedhura">

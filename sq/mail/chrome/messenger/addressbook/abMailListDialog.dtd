@@ -46,7 +46,6 @@
 <!ENTITY ListDescription.label          "Përshkrim: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Shtypni vendndodhje email për t&apos;i shtuar te lista e postimeve:">
-<!ENTITY RemoveButton.label             "Hiq">
 <!ENTITY UpButton.label                 "Ngjitu">
 <!ENTITY DownButton.label               "Zbrit">
 

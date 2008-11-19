@@ -37,7 +37,6 @@
 
 <!ENTITY Window.title        "Përmbajtje">
 <!ENTITY buildToc.label      "Ndërto tabelë përmbajtjeje prej:">
-<!ENTITY style.label         "Stil:">
 <!ENTITY tag.label           "Shenjë:">
 <!ENTITY class.label         "Klasë:">
 <!ENTITY header1.label       "Niveli 1">

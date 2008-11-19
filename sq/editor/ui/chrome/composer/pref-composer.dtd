@@ -4,24 +4,14 @@
 
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
 <!ENTITY  pref.composer.title           "Composer">
-
-<!ENTITY  saving                        "Po ruhet">
-<!ENTITY  AutoSaveCheck                 "Ruaj vetvetiu çdo">
-<!ENTITY  minText                       "minuta">
-
-<!ENTITY  exterLegend.label             "Pëprunuesa të Jashtëm">
-<!ENTITY  htmlSource                    "Burim HTML:">
-<!ENTITY  imageeditor                   "Pamje:">
-<!ENTITY  chooseButton.label            "Zgjidhni">
-
 <!ENTITY  recentFiles.title             "Menu Faqesh së Fundmi">
 <!ENTITY  documentsInMenu.label         "Numri më i madh i faqeve të listuara:">
 <!ENTITY  documentsInMenu.accesskey     "n">
 
-<!ENTITY  savingFiles.title             "Kur Ruhen apo Botohon Faqe">
+<!ENTITY  savingFiles.title             "Kur Ruhen apo Botohen Faqe">
 <!ENTITY  preserveExisting.label        "Ruaj formatimin origjinal të burimit">
 <!ENTITY  preserveExisting.accesskey    "P">
-<!ENTITY  preserveExisting.tooltip      "Ruan ndërprerje rreshtash formatim origjinal të faqes">
+<!ENTITY  preserveExisting.tooltip      "Ruaj ndërprerje rreshtash formatim origjinal të faqes">
 <!ENTITY  saveAssociatedFiles.label     "Ruaj pamje dhe kartela të tjera të shoqëruara kur ruhen faqe">
 <!ENTITY  saveAssociatedFiles.accesskey "S">
 <!ENTITY  showPublishDialog.label       "Trego përherë dialog Botimi kur botohen faqe">
@@ -35,6 +25,3 @@
 <!ENTITY  useCSS.accesskey              "U">
 <!ENTITY  crInPCreatesNewP.label        "Kthimi në një paragraf krijon përherë paragraf të ri">
 <!ENTITY  crInPCreatesNewP.accesskey    "R">
-
-<!ENTITY  spellCheckInline.label        "Kontroll drejtshkrimin ndërkohë që shtypni">
-> <!ENTITY  spellCheckInline.accesskey    "C">

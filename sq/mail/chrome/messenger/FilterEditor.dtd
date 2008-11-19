@@ -1,54 +1,39 @@
 <!ENTITY window.title "Rregulla Filtrash">
-<!ENTITY subject.label "subjekt">
-<!ENTITY sender.label "dërgues">
-<!ENTITY date.label "datë">
-<!ENTITY anyText.label "çfarëdo tekst">
-<!ENTITY keyword.label "fjalëkyç">
-<!ENTITY age.label "kohë në ditë">
-<!ENTITY to.label "te">
 
-<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
-<!ENTITY cc.label "Cc">
-
-<!ENTITY status.label "gjendje">
-<!ENTITY priority.label "përparësi">
-<!ENTITY body.label "përmbajtje">
-<!ENTITY contains.label "Përmban">
-<!ENTITY nocontains.label "nuk përmban">
 <!ENTITY filterName.label "Emër filtri:">
-<!ENTITY filterName.accesskey "i">
+<!ENTITY filterName.accesskey "e">
 
 <!ENTITY junk.label "Hedhurinë">
 <!ENTITY notJunk.label "Jo Hedhurinë">
 
 <!ENTITY lowestPriorityCmd.label "Më e vogël">
-<!ENTITY lowPriorityCmd.label "E ulët">
+<!ENTITY lowPriorityCmd.label "E vogël">
 <!ENTITY normalPriorityCmd.label "Normale">
 <!ENTITY highPriorityCmd.label "E madhe">
 <!ENTITY highestPriorityCmd.label "Më e madhe">
 
-<!ENTITY conditionDesc.label "Për mesazhe ardhës që:">
-<!ENTITY filterActionDesc.label "Kryej këta veprime:">
+<!ENTITY contextDesc.label "Zbatoje filtrin kur:">
+<!ENTITY contextDesc.accesskey "z">
+<!ENTITY contextIncoming.label "Kontrollohet për Postë">
+<!ENTITY contextManual.label "Xhirohet Dorazi">
+<!ENTITY contextBoth.label "Kontrollohet për Postë or Xhirohet Dorazi">
+<!ENTITY filterActionDesc.label "Përmbush këto veprime:">
 <!ENTITY filterActionDesc.accesskey "P">
 
-<!ENTITY newFolderButton.label "Dosje e Re...">
-<!ENTITY newFolderButton.accesskey "N">
-
 <!-- New Style Filter Rule Actions -->
-<!ENTITY moveMessage.label "Kalo Mesazhin te">
-<!ENTITY copyMessage.label "Kopjo Mesazhin te">
+<!ENTITY moveMessage.label "Kaloje Mesazhin te">
+<!ENTITY copyMessage.label "Kopjoje Mesazhin te">
 <!ENTITY forwardTo.label "Përcillja Mesazhin">
-<!ENTITY replyWithTemplate.label "Përgjigju me Stampë">
+<!ENTITY replyWithTemplate.label "Përgjigju me Gjedhe">
 <!ENTITY markMessageRead.label "Shënoje Si Të lexuar">
 <!ENTITY markMessageStarred.label "Shto Yllkë">
-<!ENTITY labelMessage.label "Etiketo Mesazhin Si">
-<!ENTITY setPriority.label "Vërja Përparësinë si">
-<!ENTITY setJunkScore.label "Vërja Gjendjen Hedhurinë si">
-<!ENTITY deleteMessage.label "Fshij Mesazh">
-<!ENTITY deleteFromPOP.label "Fshij Prej Shërbyesi POP">
-<!ENTITY fetchFromPOP.label "Sill Prej Shërbyesi POP">
-<!ENTITY ignoreThread.label "Shpërfill Rrjedhë">
-<!ENTITY watchThread.label "Kqyr Rrjedhë">
-<!ENTITY addTag.label "Etiketo Mesazh">
-
-
+<!ENTITY setPriority.label "Vërja Përparësinë">
+<!ENTITY addTag.label "Etiketoje Mesazhin Si">
+<!ENTITY setJunkScore.label "Vërja Gjendjen Hedhurinë Si">
+<!ENTITY deleteMessage.label "Fshije Mesazhin">
+<!ENTITY deleteFromPOP.label "Fshije Prej Shërbyesi POP">
+<!ENTITY fetchFromPOP.label "Sille Prej Shërbyesi POP">
+<!ENTITY ignoreThread.label "Shpërfille Rrjedhën">
+<!ENTITY ignoreSubthread.label "Shpërfille Nënrrjedhën">
+<!ENTITY watchThread.label "Vëzhgoje Rrjedhën">
+<!ENTITY stopExecution.label "Stop Filter Execution">

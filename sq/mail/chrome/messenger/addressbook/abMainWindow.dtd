@@ -1,3 +1,4 @@
+
 <!ENTITY addressbookWindow.title                        "Libër Vendndodhjesh">
 
 <!-- File Menu -->
@@ -36,12 +37,6 @@
 <!ENTITY printAddressBook.label                         "Shtyp Libër Vendndodhjesh...">
 <!ENTITY printAddressBook.accesskey                     "A">
 
-<!ENTITY quitApplicationCmdWin.label                    "Dil"> 
-<!ENTITY quitApplicationCmdWin.accesskey                "x">
-<!ENTITY quitApplicationCmd.label                       "Dil"> 
-<!ENTITY quitApplicationCmd.accesskey                   "Q">
-<!ENTITY quitApplicationCmd.key "Q">
-
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Përpunim">
 <!ENTITY editMenu.accesskey                             "e">
@@ -61,11 +56,9 @@
 <!ENTITY pasteCmd.key                                   "V">
 <!ENTITY pasteCmd.accesskey                             "p">
 <!ENTITY deleteCmd.label                                "Fshi">
-<!ENTITY deleteCmd.key                                  "D">
 <!ENTITY deleteCmd.accesskey                            "d">
 <!ENTITY deleteAbCmd.label                              "Fshi Libër Vendndodhjesh">
 <!ENTITY deleteCardCmd.label                            "Fshi Kartë">
-<!ENTITY deleteCardsCmd.label                           "Fshij Kartat e Përzgjedhura">
 <!ENTITY selectAllCmd.label                             "Përzgjidh Tërë">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
@@ -119,21 +112,10 @@
 <!ENTITY exportCmd.label                                "Eksporto...">
 <!ENTITY exportCmd.accesskey                            "E">
 <!ENTITY preferencesCmd.label                           "Mundësi...">
-<!ENTITY preferencesCmd.key                             "O">
 <!ENTITY preferencesCmd.accesskey                       "O">
 <!ENTITY preferencesCmdUnix.label                       "Parapëlqime">
 <!ENTITY preferencesCmdUnix.accesskey                   "n"> 
 
-<!-- Help Menu -->
-<!ENTITY helpMenu.label                                 "Ndihmë">
-<!ENTITY helpMenu.accesskey                             "H">
-<!ENTITY releaseCmd.label                               "Shënime Versione">
-<!ENTITY releaseCmd.accesskey                           "R">
-<!ENTITY hintsAndTips.label                             "Ndihmë për &brandShortName;-in">
-<!ENTITY hintsAndTips.accesskey                         "h">
-<!ENTITY hintsAndTipsMac.commandkey                     "?">
-<!ENTITY aboutCmd.label                                 "Rreth &brandShortName;-it">
-<!ENTITY aboutCmd.accesskey                             "A">
 
 <!-- Address Book Toolbar and Context Menus -->  
 <!ENTITY newcardButton.label                            "Kartë e Re">
@@ -207,18 +189,6 @@
 <!ENTITY _PhoneticName.label                            "Emër Fonetik">
 <!ENTITY _PhoneticName.accesskey                        "o">
 
-<!-- Results pane context menu -->
-<!ENTITY composeEmail.label                             "Harto Email Për">
-<!ENTITY composeEmail.accesskey                         "C">
-<!ENTITY deleteAddrBookCard.label                       "Fshij">
-<!ENTITY deleteAddrBookCard.accesskey                   "D">
-<!ENTITY newAddrBookCard.label                          "Kartë e Re...">
-<!ENTITY newAddrBookCard.accesskey                      "N">
-<!ENTITY newAddrBookMailingList.label                   "Listë e re Postimesh...">
-<!ENTITY newAddrBookMailingList.accesskey               "M">
-<!ENTITY addrBookCardProperties.label                   "Veti">
-<!ENTITY addrBookCardProperties.accesskey               "P">
-
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 <!ENTITY contact.heading                                "Kontakte">
@@ -244,3 +214,10 @@
 <!ENTITY zoomWindow.label "Zoom">
 
 <!ENTITY searchItem.title "Kërkim i Shpejtë">
+
+<!ENTITY osxAddressBook.label                           "Përdor Libër Vendndodhjesh Mac OS X">
+<!ENTITY osxAddressBook.accesskey                       "P">
+<!ENTITY deleteListCmd.label                            "Fshije Listën">
+<!ENTITY deleteListsCmd.label                           "Fshiji Listat">
+<!ENTITY deleteItemsCmd.label                           "Fshije Elementët">
+<!ENTITY deleteCardsCmd2.label                          "Fshiji Kartat">

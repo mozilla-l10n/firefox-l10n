@@ -4,10 +4,11 @@
 <!ENTITY  authorName.accesskey      "u">
 <!ENTITY  pageColorHeader           "Dukje Parazgjedhje e Faqes">
 
-<!ENTITY defaultColorsRadio.label   "Ngjyrë parazgjedhje e lexuesit (Mos cakto ngjyra në faqe)">
-<!ENTITY defaultColors.accesskey    "d">
-<!ENTITY customColorsRadio.label    "Përdor ngjyra vetjake:">
-<!ENTITY customColors.accesskey     "c">
+<!ENTITY defaultColors.label        "Ngjyrë parazgjedhje e lexuesit (Mos cakto ngjyra në faqe)">
+<!ENTITY defaultColors.accesskey    "n">
+<!ENTITY customColors.label         "Përdor ngjyra vetjake:">
+<!ENTITY customColors.accesskey     "p">
+
 
 <!ENTITY normalText.label           "Tekst normal">
 <!ENTITY normalText.accesskey       "N">

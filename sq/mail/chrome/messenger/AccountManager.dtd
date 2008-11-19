@@ -6,12 +6,8 @@
 <!ENTITY addAccountButton.accesskey "A">
 <!ENTITY setDefaultButton.label "Vëre si Parazgjedhje">
 <!ENTITY setDefaultButton.accesskey "f">
-<!ENTITY duplicateButton.label "Dyfisho">
 <!ENTITY removeButton.label "Hiq Llogari">
 <!ENTITY removeButton.accesskey "R">
-
-<!ENTITY nameCol.label "Emër">
-<!ENTITY duplicate.label "Dyfisho">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account

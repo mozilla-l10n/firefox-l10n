@@ -31,24 +31,18 @@
 
 <!ENTITY emailLabel.label "Vendndodhje Email:">
 <!ENTITY emailLabel.accesskey "E">
-<!ENTITY emailDesc.label "Jepni vendndodhjen tuaj email; kjo është vendndodhja ku të tjerët do t&apos;ju dërgojnë email">
-<!-- LOCALIZATION NOTE (emailExample.label) : do not translate "user@example.net" in below line -->
-<!ENTITY emailExample.label "(për shembull: user@example.net).">
+
 
 <!-- Entities for Server page -->
 
 <!ENTITY serverTitle.label "Të dhëna Shërbyesi">
-<!ENTITY incomingServerTitle.label "Shërbyes Marrës">
 <!ENTITY incomingServerTypeDesc.label "Përzgjidhni llojin e shërbyesit marrës që po përdorni.">
-<!ENTITY incomingServerTypeLabel.label "Lloj Shërbyesi:">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServerNameDesc.label "Enter the name of your incoming server (for example, &quot;pop.example.net&quot;).">
 <!ENTITY incomingServerLabel.label "Incoming Server:">
 <!ENTITY incomingServerLabel.accesskey "S">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Jepni emrin e shërbyesit tuaj të lajmeve (NNTP) (për shembull, &quot;news.example.net&quot;).">
-<!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
-<!ENTITY smtpServerTitle.label "Shërbyes Dërgues (SMTP)">
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY smtpServerDesc.label "Jepni emrin e shërbyesit tuaj dërgues (SMTP) (për shembull, &quot;smtp.example.net&quot;).">
 <!ENTITY smtpServerLabel.label "Shërbyes Dërgues:">
@@ -61,7 +55,6 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY nntpType.label "Shërbyes Lajmesh">
 <!-- for when the user has an SMTP server pre-configured -->
 <!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
      this variable. Also, translate currentSmtpBefore.label and currentSmtpAfter.label as a single sentence,
@@ -103,7 +96,6 @@
 <!ENTITY accnameTitle.label "Emër Llogarie">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Jepni emrin me të cilin do të donit t&apos;i referoheni kësaj llogarie (për shembull, &quot;Llogari Pune&quot;, &quot;Llogari Shtëpie&quot; ose &quot;Llogari Lajmesh&quot;).">
-<!ENTITY accnameExample.label "Për shembull, Llogari Pune, Llogari Shtëpie ose Llogari Lajmesh">
 <!ENTITY accnameLabel.label "Emër Llogarie:">
 <!ENTITY accnameLabel.accesskey "L">
 
