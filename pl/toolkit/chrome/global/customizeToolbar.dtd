@@ -1,11 +1,11 @@
 <!ENTITY dialog.title "Dostosuj pasek narzędzi" >
 <!ENTITY dialog.style "width: 715px; height: 420px;">
 <!ENTITY instructions.description "Można dodawać lub usuwać elementy przeciągając je na paski narzędzi lub z pasków do zasobnika.">
-<!ENTITY show.label "Pokaż:" >
+<!ENTITY show.label "Wyświetlaj:" >
 <!ENTITY iconsAndText.label "Ikony i tekst" >
 <!ENTITY icons.label "Ikony" >
 <!ENTITY text.label "Tekst" >
-<!ENTITY useSmallIcons.label "Użyj małych ikon" >
+<!ENTITY useSmallIcons.label "Używaj małych ikon" >
 <!ENTITY restoreDefaultSet.label "Domyślny układ" >
 <!ENTITY addNewToolbar.label "Nowy pasek" >
 <!ENTITY saveChanges.label "Zakończ" >
