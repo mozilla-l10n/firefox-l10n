@@ -21,6 +21,9 @@ de &brandShortName; çò pus viste possible.">
 <!ENTITY license.accept.accesskey "A">
 <!ENTITY license.decline "Accepti PAS los tèrmes de l'acòrdi de licéncia">
 <!ENTITY license.decline.accesskey "P">
+
+<!ENTITY  incompatibleList.title          "Moduls complementaris incompatibles trobats">
+
 <!ENTITY downloading.title "Telecargament de mesa a jorn">
 <!ENTITY downloading.intro "A telecargar la mesa a jorn...">
 <!ENTITY connecting.label "A se connectar al servidor de mesa a jorn...">
