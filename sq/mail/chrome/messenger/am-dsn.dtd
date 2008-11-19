@@ -1,16 +1,16 @@
-<!ENTITY pane.title                 "Delivery Status Notification">
-<!ENTITY useGlobalPrefs.label       "Use my global Delivery Status Notification preferences for this account">
-<!ENTITY useGlobalPrefs.accesskey   "U">
-<!ENTITY useCustomPrefs.label       "Customize Delivery Status Notification for this account">
-<!ENTITY useCustomPrefs.accesskey   "C">
-<!ENTITY requestAlways.label        "When sending messages, always request a Delivery Status Notification">
-<!ENTITY requestAlways.accesskey    "W">
-<!ENTITY optionTitle.label          "Ask notification on :">
-<!ENTITY requestOnSucess.label      "Success in delivering">
+<!ENTITY pane.title                 "Njoftim Gjendjeje Shpërndarjeje">
+<!ENTITY useGlobalPrefs.label       "Për këtë llogari përdor parapëlqimet e mia të përgjithshme mbi Njoftime Gjendjesh Shpërndarjeje">
+<!ENTITY useGlobalPrefs.accesskey   "P">
+<!ENTITY useCustomPrefs.label       "Përshtasni Njoftime Gjendjesh Shpërndarjeje për këtë llogari">
+<!ENTITY useCustomPrefs.accesskey   "R">
+<!ENTITY requestAlways.label        "Kur dërgohen mesazhe, kërko përherë Njoftim Gjendjeje Shpërndarjeje">
+<!ENTITY requestAlways.accesskey    "K">
+<!ENTITY optionTitle.label          "Kërko njoftim për :">
+<!ENTITY requestOnSucess.label      "Sukses në shpërndarje">
 <!ENTITY requestOnSucess.accesskey  "S">
-<!ENTITY requestOnFailure.label     "Failure in delivering">
-<!ENTITY requestOnFailure.accesskey "F">
-<!ENTITY requestOnDelay.label       "Delay in delivering">
-<!ENTITY requestOnDelay.accesskey   "D">
-<!ENTITY requestNever.label         "Never receive Delivery Status Notification">
-<!ENTITY requestNever.accesskey     "N">
+<!ENTITY requestOnFailure.label     "Dështim në shpërndarje">
+<!ENTITY requestOnFailure.accesskey "D">
+<!ENTITY requestOnDelay.label       "Vonesë në shpërndarje">
+<!ENTITY requestOnDelay.accesskey   "V">
+<!ENTITY requestNever.label         "Mos merr kurrë Njoftim Gjendjeje Shpërndarjeje">
+<!ENTITY requestNever.accesskey     "M">
