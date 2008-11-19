@@ -747,3 +747,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCustomize.accesskey "C">
 <!ENTITY throbber.tooltip "Go to the &vendorShortName; home page">
 <!ENTITY titleModifier.label "&brandShortName;">
+<!ENTITY junkBarMessage.label "&brandShortName; thinks this message is junk.">
