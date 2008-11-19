@@ -14,7 +14,7 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-<!ENTITY rights.intro-point1a "&brandShortName; нвдається вам на умовах ">
+<!ENTITY rights.intro-point1a "&brandShortName; надається вам на умовах ">
 <!ENTITY rights.intro-point1b "Публічної ліцензії Mozilla">
 <!ENTITY rights.intro-point1c ". Це означає що ви можете використовувати, копіювати та розповсюджувати &brandShortName;. Ви також можете змінювати джерельний код &brandShortName; як хочете та як вважаєте за потрібне. Публічна ліцензія Mozilla дає також вам право розповсюджувати ваші змінені версії програми.">
 
