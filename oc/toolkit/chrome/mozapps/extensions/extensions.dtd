@@ -96,6 +96,7 @@
 <!ENTITY insecureUpdate.label "Provesís pas de mesas a jorn securizadas.">
 <!ENTITY needsDependencies.label "Necessita d'elements suplementaris.">
 <!ENTITY blocklisted.label "Desactivat per vòstra proteccion.">
+<!ENTITY softBlocklisted.label            "Conegut per provocar de problèmas de seguretat o d'inestabilitat.">
 <!ENTITY toBeDisabled.label "Aqueste modul serà desactivat a l'aviada venenta de &brandShortName;.">
 <!ENTITY toBeEnabled.label "Aqueste modul serà activat a l'aviada venenta de &brandShortName;.">
 <!ENTITY toBeInstalled.label "Aqueste modul serà installat a l'aviada venenta de &brandShortName;.">
@@ -146,3 +147,6 @@
 <!ENTITY eula.width "560px">
 <!ENTITY eula.height "400px">
 <!ENTITY eula.accept "Acceptar e installar...">
+<!ENTITY blocklist.blocked.label          "Blocat">
+<!ENTITY blocklist.checkbox.label         "Desactivar">
+

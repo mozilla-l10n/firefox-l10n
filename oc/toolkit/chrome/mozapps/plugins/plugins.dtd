@@ -1,16 +1,19 @@
-<!ENTITY pluginWizard.title "Servici de recèrca de plugins">
+<!ENTITY pluginWizard.title "Servici de recèrca de moduls complementaris">
 <!ENTITY pluginWizard.firstPage.title "&pluginWizard.title; - Planvenguda">
-<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; recèrca los plugins disponibles…">
-<!ENTITY pluginWizard.availablePluginsPage.title "Telecargaments de plugins disponibles">
-<!ENTITY pluginWizard.availablePluginsPage.description.label "Los plugins seguents son disponibles :">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Quichatz sus Seguent per installar aquestes plugins.">
-<!ENTITY pluginWizard.availablePluginsPage.installerUI "D'unes plugins pòdon necessitar d'entresenhas suplementàrias de vòstra part pendent lor installacion.">
-<!ENTITY pluginWizard.licensePage.title "Licéncias dels plugins">
+<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; recèrca los moduls complementaris disponibles…">
+<!ENTITY pluginWizard.availablePluginsPage.title "Telecargaments de moduls complementaris disponibles">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Los moduls complementaris seguents son disponibles :">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Quichatz sus Seguent per installar aquestes moduls complementaris.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI "D'unes moduls complementaris pòdon necessitar d'entresenhas suplementàrias de vòstra part pendent lor installacion.">
+<!ENTITY pluginWizard.licensePage.title "Licéncias dels moduls complementaris">
 <!ENTITY pluginWizard.licensePage.accept.label "Soi d'acòrdi">
-<!ENTITY pluginWizard.licensePage.deny.label "Soi pas d'acòrdi  (lo plugin serà pas installat).">
-<!ENTITY pluginWizard.installPluginsPage.title "Installacion dels plugins">
-<!ENTITY pluginWizard.installPluginsPage.description.label "De plugins son en cors d'installacion per &brandShortName;…">
-<!ENTITY pluginWizard.finalPage.description.label "&brandShortName; a acabat d'installar los plugins mancants :">
-<!ENTITY pluginWizard.finalPage.moreInfo.label "Ne saber mai suls plugins o recercar manualament los plugins mancants.">
-<!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; deu èsser aviat tornamai per que lo(s) plugin(s) foncione(n).">
-<!ENTITY missingPlugin.label "Clicatz aicí per telecargar lo plugin.">
+<!ENTITY pluginWizard.licensePage.deny.label "Soi pas d'acòrdi  (lo modul complementari serà pas installat).">
+<!ENTITY pluginWizard.installPluginsPage.title "Installacion dels moduls complementaris">
+<!ENTITY pluginWizard.installPluginsPage.description.label "De moduls complementaris son en cors d'installacion per &brandShortName;…">
+<!ENTITY pluginWizard.finalPage.description.label "&brandShortName; a acabat d'installar los moduls complementaris mancants :">
+<!ENTITY pluginWizard.finalPage.moreInfo.label "Ne saber mai suls moduls complementaris o recercar manualament los moduls complementaris mancants.">
+<!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; deu èsser aviat tornamai per que lo(s) modul complementari(s) foncione(n).">
+<!ENTITY missingPlugin.label "Clicatz aicí per telecargar lo modul complementari.">
+<!ENTITY disabledPlugin.label                                "Lo modul complementari d'aqueste contengut es estat desactivat. Clicatz aicí per gerir vòstres moduls complementaris.">
+<!ENTITY blockedPlugin.label                                 "Aqueste modul complementari es estat blocat per vòstra seguretat.">
+
