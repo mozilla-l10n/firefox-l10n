@@ -42,7 +42,6 @@
 <!ENTITY windowTitle.label "Propriedades da imagem">
 
 <!ENTITY pixelsPopup.value "pixels">
-<!ENTITY percentPopup.value "porcentagem">
 
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Endereço da imagem:">
@@ -58,7 +57,6 @@
 <!ENTITY noAltText.accessKey "u">
 
 <!ENTITY previewBox.label "Visualizar">
-<!ENTITY MoreFewerButton.tooltip "Exibir mais ou menos propriedades para editar">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
@@ -94,7 +92,6 @@
 
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "Espaçamento">
-<!ENTITY spacingBox.tooltip "Digite um número para a quantidade de espaço em volta da imagem">
 <!ENTITY leftRightEditField.label "Esquerdo e direito:">
 <!ENTITY leftRightEditField.accessKey "E">
 <!ENTITY topBottomEditField.label "Superior e inferior:">
@@ -105,12 +102,6 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Exibir borda em imagem com link">
 <!ENTITY showImageLinkBorder.accessKey "k">
-
-<!-- These controls may be added some day; currently not used -->
-<!ENTITY makePageBackgroundCheckbox.label "Make Page Background">
-<!ENTITY makePageBackgroundCheckbox.tooltip "Usar imagem com plano de fundo para esta página">
-<!ENTITY editImageButton.label "Editar imagem">
-<!ENTITY editImageButton.tooltip "Editar arquivo de imagem em outro aplicativo">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Formulário">

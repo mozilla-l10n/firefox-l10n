@@ -83,7 +83,6 @@
 
 <!ENTITY zoominCmd.label "Aumentar zoom">
 <!ENTITY zoomoutCmd.label "Diminuir zoom">
-<!ENTITY delSpotCmd.label "Delete Spot">
 
 <!-- Keys -->
 <!ENTITY clear.key "D">

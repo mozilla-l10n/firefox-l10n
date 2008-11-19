@@ -36,14 +36,11 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-
 <!-- Window title -->
 <!ENTITY windowTitle.label            "Publicar página">
 <!ENTITY windowTitleSettings.label    "Publish Settings">
-
 <!ENTITY publishTab.label             "Publicar">
 <!ENTITY settingsTab.label            "Configurações">
-
 <!ENTITY publishButton.label          "Publicar">
 
 <!-- Publish Tab Panel -->
@@ -73,10 +70,8 @@
 <!ENTITY filename.accesskey           "F">
 <!ENTITY filename.tooltip             "Enter a name for this file, including '.html' for a web page">
 <!ENTITY filenameExample.label        "e.g,: &quot;mypage.html&quot;">
-<!ENTITY relatedDocs.label            "Other files to publish">
 <!ENTITY setDefaultButton.label       "Set as Default">
 <!ENTITY setDefaultButton.accesskey   "D">
-<!ENTITY setDefSiteAndDir.label       "Set as Default Site and Directory">
 <!ENTITY removeButton.label           "Excluir o site">
 <!ENTITY removeButton.accesskey       "R">
 

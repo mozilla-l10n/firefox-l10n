@@ -42,7 +42,7 @@
 <!ENTITY lastModified.label "Modificado">
 <!ENTITY titleInput.label "Title:">
 <!ENTITY titleInput.accessKey "t">
-<!ENTITY authorInput.label "Author:">
+<!ENTITY authorInput.label "Autor:">
 <!ENTITY authorInput.accessKey "A">
 <!ENTITY descriptionInput.label "Descrição:">
 <!ENTITY descriptionInput.accessKey "D">
