@@ -3,7 +3,6 @@
 <!ENTITY accountTitle.label "Rregullime Llogarie">
 <!ENTITY accountName.label "Emër Llogarie:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY accountNameDesc.label "Emri i llogarisë përdoret për të identifikuar çdo llogari">
 <!ENTITY identityTitle.label "Identitet Parazgjedhje">
 <!ENTITY identityDesc.label "Çdo llogari ka identitetin e vet, i cili përbëhet nga të dhënat që persona të tjerë shohin kur lexojnë mesazhet tuaj.">
 <!ENTITY name.label "Emri Juaj:">

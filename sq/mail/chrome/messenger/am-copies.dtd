@@ -4,13 +4,9 @@
 <!ENTITY sendingPrefix.label "Kur dërgohen mesazhe, automatikisht: ">
 <!ENTITY fccMailFolder.label "Vendos një kopje në:">
 <!ENTITY fccMailFolder.accesskey "P">
-<!ENTITY chooseFolderButton.label "Zgjidhni Dosje...">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Bcc për këto vendndodhje email:">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY specialFolderTitle.label "Dosje Speciale">
-<!ENTITY draftMailFolder.label "Mbaj skica mesazhesh në:">
-<!ENTITY templateMailFolder.label "Mbaj stampa mesazhesh në:">
 <!ENTITY saveMessageDlg.label "Shfaq dialog ripohimi kur ruhen mesazhe">
 <!ENTITY saveMessageDlg.accesskey "S">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
