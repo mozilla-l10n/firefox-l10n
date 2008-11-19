@@ -46,8 +46,6 @@
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY offlineMenu.label "අසම්බන්ධිත">
 <!ENTITY offlineMenu.accesskey "l">
-<!ENTITY offlineGoOfflineCmd.label "අසම්බන්ධිතව වැඩකරන්න">
-<!ENTITY offlineGoOfflineCmd.accesskey "w">
 <!ENTITY synchronizeOfflineCmd.label "දැන් බාගන්න/සමකාලික කරන්න…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
 <!ENTITY settingsOfflineCmd.label "අසම්බන්ධිත සැකසුම්...">
@@ -103,7 +101,6 @@
 <!ENTITY undoCopyMsgCmd.label "ලිපි කොපි කිරීම අහෝසි.">
 <!ENTITY redoCopyMsgCmd.label "ලිපි කොපි කිරීම යළි කරන්න">
 <!ENTITY undoDefaultCmd.label "අහෝසි.">
-<!ENTITY undoDefaultCmd.accesskey "U">
 <!ENTITY redoDefaultCmd.label "යළි කරන්න">
 <!ENTITY redoDefaultCmd.accesskey "R">
 
@@ -125,8 +122,7 @@
 <!ENTITY showMessageCmd.accesskey "M">
 
 
-<!ENTITY unreadFolders.label "නොකියවූ">
-<!ENTITY unreadFolders.accesskey "U">
+
 
 <!ENTITY recentFolders.label "මෑත">
 <!ENTITY recentFolders.accesskey "R">
@@ -246,8 +242,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextUnreadMsgCmd.label "නොකියවූ ලිපියට">
 <!ENTITY nextUnreadMsgCmd.accesskey "U">
 <!ENTITY nextUnreadMsgCmd.key "n">
-<!ENTITY nextStarredMsgCmd.label "Starred Message">
-<!ENTITY nextStarredMsgCmd.accesskey "S">
 <!ENTITY nextUnreadThread.label "නොකියවූ සබැඳි ලිපියට">
 <!ENTITY nextUnreadThread.accesskey "T">
 <!ENTITY nextUnreadThread.key "t">
@@ -358,7 +352,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.key "o">
 
 <!-- Windows Menu -->
-<!ENTITY windowMenu.label "කවුළුව">
 
 <!-- Tools Menu -->
 <!ENTITY addons.label "ඇඩෝන">
@@ -392,7 +385,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY backButton1.label "පසුපසට">
 
 <!ENTITY deleteButton.label "මකන්න">
-<!ENTITY undeleteButton.label "මකන්න එපා">
 <!ENTITY markButton.label "සළකුණු කරන්න">
 <!ENTITY printButton.label "මුද්‍රණය">
 <!ENTITY stopButton.label "නවතන්න">
@@ -404,33 +396,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY tagButton.label "ටැගය">
 <!ENTITY compactButton.label "සංයුක්ත">
-
-<!-- Mail Toolbar Tooltips-->
-<!--<!ENTITY advancedButton.tooltip "වැඩිමනත් ලිපි සෙවුම">
-<!ENTITY getMsgButton.tooltip "නව ලිපි ලබා ගැනීමට">
 <!ENTITY getAllNewMsgCmd.label "සියළු නව ලිපි ලබා ගැනීමට">
-<!ENTITY getAllNewMsgCmd.accesskey "G">
-<!ENTITY getAllNewMsgCmd.key "t">
+<!ENTITY getMsgButton.tooltip "නව ලිපි ලබා ගැනීමට">
+<!ENTITY goForwardButton.tooltip "ඉදිරි ලිපියට">
 <!ENTITY newMsgButton.tooltip "නව ලිපියක් ඇරඹීමට">
+<!ENTITY nextButton.tooltip "මීලඟ නොකියවූ ලිපියට">
 <!ENTITY replyButton.tooltip "ලිපියට පිළිතුරු ලිවීමට">
 <!ENTITY replyAllButton.tooltip "එවන්නා ඇතුළු සැමට පිළිතුරු සැපයීමට">
-<!ENTITY forwardButton.tooltip "තෝරාගත් ලිපිය යොමු කිරීමට">
-<!ENTITY fileButton.tooltip "තෝරාගත් ලිපිය ගොනුගත කරන්න">
-<!ENTITY nextButton.tooltip "මීලඟ නොකියවූ ලිපියට">
-<!ENTITY previousButton.tooltip "පෙර නොකියවූ ලිපියට">
-<!ENTITY goForwardButton.tooltip "ඉදිරි ලිපියට">
-<!ENTITY goBackButton.tooltip "පෙර ලිපියට">
+<!-- Mail Toolbar Tooltips-->
+
 <!ENTITY deleteButton.tooltip "තෝරාගත් ලිපි හෝ බහලුම් මැකීමට">
-<!ENTITY undeleteButton.tooltip "තෝරාගත් ලිපි නොමකන්න">
+<!ENTITY fileButton.tooltip "තෝරාගත් ලිපිය ගොනුගත කරන්න">
+<!ENTITY forwardButton.tooltip "තෝරාගත් ලිපිය යොමු කිරීමට">
+<!ENTITY getAllNewMsgCmd.key "t">
+<!ENTITY goBackButton.tooltip "පෙර ලිපියට">
+<!ENTITY junkButton.tooltip "තෝරාගත් ලිපි නිසරු සේ සළකුණු කිරීමට">
 <!ENTITY markButton.tooltip "ලිපි සළකුණු කිරීමට">
+<!ENTITY notJunkButton.tooltip "තෝරාගත් ලිපි නසරු ‍නොවන සේ සළකුණු කිරීමට">
 <!ENTITY printButton.tooltip "ලිපිය මුද්‍රණය කිරීමට">
 <!ENTITY stopButton.tooltip "ලිපි යැවීම/ලබාගැනීම නතර කිරීමට">
-<!ENTITY junkButton.tooltip "තෝරාගත් ලිපි නිසරු සේ සළකුණු කිරීමට">
-<!ENTITY notJunkButton.tooltip "තෝරාගත් ලිපි නසරු ‍නොවන සේ සළකුණු කිරීමට">
-<!ENTITY addressBookButton.tooltip "ලිපින පොතට යොමුවීමට">
-<!ENTITY tagButton.tooltip "ටැග් ලිපි">
-<!ENTITY compactButton.tooltip "තෝරාගත් බහලුමෙන් මැකූ ලිපි ඉවත් කිරීමට">-->
-
 <!-- Tags Menu Popup -->
 
 
@@ -484,29 +468,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY searchSubjectOrRecipientMenu.label "විෂයය, වෙත‍ හෝ පිටපත්">
 <!ENTITY searchMessageBody.label "සමස්ත ලිපිය">
 <!ENTITY saveAsVirtualFolderMenu.label "සෙවුම් බහලුම සේ සුරකින්න...">
-
-<!-- Thread Pane -->
-
-<!--<!ENTITY recipientColumn.label "ලබන්නා">
-<!ENTITY subjectColumn.label "විෂයය">
-<!ENTITY dateColumn.label "දිනය">
-<!ENTITY priorityColumn.label "ප්‍රමුඛතාවය">
-<!ENTITY statusColumn.label "තත්ත්වය">
-<!ENTITY sizeColumn.label "විශාලත්වය">
-<!ENTITY unreadColumn.label "නොකියවූ">
 <!ENTITY totalColumn.label "එකතුව">
-<!ENTITY readColumn.label "කියවූ">
-<!ENTITY receivedColumn.label "ලැබුණු">
-<!ENTITY starredColumn.label "Starred">
-<!ENTITY attachmentColumn.label "ඇමුණුම්">-->
+<!-- Thread Pane -->
+<!ENTITY unreadColumn.label "නොකියවූ">
+
 
 
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "ලිපිය නව කවුළුවක විවෘත කරන්න">
 <!ENTITY contextOpenNewWindow.accesskey "W">
-<!ENTITY contextOpenNewTab.label "ලිපිය නව ටැබයක විවෘත කරන්න">
-<!ENTITY contextOpenNewTab.accesskey "T">
+
 <!ENTITY contextEditAsNew.label "නව ලිපියක් සේ සකසන්න...">
 <!ENTITY contextEditAsNew.accesskey "E">
 <!ENTITY contextReplySender.label "එවූ තැනැත්තාට පිළිතුරු">
@@ -534,7 +506,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Junk Bar -->
 
-<!ENTITY junkBarButton1.label "නිසරු නොවූ">
 <!ENTITY junkInfoButton.label "?">
 
 <!-- Remote Content Bar -->
@@ -575,7 +546,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY bringAllToFront.label "සියල්ල මතුපිටට ගෙනෙන්න">
-<!ENTITY zoomWindow.label "විශාලනය">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac.label        "අභිප්‍රේත…">

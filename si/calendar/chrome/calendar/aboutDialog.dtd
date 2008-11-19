@@ -56,7 +56,7 @@
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
 
-<!ENTITY credit.translation  "<h3>පරිවර්තකයින්</h3><ul><li>ඩනිෂ්ක නවින්</li></ul>">
+<!ENTITY credit.translation  "<h3>පරිවර්තකයින්</h3><ul><li>ඩනිෂ්ක නවින්</li><li>කල්ප පැතුම්</li></ul>">
 <!ENTITY credit.translation "">
 
 <!ENTITY credit.powered     "බලගැන්වීම">

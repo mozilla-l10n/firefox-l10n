@@ -35,29 +35,29 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY event.title.label                  "Edit Item" >
+<!ENTITY event.title.label                  "අයිතම සකසන්න" >
 
-<!ENTITY newevent.from.label                "From" >
-<!ENTITY newevent.to.label                  "To" >
-<!ENTITY newevent.attendees.sendEmail.label "Send attendees invitations via email">
+<!ENTITY newevent.from.label                "වෙතින්" >
+<!ENTITY newevent.to.label                  "වෙත" >
+<!ENTITY newevent.attendees.sendEmail.label "සහභාගි වන්නන්ගේ ඇරයුම් විද්‍යුත් තැපෑලෙන් යවන්න">
 
-<!ENTITY newevent.status.label              "Status" >
+<!ENTITY newevent.status.label              "තත්ත්වය" >
 <!ENTITY newevent.status.accesskey          "S" >
-<!ENTITY newevent.status.none.label         "Not specified" >
-<!ENTITY newevent.status.cancelled.label    "Cancelled" >
-<!ENTITY newevent.status.tentative.label    "Tentative" >
-<!ENTITY newevent.status.confirmed.label    "Confirmed" >
-<!ENTITY newevent.status.needsaction.label  "Needs Action" >
-<!ENTITY newevent.status.inprogress.label   "In Process" >
-<!ENTITY newevent.status.completed.label    "Completed on" >
+<!ENTITY newevent.status.none.label         "විශේෂිතව දක්වා නැත" >
+<!ENTITY newevent.status.cancelled.label    "අහෝසි කළා" >
+<!ENTITY newevent.status.tentative.label    "තාවකාලික" >
+<!ENTITY newevent.status.confirmed.label    "ස්තිරයි" >
+<!ENTITY newevent.status.needsaction.label  "අක්‍රියාවක් අවශ්‍යයි" >
+<!ENTITY newevent.status.inprogress.label   "සිදුවෙමින් පවතී" >
+<!ENTITY newevent.status.completed.label    "නිමවන්නේ" >
 
 <!-- The following entity is for New Task dialog only -->
-<!ENTITY newtodo.percentcomplete.label      "&#37; complete">
+<!ENTITY newtodo.percentcomplete.label      "&#37; අවසන්">
 
 <!-- Alarm -->
-<!ENTITY alarm.units.minutes                "minutes" >
-<!ENTITY alarm.units.hours                  "hours" >
-<!ENTITY alarm.units.days                   "days" >
+<!ENTITY alarm.units.minutes                "මිනිත්තු" >
+<!ENTITY alarm.units.hours                  "පැය" >
+<!ENTITY alarm.units.days                   "දින" >
 
-<!ENTITY newevent.before.label              "before" >
-<!ENTITY newevent.after.label               "after" >
+<!ENTITY newevent.before.label              "පෙර" >
+<!ENTITY newevent.after.label               "පසු" >
