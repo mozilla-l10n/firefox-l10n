@@ -6,10 +6,10 @@
 <!ENTITY requestReceipt.label         "Sempre solicitar uma confirmação de leitura">
 <!ENTITY requestReceipt.accesskey     "S">
 <!ENTITY receiptArrive.label          "Ao receber uma confirmação que eu solicitei:">
-<!ENTITY leaveIt.label                "Deixar na pasta Entrada">
+<!ENTITY leaveIt.label                "Deixar na pasta “Entrada”">
 <!ENTITY leaveIt.accesskey            "E">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
-<!ENTITY moveToSent.label             "Mover para a pasta Enviados">
+<!ENTITY moveToSent.label             "Mover para a pasta “Enviados”">
 <!ENTITY moveToSent.accesskey         "v">
 <!ENTITY requestMDN.label             "Se alguém me solicitar uma confirmação de leitura:">
 <!ENTITY returnSome.label             "Permitir confirmações de leitura nestas situações:">

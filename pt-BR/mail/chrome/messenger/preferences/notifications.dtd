@@ -1,5 +1,5 @@
 <!ENTITY notificationsDialog2.title       "Personalizar alerta de nova mensagem">
-<!ENTITY window.width                     "30em">
+<!ENTITY window.width                     "30.0em">
 
 <!ENTITY alertCustomization.intro         "Selecione que campos deseja mostrar no alerta:">
 <!ENTITY previewText.label                "Amostra da mensagem">

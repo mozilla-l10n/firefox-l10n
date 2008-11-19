@@ -3,9 +3,6 @@
 <!ENTITY securityMenu.label "Segurança">
 <!ENTITY securityMenu.accesskey "S">
 
-<!ENTITY menu_securityEncryptIfPossible.label "Criptografar se possível">
-<!ENTITY menu_securityEncryptIfPossible.accesskey "r">
-
 <!ENTITY menu_securityEncryptRequire.label "Criptografar">
 <!ENTITY menu_securityEncryptRequire.accesskey "C">
 

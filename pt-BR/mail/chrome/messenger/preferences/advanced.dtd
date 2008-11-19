@@ -1,10 +1,13 @@
 <!ENTITY itemGeneral.label       "Geral">
+<!ENTITY itemDisplay.label       "Leitura e exibição">
 <!ENTITY itemUpdate.label        "Atualizações">
 <!ENTITY itemNetworking.label    "Rede e espaço em disco">
 <!ENTITY itemCertificates.label  "Certificados">
 
 <!-- General Settings -->
 
+<!ENTITY enableGloda.label             "Ativar indexação de mensagens">
+<!ENTITY enableGloda.accesskey         "A">
 <!ENTITY showCondensedAddresses.label  "Para pessoas em meus contatos, exibir somente o nome">
 <!ENTITY showCondensedAddresses.accesskey "P">
 
@@ -20,31 +23,28 @@
 <!ENTITY secondsLabel.label            "segundos">
 <!ENTITY showFolderColumns.label       "Exibir o seletor de colunas no painel de pastas">
 <!ENTITY showFolderColumns.accesskey   "x">
-<!ENTITY rememberLastMsg.label         "Lembrar da última mensagem selecionada">
-<!ENTITY rememberLastMsg.accesskey     "L">
 <!ENTITY openMsgIn.label               "Abrir mensagens em:">
 <!ENTITY reuseExpRadio0.label          "Nova janela">
 <!ENTITY reuseExpRadio0.accesskey      "N">
 <!ENTITY reuseExpRadio1.label          "Janela existente">
 <!ENTITY reuseExpRadio1.accesskey      "J">
-<!ENTITY reuseExpRadio2.label          "Nova aba">
-<!ENTITY reuseExpRadio2.accesskey      "N">
-<!ENTITY connectionTimeout.label       "Tempo limite de conexão:">
-<!ENTITY connectionTimeout.accesskey   "T">
-<!ENTITY connectionSeconds.label       "segundos">
 <!ENTITY configEditDesc.label          "Configuração avançada:">
 <!ENTITY configEdit.label              "Editor de config…">
-<!ENTITY configEdit.accesskey          "d">
+<!ENTITY configEdit.accesskey          "E">
 <!ENTITY returnReceiptsInfo.label      "Determine como o &brandShortName; trata as confirmações de leitura.">
 <!ENTITY showReturnReceipts.label      "Confirmações de leitura…">
 <!ENTITY showReturnReceipts.accesskey  "C">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption                "Leitura">
+<!ENTITY display.caption                "Exibição">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Verificar automaticamente se há atualizações para:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "T">
-<!ENTITY enableAddonsUpdate.label       "Complementos instalados">
-<!ENTITY enableAddonsUpdate.accesskey   "C">
+<!ENTITY enableAddonsUpdate.label       "Extensões e temas instalados">
+<!ENTITY enableAddonsUpdate.accesskey   "E">
 <!ENTITY checkNow.label                 "Verificar agora…">
 <!ENTITY whenUpdatesFound.label         "Ao encontrar atualizações do &brandShortName;:">
 <!ENTITY modeAskMe.label                "Perguntar o que fazer">
@@ -57,9 +57,9 @@
 <!ENTITY showUpdates.accesskey          "H">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showConnections.label         "Configurar conexão…">
-<!ENTITY showConnections.accesskey     "C">
-<!ENTITY proxiesInfo.label             "Determine como o &brandShortName; conecta-se à internet.">
+<!ENTITY showSettings.label            "Configurar conexão…">
+<!ENTITY showSettings.accesskey        "C">
+<!ENTITY proxiesConfigure.label        "Determine como o &brandShortName; conecta-se à internet.">
 <!ENTITY connectionsInfo.caption       "Conexão">
 <!ENTITY offlineInfo.caption           "Offline">
 <!ENTITY offlineInfo.label             "Configure o modo offline.">
@@ -71,8 +71,19 @@
 <!ENTITY offlineCompact.accesskey "n">
 <!ENTITY kb.label "KB">
 
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Usar no máximo">
+<!ENTITY useCacheBefore.accesskey        "s">
+<!ENTITY useCacheAfter.label             "MB de espaço para o cache">
+<!ENTITY clearCacheNow.label             "Limpar cache agora">
+<!ENTITY clearCacheNow.accesskey         "L">
+
 <!-- Certificates -->
-<!ENTITY certificatesInfo2.label        "Gerencie certificados, listas de revogação, validação de certificados e dispositivos de segurança.">
 <!ENTITY viewCertificates.label         "Certificados">
 <!ENTITY viewCertificates.accesskey     "C">
 <!ENTITY viewCRLs.label                 "Revogações">

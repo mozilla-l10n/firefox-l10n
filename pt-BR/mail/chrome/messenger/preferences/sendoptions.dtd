@@ -9,7 +9,6 @@
 <!ENTITY sendHTML.accesskey           "E">
 <!ENTITY sendBoth.label               "Enviar junto uma versão sem formatação">
 <!ENTITY sendBoth.accesskey           "n">
-<!ENTITY receiveHTML.label            "Caso saiba que um destinatário em particular pode receber mensagens em HTML, desmarque essa opção no contato do destinatário no catálogo de endereços.">
 <!ENTITY override.label               "Nota: especifique o formato de cada destinatário através do catálogo de endereços.">
 
 <!ENTITY domaindesc.label             "Ao enviar uma mensagem para um endereço com um dos domínios abaixo, o &brandShortName; automaticamente envia a mensagem no formato correto.">
@@ -28,14 +27,5 @@
 
 <!ENTITY add.htmltitle                "Adicionar um domínio">
 <!ENTITY add.htmldomain               "Domínio de HTML:">
-<!ENTITY add.htmldomain.accesskey     "D">
 <!ENTITY add.plaintexttitle           "Adicionar um domínio">
 <!ENTITY add.plaintextdomain          "Domínio de texto sem formatação:">
-<!ENTITY add.plaintext.accesskey      "D">
-
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY domainnameError.title        "Erro de nome de domínio">
-<!ENTITY duplicationError.label       "O domínio @string@ já está na lista.">
-
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY dualEntryError.label         "Um domínio não pode ser especificado ao mesmo tempo nas listas HTML e texto sem formatação. O domínio @string@ já existe.">

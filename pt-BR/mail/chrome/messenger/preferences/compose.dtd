@@ -1,9 +1,7 @@
 <!ENTITY itemGeneral.label                   "Geral">
 <!ENTITY itemAutoComplete.label              "Endereçar">
 <!ENTITY itemSpellCheck.label                "Ortografia">
-<!ENTITY itemSendFormat.label                "Formato de envio">
 
-<!ENTITY forwardReply.label                   "Encaminhando mensagens">
 <!ENTITY forwardMsg.label                     "Encaminhar como:">
 <!ENTITY forwardMsg.accesskey                 "h">
 <!ENTITY inline.label                         "Texto na mensagem">
@@ -25,7 +23,6 @@
 <!ENTITY restoreHTMLDefaults.label            "Restaurar o padrão">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
 
-<!ENTITY sendingMessagesHeader.label          "Editar">
 <!ENTITY spellCheck.label                     "Verificar ortografia antes de enviar">
 <!ENTITY spellCheck.accesskey                 "e">
 <!ENTITY spellCheckInline.label               "Verificar ortografia ao digitar">
@@ -39,10 +36,6 @@
 <!ENTITY autoSave.label                       "Salvar automaticamente a cada">
 <!ENTITY autoSave.accesskey                   "S">
 <!ENTITY autoSaveEnd.label                    "minutos">
-<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
-<!ENTITY wrapOutMsg.label                     "Quebrar a linha, em mensagens sem formatação, após">
-<!ENTITY wrapOutMsg.accesskey                 "Q">
-<!ENTITY char.label                           "caracteres">
 
 <!ENTITY emailCollectionPicker.label           "Ao enviar emails, criar contatos dos destinatários em:">
 <!ENTITY emailCollectionPicker.accesskey       "A">
@@ -55,10 +48,7 @@
 <!ENTITY directoriesNone.label                 "Nenhum">
 <!ENTITY editDirectories.label                 "Editar diretórios…">
 <!ENTITY editDirectories.accesskey             "E">
-<!ENTITY matchText.label                       "Se houver um contato no seu catálogo local de endereços:">
-<!ENTITY skipDirectory.label                   "Não pesquisar no diretório">
 
-<!ENTITY sendOptionsCaption.label              "Formato de envio e HTML">
 <!ENTITY sendOptionsDescription.label          "Configure o comportamento do formato de texto.">
 <!ENTITY sendOptions.label                     "Formato de envio…">
 <!ENTITY sendOptions.accesskey                 "m">

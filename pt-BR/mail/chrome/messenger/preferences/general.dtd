@@ -6,7 +6,7 @@
   causing the bottom border of the groupbox to be cut off; set this
   appropriately if your localization causes this checkbox to wrap.
 -->
-<!ENTITY alwaysCheckDefault.height  "3em">
+<!ENTITY alwaysCheckDefault.height  "3.0em">
 <!ENTITY checkNow.label             "Verificar agora">
 <!ENTITY checkNow.accesskey         "V">
 
@@ -29,7 +29,6 @@
 <!ENTITY customizeMailAlert.label         "Personalizar…">
 <!ENTITY customizeMailAlert.accesskey     "z">
 
-<!ENTITY soundNotification1.caption       "Som">
 <!ENTITY play.label                       "Testar">
 <!ENTITY play.accesskey                   "T">
 <!ENTITY systemsound.label                "Som padrão do sistema para novas mensagens">
@@ -40,3 +39,9 @@
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "Procurar…">
 <!ENTITY browse.accesskey                 "P">
+
+<!ENTITY addonsMgr.label                  "Complementos">
+<!ENTITY manageAddonsDescWin.label        "Modifique as opções dos complementos.">
+<!ENTITY manageAddonsDescUnix2.label      "Modifique as preferências dos complementos.">
+<!ENTITY manageAddons.label               "Gerenciador de complementos…">
+<!ENTITY manageAddons.accesskey           "G">

@@ -1,15 +1,14 @@
 <!ENTITY  fontsAndEncodingsDialog.title           "Fontes e codificações">
-<!ENTITY  window.width                            "39em">
-<!ENTITY  window.macWidth                         "43em">
-<!ENTITY  window.unixWidth                        "41em">
+<!ENTITY  window.width                            "39.0em">
+<!ENTITY  window.macWidth                         "43.0em">
+<!ENTITY  window.unixWidth                        "41.0em">
 
 <!ENTITY  language.label                          "Fontes padrão para:">
 <!ENTITY  language.accesskey                      "F">
 
-<!ENTITY  typefaces.label                         "Nome:">
 <!ENTITY  sizes.label                             "Tam. (pixels):">
-<!ENTITY  proportionalSize.accesskey              "e">
-<!ENTITY  monospaceSize.accesskey                 "x">
+<!ENTITY  proportionalSize.accesskey              "T">
+<!ENTITY  monospaceSize.accesskey                 "a">
 
 <!ENTITY  proportional.label                      "Proporcional:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -20,8 +19,6 @@
 <!ENTITY  sans-serif.accesskey                    "S">
 <!ENTITY  monospace.label                         "Monoespaçada:">
 <!ENTITY  monospace.accesskey                     "o">
-
-<!ENTITY  fontsize.units                          "pixels">
 
 <!ENTITY  font.langGroup.latin1                   "Ocidental">
 <!ENTITY  font.langGroup.latin2                   "Europeu central">
@@ -60,18 +57,16 @@
 <!ENTITY  useDefaultFontSerif.label               "Com serifa">
 <!ENTITY  useDefaultFontSansSerif.label           "Sem serifa">
 
-<!ENTITY  newLanguages.label                      "Novos idiomas podem ser configurados usando a seção Idiomas.">
-
 <!ENTITY  useDocumentFonts.label                  "Mensagens podem usar outras fontes">
-<!ENTITY  useDocumentFonts.accesskey              "e">
+<!ENTITY  useDocumentFonts.accesskey              "n">
 
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Para mensagens enviadas:">
-<!ENTITY sendDefaultCharset.accesskey     "m">
+<!ENTITY sendDefaultCharset.accesskey     "r">
 <!ENTITY languagesTitle1.label            "Codificações padrão">
-<!ENTITY composingDescription.label       "Definir as codificações padrão para receber e enviar mensagens.">
+<!ENTITY composingDescription.label       "Defina as codificações padrão para receber e enviar mensagens.">
 
 <!ENTITY viewDefaultCharsetList.label     "Para mensagens recebidas:">
-<!ENTITY viewDefaultCharsetList.accesskey  "a">
+<!ENTITY viewDefaultCharsetList.accesskey  "e">
 <!ENTITY replyInDefaultCharset2.label     "Quando possível, usar a codificação padrão ao responder">
 <!ENTITY replyInDefaultCharset2.accesskey "Q">

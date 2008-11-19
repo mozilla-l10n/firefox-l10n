@@ -1,12 +1,2 @@
-<!ENTITY  untitledTab              "(Nova aba)">
-<!ENTITY  newTab.label             "Nova aba">
-<!ENTITY  newTab.accesskey         "N">
 <!ENTITY  closeTab.label           "Fechar aba">
-<!ENTITY  closeTab.accesskey       "F">
-<!ENTITY  closeOtherTabs.accesskey "e">
-<!ENTITY  closeOtherTabs.label     "Fechar as outras abas">
-<!ENTITY  reloadAllTabs.label      "Recarregar todas">
-<!ENTITY  reloadAllTabs.accesskey  "t">
-<!ENTITY  reloadTab.label          "Recarregar aba">
-<!ENTITY  reloadTab.accesskey      "R">
 <!ENTITY  listAllTabs.label        "Listar todas as abas">
