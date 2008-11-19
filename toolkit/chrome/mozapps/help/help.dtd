@@ -19,6 +19,8 @@
 <!ENTITY printButton.label "Estampar">
 <!ENTITY printButton.tooltip "Estampar la pagina">
 <!ENTITY closeWindow.commandkey "W">
+<!ENTITY search.emptytext               "Recercar">
+<!ENTITY searchHeader.label             "Recercar de resultas">
 <!ENTITY toctab.label "Ensenhador">
 <!ENTITY toctab.accesskey "E">
 <!ENTITY fullZoomReduceCmd.commandkey "-">
