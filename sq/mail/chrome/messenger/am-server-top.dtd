@@ -2,13 +2,6 @@
 
 <!ENTITY securitySettings.label "Rregullime Sigurie">
 <!ENTITY serverSettings.label "Rregullime Shërbyesi">
-<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
-<!ENTITY popServer.label "Shërbyes Poste POP">
-<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
-<!ENTITY imapServer.label "Shërbyes Poste IMAP">
-<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
-<!ENTITY newsServer.label "Shërbyes Lajmesh (NNTP)">
-<!ENTITY webmail.label "Llogari WebMail">
 <!ENTITY serverType.label "Tip Shërbyesi:">
 <!ENTITY serverName.label "Emër Shërbyesi:">
 <!ENTITY serverName.accesskey "S">
@@ -50,10 +43,8 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "Shkarko mesazhe të rinj vetvetiu">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY hostname.label "Strehëemër Shërbyesi">
+
 <!ENTITY username.label "Emri Juaj për Hyrje">
-<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
-<!ENTITY popServerTitle.label "Të dhëna Shërbyesi POP">
 <!ENTITY deleteMessagePrefix.label "Kur fshij një mesazh:">
 <!ENTITY modelMoveToTrash.label "Shpjere te kjo dosje:">
 <!ENTITY modelMoveToTrash.accesskey "o">
@@ -78,9 +69,7 @@
 <!ENTITY alwaysAuthenticate.label "Kërko përherë mirëfilltësim kur lidhesh me këtë shërbyes">
 <!ENTITY alwaysAuthenticate.accesskey "w">
 <!ENTITY newsrcFilePath.label "kartelë newsrc:">
-<!ENTITY newsrcFilePath.accesskey "f">
 <!ENTITY localPath.label "Drejtori vendore:">
-<!ENTITY localPath.accesskey "L">
 <!ENTITY abbreviate.label "Trego emra grupe lajmesh tek pjesa Dosje Poste si:">
 <!ENTITY abbreviateOn.label "Emra të plotë (Për shembull, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Emra të shkurtuar (Për shembull, 'n.p.m.mail-news')">

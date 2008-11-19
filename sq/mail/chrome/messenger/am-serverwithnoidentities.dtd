@@ -6,7 +6,6 @@
 <!ENTITY emptyTrashOnExit.label "Në Dalje Zbraz Hedhurina">
 <!ENTITY emptyTrashOnExit.accesskey "x">
 <!ENTITY localPath.label "Drejtori vendore:">
-<!ENTITY localPath.accesskey "L">
 <!ENTITY localFolderPicker.label "Përzgjidhni Drejtori Vendore">
 <!ENTITY browseFolder.label "Shfletoni...">
 <!ENTITY browseFolder.accesskey "B">

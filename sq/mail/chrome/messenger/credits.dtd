@@ -1,9 +1,7 @@
-<!ENTITY credit.title     "&brandFullName; Credits">
+<!ENTITY credit.title     "Kredite mbi &brandFullName;-in">
 <!ENTITY brandMotto       "Thunderbirds Are Go!">
 <!ENTITY credit.leads     "Drejtuesa Inxhinierikë">
-<!ENTITY credit.core      "Bërthama e Zhvillimit">
-<!ENTITY credit.gecko     "Gecko Layout Engine">
-<!ENTITY credit.thanks    "Falënderime të Veçantë Për">
+<!ENTITY credit.thanks    "Falënderime të Veçanta Për">
 
 <!-- localization credits look like this: -->
 <!--
@@ -12,20 +10,9 @@
 -->
 <!ENTITY credit.translation "<h3>Përkthyes</h3><ul><li>Besnik Bleta</li></ul>">
 
-<!ENTITY credit.visuals     "Bashkërendues Hartimi Pamor">
 <!ENTITY credit.theme       "Hartim Teme">
-<!ENTITY credit.brand       "Identitet Marke">
-<!ENTITY credit.web         "Web Design">
-<!ENTITY credit.update      "Përditësim Mozilla">
-<!ENTITY credit.qalead      "Drejtues Sigurimi Cilësie">
 <!ENTITY credit.qa          "Sigurim Cilësie">
 <!ENTITY credit.build       "Montimi dhe Qarkullimi">
-<!ENTITY credit.infra       "Suport Infrastrukture">
-<!ENTITY credit.support     "Burime Suporti">
-<!ENTITY credit.manage      "Administrim Projekti">
-<!ENTITY credit.marketleads "Drejtuesa Tregtimi">
-<!ENTITY credit.market      "Tregtim">
-<!ENTITY credit.creators    "Krijuar Nga">
 <!ENTITY credit.memory      "Kujtimit të Dashur Të">
 <!ENTITY credit.poweredByGecko "Bazuar në Gecko&trade;">
 

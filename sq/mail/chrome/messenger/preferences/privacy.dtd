@@ -46,11 +46,3 @@
 <!ENTITY markAsReadOnSpam.label "Mesazhet e përcaktuar si të ishin Hedhurinë shënoji si të lexuar">
 <!ENTITY markAsReadOnSpam.accesskey "k">
 
-<!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
-<!ENTITY antiVirusCaption.label "Anti-Virus">
-<!ENTITY paswords.label         "Fjalëkalime">
-<!ENTITY emailScams.label       "Email-e Mashtrues">
-<!ENTITY junkMail.label         "Postë Hedhurinë">
-<!ENTITY itemIntrusions.label   "Ndërhyrje">
-<!ENTITY itemIntrusionsAndPasswords.label  "Ndërhyrje &amp; Fjalëkalime">
-<!ENTITY itemJunkMail.label     "Postë Hedhurinë">

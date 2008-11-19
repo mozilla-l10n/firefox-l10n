@@ -1,5 +1,4 @@
 <!ENTITY dialog.title                  "Kthim Faturash">
-<!ENTITY receiptSettings.label         "Kthe Fatura">
 <!ENTITY requestReceipt.label          "Kur dërgohen mesazhe, kërko përherë një faturë kthimi">
 <!ENTITY requestReceipt.accesskey      "W">
 <!ENTITY receiptArrive.label           "Kur mbërrin një faturë:">

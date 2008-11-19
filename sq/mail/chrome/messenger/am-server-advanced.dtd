@@ -1,6 +1,5 @@
 <!ENTITY serverAdvanced.label "Rregullime Të mëtejshme Llogarie">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY imapAdvanced.label "Rregullime Të mëtejshme Shërbyesi IMAP">
 <!ENTITY serverDirectory.label "Drejtori shërbyesi IMAP:">
 <!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "Shfaq vetëm dosje pajtimesh">
@@ -22,7 +21,6 @@
 <!ENTITY overrideNamespaces.label "Lejo shërbyesin të anashkalojë këto emërhapësira">
 <!ENTITY overrideNamespaces.accesskey "A">
 <!ENTITY pop3Desc.label "Kur shkarkohet postë pop për këtë shërbyes, përdorni dosjen vijuese për postë të re:" >
-<!ENTITY folderStorage.label "Ku të depozitohet posta">
 <!ENTITY globalInbox.label "Kuti e Përgjithshme (Llogaria Dosje Vetjake)">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Të marrët për llogarinë e këtij shërbyesi">
