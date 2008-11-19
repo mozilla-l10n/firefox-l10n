@@ -19,7 +19,7 @@
 <!ENTITY useAutoScroll.accesskey         "y">
 <!ENTITY useSmoothScrolling.label        "Używaj płynnego przewijania">
 <!ENTITY useSmoothScrolling.accesskey    "n">
-<!ENTITY checkSpelling.label             "Sprawdź pisownię podczas wprowadzania tekstu">
+<!ENTITY checkSpelling.label             "Sprawdzaj pisownię podczas wprowadzania tekstu">
 <!ENTITY checkSpelling.accesskey         "i">
 
 <!ENTITY systemDefaults.label  		 "Ustawienia systemowe">
