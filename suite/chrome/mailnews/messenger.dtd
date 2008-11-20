@@ -542,5 +542,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkBarMessage.label "&brandShortName; මෙය නිසරු ලිපියක් සේ සලකයි.">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
-<!ENTITY pageSourceCmd.label "Message Source">
-<!ENTITY pageSourceCmd.label "Message Source">
+<!ENTITY pageSourceCmd.label "පණිවිඩ මූලය">
