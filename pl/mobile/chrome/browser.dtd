@@ -13,6 +13,8 @@
 <!ENTITY search.tooltip        "Znajdź">
 <!ENTITY go.label              "Przejdź">
 <!ENTITY go.tooltip            "Przejdź">
+<!ENTITY openLocation.label    "Otwórz lokację">
+<!ENTITY openLocation.tooltip  "Otwórz lokację"> 
 <!ENTITY star.label            "Gwiazdka">
 <!ENTITY star.tooltip          "Dodaj zakładkę do strony">
 <!ENTITY bookmarks.label       "Zakładki">
