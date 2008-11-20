@@ -1,0 +1,61 @@
+<!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titleseparator " - ">
+
+<!ENTITY back.label            "后退">
+<!ENTITY back.tooltip          "后退">
+<!ENTITY forward.label         "前进">
+<!ENTITY forward.tooltip       "前进">
+<!ENTITY reload.label          "重新载入">
+<!ENTITY reload.tooltip        "重新载入">
+<!ENTITY stop.label            "停止">
+<!ENTITY stop.tooltip          "停止">
+<!ENTITY search.label          "搜索">
+<!ENTITY search.tooltip        "搜索">
+<!ENTITY go.label              "转到">
+<!ENTITY go.tooltip            "转到">
+<!ENTITY openLocation.label    "打开位置">
+<!ENTITY openLocation.tooltip  "打开位置">
+<!ENTITY star.label            "星标">
+<!ENTITY star.tooltip          "将此页加为书签">
+<!ENTITY bookmarks.label       "书签">
+<!ENTITY bookmarks.tooltip     "查看书签">
+
+<!ENTITY newtab.label          "新建标签页">
+<!ENTITY closetab.label        "关闭标签页">
+
+<!ENTITY cut.label             "剪切">
+<!ENTITY copy.label            "复制">
+<!ENTITY copylink.label        "复制链接地址">
+<!ENTITY paste.label           "粘贴">
+<!ENTITY delete.label          "删除">
+<!ENTITY selectAll.label       "全选">
+<!ENTITY noSuggestions.label   "(无建议)">
+<!ENTITY addToDictionary.label "添加至字典">
+
+<!ENTITY bookmarkName.label    "名称:">
+<!ENTITY bookmarkFolder.label  "文件夹:">
+<!ENTITY bookmarkTags.label    "标签:">
+<!ENTITY bookmarkRemove.label  "移除书签">
+
+<!ENTITY findOnCmd.label     "在当前页查找…">
+<!ENTITY findOnCmd.accesskey "在">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "再次查找">
+<!ENTITY findAgainCmd.accesskey "再">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY identity.unverifiedsite2 "此网站未提供标识信息.">
+<!ENTITY identity.connectedTo "您已连接至">
+<!-- Localization note (identity.runBy) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy "它的经营者为">
