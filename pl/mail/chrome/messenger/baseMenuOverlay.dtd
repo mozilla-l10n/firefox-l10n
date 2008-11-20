@@ -16,5 +16,5 @@
 
 <!ENTITY updateCmd.label     "Sprawdź dostępność aktualizacji…">
 <!ENTITY updateCmd.accesskey "S">
-<!ENTITY aboutCmd.label      "O programie &brandShortName;">
+<!ENTITY aboutCmd.label      "O programie &brandFullName;">
 <!ENTITY aboutCmd.accesskey  "O">

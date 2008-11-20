@@ -40,7 +40,7 @@
 <!ENTITY display.caption "Wyświetlanie">
 
 <!-- Update -->
-<!ENTITY autoCheck.label               "Automatycznie sprawdzaj dostępność aktualizacji dla:">
+<!ENTITY autoCheck.label               "Automatycznie sprawdzaj, czy dostępne są aktualizacje dla:">
 <!ENTITY enableAppUpdate.label         "programu &brandShortName;">
 <!ENTITY enableAppUpdate.accesskey     "p">
 <!ENTITY enableAddonsUpdate.label      "zainstalowanych dodatków">
@@ -51,7 +51,7 @@
 <!ENTITY modeAskMe.accesskey           "c">
 <!ENTITY modeAutomatic.label           "automatycznie pobieraj i instaluj aktualizacje">
 <!ENTITY modeAutomatic.accesskey       "a">
-<!ENTITY modeAutoAddonWarn.label       "ostrzegaj mnie, jeśli aktualizacja spowoduje zablokowanie dodatków">
+<!ENTITY modeAutoAddonWarn.label       "ostrzegaj, jeśli aktualizacja spowoduje wyłączenie dodatków">
 <!ENTITY modeAutoAddonWarn.accesskey   "o">
 <!ENTITY showUpdates.label             "Wyświetl historię aktualizacji">
 <!ENTITY showUpdates.accesskey         "W">
@@ -83,9 +83,9 @@
 <!-- Certificates -->
 <!ENTITY viewCertificates.label        "Wyświetl certyfikaty">
 <!ENTITY viewCertificates.accesskey    "W">
-<!ENTITY viewCRLs.label                "Listy CRL">
+<!ENTITY viewCRLs.label                "Listy odwołania">
 <!ENTITY viewCRLs.accesskey            "L">
 <!ENTITY validation.label              "Weryfikacja">
 <!ENTITY validation.accesskey          "e">
-<!ENTITY viewSecurityDevices.label     "Urządzenia bezpieczeństwa">
+<!ENTITY viewSecurityDevices.label     "Urządzenia zabezpieczające">
 <!ENTITY viewSecurityDevices.accesskey "U">
