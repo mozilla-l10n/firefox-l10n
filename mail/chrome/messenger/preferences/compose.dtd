@@ -1,9 +1,7 @@
 <!ENTITY itemGeneral.label                   "一般">
 <!ENTITY itemAutoComplete.label              "通訊錄">
 <!ENTITY itemSpellCheck.label                "拼字檢查">
-<!ENTITY itemSendFormat.label                "寄送格式">
 
-<!ENTITY forwardReply.label                   "轉寄郵件">
 <!ENTITY forwardMsg.label                     "轉寄郵件時:">
 <!ENTITY forwardMsg.accesskey                 "w">
 <!ENTITY inline.label                         "引入內文">
@@ -25,7 +23,6 @@
 <!ENTITY restoreHTMLDefaults.label            "回復預設值">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
 
-<!ENTITY sendingMessagesHeader.label          "編輯新郵件">
 <!ENTITY spellCheck.label                     "寄送前先檢查拼字">
 <!ENTITY spellCheck.accesskey                 "C">
 <!ENTITY spellCheckInline.label               "啟用拼字檢查">
@@ -39,10 +36,6 @@
 <!ENTITY autoSave.label                       "每隔">
 <!ENTITY autoSave.accesskey                   "u">
 <!ENTITY autoSaveEnd.label                    "分鐘自動儲存">
-<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
-<!ENTITY wrapOutMsg.label                     "純文字郵件排版右邊界:">
-<!ENTITY wrapOutMsg.accesskey                 "l">
-<!ENTITY char.label                           "字元">
 
 <!ENTITY emailCollectionPicker.label           "自動把寄信時使用的電子郵件位址加到我的:">
 <!ENTITY emailCollectionPicker.accesskey       "t">
@@ -55,10 +48,7 @@
 <!ENTITY directoriesNone.label                 "無">
 <!ENTITY editDirectories.label                 "編輯目錄...">
 <!ENTITY editDirectories.accesskey             "E">
-<!ENTITY matchText.label                       "如果通訊錄裡有符合的:">
-<!ENTITY skipDirectory.label                   "不在此目錄中搜尋">
 
-<!ENTITY sendOptionsCaption.label              "寄送選項">
 <!ENTITY sendOptionsDescription.label          "設定文字編排方式">
 <!ENTITY sendOptions.label                     "寄送選項...">
 <!ENTITY sendOptions.accesskey                 "S">

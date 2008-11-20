@@ -1,10 +1,13 @@
 <!ENTITY itemGeneral.label       "一般">
+<!ENTITY itemDisplay.label       "閱讀與顯示">
 <!ENTITY itemUpdate.label        "更新">
 <!ENTITY itemNetworking.label    "網路與磁碟空間">
 <!ENTITY itemCertificates.label  "憑證">
 
 <!-- General Settings -->
 
+<!ENTITY enableGloda.label             "啟用信件索引">
+<!ENTITY enableGloda.accesskey         "I">
 <!ENTITY showCondensedAddresses.label  "顯示通訊錄裡設定的名字">
 <!ENTITY showCondensedAddresses.accesskey "p">
 
@@ -20,24 +23,21 @@
 <!ENTITY secondsLabel.label            "秒之後">
 <!ENTITY showFolderColumns.label       "在資料夾清單中顯示額外欄位">
 <!ENTITY showFolderColumns.accesskey   "l">
-<!ENTITY rememberLastMsg.label         "記住最後選取的郵件">
-<!ENTITY rememberLastMsg.accesskey     "b">
 <!ENTITY openMsgIn.label               "開啟郵件於： ">
 <!ENTITY reuseExpRadio0.label          "新視窗">
 <!ENTITY reuseExpRadio0.accesskey      "i">
 <!ENTITY reuseExpRadio1.label          "重複使用已存在的視窗">
 <!ENTITY reuseExpRadio1.accesskey      "x">
-<!ENTITY reuseExpRadio2.label          "新分頁">
-<!ENTITY reuseExpRadio2.accesskey      "A">
-<!ENTITY connectionTimeout.label       "連線逾時:">
-<!ENTITY connectionTimeout.accesskey   "C">
-<!ENTITY connectionSeconds.label       "秒">
 <!ENTITY configEditDesc.label          "進階組態設定">
 <!ENTITY configEdit.label              "組態編輯器...">
 <!ENTITY configEdit.accesskey          "g">
 <!ENTITY returnReceiptsInfo.label      "決定 &brandShortName; 如何處理收件回執 (Return Receipts)">
 <!ENTITY showReturnReceipts.label      "收件回執...">
 <!ENTITY showReturnReceipts.accesskey  "R">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption                "讀取">
+<!ENTITY display.caption                "顯示">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "自動檢查是否有更新:">
@@ -57,9 +57,9 @@
 <!ENTITY showUpdates.accesskey          "y">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showConnections.label         "連線...">
-<!ENTITY showConnections.accesskey     "n">
-<!ENTITY proxiesInfo.label             "決定 &brandShortName; 如何連線到網路。">
+<!ENTITY showSettings.label            "設定…">
+<!ENTITY showSettings.accesskey        "n">
+<!ENTITY proxiesConfigure.label        "設定 &brandShortName; 要如何連到網路">
 <!ENTITY connectionsInfo.caption       "連線">
 <!ENTITY offlineInfo.caption           "離線模式">
 <!ENTITY offlineInfo.label             "離線模式設定">
@@ -71,8 +71,19 @@
 <!ENTITY offlineCompact.accesskey "v">
 <!ENTITY kb.label "KB">
 
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "最多使用">
+<!ENTITY useCacheBefore.accesskey        "U">
+<!ENTITY useCacheAfter.label             "MB 磁碟空間存放快取資料">
+<!ENTITY clearCacheNow.label             "立刻清除">
+<!ENTITY clearCacheNow.accesskey         "C">
+
 <!-- Certificates -->
-<!ENTITY certificatesInfo2.label        "管理憑證、廢止清冊、驗證和安全裝置。">
 <!ENTITY viewCertificates.label         "檢視憑證">
 <!ENTITY viewCertificates.accesskey     "a">
 <!ENTITY viewCRLs.label                 "廢止清冊">

@@ -29,7 +29,6 @@
 <!ENTITY customizeMailAlert.label         "自訂...">
 <!ENTITY customizeMailAlert.accesskey     "C">
 
-<!ENTITY soundNotification1.caption       "音效">
 <!ENTITY play.label                       "播放">
 <!ENTITY play.accesskey                   "P">
 <!ENTITY systemsound.label                "系統預設音效">
@@ -40,3 +39,9 @@
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "瀏覽...">
 <!ENTITY browse.accesskey                 "B">
+
+<!ENTITY addonsMgr.label                  "附加元件">
+<!ENTITY manageAddonsDescWin.label        "修改已安裝附加元件的選項">
+<!ENTITY manageAddonsDescUnix2.label      "修改已安裝附加元件的偏好設定">
+<!ENTITY manageAddons.label               "管理附加元件…">
+<!ENTITY manageAddons.accesskey           "M">

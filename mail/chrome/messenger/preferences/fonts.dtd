@@ -6,7 +6,6 @@
 <!ENTITY  language.label                          "對應此種語言:">
 <!ENTITY  language.accesskey                      "t">
 
-<!ENTITY  typefaces.label                         "字型">
 <!ENTITY  sizes.label                             "大小 (像素)">
 <!ENTITY  proportionalSize.accesskey              "e">
 <!ENTITY  monospaceSize.accesskey                 "x">
@@ -20,8 +19,6 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "等寬字型:">
 <!ENTITY  monospace.accesskey                     "M">
-
-<!ENTITY  fontsize.units                          "像素">
 
 <!ENTITY  font.langGroup.latin1                   "英文／西歐語言">
 <!ENTITY  font.langGroup.latin2                   "中歐語言">
@@ -59,8 +56,6 @@
 <!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "有襯線 (Serif)">
 <!ENTITY  useDefaultFontSansSerif.label           "無襯線 (Sans Serif)">
-
-<!ENTITY  newLanguages.label                      "新的語言設定可在語言設定面板中設定">
 
 <!ENTITY  useDocumentFonts.label                  "允許郵件指定其它字型">
 <!ENTITY  useDocumentFonts.accesskey              "o">

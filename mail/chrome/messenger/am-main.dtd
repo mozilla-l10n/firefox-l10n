@@ -3,7 +3,6 @@
 <!ENTITY accountTitle.label "帳號設定">
 <!ENTITY accountName.label "帳號名稱:">
 <!ENTITY accountName.accesskey "n">
-<!ENTITY accountNameDesc.label "帳號名稱能區別各個帳號">
 <!ENTITY identityTitle.label "身份識別">
 <!ENTITY identityDesc.label "每個帳號都可以有自己的識別資料 (identity)，這會出現於你寄出的郵件內。">
 <!ENTITY name.label "您的大名:">

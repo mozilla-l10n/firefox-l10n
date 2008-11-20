@@ -73,17 +73,17 @@
 <!ENTITY SecondEmail.label              "其它 Email:">
 <!ENTITY SecondEmail.accesskey          "i">
 <!ENTITY PreferMailFormat.label         "收信格式:">
-<!ENTITY PreferMailFormat.accesskey     "r">
+<!ENTITY PreferMailFormat.accesskey     "v">
 <!ENTITY PlainText.label                "純文字">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "未知格式">
 <!ENTITY ScreenName.label               "網路代號:">
 <!ENTITY ScreenName.accesskey           "S">
 
-<!ENTITY allowRemoteContent.label       "允許顯示 HTML 郵件中的遠端圖片。">
-<!ENTITY allowRemoteContent.accesskey   "w">
+<!ENTITY allowRemoteContent.label       "允許遠端圖片。">
+<!ENTITY allowRemoteContent.accesskey   "r">
+<!ENTITY allowRemoteContent.tooltip     "HTML 信件中可以從遠端網站來源中內嵌一些圖片。 打開這類信件將會建立連線到該外部來源。 這將可能使讀取信件的動作被追蹤。 勾選此項將允許來自此連絡人的信件使用遠端圖片。">
 
-<!ENTITY Phones.box                     "電話">
 <!ENTITY WorkPhone.label                "商務電話:">
 <!ENTITY WorkPhone.accesskey            "k">
 <!ENTITY HomePhone.label                "住家電話:">
@@ -91,15 +91,14 @@
 <!ENTITY FaxNumber.label                "傳真號碼:">
 <!ENTITY FaxNumber.accesskey            "x">
 <!ENTITY PagerNumber.label              "呼叫器:">
-<!ENTITY PagerNumber.accesskey          "P">
+<!ENTITY PagerNumber.accesskey          "g">
 <!ENTITY CellularNumber.label           "行動電話:">
 <!ENTITY CellularNumber.accesskey       "M">
 
-<!ENTITY Address.tab                    "住址">
-<!ENTITY Address.accesskey              "A">
-<!ENTITY Home.box                       "住家">
+<!ENTITY Home.tab                       "私人">
+<!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "住址:">
-<!ENTITY HomeAddress.accesskey          "d">
+<!ENTITY HomeAddress.accesskey          "A">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "縣／市:">
@@ -111,36 +110,38 @@
 <!ENTITY HomeCountry.label              "國家:">
 <!ENTITY HomeCountry.accesskey          "u">
 <!ENTITY HomeWebPage.label              "網站:">
-<!ENTITY HomeWebPage.accesskey          "W">
-<!ENTITY Work.box                       "商務">
-<!ENTITY JobTitle.label                 "職稱:">
-<!ENTITY JobTitle.accesskey             "e">
-<!ENTITY Department.label               "部門:">
-<!ENTITY Department.accesskey           "m">
-<!ENTITY Company.label                  "服務單位:">
-<!ENTITY Company.accesskey              "O">
-<!ENTITY WorkAddress.label              "地址:">
-<!ENTITY WorkAddress.accesskey          "r">
-<!ENTITY WorkAddress2.label             "">
-<!ENTITY WorkAddress2.accesskey         "">
-<!ENTITY WorkCity.label                 "縣／市:">
-<!ENTITY WorkCity.accesskey             "i">
-<!ENTITY WorkState.label                "市／鎮:">
-<!ENTITY WorkState.accesskey            "v">
-<!ENTITY WorkZipCode.label              "郵遞區號:">
-<!ENTITY WorkZipCode.accesskey          "P">
-<!ENTITY WorkCountry.label              "國家:">
-<!ENTITY WorkCountry.accesskey          "n">
-<!ENTITY WorkWebPage.label              "網站:">
-<!ENTITY WorkWebPage.accesskey          "b">
-
-<!ENTITY Other.tab                      "其它">
-<!ENTITY Other.accesskey                "h">
+<!ENTITY HomeWebPage.accesskey          "e">
 <!ENTITY Birthday.label                 "生日：">
 <!ENTITY Birthday.accesskey             "B">
 <!ENTITY Year.emptytext                 "年">
 <!ENTITY Or.value                       "或">
 <!ENTITY Age.emptytext                  "經過時間">
+
+<!ENTITY Work.tab                       "商務電話">
+<!ENTITY Work.accesskey                 "W">
+<!ENTITY JobTitle.label                 "職稱:">
+<!ENTITY JobTitle.accesskey             "i">
+<!ENTITY Department.label               "部門:">
+<!ENTITY Department.accesskey           "m">
+<!ENTITY Company.label                  "服務單位:">
+<!ENTITY Company.accesskey              "O">
+<!ENTITY WorkAddress.label              "地址:">
+<!ENTITY WorkAddress.accesskey          "A">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.label                 "縣／市:">
+<!ENTITY WorkCity.accesskey             "y">
+<!ENTITY WorkState.label                "市／鎮:">
+<!ENTITY WorkState.accesskey            "S">
+<!ENTITY WorkZipCode.label              "郵遞區號:">
+<!ENTITY WorkZipCode.accesskey          "Z">
+<!ENTITY WorkCountry.label              "國家:">
+<!ENTITY WorkCountry.accesskey          "u">
+<!ENTITY WorkWebPage.label              "網站:">
+<!ENTITY WorkWebPage.accesskey          "e">
+
+<!ENTITY Other.tab                      "其它">
+<!ENTITY Other.accesskey                "h">
 <!ENTITY Custom1.label                  "自訂 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "自訂 2:">
@@ -149,5 +150,5 @@
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "自訂 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.box                      "註解">
+<!ENTITY Notes.label                    "註記：">
 <!ENTITY Notes.accesskey                "N">

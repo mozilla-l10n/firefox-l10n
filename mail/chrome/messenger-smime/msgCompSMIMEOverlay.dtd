@@ -3,9 +3,6 @@
 <!ENTITY securityMenu.label "安全性">
 <!ENTITY securityMenu.accesskey "e">
 
-<!ENTITY menu_securityEncryptIfPossible.label "在需要時編碼">
-<!ENTITY menu_securityEncryptIfPossible.accesskey "p">
-
 <!ENTITY menu_securityEncryptRequire.label "加密此郵件">
 <!ENTITY menu_securityEncryptRequire.accesskey "E">
 

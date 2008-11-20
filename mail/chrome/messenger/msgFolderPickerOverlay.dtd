@@ -36,14 +36,5 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Labels -->
-<!ENTITY subscribechoosethis.label      "選擇這個新聞群組伺服器">
-<!ENTITY subscribeclickhere.label      "按這裡以選擇新聞群組伺服器">
 <!ENTITY newfolderchoosethis.label      "按這裡回到上層">
-<!ENTITY newfolderclickhere.label      "按這裡選擇">
-<!ENTITY renamefolderchoosethis.label      "選取這個資料夾">
-<!ENTITY renamefolderclickhere.label      "選擇資料夾">
-<!ENTITY filemessageschoosethis.label      "選取這個資料夾">
-<!ENTITY filemessagesclickhere.label      "選擇資料夾">
-<!ENTITY chooseaccountclickhere.label      "按這裡以選擇帳號">
-<!ENTITY choosefolderclickhere.label      "按這裡以選擇資料夾">
-<!ENTITY chooseserverToDeferTo.label      "按這裡選取要用來儲存郵件的帳號">
+<!ENTITY filemessageschoosethis.label   "選取這個資料夾">

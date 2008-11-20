@@ -1,12 +1,2 @@
-<!ENTITY  untitledTab              "(無標題)">
-<!ENTITY  newTab.label             "新分頁">
-<!ENTITY  newTab.accesskey         "N">
 <!ENTITY  closeTab.label           "關閉分頁">
-<!ENTITY  closeTab.accesskey       "C">
-<!ENTITY  closeOtherTabs.accesskey "o">
-<!ENTITY  closeOtherTabs.label     "關閉其他分頁">
-<!ENTITY  reloadAllTabs.label      "重新載入所有分頁">
-<!ENTITY  reloadAllTabs.accesskey  "a">
-<!ENTITY  reloadTab.label          "重新載入分頁">
-<!ENTITY  reloadTab.accesskey      "R">
 <!ENTITY  listAllTabs.label        "列出所有分頁">

@@ -2,6 +2,6 @@
 <!ENTITY credits.label          "感謝">
 <!ENTITY credits.accesskey      "C">
 <!ENTITY aboutLink.label        "&lt; 關於 &brandFullName;">
-<!ENTITY aboutLink.accesskey    "a">
+<!ENTITY aboutLink.accesskey    "A">
 <!ENTITY aboutVersion           "版本">
 <!ENTITY copyrightText          "&#169;1998-2006 Contributors. All Rights Reserved. Mozilla Thunderbird and the Thunderbird logos are trademarks of the Mozilla Foundation.  All rights reserved.">

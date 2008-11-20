@@ -1,5 +1,4 @@
 <!ENTITY dialog.title                  "收件回執">
-<!ENTITY receiptSettings.label         "收件回執">
 <!ENTITY requestReceipt.label          "寄送郵件時一律要求收件回執 (Receipt)">
 <!ENTITY requestReceipt.accesskey      "W">
 <!ENTITY receiptArrive.label           "收到回執時:">

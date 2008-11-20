@@ -5,7 +5,6 @@
 <!ENTITY offlineNotDownload.label "郵件或文章大小超過:">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY kb.label "KB">
-<!ENTITY days.label "天">
 <!ENTITY daysOld.label "天前">
 <!ENTITY message.label "封">
 <!ENTITY nntpNotDownloadRead.label "文章內文">

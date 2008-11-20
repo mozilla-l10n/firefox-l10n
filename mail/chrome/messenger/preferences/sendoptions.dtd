@@ -9,7 +9,6 @@
 <!ENTITY sendHTML.accesskey           "S">
 <!ENTITY sendBoth.label               "同時送出純文字與 HTML 格式">
 <!ENTITY sendBoth.accesskey           "e">
-<!ENTITY receiveHTML.label            "如果你確定某個收件者可以收 HTML 格式郵件，請將他在通訊錄名片卡中的「收信格式」設定為「HTML」">
 <!ENTITY override.label               "註: 請用通訊錄指定個別收件者可接收的郵件格式。">
 
 <!ENTITY domaindesc.label             "當你寄信到下列網域時，&brandShortName; 會自動送出相對應的格式。">
@@ -20,22 +19,13 @@
 <!ENTITY AddHtmlDomain.label          "新增…">
 <!ENTITY AddHtmlDomain.accesskey      "A">
 <!ENTITY AddPlainText.label           "新增…">
-<!ENTITY AddPlainText.accesskey       "d">
+<!ENTITY AddPlainText.accesskey       "A">
 <!ENTITY DeleteHtmlDomain.label       "刪除">
-<!ENTITY DeleteHtmlDomain.accesskey   "l">
+<!ENTITY DeleteHtmlDomain.accesskey   "D">
 <!ENTITY DeletePlainText.label        "刪除">
-<!ENTITY DeletePlainText.accesskey    "t">
+<!ENTITY DeletePlainText.accesskey    "D">
 
 <!ENTITY add.htmltitle                "增加 HTML 格式網域名稱">
 <!ENTITY add.htmldomain               "HTML 格式網域名稱:">
-<!ENTITY add.htmldomain.accesskey     "D">
 <!ENTITY add.plaintexttitle           "增加純文字網域名稱">
 <!ENTITY add.plaintextdomain          "純文字網域名稱:">
-<!ENTITY add.plaintext.accesskey      "d">
-
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY domainnameError.title        "網域名稱錯誤">
-<!ENTITY duplicationError.label       "網域 @string@ 已存在列表中。">
-
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY dualEntryError.label         "同一個網域不可以同時出現在 HTML 格式與純文字網域列表中，網域 @string@ 已存在。">

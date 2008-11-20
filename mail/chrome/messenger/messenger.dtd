@@ -5,15 +5,12 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "資料夾...">
 <!ENTITY newFolderCmd.accesskey "F">
-<!ENTITY newTabCmd.label "新分頁">
-<!ENTITY newTabCmd.accesskey "T">
 <!ENTITY closeTabCmd.label "關閉分頁">
 <!ENTITY closeTabCmd.accesskey "e">
 <!ENTITY newVirtualFolderCmd.label "即時搜尋...">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newAccountCmd.label "帳號...">
 <!ENTITY newAccountCmd.accesskey "A">
-<!ENTITY openMessageMenu.label "開啟">
 <!ENTITY openMessageFileCmd.label "開啟已存郵件...">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "附件">
@@ -44,7 +41,7 @@
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "壓實重整郵件匣">
-<!ENTITY compactFolder.accesskey    "F">
+<!ENTITY compactFolders.accesskey    "F">
 <!ENTITY emptyTrashCmd.label "清空垃圾桶">
 <!ENTITY emptyTrashCmd.accesskey    "y">
 <!ENTITY importCmd.label "匯入...">
@@ -66,7 +63,6 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "預覽列印">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "頁面設定...">
 <!ENTITY printSetupCmd.accesskey "u">
 
@@ -130,8 +126,6 @@
 <!ENTITY messagePaneWide.accesskey "W">
 <!ENTITY messagePaneVertical.label "垂直檢視">
 <!ENTITY messagePaneVertical.accesskey "V">
-<!ENTITY threadPaneWide.label "水平清單檢視">
-<!ENTITY threadPaneWide.accesskey "i">
 <!ENTITY showMessageCmd.label "預覽面板">
 <!ENTITY showMessageCmd.accesskey "M">
 
@@ -187,15 +181,12 @@
 <!ENTITY sortUnthreaded.accesskey "h">
 <!ENTITY groupBySort.label "依排序分組閱讀">
 <!ENTITY groupBySort.accesskey "G">
-<!ENTITY groupBySortCmd.key "G">
 <!ENTITY msgsMenu.label "郵件">
 <!ENTITY msgsMenu.accesskey "M">
 <!ENTITY threads.label "主題郵件串">
 <!ENTITY threads.accesskey "e">
 <!ENTITY allMsgsCmd.label "全部">
 <!ENTITY allMsgsCmd.accesskey "A">
-<!ENTITY expandOrCollapseMenu.label "展開／收起">
-<!ENTITY expandOrCollapseMenu.accesskey "x">
 <!ENTITY expandAllThreadsCmd.label "展開所有郵件串">
 <!ENTITY expandAllThreadsCmd.accesskey "E">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -226,31 +217,39 @@
 <!ENTITY bodyAsPlaintext.accesskey "P">
 <!ENTITY viewAttachmentsInlineCmd.label "直接檢視附件">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "a">
-<!ENTITY reloadCmd.label "重新載入">
-<!ENTITY reloadCmd.accesskey "R">
-<!ENTITY stopCmd.label "停止">
-<!ENTITY stopCmd.accesskey "S">
-<!ENTITY textZoomEnlargeCmd.label "放大">
-<!ENTITY textZoomEnlargeCmd.accesskey "I">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
-<!ENTITY textZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY textZoomReduceCmd.label "縮小">
-<!ENTITY textZoomReduceCmd.accesskey "D">
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomResetCmd.commandkey "0">
-<!ENTITY textZoomResetCmd.label     "標準">
-<!ENTITY textZoomResetCmd.accesskey "N">
-<!ENTITY textSize.label             "文字大小">
-<!ENTITY textSize.accesskey             "x">
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY fullZoomEnlargeCmd.label       "放大">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY fullZoomReduceCmd.label        "縮小">
+<!ENTITY fullZoomReduceCmd.accesskey    "o">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
+<!ENTITY fullZoomResetCmd.label         "重設">
+<!ENTITY fullZoomResetCmd.accesskey     "R">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY fullZoomToggleCmd.label        "只縮放文字">
+<!ENTITY fullZoomToggleCmd.accesskey    "T">
+<!ENTITY fullZoom.label                 "縮放">
+<!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY pageSourceCmd.label "郵件原始內容">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
 
 <!-- Search Menu -->
-<!ENTITY searchMenu.label "搜尋">
-<!ENTITY searchMenu.accesskey "S">
-
 <!ENTITY findMenu.label "搜尋">
 <!ENTITY findMenu.accesskey "F">
 <!ENTITY findCmd.label "在郵件內文中尋找...">
@@ -282,8 +281,8 @@
 <!ENTITY nextStarredMsgCmd.label "已加星號郵件">
 <!ENTITY nextStarredMsgCmd.accesskey "S">
 <!ENTITY nextUnreadThread.label "未讀主題">
-<!ENTITY nextUnreadThreadCmd.accesskey "T">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "T">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "上一封">
 <!ENTITY prevMenu.accesskey "P">
 <!ENTITY prevMsgCmd.label "郵件">
@@ -332,14 +331,14 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "依郵件建立篩選條件...">
 <!ENTITY createFilter.accesskey "a">
-<!ENTITY moveMsgMenu.label "移動">
-<!ENTITY moveMsgMenu.accesskey "M">
+<!ENTITY moveMsgToMenu.label "移至">
+<!ENTITY moveMsgToMenu.accesskey "M">
 <!ENTITY moveCopyMsgRecentMenu.label "最近開啟">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY copyMessageLocation.label "複製郵件地址">
 <!ENTITY copyMessageLocation.accesskey "M">
-<!ENTITY copyMsgMenu.label "複製">
-<!ENTITY copyMsgMenu.accesskey "C">
+<!ENTITY copyMsgToMenu.label "複製到">
+<!ENTITY copyMsgToMenu.accesskey "C">
 <!ENTITY moveToFolderAgain.label "再次複製">
 <!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "m">
@@ -373,8 +372,6 @@
 <!ENTITY markAsReadCmd.label "已讀">
 <!ENTITY markAsReadCmd.accesskey "R">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "未讀">
-<!ENTITY markAsUnreadCmd.accesskey "U">
 <!ENTITY markThreadAsReadCmd.label "主題全部已讀">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -401,7 +398,6 @@
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "視窗">
-<!ENTITY windowMenu.accesskey "W">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "工具">
@@ -446,7 +442,6 @@
 <!ENTITY printButton.label "列印">
 <!ENTITY stopButton.label "停止">
 <!ENTITY throbberItem.title "動態瀏覽指示">
-<!ENTITY updatesItem.title  "更新">
 <!ENTITY junkButton.label "垃圾信">
 <!ENTITY notJunkButton.label "非垃圾信">
 <!ENTITY addressBookButton.label "通訊錄">
@@ -458,7 +453,6 @@
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "進階郵件搜尋">
-<!ENTITY clearButton.tooltip "清除搜尋條件並顯示全部郵件">
 <!ENTITY getMsgButton.tooltip "下載新郵件">
 <!ENTITY getAllNewMsgCmd.label "下載所有新郵件">
 <!ENTITY getAllNewMsgCmd.accesskey "G">
@@ -532,8 +526,6 @@
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "姓名或 Email 含:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
-<!ENTITY clearButton.label "清除">
-<!ENTITY clearButton.accesskey "C">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "主旨">
@@ -556,7 +548,6 @@
 <!ENTITY statusColumn.label "狀態">
 <!ENTITY sizeColumn.label "大小">
 <!ENTITY junkStatusColumn.label "垃圾信">
-<!ENTITY linesColumn.label "行數">
 <!ENTITY unreadColumn.label "未讀">
 <!ENTITY totalColumn.label "全部">
 <!ENTITY readColumn.label "已讀">
@@ -617,8 +608,6 @@
 <!ENTITY contextPrint.accesskey "P">
 <!ENTITY contextPrintPreview.label "預覽列印">
 <!ENTITY contextPrintPreview.accesskey "v">
-<!ENTITY contextDelete.label "刪除">
-<!ENTITY contextDelete.accesskey "D">
 
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "垃圾郵件">
@@ -652,8 +641,6 @@
 <!ENTITY CopyEmailAddress.accesskey "C">
 <!ENTITY CreateFilterFrom.label "建立篩選器從…">
 <!ENTITY CreateFilterFrom.accesskey "F">
-<!ENTITY BlockAddress.label "阻擋地址">
-<!ENTITY BlockAddress.accesskey "A">
 <!ENTITY reportPhishingURL.label "回報詐騙郵件">
 <!ENTITY reportPhishingURL.accesskey "o">
 

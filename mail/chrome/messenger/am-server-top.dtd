@@ -2,13 +2,6 @@
 
 <!ENTITY securitySettings.label "安全設定">
 <!ENTITY serverSettings.label "伺服器設定">
-<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
-<!ENTITY popServer.label "POP 郵件伺服器">
-<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
-<!ENTITY imapServer.label "IMAP 郵件伺服器">
-<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
-<!ENTITY newsServer.label "新聞群組伺服器 (NNTP)">
-<!ENTITY webmail.label "Web Mail 帳號">
 <!ENTITY serverType.label "伺服器類型:">
 <!ENTITY serverName.label "伺服器名稱:">
 <!ENTITY serverName.accesskey "S">
@@ -50,10 +43,7 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "自動下載所有新郵件或文章">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY hostname.label "伺服器主機名稱">
 <!ENTITY username.label "你的帳號名稱">
-<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
-<!ENTITY popServerTitle.label "POP 伺服器資訊">
 <!ENTITY deleteMessagePrefix.label "當我刪除郵件時:">
 <!ENTITY modelMoveToTrash.label "丟到垃圾桶中">
 <!ENTITY modelMoveToTrash.accesskey "o">
