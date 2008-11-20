@@ -19,4 +19,5 @@
 <!ENTITY serverName.label "Emër Shërbyesi: ">
 <!ENTITY serverPort.label "Portë: ">
 <!ENTITY userName.label   "Emër Përdoruesi: ">
-<!ENTITY useSecureConnection.label   "Lidhje e Sigurtë: ">
+<!ENTITY useSecureConnection.label   "Lidhje e Sigurt: ">
+<!ENTITY useSecureAuthentication.label   "Mirëfilltësim i Sigurt: ">

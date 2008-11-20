@@ -30,3 +30,4 @@
 <!ENTITY place.accesskey                      "p">
 <!ENTITY belowText.label                      "nën citimin (e këshilluar)">
 <!ENTITY aboveText.label                      "nën përgjigjen time (mbi citim)">
+<!ENTITY directoriesNone.label     "Asnjë">

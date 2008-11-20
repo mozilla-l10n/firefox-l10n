@@ -1,12 +1,20 @@
-
 <!ENTITY addressbookPicker.label            "Libër Vendndodhjesh:">
+<!ENTITY addressbookPicker.accesskey        "l">
 <!ENTITY searchInput.label                  "Kërko Për:">
+<!ENTITY searchInput.accesskey              "k">
 <!ENTITY SearchNameOrEmail.label            "Emër ose Email">
 
+<!ENTITY deleteAddrBookCard.label           "Fshije">
+<!ENTITY addrBookCardProperties.label       "Veti">
 <!ENTITY addtoToFieldMenu.label             "Shto te fusha Për">
 <!ENTITY addtoCcFieldMenu.label             "Shto te fusha Cc">
 <!ENTITY addtoBccFieldMenu.label            "Shto te fusha Bcc">
 
 <!ENTITY toButton.label                     "Shto te Për:">
+<!ENTITY toButton.accesskey                 "A">
 <!ENTITY ccButton.label                     "Shto te Cc:">
+<!ENTITY ccButton.accesskey                 "c">
+<!ENTITY bccButton.label                    "Shto te Bcc:">
+<!ENTITY bccButton.accesskey                "B">
+
 

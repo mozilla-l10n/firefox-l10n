@@ -1,14 +1,12 @@
 
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 <!ENTITY pref.ldap.window.title    "Shërbyesa LDAP Drejtorish">
-<!ENTITY directory.label           "Shto një drejtori">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Shërbyes Drejtorish LDAP:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 <!ENTITY directoriesText.label     "Përzgjidhni një Shërbyes LDAP Drejtorish:">
 <!ENTITY directoriesText.accesskey "S">
-<!-- LOCALIZATION NOTE (autocomplete.title) : do not translate "LDAP" in below line -->
-<!ENTITY autocomplete.title        "Shërbyes LDAP Drejtorish">
+
 <!ENTITY addDirectory.label        "Shto">
 <!ENTITY addDirectory.accesskey    "a">
 <!ENTITY editDirectory.label       "Përpunoni">
