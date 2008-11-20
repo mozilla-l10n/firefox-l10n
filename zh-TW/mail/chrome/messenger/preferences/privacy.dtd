@@ -43,12 +43,3 @@
 <!ENTITY antiVirus.intro      "&brandShortName; 可讓防毒軟體在郵件存入您的電腦前先檢查來信是否有問題。">
 <!ENTITY antiVirus.label      "允許防毒軟體隔離檢查與處理個別新郵件">
 <!ENTITY antiVirus.accesskey  "l">
-
-<!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
-<!ENTITY antiVirusCaption.label "防毒保護">
-<!ENTITY paswords.label         "密碼">
-<!ENTITY emailScams.label       "郵件詐騙">
-<!ENTITY junkMail.label         "垃圾郵件">
-<!ENTITY itemIntrusions.label   "入侵偵測">
-<!ENTITY itemIntrusionsAndPasswords.label  "入侵偵測與密碼">
-<!ENTITY itemJunkMail.label     "垃圾郵件">

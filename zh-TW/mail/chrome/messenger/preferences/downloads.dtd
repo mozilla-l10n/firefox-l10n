@@ -3,8 +3,6 @@
 <!ENTITY alwaysAsk.accesskey          "A">
 <!ENTITY neverAsk.label               "全部附件儲存到:">
 <!ENTITY neverAsk.accesskey           "S">
-<!ENTITY desktop.label                "桌面">
-<!ENTITY downloads.label              "我的下載目錄">
 <!ENTITY chooseFolderWin.label        "瀏覽...">
 <!ENTITY chooseFolderWin.accesskey    "B">
 <!ENTITY chooseFolderMac.label        "選取...">
@@ -15,10 +13,3 @@
 <!ENTITY configureActions.label       "檢視與變更處理方式...">
 <!ENTITY configureActions.accesskey   "V">
 <!ENTITY fileTypesDescription.label   "&brandShortName; 可自動儲存或開啟特定類型的附件。">
-
-<!ENTITY fileTypeColName.label        "檔案類型">
-<!ENTITY fileHandlerColName.label     "應用程式">
-<!ENTITY editFileHandler.label        "變更處理方式...">
-<!ENTITY editFileHandler.accesskey    "a">
-<!ENTITY removeFileHandler.label      "移除">
-<!ENTITY removeFileHandler.accesskey  "R">

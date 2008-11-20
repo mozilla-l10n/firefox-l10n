@@ -1,8 +1,6 @@
 <!ENTITY itemFormatting.label             "格式化">
 <!ENTITY itemTags.label                   "標籤">
-<!ENTITY itemFonts.label                  "字型">
 
-<!ENTITY textBegin.label                  "引入內文顯示方式">
 <!ENTITY style.label                      "樣式:">
 <!ENTITY style.accesskey                  "y">
 <!ENTITY regularStyle.label               "正常">
@@ -19,12 +17,10 @@
 <!ENTITY displayWidth.label               "純文字郵件">
 <!ENTITY plainText.label                  "使用這種字型:">
 <!ENTITY displayText.label                "顯示引用的純文字郵件時:">
-<!ENTITY viewingPlainText.label            "當顯示純文字郵件時:">
 <!ENTITY fixedWidth.label                 "固定寬度字型">
 <!ENTITY fixedWidth.accesskey             "x">
 <!ENTITY variableWidth.label              "變動寬度字型">
 <!ENTITY variableWidth.accesskey          "V">
-<!ENTITY readingMessagesHeader.label      "收信">
 <!ENTITY colors.label                     "色彩">
 <!ENTITY overrideColors.label             "用下列色彩顯示郵件:">
 <!ENTITY textColor.label                  "文字顏色:">

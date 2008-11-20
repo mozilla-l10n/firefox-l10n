@@ -52,7 +52,6 @@
 <!ENTITY retention.label "保存方式">
 <!ENTITY retentionUseDefault.label  "使用伺服器預設值">
 <!ENTITY retentionUseDefault.accesskey "d">
-<!ENTITY days.label "天">
 <!ENTITY daysOld.label "天前">
 <!ENTITY message.label "封">
 <!ENTITY retentionCleanup.label "為了減少佔用的磁碟空間，舊郵件或文章可以永遠刪除">
@@ -76,18 +75,15 @@
 
 <!ENTITY selectofflineNewsgroup.check.label      "離線閱讀此新聞群組">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "o">
-<!ENTITY UseDefaultofflineNewsgroup.check.label  "使用預設帳號設定">
 <!ENTITY offlineNewsgroup.button.label           "立刻下載">
 <!ENTITY offlineNewsgroup.button.accesskey       "D">
 
-<!ENTITY folderProps.information.label           "資訊:">
 <!ENTITY folderProps.name.label                  "名稱:">
 <!ENTITY folderProps.name.accesskey              "N">
 <!ENTITY folderProps.location.label              "位址:">
 <!ENTITY folderProps.location.accesskey          "L">
 
 <!ENTITY folderSharingTab.label                  "分享">
-<!ENTITY privilegesDesc.label                    "與網路上其它使用者共享此目錄和其它目錄，並顯示及設定權限">
 <!ENTITY privileges.button.label                 "權限...">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "你有下列權限:">

@@ -35,12 +35,6 @@
 <!ENTITY printAddressBook.label                         "列印通訊錄...">
 <!ENTITY printAddressBook.accesskey                     "A">
 
-<!ENTITY quitApplicationCmdWin.label                    "結束"> 
-<!ENTITY quitApplicationCmdWin.accesskey                "x">
-<!ENTITY quitApplicationCmd.label                       "離開"> 
-<!ENTITY quitApplicationCmd.accesskey                   "Q">
-<!ENTITY quitApplicationCmd.key "Q">
-
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "編輯">
 <!ENTITY editMenu.accesskey                             "E">
@@ -60,7 +54,6 @@
 <!ENTITY pasteCmd.key                                   "V">
 <!ENTITY pasteCmd.accesskey                             "P">
 <!ENTITY deleteCmd.label                                "刪除">
-<!ENTITY deleteCmd.key                                  "D">
 <!ENTITY deleteCmd.accesskey                            "D">
 <!ENTITY deleteAbCmd.label                              "刪除通訊錄">
 <!ENTITY deleteCardCmd.label                            "刪除名片">
@@ -118,7 +111,6 @@
 <!ENTITY exportCmd.label                                "匯出...">
 <!ENTITY exportCmd.accesskey                            "E">
 <!ENTITY preferencesCmd.label                           "選項...">
-<!ENTITY preferencesCmd.key                             "O">
 <!ENTITY preferencesCmd.accesskey                       "O">
 <!ENTITY preferencesCmdUnix.label                       "偏好設定">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">

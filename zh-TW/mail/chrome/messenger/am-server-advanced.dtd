@@ -1,6 +1,4 @@
 <!ENTITY serverAdvanced.label "進階帳號設定">
-<!-- LOCALIZATION NOTE (imapAdvanced.label): Do not translate "IMAP" -->
-<!ENTITY imapAdvanced.label "進階 IMAP 伺服器設定">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP 伺服器目錄:">
 <!ENTITY serverDirectory.accesskey "d">
@@ -23,7 +21,6 @@
 <!ENTITY overrideNamespaces.label "允許伺服器強制蓋掉這些命名空間">
 <!ENTITY overrideNamespaces.accesskey "A">
 <!ENTITY pop3Desc.label "由此伺服器下載郵件後存入下列郵件匣:" >
-<!ENTITY folderStorage.label "要把郵件存放在">
 <!ENTITY globalInbox.label "全域收件匣 (本機郵件匣帳號) ">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "此伺服器帳號的「收件匣」">

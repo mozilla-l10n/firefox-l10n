@@ -6,13 +6,9 @@
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "將回信與原信放在同一郵件匣 (像 Gmail 那樣)">
 <!ENTITY fccReplyFollowsParent.accesskey "c">
-<!ENTITY chooseFolderButton.label "選擇郵件匣...">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "寄送密件副本 (Bcc) 至:">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY specialFolderTitle.label "特殊郵件匣">
-<!ENTITY draftMailFolder.label "保留郵件草稿到:">
-<!ENTITY templateMailFolder.label "保留郵件範本到:">
 <!ENTITY saveMessageDlg.label "儲存郵件時顯示確認視窗">
 <!ENTITY saveMessageDlg.accesskey "w">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
