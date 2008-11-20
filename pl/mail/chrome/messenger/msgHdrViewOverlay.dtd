@@ -47,14 +47,13 @@
 <!ENTITY replyToField2.label      "odp. do ">
 
 <!ENTITY subjectField2.label      "temat ">
-<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
 <!ENTITY ccField2.label           "kopia ">
 <!ENTITY bccField2.label          "ukryta kopia ">
 <!ENTITY newsgroupsField2.label   "grupy dyskusyjne ">
 <!ENTITY followupToField2.label   "kontynuacja na ">
 <!ENTITY tagsHdr2.label           "etykiety ">
 <!ENTITY dateField2.label         "data ">
-<!ENTITY userAgentField2.label    "program pocztowy ">
+<!ENTITY userAgentField2.label    "program ">
 <!ENTITY referencesField2.label   "odniesienia ">
 <!ENTITY messageIdField2.label    "ID wiadomości ">
 <!ENTITY inReplyToField2.label    "w odpowiedzi na ">
