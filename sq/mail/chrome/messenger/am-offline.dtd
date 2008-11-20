@@ -1,11 +1,15 @@
+<!ENTITY syncGroupTitle.label "Njëkohësim Mesazhesh">
+<!ENTITY offlineSelectNntp.accesskey "N">
+<!ENTITY offlineImapAdvancedOffline.label "Të Mëtejshme…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "M">
+<!ENTITY allFoldersOffline.label "Mesazhet e kësaj llogarie mbaji në këtë kompjuter">
+<!ENTITY allFoldersOffline.accesskey "b">
+
 <!ENTITY doNotDownloadPop3Movemail.label "Për të kursyer hapësirë disku, mos shkarko:">
 <!ENTITY doNotDownload.label "Për të kursyer hapësirë disku, mos shkarko për përdorim si i palidhur:">
-<!ENTITY offlineNewFolder.label "Kur krijoj dosje të reja, përzgjidhi për përdorim si i palidhur">
-<!ENTITY offlineNewFolder.accesskey "c">
 <!ENTITY offlineNotDownload.label "Mesazhe më të mëdhenj se">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY kb.label "KB">
-<!ENTITY days.label "ditë">
 <!ENTITY daysOld.label "ditë i vjetër">
 <!ENTITY message.label "mesazhe">
 <!ENTITY nntpNotDownloadRead.label "Lexo mesazhe">
@@ -24,10 +28,4 @@
 <!ENTITY nntpRemoveBody.label "Vetëm përmbajtje mesazhesh më të vjetër se">
 <!ENTITY nntpRemoveBody.accesskey "O">
 <!ENTITY offlineSelectNntp.label "Përzgjidhni grupe lajmesh për përdorim si i  palidhur...">
-<!ENTITY offlineSelectImap.label "Përzgjidhni dosje për përdorim si i palidhur...">
-<!ENTITY offlineSelect.accesskey "S">
-<!ENTITY offlineDesc.label "Mund të shkarkoni lokalisht mesazhet tuaj që kështu të jenë të passhëm kur jeni duke punuar i palidhur.">
-<!ENTITY makeInboxMsgsAvailable.label "Bëji të mundshëm mesazhet tek Të Marrët e mij kur jam duke punuar i palidhur">
-<!ENTITY makeInboxMsgsAvailable.accesskey "b">
-<!ENTITY offlineGroupTitle.label "I palidhur">
 <!ENTITY diskspaceGroupTitle.label "Vend në Disk">

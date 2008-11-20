@@ -1,0 +1,9 @@
+<!ENTITY defaultClient.title  "Klient Parazgjedhje">
+<!ENTITY defaultClient.intro  "Përdore &brandShortName;-in si klientin parazgjedhje për:">
+
+<!ENTITY email.label "E-Mail">
+<!ENTITY newsgroups.label "Grupe Lajmesh">
+<!ENTITY rss.label "Prurje RSS">
+
+<!ENTITY checkOnStartup.label "Bëje përherë këtë kontroll kur niset &brandShortName;-i">
+<!ENTITY checkOnStartup.accesskey "B">
