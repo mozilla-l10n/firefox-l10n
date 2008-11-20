@@ -9,7 +9,7 @@
 <!ENTITY asAttachment.label     "jako załącznik">
 <!ENTITY asAttachment.accesskey "a">
 <!ENTITY addExtension.label     "dodawaj rozszerzenia do nazw plików załączników">
-<!ENTITY addExtension.accesskey "r">
+<!ENTITY addExtension.accesskey "d">
 
 <!ENTITY htmlComposeHeader.label       "HTML">
 <!ENTITY font.label                    "Czcionka:">
@@ -19,36 +19,36 @@
 <!ENTITY fontColor.label               "Kolor tekstu:">
 <!ENTITY fontColor.accesskey           "K">
 <!ENTITY bgColor.label                 "Kolor tła:">
-<!ENTITY bgColor.accesskey             "l">
+<!ENTITY bgColor.accesskey             "t">
 <!ENTITY restoreHTMLDefaults.label     "Przywróć domyślne">
 <!ENTITY restoreHTMLDefaults.accesskey "y">
 
 <!ENTITY spellCheck.label              "Sprawdzaj pisownię przed wysłaniem wiadomości">
-<!ENTITY spellCheck.accesskey          "z">
+<!ENTITY spellCheck.accesskey          "p">
 <!ENTITY spellCheckInline.label        "Sprawdzaj pisownię w trakcie tworzenia wiadomości">
-<!ENTITY spellCheckInline1.accesskey   "n">
+<!ENTITY spellCheckInline1.accesskey   "r">
 <!ENTITY languagePopup.label           "Słownik:">
 <!ENTITY languagePopup.accessKey       "S">
 <!ENTITY downloadDictionaries.label    "Pobierz więcej słowników">
 
 <!ENTITY warnOnSendAccelKey.label      "Wymagaj potwierdzenia, gdy do wysłania wiadomości użyty został skrót klawiaturowy">
-<!ENTITY warnOnSendAccelKey.accesskey  "i">
+<!ENTITY warnOnSendAccelKey.accesskey  "W">
 <!ENTITY autoSave.label                "Zapisuj stan wiadomości co">
-<!ENTITY autoSave.accesskey            "u">
+<!ENTITY autoSave.accesskey            "Z">
 <!ENTITY autoSaveEnd.label             "minut">
 
 <!ENTITY emailCollectionPicker.label     "Zapisuj adresy e-mail z poczty wychodzącej w książce:">
-<!ENTITY emailCollectionPicker.accesskey "t">
+<!ENTITY emailCollectionPicker.accesskey "Z">
 <!ENTITY addressingTitle.label           "Automatyczne uzupełnianie adresu">
 <!ENTITY autocompleteText.label          "Podczas adresowania wiadomości wyszukuj pasujące pozycje:">
 <!ENTITY addressingEnable.label          "w lokalnych książkach adresowych">
-<!ENTITY addressingEnable.accesskey      "h">
+<!ENTITY addressingEnable.accesskey      "w">
 <!ENTITY directories.label               "na serwerze usług katalogowych:">
-<!ENTITY directories.accesskey           "o">
+<!ENTITY directories.accesskey           "n">
 <!ENTITY directoriesNone.label           "brak">
 <!ENTITY editDirectories.label           "Edytuj katalogi…">
 <!ENTITY editDirectories.accesskey       "E">
 
 <!ENTITY sendOptionsDescription.label "Ustawienia automatycznego formatowania wysyłanych wiadomości">
 <!ENTITY sendOptions.label            "Opcje wysyłania…">
-<!ENTITY sendOptions.accesskey        "S">
+<!ENTITY sendOptions.accesskey        "O">

@@ -24,7 +24,7 @@
 <!ENTITY colors.label               "Kolory">
 <!ENTITY overrideColors.label       "Podczas wyświetlania wiadomości używaj następujących kolorów:">
 <!ENTITY  textColor.label           "Kolor tekstu:">
-<!ENTITY  textColor.accesskey       "o">
+<!ENTITY  textColor.accesskey       "u">
 <!ENTITY  backgroundColor.label     "Kolor tła:">
 <!ENTITY  backgroundColor.accesskey "a">
 

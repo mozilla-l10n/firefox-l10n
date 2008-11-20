@@ -1,12 +1,12 @@
 <!ENTITY askOnSave.label            "Otwierając zawarte w wiadomościach załączniki:">
 <!ENTITY alwaysAsk.label            "Pytaj, gdzie zapisać każdy plik">
-<!ENTITY alwaysAsk.accesskey        "a">
+<!ENTITY alwaysAsk.accesskey        "g">
 <!ENTITY neverAsk.label             "Zapisuj wszystkie załączniki w folderze:">
-<!ENTITY neverAsk.accesskey         "s">
+<!ENTITY neverAsk.accesskey         "Z">
 <!ENTITY chooseFolderWin.label      "Przeglądaj…">
 <!ENTITY chooseFolderWin.accesskey  "P">
 <!ENTITY chooseFolderMac.label      "Wybierz…">
-<!ENTITY chooseFolderMac.accesskey  "W">
+<!ENTITY chooseFolderMac.accesskey  "r">
 
 <!ENTITY fileTypes.label            "Czynności pobierania">
 <!ENTITY configureActions.label     "Wyświetl i edytuj czynności…">

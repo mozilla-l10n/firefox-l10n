@@ -30,16 +30,16 @@
 <!-- Passwords -->
 <!ENTITY savedPasswords.intro        "&brandShortName; może zapamiętać hasła dla wszystkich kont użytkownika, dzięki czemu nie będzie konieczności wprowadzania ich przy każdym logowaniu.">
 <!ENTITY encryptEnabled.label        "Używaj hasła głównego do szyfrowania przechowywanych haseł">
-<!ENTITY encryptEnabled.accesskey    "o">
+<!ENTITY encryptEnabled.accesskey    "U">
 <!ENTITY masterPassword.intro        "Hasło główne, jeśli jest ustalone, chroni wszystkie hasła użytkownika - ale musi być ono wprowadzane jednorazowo dla każdej sesji.">
 <!ENTITY setMasterPassword.label     "Hasło główne">
-<!ENTITY setMasterPassword.accesskey "G">
+<!ENTITY setMasterPassword.accesskey "H">
 <!ENTITY removeMasterPassword.label  "Usuń hasło główne…">
-<!ENTITY removeMasterPassword.accesskey "U">
+<!ENTITY removeMasterPassword.accesskey "h">
 <!ENTITY editPasswords.label         "Edytuj zapisane hasła">
-<!ENTITY editPasswords.accesskey     "s">
+<!ENTITY editPasswords.accesskey     "E">
 
 <!-- Anti Virus -->
 <!ENTITY antiVirus.intro     "&brandShortName; może ułatwiać pracę programom antywirusowym poprzez umożliwienie im analizowania przychodzących wiadomości pocztowych, zanim zostaną one zapisane przez program.">
 <!ENTITY antiVirus.label     "Zezwalaj programom antywirusowym na przenoszenie poszczególnych wiadomości do kwarantanny">
-<!ENTITY antiVirus.accesskey "l">
+<!ENTITY antiVirus.accesskey "Z">
