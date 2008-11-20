@@ -37,7 +37,7 @@
 <!ENTITY taskbarCmd.label "Statusa josla">
 <!ENTITY taskbarCmd.accesskey "S">
 
-<!ENTITY pageSourceCmd.label "Lapas pirmkodu">
+<!ENTITY pageSourceCmd.label "Lapas pirmkods">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Informācija par lapu">
