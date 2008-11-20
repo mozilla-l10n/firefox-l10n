@@ -116,7 +116,7 @@
 <!ENTITY calendar.fullscreen.accesskey                     "F">
 
 <!ENTITY calendar.addons.label                             "Tafoegings">
-<!ENTITY calendar.addons.accesskey                         "f">
+<!ENTITY calendar.addons.accesskey                         "T">
 
 <!ENTITY goMenu.label                                      "Gean">
 <!ENTITY goMenu.accesskey                                  "G">
