@@ -1,0 +1,61 @@
+<!-- these things need to move into utilityOverlay.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+
+<!ENTITY fileMenu.label          "Fichièr">
+<!ENTITY fileMenu.accesskey        "f">
+<!ENTITY newMenu.label            "Novèl">
+<!ENTITY newMenu.accesskey          "N">
+
+<!ENTITY editMenu.label          "Edicion">
+<!ENTITY editMenu.accesskey        "e">
+<!ENTITY undoCmd.label            "Anullar">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "u">
+<!ENTITY redoCmd.label            "Tornar far">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "r">
+<!ENTITY cutCmd.label            "Copar">
+<!ENTITY cutCmd.key              "X">
+<!ENTITY cutCmd.accesskey          "p">
+<!ENTITY copyCmd.label            "Copiar">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "c">
+<!ENTITY pasteCmd.label            "Empegar">
+<!ENTITY pasteCmd.key            "V">
+<!ENTITY pasteCmd.accesskey          "p">
+<!ENTITY deleteCmd.label          "Suprimir">
+<!ENTITY deleteCmd.accesskey        "d">
+<!ENTITY selectAllCmd.label          "Tot seleccionar">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey        "a">
+<!ENTITY preferencesCmd.label        "Opcions…">
+<!ENTITY preferencesCmd.accesskey      "O">
+<!ENTITY preferencesCmdUnix.label       "Preferéncias">
+<!ENTITY preferencesCmdUnix.accesskey     "n">
+
+<!ENTITY viewMenu.label          "Visualizacion">
+<!ENTITY viewMenu.accesskey        "v">
+<!ENTITY viewToolbarsMenu.label        "Barras d'espleches">
+<!ENTITY viewToolbarsMenu.accesskey      "e">
+<!ENTITY showTaskbarCmd.label          "Barra d'estat">
+<!ENTITY showTaskbarCmd.accesskey        "S">
+
+<!ENTITY proxy.label                                    "Configuracion de proxy…">
+<!ENTITY proxy.accesskey                                "C">
+
+<!ENTITY closeCmd.label      "Tampar">
+<!ENTITY closeCmd.key      "W">
+<!ENTITY closeCmd.accesskey    "T">
+
+<!ENTITY closeWindow.label "Tampar la fenèstra">
+
+<!ENTITY quitApplicationCmd.label  "Sortir">
+<!ENTITY quitApplicationCmd.key    "Q">
+<!ENTITY quitApplicationCmd.accesskey  "r">
+
+<!ENTITY quitApplicationCmdUnix.label  "Sortir">
+<!ENTITY quitApplicationCmdUnix.accesskey  "r">
+
+<!ENTITY quitApplicationCmdMac.label  "Sortir de &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey  "r">
