@@ -543,3 +543,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
 <!ENTITY pageSourceCmd.label "Message Source">
+<!ENTITY pageSourceCmd.label "Message Source">
