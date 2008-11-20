@@ -1,0 +1,94 @@
+<!ENTITY itemGeneral.label       "General">
+<!ENTITY itemDisplay.label       "Reading &amp; Display">
+<!ENTITY itemUpdate.label        "Update">
+<!ENTITY itemNetworking.label    "Network &amp; Disk Space">
+<!ENTITY itemCertificates.label  "Certificates">
+
+<!-- General Settings -->
+
+<!ENTITY enableGloda.label             "Enable Message Indexer">
+<!ENTITY enableGloda.accesskey         "i">
+<!ENTITY showCondensedAddresses.label  "Show only display name for people in my address book">
+<!ENTITY showCondensedAddresses.accesskey "p">
+
+<!ENTITY autoMarkAsRead.label          "Automatically mark messages as read">
+<!ENTITY autoMarkAsRead.accesskey      "A">
+<!ENTITY markAsReadNoDelay.label       "Immediately on display">
+<!ENTITY markAsReadNoDelay.accesskey   "d">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "After displaying for">
+<!ENTITY markAsReadDelay.accesskey     "e">
+<!ENTITY secondsLabel.label            "seconds">
+<!ENTITY showFolderColumns.label       "Show expanded columns in the folder pane">
+<!ENTITY showFolderColumns.accesskey   "l">
+<!ENTITY openMsgIn.label               "Open messages in:">
+<!ENTITY reuseExpRadio0.label          "A new message window">
+<!ENTITY reuseExpRadio0.accesskey      "i">
+<!ENTITY reuseExpRadio1.label          "An existing message window">
+<!ENTITY reuseExpRadio1.accesskey      "x">
+<!ENTITY configEditDesc.label          "Advanced Configuration">
+<!ENTITY configEdit.label              "Config Editor…">
+<!ENTITY configEdit.accesskey          "g">
+<!ENTITY returnReceiptsInfo.label      "Determine how &brandShortName; handles return receipts">
+<!ENTITY showReturnReceipts.label      "Return Receipts…">
+<!ENTITY showReturnReceipts.accesskey  "R">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption                "Reading">
+<!ENTITY display.caption                "Display">
+
+<!-- Update -->
+<!ENTITY autoCheck.label                "Automatically check for updates to:">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "h">
+<!ENTITY enableAddonsUpdate.label       "Installed Add-ons">
+<!ENTITY enableAddonsUpdate.accesskey   "t">
+<!ENTITY checkNow.label                 "Check Now…">
+<!ENTITY whenUpdatesFound.label         "When updates to &brandShortName; are found,">
+<!ENTITY modeAskMe.label                "Ask me what I want to do">
+<!ENTITY modeAskMe.accesskey            "k">
+<!ENTITY modeAutomatic.label            "Automatically download and install the update">
+<!ENTITY modeAutomatic.accesskey        "m">
+<!ENTITY modeAutoAddonWarn.label        "Warn me if this will disable any of my add-ons">
+<!ENTITY modeAutoAddonWarn.accesskey    "-">
+<!ENTITY showUpdates.label              "Show Update History">
+<!ENTITY showUpdates.accesskey          "y">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showSettings.label            "Settings…">
+<!ENTITY showSettings.accesskey        "n">
+<!ENTITY proxiesConfigure.label        "Configure how &brandShortName; connects to the Internet">
+<!ENTITY connectionsInfo.caption       "Connection">
+<!ENTITY offlineInfo.caption           "Offline">
+<!ENTITY offlineInfo.label             "Configure offline settings">
+<!ENTITY showOffline.label             "Offline…">
+<!ENTITY showOffline.accesskey         "O">
+
+<!ENTITY Diskspace "Disk Space">
+<!ENTITY offlineCompact.label "Compact folders when it will save over">
+<!ENTITY offlineCompact.accesskey "v">
+<!ENTITY kb.label "KB">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Use up to">
+<!ENTITY useCacheBefore.accesskey        "U">
+<!ENTITY useCacheAfter.label             "MB of space for the cache">
+<!ENTITY clearCacheNow.label             "Clear Now">
+<!ENTITY clearCacheNow.accesskey         "C">
+
+<!-- Certificates -->
+<!ENTITY viewCertificates.label         "View Certificates">
+<!ENTITY viewCertificates.accesskey     "a">
+<!ENTITY viewCRLs.label                 "Revocation Lists">
+<!ENTITY viewCRLs.accesskey             "e">
+<!ENTITY validation.label               "Validation">
+<!ENTITY validation.accesskey           "d">
+<!ENTITY viewSecurityDevices.label      "Security Devices">
+<!ENTITY viewSecurityDevices.accesskey  "u">
