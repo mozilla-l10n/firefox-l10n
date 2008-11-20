@@ -1,8 +1,9 @@
 
-<!ENTITY Contact.tab                     "Kontakt"> 
-<!ENTITY Name.box                        "Emër"> 
+<!ENTITY Contact.tab                     "Kontakt">
+<!ENTITY Contact.accesskey               "K">
+<!ENTITY Name.box                        "Emër">
 
-<!-- LOCALIZATION NOTE: 
+<!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
  "FirstName" and "LastName" can be swapped for id to change the order
@@ -11,69 +12,101 @@
 -->
 
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
-<!ENTITY NameField1.id                  "FirstName"> 
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
-<!ENTITY NameField2.id                  "LastName"> 
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField1.id              "PhoneticFirstName"> 
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField2.id              "PhoneticLastName"> 
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
-<!ENTITY NameField1.label               "E para:">
-<!ENTITY NameField1.accesskey           "F">
-<!ENTITY NameField2.label               "E fundit:">
-<!ENTITY NameField2.accesskey           "L">
+<!ENTITY NameField1.label               "Emër:">
+<!ENTITY NameField1.accesskey           "E">
+<!ENTITY NameField2.label               "Mbiemër:">
+<!ENTITY NameField2.accesskey           "M">
 <!ENTITY PhoneticField1.label           "Fonetike:">
 <!ENTITY PhoneticField2.label           "Fonetike:">
 <!ENTITY DisplayName.label              "Shfaqje:">
-<!ENTITY DisplayName.accesskey          "D">
+<!ENTITY DisplayName.accesskey          "S">
 <!ENTITY NickName.label                 "Nofkë:">
 <!ENTITY NickName.accesskey             "N">
+
 
 <!ENTITY Internet.box                   "Internet">
 <!ENTITY PrimaryEmail.label             "Email:">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Email Shtesë:">
-<!ENTITY SecondEmail.accesskey          "o">
+<!ENTITY SecondEmail.accesskey          "s">
 <!ENTITY PreferMailFormat.label         "Parapëlqen të marrë mesazhe të formatuar si:">
-<!ENTITY PreferMailFormat.accesskey     "r">
+<!ENTITY PreferMailFormat.accesskey     "p">
 <!ENTITY PlainText.label                "Thjesht Tekst">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "I panjohur">
 <!ENTITY ScreenName.label               "Emër në Ekran:">
-<!ENTITY ScreenName.accesskey           "S">
+<!ENTITY ScreenName.accesskey           "m">
+
+<!ENTITY allowRemoteContent.label       "Lejo pamje të largëta.">
+<!ENTITY allowRemoteContent.accesskey   "l">
+<!ENTITY allowRemoteContent.tooltip     "Në mesazhet HTML është e mundur të trupëzohen pamje nga burime të largëta. Hapja e mesazheve të tillë do të hapë një lidhje me burimin e jashtëm. Kjo mund të lejojë gjurmimin e mesazhit që lexohet. Duke i vënë shenjë kësaj kutize, do të lejoni për mesazhe HTML prej këtij kontakti mesazhe të tillë të jashtëm të trupëzuar.">
 
 <!ENTITY WorkPhone.label                "Pune:">
-<!ENTITY WorkPhone.accesskey            "W">
+<!ENTITY WorkPhone.accesskey            "P">
 <!ENTITY HomePhone.label                "Shtëpi:">
-<!ENTITY HomePhone.accesskey            "H">
+<!ENTITY HomePhone.accesskey            "S">
 <!ENTITY FaxNumber.label                "Faks:">
-<!ENTITY FaxNumber.accesskey            "x">
+<!ENTITY FaxNumber.accesskey            "F">
 <!ENTITY PagerNumber.label              "Faques:">
-<!ENTITY PagerNumber.accesskey          "P">
+<!ENTITY PagerNumber.accesskey          "q">
 <!ENTITY CellularNumber.label           "Celular:">
-<!ENTITY CellularNumber.accesskey       "M">
+<!ENTITY CellularNumber.accesskey       "C">
 
-
-<!ENTITY HomeAddress.label              "Vendndodhje:"> 
-<!ENTITY HomeAddress2.label             ""> 
-<!ENTITY HomeCity.label                 "Qytet:"> 
-<!ENTITY HomeState.label                "Shtet/Provincë:"> 
-<!ENTITY HomeZipCode.label              "ZIP/Kod Postal:"> 
+<!ENTITY Home.tab                       "Vetjake">
+<!ENTITY Home.accesskey                 "V">
+<!ENTITY HomeAddress.label              "Vendndodhje:">
+<!ENTITY HomeAddress.accesskey          "d">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.label                 "Qytet:">
+<!ENTITY HomeCity.accesskey             "q">
+<!ENTITY HomeState.label                "Shtet/Provincë:">
+<!ENTITY HomeState.accesskey            "S">
+<!ENTITY HomeZipCode.label              "ZIP/Kod Postal:">
+<!ENTITY HomeZipCode.accesskey          "Z">
 <!ENTITY HomeCountry.label              "Vend:">
-<!ENTITY HomeWebPage.label              "Faq Web:"> 
-<!ENTITY JobTitle.label                 "Titull:"> 
-<!ENTITY Department.label               "Degë:"> 
-<!ENTITY Company.label                  "Organizëm:"> 
-<!ENTITY WorkAddress.label              "Vendndodhje:"> 
-<!ENTITY WorkAddress2.label             ""> 
-<!ENTITY WorkCity.label                 "Qytet:"> 
-<!ENTITY WorkState.label                "Shtet/Provincë:"> 
-<!ENTITY WorkZipCode.label              "ZIP/Kod Postal:"> 
+<!ENTITY HomeCountry.accesskey          "e">
+<!ENTITY HomeWebPage.label              "Faq Web:">
+<!ENTITY HomeWebPage.accesskey          "f">
+<!ENTITY Birthday.label                 "Ditëlindje:">
+<!ENTITY Birthday.accesskey             "L">
+<!ENTITY Year.emptytext                 "Vit">
+<!ENTITY Or.value                       "ose">
+<!ENTITY Age.emptytext                  "Moshë">
+
+<!ENTITY Work.tab                       "Punë">
+<!ENTITY Work.accesskey                 "P">
+<!ENTITY JobTitle.label                 "Titull:">
+<!ENTITY JobTitle.accesskey             "t">
+<!ENTITY Department.label               "Degë:">
+<!ENTITY Department.accesskey           "g">
+<!ENTITY Company.label                  "Organizëm:">
+<!ENTITY Company.accesskey              "O">
+<!ENTITY WorkAddress.label              "Vendndodhje:">
+<!ENTITY WorkAddress.accesskey          "V">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.label                 "Qytet:">
+<!ENTITY WorkCity.accesskey             "q">
+<!ENTITY WorkState.label                "Shtet/Provincë:">
+<!ENTITY WorkState.accesskey            "S">
+<!ENTITY WorkZipCode.label              "ZIP/Kod Postal:">
+<!ENTITY WorkZipCode.accesskey          "Z">
 <!ENTITY WorkCountry.label              "Vend:">
-<!ENTITY WorkWebPage.label              "Faqe Web:"> 
+<!ENTITY WorkCountry.accesskey          "e">
+<!ENTITY WorkWebPage.label              "Faqe Web:">
+<!ENTITY WorkWebPage.accesskey          "f">
 
 <!ENTITY Other.tab                      "Tjetër">
+<!ENTITY Other.accesskey                "h">
 <!ENTITY Custom1.label                  "Vetjake 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Vetjake 2:">
@@ -82,6 +115,5 @@
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Vetjake 4:">
 <!ENTITY Custom4.accesskey              "4">
-
-<!ENTITY allowRemoteContent.label       "Lejo pamje të largëta në postë HTML.">
-<!ENTITY allowRemoteContent.accesskey   "g">
+<!ENTITY Notes.label                    "Shënime:">
+<!ENTITY Notes.accesskey                "S">
