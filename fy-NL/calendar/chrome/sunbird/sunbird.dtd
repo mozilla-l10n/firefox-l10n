@@ -40,7 +40,7 @@
 <!ENTITY sunbird.paste.button.tooltip                      "Plakke" >
 <!ENTITY sunbird.print.button.tooltip                      "Aginda ôfdrukke" >
 <!ENTITY sunbird.delete.button.tooltip                     "Selektearre barren fuortsmite" >
-<!ENTITY sunbird.remotereload.button.tooltip               "Alle aginda's op ôfstân op 'e nij laden" >
+<!ENTITY sunbird.remotereload.button.tooltip               "Alle aginda's op ôfstân op 'e nij lade" >
 
 <!ENTITY sunbird.choosedate.button.label                   "Kies datum" >
 <!ENTITY sunbird.cut.button.label                          "Knippe" >
@@ -58,7 +58,7 @@
 <!ENTITY sunbird.dayview.accesskey                         "D" >
 <!ENTITY sunbird.weekview.accesskey                        "W" >
 <!ENTITY sunbird.monthview.accesskey                       "M" >
-<!ENTITY sunbird.multiweekview.accesskey                   "u" >
+<!ENTITY sunbird.multiweekview.accesskey                   "e" >
 
 
 <!ENTITY sunbird.calendartab.label                         "Datum">
