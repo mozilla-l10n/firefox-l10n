@@ -49,9 +49,7 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY importDialog.settingsTitle "Rregullime">
 
 <!ENTITY importTitle.label        "Ndihmësi &brandShortName; për Importim Poste">
-<!ENTITY importDesc.label         "Importo Postë, Libra Vendndodhjesh dhe Rregullime prej programesh të tjerë">
 
-<!ENTITY importDescription.label  "Ky krijues do të importojë te Posta e &brandShortName;-t mesazhe poste, hyrje librash vendndodhje, dhe/ose parapëlqime prej programesh të tjerë poste dhe formate të zakonshëm libri vendndodhjesh.">
 <!ENTITY importDescription2.label "Pasi të jenë importuar, do të mundni t&apos;i përdorni brenda Postës së &brandShortName -s; dhe/ose Librit të Vendndodhjeve.">
 
 <!ENTITY selectDescription.label  "Ju lutem përzgjidhni programin prej të cilit doni të importohet:">
@@ -74,3 +72,8 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
+
+<!ENTITY importDesc.label         "Importo Postë, Libra Vendndodhjesh, Rregullime dhe Filtra prej programesh të tjerë">
+<!ENTITY importDescription.label  "Ky krijues do të importojë te  &brandShortName;-i mesazhe poste, hyrje librash vendndodhjesh, parapëlqime, dhe/ose filtra prej programesh të tjerë poste dhe formate të zakonshëm librash vendndodhjesh.">
+<!ENTITY importDialog.allTitle    "Importo gjithçka">
+<!ENTITY importDialog.filtersTitle "Filtra">
