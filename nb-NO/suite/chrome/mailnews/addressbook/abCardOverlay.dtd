@@ -67,7 +67,6 @@
 <!ENTITY NickName.label                 "Kallenavn:">
 <!ENTITY NickName.accesskey             "K">
 
-<!ENTITY Internet.box                   "Internett">
 <!ENTITY PrimaryEmail.label             "E-postadresse:">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Annen e-post:">
