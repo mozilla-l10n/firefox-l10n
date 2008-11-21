@@ -37,17 +37,17 @@
 <!ENTITY wizard.label             "නව දිනදර්ශනයක් නිර්මාණය කරන්න" >
 <!ENTITY wizard.description       "ඔබේ දිනදර්ශනය ස්ථානගත කරන්න" >
 
-<!ENTITY initialpage.description    "Your calendar can be stored on your computer or be stored on a server in order to access it remotely or share it with your friends or co-workers." >
+<!ENTITY initialpage.description    "ඔබගේ දිනදර්ශනය ඔබේ පරිගණකය තුළ හෝ මිතුරන් සමඟ, කාර්යය මණ්ඩලය සමඟ බෙදාහදා ගත හැකි වනසේ හා දුරස්ථව ලබාගත හැකි වනසේ සේවාදායකයක තැන්පත් කළ හැක." >
 <!ENTITY initialpage.computer.label  "මගේ පරිගණකය මත">
 <!ENTITY initialpage.network.label  "ජාලය මත">
 
-<!ENTITY locationpage.description         "Provide info about what is needed to access your remote calendar" >
-<!ENTITY locationpage.login.description   "Optional: enter an username and password" >
+<!ENTITY locationpage.description         "ඔබගේ දුරස්ථ දිනදර්ශනයට ප්‍රවේෂණ තොරතුරු සපයන්න" >
+<!ENTITY locationpage.login.description   "විකල්ප: පරිශීලක නමක් සහ රහස්පදයක් ඇතුළු කරන්න" >
 <!ENTITY locationpage.username.label      "පරිශීලක නාමය:" >
 <!ENTITY locationpage.password.label      "රහස්පදය:" >
 
 <!ENTITY custompage.shortdescription  "ඔබේ දිනදර්ශනය රිසිසේ සකසන්න" >
-<!ENTITY custompage.longdescription   "You can give your calendar a nickname and colorize the events from this calendar." >
+<!ENTITY custompage.longdescription   "ඔබට දිනදර්ශනයට සුරතල් නමක් ලබාදීමට සහ දිනදර්ශනයේ සිදුවීම් වර්‍ණ ගැන්විය හැකිය." >
 
 <!ENTITY finishpage.shortdescription  "දිනදර්ශනය නිර්මාණය විය" >
 <!ENTITY finishpage.longdescription   "ඔබේ දිනදර්ශනය නිර්මාණය විය." >
