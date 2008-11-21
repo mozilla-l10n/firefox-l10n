@@ -488,7 +488,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Nachrichten abrufen">
 <!ENTITY folderContextGetMessages.accesskey "c">
-<!ENTITY folderContextOpenNewWindow.label "Öffnen">
+<!ENTITY folderContextOpenNewWindow.label "In neuem Fenster öffnen">
 <!ENTITY folderContextOpenNewWindow.accesskey "Ö">
 <!ENTITY folderContextOpenNewTab.label "In neuem Tab öffnen">
 <!ENTITY folderContextOpenNewTab.accesskey "T">
