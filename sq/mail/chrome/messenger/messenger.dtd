@@ -671,66 +671,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zoomWindow.label "Zoom">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label        "Preferences…">
+<!ENTITY preferencesCmdMac.label        "Parapëlqime…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
-<!ENTITY servicesMenuMac.label          "Services">
-<!ENTITY hideThisAppCmdMac.label        "Hide &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY servicesMenuMac.label          "Shërbime">
+<!ENTITY hideThisAppCmdMac.label        "Fshihe &brandShortName;-in">
+<!ENTITY hideThisAppCmdMac.commandkey   "F">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
-<!ENTITY hideOtherAppsCmdMac.label      "Hide Others">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.label      "Fshihi të Tjerat">
+<!ENTITY hideOtherAppsCmdMac.commandkey "F">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
-<!ENTITY showAllAppsCmdMac.label        "Show All">
+<!ENTITY showAllAppsCmdMac.label        "Shfaqi të Tëra">
 
-===================================================================
-<!-- Phshing bar Bar -->
-<!ENTITY phishingBarMessage.label "&brandShortName;-it ky mesazh i duket si email mashtrues.">
-<!ENTITY removePhishingBarButton.label "Jo Mashtrues">
-
-<!ENTITY folderContextFavoriteFolder.label "Dosje Të parapëlqyerish">
-<!ENTITY folderContextFavoriteFolder.accesskey "a">
-
-<!ENTITY newTabCmd.label "Skedë e Re">
-<!ENTITY newTabCmd.accesskey "T">
-<!ENTITY closeTabCmd.label "Mbyll Skedën">
-<!ENTITY closeTabCmd.accesskey "e">
-
-
-<!ENTITY threadPaneWide.label "Parje si Listë e Gjerë">
-<!ENTITY threadPaneWide.accesskey "i">
-
-<!ENTITY goForwardCmd.label "Përpara">
-<!ENTITY goForwardCmd.accesskey "F">
-<!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY goBackCmd.label "Prapa">
-<!ENTITY goBackCmd.accesskey "B">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY prevStarredMsgCmd.label "Mesazh me Yllkë">
-<!ENTITY prevStarredMsgCmd.accesskey "S">
-<!ENTITY moveCopyMsgRecentMenu.label "Më të fundit">
-<!ENTITY moveCopyMsgRecentMenu.accesskey "R">
-<!ENTITY moveToFolderAgain.label "Lëvize Sërish">
-<!ENTITY moveToFolderAgain.accesskey "i">
-<!ENTITY moveToFolderAgainCmd.key "m">
-<!ENTITY backButton1.label "Prapa">
-<!ENTITY goForwardButton1.label "Përpara">
-<!ENTITY folderLocationToolbarItem.title "Vend Dosjeje">
-<!ENTITY tagButton.label "Shenjë">
-<!ENTITY goForwardButton.tooltip "Hidhu një mesazh përpara">
-<!ENTITY goBackButton.tooltip "Hidhu njq mesazh prapa">
-
-<!ENTITY tagButton.tooltip "Shëno mesazhe">
-
-<!ENTITY folderContextOpenNewTab.label "Hap në Skedë të Re">
-<!ENTITY folderContextOpenNewTab.accesskey "T">
-<!ENTITY folderContextNew.label "Nëndosje e Re...">
-<!ENTITY folderContextNew.accesskey "N">
-<!ENTITY contextOpenNewTab.label "Hape Mesazhin në Skedë të Re">
-<!ENTITY contextOpenNewTab.accesskey "T">
-<!ENTITY contextMoveCopyMsgRecentMenu.label "Më të fundit">
-<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
-<!ENTITY contextPrintPreview.accesskey "v">
-
-<!ENTITY reportPhishingURL.label "Raporto E-mail Mashtrues">
-<!ENTITY reportPhishingURL.accesskey "o"> 
