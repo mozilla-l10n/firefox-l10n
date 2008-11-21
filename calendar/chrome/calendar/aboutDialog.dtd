@@ -42,10 +42,8 @@
 <!ENTITY aboutLink.label        "&lt; &brandFullName; පිළිබඳව">
 <!ENTITY aboutLink.accesskey    "A">
 <!ENTITY aboutVersion           "වෙළුම">
-<!ENTITY copyrightText          "&#169;1998-2008 දායකයින්. All rights
-                                 reserved. Mozilla Sunbird, Sunbird, and the
-                                 Sunbird logos are trademarks of the Mozilla
-                                 Foundation. All rights reserved.">
+<!ENTITY copyrightText          "&#169;1998-2008 දායකයින්. සියලු හිමිකම් ඇවිරිණි. Mozilla Sunbird, Sunbird 
+                                 Sunbird ලාංඡනය Mozilla පදනමේ වෙළඳ සලකුණු වේ.">
 
 <!ENTITY brandMotto       "එය කාලය ගැනයි">
 <!ENTITY credit.thanks    "විශේෂ ස්තුතිය">

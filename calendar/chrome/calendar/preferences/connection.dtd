@@ -75,7 +75,7 @@
 <!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
 <!ENTITY  gopherPort.accesskey          "">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "No Proxy for:">
+<!ENTITY  noproxy.label                 "ප්‍රොක්සි අවශ්‍ය නොවන්නේ:">
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "උදාහරණ: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "සියලු ප්‍රෝටොකොල සඳහා මෙම ප්‍රොක්සි සැකසුම් භාවිත කරන්න">
