@@ -19,8 +19,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s): 
-   -   C?ric Corazza <cedric.corazza@wanadoo.fr>
-   -   
+   -   Cédric Corazza <cedric.corazza@wanadoo.fr>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,15 +34,21 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY pref.mainbox.label "常规设置">
-<!ENTITY pref.dateformat.label "日期格式：">
+
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+
+<!ENTITY pref.mainbox.label "常规设置" >
+<!ENTITY pref.dateformat.label "日期格式：" >
 <!ENTITY pref.dateformat.accesskey "D">
-<!ENTITY pref.dateformat.long "长">
-<!ENTITY pref.dateformat.short "短">
-<!ENTITY pref.defaultlength.label "默认事件长度：">
+<!ENTITY pref.dateformat.long "长" >
+<!ENTITY pref.dateformat.short "Short"  >
+<!ENTITY pref.defaultlength.label "默认事件长度：" >
 <!ENTITY pref.defaultlength.accesskey "E">
-<!ENTITY pref.defaultsnoozelength.label "默认暂缓时间：">
+<!ENTITY pref.defaultsnoozelength.label "默认暂缓时间：" >
 <!ENTITY pref.defaultsnoozelength.accesskey "S">
-<!ENTITY pref.refreshbox.label "刷新设置">
-<!ENTITY pref.autorefresh.label "日历刷新间隔">
-<!ENTITY pref.autorefresh.accesskey "R">
+<!ENTITY pref.refreshbox.label "刷新设置" >
+<!ENTITY pref.autorefresh.label "日历刷新间隔" >
+<!ENTITY pref.autorefresh.accesskey "R" >

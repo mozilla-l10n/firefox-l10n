@@ -19,7 +19,6 @@
    -
    - Contributor(s):
    -   Thomas Benisch <thomas.benisch@sun.com>
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,11 +34,13 @@
    -
    - ***** END LICENSE BLOCK *****
 -->
-<!ENTITY calendar.subscriptions.dialog.title "订阅 Calendars">
-<!ENTITY calendar.subscriptions.dialog.search.label.value "显示日历内容：">
-<!ENTITY calendar.subscriptions.dialog.search.button.label "搜索">
-<!ENTITY calendar.subscriptions.dialog.select.label.value "选择日历订阅：">
-<!ENTITY calendar.subscriptions.dialog.subscribe.button.label "订阅">
-<!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label "不订阅">
-<!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label "搜索…">
-<!ENTITY calendar.subscriptions.dialog.statusmessage.nomatches.label "未找到匹配项。">
+
+<!-- Calendar Subscriptions Dialog -->
+<!ENTITY calendar.subscriptions.dialog.title                            "订阅日历">
+<!ENTITY calendar.subscriptions.dialog.search.label.value               "显示日历内容：">
+<!ENTITY calendar.subscriptions.dialog.search.button.label              "搜索">
+<!ENTITY calendar.subscriptions.dialog.select.label.value               "选择日历订阅：">
+<!ENTITY calendar.subscriptions.dialog.subscribe.button.label           "订阅">
+<!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label         "不订阅">
+<!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label         "搜索…">
+<!ENTITY calendar.subscriptions.dialog.statusmessage.nomatches.label    "未找到匹配项。">

@@ -23,8 +23,7 @@
    -   ArentJan Banck <ajbanck@planet.nl>
    -   Eric Belhaire <belhaire@ief.u-psud.fr>
    -   Matthew Willis <mattwillis@gmail.com>
-   -   C?ric Corazza <cedric.corazza@wanadoo.fr>
-   -   
+   -   Cédric Corazza <cedric.corazza@wanadoo.fr>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -39,13 +38,21 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+
 <!ENTITY pref.calendar.view.allview.caption "常规">
 <!ENTITY pref.calendar.view.dayandweekviews.caption "日周视图">
 <!ENTITY pref.calendar.view.multiweekview.caption "多周视图">
 <!ENTITY pref.calendar.view.workweek.caption "工作周">
+
 <!ENTITY pref.weekstarts.label "周起始日为：">
 <!ENTITY pref.weekstarts.accesskey "r">
 <!ENTITY pref.daysoff.label "工作周包括：">
+
 <!ENTITY pref.calendar.view.daystart.label "每日开始于：">
 <!ENTITY pref.calendar.view.daystart.accesskey "D">
 <!ENTITY pref.calendar.view.dayend.label "每日结束于：">
@@ -53,6 +60,7 @@
 <!ENTITY pref.calendar.view.visiblehours.label "每次显示：">
 <!ENTITY pref.calendar.view.visiblehours.accesskey "o">
 <!ENTITY pref.calendar.view.visiblehoursend.label "小时">
+
 <!ENTITY pref.numberofweeks.label "默认显示周数 （包括前几周）：">
 <!ENTITY pref.numberofweeks.accesskey "e">
 <!ENTITY pref.numberofpreviousweeks.label "显示之前周数：">
