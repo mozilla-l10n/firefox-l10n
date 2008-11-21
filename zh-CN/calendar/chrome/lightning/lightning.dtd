@@ -25,7 +25,6 @@
    -   Philipp Kewisch <mozilla@kewis.ch>
    -   Martin Schroeder <mschroeder@mozilla.x-home.org>
    -   Berend Cornelius <berend.cornelius@sun.com>
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -40,47 +39,76 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+
+<!-- Tools menu -->
 <!ENTITY lightning.taskLabel "Lightning">
-<!ENTITY lightning.menupopup.new.event.label "事件…">
-<!ENTITY lightning.menupopup.new.task.label "任务…">
+
+<!-- New menu popup in File menu -->
+<!ENTITY lightning.menupopup.new.event.label    "事件…">
+<!ENTITY lightning.menupopup.new.task.label     "任务…">
 <!ENTITY lightning.menupopup.new.calendar.label "日历…">
-<!ENTITY lightning.menupopup.open.label "打开">
-<!ENTITY lightning.menupopup.open.accesskey "O">
-<!ENTITY lightning.menupopup.open.message.label "已保存消息…">
-<!ENTITY lightning.menupopup.open.message.accesskey "M">
-<!ENTITY lightning.menupopup.open.calendar.label "日历文件…">
-<!ENTITY lightning.menupopup.open.calendar.accesskey "C">
-<!ENTITY lightning.sidebar.invitations.label "邀请">
-<!ENTITY lightning.sidebar.invitations.accesskey "I">
-<!ENTITY lightning.calendar.label "日历">
-<!ENTITY lightning.calendar.accesskey "C">
-<!ENTITY lightning.tasks.label "任务">
-<!ENTITY lightning.tasks.accesskey "T">
-<!ENTITY lightning.toolbar.mail.label "邮件">
-<!ENTITY lightning.toolbar.mail.accesskey "M">
-<!ENTITY lightning.toolbar.calendar.label "日历">
+
+<!-- Open menu popup in File menu -->
+<!ENTITY lightning.menupopup.open.label               "打开">
+<!ENTITY lightning.menupopup.open.accesskey           "O">
+<!ENTITY lightning.menupopup.open.message.label       "已保存消息…">
+<!ENTITY lightning.menupopup.open.message.accesskey   "M">
+<!ENTITY lightning.menupopup.open.calendar.label      "日历文件…">
+<!ENTITY lightning.menupopup.open.calendar.accesskey  "C">
+
+<!-- Messenger Sidebar -->
+<!ENTITY lightning.calendar.label            "日历">
+<!ENTITY lightning.calendar.accesskey        "C">
+<!ENTITY lightning.tasks.label               "任务">
+<!ENTITY lightning.tasks.accesskey           "T">
+
+<!-- Mode Toolbar -->
+<!ENTITY lightning.toolbar.mail.label         "邮件">
+<!ENTITY lightning.toolbar.mail.accesskey     "M">
+<!ENTITY lightning.toolbar.calendar.label     "日历">
 <!ENTITY lightning.toolbar.calendar.accesskey "C">
-<!ENTITY lightning.toolbar.task.label "任务">
-<!ENTITY lightning.toolbar.task.accesskey "T">
-<!ENTITY lightning.toolbar.day.label "日">
-<!ENTITY lightning.toolbar.day.accesskey "D">
-<!ENTITY lightning.toolbar.week.label "周">
-<!ENTITY lightning.toolbar.week.accesskey "W">
-<!ENTITY lightning.toolbar.multiweek.label "多周">
-<!ENTITY lightning.toolbar.multiweek.accesskey "u">
-<!ENTITY lightning.toolbar.month.label "月">
-<!ENTITY lightning.toolbar.month.accesskey "M">
+<!ENTITY lightning.toolbar.task.label         "任务">
+<!ENTITY lightning.toolbar.task.accesskey     "T">
+
+<!-- Toolbar write button -->
+<!ENTITY lightning.toolbar.newevent.label     "事件">
+<!ENTITY lightning.toolbar.newtask.label      "任务">
+
+<!-- Messenger Toolbar -->
+<!ENTITY lightning.toolbar.day.label                 "日">
+<!ENTITY lightning.toolbar.day.accesskey             "D">
+<!ENTITY lightning.toolbar.week.label                "周">
+<!ENTITY lightning.toolbar.week.accesskey            "W">
+<!ENTITY lightning.toolbar.multiweek.label           "多周">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "u">
+<!ENTITY lightning.toolbar.month.label               "月">
+<!ENTITY lightning.toolbar.month.accesskey           "M">
+
+<!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "在当日面板中显示事件">
-<!ENTITY lightning.calendarproperties.showtasks.label "在当日面板和任务模式下显示任务">
-<!ENTITY lightning.calendarproperties.email.label "E-Mail:">
+<!ENTITY lightning.calendarproperties.showtasks.label           "在当日面板和任务模式下显示任务">
+<!ENTITY lightning.calendarproperties.email.label               "E-Mail:">
+
+<!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.description "本信息包含一个事件的邀请。">
+
+<!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.new "I">
 <!ENTITY lightning.keys.todo.new "D">
+
+<!-- Account Central page -->
 <!ENTITY lightning.acctCentral.newCalendar.label "创建一个新日历">
+
+<!-- today-pane-specific -->
 <!ENTITY todaypane.showMinimonth.label "显示迷你月">
 <!ENTITY todaypane.showMinimonth.accesskey "M">
 <!ENTITY todaypane.showMiniday.label "显示迷你日">
-<!ENTITY todaypane.showMiniday.accesskey "d">
+<!ENTITY todaypane.showMiniday.accesskey  "d">
 <!ENTITY todaypane.showNone.label "不显示">
 <!ENTITY todaypane.showNone.accesskey "N">
 <!ENTITY todaypane.showTodayPane.label "显示今日面板">

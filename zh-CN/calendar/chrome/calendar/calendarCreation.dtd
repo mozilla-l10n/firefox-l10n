@@ -18,7 +18,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -33,17 +32,22 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY wizard.title "创建新日历">
-<!ENTITY wizard.label "创建一个新日历">
-<!ENTITY wizard.description "定位您的日历">
-<!ENTITY initialpage.description "您的日历可以保存在您的电脑上，或者是可远程存取的服务器上，或者是与朋友或合作者共享的服务器上。">
-<!ENTITY initialpage.computer.label "保存在我的电脑中">
-<!ENTITY initialpage.network.label "保存在网络上">
-<!ENTITY locationpage.description "提供为访问您的远程日历所必需的信息">
-<!ENTITY locationpage.login.description "可选：输入用户名和密码">
-<!ENTITY locationpage.username.label "用户名：">
-<!ENTITY locationpage.password.label "密码：">
-<!ENTITY custompage.shortdescription "自定义您的日历">
-<!ENTITY custompage.longdescription "您可以给日历取一个昵称，也可以给事件设置不同的颜色">
-<!ENTITY finishpage.shortdescription "日历已创建">
-<!ENTITY finishpage.longdescription "您的日历已成功创建。">
+
+<!ENTITY wizard.title             "创建新日历" >
+<!ENTITY wizard.label             "创建一个新日历" >
+<!ENTITY wizard.description       "定位您的日历" >
+
+<!ENTITY initialpage.description    "您的日历可以保存在您的电脑上，或者是可远程存取的服务器上，或者是与朋友或合作者共享的服务器上。" >
+<!ENTITY initialpage.computer.label  "保存在我的电脑中">
+<!ENTITY initialpage.network.label  "保存在网络上">
+
+<!ENTITY locationpage.description         "提供为访问您的远程日历所必需的信息" >
+<!ENTITY locationpage.login.description   "可选：输入用户名和密码" >
+<!ENTITY locationpage.username.label      "用户名：" >
+<!ENTITY locationpage.password.label      "密码：" >
+
+<!ENTITY custompage.shortdescription  "自定义您的日历" >
+<!ENTITY custompage.longdescription   "您可以给日历取一个昵称，也可以给事件设置不同的颜色" >
+
+<!ENTITY finishpage.shortdescription  "日历已创建" >
+<!ENTITY finishpage.longdescription   "您的日历已成功创建。" >

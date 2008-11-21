@@ -23,7 +23,6 @@
    -   ArentJan Banck <ajbanck@planet.nl>
    -   Eric Belhaire <belhaire@ief.u-psud.fr>
    -   Matthew Willis <mattwillis@gmail.com>
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -38,14 +37,16 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY prefWindow.titleWin "选项">
-<!ENTITY prefWindow.titleGNOME "&brandShortName; 首选项">
-<!ENTITY prefWindow.styleWin "width: 47em; height: 37em;">
-<!ENTITY prefWindow.styleMac "width: 47em;">
-<!ENTITY prefWindow.styleGNOME "width: 47em; height: 34.5em;">
-<!ENTITY paneGeneral.title "常规">
-<!ENTITY paneAlarms.title "提醒">
-<!ENTITY paneCategories.title "类别">
-<!ENTITY paneViews.title "视图">
-<!ENTITY paneTimezones.title "时区">
-<!ENTITY paneAdvanced.title "高级">
+
+<!ENTITY  prefWindow.titleWin     "选项">
+<!ENTITY  prefWindow.titleGNOME   "&brandShortName; 首选项">
+<!ENTITY  prefWindow.styleWin     "width: 47em; height: 37em;">
+<!ENTITY  prefWindow.styleMac     "width: 47em;">
+<!ENTITY  prefWindow.styleGNOME   "width: 47em; height: 34.5em;">
+
+<!ENTITY  paneGeneral.title       "常规">
+<!ENTITY  paneAlarms.title        "提醒">
+<!ENTITY  paneCategories.title    "类别">
+<!ENTITY  paneViews.title         "视图">
+<!ENTITY  paneTimezones.title     "时区">
+<!ENTITY  paneAdvanced.title      "高级">

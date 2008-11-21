@@ -18,8 +18,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s): Thomas Benisch <thomas.benisch@sun.com>
-   -   
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,13 +33,17 @@
    -
    - ***** END LICENSE BLOCK *****
 -->
-<!ENTITY calendar.invitations.dialog.invitations.text "邀请">
-<!ENTITY calendar.invitations.dialog.statusmessage.updating.text "更新邀请列表。">
-<!ENTITY calendar.invitations.dialog.statusmessage.noinvitations.text "没有发现未确认的邀请。">
-<!ENTITY calendar.invitations.list.accept.button.label "接受">
-<!ENTITY calendar.invitations.list.decline.button.label "谢绝">
-<!ENTITY calendar.invitations.list.recurrentevent.text "重复事件">
-<!ENTITY calendar.invitations.list.alldayevent.text "全天事件">
-<!ENTITY calendar.invitations.list.location.text "位置：">
-<!ENTITY calendar.invitations.list.organizer.text "组织者：">
-<!ENTITY calendar.invitations.list.none.text "无">
+
+<!-- Calendar Invitations Dialog -->
+<!ENTITY calendar.invitations.dialog.invitations.text                   "邀请">
+<!ENTITY calendar.invitations.dialog.statusmessage.updating.text        "更新邀请列表。">
+<!ENTITY calendar.invitations.dialog.statusmessage.noinvitations.text   "没有发现未确认的邀请。">
+
+<!-- Calendar Invitations List -->
+<!ENTITY calendar.invitations.list.accept.button.label                  "接受">
+<!ENTITY calendar.invitations.list.decline.button.label                 "拒绝">
+<!ENTITY calendar.invitations.list.recurrentevent.text                  "重复事件">
+<!ENTITY calendar.invitations.list.alldayevent.text                     "全天事件">
+<!ENTITY calendar.invitations.list.location.text                        "位置：">
+<!ENTITY calendar.invitations.list.organizer.text                       "组织者：">
+<!ENTITY calendar.invitations.list.none.text                            "无">

@@ -19,7 +19,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,6 +33,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY migration.title "&brandFullName;： 数据导入">
 <!ENTITY migration.welcome "欢迎">
 <!ENTITY migration.importing "导入">

@@ -24,7 +24,6 @@
    -   Eric Belhaire <belhaire@ief.u-psud.fr>
    -   Matthew Willis <lilmatt@mozilla.com>
    -   Daniel Boelzle <daniel.boelzle@sun.com>
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -39,4 +38,5 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY pref.calendar.timezones.list.caption "选择与您所在时区最近的城市：">
