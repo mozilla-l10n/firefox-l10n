@@ -1,14 +1,16 @@
 
-<!ENTITY prefWindow.titleWin "گزینه‌ها">
-<!ENTITY prefWindow.titleGNOME "ترجیحات &brandShortName;">
-<!ENTITY prefWindow.styleWin "width: 45em; height: 40em;">
-<!ENTITY prefWindow.styleMac "width: 50em">
-<!ENTITY prefWindow.styleGNOME "width: 45em; height: 38.5em">
+<!ENTITY  prefWindow.titleWin     "گزینه‌ها">
+<!ENTITY  prefWindow.titleGNOME   "ترجیحات &brandShortName;">
+<!-- When making changes to prefWindow.styleWin test both Windows Classic and
+     Luna since widget heights are different based on the OS theme -->
+<!ENTITY  prefWin.styleWin2       "width: 42em; min-height: 39em;">
+<!ENTITY  prefWin.styleMac2       "width: 47em; min-height: 40em;">
+<!ENTITY  prefWin.styleGNOME2     "width: 42em; min-height: 39.5em;">
 
-<!ENTITY paneMain.title "اصلی">
-<!ENTITY paneTabs.title "زبانه‌ها">
-<!ENTITY paneContent.title "محتوا">
-<!ENTITY paneFeeds.title "خوردها">
-<!ENTITY panePrivacy.title "خصوصی">
-<!ENTITY paneSecurity.title "امنیت">
-<!ENTITY paneAdvanced.title "پیشرفته">
+<!ENTITY  paneMain.title          "اصلی">
+<!ENTITY  paneTabs.title          "زبانه‌ها">
+<!ENTITY  paneContent.title       "محتوا">
+<!ENTITY  paneApplications.title  "Applications">
+<!ENTITY  panePrivacy.title       "خصوصی">
+<!ENTITY  paneSecurity.title      "امنیت">
+<!ENTITY  paneAdvanced.title      "پیشرفته">

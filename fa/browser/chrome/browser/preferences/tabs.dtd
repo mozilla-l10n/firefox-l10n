@@ -1,20 +1,14 @@
-<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
-%brandDTD;
+<!ENTITY newWindowsAsTabs.label       "Open new windows in a new tab instead">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
 
-<!ENTITY newPagesIn.label "صفحات جدید چگونه باز شوند؟">
-<!ENTITY inNewWindow.label "در پنجره‌ای جدید">
-<!ENTITY inNewWindow.accesskey "پ">
-<!ENTITY inNewTab.label "در زبانه‌ای جدید">
-<!ENTITY inNewTab.accesskey "ز">
+<!ENTITY warnCloseMultipleTabs.label  "در هنگام بستن بیش از یک زبانه هشدار داده شود">
+<!ENTITY warnCloseMultipleTabs.accesskey  "ب">
 
-<!ENTITY warnCloseMultipleTabs.label "در هنگام بستن بیش از یک زبانه هشدار داده شود">
-<!ENTITY warnCloseMultipleTabs.accesskey "ب">
+<!ENTITY warnOpenManyTabs.label       "در صورتی که باز کردن چند زبانه بتواند باعث کند کردن &brandShortName; بشود، هشدار داده شود">
+<!ENTITY warnOpenManyTabs.accesskey   "د">
 
-<!ENTITY warnOpenManyTabs.label "در صورتی که باز کردن چند زبانه بتواند باعث کند کردن &brandShortName; بشود، هشدار داده شود">
-<!ENTITY warnOpenManyTabs.accesskey "د">
+<!ENTITY showTabBar.label             "نوار زبانه‌ها همیشه نمایش داده شود">
+<!ENTITY showTabBar.accesskey         "ن">
 
-<!ENTITY showTabBar.label "نوار زبانه‌ها همیشه نمایش داده شود">
-<!ENTITY showTabBar.accesskey "ن">
-
-<!ENTITY switchToNewTabs.label "هنگام بازکردن یک پیوند در زبانهٔ جدید، بلافاصله آن زبانه نمایش داده شود">
-<!ENTITY switchToNewTabs.accesskey "ه">
+<!ENTITY switchToNewTabs.label        "هنگام بازکردن یک پیوند در زبانهٔ جدید، بلافاصله آن زبانه نمایش داده شود">
+<!ENTITY switchToNewTabs.accesskey    "ه">

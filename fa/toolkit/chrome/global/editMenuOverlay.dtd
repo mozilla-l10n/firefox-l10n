@@ -1,31 +1,31 @@
-<!ENTITY editMenu.label "ویرایش">
-<!ENTITY editMenu.accesskey "و">
-<!ENTITY undoCmd.label "برگردان">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "ب">
-<!ENTITY redoCmd.label "دوباره">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "د">
-<!ENTITY cutCmd.label "بریدن">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "ر">
-<!ENTITY copyCmd.label "نسخه‌برداری">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "ن">
-<!ENTITY pasteCmd.label "چسباندن">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "چ">
-<!ENTITY deleteCmd.label "حذف">
-<!ENTITY deleteCmd.accesskey "ح">
-<!ENTITY selectAllCmd.label "انتخاب همه">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "ه">
-<!ENTITY findCmd.label "پیدا کردن">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "پ">
-<!ENTITY findAgainCmd.label "پیدا کردن مجدد">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findAgainCmd.accesskey "ج">
-<!ENTITY findPreviousCmd.label "پیدا کردن قبلی">
+<!ENTITY editMenu.label            "ویرایش">
+<!ENTITY editMenu.accesskey        "و">
+<!ENTITY undoCmd.label             "برگردان">
+<!ENTITY undoCmd.key               "Z">
+<!ENTITY undoCmd.accesskey         "ب">
+<!ENTITY redoCmd.label             "دوباره">
+<!ENTITY redoCmd.key               "Y">
+<!ENTITY redoCmd.accesskey         "د">
+<!ENTITY cutCmd.label              "بریدن">
+<!ENTITY cutCmd.key                "X">
+<!ENTITY cutCmd.accesskey          "ر">
+<!ENTITY copyCmd.label             "نسخه‌برداری">
+<!ENTITY copyCmd.key               "C">
+<!ENTITY copyCmd.accesskey         "ن">
+<!ENTITY pasteCmd.label            "چسباندن">
+<!ENTITY pasteCmd.key              "V">
+<!ENTITY pasteCmd.accesskey        "چ">
+<!ENTITY deleteCmd.label           "حذف">
+<!ENTITY deleteCmd.accesskey       "ح">
+<!ENTITY selectAllCmd.label        "انتخاب همه">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey    "ه">
+<!ENTITY findCmd.label             "پیدا کردن">
+<!ENTITY findCmd.key               "F">
+<!ENTITY findCmd.accesskey         "پ">
+<!ENTITY findAgainCmd.label        "پیدا کردن مجدد">
+<!ENTITY findAgainCmd.key          "G">
+<!ENTITY findAgainCmd.key2         "VK_F3">
+<!ENTITY findAgainCmd.accesskey    "ج">
+<!ENTITY findPreviousCmd.label     "پیدا کردن قبلی">
 <!ENTITY findPreviousCmd.accesskey "ق">

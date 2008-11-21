@@ -1,16 +1,16 @@
 <!ENTITY loadError.label "‌خطا در بارگیری صفحه">
 <!ENTITY retry.label "سعی دوباره">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "قادر به اتصال نیست">
 <!ENTITY connectionFailure.longDesc "<p>با این که پایگاه صحیح به نظر می‌رسد، مرورگر نمی‌تواند اتصالی به آن برقرار کند.</p><ul><li>امکان دارد که این پایگاه به طور موقت خارج از دسترس باشد؟ بعد دوباره سعی کنید.</li><li>پایگاه‌های دیگر نیز قابل مرورکردن نیستند؟  اتصال کامپیوتر به شبکه را بررسی کنید.</li><li>آیا کامپیوتر یا شبکهٔ شما توسط پیشکار یا دیوارآتش محافظت می‌شود؟ تنظیمات اشتباه آن مانع از مرور وب می‌شود.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "درگاه به دلایل امنیتی ممنوع شده است">
-<!ENTITY deniedPortAccess.longDesc '<p>نشانی مورد نظر درگاهی (برای مثال <q dir="ltr">mozilla.org:80</q> برای درگاه ۸۰ در ‪mozilla.org)‏ استفاده کرده است که در حالت معمول به منظوری <em>غیر</em> از وب به کار می‌رود. مرورگر این درخواست را برای امنیت و حفاظت از شما لغو کرد.</p>'>
+<!ENTITY deniedPortAccess.longDesc "<p>نشانی مورد نظر درگاهی (برای مثال <q dir="ltr">mozilla.org:80</q> برای درگاه ۸۰ در ‪mozilla.org)‏ استفاده کرده است که در حالت معمول به منظوری <em>غیر</em> از وب به کار می‌رود. مرورگر این درخواست را برای امنیت و حفاظت از شما لغو کرد.</p>">
 
 <!ENTITY dnsNotFound.title "کارگزار پیدا نشد">
-<!ENTITY dnsNotFound.longDesc '<p>مرورگر نتوانست نشانی کارگزار میزبان برای نشانی فراهم شده را پیدا کند.</p><ul><li>آیا هنگام وارد کردن نام دامنه اشتباهی کرده‌اید؟ (مثلاً <q dir="ltr"><strong>ww</strong>.mozilla.org</q> را به جای <q dir="ltr"><strong>www</strong>.mozilla.org</q> وارد کرده‌اید؟)</li><li>آیا مطمئن هستید که این نام دامنه وجود دارد؟ ثبت نام آن ممکن است انقضا یافته باشد.</li><li>آیا قادر به مرور وب‌گاه‌های دیگر نیز نیستید؟  اتصال شبکه و تنظیمات کارگزار نام دامنه‌تان را بررسی کنید.</li><li>آیا کامپیوتر یا شبکهٔ شما توسط کارگزار یا دیوارآتش محافظت می‌شود؟  تنظیمات اشتباه می‌تواند مانع از مرور وب شود.</li></ul>'>
+<!ENTITY dnsNotFound.longDesc "<p>مرورگر نتوانست نشانی کارگزار میزبان برای نشانی فراهم شده را پیدا کند.</p><ul><li>آیا هنگام وارد کردن نام دامنه اشتباهی کرده‌اید؟ (مثلاً <q dir="ltr"><strong>ww</strong>.mozilla.org</q> را به جای <q dir="ltr"><strong>www</strong>.mozilla.org</q> وارد کرده‌اید؟)</li><li>آیا مطمئن هستید که این نام دامنه وجود دارد؟ ثبت نام آن ممکن است انقضا یافته باشد.</li><li>آیا قادر به مرور وب‌گاه‌های دیگر نیز نیستید؟  اتصال شبکه و تنظیمات کارگزار نام دامنه‌تان را بررسی کنید.</li><li>آیا کامپیوتر یا شبکهٔ شما توسط کارگزار یا دیوارآتش محافظت می‌شود؟  تنظیمات اشتباه می‌تواند مانع از مرور وب شود.</li></ul>">
 
 <!ENTITY fileNotFound.title "پرونده پیدا نشد">
 <!ENTITY fileNotFound.longDesc "<ul><li>آیا امکان دارد پروندهٔ مورد نظر تغییر نام یا محل داده باشد یا حذف شده باشد؟</li><li>آیا اشکال املائی، بزرگی یا کوچکی حروف یا دیگر اشکالات نوشتاری در نشانی وجود دارد؟</li><li>آیا مجوزهای دسترسی کافی برای دست‌یابی به این نشانی را دارید؟</li></ul>">
@@ -27,6 +27,16 @@
 <!ENTITY netOffline.title "حالت منفصل">
 <!ENTITY netOffline.longDesc "<p>مرورگر در حال کار منفصل است و نمی‌تواند به نشانی درخواستی متصل شود.</p><ul><li>آیا کامپیوتر به یک شبکهٔ فعال متصل است؟</li><li>مرورگر را در حالت کار متصل قرار دهید و دوباره تلاش کنید.</li></ul>">
 
+<!ENTITY contentEncodingError.title "Content Encoding Error">
+<!ENTITY contentEncodingError.longDesc "<p>The page you are trying to view cannot be shown because it uses an invalid or unsupported form of compression.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+
+<!ENTITY unsafeContentType.title "Unsafe File Type">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Please contact the website owners to inform them of this problem.</li>
+</ul>
+">
+
 <!ENTITY netReset.title "اتصال قطع شد">
 <!ENTITY netReset.longDesc "<p>ارتباط شبکه در حین برقراری اتصال قطع شد.  لطفاً دوباره تلاش کنید.</p>">
 
@@ -34,7 +44,7 @@
 <!ENTITY netTimeout.longDesc "<p>وب‌گاه به تقاضای ایجاد اتصال مرورگر در زمان مقرر پاسخ نداد و مرورگر از ادامهٔ انتظار منصرف گردید.</p><ul><li>آیا ممکن است کارگزار دچار تقاضای بیش از حد شده باشد یا موقتاً دارای مشکلی باشد؟  لطفاً بعداً دوباره سعی کنید.</li><li>آیا قادر به مرور وب‌گاه‌های دیگر نیز نیستید؟ اتصال شبکهٔ رایانه‌تان را کنترل کنید.</li><li>آیا کامپیوتر یا شبکهٔ شما توسط پیشکار یا دیوارآتش محافظت می‌شود؟ تنظیمات اشتباه آن مانع از مرور وب می‌شود.</li><li>هنوز هم مشکل دارید؟  برای دریافت کمک با مدیر سیستم یا فراهم‌کنندهٔ اتصال اینترنت خود مشورت کنید.</li></ul>">
 
 <!ENTITY protocolNotFound.title "نشانی قابل فهم نبود">
-<!ENTITY protocolNotFound.longDesc '<p>نشانی قراردادی (مثلاً <q dir="rtl">wxyz://</q>)‏ را مشخص کرده است که مرورگر قادر به شناسایی آن نیست، بنابراین نمی‌تواند به شیوهٔ صحیح به وب‌گاه متصل شود.</p><ul><li>آیا در حال تلاش برای دسترسی به خدمات چندرسانه‌ای یا غیر متنی هستید؟ این وب‌گاه را برای یافتن ملزومات اضافی جستجو کنید.</li><li>برخی قراردادها ممکن است برای شناسانده شدن به مرورگر نیاز به نرم‌افزار یا متصل‌شوندهٔ فراهم‌شده توسط شخص ثالثی باشند.</li></ul>'>
+<!ENTITY protocolNotFound.longDesc "<p>نشانی قراردادی (مثلاً <q dir="rtl">wxyz://</q>)‏ را مشخص کرده است که مرورگر قادر به شناسایی آن نیست، بنابراین نمی‌تواند به شیوهٔ صحیح به وب‌گاه متصل شود.</p><ul><li>آیا در حال تلاش برای دسترسی به خدمات چندرسانه‌ای یا غیر متنی هستید؟ این وب‌گاه را برای یافتن ملزومات اضافی جستجو کنید.</li><li>برخی قراردادها ممکن است برای شناسانده شدن به مرورگر نیاز به نرم‌افزار یا متصل‌شوندهٔ فراهم‌شده توسط شخص ثالثی باشند.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "کارگزار پیشکار از اتصال خودداری می‌کند">
 <!ENTITY proxyConnectFailure.longDesc "<p>مرورگر برای استفاده از یک کارگزار پیش‌کار پیکربندی شده است، ولی پیشکار از اتصال خودداری می‌کند.</p><ul><li>آیا تنظیمات کارگزار پیشکار مرورگر صحیح است؟ تنظیمات را کنترل کنید و دوباره تلاش نمایید.</li><li>آیا پیشکار اجازهٔ اتصال از این شبکه را می‌دهد؟</li><li>هنوز هم مشکل دارید؟  برای دریافت کمک با مدیر سیستم یا فراهم‌کنندهٔ اتصال اینترنت خود مشورت کنید.</li></ul>">
@@ -47,3 +57,31 @@
 
 <!ENTITY unknownSocketType.title "جواب غیرمنتظره از کارگزار">
 <!ENTITY unknownSocketType.longDesc "<p>این وب‌گاه به شیوهٔ غیر منتظره‌ای به درخواست شبکه‌ای پاسخ داد، و مرورگر قادر به ادامه نیست.</p>">
+
+<!ENTITY nssFailure2.title "Secure Connection Failed">
+<!ENTITY nssFailure2.longDesc "<p>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</p><ul><li>Please contact the web site owners to inform them of this problem.</li></ul>">
+
+<!ENTITY nssBadCert.title "Secure Connection Failed">
+<!ENTITY nssBadCert.longDesc2 "<ul>
+<li>This could be a problem with the server's configuration, or it could be someone trying to impersonate the server.</li>
+<li>If you have connected to this server successfully in the past, the error may be temporary, and you can try again later.</li>
+</ul>
+">
+
+<!ENTITY malwareBlocked.title "Suspected Attack Site!">
+<!ENTITY malwareBlocked.longDesc "
+<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
+<p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
+">
+
+<!ENTITY phishingBlocked.title "Suspected Web Forgery!">
+<!ENTITY phishingBlocked.longDesc "
+<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
+<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
+">
+
+<!-- Include app-specific error messages - do not change this in localization!
+     Some applications might override netErrorApp.dtd with their specific version,
+     this inclusion needs to be intact for that approach to work correctly. -->
+<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
+%netErrorAppDTD;

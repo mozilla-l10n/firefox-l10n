@@ -1,44 +1,44 @@
 
-<!ENTITY connectionsDialog.title "تنظیمات اتصال">
-<!ENTITY window.width "60em">
-<!ENTITY window.macWidth "64em">
+<!ENTITY  connectionsDialog.title       "تنظیمات اتصال">
+<!ENTITY  window.width                  "60em">
+<!ENTITY  window.macWidth               "64em">
 
-<!ENTITY proxyTitle.label "پیکربندی پیشکارهای دسترسی به اینترنت">
-<!ENTITY directTypeRadio.label "اتصال مستقیم به اینترنت">
-<!ENTITY directTypeRadio.accesskey "م">
-<!ENTITY WPADTypeRadio.label "تشخیص خودکار تنظیمات برای این شبکه">
-<!ENTITY WPADTypeRadio.accesskey "خ">
-<!ENTITY manualTypeRadio.label "پیکربندی دستی پیشکار">
-<!ENTITY manualTypeRadio.accesskey "د">
-<!ENTITY autoTypeRadio.label "نشانی اینترنتی پیکربندی خودکار پیشکار">
-<!ENTITY autoTypeRadio.accesskey "ن">
-<!ENTITY configAutoconfigText.label "مکان پیکربندی (نشانی اینترنتی):">
-<!ENTITY configAutoconfigText.accesskey "ا">
-<!ENTITY reload.label "بازآوردن">
-<!ENTITY reload.accesskey "ب">
-<!ENTITY ftp.label "پیشکار FTP">
-<!ENTITY ftp.accesskey "F">
-<!ENTITY gopher.label "پیشکار Gopher:">
-<!ENTITY gopher.accesskey "G">
-<!ENTITY http.label "پیشکار HTTP:">
-<!ENTITY http.accesskey "h">
-<!ENTITY ssl.label "پیشکار SSL:">
-<!ENTITY ssl.accesskey "S">
-<!ENTITY socks.label "پیشکار SOCKS:">
-<!ENTITY socks.accesskey "C">
-<!ENTITY socks4.label "پیشکار SOCKS v4">
-<!ENTITY socks4.accesskey "4">
-<!ENTITY socks5.label "پیشکار SOCKS v5">
-<!ENTITY socks5.accesskey "5">
-<!ENTITY port.label "درگاه:">
-<!ENTITY HTTPport.accesskey "د">
-<!ENTITY SSLport.accesskey "ر">
-<!ENTITY FTPport.accesskey "گ">
+<!ENTITY  proxyTitle.label              "پیکربندی پیشکارهای دسترسی به اینترنت">
+<!ENTITY  noProxyTypeRadio.label        "No proxy">
+<!ENTITY  noProxyTypeRadio.accesskey    "y">
+<!ENTITY  systemTypeRadio.label         "Use system proxy settings">
+<!ENTITY  systemTypeRadio.accesskey     "u">
+<!ENTITY  WPADTypeRadio.label           "تشخیص خودکار تنظیمات برای این شبکه">
+<!ENTITY  WPADTypeRadio.accesskey       "خ">
+<!ENTITY  manualTypeRadio.label         "پیکربندی دستی پیشکار">
+<!ENTITY  manualTypeRadio.accesskey     "د">
+<!ENTITY  autoTypeRadio.label           "نشانی اینترنتی پیکربندی خودکار پیشکار">
+<!ENTITY  autoTypeRadio.accesskey       "ن">
+<!ENTITY  reload.label                  "بازآوردن">
+<!ENTITY  reload.accesskey              "ب">
+<!ENTITY  ftp.label                     "پیشکار FTP">
+<!ENTITY  ftp.accesskey                 "F">
+<!ENTITY  gopher.label                  "پیشکار Gopher:">
+<!ENTITY  gopher.accesskey              "G">
+<!ENTITY  http.label                    "پیشکار HTTP:">
+<!ENTITY  http.accesskey                "H">
+<!ENTITY  ssl.label                     "پیشکار SSL:">
+<!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  socks.label                   "پیشکار SOCKS:">
+<!ENTITY  socks.accesskey               "C">
+<!ENTITY  socks4.label                  "پیشکار SOCKS v4">
+<!ENTITY  socks4.accesskey              "4">
+<!ENTITY  socks5.label                  "پیشکار SOCKS v5">
+<!ENTITY  socks5.accesskey              "5">
+<!ENTITY  port.label                    "درگاه:">
+<!ENTITY  HTTPport.accesskey            "د">
+<!ENTITY  SSLport.accesskey             "ر">
+<!ENTITY  FTPport.accesskey             "گ">
 <!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY gopherPort.accesskey "ا">
-<!ENTITY SOCKSport.accesskey "ه">
-<!ENTITY noproxy.label "برای این نشانی‌ها از پیشکار استفاده نشود:">
-<!ENTITY noproxy.accesskey "ن">
-<!ENTITY noproxyExplain.label "مثال: ‎.mozilla.org،‏ ‎.net.zv، ‏‬‪192.168.1.0/24‬">
-<!ENTITY shareproxy.label "استفاده از این پیشکار برای همهٔ قراردادها">
-<!ENTITY shareproxy.accesskey "ه">
+<!ENTITY  gopherPort.accesskey          "">
+<!ENTITY  SOCKSport.accesskey           "ه">
+<!ENTITY  noproxy.label                 "برای این نشانی‌ها از پیشکار استفاده نشود:">
+<!ENTITY  noproxy.accesskey             "ن">
+<!ENTITY  noproxyExplain.label          "مثال: ‎.mozilla.org،‏ ‎.net.zv، ‏‬‪192.168.1.0/24‬">
+<!ENTITY  shareproxy.label              "استفاده از این پیشکار برای همهٔ قراردادها">
+<!ENTITY  shareproxy.accesskey          "ه">

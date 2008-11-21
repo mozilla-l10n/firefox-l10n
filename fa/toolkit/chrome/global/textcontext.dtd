@@ -10,10 +10,11 @@
 <!ENTITY selectAllCmd.accesskey "ه">
 <!ENTITY deleteCmd.label "حذف">
 <!ENTITY deleteCmd.accesskey "ح">
+
 <!ENTITY spellAddToDictionary.label "اضافه‌کردن به پوشه">
 <!ENTITY spellAddToDictionary.accesskey "ض">
-<!ENTITY spellEnable.label "غلط‌یابی املایی این فیلد">
-<!ENTITY spellEnable.accesskey "غ">
+<!ENTITY spellCheckEnable.label "Check Spelling">
+<!ENTITY spellCheckEnable.accesskey "S">
 <!ENTITY spellNoSuggestions.label "(پیشنهاد املائی موجود نیست)">
 <!ENTITY spellDictionaries.label "زبان‌ها">
 <!ENTITY spellDictionaries.accesskey "ز">

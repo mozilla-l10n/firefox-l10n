@@ -37,29 +37,25 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY intro.label "شما تصمیم به باز کردن این پرونده گرفته‌اید:">
-<!ENTITY from.label "از:">
-<!ENTITY actionQuestion.label "&brandShortName; با این پرونده چه‌کار کند؟">
+<!ENTITY  intro.label                 "شما تصمیم به باز کردن این پرونده گرفته‌اید:">
+<!ENTITY  from.label                  "از:">
+<!ENTITY  actionQuestion.label        "&brandShortName; با این پرونده چه‌کار کند؟">
 
-<!ENTITY openWith.label "باز کردن با">
-<!ENTITY openWith.accesskey "ب">
-<!ENTITY other.label "غیره...">
+<!ENTITY  openWith.label              "باز کردن با">
+<!ENTITY  openWith.accesskey          "ب">
+<!ENTITY  other.label                 "غیره...">
 
-<!ENTITY save.label "ذخیره روی دیسک">
-<!ENTITY save.accesskey "ذ">
+<!ENTITY  saveFile.label              "Save File">
+<!ENTITY  saveFile.accesskey          "s">
 
-<!ENTITY rememberChoice.label "از این به بعد به طور خودکار برای پرونده‌های مثل این همین کار انجام شود.">
-<!ENTITY rememberChoice.accesskey "خ">
+<!ENTITY  rememberChoice.label        "از این به بعد به طور خودکار برای پرونده‌های مثل این همین کار انجام شود.">
+<!ENTITY  rememberChoice.accesskey    "خ">
 
-<!ENTITY settingsChange.label "تنظیمات را می‌توان در بخش بارگیری‌های منوی ابزارها، گزینه‌ها تغییر داد.">
-<!ENTITY settingsChangeMac.label "تنظیمات را می‌توان در بخش بارگیری‌های &brandShortName;، ترجیحات تغییر داد.">
-<!ENTITY settingsChangeUnix.label "تنظیمات را می‌توان در بخش بارگیری‌های منوی ویرایش، ترجیحات تغییر داد.">
+<!ENTITY  whichIsA.label              "که پرونده‌ای از این نوع است:">
 
-<!ENTITY whichIsA.label "که پرونده‌ای از این نوع است:">
+<!ENTITY  chooseHandlerMac.label      "انتخاب...">
+<!ENTITY  chooseHandlerMac.accesskey  "ا">
+<!ENTITY  chooseHandler.label         "مرور...">
+<!ENTITY  chooseHandler.accesskey     "م">
 
-<!ENTITY chooseHandlerMac.label "انتخاب...">
-<!ENTITY chooseHandlerMac.accesskey "ا">
-<!ENTITY chooseHandler.label "مرور...">
-<!ENTITY chooseHandler.accesskey "م">
-
-<!ENTITY unknownPromptText.label "آیا می‌خواهید این پرونده را ذخیره کنید؟">
+<!ENTITY  unknownPromptText.label     "آیا می‌خواهید این پرونده را ذخیره کنید؟">

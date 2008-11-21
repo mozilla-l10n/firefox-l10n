@@ -35,89 +35,113 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY certmgr.title "مدیر گواهی">
+<!ENTITY certmgr.title                       "مدیر گواهی">
 
-<!ENTITY certmgr.tab.mine "گواهی‌های شما">
-<!ENTITY certmgr.tab.others "گواهی‌های دیگران">
-<!ENTITY certmgr.tab.websites "وب‌گاه‌ها">
-<!ENTITY certmgr.tab.ca "مراجع صدور">
+<!ENTITY certmgr.tab.mine                     "گواهی‌های شما">
+<!ENTITY certmgr.tab.others2                  "People">
+<!ENTITY certmgr.tab.websites3                "Servers">
+<!ENTITY certmgr.tab.ca                       "مراجع صدور">
+<!ENTITY certmgr.tab.orphan2                  "Others">
 
-<!ENTITY certmgr.ca.builtins "مراجع صدور توکار">
-<!ENTITY certmgr.ca.mycas "مراجع صدور اداره شده توسط شما">
+<!ENTITY certmgr.ca.builtins                  "مراجع صدور توکار">
+<!ENTITY certmgr.ca.mycas                     "مراجع صدور اداره شده توسط شما">
 
-<!ENTITY certmgr.mine "شما گواهی‌هایی از این سازمان‌ها دارید که هویت شما را تأیید می‌کنند:">
-<!ENTITY certmgr.others "شما در پرونده گواهی‌هایی دارید که هویت این افراد را تأیید می‌کنند:">
-<!ENTITY certmgr.websites "شما در پرونده گواهی‌هایی دارید که هویت این وب‌گاه‌ها را تأیید می‌کنند:">
-<!ENTITY certmgr.cas "شما در پرونده گواهی‌هایی دارید که هویت این مراجع صدور گواهی را تأیید می‌کنند:">
+<!ENTITY certmgr.mine                         "شما گواهی‌هایی از این سازمان‌ها دارید که هویت شما را تأیید می‌کنند:">
+<!ENTITY certmgr.others                       "شما در پرونده گواهی‌هایی دارید که هویت این افراد را تأیید می‌کنند:">
+<!ENTITY certmgr.websites2                    "You have certificates on file that identify these servers:">
+<!ENTITY certmgr.cas                          "شما در پرونده گواهی‌هایی دارید که هویت این مراجع صدور گواهی را تأیید می‌کنند:">
+<!ENTITY certmgr.orphans                      "You have certificates on file that do not fit in any of the other categories:">
 
-<!ENTITY certmgr.detail.general_tab.title "عمومی">
+<!ENTITY certmgr.detail.general_tab.title     "عمومی">
+<!ENTITY certmgr.detail.general_tab.accesskey "G">
 <!ENTITY certmgr.detail.prettyprint_tab.title "جزئیات">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 
-<!ENTITY certmgr.subjectinfo.label "صادر شده برای">
-<!ENTITY certmgr.issuerinfo.label "صادر شده توسط">
-<!ENTITY certmgr.validity.label "اعتبار">
-<!ENTITY certmgr.fingerprints.label "اثر انگشت">
-<!ENTITY certmgr.certdetail.title "جزئیات گواهی">
-<!ENTITY certmgr.certdetail.cn "نام معمول (CN)">
-<!ENTITY certmgr.certdetail.o "سازمان (O)">
-<!ENTITY certmgr.certdetail.ou "واحد سازمانی (OU)">
-<!ENTITY certmgr.certdetail.serialnumber "شمارهٔ سریال">
-<!ENTITY certmgr.certdetail.sha1fingerprint "اثر انگشت SHA1">
-<!ENTITY certmgr.certdetail.md5fingerprint "اثر انگشت MD5">
+<!ENTITY certmgr.pending.label                "Currently verifying certificate…">
+<!ENTITY certmgr.subjectinfo.label            "صادر شده برای">
+<!ENTITY certmgr.issuerinfo.label             "صادر شده توسط">
+<!ENTITY certmgr.validity.label               "اعتبار" >
+<!ENTITY certmgr.fingerprints.label           "اثر انگشت">
+<!ENTITY certmgr.certdetail.title             "جزئیات گواهی">
+<!ENTITY certmgr.certdetail.cn                "نام معمول (CN)">
+<!ENTITY certmgr.certdetail.o                 "سازمان (O)">
+<!ENTITY certmgr.certdetail.ou                "واحد سازمانی (OU)">
+<!ENTITY certmgr.certdetail.serialnumber      "شمارهٔ سریال">
+<!ENTITY certmgr.certdetail.sha1fingerprint   "اثر انگشت SHA1">
+<!ENTITY certmgr.certdetail.md5fingerprint    "اثر انگشت MD5">
 
-<!ENTITY certmgr.editcert.title "ویرایش تنظیمات گواهی امنیتی">
-<!ENTITY certmgr.editcacert.title "ویرایش تنظیمات اعتماد به مرجع صدور گواهی">
-<!ENTITY certmgr.editsslcert.title "ویرایش تنظیمات اعتماد به گواهی وب‌گاه">
-<!ENTITY certmgr.editcert.edittrust "ویرایش تنظیمات اعتماد:">
-<!ENTITY certmgr.editcert.trustssl "این گواهی می‌تواند هویت وب‌گاه‌ها را تأیید کند.">
-<!ENTITY certmgr.editcert.trustemail "این گواهی می‌تواند هویت فرستندگان نامه را تأیید کند.">
-<!ENTITY certmgr.editcert.trustobjsign "این گواهی می‌تواند هویت سازندگان نرم‌افزار را تأیید کند.">
-<!ENTITY certmgr.editsslcert.edittrust "ویرایش تنظیمات اعتماد به گواهی:">
-<!ENTITY certmgr.editsslcert.dotrust "به صحت این گواهی اعتماد شود.">
-<!ENTITY certmgr.editsslcert.donttrust "به صحت این گواهی نشود.">
-<!ENTITY certmgr.editemailcert.title "ویرایش تنظیمات اعتماد به گواهی نامهٔ الکترونیکی">
-<!ENTITY certmgr.editemailcert.edittrust "ویرایش تنظیمات اعتماد به گواهی:">
-<!ENTITY certmgr.editemailcert.dotrust "به صحت این گواهی اعتماد شود.">
-<!ENTITY certmgr.editemailcert.donttrust "به صحت این گواهی نشود.">
+<!ENTITY certmgr.editcert.title               "ویرایش تنظیمات گواهی امنیتی">
+<!ENTITY certmgr.editcacert.title             "ویرایش تنظیمات اعتماد به مرجع صدور گواهی">
+<!ENTITY certmgr.editsslcert.title            "ویرایش تنظیمات اعتماد به گواهی وب‌گاه">
+<!ENTITY certmgr.editcert.edittrust           "ویرایش تنظیمات اعتماد:">
+<!ENTITY certmgr.editcert.trustssl            "این گواهی می‌تواند هویت وب‌گاه‌ها را تأیید کند.">
+<!ENTITY certmgr.editcert.trustemail          "این گواهی می‌تواند هویت فرستندگان نامه را تأیید کند.">
+<!ENTITY certmgr.editcert.trustobjsign        "این گواهی می‌تواند هویت سازندگان نرم‌افزار را تأیید کند.">
+<!ENTITY certmgr.editsslcert.edittrust        "ویرایش تنظیمات اعتماد به گواهی:">
+<!ENTITY certmgr.editsslcert.dotrust          "به صحت این گواهی اعتماد شود.">
+<!ENTITY certmgr.editsslcert.donttrust        "به صحت این گواهی نشود.">
+<!ENTITY certmgr.editemailcert.title          "ویرایش تنظیمات اعتماد به گواهی نامهٔ الکترونیکی">
+<!ENTITY certmgr.editemailcert.edittrust      "ویرایش تنظیمات اعتماد به گواهی:">
+<!ENTITY certmgr.editemailcert.dotrust        "به صحت این گواهی اعتماد شود.">
+<!ENTITY certmgr.editemailcert.donttrust      "به صحت این گواهی نشود.">
 
-<!ENTITY certmgr.deletecert.title "حذف گواهی">
-<!ENTITY certmgr.deletecert.beforename "شما حذف این گواهی را درخواست کردید:">
-<!ENTITY certmgr.deletecert.aftername "آیا مطمئنید که می‌خواهید این گواهی را حذف کنید؟">
-<!ENTITY certmgr.deleteusercert.title "حذف گواهی شما">
-<!ENTITY certmgr.deleteusercert.beforename "شما حذف گواهی را درخواست کردید:">
-<!ENTITY certmgr.deleteusercert.aftername "اگر این گواهی را حذف کنید، دیگر نخواهید توانست نامه‌هایی که با آن رمزنگاری شده‌اند را بخوانید.">
+<!ENTITY certmgr.deletecert.title             "حذف گواهی">
+<!ENTITY certmgr.deletecert.beforename        "شما حذف این گواهی را درخواست کردید:">
+<!ENTITY certmgr.deletecert.aftername         "آیا مطمئنید که می‌خواهید این گواهی را حذف کنید؟">
+<!ENTITY certmgr.deleteusercert.title         "حذف گواهی شما">
+<!ENTITY certmgr.deleteusercert.beforename    "شما حذف گواهی را درخواست کردید:">
+<!ENTITY certmgr.deleteusercert.aftername     "اگر این گواهی را حذف کنید، دیگر نخواهید توانست نامه‌هایی که با آن رمزنگاری شده‌اند را بخوانید.">
 
-<!ENTITY certmgr.certname "نام گواهی">
-<!ENTITY certmgr.tokenname "دستگاه امنیتی">
-<!ENTITY certmgr.purpose "مورد استفاده">
-<!ENTITY certmgr.issued "تاریخ صدور">
-<!ENTITY certmgr.expires "تاریخ انقضا">
-<!ENTITY certmgr.email "نشانی پست الکترونیکی">
-<!ENTITY certmgr.serial "شمارهٔ سریال">
-<!ENTITY certmgr.ocsp_info "گواهی‌ها با OCSP اعتبارسنجی نشده‌اند. برای انجام این کار روی نمایش کلیک کنید.">
+<!ENTITY certmgr.certname                     "نام گواهی">
+<!ENTITY certmgr.certserver                   "Server">
+<!ENTITY certmgr.typesofoverrides             "Exceptions">
+<!ENTITY certmgr.override_lifetime            "Lifetime">
+<!ENTITY certmgr.tokenname                    "دستگاه امنیتی">
+<!ENTITY certmgr.purpose                      "مورد استفاده">
+<!ENTITY certmgr.issued                       "تاریخ صدور">
+<!ENTITY certmgr.expires                      "تاریخ انقضا">
+<!ENTITY certmgr.email                        "نشانی پست الکترونیکی">
+<!ENTITY certmgr.serial                       "شمارهٔ سریال">
 
-<!ENTITY certmgr.close.label "بستن">
-<!ENTITY certmgr.close.accesskey "س">
-<!ENTITY certmgr.view.label "نمایش">
-<!ENTITY certmgr.view.accesskey "ن">
-<!ENTITY certmgr.edit.label "ویرایش">
-<!ENTITY certmgr.edit.accesskey "و">
-<!ENTITY certmgr.editca.label "ویرایش اعتماد به CA">
-<!ENTITY certmgr.editca.accesskey "ع">
-<!ENTITY certmgr.add.label "اضافه کردن">
-<!ENTITY certmgr.add.accesskey "ا">
-<!ENTITY certmgr.delete.label "حذف">
-<!ENTITY certmgr.delete.accesskey "ح">
-<!ENTITY certmgr.backup.label "پشتیبان گرفتن">
-<!ENTITY certmgr.backup.accesskey "پ">
-<!ENTITY certmgr.backupall.label "پشتیبان گرفتن از همه">
-<!ENTITY certmgr.backupall.accesskey "ش">
-<!ENTITY certmgr.restore.label "وارد کردن">
-<!ENTITY certmgr.restore.accesskey "د">
-<!ENTITY certmgr.details.label "فیلدهای گواهی">
-<!ENTITY certmgr.details.accesskey "ف">
-<!ENTITY certmgr.fields.label "مقدار فیلد">
-<!ENTITY certmgr.fields.accesskey "م">
-<!ENTITY certmgr.hierarchy.label "سلسه‌مراتب گواهی‌ها">
-<!ENTITY certmgr.hierarchy.accesskey "س">
+<!ENTITY certmgr.close.label                  "بستن">
+<!ENTITY certmgr.close.accesskey              "س">
+<!ENTITY certmgr.view2.label                  "View…">
+<!ENTITY certmgr.view2.accesskey              "V">
+<!ENTITY certmgr.edit2.label                  "Edit…">
+<!ENTITY certmgr.edit2.accesskey              "E">
+<!ENTITY certmgr.editca.label                 "ویرایش اعتماد به CA">
+<!ENTITY certmgr.editca.accesskey             "ع">
+<!ENTITY certmgr.add.label                    "اضافه کردن">
+<!ENTITY certmgr.add.accesskey                "ا">
+<!ENTITY certmgr.export.label                 "Export…">
+<!ENTITY certmgr.export.accesskey             "x">
+<!ENTITY certmgr.delete2.label                "Delete…">
+<!ENTITY certmgr.delete2.accesskey            "D">
+<!ENTITY certmgr.backup2.label                "Backup…">
+<!ENTITY certmgr.backup2.accesskey            "B">
+<!ENTITY certmgr.backupall2.label             "Backup All…">
+<!ENTITY certmgr.backupall2.accesskey         "k">
+<!ENTITY certmgr.restore2.label               "Import…">
+<!ENTITY certmgr.restore2.accesskey           "m">
+<!ENTITY certmgr.details.label                "فیلدهای گواهی">
+<!ENTITY certmgr.details.accesskey            "ف">
+<!ENTITY certmgr.fields.label                 "مقدار فیلد">
+<!ENTITY certmgr.fields.accesskey             "م">
+<!ENTITY certmgr.hierarchy.label              "سلسه‌مراتب گواهی‌ها">
+<!ENTITY certmgr.hierarchy.accesskey          "س">
+<!ENTITY certmgr.addException.label           "Add Exception…">
+<!ENTITY certmgr.addException.accesskey       "x">
 
+<!ENTITY exceptionMgr.title                   "Add Security Exception">
+<!ENTITY exceptionMgr.exceptionButton         "Confirm Security Exception">
+<!ENTITY exceptionMgr.exceptionButtonAccess   "C">
+<!ENTITY exceptionMgr.supplementalWarning     "Legitimate banks, stores, and other public sites will not ask you to do this.">
+<!ENTITY exceptionMgr.certlocation.caption2   "Server">
+<!ENTITY exceptionMgr.certlocation.url        "Location:">
+<!ENTITY exceptionMgr.certlocation.download   "Get Certificate">
+<!ENTITY exceptionMgr.certlocation.accesskey  "G">
+<!ENTITY exceptionMgr.certstatus.caption      "Certificate Status">
+<!ENTITY exceptionMgr.certstatus.viewCert     "View…">
+<!ENTITY exceptionMgr.certstatus.accesskey    "V">
+<!ENTITY exceptionMgr.permanent.label         "Permanently store this exception">
+<!ENTITY exceptionMgr.permanent.accesskey     "P">

@@ -1,16 +1,15 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-
-<!ENTITY viewsourcetitle.preface "مبدأ برای: ">
-
-<!ENTITY nothingAvailable.label "(چیزی موجود نیست)">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (مرور خصوصی)">
 
 <!ENTITY tabCmd.label "زبانهٔ جدید">
 <!ENTITY tabCmd.accesskey "ز">
@@ -53,163 +52,141 @@
 <!ENTITY fullScreenMinimize.tooltip "حداقل کردن">
 <!ENTITY fullScreenRestore.tooltip "برگرداندن">
 <!ENTITY fullScreenClose.tooltip "بستن">
+<!ENTITY fullScreenAutohide.label "پنهان‌سازی نوارهای ابزار">
+<!ENTITY fullScreenAutohide.accesskey "پ">
+<!ENTITY fullScreenExit.label "خروج از حالت مرور تمام‌صفحه">
+<!ENTITY fullScreenExit.accesskey "خ">
 
 <!ENTITY closeWindow.label "بستن پنجره">
+<!ENTITY closeWindow.accesskey "d">
 
 <!ENTITY bookmarksMenu.label "چوب‌الف‌ها">
 <!ENTITY bookmarksMenu.accesskey "چ">
-<!ENTITY addCurPageAsCmd.label "چوب‌الف‌گذاری برای این صفحه...">
-<!ENTITY addCurPageAsCmd.commandkey "d">
+<!ENTITY bookmarkThisPageCmd.label "چوب‌الف‌گذاری این صفحه">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "آبونه شدن این صفحه">
 <!ENTITY subscribeToPageMenuitem.label "آبونه شدن این صفحه...">
-<!ENTITY addLiveBookmarkMenupopup.label "اضافه کردن چوب‌الف زنده">
-<!ENTITY addLiveBookmarkMenuitem.label "اضافه کردن چوب‌الف زنده...">
 <!ENTITY addCurPagesCmd.label "چوب‌الف‌گذاری تمامی زبانه‌ها...">
-<!ENTITY addCurPagesCmd.accesskey "چ">
-<!ENTITY manBookmarksCmd.label "مدیریت چوب‌الف‌ها...">
-<!ENTITY manBookmarksCmd.accesskey "م">
+<!ENTITY organizeBookmarks.label "سازمان‌دهی چوب‌الف‌ها…">
 <!ENTITY bookmarkAllCmd.label "چوب‌الف‌گذاری تمامی زبانه‌ها...">
-<!ENTITY searchBookmarksCmd.label "جستجو در چوب‌الف‌ها ...">
-<!ENTITY searchBookmarksCmd.accesskey "ج">
-<!ENTITY searchBookmarksCmd.commandkey "B">
 
-<!ENTITY backCmd.label "عقب">
-<!ENTITY backCmd.accesskey "ع">
-<!ENTITY backButton.tooltip "برگشتن به یک صفحه قبل">
-<!ENTITY forwardCmd.label "جلو">
-<!ENTITY forwardCmd.accesskey "ج">
-<!ENTITY forwardButton.tooltip "جلو رفتن به یک صفحه بعد">
-<!ENTITY reloadCmd.label "بازآوردن">
-<!ENTITY reloadCmd.accesskey "و">
-<!ENTITY reloadButton.tooltip "بازآوردن همین صفحه">
-<!ENTITY stopCmd.label "توقف">
-<!ENTITY stopCmd.accesskey "ت">
-<!ENTITY stopCmd.macCommandKey ".">
-<!ENTITY stopButton.tooltip "توقف بارکردن این صفحه">
-<!ENTITY goEndCap.label "رفتن">
-<!ENTITY goEndCap.tooltip "رفتن به نشانی موجود در نوار مکان">
-<!ENTITY printButton.label "چاپ">
-<!ENTITY printButton.tooltip "چاپ کردن این صفحه">
+<!ENTITY backCmd.label                "عقب">
+<!ENTITY backCmd.accesskey            "ع">
+<!ENTITY backButton.tooltip           "برگشتن به یک صفحه قبل">
+<!ENTITY forwardCmd.label             "جلو">
+<!ENTITY forwardCmd.accesskey         "ج">
+<!ENTITY forwardButton.tooltip        "جلو رفتن به یک صفحه بعد">
+<!ENTITY backForwardMenu.tooltip      "صفحه‌های اخیر">
+<!ENTITY reloadCmd.label              "بازآوردن">
+<!ENTITY reloadCmd.accesskey          "و">
+<!ENTITY reloadButton.tooltip         "بازآوردن همین صفحه">
+<!ENTITY stopCmd.label                "توقف">
+<!ENTITY stopCmd.accesskey            "ت">
+<!ENTITY stopCmd.macCommandKey        ".">
+<!ENTITY stopButton.tooltip           "توقف بارکردن این صفحه">
+<!ENTITY goEndCap.tooltip             "رفتن به نشانی موجود در نوار مکان">
+<!ENTITY printButton.label            "چاپ">
+<!ENTITY printButton.tooltip          "چاپ کردن این صفحه">
 
-<!ENTITY locationItem.title "مکان">
-<!ENTITY searchItem.title "جستجو">
-<!ENTITY throbberItem.title "شاخص فعالیت">
-<!ENTITY bookmarksItem.title "چوب‌الف‌ها">
-<!ENTITY updatesItem.title "به‌هنگام‌سازی‌ها">
+<!ENTITY locationItem.title           "مکان">
+<!ENTITY searchItem.title             "جستجو">
+<!ENTITY throbberItem.title           "شاخص فعالیت">
+<!ENTITY bookmarksItem.title          "چوب‌الف‌ها">
 
-<!ENTITY proxyIcon.tooltip "این شمایل را بکشید و رها کنید تا پیوندی به این صفحه ایجاد کنید">
+<!-- Toolbar items --> 
+<!ENTITY  homeButton.label            "آغازه">
 
-<!-- Toolbar items -->
-<!ENTITY homeButton.label "آغازه">
-
-<!ENTITY bookmarksButton.label "چوب‌الف‌ها">
-<!ENTITY bookmarksButton.tooltip "نمایش چوب‌الف‌ها">
-<!ENTITY bookmarksSidebarCmd.accesskey "چ">
+<!ENTITY bookmarksButton.label          "چوب‌الف‌ها">
+<!ENTITY bookmarksButton.tooltip        "نمایش چوب‌الف‌ها">
+<!ENTITY bookmarksSidebarCmd.accesskey  "چ">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
-<!ENTITY historyButton.label "تاریخچه">
-<!ENTITY historyButton.tooltip "نمایش صفحه‌هایی که اخیراً دیده‌اید">
-<!ENTITY historySidebarCmd.accesskey "ت">
-<!ENTITY historySidebarCmd.commandKey "h">
+<!ENTITY historyButton.label            "تاریخچه">
+<!ENTITY historyButton.tooltip          "نمایش صفحه‌هایی که اخیراً دیده‌اید">
+<!ENTITY historySidebarCmd.accesskey    "ت">
+<!ENTITY historySidebarCmd.commandKey   "h">
 
-<!ENTITY toolsMenu.label "ابزارها">
-<!ENTITY toolsMenu.accesskey "ا">
+<!ENTITY toolsMenu.label              "ابزارها">
+<!ENTITY toolsMenu.accesskey          "ا"> 
 
-<!ENTITY keywordfield.label "اضافه کردن یک کلیدواژه به این جستجو...">
-<!ENTITY keywordfield.accesskey "ک">
-<!ENTITY search.label "جستجوی وب">
-<!ENTITY search.accesskey "و">
-<!ENTITY downloads.label "بارگیری">
-<!ENTITY downloads.tooltip "نمایش پیشرفت بارگیری‌های در حال انجام">
-<!ENTITY downloads.accesskey "ب">
-<!ENTITY downloads.commandkey "j">
-<!ENTITY downloadsUnix.commandkey "y">
-<!ENTITY addons.label "افزودنی‌ها">
-<!ENTITY addons.tooltip "نمایش و مدیریت افزودنی‌های نصب شده">
-<!ENTITY addons.accesskey "ا">
+<!ENTITY keywordfield.label           "اضافه کردن یک کلیدواژه به این جستجو...">
+<!ENTITY keywordfield.accesskey       "ک">
+<!ENTITY search.label                 "جستجوی وب">
+<!ENTITY search.accesskey             "و">
+<!ENTITY downloads.label              "بارگیری">
+<!ENTITY downloads.tooltip            "نمایش پیشرفت بارگیری‌های در حال انجام">
+<!ENTITY downloads.accesskey          "ب">
+<!ENTITY downloads.commandkey         "j">
+<!ENTITY downloadsUnix.commandkey     "y">
+<!ENTITY addons.label                 "افزودنی‌ها">
+<!ENTITY addons.tooltip               "نمایش و مدیریت افزودنی‌های نصب شده">
+<!ENTITY addons.accesskey             "ا">
 
-<!ENTITY javaConsoleCmd.label "پیشانهٔ جاوا">
-<!ENTITY javaConsoleCmd.accesskey "پ">
-<!ENTITY errorConsoleCmd.label "پیشانهٔ خطاها">
-<!ENTITY errorConsoleCmd.accesskey "پ">
+<!ENTITY errorConsoleCmd.label        "پیشانهٔ خطاها">
+<!ENTITY errorConsoleCmd.accesskey    "پ">
+<!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY fileMenu.label "پرونده">
-<!ENTITY fileMenu.accesskey "پ">
-<!ENTITY newMenu.label "جدید">
-<!ENTITY newMenu.accesskey "ج">
-<!ENTITY newNavigatorCmd.label "پنجرهٔ جدید">
-<!ENTITY newNavigatorCmd.key "N">
-<!ENTITY newNavigatorCmd.accesskey "ج">
+<!ENTITY fileMenu.label         "پرونده"> 
+<!ENTITY fileMenu.accesskey       "پ">
+<!ENTITY newNavigatorCmd.label        "پنجرهٔ جدید">
+<!ENTITY newNavigatorCmd.key        "N">
+<!ENTITY newNavigatorCmd.accesskey      "ج">
 
-<!ENTITY editMenu.label "ویرایش">
-<!ENTITY editMenu.accesskey "و">
-<!ENTITY undoCmd.label "برگردان">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "ب">
-<!ENTITY redoCmd.label "دوباره">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "د">
-<!ENTITY cutCmd.label "بریدن">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "ر">
-<!ENTITY copyCmd.label "نسخه‌برداری">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "ن">
-<!ENTITY pasteCmd.label "چسباندن">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "چ">
-<!ENTITY deleteCmd.label "حذف">
-<!ENTITY deleteCmd.key "D">
-<!ENTITY deleteCmd.accesskey "ح">
-<!ENTITY selectAllCmd.label "انتخاب همه">
-<!ENTITY selectAllCmd.key "ض">
-<!ENTITY selectAllCmd.accesskey "ه">
-<!ENTITY preferencesCmd.label "گزینه‌ها">
-<!ENTITY preferencesCmd.accesskey "گ">
-<!ENTITY preferencesCmdUnix.label "ترجیحات">
-<!ENTITY preferencesCmdUnix.accesskey "ح">
+<!ENTITY editMenu.label         "ویرایش"> 
+<!ENTITY editMenu.accesskey       "و"> 
+<!ENTITY undoCmd.label            "برگردان">  
+<!ENTITY undoCmd.key            "Z">  
+<!ENTITY undoCmd.accesskey          "ب"> 
+<!ENTITY redoCmd.label            "دوباره">  
+<!ENTITY redoCmd.key            "Y">  
+<!ENTITY redoCmd.accesskey          "د"> 
+<!ENTITY cutCmd.label           "بریدن">  
+<!ENTITY cutCmd.key             "X">  
+<!ENTITY cutCmd.accesskey         "ر"> 
+<!ENTITY copyCmd.label            "نسخه‌برداری">  
+<!ENTITY copyCmd.key            "C">  
+<!ENTITY copyCmd.accesskey          "ن"> 
+<!ENTITY pasteCmd.label           "چسباندن">  
+<!ENTITY pasteCmd.key           "V">  
+<!ENTITY pasteCmd.accesskey         "چ"> 
+<!ENTITY deleteCmd.label          "حذف">  
+<!ENTITY deleteCmd.key            "D">  
+<!ENTITY deleteCmd.accesskey        "ح"> 
+<!ENTITY selectAllCmd.label         "انتخاب همه">  
+<!ENTITY selectAllCmd.key         "ض">  
+<!ENTITY selectAllCmd.accesskey       "ه"> 
+<!ENTITY preferencesCmd.label       "گزینه‌ها">
+<!ENTITY preferencesCmd.accesskey     "گ"> 
+<!ENTITY preferencesCmdUnix.label       "ترجیحات">
+<!ENTITY preferencesCmdUnix.accesskey     "ح"> 
 
-<!ENTITY clearPrivateDataCmd.label "پاک‌کردن اطلاعات خصوصی">
-<!ENTITY clearPrivateDataCmd.accesskey "خ">
+<!ENTITY clearRecentHistoryCmd.label            "Clear Recent History">
+<!ENTITY clearRecentHistoryCmd.accesskey        "H">
 
-<!ENTITY viewMenu.label "نما">
-<!ENTITY viewMenu.accesskey "ن">
-<!ENTITY viewToolbarsMenu.label "نوار ابزار">
-<!ENTITY viewToolbarsMenu.accesskey "ن">
+<!ENTITY privateBrowsingCmd.label            "Private Browsing">
+<!ENTITY privateBrowsingCmd.accesskey        "B">
+
+<!ENTITY viewMenu.label         "نما"> 
+<!ENTITY viewMenu.accesskey       "ن"> 
+<!ENTITY viewToolbarsMenu.label       "نوار ابزار"> 
+<!ENTITY viewToolbarsMenu.accesskey     "ن"> 
 <!ENTITY viewSidebarMenu.label "نوار کناری">
 <!ENTITY viewSidebarMenu.accesskey "ک">
-<!ENTITY viewCustomizeToolbar.label "سفارشی‌سازی">
-<!ENTITY viewCustomizeToolbar.accesskey "س">
+<!ENTITY viewCustomizeToolbar.label       "سفارشی‌سازی"> 
+<!ENTITY viewCustomizeToolbar.accesskey     "س">
 
-<!-- XXX historyMenu entities are used with or without places (bug 336058) -->
 <!ENTITY historyMenu.label "تاریخچه">
 <!ENTITY historyMenu.accesskey "ت">
 <!ENTITY historyUndoMenu.label "زبانه‌های تازه بسته‌شده">
-<!ENTITY historyUndoMenu.accesskey "ز">
 
-<!-- XXX places only -->
 <!ENTITY historyHomeCmd.label "آغازه">
-<!ENTITY historyHomeCmd.accesskey "آ">
-<!ENTITY historySearchCmd.label "جستجو در تاریخچه...">
-<!ENTITY historySearchCmd.accesskey "ج">
-<!ENTITY historyShowCmd.label "نمایش تمام تاریخچه">
-<!ENTITY historyShowCmd.accesskey "ن">
-<!ENTITY placesToolbarButton.label "نمایش چوب‌الف‌ها و تاریخچه">
-<!ENTITY placesToolbarButton.tooltip "نمایش چوب‌الف‌ها و تاریخچه">
-<!-- XXX remove below if places sticks -->
-<!ENTITY goMenu.label "رفتن">
-<!ENTITY goMenu.accesskey "ر">
-<!ENTITY goHomeCmd.label "آغازه">
-<!ENTITY earlierHistory.label "تاریخچهٔ پیشتر">
-<!ENTITY historyShowSidebarCmd.label "نشان دادن در نوار کناری ">
-<!-- XXX remove above if places sticks -->
+<!ENTITY showAllHistoryCmd2.label "نمایش تمام تاریخچه">
+<!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY releaseCmd.accesskey "ی">
-<!ENTITY releaseCmd.label "یادداشت‌های انتشار">
-
-<!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.accesskey "d">
+<!ENTITY openCmd.commandkey           "l">
+<!ENTITY urlbar.emptyText             "جستجو در چوب‌الف‌ها و تاریخچه">
+<!ENTITY urlbar.accesskey             "d">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -232,124 +209,169 @@
   Do *not* tamper with these values without talking to ben@mozilla.org
   
  -->
-<!ENTITY searchFocus.commandkey "k">
-<!ENTITY searchFocus.commandkey2 "e">
-<!ENTITY searchFocusUnix.commandkey "j">
+<!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
+<!ENTITY searchFocusUnix.commandkey   "j">
 
-<!ENTITY openLinkCmd.label "بازکردن پیوند در پنجرهٔ جدید">
-<!ENTITY openLinkCmd.accesskey "پ">
-<!ENTITY openLinkCmdInTab.label "باز کردن پیوند در زبانهٔ جدید">
-<!ENTITY openLinkCmdInTab.accesskey "ز">
-<!ENTITY openLinkInWindowCmd.label "باز کردن">
-<!ENTITY openLinkInWindowCmd.accesskey "ب">
-<!ENTITY openFrameCmd.label "باز کردن چارچوب در پنجرهٔ جدید">
-<!ENTITY openFrameCmd.accesskey "پ">
-<!ENTITY openFrameCmdInTab.label "باز کردن چارچوب در زبانهٔ جدید">
-<!ENTITY openFrameCmdInTab.accesskey "ز">
-<!ENTITY showOnlyThisFrameCmd.label "نمایش فقط همین چارچوب">
+<!ENTITY openLinkCmd.label            "بازکردن پیوند در پنجرهٔ جدید">
+<!ENTITY openLinkCmd.accesskey        "پ">
+<!ENTITY openLinkCmdInTab.label       "باز کردن پیوند در زبانهٔ جدید">
+<!ENTITY openLinkCmdInTab.accesskey   "ز">
+<!ENTITY openFrameCmd.label           "باز کردن چارچوب در پنجرهٔ جدید">
+<!ENTITY openFrameCmd.accesskey       "پ">
+<!ENTITY openFrameCmdInTab.label      "باز کردن چارچوب در زبانهٔ جدید">
+<!ENTITY openFrameCmdInTab.accesskey  "ز">
+<!ENTITY showOnlyThisFrameCmd.label     "نمایش فقط همین چارچوب">
 <!ENTITY showOnlyThisFrameCmd.accesskey "چ">
-<!ENTITY reloadCmd.commandkey "r">
-<!ENTITY reloadFrameCmd.label "بازآوردن چارچوب">
-<!ENTITY reloadFrameCmd.accesskey "ب">
+<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY reloadFrameCmd.label         "بازآوردن چارچوب">
+<!ENTITY reloadFrameCmd.accesskey     "ب">
 <!ENTITY viewPartialSourceForSelectionCmd.label "نمایش مبدأ متنِ انتخاب شده">
-<!ENTITY viewPartialSourceForMathMLCmd.label "نمایش مبدأ MathML">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "نمایش مبدأ MathML">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "م">
-<!ENTITY viewPageSourceCmd.label "نمایش مبداء صفحه">
-<!ENTITY viewPageSourceCmd.accesskey "ن">
-<!ENTITY viewFrameSourceCmd.label "نمایش مبداء چارچوب">
+<!ENTITY viewPageSourceCmd.label      "نمایش مبداء صفحه">
+<!ENTITY viewPageSourceCmd.accesskey  "ن">
+<!ENTITY viewFrameSourceCmd.label     "نمایش مبداء چارچوب">
 <!ENTITY viewFrameSourceCmd.accesskey "ن">
-<!ENTITY viewPageInfoCmd.label "نمایش اطلاعات صفحه">
-<!ENTITY viewPageInfoCmd.accesskey "ط">
-<!ENTITY viewFrameInfoCmd.label "نمایش اطلاعات چارچوب">
-<!ENTITY viewFrameInfoCmd.accesskey "ط">
-<!ENTITY viewImageCmd.label "نمایش تصویر">
-<!ENTITY viewImageCmd.accesskey "ت">
-<!ENTITY viewBGImageCmd.label "نمایش تصویر پس‌زمینه">
-<!ENTITY viewBGImageCmd.accesskey "ص">
-<!ENTITY setDesktopBackgroundCmd.label "قرار دادن در پس‌زمینهٔ رومیزی ">
-<!ENTITY setDesktopBackgroundCmd.accesskey "ق">
-<!ENTITY bookmarkPageCmd.label "چوب‌الف‌گذاری برای این صفحه...">
-<!ENTITY bookmarkPageCmd.accesskey "چ">
-<!ENTITY bookmarkLinkCmd.label "چوب‌الف‌گذاری برای این پیوند...">
-<!ENTITY bookmarkLinkCmd.accesskey "چ">
-<!ENTITY bookmarkFrameCmd.label "چوب‌الف‌گذاری این چارچوب...">
-<!ENTITY bookmarkFrameCmd.accesskey "چ">
-<!ENTITY sendPageCmd.label "فرستادن پیوند...">
-<!ENTITY sendPageCmd.accesskey "ف">
-<!ENTITY savePageCmd.label "ذخیرهٔ صفحه به نام...">
-<!ENTITY savePageCmd.accesskey "ص">
+<!ENTITY viewPageInfoCmd.label        "نمایش اطلاعات صفحه">
+<!ENTITY viewPageInfoCmd.accesskey    "ط">
+<!ENTITY viewFrameInfoCmd.label       "نمایش اطلاعات چارچوب">
+<!ENTITY viewFrameInfoCmd.accesskey   "ط">
+<!ENTITY reloadImageCmd.label         "بازآوری تصویر">
+<!ENTITY reloadImageCmd.accesskey     "ب">
+<!ENTITY viewImageCmd.label           "نمایش تصویر">
+<!ENTITY viewImageCmd.accesskey       "ت">
+<!ENTITY viewVideoCmd.label           "مشاهدهٔ ویدیو">
+<!ENTITY viewVideoCmd.accesskey       "م">
+<!ENTITY viewBGImageCmd.label         "نمایش تصویر پس‌زمینه">
+<!ENTITY viewBGImageCmd.accesskey     "ص">
+<!ENTITY setDesktopBackgroundCmd.label      "قرار دادن در پس‌زمینهٔ رومیزی ">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "ق">
+<!ENTITY bookmarkPageCmd2.label       "Bookmark This Page">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
+<!ENTITY bookmarkThisLinkCmd.label      "چوب‌الف‌گذاری این پیوند">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "چ">
+<!ENTITY bookmarkThisFrameCmd.label      "چوب‌الف‌گذاری این چارچوب">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "چ">
+<!ENTITY sendPageCmd.label            "فرستادن پیوند...">
+<!ENTITY sendPageCmd.accesskey        "ف">
+<!ENTITY savePageCmd.label            "ذخیرهٔ صفحه به نام...">
+<!ENTITY savePageCmd.accesskey        "ص">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2 "ف">
-<!ENTITY savePageCmd.commandkey "s">
-<!ENTITY saveFrameCmd.label "ذخیرهٔ چارچوب به نام...">
-<!ENTITY saveFrameCmd.accesskey "چ">
-<!ENTITY saveLinkCmd.label "ذخیرهٔ پیوند به نام...">
-<!ENTITY saveLinkCmd.accesskey "پ">
-<!ENTITY sendLinkCmd.label "فرستادن پیوند...">
-<!ENTITY sendLinkCmd.accesskey "و">
-<!ENTITY saveImageCmd.label "ذخیرهٔ تصویر به نام...">
-<!ENTITY saveImageCmd.accesskey "خ">
-<!ENTITY sendImageCmd.label "فرستادن تصویر...">
-<!ENTITY sendImageCmd.accesskey "ص">
-<!ENTITY copyLinkCmd.label "نسخه‌برداری از مکان پیوند">
-<!ENTITY copyLinkCmd.accesskey "ن">
-<!ENTITY copyImageCmd.label "نسخه‌برداری از مکان تصویر">
-<!ENTITY copyImageCmd.accesskey "س">
-<!ENTITY copyImageContentsCmd.label "نسخه‌برداری از تصویر">
-<!ENTITY copyImageContentsCmd.accesskey "خ">
-<!ENTITY blockImageCmd.accesskey "ب">
-<!ENTITY metadataCmd.label "ویژگی‌ها">
-<!ENTITY metadataCmd.accesskey "و">
-<!ENTITY copyEmailCmd.label "نسخه‌برداری از نشانی پست الکترونیکی">
-<!ENTITY copyEmailCmd.accesskey "پ">
-<!ENTITY thisFrameMenu.label "این چارچوب">
-<!ENTITY thisFrameMenu.accesskey "ی">
+<!ENTITY savePageCmd.accesskey2       "ف">
+<!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY saveFrameCmd.label           "ذخیرهٔ چارچوب به نام...">
+<!ENTITY saveFrameCmd.accesskey       "چ">
+<!ENTITY printFrameCmd.label          "چاپ چارچوب…">
+<!ENTITY printFrameCmd.accesskey      "چ">
+<!ENTITY saveLinkCmd.label            "ذخیرهٔ پیوند به نام...">
+<!ENTITY saveLinkCmd.accesskey        "پ">
+<!ENTITY sendLinkCmd.label            "فرستادن پیوند..."> 
+<!ENTITY sendLinkCmd.accesskey        "و">
+<!ENTITY saveImageCmd.label           "ذخیرهٔ تصویر به نام...">
+<!ENTITY saveImageCmd.accesskey       "خ">
+<!ENTITY saveVideoCmd.label           "ذخیرهٔ ویدیو با نام…">
+<!ENTITY saveVideoCmd.accesskey       "ذ">
+<!ENTITY saveAudioCmd.label           "ذخیرهٔ پروندهٔ صوتی به نام…">
+<!ENTITY saveAudioCmd.accesskey       "ذ">
+<!ENTITY sendImageCmd.label           "فرستادن تصویر...">
+<!ENTITY sendImageCmd.accesskey       "ص">
+<!ENTITY sendVideoCmd.label           "ارسال ویدیو…">
+<!ENTITY sendVideoCmd.accesskey       "ا">
+<!ENTITY sendAudioCmd.label           "ارسال پروندهٔ صوتی…">
+<!ENTITY sendAudioCmd.accesskey       "ا">
+<!ENTITY copyLinkCmd.label            "نسخه‌برداری از مکان پیوند">
+<!ENTITY copyLinkCmd.accesskey        "ن">
+<!ENTITY copyLinkTextCmd.label        "نسخه‌برداری از متن پیوند">
+<!ENTITY copyLinkTextCmd.accesskey    "ن">
+<!ENTITY copyImageCmd.label           "نسخه‌برداری از مکان تصویر">
+<!ENTITY copyImageCmd.accesskey       "س">
+<!ENTITY copyImageContentsCmd.label   "نسخه‌برداری از تصویر">
+<!ENTITY copyImageContentsCmd.accesskey  "خ"> 
+<!ENTITY copyVideoURLCmd.label        "نسخه‌برداری از نشانی ویدیو">
+<!ENTITY copyVideoURLCmd.accesskey    "ن">
+<!ENTITY copyAudioURLCmd.label        "نسخه‌برداری از نشانی پروندهٔ صوتی">
+<!ENTITY copyAudioURLCmd.accesskey    "ن">
+<!ENTITY blockImageCmd.accesskey      "ب">
+<!ENTITY metadataCmd.label            "ویژگی‌ها">
+<!ENTITY metadataCmd.accesskey        "و">
+<!ENTITY copyEmailCmd.label           "نسخه‌برداری از نشانی پست الکترونیکی">
+<!ENTITY copyEmailCmd.accesskey       "پ">
+<!ENTITY thisFrameMenu.label              "این چارچوب">
+<!ENTITY thisFrameMenu.accesskey          "ی">
 
-<!ENTITY textZoomEnlargeCmd.label "افزایش">
-<!ENTITY textZoomEnlargeCmd.accesskey "ف">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
-<!ENTITY textZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "پخش">
+<!ENTITY mediaPlay.accesskey         "پ">
+<!ENTITY mediaPause.label            "Pause">
+<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaMute.label             "قطع صدا">
+<!ENTITY mediaMute.accesskey         "ق">
+<!ENTITY mediaUnmute.label           "وصل صدا">
+<!ENTITY mediaUnmute.accesskey       "و">
+<!ENTITY mediaShowControls.label     "نمایش کنترل‌ها">
+<!ENTITY mediaShowControls.accesskey "ن">
+<!ENTITY mediaHideControls.label     "پنهان‌سازی کنترل‌ها">
+<!ENTITY mediaHideControls.accesskey "پ">
 
-<!ENTITY textZoomReduceCmd.label "کاهش">
-<!ENTITY textZoomReduceCmd.accesskey "ک">
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomResetCmd.commandkey "0">
-<!ENTITY textZoomResetCmd.label "عادی">
-<!ENTITY textZoomResetCmd.accesskey "ع">
-<!ENTITY textSize.label "اندازهٔ متن">
-<!ENTITY textSize.accesskey "م">
 
-<!ENTITY newTabButton.tooltip "باز کردن یک زبانهٔ جدید">
-<!ENTITY newWindowButton.tooltip "باز کردن یک پنجرهٔ جدید">
-<!ENTITY sidebarCloseButton.tooltip "بستن نوار کناری">
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY cutButton.tooltip "بریدن">
-<!ENTITY copyButton.tooltip "نسخه‌برداری">
-<!ENTITY pasteButton.tooltip "چسباندن">
+<!ENTITY fullZoomEnlargeCmd.label       "Zoom In">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY quitApplicationCmdWin.label "خروج">
-<!ENTITY quitApplicationCmdWin.accesskey "خ">
+<!ENTITY fullZoomReduceCmd.label        "Zoom Out">
+<!ENTITY fullZoomReduceCmd.accesskey    "O">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
+<!ENTITY fullZoomResetCmd.label         "Reset">
+<!ENTITY fullZoomResetCmd.accesskey     "R">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY fullZoomToggleCmd.label        "بزرگ‌نمایی متن">
+<!ENTITY fullZoomToggleCmd.accesskey    "ب">
+<!ENTITY fullZoom.label                 "Zoom">
+<!ENTITY fullZoom.accesskey             "Z">
+
+<!ENTITY newWindowButton.tooltip        "باز کردن یک پنجرهٔ جدید">
+<!ENTITY sidebarCloseButton.tooltip     "بستن نوار کناری">
+
+<!ENTITY cutButton.tooltip              "بریدن">
+<!ENTITY copyButton.tooltip             "نسخه‌برداری">
+<!ENTITY pasteButton.tooltip            "چسباندن">
+
+<!ENTITY quitApplicationCmdWin.label       "خروج"> 
+<!ENTITY quitApplicationCmdWin.accesskey   "خ">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label "ترک">
-<!ENTITY quitApplicationCmd.accesskey "ت">
-<!ENTITY quitApplicationCmdMac.label "ترک">
-<!ENTITY quitApplicationCmdMac.key "Q">
+<!ENTITY quitApplicationCmd.label       "ترک"> 
+<!ENTITY quitApplicationCmd.accesskey   "ت">
+<!ENTITY quitApplicationCmdMac.label    "ترک">
+<!ENTITY quitApplicationCmdMac.key      "Q">
 
-<!ENTITY closeCmd.label "بستن">
-<!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "س">
+<!ENTITY closeCmd.label                 "بستن">  
+<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.accesskey             "س">
 
 <!ENTITY pageStyleMenu.label "سبک صفحه">
 <!ENTITY pageStyleMenu.accesskey "ک">
-<!ENTITY pageStyleButton.label "سبک‌های صفحه">
 <!ENTITY pageStyleNoStyle.label "بدون سبک">
 <!ENTITY pageStyleNoStyle.accesskey "ب">
 <!ENTITY pageStylePersistentOnly.label "سبک ابتدایی صفحه">
 <!ENTITY pageStylePersistentOnly.accesskey "ب">
 
-<!ENTITY pageStyleIcon.tooltip "تعویض به یک سبک صفحهٔ دیگر">
-<!ENTITY pageReportIcon.tooltip "تغییر تنظیمات بازداشتن پنجره‌های واشو برای این وب‌گاه">
+<!ENTITY pageReportIcon.tooltip            "تغییر تنظیمات بازداشتن پنجره‌های واشو برای این وب‌گاه">
 
 <!ENTITY allowPopups.accesskey "ش">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -360,34 +382,49 @@
 <!ENTITY editPopupSettings.accesskey "و">
 <!ENTITY dontShowMessage.accesskey "ن">
 
-<!ENTITY bidiSwitchPageDirectionItem.label "تعویض جهت صفحه">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey "ع">
-<!ENTITY bidiSwitchTextDirectionItem.label "تعویض جهت متن">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey "ض">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
+<!ENTITY bidiSwitchPageDirectionItem.label        "تعویض جهت صفحه">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "ع">
+<!ENTITY bidiSwitchTextDirectionItem.label        "تعویض جهت متن">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "ض">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label "پیدا کردن در این صفحه...">
+<!ENTITY findOnCmd.label     "پیدا کردن در این صفحه...">
 <!ENTITY findOnCmd.accesskey "پ">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "پیدا کردن مجدد">
+<!ENTITY findAgainCmd.label  "پیدا کردن مجدد">
 <!ENTITY findAgainCmd.accesskey "ج">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
-<!ENTITY spellAddToDictionary.label "اضافه‌کردن به واژه‌نامه">
-<!ENTITY spellAddToDictionary.accesskey "ض">
-<!ENTITY spellEnable.label "غلط‌یابی این فیلد">
-<!ENTITY spellEnable.accesskey "غ">
-<!ENTITY spellNoSuggestions.label "(پیشنهاد املائی‌ای موجود نیست)">
-<!ENTITY spellDictionaries.label "زبان‌ها">
-<!ENTITY spellDictionaries.accesskey "ز">
 <!ENTITY spellAddDictionaries.label "اضافه‌کردن واژه‌نامه...">
 <!ENTITY spellAddDictionaries.accesskey "ا">
 
-<!-- new bookmarks and history -->
-<!ENTITY location.status.not_bookmarked
-  "چوب‌الف (دارد)">
-<!ENTITY location.status.bookmarked
-  "چوب‌الف (ندارد)">
-<!ENTITY location.status.bookmark.tooltip
-  "اضافه کردن چوب‌الف برای این صفحه">
+<!ENTITY editBookmark.done.label                     "Done">
+<!ENTITY editBookmark.cancel.label                   "Cancel">
+<!ENTITY editBookmark.removeBookmark.label           "حذف چوب‌الف">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+<!ENTITY editBookmark.undo.label                     "Undo">
+<!ENTITY editBookmark.undo.accessKey                 "U">
+<!ENTITY editBookmark.edit.label                     "ویرایش…">
+<!ENTITY editBookmark.edit.accessKey                 "E">
+
+<!ENTITY identity.unverifiedsite2 "این پایگاه وبی از هویت خود اطلاعاتی فراهم نمی‌کند.">
+<!ENTITY identity.connectedTo "پایگاهی که به آن متصل هستید:">
+<!-- Localization note (identity.runBy) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy "اداره کننده:">
+
+<!ENTITY identity.moreInfoLinkText "اطلاعات بیشتر…">
+
+<!ENTITY downloadMonitor2.tooltip "برای باز شدن پنجرهٔ بارگیری‌ها کلیک کنید">
+
+<!ENTITY ctrlTab.search.emptyText "جستجو در زبانه‌ها">

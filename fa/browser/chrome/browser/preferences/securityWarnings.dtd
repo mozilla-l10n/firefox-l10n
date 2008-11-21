@@ -1,13 +1,13 @@
-<!ENTITY securityWarnings.title "هشدارهای امنیتی">
+<!ENTITY securityWarnings.title                   "هشدارهای امنیتی">
 
-<!ENTITY security.warn_when "پیام هشداری داده شود اگر:">
-<!ENTITY security.warn_entering_secure.label "صفحهٔ رمزنگاری شده‌ای بازدید می‌شود.">
-<!ENTITY security.warn_entering_secure.accesskey "ر">
-<!ENTITY security.warn_entering_weak.label "صفحه‌ای با رمزنگاری سطح پایین بازدید می‌شود.">
-<!ENTITY security.warn_entering_weak.accesskey "س">
-<!ENTITY security.warn_leaving_secure.label "صفحهٔ رمزنگاری شده ترک می‌شود و صفحهٔ رمزنگاری نشده‌ای بازدید می‌شود.">
-<!ENTITY security.warn_leaving_secure.accesskey "ت">
-<!ENTITY security.warn_submit_insecure.label "اطلاعات بدون رمزنگاری فرستاده می‌شود.">
-<!ENTITY security.warn_submit_insecure.accesskey "ب">
-<!ENTITY security.warn_viewing_mixed.label "صفحهٔ رمزنگاری شده‌ای حاوی اطلاعاتی رمزنگاری نشده بازدید می‌شود.">
-<!ENTITY security.warn_viewing_mixed.accesskey "ط">
+<!ENTITY security.warn_when                       "پیام هشداری داده شود اگر:">
+<!ENTITY security.warn_entering_secure.label      "صفحهٔ رمزنگاری شده‌ای بازدید می‌شود.">
+<!ENTITY security.warn_entering_secure.accesskey  "ر">
+<!ENTITY security.warn_entering_weak.label        "صفحه‌ای با رمزنگاری سطح پایین بازدید می‌شود.">
+<!ENTITY security.warn_entering_weak.accesskey    "س">
+<!ENTITY security.warn_leaving_secure.label       "صفحهٔ رمزنگاری شده ترک می‌شود و صفحهٔ رمزنگاری نشده‌ای بازدید می‌شود.">
+<!ENTITY security.warn_leaving_secure.accesskey   "ت">
+<!ENTITY security.warn_submit_insecure.label      "اطلاعات بدون رمزنگاری فرستاده می‌شود.">
+<!ENTITY security.warn_submit_insecure.accesskey  "ب">
+<!ENTITY security.warn_viewing_mixed.label        "صفحهٔ رمزنگاری شده‌ای حاوی اطلاعاتی رمزنگاری نشده بازدید می‌شود.">
+<!ENTITY security.warn_viewing_mixed.accesskey    "ط">

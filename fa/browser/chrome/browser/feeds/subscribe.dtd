@@ -1,10 +1,6 @@
-<!ENTITY feedPage.title "نمایش خورد">
-<!ENTITY feedSubscriptionInfo1a "این یک «">
-<!ENTITY feedName "خورد">
-<!ENTITY feedSubscriptionInfo1b "» از تغییرات مکرر محتوای این وب‌گاه است.">
-<!ENTITY feedSubscriptionInfo2 "می‌توانید این خورد را آبونه شوید تا تغییرات این محتوا به دستتان برسد.">
-<!ENTITY feedSubscribeNow "هم‌اکنون آبونه شوید">
-<!ENTITY subscribeUsing "آبونه‌شدن این خورد توسط ">
-<!ENTITY feedLiveBookmarks "چوب‌الف‌های زنده">
-<!ENTITY error.title "خطا در پردازشِ خورد">
-<!ENTITY error.message "خطایی در پردازش این خورد پیش آمد. تقصیر ما است. :-( اگر می‌دانید این خورد چیست همچنان می‌توانید آن را آبونه شوید. در صورت نیاز، اطلاعات بیشتر در مورد خطا چنین می‌باشد:">
+<!ENTITY feedPage.title
+  "نمایش خورد">
+<!ENTITY feedSubscribeNow
+  "هم‌اکنون آبونه شوید">
+<!ENTITY feedLiveBookmarks
+  "چوب‌الف‌های زنده">

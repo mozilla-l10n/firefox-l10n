@@ -34,31 +34,31 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!-- Values for changepassword.xul -->
 
-<!ENTITY setPassword.title "تغییر گذرواژهٔ اصلی">
+<!-- Values for changepassword.xul -->
+<!ENTITY setPassword.title  "تغییر گذرواژهٔ اصلی">
 <!ENTITY setPassword.tokenName.label "دستگاه امنیتی">
 <!ENTITY setPassword.oldPassword.label "گذرواژهٔ فعلی:">
 <!ENTITY setPassword.newPassword.label "گذرواژهٔ جدید:">
 <!ENTITY setPassword.reenterPassword.label "گذرواژهٔ جدید (دوباره وارد کنید):">
 <!ENTITY setPassword.meter.label "کیفیت‌سنج گذرواژه">
 <!ENTITY setPassword.meter.loading "در حال بار کردن">
+
 <!-- Values for resetpassword.xul -->
-
 <!ENTITY resetPasswordButtonLabel "صفر کردن">
-<!ENTITY resetPassword.title "صفر کردن گذرواژهٔ اصلی">
-<!ENTITY resetPassword.text "اگر گذرواژهٔ اصلی خود را صفر کنید، همهٔ گذرواژه‌های وبی و پست الکترونیکی، اطلاعات فرم‌ها و گواهی‌های شخصی و کلید‌های خصوصی  ذخیره شدهٔ شما فراموش خواهند شد. آیا مطمئنید که می‌خواهید گذرواژهٔ اصلی خود را صفر کنید؟">
+<!ENTITY resetPassword.title  "صفر کردن گذرواژهٔ اصلی">
+<!ENTITY resetPassword.text  "اگر گذرواژهٔ اصلی خود را صفر کنید، همهٔ گذرواژه‌های وبی و پست الکترونیکی، اطلاعات فرم‌ها و گواهی‌های شخصی و کلید‌های خصوصی  ذخیره شدهٔ شما فراموش خواهند شد. آیا مطمئنید که می‌خواهید گذرواژهٔ اصلی خود را صفر کنید؟">
+
 <!-- Values for getpassword.xul -->
-
-<!ENTITY getPassword.title "گذرواژهٔ اصلی را وارد کنید">
-<!ENTITY getPassword.tokenName.label "دستگاه امنیتی">
+<!ENTITY getPassword.title  "گذرواژهٔ اصلی را وارد کنید">
+<!ENTITY getPassword.tokenName2.label "Security Device:">
 <!ENTITY getPassword.password.label "گذرواژه:">
-<!-- These should be common -->
 
+<!-- These should be common -->
 <!ENTITY piperror.title "خطا">
 <!ENTITY pipalert.title "خطا ‐ قابل بازیابی نیست">
-<!-- Prefs panel strings -->
 
+<!-- Prefs panel strings -->
 <!ENTITY pref.security.general.lHeader "امنیت">
 <!ENTITY pref.security.general.rHeader "تنظیمات مربوط به امنیت عمومی">
 <!ENTITY pref.security.general.header "تنظیمات مربوط به امنیت عمومی">
@@ -66,8 +66,8 @@
 <!ENTITY pref.security.general.paranoid.label "استفاده از تنظیمات امنیتی شکاکانه">
 <!ENTITY pref.security.general.certificates.title "گواهی‌ها">
 <!ENTITY pref.security.general.manageCert.label "مدیریت گواهی‌ها">
-<!-- Downloading a cert -->
 
+<!-- Downloading a cert -->
 <!ENTITY downloadCert.title "در حال بارگیری گواهی">
 <!ENTITY downloadCert.message1 "از شما تقاضا شده به یک مرجع صدور گواهی جدید اعتماد کنید.">
 <!ENTITY downloadCert.trustSSL "برای تشخیص هویت وب‌گاه‌ها به این مرجع صدور گواهی اعتماد شود.">
@@ -78,56 +78,58 @@
 <!ENTITY downloadCert.viewPolicy.label "سیاست">
 <!ENTITY downloadCert.viewCert.text "بررسی گواهی مرجع صدور">
 <!ENTITY downloadCert.viewPolicy.text "بررسی سیاست‌ها و رویه‌های مرجع صدور گواهی">
-<!-- Certificate Exists in database -->
 
+<!-- Certificate Exists in database -->
 <!ENTITY caCertExists.title "گواهی موجود است">
 <!ENTITY caCertExists.message "این گواهی از قبل موجود است.">
-<!-- Strings for the MismatchDomain dialog  -->
 
-<!ENTITY domainMismatch.title "خطای امنیتی: عدم تطابق در نام دامنه">
-<!ENTITY examineCert.label "نمایش گواهی">
-<!ENTITY examineCert.accesskey "ن">
-<!-- Strings for the Server cert expired dialog  -->
-
-<!ENTITY serverCertExpired.continue "آیا می‌خواهید با این وجود ادامه دهید؟">
-<!ENTITY serverCertExpired.accept.label "ادامه">
 <!-- Strings for the SSL client auth ask dialog -->
-
 <!ENTITY clientAuthAsk.title "درخواست تشخیص هویت کاربر">
 <!ENTITY clientAuthAsk.message1 "این وب‌گاه درخواست کرده شما خود را با ارائهٔ یک گواهی معرفی کنید:">
 <!ENTITY clientAuthAsk.message2 "یک گواهی به عنوان مدرک شناسایی انتخاب کنید:">
 <!ENTITY clientAuthAsk.message3 "جزئیات گواهی انتخاب شده:">
-<!-- Strings for the cert picker dialog -->
 
+<!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "انتخاب گواهی">
-<!ENTITY certPicker.info "گواهی:">
+<!ENTITY certPicker.info  "گواهی:">
 <!ENTITY certPicker.detailsLabel "جزئیات گواهی انتخاب شده:">
 
-<!ENTITY pkcs12.setpassword.title "یک گذرواژهٔ پشتیبان برای گواهی انتخاب کنید">
-<!ENTITY pkcs12.setpassword.message "گذرواژهٔ پشتیبان گواهی که اینجا تنظیم می‌شود از پروندهٔ پشتیبانی که در آستانهٔ ایجاد آن هستید محافظت می‌کند. برای ادامهٔ پشتیبان‌سازی باید این گذرواژه را تنظیم کنید.">
+<!ENTITY pkcs12.setpassword.title  "یک گذرواژهٔ پشتیبان برای گواهی انتخاب کنید">
+<!ENTITY pkcs12.setpassword.message  "گذرواژهٔ پشتیبان گواهی که اینجا تنظیم می‌شود از پروندهٔ پشتیبانی که در آستانهٔ ایجاد آن هستید محافظت می‌کند. برای ادامهٔ پشتیبان‌سازی باید این گذرواژه را تنظیم کنید.">
 <!ENTITY pkcs12.setpassword.label1 "گذرواژهٔ پشتیبان گواهی:">
 <!ENTITY pkcs12.setpassword.label2 "گذرواژهٔ پشتیبان گواهی (دوباره وارد کنید):">
 <!ENTITY pkcs12.setpassword.reminder "مهم: اگر گذرواژهٔ پشتیبان گواهی‌تان را فراموش کنید، بغداً قادر نخواهید بود از این پشتیبان برای بازگرداندن سیستم به حالت قدیم استقاده کنید. لطفاً گذرواژه را در محل امنی ضبط کنید.">
 
-<!ENTITY pkcs12.getpassword.title "محاورهٔ ورود گذرواژه">
+<!ENTITY pkcs12.getpassword.title  "محاورهٔ ورود گذرواژه">
 <!ENTITY pkcs12.getpassword.message "لطفاً گذرواژه‌ای که برای رمزنگاری این پشتیبان گواهی استفاده شده را وارد کنید.">
 
-<!ENTITY chooseToken.title "محاورهٔ انتخاب نشانه">
+<!ENTITY chooseToken.title  "محاورهٔ انتخاب نشانه">
 <!ENTITY chooseToken.message1 "لطفاً یک نشانه انتخاب کنید.">
 
 <!ENTITY escrowWarn.title "نسخه‌برداری از کلید رمزنگاری">
 <!ENTITY escrowWarn.message1 "این مرجع گواهی تقاضا کرده نسخهٔ پشتیبانی از کلید خصوصی رمزنگاری شما تهیه کند.">
 <!ENTITY escrowWarn.benefit1 "فایدهٔ این کار این است که اگر دسترسی به کلید رمزنگاری خصوصی خود را از دست بدهید، می‌توانید یک نسخه از آن را از این مرجع گواهی بخواهید.">
 <!ENTITY escrowWarn.message2 "با این وجود توجه داشته باشید که کلید خصوصی رمزنگاری شما در مرجع گواهی ذخیره خواهد شد و می‌تواند برای خواندن بی‌اجازهٔ نامه‌ها و نوشتارهای رمزنگاری شدهٔ شما به کار رود.">
+<!ENTITY examineCert.label "نمایش گواهی">
+<!ENTITY examineCert.accesskey "ن">
 
 <!ENTITY serverCrlNextupdate.message "لطفاً از مدیر سیستم‌تان راهنمایی بخواهید.">
-<!-- Strings for the CreateCertInfo dialog  -->
 
+<!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "در حال ایجاد کلید خصوصی">
 <!ENTITY createCertInfo.msg1 "تولید کلید در دست اقدام است... این کار ممکن است چند دقیقه طول بکشد....">
 <!ENTITY createCertInfo.msg2 "لطفاً صبر کنید...">
-<!-- Form Signing confirmation prompt -->
 
+<!-- Form Signing confirmation prompt -->
 <!ENTITY formSigning.title "درخواست امضای متن">
 <!ENTITY formSigning.cert "در حال امضای گواهی">
 <!ENTITY formSigning.confirmPassword "برای تصدیق، این پیغام متنی را با استفاده از گواهی انتخاب شدهٔ خود امضا می‌کنید، لطفاً با وارد کردن گذرواژهٔ اصلی انجام این کار را تصدیق کنید:">
+
+<!-- Strings for protectedAuth dialog -->
+<!ENTITY protectedAuth.title "Protected Token Authentication">
+<!ENTITY protectedAuth.msg "Please authenticate to the token. Authentication method depends on the type of your token.">
+<!ENTITY protectedAuth.tokenName.label "Token:">
+
+<!ENTITY certErrorDlg.title "Secure Connection Failed">
+<!ENTITY certErrorDlg.info1 "This could be a problem with the server's configuration or it could be someone trying to impersonate the server.">
+<!ENTITY certErrorDlg.info2 "If you have connected to this server successfully in the past the error may be temporary and you can try again later.">

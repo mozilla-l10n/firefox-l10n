@@ -1,5 +1,3 @@
-<!ENTITY reporterMenu.title "گزارش وب‌گاه ناهموار">
-<!ENTITY reporterToolBarButton.title "گزارش وب‌گاه ناهموار">
-<!ENTITY reporterMenu.tooltip "گزارش‌کردن وب‌گاه ناهموار">
-<!ENTITY reporterMenu.accesskey "گ">
+<!ENTITY reporterMenu2.title                        "گزارش وب‌گاه ناهموار…">
+<!ENTITY reporterMenu.accesskey                     "ن">
 

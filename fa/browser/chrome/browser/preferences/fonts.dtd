@@ -1,71 +1,68 @@
-<!ENTITY fontsDialog.title "قلم‌ها">
-<!ENTITY window.width "48em">
-<!ENTITY window.macWidth "50em">
-<!ENTITY window.unixWidth "46em">
+<!ENTITY  fontsDialog.title                       "قلم‌ها">
+<!ENTITY  window.width                            "48em">
+<!ENTITY  window.macWidth                         "50em">
+<!ENTITY  window.unixWidth                        "46em">
 
-<!ENTITY language.label "قلم‌ها برای:">
-<!ENTITY language.accesskey "ق">
+<!ENTITY  language.label                          "قلم‌ها برای:">
+<!ENTITY  language.accesskey                      "ق">
 
-<!ENTITY size.label "اندازه:">
-<!ENTITY size.accesskey1 "ن">
-<!ENTITY size.accesskey2 "د">
+<!ENTITY  size.label                              "اندازه:">
+<!ENTITY  sizeProportional.accesskey              "z">
+<!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY proportional.label "مختلف العرض:">
-<!ENTITY proportional.accesskey "م">
+<!ENTITY  proportional.label                      "مختلف العرض:">
+<!ENTITY  proportional.accesskey                  "م">
 
-<!ENTITY serif.label "سریف:">
-<!ENTITY serif.accesskey "س">
-<!ENTITY sans-serif.label "بدون سریف:">
-<!ENTITY sans-serif.accesskey "ب">
-<!ENTITY monospace.label "تک‌عرض:">
-<!ENTITY monospace.accesskey "ک">
-<!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
-<!ENTITY fantasy.label "فانتزی:">
-<!ENTITY fantasy.accesskey "ف">
-<!ENTITY cursive.label "تحریری:">
-<!ENTITY cursive.accesskey "ح">
+<!ENTITY  serif.label                             "سریف:">
+<!ENTITY  serif.accesskey                         "س">
+<!ENTITY  sans-serif.label                        "بدون سریف:">
+<!ENTITY  sans-serif.accesskey                    "ب">
+<!ENTITY  monospace.label                         "تک‌عرض:">
+<!ENTITY  monospace.accesskey                     "ک">
 
-<!ENTITY fontsize.units "نقطه">
-
-<!ENTITY font.langGroup.latin1 "غربی">
-<!ENTITY font.langGroup.latin2 "اروپای مرکزی">
-<!ENTITY font.langGroup.japanese "ژاپنی">
-<!ENTITY font.langGroup.trad-chinese "چینی سنتی (تایوان)‏">
-<!ENTITY font.langGroup.simpl-chinese "چینی ساده‌شده">
-<!ENTITY font.langGroup.trad-chinese-hk "چینی سنتی (هنگ‌کنگ)‏">
-<!ENTITY font.langGroup.korean "کره‌ای">
-<!ENTITY font.langGroup.cyrillic "سیریلی">
-<!ENTITY font.langGroup.baltic "بالتیک">
-<!ENTITY font.langGroup.el "یونانی">
-<!ENTITY font.langGroup.turkish "ترکی استانبولی">
-<!ENTITY font.langGroup.unicode "زبان‌های دیگر">
-<!ENTITY font.langGroup.user-def "تعریف شده توسط کاربر">
-<!ENTITY font.langGroup.thai "تایلندی">
-<!ENTITY font.langGroup.hebrew "عبری">
-<!ENTITY font.langGroup.arabic "عربی">
-<!ENTITY font.langGroup.devanagari "دواناگری">
-<!ENTITY font.langGroup.tamil "تامیلی">
-<!ENTITY font.langGroup.armenian "ارمنی">
-<!ENTITY font.langGroup.bengali "بنگالی">
-<!ENTITY font.langGroup.canadian "آوانگاری کانادایی واحد">
-<!ENTITY font.langGroup.ethiopic "اتوپیایی">
-<!ENTITY font.langGroup.georgian "گرجی">
-<!ENTITY font.langGroup.gujarati "گُجَراتی">
-<!ENTITY font.langGroup.gurmukhi "گورموخی">
-<!ENTITY font.langGroup.khmer "خِمِر">
-<!ENTITY font.langGroup.malayalam "مالایالامی">
+<!ENTITY  font.langGroup.latin1                   "غربی">
+<!ENTITY  font.langGroup.latin2                   "اروپای مرکزی">
+<!ENTITY  font.langGroup.japanese                 "ژاپنی">
+<!ENTITY  font.langGroup.trad-chinese             "چینی سنتی (تایوان)‏">
+<!ENTITY  font.langGroup.simpl-chinese            "چینی ساده‌شده">
+<!ENTITY  font.langGroup.trad-chinese-hk          "چینی سنتی (هنگ‌کنگ)‏">
+<!ENTITY  font.langGroup.korean                   "کره‌ای">
+<!ENTITY  font.langGroup.cyrillic                 "سیریلی">
+<!ENTITY  font.langGroup.baltic                   "بالتیک">
+<!ENTITY  font.langGroup.el                       "یونانی">
+<!ENTITY  font.langGroup.turkish                  "ترکی استانبولی">
+<!ENTITY  font.langGroup.unicode                  "زبان‌های دیگر">
+<!ENTITY  font.langGroup.user-def                 "تعریف شده توسط کاربر">
+<!ENTITY  font.langGroup.thai                     "تایلندی">
+<!ENTITY  font.langGroup.hebrew                   "عبری">
+<!ENTITY  font.langGroup.arabic                   "عربی">
+<!ENTITY  font.langGroup.devanagari               "دواناگری">
+<!ENTITY  font.langGroup.tamil                    "تامیلی">
+<!ENTITY  font.langGroup.armenian                 "ارمنی">
+<!ENTITY  font.langGroup.bengali                  "بنگالی">
+<!ENTITY  font.langGroup.canadian                 "آوانگاری کانادایی واحد">
+<!ENTITY  font.langGroup.ethiopic                 "اتوپیایی">
+<!ENTITY  font.langGroup.georgian                 "گرجی">
+<!ENTITY  font.langGroup.gujarati                 "گُجَراتی">
+<!ENTITY  font.langGroup.gurmukhi                 "گورموخی">
+<!ENTITY  font.langGroup.khmer                    "خِمِر">
+<!ENTITY  font.langGroup.malayalam                "مالایالامی">
+<!ENTITY  font.langGroup.oriya                    "Oriya">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!-- Minimum font size -->
-<!ENTITY minSize.label "حداقل اندازهٔ قلم:">
-<!ENTITY minSize.accesskey "ل">
-<!ENTITY minSize.none "هیچ‌کدام">
+<!ENTITY minSize.label                            "حداقل اندازهٔ قلم:">
+<!ENTITY minSize.accesskey                        "ل">
+<!ENTITY minSize.none                             "هیچ‌کدام">
+
 <!-- default font type -->
+<!ENTITY  useDefaultFontSerif.label               "سِریف">
+<!ENTITY  useDefaultFontSansSerif.label           "بدون سِریف">
 
-<!ENTITY useDefaultFontSerif.label "سِریف">
-<!ENTITY useDefaultFontSansSerif.label "بدون سِریف">
+<!ENTITY  allowPagesToUse.label                   "به صفحات اجازه داده شود که قلم‌هایشان را انتخاب کنند و مجبور به استفاده از انتخاب‌های بالا نباشند">
+<!ENTITY  allowPagesToUse.accesskey               "ج">
 
-<!ENTITY allowPagesToUse.label "به صفحات اجازه داده شود که قلم‌هایشان را انتخاب کنند و مجبور به استفاده از انتخاب‌های بالا نباشند">
-<!ENTITY allowPagesToUse.accesskey "ج">
-
-<!ENTITY languages.customize.Charset.grouplabel "کدگذاری نویسه‌ها">
-<!ENTITY languages.customize.DefaultCharset.label "کدگذاری پیش‌فرض نویسه‌ها:">
-<!ENTITY languages.customize.DefaultCharset.accesskey "ض">
+<!ENTITY languages.customize.Charset.grouplabel         "کدگذاری نویسه‌ها">
+<!ENTITY languages.customize.DefaultCharset.label       "کدگذاری پیش‌فرض نویسه‌ها:">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "ض">

@@ -1,30 +1,27 @@
-<!ENTITY window.width "36em">
+<!ENTITY window.width                       "36em">
 
-<!ENTITY cookiesonsystem.label "کوکی‌های زیر در کامپیوتر شما ذخیره شده‌اند:">
-<!ENTITY cookiename.label "نام کوکی">
-<!ENTITY cookiedomain.label "وب‌گاه">
-<!ENTITY button.removecookie.label "حذف کوکی">
-<!ENTITY button.removecookie.accesskey "ح">
-<!ENTITY button.removeallcookies.label "حذف همهٔ کوکی‌‌ها">
-<!ENTITY button.removeallcookies.accesskey "ه">
+<!ENTITY     cookiesonsystem.label          "کوکی‌های زیر در کامپیوتر شما ذخیره شده‌اند:">
+<!ENTITY     cookiename.label               "نام کوکی">
+<!ENTITY     cookiedomain.label             "وب‌گاه"> 
+<!ENTITY     button.removecookie.label      "حذف کوکی">
+<!ENTITY     button.removecookie.accesskey  "ح">
+<!ENTITY     button.removeallcookies.label  "حذف همهٔ کوکی‌‌ها">
+<!ENTITY     button.removeallcookies.accesskey "ه">
 
-<!ENTITY props.name.label "نام:">
-<!ENTITY props.value.label "محتوا:">
-<!ENTITY props.domain.label "میزبان:">
-<!ENTITY props.path.label "مسیر:">
-<!ENTITY props.secure.label "فرستادن برای:">
-<!ENTITY props.expires.label "زمان انقضاء:">
+<!ENTITY     props.name.label               "نام:">
+<!ENTITY     props.value.label              "محتوا:">
+<!ENTITY     props.domain.label             "میزبان:">
+<!ENTITY     props.path.label               "مسیر:">
+<!ENTITY     props.secure.label             "فرستادن برای:">
+<!ENTITY     props.expires.label            "زمان انقضاء:">
 
-<!ENTITY window.title "کوکی‌ها">
-<!ENTITY windowClose.key "w">
-<!ENTITY focusSearch1.key "f">
-<!ENTITY focusSearch2.key "k">
+<!ENTITY     window.title                   "کوکی‌ها">
+<!ENTITY     windowClose.key                "w">
+<!ENTITY     focusSearch1.key               "f">
+<!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY filter.label "جستجو:">
-<!ENTITY filter.accesskey "ج">
-<!ENTITY clear.label "پاک کردن">
-<!ENTITY clear.accesskey "پ">
+<!ENTITY     filter.label                   "جستجو:">
+<!ENTITY     filter.accesskey               "ج">
 
-<!ENTITY button.close.label "بستن">
-<!ENTITY button.close.accesskey "ب">
-
+<!ENTITY     button.close.label             "بستن">
+<!ENTITY     button.close.accesskey         "ب">

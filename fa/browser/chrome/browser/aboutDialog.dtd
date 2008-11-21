@@ -1,6 +1,10 @@
-<!ENTITY aboutDialog.title "دربارهٔ &brandFullName;">
-<!ENTITY copyright "دست‌اندرکاران">
-<!ENTITY aboutLink "&lt; دربارهٔ &brandFullName;">
-<!ENTITY aboutVersion "نسخهٔ">
-<!ENTITY copyrightText "&#169; مشارکت‌کنندگان ۱۹۹۸-۲۰۰۶. کلیه حقوق محفوظ است. فایرفاکس و نشان‌های فایرفاکس علامت تجاری بنیاد موزیلا هستند. کلیه حقوق محفوظ است. بعضی از علائم تجاری استفاده شده تحت مجوز شرکت چارلتون هستند.">
-<!ENTITY cmdClose.macKey "W">
+<!ENTITY aboutDialog.title          "دربارهٔ &brandFullName;">
+<!ENTITY copyright                  "دست‌اندرکاران">
+<!ENTITY copyright.accesskey        "C">
+<!ENTITY copyrightGNOME.accesskey   "گ">
+<!ENTITY aboutLink                  "&lt; دربارهٔ &brandFullName;">
+<!ENTITY aboutLink.accesskey        "l">
+<!ENTITY aboutVersion               "نسخهٔ">
+<!ENTITY closeCmdGNOME.label        "بستن">  
+<!ENTITY closeCmdGNOME.accesskey    "ب">
+<!ENTITY copyrightInfo              "&#169; حق نسخه‌برداری ۱۹۹۸-۲۰۰۸.  تمام حقوق محفوظ است.  فایرفاکس و لوگوهای آن علائم تجاری بنیاد موزیلا هستند.  تمام حقوق محفوظ است.">

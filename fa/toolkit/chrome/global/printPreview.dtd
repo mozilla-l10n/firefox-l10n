@@ -35,39 +35,38 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY print.label "چاپ...">
-<!ENTITY print.accesskey "چ">
-<!ENTITY pageSetup.label "تنظیمات صفحه...">
-<!ENTITY pageSetup.accesskey "ت">
-<!ENTITY page.label "صفحه:">
-<!ENTITY page.accesskey "ص">
-<!ENTITY of.label "از">
-<!ENTITY scale.label "مقیاس:">
-<!ENTITY scale.accesskey "م">
-<!ENTITY percent.label "٪">
-<!ENTITY portrait.label "پرتره‌ای">
-<!ENTITY portrait.accesskey "پ">
-<!ENTITY landscape.label "منظره‌ای">
-<!ENTITY landscape.accesskey "م">
-<!ENTITY close.label "بستن">
-<!ENTITY close.accesskey "ب">
-<!ENTITY p30.label "٪۳۰">
-<!ENTITY p40.label "٪۴۰">
-<!ENTITY p50.label "٪۵۰">
-<!ENTITY p60.label "٪۶۰">
-<!ENTITY p70.label "٪۷۰">
-<!ENTITY p80.label "٪۸۰">
-<!ENTITY p90.label "٪۹۰">
-<!ENTITY p100.label "٪۱۰۰">
-<!ENTITY p125.label "٪۱۲۵">
-<!ENTITY p150.label "٪۱۵۰">
-<!ENTITY p175.label "٪۱۷۵">
-<!ENTITY p200.label "٪۲۰۰">
-<!ENTITY Custom.label "سفارشی...">
-<!ENTITY ShrinkToFit.label "کوچک کردن به اندازهٔ صفحه">
-<!ENTITY customPrompt.title "مقیاس سفارشی...">
+<!ENTITY print.label          "چاپ...">
+<!ENTITY print.accesskey      "چ">
+<!ENTITY pageSetup.label      "تنظیمات صفحه...">
+<!ENTITY pageSetup.accesskey  "ت">
+<!ENTITY page.label           "صفحه:">
+<!ENTITY page.accesskey       "ص">
+<!ENTITY of.label             "از">
+<!ENTITY scale.label          "مقیاس:">
+<!ENTITY scale.accesskey      "م">
+<!ENTITY portrait.label       "پرتره‌ای">
+<!ENTITY portrait.accesskey   "پ">
+<!ENTITY landscape.label      "منظره‌ای">
+<!ENTITY landscape.accesskey  "م">
+<!ENTITY close.label          "بستن">
+<!ENTITY close.accesskey      "ب">
+<!ENTITY p30.label            "٪۳۰">
+<!ENTITY p40.label            "٪۴۰">
+<!ENTITY p50.label            "٪۵۰">
+<!ENTITY p60.label            "٪۶۰">
+<!ENTITY p70.label            "٪۷۰">
+<!ENTITY p80.label            "٪۸۰">
+<!ENTITY p90.label            "٪۹۰">
+<!ENTITY p100.label           "٪۱۰۰">
+<!ENTITY p125.label           "٪۱۲۵">
+<!ENTITY p150.label           "٪۱۵۰">
+<!ENTITY p175.label           "٪۱۷۵">
+<!ENTITY p200.label           "٪۲۰۰">
+<!ENTITY Custom.label         "سفارشی...">
+<!ENTITY ShrinkToFit.label    "کوچک کردن به اندازهٔ صفحه">
+<!ENTITY customPrompt.title   "مقیاس سفارشی...">
 
-<!ENTITY homearrow.tooltip "صفحهٔ اول">
-<!ENTITY endarrow.tooltip "صفحهٔ آخر">
-<!ENTITY rightarrow.tooltip "صفحهٔ بعدی">
-<!ENTITY leftarrow.tooltip "صفحهٔ قبلی">
+<!ENTITY homearrow.tooltip    "صفحهٔ اول">
+<!ENTITY endarrow.tooltip     "صفحهٔ آخر">
+<!ENTITY rightarrow.tooltip   "صفحهٔ بعدی">
+<!ENTITY leftarrow.tooltip    "صفحهٔ قبلی">

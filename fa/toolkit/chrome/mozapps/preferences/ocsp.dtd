@@ -1,11 +1,13 @@
-<!ENTITY window.width "42em">
-
-<!ENTITY ocspDialog.title "تأییدکردن">
-<!ENTITY validation.ocsp.description "&brandShortName; می‌تواند با استفاده از «قرارداد متصل وضعیت گواهی» (OCSP) اعتبار گواهی‌ها را بررسی کند. تعیین کنید &brandShortName; چطور از OCSP استفاده کند:">
-<!ENTITY disableOCSP.label "برای سنجش اعتبار گواهی از OCSP استفاده نشود">
-<!ENTITY certOCSP.label "استفاده از OCSP فقط برای بررسی اعتبار گواهی‌هایی که نشانی خدمات OCSP دارند">
-<!ENTITY proxyOCSP.label "استفاده از OCSP برای بررسی اعتبار همهٔ گواهی‌ها از طریق نشانی و امضاکنندهٔ زیر:">
-<!ENTITY serviceURL.label "نشانی خدمات:">
-<!ENTITY serviceURL.accesskey "خ">
-<!ENTITY signingCA.label "امضا کنندهٔ پاسخ:">
-<!ENTITY signingCA.accesskey "م">
+<!ENTITY ocspDialog.title             "تأییدکردن">
+<!ENTITY enableOCSP.label             "Use the Online Certificate Status Protocol (OCSP) to confirm the current validity of certificates">
+<!ENTITY enableOCSP.accesskey         "U">
+<!ENTITY certOCSP2.label              "Validate a certificate if it specifies an OCSP server">
+<!ENTITY certOCSP2.accesskey          "V">
+<!ENTITY proxyOCSP2.label             "Validate all certificates using the following OCSP server:">
+<!ENTITY proxyOCSP2.accesskey         "a">
+<!ENTITY serviceURL.label             "نشانی خدمات:">
+<!ENTITY serviceURL.accesskey         "خ">
+<!ENTITY signingCA.label              "امضا کنندهٔ پاسخ:">
+<!ENTITY signingCA.accesskey          "م">
+<!ENTITY requireOCSP.label            "When an OCSP server connection fails, treat the certificate as invalid">
+<!ENTITY requireOCSP.accesskey        "W">

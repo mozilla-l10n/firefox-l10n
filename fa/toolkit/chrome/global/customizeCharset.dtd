@@ -37,14 +37,14 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY title.label "سفارشی‌سازی کدگذاری نویسه‌ها">
-<!ENTITY current.label "کدگذاری نویسه‌های فعال:">
-<!ENTITY remove.label "حذف">
-<!ENTITY remove.accessKey "ح">
-<!ENTITY additional.label "کدگذاری نویسه‌های موجود:">
-<!ENTITY add.label "اضافه کردن">
-<!ENTITY add.accessKey "ا">
-<!ENTITY moveUp.label "انتقال به بالا">
-<!ENTITY moveUp.accessKey "ب">
-<!ENTITY moveDown.label "انتقال به پایین">
+<!ENTITY title.label        "سفارشی‌سازی کدگذاری نویسه‌ها">
+<!ENTITY current.label      "کدگذاری نویسه‌های فعال:">
+<!ENTITY remove.label       "حذف">
+<!ENTITY remove.accessKey   "ح">
+<!ENTITY additional.label   "کدگذاری نویسه‌های موجود:">
+<!ENTITY add.label          "اضافه کردن">
+<!ENTITY add.accessKey      "ا">
+<!ENTITY moveUp.label       "انتقال به بالا">
+<!ENTITY moveUp.accessKey   "ب">
+<!ENTITY moveDown.label     "انتقال به پایین">
 <!ENTITY moveDown.accessKey "پ">

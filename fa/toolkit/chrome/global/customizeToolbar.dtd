@@ -1,12 +1,12 @@
-<!ENTITY dialog.title "سفارشی‌سازی نوار ابزار">
-<!ENTITY dialog.style "width: 635px; height: 400px;">
+<!ENTITY dialog.title             "سفارشی‌سازی نوار ابزار">
+<!ENTITY dialog.style             "width: 635px; height: 400px;">
 <!ENTITY instructions.description "شما می‌توانید با کشیدن موارد به یا از نوارهای ابزار، آن‌ها را اضافه یا حذف کنید.">
-<!ENTITY show.label "نمایش:">
-<!ENTITY iconsAndText.label "شمایل و متن">
-<!ENTITY icons.label "شمایل">
-<!ENTITY text.label "متن">
-<!ENTITY useSmallIcons.label "استفاده از شمایل کوچک">
-<!ENTITY restoreDefaultSet.label "احیای مجموعهٔ پیش‌فرض">
-<!ENTITY addNewToolbar.label "اضافه کردن نوار ابزار جدید">
-<!ENTITY saveChanges.label "انجام شد">
-<!ENTITY undoChanges.label "برگرداندن تغییرات">
+<!ENTITY show.label               "نمایش:">
+<!ENTITY iconsAndText.label       "شمایل و متن">
+<!ENTITY icons.label              "شمایل">
+<!ENTITY text.label               "متن">
+<!ENTITY useSmallIcons.label      "استفاده از شمایل کوچک">
+<!ENTITY restoreDefaultSet.label  "احیای مجموعهٔ پیش‌فرض">
+<!ENTITY addNewToolbar.label      "اضافه کردن نوار ابزار جدید">
+<!ENTITY saveChanges.label        "انجام شد">
+<!ENTITY undoChanges.label        "برگرداندن تغییرات">

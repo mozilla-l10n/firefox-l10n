@@ -19,6 +19,8 @@
 # the Initial Developer. All Rights Reserved.
 #
 # Contributor(s): Daniel Brooks <db48x@yahoo.com>
+#                 Florian QUEZE <f.qu@queze.net>
+#                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
 #
 # Alternatively, the contents of this file may be used under the terms of
 # either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,86 +37,86 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY preface "اطلاعات برای: ">
+<!ENTITY  pageInfoWindow.width  "425">
+<!ENTITY  pageInfoWindow.height "470">
 
-<!ENTITY title "اطلاعات صفحه">
-<!ENTITY description "اطلاعات در مورد صفحهٔ فعلی">
-<!ENTITY pageInfoWindow.width "425">
-<!ENTITY pageInfoWindow.height "470">
+<!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "نسخه‌برداری">
+<!ENTITY  copy.accesskey        "ن">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "انتخاب همه">
+<!ENTITY  selectall.accesskey   "ه">
+<!ENTITY  closeWindow.key       "w">
 
-<!ENTITY copy.key "C">
-<!ENTITY copy.label "نسخه‌برداری">
-<!ENTITY copy.accesskey "ن">
-<!ENTITY selectall.key "A">
-<!ENTITY selectall.label "انتخاب همه">
-<!ENTITY selectall.accesskey "ه">
-<!ENTITY closeWindow.key "w">
+<!ENTITY  generalTab            "عمومی">
+<!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalURL            "نشانی:">
+<!ENTITY  generalType           "نوع:">
+<!ENTITY  generalMode           "حالت ترسیم:">
+<!ENTITY  generalSize           "اندازه:">
+<!ENTITY  generalReferrer       "نشانی اینترنتی ارجاع شده:">
+<!ENTITY  generalSource         "متن در حافظهٔ نهان:">
+<!ENTITY  generalModified       "زمان تغییر:">
+<!ENTITY  generalEncoding       "کدگذاری:">
+<!ENTITY  generalMetaName       "نام">
+<!ENTITY  generalMetaContent    "محتوا">
+<!ENTITY  generalSecurityDetails   "Details">
+<!ENTITY  generalSecurityDetails.accesskey "D">
 
-<!ENTITY generalTab "عمومی">
-<!ENTITY generalAccesskey "ع">
-<!ENTITY generalTitle "عنوان:">
-<!ENTITY generalURL "نشانی:">
-<!ENTITY generalMode "حالت ترسیم:">
-<!ENTITY generalType "نوع:">
-<!ENTITY generalSize "اندازه:">
-<!ENTITY generalReferrer "نشانی اینترنتی ارجاع شده:">
-<!ENTITY generalSource "متن در حافظهٔ نهان:">
-<!ENTITY generalSent "ارسال شده:">
-<!ENTITY generalModified "زمان تغییر:">
-<!ENTITY generalExpires "زمان انقضاء:">
-<!ENTITY generalEncoding "کدگذاری:">
-<!ENTITY generalMeta "متا:">
-<!ENTITY generalMetaName "نام">
-<!ENTITY generalMetaContent "محتوا">
+<!ENTITY  mediaTab              "رسانه">
+<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaLocation         "Location:">
+<!ENTITY  mediaText             "Associated Text:">
+<!ENTITY  mediaAltHeader        "متن بدل">
+<!ENTITY  mediaAddress          "نشانی">
+<!ENTITY  mediaType             "نوع">
+<!ENTITY  mediaSize             "Size">
+<!ENTITY  mediaCount            "تعداد">
+<!ENTITY  mediaDimension        "Dimensions:">
+<!ENTITY  mediaLongdesc         "شرح طولانی:">
+<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaSaveAs           "ذخیره به نام...">
+<!ENTITY  mediaSaveAs.accesskey "ن">
+<!ENTITY  mediaSaveAs2.accesskey "e">
+<!ENTITY  mediaPreview          "پیش‌نمایش رسانه">
 
-<!ENTITY formsTab "فرم‌ها">
-<!ENTITY formsAccesskey "ف">
-<!ENTITY formAction "کنش فرم">
-<!ENTITY formMethod "روش">
-<!ENTITY formName "نام">
-<!ENTITY formNo "شمارهٔ">
-<!ENTITY formEncoding "کدگذاری:">
-<!ENTITY formTarget "هدف:">
-<!ENTITY formFields "فیلدها:">
-<!ENTITY formLabel "برچسب">
-<!ENTITY formFName "نام فیلد">
-<!ENTITY formType "نوع">
-<!ENTITY formCValue "مقدار فعلی">
+<!ENTITY  feedTab               "Feeds">
+<!ENTITY  feedTab.accesskey     "F">
+<!ENTITY  feedSubscribe         "Subscribe">
+<!ENTITY  feedSubscribe.accesskey "u">
 
-<!ENTITY linksTab "پیوندها">
-<!ENTITY linksAccesskey "پ">
-<!ENTITY linkNo "شمارهٔ">
-<!ENTITY linkName "نام">
-<!ENTITY linkAddress "نشانی">
-<!ENTITY linkType "نوع">
-<!ENTITY linkTarget "هدف">
-<!ENTITY linkAccessKey "کلید دست‌یابی">
+<!ENTITY  permTab               "Permissions">
+<!ENTITY  permTab.accesskey     "P">
+<!ENTITY  permUseDefault        "Use Default">
+<!ENTITY  permAllow             "Allow">
+<!ENTITY  permAllowSession      "Allow for Session">
+<!ENTITY  permBlock             "Block">
+<!ENTITY  permissionsFor        "Permissions for:">
+<!ENTITY  permImage             "Load Images">
+<!ENTITY  permPopup             "Open Pop-up Windows">
+<!ENTITY  permCookie            "Set Cookies">
+<!ENTITY  permInstall           "Install Extensions or Themes">
 
-<!ENTITY mediaTab "رسانه">
-<!ENTITY mediaAccesskey "ر">
-<!ENTITY mediaHeader "تصویرهای این صفحه">
-<!ENTITY mediaURL "نشانی:">
-<!ENTITY mediaBase "نشانی پایه:">
-<!ENTITY mediaAlt "متن بدل:">
-<!ENTITY mediaAltHeader "متن بدل">
-<!ENTITY mediaNo "شمارهٔ">
-<!ENTITY mediaName "نام">
-<!ENTITY mediaAddress "نشانی">
-<!ENTITY mediaType "نوع">
-<!ENTITY mediaCount "تعداد">
-<!ENTITY mediaPlugin "متصل شونده:">
-<!ENTITY mediaCharset "کدگذاری:">
-<!ENTITY mediaDimensions "ابعاد تعیین شده:">
-<!ENTITY mediaPhysDimensions "ابعاد واقعی:">
-<!ENTITY mediaEncryption "رمزنگاری:">
-<!ENTITY mediaTitle "عنوان:">
-<!ENTITY mediaLongdesc "شرح طولانی:">
-<!ENTITY mediaSaveAs "ذخیره به نام...">
-<!ENTITY mediaSaveAs.accesskey "ن">
-<!ENTITY mediaPreview "پیش‌نمایش رسانه">
+<!ENTITY  securityTab           "Security">
+<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityHeader        "Security information for this page">
+<!ENTITY  securityView.certView "View Certificate">
+<!ENTITY  securityView.accesskey "V">
+<!ENTITY  securityView.unknown   "Unknown">
 
-<!ENTITY framesTab "چارچوب‌ها">
-<!ENTITY framesTab.accesskey "چ">
-<!ENTITY frameName "نام">
-<!ENTITY frameAddress "نشانی">
-<!ENTITY frameType "نوع">
+
+<!ENTITY  securityView.identity.header   "Web Site Identity">
+<!ENTITY  securityView.identity.owner    "Owner: ">
+<!ENTITY  securityView.identity.domain   "Web site: ">
+<!ENTITY  securityView.identity.verifier "Verified by: ">
+
+<!ENTITY  securityView.privacy.header                   "Privacy &amp; History">
+<!ENTITY  securityView.privacy.history                  "Have I visited this web site before today?">
+<!ENTITY  securityView.privacy.cookies                  "Is this web site storing information (cookies) on my computer?">
+<!ENTITY  securityView.privacy.viewCookies              "View Cookies">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.passwords                "Have I saved any passwords for this web site?">
+<!ENTITY  securityView.privacy.viewPasswords            "View Saved Passwords">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+
+<!ENTITY  securityView.technical.header                 "Technical Details">

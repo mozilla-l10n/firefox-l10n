@@ -1,20 +1,40 @@
-<!ENTITY sanitizeDialog.title "پاک کردن اطلاعات خصوصی">
+<!ENTITY sanitizePrefs.title           "Clear Private Data">
+<!ENTITY sanitizeDialog2.title         "Clear Recent History">
 
-<!ENTITY sanitizeItems.label "موارد زیر هم اکنون پاک شوند:">
+<!ENTITY sanitizeItems.label          "موارد زیر هم اکنون پاک شوند:">
+<!ENTITY clearDataSettings2.label     "When I quit &brandShortName;, it should automatically clear all:">
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
+<!ENTITY clearDuration.label          "Remove ">
+<!ENTITY clearDuration.lastHour       "the last hour">
+<!ENTITY clearDuration.last2Hours     "the last 2 hours">
+<!ENTITY clearDuration.last4Hours     "the last 4 hours">
+<!ENTITY clearDuration.today          "my history for today">
+<!ENTITY clearDuration.everything     "my entire history">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix         "">
 
-<!ENTITY itemHistory.label "تاریخچهٔ مرور">
-<!ENTITY itemHistory.accesskey "م">
-<!ENTITY itemFormSearchHistory.label "فرم ذخیره‌شده و تاریخچهٔ جستجو">
-<!ENTITY itemFormSearchHistory.accesskey "ف">
-<!ENTITY itemPasswords.label "گذرواژه‌های ذخیره شده">
-<!ENTITY itemPasswords.accesskey "گ">
-<!ENTITY itemCookies.label "کوکی‌ها">
-<!ENTITY itemCookies.accesskey "ک">
-<!ENTITY itemCache.label "حافظهٔ نهان">
-<!ENTITY itemCache.accesskey "ح">
-<!ENTITY itemDownloads.label "تاریخچهٔ بارگیری">
-<!ENTITY itemDownloads.accesskey "ب">
-<!ENTITY itemSessions.label "نشست‌های تأیید شده">
-<!ENTITY itemSessions.accesskey "ن">
+<!ENTITY historySection.label         "History">
+<!ENTITY dataSection.label            "Data">
+
+<!ENTITY itemVisitedPages.label       "Visited Pages">
+<!ENTITY itemVisitedPages.accesskey   "V">
+<!ENTITY itemFormSearchEntries.label  "Form &amp; Search Entries">
+<!ENTITY itemFormSearchEntries.accesskey "F">
+<!ENTITY itemPasswords.label          "گذرواژه‌های ذخیره شده">
+<!ENTITY itemPasswords.accesskey      "گ">
+<!ENTITY itemCookies.label            "کوکی‌ها">
+<!ENTITY itemCookies.accesskey        "ک">
+<!ENTITY itemWebCache.label           "Web Cache">
+<!ENTITY itemWebCache.accesskey       "W">
+<!ENTITY itemOfflineApps.label        "Offline Website Data">
+<!ENTITY itemOfflineApps.accesskey    "O">
+<!ENTITY itemDownloadList.label       "Download List">
+<!ENTITY itemDownloadList.accesskey   "D">
+<!ENTITY itemActiveLogins.label       "Active Logins">
+<!ENTITY itemActiveLogins.accesskey   "L">
+
+<!ENTITY window.width                 "30em">
+<!ENTITY column.width                 "14em">

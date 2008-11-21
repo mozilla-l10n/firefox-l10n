@@ -1,8 +1,9 @@
 <!-- extracted from institems.xul -->
 
-<!ENTITY dialog.title "نصب نرم‌افزار">
-<!ENTITY warningText2.label "نرم‌افزار غرض‌آلود می‌تواند به کامپیوتر شما صدمه بزند یا به حریم خصوصی شما وارد شود.">
-<!ENTITY warningText3.label "فقط از منابعی که به آنها اعتماد دارید نرم‌افزار نصب کنید.">
+<!ENTITY dialog.title            "نصب نرم‌افزار">
+<!ENTITY dialog.style            "width: 45em">
+<!ENTITY warningPrimary.label    "Install add-ons only from authors whom you trust.">
+<!ENTITY warningSecondary.label  "Malicious software can damage your computer or violate your privacy.">
 
 <!ENTITY from.label "از:">
 

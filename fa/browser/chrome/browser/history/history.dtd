@@ -1,9 +1,9 @@
-<!ENTITY find.label "جستجو:">
-<!ENTITY find.accesskey "ج">
-<!ENTITY expand.label "بسط دادن">
-<!ENTITY expand.accesskey "ب">
-<!ENTITY collapse.label "جمع کردن">
-<!ENTITY collapse.accesskey "ج">
+<!ENTITY find.label                "جستجو:">
+<!ENTITY find.accesskey            "ج">
+<!ENTITY expand.label              "بسط دادن">
+<!ENTITY expand.accesskey          "ب">
+<!ENTITY collapse.label            "جمع کردن">
+<!ENTITY collapse.accesskey        "ج">
 <!ENTITY byDate.label "‌بر حسب تاریخ">
 <!ENTITY byDate.accesskey "ت">
 <!ENTITY bySite.label "بر حسب پایگاه">
