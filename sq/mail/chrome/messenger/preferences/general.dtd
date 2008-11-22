@@ -32,7 +32,6 @@
 <!ENTITY customizeMailAlert.label         "Përshtasni...">
 <!ENTITY customizeMailAlert.accesskey     "C">
 
-<!ENTITY soundNotification1.caption       "Tingull">
 <!ENTITY play.label                       "Luaj">
 <!ENTITY play.accesskey                   "P">
 <!ENTITY systemsound.label                "Tingull parazgjedhje sistemi për postë të re">
@@ -43,3 +42,9 @@
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "Shfletoni...">
 <!ENTITY browse.accesskey                 "B">
+
+<!ENTITY addonsMgr.label                  "Shtesa">
+<!ENTITY manageAddonsDescWin.label        "Ndryshoni mundësitë për shtesat tuaja">
+<!ENTITY manageAddonsDescUnix2.label      "Ndryshoni parapëlqimet për shtesat tuaja">
+<!ENTITY manageAddons.label               "Administroni Shtesa…">
+<!ENTITY manageAddons.accesskey           "A">

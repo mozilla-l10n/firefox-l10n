@@ -6,7 +6,7 @@
 <!ENTITY  language.label                          "Gërma për:">
 <!ENTITY  language.accesskey                      "t">
 
-<!ENTITY  typefaces.label                         "Typeface">
+
 <!ENTITY  sizes.label                             "Madhësi (piksela)">
 
 <!ENTITY  proportional.label                      "Proportional:">
@@ -67,3 +67,6 @@
 
 <!ENTITY viewDefaultCharsetList.label     "Postë Ardhëse:">
 <!ENTITY viewDefaultCharsetList.accesskey	"I">
+
+<!ENTITY replyInDefaultCharset2.label     "Kur mundet, përdor në përgjigje kodim parazgjedhje gërmash">
+<!ENTITY replyInDefaultCharset2.accesskey "g">
