@@ -1,67 +1,20 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
- Version: MPL 1.1/GPL 2.0/LGPL 2.1
-
- The contents of this file are subject to the Mozilla Public License Version
- 1.1 (the "License"); you may not use this file except in compliance with
- the License. You may obtain a copy of the License at
- http://www.mozilla.org/MPL/
-
- Software distributed under the License is distributed on an "AS IS" basis,
- WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
- for the specific language governing rights and limitations under the
- License.
-
- The Original Code is Mozilla Communicator client code, released
- March 31, 1998.
-
- The Initial Developer of the Original Code is
- Netscape Communications Corporation.
- Portions created by the Initial Developer are Copyright (C) 1998-1999
- the Initial Developer. All Rights Reserved.
-
- Contributor(s):
-
- Alternatively, the contents of this file may be used under the terms of
- either the GNU General Public License Version 2 or later (the "GPL"), or
- the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
- in which case the provisions of the GPL or the LGPL are applicable instead
- of those above. If you wish to allow use of your version of this file only
- under the terms of either the GPL or the LGPL, and not to allow others to
- use your version of this file under the terms of the MPL, indicate your
- decision by deleting the provisions above and replace them with the notice
- and other provisions required by the GPL or the LGPL. If you do not delete
- the provisions above, a recipient may use your version of this file under
- the terms of any one of the MPL, the GPL or the LGPL.
-
- ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY toField.label "Për: ">
-<!ENTITY fromField.label "Prej: ">
-<!ENTITY senderField.label "Dërgues: ">
-<!ENTITY organizationField.label "Organizëm: ">
-<!ENTITY replyToField.label "Përgjigjju: ">
-
-<!ENTITY subjectField.label "Subjekt: ">
-<!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField.label "Cc: ">
-<!ENTITY bccField.label "Bcc: ">
-<!ENTITY newsgroupsField.label "Grupe Lajmesh: ">
-<!ENTITY followupToField.label "Followup-To: ">
-
-<!ENTITY dateField.label "Datë: ">
-<!ENTITY userAgentField.label "User-Agent: ">
-<!ENTITY originalWebsite.label "&quot;Site&quot; Web: ">
-<!ENTITY saveAll.label "Ruaj Tërë...">
-
-<!ENTITY editMessage.label "Përpunoni Skicë...">
-<!ENTITY attachmentsTree.label "Bashkangjitje:">
-
+<!ENTITY toField2.label "për: ">
+<!ENTITY fromField2.label "prej: ">
+<!ENTITY senderField2.label "dërgues: ">
+<!ENTITY organizationField2.label "organizëm: ">
+<!ENTITY replyToField2.label "përgjigju-te ">
+<!ENTITY originalWebsite2.label "&quot;site&quot; web ">
+<!ENTITY subjectField2.label "subjekt: ">
+<!ENTITY ccField2.label "cc ">
+<!ENTITY bccField2.label "bcc ">
+<!ENTITY newsgroupsField2.label "grupe lajmesh: ">
+<!ENTITY followupToField2.label "vazhdoje-te ">
+<!ENTITY dateField2.label "datëe ">
+<!ENTITY userAgentField2.label "agjent-përdoruesi: ">
 <!ENTITY openAttachmentCmd.label    "Hap">  
 <!ENTITY openAttachmentCmd.accesskey		"O">  
 <!ENTITY saveAsAttachmentCmd.label    "Ruaj Si...">  
 <!ENTITY saveAsAttachmentCmd.accesskey		"A"> 
-<!ENTITY printAttachmentCmd.label    ".Shtyp">  
-<!ENTITY printAttachmentCmd.accesskey		"P">  
 <!ENTITY detachAttachmentCmd.label    "Shqit ...">  
 <!ENTITY deleteAttachmentCmd.label    "Fshi">  
 <!ENTITY saveAllAttachmentsCmd.label    "Ruaj Tërë...">  
@@ -70,8 +23,25 @@
 <!ENTITY detachAllAttachmentsCmd.accesskey    "D">  
 <!ENTITY deleteAllAttachmentsCmd.label    "Fshi Tërë...">  
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "E">  
-
 <!ENTITY copyLinkCmd.label        "Kopjo Vendndodhje Lidhjeje">  
 <!ENTITY copyLinkCmd.accesskey		"C">  
-
-<!ENTITY tagsHdr.label "Shenja: ">
+<!ENTITY tagsHdr2.label "Etiketa: ">
+<!ENTITY CopyMessageId.label "Kopjo ID Mesazhi">
+<!ENTITY OpenMessageForMsgId.label "Hap Mesazhin Për ID-në">
+<!ENTITY OpenBrowserWithMsgId.label "Hap Shfletuesin me ID Mesazhi">
+<!ENTITY editMessageDescription.label "Ky është një mesazh skicë">
+<!ENTITY editMessageButton.label "Përpunoni…">
+<!ENTITY forwardButton.label "përcille…">
+<!ENTITY junkButton.label "shënoje si hedhurinë">
+<!ENTITY hideDetailsButton.label "fshihi hollësitë">
+<!ENTITY showDetailsButton.label "shfaqi hollësitë">
+<!ENTITY inReplyToField2.label "si-përgjigje-për ">
+<!ENTITY messageIdField2.label "id mesazhi">
+<!ENTITY otherActionsButton.label "veprime të tjera">
+<!ENTITY referencesField2.label "referenca ">
+<!ENTITY replyButton.label "përgjigju…">
+<!ENTITY saveAsMenuItem.label "ruaje si…">
+<!ENTITY saveAsMenuItem.accesskey "S">
+<!ENTITY viewSourceMenuItem.label "shihni burimin…">
+<!ENTITY viewSourceMenuItem.accesskey "i">
+<!ENTITY trashButton.tooltiptext "fshije">
