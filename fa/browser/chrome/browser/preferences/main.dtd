@@ -30,8 +30,8 @@
 <!ENTITY alwaysAsk.label "محل ذخیرهٔ هر پرونده سؤال شود">
 <!ENTITY alwaysAsk.accesskey "م">
 
-<!ENTITY addonsMgr.label               "Add-ons">
-<!ENTITY manageAddonsDescWin.label     "Change options for your add-ons">
-<!ENTITY manageAddonsDescUnix2.label   "Change preferences for your add-ons">
-<!ENTITY manageAddons.label            "Manage Add-ons…">
-<!ENTITY manageAddons.accesskey        "M">
+<!ENTITY addonsMgr.label               "افزودنی‌ها">
+<!ENTITY manageAddonsDescWin.label     "تغییر تنظیمات افزودنی‌ها">
+<!ENTITY manageAddonsDescUnix2.label   "تغییر ترجیحات افزودنی‌ها">
+<!ENTITY manageAddons.label            "مدیریت افزودنی‌ها…">
+<!ENTITY manageAddons.accesskey        "ا">

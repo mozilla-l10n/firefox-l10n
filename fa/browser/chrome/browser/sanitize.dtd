@@ -1,40 +1,40 @@
-<!ENTITY sanitizePrefs.title           "Clear Private Data">
-<!ENTITY sanitizeDialog2.title         "Clear Recent History">
+<!ENTITY sanitizePrefs.title           "پاک‌سازی اطلاعات خصوصی">
+<!ENTITY sanitizeDialog2.title         "پاک‌سازی تاریخچهٔ اخیر">
 
 <!ENTITY sanitizeItems.label          "موارد زیر هم اکنون پاک شوند:">
-<!ENTITY clearDataSettings2.label     "When I quit &brandShortName;, it should automatically clear all:">
+<!ENTITY clearDataSettings2.label     "هنگامی که از &brandShortName; خارج می‌شوم، موارد زیر باید به صورت خودکار پاک شوند:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY clearDuration.label          "Remove ">
-<!ENTITY clearDuration.lastHour       "the last hour">
-<!ENTITY clearDuration.last2Hours     "the last 2 hours">
-<!ENTITY clearDuration.last4Hours     "the last 4 hours">
-<!ENTITY clearDuration.today          "my history for today">
-<!ENTITY clearDuration.everything     "my entire history">
+<!ENTITY clearDuration.label          "حذف ">
+<!ENTITY clearDuration.lastHour       "ساعت گذشته">
+<!ENTITY clearDuration.last2Hours     "۲ ساعت گذشته">
+<!ENTITY clearDuration.last4Hours     "۴ ساعت گذشته">
+<!ENTITY clearDuration.today          "تاریخچهٔ امروز من">
+<!ENTITY clearDuration.everything     "تمام تاریخچهٔ من">
 <!-- Localization note (clearDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearDuration.suffix         "">
 
-<!ENTITY historySection.label         "History">
-<!ENTITY dataSection.label            "Data">
+<!ENTITY historySection.label         "تاریخچه">
+<!ENTITY dataSection.label            "اطلاعات">
 
-<!ENTITY itemVisitedPages.label       "Visited Pages">
-<!ENTITY itemVisitedPages.accesskey   "V">
-<!ENTITY itemFormSearchEntries.label  "Form &amp; Search Entries">
-<!ENTITY itemFormSearchEntries.accesskey "F">
+<!ENTITY itemVisitedPages.label       "صفحه‌های بازدید شده">
+<!ENTITY itemVisitedPages.accesskey   "ص">
+<!ENTITY itemFormSearchEntries.label  "موارد فرم‌ها و جستجوها">
+<!ENTITY itemFormSearchEntries.accesskey "م">
 <!ENTITY itemPasswords.label          "گذرواژه‌های ذخیره شده">
 <!ENTITY itemPasswords.accesskey      "گ">
 <!ENTITY itemCookies.label            "کوکی‌ها">
 <!ENTITY itemCookies.accesskey        "ک">
-<!ENTITY itemWebCache.label           "Web Cache">
-<!ENTITY itemWebCache.accesskey       "W">
-<!ENTITY itemOfflineApps.label        "Offline Website Data">
-<!ENTITY itemOfflineApps.accesskey    "O">
-<!ENTITY itemDownloadList.label       "Download List">
-<!ENTITY itemDownloadList.accesskey   "D">
-<!ENTITY itemActiveLogins.label       "Active Logins">
-<!ENTITY itemActiveLogins.accesskey   "L">
+<!ENTITY itemWebCache.label           "حافظهٔ نهان وب">
+<!ENTITY itemWebCache.accesskey       "ح">
+<!ENTITY itemOfflineApps.label        "اطلاعات غیر متصل وب‌گاه‌ها">
+<!ENTITY itemOfflineApps.accesskey    "ا">
+<!ENTITY itemDownloadList.label       "فهرست بارگیری‌ها">
+<!ENTITY itemDownloadList.accesskey   "ف">
+<!ENTITY itemActiveLogins.label       "نشست‌های فعال">
+<!ENTITY itemActiveLogins.accesskey   "ن">
 
 <!ENTITY window.width                 "30em">
 <!ENTITY column.width                 "14em">

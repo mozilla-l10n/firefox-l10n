@@ -2,8 +2,8 @@
 <!ENTITY  engineManager.style       "min-width: 35em;">
 <!ENTITY  engineManager.intro       "موتورهای جستجوی زیر نصب شده‌اند:">
 
-<!ENTITY  columnLabel.name          "Name">
-<!ENTITY  columnLabel.keyword       "واژهٔ کلیدی">
+<!ENTITY  columnLabel.name          "نام">
+<!ENTITY  columnLabel.keyword       "کلیدواژه">
 
 <!-- Buttons -->
 <!ENTITY  up.label                  "انتقال به بالا">
@@ -15,7 +15,7 @@
 <!ENTITY  edit.label                "ویرایش واژهٔ کلیدی…">
 <!ENTITY  edit.accesskey            "و">
 
-<!ENTITY  addEngine.label           "گرفتن موتورهای جستجوی بیشتر...">
+<!ENTITY  addEngine.label           "گرفتن موتورهای جستجوی بیشتر…">
 <!ENTITY  addEngine.accesskey       "م">
 
 <!ENTITY  enableSuggest.label       "نمایش پیشنهادهای جستجو">

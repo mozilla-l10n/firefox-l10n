@@ -1,6 +1,6 @@
 <!ENTITY dialog.title             "سفارشی‌سازی نوار ابزار">
 <!ENTITY dialog.style             "width: 635px; height: 400px;">
-<!ENTITY instructions.description "شما می‌توانید با کشیدن موارد به یا از نوارهای ابزار، آن‌ها را اضافه یا حذف کنید.">
+<!ENTITY instructions.description "می‌توانید با کشیدن موارد، آن‌ها را به نوار ابزار اضافه کنید یا از آن حذف نمایید.">
 <!ENTITY show.label               "نمایش:">
 <!ENTITY iconsAndText.label       "شمایل و متن">
 <!ENTITY icons.label              "شمایل">

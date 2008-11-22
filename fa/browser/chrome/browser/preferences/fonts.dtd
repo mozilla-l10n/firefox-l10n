@@ -47,10 +47,10 @@
 <!ENTITY  font.langGroup.gurmukhi                 "گورموخی">
 <!ENTITY  font.langGroup.khmer                    "خِمِر">
 <!ENTITY  font.langGroup.malayalam                "مالایالامی">
-<!ENTITY  font.langGroup.oriya                    "Oriya">
-<!ENTITY  font.langGroup.telugu                   "Telugu">
-<!ENTITY  font.langGroup.kannada                  "Kannada">
-<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.oriya                    "اوریه‌ای">
+<!ENTITY  font.langGroup.telugu                   "تلوگویی">
+<!ENTITY  font.langGroup.kannada                  "کاناده‌ای">
+<!ENTITY  font.langGroup.sinhala                  "سینهالی">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "حداقل اندازهٔ قلم:">
 <!ENTITY minSize.accesskey                        "ل">

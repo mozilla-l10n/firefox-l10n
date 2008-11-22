@@ -12,15 +12,15 @@
 <!ENTITY safeb.palm.accept.statustext "هدایت به صفحهٔ آغازه">
 <!ENTITY safeb.palm.decline.label "این هشدار نادیده گرفته شود">
 <!ENTITY safeb.palm.decline.statustext "بستن هشدار" >
-<!ENTITY safeb.palm.notforgery.label2 "This isn't a web forgery…">
-<!ENTITY safeb.palm.report.label "Why was this site blocked?">
+<!ENTITY safeb.palm.notforgery.label2 "این یک جعل وبی نیست…">
+<!ENTITY safeb.palm.report.label "چرا این وب‌گاه مسدود شده است؟">
 
-<!ENTITY safeb.blocked.malware.title "Reported Attack Site!">
+<!ENTITY safeb.blocked.malware.title "وب‌گاه تهاجمی گزارش شده!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malware.shortDesc "This web site at <span id='malware_sitename'/> has been reported as an attack site and has been blocked based on your security preferences.">
-<!ENTITY safeb.blocked.malware.longDesc "<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p><p>Some attack sites intentionally distribute harmful software, but many are compromised without the knowledge or permission of their owners.</p>">
+<!ENTITY safeb.blocked.malware.shortDesc "وب‌گاه به نشانی <span id='malware_sitename'/> به عنوان یک وب‌گاه تهاجمی گزارش شده است و دسترسی به آن بر اساس ترجیحات امنیتی شما مسدود شده است.">
+<!ENTITY safeb.blocked.malware.longDesc "<p>وب‌گاه‌های تهاجمی تلاش می‌کنند برنامه‌هایی نصب کنند که اطلاعات خصوصی را سرقت می‌کنند، از رایانهٔ شما برای حمله به دیگران استفاده می‌کنند، یا به آن آسیب می‌زنند.</p>\n<p>برخی وب‌گاه‌های تهاجمی عمداً به پخش نرم‌افزارهای زیان‌بار می‌پردازند، ولی بسیاری از آن‌ها بدون اطلاع و مجوز صاحبانشان تصاحب گردیده‌اند.</p>">
 
-<!ENTITY safeb.blocked.phishing.title "Reported Web Forgery!">
+<!ENTITY safeb.blocked.phishing.title "جعل وبی گزارش شده!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishing.shortDesc "This web site at <span id='phishing_sitename'/> has been reported as a web forgery and has been blocked based on your security preferences.">
-<!ENTITY safeb.blocked.phishing.longDesc "<p>Web forgeries are designed to trick you into revealing personal or financial information by imitating sources you may trust.</p><p>Entering any information on this web page may result in identity theft or other fraud.</p>">
+<!ENTITY safeb.blocked.phishing.shortDesc "وب‌گاه به نشانی <span id='phishing_sitename'/> به عنوان یک جعل وبی گزارش شده است و دسترسی به آن بر اساس ترجیحات امنیتی شما مسدود شده است.">
+<!ENTITY safeb.blocked.phishing.longDesc "<p>جعل‌های وبی برای فریب دادن شما توسط تقلید از منابعی که ممکن است مورد اطمینان شما باشند به جهت افشای اطلاعات شخصی یا مالی شما طراحی گردیده‌اند.</p><p>وارد کردن هر گونه اطلاعاتی در این صفحهٔ وبی ممکن است منجر به دزدیده شدن هویت شما یا تقلب‌های دیگری منجر شود.</p>">

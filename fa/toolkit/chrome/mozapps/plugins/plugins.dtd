@@ -20,6 +20,6 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "اطلاعات بیشتری در مورد متصل شونده‌ها کسب کنید یا متصل شونده‌ها را خودتان دستی پیدا کنید.">
 <!ENTITY pluginWizard.finalPage.restart.label                "برای به کار افتادن متصل شونده(ها) باید &brandShortName; مجدداً راه‌اندازی کرد.">
   
-<!ENTITY missingPlugin.label                                 "Click here to download plugin.">
+<!ENTITY missingPlugin.label                                 "برای بارگیری متصل شونده اینجا کلیک کنید.">
 <!ENTITY disabledPlugin.label                                "The plugin for this content has been disabled. Click here to manage your plugins.">
 <!ENTITY blockedPlugin.label                                 "This plugin has been blocked for your protection.">

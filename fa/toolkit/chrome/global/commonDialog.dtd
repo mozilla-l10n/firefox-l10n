@@ -4,7 +4,7 @@
 <!ENTITY editfield1.label "گذرواژه:"> 
 <!ENTITY editfield2.label "تصدیق گذرواژه:"> 
 <!ENTITY checkbox.label   "بررسی">
-<!ENTITY copyCmd.label    "Copy">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY selectAllCmd.label "Select All">
-<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY copyCmd.label    "نسخه‌برداری">
+<!ENTITY copyCmd.accesskey "ن">
+<!ENTITY selectAllCmd.label "انتخاب همه">
+<!ENTITY selectAllCmd.accesskey "ا">

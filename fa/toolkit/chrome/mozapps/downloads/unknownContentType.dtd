@@ -45,8 +45,8 @@
 <!ENTITY  openWith.accesskey          "ب">
 <!ENTITY  other.label                 "غیره...">
 
-<!ENTITY  saveFile.label              "Save File">
-<!ENTITY  saveFile.accesskey          "s">
+<!ENTITY  saveFile.label              "ذخیرهٔ پرونده">
+<!ENTITY  saveFile.accesskey          "ذ">
 
 <!ENTITY  rememberChoice.label        "از این به بعد به طور خودکار برای پرونده‌های مثل این همین کار انجام شود.">
 <!ENTITY  rememberChoice.accesskey    "خ">

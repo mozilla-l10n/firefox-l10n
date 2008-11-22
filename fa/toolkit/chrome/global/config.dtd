@@ -59,8 +59,8 @@
 
 <!-- Context Menu -->
 <!ENTITY copyPref.key "C">
-<!ENTITY copyPref.label "Copy">
-<!ENTITY copyPref.accesskey "C">
+<!ENTITY copyPref.label "نسخه‌برداری">
+<!ENTITY copyPref.accesskey "ن">
 <!ENTITY copyName.label "نسخه‌برداری از نام">
 <!ENTITY copyName.accesskey "ن">
 <!ENTITY copyValue.label "نسخه‌برداری از مقدار">

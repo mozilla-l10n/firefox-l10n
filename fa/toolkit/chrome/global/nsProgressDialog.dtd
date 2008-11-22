@@ -93,7 +93,7 @@
 <!-- LOCALIZATION NOTE (unknownTime):
     
     This string is used when the time remaining is unknown. -->
-<!ENTITY unknownTime "نامشخص">
+<!ENTITY unknownTime "نامعلوم">
 
 <!-- LOCALIZATION NOTE (longTimeFormat):
 

@@ -117,8 +117,8 @@
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "در حال ایجاد کلید خصوصی">
-<!ENTITY createCertInfo.msg1 "تولید کلید در دست اقدام است... این کار ممکن است چند دقیقه طول بکشد....">
-<!ENTITY createCertInfo.msg2 "لطفاً صبر کنید...">
+<!ENTITY createCertInfo.msg1 "تولید کلید در دست اقدام است… این کار ممکن است چند دقیقه طول بکشد….">
+<!ENTITY createCertInfo.msg2 "لطفاً صبر کنید…">
 
 <!-- Form Signing confirmation prompt -->
 <!ENTITY formSigning.title "درخواست امضای متن">

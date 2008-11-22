@@ -6,9 +6,9 @@
 
   &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
 -->
-<!ENTITY  rememberDaysBefore.label      "Keep my history for at least">
-<!ENTITY  rememberDaysBefore.accesskey  "h">
-<!ENTITY  rememberDaysAfter2.label      "days">
+<!ENTITY  rememberDaysBefore.label      "تاریخچهٔ من را حداقل">
+<!ENTITY  rememberDaysBefore.accesskey  "ت">
+<!ENTITY  rememberDaysAfter2.label      "روز نگهداری کن">
 
 <!ENTITY  rememberForms.label           "اطلاعاتی که در فرم‌های صفحات وب و نوار جستجو وارد می‌شوند را خاطر سپرده شوند.">
 <!ENTITY  rememberForms.accesskey       "ط">
@@ -22,8 +22,8 @@
 <!ENTITY  acceptCookies.label           "به وب‌گاه‌ها اجازهٔ استفاده از کوکی داده شود">
 <!ENTITY  acceptCookies.accesskey       "ج">
 
-<!ENTITY  acceptThirdParty.label        "Accept third-party cookies">
-<!ENTITY  acceptThirdParty.accesskey    "p">
+<!ENTITY  acceptThirdParty.label        "پذیرفتن کوکی‌های شخص ثالث">
+<!ENTITY  acceptThirdParty.accesskey    "ث">
 
 <!ENTITY  keepUntil.label               "نگهداری شوند تا:">
 <!ENTITY  keepUntil.accesskey           "ن">

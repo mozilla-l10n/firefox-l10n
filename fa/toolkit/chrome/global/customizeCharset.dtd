@@ -42,7 +42,7 @@
 <!ENTITY remove.label       "حذف">
 <!ENTITY remove.accessKey   "ح">
 <!ENTITY additional.label   "کدگذاری نویسه‌های موجود:">
-<!ENTITY add.label          "اضافه کردن">
+<!ENTITY add.label          "افزودن">
 <!ENTITY add.accessKey      "ا">
 <!ENTITY moveUp.label       "انتقال به بالا">
 <!ENTITY moveUp.accessKey   "ب">

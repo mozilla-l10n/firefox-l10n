@@ -89,10 +89,10 @@
 <!-- The selected add-on's cancel action button label -->
 <!ENTITY cancel.label                     "انصراف">
 <!ENTITY cancel.accesskey                 "ن">
-<!ENTITY cancelInstall.label              "Cancel">
-<!ENTITY cancelInstall.accesskey          "C">
-<!ENTITY cancelUpgrade.label              "Cancel">
-<!ENTITY cancelUpgrade.accesskey          "C">
+<!ENTITY cancelInstall.label              "انصراف">
+<!ENTITY cancelInstall.accesskey          "ا">
+<!ENTITY cancelUpgrade.label              "انصراف">
+<!ENTITY cancelUpgrade.accesskey          "ا">
 
 <!-- Only displayed in the selected Add-on's context menu -->
 <!ENTITY cmd.homepage.label               "بازدید از صفحهٔ آغازه">
@@ -133,18 +133,18 @@
 <!ENTITY noSearchResults.label            "All results are already installed or incompatible.">
 <!ENTITY noRecommendedResults.label       "All recommendations are already installed or incompatible.">
 <!ENTITY emptySearch.label                "No matching add-ons">
-<!ENTITY emptySearch.button               "OK">
-<!ENTITY cancelSearch.button              "Cancel">
-<!ENTITY searchFailed.button              "OK">
+<!ENTITY emptySearch.button               "تأیید">
+<!ENTITY cancelSearch.button              "انصراف">
+<!ENTITY searchFailed.button              "تأیید">
 <!ENTITY searchResultHomepage.value       "Learn More">
 <!ENTITY searchBox.label                  "Search All Add-ons">
-<!ENTITY recommendedResults.label         "See All Recommended Add-ons">
+<!ENTITY recommendedResults.label         "مشاهدهٔ تمام افزودنی‌های پیشنهاد شده">
 <!ENTITY searchResultConnecting.label     "Connecting…">
-<!ENTITY searchResultInstalling.label     "Installing…">
-<!ENTITY searchResultFailed.label         "Install Failed">
+<!ENTITY searchResultInstalling.label     "در حال نصب…">
+<!ENTITY searchResultFailed.label         "نصب شکست خورد">
 <!ENTITY searchResultInstalled.label      "Install Complete">
-<!ENTITY addonTypeExtension.label         "Extension">
-<!ENTITY addonTypeTheme.label             "Theme">
+<!ENTITY addonTypeExtension.label         "ضمیمه">
+<!ENTITY addonTypeTheme.label             "تم">
 <!ENTITY missingThumbnail.label           "No Preview">
 
 <!ENTITY previewNoThemeSelected.label     "هیچ تم‌ای انتخاب نشده است">
@@ -171,4 +171,4 @@
 <!ENTITY eula.accept                      "Accept and Install…">
 
 <!ENTITY blocklist.blocked.label          "Blocked">
-<!ENTITY blocklist.checkbox.label         "Disable">
+<!ENTITY blocklist.checkbox.label         "از کار انداختن">

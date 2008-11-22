@@ -22,7 +22,7 @@
 <!ENTITY printButton.tooltip            "چاپ کردن این صفحه">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY search.emptytext               "Search">
+<!ENTITY search.emptytext               "جستجو">
 <!ENTITY searchHeader.label             "Search results">
 <!ENTITY toctab.label                   "محتوا">
 <!ENTITY toctab.accesskey               "م">
@@ -46,7 +46,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zLevel.label                   "همیشه روی دیگر پنجره‌ها">
 <!ENTITY zLevel.accesskey               "ر">
 
-<!ENTITY fullZoomReduceBtn.label        "Zoom Out">
-<!ENTITY fullZoomReduceBtn.accesskey    "O">
-<!ENTITY fullZoomEnlargeBtn.label       "Zoom In">
-<!ENTITY fullZoomEnlargeBtn.accesskey   "I">
+<!ENTITY fullZoomReduceBtn.label        "کوچک‌نمایی">
+<!ENTITY fullZoomReduceBtn.accesskey    "ک">
+<!ENTITY fullZoomEnlargeBtn.label       "بزرگ‌نمایی">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "ب">

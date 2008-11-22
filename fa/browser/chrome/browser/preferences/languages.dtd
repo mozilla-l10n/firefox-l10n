@@ -10,6 +10,6 @@
 <!ENTITY languages.customize.deleteButton.label         "حذف">
 <!ENTITY languages.customize.deleteButton.accesskey     "ح">
 <!ENTITY languages.customize.selectLanguage.label       "انتخاب زبان برای اضافه کردن...">
-<!ENTITY languages.customize.addButton.label            "اضافه کردن">
+<!ENTITY languages.customize.addButton.label            "افزودن">
 <!ENTITY languages.customize.addButton.accesskey        "ا">
 

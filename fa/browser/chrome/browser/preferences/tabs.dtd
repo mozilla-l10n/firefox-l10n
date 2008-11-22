@@ -1,5 +1,5 @@
-<!ENTITY newWindowsAsTabs.label       "Open new windows in a new tab instead">
-<!ENTITY newWindowsAsTabs.accesskey   "t">
+<!ENTITY newWindowsAsTabs.label       "به جای نمایش پنجرهٔ جدید، یک زبانهٔ جدید باز شود">
+<!ENTITY newWindowsAsTabs.accesskey   "پ">
 
 <!ENTITY warnCloseMultipleTabs.label  "در هنگام بستن بیش از یک زبانه هشدار داده شود">
 <!ENTITY warnCloseMultipleTabs.accesskey  "ب">

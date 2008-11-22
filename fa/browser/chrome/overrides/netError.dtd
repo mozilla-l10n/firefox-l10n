@@ -99,7 +99,7 @@ be temporary, and you can try again later.</li>
 ">
 
 <!ENTITY securityOverride.linkText "Or you can add an exception…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Get me out of here!">
+<!ENTITY securityOverride.getMeOutOfHereButton "ترک این مکان!">
 <!ENTITY securityOverride.exceptionButtonLabel "Add Exception…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the

@@ -37,13 +37,13 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY  pageInfoWindow.width  "425">
-<!ENTITY  pageInfoWindow.height "470">
+<!ENTITY  pageInfoWindow.width  "600">
+<!ENTITY  pageInfoWindow.height "500">
 
-<!ENTITY  copy.key              "C">
+<!ENTITY  copy.key              "ن">
 <!ENTITY  copy.label            "نسخه‌برداری">
 <!ENTITY  copy.accesskey        "ن">
-<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.key         "ه">
 <!ENTITY  selectall.label       "انتخاب همه">
 <!ENTITY  selectall.accesskey   "ه">
 <!ENTITY  closeWindow.key       "w">
@@ -54,69 +54,69 @@
 <!ENTITY  generalType           "نوع:">
 <!ENTITY  generalMode           "حالت ترسیم:">
 <!ENTITY  generalSize           "اندازه:">
-<!ENTITY  generalReferrer       "نشانی اینترنتی ارجاع شده:">
+<!ENTITY  generalReferrer       "نشانی اینترنتی ارجاع کننده:">
 <!ENTITY  generalSource         "متن در حافظهٔ نهان:">
 <!ENTITY  generalModified       "زمان تغییر:">
 <!ENTITY  generalEncoding       "کدگذاری:">
 <!ENTITY  generalMetaName       "نام">
 <!ENTITY  generalMetaContent    "محتوا">
-<!ENTITY  generalSecurityDetails   "Details">
-<!ENTITY  generalSecurityDetails.accesskey "D">
+<!ENTITY  generalSecurityDetails   "جزئیات">
+<!ENTITY  generalSecurityDetails.accesskey "ج">
 
 <!ENTITY  mediaTab              "رسانه">
-<!ENTITY  mediaTab.accesskey    "M">
-<!ENTITY  mediaLocation         "Location:">
-<!ENTITY  mediaText             "Associated Text:">
+<!ENTITY  mediaTab.accesskey    "ر">
+<!ENTITY  mediaLocation         "مکان:">
+<!ENTITY  mediaText             "متن مربوط:">
 <!ENTITY  mediaAltHeader        "متن بدل">
 <!ENTITY  mediaAddress          "نشانی">
 <!ENTITY  mediaType             "نوع">
-<!ENTITY  mediaSize             "Size">
+<!ENTITY  mediaSize             "اندازه">
 <!ENTITY  mediaCount            "تعداد">
-<!ENTITY  mediaDimension        "Dimensions:">
+<!ENTITY  mediaDimension        "ابعاد:">
 <!ENTITY  mediaLongdesc         "شرح طولانی:">
-<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaBlockImage.accesskey "ب">
 <!ENTITY  mediaSaveAs           "ذخیره به نام...">
 <!ENTITY  mediaSaveAs.accesskey "ن">
-<!ENTITY  mediaSaveAs2.accesskey "e">
-<!ENTITY  mediaPreview          "پیش‌نمایش رسانه">
+<!ENTITY  mediaSaveAs2.accesskey "ذ">
+<!ENTITY  mediaPreview          "پیش‌نمایش رسانه:">
 
-<!ENTITY  feedTab               "Feeds">
-<!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "Subscribe">
-<!ENTITY  feedSubscribe.accesskey "u">
+<!ENTITY  feedTab               "خوردها">
+<!ENTITY  feedTab.accesskey     "خ">
+<!ENTITY  feedSubscribe         "آبونه شدن">
+<!ENTITY  feedSubscribe.accesskey "آ">
 
-<!ENTITY  permTab               "Permissions">
-<!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Use Default">
-<!ENTITY  permAllow             "Allow">
-<!ENTITY  permAllowSession      "Allow for Session">
-<!ENTITY  permBlock             "Block">
-<!ENTITY  permissionsFor        "Permissions for:">
-<!ENTITY  permImage             "Load Images">
-<!ENTITY  permPopup             "Open Pop-up Windows">
-<!ENTITY  permCookie            "Set Cookies">
-<!ENTITY  permInstall           "Install Extensions or Themes">
+<!ENTITY  permTab               "مجوزها">
+<!ENTITY  permTab.accesskey     "م">
+<!ENTITY  permUseDefault        "استفاده از مقدار پیش‌فرض">
+<!ENTITY  permAllow             "اجازه دادن">
+<!ENTITY  permAllowSession      "اجازه دادن برای نشست">
+<!ENTITY  permBlock             "باز داشتن">
+<!ENTITY  permissionsFor        "مجوزهای وب‌گاه:">
+<!ENTITY  permImage             "بارگیری تصاویر">
+<!ENTITY  permPopup             "باز کردن پنجره‌های واشو">
+<!ENTITY  permCookie            "ایجاد کوکی">
+<!ENTITY  permInstall           "نصب ضمیمه یا تم">
 
-<!ENTITY  securityTab           "Security">
-<!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityHeader        "Security information for this page">
-<!ENTITY  securityView.certView "View Certificate">
-<!ENTITY  securityView.accesskey "V">
-<!ENTITY  securityView.unknown   "Unknown">
+<!ENTITY  securityTab           "امنیت">
+<!ENTITY  securityTab.accesskey "ا">
+<!ENTITY  securityHeader        "اطلاعات امنیتی این صفحه">
+<!ENTITY  securityView.certView "نمایش گواهی">
+<!ENTITY  securityView.accesskey "ن">
+<!ENTITY  securityView.unknown   "نامعلوم">
 
 
-<!ENTITY  securityView.identity.header   "Web Site Identity">
-<!ENTITY  securityView.identity.owner    "Owner: ">
-<!ENTITY  securityView.identity.domain   "Web site: ">
-<!ENTITY  securityView.identity.verifier "Verified by: ">
+<!ENTITY  securityView.identity.header   "هویت پایگاه وبی">
+<!ENTITY  securityView.identity.owner    "صاحب: ">
+<!ENTITY  securityView.identity.domain   "پایگاه وبی: ">
+<!ENTITY  securityView.identity.verifier "تأیید شده توسط: ">
 
-<!ENTITY  securityView.privacy.header                   "Privacy &amp; History">
-<!ENTITY  securityView.privacy.history                  "Have I visited this web site before today?">
-<!ENTITY  securityView.privacy.cookies                  "Is this web site storing information (cookies) on my computer?">
-<!ENTITY  securityView.privacy.viewCookies              "View Cookies">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "Have I saved any passwords for this web site?">
-<!ENTITY  securityView.privacy.viewPasswords            "View Saved Passwords">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+<!ENTITY  securityView.privacy.header                   "تاریخچه و موارد خصوصی">
+<!ENTITY  securityView.privacy.history                  "آیا قبل از امروز از این وب‌گاه بازدید کرده‌ام؟">
+<!ENTITY  securityView.privacy.cookies                  "آیا این وب‌گاه اطلاعاتی (کوکی) بر روی رایانهٔ من ذخیره کرده است؟">
+<!ENTITY  securityView.privacy.viewCookies              "مشاهدهٔ کوکی‌ها">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "ک">
+<!ENTITY  securityView.privacy.passwords                "آیا برای این وب‌گاه گذرواژه‌ای ذخیره کرده‌ام؟">
+<!ENTITY  securityView.privacy.viewPasswords            "مشاهدهٔ گذرواژه‌های ذخیره شده">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "گ">
 
-<!ENTITY  securityView.technical.header                 "Technical Details">
+<!ENTITY  securityView.technical.header                 "جزئیات فنی">

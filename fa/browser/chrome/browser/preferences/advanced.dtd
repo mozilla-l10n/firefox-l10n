@@ -8,8 +8,8 @@
 <!ENTITY useCursorNavigation.accesskey   "م">
 <!ENTITY searchStartTyping.label         "هنگامی که شروع به وارد کردن حروف می‌کنم، به دنبال متن جستجو شود">
 <!ENTITY searchStartTyping.accesskey     "ج">
-<!ENTITY blockAutoRefresh.label          "Warn me when web sites try to redirect or reload the page">
-<!ENTITY blockAutoRefresh.accesskey      "b">
+<!ENTITY blockAutoRefresh.label          "هنگامی که پایگاه‌های وبی تلاش می‌کنند صفحه را بازآوری کنند یا تغییر مسیر دهند، هشدار بده">
+<!ENTITY blockAutoRefresh.accesskey      "ه">
 
 <!ENTITY browsing.label                  "مرور">
 
@@ -20,21 +20,21 @@
 <!ENTITY checkSpelling.label             "بررسی املا در هنگام وارد کردن متن">
 <!ENTITY checkSpelling.accesskey         "م">
 
-<!ENTITY systemDefaults.label            "System Defaults">
-<!ENTITY alwaysCheckDefault.label        "Always check to see if &brandShortName; is the default browser on startup"><!--XXX-->
-<!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY checkNow.label                  "Check Now">
-<!ENTITY checkNow.accesskey              "N">
+<!ENTITY systemDefaults.label            "پیش‌فرض‌های سیستم">
+<!ENTITY alwaysCheckDefault.label        "همیشه هنگام شروع بررسی شود که آیا &brandShortName; مرورگر پیش‌فرض است یا خیر"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey    "ه">
+<!ENTITY checkNow.label                  "هم‌اکنون بررسی شود">
+<!ENTITY checkNow.accesskey              "ه">
 
 <!ENTITY networkTab.label                "شبکه">
 
 <!ENTITY connection.label                "اتصال">
 
 <!ENTITY connectionDesc.label            "چگونگی اتصال &brandShortName; به اینترنت را پیکربندی کنید">
-<!ENTITY connectionSettings.label        "تنظیمات...">
+<!ENTITY connectionSettings.label        "تنظیمات…">
 <!ENTITY connectionSettings.accesskey    "ت">
 
-<!ENTITY offlineStorage.label            "Offline Storage">
+<!ENTITY offlineStorage.label            "انبارهٔ غیر متصل">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -45,8 +45,8 @@
 <!ENTITY useCacheBefore.label            "استفاده تا حداکثر">
 <!ENTITY useCacheBefore.accesskey        "ا">
 <!ENTITY useCacheAfter.label             "مگابایت از فضای دیسک برای حافظهٔ نهان.">
-<!ENTITY clearCacheNow.label             "Clear Now">
-<!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY clearCacheNow.label             "هم‌اکنون پاک شود">
+<!ENTITY clearCacheNow.accesskey         "ه">
 
 <!ENTITY updateTab.label                 "به‌هنگام‌سازی">
 
@@ -67,16 +67,16 @@
 <!ENTITY updateHistory.label             "نمایش تاریخچهٔ به‌هنگام‌سازی">
 <!ENTITY updateHistory.accesskey         "ت">
 
-<!ENTITY offlineNotify.label             "Tell me when a website asks to store data for offline use">
-<!ENTITY offlineNotify.accesskey         "T">
-<!ENTITY offlineNotifyExceptions.label   "Exceptions…">
-<!ENTITY offlineNotifyExceptions.accesskey "x">
+<!ENTITY offlineNotify.label             "هنگامی که یک پایگاه وبی تلاش می‌کند اطلاعاتی برای استفادهٔ غیر متصل ذخیره کند، من را مطلع کن">
+<!ENTITY offlineNotify.accesskey         "ه">
+<!ENTITY offlineNotifyExceptions.label   "استثناها…">
+<!ENTITY offlineNotifyExceptions.accesskey "ا">
 
-<!ENTITY offlineAppsList.label           "The following websites have stored data for offline use:">
+<!ENTITY offlineAppsList.label           "پایگاه‌های وبی زیر اطلاعاتی را برای استفادهٔ غیر متصل ذخیره کرده‌اند:">
 <!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Remove…">
-<!ENTITY offlineAppsListRemove.accesskey "R">
-<!ENTITY offlineAppRemove.confirm        "Remove offline data">
+<!ENTITY offlineAppsListRemove.label     "حذف…">
+<!ENTITY offlineAppsListRemove.accesskey "ح">
+<!ENTITY offlineAppRemove.confirm        "حذف اطلاعات غیر متصل">
 
 <!ENTITY encryptionTab.label             "رمزنگاری">
 
@@ -86,7 +86,7 @@
 <!ENTITY useTLS1.label                   "استفاده از TLS 1.0">
 <!ENTITY useTLS1.accesskey               "1">
 <!ENTITY certificates.label              "گواهی‌ها">
-<!ENTITY certSelection.description       "When a server requests my personal certificate:">
+<!ENTITY certSelection.description       "هنگامی که کارگزاری گواهی شخصی من را درخواست می‌کند:">
 <!ENTITY certs.auto                      "به طور خودکار انتخاب شود">
 <!ENTITY certs.auto.accesskey            "خ">
 <!ENTITY certs.ask                       "هر بار پرسیده شود">
@@ -95,7 +95,7 @@
 <!ENTITY viewCerts.accesskey             "ن">
 <!ENTITY viewCRLs.label                  "فهرست‌های ابطال">
 <!ENTITY viewCRLs.accesskey              "ط">
-<!ENTITY verify2.label                   "Validation">
-<!ENTITY verify2.accesskey               "V">
+<!ENTITY verify2.label                   "تأیید کردن">
+<!ENTITY verify2.accesskey               "ت">
 <!ENTITY viewSecurityDevices.label       "دستگاه‌های امنیتی">
 <!ENTITY viewSecurityDevices.accesskey   "س">

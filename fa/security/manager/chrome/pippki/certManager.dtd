@@ -93,8 +93,8 @@
 <!ENTITY certmgr.deleteusercert.aftername     "اگر این گواهی را حذف کنید، دیگر نخواهید توانست نامه‌هایی که با آن رمزنگاری شده‌اند را بخوانید.">
 
 <!ENTITY certmgr.certname                     "نام گواهی">
-<!ENTITY certmgr.certserver                   "Server">
-<!ENTITY certmgr.typesofoverrides             "Exceptions">
+<!ENTITY certmgr.certserver                   "کارگزار">
+<!ENTITY certmgr.typesofoverrides             "استثناها">
 <!ENTITY certmgr.override_lifetime            "Lifetime">
 <!ENTITY certmgr.tokenname                    "دستگاه امنیتی">
 <!ENTITY certmgr.purpose                      "مورد استفاده">
@@ -107,22 +107,22 @@
 <!ENTITY certmgr.close.accesskey              "س">
 <!ENTITY certmgr.view2.label                  "View…">
 <!ENTITY certmgr.view2.accesskey              "V">
-<!ENTITY certmgr.edit2.label                  "Edit…">
-<!ENTITY certmgr.edit2.accesskey              "E">
+<!ENTITY certmgr.edit2.label                  "ویرایش…">
+<!ENTITY certmgr.edit2.accesskey              "و">
 <!ENTITY certmgr.editca.label                 "ویرایش اعتماد به CA">
 <!ENTITY certmgr.editca.accesskey             "ع">
-<!ENTITY certmgr.add.label                    "اضافه کردن">
+<!ENTITY certmgr.add.label                    "افزودن">
 <!ENTITY certmgr.add.accesskey                "ا">
 <!ENTITY certmgr.export.label                 "Export…">
 <!ENTITY certmgr.export.accesskey             "x">
 <!ENTITY certmgr.delete2.label                "Delete…">
 <!ENTITY certmgr.delete2.accesskey            "D">
-<!ENTITY certmgr.backup2.label                "Backup…">
-<!ENTITY certmgr.backup2.accesskey            "B">
+<!ENTITY certmgr.backup2.label                "پشتیبان‌گیری…">
+<!ENTITY certmgr.backup2.accesskey            "پ">
 <!ENTITY certmgr.backupall2.label             "Backup All…">
 <!ENTITY certmgr.backupall2.accesskey         "k">
-<!ENTITY certmgr.restore2.label               "Import…">
-<!ENTITY certmgr.restore2.accesskey           "m">
+<!ENTITY certmgr.restore2.label               "وارد کردن…">
+<!ENTITY certmgr.restore2.accesskey           "و">
 <!ENTITY certmgr.details.label                "فیلدهای گواهی">
 <!ENTITY certmgr.details.accesskey            "ف">
 <!ENTITY certmgr.fields.label                 "مقدار فیلد">
@@ -136,8 +136,8 @@
 <!ENTITY exceptionMgr.exceptionButton         "Confirm Security Exception">
 <!ENTITY exceptionMgr.exceptionButtonAccess   "C">
 <!ENTITY exceptionMgr.supplementalWarning     "Legitimate banks, stores, and other public sites will not ask you to do this.">
-<!ENTITY exceptionMgr.certlocation.caption2   "Server">
-<!ENTITY exceptionMgr.certlocation.url        "Location:">
+<!ENTITY exceptionMgr.certlocation.caption2   "کارگزار">
+<!ENTITY exceptionMgr.certlocation.url        "مکان:">
 <!ENTITY exceptionMgr.certlocation.download   "Get Certificate">
 <!ENTITY exceptionMgr.certlocation.accesskey  "G">
 <!ENTITY exceptionMgr.certstatus.caption      "Certificate Status">

@@ -11,8 +11,8 @@
 <!ENTITY deleteCmd.label "حذف">
 <!ENTITY deleteCmd.accesskey "ح">
 
-<!ENTITY spellAddToDictionary.label "اضافه‌کردن به پوشه">
-<!ENTITY spellAddToDictionary.accesskey "ض">
+<!ENTITY spellAddToDictionary.label "اضافه‌کردن به واژه‌نامه">
+<!ENTITY spellAddToDictionary.accesskey "ا">
 <!ENTITY spellCheckEnable.label "Check Spelling">
 <!ENTITY spellCheckEnable.accesskey "S">
 <!ENTITY spellNoSuggestions.label "(پیشنهاد املائی موجود نیست)">

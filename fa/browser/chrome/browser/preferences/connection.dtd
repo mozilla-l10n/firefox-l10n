@@ -1,13 +1,13 @@
 
 <!ENTITY  connectionsDialog.title       "تنظیمات اتصال">
-<!ENTITY  window.width                  "60em">
-<!ENTITY  window.macWidth               "64em">
+<!ENTITY  window.width                  "37em">
+<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "پیکربندی پیشکارهای دسترسی به اینترنت">
-<!ENTITY  noProxyTypeRadio.label        "No proxy">
-<!ENTITY  noProxyTypeRadio.accesskey    "y">
-<!ENTITY  systemTypeRadio.label         "Use system proxy settings">
-<!ENTITY  systemTypeRadio.accesskey     "u">
+<!ENTITY  noProxyTypeRadio.label        "پیشکاری وجود ندارد">
+<!ENTITY  noProxyTypeRadio.accesskey    "پ">
+<!ENTITY  systemTypeRadio.label         "استفاده از تنظیمات پیشکار سیستم">
+<!ENTITY  systemTypeRadio.accesskey     "س">
 <!ENTITY  WPADTypeRadio.label           "تشخیص خودکار تنظیمات برای این شبکه">
 <!ENTITY  WPADTypeRadio.accesskey       "خ">
 <!ENTITY  manualTypeRadio.label         "پیکربندی دستی پیشکار">
