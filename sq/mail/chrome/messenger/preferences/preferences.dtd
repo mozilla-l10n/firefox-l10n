@@ -1,9 +1,8 @@
-
 <!ENTITY  prefWindow.titleWin     "Mundësi">
 <!ENTITY  prefWindow.titleGNOME   "Parapëlqime &brandShortName;-i">
-<!ENTITY  prefWindow.styleWin     "width: 44em; height: 38em;">
+<!ENTITY  prefWindow.styleWindows "width: 44em; min-height: 38.5em;">
 <!ENTITY  prefWindow.styleMac     "width: 47em;">
-<!ENTITY  prefWindow.styleUnix    "width: 42em;">
+<!ENTITY  prefWindow.styleGNOME   "width: 42em; min-height: 38em;">
 
 <!ENTITY paneGeneral.title       "Të përgjithshëm">
 <!ENTITY paneDisplay.title        "Paraqitje">
@@ -11,4 +10,3 @@
 <!ENTITY paneAttachments.title    "Bashkangjitje">
 <!ENTITY panePrivacy.title       "Vetësi">
 <!ENTITY paneAdvanced.title       "Të mëtejshëm">
-<!ENTITY paneTags.title           "Shenja">
