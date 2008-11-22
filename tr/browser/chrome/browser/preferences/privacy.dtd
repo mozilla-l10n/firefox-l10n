@@ -6,9 +6,9 @@
 
   &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
 -->
-<!ENTITY  rememberDaysBefore.label      "Ziyaret kaydı tutma sınırı:">
-<!ENTITY  rememberDaysBefore.accesskey  "Z">
-<!ENTITY  rememberDaysAfter2.label      "gün">
+<!ENTITY  rememberDaysBefore.label      "En az">
+<!ENTITY  rememberDaysBefore.accesskey  "z">
+<!ENTITY  rememberDaysAfter2.label      "günlük ziyaret geçmişimi hatırla">
 
 <!ENTITY  rememberForms.label           "Formlarda ve arama çubuğunda girdiklerimi anımsa">
 <!ENTITY  rememberForms.accesskey       "o">
