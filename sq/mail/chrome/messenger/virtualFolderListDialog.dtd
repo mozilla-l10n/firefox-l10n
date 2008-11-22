@@ -1,6 +1,2 @@
-<!ENTITY server.label "Llogari: ">
-<!ENTITY server.accesskey "A">
 <!ENTITY virtualFolderListTitle.title        "Përzgjidhni Dosje">
 <!ENTITY virtualFolderDesc.label       "Përzgjidhni dosjet për kërkim:">
-
-

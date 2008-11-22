@@ -3,9 +3,6 @@
 <!ENTITY name.accesskey             "n">
 <!ENTITY description.label          "Krijoje si nëndosje të:">
 <!ENTITY description.accesskey      "C">
-<!ENTITY searchCriteriaText.label   "Ndryshoni kriterin e kërkimit të përdorur për këtë kërkim të ruajtur:">
-<!ENTITY searchCriteriaButton.label "Kriter Kërkimi...">
-<!ENTITY searchCriteriaButton.accesskey "S">
 
 <!ENTITY searchTermCaption.label "Formësoni kriterin e kërkimit të përdorur për këtë dosje kërkimi të ruajtur: ">
 

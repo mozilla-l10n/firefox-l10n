@@ -25,7 +25,3 @@
 <!ENTITY startpage.page "Faqe e Produktit Thunderbird">
 <!ENTITY startpage.pageInfo "Për të dhëna rreth produktit, vizitoni">
 <!ENTITY startpage.pageURL "http://www.mozilla-europe.org/products/thunderbird/">
-
-<!ENTITY startpage.extra "">
-
-<!ENTITY startpage.poweredByGecko "Bazuar në Gecko.">
