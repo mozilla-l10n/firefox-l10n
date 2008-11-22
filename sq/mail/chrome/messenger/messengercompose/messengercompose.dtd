@@ -1,284 +1,265 @@
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-<!ENTITY msgComposeWindow.title "Harto: (pa subjekt)">
+<!ENTITY msgComposeWindow.title "Shkruani: (pa subjekt)">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label "Kartelë"> 
-<!ENTITY fileMenu.accesskey "f">
+<!ENTITY fileMenu.accesskey "k">
 <!ENTITY newMenu.label "I ri">
-<!ENTITY newMenu.accesskey "N">
+<!ENTITY newMenu.accesskey "R">
 <!ENTITY newMessage.label "Mesazh">
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newCard.label "Kartë Libri Vendndodhjesh...">
-<!ENTITY newCard.accesskey "c">
-<!ENTITY attachMenu.label "Bashkangjit">
-<!ENTITY attachMenu.accesskey "t">
-<!ENTITY attachFileCmd.label "Kartelë(a)...">
-<!ENTITY attachFileCmd.accesskey "F">
-<!ENTITY attachPageCmd.label "Faqe Web...">
+<!ENTITY newCard.label "Kartë Libri Vendndodhjesh…">
+<!ENTITY newCard.accesskey "a">
+<!ENTITY attachMenu.label "Bashkangjite">
+<!ENTITY attachMenu.accesskey "b">
+<!ENTITY attachFileCmd.label "Kartelë(a)…">
+<!ENTITY attachFileCmd.accesskey "K">
+<!ENTITY attachPageCmd.label "Faqe Web…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Kartë Vetjake (vCard)">
-<!ENTITY attachVCardCmd.accesskey "P">
-<!ENTITY closeCmd.label "Mbyll">
+<!ENTITY attachVCardCmd.accesskey "V">
+<!ENTITY closeCmd.label "Mbylle">
 <!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "c">
-<!ENTITY saveCmd.label "Ruaj">
+<!ENTITY closeCmd.accesskey "m">
+<!ENTITY saveCmd.label "Ruaje">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveCmd.accesskey "s">
-<!ENTITY saveAsCmd.label "Ruaj Si">
-<!ENTITY saveAsCmd.accesskey "A">
-<!ENTITY saveAsFileCmd.label "Kartelë...">
-<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveCmd.accesskey "R">
+<!ENTITY saveAsCmd.label "Ruaje Si">
+<!ENTITY saveAsCmd.accesskey "S">
+<!ENTITY saveAsFileCmd.label "Kartelë…">
+<!ENTITY saveAsFileCmd.accesskey "K">
 <!ENTITY saveAsDraftCmd.label "Skicë">
-<!ENTITY saveAsDraftCmd.accesskey "D">
-<!ENTITY saveAsTemplateCmd.label "Stampë">
-<!ENTITY saveAsTemplateCmd.accesskey "T">
-<!ENTITY sendNowCmd.label "Dërgo Tani">
+<!ENTITY saveAsDraftCmd.accesskey "C">
+<!ENTITY saveAsTemplateCmd.label "Gjedhe">
+<!ENTITY saveAsTemplateCmd.accesskey "G">
+<!ENTITY sendNowCmd.label "Dërgoje Tani">
 <!ENTITY sendCmd.keycode "VK_RETURN">
 <!ENTITY sendNowCmd.accesskey "d">
-<!ENTITY sendLaterCmd.label "Dërgo Më Vonë">
+<!ENTITY sendLaterCmd.label "Dërgoje Më Vonë">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
-<!ENTITY sendLaterCmd.accesskey "L">
-<!ENTITY printSetupCmd.label "Rregullim Faqeje...">
+<!ENTITY sendLaterCmd.accesskey "V">
+<!ENTITY printSetupCmd.label "Rregullim Faqeje…">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "Shtyp...">
+<!ENTITY printCmd.label "Shtyp…">
 <!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "P">
-<!ENTITY quitApplicationCmdWin.label                    "Dil"> 
-<!ENTITY quitApplicationCmdWin.accesskey                "x">
-<!ENTITY quitApplicationCmd.label                       "Lër"> 
-<!ENTITY quitApplicationCmd.accesskey                   "Q">
-<!ENTITY quitApplicationCmd.key "Q"> 
+<!ENTITY printCmd.accesskey "Y">
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "Përpunim"> 
-<!ENTITY editMenu.accesskey "e">
-<!ENTITY undoCmd.label "Zhbëj">
+<!ENTITY editMenu.accesskey "P">
+<!ENTITY undoCmd.label "Zhbëje">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "u"> 
-<!ENTITY redoCmd.label "Ribëj">
+<!ENTITY undoCmd.accesskey "z"> 
+<!ENTITY redoCmd.label "Ribëje">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "r"> 
-<!ENTITY cutCmd.label "Pri">
+<!ENTITY cutCmd.label "Prije">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t"> 
-<!ENTITY copyCmd.label "Kopjo">
+<!ENTITY cutCmd.accesskey "i"> 
+<!ENTITY copyCmd.label "Kopjoje">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "c"> 
-<!ENTITY pasteCmd.label "Ngjit">
+<!ENTITY copyCmd.accesskey "k"> 
+<!ENTITY pasteCmd.label "Ngjite">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "p">
-<!ENTITY editRewrapCmd.label "Rimbështill">
-<!ENTITY editRewrapCmd.accesskey "w">
-<!ENTITY deleteCmd.label "Fshi">
-<!ENTITY deleteCmd.key "D">
-<!ENTITY deleteCmd.accesskey "d">
-<!ENTITY selectAllCmd.label "Përzgjidh Tërë">
+<!ENTITY pasteCmd.accesskey "N">
+<!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY editRewrapCmd.label "Rimbështille">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY editRewrapCmd.accesskey "r">
+<!ENTITY deleteCmd.label "Fshije">
+<!ENTITY deleteCmd.accesskey "f">
+<!ENTITY selectAllCmd.label "Përzgjidhe të Tërën">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "a"> 
-<!ENTITY findCmd.label "Gjej dhe Zëvendëso...">
+<!ENTITY selectAllCmd.accesskey "t"> 
+<!ENTITY findCmd.label "Gjej dhe Zëvendëso…">
 <!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "F">
-<!ENTITY findAgainCmd.label "Gjej Sërish">
+<!ENTITY findCmd.accesskey "g">
+<!ENTITY findAgainCmd.label "Gjeje Sërish">
 <!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.accesskey "s">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Gjej Të mëparshmen">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "v"> 
+<!ENTITY findPrevCmd.accesskey "m"> 
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Parje"> 
-<!ENTITY viewMenu.accesskey "v">
+<!ENTITY viewMenu.accesskey "p">
 <!ENTITY viewToolbarsMenuNew.label "Panele"> 
-<!ENTITY viewToolbarsMenuNew.accesskey "T"> 
-<!ENTITY showComposeToolbarCmd.label "Panel Poste">
-<!ENTITY showComposeToolbarCmd.accesskey "o">
-<!ENTITY showFormatToolbarCmd.label "Panel Formatimi">
-<!ENTITY showFormatToolbarCmd.accesskey "F">
+<!ENTITY viewToolbarsMenuNew.accesskey "N"> 
+<!ENTITY showCompositionToolbarCmd.label "Panel Hartimi">
+<!ENTITY showFormattingBarCmd.label "Panel Formatimi">
+<!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Shtyllë Gjendje">
-<!ENTITY showTaskbarCmd.accesskey "S">
-<!ENTITY customizeToolbar.label "Përshtat...">
-<!ENTITY customizeToolbar.accesskey "C">
+<!ENTITY showTaskbarCmd.accesskey "G">
+<!ENTITY customizeToolbar.label "Përshtateni…">
+<!ENTITY customizeToolbar.accesskey "t">
 
 <!ENTITY addressSidebar.label "Anështyllë Kontaktesh"> 
-<!ENTITY addressSidebar.accesskey "o"> 
+<!ENTITY addressSidebar.accesskey "a">
 
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "Formatim">
-<!ENTITY formatMenu.accesskey "o">
+<!ENTITY formatMenu.accesskey "f">
 
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Mundësi">
-<!ENTITY optionsMenu.accesskey "p">
-<!ENTITY checkSpellingCmd.label "Kontroll Drejtshkrimi...">
+<!ENTITY optionsMenu.accesskey "M">
+<!ENTITY checkSpellingCmd.label "Kontrollo Drejtshkrimin…">
 <!ENTITY checkSpellingCmd.key "K">
 <!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "h">
+<!ENTITY checkSpellingCmd.accesskey "K">
 <!ENTITY enableInlineSpellChecker.label "Kontrollo Drejtshkrimin Në Shkrim e Sipër">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY quoteCmd.label "Përmend Mesazh">
-<!ENTITY quoteCmd.accesskey "Q">
+<!ENTITY quoteCmd.label "Përmende Mesazhin">
+<!ENTITY quoteCmd.accesskey "P">
+
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCard.label "Bashkangjit Kartë Vetjake (vCard)">
 <!ENTITY attachVCard.accesskey "v">
 
 <!ENTITY returnReceiptMenu.label "Kthim Faturash">
-<!ENTITY returnReceiptMenu.accesskey "t">
+<!ENTITY returnReceiptMenu.accesskey "k">
+<!ENTITY dsnMenu.label "Njoftim Gjendjeje Shpërndarjeje">
+<!ENTITY dsnMenu.accesskey "N">
 <!ENTITY outputFormatMenu.label "Format">
 <!ENTITY outputFormatMenu.accesskey "f">
 <!ENTITY autoFormatCmd.label "Vetëzbulo">
-<!ENTITY autoFormatCmd.accesskey "a">
+<!ENTITY autoFormatCmd.accesskey "v">
 <!ENTITY plainTextFormatCmd.label "Vetëm Tekst të Thjeshtë">
-<!ENTITY plainTextFormatCmd.accesskey "p">
+<!ENTITY plainTextFormatCmd.accesskey "t">
 <!ENTITY htmlFormatCmd.label "Vetëm Tekst të Pasur (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "r">
+<!ENTITY htmlFormatCmd.accesskey "p">
 <!ENTITY bothFormatCmd.label "Tekst të Thjeshtë dhe të Pasur (HTML)">
-<!ENTITY bothFormatCmd.accesskey "l">
+<!ENTITY bothFormatCmd.accesskey "h">
 <!ENTITY priorityMenu.label "Përparësi">
 <!ENTITY priorityMenu.accesskey "p">
 <!ENTITY priorityButton.label "Përparësi:">
 <!ENTITY lowestPriorityCmd.label "Më e Ulta">
-<!ENTITY lowestPriorityCmd.accesskey "l">
+<!ENTITY lowestPriorityCmd.accesskey "u">
 <!ENTITY lowPriorityCmd.label "E ulët">
-<!ENTITY lowPriorityCmd.accesskey "o">
+<!ENTITY lowPriorityCmd.accesskey "l">
 <!ENTITY normalPriorityCmd.label "Normale">
 <!ENTITY normalPriorityCmd.accesskey "n">
 <!ENTITY highPriorityCmd.label "E lartë">
-<!ENTITY highPriorityCmd.accesskey "i">
+<!ENTITY highPriorityCmd.accesskey "a">
 <!ENTITY highestPriorityCmd.label "Më e Larta">
-<!ENTITY highestPriorityCmd.accesskey "H">
+<!ENTITY highestPriorityCmd.accesskey "t">
 <!ENTITY fileCarbonCopyCmd.label "Dërgoji një Kopje">
 <!ENTITY fileCarbonCopyCmd.accesskey "d">
 <!ENTITY fileHereMenu.label "Kartelë Këtu">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Mjete">
-<!ENTITY tasksMenu.accesskey "T">
+<!ENTITY tasksMenu.accesskey "M">
 <!ENTITY messengerCmd.label "Postë &amp; Grupe Lajmesh">
-<!ENTITY messengerCmd.accesskey "m">
+<!ENTITY messengerCmd.accesskey "p">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Libër Vendndodhjesh">
-<!ENTITY addressBookCmd.accesskey "a">
+<!ENTITY addressBookCmd.accesskey "l">
 <!ENTITY addressBookCmd.commandkey "2">
-<!ENTITY accountManagerCmd.label "Rregullim Logarish...">
+<!ENTITY accountManagerCmd.label "Rregullime Logarish…">
 <!ENTITY accountManagerCmd.accesskey "c">
-<!ENTITY accountManagerCmdUnix.accesskey "S">
-<!ENTITY preferencesCmd.label "Mundësi...">
-<!ENTITY preferencesCmd.key "O">
-<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY accountManagerCmdUnix.accesskey "R">
+<!ENTITY preferencesCmd.label "Mundësi…">
+<!ENTITY preferencesCmd.accesskey "u">
 <!ENTITY preferencesCmdUnix.label       "Parapëlqime">
-<!ENTITY preferencesCmdUnix.accesskey   "n"> 
+<!ENTITY preferencesCmdUnix.accesskey   "a"> 
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Minimizo">
 <!ENTITY bringAllToFront.label "Silli Të tëra Përpara">
 <!ENTITY zoomWindow.label "Zoom"> 
-<!ENTITY windowMenu.label "Dritare"> 
-
-<!-- Help Menu -->
-<!ENTITY helpMenu.label "Ndihmë">
-<!ENTITY helpMenu.accesskey "H"> 
-<!ENTITY releaseCmd.label "Shënime Versioni">
-<!ENTITY releaseCmd.accesskey "R"> 
-<!ENTITY hintsAndTips.label "Ndihmë rreth &brandShortName;-it">
-<!ENTITY hintsAndTips.accesskey "h"> 
-<!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY aboutCmd.label "Rreth &brandShortName;-it">
-<!ENTITY aboutCmd.accesskey "A">
+<!ENTITY windowMenu.label "Dritare">
 
 <!-- Mail Toolbar -->
-<!ENTITY sendButton.label "Dërgo">
-<!ENTITY quoteButton.label "Përmend">
+<!ENTITY sendButton.label "Dërgoje">
+<!ENTITY quoteButton.label "Përmende">
 <!ENTITY addressButton.label "Kontakte">
-<!ENTITY attachButton.label "Bashkangjit">
+<!ENTITY attachButton.label "Bashkangjite">
 <!ENTITY spellingButton.label "Drejtshkrim">
-<!ENTITY saveButton.label "Ruaj">
+<!ENTITY saveButton.label "Ruaje">
 <!ENTITY throbberItem.title "Tregues Veprimtarie">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Dërgoje këtë mesazh tani"> 
 <!ENTITY sendlaterButton.tooltip "Dërgoje këtë mesazh më vonë"> 
 <!ENTITY quoteButton.tooltip "Përmend mesazhin e mëparshëm"> 
-<!ENTITY addressButton.tooltip "Përzgjidhni një marrës prej një Libri Vendndodhjesh"> 
+<!ENTITY addressButton.tooltip "Përzgjidhni marrës prej një Libri Vendndodhjesh"> 
 <!ENTITY attachButton.tooltip "Përfshi një bashkangjitje"> 
-<!ENTITY saveButton.tooltip "Ruaj këtë mesazh"> 
-<!ENTITY cutButton.tooltip              "Pri">
-<!ENTITY copyButton.tooltip             "Kopjo">
-<!ENTITY pasteButton.tooltip            "Ngjit">
+<!ENTITY saveButton.tooltip "Ruaje këtë mesazh"> 
+<!ENTITY cutButton.tooltip              "Prije">
+<!ENTITY copyButton.tooltip             "Kopjoje">
+<!ENTITY pasteButton.tooltip            "Ngjite">
 
 <!-- Headers -->
 <!ENTITY fromAddr.label "Prej:">
-<!ENTITY fromAddr.accesskey "r">
+<!ENTITY fromAddr.accesskey "p">
 <!ENTITY toAddr.label "Për:"> 
 <!ENTITY ccAddr.label "Cc:"> 
 <!ENTITY bccAddr.label "Bcc:"> 
-<!ENTITY replyAddr.label "Përgjigju:"> 
+<!ENTITY replyAddr.label "Përgjigjiu:"> 
 <!ENTITY newsgroupsAddr.label "Grup Lajmesh:"> 
-<!ENTITY followupAddr.label "Followup-To:"> 
+<!ENTITY followupAddr.label "Vazhdoje-Te:"> 
 <!ENTITY subject.label "Subjekt:">
 <!ENTITY subject.accesskey "S">
 <!ENTITY attachments.label "Bashkangjitje:">
-<!ENTITY attachments.accesskey "c">
+<!ENTITY attachments.accesskey "b">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
-<!ENTITY SmileButton.tooltip "Fut një surrat">
+<!ENTITY SmileButton.tooltip "Fusni një emotikon">
 <!ENTITY smiley1Cmd.label "Buzëqeshje">
-<!ENTITY smiley2Cmd.label "I pulitur">
-<!ENTITY smiley3Cmd.label "Shkeli Syrin">
+<!ENTITY smiley2Cmd.label "I ngrysur">
+<!ENTITY smiley3Cmd.label "Syshkelur">
 <!ENTITY smiley4Cmd.label "Gjuhëpërjashta">
 <!ENTITY smiley5Cmd.label "Zgjërdhimje">
-<!ENTITY smiley6Cmd.label "Turpëruar">
+<!ENTITY smiley6Cmd.label "I turpëruar">
 <!ENTITY smiley7Cmd.label "I pavendosur">
 <!ENTITY smiley8Cmd.label "Befasi">
 <!ENTITY smiley9Cmd.label "Puthje">
-<!ENTITY smiley10Cmd.label "Ulërimë">
+<!ENTITY smiley10Cmd.label "Gërthitje">
 <!ENTITY smiley11Cmd.label "Cool">
 <!ENTITY smiley12Cmd.label "Money-Mouth">
 <!ENTITY smiley13Cmd.label "Foot-in-Mouth">
-<!ENTITY smiley14Cmd.label "Pafajësi">
+<!ENTITY smiley14Cmd.label "I pafajshëm">
 <!ENTITY smiley15Cmd.label "Qaraman">
 <!ENTITY smiley16Cmd.label "Gojëkyçur">
 
 <!-- Message Pane Context Menu -->
 <!ENTITY spellCheckNoSuggestions.label "Nuk u Gjetën Këshillime">
-<!ENTITY spellCheckIgnoreWord.label "Shpërfill Fjalën">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "Shto në Fjalor">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY undo.label "Zhbë">
-<!ENTITY undo.accesskey "U">
-<!ENTITY cut.label "Pri">
-<!ENTITY cut.accesskey "t">
-<!ENTITY copy.label "Kopjo">
-<!ENTITY copy.accesskey "C">
-<!ENTITY paste.label "Ngjit">
-<!ENTITY paste.accesskey "P">
+<!ENTITY spellCheckIgnoreWord.label "Shpërfille Fjalën">
+<!ENTITY spellCheckIgnoreWord.accesskey "S">
+<!ENTITY spellCheckAddToDictionary.label "Shtoje në Fjalor">
+<!ENTITY spellCheckAddToDictionary.accesskey "j">
+<!ENTITY undo.label "Zhbëje">
+<!ENTITY undo.accesskey "Z">
+<!ENTITY cut.label "Prije">
+<!ENTITY cut.accesskey "P">
+<!ENTITY copy.label "Kopjoje">
+<!ENTITY copy.accesskey "K">
+<!ENTITY paste.label "Ngjite">
+<!ENTITY paste.accesskey "N">
 <!ENTITY pasteQuote.label "Ngjite Si Përmendje">
-<!ENTITY pasteQuote.accesskey "Q">
+<!ENTITY pasteQuote.accesskey "m">
 
-<!ENTITY openAttachment.label "Hap">
-<!ENTITY openAttachment.accesskey "O">
-<!ENTITY delete.label "Fshi">
-<!ENTITY delete.accesskey "D">
-<!ENTITY selectAll.label "Përzgjidh Tërë">
-<!ENTITY selectAll.accesskey "A">
-<!ENTITY attachFile.label "Bashkangjit Kartelë(a)...">
-<!ENTITY attachFile.accesskey "F">
-<!ENTITY attachPage.label "Bashkangjit Faqe Web...">
-<!ENTITY attachPage.accesskey "W">
+<!ENTITY openAttachment.label "Hape">
+<!ENTITY openAttachment.accesskey "H">
+<!ENTITY delete.label "Fshije">
+<!ENTITY delete.accesskey "F">
+<!ENTITY renameAttachment.label "Riemërtoje…">
+<!ENTITY renameAttachment.accesskey "R">
+<!ENTITY selectAll.label "Përzgjidhe të Tërën">
+<!ENTITY selectAll.accesskey "T">
+<!ENTITY attachFile.label "Bashkangjit Kartelë(a)…">
+<!ENTITY attachFile.accesskey "K">
+<!ENTITY attachPage.label "Bashkangjit Faqe Web…">
+<!ENTITY attachPage.accesskey "Q">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Kontakte">
-
-
-
