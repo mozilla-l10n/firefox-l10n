@@ -3,8 +3,6 @@
 <!ENTITY alwaysAsk.accesskey          "A">
 <!ENTITY neverAsk.label               "Ruaj tërë bashkangjitjet te kjo dosje:">
 <!ENTITY neverAsk.accesskey           "S">
-<!ENTITY desktop.label                "Desktop">
-<!ENTITY downloads.label              "Shkarkimet e Mij">
 <!ENTITY chooseFolderWin.label        "Shfletoni...">
 <!ENTITY chooseFolderWin.accesskey    "B">
 <!ENTITY chooseFolderMac.label        "Zgjidhni...">
@@ -16,9 +14,3 @@
 <!ENTITY configureActions.accesskey   "V">
 <!ENTITY fileTypesDescription.label   "&brandShortName;-i mund të shkarkojë ose hapë vetvetiu disa lloje bashkangjitjesh.">
 
-<!ENTITY fileTypeColName.label        "Lloj Kartele">
-<!ENTITY fileHandlerColName.label     "Zbatim">
-<!ENTITY editFileHandler.label        "Ndrysho Veprim...">
-<!ENTITY editFileHandler.accesskey    "a">
-<!ENTITY removeFileHandler.label      "Hiq">
-<!ENTITY removeFileHandler.accesskey  "r">

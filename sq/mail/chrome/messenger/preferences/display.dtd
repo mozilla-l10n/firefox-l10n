@@ -1,8 +1,5 @@
 <!ENTITY itemFormatting.label             "Formatim">
 <!ENTITY itemTags.label                   "Shenja">
-<!ENTITY itemFonts.label                  "Gërma">
-
-<!ENTITY textBegin.label                  "Dukje si tekst i thjeshtë i cituar">
 <!ENTITY style.label                      "Stil:">
 <!ENTITY style.accesskey                  "y">
 <!ENTITY regularStyle.label               "I rregullt">
@@ -19,13 +16,10 @@
 <!ENTITY displayWidth.label               "Mesazhe Tekst i Thjeshtë">
 <!ENTITY plainText.label				          "Përdor gërmat vijuese:">
 <!ENTITY displayText.label				        "Kur shfaqen mesazhe teksti të thjeshtë të cituar:">
-<!ENTITY viewingPlainText.label			      "Kur shfaqen mesazhe teksti të thjeshtë:">
 <!ENTITY fixedWidth.label                 "Gërma me gjerësi të fiksuar">
 <!ENTITY fixedWidth.accesskey             "x">
 <!ENTITY variableWidth.label              "Gërma me gjerësi të ndryshueshme">
 <!ENTITY variableWidth.accesskey          "V">
-<!ENTITY readingMessagesHeader.label      "Për mesazhe ardhës">
-
 <!ENTITY colors.label                     "Ngjyra">
 <!ENTITY overrideColors.label             "Kur shfaqen mesazhe, përdor ngjyrat vijuese:">
 <!ENTITY textColor.label                  "Ngjyrë Teksti:">
