@@ -54,12 +54,14 @@
 <!ENTITY enableAppUpdate.accesskey      "h">
 <!ENTITY checkNow.label                 "Kontrollo Tani...">
 
+<!ENTITY showSettings.label            "Rregullime…">
+<!ENTITY showSettings.accesskey        "r">
+<!ENTITY modeAutomatic.accesskey        "m">
 
 <!ENTITY whenUpdatesFound.label         "Kur gjenden përditësime të &brandShortName;-it,">
 <!ENTITY modeAskMe.label                "Pyetmë se çfarë dua të bëj">
 <!ENTITY modeAskMe.accesskey            "k">
 <!ENTITY modeAutomatic.label            "Shkarko dhe instalo përditësimin vetvetiu">
-<!ENTITY modeAutoWarn.accesskey         "-">
 <!ENTITY showUpdates.label              "Shfaq Histori Përditësimesh">
 <!ENTITY showUpdates.accesskey          "y">
 

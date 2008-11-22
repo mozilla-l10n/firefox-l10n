@@ -43,9 +43,6 @@
 <!ENTITY proxy.label                                    "Formësim ndërmjetësi...">
 <!ENTITY proxy.accesskey                                "F">
 
-<!ENTITY findTypeTextCmd.key        "/">
-
-
 <!ENTITY closeCmd.label			"Mbylle">  
 <!ENTITY closeCmd.key			"W">  
 <!ENTITY closeCmd.accesskey		"m">
