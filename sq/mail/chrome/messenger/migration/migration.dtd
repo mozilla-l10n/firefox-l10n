@@ -1,8 +1,8 @@
 
 <!ENTITY migrationWizard.title          "Ndihmës Importimesh">
 
-<!ENTITY importFrom.label               "Importo Mundësi, Rregullime Llogarish, Libër Vendndodhjesh dhe të tjera të dhëna prej:">
-<!ENTITY importFromUnix.label           "Importo Parapëlqime, Rregullime Llogarish, Libër Vendndodhjesh dhe të tjera të dhëna prej:">
+<!ENTITY importFromWin.label               "Importo Mundësi, Rregullime Llogarish, Libër Vendndodhjesh, Filtra dhe të tjera të dhëna prej:">
+<!ENTITY importFromNonWin.label           "Importo Parapëlqime, Rregullime Llogarish, Libër Vendndodhjesh, Filtra dhe të tjera të dhëna prej:">
 
 <!ENTITY importFromNothing.label        "Mos importo gjë">
 <!ENTITY importFromNothing.accesskey    "D">
