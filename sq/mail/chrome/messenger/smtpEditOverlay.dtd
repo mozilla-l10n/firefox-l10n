@@ -21,3 +21,5 @@
 <!ENTITY alwaysSMTPOverSSL.accesskey "L">
 <!ENTITY smtpEditTitle.label "Shërbyes SMTP">
 <!ENTITY serverPortDefault.label "Parazgjedhje:">
+<!ENTITY useSecAuth.label "Përdor mirëfilltësim të sigurt">
+<!ENTITY useSecAuth.accesskey "m">
