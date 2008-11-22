@@ -17,4 +17,4 @@
 <!ENTITY rss.accountName            "Lajme &amp; Blogje">
 <!ENTITY rss.wizardShortName        "RSS">  
 <!ENTITY rss.wizardLongName         "Lajme &amp; Blogje RSS">
-<!ENTITY rss.hostName               "Lajme &amp; Blogje">
+<!ENTITY rss.wizardLongName.accesskey "R">

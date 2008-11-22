@@ -3,9 +3,6 @@
 <!ENTITY securityMenu.label "Siguri">
 <!ENTITY securityMenu.accesskey "e">
 
-<!ENTITY menu_securityEncryptIfPossible.label "Kodo nëse Mundet">
-<!ENTITY menu_securityEncryptIfPossible.accesskey "P">
-
 <!ENTITY menu_securityEncryptRequire.label "Kodo Këtë Mesazh">
 <!ENTITY menu_securityEncryptRequire.accesskey "E">
 
