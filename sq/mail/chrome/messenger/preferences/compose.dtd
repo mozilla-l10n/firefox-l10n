@@ -1,17 +1,17 @@
+
+<!ENTITY addExtension.label                   "shto prapashtesë te emri i kartelës">
+<!ENTITY addExtension.accesskey               "t">
+<!ENTITY directoriesNone.label                 "Anjë">
+
 <!ENTITY itemGeneral.label                   "Të përgjithshme">
 <!ENTITY itemAutoComplete.label              "Adresim">
 <!ENTITY itemSpellCheck.label                "Drejtshkrim">
-<!ENTITY itemSendFormat.label                "Format Dërgimi">
-
-<!ENTITY forwardReply.label                   "Përcjellje Mesazhesh">
 <!ENTITY forwardMsg.label                     "Përcill mesazhe:">
 <!ENTITY forwardMsg.accesskey                 "f">
 <!ENTITY inline.label                         "Inline">
 <!ENTITY inline.accesskey                     "I">
 <!ENTITY asAttachment.label                   "Si Bashkangjitje">
 <!ENTITY asAttachment.accesskey               "A">
-
-<!ENTITY sendingMessagesHeader.label          "Hartim Mesazhesh">
 <!ENTITY spellCheck.label                     "Kontrollo drejtshkrimin para se ta dërgosh">
 <!ENTITY spellCheck.accesskey                 "C">
 <!ENTITY spellCheckInline.label               "Kontrollo drejtshkrimin në shkrim e sipër">
@@ -20,18 +20,13 @@
 <!ENTITY languagePopup.accessKey              "g">
 <!ENTITY downloadDictionaries.label           "Shkarko Më tepër Fjalorë">
 
-<!ENTITY useMIME.label                        "Për mesazhe që përmbajnë shenja 8-bit, përdorkodim MIME 'quoted printable'">
-<!ENTITY useMIME.accesskey                    "o">
 <!ENTITY warnOnSendAccelKey.label             "Ripoho kur përdoren shkurtore për dërgim mesazhi">
 <!ENTITY warnOnSendAccelKey.accesskey         "i">
 <!ENTITY autoSave.label                       "Vetëruaj çdo">
 <!ENTITY autoSave.accesskey                   "u">
 <!ENTITY autoSaveEnd.label                    "minuta">
-<!ENTITY autoSaveEnd.accesskey                "m">
-<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
-<!ENTITY wrapOutMsg.label                     "Mbështill mesazhe tekst të thjeshtë në">
-<!ENTITY wrapOutMsg.accesskey                 "l">
-<!ENTITY char.label                           "shenja">
+
+
 
 <!ENTITY emailCollectionPicker.label           "Shto vetvetiu vendndodhje dërgimi e-mail te:">
 <!ENTITY emailCollectionPicker.accesskey       "t">
@@ -43,10 +38,6 @@
 <!ENTITY directories.accesskey                 "D">
 <!ENTITY editDirectories.label                 "Përpuno Drejtori...">
 <!ENTITY editDirectories.accesskey             "E">
-<!ENTITY matchText.label                       "Në pastë një përputhje në librin tuaj vendor të vendndodhjeve:">
-<!ENTITY skipDirectory.label                   "Mos kërko në drejtori">
-
-<!ENTITY sendOptionsCaption.label              "Mundësi Dërgimi dhe HTML">
 <!ENTITY sendOptionsDescription.label          "Formësoni sjellje të lidhur me formate tekstesh">
 <!ENTITY sendOptions.label                     "Mundësi Dërëgimi...">
 <!ENTITY sendOptions.accesskey                 "S">
