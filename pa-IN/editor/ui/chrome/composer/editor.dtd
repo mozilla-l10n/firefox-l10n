@@ -37,21 +37,21 @@
 
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY editorWindow.titlemodifier "Composer"> 
+<!ENTITY editorWindow.titlemodifier "ਕੰਪੋਜ਼ਰ"> 
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- View menu items -->
-<!ENTITY viewMenu.label "View">
+<!ENTITY viewMenu.label "ਵੇਖੋ">
 <!ENTITY viewMenu.accesskey "V">
-<!ENTITY compositionToolbarCmd.label "Composition Toolbar">
+<!ENTITY compositionToolbarCmd.label "ਕੰਪੋਜ਼ਿਸ਼ਨ ਟੂਲਬਾਰ">
 <!ENTITY compositionToolbarCmd.accesskey "C">
-<!ENTITY formattingToolbarCmd.label "Format Toolbar">
+<!ENTITY formattingToolbarCmd.label "ਫਾਰਮੈਟ ਟੂਲਬਾਰ">
 <!ENTITY formattingToolbarCmd.accesskey "F">
-<!ENTITY editmodeToolbarCmd.label "Edit Mode Toolbar">
+<!ENTITY editmodeToolbarCmd.label "ਸੋਧ ਮੋਡ ਟੂਲਬਾਰ">
 <!ENTITY editmodeToolbarCmd.accesskey "E">
 
 <!-- Format menu items -->
-<!ENTITY formatMenu.label "Format">
+<!ENTITY formatMenu.label "ਫਾਰਮੈਟ">
 <!ENTITY formatMenu.accesskey "o">
