@@ -1,13 +1,13 @@
-<!ENTITY privatebrowsingpage.tabtitle                  "Navegação privativa">
+<!ENTITY privatebrowsingpage.tabtitle                  "Navegación privada">
 
-<!ENTITY privatebrowsingpage.pagetitle                 "Navegação privativa">
+<!ENTITY privatebrowsingpage.pagetitle                 "Navegación privada">
 
-<!ENTITY privatebrowsingpage.issueDesc                 "O &brandShortName; não memorizará o histórico desta sessão.">
-<!ENTITY privatebrowsingpage.longDesc                  "O histórico não será memorizado pelo &brandShortName; durante esta sessão. Isto inclui as páginas visitadas, pesquisas, downloads, dados fornecidos a formulários, cookies e arquivos temporários. Entretanto, serão preservados os arquivos salvos por downloads e os novos favoritos.">
+<!ENTITY privatebrowsingpage.issueDesc                 "O &brandShortName; non memorizará o histórico desta sesión.">
+<!ENTITY privatebrowsingpage.longDesc                  "O histórico non será memorizado polo &brandShortName; durante esta sesión. Isto inclúe as páxinas visitadas, pesquisas, descargas, dados fornecidos a formulários, cookies e arquivos temporais. Porén, serán preservados os arquivos gardados polas descargas así como os novos favoritos.">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Você pode querer começar limpando o seu histórico recente.">
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Vostede pode querer comezar limpando o seu histórico recente.">
 <!ENTITY privatebrowsingpage.recentHistory.label       "Limpar histórico recente…">
 <!ENTITY privatebrowsingpage.recentHistory.accesskey   "L">
 
-<!ENTITY privatebrowsingpage.howToStopDesc             "Para encerrar a navegação privativa, desmarque o menu “Ferramentas &gt; Navegação privativa”.">
-<!ENTITY privatebrowsingpage.footerDesc                "Divirta-se!">
+<!ENTITY privatebrowsingpage.howToStopDesc             "Para fechar a navegación privada, desmarque o menu “Ferramentas &gt; Navegación privada”.">
+<!ENTITY privatebrowsingpage.footerDesc                "Divirtase!">
