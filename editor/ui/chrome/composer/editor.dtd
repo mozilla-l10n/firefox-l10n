@@ -55,11 +55,3 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formátum">
 <!ENTITY formatMenu.accesskey "o">
-
-<!ENTITY helpMenu.label "Súgó">
-<!ENTITY aboutCmd.label ".Névjegy">
-
-<!-- Display Mode Toolbar -->
-<!ENTITY editMode.label "Szerkesztési mód:">
-
-<!ENTITY statusText.label "Oldal betöltve">

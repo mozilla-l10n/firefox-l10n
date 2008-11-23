@@ -73,20 +73,16 @@
 <!ENTITY SecondEmail.label              "További e-mail:">
 <!ENTITY SecondEmail.accesskey          "T">
 <!ENTITY PreferMailFormat.label         "Az üzeneteket a következő formátumban szereti megkapni:">
-<!ENTITY PreferMailFormat.accesskey     "v">
+<!ENTITY PreferMailFormat.accesskey     "A">
 <!ENTITY PlainText.label                "Normál szöveg">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Ismeretlen">
 <!ENTITY ScreenName.label               "Felhasználói név:">
 <!ENTITY ScreenName.accesskey           "F">
 
-<!ENTITY allowRemoteContent.label       "Allow remote images.">
-<!ENTITY allowRemoteContent.accesskey   "r">
-<!ENTITY allowRemoteContent.tooltip     "In HTML messages it is possible to
-embed images from remote sources. Opening such a message will open a
-connection to this external source. This may allow tracking of the
-message being read. Checking this box will allow such external embedded
-images in HTML messages from this contact.">
+<!ENTITY allowRemoteContent.label       "Távoli képek engedélyezése">
+<!ENTITY allowRemoteContent.accesskey   "T">
+<!ENTITY allowRemoteContent.tooltip     "A HTML-üzenetekbe be lehet ágyazni távoli forrásból származó képet. Egy ilyen üzenet megnyitása kapcsolatot nyit meg e távoli forrás felé. Így lehetővé válhat annak nyomon követése, hogy a levelet mikor olvassák el. A négyzet bejelölésével engedélyezi az ilyen beágyazott képeket a HTML-üzenetekben ettől a kapcsolattól.">
 
 <!ENTITY WorkPhone.label                "Munkahelyi:">
 <!ENTITY WorkPhone.accesskey            "u">
@@ -95,14 +91,14 @@ images in HTML messages from this contact.">
 <!ENTITY FaxNumber.label                "Fax:">
 <!ENTITY FaxNumber.accesskey            "x">
 <!ENTITY PagerNumber.label              "Személyhívó:">
-<!ENTITY PagerNumber.accesskey          "g">
+<!ENTITY PagerNumber.accesskey          "h">
 <!ENTITY CellularNumber.label           "Mobil:">
 <!ENTITY CellularNumber.accesskey       "M">
 
 <!ENTITY Home.tab                       "Magánjellegű">
-<!ENTITY Home.accesskey                 "P">
+<!ENTITY Home.accesskey                 "M">
 <!ENTITY HomeAddress.label              "Cím:">
-<!ENTITY HomeAddress.accesskey          "A">
+<!ENTITY HomeAddress.accesskey          "C">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Város:">
@@ -114,7 +110,7 @@ images in HTML messages from this contact.">
 <!ENTITY HomeCountry.label              "Ország:">
 <!ENTITY HomeCountry.accesskey          "O">
 <!ENTITY HomeWebPage.label              "Weboldal:">
-<!ENTITY HomeWebPage.accesskey          "e">
+<!ENTITY HomeWebPage.accesskey          "W">
 <!ENTITY Birthday.label                 "Születési dátum:">
 <!ENTITY Birthday.accesskey             "S">
 <!ENTITY Year.emptytext                 "évente">
@@ -122,27 +118,27 @@ images in HTML messages from this contact.">
 <!ENTITY Age.emptytext                  "Kor">
 
 <!ENTITY Work.tab                       "Munkahely">
-<!ENTITY Work.accesskey                 "W">
+<!ENTITY Work.accesskey                 "M">
 <!ENTITY JobTitle.label                 "Beosztás:">
-<!ENTITY JobTitle.accesskey             "i">
+<!ENTITY JobTitle.accesskey             "B">
 <!ENTITY Department.label               "Osztály:">
 <!ENTITY Department.accesskey           "O">
 <!ENTITY Company.label                  "Szervezet:">
 <!ENTITY Company.accesskey              "S">
 <!ENTITY WorkAddress.label              "Cím:">
-<!ENTITY WorkAddress.accesskey          "A">
+<!ENTITY WorkAddress.accesskey          "C">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Város:">
-<!ENTITY WorkCity.accesskey             "y">
+<!ENTITY WorkCity.accesskey             "V">
 <!ENTITY WorkState.label                "Állam/tartomány:">
-<!ENTITY WorkState.accesskey            "S">
+<!ENTITY WorkState.accesskey            "l">
 <!ENTITY WorkZipCode.label              "Irányítószám:">
-<!ENTITY WorkZipCode.accesskey          "Z">
+<!ENTITY WorkZipCode.accesskey          "I">
 <!ENTITY WorkCountry.label              "Ország:">
-<!ENTITY WorkCountry.accesskey          "u">
+<!ENTITY WorkCountry.accesskey          "O">
 <!ENTITY WorkWebPage.label              "Weboldal:">
-<!ENTITY WorkWebPage.accesskey          "e">
+<!ENTITY WorkWebPage.accesskey          "W">
 
 <!ENTITY Other.tab                      "Egyéb">
 <!ENTITY Other.accesskey                "E">
@@ -154,5 +150,5 @@ images in HTML messages from this contact.">
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Egyéb 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.label                    "Notes:">
+<!ENTITY Notes.label                    "Megjegyzés:">
 <!ENTITY Notes.accesskey                "M">

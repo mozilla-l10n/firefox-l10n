@@ -42,10 +42,10 @@
 <!ENTITY aboutLink.label        "&lt; A &brandFullName; névjegye">
 <!ENTITY aboutLink.accesskey    "A">
 <!ENTITY aboutVersion           "verzió">
-<!ENTITY copyrightText          "&#169;1998-2008 A hozzájárulók. All rights
-                                 reserved. A Mozilla Sunbird, Sunbird, és a
+<!ENTITY copyrightText          "&#169;1998-2008 A hozzájárulók. Minden jog
+                                 fenntartva. A Mozilla Sunbird, Sunbird, és a
                                  Sunbird logók a Mozilla Foundation
-                                 védjegyei. All rights reserved.">
+                                 védjegyei. Minden jog fenntartva.">
 
 <!ENTITY brandMotto       "ideje van...">
 <!ENTITY credit.thanks    "Külön köszönet">
@@ -55,7 +55,7 @@
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation "">
+<!ENTITY credit.translation "<h3>Magyar változat</h3><ul><li>Tímár András</li><li><b>FSF.hu Alapítvány</b></li></ul>">
 
 <!ENTITY credit.powered     "A motorháztető alatt">
 <!ENTITY license.and        "és">

@@ -4,9 +4,9 @@
 <!ENTITY askMe.label                  "Kérdezzen rá, hogy mi a teendő">
 <!ENTITY askMe.accesskey              "K">
 <!ENTITY convertPlain.label           "Konvertálás szöveges üzenetté">
-<!ENTITY convertPlain.accesskey       "C">
+<!ENTITY convertPlain.accesskey       "z">
 <!ENTITY sendHTML.label               "Küldés HTML formátumban">
-<!ENTITY sendHTML.accesskey           "S">
+<!ENTITY sendHTML.accesskey           "H">
 <!ENTITY sendBoth.label               "Küldés mind szöveges, mind HTML-módban">
 <!ENTITY sendBoth.accesskey           "s">
 <!ENTITY override.label               "Megjegyzés: használja a címjegyzéket a címzettek preferált üzenetformátumának beállításához.">
@@ -15,15 +15,15 @@
 <!ENTITY HTMLTab.label                "HTML-t fogadni képes tartományok">
 <!ENTITY HTMLTab.accesskey            "H">
 <!ENTITY PlainTextTab.label           "Normál szöveget kérő tartományok">
-<!ENTITY PlainTextTab.accesskey       "P">
+<!ENTITY PlainTextTab.accesskey       "E">
 <!ENTITY AddHtmlDomain.label          "Hozzáadás...">
-<!ENTITY AddHtmlDomain.accesskey      "A">
+<!ENTITY AddHtmlDomain.accesskey      "H">
 <!ENTITY AddPlainText.label           "Hozzáadás...">
-<!ENTITY AddPlainText.accesskey       "A">
+<!ENTITY AddPlainText.accesskey       "o">
 <!ENTITY DeleteHtmlDomain.label       "Törlés">
-<!ENTITY DeleteHtmlDomain.accesskey   "D">
+<!ENTITY DeleteHtmlDomain.accesskey   "T">
 <!ENTITY DeletePlainText.label        "Törlés">
-<!ENTITY DeletePlainText.accesskey    "D">
+<!ENTITY DeletePlainText.accesskey    "r">
 
 <!ENTITY add.htmltitle                "HTML-levelet fogadni képes tartomány felvétele">
 <!ENTITY add.htmldomain               "HTML-levelet fogadni képes tartományok:">
