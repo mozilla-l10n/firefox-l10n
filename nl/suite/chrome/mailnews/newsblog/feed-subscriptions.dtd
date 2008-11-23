@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY newsBlogSubscriptions.label "RSS-abonnementen">
+<!ENTITY subscriptionDesc.label "Opmerking: het verwijderen of veranderen van een feedmap heeft geen invloed op artikelen die reeds zijn gedownload.">
+<!ENTITY feedTitle.label "Titel:">
+<!ENTITY location.label "Locatie:">
+
+<!ENTITY button.addFeed.label "Toevoegen">
+<!ENTITY button.addFeed.accesskey "T">
+<!ENTITY button.editFeed.label "Bewerken">
+<!ENTITY button.editFeed.accesskey "w">
+<!ENTITY button.removeFeed.label "Verwijderen">
+<!ENTITY button.removeFeed.accesskey "V">
+<!ENTITY button.importOPML.label "Importeren">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label "Exporteren">
+<!ENTITY button.exportOPML.accesskey   "X">
+
+<!ENTITY cmd.close.commandKey "w">
