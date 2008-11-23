@@ -47,6 +47,7 @@
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Opnieuw uitlijnen">
+<!ENTITY editRewrapCmd.key "O">
 <!ENTITY editRewrapCmd.accesskey  "l">
 <!ENTITY findCmd.label "Zoeken en vervangen…">
 <!ENTITY findCmd.key "F">
