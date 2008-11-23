@@ -52,7 +52,6 @@
 <!ENTITY newVirtualFolderCmd.accesskey "O">
 <!ENTITY newAccountCmd.label "Account…">
 <!ENTITY newAccountCmd.accesskey "A">
-<!ENTITY openMessageMenu.label "Openen">
 <!ENTITY openMessageFileCmd.label "Opgeslagen bericht openen…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Bijlagen">
@@ -77,7 +76,6 @@
 <!ENTITY getNextNMsgCmd.accesskey "D">
 <!ENTITY sendUnsentCmd.label "Niet-verzonden berichten verzenden">
 <!ENTITY sendUnsentCmd.accesskey "z">
-<!ENTITY loadFirstDraft.label "Load First Draft Message">
 <!ENTITY subscribeCmd.label "Abonneren…">
 <!ENTITY subscribeCmd.accesskey "e">
 <!ENTITY renameFolder.label "Mapnaam wijzigen…">
@@ -101,7 +99,6 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Afdrukvoorbeeld">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "Pagina-instellingen…">
 <!ENTITY printSetupCmd.accesskey "i">
 
@@ -129,8 +126,6 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Flagged Messages">
 <!ENTITY selectFlaggedCmd.accesskey "F">
-<!ENTITY selectInvertCmd.label ".Invert Selection">
-<!ENTITY selectInvertCmd.accesskey "I">
 <!ENTITY folderPropsCmd.label "Eigenschappen…">
 <!ENTITY folderPropsFolderCmd.label "Mapeigenschappen…">
 <!ENTITY folderPropsNewsgroupCmd.label "Nieuwsgroepeigenschappen…">
@@ -145,14 +140,10 @@
 <!ENTITY redoCopyMsgCmd.label "Bericht kopiëren opnieuw uitvoeren">
 <!ENTITY undoDefaultCmd.label "Ongedaan maken">
 <!ENTITY redoDefaultCmd.label "Opnieuw uitvoeren">
-<!ENTITY editDraftCmd.label "Edit Draft">
-<!ENTITY editDraftCmd.accesskey "f">
 
 <!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label          "E-mailwerkbalk">
 <!ENTITY showMessengerToolbarCmd.accesskey      "E">
-<!ENTITY customizeToolbar.label                 "Aanpassen…">
-<!ENTITY customizeToolbar.accesskey             "A">
 
 <!-- showSearchToolbarCmd is also used by addressbook -->
 <!ENTITY showSearchToolbarCmd.label "Zoekbalk">
@@ -222,8 +213,6 @@
 <!ENTITY threads.accesskey "C">
 <!ENTITY allMsgsCmd.label "Alle">
 <!ENTITY allMsgsCmd.accesskey "A">
-<!ENTITY expandOrCollapseMenu.label "Uitvouwen/Samenvouwen">
-<!ENTITY expandOrCollapseMenu.accesskey "U">
 <!ENTITY expandAllThreadsCmd.label "Alle conversaties uitvouwen">
 <!ENTITY expandAllThreadsCmd.accesskey "u">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -244,8 +233,6 @@
 <!ENTITY headersAllCmd.accesskey "A">
 <!ENTITY headersNormalCmd.label "Normaal">
 <!ENTITY headersNormalCmd.accesskey "N">
-<!ENTITY headersBriefCmd.label ".Brief">
-<!ENTITY headersBriefCmd.accesskey "B">
 <!ENTITY bodyMenu.label "Berichtopmaak als">
 <!ENTITY bodyMenu.accesskey "o">
 <!ENTITY bodyAllowHTML.label "Originele HTML">
@@ -263,12 +250,6 @@
 <!ENTITY pageSourceCmd.label "Berichtbron">
 <!ENTITY pageSourceCmd.accesskey "r">
 <!ENTITY pageSourceCmd.key "u">
-<!ENTITY translateMenu.label ".Translate">
-
-<!-- Search Menu -->
-<!-- searchMenu is also used by addressbook -->
-<!ENTITY searchMenu.label "Zoeken">
-<!ENTITY searchMenu.accesskey "Z">
 
 <!ENTITY findCmd.label "In dit bericht zoeken…">
 <!ENTITY findCmd.accesskey "I">
@@ -281,24 +262,11 @@
 <!ENTITY findPrevCmd.accesskey "v">
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!-- LOCALIZATION NOTE (searchCurrentCmd.label) : Do not translate "&lt;" and "&gt;" in below line. -->
-<!ENTITY searchCurrentCmd.label ".Search in &lt;current&gt;">
-<!ENTITY searchCurrentCmd.accesskey "">
-<!-- LOCALIZATION NOTE (searchParentCmd.label) : Do not translate "&lt;" and "&gt;" in below line. -->
-<!ENTITY searchParentCmd.label ".Search in &lt;parent&gt;">
-<!ENTITY searchParentCmd.accesskey "">
-<!-- LOCALIZATION NOTE (searchParentParentCmd.label) : Do not translate "&lt;" and "&gt;" in below line. -->
-<!ENTITY searchParentParentCmd.label ".Search in &lt;parent parent&gt;">
-<!ENTITY searchParentParentCmd.accesskey "">
 
 <!-- Go Menu -->
 
 <!ENTITY goMenu.label "Ga">
 <!ENTITY goMenu.accesskey "G">
-<!ENTITY firstUnreadMsgCmd.label ".First Unread Message">
-<!ENTITY firstUnreadMsgCmd.accesskey "U">
-<!ENTITY firstFlaggedMsgCmd.label ".First Flagged Message">
-<!ENTITY firstFlaggedMsgCmd.accesskey "F">
 <!ENTITY nextMenu.label "Volgende">
 <!ENTITY nextMenu.accesskey "V">
 <!ENTITY nextMsgCmd.label "Bericht">
@@ -309,7 +277,6 @@
 <!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextFlaggedMsgCmd.label "Flagged Message">
 <!ENTITY nextFlaggedMsgCmd.accesskey "F">
-<!ENTITY nextUnflaggedMsgCmd.label "Unflagged Message">
 <!ENTITY nextUnreadThread.label "Ongelezen conversatie">
 <!ENTITY nextUnreadThread.accesskey "c">
 <!ENTITY nextUnreadThread.key "t">
@@ -327,10 +294,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevFlaggedMsgCmd.label "Flagged Message">
 <!ENTITY prevFlaggedMsgCmd.accesskey "F">
-<!ENTITY backCmd.label ".Back">
-<!ENTITY backCmd.accesskey "T">
-<!ENTITY forwardCmd.label ".Forward">
-<!ENTITY forwardCmd.accesskey "F">
 <!ENTITY startPageCmd.label "E-mail-startpagina">
 <!ENTITY startPageCmd.accesskey "s">
 <!ENTITY msgMenu.label "Bericht">
@@ -388,10 +351,6 @@
 <!ENTITY fileHereMenu.accesskey "H">
 <!ENTITY copyHereMenu.label "Hierheen kopiëren">
 <!ENTITY copyHereMenu.accesskey "K">
-<!ENTITY addSenderToAddressBookCmd.label ".Add Sender to Address Book">
-<!ENTITY addSenderToAddressBookCmd.accesskey "S">
-<!ENTITY addAllToAddressBookCmd.label ".Add All to Address Book">
-<!ENTITY addAllToAddressBookCmd.accesskey "A">
 <!ENTITY tagMenu.label "Labelen">
 <!ENTITY tagMenu.accesskey "L">
 <!ENTITY tagCustomize.label "Aanpassen…">
@@ -411,8 +370,6 @@
 <!ENTITY markAsReadCmd.label "Als gelezen">
 <!ENTITY markAsReadCmd.accesskey "z">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "Als ongelezen">
-<!ENTITY markAsUnreadCmd.accesskey "n">
 <!ENTITY markThreadAsReadCmd.label "Conversatie als gelezen">
 <!ENTITY markThreadAsReadCmd.accesskey "C">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -511,8 +468,6 @@
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "Klaar">
-<!ENTITY unreadCountText.label "Unread: ">
-<!ENTITY totalCountText.label " Total: ">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Bericht openen in nieuw venster">

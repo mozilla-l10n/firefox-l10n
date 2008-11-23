@@ -8,15 +8,11 @@
 <!ENTITY resetButton.accesskey "W">
 <!ENTITY helpButton.label "Help">
 <!ENTITY helpButton.accesskey "l">
-<!ENTITY optionsButton.label "Opties">
-<!ENTITY closeButton.label "Sluiten">
 <!ENTITY openButton.label "Openen">
 <!ENTITY openButton.accesskey "O">
 <!ENTITY deleteButton.label "Verwijderen">
 <!ENTITY deleteButton.accesskey "V">
 <!ENTITY searchDialogTitle.label "Berichten zoeken">
-<!ENTITY conditionDesc.label "Zoek berichten die overeenkomen met:">
-<!ENTITY conditions.label "Criteria">
 <!ENTITY results.label "Resultaten">
 <!ENTITY fileHereMenu.label "Hier opslaan">
 <!ENTITY fileHereMenu.accesskey "H">

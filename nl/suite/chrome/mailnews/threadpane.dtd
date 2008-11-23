@@ -47,7 +47,6 @@
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Grootte">
 <!ENTITY junkStatusColumn.label "Status ongewenste mail">
-<!ENTITY linesColumn.label "Lijnen">
 <!ENTITY unreadColumn.label "Ongelezen in discussie">
 <!ENTITY totalColumn.label "Totaal in discussie">
 <!ENTITY readColumn.label "Gelezen">

@@ -1,7 +1,6 @@
 <!ENTITY accountTitle.label "Accountinstellingen">
 <!ENTITY accountName.label "Accountnaam:">
 <!ENTITY accountName.accesskey "A">
-<!ENTITY accountNameDesc.label "De accountnaam wordt gebruikt om elke account te identificeren">
 <!ENTITY identityTitle.label "Standaard identiteit">
 <!ENTITY identityDesc.label "Elke account heeft zijn eigen identiteit. Dit is de informatie die anderen zien als ze uw bericht lezen.">
 <!ENTITY name.label "Uw naam:">
@@ -14,7 +13,6 @@
 <!ENTITY organization.accesskey "O">
 <!ENTITY signature.label "Deze ondertekening invoegen:">
 <!ENTITY signature.accesskey "D">
-<!ENTITY edit.label "Bewerken…">
 <!ENTITY choose.label "Kiezen…">
 <!ENTITY choose.accesskey "K">
 <!ENTITY editVCard.label "Kaart bewerken…">

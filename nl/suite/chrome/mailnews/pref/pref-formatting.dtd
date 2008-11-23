@@ -36,7 +36,6 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY pref.formatting.title        "Verzendopmaak">
-<!ENTITY sendMail.label               "Verzendopmaak">
 <!ENTITY sendMaildesc.label           "Wanneer geformateerde (HTML) berichten worden verzonden en een of meer ontvangers niet op de lijst staan als zijnde in staat HTML te ontvangen:">
 <!ENTITY askMe.label                  "Vraag mij wat te doen (Mail vraagt u een opmaak te kiezen)">
 <!ENTITY askMe.accesskey              "V">
@@ -47,7 +46,6 @@
 <!ENTITY sendBoth.label               "Verzend bericht zowel als platte tekst als HTML (grotere berichtgrootte)">
 <!ENTITY sendBoth.accesskey           "P">
 <!ENTITY override.label               "U kunt deze instellingen negeren voor individuele berichten door het menu Opties te gebruiken bij het opstellen van een bericht.">
-<!ENTITY receiveHTML.label            "Verwijder het markeringsteken ‘E-mail verzenden als platte tekst (geen HTML)’ uit in de adresboek kaart van de ontvanger als u weet dat die bepaalde ontvanger mail als HTML kan ontvangen.">
 
 <!-- Html and Plain Text Domains  -->
 <!ENTITY domain.title                 "HTML en platte tekst domeinen">

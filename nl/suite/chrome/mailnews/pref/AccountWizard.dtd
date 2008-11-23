@@ -31,24 +31,17 @@
 
 <!ENTITY emailLabel.label "E-mailadres:">
 <!ENTITY emailLabel.accesskey "E">
-<!ENTITY emailDesc.label "Voer uw e-mailadres in; dit is het adres dat men gebruikt om u e-mail te sturen">
-<!-- LOCALIZATION NOTE (emailExample.label) : do not translate "user@example.net" in below line -->
-<!ENTITY emailExample.label "(bijvoorbeeld: user@example.net).">
 
 <!-- Entities for Server page -->
 
 <!ENTITY serverTitle.label "Serverinformatie">
-<!ENTITY incomingServerTitle.label "Inkomende server">
 <!ENTITY incomingServerTypeDesc.label "Selecteer het type van uw inkomende e-mailserver.">
-<!ENTITY incomingServerTypeLabel.label "Servertype:">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServerNameDesc.label "Voer de naam in van uw inkomende server (bijvoorbeeld &quot;pop.example.net&quot;).">
 <!ENTITY incomingServerLabel.label "Inkomende server:">
 <!ENTITY incomingServerLabel.accesskey "o">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Voer de naam in van uw nieuwsserver (NNTP) (bijvoorbeeld &quot;news.example.net&quot;).">
-<!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
-<!ENTITY smtpServerTitle.label "Uitgaande server (SMTP)">
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY smtpServerDesc.label "Voer de naam in van uw uitgaande server (SMTP) (bijvoorbeeld &quot;smtp.example.net&quot;).">
 <!ENTITY smtpServerLabel.label "Uitgaande server:">
@@ -61,13 +54,7 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY nntpType.label "Nieuwsserver">
 
-<!-- for when the user has an SMTP server pre-configured -->
-<!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
-     this variable. Also, translate currentSmtpBefore.label and currentSmtpAfter.label as a single sentence,
-	  inserting text after the "&quot;" entity in currentSmtpAfter.label, if required grammatically
--->
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
@@ -104,7 +91,6 @@
 <!ENTITY accnameTitle.label "Accountnaam">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Voer de naam in voor deze account (bijvoorbeeld “Werkaccount”, “Thuisaccount” of “Nieuwsaccount”).">
-<!ENTITY accnameExample.label "Bijvoorbeeld Werkaccount, Thuisaccount of Nieuwsaccount">
 <!ENTITY accnameLabel.label "Accountnaam:">
 <!ENTITY accnameLabel.accesskey "A">
 
