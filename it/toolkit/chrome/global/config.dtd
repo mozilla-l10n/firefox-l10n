@@ -59,8 +59,8 @@
 <!ENTITY modify.accesskey "M">
 <!ENTITY toggle.label "Imposta">
 <!ENTITY toggle.accesskey "s">
-<!ENTITY reset.label "Azzera">
-<!ENTITY reset.accesskey "A">
+<!ENTITY reset.label "Ripristina">
+<!ENTITY reset.accesskey "R">
 <!ENTITY new.label "Nuovo">
 <!ENTITY new.accesskey "N">
 <!ENTITY string.label "Stringa">
