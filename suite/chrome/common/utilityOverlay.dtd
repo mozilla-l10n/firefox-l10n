@@ -86,6 +86,21 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey  "n">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
 
+<!ENTITY customizeToolbar.toolbarmode.label       "Instellingen voor deze werkbalk">
+<!ENTITY customizeToolbar.toolbarmode.accesskey   "t">
+<!ENTITY customizeToolbar.iconsAndText.label      "Pictogrammen en tekst">
+<!ENTITY customizeToolbar.iconsAndText.accesskey  "a">
+<!ENTITY customizeToolbar.icons.label             "Pictogrammen">
+<!ENTITY customizeToolbar.icons.accesskey         "p">
+<!ENTITY customizeToolbar.text.label              "Tekst">
+<!ENTITY customizeToolbar.text.accesskey          "T">
+<!ENTITY customizeToolbar.useSmallIcons.label     "Kleine pictogrammen gebruiken">
+<!ENTITY customizeToolbar.useSmallIcons.accesskey "k">
+<!ENTITY customizeToolbar.labelAlignEnd.label     "Toon tekst naast pictogram">
+<!ENTITY customizeToolbar.labelAlignEnd.accesskey "n">
+<!ENTITY customizeToolbar.useDefault.label        "Standaardinstelling gebruiken">
+<!ENTITY customizeToolbar.useDefault.accesskey    "g">
+
 <!-- Popup Blocked notification menu -->
 <!ENTITY allowPopups.accesskey        "p">
 <!ENTITY showPopupManager.label       "Beheer Pop-ups">
