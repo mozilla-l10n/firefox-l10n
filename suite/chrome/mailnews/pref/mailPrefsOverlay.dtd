@@ -12,7 +12,6 @@
 <!ENTITY composingMessages.label "Berichtopstelling">
 <!ENTITY format.label "Verzendopmaak">
 <!ENTITY return.label "Ontvangstbevestigingen">
-<!ENTITY disk.label "Schijfruimte">
 <!ENTITY junk.label "Ongewenste berichten">
 <!ENTITY tags.label "Labels">
 <!ENTITY characterEncoding.label "Tekenset">

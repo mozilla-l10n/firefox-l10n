@@ -52,13 +52,8 @@
 <!ENTITY retention.label "Behoudbeleid">
 <!ENTITY retentionUseDefault.label  "Serverstandaard gebruiken">
 <!ENTITY retentionUseDefault.accesskey "r">
-<!ENTITY days.label "dagen">
 <!ENTITY daysOld.label "dagen">
 <!ENTITY message.label "">
-<!ENTITY retentionNotDownloadRead.label "Berichten lezen">
-<!ENTITY retentionNotDownloadRead.accesskey "R">
-<!ENTITY retentionDownloadMsg.label "Berichten meer dan">
-<!ENTITY retentionDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "Om schijfruimte vrij te maken, kunnen oude berichten permanent worden verwijderd">
 <!ENTITY retentionDeleteMsg.label "Berichten verwijderen die ouder zijn dan">
 <!ENTITY retentionDeleteMsg.accesskey "o">
@@ -80,19 +75,15 @@
 
 <!ENTITY selectofflineNewsgroup.check.label      "Deze nieuwsgroep voor offlinegebruik selecteren">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "f">
-<!ENTITY UseDefaultofflineNewsgroup.check.label  "De standaard van de accountinstellingen gebruiken">
 <!ENTITY offlineNewsgroup.button.label           "Nu downloaden">
 <!ENTITY offlineNewsgroup.button.accesskey       "d">
 
-<!ENTITY folderProps.information.label           "Informatie:">
 <!ENTITY folderProps.name.label                  "Naam:">
 <!ENTITY folderProps.name.accesskey              "m">
 <!ENTITY folderProps.location.label              "Locatie:">
 <!ENTITY folderProps.location.accesskey          "L">
 
-
 <!ENTITY folderSharingTab.label                  "Delen">
-<!ENTITY privilegesDesc.label                    "Deze en andere mappen met netwerkgebruikers delen en de toegangsprivileges tonen en instellen">
 <!ENTITY privileges.button.label                 "Privileges…">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "U hebt de volgende toestemmingen:">

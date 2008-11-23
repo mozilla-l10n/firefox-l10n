@@ -1,5 +1,4 @@
 <!ENTITY serverAdvanced.label "Geavanceerde accountinstellingen">
-<!ENTITY imapAdvanced.label "Geavanceerde IMAP-serverinstellingen">
 <!ENTITY serverDirectory.label "IMAP-serverdirectory">
 <!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "Alleen aangemelde mappen tonen">
@@ -20,7 +19,6 @@
 <!ENTITY overrideNamespaces.label "Server toestaan om deze namespaces te negeren">
 <!ENTITY overrideNamespaces.accesskey "S">
 <!ENTITY pop3Desc.label "Bij het downloaden van e-mail van deze POP3-server, de volgende map voor nieuwe e-mail gebruiken:">
-<!ENTITY folderStorage.label "Waar e-mail op te slaan">
 <!ENTITY globalInbox.label "Globaal Postvak IN (onder Lokale mappen)">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Postvak IN van deze serveraccount">

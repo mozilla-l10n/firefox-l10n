@@ -44,8 +44,6 @@
 <!ENTITY CopyEmailAddress.accesskey        "k">
 <!ENTITY CreateFilterFrom.label            "Filter maken op basis van…">
 <!ENTITY CreateFilterFrom.accesskey        "F">
-<!ENTITY BlockAddress.label                "Adres blokkeren">
-<!ENTITY BlockAddress.accesskey            "b">
 <!ENTITY CopyMessageId.label               "Bericht-ID kopiëren">
 <!ENTITY OpenMessageForMsgId.label         "Bericht voor ID openen">
 <!ENTITY OpenBrowserWithMsgId.label        "Browser met bericht-ID openen">

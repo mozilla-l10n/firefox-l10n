@@ -8,7 +8,6 @@
 <!ENTITY alwaysEncryptMessage.label "Vereist (kan bericht niet verzenden, tenzij alle geadresseerden een certificaat hebben)">
 <!ENTITY alwaysEncryptMessage.accesskey "V">
 <!ENTITY encryptionCert.message "Dit certificaat gebruiken voor het versleutelen en ontcijferen van naar u verzonden berichten:">
-<!ENTITY encryptionCert.notselected "Geen certificaat ingesteld">
 <!ENTITY digitalSign.certificate.button "Selecteren…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Wissen">
@@ -21,4 +20,3 @@
 <!ENTITY signMessage.label "Alle berichten digitaal ondertekenen (standaard)">
 <!ENTITY signMessage.accesskey "A">
 <!ENTITY signingCert.message "Dit certificaat gebruiken om berichten die u verzendt digitaal te ondertekenen:">
-<!ENTITY signingCert.notselected "Geen certificaat ingesteld">

@@ -53,8 +53,6 @@
 <!ENTITY fontPlainText.label              "Lettertype:">
 <!ENTITY fontPlainText.accesskey          "L">
 <!ENTITY displayQuoted.label              "Geciteerde-berichteninstellingen">
-<!ENTITY readingMessagesHeader.label      "Voor inkomende berichten">
-<!ENTITY messageWrapping.label            "Berichtterugloop">
 <!ENTITY wrapInMsg.label                  "Pas de tekst zodat het past binnen de vensterbreedte">
 <!ENTITY wrapInMsg.accesskey              "t">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->

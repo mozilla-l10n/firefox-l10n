@@ -39,10 +39,6 @@
 <!ENTITY generalSettings.caption          "Algemene instellingen">
 <!ENTITY confirmMove.label                "Bij het verplaatsen van mappen naar de prullenbak om bevestiging vragen">
 <!ENTITY confirmMove.accesskey            "C">
-<!ENTITY useMessenger.label               "Gebruik E-mail van MAPI-gebaseerde toepassingen">
-<!ENTITY useMessenger.accesskey           "U">
-<!ENTITY autounzip.label                  "Zip-bestanden automatisch uitpakken bij het opslaan van bijlagen">
-<!ENTITY autounzip.accesskey              "A">
 <!ENTITY preserveThreading.label          "Berichtenconversaties bij elkaar houden bij het sorteren van berichten">
 <!ENTITY preserveThreading.accesskey      "v">
 
