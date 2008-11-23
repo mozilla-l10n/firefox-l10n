@@ -363,7 +363,7 @@
 <!ENTITY tableRows.label "Linha(s)">
 <!ENTITY tableRow.accesskey "L">
 <!ENTITY tableRowAbove.label "Linha Acima">
-<!ENTITY tableRowAbove.accesskey "R">
+<!ENTITY tableRowAbove.accesskey "c">
 <!ENTITY tableRowBelow.label "Linha Abaixo">
 <!ENTITY tableRowBelow.accesskey "b">
 <!ENTITY tableColumn.label "Coluna">
