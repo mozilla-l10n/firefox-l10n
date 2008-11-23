@@ -75,9 +75,6 @@
 <!ENTITY filterActionDesc.label "Deze acties uitvoeren:">
 <!ENTITY filterActionDesc.accesskey "V">
 
-<!ENTITY newFolderButton.label "Nieuwe map…">
-<!ENTITY newFolderButton.accesskey "N">
-
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Bericht verplaatsen naar">
 <!ENTITY copyMessage.label "Bericht kopiëren naar">
