@@ -79,9 +79,6 @@
 <!ENTITY sendPageCmd.accesskey "k">
 <!ENTITY printSetupCmd.label "Oldalbeállítás...">
 <!ENTITY printSetupCmd.accesskey "O">
-<!ENTITY printPreviewCmd.label "Nyomtatási kép">
-<!ENTITY printPreviewCmd.accesskey "t">
-<!ENTITY printButtonCmd.label "Nyomtatás...">
 <!ENTITY printCmd.label "Nyomtatás...">
 <!ENTITY printCmd.accesskey "N">
 <!ENTITY printCmd.key "P">
@@ -99,29 +96,8 @@
 <!ENTITY pasteAs.accesskey "I">
 <!ENTITY publishSettings.label "Közzététel helyének beállításai...">
 <!ENTITY publishSettings.accesskey "z">
-
-<!-- For a "Paste" submenu when more than 1 
-     clipboard formats are available -->
-<!ENTITY pasteHTMLCmd.label "HTML">
-<!ENTITY pasteHTMLCmd.accesskey "H">
-<!ENTITY pasteTextCmd.label "Szöveg">
-<!ENTITY pasteTextCmd.accesskey "S">
-<!ENTITY pasteImageCmd.label "Kép">
-<!ENTITY pasteImageCmd.accesskey "K">
-<!ENTITY pasteRowsCmd.label "Sorok">
-<!ENTITY pasteRowsCmd.accesskey "S">
-<!ENTITY pasteColumnsCmd.label "Oszlopok">
-<!ENTITY pasteColumnsCmd.accesskey "O">
-<!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
-     Set to: "Table" or "Nested Table" depending on context 
-     This accesskey must be in both strings -->
-<!ENTITY pasteTableCmd.accesskey "t">
-<!ENTITY pasteLinkCmd.label "Hivatkozás">
-<!ENTITY pasteLinkCmd.accesskey "H">
 <!ENTITY pasteAsQuotationCmd.label "Beillesztés idézetként">
 <!ENTITY pasteAsQuotationCmd.accesskey "i">
-<!ENTITY editStripQuotesCmd.label "Idézés törlése">
-<!ENTITY editRewrapCmd.label "Újratördelés">
 <!ENTITY findCmd.label "Keresés és csere...">
 <!ENTITY findCmd.accesskey "K">
 <!ENTITY findCmd.key "F">
@@ -141,13 +117,6 @@
 <!ENTITY checkSpellingCmd.key "K">
 <!ENTITY validateCmd.label "HTML ellenőrzése">
 <!ENTITY validateCmd.accesskey "e">
-<!ENTITY checkLinksCmd.label "Hivatkozások ellenőrzése">
-
-<!-- View menu items -->
-<!ENTITY viewPageSource.label "Oldal forrása">
-<!ENTITY viewPageSource.accesskey "f">
-<!ENTITY viewParagraphMarks.label "Bekezdésjelek">
-<!ENTITY viewParagraphMarks.accesskey "B">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Beszúrás">
@@ -159,41 +128,16 @@
 <!ENTITY insertAnchorCmd.accesskey "o">
 <!ENTITY insertImageCmd.label "Kép...">
 <!ENTITY insertImageCmd.accesskey "K">
-<!ENTITY insertImageMapCmd.label "Hivatkozástérkép...">
 <!ENTITY insertHLineCmd.label "Vízszintes vonal">
 <!ENTITY insertHLineCmd.accesskey "V">
 <!ENTITY insertTableCmd.label "Táblázat...">
 <!ENTITY insertTableCmd.accesskey "T">
-<!ENTITY insertFormMenu.label "Űrlap">
-<!ENTITY insertFormMenu.accesskey "r">
 <!ENTITY insertHTMLCmd.label "HTML...">
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertCharsCmd.label "Karakterek és szimbólumok...">
 <!ENTITY insertCharsCmd.accesskey "K">
-<!ENTITY insertBreakCmd.label "Sortörés">
-<!ENTITY insertBreakCmd.accesskey "S">
 <!ENTITY insertBreakAllCmd.label "Sortörés a kép(ek) alatt">
 <!ENTITY insertBreakAllCmd.accesskey "k">
-
-<!-- Insert form menu items -->
-<!ENTITY insertFormCmd.label "Űrlapkészítés...">
-<!ENTITY insertFormCmd.accesskey "r">
-<!ENTITY insertInputTagCmd.label "Űrlapmező...">
-<!ENTITY insertInputTagCmd.accesskey "e">
-<!ENTITY insertInputImageCmd.label "Űrlapkép...">
-<!ENTITY insertInputImageCmd.accesskey "k">
-<!ENTITY insertTextAreaCmd.label "Szövegterület...">
-<!ENTITY insertTextAreaCmd.accesskey "S">
-<!ENTITY insertSelectCmd.label "Választólista...">
-<!ENTITY insertSelectCmd.accesskey "V">
-<!ENTITY insertButtonCmd.label "Gomb beszúrása...">
-<!ENTITY insertButtonCmd.accesskey "G">
-<!ENTITY insertLabelCmd.label "Címke beszúrása">
-<!ENTITY insertLabelCmd.accesskey "C">
-<!ENTITY insertFieldSetCmd.label "Mezőcsoport beszúrása...">
-<!ENTITY insertFieldSetCmd.accesskey "M">
-<!ENTITY insertIsIndexCmd.label "Keresőmező">
-<!ENTITY insertIsIndexCmd.accesskey "K">
 
 <!-- Used just in context popup. -->
 <!ENTITY spellCheckNoSuggestions.label "(Nincs javaslat)">
@@ -238,8 +182,6 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
-<!ENTITY localfontfaceMenu.label "Helyi betűkészletek">
-<!ENTITY localfontfaceMenu.accesskey "H">
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Betűméret beállítása">
@@ -361,18 +303,6 @@
 <!ENTITY advancedPropertiesCmd.label "Speciális beállítások">
 <!ENTITY advancedPropertiesCmd.accesskey "e">
 
-<!ENTITY NormalAbbr.label "Szöveg">
-<!ENTITY ParagraphAbbr.label "P">  
-<!ENTITY Heading1Abbr.label "H1">
-<!ENTITY Heading2Abbr.label "H2">
-<!ENTITY Heading3Abbr.label "H3">
-<!ENTITY Heading4Abbr.label "H4">
-<!ENTITY Heading5Abbr.label "H5">
-<!ENTITY Heading6Abbr.label "H6">
-<!ENTITY BlockquoteAbbr.label "BQ">
-<!ENTITY AddressAbbr.label "Címzés">
-<!ENTITY PreformatAbbr.label "Előform.">
-
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Igazítás">
 <!ENTITY alignMenu.accesskey "I">
@@ -458,8 +388,6 @@
 <!ENTITY tableDeleteMenu.label "Törlés">
 <!ENTITY tableDeleteMenu.accesskey "T">
 
-<!ENTITY tableFix.label "Rögzített táblázatszerkezet">
-<!ENTITY tableFix.accesskey "t">
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
@@ -501,7 +429,6 @@
 <!ENTITY linkToolbarCmd.tooltip "Új hivatkozás beszúrása vagy a kijelölt tulajdonságainak módosítása">
 <!ENTITY anchorToolbarCmd.label "Horgony">
 <!ENTITY anchorToolbarCmd.tooltip "Új horgony beszúrása vagy a kijelölt tulajdonságainak módosítása">
-<!ENTITY textColorCaption.label "Szövegszín">
 <!ENTITY TextColorButton.tooltip "A szöveg színének beállítása">
 <!ENTITY BackgroundColorButton.tooltip "A háttér színének beállítása">
 <!ENTITY throbber.tooltip "Ugrás a &vendorShortName; honlapjára">
@@ -523,17 +450,6 @@
 <!ENTITY alignCenterButton.tooltip "Szöveg igazítása középre">
 <!ENTITY alignRightButton.tooltip "Szöveg igazítása a lap jobb széléhez">
 <!ENTITY alignjustifyButton.tooltip "Szöveg sorkizárása">
-
-<!-- Formatting toolbar not used, but may be in future -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
-
-<!-- Used with color pickers in Format toolbar and Format Menu -->
-<!ENTITY colorPicker.default.label "A böngésző alapértelmezett színei">
-<!ENTITY colorPicker.default.accesskey "r">
-<!ENTITY colorLabel.label "Szín:">
-<!ENTITY ok.label "OK">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normál">

@@ -82,7 +82,6 @@
 
 <!ENTITY zoominCmd.label "Nagyítás">
 <!ENTITY zoomoutCmd.label "Kicsinyítés">
-<!ENTITY delSpotCmd.label "Interaktív terület törlése">
 
 <!-- Keys -->
 <!ENTITY clear.key "d">

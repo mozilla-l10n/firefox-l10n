@@ -4,20 +4,9 @@
 
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
 <!ENTITY  pref.composer.title           "HTML-szerkesztő">
-
-<!ENTITY  saving                        "Mentés">
-<!ENTITY  AutoSaveCheck                 "Automatikus mentés">
-<!ENTITY  minText                       "percenként">
-
-<!ENTITY  exterLegend.label             "Külső szerkesztők">
-<!ENTITY  htmlSource                    "HTML-forrás:">
-<!ENTITY  imageeditor                   "Képek:">
-<!ENTITY  chooseButton.label            "Tallózás">
-
 <!ENTITY  recentFiles.title             "Legutóbb szerkesztett oldalak">
 <!ENTITY  documentsInMenu.label         "A listában megjelenő oldalak maximális száma:">
 <!ENTITY documentsInMenu.accesskey     "L">
-
 <!ENTITY  savingFiles.title             "Fájlok mentésekor">
 <!ENTITY  preserveExisting.label        "Az eredeti forrás formázásainak megtartása">
 <!ENTITY preserveExisting.accesskey    "m">
@@ -26,10 +15,7 @@
 <!ENTITY saveAssociatedFiles.accesskey "K">
 <!ENTITY  showPublishDialog.label       "A Közzététel párbeszédpanel megjelenítése minden közzététel alkalmával">
 <!ENTITY showPublishDialog.accesskey   "A">
-
 <!ENTITY  composerEditing.label         "Szerkesztés">
-<!ENTITY  spellCheckInline.label        "Helyesírás-ellenőrzés beírás közben">
-<!ENTITY spellCheckInline.accesskey    "H">
 <!ENTITY  maintainStructure.label       "Cellák beszúrásakor vagy törlésekor megtartja a táblázat szerkezetét.">
 <!ENTITY  maintainStructure.tooltip     "Megakadályozza a cellaszegélyek letörését egy vagy több cella törlésénél">
 <!ENTITY maintainStructure.accesskey   "M">

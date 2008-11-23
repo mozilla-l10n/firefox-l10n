@@ -35,12 +35,6 @@
 <!ENTITY printAddressBook.label                         "Címjegyzék nyomtatása...">
 <!ENTITY printAddressBook.accesskey                     "C">
 
-<!ENTITY quitApplicationCmdWin.label                    "Kilépés"> 
-<!ENTITY quitApplicationCmdWin.accesskey                "K">
-<!ENTITY quitApplicationCmd.label                       "Kilépés"> 
-<!ENTITY quitApplicationCmd.accesskey                   "K">
-<!ENTITY quitApplicationCmd.key "Q">
-
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Szerkesztés">
 <!ENTITY editMenu.accesskey                             "z">

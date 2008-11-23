@@ -43,8 +43,6 @@
 
 <!ENTITY status.label          "Közzététel folyamatban...">
 <!ENTITY fileList.label        "Közzététel állapota">
-<!ENTITY statusHeader.label    "Állapot">
-<!ENTITY filenameHeader.label  "Fájlnév">
 <!ENTITY succeeded.label       "Sikeres">
 <!ENTITY failed.label          "Sikertelen">
 

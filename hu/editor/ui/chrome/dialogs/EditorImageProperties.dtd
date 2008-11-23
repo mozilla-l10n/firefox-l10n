@@ -41,7 +41,6 @@
 <!ENTITY windowTitle.label "Kép tulajdonságai">
 
 <!ENTITY pixelsPopup.value "képpont">
-<!ENTITY percentPopup.value "százalék">
 
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Kép URL:">
@@ -57,7 +56,6 @@
 <!ENTITY noAltText.accessKey "N">
 
 <!ENTITY previewBox.label "Kép előnézete">
-<!ENTITY MoreFewerButton.tooltip "Több/kevesebb szerkesztendő tulajdonság megjelenítése">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
@@ -93,7 +91,6 @@
 
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "Kép körüli térköz">
-<!ENTITY spacingBox.tooltip "Írja be, hogy mekkora térköz legyen a kép körül">
 <!ENTITY leftRightEditField.label "Balra és jobbra:">
 <!ENTITY leftRightEditField.accessKey "B">
 <!ENTITY topBottomEditField.label "Fent és lent:">
@@ -104,12 +101,6 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Szegély megjelenítése a kép körül">
 <!ENTITY showImageLinkBorder.accessKey "S">
-
-<!-- These controls may be added some day; currently not used -->
-<!ENTITY makePageBackgroundCheckbox.label "Legyen az oldal háttere">
-<!ENTITY makePageBackgroundCheckbox.tooltip "Kép használata háttérképként">
-<!ENTITY editImageButton.label "Kép szerkesztése">
-<!ENTITY editImageButton.tooltip "Kép szerkesztése egy másik programmal">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Űrlap">

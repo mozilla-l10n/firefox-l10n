@@ -46,11 +46,6 @@
 <!ENTITY printCmd.label "Nyomtatás...">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "N">
-<!ENTITY quitApplicationCmdWin.label                    "Kilépés"> 
-<!ENTITY quitApplicationCmdWin.accesskey                "K">
-<!ENTITY quitApplicationCmd.label                       "Kilépés"> 
-<!ENTITY quitApplicationCmd.accesskey                   "K">
-<!ENTITY quitApplicationCmd.key "Q"> 
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "Szerkesztés"> 

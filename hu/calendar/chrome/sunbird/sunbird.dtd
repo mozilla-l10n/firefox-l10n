@@ -55,10 +55,10 @@
 <!ENTITY sunbird.flat.topbar.monthview                     "Havi nézet" >
 <!ENTITY sunbird.flat.topbar.multiweekview                 "Többheti nézet" >
 
-<!ENTITY sunbird.dayview.accesskey                         "D">
-<!ENTITY sunbird.weekview.accesskey                        "W">
-<!ENTITY sunbird.monthview.accesskey                       "M">
-<!ENTITY sunbird.multiweekview.accesskey                   "u">
+<!ENTITY sunbird.dayview.accesskey                         "N">
+<!ENTITY sunbird.weekview.accesskey                        "H">
+<!ENTITY sunbird.monthview.accesskey                       "n">
+<!ENTITY sunbird.multiweekview.accesskey                   "T">
 
 
 <!ENTITY sunbird.calendartab.label                         "Dátum">
@@ -68,7 +68,7 @@
 <!ENTITY sunbird.close.key                                 "W">
 
 <!ENTITY sunbird.menu.numberofweeks.label                  "Hetek száma" >
-<!ENTITY sunbird.menu.numberofweeks.accesskey              "N">
+<!ENTITY sunbird.menu.numberofweeks.accesskey              "H">
 <!ENTITY sunbird.menu.numberofweeks.2                      "2 hét" >
 <!ENTITY sunbird.menu.numberofweeks.3                      "3 hét" >
 <!ENTITY sunbird.menu.numberofweeks.4                      "4 hét" >
@@ -77,15 +77,15 @@
 
 <!-- customizable toolbars -->
 <!ENTITY sunbird.context.customize.label                   "Testreszabás...">
-<!ENTITY sunbird.context.customize.accesskey               "C">
+<!ENTITY sunbird.context.customize.accesskey               "T">
 <!ENTITY sunbird.menu.customize.label                      "Eszköztár testreszabása...">
-<!ENTITY sunbird.menu.customize.accesskey                  "C">
+<!ENTITY sunbird.menu.customize.accesskey                  "E">
 <!ENTITY sunbird.maintoolbar.name                          "Fő eszköztár">
-<!ENTITY sunbird.maintoolbar.accesskey                     "M">
+<!ENTITY sunbird.maintoolbar.accesskey                     "F">
 
 <!-- Sunbird Help -->
 <!ENTITY sunbird.help.label                                "Tartalom">
-<!ENTITY sunbird.help.accesskey                            "H">
+<!ENTITY sunbird.help.accesskey                            "T">
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title                                  "&brandFullName;">

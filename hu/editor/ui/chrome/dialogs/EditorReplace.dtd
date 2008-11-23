@@ -58,4 +58,3 @@
 <!ENTITY replaceAllButton.label "Mindet cseréli">
 <!ENTITY replaceAllButton.accesskey "M">
 <!ENTITY closeButton.label "Bezárás">
-<!ENTITY notFoundWarning.label "A megadott szöveg nem található.">

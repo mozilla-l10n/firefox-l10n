@@ -82,8 +82,6 @@
 <!ENTITY event.menu.file.page.setup.accesskey            "O">
 <!ENTITY  event.menu.file.print.label                     "Nyomtatás">
 <!ENTITY event.menu.file.print.accesskey                 "N">
-<!ENTITY  event.menu.file.exit.label                      "Kilépés">
-<!ENTITY event.menu.file.exit.accesskey                  "K">
 
 <!ENTITY  event.menu.edit.label                           "Szerkesztés">
 <!ENTITY event.menu.edit.accesskey                       "z">
@@ -267,7 +265,7 @@
 <!ENTITY event.recurrence.repeat.third.label            "harmadik">
 <!ENTITY event.recurrence.repeat.fourth.label           "negyedik">
 <!ENTITY event.recurrence.repeat.fifth.label            "ötödik">
-<!ENTITY event.recurrence.repeat.last.label             "Utolsó">
+<!ENTITY event.recurrence.repeat.last.label             "utolsó">
 <!ENTITY event.recurrence.pattern.monthly.week.1.label  "Vasárnap" >
 <!ENTITY event.recurrence.pattern.monthly.week.2.label  "Hétfő" >
 <!ENTITY event.recurrence.pattern.monthly.week.3.label  "Kedd" >

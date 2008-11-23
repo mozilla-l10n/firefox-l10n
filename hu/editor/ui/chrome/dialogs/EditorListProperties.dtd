@@ -47,7 +47,6 @@
 <!ENTITY bulletList.value "Felsorolás (számozatlan lista)">
 <!ENTITY numberList.value "Számozott lista">
 <!ENTITY definitionList.value "Definíciólista">
-<!ENTITY changeListMsg.label "A lista típusának megváltoztatásakor:">
 <!ENTITY changeEntireListRadio.label "Egész lista megváltoztatása">
 <!ENTITY changeEntireListRadio.accessKey "E">
 <!ENTITY changeSelectedRadio.label "Csak a kijelölt elemek megváltoztatása">
