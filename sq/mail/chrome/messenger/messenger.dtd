@@ -683,5 +683,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Shfaqi të Tëra">
 
-<!ENTITY folderContextSubscribe.label "Pajto huni…">
+<!ENTITY folderContextSubscribe.label "Pajtohuni…">
 <!ENTITY folderContextSubscribe.accesskey "p">
