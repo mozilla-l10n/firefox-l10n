@@ -187,3 +187,7 @@
 <!ENTITY detailsPane.less.accesskey "о">
 <!ENTITY detailsPane.noPreviewAvailable.label "Преглед">
 <!ENTITY detailsPane.selectAnItemText.description "Одберете ставка за преглед и уредете ги нејзините својства">
+<!ENTITY cmd.delete.label               "Избриши ја оваа страница">
+<!ENTITY cmd.delete.accesskey           "з">
+<!ENTITY cmd.deleteDomainData.label     "Заборави го ова место">
+<!ENTITY cmd.deleteDomainData.accesskey "б">

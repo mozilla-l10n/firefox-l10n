@@ -146,3 +146,7 @@
 <!ENTITY eula.width "560px">
 <!ENTITY eula.height "400px">
 <!ENTITY eula.accept "Прифати и инсталирај…">
+
+<!ENTITY blocklist.blocked.label          "Блокирано">
+<!ENTITY blocklist.checkbox.label         "Оневозможи">
+<!ENTITY softBlocklisted.label            "Познато дека предизвикува проблеми со безбедност и стабилност.">

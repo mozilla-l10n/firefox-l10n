@@ -10,4 +10,6 @@
 <!ENTITY showTabBar.label "Секогаш прикажувај ја лентата за јазичиња">
 <!ENTITY showTabBar.accesskey "т">
 <!ENTITY switchToNewTabs.label "Кога ќе отворам врска во ново јазиче, веднаш премини на него">
-<!ENTITY switchToNewTabs.accesskey "с">
+<!ENTITY switchToNewTabs.accesskey "н">
+<!ENTITY newWindowsAsTabs.label       "Новите прозорци отворај ги како јазичиња">
+<!ENTITY newWindowsAsTabs.accesskey   "п">

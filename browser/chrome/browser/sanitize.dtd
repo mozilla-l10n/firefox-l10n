@@ -18,3 +18,33 @@
 <!ENTITY itemSessions.label "Идентификуваните сесии">
 <!ENTITY itemSessions.accesskey "с">
 <!ENTITY window.width "30em">
+<!ENTITY clearDataSettings2.label     "Кога ќе излезам од &brandShortName;, автоматски треба да се исчисти:">
+<!ENTITY clearDuration.everything     "целата моја историја">
+
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+<!ENTITY clearDuration.label          "Отстрани ">
+<!ENTITY clearDuration.last2Hours     "последните 2 часа">
+<!ENTITY clearDuration.last4Hours     "последните 4 часа">
+<!ENTITY clearDuration.lastHour       "последниот час">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix         "">
+<!ENTITY clearDuration.today          "мојата денешна историја">
+<!ENTITY column.width                 "14em">
+<!ENTITY dataSection.label            "Податоци">
+
+<!ENTITY historySection.label         "Историја">
+<!ENTITY itemActiveLogins.accesskey   "А">
+<!ENTITY itemActiveLogins.label       "Активни пријави">
+<!ENTITY itemDownloadList.accesskey   "Л">
+<!ENTITY itemDownloadList.label       "Листа на преземања">
+<!ENTITY itemFormSearchEntries.accesskey "ф">
+<!ENTITY itemFormSearchEntries.label  "Записи во формулари и пребарувања">
+<!ENTITY itemVisitedPages.accesskey   "П">
+
+<!ENTITY itemVisitedPages.label       "Посетени страници">
+<!ENTITY itemWebCache.accesskey       "к">
+<!ENTITY itemWebCache.label           "Интернет кеш">
+<!ENTITY sanitizeDialog2.title         "Исчисти ја скорешната историја">
+<!ENTITY sanitizePrefs.title           "Исчисти ги приватните податоци">

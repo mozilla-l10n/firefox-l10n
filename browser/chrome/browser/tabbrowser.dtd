@@ -1,4 +1,4 @@
-<!ENTITY untitledTab "(Безимено)">
+<!ENTITY untitledTab "(безимено)">
 <!ENTITY newTab.label "Ново јазиче">
 <!ENTITY newTab.accesskey "Н">
 <!ENTITY closeTab.label "Затвори го јазичето">
@@ -16,3 +16,4 @@
 <!ENTITY bookmarkThisTab.accesskey "ј">
 <!ENTITY undoCloseTab.label "Врати го затвореното јазиче">
 <!ENTITY undoCloseTab.accesskey "В">
+<!ENTITY newTabButton.tooltip "Отвора ново јазиче">

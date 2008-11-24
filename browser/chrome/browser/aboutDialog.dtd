@@ -1,9 +1,13 @@
 <!ENTITY aboutDialog.title "За &brandFullName;">
 <!ENTITY copyright "Заслуги">
 <!ENTITY copyright.accesskey "с">
+<!ENTITY copyrightGNOME.accesskey   "л">
 <!ENTITY aboutLink "&lt; За &brandFullName;">
 <!ENTITY aboutLink.accesskey "З">
 <!ENTITY aboutVersion "верзија">
+<!ENTITY closeCmdGNOME.label        "Затвори">  
+<!ENTITY closeCmdGNOME.accesskey    "т">
 <!ENTITY copyrightInfo "©1998-2008 Придонесувачи. Сите права задржани. Firefox и 
                         логоата на Firefox се трговски марки на фондацијата Mozilla.
                         Сите права задржани.">
+
