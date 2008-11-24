@@ -1,20 +1,20 @@
-<!ENTITY newsblogTitle.label "RSS Account Settings">
+<!ENTITY newsblogTitle.label "Ustawienia konta RSS">
 
-<!ENTITY biffStart.label "Check for new articles every ">
+<!ENTITY biffStart.label "Sprawdzaj, czy są nowe artykuły co ">
 <!ENTITY biffStart.accesskey "k">
-<!ENTITY biffEnd.label "minutes">
+<!ENTITY biffEnd.label "minut">
 
-<!ENTITY loginAtStartup.label "Check for new articles at startup">
+<!ENTITY loginAtStartup.label "Sprawdzaj podczas uruchamiania, czy są nowe artykuły">
 <!ENTITY loginAtStartup.accesskey "C">
 
-<!ENTITY useQuickMode.label "By default, show the article summary instead of loading the web page">
+<!ENTITY useQuickMode.label "Domyślnie pokazuj podsumowanie artykułu, zamiast wczytywać stronę internetową">
 <!ENTITY useQuickMode.accesskey "B">
 
-<!ENTITY manageSubscriptions.label "Manage Subscriptions…">
+<!ENTITY manageSubscriptions.label "Menedżer kanałów RSS…">
 <!ENTITY manageSubscriptions.accesskey "M">
 
 <!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName "News &amp; Blogs">
+<!ENTITY rss.accountName "Aktualności i blogi">
 <!ENTITY rss.wizardShortName "RSS">
-<!ENTITY rss.wizardLongName "RSS News &amp; Blogs">
+<!ENTITY rss.wizardLongName "RSS: Aktualności i blogi">
 <!ENTITY rss.wizardLongName.accesskey "R">

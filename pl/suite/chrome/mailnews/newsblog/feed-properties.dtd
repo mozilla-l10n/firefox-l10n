@@ -1,19 +1,19 @@
 <!-- Feed Properties Dialog -->
-<!ENTITY window.title "Feed Properties">
+<!ENTITY window.title "Właściwości kanału RSS">
 
-<!ENTITY feedFolder.label "Store Articles in: ">
+<!ENTITY feedFolder.label "Przechowuj artykuły w: ">
 <!ENTITY feedFolder.accesskey "S">
 
-<!ENTITY feedLocation.label "Feed URL: ">
+<!ENTITY feedLocation.label "Adres URL kanału: ">
 <!ENTITY feedLocation.accesskey "F">
 
-<!ENTITY choosethisfolder.label "choose this folder">
+<!ENTITY choosethisfolder.label "wybierz ten folder">
 
-<!ENTITY quickMode.label "Show the article summary instead of loading the web page">
+<!ENTITY quickMode.label "Pokazuj podsumowanie artykułu, zamiast wczytywać stronę internetową">
 <!ENTITY quickMode.accesskey "h">
 
-<!ENTITY copyLinkCmd.label "Copy Link Location">
+<!ENTITY copyLinkCmd.label "Kopiuj adres odnośnika">
 <!ENTITY copyLinkCmd.accesskey "C">
 
-<!ENTITY pasteLinkCmd.label "Paste">
+<!ENTITY pasteLinkCmd.label "Wklej">
 <!ENTITY pasteLinkCmd.accesskey "P">

@@ -306,7 +306,7 @@
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Odpowiedz tylko nadawcy">
 <!ENTITY replySenderCmd.accesskey "n">
-<!ENTITY replyNewsgroupCmd.label "Odpowiedz na grupę dyskusyjną">
+<!ENTITY replyNewsgroupCmd.label "Odpowiedz grupie dyskusyjnej">
 <!ENTITY replyNewsgroupCmd.accesskey "d">
 <!ENTITY replyToAllMsgCmd.label "Odpowiedz wszystkim">
 <!ENTITY replyToAllMsgCmd.accesskey "w">
@@ -329,11 +329,11 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Utwórz filtr na podstawie wiadomości…">
 <!ENTITY createFilter.accesskey "f">
-<!ENTITY moveMsgToMenu.label "Move To">
+<!ENTITY moveMsgToMenu.label "Przenieś do">
 <!ENTITY moveMsgToMenu.accesskey "M">
 <!ENTITY copyMessageLocation.label "Kopiuj adres wiadomości">
 <!ENTITY copyMessageLocation.accesskey "a">
-<!ENTITY copyMsgToMenu.label "Copy To">
+<!ENTITY copyMsgToMenu.label "Kopiuj do">
 <!ENTITY copyMsgToMenu.accesskey "C">
 <!ENTITY moveCopyMsgRecentMenu.label "Ostatni">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
@@ -475,7 +475,7 @@
 <!ENTITY contextEditAsNew.accesskey "e">
 <!ENTITY contextReplySender.label "Odpowiedz tylko nadawcy">
 <!ENTITY contextReplySender.accesskey "n">
-<!ENTITY contextReplyNewsgroup.label "Odpowiedz do grupy dyskusyjnej">
+<!ENTITY contextReplyNewsgroup.label "Odpowiedz grupie dyskusyjnej">
 <!ENTITY contextReplyNewsgroup.accesskey "g">
 <!ENTITY contextReplyAll.label "Odpowiedz wszystkim">
 <!ENTITY contextReplyAll.accesskey "w">

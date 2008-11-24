@@ -79,9 +79,9 @@
 <!ENTITY ScreenName.label "Komunikator:">
 <!ENTITY ScreenName.accesskey "I">
 
-<!ENTITY allowRemoteContent.label "Allow remote images.">
+<!ENTITY allowRemoteContent.label "Zezwól na zdalne obrazki w wiadomościach">
 <!ENTITY allowRemoteContent.accesskey "Z">
-<!ENTITY allowRemoteContent.tooltip "In HTML messages it is possible to embed images from remote sources. Opening such a message will open a connection to this external source. This may allow tracking of the message being read. Checking this box will allow such external embedded images in HTML messages from this contact.">
+<!ENTITY allowRemoteContent.tooltip "W wiadomościach HTML możliwe jest wstawianie zdalnych obrazków. Otwarcie takiej wiadomości otworzy połączenie ze zdalnym zasobem co może umożliwić wysyłającemu śledzić, czy wiadomość została odczytana. Zaznaczenie tego pola pozwoli automatycznie wczytywać takie zdalne obrazki w wiadomościach od tego kontaktu.">
 
 <!ENTITY WorkPhone.label "Praca:">
 <!ENTITY WorkPhone.accesskey "r">
@@ -94,7 +94,7 @@
 <!ENTITY CellularNumber.label "Komórka:">
 <!ENTITY CellularNumber.accesskey "K">
 
-<!ENTITY Home.tab "Private">
+<!ENTITY Home.tab "Prywatny:">
 <!ENTITY Home.accesskey "P">
 <!ENTITY HomeAddress.label "Adres:">
 <!ENTITY HomeAddress.accesskey "d">
@@ -116,7 +116,7 @@
 <!ENTITY Or.value "lub">
 <!ENTITY Age.emptytext "wiek">
 
-<!ENTITY Work.tab "Work">
+<!ENTITY Work.tab "Służbowy">
 <!ENTITY Work.accesskey "W">
 <!ENTITY JobTitle.label "Stanowisko:">
 <!ENTITY JobTitle.accesskey "e">
@@ -149,5 +149,5 @@
 <!ENTITY Custom3.accesskey "3">
 <!ENTITY Custom4.label "Informacja 4:">
 <!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.label "Notes:">
+<!ENTITY Notes.label "Notatki:">
 <!ENTITY Notes.accesskey "N">

@@ -4,7 +4,7 @@
 <!ENTITY browser.label "Przeglądarka">
 <!ENTITY email.label "poczty">
 <!ENTITY newsgroups.label "grup dyskusyjnych">
-<!ENTITY rss.label "RSS Feeds">
+<!ENTITY rss.label "kanałów RSS">
 
 <!ENTITY checkOnStartup.label "Sprawdzaj to zawsze przy uruchamianiu programu &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "A">
