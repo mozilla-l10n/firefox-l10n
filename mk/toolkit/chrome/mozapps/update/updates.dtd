@@ -2,18 +2,10 @@
 <!ENTITY window.width "36em">
 <!ENTITY window.macWidth "39em">
 <!ENTITY checking.title "Барање на надградби">
-<!ENTITY checking.label "&brandShortName; проверува дали има надградби…">
-<!ENTITY cancel.label "Откажи">
-<!ENTITY cancel.accesskey "т">
 <!ENTITY noupdatesfound.title "Не се пронајдени надградби">
 <!ENTITY noupdatesautoenabled.intro "Нема достапни надградби. &brandShortName; периодично ќе проверува за надградби.">
 <!ENTITY noupdatesautodisabled.intro "Нема достапни надградби. Проверете повторно друг пат или вклучете ја автоматската проверка за &brandShortName; надградби.">
-<!ENTITY incompatibleChecking.label "Проверувам дали оваа надградбаќе предизвика проблеми со Вашите проширувања и/или теми…">
 <!ENTITY clickHere.label "Видете повеќе информации за оваа надградба">
-<!ENTITY incompatible.warning "Оваа надградба ќе ја спречи работата на некои Ваши проширувања и/или теми се додека и тие не бидат надградени.">
-<!ENTITY listIncompatible.label "Прикажи го списокот">
-<!ENTITY listIncompatible.accesskey "с">
-<!ENTITY upgrade.evangelism "Препорачливо е да го надградите &brandShortName; што е можно поскоро.">
 <!ENTITY license.instructions "Ако се согласувате со условите на овој договор, кликнете „Се согласувам“ за да продолжите со надградбата.">
 <!ENTITY license.titleText "Лиценцен договор за софтверот">
 <!ENTITY license.introText "Услови за користење на овој софтвер.">
@@ -27,21 +19,11 @@
 <!ENTITY connecting.label "Се поврзувам со серверот за надградби…">
 <!ENTITY verificationFailedText.label "&brandShortName; не можеше да го утврди интегритетот на инкременталната надградба која ја презема, па затоа сега го презема целиот пакет со надградби.">
 <!ENTITY details.link "Детали">
-<!ENTITY pause.label "Паузирај">
-<!ENTITY pause.accesskey "а">
-<!ENTITY close.label "Затвори">
-<!ENTITY close.accesskey "З">
 <!ENTITY error.label "Имаше проблеми со проверувањето, преземањето или инсталирањето на оваа надградба. &brandShortName; не може да се надгради бидејќи:">
 <!ENTITY errorManual.label "Можете рачно да го надградите &brandShortName; со посета на следнава врска и преземање на последната верзија:">
 <!ENTITY errorpatching.title "Надградбата не успеа">
 <!ENTITY errorpatching.intro "Парцијалната надградба не може да се примени. &brandShortName; ќе се обиде повторно со преземање на комплетната надградба.">
-<!ENTITY finished.title "Надградбата е преземена">
-<!ENTITY finished.text "Надградбата беше успешно преземена и проверена, но целосно ќе биде инсталирана следниот пат кога ќе го вклучите &brandShortName;.">
-<!ENTITY finishedBackground.title "Надградбата е подготвена за инсталација">
-<!ENTITY finishedBackground.text "&brandShortName; само што заврши со преземање на важна надградба. Кликнете на врската подолу за дополнителни информации.">
 <!ENTITY finishedBackground.name "Надградба:">
-<!ENTITY finishedBackground.more1 "Кликнете на „Рестартирај го &brandShortName; веднаш“ за да ја инсталирате надградбата веднаш.">
-<!ENTITY finishedBackground.textNotNow "Кликнете на „Не сега“ за да го затворите овој прозор и да продолжите со сурфањето. &brandShortName; ќе ја инсталира надградбата при следното стартување.">
 <!ENTITY installed.title "Надградбата е инсталирана">
 <!ENTITY installed.intro "Надградбата е успешно инсталирана.">
 <!ENTITY whatsnew.label "Прочитајте повеќе за тоа што е ново…">

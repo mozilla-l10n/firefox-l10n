@@ -12,8 +12,6 @@
 <!ENTITY safeb.palm.notforgery.label2 "Ова не е мрежна измама…">
 <!ENTITY safeb.palm.report.label "Зошто е ова мрежно место блокирано?">
 
-<!ENTITY safeb.urlbaricon.tooltip "Оваа страница можеби е опасна; кликнете тука за детали.">
-
 <!ENTITY safeb.blocked.malware.title "Пријавено е напаѓачко мрежно место!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "Мрежнoто место на <span id='malware_sitename'/> е пријавено како напаѓачко и е блокирано врз основа на Вашите безбедносни преференции.">

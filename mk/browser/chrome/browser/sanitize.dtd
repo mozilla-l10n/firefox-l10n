@@ -1,22 +1,10 @@
-<!ENTITY sanitizeDialog.title "Чистење на приватни податоци">
 <!ENTITY sanitizeItems.label "Исчисти ги следните податоци:">
-<!ENTITY clearDataSettings.label "Кога ќе му наредам на &brandShortName; да ги исчисти приватни податоци, треба да се избришат:">
-<!ENTITY itemHistory.label "Сурферската историја">
-<!ENTITY itemHistory.accesskey "у">
-<!ENTITY itemFormSearchHistory.label "Снимената историја од обрасци и пребарување">
-<!ENTITY itemFormSearchHistory.accesskey "о">
 <!ENTITY itemPasswords.label "Снимените лозинки">
 <!ENTITY itemPasswords.accesskey "л">
 <!ENTITY itemCookies.label "Колачињата">
 <!ENTITY itemCookies.accesskey "К">
-<!ENTITY itemCache.label "Кешот">
-<!ENTITY itemCache.accesskey "е">
 <!ENTITY itemOfflineApps.label "Локалните податоци за мрежни места">
 <!ENTITY itemOfflineApps.accesskey "о">
-<!ENTITY itemDownloads.label "Историјата на преземања">
-<!ENTITY itemDownloads.accesskey "п">
-<!ENTITY itemSessions.label "Идентификуваните сесии">
-<!ENTITY itemSessions.accesskey "с">
 <!ENTITY window.width "30em">
 <!ENTITY clearDataSettings2.label     "Кога ќе излезам од &brandShortName;, автоматски треба да се исчисти:">
 <!ENTITY clearDuration.everything     "целата моја историја">

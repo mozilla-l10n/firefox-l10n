@@ -4,8 +4,4 @@
 <!ENTITY actionColumn2.accesskey "А">
 <!ENTITY focusSearch1.key "f">
 <!ENTITY focusSearch2.key "k">
-<!ENTITY filter.label "Барај">
-<!ENTITY filter.accesskey "Б">
-<!ENTITY clear.label "Исчисти">
-<!ENTITY clear.accesskey "с">
-<!ENTITY  filter.emptytext        "Пребарај">
+<!ENTITY filter.emptytext "Пребарај">

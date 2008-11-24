@@ -1,9 +1,5 @@
 <!ENTITY warnAddonInstall.label "Предупреди ме кога местата сакаат да инсталираат додатоци">
 <!ENTITY warnAddonInstall.accesskey "а">
-<!ENTITY tellMaybeAttackSite.label "Кажи ми ако местото кое го посетувавам е осомничен напаѓач">
-<!ENTITY tellMaybeAttackSite.accesskey "К">
-<!ENTITY tellMaybeForgery.label "Кажи ми ако местото кое го посетувам е осомничен фалсификат">
-<!ENTITY tellMaybeForgery.accesskey "т">
 <!ENTITY addonExceptions.label "Исклучоци…">
 <!ENTITY addonExceptions.accesskey "И">
 <!ENTITY passwords.label "Лозинки">

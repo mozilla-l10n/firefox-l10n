@@ -157,9 +157,6 @@
 <!ENTITY preferencesCmdUnix.label "Преференции">
 <!ENTITY preferencesCmdUnix.accesskey "ф">
 
-<!ENTITY clearPrivateDataCmd.label "Исчисти ги приватните податоци">
-<!ENTITY clearPrivateDataCmd.accesskey "в">
-
 <!ENTITY viewMenu.label "Поглед">
 <!ENTITY viewMenu.accesskey "г">
 <!ENTITY viewToolbarsMenu.label "Алатници">
@@ -230,8 +227,6 @@
 <!ENTITY viewPageInfoCmd.accesskey "и">
 <!ENTITY viewFrameInfoCmd.label "Прикажи ги информациите за рамката">
 <!ENTITY viewFrameInfoCmd.accesskey "и">
-<!ENTITY showImageCmd.label "Прикажи слика">
-<!ENTITY showImageCmd.accesskey "с">
 <!ENTITY viewImageCmd.label "Прикажи ја сликата">
 <!ENTITY viewImageCmd.accesskey "ж">
 <!ENTITY viewBGImageCmd.label "Прикажи ја позадинската слика">
