@@ -315,7 +315,7 @@
 <!ENTITY replyMsgCmd.key                "r">
 <!ENTITY replySenderCmd.label           "Odpowiedz tylko nadawcy">
 <!ENTITY replySenderCmd.accesskey       "n">
-<!ENTITY replyNewsgroupCmd.label        "Odpowiedz na grupę dyskusyjną">
+<!ENTITY replyNewsgroupCmd.label        "Odpowiedz grupie dyskusyjnej">
 <!ENTITY replyNewsgroupCmd.accesskey    "d">
 <!ENTITY replyToAllMsgCmd.label         "Odpowiedz wszystkim">
 <!ENTITY replyToAllMsgCmd.accesskey     "w">
@@ -600,8 +600,8 @@
 <!ENTITY contextEditAsNew.accesskey      "e">
 <!ENTITY contextReplySender.label        "Odpowiedz tylko nadawcy">
 <!ENTITY contextReplySender.accesskey    "n">
-<!ENTITY contextReplyNewsgroup.label     "Odpowiedz do grupy dyskusyjnej">
-<!ENTITY contextReplyNewsgroup.accesskey "g">
+<!ENTITY contextReplyNewsgroup.label     "Odpowiedz grupie dyskusyjnej">
+<!ENTITY contextReplyNewsgroup.accesskey "u">
 <!ENTITY contextReplyAll.label           "Odpowiedz wszystkim">
 <!ENTITY contextReplyAll.accesskey       "w">
 <!ENTITY contextForward.label            "Przekaż">
