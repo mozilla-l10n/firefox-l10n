@@ -34,7 +34,7 @@
 <!ENTITY restorepage.pagetitle      "Ar norėtumėte atkurti ankstesnį naršymo seansą?">
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "Paskutinis Jūsų darbo su „&brandShortName;“ seansas netikėtai nutrūko. Nuoširdžiai atsiprašome dėl nepatogumų. Galite atstatyti ankstesnio seanso langus ir korteles, arba, jei jie nebereikalingi, pradėti naują seansą.">
+<!ENTITY restorepage.issueDesc      "Paskutinis Jūsų darbo su „&brandShortName;“ seansas netikėtai nutrūko. Nuoširdžiai apgailestaujame dėl nepatogumų. Galite atstatyti ankstesnio seanso langus ir korteles, arba, jei jie nebereikalingi, pradėti naują seansą.">
 <!ENTITY restorepage.remedies       "Jei „&brandShortName;“ darbas nutrūksta keliskart paeiliui:">
 <!ENTITY restorepage.dueToChrome    "pabandykite išjungti pastaruoju metu įdiegtus priedus, arba">
 <!ENTITY restorepage.dueToContent   "pabandykite atkurti seansą, neatverdami tinklalapių, kurie, Jūsų nuomone, galėtų būti šių trikčių priežastimi:">
