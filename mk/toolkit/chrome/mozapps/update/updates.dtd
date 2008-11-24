@@ -6,7 +6,8 @@
 <!ENTITY cancel.label "Откажи">
 <!ENTITY cancel.accesskey "т">
 <!ENTITY noupdatesfound.title "Не се пронајдени надградби">
-<!ENTITY noupdatesfound.intro "Не се пронајдени нови надградби. &brandShortName; може периодично да проверува дали има нови надградби.">
+<!ENTITY noupdatesautoenabled.intro "Нема достапни надградби. &brandShortName; периодично ќе проверува за надградби.">
+<!ENTITY noupdatesautodisabled.intro "Нема достапни надградби. Проверете повторно друг пат или вклучете ја автоматската проверка за &brandShortName; надградби.">
 <!ENTITY incompatibleChecking.label "Проверувам дали оваа надградбаќе предизвика проблеми со Вашите проширувања и/или теми…">
 <!ENTITY clickHere.label "Видете повеќе информации за оваа надградба">
 <!ENTITY incompatible.warning "Оваа надградба ќе ја спречи работата на некои Ваши проширувања и/или теми се додека и тие не бидат надградени.">
@@ -37,8 +38,7 @@
 <!ENTITY finished.title "Надградбата е преземена">
 <!ENTITY finished.text "Надградбата беше успешно преземена и проверена, но целосно ќе биде инсталирана следниот пат кога ќе го вклучите &brandShortName;.">
 <!ENTITY finishedBackground.title "Надградбата е подготвена за инсталација">
-<!ENTITY finishedBackground.text "&brandShortName; само што заврши со преземање на важна надградба.
-                                  Кликнете на врската подолу за дополнителни информации.">
+<!ENTITY finishedBackground.text "&brandShortName; само што заврши со преземање на важна надградба. Кликнете на врската подолу за дополнителни информации.">
 <!ENTITY finishedBackground.name "Надградба:">
 <!ENTITY finishedBackground.more1 "Кликнете на „Рестартирај го &brandShortName; веднаш“ за да ја инсталирате надградбата веднаш.">
 <!ENTITY finishedBackground.textNotNow "Кликнете на „Не сега“ за да го затворите овој прозор и да продолжите со сурфањето. &brandShortName; ќе ја инсталира надградбата при следното стартување.">
@@ -48,3 +48,19 @@
 <!ENTITY update.details.label "Детали">
 <!ENTITY update.installedOn.label "Инсталирана на:">
 <!ENTITY update.status.label "Статус:">
+<!ENTITY  evangelism.desc "Се препорачува да ја примените оваа надградба на &brandShortName; во најкус рок.">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more "Надградбата ќе се инсталира при следното стартување на &BrandShortName;. Можете да го рестартирате &brandShortName; сега, или да продолжите со работа и да го рестартирате подоцна.">
+
+<!ENTITY  finishedBackgroundPage.text "Преземена е надградба за безбедност и стабилност на &brandShortName;. Надградбата може да се инсталира.">
+<!ENTITY  finishedPage.text "Надградбата ќе се инсталира при следното стартување на &BrandShortName;. Можете да го рестартирате &brandShortName; сега, или дапродолжите со работа и да го рестартирате подоцна.">
+
+<!ENTITY  finishedPage.title "Надградбата е спремна за инсталирање">
+<!ENTITY  incompatibleCheck.label "Барам нови верзии на Вашите додатоци…">
+
+<!ENTITY  incompatibleCheck.title "Ја проверувам компатибилноста на додатоците">
+
+<!ENTITY  incompatibleList.title  "Пронајдени се некомпатибилни додатоци">
+<!ENTITY  updateCheck.label     "Барам нови верзии на &brandShortName;…">
+
+<!ENTITY  viewDetails.tooltip    "Прикажи ги деталите за оваа надградба">

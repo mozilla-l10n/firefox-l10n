@@ -8,3 +8,4 @@
 <!ENTITY filter.accesskey "Б">
 <!ENTITY clear.label "Исчисти">
 <!ENTITY clear.accesskey "с">
+<!ENTITY  filter.emptytext        "Пребарај">

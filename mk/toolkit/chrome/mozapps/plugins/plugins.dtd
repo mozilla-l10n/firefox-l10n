@@ -14,3 +14,5 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label "Дознајте повеќе за додатоците или рачно пронајдете ги оние кои недостасуваат.">
 <!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; треба да се рестартира за додатоците да работат.">
 <!ENTITY missingPlugin.label "Кликнете овде за да го преземете приклучокот">
+<!ENTITY blockedPlugin.label "Овој приклучок е блокиран заради Ваша заштита.">
+<!ENTITY disabledPlugin.label "Приклучокот за оваа содржина е оневозможен. Кликете овде за да управувате со Вашите приклучоци.">

@@ -38,3 +38,5 @@
 <!ENTITY fullZoomReduceBtn.accesskey "м">
 <!ENTITY fullZoomEnlargeBtn.label "Зголеми">
 <!ENTITY fullZoomEnlargeBtn.accesskey "г">
+<!ENTITY search.emptytext               "Пребарување">
+<!ENTITY searchHeader.label             "Резултати од пребарувањето">

@@ -7,6 +7,7 @@
 <!ENTITY removeallpermissions.label "Отстрани ги сите места">
 <!ENTITY removeallpermissions.accesskey "е">
 <!ENTITY address.label "Адреса на мрежното место:">
+<!ENTITY address.accesskey            "д">
 <!ENTITY block.label "Блокирај">
 <!ENTITY block.accesskey "Б">
 <!ENTITY session.label "Дозволи привремено">

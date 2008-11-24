@@ -41,8 +41,6 @@
 <!ENTITY aboutWarningCheckbox.label "Прикажи го ова предупредување и следниот пат">
 <!ENTITY filterPrefs.label "Филтер:">
 <!ENTITY filterPrefs.accesskey "и">
-<!ENTITY showAll.label "Прикажи сè">
-<!ENTITY showAll.accesskey "к">
 <!ENTITY prefColumn.label "Име на преференција">
 <!ENTITY lockColumn.label "Статус">
 <!ENTITY typeColumn.label "Тип">
@@ -70,3 +68,4 @@
 <!ENTITY integer.accesskey "р">
 <!ENTITY boolean.label "Да или не вредност">
 <!ENTITY boolean.accesskey "в">
+<!ENTITY focusFilter.key "f">
