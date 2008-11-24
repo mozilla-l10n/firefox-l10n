@@ -1,9 +1,10 @@
 <!ENTITY defaultClient.title "Domyślny klient">
 <!ENTITY defaultClient.intro "&brandShortName; ma być domyślnym klientem:">
 
-<!ENTITY browser.label "Browser">
+<!ENTITY browser.label "Przeglądarka">
 <!ENTITY email.label "poczty">
 <!ENTITY newsgroups.label "grup dyskusyjnych">
+<!ENTITY rss.label "RSS Feeds">
 
 <!ENTITY checkOnStartup.label "Sprawdzaj to zawsze przy uruchamianiu programu &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "A">

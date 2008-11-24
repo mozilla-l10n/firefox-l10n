@@ -46,10 +46,10 @@
 <!ENTITY manualMarkModeDelete.label "Usuń wiadomości">
 <!ENTITY manualMarkModeDelete.accesskey "U">
 
-<!ENTITY markAsRead.intro "Mark messages as read:">
-<!ENTITY autoMarkAsRead.label "When &brandShortName; determines that they are junk">
+<!ENTITY markAsRead.intro "Oznacz wiadomości jako przeczytane:">
+<!ENTITY autoMarkAsRead.label "Kiedy program &brandShortName; rozpozna wiadomości jako nieznane">
 <!ENTITY autoMarkAsRead.accesskey "u">
-<!ENTITY manualMarkAsRead.label "When I manually mark them as junk">
+<!ENTITY manualMarkAsRead.label "W przypadku ręcznego oznaczenia ich jako niechciane">
 <!ENTITY manualMarkAsRead.accesskey "k">
 
 <!ENTITY enableJunkLogging.label "Włącz dziennik niechianej poczty">

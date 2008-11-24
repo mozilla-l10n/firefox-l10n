@@ -55,8 +55,6 @@
 <!ENTITY warn.insecurepost.accesskey "S">
 <!ENTITY warn.leavingsecure "Opuszczeniem strony, która używa szyfrowania">
 <!ENTITY warn.leavingsecure.accesskey "a">
-<!ENTITY warn.secureredirect "Przekierowaniem z szyfrowanej strony do innej strony">
-<!ENTITY warn.secureredirecttoinsecure "Przekierowaniem z szyfrowanej strony do nieszyfrowanej strony">
 <!ENTITY warn.viewmixed "Przeglądaniem strony tylko częściowo zaszyfrowanej">
 <!ENTITY warn.viewmixed.accesskey "P">
 

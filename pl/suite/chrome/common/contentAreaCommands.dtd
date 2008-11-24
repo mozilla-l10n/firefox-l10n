@@ -15,8 +15,6 @@
 <!ENTITY openFrameCmdInTab.accesskey "k">
 <!ENTITY showOnlyThisFrameCmd.label "Pokaż tylko tę ramkę">
 <!ENTITY showOnlyThisFrameCmd.accesskey "r">
-<!ENTITY addToBookmarksCmd.label "Dodaj tę stronę do zakładek">
-<!ENTITY addToBookmarksCmd.accesskey "D">
 <!ENTITY goBackCmd.label "Wstecz">
 <!ENTITY goBackCmd.accesskey "W">
 <!ENTITY goForwardCmd.label "Do przodu">
@@ -43,7 +41,7 @@
 <!ENTITY viewFrameInfoCmd.accesskey "i">
 <!ENTITY fitImageCmd.label "Dopasuj obrazek do okna">
 <!ENTITY fitImageCmd.accesskey "D">
-<!ENTITY reloadImageCmd.label "Reload Image">
+<!ENTITY reloadImageCmd.label "Odśwież obrazek">
 <!ENTITY reloadImageCmd.accesskey "e">
 <!ENTITY viewImageCmd.label "Pokaż obrazek">
 <!ENTITY viewImageCmd.accesskey "P">
@@ -70,6 +68,10 @@
 <!ENTITY saveImageAsCmd.label "Zapisz obrazek jako…">
 <!ENTITY saveImageCmd.label "Zapisz obrazek">
 <!ENTITY saveImageCmd.accesskey "b">
+<!ENTITY saveVideoCmd.label "Save Video As…">
+<!ENTITY saveVideoCmd.accesskey "v">
+<!ENTITY saveAudioCmd.label "Save Audio As…">
+<!ENTITY saveAudioCmd.accesskey "v">
 <!ENTITY copyCmd.label "Kopiuj">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY selectAllCmd.label "Zaznacz wszystko">
@@ -78,6 +80,10 @@
 <!ENTITY copyLinkCmd.accesskey "K">
 <!ENTITY copyImageCmd.label "Kopiuj obrazek">
 <!ENTITY copyImageCmd.accesskey "b">
+<!ENTITY copyVideoURLCmd.label "Copy Video Location">
+<!ENTITY copyVideoURLCmd.accesskey "o">
+<!ENTITY copyAudioURLCmd.label "Copy Audio Location">
+<!ENTITY copyAudioURLCmd.accesskey "o">
 <!ENTITY metadataCmd.label "Właściwości">
 <!ENTITY metadataCmd.accesskey "i">
 <!ENTITY copyEmailCmd.label "Kopiuj adres e-mail">
@@ -94,19 +100,31 @@
 <!ENTITY redoCmd.accesskey "r">
 <!ENTITY thisFrameMenu.label "Ramka">
 <!ENTITY thisFrameMenu.accesskey "r">
+<!ENTITY mediaPlay.label "Play">
+<!ENTITY mediaPlay.accesskey "P">
+<!ENTITY mediaPause.label "Pause">
+<!ENTITY mediaPause.accesskey "P">
+<!ENTITY mediaMute.label "Mute">
+<!ENTITY mediaMute.accesskey "M">
+<!ENTITY mediaUnmute.label "Unmute">
+<!ENTITY mediaUnmute.accesskey "m">
+<!ENTITY mediaShowControls.label "Show Media Controls">
+<!ENTITY mediaShowControls.accesskey "a">
+<!ENTITY mediaHideControls.label "Hide Media Controls">
+<!ENTITY mediaHideControls.accesskey "a">
 <!ENTITY search.accesskey "W">
 <!ENTITY bidiSwitchPageDirectionItem.label "Przełącz kierunek strony">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "s">
 <!ENTITY bidiSwitchTextDirectionItem.label "Przełącz kierunek tekstu">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "k">
-<!ENTITY spellAddToDictionary.label "Add to Dictionary">
+<!ENTITY spellAddToDictionary.label "Dodaj do słownika">
 <!ENTITY spellAddToDictionary.accesskey "s">
-<!ENTITY spellIgnoreWord.label "Ignore Word">
+<!ENTITY spellIgnoreWord.label "Ignoruj słowo">
 <!ENTITY spellIgnoreWord.accesskey "w">
-<!ENTITY spellCheckEnable.label "Check Spelling">
+<!ENTITY spellCheckEnable.label "Sprawdź pisownię">
 <!ENTITY spellCheckEnable.accesskey "S">
-<!ENTITY spellNoSuggestions.label "(No Spelling Suggestions)">
+<!ENTITY spellNoSuggestions.label "(Brak sugestii pisowni)">
 <!ENTITY spellDictionaries.label "Języki">
 <!ENTITY spellDictionaries.accesskey "J">
-<!ENTITY spellAddDictionaries.label "Download More Dictionaries…">
+<!ENTITY spellAddDictionaries.label "Pobierz więcej słowników…">
 <!ENTITY spellAddDictionaries.accesskey "D">

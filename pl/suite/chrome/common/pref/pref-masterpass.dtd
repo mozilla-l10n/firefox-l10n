@@ -49,10 +49,10 @@
 
 <!ENTITY changepassword.caption "Zmiana głównego hasła">
 <!ENTITY changepassword.text "Wszystkie zachowane poufne dane, takie jak nazwy użytkowników, hasła i certyfikaty, są chronione przez główne hasło.">
-<!ENTITY changepassword.button "Change Password…">
+<!ENTITY changepassword.button "Zmień hasło…">
 <!ENTITY changepassword.accesskey "Z">
 
 <!ENTITY resetpassword.caption "Resetowanie głównego hasła">
-<!ENTITY resetpassword.text "If you reset your master password, all of your stored web and e-mail passwords, form data, personal certificates, and private keys will be lost.">
+<!ENTITY resetpassword.text "Po zresetowaniu hasła głównego wszystkie hasła internetowe oraz hasła serwerów pocztowych, certyfikaty osobiste oraz klucze prywatne zostaną usunięte.">
 <!ENTITY resetpassword.button "Zresetuj hasło">
 <!ENTITY resetpassword.accesskey "R">

@@ -1,9 +1,9 @@
-<!ENTITY zoomEnlargeCmd.label "Larger">
+<!ENTITY zoomEnlargeCmd.label "Większy">
 <!ENTITY zoomEnlargeCmd.accesskey "L">
 <!ENTITY zoomEnlargeCmd.commandkey "+">
 <!ENTITY zoomEnlargeCmd.commandkey2 "=">
 
-<!ENTITY zoomReduceCmd.label "Smaller">
+<!ENTITY zoomReduceCmd.label "Mniejszy">
 <!ENTITY zoomReduceCmd.accesskey "S">
 <!ENTITY zoomReduceCmd.commandkey "-">
 

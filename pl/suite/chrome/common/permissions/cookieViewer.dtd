@@ -21,7 +21,7 @@
 <!ENTITY treehead.sitename.label "Witryna">
 <!ENTITY treehead.status.label "Status">
 <!ENTITY windowtitle.label "Menedżer ciasteczek">
-<!ENTITY buttonaccept.label "Close">
+<!ENTITY buttonaccept.label "Zamknij">
 <!ENTITY buttonaccept.accesskey "C">
 
 <!ENTITY blockSite.label "Blokuj">
@@ -35,8 +35,5 @@
 <!ENTITY removeallpermissions.label "Usuń wszystkie witryny">
 <!ENTITY removeallpermissions.accesskey "e">
 
-<!ENTITY canSet.label "mogą ustawić ciasteczka">
-<!ENTITY cannotSet.label "nie mogą ustawić ciasteczka">
-
-<!ENTITY futureCookies.label "Don't allow sites that set removed cookies to set future cookies">
+<!ENTITY futureCookies.label "Nie pozwól, aby usunięte ciasteczka były później ponownie zaakceptowane">
 <!ENTITY futureCookies.accesskey "D">

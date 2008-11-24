@@ -22,8 +22,8 @@
  Contributor(s):
 
  Alternatively, the contents of this file may be used under the terms of
- either of the GNU General Public License Version 2 or later (the "GPL"),
- or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
  in which case the provisions of the GPL or the LGPL are applicable instead
  of those above. If you wish to allow use of your version of this file only
  under the terms of either the GPL or the LGPL, and not to allow others to
@@ -67,7 +67,6 @@
 <!ENTITY NickName.label "Pseudonim:">
 <!ENTITY NickName.accesskey "P">
 
-<!ENTITY Internet.box "Internet">
 <!ENTITY PrimaryEmail.label "E-mail:">
 <!ENTITY PrimaryEmail.accesskey "E">
 <!ENTITY SecondEmail.label "Dodatkowy e-mail:">
@@ -80,10 +79,10 @@
 <!ENTITY ScreenName.label "Komunikator:">
 <!ENTITY ScreenName.accesskey "I">
 
-<!ENTITY allowRemoteContent.label "Zezwól na zdalne obrazki w wiadomościach HTML.">
+<!ENTITY allowRemoteContent.label "Allow remote images.">
 <!ENTITY allowRemoteContent.accesskey "Z">
+<!ENTITY allowRemoteContent.tooltip "In HTML messages it is possible to embed images from remote sources. Opening such a message will open a connection to this external source. This may allow tracking of the message being read. Checking this box will allow such external embedded images in HTML messages from this contact.">
 
-<!ENTITY Phones.box "Telefony">
 <!ENTITY WorkPhone.label "Praca:">
 <!ENTITY WorkPhone.accesskey "r">
 <!ENTITY HomePhone.label "Dom:">
@@ -95,9 +94,8 @@
 <!ENTITY CellularNumber.label "Komórka:">
 <!ENTITY CellularNumber.accesskey "K">
 
-<!ENTITY Address.tab "Adres">
-<!ENTITY Address.accesskey "A">
-<!ENTITY Home.box "Domowy">
+<!ENTITY Home.tab "Private">
+<!ENTITY Home.accesskey "P">
 <!ENTITY HomeAddress.label "Adres:">
 <!ENTITY HomeAddress.accesskey "d">
 <!ENTITY HomeAddress2.label "">
@@ -112,7 +110,14 @@
 <!ENTITY HomeCountry.accesskey "u">
 <!ENTITY HomeWebPage.label "Prywatna strona WWW:">
 <!ENTITY HomeWebPage.accesskey "W">
-<!ENTITY Work.box "Służbowy">
+<!ENTITY Birthday.label "Urodziny:">
+<!ENTITY Birthday.accesskey "B">
+<!ENTITY Year.emptytext "Rok">
+<!ENTITY Or.value "lub">
+<!ENTITY Age.emptytext "wiek">
+
+<!ENTITY Work.tab "Work">
+<!ENTITY Work.accesskey "W">
 <!ENTITY JobTitle.label "Stanowisko:">
 <!ENTITY JobTitle.accesskey "e">
 <!ENTITY Department.label "Dział:">
@@ -136,11 +141,6 @@
 
 <!ENTITY Other.tab "Inne">
 <!ENTITY Other.accesskey "h">
-<!ENTITY Birthday.label "Urodziny:">
-<!ENTITY Birthday.accesskey "B">
-<!ENTITY Year.emptytext "Rok">
-<!ENTITY Or.value "lub">
-<!ENTITY Age.emptytext "wiek">
 <!ENTITY Custom1.label "Informacja 1:">
 <!ENTITY Custom1.accesskey "1">
 <!ENTITY Custom2.label "Informacja 2:">
@@ -149,5 +149,5 @@
 <!ENTITY Custom3.accesskey "3">
 <!ENTITY Custom4.label "Informacja 4:">
 <!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.box "Notatki">
+<!ENTITY Notes.label "Notes:">
 <!ENTITY Notes.accesskey "N">

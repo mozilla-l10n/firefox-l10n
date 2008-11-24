@@ -10,15 +10,11 @@
 <!ENTITY resetButton.accesskey "c">
 <!ENTITY helpButton.label "Pomoc">
 <!ENTITY helpButton.accesskey "P">
-<!ENTITY optionsButton.label "Opcje">
-<!ENTITY closeButton.label "Zamknij">
 <!ENTITY openButton.label "Otwórz">
 <!ENTITY openButton.accesskey "O">
 <!ENTITY deleteButton.label "Usuń">
 <!ENTITY deleteButton.accesskey "U">
 <!ENTITY searchDialogTitle.label "Wyszukaj wiadomości">
-<!ENTITY conditionDesc.label "Wyszukaj wiadomości które spełniają:">
-<!ENTITY conditions.label "Kryteria">
 <!ENTITY results.label "Wyniki">
 <!ENTITY fileHereMenu.label "Przenieś tutaj">
 <!ENTITY fileHereMenu.accesskey "A">

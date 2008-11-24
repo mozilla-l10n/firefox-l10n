@@ -34,9 +34,6 @@
 <!ENTITY cookieManagePopups.label "Menedżer wyskakujących okien">
 <!ENTITY cookieManagePopups.accesskey "M">
 
-<!ENTITY cookieTutorialCmd.label "Polityka ochrony prywatności">
-<!ENTITY cookieTutorialCmd.accesskey "p">
-
 <!ENTITY cookieCookieManager.label "Zarządzaj ciasteczkami">
 <!ENTITY cookieCookieManager.accesskey "c">
 <!ENTITY cookieImageManager.label "Zarządzaj obrazkami">

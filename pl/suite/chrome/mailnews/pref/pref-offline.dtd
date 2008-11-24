@@ -4,11 +4,11 @@
 <!ENTITY pref.offline.caption "Tryb offline">
 <!ENTITY textStartUp "Uruchamiając program:">
 <!ENTITY textStartUp.accesskey "W">
-<!ENTITY menuitemRememberPrevState "Remember previous online state">
-<!ENTITY menuitemAskMe "Ask me for online state at startup">
-<!ENTITY menuitemAlwaysOnline "Always start up online">
-<!ENTITY menuitemAlwaysOffline "Always start up offline">
-<!ENTITY menuitemAutomatic "Detect automatically (if available)">
+<!ENTITY menuitemRememberPrevState "Zapamiętaj ostatnio używany tryb">
+<!ENTITY menuitemAskMe "Zapytaj w jakim trybie rozpocząć pracę">
+<!ENTITY menuitemAlwaysOnline "Zawsze startuj w trybie online">
+<!ENTITY menuitemAlwaysOffline "Zawsze startuje w trybie offline">
+<!ENTITY menuitemAutomatic "Rozpoznaj automatycznie (jeżeli dostępne)">
 <!ENTITY textGoingOnline "Wysyłać niewysłane wiadomości po nawiązaniu połączenia?">
 <!ENTITY radioAutoSend "Tak">
 <!ENTITY radioAutoSend.accesskey "k">

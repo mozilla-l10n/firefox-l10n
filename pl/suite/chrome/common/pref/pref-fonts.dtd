@@ -24,8 +24,6 @@
 <!ENTITY cursive.label "Kursywa:">
 <!ENTITY cursive.accesskey "K">
 
-<!ENTITY fontsize.units "pikseli">
-
 <!ENTITY font.langGroup.latin1 "Zachodnie">
 <!ENTITY font.langGroup.latin2 "Środkowoeuropejskie">
 <!ENTITY font.langGroup.japanese "Japońskie">
@@ -62,8 +60,6 @@
 <!ENTITY useDefaultFontSerif.label "Szeryfowa">
 <!ENTITY useDefaultFontSansSerif.label "Sans Serif">
 
-<!ENTITY newLanguages.label 'Nowe języki mogą być skonfigurowane przy użyciu panelu "Języki".'>
-
 <!ENTITY useDocumentFonts.label "Zezwalaj na użycie czcionek zadeklarowanych w wyświetlanych dokumentach">
 <!ENTITY useDocumentFonts.accesskey "o">
 
@@ -72,9 +68,3 @@
 <!ENTITY header2 "Kiedy strona używa określonych przez jej twórcę czcionek">
 <!ENTITY useDefaultFont.label "Użyj moich domyślnych czcionek, omijając te z dokumentu">
 <!ENTITY useDefaultFont.accesskey "u">
-<!-- LOCALIZATION NOTE (useDocFontNonDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
-<!ENTITY useDocFontNonDynamic.label "Użyj czcionek dokumentu">
-<!ENTITY useDocFontNonDynamic.accesskey "d">
-<!-- LOCALIZATION NOTE (useDocFontDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
-<!ENTITY useDocFontDynamic.label "Użyj wszystkich czcionek dokumentu">
-<!ENTITY useDocFontDynamic.accesskey "w">

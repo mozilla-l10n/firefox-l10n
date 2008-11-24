@@ -40,17 +40,16 @@
 <!-- extracted from ./bookmarks.xul -->
 <!ENTITY menuBar.tooltip "Pasek menu">
 <!ENTITY bookmarkToolbar.tooltip "Pasek narzędzi zakładek">
-<!ENTITY bookmarksSearch.tooltip "Pasek wyszukiwania w zakładkach">
 <!ENTITY menuitem.newBookmark.label "Zakładka">
-<!ENTITY command.newBookmark.accesskey "a">
+<!ENTITY menuitem.newBookmark.accesskey "B">
 <!ENTITY menuitem.newFolder.label "Folder">
+<!ENTITY menuitem.newFolder.accesskey "F">
 <!ENTITY button.newFolder.label "Nowy folder">
 <!ENTITY button.newFolder.accesskey "N">
-<!ENTITY command.newFolder.accesskey "f">
 <!ENTITY menuitem.newSeparator.label "Separator">
+<!ENTITY menuitem.newSeparator.accesskey "S">
 <!ENTITY button.newSeparator.label "Nowy separator">
 <!ENTITY button.newSeparator.accesskey "o">
-<!ENTITY command.newSeparator.accesskey "s">
 <!ENTITY menuitem.open.label "Otwórz plik zakładek…">
 <!ENTITY menuitem.open.accesskey "O">
 <!ENTITY menuitem.import.label "Importuj…">
@@ -58,25 +57,27 @@
 <!ENTITY menuitem.export.label "Eksportuj…">
 <!ENTITY menuitem.export.accesskey "e">
 <!ENTITY menuitem.find.label "Szukaj w Zakładkach…">
-<!ENTITY command.findBookmarks.label "Szukaj…">
 <!ENTITY menuitem.find.accesskey "Z">
-<!ENTITY edit.find.keybinding "f">
-<!ENTITY command.properties.label "Właściwości…">
+<!ENTITY menuitem.find.find.key "F">
+<!ENTITY command.findBookmarks.label "Szukaj…">
+<!ENTITY menuitem.properties.label "Properties…">
+<!ENTITY menuitem.properties.accesskey "o">
+<!ENTITY button.properties.label "Properties…">
 <!ENTITY button.properties.accesskey "W">
-<!ENTITY command.properties.accesskey "i">
-<!ENTITY edit.properties.keybinding "i">
-<!ENTITY command.rename.label "Zmień nazwę…">
+<!ENTITY menuitem.properties.key "I">
+<!ENTITY button.rename.label "Rename…">
 <!ENTITY button.rename.accesskey "Z">
-<!ENTITY command.delete.label "Usuń">
+<!ENTITY button.delete.label "Delete">
 <!ENTITY button.delete.accesskey "U">
-<!ENTITY command.moveBookmark.label "Przenieś zakładkę…">
-<!ENTITY command.moveBookmarkShort.label "Przenieś…">
-<!ENTITY command.moveBookmark.accesskey "P">
+<!ENTITY menuitem.moveBookmark.label "Move Bookmark(s)…">
+<!ENTITY menuitem.moveBookmark.accesskey "M">
+<!ENTITY button.moveBookmark.label "Move…">
+<!ENTITY button.moveBookmark.accesskey "M">
 <!ENTITY command.addBookmark.label "Dodaj…">
 <!ENTITY command.manageBookmarks.label "Zarządzaj">
 <!ENTITY command.sortFolder.label "Sortuj folder…">
 <!ENTITY command.sortFolder.accesskey "S">
-<!ENTITY edit.sortFolder.keybinding "S">
+<!ENTITY command.sortFolder.key "S">
 <!ENTITY command.sortFolderByName.label "Sortuj folder według Nazwy">
 <!ENTITY command.sortFolderByName.accesskey "N">
 
@@ -94,25 +95,18 @@
 <!ENTITY menuitem.personaltoolbarfolder.accesskey "O">
 
 <!ENTITY treecol.name.label "Nazwa">
-<!ENTITY treecol.name.accesskey "n">
 <!ENTITY treecol.name.tooltip "Posortuj zakładki według pola Nazwa">
 <!ENTITY treecol.url.label "Adres">
-<!ENTITY treecol.url.accesskey "A">
 <!ENTITY treecol.url.tooltip "Posortuj zakładki według pola Adres">
 <!ENTITY treecol.shortcut.label "Słowo kluczowe">
-<!ENTITY treecol.shortcut.accesskey "k">
 <!ENTITY treecol.shortcut.tooltip "Posortuj zakładki według pola Słowo kluczowe">
 <!ENTITY treecol.description.label "Opis">
-<!ENTITY treecol.description.accesskey "O">
 <!ENTITY treecol.description.tooltip "Posortuj zakładki według pola Opis">
 <!ENTITY treecol.addedon.label "Dodano">
-<!ENTITY treecol.addedon.accesskey "a">
 <!ENTITY treecol.addedon.tooltip "Posortuj zakładki według pola Dodano">
 <!ENTITY treecol.lastmod.label "Ostatnio zmodyfikowano">
-<!ENTITY treecol.lastmod.accesskey "m">
 <!ENTITY treecol.lastmod.tooltip "Posortuj zakładki według pola Ostatnio zmodyfikowano">
 <!ENTITY treecol.lastvisit.label "Ostatnio odwiedzono">
-<!ENTITY treecol.lastvisit.accesskey "w">
 <!ENTITY treecol.lastvisit.tooltip "Posortuj zakładki według pola Ostatnio odwiedzono">
 
 <!ENTITY bookmarksWindowTitle.label "Menedżer zakładek">

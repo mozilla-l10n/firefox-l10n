@@ -37,7 +37,6 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY pref.formatting.title "Format wysyłania">
-<!ENTITY sendMail.label "Format wiadomości">
 <!ENTITY sendMaildesc.label "Jeżeli co najmniej jeden z adresatów wiadomości wysyłanej w formacie HTML nie znajduje się na liście osób mogących otrzymywać takie wiadomości, to:">
 <!ENTITY askMe.label "zapytaj, jakiego formatu użyć przy wysłaniu wiadomości">
 <!ENTITY askMe.accesskey "a">
@@ -48,7 +47,6 @@
 <!ENTITY sendBoth.label "Prześlij wiadomość w obydwu formatach: HTML oraz tekstowym (zwiększa rozmiar wysyłanej wiadomości)">
 <!ENTITY sendBoth.accesskey "e">
 <!ENTITY override.label "Poniższe ustawienia mogą zostać indywidualnie zmienione dla każdej wiadomości za pomocą menu Opcje, podczas komponowania wiadomości.">
-<!ENTITY receiveHTML.label 'Jeżeli wiadomo, że poszczególni adresaci mogą otrzymywać wiadomości w formacie HTML, należy wybrać opcję "Preferuje otrzymywać wiadomości w formacie HTML" w Książce Adresowej.'>
 
 <!-- Html and Plain Text Domains  -->
 <!ENTITY domain.title "Automatyczny wybór formatu HTML lub tekstowego - ustawienia domen">
@@ -72,4 +70,4 @@
 
 <!ENTITY domainnameError.title "Błąd nazwy domeny">
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY invalidEntryError.label "The domain name @string@ is invalid and will be ignored. Valid domain names must include at least one '.' and characters on either side of it.">
+<!ENTITY invalidEntryError.label "Nazwa domeny @string@ jest niepoprawna i zostanie zignorowana. Poprawne nazwy domen zawierają conajmniej jeden znak '.' oraz znaki po jego obydwu stronach.">

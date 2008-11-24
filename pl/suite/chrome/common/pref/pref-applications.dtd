@@ -1,10 +1,10 @@
 <!ENTITY pref.applications.title "Aplikacje">
 
-<!ENTITY typeColumn.label "Content Type">
+<!ENTITY typeColumn.label "Typ zawartości">
 <!ENTITY typeColumn.accesskey "T">
 
-<!ENTITY actionColumn2.label "Action">
+<!ENTITY actionColumn2.label "Czynność">
 <!ENTITY actionColumn2.accesskey "A">
 
-<!ENTITY filter.label "Search:">
+<!ENTITY filter.label "Szukaj:">
 <!ENTITY filter.accesskey "S">

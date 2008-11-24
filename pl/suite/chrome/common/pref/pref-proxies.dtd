@@ -5,7 +5,7 @@
 <!ENTITY proxyTitle.label "Konfiguracja proxy do połączenia z Internetem">
 <!ENTITY directTypeRadio.label "Bezpośrednie połączenie z Internetem">
 <!ENTITY directTypeRadio.accesskey "d">
-<!ENTITY systemTypeRadio.label "Use system proxy settings">
+<!ENTITY systemTypeRadio.label "Używaj systemowych ustawień serwerów proxy">
 <!ENTITY systemTypeRadio.accesskey "U">
 <!ENTITY manualTypeRadio.label "Własna konfiguracja proxy">
 <!ENTITY manualTypeRadio.accesskey "W">

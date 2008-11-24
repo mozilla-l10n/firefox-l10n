@@ -11,7 +11,7 @@
 <!ENTITY reloadTab.accesskey "k">
 <!ENTITY bookmarkGroup.label "Dodaj do zakładek jako grupę kart">
 <!ENTITY bookmarkGroup.accesskey "g">
-<!ENTITY closeTabButton.tooltip "Close current tab">
+<!ENTITY closeTabButton.tooltip "Zamknij bieżącą kartę">
 <!ENTITY newTabButton.tooltip "Otwórz nową kartę">
 <!ENTITY undoCloseTab.label "Cofnij zamknięcie karty">
 <!ENTITY undoCloseTab.accesskey "U">

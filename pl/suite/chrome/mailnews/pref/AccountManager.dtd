@@ -6,11 +6,8 @@
 <!ENTITY addAccountButton.accesskey "D">
 <!ENTITY setDefaultButton.label "Ustaw jako domyślne">
 <!ENTITY setDefaultButton.accesskey "d">
-<!ENTITY duplicateButton.label "Utwórz duplikat">
 <!ENTITY removeButton.label "Usuń konto">
 <!ENTITY removeButton.accesskey "U">
-
-<!ENTITY duplicate.label "Duplikat">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account

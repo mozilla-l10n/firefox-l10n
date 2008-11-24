@@ -8,12 +8,16 @@
 <!ENTITY sendPage.label "Wyślij stronę…">
 <!ENTITY sendPage.accesskey "s">
 
-<!ENTITY contextSendThisPage.label "Send This Page…">
+<!ENTITY contextSendThisPage.label "Wyślij tę stronę…">
 <!ENTITY contextSendThisPage.accesskey "d">
-<!ENTITY contextSendThisLink.label "Send This Link…">
+<!ENTITY contextSendThisLink.label "Wyślij ten odnośnik…">
 <!ENTITY contextSendThisLink.accesskey "k">
 <!ENTITY contextSendImage.label "Wyślij obrazek…">
 <!ENTITY contextSendImage.accesskey "o">
+<!ENTITY contextSendVideo.label "Send Video…">
+<!ENTITY contextSendVideo.accesskey "n">
+<!ENTITY contextSendAudio.label "Send Audio…">
+<!ENTITY contextSendAudio.accesskey "n">
 <!ENTITY contextSendFrame.label "Wyślij ramkę…">
 <!ENTITY contextSendFrame.accesskey "r">
 

@@ -12,7 +12,7 @@
 <!ENTITY showHideTooltips.label "Pokaż etykietki narzędzi">
 <!ENTITY showHideTooltips.accesskey "t">
 
-<!ENTITY pref.locales.title "User Interface Language">
-<!ENTITY selectLocale.label "Select the language for text that appears in dialog boxes, menus, toolbars and button labels:">
-<!ENTITY restartOnLangChange.label "Language preferences will take effect when you restart &brandShortName;.">
+<!ENTITY pref.locales.title "Język interfejsu użytkownika">
+<!ENTITY selectLocale.label "Wybór języka tekstów wyświetlanych w oknach dialogowych, menu, paskach narzędziowych i etykietach przycisków:">
+<!ENTITY restartOnLangChange.label "Preferencje językowe zostaną zastosowane po ponownym uruchomieniu programu &brandShortName;.">
 

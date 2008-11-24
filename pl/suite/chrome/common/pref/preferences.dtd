@@ -1,38 +1,34 @@
-<!ENTITY prefWindow.title "Preferences">
-<!ENTITY categoryHeader "Category">
-<!ENTITY appear.label "Appearance">
-<!ENTITY content.label "Content">
-<!ENTITY fonts.label "Fonts">
-<!ENTITY colors.label "Colors">
-<!ENTITY navigator.label "Browser">
-<!ENTITY history.label "History">
-<!ENTITY bidi.label "Bidi Options">
-<!ENTITY languages.label "Languages">
-<!ENTITY applications.label "Helper Applications">
-<!ENTITY locationBar.label "Location Bar">
-<!ENTITY tabWindows.label "Tabbed Browsing">
-<!ENTITY compose.label "Composer">
-<!ENTITY editing.label "New Page Settings">
-<!ENTITY publish.label "Publish">
-<!ENTITY offline.label "Offline">
-<!ENTITY security.label "Privacy &amp; Security">
-<!ENTITY cookies.label "Cookies">
-<!ENTITY images.label "Images">
-<!ENTITY popups.label "Popup Windows">
-<!ENTITY passwords.label "Passwords">
-<!ENTITY masterpass.label "Master Passwords">
+<!ENTITY prefWindow.title "Preferencje">
+<!ENTITY categoryHeader "Kategoria">
+<!ENTITY appear.label "Wygląd">
+<!ENTITY content.label "Zawartość">
+<!ENTITY fonts.label "Czcionki">
+<!ENTITY colors.label "Kolory">
+<!ENTITY navigator.label "Przeglądarka">
+<!ENTITY history.label "Historia">
+<!ENTITY languages.label "Języki">
+<!ENTITY applications.label "Aplikacje pomocnicze">
+<!ENTITY locationBar.label "Pasek adresu">
+<!ENTITY tabWindows.label "Karty">
+<!ENTITY offline.label "Tryb offline">
+<!ENTITY security.label "Prywatność i zabezpieczenia">
+<!ENTITY cookies.label "Ciasteczka">
+<!ENTITY images.label "Obrazki">
+<!ENTITY popups.label "Okna wyskakujące">
+<!ENTITY passwords.label "Hasła">
+<!ENTITY masterpass.label "Hasła główne">
 <!ENTITY ssl.label "SSL">
-<!ENTITY certs.label "Certificates">
-<!ENTITY validation.label "Validation">
-<!ENTITY advance.label "Advanced">
-<!ENTITY down.label "Download">
-<!ENTITY cache.label "Cache">
-<!ENTITY proxies.label "Proxies">
-<!ENTITY httpnetworking.label "HTTP Networking">
-<!ENTITY smart.label "Software Installation">
-<!ENTITY download.label "Downloads">
-<!ENTITY keynav.label "Keyboard Navigation">
-<!ENTITY search.label "Internet Search">
-<!ENTITY policies.label "Security Policies">
-<!ENTITY mousewheel.label "Mouse Wheel">
-<!ENTITY scriptsAndWindows.label "Scripts &amp; Plugins">
+<!ENTITY certs.label "Certyfikaty">
+<!ENTITY validation.label "Weryfikacja">
+<!ENTITY advance.label "Zaawansowane">
+<!ENTITY down.label "Pobierz">
+<!ENTITY cache.label "Pamięć podręczna">
+<!ENTITY proxies.label "Serwery proxy">
+<!ENTITY httpnetworking.label "Protokół HTTP">
+<!ENTITY smart.label "Instalacja">
+<!ENTITY download.label "Pobieranie plików">
+<!ENTITY keynav.label "Nawigacja">
+<!ENTITY search.label "Wyszukiwanie">
+<!ENTITY policies.label "Zasady zabezpieczeń">
+<!ENTITY mousewheel.label "Przewijanie">
+<!ENTITY scriptsAndWindows.label "Skrypty i wtyczki">

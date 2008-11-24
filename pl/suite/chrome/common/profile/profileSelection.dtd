@@ -38,15 +38,15 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Select User Profile">
-<!ENTITY profileManager.title "&brandShortName; Profile Manager">
+<!ENTITY windowTitle.label "Wybierz profil użytkownika">
+<!ENTITY profileManager.title "Menedżer profili &brandShortName;">
 
 <!ENTITY manage.label "Zarządzaj profilami…">
 <!ENTITY manage.accesskey "Z">
 <!ENTITY select.label "Użyj profilu">
 
-<!ENTITY availableProfiles.label "Available Profiles">
+<!ENTITY availableProfiles.label "Dostępne profile">
 
-<!ENTITY introStart.label "To access your personal profile, which contains your stored messages, settings and other personalized information, please choose your profile from the list, and click &start.label; to begin your session.">
-<!ENTITY introSwitch.label "To switch to another profile, which contains stored messages, settings and other personalized information, please choose that profile from the list, and click &select.label; to begin using that profile.">
-<!ENTITY profileManagerText.label "&brandShortName; stores information about your settings, preferences, bookmarks, stored messages and other user items in your user profile.">
+<!ENTITY introStart.label "Wszystkie ustawienia własne, zakładki, zachowana poczta oraz inne dane użytkownika przechowywane są w profilach osobistych. Wybierz swój profil z listy, a następnie naciśnij przycisk &start.label;.">
+<!ENTITY introSwitch.label "Aby zmienić profil, w którym przechowywane są ustawienia własne, zakładki, zachowana poczta oraz inne dane użytkownika, należy wybrać nazwę profilu, a następnie nacisnąć przycisk &select.label;.">
+<!ENTITY profileManagerText.label "Program &brandShortName; wykorzystuje profile użytkowników do przechowywania ustawień, zakładek, zachowanych wiadomości, książek adresowych oraz innych osobistych danych użytkowników.">

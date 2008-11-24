@@ -1,8 +1,8 @@
 <!-- Override app-specific error messages for SeaMonkey -->
 
 <!ENTITY securityOverride.linkText "Możesz także dodać wyjątek…">
-<!ENTITY securityOverride.getMeOutOfHereButton "This sounds bad, take me to my home page instead">
-<!ENTITY securityOverride.exceptionButtonLabel "Add Exception">
+<!ENTITY securityOverride.getMeOutOfHereButton "To nie brzmi dobrze. Zamiast tego wyświetl stronę domową">
+<!ENTITY securityOverride.exceptionButtonLabel "Dodaj wyjątek">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,

@@ -45,20 +45,15 @@
 <!ENTITY folderCharsetTab.accesskey "E">
 <!ENTITY folderCharsetOverride.label "Domyślnie zastosuj dla wszystkich wiadomości (indywidualne ustawienia kodowania znaków wiadomości oraz autodetekcja zostaną zignorowane)">
 <!ENTITY folderCharsetOverride.accesskey "A">
-<!ENTITY folderRebuildSummaryFile.label "Rebuild Summary File">
+<!ENTITY folderRebuildSummaryFile.label "Przebuduj plik podsumowania">
 <!ENTITY folderRebuildSummaryFile.accesskey "R">
 <!ENTITY folderRebuildSummaryFileTip.label "Przebuduj plik podsumowania">
 
 <!ENTITY retention.label "Reguły przechowywania wiadomości">
 <!ENTITY retentionUseDefault.label "Używaj domyślnych ustawień serwera">
 <!ENTITY retentionUseDefault.accesskey "d">
-<!ENTITY days.label "dni">
 <!ENTITY daysOld.label "dni">
 <!ENTITY message.label "najnowszych wiadomości">
-<!ENTITY retentionNotDownloadRead.label "Przeczytane wiadomości">
-<!ENTITY retentionNotDownloadRead.accesskey "R">
-<!ENTITY retentionDownloadMsg.label "Więcej wiadomości niż">
-<!ENTITY retentionDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "W celu zaoszczędzenia miejsca na dysku, stare wiadomości mogą być nieodwracalnie usuwane">
 <!ENTITY retentionDeleteMsg.label "Usuń wiadomości starsze niż">
 <!ENTITY retentionDeleteMsg.accesskey "m">
@@ -80,18 +75,15 @@
 
 <!ENTITY selectofflineNewsgroup.check.label "Wybrana grupa dyskusyjna będzie dostępna w trybie offline.">
 <!ENTITY selectofflineNewsgroup.check.accesskey "o">
-<!ENTITY UseDefaultofflineNewsgroup.check.label "Użyj ustawień domyślnych z konta pocztowego">
 <!ENTITY offlineNewsgroup.button.label "Pobierz teraz">
 <!ENTITY offlineNewsgroup.button.accesskey "t">
 
-<!ENTITY folderProps.information.label "Informacje:">
 <!ENTITY folderProps.name.label "Nazwa:">
 <!ENTITY folderProps.name.accesskey "N">
 <!ENTITY folderProps.location.label "Położenie:">
 <!ENTITY folderProps.location.accesskey "L">
 
 <!ENTITY folderSharingTab.label "Współużytkowanie">
-<!ENTITY privilegesDesc.label "Współużytkuj ten oraz inne foldery z użytkownikami sieci oraz wyświetl i ustaw uprawnienia dostępu">
 <!ENTITY privileges.button.label "Uprawnienia…">
 <!ENTITY privileges.button.accesskey "P">
 <!ENTITY permissionsDesc.label "Posiadasz następujące uprawnienia:">

@@ -75,9 +75,6 @@
 <!ENTITY filterActionDesc.label "wykonaj następujące czynności:">
 <!ENTITY filterActionDesc.accesskey "y">
 
-<!ENTITY newFolderButton.label "Nowy folder…">
-<!ENTITY newFolderButton.accesskey "N">
-
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Przenieś wiadomość do">
 <!ENTITY copyMessage.label "Kopiuj wiadomość do">

@@ -6,13 +6,9 @@
 <!ENTITY fccMailFolder.accesskey "U">
 <!ENTITY fccReplyFollowsParent.label "Umieszczaj odpowiedzi w folderze wiadomości, na którą odpowiada użytkownik">
 <!ENTITY fccReplyFollowsParent.accesskey "l">
-<!ENTITY chooseFolderButton.label "Wybierz folder…">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Wyślij ukrytą kopię do:">
 <!ENTITY bccAddress.accesskey "u">
-<!ENTITY specialFolderTitle.label "Foldery specjalne">
-<!ENTITY draftMailFolder.label "Szkice wiadomości przechowuj w:">
-<!ENTITY templateMailFolder.label "Szablony wiadomości przechowuj w:">
 <!ENTITY saveMessageDlg.label "Wyświetl okno dialogowe potwierdzające zapisywanie wiadomości">
 <!ENTITY saveMessageDlg.accesskey "W">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

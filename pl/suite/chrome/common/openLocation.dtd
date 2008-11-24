@@ -4,9 +4,9 @@
 <!ENTITY enter.accesskey "E">
 <!ENTITY chooseFile.label "Wybierz plik…">
 <!ENTITY chooseFile.accesskey "W">
-<!ENTITY newWindow.label "New browser window">
-<!ENTITY newTab.label "New browser tab">
-<!ENTITY topWindow.label "Current browser window">
+<!ENTITY newWindow.label "Nowe okno przeglądarki">
+<!ENTITY newTab.label "Nowa karta przeglądarki">
+<!ENTITY topWindow.label "Bieżące okno przeglądarki">
 <!ENTITY editNewWindow.label "Nowe okno Kompozytora Stron">
 <!ENTITY open.label "Otwórz">
 <!ENTITY caption.label "Otwórz adres internetowy">

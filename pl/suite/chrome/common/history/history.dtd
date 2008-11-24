@@ -27,9 +27,9 @@
 <!ENTITY historyWindowTitle.label "Historia">
 <!ENTITY menuitem.view.unsorted.label "Nieposortowane">
 <!ENTITY menuitem.view.unsorted.accesskey "N">
-<!ENTITY sortAscending.label "Ascending">
+<!ENTITY sortAscending.label "Rosnąco">
 <!ENTITY sortAscending.accesskey "A">
-<!ENTITY sortDescending.label "Descending">
+<!ENTITY sortDescending.label "Malejąco">
 <!ENTITY sortDescending.accesskey "D">
 <!ENTITY menuitem.view.show_columns.label "Pokaż kolumny">
 <!ENTITY menuitem.view.show_columns.accesskey "P">

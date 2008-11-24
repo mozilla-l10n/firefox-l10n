@@ -1,20 +1,20 @@
-<!ENTITY pref.content.title "Content">
+<!ENTITY pref.content.title "ZawartśćLOCALIZATION NOTE : FILE The Appearance » Content prefs dialog.">
 <!ENTITY pref.content.description "These settings influence how website and message content appears in &brandShortName;.">
-<!ENTITY siteIcons.label "Website icons">
-<!ENTITY useSiteIcons.label "Show website icons">
+<!ENTITY siteIcons.label "Ikony witryn">
+<!ENTITY useSiteIcons.label "Pokaż ikony witryn">
 <!ENTITY useSiteIcons.accesskey "S">
-<!ENTITY useFavIcons.label "Aggressively look for website icons when the page does not define one">
+<!ENTITY useFavIcons.label "Agresywnie szukaj za ikonami dla witryn które niezdefiniowały ich">
 <!ENTITY useFavIcons.accesskey "A">
-<!ENTITY tbIconsDescription.label "Display website icons in bookmarks menu and toolbar:">
-<!ENTITY tbIconsNever.label "Never show icons for bookmarks">
+<!ENTITY tbIconsDescription.label "Wyświetlaj ikony witryn w menu i pasku zakładek:">
+<!ENTITY tbIconsNever.label "Nigdy nie wyświetlaj ikon dla witryn w zakładkach">
 <!ENTITY tbIconsNever.accesskey "N">
-<!ENTITY tbIconsCache.label "Only when website was loaded recently">
+<!ENTITY tbIconsCache.label "Tylko, gdy witryna została odwiedzona ostatnio">
 <!ENTITY tbIconsCache.accesskey "O">
-<!ENTITY tbIconsAlways.label "Always load website icons for bookmarks">
+<!ENTITY tbIconsAlways.label "Zawsze wczytuj ikony witryn dla zakładek">
 <!ENTITY tbIconsAlways.accesskey "w">
-<!ENTITY enableAutomaticImageResizing.label "Resize large images to fit in the browser window">
+<!ENTITY enableAutomaticImageResizing.label "Dostosuj rozmiar dużych obrazków do okna przeglądarki">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
-<!ENTITY useSmoothScroll.label "Use smooth scrolling">
+<!ENTITY useSmoothScroll.label "Używaj płynnego przewijania">
 <!ENTITY useSmoothScroll.accesskey "U">
-<!ENTITY textZoomOnly.label "Zoom only text instead of full pages">
+<!ENTITY textZoomOnly.label "Powiększaj tylko tekst zamiast całych stron">
 <!ENTITY textZoomOnly.accesskey "Z">

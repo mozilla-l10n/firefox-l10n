@@ -1,6 +1,6 @@
 <!-- extracted from content/pref-scripts.xul -->
 
-<!ENTITY pref.scripts.title "Scripts &amp; Plugins">
+<!ENTITY pref.scripts.title "Skrypty i wtyczki">
 
 <!ENTITY navigator.label "Przeglądarka">
 <!ENTITY navigator.accesskey "r">
@@ -15,4 +15,4 @@
 <!ENTITY allowContextmenuDisable.label "Wyłączać lub zmieniać menu kontekstowe">
 <!ENTITY allowHideStatusBar.label "Ukrywać pasek stanu">
 
-<!ENTITY enablePlugin.label "Enable Plugins for">
+<!ENTITY enablePlugin.label "Włącz wtyczki dla">

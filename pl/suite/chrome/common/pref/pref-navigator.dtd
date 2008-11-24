@@ -1,7 +1,7 @@
 <!ENTITY pref.navigator.title "Przeglądarka">
 
 <!ENTITY navRadio "Wyświetl">
-<!ENTITY navStartPageMenu.label "Browser Startup">
+<!ENTITY navStartPageMenu.label "Start przeglądarki">
 <!ENTITY newWinPageMenu.label "po otwarciu okna">
 <!ENTITY newTabPageMenu.label "po otwarciu karty">
 
@@ -13,7 +13,7 @@
 <!ENTITY lastPageRadio.accesskey "O">
 
 <!ENTITY header2.label "Strona domowa">
-<!ENTITY homePageIntro.label "Clicking the Home button takes you to this group of pages:">
+<!ENTITY homePageIntro.label "Naciśnięcie przycisku Strona domowa wyświetli poniższą grupę stron w oddzielnych kartach:">
 <!ENTITY useCurrent.label "Użyj bieżącej strony">
 <!ENTITY useCurrent.accesskey "u">
 <!ENTITY useCurrentGroup.label "Użyj bieżących kart">
@@ -39,9 +39,9 @@
 <!ENTITY bookmarksButton.label "Zakładki">
 <!ENTITY bookmarksButton.accesskey "k">
 
-<!ENTITY defaultBrowserGroup.label "Default Browser">
-<!ENTITY defaultBrowserButton.label "Set Default Browser">
+<!ENTITY defaultBrowserGroup.label "Domyślna przeglądarka">
+<!ENTITY defaultBrowserButton.label "Ustaw jako domyślną przeglądarkę">
 <!ENTITY defaultBrowserButton.accesskey "D">
-<!ENTITY alreadyDefaultText "&brandShortName; is already your default browser.">
-<!ENTITY defaultPendingText "&brandShortName; will be set as your default browser when you click OK.">
-<!ENTITY makeDefaultText "Set &brandShortName; as your default browser.">
+<!ENTITY alreadyDefaultText "Program &brandShortName; jest już domyślną przeglądarką.">
+<!ENTITY defaultPendingText "Program &brandShortName; zostanie domyślną przeglądarką po potwierdzeniu wyboru.">
+<!ENTITY makeDefaultText "Ustaw &brandShortName; jako domyślną przeglądarkę.">

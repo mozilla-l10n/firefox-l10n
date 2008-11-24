@@ -7,21 +7,14 @@
 <!ENTITY editorCmd.accesskey "K">
 <!ENTITY editorCmd.commandkey "4">
 
-<!ENTITY securityInfoCmd.label "Informacje o zabezpieczeniach">
-<!ENTITY securityInfoCmd.accesskey "z">
 <!ENTITY javaConsoleCmd.label "Konsola Javy">
 <!ENTITY javaConsoleCmd.accesskey "J">
 
 <!ENTITY errorConsoleCmd.label "Konsola błędów">
 <!ENTITY errorConsoleCmd.accesskey "K">
 
-<!-- LOCALIZATION NOTE (privacyMenu.label): DONT_TRANSLATE -->
-<!ENTITY privacyMenu.label "Prywatność i zabezpieczenia">
-<!ENTITY privacyMenu.accesskey "z">
-
 <!ENTITY taskNavigator.tooltip "Przeglądarka">
 <!ENTITY taskComposer.tooltip "Kompozytor Stron">
-<!ENTITY taskBar.tooltip "Pasek stanu">
 
 <!ENTITY webDevelopment.label "Narzędzia programistyczne">
 <!ENTITY webDevelopment.accesskey "p">

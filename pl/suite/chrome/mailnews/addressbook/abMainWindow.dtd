@@ -49,8 +49,6 @@
 <!ENTITY newListCmd.accesskey "l">
 <!ENTITY newAddressBookCmd.label "Książka adresowa">
 <!ENTITY newAddressBookCmd.accesskey "k">
-<!ENTITY renameAddressBookCmd.label "Zmień nazwę Książki adresowej…">
-<!ENTITY renameAddressBookCmd.accesskey "R">
 <!ENTITY newLDAPDirectoryCmd.label "Katalog LDAP…">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey "D">
@@ -105,8 +103,6 @@
 <!ENTITY allowOnlineCheck.label "Sprawdź dostępność online (AOL)">
 <!ENTITY allowOnlineCheck.accesskey "S">
 
-<!ENTITY stopSearchingCmd.label "Zatrzymaj wyszukiwanie">
-
 <!-- Toolbar and Popup items -->  
 <!ENTITY newcardButton.label "Nowa wizytówka">
 <!ENTITY newcardButton.accesskey "N">
@@ -120,9 +116,6 @@
 <!ENTITY deleteButton.accesskey "U">
 <!ENTITY newimButton.label "Komunikator">
 <!ENTITY newimButton.accesskey "K">
-<!ENTITY stopButton.label "Zatrzymaj">
-<!ENTITY searchButton.label "Szukaj">
-<!ENTITY showNames.label "Pokaż imiona/nazwiska zawierające:">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip "Pasek narzędzi książki adresowej">
@@ -132,10 +125,7 @@
 <!ENTITY newmsgButton.tooltip "Wyślij wiadomość">
 <!ENTITY newIM.tooltip "Połącz z adresatem za pomocą komunikatora">
 <!ENTITY deleteButton.tooltip "Usuń wybraną wizytówkę lub książkę adresową">
-<!ENTITY stopButton.tooltip "Zatrzymaj bieżący transfer">
-<!ENTITY searchButton.tooltip "Przeszukaj wybraną książkę adresową">
 <!ENTITY throbber.tooltip "&vendorShortName;PL! Otwórz naszą stronę!">
-<!ENTITY clearButton.tooltip "Wyczyść kryteria wyszukiwania i wyświetl wszystkie pozycje">
 <!ENTITY advancedButton.tooltip "Zaawansowane wyszukiwanie adresów">
 
 <!-- Status Bar -->  

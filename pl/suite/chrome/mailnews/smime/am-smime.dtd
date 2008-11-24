@@ -1,5 +1,5 @@
 <!ENTITY securityTitle.label "Zabezpieczenia wiadomości">
-<!ENTITY securityTab.label "Security">
+<!ENTITY securityTab.label "Zabezpieczenia">
 <!ENTITY securityHeading.label "Aby wysyłać i odbierać wiadomości podpisane cyfrowo lub zaszyfrowane, należy określić certyfikat podpisu osobistego oraz certyfikat szyfrujący.">
 <!ENTITY encryptionGroupTitle.label "Szyfrowanie wiadomości">
 <!ENTITY encryptionChoiceLabel.label "Domyślne ustawienia szyfrowania podczas wysyłania wiadomości:">
@@ -8,7 +8,6 @@
 <!ENTITY alwaysEncryptMessage.label "Wymagaj (nie można wysłać wiadomości jeśli nie wszyscy adresaci mają certyfikat)">
 <!ENTITY alwaysEncryptMessage.accesskey "m">
 <!ENTITY encryptionCert.message "Certyfikat, który będzie używany do szyfrowania i deszyfrowania otrzymanych wiadomości:">
-<!ENTITY encryptionCert.notselected "Brak certyfikatu">
 <!ENTITY digitalSign.certificate.button "Wybierz…">
 <!ENTITY digitalSign.certificate.accesskey "y">
 <!ENTITY digitalSign.certificate_clear.button "Wyczyść">
@@ -21,4 +20,3 @@
 <!ENTITY signMessage.label "Podpisz cyfrowo wiadomości (domyślnie)">
 <!ENTITY signMessage.accesskey "D">
 <!ENTITY signingCert.message "Certyfikat, który będzie używany do cyfrowego podpisywania wysyłanych wiadomości:">
-<!ENTITY signingCert.notselected "Brak certyfikatu">

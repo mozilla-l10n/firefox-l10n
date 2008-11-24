@@ -16,7 +16,7 @@
 <!ENTITY application.label "Otwórz za pomocą:">
 <!ENTITY application.accesskey "O">
 
-<!ENTITY browse.label "Choose...">
+<!ENTITY browse.label "Wybierz...">
 <!ENTITY browse.accesskey "W">
 
 <!ENTITY askBeforeOpen.label "Zawsze pytaj przed rozpoczęciem pobierania plików tego typu">

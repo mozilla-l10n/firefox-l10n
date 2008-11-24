@@ -5,29 +5,29 @@
 <!-- LOCALIZATION NOTE (.modifiers): The following entites are for the
   application menu. Never change the modifiers unless you are 100% sure that
   they are different on your locale (should be very rare). -->
-<!ENTITY preferencesCmd.label "Preferences…">
+<!ENTITY preferencesCmd.label "Preferencje…">
 <!ENTITY preferencesCmd.key ",">
 <!ENTITY preferencesCmd.modifiers "accel">
-<!ENTITY servicesMenu.label "Services">
-<!ENTITY hideThisAppCmd.label "Hide &brandShortName;">
+<!ENTITY servicesMenu.label "Usługi">
+<!ENTITY hideThisAppCmd.label "Ukryj &brandShortName;">
 <!ENTITY hideThisAppCmd.key "H">
 <!ENTITY hideThisAppCmd.modifiers "accel">
-<!ENTITY hideOtherAppsCmd.label "Hide Others">
+<!ENTITY hideOtherAppsCmd.label "Ukryj pozostałe">
 <!ENTITY hideOtherAppsCmd.key "H">
 <!ENTITY hideOtherAppsCmd.modifiers "accel,alt">
-<!ENTITY showAllAppsCmd.label "Show All">
-<!ENTITY quitApplicationCmd.label "Quit &brandShortName;">
+<!ENTITY showAllAppsCmd.label "Pokaż wszystkie">
+<!ENTITY quitApplicationCmd.label "Zakończ program &brandShortName;">
 <!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY quitApplicationCmd.modifiers "accel">
 <!-- End of Application menu -->
 
-<!ENTITY closeCmd.label "Close">
+<!ENTITY closeCmd.label "Zamknij">
 <!ENTITY closeCmd.key "W">
 
-<!ENTITY printSetupCmd.label "Page Setup…">
+<!ENTITY printSetupCmd.label "Ustawienia strony…">
 <!ENTITY printSetupCmd.accesskey "u">
 
-<!ENTITY redoCmd.label "Redo">
+<!ENTITY redoCmd.label "Przywróć">
 <!ENTITY redoCmd.key "Z">
 
 <!ENTITY historyCmd.key "H">
@@ -37,17 +37,17 @@
 
 <!ENTITY accel.emacs_conflict "accel">
 
-<!ENTITY minimizeWindowCmd.label "Minimize">
+<!ENTITY minimizeWindowCmd.label "Miniaturka">
 <!ENTITY minimizeWindowCmd.key "M">
-<!ENTITY zoomWindowCmd.label "Zoom">
+<!ENTITY zoomWindowCmd.label "Powiększenie">
 
 <!-- Help menu -->
-<!ENTITY openHelpCmd.label "&brandShortName; Help">
+<!ENTITY openHelpCmd.label "Pomoc programu &brandShortName;">
 <!ENTITY openHelpCmd.accesskey "H">
 <!ENTITY openHelpCmd.key "/">
 <!ENTITY openHelpCmd.modifiers "accel">
 
 <!-- Key labels, for mousewheel prefs -->
 <!ENTITY ctrlKey.label "Ctrl">
-<!ENTITY altKey.label "Option">
+<!ENTITY altKey.label "Opcja">
 <!ENTITY shiftKey.label "Shift">

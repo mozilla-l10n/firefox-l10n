@@ -60,7 +60,7 @@
 <!ENTITY generalEncoding "Kodowanie:">
 <!ENTITY generalMetaName "Nazwa">
 <!ENTITY generalMetaContent "Treści">
-<!ENTITY generalSecurityMore "More">
+<!ENTITY generalSecurityMore "Więcej">
 <!ENTITY generalSecurityMore.accesskey "o">
 
 <!ENTITY formsTab "Formularze">
@@ -68,7 +68,6 @@
 <!ENTITY formAction "Akcja formularza">
 <!ENTITY formMethod "Metoda">
 <!ENTITY formName "Nazwa">
-<!ENTITY formNo "Indeks">
 <!ENTITY formEncoding "Kodowanie:">
 <!ENTITY formTarget "Cel:">
 <!ENTITY formFields "Pola:">
@@ -118,7 +117,7 @@
 <!ENTITY permBlock "Blokuj">
 <!ENTITY permissionsFor "Uprawnienia dla:">
 <!ENTITY permImage "Wczytywanie obrazków">
-<!ENTITY permPopup "Open Popup Windows">
+<!ENTITY permPopup "Otwórz wskakujące okna">
 <!ENTITY permCookie "Zapisywanie ciasteczek">
 <!ENTITY permInstall "Instalacja rozszerzeń i motywów">
 
@@ -136,7 +135,7 @@
 <!ENTITY securityView.identity.verifier "Zweryfikowane przez: ">
 
 <!ENTITY securityView.privacy.header "Prywatność i historia">
-<!ENTITY securityView.privacy.history "Have I visited this website before today?">
+<!ENTITY securityView.privacy.history "Czy ta witryna była wcześniej odwiedzana?">
 <!ENTITY securityView.privacy.cookies "Czy ta witryna przechowuje informacje na tym komputerze (ciasteczka)?">
 <!ENTITY securityView.privacy.viewCookies "Wyświetl ciasteczka">
 <!ENTITY securityView.privacy.viewCookies.accessKey "k">

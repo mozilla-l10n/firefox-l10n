@@ -13,8 +13,8 @@
 <!ENTITY sortBy.lastVisitDate.label "Ostanio odwiedzono">
 
 <!ENTITY sortOrder.label "Sortowanie:">
-<!ENTITY sortAscending.label "Ascending">
-<!ENTITY sortDescending.label "Descending">
+<!ENTITY sortAscending.label "Rosnąco">
+<!ENTITY sortDescending.label "Malejąco">
 
 <!ENTITY sortFoldersFirst.label "Foldery na początku">
 <!ENTITY sortRecursively.label "Razem z podfolderami">

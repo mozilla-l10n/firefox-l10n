@@ -5,17 +5,17 @@
 <!ENTITY allowedSites.label "Uprawnione witryny">
 <!ENTITY allowedSites.accesskey "U">
 
-<!ENTITY verifyUpdates.caption "Updates">
-<!ENTITY autoUpdates.label "Automatically check for updates to:">
-<!ENTITY appUpdates.label "&brandShortName;">
+<!ENTITY verifyUpdates.caption "Aktualizacje">
+<!ENTITY autoUpdates.label "Automatycznie sprawdzaj, czy dostępne są aktualizacje dla:">
+<!ENTITY appUpdates.label "programu &brandShortName;">
 <!ENTITY appUpdates.accesskey "S">
-<!ENTITY daily.label "daily">
+<!ENTITY daily.label "codziennie">
 <!ENTITY appDaily.accesskey "d">
 <!ENTITY weekly.label "co tydzień">
 <!ENTITY appWeekly.accesskey "w">
-<!ENTITY extensionsUpdates.label "Installed Add-ons">
+<!ENTITY extensionsUpdates.label "zainstalowanych dodatków">
 <!ENTITY extensionsUpdates.accesskey "n">
 <!ENTITY extensionsDaily.accesskey "i">
 <!ENTITY extensionsWeekly.accesskey "k">
-<!ENTITY addonManagerButton.label "Add-on Manager">
+<!ENTITY addonManagerButton.label "Menedżer dodatków">
 <!ENTITY addonManagerButton.accesskey "M">

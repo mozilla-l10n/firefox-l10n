@@ -36,16 +36,16 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY pref.security.title "Prywatność i zabezpieczenia">
-<!ENTITY privateData.label "Private Data">
+<!ENTITY privateData.label "Dane prywatne">
 
-<!ENTITY alwaysClear.label "Always clear my private data when I close &brandShortName;">
+<!ENTITY alwaysClear.label "Zawsze czyść dane prywatne przy zamykaniu programu &brandShortName;">
 <!ENTITY alwaysClear.accesskey "w">
 
-<!ENTITY askBeforeClear.label "Ask me before clearing private data">
+<!ENTITY askBeforeClear.label "Poproś o potwierdzenie przed czyszczeniem danych prywatnych">
 <!ENTITY askBeforeClear.accesskey "A">
 
-<!ENTITY clearDataSettings.label "When I ask &brandShortName; to clear my private data, it should erase:">
+<!ENTITY clearDataSettings.label "Podczas usuwania danych prywatnych, program &brandShortName; usunie:">
 
-<!ENTITY clearDataDialog.label "Clear Now…">
-<!ENTITY clearDataSilent.label "Clear Now">
+<!ENTITY clearDataDialog.label "Wyczyść teraz…">
+<!ENTITY clearDataSilent.label "Wyczyść teraz">
 <!ENTITY clearDataDialog.accesskey "N">

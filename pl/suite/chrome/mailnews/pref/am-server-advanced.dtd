@@ -1,6 +1,5 @@
 <!ENTITY serverAdvanced.label "Zaawansowane ustawienia konta">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY imapAdvanced.label "Zaawansowane opcje serwera IMAP">
 <!ENTITY serverDirectory.label "Katalog serwera IMAP">
 <!ENTITY serverDirectory.accesskey "I">
 <!ENTITY usingSubscription.label "Pokaż tylko subskrybowane foldery">
@@ -22,7 +21,6 @@
 <!ENTITY overrideNamespaces.label "Zezwalaj, aby serwer zmieniał powyższe ustawienia przestrzeni nazw">
 <!ENTITY overrideNamespaces.accesskey "A">
 <!ENTITY pop3Desc.label "Poczta pobierana z tego serwera POP powinna być zapisywana w następującym folderze:">
-<!ENTITY folderStorage.label "Folder poczty dla konta">
 <!ENTITY globalInbox.label "Globalna skrzynka odbiorcza (Foldery lokalne)">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Folder Odebrane dla konta tego serwera ">

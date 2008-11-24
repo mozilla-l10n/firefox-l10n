@@ -52,7 +52,6 @@
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newAccountCmd.label "Konto…">
 <!ENTITY newAccountCmd.accesskey "K">
-<!ENTITY openMessageMenu.label "Otwórz">
 <!ENTITY openMessageFileCmd.label "Otwórz plik…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Otwórz załącznik">
@@ -77,7 +76,6 @@
 <!ENTITY getNextNMsgCmd.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Wyślij niewysłane wiadomości">
 <!ENTITY sendUnsentCmd.accesskey "W">
-<!ENTITY loadFirstDraft.label "Wczytaj pierwszy szkic wiadomości">
 <!ENTITY subscribeCmd.label "Subskrybuj…">
 <!ENTITY subscribeCmd.accesskey "S">
 <!ENTITY renameFolder.label "Zmień nazwę folderu…">
@@ -101,7 +99,6 @@
 <!ENTITY printCmd.key "P">
 <!ENTITY printPreviewCmd.label "Podgląd wydruku">
 <!ENTITY printPreviewCmd.accesskey "P">
-<!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "Ustawienia strony…">
 <!ENTITY printSetupCmd.accesskey "U">
 
@@ -129,8 +126,6 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Wiadomości oznaczone">
 <!ENTITY selectFlaggedCmd.accesskey "W">
-<!ENTITY selectInvertCmd.label "Odwróć zaznaczenie">
-<!ENTITY selectInvertCmd.accesskey "O">
 <!ENTITY folderPropsCmd.label "Właściwości folderu">
 <!ENTITY folderPropsFolderCmd.label "Właściwości folderu…">
 <!ENTITY folderPropsNewsgroupCmd.label "Właściwości grupy dyskusyjnej…">
@@ -145,14 +140,10 @@
 <!ENTITY redoCopyMsgCmd.label "Powtórz kopiowanie wiadomości">
 <!ENTITY undoDefaultCmd.label "Cofnij">
 <!ENTITY redoDefaultCmd.label "Przywróć">
-<!ENTITY editDraftCmd.label "Edytuj szkic">
-<!ENTITY editDraftCmd.accesskey "s">
 
 <!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label "Pasek narzędzi poczty">
 <!ENTITY showMessengerToolbarCmd.accesskey "o">
-<!ENTITY customizeToolbar.label "Dostosuj…">
-<!ENTITY customizeToolbar.accesskey "C">
   <!-- showSearchToolbarCmd is also used by addressbook -->
 <!ENTITY showSearchToolbarCmd.label "Pasek narzędzi wyszukiwania">
 <!ENTITY showSearchToolbarCmd.accesskey "e">
@@ -221,8 +212,6 @@
 <!ENTITY threads.accesskey "T">
 <!ENTITY allMsgsCmd.label "Wszystkie">
 <!ENTITY allMsgsCmd.accesskey "W">
-<!ENTITY expandOrCollapseMenu.label "Rozwiń/Zwiń">
-<!ENTITY expandOrCollapseMenu.accesskey "o">
 <!ENTITY expandAllThreadsCmd.label "Rozwiń wszystkie wątki">
 <!ENTITY expandAllThreadsCmd.accesskey "R">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -243,8 +232,6 @@
 <!ENTITY headersAllCmd.accesskey "W">
 <!ENTITY headersNormalCmd.label "Standardowe">
 <!ENTITY headersNormalCmd.accesskey "S">
-<!ENTITY headersBriefCmd.label "Skrócone">
-<!ENTITY headersBriefCmd.accesskey "k">
 <!ENTITY bodyMenu.label "Wyświetl wiadomość jako">
 <!ENTITY bodyMenu.accesskey "O">
 <!ENTITY bodyAllowHTML.label "Oryginalny HTML">
@@ -262,12 +249,6 @@
 <!ENTITY pageSourceCmd.label "Źródło wiadomości">
 <!ENTITY pageSourceCmd.accesskey "d">
 <!ENTITY pageSourceCmd.key "u">
-<!ENTITY translateMenu.label "Przetłumacz">
-
-<!-- Search Menu -->
-<!-- searchMenu is also used by addressbook -->
-<!ENTITY searchMenu.label "Szukaj">
-<!ENTITY searchMenu.accesskey "s">
 
 <!ENTITY findCmd.label "Znajdź w tej wiadomości…">
 <!ENTITY findCmd.accesskey "m">
@@ -280,24 +261,11 @@
 <!ENTITY findPrevCmd.accesskey "o">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!-- LOCALIZATION NOTE (searchCurrentCmd.label) : Do not translate "&lt;" and "&gt;" in below line. -->
-<!ENTITY searchCurrentCmd.label "Przeszukaj &lt;bieżący&gt;">
-<!ENTITY searchCurrentCmd.accesskey "">
-<!-- LOCALIZATION NOTE (searchParentCmd.label) : Do not translate "&lt;" and "&gt;" in below line. -->
-<!ENTITY searchParentCmd.label "Przeszukaj &lt;nadrzędny&gt;">
-<!ENTITY searchParentCmd.accesskey "">
-<!-- LOCALIZATION NOTE (searchParentParentCmd.label) : Do not translate "&lt;" and "&gt;" in below line. -->
-<!ENTITY searchParentParentCmd.label "Przeszukaj&lt;nadrzędny nadrzędnego&gt;">
-<!ENTITY searchParentParentCmd.accesskey "">
 
 <!-- Go Menu -->
 
 <!ENTITY goMenu.label "Przejdź">
 <!ENTITY goMenu.accesskey "d">
-<!ENTITY firstUnreadMsgCmd.label "Pierwsza nieprzeczytana wiadomość">
-<!ENTITY firstUnreadMsgCmd.accesskey "n">
-<!ENTITY firstFlaggedMsgCmd.label "Pierwsza oznaczona wiadomość">
-<!ENTITY firstFlaggedMsgCmd.accesskey "o">
 <!ENTITY nextMenu.label "Następna">
 <!ENTITY nextMenu.accesskey "N">
 <!ENTITY nextMsgCmd.label "Wiadomość">
@@ -308,7 +276,6 @@
 <!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextFlaggedMsgCmd.label "Oznaczona wiadomość">
 <!ENTITY nextFlaggedMsgCmd.accesskey "O">
-<!ENTITY nextUnflaggedMsgCmd.label "Nieoznaczona wiadomość">
 <!ENTITY nextUnreadThread.label "Nieprzeczytany wątek">
 <!ENTITY nextUnreadThread.accesskey "T">
 <!ENTITY nextUnreadThread.key "t">
@@ -326,10 +293,6 @@
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Oznaczona wiadomość">
 <!ENTITY prevFlaggedMsgCmd.accesskey "F">
-<!ENTITY backCmd.label "Wstecz">
-<!ENTITY backCmd.accesskey "W">
-<!ENTITY forwardCmd.label "Przekaż">
-<!ENTITY forwardCmd.accesskey "P">
 <!ENTITY startPageCmd.label "Strona startowa">
 <!ENTITY startPageCmd.accesskey "S">
 <!ENTITY msgMenu.label "Wiadomość">
@@ -348,9 +311,9 @@
 <!ENTITY replyToAllMsgCmd.label "Odpowiedz wszystkim">
 <!ENTITY replyToAllMsgCmd.accesskey "w">
 <!ENTITY replyToAllMsgCmd.key "r">
-<!ENTITY replyToSenderAndNewsgroupCmd.label "Reply to Sender and Newsgroup">
+<!ENTITY replyToSenderAndNewsgroupCmd.label "Odpowiedz nadawcy i grupie dyskusyjnej">
 <!ENTITY replyToSenderAndNewsgroupCmd.accesskey "p">
-<!ENTITY replyToAllRecipientsCmd.label "Reply to All Recipients">
+<!ENTITY replyToAllRecipientsCmd.label "Odpowiedz wszystkim adresatom">
 <!ENTITY replyToAllRecipientsCmd.accesskey "a">
 <!ENTITY forwardMsgCmd.label "Przekaż">
 <!ENTITY forwardMsgCmd.accesskey "P">
@@ -366,12 +329,12 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Utwórz filtr na podstawie wiadomości…">
 <!ENTITY createFilter.accesskey "f">
-<!ENTITY moveMsgMenu.label "Przenieś">
-<!ENTITY moveMsgMenu.accesskey "r">
+<!ENTITY moveMsgToMenu.label "Move To">
+<!ENTITY moveMsgToMenu.accesskey "M">
 <!ENTITY copyMessageLocation.label "Kopiuj adres wiadomości">
 <!ENTITY copyMessageLocation.accesskey "a">
-<!ENTITY copyMsgMenu.label "Kopiuj">
-<!ENTITY copyMsgMenu.accesskey "K">
+<!ENTITY copyMsgToMenu.label "Copy To">
+<!ENTITY copyMsgToMenu.accesskey "C">
 <!ENTITY moveCopyMsgRecentMenu.label "Ostatni">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY killThreadMenu.label "Ignoruj wątek">
@@ -387,10 +350,6 @@
 <!ENTITY fileHereMenu.accesskey "A">
 <!ENTITY copyHereMenu.label "Kopiuj tutaj">
 <!ENTITY copyHereMenu.accesskey "K">
-<!ENTITY addSenderToAddressBookCmd.label "Dodaj nadawcę do książki adresowej">
-<!ENTITY addSenderToAddressBookCmd.accesskey "n">
-<!ENTITY addAllToAddressBookCmd.label "Dodaj wszystkich do książki adresowej">
-<!ENTITY addAllToAddressBookCmd.accesskey "w">
 <!ENTITY tagMenu.label "Etykieta">
 <!ENTITY tagMenu.accesskey "k">
 <!ENTITY tagCustomize.label "Dostosuj…">
@@ -410,8 +369,6 @@
 <!ENTITY markAsReadCmd.label "Jako przeczytaną">
 <!ENTITY markAsReadCmd.accesskey "p">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "Jako nieprzeczytaną">
-<!ENTITY markAsUnreadCmd.accesskey "n">
 <!ENTITY markThreadAsReadCmd.label "Cały wątek jako przeczytany">
 <!ENTITY markThreadAsReadCmd.accesskey "w">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -476,8 +433,8 @@
 <!ENTITY forwardButton.label "Przekaż">
 <!ENTITY fileButton.label "Przenieś">
 <!ENTITY nextButton.label "Następna">
-<!ENTITY goBackButton.label "Go Back">
-<!ENTITY goForwardButton.label "Go Forward">
+<!ENTITY goBackButton.label "Wstecz">
+<!ENTITY goForwardButton.label "Do przodu">
 <!ENTITY deleteButton.label "Usuń">
 <!ENTITY markButton.label "Zaznacz">
 <!ENTITY printButton.label "Drukuj">
@@ -494,7 +451,7 @@
 <!ENTITY newMsgButton.tooltip "Utwórz nową wiadomość">
 <!ENTITY replyButton.tooltip "Odpowiedz na wiadomość">
 <!ENTITY replyAllButton.tooltip "Odpowiedz nadawcy i wszystkim adresatom">
-<!ENTITY replyAllButtonNews.tooltip "Reply to sender and newsgroup">
+<!ENTITY replyAllButtonNews.tooltip "Odpowiedz nadawcy i grupie dyskusyjnej">
 <!ENTITY forwardButton.tooltip "Przekaż wybraną wiadomość">
 <!ENTITY fileButton.tooltip "Przenieś zaznaczoną wiadomość">
 <!ENTITY nextButton.tooltip "Przejdź do następnej nieprzeczytanej wiadomości">
@@ -510,8 +467,6 @@
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "Zakończono">
-<!ENTITY unreadCountText.label "Nieprzeczytanych: ">
-<!ENTITY totalCountText.label " Razem: ">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Otwórz wiadomość w nowym oknie">
@@ -524,7 +479,7 @@
 <!ENTITY contextReplyNewsgroup.accesskey "g">
 <!ENTITY contextReplyAll.label "Odpowiedz wszystkim">
 <!ENTITY contextReplyAll.accesskey "w">
-<!ENTITY contextReplySenderAndNewsgroup.label "Reply to Sender and Newsgroup">
+<!ENTITY contextReplySenderAndNewsgroup.label "Odpowiedz nadawcy i grupie dyskusyjnej">
 <!ENTITY contextReplySenderAndNewsgroup.accesskey "p">
 <!ENTITY contextForward.label "Przekaż">
 <!ENTITY contextForward.accesskey "P">
@@ -579,7 +534,7 @@
 
 <!-- Search Bar -->
 <!-- also used by addressbook -->
-<!ENTITY SearchSubjectOrFrom.label "Subject or From contains:">
+<!ENTITY SearchSubjectOrFrom.label "Temat lub nadawca zawiera:">
 <!ENTITY SearchSubjectOrFrom.accesskey "S">
 <!ENTITY SearchNameOrEmail.label "Imię, nazwisko lub e-mail zawiera:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
@@ -596,7 +551,7 @@
 
 <!-- Remote Content Bar -->
 <!ENTITY remoteContentMessage.label "W celu ochrony prywatności, program &brandShortName; zablokował w tej wiadomości wyświetlanie obrazków pochodzących z innych serwerów.">
-<!ENTITY loadRemoteContentButton.label "Pokaż obrazki">
+<!ENTITY loadRemoteContentButton.label "Wyświetl zdalną zawartość">
 
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage.label "Ta wiadomość najprawdopodobniej jest fałszywa.">

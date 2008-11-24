@@ -50,9 +50,9 @@
 <!ENTITY tagsHdr.label "Etykiety: ">
 <!ENTITY dateField.label "Data: ">
 <!ENTITY userAgentField.label "Program pocztowy: ">
-<!ENTITY referencesField.label "References: ">
-<!ENTITY messageIdField.label "Message-ID: ">
-<!ENTITY inReplyToField.label "In-Reply-To: ">
+<!ENTITY referencesField.label "Odniesienia: ">
+<!ENTITY messageIdField.label "ID wiadomości: ">
+<!ENTITY inReplyToField.label "W odpowiedzi na: ">
 <!ENTITY originalWebsite.label "Witryna: ">
 
 <!ENTITY editMessage.label "Edytuj szkic…">

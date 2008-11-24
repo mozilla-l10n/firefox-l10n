@@ -1,13 +1,13 @@
 <!ENTITY migrationWizard.title "Importowanie ustawień i danych">
 
-<!ENTITY importAllFrom.label "Import All Items from:">
-<!ENTITY importBookmarksFrom.label "Import Bookmarks from:">
+<!ENTITY importAllFrom.label "Importuj wszystkie elementy z:">
+<!ENTITY importBookmarksFrom.label "Importuj zakładki z:">
 
 <!ENTITY importFromSeamonkey.label "SeaMonkey 1.x, Netscape 6/7 or Mozilla 1.x">
 <!ENTITY importFromSeamonkey.accesskey "S">
 <!ENTITY importFromThunderbird.label "Thunderbird">
 <!ENTITY importFromThunderbird.accesskey "T">
-<!ENTITY importFromFile.label "File">
+<!ENTITY importFromFile.label "Plik">
 <!ENTITY importFromFile.accesskey "F">
 <!ENTITY importFromNothing.label "Nie importuj niczego">
 <!ENTITY importFromNothing.accesskey "D">

@@ -15,7 +15,7 @@
 <!ENTITY newPageFromTemplateCmd.accesskey "t">
 <!ENTITY newPageFromDraftCmd.label "Nowa strona ze szkicu">
 <!ENTITY newPageFromDraftCmd.accesskey "s">
-<!ENTITY newNavigatorCmd.label "Browser Window">
+<!ENTITY newNavigatorCmd.label "Okno przeglądarki">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "N">
 
@@ -37,7 +37,6 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "e">
 <!ENTITY deleteCmd.label "Usuń">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "U">
 <!ENTITY selectAllCmd.label "Zaznacz wszystko">
 <!ENTITY selectAllCmd.key "A">
@@ -77,7 +76,7 @@
 <!ENTITY pac.accesskey "a">
 <!ENTITY wpad.label "Online (Proxy: Automatyczne wykrywanie)">
 <!ENTITY wpad.accesskey "w">
-<!ENTITY system.label "Online (Proxy: System Proxy)">
+<!ENTITY system.label "Online (proxy: systemowe)">
 <!ENTITY system.accesskey "S">
 
 <!ENTITY proxy.label "Konfiguracja Proxy…">
@@ -87,9 +86,24 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "k">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
 
+<!ENTITY customizeToolbar.toolbarmode.label "Settings for this toolbar">
+<!ENTITY customizeToolbar.toolbarmode.accesskey "t">
+<!ENTITY customizeToolbar.iconsAndText.label "Icons and Text">
+<!ENTITY customizeToolbar.iconsAndText.accesskey "a">
+<!ENTITY customizeToolbar.icons.label "Icons">
+<!ENTITY customizeToolbar.icons.accesskey "I">
+<!ENTITY customizeToolbar.text.label "Text">
+<!ENTITY customizeToolbar.text.accesskey "T">
+<!ENTITY customizeToolbar.useSmallIcons.label "Use small icons">
+<!ENTITY customizeToolbar.useSmallIcons.accesskey "s">
+<!ENTITY customizeToolbar.labelAlignEnd.label "Show text beside icon">
+<!ENTITY customizeToolbar.labelAlignEnd.accesskey "b">
+<!ENTITY customizeToolbar.useDefault.label "Use default settings">
+<!ENTITY customizeToolbar.useDefault.accesskey "g">
+
 <!-- Popup Blocked notification menu -->
 <!ENTITY allowPopups.accesskey "p">
-<!ENTITY showPopupManager.label "Manage Popups">
+<!ENTITY showPopupManager.label "Zarządzaj wyskakującymi oknami">
 <!ENTITY showPopupManager.accesskey "M">
-<!ENTITY dontShowMessage.label "Don't show this message when popups are blocked">
+<!ENTITY dontShowMessage.label "Nie pokazuj tej wiadomości, kiedy wyskakujące okna są blokowane">
 <!ENTITY dontShowMessage.accesskey "D">

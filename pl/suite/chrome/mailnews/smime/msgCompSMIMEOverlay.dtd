@@ -1,9 +1,6 @@
 <!ENTITY securityMenu.label "Zabezpieczenia wiadomości">
 <!ENTITY securityMenu.accesskey "b">
 
-<!ENTITY menu_securityEncryptIfPossible.label "Szyfruj, jeśli to możliwe">
-<!ENTITY menu_securityEncryptIfPossible.accesskey "S">
-
 <!ENTITY menu_securityEncryptRequire.label "Zaszyfruj tę wiadomość">
 <!ENTITY menu_securityEncryptRequire.accesskey "W">
 

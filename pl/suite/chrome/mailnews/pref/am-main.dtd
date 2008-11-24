@@ -3,7 +3,6 @@
 <!ENTITY accountTitle.label "Konfiguracja konta">
 <!ENTITY accountName.label "Nazwa konta:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY accountNameDesc.label "Każde konto ma swoją unikatową nazwę">
 <!ENTITY identityTitle.label "Tożsamość domyślna">
 <!ENTITY identityDesc.label "Poniższe dane określają tożsamość konta i umożliwiają odbiorcom wysyłanych wiadomości identyfikację nadawcy.">
 <!ENTITY name.label "Imię i nazwisko:">
@@ -16,7 +15,6 @@
 <!ENTITY organization.accesskey "O">
 <!ENTITY signature.label "Dołączaj sygnaturkę">
 <!ENTITY signature.accesskey "t">
-<!ENTITY edit.label "Edytuj…">
 <!ENTITY choose.label "Wybierz…">
 <!ENTITY choose.accesskey "W">
 <!ENTITY editVCard.label "Edytuj wizytówkę…">

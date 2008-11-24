@@ -39,18 +39,16 @@
 <!ENTITY generalSettings.caption "Ustawienia ogólne">
 <!ENTITY confirmMove.label "Wymagaj potwierdzenia przy usuwaniu folderów do kosza">
 <!ENTITY confirmMove.accesskey "P">
-<!ENTITY useMessenger.label "Aplikacje korzystające z MAPI mają korzystać z Kuriera Poczty">
-<!ENTITY useMessenger.accesskey "M">
-<!ENTITY autounzip.label "Automatycznie rozpakuj archiwa ZIP podczas zapisywania załączników">
-<!ENTITY autounzip.accesskey "A">
 <!ENTITY preserveThreading.label "Zachowuj wątki podczas sortowania wiadomości">
 <!ENTITY preserveThreading.accesskey "t">
 
-<!ENTITY defaultMailSettings.description "Make &brandShortName; the default application for:">
-<!ENTITY setDefaultMail.label "Mail">
+<!ENTITY defaultMailSettings.description "Używaj &brandShortName; jako domyślnego programu dla:">
+<!ENTITY setDefaultMail.label "Poczty">
 <!ENTITY setDefaultMail.accesskey "M">
-<!ENTITY setDefaultNews.label "News">
+<!ENTITY setDefaultNews.label "Grup dyskusyjnych">
 <!ENTITY setDefaultNews.accesskey "N">
+<!ENTITY setDefaultFeed.label "kanałów informacyjnych">
+<!ENTITY setDefaultFeed.accesskey "e">
 
 <!ENTITY messengerStartPage.caption "Strona startowa Kuriera Poczty">
 <!ENTITY enableStartPage.label "Po uruchomieniu Kuriera Poczty wyświetl poniższą stronę startową w oknie wiadomości:">

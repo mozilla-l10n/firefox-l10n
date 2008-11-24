@@ -41,6 +41,7 @@
 <!ENTITY features.title "Możliwości">
 <!ENTITY feat_multiacc.label "Obsługa wielu kont">
 <!ENTITY feat_junk.label "Filtr niechcianej poczty">
+<!ENTITY feat_rss.label "Obsługa kanałów RSS i Atom">
 <!ENTITY feat_filters.label "Filtrowanie wiadomości">
 <!ENTITY feat_htmlmsg.label "Obsługa wiadomości w formacie HTML ">
 <!ENTITY feat_abook.label "Książka adresowa">

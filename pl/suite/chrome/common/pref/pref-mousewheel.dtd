@@ -11,8 +11,8 @@
 <!ENTITY scroll.label "Przewinięcie dokumentu o">
 <!ENTITY scroll.accesskey "r">
 <!ENTITY scrollHoriz.accesskey "c">
-<!ENTITY scrollLines.label "lines">
-<!ENTITY scrollChars.label "characters">
+<!ENTITY scrollLines.label "linie">
+<!ENTITY scrollChars.label "znaki">
 <!ENTITY useSystemDefault.label "Użyj domyślnych ustawień systemu">
 <!ENTITY useSystemDefault.accesskey "y">
 <!ENTITY useSystemDefaultHoriz.accesskey "d">
@@ -23,6 +23,6 @@
 <!ENTITY history.label "Przejście do następnej/poprzednio odwiedzonej strony">
 <!ENTITY history.accesskey "o">
 <!ENTITY historyHoriz.accesskey "b">
-<!ENTITY zoom.label "Zoom the page in or out">
+<!ENTITY zoom.label "Powiękesz bądź pomniejsz stronę">
 <!ENTITY zoom.accesskey "Z">
 <!ENTITY zoomHoriz.accesskey "e">

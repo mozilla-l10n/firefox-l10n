@@ -35,14 +35,14 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY menuBar.tooltip "Menu Bar">
-<!ENTITY modeToolbar.tooltip "Mode Toolbar">
-<!ENTITY entryToolbar.tooltip "Javascript Entry Toolbar">
-<!ENTITY toolbarsCmd.label "Show/Hide">
+<!ENTITY menuBar.tooltip "Pasek menu">
+<!ENTITY modeToolbar.tooltip "Pasek narzędziowy trybu">
+<!ENTITY entryToolbar.tooltip "Pasek wprowadzania kodu JavaScript">
+<!ENTITY toolbarsCmd.label "Pokaż/Ukryj">
 <!ENTITY toolbarsCmd.accesskey "w">
-<!ENTITY toolbarMode.label "Mode">
+<!ENTITY toolbarMode.label "trybu">
 <!ENTITY toolbarMode.accesskey "M">
-<!ENTITY toolbarEval.label "JavaScript Entry">
+<!ENTITY toolbarEval.label "wprowadzania JavaScript">
 <!ENTITY toolbarEval.accesskey "J">
 
 <!ENTITY all.accesskey "A">

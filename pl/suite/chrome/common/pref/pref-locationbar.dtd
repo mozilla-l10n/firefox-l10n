@@ -1,21 +1,21 @@
-<!ENTITY pref.locationBar.title "Location Bar">
+<!ENTITY pref.locationBar.title "Pasek adresu">
 
-<!ENTITY autoComplete.label "Autocomplete">
-<!ENTITY enableAutoComplete.label "Autocomplete from your browsing history as you type">
+<!ENTITY autoComplete.label "Automatyczne uzupełnianie">
+<!ENTITY enableAutoComplete.label "Automatycznie uzupełniaj na podstawie historii przeglądania">
 <!ENTITY enableAutoComplete.accesskey "A">
-<!ENTITY autoCompleteAutoFill.label "Automatically prefill the best match">
+<!ENTITY autoCompleteAutoFill.label "Automatycznie uzupełniaj najodpowiedniejszą propozycją">
 <!ENTITY autoCompleteAutoFill.accesskey "u">
-<!ENTITY autoCompleteShowPopup.label "Show list of matching results">
+<!ENTITY autoCompleteShowPopup.label "Pokaż listę pasujących wyników">
 <!ENTITY autoCompleteShowPopup.accesskey "S">
-<!ENTITY autoCompleteMatchOnlyTyped.label "Match only websites you've typed previously">
+<!ENTITY autoCompleteMatchOnlyTyped.label "Uwzględniaj tylko adresy, które zostały wpisane ręcznie">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey "M">
 
-<!ENTITY searchEngine.label "Internet Search Engine">
-<!ENTITY showSearchEngine.label "Show default search engine">
+<!ENTITY searchEngine.label "Wyszukiwarka internetowa">
+<!ENTITY showSearchEngine.label "Wyświetl domyślną wyszukiwarkę internetową">
 <!ENTITY showSearchEngine.accesskey "e">
 
-<!ENTITY unknownLocations.label "Unknown Locations">
-<!ENTITY domainGuessing.label "Add &quot;www.&quot; and &quot;.com&quot; to the location if a web page is not found">
+<!ENTITY unknownLocations.label "Nieznane adresy">
+<!ENTITY domainGuessing.label "Automatycznie dodaj &quot;www.&quot; oraz &quot;.com&quot; do wprowadzonego adresu, jeżeli odnalezienie witryny nie będzie możliwe">
 <!ENTITY domainGuessing.accesskey "d">
-<!ENTITY keywords.label "Perform a web search when entered text is not a web location">
+<!ENTITY keywords.label "Wykonaj wyszukiwanie w sieci, gdy wpisany tekst nie jest adresem internetowym">
 <!ENTITY keywords.accesskey "P">

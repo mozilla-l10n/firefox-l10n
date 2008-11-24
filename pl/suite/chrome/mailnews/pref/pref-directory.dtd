@@ -37,14 +37,11 @@
 
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 <!ENTITY pref.ldap.window.title "Serwery katalogów LDAP">
-<!ENTITY directory.label "Dodaj katalog">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "Serwer usług katalogowych LDAP:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 <!ENTITY directoriesText.label "Wybierz serwer usług katalogowych LDAP:">
 <!ENTITY directoriesText.accesskey "S">
-<!-- LOCALIZATION NOTE (autocomplete.title) : do not translate "LDAP" in below line -->
-<!ENTITY autocomplete.title "Serwer usług katalogowych LDAP">
 <!ENTITY addDirectory.label "Dodaj">
 <!ENTITY addDirectory.accesskey "a">
 <!ENTITY editDirectory.label "Edytuj">

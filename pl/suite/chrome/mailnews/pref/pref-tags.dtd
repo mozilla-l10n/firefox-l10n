@@ -36,19 +36,19 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.tags.title "Tags">
-<!ENTITY pref.tags.caption "Customize Tags">
-<!ENTITY pref.tags.description "Tags can be used to categorize and prioritize your messages. Modify the appearance and importance of tags using the settings below. Tags near the top are more important than those further down.">
-<!ENTITY tagColumn.label "Tag">
-<!ENTITY colorColumn.label "Color">
-<!ENTITY defaultTagName.label "Untitled Tag">
-<!ENTITY addTagButton.label "Add">
+<!ENTITY pref.tags.title "Etykiety">
+<!ENTITY pref.tags.caption "Dostosuj etykiety">
+<!ENTITY pref.tags.description "Etykiety mogą być używane do klasyfikowania wiadomości oraz nadawania im priorytetów. Można modyfikować dostępność i ważność poniższych etykiet. Etykiety na górze listy są ważniejsze od tych na jej dole.">
+<!ENTITY tagColumn.label "Etykieta">
+<!ENTITY colorColumn.label "Kolor">
+<!ENTITY defaultTagName.label "Etykieta bez nazwy">
+<!ENTITY addTagButton.label "Dodaj">
 <!ENTITY addTagButton.accesskey "A">
-<!ENTITY deleteTagButton.label "Delete">
+<!ENTITY deleteTagButton.label "Usuń">
 <!ENTITY deleteTagButton.accesskey "D">
-<!ENTITY raiseTagButton.label "Raise Importance">
+<!ENTITY raiseTagButton.label "Zwiększ ważność">
 <!ENTITY raiseTagButton.accesskey "R">
-<!ENTITY lowerTagButton.label "Lower Importance">
+<!ENTITY lowerTagButton.label "Zmniejsz ważność">
 <!ENTITY lowerTagButton.accesskey "L">
-<!ENTITY restoreButton.label "Restore Defaults">
+<!ENTITY restoreButton.label "Przywróć domyślne">
 <!ENTITY restoreButton.accesskey "s">

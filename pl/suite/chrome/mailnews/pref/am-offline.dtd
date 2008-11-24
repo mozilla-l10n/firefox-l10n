@@ -5,7 +5,6 @@
 <!ENTITY offlineNotDownload.label "Nie pobieraj wiadomości większych niż">
 <!ENTITY offlineNotDownload.accesskey "p">
 <!ENTITY kb.label "KB">
-<!ENTITY days.label "dni">
 <!ENTITY daysOld.label "dni temu">
 <!ENTITY message.label "najnowszych wiadomości">
 <!ENTITY nntpNotDownloadRead.label "Nie pobieraj treści przeczytanych wiadomości">

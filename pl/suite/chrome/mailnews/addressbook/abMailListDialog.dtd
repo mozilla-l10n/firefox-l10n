@@ -46,9 +46,6 @@
 <!ENTITY ListDescription.label "Opis: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label "Wprowadź adresy e-mail, które zostaną dodane do listy dystrybucyjnej">
-<!ENTITY RemoveButton.label "Usuń">
-<!ENTITY UpButton.label "Przenieś w górę">
-<!ENTITY DownButton.label "Przenieś w dół">
 
 <!-- Access Keys -->
 <!ENTITY addToAddressBook.accesskey "D">

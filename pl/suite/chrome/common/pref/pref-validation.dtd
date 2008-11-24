@@ -39,19 +39,19 @@
 
 <!ENTITY validation.crl.caption "CRL">
 <!ENTITY validation.crl.description "Kliknij poniżej, aby zarządzać listą unieważnionych certyfikatów CRL, przechowywaną w bazie certyfikatów, za pomocą Menedżera CRL.">
-<!ENTITY validation.managecrls.button "Manage CRLs…">
+<!ENTITY validation.managecrls.button "Zarządzaj listami CRL…">
 <!ENTITY validation.managecrls.accesskey "M">
 
 <!ENTITY validation.ocsp.caption "OCSP">
-<!ENTITY enableOCSP.label "Use the Online Certificate Status Protocol (OCSP) to confirm the current validity of certificates">
+<!ENTITY enableOCSP.label "Używaj protokołu weryfikacji stanu certyfikatu (OCSP) do potwierdzania wiarygodności certyfikatów">
 <!ENTITY enableOCSP.accesskey "U">
-<!ENTITY certOCSP2.label "Validate a certificate if it specifies an OCSP server">
+<!ENTITY certOCSP2.label "Weryfikuj certyfikat, jeśli określono w nim serwer OCSP">
 <!ENTITY certOCSP2.accesskey "V">
-<!ENTITY proxyOCSP2.label "Validate all certificates using the following OCSP server:">
+<!ENTITY proxyOCSP2.label "Weryfikuj wszystkie certyfikaty za pomocą tego serwera OCSP:">
 <!ENTITY proxyOCSP2.accesskey "a">
 <!ENTITY serviceURL.label "Adres URL Usługi:">
 <!ENTITY serviceURL.accesskey "S">
 <!ENTITY signingCA.label "Urząd weryfikujący:">
 <!ENTITY signingCA.accesskey "R">
-<!ENTITY validation.requireOCSP.description "When an OCSP server connection fails, treat the certificate as invalid">
+<!ENTITY validation.requireOCSP.description "Jeśli nie uda sie połączyć z serwerem OCSP, traktuj certyfikat jako niewiarygodny">
 <!ENTITY validation.requireOCSP.accesskey "W">

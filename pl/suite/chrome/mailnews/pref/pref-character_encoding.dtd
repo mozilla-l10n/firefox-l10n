@@ -47,5 +47,5 @@
 <!ENTITY useMIME.accesskey "k">
 <!ENTITY sendDefaultCharset.label "Domyślne kodowanie znaków:">
 <!ENTITY sendDefaultCharset.accesskey "D">
-<!ENTITY replyInDefaultCharset2.label "When possible, use this default character encoding in replies. (When unchecked, only new messages use this default.)">
+<!ENTITY replyInDefaultCharset2.label "Używaj domyślnego zestawu znaków w odpowiedziach zawsze, kiedy to możliwe. (Gdy odznaczone, tylko nowe wiadomości będą używać ten zestaw znaków.)">
 <!ENTITY replyInDefaultCharset2.accesskey "W">
