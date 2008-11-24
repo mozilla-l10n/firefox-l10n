@@ -18,19 +18,19 @@
 <!--###ENTITY calendar.choosedate.button.tooltip "בחר תאריך אליו לגשת"-->
 <!--###ENTITY calendar.confirm.deleteevent "האם הינך בטוח שברצונך למחוק אירוע זה:"-->
 <!--###ENTITY calendar.confirm.deleteuntitledevent "האם הינך בטוח שברצונך למחוק אירוע חסר כותרת זה?"-->
-<!ENTITY calendar.context.copyevent.accesskey "C">
+<!ENTITY calendar.context.copyevent.accesskey "ע">
 <!ENTITY calendar.context.copyevent.label "העתק">
 <!--###ENTITY calendar.context.customize.accesskey "C"-->
 <!--###ENTITY calendar.context.customize.label "התאמה אישית"-->
-<!ENTITY calendar.context.cutevent.accesskey "t">
+<!ENTITY calendar.context.cutevent.accesskey "ג">
 <!ENTITY calendar.context.cutevent.label "גזור">
 <!--###ENTITY calendar.context.dayview.accesskey "D"-->
 <!--###ENTITY calendar.context.dayview.label "עבור לתצוגת יום"-->
 <!ENTITY calendar.context.deleteevent.accesskey "l">
 <!ENTITY calendar.context.deleteevent.label "מחק את האירוע שנבחר">
-<!ENTITY calendar.context.deleteserver.accesskey "D">
+<!ENTITY calendar.context.deleteserver.accesskey "מ">
 <!ENTITY calendar.context.deleteserver.label "מחק יומן">
-<!ENTITY calendar.context.deletetask.accesskey "l">
+<!ENTITY calendar.context.deletetask.accesskey "מ">
 <!ENTITY calendar.context.deletetask.label "מחק מטלה">
 <!--###ENTITY calendar.context.editserver.accesskey "E"-->
 <!--###ENTITY calendar.context.editserver.label "ערוך יומן"-->
@@ -42,31 +42,31 @@
 <!--###ENTITY calendar.context.gototoday.label "לך להיום"-->
 <!--###ENTITY calendar.context.modifyevent.accesskey "E"-->
 <!--###ENTITY calendar.context.modifyevent.label "ערוך את האירוע שנבחר"-->
-<!ENTITY calendar.context.modifytask.accesskey "E">
+<!ENTITY calendar.context.modifytask.accesskey "ע">
 <!ENTITY calendar.context.modifytask.label "ערוך מטלה">
 <!--###ENTITY calendar.context.monthview.accesskey "M"-->
 <!--###ENTITY calendar.context.monthview.label "עבור לתצוגת חודש"-->
 <!--###ENTITY calendar.context.multiweekview.accesskey "u"-->
 <!--###ENTITY calendar.context.multiweekview.label "עבור לתצוגה רב-שבועית"-->
-<!ENTITY calendar.context.newevent.accesskey "N">
+<!ENTITY calendar.context.newevent.accesskey "א">
 <!ENTITY calendar.context.newevent.label "אירוע חדש">
-<!ENTITY calendar.context.newserver.accesskey "N">
-<!ENTITY calendar.context.newserver.label "יומן חדש">
-<!ENTITY calendar.context.newtodo.accesskey "k">
+<!ENTITY calendar.context.newserver.accesskey "ל">
+<!ENTITY calendar.context.newserver.label "לוח שנה חדש">
+<!ENTITY calendar.context.newtodo.accesskey "מ">
 <!ENTITY calendar.context.newtodo.label "מטלה חדשה">
-<!ENTITY calendar.context.pasteevent.accesskey "P">
+<!ENTITY calendar.context.pasteevent.accesskey "ה">
 <!ENTITY calendar.context.pasteevent.label "הדבק">
-<!ENTITY calendar.context.priority.accesskey "r">
+<!ENTITY calendar.context.priority.accesskey "ע">
 <!ENTITY calendar.context.priority.label "עדיפות">
-<!ENTITY calendar.context.progress.accesskey "P">
+<!ENTITY calendar.context.progress.accesskey "ק">
 <!ENTITY calendar.context.progress.label "התקדמות">
-<!ENTITY calendar.context.publish.accesskey "P">
+<!ENTITY calendar.context.publish.accesskey "פ">
 <!ENTITY calendar.context.publish.label "פרסם את היומן כולו">
 <!--###ENTITY calendar.context.refreshserver.accesskey "R"-->
 <!--###ENTITY calendar.context.refreshserver.label "רענן יומנים מרוחקים"-->
 <!--###ENTITY calendar.context.reload.accesskey "R"-->
 <!--###ENTITY calendar.context.reload.label "טען מחדש"-->
-<!ENTITY calendar.context.selectall.accesskey "A">
+<!ENTITY calendar.context.selectall.accesskey "ב">
 <!ENTITY calendar.context.selectall.label "בחר הכל">
 <!--###ENTITY calendar.context.weekview.accesskey "W"-->
 <!--###ENTITY calendar.context.weekview.label "עבור לתצוגת שבוע"-->
@@ -79,7 +79,7 @@
 <!--###ENTITY calendar.dayview.button.tooltip "עבור לתצוגת יום"-->
 <!--###ENTITY calendar.delete.button.label "מחק"-->
 <!--###ENTITY calendar.delete.button.tooltip "מחק את האירוע שנבחר"-->
-<!ENTITY calendar.displaytodos.checkbox.accesskey "V">
+<!ENTITY calendar.displaytodos.checkbox.accesskey "ת">
 <!ENTITY calendar.displaytodos.checkbox.label "מטלות בתצוגה">
 <!ENTITY calendar.edit.button.label "ערוך">
 <!ENTITY calendar.print.button.label            "הדפס" >
@@ -241,13 +241,13 @@ http://www.mozilla.org/projects/calendar/caldata/CanadaHolidays.ics"-->
 <!--###ENTITY onthe-text "ב"-->
 <!ENTITY percnt "&#037;">
 <!ENTITY priority.level.high "גבוהה">
-<!ENTITY priority.level.high.accesskey "H">
+<!ENTITY priority.level.high.accesskey "ג">
 <!ENTITY priority.level.low "נמוכה">
-<!ENTITY priority.level.low.accesskey "L">
+<!ENTITY priority.level.low.accesskey "נ">
 <!--###ENTITY priority.level.medium "בינונית"-->
 <!--###ENTITY priority.level.medium.accesskey "M"-->
-<!ENTITY priority.level.none "אין">
-<!ENTITY priority.level.none.accesskey "N">
+<!ENTITY priority.level.none "ללא">
+<!ENTITY priority.level.none.accesskey "ל">
 <!ENTITY progress.level.0 "0&percnt;">
 <!ENTITY progress.level.0.accesskey "0">
 <!ENTITY progress.level.100 "100&percnt;">
@@ -293,7 +293,7 @@ http://www.mozilla.org/projects/calendar/caldata/CanadaHolidays.ics"-->
 <!ENTITY calendar.completedtasks.checkbox.label     "הצג משימות שהושלמו" >
 <!ENTITY calendar.context.button.accesskey            "ה" >
 <!ENTITY calendar.context.button.label                "לוח היום" >
-<!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
+<!ENTITY calendar.context.convertmenu.accesskey.calendar "ל">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "ד">
 <!ENTITY calendar.context.convertmenu.event.accesskey    "ה">
 <!ENTITY calendar.context.convertmenu.event.label        "אירוע…">
@@ -328,9 +328,9 @@ http://www.mozilla.org/projects/calendar/caldata/CanadaHolidays.ics"-->
 <!ENTITY calendar.context.modifyorviewitem.label      "פתיחה">
 <!ENTITY calendar.context.modifyorviewtask.accesskey  "פ">
 <!ENTITY calendar.context.modifyorviewtask.label      "פתיחת משימה…">
-<!ENTITY calendar.context.properties.accesskey         "P">
+<!ENTITY calendar.context.properties.accesskey         "מ">
 <!ENTITY calendar.context.properties.label             "מאפיינים">
-<!ENTITY calendar.context.reloadserver.accesskey       "R">
+<!ENTITY calendar.context.reloadserver.accesskey       "ט">
 <!ENTITY calendar.context.reloadserver.label           "טען מחדש לוחות שנה מרוחקים">
 
 <!ENTITY calendar.day.button.label              "יום" >
@@ -406,7 +406,7 @@ http://www.mozilla.org/projects/calendar/caldata/CanadaHolidays.ics"-->
 <!ENTITY calendar.task.filter.next7days.label       "שבעת הימים הבאים">
 <!ENTITY calendar.task.filter.notstarted.accesskey  "ט">
 <!ENTITY calendar.task.filter.notstarted.label      "משימות שטרם התחילו">
-<!ENTITY calendar.task.filter.open.accesskey        "m">
+<!ENTITY calendar.task.filter.open.accesskey        "ש">
 <!ENTITY calendar.task.filter.open.label            "משימות שלא הושלמו">
 <!ENTITY calendar.task.filter.overdue.accesskey     "ח">
 <!ENTITY calendar.task.filter.overdue.label         "משימות חורגות">
@@ -432,7 +432,7 @@ http://www.mozilla.org/projects/calendar/caldata/CanadaHolidays.ics"-->
 <!ENTITY calendar.unifinder.button.label           "מצא אירועים" >
 <!ENTITY calendar.unifinder.button.tooltip        "מציאת אירועים והצגתם ברשימה" >
 <!ENTITY calendar.unifinder.close.tooltip            "סגירת החיפוש ורשימת האירועים">
-<!ENTITY calendar.unifinder.showcompletedtodos.label "הצג משימוש שהושלמו">
+<!ENTITY calendar.unifinder.showcompletedtodos.label "הצג משימות שהושלמו">
 <!ENTITY calendar.unifinder.tree.calendarname.label  "שם לוח שנה">
 <!ENTITY calendar.unifinder.tree.duration.label      "יתקיים בעוד">
 <!ENTITY calendar.week.button.label             "שבוע" >
