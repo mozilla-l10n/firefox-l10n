@@ -1,5 +1,0 @@
-#expand <!ENTITY  lang.version          "__MOZILLA_LOCALE_VERSION__">
-<!ENTITY  brandShortName        "Postë/Lajme">
-<!ENTITY  brandFullName         "Klient Poste/Lajmesh">
-<!ENTITY  vendorShortName       "Klient Poste/Lajmesh">
-<!ENTITY  sidebarName           "Anështyllë">
