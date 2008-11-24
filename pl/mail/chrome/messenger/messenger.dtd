@@ -638,6 +638,9 @@
 <!-- Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
 
+<!-- Message Header Button Box (to show hidden email addresses) -->
+<!ENTITY more.label "więcej">
+
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label      "Dodaj adres do książki adresowej">
 <!ENTITY AddToAddressBook.accesskey  "k">
