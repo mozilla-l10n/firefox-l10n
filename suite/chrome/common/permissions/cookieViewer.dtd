@@ -12,7 +12,7 @@
 <!ENTITY     button.removeallcookies.accesskey "e">
 
 <!ENTITY     props.name.label               "Nome:">
-<!ENTITY     props.value.label              "Conteúdt:">
+<!ENTITY     props.value.label              "Conteúdo:">
 <!ENTITY     props.domain.label             "Servidor:">
 <!ENTITY     props.path.label               "Caminho:">
 <!ENTITY     props.secure.label             "Enviar para:">
@@ -36,4 +36,4 @@
 <!ENTITY     removeallpermissions.accesskey "e">
 
 <!ENTITY     futureCookies.label            "Não permitir sítios que removem cookies para usar cookies futuros">
-<!ENTITY     futureCookies.accesskey        "D">
+<!ENTITY     futureCookies.accesskey        "m">
