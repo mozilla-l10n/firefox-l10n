@@ -567,6 +567,7 @@
 <!ENTITY phishingBarMessage2.label "Este mensaje puede ser fraudulento.">
 <!ENTITY removePhishingBarButton1.label "Ignorar advertencia">
 <!ENTITY reportPhishingError1.label "Este mensaje no parece ser fraudulento.">
+<!ENTITY more.label "más">
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY AddToAddressBook.label "Añadir a la libreta de direcciones…">
 <!ENTITY AddToAddressBook.accesskey "b">
