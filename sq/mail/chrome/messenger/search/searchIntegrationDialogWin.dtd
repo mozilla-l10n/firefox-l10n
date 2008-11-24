@@ -1,0 +1,6 @@
+<!ENTITY searchIntegration.engineName "Kërkim nga Windows">
+<!ENTITY searchIntegration.title "Integrim i &searchIntegration.engineName; Integration">
+<!ENTITY searchIntegration.description "Do të donit të lejohet &searchIntegration.engineName; të krijojë treguesa dhe të kërkojë nëpër postë dhe mesazhe të rinj të &brandShortName;-it?">
+
+<!ENTITY searchIntegration.accept "Aktivizoje &searchIntegration.engineName;">
+<!ENTITY searchIntegration.cancel "Mos e Aktivizo  &searchIntegration.engineName;">
