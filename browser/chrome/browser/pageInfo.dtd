@@ -20,8 +20,6 @@
 <!ENTITY generalEncoding "Енкодинг:">
 <!ENTITY generalMetaName "Име">
 <!ENTITY generalMetaContent "Содржина">
-<!ENTITY generalSecurityMore "Повеќе">
-<!ENTITY generalSecurityMore.accesskey "о">
 <!ENTITY mediaTab "Медиум">
 <!ENTITY mediaTab.accesskey "М">
 <!ENTITY mediaLocation "Локација:">

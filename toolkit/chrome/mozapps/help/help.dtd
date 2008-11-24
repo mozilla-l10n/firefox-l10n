@@ -19,9 +19,6 @@
 <!ENTITY printButton.label "Печати">
 <!ENTITY printButton.tooltip "Ја печати оваа страница">
 <!ENTITY closeWindow.commandkey "W">
-<!ENTITY searchtab.label "Барај">
-<!ENTITY searchtab.accesskey "Б">
-<!ENTITY searchClose.tooltip "Ги затвора резултатите од пребарувањето">
 <!ENTITY toctab.label "Содржина">
 <!ENTITY toctab.accesskey "С">
 <!ENTITY fullZoomReduceCmd.commandkey "-">

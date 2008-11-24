@@ -1,8 +1,3 @@
-<!ENTITY newPagesIn.label "Новите страници треба да се отвораат во:">
-<!ENTITY inNewWindow.label "нов прозорец">
-<!ENTITY inNewWindow.accesskey "в">
-<!ENTITY inNewTab.label "ново јазиче">
-<!ENTITY inNewTab.accesskey "н">
 <!ENTITY warnCloseMultipleTabs.label "Предупреди ме кога затворам повеќе јазичиња">
 <!ENTITY warnCloseMultipleTabs.accesskey "м">
 <!ENTITY warnOpenManyTabs.label "Предупреди ме кога отворањето на повеќе јазичиња може да го забави &brandShortName;">

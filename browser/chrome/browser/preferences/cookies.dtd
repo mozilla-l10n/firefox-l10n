@@ -18,7 +18,5 @@
 <!ENTITY focusSearch2.key "k">
 <!ENTITY filter.label "Барај:">
 <!ENTITY filter.accesskey "Б">
-<!ENTITY clear.label "Исчисти">
-<!ENTITY clear.accesskey "с">
 <!ENTITY button.close.label "Затвори">
 <!ENTITY button.close.accesskey "З">
