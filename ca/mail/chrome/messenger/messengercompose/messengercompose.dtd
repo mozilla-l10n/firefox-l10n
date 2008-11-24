@@ -46,11 +46,6 @@
 <!ENTITY printCmd.label "Imprimeix…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "p">
-<!ENTITY quitApplicationCmdWin.label "Surt">
-<!ENTITY quitApplicationCmdWin.accesskey "u">
-<!ENTITY quitApplicationCmd.label "Surt">
-<!ENTITY quitApplicationCmd.accesskey "u">
-<!ENTITY quitApplicationCmd.key "Q">
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "Edita">
@@ -70,11 +65,11 @@
 <!ENTITY pasteCmd.label "Enganxa">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "x">
+<!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY editRewrapCmd.label "Torna a ajustar">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "j">
 <!ENTITY deleteCmd.label "Suprimeix">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "u">
 <!ENTITY selectAllCmd.label "Selecciona-ho tot">
 <!ENTITY selectAllCmd.key "A">
@@ -97,7 +92,6 @@
 <!ENTITY viewToolbarsMenuNew.label "Barres d'eines">
 <!ENTITY viewToolbarsMenuNew.accesskey "B">
 <!ENTITY showCompositionToolbarCmd.label "Barra de redacció">
-<!ENTITY showCompositionToolbarCmd.accesskey "r">
 <!ENTITY showFormattingBarCmd.label "Barra de format">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Barra d'estat">
@@ -172,7 +166,6 @@
 <!ENTITY accountManagerCmd.accesskey "P">
 <!ENTITY accountManagerCmdUnix.accesskey "s">
 <!ENTITY preferencesCmd.label "Opcions…">
-<!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferències">
 <!ENTITY preferencesCmdUnix.accesskey "n">
@@ -220,9 +213,6 @@
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
 <!ENTITY SmileButton.tooltip "Insereix una cara somrient">
 <!ENTITY smiley1Cmd.label "Somriure">
 <!ENTITY smiley2Cmd.label "Enfadat">
