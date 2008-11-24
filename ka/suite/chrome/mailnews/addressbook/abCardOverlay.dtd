@@ -67,7 +67,6 @@
 <!ENTITY NickName.label                 "მეტსახელი:">
 <!ENTITY NickName.accesskey             "N">
 
-<!ENTITY Internet.box                   "ინტერნეტი">
 <!ENTITY PrimaryEmail.label             "ელფოსტა:">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "დამატებითი ელფოსტა:">
