@@ -20,7 +20,7 @@
 <!ENTITY identityDesc.label "Chaque compte est associé à une identité qui regroupe les informations vous identifiant lorsque vos destinataires reçoivent un message de votre part.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY fullnameDesc.label "Entrez le nom que vous souhaitez voir dans le champ « De : » pour les messages que vous envoyez">
+<!ENTITY fullnameDesc.label "Saisissez le nom que vous souhaitez voir dans le champ « De : » pour les messages que vous envoyez">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
 	1, do not translate two of "&quot;"
 	2, Use localized full name instead of "John Smith"
@@ -37,13 +37,13 @@
 <!ENTITY serverTitle.label "Information sur le serveur">
 <!ENTITY incomingServerTypeDesc.label "Sélectionnez le type du serveur de réception.">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Entrez le nom du serveur de réception (par exemple, « pop.exemple.fr »).">
+<!ENTITY incomingServerNameDesc.label "Saisissez le nom du serveur de réception (par exemple, « pop.exemple.fr »).">
 <!ENTITY incomingServerLabel.label "Nom du serveur :">
 <!ENTITY incomingServerLabel.accesskey "N">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Entrez le nom de votre serveur de groupes (NNTP) (par exemple, « groupes.exemple.fr »).">
+<!ENTITY newsServerNameDesc.label "Saisissez le nom de votre serveur de groupes (NNTP) (par exemple, « groupes.exemple.fr »).">
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "Entrez le nom du serveur d'envoi (SMTP) (par exemple, « smtp.exemple.fr »).">
+<!ENTITY smtpServerDesc.label "Saisissez le nom du serveur d'envoi (SMTP) (par exemple, « smtp.exemple.fr »).">
 <!ENTITY smtpServerLabel.label "Nom du serveur :">
 <!ENTITY smtpServerLabel.accesskey "s">
 <!ENTITY newsServerLabel.label "Serveur de groupes :">
@@ -65,12 +65,12 @@
 <!-- Entities for Login page -->
 
 <!ENTITY loginTitle.label "Nom d'utilisateurs">
-<!ENTITY usernameDesc.label "Entrez le nom d'utilisateur entrant donné par votre fournisseur de courrier">
+<!ENTITY usernameDesc.label "Saisissez le nom d'utilisateur entrant donné par votre fournisseur de courrier">
 <!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY usernameExample.label "(par exemple, « pmartin »).">
 <!ENTITY usernameLabel.label "Nom d'utilisateur entrant :">
 <!ENTITY usernameLabel.accesskey "N">
-<!ENTITY usernameSmtpDesc.label "Entrez le nom d'utilisateur sortant donné par votre fournisseur de courrier (il est, en principe, identique au nom d'utilisateur entrant).">
+<!ENTITY usernameSmtpDesc.label "Saisissez le nom d'utilisateur sortant donné par votre fournisseur de courrier (il est, en principe, identique au nom d'utilisateur entrant).">
 <!ENTITY usernameSmtpLabel.label "Nom d'utilisateur sortant :">
 <!ENTITY usernameSmtpLabel.accesskey "o">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
@@ -90,7 +90,7 @@
 
 <!ENTITY accnameTitle.label "Nom du compte ">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
-<!ENTITY accnameDesc.label "Entrez le nom avec lequel vous souhaitez vous référer à ce compte (par exemple « Compte Travail », « Compte personnel » ou « Compte groupes »).">
+<!ENTITY accnameDesc.label "Saisissez le nom avec lequel vous souhaitez vous référer à ce compte (par exemple « Compte Travail », « Compte personnel » ou « Compte groupes »).">
 <!ENTITY accnameLabel.label "Nom du compte :">
 <!ENTITY accnameLabel.accesskey "c">
 

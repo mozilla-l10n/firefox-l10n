@@ -54,7 +54,7 @@
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Nettoyer le dossier « Courrier entrant » en quittant Thunderbird.">
 <!ENTITY expungeOnExit.accesskey "e">
-<!ENTITY emptyTrashOnExit.label "Vider la corbeille lors de la sortie.">
+<!ENTITY emptyTrashOnExit.label "Vider la corbeille en quittant.">
 <!ENTITY emptyTrashOnExit.accesskey "d">
 <!ENTITY loginAtStartup.label "Vérifier le courrier au lancement">
 <!ENTITY loginAtStartup.accesskey "r">
