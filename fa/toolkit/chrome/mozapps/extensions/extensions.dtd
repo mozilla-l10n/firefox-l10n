@@ -1,7 +1,7 @@
 <!ENTITY addons.title                     "افزودنی‌ها">
 
 <!-- Default window size for the addon manager in pixels -->
-<!ENTITY em.width                         "580">
+<!ENTITY em.width                         "520">
 <!ENTITY em.height                        "380">
 
 <!ENTITY cmd.info.commandKey              "i">
@@ -9,7 +9,7 @@
 <!ENTITY cmd.close.commandKey             "w">
 
 <!-- View labels -->
-<!ENTITY search.label                     "Get Add-ons">
+<!ENTITY search.label                     "دریافت افزودنی‌ها">
 <!ENTITY extensions.label                 "ضمیمه‌ها">
 <!ENTITY themes.label                     "تم‌ها">
 <!ENTITY locales.label                    "زبان‌ها">
@@ -29,9 +29,9 @@
 <!ENTITY cmd.installUpdatesAll.label      "نصب به‌هنگام‌سازی‌ها">
 <!ENTITY cmd.installUpdatesAll.accesskey  "ن">
 <!ENTITY cmd.installUpdatesAll.tooltip    "به‌هنگام‌سازی‌های انتخاب شده را نصب می‌کند">
-<!ENTITY cmd.restartApp2.label            "Restart &brandShortName;">
-<!ENTITY cmd.restartApp2.accesskey        "R">
-<!ENTITY cmd.restartApp2.tooltip          "Restart &brandShortName; to apply changes">
+<!ENTITY cmd.restartApp2.label            "راه‌اندازی مجدد &brandShortName;">
+<!ENTITY cmd.restartApp2.accesskey        "ر">
+<!ENTITY cmd.restartApp2.tooltip          "را‌ه‌اندازی مجدد &brandShortName; برای اعمال تغییرات">
 <!ENTITY cmd.skip.label                   "پرش">
 <!ENTITY cmd.skip.accesskey               "پ">
 <!ENTITY cmd.skip.tooltip                 "پریدن از این به‌هنگام‌سازی‌ها">
@@ -68,24 +68,24 @@
 <!ENTITY cmd.cancelUninstall.label        "انصراف از عزل">
 <!ENTITY cmd.cancelUninstall.accesskey    "ا">
 <!ENTITY cmd.cancelUninstall.tooltip      "انصراف از عزل کردن این افزودنی">
-<!ENTITY cmd.cancelInstall.label          "Cancel Install">
-<!ENTITY cmd.cancelInstall.accesskey      "C">
-<!ENTITY cmd.cancelInstall.tooltip        "Cancel the install of this Add-on">
-<!ENTITY cmd.cancelUpgrade.label          "Cancel Upgrade">
-<!ENTITY cmd.cancelUpgrade.accesskey      "C">
-<!ENTITY cmd.cancelUpgrade.tooltip        "Cancel the upgrade of this Add-on">
+<!ENTITY cmd.cancelInstall.label          "لغو نصب">
+<!ENTITY cmd.cancelInstall.accesskey      "ل">
+<!ENTITY cmd.cancelInstall.tooltip        "لغو نصب این افزودنی">
+<!ENTITY cmd.cancelUpgrade.label          "لغو ارتقا">
+<!ENTITY cmd.cancelUpgrade.accesskey      "ل">
+<!ENTITY cmd.cancelUpgrade.tooltip        "لغو ارتقاء این افزودنی">
 <!ENTITY cmd.installUpdate.label          "در حال نصب به‌هنگام‌سازی">
 <!ENTITY cmd.installUpdate.accesskey      "د">
 <!ENTITY cmd.installUpdate.tooltip        "نصب یک به‌هنگام‌سازی برای این افزودنی">
-<!ENTITY cmd.showUpdateInfo.label         "Show Information">
-<!ENTITY cmd.showUpdateInfo.accesskey     "S">
-<!ENTITY cmd.showUpdateInfo.tooltip       "Show more information about these updates">
-<!ENTITY cmd.hideUpdateInfo.label         "Hide Information">
-<!ENTITY cmd.hideUpdateInfo.accesskey     "H">
-<!ENTITY cmd.hideUpdateInfo.tooltip       "Hide information about these updates">
-<!ENTITY cmd.installSearchResult.label     "Add to &brandShortName;…">
-<!ENTITY cmd.installSearchResult.accesskey "A">
-<!ENTITY cmd.installSearchResult.tooltip   "Download and install this add-on">
+<!ENTITY cmd.showUpdateInfo.label         "نمایش اطلاعات">
+<!ENTITY cmd.showUpdateInfo.accesskey     "ن">
+<!ENTITY cmd.showUpdateInfo.tooltip       "نمایش اطلاعات بیشتر دربارهٔ این به‌هنگام‌سازی‌ها">
+<!ENTITY cmd.hideUpdateInfo.label         "مخفی کردن اطلاعات">
+<!ENTITY cmd.hideUpdateInfo.accesskey     "م">
+<!ENTITY cmd.hideUpdateInfo.tooltip       "مخفی کردن اطلاعات دربارهٔ این به‌هنگام‌سازی‌ها">
+<!ENTITY cmd.installSearchResult.label     "افزودن به &brandShortName;…">
+<!ENTITY cmd.installSearchResult.accesskey "ف">
+<!ENTITY cmd.installSearchResult.tooltip   "بارگیری و نصب این افزودنی">
 <!-- The selected add-on's cancel action button label -->
 <!ENTITY cancel.label                     "انصراف">
 <!ENTITY cancel.accesskey                 "ن">
@@ -109,66 +109,66 @@
 <!ENTITY includeUpdate.tooltip            "نصب به‌هنگام‌سازی‌ها شامل این افزودنی نیز شود">
 
 <!-- Status Messsages -->
-<!ENTITY insecureUpdate.label             "Does not provide secure updates.">
+<!ENTITY insecureUpdate.label             "امکان به‌هنگام‌سازی امن فراهم نمی‌کند.">
 <!ENTITY needsDependencies.label          "به موارد دیگری نیاز دارد.">
 <!ENTITY blocklisted.label                "برای احتیاط غیرفعال شد.">
-<!ENTITY softBlocklisted.label            "Known to cause security or stability issues.">
+<!ENTITY softBlocklisted.label            "ایرادات امنیتی یا پایداری به وجود می‌آورد.">
 <!ENTITY toBeDisabled.label               "این افزودنی بعد از راه‌اندازی مجدد &brandShortName; از کار خواهد افتاد.">
 <!ENTITY toBeEnabled.label                "این افزودنی بعد از راه‌اندازی مجدد &brandShortName; به کار خواهد افتاد.">
 <!ENTITY toBeInstalled.label              "این افزودنی پس از راه‌اندازی مجدد &brandShortName; نصب خواهد شد.">
 <!ENTITY toBeUninstalled.label            "این افزودنی پس از راه‌اندازی مجدد &brandShortName; عزل خواهد شد.">
-<!ENTITY toBeUpdated.label                "This add-on will be updated when &brandShortName; is restarted.">
+<!ENTITY toBeUpdated.label                "این افزودنی هنگامی که &brandShortName; مجدداً شروع به کار کند، به‌هنگام می‌شود.">
 
 <!ENTITY getExtensions.label              "گرفتن ضمیمهٔ جدید">
 <!ENTITY getThemes.label                  "گرفتن تم جدید">
-<!ENTITY getPlugins.label                 "Get Plugins">
+<!ENTITY getPlugins.label                 "دریافت متصل‌شونده‌ها">
 
-<!ENTITY searchAddons.label               "Search All Add-ons">
-<!ENTITY browseAddons.label               "Browse All Add-ons">
-<!ENTITY searchFailed.label               "&brandShortName; couldn't retrieve add-ons">
-<!ENTITY recommendedHeader.label          "Recommended">
-<!ENTITY recommendedThrobber.label        "Retrieving recommended add-ons">
-<!ENTITY searchThrobber.label             "Searching add-ons">
-<!ENTITY resetSearch.label                "Clear Results">
-<!ENTITY noSearchResults.label            "All results are already installed or incompatible.">
-<!ENTITY noRecommendedResults.label       "All recommendations are already installed or incompatible.">
-<!ENTITY emptySearch.label                "No matching add-ons">
+<!ENTITY searchAddons.label               "جستجوی تمام افزودنی‌ها">
+<!ENTITY browseAddons.label               "مرور تمام افزودنی‌ها">
+<!ENTITY searchFailed.label               "&brandShortName; موفق به دریافت افزودنی‌ها نشد">
+<!ENTITY recommendedHeader.label          "پیشنهاد شده">
+<!ENTITY recommendedThrobber.label        "دریافت افزودنی‌های پیشنهاد شده">
+<!ENTITY searchThrobber.label             "جستجو در افزودنی‌ها">
+<!ENTITY resetSearch.label                "پاک‌سازی نتایج">
+<!ENTITY noSearchResults.label            "تمام نتایج یا قبلاً نصب شده‌اند یا ناسازگار هستند.">
+<!ENTITY noRecommendedResults.label       "تمام موارد پیشنهاد شده یا قبلاً نصب شده‌اند یا ناسازگار هستند.">
+<!ENTITY emptySearch.label                "افزودنی مطابقی پیدا نشد">
 <!ENTITY emptySearch.button               "تأیید">
 <!ENTITY cancelSearch.button              "انصراف">
 <!ENTITY searchFailed.button              "تأیید">
-<!ENTITY searchResultHomepage.value       "Learn More">
-<!ENTITY searchBox.label                  "Search All Add-ons">
+<!ENTITY searchResultHomepage.value       "بیشتر بدانید">
+<!ENTITY searchBox.label                  "جستجوی تمام افزودنی‌ها">
 <!ENTITY recommendedResults.label         "مشاهدهٔ تمام افزودنی‌های پیشنهاد شده">
-<!ENTITY searchResultConnecting.label     "Connecting…">
+<!ENTITY searchResultConnecting.label     "در حال اتصال…">
 <!ENTITY searchResultInstalling.label     "در حال نصب…">
 <!ENTITY searchResultFailed.label         "نصب شکست خورد">
-<!ENTITY searchResultInstalled.label      "Install Complete">
+<!ENTITY searchResultInstalled.label      "نصب تمام شد">
 <!ENTITY addonTypeExtension.label         "ضمیمه">
 <!ENTITY addonTypeTheme.label             "تم">
-<!ENTITY missingThumbnail.label           "No Preview">
+<!ENTITY missingThumbnail.label           "پیش‌نمایشی وجود ندارد">
 
 <!ENTITY previewNoThemeSelected.label     "هیچ تم‌ای انتخاب نشده است">
 <!ENTITY previewNoPreviewImage.label      "این تم تصویر پیش‌نمایش ندارد">
 <!ENTITY moreInfo.label                   "اطلاعات بیشتر">
-<!ENTITY infoNoAddonSelected.label        "No Update Selected">
-<!ENTITY infoNoUpdateInfo.label           "This update does not have any additional information">
-<!ENTITY infoUpdateInfoError.label        "There was an error loading the information about this update">
+<!ENTITY infoNoAddonSelected.label        "به‌هنگام‌سازی‌ای انتخاب نشده است">
+<!ENTITY infoNoUpdateInfo.label           "این به‌هنگام‌سازی اطلاعات بیشتری ندارد">
+<!ENTITY infoUpdateInfoError.label        "خطایی در هنگام دریافت اطلاعات این به‌هنگام‌سازی روی داد">
 
 <!ENTITY updateSuccess.label              "به‌هنگام‌سازی با موفقیت تمام شد.">
 <!ENTITY installSuccess.label             "نصب با موفقیت تمام شد.">
 <!ENTITY installSuccessRestart.label      "برای اتمام نصب برنامه را دوباره راه‌اندازی کنید.">
-<!ENTITY updateSuccessRestart.label       "Restart to complete the update.">
+<!ENTITY updateSuccessRestart.label       "برای تکمیل به‌هنگام‌سازی راه‌اندازی مجدد لازم است.">
 <!ENTITY installWaiting.label             "در حال انتظار…">
 <!ENTITY installIncompatibleUpdate.label  "بررسی سازگاری…">
 <!ENTITY installFinishing.label           "در حال نصب…">
 <!ENTITY installFailure.label             "نصب شکست خورد.">
 
-<!ENTITY progressStatus.label             "Checking For Updates">
+<!ENTITY progressStatus.label             "گشتن به دنبال به‌هنگام‌سازی‌ها">
 
-<!ENTITY eula.title                       "End-User License Agreement">
+<!ENTITY eula.title                       "توافق‌نامهٔ مجوز کاربر نهایی">
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
-<!ENTITY eula.accept                      "Accept and Install…">
+<!ENTITY eula.accept                      "پذیرش و نصب…">
 
-<!ENTITY blocklist.blocked.label          "Blocked">
+<!ENTITY blocklist.blocked.label          "باز داشته شده">
 <!ENTITY blocklist.checkbox.label         "از کار انداختن">

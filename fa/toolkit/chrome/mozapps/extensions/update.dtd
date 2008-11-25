@@ -48,7 +48,7 @@
 
 <!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "برای ادامهٔ آغاز &brandShortName; روی اتمام کلیک کنید.">
-<!ENTITY  clickFinish.labelMac            "Click Done to continue starting &brandShortName;.">
+<!ENTITY  clickFinish.labelMac            "برای ادامه دادن به شروع &brandShortName;، دکمهٔ «انجام شد» را فشار دهید.">
 <!ENTITY  enableChecking.label            "اجازه دادن به  &brandShortName; برای جمع‌آوری اطلاعات در مورد به‌هنگام‌سازی‌ها.">
 <!ENTITY  details.label                   "جزئیات…">
 <!ENTITY  details.accesskey               "ج">
