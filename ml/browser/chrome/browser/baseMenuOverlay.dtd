@@ -16,10 +16,10 @@
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.commandkey "VK_HELP">
-<!ENTITY openHelpMac2.commandkey "/">
-<!ENTITY openHelpMac2.modifiers "അക്സെല്‍,shift">
-<!ENTITY openHelpMac2.frontendCommandkey "?">
-<!ENTITY openHelpMac2.frontendModifiers "അക്സെല്‍ ">
+<!-- ENTITY openHelpMac2.commandkey "/" -->
+<!-- ENTITY openHelpMac2.modifiers "അക്സെല്‍,shift" -->
+<!-- ENTITY openHelpMac2.frontendCommandkey "?" -->
+<!-- ENTITY openHelpMac2.frontendModifiers "അക്സെല്‍" -->
 <!ENTITY helpReleaseNotes.label "റിലീസ്‌ നോട്ടുകള്‍">
 <!ENTITY helpReleaseNotes.accesskey "N">
 <!ENTITY updateCmd.label "അപ്പ്ഡേറ്റുകള്‍ക്കു വേണ്ടി ചെക്ക്‌ ചെയ്യുക ">
