@@ -121,3 +121,8 @@
 <!ENTITY todaypane.showNone.accesskey "N">
 <!ENTITY todaypane.showTodayPane.label "අද දවසේ තලය පෙන්නන්න">
 <!ENTITY todaypane.showTodayPane.accesskey "o">
+
+<!-- Toolbar write button -->
+<!ENTITY lightning.toolbar.newevent.label     "සිදුවීම">
+<!ENTITY lightning.toolbar.newtask.label      "කාර්යය">
+<!ENTITY todaypane.statusButton.label "දවසේ තලය">
