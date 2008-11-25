@@ -1,3 +1,5 @@
+<!-- extracted from finddialog.xul -->
+
 <!ENTITY findDialog.title "在页面中查找">
 <!ENTITY findField.label "查找：">
 <!ENTITY findField.accesskey "n">

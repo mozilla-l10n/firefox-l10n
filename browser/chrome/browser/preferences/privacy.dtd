@@ -1,32 +1,55 @@
-<!ENTITY history.label "历史">
-<!ENTITY rememberDaysBefore.label "保存我的访问历史，至少">
-<!ENTITY rememberDaysBefore.accesskey "h">
-<!ENTITY rememberDaysAfter2.label "天">
-<!ENTITY rememberForms.label "记住我在表单和搜索栏中输入的内容">
-<!ENTITY rememberForms.accesskey "f">
-<!ENTITY rememberDownloads.label "记住已下载内容">
-<!ENTITY rememberDownloads.accesskey "d">
-<!ENTITY cookies.label "Cookies">
-<!ENTITY acceptCookies.label "接受站点的 cookie">
-<!ENTITY acceptCookies.accesskey "c">
-<!ENTITY acceptThirdParty.label "接受第三方 cookie">
-<!ENTITY acceptThirdParty.accesskey "p">
-<!ENTITY keepUntil.label "保存，直到：">
-<!ENTITY keepUntil.accesskey "K">
-<!ENTITY expire.label "它们过期">
-<!ENTITY close.label "我退出 &brandShortName;">
-<!ENTITY askEachTime.label "每次均询问">
-<!ENTITY cookieExceptions.label "例外…">
-<!ENTITY cookieExceptions.accesskey "E">
-<!ENTITY showCookies.label "显示 Cookie…">
-<!ENTITY showCookies.accesskey "S">
-<!ENTITY privateData.label "隐私数据">
-<!ENTITY alwaysClear.label "退出 &brandShortName; 时自动清除我的隐私数据">
-<!ENTITY alwaysClear.accesskey "w">
-<!ENTITY askBeforeClear.label "清除隐私数据之前询问我">
-<!ENTITY askBeforeClear.accesskey "A">
-<!ENTITY clearDataSettings.label "设置…">
-<!ENTITY clearDataSettings.accesskey "t">
-<!ENTITY clearDataNow.label "立即清除…">
-<!ENTITY clearDataNow.label2 "立即清除">
-<!ENTITY clearDataNow.accesskey "N">
+<!ENTITY  history.label "历史">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
+-->
+<!ENTITY  rememberDaysBefore.label      "保存我的访问历史，至少">
+<!ENTITY  rememberDaysBefore.accesskey  "h">
+<!ENTITY  rememberDaysAfter2.label      "天">
+
+<!ENTITY  rememberForms.label           "记住我在表单和搜索栏中输入的内容">
+<!ENTITY  rememberForms.accesskey       "f">
+
+<!ENTITY  rememberDownloads.label       "记住已下载内容">
+<!ENTITY  rememberDownloads.accesskey   "d">
+
+
+<!ENTITY  cookies.label                 "Cookies">
+
+<!ENTITY  acceptCookies.label           "接受站点的 cookie">
+<!ENTITY  acceptCookies.accesskey       "c">
+
+<!ENTITY  acceptThirdParty.label        "接受第三方 cookie">
+<!ENTITY  acceptThirdParty.accesskey    "接">
+
+<!ENTITY  keepUntil.label               "保存，直到：">
+<!ENTITY  keepUntil.accesskey           "K">
+
+<!ENTITY  expire.label                  "它们过期">
+<!ENTITY  close.label                   "我退出 &brandShortName;">
+<!ENTITY  askEachTime.label             "每次均询问">
+
+<!ENTITY  cookieExceptions.label        "例外…">
+<!ENTITY  cookieExceptions.accesskey    "E">
+
+<!ENTITY  showCookies.label             "显示 Cookie…">
+<!ENTITY  showCookies.accesskey         "显">
+
+
+<!ENTITY  privateData.label             "隐私数据">
+
+<!ENTITY  alwaysClear.label              "退出 &brandShortName; 时自动清除我的隐私数据">
+<!ENTITY  alwaysClear.accesskey          "b">
+
+<!ENTITY  askBeforeClear.label           "清除隐私数据之前询问我">
+<!ENTITY  askBeforeClear.accesskey       "A">
+
+<!ENTITY  clearDataSettings.label        "设置…">
+<!ENTITY  clearDataSettings.accesskey    "t">
+
+<!ENTITY  clearDataNow.label             "立即清除…">
+<!ENTITY  clearDataNow.label2            "立即清除">
+<!ENTITY  clearDataNow.accesskey         "N">
