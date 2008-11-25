@@ -1,12 +1,13 @@
-<!ENTITY securityWarnings.title "安全警告">
-<!ENTITY security.warn_when "显示警告，当：">
-<!ENTITY security.warn_entering_secure.label "我将访问加密页时。">
-<!ENTITY security.warn_entering_secure.accesskey "v">
-<!ENTITY security.warn_entering_weak.label "我将访问弱加密页面时。">
-<!ENTITY security.warn_entering_weak.accesskey "g">
-<!ENTITY security.warn_leaving_secure.label "我从加密页转到非加密页面时。">
-<!ENTITY security.warn_leaving_secure.accesskey "l">
-<!ENTITY security.warn_submit_insecure.label "我提交未加密信息时。">
-<!ENTITY security.warn_submit_insecure.accesskey "s">
-<!ENTITY security.warn_viewing_mixed.label "我将访问包含未加密信息的加密页面时。">
-<!ENTITY security.warn_viewing_mixed.accesskey "u">
+<!ENTITY securityWarnings.title                   "安全警告">
+
+<!ENTITY security.warn_when                       "显示警告，当：">
+<!ENTITY security.warn_entering_secure.label      "我将访问加密页时。">
+<!ENTITY security.warn_entering_secure.accesskey  "v">
+<!ENTITY security.warn_entering_weak.label        "我将访问弱加密页面时。">
+<!ENTITY security.warn_entering_weak.accesskey    "g">
+<!ENTITY security.warn_leaving_secure.label       "我从加密页转到非加密页面时。">
+<!ENTITY security.warn_leaving_secure.accesskey   "l">
+<!ENTITY security.warn_submit_insecure.label      "我提交未加密信息时。">
+<!ENTITY security.warn_submit_insecure.accesskey  "s">
+<!ENTITY security.warn_viewing_mixed.label        "我将访问包含未加密信息的加密页面时。">
+<!ENTITY security.warn_viewing_mixed.accesskey    "u">

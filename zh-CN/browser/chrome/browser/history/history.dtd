@@ -1,9 +1,9 @@
-<!ENTITY find.label "查找：">
-<!ENTITY find.accesskey "S">
-<!ENTITY expand.label "展开">
-<!ENTITY expand.accesskey "E">
-<!ENTITY collapse.label "折叠">
-<!ENTITY collapse.accesskey "C">
+<!ENTITY find.label                "查找：">
+<!ENTITY find.accesskey            "S">
+<!ENTITY expand.label              "展开">
+<!ENTITY expand.accesskey          "E">
+<!ENTITY collapse.label            "折叠">
+<!ENTITY collapse.accesskey        "C">
 <!ENTITY byDate.label "按日期">
 <!ENTITY byDate.accesskey "D">
 <!ENTITY bySite.label "按站点">

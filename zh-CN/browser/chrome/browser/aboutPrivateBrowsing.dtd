@@ -1,9 +1,13 @@
-<!ENTITY privatebrowsingpage.tabtitle "隐私浏览">
-<!ENTITY privatebrowsingpage.pagetitle "隐私浏览">
-<!ENTITY privatebrowsingpage.issueDesc "&brandShortName; 将不记录本次会话的任何历史记录。">
-<!ENTITY privatebrowsingpage.longDesc "&brandShortName; 将不记录本次浏览会话中的任何浏览历史记录、下载记录、网页表单信息、cookie以及临时网络文件。但是，您下载的文件或者添加的书签会被保留。">
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc "您可能想要在开始前清除最近的历史记录。">
-<!ENTITY privatebrowsingpage.recentHistory.label "清空最近历史记录">
-<!ENTITY privatebrowsingpage.recentHistory.accesskey "C">
-<!ENTITY privatebrowsingpage.howToStopDesc "要离开隐私浏览模式，请取消选中 工具 &gt; 隐私浏览。">
-<!ENTITY privatebrowsingpage.footerDesc "尽情享受吧！">
+<!ENTITY privatebrowsingpage.tabtitle                  "隐私浏览">
+
+<!ENTITY privatebrowsingpage.pagetitle                 "隐私浏览">
+
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; 将不记录本次会话的任何历史记录。">
+<!ENTITY privatebrowsingpage.longDesc                  "&brandShortName; 将不记录本次浏览会话中的任何浏览历史记录、下载记录、网页表单信息、cookie以及临时网络文件。但是，您下载的文件或者添加的书签会被保留。">
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "您可能想要在开始前清除最近的历史记录。">
+<!ENTITY privatebrowsingpage.recentHistory.label       "清空最近历史记录">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey   "C">
+
+<!ENTITY privatebrowsingpage.howToStopDesc             "要离开隐私浏览模式，请取消选中 工具 &gt; 隐私浏览。">
+<!ENTITY privatebrowsingpage.footerDesc                "尽情享受吧！">

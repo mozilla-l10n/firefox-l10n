@@ -1,14 +1,19 @@
-<!ENTITY about.version "版本">
-<!ENTITY about.copy.beforeLink "版权所有 &copy; 1998-2008 由">
-<!ENTITY about.copy.linkTitle "贡献者">
-<!ENTITY about.copy.afterLink "至 Mozilla  项目">
-<!ENTITY about.license.beforeLink "请阅读">
-<!ENTITY about.license.linkTitle "版权信息">
-<!ENTITY about.license.afterLink "为此项目">
-<!ENTITY about.relnotes.beforeLink "请阅读">
-<!ENTITY about.relnotes.linkTitle "发行说明">
-<!ENTITY about.relnotes.afterLink "为此版本">
+<!ENTITY about.version                "版本">
+
+<!ENTITY about.copy.beforeLink        "版权所有 &copy; 1998-2008 由">
+<!ENTITY about.copy.linkTitle         "贡献者">
+<!ENTITY about.copy.afterLink         "至 Mozilla  项目">
+
+<!ENTITY about.license.beforeLink     "请阅读">
+<!ENTITY about.license.linkTitle      "版权信息">
+<!ENTITY about.license.afterLink      "为此项目">
+
+<!ENTITY about.relnotes.beforeLink    "请阅读">
+<!ENTITY about.relnotes.linkTitle     "发行说明">
+<!ENTITY about.relnotes.afterLink     "为此版本">
+
 <!ENTITY about.buildconfig.beforeLink "查看在本版本中使用的">
-<!ENTITY about.buildconfig.linkTitle "构建配置">
-<!ENTITY about.buildconfig.afterLink "。">
-<!ENTITY about.buildIdentifier "构建编号">
+<!ENTITY about.buildconfig.linkTitle  "构建配置">
+<!ENTITY about.buildconfig.afterLink  "。">
+
+<!ENTITY about.buildIdentifier        "构建编号">

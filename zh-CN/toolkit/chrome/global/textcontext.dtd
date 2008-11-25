@@ -10,6 +10,7 @@
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY deleteCmd.label "删除">
 <!ENTITY deleteCmd.accesskey "d">
+
 <!ENTITY spellAddToDictionary.label "添加至字典">
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellCheckEnable.label "拼写检查">

@@ -1,20 +1,28 @@
+<!-- extracted from printdialog.xul -->
+
 <!ENTITY printButton.label "打印">
+
 <!ENTITY printDialog.title "打印">
+
 <!ENTITY fpDialog.title "保存文件">
+
 <!ENTITY fileCheck.label "打印至文件">
 <!ENTITY propertiesButton.label "属性…">
 <!ENTITY descText.label "打印机描述：">
 <!ENTITY printer.label "打印机">
 <!ENTITY printerInput.label "打印机名称：">
+
 <!ENTITY printrangeGroup.label "打印范围">
 <!ENTITY allpagesRadio.label "全部页">
-<!ENTITY rangeRadio.label "页">
-<!ENTITY frompageInput.label "来自">
-<!ENTITY topageInput.label "到">
+<!ENTITY rangeRadio.label  "页">
+<!ENTITY frompageInput.label  "来自">
+<!ENTITY topageInput.label  "到">
 <!ENTITY selectionRadio.label "选择">
+
 <!ENTITY copies.label "份">
 <!ENTITY numCopies.label "份数：">
+
 <!ENTITY printframeGroup.label "打印多帧">
 <!ENTITY aslaidoutRadio.label "如屏幕所示布局">
-<!ENTITY selectedframeRadio.label "所选帧">
-<!ENTITY eachframesepRadio.label "分开打印各帧">
+<!ENTITY selectedframeRadio.label  "所选帧">
+<!ENTITY eachframesepRadio.label  "分开打印各帧">

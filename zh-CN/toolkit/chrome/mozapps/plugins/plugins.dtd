@@ -1,18 +1,25 @@
-<!ENTITY pluginWizard.title "插件搜索服务">
-<!ENTITY pluginWizard.firstPage.title "欢迎使用 &pluginWizard.title;">
-<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; 正在检查可用插件…">
-<!ENTITY pluginWizard.availablePluginsPage.title "可用插件下载">
+<!ENTITY pluginWizard.title                                  "插件搜索服务">
+<!ENTITY pluginWizard.firstPage.title                        "欢迎使用 &pluginWizard.title;">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; 正在检查可用插件…">
+
+<!ENTITY pluginWizard.availablePluginsPage.title             "可用插件下载">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "如下插件可用：">
 <!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "请单击“下一步”安装这些插件">
-<!ENTITY pluginWizard.availablePluginsPage.installerUI "某些插件可能在安装时需要从您获取更多信息。">
-<!ENTITY pluginWizard.licensePage.title "插件版权协议">
-<!ENTITY pluginWizard.licensePage.accept.label "我同意。">
-<!ENTITY pluginWizard.licensePage.deny.label "不同意（插件将不被安装）。">
-<!ENTITY pluginWizard.installPluginsPage.title "安装插件">
-<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName; 正在安装插件…">
-<!ENTITY pluginWizard.finalPage.description.label "&brandShortName; 已完成安装缺失的插件：">
-<!ENTITY pluginWizard.finalPage.moreInfo.label "查找更多或者手动查找缺失插件。">
-<!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; 需要重启以启用插件。">
-<!ENTITY missingPlugin.label "点击此处下载插件。">
-<!ENTITY disabledPlugin.label "对此内容的插件已被禁用。请点击此处管理插件。">
-<!ENTITY blockedPlugin.label "为保护您的信息安全，此插件已被阻止">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "某些插件可能在安装时需要从您获取更多信息。">
+
+<!ENTITY pluginWizard.licensePage.title                      "插件版权协议">
+<!ENTITY pluginWizard.licensePage.accept.label               "我同意。">
+<!ENTITY pluginWizard.licensePage.deny.label                 "不同意（插件将不被安装）。">
+
+<!ENTITY pluginWizard.installPluginsPage.title               "安装插件">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; 正在安装插件…">
+
+<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; 已完成安装缺失的插件：">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "查找更多或者手动查找缺失插件。">
+<!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; 需要重启以启用插件。">
+  
+<!ENTITY missingPlugin.label                                 "点击此处下载插件。">
+<!ENTITY disabledPlugin.label                                "对此内容的插件已被禁用。请点击此处管理插件。">
+<!ENTITY blockedPlugin.label                                 "为保护您的信息安全，此插件已被阻止">

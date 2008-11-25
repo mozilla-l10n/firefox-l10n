@@ -1,5 +1,9 @@
-<!ENTITY incompatible.title "不兼容项">
-<!ENTITY incompatible.intro "以下项目与 &brandShortName;的更新不兼容。安装后将被禁用：">
-<!ENTITY incompatible.update "&brandShortName; 将定期检查更新直到有可用兼容更新。">
-<!ENTITY incompatible.suffix "&brandShortName; 更新包括重要的安全改进。为了保护您的信息安全，我们强烈建议您更新 &brandShortName; ，即使这可能会导致一些扩展及主题无法使用。">
-<!ENTITY closebutton.label "关闭">
+
+<!ENTITY  incompatible.title        "不兼容项">
+<!ENTITY  incompatible.intro        "以下项目与 &brandShortName;的更新不兼容。安装后将被禁用：">
+<!ENTITY  incompatible.update       "&brandShortName; 将定期检查更新直到有可用兼容更新。">
+<!ENTITY  incompatible.suffix       "&brandShortName; 更新包括重要的安全改进。为了保护您的信息安全，我们强烈建议您更新 &brandShortName; ，即使这可能会导致一些扩展及主题无法使用。">
+                                     
+<!ENTITY  closebutton.label         "关闭">
+                                     
+                                     

@@ -21,7 +21,6 @@
    - Contributor(s):
    -   Bill Law       <law@netscape.com>
    -   Aaron Kaluszka <ask@swva.net>
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -36,30 +35,102 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY defaultTitle "正在保存">
-<!ENTITY savingTitle "已保存 #2&#037; ，共 #1 项">
-<!ENTITY savingSource "保存来自：">
-<!ENTITY savingTarget "保存到：">
-<!ENTITY openingTitle "已完成#2&#037;，共 #1 项">
-<!ENTITY openingSource "打开来自：">
-<!ENTITY openingTarget "用：">
-<!ENTITY unknownSavingTitle "保存 #1">
+
+<!-- These strings are used on the download progress dialog.
+     See: http://lxr.mozilla.org/seamonkey/source/embedding/components/ui/progressDlg/nsProgressDialog.xul
+-->
+
+<!-- This is used prior to initializing with a proper title -->
+<!ENTITY defaultTitle     "正在保存">
+
+<!-- These are used when saving -->
+<!ENTITY savingTitle      "已保存 #2&#037; ，共 #1 项"> 
+<!ENTITY savingSource     "保存来自："> 
+<!ENTITY savingTarget     "保存到："> 
+
+<!-- These are used when opening (with an application) -->
+<!ENTITY openingTitle      "已完成#2&#037;，共 #1 项">
+<!ENTITY openingSource     "打开来自：">
+<!ENTITY openingTarget     "用：">
+
+<!-- This is used when the download percentage is unknown -->
+<!ENTITY unknownSavingTitle  "保存 #1">
 <!ENTITY unknownOpeningTitle "打开 #1">
-<!ENTITY status "状态：">
+
+<!-- Labels on other fields -->
+<!ENTITY status      "状态："> 
 <!ENTITY timeElapsed "已耗时：">
-<!ENTITY timeLeft "剩余时间：">
-<!ENTITY progress "进度：">
+<!ENTITY timeLeft    "剩余时间：">
+<!ENTITY progress    "进度：">
+
+<!-- Label for the "keep dialog" checkbox -->
 <!ENTITY keep "下载完成后继续打开此窗口。">
-<!ENTITY cancel "取消">
-<!ENTITY pause "暂停">
+
+<!-- Button labels -->
+<!ENTITY cancel "取消"> 
+<!ENTITY pause  "暂停">
 <!ENTITY resume "继续">
-<!ENTITY close "关闭">
+<!ENTITY close  "关闭">
 <!ENTITY reveal "显示文件位置">
 <!ENTITY launch "执行文件">
+
+<!-- Status/progress messages -->
+
+<!-- LOCALIZATION NOTE (pausedMsg):
+    This string is used to indicate that the download is paused -->
 <!ENTITY pausedMsg "暂停下载">
+
+<!-- LOCALIZATION NOTE (progressMsg):
+
+    This string is used to generate the status message used during
+    file download.
+
+    #1 will be replaced by the number of bytes downloaded thus far
+    #2 will be replaced by the total number of bytes to be downloaded
+    #3 will be replaced by the download rate (in KB per second) -->
 <!ENTITY progressMsg "已下载 #1K 字节，共 #2K 字节（ #3K 字节/秒）">
+
+<!-- LOCALIZATION NOTE (unknownTime):
+    
+    This string is used when the time remaining is unknown. -->
 <!ENTITY unknownTime "未知">
+
+<!-- LOCALIZATION NOTE (longTimeFormat):
+
+    This string is used to format elapsed/remaining times when the
+    time exceeds 1 hour in length.
+
+    #1 will be replaced by the number of hours
+    #2 will be replaced by the number of minutes
+    #3 will be replaced by the number of seconds -->
 <!ENTITY longTimeFormat "#1:#2:#3">
+
+<!-- LOCALIZATION NOTE (shortTimeFormat):
+
+    This string is used to format elapsed/remaining times when the
+    time is less than 1 hour in length.  Note that you can leave
+    "#1" out of this string to omit the leading "00:" if you so choose.
+
+    #1 will be replaced by the number of hours
+    #2 will be replaced by the number of minutes
+    #3 will be replaced by the number of seconds -->
 <!ENTITY shortTimeFormat "#2:#3">
+
+<!-- LOCALIZATION NOTE (completeMsg):
+
+    This string is displayed when the download is complete.  The insert
+    "#1" is replaced by the elapsed time, formatted according to the
+    xxxTimeFormat strings defined above).  You can omit "#1" if you don't
+    want the elapsed time in the message.
+
+    #1 will be replaced by the elapsed time
+    #2 will be replaced by the size of the file in Kilobytes -->
 <!ENTITY completeMsg "下载完成，共下载 #2 KB（耗时 #1）">
+
+<!-- LOCALIZATION NOTE (percentMsg):
+
+    This string is used to format the text to the right of the progress
+    meter.
+
+    #1 will be replaced by the percentage of the file that has been saved -->
 <!ENTITY percentMsg "#1&#037;">

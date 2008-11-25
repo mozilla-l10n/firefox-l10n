@@ -1,4 +1,6 @@
-<!ENTITY enter.label "输入网页地址（URL），或者指定要打开的本地文件：">
+<!-- extracted from content/openLocation.xul -->
+
+<!ENTITY enter.label "输入网页地址（URL），或者指定要打开的本地文件：">  
 <!ENTITY chooseFile.label "选择文件…">
 <!ENTITY newWindow.label "新建浏览器窗口">
 <!ENTITY newTab.label "新建标签页">

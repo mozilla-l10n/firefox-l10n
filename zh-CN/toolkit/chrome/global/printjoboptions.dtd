@@ -1,15 +1,26 @@
+<!-- extracted from printjoboptions.xul -->
+
 <!ENTITY printJobOptions.title "打印机属性">
+
 <!ENTITY paperInput.label "页面大小：">
+
 <!ENTITY plexInput.label "从模式：">
+
 <!ENTITY resolutionInput.label "分辨率/质量：">
+
 <!ENTITY cmdInput.label "打印命令：">
+
 <!ENTITY jobTitleInput.label "作业名称：">
+
 <!ENTITY colorGroup.label "颜色：">
 <!ENTITY grayRadio.label "灰度">
 <!ENTITY colorRadio.label "颜色">
+
 <!ENTITY colorspaceInput.label "颜色空间：">
+
 <!ENTITY fontsGroup.label "字体：">
 <!ENTITY downloadFonts.label "将字体下载到打印机？">
+
 <!ENTITY edgeMarginInput.label "纸边缘至页边空白的距离（英寸）">
 <!ENTITY topInput.label "顶部：">
 <!ENTITY bottomInput.label "底部：">

@@ -19,7 +19,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,16 +34,19 @@
    -
 #endif
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY advancedJSDialog.title "JavaScript 高级设置">
-<!ENTITY window.width "37em">
-<!ENTITY allowScripts.label "允许脚本:">
-<!ENTITY moveResizeWindows.label "移动或者缩放已存在窗口">
-<!ENTITY moveResizeWindows.accesskey "M">
-<!ENTITY raiseLowerWindows.label "前置或后置窗口">
-<!ENTITY raiseLowerWindows.accesskey "R">
-<!ENTITY disableContextMenus.label "禁用或替换上下文菜单">
-<!ENTITY disableContextMenus.accesskey "D">
-<!ENTITY hideStatusBar.label "隐藏状态栏">
-<!ENTITY hideStatusBar.accesskey "H">
-<!ENTITY changeStatusBar.label "修改状态栏内容">
-<!ENTITY changeStatusBar.accesskey "C">
+
+<!ENTITY advancedJSDialog.title         "JavaScript 高级设置">
+<!ENTITY window.width                   "37em">
+
+<!ENTITY allowScripts.label             "允许脚本:">
+
+<!ENTITY moveResizeWindows.label        "移动或者缩放已存在窗口">
+<!ENTITY moveResizeWindows.accesskey    "M">
+<!ENTITY raiseLowerWindows.label        "前置或后置窗口">
+<!ENTITY raiseLowerWindows.accesskey    "R">
+<!ENTITY disableContextMenus.label      "禁用或替换上下文菜单">
+<!ENTITY disableContextMenus.accesskey  "D">
+<!ENTITY hideStatusBar.label            "隐藏状态栏">
+<!ENTITY hideStatusBar.accesskey        "H">
+<!ENTITY changeStatusBar.label          "修改状态栏内容">
+<!ENTITY changeStatusBar.accesskey      "C">
