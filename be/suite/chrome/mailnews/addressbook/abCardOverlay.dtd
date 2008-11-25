@@ -16,7 +16,6 @@
 <!ENTITY DisplayName.accesskey "Я">
 <!ENTITY NickName.label "Мянушка:">
 <!ENTITY NickName.accesskey "М">
-<!ENTITY Internet.box "Інтэрнэт">
 <!ENTITY PrimaryEmail.label "Э-Пошта:">
 <!ENTITY PrimaryEmail.accesskey "Э">
 <!ENTITY SecondEmail.label "Дадатковая Э-Пошта:">

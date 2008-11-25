@@ -567,6 +567,7 @@
 <!ENTITY phishingBarMessage2.label "Гэты ліст можа быць ашукай.">
 <!ENTITY removePhishingBarButton1.label "Ігнараваць папярэджанне">
 <!ENTITY reportPhishingError1.label "Гэты ліст не падобны на ашуку.">
+<!ENTITY more.label "больш">
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY AddToAddressBook.label "Дадаць у адрасную кнігу…">
 <!ENTITY AddToAddressBook.accesskey "к">
