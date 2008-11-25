@@ -685,3 +685,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY folderContextSubscribe.label "Pajtohuni…">
 <!ENTITY folderContextSubscribe.accesskey "p">
+
+<!ENTITY more.label "më tepër">
