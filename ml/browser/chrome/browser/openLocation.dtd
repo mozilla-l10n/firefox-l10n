@@ -5,5 +5,5 @@
 <!ENTITY topWindow.label "ഇപ്പോഴത്തെ ജാലകം">
 <!ENTITY caption.label "വെബ്ബ്‌ വിലാസം തുറക്കുക">
 <!ENTITY openWhere.label "ഇതില്‍ തുറക്കുക">
-<!ENTITY example.label "ഉദാഹരണം:&vendorURL; ">
+<!-- ENTITY example.label "ഉദാഹരണം:&vendorURL; " -->
 <!ENTITY openBtn.label "തുറക്കുക">
