@@ -1,0 +1,19 @@
+<!ENTITY about.version                "نسخهٔ">
+
+<!ENTITY about.copy.beforeLink        "حق نسخه‌برداری &copy; ۱۹۹۸-۲۰۰۸ متعلق به">
+<!ENTITY about.copy.linkTitle         "مشارکت‌کنندگان">
+<!ENTITY about.copy.afterLink         "به پروژهٔ موزیلا اهدا شده است.">
+
+<!ENTITY about.license.beforeLink     "">
+<!ENTITY about.license.linkTitle      "اطلاعات مجوز">
+<!ENTITY about.license.afterLink      "مربوط به این محصول را بخوانید.">
+
+<!ENTITY about.relnotes.beforeLink    "">
+<!ENTITY about.relnotes.linkTitle     "یادداشت‌های انتشار">
+<!ENTITY about.relnotes.afterLink     "این نسخه را بخوانید.">
+
+<!ENTITY about.buildconfig.beforeLink "">
+<!ENTITY about.buildconfig.linkTitle  "پیکربندی ساخت">
+<!ENTITY about.buildconfig.afterLink  "استفاده شده برای این نسخه را مشاهده کنید.">
+
+<!ENTITY about.buildIdentifier        "شناسهٔ ساخت: ‎">
