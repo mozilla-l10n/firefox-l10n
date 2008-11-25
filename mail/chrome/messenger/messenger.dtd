@@ -681,3 +681,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "සියල්ල පෙන්වන්න">
+<!-- Message Header Button Box (to show hidden email addresses) -->
+<!ENTITY more.label "තවත්">
