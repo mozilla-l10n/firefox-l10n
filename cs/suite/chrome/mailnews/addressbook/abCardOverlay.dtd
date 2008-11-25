@@ -67,7 +67,6 @@
 <!ENTITY NickName.label "Přezdívka:">
 <!ENTITY NickName.accesskey "P">
 
-<!ENTITY Internet.box "Internet">
 <!ENTITY PrimaryEmail.label "E-mail:">
 <!ENTITY PrimaryEmail.accesskey "E">
 <!ENTITY SecondEmail.label "Další e-mail:">

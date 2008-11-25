@@ -37,7 +37,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY messengerWindow.title "Pošta a Diskusní skupiny">
+<!ENTITY messengerWindow.title "Pošta a diskusní skupiny">
 <!ENTITY titleModifier.label "&brandShortName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -81,7 +81,7 @@
 <!ENTITY renameFolder.label "Přejmenovat složku…">
 <!ENTITY renameFolder.accesskey "M">
 <!ENTITY compactFolders.label "Provést údržbu složek">
-<!ENTITY compactFolders.accesskey "t">
+<!ENTITY compactFolders.accesskey "P">
 <!ENTITY emptyTrashCmd.label "Vysypat koš">
 <!ENTITY emptyTrashCmd.accesskey "y">
 <!ENTITY offlineMenu.label "Režim offline">
@@ -512,12 +512,12 @@
 <!ENTITY folderContextCompact.accesskey "D">
 <!ENTITY folderContextEmptyTrash.label "Vysypat koš">
 <!ENTITY folderContextEmptyTrash.accesskey "k">
-<!ENTITY folderContextEmptyJunk.label "Vysypat nevyžádanou poštu">
-<!ENTITY folderContextEmptyJunk.accesskey "y">
-<!ENTITY folderContextSendUnsentMessages.label "Send Unsent Messages">
+<!ENTITY folderContextEmptyJunk.label "Smazat nevyžádanou poštu">
+<!ENTITY folderContextEmptyJunk.accesskey "m">
+<!ENTITY folderContextSendUnsentMessages.label "Odeslat neodeslané zprávy…">
 <!ENTITY folderContextSendUnsentMessages.accesskey "d">
 <!ENTITY folderContextUnsubscribe.label "Odhlásit odebírání">
-<!ENTITY folderContextUnsubscribe.accesskey "D">
+<!ENTITY folderContextUnsubscribe.accesskey "d">
 <!ENTITY folderContextMarkNewsgroupRead.label "Označit skupinu jako přečtenou">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "z">
 <!ENTITY folderContextMarkMailFolderRead.label "Označit složku jako přečtenou">
