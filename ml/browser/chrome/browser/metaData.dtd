@@ -4,8 +4,8 @@
 <!ENTITY image-url.label "സ്ഥിതി ചെയ്യുന്നിടം">
 <!ENTITY image-desc.label "വിശദീകരണം:">
 <!ENTITY image-alt.label "പകരം ടെക്സ്റ്റ്‌:">
-<!ENTITY image-width.label "വീതി:">
-<!ENTITY image-height.label "ഉയരം:">
+<!-- ENTITY image-width.label "വീതി:" -->
+<!-- ENTITY image-height.label "ഉയരം:" -->
 <!ENTITY image-filesize.label "ഫയലിന്റെ വലിപ്പം:">
 <!ENTITY insdel-sec.label "ഗുണഗണങ്ങള്‍ ചേര്‍ക്കുകയോ മായിക്കുകയോ ചെയ്യുക">
 <!ENTITY insdel-cite.label "വിവരങ്ങള്‍:">
