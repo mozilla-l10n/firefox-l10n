@@ -23,9 +23,9 @@
 <!ENTITY closeWhenDone.accesskey "ب">
 <!ENTITY saveTo.label "ذخیرهٔ پرونده در">
 <!ENTITY saveTo.accesskey "ذ">
-<!ENTITY chooseFolderWin.label        "مرور...">
+<!ENTITY chooseFolderWin.label        "مرور…">
 <!ENTITY chooseFolderWin.accesskey    "م">
-<!ENTITY chooseFolderMac.label        "انتخاب...">
+<!ENTITY chooseFolderMac.label        "انتخاب…">
 <!ENTITY chooseFolderMac.accesskey    "ا">
 <!ENTITY alwaysAsk.label "محل ذخیرهٔ هر پرونده سؤال شود">
 <!ENTITY alwaysAsk.accesskey "م">

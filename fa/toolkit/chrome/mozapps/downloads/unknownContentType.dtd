@@ -43,7 +43,7 @@
 
 <!ENTITY  openWith.label              "باز کردن با">
 <!ENTITY  openWith.accesskey          "ب">
-<!ENTITY  other.label                 "غیره...">
+<!ENTITY  other.label                 "غیره…">
 
 <!ENTITY  saveFile.label              "ذخیرهٔ پرونده">
 <!ENTITY  saveFile.accesskey          "ذ">
@@ -53,9 +53,9 @@
 
 <!ENTITY  whichIsA.label              "که پرونده‌ای از این نوع است:">
 
-<!ENTITY  chooseHandlerMac.label      "انتخاب...">
+<!ENTITY  chooseHandlerMac.label      "انتخاب…">
 <!ENTITY  chooseHandlerMac.accesskey  "ا">
-<!ENTITY  chooseHandler.label         "مرور...">
+<!ENTITY  chooseHandler.label         "مرور…">
 <!ENTITY  chooseHandler.accesskey     "م">
 
 <!ENTITY  unknownPromptText.label     "آیا می‌خواهید این پرونده را ذخیره کنید؟">

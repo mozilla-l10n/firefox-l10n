@@ -2,7 +2,7 @@
 <!ENTITY printWindow.title "در حال چاپ"> 
 <!ENTITY title    "عنوان:"> 
 <!ENTITY progress "پیشرفت:">
-<!ENTITY preparing "در حال آماده‌سازی...">
+<!ENTITY preparing "در حال آماده‌سازی…">
 <!ENTITY printComplete "چاپ انجام شد.">
 
 <!ENTITY dialogCancel.label "انصراف"> 

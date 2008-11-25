@@ -75,7 +75,7 @@
 <!ENTITY  mediaDimension        "ابعاد:">
 <!ENTITY  mediaLongdesc         "شرح طولانی:">
 <!ENTITY  mediaBlockImage.accesskey "ب">
-<!ENTITY  mediaSaveAs           "ذخیره به نام...">
+<!ENTITY  mediaSaveAs           "ذخیره به نام…">
 <!ENTITY  mediaSaveAs.accesskey "ن">
 <!ENTITY  mediaSaveAs2.accesskey "ذ">
 <!ENTITY  mediaPreview          "پیش‌نمایش رسانه:">

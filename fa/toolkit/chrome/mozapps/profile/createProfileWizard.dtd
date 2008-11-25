@@ -15,7 +15,7 @@
 <!ENTITY profilePrompt.accesskey        "ن">
 <!ENTITY profileDirectoryExplanation.text   "Your user settings, preferences and other user-related data will be stored in:">
 <!ENTITY profileDefaultName             "کاربر پیش‌فرض">
-<!ENTITY button.choosefolder.label      "انتخاب پوشه...">
+<!ENTITY button.choosefolder.label      "انتخاب پوشه…">
 <!ENTITY button.choosefolder.accesskey  "خ">
 <!ENTITY button.usedefault.label        "استفاده از پوشهٔ پیش‌فرض">
 <!ENTITY button.usedefault.accesskey    "پ">

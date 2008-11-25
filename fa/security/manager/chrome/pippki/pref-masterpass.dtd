@@ -49,7 +49,7 @@
 
 <!ENTITY changepassword.caption "تغییر گذرواژهٔ اصلی">
 <!ENTITY changepassword.text "گذرواژهٔ اصلی از اطلاعات حساس از قبیل گذرواژه‌های وب و گواهی‌ها محافظت می‌کند.">
-<!ENTITY changepassword.button "تغییر گذرواژه...">
+<!ENTITY changepassword.button "تغییر گذرواژه…">
 <!ENTITY changepassword.accesskey "ت">
 
 <!ENTITY resetpassword.caption "صفر کردن گذرواژهٔ اصلی">

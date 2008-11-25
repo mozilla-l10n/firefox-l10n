@@ -1,7 +1,7 @@
 <!-- extracted from content/openLocation.xul -->
 
 <!ENTITY enter.label "مکان وبی (نشانی اینترنتی) را وارد کنید، و یا مکان پرونده‌ای را که می‌خواهید باز شود مشخص کنید:">  
-<!ENTITY chooseFile.label "انتخاب پرونده...">
+<!ENTITY chooseFile.label "انتخاب پرونده…">
 <!ENTITY newWindow.label "پنجرهٔ جدید">
 <!ENTITY newTab.label "زبانهٔ جدید">
 <!ENTITY topWindow.label "پنجرهٔ فعلی">

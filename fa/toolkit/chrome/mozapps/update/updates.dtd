@@ -33,8 +33,8 @@
 <!ENTITY  incompatibleList.title          "Incompatible Add-ons Found">
 
 <!ENTITY  downloading.title               "در حال بارگیری به‌هنگام‌سازی">
-<!ENTITY  downloading.intro               "در حال بارگیری این به‌هنگام‌سازی...">
-<!ENTITY  connecting.label                "در حال برقراری اتصال با کارگزار به‌هنگام‌سازی...">
+<!ENTITY  downloading.intro               "در حال بارگیری این به‌هنگام‌سازی…">
+<!ENTITY  connecting.label                "در حال برقراری اتصال با کارگزار به‌هنگام‌سازی…">
 <!ENTITY  verificationFailedText.label    "درستی به‌هنگام‌سازی فزایندهٔ بارگیری شده توسط &brandShortName; تأیید نشد، بنابراین در حال بارگیری بستهٔ کامل به‌هنگام‌سازی است.">
 
 <!ENTITY  viewDetails.tooltip             "View details for this update">
@@ -61,7 +61,7 @@
 
 <!ENTITY  installed.title                 "به‌هنگام‌سازی نصب شد">
 <!ENTITY  installed.intro                 "‏این به‌هنگام‌سازی با موفقیت نصب شد.">
-<!ENTITY  whatsnew.label                  "در مورد چیزهای جدید بیشتر بدانید...">
+<!ENTITY  whatsnew.label                  "در مورد چیزهای جدید بیشتر بدانید…">
 
 <!ENTITY  update.details.label            "جزئیات">
 <!ENTITY  update.installedOn.label        "نصب شد در:">

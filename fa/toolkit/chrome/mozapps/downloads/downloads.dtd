@@ -4,7 +4,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY window.width2                    "485">
 <!ENTITY window.height                    "300"> 
 
-<!ENTITY starting.label                   "در حال آغاز...">
+<!ENTITY starting.label                   "در حال آغاز…">
 <!ENTITY scanning.label                   "Scanning for viruses…">
 
 <!ENTITY downloads.title                  "بارگیری‌ها">
@@ -21,7 +21,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.open.label                   "باز کردن">
 <!ENTITY cmd.open.accesskey               "ب">
-<!ENTITY cmd.openWith.label               "باز کردن با...">
+<!ENTITY cmd.openWith.label               "باز کردن با…">
 <!ENTITY cmd.openWith.accesskey           "ز">
 <!ENTITY cmd.retry.label                  "تلاش مجدد">
 <!ENTITY cmd.retry.accesskey              "ت">

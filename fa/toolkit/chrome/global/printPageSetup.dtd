@@ -47,7 +47,7 @@
 <!ENTITY hfPage              "صفحهٔ #">
 <!ENTITY hfPageAndTotal      "صفحهٔ # از #">
 <!ENTITY hfBlank             "‐‐خالی‐‐">
-<!ENTITY hfCustom            "سفارشی...">
+<!ENTITY hfCustom            "سفارشی…">
 
-<!ENTITY customPrompt.title  "سفارشی...">
+<!ENTITY customPrompt.title  "سفارشی…">
 <!ENTITY customPrompt.prompt "متن سرصفحه/پاصفحهٔ سفارشی‌تان را وارد کنید">

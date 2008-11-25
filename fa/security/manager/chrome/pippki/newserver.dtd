@@ -42,7 +42,7 @@
 <!ENTITY newserver.reason1 "‐ مرورگر شما مرجع صدور گواهی‌ای که گواهی این وب‌گاه را صادر کرده نمی‌شناسد.">
 <!ENTITY newserver.reason2 "‐ گواهی وب‌گاه به دلیل پیکربندی بد کارگزار، ناقص است.">
 <!ENTITY newserver.notify "لطفاً این مسأله را به مدیر وب‌گاه اطلاع دهید.">
-<!ENTITY newserver.examine "بررسی گواهی...">
+<!ENTITY newserver.examine "بررسی گواهی…">
 <!ENTITY newserver.remember "پذیرش این گواهی برای همیشه">
 <!ENTITY newserver.session "پذیرش این گواهی به طور موقت برای این نشست">
 <!ENTITY newserver.refuse "عدم پذیرش این گواهی و متصل نشدن به این وب‌گاه">

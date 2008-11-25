@@ -39,7 +39,7 @@
 
 <!ENTITY validation.crl.caption "CRL">
 <!ENTITY validation.crl.description "با استفاده از مدیر CRL، فهرست‌های ابطال گواهی (CRL) را که در پایگاه‌دادهٔ گواهی‌های شما ذخیره شده‌اند اداره کنید.">
-<!ENTITY validation.managecrls.button "مدیریت CRLها...">
+<!ENTITY validation.managecrls.button "مدیریت CRLها…">
 <!ENTITY validation.managecrls.accesskey "م">
 <!ENTITY validation.crlmanager.label "مدیریت CRLها">
 <!ENTITY validation.crlname.label "نام">

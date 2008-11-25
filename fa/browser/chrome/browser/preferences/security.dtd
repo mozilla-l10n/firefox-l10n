@@ -14,7 +14,7 @@
 <!ENTITY  blockWebForgeries.label     "باز داشتن جعل‌های وبی گزارش شده">
 <!ENTITY  blockWebForgeries.accesskey "ج">
 
-<!ENTITY  addonExceptions.label         "استثناها...">
+<!ENTITY  addonExceptions.label         "استثناها…">
 <!ENTITY  addonExceptions.accesskey     "ت">
 
 
@@ -22,12 +22,12 @@
 
 <!ENTITY  rememberPasswords.label       "به خاطر سپردن گذرواژه‌ها برای وب‌گاه‌ها">
 <!ENTITY  rememberPasswords.accesskey   "گ">
-<!ENTITY  passwordExceptions.label      "استثناها...">
+<!ENTITY  passwordExceptions.label      "استثناها…">
 <!ENTITY  passwordExceptions.accesskey  "ث">
 
 <!ENTITY  useMasterPassword.label        "استفاده از گذرواژهٔ اصلی">
 <!ENTITY  useMasterPassword.accesskey    "ا">
-<!ENTITY  changeMasterPassword.label     "تنظیم گذرواژهٔ اصلی...">
+<!ENTITY  changeMasterPassword.label     "تنظیم گذرواژهٔ اصلی…">
 <!ENTITY  changeMasterPassword.accesskey "ص">
 
 <!ENTITY  savedPasswords.label            "گذرواژه‌های ذخیره شده…">
@@ -38,5 +38,5 @@
 
 <!ENTITY  chooseWarnings.label          "انتخاب پیام‌های هشدار در هنگام مرور وب">
 
-<!ENTITY  warningSettings.label         "تنظیمات...">
+<!ENTITY  warningSettings.label         "تنظیمات……">
 <!ENTITY  warningSettings.accesskey     "ت">

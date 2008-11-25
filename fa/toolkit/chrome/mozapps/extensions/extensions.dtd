@@ -22,8 +22,8 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey    "ی">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "به دنبال به‌هنگام‌سازی برای افزودنی‌های موجود می‌گردد">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "به دنبال به‌هنگام‌سازی برای تم‌های موجود می‌گردد">
-<!ENTITY cmd.installLocalFile.label       "نصب...">
-<!ENTITY cmd.installLocalFile.accesskey   "n">
+<!ENTITY cmd.installLocalFile.label       "نصب…">
+<!ENTITY cmd.installLocalFile.accesskey   "ن">
 <!ENTITY cmd.installFileAddon.tooltip     "افزودنی جدید نصب می‌کند">
 <!ENTITY cmd.installFileTheme.tooltip     "تم جدید نصب می‌کند">
 <!ENTITY cmd.installUpdatesAll.label      "نصب به‌هنگام‌سازی‌ها">
@@ -158,9 +158,9 @@
 <!ENTITY installSuccess.label             "نصب با موفقیت تمام شد.">
 <!ENTITY installSuccessRestart.label      "برای اتمام نصب برنامه را دوباره راه‌اندازی کنید.">
 <!ENTITY updateSuccessRestart.label       "Restart to complete the update.">
-<!ENTITY installWaiting.label             "در حال انتظار...">
-<!ENTITY installIncompatibleUpdate.label  "بررسی سازگاری...">
-<!ENTITY installFinishing.label           "در حال نصب...">
+<!ENTITY installWaiting.label             "در حال انتظار…">
+<!ENTITY installIncompatibleUpdate.label  "بررسی سازگاری…">
+<!ENTITY installFinishing.label           "در حال نصب…">
 <!ENTITY installFailure.label             "نصب شکست خورد.">
 
 <!ENTITY progressStatus.label             "Checking For Updates">

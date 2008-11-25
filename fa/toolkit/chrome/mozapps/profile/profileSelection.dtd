@@ -47,11 +47,11 @@
 
 <!ENTITY            availprofiles.label    "مجموعه تنظیمات‌های موجود">
 
-<!ENTITY            newButton.label        "ایجاد مجموعه تنظیمات...">
+<!ENTITY            newButton.label        "ایجاد مجموعه تنظیمات…">
 <!ENTITY            newButton.accesskey    "ج">
-<!ENTITY            renameButton.label     "تغییر نام مجموعه تنظیمات...">
+<!ENTITY            renameButton.label     "تغییر نام مجموعه تنظیمات…">
 <!ENTITY            renameButton.accesskey "غ">
-<!ENTITY            deleteButton.label     "حذف مجموعه تنظیمات...">
+<!ENTITY            deleteButton.label     "حذف مجموعه تنظیمات…">
 <!ENTITY            deleteButton.accesskey "ح">
 
 <!-- manager entities -->

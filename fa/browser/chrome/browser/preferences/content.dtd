@@ -1,16 +1,16 @@
 <!ENTITY  blockPopups.label           "بازداشتن پنجره‌های واشو">
 <!ENTITY  blockPopups.accesskey       "ب">
-<!ENTITY  popupExceptions.label       "استثناها...">
+<!ENTITY  popupExceptions.label       "استثناها…">
 <!ENTITY  popupExceptions.accesskey   "ا">
 
 <!ENTITY  loadImages.label            "بارگیری تصاویر به طور خودکار">
 <!ENTITY  loadImages.accesskey        "ت">
-<!ENTITY  exceptions.label            "استثناها...">
+<!ENTITY  exceptions.label            "استثناها…">
 <!ENTITY  exceptions.accesskey        "س">
 
 <!ENTITY  enableJavaScript.label      "فعال بودن جاوا اسکریپت">
 <!ENTITY  enableJavaScript.accesskey  "ج">
-<!ENTITY  advancedJS.label            "پیشرفته...">
+<!ENTITY  advancedJS.label            "پیشرفته…">
 <!ENTITY  advancedJS.accesskey        "پ">
 
 <!ENTITY  enableJava.label            "فعال بودن جاوا">
@@ -24,10 +24,10 @@
 <!ENTITY  defaultSize.label           "اندازه:">
 <!ENTITY  defaultSize.accesskey       "ن">
 
-<!ENTITY  advancedFonts.label         "پیشرفته...">
+<!ENTITY  advancedFonts.label         "پیشرفته…">
 <!ENTITY  advancedFonts.accesskey     "پ">
 
-<!ENTITY  colors.label                "رنگ‌ها...">
+<!ENTITY  colors.label                "رنگ‌ها…">
 <!ENTITY  colors.accesskey            "ر">
 
 

@@ -37,14 +37,14 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY resetsettings.label "برگرداندن تنظیمات به حالت اولیه">
-<!ENTITY resetpreferences.label "برگرداندن ترجیحات به حالت اولیه...">
+<!ENTITY resetpreferences.label "برگرداندن ترجیحات به حالت اولیه…">
 <!ENTITY managecerts.caption "مدیریت گواهی‌ها">
 <!ENTITY managecerts.text "با استفاده از مدیر گواهی‌ها، گواهی‌های شخصی خود، دیگران و مراجع صدور گواهی‌ها را مدیریت کنید.">
-<!ENTITY managecerts.button "مدیریت گواهی‌ها...">
+<!ENTITY managecerts.button "مدیریت گواهی‌ها…">
 <!ENTITY managecerts.accesskey "م">
 <!ENTITY managedevices.caption "مدیریت دستگاه‌های امنیتی">
 <!ENTITY managedevices.text "برای مدیریت دستگاه‌های امنیتی، از قبیل کارت هوشمند، این دکمه را فشار دهید.">
-<!ENTITY managedevices.button "مدیریت دستگاه‌های امنینی...">
+<!ENTITY managedevices.button "مدیریت دستگاه‌های امنینی…">
 <!ENTITY managedevices.accesskey "م">
 
 <!ENTITY ssl.label "SSL">

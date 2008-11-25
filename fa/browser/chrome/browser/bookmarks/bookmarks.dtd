@@ -47,33 +47,33 @@
 <!ENTITY closeCmd.accesskey "ب">
 <!ENTITY closeCmd.commandkey "W">
                                                                                              
-<!ENTITY menuitem.newBookmark.label "چوب‌الف جدید...">
+<!ENTITY menuitem.newBookmark.label "چوب‌الف جدید…">
 <!ENTITY menuitem.newBookmark.accesskey "چ">
-<!ENTITY menuitem.newLivemark.label "چوب‌الف زندهٔ جدید...">
+<!ENTITY menuitem.newLivemark.label "چوب‌الف زندهٔ جدید…">
 <!ENTITY menuitem.newLivemark.accesskey "ز">
-<!ENTITY menuitem.newFolder.label "پوشهٔ جدید...">
+<!ENTITY menuitem.newFolder.label "پوشهٔ جدید…">
 <!ENTITY menuitem.newFolder.accesskey "پ">
 <!ENTITY menuitem.newSeparator.label "جداساز جدید">
 <!ENTITY menuitem.newSeparator.accesskey "س">
-<!ENTITY menuitem.import.label "وارد کردن...">
+<!ENTITY menuitem.import.label "وارد کردن…">
 <!ENTITY menuitem.import.accesskey "و">
-<!ENTITY menuitem.export.label "صادر کردن...">
+<!ENTITY menuitem.export.label "صادر کردن…">
 <!ENTITY menuitem.export.accesskey "ص">
-<!ENTITY menuitem.find.label "جستجوی چوب‌الف‌ها...">
-<!ENTITY command.findBookmarks.label "جستجو...">
+<!ENTITY menuitem.find.label "جستجوی چوب‌الف‌ها…">
+<!ENTITY command.findBookmarks.label "جستجو…">
 <!ENTITY menuitem.find.accesskey "ج">
 <!ENTITY edit.find.keybinding "f">
-<!ENTITY command.properties.label "ویژگی‌ها...">
+<!ENTITY command.properties.label "ویژگی‌ها…">
 <!ENTITY command.properties.accesskey "و">
 <!ENTITY edit.properties.keybinding "i">
-<!ENTITY command.rename.label "تغییر نام...">
+<!ENTITY command.rename.label "تغییر نام…">
 <!ENTITY command.rename.accesskey "ت">
 <!ENTITY command.delete.label "حذف">
 <!ENTITY command.delete.accesskey "ح">
-<!ENTITY command.moveBookmark.label "جابه‌جایی چوب‌الف(ها)...">
-<!ENTITY command.moveBookmarkShort.label "جابه‌جایی...">
+<!ENTITY command.moveBookmark.label "جابه‌جایی چوب‌الف(ها)…">
+<!ENTITY command.moveBookmarkShort.label "جابه‌جایی…">
 <!ENTITY command.moveBookmark.accesskey "ج">
-<!ENTITY command.addBookmark.label "اضافه کردن...">
+<!ENTITY command.addBookmark.label "اضافه کردن…">
 <!ENTITY command.manageBookmarks.label "مدیریت">
 <!ENTITY command.refreshLivemark.label "بازخوانی چوب‌الف زنده">
 <!ENTITY command.refreshLivemark.accesskey "ز">

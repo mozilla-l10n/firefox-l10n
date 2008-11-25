@@ -40,8 +40,8 @@
 <!ENTITY importItems.title              "مواردی که وارد شوند">
 <!ENTITY importItems.label              "مواردی را که می‌خواهید وارد شوند انتخاب کنید:">
 
-<!ENTITY migrating.title                "در حال وارد کردن...">
-<!ENTITY migrating.label                "موارد زیر در حال وارد شدن هستند...">
+<!ENTITY migrating.title                "در حال وارد کردن…">
+<!ENTITY migrating.label                "موارد زیر در حال وارد شدن هستند…">
 
 <!ENTITY selectProfile.title            "انتخاب مجموعهٔ تنظیمات">
 <!ENTITY selectProfile.label            "مجموعه تنظیمات زیر برای وارد کردن موجودند:">

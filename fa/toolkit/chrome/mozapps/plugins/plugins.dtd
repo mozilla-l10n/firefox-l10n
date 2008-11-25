@@ -1,7 +1,7 @@
 <!ENTITY pluginWizard.title                                  "سرویس پیدا کردن متصل شونده">
 <!ENTITY pluginWizard.firstPage.title                        "به &pluginWizard.title; خوش آمدید">
 
-<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; اکنون در حال جستجو به دنبال متصل شونده‌های موجود است...">
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; اکنون در حال جستجو به دنبال متصل شونده‌های موجود است…">
 
 <!ENTITY pluginWizard.availablePluginsPage.title             "متصل شونده‌های قابل بارگیری موجود">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "متصل شونده‌های زیر موجود است:">
@@ -13,7 +13,7 @@
 <!ENTITY pluginWizard.licensePage.deny.label                 "عدم موافقت با شرایط مجوز (متصل شونده نصب نخواهد شد).">
 
 <!ENTITY pluginWizard.installPluginsPage.title               "در حال نصب متصل شونده">
-<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; در حال نصب متصل شونده‌هاست...">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; در حال نصب متصل شونده‌هاست…">
 
 <!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; نصب متصل شونده‌ها را به پایان رساند:">
 

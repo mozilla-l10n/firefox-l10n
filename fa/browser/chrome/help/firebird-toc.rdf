@@ -242,7 +242,7 @@
     <nc:subheadings>
       <rdf:Seq>
         <rdf:li> <rdf:Description ID="menu-firefox-about" nc:name="دربارهٔ &brandFullName;" nc:link="menu_reference.xhtml#about_mac"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="menu-firefox-preferences" nc:name="ترجیحات..." nc:link="menu_reference.xhtml#prefs_mac"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-firefox-preferences" nc:name="ترجیحات…" nc:link="menu_reference.xhtml#prefs_mac"/> </rdf:li>
         <rdf:li> <rdf:Description ID="menu-firefox-quit" nc:name="ترک &brandShortName;" nc:link="menu_reference.xhtml#quit_mac"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -253,16 +253,16 @@
       <rdf:Seq>
         <rdf:li> <rdf:Description ID="menu-file-new-window" nc:name="پنجرهٔ جدید" nc:link="menu_reference.xhtml#new_window"/> </rdf:li>
         <rdf:li> <rdf:Description ID="menu-file-new-tab" nc:name="زبانهٔ جدید" nc:link="menu_reference.xhtml#new_tab"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="menu-file-open-location" nc:name="باز کردن نشانی اینترنتی..." nc:link="menu_reference.xhtml#open_location"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="menu-file-open-file" nc:name="باز کردن پرونده..." nc:link="menu_reference.xhtml#open_file"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-open-location" nc:name="باز کردن نشانی اینترنتی…" nc:link="menu_reference.xhtml#open_location"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-open-file" nc:name="باز کردن پرونده…" nc:link="menu_reference.xhtml#open_file"/> </rdf:li>
         <rdf:li> <rdf:Description ID="menu-file-close" nc:name="بستن پنجره" nc:link="menu_reference.xhtml#close"/> </rdf:li>
         <rdf:li> <rdf:Description ID="menu-file-close-tab" nc:name="بستن زبانه" nc:link="menu_reference.xhtml#close_tab"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="menu-file-save-page-as" nc:name="ذخیرهٔ صفحه به نام..." nc:link="menu_reference.xhtml#save_page_as"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="menu-file-send-page" nc:name="فرستادن پیوند..." nc:link="menu_reference.xhtml#send_page"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="menu-file-page-setup" nc:name="تنظیمات صفحه..." nc:link="menu_reference.xhtml#page_setup"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-save-page-as" nc:name="ذخیرهٔ صفحه به نام…" nc:link="menu_reference.xhtml#save_page_as"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-send-page" nc:name="فرستادن پیوند…" nc:link="menu_reference.xhtml#send_page"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-page-setup" nc:name="تنظیمات صفحه…" nc:link="menu_reference.xhtml#page_setup"/> </rdf:li>
         <rdf:li> <rdf:Description ID="menu-file-print-preview" nc:name="پیش‌نمایش چاپ" nc:link="menu_reference.xhtml#print_preview" nc:platform="win unix os2"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="menu-file-print" nc:name="چاپ..." nc:link="menu_reference.xhtml#print"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="menu-file-import" nc:name="وارد کردن..." nc:link="menu_reference.xhtml#import"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-print" nc:name="چاپ…" nc:link="menu_reference.xhtml#print"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-import" nc:name="وارد کردن…" nc:link="menu_reference.xhtml#import"/> </rdf:li>
         <rdf:li> <rdf:Description ID="menu-file-work-offline" nc:name="کار منفصل" nc:link="menu_reference.xhtml#work_offline"/> </rdf:li>
         <rdf:li> <rdf:Description ID="menu-file-exit-win" nc:name="خروج" nc:link="menu_reference.xhtml#exit" nc:platform="win os2"/> </rdf:li>
         <rdf:li> <rdf:Description ID="menu-file-exit-unix" nc:name="ترک" nc:link="menu_reference.xhtml#exit" nc:platform="unix"/> </rdf:li>
@@ -280,7 +280,7 @@
         <rdf:li> <rdf:Description ID="menu-view-paste" nc:name="چسباندن" nc:link="menu_reference.xhtml#paste"/> </rdf:li>
         <rdf:li> <rdf:Description ID="menu-view-delete" nc:name="حذف" nc:link="menu_reference.xhtml#delete"/> </rdf:li>
         <rdf:li> <rdf:Description ID="menu-view-select-all" nc:name="انتخاب همه" nc:link="menu_reference.xhtml#select_all"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="menu-view-find-in-this-page" nc:name="پیدا کردن در این صفحه..." nc:link="menu_reference.xhtml#find_in_this_page"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-find-in-this-page" nc:name="پیدا کردن در این صفحه…" nc:link="menu_reference.xhtml#find_in_this_page"/> </rdf:li>
         <rdf:li> <rdf:Description ID="menu-view-find-again" nc:name="پیدا کردن مجدد" nc:link="menu_reference.xhtml#find_again"/> </rdf:li>
         <rdf:li> <rdf:Description ID="menu-view-preferences" nc:name="ترجیحات" nc:link="menu_reference.xhtml#prefs" nc:platform="unix"/> </rdf:li>
       </rdf:Seq>
@@ -357,10 +357,10 @@
   <rdf:Description about="#menu-bookmarks">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="menu-bookmarks-add-to-bookmarks" nc:name="چوب‌الف‌گذاری برای این صفحه..." nc:link="menu_reference.xhtml#add_to_bookmarks"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="menu-bookmarks-subscribe" nc:name="آبونه شدن این صفحه..." nc:link="menu_reference.xhtml#subscribe"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="menu-bookmarks-bookmark-all-tabs" nc:name="چوب‌الف‌گذاری تمامی زبانه‌ها..." nc:link="menu_reference.xhtml#bookmark_all_tabs"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="menu-bookmarks-organize-bookmarks" nc:name="مدیریت چوب‌الف‌ها..." nc:link="menu_reference.xhtml#organize_bookmarks"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-bookmarks-add-to-bookmarks" nc:name="چوب‌الف‌گذاری برای این صفحه…" nc:link="menu_reference.xhtml#add_to_bookmarks"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-bookmarks-subscribe" nc:name="آبونه شدن این صفحه…" nc:link="menu_reference.xhtml#subscribe"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-bookmarks-bookmark-all-tabs" nc:name="چوب‌الف‌گذاری تمامی زبانه‌ها…" nc:link="menu_reference.xhtml#bookmark_all_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-bookmarks-organize-bookmarks" nc:name="مدیریت چوب‌الف‌ها…" nc:link="menu_reference.xhtml#organize_bookmarks"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -373,7 +373,7 @@
         <rdf:li> <rdf:Description ID="menu-tools-add-ons" nc:name="افزودنی‌ها" nc:link="menu_reference.xhtml#add_ons"/> </rdf:li>
         <rdf:li> <rdf:Description ID="menu-tools-javascript-console" nc:name="پیشانهٔ خطاها" nc:link="menu_reference.xhtml#javascript_console"/> </rdf:li>
         <rdf:li> <rdf:Description ID="menu-tools-page-info" nc:name="اطلاعات صفحه" nc:link="menu_reference.xhtml#page_info"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="menu-tools-clear-private-data" nc:name="پاک‌سازی اطلاعات خصوصی..." nc:link="menu_reference.xhtml#clear_private_data"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools-clear-private-data" nc:name="پاک‌سازی اطلاعات خصوصی…" nc:link="menu_reference.xhtml#clear_private_data"/> </rdf:li>
         <rdf:li> <rdf:Description ID="menu-tools-options" nc:name="گزینه‌ها" nc:link="menu_reference.xhtml#options" nc:platform="win os2"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -396,9 +396,9 @@
         <rdf:li> <rdf:Description ID="menu-help-help-contents-mac" nc:name="راهنمای &brandShortName;" nc:link="menu_reference.xhtml#help_contents" nc:platform="mac"/> </rdf:li>
         <rdf:li> <rdf:Description ID="menu-help-for-ie-users" nc:name="اینترنت اکسپلورر مایکروسافت" nc:link="menu_reference.xhtml#for_ie_users" nc:platform="win"/> </rdf:li>
         <rdf:li> <rdf:Description ID="menu-help-relnotes" nc:name="یادداشت‌های انتشار" nc:link="menu_reference.xhtml#relnotes"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="menu-help-report-broken-web-site" nc:name="گزارش وب‌گاه ناهموار..." nc:link="menu_reference.xhtml#reporter"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="menu-help-report-web-forgery" nc:name="گزارش وب‌گاه فریب‌کار..." nc:link="menu_reference.xhtml#web_forgery"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="menu-help-check-for-updates" nc:name="گشتن به دنبال به‌هنگام‌سازی‌ها..." nc:link="menu_reference.xhtml#check_for_updates"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-report-broken-web-site" nc:name="گزارش وب‌گاه ناهموار…" nc:link="menu_reference.xhtml#reporter"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-report-web-forgery" nc:name="گزارش وب‌گاه فریب‌کار…" nc:link="menu_reference.xhtml#web_forgery"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-check-for-updates" nc:name="گشتن به دنبال به‌هنگام‌سازی‌ها…" nc:link="menu_reference.xhtml#check_for_updates"/> </rdf:li>
         <rdf:li> <rdf:Description ID="menu-help-about-mozilla-firebird" nc:name="دربارهٔ &brandFullName;" nc:link="menu_reference.xhtml#about_mozilla_firebird" nc:platform="win unix os2"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>

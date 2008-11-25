@@ -10,14 +10,14 @@
 
 <!ENTITY fileMenu.label "پرونده">
 <!ENTITY fileMenu.accesskey "پ">
-<!ENTITY savePageCmd.label "ذخیره‌کردن صفحه به نام...">
+<!ENTITY savePageCmd.label "ذخیره‌کردن صفحه به نام…">
 <!ENTITY savePageCmd.accesskey "ن">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "تنظیمات صفحه...">
+<!ENTITY pageSetupCmd.label "تنظیمات صفحه…">
 <!ENTITY pageSetupCmd.accesskey "ت">
 <!ENTITY printPreviewCmd.label "پیش‌نمایش چاپ">
 <!ENTITY printPreviewCmd.accesskey "پ">
-<!ENTITY printCmd.label "چاپ...">
+<!ENTITY printCmd.label "چاپ…">
 <!ENTITY printCmd.accesskey "چ">
 <!ENTITY printCmd.commandkey "P">
 <!ENTITY closeCmd.label "بستن">
@@ -38,7 +38,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "">
 
-<!ENTITY goToLineCmd.label "رفتن به سطر ...">
+<!ENTITY goToLineCmd.label "رفتن به سطر …">
 <!ENTITY goToLineCmd.accesskey "س">
 <!ENTITY goToLineCmd.commandkey "l">
 
@@ -60,7 +60,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textReset.label "عادی">
 <!ENTITY menu_textReset.accesskey "ع">
 
-<!ENTITY findOnCmd.label     "پیدا کردن در این صفحه...">
+<!ENTITY findOnCmd.label     "پیدا کردن در این صفحه…">
 <!ENTITY findOnCmd.accesskey "پ">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "پیدا کردن مجدد">
