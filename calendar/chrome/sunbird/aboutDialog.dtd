@@ -36,27 +36,27 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY aboutDialog.title      "About &brandFullName;">
-<!ENTITY copyright.label        "Credits">
+<!ENTITY aboutDialog.title      "&brandFullName; පිළිබඳව">
+<!ENTITY copyright.label        "ස්තුතිය">
 <!ENTITY copyright.accesskey    "C">
-<!ENTITY aboutLink.label        "&lt; About &brandFullName;">
+<!ENTITY aboutLink.label        "&lt; &brandFullName; පිළිබඳව">
 <!ENTITY aboutLink.accesskey    "A">
-<!ENTITY aboutVersion           "version">
-<!ENTITY copyrightText          "&#169;1998-2008 Contributors. All rights
-                                 reserved. Mozilla Sunbird, Sunbird, and the
-                                 Sunbird logos are trademarks of the Mozilla
-                                 Foundation. All rights reserved.">
+<!ENTITY aboutVersion           "වෙළුම">
+<!ENTITY copyrightText          "&#169;1998-2008 දායකයින්. සියලු හිමිකම් ඇවිරිණි. Mozilla Sunbird, Sunbird, ස
+                                 Sunbird ලාංඡනය Mozilla පදනමේ වෙළඳ සලකුණු වේ.  සියලු හිමිකම් ඇවිරිණි.">
 
-<!ENTITY brandMotto       "it's about time">
-<!ENTITY credit.thanks    "Special Thanks To">
+<!ENTITY brandMotto       "එය කාලය ගැනයි">
+<!ENTITY credit.thanks    "විශේෂ ස්තුතිය">
 
 <!-- localization credits look like this: -->
 <!--
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
+
+<!ENTITY credit.translation  "<h3>පරිවර්තකයින්</h3><ul><li>ඩනිෂ්ක නවින්</li><li>කල්ප පැතුම්</li></ul>">
 <!ENTITY credit.translation "">
 
-<!ENTITY credit.powered     "Powered by">
-<!ENTITY license.and        "and">
-<!ENTITY cmdClose.macKey  "W">
+<!ENTITY credit.powered     "බලගැන්වීම">
+<!ENTITY license.and        "සහ">
+<!ENTITY cmdClose.macKey  "W">
