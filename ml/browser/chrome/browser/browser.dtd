@@ -142,8 +142,8 @@
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "മുന്‍ഗണനകള്‍">
 <!ENTITY preferencesCmdUnix.accesskey "n">
-<!ENTITY clearPrivateDataCmd.label "സ്വകാര്യ വിവരങ്ങള്‍ മായ്ക്കുക">
-<!ENTITY clearPrivateDataCmd.accesskey "P">
+<!-- ENTITY clearPrivateDataCmd.label "സ്വകാര്യ വിവരങ്ങള്‍ മായ്ക്കുക" -->
+<!-- ENTITY clearPrivateDataCmd.accesskey "P" -->
 <!ENTITY viewMenu.label "കാണുക ">
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenu.label "ഉപകരണ പട്ടകള്‍ ">
@@ -170,7 +170,7 @@
 <!-- ENTITY earlierHistory.label "മുന്‍കാല ചരിത്രം" -->
 <!-- ENTITY historyShowSidebarCmd.label "വശപ്പട്ടയില്‍ കാണിക്കുക" -->
 <!-- ENTITY releaseCmd.accesskey "R" -->
-<!ENTITY releaseCmd.label "പ്രകാശനക്കുറിപ്പുകള്‍">
+<!-- ENTITY releaseCmd.label "പ്രകാശനക്കുറിപ്പുകള്‍" -->
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY searchFocus.commandkey "k">
