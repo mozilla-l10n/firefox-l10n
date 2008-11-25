@@ -3,6 +3,7 @@
 <!ENTITY titleSeparator.label " - ">
 <!-- File Menu -->
 
+<!ENTITY more.label "المزيد">
 <!ENTITY newFolderCmd.label "مجلد…">
 <!ENTITY newFolderCmd.accesskey "م">
 <!ENTITY closeTabCmd.label "أغلق اللسان">
