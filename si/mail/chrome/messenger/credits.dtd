@@ -8,7 +8,7 @@
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation "<h3>Localisation</h3><ul><li>Rohana Dasanayaka</li><li>Mahesha Hatharasinghe</li><li>Chamara Disanayake</li><li>Kasun Karunarathne</li></ul>">
+<!ENTITY credit.translation "<h3>Localisation</h3><ul><li>Srishanu Lokupathirage</li><li>Harshana Weerasinghe</li><li>Danishka Navin</li><li>Rohana Dasanayaka</li><li>Mahesha Hatharasinghe</li><li>Chamara Disanayake</li><li>Kasun Karunarathne</li></ul>">
 
 <!ENTITY credit.theme       "Theme Design">
 <!ENTITY credit.qa          "Quality Assurance">
