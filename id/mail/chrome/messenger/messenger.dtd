@@ -567,6 +567,7 @@
 <!ENTITY phishingBarMessage2.label "Pesan ini mungkin berisi penipuan (scam)">
 <!ENTITY removePhishingBarButton1.label "Abaikan Peringatan">
 <!ENTITY reportPhishingError1.label "Nampaknya pesan ini bukan pesan berisi penipuan.">
+<!ENTITY more.label "lebih banyak">
 <!ENTITY quickSearchCmd.key "p">
 <!ENTITY AddToAddressBook.label "Tambahkan ke Buku Alamat…">
 <!ENTITY AddToAddressBook.accesskey "A">
