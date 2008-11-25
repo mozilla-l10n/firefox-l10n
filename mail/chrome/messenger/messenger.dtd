@@ -623,6 +623,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY removePhishingBarButton1.label "Figyelmen kívül hagyás">
 <!ENTITY reportPhishingError1.label "Ez az üzenet nem tűnik becsapósnak.">
 
+<!-- Message Header Button Box (to show hidden email addresses) -->
+<!ENTITY more.label "továbbiak">
+
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
 

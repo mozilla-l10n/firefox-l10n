@@ -427,4 +427,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Kattintson a letöltési ablak megnyitásához">
 
-<!ENTITY ctrlTab.search.emptyText "Search Tabs">
+<!ENTITY ctrlTab.search.emptyText "Keresés a lapokon">
