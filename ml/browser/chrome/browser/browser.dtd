@@ -1,8 +1,8 @@
 <!ENTITY mainWindow.title "&brandFullName;">
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator "-">
-<!ENTITY viewsourcetitle.preface "എന്തിനുവേണ്ടിയുള്ള ഉറവിടം">
-<!ENTITY nothingAvailable.label "(ഒന്നും ലഭ്യമല്ല)">
+<!-- ENTITY viewsourcetitle.preface "എന്തിനുവേണ്ടിയുള്ള ഉറവിടം" -->
+<!-- ENTITY nothingAvailable.label "(ഒന്നും ലഭ്യമല്ല)" -->
 <!ENTITY tabCmd.label "പുതിയ റ്റാബ്‌ ">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
@@ -43,20 +43,20 @@
 <!ENTITY closeWindow.label "ജാലകം അടയ്ക്കുക">
 <!ENTITY bookmarksMenu.label "അടയാളങ്ങള്‍">
 <!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY addCurPageAsCmd.label "ഈ പേജ്‌ അടയാളപ്പെടുത്തുക...">
-<!ENTITY addCurPageAsCmd.commandkey "d">
+<!-- ENTITY addCurPageAsCmd.label "ഈ പേജ്‌ അടയാളപ്പെടുത്തുക..." -->
+<!-- ENTITY addCurPageAsCmd.commandkey "d" -->
 <!ENTITY subscribeToPageMenupopup.label "ഈ പേജിന്‌ subscribe ചെയ്യുക">
 <!ENTITY subscribeToPageMenuitem.label "ഈ പേജിന്‌ subscribe ചെയ്യുക...">
-<!ENTITY addLiveBookmarkMenupopup.label "ലൈവ്‌ അടയാളം ചേര്‍ക്കുക">
-<!ENTITY addLiveBookmarkMenuitem.label "ലൈവ്‌ അടയാളം ചേര്‍ക്കുക">
+<!-- ENTITY addLiveBookmarkMenupopup.label "ലൈവ്‌ അടയാളം ചേര്‍ക്കുക" -->
+<!-- ENTITY addLiveBookmarkMenuitem.label "ലൈവ്‌ അടയാളം ചേര്‍ക്കുക" -->
 <!ENTITY addCurPagesCmd.label "എല്ലാ ടാബുകളും അടയാളപ്പെടുത്തുക...">
-<!ENTITY addCurPagesCmd.accesskey "T">
-<!ENTITY manBookmarksCmd.label "അടയാളങ്ങള്‍ ചിട്ടപ്പെടുത്തുക...">
-<!ENTITY manBookmarksCmd.accesskey "M">
+<!-- ENTITY addCurPagesCmd.accesskey "T" -->
+<!-- ENTITY manBookmarksCmd.label "അടയാളങ്ങള്‍ ചിട്ടപ്പെടുത്തുക..." -->
+<!-- ENTITY manBookmarksCmd.accesskey "M" -->
 <!ENTITY bookmarkAllCmd.label "എല്ലാ ടാബുകളും അടയാളപ്പെടുത്തുക...">
-<!ENTITY searchBookmarksCmd.label "അടയാളങ്ങളില്‍ തിരയുക...">
-<!ENTITY searchBookmarksCmd.accesskey "S">
-<!ENTITY searchBookmarksCmd.commandkey "B">
+<!-- ENTITY searchBookmarksCmd.label "അടയാളങ്ങളില്‍ തിരയുക..." -->
+<!-- ENTITY searchBookmarksCmd.accesskey "S" -->
+<!-- ENTITY searchBookmarksCmd.commandkey "B" -->
 <!ENTITY backCmd.label "പുറകോട്ട്‌">
 <!ENTITY backCmd.accesskey "B">
 <!ENTITY backButton.tooltip "ഒരു പേജ്‌ പുറകോട്ട്‌ പോകുക">
@@ -70,7 +70,7 @@
 <!ENTITY stopCmd.accesskey "S">
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "പേജ്‌ തുറക്കുന്നത്‌ നിര്‍ത്തുക">
-<!ENTITY goEndCap.label "പോകുക">
+<!ENTITY--  goEndCap.label "പോകുക" -->
 <!ENTITY goEndCap.tooltip "വിലാസപട്ടയിലുള്ള വിലാസത്തിലേക്കു പോകുക">
 <!ENTITY printButton.label "അച്ചടിക്കുക">
 <!ENTITY printButton.tooltip "ഈ പേജ്‌ അച്ചടിക്കുക">
@@ -78,8 +78,8 @@
 <!ENTITY searchItem.title "തിരയുക">
 <!ENTITY throbberItem.title "പ്രവര്‍ത്തന സൂചിക">
 <!ENTITY bookmarksItem.title "അടയാളങ്ങള്‍">
-<!ENTITY updatesItem.title "അപ്പ്‌ഡേറ്റുകള്‍">
-<!ENTITY proxyIcon.tooltip "ഈ പേജിലേക്ക്‌ ലിങ്കിന്നായി ഈ ഐക്കണ്‍ വലിച്ചിടുക ">
+<!-- ENTITY updatesItem.title "അപ്പ്‌ഡേറ്റുകള്‍" -->
+<!-- ENTITY proxyIcon.tooltip "ഈ പേജിലേക്ക്‌ ലിങ്കിന്നായി ഈ ഐക്കണ്‍ വലിച്ചിടുക " -->
 <!ENTITY homeButton.label "ആസ്ഥാനം">
 <!ENTITY bookmarksButton.label "അടയാളങ്ങള്‍">
 <!ENTITY bookmarksButton.tooltip "എന്റെ അടയാളങ്ങള്‍ കാണിക്കുക">
@@ -104,14 +104,14 @@
 <!ENTITY addons.label "ആഡ്‌-ഓണുകള്‍">
 <!ENTITY addons.tooltip "ഇന്‍സ്റ്റാള്‍ ചെയ്തിരിക്കുന്ന ആഡ്‌ഓണുകള്‍ കാണിക്കുകയും ക്രമീകരിക്കുകയും ചെയ്യുക">
 <!ENTITY addons.accesskey "A">
-<!ENTITY javaConsoleCmd.label "ജാവാ കണ്‍സോള്‍">
-<!ENTITY javaConsoleCmd.accesskey "J">
+<!-- ENTITY javaConsoleCmd.label "ജാവാ കണ്‍സോള്‍" -->
+<!-- ENTITY javaConsoleCmd.accesskey "J" -->
 <!ENTITY errorConsoleCmd.label "എറര്‍ കണ്‍സോള്‍ ">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY fileMenu.label "ഫയല്">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY newMenu.label "പുതിയത്‌">
-<!ENTITY newMenu.accesskey "N">
+<!-- ENTITY newMenu.label "പുതിയത്‌" -->
+<!-- ENTITY newMenu.accesskey "N" -->
 <!ENTITY newNavigatorCmd.label "പുതിയ ജാലകം ">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "N">
@@ -155,22 +155,22 @@
 <!ENTITY historyMenu.label "ചരിത്രം">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "അടുത്തിടെ അടച്ച ടാബുകള്‍">
-<!ENTITY historyUndoMenu.accesskey "R">
+<!-- ENTITY historyUndoMenu.accesskey "R" -->
 <!ENTITY historyHomeCmd.label "ആസ്ഥാനം">
-<!ENTITY historyHomeCmd.accesskey "h">
-<!ENTITY historySearchCmd.label "ചരിത്രത്തില്‍ തിരയുക...">
-<!ENTITY historySearchCmd.accesskey "s">
-<!ENTITY historyShowCmd.label "എല്ലാ ചരിത്രവും കാണുക...">
-<!ENTITY historyShowCmd.accesskey "v">
-<!ENTITY placesToolbarButton.label "അടയാളങ്ങളുടെ ചരിത്രം കാണിക്കുക">
-<!ENTITY placesToolbarButton.tooltip "അടയാളങ്ങളുടെ ചരിത്രം കാണിക്കുക">
-<!ENTITY goMenu.label "പോകുക">
-<!ENTITY goMenu.accesskey "g">
-<!ENTITY goHomeCmd.label "ആസ്ഥാനം">
-<!ENTITY earlierHistory.label "മുന്‍കാല ചരിത്രം">
-<!ENTITY historyShowSidebarCmd.label "വശപ്പട്ടയില്‍ കാണിക്കുക">
-<!ENTITY releaseCmd.accesskey "R">
-<!ENTITY releaseCmd.label "റിലീസ്‌ നോട്ടുകള്‍">
+<!-- ENTITY historyHomeCmd.accesskey "h" -->
+<!-- ENTITY historySearchCmd.label "ചരിത്രത്തില്‍ തിരയുക..." -->
+<!-- ENTITY historySearchCmd.accesskey "s" -->
+<!-- ENTITY historyShowCmd.label "എല്ലാ ചരിത്രവും കാണുക..." -->
+<!-- ENTITY historyShowCmd.accesskey "v" -->
+<!-- ENTITY placesToolbarButton.label "അടയാളങ്ങളുടെ ചരിത്രം കാണിക്കുക" -->
+<!-- ENTITY placesToolbarButton.tooltip "അടയാളങ്ങളുടെ ചരിത്രം കാണിക്കുക" -->
+<!-- ENTITY goMenu.label "പോകുക" -->
+<!-- ENTITY goMenu.accesskey "g" -->
+<!-- ENTITY goHomeCmd.label "ആസ്ഥാനം" -->
+<!-- ENTITY earlierHistory.label "മുന്‍കാല ചരിത്രം" -->
+<!-- ENTITY historyShowSidebarCmd.label "വശപ്പട്ടയില്‍ കാണിക്കുക" -->
+<!-- ENTITY releaseCmd.accesskey "R" -->
+<!ENTITY releaseCmd.label "പ്രകാശനക്കുറിപ്പുകള്‍>
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY searchFocus.commandkey "k">
@@ -180,8 +180,8 @@
 <!ENTITY openLinkCmd.accesskey "W">
 <!ENTITY openLinkCmdInTab.label "ലിങ്ക് പുതിയ ടാബില്‍ തുറക്കുക">
 <!ENTITY openLinkCmdInTab.accesskey "T">
-<!ENTITY openLinkInWindowCmd.label "തുറക്കുക">
-<!ENTITY openLinkInWindowCmd.accesskey "p">
+<!-- ENTITY openLinkInWindowCmd.label "തുറക്കുക" -->
+<!-- ENTITY openLinkInWindowCmd.accesskey "p" -->
 <!ENTITY openFrameCmd.label "ഫ്രെയിം പുതിയ ജാലകത്തില്‍ തുറക്കുക">
 <!ENTITY openFrameCmd.accesskey "W">
 <!ENTITY openFrameCmdInTab.label "ഫ്രെയിം പുതിയ ടാബില്‍ തുറക്കുക">
@@ -208,12 +208,12 @@
 <!ENTITY viewBGImageCmd.accesskey "w">
 <!ENTITY setDesktopBackgroundCmd.label "ഡെസ്ക്ടോപ്പ്‌ ബാക്ക്ഗ്രൌണ്ടായി സെറ്റ്‌ ചെയ്യുക ">
 <!ENTITY setDesktopBackgroundCmd.accesskey "S">
-<!ENTITY bookmarkPageCmd.label "ഈ പേജ്‌ അടയാളപ്പെടുത്തുക...">
-<!ENTITY bookmarkPageCmd.accesskey "m">
-<!ENTITY bookmarkLinkCmd.label "ഈ ലിങ്ക്‌ അടയാളപ്പെടുത്തുക">
-<!ENTITY bookmarkLinkCmd.accesskey "L">
-<!ENTITY bookmarkFrameCmd.label "ഈ ചട്ടം അടയാളപ്പെടുത്തുക">
-<!ENTITY bookmarkFrameCmd.accesskey "F">
+<!-- ENTITY bookmarkPageCmd.label "ഈ പേജ്‌ അടയാളപ്പെടുത്തുക..." -->
+<!-- ENTITY bookmarkPageCmd.accesskey "m" -->
+<!-- ENTITY bookmarkLinkCmd.label "ഈ ലിങ്ക്‌ അടയാളപ്പെടുത്തുക" -->
+<!-- ENTITY bookmarkLinkCmd.accesskey "L" -->
+<!-- ENTITY bookmarkFrameCmd.label "ഈ ചട്ടം അടയാളപ്പെടുത്തുക" -->
+<!-- ENTITY bookmarkFrameCmd.accesskey "F" -->
 <!ENTITY sendPageCmd.label "ലിങ്ക്‌ അയക്കുക...">
 <!ENTITY sendPageCmd.accesskey "e">
 <!ENTITY savePageCmd.label "പേജ്‌ ഇങ്ങനെ സൂക്ഷിക്കുക">
@@ -243,19 +243,19 @@
 <!ENTITY copyEmailCmd.accesskey "E">
 <!ENTITY thisFrameMenu.label "ഈ ഫ്രെയിം">
 <!ENTITY thisFrameMenu.accesskey "h">
-<!ENTITY textZoomEnlargeCmd.label "വലുതാക്കുക">
-<!ENTITY textZoomEnlargeCmd.accesskey "I">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
-<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY textZoomReduceCmd.label "ചെറുതാക്കുക">
-<!ENTITY textZoomReduceCmd.accesskey "D">
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomResetCmd.commandkey "0">
-<!ENTITY textZoomResetCmd.label "നോര്‍മല്‍ ">
-<!ENTITY textZoomResetCmd.accesskey "N">
-<!ENTITY textSize.label "ടെക്സ്റ്റ്‌ വലുപ്പം">
-<!ENTITY textSize.accesskey "z">
-<!ENTITY newTabButton.tooltip "പുതിയ റ്റാബ്‌ തുറക്കുക">
+<!-- ENTITY textZoomEnlargeCmd.label "വലുതാക്കുക" -->
+<!-- ENTITY textZoomEnlargeCmd.accesskey "I" -->
+<!-- ENTITY textZoomEnlargeCmd.commandkey "+" -->
+<!-- ENTITY textZoomEnlargeCmd.commandkey2 "=" -->
+<!-- ENTITY textZoomReduceCmd.label "ചെറുതാക്കുക" -->
+<!-- ENTITY textZoomReduceCmd.accesskey "D" -->
+<!-- ENTITY textZoomReduceCmd.commandkey "-" -->
+<!-- ENTITY textZoomResetCmd.commandkey "0" -->
+<!-- ENTITY textZoomResetCmd.label "നോര്‍മല്‍ " -->
+<!-- ENTITY textZoomResetCmd.accesskey "N" -->
+<!-- ENTITY textSize.label "ടെക്സ്റ്റ്‌ വലുപ്പം" -->
+<!-- ENTITY textSize.accesskey "z" -->
+<!-- ENTITY newTabButton.tooltip "പുതിയ റ്റാബ്‌ തുറക്കുക" -->
 <!ENTITY newWindowButton.tooltip "പുതിയ ജാലകം തുറക്കുക">
 <!ENTITY sidebarCloseButton.tooltip "വശപ്പട്ട അടയ്ക്കുക">
 <!ENTITY cutButton.tooltip "മുറിക്കുക">
@@ -274,12 +274,12 @@
 <!ENTITY closeCmd.accesskey "C">
 <!ENTITY pageStyleMenu.label "പേജ്‌ ശൈലി">
 <!ENTITY pageStyleMenu.accesskey "y">
-<!ENTITY pageStyleButton.label "പേജ്‌ ശൈലികള്‍">
+<!-- ENTITY pageStyleButton.label "പേജ്‌ ശൈലികള്‍" -->
 <!ENTITY pageStyleNoStyle.label "സ്റ്റൈല്‍ ഇല്ലാതെ">
 <!ENTITY pageStyleNoStyle.accesskey "n">
 <!ENTITY pageStylePersistentOnly.label "അടിസ്ഥാന പേജ്‌ ശൈലി">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
-<!ENTITY pageStyleIcon.tooltip "മറ്റൊരു പേജ്‌ ശൈലിയിലേക്ക്‌ മാറുക ">
+<!-- ENTITY pageStyleIcon.tooltip "മറ്റൊരു പേജ്‌ ശൈലിയിലേക്ക്‌ മാറുക " -->
 <!ENTITY pageReportIcon.tooltip "ഈ പേജിന്റെ popup തടയല്‍ നിയന്ത്രണങ്ങള്‍ മാറ്റുക">
 <!ENTITY allowPopups.accesskey "p">
 <!ENTITY editPopupSettingsUnix.label "Popup Blocker മുന്‍ഗണനകള്‍ തിരുത്തുക">
@@ -298,15 +298,15 @@
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY spellAddToDictionary.label "നിഘണ്ടു ചേര്‍ക്കുക">
-<!ENTITY spellAddToDictionary.accesskey "t">
-<!ENTITY spellEnable.label "ഈ ഫീല്‍ഡിന്റെ സ്പെല്ലിംഗ്‌ ചെക്ക്‌ ചെയ്യുക">
-<!ENTITY spellEnable.accesskey "S">
-<!ENTITY spellNoSuggestions.label "(സ്പെല്ലിംഗ്‌ അഭിപ്രായങ്ങള്‍ ഒന്നുമില്ല )">
-<!ENTITY spellDictionaries.label "ഭാഷകള്‍">
-<!ENTITY spellDictionaries.accesskey "l">
+<!-- ENTITY spellAddToDictionary.label "നിഘണ്ടു ചേര്‍ക്കുക" -->
+<!-- ENTITY spellAddToDictionary.accesskey "t" -->
+<!-- ENTITY spellEnable.label "ഈ ഫീല്‍ഡിന്റെ സ്പെല്ലിംഗ്‌ ചെക്ക്‌ ചെയ്യുക" -->
+<!-- ENTITY spellEnable.accesskey "S" -->
+<!-- ENTITY spellNoSuggestions.label "(സ്പെല്ലിംഗ്‌ അഭിപ്രായങ്ങള്‍ ഒന്നുമില്ല )" -->
+<!-- ENTITY spellDictionaries.label "ഭാഷകള്‍" -->
+<!-- ENTITY spellDictionaries.accesskey "l" -->
 <!ENTITY spellAddDictionaries.label "നിഘണ്ടുവിലേക്കു ചേര്‍ക്കുക...">
 <!ENTITY spellAddDictionaries.accesskey "A">
-<!ENTITY location.status.not_bookmarked "സ്റ്റാര്‍ (ഓഫ്‌) ">
-<!ENTITY location.status.bookmarked "സ്റ്റാര്‍ (ഓണ്‍)">
-<!ENTITY location.status.bookmark.tooltip "ഈ പേജിലേക്ക്‌ ഒരു അടയാളം ചേര്‍ക്കുക">
+<!-- ENTITY location.status.not_bookmarked "സ്റ്റാര്‍ (ഓഫ്‌) " -->
+<!-- ENTITY location.status.bookmarked "സ്റ്റാര്‍ (ഓണ്‍)" -->
+<!-- ENTITY location.status.bookmark.tooltip "ഈ പേജിലേക്ക്‌ ഒരു അടയാളം ചേര്‍ക്കുക" -->
