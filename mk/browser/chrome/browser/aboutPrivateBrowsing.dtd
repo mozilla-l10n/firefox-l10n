@@ -1,0 +1,13 @@
+<!ENTITY privatebrowsingpage.tabtitle                  "Приватно сурфање">
+
+<!ENTITY privatebrowsingpage.pagetitle                 "Приватно сурфање">
+
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; нема да чува историја за оваа сесија.">
+<!ENTITY privatebrowsingpage.longDesc                  "За време на оваа сесија &brandShortName; нема да чува историја.  Ова вклучува сурферска историја, историја на пребарување, историја на преземање, историја од формулари, колачиња и привремени интернет датотеки. Сепак, сите датотеки кои ќе ги презмете или обележувачи кои ќе ги креирате, ќе бидат зачувани.">
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Можеби сакате да започнете со тоа што исто така ќе ја исчистите Вашата скорашна историја.">
+<!ENTITY privatebrowsingpage.recentHistory.label       "Исчисти ја скорешната историја">
+<!ENTITY privatebrowsingpage.recentHistory.accesskey   "с">
+
+<!ENTITY privatebrowsingpage.howToStopDesc             "За да го сопрете приватното сурфање, кликнете на „Алатки“ &gt; Приватно сурфање.">
+<!ENTITY privatebrowsingpage.footerDesc                "Уживајте!">
