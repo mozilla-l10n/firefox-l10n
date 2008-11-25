@@ -32,5 +32,5 @@
 <!ENTITY makeUrlRelative.tooltip "Passer d'une URL relative à une URL absolue. Vous devez d'abord enregistrer la page pour faire ce changement.">
 
 <!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "Entrez une adresse Web ou un nom de fichier, ou sélectionnez une ancre ou un en-tête :">
-<!ENTITY LinkURLEditField.accessKey "E">
+<!ENTITY LinkURLEditField.label "Saisissez une adresse Web ou un nom de fichier, ou sélectionnez une ancre ou un en-tête :">
+<!ENTITY LinkURLEditField.accessKey "e">

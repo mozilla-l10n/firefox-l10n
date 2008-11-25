@@ -45,7 +45,7 @@
 <!ENTITY ListNickName.label "Pseudo de la liste :">
 <!ENTITY ListDescription.label "Description :">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label "Entrez les adresses à ajouter à la liste de diffusion :">
+<!ENTITY AddressTitle.label "Saisissez les adresses à ajouter à la liste de diffusion :">
 <!ENTITY UpButton.label "Vers le haut">
 <!ENTITY DownButton.label "Vers le bas">
 
