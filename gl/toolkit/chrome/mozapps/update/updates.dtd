@@ -4,10 +4,7 @@
 <!ENTITY  window.macWidth                 "39em">
 
 <!ENTITY  checking.title                  "Buscando actualizacións">
-<!ENTITY  checking.label                  "&brandShortName; está a buscar actualizacións…">
-
-<!ENTITY  cancel.label                    "Cancelar">
-<!ENTITY  cancel.accesskey                "C">
+<!ENTITY  updateCheck.label               "Buscando versións máis recentes de &brandShortName;…">
 
 <!ENTITY  noupdatesfound.title            "Non se encontrou ningunha actualización">
 <!ENTITY  noupdatesautoenabled.intro      "Non existen novas actualizacións dispoñíbeis. &brandShortName; will check
@@ -15,16 +12,12 @@
 <!ENTITY  noupdatesautodisabled.intro     "Non existen novas actualizacións dispoñíbeis. Verifique de novo máis tarde ou active
                                            a busca automática de actualizacións de &brandShortName;.">
 
-<!ENTITY  incompatibleChecking.label      "Verificando se esta actualización pode causar problemas con extensións e/ou temas…">
+<!ENTITY  incompatibleCheck.title         "Verificando compatibilidade do complemento">
+<!ENTITY  incompatibleCheck.label         "Buscando versións máis actuais dos complementos…">
+
 <!ENTITY  clickHere.label                 "Ver máis información sobre esta actualización">
 
-<!ENTITY  incompatible.warning            "Esta actualización provocará que algunhas extensións e/ou temas 
-                                           deixen de funcionar até seren actualizadas(os).">
-<!ENTITY  listIncompatible.label          "Mostrar lista">
-<!ENTITY  listIncompatible.accesskey      "M">
-
-<!ENTITY  upgrade.evangelism              "Recomendamos actualizar &brandShortName; 
-                                           canto antes.">
+<!ENTITY  evangelism.desc                 "Recoméndase aplicar esta actualización de &brandShortName; o antes posíbel.">
 
 <!ENTITY  license.instructions            "Se acepta os termos do contrato, prema Acepto 
                                            para continuar coa instalación da actualización.">
@@ -37,6 +30,8 @@
 <!ENTITY  license.decline                 "Non acepto os termos do contrato de licenza">
 <!ENTITY  license.decline.accesskey       "N">
 
+<!ENTITY  incompatibleList.title          "Encontrados complementos incompatíbeis">
+
 <!ENTITY  downloading.title               "Descargando a actualización">
 <!ENTITY  downloading.intro               "Descargando a actualización…">
 <!ENTITY  connecting.label                "Conectando co servidor de actualizacións…">
@@ -44,11 +39,9 @@
                                            actualización incremental descargada, visto que está a descargar
                                            o paquete completo da actualización.">
 
+<!ENTITY  viewDetails.tooltip             "Ver detalles desta actualización">
+
 <!ENTITY  details.link                    "Detalles">
-<!ENTITY  pause.label                     "Parar">
-<!ENTITY  pause.accesskey                 "a">
-<!ENTITY  close.label                     "Pechar">
-<!ENTITY  close.accesskey                 "P">
 
 <!ENTITY  error.label                     "Houbo problemas ao buscar, descargar ou instalar esta 
                                            actualización. Non foi posíbel actualizar &brandShortName; porque:">
@@ -60,19 +53,17 @@
 <!ENTITY  errorpatching.intro             "Non foi posíbel aplicar a actualización parcial. 
                                            &brandShortName; tentará de novo descargando a actualización completa.">
 
-<!ENTITY  finished.title                  "Actualización descargada">
-<!ENTITY  finished.text                   "A actualización descargouse e verificouse correctamente. Instalarase
-                                           a próxima vez que inicie  &brandShortName;.">
+<!ENTITY  finishedPage.title              "Actualización pronta para ser instalada">
+<!ENTITY  finishedPage.text               "A actualización será instalada a próxima vez que se inicie &brandShortName;. Pode reiniciar
+                                           &brandShortName; agora ou continuar a traballar e facelo máis tarde.">
 
-<!ENTITY  finishedBackground.title        "Actualización pronta para instalar">
-<!ENTITY  finishedBackground.text         "&brandShortName; descargou e verificou unha actualización importante. 
-                                           Prema a seguinte ligazón para obter máis detalles.">
+<!ENTITY  finishedBackgroundPage.text     "Descargouse unha actualización de seguranza e estabilidade de &brandShortName;
+                                           e está pronta para ser instalada.">
+
 <!ENTITY  finishedBackground.name         "Actualizar:">
-<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
-<!ENTITY  finishedBackground.more1        "Prema Reiniciar &brandShortName; para instalar a actualización agora.">
-<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!ENTITY  finishedBackground.textNotNow   "Prema Agora non para pechar esta caixa de diálogo e continuar coas súas tarefas. &brandShortName;
-                                           instalará a actualización a próxima vez que inicie.">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more         "A actualización será instalada a próxima vez que se inicie &brandShortName;. Pode reiniciar
+                                           &brandShortName; agora ou continuar a traballar e facelo máis tarde.">
 
 <!ENTITY  installed.title                 "Actualización instalada">
 <!ENTITY  installed.intro                 "Actualización instalada correctamente.">

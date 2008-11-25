@@ -112,6 +112,7 @@
 <!ENTITY insecureUpdate.label             "Non fornece actualizacións seguras.">
 <!ENTITY needsDependencies.label          "Precisa elementos adicionais.">
 <!ENTITY blocklisted.label                "Desactivado por seguranza.">
+<!ENTITY softBlocklisted.label            "Coñecido por causar problemas de estabilidade ou seguranza.">
 <!ENTITY toBeDisabled.label               "Desactivarase este complemento ao reiniciar &brandShortName;">
 <!ENTITY toBeEnabled.label                "Activarase este complemento ao reiniciar &brandShortName;">
 <!ENTITY toBeInstalled.label              "Instalarase este complemento ao reiniciar &brandShortName;">
@@ -168,3 +169,6 @@
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "Aceptar e instalar…">
+
+<!ENTITY blocklist.blocked.label          "Bloqueado">
+<!ENTITY blocklist.checkbox.label         "Desactivado">

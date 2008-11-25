@@ -71,6 +71,11 @@
 <!ENTITY cmd.edit_redo.accesskey    "R">
 <!ENTITY cmd.edit_redo.key          "y">
 
+<!ENTITY cmd.delete.label               "Eliminar esta páxina">
+<!ENTITY cmd.delete.accesskey           "l">
+<!ENTITY cmd.deleteDomainData.label     "Esquecer este sitio">
+<!ENTITY cmd.deleteDomainData.accesskey "s">
+
 <!ENTITY cmd.open.label                  "Abrir">
 <!ENTITY cmd.open.accesskey              "A">
 <!ENTITY cmd.open_window.label           "Abrir nunha nova xanela">

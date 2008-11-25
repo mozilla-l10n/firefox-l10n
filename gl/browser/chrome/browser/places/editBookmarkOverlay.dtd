@@ -21,3 +21,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Cargar este marcador na barra lateral">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "a">
 <!ENTITY editBookmarkOverlay.choose.label                    "Escoller…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Novo cartafol">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">

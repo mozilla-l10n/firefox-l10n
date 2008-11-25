@@ -8,6 +8,8 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Exploración privada)">
+
 <!ENTITY tabCmd.label "Novo separador">
 <!ENTITY tabCmd.accesskey "v">
 <!ENTITY tabCmd.commandkey "t">
@@ -141,8 +143,13 @@
 <!ENTITY preferencesCmd.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferencias">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
-<!ENTITY clearPrivateDataCmd.label            "Limpar os datos privados">
-<!ENTITY clearPrivateDataCmd.accesskey        "p">
+
+<!ENTITY clearRecentHistoryCmd.label            "Limpar historial recente">
+<!ENTITY clearRecentHistoryCmd.accesskey        "H">
+
+<!ENTITY privateBrowsingCmd.label            "Exploración privada">
+<!ENTITY privateBrowsingCmd.accesskey        "x">
+
 <!ENTITY viewMenu.label         "Ver">
 <!ENTITY viewMenu.accesskey       "V">
 <!ENTITY viewToolbarsMenu.label       "Barras de ferramentas">
@@ -213,6 +220,8 @@
 <!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "Ver a imaxe">
 <!ENTITY viewImageCmd.accesskey       "i">
+<!ENTITY viewVideoCmd.label           "Ver vídeo">
+<!ENTITY viewVideoCmd.accesskey       "d">
 <!ENTITY viewBGImageCmd.label         "Ver a imaxe de fondo">
 <!ENTITY viewBGImageCmd.accesskey     "r">
 <!ENTITY setDesktopBackgroundCmd.label      "Establecer como fondo do escritorio…">
@@ -377,3 +386,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "producido por">
 <!ENTITY identity.moreInfoLinkText "Máis información…">
 <!ENTITY downloadMonitor2.tooltip "Prema para abrir a xanela de descargas">
+<!ENTITY ctrlTab.search.emptyText "Buscar separadores">
