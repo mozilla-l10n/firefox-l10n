@@ -82,8 +82,6 @@
 <!ENTITY  event.menu.file.page.setup.accesskey            "h">
 <!ENTITY  event.menu.file.print.label                     "Trüki">
 <!ENTITY  event.menu.file.print.accesskey                 "T">
-<!ENTITY  event.menu.file.exit.label                      "Välju">
-<!ENTITY  event.menu.file.exit.accesskey                  "j">
 
 <!ENTITY  event.menu.edit.label                           "Redigeerimine">
 <!ENTITY  event.menu.edit.accesskey                       "R">
