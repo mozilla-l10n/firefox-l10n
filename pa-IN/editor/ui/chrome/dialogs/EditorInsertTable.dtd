@@ -21,7 +21,7 @@
   -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "ਸਾਰਣੀ ਸ਼ਾਮਿਲ">
+<!ENTITY windowTitle.label "ਟੇਬਲ ਸ਼ਾਮਿਲ">
 
 <!ENTITY size.label "ਆਕਾਰ">
 <!ENTITY numRowsEditField.label "ਕਤਾਰਾਂ:">
@@ -32,5 +32,5 @@
 <!ENTITY widthEditField.accessKey "W">
 <!ENTITY borderEditField.label "ਹਾਸ਼ੀਆ:">
 <!ENTITY borderEditField.accessKey "B">
-<!ENTITY borderEditField.tooltip "ਸਾਰਣੀ ਦੇ ਹਾਸ਼ੀਏ ਲਈ ਕੋਈ ਅੰਕ ਦਿਓ ਜਾਂ ਨਾ-ਹਾਸ਼ੀਏ ਲਈ ਸਿਫਰ(0) ਦਿਓ">
+<!ENTITY borderEditField.tooltip "ਟੇਬਲ ਦੇ ਹਾਸ਼ੀਏ ਲਈ ਕੋਈ ਅੰਕ ਦਿਓ ਜਾਂ ਨਾ-ਹਾਸ਼ੀਏ ਲਈ ਸਿਫਰ(0) ਦਿਓ">
 <!ENTITY pixels.label "ਪਿਕਸਲ">

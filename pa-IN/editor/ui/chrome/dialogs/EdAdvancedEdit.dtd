@@ -30,8 +30,8 @@
 <!ENTITY tree.propertyHeader.label      "ਵਿਸ਼ੇਸਤਾ">
 <!ENTITY tree.valueHeader.label         "ਮੁੱਲ">
 <!ENTITY tabHTML.label                  "HTMLਵਿਸ਼ੇਸਤਾ">
-<!ENTITY tabCSS.label                   "Inline ਸ਼ੈਲੀ">
+<!ENTITY tabCSS.label                   "ਇਨਲਾਈਨ ਸਟਾਈਲ">
 <!ENTITY tabJSE.label                   "JavaScript ਘਟਨਾ">
 
-<!ENTITY editAttribute.label    "ਇੱਕ ਉੱਪਰ ਦਿੱਤੀ ਇਕਾਈ ਵਿੱਚ ਸੋਧ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ">
+<!ENTITY editAttribute.label    "ਇੱਕ ਉੱਤੇ ਦਿੱਤੀ ਇਕਾਈ ਵਿੱਚ ਸੋਧ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ">
 <!ENTITY removeAttribute.label  "ਹਟਾਓ">

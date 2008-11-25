@@ -39,20 +39,20 @@
 
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "Hotspot ਵਿਸ਼ੇਸਤਾ">
+<!ENTITY windowTitle.label "ਹਾਟਸਪਾਟ ਵਿਸ਼ੇਸ਼ਤਾ">
 
-<!ENTITY link.label				"Hotspot ਸਬੰਧ">
-<!ENTITY urlFieldset.label		"Hotspot URL:">
-<!ENTITY altFieldset.label		"Hotspot Alt ਪਾਠ:">
+<!ENTITY link.label				"ਹਾਟ-ਸਪਾਟ ਲਿੰਕ">
+<!ENTITY urlFieldset.label		"ਹਾਟ-ਸਪਾਟ URL:">
+<!ENTITY altFieldset.label		"ਹਾਟ-ਸਪਾਟ Alt ਟੈਕਸਟ:">
 <!ENTITY browseButton.label		"ਝਲਕ...">
-<!ENTITY targetFieldset.label	"ਟਿਕਾਣਾ ਵਿਵਸਥਾ">
-<!ENTITY target.label			"Hotspot ਟਿਕਾਣਾ">
+<!ENTITY targetFieldset.label	"ਟਿਕਾਣਾ ਸੈਟਿੰਗ">
+<!ENTITY target.label			"ਹਾਟ-ਸਪਾਟ ਟਿਕਾਣਾ">
 
 <!-- Targets -->
 <!ENTITY commonFieldset.label	"ਆਮ ਨਿਸ਼ਾਨਾ:">
 <!ENTITY none.value				"(ਕੋਈ ਨਹੀਂ)">
 <!ENTITY same.value				"ਇਹੀ ਫਰੇਮ">
-<!ENTITY whole.value			"ਪੂਰਾ ਸਫ਼ਾ">
-<!ENTITY new.value				"ਨਵਾਂ ਝਰੋਕਾ">
+<!ENTITY whole.value			"ਪੂਰਾ ਪੇਜ਼">
+<!ENTITY new.value				"ਨਵੀਂ ਵਿੰਡੋ">
 <!ENTITY parent.value			"ਮੁੱਖ ਫਰੇਮ">
 

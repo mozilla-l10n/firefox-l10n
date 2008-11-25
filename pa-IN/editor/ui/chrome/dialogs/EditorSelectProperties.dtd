@@ -34,10 +34,10 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "ਚੋਣ ਸੂਚੀ ਵਿਸ਼ੇਸਤਾ">
+<!ENTITY windowTitle.label "ਚੋਣ ਲਿਸਟ ਵਿਸ਼ੇਸ਼ਤਾ">
 
-<!ENTITY Select.label "ਚੋਣ ਸੂਚੀ">
-<!ENTITY SelectName.label "ਸੂਚੀ ਨਾਂ:">
+<!ENTITY Select.label "ਚੋਣ ਲਿਸਟ">
+<!ENTITY SelectName.label "ਲਿਸਟ ਨਾਂ:">
 <!ENTITY SelectName.accesskey "N">
 <!ENTITY SelectSize.label "ਉਚਾਈ:">
 <!ENTITY SelectSize.accesskey "H">
@@ -45,7 +45,7 @@
 <!ENTITY SelectMultiple.accesskey "M">
 <!ENTITY SelectDisabled.label "ਆਯੋਗ">
 <!ENTITY SelectDisabled.accesskey "D">
-<!ENTITY SelectTabIndex.label "ਟੈਬ ਤਤਕਰਾ:">
+<!ENTITY SelectTabIndex.label "ਟੈਬ ਇੰਡੈਕਸ:">
 <!ENTITY SelectTabIndex.accesskey "I">
 
 <!ENTITY OptGroup.label "ਚੋਣ ਗਰੁੱਪ">
@@ -55,7 +55,7 @@
 <!ENTITY OptGroupDisabled.accesskey "D">
 
 <!ENTITY Option.label "ਚੋਣ">
-<!ENTITY OptionText.label "ਪਾਠ:">
+<!ENTITY OptionText.label "ਟੈਕਸਟ:">
 <!ENTITY OptionText.accesskey "T">
 <!ENTITY OptionValue.label "ਮੁੱਲ:">
 <!ENTITY OptionValue.accesskey "V">
@@ -64,7 +64,7 @@
 <!ENTITY OptionDisabled.label "ਆਯੋਗ">
 <!ENTITY OptionDisabled.accesskey "D">
 
-<!ENTITY TextHeader.label "ਪਾਠ">
+<!ENTITY TextHeader.label "ਟੈਕਸਟ">
 <!ENTITY ValueHeader.label "ਮੁੱਲ">
 <!ENTITY SelectedHeader.label "ਚੁਣਿਆ">
 
@@ -74,7 +74,7 @@
 <!ENTITY AddOptGroup.accesskey "G">
 <!ENTITY RemoveElement.label "ਹਟਾਓ">
 <!ENTITY RemoveElement.accesskey "R">
-<!ENTITY MoveElementUp.label "ਉੱਪਰ ਭੇਜੋ">
+<!ENTITY MoveElementUp.label "ਉੱਤੇ ਭੇਜੋ">
 <!ENTITY MoveElementUp.accesskey "U">
 <!ENTITY MoveElementDown.label "ਹੇਠਾਂ ਭੇਜੋ">
 <!ENTITY MoveElementDown.accesskey "D">

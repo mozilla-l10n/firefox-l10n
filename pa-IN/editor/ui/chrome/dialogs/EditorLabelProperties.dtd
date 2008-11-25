@@ -36,10 +36,10 @@
 
 <!ENTITY windowTitle.label "ਲੇਬਲ ਵਿਸ਼ੇਸਤਾ">
 
-<!ENTITY Settings.label "ਵਿਵਸਥਾ">
+<!ENTITY Settings.label "ਸੈਟਿੰਗ">
 <!ENTITY Settings.accesskey "S">
 
-<!ENTITY EditLabelText.label "ਪਾਠ ਸੋਧ:">
+<!ENTITY EditLabelText.label "ਟੈਕਸਟ ਸੋਧ:">
 <!ENTITY EditLabelText.accesskey "T">
 <!ENTITY LabelFor.label "ਕੰਟਰੋਲ ਲਈ:">
 <!ENTITY LabelFor.accesskey "F">

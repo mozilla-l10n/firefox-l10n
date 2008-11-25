@@ -22,7 +22,7 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "HTML ਸ਼ਾਮਿਲ">
-<!ENTITY sourceEditField.label "HTML ਟੈਗ ਅਤੇ ਪਾਠ ਸ਼ਾਮਿਲ:">
+<!ENTITY sourceEditField.label "HTML ਟੈਗ ਅਤੇ ਟੈਕਸਟ ਸ਼ਾਮਿਲ:">
 <!ENTITY example.label "ਉਦਾਹਰਨ: ">
 <!-- LOCALIZATION NOTE (exampleOpenTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->
 <!ENTITY exampleOpenTag.label "&lt;i&gt;">

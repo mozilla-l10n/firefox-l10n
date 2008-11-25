@@ -43,10 +43,10 @@
 <!ENTITY EditLegendText.accesskey "T">
 <!ENTITY LegendAlign.label "ਸੰਕੇਤ ਇਕਸਾਰ:">
 <!ENTITY LegendAlign.accesskey "A">
-<!ENTITY AlignDefault.label "ਮੂਲ">
+<!ENTITY AlignDefault.label "ਡਿਫਾਲਟ">
 <!ENTITY AlignLeft.label "ਖੱਬੇ">
 <!ENTITY AlignCenter.label "ਕੇਂਦਰ">
 <!ENTITY AlignRight.label "ਸੱਜੇ">
 
-<!ENTITY RemoveFieldSet.label "ਖੇਤਰ ਸੈਟ ਹਟਾਓ">
+<!ENTITY RemoveFieldSet.label "ਖੇਤਰ ਸੈੱਟ ਹਟਾਓ">
 <!ENTITY RemoveFieldSet.accesskey "R">

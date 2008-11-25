@@ -34,9 +34,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "ਪਾਠ ਖੇਤਰ ਵਿਸ਼ੇਸਤਾ">
+<!ENTITY windowTitle.label "ਟੈਕਸਟ ਖੇਤਰ ਵਿਸ਼ੇਸ਼ਤਾ">
 
-<!ENTITY Settings.label "ਵਿਵਸਥਾ">
+<!ENTITY Settings.label "ਸੈਟਿੰਗ">
 
 <!ENTITY TextAreaName.label "ਖੇਤਰ ਨਾਂ:">
 <!ENTITY TextAreaName.accessKey "N">
@@ -44,21 +44,21 @@
 <!ENTITY TextAreaRows.accessKey "R">
 <!ENTITY TextAreaCols.label "ਕਾਲਮ:">
 <!ENTITY TextAreaCols.accessKey "C">
-<!ENTITY TextAreaReadOnly.label "ਪੜਨ ਲਈ">
+<!ENTITY TextAreaReadOnly.label "ਪੜ੍ਹਨ ਲਈ">
 <!ENTITY TextAreaReadOnly.accessKey "O">
 <!ENTITY TextAreaDisabled.label "ਆਯੋਗ">
 <!ENTITY TextAreaDisabled.accessKey "D">
-<!ENTITY TextAreaTabIndex.label "ਟੈਬ ਤਤਕਰਾ:">
+<!ENTITY TextAreaTabIndex.label "ਟੈਬ ਇੰਡੈਕਸ:">
 <!ENTITY TextAreaTabIndex.accessKey "I">
 <!ENTITY TextAreaAccessKey.label "ਪਹੁੰਚ ਕੁੰਜੀ:">
 <!ENTITY TextAreaAccessKey.accessKey "K">
-<!ENTITY InitialText.label "ਸ਼ੁਰੂਆਤੀ ਪਾਠ:">
+<!ENTITY InitialText.label "ਸ਼ੁਰੂਆਤੀ ਟੈਕਸਟ:">
 <!ENTITY InitialText.accessKey "T">
 
 <!ENTITY TextAreaWrap.label "ਸਮੇਟਣ ਢੰਗ:">
 <!ENTITY TextAreaWrap.accessKey "W">
-<!ENTITY WrapDefault.value "ਮੂਲ">
-<!ENTITY WrapOff.value "ਬੰਦ">
+<!ENTITY WrapDefault.value "ਡਿਫਾਲਟ">
+<!ENTITY WrapOff.value "ਬੰਦ ਕਰੋ">
 <!ENTITY WrapHard.value "ਸਖਤ">
 <!ENTITY WrapSoft.value "ਨਰਮ">
 <!ENTITY WrapPhysical.value "ਭੌਤਿਕ">

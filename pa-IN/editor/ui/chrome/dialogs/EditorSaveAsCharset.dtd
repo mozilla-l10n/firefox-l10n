@@ -40,11 +40,11 @@
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 
 <!-- These strings are for use specifically in the editor's link dialog. -->
-<!ENTITY windowTitle.label "ਸੰਭਾਲੋ ਅਤੇ ਅੱਖਰ ਇੰਕੋਡਿੰਗ ਤਬਦੀਲ">
-<!ENTITY documentTitleTitle.label "ਸਫ਼ਾ ਨਾਂ">
+<!ENTITY windowTitle.label "ਸੰਭਾਲੋ ਅਤੇ ਅੱਖਰ ਇੰਕੋਡਿੰਗ ਬਦਲੋ">
+<!ENTITY documentTitleTitle.label "ਪੇਜ਼ ਨਾਂ">
 <!ENTITY documentCharsetTitle.label "ਅੱਖਰ ਇੰਕੋਡਿੰਗ">
-<!ENTITY documentCharsetDesc.label "ਦਸਤਾਵੇਜ਼ ਨੂੰ ਸੰਭਾਲਣ ਲਈ ਅੱਖਰ ਇੰਕੋਡਿੰਗ ਦੀ ਚੋਣ ਕਰੋ:">
-<!ENTITY documentExportToText.label "ਪਾਠ ਲਈ ਨਿਰਯਾਤ">
+<!ENTITY documentCharsetDesc.label "ਡੌਕੂਮੈਂਟ ਨੂੰ ਸੰਭਾਲਣ ਲਈ ਅੱਖਰ ਇੰਕੋਡਿੰਗ ਦੀ ਚੋਣ ਕਰੋ:">
+<!ENTITY documentExportToText.label "ਟੈਕਸਟ ਲਈ ਐਕਸਪੋਰਟ">
 
 
 

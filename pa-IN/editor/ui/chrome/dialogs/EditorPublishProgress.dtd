@@ -38,13 +38,13 @@
 
 <!-- Window title -->
 <!ENTITY siteUrl.label         "ਸਾਇਟ URL:">
-<!ENTITY docSubdir.label       "ਸਫ਼ਾ ਅਧੀਨ-ਡਾਇਰੈਕਟਰੀ:">
-<!ENTITY otherSubdir.label     "ਚਿੱਤਰ ਅਧੀਨ-ਡਾਇਰੈਕਟਰੀ:">
+<!ENTITY docSubdir.label       "ਪੇਜ਼ ਸਬ-ਡਾਇਰੈਕਟਰੀ:">
+<!ENTITY otherSubdir.label     "ਚਿੱਤਰ ਸਬ-ਡਾਇਰੈਕਟਰੀ:">
 
-<!ENTITY status.label          "ਪ੍ਰਕਾਸ਼ਿਤ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...">
-<!ENTITY fileList.label        "ਪ੍ਰਕਾਸ਼ਨ ਸਥਿਤੀ">
+<!ENTITY status.label          "ਪਬਲਿਸ਼ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...">
+<!ENTITY fileList.label        "ਪਬਲਿਸ਼ ਸਥਿਤੀ">
 <!ENTITY succeeded.label       "ਸਫ਼ਲ">
 <!ENTITY failed.label          "ਅਸਫ਼ਲ">
 
-<!ENTITY keepOpen              "ਪ੍ਰਕਾਸ਼ਨ ਉਪਰੰਤ ਇਹ ਵਿੰਡੋ ਖੁੱਲੀ ਰੱਖੋ।">
+<!ENTITY keepOpen              "ਪਬਲਿਸ਼ ਕਰਨ ਉਪਰੰਤ ਇਹ ਵਿੰਡੋ ਖੁੱਲੀ ਰੱਖੋ।">
 <!ENTITY closeButton.label     "ਬੰਦ ਕਰੋ">

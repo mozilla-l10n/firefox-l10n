@@ -40,38 +40,38 @@
 <!-- These strings are for use specifically in the editor's image map dialog. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Image Map Editor">
+<!ENTITY windowTitle.label "ਚਿੱਤਰ ਮੈਪ ਐਡੀਟਰ">
 
 <!-- Menu Items -->
 <!-- File menu -->
-<!ENTITY mapfileMenu.label "File">
+<!ENTITY mapfileMenu.label "ਫਾਇਲ">
 <!ENTITY mapfileMenu.accesskey "f">
-<!ENTITY clearCmd.label "Clear">
+<!ENTITY clearCmd.label "ਸਾਫ਼ ਕਰੋ">
 <!ENTITY clearCmd.accesskey "a">
-<!ENTITY closeCmd.label "Close">
+<!ENTITY closeCmd.label "ਬੰਦ ਕਰੋ">
 <!ENTITY closeCmd.accesskey "c">
 
 <!-- Edit menu -->
-<!ENTITY mapeditMenu.label "Edit">
+<!ENTITY mapeditMenu.label "ਸੋਧ">
 <!ENTITY mapeditMenu.accesskey "e">
-<!ENTITY cutCmd.label "Cut">
+<!ENTITY cutCmd.label "ਕੱਟੋ">
 <!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Copy">
+<!ENTITY copyCmd.label "ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyCmd.accesskey "c">
-<!ENTITY pasteCmd.label "Paste">
+<!ENTITY pasteCmd.label "ਚੇਪੋ">
 <!ENTITY pasteCmd.accesskey "p">
-<!ENTITY selectallCmd.label "Select All">
+<!ENTITY selectallCmd.label "ਸਭ ਚੁਣੋ">
 <!ENTITY selectallCmd.accesskey "s">
-<!ENTITY propsCmd.label "Hotspot Properties">
+<!ENTITY propsCmd.label "ਹਾਟਸਪਾਟ ਵਿਸ਼ੇਸ਼ਤਾ">
 <!ENTITY propsCmd.accesskey "h">
 
 <!-- View menu -->
-<!ENTITY mapviewMenu.label "View">
+<!ENTITY mapviewMenu.label "ਵੇਖੋ">
 <!ENTITY mapviewMenu.accesskey "v">
-<!ENTITY showhideTbarCmd.label "Hide Toolbar">
+<!ENTITY showhideTbarCmd.label "ਟੂਲਬਾਰ ਓਹਲੇ">
 <!ENTITY showhideTbarCmd.accesskey "t">
 <!-- Scaling -->
-<!ENTITY mapviewScale.label "Scale">
+<!ENTITY mapviewScale.label "ਸਕੇਲ">
 <!ENTITY mapviewScale.accesskey "S">
 <!ENTITY apercentCmd.label "100">
 <!ENTITY apercentCmd.accesskey "1">
@@ -80,8 +80,8 @@
 <!ENTITY cpercentCmd.label "400">
 <!ENTITY cpercentCmd.accesskey "4">
 
-<!ENTITY zoominCmd.label "Zoom In">
-<!ENTITY zoomoutCmd.label "Zoom Out">
+<!ENTITY zoominCmd.label "ਜ਼ੂਮ ਇਨ">
+<!ENTITY zoomoutCmd.label "ਜ਼ੂਮ ਆਉਟ">
 
 <!-- Keys -->
 <!ENTITY clear.key "d">

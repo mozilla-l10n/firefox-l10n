@@ -23,7 +23,7 @@
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "ਚਿੱਤਰ ਵਿਸ਼ੇਸਤਾ">
+<!ENTITY windowTitle.label "ਚਿੱਤਰ ਵਿਸ਼ੇਸ਼ਤਾ">
 
 <!ENTITY pixelsPopup.value "ਪਿਕਸਲ">
 
@@ -31,16 +31,16 @@
 <!ENTITY locationEditField.label "ਚਿੱਤਰ ਸਥਿਤੀ:">
 <!ENTITY locationEditField.accessKey "L">
 <!ENTITY locationEditField.tooltip "ਚਿੱਤਰ ਫਾਇਲ ਨਾਂ ਜਾਂ ਸਥਿਤੀ ਲਿਖੋ">
-<!ENTITY title.label "ਸੰਦ ਸੰਕੇਤ:">
+<!ENTITY title.label "ਟੂਲ ਟਿੱਪ:">
 <!ENTITY title.accessKey "T">
-<!ENTITY title.tooltip "html 'ਸਿਰਲੇਖ' ਗੁਣ, ਜੋ ਕਿ ਸੰਦ-ਸੰਕੇਤ ਵਜੋਂ ਵੇਖਿਆ ਜਾਵੇਗਾ">
-<!ENTITY altText.label "ਬਦਲਵਾਂ ਪਾਠ:">
+<!ENTITY title.tooltip "html 'ਹੈਡਿੰਗ' ਗੁਣ, ਜੋ ਕਿ ਟੂਲ-ਟਿੱਪ ਵਜੋਂ ਵੇਖਿਆ ਜਾਵੇਗਾ">
+<!ENTITY altText.label "ਬਦਲਵਾਂ ਟੈਕਸਟ:">
 <!ENTITY altText.accessKey "A">
-<!ENTITY altTextEditField.tooltip "ਚਿੱਤਰ ਦੀ ਥਾਂ ਤੇ ਵੇਖਾਉਣ ਲਈ ਪਾਠ ਦਿਓ">
-<!ENTITY noAltText.label "ਬਦਲਵਾਂ ਪਾਠ ਨਾ ਇਸਤੇਮਾਲ ਕਰੋ">
+<!ENTITY altTextEditField.tooltip "ਚਿੱਤਰ ਦੀ ਥਾਂ ਤੇ ਵੇਖਾਉਣ ਲਈ ਟੈਕਸਟ ਦਿਓ">
+<!ENTITY noAltText.label "ਬਦਲਵਾਂ ਟੈਕਸਟ ਨਾ ਇਸਤੇਮਾਲ ਕਰੋ">
 <!ENTITY noAltText.accessKey "D">
 
-<!ENTITY previewBox.label "ਚਿੱਤਰ ਦਰਿਸ਼">
+<!ENTITY previewBox.label "ਚਿੱਤਰ ਝਲਕ">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
@@ -50,7 +50,7 @@
 <!ENTITY actualSizeRadio.tooltip "ਚਿੱਤਰ ਦਾ ਅਸਲੀ ਆਕਾਰ ਮੁੜ-ਪ੍ਰਾਪਤ ਕਰੋ">
 <!ENTITY customSizeRadio.label "ਪਸੰਦੀਦਾ ਆਕਾਰ">
 <!ENTITY customSizeRadio.accessKey "S">
-<!ENTITY customSizeRadio.tooltip "ਸਫੇ ਤੇ ਦਿੱਤੇ ਅਨੁਸਾਰ ਚਿੱਤਰ ਦਾ ਆਕਾਰ ਤਬਦੀਲ ਕਰੋ">
+<!ENTITY customSizeRadio.tooltip "ਪੇਜ਼ ਉੱਤੇ ਦਿੱਤੇ ਅਨੁਸਾਰ ਚਿੱਤਰ ਦਾ ਆਕਾਰ ਤਬਦੀਲ ਕਰੋ">
 <!ENTITY heightEditField.label "ਉਚਾਈ:">
 <!ENTITY heightEditField.accessKey "G">
 <!ENTITY widthEditField.label "ਚੌੜਾਈ:">
@@ -67,9 +67,9 @@
 <!ENTITY editImageMapButton.tooltip "ਇਸ ਚਿੱਤਰ ਤੇ ਦੱਬਣਯੋਗ ਧੱਬੇ ਬਣਾਉ">
 
 <!-- These are the options for image alignment -->
-<!ENTITY alignment.label "ਚਿੱਤਰ ਤੇ ਪਾਠ ਇਕਸਾਰ">
+<!ENTITY alignment.label "ਚਿੱਤਰ ਅਤੇ ਪਾਠ ਇਕਸਾਰ">
 <!ENTITY bottomPopup.value "ਹੇਠਾਂ">
-<!ENTITY topPopup.value "ਉੱਪਰ">
+<!ENTITY topPopup.value "ਉੱਤੇ">
 <!ENTITY centerPopup.value "ਕੇਂਦਰ ਵਿੱਚ">
 <!ENTITY wrapRightPopup.value "ਸੱਜੇ ਸਮੇਟੋ">
 <!ENTITY wrapLeftPopup.value "ਖੱਬੇ ਸਮੇਟੋ">
@@ -78,13 +78,13 @@
 <!ENTITY spacingBox.label "ਖਾਲੀ ਥਾਂ">
 <!ENTITY leftRightEditField.label "ਖੱਬੇ ਤੇ ਸੱਜੇ:">
 <!ENTITY leftRightEditField.accessKey "L">
-<!ENTITY topBottomEditField.label "ਉੱਪਰ ਤੇ ਹੇਠਾਂ:">
+<!ENTITY topBottomEditField.label "ਉੱਤੇ ਤੇ ਹੇਠਾਂ:">
 <!ENTITY topBottomEditField.accessKey "T">
 <!ENTITY borderEditField.label "ਗੂੜਾ ਹਾਸ਼ੀਆ:">
 <!ENTITY borderEditField.accessKey "B">
 
 <!-- These controls are in the Link Box -->
-<!ENTITY showImageLinkBorder.label "ਸੰਬੰਧ ਚਿੱਤਰ ਦੁਆਲੇ ਚਿੱਤਰ ਦਿਓ">
+<!ENTITY showImageLinkBorder.label "ਲਿੰਕ ਚਿੱਤਰ ਦੁਆਲੇ ਚਿੱਤਰ ਦਿਓ">
 <!ENTITY showImageLinkBorder.accessKey "B">
 
 
@@ -93,4 +93,4 @@
 <!ENTITY imageLocationTab.label "ਸਥਿਤੀ">
 <!ENTITY imageDimensionsTab.label "ਮਾਪ">
 <!ENTITY imageAppearanceTab.label "ਸ਼ਕਲ">
-<!ENTITY imageLinkTab.label "ਸੰਬੰਧ">
+<!ENTITY imageLinkTab.label "ਲਿੰਕ">

@@ -21,15 +21,15 @@
   -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "ਨਿੱਜੀ ਸ਼ਬਦ-ਕੋਸ਼">
+<!ENTITY windowTitle.label "ਨਿੱਜੀ ਡਿਕਸ਼ਨਰੀ">
 
 <!ENTITY wordEditField.label "ਨਵਾਂ ਸ਼ਬਦ:">
 <!ENTITY wordEditField.accessKey "N">
-<!ENTITY AddButton.label "ਸ਼ਾਮਿਲ">
+<!ENTITY AddButton.label "ਸ਼ਾਮਲ">
 <!ENTITY AddButton.accessKey "A">
-<!ENTITY DictionaryList.label "ਸ਼ਬਦ-ਕੋਸ਼ ਵਿੱਚ ਸ਼ਬਦ:">
+<!ENTITY DictionaryList.label "ਡਿਕਸ਼ਨਰੀ ਵਿੱਚ ਸ਼ਬਦ:">
 <!ENTITY DictionaryList.accessKey "W">
-<!ENTITY ReplaceButton.label "ਤਬਦੀਲ">
+<!ENTITY ReplaceButton.label "ਬਦਲੋ">
 <!ENTITY ReplaceButton.accessKey "R">
 <!ENTITY RemoveButton.label "ਹਟਾਓ">
 <!ENTITY RemoveButton.accessKey "e">

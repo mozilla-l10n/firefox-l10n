@@ -21,12 +21,12 @@
   -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "ਸ਼ਬਦ-ਜੋੜ ਜਾਂਚ">
+<!ENTITY windowTitle.label "ਸਪੈਲਿੰਗ ਚੈੱਕ">
 
 <!ENTITY misspelledWord.label "ਗਲਤ ਸ਼ਬਦ:">
-<!ENTITY wordEditField.label "ਇਸ ਨਾਲ ਤਬਦੀਲ:">
+<!ENTITY wordEditField.label "ਇਸ ਨਾਲ ਬਦਲੋ:">
 <!ENTITY wordEditField.accessKey "w">
-<!ENTITY checkwordButton.label "ਸ਼ਬਦ ਜਾਂਚ">
+<!ENTITY checkwordButton.label "ਸਪੈਲਿੰਗ ਚੈੱਕ">
 <!ENTITY checkwordButton.accessKey "k">
 <!ENTITY suggestions.label "ਸੁਝਾਅ:">
 <!ENTITY suggestions.accessKey "u">
@@ -34,19 +34,19 @@
 <!ENTITY ignoreButton.accessKey "I">
 <!ENTITY ignoreAllButton.label "ਸਭ ਅਣਡਿੱਠੇ">
 <!ENTITY ignoreAllButton.accessKey "n">
-<!ENTITY replaceButton.label "ਤਬਦੀਲ">
+<!ENTITY replaceButton.label "ਬਦਲੋ">
 <!ENTITY replaceButton.accessKey "R">
-<!ENTITY replaceAllButton.label "ਸਭ ਤਬਦੀਲ">
+<!ENTITY replaceAllButton.label "ਸਭ ਬਦਲੋ">
 <!ENTITY replaceAllButton.accessKey "A">
 <!ENTITY stopButton.label "ਰੋਕੋ">
 <!ENTITY stopButton.accessKey "t">
-<!ENTITY userDictionary.label "ਨਿੱਜੀ ਸ਼ਬਦ-ਕੋਸ਼:">
+<!ENTITY userDictionary.label "ਨਿੱਜੀ ਡਿਕਸ਼ਨਰੀ:">
 <!ENTITY moreDictionaries.label "ਹੋਰ ਡਾਊਨਲੋਡ ਕਰੋ">
 <!ENTITY addToUserDictionaryButton.label "ਸ਼ਬਦ ਸ਼ਾਮਿਲ">
 <!ENTITY addToUserDictionaryButton.accessKey "d">
 <!ENTITY editUserDictionaryButton.label "ਸੋਧ...">
 <!ENTITY editUserDictionaryButton.accessKey "E">
-<!ENTITY recheckButton.label "ਸਫਾ ਮੁੜ-ਜਾਂਚ">
+<!ENTITY recheckButton.label "ਪੇਜ਼ ਮੁੜ ਚੈੱਕ ਕਰੋ">
 <!ENTITY recheckButton.accessKey "P">
 <!ENTITY closeButton.label "ਬੰਦ ਕਰੋ">
 <!ENTITY closeButton.accessKey "C">

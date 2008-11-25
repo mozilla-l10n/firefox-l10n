@@ -53,7 +53,7 @@
 <!ENTITY newSiteButton.accesskey      "N">
 <!ENTITY docDirList.label         "ਇਸ ਪੇਜ਼ ਲਈ ਸਾਇਟ ਅਧੀਨ-ਡਾਇਰੈਕਟਰੀ:">
 <!ENTITY docDirList.accesskey         "S">
-<!ENTITY docDirList.tooltip           "Choose or enter the name of the remote subdirectory for this page">
+<!ENTITY docDirList.tooltip           "ਇਹ ਪੇਜ਼ ਲਈ ਰਿਮੋਟ ਸਬ-ਡਾਇਰੈਕਟਰੀ ਚੁਣੋ ਜਾਂ ਨਾਂ ਦਿਓ">
 <!ENTITY publishImgCheckbox.label "ਚਿੱਤਰ ਅਤੇ ਹੋਰ ਫਾਇਲਾਂ ਸ਼ਾਮਿਲ">
 <!ENTITY publishImgCheckbox.accesskey "o">
 <!ENTITY publishImgCheckbox.tooltip "ਇਸ ਪੇਜ਼ ਰਾਹੀਂ ਮੰਗੇ ਚਿੱਤਰ ਅਤੇ ਹੋਰ ਫਾਇਲਾਂ ਵੀ ਪਬਲਿਸ਼ ਕਰੋ">
@@ -62,8 +62,8 @@
 <!ENTITY sameLocationRadio.tooltip "ਪੇਜ਼ ਦੇ ਟਿਕਾਣੇ ਉੱਤੇ ਹੀ ਫਾਇਲਾਂ ਪਬਲਿਸ਼ ਕਰੋ">
 <!ENTITY useSubdirRadio.label         "ਇਹ ਸਾਈਟ ਸਬ-ਡਾਇਰੈਕਟਰੀ ਵਰਤੋਂ:">
 <!ENTITY useSubdirRadio.accesskey     "d">
-<!ENTITY useSubdirRadio.tooltip       "Publish files to the selected remote subdirectory">
-<!ENTITY otherDirList.tooltip         "Choose or enter name of remote subdirectory where files will be published">
+<!ENTITY useSubdirRadio.tooltip       "ਫਾਇਲਾਂ ਨੂੰ ਚੁਣੀ ਰਿਮੋਟ ਸਬ-ਡਾਇਰੈਕਟਰੀ ਵਿੱਚ ਪਬਲਿਸ਼ ਕਰੋ">
+<!ENTITY otherDirList.tooltip         "ਰਿਮੋਟ ਸਬ-ਡਾਇਰੈਕਟਰੀ ਚੁਣੋ ਜਾਂ ਦਿਓ, ਜਿੱਥੇ ਫਾਇਲਾਂ ਨੂੰ ਪਬਲਿਸ਼ ਕਰਨਾ ਹੈ">
 <!ENTITY pageTitle.label          "ਪੇਜ਼ ਟਾਈਟਲ:">
 <!ENTITY pageTitle.accesskey          "T">
 <!ENTITY pageTitle.tooltip        "ਵਿੰਡੋ ਵਿੱਚ ਅਤੇ ਬੁੱਕਮਾਰਕ ਦੀ ਪਛਾਣ ਲਈ ਨਾਂ ਦਿਓ">

@@ -21,26 +21,26 @@
   -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "ਸਫਾ ਰੰਗ ਤੇ ਪਿੱਠਭੂਮੀ">
-<!ENTITY pageColors.label "ਸਫਾ ਰੰਗ">
-<!ENTITY defaultColorsRadio.label "ਪੜਨ ਲਈ ਮੂਲ ਰੰਗ (ਸਫੇ ਵਿੱਚ ਰੰਗ ਨਾ ਚੁਣੋ)">
+<!ENTITY windowTitle.label "ਪੇਜ਼ ਰੰਗ ਅਤੇ ਬੈਕਗਰਾਊਂਡ">
+<!ENTITY pageColors.label "ਪੇਜ਼ ਰੰਗ">
+<!ENTITY defaultColorsRadio.label "ਪੜ੍ਹਨ ਲਈ ਡਿਫਾਲਟ ਰੰਗ (ਪੇਜ਼ ਵਿੱਚ ਰੰਗ ਨਾ ਚੁਣੋ)">
 <!ENTITY defaultColorsRadio.accessKey "D">
-<!ENTITY defaultColorsRadio.tooltip "ਦਰਸ਼ਕ ਝਲਕਾਰੇ ਤੋਂ ਹੀ ਰੰਗ ਵਿਵਸਥਾ ਚੁਣੋ">
-<!ENTITY customColorsRadio.label "ਪ੍ਰਚਲਿਤ ਰੰਗ ਵਰਤੋਂ:">
+<!ENTITY defaultColorsRadio.tooltip "ਦਰਸ਼ਕ ਬਰਾਊਜ਼ਰ ਤੋਂ ਹੀ ਰੰਗ ਸੈਟਿੰਗ ਚੁਣੋ">
+<!ENTITY customColorsRadio.label "ਕਸਟਮ ਰੰਗ ਵਰਤੋਂ:">
 <!ENTITY customColorsRadio.accessKey "C">
-<!ENTITY customColorsRadio.tooltip "ਇਹ ਰੰਗ ਵਿਵਸਥਾ ਦਰਸ਼ਕ ਝਲਕਾਰਾ ਵਿਵਸਥਾ ਨੂੰ ਤਬਦੀਲ ਕਰ ਦੇਵੇਗੀ">
+<!ENTITY customColorsRadio.tooltip "ਇਹ ਰੰਗ ਸੈਟਿੰਗ ਦਰਸ਼ਕ ਬਰਾਊਜ਼ਰ ਸੈਟਿੰਗ ਨੂੰ ਤਬਦੀਲ ਕਰ ਦੇਵੇਗੀ">
 
-<!ENTITY normalText.label "ਸਧਾਰਨ ਪਾਠ">
+<!ENTITY normalText.label "ਸਧਾਰਨ ਟੈਕਸਟ">
 <!ENTITY normalText.accessKey "N">
-<!ENTITY linkText.label "ਸੰਬੰਧ ਪਾਠ">
+<!ENTITY linkText.label "ਲਿੰਕ ਟੈਕਸਟ">
 <!ENTITY linkText.accessKey "L">
-<!ENTITY activeLinkText.label "ਸਰਗਰਮ ਸੰਬੰਧ ਪਾਠ">
+<!ENTITY activeLinkText.label "ਸਰਗਰਮ ਲਿੰਕ ਟੈਕਸਟ">
 <!ENTITY activeLinkText.accessKey "A">
-<!ENTITY visitedLinkText.label "ਖੋਲੇ ਸੰਬੰਧ ਪਾਠ">
+<!ENTITY visitedLinkText.label "ਖੋਲ੍ਹੇ ਲਿੰਕ ਟੈਕਸਟ">
 <!ENTITY visitedLinkText.accessKey "V">
-<!ENTITY background.label "ਪਿੱਠਭੂਮੀ:">
+<!ENTITY background.label "ਬੈਕਗਰਾਊਂਡ:">
 <!ENTITY background.accessKey "B">
 <!ENTITY colon.character ":">
-<!ENTITY backgroundImage.label "ਪਿੱਠਭੂਮੀ ਚਿੱਤਰ:">
+<!ENTITY backgroundImage.label "ਬੈਕਗਰਾਊਂਡ ਚਿੱਤਰ:">
 <!ENTITY backgroundImage.accessKey "m">
-<!ENTITY backgroundImage.tooltip "ਆਪਣੇ  ਸਫੇ ਦੀ ਪਿੱਠਭੂਮੀ ਲਈ ਇੱਕ ਚਿੱਤਰ ਫਾਇਲ਼ ਦੀ ਵਰਤੋਂ ਕਰੋ">
+<!ENTITY backgroundImage.tooltip "ਆਪਣੇ  ਪੇਜ਼ ਦੀ ਬੈਕਗਰਾਊਂਡ ਲਈ ਇੱਕ ਚਿੱਤਰ ਫਾਇਲ਼ ਦੀ ਵਰਤੋਂ ਕਰੋ">

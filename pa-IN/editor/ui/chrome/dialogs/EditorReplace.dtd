@@ -23,10 +23,10 @@
 
 <!-- extracted from EdReplace.xul -->
 
-<!ENTITY replaceDialog.title "ਖੋਜ ਤੇ ਤਬਦੀਲ">
-<!ENTITY findField.label "ਪਾਠ ਖੋਜ:">
+<!ENTITY replaceDialog.title "ਖੋਜੋ ਤੇ ਬਦਲੋ">
+<!ENTITY findField.label "ਟੈਕਸਟ ਖੋਜ:">
 <!ENTITY findField.accesskey "n">
-<!ENTITY replaceField.label "ਇਸ ਨਾਲ ਤਬਦੀਲ:">
+<!ENTITY replaceField.label "ਇਸ ਨਾਲ ਬਦਲੋ:">
 <!ENTITY replaceField.accesskey "e">
 <!ENTITY caseSensitiveCheckbox.label "ਛੋਟੇ/ਛੋਟੇ ਅੱਖਰ (ਅੰਗਰੇਜ਼ੀ) ਦਾ ਧਿਆਨ ਰੱਖੋ">
 <!ENTITY caseSensitiveCheckbox.accesskey "c">
@@ -36,10 +36,10 @@
 <!ENTITY backwardsCheckbox.accesskey "b">
 <!ENTITY findNextButton.label "ਅੱਗੇ ਖੋਜ">
 <!ENTITY findNextButton.accesskey "F">
-<!ENTITY replaceButton.label "ਤਬਦੀਲ">
+<!ENTITY replaceButton.label "ਬਦਲੋ">
 <!ENTITY replaceButton.accesskey "R">
-<!ENTITY replaceAndFindButton.label "ਤਬਦੀਲ ਤੇ ਖੋਜ">
+<!ENTITY replaceAndFindButton.label "ਬਦਲੋ ਅਤੇ ਖੋਜ">
 <!ENTITY replaceAndFindButton.accesskey "d">
-<!ENTITY replaceAllButton.label "ਸਭ ਤਬਦੀਲ">
+<!ENTITY replaceAllButton.label "ਸਭ ਬਦਲੋ">
 <!ENTITY replaceAllButton.accesskey "A">
 <!ENTITY closeButton.label "ਬੰਦ ਕਰੋ">

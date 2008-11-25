@@ -4,9 +4,9 @@
 <!ENTITY  authorName.accesskey      "u">
 <!ENTITY  pageColorHeader           "ਡਿਫਾਲਟ ਪੇਜ਼ ਦਿੱਖ">
 
-<!ENTITY defaultColors.label        "Reader's default colors (Don't set colors in page)">
+<!ENTITY defaultColors.label        "ਰੀਡਰ ਦਾ ਡਿਫਾਲਟ ਰੰਗ (ਪੇਜ਼ ਵਿੱਚ ਰੰਗ ਨਾ ਸੈੱਟ ਕਰੋ)">
 <!ENTITY defaultColors.accesskey    "d">
-<!ENTITY customColors.label         "Use custom colors:">
+<!ENTITY customColors.label         "ਪਸੰਦੀਦਾ ਰੰਗ ਵਰਤੋਂ:">
 <!ENTITY customColors.accesskey     "c">
 
 <!ENTITY normalText.label           "ਸਧਾਰਨ ਟੈਕਸਟ">

@@ -39,11 +39,11 @@
 <!ENTITY buildToc.label      "ਇੱਥੋਂ ਤਤਕਰਾ ਬਣਾਓ:">
 <!ENTITY tag.label           "ਟੈਗ:">
 <!ENTITY class.label         "ਕਲਾਸ:">
-<!ENTITY header1.label       "ਪੱਧਰ 1">
-<!ENTITY header2.label       "ਪੱਧਰ 2">
-<!ENTITY header3.label       "ਪੱਧਰ 3">
-<!ENTITY header4.label       "ਪੱਧਰ 4">
-<!ENTITY header5.label       "ਪੱਧਰ 5">
-<!ENTITY header6.label       "ਪੱਧਰ 6">
-<!ENTITY makeReadOnly.label  "ਤਤਕਰਾ ਸਭ ਪੜਨ ਲਈ ਬਣਾਓ">
-<!ENTITY orderedList.label   "ਸਾਰੇ ਤਤਕਰੇ ਵਿੱਚ ਇੰਦਰਾਜ਼ਾਂ ਨੂੰ ਨੰਬਰ ਦਿਓ">
+<!ENTITY header1.label       "ਲੈਵਲ 1">
+<!ENTITY header2.label       "ਲੈਵਲ 2">
+<!ENTITY header3.label       "ਲੈਵਲ 3">
+<!ENTITY header4.label       "ਲੈਵਲ 4">
+<!ENTITY header5.label       "ਲੈਵਲ 5">
+<!ENTITY header6.label       "ਲੈਵਲ 6">
+<!ENTITY makeReadOnly.label  "ਤਤਕਰਾ ਕੇਵਲ ਪੜ੍ਹਨ ਲਈ ਬਣਾਓ">
+<!ENTITY orderedList.label   "ਸਾਰੇ ਤਤਕਰੇ ਵਿੱਚ ਸਭ ਐਂਟਰੀਆਂ ਨੂੰ ਨੰਬਰ ਦਿਓ">

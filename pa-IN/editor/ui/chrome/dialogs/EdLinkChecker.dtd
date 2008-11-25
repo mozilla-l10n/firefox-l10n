@@ -37,7 +37,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label     "ਚਿੱਤਰ ਅਤੇ ਸਬੰਧ ਟਿਕਾਣਾ ਚੁਣੋ">
+<!ENTITY windowTitle.label     "ਚਿੱਤਰ ਅਤੇ ਲਿੰਕ ਟਿਕਾਣਾ ਚੁਣੋ">
 <!ENTITY succeeded.label       "ਸਫ਼ਲ">
 <!ENTITY failed.label          "ਅਸਫ਼ਲ">
 <!ENTITY closeButton.label     "ਬੰਦ ਕਰੋ">

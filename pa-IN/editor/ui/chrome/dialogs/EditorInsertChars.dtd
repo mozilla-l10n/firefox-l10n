@@ -23,7 +23,7 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "ਅੱਖਰ ਸ਼ਾਮਿਲ">
-<!ENTITY category.label "ਵਰਗ">
+<!ENTITY category.label "ਕੈਟਾਗਰੀ">
 <!ENTITY letter.label "ਅੱਖਰ:">
 <!ENTITY letter.accessKey "L">
 <!ENTITY character.label "ਅੱਖਰ:">

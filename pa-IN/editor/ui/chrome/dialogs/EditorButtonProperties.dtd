@@ -34,26 +34,26 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Button Properties">
+<!ENTITY windowTitle.label "ਬਟਨ ਵਿਸ਼ੇਸ਼ਤਾ">
 
-<!ENTITY Settings.label "Settings">
+<!ENTITY Settings.label "ਸੈਟਿੰਗ">
 
-<!ENTITY ButtonType.label "Type">
+<!ENTITY ButtonType.label "ਟਾਈਪ">
 <!ENTITY ButtonType.accesskey "T">
-<!ENTITY submit.value "Submit">
-<!ENTITY reset.value "Reset">
-<!ENTITY button.value "Button">
+<!ENTITY submit.value "ਭੇਜੋ">
+<!ENTITY reset.value "ਰੀ-ਸੈੱਟ">
+<!ENTITY button.value "ਬਟਨ">
 
-<!ENTITY ButtonName.label "Name:">
+<!ENTITY ButtonName.label "ਨਾਂ:">
 <!ENTITY ButtonName.accesskey "N">
-<!ENTITY ButtonValue.label "Value:">
+<!ENTITY ButtonValue.label "ਮੁੱਲ:">
 <!ENTITY ButtonValue.accesskey "V">
-<!ENTITY tabIndex.label "Tab Index:">
+<!ENTITY tabIndex.label "ਟੈਬ ਇੰਡੈਕਸ:">
 <!ENTITY tabIndex.accesskey "I">
-<!ENTITY ButtonDisabled.label "Disabled">
+<!ENTITY ButtonDisabled.label "ਆਯੋਗ ਹੈ">
 <!ENTITY ButtonDisabled.accesskey "D">
-<!ENTITY AccessKey.label "Access Key:">
+<!ENTITY AccessKey.label "ਅਸੈੱਸ ਸਵਿੱਚ:">
 <!ENTITY AccessKey.accesskey "K">
 
-<!ENTITY RemoveButton.label "Remove Button">
+<!ENTITY RemoveButton.label "ਬਟਨ ਹਟਾਓ">
 <!ENTITY RemoveButton.accesskey "R">
