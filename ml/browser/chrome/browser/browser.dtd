@@ -70,7 +70,7 @@
 <!ENTITY stopCmd.accesskey "S">
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "പേജ്‌ തുറക്കുന്നത്‌ നിര്‍ത്തുക">
-<!ENTITY--  goEndCap.label "പോകുക" -->
+<!-- ENTITY  goEndCap.label "പോകുക" -->
 <!ENTITY goEndCap.tooltip "വിലാസപട്ടയിലുള്ള വിലാസത്തിലേക്കു പോകുക">
 <!ENTITY printButton.label "അച്ചടിക്കുക">
 <!ENTITY printButton.tooltip "ഈ പേജ്‌ അച്ചടിക്കുക">
@@ -170,7 +170,7 @@
 <!-- ENTITY earlierHistory.label "മുന്‍കാല ചരിത്രം" -->
 <!-- ENTITY historyShowSidebarCmd.label "വശപ്പട്ടയില്‍ കാണിക്കുക" -->
 <!-- ENTITY releaseCmd.accesskey "R" -->
-<!ENTITY releaseCmd.label "പ്രകാശനക്കുറിപ്പുകള്‍>
+<!ENTITY releaseCmd.label "പ്രകാശനക്കുറിപ്പുകള്‍">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY searchFocus.commandkey "k">
