@@ -1,4 +1,4 @@
-<!ENTITY messengerWindow.title "Pošta a Diskusní skupiny">
+<!ENTITY messengerWindow.title "Pošta a diskusní skupiny">
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -41,7 +41,7 @@
 <!ENTITY renameFolder.accesskey "j">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Provést údržbu složek">
-<!ENTITY compactFolders.accesskey "t">
+<!ENTITY compactFolders.accesskey "P">
 <!ENTITY emptyTrashCmd.label "Vysypat koš">
 <!ENTITY emptyTrashCmd.accesskey "y">
 <!ENTITY importCmd.label "Importovat…">
@@ -249,6 +249,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.accesskey "r">
 <!ENTITY pageSourceCmd.key "u">
 
+<!-- Search Menu -->
 <!ENTITY findMenu.label "Najít">
 <!ENTITY findMenu.accesskey "j">
 <!ENTITY findCmd.label "Najít ve zprávě…">
@@ -501,10 +502,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextCompact.accesskey "d">
 <!ENTITY folderContextEmptyTrash.label "Vysypat koš">
 <!ENTITY folderContextEmptyTrash.accesskey "k">
-<!ENTITY folderContextEmptyJunk.label "Vysypat nevyžádanou poštu">
-<!ENTITY folderContextEmptyJunk.accesskey "J">
+<!ENTITY folderContextEmptyJunk.label "Smazat nevyžádanou poštu">
+<!ENTITY folderContextEmptyJunk.accesskey "m">
 <!ENTITY folderContextSendUnsentMessages.label "Odeslat neodeslané zprávy…">
-<!ENTITY folderContextSendUnsentMessages.accesskey "n">
+<!ENTITY folderContextSendUnsentMessages.accesskey "d">
 <!ENTITY folderContextUnsubscribe.label "Odhlásit odebírání">
 <!ENTITY folderContextUnsubscribe.accesskey "d">
 <!ENTITY folderContextMarkNewsgroupRead.label "Označit skupinu jako přečtenou">
@@ -621,6 +622,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY phishingBarMessage2.label "Tato zpráva může být podvodný e-mail.">
 <!ENTITY removePhishingBarButton1.label "Ignorovat varování">
 <!ENTITY reportPhishingError1.label "Tato zpráva nevypadá jako podvodný e-mail.">
+
+<!-- Message Header Button Box (to show hidden email addresses) -->
+<!ENTITY more.label "více">
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
