@@ -1,16 +1,23 @@
+<!-- extracted from am-advanced.xul -->
+
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "发送服务器 (SMTP) 设置">
+
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpDesc.label "虽然您可以指定多个发送服务器 (SMTP)，但是我们只建议高级用户这么做。设置多个 SMTP 服务器可能会导致消息发送出错。">
-<!ENTITY smtpListAdd.label "添加…">
-<!ENTITY smtpListAdd.accesskey "d">
+
+<!ENTITY smtpListAdd.label  "添加…">
+<!ENTITY smtpListAdd.accesskey  "d">
 <!ENTITY smtpListEdit.label "编辑…">
 <!ENTITY smtpListEdit.accesskey "E">
 <!ENTITY smtpListDelete.label "删除">
 <!ENTITY smtpListDelete.accesskey "m">
 <!ENTITY smtpListSetDefault.label "设为默认">
 <!ENTITY smtpListSetDefault.accesskey "t">
+
 <!ENTITY serverDescription.label "描述：">
 <!ENTITY serverName.label "服务器名称：">
 <!ENTITY serverPort.label "端口：">
-<!ENTITY userName.label "用户名：">
-<!ENTITY useSecureConnection.label "安全连接：">
-<!ENTITY useSecureAuthentication.label "安全验证：">
+<!ENTITY userName.label   "用户名：">
+<!ENTITY useSecureConnection.label   "安全连接：">
+<!ENTITY useSecureAuthentication.label   "安全验证：">

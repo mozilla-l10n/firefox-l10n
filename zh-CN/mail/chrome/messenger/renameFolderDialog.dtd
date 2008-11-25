@@ -21,7 +21,6 @@
    -
    - Contributor(s):
    -   Fabian Guisset <hidday@geocities.com>
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -36,6 +35,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY renameFolderDialog.title "重命名文件夹">
-<!ENTITY rename.label "请输入文件夹的新名称:">
-<!ENTITY rename.accesskey "E">
+   
+<!ENTITY renameFolderDialog.title          "重命名文件夹">
+<!ENTITY rename.label                      "请输入文件夹的新名称:">
+<!ENTITY rename.accesskey                  "E">

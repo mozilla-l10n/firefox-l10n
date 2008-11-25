@@ -20,7 +20,6 @@
    -
    - Contributor(s):
    -    Neil Rashbrook <neil@parkwaycc.co.uk>
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,8 +34,11 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
+<!-- Smiley Menu items -->
 <!ENTITY insertSmiley.label "笑脸">
 <!ENTITY insertSmiley.accesskey "S">
+
 <!ENTITY smiley1Cmd.label "微笑">
 <!ENTITY smiley1Cmd.accesskey "S">
 <!ENTITY smiley1Cmd.tooltip "插入一个笑脸">
@@ -86,3 +88,4 @@
 <!ENTITY smiley16Cmd.accesskey "a">
 <!ENTITY smiley16Cmd.tooltip "插入缄默的脸">
 <!ENTITY SmileButton.tooltip "插入一个笑脸">
+

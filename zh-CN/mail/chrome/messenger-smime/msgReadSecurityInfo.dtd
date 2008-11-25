@@ -1,6 +1,9 @@
+<!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
+
 <!ENTITY status.label "消息安全">
 <!ENTITY signatureCert.label "查看签名证书">
 <!ENTITY encryptionCert.label "查看加密证书">
+
 <!ENTITY signer.name "签名者：">
 <!ENTITY recipient.name "加密：">
 <!ENTITY email.address "电子邮件地址：">

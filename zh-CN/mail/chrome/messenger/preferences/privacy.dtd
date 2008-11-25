@@ -1,13 +1,15 @@
-<!ENTITY itemJunk.label "垃圾">
-<!ENTITY itemPhishing.label "电子邮件欺诈">
-<!ENTITY itemPasswords.label "密码">
-<!ENTITY itemAntiVirus.label "防病毒">
+<!ENTITY itemJunk.label          "垃圾">
+<!ENTITY itemPhishing.label      "电子邮件欺诈">
+<!ENTITY itemPasswords.label     "密码">
+<!ENTITY itemAntiVirus.label     "防病毒">
+
+<!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "设定您默认的垃圾邮件设置。
 可以在“帐户设置”中设定特定于帐户的垃圾邮件设置。">
 <!ENTITY manualMark.label "当我将消息标记为垃圾邮件时：">
 <!ENTITY manualMark.accesskey "W">
 <!ENTITY manualMarkModeMove.label "将它们移动至帐户的 &quot;垃圾&quot; 文件夹">
-<!ENTITY manualMarkModeMove.accesskey "o">
+<!ENTITY manualMarkModeMove.accesskey "q">
 <!ENTITY manualMarkModeDelete.label "删除它们">
 <!ENTITY manualMarkModeDelete.accesskey "t">
 <!ENTITY markAsReadOnSpam.label "将垃圾消息自动标记为已读">
@@ -18,21 +20,27 @@
 <!ENTITY openJunkLog.accesskey "h">
 <!ENTITY resetTrainingData.label "重置训练数据">
 <!ENTITY resetTrainingData.accesskey "D">
-<!ENTITY phishingDetector1.intro "&brandShortName; 可以识别一些常见欺诈伎俩，分析检测是否为欺诈邮件。">
-<!ENTITY enablePhishingDetector1.label "告诉我正在阅读的消息是否是欺诈邮件">
-<!ENTITY enablePhishingDetector1.accesskey "e">
+
+<!-- Phishing Detector -->
+<!ENTITY phishingDetector1.intro  "&brandShortName; 可以识别一些常见欺诈伎俩，分析检测是否为欺诈邮件。">
+<!ENTITY enablePhishingDetector1.label    "告诉我正在阅读的消息是否是欺诈邮件">
+<!ENTITY enablePhishingDetector1.accesskey  "e">
 <!ENTITY useDownloadedList.label "使用下载的欺诈邮件列表">
 <!ENTITY useDownloadedList.accesskey "U">
-<!ENTITY savedPasswords.intro "&brandShortName; 能记住您所有帐户的密码信息，因此您不必在每次登录时重复输入密码。">
-<!ENTITY encryptEnabled.label "使用主密码加密保存的密码">
-<!ENTITY encryptEnabled.accesskey "s">
-<!ENTITY masterPassword.intro "设置主密码可以保护您所有的密码 - 但是您必须对每次会话输入一次主密码。">
-<!ENTITY setMasterPassword.label "主密码">
-<!ENTITY setMasterPassword.accesskey "M">
-<!ENTITY removeMasterPassword.label "移除主密码…">
-<!ENTITY removeMasterPassword.accesskey "R">
-<!ENTITY editPasswords.label "编辑已保存的密码">
-<!ENTITY editPasswords.accesskey "i">
-<!ENTITY antiVirus.intro "&brandShortName; 可在将消息保存到本地之前，让防病毒软件分析扫描它接收到的电子邮件。">
-<!ENTITY antiVirus.label "允许防病毒软件隔离单个接收到的消息">
-<!ENTITY antiVirus.accesskey "l">
+
+<!-- Passwords -->
+<!ENTITY savedPasswords.intro         "&brandShortName; 能记住您所有帐户的密码信息，因此您不必在每次登录时重复输入密码。">
+<!ENTITY  encryptEnabled.label        "使用主密码加密保存的密码">
+<!ENTITY  encryptEnabled.accesskey    "s">
+<!ENTITY  masterPassword.intro        "设置主密码可以保护您所有的密码 - 但是您必须对每次会话输入一次主密码。">
+<!ENTITY  setMasterPassword.label     "主密码">
+<!ENTITY  setMasterPassword.accesskey "M">
+<!ENTITY  removeMasterPassword.label  "移除主密码…">
+<!ENTITY  removeMasterPassword.accesskey "R">
+<!ENTITY  editPasswords.label         "编辑已保存的密码">
+<!ENTITY  editPasswords.accesskey     "i">
+
+<!-- Anti Virus -->
+<!ENTITY antiVirus.intro      "&brandShortName; 可在将消息保存到本地之前，让防病毒软件分析扫描它接收到的电子邮件。">
+<!ENTITY antiVirus.label      "允许防病毒软件隔离单个接收到的消息">
+<!ENTITY antiVirus.accesskey  "l">

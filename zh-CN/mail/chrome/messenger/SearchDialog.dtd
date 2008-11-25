@@ -1,31 +1,36 @@
-<!ENTITY searchHeading.label "在以下文件夹中搜索消息:">
-<!ENTITY searchHeading.accesskey "h">
-<!ENTITY searchSubfolders.label "搜索子文件夹">
-<!ENTITY searchSubfolders.accesskey "e">
-<!ENTITY resetButton.label "清除">
-<!ENTITY resetButton.accesskey "C">
-<!ENTITY openButton.label "打开">
-<!ENTITY openButton.accesskey "n">
-<!ENTITY deleteButton.label "删除">
-<!ENTITY deleteButton.accesskey "D">
-<!ENTITY searchDialogTitle.label "搜索消息">
-<!ENTITY results.label "结果">
-<!ENTITY fileHereMenu.label "移动至此处">
-<!ENTITY fileHereMenu.accesskey "F">
-<!ENTITY fileButton.label "移动">
-<!ENTITY fileButton.accesskey "i">
-<!ENTITY closeCmd.key "W">
-<!ENTITY goToFolderButton.label "打开消息文件夹">
-<!ENTITY goToFolderButton.accesskey "r">
-<!ENTITY saveAsVFButton.label "将搜索结果保存作为文件夹">
-<!ENTITY saveAsVFButton.accesskey "v">
-<!ENTITY abSearchHeading.label "搜索在:">
-<!ENTITY abSearchHeading.accesskey "h">
-<!ENTITY propertiesButton.label "属性">
-<!ENTITY propertiesButton.accesskey "P">
-<!ENTITY composeButton.label "编写">
-<!ENTITY composeButton.accesskey "W">
-<!ENTITY abSearchDialogTitle.label "通讯录高级搜索">
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label         "在以下文件夹中搜索消息:">
+<!ENTITY searchHeading.accesskey     "h">
+<!ENTITY searchSubfolders.label      "搜索子文件夹">
+<!ENTITY searchSubfolders.accesskey  "e">
+<!ENTITY resetButton.label           "清除">
+<!ENTITY resetButton.accesskey       "C">
+<!ENTITY openButton.label            "打开">
+<!ENTITY openButton.accesskey        "n">
+<!ENTITY deleteButton.label          "删除">
+<!ENTITY deleteButton.accesskey      "D">
+<!ENTITY searchDialogTitle.label     "搜索消息">
+<!ENTITY results.label               "结果">
+<!ENTITY fileHereMenu.label          "移动至此处">
+<!ENTITY fileHereMenu.accesskey      "F">
+<!ENTITY fileButton.label            "移动">
+<!ENTITY fileButton.accesskey        "i">
+<!ENTITY closeCmd.key                "W"> 
+<!ENTITY goToFolderButton.label      "打开消息文件夹">
+<!ENTITY goToFolderButton.accesskey  "r">
+<!ENTITY saveAsVFButton.label        "将搜索结果保存作为文件夹">
+<!ENTITY saveAsVFButton.accesskey    "v">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "搜索在:">
+<!ENTITY abSearchHeading.accesskey   "h">
+<!ENTITY propertiesButton.label      "属性">
+<!ENTITY propertiesButton.accesskey  "P">
+<!ENTITY composeButton.label         "编写">
+<!ENTITY composeButton.accesskey     "W">
+<!ENTITY abSearchDialogTitle.label   "通讯录高级搜索">
+
+<!-- Thread Pane -->
 <!ENTITY threadColumn.label "论题">
 <!ENTITY fromColumn.label "发件人">
 <!ENTITY recipientColumn.label "收件人">
@@ -44,8 +49,10 @@
 <!ENTITY starredColumn.label "已加星标">
 <!ENTITY locationColumn.label "地址">
 <!ENTITY idColumn.label "按接收时间排序">
+
+<!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "单击选择要显示的列">
-<!ENTITY threadColumn.tooltip "单击显示消息话题">
+<!ENTITY threadColumn.tooltip "单击显示消息话题"> 
 <!ENTITY fromColumn.tooltip "点击按发件人排序">
 <!ENTITY recipientColumn.tooltip "单击按收件人排序">
 <!ENTITY subjectColumn.tooltip "单击按标题排序">

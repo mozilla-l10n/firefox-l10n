@@ -26,4 +26,4 @@
 <!ENTITY choosethisnewsserver.label "choose this news server">
 <!ENTITY helpButton.label "帮助">
 <!ENTITY helpButton.accesskey "H">
-<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.key "W"> 

@@ -19,7 +19,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s): Neil Rashbrook <neil@parkwaycc.co.uk>
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,8 +33,10 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY windowTitle.label "表单字段属性">
 <!ENTITY windowTitleImage.label "表单图片属性">
+
 <!ENTITY InputType.label "字段类型">
 <!ENTITY InputType.accesskey "T">
 <!ENTITY text.value "文本">
@@ -48,6 +49,7 @@
 <!ENTITY hidden.value "隐藏">
 <!ENTITY image.value "图像">
 <!ENTITY button.value "按钮">
+
 <!ENTITY InputSettings.label "字段设置">
 <!ENTITY InputName.label "字段名称:">
 <!ENTITY InputName.accesskey "N">
@@ -66,7 +68,7 @@
 <!ENTITY InputDisabled.label "已禁用">
 <!ENTITY InputDisabled.accesskey "D">
 <!ENTITY tabIndex.label "Tab 序列:">
-<!ENTITY tabIndex.accesskey "I">
+<!ENTITY tabIndex.accesskey "T">
 <!ENTITY TextSize.label "字段长度:">
 <!ENTITY TextSize.accesskey "F">
 <!ENTITY TextLength.label "最大长度:">
@@ -75,5 +77,6 @@
 <!ENTITY AccessKey.accesskey "K">
 <!ENTITY Accept.label "接受类型：">
 <!ENTITY Accept.accesskey "A">
+
 <!ENTITY ImageProperties.label "图像属性…">
 <!ENTITY ImageProperties.accesskey "E">

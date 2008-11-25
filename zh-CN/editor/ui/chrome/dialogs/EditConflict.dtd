@@ -20,7 +20,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -35,6 +34,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
+<!-- Window title -->
 <!ENTITY windowTitle.label "选择编辑变化">
 <!ENTITY conflictWarning.label "此页面已经被其他程序改动，但是在编写器中仍有未保存的改动。">
 <!ENTITY conflictResolve.label "选择要保留的版本:">

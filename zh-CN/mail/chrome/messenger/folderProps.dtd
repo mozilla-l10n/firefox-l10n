@@ -23,7 +23,6 @@
    -   Mohan Bhamidipati <mohanb@netscape.com>
    -   Lorenzo Colitti   <lorenzo@colitti.com>
    -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -38,17 +37,20 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY folderProps.windowtitle.label "属性">
-<!ENTITY generalInfo.label "基本信息">
-<!ENTITY folderCharsetTab.label "默认字符编码：">
-<!ENTITY folderCharsetTab.accesskey "E">
-<!ENTITY folderCharsetOverride.label "对所有消息使用默认设置（单条消息的字符编码设置以及自动检测设置将被忽略）">
-<!ENTITY folderCharsetOverride.accesskey "A">
-<!ENTITY folderRebuildSummaryFile.label "重建索引">
-<!ENTITY folderRebuildSummaryFile.accesskey "R">
-<!ENTITY folderRebuildSummaryFileTip.label "重建概要文件">
+
+<!ENTITY folderProps.windowtitle.label           "属性">
+
+<!ENTITY generalInfo.label                       "基本信息">
+<!ENTITY folderCharsetTab.label                  "默认字符编码：">
+<!ENTITY folderCharsetTab.accesskey              "E">
+<!ENTITY folderCharsetOverride.label             "对所有消息使用默认设置（单条消息的字符编码设置以及自动检测设置将被忽略）">
+<!ENTITY folderCharsetOverride.accesskey         "A">
+<!ENTITY folderRebuildSummaryFile.label          "重建索引">
+<!ENTITY folderRebuildSummaryFile.accesskey      "R">
+<!ENTITY folderRebuildSummaryFileTip.label       "重建概要文件"> 
+     
 <!ENTITY retention.label "保留策略">
-<!ENTITY retentionUseDefault.label "使用服务器默认设置">
+<!ENTITY retentionUseDefault.label  "使用服务器默认设置">
 <!ENTITY retentionUseDefault.accesskey "d">
 <!ENTITY daysOld.label "天的消息">
 <!ENTITY message.label "消息">
@@ -61,27 +63,33 @@
 <!ENTITY retentionKeepNew.accesskey "l">
 <!ENTITY retentionKeepUnread.label "总删除已读消息">
 <!ENTITY retentionKeepUnread.accesskey "r">
-<!ENTITY folderOfflineTab.label "脱机">
-<!ENTITY folderCheckForNewMessages.label "检查此文件夹的新消息">
-<!ENTITY folderCheckForNewMessages.accesskey "C">
-<!ENTITY offlineFolder.check.label "选择此文件夹供脱机使用">
-<!ENTITY offlineFolder.check.accesskey "S">
-<!ENTITY offlineFolder.button.label "立即下载">
-<!ENTITY offlineFolder.button.accesskey "D">
-<!ENTITY selectofflineNewsgroup.check.label "选择要脱机使用的新闻组">
-<!ENTITY selectofflineNewsgroup.check.accesskey "o">
-<!ENTITY offlineNewsgroup.button.label "立即下载">
-<!ENTITY offlineNewsgroup.button.accesskey "D">
-<!ENTITY folderProps.name.label "名称：">
-<!ENTITY folderProps.name.accesskey "N">
-<!ENTITY folderProps.location.label "地址:">
-<!ENTITY folderProps.location.accesskey "L">
-<!ENTITY folderSharingTab.label "共享">
-<!ENTITY privileges.button.label "权限…">
-<!ENTITY privileges.button.accesskey "P">
-<!ENTITY permissionsDesc.label "您拥有如下的权限：">
-<!ENTITY folderType.label "文件夹类型：">
-<!ENTITY folderQuotaTab.label "配额">
-<!ENTITY folderQuotaRoot.label "根配额：">
-<!ENTITY folderQuotaUsage.label "使用量：">
-<!ENTITY folderQuotaStatus.label "状态：">
+
+<!ENTITY folderOfflineTab.label                  "脱机">
+<!ENTITY folderCheckForNewMessages.label         "检查此文件夹的新消息">
+<!ENTITY folderCheckForNewMessages.accesskey     "C">
+
+<!ENTITY offlineFolder.check.label               "选择此文件夹供脱机使用">
+<!ENTITY offlineFolder.check.accesskey           "S">
+<!ENTITY offlineFolder.button.label              "立即下载">
+<!ENTITY offlineFolder.button.accesskey          "D">
+
+<!ENTITY selectofflineNewsgroup.check.label      "选择要脱机使用的新闻组">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "o">
+<!ENTITY offlineNewsgroup.button.label           "立即下载">
+<!ENTITY offlineNewsgroup.button.accesskey       "D">
+
+<!ENTITY folderProps.name.label                  "名称：">
+<!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.location.label              "地址:">
+<!ENTITY folderProps.location.accesskey          "L">
+
+<!ENTITY folderSharingTab.label                  "共享">
+<!ENTITY privileges.button.label                 "权限…">
+<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY permissionsDesc.label                   "您拥有如下的权限：">
+<!ENTITY folderType.label                        "文件夹类型：">
+
+<!ENTITY folderQuotaTab.label                    "配额">
+<!ENTITY folderQuotaRoot.label                   "根配额：">
+<!ENTITY folderQuotaUsage.label                  "使用量：">
+<!ENTITY folderQuotaStatus.label                 "状态：">

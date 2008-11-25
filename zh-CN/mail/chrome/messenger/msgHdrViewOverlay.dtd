@@ -1,10 +1,48 @@
-<!--null-->
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY toField2.label "收件人">
 <!ENTITY fromField2.label "发件人">
 <!ENTITY senderField2.label "发送者">
 <!ENTITY organizationField2.label "组织">
 <!ENTITY replyToField2.label "回复至">
+
 <!ENTITY subjectField2.label "标题">
+<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
 <!ENTITY ccField2.label "抄送">
 <!ENTITY bccField2.label "密送">
 <!ENTITY newsgroupsField2.label "新闻组">
@@ -16,33 +54,39 @@
 <!ENTITY messageIdField2.label "消息id">
 <!ENTITY inReplyToField2.label "回复">
 <!ENTITY originalWebsite2.label "网站">
+
 <!ENTITY editMessageDescription.label "这是一份草稿消息">
 <!ENTITY editMessageButton.label "编辑…">
 <!ENTITY replyButton.label "回复…">
 <!ENTITY forwardButton.label "转发…">
 <!ENTITY junkButton.label "标记为垃圾">
 <!ENTITY trashButton.tooltiptext "删除">
+
 <!ENTITY otherActionsButton.label "其他操作">
 <!ENTITY saveAsMenuItem.label "另存为…">
 <!ENTITY saveAsMenuItem.accesskey "S">
 <!ENTITY viewSourceMenuItem.label "查看源代码…">
 <!ENTITY viewSourceMenuItem.accesskey "V">
+
 <!ENTITY hideDetailsButton.label "隐藏详细信息">
 <!ENTITY showDetailsButton.label "显示详细信息">
-<!ENTITY openAttachmentCmd.label "打开">
-<!ENTITY openAttachmentCmd.accesskey "O">
-<!ENTITY saveAsAttachmentCmd.label "另存为…">
-<!ENTITY saveAsAttachmentCmd.accesskey "A">
-<!ENTITY detachAttachmentCmd.label "移除…">
-<!ENTITY deleteAttachmentCmd.label "删除">
-<!ENTITY saveAllAttachmentsCmd.label "全部保存…">
-<!ENTITY saveAllAttachmentsCmd.accesskey "S">
-<!ENTITY detachAllAttachmentsCmd.label "全部移除…">
-<!ENTITY detachAllAttachmentsCmd.accesskey "D">
-<!ENTITY deleteAllAttachmentsCmd.label "全部删除…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "E">
-<!ENTITY copyLinkCmd.label "复制链接地址">
-<!ENTITY copyLinkCmd.accesskey "C">
+
+<!ENTITY openAttachmentCmd.label    "打开">
+<!ENTITY openAttachmentCmd.accesskey    "O">
+<!ENTITY saveAsAttachmentCmd.label    "另存为…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "A">
+<!ENTITY detachAttachmentCmd.label    "移除…">
+<!ENTITY deleteAttachmentCmd.label    "删除">
+<!ENTITY saveAllAttachmentsCmd.label    "全部保存…">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "S">
+<!ENTITY detachAllAttachmentsCmd.label    "全部移除…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "D">
+<!ENTITY deleteAllAttachmentsCmd.label    "全部删除…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "E">
+
+<!ENTITY copyLinkCmd.label        "复制链接地址">
+<!ENTITY copyLinkCmd.accesskey    "C">
+
 <!ENTITY CopyMessageId.label "复制 消息-ID">
 <!ENTITY OpenMessageForMsgId.label "打开消息 ID 为">
 <!ENTITY OpenBrowserWithMsgId.label "使用浏览器打开消息 ID 为">

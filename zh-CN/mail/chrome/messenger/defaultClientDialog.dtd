@@ -1,7 +1,9 @@
-<!ENTITY defaultClient.title "默认客户端">
-<!ENTITY defaultClient.intro "使用 &brandShortName; 作为下列应用的默认客户端：">
+<!ENTITY defaultClient.title  "默认客户端">
+<!ENTITY defaultClient.intro  "使用 &brandShortName; 作为下列应用的默认客户端：">
+
 <!ENTITY email.label "电子邮件">
 <!ENTITY newsgroups.label "新闻组">
 <!ENTITY rss.label "RSS 收取点">
+
 <!ENTITY checkOnStartup.label "启动 &brandShortName; 时总是进行此项检查">
-<!ENTITY checkOnStartup.accesskey "A">
+<!ENTITY checkOnStartup.accesskey "b">

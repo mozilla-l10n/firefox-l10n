@@ -20,7 +20,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -35,7 +34,10 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
+<!-- Window title -->
 <!ENTITY windowTitle.label "个人字典">
+
 <!ENTITY wordEditField.label "新建单词：">
 <!ENTITY wordEditField.accessKey "N">
 <!ENTITY AddButton.label "添加">
@@ -46,5 +48,6 @@
 <!ENTITY ReplaceButton.accessKey "R">
 <!ENTITY RemoveButton.label "移除">
 <!ENTITY RemoveButton.accessKey "e">
+
 <!ENTITY CloseButton.label "关闭">
 <!ENTITY CloseButton.accessKey "C">

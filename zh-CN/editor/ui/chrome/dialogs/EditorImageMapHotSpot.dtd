@@ -22,7 +22,6 @@
    - Contributor(s):
    -   Dan Haddix (dan6992@hotmail.com)
    -   Brian King (briano9@yahoo.com)
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -37,16 +36,23 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
+<!-- Window title -->
+
 <!ENTITY windowTitle.label "热点属性">
-<!ENTITY link.label "热点链接">
-<!ENTITY urlFieldset.label "热点 URL:">
-<!ENTITY altFieldset.label "热点替代文本:">
-<!ENTITY browseButton.label "浏览…">
-<!ENTITY targetFieldset.label "目标设置">
-<!ENTITY target.label "热点目标">
-<!ENTITY commonFieldset.label "通用目标:">
-<!ENTITY none.value "(none)">
-<!ENTITY same.value "相同帧">
-<!ENTITY whole.value "整个页面">
-<!ENTITY new.value "新建窗口">
-<!ENTITY parent.value "父帧">
+
+<!ENTITY link.label				"热点链接">
+<!ENTITY urlFieldset.label		"热点 URL:">
+<!ENTITY altFieldset.label		"热点替代文本:">
+<!ENTITY browseButton.label		"浏览…">
+<!ENTITY targetFieldset.label	"目标设置">
+<!ENTITY target.label			"热点目标">
+
+<!-- Targets -->
+<!ENTITY commonFieldset.label	"通用目标:">
+<!ENTITY none.value				"(none)">
+<!ENTITY same.value				"相同帧">
+<!ENTITY whole.value			"整个页面">
+<!ENTITY new.value				"新建窗口">
+<!ENTITY parent.value			"父帧">
+

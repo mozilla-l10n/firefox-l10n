@@ -1,14 +1,20 @@
 <!ENTITY newsblogTitle.label "RSS 帐户设置">
+
 <!ENTITY biffStart.label "检查是否有新文章,每隔">
 <!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label "分钟">
-<!ENTITY loginAtStartup.label "启动时检查是否有新文章。">
+
+<!ENTITY loginAtStartup.label "启动时检查是否有新文章。"> 
 <!ENTITY loginAtStartup.accesskey "C">
-<!ENTITY useQuickMode.label "默认情况下显示文章概述而不载入全部网页。">
+
+<!ENTITY useQuickMode.label "默认情况下显示文章概述而不载入全部网页。"> 
 <!ENTITY useQuickMode.accesskey "B">
-<!ENTITY manageSubscriptions.label "管理订阅…">
+
+<!ENTITY manageSubscriptions.label "管理订阅…"> 
 <!ENTITY manageSubscriptions.accesskey "M">
-<!ENTITY rss.accountName "News &amp; Blogs">
-<!ENTITY rss.wizardShortName "RSS">
-<!ENTITY rss.wizardLongName "RSS 新闻 &amp; 博客">
+
+<!-- entities from defaults/isp/rss.rdf -->
+<!ENTITY rss.accountName            "News &amp; Blogs">
+<!ENTITY rss.wizardShortName        "RSS">  
+<!ENTITY rss.wizardLongName         "RSS 新闻 &amp; 博客">
 <!ENTITY rss.wizardLongName.accesskey "R">

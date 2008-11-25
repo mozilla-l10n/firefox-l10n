@@ -1,9 +1,11 @@
-<!ENTITY notificationsDialog2.title "自定义新邮件警告">
-<!ENTITY window.width "30em">
-<!ENTITY alertCustomization.intro "选择在警告通知中要显示的字段：">
-<!ENTITY previewText.label "消息预览文本">
-<!ENTITY previewText.accesskey "M">
-<!ENTITY subject.label "标题">
-<!ENTITY subject.accesskey "S">
-<!ENTITY sender.label "发件人">
-<!ENTITY sender.accesskey "e">
+<!ENTITY notificationsDialog2.title       "自定义新邮件警告">
+<!ENTITY window.width                     "30em">
+
+<!ENTITY alertCustomization.intro         "选择在警告通知中要显示的字段：">
+<!ENTITY previewText.label                "消息预览文本">
+<!ENTITY previewText.accesskey            "M">
+<!ENTITY subject.label                    "标题">
+<!ENTITY subject.accesskey                "S">
+<!ENTITY sender.label                     "发件人">
+<!ENTITY sender.accesskey                 "e">
+

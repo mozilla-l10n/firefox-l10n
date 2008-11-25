@@ -1,3 +1,4 @@
-<!ENTITY sendWindow.title "正在发送消息">
+<!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
+<!ENTITY sendWindow.title "正在发送消息"> 
 <!ENTITY status.label "状态：">
 <!ENTITY progress.label "进度：">

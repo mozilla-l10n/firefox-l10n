@@ -1,10 +1,21 @@
+<!-- extracted from AccountManager.xul -->
+
 <!ENTITY accountManagerTitle.label "帐户设置">
+
 <!ENTITY addAccountButton.label "添加帐户…">
 <!ENTITY addAccountButton.accesskey "A">
 <!ENTITY setDefaultButton.label "设置为默认帐户">
 <!ENTITY setDefaultButton.accesskey "f">
 <!ENTITY removeButton.label "删除帐户">
 <!ENTITY removeButton.accesskey "R">
-<!ENTITY accountManager.size "width: 55em; height: 50em;">
+
+<!-- AccountManager.xul -->
+<!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
+     setting dialog, which specifies the width and height in em units of the dialog.
+     Localizers ONLY can increase these widths if they are having difficulty getting
+     panel content to fit. 1em = the width of the letter 'm' in the selected font.
+     XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
+     this window for en-US. -->
+<!ENTITY accountManager.size "width: 55em; height: 50em;"> 
 <!ENTITY macAccountManager.size "width: 60em; height: 50em;">
-<!ENTITY accountTree.width "width: 17em;">
+<!ENTITY accountTree.width   "width: 17em;">

@@ -1,6 +1,8 @@
 <!ENTITY messengerWindow.title "邮件和新闻组">
-<!ENTITY titledefault.label "&brandFullName;">
+<!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
+
+<!-- File Menu -->
 <!ENTITY newFolderCmd.label "文件夹…">
 <!ENTITY newFolderCmd.accesskey "F">
 <!ENTITY closeTabCmd.label "关闭标签页">
@@ -28,7 +30,7 @@
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "当前账户">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
 <!ENTITY getNextNMsgCmd.label "获取后 500 条新闻消息">
-<!ENTITY getNextNMsgCmd.accesskey "t">
+<!ENTITY getNextNMsgCmd.accesskey "5">
 <!ENTITY sendUnsentCmd.label "发送未发送消息">
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "订阅…">
@@ -39,9 +41,9 @@
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "压缩文件夹">
-<!ENTITY compactFolders.accesskey "F">
+<!ENTITY compactFolders.accesskey    "F">
 <!ENTITY emptyTrashCmd.label "清空“废件箱”">
-<!ENTITY emptyTrashCmd.accesskey "y">
+<!ENTITY emptyTrashCmd.accesskey    "y">
 <!ENTITY importCmd.label "导入…">
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY offlineMenu.label "脱机">
@@ -53,7 +55,7 @@
 <!ENTITY settingsOfflineCmd.label "脱机设置…">
 <!ENTITY settingsOfflineCmd.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "获取选中的消息">
-<!ENTITY downloadSelectedCmd.accesskey "M">
+<!ENTITY downloadSelectedCmd.accesskey "l">
 <!ENTITY downloadStarredCmd.label "获取已加星标的消息">
 <!ENTITY downloadStarredCmd.accesskey "a">
 <!ENTITY printCmd.label "打印…">
@@ -63,6 +65,8 @@
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printSetupCmd.label "页面设置…">
 <!ENTITY printSetupCmd.accesskey "u">
+
+<!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "删除消息">
 <!ENTITY deleteMsgCmd.accesskey "D">
 <!ENTITY undeleteMsgCmd.label "恢复已删除的消息">
@@ -107,10 +111,13 @@
 <!ENTITY undoDefaultCmd.accesskey "U">
 <!ENTITY redoDefaultCmd.label "重做">
 <!ENTITY redoDefaultCmd.accesskey "R">
+
+<!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label "邮件工具栏">
 <!ENTITY showMessengerToolbarCmd.accesskey "o">
 <!ENTITY customizeToolbar.label "自定义…">
 <!ENTITY customizeToolbar.accesskey "C">
+
 <!ENTITY messagePaneLayoutStyle.label "布局">
 <!ENTITY messagePaneLayoutStyle.accesskey "L">
 <!ENTITY messagePaneClassic.label "经典视图">
@@ -121,6 +128,7 @@
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showMessageCmd.label "消息">
 <!ENTITY showMessageCmd.accesskey "M">
+
 <!ENTITY folderView.label "文件夹">
 <!ENTITY folderView.accesskey "F">
 <!ENTITY allFolders.label "全部">
@@ -131,6 +139,8 @@
 <!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "最近">
 <!ENTITY recentFolders.accesskey "R">
+
+<!-- Sort Menu -->
 <!ENTITY sortMenu.label "排序">
 <!ENTITY sortMenu.accesskey "S">
 <!ENTITY sortByDateCmd.label "按日期">
@@ -202,31 +212,44 @@
 <!ENTITY bodyAllowHTML.label "原始 HTML">
 <!ENTITY bodyAllowHTML.accesskey "H">
 <!ENTITY bodySanitized.label "简单 HTML">
-<!ENTITY bodySanitized.accesskey "S">
+<!ENTITY bodySanitized.accesskey "简">
 <!ENTITY bodyAsPlaintext.label "纯文本">
 <!ENTITY bodyAsPlaintext.accesskey "P">
 <!ENTITY viewAttachmentsInlineCmd.label "查看直接插入的附件">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "A">
-<!ENTITY fullZoomEnlargeCmd.label "放大">
-<!ENTITY fullZoomEnlargeCmd.accesskey "I">
-<!ENTITY fullZoomEnlargeCmd.commandkey "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY fullZoomEnlargeCmd.label       "放大">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-<!ENTITY fullZoomReduceCmd.label "缩小">
-<!ENTITY fullZoomReduceCmd.accesskey "O">
-<!ENTITY fullZoomReduceCmd.commandkey "-">
-<!ENTITY fullZoomReduceCmd.commandkey2 "">
-<!ENTITY fullZoomResetCmd.label "重置">
-<!ENTITY fullZoomResetCmd.accesskey "R">
-<!ENTITY fullZoomResetCmd.commandkey "0">
-<!ENTITY fullZoomResetCmd.commandkey2 "">
-<!ENTITY fullZoomToggleCmd.label "仅缩放文字">
-<!ENTITY fullZoomToggleCmd.accesskey "T">
-<!ENTITY fullZoom.label "缩放">
-<!ENTITY fullZoom.accesskey "Z">
+
+<!ENTITY fullZoomReduceCmd.label        "缩小">
+<!ENTITY fullZoomReduceCmd.accesskey    "O">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
+<!ENTITY fullZoomResetCmd.label         "重置">
+<!ENTITY fullZoomResetCmd.accesskey     "R">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY fullZoomToggleCmd.label        "仅缩放文字">
+<!ENTITY fullZoomToggleCmd.accesskey    "T">
+<!ENTITY fullZoom.label                 "缩放">
+<!ENTITY fullZoom.accesskey             "Z">
+
 <!ENTITY pageSourceCmd.label "消息源代码">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
+
+<!-- Search Menu -->
 <!ENTITY findMenu.label "查找">
 <!ENTITY findMenu.accesskey "F">
 <!ENTITY findCmd.label "在消息中查找…">
@@ -243,6 +266,8 @@
 <!ENTITY searchMailCmd.key "f">
 <!ENTITY searchAddressesCmd.label "搜索地址…">
 <!ENTITY searchAddressesCmd.accesskey "S">
+
+<!-- Go Menu -->
 <!ENTITY goMenu.label "转到">
 <!ENTITY goMenu.accesskey "G">
 <!ENTITY nextMenu.label "下一个">
@@ -284,17 +309,17 @@
 <!ENTITY newNewMsgCmd.accesskey "M">
 <!ENTITY replyMsgCmd.label "回复">
 <!ENTITY replyMsgCmd.accesskey "R">
-<!ENTITY replyMsgCmd.key "r">
+<!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "只回复发件人">
 <!ENTITY replySenderCmd.accesskey "R">
 <!ENTITY replyNewsgroupCmd.label "回复到新闻组">
-<!ENTITY replyNewsgroupCmd.accesskey "y">
+<!ENTITY replyNewsgroupCmd.accesskey  "y">
 <!ENTITY replyToAllMsgCmd.label "全部回复">
-<!ENTITY replyToAllMsgCmd.accesskey "p">
-<!ENTITY replyToAllMsgCmd.key "r">
+<!ENTITY replyToAllMsgCmd.accesskey  "p">
+<!ENTITY replyToAllMsgCmd.key  "r">
 <!ENTITY forwardMsgCmd.label "转发">
 <!ENTITY forwardMsgCmd.accesskey "F">
-<!ENTITY forwardMsgCmd.key "l">
+<!ENTITY forwardMsgCmd.key  "l">
 <!ENTITY forwardAsMenu.label "转发">
 <!ENTITY forwardAsMenu.accesskey "w">
 <!ENTITY forwardAsInline.label "直接插入">
@@ -370,7 +395,11 @@
 <!ENTITY openMessageWindowCmd.label "打开消息">
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
+
+<!-- Windows Menu -->
 <!ENTITY windowMenu.label "窗口">
+
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "工具">
 <!ENTITY tasksMenu.accesskey "T">
 <!ENTITY addons.label "附加组件">
@@ -395,6 +424,8 @@
 <!ENTITY filtersApplyToSelection.accesskey "S">
 <!ENTITY filtersApplyToMessage.label "对消息运行过滤器">
 <!ENTITY filtersApplyToMessage.accesskey "s">
+
+<!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "获取消息">
 <!ENTITY newMsgButton.label "新建消息">
 <!ENTITY replyButton.label "回复">
@@ -419,6 +450,8 @@
 <!ENTITY folderLocationToolbarItem.title "文件夹地址">
 <!ENTITY tagButton.label "标签">
 <!ENTITY compactButton.label "压缩">
+
+<!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "高级消息搜索">
 <!ENTITY getMsgButton.tooltip "获取新消息">
 <!ENTITY getAllNewMsgCmd.label "获取所有新消息">
@@ -443,10 +476,16 @@
 <!ENTITY addressBookButton.tooltip "转到通讯录">
 <!ENTITY tagButton.tooltip "为消息添加标签">
 <!ENTITY compactButton.tooltip "从选中文件夹移除已删除消息">
+
+<!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "新建标签…">
 <!ENTITY addNewTag.accesskey "N">
+
+<!-- Folder Pane -->
 <!ENTITY folderColumn.label "名称">
 <!ENTITY folderSizeColumn.label "大小">
+
+<!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "获取消息">
 <!ENTITY folderContextGetMessages.accesskey "G">
 <!ENTITY folderContextOpenNewWindow.label "打开">
@@ -483,8 +522,12 @@
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
 <!ENTITY folderContextSettings.label "设置…">
 <!ENTITY folderContextSettings.accesskey "e">
+
+<!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "名称或者电子邮件包含:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
+
+<!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "标题">
 <!ENTITY searchFromMenu.label "发件人">
 <!ENTITY searchSubjectOrFromMenu.label "标题或发件人">
@@ -492,6 +535,8 @@
 <!ENTITY searchSubjectOrRecipientMenu.label "标题，收件人或者抄送人">
 <!ENTITY searchMessageBody.label "整条消息">
 <!ENTITY saveAsVirtualFolderMenu.label "将搜索结果保存作为文件夹…">
+
+<!-- Thread Pane -->
 <!ENTITY threadColumn.label "论题">
 <!ENTITY fromColumn.label "发件人">
 <!ENTITY recipientColumn.label "收件人">
@@ -511,6 +556,8 @@
 <!ENTITY locationColumn.label "地址">
 <!ENTITY idColumn.label "按接收时间排序">
 <!ENTITY attachmentColumn.label "附件">
+
+<!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "点击选择要显示的列">
 <!ENTITY threadColumn.tooltip "点击显示消息话题">
 <!ENTITY fromColumn.tooltip "点击按发件人排序">
@@ -531,6 +578,8 @@
 <!ENTITY locationColumn.tooltip "点击按地址排序">
 <!ENTITY idColumn.tooltip "点击按接收顺序排序">
 <!ENTITY attachmentColumn.tooltip "点击对附件排序">
+
+<!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "在新窗口中打开消息">
 <!ENTITY contextOpenNewWindow.accesskey "W">
 <!ENTITY contextOpenNewTab.label "在新标签页中打开消息">
@@ -559,15 +608,28 @@
 <!ENTITY contextPrint.accesskey "P">
 <!ENTITY contextPrintPreview.label "打印预览">
 <!ENTITY contextPrintPreview.accesskey "v">
+
+<!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "垃圾邮件">
 <!ENTITY junkBarButton1.label "非垃圾">
 <!ENTITY junkInfoButton.label "?">
+
+<!-- Remote Content Bar -->
 <!ENTITY remoteContentMessage1.label "为保护您的隐私，远程图片已被阻止。">
 <!ENTITY loadRemoteContentButton2.label "显示图片">
+
+<!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "此消息可能是欺诈。">
 <!ENTITY removePhishingBarButton1.label "忽略警告">
 <!ENTITY reportPhishingError1.label "此消息可能不是欺诈。">
+
+<!-- Message Header Button Box (to show hidden email addresses) -->
+<!ENTITY more.label "更多">
+
+<!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
+
+<!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "将地址添加到通讯录…">
 <!ENTITY AddToAddressBook.accesskey "B">
 <!ENTITY AddDirectlyToAddressBook.label "添加至地址簿">
@@ -577,13 +639,15 @@
 <!ENTITY ViewContact.label "查看联系人">
 <!ENTITY ViewContact.accesskey "V">
 <!ENTITY SendMailTo.label "发送邮件到">
-<!ENTITY SendMailTo.accesskey "">
+<!ENTITY SendMailTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "复制邮件地址">
 <!ENTITY CopyEmailAddress.accesskey "C">
 <!ENTITY CreateFilterFrom.label "创建过滤器，从…">
 <!ENTITY CreateFilterFrom.accesskey "F">
 <!ENTITY reportPhishingURL.label "报告电子邮件欺诈">
 <!ENTITY reportPhishingURL.accesskey "o">
+
+<!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "链接另存为…">
 <!ENTITY saveLinkAsCmd.accesskey "k">
 <!ENTITY saveImageAsCmd.label "图片另存为…">
@@ -598,19 +662,25 @@
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyEmailCmd.label "复制邮件地址">
 <!ENTITY copyEmailCmd.accesskey "E">
+
+<!-- Statusbar -->
 <!ENTITY statusText.label "完成">
+
+<!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "最小化">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "全部置前">
 <!ENTITY zoomWindow.label "缩放">
-<!ENTITY preferencesCmdMac.label "首选项…">
-<!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.modifiers "accel">
-<!ENTITY servicesMenuMac.label "服务">
-<!ENTITY hideThisAppCmdMac.label "隐藏 &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
-<!ENTITY hideOtherAppsCmdMac.label "隐藏其他">
+
+<!-- Mac OS X Application Menu (Cocoa widgets) -->
+<!ENTITY preferencesCmdMac.label        "首选项…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+<!ENTITY servicesMenuMac.label          "服务">
+<!ENTITY hideThisAppCmdMac.label        "隐藏 &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+<!ENTITY hideOtherAppsCmdMac.label      "隐藏其他">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
-<!ENTITY showAllAppsCmdMac.label "全部显示">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+<!ENTITY showAllAppsCmdMac.label        "全部显示">

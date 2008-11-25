@@ -20,7 +20,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -35,6 +34,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY AdvancedEditButton.label "高级编辑…">
 <!ENTITY AdvancedEditButton.accessKey "E">
 <!ENTITY AdvancedEditButton.tooltip "添加或修改 HTML 属性、样式属性以及 JavaScript">
@@ -45,5 +45,7 @@
 <!ENTITY makeUrlRelative.label "URL和页面地址相关">
 <!ENTITY makeUrlRelative.accessKey "r">
 <!ENTITY makeUrlRelative.tooltip "转换相对和绝对 URL。您必须先保存本页才能更改。">
+
+<!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.label "请输入一个网页地址、本地文件、或者从弹出列表中选择一个锚标或头">
 <!ENTITY LinkURLEditField.accessKey "L">

@@ -20,7 +20,6 @@
    -
    - Contributor(s):
    -   Daniel Glazman (glazman@netscape.com) (Original author)
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,9 +34,15 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
+
+<!-- Window title -->
 <!ENTITY windowTitle.label "吸附至表格">
+
 <!ENTITY enableSnapToGrid.label "启用表格吸附">
 <!ENTITY enableSnapToGrid.accessKey "e">
+
 <!ENTITY sizeEditField.label "大小:">
 <!ENTITY sizeEditField.accessKey "S">
+
 <!ENTITY pixelsLabel.value "像素">

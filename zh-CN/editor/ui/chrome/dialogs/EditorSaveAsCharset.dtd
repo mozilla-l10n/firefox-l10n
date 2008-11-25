@@ -20,7 +20,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -35,8 +34,17 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
+<!-- These strings are generic to all or most of the editor's dialogs. -->
+
+<!-- This button is for the progressive disclosure of additional editing functionality -->
+
+<!-- These strings are for use specifically in the editor's link dialog. -->
 <!ENTITY windowTitle.label "保存并改变字符编码">
 <!ENTITY documentTitleTitle.label "页面标题">
 <!ENTITY documentCharsetTitle.label "字符编码">
 <!ENTITY documentCharsetDesc.label "选择保存文档所用的字符编码:">
 <!ENTITY documentExportToText.label "导出至文本">
+
+
+

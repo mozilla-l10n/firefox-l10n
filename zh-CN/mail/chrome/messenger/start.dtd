@@ -1,23 +1,30 @@
 <!ENTITY startpage.welcome "欢迎使用 &brandFullName;！">
 <!ENTITY startpage.intro "&brandFullName; 是一个强大的开源邮件和新闻组客户端。">
+
 <!ENTITY startpage.features "特性">
+
 <!ENTITY startpage.junkControl "灵活的垃圾邮件控制">
 <!ENTITY startpage.rssReader "RSS 阅读">
 <!ENTITY startpage.globalInbox "全局收件箱支持">
 <!ENTITY startpage.searchFolders "保存搜索文件夹">
 <!ENTITY startpage.messageGroups "消息分组">
 <!ENTITY startpage.privacyProtect "隐私保护">
+
 <!ENTITY startpage.junkControlURL "http://www.mozilla.org/products/thunderbird/junkmail.html">
 <!ENTITY startpage.rssReaderURL "http://www.mozilla.org/products/thunderbird/rss.html">
 <!ENTITY startpage.globalInboxURL "http://www.mozilla.org/products/thunderbird/global-inbox.html">
 <!ENTITY startpage.searchFoldersURL "http://www.mozilla.org/products/thunderbird/search-folders.html">
 <!ENTITY startpage.messageGroupsURL "http://www.mozilla.org/products/thunderbird/message-grouping.html">
 <!ENTITY startpage.privacyProtectURL "http://www.mozilla.org/products/thunderbird/privacy-protection.html">
+
 <!ENTITY startpage.moreInfo "更多信息">
+
 <!ENTITY startpage.help "Thunderbird 帮助">
 <!ENTITY startpage.helpInfo "常见问题、提示以及帮助文档，请访问">
 <!ENTITY startpage.helpURL "http://www.mozilla.org.cn/support/thunderbird/">
+
 <!ENTITY startpage.page "Thunderbird 产品页面">
 <!ENTITY startpage.pageInfo "要获取产品信息，请访问">
 <!ENTITY startpage.pageURL "http://www.mozilla.org/products/thunderbird/">
+
 <!ENTITY startpage.extra "">

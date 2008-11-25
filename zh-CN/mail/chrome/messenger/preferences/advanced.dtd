@@ -1,71 +1,94 @@
-<!ENTITY itemGeneral.label "常规">
-<!ENTITY itemDisplay.label "阅读 &amp; 显示">
-<!ENTITY itemUpdate.label "更新">
-<!ENTITY itemNetworking.label "网络 &amp; 磁盘空间">
-<!ENTITY itemCertificates.label "证书">
-<!ENTITY enableGloda.label "Enable Message Indexer">
-<!ENTITY enableGloda.accesskey "i">
-<!ENTITY showCondensedAddresses.label "仅显示我通讯录中联系人的显示名。">
+<!ENTITY itemGeneral.label       "常规">
+<!ENTITY itemDisplay.label       "阅读 &amp; 显示">
+<!ENTITY itemUpdate.label        "更新">
+<!ENTITY itemNetworking.label    "网络 &amp; 磁盘空间">
+<!ENTITY itemCertificates.label  "证书">
+
+<!-- General Settings -->
+
+<!ENTITY enableGloda.label             "Enable Message Indexer">
+<!ENTITY enableGloda.accesskey         "I">
+<!ENTITY showCondensedAddresses.label  "仅显示我通讯录中联系人的显示名。">
 <!ENTITY showCondensedAddresses.accesskey "p">
-<!ENTITY autoMarkAsRead.label "自动将消息标记为已读">
-<!ENTITY autoMarkAsRead.accesskey "A">
-<!ENTITY markAsReadNoDelay.label "显示的同时">
-<!ENTITY markAsReadNoDelay.accesskey "d">
-<!ENTITY markAsReadDelay.label "显示超过">
-<!ENTITY markAsReadDelay.accesskey "e">
-<!ENTITY secondsLabel.label "秒">
-<!ENTITY showFolderColumns.label "在文件夹面板中显示扩展的列。">
-<!ENTITY showFolderColumns.accesskey "l">
-<!ENTITY openMsgIn.label "打开消息，使用：">
-<!ENTITY reuseExpRadio0.label "新的消息窗口">
-<!ENTITY reuseExpRadio0.accesskey "i">
-<!ENTITY reuseExpRadio1.label "已打开的消息窗口">
-<!ENTITY reuseExpRadio1.accesskey "x">
-<!ENTITY configEditDesc.label "高级配置">
-<!ENTITY configEdit.label "配置编辑器…">
-<!ENTITY configEdit.accesskey "g">
-<!ENTITY returnReceiptsInfo.label "指定 &brandShortName; 如何处理回执">
-<!ENTITY showReturnReceipts.label "回执…">
-<!ENTITY showReturnReceipts.accesskey "R">
-<!ENTITY reading.caption "阅读">
-<!ENTITY display.caption "显示">
-<!ENTITY autoCheck.label "自动检查下列组件的更新：">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "h">
-<!ENTITY enableAddonsUpdate.label "已安装的附加组件">
-<!ENTITY enableAddonsUpdate.accesskey "t">
-<!ENTITY checkNow.label "立即检查…">
-<!ENTITY whenUpdatesFound.label "当找到 &brandShortName; 的更新时，">
-<!ENTITY modeAskMe.label "询问我要如何做">
-<!ENTITY modeAskMe.accesskey "k">
-<!ENTITY modeAutomatic.label "自动下载并安装更新">
-<!ENTITY modeAutomatic.accesskey "m">
-<!ENTITY modeAutoAddonWarn.label "如果这将导致禁用某些附加组件，警告我">
-<!ENTITY modeAutoAddonWarn.accesskey "-">
-<!ENTITY showUpdates.label "显示更新历史">
-<!ENTITY showUpdates.accesskey "y">
-<!ENTITY showSettings.label "设置…">
-<!ENTITY showSettings.accesskey "n">
-<!ENTITY proxiesConfigure.label "配置 &brandShortName; 连接至因特网的方式">
-<!ENTITY connectionsInfo.caption "连接">
-<!ENTITY offlineInfo.caption "脱机">
-<!ENTITY offlineInfo.label "配置脱机设置">
-<!ENTITY showOffline.label "脱机…">
-<!ENTITY showOffline.accesskey "O">
+
+<!ENTITY autoMarkAsRead.label          "自动将消息标记为已读">
+<!ENTITY autoMarkAsRead.accesskey      "A">
+<!ENTITY markAsReadNoDelay.label       "显示的同时">
+<!ENTITY markAsReadNoDelay.accesskey   "d">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "显示超过">
+<!ENTITY markAsReadDelay.accesskey     "e">
+<!ENTITY secondsLabel.label            "秒">
+<!ENTITY showFolderColumns.label       "在文件夹面板中显示扩展的列。">
+<!ENTITY showFolderColumns.accesskey   "l">
+<!ENTITY openMsgIn.label               "打开消息，使用：">
+<!ENTITY reuseExpRadio0.label          "新的消息窗口">
+<!ENTITY reuseExpRadio0.accesskey      "i">
+<!ENTITY reuseExpRadio1.label          "已打开的消息窗口">
+<!ENTITY reuseExpRadio1.accesskey      "x">
+<!ENTITY configEditDesc.label          "高级配置">
+<!ENTITY configEdit.label              "配置编辑器…">
+<!ENTITY configEdit.accesskey          "g">
+<!ENTITY returnReceiptsInfo.label      "指定 &brandShortName; 如何处理回执">
+<!ENTITY showReturnReceipts.label      "回执…">
+<!ENTITY showReturnReceipts.accesskey  "R">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption                "阅读">
+<!ENTITY display.caption                "显示">
+
+<!-- Update -->
+<!ENTITY autoCheck.label                "自动检查下列组件的更新：">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "h">
+<!ENTITY enableAddonsUpdate.label       "已安装的附加组件">
+<!ENTITY enableAddonsUpdate.accesskey   "t">
+<!ENTITY checkNow.label                 "立即检查…">
+<!ENTITY whenUpdatesFound.label         "当找到 &brandShortName; 的更新时，">
+<!ENTITY modeAskMe.label                "询问我要如何做">
+<!ENTITY modeAskMe.accesskey            "k">
+<!ENTITY modeAutomatic.label            "自动下载并安装更新">
+<!ENTITY modeAutomatic.accesskey        "m">
+<!ENTITY modeAutoAddonWarn.label        "如果这将导致禁用某些附加组件，警告我">
+<!ENTITY modeAutoAddonWarn.accesskey    "-">
+<!ENTITY showUpdates.label              "显示更新历史">
+<!ENTITY showUpdates.accesskey          "y">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showSettings.label            "设置…">
+<!ENTITY showSettings.accesskey        "n">
+<!ENTITY proxiesConfigure.label        "配置 &brandShortName; 连接至因特网的方式">
+<!ENTITY connectionsInfo.caption       "连接">
+<!ENTITY offlineInfo.caption           "脱机">
+<!ENTITY offlineInfo.label             "配置脱机设置">
+<!ENTITY showOffline.label             "脱机…">
+<!ENTITY showOffline.accesskey         "O">
+
 <!ENTITY Diskspace "磁盘空间">
 <!ENTITY offlineCompact.label "压缩文件夹，当它的内容大于">
 <!ENTITY offlineCompact.accesskey "v">
 <!ENTITY kb.label "KB">
-<!ENTITY useCacheBefore.label "最多使用">
-<!ENTITY useCacheBefore.accesskey "U">
-<!ENTITY useCacheAfter.label "MB 磁盘空间作为缓存">
-<!ENTITY clearCacheNow.label "立即清空">
-<!ENTITY clearCacheNow.accesskey "C">
-<!ENTITY viewCertificates.label "查看证书">
-<!ENTITY viewCertificates.accesskey "a">
-<!ENTITY viewCRLs.label "证书吊销列表">
-<!ENTITY viewCRLs.accesskey "e">
-<!ENTITY validation.label "验证">
-<!ENTITY validation.accesskey "d">
-<!ENTITY viewSecurityDevices.label "安全设备">
-<!ENTITY viewSecurityDevices.accesskey "u">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "最多使用">
+<!ENTITY useCacheBefore.accesskey        "U">
+<!ENTITY useCacheAfter.label             "MB 磁盘空间作为缓存">
+<!ENTITY clearCacheNow.label             "立即清空">
+<!ENTITY clearCacheNow.accesskey         "C">
+
+<!-- Certificates -->
+<!ENTITY viewCertificates.label         "查看证书">
+<!ENTITY viewCertificates.accesskey     "a">
+<!ENTITY viewCRLs.label                 "证书吊销列表">
+<!ENTITY viewCRLs.accesskey             "e">
+<!ENTITY validation.label               "验证">
+<!ENTITY validation.accesskey           "d">
+<!ENTITY viewSecurityDevices.label      "安全设备">
+<!ENTITY viewSecurityDevices.accesskey  "u">

@@ -21,7 +21,6 @@
    -
    - Contributor(s):
    -   Akkana Peck
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -36,6 +35,9 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
+<!-- extracted from EdReplace.xul -->
+
 <!ENTITY replaceDialog.title "查找并替换">
 <!ENTITY findField.label "查找文本:">
 <!ENTITY findField.accesskey "n">

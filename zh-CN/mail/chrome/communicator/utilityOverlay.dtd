@@ -1,49 +1,61 @@
-<!ENTITY fileMenu.label "文件">
-<!ENTITY fileMenu.accesskey "f">
-<!ENTITY newMenu.label "新建">
-<!ENTITY newMenu.accesskey "N">
-<!ENTITY editMenu.label "编辑">
-<!ENTITY editMenu.accesskey "e">
-<!ENTITY undoCmd.label "撤销">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "u">
-<!ENTITY redoCmd.label "重做">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "r">
-<!ENTITY cutCmd.label "剪切">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "复制">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "c">
-<!ENTITY pasteCmd.label "粘贴">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "p">
-<!ENTITY deleteCmd.label "删除">
-<!ENTITY deleteCmd.accesskey "d">
-<!ENTITY selectAllCmd.label "选择全部">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY preferencesCmd.label "选项…">
-<!ENTITY preferencesCmd.accesskey "e">
-<!ENTITY preferencesCmdUnix.label "首选项">
-<!ENTITY preferencesCmdUnix.accesskey "n">
-<!ENTITY viewMenu.label "查看">
-<!ENTITY viewMenu.accesskey "v">
-<!ENTITY viewToolbarsMenu.label "显示/隐藏">
-<!ENTITY viewToolbarsMenu.accesskey "w">
-<!ENTITY showTaskbarCmd.label "状态栏">
-<!ENTITY showTaskbarCmd.accesskey "S">
-<!ENTITY proxy.label "代理配置…">
-<!ENTITY proxy.accesskey "C">
-<!ENTITY closeCmd.label "关闭">
-<!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "c">
+<!-- these things need to move into utilityOverlay.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+
+<!ENTITY fileMenu.label          "文件">
+<!ENTITY fileMenu.accesskey        "f">
+<!ENTITY newMenu.label            "新建">
+<!ENTITY newMenu.accesskey          "N">
+
+<!ENTITY editMenu.label          "编辑">
+<!ENTITY editMenu.accesskey        "e">
+<!ENTITY undoCmd.label            "撤销">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "u">
+<!ENTITY redoCmd.label            "重做">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "r">
+<!ENTITY cutCmd.label            "剪切">
+<!ENTITY cutCmd.key              "X">
+<!ENTITY cutCmd.accesskey          "t">
+<!ENTITY copyCmd.label            "复制">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "c">
+<!ENTITY pasteCmd.label            "粘贴">
+<!ENTITY pasteCmd.key            "V">
+<!ENTITY pasteCmd.accesskey          "p">
+<!ENTITY deleteCmd.label          "删除">
+<!ENTITY deleteCmd.accesskey        "d">
+<!ENTITY selectAllCmd.label          "选择全部">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey        "a">
+<!ENTITY preferencesCmd.label        "选项…">
+<!ENTITY preferencesCmd.accesskey      "O">
+<!ENTITY preferencesCmdUnix.label       "首选项">
+<!ENTITY preferencesCmdUnix.accesskey     "n">
+
+<!ENTITY viewMenu.label          "查看">
+<!ENTITY viewMenu.accesskey        "v">
+<!ENTITY viewToolbarsMenu.label        "显示/隐藏">
+<!ENTITY viewToolbarsMenu.accesskey      "T">
+<!ENTITY showTaskbarCmd.label          "状态栏">
+<!ENTITY showTaskbarCmd.accesskey        "S">
+
+<!ENTITY proxy.label                                    "代理配置…">
+<!ENTITY proxy.accesskey                                "C">
+
+<!ENTITY closeCmd.label      "关闭">
+<!ENTITY closeCmd.key      "W">
+<!ENTITY closeCmd.accesskey    "c">
+
 <!ENTITY closeWindow.label "关闭窗口">
-<!ENTITY quitApplicationCmd.label "退出">
-<!ENTITY quitApplicationCmd.key "Q">
-<!ENTITY quitApplicationCmd.accesskey "x">
-<!ENTITY quitApplicationCmdUnix.label "退出">
-<!ENTITY quitApplicationCmdUnix.accesskey "q">
-<!ENTITY quitApplicationCmdMac.label "退出 &brandShortName;">
-<!ENTITY quitApplicationCmdMac.accesskey "q">
+
+<!ENTITY quitApplicationCmd.label  "退出">
+<!ENTITY quitApplicationCmd.key    "Q">
+<!ENTITY quitApplicationCmd.accesskey  "x">
+
+<!ENTITY quitApplicationCmdUnix.label  "退出">
+<!ENTITY quitApplicationCmdUnix.accesskey  "q">
+
+<!ENTITY quitApplicationCmdMac.label  "退出 &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey  "b">

@@ -1,37 +1,47 @@
-<!ENTITY systemDefaults.label "系统默认">
-<!ENTITY alwaysCheckDefault.label "启动时检查 &brandShortName; 是否为默认邮件客户端">
-<!ENTITY alwaysCheckDefault.accesskey "l">
-<!ENTITY alwaysCheckDefault.height "3em">
-<!ENTITY checkNow.label "立即检查">
-<!ENTITY checkNow.accesskey "N">
-<!ENTITY messengerStartPage.label "&brandShortName; 起始页">
-<!ENTITY enableStartPage.label "&brandShortName; 启动时在消息区域显示起始页">
-<!ENTITY enableStartPage.accesskey "W">
-<!ENTITY location.label "地址：">
-<!ENTITY location1.accesskey "o">
-<!ENTITY useDefault.label "恢复默认值">
-<!ENTITY useDefault.accesskey "R">
-<!ENTITY bounceSystemDockIcon.label "显示 dock 图标动画">
-<!ENTITY bounceSystemDockIcon.accesskey "i">
-<!ENTITY newMessagesArrive.label "当新消息到达时：">
-<!ENTITY playSound.label "播放声音">
-<!ENTITY playSound1.accesskey "d">
-<!ENTITY showAnimatedAlert.label "显示警告">
-<!ENTITY showAnimatedAlert.accesskey "S">
-<!ENTITY customizeMailAlert.label "自定义…">
-<!ENTITY customizeMailAlert.accesskey "C">
-<!ENTITY play.label "播放">
-<!ENTITY play.accesskey "P">
-<!ENTITY systemsound.label "默认的系统新邮件提示声">
-<!ENTITY systemsoundMac.label "系统警告声">
-<!ENTITY systemsoundMac.accesskey "y">
-<!ENTITY systemsound.accesskey "y">
-<!ENTITY customsound.label "使用下列声音文件">
-<!ENTITY customsound.accesskey "U">
-<!ENTITY browse.label "浏览…">
-<!ENTITY browse.accesskey "B">
-<!ENTITY addonsMgr.label "附加组件">
-<!ENTITY manageAddonsDescWin.label "更改附加组件选项">
-<!ENTITY manageAddonsDescUnix2.label "更改附加组件首选项">
-<!ENTITY manageAddons.label "管理附加组件…">
-<!ENTITY manageAddons.accesskey "M">
+<!ENTITY systemDefaults.label              "系统默认">
+<!ENTITY alwaysCheckDefault.label          "启动时检查 &brandShortName; 是否为默认邮件客户端">
+<!ENTITY alwaysCheckDefault.accesskey      "b">
+<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
+  There's some sort of bug which makes wrapping checkboxes not properly reflow,
+  causing the bottom border of the groupbox to be cut off; set this
+  appropriately if your localization causes this checkbox to wrap.
+-->
+<!ENTITY alwaysCheckDefault.height  "3em">
+<!ENTITY checkNow.label             "立即检查">
+<!ENTITY checkNow.accesskey         "N">
+
+<!ENTITY messengerStartPage.label         "&brandShortName; 起始页">
+<!ENTITY enableStartPage.label            "&brandShortName; 启动时在消息区域显示起始页">
+<!ENTITY enableStartPage.accesskey        "b">
+<!ENTITY location.label                   "地址：">
+<!ENTITY location1.accesskey               "o">
+<!ENTITY useDefault.label                 "恢复默认值">
+<!ENTITY useDefault.accesskey             "R">
+
+<!ENTITY bounceSystemDockIcon.label       "显示 dock 图标动画">
+<!ENTITY bounceSystemDockIcon.accesskey   "显">
+
+<!ENTITY newMessagesArrive.label          "当新消息到达时：">
+<!ENTITY playSound.label                  "播放声音">
+<!ENTITY playSound1.accesskey              "d">
+<!ENTITY showAnimatedAlert.label          "显示警告">
+<!ENTITY showAnimatedAlert.accesskey      "S">
+<!ENTITY customizeMailAlert.label         "自定义…">
+<!ENTITY customizeMailAlert.accesskey     "C">
+
+<!ENTITY play.label                       "播放">
+<!ENTITY play.accesskey                   "P">
+<!ENTITY systemsound.label                "默认的系统新邮件提示声">
+<!ENTITY systemsoundMac.label             "系统警告声">
+<!ENTITY systemsoundMac.accesskey         "y">
+<!ENTITY systemsound.accesskey            "y">
+<!ENTITY customsound.label                "使用下列声音文件">
+<!ENTITY customsound.accesskey            "U">
+<!ENTITY browse.label                     "浏览…">
+<!ENTITY browse.accesskey                 "B">
+
+<!ENTITY addonsMgr.label                  "附加组件">
+<!ENTITY manageAddonsDescWin.label        "更改附加组件选项">
+<!ENTITY manageAddonsDescUnix2.label      "更改附加组件首选项">
+<!ENTITY manageAddons.label               "管理附加组件…">
+<!ENTITY manageAddons.accesskey           "M">
