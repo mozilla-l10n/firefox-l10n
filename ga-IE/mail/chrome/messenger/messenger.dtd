@@ -623,6 +623,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY phishingBarMessage2.label "Meastar gur camscéim í an teachtaireacht seo.">
 <!ENTITY removePhishingBarButton1.label "Tabhair neamhaird ar rabhadh">
 <!ENTITY reportPhishingError1.label "Ní camscéim ríomhphoist é seo.">
+<!-- Message Header Button Box (to show hidden email addresses) -->
+
+<!ENTITY more.label "tuilleadh">
 <!-- Quick Search Bar -->
 
 <!ENTITY quickSearchCmd.key "k">
