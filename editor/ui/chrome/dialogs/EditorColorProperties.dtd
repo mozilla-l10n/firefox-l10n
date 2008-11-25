@@ -20,7 +20,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -35,6 +34,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
+<!-- Window title -->
 <!ENTITY windowTitle.label "页面颜色和背景">
 <!ENTITY pageColors.label "页面颜色">
 <!ENTITY defaultColorsRadio.label "阅读器的默认颜色 （不使用页面中的颜色）">
@@ -43,6 +44,7 @@
 <!ENTITY customColorsRadio.label "使用定制颜色：">
 <!ENTITY customColorsRadio.accessKey "C">
 <!ENTITY customColorsRadio.tooltip "这些颜色设置覆盖了浏览器的设置">
+
 <!ENTITY normalText.label "常规文本">
 <!ENTITY normalText.accessKey "N">
 <!ENTITY linkText.label "链接文本">

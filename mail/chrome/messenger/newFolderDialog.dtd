@@ -21,7 +21,6 @@
    -
    - Contributor(s):
    -   Fabian Guisset <hidday@geocities.com>
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -36,12 +35,14 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY newFolderDialog.title "新建文件夹">
-<!ENTITY name.label "名称：">
-<!ENTITY name.accesskey "n">
-<!ENTITY description.label "创建子文件夹：">
-<!ENTITY description.accesskey "c">
-<!ENTITY folderRestriction1.label "此服务器只允许两种特殊的文件夹。">
-<!ENTITY folderRestriction2.label "允许新文件夹包含：">
-<!ENTITY foldersOnly.label "只文件夹">
-<!ENTITY messagesOnly.label "只消息">
+   
+<!-- Labels -->
+<!ENTITY newFolderDialog.title      "新建文件夹">
+<!ENTITY name.label                 "名称：">
+<!ENTITY name.accesskey             "n">
+<!ENTITY description.label          "创建子文件夹：">
+<!ENTITY description.accesskey      "c">
+<!ENTITY folderRestriction1.label   "此服务器只允许两种特殊的文件夹。">
+<!ENTITY folderRestriction2.label   "允许新文件夹包含：">
+<!ENTITY foldersOnly.label          "只文件夹">
+<!ENTITY messagesOnly.label         "只消息">

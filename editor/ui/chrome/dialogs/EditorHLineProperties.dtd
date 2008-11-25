@@ -20,7 +20,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -35,7 +34,11 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
+
+<!-- Window title -->
 <!ENTITY windowTitle.label "水平线特性">
+
 <!ENTITY dimensionsBox.label "尺寸">
 <!ENTITY heightEditField.label "高度:">
 <!ENTITY heightEditField.accessKey "G">
@@ -49,6 +52,7 @@
 <!ENTITY centerRadio.accessKey "C">
 <!ENTITY rightRadio.label "右">
 <!ENTITY rightRadio.accessKey "R">
+
 <!ENTITY threeDShading.label "3 维阴影">
 <!ENTITY threeDShading.accessKey "S">
 <!ENTITY saveSettings.label "用作默认值">

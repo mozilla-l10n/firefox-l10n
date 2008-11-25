@@ -1,3 +1,5 @@
+<!-- extracted from am-main.xul -->
+
 <!ENTITY accountTitle.label "帐户设置">
 <!ENTITY accountName.label "帐户名称：">
 <!ENTITY accountName.accesskey "N">
@@ -18,10 +20,14 @@
 <!ENTITY choose.accesskey "C">
 <!ENTITY editVCard.label "编辑名片…">
 <!ENTITY editVCard.accesskey "d">
+<!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 <!ENTITY attachVCard.label "将我的个人名片附加到消息中">
 <!ENTITY attachVCard.accesskey "v">
+
 <!ENTITY manageIdentities.label "管理标识…">
 <!ENTITY manageIdentities.accesskey "M">
+
+<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 <!ENTITY smtpName.label "发送服务器 (SMTP)：">
-<!ENTITY smtpName.accesskey "u">
+<!ENTITY smtpName.accesskey "发">
 <!ENTITY smtpDefaultServer.label "使用默认服务器">

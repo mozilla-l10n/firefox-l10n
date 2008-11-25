@@ -1,25 +1,32 @@
-<!ENTITY downloadactionsWindow.title "下载动作">
-<!ENTITY window.width "480">
-<!ENTITY window.height "310">
-<!ENTITY fileTypesDescription.label "对下列文件类型自动执行相关的动作：">
-<!ENTITY fileHandlerColumn.label "动作">
-<!ENTITY fileHandlerColumn.accesskey "A">
-<!ENTITY fileTypeColumn.label "文件类型">
-<!ENTITY fileTypeColumn.accesskey "T">
-<!ENTITY fileMIMETypeColumn.label "MIME 类型">
-<!ENTITY fileMIMETypeColumn.accesskey "M">
-<!ENTITY fileExtensionColumn.label "扩展">
-<!ENTITY fileExtensionColumn.accesskey "E">
-<!ENTITY remove.label "移除动作">
-<!ENTITY remove.accesskey "R">
-<!ENTITY edit.label "更改动作…">
-<!ENTITY edit.accesskey "C">
-<!ENTITY windowClose.key "w">
-<!ENTITY focusSearch1.key "f">
-<!ENTITY focusSearch2.key "k">
-<!ENTITY filter.label "搜索：">
-<!ENTITY filter.accesskey "S">
-<!ENTITY clear.label "清空">
-<!ENTITY clear.accesskey "l">
-<!ENTITY button.close.label "关闭">
-<!ENTITY button.close.accesskey "o">
+<!ENTITY  downloadactionsWindow.title         "下载动作">
+<!ENTITY  window.width                         "480">
+<!ENTITY  window.height                        "310">
+
+<!ENTITY  fileTypesDescription.label          "对下列文件类型自动执行相关的动作：">
+
+<!ENTITY  fileHandlerColumn.label             "动作">
+<!ENTITY  fileHandlerColumn.accesskey         "A">
+<!ENTITY  fileTypeColumn.label                "文件类型">
+<!ENTITY  fileTypeColumn.accesskey            "T">
+<!ENTITY  fileMIMETypeColumn.label            "MIME 类型">
+<!ENTITY  fileMIMETypeColumn.accesskey        "M">
+<!ENTITY  fileExtensionColumn.label           "扩展">
+<!ENTITY  fileExtensionColumn.accesskey       "E">
+
+<!ENTITY  remove.label                        "移除动作">
+<!ENTITY  remove.accesskey                    "R">
+<!ENTITY  edit.label                          "更改动作…">
+<!ENTITY  edit.accesskey                      "C">
+
+<!ENTITY  windowClose.key                     "w">
+<!ENTITY  focusSearch1.key                    "f">
+<!ENTITY  focusSearch2.key                    "k">
+
+<!ENTITY  filter.label                        "搜索：">
+<!ENTITY  filter.accesskey                    "S">
+<!ENTITY  clear.label                         "清空">
+<!ENTITY  clear.accesskey                     "l">
+
+<!ENTITY  button.close.label                  "关闭">
+<!ENTITY  button.close.accesskey              "o">
+

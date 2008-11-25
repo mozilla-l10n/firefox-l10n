@@ -1,3 +1,5 @@
+<!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
+
 <!ENTITY title.label "消息安全">
 <!ENTITY subject.plaintextWarning "请注意：邮件的标题信息不会被加密。">
 <!ENTITY status.heading "您消息的内容将按照下面的设置发送：">

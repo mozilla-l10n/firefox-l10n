@@ -1,6 +1,8 @@
-<!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessageCmd.key "M">
-<!ENTITY newMessageCmd.label "消息">
-<!ENTITY newMessageCmd.accesskey "m">
-<!ENTITY newCardCmd.label "通讯录名片…">
-<!ENTITY newCardCmd.accesskey "c">
+<!ENTITY  newMessageCmd2.key              "N">
+<!ENTITY  newMessageCmd.key               "M">
+<!ENTITY  newMessageCmd.label             "消息">
+<!ENTITY  newMessageCmd.accesskey         "m">
+ 
+<!ENTITY  newCardCmd.label                "通讯录名片…">
+<!ENTITY  newCardCmd.accesskey            "c">
+ 

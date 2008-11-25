@@ -1,24 +1,31 @@
-<!ENTITY migrationWizard.title "导入向导">
-<!ENTITY importFromWin.label "导入选项、账户设置、通讯录、过滤器以及其他数据，来自：">
-<!ENTITY importFromNonWin.label "导入首选项、账户设置、通讯录、过滤器以及其他数据，来自：">
-<!ENTITY importFromNothing.label "不导入任何数据">
-<!ENTITY importFromNothing.accesskey "D">
-<!ENTITY importFromSeamonkey.label "Netscape 6, 7 或者 Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey "N">
-<!ENTITY importFromNetscape4.label "Netscape 4.x">
-<!ENTITY importFromNetscape4.accesskey "4">
-<!ENTITY importFromOExpress.label "Outlook Express">
-<!ENTITY importFromOExpress.accesskey "u">
-<!ENTITY importFromOutlook.label "Outlook">
-<!ENTITY importFromOutlook.accesskey "O">
-<!ENTITY importFromEudora.label "Eudora">
-<!ENTITY importFromEudora.accesskey "E">
-<!ENTITY importSource.title "导入设置以及邮件夹">
-<!ENTITY importItems.title "导入项">
-<!ENTITY importItems.label "选择要导入的项：">
-<!ENTITY migrating.title "正在导入…">
-<!ENTITY migrating.label "下列项正在被导入…">
-<!ENTITY selectProfile.title "选择配置文件">
-<!ENTITY selectProfile.label "下列配置文件可供导入，从：">
-<!ENTITY done.title "导入完成">
-<!ENTITY done.label "下列项已成功导入...">
+
+<!ENTITY migrationWizard.title          "导入向导">
+
+<!ENTITY importFromWin.label            "导入选项、账户设置、通讯录、过滤器以及其他数据，来自：">
+<!ENTITY importFromNonWin.label         "导入首选项、账户设置、通讯录、过滤器以及其他数据，来自：">
+
+<!ENTITY importFromNothing.label        "不导入任何数据">
+<!ENTITY importFromNothing.accesskey    "D">
+<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 或者 Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromNetscape4.label      "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromOExpress.label       "Outlook Express">
+<!ENTITY importFromOExpress.accesskey   "u">
+<!ENTITY importFromOutlook.label        "Outlook">
+<!ENTITY importFromOutlook.accesskey    "O">
+<!ENTITY importFromEudora.label         "Eudora">
+<!ENTITY importFromEudora.accesskey     "E">
+
+<!ENTITY importSource.title             "导入设置以及邮件夹">
+<!ENTITY importItems.title              "导入项">
+<!ENTITY importItems.label              "选择要导入的项：">
+
+<!ENTITY migrating.title                "正在导入…">
+<!ENTITY migrating.label                "下列项正在被导入…">
+
+<!ENTITY selectProfile.title            "选择配置文件">
+<!ENTITY selectProfile.label            "下列配置文件可供导入，从：">
+
+<!ENTITY done.title                     "导入完成">
+<!ENTITY done.label                     "下列项已成功导入...">

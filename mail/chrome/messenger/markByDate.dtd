@@ -20,7 +20,6 @@
    -
    - Contributor(s):
    -   Frank Schoenheit <frank.schoenheit@gmx.de>
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,6 +34,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY messageMarkByDate.label "将消息标记为某日已读">
 <!ENTITY markByDateLower.label "从：">
 <!ENTITY markByDateLower.accesskey "F">

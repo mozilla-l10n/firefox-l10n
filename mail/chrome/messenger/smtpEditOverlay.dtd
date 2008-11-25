@@ -16,7 +16,7 @@
 <!ENTITY neverSecure.label "不">
 <!ENTITY neverSecure.accesskey "N">
 <!ENTITY sometimesSTARTTLS.label "STARTTLS，如果可用">
-<!ENTITY sometimesSTARTTLS.accesskey "a">
+<!ENTITY sometimesSTARTTLS.accesskey "A">
 <!ENTITY alwaysSTARTTLS.label "STARTTLS">
 <!ENTITY alwaysSTARTTLS.accesskey "T">
 <!ENTITY alwaysSMTPOverSSL.label "通过 SSL 加密的 SMTP">

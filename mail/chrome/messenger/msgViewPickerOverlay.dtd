@@ -1,3 +1,5 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
 <!ENTITY viewPicker.label "视图：">
 <!ENTITY viewPicker.accesskey "i">
 <!ENTITY viewAll.label "全部">

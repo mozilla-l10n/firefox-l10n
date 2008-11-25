@@ -20,7 +20,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -35,7 +34,10 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY windowTitle.label "锚标属性">
 <!ENTITY anchorNameEditField.label "锚标名称：">
 <!ENTITY anchorNameEditField.accessKey "N">
 <!ENTITY nameInput.tooltip "请为此锚标（目标）输入唯一的名称">
+
+

@@ -1,16 +1,18 @@
-<!ENTITY addressbookPicker.label "通讯录：">
-<!ENTITY addressbookPicker.accesskey "k">
-<!ENTITY searchInput.label "搜索：">
-<!ENTITY searchInput.accesskey "o">
-<!ENTITY SearchNameOrEmail.label "名称或者电子邮件">
-<!ENTITY deleteAddrBookCard.label "删除">
-<!ENTITY addrBookCardProperties.label "属性">
-<!ENTITY addtoToFieldMenu.label "添加至收件人栏">
-<!ENTITY addtoCcFieldMenu.label "添加至抄送栏">
-<!ENTITY addtoBccFieldMenu.label "添加至密件抄送栏">
-<!ENTITY toButton.label "添加至收件人：">
-<!ENTITY toButton.accesskey "A">
-<!ENTITY ccButton.label "添加至抄送：">
-<!ENTITY ccButton.accesskey "d">
-<!ENTITY bccButton.label "添加至密件抄送:">
-<!ENTITY bccButton.accesskey "B">
+<!ENTITY addressbookPicker.label            "通讯录：">
+<!ENTITY addressbookPicker.accesskey        "k">
+<!ENTITY searchInput.label                  "搜索：">
+<!ENTITY searchInput.accesskey              "o">
+<!ENTITY SearchNameOrEmail.label            "名称或者电子邮件">
+
+<!ENTITY deleteAddrBookCard.label           "删除">
+<!ENTITY addrBookCardProperties.label       "属性">
+<!ENTITY addtoToFieldMenu.label             "添加至收件人栏">
+<!ENTITY addtoCcFieldMenu.label             "添加至抄送栏">
+<!ENTITY addtoBccFieldMenu.label            "添加至密件抄送栏">
+
+<!ENTITY toButton.label                     "添加至收件人：">
+<!ENTITY toButton.accesskey                 "A">
+<!ENTITY ccButton.label                     "添加至抄送：">
+<!ENTITY ccButton.accesskey                 "d">
+<!ENTITY bccButton.label                    "添加至密件抄送:">
+<!ENTITY bccButton.accesskey                "B">

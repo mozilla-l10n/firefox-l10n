@@ -19,7 +19,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s): Neil Rashbrook <neil@parkwaycc.co.uk>
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,9 +33,12 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY windowTitle.label "字段集属性">
+
 <!ENTITY Legend.label "图例">
 <!ENTITY Legend.accesskey "L">
+
 <!ENTITY EditLegendText.label "编辑图列:">
 <!ENTITY EditLegendText.accesskey "T">
 <!ENTITY LegendAlign.label "图例对齐:">
@@ -45,5 +47,6 @@
 <!ENTITY AlignLeft.label "左对齐">
 <!ENTITY AlignCenter.label "居中">
 <!ENTITY AlignRight.label "右对齐">
+
 <!ENTITY RemoveFieldSet.label "移除字段集">
 <!ENTITY RemoveFieldSet.accesskey "R">

@@ -25,7 +25,6 @@
    -   Ryan Cassin (rcassin@supernova.org)
    -   Daniel Glazman (glazman@netscape.com)
    -   Stephen Donner (technutz@netscape.net)
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -40,10 +39,14 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
+<!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
+
+<!-- File menu items -->
 <!ENTITY fileMenu.label "文件">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newBlankPageCmd.label "编写页">
-<!ENTITY newBlankPageCmd.accesskey "P">
+<!ENTITY newBlankPageCmd.accesskey "P" >
 <!ENTITY newMenu.label "新建">
 <!ENTITY openFileCmd.label "打开文件…">
 <!ENTITY openFileCmd.accesskey "O">
@@ -60,6 +63,7 @@
 <!ENTITY saveCmd.key "S">
 <!ENTITY saveAsCmd.label "另存为…">
 <!ENTITY saveAsCmd.accesskey "A">
+
 <!ENTITY publishCmd.label "发布">
 <!ENTITY publishCmd.accesskey "b">
 <!ENTITY publishCmd.key "S">
@@ -81,6 +85,8 @@
 <!ENTITY closeCmd.label "关闭">
 <!ENTITY closeCmd.accesskey "C">
 <!ENTITY closeCmd.key "W">
+
+<!-- Edit menu items -->
 <!ENTITY editMenu.label "编辑">
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY pasteNoFormatting.label "粘贴为无格式文本">
@@ -110,7 +116,9 @@
 <!ENTITY checkSpellingCmd.accesskey "h">
 <!ENTITY checkSpellingCmd.key "K">
 <!ENTITY validateCmd.label "验证 HTML">
-<!ENTITY validateCmd.accesskey "V">
+<!ENTITY validateCmd.accesskey "验">
+
+<!-- Insert menu items -->
 <!ENTITY insertMenu.label "插入">
 <!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd.label "链接…">
@@ -130,6 +138,8 @@
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label "分开下面的图像">
 <!ENTITY insertBreakAllCmd.accesskey "k">
+
+<!-- Used just in context popup. -->
 <!ENTITY spellCheckNoSuggestions.label "（无可用建议）">
 <!ENTITY spellCheckIgnoreWord.label "忽略该词">
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
@@ -139,6 +149,7 @@
 <!ENTITY createLinkCmd.accesskey "k">
 <!ENTITY editLinkCmd.label "在新网页编写器窗口中编辑此链接">
 <!ENTITY editLinkCmd.accesskey "i">
+<!-- (Toplevel Edit menu uses utilityOverlay) -->
 <!ENTITY undoCmd.label "撤销">
 <!ENTITY undoCmd.accesskey "U">
 <!ENTITY redoCmd.label "重做">
@@ -155,6 +166,8 @@
 <!ENTITY clearCmd.accesskey "l">
 <!ENTITY selectAllCmd.label "选择全部">
 <!ENTITY selectAllCmd.accesskey "A">
+
+<!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "选择字体">
 <!ENTITY fontfaceMenu.label "字体">
 <!ENTITY fontfaceMenu.accesskey "F">
@@ -169,6 +182,8 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
+
+<!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "选择字体大小">
 <!ENTITY decreaseFontSize.label "缩小">
 <!ENTITY decreaseFontSize.accesskey "r">
@@ -176,7 +191,8 @@
 <!ENTITY increaseFontSize.label "更大">
 <!ENTITY increaseFontSize.accesskey "g">
 <!ENTITY increaseFontSize.key "+">
-<!ENTITY increaseFontSize.key2 "=">
+<!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
+
 <!ENTITY fontSizeMenu.label "大小">
 <!ENTITY fontSizeMenu.accesskey "z">
 <!ENTITY size-xx-smallCmd.label "xx-small">
@@ -193,6 +209,8 @@
 <!ENTITY size-x-largeCmd.accesskey "x">
 <!ENTITY size-xx-largeCmd.label "xx-large">
 <!ENTITY size-xx-largeCmd.accesskey "e">
+
+<!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "文本样式">
 <!ENTITY fontStyleMenu.accesskey "S">
 <!ENTITY styleBoldCmd.label "粗体">
@@ -228,18 +246,21 @@
 <!ENTITY styleSamp.accesskey "m">
 <!ENTITY styleVar.label "变量">
 <!ENTITY styleVar.accesskey "V">
+
 <!ENTITY formatFontColor.label "文本颜色…">
 <!ENTITY formatFontColor.accesskey "C">
 <!ENTITY tableOrCellColor.label "表格或单元背景颜色…">
 <!ENTITY tableOrCellColor.accesskey "B">
+
 <!ENTITY formatRemoveStyles.key "Y">
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "删除锚标">
 <!ENTITY formatRemoveNamedAnchors.accesskey "R">
 <!ENTITY formatRemoveNamedAnchors.key "A">
+
 <!ENTITY paragraphMenu.label "段落">
 <!ENTITY paragraphMenu.accesskey "P">
-<!ENTITY paragraphParagraphCmd.label "段落">
+<!ENTITY paragraphParagraphCmd.label "段落">  
 <!ENTITY paragraphParagraphCmd.accesskey "P">
 <!ENTITY heading1Cmd.label "标题 1">
 <!ENTITY heading1Cmd.accesskey "1">
@@ -257,6 +278,8 @@
 <!ENTITY paragraphAddressCmd.accesskey "A">
 <!ENTITY paragraphPreformatCmd.label "预设格式">
 <!ENTITY paragraphPreformatCmd.accesskey "f">
+
+<!-- List menu items -->
 <!ENTITY formatlistMenu.label "列表">
 <!ENTITY formatlistMenu.accesskey "L">
 <!ENTITY noneCmd.label "无">
@@ -271,11 +294,16 @@
 <!ENTITY listDefinitionCmd.accesskey "D">
 <!ENTITY listPropsCmd.label "列表属性…">
 <!ENTITY listPropsCmd.accesskey "L">
+
 <!ENTITY ParagraphSelect.tooltip "选择段落格式">
+<!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "主体文本">
 <!ENTITY bodyTextCmd.accesskey "T">
+<!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "高级属性">
 <!ENTITY advancedPropertiesCmd.accesskey "v">
+
+<!-- Align menu items -->
 <!ENTITY alignMenu.label "对齐">
 <!ENTITY alignMenu.accesskey "A">
 <!ENTITY alignLeft.label "左对齐">
@@ -290,31 +318,43 @@
 <!ENTITY alignJustify.label "调整">
 <!ENTITY alignJustify.accesskey "J">
 <!ENTITY alignJustify.tooltip "对齐已调整">
+
+<!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "层">
 <!ENTITY layerSendToBack.tooltip "置后">
 <!ENTITY layerBringToFront.tooltip "前置">
+
 <!ENTITY increaseIndent.label "增加缩进">
 <!ENTITY increaseIndent.accesskey "I">
 <!ENTITY increaseIndent.key "]">
 <!ENTITY decreaseIndent.label "减少缩进">
 <!ENTITY decreaseIndent.accesskey "D">
 <!ENTITY decreaseIndent.key "[">
+
 <!ENTITY grid.label "定位表格">
 <!ENTITY grid.accesskey "t">
+
 <!ENTITY pageProperties.label "页面标题和特性…">
 <!ENTITY pageProperties.accesskey "g">
 <!ENTITY colorsAndBackground.label "页面颜色和背景…">
 <!ENTITY colorsAndBackground.accesskey "u">
+
+<!-- Table Menu -->
 <!ENTITY tableMenu.label "表格">
 <!ENTITY tableMenu.accesskey "b">
+
+<!-- Select Submenu -->
 <!ENTITY tableSelectMenu.label "选择">
 <!ENTITY tableSelectMenu.accesskey "S">
+
 <!ENTITY tableSelectMenu2.label "表格选择">
 <!ENTITY tableSelectMenu2.accesskey "S">
 <!ENTITY tableInsertMenu2.label "表格插入">
 <!ENTITY tableInsertMenu2.accesskey "I">
 <!ENTITY tableDeleteMenu2.label "表格删除">
 <!ENTITY tableDeleteMenu2.accesskey "D">
+
+<!-- Insert SubMenu -->
 <!ENTITY tableInsertMenu.label "插入">
 <!ENTITY tableInsertMenu.accesskey "I">
 <!ENTITY tableTable.label "表格">
@@ -344,8 +384,15 @@
 <!ENTITY tableCellBefore.accesskey "C">
 <!ENTITY tableCellAfter.label "后一单元格">
 <!ENTITY tableCellAfter.accesskey "f">
+<!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "删除">
 <!ENTITY tableDeleteMenu.accesskey "D">
+
+<!-- text for "Join Cells" is in editor.properties 
+     ("JoinSelectedCells" and "JoinCellToRight")
+     the access key must exist in both of those strings
+     But value must be set here for accesskey to draw properly
+-->
 <!ENTITY tableJoinCells.label "j">
 <!ENTITY tableJoinCells.accesskey "j">
 <!ENTITY tableSplitCell.label "分割单元格">
@@ -354,6 +401,8 @@
 <!ENTITY convertToTable.accesskey "r">
 <!ENTITY tableProperties.label "表格属性…">
 <!ENTITY tableProperties.accesskey "o">
+
+<!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "菜单栏">
 <!ENTITY compositionToolbar.tooltip "编写工具栏">
 <!ENTITY formatToolbar.tooltip "格式化工具栏">
@@ -385,6 +434,8 @@
 <!ENTITY BackgroundColorButton.tooltip "选择背景颜色">
 <!ENTITY throbber.tooltip "转到 &vendorShortName; 主页">
 <!ENTITY HighlightColorButton.tooltip "选择文本的加亮颜色">
+
+<!-- Editor toolbar -->
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "缩小字体">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "放大字体">
 <!ENTITY boldToolbarCmd.tooltip "粗体">
@@ -400,32 +451,47 @@
 <!ENTITY alignCenterButton.tooltip "文本居中对齐">
 <!ENTITY alignRightButton.tooltip "向右对齐文本">
 <!ENTITY alignjustifyButton.tooltip "左右对齐文本">
+
+<!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "常规">
 <!ENTITY NormalMode.label "常规编辑模式">
 <!ENTITY NormalMode.accesskey "n">
 <!ENTITY NormalMode.tooltip "显示表格边界和锚标">
 <!ENTITY AllTagsMode.label "HTML 标记符">
-<!ENTITY AllTagsMode.accesskey "A">
+<!ENTITY AllTagsMode.accesskey "H">
 <!ENTITY AllTagsMode.tooltip "显示所有 HTML 标记符的图标">
+
 <!ENTITY HTMLSourceMode.label "HTML 源代码">
+<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
 <!ENTITY SourceMode.label "源代码">
-<!ENTITY HTMLSourceMode.accesskey "h">
+<!ENTITY HTMLSourceMode.accesskey "H">
 <!ENTITY HTMLSourceMode.tooltip "编辑 HTML 源代码">
 <!ENTITY PreviewMode.label "预览">
 <!ENTITY PreviewMode.accesskey "p">
 <!ENTITY PreviewMode.tooltip "显示为 WYSIWYG（同浏览器中显示）">
+
+<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
+     Use latin "ltr" if you want the <html> image to left of the 
+     'SourceMode.label' text defined above,
+     or use latin "rtl" if you want this image to the right of text
+     This is the value of the HTML 'dir' attribute
+-->
 <!ENTITY SourceTabDirection "ltr">
-<!ENTITY structSelect.label "选择">
-<!ENTITY structSelect.accesskey "s">
-<!ENTITY structRemoveTag.label "移除标记符">
-<!ENTITY structRemoveTag.accesskey "r">
-<!ENTITY structChangeTag.label "修改标记符">
-<!ENTITY structChangeTag.accesskey "c">
-<!ENTITY insertTOC.label "插入">
-<!ENTITY insertTOC.accesskey "i">
-<!ENTITY updateTOC.label "更新">
-<!ENTITY updateTOC.accesskey "u">
-<!ENTITY removeTOC.label "移除">
-<!ENTITY removeTOC.accesskey "r">
-<!ENTITY tocMenu.label "目录…">
-<!ENTITY tocMenu.accesskey "b">
+
+<!-- Structure Toolbar Context Menu items -->
+<!ENTITY structSelect.label         "选择">
+<!ENTITY structSelect.accesskey     "s">
+<!ENTITY structRemoveTag.label      "移除标记符">
+<!ENTITY structRemoveTag.accesskey  "r">
+<!ENTITY structChangeTag.label      "修改标记符">
+<!ENTITY structChangeTag.accesskey  "c">
+
+<!-- TOC manipulation -->
+<!ENTITY insertTOC.label          "插入">
+<!ENTITY insertTOC.accesskey      "i">
+<!ENTITY updateTOC.label          "更新">
+<!ENTITY updateTOC.accesskey      "u">
+<!ENTITY removeTOC.label          "移除">
+<!ENTITY removeTOC.accesskey      "r">
+<!ENTITY tocMenu.label            "目录…">
+<!ENTITY tocMenu.accesskey        "b">

@@ -1,5 +1,6 @@
 <!ENTITY searchIntegration.engineName "Windows 搜索">
 <!ENTITY searchIntegration.title "&searchIntegration.engineName; 集成">
 <!ENTITY searchIntegration.description "您想要启用 &searchIntegration.engineName; 来索引和搜索 &brandShortName; 的邮件和新闻消息吗？">
+
 <!ENTITY searchIntegration.accept "启用 &searchIntegration.engineName;">
 <!ENTITY searchIntegration.cancel "禁用 &searchIntegration.engineName;">

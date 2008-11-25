@@ -1,6 +1,6 @@
 <!ENTITY identitiesListDesc.label "多标识支持">
-<!ENTITY identitiesListAdd.label "添加…">
-<!ENTITY identitiesListAdd.accesskey "A">
+<!ENTITY identitiesListAdd.label  "添加…">
+<!ENTITY identitiesListAdd.accesskey  "A">
 <!ENTITY identitiesListEdit.label "编辑…">
 <!ENTITY identitiesListEdit.accesskey "E">
 <!ENTITY identitiesListDelete.label "删除">

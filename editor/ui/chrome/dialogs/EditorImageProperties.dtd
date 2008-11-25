@@ -20,7 +20,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -35,8 +34,15 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
+<!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+
+<!-- Window title -->
 <!ENTITY windowTitle.label "图像属性">
+
 <!ENTITY pixelsPopup.value "像素">
+
+<!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "图像 URL：">
 <!ENTITY locationEditField.accessKey "L">
 <!ENTITY locationEditField.tooltip "输入图像的文件名或地址">
@@ -48,7 +54,11 @@
 <!ENTITY altTextEditField.tooltip "输入替代图像显示的文本">
 <!ENTITY noAltText.label "不使用替代文本">
 <!ENTITY noAltText.accessKey "D">
+
 <!ENTITY previewBox.label "预览图像">
+
+<!-- These controls are in the Dimensions tab panel -->
+<!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 <!ENTITY actualSize.label "实际大小：">
 <!ENTITY actualSizeRadio.label "实际大小">
 <!ENTITY actualSizeRadio.accessKey "A">
@@ -63,17 +73,23 @@
 <!ENTITY constrainCheckbox.label "限制">
 <!ENTITY constrainCheckbox.accessKey "C">
 <!ENTITY constrainCheckbox.tooltip "保持图像比例">
+
+<!-- These controls are in the Image Map box of the expanded area -->
 <!ENTITY imagemapBox.label "图像映射">
 <!ENTITY removeImageMapButton.label "移除">
 <!ENTITY removeImageMapButton.accessKey "R">
 <!ENTITY editImageMapButton.label "编辑…">
 <!ENTITY editImageMapButton.tooltip "为此图像创建可点击的热点">
+
+<!-- These are the options for image alignment -->
 <!ENTITY alignment.label "将文本与图像对齐">
 <!ENTITY bottomPopup.value "在底部">
 <!ENTITY topPopup.value "在顶部">
 <!ENTITY centerPopup.value "居中">
 <!ENTITY wrapRightPopup.value "折行右对齐">
 <!ENTITY wrapLeftPopup.value "折行左对齐">
+
+<!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "单元间隔">
 <!ENTITY leftRightEditField.label "左右空间：">
 <!ENTITY leftRightEditField.accessKey "L">
@@ -81,8 +97,12 @@
 <!ENTITY topBottomEditField.accessKey "T">
 <!ENTITY borderEditField.label "实心边框：">
 <!ENTITY borderEditField.accessKey "B">
+
+<!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "显示已链接图片的边框">
 <!ENTITY showImageLinkBorder.accessKey "B">
+
+<!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "表单">
 <!ENTITY imageLocationTab.label "地址">
 <!ENTITY imageDimensionsTab.label "尺寸">

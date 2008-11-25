@@ -19,7 +19,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s): Neil Rashbrook <neil@parkwaycc.co.uk>
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,8 +33,11 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY windowTitle.label "文本区域属性">
+
 <!ENTITY Settings.label "设置">
+
 <!ENTITY TextAreaName.label "字段名称:">
 <!ENTITY TextAreaName.accessKey "N">
 <!ENTITY TextAreaRows.label "行:">
@@ -52,6 +54,7 @@
 <!ENTITY TextAreaAccessKey.accessKey "K">
 <!ENTITY InitialText.label "初始文本:">
 <!ENTITY InitialText.accessKey "T">
+
 <!ENTITY TextAreaWrap.label "折行模式:">
 <!ENTITY TextAreaWrap.accessKey "W">
 <!ENTITY WrapDefault.value "默认">

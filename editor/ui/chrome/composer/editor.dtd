@@ -20,7 +20,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -35,8 +34,15 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY editorWindow.titlemodifier "编写器">
+
+<!-- Window title -->
+<!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY editorWindow.titlemodifier "编写器"> 
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
+
+<!-- Menu items:  the . means that the menu item isn't implemented yet -->
+
+<!-- View menu items -->
 <!ENTITY viewMenu.label "查看">
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY compositionToolbarCmd.label "编写工具栏">
@@ -45,5 +51,7 @@
 <!ENTITY formattingToolbarCmd.accesskey "F">
 <!ENTITY editmodeToolbarCmd.label "编辑模式工具栏">
 <!ENTITY editmodeToolbarCmd.accesskey "E">
+
+<!-- Format menu items -->
 <!ENTITY formatMenu.label "格式">
 <!ENTITY formatMenu.accesskey "o">

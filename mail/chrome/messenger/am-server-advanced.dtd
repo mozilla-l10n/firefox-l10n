@@ -1,6 +1,7 @@
 <!ENTITY serverAdvanced.label "高级帐户设置">
+<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP 服务器目录：">
-<!ENTITY serverDirectory.accesskey "d">
+<!ENTITY serverDirectory.accesskey "I">
 <!ENTITY usingSubscription.label "仅显示已订阅的文件夹">
 <!ENTITY usingSubscription.accesskey "w">
 <!ENTITY dualUseFolders.label "服务器支持包含子文件夹和消息的文件夹">
@@ -9,6 +10,7 @@
 <!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "最大服务器连接缓冲数">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "此首选项指定您的 IMAP 服务器的名字空间">
 <!ENTITY personalNamespace.label "个人名字空间：">
 <!ENTITY personalNamespace.accesskey "P">
@@ -18,7 +20,7 @@
 <!ENTITY otherUsersNamespace.accesskey "O">
 <!ENTITY overrideNamespaces.label "允许服务器忽略这些名字空间">
 <!ENTITY overrideNamespaces.accesskey "A">
-<!ENTITY pop3Desc.label "从此服务器下载 pop 邮件时，使用下列文件夹保存新邮件：">
+<!ENTITY pop3Desc.label "从此服务器下载 pop 邮件时，使用下列文件夹保存新邮件：" >
 <!ENTITY globalInbox.label "全局收件箱（本地文件夹帐户）">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "此服务器帐户的收件箱">

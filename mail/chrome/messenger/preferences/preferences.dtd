@@ -1,11 +1,13 @@
-<!ENTITY prefWindow.titleWin "选项">
-<!ENTITY prefWindow.titleGNOME "&brandShortName; 首选项">
-<!ENTITY prefWindow.styleWindows "width: 44em; min-height: 38.5em;">
-<!ENTITY prefWindow.styleMac "width: 47em;">
-<!ENTITY prefWindow.styleGNOME "width: 42em; min-height: 38em;">
-<!ENTITY paneGeneral.title "常规">
-<!ENTITY paneDisplay.title "显示">
-<!ENTITY paneComposition.title "编写">
-<!ENTITY paneAttachments.title "附件">
-<!ENTITY panePrivacy.title "隐私">
-<!ENTITY paneAdvanced.title "高级">
+
+<!ENTITY  prefWindow.titleWin     "选项">
+<!ENTITY  prefWindow.titleGNOME   "&brandShortName; 首选项">
+<!ENTITY  prefWindow.styleWindows "width: 44em; min-height: 38.5em;">
+<!ENTITY  prefWindow.styleMac     "width: 47em;">
+<!ENTITY  prefWindow.styleGNOME   "width: 42em; min-height: 38em;">
+
+<!ENTITY paneGeneral.title        "常规">
+<!ENTITY paneDisplay.title        "显示">
+<!ENTITY paneComposition.title    "编写">
+<!ENTITY paneAttachments.title    "附件">
+<!ENTITY panePrivacy.title        "隐私">
+<!ENTITY paneAdvanced.title       "高级">

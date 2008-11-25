@@ -1,4 +1,5 @@
 <!ENTITY offlineDialog.title "脱机设置">
+
 <!ENTITY textStartUp "启动时：">
 <!ENTITY radioRememberPrevState.label "记住上次的联机状态">
 <!ENTITY radioRememberPrevState.accesskey "R">
@@ -6,6 +7,7 @@
 <!ENTITY radioAskMe.accesskey "u">
 <!ENTITY radioAlwaysOnline.label "启动时自动联机">
 <!ENTITY radioAlwaysOnline.accesskey "l">
+
 <!ENTITY textGoingOnline "联机时发送未发送的消息吗？">
 <!ENTITY radioAutoSend.label "是">
 <!ENTITY radioAutoSend.accesskey "Y">

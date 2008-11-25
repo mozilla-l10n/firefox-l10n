@@ -1,3 +1,4 @@
-<!ENTITY newTagDialog.title "创建新标签">
-<!ENTITY name.label "标签名称:">
-<!ENTITY name.accesskey "T">
+<!-- New Tag Dialog -->
+<!ENTITY newTagDialog.title      "创建新标签">
+<!ENTITY name.label              "标签名称:">
+<!ENTITY name.accesskey          "T">

@@ -1,5 +1,10 @@
+<!-- Entities for AccountWizard -->
+
 <!ENTITY windowTitle.label "帐户向导">
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
+
+<!-- Entities for Account Type page -->
+
 <!ENTITY accountSetupInfo.label "要收取消息，您必须先设置一个邮件或新闻组帐号。">
 <!ENTITY accountTypeTitle.label "新建帐户设置">
 <!ENTITY accountTypeDesc.label "此向导将收集设置邮件或新闻组帐户的必需信息。如果不知道请求的信息，请与系统管理员或因特网服务提供商联系。">
@@ -8,47 +13,89 @@
 <!ENTITY accountTypeMail.accesskey "m">
 <!ENTITY accountTypeNews.label "新闻组帐户">
 <!ENTITY accountTypeNews.accesskey "w">
+
+<!-- Entities for Identity page -->
+
 <!ENTITY identityTitle.label "标识">
 <!ENTITY identityDesc.label "每个帐户可以有一个标识，当其他人接收到您的消息时此标识可以让他们知道这是您发的消息。">
+
+<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "请输入您希望在发送的消息中出现在 &quot;发件人&quot; 字段中的姓名。">
+<!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
+  1, do not translate two of "&quot;"
+  2, Use localized full name instead of "John Smith"
+-->
 <!ENTITY fullnameExample.label "（例如，&quot;张兵&quot;）">
 <!ENTITY fullnameLabel.label "您的姓名:">
 <!ENTITY fullnameLabel.accesskey "Y">
+
 <!ENTITY emailLabel.label "电子邮件地址:">
 <!ENTITY emailLabel.accesskey "E">
+
+<!-- Entities for Server page -->
+
 <!ENTITY serverTitle.label "服务器信息">
 <!ENTITY incomingServerTypeDesc.label "选择您使用的接收服务器类型。">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServerNameDesc.label "输入接收服务器名。（例如，&quot;pop.netscape.net&quot;）">
 <!ENTITY incomingServerLabel.label "接收服务器:">
 <!ENTITY incomingServerLabel.accesskey "S">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "输入新闻 (NNTP) 服务器名。（例如，&quot;news.netscape.net&quot;。）">
+<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY smtpServerDesc.label "输入发送服务器 (SMTP) 名。（例如，&quot;smtp.netscape.net&quot;）">
 <!ENTITY smtpServerLabel.label "外发服务器:">
 <!ENTITY smtpServerLabel.accesskey "O">
 <!ENTITY newsServerLabel.label "新闻组服务器:">
 <!ENTITY newsServerLabel.accesskey "w">
+<!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP 邮件服务器">
 <!ENTITY imapType.accesskey "I">
+<!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP 邮件服务器">
 <!ENTITY popType.accesskey "P">
+
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+-->
 <!ENTITY haveSmtp1.prefix "将使用您当前的外发服务器(SMTP)， &quot;">
 <!ENTITY haveSmtp1.suffix "&quot;。您也可以通过选择‘工具’菜单下的‘邮件和新闻组帐号设置’对外发服务器设置进行修改。">
+
+<!-- Entities for Login page -->
+
 <!ENTITY loginTitle.label "用户名 ">
 <!ENTITY usernameDesc.label "请输入您的电子邮件服务提供者提供给您的接收用户名。">
+<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY usernameExample.label "（例如，&quot;jsmith&quot;）">
 <!ENTITY usernameLabel.label "接收用户名:">
 <!ENTITY usernameLabel.accesskey "I">
 <!ENTITY usernameSmtpDesc.label "请输入您的电子邮件服务提供者提供给您的外发用户名 （通常即为您的接收用户名）。">
 <!ENTITY usernameSmtpLabel.label "外发用户名：">
 <!ENTITY usernameSmtpLabel.accesskey "O">
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+-->
 <!ENTITY haveSmtp2.prefix "将使用您当前的外发(SMTP)用户名，&quot;">
 <!ENTITY haveSmtp2.suffix "&quot;。您也可以通过选择‘工具’菜单下的‘邮件和新闻组帐号设置’对外发服务器设置进行修改。">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+-->
 <!ENTITY haveSmtp3.prefix "您的外发(SMTP)服务器 , &quot;">
 <!ENTITY haveSmtp3.suffix "&quot; 和您的接收服务器相同，您的接收用户名将被用来访问它。您也可以通过选择‘工具’菜单下的‘邮件和新闻组帐号设置’对外发服务器设置进行修改。">
+
+<!-- Entities for Account name page -->
+
 <!ENTITY accnameTitle.label "帐户名称">
+<!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "输入您想要此帐户使用的名称。（例如，&quot;工作帐户&quot;、&quot;家庭帐户&quot; 或 &quot;新闻帐户&quot;）">
 <!ENTITY accnameLabel.label "帐户名称:">
 <!ENTITY accnameLabel.accesskey "A">
+
+<!-- Entities for Done (Congratulations) page -->
+
 <!ENTITY completionTitle.label "恭喜您！">
 <!ENTITY completionText.label "您已输入设置此帐户所有必需的信息。">
 <!ENTITY serverTypePrefix.label "接收消息服务器类型：">

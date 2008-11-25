@@ -19,7 +19,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,35 +33,36 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY GeneratedName.label "姓名">
-<!ENTITY GeneratedName.accesskey "N">
-<!ENTITY PrimaryEmail.label "电子邮件">
-<!ENTITY PrimaryEmail.accesskey "E">
-<!ENTITY Company.label "公司">
-<!ENTITY Company.accesskey "z">
-<!ENTITY _PhoneticName.label "姓名发音">
-<!ENTITY _PhoneticName.accesskey "o">
-<!ENTITY NickName.label "昵称">
-<!ENTITY NickName.accesskey "i">
-<!ENTITY SecondEmail.label "其他邮件">
-<!ENTITY SecondEmail.accesskey "l">
-<!ENTITY Department.label "部门">
-<!ENTITY Department.accesskey "r">
-<!ENTITY JobTitle.label "标题">
-<!ENTITY JobTitle.accesskey "T">
-<!ENTITY CellularNumber.label "移动电话">
-<!ENTITY CellularNumber.accesskey "M">
-<!ENTITY PagerNumber.label "传呼机号码">
-<!ENTITY PagerNumber.accesskey "P">
-<!ENTITY FaxNumber.label "传真">
-<!ENTITY FaxNumber.accesskey "F">
-<!ENTITY HomePhone.label "家庭电话">
-<!ENTITY HomePhone.accesskey "H">
-<!ENTITY WorkPhone.label "工作电话">
-<!ENTITY WorkPhone.accesskey "W">
-<!ENTITY ScreenName.label "屏幕名">
-<!ENTITY ScreenName.accesskey "S">
-<!ENTITY sortAscending.label "升序">
-<!ENTITY sortAscending.accesskey "A">
-<!ENTITY sortDescending.label "降序">
-<!ENTITY sortDescending.accesskey "D">
+
+<!ENTITY GeneratedName.label                   "姓名">
+<!ENTITY GeneratedName.accesskey               "N">
+<!ENTITY PrimaryEmail.label                    "电子邮件">
+<!ENTITY PrimaryEmail.accesskey                "E">
+<!ENTITY Company.label                         "公司">
+<!ENTITY Company.accesskey                     "z">
+<!ENTITY _PhoneticName.label                   "姓名发音">
+<!ENTITY _PhoneticName.accesskey               "o">
+<!ENTITY NickName.label                        "昵称">
+<!ENTITY NickName.accesskey                    "i">
+<!ENTITY SecondEmail.label                     "其他邮件">
+<!ENTITY SecondEmail.accesskey                 "l">
+<!ENTITY Department.label                      "部门">
+<!ENTITY Department.accesskey                  "r">
+<!ENTITY JobTitle.label                        "标题">
+<!ENTITY JobTitle.accesskey                    "T">
+<!ENTITY CellularNumber.label                  "移动电话">
+<!ENTITY CellularNumber.accesskey              "M">
+<!ENTITY PagerNumber.label                     "传呼机号码">
+<!ENTITY PagerNumber.accesskey                 "P">
+<!ENTITY FaxNumber.label                       "传真">
+<!ENTITY FaxNumber.accesskey                   "F">
+<!ENTITY HomePhone.label                       "家庭电话">
+<!ENTITY HomePhone.accesskey                   "H">
+<!ENTITY WorkPhone.label                       "工作电话">
+<!ENTITY WorkPhone.accesskey                   "W">
+<!ENTITY ScreenName.label                      "屏幕名">
+<!ENTITY ScreenName.accesskey                  "S">
+<!ENTITY sortAscending.label                   "升序">
+<!ENTITY sortAscending.accesskey               "A">
+<!ENTITY sortDescending.label                  "降序">
+<!ENTITY sortDescending.accesskey              "D">

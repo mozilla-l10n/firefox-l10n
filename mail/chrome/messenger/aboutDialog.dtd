@@ -1,7 +1,7 @@
-<!ENTITY aboutDialog.title "关于 &brandFullName;">
-<!ENTITY credits.label "作者">
-<!ENTITY credits.accesskey "C">
-<!ENTITY aboutLink.label "&lt; 关于 &brandFullName;">
-<!ENTITY aboutLink.accesskey "A">
-<!ENTITY aboutVersion "版本">
-<!ENTITY copyrightText "©1998-2007 贡献者。保留所有权利。 Mozilla Thunderbird 以及                                   Thunderbird 标志是  Mozilla Foundation 的商标。  保留所有权利。 ">
+<!ENTITY aboutDialog.title      "关于 &brandFullName;">
+<!ENTITY credits.label          "作者">
+<!ENTITY credits.accesskey      "C">
+<!ENTITY aboutLink.label        "&lt; 关于 &brandFullName;">
+<!ENTITY aboutLink.accesskey    "l">
+<!ENTITY aboutVersion           "版本">
+<!ENTITY copyrightText          "©1998-2007 贡献者。保留所有权利。 Mozilla Thunderbird 以及                                   Thunderbird 标志是  Mozilla Foundation 的商标。  保留所有权利。 ">

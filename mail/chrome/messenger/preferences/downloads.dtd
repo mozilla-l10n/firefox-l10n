@@ -1,13 +1,15 @@
-<!ENTITY askOnSave.label "下载文件夹">
-<!ENTITY alwaysAsk.label "保存每个文件前询问存储位置">
-<!ENTITY alwaysAsk.accesskey "A">
-<!ENTITY neverAsk.label "将所有附件保存至此文件夹：">
-<!ENTITY neverAsk.accesskey "S">
-<!ENTITY chooseFolderWin.label "浏览…">
-<!ENTITY chooseFolderWin.accesskey "B">
-<!ENTITY chooseFolderMac.label "选择…">
-<!ENTITY chooseFolderMac.accesskey "C">
-<!ENTITY fileTypes.label "下载动作">
-<!ENTITY configureActions.label "查看和编辑动作…">
-<!ENTITY configureActions.accesskey "V">
-<!ENTITY fileTypesDescription.label "&brandShortName; 可自动保存或者打开指定类型的附件。">
+<!ENTITY askOnSave.label              "下载文件夹">
+<!ENTITY alwaysAsk.label              "保存每个文件前询问存储位置">
+<!ENTITY alwaysAsk.accesskey          "A">
+<!ENTITY neverAsk.label               "将所有附件保存至此文件夹：">
+<!ENTITY neverAsk.accesskey           "S">
+<!ENTITY chooseFolderWin.label        "浏览…">
+<!ENTITY chooseFolderWin.accesskey    "B">
+<!ENTITY chooseFolderMac.label        "选择…">
+<!ENTITY chooseFolderMac.accesskey    "C">
+
+
+<!ENTITY fileTypes.label              "下载动作">
+<!ENTITY configureActions.label       "查看和编辑动作…">
+<!ENTITY configureActions.accesskey   "V">
+<!ENTITY fileTypesDescription.label   "&brandShortName; 可自动保存或者打开指定类型的附件。">
