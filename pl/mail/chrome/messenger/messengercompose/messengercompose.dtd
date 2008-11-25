@@ -113,7 +113,7 @@
 <!ENTITY checkSpellingCmd.key               "K">
 <!ENTITY checkSpellingCmd.key2              "VK_F7">
 <!ENTITY checkSpellingCmd.accesskey         "r">
-<!ENTITY enableInlineSpellChecker.label     "Sprawdzaj pisownię w trakcie tworzenia wiadomości">
+<!ENTITY enableInlineSpellChecker.label     "Sprawdzaj pisownię w trakcie tworzenia">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY quoteCmd.label                     "Cytuj wiadomość">
 <!ENTITY quoteCmd.accesskey                 "C">
@@ -121,9 +121,9 @@
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCard.label            "Dołącz wizytówkę (vCard)">
 <!ENTITY attachVCard.accesskey        "v">
-<!ENTITY returnReceiptMenu.label      "Żądaj potwierdzenia doręczenia wiadomości">
+<!ENTITY returnReceiptMenu.label      "Żądaj potwierdzenia doręczenia">
 <!ENTITY returnReceiptMenu.accesskey  "p">
-<!ENTITY dsnMenu.label                "Informuj o statusie dostarczania wiadomości">
+<!ENTITY dsnMenu.label                "Informuj o statusie dostarczania">
 <!ENTITY dsnMenu.accesskey            "n">
 <!ENTITY outputFormatMenu.label       "Wyślij wiadomość jako">
 <!ENTITY outputFormatMenu.accesskey   "j">

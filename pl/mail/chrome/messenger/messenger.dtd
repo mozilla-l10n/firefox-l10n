@@ -413,7 +413,7 @@
 <!ENTITY addressBookCmd.label              "Książka adresowa">
 <!ENTITY addressBookCmd.accesskey          "a">
 <!ENTITY addressBookCmd.commandkey         "2">
-<!ENTITY runJunkControls.label             "Rozpoznaj w folderze niechciane wiadomości">
+<!ENTITY runJunkControls.label             "Rozpoznaj niechciane w bieżącym folderze">
 <!ENTITY runJunkControls.accesskey         "p">
 <!ENTITY deleteJunk.label                  "Usuń niechciane wiadomości z folderu">
 <!ENTITY deleteJunk.accesskey              "e">
