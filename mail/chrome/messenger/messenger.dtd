@@ -648,12 +648,15 @@
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "ייתכן והודעה זו היא הונאה.">
 <!ENTITY removePhishingBarButton1.label "התעלם מהאזהרה">
-<!ENTITY reportPhishingError1.label "This message doesn't appear to be a scam.">
+<!ENTITY reportPhishingError1.label "הודעה זו איננה הונאה.">
 <!-- ### ENTITY remoteContentMessage.label "כדי לשמור על הפרטיות שלך, &brandShortName; חסם תמונות מרוחקות בהודעה זו." -->
 <!-- ### ENTITY loadRemoteContentButton1.label "טען תמונות" -->
 <!ENTITY loadRemoteContentButton2.label "טען תמונות כעת">
 <!-- ### ENTITY phishingBarMessage.label "&brandShortName; חושב שהודעה זו יכולה להיות תרמית דוא״ל." -->
 <!-- ### ENTITY removePhishingBarButton.label "לא תרמית" -->
+
+<!-- Message Header Button Box (to show hidden email addresses) -->
+<!ENTITY more.label "עוד">
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
