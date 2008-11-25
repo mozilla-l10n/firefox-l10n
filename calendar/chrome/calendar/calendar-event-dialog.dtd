@@ -39,7 +39,6 @@
 
 <!ENTITY newevent.from.label                "වෙතින්" >
 <!ENTITY newevent.to.label                  "වෙත" >
-<!ENTITY newevent.attendees.sendEmail.label "සහභාගි වන්නන්ගේ ඇරයුම් විද්‍යුත් තැපෑලෙන් යවන්න">
 
 <!ENTITY newevent.status.label              "තත්ත්වය" >
 <!ENTITY newevent.status.accesskey          "S" >
