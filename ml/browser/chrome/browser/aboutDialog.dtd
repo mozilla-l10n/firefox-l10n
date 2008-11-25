@@ -2,8 +2,8 @@
 <!ENTITY copyright "ക്രെഡിറ്റ്‌">
 <!ENTITY aboutLink "&lt; &brandFullName; നെ കുറിച്ച്‌">
 <!ENTITY aboutVersion "പതിപ്പ്‌">
-<!ENTITY copyrightText "©1998-2007 Contributors. All Rights Reserved. Firefox and the 
+<!-- ENTITY copyrightText "©1998-2007 Contributors. All Rights Reserved. Firefox and the 
                                  Firefox logos are trademarks of the Mozilla Foundation.  All rights 
                                  reserved. Some trademark rights used under license from The 
-                                 Charlton Company.">
+                                 Charlton Company." -->
 <!-- ENTITY cmdClose.macKey "W" -->
