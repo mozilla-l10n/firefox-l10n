@@ -6,6 +6,8 @@
 <!-- General Settings -->
 
 
+<!ENTITY enableGloda.label "Enable Message Indexer">
+<!ENTITY enableGloda.accesskey "i">
 <!ENTITY showCondensedAddresses.label "Ná taispeáin ach an t-ainm taispeána do dhaoine i mo leabhar seoltaí">
 <!ENTITY showCondensedAddresses.accesskey "p">
 
