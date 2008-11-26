@@ -1,6 +1,4 @@
 <!-- ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" -->
-# %brandDTD;
-
 <!-- ENTITY newPagesIn.label "പുതിയ ജാലകങ്ങള്‍ തുറക്കേണ്ടത്‌ " -->
 <!-- ENTITY inNewWindow.label "ഒരു പുതിയ ജാലകം " -->
 <!-- ENTITY inNewWindow.accesskey "w" -->
