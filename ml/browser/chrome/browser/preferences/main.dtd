@@ -26,9 +26,9 @@
 <!ENTITY chooseFolderMac.accesskey "e">
 <!ENTITY alwaysAsk.label "ഫയലുകള്‍ എവിടെ സൂക്ഷിക്കണം എന്നു എപ്പോഴും ചോദിക്കുക">
 <!ENTITY alwaysAsk.accesskey "A">
-<!ENTITY systemDefaults.label "സിസ്റ്റം ഡിഫോള്‍ട്ടുകള്‍ ">
-<!ENTITY alwaysCheckDefault.label "&brandShortName; ഡിഫോള്‍ട്ട്‌ ബ്രൌസര്‍ ആണോ എന്നത്‌ സ്റ്റാര്‍ട്ട്‌ ചെയ്യുമ്പോള്‍ എല്ലാ തവണയും പരിശോധിക്കുക">
-<!ENTITY alwaysCheckDefault.accesskey "y">
-<!ENTITY alwaysCheckDefault.height "3em">
-<!ENTITY checkNow.label "ഇപ്പോള്‍ ചെക്ക്‌ ചെയ്യുക ">
-<!ENTITY checkNow.accesskey "N">
+<!-- ENTITY systemDefaults.label "സിസ്റ്റം ഡിഫോള്‍ട്ടുകള്‍ " -->
+<!-- ENTITY alwaysCheckDefault.label "&brandShortName; ഡിഫോള്‍ട്ട്‌ ബ്രൌസര്‍ ആണോ എന്നത്‌ സ്റ്റാര്‍ട്ട്‌ ചെയ്യുമ്പോള്‍ എല്ലാ തവണയും പരിശോധിക്കുക" -->
+<!-- ENTITY alwaysCheckDefault.accesskey "y" -->
+<!-- ENTITY alwaysCheckDefault.height "3em" -->
+<!-- ENTITY checkNow.label "ഇപ്പോള്‍ ചെക്ക്‌ ചെയ്യുക " -->
+<!-- ENTITY checkNow.accesskey "N" -->

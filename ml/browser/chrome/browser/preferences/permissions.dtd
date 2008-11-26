@@ -2,7 +2,7 @@
 <!ENTITY window.width "36em">
 <!ENTITY treehead.sitename.label "സൈറ്റ്‌">
 <!ENTITY treehead.status.label "സ്ഥിതി ">
-<!ENTITY addpermission.label "പുതിയ സൈറ്റ്‌ ">
+<!-- ENTITY addpermission.label "പുതിയ സൈറ്റ്‌ " -->
 <!ENTITY removepermission.label "സൈറ്റ് നീക്കം ചെയ്യുക">
 <!ENTITY removepermission.accesskey "R">
 <!ENTITY removeallpermissions.label "എല്ലാ സൈറ്റുകളും നീക്കം ചെയ്യുക">

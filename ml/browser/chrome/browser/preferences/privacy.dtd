@@ -1,7 +1,7 @@
 <!ENTITY history.label "ചരിത്രം">
-<!ENTITY rememberBefore.label "സന്ദര്‍ശിച്ച പേജുകള്‍ അവസാനത്തേതിനായി ഓര്‍ത്തിരിക്കുക">
-<!ENTITY rememberBefore.accesskey "v">
-<!ENTITY rememberAfter.label "ദിവസങ്ങള്‍ ">
+<!-- ENTITY rememberBefore.label "സന്ദര്‍ശിച്ച പേജുകള്‍ അവസാനത്തേതിനായി ഓര്‍ത്തിരിക്കുക" -->
+<!-- ENTITY rememberBefore.accesskey "v" -->
+<!-- ENTITY rememberAfter.label "ദിവസങ്ങള്‍ " -->
 <!ENTITY rememberForms.label "തെരച്ചില്‍ പട്ടയിലും ഫോറങ്ങളിലും ഞാന്‍ എന്ത്‌ എന്റര്‍ ചെയ്യുന്നുവെന്നത്‌ ഓര്‍ത്തിരിക്കുക">
 <!ENTITY rememberForms.accesskey "f">
 <!ENTITY rememberDownloads.label "ഞാന്‍ ഡൌണ്‍ലോഡ്‌ ചെയ്‌തത്‌ എന്തൊക്കെയെന്ന് ഓര്‍ത്തിരിക്കുക">

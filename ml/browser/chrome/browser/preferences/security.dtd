@@ -1,12 +1,12 @@
 <!ENTITY warnAddonInstall.label "സൈറ്റുകള്‍ ആഡ്‌-ഓണ്‍കള്‍ ഇന്‍സ്റ്റാള്‍ ചെയ്യുവാന്‍ ശ്രമിക്കുമ്പോള്‍ മുന്നറിയിപ്പ്‌ നല്‍കുക">
 <!ENTITY warnAddonInstall.accesskey "W">
-<!ENTITY tellMaybeForgery.label "Tell me if the site I'm visiting is a suspected forgery">
-<!ENTITY tellMaybeForgery.accesskey "T">
-<!ENTITY useDownloadedList.label "സംശയിക്കുന്ന സൈറ്റുകളുടെ ലിസ്റ്റ്‌ ഡൌണ്‍ലോഡ്‌ ചെയ്ത്‌, അത്‌ ഉപയോഗിച്ച്‌ ചെക്ക്‌ ചെയ്യുക">
-<!ENTITY useDownloadedList.accesskey "d">
-<!ENTITY askThirdParty.label "ചോദിച്ച്‌ ഉറപ്പ്‌ വരുത്തുക">
-<!ENTITY askThirdParty.accesskey "a">
-<!ENTITY askThirdPartyAfter.label "ഞാന്‍ സന്ദര്‍ശിക്കുന്ന എല്ലാ സൈറ്റുകളെയും കുറിച്ച്‌ ">
+<!-- ENTITY tellMaybeForgery.label "Tell me if the site I'm visiting is a suspected forgery" -->
+<!-- ENTITY tellMaybeForgery.accesskey "T" -->
+<!-- ENTITY useDownloadedList.label "സംശയിക്കുന്ന സൈറ്റുകളുടെ ലിസ്റ്റ്‌ ഡൌണ്‍ലോഡ്‌ ചെയ്ത്‌, അത്‌ ഉപയോഗിച്ച്‌ ചെക്ക്‌ ചെയ്യുക" -->
+<!-- ENTITY useDownloadedList.accesskey "d" -->
+<!-- ENTITY askThirdParty.label "ചോദിച്ച്‌ ഉറപ്പ്‌ വരുത്തുക" -->
+<!-- ENTITY askThirdParty.accesskey "a" -->
+<!-- ENTITY askThirdPartyAfter.label "ഞാന്‍ സന്ദര്‍ശിക്കുന്ന എല്ലാ സൈറ്റുകളെയും കുറിച്ച്‌ " -->
 <!ENTITY addonExceptions.label "വിട്ടുവീഴ്ചകള്‍">
 <!ENTITY addonExceptions.accesskey "E">
 <!ENTITY passwords.label "പാസ്‌വേഡുകള്‍">
@@ -18,8 +18,8 @@
 <!ENTITY useMasterPassword.accesskey "U">
 <!ENTITY changeMasterPassword.label "പ്രധാന പാസ്‌വേഡ്‌ മാറ്റുക">
 <!ENTITY changeMasterPassword.accesskey "M">
-<!ENTITY showPasswords.label "പാസ്‌വേഡുകള്‍ കാണിക്കുക ">
-<!ENTITY showPasswords.accesskey "P">
+<!-- ENTITY showPasswords.label "പാസ്‌വേഡുകള്‍ കാണിക്കുക " -->
+<!-- ENTITY showPasswords.accesskey "P" -->
 <!ENTITY warnings.label "മുന്നറിയിപ്പ്‌ സന്ദേശങ്ങള്‍">
 <!ENTITY chooseWarnings.label "വെബ്ബില്‍ ബ്രൌസ്‌ ചെയ്യുമ്പോള്‍ ഏതുതരത്തിലുള്ള മുന്നറിയിപ്പ്‌ സന്ദേശങ്ങളാണ്‌ കാണേണ്ടത്‌ എന്ന് തെരഞ്ഞെടുക്കുക">
 <!ENTITY warningSettings.label "ക്രമീകരണങ്ങള്‍ ">
