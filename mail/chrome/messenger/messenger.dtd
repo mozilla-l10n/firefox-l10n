@@ -623,6 +623,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY removePhishingBarButton1.label "Ignorer advarsel">
 <!ENTITY reportPhishingError1.label "Denne meldingen ser ikke ut til å være en svindel.">
 
+<!-- Message Header Button Box (to show hidden email addresses) -->
+<!ENTITY more.label "mer">
+
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
 
