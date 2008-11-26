@@ -47,7 +47,7 @@
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights.webservices-a "&brandFullName; ponúka služby webových stránok (ďalej len &quot;Služby&quot;), ako napríklad SafeBrowsing, ktoré je možné používať s touto binárnou verziou &brandShortName;u tak, ako je popísané nižšie. Ak nechcete tieto Služby používať alebo podmienky ich používania nie sú pre vás prijateľné, môžete službu SafeBrowsing vypnúť v nastaveniach programu na paneli ">
 <!ENTITY rights.webservices-b "Bezpečnosť">
-<!ENTITY rights.webservices-c " tak, že zrušíte označenie volieb &quot;&blockAttackSites.label;&quot; a &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.webservices-c " tak, že zrušíte označenie volieb &quot;&blockAttackSites.label;&quot; a &quot;&blockWebForgeries.label;&quot;.">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Tu by mal byť uvedený prehľad webových služieb zahrnutých v produkte, ako aj návod na ich vypnutie (ak je vypnutie možné).">

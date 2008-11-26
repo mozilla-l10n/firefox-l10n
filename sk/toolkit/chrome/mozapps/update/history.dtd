@@ -1,6 +1,6 @@
 
 <!ENTITY  history.title             "História aktualizácií">
-<!ENTITY  history.intro             "Boli nainštalované nasledujúce aktualizácie:">
+<!ENTITY  history.intro             "Nainštalované boli nasledujúce aktualizácie:">
 <!ENTITY  closebutton.label         "Zavrieť">
 
 <!ENTITY  noupdates.label           "Doteraz neboli nainštalované žiadne aktualizácie">

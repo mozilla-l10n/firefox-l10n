@@ -32,7 +32,7 @@
 <!ENTITY getNextNMsgCmd.label "Prijať ďalších 500 správ">
 <!ENTITY getNextNMsgCmd.accesskey "i">
 <!ENTITY sendUnsentCmd.label "Odoslať neodoslané správy">
-<!ENTITY sendUnsentCmd.accesskey "d">
+<!ENTITY sendUnsentCmd.accesskey "l">
 <!ENTITY subscribeCmd.label "Prihlásiť k odberu…">
 <!ENTITY subscribeCmd.accesskey "b">
 <!ENTITY deleteFolder.label "Odstrániť priečinok">
@@ -43,21 +43,21 @@
 <!ENTITY compactFolders.label "Vykonať údržbu priečinkov">
 <!ENTITY compactFolders.accesskey "V">
 <!ENTITY emptyTrashCmd.label "Vyprázdniť kôš">
-<!ENTITY emptyTrashCmd.accesskey "z">
+<!ENTITY emptyTrashCmd.accesskey "i">
 <!ENTITY importCmd.label "Import…">
-<!ENTITY importCmd.accesskey "I">
+<!ENTITY importCmd.accesskey "r">
 <!ENTITY offlineMenu.label "Režim offline">
-<!ENTITY offlineMenu.accesskey "l">
+<!ENTITY offlineMenu.accesskey "f">
 <!ENTITY offlineGoOfflineCmd.label "Pracovať v režime offline">
-<!ENTITY offlineGoOfflineCmd.accesskey "o">
+<!ENTITY offlineGoOfflineCmd.accesskey "P">
 <!ENTITY synchronizeOfflineCmd.label "Prijať/Synchronizovať…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
 <!ENTITY settingsOfflineCmd.label "Nastavenie režimu offline…">
-<!ENTITY settingsOfflineCmd.accesskey "e">
+<!ENTITY settingsOfflineCmd.accesskey "N">
 <!ENTITY downloadSelectedCmd.label "Prijať vybrané správy">
 <!ENTITY downloadSelectedCmd.accesskey "v">
 <!ENTITY downloadStarredCmd.label "Prijať správy s hviezdičkou">
-<!ENTITY downloadStarredCmd.accesskey "a">
+<!ENTITY downloadStarredCmd.accesskey "h">
 <!ENTITY printCmd.label "Tlačiť…">
 <!ENTITY printCmd.accesskey "T">
 <!ENTITY printCmd.key "p">
@@ -93,7 +93,7 @@
 <!ENTITY selectFlaggedCmd.label "Správy označené hviezdičkou">
 <!ENTITY selectFlaggedCmd.accesskey "h">
 <!ENTITY menuFavoriteFolder.label "Priečinok Obľúbené">
-<!ENTITY menuFavoriteFolder.accesskey "o">
+<!ENTITY menuFavoriteFolder.accesskey "b">
 <!ENTITY folderPropsCmd.label "Vlastnosti…">
 <!ENTITY folderPropsFolderCmd.label "Vlastnosti priečinka…">
 <!ENTITY folderPropsNewsgroupCmd.label "Vlastnosti diskusnej skupiny…">
@@ -121,24 +121,24 @@
 <!ENTITY messagePaneLayoutStyle.label "Rozmiestnenie">
 <!ENTITY messagePaneLayoutStyle.accesskey "R">
 <!ENTITY messagePaneClassic.label "Klasický pohľad">
-<!ENTITY messagePaneClassic.accesskey "c">
+<!ENTITY messagePaneClassic.accesskey "K">
 <!ENTITY messagePaneWide.label "Široký pohľad">
-<!ENTITY messagePaneWide.accesskey "r">
+<!ENTITY messagePaneWide.accesskey "o">
 <!ENTITY messagePaneVertical.label "Zvislý pohľad">
-<!ENTITY messagePaneVertical.accesskey "v">
+<!ENTITY messagePaneVertical.accesskey "Z">
 <!ENTITY showMessageCmd.label "Panel správy">
-<!ENTITY showMessageCmd.accesskey "a">
+<!ENTITY showMessageCmd.accesskey "P">
 
 <!ENTITY folderView.label "Priečinky">
-<!ENTITY folderView.accesskey "P">
+<!ENTITY folderView.accesskey "e">
 <!ENTITY allFolders.label "Všetky">
 <!ENTITY allFolders.accesskey "V">
 <!ENTITY unreadFolders.label "Neprečítané">
-<!ENTITY unreadFolders.accesskey "N">
+<!ENTITY unreadFolders.accesskey "e">
 <!ENTITY favoriteFolders.label "Obľúbené">
 <!ENTITY favoriteFolders.accesskey "O">
 <!ENTITY recentFolders.label "Najnovšie">
-<!ENTITY recentFolders.accesskey "a">
+<!ENTITY recentFolders.accesskey "N">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Usporiadať podľa">
@@ -150,7 +150,7 @@
 <!ENTITY sortByStarCmd.label "Hviezdička">
 <!ENTITY sortByStarCmd.accesskey "H">
 <!ENTITY sortByAttachmentsCmd.label "Príloha">
-<!ENTITY sortByAttachmentsCmd.accesskey "h">
+<!ENTITY sortByAttachmentsCmd.accesskey "l">
 <!ENTITY sortByPriorityCmd.label "Priorita">
 <!ENTITY sortByPriorityCmd.accesskey "r">
 <!ENTITY sortBySizeCmd.label "Veľkosť">
@@ -340,7 +340,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyMsgToMenu.label "Skopírovať do">
 <!ENTITY copyMsgToMenu.accesskey "k">
 <!ENTITY moveToFolderAgain.label "Znova presunúť">
-<!ENTITY moveToFolderAgain.accesskey "r">
+<!ENTITY moveToFolderAgain.accesskey "e">
 <!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Ignorovať vlákno">
 <!ENTITY killThreadMenu.accesskey "I">
@@ -369,26 +369,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Označiť">
 <!ENTITY markMenu.accesskey "z">
-<!ENTITY markAsReadCmd.label "Ako prečítanú">
-<!ENTITY markAsReadCmd.accesskey "r">
+<!ENTITY markAsReadCmd.label "Správu ako prečítanú">
+<!ENTITY markAsReadCmd.accesskey "S">
 <!ENTITY markAsReadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Vlákno ako prečítané">
-<!ENTITY markThreadAsReadCmd.accesskey "t">
+<!ENTITY markThreadAsReadCmd.accesskey "k">
 <!ENTITY markThreadAsReadCmd.key "r">
-<!ENTITY markReadByDateCmd.label "Ako prečítanú podľa dátumu…">
-<!ENTITY markReadByDateCmd.accesskey "d">
+<!ENTITY markReadByDateCmd.label "Správy ako prečítané podľa dátumu…">
+<!ENTITY markReadByDateCmd.accesskey "a">
 <!ENTITY markReadByDateCmd.key "c">
-<!ENTITY markAllReadCmd.label "Všetky ako prečítané">
-<!ENTITY markAllReadCmd.accesskey "a">
+<!ENTITY markAllReadCmd.label "Všetky správy ako prečítané">
+<!ENTITY markAllReadCmd.accesskey "V">
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "Pridať hviezdičku">
 <!ENTITY markStarredCmd.accesskey "h">
 <!ENTITY markStarredCmd.key "S">
-<!ENTITY markAsJunkCmd.label "Ako Spam">
-<!ENTITY markAsJunkCmd.accesskey "o">
+<!ENTITY markAsJunkCmd.label "Správu ako nevyžiadanú">
+<!ENTITY markAsJunkCmd.accesskey "r">
 <!ENTITY markAsJunkCmd.key "j">
-<!ENTITY markAsNotJunkCmd.label "Ako Nie Spam">
-<!ENTITY markAsNotJunkCmd.accesskey "N">
+<!ENTITY markAsNotJunkCmd.label "Správu ako nie nevyžiadanú">
+<!ENTITY markAsNotJunkCmd.accesskey "n">
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Spustiť rozpoznávanie nevyžiadanej pošty">
 <!ENTITY recalculateJunkScoreCmd.accesskey "u">
@@ -607,7 +607,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrint.label "Tlačiť…">
 <!ENTITY contextPrint.accesskey "T">
 <!ENTITY contextPrintPreview.label "Ukážka pred tlačou">
-<!ENTITY contextPrintPreview.accesskey "e">
+<!ENTITY contextPrintPreview.accesskey "U">
 
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "Nevyžiadané pošta">
@@ -622,6 +622,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY phishingBarMessage2.label "Toto môže byť podvodná správa.">
 <!ENTITY removePhishingBarButton1.label "Ignorovať upozornenie">
 <!ENTITY reportPhishingError1.label "Zdá sa, že toto nie je podvodná správa.">
+
+<!-- Message Header Button Box (to show hidden email addresses) -->
+<!ENTITY more.label "ďalšie">
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">

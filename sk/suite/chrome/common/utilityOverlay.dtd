@@ -87,7 +87,7 @@
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY customizeToolbar.toolbarmode.label       "Nastavenia pre tento panel nástrojov">
-<!ENTITY customizeToolbar.toolbarmode.accesskey   "N">
+<!ENTITY customizeToolbar.toolbarmode.accesskey   "e">
 <!ENTITY customizeToolbar.iconsAndText.label      "Ikony a text">
 <!ENTITY customizeToolbar.iconsAndText.accesskey  "k">
 <!ENTITY customizeToolbar.icons.label             "Ikony">
