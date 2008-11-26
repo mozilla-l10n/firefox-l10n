@@ -117,7 +117,7 @@
 </ul>
 ">
 
-<!ENTITY nssFailure2.title "Dështoi Lidhja e Sigurtë">
+<!ENTITY nssFailure2.title "Dështoi Lidhja e Sigurt">
 <!ENTITY nssFailure2.longDesc "
 <ul>
   <li>Faqja që po provoni të shihni nuk shihet dot, ngaqë mirëfilltësia e të dhënave të marra nuk u vërtetua dot.</li>
@@ -125,7 +125,7 @@
 </ul>
 ">
 
-<!ENTITY nssBadCert.title "Dështoi Lidhja e Sigurtë">
+<!ENTITY nssBadCert.title "Dështoi Lidhja e Sigurt">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
   <li>Mund të jetë problem i formësimit të shërbyesit, ose mundet që dikush të jetë duke imituar shërbyesin.</li>

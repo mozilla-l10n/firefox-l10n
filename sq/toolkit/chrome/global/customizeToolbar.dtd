@@ -4,7 +4,7 @@
 <!ENTITY iconsAndText.label "Ikona dhe Tekst">
 <!ENTITY instructions.description "Mund të shtoni ose hiqni objekte prej panelesh duke i vënë ose hequr prej andej.">
 <!ENTITY restoreDefaultSet.label "Rimerr Grupin Parazgjedhje">
-<!ENTITY saveChanges.label "Kryer">
+<!ENTITY saveChanges.label "U bë">
 <!ENTITY show.label "Shfaq:">
 <!ENTITY text.label "Tekst">
 <!ENTITY undoChanges.label "Zhbëj Ndryshime">

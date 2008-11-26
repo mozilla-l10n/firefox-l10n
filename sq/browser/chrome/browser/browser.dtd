@@ -298,7 +298,7 @@
 <!ENTITY closeWindow.accesskey "m">
 <!ENTITY fullZoom.accesskey             "Z">
 <!ENTITY fullZoom.label                 "Zoom">
-<!ENTITY editBookmark.done.label                      "Kryer">
+<!ENTITY editBookmark.done.label                      "U bë">
 <!ENTITY errorConsoleCmd.commandkey   "j">            
 <!ENTITY fullZoomEnlargeCmd.accesskey   "M">
 <!ENTITY fullZoomEnlargeCmd.label       "Zmadhoje">

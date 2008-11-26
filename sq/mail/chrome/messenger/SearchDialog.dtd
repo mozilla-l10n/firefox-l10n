@@ -58,7 +58,7 @@
 <!ENTITY subjectColumn.tooltip "Klikoni për t&apos;i renditur sipas subjektesh">
 <!ENTITY dateColumn.tooltip "Klikoni për t&apos;i renditur sipas datash">
 <!ENTITY priorityColumn.tooltip "Klikoni për t&apos;i renditur sipas përparësish">
-<!ENTITY tagsColumn.tooltip "Klikoni për t&apos;i renditur sipas shenjash">
+<!ENTITY tagsColumn.tooltip "Klikoni për t&apos;i renditur sipas etiketash">
 <!ENTITY accountColumn.tooltip "Klikoni për t&apos;i renditur sipas llogarish">
 <!ENTITY statusColumn.tooltip "Klikoni për t&apos;i renditur sipas gjendjesh">
 <!ENTITY sizeColumn.tooltip "Klikoni për t&apos;i renditur sipas madhësish">

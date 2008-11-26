@@ -175,7 +175,7 @@ të caktuara të Firefox-it në OS/2:
   sillen në mënyrë të çuditshme.
 
 - set MOZILLA_USE_EXTENDED_FT2LIB=T
-  Nëse keni të instaluar Innotek Font Engine kjo ndryshoree aktivizon 
+  Nëse keni të instaluar Innotek Font Engine kjo ndryshore aktivizon 
   funksione specialë në Firefox me qëllim që të trajtohen shenja unikod.
 
 - set MOZ_NO_REMOTE=1
