@@ -37,9 +37,6 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
 <!ENTITY windowTitle.label     "그림과 링크 주소 확인">
-<!ENTITY urlsNotFound.label    "다음 그림과 링크 주소가 없습니다:">
-<!ENTITY notFoundKey.label     "(&quot;X&quot; = 파일없음, &quot;?&quot; = 연결시간초과.)">
-<!ENTITY changeUrlButton.label "선택한 항목 링크 변경">
 <!ENTITY succeeded.label       "완료함">
 <!ENTITY failed.label          "실패함">
 <!ENTITY closeButton.label     "닫기">

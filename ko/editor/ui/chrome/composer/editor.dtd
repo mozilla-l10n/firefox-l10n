@@ -1,16 +1,12 @@
 <!ENTITY editorWindow.titlemodifier "편집기">
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 <!ENTITY viewMenu.label "보기">
-<!ENTITY viewmenu.accesskey "v">
+<!ENTITY viewMenu.accesskey "v">
 <!ENTITY compositionToolbarCmd.label "편집 도구 모음">
-<!ENTITY compositiontb.accesskey "c">
+<!ENTITY compositionToolbarCmd.accesskey "c">
 <!ENTITY formattingToolbarCmd.label "형식 도구 모음">
 <!ENTITY formattingtb.accesskey "f">
 <!ENTITY editmodeToolbarCmd.label "편집 모드 도구 모음">
-<!ENTITY editmodetb.accesskey "E">
+<!ENTITY editmodeToolbarCmd.accesskey "E">
 <!ENTITY formatMenu.label "서식">
-<!ENTITY formatmenu.accesskey "o">
-<!ENTITY helpMenu.label "도움말">
-<!ENTITY aboutCmd.label "정보">
-<!ENTITY editMode.label "편집모드:">
-<!ENTITY statusText.label "페이지 가져오기 완료">
+<!ENTITY formatMenu.accesskey "o">

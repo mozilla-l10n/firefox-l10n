@@ -78,7 +78,6 @@
 
 <!ENTITY zoominCmd.label "확대">
 <!ENTITY zoomoutCmd.label "축소">
-<!ENTITY delSpotCmd.label "Spot 삭제">
 
 <!-- Key -->
 <!ENTITY clear.key "d">

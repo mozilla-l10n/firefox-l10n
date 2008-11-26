@@ -67,10 +67,8 @@
 <!ENTITY filename.accesskey       "F">
 <!ENTITY filename.tooltip         "웹 페이지 파일 이름 입력 (.html 포함)">
 <!ENTITY filenameExample.label    "예: &quot;mypage.html&quot;">
-<!ENTITY relatedDocs.label        "출판할 다른 파일">
 <!ENTITY setDefaultButton.label   "기본 값으로 설정">
 <!ENTITY setDefaultButton.accesskey "D">
-<!ENTITY setDefSiteAndDir.label   "기본 사이트와 디렉토리로 설정">
 <!ENTITY removeButton.label       "사이트 삭제">
 <!ENTITY removeButton.accesskey   "R">
 <!-- Settings Tab Panel -->

@@ -2,13 +2,6 @@
 <!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
 <!ENTITY  pref.composer.title           "Composer">
-<!ENTITY  saving                    "저장중">
-<!ENTITY  AutoSaveCheck             "항상 자동 저장">
-<!ENTITY  minText                   "분">
-<!ENTITY  exterLegend.label         "외부 편집기">
-<!ENTITY  htmlSource                "HTML 소스:">
-<!ENTITY  imageeditor               "그림:">
-<!ENTITY  chooseButton.label        "선택">
 <!ENTITY  recentFiles.title         "최근 페이지 메뉴">
 <!ENTITY  documentsInMenu.label     "최대 목록 페이지 수:">
 <!ENTITY  documentsInMenu.accesskey "n">
@@ -21,8 +14,6 @@
 <!ENTITY  showPublishDialog.label       "페이지 출판시 출판 대화상자 항상 보이기">
 <!ENTITY  showPublishDialog.accesskey   "A">
 <!ENTITY  composerEditing.label         "편집하기">
-<!ENTITY  spellCheckInline.label        "입력시 맞춤법 검사">
-<!ENTITY  spellCheckInline.accesskey    "C">
 <!ENTITY  maintainStructure.label       "셀을 추가하거나 지울때 테이블 레이아웃을 유지">
 <!ENTITY  maintainStructure.tooltip     "셀을 추가하거나 지울때 테이블의 사각 형태를 유지">
 <!ENTITY  maintainStructure.accesskey   "M">

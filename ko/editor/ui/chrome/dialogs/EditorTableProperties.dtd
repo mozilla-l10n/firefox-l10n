@@ -67,7 +67,6 @@
 <!ENTITY tableCaptionRight.label          "테이블 오른쪽">
 <!ENTITY tableCaptionNone.label           "없음">
 <!ENTITY tableInheritColor.label           "(페이지 색상 보임)">
-<!ENTITY cellPercent.label                "퍼센트">
 <!ENTITY cellSelection.label              "선택">
 <!ENTITY cellSelectCell.label             "셀">
 <!ENTITY cellSelectRow.label              "행">
@@ -77,12 +76,9 @@
 <!ENTITY cellSelectPrevious.label         "이전">
 <!ENTITY cellSelectPrevious.accessKey     "P">
 <!ENTITY cellApplyBeforeMove.label        "변경 전 내용 적용">
-<!ENTITY cellKeepCurrentData.label        "현재 설정 유지">
 <!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
 <!ENTITY applyBeforeChange1.label         "현재 설정이 적용됨">
 <!ENTITY applyBeforeChange2.label         "선택 변경 전">
-<!ENTITY cellRowSpan.label                "행 병합:">
-<!ENTITY cellColSpan.label                "열병합:">
 <!ENTITY cellContentAlignment.label       "내용 정렬 방향:">
 <!ENTITY cellHorizontal.label             "수평:">
 <!ENTITY cellHorizontal.accessKey         "Z">
@@ -100,7 +96,6 @@
 <!ENTITY cellAlignMiddle.label            "가운데">
 <!ENTITY cellAlignBottom.label            "아래쪽">
 <!ENTITY cellAlignJustify.label           "양쪽 맞춤">
-<!ENTITY cellAlignAtChar.label            "문자:">
 <!ENTITY cellInheritColor.label           "(표에 적용할 색상)">
 <!ENTITY cellUseCheckboxHelp.label        "셀에 적용하려는 설정을 찾아 체크박스를 선택하십시오.">
 <!-- Used in both Table and Cell panels  -->

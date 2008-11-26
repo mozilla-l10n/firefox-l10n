@@ -44,7 +44,6 @@
 <!ENTITY bulletList.value "기호 목록:">
 <!ENTITY numberList.value "숫자 목록">
 <!ENTITY definitionList.value "목록 정의">
-<!ENTITY changeListMsg.label "목록 형태가 변경되면:">
 <!ENTITY changeEntireListRadio.label "모든 목록 변경">
 <!ENTITY changeEntireListRadio.accessKey "C">
 <!ENTITY changeSelectedRadio.label "선택된 목록만 변경">

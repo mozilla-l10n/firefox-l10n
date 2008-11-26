@@ -36,7 +36,6 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY Window.title        "목차">
 <!ENTITY buildToc.label      "목차 만들기 : ">
-<!ENTITY style.label         "스타일:">
 <!ENTITY tag.label           "태그:">
 <!ENTITY class.label         "클래스:">
 <!ENTITY header1.label       "1단계">

@@ -38,7 +38,6 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "그림 속성">
 <!ENTITY pixelsPopup.value "픽셀">
-<!ENTITY percentPopup.value "퍼센트">
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "그림 위치:">
 <!ENTITY locationEditField.accessKey "L">
@@ -52,7 +51,6 @@
 <!ENTITY noAltText.label "그림을 대체할 단어 사용 안 함">
 <!ENTITY noAltText.accessKey "D">
 <!ENTITY previewBox.label "그림 미리 보기">
-<!ENTITY MoreFewerButton.tooltip "편집할 속성을 봅니다.">
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 <!ENTITY actualSize.label "실제 크기:">
@@ -73,8 +71,6 @@
 <!ENTITY imagemapBox.label "이미지맵">
 <!ENTITY removeImageMapButton.label "제거">
 <!ENTITY removeImageMapButton.accessKey "R">
-<!ENTITY editImageMapButton.label "편집…">
-<!ENTITY editImageMapButton.tooltip "그림에 핫스팟을 만듭니다.">
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "그림에 텍스트 맞춤">
 <!ENTITY bottomPopup.value "아래쪽">
@@ -83,8 +79,6 @@
 <!ENTITY wrapRightPopup.value "오른쪽으로">
 <!ENTITY wrapLeftPopup.value "왼쪽으로 ">
 <!-- These controls are in the Spacing Box -->
-<!ENTITY spacingBox.label "공간">
-<!ENTITY spacingBox.tooltip "그림 주위에 공간을 만듭니다.">
 <!ENTITY leftRightEditField.label "왼쪽/오른쪽:">
 <!ENTITY leftRightEditField.accessKey "L">
 <!ENTITY topBottomEditField.label "위쪽/아래쪽:">
@@ -94,11 +88,6 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "링크된 그림에 테두리 보이기">
 <!ENTITY showImageLinkBorder.accessKey "B">
-<!-- These controls may be added some day; currently not used -->
-<!ENTITY makePageBackgroundCheckbox.label "페이지 배경 만들기">
-<!ENTITY makePageBackgroundCheckbox.tooltip "배경 그림으로 사용합니다.">
-<!ENTITY editImageButton.label "그림 편집">
-<!ENTITY editImageButton.tooltip "다른 프로그램으로 그림을 편집합니다.">
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "폼">
 <!ENTITY imageLocationTab.label "위치">

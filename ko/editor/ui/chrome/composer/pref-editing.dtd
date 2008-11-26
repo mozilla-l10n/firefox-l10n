@@ -2,9 +2,9 @@
 <!ENTITY authorName.label           "저자:">
 <!ENTITY authorName.accesskey       "u">
 <!ENTITY pageColorHeader            "기본 페이지 형식">
-<!ENTITY defaultColorsRadio.label   "기본 색상 읽기 (페이지 색지정 안 함)">
+<!ENTITY defaultColors.label   "기본 색상 읽기 (페이지 색지정 안 함)">
 <!ENTITY defaultColors.accesskey    "d">
-<!ENTITY customColorsRadio.label    "사용자 지정색:">
+<!ENTITY customColors.label    "사용자 지정색:">
 <!ENTITY customColors.accesskey     "c">
 <!ENTITY normalText.label           "일반 단어">
 <!ENTITY normalText.accesskey       "N">

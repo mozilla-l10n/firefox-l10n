@@ -18,4 +18,3 @@
 <!ENTITY replaceAllButton.label "모두 바꾸기">
 <!ENTITY replaceAllButton.accesskey "A">
 <!ENTITY closeButton.label "닫기">
-<!ENTITY notFoundWarning.label "입력된 내용이 없습니다.">

@@ -50,10 +50,11 @@
 <!ENTITY InputSettings.label "필드 설정">
 <!ENTITY InputName.label "필드명:">
 <!ENTITY GroupName.label "그룹명:">
-<!ENTITY Name.accesskey "N">
+<!ENTITY GroupName.accesskey "G">
+<!ENTITY InputName.accesskey "N">
 <!ENTITY InputValue.label "필드 값:">
 <!ENTITY InitialValue.label "초기값:">
-<!ENTITY Value.accesskey "V">
+<!ENTITY InitialValue.accesskey "V">
 <!ENTITY InputChecked.label "기본적으로 체크함">
 <!ENTITY InputChecked.accesskey "C">
 <!ENTITY InputSelected.label "기본적으로 선택함">
