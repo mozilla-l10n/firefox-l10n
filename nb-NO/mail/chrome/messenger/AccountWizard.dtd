@@ -25,7 +25,7 @@
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
 -->
-<!ENTITY fullnameExample.label "(for eksempel «Ola Nordmann»)">
+<!ENTITY fullnameExample.label "(for eksempel «Ola Nordmann»).">
 <!ENTITY fullnameLabel.label "Navnet ditt:">
 <!ENTITY fullnameLabel.accesskey "N">
 
@@ -59,8 +59,8 @@
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
 -->
-<!ENTITY haveSmtp1.prefix "Din valgte utgående tjener (SMTP), «">
-<!ENTITY haveSmtp1.suffix "» vil bli brukt. Du kan endre innstillinger for utgående tjener ved å velge Kontoinnstillinger fra Rediger-menyen.">
+<!ENTITY haveSmtp1.prefix "Din nåværende utgående tjener (SMTP), «">
+<!ENTITY haveSmtp1.suffix "» vil bli brukt. Du kan endre innstillinger for utgående tjener ved å velge Kontoinnstillinger fra Verktøy-menyen.">
 
 <!-- Entities for Login page -->
 
@@ -97,7 +97,7 @@
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Gratulerer!">
-<!ENTITY completionText.label "Kontroller at informasjonen under er korrekt.">
+<!ENTITY completionText.label "Kontroller at informasjonen nedenfor er korrekt.">
 <!ENTITY serverTypePrefix.label "Type:">
 <!ENTITY serverNamePrefix.label "Innkommende tjener:">
 <!ENTITY smtpServerNamePrefix.label "Utgående tjener:">
