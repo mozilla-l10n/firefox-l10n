@@ -1,5 +1,5 @@
 <!ENTITY itemFormatting.label             "Formatering">
-<!ENTITY itemTags.label                   "Merkelapper">
+<!ENTITY itemTags.label                   "Etiketter">
 
 <!ENTITY style.label                      "Stil:">
 <!ENTITY style.accesskey                  "S">
@@ -33,7 +33,7 @@
 <!ENTITY convertEmoticons.accesskey    "D">
 
 <!-- labels -->
-<!ENTITY displayTagsText.label    "Merkelapper kan brukes for å kategorisere og prioritere meldingene dine.">
+<!ENTITY displayTagsText.label    "Etiketter kan brukes for å kategorisere og prioritere meldingene dine.">
 <!ENTITY addTagButton.label       "Legg til">
 <!ENTITY addTagButton.accesskey   "L">
 <!ENTITY editTagButton.label      "Rediger">

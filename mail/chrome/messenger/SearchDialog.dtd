@@ -37,7 +37,7 @@
 <!ENTITY subjectColumn.label "Emne">
 <!ENTITY dateColumn.label "Dato">
 <!ENTITY priorityColumn.label "Prioritet">
-<!ENTITY tagsColumn.label "Merkelapp">
+<!ENTITY tagsColumn.label "Etikett">
 <!ENTITY accountColumn.label "Konto">
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Størrelse">
@@ -58,7 +58,7 @@
 <!ENTITY subjectColumn.tooltip "Trykk her for å sortere etter emne">
 <!ENTITY dateColumn.tooltip "Trykk her for å sortere etter dato">
 <!ENTITY priorityColumn.tooltip "Trykk her for å sortere etter prioritet">
-<!ENTITY tagsColumn.tooltip "Trykk her for å sortere etter merkelapp">
+<!ENTITY tagsColumn.tooltip "Trykk her for å sortere etter etikett">
 <!ENTITY accountColumn.tooltip "Trykk her for å sortere etter konto">
 <!ENTITY statusColumn.tooltip "Trykk her for å sortere etter status">
 <!ENTITY sizeColumn.tooltip "Trykk her for å sortere etter størrelse">

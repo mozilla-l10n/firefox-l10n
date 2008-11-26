@@ -157,8 +157,8 @@
 <!ENTITY sortBySizeCmd.accesskey "t">
 <!ENTITY sortByStatusCmd.label "Status">
 <!ENTITY sortByStatusCmd.accesskey "u">
-<!ENTITY sortByTagsCmd.label "Merkelapper">
-<!ENTITY sortByTagsCmd.accesskey "M">
+<!ENTITY sortByTagsCmd.label "Etiketter">
+<!ENTITY sortByTagsCmd.accesskey "k">
 <!ENTITY sortByJunkStatusCmd.label "Uønsket-status">
 <!ENTITY sortByJunkStatusCmd.accesskey "S">
 <!ENTITY sortBySubjectCmd.label "Emne">
@@ -355,8 +355,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileHereMenu.accesskey "A">
 <!ENTITY copyHereMenu.label "Kopier hit">
 <!ENTITY copyHereMenu.accesskey "K">
-<!ENTITY tagMenu.label "Merkelapp">
-<!ENTITY tagMenu.accesskey "M">
+<!ENTITY tagMenu.label "Etikett">
+<!ENTITY tagMenu.accesskey "t">
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
 <!ENTITY tagCmd2.key "2">
@@ -448,7 +448,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY searchItem.title "Hurtigsøk">
 <!ENTITY mailViewsToolbarItem.title "Meldingsvisninger">
 <!ENTITY folderLocationToolbarItem.title "Mappeplassering">
-<!ENTITY tagButton.label "Merkelapp">
+<!ENTITY tagButton.label "Etikett">
 <!ENTITY compactButton.label "Komprimer">
 
 <!-- Mail Toolbar Tooltips-->
@@ -478,7 +478,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY compactButton.tooltip "Fjern slettede meldinger fra valgt mappe">
 
 <!-- Tags Menu Popup -->
-<!ENTITY addNewTag.label "Ny merkelapp …">
+<!ENTITY addNewTag.label "Ny etikett …">
 <!ENTITY addNewTag.accesskey "N">
 
 <!-- Folder Pane -->
@@ -543,7 +543,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY subjectColumn.label "Emne">
 <!ENTITY dateColumn.label "Dato">
 <!ENTITY priorityColumn.label "Prioritet">
-<!ENTITY tagsColumn.label "Merkelapp">
+<!ENTITY tagsColumn.label "Etikett">
 <!ENTITY accountColumn.label "Konto">
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Størrelse">
@@ -565,7 +565,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY subjectColumn.tooltip "Trykk her for å sortere etter emne">
 <!ENTITY dateColumn.tooltip "Trykk her for å sortere etter dato">
 <!ENTITY priorityColumn.tooltip "Trykk her for å sortere etter prioritet">
-<!ENTITY tagsColumn.tooltip "Trykk her for å sortere etter merkelapp">
+<!ENTITY tagsColumn.tooltip "Trykk her for å sortere etter etikett">
 <!ENTITY accountColumn.tooltip "Trykk her for å sortere etter konto">
 <!ENTITY statusColumn.tooltip "Trykk her for å sortere etter status">
 <!ENTITY sizeColumn.tooltip "Trykk her for å sortere etter størrelse">
