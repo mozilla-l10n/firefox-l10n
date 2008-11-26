@@ -3,7 +3,7 @@
 <!ENTITY itemUpdate.label "Aggiornamenti">
 <!ENTITY itemNetworking.label "Rete e spazio su disco">
 <!ENTITY itemCertificates.label "Certificati">
-<!ENTITY enableGloda.label "Attiva l'indicizzatore messaggi">
+<!ENTITY enableGloda.label "Attiva indicizzazione messaggi">
 <!ENTITY enableGloda.accesskey "i">
 <!ENTITY showCondensedAddresses.label 'Mostra solo il "nome visualizzato" per le persone inserite nella rubrica'>
 <!ENTITY showCondensedAddresses.accesskey "p">
