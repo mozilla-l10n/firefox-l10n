@@ -20,10 +20,10 @@
 <!ENTITY saveAsMenu.accesskey "س">
 <!ENTITY saveAsFileCmd.label "ملف">
 <!ENTITY saveAsFileCmd.accesskey "م">
-<!ENTITY saveAsFileCmd.key "س">
+<!ENTITY saveAsFileCmd.key "a">
 <!ENTITY saveAsTemplateCmd.label "قالب">
 <!ENTITY saveAsTemplateCmd.accesskey "ق">
-<!ENTITY getNewMsgCmd.key "ب">
+<!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "اجلب الرسائل  الجديدة لـ">
 <!ENTITY getNewMsgForCmd.accesskey "ج">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "جميع الحسابات">
@@ -61,7 +61,7 @@
 <!ENTITY downloadStarredCmd.accesskey "ن">
 <!ENTITY printCmd.label "اطبع…">
 <!ENTITY printCmd.accesskey "ط">
-<!ENTITY printCmd.key "ط">
+<!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "معاينة الطّباعة">
 <!ENTITY printPreviewCmd.accesskey "ع">
 <!ENTITY printSetupCmd.label "إعداد الصفحة …">
@@ -90,7 +90,7 @@
 <!ENTITY all.accesskey "ك">
 <!ENTITY selectThreadCmd.label "نقاش">
 <!ENTITY selectThreadCmd.accesskey "ن">
-<!ENTITY selectThreadCmd.key "ك">
+<!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "الرسائل ذات النجمة">
 <!ENTITY selectFlaggedCmd.accesskey "ة">
 <!ENTITY menuFavoriteFolder.label "مجلد المفضّلات">
@@ -249,7 +249,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageSourceCmd.label "مصدر الرسالة">
 <!ENTITY pageSourceCmd.accesskey "ص">
-<!ENTITY pageSourceCmd.key "س">
+<!ENTITY pageSourceCmd.key "u">
 <!-- Search Menu -->
 
 
@@ -257,16 +257,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findMenu.accesskey "ب">
 <!ENTITY findCmd.label "ابحث في هذه الرسالة…">
 <!ENTITY findCmd.accesskey "ه">
-<!ENTITY findCmd.key "ه">
+<!ENTITY findCmd.key "f">
 <!ENTITY findAgainCmd.label "ابحث مجدداً">
 <!ENTITY findAgainCmd.accesskey "ب">
-<!ENTITY findAgainCmd.key "د">
+<!ENTITY findAgainCmd.key "g">
 <!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.key "د">
+<!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY searchMailCmd.label "ابحث في الرسائل…">
 <!ENTITY searchMailCmd.accesskey "س">
-<!ENTITY searchMailCmd.key "ب">
+<!ENTITY searchMailCmd.key "f">
 <!ENTITY searchAddressesCmd.label "ابحث في العناوين…">
 <!ENTITY searchAddressesCmd.accesskey "ع">
 <!-- Go Menu -->
@@ -277,23 +277,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextMenu.accesskey "ت">
 <!ENTITY nextMsgCmd.label "رسالة">
 <!ENTITY nextMsgCmd.accesskey "ر">
-<!ENTITY nextMsgCmd.key "ب">
+<!ENTITY nextMsgCmd.key "f">
 <!ENTITY nextUnreadMsgCmd.label "رسالة غير مقروءة">
 <!ENTITY nextUnreadMsgCmd.accesskey "غ">
-<!ENTITY nextUnreadMsgCmd.key "ء">
+<!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextStarredMsgCmd.label "رسالة ذات نجمة">
 <!ENTITY nextStarredMsgCmd.accesskey "ذ">
 <!ENTITY nextUnreadThread.label "نقاش غير مقروء">
 <!ENTITY nextUnreadThread.accesskey "ش">
-<!ENTITY nextUnreadThread.key "ش">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "السابق">
 <!ENTITY prevMenu.accesskey "س">
 <!ENTITY prevMsgCmd.label "رسالة">
 <!ENTITY prevMsgCmd.accesskey "ر">
-<!ENTITY prevMsgCmd.key "ا">
+<!ENTITY prevMsgCmd.key "b">
 <!ENTITY prevUnreadMsgCmd.label "رسالة غير مقروءة">
 <!ENTITY prevUnreadMsgCmd.accesskey "غ">
-<!ENTITY prevUnreadMsgCmd.key "و">
+<!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goForwardCmd.label "إلى الأمام">
 <!ENTITY goForwardCmd.accesskey "أ">
 <!ENTITY goForwardCmd.commandKey "]">
@@ -312,14 +312,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newNewMsgCmd.accesskey "ر">
 <!ENTITY replyMsgCmd.label "رُدّ">
 <!ENTITY replyMsgCmd.accesskey "ر">
-<!ENTITY replyMsgCmd.key "ر">
+<!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "رُد إلى المُرسِل فقط">
 <!ENTITY replySenderCmd.accesskey "م">
 <!ENTITY replyNewsgroupCmd.label "رُد على مجموعة الأخبار">
 <!ENTITY replyNewsgroupCmd.accesskey "د">
 <!ENTITY replyToAllMsgCmd.label "رد على الجميع">
 <!ENTITY replyToAllMsgCmd.accesskey "ج">
-<!ENTITY replyToAllMsgCmd.key "ر">
+<!ENTITY replyToAllMsgCmd.key "r">
 <!ENTITY forwardMsgCmd.label "حوّل">
 <!ENTITY forwardMsgCmd.accesskey "و">
 <!ENTITY forwardMsgCmd.key "l">
@@ -331,7 +331,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY forwardAsAttachmentCmd.accesskey "م">
 <!ENTITY editMsgAsNewCmd.label "حرّر الرسالة كجديدة">
 <!ENTITY editMsgAsNewCmd.accesskey "ح">
-<!ENTITY editMsgAsNewCmd.key "ح">
+<!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "أنشئ مرشِّح مِن الرسالة…">
 <!ENTITY createFilter.accesskey "ش">
 <!ENTITY moveMsgToMenu.label "انقل إلى">
@@ -344,16 +344,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyMsgToMenu.accesskey "خ">
 <!ENTITY moveToFolderAgain.label "انقل ثانية">
 <!ENTITY moveToFolderAgain.accesskey "ث">
-<!ENTITY moveToFolderAgainCmd.key "ق">
+<!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "تجاهل النقاش">
 <!ENTITY killThreadMenu.accesskey "ج">
-<!ENTITY killThreadMenu.key "ه">
+<!ENTITY killThreadMenu.key "k">
 <!ENTITY killSubthreadMenu.label "تجاهل النقاش الفرعي">
 <!ENTITY killSubthreadMenu.accesskey "ع">
-<!ENTITY killSubthreadMenu.key "ت">
+<!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "راقب النقاش">
 <!ENTITY watchThreadMenu.accesskey "ق">
-<!ENTITY watchThreadMenu.key "ب">
+<!ENTITY watchThreadMenu.key "w">
 <!ENTITY fileHereMenu.label "أرشف هنا">
 <!ENTITY fileHereMenu.accesskey "ه">
 <!ENTITY copyHereMenu.label "انسخ هنا">
@@ -374,30 +374,30 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markMenu.accesskey "ش">
 <!ENTITY markAsReadCmd.label "كمقروءة">
 <!ENTITY markAsReadCmd.accesskey "ق">
-<!ENTITY markAsReadCmd.key "م">
+<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "النقاش كمقروء">
 <!ENTITY markThreadAsReadCmd.accesskey "ن">
-<!ENTITY markThreadAsReadCmd.key "و">
+<!ENTITY markThreadAsReadCmd.key "r">
 <!ENTITY markReadByDateCmd.label "كمقروء بالتاريخ…">
 <!ENTITY markReadByDateCmd.accesskey "خ">
-<!ENTITY markReadByDateCmd.key "خ">
+<!ENTITY markReadByDateCmd.key "c">
 <!ENTITY markAllReadCmd.label "الكل مقروء">
 <!ENTITY markAllReadCmd.accesskey "ك">
-<!ENTITY markAllReadCmd.key "ك">
+<!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "أضِف نجمة">
 <!ENTITY markStarredCmd.accesskey "ن">
-<!ENTITY markStarredCmd.key "ج">
+<!ENTITY markStarredCmd.key "S">
 <!ENTITY markAsJunkCmd.label "كسخام">
 <!ENTITY markAsJunkCmd.accesskey "س">
-<!ENTITY markAsJunkCmd.key "س">
+<!ENTITY markAsJunkCmd.key "j">
 <!ENTITY markAsNotJunkCmd.label "ليست سخاماً">
 <!ENTITY markAsNotJunkCmd.accesskey "ل">
-<!ENTITY markAsNotJunkCmd.key "س">
+<!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "شغّل مُتحكِّمات السخام">
 <!ENTITY recalculateJunkScoreCmd.accesskey "م">
 <!ENTITY openMessageWindowCmd.label "افتح الرسالة">
 <!ENTITY openMessageWindowCmd.accesskey "ف">
-<!ENTITY openMessageWindowCmd.key "ف">
+<!ENTITY openMessageWindowCmd.key "o">
 <!-- Windows Menu -->
 
 <!ENTITY windowMenu.label "نافذة">
@@ -459,7 +459,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "اجلب الرسائل الجديدة">
 <!ENTITY getAllNewMsgCmd.label "اجلب كل الرسائل الجديدة">
 <!ENTITY getAllNewMsgCmd.accesskey "ج">
-<!ENTITY getAllNewMsgCmd.key "ك">
+<!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "أنشئ رسالة جديدة">
 <!ENTITY replyButton.tooltip "رُد على الرسالة">
 <!ENTITY replyAllButton.tooltip "رُد على المُرسِل وكل المُستلمين">
@@ -627,7 +627,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reportPhishingError1.label "لا يبدو على هذه الرسالة أنها خدعة.">
 <!-- Quick Search Bar -->
 
-<!ENTITY quickSearchCmd.key "س">
+<!ENTITY quickSearchCmd.key "k">
 <!-- Message Header Context Menu -->
 
 <!ENTITY AddToAddressBook.label "أضِف إلى دفتر العناوين…">
@@ -668,7 +668,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!--  Mac OS X Window Menu -->
 
 <!ENTITY minimizeWindow.label "صغّر">
-<!ENTITY minimizeWindow.key "غ">
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "اجلب الكل للمقدمة">
 <!ENTITY zoomWindow.label "قرّب">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->

@@ -130,31 +130,31 @@
 <!ENTITY fileMenu.label "ملف">
 <!ENTITY fileMenu.accesskey "م">
 <!ENTITY newNavigatorCmd.label "نافذة جديدة">
-<!ENTITY newNavigatorCmd.key "ج">
+<!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "ج">
 
 <!ENTITY editMenu.label "حرّر">
 <!ENTITY editMenu.accesskey "ح">
 <!ENTITY undoCmd.label "تراجع">
-<!ENTITY undoCmd.key "ئ">
+<!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "ر">
 <!ENTITY redoCmd.label "أعِد">
-<!ENTITY redoCmd.key "غ">
+<!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "ع">
 <!ENTITY cutCmd.label "قص">
-<!ENTITY cutCmd.key "ء">
+<!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "ق">
 <!ENTITY copyCmd.label "انسخ">
-<!ENTITY copyCmd.key "ؤ">
+<!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "ن">
 <!ENTITY pasteCmd.label "الصق">
-<!ENTITY pasteCmd.key "ر">
+<!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "ل">
 <!ENTITY deleteCmd.label "احذف">
-<!ENTITY deleteCmd.key "ذ">
+<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "ذ">
 <!ENTITY selectAllCmd.label "اختر الكل">
-<!ENTITY selectAllCmd.key "ك">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "ك">
 <!ENTITY preferencesCmd.label "الخيارات...">
 <!ENTITY preferencesCmd.accesskey "خ">
@@ -359,10 +359,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label "أغلق">
 <!ENTITY quitApplicationCmd.accesskey "غ">
 <!ENTITY quitApplicationCmdMac.label "أغلق &brandShortName;">
-<!ENTITY quitApplicationCmdMac.key "ج">
+<!ENTITY quitApplicationCmdMac.key "Q">
 
 <!ENTITY closeCmd.label "أغلق">
-<!ENTITY closeCmd.key "غ">
+<!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "غ">
 
 <!ENTITY pageStyleMenu.label "طراز الصفحة">

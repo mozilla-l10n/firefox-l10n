@@ -7,7 +7,7 @@
 <!ENTITY newMenu.accesskey "ج">
 <!ENTITY newCard.label "بطاقة دفتر العناوين...">
 <!ENTITY newCard.accesskey "C">
-<!ENTITY newCard.key "ج">
+<!ENTITY newCard.key "N">
 <!ENTITY newListCmd.label "قائمة بريدية...">
 <!ENTITY newListCmd.accesskey "L">
 <!ENTITY newAddressBookCmd.label "دفتر العناوين...">
@@ -15,13 +15,13 @@
 <!ENTITY newLDAPDirectoryCmd.label "دليل LDAP...">
 <!ENTITY newLDAPDirectoryCmd.accesskey "D">
 <!ENTITY newMessageCmd.label "رسالة">
-<!ENTITY newMessageCmd.key "ر">
+<!ENTITY newMessageCmd.key "M">
 <!ENTITY newMessageCmd.accesskey "ر">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
 <!ENTITY osxAddressBook.label "استخدم دفتر عناوين ماك أس إكس">
 <!ENTITY osxAddressBook.accesskey "س">
 <!ENTITY closeCmd.label "أغلق">
-<!ENTITY closeCmd.key "غ">
+<!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "غ">
 <!ENTITY printSetupCmd.label "إعداد الصفحة ...">
 <!ENTITY printSetupCmd.accesskey "ع">
@@ -31,7 +31,7 @@
 <!ENTITY printPreviewAddressBook.accesskey "ع">
 <!ENTITY printCardViewCmd.label "اطبع البطاقة...">
 <!ENTITY printCardViewCmd.accesskey "ط">
-<!ENTITY printCardViewCmd.key "ط">
+<!ENTITY printCardViewCmd.key "P">
 <!ENTITY printAddressBook.label "اطبع دفتر العناوين...">
 <!ENTITY printAddressBook.accesskey "د">
 
@@ -40,19 +40,19 @@
 <!ENTITY editMenu.label "تحرير">
 <!ENTITY editMenu.accesskey "ح">
 <!ENTITY undoCmd.label "تراجع">
-<!ENTITY undoCmd.key "ج">
+<!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "ر">
 <!ENTITY redoCmd.label "أعِد">
-<!ENTITY redoCmd.key "ع">
+<!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "ع">
 <!ENTITY cutCmd.label "قص">
-<!ENTITY cutCmd.key "ق">
+<!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "ق">
 <!ENTITY copyCmd.label "انسخ">
-<!ENTITY copyCmd.key "س">
+<!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "ن">
 <!ENTITY pasteCmd.label "الصق">
-<!ENTITY pasteCmd.key "ص">
+<!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "ل">
 <!ENTITY deleteCmd.label "احذف">
 <!ENTITY deleteCmd.accesskey "ح">
@@ -63,8 +63,8 @@
 <!ENTITY deleteListsCmd.label "احذف القوائم">
 <!ENTITY deleteItemsCmd.label "احذف العناصر">
 <!ENTITY selectAllCmd.label "اختر الكل">
-<!ENTITY selectAllCmd.key "ك">
-<!ENTITY searchAddressesCmd.key "و">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY searchAddressesCmd.key "f">
 <!ENTITY selectAllCmd.accesskey "ك">
 <!ENTITY swapFirstNameLastNameCmd.label "بدّل الاسم الأول/الأخير">
 <!ENTITY swapFirstNameLastNameCmd.accesskey "ب">
@@ -73,7 +73,7 @@
 <!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesCmd.label "الخصائص...">
 <!ENTITY propertiesCmd.accesskey "i">
-<!ENTITY propertiesCmd.key "ئ">
+<!ENTITY propertiesCmd.key "i">
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label "اعرض">
@@ -146,7 +146,7 @@
 <!ENTITY SearchNameOrEmail.label "الاسم أو البريد">
 <!ENTITY SearchNameOrEmail.accesskey "س">
 <!ENTITY advancedButton.tooltip "بحث متقدم في العناوين">
-<!ENTITY quickSearchCmd.key "ع">
+<!ENTITY quickSearchCmd.key "k">
 <!ENTITY searchItem.title "بحث سريع">
 <!-- Results Pane -->
 
@@ -203,6 +203,6 @@
 
 <!ENTITY windowMenu.label "نافذة">
 <!ENTITY minimizeWindow.label "صغّر">
-<!ENTITY minimizeWindow.key "ر">
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "اجلب الكل للمقدمة">
 <!ENTITY zoomWindow.label "قرّب">

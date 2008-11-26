@@ -10,24 +10,24 @@
 <!ENTITY editMenu.label "تحرير">
 <!ENTITY editMenu.accesskey "ح">
 <!ENTITY undoCmd.label "تراجع">
-<!ENTITY undoCmd.key "ر">
+<!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "ر">
 <!ENTITY redoCmd.label "أعد">
-<!ENTITY redoCmd.key "ع">
+<!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "ع">
 <!ENTITY cutCmd.label "قصّ">
-<!ENTITY cutCmd.key "ص">
+<!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "ص">
 <!ENTITY copyCmd.label "انسخ">
-<!ENTITY copyCmd.key "خ">
+<!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "خ">
 <!ENTITY pasteCmd.label "ألصق">
-<!ENTITY pasteCmd.key "ق">
+<!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "ل">
 <!ENTITY deleteCmd.label "احذف">
 <!ENTITY deleteCmd.accesskey "ذ">
 <!ENTITY selectAllCmd.label "حدِّد الكلّ">
-<!ENTITY selectAllCmd.key "ل">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "ك">
 <!ENTITY preferencesCmd.label "الخيارات...">
 <!ENTITY preferencesCmd.accesskey "ا">
@@ -45,13 +45,13 @@
 <!ENTITY proxy.accesskey "و">
 
 <!ENTITY closeCmd.label "أغلق">
-<!ENTITY closeCmd.key "ذ">
+<!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "غ">
 
 <!ENTITY closeWindow.label "أغلق النافذة">
 
 <!ENTITY quitApplicationCmd.label "اخرج">
-<!ENTITY quitApplicationCmd.key "ن">
+<!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY quitApplicationCmd.accesskey "ج">
 
 <!ENTITY quitApplicationCmdUnix.label "أنهِ">

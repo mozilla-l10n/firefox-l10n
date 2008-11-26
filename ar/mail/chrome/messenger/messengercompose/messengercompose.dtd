@@ -7,8 +7,8 @@
 <!ENTITY newMenu.label "جديد">
 <!ENTITY newMenu.accesskey "ج">
 <!ENTITY newMessage.label "رسالة">
-<!ENTITY newMessage.key "ر">
-<!ENTITY newMessageCmd2.key "ج">
+<!ENTITY newMessage.key "M">
+<!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "ر">
 <!ENTITY newCard.label "بطاقة دفتر العناوين…">
 <!ENTITY newCard.accesskey "ب">
@@ -44,45 +44,45 @@
 <!ENTITY printSetupCmd.label "إعداد الصفحة…">
 <!ENTITY printSetupCmd.accesskey "ع">
 <!ENTITY printCmd.label "اطبع…">
-<!ENTITY printCmd.key "ط">
+<!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "ط">
 <!-- Edit Menu -->
 
 <!ENTITY editMenu.label "تحرير">
 <!ENTITY editMenu.accesskey "ح">
 <!ENTITY undoCmd.label "تراجع">
-<!ENTITY undoCmd.key "ج">
+<!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "ر">
 <!ENTITY redoCmd.label "أعِد">
-<!ENTITY redoCmd.key "ع">
+<!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "ع">
 <!ENTITY cutCmd.label "قص">
-<!ENTITY cutCmd.key "ص">
+<!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "ق">
 <!ENTITY copyCmd.label "انسخ">
-<!ENTITY copyCmd.key "خ">
+<!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "ن">
 <!ENTITY pasteCmd.label "ألصق">
-<!ENTITY pasteCmd.key "ق">
+<!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "ل">
-<!ENTITY pasteNoFormattingCmd.key "ق">
+<!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY editRewrapCmd.label "أعد التسطير">
-<!ENTITY editRewrapCmd.key "ط">
+<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "ع">
 <!ENTITY deleteCmd.label "احذف">
 <!ENTITY deleteCmd.accesskey "ح">
 <!ENTITY selectAllCmd.label "اختر الكل">
-<!ENTITY selectAllCmd.key "ك">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "ك">
 <!ENTITY findCmd.label "ابحث و استبدل…">
-<!ENTITY findCmd.key "ث">
+<!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "ب">
 <!ENTITY findAgainCmd.label "ابحث مرة أخرى">
-<!ENTITY findAgainCmd.key "م">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "م">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "ابحث عن السابق">
-<!ENTITY findPrevCmd.key "س">
+<!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.accesskey "ع">
 <!-- View Menu -->
@@ -110,7 +110,7 @@
 <!ENTITY optionsMenu.label "الخيارات">
 <!ENTITY optionsMenu.accesskey "خ">
 <!ENTITY checkSpellingCmd.label "دقِّق الإملاء…">
-<!ENTITY checkSpellingCmd.key "ء">
+<!ENTITY checkSpellingCmd.key "K">
 <!ENTITY checkSpellingCmd.key2 "VK_F7">
 <!ENTITY checkSpellingCmd.accesskey "د">
 <!ENTITY enableInlineSpellChecker.label "دقق الإملاء أثناء الكتابة">

@@ -15,7 +15,7 @@
 <!ENTITY session.accesskey "ج">
 <!ENTITY allow.label "اسمح">
 <!ENTITY allow.accesskey "س">
-<!ENTITY windowClose.key "س">
+<!ENTITY windowClose.key "w">
 
 <!ENTITY button.close.label "أغلق">
 <!ENTITY button.close.accesskey "غ">
