@@ -18,7 +18,7 @@
 <!ENTITY focusSearch2.key "k">
 <!ENTITY filter.label "തിരഞ്ഞു കണ്ടെത്തുക">
 <!ENTITY filter.accesskey "S">
-<!ENTITY clear.label "വൃത്തിയാകുക ">
-<!ENTITY clear.accesskey "l">
+<!-- ENTITY clear.label "വൃത്തിയാകുക " -->
+<!-- ENTITY clear.accesskey "l" -->
 <!ENTITY button.close.label "അടയ്ക്കുക ">
 <!ENTITY button.close.accesskey "C">
