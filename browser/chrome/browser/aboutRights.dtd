@@ -1,8 +1,8 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
-<!ENTITY rights.intro-header    "About Your Rights">
-<!ENTITY rights.intro "&brandFullName; is free and open source software, built by a community of thousands from all over the world. There are a few things you should know:">
+<!ENTITY rights.intro-header    "Par jūsu tiesībām">
+<!ENTITY rights.intro "&brandFullName; ir brīva bezmaksas atvērtā koda programma, ko veido tūkstošiem brīvprātīgo no visas pasaules. Ir dažas lietas, ko jums būtu vēŗts zināt:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -12,54 +12,54 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-<!ENTITY rights.intro-point1a "&brandShortName; is made available to you under the terms of the ">
-<!ENTITY rights.intro-point1b "Mozilla Public License">
-<!ENTITY rights.intro-point1c ". This means you may use, copy and distribute &brandShortName; to others.  You are also welcome to modify the source code of &brandShortName; as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions.">
+<!ENTITY rights.intro-point1a "&brandShortName; ir pieejams ar ">
+<!ENTITY rights.intro-point1b "Mozilla publiskās licences">
+<!ENTITY rights.intro-point1c "nosacījumiem. Tas nozīmē, ka jūs varat brīvi izmantot, pavairot uz izpaltīt &brandShortName; citiem.  Tāpat jūs droši varat mainīt un papildināt &brandShortName; pirmkodu pēc saviem ieskatiem. Mozilla publiskā licence dod jums tiesības brīvi izpaltīt savas modificētās versijas.">
 
-<!ENTITY rights.intro-point2a "Mozilla does not grant you any rights to the Mozilla and Firefox trademarks or logos. Additional information on Trademarks may be found ">
-<!ENTITY rights.intro-point2b "here">
+<!ENTITY rights.intro-point2a "Mozilla nedod jums tiesības izmantot Mozilla un Firefox preču zīmes un logo. Papildus informācija par preču zīmēm ir atrodama ">
+<!ENTITY rights.intro-point2b "šeit">
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "Privacy policies for &vendorShortName;'s products may be found ">
-<!ENTITY rights.intro-point3b "here">
+<!ENTITY rights.intro-point3a "Privātuma politika, kas attiecas uz &vendorShortName; produktiem ir atrodama ">
+<!ENTITY rights.intro-point3b "šeit">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Any applicable privacy policies for this product should be listed here.">
+<!ENTITY rights.intro-point3-unbranded "Visām aktuālajām privātuma politikām būtu jābūt uzskaitītām šeit.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; also offers optional web site information services, such as the SafeBrowsing service; however, we cannot guarantee they are 100&#37; accurate or error-free. More details, including information on how to disable the services, can be found in the ">
-<!ENTITY rights.intro-point4b "service terms">
+<!ENTITY rights.intro-point4a "&brandShortName; piedāvā arī papildus mājas lapu informācijas pakalpojumus, piemēram, SafeBrowsing pakalpojumu. Taču mēs nevaram garantēt, ka tie ir 100&#37; korekti un kļūdu droši. PApildus informācija par to kā deaktivizēt šos pakalpojumus ir atrodama ">
+<!ENTITY rights.intro-point4b "pakalpojumu nosacījumu aprakstā">
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "If this product incorporates web services, any applicable service terms for the service(s) should be linked to the ">
-<!ENTITY rights.intro-point4b-unbranded "Web Site Services">
-<!ENTITY rights.intro-point4c-unbranded " section.">
+<!ENTITY rights.intro-point4a-unbranded "Ja šajā produktā ir iekļauti tīmekļa pakalpojumi, visiem aktuālajiem pakalpojuma nosacījumiem jābūt pieejamiem ">
+<!ENTITY rights.intro-point4b-unbranded "mājas lapu pakalpojumu">
+<!ENTITY rights.intro-point4c-unbranded " sadaļā.">
 
-<!ENTITY rights.webservices-header "&brandFullName; Web Site Services">
+<!ENTITY rights.webservices-header "&brandFullName; mājas lapu pakalpojumi">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; uses web site information services (&quot;Services&quot;), such as the SafeBrowsing service, that are available for your use with this binary version of &brandShortName; as described below. If you do not want to use the Services or the terms below are unacceptable, you may disable the SafeBrowsing service by opening the application preferences, selecting the ">
-<!ENTITY rights.webservices-b "Security">
-<!ENTITY rights.webservices-c " section, and unchecking the options for &quot;&blockAttackSites.label;&quot; and &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.webservices-a "&brandFullName; izmanto mājas lapu informācijas pakalpojumus (&quot;Pakalpojumus&quot;), kā piemēram, SafeBrowsing pakalpojumu, kas kā zemāk aprakstīts ir pieejams šajā &brandShortName; versijā. Ja nevēlaties izmantot šo pakalpojumu vai arī tā nosacījumi jums nav pieņemami, jūs varat deaktivizēt SafeBrowsing pakalpojumu atverot programmas iestatījumus un izvēloties sadaļu ">
+<!ENTITY rights.webservices-b "Drošība">
+<!ENTITY rights.webservices-c ". Tajā izņemiet ķekšus no &quot;&blockAttackSites.label;&quot; un &quot;&blockWebForgeries.label;&quot;">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "An overview of the web site services the product incorporates, along with instructions on how to disable them, if applicable, should be included here.">
+<!ENTITY rights.webservices-unbranded "Pieejamo mājas lapu pakalpojumu apraksti un instrukcijas kā vajadzības gadījumā deaktivizēt tos ir pieejami šeit.">
 
 <!-- point 1 text for unbranded builds -->
-<!ENTITY rights.webservices-term1-unbranded "Any applicable service terms for this product should be listed here.">
+<!ENTITY rights.webservices-term1-unbranded "Aktuālajiem pakalpojumu izmantošanas noteikumiem būtu jābūt aprakstītiem šeit.">
 
 <!-- points 1-7 text for branded builds -->
-<!ENTITY rights.webservices-term1 "&vendorShortName; and its contributors, licensors and partners work to provide the most accurate and up-to-date phishing and malware information. However, they cannot guarantee that this information is comprehensive and error-free: some risky sites may not be identified and some safe sites may be identified in error.">
-<!ENTITY rights.webservices-term2 "&vendorShortName; may discontinue or change the Services at its discretion.">
-<!ENTITY rights.webservices-term3 "You are welcome to use these Services with the accompanying version of &brandShortName;, and you have all the rights necessary to do so.  &vendorShortName; and its licensors reserve all other rights in the Services.  These terms are not intended to limit any rights granted under open source licenses applicable to &brandShortName; and to corresponding source code versions of &brandShortName;.">
-<!ENTITY rights.webservices-term4 "The Services are provided &quot;as-is.&quot;  &vendorShortName;, its contributors, licensors, and distributors, disclaim all warranties, whether express or implied, including without limitation, warranties that the Services are merchantable and fit for your particular purposes.  You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.">
-<!ENTITY rights.webservices-term5 "Except as required by law, &vendorShortName;, its contributors, licensors, and distributors will not be liable for any indirect, special, incidental, consequential, punitive, or exemplary damages arising out of or in any way relating to the use of &brandShortName; and the Services.  The collective liability under these terms will not exceed $500 (five hundred dollars). Some jurisdictions do not allow the exclusion or limitation of certain damages, so this exclusion and limitation may not apply to you.">
-<!ENTITY rights.webservices-term6 "&vendorShortName; may update these terms as necessary from time to time. These terms may not be modified or cancelled without &vendorShortName;'s written agreement.">
-<!ENTITY rights.webservices-term7 "These terms are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.">
+<!ENTITY rights.webservices-term1 "&vendorShortName; un tās palīgi, licencētāji un partneri strādā pei tā, lai nodrošinātu visaktuālāko informāciju par kaitnieku un krāpnieku lapām internetā. Taču šīs informācijas pilnība un kļūdu drošība netiek garantēta: dažas bīstamas lapas var nebūt iekļautas sarakstā un kāda droša lapa var būt kļūdaini atzīmēta kā kaitnieciska.">
+<!ENTITY rights.webservices-term2 "&vendorShortName; var pārtraukt Pakalpojumus pēc saviem ieskatiem.">
+<!ENTITY rights.webservices-term3 "Jūs esat laipni aicināti izmantot šos Pakalpojumus ar šo &brandShortName; versiju un jums ir visas nepieciešamās tiesības to darīt. &vendorShortName; un tās licencētāji patur visas citas tiesības šajos Pakalpojumos. Šie nosacījumi nav domāti, lai ierobežotu jebkādas atvērtā pormkoda licenču sniegtās tiesības, kas ir attiecināmas uz &brandShortName; un atbilstošajām &brandShortName; versijas pirmkodu.">
+<!ENTITY rights.webservices-term4 "Pakalpojumi tiek piedāvāti &quot;kādi tie ir.&quot;  &vendorShortName;, tās palīg, licencētāji un izpaltītāji atsakās no jebkādām garantijām, neatkarīgi no tā vai tās ir paustas rakstiski vai tiek pieņemtas kā esošas, ieskaitot jebkādas garantijas par to, ka Pakalpojumi ir funkcionāli un atbilstoši jūsu vajadzībām.  Visa atbildība par Pakalpojumu izmantošanu gulstas uz jūsu pleciem attiecībā uz to kvalitāti un atbilstību veicamajām funkcijām.  Zināmos juridiskos apstākļos nav iespējams atteikties no iedomātajām garantijām, līdz ar to šī atruna var uz jums neattiekties.">
+<!ENTITY rights.webservices-term5 "Izņemot gadījumus, kur to pieprasa likumdošana, &vendorShortName;, tās palīgi, licencētāji un izplatītāji nebūs atbildīgi par jebkādiem tīšiem, netiešiem, nejaušiem vai jebkādiem cita veida bojājumiem, kas jebkādā veidā saistāmi ar &brandShortName; un tā PAkalpojumu izmantošanu.  Kopējā atbildība pēc šo nosacījumu principiem nepārsniegs $500 (piecus simtus ASV dolāru). Zināmos juridiskos apstākļos nav iespējams atteikties no iedomātajām garantijām, līdz ar to šī atruna var uz jums neattiekties.">
+<!ENTITY rights.webservices-term6 "&vendorShortName; drīkst brīvi mainīt vai paipldināt šos nosacījumus pēc saviem ieskatiem. Šie nosacījumi nevar tikt modificēti vai atcelti bez iepriekšēja rakstiska apliecinājuma no &vendorShortName;.">
+<!ENTITY rights.webservices-term7 "Šos noteikumus pārvalda Kalifornijas štata likumdošana, A.S.V. Ja kāda šo nosacījumu daļa tiek uzskatīta par nederīgu vai to nav iespējams piemērot, atlikušās daļas paliek spēkā. Domstarpību gadījumos strap šo nosacījumu tulkotajām un angļu valodas versiju, Angļu valodas versija tiek uzskatīta par galveno.">
