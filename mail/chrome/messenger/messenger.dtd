@@ -654,6 +654,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY removePhishingBarButton1.label "Nepaisyti įspėjimo">
 <!ENTITY reportPhishingError1.label "Nepanašu, kad šiame laiške slypėtų apgaulė.">
 
+<!-- Message Header Button Box (to show hidden email addresses) -->
+<!ENTITY more.label "kiti">
+
 <!-- Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
 
