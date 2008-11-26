@@ -21,17 +21,17 @@
 <!ENTITY advancedFonts.accesskey "d">
 <!ENTITY colors.label "കളറുകള്‍">
 <!ENTITY colors.accesskey "C">
-<!ENTITY feeds.label "ഫീഡുകള്‍">
-<!ENTITY feedReader.label "ഫീഡ്‌ റീഡര്‍ :">
-<!ENTITY feedReader.accesskey "F">
-<!ENTITY feedClick.label "ഞാന്‍ ഒരു വെബ്‌ ഫീഡില്‍ ക്ലിക്ക്‌ ചെയ്യുമ്പോള്‍">
-<!ENTITY ask.label "എന്തു ഉപയോഗിക്കണം എന്ന് ചോദിക്കുക">
-<!ENTITY ask.accesskey "A">
-<!ENTITY subLiveBookmark.label "എപ്പോഴും ലൈവ്‌ അടയാളം ഉപയോഗിച്ച്‌ സബ്‌സ്ക്രൈബ്‌ ചെയ്യുക">
-<!ENTITY subLiveBookmark.accesskey "L">
-<!ENTITY subReader.label "എപ്പോഴും ഫീഡ്‌ റീഡര്‍ ഉപയോഗിച്ച്‌ സബ്‌സ്ക്രൈബ്‌ ചെയ്യുക">
-<!ENTITY subReader.accesskey "R">
-<!ENTITY fileTypes.label "ഫയല്‍ തരങ്ങള്‍">
-<!ENTITY configureFileTypes.label "ചില തരം ഫയലുകള്‍ &brandShortName; എങ്ങനെ കൈകാര്യം ചെയ്യണം എന്നുള്ളത്‌ കോണ്‍ഫിഗര്‍ ചെയ്യുക.">
-<!ENTITY manage.label "കൈകാര്യം ചെയ്യുക">
-<!ENTITY manage.accesskey "M">
+<!-- ENTITY feeds.label "ഫീഡുകള്‍" -->
+<!-- ENTITY feedReader.label "ഫീഡ്‌ റീഡര്‍ :" -->
+<!-- ENTITY feedReader.accesskey "F" -->
+<!-- ENTITY feedClick.label "ഞാന്‍ ഒരു വെബ്‌ ഫീഡില്‍ ക്ലിക്ക്‌ ചെയ്യുമ്പോള്‍" -->
+<!-- ENTITY ask.label "എന്തു ഉപയോഗിക്കണം എന്ന് ചോദിക്കുക" -->
+<!-- ENTITY ask.accesskey "A" -->
+<!-- ENTITY subLiveBookmark.label "എപ്പോഴും ലൈവ്‌ അടയാളം ഉപയോഗിച്ച്‌ സബ്‌സ്ക്രൈബ്‌ ചെയ്യുക" -->
+<!-- ENTITY subLiveBookmark.accesskey "L" -->
+<!-- ENTITY subReader.label "എപ്പോഴും ഫീഡ്‌ റീഡര്‍ ഉപയോഗിച്ച്‌ സബ്‌സ്ക്രൈബ്‌ ചെയ്യുക" -->
+<!-- ENTITY subReader.accesskey "R" -->
+<!-- ENTITY fileTypes.label "ഫയല്‍ തരങ്ങള്‍" -->
+<!-- ENTITY configureFileTypes.label "ചില തരം ഫയലുകള്‍ &brandShortName; എങ്ങനെ കൈകാര്യം ചെയ്യണം എന്നുള്ളത്‌ കോണ്‍ഫിഗര്‍ ചെയ്യുക." -->
+<!-- ENTITY manage.label "കൈകാര്യം ചെയ്യുക" -->
+<!-- ENTITY manage.accesskey "M" -->
