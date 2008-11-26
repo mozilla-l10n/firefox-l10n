@@ -1,23 +1,20 @@
-<!--
-LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
-Netscape Communicator, Please translate using the brandname in respective 
-languages for Netscape Communicator 4 releases.
-LOCALIZATION NOTE : Do not translate any of the occurances of the word 
-"&brandShortName;" below.
--->
-
 <!ENTITY importDialog.windowTitle "Importo">
-<!ENTITY importDialog.mailTitle   "Postë">
+<!ENTITY importDialog.allTitle    "Importo gjithçka">
+<!ENTITY importDialog.mailTitle   "Filtra">
 <!ENTITY importDialog.addressbookTitle "Libra Vendndodhjesh">
 <!ENTITY importDialog.settingsTitle "Rregullime">
+<!ENTITY importDialog.filtersTitle "Filters">
+
+<!ENTITY  window.width            "40em">
+<!ENTITY  window.macWidth         "45em">
 
 <!ENTITY importTitle.label        "Ndihmësi &brandShortName; për Importim Poste">
-
-<!ENTITY importDescription2.label "Pasi të jenë importuar, do të mundni t&apos;i përdorni brenda Postës së &brandShortName -s; dhe/ose Librit të Vendndodhjeve.">
+<!ENTITY importShortDesc.label    "Importoni prej programesh të tjerë Postë, Libra Vendndodhjesh, Rregullime dhe Filtra">
+<!ENTITY importDescription1.label "Ky ndihmës do të importojë te  &brandShortName;-i mesazhe poste, hyrje librash vendndodhjesh, parapëlqime, dhe/ose filtra prej programesh të tjerë poste, si dhe formate të zakonshëm librash vendndodhjesh.">
 
 <!ENTITY selectDescription.label  "Ju lutem përzgjidhni programin prej të cilit doni të importohet:">
 
-<!ENTITY back.label               "&lt; Prapa">
+<!ENTITY back.label               "&lt; Mbrapsht">
 <!ENTITY forward.label            "Pasuesi &gt;">
 <!ENTITY finish.label             "Përfundoje">
 <!ENTITY cancel.label             "Anuloje">
@@ -25,7 +22,7 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY select.label             "Përzgjidhni llojin e materialit për t&apos;u importuar:">
 
 <!ENTITY title.label              "Titull">
-<!ENTITY processing.label         "Po importohet...">
+<!ENTITY processing.label         "Po importohet…">
 
 <!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x ka një vendndodhje postimi për secilën kartë, kurse &brandShortName; ka dy (Shtëpie dhe Pune).">
 <!ENTITY FieldDiscInputText2.label  "Përzgjidhni kategorinë në të cilën doni të ruhen vendndodhjet e importuara të postës:">
@@ -33,11 +30,4 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY importDialog.homeTitle  "Shtëpie">
 <!ENTITY importDialog.workTitle  "Pune">
 
-<!ENTITY  window.width            "40em">
-<!ENTITY  window.macWidth         "45em">
 
-<!ENTITY importDialog.allTitle    "Importo gjithçka">
-<!ENTITY importDialog.filtersTitle "Filtra">
-<!ENTITY importDescription1.label "Ky krijues do të importojë te  &brandShortName;-i mesazhe poste, hyrje librash vendndodhjesh, parapëlqime, dhe/ose filtra prej programesh të tjerë poste dhe formate të zakonshëm librash vendndodhjesh.">
-
-<!ENTITY importShortDesc.label    "Importo Postë, Libra Vendndodhjesh, Rregullime dhe Filtra prej programesh të tjerë">
