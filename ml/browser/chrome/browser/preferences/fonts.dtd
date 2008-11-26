@@ -5,8 +5,8 @@
 <!ENTITY language.label "ഇതിനായ്‌ ഉള്ള ഫോണ്ടുകള്‍ ">
 <!ENTITY language.accesskey "F">
 <!ENTITY size.label "വലിപ്പം :">
-<!ENTITY size.accesskey1 "z">
-<!ENTITY size.accesskey2 "e">
+<!-- ENTITY size.accesskey1 "z" -->
+<!-- ENTITY size.accesskey2 "e" -->
 <!ENTITY proportional.label "ആനുപാദികം:">
 <!ENTITY proportional.accesskey "P">
 <!ENTITY serif.label "Serif:">
@@ -15,11 +15,11 @@
 <!ENTITY sans-serif.accesskey "n">
 <!ENTITY monospace.label "മോണോസ്പേസ്‌: ">
 <!ENTITY monospace.accesskey "M">
-<!ENTITY fantasy.label "ഫാന്റസി:">
-<!ENTITY fantasy.accesskey "F">
-<!ENTITY cursive.label "കര്‍സീവ്‌: ">
-<!ENTITY cursive.accesskey "C">
-<!ENTITY fontsize.units "പിക്സലുകള്‍ ">
+<!-- ENTITY fantasy.label "ഫാന്റസി:" -->
+<!-- ENTITY fantasy.accesskey "F" -->
+<!-- ENTITY cursive.label "കര്‍സീവ്‌: " -->
+<!-- ENTITY cursive.accesskey "C" -->
+<!-- ENTITY fontsize.units "പിക്സലുകള്‍ " -->
 <!ENTITY font.langGroup.latin1 "വെസ്റ്റേണ്‍ ">
 <!ENTITY font.langGroup.latin2 "സെന്ററല്‍ യൂറോപ്പിയന്‍ ">
 <!ENTITY font.langGroup.japanese "ജാപ്പനീസ്‌">
