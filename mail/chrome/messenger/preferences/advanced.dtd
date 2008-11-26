@@ -6,6 +6,8 @@
 
 <!-- General Settings -->
 
+<!ENTITY enableGloda.label             "Aktivera meddelandeindexeraren">
+<!ENTITY enableGloda.accesskey         "A">
 <!ENTITY showCondensedAddresses.label  "Visa endast kortnamnen för personer som finns i adressboken">
 <!ENTITY showCondensedAddresses.accesskey "V">
 
