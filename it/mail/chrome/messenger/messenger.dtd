@@ -567,7 +567,7 @@
 <!ENTITY phishingBarMessage2.label "Questo messaggio potrebbe essere una frode">
 <!ENTITY removePhishingBarButton1.label "Ignorare gli avvisi">
 <!ENTITY reportPhishingError1.label "Questo messaggio non sembra essere una frode">
-<!ENTITY more.label "ancora">
+<!ENTITY more.label "altri">
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY AddToAddressBook.label "Aggiungi in rubrica…">
 <!ENTITY AddToAddressBook.accesskey "A">
