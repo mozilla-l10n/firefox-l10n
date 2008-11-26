@@ -231,8 +231,6 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY pageSourceCmd.label "메시지 소스 보기">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
-<!ENTITY searchMenu.label "찾기">
-<!ENTITY searchMenu.accesskey "S">
 <!ENTITY findCmd.label "메시지에서 찾기…">
 <!ENTITY findCmd.accesskey "F">
 <!ENTITY findCmd.key "f">
@@ -529,6 +527,8 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY contextPrintPreview.accesskey "v">
 <!ENTITY junkInfoButton.label "?">
 <!ENTITY loadRemoteContentButton2.label "그림 표시">
+
+<!ENTITY more.label			"모두 표시">
 <!ENTITY quickSearchCmd.key "k">
 
 <!ENTITY AddToAddressBook.label "주소록에 추가…">

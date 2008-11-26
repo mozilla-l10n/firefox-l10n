@@ -13,4 +13,3 @@
 <!ENTITY rss.wizardShortName        "RSS">
 <!ENTITY rss.wizardLongName         "RSS 피드와 블로그">
 <!ENTITY rss.wizardLongName.accesskey "R">
-<!ENTITY rss.hostName               "News &amp; Blogs"><!-- Don't localize it. -->

@@ -280,15 +280,16 @@
 <!ENTITY tableRow.label "행">
 <!ENTITY tableRows.label "행">
 <!ENTITY tableRow.accesskey "R">
-<!ENTITY tableRowAbove.label "위쪽 행">
-<!ENTITY tableRowBelow.label "아래쪽 행">
+<!ENTITY tableRowAbove.label "위쪽 행 추가">
+<!ENTITY tableRowAbove.accesskey "R">
+<!ENTITY tableRowBelow.label "아래쪽 행 추가">
 <!ENTITY tableRowBelow.accesskey "B">
 <!ENTITY tableColumn.label "열">
 <!ENTITY tableColumns.label "열">
 <!ENTITY tableColumn.accesskey "o">
-<!ENTITY tableColumnBefore.label "앞쪽 열">
+<!ENTITY tableColumnBefore.label "앞쪽 열 추가">
 <!ENTITY tableColumnBefore.accesskey "o">
-<!ENTITY tableColumnAfter.label "뒤쪽 열">
+<!ENTITY tableColumnAfter.label "뒤쪽 열 추가">
 <!ENTITY tableColumnAfter.accesskey "A">
 <!ENTITY tableCell.label "셀">
 <!ENTITY tableCells.label "셀">
@@ -304,8 +305,6 @@
 <!ENTITY tableCellAfter.accesskey "f">
 <!ENTITY tableDeleteMenu.label "삭제">
 <!ENTITY tableDeleteMenu.accesskey "D">
-<!ENTITY tableFix.label "표 양식 고정">
-<!ENTITY tableFix.accesskey "f">
 <!ENTITY tableJoinCells.label "j">
 <!ENTITY tableJoinCells.accesskey "j">
 <!ENTITY tableSplitCell.label "셀 병합">
@@ -315,7 +314,8 @@
 <!ENTITY tableProperties.label "표 설정…">
 <!ENTITY tableProperties.accesskey "o">
 <!ENTITY menuBar.tooltip "도구 모음">
-<!ENTITY compositionToolbar.tooltip "메일 쓰기 도구 모음">
+<!ENTITY compositionToolbar.tooltip "일반 도구 모음">
+<!ENTITY formatToolbar.tooltip "서식 도구 모음">
 <!ENTITY newToolbarCmd.tooltip "새 편집 페이지 만들기">
 <!ENTITY openToolbarCmd.label "열기">
 <!ENTITY openToolbarCmd.tooltip "로컬 파일 열기">
