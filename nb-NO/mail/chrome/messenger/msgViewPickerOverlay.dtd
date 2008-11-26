@@ -8,8 +8,8 @@
 <!ENTITY viewUnread.accesskey "U">
 <!ENTITY viewNotDeleted.label "Ikke slettet">
 <!ENTITY viewNotDeleted.accesskey "I">
-<!ENTITY viewTags.label "Merkelapper">
-<!ENTITY viewTags.accesskey "M">
+<!ENTITY viewTags.label "Etiketter">
+<!ENTITY viewTags.accesskey "t">
 <!ENTITY viewCustomViews.label "Egendefinerte visninger">
 <!ENTITY viewCustomViews.accesskey "E">
 <!ENTITY viewVirtualFolder.label "Lagre visning som mappe …">

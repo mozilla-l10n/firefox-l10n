@@ -47,7 +47,7 @@
 <!ENTITY bccField2.label "blind kopi ">
 <!ENTITY newsgroupsField2.label "gruppe ">
 <!ENTITY followupToField2.label "oppfølging ">
-<!ENTITY tagsHdr2.label "merkelapper ">
+<!ENTITY tagsHdr2.label "etiketter ">
 <!ENTITY dateField2.label "dato ">
 <!ENTITY userAgentField2.label "applikasjon ">
 <!ENTITY referencesField2.label "referanser ">
