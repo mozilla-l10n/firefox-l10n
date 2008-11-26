@@ -19,8 +19,8 @@
         <rdf:li> <rdf:Description nc:name="Bezpečnostný modul" nc:link="glossary.xhtml#security_module"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Bezpečnostný token" nc:link="glossary.xhtml#security_token"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="CA" nc:link="glossary.xhtml#ca"/> </rdf:li>
-        <rdf:li> <rdf:Description nc:name="CA certifikát" nc:link="glossary.xhtml#ca_certificate"/> </rdf:li>  
-        <rdf:li> <rdf:Description nc:name="Certifikačná autorita (CA)" nc:link="glossary.xhtml#certificate_authority"/> </rdf:li>  
+        <rdf:li> <rdf:Description nc:name="CA certifikát" nc:link="glossary.xhtml#ca_certificate"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="Certifikačná autorita (CA)" nc:link="glossary.xhtml#certificate_authority"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Certifikát" nc:link="glossary.xhtml#certificate"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Certifikát podpisovaného objektu" nc:link="glossary.xhtml#object-signing_certificate"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Cookie" nc:link="glossary.xhtml#cookie"/> </rdf:li>
@@ -76,7 +76,7 @@
         <rdf:li> <rdf:Description nc:name="Pomocná aplikácia" nc:link="glossary.xhtml#helper_application"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Pomôcka" nc:link="glossary.xhtml#tooltip"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="POP" nc:link="glossary.xhtml#pop"/> </rdf:li>
-        <rdf:li> <rdf:Description nc:name="Príznačný názov (PN)" nc:link="glossary.xhtml#distinguished_name"/> </rdf:li>      
+        <rdf:li> <rdf:Description nc:name="Príznačný názov (PN)" nc:link="glossary.xhtml#distinguished_name"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Proxy" nc:link="glossary.xhtml#proxy"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Rámec" nc:link="glossary.xhtml#frame"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Reťazový certifikát" nc:link="glossary.xhtml#certificate_chain"/> </rdf:li>
@@ -90,7 +90,7 @@
         <rdf:li> <rdf:Description nc:name="Spoofing" nc:link="glossary.xhtml#spoofing"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Správca certifikátov" nc:link="glossary.xhtml#certificate_manager"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Správca cookie" nc:link="glossary.xhtml#cookie_manager"/> </rdf:li>
-        <rdf:li> <rdf:Description nc:name="Správca hesiel" nc:link="glossary.xhtml#password_manager"/> </rdf:li> 
+        <rdf:li> <rdf:Description nc:name="Správca hesiel" nc:link="glossary.xhtml#password_manager"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="SSL" nc:link="glossary.xhtml#ssl"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="SSL certifikát klienta" nc:link="glossary.xhtml#client_ssl_certificate"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="SSL certifikát servera" nc:link="glossary.xhtml#server_ssl_certificate"/> </rdf:li>
@@ -125,6 +125,6 @@
         <rdf:li> <rdf:Description nc:name="Zásuvný modul" nc:link="glossary.xhtml#plug-in"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
-  </rdf:Description>       
+  </rdf:Description>
 
 </rdf:RDF>

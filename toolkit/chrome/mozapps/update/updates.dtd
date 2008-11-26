@@ -4,7 +4,7 @@
 <!ENTITY  window.macWidth                 "39em">
 
 <!ENTITY  checking.title                  "Zisťujú sa aktualizácie">
-<!ENTITY  updateCheck.label               "Vyhľadáva sa novšia verzia &brandShortName;…">
+<!ENTITY  updateCheck.label               "Vyhľadáva sa novšia verzia programu &brandShortName;…">
 
 <!ENTITY  noupdatesfound.title            "Nenájdené žiadne aktualizácie">
 <!ENTITY  noupdatesautoenabled.intro      "Neboli nájdené žiadne aktualizácie. &brandShortName; bude

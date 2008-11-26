@@ -85,7 +85,7 @@
 <!ENTITY showAbToolbarCmd.accesskey                     "A">
 
 <!ENTITY showCardPane.label                             "Panel súhrnu karty">
-<!ENTITY showCardPane.accesskey                         "s">
+<!ENTITY showCardPane.accesskey                         "h">
 
 <!ENTITY menu_ShowNameAs.label                          "Meno zobraziť ako">
 <!ENTITY menu_ShowNameAs.accesskey                      "M">
