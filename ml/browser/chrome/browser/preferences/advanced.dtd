@@ -11,16 +11,16 @@
 <!ENTITY useSmoothScrolling.accesskey "m">
 <!ENTITY checkSpelling.label "ഞാന്‍ ടൈപ്പ്‌ ചെയ്യുന്നതനുസരിച്ച്‌ സ്പെല്ലിംഗ്‌ ചെക്ക്‌ ചെയ്യുക ">
 <!ENTITY checkSpelling.accesskey "t">
-<!ENTITY languages.label "ഭാഷകള്‍ ">
-<!ENTITY chooseLanguage.label "പേജുകള്‍ കാണുവാന്‍ നിങ്ങള്‍ക്ക്‌ താല്‍പര്യമുള്ള ഭാഷ തെരഞ്ഞെടുക്കുക ">
-<!ENTITY chooseButton.label "തിരഞ്ഞെടുക്കുക ">
-<!ENTITY chooseButton.accesskey "o">
+<!-- ENTITY languages.label "ഭാഷകള്‍ " -->
+<!-- ENTITY chooseLanguage.label "പേജുകള്‍ കാണുവാന്‍ നിങ്ങള്‍ക്ക്‌ താല്‍പര്യമുള്ള ഭാഷ തെരഞ്ഞെടുക്കുക " -->
+<!-- ENTITY chooseButton.label "തിരഞ്ഞെടുക്കുക " -->
+<!-- ENTITY chooseButton.accesskey "o" -->
 <!ENTITY networkTab.label "നെറ്റ്‌വര്‍ക്ക്‌">
 <!ENTITY connection.label "കണക്ഷന്‍">
 <!ENTITY connectionDesc.label "&brandShortName; ഇന്റര്‍നെറ്റുമായി എങ്ങനെ ചെയ്യണമെന്നത്‌ കോണ്‍ഫിഗര്‍ ചെയ്യുക ">
 <!ENTITY connectionSettings.label "ക്രമീകരണങ്ങള്‍ ">
 <!ENTITY connectionSettings.accesskey "e">
-<!ENTITY cache.label "കേഷ്‌ ">
+<!-- ENTITY cache.label "കേഷ്‌ " -->
 <!ENTITY useCacheBefore.label "ഇത്രവരെ ഉപയോഗിക്കുക">
 <!ENTITY useCacheBefore.accesskey "U">
 <!ENTITY useCacheAfter.label "കേഷിനു വേണ്ടിയുള്ള ഇട MB-യില്‍ ">
@@ -48,7 +48,7 @@
 <!ENTITY useTLS1.label "TLS 1.0 ഉപയോഗിക്കുക">
 <!ENTITY useTLS1.accesskey "1">
 <!ENTITY certificates.label "സര്‍റ്റിഫിക്കറ്റുകള്‍">
-<!ENTITY certselect.description "വെബ്‌ സൈറ്റിന്‌ സര്‍റ്റിഫിക്കറ്റ്‌ ആവശ്യമായി വരുമ്പോള്‍ ">
+<!-- ENTITY certselect.description "വെബ്‌ സൈറ്റിന്‌ സര്‍റ്റിഫിക്കറ്റ്‌ ആവശ്യമായി വരുമ്പോള്‍ " -->
 <!ENTITY certs.auto "ഒന്ന് തനിയെ തെരഞ്ഞെടുക്കുക ">
 <!ENTITY certs.auto.accesskey "l">
 <!ENTITY certs.ask "ഒരോ തവണയും ചോദിക്കുക">
@@ -57,7 +57,7 @@
 <!ENTITY viewCerts.accesskey "s">
 <!ENTITY viewCRLs.label "റിവോക്കേഷന്‍ ലിസ്റ്റ്‌ ">
 <!ENTITY viewCRLs.accesskey "R">
-<!ENTITY verify.label "വേരിഫിക്കേഷന്‍">
-<!ENTITY verify.accesskey "V">
+<!-- ENTITY verify.label "വേരിഫിക്കേഷന്‍" -->
+<!-- ENTITY verify.accesskey "V" -->
 <!ENTITY viewSecurityDevices.label "സുരക്ഷാ ഉപകരണങ്ങള്‍ ">
 <!ENTITY viewSecurityDevices.accesskey "y">
