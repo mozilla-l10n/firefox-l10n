@@ -37,7 +37,6 @@
 <!ENTITY ListDescription.label          "설명:">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "아래의 목록을 입력하거나 끌어서 가져오기:">
-<!ENTITY RemoveButton.label             "제거">
 <!ENTITY UpButton.label                 "위로 이동">
 <!ENTITY DownButton.label               "아래로 이동">
 <!-- Access Keys -->

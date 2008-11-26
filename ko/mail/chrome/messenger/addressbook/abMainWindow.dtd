@@ -32,11 +32,6 @@
 <!ENTITY printCardViewCmd.key "P">
 <!ENTITY printAddressBook.label "주소록 인쇄…">
 <!ENTITY printAddressBook.accesskey "A">
-<!ENTITY quitApplicationCmdWin.label "닫기">
-<!ENTITY quitApplicationCmdWin.accesskey "x">
-<!ENTITY quitApplicationCmd.label "닫기">
-<!ENTITY quitApplicationCmd.accesskey "Q">
-<!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY editMenu.label "편집">
 <!ENTITY editMenu.accesskey "e">
 <!ENTITY undoCmd.label "실행 취소">
@@ -55,7 +50,6 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "p">
 <!ENTITY deleteCmd.label "삭제">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "d">
 <!ENTITY deleteAbCmd.label "주소록 삭제">
 <!ENTITY deleteCardCmd.label "명함 삭제">
@@ -107,7 +101,6 @@
 <!ENTITY exportCmd.label "내보내기…">
 <!ENTITY exportCmd.accesskey "E">
 <!ENTITY preferencesCmd.label "설정…">
-<!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "설정">
 <!ENTITY preferencesCmdUnix.accesskey "n">

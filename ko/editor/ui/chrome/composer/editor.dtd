@@ -5,7 +5,7 @@
 <!ENTITY compositionToolbarCmd.label "편집 도구 모음">
 <!ENTITY compositionToolbarCmd.accesskey "c">
 <!ENTITY formattingToolbarCmd.label "형식 도구 모음">
-<!ENTITY formattingtb.accesskey "f">
+<!ENTITY formattingToolbarCmd.accesskey "F">
 <!ENTITY editmodeToolbarCmd.label "편집 모드 도구 모음">
 <!ENTITY editmodeToolbarCmd.accesskey "E">
 <!ENTITY formatMenu.label "서식">

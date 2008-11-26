@@ -5,13 +5,9 @@
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "답을 보내는 메시지 폴더에 답장 저장하기">
 <!ENTITY fccReplyFollowsParent.accesskey "c">
-<!ENTITY chooseFolderButton.label "폴더 선택…">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "숨은 참조 외 주소:">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY specialFolderTitle.label "특정 폴더">
-<!ENTITY draftMailFolder.label "임시 편지함에 보관:">
-<!ENTITY templateMailFolder.label "템플릿 편지함에 보관:">
 <!ENTITY saveMessageDlg.label "메시지 저장 시 대화 상자 보이기">
 <!ENTITY saveMessageDlg.accesskey "w">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

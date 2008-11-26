@@ -31,13 +31,6 @@
 <!ENTITY openJunkLog.accesskey "h">
 <!ENTITY resetTrainingData.label "필터 초기화">
 <!ENTITY resetTrainingData.accesskey "D">
-<!ENTITY antiVirusCaption.label "백신">
-<!ENTITY paswords.label "암호">
-<!ENTITY emailScams.label "사기성 메일">
-<!ENTITY junkMail.label "스팸 메일">
-<!ENTITY itemIntrusions.label "침해">
-<!ENTITY itemIntrusionsAndPasswords.label "침해와 암호">
-<!ENTITY itemJunkMail.label "스팸 메일">
 <!ENTITY manualMark.accesskey "W">
 <!ENTITY manualMarkModeMove.accesskey "o">
 <!ENTITY manualMarkModeDelete.accesskey "t">

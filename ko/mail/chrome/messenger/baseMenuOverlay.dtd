@@ -7,7 +7,7 @@
 <!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY releaseCmd.label "온라인 제품 소개서">
 <!ENTITY releaseCmd.accesskey "R">
-<!ENTITY openHelp.label "도움말 목차">
+<!ENTITY openHelp.label "&brandShortName; 목차">
 <!ENTITY openHelp.accesskey "H">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "&brandShortName; 도움말">

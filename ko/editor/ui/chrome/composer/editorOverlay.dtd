@@ -6,9 +6,9 @@
 <!ENTITY openFileCmd.label "파일 열기…">
 <!ENTITY openFileCmd.accesskey "o">
 <!ENTITY openFileCmd.key "o">
-<!ENTITY openremoteCmd.label "주소 열기…">
-<!ENTITY openremoteCmd.accesskey "l">
-<!ENTITY openremoteCmd.key "l">
+<!ENTITY openRemoteCmd.label "주소 열기…">
+<!ENTITY openRemoteCmd.accesskey "l">
+<!ENTITY openRemoteCmd.key "l">
 <!ENTITY fileRecentMenu.label "최근 페이지">
 <!ENTITY fileRecentMenu.accesskey "r">
 <!ENTITY fileRevert.label "마지막 저장 문서로 바꾸기">
@@ -20,6 +20,7 @@
 <!ENTITY saveAsCmd.accesskey "A">
 <!ENTITY publishCmd.label "공개">
 <!ENTITY publishCmd.accesskey "b">
+<!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "다른 이름으로 공개…">
 <!ENTITY publishAsCmd.accesskey "h">
 <!ENTITY exportToTextCmd.label "텍스트로 변환…">
@@ -32,32 +33,23 @@
 <!ENTITY sendPageCmd.accesskey "d">
 <!ENTITY printSetupCmd.label "인쇄 화면 설정…">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "인쇄 미리 보기">
-<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "인쇄…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.key "p">
 <!ENTITY closeCmd.label "닫기">
 <!ENTITY closeCmd.accesskey "c">
 <!ENTITY closeCmd.key "w">
-<!ENTITY exitCmd.label "종료">
-<!ENTITY exitCmd.accesskey "q">
-<!ENTITY exitCmd.key "q">
 <!ENTITY editMenu.label "편집">
 <!ENTITY editMenu.accesskey "e">
 <!ENTITY pasteNoFormatting.label "포맷없이 붙여넣기">
 <!ENTITY pasteNoFormatting.accesskey "o">
+<!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "다른 이름으로 붙여넣기">
 <!ENTITY pasteAs.accesskey "a">
 <!ENTITY publishSettings.label "공개할 사이트 설정…">
 <!ENTITY publishSettings.accesskey "b">
-<!ENTITY pasteColumnsCmd.label "열">
-<!ENTITY pasteColumnsCmd.accesskey "c">
-<!ENTITY pasteLinkCmd.label "링크">
-<!ENTITY pasteLinkCmd.accesskey "l">
 <!ENTITY pasteAsQuotationCmd.label "인용 형식으로 붙여넣기">
 <!ENTITY pasteAsQuotationCmd.accesskey "q">
-<!ENTITY pasteAsQuotationCmd.key "v">
 <!ENTITY findCmd.label "찾아서 바꾸기…">
 <!ENTITY findCmd.accesskey "f">
 <!ENTITY findCmd.key "f">
@@ -74,13 +66,9 @@
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd.label "맞춤법 검사">
 <!ENTITY checkSpellingCmd.accesskey "h">
-<!ENTITY checkSpellingCmd.keybinding "k">
+<!ENTITY checkSpellingCmd.key "k">
 <!ENTITY validateCmd.label "HTML 검사">
 <!ENTITY validateCmd.accesskey "v">
-<!ENTITY viewPageSource.label "페이지 소스">
-<!ENTITY viewPageSource.accesskey "s">
-<!ENTITY viewParagraphMarks.label "문단 표시">
-<!ENTITY viewParagraphMarks.accesskey "p">
 <!ENTITY insertMenu.label "삽입">
 <!ENTITY insertMenu.accesskey "i">
 <!ENTITY insertLinkCmd.label "링크…">
@@ -91,7 +79,7 @@
 <!ENTITY insertImageCmd.label "그림…">
 <!ENTITY insertImageCmd.accesskey "i">
 <!ENTITY insertHLineCmd.label "가로선">
-<!ENTITY insertHlineCmd.accesskey "o">
+<!ENTITY insertHLineCmd.accesskey "o">
 <!ENTITY insertTableCmd.label "표…">
 <!ENTITY insertTableCmd.accesskey "t">
 <!ENTITY insertHTMLCmd.label "HTML…">
@@ -133,10 +121,12 @@
 <!ENTITY fontFixedWidth.label "고정폭">
 <!ENTITY fontFixedWidth.accesskey "x">
 <!ENTITY fontFixedWidth.key "t">
-<!ENTITY fontHelveticaFont.label "Helvetica, Arial">
-<!ENTITY fontHelveticaFont.accesskey "l">
+<!ENTITY fontHelvetica.label "Helvetica, Arial">
+<!ENTITY fontHelvetica.accesskey "l">
 <!ENTITY fontTimes.label "순서">
 <!ENTITY fontTimes.accesskey "t">
+<!ENTITY fontSizeMenu.label "크기">
+<!ENTITY fontSizeMenu.accesskey "z">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "c">
 <!ENTITY FontSizeSelect.tooltip "글자 크기 선택">
@@ -200,6 +190,8 @@
 <!ENTITY formatFontColor.accesskey "c">
 <!ENTITY tableOrCellColor.label "표 및 셀 배경색…">
 <!ENTITY tableOrCellColor.accesskey "B">
+<!ENTITY formatRemoveStyles.key "Y">
+<!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "내부 링크 없애기">
 <!ENTITY formatRemoveNamedAnchors.accesskey "R">
 <!ENTITY formatRemoveNamedAnchors.key "a">
@@ -223,8 +215,6 @@
 <!ENTITY paragraphAddressCmd.accesskey "a">
 <!ENTITY paragraphPreformatCmd.label "Pre 태그">
 <!ENTITY paragraphPreformatCmd.accesskey "f">
-<!ENTITY paragraphBlockquoteCmd.label "인용 태그">
-<!ENTITY paragraphBlockquoteCmd.accesskey "b">
 <!ENTITY formatlistMenu.label "목록">
 <!ENTITY formatlistMenu.accesskey "l">
 <!ENTITY noneCmd.label "없음">
@@ -244,8 +234,6 @@
 <!ENTITY bodyTextCmd.accesskey "T">
 <!ENTITY advancedPropertiesCmd.label "고급 설정">
 <!ENTITY advancedPropertiesCmd.accesskey "v">
-<!ENTITY stylesheetMenu.label "스타일시트 적용">
-<!ENTITY stylesheetMenu.accesskey "y">
 <!ENTITY alignMenu.label "맞춤">
 <!ENTITY alignMenu.accesskey "">
 <!ENTITY alignLeft.label "왼쪽 맞춤">
@@ -280,31 +268,37 @@
 <!ENTITY tableSelectMenu.label "선택">
 <!ENTITY tableSelectMenu.accesskey "s">
 <!ENTITY tableSelectMenu2.label "표 선택">
+<!ENTITY tableSelectMenu2.accesskey "S">
 <!ENTITY tableInsertMenu2.label "표 삽입">
+<!ENTITY tableInsertMenu2.accesskey "I">
 <!ENTITY tableDeleteMenu2.label "표 삭제">
+<!ENTITY tableDeleteMenu2.accesskey "D">
 <!ENTITY tableInsertMenu.label "삽입">
-<!ENTITY tableinsertMenu.accesskey "i">
+<!ENTITY tableInsertMenu.accesskey "I">
 <!ENTITY tableTable.label "표">
 <!ENTITY tableTable.accesskey "t">
 <!ENTITY tableRow.label "행">
 <!ENTITY tableRows.label "행">
-<!ENTITY tablerow.accesskey "r">
+<!ENTITY tableRow.accesskey "R">
 <!ENTITY tableRowAbove.label "위쪽 행">
 <!ENTITY tableRowBelow.label "아래쪽 행">
-<!ENTITY tableRowBelow.accesskey "b">
+<!ENTITY tableRowBelow.accesskey "B">
 <!ENTITY tableColumn.label "열">
 <!ENTITY tableColumns.label "열">
 <!ENTITY tableColumn.accesskey "o">
 <!ENTITY tableColumnBefore.label "앞쪽 열">
+<!ENTITY tableColumnBefore.accesskey "o">
 <!ENTITY tableColumnAfter.label "뒤쪽 열">
-<!ENTITY tableColumnAfter.accesskey "a">
+<!ENTITY tableColumnAfter.accesskey "A">
 <!ENTITY tableCell.label "셀">
 <!ENTITY tableCells.label "셀">
-<!ENTITY tableCell.accesskey "c">
+<!ENTITY tableCell.accesskey "C">
 <!ENTITY tableCellContents.label "셀 내용">
 <!ENTITY tableCellContents.accesskey "n">
 <!ENTITY tableAllCells.label "모든 셀">
+<!ENTITY tableAllCells.accesskey "A">
 <!ENTITY tableCellBefore.label "앞쪽 셀">
+<!ENTITY tableCellBefore.accesskey "C">
 <!ENTITY tableAllCells.accesskey "a">
 <!ENTITY tableCellAfter.label "뒤쪽 셀">
 <!ENTITY tableCellAfter.accesskey "f">
@@ -322,7 +316,6 @@
 <!ENTITY tableProperties.accesskey "o">
 <!ENTITY menuBar.tooltip "도구 모음">
 <!ENTITY compositionToolbar.tooltip "메일 쓰기 도구 모음">
-<!ENTITY formatToolbar.tooltip "도구 모음 설정">
 <!ENTITY newToolbarCmd.tooltip "새 편집 페이지 만들기">
 <!ENTITY openToolbarCmd.label "열기">
 <!ENTITY openToolbarCmd.tooltip "로컬 파일 열기">
@@ -346,7 +339,6 @@
 <!ENTITY linkToolbarCmd.tooltip "새 링크를 삽입하거나 선택된 링크 편집">
 <!ENTITY anchorToolbarCmd.label "내부 링크">
 <!ENTITY anchorToolbarCmd.tooltip "새 내부 링크를 삽입하거나 선택된 내부 링크 편집">
-<!ENTITY textColorCaption.label "글자색">
 <!ENTITY TextColorButton.tooltip "글자색 선택">
 <!ENTITY BackgroundColorButton.tooltip "배경색 선택">
 <!ENTITY throbber.tooltip "&vendorShortName; 홈 페이지 가기">
@@ -366,13 +358,6 @@
 <!ENTITY alignCenterButton.tooltip "가운데로 맞춤">
 <!ENTITY alignRightButton.tooltip "오른쪽으로 맞춤">
 <!ENTITY alignjustifyButton.tooltip "양쪽으로 맞춤">
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
-<!ENTITY colorPicker.default.label "사용자 기본색">
-<!ENTITY colorPicker.default.accesskey "r">
-<!ENTITY colorLabel.label "색:">
-<!ENTITY ok.label "확인">
 <!ENTITY NormalModeTab.label "기본">
 <!ENTITY NormalMode.label "일반 편집 모드">
 <!ENTITY NormalMode.accesskey "n">

@@ -5,15 +5,12 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "폴더…">
 <!ENTITY newFolderCmd.accesskey "F">
-<!ENTITY newTabCmd.label "새 탭">
-<!ENTITY newTabCmd.accesskey "T">
 <!ENTITY closeTabCmd.label "탭 닫기">
 <!ENTITY closeTabCmd.accesskey "e">
 <!ENTITY newVirtualFolderCmd.label "저장된 메시지 검색…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newAccountCmd.label "계정…">
 <!ENTITY newAccountCmd.accesskey "A">
-<!ENTITY openMessageMenu.label "열기">
 <!ENTITY openMessageFileCmd.label "메시지 열기…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "첨부">
@@ -44,7 +41,7 @@
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "폴더 압축">
-<!ENTITY compactFolder.accesskey "F">
+<!ENTITY compactFolders.accesskey "F">
 <!ENTITY emptyTrashCmd.label "지운 편지함 비우기">
 <!ENTITY emptyTrashCmd.accesskey "y">
 <!ENTITY importCmd.label "가져오기…">
@@ -66,7 +63,6 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "인쇄 미리 보기">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "인쇄 화면 설정…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY deleteMsgCmd.label "메시지 삭제">
@@ -110,12 +106,12 @@
 <!ENTITY accountManagerCmd.label "계정…">
 <!ENTITY accountManagerCmd.accesskey "c">
 <!ENTITY accountManagerCmdUnix.accesskey "A">
-<!ENTITY undoDeleteMsgCmd.label "메시지 삭제 실행 취소">
-<!ENTITY redoDeleteMsgCmd.label "메시지 삭제 재실행">
-<!ENTITY undoMoveMsgCmd.label "메시지 이동 실행 취소">
-<!ENTITY redoMoveMsgCmd.label "메시지 이동 재실행">
-<!ENTITY undoCopyMsgCmd.label "메시지 복사 실행 취소">
-<!ENTITY redoCopyMsgCmd.label "메시지 복사 재실행">
+<!ENTITY undoDeleteMsgCmd.label "삭제 실행 취소">
+<!ENTITY redoDeleteMsgCmd.label "삭제 재실행">
+<!ENTITY undoMoveMsgCmd.label "이동 실행 취소">
+<!ENTITY redoMoveMsgCmd.label "이동 재실행">
+<!ENTITY undoCopyMsgCmd.label "복사 실행 취소">
+<!ENTITY redoCopyMsgCmd.label "복사 재실행">
 <!ENTITY undoDefaultCmd.label "실행 취소">
 <!ENTITY undoDefaultCmd.accesskey "U">
 <!ENTITY redoDefaultCmd.label "재실행">
@@ -132,8 +128,6 @@
 <!ENTITY messagePaneWide.accesskey "W">
 <!ENTITY messagePaneVertical.label "아래로 보기">
 <!ENTITY messagePaneVertical.accesskey "V">
-<!ENTITY threadPaneWide.label "리스트 넓게 보기">
-<!ENTITY threadPaneWide.accesskey "i">
 <!ENTITY showMessageCmd.label "메시지창">
 <!ENTITY showMessageCmd.accesskey "M">
 <!ENTITY sortMenu.label "정렬">
@@ -170,15 +164,12 @@
 <!ENTITY sortUnthreaded.accesskey "h">
 <!ENTITY groupBySort.label "정렬 방식으로 묶기">
 <!ENTITY groupBySort.accesskey "G">
-<!ENTITY groupBySortCmd.key "G">
 <!ENTITY msgsMenu.label "메시지">
 <!ENTITY msgsMenu.accesskey "M">
 <!ENTITY threads.label "글타래">
 <!ENTITY threads.accesskey "e">
 <!ENTITY allMsgsCmd.label "모두">
 <!ENTITY allMsgsCmd.accesskey "A">
-<!ENTITY expandOrCollapseMenu.label "보이기/감추기">
-<!ENTITY expandOrCollapseMenu.accesskey "x">
 <!ENTITY expandAllThreadsCmd.label "모든 글타래 보이기">
 <!ENTITY expandAllThreadsCmd.accesskey "E">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -209,22 +200,34 @@
 <!ENTITY bodyAsPlaintext.accesskey "P">
 <!ENTITY viewAttachmentsInlineCmd.label "첨부 보기">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "A">
-<!ENTITY reloadCmd.label "새로 고침">
-<!ENTITY reloadCmd.accesskey "R">
-<!ENTITY stopCmd.label "중지">
-<!ENTITY stopCmd.accesskey "S">
-<!ENTITY textZoomEnlargeCmd.label "글자 크기 크게">
-<!ENTITY textZoomEnlargeCmd.accesskey "I">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
-<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY textZoomReduceCmd.label "글자 크기 작게">
-<!ENTITY textZoomReduceCmd.accesskey "D">
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomResetCmd.commandkey "0">
-<!ENTITY textZoomResetCmd.label "표준">
-<!ENTITY textZoomResetCmd.accesskey "N">
-<!ENTITY textSize.label "글자 크기">
-<!ENTITY textSize.accesskey "x">
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty. -->
+
+<!ENTITY fullZoomEnlargeCmd.label		"확대">
+<!ENTITY fullZoomEnlargeCmd.accesskey		"I">
+<!ENTITY fullZoomEnlargeCmd.commandkey		"+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2		"="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3		";"><!-- JIS 키보드용 -->
+
+<!ENTITY fullZoomReduceCmd.label		"축소">
+<!ENTITY fullZoomReduceCmd.accesskey		"O">
+<!ENTITY fullZoomReduceCmd.commandkey		"-">
+<!ENTITY fullZoomReduceCmd.commandkey2		"">
+
+<!ENTITY fullZoomResetCmd.label			"원래 크기">
+<!ENTITY fullZoomResetCmd.accesskey		"R">
+<!ENTITY fullZoomResetCmd.commandkey		"0">
+<!ENTITY fullZoomResetCmd.commandkey2		"">
+
+<!ENTITY fullZoomToggleCmd.label		"글자 크기만 변경">
+<!ENTITY fullZoomToggleCmd.accesskey		"T">
+<!ENTITY fullZoom.label				"확대">
+<!ENTITY fullZoom.accesskey			"Z">
+
 <!ENTITY pageSourceCmd.label "메시지 소스 보기">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
@@ -257,8 +260,8 @@
 <!ENTITY nextStarredMsgCmd.label "별표 메시지">
 <!ENTITY nextStarredMsgCmd.accesskey "S">
 <!ENTITY nextUnreadThread.label "읽지 않은 다음 글타래">
-<!ENTITY nextUnreadThreadCmd.accesskey "T">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "T">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "이전">
 <!ENTITY prevMenu.accesskey "P">
 <!ENTITY prevMsgCmd.label "메시지">
@@ -307,15 +310,15 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "메시지로부터 규칙 만들기">
 <!ENTITY createFilter.accesskey "a">
-<!ENTITY moveMsgMenu.label "이동">
-<!ENTITY moveMsgMenu.accesskey "M">
-<!ENTITY moveCopyMsgRecentMenu.label "최근">
+<!ENTITY moveMsgToMenu.label "다른 폴더로 이동">
+<!ENTITY moveMsgToMenu.accesskey "M">
+<!ENTITY moveCopyMsgRecentMenu.label "이동 내역">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY copyMessageLocation.label "메시지 위치 복사">
 <!ENTITY copyMessageLocation.accesskey "M">
-<!ENTITY copyMsgMenu.label "복사">
-<!ENTITY copyMsgMenu.accesskey "C">
-<!ENTITY moveToFolderAgain.label "다시 이동">
+<!ENTITY copyMsgToMenu.label "다른 폴더로 복사">
+<!ENTITY copyMsgToMenu.accesskey "C">
+<!ENTITY moveToFolderAgain.label "같은 폴더로 이동">
 <!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "글타래 무시">
@@ -346,8 +349,6 @@
 <!ENTITY markAsReadCmd.label "읽은 상태로 표시">
 <!ENTITY markAsReadCmd.accesskey "R">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "읽지 않은 상태로 표시">
-<!ENTITY markAsUnreadCmd.accesskey "U">
 <!ENTITY markThreadAsReadCmd.label "글타래 읽음 표시">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -372,7 +373,6 @@
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY windowMenu.label "창">
-<!ENTITY windowMenu.accesskey "W">
 <!ENTITY tasksMenu.label "도구">
 <!ENTITY tasksMenu.accesskey "T">
 <!ENTITY messengerCmd.label "메일 및 뉴스 그룹">
@@ -401,12 +401,10 @@
 <!ENTITY printButton.label "인쇄">
 <!ENTITY stopButton.label "중지">
 <!ENTITY throbberItem.title "활성도 지시자">
-<!ENTITY updatesItem.title "업데이트">
 <!ENTITY junkButton.label "스팸">
 <!ENTITY notJunkButton.label "정상">
 <!ENTITY addressBookButton.label "주소록">
 <!ENTITY advancedButton.tooltip "고급 메시지 검색">
-<!ENTITY clearButton.tooltip "검색 조건을 삭제하고 모든 메시지 보기">
 <!ENTITY getMsgButton.tooltip "새 메시지 받기">
 <!ENTITY getAllNewMsgCmd.label "새 메시지 모두 받기">
 <!ENTITY getAllNewMsgCmd.accesskey "G">
@@ -463,8 +461,6 @@
 
 <!ENTITY SearchNameOrEmail.label "포함된 이름이나 메일 주소:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
-<!ENTITY clearButton.label "삭제">
-<!ENTITY clearButton.accesskey "C">
 <!ENTITY searchSubjectMenu.label "제목">
 <!ENTITY searchRecipient.label "받는 사람 또는 참조">
 <!ENTITY searchSubjectOrRecipientMenu.label "제폭, 받는 사람 또는 참조">
@@ -479,7 +475,6 @@
 <!ENTITY statusColumn.label "메일 상태">
 <!ENTITY sizeColumn.label "크기">
 <!ENTITY junkStatusColumn.label "스팸 상태">
-<!ENTITY linesColumn.label "행">
 <!ENTITY unreadColumn.label "읽지 않음">
 <!ENTITY totalColumn.label "전체">
 <!ENTITY readColumn.label "읽음">
@@ -532,8 +527,6 @@
 <!ENTITY contextPrint.accesskey "P">
 <!ENTITY contextPrintPreview.label "인쇄 미리 보기">
 <!ENTITY contextPrintPreview.accesskey "v">
-<!ENTITY contextDelete.label "삭제">
-<!ENTITY contextDelete.accesskey "D">
 <!ENTITY junkInfoButton.label "?">
 <!ENTITY loadRemoteContentButton2.label "그림 표시">
 <!ENTITY quickSearchCmd.key "k">
@@ -552,8 +545,6 @@
 <!ENTITY CopyEmailAddress.accesskey "C">
 <!ENTITY CreateFilterFrom.label "규칙 만들기…">
 <!ENTITY CreateFilterFrom.accesskey "F">
-<!ENTITY BlockAddress.label "차단 주소">
-<!ENTITY BlockAddress.accesskey "A">
 <!ENTITY reportPhishingURL.label "사기 메일 보고">
 <!ENTITY reportPhishingURL.accesskey "o">
 <!ENTITY statusText.label "문서 완료">

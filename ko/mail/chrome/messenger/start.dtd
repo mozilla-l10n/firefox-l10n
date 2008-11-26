@@ -15,10 +15,9 @@
 <!ENTITY startpage.privacyProtectURL "http://www.mozilla.or.kr/products/thunderbird/privacy-protection.html">
 <!ENTITY startpage.moreInfo "상세 정보">
 <!ENTITY startpage.help "Thunderbird 도움말">
-<!ENTITY startpage.helpInfo "자주 질문되는 사항 및 팁, 일반 정보를 얻으려면 다음 사이트를 방문하십시오:">
-<!ENTITY startpage.helpURL "http://www.mozilla.or.kr/products/thunderbird/">
+<!ENTITY startpage.helpInfo "자주 질문하는 사항 및 팁, 일반 정보를 얻으려면 다음 사이트를 방문하십시오:">
+<!ENTITY startpage.helpURL "http://www.mozilla.or.kr/ko/products/thunderbird/">
 <!ENTITY startpage.page "Thunderbird 제품 페이지">
 <!ENTITY startpage.pageInfo "제품에 대한 소개를 보시려면 다음 사이트를 방문하십시오:">
-<!ENTITY startpage.pageURL "http://www.mozilla.or.kr/products/thunderbird/">
+<!ENTITY startpage.pageURL "http://www.mozilla.or.kr/ko/products/thunderbird/">
 <!ENTITY startpage.extra "<p>mozdev 의 <a href='http://dictionaries.mozdev.org/installation.html'>모질라를 위한 사전</a> 에서 철자 검사 사전을 받을 수 있습니다. 아직 한국어는 지원되지 않습니다.</p>">
-<!ENTITY startpage.poweredByGecko "Powered by Gecko.">

@@ -5,13 +5,11 @@
 <!ENTITY neverEncrypt.label "암호화 사용하지 않음">
 <!ENTITY alwaysEncryptMessage.label "암호화 사용함 (개인 인증서 필요)">
 <!ENTITY encryptionCert.message "다음 개인 인증서 사용:">
-<!ENTITY encryptionCert.notselected "인증을 설정하지 않음">
 <!ENTITY certificate.button "선택…">
 <!ENTITY certificate_clear.button "제거">
 <!ENTITY signingGroupTitle.label "디지털 서명">
 <!ENTITY signMessage.label "디지털 서명 메시지 (기본)">
 <!ENTITY signingCert.message "다음 개인 인증서 사용:">
-<!ENTITY signingCert.notselected "인증을 설정하지 않음">
 <!ENTITY certificates.label     "인증서 관리">
 <!ENTITY managecerts.label      "인증서 및 보안 장치 관리">
 <!ENTITY managecerts.accesskey  "V">

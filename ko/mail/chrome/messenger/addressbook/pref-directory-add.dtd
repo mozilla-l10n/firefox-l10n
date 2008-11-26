@@ -11,12 +11,9 @@
 <!ENTITY directorySecure.accesskey "U">
 <!ENTITY directoryLogin.label "DN 바인드:">
 <!ENTITY directoryLogin.accesskey "i">
-<!ENTITY advancedOptionsButton.label "고급 설정">
-<!ENTITY advancedOptionsButton.accesskey "a">
 <!ENTITY General.tab "일반">
 <!ENTITY Offline.tab "오프라인">
 <!ENTITY Advanced.tab "고급">
-<!ENTITY advancedOptionsTitle.label "고급 설정">
 <!ENTITY portNumber.label "포트 번호:">
 <!ENTITY portNumber.accesskey "p">
 <!ENTITY searchFilter.label "필터 검색:">

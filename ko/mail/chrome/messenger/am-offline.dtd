@@ -6,7 +6,6 @@
 <!ENTITY offlineNotDownload.label "다음 지정 용향 이상 메시지 저장 안함:">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY kb.label "KB">
-<!ENTITY days.label "일">
 <!ENTITY daysOld.label "일 전">
 <!ENTITY message.label "메시지">
 <!ENTITY nntpNotDownloadRead.label "메시지 읽기">

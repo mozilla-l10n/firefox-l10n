@@ -1,5 +1,4 @@
-<!ENTITY identitiesListTitle.label "이 계정과 연결되는 아이디">
-<!ENTITY identitiesListDesc.label "다중 아이디 지원">
+<!ENTITY identitiesListDesc.label "다중 발신인 정보를 구분하여 사용할 수 있습니다.">
 <!ENTITY identitiesListAdd.label  "추가…">
 <!ENTITY identitiesListAdd.accesskey  "A">
 <!ENTITY identitiesListEdit.label "편집…">

@@ -16,17 +16,12 @@
 <!ENTITY fullnameLabel.accesskey "Y">
 <!ENTITY emailLabel.label "메일 주소:">
 <!ENTITY emailLabel.accesskey "E">
-<!ENTITY emailDesc.label "다른 사람이 현재의 사용자에게 회신하기 위한 메일 주소를 입력하십시오.">
-<!ENTITY emailExample.label "(예: user@exmple.net)">
 <!ENTITY serverTitle.label "받는 서버">
-<!ENTITY incomingServerTitle.label "받는 서버">
 <!ENTITY incomingServerTypeDesc.label "받는 서버의 종류를 선택하십시오.">
-<!ENTITY incomingServerTypeLabel.label "서버 종류:">
 <!ENTITY incomingServerNameDesc.label "받는 서버의 주소를 입력하십시오. (예: &quot;mail.example.net&quot;).">
 <!ENTITY incomingServerLabel.label "받는 서버:">
 <!ENTITY incomingServerLabel.accesskey "S">
 <!ENTITY newsServerNameDesc.label "뉴스 서버 (NNTP)의 주소를 입력하십시오. (예: &quot;news.example.net&quot;).">
-<!ENTITY smtpServerTitle.label "보내는 서버 (SMTP)">
 <!ENTITY smtpServerDesc.label "보내는 서버 (SMTP)의 주소를 입력하십시오. (예: &quot;smtp.example.net&quot;).">
 <!ENTITY smtpServerLabel.label "보내는 서버:">
 <!ENTITY smtpServerLabel.accesskey "O">
@@ -36,7 +31,6 @@
 <!ENTITY imapType.accesskey "I">
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY nntpType.label "뉴스 서버">
 <!ENTITY haveSmtp1.prefix "메일 서버 (SMTP) &quot;">
 <!ENTITY haveSmtp1.suffix "&quot;은(는) 사용 중. 메일과 뉴스 그룹 프로그램의 편집 메뉴의 계정 설정에서 메일 서버를 수정할 수 있습니다.">
 <!ENTITY loginTitle.label "사용자 이름">
@@ -53,7 +47,6 @@
 <!ENTITY haveSmtp3.suffix "&quot;은(는) 메일 서버로 확인되었습니다. 계정 사용이 허가되었습니다. 메일과 뉴스 그룹 프로그램의 편집 메뉴의 계정 설정에서 메일 서버를 수정할 수 있습니다.">
 <!ENTITY accnameTitle.label "계정 이름">
 <!ENTITY accnameDesc.label "참조할 계정 이름을 입력하십시오.">
-<!ENTITY accnameExample.label "예: 직장, 자택, 뉴스 계정">
 <!ENTITY accnameLabel.label "계정 이름:">
 <!ENTITY accnameLabel.accesskey "A">
 <!ENTITY completionTitle.label "축하합니다! 계정 설정이 완료되었습니다.">

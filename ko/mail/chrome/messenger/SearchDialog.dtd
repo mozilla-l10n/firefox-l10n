@@ -4,15 +4,11 @@
 <!ENTITY searchSubfolders.accesskey "e">
 <!ENTITY resetButton.label "초기화">
 <!ENTITY resetButton.accesskey "C">
-<!ENTITY optionsButton.label "설정">
-<!ENTITY closeButton.label "닫기">
 <!ENTITY openButton.label "열기">
 <!ENTITY openButton.accesskey "n">
 <!ENTITY deleteButton.label "삭제">
 <!ENTITY deleteButton.accesskey "D">
 <!ENTITY searchDialogTitle.label "메시지 검색">
-<!ENTITY conditionDesc.label "메시지 찾기:">
-<!ENTITY conditions.label "기준">
 <!ENTITY results.label "결과">
 <!ENTITY fileHereMenu.label "현재 파일">
 <!ENTITY fileHereMenu.accesskey "F">
@@ -39,7 +35,6 @@
 <!ENTITY statusColumn.label "메일 상태">
 <!ENTITY sizeColumn.label "크기">
 <!ENTITY junkStatusColumn.label "스팸 상태">
-<!ENTITY linesColumn.label "행">
 <!ENTITY unreadColumn.label "읽지 않음">
 <!ENTITY totalColumn.label "전체">
 <!ENTITY readColumn.label "읽음">

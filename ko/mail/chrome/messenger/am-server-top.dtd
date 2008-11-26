@@ -1,9 +1,5 @@
 <!ENTITY securitySettings.label "보안 설정">
 <!ENTITY serverSettings.label "서버 설정">
-<!ENTITY popServer.label "POP3 메일 서버">
-<!ENTITY imapServer.label "IMAP 메일 서버">
-<!ENTITY newsServer.label "뉴스 서버 (NNTP)">
-<!ENTITY webmail.label "웹메일 계정">
 <!ENTITY serverType.label "서버 종류:">
 <!ENTITY serverName.label "서버 이름:">
 <!ENTITY serverName.accesskey "S">
@@ -40,9 +36,7 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "새 메시지를 자동으로 받아오기">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY hostname.label "서버 이름">
 <!ENTITY username.label "아이디">
-<!ENTITY popServerTitle.label "POP3 서버 정보">
 <!ENTITY deleteMessagePrefix.label "메시지 삭제 설정:">
 <!ENTITY modelMoveToTrash.label "현재 폴더로 이동:">
 <!ENTITY modelMarkDeleted.label "삭제로 표시">

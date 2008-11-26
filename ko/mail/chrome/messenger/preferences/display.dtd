@@ -1,6 +1,4 @@
 <!ENTITY itemFormatting.label "서식">
-<!ENTITY itemFonts.label "글꼴">
-<!ENTITY textBegin.label "인용된 일반 텍스트 설정">
 <!ENTITY style.label "스타일:">
 <!ENTITY style.accesskey "y">
 <!ENTITY regularStyle.label "규칙">
@@ -17,12 +15,10 @@
 <!ENTITY displayWidth.label "일반 텍스트 메시지">
 <!ENTITY plainText.label "다음 글꼴을 사용:">
 <!ENTITY displayText.label "인용 처리된 메시지를 표시할 때:">
-<!ENTITY viewingPlainText.label "메시지를 표시할 때:">
 <!ENTITY fixedWidth.label "고정폭 글꼴">
 <!ENTITY fixedWidth.accesskey "x">
 <!ENTITY variableWidth.label "가변폭 글꼴">
 <!ENTITY variableWidth.accesskey "V">
-<!ENTITY readingMessagesHeader.label "받는 메일에 대하여">
 <!ENTITY colors.label "색상">
 <!ENTITY overrideColors.label "메시지 출력시에 다음 색상을 사용:">
 <!ENTITY textColor.label "글꼴 색상:">

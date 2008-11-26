@@ -52,12 +52,13 @@
 <!ENTITY GroupName.label "그룹명:">
 <!ENTITY GroupName.accesskey "G">
 <!ENTITY InputName.accesskey "N">
-<!ENTITY InputValue.label "필드 값:">
+<!ENTITY InputValue.label "항목값:">
+<!ENTITY InputValue.accesskey	"V">
 <!ENTITY InitialValue.label "초기값:">
 <!ENTITY InitialValue.accesskey "V">
-<!ENTITY InputChecked.label "기본적으로 체크함">
+<!ENTITY InputChecked.label "기본 표시함">
 <!ENTITY InputChecked.accesskey "C">
-<!ENTITY InputSelected.label "기본적으로 선택함">
+<!ENTITY InputSelected.label "기본 선택함">
 <!ENTITY InputSelected.accesskey "S">
 <!ENTITY InputReadOnly.label "읽기 전용">
 <!ENTITY InputReadOnly.accesskey "R">

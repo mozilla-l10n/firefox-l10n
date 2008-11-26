@@ -1,8 +1,6 @@
 <!ENTITY itemGeneral.label "일반">
 <!ENTITY itemAutoComplete.label "주소">
 <!ENTITY itemSpellCheck.label "맞춤법 검사">
-<!ENTITY itemSendFormat.label "전달 양식">
-<!ENTITY forwardReply.label "메시지 전달 및 회신">
 <!ENTITY forwardMsg.label "전달 메시지:">
 <!ENTITY forwardMsg.accesskey "w">
 <!ENTITY inline.label "본문">
@@ -22,7 +20,6 @@
 <!ENTITY bgColor.accesskey "B">
 <!ENTITY restoreHTMLDefaults.label "기본 설정으로 복원">
 <!ENTITY restoreHTMLDefaults.accesskey "R">
-<!ENTITY sendingMessagesHeader.label "메시지 작성">
 <!ENTITY spellCheck.label "보내기 전에 맞춤법 검사">
 <!ENTITY spellCheck.accesskey "C">
 <!ENTITY spellCheckInline.label "맞춤법 검사">
@@ -34,10 +31,7 @@
 <!ENTITY warnOnSendAccelKey.accesskey "i">
 <!ENTITY autoSave.label "항상 자동 저장">
 <!ENTITY autoSave.accesskey "u">
-<!ENTITY autoSaveEnd.label "분">
-<!ENTITY wrapOutMsg.label "텍스트 문서 줄바꿈">
-<!ENTITY wrapOutMsg.accesskey "l">
-<!ENTITY char.label "문자">
+<!ENTITY autoSaveEnd.label "분마다 자동 저장">
 <!ENTITY emailCollectionPicker.label "보낼 메일 주소를 자동으로 추가:">
 <!ENTITY emailCollectionPicker.accesskey "t">
 <!ENTITY addressingTitle.label "메일 주소 자동 완성">
@@ -49,9 +43,6 @@
 <!ENTITY directoriesNone.label "없음">
 <!ENTITY editDirectories.label "디렉토리 편집…">
 <!ENTITY editDirectories.accesskey "E">
-<!ENTITY matchText.label "내부 주소록과 일치하면:">
-<!ENTITY skipDirectory.label "디렉토리에서 검색하지 않음">
-<!ENTITY sendOptionsCaption.label "보내기 및 HTML 설정">
 <!ENTITY sendOptionsDescription.label "텍스트 형식 설정">
 <!ENTITY sendOptions.label "보내기 설정…">
 <!ENTITY sendOptions.accesskey "S">

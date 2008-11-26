@@ -17,9 +17,6 @@
 <!ENTITY filterActionDesc.label "다음 방식으로 처리:">
 <!ENTITY filterActionDesc.accesskey "P">
 
-<!ENTITY newFolderButton.label "새 폴더…">
-<!ENTITY newFolderButton.accesskey "N">
-
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "메시지 이동 위치:">
 <!ENTITY copyMessage.label "메시지 복사 위치:">

@@ -4,7 +4,6 @@
 <!ENTITY window.unixWidth "41em">
 <!ENTITY language.label "언어">
 <!ENTITY language.accesskey "t">
-<!ENTITY typefaces.label "글자체">
 <!ENTITY sizes.label "크기 (픽셀)">
 <!ENTITY proportionalSize.accesskey "e">
 <!ENTITY monospaceSize.accesskey "x">
@@ -16,7 +15,6 @@
 <!ENTITY sans-serif.accesskey "n">
 <!ENTITY monospace.label "고정폭 글꼴:">
 <!ENTITY monospace.accesskey "m">
-<!ENTITY fontsize.units "픽셀">
 <!ENTITY font.langGroup.latin1 "서유럽어">
 <!ENTITY font.langGroup.latin2 "중앙 유럽어">
 <!ENTITY font.langGroup.japanese "일본어">
@@ -49,7 +47,6 @@
 <!ENTITY minSize.none "없음">
 <!ENTITY useDefaultFontSerif.label "명조체">
 <!ENTITY useDefaultFontSansSerif.label "고딕체">
-<!ENTITY newLanguages.label "언어 영역에서 설정한 새 언어를 사용할 수 있습니다.">
 <!ENTITY useDocumentFonts.label "문서에서 지정한 글꼴 사용 허용">
 <!ENTITY useDocumentFonts.accesskey "o">
 <!ENTITY sendDefaultCharset.label "보내는 메일:">

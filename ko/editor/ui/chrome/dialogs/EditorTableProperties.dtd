@@ -75,11 +75,9 @@
 <!ENTITY cellSelectNext.accessKey         "N">
 <!ENTITY cellSelectPrevious.label         "이전">
 <!ENTITY cellSelectPrevious.accessKey     "P">
-<!ENTITY cellApplyBeforeMove.label        "변경 전 내용 적용">
 <!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label         "현재 설정이 적용됨">
-<!ENTITY applyBeforeChange2.label         "선택 변경 전">
-<!ENTITY cellContentAlignment.label       "내용 정렬 방향:">
+<!ENTITY applyBeforeChange.label         "선택 대상을 변경하면 현재 설정을 적용합니다.">
+<!ENTITY cellContentAlignment.label       "정렬 방향:">
 <!ENTITY cellHorizontal.label             "수평:">
 <!ENTITY cellHorizontal.accessKey         "Z">
 <!ENTITY cellVertical.label               "수직:">

@@ -67,8 +67,9 @@
 <!ENTITY Unknown.label                  "알 수 없음">
 <!ENTITY ScreenName.label               "표시명:">
 <!ENTITY ScreenName.accesskey           "S">
-<!ENTITY allowRemoteContent.label       "HTML 형식의 메일에서 외부 이미지 출력">
+<!ENTITY allowRemoteContent.label       "외부 이미지 출력 허가">
 <!ENTITY allowRemoteContent.accesskey   "w">
+<!ENTITY allowRemoteContent.tooltip		"HTML 메일에서는 외부 이미지를 가져와서 보여 줄 수 있습니다. 외부 이미지가 섞인 메세지를 열면 인터넷에 접속해 이미지를 가져오게 됩니다. 이를 이용해 당신이 메일을 보았음을 기록하는 수신 확인 기능이 작동할 수 있습니다. 이 항목을 켜면 HTML 메일에서 외부 이미지 읽기를 허가합니다.">
 <!ENTITY Phones.box                     "전화">
 <!ENTITY WorkPhone.label                "직장:">
 <!ENTITY WorkPhone.accesskey            "k">
@@ -77,14 +78,13 @@
 <!ENTITY FaxNumber.label                "팩스:">
 <!ENTITY FaxNumber.accesskey            "x">
 <!ENTITY PagerNumber.label              "호출:">
-<!ENTITY PagerNumber.accesskey          "P">
+<!ENTITY PagerNumber.accesskey          "g">
 <!ENTITY CellularNumber.label           "휴대폰:">
 <!ENTITY CellularNumber.accesskey       "M">
-<!ENTITY Address.tab                    "주소">
-<!ENTITY Address.accesskey              "A">
-<!ENTITY Home.box                       "자택">
+<!ENTITY Home.tab                       "개인">
+<!ENTITY Home.accesskey					"P">
 <!ENTITY HomeAddress.label              "자택 주소:">
-<!ENTITY HomeAddress.accesskey          "d">
+<!ENTITY HomeAddress.accesskey          "A">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "시/군/구:">
@@ -96,28 +96,29 @@
 <!ENTITY HomeCountry.label              "국가:">
 <!ENTITY HomeCountry.accesskey          "u">
 <!ENTITY HomeWebPage.label              "홈 페이지:">
-<!ENTITY HomeWebPage.accesskey          "w">
-<!ENTITY Work.box                       "직장">
+<!ENTITY HomeWebPage.accesskey          "e">
+<!ENTITY Work.tab                       "직장">
+<!ENTITY Work.accesskey					"W">
 <!ENTITY JobTitle.label                 "직위:">
-<!ENTITY JobTitle.accesskey             "e">
+<!ENTITY JobTitle.accesskey             "i">
 <!ENTITY Department.label               "부서:">
 <!ENTITY Department.accesskey           "m">
 <!ENTITY Company.label                  "소속:">
 <!ENTITY Company.accesskey              "O">
 <!ENTITY WorkAddress.label              "직장 주소:">
-<!ENTITY WorkAddress.accesskey          "r">
+<!ENTITY WorkAddress.accesskey          "A">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "시/군/구:">
-<!ENTITY WorkCity.accesskey             "i">
+<!ENTITY WorkCity.accesskey             "y">
 <!ENTITY WorkState.label                "시/도:">
-<!ENTITY WorkState.accesskey            "v">
+<!ENTITY WorkState.accesskey            "S">
 <!ENTITY WorkZipCode.label              "우편번호:">
-<!ENTITY WorkZipCode.accesskey          "P">
+<!ENTITY WorkZipCode.accesskey          "Z">
 <!ENTITY WorkCountry.label              "국가:">
-<!ENTITY WorkCountry.accesskey          "n">
+<!ENTITY WorkCountry.accesskey          "u">
 <!ENTITY WorkWebPage.label              "홈 페이지:">
-<!ENTITY WorkWebPage.accesskey          "b">
+<!ENTITY WorkWebPage.accesskey          "e">
 <!ENTITY Other.tab                      "기타:">
 <!ENTITY Other.accesskey                "h">
 <!ENTITY Birthday.label                 "생일:">
@@ -133,5 +134,5 @@
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "사용자 정의4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.box                      "메모">
+<!ENTITY Notes.label                      "메모">
 <!ENTITY Notes.accesskey                "N">

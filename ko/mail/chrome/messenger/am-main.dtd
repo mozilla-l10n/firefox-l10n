@@ -2,7 +2,6 @@
 <!ENTITY accountTitle.label "계정 설정">
 <!ENTITY accountName.label "계정 이름:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY accountNameDesc.label "계정 이름은 계정의 고유한 속성을 표시합니다.">
 <!ENTITY identityTitle.label "아이디">
 <!ENTITY identityDesc.label "각 계정에는 다른 사람이 메일을 받을 때 표시되는 사용자 정보를 포함합니다.">
 <!ENTITY name.label "계정 이름:">

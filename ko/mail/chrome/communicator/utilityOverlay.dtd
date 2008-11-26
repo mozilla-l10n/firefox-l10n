@@ -21,7 +21,6 @@
 <!ENTITY pasteCmd.key						"V">
 <!ENTITY pasteCmd.accesskey					"p">
 <!ENTITY deleteCmd.label					"삭제">
-<!ENTITY deleteCmd.key						"D">
 <!ENTITY deleteCmd.accesskey				"d">
 <!ENTITY selectAllCmd.label					"모두 선택">
 <!ENTITY selectAllCmd.key					"A">
@@ -30,24 +29,14 @@
 <!ENTITY preferencesCmd.accesskey			"O">
 <!ENTITY preferencesCmdUnix.label       "설정">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
-<!ENTITY findTypeTextCmd.label "입력한 대로 찾기">
-<!ENTITY findTypeTextCmd.accesskey "x">
 <!ENTITY viewMenu.label					"보기">
 <!ENTITY viewMenu.accesskey				"v">
 <!ENTITY viewToolbarsMenu.label				"도구 모음">
 <!ENTITY viewToolbarsMenu.accesskey			"T">
 <!ENTITY showTaskbarCmd.label					"상태 표시줄">
 <!ENTITY showTaskbarCmd.accesskey				"S">
-<!ENTITY direct.label                                   "온라인 (프록시: 사용 안 함)">
-<!ENTITY direct.accesskey                               "n">
-<!ENTITY manual.label                                   "온라인 (프록시: 수동)">
-<!ENTITY manual.accesskey                               "m">
-<!ENTITY pac.label                                      "온라인 (프록시: 자동)">
-<!ENTITY pac.accesskey                                  "a">
 <!ENTITY proxy.label                                    "프록시 설정…">
 <!ENTITY proxy.accesskey                                "C">
-<!ENTITY findTypeTextCmd.key        "/">
-<!ENTITY findTypeLinksCmd.key       "'">
 <!ENTITY closeCmd.label			"닫기">
 <!ENTITY closeCmd.key			"W">
 <!ENTITY closeCmd.accesskey		"c">

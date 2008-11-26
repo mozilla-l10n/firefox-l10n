@@ -42,11 +42,6 @@
 <!ENTITY printCmd.label "인쇄…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">
-<!ENTITY quitApplicationCmdWin.label "닫기">
-<!ENTITY quitApplicationCmdWin.accesskey "x">
-<!ENTITY quitApplicationCmd.label "종료">
-<!ENTITY quitApplicationCmd.accesskey "Q">
-<!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY editMenu.label "편집">
 <!ENTITY editMenu.accesskey "e">
 <!ENTITY undoCmd.label "실행 취소">
@@ -64,10 +59,10 @@
 <!ENTITY pasteCmd.label "붙여넣기">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "p">
+<!ENTITY pasteNoFormattingCmd.key	"V">
 <!ENTITY editRewrapCmd.label "재보호">
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "삭제">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "d">
 <!ENTITY selectAllCmd.label "전체 선택">
 <!ENTITY selectAllCmd.key "A">
@@ -88,7 +83,6 @@
 <!ENTITY viewToolbarsMenuNew.label "도구 모음">
 <!ENTITY viewToolbarsMenuNew.accesskey "T">
 <!ENTITY showCompositionToolbarCmd.label "작성 도구 모음">
-<!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "형식 도구 모음">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "상태 표시줄">
@@ -151,7 +145,6 @@
 <!ENTITY accountManagerCmd.accesskey "c">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
 <!ENTITY preferencesCmd.label "설정…">
-<!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "설정">
 <!ENTITY preferencesCmdUnix.accesskey "n">
@@ -188,9 +181,6 @@
 <!ENTITY subject.accesskey "S">
 <!ENTITY attachments.label "첨부:">
 <!ENTITY attachments.accesskey "c">
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
 <!ENTITY SmileButton.tooltip "표정 아이콘 삽입">
 <!ENTITY smiley1Cmd.label "미소">
 <!ENTITY smiley2Cmd.label "시무룩">
@@ -237,5 +227,5 @@
 <!ENTITY attachPage.accesskey "W">
 <!ENTITY addressesSidebarTitle.label "주소록 탐색창">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY dsnMenu.label "Delivery Status Notification">
+<!ENTITY dsnMenu.label "메일 전달 상태 확인">
 <!ENTITY dsnMenu.accesskey "N">

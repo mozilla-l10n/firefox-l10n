@@ -17,5 +17,3 @@
 <!ENTITY  chooseFolder.accesskey              "w">
 <!ENTITY  saveToAskMe.label                   "저장할 때마다 물어보기">
 <!ENTITY  saveToAskMe.accesskey               "a">
-<!ENTITY  usePlugin.label                     "플러그인 사용:">
-<!ENTITY  usePlugin.accesskey                 "P">

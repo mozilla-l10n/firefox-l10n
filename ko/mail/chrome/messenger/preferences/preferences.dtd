@@ -1,9 +1,9 @@
 <!ENTITY prefWindow.titleWin "설정">
 <!ENTITY prefWindow.titleGNOME "&brandShortName; 환경 설정">
 <!ENTITY prefWindow.styleMac "width: 47em;">
+
 <!ENTITY paneGeneral.title "일반">
 <!ENTITY paneDisplay.title "표시">
-<!ENTITY paneTags.title "태그">
 <!ENTITY paneComposition.title "쓰기">
 <!ENTITY paneAttachments.title "첨부">
 <!ENTITY panePrivacy.title "개인 정보">

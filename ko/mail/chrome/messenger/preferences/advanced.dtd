@@ -1,7 +1,10 @@
 <!ENTITY itemGeneral.label "일반">
+<!ENTITY itemDisplay.label "읽기 및 표시">
 <!ENTITY itemUpdate.label "업데이트">
 <!ENTITY itemNetworking.label "네트워크 및 디스크 공간">
 <!ENTITY itemCertificates.label "인증서">
+<!ENTITY enableGloda.label "메세지 색인 사용함">
+<!ENTITY enableGloda.accesskey         "i">
 <!ENTITY showCondensedAddresses.label "주소록에서 사람에 대한 표시명만 보이기">
 <!ENTITY showCondensedAddresses.accesskey "p">
 <!ENTITY autoMarkAsRead.label "메시지에 자동으로 읽음 표시">
@@ -13,23 +16,20 @@
 <!ENTITY secondsLabel.label "초">
 <!ENTITY showFolderColumns.label "폴더의 모든 항목 보이기">
 <!ENTITY showFolderColumns.accesskey "l">
-<!ENTITY rememberLastMsg.label "선택된 메시지 기억하기">
-<!ENTITY rememberLastMsg.accesskey "b">
 <!ENTITY reuseExpRadio0.label "새 메시지 창">
 <!ENTITY reuseExpRadio0.accesskey "i">
 <!ENTITY reuseExpRadio1.label "기존 메시지 창">
 <!ENTITY reuseExpRadio1.accesskey "x">
-<!ENTITY reuseExpRadio2.label "새 메시지 탭">
-<!ENTITY reuseExpRadio2.accesskey "Z">
-<!ENTITY connectionTimeout.label "연결 시간 초과: ">
-<!ENTITY connectionTimeout.accesskey "C">
-<!ENTITY connectionSeconds.label "초">
 <!ENTITY configEditDesc.label "고급 설정">
 <!ENTITY configEdit.label "설정 편집…">
 <!ENTITY configEdit.accesskey "g">
 <!ENTITY returnReceiptsInfo.label "수신 확인 메시지 설정">
 <!ENTITY showReturnReceipts.label "수신 확인…">
 <!ENTITY showReturnReceipts.accesskey "R">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption                "읽기">
+<!ENTITY display.caption                "표시">
 <!ENTITY autoCheck.label "자동으로 업데이트 검사:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "h">
@@ -45,9 +45,9 @@
 <!ENTITY modeAutoAddonWarn.accesskey "-">
 <!ENTITY showUpdates.label "업데이트 기록 보기">
 <!ENTITY showUpdates.accesskey "y">
-<!ENTITY showConnections.label "연결 설정…">
-<!ENTITY showConnections.accesskey "n">
-<!ENTITY proxiesInfo.label "&brandShortName; 인터넷 연결 방식 설정">
+<!ENTITY showSettings.label "연결 설정…">
+<!ENTITY showSettings.accesskey "n">
+<!ENTITY proxiesConfigure.label "&brandShortName; 인터넷 연결 방식 설정">
 <!ENTITY connectionsInfo.caption "연결">
 <!ENTITY offlineInfo.caption "오프라인">
 <!ENTITY offlineInfo.label "오프라인 설정">
@@ -57,7 +57,20 @@
 <!ENTITY offlineCompact.label "지정된 용량 이상의 저장 시에는 폴더 압축하기">
 <!ENTITY offlineCompact.accesskey "v">
 <!ENTITY kb.label "KB">
-<!ENTITY certificatesInfo2.label "인증서, 인증서 폐기 목록, 인증서 유효성 확인 및 보안 장치를 관리합니다.">
+
+<!-- LOCALIZATION NOTE:
+The entities useCacheBefore.label and useCacheAfter.label appear on a single
+line in preferences as follows:
+
+&useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "페이지 캐쉬">
+<!ENTITY useCacheBefore.accesskey        "U">
+<!ENTITY useCacheAfter.label             "MB 까지 사용">
+<!ENTITY clearCacheNow.label             "지금 삭제">
+<!ENTITY clearCacheNow.accesskey         "C">
+
+<!-- Certificates -->
 <!ENTITY viewCertificates.label "인증서 보기">
 <!ENTITY viewCertificates.accesskey "a">
 <!ENTITY viewCRLs.label "인증서 폐기 목록">
