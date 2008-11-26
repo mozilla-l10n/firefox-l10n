@@ -108,7 +108,7 @@
 
 <!ENTITY onemonthbackward.tooltip "Один месяц назад" >
 <!ENTITY onemonthforward.tooltip "Один месяц вперед" >
-<!ENTITY showToday.tooltip "Перейти на сегодня">
-<!ENTITY onedayforward.tooltip "Один день вперед">
-<!ENTITY onedaybackward.tooltip "Один день назад">
-<!ENTITY showselectedday.tooltip "Показать события на выбранный день">
+<!ENTITY showToday.tooltip "Перейти на сегодня" >
+<!ENTITY onedayforward.tooltip "Один день вперед" >
+<!ENTITY onedaybackward.tooltip "Один день назад" >
+<!ENTITY showselectedday.tooltip "Показать события на выбранный день" >
