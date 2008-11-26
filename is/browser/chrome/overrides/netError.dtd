@@ -56,7 +56,7 @@
 <!ENTITY unsafeContentType.longDesc "<ul>
   <li>Hafðu samband við vefstjóra vefsvæðisins og láttu hann vita af þessu vandamáli.</li>
 </ul>">
-<!ENTITY netReset.title "Tenging var endurstillt">
+<!ENTITY netReset.title "Tenging slitnaði">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 <!ENTITY netTimeout.title "Tengitími rann út">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">

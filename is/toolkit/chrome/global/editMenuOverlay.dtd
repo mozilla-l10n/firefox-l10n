@@ -21,7 +21,7 @@
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "j">
 <!ENTITY findCmd.label "Finna">
-<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.key "i">
 <!ENTITY findCmd.accesskey "F">
 <!ENTITY findAgainCmd.label "Leita aftur">
 <!ENTITY findAgainCmd.key "G">
