@@ -44,7 +44,7 @@ për shtesat tuaja për t&quot;i bërë ato të përputhshme me këtë version."
 <!ENTITY  installerrors.intro.label       "&brandShortName;-i hasi në probleme kur përditësoi disa prej shtesave tuaja.">
 
 <!-- general strings used by several of the finish pages -->
-<!ENTITY  clickFinish.label               "Klikoni Përfundo për të vazhduar me nisjen e &brandShortName;-it.">
+<!ENTITY  clickFinish.label               "Klikoni Përfundoje për të vazhduar me nisjen e &brandShortName;-it.">
 <!ENTITY  enableChecking.label            "Lejo &brandShortName;-in të kontrollojë për përditësime.">
 <!ENTITY  details.label                   "Hollësi...">
 <!ENTITY  details.accesskey               "D">

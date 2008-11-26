@@ -7,7 +7,7 @@
 
 <!ENTITY accountSetupInfo.label "Për të marrë mesazhe, lypset së pari të hapni një llogari Poste ose Grupi Lajmesh.">
 <!ENTITY accountTypeTitle.label "Rregullime Llogarie të Re">
-<!ENTITY accountTypeDesc.label "Ky Krijues do të mbledhë të dhënat e nevojshme për rregullimin e një llogarie Poste ose Lajmesh. Nëse nuk i dini të dhënat e kërkuara, lutemi lidhuni me Përgjegjësin e Sistemit tuaj ose Mundësuesin e Shërbimit Internet (ISP).">
+<!ENTITY accountTypeDesc.label "Ky Krijues do të mbledhë të dhënat e nevojshme për rregullimin e një llogarie Poste ose Lajmesh. Nëse nuk i dini të dhënat e kërkuara, ju lutemi lidhuni me Përgjegjësin e Sistemit tuaj ose Mundësuesin e Shërbimit Internet (ISP).">
 <!ENTITY accountTypeDirections.label "Përzgjidhni llojin e llogarisë që doni të rregulloni:">
 <!ENTITY accountTypeMail.label "Llogari email">
 <!ENTITY accountTypeMail.accesskey "e">
@@ -38,8 +38,8 @@
 <!ENTITY serverTitle.label "Të dhëna Shërbyesi">
 <!ENTITY incomingServerTypeDesc.label "Përzgjidhni llojin e shërbyesit marrës që po përdorni.">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Enter the name of your incoming server (for example, &quot;pop.example.net&quot;).">
-<!ENTITY incomingServerLabel.label "Incoming Server:">
+<!ENTITY incomingServerNameDesc.label "Jepni emrin e shërbyesit tuaj për postë ardhëse (për shembull, &quot;pop.example.net&quot;).">
+<!ENTITY incomingServerLabel.label "Shërbyes për Ardhësen:">
 <!ENTITY incomingServerLabel.accesskey "S">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Jepni emrin e shërbyesit tuaj të lajmeve (NNTP) (për shembull, &quot;news.example.net&quot;).">
@@ -102,7 +102,7 @@
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Përgëzime!">
-<!ENTITY completionText.label "Lutemi sigurohuni që të dhënat e mëposhtme janë të sakta.">
+<!ENTITY completionText.label "Jul lutemmi sigurohuni që të dhënat e mëposhtme janë të sakta.">
 <!ENTITY serverTypePrefix.label "Lloj Shërbyesi Marrës:">
 <!ENTITY serverNamePrefix.label "Emër Shërbyesi Marrës:">
 <!ENTITY smtpServerNamePrefix.label "Emër Shërbyesi Dërgues (SMTP):">
@@ -110,5 +110,5 @@
 <!ENTITY downloadOnLogin.label "Shkarko mesazhe tani">
 <!ENTITY deferStorageDesc.label "Hiqini shenjën kutizës nëse doni të ruani postën për këtë llogari te drejtoria e vet. Kjo do të bëjë që kjo llogari të duket si llogaria më e sipërme. Përndryshe, do të jetë pjesë e llogarisë së Përgjithshme Të marrë te Dosje Vendore">
 <!ENTITY deferStorage.label "Përdor Të marrë të Përgjithshëm (ruaj postë në Dosje Vendore)">
-<!ENTITY clickFinish.label "Klikoni Përfundo për të ruajtur këto rregullime dhe për të dalë nga Krijues Llogarie.">
-<!ENTITY clickFinish.labelMac "Klikoni Përfundo për të ruajtur këto rregullime dhe për të dalë nga Krijues Llogarie.">
+<!ENTITY clickFinish.label "Klikoni Përfundoje për të ruajtur këto rregullime dhe për të dalë nga Krijues Llogarie.">
+<!ENTITY clickFinish.labelMac "Klikoni Përfundoje për të ruajtur këto rregullime dhe për të dalë nga Krijues Llogarie.">
