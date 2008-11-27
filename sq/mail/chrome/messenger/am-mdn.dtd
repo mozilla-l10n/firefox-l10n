@@ -1,7 +1,7 @@
 <!ENTITY pane.title                   "Kthim Faturash">
 <!ENTITY useGlobalPrefs.label         "Përdor për këtë llogari parapëlqimet e mij të përgjithshëm për kthim faturash">
 <!ENTITY useGlobalPrefs.accesskey     "U">
-<!ENTITY useCustomPrefs.label         "Përshtat kthim faturash për këtë llogari">
+<!ENTITY useCustomPrefs.label         "Përshtatni kthim faturash për këtë llogari">
 <!ENTITY useCustomPrefs.accesskey     "C">
 <!ENTITY requestReceipt.label         "Kur dërgon mesazhe, kërko përherë një faturë kthimi">
 <!ENTITY requestReceipt.accesskey     "W">
@@ -25,4 +25,4 @@
 <!ENTITY askMe.label                  "Pyetmë">
 <!ENTITY alwaysSend.label             "Dërgo përherë">
 <!ENTITY neverSend.label              "Mos dërgo Kurrë">
-<!ENTITY useCustomPrefs.label         "Përshtat fatura kthimi për këtë llogari">
+<!ENTITY useCustomPrefs.label         "Përshtatni fatura kthimi për këtë llogari">
