@@ -191,7 +191,7 @@
 <!ENTITY viewBGImageCmd.label "Visualizza immagine di sfondo">
 <!ENTITY viewBGImageCmd.accesskey "V">
 <!ENTITY setDesktopBackgroundCmd.label "Imposta come sfondo del desktop…">
-<!ENTITY setDesktopBackgroundCmd.accesskey "f">
+<!ENTITY setDesktopBackgroundCmd.accesskey "k">
 <!ENTITY bookmarkPageCmd2.label "Aggiungi pagina nei segnalibri…">
 <!ENTITY bookmarkPageCmd2.accesskey "b">
 <!ENTITY bookmarkThisLinkCmd.label "Aggiungi link nei segnalibri…">
