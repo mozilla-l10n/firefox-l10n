@@ -1,0 +1,18 @@
+<!ENTITY restorepage.tabtitle       "برگرداندن نشست">
+<!ENTITY restorepage.pagetitle      "آیا مایل به برگرداندن نشست خود هستید؟">
+<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
+                        you may translate "crash" instead (even though it's IT-speak) -->
+<!ENTITY restorepage.issueDesc      "نشست قبلی &brandShortName; شما به صورت غیر منتظره‌ای بسته شد. از این بابت صمیمانه متأسفیم.  شما اکنون می‌توانید زبانه‌ها و پنجره‌های نشست قبلی خود را برگردانید، یا اگر دیگر به آن‌ها نیاز ندارید نشست جدیدی را آغاز کنید.">
+<!ENTITY restorepage.remedies       "اگر &brandShortName; مرتباً بسته می‌شود:">
+<!ENTITY restorepage.dueToChrome    "تلاش گنید که افزودنی‌های جدیدی که نصب کرده‌اید را با استفاده از مدیر افزودنی‌ها از کار بیاندازید.">
+<!ENTITY restorepage.dueToContent   "سعی کنید نشست خود را بدون صفحات وبی که احتمال می‌دهید باعث ایجاد مشکل می‌شوند برگردانید:">
+
+<!ENTITY restorepage.restoreButton  "برگرداندن نشست قبلی">
+<!ENTITY restorepage.restore.access "ن">
+<!ENTITY restorepage.cancelButton   "آغاز نشست جدید">
+<!ENTITY restorepage.cancel.access  "غ">
+
+<!ENTITY restorepage.restoreHeader  "برگرداندن">
+<!ENTITY restorepage.listHeader     "پنجره‌ها و زبانه‌ها">
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "پنجرهٔ &#37;S">

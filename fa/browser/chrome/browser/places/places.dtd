@@ -1,0 +1,220 @@
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title  "مخزن">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label        "سازمان‌دهی">
+<!ENTITY organize.accesskey    "س">
+
+<!ENTITY file.accesskey                 "پ">
+<!ENTITY file.close.label               "بستن">
+<!ENTITY file.close.accesskey           "ب">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY edit.label                     "ویرایش">
+<!ENTITY edit.accesskey                 "و">
+<!ENTITY views.label                    "نماها">
+<!ENTITY views.accesskey                "ن">
+<!ENTITY view.toolbar.label             "نوار ابزار">
+<!ENTITY view.toolbar.accesskey         "ن">
+<!ENTITY view.columns.label             "نمایش ستون‌ها">
+<!ENTITY view.columns.accesskey         "ن">
+<!ENTITY view.sort.label                "مرتب‌سازی">
+<!ENTITY view.sort.accesskey            "م">
+<!ENTITY view.unsorted.label            "نامرتب">
+<!ENTITY view.unsorted.accesskey        "ن">
+<!ENTITY view.sortAscending.label       "ترتیب الفبایی الف تا ی">
+<!ENTITY view.sortAscending.accesskey   "ت">
+<!ENTITY view.sortDescending.label      "ترتیب الفبایی ی تا الف">
+<!ENTITY view.sortDescending.accesskey  "ت">
+<!ENTITY help.usingBookmarks.label      "استفاده از چوب‌الف‌ها">
+<!ENTITY help.usingBookmarks.accesskey  "ا">
+<!ENTITY help.usingHistory.label        "استفاده از تاریخچه">
+<!ENTITY help.usingHistory.accesskey    "ا">
+<!ENTITY help.advancedTips.label        "نکته‌ها و ترفندهای پیشرفته">
+<!ENTITY help.advancedTips.accesskey    "ن">
+
+<!ENTITY cmd.findInBookmarks.label      "پیدا کردن در چوب‌الف‌ها…">
+<!ENTITY cmd.findInBookmarks.accesskey  "پ">
+<!ENTITY cmd.findCurrent.label          "پیدا کردن در مجموعهٔ فعلی…">
+<!ENTITY cmd.findCurrent.accesskey      "پ">
+
+<!ENTITY cmd.exportHTML.label           "صادر کردن HTML…">
+<!ENTITY cmd.exportHTML.accesskey       "ص">
+<!ENTITY cmd.importHTML.label           "وارد کردن HTML…">
+<!ENTITY cmd.importHTML.accesskey       "و">
+
+<!ENTITY cmd.backup.label               "پشتیبان‌گیری…">
+<!ENTITY cmd.backup.accesskey           "پ">
+<!ENTITY cmd.restore2.label             "برگرداندن">
+<!ENTITY cmd.restore2.accesskey         "ب">
+<!ENTITY cmd.restoreFromFile.label      "انتخاب پرونده…">
+<!ENTITY cmd.restoreFromFile.accesskey  "پ">
+
+<!ENTITY cmd.select_all.label "انتخاب همه">
+<!ENTITY cmd.select_all.accesskey "ه">
+<!ENTITY cmd.select_all.key "a">
+
+<!ENTITY cmd.edit_cut.label         "بریدن">
+<!ENTITY cmd.edit_cut.accesskey     "ر">
+<!ENTITY cmd.edit_cut.key           "x">
+<!ENTITY cmd.edit_copy.label        "نسخه‌برداری">
+<!ENTITY cmd.edit_copy.accesskey    "ن">
+<!ENTITY cmd.edit_copy.key          "c">
+<!ENTITY cmd.edit_paste.label       "چسباندن">
+<!ENTITY cmd.edit_paste.accesskey   "چ">
+<!ENTITY cmd.edit_paste.key         "v">
+<!ENTITY cmd.edit_delete.label      "حذف">
+<!ENTITY cmd.edit_delete.accesskey  "ح">
+<!ENTITY cmd.edit_undo.label        "برگردان">
+<!ENTITY cmd.edit_undo.accesskey    "ب">
+<!ENTITY cmd.edit_undo.key          "z">
+<!ENTITY cmd.edit_redo.label        "دوباره">
+<!ENTITY cmd.edit_redo.accesskey    "د">
+<!ENTITY cmd.edit_redo.key          "y">
+
+<!ENTITY cmd.delete.label               "حذف این صفحه">
+<!ENTITY cmd.delete.accesskey           "ح">
+<!ENTITY cmd.deleteDomainData.label     "فراموش کردن این وب‌گاه">
+<!ENTITY cmd.deleteDomainData.accesskey "ف">
+
+<!ENTITY cmd.open.label                  "باز کردن">
+<!ENTITY cmd.open.accesskey              "ب">
+<!ENTITY cmd.open_window.label           "باز کردن در پنجرهٔ جدید">
+<!ENTITY cmd.open_window.accesskey       "پ">
+<!ENTITY cmd.open_tab.label              "باز کردن در زبانهٔ جدید">
+<!ENTITY cmd.open_tab.accesskey          "ج">
+<!ENTITY cmd.open_all_in_tabs.label      "باز کردن همه در زبانه‌های خاص خود">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "ب">
+
+<!ENTITY cmd.properties.label      "ویژگی‌ها">
+<!ENTITY cmd.properties.accesskey  "و">
+
+<!ENTITY cmd.show_info.key  "i">
+
+<!ENTITY cmd.rename.label      "تغییر نام">
+<!ENTITY cmd.rename.accesskey  "ت">
+
+<!ENTITY cmd.sortby_name.label              "مرتب‌سازی بر حسب نام">
+<!ENTITY cmd.sortby_name.accesskey          "ن">
+<!ENTITY cmd.context_sortby_name.accesskey  "ن">
+
+<!ENTITY cmd.new_bookmark.label            "چوب‌الف جدید…">
+<!ENTITY cmd.new_bookmark.accesskey        "چ">
+<!ENTITY cmd.new_livemark.label            "چوب‌الف زندهٔ جدید…">
+<!ENTITY cmd.new_livemark.accesskey        "ز">
+<!ENTITY cmd.new_folder.label              "پوشهٔ جدید…">
+<!ENTITY cmd.new_folder.accesskey          "ش">
+<!ENTITY cmd.context_new_folder.accesskey  "پ">
+<!ENTITY cmd.new_separator.label           "جداساز جدید">
+<!ENTITY cmd.new_separator.accesskey       "س">
+
+<!ENTITY cmd.reloadLivebookmark.label      "بازآوردن چوب‌الف زنده">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "ب">
+<!ENTITY cmd.reloadMicrosummary.label      "بازآوردن عنوان زنده">
+<!ENTITY cmd.reloadMicrosummary.accesskey  "ع">
+
+<!ENTITY cmd.groupby_site.label      "گروه‌بندی بر اساس پایگاه وبی">
+<!ENTITY cmd.groupby_site.accesskey  "پ">
+<!ENTITY cmd.groupby_page.label      "گروه‌بندی بر اساس صفحه">
+<!ENTITY cmd.groupby_page.accesskey  "ص">
+<!ENTITY cmd.groupby_feed.label      "گروه‌بندی بر اساس آبونه">
+<!ENTITY cmd.groupby_feed.accesskey  "آ">
+<!ENTITY cmd.groupby_post.label      "گروه‌بندی بر اساس ارسال">
+<!ENTITY cmd.groupby_post.accesskey  "س">
+
+<!ENTITY cmd.moveBookmarks.label                  "انتقال…">
+<!ENTITY cmd.moveBookmarks.accesskey              "ق">
+
+<!ENTITY col.name.label          "نام">
+<!ENTITY col.tags.label          "برچسب‌ها">
+<!ENTITY col.url.label           "مکان">
+<!ENTITY col.lastvisit.label     "تاریخ بازدید">
+<!ENTITY col.visitcount.label    "تعداد بازدید">
+<!ENTITY col.keyword.label       "کلیدواژه">
+<!ENTITY col.description.label   "شرح">
+<!ENTITY col.dateadded.label     "تاریخ افزوده شدن">
+<!ENTITY col.lastmodified.label  "زمان آخرین تغییر">
+
+<!ENTITY search.label                              "جستجو:">
+<!ENTITY search.accesskey                          "ج">
+<!ENTITY search.collection.label                   "تنها در مجموعهٔ فعلی">
+<!ENTITY search.collection.accesskey               "ف">
+<!ENTITY search.allBookmarks.label                 "همهٔ چوب‌الف‌ها">
+<!ENTITY search.allBookmarks.accesskey             "ه">
+<!ENTITY search.scopeFolder.label                  "پوشهٔ انتخاب شده">
+<!ENTITY search.scopeFolder.accesskey              "پ">
+<!ENTITY search.scopeAll.label                     "همهٔ چوب‌الف‌ها">
+<!ENTITY search.scopeAll.accesskey                 "ه">
+<!ENTITY search.scopeMenu.label                    "منوی چوب‌الف‌ها">
+<!ENTITY search.scopeMenu.accesskey                "م">
+<!ENTITY search.scopeToolbar.label                 "نوار ابزار چوب‌الف‌ها">
+<!ENTITY search.scopeToolbar.accesskey             "ن">
+<!ENTITY search.scopeDownloads.label               "بارگیری‌ها">
+<!ENTITY search.scopeDownloads.accesskey           "ب">
+<!ENTITY search.scopeHistory.label                 "تاریخچه">
+<!ENTITY search.scopeHistory.accesskey             "ت">
+<!ENTITY search.scopeBarExpanderDown.tooltip       "نمایش ایجادکنندهٔ جستجو">
+<!ENTITY search.scopeBarExpanderUp.tooltip         "مخفی کردن ایجاد کنندهٔ جستجو">
+<!ENTITY saveSearch.label                          "ذخیره">
+<!ENTITY saveSearch.accesskey                      "ذ">
+<!ENTITY moreCriteria.label                        "+">
+<!ENTITY advancedSearch.onlybookmarked.label       "جستجو تنها در چوب‌الف‌ها">
+<!ENTITY advancedSearch.match.label                "تطابق ">
+<!ENTITY advancedSearch.all.label                  "همهٔ">
+<!ENTITY advancedSearch.any.label                  "هر کدام از">
+<!ENTITY advancedSearch.rules.label                " قواعد زیر:">
+<!ENTITY advancedSearch.subj_keyword.label         "شامل متن">
+<!ENTITY advancedSearch.subj_visited.label         "بازدید شده در">
+<!ENTITY advancedSearch.subj_location.label        "مکان">
+<!ENTITY advancedSearch.location_startswith.label  "شروع با">
+<!ENTITY advancedSearch.location_is.label          "است">
+<!ENTITY advancedSearch.location_onsite.label      "در این وب‌گاه است">
+<!ENTITY advancedSearch.time_is.label              "در">
+<!ENTITY advancedSearch.time_before.label          "قبل از">
+<!ENTITY advancedSearch.time_after.label           "بعد از">
+<!ENTITY advancedSearch.time_inlast.label          "در">
+<!ENTITY advancedSearch.last_days.label            "روز پیش">
+<!ENTITY advancedSearch.last_weeks.label           "هفتهٔ پیش">
+<!ENTITY advancedSearch.last_months.label          "ماه پیش">
+<!ENTITY advancedSearch.plus.label                 "+">
+<!ENTITY advancedSearch.minus.label                "-">
+<!ENTITY advancedSearch.groupby.label              "گروه‌بندی بر حسب: ">
+<!ENTITY advancedSearch.groupby_host.label         "میزبان">
+<!ENTITY advancedSearch.groupby_domain.label       "دامنه">
+<!ENTITY advancedSearch.groupby_folder.label       "پوشه">
+<!ENTITY advancedSearch.sortby.label               "مرتب‌سازی بر حسب: ">
+<!ENTITY advancedSearch.sortby_title.label         "عنوان">
+<!ENTITY advancedSearch.sortby_date.label          "تاریخ">
+<!ENTITY advancedSearch.sortby_visit.label         "تعداد بازدید">
+<!ENTITY advancedSearch.sortby_url.label           "نشانی">
+<!ENTITY advancedSearch.sortby_asc.label           "صعودی">
+<!ENTITY advancedSearch.sortby_desc.label          "نزولی">
+<!ENTITY advancedSearch.max.label                  "حداکثر تعداد نتایج: ">
+
+<!ENTITY cmd.find.key  "f">
+
+<!ENTITY feed.subscribe.label    "خورد">
+<!ENTITY feed.subscribe.tooltip  "آبونه شدن">
+
+<!ENTITY view.detailsMacOSX.label  "فهرست">
+<!ENTITY view.details.label        "جزئیات">
+<!ENTITY view.details.accesskey    "ج">
+
+<!ENTITY view.addons.label   "دریافت افزودنی‌های دید">
+
+<!ENTITY maintenance.label      "وارد کردن و پشتیبان‌گیری">
+<!ENTITY maintenance.accesskey  "و">
+
+<!ENTITY backCmd.label       "عقب">
+<!ENTITY backCmd.accesskey   "ع">
+<!ENTITY backButton.tooltip  "برگشتن">
+
+<!ENTITY forwardCmd.label       "جلو">
+<!ENTITY forwardCmd.accesskey   "ج">
+<!ENTITY forwardButton.tooltip  "جلو رفتن">
+
+<!ENTITY detailsPane.more.label "بیشتر">
+<!ENTITY detailsPane.more.accesskey "ب">
+<!ENTITY detailsPane.less.label "کمتر">
+<!ENTITY detailsPane.less.accesskey "ک">
+<!ENTITY detailsPane.noPreviewAvailable.label "پیش‌نمایش">
+<!ENTITY detailsPane.selectAnItemText.description "یک مورد را برای مشاهده و ویرایش انتخاب کنید">
