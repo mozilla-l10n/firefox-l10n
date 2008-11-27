@@ -6,7 +6,7 @@
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "Përdor parapëlqimet e mij të përgjithshëm LDAP për këtë llogari">
 <!ENTITY useGlobal.accesskey       "U">
-<!ENTITY editDirectories.label     "Përpunoni Drejtori...">
+<!ENTITY editDirectories.label     "Përpunoni Drejtori…">
 <!ENTITY editDirectories.accesskey "E">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Përdor një tjetër shërbyes LDAP:">

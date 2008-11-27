@@ -1,8 +1,8 @@
-<!ENTITY Custom.label "Vetjake...">
+<!ENTITY Custom.label "Vetjake…">
 <!ENTITY ShrinkToFit.label "Tkurre Ta Nxërë">
 <!ENTITY close.accesskey "M">
 <!ENTITY close.label "Mbylle">
-<!ENTITY customPrompt.title "Shkallë Vetjake...">
+<!ENTITY customPrompt.title "Shkallë Vetjake…">
 <!ENTITY landscape.accesskey "G">
 <!ENTITY landscape.label "Së gjeri">
 <!ENTITY of.label "e">
@@ -20,11 +20,11 @@
 <!ENTITY p90.label "90&#037;">
 <!ENTITY page.label "Faqe:">
 <!ENTITY pageSetup.accesskey "u">
-<!ENTITY pageSetup.label "Rregullim Faqeje...">
+<!ENTITY pageSetup.label "Rregullim Faqeje…">
 <!ENTITY portrait.accesskey "p">
 <!ENTITY portrait.label "Portret">
 <!ENTITY print.accesskey "Y">
-<!ENTITY print.label "Shtyp...">
+<!ENTITY print.label "Shtyp…">
 <!ENTITY scale.label "Shkallë:">
 <!ENTITY leftarrow.tooltip    "Faqja e mëparshme">
 <!ENTITY rightarrow.tooltip   "Faqja pasuese">

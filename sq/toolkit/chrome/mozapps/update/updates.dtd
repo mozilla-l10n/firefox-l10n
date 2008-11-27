@@ -21,8 +21,8 @@
 <!ENTITY  license.decline.accesskey       "N">
 
 <!ENTITY  downloading.title               "Shkarkim Përditësimi">
-<!ENTITY  downloading.intro               "Po shkarkohet përditësimi...">
-<!ENTITY  connecting.label                "Po bëhet lidhja te shërbyesi i përditësimeve...">
+<!ENTITY  downloading.intro               "Po shkarkohet përditësimi…">
+<!ENTITY  connecting.label                "Po bëhet lidhja te shërbyesi i përditësimeve…">
 <!ENTITY  verificationFailedText.label    "&brandShortName;-i  nuk qe i zoti të vërtetonte  pacënueshmërinë 
                                            e përditësimit shtues që shkarkoi, ndaj tani po shkarkon paketën e plotë të përditësimit.">
 
@@ -40,7 +40,7 @@
 <!ENTITY  finishedBackground.name         "Përditëso:">
 <!ENTITY  installed.title                 "Përditësimi u Instalua">
 <!ENTITY  installed.intro                 "Përditësimi u instalua me sukses.">
-<!ENTITY  whatsnew.label                  "Lexoni më tepër rreth të rejash...">
+<!ENTITY  whatsnew.label                  "Lexoni më tepër rreth të rejash…">
 
 <!ENTITY  update.details.label            "Hollësi">
 <!ENTITY  update.installedOn.label        "Instaluar në:">

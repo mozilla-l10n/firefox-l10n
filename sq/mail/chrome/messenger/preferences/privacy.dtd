@@ -16,7 +16,7 @@
 <!ENTITY  masterPassword.intro        "Nëse caktohet, Fjalëkalimi i Përgjithshëm mbron tërë fjalëkalimet tuaj - por duhet ta jepni një herë për çdo sesion.">
 <!ENTITY  setMasterPassword.label     "Fjalëkalim i Përgjithshëm">
 <!ENTITY  setMasterPassword.accesskey "M">
-<!ENTITY  removeMasterPassword.label  "Hiq Fjalëkalimin e Përgjithshëm...">
+<!ENTITY  removeMasterPassword.label  "Hiq Fjalëkalimin e Përgjithshëm…">
 <!ENTITY  removeMasterPassword.accesskey "R">
 
 <!ENTITY  editPasswords.label         "Përpunoni Fjalëkalimet e Ruajtur">

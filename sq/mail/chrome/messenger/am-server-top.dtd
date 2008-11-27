@@ -73,13 +73,13 @@
 <!ENTITY abbreviate.label "Trego emra grupe lajmesh tek pjesa Dosje Poste si:">
 <!ENTITY abbreviateOn.label "Emra të plotë (Për shembull, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Emra të shkurtuar (Për shembull, 'n.p.m.mail-news')">
-<!ENTITY advancedButton.label "Të mëtejshëm...">
+<!ENTITY advancedButton.label "Të mëtejshëm…">
 <!ENTITY serverDefaultCharset.label "Kodim Parazgjedhje Gërmash:">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY localFolderPicker.label "Përzgjidhni Drejtori Vendore">
-<!ENTITY browseFolder.label "Shfletoni...">
+<!ENTITY browseFolder.label "Shfletoni…">
 <!ENTITY browseFolder.accesskey "B">
 <!ENTITY newsrcPicker.label "Përzgjidhni Kartelë newsrc">
-<!ENTITY browseNewsrc.label "Shfletoni...">
+<!ENTITY browseNewsrc.label "Shfletoni…">
 <!ENTITY browseNewsrc.accesskey "e">
 <!ENTITY modelDeleteImmediately.accesskey "d">

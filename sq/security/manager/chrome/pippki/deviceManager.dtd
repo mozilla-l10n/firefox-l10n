@@ -10,7 +10,7 @@
 <!ENTITY devmgr.status.label "Gjendje">
 <!ENTITY devmgr.title "Administrues Pajisjesh">
 <!ENTITY devmgr.version.label "Version">
-<!ENTITY loaddevice.browse "Shfletoni...">
+<!ENTITY loaddevice.browse "Shfletoni…">
 <!ENTITY loaddevice.filename "Emër kartele moduli:">
 <!ENTITY loaddevice.info "Jepni të dhëna rreth modulit që doni të shtoni.">
 <!ENTITY loaddevice.modname "Emër Moduli:">

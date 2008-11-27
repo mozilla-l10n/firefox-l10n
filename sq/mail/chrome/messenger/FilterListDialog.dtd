@@ -1,9 +1,9 @@
 <!ENTITY window.title "Filtra Mesazhesh">
 <!ENTITY nameColumn.label "Emër Filtri">
 <!ENTITY activeColumn.label "Veprues">
-<!ENTITY newButton.label "I ri...">
+<!ENTITY newButton.label "I ri…">
 <!ENTITY newButton.accesskey "N">
-<!ENTITY editButton.label "Përpunoni...">
+<!ENTITY editButton.label "Përpunoni…">
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "Fshij">
 <!ENTITY deleteButton.accesskey "t">

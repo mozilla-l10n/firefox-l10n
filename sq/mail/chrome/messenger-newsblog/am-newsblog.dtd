@@ -10,7 +10,7 @@
 <!ENTITY useQuickMode.label "Si parazgjedhje, shfaq përmbledhje artikulli në vend të ngarkimit të faqes web"> 
 <!ENTITY useQuickMode.accesskey "B">
 
-<!ENTITY manageSubscriptions.label "Administro Regjistrime..."> 
+<!ENTITY manageSubscriptions.label "Administro Regjistrime…"> 
 <!ENTITY manageSubscriptions.accesskey "M">
 
 <!-- entities from defaults/isp/rss.rdf -->

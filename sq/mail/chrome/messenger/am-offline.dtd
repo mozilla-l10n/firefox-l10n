@@ -27,5 +27,5 @@
 <!ENTITY retentionKeepUnread.accesskey "r">
 <!ENTITY nntpRemoveBody.label "Vetëm përmbajtje mesazhesh më të vjetër se">
 <!ENTITY nntpRemoveBody.accesskey "O">
-<!ENTITY offlineSelectNntp.label "Përzgjidhni grupe lajmesh për përdorim si i  palidhur...">
+<!ENTITY offlineSelectNntp.label "Përzgjidhni grupe lajmesh për përdorim si i  palidhur…">
 <!ENTITY diskspaceGroupTitle.label "Vend në Disk">

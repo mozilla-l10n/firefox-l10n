@@ -25,9 +25,9 @@
 <!ENTITY help.advancedTips.label        "Ndihmëza &amp; Rrengje të Mëtejshme">
 <!ENTITY help.advancedTips.accesskey    "M">
 
-<!ENTITY cmd.findInBookmarks.label      "Gjej në Faqerojtës...">
+<!ENTITY cmd.findInBookmarks.label      "Gjej në Faqerojtës…">
 <!ENTITY cmd.findInBookmarks.accesskey  "G">
-<!ENTITY cmd.findCurrent.label          "Gjej në Përmbledhjen e Tanishme...">
+<!ENTITY cmd.findCurrent.label          "Gjej në Përmbledhjen e Tanishme…">
 <!ENTITY cmd.findCurrent.accesskey      "i">
 
 <!ENTITY cmd.exportHTML.label           "Eksporto HTML…">
@@ -35,11 +35,11 @@
 <!ENTITY cmd.importHTML.label           "Importo HTML…">
 <!ENTITY cmd.importHTML.accesskey       "I">
 
-<!ENTITY cmd.backup.label               "Kopjeruajtje...">
+<!ENTITY cmd.backup.label               "Kopjeruajtje…">
 <!ENTITY cmd.backup.accesskey           "K">
 <!ENTITY cmd.restore2.label             "Riktheji">
 <!ENTITY cmd.restore2.accesskey         "R">
-<!ENTITY cmd.restoreFromFile.label      "Zgjidhni Kartelë...">
+<!ENTITY cmd.restoreFromFile.label      "Zgjidhni Kartelë…">
 <!ENTITY cmd.restoreFromFile.accesskey  "K">
 
 <!ENTITY cmd.select_all.label "Përzgjidh Tërë">
@@ -85,11 +85,11 @@
 <!ENTITY cmd.sortby_name.accesskey          "R">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
-<!ENTITY cmd.new_bookmark.label            "Faqerojtës i Ri...">
+<!ENTITY cmd.new_bookmark.label            "Faqerojtës i Ri…">
 <!ENTITY cmd.new_bookmark.accesskey        "q">
-<!ENTITY cmd.new_livemark.label            "Faqerojtës i Gjallë i Ri...">
+<!ENTITY cmd.new_livemark.label            "Faqerojtës i Gjallë i Ri…">
 <!ENTITY cmd.new_livemark.accesskey        "G">
-<!ENTITY cmd.new_folder.label              "Dosje e Re...">
+<!ENTITY cmd.new_folder.label              "Dosje e Re…">
 <!ENTITY cmd.new_folder.accesskey          "D">
 <!ENTITY cmd.context_new_folder.accesskey  "O">
 <!ENTITY cmd.new_separator.label           "Ndarës i Ri">
@@ -109,7 +109,7 @@
 <!ENTITY cmd.groupby_post.label      "Grupoji sipas Postimi">
 <!ENTITY cmd.groupby_post.accesskey  "P">
 
-<!ENTITY cmd.moveBookmarks.label                  "Lëvizi...">
+<!ENTITY cmd.moveBookmarks.label                  "Lëvizi…">
 <!ENTITY cmd.moveBookmarks.accesskey              "L">
 <!ENTITY col.name.label          "Emër">
 <!ENTITY col.tags.label          "Etiketa">

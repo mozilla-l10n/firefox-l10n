@@ -10,6 +10,6 @@
 <!ENTITY languages.customize.moveDown.accesskey         "Z">
 <!ENTITY languages.customize.deleteButton.label         "Hiq">
 <!ENTITY languages.customize.deleteButton.accesskey     "H">
-<!ENTITY languages.customize.selectLanguage.label       "Përzgjidhni gjuhë për t&apos;u shtuar...">
+<!ENTITY languages.customize.selectLanguage.label       "Përzgjidhni gjuhë për t&apos;u shtuar…">
 <!ENTITY languages.customize.addButton.label "Shtoje">
 <!ENTITY languages.customize.addButton.accesskey        "S">

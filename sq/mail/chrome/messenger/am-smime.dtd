@@ -5,7 +5,7 @@
 <!ENTITY neverEncrypt.label "Kurrë (mos përdor kodim)">
 <!ENTITY alwaysEncryptMessage.label "E nevojshme (s&apos;mund të dërgoj mesazhe veç në paçin tërë marrësit dëshmi)">
 <!ENTITY encryptionCert.message "Përdor këtë dëshmi për të koduar &amp; çkoduar mesazhe të dërguar te ju:">
-<!ENTITY certificate.button "Përzgjidhni...">
+<!ENTITY certificate.button "Përzgjidhni…">
 <!ENTITY certificate_clear.button "Pastro">
 <!ENTITY signingGroupTitle.label "Nënshkrim Numerik">
 <!ENTITY signMessage.label "Nënshkruaj në mënyrë shifrore (si parazgjedhje) mesazhe">

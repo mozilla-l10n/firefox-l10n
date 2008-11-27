@@ -6,9 +6,9 @@
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpDesc.label "Edhe pse mund të jepni më tepër se një shërbyes (SMTP) dërgues, kjo këshillohet vetëm për përdorues të përparuar. Rregullimi me shërbyesa të shumëfishtë SMTP mund të shkaktojë probleme gjatë dërgimit të mesazheve.">
 
-<!ENTITY smtpListAdd.label  "Shto...">
+<!ENTITY smtpListAdd.label  "Shto…">
 <!ENTITY smtpListAdd.accesskey  "d">
-<!ENTITY smtpListEdit.label "Përpunoni...">
+<!ENTITY smtpListEdit.label "Përpunoni…">
 <!ENTITY smtpListEdit.accesskey "E">
 <!ENTITY smtpListDelete.label "Hiq">
 <!ENTITY smtpListDelete.accesskey "m">

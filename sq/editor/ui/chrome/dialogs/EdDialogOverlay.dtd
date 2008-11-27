@@ -1,9 +1,9 @@
-<!ENTITY AdvancedEditButton.label "Përpunim i Mëtejshëm...">
+<!ENTITY AdvancedEditButton.label "Përpunim i Mëtejshëm…">
 <!ENTITY AdvancedEditButton.accessKey "E">
 <!ENTITY AdvancedEditButton.tooltip "Shto ose ndrysho atribute HTML, stili dhe JavaScript">
-<!ENTITY chooseFileButton.label "Zgjidhni Kartelë...">
+<!ENTITY chooseFileButton.label "Zgjidhni Kartelë…">
 <!ENTITY chooseFileButton.accessKey "K">
-<!ENTITY chooseFileLinkButton.label "Zgjidhni Kartelë...">
+<!ENTITY chooseFileLinkButton.label "Zgjidhni Kartelë…">
 <!ENTITY chooseFileLinkButton.accessKey "z">
 <!ENTITY makeUrlRelative.label "URL është e lidhur me vendndodhjen e faqes">
 <!ENTITY makeUrlRelative.accessKey "r">

@@ -13,7 +13,7 @@
 <!ENTITY cmd.open.accesskey "H">
 <!ENTITY cmd.open.label "Hape">
 <!ENTITY cmd.openWith.accesskey "m">
-<!ENTITY cmd.openWith.label "Hape Me...">
+<!ENTITY cmd.openWith.label "Hape Me…">
 <!ENTITY cmd.pause.accesskey "P">
 <!ENTITY cmd.pause.label "Pushim">
 <!ENTITY cmd.resume.accesskey "R">
@@ -24,9 +24,9 @@
 <!ENTITY cmd.show.label "Hap Dosjen Përkatëse">
 <!ENTITY downloads.title "Shkarkime">
 <!ENTITY showFolder.label "Shfaq këtë Dosje">
-<!ENTITY starting.label "Po fillohet...">
-<!ENTITY scanning.label "Po kontrollohet për viruse...">            
-<!ENTITY searchBox.label "Kërkim...">                          
+<!ENTITY starting.label "Po fillohet…">
+<!ENTITY scanning.label "Po kontrollohet për viruse…">            
+<!ENTITY searchBox.label "Kërkim…">                          
 <!ENTITY cmd.removeFromList.label         "Hiqe Prej Liste">
 <!ENTITY cmd.removeFromList.accesskey     "H">
 <!ENTITY cmd.goToDownloadPage.label       "Shko te Faqja e Shkarkimeve">

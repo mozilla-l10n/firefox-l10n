@@ -3,14 +3,14 @@
 <!ENTITY alwaysAsk.accesskey          "A">
 <!ENTITY neverAsk.label               "Ruaj tërë bashkangjitjet te kjo dosje:">
 <!ENTITY neverAsk.accesskey           "S">
-<!ENTITY chooseFolderWin.label        "Shfletoni...">
+<!ENTITY chooseFolderWin.label        "Shfletoni…">
 <!ENTITY chooseFolderWin.accesskey    "B">
-<!ENTITY chooseFolderMac.label        "Zgjidhni...">
+<!ENTITY chooseFolderMac.label        "Zgjidhni…">
 <!ENTITY chooseFolderMac.accesskey    "C">
 
 
 <!ENTITY fileTypes.label              "Veprime Shkarkimi">
-<!ENTITY configureActions.label       "Shihni &amp; Përpunoni Veprime...">
+<!ENTITY configureActions.label       "Shihni &amp; Përpunoni Veprime…">
 <!ENTITY configureActions.accesskey   "V">
 <!ENTITY fileTypesDescription.label   "&brandShortName;-i mund të shkarkojë ose hapë vetvetiu disa lloje bashkangjitjesh.">
 

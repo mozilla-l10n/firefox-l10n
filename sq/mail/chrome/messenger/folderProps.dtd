@@ -37,7 +37,7 @@
 <!ENTITY folderProps.name.accesskey              "N">
 
 <!ENTITY folderSharingTab.label                  "Përndarje">
-<!ENTITY privileges.button.label                 "Privilegje...">
+<!ENTITY privileges.button.label                 "Privilegje…">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "Keni lejet vijuese:">
 <!ENTITY folderType.label                        "Tip Dosjeje:">

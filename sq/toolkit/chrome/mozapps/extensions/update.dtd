@@ -10,8 +10,8 @@ për shtesat tuaja për t&quot;i bërë ato të përputhshme me këtë version."
 <!ENTITY  mismatch.bottom.label           "&brandShortName;-i mund të kontrollojë në ka të passhëm versione të përputhshëm të këtyre shtesave.">
 
 <!ENTITY  checking.wizard.title           "Po kontrollohet për Shtesa të Përputhshme">
-<!ENTITY  checking.top.label              "Po kontrollohet për përditësime për shtesat tuaja të papërputhshme...">
-<!ENTITY  checking.status                 "Kjo mund të hajë ca minuta...">
+<!ENTITY  checking.top.label              "Po kontrollohet për përditësime për shtesat tuaja të papërputhshme…">
+<!ENTITY  checking.status                 "Kjo mund të hajë ca minuta…">
 
 <!ENTITY  found.wizard.title               "U gjetën Shtesa të Përputhshme">
 <!ENTITY  found.top.label                 "Përzgjidhni shtesat që do të donit të instalonit:">
@@ -20,7 +20,7 @@ për shtesat tuaja për t&quot;i bërë ato të përputhshme me këtë version."
 <!ENTITY  found.enableXPInstall.accesskey "A">
 
 <!ENTITY  installing.wizard.title         "Instalim Shtesash të Përputhshme">
-<!ENTITY  installing.top.label            "Po shkarkohen dhe instalohen përditësime për shtesat tuaja...">
+<!ENTITY  installing.top.label            "Po shkarkohen dhe instalohen përditësime për shtesat tuaja…">
 
 <!ENTITY  noupdates.wizard.title          "Nuk u Gjetën Shtesa të Përputhshme">
 <!ENTITY  noupdates.intro.desc            "&brandShortName;-i nuk qe në gjendje të gjejë përditësime për shtesat tuaja të papërputhshme.">
@@ -38,7 +38,7 @@ për shtesat tuaja për t&quot;i bërë ato të përputhshme me këtë version."
 
 <!ENTITY  versioninfo.wizard.title        "Kontroll Përputhshmërie të Shtesave">
 <!ENTITY  versioninfo.top.label           "Po kontrollohet përputhshmëria e shtesave për përputhshmëri me këtë version të &brandShortName;-it.">
-<!ENTITY  versioninfo.waiting             "Kjo mund të hajë ca minuta...">
+<!ENTITY  versioninfo.waiting             "Kjo mund të hajë ca minuta…">
 
 <!ENTITY  installerrors.wizard.title      "Probleme në Instalim Përditësimesh">
 <!ENTITY  installerrors.intro.label       "&brandShortName;-i hasi në probleme kur përditësoi disa prej shtesave tuaja.">
@@ -46,6 +46,6 @@ për shtesat tuaja për t&quot;i bërë ato të përputhshme me këtë version."
 <!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "Klikoni Përfundoje për të vazhduar me nisjen e &brandShortName;-it.">
 <!ENTITY  enableChecking.label            "Lejo &brandShortName;-in të kontrollojë për përditësime.">
-<!ENTITY  details.label                   "Hollësi...">
+<!ENTITY  details.label                   "Hollësi…">
 <!ENTITY  details.accesskey               "D">
 <!ENTITY  clickFinish.labelMac            "Klikoni U bë për të vazhduar me nisjen e &brandShortName;-it.">

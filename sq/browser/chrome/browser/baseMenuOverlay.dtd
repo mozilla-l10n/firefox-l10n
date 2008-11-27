@@ -22,10 +22,10 @@
 
 <!ENTITY helpReleaseNotes.label         "Shënime Versioni">
 <!ENTITY helpReleaseNotes.accesskey     "V">
-<!ENTITY updateCmd.label                "Kontrollo për Përditësime...">
+<!ENTITY updateCmd.label                "Kontrollo për Përditësime…">
 <!ENTITY updateCmd.accesskey            "K">
 
-<!ENTITY preferencesCmdMac.label        "Parapëlqime...">
+<!ENTITY preferencesCmdMac.label        "Parapëlqime…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 

@@ -28,7 +28,7 @@
 <!ENTITY selectAllCmd.label					"Përzgjidhe të Tërën">  
 <!ENTITY selectAllCmd.key					"A">  
 <!ENTITY selectAllCmd.accesskey				"T"> 
-<!ENTITY preferencesCmd.label				"Mundësi...">
+<!ENTITY preferencesCmd.label				"Mundësi…">
 <!ENTITY preferencesCmd.accesskey			"M"> 
 <!ENTITY preferencesCmdUnix.label       "Parapëlqime">
 <!ENTITY preferencesCmdUnix.accesskey     "M"> 
@@ -40,7 +40,7 @@
 <!ENTITY showTaskbarCmd.label					"Shtyllë Gjendjeje">  
 <!ENTITY showTaskbarCmd.accesskey				"S"> 
 
-<!ENTITY proxy.label                                    "Formësim ndërmjetësi...">
+<!ENTITY proxy.label                                    "Formësim ndërmjetësi…">
 <!ENTITY proxy.accesskey                                "F">
 
 <!ENTITY closeCmd.label			"Mbylle">  

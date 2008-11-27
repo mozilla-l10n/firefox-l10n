@@ -10,9 +10,9 @@
 <!ENTITY viewTags.accesskey "E">
 <!ENTITY viewCustomViews.label "Parje Vetjake">
 <!ENTITY viewCustomViews.accesskey "V">
-<!ENTITY viewVirtualFolder.label "Ruaj Parje si Dosje...">
+<!ENTITY viewVirtualFolder.label "Ruaj Parje si Dosje…">
 <!ENTITY viewVirtualFolder.accesskey "D">
-<!ENTITY viewCustomizeView.label "Përshtat...">
+<!ENTITY viewCustomizeView.label "Përshtat…">
 <!ENTITY viewCustomizeView.accesskey "r">
 <!ENTITY viewNotDeleted.label "Të pafshirat">
 <!ENTITY viewNotDeleted.accesskey "f">

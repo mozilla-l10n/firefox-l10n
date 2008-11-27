@@ -36,10 +36,10 @@
 <!ENTITY  close.label                   "të mbyll &brandShortName;-in">
 <!ENTITY  askEachTime.label             "pyetmë çdo herë">
 
-<!ENTITY  cookieExceptions.label        "Përjashtime...">
+<!ENTITY  cookieExceptions.label        "Përjashtime…">
 <!ENTITY  cookieExceptions.accesskey    "P">
 
-<!ENTITY  showCookies.label             "Shfaq &quot;Cookies&quot;...">
+<!ENTITY  showCookies.label             "Shfaq &quot;Cookies&quot;…">
 <!ENTITY  showCookies.accesskey         "S">
 
 
@@ -51,10 +51,10 @@
 <!ENTITY  askBeforeClear.label           "Pyetmë para pastrimit të të dhënave vetjake">
 <!ENTITY  askBeforeClear.accesskey       "y">
 
-<!ENTITY  clearDataSettings.label        "Rregullime...">
+<!ENTITY  clearDataSettings.label        "Rregullime…">
 <!ENTITY  clearDataSettings.accesskey    "R">
 
-<!ENTITY  clearDataNow.label             "Pastroje Tani...">
+<!ENTITY  clearDataNow.label             "Pastroje Tani…">
 <!ENTITY  clearDataNow.label2            "Pastroje Tani">
 <!ENTITY  clearDataNow.accesskey         "T">
 <!ENTITY  acceptThirdParty.label        "Prano &quot;cookie&quot; palësh të treta">

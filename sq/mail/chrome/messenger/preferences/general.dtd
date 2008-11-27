@@ -29,7 +29,7 @@
 <!ENTITY playSound1.accesskey              "d">
 <!ENTITY showAnimatedAlert.label          "Shfaq një sinjalizim">
 <!ENTITY showAnimatedAlert.accesskey      "S">
-<!ENTITY customizeMailAlert.label         "Përshtasni...">
+<!ENTITY customizeMailAlert.label         "Përshtasni…">
 <!ENTITY customizeMailAlert.accesskey     "C">
 
 <!ENTITY play.label                       "Luaj">
@@ -40,7 +40,7 @@
 <!ENTITY systemsound.accesskey            "y">
 <!ENTITY customsound.label                "Përdor kartelën zanore vijuese">
 <!ENTITY customsound.accesskey            "U">
-<!ENTITY browse.label                     "Shfletoni...">
+<!ENTITY browse.label                     "Shfletoni…">
 <!ENTITY browse.accesskey                 "B">
 
 <!ENTITY addonsMgr.label                  "Shtesa">

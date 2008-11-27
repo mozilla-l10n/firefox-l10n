@@ -59,7 +59,7 @@
 <!ENTITY moreDictionaries.label "Shkarko Më">
 <!ENTITY addToUserDictionaryButton.label "Shto Fjalë">
 <!ENTITY addToUserDictionaryButton.accessKey "d">
-<!ENTITY editUserDictionaryButton.label "Përpunoni...">
+<!ENTITY editUserDictionaryButton.label "Përpunoni…">
 <!ENTITY editUserDictionaryButton.accessKey "E">
 <!ENTITY recheckButton.label "Rikontrollo Faqe">
 <!ENTITY recheckButton.accessKey "P">

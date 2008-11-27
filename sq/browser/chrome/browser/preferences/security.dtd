@@ -7,10 +7,10 @@
   useDownloadedList.label convey the meaning "suspected" (and not something like
   "known").
 -->
-<!ENTITY  addonExceptions.label         "Përjashtime...">
+<!ENTITY  addonExceptions.label         "Përjashtime…">
 <!ENTITY  addonExceptions.accesskey     "j">
 <!ENTITY  warnings.label                "Mesazhe Sinjalizimi">
-<!ENTITY  warningSettings.label         "Rregullime...">
+<!ENTITY  warningSettings.label         "Rregullime…">
 <!ENTITY  warningSettings.accesskey     "R">
 <!-- LOCALIZATION NOTE (askThirdParty.label):
   The entities askThirdParty.label and askThirdPartyAfter.label appear on a
@@ -22,12 +22,12 @@
 <!ENTITY  passwords.label               "Fjalëkalime">
 <!ENTITY  rememberPasswords.label       "Mba mend fjalkalimet për &quot;site&quot;-et">
 <!ENTITY  rememberPasswords.accesskey   "M">
-<!ENTITY  passwordExceptions.label      "Përjashtime...">
+<!ENTITY  passwordExceptions.label      "Përjashtime…">
 <!ENTITY  passwordExceptions.accesskey  "e">
 
 <!ENTITY  useMasterPassword.label        "Përdor fjalëkalim të përgjithshëm">
 <!ENTITY  useMasterPassword.accesskey    "P">
-<!ENTITY  changeMasterPassword.label     "Ndrysho Fjalëkalimin e Përgjithshëm...">
+<!ENTITY  changeMasterPassword.label     "Ndrysho Fjalëkalimin e Përgjithshëm…">
 <!ENTITY  changeMasterPassword.accesskey "F">
 <!ENTITY  savedPasswords.label            "Fjalëkalime të Ruajtur…">
 <!ENTITY  savedPasswords.accesskey        "u">

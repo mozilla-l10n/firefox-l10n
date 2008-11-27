@@ -7,7 +7,7 @@
 <!ENTITY searchTermCaption.label "Formësoni kriterin e kërkimit të përdorur për këtë dosje kërkimi të ruajtur: ">
 
 <!ENTITY folderSelectionCaption.label "Përzgjidhni dosjet për kërkim: ">
-<!ENTITY chooseFoldersButton.label "Zgjidhni...">
+<!ENTITY chooseFoldersButton.label "Zgjidhni…">
 <!ENTITY chooseFoldersButton.accesskey "h">
 
 <!ENTITY searchOnline.label "Kërkoni Online (Jep përfundime të përditësuar për dosje IMAP dhe Lajmesh por rrit kohën e hapjes së dosjes)">

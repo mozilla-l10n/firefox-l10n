@@ -6,16 +6,16 @@
 <!ENTITY fileMenu.accesskey                             "f">
 <!ENTITY newMenu.label                                  "E re">
 <!ENTITY newMenu.accesskey                              "N">
-<!ENTITY newCard.label                                  "Kartë Libri Vendndodhjesh...">
+<!ENTITY newCard.label                                  "Kartë Libri Vendndodhjesh…">
 <!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newCard.accesskey                              "C">
 <!ENTITY newCard.key                                    "N">
-<!ENTITY newListCmd.label                               "Listë Postimesh...">
+<!ENTITY newListCmd.label                               "Listë Postimesh…">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey                           "L">
-<!ENTITY newAddressBookCmd.label                        "Libër Vendndodhjesh...">
+<!ENTITY newAddressBookCmd.label                        "Libër Vendndodhjesh…">
 <!ENTITY newAddressBookCmd.accesskey                    "B">
-<!ENTITY newLDAPDirectoryCmd.label                      "Drejtori LDAP...">
+<!ENTITY newLDAPDirectoryCmd.label                      "Drejtori LDAP…">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Mesazh">
@@ -24,17 +24,17 @@
 <!ENTITY closeCmd.label                                 "Mbyll">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "c">
-<!ENTITY printSetupCmd.label                            "Rregullim Faqeje...">
+<!ENTITY printSetupCmd.label                            "Rregullim Faqeje…">
 <!ENTITY printSetupCmd.accesskey                        "u">
 <!ENTITY printPreviewCardViewCmd.label                  "Paraparje e Shtypjes së Kartës">
 <!ENTITY printPreviewCardViewCmd.accesskey              "v">
 <!ENTITY printPreviewAddressBook.label                  "Paraparje e Shtypjes së Librit të Vendndodhjeve">
 <!ENTITY printPreviewAddressBook.accesskey              "B">
-<!ENTITY printCardViewCmd.label                         "Shtyp Kartë...">
+<!ENTITY printCardViewCmd.label                         "Shtyp Kartë…">
 <!ENTITY printCardViewCmd.accesskey                     "p">
 <!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->
 <!ENTITY printCardViewCmd.key                           "P">
-<!ENTITY printAddressBook.label                         "Shtyp Libër Vendndodhjesh...">
+<!ENTITY printAddressBook.label                         "Shtyp Libër Vendndodhjesh…">
 <!ENTITY printAddressBook.accesskey                     "A">
 
 <!-- Edit Menu -->
@@ -68,7 +68,7 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label                            "Veti...">
+<!ENTITY propertiesCmd.label                            "Veti…">
 <!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY propertiesCmd.accesskey                        "i">
 <!ENTITY propertiesCmd.key                              "i">
@@ -84,7 +84,7 @@
 
 <!ENTITY showTaskbarCmd.label                           "Shtyllë Gjendjeje">
 <!ENTITY showTaskbarCmd.accesskey                       "S">
-<!ENTITY customizeToolbar.label                         "Përshtasni...">
+<!ENTITY customizeToolbar.label                         "Përshtasni…">
 <!ENTITY customizeToolbar.accesskey                     "C">
 <!ENTITY showCardPane.label                             "Kuti Përmbledhëse Karte">
 <!ENTITY showCardPane.accesskey                         "C">
@@ -105,13 +105,13 @@
 <!ENTITY messengerCmd.label                             "Postë &amp; Grupe Lajmesh">
 <!ENTITY messengerCmd.accesskey                         "m">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY searchAddressesCmd.label                       "Kërko te Vendndodhjet...">
+<!ENTITY searchAddressesCmd.label                       "Kërko te Vendndodhjet…">
 <!ENTITY searchAddressesCmd.accesskey                   "S">
-<!ENTITY importCmd.label                                "Importo...">
+<!ENTITY importCmd.label                                "Importo…">
 <!ENTITY importCmd.accesskey                            "I">
-<!ENTITY exportCmd.label                                "Eksporto...">
+<!ENTITY exportCmd.label                                "Eksporto…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd.label                           "Mundësi...">
+<!ENTITY preferencesCmd.label                           "Mundësi…">
 <!ENTITY preferencesCmd.accesskey                       "O">
 <!ENTITY preferencesCmdUnix.label                       "Parapëlqime">
 <!ENTITY preferencesCmdUnix.accesskey                   "n"> 

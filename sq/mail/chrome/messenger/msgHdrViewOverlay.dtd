@@ -13,15 +13,15 @@
 <!ENTITY userAgentField2.label "agjent-përdoruesi: ">
 <!ENTITY openAttachmentCmd.label    "Hap">  
 <!ENTITY openAttachmentCmd.accesskey		"O">  
-<!ENTITY saveAsAttachmentCmd.label    "Ruaj Si...">  
+<!ENTITY saveAsAttachmentCmd.label    "Ruaj Si…">  
 <!ENTITY saveAsAttachmentCmd.accesskey		"A"> 
-<!ENTITY detachAttachmentCmd.label    "Shqit ...">  
+<!ENTITY detachAttachmentCmd.label    "Shqit …">  
 <!ENTITY deleteAttachmentCmd.label    "Fshi">  
-<!ENTITY saveAllAttachmentsCmd.label    "Ruaj Tërë...">  
+<!ENTITY saveAllAttachmentsCmd.label    "Ruaj Tërë…">  
 <!ENTITY saveAllAttachmentsCmd.accesskey		"S">  
-<!ENTITY detachAllAttachmentsCmd.label    "Shqit Tërë...">  
+<!ENTITY detachAllAttachmentsCmd.label    "Shqit Tërë…">  
 <!ENTITY detachAllAttachmentsCmd.accesskey    "D">  
-<!ENTITY deleteAllAttachmentsCmd.label    "Fshi Tërë...">  
+<!ENTITY deleteAllAttachmentsCmd.label    "Fshi Tërë…">  
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "E">  
 <!ENTITY copyLinkCmd.label        "Kopjo Vendndodhje Lidhjeje">  
 <!ENTITY copyLinkCmd.accesskey		"C">  

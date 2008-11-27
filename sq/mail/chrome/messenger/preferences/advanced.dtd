@@ -45,14 +45,14 @@
 <!ENTITY reuseExpRadio1.label          "Dritare ekzistuese mesazhi">
 <!ENTITY reuseExpRadio1.accesskey      "x">
 <!ENTITY configEditDesc.label          "Formësim i Mëtejshëm">
-<!ENTITY configEdit.label              "Përpunues Formësimesh...">
+<!ENTITY configEdit.label              "Përpunues Formësimesh…">
 <!ENTITY configEdit.accesskey          "g">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Shih vetvetiu për përditësime të:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "h">
-<!ENTITY checkNow.label                 "Kontrollo Tani...">
+<!ENTITY checkNow.label                 "Kontrollo Tani…">
 
 <!ENTITY showSettings.label            "Rregullime…">
 <!ENTITY showSettings.accesskey        "r">
@@ -69,7 +69,7 @@
 <!ENTITY connectionsInfo.caption       "Lidhje">
 <!ENTITY offlineInfo.caption           "I palidhur">
 <!ENTITY offlineInfo.label             "Formësoni rregullime për i palidhur">
-<!ENTITY showOffline.label             "I palidhur...">
+<!ENTITY showOffline.label             "I palidhur…">
 <!ENTITY showOffline.accesskey         "O">
 
 <!-- Offline and Disk Space -->
@@ -80,7 +80,7 @@
 <!ENTITY itemNetworking.label    "Hapësirë në Rrjet &amp; Disku">
 <!ENTITY itemCertificates.label  "Dëshmi">
 <!ENTITY returnReceiptsInfo.label      "Përcaktoni se si i trajton &brandShortName; faturat e kthimit">
-<!ENTITY showReturnReceipts.label      "Fatura Kthimi...">
+<!ENTITY showReturnReceipts.label      "Fatura Kthimi…">
 <!ENTITY showReturnReceipts.accesskey  "R">
 
 <!ENTITY modeAutoAddonWarn.accesskey    "-">

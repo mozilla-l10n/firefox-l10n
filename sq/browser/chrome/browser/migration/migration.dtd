@@ -1,5 +1,5 @@
 <!ENTITY done.label "Objektet vijues u importuan me sukses:">
-<!ENTITY done.title "Importim i Plotësuar ">
+<!ENTITY done.title "Importim i Plotësuar">
 <!ENTITY importFrom.label "Importo Mundësi, Faqerojtësa, Historik, Fjalëkalime dhe të dhëna të tjera prej:">
 <!ENTITY importFromBookmarks.label "Importo Faqerojtës prej:">
 <!ENTITY importFromCamino.accesskey "C">
@@ -35,7 +35,7 @@
 <!ENTITY importItems.title "Objekte për Importim">
 <!ENTITY noMigrationSources.label       "Nuk u gjetën dot programe që përmbajnë faqerojtësa, historik apo fjalëkalime.">
 <!ENTITY importSource.title "Importo Rregullime dhe Të dhëna">
-<!ENTITY migrating.label "Objektet vijues po importohen...">
+<!ENTITY migrating.label "Objektet vijues po importohen…">
 <!ENTITY migrating.title "Po importohet...">
 <!ENTITY migrationWizard.title "Importues">
 <!ENTITY selectProfile.label "Është e mundur të importohen profilet vijues prej: ">

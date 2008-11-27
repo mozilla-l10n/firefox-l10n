@@ -12,19 +12,19 @@
 <!ENTITY tabCmd.label "Skedë e Re">
 <!ENTITY tabCmd.accesskey "S">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Hap Vendndodhje...">
+<!ENTITY openLocationCmd.label "Hap Vendndodhje…">
 <!ENTITY openLocationCmd.accesskey "V">
-<!ENTITY openFileCmd.label "Hap Kartelë...">
+<!ENTITY openFileCmd.label "Hap Kartelë…">
 <!ENTITY openFileCmd.accesskey "K">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Rregullim Faqeje...">
+<!ENTITY printSetupCmd.label "Rregullim Faqeje…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Paraparje e Shtypjes">
 <!ENTITY printPreviewCmd.accesskey "P">
-<!ENTITY printCmd.label "Shtyp...">
+<!ENTITY printCmd.label "Shtyp…">
 <!ENTITY printCmd.accesskey "y">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Importo...">
+<!ENTITY import.label "Importo…">
 <!ENTITY import.accesskey "I">
 
 <!ENTITY goOfflineCmd.label "Puno i Palidhur">
@@ -53,10 +53,10 @@
 <!ENTITY bookmarksMenu.label "Faqerojtësa">
 <!ENTITY bookmarksMenu.accesskey "F">
 <!ENTITY subscribeToPageMenupopup.label "Pajtohuni te Kjo Faqe">
-<!ENTITY subscribeToPageMenuitem.label "Pajtohuni te Kjo Faqe...">
-<!ENTITY addCurPagesCmd.label "Faqeruaj Tërë Skedat...">
+<!ENTITY subscribeToPageMenuitem.label "Pajtohuni te Kjo Faqe…">
+<!ENTITY addCurPagesCmd.label "Faqeruaj Tërë Skedat…">
 
-<!ENTITY bookmarkAllCmd.label "Faqeruaj Tërë Skedat...">
+<!ENTITY bookmarkAllCmd.label "Faqeruaj Tërë Skedat…">
 <!ENTITY backCmd.label                "Mbrapsht">
 <!ENTITY backCmd.accesskey            "M">
 <!ENTITY backButton.tooltip           "Shko mbrapsht një faqe">
@@ -97,7 +97,7 @@
 <!ENTITY toolsMenu.label              "Mjete">
 <!ENTITY toolsMenu.accesskey          "M"> 
 
-<!ENTITY keywordfield.label           "Shtoni një Fjalëkyç për këtë Kërkim...">
+<!ENTITY keywordfield.label           "Shtoni një Fjalëkyç për këtë Kërkim…">
 <!ENTITY keywordfield.accesskey       "K">
 <!ENTITY search.label                 "Kërkim në Web">
 <!ENTITY search.accesskey             "K">
@@ -142,7 +142,7 @@
 <!ENTITY selectAllCmd.label         "Përzgjidhe të Tërën">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "P"> 
-<!ENTITY preferencesCmd.label       "Mundësi...">
+<!ENTITY preferencesCmd.label       "Mundësi…">
 <!ENTITY preferencesCmd.accesskey     "M"> 
 <!ENTITY preferencesCmdUnix.label       "Parapëlqime">
 <!ENTITY preferencesCmdUnix.accesskey     "l"> 
@@ -153,7 +153,7 @@
 <!ENTITY viewToolbarsMenu.accesskey     "P"> 
 <!ENTITY viewSidebarMenu.label "Anështyllë">
 <!ENTITY viewSidebarMenu.accesskey "A">
-<!ENTITY viewCustomizeToolbar.label       "Përshtasni..."> 
+<!ENTITY viewCustomizeToolbar.label       "Përshtasni…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "P"> 
 <!ENTITY historyMenu.label "Historik">
 <!ENTITY historyMenu.accesskey "H">
@@ -216,24 +216,24 @@
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "Shihni Pamje Sfondi">
 <!ENTITY viewBGImageCmd.accesskey     "F">
-<!ENTITY setDesktopBackgroundCmd.label      "Vëre Si Sfond Desktopi...">
+<!ENTITY setDesktopBackgroundCmd.label      "Vëre Si Sfond Desktopi…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY sendPageCmd.label            "Dërgo Lidhjen...">
+<!ENTITY sendPageCmd.label            "Dërgo Lidhjen…">
 <!ENTITY sendPageCmd.accesskey        "g">
-<!ENTITY savePageCmd.label            "Ruaje Faqen Si...">
+<!ENTITY savePageCmd.label            "Ruaje Faqen Si…">
 <!ENTITY savePageCmd.accesskey        "R">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "S">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Ruaje Kornizën Si...">
+<!ENTITY saveFrameCmd.label           "Ruaje Kornizën Si…">
 <!ENTITY saveFrameCmd.accesskey       "F">
-<!ENTITY saveLinkCmd.label            "Ruaje Lidhjen Si...">
+<!ENTITY saveLinkCmd.label            "Ruaje Lidhjen Si…">
 <!ENTITY saveLinkCmd.accesskey        "R">
-<!ENTITY sendLinkCmd.label            "Dërgo Lidhjen..."> 
+<!ENTITY sendLinkCmd.label            "Dërgo Lidhjen…"> 
 <!ENTITY sendLinkCmd.accesskey        "L">
-<!ENTITY saveImageCmd.label           "Ruaje Pamjen Si...">
+<!ENTITY saveImageCmd.label           "Ruaje Pamjen Si…">
 <!ENTITY saveImageCmd.accesskey       "v">
-<!ENTITY sendImageCmd.label           "Dërgo Pamjen...">
+<!ENTITY sendImageCmd.label           "Dërgo Pamjen…">
 <!ENTITY sendImageCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label            "Kopjo Vendndodhje Lidhjeje">
 <!ENTITY copyLinkCmd.accesskey        "K">
@@ -275,8 +275,8 @@
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Përpunoni Parapëlqime Bllokuesi Flluckash...">
-<!ENTITY editPopupSettings.label "Përpunoni Mundësi Bllokuesi Flluckash...">
+<!ENTITY editPopupSettingsUnix.label "Përpunoni Parapëlqime Bllokuesi Flluckash…">
+<!ENTITY editPopupSettings.label "Përpunoni Mundësi Bllokuesi Flluckash…">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Këmbe Drejtim Faqeje">
@@ -284,14 +284,14 @@
 <!ENTITY bidiSwitchTextDirectionItem.label        "Këmbe Drejtim Teksti">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
-<!ENTITY findOnCmd.label     "Gjej në Këtë Faqe...">
+<!ENTITY findOnCmd.label     "Gjej në Këtë Faqe…">
 <!ENTITY findOnCmd.accesskey "G">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Gjej Sërish">
 <!ENTITY findAgainCmd.accesskey "I">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY spellAddDictionaries.label "Shto fjalorë...">
+<!ENTITY spellAddDictionaries.label "Shto fjalorë…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">            
 <!ENTITY bookmarkThisPageCmd.label "Faqeruaj Këtë Faqe">

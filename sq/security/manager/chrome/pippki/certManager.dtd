@@ -20,7 +20,7 @@
 <!ENTITY certmgr.detail.general_tab.title "Të përgjithshme">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Hollësi">
 <!ENTITY certmgr.details.label "Fusha Dëshmie">
-<!ENTITY certmgr.edit2.label "Përpunojeni...">
+<!ENTITY certmgr.edit2.label "Përpunojeni…">
 <!ENTITY certmgr.editca.label "Përpunoni Besueshmëri AD-sh">
 <!ENTITY certmgr.editcacert.title "Përpunoni rregullime besueshmërie dëshmish AD-sh">
 <!ENTITY certmgr.editcert.edittrust "Përpunoni rregullime besueshmërie:">
@@ -55,7 +55,7 @@
 <!ENTITY certmgr.title "Përgjegjës Dëshmish">
 <!ENTITY certmgr.tokenname "Pajisje Sigurie">
 <!ENTITY certmgr.validity.label "Vlefshmëri">
-<!ENTITY certmgr.view2.label "Shiheni...">
+<!ENTITY certmgr.view2.label "Shiheni…">
 <!ENTITY certmgr.websites2 "Keni në kartelë dëshmi që identifikojnë këta shërbyesa:">
 <!ENTITY certmgr.close.accesskey              "M">
 <!ENTITY certmgr.editca.accesskey             "d">
@@ -64,15 +64,15 @@
 <!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.accesskey          "C">
 <!ENTITY certmgr.tab.orphan2                  "Të tjera">
-<!ENTITY certmgr.pending.label                "Po vërtetohet dëshmia...">
+<!ENTITY certmgr.pending.label                "Po vërtetohet dëshmia…">
 <!ENTITY certmgr.typesofoverrides             "Përjashtime">
-<!ENTITY certmgr.export.label                 "Eksporto...">                      
+<!ENTITY certmgr.export.label                 "Eksporto…">                      
 <!ENTITY certmgr.export.accesskey             "E">                              
-<!ENTITY certmgr.delete2.label                 "Fshije...">
-<!ENTITY certmgr.backup2.label                 "Kopjeruaje...">
-<!ENTITY certmgr.backupall2.label              "Kopjeruaji të Tëra...">
-<!ENTITY certmgr.restore2.label                "Importo...">    
-<!ENTITY certmgr.addException.label           "Shtoni Përjashtim...">
+<!ENTITY certmgr.delete2.label                 "Fshije…">
+<!ENTITY certmgr.backup2.label                 "Kopjeruaje…">
+<!ENTITY certmgr.backupall2.label              "Kopjeruaji të Tëra…">
+<!ENTITY certmgr.restore2.label                "Importo…">    
+<!ENTITY certmgr.addException.label           "Shtoni Përjashtim…">
 <!ENTITY certmgr.addException.accesskey       "j">
 <!ENTITY exceptionMgr.title                   "Shtoni Përjashtime Sigurie">
 <!ENTITY exceptionMgr.exceptionButton         "Ripohoni Përjashtime Sigurie">
@@ -83,7 +83,7 @@
 <!ENTITY exceptionMgr.certlocation.download   "Merrni Dëshmi">
 <!ENTITY exceptionMgr.certlocation.accesskey  "M">
 <!ENTITY exceptionMgr.certstatus.caption      "Gjendje Dëshmie">
-<!ENTITY exceptionMgr.certstatus.viewCert     "Shiheni...">
+<!ENTITY exceptionMgr.certstatus.viewCert     "Shiheni…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "S">
 <!ENTITY exceptionMgr.permanent.label         "Depozitoje përgjithmonë këtë përjashtim">
 <!ENTITY exceptionMgr.permanent.accesskey     "D">

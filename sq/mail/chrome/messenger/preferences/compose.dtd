@@ -36,10 +36,10 @@
 <!ENTITY addressingEnable.accesskey            "A">
 <!ENTITY directories.label                     "Shërbyes Drejtorie:">
 <!ENTITY directories.accesskey                 "D">
-<!ENTITY editDirectories.label                 "Përpuno Drejtori...">
+<!ENTITY editDirectories.label                 "Përpuno Drejtori…">
 <!ENTITY editDirectories.accesskey             "E">
 <!ENTITY sendOptionsDescription.label          "Formësoni sjellje të lidhur me formate tekstesh">
-<!ENTITY sendOptions.label                     "Mundësi Dërëgimi...">
+<!ENTITY sendOptions.label                     "Mundësi Dërëgimi…">
 <!ENTITY sendOptions.accesskey                 "S">
 
 <!ENTITY htmlComposeHeader.label              "HTML">

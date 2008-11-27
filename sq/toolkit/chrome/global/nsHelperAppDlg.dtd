@@ -4,7 +4,7 @@
 <!ENTITY badApp.title "Nuk u gjet zbatim">
 <!ENTITY caption.label "Po hapet #1">
 <!ENTITY chooseApp.accesskey "z">
-<!ENTITY chooseApp.label "Zgjidhni...">
+<!ENTITY chooseApp.label "Zgjidhni…">
 <!ENTITY chooseAppFilePickerTitle "Zgjidhni Zbatim Ndihmës">
 <!ENTITY intro.attachment.label "&quot;Site&quot; këshillon që &quot;#3&quot; të trajtohet si një bashkangjitje. Është e tipit #2 (#1) dhe gjendet në:">
 <!ENTITY intro.attachment.noDesc.label "&quot;Site&quot;-i këshillon që &quot;#3&quot; të trajtohet si një bashkangjitje. Është e tipit #2 dhe gjendet në:">

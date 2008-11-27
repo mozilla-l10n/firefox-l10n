@@ -38,7 +38,7 @@
 <!ENTITY imagemapBox.label "Hartë Pamjeje">
 <!ENTITY removeImageMapButton.label "Hiq">
 <!ENTITY removeImageMapButton.accessKey "R">
-<!ENTITY editImageMapButton.label "Përpunoni...">
+<!ENTITY editImageMapButton.label "Përpunoni…">
 <!ENTITY editImageMapButton.tooltip "Krijoni pika të nxehta të klikueshme për këtë pamje">
 
 <!-- These are the options for image alignment -->

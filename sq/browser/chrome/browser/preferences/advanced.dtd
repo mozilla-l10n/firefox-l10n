@@ -27,7 +27,7 @@
 <!ENTITY networkTab.label                "Rrjet">
 <!ENTITY connection.label                "Lidhje">
 <!ENTITY connectionDesc.label            "Formësoni mënyrën se si &brandShortName;-i lidhet në Internet">
-<!ENTITY connectionSettings.label        "Rregullime...">
+<!ENTITY connectionSettings.label        "Rregullime…">
 <!ENTITY connectionSettings.accesskey    "R">
 <!ENTITY useCacheBefore.label            "Përdor deri në">
 <!ENTITY useCacheBefore.accesskey        "D">

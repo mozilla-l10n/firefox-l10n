@@ -5,7 +5,7 @@
 <!ENTITY fileMenu.label "Kartelë">
 <!ENTITY goToLineCmd.accesskey "O">
 <!ENTITY goToLineCmd.commandkey "l">
-<!ENTITY goToLineCmd.label "Shko te Rreshti...">
+<!ENTITY goToLineCmd.label "Shko te Rreshti…">
 <!ENTITY mainWindow.preface "Burim i: ">
 <!ENTITY mainWindow.title "&brandFullName;">
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
@@ -19,15 +19,15 @@
 <!ENTITY menu_wrapLongLines.accesskey "Z">
 <!ENTITY menu_wrapLongLines.title "Mbështill Rreshta të Gjatë ">
 <!ENTITY pageSetupCmd.accesskey "F">
-<!ENTITY pageSetupCmd.label "Rregullim Faqeje...">
+<!ENTITY pageSetupCmd.label "Rregullim Faqeje…">
 <!ENTITY printCmd.accesskey "Y">
 <!ENTITY printCmd.commandkey "P">
-<!ENTITY printCmd.label "Shtyp...">
+<!ENTITY printCmd.label "Shtyp…">
 <!ENTITY printPreviewCmd.accesskey "P">
 <!ENTITY printPreviewCmd.label "Paraparje e Shtypjes">
 <!ENTITY savePageCmd.accesskey "R">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY savePageCmd.label "Ruaj Faqen Si...">
+<!ENTITY savePageCmd.label "Ruaj Faqen Si…">
 <!ENTITY textEnlarge.commandkey "+">
 <!ENTITY textEnlarge.commandkey2 "=">
 <!ENTITY textReduce.commandkey "-">
@@ -36,7 +36,7 @@
 <!ENTITY viewMenu.label "Shihni">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.label  "Gjej Sërish">
-<!ENTITY findOnCmd.label     "Gjej në Këtë Faqe...">
+<!ENTITY findOnCmd.label     "Gjej në Këtë Faqe…">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findOnCmd.accesskey "F">

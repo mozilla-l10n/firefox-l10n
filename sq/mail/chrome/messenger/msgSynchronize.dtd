@@ -13,7 +13,7 @@
 <!ENTITY sendMessage.accesskey "S">
 <!ENTITY workOffline.label "Puno i palidhur pasi të jetë përfunduar shkarkimi dhe/ose njëkohësimi">
 <!ENTITY workOffline.accesskey "W">
-<!ENTITY selectButton.label "Përzgjidhni...">
+<!ENTITY selectButton.label "Përzgjidhni…">
 <!ENTITY selectButton.accesskey "E">
 <!ENTITY MsgSelectDesc.label "Zgjidhni dosje poste dhe grupe lajmesh për përdorim të palidhur.">
 <!ENTITY MsgSelectInd.label "Shkarko">

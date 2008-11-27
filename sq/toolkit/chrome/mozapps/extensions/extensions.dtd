@@ -90,11 +90,11 @@
 <!ENTITY updateSuccess.label              "Përditësimi u plotësua me sukses.">
 <!ENTITY installSuccess.label             "Instalimi u plotësua me sukses.">
 <!ENTITY installSuccessRestart.label      "Rinisni programin për të plotësuar instalimin.">
-<!ENTITY installWaiting.label             "Në pritje...">
-<!ENTITY installIncompatibleUpdate.label  "Po kontrollohet për përputhshmëri...">
-<!ENTITY installFinishing.label           "Po instalohet...">
+<!ENTITY installWaiting.label             "Në pritje…">
+<!ENTITY installIncompatibleUpdate.label  "Po kontrollohet për përputhshmëri…">
+<!ENTITY installFinishing.label           "Po instalohet…">
 <!ENTITY installFailure.label             "Instalimi dështoi.">
-<!ENTITY cmd.installLocalFile.label       "Instalo...">
+<!ENTITY cmd.installLocalFile.label       "Instalo…">
 <!ENTITY toBeDisabled.label               "Kjo shtesë do të çaktivizohet kur të riniset &brandShortName;-i.">
 <!ENTITY toBeEnabled.label                "Kjo shtesë do të aktivizohet kur të riniset &brandShortName;-i.">
 <!ENTITY toBeInstalled.label              "Kjo shtesë do të instalohet kur të riniset &brandShortName;-i.">

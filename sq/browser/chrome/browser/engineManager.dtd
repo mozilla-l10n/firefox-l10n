@@ -10,7 +10,7 @@
 <!ENTITY  remove.label              "Hiqe">
 <!ENTITY  remove.accesskey          "H">
 
-<!ENTITY  addEngine.label           "Merr më tepër motorë kërkimi...">
+<!ENTITY  addEngine.label           "Merr më tepër motorë kërkimi…">
 <!ENTITY  addEngine.accesskey       "M">
 
 <!ENTITY  enableSuggest.label       "Shfaq këshillime kërkimi">

@@ -14,7 +14,7 @@
 <!ENTITY reportForm.behind_login.title              "&quot;Site&quot;-i Web mbrohet me fjalëkalim"><!-- No ":" at the end -->
 <!ENTITY reportForm.problem_type.title              "Lloj Problemi:">
 
-<!ENTITY reportForm.problem_type.chooseOne.title    "Zgjidhni Një...">
+<!ENTITY reportForm.problem_type.chooseOne.title    "Zgjidhni Një…">
 
 <!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
 <!ENTITY reportForm.problem_type.item1.title        "Shfletues i pambuluar">
@@ -39,7 +39,7 @@
 <!ENTITY reportResults.showDetail.title             "Shfaqni Hollësi">
 
 <!ENTITY sendReport.label                           "Dërgim Raportimi">
-<!ENTITY sendReport.description                     "Dërgim Raportimi te shërbyesi...">
+<!ENTITY sendReport.description                     "Dërgim Raportimi te shërbyesi…">
 
 <!ENTITY finish.label                               "Raportimi u Dërgua">
 <!ENTITY dontShowPrivacyStatement.accesskey         "M">

@@ -2,9 +2,9 @@
 <!ENTITY pluginWizard.availablePluginsPage.description.label "Janë të mundshme shtojcat vijuese:">
 <!ENTITY pluginWizard.availablePluginsPage.installerUI "Disa shtojca, gjatë instalimit, mund të kërkojnë të dhëna shtesë prej jush.">
 <!ENTITY pluginWizard.availablePluginsPage.title "Shkarkime Shtojcash të Mundshme">
-<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName;-i po kontrollon tani për shtojca të mundshme...">
+<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName;-i po kontrollon tani për shtojca të mundshme…">
 <!ENTITY pluginWizard.finalPage.description.label "&brandShortName;-i përfundoi instalimin e shtojcave që mungonin:">
-<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName;-i po instalon shtojcat...">
+<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName;-i po instalon shtojcat…">
 <!ENTITY pluginWizard.installPluginsPage.title "Po instalohen Shtojca">
 <!ENTITY pluginWizard.licensePage.title "Licenca Shtojcash">
 <!ENTITY pluginWizard.licensePage.accept.label "Pajtohem.">
