@@ -9,13 +9,13 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
                                                                   inside the private browsing mode -->
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (مرور خصوصی)">
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (مرور خصوصی)‏">
 
 <!ENTITY tabCmd.label "زبانهٔ جدید">
 <!ENTITY tabCmd.accesskey "ز">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "بازکردن نشانی اینترنتی…">
-<!ENTITY openLocationCmd.accesskey "ب">
+<!ENTITY openLocationCmd.accesskey "ش">
 <!ENTITY openFileCmd.label "بازکردن پرونده…">
 <!ENTITY openFileCmd.accesskey "ب">
 <!ENTITY openFileCmd.commandkey "o">
@@ -58,7 +58,7 @@
 <!ENTITY fullScreenExit.accesskey "خ">
 
 <!ENTITY closeWindow.label "بستن پنجره">
-<!ENTITY closeWindow.accesskey "d">
+<!ENTITY closeWindow.accesskey "ه">
 
 <!ENTITY bookmarksMenu.label "چوب‌الف‌ها">
 <!ENTITY bookmarksMenu.accesskey "چ">
@@ -227,7 +227,7 @@
 <!ENTITY reloadFrameCmd.label         "بازآوردن چارچوب">
 <!ENTITY reloadFrameCmd.accesskey     "ب">
 <!ENTITY viewPartialSourceForSelectionCmd.label "نمایش مبدأ متنِ انتخاب شده">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "نمایش مبدأ MathML">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "نمایش مبداء MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "م">
