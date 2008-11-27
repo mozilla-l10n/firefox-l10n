@@ -37,7 +37,6 @@
 
 <!ENTITY Window.title "Eduki taula">
 <!ENTITY buildToc.label "Honen eduki taula sortu:">
-<!ENTITY style.label "Estiloa:">
 <!ENTITY tag.label "Etiketa:">
 <!ENTITY class.label "Klasea:">
 <!ENTITY header1.label "1 Maila">

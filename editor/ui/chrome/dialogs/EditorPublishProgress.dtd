@@ -43,8 +43,6 @@
 
 <!ENTITY status.label "Argitaratzen...">
 <!ENTITY fileList.label "Argitaratze egoera">
-<!ENTITY statusHeader.label "Egoera">
-<!ENTITY filenameHeader.label "Fitxategi-izena">
 <!ENTITY succeeded.label "Lortua">
 <!ENTITY failed.label "Huts">
 

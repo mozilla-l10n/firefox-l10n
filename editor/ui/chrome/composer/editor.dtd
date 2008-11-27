@@ -55,11 +55,3 @@
 
 <!ENTITY formatMenu.label "Formatua">
 <!ENTITY formatMenu.accesskey "o">
-
-<!ENTITY helpMenu.label "Laguntza">
-<!ENTITY aboutCmd.label "Honi buruz">
-<!-- Display Mode Toolbar -->
-
-<!ENTITY editMode.label "Editatu modua:">
-
-<!ENTITY statusText.label "Eginda">

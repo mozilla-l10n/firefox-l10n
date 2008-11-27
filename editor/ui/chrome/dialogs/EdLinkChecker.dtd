@@ -20,7 +20,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Charles Manxke (cmanske@netscape.com)
+   -   Charles Manske (cmanske@netscape.com)
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -38,9 +38,6 @@
 <!-- Window title -->
 
 <!ENTITY windowTitle.label "Arakatu irudi eta loturen kokapenak">
-<!ENTITY urlsNotFound.label "Hurrengo irudi edo loturen kokapenak ez dira aurkitu:">
-<!ENTITY notFoundKey.label "(&quot;X&quot; = fitxategia ez da aurkitu, &quot;?&quot; = denboraz-kanpo konektatzen saiatzean.)">
-<!ENTITY changeUrlButton.label "Aldatu aukeratutako osagaiaren kokapena">
 <!ENTITY succeeded.label "Lortua">
 <!ENTITY failed.label "Huts">
 <!ENTITY closeButton.label "Itxi">

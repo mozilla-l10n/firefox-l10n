@@ -69,7 +69,6 @@
 <!ENTITY tableCaptionNone.label "Bat ere ez">
 <!ENTITY tableInheritColor.label "(Orrian zehar kolorea ikustea utzi)">
 
-<!ENTITY cellPercent.label "taularen ehunekoa">
 <!ENTITY cellSelection.label "Aukera">
 <!ENTITY cellSelectCell.label "Gelaxka">
 <!ENTITY cellSelectRow.label "Errenkada">
@@ -78,11 +77,7 @@
 <!ENTITY cellSelectNext.accessKey "H">
 <!ENTITY cellSelectPrevious.label "Aurrekoa">
 <!ENTITY cellSelectPrevious.accessKey "A">
-<!ENTITY cellApplyBeforeMove.label "Aukera aldatu aurretik aplikatu aldaketak">
-<!ENTITY cellKeepCurrentData.label "Oraingo ezarpenak mantendu">
 <!ENTITY applyBeforeChange.label "Uneko aldakate hautapena aldatu eta gero ezarriko dira.">
-<!ENTITY cellRowSpan.label "Errenkada hedatu:">
-<!ENTITY cellColSpan.label "Zutabea hedatu:">
 <!ENTITY cellContentAlignment.label "Edukiaren lerrokatzea">
 <!ENTITY cellHorizontal.label "Horizontala:">
 <!ENTITY cellHorizontal.accessKey "Z">
@@ -100,7 +95,6 @@
 <!ENTITY cellAlignMiddle.label "Erdian">
 <!ENTITY cellAlignBottom.label "Behean">
 <!ENTITY cellAlignJustify.label "Justifikatu">
-<!ENTITY cellAlignAtChar.label "Karakterean:">
 <!ENTITY cellInheritColor.label "(Utzi taularen kolorea zeharkatzea)">
 <!ENTITY cellUseCheckboxHelp.label "Hautatutako gelaxken propietateak zehazteko kontrol-laukiak erabili">
 <!-- Used in both Table and Cell panels  -->

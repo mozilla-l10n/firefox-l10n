@@ -36,13 +36,10 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
 
-
 <!ENTITY windowTitle.label "Argitaratu orria">
 <!ENTITY windowTitleSettings.label "Argitaratze ezarpenak">
-
 <!ENTITY publishTab.label "Argitaratu">
 <!ENTITY settingsTab.label "Ezarpenak">
-
 <!ENTITY publishButton.label "Argitaratu">
 <!-- Publish Tab Panel -->
 
@@ -72,10 +69,8 @@
 <!ENTITY filename.accesskey "F">
 <!ENTITY filename.tooltip "Idatzi fitxategiaren izena, web orrientzat '.html' ere">
 <!ENTITY filenameExample.label "adib,: &quot;nireorria.html&quot;">
-<!ENTITY relatedDocs.label "Argitaratzeko beste fitxategiak">
 <!ENTITY setDefaultButton.label "Ezarri lehenetsi bezala">
 <!ENTITY setDefaultButton.accesskey "L">
-<!ENTITY setDefSiteAndDir.label "Lehenetsitako Gune eta Direktorio bezala Ezarri">
 <!ENTITY removeButton.label "Ezabatu gunea">
 <!ENTITY removeButton.accesskey "E">
 <!-- Settings Tab Panel -->
