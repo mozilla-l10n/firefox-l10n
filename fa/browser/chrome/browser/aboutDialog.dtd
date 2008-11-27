@@ -1,9 +1,9 @@
 <!ENTITY aboutDialog.title          "دربارهٔ &brandFullName;">
 <!ENTITY copyright                  "دست‌اندرکاران">
 <!ENTITY copyright.accesskey        "د">
-<!ENTITY copyrightGNOME.accesskey   "گ">
+<!ENTITY copyrightGNOME.accesskey   "د">
 <!ENTITY aboutLink                  "&lt; دربارهٔ &brandFullName;">
-<!ENTITY aboutLink.accesskey        "ر">
+<!ENTITY aboutLink.accesskey        "د">
 <!ENTITY aboutVersion               "نسخهٔ">
 <!ENTITY closeCmdGNOME.label        "بستن">  
 <!ENTITY closeCmdGNOME.accesskey    "ب">
