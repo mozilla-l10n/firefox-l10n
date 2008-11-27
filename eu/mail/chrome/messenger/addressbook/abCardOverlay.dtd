@@ -115,6 +115,11 @@ HTML mezuetan kanpoko iturrietatik txertatutako irudiak onartuko dira.">
 <!ENTITY HomeCountry.accesskey "i">
 <!ENTITY HomeWebPage.label "Web Orria:">
 <!ENTITY HomeWebPage.accesskey "w">
+<!ENTITY Birthday.label "Jaiotze-data">
+<!ENTITY Birthday.accesskey "J">
+<!ENTITY Year.emptytext "Urtea">
+<!ENTITY Or.value "edp">
+<!ENTITY Age.emptytext "Edadea">
 
 <!ENTITY Work.tab "Lanbidea">
 <!ENTITY Work.accesskey "L">
@@ -141,11 +146,6 @@ HTML mezuetan kanpoko iturrietatik txertatutako irudiak onartuko dira.">
 
 <!ENTITY Other.tab "Besteak">
 <!ENTITY Other.accesskey "h">
-<!ENTITY Birthday.label "Jaiotze-data">
-<!ENTITY Birthday.accesskey "J">
-<!ENTITY Year.emptytext "Urtea">
-<!ENTITY Or.value "edp">
-<!ENTITY Age.emptytext "Edadea">
 <!ENTITY Custom1.label "1 Pertsonalizatua:">
 <!ENTITY Custom1.accesskey "1">
 <!ENTITY Custom2.label "2 Pertsonalizatua:">

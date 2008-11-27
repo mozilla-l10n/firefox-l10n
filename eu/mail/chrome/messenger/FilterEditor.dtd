@@ -34,6 +34,6 @@
 <!ENTITY deleteFromPOP.label "Ezabatu POP Zerbitzaritik">
 <!ENTITY fetchFromPOP.label "POP Zerbitzaritik Deskargatu">
 <!ENTITY ignoreThread.label "Haria alde batera utzi">
-<!ENTITY ignoreSubthread.label "Azpiaria alde batetara utzi">
-<!ENTITY watchThread.label "Ikusi aria">
+<!ENTITY ignoreSubthread.label "Azpiharia alde batetara utzi">
+<!ENTITY watchThread.label "Ikusi haria">
 <!ENTITY stopExecution.label "Gelditu iragazki exekuzioa">

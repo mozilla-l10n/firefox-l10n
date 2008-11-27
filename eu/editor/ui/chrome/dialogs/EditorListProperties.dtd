@@ -47,7 +47,6 @@
 <!ENTITY bulletList.value "Buletdun zerrenda (zenbaki gabea)">
 <!ENTITY numberList.value "Zenbakidun zerrenda">
 <!ENTITY definitionList.value "Definizio-zerrenda">
-<!ENTITY changeListMsg.label "Zerrenda-mota aldatzean:">
 <!ENTITY changeEntireListRadio.label "Aldatu zerrenda osoa">
 <!ENTITY changeEntireListRadio.accessKey "A">
 <!ENTITY changeSelectedRadio.label "Aldatu hautatutako elementuak soilik">

@@ -34,12 +34,6 @@
 <!ENTITY printCardViewCmd.key "P">
 <!ENTITY printAddressBook.label "Helbide Liburua Inprimatu ...">
 <!ENTITY printAddressBook.accesskey "A">
-
-<!ENTITY quitApplicationCmdWin.label "Irten">
-<!ENTITY quitApplicationCmdWin.accesskey "r">
-<!ENTITY quitApplicationCmd.label "Itxi">
-<!ENTITY quitApplicationCmd.accesskey "X">
-<!ENTITY quitApplicationCmd.key "Q">
 <!-- Edit Menu -->
 
 <!ENTITY editMenu.label "Editatu">

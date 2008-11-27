@@ -6,6 +6,8 @@
 <!-- General Settings -->
 
 
+<!ENTITY enableGloda.label "Gaitu mezuen indizea">
+<!ENTITY enableGloda.accesskey "i">
 <!ENTITY showCondensedAddresses.label "Erakutsi nire helbide liburuko pertsonen bistarazte-izena bakarrik">
 <!ENTITY showCondensedAddresses.accesskey "p">
 

@@ -623,6 +623,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY phishingBarMessage2.label "Mezu hau iruzur bat izan daiteke">
 <!ENTITY removePhishingBarButton1.label "Alde batatara utzi abisua">
 <!ENTITY reportPhishingError1.label "Mezu honek ez dirudi iruzur bat denik">
+<!-- Message Header Button Box (to show hidden email addresses) -->
+
+<!ENTITY more.label "gehiago">
 <!-- Quick Search Bar -->
 
 <!ENTITY quickSearchCmd.key "k">

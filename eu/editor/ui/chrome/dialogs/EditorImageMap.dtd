@@ -82,7 +82,6 @@
 
 <!ENTITY zoominCmd.label "Zoom gehiago">
 <!ENTITY zoomoutCmd.label "Zoom gutxiago">
-<!ENTITY delSpotCmd.label "Ezabatu anuntzioa">
 <!-- Keys -->
 
 <!ENTITY clear.key "z">
