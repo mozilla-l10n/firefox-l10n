@@ -36,7 +36,7 @@
 <!ENTITY noMigrationSources.label       "Nuk u gjetën dot programe që përmbajnë faqerojtësa, historik apo fjalëkalime.">
 <!ENTITY importSource.title "Importo Rregullime dhe Të dhëna">
 <!ENTITY migrating.label "Objektet vijues po importohen…">
-<!ENTITY migrating.title "Po importohet...">
+<!ENTITY migrating.title "Po importohet…">
 <!ENTITY migrationWizard.title "Importues">
 <!ENTITY selectProfile.label "Është e mundur të importohen profilet vijues prej: ">
 <!ENTITY selectProfile.title "Përzgjidhni Profil">
