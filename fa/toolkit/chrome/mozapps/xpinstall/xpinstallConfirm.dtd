@@ -2,8 +2,8 @@
 
 <!ENTITY dialog.title            "نصب نرم‌افزار">
 <!ENTITY dialog.style            "width: 45em">
-<!ENTITY warningPrimary.label    "Install add-ons only from authors whom you trust.">
-<!ENTITY warningSecondary.label  "Malicious software can damage your computer or violate your privacy.">
+<!ENTITY warningPrimary.label    "تنها افزودنی‌های مؤلفانی را نصب کنید که به آنها اطمینان دارید.">
+<!ENTITY warningSecondary.label  "نرم‌افزارهای بدخواه می‌توانند به رایانه‌تان صدمه بزنند یا به حریم خصوصی‌تان خدشه وارد کنند.">
 
 <!ENTITY from.label "از:">
 

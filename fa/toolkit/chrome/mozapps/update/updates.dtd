@@ -4,21 +4,18 @@
 <!ENTITY  window.macWidth                 "39em">
 
 <!ENTITY  checking.title                  "در حال گشتن به دنبال به‌هنگام‌سازی‌ها">
-<!ENTITY  updateCheck.label               "Looking for newer versions of &brandShortName;…">
+<!ENTITY  updateCheck.label               "جستجو به دنبال نسخهٔ جدیدتری از &brandShortName;…">
 
 <!ENTITY  noupdatesfound.title            "هیچ به‌هنگام‌سازی‌ای پیدا نشد">
-<!ENTITY  noupdatesautoenabled.intro      "There are no updates available. &brandShortName; will check
-                                           periodically for updates.">
-<!ENTITY  noupdatesautodisabled.intro     "There are no updates available. Please check again later or enable
-                                           &brandShortName;'s automatic update checking.">
+<!ENTITY  noupdatesautoenabled.intro      "هیچ به‌هنگام‌سازی‌ای موجود نیست.  &brandShortName; هر چند وقت یک بار به دنبال به‌هنگام‌سازی‌ها خواهد گشت.">
+<!ENTITY  noupdatesautodisabled.intro     "هیچ به‌هنگام‌سازی‌ای موجود نیست.  لطفاً بعداً دوباره تلاش کنید، یا جستجوی خودکار به‌هنگام‌سازی‌های &brandShortName; را فعال سازید.">
 
-<!ENTITY  incompatibleCheck.title         "Checking Add-on Compatibility">
-<!ENTITY  incompatibleCheck.label         "Looking for newer versions of your add-ons…">
+<!ENTITY  incompatibleCheck.title         "بررسی سازگاری افزودنی‌ها">
+<!ENTITY  incompatibleCheck.label         "جستجو به دنبال نسخهٔ جدیدتری از افزودنی‌های‌تان…">
 
 <!ENTITY  clickHere.label                 "اطلاعات بیشتر در مورد این به‌هنگام‌سازی">
 
-<!ENTITY  evangelism.desc                 "It is strongly recommended that you apply this 
-                                           update for &brandShortName; as soon as possible.">
+<!ENTITY  evangelism.desc                 "به شدت توصیه می‌شود که این به‌هنگام‌سازی را هر چه سریع‌تر روی &brandShortName; اعمال کنید.">
 
 <!ENTITY  license.instructions            "اگر موارد این توافق‌نامه را می‌پذیرید، «موافق هستم» را انتخاب کنید تا نصب به‌هنگام‌سازی ادامه پیدا کند.">
 
@@ -30,14 +27,14 @@
 <!ENTITY  license.decline                 "من با مفاد این توافق‌نامه موافق نیستم">
 <!ENTITY  license.decline.accesskey       "ن">
 
-<!ENTITY  incompatibleList.title          "Incompatible Add-ons Found">
+<!ENTITY  incompatibleList.title          "افزودنی ناسازگاری پیدا شد">
 
 <!ENTITY  downloading.title               "در حال بارگیری به‌هنگام‌سازی">
 <!ENTITY  downloading.intro               "در حال بارگیری این به‌هنگام‌سازی…">
 <!ENTITY  connecting.label                "در حال برقراری اتصال با کارگزار به‌هنگام‌سازی…">
 <!ENTITY  verificationFailedText.label    "درستی به‌هنگام‌سازی فزایندهٔ بارگیری شده توسط &brandShortName; تأیید نشد، بنابراین در حال بارگیری بستهٔ کامل به‌هنگام‌سازی است.">
 
-<!ENTITY  viewDetails.tooltip             "View details for this update">
+<!ENTITY  viewDetails.tooltip             "مشاهدهٔ جزئیات این به‌هنگام‌سازی">
 
 <!ENTITY  details.link                    "جزئیات">
 
@@ -48,16 +45,13 @@
 <!ENTITY  errorpatching.title             "به‌هنگام‌سازی شکست خورد">
 <!ENTITY  errorpatching.intro             "به‌هنگام‌سازی جزئی قابل اجرا نیست. &brandShortName; سعی می‌کند یک بستهٔ کامل را  بارگیری کند.">
 
-<!ENTITY  finishedPage.title              "Update Ready to Install">
-<!ENTITY  finishedPage.text               "The update will be installed the next time &brandShortName; starts. You 
-                                           can restart &brandShortName; now, or continue working and restart later.">
+<!ENTITY  finishedPage.title              "به‌هنگام‌سازی آمادهٔ نصب است">
+<!ENTITY  finishedPage.text               "این به‌هنگام‌سازی دفعهٔ بعدی که &brandShortName; شروع به کار کند نصب خواهد شد.  می‌توانید هم‌اکنون &brandShortName; را راه‌اندازی مجدد کنید، یا به کارتان ادامه دهید و این کار را بعداً انجام دهید.">
 
-<!ENTITY  finishedBackgroundPage.text     "A security and stability update for &brandShortName; has been
-                                           downloaded and is ready to be installed.">
+<!ENTITY  finishedBackgroundPage.text     "یک به‌هنگام‌سازی امنیتی و پایداری برای &brandShortName; بارگیری شده و آمادهٔ نصب است.">
 <!ENTITY  finishedBackground.name         "به‌هنگام‌سازی:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "The update will be installed the next time &brandShortName; starts. You
-                                           can restart &brandShortName; now, or continue working and restart later.">
+<!ENTITY  finishedBackground.more         "این به‌هنگام‌سازی دفعهٔ بعدی که &brandShortName; شروع به کار کند نصب خواهد شد.  می‌توانید هم‌اکنون &brandShortName; را راه‌اندازی مجدد کنید، یا به کارتان ادامه دهید و بعداً اقدام به این کار نمایید.">
 
 <!ENTITY  installed.title                 "به‌هنگام‌سازی نصب شد">
 <!ENTITY  installed.intro                 "‏این به‌هنگام‌سازی با موفقیت نصب شد.">

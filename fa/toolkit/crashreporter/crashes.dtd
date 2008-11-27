@@ -1,7 +1,7 @@
-<!ENTITY crashes.title              "Submitted Crash Reports">
-<!ENTITY id.heading                 "Report ID">
-<!ENTITY date.heading               "Date Submitted">
-<!ENTITY noReports.label            "No crash reports have been submitted.">
-<!ENTITY noConfig.label             "This application has not been configured to display crash reports. The preference <code>breakpad.reportURL</code> must be set.">
-<!ENTITY clearReports.label         "Remove Reports">
+<!ENTITY crashes.title              "فروپاشی‌های گزارش شده">
+<!ENTITY id.heading                 "شناسهٔ گزارش">
+<!ENTITY date.heading               "تاریخ ارسال">
+<!ENTITY noReports.label            "هیچ گزارش فروپاشی‌ای ارسال نشده است.">
+<!ENTITY noConfig.label             "این برنامه برای نمایش گزارش‌های فروپاشی پیکربندی نشده است.  مقدار ترجیح <code>breakpad.reportURL</code> باید تنظیم شود.">
+<!ENTITY clearReports.label         "حذف گزارش‌ها">
 

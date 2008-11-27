@@ -23,7 +23,7 @@
 <!ENTITY closeWindow.commandkey         "W">
 
 <!ENTITY search.emptytext               "جستجو">
-<!ENTITY searchHeader.label             "Search results">
+<!ENTITY searchHeader.label             "نتایج جستجو">
 <!ENTITY toctab.label                   "محتوا">
 <!ENTITY toctab.accesskey               "م">
 

@@ -13,7 +13,7 @@
 <!ENTITY profileCreationIntro.text      "اگر چندین مجموعه تنظیمات ایجاد کنید، می‌توانید آن‌ها را توسط نام از یکدیگر تشخیص دهید. می‌توانید از اسم موجود در اینجا و یا اسم دلخواه خود استفاده کنید.">
 <!ENTITY profilePrompt.label            "نام مجموعه تنظیمات جدید را وارد کنید:">
 <!ENTITY profilePrompt.accesskey        "ن">
-<!ENTITY profileDirectoryExplanation.text   "Your user settings, preferences and other user-related data will be stored in:">
+<!ENTITY profileDirectoryExplanation.text   "تنظیمات، ترجیحات و دیگر اطلاعات مربوط به کاربرتان در این مکان ذخیره خواهد شد:">
 <!ENTITY profileDefaultName             "کاربر پیش‌فرض">
 <!ENTITY button.choosefolder.label      "انتخاب پوشه…">
 <!ENTITY button.choosefolder.accesskey  "خ">

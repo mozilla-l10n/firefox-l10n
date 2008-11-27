@@ -129,8 +129,8 @@
 <!ENTITY certmgr.fields.accesskey             "م">
 <!ENTITY certmgr.hierarchy.label              "سلسه‌مراتب گواهی‌ها">
 <!ENTITY certmgr.hierarchy.accesskey          "س">
-<!ENTITY certmgr.addException.label           "Add Exception…">
-<!ENTITY certmgr.addException.accesskey       "x">
+<!ENTITY certmgr.addException.label           "افزودن استثنا…">
+<!ENTITY certmgr.addException.accesskey       "ا">
 
 <!ENTITY exceptionMgr.title                   "Add Security Exception">
 <!ENTITY exceptionMgr.exceptionButton         "Confirm Security Exception">
