@@ -47,7 +47,6 @@
 
 <!ENTITY newevent.from.label                "מאת" >
 <!ENTITY newevent.to.label                  "עבור" >
-<!--###ENTITY newevent.attendees.sendEmail.label "שלח לנוכחים הזמנה בדואר אלקטרוני"-->
 
 <!ENTITY newevent.status.label              "מצב" >
 <!ENTITY newevent.status.accesskey          "מ" >
@@ -92,8 +91,6 @@
 <!ENTITY  event.menu.file.page.setup.accesskey            "ע">
 <!ENTITY  event.menu.file.print.label                     "הדפסה">
 <!ENTITY  event.menu.file.print.accesskey                 "ה">
-<!--###ENTITY  event.menu.file.exit.label                      "יציאה"-->
-<!--###ENTITY  event.menu.file.exit.accesskey                  "י"-->
 
 <!ENTITY  event.menu.edit.label                           "עריכה">
 <!ENTITY  event.menu.edit.accesskey                       "ע">
