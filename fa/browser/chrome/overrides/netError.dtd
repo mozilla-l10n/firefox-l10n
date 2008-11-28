@@ -13,7 +13,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "کارگزار پیدا نشد">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>نشانی را بررسی کنید که به طور اشتباه <span dir="ltr"><strong>ww</strong>.‪example.com‬</span> به جای <span dir="ltr;"><strong>www</strong>.example.com</span> وارد نشده باشد.</li> <li>اگر نمی‌تواند هیچ صفحه‌ای را مرور کنید، اتصال شبکهٔ کامپیوتر را بررسی کنید.</li> <li>اگر کامپیوتر یا شبکهٔ شما توسط کارگزار یا دیوارآتش محافظت می‌شود مطمئن شوید که &brandShortName; مجاز است تا به وب دسترسی داشته باشد.</li> </ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>نشانی را بررسی کنید که به طور اشتباه <span dir='ltr'><strong>ww</strong>.‪example.com‬</span> به جای <span dir='ltr'><strong>www</strong>.example.com</span> وارد نشده باشد.</li> <li>اگر نمی‌تواند هیچ صفحه‌ای را مرور کنید، اتصال شبکهٔ کامپیوتر را بررسی کنید.</li> <li>اگر کامپیوتر یا شبکهٔ شما توسط کارگزار یا دیوارآتش محافظت می‌شود مطمئن شوید که &brandShortName; مجاز است تا به وب دسترسی داشته باشد.</li> </ul>">
 
 <!ENTITY fileNotFound.title "پرونده پیدا نشد">
 <!ENTITY fileNotFound.longDesc "<ul> <li>صحتِ نام پرونده را بررسی کنید.</li> <li>بررسی کنید که آیا پرونده جابه‌جا شده، تغییر نما یافته، یا پاک شده است.</li> </ul>">
@@ -23,7 +23,7 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; به دلایلی نمی‌تواند این صفحه را نمایش دهد.</p>">
 
 <!ENTITY malformedURI.title "این نشانی معتبر نمی‌باشد">
-<!ENTITY malformedURI.longDesc "<ul> <li>نشانی‌های وب به طور معمول به صورت <span dir="ltr;"><strong>http://www.example.com/</strong></span>نوشته می‌شوند</li> <li>مطمئن شوید که از ممیز درست استفاده می‌کنید (یعنی <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc "<ul> <li>نشانی‌های وب به طور معمول به صورت <span dir='ltr'><strong>http://www.example.com/</strong></span>نوشته می‌شوند</li> <li>مطمئن شوید که از ممیز درست استفاده می‌کنید (یعنی <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "اتصال مختل شد">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
