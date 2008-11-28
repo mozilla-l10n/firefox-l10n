@@ -12,7 +12,7 @@
 <!ENTITY inline.accesskey                     "I">
 <!ENTITY asAttachment.label                   "Si Bashkangjitje">
 <!ENTITY asAttachment.accesskey               "A">
-<!ENTITY spellCheck.label                     "Kontrollo drejtshkrimin para se ta dërgosh">
+<!ENTITY spellCheck.label                     "Kontrolloji drejtshkrimin para se ta dërgosh">
 <!ENTITY spellCheck.accesskey                 "C">
 <!ENTITY spellCheckInline.label               "Kontrollo drejtshkrimin në shkrim e sipër">
 <!ENTITY spellCheckInline1.accesskey           "k">
