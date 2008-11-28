@@ -1,5 +1,3 @@
-<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
-%brandDTD;
 <!ENTITY certerror.pagetitle "Недоверенное соединение">
 <!ENTITY certerror.longpagetitle "Это соединение является недоверенным">
 <!ENTITY certerror.introPara1 "Вы попросили &brandShortName; установить защищённое соединение с <b>#1</b>, но мы не можем гарантировать, что это соединение является защищённым.">
