@@ -1,7 +1,6 @@
 <!ENTITY securityMenu.label "אבטחה">
 <!ENTITY securityMenu.accesskey "e">
-<!-- ###ENTITY menu_securityEncryptIfPossible.label "הצפן במידת האפשר" -->
-<!-- ###ENTITY menu_securityEncryptIfPossible.accesskey "P" -->
+
 <!ENTITY menu_securityEncryptRequire.label "הצפן הודעה זו">
 <!ENTITY menu_securityEncryptRequire.accesskey "E">
 <!ENTITY menu_securityNoEncryption.label "אל תצפין הודעה זו">

@@ -1,5 +1,5 @@
 <!ENTITY serverAdvanced.label "הגדרות חשבון מתקדמות">
-<!-- ### ENTITY imapAdvanced.label "הגדרות שרת IMAP מתקדמות" -->
+
 <!ENTITY serverDirectory.label "ספריית שרת IMAP:‏">
 <!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "הראה רק תיקיות להן אני מנוי">
@@ -20,7 +20,7 @@
 <!ENTITY overrideNamespaces.label "הרשה לשרת לעקוף מרחבי שמות אלה">
 <!ENTITY overrideNamespaces.accesskey "A">
 <!ENTITY pop3Desc.label "בעת הורדת דואר pop3 עבור שרת זה, השתמש בתיקייה הבאה עבור דואר חדש:">
-<!-- ### ENTITY folderStorage.label "היכן לאחסן דואר" -->
+
 <!ENTITY globalInbox.label "תיבת דואר נכנס גלובלית (חשבון תיקיות מקומיות)">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "תיבת דואר נכנס עבור חשבון של שרת זה">
