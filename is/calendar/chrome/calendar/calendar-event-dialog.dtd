@@ -49,7 +49,7 @@
 <!ENTITY newevent.attendees.notify.label "Tilkynna þátttakendum">
 <!ENTITY newevent.status.label "Staða">
 <!ENTITY newevent.status.accesskey "S">
-<!ENTITY newevent.status.none.label "Ekki skilgreint">
+<!ENTITY newevent.status.none.label "Ekki skilgreind">
 <!ENTITY newevent.status.cancelled.label "Hætt við">
 <!ENTITY newevent.status.tentative.label "Óráðið">
 <!ENTITY newevent.status.confirmed.label "Samþykkt">
@@ -232,14 +232,14 @@
 <!ENTITY event.recurrence.month.label "mánaðarlega">
 <!ENTITY event.recurrence.year.label "árlega">
 <!ENTITY event.recurrence.pattern.every.label "Hverja">
-<!ENTITY repeat.units.days.both "dag(a)">
+<!ENTITY repeat.units.days.both "Dag(a)">
 <!ENTITY event.recurrence.pattern.every.weekday.label "Alla virka daga">
 <!ENTITY event.recurrence.pattern.weekly.every.label "Hverja">
 <!ENTITY repeat.units.weeks.both "Viku(r)">
 <!ENTITY event.recurrence.on.label "Á:">
 <!ENTITY event.recurrence.pattern.monthly.every.label "Hverja">
 <!ENTITY repeat.units.months.both "Mánuður(ir)">
-<!ENTITY event.recurrence.the.label "Alltaf">
+<!ENTITY event.recurrence.the.label "Þann">
 <!ENTITY event.recurrence.repeat.first.label "Fyrsta">
 <!ENTITY event.recurrence.repeat.second.label "Annan">
 <!ENTITY event.recurrence.repeat.third.label "Þriðja">
@@ -257,8 +257,8 @@
 <!ENTITY event.recurrence.repeat.recur.label "Endurtaka á hverjum degi">
 <!ENTITY event.recurrence.every.label "Hverja:">
 <!ENTITY repeat.units.years.both "Ár">
-<!ENTITY event.recurrence.pattern.yearly.every.month.label "Hverja">
-<!ENTITY event.recurrence.pattern.yearly.every.weekday.label "Hverja">
+<!ENTITY event.recurrence.pattern.yearly.every.month.label "Hvern">
+<!ENTITY event.recurrence.pattern.yearly.every.weekday.label "Hvern">
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
      Portuguese: 6 de Setembro
@@ -275,7 +275,7 @@
 <!ENTITY event.recurrence.pattern.yearly.month.6.label "Júní">
 <!ENTITY event.recurrence.pattern.yearly.month.7.label "Júlí">
 <!ENTITY event.recurrence.pattern.yearly.month.8.label "Ágúst">
-<!ENTITY event.recurrence.pattern.yearly.month.9.label "september">
+<!ENTITY event.recurrence.pattern.yearly.month.9.label "September">
 <!ENTITY event.recurrence.pattern.yearly.month.10.label "Október">
 <!ENTITY event.recurrence.pattern.yearly.month.11.label "Nóvember">
 <!ENTITY event.recurrence.pattern.yearly.month.12.label "Desember">
@@ -292,7 +292,7 @@
 <!ENTITY event.recurrence.pattern.yearly.week.5.label "Fimmtudagur">
 <!ENTITY event.recurrence.pattern.yearly.week.6.label "Föstudagur">
 <!ENTITY event.recurrence.pattern.yearly.week.7.label "Laugardagur">
-<!ENTITY event.recurrence.of.label "af">
+<!ENTITY event.recurrence.of.label "í">
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label "Janúar">
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label "Febrúar">
 <!ENTITY event.recurrence.pattern.yearly.month2.3.label "Mars">
@@ -301,7 +301,7 @@
 <!ENTITY event.recurrence.pattern.yearly.month2.6.label "Júní">
 <!ENTITY event.recurrence.pattern.yearly.month2.7.label "Júlí">
 <!ENTITY event.recurrence.pattern.yearly.month2.8.label "Ágúst">
-<!ENTITY event.recurrence.pattern.yearly.month2.9.label "september">
+<!ENTITY event.recurrence.pattern.yearly.month2.9.label "September">
 <!ENTITY event.recurrence.pattern.yearly.month2.10.label "Október">
 <!ENTITY event.recurrence.pattern.yearly.month2.11.label "Nóvember">
 <!ENTITY event.recurrence.pattern.yearly.month2.12.label "Desember">

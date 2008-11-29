@@ -39,7 +39,7 @@
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
-<!ENTITY day.1.Ddd "sun">
+<!ENTITY day.1.Ddd "Sun">
 <!ENTITY day.1.Ddd.accesskey "S">
 <!ENTITY day.2.Ddd "Mán">
 <!ENTITY day.2.Ddd.accesskey "M">
@@ -75,7 +75,7 @@
 <!ENTITY month.6.name "Júní">
 <!ENTITY month.7.name "Júlí">
 <!ENTITY month.8.name "Ágúst">
-<!ENTITY month.9.name "september">
+<!ENTITY month.9.name "September">
 <!ENTITY month.10.name "Október">
 <!ENTITY month.11.name "Nóvember">
 <!ENTITY month.12.name "Desember">
