@@ -23,7 +23,7 @@
                        keyboard (visible) shortcut (that's Cmd+? for most locales) -->
 <!ENTITY openHelpMac.commandkey           "VK_HELP">
 <!ENTITY openHelpMac.modifiers            "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey   "؟">
+<!ENTITY openHelpMac.frontendCommandkey   "?">
 <!ENTITY openHelpMac.frontendModifiers    "accel">
 
 <!ENTITY helpReleaseNotes.label         "یادداشت‌های انتشار">
