@@ -6,8 +6,8 @@
 <!ENTITY privatebrowsingpage.longDesc                  "در این نشست مرور، هیچ تاریخچه‌ای توسط &brandShortName; ثبت نخواهد شد.  این امر شامل تاریخچهٔ مرورگر، تاریخچهٔ بارگیری‌ها، تاریخچهٔ فرم‌های وبی، کوکی‌ها، و پرونده‌های موقتی اینترنتی می‌شود.  با این حال، پرونده‌هایی که بارگیری کنید یا چوب‌الف‌هایی که ایجاد کنید نگه داشته خواهند شد.">
 
 <!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "ممکن است بخواهید ابتدا تاریخچهٔ اخیر خود را پاک کنید.">
-<!ENTITY privatebrowsingpage.recentHistory.label       "پاک‌سازی تاریخچهٔ اخیر">
-<!ENTITY privatebrowsingpage.recentHistory.accesskey   "پ">
+<!ENTITY privatebrowsingpage.clearRecentHistory.label  "Clear Recent History…">
+<!ENTITY privatebrowsingpage.clearRecentHistory.accesskey "C">
 
 <!ENTITY privatebrowsingpage.howToStopDesc             "برای متوقف کردن مرور خصوصی، گزینهٔ «مرور خصوصی» از منوی ابزارها را غیر فعال کنید.">
 <!ENTITY privatebrowsingpage.footerDesc                "اکنون شروع به کار کنید!">

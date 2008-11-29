@@ -27,13 +27,12 @@
 <!ENTITY netOffline.title "حالت منفصل">
 <!ENTITY netOffline.longDesc "<p>مرورگر در حال کار منفصل است و نمی‌تواند به نشانی درخواستی متصل شود.</p><ul><li>آیا کامپیوتر به یک شبکهٔ فعال متصل است؟</li><li>مرورگر را در حالت کار متصل قرار دهید و دوباره تلاش کنید.</li></ul>">
 
-<!ENTITY contentEncodingError.title "Content Encoding Error">
-<!ENTITY contentEncodingError.longDesc "<p>The page you are trying to view cannot be shown because it uses an invalid or unsupported form of compression.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY contentEncodingError.title "خطای کدگذاری محتوا">
+<!ENTITY contentEncodingError.longDesc "<p>قادر به نمایش صفحه‌ای که درخواست بازدید از آن را کرده‌اید نیست، زیرا از گونه‌ای ناشناخته یا پشتیبانی نشده از فشرده‌سازی استفاده می‌کند.</p><ul><li>لطفاً با صاحبان این وب‌گاه تماس برقرار کنید و آنها را در جریان این مشکل قرار دهید.</li></ul>">
 
-<!ENTITY unsafeContentType.title "Unsafe File Type">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
+<!ENTITY unsafeContentType.title "نوع پروندهٔ ناامن">
+<!ENTITY unsafeContentType.longDesc "<ul>
+  <li>لطفاً با صاحبان وب‌گاه تماس بگیرید و آنها را در جریان این مشکل قرار دهید.</li>
 </ul>
 ">
 
@@ -58,27 +57,23 @@
 <!ENTITY unknownSocketType.title "جواب غیرمنتظره از کارگزار">
 <!ENTITY unknownSocketType.longDesc "<p>این وب‌گاه به شیوهٔ غیر منتظره‌ای به درخواست شبکه‌ای پاسخ داد، و مرورگر قادر به ادامه نیست.</p>">
 
-<!ENTITY nssFailure2.title "Secure Connection Failed">
-<!ENTITY nssFailure2.longDesc "<p>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</p><ul><li>Please contact the web site owners to inform them of this problem.</li></ul>">
+<!ENTITY nssFailure2.title "برقراری اتصال ایمن شکست خورد">
+<!ENTITY nssFailure2.longDesc "<p>صفحه‌ای که تلاش می‌کنید از آن بازدید کنید قابل نمایش نیست، زیرا تأیید اعتبار اطلاعات دریافتی امکان‌پذیر نیست.</p><ul><li>لطفاً با صاحبان این وب‌گاه تماس بگیرید و آنها را در جریان این مشکل قرار دهید.</li></ul>">
 
-<!ENTITY nssBadCert.title "Secure Connection Failed">
+<!ENTITY nssBadCert.title "برقراری اتصال ایمن شکست خورد">
 <!ENTITY nssBadCert.longDesc2 "<ul>
-<li>This could be a problem with the server's configuration, or it could be someone trying to impersonate the server.</li>
-<li>If you have connected to this server successfully in the past, the error may be temporary, and you can try again later.</li>
+<li>امکان دارید این اشکالی در تنظیمات کارگزار باشد، یا کسی به دنبال بازی کردن نقش این کارگزار باشد.</li>
+<li>اگر پیش از این بدون دریافت این خطا از این وب‌گاه بازدید کرده‌اید، این خطا امکان دارد موقتی باشد، بعداً دوباره تلاش کنید.</li>
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title "Suspected Attack Site!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
-<p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
-">
+<!ENTITY malwareBlocked.title "وب‌گاه تهاجمی احتمالی!">
+<!ENTITY malwareBlocked.longDesc "<p>وب‌گاه‌های تهاجمی تلاش می‌کنند برنامه‌هایی نصب کند که اطلاعات خصوصی شما را به سرقت می‌برند، از رایانهٔ شما برای تهاجم به دیگران استفاده می‌کنند، یا به سیستم شما آسیب می‌زنند.</p>
+<p>صاحبان وب‌گاه‌هایی که باور دارند یکی از وب‌گاه‌های تهاجمی به اشتباه گزارش شده است می‌توانند <a href='http://www.stopbadware.org/home/reviewinfo' >درخواست یک بررسی</a> کنند.</p>">
 
-<!ENTITY phishingBlocked.title "Suspected Web Forgery!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
-<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
-">
+<!ENTITY phishingBlocked.title "جعل وبی احتمالی!">
+<!ENTITY phishingBlocked.longDesc "<p>وارد کردن اطلاعات شخصی در این صقحه ممکن است به سرقت هویت شما یا تخلفات دیگری بیانجامد</p>
+<p>این نوع جعل‌های وبی در برخی حقه‌ها به نام حملات ماهی‌گیری استفاده می‌شوند.  در این نوع حملات، از صفحات وب متخلف و پست الکترونیکی برای بازی کردن نقش منبعی که به آن اطمینان دارید استفاده می‌شود.</p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
