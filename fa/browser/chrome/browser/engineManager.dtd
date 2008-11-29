@@ -12,7 +12,7 @@
 <!ENTITY  dn.accesskey              "پ">
 <!ENTITY  remove.label              "حذف">
 <!ENTITY  remove.accesskey          "ح">
-<!ENTITY  edit.label                "ویرایش واژهٔ کلیدی…">
+<!ENTITY  edit.label                "ویرایش کلیدواژه…">
 <!ENTITY  edit.accesskey            "و">
 
 <!ENTITY  addEngine.label           "گرفتن موتورهای جستجوی بیشتر…">
