@@ -1,24 +1,3 @@
-<!-- ### ENTITY sanitizeDialog.title "ניקוי נתונים אישיים" -->
-
-
-<!-- ### ENTITY itemHistory.accesskey "ד" -->
-<!-- ### ENTITY itemFormSearchHistory.label "טפסים שמורים והיסטוריית חיפוש" -->
-<!-- ### ENTITY itemFormSearchHistory.accesskey "ש" -->
-
-<!-- ### ENTITY itemCache.label "מטמון" -->
-<!-- ### ENTITY itemCache.accesskey "מ" -->
-
-<!-- ### ENTITY itemDownloads.label "היסטוריית הורדות" -->
-<!-- ### ENTITY itemDownloads.accesskey "ה" -->
-<!-- ### ENTITY itemSessions.label "חיבורים מאומתים" -->
-<!-- ### ENTITY itemSessions.accesskey "ח" -->
-<!-- ### ENTITY clearDataSettings.label      "כאשר אני מבקש מ־&brandShortName; לנקות את הנתונים האישיים שלי, זה ימחוק את:" -->
-
-<!-- ### ENTITY itemHistory.label "היסטוריית דפדוף" -->
-
-
-
-
 <!ENTITY sanitizePrefs.title           "ניקוי נתונים אישיים">
 <!ENTITY sanitizeDialog2.title         "מחיקת היסטוריה אחרונה">
 

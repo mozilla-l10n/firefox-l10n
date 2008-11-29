@@ -1,7 +1,3 @@
-<!-- ### ENTITY restorepage.title          "שחזור הפעלה קודמת" -->
-<!-- ### ENTITY restorepage.titletext      "ההפעלה האחרונה של  &brandShortName; נסגרה באופן לא צפוי" -->
-<!-- ### ENTITY restorepage.shortDesc      "באפשרותך לשחזר את החלונות והלשוניות מההפעלה הקודמת שלך, או להתחיל הפעלה חדשה במידה והחלונות והלשוניות ההן אינן נחוצות יותר. אנו מצטערים על הטרחה." -->
-
  <!ENTITY restorepage.tabtitle       "שחזור הפעלה">
   <!ENTITY restorepage.pagetitle      "האם ברצונך לשחזר את ההפעלה שלך?">
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
