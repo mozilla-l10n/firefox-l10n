@@ -37,7 +37,7 @@
 
 <!ENTITY orientation.label   "Orientering:">
 <!ENTITY portrait.label      "Stående">
-<!ENTITY portrait.accesskey  "t">
+<!ENTITY portrait.accesskey  "S">
 <!ENTITY landscape.label     "Liggande">
 <!ENTITY landscape.accesskey "L">
 
