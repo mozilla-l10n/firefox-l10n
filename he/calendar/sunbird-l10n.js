@@ -53,4 +53,4 @@ pref("calendar.week.d6saturdaysoff", true);
 pref("general.useragent.locale", "@AB_CD@");
 
 # categories
-pref("calendar.categories.names", "Anniversary,Birthday,Business,Calls,Clients,Competition,Customer,Favorites,Follow up,Gifts,Holidays,Ideas,Issues,Meeting,Miscellaneous,Personal,Projects,Public Holiday,Status,Suppliers,Travel,Vacation");
+pref("calendar.categories.names", "יום השנה,יום הולדת,עסקים,שיחות,לקוחות,תחרות,לקוח,מועדפים,מעקב,מתנות,חגים,רעיונות,סוגיות,פגישה,שונות,אישי,פרוייקטים,חגים לאומיים,מצב,ספקים,טיול,חופשה");

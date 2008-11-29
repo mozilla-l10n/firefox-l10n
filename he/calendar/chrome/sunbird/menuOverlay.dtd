@@ -148,7 +148,7 @@
 
 <!ENTITY preferencesCmd.label                              "אפשרויות">
 <!ENTITY preferencesCmd.accesskey                          "א">
-<!ENTITY preferencesCmdMac.label                           "אפשרויות…">
+<!ENTITY preferencesCmdMac.label                           "העדפות…">
 <!ENTITY preferencesCmdMac.commandkey                      ",">
 <!ENTITY preferencesCmdMac.modifiers                       "accel">
 
