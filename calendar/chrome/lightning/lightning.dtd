@@ -62,8 +62,6 @@
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "Ф">
 
 <!-- Messenger Sidebar -->
-<!ENTITY lightning.sidebar.invitations.label "Приглашения">
-<!ENTITY lightning.sidebar.invitations.accesskey "П">
 <!ENTITY lightning.calendar.label            "Календарь">
 <!ENTITY lightning.calendar.accesskey        "К">
 <!ENTITY lightning.tasks.label               "Задачи">
@@ -77,15 +75,9 @@
 <!ENTITY lightning.toolbar.task.label         "Задачи">
 <!ENTITY lightning.toolbar.task.accesskey     "З">
 
-<!-- Customize Toolbar Dialog -->
-<!ENTITY customize.toolbar.selector.label    "Панель инструментов:">
-<!ENTITY customize.toolbar.selector.mode     "Панель режимов">
-<!ENTITY customize.toolbar.selector.mail     "Панель почты">
-<!ENTITY customize.toolbar.selector.calendar "Панель календаря">
-<!ENTITY customize.toolbar.selector.task     "Панель задач">
-<!ENTITY customize.toolbar.location.label    "Расположение:">
-<!ENTITY customize.toolbar.location.top      "Вверху">
-<!ENTITY customize.toolbar.location.bottom   "Внизу">
+<!-- Toolbar write button -->
+<!ENTITY lightning.toolbar.newevent.label     "Событие">
+<!ENTITY lightning.toolbar.newtask.label      "Задача">
 
 <!-- Messenger Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "День">
@@ -113,7 +105,7 @@
 <!ENTITY lightning.acctCentral.newCalendar.label "Создать новый календарь">
 
 <!-- today-pane-specific -->
-<!ENTITY todaypane.showMinimonth.label "Показывать месяц">
+<!ENTITY todaypane.showMinimonth.label "Показывать календарик">
 <!ENTITY todaypane.showMinimonth.accesskey "о">
 <!ENTITY todaypane.showMiniday.label "Показывать день">
 <!ENTITY todaypane.showMiniday.accesskey  "к">
@@ -121,3 +113,4 @@
 <!ENTITY todaypane.showNone.accesskey "Н">
 <!ENTITY todaypane.showTodayPane.label "Показывать Мероприятия">
 <!ENTITY todaypane.showTodayPane.accesskey "М">
+<!ENTITY todaypane.statusButton.label "Мероприятия">
