@@ -6,8 +6,8 @@
 <!ENTITY privatebrowsingpage.longDesc                  "Ingen historik kommer att sparas av &brandShortName; under denna webbläsarsession. Det inkluderar information om besökta sidor, sökhistorik, filhämtningslistan, webbformulärdata, kakor och tillfälliga internetfiler.  Filer du hämtar eller bokmärken du skapar kommer dock att bevaras.">
 
 <!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Du kanske vill börja med att rensa ut tidigare historik.">
-<!ENTITY privatebrowsingpage.recentHistory.label       "Rensa ut tidigare historik…">
-<!ENTITY privatebrowsingpage.recentHistory.accesskey   "e">
+<!ENTITY privatebrowsingpage.clearRecentHistory.label  "Rensa ut tidigare historik…">
+<!ENTITY privatebrowsingpage.clearRecentHistory.accesskey "e">
 
 <!ENTITY privatebrowsingpage.howToStopDesc             "För att avbryta privat surfning, avmarkera Verktyg &gt; Privat surfning.">
 <!ENTITY privatebrowsingpage.footerDesc                "">
