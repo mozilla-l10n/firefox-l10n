@@ -148,8 +148,6 @@
 <!ENTITY preferencesCmd.accesskey "א">
 <!ENTITY preferencesCmdUnix.label "העדפות">
 <!ENTITY preferencesCmdUnix.accesskey "ד">
-<!-- ### ENTITY clearPrivateDataCmd.label "נקה נתונים אישיים" -->
-<!-- ### ENTITY clearPrivateDataCmd.accesskey "נ" -->
 
 <!ENTITY clearRecentHistoryCmd.label            "מחק היסטוריה אחרונה">
 <!ENTITY clearRecentHistoryCmd.accesskey        "ה">
@@ -200,8 +198,6 @@
 <!ENTITY viewFrameInfoCmd.label "הצג מידע אודות המסגרת">
 <!ENTITY viewFrameInfoCmd.accesskey "ד">
 
-<!-- ### ENTITY showImageCmd.label           "הצג תמונה" -->
-<!-- ### ENTITY showImageCmd.accesskey       "ה" -->
 <!ENTITY reloadImageCmd.label         "טען מחדש תמונה">
 <!ENTITY reloadImageCmd.accesskey     "ת">
 
