@@ -8,7 +8,7 @@
 <!ENTITY certificate.button          "Wybierz…">
 <!ENTITY certificate_clear.button    "Wyczyść">
 <!ENTITY signingGroupTitle.label     "Podpis cyfrowy">
-<!ENTITY signMessage.label           "Podpisz cyfrowo wiadomości (domyślnie)">
+<!ENTITY signMessage.label           "Podpisuj cyfrowo wiadomości (domyślnie)">
 <!ENTITY signingCert.message         "Certyfikat, który będzie używany do cyfrowego podpisywania wysyłanych wiadomości:">
 
 <!ENTITY certificates.label      "Certyfikaty">

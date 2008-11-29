@@ -63,7 +63,7 @@
 <!ENTITY retentionDeleteMsg.accesskey       "m">
 <!ENTITY retentionKeepAll.label             "Nie usuwaj żadnych wiadomości">
 <!ENTITY retentionKeepAll.accesskey         "a">
-<!ENTITY retentionKeepNew.label             "Usuń wszystko, oprócz">
+<!ENTITY retentionKeepNew.label             "Usuwaj wszystko, oprócz">
 <!ENTITY retentionKeepNew.accesskey         "w">
 <!ENTITY retentionKeepUnread.label          "Zawsze usuwaj przeczytane wiadomości">
 <!ENTITY retentionKeepUnread.accesskey      "r">

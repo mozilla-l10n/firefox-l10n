@@ -53,7 +53,7 @@
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label        "Przy wyjściu z programu porządkuj folder Odebrane">
 <!ENTITY expungeOnExit.accesskey    "y">
-<!ENTITY emptyTrashOnExit.label     "Przy wyjściu z programu opróżnij Kosz">
+<!ENTITY emptyTrashOnExit.label     "Przy wyjściu z programu opróżniaj Kosz">
 <!ENTITY emptyTrashOnExit.accesskey "w">
 <!ENTITY loginAtStartup.label       "Sprawdzaj podczas uruchamiania, czy są nowe wiadomości">
 <!ENTITY loginAtStartup.accesskey   "h">

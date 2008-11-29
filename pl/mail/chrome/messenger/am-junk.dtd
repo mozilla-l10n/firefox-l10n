@@ -5,7 +5,7 @@
 <!ENTITY level.label     "Włącz filtr niechcianej poczty dla bieżącego konta">
 <!ENTITY level.accesskey "e">
 
-<!ENTITY move.label             "Przenieś otrzymane wiadomości, które zostały oznaczone jako niechciane, do:">
+<!ENTITY move.label             "Przenoś otrzymane wiadomości, które zostały oznaczone jako niechciane, do:">
 <!ENTITY move.accesskey         "P">
 <!ENTITY junkFolderOn.label     'folderu "Niechciane" konta:'>
 <!ENTITY junkFolderOn.accesskey "N">

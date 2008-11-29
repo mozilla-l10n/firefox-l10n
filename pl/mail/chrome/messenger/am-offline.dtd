@@ -12,11 +12,11 @@
 <!ENTITY nntpDownloadMsg.label           "Nie pobieraj treści wiadomości starszych niż">
 <!ENTITY nntpDownloadMsg.accesskey       "b">
 <!ENTITY retentionCleanup.label          "W celu zaoszczędzenia miejsca na dysku, stare wiadomości mogą być nieodwracalnie usuwane">
-<!ENTITY retentionKeepMsg.label          "Usuń wiadomości starsze niż">
+<!ENTITY retentionKeepMsg.label          "Usuwaj wiadomości starsze niż">
 <!ENTITY retentionKeepMsg.accesskey      "m">
 <!ENTITY retentionKeepAll.label          "Nie usuwaj żadnych wiadomości">
 <!ENTITY retentionKeepAll.accesskey      "a">
-<!ENTITY retentionKeepNew.label          "Usuń wszystko, oprócz">
+<!ENTITY retentionKeepNew.label          "Usuwaj wszystko, oprócz">
 <!ENTITY retentionKeepNew.accesskey      "w">
 <!ENTITY retentionKeepUnread.label       "Zawsze usuwaj przeczytane wiadomości">
 <!ENTITY retentionKeepUnread.accesskey   "t">

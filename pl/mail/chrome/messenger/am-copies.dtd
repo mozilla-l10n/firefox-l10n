@@ -7,9 +7,9 @@
 <!ENTITY fccReplyFollowsParent.label     "umieszczaj odpowiedzi w folderze wiadomości, na którą odpowiada użytkownik">
 <!ENTITY fccReplyFollowsParent.accesskey "o">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label                "wyślij ukrytą kopię do:">
+<!ENTITY bccAddress.label                "wysyłaj ukrytą kopię do:">
 <!ENTITY bccAddress.accesskey            "k">
-<!ENTITY saveMessageDlg.label            "Wyświetl okno dialogowe potwierdzające zapisywanie wiadomości">
+<!ENTITY saveMessageDlg.label            "Wyświetlaj okno dialogowe potwierdzające zapisywanie wiadomości">
 <!ENTITY saveMessageDlg.accesskey        "W">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label              "folderze Wysłane konta:">

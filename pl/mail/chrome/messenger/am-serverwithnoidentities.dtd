@@ -3,7 +3,7 @@
 <!ENTITY accountName.label          "Nazwa konta:">
 <!ENTITY accountName.accesskey      "N">
 <!ENTITY messageStorage.label       "Przechowywanie wiadomości">
-<!ENTITY emptyTrashOnExit.label     "Przy wyjściu z programu opróżnij Kosz">
+<!ENTITY emptyTrashOnExit.label     "Przy wyjściu z programu opróżniaj Kosz">
 <!ENTITY emptyTrashOnExit.accesskey "w">
 <!ENTITY localPath.label            "Katalog na lokalnym komputerze:">
 <!ENTITY localFolderPicker.label    "Wybierz katalog lokalny">
