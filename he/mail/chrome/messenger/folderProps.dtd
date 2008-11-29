@@ -50,12 +50,10 @@
 <!ENTITY retention.label "מדיניות שמירה">
 <!ENTITY retentionUseDefault.label "השתמש בברירות המחדל של השרת">
 <!ENTITY retentionUseDefault.accesskey "d">
-<!-- ### ENTITY days.label "הימים האחרונים" -->
+
 <!ENTITY daysOld.label "הימים האחרונים">
 <!ENTITY message.label "ההודעות האחרונות">
 <!ENTITY retentionCleanup.label "בכדי להשיג שטח דיסק, הודעות ישנות יכולות להמחק לצמיתות">
-<!-- ### ENTITY retentionKeepMsg.label "מחק הודעות מלפני" -->
-<!-- ### ENTITY retentionKeepMsg.accesskey "m" -->
 
 <!ENTITY retentionDeleteMsg.label "מחק הודעות בנות יותר מאשר">
 <!ENTITY retentionDeleteMsg.accesskey "י">
@@ -74,23 +72,22 @@
 <!ENTITY offlineFolder.button.accesskey "D">
 <!ENTITY selectofflineNewsgroup.check.label "בחר קבוצת דיון זו לשימוש לא־מקוון">
 <!ENTITY selectofflineNewsgroup.check.accesskey "o">
-<!-- ###ENTITY UseDefaultofflineNewsgroup.check.label "השתמש בברירת המחדל מתוך הגדרות חשבון" -->
+
 <!ENTITY offlineNewsgroup.button.label "הורד עכשיו">
 <!ENTITY offlineNewsgroup.button.accesskey "D">
 
-<!-- ### ENTITY folderProps.information.label "מידע:" -->
 <!ENTITY folderProps.name.label "שם:">
 <!ENTITY folderProps.name.accesskey "ש">
 <!ENTITY folderProps.location.label              "מיקום:">
 <!ENTITY folderProps.location.accesskey          "מ">
 
 <!ENTITY folderSharingTab.label "שיתוף">
-<!-- ###ENTITY privilegesDesc.label "שתף תיקייה זו ותיקיות אחרות עם משתמשים אחרים ברשת והצג והגדר הרשאות גישה" -->
+
 <!ENTITY permissionsDesc.label                   "ברשותך ההרשאות הבאות:">
 
 <!ENTITY privileges.button.label "הרשאות...">
 <!ENTITY privileges.button.accesskey "P">
-<!-- ### ENTITY permissionsDesc.label "יש לך את ההרשאות הבאות:" -->
+
 <!ENTITY folderType.label "סוג תיקייה:">
 <!ENTITY folderQuotaTab.label "מיכסה">
 <!ENTITY folderQuotaRoot.label "שורש (root) ההקצאה:">

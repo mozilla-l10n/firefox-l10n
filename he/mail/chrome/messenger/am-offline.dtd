@@ -3,12 +3,10 @@
 <!ENTITY allFoldersOffline.label "שמור הודעות לחשבון זה על מחשב זה">
 <!ENTITY allFoldersOffline.accesskey "ע">
 
-<!-- ### ENTITY offlineNewFolder.label "כאשר אני יוצר תיקיות חדשות, בחר אותן לשימוש לא־מקוון" -->
-<!-- ### ENTITY offlineNewFolder.accesskey "c" -->
 <!ENTITY offlineNotDownload.label "הודעות גדולות מאשר">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY kb.label "ק״ב">
-<!-- ### ENTITY days.label "הימים האחרונים" -->
+
 <!ENTITY daysOld.label "ימים">
 <!ENTITY message.label "ההודעות האחרונות">
 <!ENTITY nntpNotDownloadRead.label "הודעות שנקראו">
@@ -27,12 +25,7 @@
 <!ENTITY nntpRemoveBody.label "רק גוף הודעות בנות פחות מאשר">
 <!ENTITY nntpRemoveBody.accesskey "O">
 <!ENTITY offlineSelectNntp.label "בחר קבוצות דיון לשימוש לא־מקוון">
-<!-- ### ENTITY offlineSelectImap.label "בחר תיקיות לשימוש לא־מקוון" -->
-<!-- ### ENTITY offlineSelect.accesskey "S" -->
-<!-- ### ENTITY offlineDesc.label "ניתן להוריד את ההודעות שלך באופן מקומי כך שתהיינה זמינות כאשר אתה  עובד במצב לא־מקוון." -->
-<!-- ### ENTITY makeInboxMsgsAvailable.label "במצב עבודה לא־מקוון הודעות בתיבת דואר נכנס זמינות" -->
-<!-- ### ENTITY makeInboxMsgsAvailable.accesskey "b" -->
-<!-- ### ENTITY offlineGroupTitle.label "לא־מקוון" -->
+
 <!ENTITY offlineSelectNntp.accesskey "ב">
 <!ENTITY offlineImapAdvancedOffline.label "מתקדם…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "מ">
