@@ -36,17 +36,22 @@
 <!ENTITY formatGroup.label   "Format">
 
 <!ENTITY orientation.label   "Orientering:">
-<!ENTITY portrait            "Stående">
-<!ENTITY landscape           "Liggande">
+<!ENTITY portrait.label      "Stående">
+<!ENTITY portrait.accesskey  "t">
+<!ENTITY landscape.label     "Liggande">
+<!ENTITY landscape.accesskey "L">
 
 <!ENTITY scale.label         "Skala:">
+<!ENTITY scale.accesskey     "a">
 <!ENTITY scalePercent        "&#037;">
 
 <!ENTITY shrinkToFit.label   "Krymp till sidbredd">
+<!ENTITY shrinkToFit.accesskey "K">
 
 <!ENTITY optionsGroup.label  "Alternativ">
 
 <!ENTITY printBG.label       "Skriv ut bakgrund (färger &amp; bilder)">
+<!ENTITY printBG.accesskey   "b">
 
 <!ENTITY advanced.tab        "Marginaler &amp; Sidhuvud/sidfot">
 
@@ -54,9 +59,13 @@
 <!ENTITY marginUnits.inches  "tum">
 <!ENTITY marginUnits.metric  "millimeter">
 <!ENTITY marginTop.label     "Sidhuvud:">
+<!ENTITY marginTop.accesskey "d">
 <!ENTITY marginBottom.label  "Sidfot:">
+<!ENTITY marginBottom.accesskey "S">
 <!ENTITY marginLeft.label    "Vänster:">
+<!ENTITY marginLeft.accesskey "V">
 <!ENTITY marginRight.label   "Höger:">
+<!ENTITY marginRight.accesskey "H">
 
 <!ENTITY headerFooter.label  "Sidhuvud &amp; sidfot">
 
