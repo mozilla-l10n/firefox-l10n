@@ -7,27 +7,36 @@
 <!ENTITY formatGroup.label   "Format">
 
 <!ENTITY orientation.label   "Orientation :">
-<!ENTITY portrait            "Portrait">
-<!ENTITY landscape           "Paysage">
+<!ENTITY portrait.label      "Portrait">
+<!ENTITY portrait.accesskey  "P">
+<!ENTITY landscape.label     "Paysage">
+<!ENTITY landscape.accesskey "a">
 
 <!ENTITY scale.label         "Échelle :">
+<!ENTITY scale.accesskey     "c">
 <!ENTITY scalePercent        "&#037;">
 
-<!ENTITY shrinkToFit.label   "Adapter à la taille de la page">
+<!ENTITY shrinkToFit.label     "Adapter à la taille de la page">
+<!ENTITY shrinkToFit.accesskey "t">
 
 <!ENTITY optionsGroup.label  "Options">
 
 <!ENTITY printBG.label       "Imprimer le fond de page (couleurs et images)">
+<!ENTITY printBG.accesskey   "I">
 
 <!ENTITY advanced.tab        "Marges, en-têtes et pieds de page">
 
 <!ENTITY marginGroup.label   "Marges (#1)">
 <!ENTITY marginUnits.inches  "pouces">
 <!ENTITY marginUnits.metric  "millimètres">
-<!ENTITY marginTop.label     "Haut :">
-<!ENTITY marginBottom.label  "Bas :">
-<!ENTITY marginLeft.label    "Gauche :">
-<!ENTITY marginRight.label   "Droite :">
+<!ENTITY marginTop.label        "Haut :">
+<!ENTITY marginTop.accesskey    "H">
+<!ENTITY marginBottom.label     "Bas :">
+<!ENTITY marginBottom.accesskey "B">
+<!ENTITY marginLeft.label       "Gauche :">
+<!ENTITY marginLeft.accesskey   "G">
+<!ENTITY marginRight.label      "Droite :">
+<!ENTITY marginRight.accesskey  "D">
 
 <!ENTITY headerFooter.label  "En-têtes et pieds de page">
 
