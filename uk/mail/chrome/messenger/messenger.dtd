@@ -691,3 +691,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sortByReceivedCmd.label "Отримано">
 <!ENTITY undeleteButton.label "Відновити">
 <!ENTITY undeleteButton.tooltip "Відновити виділене повідомлення">
+<!ENTITY more.label "більше">
