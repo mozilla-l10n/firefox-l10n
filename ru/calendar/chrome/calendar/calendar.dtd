@@ -43,24 +43,9 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- General -->
-<!ENTITY calendar.file.default.name  "Мой календарь" >
 <!ENTITY calendar.calendar.label     "Календарь">
 <!ENTITY calendar.calendar.accesskey "К">
 
-
-<!ENTITY calendar.confirm.deleteallevents  "Вы действительно хотите удалить все выбранные события?" >
-<!ENTITY calendar.confirm.deleteevent "Вы действительно хотите удалить событие с названием: " >
-<!ENTITY calendar.confirm.deleteuntitledevent "Вы действительно хотите удалить это безымянное событие?" >
-
-<!ENTITY calendar.flat.topbar.choosedate       "Перейти к дате" >
-<!ENTITY calendar.flat.topbar.dayview          "Обзор дня" >
-<!ENTITY calendar.dayview.accesskey            "д" >
-<!ENTITY calendar.flat.topbar.weekview         "Обзор недели" >
-<!ENTITY calendar.weekview.accesskey           "н" >
-<!ENTITY calendar.flat.topbar.monthview        "Обзор месяца" >
-<!ENTITY calendar.monthview.accesskey          "м" >
-<!ENTITY calendar.flat.topbar.multiweekview    "Обзор по неделям" >
-<!ENTITY calendar.multiweekview.accesskey      "п" >
 <!ENTITY calendar.dayView.key                  "1" >
 <!ENTITY calendar.weekView.key                 "2" >
 <!ENTITY calendar.multiweekView.key            "3" >
@@ -68,14 +53,11 @@
 
 <!ENTITY calendar.newtask.button.tooltip          "Создать новую задачу" >
 <!ENTITY calendar.newevent.button.tooltip         "Создать новое событие" >
-<!ENTITY calendar.delete.button.tooltip           "Удалить выбранное событие" >
 <!ENTITY calendar.edit.button.tooltip             "Редактировать выбранное событие" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Задачи" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Показать выполненные задачи">
 
-<!ENTITY calendar.calendartab.label "Дата">
-<!ENTITY calendar.listofcalendarstab.label "Календари">
 <!ENTITY calendar.today.button.label       "Сегодня">
 <!ENTITY calendar.tomorrow.button.label       "Завтра">
 <!ENTITY calendar.soon.button.label           "Скоро">
@@ -103,17 +85,15 @@
 <!ENTITY calendar.unifinder.tree.calendarname.label  "Календарь">
 <!ENTITY calendar.unifinder.tree.duration.label      "Продолжительность">
 <!ENTITY calendar.unifinder.close.tooltip            "Закрыть поиск событий и список событий">
-<!ENTITY calendar.find.key  "F">
 
-<!ENTITY calendar.today.button.tooltip        "Перейти на сегодня" >
+<!ENTITY calendar.today.button.tooltip            "Перейти на сегодня" >
 <!ENTITY calendar.todaypane.button.tooltip        "Показать мероприятия на сегодня" >
-<!ENTITY calendar.choosedate.button.tooltip       "Перейти к выбранной дате" >
 <!ENTITY calendar.unifinder.button.tooltip        "Найти и составить список событий" >
 
-<!ENTITY calendar.day.button.tooltip          "Перейти к обзору дня" >
-<!ENTITY calendar.week.button.tooltip         "Перейти к обзору недели" >
-<!ENTITY calendar.month.button.tooltip        "Перейти к обзору месяца" >
-<!ENTITY calendar.multiweek.button.tooltip        "Перейти к обзору по неделям" >
+<!ENTITY calendar.day.button.tooltip            "Перейти к обзору дня" >
+<!ENTITY calendar.week.button.tooltip           "Перейти к обзору недели" >
+<!ENTITY calendar.month.button.tooltip          "Перейти к обзору месяца" >
+<!ENTITY calendar.multiweek.button.tooltip      "Перейти к обзору по неделям" >
 
 <!ENTITY calendar.nextday.button.tooltip        "Следующий день" >
 <!ENTITY calendar.prevday.button.tooltip        "Предыдущий день" >
@@ -124,19 +104,7 @@
 
 <!ENTITY calendar.newtask.button.label          "Новая задача" >
 <!ENTITY calendar.newevent.button.label         "Новое событие" >
-<!ENTITY calendar.delete.button.label           "Удалить" >
 <!ENTITY calendar.edit.button.label             "Изменить" >
-
-<!ENTITY calendar.choosedate.button.label       "Выбрать дату" >
-
-<!ENTITY calendar.cut.button.tooltip            "Вырезать" >
-<!ENTITY calendar.copy.button.tooltip           "Копировать" >
-<!ENTITY calendar.paste.button.tooltip          "Вставить" >
-<!ENTITY calendar.print.button.tooltip          "Распечатать календарь" >
-
-<!ENTITY calendar.cut.button.label              "Вырезать" >
-<!ENTITY calendar.copy.button.label             "Копировать" >
-<!ENTITY calendar.paste.button.label            "Вставить" >
 <!ENTITY calendar.print.button.label            "Печать" >
 
 <!ENTITY calendar.import.button.tooltip            "Импортировать события из локального файла" >
@@ -152,12 +120,9 @@
 <!ENTITY calendar.publish.button.label             "Публикация" >
 <!ENTITY calendar.unifinder.button.label           "Найти события" >
 
-<!ENTITY calendar.remotereload.button.label   "Обновить" >
-<!ENTITY calendar.remotereload.button.tooltip   "Обновить все удалённые календари" >
-
-<!ENTITY calendar.day.button.label          "День" >
-<!ENTITY calendar.week.button.label         "Неделя" >
-<!ENTITY calendar.month.button.label        "Месяц" >
+<!ENTITY calendar.day.button.label              "День" >
+<!ENTITY calendar.week.button.label             "Неделя" >
+<!ENTITY calendar.month.button.label            "Месяц" >
 <!ENTITY calendar.multiweek.button.label        "По неделям" >
 <!ENTITY calendar.onlyworkday.checkbox.label    "Только рабочие дни" >
 <!ENTITY calendar.onlyworkday.checkbox.accesskey  "Т" >
@@ -169,19 +134,9 @@
 <!ENTITY calendar.orientation.label "Повернуть обзор" >
 <!ENTITY calendar.orientation.accesskey "у" >
 
-<!ENTITY calendar.menu.options.close.key        "W">
-
 <!ENTITY calendar.search.options.searchfor " содержат">
 
-<!ENTITY calendar.menu.numberofweeks.label     "Количество недель" >
-<!ENTITY calendar.menu.numberofweeks.accesskey "К" >
-<!ENTITY calendar.menu.numberofweeks.2      "2 недели" >
-<!ENTITY calendar.menu.numberofweeks.3      "3 недели" >
-<!ENTITY calendar.menu.numberofweeks.4      "4 недели" >
-<!ENTITY calendar.menu.numberofweeks.5      "5 недель" >
-<!ENTITY calendar.menu.numberofweeks.6      "6 недель" >
-
-<!ENTITY calendar.list.header.label                 "Calendar">
+<!ENTITY calendar.list.header.label                 "Календарь">
 
 <!ENTITY calendar.task.filter.title.label           "Показать">
 <!ENTITY calendar.task.filter.all.label             "Всё">
@@ -212,18 +167,9 @@
 <!ENTITY calendar.task.category.button.tooltip  "Указать категорию задачи">
 <!ENTITY calendar.task.complete.button.tooltip  "Отметить выбранные задачи как выполненные">
 <!ENTITY calendar.task.priority.button.tooltip  "Изменить приоритет">
-<!ENTITY calendar.task.delete.button.tooltip    "Удалить выбранные задачи">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Документ: Выполнено">
-
-<!-- customizable toolbars -->
-<!ENTITY calendar.context.customize.label             "Настроить…">
-<!ENTITY calendar.context.customize.accesskey         "Н">
-<!ENTITY calendar.menu.customize.label                "Настроить…">
-<!ENTITY calendar.menu.customize.accesskey            "Н">
-<!ENTITY calendar.maintoolbar.name                    "Панель инструментов">
-<!ENTITY calendar.maintoolbar.accesskey               "и">
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label      "Открыть">
@@ -366,10 +312,6 @@
 <!ENTITY calendarproperties.cache.label    "Кэшировать (ЭКСПЕРИМЕНТАЛЬНО, требуется перезапуск)">
 <!ENTITY calendarproperties.enabled.label "Переключить на этот календарь">
 
-<!-- Sunbird Help -->
-<!ENTITY calendar.help.label               "Содержание">
-<!ENTITY calendar.help.accesskey           "С">
-
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "Публикация календаря">
 <!ENTITY calendar.publish.url.label                 "URL публикации">
@@ -398,7 +340,3 @@
 <!ENTITY calendar.error.number "Номер ошибки:">
 <!ENTITY calendar.error.description "Описание:">
 <!ENTITY calendar.error.title "Произошла ошибка">
-
-
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">
