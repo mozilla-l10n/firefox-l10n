@@ -43,24 +43,9 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- General -->
-<!ENTITY calendar.file.default.name  "Mijn agenda" >
 <!ENTITY calendar.calendar.label     "Agenda">
 <!ENTITY calendar.calendar.accesskey "A">
 
-
-<!ENTITY calendar.confirm.deleteallevents  "Weet u zeker dat u alle geselecteerde gebeurtenissen wilt verwijderen?" >
-<!ENTITY calendar.confirm.deleteevent "Weet u zeker dat u de volgende gebeurtenis wilt verwijderen: " >
-<!ENTITY calendar.confirm.deleteuntitledevent "Weet u zeker dat u de volgende naamloze gebeurtenis wilt verwijderen?" >
-
-<!ENTITY calendar.flat.topbar.choosedate       "Ga naar datum" >
-<!ENTITY calendar.flat.topbar.dayview          "Dagoverzicht" >
-<!ENTITY calendar.dayview.accesskey            "D" >
-<!ENTITY calendar.flat.topbar.weekview         "Weekoverzicht" >
-<!ENTITY calendar.weekview.accesskey           "k" >
-<!ENTITY calendar.flat.topbar.monthview        "Maandoverzicht" >
-<!ENTITY calendar.monthview.accesskey          "M" >
-<!ENTITY calendar.flat.topbar.multiweekview    "Overzicht meerdere weken" >
-<!ENTITY calendar.multiweekview.accesskey      "e" >
 <!ENTITY calendar.dayView.key                  "1" >
 <!ENTITY calendar.weekView.key                 "2" >
 <!ENTITY calendar.multiweekView.key            "3" >
@@ -68,14 +53,11 @@
 
 <!ENTITY calendar.newtask.button.tooltip          "Een nieuwe taak creëren" >
 <!ENTITY calendar.newevent.button.tooltip         "Een nieuwe agendagebeurtenis creëren" >
-<!ENTITY calendar.delete.button.tooltip           "Geselecteerde gebeurtenis verwijderen" >
 <!ENTITY calendar.edit.button.tooltip             "Geselecteerde gebeurtenis bewerken" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Taken" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Voltooide taken tonen">
 
-<!ENTITY calendar.calendartab.label "Datum">
-<!ENTITY calendar.listofcalendarstab.label "Agenda’s">
 <!ENTITY calendar.today.button.label       "Vandaag">
 <!ENTITY calendar.tomorrow.button.label       "Morgen">
 <!ENTITY calendar.soon.button.label           "Binnenkort">
@@ -103,11 +85,9 @@
 <!ENTITY calendar.unifinder.tree.calendarname.label  "Agendanaam">
 <!ENTITY calendar.unifinder.tree.duration.label      "Vervalt na">
 <!ENTITY calendar.unifinder.close.tooltip            "Gebeurtenissen zoeken en gebeurtenissenlijst sluiten">
-<!ENTITY calendar.find.key  "F">
 
 <!ENTITY calendar.today.button.tooltip            "Naar vandaag gaan" >
 <!ENTITY calendar.todaypane.button.tooltip        "Venster Vandaag tonen" >
-<!ENTITY calendar.choosedate.button.tooltip       "Datum kiezen om naartoe te gaan" >
 <!ENTITY calendar.unifinder.button.tooltip        "Gebeurtenissen zoeken en tonen" >
 
 <!ENTITY calendar.day.button.tooltip            "Naar dagoverzicht overschakelen" >
@@ -124,19 +104,7 @@
 
 <!ENTITY calendar.newtask.button.label          "Nieuwe taak" >
 <!ENTITY calendar.newevent.button.label         "Nieuwe gebeurtenis" >
-<!ENTITY calendar.delete.button.label           "Verwijderen" >
 <!ENTITY calendar.edit.button.label             "Bewerken" >
-
-<!ENTITY calendar.choosedate.button.label       "Datum kiezen" >
-
-<!ENTITY calendar.cut.button.tooltip            "Knippen" >
-<!ENTITY calendar.copy.button.tooltip           "Kopiëren" >
-<!ENTITY calendar.paste.button.tooltip          "Plakken" >
-<!ENTITY calendar.print.button.tooltip          "Agenda afdrukken" >
-
-<!ENTITY calendar.cut.button.label              "Knippen" >
-<!ENTITY calendar.copy.button.label             "Kopiëren" >
-<!ENTITY calendar.paste.button.label            "Plakken" >
 <!ENTITY calendar.print.button.label            "Afdrukken" >
 
 <!ENTITY calendar.import.button.tooltip            "Gebeurtenissen importeren uit een lokaal bestand" >
@@ -152,9 +120,6 @@
 <!ENTITY calendar.publish.button.label             "Publiceren" >
 <!ENTITY calendar.unifinder.button.label           "Gebeurtenissen zoeken" >
 
-<!ENTITY calendar.remotereload.button.label   "Verversen" >
-<!ENTITY calendar.remotereload.button.tooltip   "Alle agenda’s op afstand verversen" >
-
 <!ENTITY calendar.day.button.label              "Dag" >
 <!ENTITY calendar.week.button.label             "Week" >
 <!ENTITY calendar.month.button.label            "Maand" >
@@ -169,17 +134,7 @@
 <!ENTITY calendar.orientation.label "Overzicht roteren" >
 <!ENTITY calendar.orientation.accesskey "o" >
 
-<!ENTITY calendar.menu.options.close.key        "W">
-
 <!ENTITY calendar.search.options.searchfor " bevatten">
-
-<!ENTITY calendar.menu.numberofweeks.label     "Aantal weken" >
-<!ENTITY calendar.menu.numberofweeks.accesskey "A" >
-<!ENTITY calendar.menu.numberofweeks.2      "2 weken" >
-<!ENTITY calendar.menu.numberofweeks.3      "3 weken" >
-<!ENTITY calendar.menu.numberofweeks.4      "4 weken" >
-<!ENTITY calendar.menu.numberofweeks.5      "5 weken" >
-<!ENTITY calendar.menu.numberofweeks.6      "6 weken" >
 
 <!ENTITY calendar.list.header.label                 "Agenda">
 
@@ -212,18 +167,9 @@
 <!ENTITY calendar.task.category.button.tooltip  "Taken categoriseren">
 <!ENTITY calendar.task.complete.button.tooltip  "Geselecteerde taken als voltooid markeren">
 <!ENTITY calendar.task.priority.button.tooltip  "De prioriteit wijzigen">
-<!ENTITY calendar.task.delete.button.tooltip    "De geselecteerde taak verwijderen">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Document: klaar">
-
-<!-- customizable toolbars -->
-<!ENTITY calendar.context.customize.label             "Aanpassen…">
-<!ENTITY calendar.context.customize.accesskey         "A">
-<!ENTITY calendar.menu.customize.label                "Werkbalk aanpassen…">
-<!ENTITY calendar.menu.customize.accesskey            "W">
-<!ENTITY calendar.maintoolbar.name                    "Hoofdwerkbalk">
-<!ENTITY calendar.maintoolbar.accesskey               "H">
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label      "Openen">
@@ -337,8 +283,8 @@
 <!ENTITY calendar.alarm.snoozefor.label             "Sluimeren gedurende" >
 <!ENTITY calendar.alarm.snoozeallfor.label          "Alle sluimeren gedurende" >
 <!ENTITY calendar.alarm.title.label                 "Agenda-alarm" >
-<!ENTITY calendar.alarm.dismiss.label               "Uitschakelen" >
-<!ENTITY calendar.alarm.dismissall.label            "Alle uitschakelen" >
+<!ENTITY calendar.alarm.dismiss.label               "Verwijderen" >
+<!ENTITY calendar.alarm.dismissall.label            "Alle verwijderen" >
 
 <!ENTITY calendar.alarm.snooze.5minutes.label       "5 minuten" >
 <!ENTITY calendar.alarm.snooze.10minutes.label      "10 minuten" >
@@ -365,10 +311,6 @@
 <!ENTITY calendarproperties.firealarms.label "Alarmen tonen">
 <!ENTITY calendarproperties.cache.label    "Buffer (EXPERIMENTEEL, herstart nodig)">
 <!ENTITY calendarproperties.enabled.label  "Deze agenda inschakelen">
-
-<!-- Sunbird Help -->
-<!ENTITY calendar.help.label               "Helpinhoud">
-<!ENTITY calendar.help.accesskey           "H">
 
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "Agenda publiceren">
@@ -398,7 +340,3 @@
 <!ENTITY calendar.error.number "Foutnummer:">
 <!ENTITY calendar.error.description "Beschrijving:">
 <!ENTITY calendar.error.title "Er is een fout opgetreden">
-
-
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">
