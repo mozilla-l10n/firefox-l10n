@@ -34,7 +34,7 @@
 <!ENTITY topInput.label "Topo:">
 <!ENTITY topInput.accesskey "T">
 <!ENTITY bottomInput.label "Fundo:">
-<!ENTITY leftInput.accesskey "F">
+<!ENTITY bottomInput.accesskey "F">
 <!ENTITY leftInput.label "Esquerda:">
 <!ENTITY leftInput.accesskey "E">
 <!ENTITY rightInput.label "Direita:">
