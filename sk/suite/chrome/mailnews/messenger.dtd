@@ -487,9 +487,9 @@
 <!ENTITY contextForwardAsAttachment.label "Odoslať ďalej ako prílohu">
 <!ENTITY contextForwardAsAttachment.accesskey "o">
 <!ENTITY contextMoveMsgMenu.label "Presunúť do">
-<!ENTITY contextMoveMsgMenu.accesskey "r">
+<!ENTITY contextMoveMsgMenu.accesskey "P">
 <!ENTITY contextCopyMsgMenu.label "Skopírovať do">
-<!ENTITY contextCopyMsgMenu.accesskey "k">
+<!ENTITY contextCopyMsgMenu.accesskey "r">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Naposledy pooužité">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "N">
 <!ENTITY contextSaveAs.label "Uložiť ako…">

@@ -38,8 +38,8 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Prichytávanie k mriežke">
 
-<!ENTITY enableSnapToGrid.label "povoliť prichytávanie k mriežke">
-<!ENTITY enableSnapToGrid.accessKey "p">
+<!ENTITY enableSnapToGrid.label "Povoliť prichytávanie k mriežke">
+<!ENTITY enableSnapToGrid.accessKey "P">
 
 <!ENTITY sizeEditField.label "Veľkosť:">
 <!ENTITY sizeEditField.accessKey "V">

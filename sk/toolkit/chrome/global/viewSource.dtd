@@ -69,7 +69,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 <!ENTITY backCmd.label "Naspäť">
-<!ENTITY backCmd.accesskey "N">
+<!ENTITY backCmd.accesskey "s">
 <!ENTITY forwardCmd.label "Dopredu">
 <!ENTITY forwardCmd.accesskey "D">
 <!ENTITY goBackCmd.commandKey "[">

@@ -597,11 +597,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextForwardAsAttachment.label "Odoslať ďalej ako prílohu">
 <!ENTITY contextForwardAsAttachment.accesskey "o">
 <!ENTITY contextMoveMsgMenu.label "Presunúť do">
-<!ENTITY contextMoveMsgMenu.accesskey "r">
+<!ENTITY contextMoveMsgMenu.accesskey "P">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Naposledy použité">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "N">
 <!ENTITY contextCopyMsgMenu.label "Skopírovať do">
-<!ENTITY contextCopyMsgMenu.accesskey "k">
+<!ENTITY contextCopyMsgMenu.accesskey "r">
 <!ENTITY contextSaveAs.label "Uložiť ako…">
 <!ENTITY contextSaveAs.accesskey "a">
 <!ENTITY contextPrint.label "Tlačiť…">
