@@ -3,29 +3,29 @@
 <!ENTITY formatGroup.label "Формат">
 <!ENTITY orientation.label "Ориентация:">
 <!ENTITY portrait.label "Книжная">
-<!ENTITY portrait.accesskey "р">
+<!ENTITY portrait.accesskey "н">
 <!ENTITY landscape.label "Альбомная">
-<!ENTITY landscape.accesskey "д">
+<!ENTITY landscape.accesskey "л">
 <!ENTITY scale.label "Масштаб:">
-<!ENTITY scale.accesskey "м">
+<!ENTITY scale.accesskey "ш">
 <!ENTITY scalePercent "&#037;">
 <!ENTITY shrinkToFit.label "Сжать до ширины страницы">
-<!ENTITY shrinkToFit.accesskey "ш">
+<!ENTITY shrinkToFit.accesskey "ж">
 <!ENTITY optionsGroup.label "Свойства">
 <!ENTITY printBG.label "Печать фона (цвета и изображения)">
-<!ENTITY printBG.accesskey "н">
+<!ENTITY printBG.accesskey "ч">
 <!ENTITY advanced.tab "Поля и колонтитулы">
 <!ENTITY marginGroup.label "Поля (#1)">
 <!ENTITY marginUnits.inches "дюймов">
 <!ENTITY marginUnits.metric "миллиметров">
 <!ENTITY marginTop.label "Сверху:">
-<!ENTITY marginTop.accesskey "п">
+<!ENTITY marginTop.accesskey "в">
 <!ENTITY marginBottom.label "Снизу:">
-<!ENTITY marginBottom.accesskey "б">
+<!ENTITY marginBottom.accesskey "и">
 <!ENTITY marginLeft.label "Слева:">
-<!ENTITY marginLeft.accesskey "о">
+<!ENTITY marginLeft.accesskey "е">
 <!ENTITY marginRight.label "Справа:">
-<!ENTITY marginRight.accesskey "л">
+<!ENTITY marginRight.accesskey "п">
 <!ENTITY headerFooter.label "Колонтитулы">
 <!ENTITY hfLeft.label "Слева:">
 <!ENTITY hfCenter.label "По центру:">
