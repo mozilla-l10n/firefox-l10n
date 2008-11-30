@@ -54,7 +54,7 @@
 <!ENTITY codeEval.label     "کد:">
 <!ENTITY codeEval.accesskey "ک">
 <!ENTITY evaluate.label     "برآورد">
-<!ENTITY evaluate.accesskey "v">
+<!ENTITY evaluate.accesskey "ب">
 
 <!ENTITY copyCmd.label       "نسخه‌برداری">  
 <!ENTITY copyCmd.accesskey   "ن"> 
