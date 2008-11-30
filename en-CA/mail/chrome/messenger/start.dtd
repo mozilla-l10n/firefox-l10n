@@ -28,5 +28,3 @@
 <!ENTITY startpage.pageURL "http://www.mozilla.org/products/thunderbird/">
 
 <!ENTITY startpage.extra "<p>For British English (and other) spell-checking dictionaries, visit mozdev&#8217;s <a href='http://dictionaries.mozdev.org/installation.html'>Dictionaries for Mozilla</a>, or just:</p> <ul><li><a href='http://downloads.mozdev.org/dictionaries/spell-en-GB.xpi'>Directly download the British English dictionary</a></li></ul>">
-
-<!ENTITY startpage.poweredByGecko "Powered by Gecko.">

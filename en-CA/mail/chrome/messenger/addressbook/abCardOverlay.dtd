@@ -73,17 +73,21 @@
 <!ENTITY SecondEmail.label              "Additional Email:">
 <!ENTITY SecondEmail.accesskey          "o">
 <!ENTITY PreferMailFormat.label         "Prefers to receive messages formatted as:">
-<!ENTITY PreferMailFormat.accesskey     "r">
+<!ENTITY PreferMailFormat.accesskey     "v">
 <!ENTITY PlainText.label                "Plain Text">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Unknown">
 <!ENTITY ScreenName.label               "Screen Name:">
 <!ENTITY ScreenName.accesskey           "S">
 
-<!ENTITY allowRemoteContent.label       "Allow remote images in HTML mail.">
-<!ENTITY allowRemoteContent.accesskey   "w">
+<!ENTITY allowRemoteContent.label       "Allow remote images.">
+<!ENTITY allowRemoteContent.accesskey   "r">
+<!ENTITY allowRemoteContent.tooltip     "In HTML messages it is possible to
+embed images from remote sources. Opening such a message will open a
+connection to this external source. This may allow tracking of the
+message being read. Ticking this box will allow such external embedded
+images in HTML messages from this contact.">
 
-<!ENTITY Phones.box                     "Phones">
 <!ENTITY WorkPhone.label                "Work:">
 <!ENTITY WorkPhone.accesskey            "W">
 <!ENTITY HomePhone.label                "Home:">
@@ -95,9 +99,8 @@
 <!ENTITY CellularNumber.label           "Mobile:">
 <!ENTITY CellularNumber.accesskey       "M">
 
-<!ENTITY Address.tab                    "Address">
-<!ENTITY Address.accesskey              "A">
-<!ENTITY Home.box                       "Home">
+<!ENTITY Home.tab                       "Private">
+<!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "Address:">
 <!ENTITY HomeAddress.accesskey          "d">
 <!ENTITY HomeAddress2.label             "">
@@ -111,8 +114,15 @@
 <!ENTITY HomeCountry.label              "Country:">
 <!ENTITY HomeCountry.accesskey          "u">
 <!ENTITY HomeWebPage.label              "Web Page:">
-<!ENTITY HomeWebPage.accesskey          "W">
-<!ENTITY Work.box                       "Work">
+<!ENTITY HomeWebPage.accesskey          "e">
+<!ENTITY Birthday.label                 "Birthday:">
+<!ENTITY Birthday.accesskey             "B">
+<!ENTITY Year.emptytext                 "Year">
+<!ENTITY Or.value                       "or">
+<!ENTITY Age.emptytext                  "Age">
+
+<!ENTITY Work.tab                       "Work">
+<!ENTITY Work.accesskey                 "W">
 <!ENTITY JobTitle.label                 "Title:">
 <!ENTITY JobTitle.accesskey             "e">
 <!ENTITY Department.label               "Department:">
@@ -136,11 +146,6 @@
 
 <!ENTITY Other.tab                      "Other">
 <!ENTITY Other.accesskey                "h">
-<!ENTITY Birthday.label                 "Birthday:">
-<!ENTITY Birthday.accesskey             "B">
-<!ENTITY Year.emptytext                 "Year">
-<!ENTITY Or.value                       "or">
-<!ENTITY Age.emptytext                  "Age">
 <!ENTITY Custom1.label                  "Custom 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Custom 2:">
@@ -149,5 +154,5 @@
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Custom 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.box                      "Notes">
+<!ENTITY Notes.label                    "Notes:">
 <!ENTITY Notes.accesskey                "N">
