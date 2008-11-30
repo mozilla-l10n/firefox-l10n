@@ -2,21 +2,30 @@
 <!ENTITY basic.tab "Formato e opzioni">
 <!ENTITY formatGroup.label "Formato">
 <!ENTITY orientation.label "Orientamento:">
-<!ENTITY portrait "Verticale">
-<!ENTITY landscape "Orizzontale">
+<!ENTITY portrait.label "Verticale">
+<!ENTITY portrait.accesskey "V">
+<!ENTITY landscape.label "Orizzontale">
+<!ENTITY landscape.accesskey "O">
 <!ENTITY scale.label "Scala:">
+<!ENTITY scale.accesskey "S">
 <!ENTITY scalePercent "&#037;">
 <!ENTITY shrinkToFit.label "Adatta alla larghezza del foglio">
+<!ENTITY shrinkToFit.accesskey "h">
 <!ENTITY optionsGroup.label "Opzioni">
 <!ENTITY printBG.label "Stampa lo sfondo (immagini e colori)">
+<!ENTITY printBG.accesskey "m">
 <!ENTITY advanced.tab "Margini e intestazione/piè di pagina">
 <!ENTITY marginGroup.label "Margini (#1)">
 <!ENTITY marginUnits.inches "pollici">
 <!ENTITY marginUnits.metric "millimetri">
 <!ENTITY marginTop.label "In alto:">
+<!ENTITY marginTop.accesskey "a">
 <!ENTITY marginBottom.label "In basso:">
+<!ENTITY marginBottom.accesskey "b">
 <!ENTITY marginLeft.label "A sinistra:">
+<!ENTITY marginLeft.accesskey "n">
 <!ENTITY marginRight.label "A destra:">
+<!ENTITY marginRight.accesskey "d">
 <!ENTITY headerFooter.label "Intestazione e piè di pagina">
 <!ENTITY hfLeft.label "A sinistra:">
 <!ENTITY hfCenter.label "Al centro:">
