@@ -600,10 +600,10 @@
 <!ENTITY copyEmailCmd.label "Копировать адрес электронной почты">
 <!ENTITY copyEmailCmd.accesskey "э">
 <!ENTITY statusText.label "Готово">
-<!ENTITY minimizeWindow.label "Свернуть окно">
+<!ENTITY minimizeWindow.label "Убрать в Dock">
 <!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "Поместить всё на передний план">
-<!ENTITY zoomWindow.label "Развернуть окно">
+<!ENTITY bringAllToFront.label "Все окна — на передний план">
+<!ENTITY zoomWindow.label "Изменить масштаб">
 <!ENTITY preferencesCmdMac.label "Настройки…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY preferencesCmdMac.modifiers "accel">

@@ -22,9 +22,9 @@
 <!ENTITY findTypeTextCmd.key "">
 <!ENTITY findTypeLinksCmd.key "">
 <!ENTITY accel.emacs_conflict "accel">
-<!ENTITY minimizeWindowCmd.label "Свернуть">
+<!ENTITY minimizeWindowCmd.label "Убрать в Dock">
 <!ENTITY minimizeWindowCmd.key "M">
-<!ENTITY zoomWindowCmd.label "Развернуть">
+<!ENTITY zoomWindowCmd.label "Изменить масштаб">
 <!ENTITY openHelpCmd.label "Справка &brandShortName;">
 <!ENTITY openHelpCmd.accesskey "С">
 <!ENTITY openHelpCmd.key "?">
