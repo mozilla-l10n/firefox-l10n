@@ -2,19 +2,31 @@
 <!ENTITY printDialog.title "Печать">
 <!ENTITY fpDialog.title "Сохранить файл">
 <!ENTITY fileCheck.label "Печать в файл">
+<!ENTITY fileCheck.accesskey "ч">
 <!ENTITY propertiesButton.label "Свойства…">
+<!ENTITY propertiesButton.accesskey "в">
 <!ENTITY descText.label "Описание принтера:">
 <!ENTITY printer.label "Принтер">
 <!ENTITY printerInput.label "Принтер:">
+<!ENTITY printerInput.accesskey "н">
 <!ENTITY printrangeGroup.label "Диапазон печати">
 <!ENTITY allpagesRadio.label "Все страницы">
+<!ENTITY allpagesRadio.accesskey "т">
 <!ENTITY rangeRadio.label "Страницы">
+<!ENTITY rangeRadio.accesskey "а">
 <!ENTITY frompageInput.label "с">
+<!ENTITY frompageInput.accesskey "с">
 <!ENTITY topageInput.label "по">
+<!ENTITY topageInput.accesskey "п">
 <!ENTITY selectionRadio.label "Выделенный фрагмент">
+<!ENTITY selectionRadio.accesskey "д">
 <!ENTITY copies.label "Копии">
 <!ENTITY numCopies.label "Число копий:">
+<!ENTITY numCopies.accesskey "л">
 <!ENTITY printframeGroup.label "Печать фреймов">
 <!ENTITY aslaidoutRadio.label "Отображаемых на экране">
+<!ENTITY aslaidoutRadio.accesskey "о">
 <!ENTITY selectedframeRadio.label "Выделенного фрейма">
+<!ENTITY selectedframeRadio.accesskey "ы">
 <!ENTITY eachframesepRadio.label "Всех фреймов по отдельности">
+<!ENTITY eachframesepRadio.accesskey "е">
