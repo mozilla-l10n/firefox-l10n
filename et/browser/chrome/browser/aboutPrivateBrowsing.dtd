@@ -1,13 +1,13 @@
-<!ENTITY privatebrowsingpage.tabtitle                  "Privaatne veebilehitsemine">
+<!ENTITY privatebrowsingpage.tabtitle                     "Privaatne veebilehitsemine">
 
-<!ENTITY privatebrowsingpage.pagetitle                 "Privaatne veebilehitsemine">
+<!ENTITY privatebrowsingpage.pagetitle                    "Privaatne veebilehitsemine">
 
-<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; ei säilita selle seansi ajalugu.">
-<!ENTITY privatebrowsingpage.longDesc                  "Sellel seansil &brandShortName; ajalugu ei salvesta.  See tähendab seda, et ei salvestata veebilehitsemise ajalugu, otsingute ajalugu, allalaadimiste ajalugu, veebivormidesse sisestatut, küpsiseid ega ka ajutisi faile.  Siiski säilitatakse lisatud järjehoidjad ja failid, mille ise alla laadid.">
+<!ENTITY privatebrowsingpage.issueDesc                    "&brandShortName; ei säilita selle seansi ajalugu.">
+<!ENTITY privatebrowsingpage.longDesc                     "Sellel seansil &brandShortName; ajalugu ei salvesta.  See tähendab seda, et ei salvestata veebilehitsemise ajalugu, otsingute ajalugu, allalaadimiste ajalugu, veebivormidesse sisestatut, küpsiseid ega ka ajutisi faile.  Siiski säilitatakse lisatud järjehoidjad ja failid, mille ise alla laadid.">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Sa võid tahta alustada sellest, et kustutad hiljutise ajaloo.">
-<!ENTITY privatebrowsingpage.recentHistory.label       "Kustuta hiljutine ajalugu">
-<!ENTITY privatebrowsingpage.recentHistory.accesskey   "K">
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc       "Sa võid tahta alustada sellest, et kustutad hiljutise ajaloo.">
+<!ENTITY privatebrowsingpage.clearRecentHistory.label     "Kustuta hiljutine ajalugu">
+<!ENTITY privatebrowsingpage.clearRecentHistory.accesskey "K">
 
-<!ENTITY privatebrowsingpage.howToStopDesc             "Kui soovid privaatse veebilehitsemise lõpetada, siis eemalda linnuke menüüst Tööriistad &gt; Privaatne veebilehitsemine.">
-<!ENTITY privatebrowsingpage.footerDesc                "Naudi!">
+<!ENTITY privatebrowsingpage.howToStopDesc                "Kui soovid privaatse veebilehitsemise lõpetada, siis eemalda linnuke menüüst Tööriistad &gt; Privaatne veebilehitsemine.">
+<!ENTITY privatebrowsingpage.footerDesc                   "Naudi!">
