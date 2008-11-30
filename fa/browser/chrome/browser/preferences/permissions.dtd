@@ -8,7 +8,7 @@
 <!ENTITY removeallpermissions.label   "حذف همهٔ پایگاه‌ها">
 <!ENTITY removeallpermissions.accesskey "ه">
 <!ENTITY address.label                "نشانی وب‌گاه">
-<!ENTITY address.accesskey            "d">
+<!ENTITY address.accesskey            "ن">
 <!ENTITY block.label                  "باز داشتن">
 <!ENTITY block.accesskey              "ب">
 <!ENTITY session.label                "اجازه دادن برای این نشست">
