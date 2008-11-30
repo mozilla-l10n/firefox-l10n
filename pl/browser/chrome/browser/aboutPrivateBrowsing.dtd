@@ -5,10 +5,9 @@
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; nie zapamięta historii przeglądania dla tej sesji.">
 <!ENTITY privatebrowsingpage.longDesc                  "Żadne dane o historii przeglądania podczas tej sesji nie zostaną zapisane. Dotyczy to w szczególności: historii przeglądanych stron, historii wyszukiwania, historii pobierania plików, danych formularzy, ciasteczek oraz plików pamięci podręcznej. Należy jednak pamiętać, że wszystkie pobrane pliki i dodane zakładki zostaną zachowane.">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Można także wyczyścić dotychczasową historię przeglądania przed
-przejściem do trybu prywatnego.">
-<!ENTITY privatebrowsingpage.recentHistory.label       "Wyczyść historię przeglądania">
-<!ENTITY privatebrowsingpage.recentHistory.accesskey   "W">
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc         "Można także wyczyścić dotychczasową historię przeglądania przed przejściem do trybu prywatnego.">
+<!ENTITY privatebrowsingpage.clearRecentHistory.label       "Wyczyść historię przeglądania…">
+<!ENTITY privatebrowsingpage.clearRecentHistory.accesskey   "W">
 
 <!ENTITY privatebrowsingpage.howToStopDesc             "Aby opuścić tryb prywatny, należy odznaczyć pozycję Narzędzia &gt; Tryb prywatny.">
 <!ENTITY privatebrowsingpage.footerDesc                "Udanego przeglądania!"><!-- FIXME: originally enjoy -->
