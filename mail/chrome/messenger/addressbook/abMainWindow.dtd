@@ -171,7 +171,7 @@
 <!ENTITY mapIt.tooltip "Показать адрес на карте в Интернете">
 <!ENTITY statusText.label "">
 <!ENTITY windowMenu.label "Окно">
-<!ENTITY minimizeWindow.label "Свернуть окно">
+<!ENTITY minimizeWindow.label "Убрать в Dock">
 <!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "Поместить всё на передний план">
-<!ENTITY zoomWindow.label "Развернуть окно">
+<!ENTITY bringAllToFront.label "Все окна — на передний план">
+<!ENTITY zoomWindow.label "Изменить масштаб">

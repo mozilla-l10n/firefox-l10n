@@ -1,7 +1,7 @@
 <!ENTITY minimizeWindow.key "m">
-<!ENTITY minimizeWindow.label "Свернуть окно">
-<!ENTITY bringAllToFront.label "Поместить всё на передний план">
-<!ENTITY zoomWindow.label "Развернуть окно">
+<!ENTITY minimizeWindow.label "Убрать в Dock">
+<!ENTITY bringAllToFront.label "Все окна — на передний план">
+<!ENTITY zoomWindow.label "Изменить масштаб">
 <!ENTITY windowMenu.label "Окно">
 <!ENTITY helpMenu.label "Справка">
 <!ENTITY helpMenu.accesskey "С">
