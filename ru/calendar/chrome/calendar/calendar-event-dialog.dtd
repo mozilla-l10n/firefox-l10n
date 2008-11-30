@@ -333,7 +333,7 @@
 <!ENTITY event.recurrence.forever.label                 "Нет конечной даты" >
 <!ENTITY event.recurrence.repeat.for.label              "Повторять только" >
 <!ENTITY event.recurrence.appointments.label            "раз" >
-<!ENTITY event.repeat.until.label                       "Повторять кроме" >
+<!ENTITY event.repeat.until.label                       "Повторять до" >
 <!ENTITY event.recurrence.preview.label                 "Предварительный просмотр">
 
 <!-- Reminder dialog -->
