@@ -129,7 +129,7 @@
 <!ENTITY calendar.context.convertmenu.event.accesskey    "ה">
 <!ENTITY calendar.context.convertmenu.event.label        "אירוע…">
 
-<!ENTITY calendar.context.convertmenu.label              "הפוך ל...">
+<!ENTITY calendar.context.convertmenu.label              "הפוך ל…">
 <!ENTITY calendar.context.convertmenu.message.accesskey  "ה">
 <!ENTITY calendar.context.convertmenu.message.label      "הודעה…">
 <!ENTITY calendar.context.convertmenu.task.accesskey     "מ">
@@ -174,8 +174,8 @@
 <!ENTITY calendar.error.detail "פרטים…">
 <!ENTITY calendar.error.number "תקלה מספר:">
 <!ENTITY calendar.error.title "אירעה תקלה">
-<!ENTITY calendar.events.filter.next14Days.label "אירועים ב־14 הימים הבאים">
-<!ENTITY calendar.events.filter.next31Days.label "אירועים ב־31 הימים הבאים">
+<!ENTITY calendar.events.filter.next14Days.label "אירועים בשבועיים הקרובים">
+<!ENTITY calendar.events.filter.next31Days.label "אירועים בחודש הקרוב">
 <!ENTITY calendar.events.filter.next7Days.label "אירועים בשבעת הימים הבאים">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "אירועים בחודש זה">
 
