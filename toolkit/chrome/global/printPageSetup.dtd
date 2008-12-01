@@ -7,17 +7,22 @@
 <!ENTITY formatGroup.label   "ფორმატი">
 
 <!ENTITY orientation.label   "ორიენტაცია:">
-<!ENTITY portrait            "პორტრეტი">
-<!ENTITY landscape           "პეიზაჟი">
+<!ENTITY portrait.label      "პორტრეტი">
+<!ENTITY portrait.accesskey  "P">
+<!ENTITY landscape.label     "პეიზაჟი">
+<!ENTITY landscape.accesskey "L">
 
 <!ENTITY scale.label         "მასშტაბი:">
+<!ENTITY scale.accesskey     "S">
 <!ENTITY scalePercent        "&#037;">
 
 <!ENTITY shrinkToFit.label   "შემჭიდროება გვერდის სიგანეზე">
+<!ENTITY shrinkToFit.accesskey "W">
 
 <!ENTITY optionsGroup.label  "ოპციები">
 
 <!ENTITY printBG.label       "ბეჭდვის ფონი (ფერები და ნახატები)">
+<!ENTITY printBG.accesskey   "B">
 
 <!ENTITY advanced.tab        "საზღვრები და თავსართი/ქვესართი">
 
@@ -25,9 +30,13 @@
 <!ENTITY marginUnits.inches  "დუიმი">
 <!ENTITY marginUnits.metric  "მილიმეტრი">
 <!ENTITY marginTop.label     "ზედა:">
+<!ENTITY marginTop.accesskey "T">
 <!ENTITY marginBottom.label  "ქვედა:">
+<!ENTITY marginBottom.accesskey "B">
 <!ENTITY marginLeft.label    "მარცხენა:">
+<!ENTITY marginLeft.accesskey "L">
 <!ENTITY marginRight.label   "მარჯვენა:">
+<!ENTITY marginRight.accesskey "R">
 
 <!ENTITY headerFooter.label  "თავსართები და ქვესართები">
 

@@ -69,6 +69,7 @@
 
 <!ENTITY sunbird.menu.numberofweeks.label                  "კვირათა რაოდენობა" >
 <!ENTITY sunbird.menu.numberofweeks.accesskey              "N" >
+<!ENTITY sunbird.menu.numberofweeks.1                      "1 კვირა" >
 <!ENTITY sunbird.menu.numberofweeks.2                      "2 კვირა" >
 <!ENTITY sunbird.menu.numberofweeks.3                      "3 კვირა" >
 <!ENTITY sunbird.menu.numberofweeks.4                      "4 კვირა" >
