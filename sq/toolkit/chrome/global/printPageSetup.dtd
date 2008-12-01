@@ -14,22 +14,32 @@
 <!ENTITY hfRight.label "Djathtas:">
 <!ENTITY hfTitle "Titull">
 <!ENTITY hfURL "URL">
-<!ENTITY landscape "Së gjeri">
+<!ENTITY landscape.label "Së gjeri">
+<!ENTITY landscape.accesskey "G">
+
 <!ENTITY marginBottom.label "Fund:">
+<!ENTITY marginBottom.accesskey "F">
 <!ENTITY marginGroup.label "Mënjana (#1)">
 <!ENTITY marginLeft.label "Majtas:">
+<!ENTITY marginLeft.accesskey "M">
 <!ENTITY marginRight.label "Djathtas:">
+<!ENTITY marginRight.accesskey "D">
 <!ENTITY marginTop.label "Krye:">
+<!ENTITY marginTop.accesskey "K">
 <!ENTITY marginUnits.inches "inç">
 <!ENTITY marginUnits.metric "milimetra">
 <!ENTITY optionsGroup.label "Mundësi">
 <!ENTITY orientation.label "Drejtim:">
-<!ENTITY portrait "Portret">
+<!ENTITY portrait.label "Portret">
+<!ENTITY portrait.accesskey  "P">
 <!ENTITY printBG.label "Sfond Shtypjeje (ngjyra &amp; pamje)">
+<!ENTITY printBG.accesskey   "S">
 <!ENTITY printSetup.title "Rregullime Faqeje">
 <!ENTITY scale.label "Shkallë:">
+<!ENTITY scale.accesskey     "S">
 <!ENTITY scalePercent "&#037;">
 <!ENTITY shrinkToFit.label "Tkurre ta Nxërë Gjerësia e Faqes">
+<!ENTITY shrinkToFit.accesskey "T">
 <!ENTITY footerCenter.tip    "Fundfaqe në qendër">
 <!ENTITY footerLeft.tip      "Fundfaqe majtas">
 <!ENTITY headerCenter.tip    "Kryefaqe në qendër">
