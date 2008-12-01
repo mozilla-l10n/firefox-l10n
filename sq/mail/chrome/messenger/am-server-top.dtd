@@ -2,28 +2,28 @@
 
 <!ENTITY securitySettings.label "Rregullime Sigurie">
 <!ENTITY serverSettings.label "Rregullime Shërbyesi">
-<!ENTITY serverType.label "Tip Shërbyesi:">
+<!ENTITY serverType.label "Lloj Shërbyesi:">
 <!ENTITY serverName.label "Emër Shërbyesi:">
 <!ENTITY serverName.accesskey "S">
 <!ENTITY userName.label "Emër Përdoruesi:">
-<!ENTITY userName.accesskey "N">
+<!ENTITY userName.accesskey "P">
 <!ENTITY port.label "Portë:">
-<!ENTITY port.accesskey "P">
+<!ENTITY port.accesskey "o">
 <!ENTITY serverPortDefault.label "Parazgjedhje:">
-<!ENTITY savePassword.label "Ruaj fjalëkalim">
+<!ENTITY savePassword.label "Ruaje fjalëkalimin">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
 -->
 <!ENTITY biffStart.label "Kontrollo për mesazhe të rinj çdo ">
-<!ENTITY biffStart.accesskey "y">
+<!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label "minuta">
 <!ENTITY isSecure.label "Përdor lidhje të sigurt (SSL)">
-<!ENTITY isSecure.accesskey "U">
+<!ENTITY isSecure.accesskey "P">
 <!ENTITY socketType.label "Përdor lidhje të sigurt:">
 <!ENTITY neverSecure.label "Kurrë">
-<!ENTITY neverSecure.accesskey "N">
+<!ENTITY neverSecure.accesskey "K">
 <!ENTITY sometimesSecure.label "TLS, në pastë">
 <!ENTITY sometimesSecure.accesskey "a">
 <!ENTITY alwaysSecure.label "TLS">
@@ -31,13 +31,13 @@
 <!ENTITY alwaysSSL.label "SSL">
 <!ENTITY alwaysSSL.accesskey "L">
 <!ENTITY useSecAuth.label "Përdor mirëfilltësim të sigurt">
-<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY useSecAuth.accesskey "m">
 <!ENTITY leaveOnServer.label "Lëri mesazhet në shërbyes">
-<!ENTITY leaveOnServer.accesskey "g">
+<!ENTITY leaveOnServer.accesskey "n">
 <!ENTITY headersOnly.label "Sill vetëm titujt">
-<!ENTITY headersOnly.accesskey "f">
+<!ENTITY headersOnly.accesskey "v">
 <!ENTITY deleteByAgeFromServer.label "Për e shumta">
-<!ENTITY deleteByAgeFromServer.accesskey "o">
+<!ENTITY deleteByAgeFromServer.accesskey "u">
 <!ENTITY daysEnd.label "ditë">
 <!ENTITY deleteOnServer2.label "Derisa t'i fshij ata">
 <!ENTITY deleteOnServer2.accesskey "d">
@@ -47,27 +47,27 @@
 <!ENTITY username.label "Emri Juaj për Hyrje">
 <!ENTITY deleteMessagePrefix.label "Kur fshij një mesazh:">
 <!ENTITY modelMoveToTrash.label "Shpjere te kjo dosje:">
-<!ENTITY modelMoveToTrash.accesskey "o">
+<!ENTITY modelMoveToTrash.accesskey "s">
 <!ENTITY modelMarkDeleted.label "Thjesht shënoje si të fshirë">
-<!ENTITY modelMarkDeleted.accesskey "k">
+<!ENTITY modelMarkDeleted.accesskey "t">
 <!ENTITY modelDeleteImmediately.label "Hiqe atypëraty">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Në Dalje pastro (&quot;Fshij&quot;) Të Marrët">
-<!ENTITY expungeOnExit.accesskey "E">
-<!ENTITY emptyTrashOnExit.label "Në dalje Zbraz Hedhurina">
-<!ENTITY emptyTrashOnExit.accesskey "x">
+<!ENTITY expungeOnExit.label "Gjatë daljes Pastro (&quot;Fshij&quot;) Të Marrët">
+<!ENTITY expungeOnExit.accesskey "P">
+<!ENTITY emptyTrashOnExit.label "Gjatë daljes Zbraz Hedhurinat">
+<!ENTITY emptyTrashOnExit.accesskey "Z">
 <!ENTITY loginAtStartup.label "Shih për mesazhe të rinj gjatë nisjes"> 
-<!ENTITY loginAtStartup.accesskey "C">
+<!ENTITY loginAtStartup.accesskey "S">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
 	 of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Pyetmë para se të shkarkosh më shumë se">
-<!ENTITY maxMessagesStart.accesskey "m">
+<!ENTITY maxMessagesStart.accesskey "p">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "mesazhe">
 <!ENTITY alwaysAuthenticate.label "Kërko përherë mirëfilltësim kur lidhesh me këtë shërbyes">
-<!ENTITY alwaysAuthenticate.accesskey "w">
+<!ENTITY alwaysAuthenticate.accesskey "k">
 <!ENTITY newsrcFilePath.label "kartelë newsrc:">
 <!ENTITY localPath.label "Drejtori vendore:">
 <!ENTITY abbreviate.label "Trego emra grupe lajmesh tek pjesa Dosje Poste si:">
@@ -75,11 +75,11 @@
 <!ENTITY abbreviateOff.label "Emra të shkurtuar (Për shembull, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Të mëtejshëm…">
 <!ENTITY serverDefaultCharset.label "Kodim Parazgjedhje Gërmash:">
-<!ENTITY advancedButton.accesskey "v">
+<!ENTITY advancedButton.accesskey "k">
 <!ENTITY localFolderPicker.label "Përzgjidhni Drejtori Vendore">
 <!ENTITY browseFolder.label "Shfletoni…">
-<!ENTITY browseFolder.accesskey "B">
+<!ENTITY browseFolder.accesskey "S">
 <!ENTITY newsrcPicker.label "Përzgjidhni Kartelë newsrc">
 <!ENTITY browseNewsrc.label "Shfletoni…">
-<!ENTITY browseNewsrc.accesskey "e">
-<!ENTITY modelDeleteImmediately.accesskey "d">
+<!ENTITY browseNewsrc.accesskey "S">
+<!ENTITY modelDeleteImmediately.accesskey "f">

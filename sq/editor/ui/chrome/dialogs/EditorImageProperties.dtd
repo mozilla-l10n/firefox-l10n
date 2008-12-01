@@ -6,40 +6,40 @@
 <!ENTITY pixelsPopup.value "piksela">
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Vendndodhje Pamjeje:">
-<!ENTITY locationEditField.accessKey "L">
+<!ENTITY locationEditField.accessKey "V">
 <!ENTITY locationEditField.tooltip "Shkruani emër ose vendndodhje kartele">
 <!ENTITY title.label "Ndihmëz:">
-<!ENTITY title.accessKey "T">
+<!ENTITY title.accessKey "N">
 <!ENTITY title.tooltip "Atributi html 'title' që shfaqet si ndihmëz">
 <!ENTITY altText.label "Tekst alternativ:">
-<!ENTITY altText.accessKey "A">
+<!ENTITY altText.accessKey "T">
 <!ENTITY altTextEditField.tooltip "Shkruani tekst për t&apos;u shfaqur në vend të pamjes">
 <!ENTITY noAltText.label "Mos përdor tekst alternativ">
-<!ENTITY noAltText.accessKey "D">
+<!ENTITY noAltText.accessKey "M">
 <!ENTITY previewBox.label "Paraparje Pamjeje">
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 <!ENTITY actualSize.label "Madhësia e Vërtetë:">
 <!ENTITY actualSizeRadio.label "Madhësia e Vërtetë">
-<!ENTITY actualSizeRadio.accessKey "A">
+<!ENTITY actualSizeRadio.accessKey "M">
 <!ENTITY actualSizeRadio.tooltip "Rikthehu tek madhësia e vërtetë e pamjes">
 <!ENTITY customSizeRadio.label "Madhësi Vetjake">
-<!ENTITY customSizeRadio.accessKey "S">
+<!ENTITY customSizeRadio.accessKey "V">
 <!ENTITY customSizeRadio.tooltip "Ndrysho përmasa pamjeje siç shfaqet tek faqja">
 <!ENTITY heightEditField.label "Lartësi:">
-<!ENTITY heightEditField.accessKey "G">
+<!ENTITY heightEditField.accessKey "L">
 <!ENTITY widthEditField.label "Gjerësi:">
-<!ENTITY widthEditField.accessKey "W">
+<!ENTITY widthEditField.accessKey "G">
 <!ENTITY constrainCheckbox.label "Detyro">
-<!ENTITY constrainCheckbox.accessKey "C">
+<!ENTITY constrainCheckbox.accessKey "D">
 <!ENTITY constrainCheckbox.tooltip "Mbaj përpjestimet e pamjes">
 
 <!-- These controls are in the Image Map box of the expanded area -->
 <!ENTITY imagemapBox.label "Hartë Pamjeje">
 <!ENTITY removeImageMapButton.label "Hiq">
-<!ENTITY removeImageMapButton.accessKey "R">
+<!ENTITY removeImageMapButton.accessKey "H">
 <!ENTITY editImageMapButton.label "Përpunoni…">
-<!ENTITY editImageMapButton.tooltip "Krijoni pika të nxehta të klikueshme për këtë pamje">
+<!ENTITY editImageMapButton.tooltip "Krijoni për këtë pamje pika të nxehta të klikueshme">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Drejto Tekst kundrejt Pamjes">
@@ -52,15 +52,15 @@
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "Hapësirë">
 <!ENTITY leftRightEditField.label "Majtas dhe Djathtas:">
-<!ENTITY leftRightEditField.accessKey "L">
+<!ENTITY leftRightEditField.accessKey "M">
 <!ENTITY topBottomEditField.label "Sipër dhe Poshtë:">
-<!ENTITY topBottomEditField.accessKey "T">
+<!ENTITY topBottomEditField.accessKey "S">
 <!ENTITY borderEditField.label "Anë e Plotë:">
-<!ENTITY borderEditField.accessKey "B">
+<!ENTITY borderEditField.accessKey "A">
 
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Shfaq anë përreth pamjes së lidhur">
-<!ENTITY showImageLinkBorder.accessKey "B">
+<!ENTITY showImageLinkBorder.accessKey "a">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Formë">

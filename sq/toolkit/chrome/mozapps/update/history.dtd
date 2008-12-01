@@ -4,5 +4,5 @@
 <!ENTITY  noupdates.label           "Ende nuk ka përditësime të instaluar">
 <!ENTITY  name.header               "Emër Përditësimi">
 <!ENTITY  date.header               "Datë Instalimi">
-<!ENTITY  type.header               "Tip">
+<!ENTITY  type.header               "Lloj">
 <!ENTITY  state.header              "Gjendje">

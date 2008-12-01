@@ -1,8 +1,8 @@
 <!ENTITY aboutDialog.title      "Rreth &brandShortName;-it">
-<!ENTITY credits.label          "Kredite">
-<!ENTITY credits.accesskey      "K">
+<!ENTITY credits.label          "Pjesëmarrësa:">
+<!ENTITY credits.accesskey      "P">
 <!ENTITY aboutLink.label        "&lt; Rreth &brandShortName;-it">
-<!ENTITY aboutLink.accesskey    "A">
+<!ENTITY aboutLink.accesskey    "R">
 <!ENTITY aboutVersion           "version">
 <!ENTITY copyrightText          "&#169;1998-2007 Pjesëmarrësit. Tërë të Drejtat të Ruajtura. Mozilla Thunderbird-i dhe 
                                  logot e Thunderbird-it janë shenja tregtare të Fondacionit Mozilla.  Tërë të Drejtat 

@@ -5,10 +5,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Ndihmë">
 <!ENTITY helpMenuWin.accesskey "N">
-<!ENTITY releaseCmd.label "Shënimve Versioni">
+<!ENTITY releaseCmd.label "Shënime Versioni">
 <!ENTITY releaseCmd.accesskey "S">
 <!ENTITY openHelp.label "Përmbajtje Ndihme">
-<!ENTITY openHelp.accesskey "N">
+<!ENTITY openHelp.accesskey "P">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "Ndihmë për &brandShortName;-in">
 <!ENTITY openHelpMac2.commandkey   "?">

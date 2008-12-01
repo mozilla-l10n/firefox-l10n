@@ -9,7 +9,7 @@
 <!ENTITY bccField2.label "bcc ">
 <!ENTITY newsgroupsField2.label "grupe lajmesh: ">
 <!ENTITY followupToField2.label "vazhdoje-te ">
-<!ENTITY dateField2.label "datëe ">
+<!ENTITY dateField2.label "datë ">
 <!ENTITY userAgentField2.label "agjent-përdoruesi: ">
 <!ENTITY openAttachmentCmd.label    "Hap">  
 <!ENTITY openAttachmentCmd.accesskey		"O">  
@@ -43,5 +43,5 @@
 <!ENTITY saveAsMenuItem.label "ruaje si…">
 <!ENTITY saveAsMenuItem.accesskey "S">
 <!ENTITY viewSourceMenuItem.label "shihni burimin…">
-<!ENTITY viewSourceMenuItem.accesskey "i">
+<!ENTITY viewSourceMenuItem.accesskey "b">
 <!ENTITY trashButton.tooltiptext "fshije">

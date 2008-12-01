@@ -5,16 +5,16 @@
 <!ENTITY biffEnd.label "minuta">
 
 <!ENTITY loginAtStartup.label "Kontrollo për artikuj të rinj gjatë nisjes"> 
-<!ENTITY loginAtStartup.accesskey "C">
+<!ENTITY loginAtStartup.accesskey "K">
 
 <!ENTITY useQuickMode.label "Si parazgjedhje, shfaq përmbledhje artikulli në vend të ngarkimit të faqes web"> 
-<!ENTITY useQuickMode.accesskey "B">
+<!ENTITY useQuickMode.accesskey "S">
 
-<!ENTITY manageSubscriptions.label "Administro Regjistrime…"> 
-<!ENTITY manageSubscriptions.accesskey "M">
+<!ENTITY manageSubscriptions.label "Administroni Regjistrime…"> 
+<!ENTITY manageSubscriptions.accesskey "A">
 
 <!-- entities from defaults/isp/rss.rdf -->
 <!ENTITY rss.accountName            "Lajme &amp; Blogje">
 <!ENTITY rss.wizardShortName        "RSS">  
 <!ENTITY rss.wizardLongName         "Lajme &amp; Blogje RSS">
-<!ENTITY rss.wizardLongName.accesskey "R">
+<!ENTITY rss.wizardLongName.accesskey "L">

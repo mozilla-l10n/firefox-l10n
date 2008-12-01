@@ -1,46 +1,46 @@
 
 <!ENTITY addExtension.label                   "shto prapashtesë te emri i kartelës">
-<!ENTITY addExtension.accesskey               "t">
+<!ENTITY addExtension.accesskey               "s">
 <!ENTITY directoriesNone.label                 "Anjë">
 
 <!ENTITY itemGeneral.label                   "Të përgjithshme">
 <!ENTITY itemAutoComplete.label              "Adresim">
 <!ENTITY itemSpellCheck.label                "Drejtshkrim">
 <!ENTITY forwardMsg.label                     "Përcill mesazhe:">
-<!ENTITY forwardMsg.accesskey                 "f">
-<!ENTITY inline.label                         "Inline">
-<!ENTITY inline.accesskey                     "I">
+<!ENTITY forwardMsg.accesskey                 "p">
+<!ENTITY inline.label                         "Brendaz">
+<!ENTITY inline.accesskey                     "B">
 <!ENTITY asAttachment.label                   "Si Bashkangjitje">
-<!ENTITY asAttachment.accesskey               "A">
+<!ENTITY asAttachment.accesskey               "S">
 <!ENTITY spellCheck.label                     "Kontrolloji drejtshkrimin para se ta dërgosh">
-<!ENTITY spellCheck.accesskey                 "C">
+<!ENTITY spellCheck.accesskey                 "K">
 <!ENTITY spellCheckInline.label               "Kontrollo drejtshkrimin në shkrim e sipër">
-<!ENTITY spellCheckInline1.accesskey           "k">
+<!ENTITY spellCheckInline1.accesskey           "i">
 <!ENTITY languagePopup.label                  "Gjuhë:">
 <!ENTITY languagePopup.accessKey              "g">
 <!ENTITY downloadDictionaries.label           "Shkarko Më tepër Fjalorë">
 
 <!ENTITY warnOnSendAccelKey.label             "Ripoho kur përdoren shkurtore për dërgim mesazhi">
-<!ENTITY warnOnSendAccelKey.accesskey         "i">
+<!ENTITY warnOnSendAccelKey.accesskey         "r">
 <!ENTITY autoSave.label                       "Vetëruaj çdo">
-<!ENTITY autoSave.accesskey                   "u">
+<!ENTITY autoSave.accesskey                   "v">
 <!ENTITY autoSaveEnd.label                    "minuta">
 
 
 
 <!ENTITY emailCollectionPicker.label           "Shto vetvetiu vendndodhje dërgimi e-mail te:">
-<!ENTITY emailCollectionPicker.accesskey       "t">
+<!ENTITY emailCollectionPicker.accesskey       "s">
 <!ENTITY addressingTitle.label                 "Vetëplotësim Vendndodhje">
 <!ENTITY autocompleteText.label                "Kur adresohen mesazhe, shih për zëra përputhjesh te:">
 <!ENTITY addressingEnable.label                "Libra Vendorë Vendndodhjesh">
-<!ENTITY addressingEnable.accesskey            "A">
+<!ENTITY addressingEnable.accesskey            "L">
 <!ENTITY directories.label                     "Shërbyes Drejtorie:">
-<!ENTITY directories.accesskey                 "D">
-<!ENTITY editDirectories.label                 "Përpuno Drejtori…">
-<!ENTITY editDirectories.accesskey             "E">
+<!ENTITY directories.accesskey                 "S">
+<!ENTITY editDirectories.label                 "Përpunoni Drejtori…">
+<!ENTITY editDirectories.accesskey             "P">
 <!ENTITY sendOptionsDescription.label          "Formësoni sjellje të lidhur me formate tekstesh">
-<!ENTITY sendOptions.label                     "Mundësi Dërëgimi…">
-<!ENTITY sendOptions.accesskey                 "S">
+<!ENTITY sendOptions.label                     "Mundësi Dërgimi…">
+<!ENTITY sendOptions.accesskey                 "M">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Gërma:">

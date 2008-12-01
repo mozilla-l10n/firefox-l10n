@@ -3,29 +3,29 @@
 <!ENTITY serverDirectory.label "Drejtori shërbyesi IMAP:">
 <!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "Shfaq vetëm dosje pajtimesh">
-<!ENTITY usingSubscription.accesskey "w">
+<!ENTITY usingSubscription.accesskey "v">
 <!ENTITY dualUseFolders.label "Shërbyesi mbulon dosje që përmbajnë nëndosje dhe mesazhe">
-<!ENTITY dualUseFolders.accesskey "f">
-<!ENTITY useIdle.label "Përdorni urdhrin IDLE nëse ky mbulohet prej shërbyesit">
-<!ENTITY useIdle.accesskey "I">
+<!ENTITY dualUseFolders.accesskey "s">
+<!ENTITY useIdle.label "Përdor urdhrin IDLE nëse ky mbulohet prej shërbyesit">
+<!ENTITY useIdle.accesskey "P">
 <!ENTITY maximumConnectionsNumber.label "Numër më i madh ndërlidhjesh shërbyesi për t&apos;u ruajtur në fshehtinë">
-<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!ENTITY maximumConnectionsNumber.accesskey "N">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
 <!ENTITY namespaceDesc.label "Këta parapëlqime përcaktojnë emërhapësirat te shërbyesi juaj IMAP">
 <!ENTITY personalNamespace.label "Emërhapësirë vetjake:">
-<!ENTITY personalNamespace.accesskey "P">
-<!ENTITY publicNamespace.label "Publik (i përbashkët):">
-<!ENTITY publicNamespace.accesskey "u">
+<!ENTITY personalNamespace.accesskey "e">
+<!ENTITY publicNamespace.label "Publike (e përbashkët):">
+<!ENTITY publicNamespace.accesskey "p">
 <!ENTITY otherUsersNamespace.label "Përdorues Të tjerë:">
-<!ENTITY otherUsersNamespace.accesskey "O">
+<!ENTITY otherUsersNamespace.accesskey "t">
 <!ENTITY overrideNamespaces.label "Lejo shërbyesin të anashkalojë këto emërhapësira">
-<!ENTITY overrideNamespaces.accesskey "A">
-<!ENTITY pop3Desc.label "Kur shkarkohet postë pop për këtë shërbyes, përdorni dosjen vijuese për postë të re:" >
+<!ENTITY overrideNamespaces.accesskey "l">
+<!ENTITY pop3Desc.label "Kur shkarkohet postë pop për këtë shërbyes, përdor dosjen vijuese për postë të re:" >
 <!ENTITY globalInbox.label "Kuti e Përgjithshme (Llogaria Dosje Vetjake)">
-<!ENTITY globalInbox.accesskey "G">
+<!ENTITY globalInbox.accesskey "K">
 <!ENTITY accountDirectory.label "Të marrët për llogarinë e këtij shërbyesi">
 <!ENTITY accountDirectory.accesskey "S">
 <!ENTITY deferToServer.label "Të marrët për tjetër llogari">
-<!ENTITY deferToServer.accesskey "D">
-<!ENTITY deferGetNewMail.label "Përfshi këtë shërbyes kur merret postë e re">
-<!ENTITY deferGetNewMail.accesskey "I">
+<!ENTITY deferToServer.accesskey "l">
+<!ENTITY deferGetNewMail.label "Përfshije këtë shërbyes kur merret postë e re">
+<!ENTITY deferGetNewMail.accesskey "f">

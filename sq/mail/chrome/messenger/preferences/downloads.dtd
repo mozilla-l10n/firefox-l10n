@@ -1,12 +1,12 @@
 <!ENTITY askOnSave.label              "Dosje Bashkangjitjesh">
 <!ENTITY alwaysAsk.label              "Pyetmë për çdo kartelë ku ta ruaj">
-<!ENTITY alwaysAsk.accesskey          "A">
+<!ENTITY alwaysAsk.accesskey          "P">
 <!ENTITY neverAsk.label               "Ruaj tërë bashkangjitjet te kjo dosje:">
-<!ENTITY neverAsk.accesskey           "S">
+<!ENTITY neverAsk.accesskey           "R">
 <!ENTITY chooseFolderWin.label        "Shfletoni…">
-<!ENTITY chooseFolderWin.accesskey    "B">
+<!ENTITY chooseFolderWin.accesskey    "S">
 <!ENTITY chooseFolderMac.label        "Zgjidhni…">
-<!ENTITY chooseFolderMac.accesskey    "C">
+<!ENTITY chooseFolderMac.accesskey    "Z">
 
 
 <!ENTITY fileTypes.label              "Veprime Shkarkimi">

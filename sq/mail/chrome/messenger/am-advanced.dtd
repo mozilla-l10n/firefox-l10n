@@ -1,19 +1,19 @@
 <!-- extracted from am-advanced.xul -->
 
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpServer.label "Rregullime Shërbyesi (SMTP) Dërgues">
+<!ENTITY smtpServer.label "Rregullime Shërbyesi Dërgues (SMTP)">
 
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpDesc.label "Edhe pse mund të jepni më tepër se një shërbyes (SMTP) dërgues, kjo këshillohet vetëm për përdorues të përparuar. Rregullimi me shërbyesa të shumëfishtë SMTP mund të shkaktojë probleme gjatë dërgimit të mesazheve.">
 
-<!ENTITY smtpListAdd.label  "Shto…">
-<!ENTITY smtpListAdd.accesskey  "d">
+<!ENTITY smtpListAdd.label  "Shtoni…">
+<!ENTITY smtpListAdd.accesskey  "s">
 <!ENTITY smtpListEdit.label "Përpunoni…">
-<!ENTITY smtpListEdit.accesskey "E">
-<!ENTITY smtpListDelete.label "Hiq">
-<!ENTITY smtpListDelete.accesskey "m">
+<!ENTITY smtpListEdit.accesskey "p">
+<!ENTITY smtpListDelete.label "Hiqe">
+<!ENTITY smtpListDelete.accesskey "h">
 <!ENTITY smtpListSetDefault.label "Vëre si Parazgjedhje">
-<!ENTITY smtpListSetDefault.accesskey "t">
+<!ENTITY smtpListSetDefault.accesskey "v">
 
 <!ENTITY serverDescription.label "Përshkrim: ">
 <!ENTITY serverName.label "Emër Shërbyesi: ">

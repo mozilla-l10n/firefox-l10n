@@ -37,12 +37,12 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Snap to Grid">
+<!ENTITY windowTitle.label "Hidhe te Rrjeta">
 
-<!ENTITY enableSnapToGrid.label "enable Snap to Grid">
-<!ENTITY enableSnapToGrid.accessKey "e">
+<!ENTITY enableSnapToGrid.label "aktivizo Hidhe te Rrjeta">
+<!ENTITY enableSnapToGrid.accessKey "a">
 
-<!ENTITY sizeEditField.label "Size:">
-<!ENTITY sizeEditField.accessKey "S">
+<!ENTITY sizeEditField.label "Madhësi:">
+<!ENTITY sizeEditField.accessKey "M">
 
-<!ENTITY pixelsLabel.value "pixels">
+<!ENTITY pixelsLabel.value "piksela">

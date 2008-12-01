@@ -3,7 +3,7 @@
 <!ENTITY importDialog.mailTitle   "Filtra">
 <!ENTITY importDialog.addressbookTitle "Libra Vendndodhjesh">
 <!ENTITY importDialog.settingsTitle "Rregullime">
-<!ENTITY importDialog.filtersTitle "Filters">
+<!ENTITY importDialog.filtersTitle "Filtra">
 
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">

@@ -87,7 +87,7 @@
 <!ENTITY JobTitle.label                 "Titull:">
 <!ENTITY JobTitle.accesskey             "t">
 <!ENTITY Department.label               "Degë:">
-<!ENTITY Department.accesskey           "g">
+<!ENTITY Department.accesskey           "d">
 <!ENTITY Company.label                  "Organizëm:">
 <!ENTITY Company.accesskey              "O">
 <!ENTITY WorkAddress.label              "Vendndodhje:">
@@ -106,7 +106,7 @@
 <!ENTITY WorkWebPage.accesskey          "f">
 
 <!ENTITY Other.tab                      "Tjetër">
-<!ENTITY Other.accesskey                "h">
+<!ENTITY Other.accesskey                "t">
 <!ENTITY Custom1.label                  "Vetjake 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Vetjake 2:">

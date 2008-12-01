@@ -3,8 +3,8 @@
 
 <!ENTITY alertCustomization.intro         "Zgjidhni cilat fusha të shfaqen te shënimi për sinjalizim:">
 <!ENTITY previewText.label                "Tekst Paraparjeje Mesazhi">
-<!ENTITY previewText.accesskey            "M">
+<!ENTITY previewText.accesskey            "T">
 <!ENTITY subject.label                    "Subjekt">
 <!ENTITY subject.accesskey                "S">
 <!ENTITY sender.label                     "Dërgues">
-<!ENTITY sender.accesskey                 "e">
+<!ENTITY sender.accesskey                 "D">

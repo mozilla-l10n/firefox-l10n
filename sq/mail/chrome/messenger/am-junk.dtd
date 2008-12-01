@@ -4,7 +4,7 @@
 <!ENTITY level.accesskey "A">
 
 <!ENTITY move.label "Mesazhet e rinj hedhurinë kaloji tek:">
-<!ENTITY move.accesskey "K">
+<!ENTITY move.accesskey "M">
 <!ENTITY junkFolderOn.label "Dosja &quot;Hedhurinë&quot; te:">
 <!ENTITY junkFolderOn.accesskey "D">
 <!ENTITY otherFolder.label "Tjetër:">

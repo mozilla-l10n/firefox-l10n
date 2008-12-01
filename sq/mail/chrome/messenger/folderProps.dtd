@@ -2,48 +2,48 @@
 
 <!ENTITY generalInfo.label                       "Të dhëna Të përgjithshme">
 <!ENTITY folderCharsetTab.label                  "Kodim Gërmash Parazgjedhje:">
-<!ENTITY folderCharsetTab.accesskey              "E">
-<!ENTITY folderCharsetOverride.label             "Zbato parazgjedhje mbi tërë mesazhet e dosjes (rregullimet vetjakë për kodim gërmash mesazhesh dhe vetëzbulimi do të shpërfillen)">
-<!ENTITY folderCharsetOverride.accesskey         "A">
+<!ENTITY folderCharsetTab.accesskey              "K">
+<!ENTITY folderCharsetOverride.label             "Zbato parazgjedhjen mbi tërë mesazhet e dosjes (rregullimet vetjakë për kodim gërmash mesazhesh dhe vetëzbulimi do të shpërfillen)">
+<!ENTITY folderCharsetOverride.accesskey         "Z">
 
 <!ENTITY retention.label "Rregulla Mbajtjeje">
 <!ENTITY retentionUseDefault.label  "Përdor parazgjedhje shërbyesi">
-<!ENTITY retentionUseDefault.accesskey "d">
+<!ENTITY retentionUseDefault.accesskey "P">
 <!ENTITY daysOld.label "ditë të vjetër">
 <!ENTITY message.label "mesazhe">
 <!ENTITY retentionCleanup.label "Për të ripasur hapësirë në disk, mesazhet e vjetër mund të fshihen përgjithnjë">
 <!ENTITY retentionKeepAll.label "Mos fshi ndonjë mesazh">
-<!ENTITY retentionKeepAll.accesskey "A">
-<!ENTITY retentionKeepNew.label "Delete all but the last">
-<!ENTITY retentionKeepNew.accesskey "l">
+<!ENTITY retentionKeepAll.accesskey "M">
+<!ENTITY retentionKeepNew.label "Fshiji të tërë hiq të fundit">
+<!ENTITY retentionKeepNew.accesskey "F">
 <!ENTITY retentionKeepUnread.label "Fshi përherë mesazhe të lexuar">
-<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY retentionKeepUnread.accesskey "l">
 
 <!ENTITY folderOfflineTab.label                  "I palidhur">
 <!ENTITY folderCheckForNewMessages.label         "Kontrollo këtë dosje për mesazhe të rinj">
-<!ENTITY folderCheckForNewMessages.accesskey     "C">
+<!ENTITY folderCheckForNewMessages.accesskey     "K">
 
-<!ENTITY offlineFolder.check.label               "Përzgjidhni këtë dosje për përdorim të palidhur">
-<!ENTITY offlineFolder.check.accesskey           "S">
+<!ENTITY offlineFolder.check.label               "Përzgjidheni këtë dosje për përdorim të palidhur">
+<!ENTITY offlineFolder.check.accesskey           "P">
 <!ENTITY offlineFolder.button.label              "Shkarko Tani">
-<!ENTITY offlineFolder.button.accesskey          "D">
+<!ENTITY offlineFolder.button.accesskey          "S">
 
-<!ENTITY selectofflineNewsgroup.check.label      "Përzgjidhni këtë grup lajmesh për përdorim të palidhur">
-<!ENTITY selectofflineNewsgroup.check.accesskey  "o">
+<!ENTITY selectofflineNewsgroup.check.label      "Përzgjidheni këtë grup lajmesh për përdorim të palidhur">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "P">
 <!ENTITY offlineNewsgroup.button.label           "Shkarko Tani">
-<!ENTITY offlineNewsgroup.button.accesskey       "D">
+<!ENTITY offlineNewsgroup.button.accesskey       "S">
 
 <!ENTITY folderProps.name.label                  "Emër:">
-<!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.name.accesskey              "E">
 
 <!ENTITY folderSharingTab.label                  "Përndarje">
 <!ENTITY privileges.button.label                 "Privilegje…">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "Keni lejet vijuese:">
-<!ENTITY folderType.label                        "Tip Dosjeje:">
+<!ENTITY folderType.label                        "Lloj Dosjeje:">
 
 <!ENTITY folderQuotaTab.label                    "Kuota">
-<!ENTITY folderQuotaRoot.label                   "Quota Root:">
+<!ENTITY folderQuotaRoot.label                   "Rrënjë Kuotash:">
 <!ENTITY folderQuotaUsage.label                  "Përdorim:">
 <!ENTITY folderQuotaStatus.label                 "Gjendje:">
 
@@ -53,4 +53,4 @@
 <!ENTITY retentionDeleteMsg.label "Fshi mesazhet më të vjetër se">
 <!ENTITY retentionDeleteMsg.accesskey "F">
 <!ENTITY folderProps.location.label              "Vend:">
-<!ENTITY folderProps.location.accesskey          "D">
+<!ENTITY folderProps.location.accesskey          "V">

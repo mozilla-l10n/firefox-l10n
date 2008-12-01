@@ -40,9 +40,9 @@
 <!ENTITY windowTitle.label "Fut Gërmë">
 <!ENTITY category.label "Kategori">
 <!ENTITY letter.label "Gërmë:">
-<!ENTITY letter.accessKey "L">
+<!ENTITY letter.accessKey "G">
 <!ENTITY character.label "Gërmë me shenjë:">
-<!ENTITY character.accessKey "C">
+<!ENTITY character.accessKey "s">
 <!ENTITY accentUpper.label "Të mëdhaja me Theks">
 <!ENTITY accentLower.label "Të vogla me Theks">
 <!ENTITY otherUpper.label "Të tjera të Mëdhaja">

@@ -12,6 +12,6 @@
 <!ENTITY signingCert.message "Përdorni këtë dëshmi për të nënshkruar në mënyrë shifrore mesazhet që dërgoni:">
 <!ENTITY certificates.label     "Dëshmi">
 <!ENTITY managecerts.label      "Shihni Dëshmi">
-<!ENTITY managecerts.accesskey  "V">
-<!ENTITY managedevices.label    "Pajisje Siguries">
-<!ENTITY managedevices.accesskey "S">
+<!ENTITY managecerts.accesskey  "S">
+<!ENTITY managedevices.label    "Pajisje Sigurie">
+<!ENTITY managedevices.accesskey "P">

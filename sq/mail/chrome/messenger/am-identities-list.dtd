@@ -1,7 +1,7 @@
 <!ENTITY identitiesListDesc.label "Mbulim Identitetesh të Shumëfishtë">
-<!ENTITY identitiesListAdd.label  "Shto…">
-<!ENTITY identitiesListAdd.accesskey  "A">
+<!ENTITY identitiesListAdd.label  "Shtoni…">
+<!ENTITY identitiesListAdd.accesskey  "S">
 <!ENTITY identitiesListEdit.label "Përpunoni…">
-<!ENTITY identitiesListEdit.accesskey "E">
-<!ENTITY identitiesListDelete.label "Fshij">
-<!ENTITY identitiesListDelete.accesskey "D">
+<!ENTITY identitiesListEdit.accesskey "P">
+<!ENTITY identitiesListDelete.label "Fshije">
+<!ENTITY identitiesListDelete.accesskey "F">

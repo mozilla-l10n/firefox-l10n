@@ -39,24 +39,24 @@
 <!ENTITY Settings.label "Rregullime">
 
 <!ENTITY TextAreaName.label "Emër Fushe:">
-<!ENTITY TextAreaName.accessKey "N">
+<!ENTITY TextAreaName.accessKey "E">
 <!ENTITY TextAreaRows.label "Rreshta:">
 <!ENTITY TextAreaRows.accessKey "R">
 <!ENTITY TextAreaCols.label "Shtylla:">
-<!ENTITY TextAreaCols.accessKey "C">
+<!ENTITY TextAreaCols.accessKey "S">
 <!ENTITY TextAreaReadOnly.label "Vetëm Lexim">
-<!ENTITY TextAreaReadOnly.accessKey "O">
+<!ENTITY TextAreaReadOnly.accessKey "L">
 <!ENTITY TextAreaDisabled.label "Çaktivizuar">
-<!ENTITY TextAreaDisabled.accessKey "D">
+<!ENTITY TextAreaDisabled.accessKey "Ç">
 <!ENTITY TextAreaTabIndex.label "Tregues Tab:">
-<!ENTITY TextAreaTabIndex.accessKey "I">
+<!ENTITY TextAreaTabIndex.accessKey "T">
 <!ENTITY TextAreaAccessKey.label "Tast Hyrjeje:">
-<!ENTITY TextAreaAccessKey.accessKey "K">
-<!ENTITY InitialText.label "Initial Tekst:">
-<!ENTITY InitialText.accessKey "T">
+<!ENTITY TextAreaAccessKey.accessKey "H">
+<!ENTITY InitialText.label "Tekst Fillestar:">
+<!ENTITY InitialText.accessKey "F">
 
 <!ENTITY TextAreaWrap.label "Mënyrë Mbështill:">
-<!ENTITY TextAreaWrap.accessKey "W">
+<!ENTITY TextAreaWrap.accessKey "M">
 <!ENTITY WrapDefault.value "Parazgjedhje">
 <!ENTITY WrapOff.value "Off">
 <!ENTITY WrapHard.value "Hard">

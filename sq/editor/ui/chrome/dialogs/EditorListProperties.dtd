@@ -42,12 +42,12 @@
 <!ENTITY ListType.label "Lloj Liste">
 <!ENTITY bulletStyle.label "Stil Shenjash:">
 <!ENTITY startingNumber.label "Fillo tek:">
-<!ENTITY startingNumber.accessKey "S">
+<!ENTITY startingNumber.accessKey "F">
 <!ENTITY none.value "Asnjë">
 <!ENTITY bulletList.value "Listë me Shenja (E panumërtuar)">
 <!ENTITY numberList.value "Listë me Numra">
 <!ENTITY definitionList.value "Listë Përkufizimesh">
 <!ENTITY changeEntireListRadio.label "Ndrysho tërë listën">
-<!ENTITY changeEntireListRadio.accessKey "C">
+<!ENTITY changeEntireListRadio.accessKey "t">
 <!ENTITY changeSelectedRadio.label "Ndrysho vetëm pjesët e përzgjedhura">
-<!ENTITY changeSelectedRadio.accessKey "I">
+<!ENTITY changeSelectedRadio.accessKey "v">

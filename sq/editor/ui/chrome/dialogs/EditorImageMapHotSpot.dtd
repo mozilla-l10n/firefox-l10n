@@ -44,7 +44,7 @@
 <!ENTITY link.label			"Lidhje Pikeje të Nxehtë">
 <!ENTITY urlFieldset.label		"URL Pikeje të Nxehtë:">
 <!ENTITY altFieldset.label		"Tekst Alternativ për Pikë të Nxehtë:">
-<!ENTITY browseButton.label		"Shlfeto…">
+<!ENTITY browseButton.label		"Shfleto…">
 <!ENTITY targetFieldset.label		"Rregullim Objektivi">
 <!ENTITY target.label			"Objektiv Pikeje të Nxehtë">
 

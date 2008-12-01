@@ -5,11 +5,11 @@
 <!ENTITY directories.label         "Shërbyes Drejtorish LDAP:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 <!ENTITY directoriesText.label     "Përzgjidhni një Shërbyes LDAP Drejtorish:">
-<!ENTITY directoriesText.accesskey "S">
+<!ENTITY directoriesText.accesskey "z">
 
-<!ENTITY addDirectory.label        "Shto">
-<!ENTITY addDirectory.accesskey    "a">
-<!ENTITY editDirectory.label       "Përpunoni">
-<!ENTITY editDirectory.accesskey   "e">
-<!ENTITY deleteDirectory.label     "Fshij">
-<!ENTITY deleteDirectory.accesskey "d">    
+<!ENTITY addDirectory.label        "Shtoje">
+<!ENTITY addDirectory.accesskey    "S">
+<!ENTITY editDirectory.label       "Përpunojeni">
+<!ENTITY editDirectory.accesskey   "p">
+<!ENTITY deleteDirectory.label     "Fshije>
+<!ENTITY deleteDirectory.accesskey "f">    

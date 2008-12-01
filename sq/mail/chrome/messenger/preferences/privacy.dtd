@@ -5,22 +5,22 @@
 <!-- Phishing Detector -->
 <!ENTITY phishingDetector1.intro      "&brandShortName;-i mund të analizojë mesazhet për email-e mashtrues të dyshuar mundshëm duke parë për teknika të zakonshme të përdorura për t'ua hedhur.">
 <!ENTITY enablePhishingDetector1.label    "Ma bëj të ditur nëse mesazhi që po lexoj është i dyshuar për email mashtrues">
-<!ENTITY enablePhishingDetector1.accesskey  "e">
+<!ENTITY enablePhishingDetector1.accesskey  "m">
 <!ENTITY useDownloadedList.label "Përdor një listë të shkarkuar të dyshuarish si email-e mashtrues">
-<!ENTITY useDownloadedList.accesskey "U">
+<!ENTITY useDownloadedList.accesskey "p">
 
 <!-- Passwords -->
 <!ENTITY savedPasswords.intro         "&brandShortName;-i mund të mbajë mend të dhëna fjalëkalimi për tërë llogaritë tuaja e kështu nuk ju duhet të rijepni hollësitë tuaja për hyrje.">
 <!ENTITY  encryptEnabled.label        "Përdor fjalëkalim të përgjithshëm për të koduar fjalëkalime të ruajtur">
-<!ENTITY  encryptEnabled.accesskey    "s">
+<!ENTITY  encryptEnabled.accesskey    "p">
 <!ENTITY  masterPassword.intro        "Nëse caktohet, Fjalëkalimi i Përgjithshëm mbron tërë fjalëkalimet tuaj - por duhet ta jepni një herë për çdo sesion.">
 <!ENTITY  setMasterPassword.label     "Fjalëkalim i Përgjithshëm">
-<!ENTITY  setMasterPassword.accesskey "M">
+<!ENTITY  setMasterPassword.accesskey "F">
 <!ENTITY  removeMasterPassword.label  "Hiq Fjalëkalimin e Përgjithshëm…">
-<!ENTITY  removeMasterPassword.accesskey "R">
+<!ENTITY  removeMasterPassword.accesskey "H">
 
-<!ENTITY  editPasswords.label         "Përpunoni Fjalëkalimet e Ruajtur">
-<!ENTITY  editPasswords.accesskey     "i">
+<!ENTITY  editPasswords.label         "Përpunoni Fjalëkalimet e Ruajtura">
+<!ENTITY  editPasswords.accesskey     "r">
 
 <!-- Anti Virus -->
 <!ENTITY antiVirus.intro      "&brandShortName;-i mund ta bëjë të lehtë analizimin e mesazheve të postës ardhëse për viruse nga programet anti-virus para se ata të ruhen lokalisht.">
@@ -35,14 +35,14 @@
 <!ENTITY manualMarkModeMove.label "Kaloji te dosja &quot;Hedhurinë&quot; e llogarisë">
 <!ENTITY manualMarkModeDelete.label "Fshiji">
 <!ENTITY enableJunkLogging.label "Aktivizo regjistrim filtri hedhurinash">
-<!ENTITY enableJunkLogging.accesskey "g">
+<!ENTITY enableJunkLogging.accesskey "a">
 <!ENTITY openJunkLog.label "Shfaq regjistrim">
-<!ENTITY openJunkLog.accesskey "h">
+<!ENTITY openJunkLog.accesskey "s">
 <!ENTITY resetTrainingData.label "Rirregulloni Të dhëna Stërvitjeje">
-<!ENTITY resetTrainingData.accesskey "D">
-<!ENTITY manualMark.accesskey "W">
+<!ENTITY resetTrainingData.accesskey "r">
+<!ENTITY manualMark.accesskey "K">
 <!ENTITY manualMarkModeMove.accesskey "o">
-<!ENTITY manualMarkModeDelete.accesskey "t">
+<!ENTITY manualMarkModeDelete.accesskey "f">
 <!ENTITY markAsReadOnSpam.label "Mesazhet e përcaktuar si të ishin Hedhurinë shënoji si të lexuar">
-<!ENTITY markAsReadOnSpam.accesskey "k">
+<!ENTITY markAsReadOnSpam.accesskey "M">
 

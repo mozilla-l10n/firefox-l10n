@@ -7,7 +7,7 @@
 <!ENTITY status.encrypted "Koduar:">
 <!ENTITY status.certificates "Dëshmi:">
 <!ENTITY view.label "Shihni">
-<!ENTITY view.accesskey "V">
+<!ENTITY view.accesskey "S">
 <!ENTITY tree.recipient "Marrës">
 <!ENTITY tree.status "Gjendje">
 <!ENTITY tree.issuedDate "Lëshuar">

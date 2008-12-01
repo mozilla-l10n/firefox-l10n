@@ -1,20 +1,20 @@
 <!ENTITY tableWindow.title                "Veti Tabele">
-<!ENTITY applyButton.label                "Zbato">
-<!ENTITY applyButton.accesskey            "A">
+<!ENTITY applyButton.label                "Zbatoje">
+<!ENTITY applyButton.accesskey            "Z">
 <!ENTITY closeButton.label                "Mbylle">
 <!ENTITY tableTab.label                   "Tabelë">
 <!ENTITY cellTab.label                    "Kuti">
 <!ENTITY tableRows.label                  "Rreshta:">
 <!ENTITY tableRows.accessKey              "R">
 <!ENTITY tableColumns.label               "Shtylla:">
-<!ENTITY tableColumns.accessKey           "C">
+<!ENTITY tableColumns.accessKey           "S">
 <!ENTITY tableHeight.label                "Lartësi:">
-<!ENTITY tableHeight.accessKey            "G">
+<!ENTITY tableHeight.accessKey            "L">
 <!ENTITY tableWidth.label                 "Gjerësi:">
-<!ENTITY tableWidth.accessKey             "W">
+<!ENTITY tableWidth.accessKey             "G">
 <!ENTITY tableBorderSpacing.label         "Anë dhe Hapësira">
 <!ENTITY tableBorderWidth.label           "Anë:">
-<!ENTITY tableBorderWidth.accessKey       "B">
+<!ENTITY tableBorderWidth.accessKey       "A">
 <!ENTITY tableSpacing.label               "Hapësirë:">
 <!ENTITY tableSpacing.accessKey           "S">
 <!ENTITY tablePadding.label               "Zbutje:">
@@ -22,9 +22,9 @@
 <!ENTITY tablePxBetwCells.label           "piksela ndërmjet kutish">
 <!ENTITY tablePxBetwBrdrCellContent.label "piksela ndërmjet ane kutie dhe përmbajtjeje">
 <!ENTITY tableAlignment.label             "Drejtim Tabele:">
-<!ENTITY tableAlignment.accessKey         "T">
+<!ENTITY tableAlignment.accessKey         "D">
 <!ENTITY tableCaption.label               "Kapje:">
-<!ENTITY tableCaption.accessKey           "N">
+<!ENTITY tableCaption.accessKey           "K">
 <!ENTITY tableCaptionAbove.label          "Sipër Tabelës">
 <!ENTITY tableCaptionBelow.label          "Poshtë Tabelës">
 <!ENTITY tableCaptionLeft.label           "Majtas Tabelës">
@@ -37,23 +37,23 @@
 <!ENTITY cellSelectRow.label              "Rresht">
 <!ENTITY cellSelectColumn.label           "Shtyllë">
 <!ENTITY cellSelectNext.label             "Pasuesi">
-<!ENTITY cellSelectNext.accessKey         "N">
+<!ENTITY cellSelectNext.accessKey         "P">
 <!ENTITY cellSelectPrevious.label         "I mëparshmi">
-<!ENTITY cellSelectPrevious.accessKey     "P">
+<!ENTITY cellSelectPrevious.accessKey     "M">
 <!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
 <!ENTITY cellContentAlignment.label       "Drejtim Përmbajtjeje">
 <!ENTITY cellHorizontal.label             "Horizontal:">
-<!ENTITY cellHorizontal.accessKey         "Z">
+<!ENTITY cellHorizontal.accessKey         "H">
 <!ENTITY cellVertical.label               "Vertikal:">
 <!ENTITY cellVertical.accessKey           "V">
 <!ENTITY cellStyle.label                  "Stil Kutie:">
-<!ENTITY cellStyle.accessKey              "C">
+<!ENTITY cellStyle.accessKey              "S">
 <!ENTITY cellNormal.label                 "Normal">
 <!ENTITY cellHeader.label                 "Titull">
 <!ENTITY cellTextWrap.label               "Mbështjellje Teksti:">
-<!ENTITY cellTextWrap.accessKey           "T">
-<!ENTITY cellWrap.label                   "Mbështill">
-<!ENTITY cellNoWrap.label                 "Mos mbështill">
+<!ENTITY cellTextWrap.accessKey           "M">
+<!ENTITY cellWrap.label                   "Mbështille">
+<!ENTITY cellNoWrap.label                 "Mos e mbështill">
 <!ENTITY cellAlignTop.label               "Sipër">
 <!ENTITY cellAlignMiddle.label            "Përmes">
 <!ENTITY cellAlignBottom.label            "Poshtë">
@@ -66,7 +66,7 @@
 <!ENTITY size.label                       "Madhësi">
 <!ENTITY pixels.label                     "piksela">
 <!ENTITY backgroundColor.label            "Ngjyrë Sfondi:">
-<!ENTITY backgroundColor.accessKey        "B">
+<!ENTITY backgroundColor.accessKey        "N">
 <!ENTITY AlignLeft.label                  "Majtas">
 <!ENTITY AlignCenter.label                "Qendër">
 <!ENTITY AlignRight.label                 "Djathtas">

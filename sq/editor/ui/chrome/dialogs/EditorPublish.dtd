@@ -10,7 +10,7 @@
 <!-- Publish Tab Panel -->
 <!ENTITY siteList.label           "Emër &quot;Site&quot;-i:">
 <!ENTITY siteList.accesskey           "e">
-<!ENTITY siteList.tooltip         "Zgjidhni &quot;site&quot;-i te i cili doni të botohet">
+<!ENTITY siteList.tooltip         "Zgjidhni &quot;site&quot;-in te i cili doni të botohet">
 <!ENTITY newSiteButton.label      "&quot;Site&quot; i Ri">
 <!ENTITY docDirList.label         "Nëndrejtori &quot;site&quot;-i për këtë faqe:">
 <!ENTITY publishImgCheckbox.label "Përfshi pamje dhe kartela të tjera">
@@ -43,23 +43,24 @@
 <!ENTITY password.tooltip     "Fjalëkalimi i shoqëruar emrit tuaj të përdoruesit">
 <!ENTITY savePassword.label   "Ruaj Fjalëkalim">
 <!ENTITY savePassword.tooltip "Përzgjidheni këtë për të ruajtur në mënyrë të sigurt fjalëkalimin tuaj duke përdorur Përgjegjësin e Fjalëkalimeve">
-<!ENTITY newSiteButton.accesskey      "N">
-<!ENTITY removeButton.accesskey       "R">
-<!ENTITY docDirList.accesskey         "S">
+<!ENTITY newSiteButton.accesskey      "R">
+<!ENTITY removeButton.accesskey       "H">
 <!ENTITY docDirList.tooltip           "Zgjidhni ose jepni emrin e nëndrejtorisë së largët për këtë faqe">
-<!ENTITY publishImgCheckbox.accesskey "o">
-<!ENTITY sameLocationRadio.accesskey  "U">
-<!ENTITY useSubdirRadio.accesskey     "d">
+<!ENTITY docDirList.accesskey         "Z">
+
+<!ENTITY publishImgCheckbox.accesskey "p">
+<!ENTITY sameLocationRadio.accesskey  "V">
+<!ENTITY useSubdirRadio.accesskey     "n">
 <!ENTITY useSubdirRadio.tooltip       "Botoji kartelat te drejtoria e largët e përzgjedhur">
 <!ENTITY otherDirList.tooltip         "Zgjidhni ose jepni emrin e nëndrejtorisë së largët ku të botohen kartelat">
 <!ENTITY pageTitle.accesskey          "T">
-<!ENTITY filename.accesskey           "F">
-<!ENTITY setDefaultButton.accesskey   "D">
+<!ENTITY filename.accesskey           "K">
+<!ENTITY setDefaultButton.accesskey   "P">
 <!ENTITY siteName.accesskey           "e">
-<!ENTITY siteUrl.accesskey            "a">
-<!ENTITY browseUrl.accesskey          "T">
-<!ENTITY username.accesskey           "U">
-<!ENTITY password.accesskey           "w">
-<!ENTITY savePassword.accesskey       "S">
+<!ENTITY siteUrl.accesskey            "u">
+<!ENTITY browseUrl.accesskey          "V">
+<!ENTITY username.accesskey           "P">
+<!ENTITY password.accesskey           "f">
+<!ENTITY savePassword.accesskey       "r">
 
 

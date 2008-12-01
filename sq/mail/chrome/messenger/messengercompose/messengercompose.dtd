@@ -17,7 +17,7 @@
 <!ENTITY attachFileCmd.label "Kartelë(a)…">
 <!ENTITY attachFileCmd.accesskey "K">
 <!ENTITY attachPageCmd.label "Faqe Web…">
-<!ENTITY attachPageCmd.accesskey "W">
+<!ENTITY attachPageCmd.accesskey "F">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Kartë Vetjake (vCard)">
 <!ENTITY attachVCardCmd.accesskey "V">
@@ -88,14 +88,14 @@
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Parje"> 
-<!ENTITY viewMenu.accesskey "p">
+<!ENTITY viewMenu.accesskey "a">
 <!ENTITY viewToolbarsMenuNew.label "Panele"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "N"> 
 <!ENTITY showCompositionToolbarCmd.label "Panel Hartimi">
 <!ENTITY showFormattingBarCmd.label "Panel Formatimi">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Shtyllë Gjendje">
-<!ENTITY showTaskbarCmd.accesskey "G">
+<!ENTITY showTaskbarCmd.accesskey "GS
 <!ENTITY customizeToolbar.label "Përshtateni…">
 <!ENTITY customizeToolbar.accesskey "t">
 
@@ -156,7 +156,7 @@
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Mjete">
-<!ENTITY tasksMenu.accesskey "M">
+<!ENTITY tasksMenu.accesskey "J">
 <!ENTITY messengerCmd.label "Postë &amp; Grupe Lajmesh">
 <!ENTITY messengerCmd.accesskey "p">
 <!ENTITY messengerCmd.commandkey "1">

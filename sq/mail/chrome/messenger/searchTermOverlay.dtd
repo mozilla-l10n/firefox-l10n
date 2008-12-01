@@ -1,7 +1,7 @@
 <!ENTITY matchAll.label     "Kanë përputhje me tërë sa vijon">
-<!ENTITY matchAll.accesskey "a">
+<!ENTITY matchAll.accesskey "t">
 <!ENTITY matchAny.label     "Kanë përputhje me ndonjë nga sa vijon">
-<!ENTITY matchAny.accesskey "o">
+<!ENTITY matchAny.accesskey "n">
 <!ENTITY matchAllMsgs.label     "Kanë përputhje me tërë mesazhet">
 <!ENTITY matchAllMsgs.accesskey "m">
 

@@ -5,14 +5,14 @@
 <!ENTITY location.label  "Vendndodhje:">
 
 <!ENTITY button.addFeed.label       "Shto">
-<!ENTITY button.addFeed.accesskey   "A">
+<!ENTITY button.addFeed.accesskey   "S">
 <!ENTITY button.editFeed.label      "Përpunoni">
-<!ENTITY button.editFeed.accesskey  "E">
+<!ENTITY button.editFeed.accesskey  "P">
 <!ENTITY button.removeFeed.label "Hiq">
-<!ENTITY button.removeFeed.accesskey   "R">
+<!ENTITY button.removeFeed.accesskey   "H">
 <!ENTITY button.importOPML.label "Importo">
 <!ENTITY button.importOPML.accesskey   "I">
 <!ENTITY button.exportOPML.label "Eksporto">
-<!ENTITY button.exportOPML.accesskey   "X">
+<!ENTITY button.exportOPML.accesskey   "E">
 
 <!ENTITY cmd.close.commandKey             "w">

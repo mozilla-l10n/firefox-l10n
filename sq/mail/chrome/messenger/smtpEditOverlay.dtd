@@ -1,18 +1,18 @@
 <!ENTITY settings.caption "Rregullime">
 <!ENTITY security.caption "Siguri dhe Mirëfilltësim">
 <!ENTITY serverName.label "Emër Shërbyesi:">
-<!ENTITY serverName.accesskey "S">
+<!ENTITY serverName.accesskey "E">
 <!ENTITY serverDescription.label "Përshkrim:">
-<!ENTITY serverDescription.accesskey "D">
+<!ENTITY serverDescription.accesskey "P">
 <!ENTITY serverPort.label "Portë:">
-<!ENTITY serverPort.accesskey "P">
-<!ENTITY alwaysUseUsername.label "Përdor emër dhe fjalëkalim">
+<!ENTITY serverPort.accesskey "O">
+<!ENTITY alwaysUseUsername.label "Përdor emër përdoruesi dhe fjalëkalim">
 <!ENTITY alwaysUseUsername.accesskey "U">
 <!ENTITY userName.label "Emër Përdoruesi:">
 <!ENTITY userName.accesskey "m">
 <!ENTITY isSecure.label "Përdor lidhje të sigurt:">
 <!ENTITY neverSecure.label "Jo">
-<!ENTITY neverSecure.accesskey "N">
+<!ENTITY neverSecure.accesskey "J">
 <!ENTITY sometimesSTARTTLS.label "STARTTLS, në pastë">
 <!ENTITY sometimesSTARTTLS.accesskey "a">
 <!ENTITY alwaysSTARTTLS.label "STARTTLS">

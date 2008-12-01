@@ -42,10 +42,10 @@
 <!ENTITY numRowsEditField.label "Rreshta:">
 <!ENTITY numRowsEditField.accessKey "R">
 <!ENTITY numColumnsEditField.label "Shtylla:">
-<!ENTITY numColumnsEditField.accessKey "C">
+<!ENTITY numColumnsEditField.accessKey "S">
 <!ENTITY widthEditField.label "Gjerësi:">
-<!ENTITY widthEditField.accessKey "W">
+<!ENTITY widthEditField.accessKey "G">
 <!ENTITY borderEditField.label "Anë:">
-<!ENTITY borderEditField.accessKey "B">
+<!ENTITY borderEditField.accessKey "A">
 <!ENTITY borderEditField.tooltip "Shkruani një numër për anën e tabelës, ose shkruani zero (0) për pa anë">
 <!ENTITY pixels.label "piksela">

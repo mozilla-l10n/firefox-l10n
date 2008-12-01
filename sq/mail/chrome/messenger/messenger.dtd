@@ -305,25 +305,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY startPageCmd.accesskey "F">
 <!ENTITY msgMenu.label "Mesazh">
 <!ENTITY msgMenu.accesskey "M">
-<!ENTITY newMsgCmd.label "Mesazh I ri">
+<!ENTITY newMsgCmd.label "Mesazh i Ri">
 <!ENTITY newMsgCmd.accesskey "R">
-<!ENTITY newNewMsgCmd.label "Përgjigjju">
+<!ENTITY newNewMsgCmd.label "Përgjigju">
 <!ENTITY newNewMsgCmd.accesskey "P">
-<!ENTITY replyMsgCmd.label "Përgjigjju">
+<!ENTITY replyMsgCmd.label "Përgjigju">
 <!ENTITY replyMsgCmd.accesskey "P">
 <!ENTITY replyMsgCmd.key  "r">
-<!ENTITY replySenderCmd.label "Përgjigjju Vetëm Dërguesit">
+<!ENTITY replySenderCmd.label "Përgjigju Vetëm Dërguesit">
 <!ENTITY replySenderCmd.accesskey "D">
 <!ENTITY replyNewsgroupCmd.label "Përgjigju te Grupi i Lajmeve">
 <!ENTITY replyNewsgroupCmd.accesskey  "G">
-<!ENTITY replyToAllMsgCmd.label "Përgjigjju të Tërëve">
-<!ENTITY replyToAllMsgCmd.accesskey  "t">
+<!ENTITY replyToAllMsgCmd.label "Përgjigju të Tërëve">
+<!ENTITY replyToAllMsgCmd.accesskey  "T">
 <!ENTITY replyToAllMsgCmd.key  "r">
 <!ENTITY forwardMsgCmd.label "Përcille">
-<!ENTITY forwardMsgCmd.accesskey "F">
+<!ENTITY forwardMsgCmd.accesskey "c">
 <!ENTITY forwardMsgCmd.key  "l">
 <!ENTITY forwardAsMenu.label "Përcille Si">
-<!ENTITY forwardAsMenu.accesskey "c">
+<!ENTITY forwardAsMenu.accesskey "i">
 <!ENTITY forwardAsInline.label "Inline">
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Bashkangjitje">
@@ -431,7 +431,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.label "Merr Postën">
 <!ENTITY newMsgButton.label "Shkruani">
 <!ENTITY replyButton.label "Përgjigju">
-<!ENTITY replyAllButton.label "Përgjigjju Të tërëve">
+<!ENTITY replyAllButton.label "Përgjigju të Tërëve">
 <!ENTITY forwardButton.label "Përcille">
 <!ENTITY fileButton.label "Kartelë">
 <!ENTITY nextButton.label "Pasuesi">
@@ -460,8 +460,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getAllNewMsgCmd.accesskey "M">
 <!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "Krijoni mesazh të ri">
-<!ENTITY replyButton.tooltip "Përgjigjju mesazhit">
-<!ENTITY replyAllButton.tooltip "Përgjigjju dërguesit dhe tërë marrësve">
+<!ENTITY replyButton.tooltip "Përgjigju mesazhit">
+<!ENTITY replyAllButton.tooltip "Përgjigju dërguesit dhe tërë marrësve">
 <!ENTITY forwardButton.tooltip "Përcill mesazhet e përzgjedhur">
 <!ENTITY fileButton.tooltip "Skedoje mesazhin e përzgjedhur">
 
@@ -587,15 +587,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewTab.accesskey "S">
 <!ENTITY contextEditAsNew.label "Përpunojeni Si Të Ri…">
 <!ENTITY contextEditAsNew.accesskey "P">
-<!ENTITY contextReplySender.label "Përgjigjju Vetëm Dërguesit">
+<!ENTITY contextReplySender.label "Përgjigju Vetëm Dërguesit">
 <!ENTITY contextReplySender.accesskey "G">
 <!ENTITY contextReplyNewsgroup.label "Përgjigju te Grupi i Lajmeve">
 <!ENTITY contextReplyNewsgroup.accesskey "l">
-<!ENTITY contextReplyAll.label "Përgjigjju të Tërëve">
+<!ENTITY contextReplyAll.label "Përgjigju të Tërëve">
 <!ENTITY contextReplyAll.accesskey "T">
 <!ENTITY contextForward.label "Përcille">
 <!ENTITY contextForward.accesskey "c">
-<!ENTITY contextForwardAsAttachment.label "Përcill si Bashkangjitje">
+<!ENTITY contextForwardAsAttachment.label "Përcille si Bashkangjitje">
 <!ENTITY contextForwardAsAttachment.accesskey "b">
 <!ENTITY contextMoveMsgMenu.label "Shpjere Te">
 <!ENTITY contextMoveMsgMenu.accesskey "J">
@@ -640,7 +640,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SendMailTo.accesskey "H">
 <!ENTITY CopyEmailAddress.label "Kopjo Vendndodhje Email">
 <!ENTITY CopyEmailAddress.accesskey "K">
-<!ENTITY CreateFilterFrom.label "Krijo Filtër Prej…">
+<!ENTITY CreateFilterFrom.label "Krijoni Filtër Prej…">
 <!ENTITY CreateFilterFrom.accesskey "F">
 <!ENTITY reportPhishingURL.label "Njoftoni për Email Mashtrues">
 <!ENTITY reportPhishingURL.accesskey "n">

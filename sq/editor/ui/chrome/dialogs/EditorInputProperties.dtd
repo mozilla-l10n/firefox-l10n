@@ -16,15 +16,15 @@
 
 <!ENTITY InputSettings.label "Rregullime Fushe">
 <!ENTITY InputName.label "Emër Fushe:">
-<!ENTITY InputName.accesskey "E">
+<!ENTITY InputName.accesskey "F">
 <!ENTITY GroupName.label "Emër Grupi:">
-<!ENTITY GroupName.accesskey "E">
+<!ENTITY GroupName.accesskey "G">
 <!ENTITY InputValue.label "Vlerë Fushe:">
-<!ENTITY InputValue.accesskey "V">
+<!ENTITY InputValue.accesskey "u">
 <!ENTITY InitialValue.label "Vlerë Fillestare:">
-<!ENTITY InitialValue.accesskey "V">
+<!ENTITY InitialValue.accesskey "i">
 <!ENTITY InputChecked.label "Me Shenjë Paraprakisht">
-<!ENTITY InputChecked.accesskey "S">
+<!ENTITY InputChecked.accesskey "M">
 <!ENTITY InputSelected.label "Përzgjedhur Paraprakisht">
 <!ENTITY InputSelected.accesskey "P">
 <!ENTITY InputReadOnly.label "Vetëm Lexim">
@@ -43,4 +43,4 @@
 <!ENTITY Accept.accesskey "P">
 
 <!ENTITY ImageProperties.label "Veti Pamjeje…">
-<!ENTITY ImageProperties.accesskey "E">
+<!ENTITY ImageProperties.accesskey "V">

@@ -3,7 +3,7 @@
 <!ENTITY copyAndFolderTitle.label "Kopje &amp; Dosje">
 <!ENTITY sendingPrefix.label "Kur dërgohen mesazhe, automatikisht: ">
 <!ENTITY fccMailFolder.label "Vendos një kopje në:">
-<!ENTITY fccMailFolder.accesskey "P">
+<!ENTITY fccMailFolder.accesskey "V">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Bcc për këto vendndodhje email:">
 <!ENTITY bccAddress.accesskey "B">
@@ -11,9 +11,9 @@
 <!ENTITY saveMessageDlg.accesskey "S">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "Dosje &quot;Të dërguar&quot; në:">
-<!ENTITY sentFolderOn.accesskey "e">
+<!ENTITY sentFolderOn.accesskey "d">
 <!ENTITY sentInOtherFolder.label "Tjetër:">
-<!ENTITY sentInOtherFolder.accesskey "O">
+<!ENTITY sentInOtherFolder.accesskey "t">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Dosje &quot;Skicash&quot; në:">
 <!ENTITY draftsFolderOn.accesskey "D">
@@ -21,11 +21,11 @@
 <!ENTITY draftInOtherFolder.accesskey "t">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "Dosje &quot;Gjedhesh&quot; në:">
-<!ENTITY templatesFolderOn.accesskey "m">
+<!ENTITY templatesFolderOn.accesskey "d">
 <!ENTITY templateInOtherFolder.label "Tjetër:">
-<!ENTITY templateInOtherFolder.accesskey "r">
+<!ENTITY templateInOtherFolder.accesskey "t">
 <!ENTITY specialFoldersTitle.label "Skica dhe Gjedhe">
 <!ENTITY keepDrafts.label "Mbaj skica mesazhesh në:">
 <!ENTITY keepTempltes.label "Mbaj gjedhe mesazhesh në:">
-<!ENTITY fccReplyFollowsParent.label "Vendos përgjigje te dosja e mesazhit të cilit po i përgjigjesh">
-<!ENTITY fccReplyFollowsParent.accesskey "l">
+<!ENTITY fccReplyFollowsParent.label "Vendose përgjigjen te dosja e mesazhit të cilit po i përgjigjesh">
+<!ENTITY fccReplyFollowsParent.accesskey "V">

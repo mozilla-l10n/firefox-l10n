@@ -4,7 +4,7 @@
 <!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "Gërma për:">
-<!ENTITY  language.accesskey                      "t">
+<!ENTITY  language.accesskey                      "g">
 
 
 <!ENTITY  sizes.label                             "Madhësi (piksela)">
@@ -48,25 +48,25 @@
 
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Madhësi gërmash më e vogël:">
-<!ENTITY minSize.accesskey                        "z">
+<!ENTITY minSize.accesskey                        "v">
 <!ENTITY minSize.none                             "Asnjë">
 
 <!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 <!ENTITY  useDocumentFonts.label                  "Lejoju mesazheve të përdorin gërma të tjera">
-<!ENTITY  useDocumentFonts.accesskey              "o">
+<!ENTITY  useDocumentFonts.accesskey              "l">
 <!ENTITY  proportionalSize.accesskey              "e">
 <!ENTITY  monospaceSize.accesskey                 "x">
  
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Postë Ikëse:">
-<!ENTITY sendDefaultCharset.accesskey     "u">
+<!ENTITY sendDefaultCharset.accesskey     "i">
 <!ENTITY languagesTitle1.label				    "Kodim Gërmash">
 <!ENTITY composingDescription.label       "Caktoni kodim parazgjedhje gërmash për dërgim dhe marrje poste">
 
 <!ENTITY viewDefaultCharsetList.label     "Postë Ardhëse:">
-<!ENTITY viewDefaultCharsetList.accesskey	"I">
+<!ENTITY viewDefaultCharsetList.accesskey	"a">
 
 <!ENTITY replyInDefaultCharset2.label     "Kur mundet, përdor në përgjigje kodim parazgjedhje gërmash">
-<!ENTITY replyInDefaultCharset2.accesskey "g">
+<!ENTITY replyInDefaultCharset2.accesskey "k">

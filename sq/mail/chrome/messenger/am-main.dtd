@@ -2,32 +2,32 @@
 
 <!ENTITY accountTitle.label "Rregullime Llogarie">
 <!ENTITY accountName.label "Emër Llogarie:">
-<!ENTITY accountName.accesskey "N">
+<!ENTITY accountName.accesskey "L">
 <!ENTITY identityTitle.label "Identitet Parazgjedhje">
 <!ENTITY identityDesc.label "Çdo llogari ka identitetin e vet, i cili përbëhet nga të dhënat që persona të tjerë shohin kur lexojnë mesazhet tuaj.">
 <!ENTITY name.label "Emri Juaj:">
-<!ENTITY name.accesskey "Y">
+<!ENTITY name.accesskey "J">
 <!ENTITY email.label "Vendndodhje Email:">
-<!ENTITY email.accesskey "E">
-<!ENTITY replyTo.label "Vendndodhje për Përgjigjju:">
-<!ENTITY replyTo.accesskey "s">
+<!ENTITY email.accesskey "V">
+<!ENTITY replyTo.label "Vendndodhje për Përgjigju:">
+<!ENTITY replyTo.accesskey "n">
 <!ENTITY organization.label "Organizëm:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "Bashkangjit këtë nënshkrim:">
-<!ENTITY signature.accesskey "t">
+<!ENTITY signature.label "Bashkangjiti këtë nënshkrim:">
+<!ENTITY signature.accesskey "B">
 <!ENTITY edit.label "Përpunoni…">
 <!ENTITY choose.label "Zgjidhni…">
-<!ENTITY choose.accesskey "C">
+<!ENTITY choose.accesskey "Z">
 <!ENTITY editVCard.label "Përpunoni Kartë…">
-<!ENTITY editVCard.accesskey "d">
+<!ENTITY editVCard.accesskey "p">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 <!ENTITY attachVCard.label "Bashkangjitu mesazheve vCard-in tim">
-<!ENTITY attachVCard.accesskey "v">
+<!ENTITY attachVCard.accesskey "b">
 
-<!ENTITY manageIdentities.label "Administro Identitete…">
-<!ENTITY manageIdentities.accesskey "M">
+<!ENTITY manageIdentities.label "Administroni Identitete…">
+<!ENTITY manageIdentities.accesskey "A">
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
-<!ENTITY smtpName.label "Shërbyesi (SMTP) Dërgues:">
-<!ENTITY smtpName.accesskey "u">
+<!ENTITY smtpName.label "Shërbyesi Dërgues (SMTP):">
+<!ENTITY smtpName.accesskey "s">
 <!ENTITY smtpDefaultServer.label "Përdor Shërbyesin Parazgjedhje">

@@ -103,7 +103,7 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "S">
 <!ENTITY spellCheckAddToDictionary.label "Shtoje në Fjalor">
 <!ENTITY spellCheckAddToDictionary.accesskey "t">
-<!ENTITY createLinkCmd.label "Krijo Lidhje…">
+<!ENTITY createLinkCmd.label "Krijoni Lidhje…">
 <!ENTITY createLinkCmd.accesskey "k">
 <!ENTITY editLinkCmd.label "Përpunojeni Lidhjen në Hartues të Ri">
 <!ENTITY editLinkCmd.accesskey "P">

@@ -38,21 +38,21 @@
 
 <!ENTITY Select.label "Listë Përzgjedhjesh">
 <!ENTITY SelectName.label "Emër Liste:">
-<!ENTITY SelectName.accesskey "N">
+<!ENTITY SelectName.accesskey "E">
 <!ENTITY SelectSize.label "Lartësi:">
-<!ENTITY SelectSize.accesskey "H">
+<!ENTITY SelectSize.accesskey "L">
 <!ENTITY SelectMultiple.label "Përzgjedhje e Shumëfishtë">
-<!ENTITY SelectMultiple.accesskey "M">
+<!ENTITY SelectMultiple.accesskey "P">
 <!ENTITY SelectDisabled.label "Çaktivizuar">
-<!ENTITY SelectDisabled.accesskey "D">
+<!ENTITY SelectDisabled.accesskey "Ç">
 <!ENTITY SelectTabIndex.label "Tregues Tab:">
-<!ENTITY SelectTabIndex.accesskey "I">
+<!ENTITY SelectTabIndex.accesskey "T">
 
 <!ENTITY OptGroup.label "Grup Mundësish">
 <!ENTITY OptGroupLabel.label "Etiketë:">
-<!ENTITY OptGroupLabel.accesskey "L">
+<!ENTITY OptGroupLabel.accesskey "E">
 <!ENTITY OptGroupDisabled.label "Çaktivizuar">
-<!ENTITY OptGroupDisabled.accesskey "D">
+<!ENTITY OptGroupDisabled.accesskey "Ç">
 
 <!ENTITY Option.label "Mundësi">
 <!ENTITY OptionText.label "Tekst:">
@@ -60,21 +60,21 @@
 <!ENTITY OptionValue.label "Vlerë:">
 <!ENTITY OptionValue.accesskey "V">
 <!ENTITY OptionSelected.label "Përzgjedhur Paraprakisht">
-<!ENTITY OptionSelected.accesskey "S">
+<!ENTITY OptionSelected.accesskey "P">
 <!ENTITY OptionDisabled.label "Çaktivizuar">
-<!ENTITY OptionDisabled.accesskey "D">
+<!ENTITY OptionDisabled.accesskey "Ç">
 
 <!ENTITY TextHeader.label "Tekst">
 <!ENTITY ValueHeader.label "Vlerë">
 <!ENTITY SelectedHeader.label "Përzgjedhur">
 
 <!ENTITY AddOption.label "Shto Mundësi">
-<!ENTITY AddOption.accesskey "O">
+<!ENTITY AddOption.accesskey "M">
 <!ENTITY AddOptGroup.label "Shto Grup">
 <!ENTITY AddOptGroup.accesskey "G">
 <!ENTITY RemoveElement.label "Hiq">
-<!ENTITY RemoveElement.accesskey "R">
+<!ENTITY RemoveElement.accesskey "H">
 <!ENTITY MoveElementUp.label "Ngrije">
-<!ENTITY MoveElementUp.accesskey "U">
+<!ENTITY MoveElementUp.accesskey "N">
 <!ENTITY MoveElementDown.label "Ule">
-<!ENTITY MoveElementDown.accesskey "D">
+<!ENTITY MoveElementDown.accesskey "U">

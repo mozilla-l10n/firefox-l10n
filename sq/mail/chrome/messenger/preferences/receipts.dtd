@@ -1,22 +1,22 @@
 <!ENTITY dialog.title                  "Kthim Faturash">
 <!ENTITY requestReceipt.label          "Kur dërgohen mesazhe, kërko përherë një faturë kthimi">
-<!ENTITY requestReceipt.accesskey      "W">
+<!ENTITY requestReceipt.accesskey      "K">
 <!ENTITY receiptArrive.label           "Kur mbërrin një faturë:">
 <!ENTITY leaveIt.label                 "Lëre te Të marrët e mij">
-<!ENTITY leaveIt.accesskey             "i">
+<!ENTITY leaveIt.accesskey             "L">
 <!ENTITY moveToSent.label              "Shpjere te dosja ime &quot;Të dërguar&quot;">
-<!ENTITY moveToSent.accesskey          "m">
+<!ENTITY moveToSent.accesskey          "S">
 <!ENTITY requestMDN.label              "Kur marr një kërkesë për faturë kthimi:">
 <!ENTITY never.label                   "Mos dërgo kurrë faturë kthimi">
-<!ENTITY never.accesskey               "n">
+<!ENTITY never.accesskey               "m">
 <!ENTITY returnSome.label              "Lejo fatura kthimi për disa mesazhe">
-<!ENTITY returnSome.accesskey          "r">
+<!ENTITY returnSome.accesskey          "e">
 <!ENTITY notInToCc.label               "Nëse nuk jam te Për ose Cc e mesazhit:">
-<!ENTITY notInToCc.accesskey           "f">
+<!ENTITY notInToCc.accesskey           "c">
 <!ENTITY outsideDomain.label           "Nëse dërguesi është jashtë përkatësisë sime:">
-<!ENTITY outsideDomain.accesskey       "t">
+<!ENTITY outsideDomain.accesskey       "j">
 <!ENTITY otherCases.label              "Në tërë rastet e tjerë:">
-<!ENTITY otherCases.accesskey          "a">
+<!ENTITY otherCases.accesskey          "t">
 <!ENTITY askMe.label                   "Pyetmë">
 <!ENTITY alwaysSend.label              "Dërgo përherë">
 <!ENTITY neverSend.label               "Kurrë mos dërgo">

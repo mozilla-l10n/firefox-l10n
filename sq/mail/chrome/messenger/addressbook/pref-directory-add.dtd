@@ -1,32 +1,32 @@
 
 <!ENTITY newDirectoryTitle.label           "Veti Shërbyesi Drejtorish">
 <!ENTITY directoryName.label               "Emër: ">
-<!ENTITY directoryName.accesskey           "n">
-<!ENTITY directoryHostname.label           "Strehëemër: ">
-<!ENTITY directoryHostname.accesskey       "o">
+<!ENTITY directoryName.accesskey           "e">
+<!ENTITY directoryHostname.label           "Emërstrehë: ">
+<!ENTITY directoryHostname.accesskey       "s">
 <!ENTITY directoryBaseDN.label             "DN Bazë: ">
 <!ENTITY directoryBaseDN.accesskey         "b">
 <!ENTITY findButton.label                  "Gjej">
-<!ENTITY findButton.accesskey              "f">
+<!ENTITY findButton.accesskey              "g">
 <!ENTITY directorySecure.label             "Përdor lidhje të sigurt (SSL)">
-<!ENTITY directorySecure.accesskey         "U">
-<!ENTITY directoryLogin.label              "Bind DN: ">
-<!ENTITY directoryLogin.accesskey          "i">
+<!ENTITY directorySecure.accesskey         "p">
+<!ENTITY directoryLogin.label              "DN Lidhme: ">
+<!ENTITY directoryLogin.accesskey          "d">
 <!ENTITY General.tab                       "Të përgjithshme">
 <!ENTITY Offline.tab                       "I palidhur">
 <!ENTITY Advanced.tab                      "Të mëtejshëm">
 <!ENTITY portNumber.label                  "Numër porte: ">
-<!ENTITY portNumber.accesskey              "p">
+<!ENTITY portNumber.accesskey              "n">
 <!ENTITY searchFilter.label                "Filtër kërkimi: ">
 <!ENTITY searchFilter.accesskey            "f">
 <!ENTITY scope.label                       "Objektiv: ">
-<!ENTITY scope.accesskey                   "c">
+<!ENTITY scope.accesskey                   "o">
 <!ENTITY scopeOneLevel.label               "Një Nivel">
-<!ENTITY scopeOneLevel.accesskey           "L">
+<!ENTITY scopeOneLevel.accesskey           "v">
 <!ENTITY scopeSubtree.label                "Nënpemë">
-<!ENTITY scopeSubtree.accesskey            "S">
+<!ENTITY scopeSubtree.accesskey            "n">
 <!ENTITY return.label                      "Mos kthe më shumë se">
-<!ENTITY return.accesskey                  "r">
+<!ENTITY return.accesskey                  "m">
 <!ENTITY results.label                     "përfundime">
 <!ENTITY offlineText.label                 "Mund të shkarkoni një kopje vendore të kësaj drejtorie që mund ta përdorni kur jeni të palidhur.">
 

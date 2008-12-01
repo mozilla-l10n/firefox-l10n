@@ -13,7 +13,7 @@
 <!ENTITY formattingToolbarCmd.label "Panel Formatimi">
 <!ENTITY formattingToolbarCmd.accesskey "F">
 <!ENTITY editmodeToolbarCmd.label "Panel Mënyre Përpunimi">
-<!ENTITY editmodeToolbarCmd.accesskey "P">
+<!ENTITY editmodeToolbarCmd.accesskey "M">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formatoni">

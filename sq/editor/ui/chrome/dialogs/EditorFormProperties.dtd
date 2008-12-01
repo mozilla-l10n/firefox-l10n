@@ -39,15 +39,15 @@
 <!ENTITY Settings.label "Rregullime">
 
 <!ENTITY FormName.label "Emër Formulari:">
-<!ENTITY FormName.accesskey "N">
+<!ENTITY FormName.accesskey "E">
 <!ENTITY FormAction.label "URL veprimi:">
-<!ENTITY FormAction.accesskey "A">
+<!ENTITY FormAction.accesskey "U">
 <!ENTITY FormMethod.label "Metodë:">
 <!ENTITY FormMethod.accesskey "M">
 <!ENTITY FormEncType.label "Kodim:">
-<!ENTITY FormEncType.accesskey "c">
+<!ENTITY FormEncType.accesskey "K">
 <!ENTITY FormTarget.label "Korniza e Synuar:">
-<!ENTITY FormTarget.accesskey "T">
+<!ENTITY FormTarget.accesskey "S">
 
 <!ENTITY RemoveForm.label "Hiq Formular">
-<!ENTITY RemoveForm.accesskey "R">
+<!ENTITY RemoveForm.accesskey "H">

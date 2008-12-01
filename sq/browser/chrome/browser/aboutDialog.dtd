@@ -3,8 +3,8 @@
 <!ENTITY aboutLink.accesskey    "V">
 <!ENTITY aboutVersion "version">
 <!ENTITY copyrightGNOME.accesskey   "r">
-<!ENTITY copyright "Kredite">
-<!ENTITY copyright.accesskey    "K">
+<!ENTITY copyright "Pjesëmarrës:">
+<!ENTITY copyright.accesskey    "P">
 <!ENTITY copyrightInfo          "&#169;1998-2008 Pjesëmarrësit. Tërë të Drejtat të Rezervuara. Firefox-i dhe shenjat e  
                                  Firefox-it janë shenja tregtare të Fondacionit Mozilla.  Tërë të drejtat 
                                  të rezervuara.">

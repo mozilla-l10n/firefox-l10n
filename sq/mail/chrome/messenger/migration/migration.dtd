@@ -5,7 +5,7 @@
 <!ENTITY importFromNonWin.label           "Importo Parapëlqime, Rregullime Llogarish, Libër Vendndodhjesh, Filtra dhe të tjera të dhëna prej:">
 
 <!ENTITY importFromNothing.label        "Mos importo gjë">
-<!ENTITY importFromNothing.accesskey    "D">
+<!ENTITY importFromNothing.accesskey    "M">
 <!ENTITY importFromSeamonkey.label      "Netscape 6, 7 ose Mozilla 1.x">
 <!ENTITY importFromSeamonkey.accesskey  "N">
 <!ENTITY importFromNetscape4.label      "Netscape 4.x">

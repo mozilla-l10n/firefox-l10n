@@ -13,4 +13,4 @@
 <!ENTITY fieldMapImport.fieldListTitle "Fusha Libri Vendndodhjesh">
 <!ENTITY fieldMapImport.dataTitle "Të dhëna regjistrimi për t&apos;u importuar">
 <!ENTITY fieldMapImport.skipFirstRecord.label "Regjistrimi i parë përmban emra fushe">
-<!ENTITY fieldMapImport.skipFirstRecord.accessKey "g">
+<!ENTITY fieldMapImport.skipFirstRecord.accessKey "R">

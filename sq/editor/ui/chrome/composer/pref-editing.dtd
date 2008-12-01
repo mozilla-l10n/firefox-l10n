@@ -1,7 +1,7 @@
 <!ENTITY  pref.editing.title        "Rregullime Faqeje të Re">
 
 <!ENTITY  authorName.label          "Autor:">
-<!ENTITY  authorName.accesskey      "u">
+<!ENTITY  authorName.accesskey      "A">
 <!ENTITY  pageColorHeader           "Dukje Parazgjedhje e Faqes">
 
 <!ENTITY defaultColors.label        "Ngjyrë parazgjedhje e lexuesit (Mos cakto ngjyra në faqe)">
@@ -15,15 +15,15 @@
 <!ENTITY linkText.label             "Tekst lidhjeje">
 <!ENTITY linkText.accesskey         "L">
 <!ENTITY activeLinkText.label       "Tekst lidhjeje vepruese">
-<!ENTITY activeLinkText.accesskey   "A">
+<!ENTITY activeLinkText.accesskey   "v">
 <!ENTITY visitedLinkText.label      "Tekst lidhjeje të vizituar">
-<!ENTITY visitedLinkText.accesskey  "V">
+<!ENTITY visitedLinkText.accesskey  "z">
 <!ENTITY background.label           "Sfond:">
-<!ENTITY background.accesskey       "B">
+<!ENTITY background.accesskey       "S">
 <!ENTITY colon.character            ":">
 
 <!ENTITY backgroundImage.label      "Pamje sfondi:">
-<!ENTITY backgroundImage.accesskey  "m">
+<!ENTITY backgroundImage.accesskey  "P">
 <!ENTITY chooseFile.label           "Zgjidhni Kartelë…">
-<!ENTITY chooseFile.accesskey       "o">
+<!ENTITY chooseFile.accesskey       "Z">
 

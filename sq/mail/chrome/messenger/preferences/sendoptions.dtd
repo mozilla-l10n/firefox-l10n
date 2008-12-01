@@ -1,14 +1,12 @@
-<!ENTITY AddPlainText.accesskey       "A">
-
 <!ENTITY dialog.title                 "Mundësi Dërgimi">
 <!ENTITY sendMail.title               "Format Teksti">
 <!ENTITY sendMaildesc.label           "Kur dërgohen mesazhe në format HTML dhe një a më shumë nga marrësit nuk janë të listuar te ata që munden të marrin HTML:">
 <!ENTITY askMe.label                  "Pyetmë ç&apos;të bëj">
-<!ENTITY askMe.accesskey              "k">
+<!ENTITY askMe.accesskey              "p">
 <!ENTITY convertPlain.label           "Shndërro mesazhin në tekst të thjeshtë">
-<!ENTITY convertPlain.accesskey       "c">
+<!ENTITY convertPlain.accesskey       "s">
 <!ENTITY sendHTML.label               "Dërgo mesazhin në HTML sido qoftë">
-<!ENTITY sendHTML.accesskey           "s">
+<!ENTITY sendHTML.accesskey           "d">
 <!ENTITY sendBoth.label               "Dërgo mesazhin si tekst të thjeshtë dhe si HTML">
 <!ENTITY sendBoth.accesskey           "e">
 <!ENTITY override.label               "Shënim: Përdorni Librin e Vendndodhjeve për të treguar formate të parapëlqyer teksti për marrësa.">
@@ -17,17 +15,21 @@
 <!ENTITY HTMLTab.label                "Përkatësi HTML">
 <!ENTITY HTMLTab.accesskey            "h">
 <!ENTITY PlainTextTab.label           "Përkatësi Tekst i Thjeshtë">
-<!ENTITY PlainTextTab.accesskey       "p">
+<!ENTITY PlainTextTab.accesskey       "t">
 <!ENTITY AddHtmlDomain.label          "Shto…">
 <!ENTITY AddHtmlDomain.accesskey      "s">
 <!ENTITY AddPlainText.label           "Shto…">
 <!ENTITY AddPlainText.accesskey       "t">
 <!ENTITY DeleteHtmlDomain.label       "Fshije">
-<!ENTITY DeleteHtmlDomain.accesskey   "l">
-<!ENTITY DeletePlainText.accesskey    "t">
+<!ENTITY DeleteHtmlDomain.accesskey   "f">
+<!ENTITY DeletePlainText.accesskey    "f">
 <!ENTITY DeletePlainText.label        "Fshije">
 
 <!ENTITY add.htmltitle                "Shto Emër Përkatësie HTML">
 <!ENTITY add.htmldomain               "Emër Përkatësie HTML:">
 <!ENTITY add.plaintexttitle           "Shto Emër Përkatësie Tekst i Thjeshtë">
 <!ENTITY add.plaintextdomain          "Emër Përkatësie Tekst i Thjeshtë:">
+
+
+
+

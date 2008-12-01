@@ -2,22 +2,22 @@
 
 <!ENTITY replaceDialog.title "Gjej dhe Zëvendëso">
 <!ENTITY findField.label "Gjej tekst:">
-<!ENTITY findField.accesskey "n">
-<!ENTITY replaceField.label "Zëvendëso me:">
-<!ENTITY replaceField.accesskey "e">
+<!ENTITY findField.accesskey "g">
+<!ENTITY replaceField.label "Zëvendësoje me:">
+<!ENTITY replaceField.accesskey "m">
 <!ENTITY caseSensitiveCheckbox.label "Saktësisht siç është shkruajtur">
-<!ENTITY caseSensitiveCheckbox.accesskey "c">
+<!ENTITY caseSensitiveCheckbox.accesskey "s">
 <!ENTITY wrapCheckbox.label "Mbështille përreth">
-<!ENTITY wrapCheckbox.accesskey "W">
+<!ENTITY wrapCheckbox.accesskey "m">
 <!ENTITY backwardsCheckbox.label "Kërko mbrapsht">
 <!ENTITY backwardsCheckbox.accesskey "b">
 <!ENTITY findNextButton.label "Gjej Pasuesen">
-<!ENTITY findNextButton.accesskey "F">
+<!ENTITY findNextButton.accesskey "p">
 <!ENTITY replaceButton.label "Zëvendësoje">
-<!ENTITY replaceButton.accesskey "R">
+<!ENTITY replaceButton.accesskey "Z">
 <!ENTITY replaceAndFindButton.label "Zëvendëso dhe Gjej">
 <!ENTITY replaceAndFindButton.accesskey "d">
-<!ENTITY replaceAllButton.label "Zëvendëso të Tëra">
-<!ENTITY replaceAllButton.accesskey "A">
+<!ENTITY replaceAllButton.label "Zëvendësoji të Tëra">
+<!ENTITY replaceAllButton.accesskey "t">
 <!ENTITY closeButton.label "Mbylle">
 

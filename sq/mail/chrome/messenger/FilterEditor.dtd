@@ -17,8 +17,8 @@
 <!ENTITY contextIncoming.label "Kontrollohet për Postë">
 <!ENTITY contextManual.label "Xhirohet Dorazi">
 <!ENTITY contextBoth.label "Kontrollohet për Postë or Xhirohet Dorazi">
-<!ENTITY filterActionDesc.label "Përmbush këto veprime:">
-<!ENTITY filterActionDesc.accesskey "P">
+<!ENTITY filterActionDesc.label "Kryeji këto veprime:">
+<!ENTITY filterActionDesc.accesskey "K">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Kaloje Mesazhin te">

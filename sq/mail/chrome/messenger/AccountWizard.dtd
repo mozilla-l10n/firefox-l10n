@@ -12,7 +12,7 @@
 <!ENTITY accountTypeMail.label "Llogari email">
 <!ENTITY accountTypeMail.accesskey "e">
 <!ENTITY accountTypeNews.label "Llogari Grupi Lajmesh">
-<!ENTITY accountTypeNews.accesskey "w">
+<!ENTITY accountTypeNews.accesskey "g">
 
 <!-- Entities for Identity page -->
 
@@ -27,10 +27,10 @@
 -->
 <!ENTITY fullnameExample.label "(për shembull, &quot;Gjon Shpella&quot;).">
 <!ENTITY fullnameLabel.label "Emri Juaj:">
-<!ENTITY fullnameLabel.accesskey "J">
+<!ENTITY fullnameLabel.accesskey "E">
 
 <!ENTITY emailLabel.label "Vendndodhje Email:">
-<!ENTITY emailLabel.accesskey "E">
+<!ENTITY emailLabel.accesskey "V">
 
 
 <!-- Entities for Server page -->
@@ -40,7 +40,7 @@
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServerNameDesc.label "Jepni emrin e shërbyesit tuaj për postë ardhëse (për shembull, &quot;pop.example.net&quot;).">
 <!ENTITY incomingServerLabel.label "Shërbyes për Ardhësen:">
-<!ENTITY incomingServerLabel.accesskey "S">
+<!ENTITY incomingServerLabel.accesskey "A">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Jepni emrin e shërbyesit tuaj të lajmeve (NNTP) (për shembull, &quot;news.example.net&quot;).">
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
@@ -48,7 +48,7 @@
 <!ENTITY smtpServerLabel.label "Shërbyes Dërgues:">
 <!ENTITY smtpServerLabel.accesskey "D">
 <!ENTITY newsServerLabel.label "Shërbyes Grupi Lajmesh:">
-<!ENTITY newsServerLabel.accesskey "N">
+<!ENTITY newsServerLabel.accesskey "G">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -74,10 +74,10 @@
 <!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY usernameExample.label "(për shembull, &quot;jsmith&quot;).">
 <!ENTITY usernameLabel.label "Emër Përdoruesi Marrës:">
-<!ENTITY usernameLabel.accesskey "I">
+<!ENTITY usernameLabel.accesskey "M">
 <!ENTITY usernameSmtpDesc.label "Jepni emër përdoruesi dërgues dhënë për ju nga mundësuesi email (ky është zakonisht i njëjtë me emrin tuaj marrës të përdoruesit).">
 <!ENTITY usernameSmtpLabel.label "Emër Përdoruesi Dërgues:">
-<!ENTITY usernameSmtpLabel.accesskey "O">
+<!ENTITY usernameSmtpLabel.accesskey "D">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
@@ -97,12 +97,12 @@
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Jepni emrin me të cilin do të donit t&apos;i referoheni kësaj llogarie (për shembull, &quot;Llogari Pune&quot;, &quot;Llogari Shtëpie&quot; ose &quot;Llogari Lajmesh&quot;).">
 <!ENTITY accnameLabel.label "Emër Llogarie:">
-<!ENTITY accnameLabel.accesskey "L">
+<!ENTITY accnameLabel.accesskey "E">
 
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Përgëzime!">
-<!ENTITY completionText.label "Jul lutemmi sigurohuni që të dhënat e mëposhtme janë të sakta.">
+<!ENTITY completionText.label "Jul lutemi sigurohuni që të dhënat e mëposhtme janë të sakta.">
 <!ENTITY serverTypePrefix.label "Lloj Shërbyesi Marrës:">
 <!ENTITY serverNamePrefix.label "Emër Shërbyesi Marrës:">
 <!ENTITY smtpServerNamePrefix.label "Emër Shërbyesi Dërgues (SMTP):">

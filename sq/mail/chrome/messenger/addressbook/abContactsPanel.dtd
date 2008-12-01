@@ -11,7 +11,7 @@
 <!ENTITY addtoBccFieldMenu.label            "Shto te fusha Bcc">
 
 <!ENTITY toButton.label                     "Shto te Për:">
-<!ENTITY toButton.accesskey                 "A">
+<!ENTITY toButton.accesskey                 "P">
 <!ENTITY ccButton.label                     "Shto te Cc:">
 <!ENTITY ccButton.accesskey                 "c">
 <!ENTITY bccButton.label                    "Shto te Bcc:">

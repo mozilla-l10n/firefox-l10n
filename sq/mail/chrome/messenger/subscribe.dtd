@@ -15,4 +15,4 @@
 <!-- commenting out until bug 38906 is fixed 
 <!ENTITY messagesHeader.label         "Mesazhe"> -->
 <!ENTITY namefield.label              "Shfaq elementë që përmbajnë:">
-<!ENTITY namefield.accesskey          "q">
+<!ENTITY namefield.accesskey          "S">

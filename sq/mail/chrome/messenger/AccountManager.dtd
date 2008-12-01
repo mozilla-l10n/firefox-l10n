@@ -2,12 +2,12 @@
 
 <!ENTITY accountManagerTitle.label "Rregullime Llogarie">
 
-<!ENTITY addAccountButton.label "Shto Llogari…">
-<!ENTITY addAccountButton.accesskey "A">
+<!ENTITY addAccountButton.label "Shtoni Llogari…">
+<!ENTITY addAccountButton.accesskey "S">
 <!ENTITY setDefaultButton.label "Vëre si Parazgjedhje">
-<!ENTITY setDefaultButton.accesskey "f">
-<!ENTITY removeButton.label "Hiq Llogari">
-<!ENTITY removeButton.accesskey "R">
+<!ENTITY setDefaultButton.accesskey "V">
+<!ENTITY removeButton.label "Hiqni Llogari">
+<!ENTITY removeButton.accesskey "H">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account

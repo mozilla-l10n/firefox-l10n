@@ -4,18 +4,18 @@
 <!ENTITY  whenDownloading.label               "Kur shkarkohen kartela si kjo:">
 
 <!ENTITY  openDefault.label                   "Hapi me zbatimin parazgjedhje:">
-<!ENTITY  openDefault.accesskey               "O">
+<!ENTITY  openDefault.accesskey               "p">
 <!ENTITY  openApplication.label               "Hapi me këtë zbatim:">
-<!ENTITY  openApplication.accesskey           "e">
+<!ENTITY  openApplication.accesskey           "k">
 <!ENTITY  changeApp.label                     "Shfletoni…">
-<!ENTITY  changeApp.accesskey                 "B">
+<!ENTITY  changeApp.accesskey                 "S">
 <!ENTITY  saveToDisk.label                    "Ruaji në kompjuterin tim">
-<!ENTITY  saveToDisk.accesskey                "S">
+<!ENTITY  saveToDisk.accesskey                "R">
 <!ENTITY  saveToDefaultFolder.label           "te dosja  parazgjedhje e shkarkimeve">
 <!ENTITY  saveToDefaultFolder.accesskey       "d">
 <!ENTITY  saveToThisFolder.label              "në këtë dosje:">
-<!ENTITY  saveToThisFolder.accesskey          "h">
+<!ENTITY  saveToThisFolder.accesskey          "n">
 <!ENTITY  chooseFolder.label                  "Shfletoni…">
-<!ENTITY  chooseFolder.accesskey              "w">
+<!ENTITY  chooseFolder.accesskey              "S">
 <!ENTITY  saveToAskMe.label                   "pyetmë ku të ruash kartelën">
-<!ENTITY  saveToAskMe.accesskey               "a">
+<!ENTITY  saveToAskMe.accesskey               "y">

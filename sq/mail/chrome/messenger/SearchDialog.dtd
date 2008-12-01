@@ -21,7 +21,7 @@
 <!ENTITY fileButton.accesskey        "K">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY goToFolderButton.label      "Hap Dosje Mesazhesh">
-<!ENTITY goToFolderButton.accesskey  "D">
+<!ENTITY goToFolderButton.accesskey  "H">
 <!ENTITY saveAsVFButton.label        "Ruaje si Dosje Kërkimi">
 <!ENTITY saveAsVFButton.accesskey    "R">
 

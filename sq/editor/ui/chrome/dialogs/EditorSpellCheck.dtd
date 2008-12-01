@@ -40,32 +40,32 @@
 
 <!ENTITY misspelledWord.label "Fjalë e keqshkruajtuara:">
 <!ENTITY wordEditField.label "Zëvendëso me:">
-<!ENTITY wordEditField.accessKey "w">
+<!ENTITY wordEditField.accessKey "m">
 <!ENTITY checkwordButton.label "Kontrollo Fjalë">
 <!ENTITY checkwordButton.accessKey "k">
 <!ENTITY suggestions.label "Këshillime:">
-<!ENTITY suggestions.accessKey "u">
-<!ENTITY ignoreButton.label "Shpërfill">
-<!ENTITY ignoreButton.accessKey "I">
-<!ENTITY ignoreAllButton.label "Shpërfill Tërë">
-<!ENTITY ignoreAllButton.accessKey "n">
-<!ENTITY replaceButton.label "Zëvendëso">
-<!ENTITY replaceButton.accessKey "R">
-<!ENTITY replaceAllButton.label "Zëvendëso Tërë">
+<!ENTITY suggestions.accessKey "i">
+<!ENTITY ignoreButton.label "Shpërfille">
+<!ENTITY ignoreButton.accessKey "S">
+<!ENTITY ignoreAllButton.label "Shpërfilli të Tëra">
+<!ENTITY ignoreAllButton.accessKey "t">
+<!ENTITY replaceButton.label "Zëvendësoje">
+<!ENTITY replaceButton.accessKey "Z">
+<!ENTITY replaceAllButton.label "Zëvendësoji të Tëra">
 <!ENTITY replaceAllButton.accessKey "A">
 <!ENTITY stopButton.label "Ndal">
-<!ENTITY stopButton.accessKey "t">
+<!ENTITY stopButton.accessKey "n">
 <!ENTITY userDictionary.label "Fjalor Vetjak:">
-<!ENTITY moreDictionaries.label "Shkarko Më">
+<!ENTITY moreDictionaries.label "Shkarko Më Tepër">
 <!ENTITY addToUserDictionaryButton.label "Shto Fjalë">
-<!ENTITY addToUserDictionaryButton.accessKey "d">
+<!ENTITY addToUserDictionaryButton.accessKey "f">
 <!ENTITY editUserDictionaryButton.label "Përpunoni…">
-<!ENTITY editUserDictionaryButton.accessKey "E">
+<!ENTITY editUserDictionaryButton.accessKey "p">
 <!ENTITY recheckButton.label "Rikontrollo Faqe">
-<!ENTITY recheckButton.accessKey "P">
+<!ENTITY recheckButton.accessKey "r">
 <!ENTITY closeButton.label "Mbylle">
 <!ENTITY closeButton.accessKey "M">
-<!ENTITY sendButton.label "Dërgo">
-<!ENTITY sendButton.accessKey "S">
+<!ENTITY sendButton.label "Dërgoje">
+<!ENTITY sendButton.accessKey "D">
 <!ENTITY languagePopup.label "Gjuhë:">
-<!ENTITY languagePopup.accessKey "L">
+<!ENTITY languagePopup.accessKey "G">

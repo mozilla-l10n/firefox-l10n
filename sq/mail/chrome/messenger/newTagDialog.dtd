@@ -1,4 +1,4 @@
 <!-- New Tag Dialog -->
-<!ENTITY newTagDialog.title      "Krijo Shenjë të Re">
-<!ENTITY name.label              "Emër Shenje:">
-<!ENTITY name.accesskey          "T">
+<!ENTITY newTagDialog.title      "Krijoni Etiketë të Re">
+<!ENTITY name.label              "Emër Etikete:">
+<!ENTITY name.accesskey          "E">
