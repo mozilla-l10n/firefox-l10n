@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY newsBlogSubscriptions.label "RSS-prenumerationer">
+<!ENTITY subscriptionDesc.label "OBS! Att ta bort eller ändra mappen för en kanal påverkar inte tidigare hämtade artiklar.">
+<!ENTITY feedTitle.label "Titel:">
+<!ENTITY location.label  "Adress:">
+
+<!ENTITY button.addFeed.label       "Lägg till">
+<!ENTITY button.addFeed.accesskey   "L">
+<!ENTITY button.editFeed.label      "Redigera">
+<!ENTITY button.editFeed.accesskey  "e">
+<!ENTITY button.removeFeed.label "Ta bort">
+<!ENTITY button.removeFeed.accesskey   "T">
+<!ENTITY button.importOPML.label "Importera">
+<!ENTITY button.importOPML.accesskey   "I">
+<!ENTITY button.exportOPML.label "Exportera">
+<!ENTITY button.exportOPML.accesskey   "x">
+
+<!ENTITY cmd.close.commandKey             "w">

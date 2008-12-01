@@ -35,8 +35,5 @@
 <!ENTITY     removeallpermissions.label     "Ta bort alla">
 <!ENTITY     removeallpermissions.accesskey "a">
 
-<!ENTITY     canSet.label                   "får lagra kakor">
-<!ENTITY     cannotSet.label                "får inte lagra kakor">
-
 <!ENTITY     futureCookies.label            "Låt inte webbplatser vars kakor du har tagit bort lagra nya kakor">
 <!ENTITY     futureCookies.accesskey        "L">

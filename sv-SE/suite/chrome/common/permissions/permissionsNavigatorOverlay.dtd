@@ -34,9 +34,6 @@
 <!ENTITY cookieManagePopups.label                    "Hantera extrafönster">
 <!ENTITY cookieManagePopups.accesskey                "H">
 
-<!ENTITY cookieTutorialCmd.label "Personlig integritet">
-<!ENTITY cookieTutorialCmd.accesskey "p">
-
 <!ENTITY cookieCookieManager.label "Hantera kakor">
 <!ENTITY cookieCookieManager.accesskey "o">
 <!ENTITY cookieImageManager.label "Hantera bilder">

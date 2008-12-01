@@ -10,15 +10,11 @@
 <!ENTITY resetButton.accesskey       "R">
 <!ENTITY helpButton.label            "Hjälp">
 <!ENTITY helpButton.accesskey        "H">
-<!ENTITY optionsButton.label         "Alternativ">
-<!ENTITY closeButton.label           "Stäng">
 <!ENTITY openButton.label            "Öppna">
 <!ENTITY openButton.accesskey        "Ö">
 <!ENTITY deleteButton.label          "Ta bort">
 <!ENTITY deleteButton.accesskey      "b">
 <!ENTITY searchDialogTitle.label     "Sök efter meddelanden">
-<!ENTITY conditionDesc.label         "Sök efter meddelande som matchar:">
-<!ENTITY conditions.label            "Sökkriterier">
 <!ENTITY results.label               "Sökresultat">
 <!ENTITY fileHereMenu.label          "Arkivera här">
 <!ENTITY fileHereMenu.accesskey      "h">

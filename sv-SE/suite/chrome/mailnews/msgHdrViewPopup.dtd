@@ -45,8 +45,8 @@
 <!ENTITY CopyEmailAddress.accesskey        "K">
 <!ENTITY CreateFilterFrom.label            "Skapa filter från…">
 <!ENTITY CreateFilterFrom.accesskey        "f">
-<!ENTITY BlockAddress.label                "Blockera adress">
-<!ENTITY BlockAddress.accesskey            "B">
+<!ENTITY copyLinkCmd.label                 "Kopiera länkadressen">
+<!ENTITY copyLinkCmd.accesskey             "o">
 <!ENTITY CopyMessageId.label               "Kopiera meddelandeadressen">
 <!ENTITY OpenMessageForMsgId.label         "Öppna meddelandet på adressen">
 <!ENTITY OpenBrowserWithMsgId.label        "Öppna webbläsaren med meddelandeadressen">

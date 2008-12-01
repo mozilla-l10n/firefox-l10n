@@ -8,7 +8,6 @@
 <!ENTITY alwaysEncryptMessage.label "Erfordras (kan inte skickas såvida inte alla mottagare har certifikat)">
 <!ENTITY alwaysEncryptMessage.accesskey "f">
 <!ENTITY encryptionCert.message "Använd detta certifikat för att kryptera och dekryptera meddelanden till dig:">
-<!ENTITY encryptionCert.notselected "Du har inte valt något certifikat">
 <!ENTITY digitalSign.certificate.button "Välj…">
 <!ENTITY digitalSign.certificate.accesskey "V">
 <!ENTITY digitalSign.certificate_clear.button "Rensa">
@@ -21,4 +20,3 @@
 <!ENTITY signMessage.label "Signera meddelanden (som förval)">
 <!ENTITY signMessage.accesskey "S">
 <!ENTITY signingCert.message "Använd detta certifikat för att signera meddelanden du skickar:">
-<!ENTITY signingCert.notselected "Du har inte valt något certifikat">

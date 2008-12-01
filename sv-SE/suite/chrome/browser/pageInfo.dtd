@@ -72,7 +72,6 @@
 <!ENTITY  formAction            "Formuläråtgärd">
 <!ENTITY  formMethod            "Metod">
 <!ENTITY  formName              "Namn">
-<!ENTITY  formNo                "Nr.">
 <!ENTITY  formEncoding          "Kodning:">
 <!ENTITY  formTarget            "Mål:">
 <!ENTITY  formFields            "Fält:">

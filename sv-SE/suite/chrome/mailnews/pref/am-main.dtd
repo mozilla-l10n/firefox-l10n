@@ -2,7 +2,6 @@
 <!ENTITY accountTitle.label "Kontoinställningar">
 <!ENTITY accountName.label "Kontots namn:">
 <!ENTITY accountName.accesskey "K">
-<!ENTITY accountNameDesc.label "Kontonamnet används för att identifiera kontot">
 <!ENTITY identityTitle.label "Förinställd identitet">
 <!ENTITY identityDesc.label "Varje konto har en identitet, vilken är den information som visas för dem som läser dina meddelanden.">
 <!ENTITY name.label "Ditt namn:">
@@ -15,7 +14,6 @@
 <!ENTITY organization.accesskey "O">
 <!ENTITY signature.label "Infoga signatur:">
 <!ENTITY signature.accesskey "I">
-<!ENTITY edit.label "Redigera…">
 <!ENTITY choose.label "Välj…">
 <!ENTITY choose.accesskey "V">
 <!ENTITY editVCard.label "Redigera kort…">

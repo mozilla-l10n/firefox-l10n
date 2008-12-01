@@ -56,8 +56,6 @@
 <!ENTITY fontPlainText.label              "Teckensnitt:">
 <!ENTITY fontPlainText.accesskey          "c">
 <!ENTITY displayQuoted.label              "Inställningar för citerad text:">
-<!ENTITY readingMessagesHeader.label      "Inkommande meddelanden">
-<!ENTITY messageWrapping.label            "Radbrytning">
 <!ENTITY wrapInMsg.label                  "Radbryt text till fönsterbredd">
 <!ENTITY wrapInMsg.accesskey              "R">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->

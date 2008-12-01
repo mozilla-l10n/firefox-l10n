@@ -24,8 +24,6 @@
 <!ENTITY  cursive.label                           "Skript:">
 <!ENTITY  cursive.accesskey                       "k">
 
-<!ENTITY  fontsize.units                          "pixlar">
-
 <!ENTITY  font.langGroup.latin1                   "Västerländska språk">
 <!ENTITY  font.langGroup.latin2                   "Centraleuropeiska">
 <!ENTITY  font.langGroup.japanese                 "Japanska">
@@ -62,8 +60,6 @@
 <!ENTITY  useDefaultFontSerif.label               "Antikva">
 <!ENTITY  useDefaultFontSansSerif.label           "Sanserif">
 
-<!ENTITY  newLanguages.label                      "Nya språk kan konfigureras på språkpanelen.">
-
 <!ENTITY  useDocumentFonts.label                  "Tillåt dokument att använda andra teckensnitt">
 <!ENTITY  useDocumentFonts.accesskey              "l">
 
@@ -72,9 +68,3 @@
 <!ENTITY  header2                                 "Webbsidan innehåller egna teckensnitt">
 <!ENTITY  useDefaultFont.label                    "Använd mina förvalda teckensnitt istället för dokumentets">
 <!ENTITY  useDefaultFont.accesskey                "ä">
-<!-- LOCALIZATION NOTE (useDocFontNonDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
-<!ENTITY  useDocFontNonDynamic.label              "Använd dokumentets egna teckensnitt">
-<!ENTITY  useDocFontNonDynamic.accesskey          "d">
-<!-- LOCALIZATION NOTE (useDocFontDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
-<!ENTITY  useDocFontDynamic.label                 "Använd alla dokumentets egna teckensnitt">
-<!ENTITY  useDocFontDynamic.accesskey             "a">

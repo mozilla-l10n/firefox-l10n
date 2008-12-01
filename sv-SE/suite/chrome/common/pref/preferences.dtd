@@ -7,14 +7,10 @@
 <!ENTITY colors.label "Färger">
 <!ENTITY navigator.label "Webbläsare">
 <!ENTITY history.label "Historik">
-<!ENTITY bidi.label "Läsriktning">
 <!ENTITY languages.label "Språk">
 <!ENTITY applications.label "Hjälpprogram">
 <!ENTITY locationBar.label "Adressfält">
 <!ENTITY tabWindows.label "Flikar">
-<!ENTITY compose.label "Composer">
-<!ENTITY editing.label "Ny sida">
-<!ENTITY publish.label "Publicera">
 <!ENTITY offline.label "Nedkopplat läge">
 <!ENTITY security.label "Integritet och säkerhet">
 <!ENTITY cookies.label "Kakor">

@@ -14,6 +14,10 @@
 <!ENTITY contextSendThisLink.accesskey   "n">
 <!ENTITY contextSendImage.label          "Skicka bild…">
 <!ENTITY contextSendImage.accesskey      "c">
+<!ENTITY contextSendVideo.label          "Skicka video…">
+<!ENTITY contextSendVideo.accesskey      "c">
+<!ENTITY contextSendAudio.label          "Skicka audio…">
+<!ENTITY contextSendAudio.accesskey      "c">
 <!ENTITY contextSendFrame.label          "Skicka ram…">
 <!ENTITY contextSendFrame.accesskey      "c">
 

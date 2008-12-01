@@ -17,7 +17,6 @@
 <!ENTITY composingMessages.label "Skriva meddelanden">
 <!ENTITY format.label "Skicka i format">
 <!ENTITY return.label "Mottagningskvitton">
-<!ENTITY disk.label "Diskutrymme">
 <!ENTITY junk.label                       "Skräppost">
 <!ENTITY tags.label                       "Etiketter">
 <!ENTITY characterEncoding.label          "Teckenkodning">

@@ -2,13 +2,6 @@
 
 <!ENTITY securitySettings.label "Säkerhetsinställningar">
 <!ENTITY serverSettings.label "Serverinställningar">
-<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
-<!ENTITY popServer.label "Server för e-post (POP)">
-<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
-<!ENTITY imapServer.label "Server för e-post (IMAP)">
-<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
-<!ENTITY newsServer.label "Server för grupper (NNTP)">
-<!ENTITY webmail.label "Webbpostkonto">
 <!ENTITY serverType.label "Servertyp:">
 <!ENTITY serverName.label "Server:">
 <!ENTITY serverName.accesskey "e">
@@ -50,10 +43,7 @@
 <!ENTITY deleteOnServer2.accesskey "j">
 <!ENTITY downloadOnBiff.label "Hämta ny e-post automatiskt">
 <!ENTITY downloadOnBiff.accesskey "y">
-<!ENTITY hostname.label "Värdserverns namn">
 <!ENTITY username.label "Ditt inloggningsnamn">
-<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
-<!ENTITY popServerTitle.label "Information om POP-servern">
 <!ENTITY deleteMessagePrefix.label "När jag tar bort ett meddelande:">
 <!ENTITY modelMoveToTrash.label "Flytta det till papperskorgen">
 <!ENTITY modelMoveToTrash.accesskey "F">

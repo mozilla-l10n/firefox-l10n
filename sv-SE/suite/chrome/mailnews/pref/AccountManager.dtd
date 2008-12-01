@@ -5,11 +5,8 @@
 <!ENTITY addAccountButton.accesskey "L">
 <!ENTITY setDefaultButton.label "Gör till förvalt">
 <!ENTITY setDefaultButton.accesskey "G">
-<!ENTITY duplicateButton.label "Duplikat">
 <!ENTITY removeButton.label "Ta bort konto">
 <!ENTITY removeButton.accesskey "T">
-
-<!ENTITY duplicate.label "Duplicera">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account

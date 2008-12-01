@@ -37,7 +37,6 @@
 <!ENTITY pasteCmd.key						"V">  
 <!ENTITY pasteCmd.accesskey					"l">
 <!ENTITY deleteCmd.label					"Ta bort">  
-<!ENTITY deleteCmd.key						"D">  
 <!ENTITY deleteCmd.accesskey				"T">
 <!ENTITY selectAllCmd.label					"Markera allt">
 <!ENTITY selectAllCmd.key					"a">
@@ -86,6 +85,21 @@
 <!ENTITY bidiSwitchTextDirectionItem.label        "Växla textriktning">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "x">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
+<!ENTITY customizeToolbar.toolbarmode.label       "Inställningar för detta verktygsfält">
+<!ENTITY customizeToolbar.toolbarmode.accesskey   "t">
+<!ENTITY customizeToolbar.iconsAndText.label      "Ikoner och text">
+<!ENTITY customizeToolbar.iconsAndText.accesskey  "o">
+<!ENTITY customizeToolbar.icons.label             "Ikoner">
+<!ENTITY customizeToolbar.icons.accesskey         "I">
+<!ENTITY customizeToolbar.text.label              "Text">
+<!ENTITY customizeToolbar.text.accesskey          "T">
+<!ENTITY customizeToolbar.useSmallIcons.label     "Använd små ikoner">
+<!ENTITY customizeToolbar.useSmallIcons.accesskey "s">
+<!ENTITY customizeToolbar.labelAlignEnd.label     "Visa text bredvid ikon">
+<!ENTITY customizeToolbar.labelAlignEnd.accesskey "b">
+<!ENTITY customizeToolbar.useDefault.label        "Använd förvalda inställningar">
+<!ENTITY customizeToolbar.useDefault.accesskey    "g">
 
 <!-- Popup Blocked notification menu -->
 <!ENTITY allowPopups.accesskey        "e">
