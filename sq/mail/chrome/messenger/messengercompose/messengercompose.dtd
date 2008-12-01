@@ -95,7 +95,7 @@
 <!ENTITY showFormattingBarCmd.label "Panel Formatimi">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Shtyllë Gjendje">
-<!ENTITY showTaskbarCmd.accesskey "S"
+<!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY customizeToolbar.label "Përshtateni…">
 <!ENTITY customizeToolbar.accesskey "t">
 
