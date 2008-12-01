@@ -1,17 +1,17 @@
 <!ENTITY sanitizePrefs.title "Bánaigh Sonraí Príobháideacha">
-<!ENTITY sanitizeDialog2.title "Clear Recent History">
+<!ENTITY sanitizeDialog2.title "Glan an Stair Is Déanaí">
 
 <!ENTITY sanitizeItems.label "Bánaigh na míreanna seo a leanas anois:">
 <!ENTITY clearDataSettings2.label "When I quit &brandShortName;, it should automatically clear all:">
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
 
-<!ENTITY clearDuration.label "Remove ">
-<!ENTITY clearDuration.lastHour "the last hour">
-<!ENTITY clearDuration.last2Hours "the last 2 hours">
-<!ENTITY clearDuration.last4Hours "the last 4 hours">
-<!ENTITY clearDuration.today "my history for today">
-<!ENTITY clearDuration.everything "my entire history">
+<!ENTITY clearDuration.label "Bain ">
+<!ENTITY clearDuration.lastHour "an uair is déanaí">
+<!ENTITY clearDuration.last2Hours "an dá uair is déanaí">
+<!ENTITY clearDuration.last4Hours "na 4 huaire is déanaí">
+<!ENTITY clearDuration.today "mo stair inniu">
+<!ENTITY clearDuration.everything "mo stair iomlán">
 <!-- Localization note (clearDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearDuration.suffix "">
@@ -19,8 +19,8 @@ that require it.  -->
 <!ENTITY historySection.label "Stair">
 <!ENTITY dataSection.label "Sonraí">
 
-<!ENTITY itemVisitedPages.label "Visited Pages">
-<!ENTITY itemVisitedPages.accesskey "V">
+<!ENTITY itemVisitedPages.label "Leathanaigh ar tugadh cuairt orthu">
+<!ENTITY itemVisitedPages.accesskey "L">
 <!ENTITY itemFormSearchEntries.label "Form &amp; Search Entries">
 <!ENTITY itemFormSearchEntries.accesskey "F">
 <!ENTITY itemPasswords.label "Focail Fhaire a sábháladh">
@@ -37,4 +37,4 @@ that require it.  -->
 <!ENTITY itemActiveLogins.accesskey "L">
 
 <!ENTITY window.width "30em">
-<!ENTITY column.width "14em">
+<!ENTITY column.width "16em">

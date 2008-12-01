@@ -73,8 +73,8 @@
 
 <!ENTITY cmd.delete.label "Scrios an Leathanach Seo">
 <!ENTITY cmd.delete.accesskey "S">
-<!ENTITY cmd.deleteDomainData.label "Forget About This Site">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
+<!ENTITY cmd.deleteDomainData.label "Déan Dearmad ar an Suíomh Seo">
+<!ENTITY cmd.deleteDomainData.accesskey "D">
 
 <!ENTITY cmd.open.label "Oscail">
 <!ENTITY cmd.open.accesskey "O">
