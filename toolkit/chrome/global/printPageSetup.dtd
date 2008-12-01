@@ -7,17 +7,22 @@
 <!ENTITY formatGroup.label   "Format">
 
 <!ENTITY orientation.label   "Ausrichtung:">
-<!ENTITY portrait            "Hochformat">
-<!ENTITY landscape           "Querformat">
+<!ENTITY portrait.label      "Hochformat">
+<!ENTITY portrait.accesskey  "H">
+<!ENTITY landscape.label     "Querformat">
+<!ENTITY landscape.accesskey "Q">
 
 <!ENTITY scale.label         "Skalierung:">
+<!ENTITY scale.accesskey     "S">
 <!ENTITY scalePercent        "&#037;">
 
 <!ENTITY shrinkToFit.label   "Auf Seitengröße verkleinern">
+<!ENTITY shrinkToFit.accesskey "v">
 
 <!ENTITY optionsGroup.label  "Optionen">
 
 <!ENTITY printBG.label       "Hintergrund drucken (Farben und Bilder)">
+<!ENTITY printBG.accesskey   "g">
 
 <!ENTITY advanced.tab        "Ränder &amp; Kopf-/Fußzeilen">
 
@@ -25,9 +30,13 @@
 <!ENTITY marginUnits.inches  "Zoll">
 <!ENTITY marginUnits.metric  "Millimeter">
 <!ENTITY marginTop.label     "Oben:">
+<!ENTITY marginTop.accesskey "O">
 <!ENTITY marginBottom.label  "Unten:">
+<!ENTITY marginBottom.accesskey "U">
 <!ENTITY marginLeft.label    "Links:">
+<!ENTITY marginLeft.accesskey "L">
 <!ENTITY marginRight.label   "Rechts:">
+<!ENTITY marginRight.accesskey "R">
 
 <!ENTITY headerFooter.label  "Kopf- &amp; Fußzeilen">
 
