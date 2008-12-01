@@ -4,9 +4,8 @@
 <!ENTITY accountName.accesskey "N">
 <!ENTITY messageStorage.label "Boodskapbewaring">
 <!ENTITY emptyTrashOnExit.label "Maak snippermandjie leeg tydens afsluiting">
-<!ENTITY emptyTrashOnExit.accesskey "f">
-<!ENTITY localPath.label "Plaaslike gids:">
-<!ENTITY localPath.accesskey "P">
+<!ENTITY emptyTrashOnExit.accesskey "a">
+<!ENTITY localPath.label "Local directory:">
 <!ENTITY localFolderPicker.label "Kies plaaslike gids">
-<!ENTITY browseFolder.label "Blaai...">
+<!ENTITY browseFolder.label "Browse…">
 <!ENTITY browseFolder.accesskey "B">

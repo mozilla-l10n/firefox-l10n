@@ -43,7 +43,7 @@
 <!ENTITY EditLegendText.accesskey "E">
 <!ENTITY LegendAlign.label "Rig legende:">
 <!ENTITY LegendAlign.accesskey "R">
-<!ENTITY AlignDefault.label "Verstet">
+<!ENTITY AlignDefault.label "Verstek">
 <!ENTITY AlignLeft.label "Links">
 <!ENTITY AlignCenter.label "Sentreer">
 <!ENTITY AlignRight.label "Regs">

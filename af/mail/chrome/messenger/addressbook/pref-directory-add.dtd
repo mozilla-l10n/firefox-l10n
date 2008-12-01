@@ -48,18 +48,15 @@
 <!ENTITY directorySecure.accesskey "G">
 <!ENTITY directoryLogin.label "Bind-DN: ">
 <!ENTITY directoryLogin.accesskey "i">
-<!ENTITY advancedOptionsButton.label "Gevorderde opsies">
-<!ENTITY advancedOptionsButton.accesskey "g">
 <!ENTITY General.tab "Algemeen">
 <!ENTITY Offline.tab "Aflyn">
 <!ENTITY Advanced.tab "Gevorderd">
-<!ENTITY advancedOptionsTitle.label "Gevorderde opsies">
 <!ENTITY portNumber.label "Poortnommer: ">
 <!ENTITY portNumber.accesskey "p">
 <!ENTITY searchFilter.label "Soek-filter: ">
 <!ENTITY searchFilter.accesskey "f">
-<!ENTITY scope.label "Skopus: ">
-<!ENTITY scope.accesskey "k">
+<!ENTITY scope.label "Omvang: ">
+<!ENTITY scope.accesskey "m">
 <!ENTITY scopeOneLevel.label "Een vlak">
 <!ENTITY scopeOneLevel.accesskey "V">
 <!ENTITY scopeSubtree.label "Subboom">
@@ -67,7 +64,7 @@
 <!ENTITY return.label "Moenie meer as">
 <!ENTITY return.accesskey "m">
 <!ENTITY results.label "resultate oplewer nie">
-<!ENTITY offlineText.label "Jy kan hierdie gids aflaai sodat dit beskikbaar is wanneer jy aflyn werk.">
+<!ENTITY offlineText.label "U kan hierdie gids aflaai sodat dit beskikbaar is wanneer u aflyn werk.">
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.

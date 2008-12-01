@@ -1,9 +1,7 @@
 <!ENTITY credit.title "&brandFullName;-krediete">
 <!ENTITY brandMotto "Thunderbirds is daar!">
-<!ENTITY credit.leads "Ingenieurswenke">
-<!ENTITY credit.core "Kernontwikkelinggroep">
-<!ENTITY credit.gecko "Gecko-uitlegmasjien">
-<!ENTITY credit.thanks "Besondere dank aan">
+<!ENTITY credit.leads "Ingenieursleiers">
+<!ENTITY credit.thanks "Spesiale dank aan">
 <!-- localization credits look like this: -->
 <!--
 <!ENTITY credit.translation
@@ -12,19 +10,8 @@
 
 <!ENTITY credit.translation "<h3>Vertalers</h3><ul><li>Translate.org.za</li><li>Samuel Murray</li></ul>">
 
-<!ENTITY credit.visuals "Visuele ontwerp koördineerder">
 <!ENTITY credit.theme "Temaontwerp">
-<!ENTITY credit.brand "Handelsmerkidentiteit">
-<!ENTITY credit.web "Webontwerp">
-<!ENTITY credit.update "Mozilla-bywerking">
-<!ENTITY credit.qalead "Gehalteversekering-leier">
 <!ENTITY credit.qa "Gehalteversekering">
 <!ENTITY credit.build "Bou en vrystelling">
-<!ENTITY credit.infra "Infrastruktuur-ondersteuning">
-<!ENTITY credit.support "Ondersteuninghulpbronne">
-<!ENTITY credit.manage "Projekbestuur">
-<!ENTITY credit.marketleads "Bemarkingswenke">
-<!ENTITY credit.market "Bemarking">
-<!ENTITY credit.creators "Geskep deur">
-<!ENTITY credit.memory "Ter gedagtenis aan">
+<!ENTITY credit.memory "Ter nagedagtenis aan">
 <!ENTITY credit.poweredByGecko "Aangedryf deur Gecko&trade;">

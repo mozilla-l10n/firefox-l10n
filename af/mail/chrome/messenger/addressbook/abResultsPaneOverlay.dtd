@@ -66,15 +66,3 @@
 <!ENTITY sortAscending.accesskey "O">
 <!ENTITY sortDescending.label "Aflopend">
 <!ENTITY sortDescending.accesskey "F">
-<!-- context menu -->
-
-<!ENTITY composeEmail.label "Skryf e-pos aan">
-<!ENTITY composeEmail.accesskey "S">
-<!ENTITY deleteAddrBookCard.label "Skrap">
-<!ENTITY deleteAddrBookCard.accesskey "S">
-<!ENTITY newAddrBookCard.label "Nuwe kaart...">
-<!ENTITY newAddrBookCard.accesskey "N">
-<!ENTITY newAddrBookMailingList.label "Nuwe poslys...">
-<!ENTITY newAddrBookMailingList.accesskey "P">
-<!ENTITY addrBookCardProperties.label "Eienskappe">
-<!ENTITY addrBookCardProperties.accesskey "E">

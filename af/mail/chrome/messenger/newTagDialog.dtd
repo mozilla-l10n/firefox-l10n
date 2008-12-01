@@ -1,0 +1,4 @@
+<!-- New Tag Dialog -->
+<!ENTITY newTagDialog.title "Skep nuwe merker">
+<!ENTITY name.label "Merkernaam:">
+<!ENTITY name.accesskey "M">

@@ -35,12 +35,10 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY chooseAddressBook.label "Voeg by: ">
-<!ENTITY chooseAddressBook.accesskey "V">
-
 <!ENTITY Contact.tab "Kontak">
+<!ENTITY Contact.accesskey "C">
 <!ENTITY Name.box "Naam">
-<!-- LOCALIZATION NOTE: 
+<!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
  "FirstName" and "LastName" can be swapped for id to change the order
@@ -62,8 +60,8 @@
 <!ENTITY NameField1.accesskey "V">
 <!ENTITY NameField2.label "Van:">
 <!ENTITY NameField2.accesskey "V">
-<!ENTITY PhoneticField1.label "Phonetic:">
-<!ENTITY PhoneticField2.label "Phonetic:">
+<!ENTITY PhoneticField1.label "Foneties:">
+<!ENTITY PhoneticField2.label "Foneties:">
 <!ENTITY DisplayName.label "Vertoon:">
 <!ENTITY DisplayName.accesskey "V">
 <!ENTITY NickName.label "Bynaam:">
@@ -72,58 +70,89 @@
 <!ENTITY Internet.box "Internet">
 <!ENTITY PrimaryEmail.label "E-pos:">
 <!ENTITY PrimaryEmail.accesskey "E">
-<!ENTITY SecondEmail.label "Bykomende e-pos:">
-<!ENTITY SecondEmail.accesskey "b">
-<!ENTITY PreferMailFormat.label "Wil boodskappe ontvang in hierdie formaat:">
-<!ENTITY PreferMailFormat.accesskey "i">
+<!ENTITY SecondEmail.label "Additional Email:">
+<!ENTITY SecondEmail.accesskey "i">
+<!ENTITY PreferMailFormat.label "Prefers to receive messages formatted as:">
+<!ENTITY PreferMailFormat.accesskey "v">
 <!ENTITY PlainText.label "Skoonteks">
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Onbekend">
 <!ENTITY ScreenName.label "Skermnaam:">
 <!ENTITY ScreenName.accesskey "S">
 
-<!ENTITY Phones.box "Telefone">
-<!ENTITY WorkPhone.label "Werk:">
-<!ENTITY WorkPhone.accesskey "W">
-<!ENTITY HomePhone.label "Huis:">
-<!ENTITY HomePhone.accesskey "H">
+<!ENTITY allowRemoteContent.label "Allow remote images.">
+<!ENTITY allowRemoteContent.accesskey "r">
+<!ENTITY allowRemoteContent.tooltip "In HTML messages it is possible to
+embed images from remote sources. Opening such a message will open a
+connection to this external source. This may allow tracking of the
+message being read. Checking this box will allow such external embedded
+images in HTML messages from this contact.">
+
+<!ENTITY WorkPhone.label "Work:">
+<!ENTITY WorkPhone.accesskey "k">
+<!ENTITY HomePhone.label "Home:">
+<!ENTITY HomePhone.accesskey "o">
 <!ENTITY FaxNumber.label "Faks:">
 <!ENTITY FaxNumber.accesskey "a">
-<!ENTITY PagerNumber.label "Roeper:">
-<!ENTITY PagerNumber.accesskey "R">
+<!ENTITY PagerNumber.label "Pager:">
+<!ENTITY PagerNumber.accesskey "g">
 <!ENTITY CellularNumber.label "Selfoon:">
 <!ENTITY CellularNumber.accesskey "S">
 
-
-<!ENTITY Address.tab "Adres">
-<!ENTITY Home.box "Huis">
-<!ENTITY HomeAddress.label "Adres:">
+<!ENTITY Home.tab "Private">
+<!ENTITY Home.accesskey "P">
+<!ENTITY HomeAddress.label "Address:">
+<!ENTITY HomeAddress.accesskey "A">
 <!ENTITY HomeAddress2.label "">
+<!ENTITY HomeAddress2.accesskey "">
 <!ENTITY HomeCity.label "City:">
+<!ENTITY HomeCity.accesskey "y">
 <!ENTITY HomeState.label "State/Province:">
+<!ENTITY HomeState.accesskey "S">
 <!ENTITY HomeZipCode.label "ZIP/Postal Code:">
+<!ENTITY HomeZipCode.accesskey "Z">
 <!ENTITY HomeCountry.label "Country:">
+<!ENTITY HomeCountry.accesskey "u">
 <!ENTITY HomeWebPage.label "Web Page:">
-<!ENTITY Work.box "Werk">
-<!ENTITY JobTitle.label "Titel:">
-<!ENTITY Department.label "Afdeling:">
-<!ENTITY Company.label "Organisasie:">
-<!ENTITY WorkAddress.label "Adres:">
-<!ENTITY WorkAddress2.label "">
-<!ENTITY WorkCity.label "City:">
-<!ENTITY WorkState.label "State/Province:">
-<!ENTITY WorkZipCode.label "ZIP/Postal Code:">
-<!ENTITY WorkCountry.label "Country:">
-<!ENTITY WorkWebPage.label "Web Page:">
+<!ENTITY HomeWebPage.accesskey "e">
+<!ENTITY Birthday.label "Birthday:">
+<!ENTITY Birthday.accesskey "B">
+<!ENTITY Year.emptytext "Year">
+<!ENTITY Or.value "or">
+<!ENTITY Age.emptytext "Age">
 
+<!ENTITY Work.tab "Werk">
+<!ENTITY Work.accesskey "W">
+<!ENTITY JobTitle.label "Title:">
+<!ENTITY JobTitle.accesskey "i">
+<!ENTITY Department.label "Department:">
+<!ENTITY Department.accesskey "m">
+<!ENTITY Company.label "Organization:">
+<!ENTITY Company.accesskey "O">
+<!ENTITY WorkAddress.label "Address:">
+<!ENTITY WorkAddress.accesskey "A">
+<!ENTITY WorkAddress2.label "">
+<!ENTITY WorkAddress2.accesskey "">
+<!ENTITY WorkCity.label "City:">
+<!ENTITY WorkCity.accesskey "y">
+<!ENTITY WorkState.label "State/Province:">
+<!ENTITY WorkState.accesskey "S">
+<!ENTITY WorkZipCode.label "ZIP/Postal Code:">
+<!ENTITY WorkZipCode.accesskey "Z">
+<!ENTITY WorkCountry.label "Country:">
+<!ENTITY WorkCountry.accesskey "u">
+<!ENTITY WorkWebPage.label "Web Page:">
+<!ENTITY WorkWebPage.accesskey "e">
 
 <!ENTITY Other.tab "Ander">
-<!ENTITY Custom1.label "Pasmaak 1:">
+<!ENTITY Other.accesskey "h">
+<!ENTITY Custom1.label "Doelmaak 1:">
 <!ENTITY Custom1.accesskey "1">
-<!ENTITY Custom2.label "Pasmaak 2:">
+<!ENTITY Custom2.label "Doelmaak 2:">
 <!ENTITY Custom2.accesskey "2">
-<!ENTITY Custom3.label "Pasmaak 3:">
+<!ENTITY Custom3.label "Doelmaak 3:">
 <!ENTITY Custom3.accesskey "3">
-<!ENTITY Custom4.label "Pasmaak 4:">
+<!ENTITY Custom4.label "Doelmaak 4:">
 <!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.box "Aantekeninge">
+<!ENTITY Notes.label "Notes:">
+<!ENTITY Notes.accesskey "N">

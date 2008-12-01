@@ -1,25 +1,10 @@
 <!ENTITY window.title "Filterreëls">
-<!ENTITY subject.label "onderwerp">
-<!ENTITY sender.label "afsender">
-<!ENTITY date.label "datum">
-<!ENTITY anyText.label "enige teks">
-<!ENTITY keyword.label "sleutelwoord">
-<!ENTITY age.label "ouderdom in dae">
-<!ENTITY to.label "tot">
-<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
 
-<!ENTITY cc.label "Cc">
-
-<!ENTITY status.label "status">
-<!ENTITY priority.label "prioriteit">
-<!ENTITY body.label "lyf">
-<!ENTITY contains.label "bevat">
-<!ENTITY nocontains.label "bevat nie">
 <!ENTITY filterName.label "Filternaam:">
 <!ENTITY filterName.accesskey "l">
 
-<!ENTITY junk.label "Gemorspos">
-<!ENTITY notJunk.label "Nie gemorspos nie">
+<!ENTITY junk.label "Gemors">
+<!ENTITY notJunk.label "Nie gemors nie">
 
 <!ENTITY lowestPriorityCmd.label "Laagste">
 <!ENTITY lowPriorityCmd.label "Laag">
@@ -27,12 +12,13 @@
 <!ENTITY highPriorityCmd.label "Hoog">
 <!ENTITY highestPriorityCmd.label "Hoogste">
 
-<!ENTITY conditionDesc.label "Vir inkomende boodskappe wat:">
+<!ENTITY contextDesc.label "Apply filter when:">
+<!ENTITY contextDesc.accesskey "w">
+<!ENTITY contextIncoming.label "Checking Mail">
+<!ENTITY contextManual.label "Manually Run">
+<!ENTITY contextBoth.label "Checking Mail or Manually Run">
 <!ENTITY filterActionDesc.label "Doen hierdie aksies:">
 <!ENTITY filterActionDesc.accesskey "D">
-
-<!ENTITY newFolderButton.label "Nuwe vouer...">
-<!ENTITY newFolderButton.accesskey "N">
 <!-- New Style Filter Rule Actions -->
 
 <!ENTITY moveMessage.label "Verskuif boodskap na">
@@ -40,13 +26,14 @@
 <!ENTITY forwardTo.label "Stuur boodskap aan na">
 <!ENTITY replyWithTemplate.label "Antwoord met sjabloon">
 <!ENTITY markMessageRead.label "Merk as gelees">
-<!ENTITY markMessageFlagged.label "Merk as gevlag">
-<!ENTITY labelMessage.label "Etiketteer boodskap as">
+<!ENTITY markMessageStarred.label "Voeg vlag by">
 <!ENTITY setPriority.label "Stel prioriteit op as">
+<!ENTITY addTag.label "Merk boodskap aan">
 <!ENTITY setJunkScore.label "Stel gemorsstatus op as">
 <!ENTITY deleteMessage.label "Skrap boodskap">
 <!ENTITY deleteFromPOP.label "Skrap van POP-bediener">
 <!ENTITY fetchFromPOP.label "Haal van POP-bediener">
 <!ENTITY ignoreThread.label "Ignoreer draad">
+<!ENTITY ignoreSubthread.label "Ignore Subthread">
 <!ENTITY watchThread.label "Hou draad dop">
-
+<!ENTITY stopExecution.label "Stop Filter Execution">

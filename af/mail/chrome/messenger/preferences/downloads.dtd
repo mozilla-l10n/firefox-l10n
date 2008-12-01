@@ -3,22 +3,13 @@
 <!ENTITY alwaysAsk.accesskey "V">
 <!ENTITY neverAsk.label "Stoor alle aanhegsels in hierdie vouer:">
 <!ENTITY neverAsk.accesskey "S">
-<!ENTITY desktop.label "Werkskerm">
-<!ENTITY downloads.label "My aflaaie">
-<!ENTITY chooseFolderWin.label "Blaai...">
+<!ENTITY chooseFolderWin.label "Browse…">
 <!ENTITY chooseFolderWin.accesskey "B">
-<!ENTITY chooseFolderMac.label "Kies...">
-<!ENTITY chooseFolderMac.accesskey "K">
+<!ENTITY chooseFolderMac.label "Choose…">
+<!ENTITY chooseFolderMac.accesskey "C">
 
 
 <!ENTITY fileTypes.label "Aflaaiaksies">
-<!ENTITY configureActions.label "Bekyk en redigeer aksies...">
-<!ENTITY configureActions.accesskey "B">
-<!ENTITY fileTypesDescription.label "&brandShortName; kan aanhegsels van sekere soorte outomaties stoor op open.">
-
-<!ENTITY fileTypeColName.label "Lêersoort">
-<!ENTITY fileHandlerColName.label "Toepassing">
-<!ENTITY editFileHandler.label "Wysig Aksie...">
-<!ENTITY editFileHandler.accesskey "a">
-<!ENTITY removeFileHandler.label "Verwyder">
-<!ENTITY removeFileHandler.accesskey "v">
+<!ENTITY configureActions.label "View &amp; Edit Actions…">
+<!ENTITY configureActions.accesskey "V">
+<!ENTITY fileTypesDescription.label "&brandShortName; kan aanhegsels van sekere soorte outomaties stoor wanneer geopen word.">

@@ -1,13 +1,12 @@
 <!ENTITY dialog.title "Antwoordstrokies">
-<!ENTITY receiptSettings.label "Antwoordstrokies">
-<!ENTITY requestReceipt.label "Vra altyd 'n antwoordstrokie aan wanneer ek boodskappe stuur">
-<!ENTITY requestReceipt.accesskey "V">
-<!ENTITY receiptArrive.label "Wanneer 'n strokie arriveer:">
-<!ENTITY leaveIt.label "Laat dit in my inkassie">
+<!ENTITY requestReceipt.label "Wanneer boodskappe gestuur word, vra altyd 'n antwoordstrokie aan">
+<!ENTITY requestReceipt.accesskey "W">
+<!ENTITY receiptArrive.label "Wanneer 'n strokie aankom:">
+<!ENTITY leaveIt.label "Los dit in my inmandjie">
 <!ENTITY leaveIt.accesskey "i">
 <!ENTITY moveToSent.label "Verskuif dit na my &quot;Gestuur&quot;-vouer">
 <!ENTITY moveToSent.accesskey "v">
-<!ENTITY requestMDN.label "Wanneer ek 'n versoek om 'n antwoordstrokie ontvang:">
+<!ENTITY requestMDN.label "Wanneer ek 'n versoek om antwoordstrokie ontvang:">
 <!ENTITY never.label "Moet nooit 'n antwoordstrokie stuur nie">
 <!ENTITY never.accesskey "m">
 <!ENTITY returnSome.label "Laat antwoordstrokies toe vir sekere boodskappe">

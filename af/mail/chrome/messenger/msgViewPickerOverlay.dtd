@@ -2,6 +2,17 @@
 
 <!ENTITY viewPicker.label "Bekyk:">
 <!ENTITY viewPicker.accesskey "e">
-<!ENTITY viewPickerCustomView.label "Pasmaak...">
-<!ENTITY viewPickerAll.label "Almal">
-<!ENTITY viewPickerUnread.label "Ongelees">
+<!ENTITY viewAll.label "Almal">
+<!ENTITY viewAll.accesskey "A">
+<!ENTITY viewUnread.label "Ongelees">
+<!ENTITY viewUnread.accesskey "O">
+<!ENTITY viewNotDeleted.label "Not Deleted">
+<!ENTITY viewNotDeleted.accesskey "D">
+<!ENTITY viewTags.label "Merkers">
+<!ENTITY viewTags.accesskey "M">
+<!ENTITY viewCustomViews.label "Doelmaak aansigte">
+<!ENTITY viewCustomViews.accesskey "A">
+<!ENTITY viewVirtualFolder.label "Save View as a Folder…">
+<!ENTITY viewVirtualFolder.accesskey "S">
+<!ENTITY viewCustomizeView.label "Customize…">
+<!ENTITY viewCustomizeView.accesskey "C">

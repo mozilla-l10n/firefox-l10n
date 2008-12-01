@@ -44,7 +44,7 @@
 <!ENTITY link.label "Kliekkol-skakel">
 <!ENTITY urlFieldset.label "Kliekkol-URL:">
 <!ENTITY altFieldset.label "Kliekkol-Alt-teks:">
-<!ENTITY browseButton.label "Blaai...">
+<!ENTITY browseButton.label "Browse…">
 <!ENTITY targetFieldset.label "Doelopstelling">
 <!ENTITY target.label "Kliekkol-teiken">
 <!-- Targets -->

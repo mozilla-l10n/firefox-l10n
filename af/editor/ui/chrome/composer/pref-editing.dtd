@@ -1,12 +1,12 @@
 <!ENTITY pref.editing.title "Nuwebladsy-opstelling">
 
-<!ENTITY authorName.label "Outer:">
+<!ENTITY authorName.label "Outeur:">
 <!ENTITY authorName.accesskey "u">
 <!ENTITY pageColorHeader "Verstek-bladsyvoorkoms">
 
-<!ENTITY defaultColorsRadio.label "Leser se verstek-kleure (moenie kleure in die bladsy opstel nie)">
+<!ENTITY defaultColors.label "Reader's default colors (Don't set colors in page)">
 <!ENTITY defaultColors.accesskey "d">
-<!ENTITY customColorsRadio.label "Gebruik pasgemaakte kleure:">
+<!ENTITY customColors.label "Use custom colors:">
 <!ENTITY customColors.accesskey "c">
 
 <!ENTITY normalText.label "Gewone teks">
@@ -23,6 +23,6 @@
 
 <!ENTITY backgroundImage.label "Agtergrondprent:">
 <!ENTITY backgroundImage.accesskey "p">
-<!ENTITY chooseFile.label "Kies lêer...">
-<!ENTITY chooseFile.accesskey "s">
+<!ENTITY chooseFile.label "Choose File…">
+<!ENTITY chooseFile.accesskey "o">
 

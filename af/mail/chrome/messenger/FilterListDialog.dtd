@@ -1,10 +1,10 @@
 <!ENTITY window.title "Boodskapfilters">
 <!ENTITY nameColumn.label "Filternaam">
 <!ENTITY activeColumn.label "Geaktiveer">
-<!ENTITY newButton.label "Nuwe...">
+<!ENTITY newButton.label "New…">
 <!ENTITY newButton.accesskey "N">
-<!ENTITY editButton.label "Redigeer...">
-<!ENTITY editButton.accesskey "R">
+<!ENTITY editButton.label "Edit…">
+<!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "Skrap">
 <!ENTITY deleteButton.accesskey "a">
 <!ENTITY reorderUpButton.label "Skuif op">

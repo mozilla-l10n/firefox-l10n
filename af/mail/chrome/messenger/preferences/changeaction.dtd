@@ -5,19 +5,17 @@
 
 <!ENTITY openDefault.label "Open dit met die verstektoepassing:">
 <!ENTITY openDefault.accesskey "O">
-<!ENTITY openApplication.label "Open dit met hierdie aansoek:">
+<!ENTITY openApplication.label "Open dit met hierdie toepassing:">
 <!ENTITY openApplication.accesskey "e">
-<!ENTITY changeApp.label "Blaai...">
+<!ENTITY changeApp.label "Browse…">
 <!ENTITY changeApp.accesskey "B">
-<!ENTITY saveToDisk.label "Stoor dit op my Werkskerm">
+<!ENTITY saveToDisk.label "Stoor dit op my rekenaar">
 <!ENTITY saveToDisk.accesskey "S">
 <!ENTITY saveToDefaultFolder.label "in die verstek aflaaivouer">
 <!ENTITY saveToDefaultFolder.accesskey "v">
 <!ENTITY saveToThisFolder.label "in hierdie vouer:">
 <!ENTITY saveToThisFolder.accesskey "h">
-<!ENTITY chooseFolder.label "Blaai...">
-<!ENTITY chooseFolder.accesskey "i">
+<!ENTITY chooseFolder.label "Browse…">
+<!ENTITY chooseFolder.accesskey "w">
 <!ENTITY saveToAskMe.label "vra vir my waar om die lêer te stoor">
 <!ENTITY saveToAskMe.accesskey "v">
-<!ENTITY usePlugin.label "Gebruik hierdie uitbreiding:">
-<!ENTITY usePlugin.accesskey "U">

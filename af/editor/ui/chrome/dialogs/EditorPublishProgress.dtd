@@ -41,14 +41,10 @@
 <!ENTITY docSubdir.label "Bladsysubgids:">
 <!ENTITY otherSubdir.label "Prentsubgids:">
 
-<!ENTITY status.label "Publiseer tans...">
+<!ENTITY status.label "Publishing…">
 <!ENTITY fileList.label "Publiseerstatus">
-<!ENTITY statusHeader.label "State">
-<!ENTITY filenameHeader.label "Lêernaam">
 <!ENTITY succeeded.label "Suksesvol">
-<!ENTITY failed.label "Gefaal">
-<!ENTITY troubleshooting.label "Foutopsporing">
-<!ENTITY troubleshooting.accessKey "F">
+<!ENTITY failed.label "Misluk">
 
 <!ENTITY keepOpen "Hou hierdie venster oop nadat die publisering afgeloop het.">
 <!ENTITY closeButton.label "Sluit">

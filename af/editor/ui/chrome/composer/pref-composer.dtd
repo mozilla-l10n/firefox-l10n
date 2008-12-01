@@ -4,20 +4,9 @@
 
 
 <!ENTITY pref.composer.title "Composer">
-
-<!ENTITY saving "Stoor tans">
-<!ENTITY AutoSaveCheck "Stoor outomaties elke">
-<!ENTITY minText "minute">
-
-<!ENTITY exterLegend.label "Eksterne redigeerders">
-<!ENTITY htmlSource "HTML-bron:">
-<!ENTITY imageeditor "Prente:">
-<!ENTITY chooseButton.label "Kies">
-
 <!ENTITY recentFiles.title "Onlangsebladsye-kieslys">
 <!ENTITY documentsInMenu.label "Maksimum getal bladsye gelys:">
 <!ENTITY documentsInMenu.accesskey "g">
-
 <!ENTITY savingFiles.title "Wanneer bladsye gestoor of gepubliseer word">
 <!ENTITY preserveExisting.label "Behou oorspronklike bronformatering">
 <!ENTITY preserveExisting.accesskey "B">
@@ -26,7 +15,6 @@
 <!ENTITY saveAssociatedFiles.accesskey "S">
 <!ENTITY showPublishDialog.label "Toon altyd publiseerdialoog wanneer bladsye gepubliseer word">
 <!ENTITY showPublishDialog.accesskey "T">
-
 <!ENTITY composerEditing.label "Redigering">
 <!ENTITY maintainStructure.label "Handhaaf tabeluitleg wanneer selle ingevoeg of geskrap word">
 <!ENTITY maintainStructure.tooltip "Behou tabel se reghoekige vorm deur outomaties selle by te voeg nadat selle ingevoeg of geskrap is">

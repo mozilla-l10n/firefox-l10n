@@ -5,10 +5,10 @@
 <!-- Entities for Account Type page -->
 
 
-<!ENTITY accountSetupInfo.label "Om boodskappe te kan ontvang, moet jy eers 'n pos- of nuusgroeprekening opstel.">
+<!ENTITY accountSetupInfo.label "Om boodskappe te kan ontvang, moet u eers 'n pos- of nuusgroeprekening opstel.">
 <!ENTITY accountTypeTitle.label "Stel nuwe rekening op">
-<!ENTITY accountTypeDesc.label "Hierdie programmetjie sal al die nodige inligting vir die opstel van 'n pos- of nuusgroeprekening versamel. Indien jy onseker oor van die inligting is, skakel gerus jou stelseladministrateur of internetdiensverskaffer.">
-<!ENTITY accountTypeDirections.label "Selekteer die soort rekening wat jy wil opstel:">
+<!ENTITY accountTypeDesc.label "Hierdie programmetjie sal al die nodige inligting vir die opstel van 'n pos- of nuusgroeprekening versamel. Indien u onseker oor van die inligting is, skakel gerus u stelseladministrateur of internetdiensverskaffer.">
+<!ENTITY accountTypeDirections.label "Selekteer die soort rekening wat u wil opstel:">
 <!ENTITY accountTypeMail.label "E-posrekening">
 <!ENTITY accountTypeMail.accesskey "p">
 <!ENTITY accountTypeNews.label "Nuusgroeprekening">
@@ -17,94 +17,80 @@
 
 
 <!ENTITY identityTitle.label "Identiteit">
-<!ENTITY identityDesc.label "'n Mens kan vir elke rekening 'n eie identiteit opstel. Die identiteit sê aan mense wat jou boodskappe ontvang, wie jy is.">
+<!ENTITY identityDesc.label "'n Mens kan vir elke rekening 'n eie identiteit opstel. Die identiteit sê aan mense wat u boodskappe ontvang, wie u is.">
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 
-<!ENTITY fullnameDesc.label "Tik die naam wat jy wil hê in die &quot;Van&quot;-veld van jou uitgaande boodskappe moet vertoon">
+<!ENTITY fullnameDesc.label "Tik die naam wat u wil hê in die &quot;Van&quot;-veld van u uitgaande boodskappe moet vertoon">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
-	1, do not translate two of "&quot;"
-	2, Use localized full name instead of "John Smith"
+  1, do not translate two of "&quot;"
+  2, Use localized full name instead of "John Smith"
 -->
 <!ENTITY fullnameExample.label "(byvoorbeeld, &quot;Jan van der Merwe&quot;).">
-<!ENTITY fullnameLabel.label "Jou naam:">
-<!ENTITY fullnameLabel.accesskey "J">
+<!ENTITY fullnameLabel.label "U naam:">
+<!ENTITY fullnameLabel.accesskey "U">
 
 <!ENTITY emailLabel.label "E-posadres:">
 <!ENTITY emailLabel.accesskey "E">
-<!ENTITY emailDesc.label "Tik jou e-posadres in; dit is die adres wat mense gebruik wanneer hulle pos vir jou stuur">
-<!-- LOCALIZATION NOTE (emailExample.label) : do not translate "user@example.net" in below line -->
-<!ENTITY emailExample.label "(byvoorbeeld: gebruiker@voorbeeld.net).">
 <!-- Entities for Server page -->
 
 
 <!ENTITY serverTitle.label "Bedienerinligting">
-<!ENTITY incomingServerTitle.label "Inkomende bediener">
-<!ENTITY incomingServerTypeDesc.label "Selekteer die soort inkomende bediener wat jy gebruik.">
-<!ENTITY incomingServerTypeLabel.label "Bedienersoort:">
+<!ENTITY incomingServerTypeDesc.label "Selekteer die soort inkomende bediener wat u gebruik.">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Tik die naam van jou inkomende bediener in (byvoorbeeld, &quot;mail.voorbeeld.net&quot;).">
+<!ENTITY incomingServerNameDesc.label "Tik die naam van u inkomende bediener in (byvoorbeeld, &quot;mail.voorbeeld.net&quot;).">
 <!ENTITY incomingServerLabel.label "Inkomende bediener:">
 <!ENTITY incomingServerLabel.accesskey "B">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Tik die naam van jou nuusgroep-bediener (NNTP) in (byvoorbeeld, &quot;news.voorbeeld.net&quot;).">
-<!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
-<!ENTITY smtpServerTitle.label "Uitgaande bediener (SMTP)">
+<!ENTITY newsServerNameDesc.label "Tik die naam van u nuusgroep-bediener (NNTP) in (byvoorbeeld, &quot;news.voorbeeld.net&quot;).">
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "Tik die naam van jou uitgaande bediener (SMTP) in (byvoorbeeld, &quot;smtp.voorbeeld.net&quot;).">
+<!ENTITY smtpServerDesc.label "Tik die naam van u uitgaande bediener (SMTP) in (byvoorbeeld, &quot;smtp.voorbeeld.net&quot;).">
 <!ENTITY smtpServerLabel.label "Uitgaande bediener:">
 <!ENTITY smtpServerLabel.accesskey "U">
-<!ENTITY newsServerLabel.label "Nuusgroepbediener:">
-<!ENTITY newsServerLabel.accesskey "N">
+<!ENTITY newsServerLabel.label "Newsgroup Server:">
+<!ENTITY newsServerLabel.accesskey "w">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY nntpType.label "Nuusbediener">
-<!-- for when the user has an SMTP server pre-configured -->
-<!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
-     this variable. Also, translate currentSmtpBefore.label and currentSmtpAfter.label as a single sentence,
-	  inserting text after the "&quot;" entity in currentSmtpAfter.label, if required grammatically
--->
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
 -->
 
-<!ENTITY haveSmtp1.prefix "Jou bestaande uitgaande bediener (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix "&quot;, will be used. You can modify outgoing server settings by choosing Account Settings from the Tools menu.">
+<!ENTITY haveSmtp1.prefix "U bestaande uitgaande bediener (SMTP), &quot;">
+<!ENTITY haveSmtp1.suffix "&quot;, sal gebruik word. U kan die uitgaande bediener se opstelling wysig deur Rekeningopstelling van die Nutsgoed-kieslys.">
 <!-- Entities for Login page -->
 
 
 <!ENTITY loginTitle.label "Gebruikername">
-<!ENTITY usernameDesc.label "Tik die inkomende gebruikernaam in wat jou e-posverskaffer vir jou gegee het ">
+<!ENTITY usernameDesc.label "Tik die inkomende gebruikernaam in wat u e-posverskaffer vir u gegee het ">
 <!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY usernameExample.label "(byvoorbeeld, &quot;jvdm&quot;).">
 <!ENTITY usernameLabel.label "Inkomende gebruikernaam:">
 <!ENTITY usernameLabel.accesskey "I">
-<!ENTITY usernameSmtpDesc.label "Tik die uitgaande gebruikernaam in wat jou e-posbediener aan jou gegee het (dit is gewoonlik dieselfde as jou inkomende gebruikernaam).">
+<!ENTITY usernameSmtpDesc.label "Tik die uitgaande gebruikernaam in wat u e-posbediener aan u gegee het (dit is gewoonlik dieselfde as u inkomende gebruikernaam).">
 <!ENTITY usernameSmtpLabel.label "Uitgaande gebruikernaam:">
 <!ENTITY usernameSmtpLabel.accesskey "U">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "Jou bestaande uitgaande (SMTP) gebruikernaam, &quot;">
-<!ENTITY haveSmtp2.suffix "&quot;, will be used. You can modify outgoing server settings by choosing Account Settings from the Tools menu.">
+<!ENTITY haveSmtp2.prefix "U bestaande uitgaande (SMTP) gebruikernaam, &quot;">
+<!ENTITY haveSmtp2.suffix "&quot;, sal gebruik word. U kan die uitgaande bediener se opstelling wysig deur Rekeningopstelling van die Nutsgoed-kieslys.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "Jou uitgaande bediener (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix "&quot;, is identies aan jou inkomende bediener en jou inkomende gebruikernaam sal gebruik word om daartoe toegang te verkry. Jy kan die uitgaande bediener se opstelling wysig deur Rekeningopstelling van die Nutsgoed-kieslys.">
+<!ENTITY haveSmtp3.prefix "U uitgaande bediener (SMTP), &quot;">
+<!ENTITY haveSmtp3.suffix "&quot;, is identies aan u inkomende bediener en u inkomende gebruikernaam sal gebruik word om daartoe toegang te verkry. U kan die uitgaande bediener se opstelling wysig deur Rekeningopstelling van die Nutsgoed-kieslys.">
 <!-- Entities for Account name page -->
 
 
 <!ENTITY accnameTitle.label "Rekeningnaam">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Tik die naam in om na hierdie rekening te verwys (byvoorbeeld, &quot;Werkspos&quot;, &quot;Huispos&quot; of &quot;Nuusgroepe&quot;).">
-<!ENTITY accnameExample.label "Byvoorbeeld Werkspos, Huispos of Nuusgroepe">
 <!ENTITY accnameLabel.label "Rekeningnaam:">
 <!ENTITY accnameLabel.accesskey "R">
 <!-- Entities for Done (Congratulations) page -->
@@ -116,7 +102,8 @@
 <!ENTITY serverNamePrefix.label "Inkomende bediener:">
 <!ENTITY smtpServerNamePrefix.label "Uitgaande bediener (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Nuusgroepbediener (NNTP):">
-<!ENTITY downloadOnLogin.label "Laat nou boodskappe af">
+<!ENTITY downloadOnLogin.label "Laai nou boodskappe af">
 <!ENTITY deferStorageDesc.label "Ontmerk hierdie merkblokkie om pos vir hierdie rekening in sy eie gids te stoor. Dit sal hierdie rekening as 'n bovlak-rekening laat vertoon. Anders sal dit deel van die Plaaslike vouers se Globale inkassie-rekening wees.">
 <!ENTITY deferStorage.label "Gebruik globale inkassie (stoor pos in plaaslike vouers)">
 <!ENTITY clickFinish.label "Kliek Klaar om hierdie opstelling te stoor en die rekeningslimmerd af te sluit.">
+<!ENTITY clickFinish.labelMac "Click Done to save these settings and exit the Account Wizard.">

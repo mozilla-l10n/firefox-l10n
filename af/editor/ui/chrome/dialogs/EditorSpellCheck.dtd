@@ -47,20 +47,20 @@
 <!ENTITY suggestions.accessKey "o">
 <!ENTITY ignoreButton.label "Ignoreer">
 <!ENTITY ignoreButton.accessKey "I">
-<!ENTITY ignoreAllButton.label "Ignoreer almal">
+<!ENTITY ignoreAllButton.label "Ignoreer alles">
 <!ENTITY ignoreAllButton.accessKey "n">
 <!ENTITY replaceButton.label "Vervang">
 <!ENTITY replaceButton.accessKey "V">
-<!ENTITY replaceAllButton.label "Vervang almal">
+<!ENTITY replaceAllButton.label "Vervang alles">
 <!ENTITY replaceAllButton.accessKey "A">
 <!ENTITY stopButton.label "Stop">
 <!ENTITY stopButton.accessKey "t">
 <!ENTITY userDictionary.label "Persoonlike subgids:">
-<!ENTITY moreDictionaries.label "Laai nog af">
+<!ENTITY moreDictionaries.label "Download more dictionaries…">
 <!ENTITY addToUserDictionaryButton.label "Voeg woord by">
 <!ENTITY addToUserDictionaryButton.accessKey "o">
-<!ENTITY editUserDictionaryButton.label "Redigeer...">
-<!ENTITY editUserDictionaryButton.accessKey "R">
+<!ENTITY editUserDictionaryButton.label "Edit…">
+<!ENTITY editUserDictionaryButton.accessKey "E">
 <!ENTITY recheckButton.label "Gaan bladsy weer na">
 <!ENTITY recheckButton.accessKey "B">
 <!ENTITY closeButton.label "Sluit">

@@ -1,17 +1,15 @@
 <!ENTITY itemFormatting.label "Formatering">
-<!ENTITY itemLabels.label "Labels">
-<!ENTITY itemFonts.label "Fonte">
+<!ENTITY itemTags.label "Merkers">
 
-<!ENTITY textBegin.label "Aangehaalde skoonteks-voorkoms">
 <!ENTITY style.label "Styl:">
 <!ENTITY style.accesskey "y">
-<!ENTITY regularStyle.label "Regular">
+<!ENTITY regularStyle.label "Gewoon">
 <!ENTITY bold.label "Vet">
-<!ENTITY italic.label "Skuinsdruk">
+<!ENTITY italic.label "Skuins">
 <!ENTITY boldItalic.label "Vet skuinsdruk">
 <!ENTITY size.label "Grootte:">
 <!ENTITY size.accesskey "g">
-<!ENTITY regularSize.label "Regular">
+<!ENTITY regularSize.label "Gewoon">
 <!ENTITY bigger.label "Groter">
 <!ENTITY smaller.label "Kleiner">
 <!ENTITY color.label "Kleur:">
@@ -19,48 +17,32 @@
 <!ENTITY displayWidth.label "Skoonteks-boodskappe">
 <!ENTITY plainText.label "Gebruik die volgende fout:">
 <!ENTITY displayText.label "Wanneer aangehaalde teks in skoonteks boodskappe gewys word:">
-<!ENTITY viewingPlainText.label "Wanneer skoonteksboodskappe vertoon mag word:">
 <!ENTITY fixedWidth.label "Vaste monofont">
 <!ENTITY fixedWidth.accesskey "t">
 <!ENTITY variableWidth.label "Veranderlikewydte-font">
 <!ENTITY variableWidth.accesskey "V">
-<!ENTITY readingMessagesHeader.label "Vir inkomende boodskappe">
-<!ENTITY messageWrapping.label "Boodskapomvou">
-<!ENTITY wrapInMsg.label "Vou teks om by te vensterwydte">
-<!ENTITY wrapInMsg.accesskey "V">
-<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
-<!ENTITY convertEmoticons.label "Wys emotikons as grafika">
-<!ENTITY convertEmoticons.accesskey "W">
-<!ENTITY htmlColors.label "HTML-boodskappe">
-<!ENTITY overrideSender.label "Gebruik die volgende wanneer jy HTML-boodskappe vertoon:">
-<!ENTITY overrideSender.accesskey "e">
+<!ENTITY colors.label "Kleure">
+<!ENTITY overrideColors.label "Wanneer boodskappe vertoon word, gebruik die volgende kleur:">
 <!ENTITY textColor.label "Tekskleur:">
 <!ENTITY textColor.accesskey "T">
 <!ENTITY backgroundColor.label "Agtergrondkleur:">
 <!ENTITY backgroundColor.accesskey "a">
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+
+<!ENTITY convertEmoticons.label "Wys emotikons as grafika">
+<!ENTITY convertEmoticons.accesskey "W">
 <!-- labels -->
 
-<!ENTITY labelsSettings.label "Labels">
-<!ENTITY displayLabelsText.label "Etikette kan gebruik word om jou boodskappe te kategoriseer en te prioritiseer.">
-<!ENTITY restoreDefaults.label "Herstel verstek">
-<!ENTITY restoreDefaults.accesskey "H">
+<!ENTITY displayTagsText.label "Merkers kan gebruik word om u boodskappe te kategoriseer en te prioritiseer.">
+<!ENTITY addTagButton.label "Voeg by">
+<!ENTITY addTagButton.accesskey "V">
+<!ENTITY editTagButton.label "Redigeer">
+<!ENTITY editTagButton.accesskey "R">
+<!ENTITY removeTagButton.label "Skrap">
+<!ENTITY removeTagButton.accesskey "s">
 <!-- Fonts -->
 
-<!ENTITY fontsDescription.label "Stel die fonts op wat deur &brandShortName; gebruik word">
-<!ENTITY fontsCaption.label "Fonte">
+<!ENTITY fontAndEncodingsDescription.label "Stel die fonts en enkoderings op wat deur &brandShortName; gebruik word">
+<!ENTITY fontsAndEncodingsCaption.label "Fonte en enkoderings">
 <!ENTITY fontOptions.accesskey "F">
-<!ENTITY fontOptions.label "Font...">
-<!-- Language settings -->
-
-
-<!ENTITY sendDefaultCharset.label "Uitgaande pos:">
-<!ENTITY sendDefaultCharset.accesskey "u">
-<!ENTITY languagesTitle.label "Karakterenkoderings">
-<!ENTITY composingDescription.label "Stel die verstek-karakterenkoderings op, en kyk of daar pos is">
-
-<!ENTITY viewDefaultCharsetList.label "Inkomende pos:">
-<!ENTITY viewDefaultCharsetList.accesskey "I">
-<!ENTITY forceCharsetOverride.label "Pas die verstek karakterenkodering- by alle inkomende boodskappe">
-<!ENTITY forceCharsetOverride.accesskey "p">
-<!ENTITY replyInDefaultCharset.label "Gebruik die verstek karakterenkodering tydens antwoorde">
-<!ENTITY replyInDefaultCharset.accesskey "i">
+<!ENTITY fontOptions.label "Fonts…">

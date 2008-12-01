@@ -38,17 +38,16 @@
 <!ENTITY fieldMapImport.title "Voer adresboek in">
 <!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
 <!ENTITY fieldMapImport.recordNumber "Ingevoerde data vir rekord: ">
-<!ENTITY fieldMapImport.next "Volgende">
+<!ENTITY fieldMapImport.next.label "Next">
 <!ENTITY fieldMapImport.next.accesskey "N">
-<!ENTITY fieldMapImport.previous "Vorige">
+<!ENTITY fieldMapImport.previous.label "Previous">
 <!ENTITY fieldMapImport.previous.accesskey "P">
-<!ENTITY fieldMapImport.text "Gebruik Skuif op en Skuif af om die adresboekvelde links met die korrekte data vir invoer regs te belyn. Ontmerk items wat jy nie wil invoer nie.">
-<!ENTITY fieldMapImport.up "Skuif op">
+<!ENTITY fieldMapImport.text "Gebruik Skuif op en Skuif af om die adresboekvelde links met die korrekte data vir invoer regs te belyn. Ontmerk items wat u nie wil invoer nie.">
+<!ENTITY fieldMapImport.up.label "Move Up">
 <!ENTITY fieldMapImport.up.accesskey "U">
-<!ENTITY fieldMapImport.down "Skuif af">
+<!ENTITY fieldMapImport.down.label "Move Down">
 <!ENTITY fieldMapImport.down.accesskey "D">
 <!ENTITY fieldMapImport.fieldListTitle "Adresboek-velde">
 <!ENTITY fieldMapImport.dataTitle "Neem data op vir invoer">
-<!ENTITY fieldMapImport.skipFirstRecord "Eerste rekord bevat veldname">
+<!ENTITY fieldMapImport.skipFirstRecord.label "First record contains field names">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "F">
-

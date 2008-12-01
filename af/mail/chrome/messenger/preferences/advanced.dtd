@@ -1,79 +1,94 @@
 <!ENTITY itemGeneral.label "Algemeen">
-<!ENTITY itemUpdate.label "Werk by">
-<!ENTITY itemOffline.label "Aflyn en skyfspasie">
+<!ENTITY itemDisplay.label "Reading &amp; Display">
+<!ENTITY itemUpdate.label "Bywerk">
+<!ENTITY itemNetworking.label "Netwerk- en skyfspasie">
+<!ENTITY itemCertificates.label "Sertifikate">
 <!-- General Settings -->
 
 
+<!ENTITY enableGloda.label "Enable Message Indexer">
+<!ENTITY enableGloda.accesskey "i">
 <!ENTITY showCondensedAddresses.label "Wys net vertoonnaam vir mense in my adresboek">
 <!ENTITY showCondensedAddresses.accesskey "t">
-<!-- LOCALIZATION NOTE (markAsRead.label): This will concatenate with
-     "xxx seconds before marking a message as read", using a number and
-     (markAsReadEnd.label). -->
 
-<!ENTITY markAsRead.label "Wag">
-<!ENTITY markAsRead.accesskey "W">
-<!ENTITY markAsReadEnd.label "sekondes voor die boodskap as gelees gemerk word">
-<!ENTITY markAsReadEnd.accesskey "e">
+<!ENTITY autoMarkAsRead.label "Automatically mark messages as read">
+<!ENTITY autoMarkAsRead.accesskey "A">
+<!ENTITY markAsReadNoDelay.label "Immediately on display">
+<!ENTITY markAsReadNoDelay.accesskey "d">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label "After displaying for">
+<!ENTITY markAsReadDelay.accesskey "e">
+<!ENTITY secondsLabel.label "sekondes">
 <!ENTITY showFolderColumns.label "Wys uitgevoude kolomme in die vouerpaneel">
 <!ENTITY showFolderColumns.accesskey "v">
-<!ENTITY rememberLastMsg.label "Onthou die vorige gemerkte boodskap">
-<!ENTITY rememberLastMsg.accesskey "h">
-<!ENTITY reuseExp.label "Open nuwe boodskappe in:">
+<!ENTITY openMsgIn.label "Open messages in:">
 <!ENTITY reuseExpRadio0.label "'n Nuwe nuwe boodskapvenster">
 <!ENTITY reuseExpRadio0.accesskey "v">
 <!ENTITY reuseExpRadio1.label "'n Bestaande boodskapvenster">
 <!ENTITY reuseExpRadio1.accesskey "e">
-<!ENTITY connectionTimeout.label "Verbinding uitgetel: ">
-<!ENTITY connectionTimeout.accesskey "V">
-<!ENTITY connectionSeconds.label "sekondes">
 <!ENTITY configEditDesc.label "Gevorderde opstelling">
-<!ENTITY configEdit.label "Opstellingredigeerder...">
-<!ENTITY configEdit.accesskey "l">
+<!ENTITY configEdit.label "Config Editor…">
+<!ENTITY configEdit.accesskey "g">
+<!ENTITY returnReceiptsInfo.label "Bepaal hoe &brandShortName; antwoordstrokies hanteer">
+<!ENTITY showReturnReceipts.label "Return Receipts…">
+<!ENTITY showReturnReceipts.accesskey "R">
+<!-- Display and Reading Settings -->
+
+<!ENTITY reading.caption "Reading">
+<!ENTITY display.caption "Display">
 <!-- Update -->
 
-<!ENTITY autoCheck.label "Kontroleer outomaties vir bywerkings by:">
+<!ENTITY autoCheck.label "Kontroleer outomaties vir bywerkings aan:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "T">
-<!ENTITY enableExtensionUpdate.label "Geïnstalleerde uitbreidings en temas">
-<!ENTITY enableExtensionUpdate.accesskey "t">
-<!ENTITY checkNow.label "Kontroleer nou...">
-<!ENTITY appCheckNow.accesskey "k">
-<!ENTITY extensionsCheckNow.accesskey "h">
+<!ENTITY enableAppUpdate.accesskey "h">
+<!ENTITY enableAddonsUpdate.label "Geïnstalleerde byvoegings">
+<!ENTITY enableAddonsUpdate.accesskey "s">
+<!ENTITY checkNow.label "Check Now…">
 <!ENTITY whenUpdatesFound.label "Wanneer bywerkings vir &brandShortName; gevind word,">
 <!ENTITY modeAskMe.label "Vra my wat ek wil doen">
-<!ENTITY modeAskMe.accesskey "R">
+<!ENTITY modeAskMe.accesskey "r">
 <!ENTITY modeAutomatic.label "Laai die bywerkings outomaties af en installeer dit">
 <!ENTITY modeAutomatic.accesskey "b">
-<!ENTITY modeAutoWarn.label "Waarsku my as dit uitbreidings of temas sal deaktiveer">
-<!ENTITY modeAutoWarn.accesskey "W">
+<!ENTITY modeAutoAddonWarn.label "Waarsku my as dit enige van my byvoegings sal deaktiveer">
+<!ENTITY modeAutoAddonWarn.accesskey "W">
 <!ENTITY showUpdates.label "Wys bywerkingsgeskiedenis">
-<!ENTITY showUpdates.accesskey "B">
-<!-- Offline and Disk Space -->
+<!ENTITY showUpdates.accesskey "b">
+<!-- Networking and Disk Space -->
 
-<!ENTITY offline.label "Aflyn">
-<!ENTITY textStartUp "Wanneer die program begin:">
-<!ENTITY radioRememberPrevState "Onthou vorige aanlynstaat">
-<!ENTITY radioRememberPrevState.accesskey "O">
-<!ENTITY radioAskMe "Vra my vir aanlynstaat aan die begin">
-<!ENTITY radioAskMe.accesskey "i">
-<!ENTITY radioAlwaysOnline "Begin altyd in aanlynmodus">
-<!ENTITY radioAlwaysOnline.accesskey "l">
+<!ENTITY showSettings.label "Settings…">
+<!ENTITY showSettings.accesskey "n">
+<!ENTITY proxiesConfigure.label "Configure how &brandShortName; connects to the Internet">
+<!ENTITY connectionsInfo.caption "Verbinding">
+<!ENTITY offlineInfo.caption "Aflyn">
+<!ENTITY offlineInfo.label "Stel aflynopstelling op">
+<!ENTITY showOffline.label "Offline…">
+<!ENTITY showOffline.accesskey "O">
 
-<!ENTITY textGoingOnline "Stuur ongestuurde boodskappe wanneer jy aanlyn gaan?">
-<!ENTITY radioAutoSend "Ja">
-<!ENTITY radioAutoSend.accesskey "J">
-<!ENTITY radioNotSend "Nee">
-<!ENTITY radioNotSend.accesskey "N">
-<!ENTITY radioAskUnsent "Vra my">
-<!ENTITY radioAskUnsent.accesskey "r">
-<!ENTITY textGoingOffline "Laai boodskappe af vir aflyngebruik wanneer jy aflyn gaan?">
-<!ENTITY radioAutoDownload "Ja">
-<!ENTITY radioAutoDownload.accesskey "a">
-<!ENTITY radioNotDownload "Nee">
-<!ENTITY radioNotDownload.accesskey "e">
-<!ENTITY radioAskDownload "Vra my">
-<!ENTITY radioAskDownload.accesskey "r">
 <!ENTITY Diskspace "Skyfspasie">
 <!ENTITY offlineCompact.label "Kompakteer vouers wanneer dit meer as soveel sal bespaar">
 <!ENTITY offlineCompact.accesskey "b">
 <!ENTITY kb.label "KG">
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+
+<!ENTITY useCacheBefore.label "Use up to">
+<!ENTITY useCacheBefore.accesskey "U">
+<!ENTITY useCacheAfter.label "MB of space for the cache">
+<!ENTITY clearCacheNow.label "Clear Now">
+<!ENTITY clearCacheNow.accesskey "C">
+<!-- Certificates -->
+
+<!ENTITY viewCertificates.label "Bekyk sertifikate">
+<!ENTITY viewCertificates.accesskey "b">
+<!ENTITY viewCRLs.label "Opheffingslyste">
+<!ENTITY viewCRLs.accesskey "o">
+<!ENTITY validation.label "Validation">
+<!ENTITY validation.accesskey "d">
+<!ENTITY viewSecurityDevices.label "Sekuriteitstoestelle">
+<!ENTITY viewSecurityDevices.accesskey "s">

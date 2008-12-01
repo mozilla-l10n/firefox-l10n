@@ -4,18 +4,16 @@
 <!ENTITY sendingPrefix.label "Wanneer boodskappe gestuur word, doen dit outomaties: ">
 <!ENTITY fccMailFolder.label "Bêre 'n afskrif in:">
 <!ENTITY fccMailFolder.accesskey "B">
-<!ENTITY chooseFolderButton.label "Kies vouer...">
+<!ENTITY fccReplyFollowsParent.label "Place replies in the folder of the message being replied to">
+<!ENTITY fccReplyFollowsParent.accesskey "c">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Stuur BCC aan hierdie e-posadresse:">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY specialFolderTitle.label "Spesiale vouers">
-<!ENTITY draftMailFolder.label "Keep message drafts in:">
-<!ENTITY templateMailFolder.label "Keep message templates in:">
-<!ENTITY saveMessageDlg.label "Wys bevestigingsdialoog wanneer boodskappe gestoor word">
-<!ENTITY saveMessageDlg.accesskey "W">
+<!ENTITY saveMessageDlg.label "Show confirmation dialog when messages are saved">
+<!ENTITY saveMessageDlg.accesskey "w">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "&quot;Gestuur&quot;-vouer op:">
-<!ENTITY sentFolderOn.accesskey "t">
+<!ENTITY sentFolderOn.label "&quot;Sent&quot; Folder on:">
+<!ENTITY sentFolderOn.accesskey "S">
 <!ENTITY sentInOtherFolder.label "Ander:">
 <!ENTITY sentInOtherFolder.accesskey "A">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
@@ -26,8 +24,8 @@
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "&quot;Sjablone&quot;-vouer op:">
 <!ENTITY templatesFolderOn.accesskey "a">
-<!ENTITY templateInOtherFolder.label "Ander:">
-<!ENTITY templateInOtherFolder.accesskey "r">
+<!ENTITY templateInOtherFolder.label "Other:">
+<!ENTITY templateInOtherFolder.accesskey "e">
 <!ENTITY specialFoldersTitle.label "Onvoltooid en sjablone">
-<!ENTITY keepDrafts.label "Keep message drafts in:">
-<!ENTITY keepTempltes.label "Keep message templates in:">
+<!ENTITY keepDrafts.label "Bêre onvoltooide boodskappe in:">
+<!ENTITY keepTempltes.label "Bêre boodskapsjablone in:">

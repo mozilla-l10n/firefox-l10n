@@ -1,8 +1,8 @@
 
 <!ENTITY migrationWizard.title "Invoerslimmerd">
 
-<!ENTITY importFrom.label "Voer opsies, rekeningopstelling, adresboek en ander data in van:">
-<!ENTITY importFromUnix.label "Voer voorkeure, rekeningopstelling, adresboek en ander data in van:">
+<!ENTITY importFromWin.label "Import Options, Account Settings, Address Book, Filters and other data from:">
+<!ENTITY importFromNonWin.label "Import Preferences, Account Settings, Address Book, Filters, and other data from:">
 
 <!ENTITY importFromNothing.label "Moenie enigiets invoer nie">
 <!ENTITY importFromNothing.accesskey "M">
@@ -17,15 +17,15 @@
 <!ENTITY importFromEudora.label "Eudora">
 <!ENTITY importFromEudora.accesskey "E">
 
-<!ENTITY importSource.title "Voer opstellings en data in vanuit">
+<!ENTITY importSource.title "Import Settings and Mail Folders">
 <!ENTITY importItems.title "Items om in te voer">
 <!ENTITY importItems.label "Kies watter items om in te voer:">
 
-<!ENTITY migrating.title "Voer in...">
-<!ENTITY migrating.label "Die volgende items word tans ingevoer...">
+<!ENTITY migrating.title "Importing…">
+<!ENTITY migrating.label "The following items are currently being imported…">
 
 <!ENTITY selectProfile.title "Kies profiel">
-<!ENTITY selectProfile.label "Die volgende profiele is beskikbaar om in te voer vanuit:">
+<!ENTITY selectProfile.label "Die volgende profiele kan ingevoer word vanaf:">
 
 <!ENTITY done.title "Invoer afgehandel">
-<!ENTITY done.label "Die volgende items is met sukses ingevoer:">
+<!ENTITY done.label "Die volgende items is suksesvol ingevoer:">

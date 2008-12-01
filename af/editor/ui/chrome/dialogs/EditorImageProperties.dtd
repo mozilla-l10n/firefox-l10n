@@ -41,7 +41,6 @@
 <!ENTITY windowTitle.label "Prenteienskappe">
 
 <!ENTITY pixelsPopup.value "pixels">
-<!ENTITY percentPopup.value "persent">
 <!-- These are in the Location tab panel -->
 
 <!ENTITY locationEditField.label "Prentligging:">
@@ -57,7 +56,6 @@
 <!ENTITY noAltText.accessKey "M">
 
 <!ENTITY previewBox.label "Prentvoorskou">
-<!ENTITY MoreFewerButton.tooltip "Vertoon meer of minder eienskappe wat jy wil redigeer">
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 
@@ -80,7 +78,7 @@
 <!ENTITY imagemapBox.label "Prentkaart">
 <!ENTITY removeImageMapButton.label "Verwyder">
 <!ENTITY removeImageMapButton.accessKey "V">
-<!ENTITY editImageMapButton.label "Redigeer...">
+<!ENTITY editImageMapButton.label "Edit…">
 <!ENTITY editImageMapButton.tooltip "Skep kliekkolle vir hierdie prent">
 <!-- These are the options for image alignment -->
 
@@ -93,7 +91,6 @@
 <!-- These controls are in the Spacing Box -->
 
 <!ENTITY spacingBox.label "Spasiëring">
-<!ENTITY spacingBox.tooltip "Tik 'n getal in vir die hoeveelheid spasie rondom die prent">
 <!ENTITY leftRightEditField.label "Links en regs:">
 <!ENTITY leftRightEditField.accessKey "L">
 <!ENTITY topBottomEditField.label "Bo- en onderkant:">
@@ -104,12 +101,6 @@
 
 <!ENTITY showImageLinkBorder.label "Wys rand rondom geskakelde prent">
 <!ENTITY showImageLinkBorder.accessKey "R">
-<!-- These controls may be added some day; currently not used -->
-
-<!ENTITY makePageBackgroundCheckbox.label "Skep bladsyagtergrond">
-<!ENTITY makePageBackgroundCheckbox.tooltip "Gebruik 'n prent as die agtergrond van jou bladsy">
-<!ENTITY editImageButton.label "Redigeer prent">
-<!ENTITY editImageButton.tooltip "Redigeer prentlêer in 'n ander program">
 <!-- These tabs are currently used in the image input dialog -->
 
 <!ENTITY imageInputTab.label "Vorm">

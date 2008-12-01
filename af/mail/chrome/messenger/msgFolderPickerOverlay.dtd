@@ -36,14 +36,5 @@
  ***** END LICENSE BLOCK ***** -->
 <!-- Labels -->
 
-<!ENTITY subscribechoosethis.label "kies hierdie nuusbediener">
-<!ENTITY subscribeclickhere.label "kliek hier om 'n nuusbediener te kies">
 <!ENTITY newfolderchoosethis.label "kies hierdie vir die ouer">
-<!ENTITY newfolderclickhere.label "Kliek hier om te kies">
-<!ENTITY renamefolderchoosethis.label "kies hierdie vouer">
-<!ENTITY renamefolderclickhere.label "click here to choose a folder">
 <!ENTITY filemessageschoosethis.label "kies hierdie vouer">
-<!ENTITY filemessagesclickhere.label "click here to choose a folder">
-<!ENTITY chooseaccountclickhere.label "Kliek hier om 'n rekening te kies">
-<!ENTITY choosefolderclickhere.label "Kliek hier om 'n vouer te kies">
-<!ENTITY chooseserverToDeferTo.label "kliek hier om 'n rekening te kies vir die berging van boodskappe">

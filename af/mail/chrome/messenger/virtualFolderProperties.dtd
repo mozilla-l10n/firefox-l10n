@@ -1,17 +1,14 @@
 <!ENTITY virtualFolderProperties.title "Nuwe gestoorde soekvouer">
 <!ENTITY name.label "Naam:">
-<!ENTITY name.accesskey "n">
+<!ENTITY name.accesskey "N">
 <!ENTITY description.label "Skep as 'n subvouer van:">
 <!ENTITY description.accesskey "S">
-<!ENTITY searchCriteriaText.label "Wysig die soektogkriteria wat vir hierdie gestoorde soektog gebruik word:">
-<!ENTITY searchCriteriaButton.label "Soekkriteria...">
-<!ENTITY searchCriteriaButton.accesskey "S">
 
 <!ENTITY searchTermCaption.label "Stel die soektogkriteria op wat vir hierdie gestoorde soektogvouer gebruik word: ">
 
 <!ENTITY folderSelectionCaption.label "Kies watter vouers deursoek moet word: ">
-<!ENTITY chooseFoldersButton.label "Kies...">
-<!ENTITY chooseFoldersButton.accesskey "i">
+<!ENTITY chooseFoldersButton.label "Choose…">
+<!ENTITY chooseFoldersButton.accesskey "h">
 
-<!ENTITY searchOnline.label "Soek aanlyn (gee op datum resultate vir IMAP- en nuusvouers maar neem langer om vouer te open)">
-<!ENTITY searchOnline.accesskey "A">
+<!ENTITY searchOnline.label "Search Online (Gives up-to-date results for IMAP and News folders but increases time to open the folder)">
+<!ENTITY searchOnline.accesskey "S">

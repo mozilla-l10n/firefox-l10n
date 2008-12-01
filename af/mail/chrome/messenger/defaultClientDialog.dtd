@@ -1,0 +1,9 @@
+<!ENTITY defaultClient.title "Verstek-kliënt">
+<!ENTITY defaultClient.intro "Gebruik &brandShortName; as die verstekkliënt vir:">
+
+<!ENTITY email.label "E-pos">
+<!ENTITY newsgroups.label "Nuusgroepe">
+<!ENTITY rss.label "RSS-nuusvoere">
+
+<!ENTITY checkOnStartup.label "Kontroleer altyd wanneer &brandShortName; begin word">
+<!ENTITY checkOnStartup.accesskey "K">

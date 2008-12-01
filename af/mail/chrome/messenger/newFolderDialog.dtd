@@ -43,6 +43,6 @@
 <!ENTITY description.label "Skep as 'n subvouer van:">
 <!ENTITY description.accesskey "s">
 <!ENTITY folderRestriction1.label "Hierdie bediener beperk vouers tot twee spesiale soorte.">
-<!ENTITY folderRestriction2.label "Laat jou nuwe vouer toe om dit te bevat:">
+<!ENTITY folderRestriction2.label "Laat u nuwe vouer toe om dit te bevat:">
 <!ENTITY foldersOnly.label "Net vouers">
 <!ENTITY messagesOnly.label "Net boodskappe">

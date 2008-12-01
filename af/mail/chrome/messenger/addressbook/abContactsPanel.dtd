@@ -1,12 +1,18 @@
-
-<!ENTITY addressbookPicker.label "Adresboek:">
-<!ENTITY searchInput.label "Soek na:">
+<!ENTITY addressbookPicker.label "Address Book:">
+<!ENTITY addressbookPicker.accesskey "k">
+<!ENTITY searchInput.label "Search For:">
+<!ENTITY searchInput.accesskey "o">
 <!ENTITY SearchNameOrEmail.label "Naam of e-pos">
 
+<!ENTITY deleteAddrBookCard.label "Delete">
+<!ENTITY addrBookCardProperties.label "Properties">
 <!ENTITY addtoToFieldMenu.label "Voeg by Aan-veld">
 <!ENTITY addtoCcFieldMenu.label "Voeg by CC-veld">
 <!ENTITY addtoBccFieldMenu.label "Voeg by BCC-veld">
 
-<!ENTITY toButton.label "Voeg by Aan:">
-<!ENTITY ccButton.label "Voeg by CC:">
-
+<!ENTITY toButton.label "Add to To:">
+<!ENTITY toButton.accesskey "A">
+<!ENTITY ccButton.label "Add to Cc:">
+<!ENTITY ccButton.accesskey "d">
+<!ENTITY bccButton.label "Add to Bcc:">
+<!ENTITY bccButton.accesskey "B">

@@ -3,11 +3,10 @@
 <!ENTITY accountTitle.label "Rekeningopstelling">
 <!ENTITY accountName.label "Gebruikernaam:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY accountNameDesc.label "Die rekeningnaam identifiseer elke rekening">
 <!ENTITY identityTitle.label "Verstekidentiteit">
-<!ENTITY identityDesc.label "Elke rekening het 'n identiteit. Die identiteit is die inligting wat ander mense sien wanneer hulle jou boodskappe lees.">
-<!ENTITY name.label "Jou naam:">
-<!ENTITY name.accesskey "J">
+<!ENTITY identityDesc.label "Elke rekening het 'n identiteit. Die identiteit is die inligting wat ander mense sien wanneer hulle u boodskappe lees.">
+<!ENTITY name.label "U naam:">
+<!ENTITY name.accesskey "U">
 <!ENTITY email.label "E-posadres:">
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Antwoordadres:">
@@ -16,17 +15,17 @@
 <!ENTITY organization.accesskey "O">
 <!ENTITY signature.label "Las hierdie handtekening by:">
 <!ENTITY signature.accesskey "l">
-<!ENTITY edit.label "Redigeer...">
-<!ENTITY choose.label "Kies...">
-<!ENTITY choose.accesskey "K">
-<!ENTITY editVCard.label "Redigeer kaart...">
-<!ENTITY editVCard.accesskey "e">
+<!ENTITY edit.label "Edit…">
+<!ENTITY choose.label "Choose…">
+<!ENTITY choose.accesskey "C">
+<!ENTITY editVCard.label "Edit Card…">
+<!ENTITY editVCard.accesskey "d">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 <!ENTITY attachVCard.label "Heg my vCard aan boodskappe">
 <!ENTITY attachVCard.accesskey "v">
 
-<!ENTITY manageIdentities.label "Bestuur identiteite...">
-<!ENTITY manageIdentities.accesskey "B">
+<!ENTITY manageIdentities.label "Manage Identities…">
+<!ENTITY manageIdentities.accesskey "M">
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 
 <!ENTITY smtpName.label "Uitgaande bediener (SMTP):">

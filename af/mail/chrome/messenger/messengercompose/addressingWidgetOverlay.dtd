@@ -5,5 +5,5 @@
 <!ENTITY bccAddr.label "BCC:">
 <!ENTITY replyAddr.label "Antwoord-aan:">
 <!ENTITY newsgroupsAddr.label "Nuusgroep:">
-<!ENTITY followupAddr.label "Opvolg aan:">
+<!ENTITY followupAddr.label "Opvolg-aan:">
 

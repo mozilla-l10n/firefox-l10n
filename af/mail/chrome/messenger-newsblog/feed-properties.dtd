@@ -12,5 +12,8 @@
 <!ENTITY quickMode.label "Wys die artikelopsomming in plaas daarvan om die webbladsy te laai">
 <!ENTITY quickMode.accesskey "s">
 
-<!ENTITY copyLinkCmd.label "Kopieer geskakelde adres">
+<!ENTITY copyLinkCmd.label "Kopieer skakelligging">
 <!ENTITY copyLinkCmd.accesskey "K">
+
+<!ENTITY pasteLinkCmd.label "Plak">
+<!ENTITY pasteLinkCmd.accesskey "P">

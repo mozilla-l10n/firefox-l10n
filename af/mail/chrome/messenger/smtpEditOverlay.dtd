@@ -10,14 +10,16 @@
 <!ENTITY alwaysUseUsername.accesskey "G">
 <!ENTITY userName.label "Gebruikernaam:">
 <!ENTITY userName.accesskey "a">
+<!ENTITY useSecAuth.label "Use secure authentication">
+<!ENTITY useSecAuth.accesskey "i">
 <!ENTITY isSecure.label "Gebruik beveiligde verbinding:">
 <!ENTITY neverSecure.label "Nee">
 <!ENTITY neverSecure.accesskey "N">
-<!ENTITY sometimesSecure.label "TLS, indien beskikbaar">
-<!ENTITY sometimesSecure.accesskey "b">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSmtpS.label "SSL">
-<!ENTITY alwaysSmtpS.accesskey "L">
+<!ENTITY sometimesSTARTTLS.label "STARTTLS, if available">
+<!ENTITY sometimesSTARTTLS.accesskey "a">
+<!ENTITY alwaysSTARTTLS.label "STARTTLS">
+<!ENTITY alwaysSTARTTLS.accesskey "T">
+<!ENTITY alwaysSMTPOverSSL.label "SMTP-over-SSL">
+<!ENTITY alwaysSMTPOverSSL.accesskey "L">
 <!ENTITY smtpEditTitle.label "SMTP-bediener">
 <!ENTITY serverPortDefault.label "Verstek:">

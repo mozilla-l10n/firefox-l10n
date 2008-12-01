@@ -43,19 +43,18 @@
 <!ENTITY findField.accesskey "n">
 <!ENTITY replaceField.label "Vervang met:">
 <!ENTITY replaceField.accesskey "v">
-<!ENTITY caseSensitiveCheckbox.label "Pas bo-/onderkas">
-<!ENTITY caseSensitiveCheckbox.accesskey "s">
+<!ENTITY caseSensitiveCheckbox.label "Match exact case">
+<!ENTITY caseSensitiveCheckbox.accesskey "c">
 <!ENTITY wrapCheckbox.label "Vou om">
 <!ENTITY wrapCheckbox.accesskey "V">
-<!ENTITY backwardsCheckbox.label "Soek terugwaarts">
+<!ENTITY backwardsCheckbox.label "Deursoek terugwaarts">
 <!ENTITY backwardsCheckbox.accesskey "t">
-<!ENTITY findNextButton.label "Vind Volgende">
+<!ENTITY findNextButton.label "Vind volgende">
 <!ENTITY findNextButton.accesskey "V">
 <!ENTITY replaceButton.label "Vervang">
 <!ENTITY replaceButton.accesskey "V">
 <!ENTITY replaceAndFindButton.label "Vervang en vind">
 <!ENTITY replaceAndFindButton.accesskey "n">
-<!ENTITY replaceAllButton.label "Vervang almal">
+<!ENTITY replaceAllButton.label "Vervang alles">
 <!ENTITY replaceAllButton.accesskey "A">
 <!ENTITY closeButton.label "Sluit">
-<!ENTITY notFoundWarning.label "Die teks wat jy ingetik het is nie gevind nie.">

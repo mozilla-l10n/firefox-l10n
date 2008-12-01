@@ -5,9 +5,9 @@
 <!ENTITY tab.nopreview.label "Vorms nooit gevoorskou nie">
 <!ENTITY tab.nocapture.label "Vorms nooit gestoor nie">
 
-<!ENTITY spiel.signonsstored.label "Die wagwoordbestuurder het aanmeldinligting vir die volgende werwe gestoor:">
-<!ENTITY spiel.signonsnotstored.label "Die wagwoordbestuurder sal nooit aanmeldinligting vir die volgende werwe stoor nie:">
-<!ENTITY spiel.nopreview.label "Die vormbestuuder sal nooit vorms van die volgende webwerwe voorskou voor hy dit vir jou invul nie:">
+<!ENTITY spiel.signonsstored.label "Wagwoordbestuurder het gestoorde aanmeldinligting vir die volgende werwe:">
+<!ENTITY spiel.signonsnotstored.label "Wagwoordbestuurder sal nooit aanmeldinligting vir die volgende werwe stoor nie:">
+<!ENTITY spiel.nopreview.label "Die vormbestuuder sal nooit vorms van die volgende webwerwe voorskou voor hy dit vir u invul nie:">
 <!ENTITY spiel.nocapture.label "Die vormbestuuder sal nooit vra om vorms van die volgende webwerwe te stoor nie:">
 
 <!ENTITY treehead.site.label "Werf">

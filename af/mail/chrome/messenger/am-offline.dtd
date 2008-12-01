@@ -1,33 +1,30 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Om skyfspasie te bespaar, moenie aflaai nie:">
 <!ENTITY doNotDownload.label "Om skyfspasie te bespaar, moenie vir aflyngebruik aflaai nie:">
-<!ENTITY offlineNewFolder.label "Wanneer ek nuwe vouers skep, merk hulle as vir aflynstelling">
-<!ENTITY offlineNewFolder.accesskey "a">
+<!ENTITY allFoldersOffline.label "Keep messages for this account on this computer">
+<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Boodskappe groter as">
 <!ENTITY offlineNotDownload.accesskey "B">
 <!ENTITY kb.label "KG">
-<!ENTITY days.label "dae">
 <!ENTITY daysOld.label "dae oud">
 <!ENTITY message.label "boodskappe">
-<!ENTITY nntpNotDownloadRead.label "Lees boodskappe">
-<!ENTITY nntpNotDownloadRead.accesskey "L">
+<!ENTITY nntpNotDownloadRead.label "Read messages">
+<!ENTITY nntpNotDownloadRead.accesskey "d">
 <!ENTITY nntpDownloadMsg.label "Boodskappe van meer as">
 <!ENTITY nntpDownloadMsg.accesskey "o">
 <!ENTITY retentionCleanup.label "Om skyfpasie te herwin, kan ou boodskappe permanent geskrap word">
-<!ENTITY retentionKeepMsg.label "Skrap boodskappe van meer as">
-<!ENTITY retentionKeepMsg.accesskey "b">
-<!ENTITY retentionKeepAll.label "Moenie enige boodskappe skrap nie">
-<!ENTITY retentionKeepAll.accesskey "E">
-<!ENTITY retentionKeepNew.label "Skrap alle behalwe die mees onlangse">
-<!ENTITY retentionKeepNew.accesskey "r">
-<!ENTITY retentionKeepUnread.label "Skrap altyd geleesde boodskappe">
-<!ENTITY retentionKeepUnread.accesskey "g">
+<!ENTITY retentionKeepMsg.label "Delete messages more than">
+<!ENTITY retentionKeepMsg.accesskey "t">
+<!ENTITY retentionKeepAll.label "Don't delete any messages">
+<!ENTITY retentionKeepAll.accesskey "n">
+<!ENTITY retentionKeepNew.label "Delete all but the last">
+<!ENTITY retentionKeepNew.accesskey "b">
+<!ENTITY retentionKeepUnread.label "Always delete read messages">
+<!ENTITY retentionKeepUnread.accesskey "w">
 <!ENTITY nntpRemoveBody.label "Verwyder boodskappe se inhoud wat ouer is as">
 <!ENTITY nntpRemoveBody.accesskey "W">
-<!ENTITY offlineSelectNntp.label "Kies nuusgroepe vir aflyngebruik af...">
-<!ENTITY offlineSelectImap.label "Kies vouers vir aflyngebruik...">
-<!ENTITY offlineSelect.accesskey "K">
-<!ENTITY offlineDesc.label "Jy kan jou boodskappe aflaai sodat hulle beskikbaar is wanneer jy aflyn werk.">
-<!ENTITY makeInboxMsgsAvailable.label "Maak die boodskappe in my inmandjie beskikbaar wanneer ek aflyn werk">
-<!ENTITY makeInboxMsgsAvailable.accesskey "m">
-<!ENTITY offlineGroupTitle.label "Aflyn">
+<!ENTITY offlineSelectNntp.label "Select newsgroups for offline use…">
+<!ENTITY offlineSelectNntp.accesskey "S">
+<!ENTITY offlineImapAdvancedOffline.label "Advanced…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "A">
+<!ENTITY syncGroupTitle.label "Message Synchronizing">
 <!ENTITY diskspaceGroupTitle.label "Skyfspasie">

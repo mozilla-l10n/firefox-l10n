@@ -3,9 +3,9 @@
 <!ENTITY useGlobalPrefs.accesskey "G">
 <!ENTITY useCustomPrefs.label "Pasmaak antwoordstrokies vir hierdie rekening">
 <!ENTITY useCustomPrefs.accesskey "P">
-<!ENTITY requestReceipt.label "Wanneer boodskappe versend word, vra altyd 'n antwoordstrokie aan">
+<!ENTITY requestReceipt.label "Wanneer boodskappe gestuur word, vra altyd 'n antwoordstrokie aan">
 <!ENTITY requestReceipt.accesskey "W">
-<!ENTITY receiptArrive.label "Wanneer 'n antwoordstrokie aankom:">
+<!ENTITY receiptArrive.label "Wanneer 'n strokie aankom:">
 <!ENTITY leaveIt.label "Los dit in my inmandjie">
 <!ENTITY leaveIt.accesskey "I">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
@@ -24,4 +24,4 @@
 <!ENTITY otherCases.accesskey "a">
 <!ENTITY askMe.label "Vra my">
 <!ENTITY alwaysSend.label "Stuur altyd">
-<!ENTITY neverSend.label "Stuur nooit">
+<!ENTITY neverSend.label "Stuur nooit nie">

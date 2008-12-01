@@ -45,16 +45,18 @@
 <!ENTITY folderCharsetTab.accesskey "E">
 <!ENTITY folderCharsetOverride.label "Pas verstek op alle boodskappe in die vouer toe (individuele boodskappe se karakterenkoderingopstelling en outospeur sal geïgnoreer word)">
 <!ENTITY folderCharsetOverride.accesskey "P">
-
+<!ENTITY folderRebuildSummaryFile.label "Herbou indeks">
+<!ENTITY folderRebuildSummaryFile.accesskey "H">
+<!ENTITY folderRebuildSummaryFileTip.label "Herbou opsomminglêer">
+     
 <!ENTITY retention.label "Behoubeleid">
 <!ENTITY retentionUseDefault.label "Gebruik die bediener se verstek">
 <!ENTITY retentionUseDefault.accesskey "v">
-<!ENTITY days.label "dae">
 <!ENTITY daysOld.label "dae oud">
 <!ENTITY message.label "boodskappe">
 <!ENTITY retentionCleanup.label "Om skyfpasie te herwin, kan ou boodskappe permanent geskrap word">
-<!ENTITY retentionKeepMsg.label "Skrap boodskappe van meer as">
-<!ENTITY retentionKeepMsg.accesskey "b">
+<!ENTITY retentionDeleteMsg.label "Skrap boodskappe van meer as">
+<!ENTITY retentionDeleteMsg.accesskey "b">
 <!ENTITY retentionKeepAll.label "Moenie enige boodskappe skrap nie">
 <!ENTITY retentionKeepAll.accesskey "E">
 <!ENTITY retentionKeepNew.label "Skrap alle behalwe die mees onlangse">
@@ -73,19 +75,18 @@
 
 <!ENTITY selectofflineNewsgroup.check.label "Kies hierdie nuusgroep vir aflyngebruik">
 <!ENTITY selectofflineNewsgroup.check.accesskey "g">
-<!ENTITY UseDefaultofflineNewsgroup.check.label "Gebruik die verstek uit rekeningopstelling ">
 <!ENTITY offlineNewsgroup.button.label "Laai nou af">
 <!ENTITY offlineNewsgroup.button.accesskey "L">
 
-<!ENTITY folderProps.information.label "Inligting:">
 <!ENTITY folderProps.name.label "Naam:">
 <!ENTITY folderProps.name.accesskey "N">
+<!ENTITY folderProps.location.label "Location:">
+<!ENTITY folderProps.location.accesskey "L">
 
 <!ENTITY folderSharingTab.label "Deel">
-<!ENTITY privilegesDesc.label "Deel hierdie en ander vouers met netwerkgebruikers en vertoon en stel toegangstoestemming op">
-<!ENTITY privileges.button.label "Toestemming...">
-<!ENTITY privileges.button.accesskey "T">
-<!ENTITY permissionsDesc.label "Jy het die volgende toestemming:">
+<!ENTITY privileges.button.label "Privileges…">
+<!ENTITY privileges.button.accesskey "P">
+<!ENTITY permissionsDesc.label "U het die volgende toestemming:">
 <!ENTITY folderType.label "Vouersoort:">
 
 <!ENTITY folderQuotaTab.label "Kwota">

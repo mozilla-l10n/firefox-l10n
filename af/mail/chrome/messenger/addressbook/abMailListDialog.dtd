@@ -46,7 +46,6 @@
 <!ENTITY ListDescription.label "Beskrywing: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label "Tik e-posadresse in om hulle by die poslys te voeg:">
-<!ENTITY RemoveButton.label "Verwyder">
 <!ENTITY UpButton.label "Skuif op">
 <!ENTITY DownButton.label "Skuif af">
 <!-- Access Keys -->

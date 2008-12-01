@@ -37,7 +37,7 @@
 <!-- Window title -->
 
 <!ENTITY windowTitle.label "Kies Redigeer wysigings">
-<!ENTITY conflictWarning.label "Hierdie bladsy is deur 'n ander program gewysig, maar jy het ook ongestoorde wysigings in Composer.">
-<!ENTITY conflictResolve.label "Kies watter weergawe jy wil hou:">
+<!ENTITY conflictWarning.label "Hierdie bladsy is deur 'n ander program gewysig, maar u het ook ongestoorde wysigings in Composer.">
+<!ENTITY conflictResolve.label "Kies watter weergawe u wil hou:">
 <!ENTITY keepCurrentPageButton.label "Behou huidige bladsywysigings">
 <!ENTITY useOtherPageButton.label "Vervang huidige bladsy met ander wysigings">

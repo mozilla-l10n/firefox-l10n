@@ -69,7 +69,6 @@
 <!ENTITY tableCaptionNone.label "Geen">
 <!ENTITY tableInheritColor.label "(Laat bladsykleur deurskyn)">
 
-<!ENTITY cellPercent.label "persentasie van tabel">
 <!ENTITY cellSelection.label "Seleksie">
 <!ENTITY cellSelectCell.label "Sel">
 <!ENTITY cellSelectRow.label "Ry">
@@ -78,13 +77,7 @@
 <!ENTITY cellSelectNext.accessKey "N">
 <!ENTITY cellSelectPrevious.label "Vorige">
 <!ENTITY cellSelectPrevious.accessKey "V">
-<!ENTITY cellApplyBeforeMove.label "Pas wysigings toe voor seleksie wysig">
-<!ENTITY cellKeepCurrentData.label "Hou huidige opstelling">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label "Huidige wysigings sal toegepas word">
-<!ENTITY applyBeforeChange2.label "voor die seleksie gewysig word.">
-<!ENTITY cellRowSpan.label "Ryoorspanning:">
-<!ENTITY cellColSpan.label "Kolomoorspanning:">
+<!ENTITY applyBeforeChange.label "Current changes will be applied before changing the selection.">
 <!ENTITY cellContentAlignment.label "Inhoudgerigtheid">
 <!ENTITY cellHorizontal.label "Horisontaal:">
 <!ENTITY cellHorizontal.accessKey "S">
@@ -102,7 +95,6 @@
 <!ENTITY cellAlignMiddle.label "Middel">
 <!ENTITY cellAlignBottom.label "Onder">
 <!ENTITY cellAlignJustify.label "Alkanthaaks">
-<!ENTITY cellAlignAtChar.label "Aan die karakter:">
 <!ENTITY cellInheritColor.label "(Laat tabelkleur deurskyn)">
 <!ENTITY cellUseCheckboxHelp.label "Gebruik merkblokkies om te bepaal watter eienskappe op al die gemerkte selle toegepas word">
 <!-- Used in both Table and Cell panels  -->

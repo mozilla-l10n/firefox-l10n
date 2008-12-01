@@ -35,18 +35,20 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY subscribeDialog.title "Subscribe">
+<!ENTITY subscribeDialog.title "Inteken">
 <!ENTITY subscribeButton.label "Inteken">
 <!ENTITY subscribeButton.accesskey "I">
 <!ENTITY unsubscribeButton.label "Afteken">
 <!ENTITY unsubscribeButton.accesskey "A">
+<!ENTITY newGroupsTab.label "New Groups">
+<!ENTITY newGroupsTab.accesskey "N">
 <!ENTITY refreshButton.label "Verfris">
 <!ENTITY refreshButton.accesskey "V">
 <!ENTITY stopButton.label "Stop">
 <!ENTITY stopButton.accesskey "T">
 <!ENTITY server.label "Rekening:">
 <!ENTITY server.accesskey "R">
-<!ENTITY subscribedHeader.label "Subscribe">
+<!ENTITY subscribedHeader.label "Inteken">
 <!-- commenting out until bug 38906 is fixed 
 <!ENTITY messagesHeader.label         "Messages"> -->
 <!ENTITY namefield.label "Wys items wat dit bevat:">

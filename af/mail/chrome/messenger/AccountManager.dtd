@@ -2,16 +2,12 @@
 
 <!ENTITY accountManagerTitle.label "Rekeningopstelling">
 
-<!ENTITY addAccountButton.label "Voeg rekening by...">
-<!ENTITY addAccountButton.accesskey "V">
+<!ENTITY addAccountButton.label "Add Account…">
+<!ENTITY addAccountButton.accesskey "A">
 <!ENTITY setDefaultButton.label "Stel as verstek op">
 <!ENTITY setDefaultButton.accesskey "v">
-<!ENTITY duplicateButton.label "Duplicate">
 <!ENTITY removeButton.label "Verwyder rekening">
 <!ENTITY removeButton.accesskey "V">
-
-<!ENTITY nameCol.label "Naam">
-<!ENTITY duplicate.label "Duplicate">
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      setting dialog, which specifies the width and height in em units of the dialog.
@@ -20,6 +16,6 @@
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
 
-<!ENTITY accountManager.size "width: 55em; height: 50em;">
-<!ENTITY macAccountManager.size "width: 60em; height: 50em;">
+<!ENTITY accountManager.size "width: 63em; height: 50em;">
+<!ENTITY macAccountManager.size "width: 68em; height: 50em;">
 <!ENTITY accountTree.width "width: 17em;">

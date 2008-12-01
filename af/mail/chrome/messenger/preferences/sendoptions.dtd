@@ -4,36 +4,28 @@
 <!ENTITY askMe.label "Vra my wat om te doen">
 <!ENTITY askMe.accesskey "r">
 <!ENTITY convertPlain.label "Skakel die boodskap om na skoonteks">
-<!ENTITY convertPlain.accesskey "s">
+<!ENTITY convertPlain.accesskey "S">
 <!ENTITY sendHTML.label "Stuur die boodskap in elk geval in HTML">
-<!ENTITY sendHTML.accesskey "s">
+<!ENTITY sendHTML.accesskey "S">
 <!ENTITY sendBoth.label "Stuur die boodskap in beide skoonteks en HTML">
 <!ENTITY sendBoth.accesskey "u">
-<!ENTITY receiveHTML.label "As jy weet dat 'n betrokke ontvanger HTML-pos kan ontvang, ontmerk die 'Stuur e-pos as skoonteks (geen HTML nie)'-blokkie in die ontvanger se adresboekkaart.">
 <!ENTITY override.label "Let wel: Gebruik die adresboek om die voorkeur-teksformaat vir ontvangers te spesifiseer.">
 
-<!ENTITY domaindesc.label "Wanneer jy 'n boodskap aan 'n adres uit een van die ondermelde domeins stuur, sal &brandShortName; outomaties in die korrekte formaat gestuur word.">
+<!ENTITY domaindesc.label "Wanneer u 'n boodskap aan 'n adres uit een van die ondermelde domeins stuur, sal &brandShortName; outomaties in die korrekte formaat gestuur word.">
 <!ENTITY HTMLTab.label "HTML-domeins">
-<!ENTITY HTMLTab.accesskey "h">
+<!ENTITY HTMLTab.accesskey "H">
 <!ENTITY PlainTextTab.label "Skoonteks-domeine">
-<!ENTITY PlainTextTab.accesskey "s">
-<!ENTITY AddButton.label "Voeg by...">
-<!ENTITY AddHtmlDomain.accesskey "v">
-<!ENTITY AddPlainText.accesskey "d">
-<!ENTITY DeleteButton.label "Skrap">
-<!ENTITY DeleteHtmlDomain.accesskey "k">
-<!ENTITY DeletePlainText.accesskey "r">
+<!ENTITY PlainTextTab.accesskey "S">
+<!ENTITY AddHtmlDomain.label "Add…">
+<!ENTITY AddHtmlDomain.accesskey "A">
+<!ENTITY AddPlainText.label "Add…">
+<!ENTITY AddPlainText.accesskey "A">
+<!ENTITY DeleteHtmlDomain.label "Delete">
+<!ENTITY DeleteHtmlDomain.accesskey "D">
+<!ENTITY DeletePlainText.label "Delete">
+<!ENTITY DeletePlainText.accesskey "D">
 
 <!ENTITY add.htmltitle "Voeg HTML-domeinnaam by">
 <!ENTITY add.htmldomain "HTML-domeinnaam:">
-<!ENTITY add.htmldomain.accesskey "d">
 <!ENTITY add.plaintexttitle "Voeg skoonteks-domeinnaam by">
 <!ENTITY add.plaintextdomain "Skoonteks-domeinnaam:">
-<!ENTITY add.plaintext.accesskey "d">
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-
-<!ENTITY domainnameError.title "Probleem met domeinnaam">
-<!ENTITY duplicationError.label "Die domeinnaam @sting@ staan reeds in hierdie lys.">
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-
-<!ENTITY dualEntryError.label "'n Domeinnaam kan nie in beide die HTML- en die skoontekslys staan nie. Die domeinnaam @sting@ bestaan reeds.">

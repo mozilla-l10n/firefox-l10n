@@ -1,40 +1,47 @@
-<!ENTITY generalSettings.caption "Verstekopstelling">
-<!ENTITY generalSettings.label "Maak &brandShortName; die verstektoepassing vir:">
-<!ENTITY setDefaultMailClient.label "Pos">
-<!ENTITY setDefaultMailClient.accesskey "P">
-<!ENTITY setDefaultNewsClient.label "Nuus">
-<!ENTITY setDefaultNewsClient.accesskey "N">
-<!ENTITY setDefaultFeedClient.label "RSS-nuusvoer">
-<!ENTITY setDefaultFeedClient.accesskey "U">
-<!ENTITY checkDefaultMailClient.label "&brandShortName; hoort na te gaan of dit die verstek-e-poskliënt is wanneer dit gelaai word">
-<!ENTITY checkDefaultMailClient.accesskey "n">
-<!ENTITY defaultClientAdvanced.label "Gevorderd...">
-<!ENTITY defaultClientAdvanced.accesskey "e">
-
-<!ENTITY windowSettings.label "Vensteropstelling">
-<!ENTITY selectWindowLayout.label "Kies die vensteruitleg wat jy vir pos verkies.">
-<!ENTITY selectWindowLayout.accesskey "K">
+<!ENTITY systemDefaults.label "Stelselverstek">
+<!ENTITY alwaysCheckDefault.label "Kontroleer altyd aan die begin of &brandShortName; die verstek-poskliënt is">
+<!ENTITY alwaysCheckDefault.accesskey "k">
+<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
+  There's some sort of bug which makes wrapping checkboxes not properly reflow,
+  causing the bottom border of the groupbox to be cut off; set this
+  appropriately if your localization causes this checkbox to wrap.
+-->
+<!ENTITY alwaysCheckDefault.height "3em">
+<!ENTITY checkNow.label "Kontroleer nou">
+<!ENTITY checkNow.accesskey "N">
 
 <!ENTITY messengerStartPage.label "&brandShortName; se beginbladsy">
 <!ENTITY enableStartPage.label "Wanneer &brandShortName; laat loop word, wys die beginbladsy in die boodskaparea">
 <!ENTITY enableStartPage.accesskey "W">
 <!ENTITY location.label "Ligging:">
-<!ENTITY location.accesskey "L">
-<!ENTITY useDefault.label "Herstel verstek">
-<!ENTITY useDefault.accesskey "H">
+<!ENTITY location1.accesskey "i">
+<!ENTITY useDefault.label "Laai verstek terug">
+<!ENTITY useDefault.accesskey "L">
 
 <!ENTITY bounceSystemDockIcon.label "Animeer die dokikoon">
 <!ENTITY bounceSystemDockIcon.accesskey "i">
 
 <!ENTITY newMessagesArrive.label "Wanneer nuwe boodskappe arriveer:">
 <!ENTITY playSound.label "Speel 'n klank">
-<!ENTITY playSound.accesskey "S">
+<!ENTITY playSound1.accesskey "k">
 <!ENTITY showAnimatedAlert.label "Wys 'n waarskuwing">
 <!ENTITY showAnimatedAlert.accesskey "W">
-<!ENTITY soundbutton.label "Gevorderde...">
-<!ENTITY soundbutton.accesskey "G">
+<!ENTITY customizeMailAlert.label "Customize…">
+<!ENTITY customizeMailAlert.accesskey "C">
 
-<!ENTITY showConnections.label "Koppellingsinstellings...">
-<!ENTITY showConnections.accesskey "o">
-<!ENTITY proxiesInfo.label "Bepaal hoe &brandShortName; aan die internet koppel.">
-<!ENTITY connectionsInfo.caption "Verbinding">
+<!ENTITY play.label "Speel">
+<!ENTITY play.accesskey "S">
+<!ENTITY systemsound.label "Verstekstelsel-klank vir nuwe pos">
+<!ENTITY systemsoundMac.label "Stelsel-waarskuklank">
+<!ENTITY systemsoundMac.accesskey "t">
+<!ENTITY systemsound.accesskey "t">
+<!ENTITY customsound.label "Gebruik die volgende klanklêer">
+<!ENTITY customsound.accesskey "G">
+<!ENTITY browse.label "Browse…">
+<!ENTITY browse.accesskey "B">
+
+<!ENTITY addonsMgr.label "Add-ons">
+<!ENTITY manageAddonsDescWin.label "Change options for your add-ons">
+<!ENTITY manageAddonsDescUnix2.label "Change preferences for your add-ons">
+<!ENTITY manageAddons.label "Manage Add-ons…">
+<!ENTITY manageAddons.accesskey "M">

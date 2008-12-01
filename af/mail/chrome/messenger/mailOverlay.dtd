@@ -1,8 +1,8 @@
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessageCmd.key "M">
 <!ENTITY newMessageCmd.label "Boodskap">
-<!ENTITY newMessageCmd.accesskey "b">
+<!ENTITY newMessageCmd.accesskey "o">
  
-<!ENTITY newCardCmd.label "Adresboekkaart...">
-<!ENTITY newCardCmd.accesskey "k">
+<!ENTITY newCardCmd.label "Address Book Card…">
+<!ENTITY newCardCmd.accesskey "c">
 

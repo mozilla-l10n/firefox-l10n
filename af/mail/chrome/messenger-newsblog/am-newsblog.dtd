@@ -10,11 +10,11 @@
 <!ENTITY useQuickMode.label "Wys by verstek die artikelopsomming in plaas daarvan om die webbladsy te laai">
 <!ENTITY useQuickMode.accesskey "B">
 
-<!ENTITY manageSubscriptions.label "Bestuur intekeninge...">
-<!ENTITY manageSubscriptions.accesskey "B">
+<!ENTITY manageSubscriptions.label "Manage Subscriptions…">
+<!ENTITY manageSubscriptions.accesskey "M">
 <!-- entities from defaults/isp/rss.rdf -->
 
-<!ENTITY rss.accountName "News &amp; Blogs">
+<!ENTITY rss.accountName "Nuus en webjoernale">
 <!ENTITY rss.wizardShortName "RSS">
 <!ENTITY rss.wizardLongName "RSS-nuus en webjoernale">
-<!ENTITY rss.hostName "News &amp; Blogs">
+<!ENTITY rss.wizardLongName.accesskey "R">

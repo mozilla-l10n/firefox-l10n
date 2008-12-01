@@ -1,7 +1,5 @@
 <!-- these things need to move into utilityOverlay.xul -->
-<!ENTITY offlineGoOfflineCmd.label "Werk aflyn">
-<!ENTITY offlineGoOfflineCmd.accesskey "w">
-<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
 
 <!ENTITY fileMenu.label "Lêer">
@@ -11,9 +9,9 @@
 
 <!ENTITY editMenu.label "Redigeer">
 <!ENTITY editMenu.accesskey "r">
-<!ENTITY undoCmd.label "Herstel">
+<!ENTITY undoCmd.label "Ontdoen">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "h">
+<!ENTITY undoCmd.accesskey "o">
 <!ENTITY redoCmd.label "Herdoen">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "h">
@@ -27,18 +25,14 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "p">
 <!ENTITY deleteCmd.label "Skrap">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "s">
 <!ENTITY selectAllCmd.label "Merk alles">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY preferencesCmd.label "Opsies...">
+<!ENTITY preferencesCmd.label "Options…">
 <!ENTITY preferencesCmd.accesskey "O">
-<!ENTITY preferencesCmdUnix.label "Voorkeur">
+<!ENTITY preferencesCmdUnix.label "Voorkeure">
 <!ENTITY preferencesCmdUnix.accesskey "k">
-
-<!ENTITY findTypeTextCmd.label "Vind teks soos jy tik">
-<!ENTITY findTypeTextCmd.accesskey "k">
 
 <!ENTITY viewMenu.label "Bekyk">
 <!ENTITY viewMenu.accesskey "b">
@@ -47,22 +41,14 @@
 <!ENTITY showTaskbarCmd.label "Statusbalk">
 <!ENTITY showTaskbarCmd.accesskey "S">
 
-<!ENTITY direct.label "Aanlyn (instaanbediener: geen)">
-<!ENTITY direct.accesskey "a">
-<!ENTITY manual.label "Aanlyn (instaanbediener: handmatig)">
-<!ENTITY manual.accesskey "h">
-<!ENTITY pac.label "Aanlyn (instaanbediener: outo)">
-<!ENTITY pac.accesskey "o">
-
-<!ENTITY proxy.label "Instaanbedieneropstelling...">
-<!ENTITY proxy.accesskey "O">
-
-<!ENTITY findTypeTextCmd.key "/">
-<!ENTITY findTypeLinksCmd.key "'">
+<!ENTITY proxy.label "Proxy Configuration…">
+<!ENTITY proxy.accesskey "C">
 
 <!ENTITY closeCmd.label "Sluit">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "s">
+
+<!ENTITY closeWindow.label "Sluit venster">
 
 <!ENTITY quitApplicationCmd.label "Afsluit">
 <!ENTITY quitApplicationCmd.key "Q">
@@ -71,3 +57,5 @@
 <!ENTITY quitApplicationCmdUnix.label "Afsluit">
 <!ENTITY quitApplicationCmdUnix.accesskey "a">
 
+<!ENTITY quitApplicationCmdMac.label "Quit &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey "q">

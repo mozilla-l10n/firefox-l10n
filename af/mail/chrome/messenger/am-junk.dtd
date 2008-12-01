@@ -1,17 +1,20 @@
-<!ENTITY junkSettings.label "Junk Settings">
-<!ENTITY trainingWarning.label "Indien geaktiveer, moet jy eers &brandShortName; oplei om gemorspos te herken deur met die Gemorspos-nutsbalkknoppie boodskappe as gemors te merk of nie. Jy kan beide gemors- en niegemors-boodskappe identifiseer.">
-<!ENTITY level.label "Enable adaptive junk mail controls for this account">
-<!ENTITY level.accesskey "E">
+<!ENTITY junkSettings.label "Gemorspos-opstelling">
+<!ENTITY trainingWarning.label "Indien geaktiveer, moet u eers &brandShortName; oplei om gemorspos te herken deur met die Gemorspos-nutsbalkknoppie boodskappe as gemors te merk of nie. U kan beide gemors- en niegemors-boodskappe identifiseer.">
+<!ENTITY level.label "Aktiveer aanpassende gemorsposkontrole vir hierdie rekening">
+<!ENTITY level.accesskey "A">
 
 <!ENTITY move.label "Move new junk messages to:">
-<!ENTITY junkFolderOn.label "&quot;Gemorspos&quot;-vouer op:">
-<!ENTITY otherFolder.label "Ander:">
-<!ENTITY purge1.label "Automatically delete junk mail older than">
-<!ENTITY purge1.accesskey "u">
+<!ENTITY move.accesskey "M">
+<!ENTITY junkFolderOn.label "&quot;Junk&quot; folder on:">
+<!ENTITY junkFolderOn.accesskey "J">
+<!ENTITY otherFolder.label "Other:">
+<!ENTITY otherFolder.accesskey "O">
+<!ENTITY purge1.label "Skrap gemorspos outomaties indien ouer as">
+<!ENTITY purge1.accesskey "o">
 <!ENTITY purge2.label "dae">
 
-<!ENTITY whitelist.label "Do not mark mail as junk if the sender is in: ">
-<!ENTITY whitelist.accesskey "D">
+<!ENTITY whitelist.label "Moenie boodskappe as gemorspos merk as die afsender hierin is nie: ">
+<!ENTITY whitelist.accesskey "M">
 
 <!ENTITY ispHeaders.label "Vertrou gemorspos-kopskrifte wat opgestel is deur: ">
 <!ENTITY ispHeaders.accesskey "V">

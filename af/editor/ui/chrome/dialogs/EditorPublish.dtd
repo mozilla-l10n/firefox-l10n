@@ -36,53 +36,63 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
 
-
 <!ENTITY windowTitle.label "Publiseer bladsy">
 <!ENTITY windowTitleSettings.label "Publiseer-opstelling">
-
 <!ENTITY publishTab.label "Publiseer">
 <!ENTITY settingsTab.label "Opstelling">
-
 <!ENTITY publishButton.label "Publiseer">
 <!-- Publish Tab Panel -->
 
 <!ENTITY siteList.label "Site Name:">
-<!ENTITY siteList.tooltip "Kies die werf waarheen jy wil publiseer">
-<!ENTITY newSiteButton.label "Nuwe werf">
-<!ENTITY siteDirList.label "Kies of tik 'n gidsnaam in jou publiseerwerf in:">
-<!ENTITY siteDirList.tooltip "Kies of tik die naam van die afgeleë subgids waarin gepubliseer moet word, in">
-<!ENTITY docDirList.label "Werfsubgids vir hierdie bladsy:">
-<!ENTITY publishImgCheckbox.label "Sluit prente en ander lêers in">
+<!ENTITY siteList.accesskey "e">
+<!ENTITY siteList.tooltip "Kies die werf waarheen u wil publiseer">
+<!ENTITY newSiteButton.label "New Site">
+<!ENTITY newSiteButton.accesskey "N">
+<!ENTITY docDirList.label "Site subdirectory for this page:">
+<!ENTITY docDirList.accesskey "S">
+<!ENTITY docDirList.tooltip "Choose or enter the name of the remote subdirectory for this page">
+<!ENTITY publishImgCheckbox.label "Include images and other files">
+<!ENTITY publishImgCheckbox.accesskey "o">
 <!ENTITY publishImgCheckbox.tooltip "Publiseer prente en ander lêers waarna hierdie bladsy verwys">
-<!ENTITY sameLocationRadio.label "Gebruik dieselfde ligging as bladsy">
+<!ENTITY sameLocationRadio.label "Use same location as page">
+<!ENTITY sameLocationRadio.accesskey "U">
 <!ENTITY sameLocationRadio.tooltip "Publiseer lêers na dieselfde ligging as die bladsy">
-<!ENTITY useSubdirRadio.label "Gebruik hierdie werfsubgids:">
-<!ENTITY useSubdir.tooltip "Kies of tik naam van afgeleë subgids in waarin lêers gepubliseer gaan word">
-<!ENTITY chooseDirButton.label "Kies...">
-<!ENTITY pageTitle.label "Bladsytitel:">
+<!ENTITY useSubdirRadio.label "Use this site subdirectory:">
+<!ENTITY useSubdirRadio.accesskey "d">
+<!ENTITY useSubdirRadio.tooltip "Publish files to the selected remote subdirectory">
+<!ENTITY otherDirList.tooltip "Kies of tik naam van afgeleë subgids in waarin lêers gepubliseer gaan word">
+<!ENTITY pageTitle.label "Page Title:">
+<!ENTITY pageTitle.accesskey "T">
 <!ENTITY pageTitle.tooltip "Tik 'n titel in om die bladsy te identifiseer in die venstertitel en boekmerke">
 <!ENTITY pageTitleExample.label "bv: &quot;My webwerf&quot;">
-<!ENTITY filename.label "Lêernaam:">
+<!ENTITY filename.label "Filename:">
+<!ENTITY filename.accesskey "F">
 <!ENTITY filename.tooltip "Tik 'n naam vir hierdie lêer in, insluitend '.html' vir 'n webwerf">
 <!ENTITY filenameExample.label "bv: &quot;mywerf.html&quot;">
-<!ENTITY relatedDocs.label "Ander lêers om te publiseer">
-<!ENTITY setDefaultButton.label "Kies as verstek">
-<!ENTITY setDefSiteAndDir.label "Stel op as verstek-werf en -subgids">
-<!ENTITY removeButton.label "Verwyder werf">
+<!ENTITY setDefaultButton.label "Set as Default">
+<!ENTITY setDefaultButton.accesskey "D">
+<!ENTITY removeButton.label "Remove Site">
+<!ENTITY removeButton.accesskey "R">
 <!-- Settings Tab Panel -->
 
 <!ENTITY publishSites.label "Publiseer werwe">
 <!ENTITY serverInfo.label "Bedienerinligting">
 <!ENTITY loginInfo.label "Aanmeldinligting">
 <!ENTITY siteName.label "Site Name:">
+<!ENTITY siteName.accesskey "e">
 <!ENTITY siteName.tooltip "'n Kennaam wat hierdie publiseerwerf identifiseer (bv: 'MyWerf')">
-<!ENTITY siteUrl.label "Publiseeradres (bv: 'ftp://ftp.myisp.com/mygebruikernaam'):">
-<!ENTITY siteUrl.tooltip "Die FTP://- of HTTP://-adres wat deur jou ISP of webgasheer verskaf is">
-<!ENTITY browseUrl.label "HTTP-adres van jou tuisblad (bv: 'http://www.myisp.com/mygebruikernaam'):">
-<!ENTITY browseUrl.tooltip "Die HTTP://-adres van jou tuissubgids (moenie lêernaam insluit nie)">
-<!ENTITY username.label "Gebruikernaam:">
-<!ENTITY username.tooltip "Die gebruikernaam waarmee jy by jou ISP of webgasheer aanmeld">
-<!ENTITY password.label "Wagwoord:">
-<!ENTITY password.tooltip "Die wagwoord wat by jou gebruikernaam pas">
-<!ENTITY savePassword.label "Stoor wagwoord">
-<!ENTITY savePassword.tooltip "Selekteer dit om jou wagwoord beveilig met die wagwoordbestuurder te stoor">
+<!ENTITY siteUrl.label "Publishing address (e.g.: 'ftp://ftp.myisp.com/myusername'):">
+<!ENTITY siteUrl.accesskey "a">
+<!ENTITY siteUrl.tooltip "Die FTP://- of HTTP://-adres wat deur u ISP of webgasheer verskaf is">
+<!ENTITY browseUrl.label "HTTP address of your homepage (e.g.: 'http://www.myisp.com/myusername'):">
+<!ENTITY browseUrl.accesskey "T">
+<!ENTITY browseUrl.tooltip "Die HTTP://-adres van u tuissubgids (moenie lêernaam insluit nie)">
+<!ENTITY username.label "User name:">
+<!ENTITY username.accesskey "U">
+<!ENTITY username.tooltip "Die gebruikernaam waarmee u by u ISP of webgasheer aanmeld">
+<!ENTITY password.label "Password:">
+<!ENTITY password.accesskey "w">
+<!ENTITY password.tooltip "Die wagwoord wat by u gebruikernaam pas">
+<!ENTITY savePassword.label "Save Password">
+<!ENTITY savePassword.accesskey "S">
+<!ENTITY savePassword.tooltip "Selekteer dit om u wagwoord beveilig met die wagwoordbestuurder te stoor">

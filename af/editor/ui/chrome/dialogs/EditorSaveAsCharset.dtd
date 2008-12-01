@@ -43,6 +43,6 @@
 <!ENTITY windowTitle.label "Stoor en wysig karakter-enkodering">
 <!ENTITY documentTitleTitle.label "Bladsytitel">
 <!ENTITY documentCharsetTitle.label "Karakterenkodering">
-<!ENTITY documentCharsetDesc.label "Kies die karakterenkodering waarin jy 'n dokument wil stoor:">
+<!ENTITY documentCharsetDesc.label "Kies die karakterenkodering waarin u 'n dokument wil stoor:">
 <!ENTITY documentExportToText.label "Voer uit na teks">
 

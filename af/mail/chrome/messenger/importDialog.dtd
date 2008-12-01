@@ -20,6 +20,7 @@
  the Initial Developer. All Rights Reserved.
 
  Contributor(s):
+     Jeff Beckley <beckley@qualcomm.com>
 
  Alternatively, the contents of this file may be used under the terms of
  either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -38,36 +39,41 @@
 LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
 Netscape Communicator, Please translate using the brandname in respective 
 languages for Netscape Communicator 4 releases.
-LOCALIZATION NOTE : Do not translate any of the occurances of the word 
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
 "&brandShortName;" below.
 -->
 
 
 <!ENTITY importDialog.windowTitle "Invoer">
+<!ENTITY importDialog.allTitle "Import everything">
 <!ENTITY importDialog.mailTitle "Pos">
 <!ENTITY importDialog.addressbookTitle "Adresboeke">
 <!ENTITY importDialog.settingsTitle "Opstelling">
+<!ENTITY importDialog.filtersTitle "Filters">
 
-<!ENTITY importTitle.label "&brandShortName; se posinvoerslimmerd">
-<!ENTITY importDesc.label "Voer pos, adresboeke en die opstelling van ander programme in">
+<!ENTITY window.width "40em">
+<!ENTITY window.macWidth "45em">
 
-<!ENTITY importDescription.label "Hierdie slimmerd sal posboodskappe, adresboekinskrywings en/of voorkeure uit ander posprogramme en algemene adresboekvormate na &brandShortName;-pos invoer.">
-<!ENTITY importDescription2.label "Sodra dit ingevoer is, sal jy daartoe toegang vanuit &brandShortName;-pos en/of -adresboek verkry.">
+<!ENTITY importTitle.label "&brandShortName; Import Wizard">
+<!ENTITY importShortDesc.label "Import Mail, Address Books, Settings, and Filters from other programs">
 
-<!ENTITY selectDescription.label "Kies uit watter program jy wil invoer:">
+<!ENTITY importDescription1.label "This wizard will import mail messages, address book entries, preferences, and/or filters from other mail programs and common address book formats into &brandShortName;.">
+<!ENTITY importDescription2.label "Once they have been imported, you will be able to access them from within &brandShortName;.">
+
+<!ENTITY selectDescription.label "Please select the type of file that you would like to import:">
 
 <!ENTITY back.label "&lt; Terug">
 <!ENTITY forward.label "Volgende &gt;">
 <!ENTITY finish.label "Klaar">
 <!ENTITY cancel.label "Kanselleer">
 
-<!ENTITY select.label "Kies die soort materiaal om in te voer:">
+<!ENTITY select.label "or select the type of material to import:">
 
 <!ENTITY title.label "Titel">
-<!ENTITY processing.label "Voer tans in...">
+<!ENTITY processing.label "Importing…">
 
 <!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x het een posadres vir elke kaart, maar &brandShortName; het twee (huis en werk).">
-<!ENTITY FieldDiscInputText2.label "Kies die kategorie waarin jy die ingevoerde posadresse wil stoor:">
+<!ENTITY FieldDiscInputText2.label "Kies die kategorie waarin u die ingevoerde posadresse wil stoor:">
 <!ENTITY FieldDiscWarning.label "Hierdie kategorie kan vir al die inskrywings van die gekose adresboek gebruik word: ">
 <!ENTITY importDialog.homeTitle "Huis">
 <!ENTITY importDialog.workTitle "Werk">

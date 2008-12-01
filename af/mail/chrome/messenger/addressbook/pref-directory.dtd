@@ -36,15 +36,12 @@
  ***** END LICENSE BLOCK ***** -->
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 
-<!ENTITY pref.ldap.window.title "LDAP Directory Servers">
-<!ENTITY directory.label "Voeg 'n gids by">
+<!ENTITY pref.ldap.window.title "LDAP-gidsbedieners">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "LDAP-gidsbediener:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 <!ENTITY directoriesText.label "Kies 'n LDAP-gidsbediener:">
 <!ENTITY directoriesText.accesskey "K">
-<!-- LOCALIZATION NOTE (autocomplete.title) : do not translate "LDAP" in below line -->
-<!ENTITY autocomplete.title "LDAP-gidsbediener">
 <!ENTITY addDirectory.label "Voeg by">
 <!ENTITY addDirectory.accesskey "v">
 <!ENTITY editDirectory.label "Redigeer">

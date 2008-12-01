@@ -2,7 +2,7 @@
 
 <!ENTITY title.label "Boodskapsekuriteit">
 <!ENTITY subject.plaintextWarning "Let wel: E-posse se onderwerpreëls word nooit geënkripteer nie.">
-<!ENTITY status.heading "Die inhoud van jou boodskap sal as volg versend word:">
+<!ENTITY status.heading "Die inhoud van u boodskap sal as volg versend word:">
 <!ENTITY status.signed "Digitaal onderteken:">
 <!ENTITY status.encrypted "Geënkripteer:">
 <!ENTITY status.certificates "Sertifikate:">

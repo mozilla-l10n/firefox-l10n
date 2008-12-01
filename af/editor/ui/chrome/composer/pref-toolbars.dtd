@@ -52,7 +52,7 @@
 <!ENTITY hline.label "H.streep">
 <!ENTITY table.label "Tabel">
 <!ENTITY link.label "Skakel">
-<!ENTITY anchor.label "Veranker">
+<!ENTITY anchor.label "Anker">
 
 <!ENTITY formatting.caption "Toon hierdie knoppies in die formateer-nutsbalk:">
 

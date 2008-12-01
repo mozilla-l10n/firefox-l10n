@@ -44,19 +44,21 @@
 <!ENTITY checkbox.value "Merkkassie">
 <!ENTITY radio.value "Klinkknoppie">
 <!ENTITY submit.value "Indien-knoppie">
-<!ENTITY reset.value "Terugstel-knoppie">
+<!ENTITY reset.value "Teruglaai-knoppie">
 <!ENTITY file.value "Lêer">
 <!ENTITY hidden.value "Verskuil">
 <!ENTITY image.value "Prent">
 <!ENTITY button.value "Knoppie">
 
 <!ENTITY InputSettings.label "Veldopstelling">
-<!ENTITY InputName.label "Veldnaam:">
-<!ENTITY GroupName.label "Groepnaam:">
-<!ENTITY Name.accesskey "N">
-<!ENTITY InputValue.label "Veldwaarde:">
-<!ENTITY InitialValue.label "Aanvangswaarde:">
-<!ENTITY Value.accesskey "w">
+<!ENTITY InputName.label "Field Name:">
+<!ENTITY InputName.accesskey "N">
+<!ENTITY GroupName.label "Group Name:">
+<!ENTITY GroupName.accesskey "N">
+<!ENTITY InputValue.label "Field Value:">
+<!ENTITY InputValue.accesskey "V">
+<!ENTITY InitialValue.label "Initial Value:">
+<!ENTITY InitialValue.accesskey "V">
 <!ENTITY InputChecked.label "Aanvanklik gemerk">
 <!ENTITY InputChecked.accesskey "G">
 <!ENTITY InputSelected.label "Aanvanklik gekies">
@@ -76,5 +78,5 @@
 <!ENTITY Accept.label "Aanvaar soorte:">
 <!ENTITY Accept.accesskey "A">
 
-<!ENTITY ImageProperties.label "Prenteienskappe...">
-<!ENTITY ImageProperties.accesskey "T">
+<!ENTITY ImageProperties.label "Image Properties…">
+<!ENTITY ImageProperties.accesskey "E">

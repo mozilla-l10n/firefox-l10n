@@ -2,17 +2,10 @@
 
 <!ENTITY securitySettings.label "Sekuriteitsopstelling">
 <!ENTITY serverSettings.label "Bedieneropstelling">
-<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
-<!ENTITY popServer.label "POP-posbediener">
-<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
-<!ENTITY imapServer.label "IMAP-posbediener">
-<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
-<!ENTITY newsServer.label "Nuusgroepbediener (NNTP)">
-<!ENTITY webmail.label "Webposbus-rekening">
 <!ENTITY serverType.label "Bedienersoort:">
 <!ENTITY serverName.label "Bedienernaam:">
 <!ENTITY serverName.accesskey "B">
-<!ENTITY userName.label "Gebruikernaame:">
+<!ENTITY userName.label "Gebruikername:">
 <!ENTITY userName.accesskey "N">
 <!ENTITY port.label "Poort:">
 <!ENTITY port.accesskey "P">
@@ -23,8 +16,8 @@
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
 -->
-<!ENTITY biffStart.label "Kontroleer vir nuwe boodskappe elke ">
-<!ENTITY biffStart.accesskey "k">
+<!ENTITY biffStart.label "Check for new messages every ">
+<!ENTITY biffStart.accesskey "y">
 <!ENTITY biffEnd.label "minute">
 <!ENTITY isSecure.label "Gebruik veilige verbinding (SSL)">
 <!ENTITY isSecure.accesskey "G">
@@ -46,19 +39,18 @@
 <!ENTITY deleteByAgeFromServer.label "Vir die meeste">
 <!ENTITY deleteByAgeFromServer.accesskey "i">
 <!ENTITY daysEnd.label "dae">
-<!ENTITY deleteOnServer.label "Tot ek dit uit my inkassie skrap of verskuif">
-<!ENTITY deleteOnServer.accesskey "s">
+<!ENTITY deleteOnServer2.label "Totdat ek dit skrap">
+<!ENTITY deleteOnServer2.accesskey "s">
 <!ENTITY downloadOnBiff.label "Laai outomaties nuwe boodskappe af">
 <!ENTITY downloadOnBiff.accesskey "e">
-<!ENTITY hostname.label "Bedienergasheernaam">
-<!ENTITY username.label "Jou aanmeldnaam">
-<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
-<!ENTITY popServerTitle.label "POP-bedienerinligting">
-<!ENTITY deleteMessagePrefix.label "Wanneer ek 'n boodskap skrap:">
-<!ENTITY deleteMessagePrefix.accesskey "W">
-<!ENTITY modelMoveToTrash.label "Verskuif dit na die snippermandjie">
-<!ENTITY modelMarkDeleted.label "Merk dit as geskrap">
-<!ENTITY modelDeleteImmediately.label "Verwyder dit dadelik">
+<!ENTITY username.label "U aanmeldnaam">
+<!ENTITY deleteMessagePrefix.label "When I delete a message:">
+<!ENTITY modelMoveToTrash.label "Move it to this folder:">
+<!ENTITY modelMoveToTrash.accesskey "o">
+<!ENTITY modelMarkDeleted.label "Just mark it as deleted">
+<!ENTITY modelMarkDeleted.accesskey "k">
+<!ENTITY modelDeleteImmediately.label "Remove it immediately">
+<!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Maak inmandjie leeg tydens afsluiting (&quot;Deurhaal&quot;)">
 <!ENTITY expungeOnExit.accesskey "D">
@@ -66,9 +58,9 @@
 <!ENTITY emptyTrashOnExit.accesskey "a">
 <!ENTITY loginAtStartup.label "Gaan na vir nuwe boodskappe aan begin">
 <!ENTITY loginAtStartup.accesskey "G">
-<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-	 of messages between them
+   of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Vra my voor meer aflaai as">
 <!ENTITY maxMessagesStart.accesskey "v">
@@ -76,19 +68,17 @@
 <!ENTITY maxMessagesEnd.label "boodskappe">
 <!ENTITY alwaysAuthenticate.label "Versoek altyd stawing wanneer aan hierdie bediener koppel">
 <!ENTITY alwaysAuthenticate.accesskey "e">
-<!ENTITY newsrcFilePath.label "newsrc-lêer:">
-<!ENTITY newsrcFilePath.accesskey "l">
-<!ENTITY localPath.label "Plaaslike gids:">
-<!ENTITY localPath.accesskey "P">
+<!ENTITY newsrcFilePath.label "newsrc file:">
+<!ENTITY localPath.label "Local directory:">
 <!ENTITY abbreviate.label "Vertoon nuusgroepname in die posvouer-paneel as:">
 <!ENTITY abbreviateOn.label "Volledige name (byvoorbeeld 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Afgekorte name (byvoorbeeld 'n.p.m.mail-news')">
-<!ENTITY advancedButton.label "Gevorderd...">
+<!ENTITY advancedButton.label "Advanced…">
+<!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset.label "Verstek-karakterenkodering:">
-<!ENTITY advancedButton.accesskey "o">
 <!ENTITY localFolderPicker.label "Kies plaaslike gids">
-<!ENTITY browseFolder.label "Blaai...">
+<!ENTITY browseFolder.label "Browse…">
 <!ENTITY browseFolder.accesskey "B">
 <!ENTITY newsrcPicker.label "Kies newsrc-lêer">
-<!ENTITY browseNewsrc.label "Blaai...">
-<!ENTITY browseNewsrc.accesskey "l">
+<!ENTITY browseNewsrc.label "Browse…">
+<!ENTITY browseNewsrc.accesskey "e">

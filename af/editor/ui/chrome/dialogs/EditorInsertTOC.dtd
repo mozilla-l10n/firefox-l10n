@@ -37,7 +37,6 @@
 
 <!ENTITY Window.title "Inhoudsopgawe">
 <!ENTITY buildToc.label "Bou tabel op uit inhoud van:">
-<!ENTITY style.label "Styl:">
 <!ENTITY tag.label "Merker:">
 <!ENTITY class.label "Klas:">
 <!ENTITY header1.label "Vlak 1">
