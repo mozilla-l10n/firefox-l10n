@@ -1,26 +1,26 @@
-<!ENTITY addressBookCmd.accesskey "A">
+<!ENTITY addressBookCmd.accesskey "כ">
 <!ENTITY addressBookCmd.label "פנקס כתובות">
 
-<!ENTITY calendar.import.accesskey "I">
-<!ENTITY calendar.import.label "ייבא מקובץ...">
-<!ENTITY calendar.new.server.accesskey "l">
+<!ENTITY calendar.import.accesskey "י">
+<!ENTITY calendar.import.label "ייבא מקובץ…">
+<!ENTITY calendar.new.server.accesskey "ח">
 <!ENTITY calendar.new.server.label "יומן חדש">
 
-<!ENTITY calendar.print.accesskey "P">
-<!ENTITY calendar.print.label "הדפס יומנים פעילים...">
+<!ENTITY calendar.print.accesskey "ה">
+<!ENTITY calendar.print.label "הדפס יומנים פעילים…">
 
-<!ENTITY calendar.publish.accesskey "S">
-<!ENTITY calendar.publish.label "פרסם את האירועים שנבחרו....">
+<!ENTITY calendar.publish.accesskey "פ">
+<!ENTITY calendar.publish.label "פרסם את האירועים שנבחרו…">
 
 <!ENTITY event.new.event "אירוע חדש">
-<!ENTITY event.new.event.accesskey "N">
+<!ENTITY event.new.event.accesskey "א">
 <!ENTITY event.new.todo "מטלה חדשה">
-<!ENTITY event.new.todo.accesskey "T">
+<!ENTITY event.new.todo.accesskey "מ">
 
-<!ENTITY goPreviousCmd.accesskey "P">
+<!ENTITY goPreviousCmd.accesskey "ק">
 
-<!ENTITY goTodayCmd.accesskey "T">
-<!ENTITY goTodayCmd.label "לך להיום">
+<!ENTITY goTodayCmd.accesskey "ה">
+<!ENTITY goTodayCmd.label "עבור להיום">
 
 
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "מ">
