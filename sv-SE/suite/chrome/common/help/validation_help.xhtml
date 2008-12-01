@@ -74,44 +74,44 @@
   Certifikathanteraren att utföra en direktkontroll av ett certifikats
   giltighet varje gång certifikatet visas eller används. Denna process
   innefattar kontroll av certifikatet mot en spärrlista över indragna certifikat
-  (CRL), som finns på en specificerad webbplats. Din dator måste vara uppkopplad
+  (CRL), som upprätthålls på en särskild server. Din dator måste vara uppkopplad
   för att OCSP ska fungera.</p>
 
 <p>För att ange hur Certifikathanteraren ska använda OCSP, välj en av dessa
   inställningar i sektionen OCSP i inställningarna för Validering:</p>
 
-<ul><!-- Staemmer inte : gammal dialog, bug 459552 -->
-  <li><strong>Använd inte OCSP för bekräftelse av certifikat</strong>: Välj
-    denna inställning om du inte vill att Certifikathanteraren ska utföra en
-    kontroll varje gång den verifierar ett certifikat. Certifikathanteraren
-    kommer i stället att utföra en
-    <a href="glossary.xhtml#certificate_verification">certifikatverifiering</a>,
-    genom att kontrollera certifikatets giltighetsperiod och att det är korrekt
-    signerat av en CA vars egna CA-certifikat både är listat under fliken
-    Utfärdare (i fönstret Certifikathanteraren) och är markerat som betrodd att
-    utfärda denna typ av certifikat.</li>
-  <li><strong>Använd endast OCSP för att bekräfta certifikat som anger en
-    OCSP-tjänsts URL</strong>: Välj denna inställning om du vill att
-    Certifikathanteraren utför en kontroll över nätverket varje gång den
-    verifierar ett certifikat som angett en URL för det ändamålet. Om en URL är
-    angiven av certifikatet kommer Certifikathanteraren att säkerställa att
-    certifikatet där är listat som giltigt och också kontrollera certifikatets
-    giltighetsperiod och utfärdarens tillitsinställningar.</li>
-  <li><strong>Använd OCSP till att bekräfta alla certifikat med denna URL och
-    signerare</strong>: Välj denna inställning om du vill att
-    Certifikathanteraren utför en kontroll över nätverket varje gång den
-    verifierar ett certifikat. Om du väljer detta bör du också välja det
-    certifikat från rullgardinsmenyn Svarssignerare som identifierar signeraren
-    av OCSP-svar. Med denna inställning kommer endast Certifikathanteraren att
-    erkänna certifikat som kan verifieras av ett OCSP-svar signerat med ett
-    Svarssignerarcertifikat (eller signerat med ett certifikat som är knutet
-    till ett Svarssignerarcertifikat).
+<ul>
+  <li><strong>Använd Online Certificate Status Protocol (OCSP) för att bekräfta
+    att certifikat är giltiga</strong>: Markera denna inställning om du vill att
+    Certifikathanteraren ska utföra en statuskontroll över nätet varje gång den
+    verifierar ett certifikat. Om denna inställning är avmarkerad, kommer
+    Certifikathanteraren bara att bekräfta certifikatets giltighetsperiod, och
+    att det är korrekt signerat av en CA vars eget CA-certifikat både är listat
+    under fliken Utfärdare (i fönstret Certifikathanteraren) och markerat som
+    betrott att utfärda den typen av certifikat.</li>
+  <li><strong>Validera ett certifikat om det uppger en OCSP-server</strong>:
+    Markera denna inställning för validering över nätet av certifikat som uppger
+    en valideringstjänstadress (URL för tjänsten). Certifikathanteraren
+    säkerställer att certifikatet är listat som giltigt på den adressen, och
+    kontrollerar giltighetsperiod och tillitsinställningar.</li>
+  <li><strong>Validera alla certifikat med följande OCSP-server</strong>:
+    Markera denna inställning om du vill ange en OCSP-server för validering av
+    alla certifikat. Om du markerar denna inställning, ska du också välja det
+    certifikat från rullgardinsmenyn Svarssignerare, vilket identifierar
+    signeraren av OCSP-svar. Med denna inställning kommer Certifikathanteraren
+    bara att erkänna certifikat, som kan verifieras av ett OCSP-svar signerat
+    med svarssignerarcertifikatet (eller signerat med ett certifikat som är
+    knutet till det).
 
     <p>När du väljer ett Svarssignerarcertifikat från rullgardinsmenyn kommer
       Certifikathanteraren att fylla i en tjänst-URL (om den är tillgänglig)
       för den signeraren automatiskt. Om tjänst-URLen inte fylls i automatiskt
       måste du fylla i den själv; fråga din systemadministratör för detaljer.</p>
   </li>
+  <li><strong>När anslutningen till en OCSP-server misslyckas, betrakta
+    certifikatet som ogiltigt</strong>: Markera detta om du vill att
+    valideringen ska misslyckas när en anslutning till OCSP-servern inte kan
+    upprättas.</li>
 </ul>
 
 <h2 id="manage_crls">Hantera spärrlistor</h2>

@@ -475,11 +475,6 @@
        <rdf:Description ID="FIPS_mode"
          nc:name="FIPS-läge"
          nc:link="using_certs_help.xhtml#enable_fips_mode"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="Form_Manager"
-         nc:name="Formulärhanteraren"
-         nc:link="using_priv_help.xhtml#using_the_form_manager"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -491,65 +486,6 @@
          nc:name="filhämtarens inställningar"
          nc:link="cs_nav_prefs_navigator.xhtml#downloads"/>
      </rdf:li></rdf:Seq>
-   </nc:subheadings>
-</rdf:Description>
-
-<rdf:Description about="#Form_Manager">
-   <nc:subheadings>
-     <rdf:Seq>     <rdf:li>
-       <rdf:Description ID="Form_Manager:using"
-         nc:name="använda formulärhanteraren"
-         nc:link="using_priv_help.xhtml#using_the_form_manager"/>
-     </rdf:li>
-      <rdf:li>
-       <rdf:Description ID="forms"
-         nc:name="formulär"
-         nc:link="using_priv_help.xhtml#encrypting_stored_sensitive_information"/>
-     </rdf:li>   <rdf:li>
-       <rdf:Description ID="Form_Manager:preferences"
-         nc:name="formulärhanterarens inställningar"
-         nc:link="using_priv_help.xhtml#forms"/>
-     </rdf:li>
-      <rdf:li>
-       <rdf:Description ID="Form_Manager:settings"
-         nc:name="Inställningar för formulär"
-         nc:link="using_priv_help.xhtml#form_settings"/>
-     </rdf:li>
-	<rdf:li>
-       <rdf:Description ID="Form_Manager:encrypting_stored_information"
-         nc:name="kryptera lagrad information"
-         nc:link="using_priv_help.xhtml#encrypting_stored_sensitive_information"/>
-     </rdf:li></rdf:Seq>
-   </nc:subheadings>
-</rdf:Description>
-
-<rdf:Description about="#forms">
-   <nc:subheadings>
-     <rdf:Seq>      <rdf:li>
-       <rdf:Description ID="forms:preferences"
-         nc:name="formulärinställningar"
-         nc:link="using_priv_help.xhtml#forms"/>
-     </rdf:li>
-    <rdf:li>
-       <rdf:Description ID="forms:filling_out_automatically"
-         nc:name="fylla i automatiskt"
-         nc:link="using_priv_help.xhtml#filling_out_forms_automatically"/>
-     </rdf:li>
-    <rdf:li>
-       <rdf:Description ID="forms:storing_data_from"
-         nc:name="lagra data från formulär"
-         nc:link="using_priv_help.xhtml#managing_stored_form_data"/>
-     </rdf:li>	
-     <rdf:li>
-       <rdf:Description ID="forms:encrypting_stored_information"
-         nc:name="kryptera lagrade uppgifter"
-         nc:link="using_priv_help.xhtml#encrypting_stored_sensitive_information"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="forms:saving_data"
-         nc:name="spara data från formulär"
-         nc:link="using_priv_help.xhtml#saving_form_data"/>
-     </rdf:li> </rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
 
@@ -781,11 +717,6 @@
          nc:name="inställningar för flikar"
          nc:link="cs_nav_prefs_navigator.xhtml#tabbed_browsing"/>
      </rdf:li>
-   <rdf:li>
-       <rdf:Description ID="preferences:forms"
-         nc:name="inställningar för formulär"
-         nc:link="using_priv_help.xhtml#forms"/>
-     </rdf:li>
        <rdf:li>
        <rdf:Description ID="preferences:colors"
          nc:name="inställningar för färger"
@@ -892,12 +823,7 @@
 
 <rdf:Description about="#privacy">
    <nc:subheadings>
-     <rdf:Seq>    <rdf:li>
-       <rdf:Description ID="privacy:settings"
-         nc:name="inställningar för integritet"
-         nc:link="using_priv_help.xhtml#privacy_settings"/>
-     </rdf:li>
-    <rdf:li>
+     <rdf:Seq><rdf:li>
        <rdf:Description ID="privacy:preferences"
          nc:name="integritets- och säkerhetsinställningar"
          nc:link="privsec_help.xhtml"/>
@@ -918,16 +844,6 @@
          nc:link="privacy_help.xhtml#privacy_on_the_internet"/>
      </rdf:li>
        <rdf:li>
-       <rdf:Description ID="privacy:P3P_levels"
-         nc:name="P3P-nivåer"
-         nc:link="using_priv_help.xhtml#setting_privacy_levels"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="privacy:P3P_standard_and"
-         nc:name="P3P-standard"
-         nc:link="page_info_help.xhtml"/>
-     </rdf:li>
-      <rdf:li>
        <rdf:Description ID="privacy:protecting"
          nc:name="skydda integriteten"
          nc:link="privacy_help.xhtml#using_privacy_features"/>
@@ -1041,11 +957,6 @@
        <rdf:Description ID="cookies:preferences"
          nc:name="inställningar för kakor"
          nc:link="using_priv_help.xhtml#cookies"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="cookies:privacy_levels_for"
-         nc:name="integritetsnivåer"
-         nc:link="using_priv_help.xhtml#setting_privacy_levels"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="cookies:notification_icon"

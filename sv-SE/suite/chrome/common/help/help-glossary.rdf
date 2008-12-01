@@ -32,7 +32,6 @@
         <rdf:li> <rdf:Description nc:name="elektronisk signatur" nc:link="glossary.xhtml#digital_signature"/> </rdf:li>
        <rdf:li> <rdf:Description nc:name="fingeravtryck" nc:link="glossary.xhtml#fingerprint"/> </rdf:li>
          <rdf:li> <rdf:Description nc:name="FIPS PUBS 140-1" nc:link="glossary.xhtml#fips_pubs_140-1"/> </rdf:li>
-         <rdf:li> <rdf:Description nc:name="Formulärhanteraren" nc:link="glossary.xhtml#form_manager"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="FTP" nc:link="glossary.xhtml#ftp"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="förfalskningar på Internet" nc:link="glossary.xhtml#misrepresentation"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Gopher" nc:link="glossary.xhtml#gopher"/> </rdf:li>
@@ -79,7 +78,6 @@
         <rdf:li> <rdf:Description nc:name="objektsignering" nc:link="glossary.xhtml#object_signing"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="objektsigneringscertifikat" nc:link="glossary.xhtml#object-signing_certificate"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="OCSP" nc:link="glossary.xhtml#ocsp"/> </rdf:li>
-         <rdf:li> <rdf:Description nc:name="P3P" nc:link="glossary.xhtml#p3p"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="PKCS #11" nc:link="glossary.xhtml#pkcs_11"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="PKI" nc:link="glossary.xhtml#pki"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="POP" nc:link="glossary.xhtml#pop"/> </rdf:li>
