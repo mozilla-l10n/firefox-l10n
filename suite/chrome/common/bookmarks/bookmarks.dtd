@@ -43,17 +43,16 @@
 <!-- extracted from ./bookmarks.xul -->
 <!ENTITY menuBar.tooltip               "Menyrad">
 <!ENTITY bookmarkToolbar.tooltip       "Bokmärkesfält">
-<!ENTITY bookmarksSearch.tooltip       "Verktygsfält för bokmärkessökning">
 <!ENTITY menuitem.newBookmark.label    "Bokmärke">
-<!ENTITY command.newBookmark.accesskey "B">
+<!ENTITY menuitem.newBookmark.accesskey "B">
 <!ENTITY menuitem.newFolder.label      "Mapp">
+<!ENTITY menuitem.newFolder.accesskey  "M">
 <!ENTITY button.newFolder.label        "Ny mapp">
 <!ENTITY button.newFolder.accesskey    "m">
-<!ENTITY command.newFolder.accesskey   "M">
 <!ENTITY menuitem.newSeparator.label   "Avskiljare">
+<!ENTITY menuitem.newSeparator.accesskey "A">
 <!ENTITY button.newSeparator.label     "Ny avskiljare">
-<!ENTITY button.newSeparator.accesskey  "k">
-<!ENTITY command.newSeparator.accesskey "A">
+<!ENTITY button.newSeparator.accesskey "k">
 <!ENTITY menuitem.open.label           "Öppna bokmärkesfil…">
 <!ENTITY menuitem.open.accesskey       "Ö">
 <!ENTITY menuitem.import.label         "Importera…">
@@ -61,25 +60,27 @@
 <!ENTITY menuitem.export.label         "Exportera…">
 <!ENTITY menuitem.export.accesskey     "x">
 <!ENTITY menuitem.find.label           "Sök bokmärke…">
-<!ENTITY command.findBookmarks.label   "Sök…">
 <!ENTITY menuitem.find.accesskey       "S">
-<!ENTITY edit.find.keybinding           "f">
-<!ENTITY command.properties.label      "Egenskaper…">
-<!ENTITY button.properties.accesskey  "p">
-<!ENTITY command.properties.accesskey  "E">
-<!ENTITY edit.properties.keybinding     "i">
-<!ENTITY command.rename.label          "Byt namn…">
-<!ENTITY button.rename.accesskey      "n">
-<!ENTITY command.delete.label          "Ta bort">
-<!ENTITY button.delete.accesskey      "b">
-<!ENTITY command.moveBookmark.label    "Flytta bokmärke(n)…">
-<!ENTITY command.moveBookmarkShort.label "Flytta…">
-<!ENTITY command.moveBookmark.accesskey "y">
+<!ENTITY menuitem.find.find.key        "F">
+<!ENTITY command.findBookmarks.label   "Sök…">
+<!ENTITY menuitem.properties.label     "Egenskaper…">
+<!ENTITY menuitem.properties.accesskey "E">
+<!ENTITY button.properties.label       "Egenskaper…">
+<!ENTITY button.properties.accesskey   "p">
+<!ENTITY menuitem.properties.key       "I">
+<!ENTITY button.rename.label           "Byt namn…">
+<!ENTITY button.rename.accesskey       "n">
+<!ENTITY button.delete.label           "Ta bort">
+<!ENTITY button.delete.accesskey       "b">
+<!ENTITY menuitem.moveBookmark.label   "Flytta bokmärke(n)…">
+<!ENTITY menuitem.moveBookmark.accesskey "y">
+<!ENTITY button.moveBookmark.label     "Flytta…">
+<!ENTITY button.moveBookmark.accesskey "y">
 <!ENTITY command.addBookmark.label     "Lägg till…">
 <!ENTITY command.manageBookmarks.label "Hantera">
 <!ENTITY command.sortFolder.label      "Sortera mapp…">
 <!ENTITY command.sortFolder.accesskey  "S">
-<!ENTITY edit.sortFolder.keybinding    "S">
+<!ENTITY command.sortFolder.key        "S">
 <!ENTITY command.sortFolderByName.label "Sortera mappen på namn">
 <!ENTITY command.sortFolderByName.accesskey "r">
 
@@ -97,25 +98,18 @@
 <!ENTITY menuitem.personaltoolbarfolder.accesskey   "p">
 
 <!ENTITY treecol.name.label             "Namn">
-<!ENTITY treecol.name.accesskey         "N">
 <!ENTITY treecol.name.tooltip           "Klicka för att sortera på namn">
 <!ENTITY treecol.url.label              "Adress">
-<!ENTITY treecol.url.accesskey          "d">
 <!ENTITY treecol.url.tooltip            "Klicka för att sortera på adress">
 <!ENTITY treecol.shortcut.label         "Nyckelord">
-<!ENTITY treecol.shortcut.accesskey     "k">
 <!ENTITY treecol.shortcut.tooltip       "Klicka för att sortera på nyckelord">
 <!ENTITY treecol.description.label      "Beskrivning">
-<!ENTITY treecol.description.accesskey  "B">
 <!ENTITY treecol.description.tooltip    "Klicka för att sortera på beskrivning">
 <!ENTITY treecol.addedon.label          "Tillagd den">
-<!ENTITY treecol.addedon.accesskey      "a">
 <!ENTITY treecol.addedon.tooltip        "Klicka för att sortera på tillagdsdatum">
 <!ENTITY treecol.lastmod.label          "Senast ändrad">
-<!ENTITY treecol.lastmod.accesskey      "n">
 <!ENTITY treecol.lastmod.tooltip        "Klicka för att sortera på senast ändrad">
 <!ENTITY treecol.lastvisit.label        "Senast besökt">
-<!ENTITY treecol.lastvisit.accesskey    "b">
 <!ENTITY treecol.lastvisit.tooltip      "Klicka för att sortera på senast besökt">
 
 <!ENTITY bookmarksWindowTitle.label	"Hantera bokmärken">

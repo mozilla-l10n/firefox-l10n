@@ -57,8 +57,6 @@
 <!ENTITY warn.insecurepost.accesskey        "s">
 <!ENTITY warn.leavingsecure                 "En sida som stöder kryptering lämnas">
 <!ENTITY warn.leavingsecure.accesskey       "d">
-<!ENTITY warn.secureredirect                "Omdirigering sker mellan två sidor som stöder kryptering">
-<!ENTITY warn.secureredirecttoinsecure      "Omdirigering sker från en krypterad sida till en okrypterad sida">
 <!ENTITY warn.viewmixed                     "En sida med en mix av krypterad/okrypterad information visas">
 <!ENTITY warn.viewmixed.accesskey           "x">
 

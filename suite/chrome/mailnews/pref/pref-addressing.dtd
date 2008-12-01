@@ -57,5 +57,3 @@
 <!ENTITY directoriesNone.label                 "Ingen">
 <!ENTITY editDirectories.label                 "Redigera kataloger…">
 <!ENTITY editDirectories.accesskey             "e">
-<!ENTITY matchText.label                       "Om det hittas en matchande e-postadress i dina lokala adressböcker:">
-<!ENTITY skipDirectory.label                   "Sök inte i katalogen">

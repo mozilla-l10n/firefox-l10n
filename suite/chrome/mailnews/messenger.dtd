@@ -55,7 +55,6 @@
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newAccountCmd.label "Konto…">
 <!ENTITY newAccountCmd.accesskey "K">
-<!ENTITY openMessageMenu.label "Öppna">
 <!ENTITY openMessageFileCmd.label "Öppna sparat meddelande…">
 <!ENTITY openMessageFileCmd.accesskey "Ö">
 <!ENTITY openAttachmentCmd.label		"Bilagor">
@@ -80,7 +79,6 @@
 <!ENTITY getNextNMsgCmd.accesskey "g">
 <!ENTITY sendUnsentCmd.label			"Skicka osända meddelanden">
 <!ENTITY sendUnsentCmd.accesskey "d">
-<!ENTITY loadFirstDraft.label			"Läs in första utkast">
 <!ENTITY subscribeCmd.label "Prenumerera…">
 <!ENTITY subscribeCmd.accesskey "P">
 <!ENTITY renameFolder.label				"Byt namn på mapp…">
@@ -104,7 +102,6 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Förhandsgranska">
 <!ENTITY printPreviewCmd.accesskey "r">
-<!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "Utskriftsformat…">
 <!ENTITY printSetupCmd.accesskey "o">
 
@@ -132,8 +129,6 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Flaggade meddelanden">
 <!ENTITY selectFlaggedCmd.accesskey "F">
-<!ENTITY selectInvertCmd.label ".Invertera markering">
-<!ENTITY selectInvertCmd.accesskey "I">
 <!ENTITY folderPropsCmd.label "Egenskaper…">
 <!ENTITY folderPropsFolderCmd.label "Mappegenskaper">
 <!ENTITY folderPropsNewsgroupCmd.label "Diskussionsgruppegenskaper">
@@ -148,14 +143,10 @@
 <!ENTITY redoCopyMsgCmd.label "Gör om kopiering av meddelande">
 <!ENTITY undoDefaultCmd.label "Ångra">
 <!ENTITY redoDefaultCmd.label "Gör om">
-<!ENTITY editDraftCmd.label "Redigera utkast">
-<!ENTITY editDraftCmd.accesskey "e">
 
 <!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label		"Verktyg för e-post">
 <!ENTITY showMessengerToolbarCmd.accesskey	"o">
-<!ENTITY customizeToolbar.label                 "Anpassa…">
-<!ENTITY customizeToolbar.accesskey             "A">
 
 <!-- showSearchToolbarCmd is also used by addressbook -->
 <!ENTITY showSearchToolbarCmd.label		"Sökfält">
@@ -225,8 +216,6 @@
 <!ENTITY threads.accesskey "å">
 <!ENTITY allMsgsCmd.label "Alla">
 <!ENTITY allMsgsCmd.accesskey "a">
-<!ENTITY expandOrCollapseMenu.label "Veckla upp/Veckla ihop">
-<!ENTITY expandOrCollapseMenu.accesskey "u">
 <!ENTITY expandAllThreadsCmd.label "Nysta upp alla trådar">
 <!ENTITY expandAllThreadsCmd.accesskey "u">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -247,8 +236,6 @@
 <!ENTITY headersAllCmd.accesskey "A">
 <!ENTITY headersNormalCmd.label "Normalt">
 <!ENTITY headersNormalCmd.accesskey "N">
-<!ENTITY headersBriefCmd.label ".Kortfattad">
-<!ENTITY headersBriefCmd.accesskey "t">
 <!ENTITY bodyMenu.label "Meddelandetext som">
 <!ENTITY bodyMenu.accesskey "s">
 <!ENTITY bodyAllowHTML.label "Ursprunglig HTML">
@@ -266,12 +253,6 @@
 <!ENTITY pageSourceCmd.label "Meddelandets källkod">
 <!ENTITY pageSourceCmd.accesskey "e">
 <!ENTITY pageSourceCmd.key "u">
-<!ENTITY translateMenu.label ".Översätt">
-
-<!-- Search Menu -->
-<!-- searchMenu is also used by addressbook -->
-<!ENTITY searchMenu.label "Sök">
-<!ENTITY searchMenu.accesskey "S">
 
 <!ENTITY findCmd.label "Sök i det här meddelandet…">
 <!ENTITY findCmd.accesskey "d">
@@ -284,24 +265,11 @@
 <!ENTITY findPrevCmd.accesskey "f">
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!-- LOCALIZATION NOTE (searchCurrentCmd.label) : Do not translate "&lt;" and "&gt;" in below line. -->
-<!ENTITY searchCurrentCmd.label ".Sök i &lt;aktuellt&gt;">
-<!ENTITY searchCurrentCmd.accesskey "">
-<!-- LOCALIZATION NOTE (searchParentCmd.label) : Do not translate "&lt;" and "&gt;" in below line. -->
-<!ENTITY searchParentCmd.label ".Sök i &lt;överordnad&gt;">
-<!ENTITY searchParentCmd.accesskey "">
-<!-- LOCALIZATION NOTE (searchParentParentCmd.label) : Do not translate "&lt;" and "&gt;" in below line. -->
-<!ENTITY searchParentParentCmd.label ".Sök i &lt;överordnad överordnad&gt;">
-<!ENTITY searchParentParentCmd.accesskey "">
 
 <!-- Go Menu -->
 
 <!ENTITY goMenu.label "Gå till">
 <!ENTITY goMenu.accesskey "G">
-<!ENTITY firstUnreadMsgCmd.label ".Första olästa meddelande">
-<!ENTITY firstUnreadMsgCmd.accesskey "o">
-<!ENTITY firstFlaggedMsgCmd.label ".Första flaggade meddelande">
-<!ENTITY firstFlaggedMsgCmd.accesskey "F">
 <!ENTITY nextMenu.label "Nästa">
 <!ENTITY nextMenu.accesskey "N">
 <!ENTITY nextMsgCmd.label "Meddelande">
@@ -312,7 +280,6 @@
 <!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextFlaggedMsgCmd.label "Flaggade meddelande">
 <!ENTITY nextFlaggedMsgCmd.accesskey "F">
-<!ENTITY nextUnflaggedMsgCmd.label "Ej flaggade meddelande">
 <!ENTITY nextUnreadThread.label "Olästa tråd">
 <!ENTITY nextUnreadThread.accesskey "å">
 <!ENTITY nextUnreadThread.key "t">
@@ -330,10 +297,6 @@
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Flaggade meddelande">
 <!ENTITY prevFlaggedMsgCmd.accesskey "F">
-<!ENTITY backCmd.label ".Bakåt">
-<!ENTITY backCmd.accesskey "B">
-<!ENTITY forwardCmd.label ".Framåt">
-<!ENTITY forwardCmd.accesskey "t">
 <!ENTITY startPageCmd.label "Startsida för E-post">
 <!ENTITY startPageCmd.accesskey "S">
 <!ENTITY msgMenu.label "Meddelande">
@@ -391,10 +354,6 @@
 <!ENTITY fileHereMenu.accesskey "r">
 <!ENTITY copyHereMenu.label "Kopiera hit">
 <!ENTITY copyHereMenu.accesskey "K">
-<!ENTITY addSenderToAddressBookCmd.label ".Lägg till avsändare i adressbok">
-<!ENTITY addSenderToAddressBookCmd.accesskey "s">
-<!ENTITY addAllToAddressBookCmd.label ".Lägg till alla i adressbok">
-<!ENTITY addAllToAddressBookCmd.accesskey "a">
 <!ENTITY tagMenu.label "Förse med etikett">
 <!ENTITY tagMenu.accesskey "d">
 <!ENTITY tagCustomize.label "Anpassa…">
@@ -414,8 +373,6 @@
 <!ENTITY markAsReadCmd.label "Som läst">
 <!ENTITY markAsReadCmd.accesskey "m">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "Som oläst">
-<!ENTITY markAsUnreadCmd.accesskey "o">
 <!ENTITY markThreadAsReadCmd.label "Hela tråden som läst">
 <!ENTITY markThreadAsReadCmd.accesskey "t">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -514,8 +471,6 @@
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label "Dokument: Klart">
-<!ENTITY  unreadCountText.label "Olästa: ">
-<!ENTITY  totalCountText.label " Totalt: ">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Öppna meddelande i nytt fönster">

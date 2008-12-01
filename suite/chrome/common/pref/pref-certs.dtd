@@ -38,8 +38,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  resetsettings.label      "Återställ inställningar">
-<!ENTITY  resetpreferences.label   "Återställ inställningar…">
 <!ENTITY  managecerts.caption      "Hantera certifikat">
 <!ENTITY  managecerts.text         "Använd Certifikathanteraren för att hantera dina personliga certifikat samt andras certifikat och certifikatutfärdare.">
 <!ENTITY  managecerts.button       "Hantera certifikat…">

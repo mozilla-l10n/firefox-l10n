@@ -1,0 +1,20 @@
+<!ENTITY newsblogTitle.label "RSS-kontoinställningar">
+
+<!ENTITY biffStart.label "Sök efter nya artiklar var ">
+<!ENTITY biffStart.accesskey "ö">
+<!ENTITY biffEnd.label "minut">
+
+<!ENTITY loginAtStartup.label "Sök efter nya artiklar vid start"> 
+<!ENTITY loginAtStartup.accesskey "S">
+
+<!ENTITY useQuickMode.label "Visa, som förval, artikelsammanfattningen i stället för att hämta webbsidan"> 
+<!ENTITY useQuickMode.accesskey "V">
+
+<!ENTITY manageSubscriptions.label "Hantera prenumerationer…"> 
+<!ENTITY manageSubscriptions.accesskey "a">
+
+<!-- entities from defaults/isp/rss.rdf -->
+<!ENTITY rss.accountName            "Nyheter &amp; webbloggar">
+<!ENTITY rss.wizardShortName        "RSS">  
+<!ENTITY rss.wizardLongName         "RSS-nyheter &amp; RSS-bloggar">
+<!ENTITY rss.wizardLongName.accesskey "R">

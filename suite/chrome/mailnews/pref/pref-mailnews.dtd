@@ -42,10 +42,6 @@
 <!ENTITY generalSettings.caption           "Allmänna inställningar">
 <!ENTITY confirmMove.label                "Bekräfta när mappar flyttas till papperskorgen">
 <!ENTITY confirmMove.accesskey            "B">
-<!ENTITY useMessenger.label               "Använd e-postklienten från MAPI-baserade applikationer">
-<!ENTITY useMessenger.accesskey           "v">
-<!ENTITY autounzip.label                  "Packa upp ZIP-filer automatiskt när bilagor sparas">
-<!ENTITY autounzip.accesskey              "a">
 <!ENTITY preserveThreading.label          "Bevara trådningen vid sortering av meddelanden">
 <!ENTITY preserveThreading.accesskey      "t">
 
@@ -54,7 +50,8 @@
 <!ENTITY setDefaultMail.accesskey         "E">
 <!ENTITY setDefaultNews.label             "Grupper">
 <!ENTITY setDefaultNews.accesskey         "G">
-
+<!ENTITY setDefaultFeed.label             "Flöden">
+<!ENTITY setDefaultFeed.accesskey         "F">
 <!ENTITY messengerStartPage.caption         "Startsida för e-postklienten">
 <!ENTITY enableStartPage.label            "När e-postklienten startas visas startsidan i meddelandeytan">
 <!ENTITY enableStartPage.accesskey        "ä">

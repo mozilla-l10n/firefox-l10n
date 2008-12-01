@@ -53,8 +53,6 @@
 <!ENTITY newListCmd.accesskey                           "l">  
 <!ENTITY newAddressBookCmd.label			"Adressbok…">
 <!ENTITY newAddressBookCmd.accesskey                    "b">
-<!ENTITY renameAddressBookCmd.label                     "Byt namn på adressbok…"> 
-<!ENTITY renameAddressBookCmd.accesskey                 "y">  
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP-katalog…">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
@@ -110,8 +108,6 @@
 <!ENTITY allowOnlineCheck.label                         "Sök online-status (AOL)">
 <!ENTITY allowOnlineCheck.accesskey                     "ö">
 
-<!ENTITY stopSearchingCmd.label                         ".Avbryt sökandet"> 
-
 <!-- Toolbar and Popup items -->  
 <!ENTITY newcardButton.label "Nytt kort">
 <!ENTITY newcardButton.accesskey                        "k">  
@@ -125,9 +121,6 @@
 <!ENTITY deleteButton.accesskey                         "b">  
 <!ENTITY newimButton.label                              "Snabbmeddelande">  
 <!ENTITY newimButton.accesskey                          "S">  
-<!ENTITY stopButton.label                               ".Stopp">  
-<!ENTITY searchButton.label                             ".Sök">  
-<!ENTITY showNames.label                                "Visa namn som innehåller:">  
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Verktygsfält för adressboken">
@@ -137,10 +130,7 @@
 <!ENTITY newmsgButton.tooltip "Skapa nytt meddelande">
 <!ENTITY newIM.tooltip                                  "Skicka ett snabbmeddelande eller chatta"> 
 <!ENTITY deleteButton.tooltip "Ta bort markerade kort eller adressboken">
-<!ENTITY stopButton.tooltip "Avbryt den aktuella överföringen">
-<!ENTITY searchButton.tooltip "Sök i den valda adressboken">
 <!ENTITY throbber.tooltip                               "Går till &vendorShortName;s webbplats">
-<!ENTITY clearButton.tooltip                            "Nollställer alla sökkriterier och visar därmed alla poster">
 <!ENTITY advancedButton.tooltip                         "Avancerad adressökning">
 
 <!-- Status Bar -->  

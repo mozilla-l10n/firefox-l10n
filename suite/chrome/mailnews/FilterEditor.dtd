@@ -78,9 +78,6 @@
 <!ENTITY filterActionDesc.label "Gör följande:">
 <!ENTITY filterActionDesc.accesskey "G">
 
-<!ENTITY newFolderButton.label "Ny mapp…">
-<!ENTITY newFolderButton.accesskey "N">
-
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Flytta meddelande till">
 <!ENTITY copyMessage.label "Kopiera meddelande till">

@@ -1,0 +1,19 @@
+<!-- Feed Properties Dialog -->
+<!ENTITY window.title             "Egenskaper för kanal">
+
+<!ENTITY feedFolder.label         "Lagra artiklar i: ">
+<!ENTITY feedFolder.accesskey     "L">
+
+<!ENTITY feedLocation.label       "Kanal-URL: ">
+<!ENTITY feedLocation.accesskey   "K">
+
+<!ENTITY choosethisfolder.label   "välj denna mapp">
+
+<!ENTITY quickMode.label          "Visa artikelsammanfattningen i stället för att hämta webbsidan">
+<!ENTITY quickMode.accesskey      "V">
+
+<!ENTITY copyLinkCmd.label        "Kopiera länkadress">
+<!ENTITY copyLinkCmd.accesskey    "o">
+
+<!ENTITY pasteLinkCmd.label       "Klistra in">
+<!ENTITY pasteLinkCmd.accesskey   "l">

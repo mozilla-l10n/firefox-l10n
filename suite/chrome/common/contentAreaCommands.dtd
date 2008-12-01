@@ -15,8 +15,6 @@
 <!ENTITY openFrameCmdInTab.accesskey  "f">
 <!ENTITY showOnlyThisFrameCmd.label   "Visa endast denna ram">
 <!ENTITY showOnlyThisFrameCmd.accesskey "V">
-<!ENTITY addToBookmarksCmd.label      "Bokmärke till denna sida">
-<!ENTITY addToBookmarksCmd.accesskey  "B">
 <!ENTITY goBackCmd.label              "Bakåt">
 <!ENTITY goBackCmd.accesskey          "a">
 <!ENTITY goForwardCmd.label           "Framåt">
@@ -67,9 +65,13 @@
 <!ENTITY saveLinkAsCmd.label            "Spara länk som…">
 <!ENTITY saveLinkCmd.label            "Spara länk">
 <!ENTITY saveLinkCmd.accesskey        "l">
-<!ENTITY saveImageAsCmd.label           "Spara bild som…">
+<!ENTITY saveImageAsCmd.label         "Spara bild som…">
 <!ENTITY saveImageCmd.label           "Spara bild">
-<!ENTITY saveImageCmd.accesskey       "b">
+<!ENTITY saveImageCmd.accesskey       "d">
+<!ENTITY saveVideoCmd.label           "Spara video som…">
+<!ENTITY saveVideoCmd.accesskey       "d">
+<!ENTITY saveAudioCmd.label           "Spara audio som…">
+<!ENTITY saveAudioCmd.accesskey       "d">
 <!ENTITY copyCmd.label                "Kopiera">
 <!ENTITY copyCmd.accesskey            "o">
 <!ENTITY selectAllCmd.label           "Markera allt">
@@ -78,6 +80,10 @@
 <!ENTITY copyLinkCmd.accesskey        "K">
 <!ENTITY copyImageCmd.label           "Kopiera bild">
 <!ENTITY copyImageCmd.accesskey       "o">
+<!ENTITY copyVideoURLCmd.label        "Kopiera videoadress">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Kopiera audioadress">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY metadataCmd.label            "Egenskaper">
 <!ENTITY metadataCmd.accesskey        "E">
 <!ENTITY copyEmailCmd.label           "Kopiera e-postadress">
@@ -94,6 +100,18 @@
 <!ENTITY redoCmd.accesskey            "G">
 <!ENTITY thisFrameMenu.label          "Denna ram">
 <!ENTITY thisFrameMenu.accesskey      "d">
+<!ENTITY mediaPlay.label              "Spela">
+<!ENTITY mediaPlay.accesskey          "p">
+<!ENTITY mediaPause.label             "Paus">
+<!ENTITY mediaPause.accesskey         "P">
+<!ENTITY mediaMute.label              "Stum">
+<!ENTITY mediaMute.accesskey          "m">
+<!ENTITY mediaUnmute.label            "Ej stum">
+<!ENTITY mediaUnmute.accesskey        "m">
+<!ENTITY mediaShowControls.label      "Visa mediakontroller">
+<!ENTITY mediaShowControls.accesskey  "a">
+<!ENTITY mediaHideControls.label      "Dölj mediakontroller">
+<!ENTITY mediaHideControls.accesskey  "a">
 <!ENTITY search.accesskey             "W">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Byt sidriktning">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">

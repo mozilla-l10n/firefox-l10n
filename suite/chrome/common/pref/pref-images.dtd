@@ -14,7 +14,6 @@
 <!ENTITY accOrgImagesRadio.accesskey    "n">
 <!ENTITY disableImages.label            "Hämta inga bilder">
 <!ENTITY disableImages.accesskey        "i">
-<!ENTITY viewImagesExplanation.label    "Visa en lista över webbplatser för vilka information om bildacceptans finns lagrad">
 <!ENTITY viewImages.label               "Visa tillstånd för bilder">
 <!ENTITY viewImages.accesskey           "V">
 <!ENTITY animLoopingTitle.label         "Animeringssekvensen i animerade bilder ska visas">

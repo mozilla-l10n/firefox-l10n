@@ -1,5 +1,5 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items --> 
-<!-- LOCALIZATION NOTE : FILE Do not translate accesskey and commandkey --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE --> 
 <!ENTITY mainWindow.title "&brandShortName;"> 
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
@@ -7,10 +7,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
-<!ENTITY nothingAvailable.label "(Inget tillgängligt)">
-
-<!ENTITY browserCmd.label					"Nytt fönster">
-<!ENTITY browserCmd.accesskey				"t">
 <!ENTITY tabCmd.label "Flik">
 <!ENTITY tabCmd.accesskey "l">
 <!ENTITY tabCmd.commandkey "t">
@@ -26,10 +22,6 @@
 <!ENTITY editPageCmd.label					"Redigera sida">
 <!ENTITY editPageCmd.accesskey				"d">
 <!ENTITY editPageCmd.commandkey "e">
-<!ENTITY editFrameCmd.label "Redigera ram">
-<!ENTITY editFrameCmd.accesskey				"m">
-<!ENTITY editFrameSetCmd.label		  "Redigera ramuppsättning">
-<!ENTITY editFrameSetCmd.accesskey		"t">
 
 <!ENTITY uploadFile.label "Lägg upp fil…">
 <!ENTITY uploadFile.accesskey "g">
@@ -74,7 +66,6 @@
 <!ENTITY fullScreenCmd.accesskey "H">
 <!ENTITY translateMenu.label "Översätt">
 <!ENTITY translateMenu.accesskey "t">
-<!ENTITY translate.commandKey "t">
 
 <!ENTITY closeOtherTabs.label "Stäng alla andra flikar">
 <!ENTITY closeOtherTabs.accesskey "a">
@@ -84,38 +75,10 @@
 <!ENTITY minimizeButton.tooltip       "Minimera">
 <!ENTITY restoreButton.tooltip        "Återställ">
 
-<!-- I'd like all this to move to an overlay or something -->
-<!ENTITY bidiMenu.label "Dubbelriktningsinställningar">
-<!ENTITY directionBidiMenu.label "Förinställd riktning">
-<!ENTITY directionRTLBidiCmd.label "Höger till vänster">
-<!ENTITY directionLTRBidiCmd.label "Vänster till höger">
-<!ENTITY texttypeBidiMenu.label "Texttyp">
-<!ENTITY charsettexttypeBidiCmd.label "Baserad på teckenuppsättning">
-<!ENTITY logicaltexttypeBidiCmd.label "Logiskt">
-<!ENTITY visualtexttypeBidiCmd.label "Visuellt">
-<!ENTITY numeralBidiMenu.label "Sifferform">
-<!ENTITY regularcontextnumeralBidiCmd.label "kontextuell">
-<!ENTITY hindicontextnumeralBidiCmd.label "Hindi numerals on RTL Document Direction">
-<!ENTITY arabicnumeralBidiCmd.label "Arabisk">
-<!ENTITY hindinumeralBidiCmd.label "Hindi">
-<!ENTITY controlstextmodeBidiMenu.label "Textläge i kontroller">
-<!ENTITY logicalcontrolstextmodeBidiCmd.label "Logisk">
-<!ENTITY visiualcontrolstextmodeBidiCmd.label "Visuell">
-<!ENTITY containercontrolstextmodeBidiCmd.label "Som innehållande dokument">
-<!ENTITY charactersetBidiMenu.label "Teckenuppsättning">
-<!ENTITY doccharactersetBidiCmd.label "Använd teckenuppsättningen som angivits i dokumentet">
-<!ENTITY defaultcharactersetBidiCmd.label "Använd min förvalda teckenuppsättning, i stället för den som angivits i dokumentet">
-
-<!ENTITY webContentMenu.label "Språk och webbinnehåll">
-<!ENTITY webContentMenu.accesskey "l">
-<!ENTITY downloadMore.label "Ladda ned mer">
-<!ENTITY downloadMore.accesskey "d">
 <!ENTITY applyTheme.label				"Använd tema">
 <!ENTITY applyTheme.accesskey	"A"> 
 <!ENTITY getNewThemesCmd.label "Hämta nya teman">
 <!ENTITY getNewThemesCmd.accesskey                             "n">
-<!ENTITY searchMenu.label "Sök">
-<!ENTITY searchMenu.accesskey "S">
 <!ENTITY findOnCmd.label "Sök på sidan…">
 <!ENTITY findOnCmd.accesskey "p">
 <!ENTITY findOnCmd.commandkey "f">
@@ -156,13 +119,6 @@
 <!ENTITY feedsMenu.accesskey "P">
 <!ENTITY emptyItem.label "(Tom)">
 
-<!ENTITY helpMenuCmd.label "Hjälp">
-<!ENTITY helpMenuCmd.accesskey "H">
-<!ENTITY helpContentsCmd.label "Hjälpinnehåll">
-<!ENTITY softwareUpdatesCmd.label "Programuppdateringar">
-<!ENTITY technicalSupportCmd.label "Teknisk support">
-<!ENTITY releaseNotesCmd.label "Versionsfakta">
-
 <!ENTITY menuBar.tooltip              "Menyrad">
 <!ENTITY personalToolbar.tooltip          "Eget verktygsfält">
 <!ENTITY navigationToolbar.tooltip        "Navigationsfält">
@@ -190,7 +146,6 @@
 <!ENTITY locationBar.title            "Adress">
 
 <!ENTITY proxyIcon.tooltip            "Dra och släpp den här ikonen för att skapa en länk till den här sidan">
-<!ENTITY internetKeyword.tooltip      "Återgå till tidigare visad sida eller välj nyckelord">
 
 <!-- Toolbar items --> 
 <!ENTITY  bookmarksButton.label       "Bokmärken">

@@ -49,7 +49,6 @@
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Storlek">
 <!ENTITY junkStatusColumn.label "Skräppoststatus">
-<!ENTITY linesColumn.label "Rader">
 <!ENTITY unreadColumn.label "Olästa i tråd">
 <!ENTITY totalColumn.label "Totalt i tråd">
 <!ENTITY readColumn.label "Lästa">

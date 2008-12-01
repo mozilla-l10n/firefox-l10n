@@ -48,7 +48,6 @@
 <!ENTITY shortcutURL.label          "Nyckelord:">
 <!ENTITY shortcutURL.accesskey      "K">
 <!ENTITY destination.label          "Spara i:">
-<!ENTITY destination.accesskey      "S">
 <!ENTITY newFolder.label            "Ny mapp…">
 <!ENTITY newFolder.accesskey        "m">
 <!ENTITY addGroup.label             "Skapa som grupp">

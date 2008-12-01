@@ -25,8 +25,8 @@
    - Lars P M <larspeemm@netscape.net>
 
  Alternatively, the contents of this file may be used under the terms of
- either of the GNU General Public License Version 2 or later (the "GPL"),
- or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
  in which case the provisions of the GPL or the LGPL are applicable instead
  of those above. If you wish to allow use of your version of this file only
  under the terms of either the GPL or the LGPL, and not to allow others to
@@ -70,7 +70,6 @@
 <!ENTITY NickName.label                 "Smeknamn:">
 <!ENTITY NickName.accesskey             "S">
 
-<!ENTITY Internet.box                   "Internet">
 <!ENTITY PrimaryEmail.label		"E-postadress:">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Annan e-post:">
@@ -79,14 +78,19 @@
 <!ENTITY PreferMailFormat.accesskey     "d">
 <!ENTITY PlainText.label                "Oformaterad text">
 <!ENTITY HTML.label                     "HTML">
-<!ENTITY Unknown.label                  "Vet ej">
+<!ENTITY Unknown.label                  "Okänt">
 <!ENTITY ScreenName.label               "Skärmnamn:">
 <!ENTITY ScreenName.accesskey           "m">
 
-<!ENTITY allowRemoteContent.label       "Tillåt fjärrbilder i HTML-meddelanden.">
+<!ENTITY allowRemoteContent.label       "Tillåt externa bilder.">
 <!ENTITY allowRemoteContent.accesskey   "i">
+<!ENTITY allowRemoteContent.tooltip     "I HTML-meddelanden är det möjligt att
+infoga bilder från externa källor. Att öppna ett sådant meddelande innebär att
+en anslutning till den externa källan etableras. Det kan medföra att det lästa
+meddelandet spåras. Genom att rutan markeras tillåts sådana externt infogade
+bilder i HTML-meddelanden från denna kontakt.">
 
-<!ENTITY Phones.box                     "Telefonnummer">
+
 <!ENTITY WorkPhone.label                "Arbete:">
 <!ENTITY WorkPhone.accesskey            "b">
 <!ENTITY HomePhone.label                "Hem:">
@@ -98,9 +102,8 @@
 <!ENTITY CellularNumber.label           "Mobil:">
 <!ENTITY CellularNumber.accesskey       "l">
 
-<!ENTITY Address.tab			"Adress">
-<!ENTITY Address.accesskey              "A"> 
-<!ENTITY Home.box			"Hem"> 
+<!ENTITY Home.tab                       "Privat">
+<!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label		"Adress:"> 
 <!ENTITY HomeAddress.accesskey          "d">
 <!ENTITY HomeAddress2.label		""> 
@@ -110,12 +113,18 @@
 <!ENTITY HomeState.label		"Delstat/Region:"> 
 <!ENTITY HomeState.accesskey            "s">
 <!ENTITY HomeZipCode.label		"Postnummer:"> 
-<!ENTITY HomeZipCode.accesskey          "P">
+<!ENTITY HomeZipCode.accesskey          "u">
 <!ENTITY HomeCountry.label		"Land:">
 <!ENTITY HomeCountry.accesskey          "L">
 <!ENTITY HomeWebPage.label		"Webbplats:"> 
 <!ENTITY HomeWebPage.accesskey          "W">
-<!ENTITY Work.box			"Arbete"> 
+<!ENTITY Birthday.label                 "Födelsedag:">
+<!ENTITY Birthday.accesskey             "F">
+<!ENTITY Year.emptytext                 "År">
+<!ENTITY Or.value                       "eller">
+<!ENTITY Age.emptytext                  "Ålder">
+<!ENTITY Work.tab                       "Arbete">
+<!ENTITY Work.accesskey                 "A">
 <!ENTITY JobTitle.label			"Titel:"> 
 <!ENTITY JobTitle.accesskey             "i">
 <!ENTITY Department.label		"Avdelning:"> 
@@ -131,7 +140,7 @@
 <!ENTITY WorkState.label		"Delstat/Region:"> 
 <!ENTITY WorkState.accesskey            "g">
 <!ENTITY WorkZipCode.label		"Postnummer:"> 
-<!ENTITY WorkZipCode.accesskey          "u">
+<!ENTITY WorkZipCode.accesskey          "m">
 <!ENTITY WorkCountry.label		"Land:">
 <!ENTITY WorkCountry.accesskey          "n">
 <!ENTITY WorkWebPage.label		"Webbplats:"> 
@@ -139,11 +148,6 @@
 
 <!ENTITY Other.tab                      "Övrigt">
 <!ENTITY Other.accesskey                "Ö">
-<!ENTITY Birthday.label                 "Födelsedag:">
-<!ENTITY Birthday.accesskey             "F">
-<!ENTITY Year.emptytext                 "År">
-<!ENTITY Or.value                       "eller">
-<!ENTITY Age.emptytext                  "Ålder">
 <!ENTITY Custom1.label                  "Övrigt 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Övrigt 2:">
@@ -152,5 +156,5 @@
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Övrigt 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.box                      "Anteckningar">
+<!ENTITY Notes.label                    "Anteckningar">
 <!ENTITY Notes.accesskey                "n">

@@ -27,7 +27,6 @@
 <!ENTITY attachMenu.label "Bifoga">
 <!ENTITY attachMenu.accesskey "B">
 <!ENTITY attachFileCmd.label "Bifoga fil…">
-<!ENTITY attachFileCmd.key "">
 <!ENTITY attachFileCmd.accesskey "B">
 <!ENTITY attachPageCmd.label "Bifoga webbsida…">
 <!ENTITY attachPageCmd.accesskey "W">
@@ -45,10 +44,10 @@
 <!ENTITY printCmd.label "Skriv ut…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "u">
-<!ENTITY closeCmd.label "Stäng">
 
 <!-- Edit menu items -->
-<!ENTITY editRewrapCmd.label "Radbryt">
+<!ENTITY editRewrapCmd.label "Ombryt">
+<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "y">
 <!ENTITY findCmd.label "Sök och ersätt…">
 <!ENTITY findCmd.key "F">
@@ -69,32 +68,6 @@
 <!ENTITY showComposeToolbarCmd.accesskey "V">
 <!ENTITY showFormatToolbarCmd.label "Formateringsverktyg">
 <!ENTITY showFormatToolbarCmd.accesskey "o">
-<!ENTITY showParagraphMarksCmd.label ".Visa styckesmarkeringar">
-<!ENTITY pageSourceCmd.label ".Sidans källkod">
-<!ENTITY pageSourceCmd.accesskey "S">
-<!ENTITY pageInfoCmd.label ".Sidinformation">
-<!ENTITY pageInfoCmd.accesskey "I">
-<!ENTITY dcharMenu.label "Teckenuppsättning">
-<!ENTITY dcharIso1Cmd.label "Västerländsk (ISO-8859-1)">
-<!ENTITY dcharIso2Cmd.label "Centraleuropeisk (ISO-8859-2)">
-<!ENTITY dcharIso3Cmd.label "Sydeuropeisk (ISO-8859-3)">
-<!ENTITY dcharIso4Cmd.label "Baltisk (ISO-8859-4)">
-<!ENTITY dcharIso9Cmd.label "Turkisk (ISO-8859-9)">
-<!ENTITY dcharIso10Cmd.label "Nordisk (ISO-8859-10)">
-<!ENTITY dcharIso14Cmd.label "Keltisk (ISO-8859-14)">
-<!ENTITY dcharIso15Cmd.label "Västerländsk (ISO-8859-15)">
-<!ENTITY dcharJapanCmd.label "Japansk (ISO-2022-JP)">
-<!ENTITY dcharTradChiBigCmd.label "Traditionell kinesisk (Big5)">
-<!ENTITY dcharSimpChiGbCmd.label "Förenklad kinesisk (GB2312)">
-<!ENTITY dcharKoreanCmd.label "Koreansk (EUC-KR)">
-<!ENTITY dcharUtf8Cmd.label "Unicode (UTF-8)">
-<!ENTITY dcharRusCmd.label "Kyrillisk (KOI8-R)">
-<!ENTITY dcharUkrCmd.label "Kyrillisk/Ukrainsk (KOI8-U)">
-<!ENTITY dcharIsoGreekCmd.label "Grekisk (ISO-8859-7)">
-<!ENTITY dcharVietViCmd.label "Vietnamesisk (VISCII)">
-<!ENTITY dcharThaiCmd.label "Thailändsk (TIS-620)">
-<!ENTITY dcharArmCmd.label "Armenisk (ARMSCII-8)">
-<!ENTITY dcharDEFAULT.label "Förinställ teckenuppsättning för skickande av e-post">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formatering">
@@ -103,11 +76,6 @@
 <!-- Options menu items -->
 <!ENTITY optionsMenu.label "Alternativ">
 <!ENTITY optionsMenu.accesskey "l">
-
-<!ENTITY doNotCompleteAddrCmd.label ".Komplettera inte adresser automatiskt">
-<!ENTITY showMatchingAddrCmd.label ".Visa matchande adresser">
-
-<!ENTITY addSignatureCmd.label ".Lägg till signatur">
 
 <!ENTITY quoteCmd.label "Citera meddelande">
 <!ENTITY quoteCmd.accesskey "i">
@@ -147,33 +115,13 @@
 <!ENTITY bothFormatCmd.label "Både oformaterad och formaterad (HTML) text">
 <!ENTITY bothFormatCmd.accesskey "o">
 
-<!ENTITY UuencodeAttachmentCmd.label "Använd Uuencode istället för MIME för bilagor">
-
-
 <!ENTITY fileCarbonCopyCmd.label "Skicka kopia till">
 <!ENTITY fileCarbonCopyCmd.accesskey "o">
 <!ENTITY fileHereMenu.label "Arkivera här">
 
-<!--LOCALIZATION NOTE Debug Menu Don't translate anything in the Debug menu section -->
-<!-- Debug Menu, imported from editorAppShell.dtd -->
-<!ENTITY debugMenu.label "Debug">
-<!ENTITY outputTextCmd.label "Output Text">
-<!ENTITY outputHTMLCmd.label "Output HTML">
-<!ENTITY insertTextCmd.label "Insert Text">
-<!ENTITY testSelectionCmd.label "Test Selection">
-<!ENTITY testTableLayoutCmd.label "Test Table Layout">
-<!ENTITY testDocumentCmd.label "Test Document">
-<!ENTITY showEmbeddedCmd.label "Show Embedded Objects">
-<!ENTITY dumpContentCmd.label "Dump Content Tree">
-<!ENTITY runUnitTestsCmd.label "Run Unit Tests">
-<!ENTITY startLogCmd.label "Start Log">
-<!ENTITY stopLogCmd.label "Stop Log">
-<!ENTITY runLogCmd.label "Run Log">
-
 <!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
 <!-- Toolbar items -->
 <!ENTITY sendButton.label "Skicka">
-<!ENTITY quoteButton.label "Citera">
 <!ENTITY addressButton.label "Adress">
 <!ENTITY attachButton.label "Bifoga">
 <!ENTITY spellingButton.label "Stavning">
@@ -186,17 +134,10 @@
 <!ENTITY formatToolbar.tooltip "Formateringsverktyg">
 <!ENTITY sendButton.tooltip "Skicka meddelandet nu">
 <!ENTITY sendlaterButton.tooltip "Skicka meddelandet senare"> 
-<!ENTITY quoteButton.tooltip "Citerar föregående meddelande"> 
 <!ENTITY addressButton.tooltip "Välj en mottagare ur en adressbok">
 <!ENTITY attachButton.tooltip "Bifoga en fil till meddelandet">
 <!ENTITY saveButton.tooltip "Spara det här meddelandet">
 <!ENTITY stopButton.tooltip "Avbryt den aktuella överföringen">
-
-<!-- Toolbar items, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
 
 <!-- context menu items -->
 <!ENTITY spellCheckNoSuggestions.label "Inga förslag hittades">

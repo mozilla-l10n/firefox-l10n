@@ -38,18 +38,13 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY search.button.label      "Sök">
-<!ENTITY search.results.tab       "Verkställ">
-<!ENTITY search.advanced.tab      "Inställningar för ">
 <!ENTITY allengines.label         "Alla söktjänster">
 <!ENTITY within.label             "i">
 <!ENTITY using.label              "med">
 <!ENTITY choose.label             "Välj söktjänst och klicka på Sök">
 <!ENTITY results.label            "Sökresultat">
 <!ENTITY engine.column.label      "Söktjänster">
-<!ENTITY checkbox.column.label    "Använd">
-<!ENTITY stop.button.label        "Avbryt">
-<!ENTITY customize.menuitem.label   "Redigera kategorier…">
-<!ENTITY savesearch.button.label  "Bokmärke till denna sökning">
+<!ENTITY customize.menuitem.label "Redigera kategorier…">
 <!ENTITY next.button.label        "Nästa">
 <!ENTITY previous.button.label    "Föregående">
 <!ENTITY next.button.tooltip      "Visa nästa sökresultat">
