@@ -27,16 +27,16 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY privatebrowsingpage.tabtitle                  "Privatusis naršymas">
+<!ENTITY privatebrowsingpage.tabtitle                      "Privatusis naršymas">
 
-<!ENTITY privatebrowsingpage.pagetitle                 "Privatusis naršymas">
+<!ENTITY privatebrowsingpage.pagetitle                     "Privatusis naršymas">
 
-<!ENTITY privatebrowsingpage.issueDesc                 "Šio seanso metu „&brandShortName;“ nieko neįsimins.">
-<!ENTITY privatebrowsingpage.longDesc                  "Šio naršymo seanso metu „&brandShortName;“ nepildys naršymo ir atsiuntimų žurnalų, neįsimins formų ir paieškos duomenų, slapukų ir kitų laikinųjų failų. Vis dėlto visi Jūsų parsiųsti failai ir sukurti adresyno įrašai liks.">
+<!ENTITY privatebrowsingpage.issueDesc                     "Šio seanso metu „&brandShortName;“ nieko neįsimins.">
+<!ENTITY privatebrowsingpage.longDesc                      "Šio naršymo seanso metu „&brandShortName;“ nepildys naršymo ir atsiuntimų žurnalų, neįsimins formų ir paieškos duomenų, slapukų ir kitų laikinųjų failų. Vis dėlto visi Jūsų parsiųsti failai ir sukurti adresyno įrašai liks.">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Galbūt norite pradėti, išvalydami naršyklės tinklalapių žurnalą.">
-<!ENTITY privatebrowsingpage.recentHistory.label       "Valyti žurnalą">
-<!ENTITY privatebrowsingpage.recentHistory.accesskey   "V">
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc        "Galbūt norite pradėti, išvalydami naršyklės tinklalapių žurnalą.">
+<!ENTITY privatebrowsingpage.clearRecentHistory.label      "Valyti žurnalą…">
+<!ENTITY privatebrowsingpage.clearRecentHistory.accesskey  "V">
 
-<!ENTITY privatebrowsingpage.howToStopDesc             "Jei norite nutraukti privatųjį naršymą, nuimkite pažymėjimą ties meniu „Priemonės“ elementu „Privatusis naršymas“."> 
-<!ENTITY privatebrowsingpage.footerDesc                "Sėkmės!">
+<!ENTITY privatebrowsingpage.howToStopDesc                 "Jei norite nutraukti privatųjį naršymą, nuimkite pažymėjimą ties meniu „Priemonės“ elementu „Privatusis naršymas“."> 
+<!ENTITY privatebrowsingpage.footerDesc                    "Sėkmės!">
