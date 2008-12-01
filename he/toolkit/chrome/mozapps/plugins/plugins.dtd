@@ -3,12 +3,12 @@
 <!ENTITY pluginWizard.availablePluginsPage.description.label "התוספים הבאים זמינים:">
 <!ENTITY pluginWizard.availablePluginsPage.installerUI "יתכן שתידרש ממך מידע נוסף במשך ההתקנה עבור תוספים מסויימים.">
 <!ENTITY pluginWizard.availablePluginsPage.title "הורדות תוספים זמינים">
-<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; בודק כעת לתוספים זמינים...">
+<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; בודק כעת לתוספים זמינים…">
 <!ENTITY pluginWizard.finalPage.description.label "&brandShortName; סיים להתקין את התוספים החסרים:">
 <!ENTITY pluginWizard.finalPage.moreInfo.label "מצא עוד אודות תוספים או חפש ידנית תוספים חסרים">
 <!ENTITY pluginWizard.finalPage.restart.label "יש לאתחל את &brandShortName; כדי שתוספים חדשים יתפקדו.">
 <!ENTITY pluginWizard.firstPage.title "ברוכים הבאים אל &pluginWizard.title;">
-<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName; מתקין תוספים...">
+<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName; מתקין תוספים…">
 <!ENTITY pluginWizard.installPluginsPage.title "מתקין תוספים">
 <!ENTITY pluginWizard.licensePage.accept.label "אני מסכים.">
 <!ENTITY pluginWizard.licensePage.deny.label "אינני מסכים (התוסף לא יותקן).">
