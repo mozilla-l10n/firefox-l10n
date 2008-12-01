@@ -11,24 +11,16 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   - The Original Code is Sun Microsystems code.
    -
    - The Initial Developer of the Original Code is
-   - OEone Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 2001
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   - Portions created by the Initial Developer are Copyright (C) 2008
    - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s): Garth Smedley <garths@oeone.com>
-   -                 Mike Potter <mikep@oeone.com>
-   -                 Chris Charabaruk <coldacid@meldstar.com>
-   -                 ArentJan Banck <ajbanck@planet.nl>
-   -                 Eric Belhaire <belhaire@ief.u-psud.fr>
-   -                 Matthew Willis <mattwillis@gmail.com>
-   -                 Simon Paquet <bugzilla@babylonsounds.com>
-   -                 Stefan Sitter <ssitter@gmail.com>
-   -                 Philipp Kewisch <mozilla@kewis.ch>
-   -                 Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
-   -                 Rimas Kudelis <rq@akl.lt>
+
+   - Contributor(s):
+   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+   -   Rimas Kudelis <rq@akl.lt>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -78,6 +70,7 @@
 
 <!ENTITY sunbird.menu.numberofweeks.label                  "Savaičių skaičius" >
 <!ENTITY sunbird.menu.numberofweeks.accesskey              "a" >
+<!ENTITY sunbird.menu.numberofweeks.1                      "1 savaitė" >
 <!ENTITY sunbird.menu.numberofweeks.2                      "2 savaitės" >
 <!ENTITY sunbird.menu.numberofweeks.3                      "3 savaitės" >
 <!ENTITY sunbird.menu.numberofweeks.4                      "4 savaitės" >
