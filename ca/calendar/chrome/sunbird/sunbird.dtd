@@ -68,6 +68,7 @@
 
 <!ENTITY sunbird.menu.numberofweeks.label     "Nombre de setmanes" >
 <!ENTITY sunbird.menu.numberofweeks.accesskey "N" >
+<!ENTITY sunbird.menu.numberofweeks.1      "1 Setmana" >
 <!ENTITY sunbird.menu.numberofweeks.2      "2 setmanes" >
 <!ENTITY sunbird.menu.numberofweeks.3      "3 setmanes" >
 <!ENTITY sunbird.menu.numberofweeks.4      "4 setmanes" >
