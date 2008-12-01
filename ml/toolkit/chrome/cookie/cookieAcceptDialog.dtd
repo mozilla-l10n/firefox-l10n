@@ -1,4 +1,4 @@
-<!ENTITY props.box.label "ഈ കൂക്കിയെക്കുറിച്ച്‌ ">
+<!-- ENTITY props.box.label "ഈ കൂക്കിയെക്കുറിച്ച്‌ " -->
 <!ENTITY props.name.label "പേര്‌ ">
 <!ENTITY props.value.label "ഉള്ളടക്കം">
 <!ENTITY props.domain.label "ഹോസ്റ്റ്‌:">
