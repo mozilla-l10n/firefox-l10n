@@ -69,6 +69,7 @@
 
 <!ENTITY sunbird.menu.numberofweeks.label                  "מספר שבועות" >
 <!ENTITY sunbird.menu.numberofweeks.accesskey              "מ" >
+<!ENTITY sunbird.menu.numberofweeks.1                      "שבוע" >
 <!ENTITY sunbird.menu.numberofweeks.2                      "2 שבועות" >
 <!ENTITY sunbird.menu.numberofweeks.3                      "3 שבועות" >
 <!ENTITY sunbird.menu.numberofweeks.4                      "4 שבועות" >
