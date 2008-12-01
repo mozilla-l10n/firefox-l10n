@@ -61,7 +61,7 @@
 <!ENTITY pref.calendar.view.visiblehours.accesskey "b">
 <!ENTITY pref.calendar.view.visiblehoursend.label "hodín">
 
-<!ENTITY pref.numberofweeks.label "Predvolený počet týždňov (vrátane predchádzajúcich):">
+<!ENTITY pref.numberofweeks.label "Počet zobrazených týždňov (vrátane predchádzajúcich):">
 <!ENTITY pref.numberofweeks.accesskey "e">
 <!ENTITY pref.numberofpreviousweeks.label "Počet predchádzajúcich týždňov:">
 <!ENTITY pref.numberofpreviousweeks.accesskey "c">
