@@ -3,26 +3,39 @@
 <!ENTITY printJobOptions.title "საბეჭდის პარამეტრები">
 
 <!ENTITY paperInput.label "ქაღალდის ზომა:">
+<!ENTITY paperInput.accesskey "P">
 
 <!ENTITY plexInput.label "რეჟიმი:">
+<!ENTITY plexInput.accesskey "m">
 
 <!ENTITY resolutionInput.label "გარჩევადობა/ხარისხი:">
+<!ENTITY resolutionInput.accesskey "e">
 
 <!ENTITY cmdInput.label "ბეჭდვის ბრძანება:">
+<!ENTITY cmdInput.accesskey "o">
 
 <!ENTITY jobTitleInput.label "დავალების სახელი:">
+<!ENTITY jobTitleInput.accesskey "J">
 
 <!ENTITY colorGroup.label "ფერადი:">
-<!ENTITY grayRadio.label "შავ-თეთრი">
+<!ENTITY grayRadio.label "შავ-თეთრი ფოტო">
+<!ENTITY grayRadio.accesskey "G">
 <!ENTITY colorRadio.label "ფერადი">
+<!ENTITY colorRadio.accesskey "C">
 
 <!ENTITY colorspaceInput.label "პალიტრა:">
+<!ENTITY colorspaceInput.accesskey "s">
 
 <!ENTITY fontsGroup.label "შრიფტები:">
-<!ENTITY downloadFonts.label "ჩავტვირთო შრიფტები საბეჭდში?">
+<!ENTITY downloadFonts.label "შრიფტების ჩატვირთვა საბეჭდში">
+<!ENTITY downloadFonts.accesskey "D">
 
 <!ENTITY edgeMarginInput.label "გვერდის ველები (დუიმებში)">
 <!ENTITY topInput.label "ზედა:">
+<!ENTITY topInput.accesskey "T">
 <!ENTITY bottomInput.label "ქვედა:">
+<!ENTITY bottomInput.accesskey "B">
 <!ENTITY leftInput.label "მარცხენა:">
+<!ENTITY leftInput.accesskey "L">
 <!ENTITY rightInput.label "მარჯვენა:">
+<!ENTITY rightInput.accesskey "R">

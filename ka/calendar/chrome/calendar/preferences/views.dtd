@@ -61,7 +61,7 @@
 <!ENTITY pref.calendar.view.visiblehours.accesskey "o">
 <!ENTITY pref.calendar.view.visiblehoursend.label "საათ(ებ)ი გვერდზე">
 
-<!ENTITY pref.numberofweeks.label "კვირების ძირითადი რაოდენობა (წინა კვირების ჩათვლით):">
+<!ENTITY pref.numberofweeks.label "კვირების რაოდენობა ჩვენებისას (წინა კვირების ჩათვლით):">
 <!ENTITY pref.numberofweeks.accesskey "e">
 <!ENTITY pref.numberofpreviousweeks.label "წინა კვირების რაოდენობა:">
 <!ENTITY pref.numberofpreviousweeks.accesskey "P">
