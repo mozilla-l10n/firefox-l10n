@@ -401,16 +401,11 @@
       <li><strong>Teckensnitt</strong>: Använd detta för att välja ett teckensnitt. 
         Om du föredrar att använda teckensnitt angivna i besökarens webbläsare, 
         välj Variabelt breddsteg eller Fast breddsteg.
-<!-- Staemmer inte : alla fonter finns med i menyn, Bug 459560 -->
-        <p><strong>OBS!</strong> Alla typsnitt installerade på din dator
-          dyker inte upp. Istället för att specificera ett typsnitt som kanske
-          inte är tillgängligt för alla som tittar på din webbsida, är det
-          generellt bäst att välja ett av de typsnitt som finns i menyn
-          eftersom dessa typsnitt fungerar på varje dator. Till exempel,
-          typsnitten Helvetica, Arial, Times, och Courier brukar i allmänhet se
-          likadana ut när de visas på olika datorer. Om du väljer ett annat
-          typsnitt, kanske det inte ser likadant ut när det visas på en annan
-          dator.</p>
+
+        <p><strong>OBS!</strong> Teckensnitten Helvetica, Arial, Times och
+          Courier brukar i allmänhet se likadana ut när de visas på olika
+          datorer. Om du väljer ett annat teckensnitt, kanske det inte ser
+          likadant ut när det visas på en annan dator.</p>
       </li>
       <li><strong>Storlek</strong>: Använd detta för att välja en 
         <em>relativ</em> storleksgrad, eller välj ett alternativ för att öka eller 
@@ -724,11 +719,11 @@
 <p>För att validera ditt dokuments HTML-syntax:</p>
 
 <ol>
-  <li>Öppna menyn Verktyg och välj Validera HTML. Om du har osparade
-    ändringar, ber Composer dig spara dem innan du fortsätter.</li>
-  <li>När W3C:s HTML-valideringstjänst visas, klicka på Bläddra och
-    hitta den fil på din hårddisk du vill validera.</li>
-  <li>Klicka på <q>Check</q>.</li><!-- Staemmer inte med Validate this file, Bug 459560 -->
+  <li>Öppna menyn Verktyg och välj Validera HTML. Om du har ändringar som inte
+    sparats, ber Composer dig att spara dem innan du fortsätter.</li>
+  <li>När W3C:s HTML-valideringstjänst visas, klicka på <q>Bläddra</q> och hitta
+    den fil på din hårddisk du vill validera.</li>
+  <li>Klicka på <q>Check</q>.</li>
 </ol>
 
 <p>[<a href="#formatting_your_web_pages">Återvänd till början av
@@ -876,9 +871,8 @@
     </ul>
   </li>
   <li>För att använda ytterligare attribut eller JavaScript, klicka på 
-    Avancerad redigering för att visa 
-<!-- Staemmer inte : fel laenk i en-us, Bug 459560 -->
-    <a href="#using_the_advanced_property_editor">Editor för avancerade 
+    Avancerad redigering för att visa <a
+    href="#using_the_advanced_property_editor">Editor för avancerade
     egenskaper</a>.
   </li>
   <li>Klicka på Verkställ för att förhandsgranska dina ändringar utan att
@@ -1003,18 +997,18 @@
   Composer-fönstret:</p>
 
 <ol>
-  <li>Öppna menyn Redigera, välj inställningar och sedan Composer.</li>
-  <li>Under Redigering, gör följande inställning: <!-- Staemmer inte : ej Table Editing, Bug 459560 -->
+  <li>Öppna menyn <span class="mac">&brandShortName;</span>
+    <span class="noMac">Redigera</span>, välj Inställningar och sedan
+    Composer.</li>
+  <li>Under Redigering, gör följande inställning:
     <ul>
       <li>Försäkra dig om att <q>Behåll tabellens layout när du infogar eller 
         tar bort celler</q> är markerat, för att se till att du inte får
         en oregelbundet formad tabell.</li>
     </ul>
   </li>
-  <li>Klicka på OK.</li>
+  <li class="win">Klicka på OK.</li>
 </ol>
-<!-- Staemmer inte : laenktext, Bug 459560 -->
-<p>Se även <a href="#composer">Composer-inställningar - Composer</a>.</p>
 
 <p>[<a href="#adding_tables_to_your_web_page">Återvänd till början av
   avsnittet</a>]</p>
@@ -1540,10 +1534,17 @@
 
 <p><strong>Tips</strong>: Dra och släpp en länkad bild från webbfönstret till 
   ett Composer-fönster för att kopiera både bilden och länken.</p>
-<!-- Staemmer inte : Image properties, inte Link properties, Bug 459560 -->
-<p><strong>OBS!</strong> För att ta bort den blåa ramen runt bilder som används 
-  som länkar, öppna dialogrutan Egenskaper för bild, klicka på fliken Länk,  
-  och avmarkera <q>Visa ram runt länkad bild</q>.</p>
+
+<p><strong>OBS!</strong> För att ta bort den blåa ramen som kan dyka upp kring
+  bilder som används som länkar:</p>
+
+<ol>
+  <li>Markera den länkade bilden.</li>
+  <li>Öppna menyn Format och välj Egenskaper för bild och länk.</li>
+  <li>I dialogrutan, välj fliken Länk.</li>
+  <li>Avmarkera <q>Visa ram runt länkad bild</q>.</li>
+  <li>Klicka på OK.</li>
+</ol>
 
 <p>[<a href="#creating_links_in_composer">Återvänd till början av
   avsnittet</a>]</p>

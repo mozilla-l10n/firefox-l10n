@@ -42,7 +42,6 @@
       webbplatsvis</a></li>
     <li><a href="#viewing_cookies">Visa kakor</a></li>
     <li><a href="#removing_cookies">Ta bort kakor</a></li>
-    <li><a href="#setting_privacy_levels">Ange integritetsnivåer</a></li>
     <li><a href="#cookie_manager_settings">Inställningar för
       Kakhanteraren</a></li>
   </ul>
@@ -179,83 +178,6 @@
 <p>[<a href="#using_the_cookie_manager">Återvänd till början av
   avsnittet</a>]</p>
 
-<h2 id="setting_privacy_levels">Ange integritetsnivåer</h2>
-<!-- Staemmer inte - kommenterar ut hela delavsnittet, Bug 459607
-<p>Många webbplatser utvecklar och publicerar en integritetspolicy baserad på
-  standarden Platform for Privacy Preferences (P3P). Informationen som följer
-  gäller endast för de webbplatser som publicerar en integritetspolicy baserad
-  på P3P-standarden, och för webbläsarens implementering av den standarden.
-  Webbläsarens implementering är kanske inte i alla stycken identisk med
-  standarden som publiceras av World Wide Web Consortium.</p>
-
-<p>En webbplats integritetspolicy beskriver den typ av information som platsen
-  samlar, med vem den delar den informationen, och hur den använder
-  informationen. För information om visning av en webbplats integritetspolicy,
-  se <a href="#viewing_privacy_policies">Visa integritetspolicy</a>.</p>
-
-<p>Webbläsarens tillämpning av P3P-standarden definierar tre nivåer av
-  integritet: låg, medel och hög. Du kan välja en av dessa fördefinierade
-  nivåer, eller specificera egna inställningar i detalj. När du har angett din
-  önskade nivå kommer webbläsaren att jämföra dina inställningar med
-  webbplatsen P3P-policy (om det finns någon), och acceptera eller neka kakor
-  därefter.</p>
-
-<p>Dina inställningar kan t.ex. kräva att webbläsaren blockerar kakor som
-  samlar in personlig information utan att informera dig. Du kan också anpassa
-  dina inställningar så att webbläsaren bara varnar dig när en kaka används på
-  detta sätt, medan den samtidigt tillåter att kakan används.</p>
-
-<p>För att kontrollera de inställningar för integritet du vill tillämpa för
-  alla webbplatser:</p>
-
-
-<ol>
-  <li>Öppna <span class="mac">&brandShortName;</span><span
-    class="noMac">Redigera</span>-menyn och välj Inställningar.</li>
-  <li>Under kategorin Integritet och säkerhet, välj Kakor. (Om inga
-    underkategorier är synliga, dubbelklicka på Integritet och säkerhet för
-    att fälla ut listan.)</li>
-  <li>Välj alternativet &quot;Tillåt kakor enligt inställningarna för
-    integritet.&quot;</li>
-  <li>Klicka på Inställningar.</li>
-  <li>I dialogrutan Inställningar för integritet, välj den nivå av integritet
-    du vill använda, eller välj &quot;egen&quot; och ange dina egna
-    inställningar enligt nedanstående beskrivning.</li>
-  <li>Klicka på OK för att bekräfta dina inställningar.</li>
-</ol>
-
-<p>&brandShortName; hanterar kakor enligt de inställningar du väljer. Om du
-  inte väljer en egen inställning kommer webbläsaren att använda
-  medel-inställningen. För alternativen låg, medel och hög finns förinställda
-  inställningar angivna. För mer information om dessa förinställda alternativ,
-  se <a href="#privacy_settings">Inställningar för integritet</a>.</p>
-
-<p>När alternativet &quot;egen&quot; är valt kan du ange egna inställningar i
-  detalj. Beroende på P3P-policyn som webbplatsen som lagrar kakan har, och
-  beroende på om platsen som lagrar kakan är den du besöker eller inte, kan du
-  välja om du vill att kakhanteraren ska acceptera kakan, blockera den,
-  acceptera den för endast denna session, eller flagga för den.</p>
-
-<p>Om du väljer Neka, Flagga eller Session för en given kategori kommer
-  kakhanteraren att visa en ikon för kakan
-  (<img alt="signaleringsikon för kakor"
-
-  src="chrome://communicator/skin/permissions/taskbar-cookie.gif"/>)
-  nära det nedre högra hörnet av webbläsarfönstret när en webbplats som stämmer
-  in på kategorin lagrar en kaka. När denna ikon visas kan du klicka på den för
-  att få information om de berörda kakorna.</p>
-
-<p>&quot;Vanliga kakor&quot; är kakor som lagras av den plats du besöker.
-  &quot;Kakor från tredje part,&quot; även kända som
-  <a href="privacy_help.xhtml#what_are_third-party_cookies">tredjepartskakor</a>, 
-  är lagrade av andra platser än de du tittar på.</p>
-
-<p>För mer detaljer, se <a href="#privacy_settings">Inställningar för
-  integritet</a>.</p>
- -->
-<p>[<a href="#using_the_cookie_manager">Återvänd till början av
-  avsnittet</a>]</p>
-
 <h1 id="cookie_manager_settings">Inställningar för Kakhanteraren</h1>
 
 <p>Detta avsnitt beskriver hur du anger inställningarna för kakor och
@@ -270,7 +192,6 @@
       Kakor</a></li>
     <li><a href="#stored_cookies">Lagrade kakor</a></li>
     <li><a href="#cookie_sites">Kakor och webbplatser</a></li>
-    <li><a href="#privacy_settings">Inställningar för integritet</a></li>
     <li><a href="#cookie_notification">Varskoendesignal om kaka</a></li>
   </ul>
 </div>
@@ -296,17 +217,13 @@
   kakor och hur fungerar de?</a></p>
 
 <p>Du kan välja ett av dessa alternativ:</p>
-<!-- Staemmer inte, Bug 459607 -->
+
 <ul>
   <li><strong>Tillåt inte kakor</strong>: Välj detta alternativ om du vill
     blockera alla kakor.</li>
   <li><strong>Tillåt kakor från ursprungsplatsen enbart</strong>: Välj detta 
     alternativ om du inte vill acceptera eller returnera
     <a href="privacy_help.xhtml#what_are_third-party_cookies">tredjepartskakor</a>.</li>
-  <li><strong>Tillåt kakor enligt inställningarna för integritet:</strong> Välj
-    detta alternativ om du vill hantera kakor baserat på dina inställningar för
-    integritet. Om du väljer detta alternativ, klicka på knappen Inställningar
-    för att bekräfta eller modifiera dina integritetsinställningar.</li>
   <li><strong>Tillåt alla kakor</strong>: Detta är förinställningen. Välj
     detta alternativ om du vill tillåta alla webbplatser, utom dem som uttryckligen
     blockerats från det, att lagra kakor på din dator.</li>
@@ -347,7 +264,7 @@
 <p>Du kan också få mer information om dina lagrade kakor:</p>
 
 <ul>
-  <li><strong>Hantera lagrade kakor</strong>: Klicka på denna knapp för att
+  <li><strong>Kakhanteraren</strong>: Klicka på denna knapp för att
     visa information om de kakor som finns lagrade på din dator och vilka
     platser som tillåts placera ut dem.</li>
 </ul>
@@ -365,12 +282,6 @@
 
 <p>Fliken Lagrade kakor listar alla kakor lagrade på din dator, de platser de
   hör till och deras aktuella status.</p>
-
-<!-- Staemmer inte, Bug 459607 -->
-<p>Om du inte kan se kolumnen Status, klicka på ikonen i det övre högra hörnet
-  av tabellen och markera Status. Denna kolumn indikerar vilka kakor som har
-  blivit flaggade eller accepterade i enlighet med dina
-  <a href="#privacy_settings">inställningar för integritet</a>.</p>
 
 <p>När du markerar en kaka i denna lista kommer följande information om kakan
   att visas i den nedre delen av fliken:</p>
@@ -507,177 +418,6 @@
   inte längre att veta något om dem. Om alternativet &quot;Varna mig innan en
   kaka lagras&quot; är förprickat i inställningspanelen för kakor, kommer du 
   att varnas när webbplatser, som inte finns i listan, vill lagra en kaka.</p>
-
-<h2 id="privacy_settings">Inställningar för integritet</h2>
-<!-- Staemmer inte - kommenterar ut hela delavsnittet, Bug 459607
-
-<p>Detta avsnitt beskriver hur du använder fönstret Inställningar för
-  integritet. Om du inte redan visar den, följ dessa steg:</p>
-
-<ol>
-  <li>Öppna <span class="mac">&brandShortName;</span><span
-    class="noMac">Redigera</span>-menyn och välj Inställningar.</li>
-  <li>Under kategorin Integritet och säkerhet, klicka på Kakor. (Om inga
-    underkategorier är synliga, dubbelklicka på Integritet och säkerhet för
-    att fälla ut listan.)</li>
-  <li>Välj alternativet &quot;Tillåt kakor enligt inställningarna för
-    integritet.&quot;.</li>
-  <li>Klicka på Inställningar.</li>
-</ol>
-
-<p>För mer information om integritetsinställningar, se
-  <a href="#setting_privacy_levels">Ange integritetsnivåer</a>.</p>
-
-<div class="contentsBox">I detta avsnitt:
-  <ul>
-    <li><a href="#level_of_privacy">Integritetsnivå</a></li>
-    <li><a href="#cookie_acceptance_policy">Regler för accepterande av kakor</a></li>
-  </ul>
-</div>
- -->
-<h3 id="level_of_privacy">Integritetsnivå</h3>
-<!-- Staemmer inte forts., Bug 459607
-<p>Den nivå på integritet som du anger här bestämmer hur &brandShortName;
-  behandlar kakor i enlighet med integritetspolicyn baserad på P3P-standarden
-  som vissa webbplatser publicerar, och inställningarna som visas under Regler
-  för accepterande av kakor för vanliga och tredjepartskakor.</p>
-
-<p>&quot;Vanliga kakor&quot; är kakor lagrade av en webbplats som du besökt.
-  &quot;Kakor från tredje part,&quot; även kända som
-  <a href="privacy_help.xhtml#what_are_third-party_cookies">tredjepartskakor</a>, 
-  är satta av andra webbplatser än de du tittar på.</p>
-
-<p>Du kan välja en av följande nivåer:</p>
-
-<ul>
-  <li><strong>låg:</strong> Välj detta om du vill acceptera alla vanliga kakor,
-    utan hänsyn till webbplatsens integritetspolicy. 
-
-    <p>Detta alternativ tillåter även alla kakor från tredje part, men
-      <strong>flaggar</strong> dom som kommer från platser som indikerat att
-      dom utan ditt medgivande kan samla in information som kan användas för
-      att identifiera dig. Flaggade kakor listas som "flaggad" i
-      status-kolumnen i kakhanterarens flik
-      <a href="#stored_cookies">Lagrade kakor</a>.</p>
-
-    <p>När en kaka först flaggas kommer kakhanteraren att visa en ikon
-      (<img alt="signaleringsikon för kakor"
-      src="chrome://communicator/skin/permissions/taskbar-cookie.gif"/>) för
-      att signalera om kakan, nära det nedre högra hörnet av
-      webbläsarens fönster (om den inte redan visas). Du kan klicka på ikonen för
-      att se mer detaljerad information om flaggade kakor.</p>
-
-  </li>
-  <li><strong>medel:</strong> Välj detta om du vill acceptera och flagga både
-    vanliga kakor och kakor från tredje part, från platser som kan samla in
-    personligt identifierande information utan ditt medgivande. Detta är
-    förinställningen.</li>
-  <li><strong>hög:</strong> Välj detta om du vill ha samma inställningar som
-    medel, men med följande skillnader:
-    <ul>
-      <li>Blockerar kakor från tredje part som är satta av platser som kan
-        komma att samla in information för att identifiera dig personligen,
-        utan ditt medgivande.</li>
-      <li>Accepterar, men endast för den aktuella session, kakor från tredje
-        part, som utan ditt medgivande kan komma att samla in information för
-        att identifiera dig personligen, men också visa en webbsida eller
-        tillhandahålla någon annan mekanism som gör att du kan vägra att ge
-        ditt medgivande.</li>
-    </ul>
-  </li>
-  <li><strong>egen:</strong> Välj detta om du vill ange dina egna inställningar
-    för accepterande av kakor. Förinställningarna för &quot;egen&quot; är de
-    som gällde innan du valde detta alternativ. Du kan modifiera dem genom att
-    välja olika alternativ från rullgardinsmenyerna i dialogrutan Regler för
-    accepterande av kakor.</li>
-</ul>
-
-<p>För att se den exakta effekten av varje nivå på inställningarna, välj den
-  och studera inställningarna i Regler för accepterande av kakor.</p>
- --> 
-<h3 id="cookie_acceptance_policy">Regler för accepterande av kakor</h3>
-<!-- Staemmer inte forts., Bug 459607
-<p>Om du väljer alternativet <strong>egen</strong> i den övre delen av
-  dialogrutan Inställningar för integritet, kan du välja bland fyra olika
-  alternativ i rullgardinsmenyerna för de åtta olika kategorierna som visas i
-  den nedre delen. Dessa inställningar får kakhanteraren att utföra följande
-  åtgärder:</p>
-
-<ul>
-  <li><strong>Acceptera:</strong> Acceptera alla kakor i kategorin.</li>
-  <li><strong>Session:</strong> Acceptera alla kakor i kategorin, men endast
-    för den aktuella sessionen&mdash;d.v.s., tills dess att du stänger
-    webbläsaren.</li>
-  <li><strong>Neka:</strong> Blockera alla kakor i kategorin.</li>
-  <li><strong>Flagga:</strong> Listar kakans status som "flaggad" i
-    statuskolumnen i kakhanterarens flik
-    <a href="#stored_cookies">Lagrade kakor</a> och visar signaleringsikonen
-    för kakor.</li>
-</ul>
-
-<p>Signaleringsikonen för kakor (<img alt="signaleringsikonen för kakor"
-  src="chrome://communicator/skin/permissions/taskbar-cookie.gif"/>) visas
-  nära det nedre högra hörnet av webbläsarens fönster. Du kan klicka på den för
-  att få information om de berörda kakorna eller för att modifiera dina
-  inställningar för integritet.</p>
-
-<p>Webbplatser är klassificerade i fyra kategorier för varje kaksort (vanliga och
-  tredjepartskakor):</p>
-
-<ul>
-  <li><strong>Platsen har ingen integritetspolicy:</strong> Webbplatsen har
-    inte publicerat någon form av integritetspolicy. Det finns ingen möjlighet
-    att veta vilken sorts information sådana platser samlar in, eller vad dom
-    gör med den.</li>
-  <li><strong>Platsen samlar in personligt identifierande information utan ditt
-    medgivande:</strong> Webbplatsen publicerar en integritetspolicy, men
-    frågar inte om din tillåtelse när den samlar in personligt identifierande
-    information.</li>
-  <li><strong>Platsen samlar in personligt identifierande information med
-    endast ditt underförstådda medgivande:</strong> Webbplatsen samlar in
-    information om dig så länge du inte går till en webbplats  (eller använder
-    någon annan förutbestämd mekanism) för att uttryckligen avsäga dig detta
-    (opt-out).</li>
-  <li><strong>Platsen samlar inte in personligt identifierande information utan
-    ditt uttryckliga medgivande:</strong> Webbplatserna kommer inte att samla
-    in personligt identifierande information, såvida du inte uttryckligen
-    godkänt det (opt-in).</li>
-</ul>
- -->
-<h2 id="cookie_notification">Varskoendesignal om kaka</h2>
-<!-- Staemmer inte : Bug 459607 -->
-<p>Signaleringsikonen för kakor (<img alt="signaleringsikonen för kakor"
-  src="chrome://communicator/skin/permissions/taskbar-cookie.gif"/>) visas i
-    statusfältet, nära det nedre högra hörnet av webbläsarens fönster. Den visas
-    när en webbplats har använt en kaka på ett sätt som kräver att du blir
-    underrättad om det, enligt dina <a href="#privacy_settings">Inställningar
-    för integritet</a>.</p>
-
-<p>Detta avsnitt beskriver hur du använder dialogrutan Varskoendesignal om kaka,
-  vilken dyker upp när du klickar på signaleringsikonen för kakor. Du 
-  kan vidta följande åtgärder i denna dialogruta:</p>
-
-<ul>
-  <li><strong>Stäng av inställningarna för integritet:</strong> Klicka på denna
-    knapp för att inaktivera dina inställningar för integritet. Detta har samma
-    effekt som att välja &quot;Tillåt alla kakor&quot; i
-    <a href="#cookies">Integritets- och säkerhetsinställningar - Kakor</a>. Om du väljer
-    detta kommer webbläsaren att acceptera alla kakor.</li>
-  <li><strong>Visa kakhanteraren:</strong> Klicka på denna knapp för att öppna
-    kakhanteraren, där du kan se den aktuella statusen på alla dina kakor och
-    identifiera de kakor som var orsaken till att signaleringsikonen
-    visades.</li>
-  <li><strong>Visa inställningar för integritet:</strong> Klicka på denna
-    knapp för att öppna dialogrutan Inställningar för integritet.
-    Inställningarna i denna dialogruta bestämmer hur webbplatser kan använda
-    kakor på din dator, och vilka åtgärder som förorsakade att
-    signaleringsikonen visades.</li>
-  <li><strong>Stäng</strong>: Klicka på denna knapp för att stänga
-    dialogrutan Varskoendesignal om kaka utan att vidta några åtgärder.</li>
-</ul>
-
-<p>För mer information om hur du använder inställningar för integritet, se
-  <a href="#setting_privacy_levels">Ange integritetsnivåer</a>.</p>
 
 <h1 id="using_the_password_manager">Använda Lösenordshanteraren</h1>
 
@@ -860,571 +600,13 @@
 
 <p>[<a href="#using_the_password_manager">Återvänd till början av
   avsnittet</a>]</p>
-<!-- Staemmer inte : vaentar med formulaerhanteraren, cp. bug 416235 -->
-<h1 id="using_the_form_manager">Använda Formulärhanteraren</h1>
 
-<p>Många webbsidor innehåller formulär för dig att fylla i &mdash; 
-  orderformulär för näthandel, informationsdatabaser och så vidare.</p>
-
-<p>Formulärhanteraren kan spara de personliga data du skriver in i formulär,
-  såsom ditt namn, adress, telefonnummer, kreditkortsnummer och så
-  vidare. Dessa uppgifter sparas på din hårddisk. När sedan en webbplats
-  presenterar ett formulär för dig kommer Formulärhanteraren att fylla i det åt
-  dig automatiskt.</p>
-
-<div class="contentsBox">I detta avsnitt:
-  <ul>
-    <li><a href="#saving_form_data">Spara formulärdata</a></li>
-    <li><a href="#filling_out_forms_automatically">Fylla i formulär
-      automatiskt</a></li>
-    <li><a href="#turning_off_form_manager_notification">Stänga av
-      Formulärhanterarens uppmaningar</a></li>
-    <li><a href="#managing_stored_form_data">Hantera lagrade
-      formulärdata</a></li>
-    <li><a href="#editing_stored_site_information">Redigera för 
-      webbplatser lagrade uppgifter</a></li>
-    <li><a href="#viewing_privacy_policies">Visa integritetspolicy</a></li>
-    <li><a href="#form_settings">Inställningar för formulär</a></li>
-  </ul>
-</div>
-
-<h2 id="saving_form_data">Spara formulärdata</h2>
-
-<p>När du fyller i ett direktanslutet formulär och klickar på Skicka, kommer 
-  Formulärhanteraren att uppmärksamma formuläret och visa en dialogruta, som 
-  frågar dig om du vill spara de personliga data du just skrivit in. Snart 
-  kommer Formulärhanteraren att ha nog med sparade data för att börja fylla 
-  i formulär automatiskt.</p>
-
-<p>Det finns två sätt att spara personliga data:</p>
-
-<ul>
-  <li>Varje gång du skickar ett direktanslutet formulär som innefattar vissa 
-    uppgifter, såsom ditt namn och din adress, kommer Formulärhanteraren att
-    fråga dig om uppgifterna ska sparas. Klicka på Ja. 
-
-    <p>Observera att Formulärhanteraren endast frågar dig ifall dess automatiska 
-      uppmaningsfunktion är påslagen. (Denna funktion är förinställt påslagen.)
-      För detaljer, se <a href="#turning_off_form_manager_notification">Stänga av
-      Formulärhanterarens uppmaningar</a>.</p>
-  </li>
-  <li>När du har fyllt i ett formulär (men innan du skickat det), öppna menyn 
-    Redigera och välj Spara formuläruppgifter.</li>
-</ul>
-<!-- gamla strukturen tillbakaflyttad haerifraan -->
-<p>När Formulärhanteraren frågar om du vill spara värdena du fyllt i formuläret
-  (den första metoden som beskrevs ovan), kommer den att ge dig tre
-  alternativ:</p>
-
-<ul>
-  <li><strong>Ja:</strong> Klicka på denna knapp för att spara informationen du
-    fyllt i. I framtiden kommer du att automatiskt att kunna fylla i ett
-    formulär som frågar efter samma information.</li>
-  <li><strong>Aldrig för denna webbplats:</strong> Klicka på denna knapp för
-    att Formulärhanteraren inte i framtiden ska fråga dig igen om du vill spara
-    informationen du skriver in på denna plats. 
-
-    <p>Du kanske vill använda detta alternativ om du vill vara säker på att
-      alltid måste fylla i känslig information manuellt på särskilda platser.
-      Du kan ändra detta senare om du ändrar dig; för detaljer, se
-      <a href="#editing_stored_site_information">Redigera för webbplatser 
-      lagrade uppgifter</a>.</p>
-
-  </li>
-  <li><strong>Nej:</strong> Formulärhanteraren kommer inte att spara 
-   informationen du skriver in, men kommer att fråga dig igen nästa gång du
-   skriver in formulär-information på denna webbplats.</li>
-</ul>
-
-<p>Formulärhanteraren lagrar din personliga data på din egen dator i en fil som
-  är svår, men inte omöjlig för obehöriga att läsa. Se
-  <a href="#encrypting_stored_sensitive_information">Kryptera lagrade, 
-  känsliga uppgifter</a> för information om hur du skyddar din information
-  med kryptering.</p>
-
-<p>[<a href="#using_the_form_manager">Återvänd till början av
-  avsnittet</a>]</p>
-
-<h2 id="filling_out_forms_automatically">Fylla i formulär automatiskt</h2>
-
-<p>Du kan använda Formulärhanteraren för att fylla i formulär automatiskt på
-  två sätt: antingen ett fält i taget, eller flera fält åt gången. I båda
-  fallen skickas information inte förrän du klickar på Skicka-knappen, eller
-  utför någon annan liknande åtgärd.</p>
-
-<p>För att automatiskt fylla i ett enkelt fält i ett formulär, dubbelklicka i
-  fältet. Om Formulärhanteraren har sparat data för detta fält kommer den att
-  fylla i det. Du kan redigera den ifyllda datan om det behövs.</p>
-
-<p>För att fylla i flera fält åt gången i ett formulär:</p>
-
-<ol>
-  <li>Gå till ett formulär du vill fylla i.</li>
-  <li>Öppna Redigera-menyn och välj Fyll i formulär. 
-
-    <p>Observera att menyposten Fyll i formulär inte kommer att vara
-      tillgänglig om Formulärhanteraren inte ännu har sparat någon relevant information.</p>
-
-  </li>
-  <li>En dialogruta kallad Fyll i formulärdata kommer att visas (såvida du inte
-    tidigare har valt att förbigå den för denna webbplats). Denna visar exakt
-    vilken information som Formulärhanteraren kommer att fylla i. Du kan
-    använda denna dialogruta som följer:
-    <ul>
-      <li>För att förhindra att ett fält fylls i automatiskt, ta bort markören
-        från rutan bredvid den.</li>
-      <li>För att inga fält ska fyllas i automatiskt, klicka på Avbryt.</li>
-    </ul>
-
-    <p><strong>Viktigt:</strong> Du kan också välja att förbigå denna
-      dialogruta i framtiden. Om du gör det riskerar du dock att fylla i
-      personliga uppgifter (såsom ditt kreditkortsnummer) oavsiktligt. För fler
-      detaljer, se nedan.</p>
-  </li>
-  <li>Klicka på OK för att bekräfta ditt val. Formulärhanteraren kommer sedan
-    att fylla i formuläret som du bestämt.
-
-    <p>Formuläret fylls nu i med de sparade uppgifterna. Du behöver kanske ge
-      ytterligare information som Formulärhanteraren inte har tillgänglig.
-      Information skickas inte till platsen förrän du klickar på Skicka, eller
-      utför någon liknande åtgärd.</p>
-
-  </li>
-</ol>
-
-<p>Utöver att ge ett bekvämt sätt att bekräfta sparad data och fylla i ett
-  formulär på samma gång, är dialogrutan Fyll i formulärdata användbar av två
-  skäl:</p>
-
-<ul>
-  <li>Fyll i formulärdata kan hjälpa dig att förhindra att illasinnade
-    webbplatser samlar in data du inte är medveten om. 
-
-    <p>Det är t.ex. möjligt för en webbplats att dölja ett fält i ett formulär
-      så att du inte ser det, och specificera fältet till ett
-      kreditkortsnummer. Om du fyller i formuläret utan att först undersöka
-      uppgifterna som visas i dialogrutan Fyll i formulärdata, kanske du ger ut
-      ditt kreditkortsnummer till en sådan webbplats utan att du är medveten om
-      det. Fyll i formulärdata låter dig se varje uppgift som skickas till
-      platsen, vilket gör att du kan upptäcka sådana trick.</p>
-
-  </li>
-  <li>Fyll i formulärdata låter dig välja vilka av dina sparade värden för ett
-    givet fält du vill använda för en specifik webbplats.</li>
-</ul>
-
-<p>För en detaljerad beskrivning av dialogrutan Fyll i formulärdata, se
-  <a href="#prefill_form_data">Fyll i formulärdata</a>.</p>
-
-<p>[<a href="#using_the_form_manager">Återvänd till början av
-  avsnittet</a>]</p>
-
-<h2 id="turning_off_form_manager_notification">Stänga av Formulärhanterarens
-  signalering</h2>
-
-<p>Formulärhanteraren är inställd på att uppmana dig till att spara
-  informationen när du skickar in formulär som innehåller viss sorts
-  information, såsom ditt namn och din adress. För att stoppa dessa meddelanden
-  från att visas på skärmen:</p>
-
-<ol>
-  <li>Öppna <span class="mac">&brandShortName;</span><span
-    class="noMac">Redigera</span>-menyn och välj Inställningar.</li>
-  <li>Under kategorin Integritet och säkerhet, välj Formulär. (Om inga
-    underkategorier är synliga, dubbelklicka på Integritet och säkerhet för
-    att veckla upp listan.)</li>
-  <li>I sektionen Formulärhanteraren, avmarkera &quot;Spara formulärdata från
-    webbsidor när formulär fylls i.&quot;</li>
-</ol>
-
-<p>Observera att avmarkering av detta alternativ stänger av
-  signaleringsfunktionen men inte Formulärhanteraren. Formulärdata som redan
-  samlats in är fortfarande tillgänglig.</p>
-
-<p>Du kan fortfarande öppna Redigera-menyn och välja Spara formulärinfo
-  närhelst du vill spara informationen från ett formulär du just fyllt i, eller
-  välja Fyll i formulär (eller dubbelklicka varje fält) för att fylla i ett
-  formulär automatiskt.</p>
-
-<p>[<a href="#using_the_form_manager">Återvänd till början av
-  avsnittet</a>]</p>
-
-<h2 id="managing_stored_form_data">Hantera lagrade formulärdata</h2>
-
-<p>För att undersöka eller redigera personlig data som Formulärhanteraren har
-  sparat:</p>
-
-<ol>
-  <li>Öppna <span class="mac">&brandShortName;</span><span
-    class="noMac">Redigera</span>-menyn och välj Inställningar.</li>
-  <li>Från kategorin Integritet och säkerhet, välj Formulär. (Om inga
-    underkategorier är synliga, dubbelklicka på Integritet &amp; säkerhet för
-    att veckla upp listan.)</li>
-  <li>Klicka på Hantera lagrad formulärdata.</li>
-</ol>
-
-<p>Dialogrutan Formulärhanteraren visas. Klicka på underkategorierna till
-  vänster för att visa eller redigera den relevanta datan i panelen till höger.
-  För att visa underkategorier som inte är synliga, dubbelklicka på en kategori
-  för att öppna en lista.</p>
-
-<p>För att lägga till information som förnärvarande inte finns i någon av
-  rullgardinsmenyerna till höger, markera den tomma posten och börja skriva. På
-  liknande sätt kan du markera existerande text för att redigera den, eller ta
-  bort den.</p>
-
-<p>Den sista kategorin på vänster sida, Övrig sparad information, inkluderar
-  paneler för två speciella sorters data:</p>
-
-<ul>
-  <li><strong>Serier</strong> listar data sparad som en enhet, när den normalt
-    skulle sparas som två eller flera enheter. T.ex. kan data sparad från ett
-    enda Namnfält-fält som både innehåller ditt förnamn och ditt efternamn,
-    sparas tillsammans i stället för separat i individuella kategorier.</li>
-  <li><strong>URL-Specifik</strong> listar fält och de värden som endast ska
-    användas för de webbplatser som du skrev in dem på.</li>
-</ul>
-
-<p>[<a href="#using_the_form_manager">Återvänd till början av
-  avsnittet</a>]</p>
-
-<h2 id="editing_stored_site_information">Redigera för webbplatser lagrade 
-  uppgifter</h2>
-
-<p>Som beskrevs i <a href="#saving_form_data">Spara formulärdata</a>, så kan du
-  välja &quot;Aldrig för denna webbplats&quot; när Formulärhanteraren uppmanar
-  dig att spara data du skrivit in i ett formulär. På liknande sätt kan du
-  välja att inte visa dialogrutan Fyll i formulärdata på en
-  plats-för-plats-basis.</p>
-
-<p>Formulärhanteraren låter dig ändra dessa beslut när du vill. För att visa
-  plats-specifik information om din sparade formulärdata:</p>
-
-<ol>
-  <li>Öppna <span class="mac">&brandShortName;</span><span
-    class="noMac">Redigera</span>-menyn och välj Inställningar.</li>
-  <li>Från kategorin Integritet och säkerhet, välj Formulär. (Om inga
-    underkategorier är synliga, dubbelklicka på Integritet och säkerhet för
-    att fälla ut listan.)</li>
-  <li>Klicka på Hantera webbplatser.</li>
-</ol>
-
-<p>Formulärhanterarens dialogruta för hantering av webbplatser visas:</p>
-
-<ul>
-  <li>Fliken Formulär förhandsgranskas aldrig, listar de webbplatser som du
-    har beslutat att inte visa dialogrutan Fyll i formulärdata för.</li>
-  <li>Fliken Formulär sparas aldrig, listar de webbplatser som du har bett om
-    att inte bli uppmanad att spara formulärdata från.</li>
-</ul>
-
-<p>För att ta bort en webbplats från endera listan och således återställa
-  standardbeteendet, markera webbplatsen och klicka på Ta bort. För fler
-  detaljer, se
-  <a href="#form_manager_sites">Formulärhanteraren - Webbplatser</a>.</p>
-
-<p>[<a href="#using_the_form_manager">Återvänd till början av
-  avsnittet</a>]</p>
-
-<h2 id="viewing_privacy_policies">Visa integritetspolicy</h2>
-
-<p>När du lämnar personlig information såsom ditt namn, din adress, ditt
-  telefonnummer eller e-postadress till en webbplats, eller när webbplatsen
-  samlar in personlig information på andra sätt, kan de använda informationen
-  för sina egna syften. En webbplats kan använda din information till att
-  förbättra sin service till dig, eller rikta in reklam mot de intressen du
-  har, eller så kan den sälja din information till andra företag.</p>
-
-<p>Innan du lämnar personlig information i ett formulär så måste du bestämma
-  dig för om du litar på webbplatsen eller inte&mdash;likaväl som du måste
-  bestämma dig för om du litar på en postorderfirma, innan du skriver ut ditt
-  kreditkortsnummer på en ordersedel.</p>
-
-<p>Ett sätt att värdera en webbplats pålitlighet, är att undersöka dess
-  publicerade integritetspolicy. En del webbplatser publicerar sådana i
-  enlighet med standarden Platform for Privacy Preferences (P3P) och
-  webbläsarens implementering av denna.</p>
-
-<p>En webbplats integritetspolicy beskriver vilken typ av information
-  webbplatsen samlar in, till vem den ger ut denna information, och hur den
-  använder informationen. Webbplatser publicerar en integritetspolicy i både
-  klartext och som en fil som kan tolkas av webbläsaren i enlighet med dina
-  <a href="#privacy_settings">Inställningar för integritet</a>.</p>
-
-<p>För att visa en webbplats integritetspolicy, gå till webbplatsen och följ
-  dessa steg:</p>
-
-<ul>
-  <li>Öppna Visa-menyn och välj Sidinformation. Fönstret Sidinformation
-    visas.</li>
-  <li>Klicka på fliken Integritet.</li>
-  <li>Klicka på dessa knappar för att se den tillhörande informationen:
-    <ul>
-      <li><strong>Policy:</strong> Klicka på denna knapp för att visa
-        webbplatsens publicerade integritetspolicy på webben.</li>
-      <li><strong>Sammanfattning:</strong> Klicka på denna knapp för att visa
-        en sammanfattning av webbplatsens inkluderade XML-policyfil, vilken
-        definierar webbplatsens policy i detalj.</li>
-      <li><strong>Alternativ:</strong> Klicka på denna knapp för att visa en
-        webbsida som tillhandahållits av webbplatsen, där du kan välja att
-        vägra eller tillåta att en viss sorts information samlas in.</li>
-    </ul>
-  </li>
-</ul>
-
-<p>Många webbsidor består av en blandning av text, bilder, reklam och andra
-  element, varav några kan vara kontrollerade av andra företag.</p>
-
-<p>För att visa information för ett individuellt element på webbsidan:</p>
-
-<ol>
-  <li>Dubbelklicka på kategorierna för att se adresserna för individuella
-    komponenter.</li>
-  <li>Markera den komponent vars integritetspolicy du vill undersöka.</li>
-  <li>Klicka på knapparna enligt beskrivningen ovan.</li>
-</ol>
-
-<p>För mer information om hur du skyddar din personliga integritet, se
-  <a href="#setting_privacy_levels">Ange integritetsnivåer</a>.</p>
-
-<p>[<a href="#using_the_form_manager">Återvänd till början av
-  avsnittet</a>]</p>
-
-<h1 id="form_settings">Inställningar för formulär</h1>
-
-<p>När du fyller i ett formulär kommer Formulärhanteraren normalt att känna av
-  formuläret och, när du sedan klickar på Skicka, ge dig en chans att spara
-  datan du skrivit in.</p>
-
-<p>Detta avsnitt beskriver inställningarna som styr hur Formulärhanteraren
-  arbetar.</p>
-
-<p>För en steg-för-steg-beskrivning av hur du använder dessa inställningar, se
-  <a href="#using_the_form_manager">Använda formulärhanteraren</a>.</p>
-
-<div class="contentsBox">I detta avsnitt:
-  <ul>
-    <li><a href="#forms">Integritet och säkerhet - Formulär</a></li>
-    <li><a href="#form_manager_data">Formulärhanteraren - Data</a></li>
-    <li><a href="#form_manager_sites">Formulärhanteraren - Platser</a></li>
-    <li><a href="#prefill_form_data">Fyll i formulärdata</a></li>
-  </ul>
-</div>
-
-<h2 id="forms">Integritet och säkerhet - Formulär</h2>
-
-<p>Detta avsnitt beskriver hur du använder inställningspanelen Formulär. Om du
-  inte redan visar den, följ dessa steg:</p>
-
-<ol>
-  <li>Öppna <span class="mac">&brandShortName;</span><span
-    class="noMac">Redigera</span>-menyn och välj Inställningar.</li>
-  <li>Under kategorin Integritet och säkerhet, klicka på Formulär. (Om inga
-    underkategorier är synliga, dubbelklicka på Integritet och säkerhet för
-    att fälla ut listan.)</li>
-</ol>
-
-<h3 id="form_manager">Formulärhanteraren</h3>
-
-<p>När du fyller i ett formulär och klickar på Skicka, kommer
-  Formulärhanteraren att visa en dialogruta som frågar om du vill spara
-  formulärdatan du skrivit in (men endast några av fälten såsom standardfälten
-  namn och adress).</p>
-
-<p>Om du klickar på Ja några av gångerna kommer snart Formulärhanteraren att ha
-  tillräckligt med data för att börja fylla i formulär automatiskt.</p>
-
-<p>Formulärinställningar låter dig också:</p>
-
-<ul>
-  <li><strong>Spara formulärdata från webbsidor när formulär fylls i:</strong>
-    Detta alternativ avgör om du tillfrågas om du vill spara formulärdata varje
-    gång du skickar ett nytt formulär. Detta alternativ är valt som standard.
-    Om du avmarkerar det kommer Formulärhanteraren aldrig att fråga dig om du
-    vill spara formulärdata. Det enda sättet att spara formulärdata på är då
-    att öppna Redigera-menyn och välja Spara formulärinfo när du visar ett
-    formulär du just fyllt i.
-
-    <p>Observera att avmarkering av detta alternativ stänger av
-      signaleringsfunktionen, men inte Formulärhanteraren. Formulärdatan som
-      redan finns sparad är fortfarande tillgänglig. Du kan fortfarande öppna
-      Redigera-menyn och välja Fyll i formulär eller Spara formulärinfo.</p>
-
-  </li>
-  <li><strong>Hantera lagrad formulärdata.</strong> Klicka på denna knapp för
-    att undersöka eller redigera personlig data som Formulärhanteraren har
-    sparat. För detaljer, se
-    <a href="#form_manager_data">Formulärhanteraren - Data</a>.</li>
-  <li><strong>Hantera webbplatser:</strong> Klicka på denna knapp för att visa
-    plats-specifik information om sparad formulärdata. För detaljer, se
-    <a href="#form_manager_sites">Formulärhanteraren - Platser</a>.</li>
-</ul>
-
-<h2 id="form_manager_data">Formulärhanteraren - Data</h2>
-
-<p>Detta avsnitt beskriver hur du använder fönstret som låter dig redigera data
-  som sparats åt dig av Formulärhanteraren. Om du inte redan visar fönstret,
-  följ dessa steg:</p>
-
-<ol>
-  <li>Öppna <span class="mac">&brandShortName;</span><span
-    class="noMac">Redigera</span>-menyn och välj Inställningar.</li>
-  <li>Under kategorin Integritet och säkerhet, klicka på Formulär. (Om inga
-    underkategorier är synliga, dubbelklicka på Integritet och säkerhet för
-    att fälla ut listan.)</li>
-  <li>Klicka på Hantera lagrad formulärdata.</li>
-</ol>
-
-<p>Formulärhanterarens fönster för hantering av lagrad formulärdata låter dig
-  utföra två saker:</p>
-
-<ul>
-  <li><strong>Kategori:</strong> Dubbelklicka på en kategori i
-    Kategori-kolumnen för att visa dess underkategorier, och klicka på en
-    underkategori för att visa dess data i den högra sidan av fönstret. För att
-    redigera eller lägga till data, klicka i ett fält och skriv.
-
-    <p>För att lägga till information som för närvarande inte finns i någon av
-      rullgardinsmenyerna till höger, markera den tomma ytan och börja skriv.
-      På liknande sätt kan du markera existerande text för att redigera eller
-      ta bort den.</p>
-
-  </li>
-  <li><strong>Ta bort all sparad data:</strong> Klicka på denna knapp för att
-    på en gång ta bort all sparad data.</li>
-</ul>
-
-<p>Den sista kategorin till vänster, Övrig sparad information, inkluderar
-  paneler för två speciella typer av data:</p>
-
-<ul>
-  <li><strong>Serier:</strong> Formulärhanteraren fångar oftast och fyller i
-    individuella element, såsom förnamn och efternamn, och kombinerar dem vid
-    behov. Om den stöter på en sida som frågar efter ditt fulla namn, kommer
-    den t.ex. att fylla i ditt förnamn och ditt efternamn som den redan har
-    lagrad.
-
-    <p>Om däremot Formulärhanteraren inte ännu har sparat ditt förnamn och
-      efternamn kommer den (om du ber den om det) att spara det fulla namnet
-      som en enhet i panelen Serier.</p>
-
-  </li>
-  <li><strong>URL-Specifik:</strong> Denna panel listar URL-specifika fält och
-    de värden du använder för var och en av URL:erna.</li>
-</ul>
-
-<p>För en steg-för-steg-beskrivning av hur du använder Formulärhanteraren, se
-  <a href="#using_the_form_manager">Använda formulärhanteraren</a>.</p>
-
-<h2 id="form_manager_sites">Formulärhanteraren - Platser</h2>
-
-<p>Detta avsnitt beskriver hur du använder dialogrutan som låter dig redigera
-  platsinformation som sparats åt dig av Formulärhanteraren. Om du inte redan
-  visar den, följ dessa steg:</p>
-
-<ol>
-  <li>Öppna <span class="mac">&brandShortName;</span><span
-    class="noMac">Redigera</span>-menyn och välj Inställningar.</li>
-  <li>Under kategorin Integritet och säkerhet, klicka på Formulär. (Om inga
-    underkategorier är synliga, dubbelklicka på Integritet och säkerhet för
-    att fälla ut listan.)</li>
-  <li>Klicka på Hantera webbplatser.</li>
-</ol>
-
-<p>Formulärhanterarens fönster för hantering av platser har två flikar:</p>
-
-<ul>
-  <li><strong>Formulär förhandsgranskas aldrig:</strong> Klicka denna flik för
-    att visa listan på de platser för vilka du valt &quot;Förbigå denna skärm
-    när detta formulär ska fyllas i framtiden&quot; efter du valt Fyll i
-    formulär från Redigera-menyn.
-
-    <p>Om du tar bort en post från denna lista kommer Formulärhanteraren att
-      återigen ge dig möjlighet att granska formulärdata för denna plats innan
-      den fylls i.</p>
-
-  </li>
-  <li><strong>Formulär sparas aldrig:</strong> Klicka denna flik för att visa
-    listan på de platser för vilka du svarat &quot;Aldrig för denna
-    webbplats&quot; på Formulärhanterarens fråga om att spara formulärdata.
-
-    <p>Om du tar bort en post från denna lista kommer Formulärhanteraren att
-      återigen fråga dig om du vill spara formulärdata när du skickar in
-      formulär på denna webbplats (under förutsättning att Formulärhanterarens
-      alternativ för notifikationer har markerats i
-      <a href= "#forms">Integritet och säkerhet - Formulär</a>).</p>
-
-  </li>
-</ul>
-
-<p>Oberoende av vilken flik du tittar på kan du ta bort poster från listan så
-  här:</p>
-
-<ul>
-  <li><strong>Ta bort:</strong> Markera en eller flera poster som du vill ta
-    bort, klicka sedan på denna knapp för att ta bort dem.</li>
-  <li><strong>Ta bort alla:</strong> Klicka på denna knapp för att ta bort alla
-    poster på fliken du tittar på.</li>
-</ul>
-
-<p>Se beskrivningen av konsekvenserna av att ta bort poster för varje flik här
-  ovan.</p>
-
-<p>För steg-för-steg-instruktioner om användning av formulärdata, se
-  <a href="#using_the_form_manager">Använda formulärhanteraren</a>.</p>
-
-<h2 id="prefill_form_data">Fyll i formulärdata</h2>
-
-<p>Detta avsnitt beskriver det fönster som normalt visas när du öppnar
-  Redigera-menyn och väljer Fyll i formulär.</p>
-
-<p>Menyposten Fyll i formulär är dock bara tillgänglig om du tidigare har
-  använt Formulärhanteraren för att spara några formulärdata, och nu tittar på
-  en webbsida som har frågat efter samma data. För steg-för-steg-instruktioner
-  om användning av formulärdata, se <a href="#using_the_form_manager">Använda
-  formulärhanteraren</a>.</p>
-
-<p>Fönstret Fyll i formulär låter dig utföra följande åtgärder:</p>
-
-<ul>
-  <li><strong>Klicka i ett fält för att redigera den visade datan:</strong>
-    Eventuella ändringar du gör här kommer att påverka den data du fyller i
-    detta formulär, men din sparade data kommer inte att ändras.</li>
-  <li><strong>Välj alternativ data:</strong> Klicka på pilen till höger om ett
-    fält för att visa en meny för fältet. Om du tidigare har använt
-    Formulärhanteraren för att spara alternativ information, t.ex. en annan
-    e-postadress, kommer de tillgängliga alternativen att listas i menyn.</li>
-  <li><strong>Markera de poster du vill ha ifyllda:</strong>
-    Bara de poster som är markerade kommer att fyllas i automatiskt. När du
-    först öppnar fönstret är alla poster markerade. Klicka för att avmarkera
-    de fält du inte vill ha automatiskt ifyllda.</li>
-  <li><strong>Förbigå denna skärm när detta formulär ska fyllas i
-    framtiden:</strong> Markera denna ruta för att slippa se detta fönster
-    nästa gång du besöker denna webbplats. Detta kan vara bekvämt, t.ex. om du
-    ofta behöver fylla i samma data på samma webbplats.
-
-    <p><strong>Viktigt:</strong> Om du hoppar förbi denna skärm riskerar du att
-      fylla i personliga uppgifter (såsom ditt kreditkortsnummer) oavsiktligt.
-      För fler detaljer, se <a href="#filling_out_forms_automatically">Fylla i
-      formulär automatiskt</a>.</p>
-
-    <p>Om du ändrar detta beslut kan du återigen visa detta fönster för denna
-      webbplats. För detaljer, se
-      <a href="#form_manager_sites">Formulärhanteraren - Webbplatser</a>.</p>
-
-  </li>
-  <li><strong>Visa lagrad formulärdata:</strong> Klicka denna knapp för att
-    undersöka eller redigera all personlig data som Formulärhanteraren har
-    sparat. För detaljer, se
-    <a href="#form_manager_data">Formulärhanteraren - Data</a>.</li>
-</ul>
-<!-- gamla strukturen tillbakaflyttad fram till hit -->
 <h1 id="encrypting_stored_sensitive_information">Kryptera lagrade, känsliga 
   uppgifter</h1>
 
-<p>Om du använder Lösenordshanteraren eller Formulärhanteraren för att spara
-  lösenord och personliga data, så sparas dessa känsliga uppgifter på din
-  dator i en fil som är svår, men inte omöjlig, för en inkräktare att läsa.</p>
+<p>Om du använder Lösenordshanteraren för att spara lösenord, så lagras dessa
+  känsliga uppgifter på din dator i en fil som är svår, men inte omöjlig, för en
+  inkräktare att läsa.</p>
 
 <p>Om din dator exempelvis finns på en plats där obehöriga har tillgång till 
   den, är det möjligt för en beslutsam person att läsa filen som innehåller 
@@ -1571,16 +753,15 @@
 <p>Om du glömmer ditt huvudlösenord och har valt att kryptera känsliga data
   (se <a href="#encrypting_stored_sensitive_information">Kryptera lagrade, 
   känsliga uppgifter</a>), kommer du inte att kunna få tillgång till något
-  av de lagrade lösenord och formulärdata som det skyddar (förutsatt att du 
-  använder kryptering). Ditt huvudlösenord är ditt viktigaste lösenord. Var 
-  noga med att komma ihåg det eller spara det på en säker plats.</p>
+  av de lagrade lösenord som det skyddar (förutsatt att du använder kryptering).
+  Ditt huvudlösenord är ditt viktigaste lösenord. Var noga med att komma ihåg
+  det eller spara det på en säker plats.</p>
 
 <p>Som en sista utväg är det möjligt att ta bort ditt huvudlösenord, om du
-  är säker på att du inte kan komma på det. Att ta bort huvudlösenordet 
-  innebär dock att alla dina webblösenord, e-postlösenord och formulärdata 
-  som sparats för din skull av Lösenordshanteraren och Formulärhanteraren 
-  kommer att raderas permanent. Du kommer också att förlora alla dina egna 
-  certifikat som hör till <a 
+  är säker på att du inte kan komma på det. Att ta bort huvudlösenordet innebär
+  dock att alla dina webb- och e-postlösenord, vilka sparats åt dig av
+  Lösenordshanteraren, raderas permanent. Du kommer också att förlora alla dina
+  egna certifikat som hör till <a
   href="glossary.xhtml#software_security_device">Programsäkerhetsenheten</a>.</p>
 
 <p>Innan du vidtar denna drastiska åtgärd, så läs <a 
@@ -1630,18 +811,18 @@
 </ol>
 
 <h3 id="image_acceptance_policy">Principer för att acceptera bilder</h3>
-<!-- Stammer inte : 'Navigator' -->
-<p>Inställningarna för att acceptera bilder låter dig styra huruvida och när 
-  webbläsaren ska visa bilder:</p>
+
+<p>Inställningarna för att acceptera bilder låter dig styra om eller under vilka
+  villkor &brandShortName;s webbläsare ska visa bilder:</p>
 
 <ul>
   <li><strong>Hämta inga bilder</strong>: Välj detta om du inte vill att
-    webbläsaren ska visa bilder.</li>
+    &brandShortName;s webbläsare ska visa bilder.</li>
   <li><strong>Acceptera endast bilder som kommer från ursprungsservern</strong>: 
     Välj detta om du inte vill att webbläsaren ska hämta bilder från tredjehands- 
     platser.</li>
-  <li><strong>Acceptera alla bilder</strong>: Välj detta om du vill att 
-    webbläsaren ska visa alla bilder. (Detta är förinställningen.)</li>
+  <li><strong>Acceptera alla bilder</strong>: Välj detta om du vill visa alla
+    bilder. (Detta är förinställningen.)</li>
 </ul>
 
 <h3>Animeringssekvensen i animerade bilder ska visas</h3>
