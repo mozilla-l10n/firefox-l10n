@@ -7,7 +7,7 @@
 <!ENTITY name.label "പേര്‌ ">
 <!ENTITY size.label "വലിപ്പം ">
 <!ENTITY lastModified.label "ഒടുവില്‍ പരിഷ്കരിച്ചത്‌">
-<!ENTITY permissions.label "അനുവാദങ്ങള്‍ ">
+<!-- ENTITY permissions.label "അനുവാദങ്ങള്‍ " -->
 <!ENTITY showHiddenFiles.label "മറച്ചു വെച്ചിരിക്കുന്ന ഫയലുകളും ഡിറക്ടറികളും കാണിക്കുക ">
 <!ENTITY showHiddenFiles.accesskey "S">
 <!ENTITY noPermissionError.label "ഈ ഡിറക്ടറി കാണുവാനുള്ള അനുവാദം താങ്കള്‍ക്കില്ല. ">

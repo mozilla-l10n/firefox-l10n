@@ -4,24 +4,24 @@
 <!ENTITY license.part2 "according to terms set out in the">
 
 <!ENTITY license.part3 ". All Rights Reserved.">
-<!ENTITY about.version "ലക്കം">
+<!-- ENTITY about.version "ലക്കം" -->
 
-<!ENTITY about.copy.beforeLink "Copyright &copy; 1998-2007 by">
+<!-- ENTITY about.copy.beforeLink "Copyright &copy; 1998-2007 by" -->
 
-<!ENTITY about.copy.linkTitle "സംഭാവന ചെയ്തവറ്‍">
-<!ENTITY about.copy.afterLink "മോസിലാ പ്റൊജക്ടിനുള്ളവറ്‍.">
-<!ENTITY about.license.beforeLink "വായിക്കുക">
-<!ENTITY about.license.linkTitle "ലൈസന്‍സ് സംബന്ധിച്ചുള്ള വിവരങ്ങള്‍">
-<!ENTITY about.license.afterLink "ഈ പ്റഡക്ടിനുള്ളത്.">
-<!ENTITY about.relnotes.beforeLink "വായിക്കുക">
+<!-- ENTITY about.copy.linkTitle "സംഭാവന ചെയ്തവറ്‍" -->
+<!-- ENTITY about.copy.afterLink "മോസിലാ പ്റൊജക്ടിനുള്ളവറ്‍." -->
+<!-- ENTITY about.license.beforeLink "വായിക്കുക" -->
+<!-- ENTITY about.license.linkTitle "ലൈസന്‍സ് സംബന്ധിച്ചുള്ള വിവരങ്ങള്‍" -->
+<!-- ENTITY about.license.afterLink "ഈ പ്റഡക്ടിനുള്ളത്." -->
+<!-- ENTITY about.relnotes.beforeLink "വായിക്കുക" -->
 
-<!ENTITY about.relnotes.linkTitle "റിലീസ്‌ നോട്ടുകള്‍">
+<!-- ENTITY about.relnotes.linkTitle "റിലീസ്‌ നോട്ടുകള്‍" -->
 
-<!ENTITY about.relnotes.afterLink "ഈ വേറ്‍ഷനുള്ളത്.">
-<!ENTITY about.buildconfig.beforeLink "കാണുക">
+<!-- ENTITY about.relnotes.afterLink "ഈ വേറ്‍ഷനുള്ളത്." -->
+<!-- ENTITY about.buildconfig.beforeLink "കാണുക" -->
 
-<!ENTITY about.buildconfig.linkTitle "ബില്‍ഡ്‌ കോണ്‍ഫിഗറെഷന്‍">
+<!-- ENTITY about.buildconfig.linkTitle "ബില്‍ഡ്‌ കോണ്‍ഫിഗറെഷന്‍" -->
 
-<!ENTITY about.buildconfig.afterLink "ഈ വേര്‍ഷന്‌ ഉപയോഗിക്കുന്നു ">
+<!-- ENTITY about.buildconfig.afterLink "ഈ വേര്‍ഷന്‌ ഉപയോഗിക്കുന്നു " -->
 
-<!ENTITY about.buildIdentifier "ബില്‍ഡ്‌ ഐഡന്‍ഡിഫൈയര്‍">
+<!-- ENTITY about.buildIdentifier "ബില്‍ഡ്‌ ഐഡന്‍ഡിഫൈയര്‍" -->

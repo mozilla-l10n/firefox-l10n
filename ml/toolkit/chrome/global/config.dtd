@@ -40,8 +40,8 @@
 <!ENTITY filterPrefs.label "ഫില്‍റ്ററ്‍:">
 
 <!ENTITY filterPrefs.accesskey "I">
-<!ENTITY showAll.label "എല്ലാം കാണിക്കുക">
-<!ENTITY showAll.accesskey "W">
+<!-- ENTITY showAll.label "എല്ലാം കാണിക്കുക" -->
+<!-- ENTITY showAll.accesskey "W" -->
 <!ENTITY prefColumn.label "മുന്‍ഗണനയുടെ പേര്‌">
 <!ENTITY lockColumn.label "സ്ഥിതി ">
 
@@ -80,9 +80,9 @@
 <!ENTITY integer.accesskey "I">
 <!ENTITY boolean.label "ബൂളിയന്‍">
 <!ENTITY boolean.accesskey "B">
-<!ENTITY lock.label "ലോക്ക്‌ ചെയ്യുക">
-<!ENTITY lock.accesskey "L">
+<!-- ENTITY lock.label "ലോക്ക്‌ ചെയ്യുക" -->
+<!-- ENTITY lock.accesskey "L" -->
 
-<!ENTITY unlock.label "അണ്‍ലോക്ക്‌ ചെയ്യുക">
+<!-- ENTITY unlock.label "അണ്‍ലോക്ക്‌ ചെയ്യുക" -->
 
-<!ENTITY unlock.accesskey "U">
+<!-- ENTITY unlock.accesskey "U" -->
