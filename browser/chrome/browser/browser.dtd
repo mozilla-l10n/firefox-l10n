@@ -161,8 +161,8 @@
 <!ENTITY preferencesCmdUnix.label "Sainroghanna">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
-<!ENTITY clearRecentHistoryCmd.label "Clear Recent History">
-<!ENTITY clearRecentHistoryCmd.accesskey "H">
+<!ENTITY clearRecentHistoryCmd.label "Glan an Stair Is Déanaí">
+<!ENTITY clearRecentHistoryCmd.accesskey "S">
 
 <!ENTITY privateBrowsingCmd.label "Brabhsáil Phríobháideach">
 <!ENTITY privateBrowsingCmd.accesskey "B">
