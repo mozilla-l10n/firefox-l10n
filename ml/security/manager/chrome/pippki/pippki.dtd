@@ -47,7 +47,7 @@
 <!ENTITY resetPassword.title "പ്രധാന പാസ്‌വേഡ്‌ റീസെറ്റ്‌ ചെയ്യുക ">
 <!ENTITY resetPassword.text "If you reset your master password, all your stored web and email passwords, form data, personal certificates, and private keys will be forgotten. Are you sure you want to reset your master password?">
 <!ENTITY getPassword.title "പ്രധാന പാസ്‌വേഡ്‌ ചിട്ടപ്പെടുത്തുക">
-<!ENTITY getPassword.tokenName.label "സുരക്ഷ ഉപകരണങ്ങള്‍ ">
+<!-- ENTITY getPassword.tokenName.label "സുരക്ഷ ഉപകരണങ്ങള്‍ " -->
 <!ENTITY getPassword.password.label "പാസ്‌വേഡ്‌">
 <!ENTITY piperror.title "തെറ്റ്‌">
 <!ENTITY pipalert.title "തകരാര്‍ - ശരിയാക്കുവാന്‍ സാധ്യമല്ല ">
@@ -70,11 +70,11 @@
 <!ENTITY downloadCert.viewPolicy.text "Examine CA policies and procedures">
 <!ENTITY caCertExists.title "Certificate Exists">
 <!ENTITY caCertExists.message "The Certificate already exists.">
-<!ENTITY domainMismatch.title "Security Error: Domain Name Mismatch">
+<!-- ENTITY domainMismatch.title "Security Error: Domain Name Mismatch" -->
 <!ENTITY examineCert.label "സര്‍ട്ടിഫിക്കറ്റ്‌ കാണുക">
 <!ENTITY examineCert.accesskey "V">
-<!ENTITY serverCertExpired.continue "എന്തായാലും തുടരുവാന്‍ താല്‍പര്യമുണ്ടോ? ">
-<!ENTITY serverCertExpired.accept.label "തുടരുക ">
+<!-- ENTITY serverCertExpired.continue "എന്തായാലും തുടരുവാന്‍ താല്‍പര്യമുണ്ടോ? " -->
+<!-- ENTITY serverCertExpired.accept.label "തുടരുക " -->
 <!ENTITY clientAuthAsk.title "User Identification Request">
 <!ENTITY clientAuthAsk.message1 "This site has requested that you identify yourself with a certificate:">
 <!ENTITY clientAuthAsk.message2 "Choose a certificate to present as identification:">
