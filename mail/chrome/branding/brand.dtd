@@ -1,5 +1,0 @@
-#expand <!ENTITY lang.version "__MOZILLA_LOCALE_VERSION__">
-<!ENTITY brandShortName "Pos/Nuus">
-<!ENTITY brandFullName "Mail/News Client">
-<!ENTITY vendorShortName "Mail/News Client">
-<!ENTITY sidebarName "Kantbalk">
