@@ -37,8 +37,8 @@
 <!ENTITY  incompatibleList.title          "נמצאו תוספות לא תואמות">
 
 <!ENTITY downloading.title "מוריד עדכון">
-<!ENTITY downloading.intro "מוריד את העדכון...">
-<!ENTITY connecting.label "מתחבר אל שרת העדכון...">
+<!ENTITY downloading.intro "מוריד את העדכון…">
+<!ENTITY connecting.label "מתחבר אל שרת העדכון…">
 <!ENTITY verificationFailedText.label "&brandShortName; אינו יכול לאמת את שלמות 
                                               העדכון שהורד, ולכן הוא מוריד כעת
                                               את חבילת העדכון השלמה.
@@ -67,7 +67,7 @@
 
 <!ENTITY installed.title "העדכון הותקן">
 <!ENTITY installed.intro "העדכון הותקן בהצלחה.">
-<!ENTITY whatsnew.label "קרא עוד אודות מה חדש...">
+<!ENTITY whatsnew.label "קרא עוד אודות מה חדש…">
 <!ENTITY update.details.label "פרטים">
 <!ENTITY update.installedOn.label "הותקן בתאריך:">
 <!ENTITY update.status.label "מצב:">

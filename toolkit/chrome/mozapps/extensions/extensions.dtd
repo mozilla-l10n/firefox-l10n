@@ -14,7 +14,7 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey "ע">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "מצא עדכונים לתוספות שלך">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "מצא עדכונים לערכות הנושא">
-<!ENTITY cmd.installLocalFile.label "התקן...">
+<!ENTITY cmd.installLocalFile.label "התקן…">
 <!ENTITY cmd.installLocalFile.accesskey   "ה">
 <!ENTITY cmd.installFileAddon.tooltip "התקן תוספת">
 <!ENTITY cmd.installFileTheme.tooltip "התקן ערכת נושא">
@@ -84,9 +84,9 @@
 <!ENTITY updateSuccess.label "עדכון הושלם בהצלחה.">
 <!ENTITY installSuccess.label "התקנה הושלמה בהצלחה.">
 <!ENTITY installSuccessRestart.label "הפעל מחדש להשלמת ההתקנה.">
-<!ENTITY installWaiting.label "ממתין...">
-<!ENTITY installIncompatibleUpdate.label "בודק תאימות...">
-<!ENTITY installFinishing.label "מתקין...">
+<!ENTITY installWaiting.label "ממתין…">
+<!ENTITY installIncompatibleUpdate.label "בודק תאימות…">
+<!ENTITY installFinishing.label "מתקין…">
 <!ENTITY installFailure.label "התקנה נכשלה.">
 
 <!ENTITY cmd.restartApp2.label            "הפעל מחדש את &brandShortName;">

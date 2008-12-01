@@ -22,7 +22,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 <!ENTITY cmd.open.label                   "פתח">
 <!ENTITY cmd.open.accesskey               "פ">
-<!ENTITY cmd.openWith.label               "פתח באמצעות...">
+<!ENTITY cmd.openWith.label               "פתח באמצעות…">
 <!ENTITY cmd.openWith.accesskey           "ב">
 <!ENTITY cmd.retry.label                  "נסה שוב">
 <!ENTITY cmd.retry.accesskey              "נ">
