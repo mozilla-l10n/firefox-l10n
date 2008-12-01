@@ -57,7 +57,7 @@
 <!ENTITY pref.calendar.view.visiblehours.accesskey "o">
 <!ENTITY pref.calendar.view.visiblehoursend.label "godzin">
 
-<!ENTITY pref.numberofweeks.label "Domyślna liczba wyświetlanych tygodni (w tym poprzednich tygodni):">
+<!ENTITY pref.numberofweeks.label "Liczba wyświetlanych tygodni (w tym poprzednich tygodni):">
 <!ENTITY pref.numberofweeks.accesskey "m">
 <!ENTITY pref.numberofpreviousweeks.label "Liczba poprzedzających tygodni:">
 <!ENTITY pref.numberofpreviousweeks.accesskey "L">
