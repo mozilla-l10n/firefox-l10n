@@ -1,0 +1,21 @@
+<!ENTITY winhooks.label                   "システム">
+
+<!ENTITY defaultBrowserGroup.label  "デフォルト Web ブラウザ">
+<!ENTITY defaultBrowserButton.label "デフォルト Web ブラウザに設定">
+<!ENTITY alreadyDefaultText         "&brandShortName; はデフォルト Web ブラウザに設定されています。">
+<!ENTITY defaultPendingText         "&brandShortName; は OK をクリックするとデフォルト Web ブラウザになります。">
+<!ENTITY makeDefaultText            "&brandShortName; をデフォルト Web ブラウザに設定する。">
+
+<!ENTITY urlbar.label "ロケーションバーでCtrl+Enter">
+<!ENTITY urlbar.accesskey "L">
+<!ENTITY middleClick.label "Web ページでリンクを中クリックまたは Ctrl+クリック あるいは Ctrl+Enter">
+<!ENTITY middleClick.accesskey "M">
+
+<!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the
+     preference dialog's <window> node, which specifies the width and height
+     in em units of the dialog. Localizers ONLY can increase these widths 
+     if they are having difficulty getting panel content to fit. 1em = the 
+     width of the letter 'm' in the selected font.
+     XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct
+     size of this window for en-US. -->
+<!ENTITY  prefWindow.size             "width: 70em; height: 44em;"><!--def.size"width: 52em; height: 41em;"-->
