@@ -47,7 +47,7 @@
 <!ENTITY scale.label "അളവ്:">
 
 <!ENTITY scale.accesskey "S">
-<!ENTITY percent.label "&#037;">
+<!-- ENTITY percent.label "&#037;" -->
 
 <!ENTITY portrait.label "ഫോട്ടോ രീതിയില്‍">
 

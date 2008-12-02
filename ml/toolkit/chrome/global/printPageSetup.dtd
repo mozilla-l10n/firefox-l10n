@@ -3,8 +3,8 @@
 <!ENTITY basic.tab "&amp; ഉപാധികള്‍ ക്റമികരിക്കുക">
 <!ENTITY formatGroup.label "ഫോറ്‍മാറ്റ് ചെയ്യുക">
 <!ENTITY orientation.label "ഒറിയന്റേഷന്‍:">
-<!ENTITY portrait "ഫോട്ടോ രീതിയില്‍">
-<!ENTITY landscape "ഭൂദൃശ്യത്തിന്റെ ആകൃതിയില്‍">
+<!-- ENTITY portrait "ഫോട്ടോ രീതിയില്‍" -->
+<!-- ENTITY landscape "ഭൂദൃശ്യത്തിന്റെ ആകൃതിയില്‍" -->
 <!ENTITY scale.label "അളവ്:">
 
 <!ENTITY scalePercent "&#037;">
@@ -38,15 +38,15 @@
 <!ENTITY footerRight.tip "വലത് അടിക്കുറിപ്പ്">
 
 <!ENTITY hfTitle "തലക്കെട്ട്‌ ">
-<!ENTITY hfTitle.code "[&amp;T]">
+<!-- ENTITY hfTitle.code "[&amp;T]" -->
 <!ENTITY hfURL "URL">
-<!ENTITY hfURL.code "[&amp;U]">
+<!-- ENTITY hfURL.code "[&amp;U]" -->
 <!ENTITY hfDateAndTime "തിയതി / സമയം">
-<!ENTITY hfDateAndTime.code "&amp;D">
+<!-- ENTITY hfDateAndTime.code "&amp;D" -->
 <!ENTITY hfPage "പേജ്‌ #">
-<!ENTITY hfPage.code "[&amp;P]">
+<!-- ENTITY hfPage.code "[&amp;P]" -->
 <!ENTITY hfPageAndTotal "പേജ്‌ # ല്‍ #">
-<!ENTITY hfPageAndTotal.code "[&amp;PT]">
+<!-- ENTITY hfPageAndTotal.code "[&amp;PT]" -->
 
 <!ENTITY hfBlank "--ശൂന്യം--">
 <!ENTITY hfCustom "ഇഷ്ടാനുസരണമാക്കുക...">

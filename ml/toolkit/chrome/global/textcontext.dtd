@@ -13,9 +13,9 @@
 <!ENTITY spellAddToDictionary.label "നിഘണ്ടു ചേര്‍ക്കുക">
 <!ENTITY spellAddToDictionary.accesskey "t">
 
-<!ENTITY spellEnable.label "ഇവിടെ അക്ഷരത്തെറ്റ് പരിശോധിക്കുക">
+<!-- ENTITY spellEnable.label "ഇവിടെ അക്ഷരത്തെറ്റ് പരിശോധിക്കുക" -->
 
-<!ENTITY spellEnable.accesskey "S">
+<!-- ENTITY spellEnable.accesskey "S" -->
 
 <!ENTITY spellNoSuggestions.label "(അക്ഷരത്തെറ്റിനുള്ള നിറ്‍ദ്ദേങ്ങള്‍ ലഭ്യമല്ല)">
 

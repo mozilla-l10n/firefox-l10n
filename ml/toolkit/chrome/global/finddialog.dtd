@@ -1,6 +1,6 @@
 <!ENTITY findDialog.title "ഈ പേജില്‍ കണ്ടെത്തുക ">
 <!-- ENTITY findDialogFrame.title "ഈ ഫ്രെയിമില്‍ കണ്ടെത്തുക" -->
-<!-- ENTITY findField.label "എന്താണു കണ്ടെത്തണ്ടത്‌: " -->
+<!ENTITY findField.label "എന്താണു കണ്ടെത്തണ്ടത്‌: " >
 <!ENTITY findField.accesskey "n">
 <!ENTITY caseSensitiveCheckbox.label "അക്ഷര വലിപ്പവും ഒത്തുനോക്കുക">
 <!ENTITY caseSensitiveCheckbox.accesskey "c">
@@ -9,7 +9,7 @@
 <!-- ENTITY backwardsCheckbox.label "പുറകിലേക്ക്‌ തിരയുക " -->
 <!-- ENTITY backwardsCheckbox.accesskey "b" -->
 
-<!ENTITY findField.tooltip "തിരയുന്നതിനുള്ള വാക്കുകള്‍ നല്‍കുക">
+<!-- ENTITY findField.tooltip "തിരയുന്നതിനുള്ള വാക്കുകള്‍ നല്‍കുക" -->
 
 <!ENTITY findButton.label "അടുത്തതു കണ്ടെത്തുക">
 <!ENTITY findButton.accesskey "F">
