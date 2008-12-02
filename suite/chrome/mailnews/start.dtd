@@ -45,6 +45,7 @@ notícias, supotando detecção avançada de lixo electrónico e outras funciona
 <!ENTITY features.title "Funcionalidades">
 <!ENTITY feat_multiacc.label "Suporte para multiplas contas">
 <!ENTITY feat_junk.label "Detecção de Lixo Electrónico">
+<!ENTITY feat_rss.label "Leitor RSS">
 <!ENTITY feat_filters.label "Filtros de mensagens">
 <!ENTITY feat_htmlmsg.label "Suporte de mensagens HTML">
 <!ENTITY feat_abook.label "Livro de Endereços">

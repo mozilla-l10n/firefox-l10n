@@ -24,8 +24,6 @@
 <!ENTITY  cursive.label                           "Cursiva:">
 <!ENTITY  cursive.accesskey                       "c">
 
-<!ENTITY  fontsize.units                          "pixéis">
-
 <!ENTITY  font.langGroup.latin1                   "Ocidental">
 <!ENTITY  font.langGroup.latin2                   "Centro Europeu">
 <!ENTITY  font.langGroup.japanese                 "Japonês">
@@ -62,8 +60,6 @@
 <!ENTITY  useDefaultFontSerif.label               "Serifa">
 <!ENTITY  useDefaultFontSansSerif.label           "Sem Serifa">
 
-<!ENTITY  newLanguages.label                      "Novos idiomas podem ser configurados utilizando o painél de idiomas.">
-
 <!ENTITY  useDocumentFonts.label                  "Permitir que o documento use outros tipos de letra">
 <!ENTITY  useDocumentFonts.accesskey              "o">
 
@@ -72,9 +68,3 @@
 <!ENTITY  header2                                 "Quando uma página web escolhe o seu próprio tipo de letra">
 <!ENTITY  useDefaultFont.label                    "Usar os meus tipos de letra pré-definidos, ignorando os tipos de letra que a página escolheu">
 <!ENTITY  useDefaultFont.accesskey                "U">
-<!-- LOCALIZATION NOTE (useDocFontNonDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
-<!ENTITY  useDocFontNonDynamic.label              "Usar os tipos de letra escolhidos pela página">
-<!ENTITY  useDocFontNonDynamic.accesskey          "p">
-<!-- LOCALIZATION NOTE (useDocFontDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
-<!ENTITY  useDocFontDynamic.label                 "Usar todos os tipos de letra escolhidos pela página">
-<!ENTITY  useDocFontDynamic.accesskey             "a">

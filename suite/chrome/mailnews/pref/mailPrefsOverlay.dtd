@@ -17,7 +17,6 @@
 <!ENTITY composingMessages.label          "Composição">
 <!ENTITY format.label                     "Formato de Envio">
 <!ENTITY return.label                     "Recibos de Leitura">
-<!ENTITY disk.label                       "Espaço em Disco">
 <!ENTITY junk.label                       "Lixo electrónico">
 <!ENTITY tags.label                       "Etiquetas">
 <!ENTITY characterEncoding.label          "Codificação de caracteres">

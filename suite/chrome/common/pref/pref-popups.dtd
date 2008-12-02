@@ -2,8 +2,6 @@
 
 <!ENTITY pref.popups.caption            "Janelas Popup">
 
-<!ENTITY popupDesc.label                "Especificar como tratar janelas de popup que aparecem no topo ou em baixo da janela actual do navegador:">
-
 <!ENTITY popupBlock.label               "Bloquear janelas de popup não pedidas">
 <!ENTITY popupBlock.accesskey           "B">
 

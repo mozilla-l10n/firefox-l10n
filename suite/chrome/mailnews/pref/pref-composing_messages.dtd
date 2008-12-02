@@ -45,7 +45,7 @@
 <!ENTITY asAttachment.accesskey               "A">
 
 <!ENTITY replyQuoteInline.label               "Citar anexos visualizados em linha nas respostas">
-<!ENTITY replyQuoteInline.accesskey           "Q">
+<!ENTITY replyQuoteInline.accesskey           "C">
 <!ENTITY warnOnSendAccelKey.label             "Confirmar quando usar atalhos do teclado para enviar mensagem">
 <!ENTITY warnOnSendAccelKey.accesskey         "t">
 <!-- LOCALIZATION NOTE (autoSave.label): This will concatenate with

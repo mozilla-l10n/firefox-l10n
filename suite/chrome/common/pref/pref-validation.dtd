@@ -38,7 +38,7 @@
 <!ENTITY  pref.validation.title                   "Validação">
 
 <!ENTITY  validation.crl.caption                  "CRL">
-<!ENTITY  validation.crl.description              "Usar o gestro de CRL gerir as Listas de Revogação de Certificados (CRL) que estão guardados na sua base de dados de certificados.">
+<!ENTITY  validation.crl.description              "Usar o gestor de CRL gerir as Listas de Revogação de Certificados (CRL) que estão guardados na sua base de dados de certificados.">
 <!ENTITY  validation.managecrls.button            "Gerir CRLs…">
 <!ENTITY  validation.managecrls.accesskey         "G">
 
@@ -54,4 +54,4 @@
 <!ENTITY signingCA.label                          "Resposta do assinante:">
 <!ENTITY signingCA.accesskey                      "R">
 <!ENTITY validation.requireOCSP.description       "Quando a ligação a um servidor OCSP falha, tratar o certificado como inválido">
-<!ENTITY validation.requireOCSP.accesskey         "WQ">
+<!ENTITY validation.requireOCSP.accesskey         "P">

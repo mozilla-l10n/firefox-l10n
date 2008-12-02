@@ -40,7 +40,7 @@
 <!-- LOCALIZATION NOTE  sidebar.customize.title.label: Do NOT localize the term "&sidebarName;"  -->
 <!ENTITY sidebar.customize.title.label          "Personalizar &sidebarName;">
 <!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.current.label        "Separadores na &sidebarName;:">
+<!ENTITY sidebar.customize.current.label        "Separadores em &sidebarName;:">
 <!ENTITY sidebar.customize.current.accesskey    "S">
 <!ENTITY sidebar.customize.customize.label      "Personalizar separador…">
 <!ENTITY sidebar.customize.customize.accesskey  "P">

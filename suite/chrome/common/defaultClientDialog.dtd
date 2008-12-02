@@ -4,6 +4,7 @@
 <!ENTITY browser.label "Navegador">
 <!ENTITY email.label "Correio">
 <!ENTITY newsgroups.label "Grupos de discussão">
+<!ENTITY rss.label "Fontes RSS">
 
 <!ENTITY checkOnStartup.label "Verificar sempre ao iniciar o &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "V">

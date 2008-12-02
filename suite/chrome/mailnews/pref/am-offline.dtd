@@ -1,11 +1,10 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Para ter espaço em disco, não transferir:">
 <!ENTITY doNotDownload.label "Para ter espaço em disco, não transferir para usar no modo desligado:">
-<!ENTITY offlineNewFolder.label "Quando criar novas pastas, seleccioná-las para usar no modo desligado">
-<!ENTITY offlineNewFolder.accesskey "Q">
+<!ENTITY allFoldersOffline.label "Manter as mensagens desta conta neste computador">
+<!ENTITY allFoldersOffline.accesskey "n">
 <!ENTITY offlineNotDownload.label "Mensagens maiores que ">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY kb.label "KB">
-<!ENTITY days.label "dias">
 <!ENTITY daysOld.label "dias de idade">
 <!ENTITY message.label "mensagens">
 <!ENTITY nntpNotDownloadRead.label "Ler mensagens">
@@ -16,7 +15,7 @@
 <!ENTITY retentionKeepMsg.label "Apagar mensagens com mais de">
 <!ENTITY retentionKeepMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Não apagar qualquer mensagem">
-<!ENTITY retentionKeepAll.accesskey "ã">
+<!ENTITY retentionKeepAll.accesskey "g">
 <!ENTITY retentionKeepNew.label "Apagar todas menos as últimas">
 <!ENTITY retentionKeepNew.accesskey "l">
 <!ENTITY retentionKeepUnread.label "Apagar sempre todas as mensagens lidas">

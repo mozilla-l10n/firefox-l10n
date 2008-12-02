@@ -46,13 +46,10 @@
 <!ENTITY ListDescription.label          "Descrição: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Escreva os endereços de correio electrónico para os adicionar à mailing list:">
-<!ENTITY RemoveButton.label             "Remover">
-<!ENTITY UpButton.label                 "Mover para Cima">
-<!ENTITY DownButton.label               "Mover para Baixo">
 
 <!-- Access Keys -->
 <!ENTITY addToAddressBook.accesskey     "A">
 <!ENTITY ListName.accesskey             "L">
-<!ENTITY ListNickName.accesskey         "L">
+<!ENTITY ListNickName.accesskey         "c">
 <!ENTITY ListDescription.accesskey      "e">
 

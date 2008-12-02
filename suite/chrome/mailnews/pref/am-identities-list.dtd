@@ -1,5 +1,4 @@
-<!ENTITY identitiesListTitle.label "Identidades Associadas a esta Conta">
-<!ENTITY identitiesListDesc.label "Suporte a Múltiplas identidades">
+﻿<!ENTITY identitiesListDesc.label "Suporte a múltiplas identidades">
 <!ENTITY identitiesListAdd.label  "Adicionar...">
 <!ENTITY identitiesListAdd.accesskey  "A">
 <!ENTITY identitiesListEdit.label "Editar...">

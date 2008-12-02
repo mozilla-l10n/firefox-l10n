@@ -22,8 +22,8 @@
  Contributor(s):
 
  Alternatively, the contents of this file may be used under the terms of
- either of the GNU General Public License Version 2 or later (the "GPL"),
- or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
  in which case the provisions of the GPL or the LGPL are applicable instead
  of those above. If you wish to allow use of your version of this file only
  under the terms of either the GPL or the LGPL, and not to allow others to
@@ -48,13 +48,13 @@
 -->
 
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
-<!ENTITY NameField1.id                  "FirstName"> 
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
-<!ENTITY NameField2.id                  "LastName"> 
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField1.id              "PhoneticFirstName"> 
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField2.id              "PhoneticLastName"> 
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
 <!ENTITY NameField1.label               "Primeiro:">
 <!ENTITY NameField1.accesskey           "p">
@@ -67,7 +67,6 @@
 <!ENTITY NickName.label                 "Alcunha:">
 <!ENTITY NickName.accesskey             "A">
 
-<!ENTITY Internet.box                   "Internet">
 <!ENTITY PrimaryEmail.label             "Correio Electrónico:">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Correio Electrónico alternativo:">
@@ -86,7 +85,7 @@
 incluir imagens de origens remotas. Abrir assim uma mensagem irá abrir
 uma ligação a uma fonte externa. Isto pode levar a um seguimento da mensagem
 ao ser lida. Ao seleccionar esta caixa irá permitir imagens remotas em
-mensagens HTML deste contacto..">
+mensagens HTML deste contacto.">
 
 <!ENTITY WorkPhone.label                "Trabalho:">
 <!ENTITY WorkPhone.accesskey            "T">
@@ -97,7 +96,7 @@ mensagens HTML deste contacto..">
 <!ENTITY PagerNumber.label              "Pager:">
 <!ENTITY PagerNumber.accesskey          "P">
 <!ENTITY CellularNumber.label           "Telemóvel:">
-<!ENTITY CellularNumber.accesskey       "v"
+<!ENTITY CellularNumber.accesskey       "v">
 
 <!ENTITY Home.tab                       "Privado">
 <!ENTITY Home.accesskey                 "P">
@@ -119,7 +118,7 @@ mensagens HTML deste contacto..">
 <!ENTITY Birthday.accesskey             "v">
 <!ENTITY Year.emptytext                 "Ano">
 <!ENTITY Or.value                       "ou">
-<!ENTITY Age.emptytext                  "Idade
+<!ENTITY Age.emptytext                  "Idade">
 
 <!ENTITY Work.tab                       "Trabalho"> 
 <!ENTITY Work.accesskey                 "T">

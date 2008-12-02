@@ -7,14 +7,10 @@
 <!ENTITY colors.label "Cores">
 <!ENTITY navigator.label "Navegador">
 <!ENTITY history.label "Histórico">
-<!ENTITY bidi.label "Bidi Opções">
 <!ENTITY languages.label "Idiomas">
 <!ENTITY applications.label "Aplicações de ajuda">
 <!ENTITY locationBar.label "Barra de localização">
 <!ENTITY tabWindows.label "Navegação por separadores">
-<!ENTITY compose.label "Compositor">
-<!ENTITY editing.label "Definições de nova página">
-<!ENTITY publish.label "Publicar">
 <!ENTITY offline.label "Desligado">
 <!ENTITY security.label "Privacidade &amp; Segurança">
 <!ENTITY cookies.label "Cookies">

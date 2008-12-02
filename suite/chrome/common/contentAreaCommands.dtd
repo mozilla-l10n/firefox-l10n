@@ -15,8 +15,6 @@
 <!ENTITY openFrameCmdInTab.accesskey  "s">
 <!ENTITY showOnlyThisFrameCmd.label     "Mostrar apenas esta frame">
 <!ENTITY showOnlyThisFrameCmd.accesskey "a">
-<!ENTITY addToBookmarksCmd.label      "Adicionar aos marcadores">
-<!ENTITY addToBookmarksCmd.accesskey  "m">
 <!ENTITY goBackCmd.label              "Retroceder">
 <!ENTITY goBackCmd.accesskey          "R">
 <!ENTITY goForwardCmd.label           "Avançar">
@@ -69,7 +67,11 @@
 <!ENTITY saveLinkCmd.accesskey        "r">
 <!ENTITY saveImageAsCmd.label         "Guardar imagem como…">
 <!ENTITY saveImageCmd.label           "Guardar imagem">
-<!ENTITY saveImageCmd.accesskey       "v">
+<!ENTITY saveImageCmd.accesskey       "G">
+<!ENTITY saveVideoCmd.label           "Guardar vídeo como…">
+<!ENTITY saveVideoCmd.accesskey       "u">
+<!ENTITY saveAudioCmd.label           "Guardar áudio como…">
+<!ENTITY saveAudioCmd.accesskey       "u">
 <!ENTITY copyCmd.label                "Copiar">
 <!ENTITY copyCmd.accesskey            "i">
 <!ENTITY selectAllCmd.label           "Seleccionar tudo">
@@ -78,7 +80,11 @@
 <!ENTITY copyLinkCmd.accesskey        "C">
 <!ENTITY copyImageCmd.label           "Copiar Imagem">
 <!ENTITY copyImageCmd.accesskey       "p">
-<!ENTITY metadataCmd.label            "Properiedades">
+<!ENTITY copyVideoURLCmd.label        "Copiar localização de vídeo">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Copiar localização de áudio">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY metadataCmd.label            "Propriedades">
 <!ENTITY metadataCmd.accesskey        "P">
 <!ENTITY copyEmailCmd.label           "Copiar endereço de correio">
 <!ENTITY copyEmailCmd.accesskey       "e">
@@ -94,7 +100,19 @@
 <!ENTITY redoCmd.accesskey            "R">
 <!ENTITY thisFrameMenu.label          "Esta frame">
 <!ENTITY thisFrameMenu.accesskey      "f">
-<!ENTITY search.accesskey             "W">
+<!ENTITY mediaPlay.label              "Reproduzir">
+<!ENTITY mediaPlay.accesskey          "P">
+<!ENTITY mediaPause.label             "Pausar">
+<!ENTITY mediaPause.accesskey         "P">
+<!ENTITY mediaMute.label              "Sem som">
+<!ENTITY mediaMute.accesskey          "m">
+<!ENTITY mediaUnmute.label            "Com som">
+<!ENTITY mediaUnmute.accesskey        "m">
+<!ENTITY mediaShowControls.label      "Mostrar controlos de média">
+<!ENTITY mediaShowControls.accesskey  "a">
+<!ENTITY mediaHideControls.label      "Ocultar controlos de médias">
+<!ENTITY mediaHideControls.accesskey  "a">
+<!ENTITY search.accesskey             "c">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Mudar direcção da página">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Mudar direcção do texto">

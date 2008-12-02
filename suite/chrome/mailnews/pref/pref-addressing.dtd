@@ -53,5 +53,3 @@
 <!ENTITY directoriesNone.label                 "Nenhuma">
 <!ENTITY editDirectories.label                 "Editar Directorias...">
 <!ENTITY editDirectories.accesskey             "E">
-<!ENTITY matchText.label                       "Se houver uma equivalência no seu livro de endereços local:">
-<!ENTITY skipDirectory.label                   "Não procurar na Directoria">

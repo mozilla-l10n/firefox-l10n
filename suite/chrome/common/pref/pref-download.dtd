@@ -27,5 +27,3 @@
 <!ENTITY browse.accesskey               "N">
 <!ENTITY preview.label                  "Pré-visualizar">
 <!ENTITY preview.accesskey              "v">
-<!ENTITY soundURL.label                 "URL do som:">
-<!ENTITY soundURL.accesskey             "U">

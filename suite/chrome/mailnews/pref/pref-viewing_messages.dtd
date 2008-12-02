@@ -42,7 +42,7 @@
 <!ENTITY regular.label                    "Regular">
 <!ENTITY bold.label                       "Bold">
 <!ENTITY italic.label                     "Itálico">
-<!ENTITY boldItalic.label                 "Bold Italic">
+<!ENTITY boldItalic.label                 "Itálico Negrito">
 <!ENTITY size.label                       "Tamanho:">
 <!ENTITY size.accesskey                   "n">
 <!ENTITY bigger.label                     "Maior">
@@ -53,13 +53,11 @@
 <!ENTITY fontPlainText.label              "Tipo de letra:">
 <!ENTITY fontPlainText.accesskey          "l">
 <!ENTITY displayQuoted.label              "Definição para citação de mensagens:">
-<!ENTITY readingMessagesHeader.label      "Para mensagens a receber">
-<!ENTITY messageWrapping.label            "Corte de mensagens">
 <!ENTITY wrapInMsg.label                  "Cortar texto para caber na largura da janela">
 <!ENTITY wrapInMsg.accesskey              "x">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label           "Mostrar emoticons como gráficos">
-<!ENTITY convertEmoticons.accesskey       "D">
+<!ENTITY convertEmoticons.accesskey       "o">
 <!ENTITY generalMessageDisplay.caption    "Geral">
 <!ENTITY autoMarkAsRead.label             "Marcar mensagens como lidas automaticamente">
 <!ENTITY autoMarkAsRead.accesskey         "a">

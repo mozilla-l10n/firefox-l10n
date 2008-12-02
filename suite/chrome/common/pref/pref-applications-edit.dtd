@@ -18,7 +18,7 @@
 <!ENTITY  application.accesskey                 "c">
 
 <!ENTITY  browse.label                          "Escolher...">
-<!ENTITY  browse.accesskey                      "c">
+<!ENTITY  browse.accesskey                      "l">
 
 <!ENTITY  askBeforeOpen.label                   "Perguntar sempre antes de negociar com ficheiros deste tipo">
 <!ENTITY  askBeforeOpen.accesskey               "g">

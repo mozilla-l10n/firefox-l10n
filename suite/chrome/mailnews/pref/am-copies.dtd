@@ -5,19 +5,15 @@
 <!ENTITY fccMailFolder.label "Guardar uma cópia em:">
 <!ENTITY fccMailFolder.accesskey "G">
 <!ENTITY fccReplyFollowsParent.label "Guardar respostas na pasta da mensagem a ser respondida para">
-<!ENTITY fccReplyFollowsParent.accesskey "l">
-<!ENTITY chooseFolderButton.label "Escolher Pasta...">
+<!ENTITY fccReplyFollowsParent.accesskey "u">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Bcc para estes endereços de correio:">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY specialFolderTitle.label "Pastas Especiais">
-<!ENTITY draftMailFolder.label "Manter os rascunhos em:">
-<!ENTITY templateMailFolder.label "Manter os papéis de carta em:">
 <!ENTITY saveMessageDlg.label "Mostrar diálogo de confirmação quando as mensagens são guardadas">
-<!ENTITY saveMessageDlg.accesskey "S">
+<!ENTITY saveMessageDlg.accesskey "s">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "Pasta &quot;Enviados&quot; em:">
-<!ENTITY sentFolderOn.accesskey "e">
+<!ENTITY sentFolderOn.accesskey "E">
 <!ENTITY sentInOtherFolder.label "Outro:">
 <!ENTITY sentInOtherFolder.accesskey "O">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
@@ -26,8 +22,8 @@
 <!ENTITY draftInOtherFolder.label "Outro:">
 <!ENTITY draftInOtherFolder.accesskey "t">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "&quot;Modelos&quot; Pasta em:">
-<!ENTITY templatesFolderOn.accesskey "m">
+<!ENTITY templatesFolderOn.label "Pasta &quot;Modelos&quot; em:">
+<!ENTITY templatesFolderOn.accesskey "M">
 <!ENTITY templateInOtherFolder.label "Outro:">
 <!ENTITY templateInOtherFolder.accesskey "t">
 <!ENTITY specialFoldersTitle.label "Rascunhos e papéis de carta">
