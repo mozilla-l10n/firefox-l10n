@@ -168,9 +168,9 @@
 
 <!ENTITY event.invite.attendees.label                     "הזמן אורחים…">
 <!ENTITY event.invite.attendees.accesskey                 "ה">
-<!ENTITY event.email.attendees.label                      'כתוב דוא"ל לכל האורחים…'>
+<!ENTITY event.email.attendees.label                      "כתוב דוא״ל לכל האורחים…">
 <!ENTITY event.email.attendees.accesskey                  "כ">
-<!ENTITY event.email.tentative.attendees.label            'כתוב דוא"ל לאורחים שדחו את האירוע…'>
+<!ENTITY event.email.tentative.attendees.label            "כתוב דוא״ל לאורחים שדחו את האירוע…">
 <!ENTITY event.email.tentative.attendees.accesskey        "ד">
 
 <!-- Toolbar -->

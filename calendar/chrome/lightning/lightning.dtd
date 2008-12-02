@@ -92,7 +92,7 @@
 <!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "הצג אירועים בפאנל היום">
 <!ENTITY lightning.calendarproperties.showtasks.label           "הצג משימות בפאנל היום ואת מצבן">
-<!ENTITY lightning.calendarproperties.email.label               'דוא"ל'>
+<!ENTITY lightning.calendarproperties.email.label               "דוא״ל">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.description "הודעה זו כוללת הזמנה לאירוע.">
@@ -107,7 +107,7 @@
 <!-- today-pane-specific -->
 <!ENTITY todaypane.showMinimonth.label "הצג חודש מוקטן">
 <!ENTITY todaypane.showMinimonth.accesskey "ח">
-<!ENTITY todaypane.showMiniday.label "Sהצג יום מוקטן">
+<!ENTITY todaypane.showMiniday.label "הצג יום מוקטן">
 <!ENTITY todaypane.showMiniday.accesskey  "י">
 <!ENTITY todaypane.showNone.label "אל תציג דבר">
 <!ENTITY todaypane.showNone.accesskey "א">
