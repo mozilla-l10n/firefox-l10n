@@ -1,4 +1,4 @@
-<!ENTITY addons.title "ആഡ്‌-ഓണുകള്‍">
+closeMessage.tooltip<!ENTITY addons.title "ആഡ്‌-ഓണുകള്‍">
 <!ENTITY em.width "520">
 <!ENTITY em.height "380">
 <!ENTITY cmd.info.commandKey "i">
@@ -17,18 +17,18 @@
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "നിങ്ങളുടെ ഥീമുകള്‍ക്കുള്ള പരിഷ്കാരങ്ങള്‍ ലഭ്യമാക്കുക">
 
 <!ENTITY cmd.installLocalFile.label "ഇന്‍സ്റ്റാള്‍ ചെയ്യുക ">
-<!ENTITY cmd.installFile.accesskey "I">
+<!-- ENTITY cmd.installFile.accesskey "I" -->
 <!ENTITY cmd.installFileAddon.tooltip "ഒരു ആഡ്‌-ഓണ്‍ ഇന്‍സ്റ്റാള്‍ ചെയ്യുക">
 <!ENTITY cmd.installFileTheme.tooltip "ഒരു തീം ഇന്‍സ്റ്റാള്‍ ചെയ്യുക ">
 <!ENTITY cmd.installUpdatesAll.label "അപ്പ്‌ഡേറ്റുകള്‍ ഇന്‍സ്റ്റാള്‍ ചെയ്യുക">
 <!ENTITY cmd.installUpdatesAll.accesskey "I">
 <!ENTITY cmd.installUpdatesAll.tooltip "തെരഞ്ഞെടുത്തിരിക്കുന്ന അപ്പ്‌ഡേറ്റുകള്‍ ഇന്‍സ്റ്റാള്‍ ചെയ്യപ്പെടും ">
 
-<!ENTITY cmd.restartApp.label "brandShortName;  വീണ്ടും ആരംഭിക്കുക (&);">
+<!-- ENTITY cmd.restartApp.label "brandShortName;  വീണ്ടും ആരംഭിക്കുക (&);" -->
 
-<!ENTITY cmd.restartApp.accesskey "R">
+<!-- ENTITY cmd.restartApp.accesskey "R" -->
 
-<!ENTITY cmd.restartApp.tooltip "ഇന്‍സ്റ്റലേഷന്‍ പൂറ്‍ത്തിയാക്കുന്നതിനായി brandShortName;  വീണ്ടും ആരംഭിക്കുക (&b)">
+<!-- ENTITY cmd.restartApp.tooltip "ഇന്‍സ്റ്റലേഷന്‍ പൂറ്‍ത്തിയാക്കുന്നതിനായി brandShortName;  വീണ്ടും ആരംഭിക്കുക (&b)" -->
 <!ENTITY cmd.skip.label "ഉപേക്ഷിക്കുക">
 
 <!ENTITY cmd.skip.accesskey "S">
@@ -100,20 +100,20 @@
 <!ENTITY toBeEnabled.label "brandShortName; വീണ്ടും ആരംഭിക്കുമ്പോള്‍  ഈ ആഡ്-ഓണ്‍ സജീവമാകുന്നു (&b).">
 <!ENTITY toBeInstalled.label "brandShortName; വീണ്ടും ആരംഭിക്കുമ്പോള്‍  ഈ ആഡ്-ഓണ്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നു (&b).">
 <!ENTITY toBeUninstalled.label "brandShortName; വീണ്ടും ആരംഭിക്കുമ്പോള്‍  ഈ ആഡ്-ഓണ്‍ എടുത്തു കളയുന്നു (&b).">
-<!ENTITY toBeUpgraded.label "brandShortName; വീണ്ടും ആരംഭിക്കുമ്പോള്‍  ഈ ആഡ്-ഓണ്‍  പുതുക്കുന്നു (&b).">
+<!-- ENTITY toBeUpgraded.label "brandShortName; വീണ്ടും ആരംഭിക്കുമ്പോള്‍  ഈ ആഡ്-ഓണ്‍  പുതുക്കുന്നു (&b)." -->
 
 <!ENTITY getExtensions.label "എക്സ്റ്റന്‍ഷനുകള്‍ ലഭ്യമാക്കുക">
-<!ENTITY getExtensions.tooltip "addons.mozilla.org-ല്‍ നിന്നും എക്സ്റ്റന്‍ഷനുകള്‍ ലഭ്യമാക്കുക ">
+<!-- ENTITY getExtensions.tooltip "addons.mozilla.org-ല്‍ നിന്നും എക്സ്റ്റന്‍ഷനുകള്‍ ലഭ്യമാക്കുക " -->
 
 <!ENTITY getThemes.label "ഥീമുകള്‍ ലഭ്യമാക്കുക">
-<!ENTITY getThemes.tooltip "addons.mozilla.org-ല്‍ നിന്നും ഥീമുകള്‍ ലഭ്യമാക്കുക">
+<!-- ENTITY getThemes.tooltip "addons.mozilla.org-ല്‍ നിന്നും ഥീമുകള്‍ ലഭ്യമാക്കുക" -->
 
 <!ENTITY previewNoThemeSelected.label "തീം തെരഞ്ഞെടുത്തിട്ടില്ല ">
 
 <!ENTITY previewNoPreviewImage.label "ഈ ഫീം സജ്ജമാക്കുന്നതിന് മുമ്പ് സ്ക്രീനില്‍ കാണുവാന്‍ സാധ്യമല്ല">
 <!ENTITY moreInfo.label "കൂടുതല്‍ വിവരങ്ങള്‍">
 
-<!ENTITY closeMessage.tooltip "ഈ സന്ദേശം അടയ്ക്കുക">
+<!-- ENTITY closeMessage.tooltip "ഈ സന്ദേശം അടയ്ക്കുക" -->
 
 <!ENTITY updateSuccess.label "വിജയകരമായി പരിഷ്കാരം പൂറ്‍ത്തിയാക്കിയിരിക്കുന്നു.">
 
