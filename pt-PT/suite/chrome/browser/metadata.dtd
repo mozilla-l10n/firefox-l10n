@@ -1,9 +1,9 @@
-<!ENTITY no-properties.label   "Nenhuma propriedade aplicada.">
+ï»¿<!ENTITY no-properties.label   "Nenhuma propriedade aplicada.">
 
 <!ENTITY caption.label         "Propriedades do elemento">
 <!ENTITY image-sec.label       "Propriedades da imagem">
-<!ENTITY image-url.label       "Localização:">
-<!ENTITY image-desc.label      "Descrição:">
+<!ENTITY image-url.label       "LocalizaÃ§Ã£o:">
+<!ENTITY image-desc.label      "DescriÃ§Ã£o:">
 <!ENTITY image-alt.label       "Texto alternativo:">
 <!ENTITY image-width.label     "Largura:">
 <!ENTITY image-height.label    "Altura:">
@@ -11,16 +11,16 @@
 <!ENTITY insdel-sec.label      "Propriedades de inserir/eliminar">
 <!ENTITY insdel-cite.label     "Info:">
 <!ENTITY insdel-date.label     "Data:">
-<!ENTITY link-sec.label        "Ligação das propriedades">
-<!ENTITY link-url.label        "Endereço:">
+<!ENTITY link-sec.label        "LigaÃ§Ã£o das propriedades">
+<!ENTITY link-url.label        "EndereÃ§o:">
 <!ENTITY link-target.label     "Vai abrir em:">
 <!ENTITY link-type.label       "Tipo de destino:">
 <!ENTITY link-lang.label       "Idioma de destino:">
-<!ENTITY link-rel.label        "Relação:">
-<!ENTITY link-rev.label        "Relação invertida:">
+<!ENTITY link-rel.label        "RelaÃ§Ã£o:">
+<!ENTITY link-rev.label        "RelaÃ§Ã£o invertida:">
 <!ENTITY misc-sec.label        "Propriedades dos diversos">
 <!ENTITY misc-lang.label       "Idioma do texto:">
-<!ENTITY misc-title.label      "Titúlo:">
+<!ENTITY misc-title.label      "TÃ­tulo:">
 <!ENTITY misc-tblsummary.label "Tabela de resumo:">
-<!ENTITY quote-sec.label       "Propriedades da citação">
+<!ENTITY quote-sec.label       "Propriedades da citaÃ§Ã£o">
 <!ENTITY quote-cite.label      "Info:">

@@ -41,7 +41,7 @@
 
 <!ENTITY dimensionsBox.label "Dimensões">
 <!ENTITY heightEditField.label "Altura:">
-<!ENTITY heightEditField.accessKey "L">
+<!ENTITY heightEditField.accessKey "t">
 <!ENTITY widthEditField.label "Largura:">
 <!ENTITY widthEditField.accessKey "L">
 <!ENTITY pixelsPopup.value "pixéis">

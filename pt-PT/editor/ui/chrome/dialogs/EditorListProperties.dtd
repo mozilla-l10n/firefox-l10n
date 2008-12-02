@@ -34,9 +34,9 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
+
 <!-- Window title -->
-
-
 <!ENTITY windowTitle.label "Listar Propriedades">
 
 <!ENTITY ListType.label "Listar Tipo">
@@ -47,7 +47,6 @@
 <!ENTITY bulletList.value "Lista Bullet (Não numerada)">
 <!ENTITY numberList.value "Lista Numerada">
 <!ENTITY definitionList.value "Lista de Definições">
-<!ENTITY changeListMsg.label "Ao modificar o tipo da lista:">
 <!ENTITY changeEntireListRadio.label "Alterar a lista inteira">
 <!ENTITY changeEntireListRadio.accessKey "A">
 <!ENTITY changeSelectedRadio.label "Alterar apenas os itens seleciondos">

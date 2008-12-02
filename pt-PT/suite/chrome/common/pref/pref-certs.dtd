@@ -36,8 +36,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  resetsettings.label      "Reiniciar definições">
-<!ENTITY  resetpreferences.label   "Reiniciar definições…">
 <!ENTITY  managecerts.caption      "Gerir Certificados">
 <!ENTITY  managecerts.text         "Utilize o gestor de certificados para gerir os seus certificados pessoais, asssim como os de outras pessoas e autoridades de segurança.">
 <!ENTITY  managecerts.button       "Gerir Certificados…">

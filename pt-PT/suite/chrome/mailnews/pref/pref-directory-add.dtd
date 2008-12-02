@@ -48,16 +48,13 @@
 <!ENTITY directorySecure.accesskey         "U">
 <!ENTITY directoryLogin.label              "Bind DN: ">
 <!ENTITY directoryLogin.accesskey          "i">
-<!ENTITY advancedOptionsButton.label       "Opções avançadas">
-<!ENTITY advancedOptionsButton.accesskey   "a">
 <!ENTITY General.tab                       "Geral">
 <!ENTITY Offline.tab                       "Desligado">
 <!ENTITY Advanced.tab                      "Avançado">
-<!ENTITY advancedOptionsTitle.label        "Opções avançadas">
 <!ENTITY portNumber.label                  "Porta número: ">
 <!ENTITY portNumber.accesskey              "P">
 <!ENTITY searchFilter.label                "Filtro de pesquisa: ">
-<!ENTITY searchFilter.accesskey            "f">
+<!ENTITY searchFilter.accesskey            "F">
 <!ENTITY scope.label                       "Scope: ">
 <!ENTITY scope.accesskey                   "c">
 <!ENTITY scopeOneLevel.label               "Um nível">
@@ -72,4 +69,4 @@
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->
-<!ENTITY newDirectoryWidth                 "45em">
+<!ENTITY newDirectoryWidth                 "48em">

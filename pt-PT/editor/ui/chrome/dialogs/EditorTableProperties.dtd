@@ -51,7 +51,7 @@
 <!ENTITY tableWidth.accessKey "L">
 <!ENTITY tableBorderSpacing.label "Limites e Espaçamento">
 <!ENTITY tableBorderWidth.label "Limite:">
-<!ENTITY tableBorderWidth.accessKey "I">
+<!ENTITY tableBorderWidth.accessKey "i">
 <!ENTITY tableSpacing.label "Espaçamento:">
 <!ENTITY tableSpacing.accessKey "ç">
 <!ENTITY tablePadding.label "Padding:">
@@ -69,7 +69,6 @@
 <!ENTITY tableCaptionNone.label "Nenhum">
 <!ENTITY tableInheritColor.label "(Apresentar a cor da página através)">
 
-<!ENTITY cellPercent.label "percentagem da tabela">
 <!ENTITY cellSelection.label "Selecção">
 <!ENTITY cellSelectCell.label "Célula">
 <!ENTITY cellSelectRow.label "Linha">
@@ -78,11 +77,7 @@
 <!ENTITY cellSelectNext.accessKey "S">
 <!ENTITY cellSelectPrevious.label "Anterior">
 <!ENTITY cellSelectPrevious.accessKey "A">
-<!ENTITY cellApplyBeforeMove.label "Aplicar alterações antes de alterar selecção">
-<!ENTITY cellKeepCurrentData.label "Manter configurações actuais">
 <!ENTITY applyBeforeChange.label "As Modificações actuais serão aplicadas antes de alterar a selecção.">
-<!ENTITY cellRowSpan.label "Span da Linha:">
-<!ENTITY cellColSpan.label "Span da Coluna:">
 <!ENTITY cellContentAlignment.label "Alinhamento do Conteúdo">
 <!ENTITY cellHorizontal.label "Horizontal:">
 <!ENTITY cellHorizontal.accessKey "Z">
@@ -100,7 +95,6 @@
 <!ENTITY cellAlignMiddle.label "Meio">
 <!ENTITY cellAlignBottom.label "Fundo">
 <!ENTITY cellAlignJustify.label "Justificar">
-<!ENTITY cellAlignAtChar.label "SEM Caracteres:">
 <!ENTITY cellInheritColor.label "(Apresentar a cor da tabela através)">
 <!ENTITY cellUseCheckboxHelp.label "Utilizar caixas de selecção para determinar quais as propriedades a aplicar a todas as células seleccionadas">
 

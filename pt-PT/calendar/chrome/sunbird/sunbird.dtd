@@ -69,6 +69,7 @@
 
 <!ENTITY sunbird.menu.numberofweeks.label                  "Número de semanas" >
 <!ENTITY sunbird.menu.numberofweeks.accesskey              "N" >
+<!ENTITY sunbird.menu.numberofweeks.1                      "1 semana" >
 <!ENTITY sunbird.menu.numberofweeks.2                      "2 semanas" >
 <!ENTITY sunbird.menu.numberofweeks.3                      "3 semanas" >
 <!ENTITY sunbird.menu.numberofweeks.4                      "4 semanas" >

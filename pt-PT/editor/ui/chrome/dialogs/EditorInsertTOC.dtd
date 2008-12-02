@@ -37,7 +37,6 @@
 
 <!ENTITY Window.title "Tabela de Conteúdos">
 <!ENTITY buildToc.label "Construir tabela de conteúdos a partir de:">
-<!ENTITY style.label "Estilo:">
 <!ENTITY tag.label "Etiqueta:">
 <!ENTITY class.label "Classe:">
 <!ENTITY header1.label "Nível 1">

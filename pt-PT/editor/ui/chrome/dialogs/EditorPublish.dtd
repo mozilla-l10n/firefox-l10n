@@ -34,18 +34,15 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!-- Window title -->
-
-
 <!ENTITY windowTitle.label "Publicar Página">
 <!ENTITY windowTitleSettings.label "Definições de Publicação">
-
 <!ENTITY publishTab.label "Publicar">
 <!ENTITY settingsTab.label "Definições">
-
 <!ENTITY publishButton.label "Publicar">
-<!-- Publish Tab Panel -->
 
+<!-- Publish Tab Panel -->
 <!ENTITY siteList.label "Nome do Sítio:">
 <!ENTITY siteList.accesskey "e">
 <!ENTITY siteList.tooltip "Escolha o sítio em que quer publicar">
@@ -67,19 +64,17 @@
 <!ENTITY pageTitle.label "Título da Página:">
 <!ENTITY pageTitle.accesskey "T">
 <!ENTITY pageTitle.tooltip "Introduza um título para identificar a página na janela e nos marcadores">
-<!ENTITY pageTitleExample.label "e.g.: &quot;My Web Page&quot;">
+<!ENTITY pageTitleExample.label "ex.: &quot;A minha página web&quot;">
 <!ENTITY filename.label "Nome do ficheiro:">
 <!ENTITY filename.accesskey "F">
 <!ENTITY filename.tooltip "Introduza um nome para este ficheiro, incluindo'.html' para páginas web">
-<!ENTITY filenameExample.label "e.g,: &quot;mypage.html&quot;">
-<!ENTITY relatedDocs.label "Outros ficheiros para publicar">
+<!ENTITY filenameExample.label "e.g,: &quot;minhapagina.html&quot;">
 <!ENTITY setDefaultButton.label "Aplicar como Pré-Definição">
 <!ENTITY setDefaultButton.accesskey "D">
-<!ENTITY setDefSiteAndDir.label "Aplicar como Site e Directoria pré-definida">
 <!ENTITY removeButton.label "Remover Sítio">
 <!ENTITY removeButton.accesskey "R">
-<!-- Settings Tab Panel -->
 
+<!-- Settings Tab Panel -->
 <!ENTITY publishSites.label "Sites de Publicação">
 <!ENTITY serverInfo.label "Informação do Servidor">
 <!ENTITY loginInfo.label "Informação de inicio de sessão">

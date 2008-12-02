@@ -39,10 +39,6 @@
 <!ENTITY generalSettings.caption          "Definições Gerais">
 <!ENTITY confirmMove.label                "Confirmar ao mover pastas para o Lixo">
 <!ENTITY confirmMove.accesskey            "C">
-<!ENTITY useMessenger.label               "Usar Correio de aplicações baseadas em MAPI">
-<!ENTITY useMessenger.accesskey           "U">
-<!ENTITY autounzip.label                  "Expandir automaticamente ficheiros zip ao guardar os anexos">
-<!ENTITY autounzip.accesskey              "a">
 <!ENTITY preserveThreading.label          "Preservar tópicos ao ordenar as mensagens">
 <!ENTITY preserveThreading.accesskey      "v">
 
@@ -51,6 +47,8 @@
 <!ENTITY setDefaultMail.accesskey         "C">
 <!ENTITY setDefaultNews.label             "Notícias">
 <!ENTITY setDefaultNews.accesskey         "N">
+<!ENTITY setDefaultFeed.label             "Fontes">
+<!ENTITY setDefaultFeed.accesskey         "e">
 
 <!ENTITY messengerStartPage.caption       "Página inicial do correio">
 <!ENTITY enableStartPage.label            "Quando o correio é iniciado, mostrar a página inicial na área das mensagens">
@@ -61,7 +59,7 @@
 <!ENTITY useDefault.accesskey             "D">
 <!ENTITY rememberLastMsg.label            "Lembrar a última mensagem seleccionada">
 <!ENTITY rememberLastMsg.accesskey        "e">
-<!ENTITY toolbarIntro.caption             "Select the buttons you want to see in the toolbar">
+<!ENTITY toolbarIntro.caption             "Seleccioneos botões que dseja ver na barra de ferramentas">
 <!ENTITY fileButton.label                 "Ficheiro">
 <!ENTITY fileButton.accesskey             "F">
 <!ENTITY nextButton.label                 "Seguinte">
