@@ -1,0 +1,32 @@
+<!ENTITY loadError.label "Ralat Memuatkan Laman">
+<!ENTITY retry.label "Cuba Lagi">
+<!ENTITY connectionFailure.title "Tidak dapat Menyambung ">
+<!ENTITY connectionFailure.longDesc "<p>Walaupun tapak itu kelihatan sah, tetapi pelungsur tidak dapat mendirikan sambungan.</p><ul><li>Mungkinkah tapak itu tidak wujud buat sementata waktu? Cuba lagi kemudian.</li><li>Adakah anda juga tidak dapat melayari tapak lain?  Periksa sambungan rangkaian komputer anda.</li><li>Adakah komputer atau rangkaian anda dilindungi firewall atau proksi? Tetapan yang tidak betul boleh mengganggu pelayaran Web.</li></ul>">
+<!ENTITY deniedPortAccess.title "Port Dihadkan atas Alasan Keselamatan">
+<!ENTITY deniedPortAccess.longDesc "<p>Alamat yang diminta mengkhususkan port (cth. <q>mozilla.org:80</q> untuk port 80 pada mozilla.org) kebiasaannya digunakan untuk kegunaan  <em>selain</em> daripada pelugsuran Web. Pelungsur telah membatalkan permintaan untuk perlindungan dan sekuriti anda.</p>">
+<!ENTITY dnsNotFound.title "Alamat Tidak Ditemui">
+<!ENTITY dnsNotFound.longDesc "<p>Pelungsur tidak menemui hos pelayan bagi alamat yang diberi.</p><ul><li>Adakah anda telah melakukan kesilapan menaip domain? (e.g. <q><strong>ww</strong>.mozilla.org</q> sebaliknya adalah <q><strong>www</strong>.mozilla.org</q>)</li><li>Adakah anda pasti yang alamat ini wujud?  Pendaftarannya mungkin telah luput.</li><li>Adakah anda gagal melungsuri tapak lain?  Periksa sambungan rangkaian dan tetapan pelayan DNS.</li><li>Adakah komputer atau rangkaian anda dilindungi oleh firewall atau proksi?  Tetapan yang tidak betul boleh mengganggu pelungsuran Web.</li></ul>">
+<!ENTITY fileNotFound.title "Fail tidak ditemui">
+<!ENTITY fileNotFound.longDesc "<ul><li>Adakah item telah dinamakan, disingkir, atau dipindahkan?</li><li>Adakah terdapat kesilapan ejaan, penggunaan huruf besar, atau menaip dalam alamat?</li><li>Adakah anda memiliki keizinan yang mencukupi untuk memohon item?</li></ul>">
+<!ENTITY generic.title "Gagal Menyudahkan Permintaan">
+<!ENTITY generic.longDesc "<p>Maklumat tambahan perihal masalah atau ralat ini belum lagi wujud.</p>">
+<!ENTITY malformedURI.title "Alamat Tidak Sah">
+<!ENTITY malformedURI.longDesc "<p>Alamat yang diberikan tidak dapat bentuk yang dikenali. Sila periksa kesilapan pada bar lokasi dan cuba lagi.</p>">
+<!ENTITY netInterrupt.title "Pemindahan Data Terganggu">
+<!ENTITY netInterrupt.longDesc "<p>Sambungan pelungsur berjaya, tetapi sambungan terganggu ketika pemindahan maklumat. Sila cuba lagi.</p><ul><li>Adakah anda tidak dapat melungsuri laman lain? Sila periksa sambungan rangkaian komputer anda.</li><li>Masih bermasalah? Minta nasihat dari pentadbir rangkaian atau penyedia Internet anda untuk bantuan.</li></ul>">
+<!ENTITY netOffline.title "Mod Luar Talian">
+<!ENTITY netOffline.longDesc "<p>Pelungsur beroperasi dalam mod luar talian dan tidak dapat menyambung kepada item dipohon.</p><ul><li>Adakah komputer disambungkan kepada rangkaian aktif?</li><li>Tempatkan pelungsur dalam mod atas talian dan cuba lagi.</li></ul>">
+<!ENTITY netReset.title "Sambungan Terganggu">
+<!ENTITY netReset.longDesc "<p>Talian rangkaian terganggu ketika perundingan rangkaian. Sila cuba lagi.</p>">
+<!ENTITY netTimeout.title "Sambungan Tamat Tempoh">
+<!ENTITY netTimeout.longDesc "<p>Tapak yang dipohon tidak membalas kepada permintaan sambungan dan pelungsur berhenti menunggu balasan.</p><ul><li>Kemungkinan pelayan mengalami permintaan tinggi atau gagal sementara? Cuba lagi kemudian.</li><li>Adakah anda gagal melungsuri laman lain? Periksa konfigurasi rangkaian komputer.</li><li>Adakah komputer atau rangkaian anda dilindungi firewall atau proksi? Tetapan yang tidak betul boleh mengganggu melungsuri Web.</li><li>Masih bermasalah? Dapatkan nasihat pentadbir rangkaian atau penyedia Internet anda untuk bantuan.</li></ul>">
+<!ENTITY protocolNotFound.title "Protokol Tidak Diketahui">
+<!ENTITY protocolNotFound.longDesc "<p>Alamat yang menentukan protokol (cth. <q>wxyz://</q>) yang pelungsur tidak kenali, jadi pelungsur tidak disambung kepada tapak dengan betul.</p><ul><li>Adakah anda cuba untuk mencapai multimedia atau servis bukan teks lain? Periksa laman untuk keperluan tambahan.</li><li>Sebahagian protokol boleh jadi memerlukan perisian atau plugin pihak-ketiga sebelum pelungsur dapat mengenalinya.</li></ul>">
+<!ENTITY proxyConnectFailure.title "Pelayan proksi Menolak Sambungan">
+<!ENTITY proxyConnectFailure.longDesc "<p>Pelungsur dikonfigurkan untuk menggunakan pelayan proksi, tetapi proksi menafikan sambungan.</p><ul><li>Adakah konfigurasi proksi pelungsur betul? Periksa tetapan dan cuba lagi.</li><li>Adakah pelayan proksi membenarkan sambungan daripada rangkaian ini?</li><li>Masih bermasalah? Dapatkan nasihat pentadbir rangkaian atau penyedia Internet anda untuk bantuan.</li></ul>">
+<!ENTITY proxyResolveFailure.title "Pelayan Proksi Tidak Ditemui">
+<!ENTITY proxyResolveFailure.longDesc "<p>Pelungsur dikonfigurkan untuk menggunakan pelayan proksi, tetapi proksi tidak dapat ditemui.</p><ul><li>Adakah konfigurasi proksi pelungsur betul? Periksa tetapan dan cuba lagi.</li><li>Adakah komputer disambungkan kepada rangkaian aktif?</li><li>Masih bermasalah? Dapatkan nasihat pentadbir rangkaian atau penyedia Internet anda untuk bantuan.</li></ul>">
+<!ENTITY redirectLoop.title "Gelung Lencongan">
+<!ENTITY redirectLoop.longDesc "<p>Pelungsur berhenti daripada cuba mendapatkan itek diminta. Laman mengalihkan permintaan dengan cara yang tidak akan selesai.</p><ul><li>Sudahkan anda melumpuhkan atau menghalang keperluan cookie oleh tapak ini?</li><li><em>NOTA</em>: Jika terima cookie dari tapak ini juga tidak dapat menyelesaikan masalah, berkemungkinan adalah masalah konfigurasi pelayan dan bukannya komputer anda.</li></ul>">
+<!ENTITY unknownSocketType.title "Tindak Balas Salah">
+<!ENTITY unknownSocketType.longDesc "<p>Tapak membalas permintaan rangkaian dengan cara yang tidak dijangka dan pelungsur tidak dapat diteruskan.</p>">

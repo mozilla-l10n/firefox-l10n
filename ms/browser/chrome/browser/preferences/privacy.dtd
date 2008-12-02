@@ -1,0 +1,30 @@
+<!ENTITY history.label "Sejarah">
+<!ENTITY rememberBefore.label "Ingat laman dilawati untuk yang terakhir">
+<!ENTITY rememberBefore.accesskey "w">
+<!ENTITY rememberAfter.label "hari.">
+<!ENTITY rememberForms.label "Ingat apa yang saya masukkan dalam borang dan bar carian">
+<!ENTITY rememberForms.accesskey "b">
+<!ENTITY rememberDownloads.label "Ingat apa yang saya muaturun">
+<!ENTITY rememberDownloads.accesskey "t">
+<!ENTITY cookies.label "Cookies">
+<!ENTITY acceptCookies.label "Terima cookie daripada laman">
+<!ENTITY acceptCookies.accesskey "T">
+<!ENTITY keepUntil.label "Kekalkan sehingga:">
+<!ENTITY keepUntil.accesskey "K">
+<!ENTITY expire.label "ianya luput">
+<!ENTITY close.label "saya tutup &brandShortName;">
+<!ENTITY askEachTime.label "tanya saya setiap masa">
+<!ENTITY cookieExceptions.label "Pengecualian...">
+<!ENTITY cookieExceptions.accesskey "E">
+<!ENTITY showCookies.label "Tunjuk Cookie...">
+<!ENTITY showCookies.accesskey "C">
+<!ENTITY privateData.label "Data Peribadi">
+<!ENTITY alwaysClear.label "Sentiasa bersihkan data peribadi saya apabila saya tutup &brandShortName;">
+<!ENTITY alwaysClear.accesskey "s">
+<!ENTITY askBeforeClear.label "Tanya saya sebelum membersihkan data peribadi">
+<!ENTITY askBeforeClear.accesskey "T">
+<!ENTITY clearDataSettings.label "Tetapan...">
+<!ENTITY clearDataSettings.accesskey "t">
+<!ENTITY clearDataNow.label "Bersihkan Sekarang...">
+<!ENTITY clearDataNow.label2 "Bersihkan Sekarang">
+<!ENTITY clearDataNow.accesskey "N">

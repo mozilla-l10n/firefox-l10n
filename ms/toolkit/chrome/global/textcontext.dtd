@@ -1,0 +1,19 @@
+<!ENTITY cutCmd.label "Potong">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "Salin">
+<!ENTITY copyCmd.accesskey "c">
+<!ENTITY pasteCmd.label "Tampal">
+<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY undoCmd.label "Batalkan">
+<!ENTITY undoCmd.accesskey "u">
+<!ENTITY selectAllCmd.label "Pilih Semua">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY deleteCmd.label "Hapus">
+<!ENTITY deleteCmd.accesskey "d">
+<!ENTITY spellAddToDictionary.label "Tambah kepada kamus">
+<!ENTITY spellAddToDictionary.accesskey "t">
+<!ENTITY spellEnable.label "Semak eja medan ini">
+<!ENTITY spellEnable.accesskey "S">
+<!ENTITY spellNoSuggestions.label "(Tiada cadangan ejaan)">
+<!ENTITY spellDictionaries.label "Bahasa">
+<!ENTITY spellDictionaries.accesskey "l">

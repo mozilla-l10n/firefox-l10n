@@ -1,0 +1,20 @@
+<!--null-->
+<!ENTITY intro.label "Anda telah memilih untuk buka">
+<!ENTITY from.label "daripada:">
+<!ENTITY actionQuestion.label "Apa perlu &brandShortName; lakukan dengan fail ini?">
+<!ENTITY openWith.label "Buka dengan">
+<!ENTITY openWith.accesskey "o">
+<!ENTITY other.label "Lain-lain...">
+<!ENTITY save.label "Simpan ke Cakera">
+<!ENTITY save.accesskey "s">
+<!ENTITY rememberChoice.label "Lakukan ini secara automatik untuk fail seperti ini mulai sekarang.">
+<!ENTITY rememberChoice.accesskey "a">
+<!ENTITY settingsChange.label "Tetapan boleh ditukar dalam seksyen Kandungan Alatan, Opsyen.">
+<!ENTITY settingsChangeMac.label "Tetapan boleh diubah dalam seksyen Kandungan &brandShortName;, Keutamaan.">
+<!ENTITY settingsChangeUnix.label "Tetapan boleh diubah di seksyen Kandungan dalam Edit, Keutamaan.">
+<!ENTITY whichIsA.label "yang mana adalah:">
+<!ENTITY chooseHandlerMac.label "Pilih...">
+<!ENTITY chooseHandlerMac.accesskey "C">
+<!ENTITY chooseHandler.label "Lungsur...">
+<!ENTITY chooseHandler.accesskey "B">
+<!ENTITY unknownPromptText.label "Adakah anda ingin menyimpan fail ini?">

@@ -1,0 +1,16 @@
+<!ENTITY sanitizeDialog.title "Bersihkan Data Peribadi">
+<!ENTITY sanitizeItems.label "Bersihkan item berikut sekarang:">
+<!ENTITY itemHistory.label "Melungsur Sejarah">
+<!ENTITY itemHistory.accesskey "M">
+<!ENTITY itemFormSearchHistory.label "Borang dan Sejarah Carian Tersimpan">
+<!ENTITY itemFormSearchHistory.accesskey "B">
+<!ENTITY itemPasswords.label "Katalaluan Tersimpan">
+<!ENTITY itemPasswords.accesskey "P">
+<!ENTITY itemCookies.label "Cookies">
+<!ENTITY itemCookies.accesskey "C">
+<!ENTITY itemCache.label "Cache">
+<!ENTITY itemCache.accesskey "a">
+<!ENTITY itemDownloads.label "Sejarah Muaturun">
+<!ENTITY itemDownloads.accesskey "D">
+<!ENTITY itemSessions.label "Pembuktian Sessi">
+<!ENTITY itemSessions.accesskey "S">

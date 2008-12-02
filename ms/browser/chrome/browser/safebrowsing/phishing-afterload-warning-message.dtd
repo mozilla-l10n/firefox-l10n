@@ -1,0 +1,20 @@
+<!ENTITY safeb.palm.warning.title "Dicurigai Web Palsu">
+<!ENTITY safeb.palm.message.p1 "Laman ini telah dilaporkan sebagai web palsu yang diipta untuk mengaburi pengguna untuk berkongsi maklumat peribadi awau kewangan. Memasukkan sebarang maklumat persibadi pada laman ini akan mendatangkan keurian identiti atau penipuan lain.">
+<!ENTITY safeb.palm.message.p1.linkText "Baca Lagi »">
+<!ENTITY safeb.palm.p1.linkStatusText "Baca Lagi ">
+<!ENTITY safeb.palm.message.p2.start "Jenis kepalsuan web ini digunakan dalam penipuan dikenali sebagai serangan phising, yang mana laman web dan emel yang curang digunakan untuk meniru sumber yang anda percayai. Anda boleh menemui lanjutan tentang">
+<!ENTITY safeb.palm.message.p2.linkText "bagaimana &brandShortName; melindungi anda">
+<!ENTITY safeb.palm.message.p2.end " daripada serangan phising.">
+<!ENTITY safeb.palm.accept.label "Keluarkan saya dari sini!">
+<!ENTITY safeb.palm.accept.statustext "Layari laman utama saya">
+<!ENTITY safeb.palm.decline.label "Abaikan amaran ini">
+<!ENTITY safeb.palm.decline.statustext "Tutup amaran">
+<!ENTITY safeb.palm.notforgery.label "Ini bukannya pemalsuan web">
+<!ENTITY safeb.palm.addbutton.label "Tambah ke senarai hitam">
+<!ENTITY safeb.palm.addbutton.tooltip "Tambah ke senarai hitam">
+<!ENTITY safeb.palm.toolmenu.label "Pelungsuran Selamat">
+<!ENTITY safeb.palm.toolmenu.pref.label "Keutamaan...">
+<!ENTITY safeb.palm.toolmenu.reportphishing.label "Laporkan phising...">
+<!ENTITY safeb.palm.toolmenu.showphishingtestpage.label "Buka Laman Ujian">
+<!ENTITY safeb.palm.provider.logo.tooltip "Amaran dari Pelungsuran Selamat">
+<!ENTITY safeb.urlbaricon.tooltip "Laman ini mungkin membahayakan; klik untuk perincian.">

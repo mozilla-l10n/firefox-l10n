@@ -1,0 +1,20 @@
+<!ENTITY printButton.label "Cetak">
+<!ENTITY printDialog.title "Cetak">
+<!ENTITY fpDialog.title "Simpan Fail">
+<!ENTITY fileCheck.label "Cetak ke Fail">
+<!ENTITY propertiesButton.label "Ciri...">
+<!ENTITY descText.label "Huraian Pencetak:">
+<!ENTITY printer.label "Pencetak">
+<!ENTITY printerInput.label "Nama Pencetak:">
+<!ENTITY printrangeGroup.label "Julat Pencetak">
+<!ENTITY allpagesRadio.label "Semua Laman">
+<!ENTITY rangeRadio.label "Laman">
+<!ENTITY frompageInput.label "daripada">
+<!ENTITY topageInput.label "kepada">
+<!ENTITY selectionRadio.label "Pemilihan">
+<!ENTITY copies.label "Salinan">
+<!ENTITY numCopies.label "Bilangan salinan:">
+<!ENTITY printframeGroup.label "Cetak Bingkai">
+<!ENTITY aslaidoutRadio.label "Seperti yang dibentangkan pada skrin">
+<!ENTITY selectedframeRadio.label "Bingkai terpilih">
+<!ENTITY eachframesepRadio.label "Setiap bingkai berasingan">

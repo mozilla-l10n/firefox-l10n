@@ -1,0 +1,77 @@
+<!--null-->
+<!ENTITY preface "Maklumat untuk:">
+<!ENTITY title "Info Laman">
+<!ENTITY description "Maklumat tentang laman semasa">
+<!ENTITY pageInfoWindow.width "425">
+<!ENTITY pageInfoWindow.height "470">
+<!ENTITY copy.key "C">
+<!ENTITY copy.label "Salin">
+<!ENTITY copy.accesskey "S">
+<!ENTITY selectall.key "A">
+<!ENTITY selectall.label "Pilih Semua">
+<!ENTITY selectall.accesskey "A">
+<!ENTITY closeWindow.key "w">
+<!ENTITY generalTab "Am">
+<!ENTITY generalAccesskey "m">
+<!ENTITY generalTitle "Tajuk:">
+<!ENTITY generalURL "Alamat:">
+<!ENTITY generalMode "Mod Balas">
+<!ENTITY generalType "Jenis:">
+<!ENTITY generalSize "Saiz:">
+<!ENTITY generalReferrer "Merujuk URL:">
+<!ENTITY generalSource "Sumber:">
+<!ENTITY generalSent "Hantar:">
+<!ENTITY generalModified "Diubah suai:">
+<!ENTITY generalExpires "Luput:">
+<!ENTITY generalEncoding "Pengekodan:">
+<!ENTITY generalMeta "Meta:">
+<!ENTITY generalMetaName "Nama">
+<!ENTITY generalMetaContent "Kandungan">
+<!ENTITY formsTab "Bentuk">
+<!ENTITY formsAccesskey "F">
+<!ENTITY formAction "Rangka Tindakan">
+<!ENTITY formMethod "Kaedah">
+<!ENTITY formName "Nama">
+<!ENTITY formNo "No.">
+<!ENTITY formEncoding "Pengekodan:">
+<!ENTITY formTarget "Sasaran:">
+<!ENTITY formFields "Medan:">
+<!ENTITY formLabel "Label">
+<!ENTITY formFName "Nama Medan">
+<!ENTITY formType "Jenis">
+<!ENTITY formCValue "Nilai Semasa">
+<!ENTITY linksTab "Pautan">
+<!ENTITY linksAccesskey "P">
+<!ENTITY linkNo "No.">
+<!ENTITY linkName "Nama">
+<!ENTITY linkAddress "Alamat">
+<!ENTITY linkType "Jenis">
+<!ENTITY linkTarget "Sasaran">
+<!ENTITY linkAccessKey "Kekunci Akses">
+<!ENTITY mediaTab "Media">
+<!ENTITY mediaAccesskey "M">
+<!ENTITY mediaHeader "Imej pada halaman ini">
+<!ENTITY mediaURL "Alamat:">
+<!ENTITY mediaBase "Alamat Asas:">
+<!ENTITY mediaAlt "Teks Silih Ganti:">
+<!ENTITY mediaAltHeader "Teks Silih Ganti">
+<!ENTITY mediaNo "No.">
+<!ENTITY mediaName "Nama">
+<!ENTITY mediaAddress "Alamat">
+<!ENTITY mediaType "Jenis">
+<!ENTITY mediaCount "Kira">
+<!ENTITY mediaPlugin "Plugin:">
+<!ENTITY mediaCharset "Pengekodan:">
+<!ENTITY mediaDimensions "Dimensi:">
+<!ENTITY mediaPhysDimensions "Dimensi Sebenar:">
+<!ENTITY mediaEncryption "Penyulitan:">
+<!ENTITY mediaTitle "Tajuk:">
+<!ENTITY mediaLongdesc "Huraian Panjang:">
+<!ENTITY mediaSaveAs "Simpan Sebagai...">
+<!ENTITY mediaSaveAs.accesskey "S">
+<!ENTITY mediaPreview "Media Pralihat:">
+<!ENTITY framesTab "Bingkai">
+<!ENTITY framesTab.accesskey "B">
+<!ENTITY frameName "Nama">
+<!ENTITY frameAddress "Alamat">
+<!ENTITY frameType "Jenis">

@@ -1,0 +1,39 @@
+<!ENTITY window.width "400">
+<!ENTITY window.height "300">
+<!ENTITY done.label "Selesai">
+<!ENTITY canceled.label "Dibatal">
+<!ENTITY installing.label "Memasang...">
+<!ENTITY starting.label "Memulakan...">
+<!ENTITY failed.label "Gagal">
+<!ENTITY downloads.title "Muaturun">
+<!ENTITY cmd.pause.label "Jeda">
+<!ENTITY cmd.pause.accesskey "J">
+<!ENTITY cmd.resume.label "Sambung">
+<!ENTITY cmd.resume.accesskey "S">
+<!ENTITY cmd.cancel.label "Batal">
+<!ENTITY cmd.cancel.accesskey "B">
+<!ENTITY cmd.show.label "Buka Folder Berisi">
+<!ENTITY cmd.show.labelMac "Tunjuk dalan Pencari">
+<!ENTITY cmd.show.accesskey "F">
+<!ENTITY cmd.show.accesskeyMac "F">
+<!ENTITY cmd.open.label "Buka">
+<!ENTITY cmd.open.accesskey "k">
+<!ENTITY cmd.openWith.label "Buka Dengan...">
+<!ENTITY cmd.openWith.accesskey "D">
+<!ENTITY cmd.retry.label "Cuba semula">
+<!ENTITY cmd.retry.accesskey "C">
+<!ENTITY cmd.remove.label "Singkir">
+<!ENTITY cmd.remove.accesskey "r">
+<!ENTITY cmd.properties.label "Ciri">
+<!ENTITY cmd.properties.accesskey "i">
+<!ENTITY cmd.info.commandKey "i">
+<!ENTITY cmd.close.commandKey "w">
+<!ENTITY cmd.close2.commandKey "j">
+<!ENTITY cmd.close2Unix.commandKey "y">
+<!ENTITY cmd.cleanUp.label "Pembersihan">
+<!ENTITY cmd.cleanUp.tooltip "Memsingkir selesai, dibatal dan gagal memuaturun daripada senarai">
+<!ENTITY cmd.cleanUp.accesskey "P">
+<!ENTITY closeWhenDone.label "Tutup apabila muaturun selesai">
+<!ENTITY closeWhenDone.tooltip "Tutup tetingkap Muaturun apabila semua fail selesai dimuaturun">
+<!ENTITY filesSavedTo.label "Semua fail dimuaturun ke:">
+<!ENTITY showFolder.label "Tunjuk Folder ini">

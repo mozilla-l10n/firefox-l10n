@@ -1,0 +1,12 @@
+<!ENTITY prefWindow.titleWin "Opsyen">
+<!ENTITY prefWindow.titleGNOME "&brandShortName; Keutamaan">
+<!ENTITY prefWindow.styleWin "width: 42em; height: 40em;">
+<!ENTITY prefWindow.styleMac "width: 47em;">
+<!ENTITY prefWindow.styleGNOME "width: 42em; height: 38.5em;">
+<!ENTITY paneMain.title "Utama">
+<!ENTITY paneTabs.title "Tab">
+<!ENTITY paneContent.title "Kandungan">
+<!ENTITY paneFeeds.title "Suapan">
+<!ENTITY panePrivacy.title "Privasi">
+<!ENTITY paneSecurity.title "Sekuriti">
+<!ENTITY paneAdvanced.title "Lanjutan">

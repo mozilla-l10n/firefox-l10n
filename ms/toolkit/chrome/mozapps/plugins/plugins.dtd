@@ -1,0 +1,15 @@
+<!ENTITY pluginWizard.title "Servis Pencari Plugin">
+<!ENTITY pluginWizard.firstPage.title "Selamat Datang ke &pluginWizard.title;">
+<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; kini memeriksa plugin yang ada...">
+<!ENTITY pluginWizard.availablePluginsPage.title "Muaturun Plugin Yang Ada">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Plugin berikut telah wujud:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Tekan Seterusnya untuk mamasang plugin.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI "Terdapat plugin yang memerlukan maklumat tambahan daripada anda semasa pemasangan.">
+<!ENTITY pluginWizard.licensePage.title "Lesen Plugin">
+<!ENTITY pluginWizard.licensePage.accept.label "Saya setuju.">
+<!ENTITY pluginWizard.licensePage.deny.label "Saya tidak setuju (plugin tidak akan dipasang).">
+<!ENTITY pluginWizard.installPluginsPage.title "Memasang Plugin">
+<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName; memasang plugin...">
+<!ENTITY pluginWizard.finalPage.description.label "&brandShortName; selesai memasang plugin yang hilang:">
+<!ENTITY pluginWizard.finalPage.moreInfo.label "Cari lagi perihal Plugin atau manual cari plugin yang hilang.">
+<!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; perlu dimulakan semula untuk supaya plugin berfungsi.">

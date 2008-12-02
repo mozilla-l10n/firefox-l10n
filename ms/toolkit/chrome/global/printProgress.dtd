@@ -1,0 +1,8 @@
+<!ENTITY printWindow.title "Mencetak">
+<!ENTITY title "Tajuk:">
+<!ENTITY progress "Kemajuan:">
+<!ENTITY preparing "Menyediakan...">
+<!ENTITY printComplete "Mencetak Selesai.">
+<!ENTITY dialogCancel.label "Batal">
+<!ENTITY dialogClose.label "Tutup">
+<!ENTITY percentPrint "">

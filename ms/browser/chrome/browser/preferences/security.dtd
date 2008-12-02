@@ -1,0 +1,26 @@
+<!ENTITY warnAddonInstall.label "Ingatkan saya apabila laman cuba untuk memasang penambahan">
+<!ENTITY warnAddonInstall.accesskey "a">
+<!ENTITY tellMaybeForgery.label "Beritahu saya jika laman yang saya lawati dicurigai palsu">
+<!ENTITY tellMaybeForgery.accesskey "T">
+<!ENTITY useDownloadedList.label "Periksa menggunakan senarai muaturun laman dicurigai">
+<!ENTITY useDownloadedList.accesskey "t">
+<!ENTITY askThirdParty.label "Periksa dengan bertanya">
+<!ENTITY askThirdParty.accesskey "P">
+<!ENTITY askThirdPartyAfter.label "setiap laman yang saya lawati">
+<!ENTITY addonExceptions.label "Pengecualian...">
+<!ENTITY addonExceptions.accesskey "P">
+<!ENTITY passwords.label "Katalaluan">
+<!ENTITY rememberPasswords.label "Ingat katalaluan untuk laman">
+<!ENTITY rememberPasswords.accesskey "I">
+<!ENTITY passwordExceptions.label "Pengecualian...">
+<!ENTITY passwordExceptions.accesskey "g">
+<!ENTITY useMasterPassword.label "Guna katalaluan induk">
+<!ENTITY useMasterPassword.accesskey "U">
+<!ENTITY changeMasterPassword.label "Tukar Katalaluan Induk...">
+<!ENTITY changeMasterPassword.accesskey "I">
+<!ENTITY showPasswords.label "Tunjuk Katalaluan...">
+<!ENTITY showPasswords.accesskey "K">
+<!ENTITY warnings.label "Mesej Amaran">
+<!ENTITY chooseWarnings.label "Pilih mesej amaran mana yang anda ingin lihat ketika melayari web">
+<!ENTITY warningSettings.label "Tetapan...">
+<!ENTITY warningSettings.accesskey "T">

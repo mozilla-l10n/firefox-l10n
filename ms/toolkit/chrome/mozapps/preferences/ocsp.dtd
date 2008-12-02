@@ -1,0 +1,10 @@
+<!ENTITY window.width "38em">
+<!ENTITY ocspDialog.title "Pembuktian">
+<!ENTITY validation.ocsp.description "&brandShortName; boleh menggunakan Protokol Sijil Atas Talian (OCSP) untuk mengesahkan sijil. Tetapkan &brandShortName; untuk menggunakan OCSP seperti berikut:">
+<!ENTITY disableOCSP.label "Jangan gunakan OCSP untuk pengesahan sijil">
+<!ENTITY certOCSP.label "Guna OCSP untuk pengesahan sijil yang hanya menentukan URL servis OCSP">
+<!ENTITY proxyOCSP.label "Guna OCSP untuk mengesahkan semua sijil menggunakan URL dan penanda ini:">
+<!ENTITY serviceURL.label "URL Servis:">
+<!ENTITY serviceURL.accesskey "S">
+<!ENTITY signingCA.label "Penanda Balasan:">
+<!ENTITY signingCA.accesskey "R">

@@ -1,0 +1,97 @@
+<!ENTITY addons.title "Penambahan">
+<!ENTITY em.width "520">
+<!ENTITY em.height "380">
+<!ENTITY cmd.info.commandKey "i">
+<!ENTITY cmd.options.commandKey ",">
+<!ENTITY cmd.close.commandKey "w">
+<!ENTITY extensions.label "Sambungan">
+<!ENTITY themes.label "Tema">
+<!ENTITY locales.label "Bahasa">
+<!ENTITY plugins.label "Plugin">
+<!ENTITY update.label "Kemaskini">
+<!ENTITY install.label "Pemasangan">
+<!ENTITY cmd.checkUpdatesAll.label "Mencari Kemaskinian">
+<!ENTITY cmd.checkUpdatesAll.accesskey "M">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Mencari Kemaskinian untuk Penambahan anda">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Mencari Kemaskinian untuk Tema anda">
+<!ENTITY cmd.installLocalFile.label "Pasang...">
+<!ENTITY cmd.installFile.accesskey "I">
+<!ENTITY cmd.installFileAddon.tooltip "Pasang Penambahan">
+<!ENTITY cmd.installFileTheme.tooltip "Pasang Tema">
+<!ENTITY cmd.installUpdatesAll.label "Pasang Kemaskinian">
+<!ENTITY cmd.installUpdatesAll.accesskey "I">
+<!ENTITY cmd.installUpdatesAll.tooltip "Pasang kemaskinian dipilih">
+<!ENTITY cmd.restartApp.label "Mulakan semula &brandShortName;">
+<!ENTITY cmd.restartApp.accesskey "R">
+<!ENTITY cmd.restartApp.tooltip "Mulakan semula &brandShortName; untuk menamatkan pemasangan">
+<!ENTITY cmd.skip.label "Langkau">
+<!ENTITY cmd.skip.accesskey "S">
+<!ENTITY cmd.skip.tooltip "Langkau kemaskinian ini">
+<!ENTITY cmd.continue.label "Sambung">
+<!ENTITY cmd.continue.accesskey "C">
+<!ENTITY cmd.continue.tooltip "Teruskan memuat &brandShortName;">
+<!ENTITY cmd.enableAll.label "Bolehkan Semua">
+<!ENTITY cmd.enableAll.accesskey "a">
+<!ENTITY cmd.enableAll.tooltip "Bolehkan semua Penambahan dipapar">
+<!ENTITY cmd.disableAll.label "Lumpuhkan Semua">
+<!ENTITY cmd.disableAll.accesskey "s">
+<!ENTITY cmd.disableAll.tooltip "Lumpuhkan semua Penambahan dipapar">
+<!ENTITY cmd.useTheme.label "Guna Tema">
+<!ENTITY cmd.useTheme.accesskey "T">
+<!ENTITY cmd.useTheme.tooltip "Tukar Tema &brandShortName;">
+<!ENTITY cmd.options.label "Opsyen">
+<!ENTITY cmd.options.accesskey "O">
+<!ENTITY cmd.options.tooltip "Tetapkan Opsyen untuk Sambungan dipilih">
+<!ENTITY cmd.optionsUnix.label "Keutamaan">
+<!ENTITY cmd.optionsUnix.accesskey "r">
+<!ENTITY cmd.optionsUnix.tooltip "Edit Keutamaan Sambungan dipilih">
+<!ENTITY cmd.enable.label "Bolehkan">
+<!ENTITY cmd.enable.accesskey "E">
+<!ENTITY cmd.enable.tooltip "Bolehkan Penambahan ini apabila &brandShortName; dimulakan semula">
+<!ENTITY cmd.disable.label "Lumpuhkan">
+<!ENTITY cmd.disable.accesskey "L">
+<!ENTITY cmd.disable.tooltip "Lumpuhkan Penambahan ini apabila &brandShortName; dimulakan semula">
+<!ENTITY cmd.uninstall.label "Nyahpasang">
+<!ENTITY cmd.uninstall2.accesskey "N">
+<!ENTITY cmd.uninstall2.tooltip "Nyahpasang Penambahan ini apabila &brandShortName; dimulakan semula">
+<!ENTITY cmd.cancelUninstall.label "Batal Nyahpasang">
+<!ENTITY cmd.cancelUninstall.accesskey "B">
+<!ENTITY cmd.cancelUninstall.tooltip "Batal nyahpasang Penambahan ini">
+<!ENTITY cmd.installUpdate.label "Pasang Kemaskinian">
+<!ENTITY cmd.installUpdate.accesskey "I">
+<!ENTITY cmd.installUpdate.tooltip "Pasang kemaskinian untuk Penambahan ini">
+<!ENTITY cancel.label "Batal">
+<!ENTITY cancel.accesskey "C">
+<!ENTITY cmd.homepage.label "Lawati Laman Utama">
+<!ENTITY cmd.homepage.accesskey "H">
+<!ENTITY cmd.about2.label "Perihal Penambahan ini">
+<!ENTITY cmd.about.accesskey "A">
+<!ENTITY cmd.checkUpdate.label "Cari Kemaskinian">
+<!ENTITY cmd.checkUpdate.accesskey "F">
+<!ENTITY cmd.includeUpdate.label "Termasuk Kemaskinian">
+<!ENTITY cmd.includeUpdate.accesskey "n">
+<!ENTITY includeUpdate.label "Termasuk kemaskinian ini">
+<!ENTITY includeUpdate.accesskey "n">
+<!ENTITY includeUpdate.tooltip "Termasuk Penambahan ini apabila pemasangan kemaskinian">
+<!ENTITY needsDependencies.label "Perlukan item tambahan.">
+<!ENTITY blocklisted.label "Lumpuhkan untuk perlindungan anda.">
+<!ENTITY toBeDisabled.label "Penambahan ini akan dilumpuhkan apabila &brandShortName; dimulakan semula.">
+<!ENTITY toBeEnabled.label "Penambahan ini akan dibolehkan apabila &brandShortName; dimulakan semula.">
+<!ENTITY toBeInstalled.label "Penambahan ini akan dipasang apabila &brandShortName; dimulakan semula.">
+<!ENTITY toBeUninstalled.label "Penambahan ini akan dinyahpasang apabila &brandShortName; dimulakan semula.">
+<!ENTITY toBeUpgraded.label "Penambahan ini akan dinaiktaraf apabila &brandShortName; dimulakan semula.">
+<!ENTITY getExtensions.label "Dapatkan Sambungan">
+<!ENTITY getExtensions.tooltip "Dapatkan Sambungan daripada addons.mozilla.org">
+<!ENTITY getThemes.label "Dapatkan Tema">
+<!ENTITY getThemes.tooltip "Dapatkan Tema daripada addons.mozilla.org">
+<!ENTITY previewNoThemeSelected.label "Tiada Tema Dipilih">
+<!ENTITY previewNoPreviewImage.label "Tema ini tidak mempunyai Imej Pralihat">
+<!ENTITY moreInfo.label "Maklumat Lanjut">
+<!ENTITY closeMessage.tooltip "Tutup mesej ini">
+<!ENTITY updateSuccess.label "Kemaskini selesai dengan jayanya.">
+<!ENTITY installSuccess.label "Pemasangan selesai dengan jayaya.">
+<!ENTITY installSuccessRestart.label "Mulakan semula untuk selesaikan pemasangan.">
+<!ENTITY installWaiting.label "Menunggu...">
+<!ENTITY installIncompatibleUpdate.label "Memeriksa keserasian...">
+<!ENTITY installFinishing.label "Memasang...">
+<!ENTITY installFailure.label "Pemasangan gagal.">

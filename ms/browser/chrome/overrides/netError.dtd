@@ -1,0 +1,99 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+<!ENTITY loadError.label "Masalah memuatkan laman">
+<!ENTITY retry.label "Cuba Lagi">
+<!ENTITY connectionFailure.title "Tidak dapat menyambung ">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY deniedPortAccess.title "Alamat ini dihadkan.">
+<!ENTITY deniedPortAccess.longDesc "">
+<!ENTITY dnsNotFound.title "Pelayan tidak ditemui">
+<!ENTITY dnsNotFound.longDesc "
+<ul>
+  <li>Periksa alamat kerana kesilapan menaip seperti
+    <strong>ww</strong>.example.com sebaliknya
+    <strong>www</strong>.example.com</li>
+  <li>Jika anda gagal memuatkan sebarang laman, periksa rangkaian komputer anda</li>
+  <li>Jika komputer atau rangkaian anda dilindungi oleh firewall atau proksi, 
+    pastikan yang &brandShortName; dibenarkan untuk mencapai Web.</li>
+</ul>
+">
+<!ENTITY fileNotFound.title "Fail tidak ditemui">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>Periksa nama fail untuk huruf besar atau ralat menaip lain.</li>
+  <li>Periksa juga jika fail telah dipindahkan, dinamakan atau dipadam.</li>
+</ul>
+">
+<!ENTITY generic.title "Oops.">
+<!ENTITY generic.longDesc "
+<p>&brandShortName; tidak dapat memuatkan laman ini kerana sebab tertentu.</p>
+">
+<!ENTITY malformedURI.title "Alamat tidak sah">
+<!ENTITY malformedURI.longDesc "
+<ul>
+  <li>Alamat Web biasanya ditulis seperti
+    <strong>http://www.example.com/</strong></li>
+  <li>Pstikan yang anda menggunakan slash (cth.
+    <strong>/</strong>).</li>
+</ul>
+">
+<!ENTITY netInterrupt.title "Sambungan diganggu">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netOffline.title "Mod luat talian">
+<!ENTITY netOffline.longDesc "
+<ul>
+  <li>Singkir tanda &quot;Kerja Luar talian&quot; dalam menu Fail, kemudian cuba lagi.</li>
+</ul>
+">
+<!ENTITY netReset.title "Sambungan diulang tetap">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.title "Sambungan telah tamat tempoh">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY protocolNotFound.title "Alamat tidak difahami">
+<!ENTITY protocolNotFound.longDesc "
+<ul>
+  <li>Anda mungkin perlu mamasang perisian lain untuk membuka alamat ini.</li>
+</ul>
+">
+<!ENTITY proxyConnectFailure.title "Pelayan proksi menilak sambungan">
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>Periksa tetapan proksi untuk memastikan yang ianya telah betul.</li>
+  <li>Hubungi pentadbir rangkaian anda unutuk pastikan yang proksi
+    berfungsi.</li>
+</ul>
+">
+<!ENTITY proxyResolveFailure.title "Tidak dapat menemui pelayan proksi">
+<!ENTITY proxyResolveFailure.longDesc "
+<ul>
+  <li>Periksa tetapan proksi untuk pastikan yang sambungannya betul.</li>
+  <li>Pastikan komputer anda mempunyai sambungan rangkaian yang berfungsi.</li>
+  <li>Jika komputer atau rangkaian anda dilindungi firewall atau proksi,
+    pastikan yang &brandShortName; dibenarkan mencapai Web.</li>
+</ul>
+">
+<!ENTITY redirectLoop.title "Laman tidak diarahkan dengan betul">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>Masalah ini kadagkala disebabkan oleh melumpuhkan atau penolakan dari 
+    menerima cookie.</li>
+</ul>
+">
+<!ENTITY unknownSocketType.title "Tindak balas tidak dijangka daripada pelayan">
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>Periksa untuk pastikan yang sistem anda mempunyai Pengurus
+    Sekuriti Peribadi yang terpasang.</li>
+  <li>Ini mungkin disebabkan konfigurasi bukan-piawai pada pelayan.</li>
+</ul>
+">
+<!ENTITY sharedLongDesc "
+<ul>
+  <li>tidak wujud buat sementara waktu atau terlalu sibuk. Cuba beberapa ketika
+    lagi.</li>
+  <li>Jika anda gagal memuatkan sebarang laman, periksa sambungan rangkaian 
+    komputer anda.</li>
+  <li>Jika komputer atau rangkaian anda dilindungi firewall atau proksi, pastikan
+    yang &brandShortName; dibenarkan untuk mencapai Web.</li>
+</ul>
+">

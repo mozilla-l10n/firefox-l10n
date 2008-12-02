@@ -1,0 +1,9 @@
+<!ENTITY aboutDialog.title "Perihal &brandFullName;">
+<!ENTITY copyright "Kredit">
+<!ENTITY aboutLink "&lt; Perihal &brandFullName;">
+<!ENTITY aboutVersion "versi">
+<!ENTITY copyrightText "©1998-2005 Contributors. All Rights Reserved. Firefox and the 
+                                 Firefox logos are trademarks of the Mozilla Foundation.  All rights 
+                                 reserved. Some trademark rights used under license from The 
+                                 Charlton Company.">
+<!ENTITY cmdClose.macKey "W">

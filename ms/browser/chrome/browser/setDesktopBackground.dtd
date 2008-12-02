@@ -1,0 +1,9 @@
+<!ENTITY position.label "Posisi:">
+<!ENTITY tile.label "Jubin">
+<!ENTITY center.label "Tengah">
+<!ENTITY stretch.label "Rentang">
+<!ENTITY preview.label "Prebiu">
+<!ENTITY color.label "Warna:">
+<!ENTITY setDesktopBackground.title "Tetapkan Latar Desktop">
+<!ENTITY openDesktopPrefs.label "Buka Keutamaan Desktop">
+<!ENTITY closeWindow.key "w">

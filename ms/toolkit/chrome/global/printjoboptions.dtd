@@ -1,0 +1,17 @@
+<!ENTITY printJobOptions.title "Ciri Pencetak">
+<!ENTITY paperInput.label "Saiz kertas:">
+<!ENTITY plexInput.label "Mod pleks:">
+<!ENTITY resolutionInput.label "Resolusi/Kualiti:">
+<!ENTITY cmdInput.label "Perintah Cetak:">
+<!ENTITY jobTitleInput.label "Pekerjaan:">
+<!ENTITY colorGroup.label "Warna:">
+<!ENTITY grayRadio.label "Skal Kelabu">
+<!ENTITY colorRadio.label "Warna">
+<!ENTITY colorspaceInput.label "Ruang warna:">
+<!ENTITY fontsGroup.label "Font:">
+<!ENTITY downloadFonts.label "Muaturun font untuk pencetak?">
+<!ENTITY edgeMarginInput.label "Ruang daripada pinggir kertas ke Margin">
+<!ENTITY topInput.label "Atas:">
+<!ENTITY bottomInput.label "Bawah:">
+<!ENTITY leftInput.label "Kiri:">
+<!ENTITY rightInput.label "Kanan:">

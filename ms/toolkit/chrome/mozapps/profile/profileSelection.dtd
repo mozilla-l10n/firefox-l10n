@@ -1,0 +1,17 @@
+<!--null-->
+<!ENTITY windowtitle.label "&brandShortName; - Pilih Profil Pengguna">
+<!ENTITY profilename.label "Nama Profil:">
+<!ENTITY start.label "Mulakan &brandShortName;">
+<!ENTITY exit.label "Keluar">
+<!ENTITY availprofiles.label "Profil Yang Ada">
+<!ENTITY newButton.label "Mencipta Profil...">
+<!ENTITY newButton.accesskey "C">
+<!ENTITY renameButton.label "Menamakan Profil...">
+<!ENTITY renameButton.accesskey "R">
+<!ENTITY deleteButton.label "Memadam Profil...">
+<!ENTITY deleteButton.accesskey "D">
+<!ENTITY pmDescription.label "&brandShortName; menyimpan maklumat perihal tetapan anda, keutamaan, dan item pengguna lain dalam profil pengguna anda.">
+<!ENTITY offlineState.label "Bekerja Luar Talian">
+<!ENTITY offlineState.accesskey "o">
+<!ENTITY autoSelect.label "Jangan tanya pada permulaan">
+<!ENTITY autoSelect.accesskey "J">

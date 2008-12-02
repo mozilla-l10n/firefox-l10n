@@ -1,0 +1,12 @@
+<!ENTITY dialog.title "Peyesuaian Bar alat">
+<!ENTITY dialog.style "width: 635px; height: 400px;">
+<!ENTITY instructions.description "Anda boleh tambah atau singkir item dengan heret ke atau daripada bar alat.">
+<!ENTITY show.label "Tunjuk:">
+<!ENTITY iconsAndText.label "Ikon dan Teks">
+<!ENTITY icons.label "Ikon">
+<!ENTITY text.label "Teks">
+<!ENTITY useSmallIcons.label "Guna Ikon Kecil">
+<!ENTITY restoreDefaultSet.label "Kembalikan Tetapan Default">
+<!ENTITY addNewToolbar.label "Tambah Bar alat Baru">
+<!ENTITY saveChanges.label "Selesai">
+<!ENTITY undoChanges.label "Batalkan Perubahan">
