@@ -3,9 +3,7 @@
 <!ENTITY name.accesskey "n">
 <!ENTITY description.label "צור כתת־תיקייה של:">
 <!ENTITY description.accesskey "C">
-<!-- ### ENTITY searchCriteriaText.label "שנה את קריטריון החיפוש שבשימוש חיפוש שמור זה:" -->
-<!-- ### ENTITY searchCriteriaButton.label "קריטריון חיפוש..." -->
-<!-- ### ENTITY searchCriteriaButton.accesskey "S" -->
+
 <!ENTITY searchTermCaption.label "הגדר את קריטריון החיפוש שבשימוש עבור תיקיית חיפוש זו:">
 <!ENTITY folderSelectionCaption.label "בחר את התיקיות לחיפוש:">
 <!ENTITY chooseFoldersButton.label "בחר...">

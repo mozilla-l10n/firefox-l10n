@@ -3,8 +3,7 @@
 <!ENTITY alwaysAsk.accesskey "A">
 <!ENTITY neverAsk.label "שמור את כל הנספחים לתיקייה זו:">
 <!ENTITY neverAsk.accesskey "S">
-<!-- ###ENTITY desktop.label "שולחן עבודה" -->
-<!-- ###ENTITY downloads.label "My Downloads" -->
+
 <!ENTITY chooseFolderWin.label "עיון...">
 <!ENTITY chooseFolderWin.accesskey "B">
 <!ENTITY chooseFolderMac.label "בחר...">
@@ -13,9 +12,4 @@
 <!ENTITY configureActions.label "הצג וערוך פעולות...">
 <!ENTITY configureActions.accesskey "V">
 <!ENTITY fileTypesDescription.label "&brandShortName; יכול לשמור או לפתוח נספחים מסוגים מסוימים באופן אוטומטי.">
-<!-- ###ENTITY fileTypeColName.label "סוג קובץ" -->
-<!-- ###ENTITY fileHandlerColName.label "יישום"-->
-<!-- ###ENTITY editFileHandler.label "שנה פעולה..." -->
-<!-- ###ENTITY editFileHandler.accesskey "a" -->
-<!-- ###ENTITY removeFileHandler.label "הסר" -->
-<!-- ###ENTITY removeFileHandler.accesskey "r" -->
+

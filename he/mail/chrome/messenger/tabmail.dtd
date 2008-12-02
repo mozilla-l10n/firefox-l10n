@@ -1,12 +1,4 @@
-<!-- ###ENTITY  untitledTab              "(ללא שם)" -->
-<!-- ###ENTITY  newTab.label             "לשונית חדשה" -->
-<!-- ###ENTITY  newTab.accesskey         "ח" -->
+
 <!ENTITY  closeTab.label           "סגור לשונית">
-<!-- ###ENTITY  closeTab.accesskey       "ס" -->
-<!-- ###ENTITY  closeOtherTabs.accesskey "א" -->
-<!-- ###ENTITY  closeOtherTabs.label     "סגור לשוניות אחרות" -->
-<!-- ###ENTITY  reloadAllTabs.label      "טען מחדש את כל הלשוניות" -->
-<!-- ###ENTITY  reloadAllTabs.accesskey  "כ" -->
-<!-- ###ENTITY  reloadTab.label          "טען לשונית מחדש" -->
-<!-- ###ENTITY  reloadTab.accesskey      "ט" -->
+
 <!ENTITY  listAllTabs.label        "רשימת כל הלשוניות">

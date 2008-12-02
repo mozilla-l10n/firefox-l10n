@@ -1,21 +1,16 @@
-<!-- ### ENTITY itemGeneral.label "כללי" -->
+
 <!ENTITY itemJunk.label "זבל">
 <!ENTITY itemPhishing.label "הונאות דוא״ל">
 <!ENTITY itemPasswords.label "סיסמאות">
 <!ENTITY itemAntiVirus.label "אנטי-וירוס">
-<!-- ### ENTITY disableImageInMailNews.label "חסום טעינת תמונות מרוחקות בהודעות דואר" -->
-<!-- ### ENTITY disableImageInMailNews.accesskey "ט" -->
-<!-- ### ENTITY allowRemoteImagesForFriends.label "אפשר תמונות מרוחקות אם השולח נמצא בתוך:" -->
-<!-- ### ENTITY allowRemoteImagesForFriends.accesskey "א" -->
-<!-- ### ENTITY enbJsCheckMailNews.label "חסום JavaScript בהודעות דואר" -->
-<!-- ### ENTITY enbJsCheckMailNews.accesskey "ח" -->
+
 <!ENTITY junkMail.intro "קבע את הגדרות ברירת המחדל שלך לדואר זבל. הגדרות דואר זבל יחודיות לכל חשבון ניתנות להגדרה בהגדרות החשבון.">
 <!ENTITY manualMark.label "כאשר אני מסמן הודעות כזבל:">
 <!ENTITY manualMark.accesskey "ז">
 <!ENTITY manualMarkModeMove.label "העבר לתיקיית &quot;דואר זבל&quot; של החשבון">
 <!ENTITY manualMarkModeMove.accesskey "ע">
 <!ENTITY markAsReadOnSpam.label "סמן הודעות שזוהו כזבל כהודעות שנקראו">
-<!-- ### ENTITY markAsReadOnSpam.acesskey "ס" -->
+
 <!ENTITY markAsReadOnSpam.accesskey "נ">
 <!ENTITY manualMarkModeDelete.label "מחק אותן">
 <!ENTITY manualMarkModeDelete.accesskey "מ">
@@ -46,10 +41,4 @@
 <!ENTITY antiVirus.intro "&brandShortName; יכול לגרום לתוכנות אנטי-וירוס לנתח בקלות הודעות דואר נכנס עבור וירוסים לפני שהן מאוכסנות באופן מקומי.">
 <!ENTITY antiVirus.label "אפשר ללקוחות אנטי וירוס לבודד הודעות יחידות מתוך ההודעות הנכנסות">
 <!ENTITY antiVirus.accesskey "ב">
-<!-- ###ENTITY antiVirusCaption.label "אנטי-וירוס"-->
-<!-- ###ENTITY paswords.label "סיסמאות"-->
-<!-- ###ENTITY emailScams.label "הונאות דוא״ל"-->
-<!-- ###ENTITY junkMail.label "דואר זבל"-->
-<!-- ###ENTITY itemIntrusions.label "פריצות"-->
-<!-- ###ENTITY itemIntrusionsAndPasswords.label "פריצות וסיסמאות"-->
-<!-- ###ENTITY itemJunkMail.label "דואר זבל"-->
+
