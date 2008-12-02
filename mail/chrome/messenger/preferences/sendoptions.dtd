@@ -9,7 +9,7 @@
 <!ENTITY sendHTML.accesskey "s">
 <!ENTITY sendBoth.label "שלח את ההודעה גם בטקסט פשוט וגם בתבנית HTML">
 <!ENTITY sendBoth.accesskey "e">
-<!-- ### ENTITY receiveHTML.label 'אם ידוע לך שנמען מסויים יכול לקבל דואר HTML, בטל סימון "שלח דוא״ל כטקסט פשוט (ללא HTML)" בכרטיסיית פנקס הכתובות של הנמען.' -->
+
 <!ENTITY override.label "שים לב: השתמש בפנקס הכתובות כדי להגדיר סגנון טקסט מועדף לנמענים.">
 <!ENTITY domaindesc.label "כאשר אתה שולח הודעה לכתובת עם אחד משמות המתחם הרשומים מטה, &brandShortName; תשלח את ההודעה בתבנית הנכונה אוטומטית.">
 <!ENTITY HTMLTab.label "מתחמי HTML">
@@ -17,21 +17,17 @@
 <!ENTITY PlainTextTab.label "מתחמי טקסט פשוט">
 <!ENTITY PlainTextTab.accesskey "p">
 <!ENTITY AddHtmlDomain.label          "הוסף…">
-<!-- ### ENTITY AddButton.label "הוסף..." -->
+
 <!ENTITY AddHtmlDomain.accesskey "ה">
 <!ENTITY AddPlainText.label           "הוסף…">
 <!ENTITY AddPlainText.accesskey "ס">
 <!ENTITY DeleteHtmlDomain.label       "מחק">
-<!-- ### ENTITY DeleteButton.label "מחק" -->
+
 <!ENTITY DeleteHtmlDomain.accesskey "מ">
 <!ENTITY DeletePlainText.label        "מחק">
 <!ENTITY DeletePlainText.accesskey "ח">
 <!ENTITY add.htmltitle "הוסף שם מתחם HTML">
 <!ENTITY add.htmldomain "שם מתחם HTML:">
-<!-- ### ENTITY add.htmldomain.accesskey "d" -->
+
 <!ENTITY add.plaintexttitle "הוסף שם מתחם טקסט פשוט">
 <!ENTITY add.plaintextdomain "שם מתחם טקסט פשוט:">
-<!-- ### ENTITY add.plaintext.accesskey "d" -->
-<!-- ### ENTITY domainnameError.title "שגיאת שם מתחם" -->
-<!-- ### ENTITY duplicationError.label "שם המתחם @string@ כבר קיים ברשימה זו." -->
-<!-- ###ENTITY dualEntryError.label "שם מתחם אינו יכול להופיע גם ברשימת ה־HTML וגם ברשימת הטקסט הפשוט. שם המתחם @string@ כבר קיים." -->

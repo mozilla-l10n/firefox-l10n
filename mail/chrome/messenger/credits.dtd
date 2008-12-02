@@ -1,8 +1,7 @@
 <!ENTITY credit.title "&brandFullName; Credits">
 <!ENTITY brandMotto "Thunderbirds Are Go!">
 <!ENTITY credit.leads "מנהלי תכנון">
-<!-- ### ENTITY credit.core "יחידת פיתוח ליבה" -->
-<!-- ###ENTITY credit.gecko "Gecko Layout Engine" -->
+
 <!ENTITY credit.thanks "תודה מיוחדת ל">
 <!ENTITY credit.translation "<h3>תרגום</h3>
   <ul>
@@ -19,19 +18,11 @@
     <li>Prog</li>
     <li>אסף רומנו</li>
   </ul>">
-<!-- ### ENTITY credit.visuals "מתאם תרשים ויזואלי" -->
+
 <!ENTITY credit.theme "עיצוב ערכת נושא">
-<!-- ### ENTITY credit.brand "זהות סמל מסחרי" -->
-<!-- ### ENTITY credit.web "עיצוב אתר" -->
-<!-- ### ENTITY credit.update "Mozilla עדכון" -->
-<!-- ### ENTITY credit.qalead "מנהל בקרת איכות" -->
+
 <!ENTITY credit.qa "בקרת איכות">
 <!ENTITY credit.build "בניה ושחרור">
-<!-- ### ENTITY credit.infra "תמיכת תשתית" -->
-<!-- ### ENTITY credit.support "מקורות תמיכה" -->
-<!-- ### ENTITY credit.manage "ניהול פרויקט" -->
-<!-- ### ENTITY credit.marketleads "מנהלי שיווק" -->
-<!-- ### ENTITY credit.market "שיווק" -->
-<!-- ###ENTITY credit.creators "נוצר על ידי" -->
+
 <!ENTITY credit.memory "In Fond Memory Of">
 <!ENTITY credit.poweredByGecko "מופעל על־ידי Gecko&trade;">

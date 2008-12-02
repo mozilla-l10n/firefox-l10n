@@ -1,9 +1,6 @@
 <!ENTITY securitySettings.label "הגדרות אבטחה">
 <!ENTITY serverSettings.label "הגדרות שרת">
-<!-- ### ENTITY popServer.label "שרת דואר POP" -->
-<!-- ### ENTITY imapServer.label "שרת דואר IMAP" -->
-<!-- ### ENTITY newsServer.label "שרת קבוצות דיון (NNTP)" -->
-<!-- ### ENTITY webmail.label "חשבון WebMail" -->
+
 <!ENTITY serverType.label "סוג שרת:">
 <!ENTITY serverName.label "שם השרת:">
 <!ENTITY serverName.accesskey "S">
@@ -40,9 +37,9 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "הורד הודעות חדשות אוטומטית">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!-- ### ENTITY hostname.label "שם השרת המארח" -->
+
 <!ENTITY username.label "שם המשתמש שלך">
-<!-- ### ENTITY popServerTitle.label "מידע על שרת POP" -->
+
 <!ENTITY deleteMessagePrefix.label "כאשר אני מוחק הודעה:">
 <!ENTITY modelMoveToTrash.label "העבר לתיקיית אשפה">
 <!ENTITY modelMoveToTrash.accesskey "א">
@@ -61,11 +58,10 @@
 <!ENTITY maxMessagesEnd.label "הודעות">
 <!ENTITY alwaysAuthenticate.label "תמיד בקש אימות בעת התחברות לשרת זה">
 <!ENTITY alwaysAuthenticate.accesskey "w">
-<!-- ### ENTITY newsrcFilePath.label "קובץ newsrc:‏" -->
-<!-- ### ENTITY newsrcFilePath.accesskey "f" -->
+
 <!ENTITY newsrcFilePath.label "קובץ newsrc:">
 <!ENTITY localPath.label "ספרייה מקומית:">
-<!-- ### ENTITY localPath.accesskey "L" -->
+
 <!ENTITY abbreviate.label "הצג שמות קבוצות דיון בחלונית תיקיות הדואר בצורת:">
 <!ENTITY abbreviateOn.label "שמות מלאים (לדוגמה, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "שמות מקוצרים (לדוגמה, 'n.p.m.mail-news')">

@@ -5,13 +5,13 @@
 <!ENTITY neverEncrypt.label "לעולם לא (אל תשתמש בהצפנה)">
 <!ENTITY alwaysEncryptMessage.label "נדרשת (לא ניתן לשלוח הודעה אלא אם לכל הנמענים יש אישורים)">
 <!ENTITY encryptionCert.message "השתמש באישור זה להצפנת ופיענוח הודעות הנשלחות אליך:">
-<!-- ### ENTITY encryptionCert.notselected "לא נקבע אישור" -->
+
 <!ENTITY certificate.button "בחר...">
 <!ENTITY certificate_clear.button "מחק">
 <!ENTITY signingGroupTitle.label "חתימה דיגיטלית">
 <!ENTITY signMessage.label "חתום על הודעות חתימה דיגיטלית (בברירת מחדל)">
 <!ENTITY signingCert.message "השתמש באישור זה לחתימה דיגיטלית על הודעות שאתה שולח:">
-<!-- ### ENTITY signingCert.notselected "לא נקבע אישור" -->
+
 <!ENTITY certificates.label "אישורים">
 <!ENTITY managecerts.label "הצג אישורים">
 <!ENTITY managecerts.accesskey "V">

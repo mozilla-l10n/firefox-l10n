@@ -1,7 +1,6 @@
 <!ENTITY itemFormatting.label "עיצוב">
 <!ENTITY itemTags.label "תוויות">
-<!-- ###ENTITY itemFonts.label "גופנים" -->
-<!-- ###ENTITY textBegin.label "הופעת טקסט פשוט מצוטט" -->
+
 <!ENTITY style.label "סגנון:">
 <!ENTITY style.accesskey "ס">
 <!ENTITY regularStyle.label "רגיל">
@@ -18,12 +17,12 @@
 <!ENTITY displayWidth.label "הודעות טקסט פשוט">
 <!ENTITY plainText.label "השתמש בגופן הבא:">
 <!ENTITY displayText.label "בעת הצגת הודעות טקסט פשוט מצוטט:">
-<!-- ###ENTITY viewingPlainText.label "בעת הצגת הודעות טקסט פשוט:" -->
+
 <!ENTITY fixedWidth.label "גופן בעל רוחב קבוע">
 <!ENTITY fixedWidth.accesskey "ח">
 <!ENTITY variableWidth.label "גופן בעל רוחב משתנה">
 <!ENTITY variableWidth.accesskey "מ">
-<!-- ###ENTITY readingMessagesHeader.label "להודעות נכנסות" -->
+
 <!ENTITY colors.label "צבעים">
 <!ENTITY overrideColors.label "בהצגת הודעות, השתמש בצבעים הבאים:">
 <!ENTITY textColor.label "צבע טקסט:">

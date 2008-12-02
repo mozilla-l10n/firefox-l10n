@@ -4,15 +4,13 @@
 <!ENTITY searchSubfolders.accesskey "e">
 <!ENTITY resetButton.label "נקה">
 <!ENTITY resetButton.accesskey "C">
-<!-- ### ENTITY optionsButton.label "אפשרויות" -->
-<!-- ### ENTITY closeButton.label "סגור" -->
+
 <!ENTITY openButton.label "פתח">
 <!ENTITY openButton.accesskey "n">
 <!ENTITY deleteButton.label "מחק">
 <!ENTITY deleteButton.accesskey "D">
 <!ENTITY searchDialogTitle.label "חפש בהודעות">
-<!-- ### ENTITY conditionDesc.label "חפש הודעות המקיימות:" -->
-<!-- ### ENTITY conditions.label "קריטריון" -->
+
 <!ENTITY results.label "תוצאות">
 <!ENTITY fileHereMenu.label "תייק כאן">
 <!ENTITY fileHereMenu.accesskey "F">
@@ -31,7 +29,7 @@
 <!ENTITY composeButton.accesskey "W">
 <!ENTITY abSearchDialogTitle.label "חיפוש מתקדם בפנקס כתובות">
 <!ENTITY threadColumn.label "נושא דיון">
-<!-- ### ENTITY senderColumn.label "שולח" -->
+
 <!ENTITY recipientColumn.label "נמען">
 <!ENTITY subjectColumn.label "נושא">
 <!ENTITY dateColumn.label "תאריך">
@@ -41,7 +39,7 @@
 <!ENTITY statusColumn.label "מצב">
 <!ENTITY sizeColumn.label "גודל">
 <!ENTITY junkStatusColumn.label "מצב דואר זבל">
-<!-- ### ENTITY linesColumn.label "שורות" -->
+
 <!ENTITY unreadColumn.label "לא נקראו">
 <!ENTITY totalColumn.label "סה״כ">
 <!ENTITY readColumn.label "שנקראו">
@@ -50,7 +48,7 @@
 <!ENTITY idColumn.label "סדר קבלה">
 <!ENTITY columnChooser.tooltip "לחץ לבחירת עמודות לתצוגה">
 <!ENTITY threadColumn.tooltip "לחץ להצגת נושאי דיון">
-<!-- ### ENTITY senderColumn.tooltip "לחץ למיון לפי שולח" -->
+
 <!ENTITY recipientColumn.tooltip "לחץ למיון לפי נמען">
 <!ENTITY subjectColumn.tooltip "לחץ למיון לפי נושא">
 <!ENTITY dateColumn.tooltip "לחץ למיון לפי תאריך">

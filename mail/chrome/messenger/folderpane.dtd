@@ -3,5 +3,4 @@
 <!ENTITY unreadColumn.label "לא נקראו">
 <!ENTITY totalColumn.label "סה״כ">
 <!ENTITY folderSizeColumn.label "גודל">
-<!-- ###ENTITY accounts.label "חשבונות" -->
-<!-- ###ENTITY accounts.img "chrome://messenger/skin/local-mailhost.gif" -->
+

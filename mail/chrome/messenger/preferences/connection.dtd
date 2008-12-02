@@ -7,22 +7,16 @@
 <!ENTITY  systemTypeRadio.label         "השתמש בהגדרות השרת המתווך של המערכת">
 <!ENTITY  systemTypeRadio.accesskey     "מ">
 
-<!-- ### ENTITY directTypeRadio.label "קשר ישיר לאינטרנט" -->
-<!-- ### ENTITY directTypeRadio.accesskey "ל" -->
 <!ENTITY WPADTypeRadio.label "זהה אוטומטית הגדרות שרת מתווך עבור רשת זו">
 <!ENTITY WPADTypeRadio.accesskey "ז">
 <!ENTITY manualTypeRadio.label "הגדרות שרת מתווך ידניות:">
 <!ENTITY manualTypeRadio.accesskey "ה">
 <!ENTITY autoTypeRadio.label "URL לתצורה אוטומטית של שרת מתווך:">
 <!ENTITY autoTypeRadio.accesskey "ת">
-<!-- ### ENTITY configAutoconfigText.label "מיקום תצורה (URL):" -->
-<!-- ### ENTITY configAutoconfigText.accesskey "u" -->
+
 <!ENTITY reload.label "טען מחדש">
 <!ENTITY reload.accesskey "ט">
-<!-- ### ENTITY ftp.label "שרת מתווך FTP:" -->
-<!-- ### ENTITY ftp.accesskey "f" -->
-<!-- ### ENTITY gopher.label "שרת מתווך Gopher:" -->
-<!-- ### ENTITY gopher.accesskey "g" -->
+
 <!ENTITY http.label "שרת מתווך HTTP‏:">
 <!ENTITY http.accesskey "h">
 <!ENTITY ssl.label "שרת מתווך SSL:">
@@ -33,13 +27,12 @@
 <!ENTITY socks4.accesskey "k">
 <!ENTITY socks5.label "SOCKS v5">
 <!ENTITY socks5.accesskey "v">
-<!-- ### ENTITY port.label "שער:" -->
+
 <!ENTITY  HTTPport.label                "שער:">
 <!ENTITY HTTPport.accesskey "ש">
 <!ENTITY  SSLport.label                 "שער:">
 <!ENTITY SSLport.accesskey "ע">
-<!-- ### ENTITY FTPport.accesskey "r" -->
-<!-- ### ENTITY gopherPort.accesskey "" -->
+
 <!ENTITY  SOCKSport.label               "שער:">
 <!ENTITY SOCKSport.accesskey "ר">
 <!ENTITY noproxy.label "אין צורך בשרת מתווך עבור:">
