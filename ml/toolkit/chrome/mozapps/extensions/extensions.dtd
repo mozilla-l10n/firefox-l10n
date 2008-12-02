@@ -113,7 +113,7 @@ closeMessage.tooltip<!ENTITY addons.title "ആഡ്‌-ഓണുകള്‍">
 <!ENTITY previewNoPreviewImage.label "ഈ ഫീം സജ്ജമാക്കുന്നതിന് മുമ്പ് സ്ക്രീനില്‍ കാണുവാന്‍ സാധ്യമല്ല">
 <!ENTITY moreInfo.label "കൂടുതല്‍ വിവരങ്ങള്‍">
 
-<!-- ENTITY closeMessage.tooltip "ഈ സന്ദേശം അടയ്ക്കുക" -->
+<!ENTITY closeMessage.tooltip "ഈ സന്ദേശം അടയ്ക്കുക" >
 
 <!ENTITY updateSuccess.label "വിജയകരമായി പരിഷ്കാരം പൂറ്‍ത്തിയാക്കിയിരിക്കുന്നു.">
 
