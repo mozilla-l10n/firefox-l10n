@@ -69,6 +69,7 @@
 
 <!ENTITY sunbird.menu.numberofweeks.label "Líon na Seachtainí">
 <!ENTITY sunbird.menu.numberofweeks.accesskey "N">
+<!ENTITY sunbird.menu.numberofweeks.1 "Seachtain Amháin">
 <!ENTITY sunbird.menu.numberofweeks.2 "2 Sheachtain">
 <!ENTITY sunbird.menu.numberofweeks.3 "3 Seachtaine">
 <!ENTITY sunbird.menu.numberofweeks.4 "4 Seachtaine">

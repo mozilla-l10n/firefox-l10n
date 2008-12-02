@@ -6,7 +6,7 @@
 <!-- General Settings -->
 
 
-<!ENTITY enableGloda.label "Enable Message Indexer">
+<!ENTITY enableGloda.label "Cumasaigh an tInneacsóir Teachtaireachtaí">
 <!ENTITY enableGloda.accesskey "i">
 <!ENTITY showCondensedAddresses.label "Ná taispeáin ach an t-ainm taispeána do dhaoine i mo leabhar seoltaí">
 <!ENTITY showCondensedAddresses.accesskey "p">
