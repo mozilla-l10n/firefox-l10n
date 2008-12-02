@@ -1,6 +1,5 @@
 <!--null-->
-<!-- ### ENTITY chooseAddressBook.label "הוסף אל:" -->
-<!-- ### ENTITY chooseAddressBook.accesskey "A" -->
+
 <!ENTITY Contact.tab "איש קשר">
 <!ENTITY Name.box "שם">
 <!ENTITY NameField1.id "FirstName">
@@ -33,8 +32,6 @@
 <!ENTITY allowRemoteContent.accesskey "ת">
 <!ENTITY allowRemoteContent.tooltip     "בהודעות HTML ניתן לצרף תמונות ממקורות מרוחקים. פתיחה של הודעות אלו תפתח חיבור עם מקור מרוחק זה. דרך זו יכולה לאפשר לאחרים לדעת כי ההודעה נקראה. סימון תיבה זו תאפשר לתמונות חיצוניות המצורפות להודעות HTML להיטען בהודעות מאיש קשר זה.">
 
-
-<!-- ###ENTITY Phones.box "טלפונים" -->
 <!ENTITY WorkPhone.label "עבודה:">
 <!ENTITY WorkPhone.accesskey "W">
 <!ENTITY HomePhone.label "בית:">
@@ -45,8 +42,6 @@
 <!ENTITY PagerNumber.accesskey "P">
 <!ENTITY CellularNumber.label "נייד:">
 <!ENTITY CellularNumber.accesskey "M">
-<!-- ###ENTITY Address.tab "כתובת" -->
-<!-- ###ENTITY Home.box "בית" -->
 
 <!ENTITY Home.tab                       "פרטי">
 <!ENTITY Home.accesskey                 "פ">
@@ -57,7 +52,7 @@
 <!ENTITY HomeZipCode.label "מיקוד:">
 <!ENTITY HomeCountry.label "ארץ:">
 <!ENTITY HomeWebPage.label "אתר אינטרנט:">
-<!-- ###ENTITY Work.box "עבודה" -->
+
 <!ENTITY JobTitle.label "תפקיד:">
 <!ENTITY Department.label "מחלקה:">
 <!ENTITY Company.label "ארגון:">
@@ -78,8 +73,7 @@
 <!ENTITY Custom4.label "מותאם אישית 4:">
 <!ENTITY Custom4.accesskey "4">
 <!ENTITY Notes.label                    "הערות:">
-<!-- ###ENTITY Notes.box "הערות" -->
-<!-- ###ENTITY Address.accesskey              "כ"-->
+
 <!ENTITY Age.emptytext                  "גיל">
 <!ENTITY Birthday.accesskey             "ל">
 <!ENTITY Birthday.label                 "תאריך לידה:">

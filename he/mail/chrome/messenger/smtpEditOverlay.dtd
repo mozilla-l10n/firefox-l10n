@@ -15,12 +15,6 @@
 <!ENTITY isSecure.label "השתמש בקשר מאובטח:">
 <!ENTITY neverSecure.label "לא">
 <!ENTITY neverSecure.accesskey "ל">
-<!-- ### ENTITY sometimesSecure.label "TLS, אם זמין" -->
-<!-- ### ENTITY sometimesSecure.accesskey "a" -->
-<!-- ### ENTITY alwaysSecure.label "TLS" -->
-<!-- ### ENTITY alwaysSecure.accesskey "T" -->
-<!-- ### ENTITY alwaysSmtpS.label "SSL" -->
-<!-- ### ENTITY alwaysSmtpS.accesskey "L" -->
 <!ENTITY sometimesSTARTTLS.label "STARTTLS, במידה וזמין">
 <!ENTITY sometimesSTARTTLS.accesskey "ז">
 <!ENTITY alwaysSTARTTLS.label "STARTTLS">

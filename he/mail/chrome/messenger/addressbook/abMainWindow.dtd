@@ -29,11 +29,7 @@
 <!ENTITY printCardViewCmd.key "P">
 <!ENTITY printAddressBook.label "הדפס פנקס כתובות...">
 <!ENTITY printAddressBook.accesskey "A">
-<!--###ENTITY quitApplicationCmdWin.label "יציאה"-->
-<!--###ENTITY quitApplicationCmdWin.accesskey "x"-->
-<!--###ENTITY quitApplicationCmd.label "יציאה"-->
-<!--###ENTITY quitApplicationCmd.accesskey "Q"-->
-<!--###ENTITY quitApplicationCmd.key "Q"-->
+
 <!ENTITY editMenu.label "עריכה">
 <!ENTITY editMenu.accesskey "e">
 <!ENTITY undoCmd.label "בטל">
@@ -52,11 +48,11 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "p">
 <!ENTITY deleteCmd.label "מחק">
-<!-- ### ENTITY deleteCmd.key "D" -->
+
 <!ENTITY deleteCmd.accesskey "d">
 <!ENTITY deleteAbCmd.label "מחק פנקס כתובות">
 <!ENTITY deleteCardCmd.label "מחק כרטיס">
-<!-- ### ENTITY deleteCardsCmd.label "מחק כרטיסים נבחרים" -->
+
 <!ENTITY selectAllCmd.label "בחר הכל">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY searchAddressesCmd.key "f">
@@ -101,19 +97,11 @@
 <!ENTITY exportCmd.label "יצוא...">
 <!ENTITY exportCmd.accesskey "E">
 <!ENTITY preferencesCmd.label "אפשרויות...">
-<!-- ### ENTITY preferencesCmd.key "O" -->
+
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "העדפות">
 <!ENTITY preferencesCmdUnix.accesskey "n">
-<!-- ### ENTITY helpMenu.label "עזרה" -->
-<!-- ### ENTITY helpMenu.accesskey "H" -->
-<!-- ### ENTITY releaseCmd.label "הערות למהדורה" -->
-<!-- ### ENTITY releaseCmd.accesskey "R" -->
-<!-- ### ENTITY hintsAndTips.label "עזרה של &brandShortName;" -->
-<!-- ### ENTITY hintsAndTips.accesskey "h" -->
-<!-- ### ENTITY hintsAndTipsMac.commandkey "?" -->
-<!-- ### ENTITY aboutCmd.label "אודות &brandShortName;" -->
-<!-- ### ENTITY aboutCmd.accesskey "A" -->
+
 <!ENTITY newcardButton.label "כרטיס חדש">
 <!ENTITY newcardButton.accesskey "C">
 <!ENTITY newlistButton.label "רשימה חדשה">
@@ -171,16 +159,7 @@
 <!ENTITY sortDescending.accesskey "D">
 <!ENTITY _PhoneticName.label "שם פונטי">
 <!ENTITY _PhoneticName.accesskey "o">
-<!-- ### ENTITY composeEmail.label "חבר דוא״ל אל" -->
-<!-- ### ENTITY composeEmail.accesskey "C" -->
-<!-- ### ENTITY deleteAddrBookCard.label "מחק" -->
-<!-- ### ENTITY deleteAddrBookCard.accesskey "D" -->
-<!-- ### ENTITY newAddrBookCard.label "כרטיס חדש..." -->
-<!-- ### ENTITY newAddrBookCard.accesskey "N" -->
-<!-- ### ENTITY newAddrBookMailingList.label "רשימת דיוור חדשה..." -->
-<!-- ### ENTITY newAddrBookMailingList.accesskey "M" -->
-<!-- ### ENTITY addrBookCardProperties.label "מאפיינים" -->
-<!-- ### ENTITY addrBookCardProperties.accesskey "P" -->
+
 <!ENTITY contact.heading "איש קשר">
 <!ENTITY home.heading "בית">
 <!ENTITY other.heading "אחר">

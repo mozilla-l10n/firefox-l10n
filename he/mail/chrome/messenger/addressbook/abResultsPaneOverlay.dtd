@@ -66,13 +66,4 @@
 <!ENTITY sortAscending.accesskey "A">
 <!ENTITY sortDescending.label "יורד">
 <!ENTITY sortDescending.accesskey "D">
-<!-- ### ENTITY composeEmail.label "חבר דוא״ל אל" -->
-<!-- ### ENTITY composeEmail.accesskey "C" -->
-<!-- ### ENTITY deleteAddrBookCard.label "מחק" -->
-<!-- ### ENTITY deleteAddrBookCard.accesskey "D" -->
-<!-- ### ENTITY newAddrBookCard.label "כרטיס חדש..." -->
-<!-- ### ENTITY newAddrBookCard.accesskey "N" -->
-<!-- ### ENTITY newAddrBookMailingList.label "רשימת דיוור חדשה..." -->
-<!-- ### ENTITY newAddrBookMailingList.accesskey "M" -->
-<!-- ### ENTITY addrBookCardProperties.label "מאפיינים" -->
-<!-- ### ENTITY addrBookCardProperties.accesskey "P" -->
+

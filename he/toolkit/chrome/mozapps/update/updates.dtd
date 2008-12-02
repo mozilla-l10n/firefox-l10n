@@ -4,9 +4,7 @@
 <!ENTITY checking.title "בודק אם קיימים עדכונים">
 <!ENTITY  updateCheck.label               "מחפש גירסה חדשה יותר של &brandShortName;…">
 
-<!-- ### ENTITY checking.label "&brandShortName; בודק כעת אם קיימים עדכונים..." -->
-<!-- ### ENTITY cancel.label "ביטול" -->
-<!-- ### ENTITY cancel.accesskey "ב" -->
+
 
 <!ENTITY  noupdatesautoenabled.intro "אין עדכונים זמינים. &brandShortName; יבדוק מידי פעם אם ישנם עדכונים חדשים.">
 
@@ -19,12 +17,7 @@
 
 <!ENTITY  evangelism.desc                 "מומלץ כי תפעיל את עדכון זה עבור &brandShortName; בהקדם האפשרי.">
 
-<!-- ### ENTITY incompatible.warning "עדכון זה יגרום לחלק מההרחבות ו/או ערכות הנושא שלך 
-                                             להפסיק לעבוד עד שיעודכנו." -->
-<!-- ### ENTITY listIncompatible.label "הצג רשימה" -->
-<!-- ### ENTITY listIncompatible.accesskey "צ" -->
-<!-- ### ENTITY upgrade.evangelism "מומלץ ביותר שתשדרג את &brandShortName; 
-                                   בהקדם האפשרי." -->
+
 <!ENTITY license.instructions "אם אתה מסכים לתנאי הסכם זה, לחץ על אני מסכים
                           להלן כדי להמשיך בהתקנת עדכון זה.">
 <!ENTITY license.introText "תנאים לשימוש בתוכנה זו.">
@@ -47,10 +40,7 @@
 <!ENTITY  viewDetails.tooltip             "הצג פרטים עבור עדכון זה">
 <!ENTITY details.link "פרטים">
 
-<!-- ### ENTITY pause.label "השהה" -->
-<!-- ### ENTITY pause.accesskey "ה" -->
-<!-- ### ENTITY close.label "סגור" -->
-<!-- ### ENTITY close.accesskey "ס" -->
+
 <!ENTITY error.label "נמצאו שגיאות בבדיקה, הורדה או התקנה של
                  עדכון זה. &brandShortName; אינו יכול להתעדכן משום ש:">
 <!ENTITY errorManual.label "ביכולתך לעדכן את &brandShortName; ידנית על־ידי ביקור בקישור זה
@@ -58,12 +48,9 @@
 <!ENTITY errorpatching.title "עדכון נכשל">
 <!ENTITY errorpatching.intro "אין אפשרות ליישם את העדכון החלקי.
 &brandShortName; ינסה שוב על־ידי הורדת עדכון שלם.">
-<!-- ### ENTITY finished.title "העדכון הורד" -->
-<!-- ### ENTITY finished.text "העדכון הורד בהצלחה ואומת, ויותקן בהפעלה הבאה של &brandShortName;." -->
-<!-- ### ENTITY finishedBackground.title "העדכון מוכן להתקנה" -->
-<!-- ### ENTITY finishedBackground.text "&brandShortName; הוריד ואימת עדכון חשוב. לחץ על הקישור הבא לפרטים נוספים." -->
+
 <!ENTITY finishedBackground.name "עדכון:">
-<!-- ### ENTITY finishedBackground.more1 "לחץ אתחל את &brandShortName; כעת כדי להתקין את העדכונים." -->
+
 
 <!ENTITY installed.title "העדכון הותקן">
 <!ENTITY installed.intro "העדכון הותקן בהצלחה.">
@@ -73,14 +60,12 @@
 <!ENTITY update.status.label "מצב:">
 
 <!ENTITY  noupdatesfound.title            "לא נמצאו עדכונים">
-<!-- ### ENTITY  incompatibleChecking.label      "בודק אם עדכון זה עשוי לגרום לבעיות עם ההרחבות וערכות הנושא שלך..." -->
+
 <!ENTITY  license.titleText               "הסכם רישוי תוכנה">
 
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "העדכון יותקן בהפעלה הבאה של &brandShortName;. תוכל להפעיל מחדש את &brandShortName כעת, או להמשיך לעבוד ולהפעיל מחדש מאוחר יותר.">
 
-<!-- ### LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!-- ### ENTITY  finishedBackground.textNotNow   "לחץ על לא כעת כדי להמשיך לעבוד. &brandShortName; יתקין את העדכון בהפעלה הבאה." -->
 
 
 <!ENTITY  finishedPage.title              "עדכון מוכן להתקנה">

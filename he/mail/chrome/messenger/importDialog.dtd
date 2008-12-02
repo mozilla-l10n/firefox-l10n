@@ -57,9 +57,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importTitle.label "אשף יבוא הדואר של &brandShortName;">
 <!ENTITY importShortDesc.label    "יבא דואר, פנקסי כתובות, הגדרות ומסננים מתוכנות אחרות">
 
-<!-- ### ENTITY importDesc.label "יבוא דואר, פנקסי כתובות והגדרות מתוכניות אחרות" -->
-<!-- ### ENTITY importDescription.label "אשף זה ייבא הודעות דואר, כתובות מפנקסי כתובות ו/או העדפות מתוכניות דואר אחרות ותבניות פנקסי כתובות נפוצות לתוך דואר &brandShortName;." -->
-
 <!ENTITY importDescription1.label "אשף זה ייבא את כל הודעות הדואר, פריטים מפנקס הכתובות, העדפות ו/או מסננים מתוכנות דואר אחרות ומבני פנקסי כתובות מקובלים לתוך &brandShortName;.">
 
 <!ENTITY importDescription2.label "לאחר שהם ייובאו, תוכל לגשת אליהם מתוך הדואר ו/או פנקס הכתובות של &brandShortName;.">
