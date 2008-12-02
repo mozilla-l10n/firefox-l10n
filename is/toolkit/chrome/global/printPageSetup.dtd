@@ -4,21 +4,30 @@
 <!ENTITY basic.tab "Snið &amp; Stillingar">
 <!ENTITY formatGroup.label "Snið">
 <!ENTITY orientation.label "Stefna:">
-<!ENTITY portrait "Skammsnið">
-<!ENTITY landscape "Langsnið">
+<!ENTITY portrait.label "Skammsnið">
+<!ENTITY portrait.accesskey "S">
+<!ENTITY landscape.label "Langsnið">
+<!ENTITY landscape.accesskey "L">
 <!ENTITY scale.label "Skali:">
+<!ENTITY scale.accesskey "S">
 <!ENTITY scalePercent "&#037;">
 <!ENTITY shrinkToFit.label "Minnka þannig að passi á síðu">
+<!ENTITY shrinkToFit.accesskey "M">
 <!ENTITY optionsGroup.label "Valkostir">
 <!ENTITY printBG.label "Prenta bakgrunn (liti &amp; myndir)">
+<!ENTITY printBG.accesskey "B">
 <!ENTITY advanced.tab "Spássía &amp; Haus/Fótur">
 <!ENTITY marginGroup.label "Spássía (#1)">
 <!ENTITY marginUnits.inches "tommur">
 <!ENTITY marginUnits.metric "millimetrar">
 <!ENTITY marginTop.label "Efst:">
+<!ENTITY marginTop.accesskey "T">
 <!ENTITY marginBottom.label "Neðst:">
+<!ENTITY marginBottom.accesskey "N">
 <!ENTITY marginLeft.label "Vinstri:">
+<!ENTITY marginLeft.accesskey "V">
 <!ENTITY marginRight.label "Hægri:">
+<!ENTITY marginRight.accesskey "R">
 <!ENTITY headerFooter.label "Hausar &amp; Fætur">
 <!ENTITY hfLeft.label "Vinstri:">
 <!ENTITY hfCenter.label "Miðja:">

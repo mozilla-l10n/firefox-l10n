@@ -20,12 +20,12 @@
 <!ENTITY selectAllCmd.label "Velja allt">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "j">
-<!ENTITY findCmd.label "Finna">
-<!ENTITY findCmd.key "i">
-<!ENTITY findCmd.accesskey "F">
+<!ENTITY findCmd.label "Leita">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "L">
 <!ENTITY findAgainCmd.label "Leita aftur">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findAgainCmd.accesskey "t">
-<!ENTITY findPreviousCmd.label "Finna fyrra">
+<!ENTITY findPreviousCmd.label "Leita að fyrra">
 <!ENTITY findPreviousCmd.accesskey "r">

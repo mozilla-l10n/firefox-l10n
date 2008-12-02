@@ -62,6 +62,7 @@
 <!ENTITY sunbird.close.key "W">
 <!ENTITY sunbird.menu.numberofweeks.label "Fjöldi vikna">
 <!ENTITY sunbird.menu.numberofweeks.accesskey "N">
+<!ENTITY sunbird.menu.numberofweeks.1 "1 Vika">
 <!ENTITY sunbird.menu.numberofweeks.2 "2 Vikur">
 <!ENTITY sunbird.menu.numberofweeks.3 "3 Vikur">
 <!ENTITY sunbird.menu.numberofweeks.4 "4 Vikur">
