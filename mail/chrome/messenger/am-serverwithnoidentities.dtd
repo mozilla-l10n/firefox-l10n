@@ -1,12 +1,12 @@
 <!ENTITY accountTitle.label "הגדרות חשבון">
 <!ENTITY accountSettingsDesc.label "החשבון הבא מיוחד. לא מקושרת איתו אף זהות.">
 <!ENTITY accountName.label "שם החשבון:">
-<!ENTITY accountName.accesskey "N">
+<!ENTITY accountName.accesskey "ש">
 <!ENTITY messageStorage.label "אחסון הודעה">
 <!ENTITY emptyTrashOnExit.label "רוקן אשפה ביציאה">
-<!ENTITY emptyTrashOnExit.accesskey "x">
+<!ENTITY emptyTrashOnExit.accesskey "י">
 <!ENTITY localPath.label "ספרייה מקומית:">
-<!-- ### ENTITY localPath.accesskey "L" -->
+
 <!ENTITY localFolderPicker.label "בחר ספרייה מקומית">
 <!ENTITY browseFolder.label "עיין...">
-<!ENTITY browseFolder.accesskey "B">
+<!ENTITY browseFolder.accesskey "ע">

@@ -4,7 +4,7 @@
 <!ENTITY window.unixWidth "41em">
 <!ENTITY language.label "גופנים עבור:">
 <!ENTITY language.accesskey "ע">
-<!-- ###ENTITY typefaces.label "גופן" -->
+
 <!ENTITY sizes.label "גודל (פיקסלים)">
 <!ENTITY proportionalSize.accesskey "e">
 <!ENTITY monospaceSize.accesskey "x">
@@ -16,7 +16,7 @@
 <!ENTITY sans-serif.accesskey "ר">
 <!ENTITY monospace.label "רוחב קבוע:">
 <!ENTITY monospace.accesskey "ב">
-<!-- ###ENTITY fontsize.units "פיקסלים" -->
+
 <!ENTITY font.langGroup.latin1 "מערבי">
 <!ENTITY font.langGroup.latin2 "מרכז אירופי">
 <!ENTITY font.langGroup.japanese "יפנית">
@@ -49,7 +49,7 @@
 <!ENTITY minSize.none "ללא">
 <!ENTITY useDefaultFontSerif.label "סריף">
 <!ENTITY useDefaultFontSansSerif.label "סאן־סריף">
-<!-- ###ENTITY newLanguages.label 'ניתן להוסיף שפות חדשות בעזרת הלוח "שפות".' -->
+
 <!ENTITY useDocumentFonts.label "אפשר להודעות לבחור את הגופנים שלהם">
 <!ENTITY useDocumentFonts.accesskey "א">
 <!ENTITY sendDefaultCharset.label "דואר יוצא:">
@@ -58,10 +58,6 @@
 <!ENTITY composingDescription.label "קבע את קידוד התווים ברירת המחדל עבור קבלת ושליחת דואר">
 <!ENTITY viewDefaultCharsetList.label "דואר נכנס:">
 <!ENTITY viewDefaultCharsetList.accesskey "נ">
-<!-- ### ENTITY forceCharsetOverride.label "החל את קידוד התווים שבברירת המחדל עבור כל ההודעות הנכנסות" -->
-<!-- ### ENTITY forceCharsetOverride.accesskey "ח" -->
-<!-- ### ENTITY replyInDefaultCharset.label "השתמש בקידוד התווים ברירת המחדל בהשבות" -->
-<!-- ### ENTITY replyInDefaultCharset.accesskey "ה" -->
 
 <!ENTITY replyInDefaultCharset2.label     "במידת האפשר, עשה שימוש בקידוד ברירת המחדל בתשובות">
 <!ENTITY replyInDefaultCharset2.accesskey "ש">

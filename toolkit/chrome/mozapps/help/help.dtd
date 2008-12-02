@@ -18,8 +18,7 @@
 <!ENTITY printButton.label "הדפסה">
 <!ENTITY printButton.tooltip "הדפס דף זה">
 <!ENTITY printCmd.commandkey "p">
-<!-- ### ENTITY searchtab.accesskey "ח" -->
-<!-- ### iENTITY searchtab.label "חיפוש" -->
+
 <!ENTITY selectAllCmd.accesskey "ב">
 <!ENTITY selectAllCmd.label "בחר הכל">
 <!ENTITY toctab.accesskey "ת">
@@ -27,7 +26,6 @@
 <!ENTITY zLevel.accesskey "ע">
 <!ENTITY zLevel.label "תמיד עליון">
 
-<!-- ### ENTITY searchClose.tooltip            "סגור תוצאות חיפוש" -->
 <!ENTITY search.emptytext               "חיפוש">
 <!ENTITY searchHeader.label             "תוצאות חיפוש">
 
