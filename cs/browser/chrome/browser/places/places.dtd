@@ -86,7 +86,7 @@
 <!ENTITY cmd.open_all_in_tabs.accesskey "n">
 
 <!ENTITY cmd.properties.label "Vlastnosti">
-<!ENTITY cmd.properties.accesskey "i">
+<!ENTITY cmd.properties.accesskey "V">
 
 <!ENTITY cmd.show_info.key "i">
 
