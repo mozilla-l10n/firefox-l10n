@@ -61,7 +61,7 @@
 <!ENTITY pref.calendar.view.visiblehours.accesskey "n">
 <!ENTITY pref.calendar.view.visiblehoursend.label "Stunde(n)">
 
-<!ENTITY pref.numberofweeks.label "Standard-Gesamtanzahl der Wochen:">
+<!ENTITY pref.numberofweeks.label "Gesamtanzahl der Wochen (inkl. vergangener Wochen):">
 <!ENTITY pref.numberofweeks.accesskey "G">
 <!ENTITY pref.numberofpreviousweeks.label "Anzahl der vergangenen Wochen:">
 <!ENTITY pref.numberofpreviousweeks.accesskey "v">
