@@ -82,7 +82,7 @@
 
 <!ENTITY allowRemoteContent.label "Ceadaigh cianíomhánna.">
 <!ENTITY allowRemoteContent.accesskey "c">
-<!ENTITY allowRemoteContent.tooltip "In HTML messages it is possible to embed images from remote sources. Opening such a message will open a connection to this external source. This may allow tracking of the message being read. Checking this box will allow such external embedded images in HTML messages from this contact.">
+<!ENTITY allowRemoteContent.tooltip "Is féidir íomhánna ó chianfhoinsí a leabú i dteachtaireachtaí HTML. Osclófar nasc chuig an foinse eachtrach seo nuair a osclófar a leithéid de theachtaireacht. Leis sin, d'fhéadfadh lorg na teachtaireachta atá á léamh a bheith inleanta. Ceadófar íomhánna seachtracha leabaithe den chineál sin i dteachtaireachtaí HTML ón duine seo sin má chuirtear tic sa bhosca seo.">
 
 <!ENTITY WorkPhone.label "Obair:">
 <!ENTITY WorkPhone.accesskey "o">
