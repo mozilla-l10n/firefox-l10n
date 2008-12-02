@@ -69,6 +69,7 @@
 
 <!ENTITY sunbird.menu.numberofweeks.label "Počet týdnů">
 <!ENTITY sunbird.menu.numberofweeks.accesskey "P">
+<!ENTITY sunbird.menu.numberofweeks.1 "1 týden" >
 <!ENTITY sunbird.menu.numberofweeks.2 "2 týdny">
 <!ENTITY sunbird.menu.numberofweeks.3 "3 týdny">
 <!ENTITY sunbird.menu.numberofweeks.4 "4 týdny">

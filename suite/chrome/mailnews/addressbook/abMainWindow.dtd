@@ -76,8 +76,7 @@
 <!ENTITY swapFirstNameLastNameCmd.label "Vyměnit jméno/příjmení">
 <!ENTITY swapFirstNameLastNameCmd.accesskey "m">
 <!ENTITY propertiesCmd.label "Vlastnosti…">
-<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
-<!ENTITY propertiesCmd.accesskey "i">
+<!ENTITY propertiesCmd.accesskey "V">
 <!ENTITY propertiesCmd.key "i">
 <!-- View Menu -->
 

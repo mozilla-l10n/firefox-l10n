@@ -27,9 +27,9 @@
 <!-- for ABSearchDialog.xul -->
 
 <!ENTITY abSearchHeading.label "Hledat v:">
-<!ENTITY abSearchHeading.accesskey "l">
+<!ENTITY abSearchHeading.accesskey "H">
 <!ENTITY propertiesButton.label "Vlastnosti">
-<!ENTITY propertiesButton.accesskey "L">
+<!ENTITY propertiesButton.accesskey "V">
 <!ENTITY composeButton.label "Napsat zprávu">
 <!ENTITY composeButton.accesskey "z">
 <!ENTITY abSearchDialogTitle.label "Rozšířené hledání ve složce kontaktů">

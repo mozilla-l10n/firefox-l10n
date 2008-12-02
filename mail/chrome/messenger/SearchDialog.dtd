@@ -25,7 +25,7 @@
 <!ENTITY abSearchHeading.label "Hledat ve složce kontaktů:">
 <!ENTITY abSearchHeading.accesskey "H">
 <!ENTITY propertiesButton.label "Vlastnosti">
-<!ENTITY propertiesButton.accesskey "l">
+<!ENTITY propertiesButton.accesskey "V">
 <!ENTITY composeButton.label "Napsat zprávu">
 <!ENTITY composeButton.accesskey "z">
 <!ENTITY abSearchDialogTitle.label "Rozšířené hledání v kontaktech">

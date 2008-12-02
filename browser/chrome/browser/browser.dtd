@@ -234,7 +234,7 @@
 <!ENTITY viewPageSourceCmd.label "Zobrazit zdrojový kód stránky">
 <!ENTITY viewPageSourceCmd.accesskey "d">
 <!ENTITY viewFrameSourceCmd.label "Zobrazit zdrojový kód rámu">
-<!ENTITY viewFrameSourceCmd.accesskey "v">
+<!ENTITY viewFrameSourceCmd.accesskey "d">
 <!ENTITY viewPageInfoCmd.label "Zobrazit informace o stránce">
 <!ENTITY viewPageInfoCmd.accesskey "i">
 <!ENTITY viewFrameInfoCmd.label "Zobrazit informace o rámu">
@@ -296,7 +296,7 @@
 <!ENTITY copyAudioURLCmd.accesskey "d">
 <!ENTITY blockImageCmd.accesskey "l">
 <!ENTITY metadataCmd.label "Vlastnosti">
-<!ENTITY metadataCmd.accesskey "i">
+<!ENTITY metadataCmd.accesskey "V">
 <!ENTITY copyEmailCmd.label "Kopírovat e-mailovou adresu">
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY thisFrameMenu.label "Tento rám">
