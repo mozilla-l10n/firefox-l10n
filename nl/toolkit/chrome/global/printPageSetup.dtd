@@ -7,17 +7,22 @@
 <!ENTITY formatGroup.label   "Formaat">
 
 <!ENTITY orientation.label   "Oriëntatie:">
-<!ENTITY portrait            "Staand">
-<!ENTITY landscape           "Liggend">
+<!ENTITY portrait.label      "Staand">
+<!ENTITY portrait.accesskey  "s">
+<!ENTITY landscape.label     "Liggend">
+<!ENTITY landscape.accesskey "L">
 
 <!ENTITY scale.label         "Schaal:">
+<!ENTITY scale.accesskey     "S">
 <!ENTITY scalePercent        "&#037;">
 
 <!ENTITY shrinkToFit.label   "Verkleinen tot papierformaat">
+<!ENTITY shrinkToFit.accesskey "v">
 
 <!ENTITY optionsGroup.label  "Opties">
 
 <!ENTITY printBG.label       "Achtergrond afdrukken (kleuren &amp; afbeeldingen)">
+<!ENTITY printBG.accesskey   "a">
 
 <!ENTITY advanced.tab        "Marges &amp; kop-/voetteksten">
 
@@ -25,9 +30,13 @@
 <!ENTITY marginUnits.inches  "inches">
 <!ENTITY marginUnits.metric  "millimeters">
 <!ENTITY marginTop.label     "Boven:">
+<!ENTITY marginTop.accesskey "b">
 <!ENTITY marginBottom.label  "Onder:">
+<!ENTITY marginBottom.accesskey "o">
 <!ENTITY marginLeft.label    "Links:">
+<!ENTITY marginLeft.accesskey "L">
 <!ENTITY marginRight.label   "Rechts:">
+<!ENTITY marginRight.accesskey "R">
 
 <!ENTITY headerFooter.label  "Kop- &amp; voetteksten">
 
