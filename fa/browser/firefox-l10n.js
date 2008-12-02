@@ -44,4 +44,3 @@ pref("general.useragent.locale", "@AB_CD@");
 //pref("mousewheel.horizscroll.withmetakey.numlines", 1);
 //pref("mousewheel.horizscroll.withnokey.numlines", 1);
 //pref("mousewheel.horizscroll.withshiftkey.numlines", 1);
-
