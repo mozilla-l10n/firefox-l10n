@@ -1,9 +1,0 @@
-<!ENTITY securityOverride.linkText "O puede añadir una excepción…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Esto tiene mala pinta, mejor llévame a mi página de inicio">
-<!ENTITY securityOverride.exceptionButtonLabel "Añadir excepción">
-<!ENTITY securityOverride.warningText "
-<p>No debería añadir una excepción si está usando una conexión a internet en la que no confía por completo, o si no está acostumbrado a ver advertencias sobre este servidor.</p>
-
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
-">
