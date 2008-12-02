@@ -8,7 +8,7 @@
 <!ENTITY profileCreationIntro.text "അനേഘം പ്രൊഫൈലുകള്‍ ഉണ്ടാക്കിയാല്‍, നിങ്ങള്‍ക്ക് അവയുടെ പേര് ഉപയോഗിച്ച് വേര്‍തിരിക്കാവുന്നതാണ്.  ഇവിടെ നല്‍കിയിരിക്കുന്ന പേര് ഉപയോഗിക്കുക, അല്ലെങ്കില്‍ നിങ്ങള്‍ സ്വയം പേര് നല്‍കുക.">
 <!ENTITY profilePrompt.label "പുതിയ പ്രൊഫൈല്‍ പേര്‌ എന്റര്‍ ചെയ്യുക">
 <!ENTITY profilePrompt.accesskey "E">
-<!ENTITY profileDirExplanation.text "നിങ്ങളുടെ ക്രമികരണങ്ങള്‍, മുന്‍ഗണനകള്‍, ബുക്ക് മാറ്‍ക്കുകള്‍, മെയില്‍ എന്നിവ ഇവിടെ സൂക്ഷിക്കുന്നു:">
+<!-- ENTITY profileDirExplanation.text "നിങ്ങളുടെ ക്രമികരണങ്ങള്‍, മുന്‍ഗണനകള്‍, ബുക്ക് മാറ്‍ക്കുകള്‍, മെയില്‍ എന്നിവ ഇവിടെ സൂക്ഷിക്കുന്നു:" -->
 <!ENTITY profileDefaultName "സ്വതവേയുള്ള ഉപയോക്താവ്">
 <!ENTITY button.choosefolder.label "ഫോള്‍ഡര്‍ തെരഞ്ഞെടുക്കുക ">
 <!ENTITY button.choosefolder.accesskey "C">
