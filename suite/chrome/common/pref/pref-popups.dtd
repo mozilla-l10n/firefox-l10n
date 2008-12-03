@@ -26,4 +26,7 @@
 <!ENTITY displayIcon.label              "Toon een ikoon in de browserstatusbalk">
 <!ENTITY displayIcon.accesskey          "T">
 
+<!ENTITY displayNotification.label      "Een notificatiebalk aan de bovenzijde van inhoudvenster tonen">
+<!ENTITY displayNotification.accesskey  "n">
+
 <!ENTITY popupNote.description          "Noot: Alle pop-ups blokkeren kan voorkomen dat sommige toepassingen van websites niet meer werken, zoals loginvensters voor banken en wikkelsites. Voor details hoe specifieke pagina’s toestemming te geven terwijl al de andere worden geblokkeerd, klik op Help. Zelfs al zijn ze geblokkeerd kunnen paginas andere methodes gebruiken om pop-ups te laten zien.">
