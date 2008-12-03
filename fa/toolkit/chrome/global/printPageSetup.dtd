@@ -7,9 +7,9 @@
 <!ENTITY formatGroup.label   "قالب">
 
 <!ENTITY orientation.label   "جهت">
-<!ENTITY portrait            "پرتره‌ای">
+<!ENTITY portrait.label      "پرتره‌ای">
 <!ENTITY portrait.accesskey  "پ">
-<!ENTITY landscape           "منظره‌ای">
+<!ENTITY landscape.label     "منظره‌ای">
 <!ENTITY landscape.accesskey "م">
 
 <!ENTITY scale.label         "مقیاس:">
