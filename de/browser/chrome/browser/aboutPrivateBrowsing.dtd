@@ -6,9 +6,9 @@
 <!ENTITY privatebrowsingpage.longDesc                  "Im privaten Modus wird &brandShortName; keinerlei Chronik anlegen. Das beinhaltet die Browser-Chronik, Sucheinträge, Download-Chronik, Formulardaten, Cookies und temporäre Internetdateien. Allerdings werden alle Lesezeichen, die Sie anlegen, oder Dateien, die Sie herunterladen, beibehalten.">
 
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Sie können auch die kürzlich angelegte Chronik löschen.">
-<!ENTITY privatebrowsingpage.recentHistory.label       "Neuste Chronik löschen">
-<!ENTITY privatebrowsingpage.recentHistory.accesskey   "N">
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc       "Sie können auch die kürzlich angelegte Chronik löschen.">
+<!ENTITY privatebrowsingpage.clearRecentHistory.label     "Neuste Chronik löschen…">
+<!ENTITY privatebrowsingpage.clearRecentHistory.accesskey "N">
 
 <!ENTITY privatebrowsingpage.howToStopDesc             "Um den privaten Modus zu beenden, wählen Sie Extras &gt; Privater Modus ab.">
 <!ENTITY privatebrowsingpage.footerDesc                "Viel Spaß!">
