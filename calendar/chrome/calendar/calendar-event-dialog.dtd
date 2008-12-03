@@ -349,8 +349,8 @@
 <!ENTITY reminder.action.email.label "Seol ríomhphost">
 <!ENTITY reminder.new.label "Nua">
 <!ENTITY reminder.delete.label "Scrios">
-<!ENTITY reminder.relation.start.label "thús na himeachta">
-<!ENTITY reminder.relation.end.label "dheireadh na himeachta">
+<!ENTITY reminder.relation.start.label "thús an imeachta">
+<!ENTITY reminder.relation.end.label "dheireadh an imeachta">
 <!ENTITY reminder.add.label "Cuir Leis">
 <!ENTITY reminder.add.accesskey "L">
 <!ENTITY reminder.remove.label "Bain">
