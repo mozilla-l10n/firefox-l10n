@@ -18,3 +18,7 @@
 <!ENTITY allowHideStatusBar.label        "Ocultar a barra de estado">
 
 <!ENTITY enablePlugin.label              "Activar Plugins para">
+
+<!ENTITY whenPluginsRequired.description "Quando forem necessários plugins adicionais:">
+<!ENTITY displayNotification.label       "Mostrar uma barra de notificação no topo da área de conteúdo">
+<!ENTITY displayNotification.accesskey   "n">

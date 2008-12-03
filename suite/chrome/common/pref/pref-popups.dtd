@@ -26,5 +26,8 @@
 <!ENTITY displayIcon.label              "Mostrar um ícone na barra de estado do navegador">
 <!ENTITY displayIcon.accesskey          "m">
 
+<!ENTITY displayNotification.label      "Mostrar uma barra de notificação no topo da área de conteúdo">
+<!ENTITY displayNotification.accesskey  "n">
+
 <!ENTITY popupNote.description          "Nota: Bloquear todos os popups pode impedir que funcionalidades importantes dos sítios web funcionem, tais como janelas de início de sessão de banco e de sítios de compras. Para detalhes de como autorizar popup para alguns sítios clique em Ajuda. Mesmo bloqueados os sítios podem usar outros métodos para apresentar popups.">
 
