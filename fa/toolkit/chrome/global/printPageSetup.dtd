@@ -8,16 +8,21 @@
 
 <!ENTITY orientation.label   "جهت">
 <!ENTITY portrait            "پرتره‌ای">
+<!ENTITY portrait.accesskey  "پ">
 <!ENTITY landscape           "منظره‌ای">
+<!ENTITY landscape.accesskey "م">
 
 <!ENTITY scale.label         "مقیاس:">
+<!ENTITY scale.accesskey     "م">
 <!ENTITY scalePercent        "٪">
 
 <!ENTITY shrinkToFit.label   "کوچک کردن به اندازهٔ عرض صفحه">
+<!ENTITY shrinkToFit.accesskey "ک">
 
 <!ENTITY optionsGroup.label  "گزینه‌ها">
 
 <!ENTITY printBG.label       "چاپ پس‌زمینه (رنگ‌ها و تصاویر)">
+<!ENTITY printBG.accesskey   "چ">
 
 <!ENTITY advanced.tab        "حاشیه‌ها و سرصفحه/پاصفحه">
 
@@ -25,9 +30,13 @@
 <!ENTITY marginUnits.inches  "اینچ">
 <!ENTITY marginUnits.metric  "میلی‌متر">
 <!ENTITY marginTop.label     "بالا:">
+<!ENTITY marginTop.accesskey "ب">
 <!ENTITY marginBottom.label  "پایین:">
+<!ENTITY marginBottom.accesskey "پ">
 <!ENTITY marginLeft.label    "چپ:">
+<!ENTITY marginLeft.accesskey "چ">
 <!ENTITY marginRight.label   "راست:">
+<!ENTITY marginRight.accesskey "ر">
 
 <!ENTITY headerFooter.label  "سرصفحه‌ها و پاصفحه‌ها">
 
