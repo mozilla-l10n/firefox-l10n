@@ -1,12 +1,12 @@
 <!-- extracted from content/pref-scripts.xul -->
-<!--LOCALIZATION NOTE : FILE The 'Scripts & Plug-ins' preferences dialog -->
 
+<!--LOCALIZATION NOTE : FILE The 'Scripts & Plug-ins' preferences dialog -->
 <!ENTITY pref.scripts.title "Skripty a zásuvné moduly">
 
 <!ENTITY navigator.label "Prohlížeč">
 <!ENTITY navigator.accesskey "P">
-<!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
 
+<!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
 <!ENTITY enableJavaScript.label "Povolit JavaScript pro">
 <!ENTITY allowScripts.label "Umožnit skriptům:">
 <!ENTITY allowScripts.accesskey "s">
@@ -18,3 +18,7 @@
 <!ENTITY allowHideStatusBar.label "Skrýt stavový řádek">
 
 <!ENTITY enablePlugin.label "Povolit zásuvné moduly pro">
+
+<!ENTITY whenPluginsRequired.description "Pokud jsou požadovány dodatečné zásuvné moduly:">
+<!ENTITY displayNotification.label "Zobrazit informační lištu v horní části obsahu stránky">
+<!ENTITY displayNotification.accesskey  "i">

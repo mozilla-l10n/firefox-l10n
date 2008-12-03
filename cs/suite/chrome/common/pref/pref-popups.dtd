@@ -6,7 +6,7 @@
 <!ENTITY popupBlock.accesskey "B">
 
 <!ENTITY popupExceptions.label "Povolené servery…">
-<!ENTITY popupExceptions.accesskey "S">
+<!ENTITY popupExceptions.accesskey "l">
 
 <!ENTITY whenBlock.description "Při zablokování vyskakovacího okna:">
 <!ENTITY playSound.label "Přehrát zvuk:">
@@ -24,7 +24,10 @@
 <!ENTITY selectSound.filter "Zvuky">
 
 <!ENTITY displayIcon.label "Zobrazit ikonku ve stavovém řádku prohlížeče">
-<!ENTITY displayIcon.accesskey "D">
+<!ENTITY displayIcon.accesskey "Z">
+
+<!ENTITY displayNotification.label "Zobrazit informační lištu v horní části obsahu stránky">
+<!ENTITY displayNotification.accesskey  "i">
 
 <!ENTITY popupNote.description "Poznámka: Blokování všech vyskakovacích oken může zapříčinit to, že některé servery, jako třeba přihlašovací okna do bank či obchodů, přestanou fungovat. Pro více informací, jak povolit konkrétním serverům používat vyskakovací okna, klepněte na tlačítko Nápověda.">
 
