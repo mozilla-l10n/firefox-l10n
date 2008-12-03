@@ -1,4 +1,4 @@
-<!-- extracted from content/pref-scripts.xul -->
+ï»¿<!-- extracted from content/pref-scripts.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Scripts & Plug-ins' preferences dialog -->
 <!ENTITY pref.scripts.title              "Scripts &amp; Plugins">
@@ -14,11 +14,11 @@
 <!ENTITY allowWindowFlip.label           "Aumentar ou diminuir janelas">
 <!ENTITY allowWindowStatusChange.label   "Mudar o texto da barra de estado">
 <!ENTITY allowWindowImageSrcChange.label "mudar imagens">
-<!ENTITY allowContextmenuDisable.label   "Disactivar ou substituir menus de contexto">
+<!ENTITY allowContextmenuDisable.label   "Desactivar ou substituir menus de contexto">
 <!ENTITY allowHideStatusBar.label        "Ocultar a barra de estado">
 
 <!ENTITY enablePlugin.label              "Activar Plugins para">
 
-<!ENTITY whenPluginsRequired.description "Quando forem necessários plugins adicionais:">
-<!ENTITY displayNotification.label       "Mostrar uma barra de notificação no topo da área de conteúdo">
+<!ENTITY whenPluginsRequired.description "Quando forem necessÃ¡rios plugins adicionais:">
+<!ENTITY displayNotification.label       "Mostrar uma barra de notificaÃ§Ã£o no topo da Ã¡rea de conteÃºdo">
 <!ENTITY displayNotification.accesskey   "n">
