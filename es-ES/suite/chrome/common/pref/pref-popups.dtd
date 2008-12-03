@@ -19,4 +19,6 @@
 <!ENTITY selectSound.filter "Sonidos">
 <!ENTITY displayIcon.label "Mostrar un icono en la barra de estado del navegador">
 <!ENTITY displayIcon.accesskey "M">
+<!ENTITY displayNotification.label "Mostrar una barra de notificación en la parte superior del área de contenido">
+<!ENTITY displayNotification.accesskey "n">
 <!ENTITY popupNote.description "Nota: bloquear todas las ventanas emergentes puede impedir que funcionen características importantes de algunos sitios web, como ventanas de inicio de sesión de bancos y sitios de compra en línea. Para detalles sobre cómo permitir usar ventanas emergentes a sitios específicos sin dejar de bloquearlas para el resto, pulse Ayuda. Incluso con el bloqueo activado, algunos sitios pueden usar otros métodos para mostrar ventanas emergentes.">
