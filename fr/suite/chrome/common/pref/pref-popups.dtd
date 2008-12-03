@@ -3,7 +3,7 @@
 <!ENTITY pref.popups.caption "Fenêtres popup">
 
 <!ENTITY popupBlock.label "Bloquer les fenêtres popup non désirées">
-<!ENTITY popupBlock.accesskey "B">
+<!ENTITY popupBlock.accesskey "o">
 
 <!ENTITY popupExceptions.label "Sites autorisés…">
 <!ENTITY popupExceptions.accesskey "S">
@@ -25,5 +25,8 @@
 
 <!ENTITY displayIcon.label "Afficher une icône dans la barre d'état du navigateur">
 <!ENTITY displayIcon.accesskey "c">
+
+<!ENTITY displayNotification.label "Afficher une barre de notification en haut de la zone d'affichage">
+<!ENTITY displayNotification.accesskey "A">
 
 <!ENTITY popupNote.description "Note : bloquer toutes les fenêtres popup peut empêcher l'ouverture de fenêtres utiles, telles que les fenêtres de connexion à des sites marchands ou bancaires. Cliquez sur Aide pour savoir comment autoriser certains sites à ouvrir de telles fenêtres tout en bloquant les autres. Même bloqués, certains sites peuvent utiliser d'autres méthodes pour afficher des fenêtres popup.">

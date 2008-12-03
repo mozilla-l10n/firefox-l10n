@@ -1,6 +1,6 @@
 <!-- extracted from content/pref-scripts.xul -->
 
-<!--LOCALIZATION NOTE : FILE The 'Scripts & Plug-ins' preferences dialog -->
+<!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
 <!ENTITY pref.scripts.title "Scripts et plugins">
 
 <!ENTITY navigator.label "le navigateur">
@@ -18,3 +18,7 @@
 <!ENTITY allowHideStatusBar.label "Masquer la barre d'état">
 
 <!ENTITY enablePlugin.label "Activer les plugins pour">
+
+<!ENTITY whenPluginsRequired.description "Quand des plugins supplémentaires sont requis :">
+<!ENTITY displayNotification.label "Afficher une barre de notification en haut de la zone d'affichage">
+<!ENTITY displayNotification.accesskey "A">
