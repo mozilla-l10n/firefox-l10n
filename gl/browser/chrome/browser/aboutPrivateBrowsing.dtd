@@ -6,8 +6,9 @@
 <!ENTITY privatebrowsingpage.longDesc                  "O histórico non será memorizado polo &brandShortName; durante esta sesión. Isto inclúe as páxinas visitadas, pesquisas, descargas, dados fornecidos a formulários, cookies e arquivos temporais. Porén, serán preservados os arquivos gardados polas descargas así como os novos favoritos.">
 
 <!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Vostede pode querer comezar limpando o seu histórico recente.">
-<!ENTITY privatebrowsingpage.recentHistory.label       "Limpar histórico recente…">
-<!ENTITY privatebrowsingpage.recentHistory.accesskey   "L">
+<!ENTITY privatebrowsingpage.clearRecentHistory.label  "Limpar histórico recente">
+<!ENTITY privatebrowsingpage.clearRecentHistory.accesskey "L">
+
 
 <!ENTITY privatebrowsingpage.howToStopDesc             "Para fechar a navegación privada, desmarque o menu “Ferramentas &gt; Navegación privada”.">
 <!ENTITY privatebrowsingpage.footerDesc                "Divirtase!">
