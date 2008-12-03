@@ -109,3 +109,23 @@
 <!ENTITY spellCheckEnable.accesskey     "V">
 <!ENTITY spellIgnoreWord.label          "Ignorar palavra">
 <!ENTITY spellIgnoreWord.accesskey      "I">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Copy Audio Location">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyVideoURLCmd.label        "Copy Video Location">
+<!ENTITY mediaHideControls.accesskey  "a">
+<!ENTITY mediaHideControls.label      "Hide Media Controls">
+<!ENTITY mediaMute.accesskey          "M">
+<!ENTITY mediaMute.label              "Mute">
+<!ENTITY mediaPause.accesskey         "P">
+<!ENTITY mediaPause.label             "Pause">
+<!ENTITY mediaPlay.accesskey          "P">
+<!ENTITY mediaPlay.label              "Play">
+<!ENTITY mediaShowControls.accesskey  "a">
+<!ENTITY mediaShowControls.label      "Show Media Controls">
+<!ENTITY mediaUnmute.accesskey        "m">
+<!ENTITY mediaUnmute.label            "Unmute">
+<!ENTITY saveAudioCmd.accesskey       "v">
+<!ENTITY saveAudioCmd.label           "Save Audio As…">
+<!ENTITY saveVideoCmd.accesskey       "v">
+<!ENTITY saveVideoCmd.label           "Save Video As…">

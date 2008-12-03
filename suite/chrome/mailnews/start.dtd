@@ -14,3 +14,4 @@
 <!ENTITY dict_info.label 'Muitos idiomas adicionais podem ser <a href="http://dictionaries.mozdev.org/installation.html">instalados</a> do projeto de  <a href="http://dictionaries.mozdev.org/">dicionários</a> do <a href="http://www.mozdev.org/">mozdev.org</a>.'>
 <!ENTITY info.title "Links">
 <!ENTITY info_bugs.label '<ul><li><a href="http://www.mozilla.org/mailnews/">Mozilla Mail/News</a></li><li><a href="&releaseURL;">Notas de lançamento</a></li><li><a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a></li></ul>'>
+<!ENTITY feat_rss.label "RSS Reader">

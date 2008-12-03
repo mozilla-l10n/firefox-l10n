@@ -15,3 +15,7 @@
 <!ENTITY contextSendThisLink.label       "Enviar este endereço…">
 <!ENTITY contextSendThisPage.accesskey   "E">
 <!ENTITY contextSendThisPage.label       "Enviar esta página…">
+<!ENTITY contextSendAudio.accesskey      "a">
+<!ENTITY contextSendAudio.label          "Enviar audio…">
+<!ENTITY contextSendVideo.accesskey      "o">
+<!ENTITY contextSendVideo.label          "Enviar video…">

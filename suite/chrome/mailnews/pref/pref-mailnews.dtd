@@ -34,3 +34,5 @@
 <!ENTITY setDefaultMail.accesskey         "E">
 <!ENTITY setDefaultNews.label             "News">
 <!ENTITY setDefaultNews.accesskey         "N">
+<!ENTITY setDefaultFeed.accesskey         "e">
+<!ENTITY setDefaultFeed.label             "Feeds">

@@ -541,3 +541,7 @@
 <!ENTITY filtersApplyToSelection.accesskey "m">
 <!ENTITY folderContextSettings.label "Configurações…">
 <!ENTITY folderContextSettings.accesskey "C">
+<!ENTITY copyMsgToMenu.accesskey "C">
+<!ENTITY copyMsgToMenu.label "Copy To">
+<!ENTITY moveMsgToMenu.accesskey "M">
+<!ENTITY moveMsgToMenu.label "Move To">
