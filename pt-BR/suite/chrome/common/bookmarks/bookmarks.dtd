@@ -3,14 +3,15 @@
 <!ENTITY bookmarksSearch.tooltip "Pesquisa (clique para exibir)">
 <!ENTITY menuitem.newBookmark.label "Marcador...">
 <!ENTITY command.newBookmark.accesskey "M">
+<!ENTITY menuitem.newBookmark.accesskey "M">
 <!ENTITY menuitem.newFolder.label "Pasta...">
 <!ENTITY button.newFolder.label "Nova pasta...">
 <!ENTITY button.newFolder.accesskey "N">
-<!ENTITY command.newFolder.accesskey "P">
+<!ENTITY menuitem.newFolder.accesskey  "P">
 <!ENTITY menuitem.newSeparator.label "Separador">
 <!ENTITY button.newSeparator.label "Separador">
 <!ENTITY button.newSeparator.accesskey "s">
-<!ENTITY command.newSeparator.accesskey "S">
+<!ENTITY menuitem.newSeparator.accesskey "S">
 <!ENTITY menuitem.open.label "Abrir arquivo de marcadores">
 <!ENTITY menuitem.open.accesskey "A">
 <!ENTITY menuitem.import.label "Importar...">
@@ -20,23 +21,12 @@
 <!ENTITY menuitem.find.label "Localizar marcadores...">
 <!ENTITY command.findBookmarks.label "Localizar...">
 <!ENTITY menuitem.find.accesskey "L">
-<!ENTITY edit.find.keybinding "f">
-<!ENTITY command.properties.label "Propriedades">
-<!ENTITY button.properties.accesskey "P">
-<!ENTITY command.properties.accesskey "e">
-<!ENTITY edit.properties.keybinding "i">
-<!ENTITY command.rename.label "Renomear...">
-<!ENTITY button.rename.accesskey "R">
-<!ENTITY command.delete.label "Excluir">
-<!ENTITY button.delete.accesskey "c">
-<!ENTITY command.moveBookmark.label "Mover marcador...">
-<!ENTITY command.moveBookmarkShort.label "Mover...">
-<!ENTITY command.moveBookmark.accesskey "M">
+<!ENTITY menuitem.find.find.key        "f">
 <!ENTITY command.addBookmark.label "Criar...">
 <!ENTITY command.manageBookmarks.label "Organizar...">
 <!ENTITY command.sortFolder.label "Ordenar marcadores...">
-<!ENTITY command.sortFolder.accesskey "M">
-<!ENTITY edit.sortFolder.keybinding "S">
+<!ENTITY command.sortFolder.accesskey "m">
+<!ENTITY command.sortFolder.key        "S">
 <!ENTITY command.sortFolderByName.label "Ordenar pelo nome">
 <!ENTITY command.sortFolderByName.accesskey "N">
 <!ENTITY menuitem.view.command.toolbar.label "Barra de ferramentas">
@@ -75,3 +65,20 @@
 <!ENTITY bookmarksWindowTitle.label "Marcadores">
 <!ENTITY search.label "Localizar nome:">
 <!ENTITY search.accesskey "Z">
+<!ENTITY button.delete.label           "Excluir">
+<!ENTITY button.delete.accesskey "c">
+
+<!ENTITY menuitem.moveBookmark.label   "Mover marcador(es)…">
+<!ENTITY menuitem.moveBookmark.accesskey "M">
+<!ENTITY button.moveBookmark.label     "Mover…">
+<!ENTITY button.moveBookmark.accesskey "M">
+
+<!ENTITY menuitem.properties.label     "Propriedades…">
+<!ENTITY button.properties.label       "Propriedades…">
+<!ENTITY menuitem.properties.accesskey "P">
+<!ENTITY menuitem.properties.key       "i">
+
+<!ENTITY button.rename.label           "Renomear…">
+<!ENTITY button.rename.accesskey "R">
+
+

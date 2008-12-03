@@ -189,3 +189,4 @@
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY renameAttachment.label "Renomear…">
 <!ENTITY renameAttachment.accesskey "R">
+<!ENTITY editRewrapCmd.key "R">

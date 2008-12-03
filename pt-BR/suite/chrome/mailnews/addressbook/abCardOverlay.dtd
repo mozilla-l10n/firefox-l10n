@@ -99,3 +99,15 @@
 <!ENTITY Birthday.accesskey             "D">
 <!ENTITY Or.value                       "ou">
 <!ENTITY Year.emptytext                 "Ano">
+<!ENTITY Home.accesskey                 "P">
+
+<!ENTITY Home.tab                       "Private">
+<!ENTITY Notes.label                    "Notes:">
+<!ENTITY Work.accesskey                 "W">
+
+<!ENTITY Work.tab                       "Work">
+<!ENTITY allowRemoteContent.tooltip     "In HTML messages it is possible to
+embed images from remote sources. Opening such a message will open a
+connection to this external source. This may allow tracking of the
+message being read. Checking this box will allow such external embedded
+images in HTML messages from this contact.">

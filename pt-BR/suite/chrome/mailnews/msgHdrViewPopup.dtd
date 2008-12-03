@@ -11,3 +11,5 @@
 <!ENTITY CopyMessageId.label               "Copiar Message-ID">
 <!ENTITY OpenBrowserWithMsgId.label        "Abrir Navegador com Message-ID">
 <!ENTITY OpenMessageForMsgId.label         "Abrir mensagem para ID">
+<!ENTITY copyLinkCmd.accesskey             "C">
+<!ENTITY copyLinkCmd.label                 "Copy Link Location">
