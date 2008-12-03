@@ -1,40 +1,40 @@
 
 
 <!ENTITY openAttachmentCmd.label "פתח">
-<!ENTITY openAttachmentCmd.accesskey "O">
+<!ENTITY openAttachmentCmd.accesskey "פ">
 <!ENTITY saveAsAttachmentCmd.label "שמור בשם...">
-<!ENTITY saveAsAttachmentCmd.accesskey "A">
+<!ENTITY saveAsAttachmentCmd.accesskey "ש">
 
 <!ENTITY detachAttachmentCmd.label "נתק ...">
 <!ENTITY deleteAttachmentCmd.label "מחק">
 <!ENTITY saveAllAttachmentsCmd.label "שמור הכל..">
-<!ENTITY saveAllAttachmentsCmd.accesskey "S">
+<!ENTITY saveAllAttachmentsCmd.accesskey "מ">
 <!ENTITY detachAllAttachmentsCmd.label "נתק הכל...">
-<!ENTITY detachAllAttachmentsCmd.accesskey "D">
+<!ENTITY detachAllAttachmentsCmd.accesskey "נ">
 <!ENTITY deleteAllAttachmentsCmd.label "מחק הכל...">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "E">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "ח">
 <!ENTITY copyLinkCmd.label "העתק מיקום קישור">
-<!ENTITY copyLinkCmd.accesskey "C">
+<!ENTITY copyLinkCmd.accesskey "ק">
 
-<!ENTITY toField2.label "to ">
-<!ENTITY fromField2.label "from ">
-<!ENTITY senderField2.label "sender ">
-<!ENTITY organizationField2.label "organization ">
-<!ENTITY replyToField2.label "reply-to ">
+<!ENTITY toField2.label "אל ">
+<!ENTITY fromField2.label "מאת ">
+<!ENTITY senderField2.label "שולח ">
+<!ENTITY organizationField2.label "ארגון ">
+<!ENTITY replyToField2.label "תגובות אל ">
 
-<!ENTITY subjectField2.label "subject ">
+<!ENTITY subjectField2.label "נושא ">
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "cc ">
-<!ENTITY bccField2.label "bcc ">
-<!ENTITY newsgroupsField2.label "newsgroups ">
-<!ENTITY followupToField2.label "followup-to ">
-<!ENTITY tagsHdr2.label "tags ">
-<!ENTITY dateField2.label "date ">
-<!ENTITY userAgentField2.label "user-agent ">
-<!ENTITY referencesField2.label "references ">
-<!ENTITY messageIdField2.label "message-id ">
-<!ENTITY inReplyToField2.label "in-reply-to ">
-<!ENTITY originalWebsite2.label "website ">
+<!ENTITY ccField2.label "עותק ">
+<!ENTITY bccField2.label "עותק סמוי ">
+<!ENTITY newsgroupsField2.label "קבוצת דיון ">
+<!ENTITY followupToField2.label "המשך של ">
+<!ENTITY tagsHdr2.label "תגיות ">
+<!ENTITY dateField2.label "תאריך ">
+<!ENTITY userAgentField2.label "סוכן משתמש ">
+<!ENTITY referencesField2.label "סימוכין ">
+<!ENTITY messageIdField2.label "מזהה הודעה ">
+<!ENTITY inReplyToField2.label "תגובה של ">
+<!ENTITY originalWebsite2.label "אתר ">
 
 <!ENTITY otherActionsButton.label "פעולות אחרות">
 <!ENTITY saveAsMenuItem.label "שמור בשם…">
