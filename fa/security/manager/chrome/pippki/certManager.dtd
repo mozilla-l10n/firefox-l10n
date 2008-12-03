@@ -38,26 +38,26 @@
 <!ENTITY certmgr.title                       "مدیر گواهی">
 
 <!ENTITY certmgr.tab.mine                     "گواهی‌های شما">
-<!ENTITY certmgr.tab.others2                  "People">
-<!ENTITY certmgr.tab.websites3                "Servers">
+<!ENTITY certmgr.tab.others2                  "افراد">
+<!ENTITY certmgr.tab.websites3                "پایگاه‌ها">
 <!ENTITY certmgr.tab.ca                       "مراجع صدور">
-<!ENTITY certmgr.tab.orphan2                  "Others">
+<!ENTITY certmgr.tab.orphan2                  "دیگران">
 
 <!ENTITY certmgr.ca.builtins                  "مراجع صدور توکار">
 <!ENTITY certmgr.ca.mycas                     "مراجع صدور اداره شده توسط شما">
 
 <!ENTITY certmgr.mine                         "شما گواهی‌هایی از این سازمان‌ها دارید که هویت شما را تأیید می‌کنند:">
-<!ENTITY certmgr.others                       "شما در پرونده گواهی‌هایی دارید که هویت این افراد را تأیید می‌کنند:">
-<!ENTITY certmgr.websites2                    "You have certificates on file that identify these servers:">
-<!ENTITY certmgr.cas                          "شما در پرونده گواهی‌هایی دارید که هویت این مراجع صدور گواهی را تأیید می‌کنند:">
-<!ENTITY certmgr.orphans                      "You have certificates on file that do not fit in any of the other categories:">
+<!ENTITY certmgr.others                       "شما گواهی‌هایی موجود دارید که هویت این افراد را تأیید می‌کنند:">
+<!ENTITY certmgr.websites2                    "شما گواهی‌هایی موجود دارید که هویت این پایگاه‌ها را تأیید می‌کنند:">
+<!ENTITY certmgr.cas                          "شما گواهی‌هایی موجود دارید که هویت این مراجع صدور گواهی را تأیید می‌کنند:">
+<!ENTITY certmgr.orphans                      "شما گواهی‌هایی موجود دارید که در هیچ یک از دسته‌های دیگر نمی‌گنجند:">
 
 <!ENTITY certmgr.detail.general_tab.title     "عمومی">
-<!ENTITY certmgr.detail.general_tab.accesskey "G">
+<!ENTITY certmgr.detail.general_tab.accesskey "ع">
 <!ENTITY certmgr.detail.prettyprint_tab.title "جزئیات">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "ج">
 
-<!ENTITY certmgr.pending.label                "Currently verifying certificate…">
+<!ENTITY certmgr.pending.label                "در حال تأیید گواهی‌ها…">
 <!ENTITY certmgr.subjectinfo.label            "صادر شده برای">
 <!ENTITY certmgr.issuerinfo.label             "صادر شده توسط">
 <!ENTITY certmgr.validity.label               "اعتبار" >
@@ -95,7 +95,7 @@
 <!ENTITY certmgr.certname                     "نام گواهی">
 <!ENTITY certmgr.certserver                   "کارگزار">
 <!ENTITY certmgr.typesofoverrides             "استثناها">
-<!ENTITY certmgr.override_lifetime            "Lifetime">
+<!ENTITY certmgr.override_lifetime            "مدت زمان">
 <!ENTITY certmgr.tokenname                    "دستگاه امنیتی">
 <!ENTITY certmgr.purpose                      "مورد استفاده">
 <!ENTITY certmgr.issued                       "تاریخ صدور">
@@ -105,22 +105,22 @@
 
 <!ENTITY certmgr.close.label                  "بستن">
 <!ENTITY certmgr.close.accesskey              "س">
-<!ENTITY certmgr.view2.label                  "View…">
-<!ENTITY certmgr.view2.accesskey              "V">
+<!ENTITY certmgr.view2.label                  "مشاهده…">
+<!ENTITY certmgr.view2.accesskey              "م">
 <!ENTITY certmgr.edit2.label                  "ویرایش…">
 <!ENTITY certmgr.edit2.accesskey              "و">
 <!ENTITY certmgr.editca.label                 "ویرایش اعتماد به CA">
 <!ENTITY certmgr.editca.accesskey             "ع">
 <!ENTITY certmgr.add.label                    "افزودن">
 <!ENTITY certmgr.add.accesskey                "ا">
-<!ENTITY certmgr.export.label                 "Export…">
-<!ENTITY certmgr.export.accesskey             "x">
-<!ENTITY certmgr.delete2.label                "Delete…">
-<!ENTITY certmgr.delete2.accesskey            "D">
+<!ENTITY certmgr.export.label                 "صادر کردن…">
+<!ENTITY certmgr.export.accesskey             "ص">
+<!ENTITY certmgr.delete2.label                "حذف…">
+<!ENTITY certmgr.delete2.accesskey            "ح">
 <!ENTITY certmgr.backup2.label                "پشتیبان‌گیری…">
 <!ENTITY certmgr.backup2.accesskey            "پ">
-<!ENTITY certmgr.backupall2.label             "Backup All…">
-<!ENTITY certmgr.backupall2.accesskey         "k">
+<!ENTITY certmgr.backupall2.label             "پشتیبان‌گیری از همه…">
+<!ENTITY certmgr.backupall2.accesskey         "ه">
 <!ENTITY certmgr.restore2.label               "وارد کردن…">
 <!ENTITY certmgr.restore2.accesskey           "و">
 <!ENTITY certmgr.details.label                "فیلدهای گواهی">
@@ -132,16 +132,16 @@
 <!ENTITY certmgr.addException.label           "افزودن استثنا…">
 <!ENTITY certmgr.addException.accesskey       "ا">
 
-<!ENTITY exceptionMgr.title                   "Add Security Exception">
-<!ENTITY exceptionMgr.exceptionButton         "Confirm Security Exception">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "C">
-<!ENTITY exceptionMgr.supplementalWarning     "Legitimate banks, stores, and other public sites will not ask you to do this.">
+<!ENTITY exceptionMgr.title                   "افزودن استثناء امنیتی">
+<!ENTITY exceptionMgr.exceptionButton         "تأیید استثناء امنیتی">
+<!ENTITY exceptionMgr.exceptionButtonAccess   "ت">
+<!ENTITY exceptionMgr.supplementalWarning     "بانک‌ها و فروشگاه‌های قانونی و بسیاری از پایگاه‌های عمومی این کار را از شما نخواهند خواست.">
 <!ENTITY exceptionMgr.certlocation.caption2   "کارگزار">
 <!ENTITY exceptionMgr.certlocation.url        "مکان:">
-<!ENTITY exceptionMgr.certlocation.download   "Get Certificate">
-<!ENTITY exceptionMgr.certlocation.accesskey  "G">
-<!ENTITY exceptionMgr.certstatus.caption      "Certificate Status">
-<!ENTITY exceptionMgr.certstatus.viewCert     "View…">
-<!ENTITY exceptionMgr.certstatus.accesskey    "V">
-<!ENTITY exceptionMgr.permanent.label         "Permanently store this exception">
-<!ENTITY exceptionMgr.permanent.accesskey     "P">
+<!ENTITY exceptionMgr.certlocation.download   "دریافت گواهی">
+<!ENTITY exceptionMgr.certlocation.accesskey  "د">
+<!ENTITY exceptionMgr.certstatus.caption      "وضعیت گواهی">
+<!ENTITY exceptionMgr.certstatus.viewCert     "مشاهده…">
+<!ENTITY exceptionMgr.certstatus.accesskey    "م">
+<!ENTITY exceptionMgr.permanent.label         "ذخیرهٔ دائمی این استثنا">
+<!ENTITY exceptionMgr.permanent.accesskey     "ذ">

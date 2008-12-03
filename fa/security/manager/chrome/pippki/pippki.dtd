@@ -51,7 +51,7 @@
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title  "گذرواژهٔ اصلی را وارد کنید">
-<!ENTITY getPassword.tokenName2.label "Security Device:">
+<!ENTITY getPassword.tokenName2.label "دستگاه امنیتی:">
 <!ENTITY getPassword.password.label "گذرواژه:">
 
 <!-- These should be common -->
@@ -126,10 +126,10 @@
 <!ENTITY formSigning.confirmPassword "برای تصدیق، این پیغام متنی را با استفاده از گواهی انتخاب شدهٔ خود امضا می‌کنید، لطفاً با وارد کردن گذرواژهٔ اصلی انجام این کار را تصدیق کنید:">
 
 <!-- Strings for protectedAuth dialog -->
-<!ENTITY protectedAuth.title "Protected Token Authentication">
-<!ENTITY protectedAuth.msg "Please authenticate to the token. Authentication method depends on the type of your token.">
-<!ENTITY protectedAuth.tokenName.label "Token:">
+<!ENTITY protectedAuth.title "تصدیق هویت توسط نشانهٔ حفاظت شده">
+<!ENTITY protectedAuth.msg "لطفأ در برابر این نشانه هویت خود را تصدیق کنید. روش تصدیق هویت به نوع نشانه‌تان بستگی دارد.">
+<!ENTITY protectedAuth.tokenName.label "نشانه:">
 
-<!ENTITY certErrorDlg.title "برقراری اتصال ایمن شکست خورد">
-<!ENTITY certErrorDlg.info1 "This could be a problem with the server's configuration or it could be someone trying to impersonate the server.">
-<!ENTITY certErrorDlg.info2 "If you have connected to this server successfully in the past the error may be temporary and you can try again later.">
+<!ENTITY certErrorDlg.title "اتصال امن شکست خورد">
+<!ENTITY certErrorDlg.info1 "امکان دارد این موضوع نشان‌دهندهٔ اشکالی در تنظیم کارگزار و یا تلاش شخص ثالثی برای معرفی خود به عنوان کارگزار باشد.">
+<!ENTITY certErrorDlg.info2 "اگر در گذشته با موفقیت به این پایگاه متصل شده‌اید، احتمال دارد این اشکال موقتی باشد.  می‌توانید دوباره تلاش کنید.">
