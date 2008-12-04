@@ -6,8 +6,8 @@
 <!ENTITY privatebrowsingpage.longDesc                  "Šīs sesijas laikā &brandShortName; nesaglabās pārlūkošanas vēsturi. Netiks saglabātas nedz jūsu apmeklēto lapu adreses, nedz meklētās frāzes, nedz lejupielādes nedz arī formās ievadītie dati, sīkdatnes vai pagaidu faili.  Taču, ja jūs lejupielādēsiet kādus failus vai izveidosiet jaunas grāmatzīmes, tās tiks saglabātas.">
 
 <!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Jūs varētu gribēt sākt notīrot pārlūkošanas vēsturi.">
-<!ENTITY privatebrowsingpage.recentHistory.label       "Notīrīt pārlūkošanas vēsturi">
-<!ENTITY privatebrowsingpage.recentHistory.accesskey   "N">
+<!ENTITY privatebrowsingpage.clearRecentHistory.label       "Notīrīt pārlūkošanas vēsturi…">
+<!ENTITY privatebrowsingpage.clearRecentHistory.accesskey   "N">
 
 <!ENTITY privatebrowsingpage.howToStopDesc             "Lai pārtrauktu privāto pārlūkošanu izņemiet ķeksīti no Rīki &gt; Privātā pārlūkošana.">
 <!ENTITY privatebrowsingpage.footerDesc                "Lai veicas!">

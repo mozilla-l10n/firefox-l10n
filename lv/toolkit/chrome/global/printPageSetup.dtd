@@ -7,17 +7,22 @@
 <!ENTITY formatGroup.label "Formāts">
 
 <!ENTITY orientation.label "Novietojums:">
-<!ENTITY portrait "Portrets">
-<!ENTITY landscape "Ainava">
+<!ENTITY portrait.label      "Portrets">
+<!ENTITY portrait.accesskey  "P">
+<!ENTITY landscape.label     "Ainava">
+<!ENTITY landscape.accesskey "A">
 
 <!ENTITY scale.label "Mērogs:">
+<!ENTITY scale.accesskey     "M">
 <!ENTITY scalePercent "&#037;">
 
 <!ENTITY shrinkToFit.label "Saspiest, lai ietilptu lapā">
+<!ENTITY shrinkToFit.accesskey "l">
 
 <!ENTITY optionsGroup.label "Iestatījumi">
 
 <!ENTITY printBG.label "Drukāt fonu (krāsas un attēlus)">
+<!ENTITY printBG.accesskey   "f">
 
 <!ENTITY advanced.tab "Malas un galvene/kājene">
 
@@ -28,6 +33,10 @@
 <!ENTITY marginBottom.label "Apakšā:">
 <!ENTITY marginLeft.label "Kreisā:">
 <!ENTITY marginRight.label "Labā:">
+<!ENTITY marginTop.accesskey "A">
+<!ENTITY marginBottom.accesskey "p">
+<!ENTITY marginLeft.accesskey "K">
+<!ENTITY marginRight.accesskey "L">
 
 <!ENTITY headerFooter.label "Galvenes un kājenes">
 
