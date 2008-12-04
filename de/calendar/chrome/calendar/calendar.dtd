@@ -121,10 +121,10 @@
 <!ENTITY calendar.publish.button.label             "Publizieren">
 <!ENTITY calendar.unifinder.button.label           "Termine suchen">
 
-<!ENTITY calendar.day.button.label                  "Tagesansicht">
-<!ENTITY calendar.week.button.label                 "Wochenansicht">
-<!ENTITY calendar.month.button.label                "Monatsansicht">
-<!ENTITY calendar.multiweek.button.label            "Mehrwöchige Ansicht">
+<!ENTITY calendar.day.button.label                  "Tag">
+<!ENTITY calendar.week.button.label                 "Woche">
+<!ENTITY calendar.month.button.label                "Monat">
+<!ENTITY calendar.multiweek.button.label            "Mehrere Wochen">
 <!ENTITY calendar.onlyworkday.checkbox.label        "Nur Werktage">
 <!ENTITY calendar.onlyworkday.checkbox.accesskey    "N">
 <!ENTITY calendar.displaytodos.checkbox.label       "Aufgaben in der Ansicht">
