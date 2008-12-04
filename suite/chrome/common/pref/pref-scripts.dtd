@@ -48,3 +48,7 @@
 <!ENTITY allowHideStatusBar.label        "Nerodyti būsenos juostos">
 
 <!ENTITY enablePlugin.label              "Įjungti programų papildinius">
+
+<!ENTITY whenPluginsRequired.description "Prireikus neįdiegtų papildinių:">
+<!ENTITY displayNotification.label       "Rodyti informacijos juostą">
+<!ENTITY displayNotification.accesskey   "R">

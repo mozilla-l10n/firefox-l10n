@@ -85,8 +85,6 @@
 
 <!ENTITY menuitem.view.command.toolbar.label        "Mygtukų juosta">
 <!ENTITY menuitem.view.command.toolbar.accesskey    "M">
-<!ENTITY menuitem.view.command.searchbar.label      "Paieškos juosta">
-<!ENTITY menuitem.view.command.searchbar.accesskey  "š">
 <!ENTITY menuitem.view.show_columns.label           "Stulpeliai">
 <!ENTITY menuitem.view.show_columns.accesskey       "S">
 <!ENTITY menuitem.newbookmarkfolder.label           "Naujus adresus įtraukti į šį aplanką">
