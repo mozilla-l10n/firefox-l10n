@@ -10,3 +10,5 @@
 <!ENTITY paneAttachments.title   "Załączniki">
 <!ENTITY panePrivacy.title       "Prywatność">
 <!ENTITY paneAdvanced.title      "Zaawansowane">
+
+<!ENTITY cmdCloseMac.commandKey  "w">
