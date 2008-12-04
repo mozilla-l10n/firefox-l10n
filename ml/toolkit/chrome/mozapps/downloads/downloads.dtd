@@ -1,6 +1,6 @@
 <!-- ENTITY window.width "400" -->
 <!ENTITY window.height "300">
-<!ENTITY done.label "കഴിഞ്ഞിരിക്കുന്നു ">
+<!-- ENTITY done.label "കഴിഞ്ഞിരിക്കുന്നു " -->
 <!-- ENTITY canceled.label "റദ്ദാക്കിയിരിക്കുന്നു " -->
 <!-- ENTITY installing.label "ഇന്‍സ്റ്റോള്‍ ചെയ്തുകൊണ്ടിരിക്കുന്നു" -->
 <!ENTITY starting.label "തുടങ്ങുന്നു">
