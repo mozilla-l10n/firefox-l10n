@@ -42,3 +42,5 @@
 <!ENTITY paneAttachments.title    "Laiškų priedai">
 <!ENTITY panePrivacy.title        "Privatumas">
 <!ENTITY paneAdvanced.title       "Kitkas">
+
+<!ENTITY cmdCloseMac.commandKey   "w">
