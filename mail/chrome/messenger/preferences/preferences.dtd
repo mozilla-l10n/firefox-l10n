@@ -11,3 +11,5 @@
 <!ENTITY paneAttachments.title    "Bijlagen">
 <!ENTITY panePrivacy.title        "Privacy">
 <!ENTITY paneAdvanced.title       "Geavanceerd">
+
+<!ENTITY cmdCloseMac.commandKey   "w">
