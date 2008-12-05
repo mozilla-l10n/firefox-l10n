@@ -81,8 +81,6 @@
 <!ENTITY command.sortFolderByName.accesskey "э">
 <!ENTITY menuitem.view.command.toolbar.label "Панель инструментов">
 <!ENTITY menuitem.view.command.toolbar.accesskey "П">
-<!ENTITY menuitem.view.command.searchbar.label "Панель поиска">
-<!ENTITY menuitem.view.command.searchbar.accesskey "а">
 <!ENTITY menuitem.view.show_columns.label "Показать колонки">
 <!ENTITY menuitem.view.show_columns.accesskey "к">
 <!ENTITY menuitem.newbookmarkfolder.label "Сделать папкой новых закладок">

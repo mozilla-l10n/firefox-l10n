@@ -5,3 +5,4 @@
 <!ENTITY aboutLink.accesskey "О">
 <!ENTITY aboutVersion "версия">
 <!ENTITY copyrightText "©1998–2008 Участники проекта. Все права защищены. Mozilla Thunderbird и логотипы Thunderbird являются торговыми марками Mozilla Foundation. Все права защищены.">
+<!ENTITY cmdCloseMac.commandKey "w">
