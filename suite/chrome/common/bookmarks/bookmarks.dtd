@@ -84,8 +84,6 @@
 
 <!ENTITY menuitem.view.command.toolbar.label       "Werkbalk">
 <!ENTITY menuitem.view.command.toolbar.accesskey   "W">
-<!ENTITY menuitem.view.command.searchbar.label     "Zoekbalk">
-<!ENTITY menuitem.view.command.searchbar.accesskey "Z">
 <!ENTITY menuitem.view.show_columns.label          "Kolommen tonen">
 <!ENTITY menuitem.view.show_columns.accesskey      "K">
 <!ENTITY menuitem.newbookmarkfolder.label          "Instellen als nieuwe bladwijzermap">
