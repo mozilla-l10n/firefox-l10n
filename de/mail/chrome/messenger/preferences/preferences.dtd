@@ -11,3 +11,5 @@
 <!ENTITY paneAttachments.title    "Anhänge">
 <!ENTITY panePrivacy.title        "Datenschutz">
 <!ENTITY paneAdvanced.title       "Erweitert">
+
+<!ENTITY cmdCloseMac.commandKey   "w">
