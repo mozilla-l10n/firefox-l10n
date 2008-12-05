@@ -1,9 +1,9 @@
-<!ENTITY matchAll.label         "spełniające wszystkie poniższe kryteria:">
-<!ENTITY matchAll.accesskey     "a">
-<!ENTITY matchAny.label         "spełniające dowolne poniższe kryteria:">
-<!ENTITY matchAny.accesskey     "l">
-<!ENTITY matchAllMsgs.label     "wszystkich wiadomości">
-<!ENTITY matchAllMsgs.accesskey "w">
+<!ENTITY matchAll.label         "do wiadomości spełniających wszystkie kryteria:">
+<!ENTITY matchAll.accesskey     "d">
+<!ENTITY matchAny.label         "do wiadomości spełniających dowolne kryteria:">
+<!ENTITY matchAny.accesskey     "o">
+<!ENTITY matchAllMsgs.label     "do wszystkich wiadomości">
+<!ENTITY matchAllMsgs.accesskey "a">
 
 <!-- LOCALIZATION NOTE
   The values below are used to control the widths of the search widgets.
