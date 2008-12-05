@@ -9,3 +9,4 @@
 <!ENTITY paneAttachments.title "Adjuntos">
 <!ENTITY panePrivacy.title "Privacidad">
 <!ENTITY paneAdvanced.title "Avanzado">
+<!ENTITY cmdCloseMac.commandKey "w">

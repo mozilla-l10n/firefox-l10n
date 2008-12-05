@@ -81,8 +81,6 @@
 <!ENTITY command.sortFolderByName.accesskey "N">
 <!ENTITY menuitem.view.command.toolbar.label "Barra de herramientas">
 <!ENTITY menuitem.view.command.toolbar.accesskey "t">
-<!ENTITY menuitem.view.command.searchbar.label "Barra de búsquedas">
-<!ENTITY menuitem.view.command.searchbar.accesskey "S">
 <!ENTITY menuitem.view.show_columns.label "Mostrar columnas">
 <!ENTITY menuitem.view.show_columns.accesskey "c">
 <!ENTITY menuitem.newbookmarkfolder.label "Definir como nueva carpeta de marcadores">
