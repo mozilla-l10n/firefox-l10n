@@ -37,7 +37,6 @@
 
 <!ENTITY Window.title        "目錄">
 <!ENTITY buildToc.label      "由此來源建立表格:">
-<!ENTITY style.label         "樣式:">
 <!ENTITY tag.label           "Tag:">
 <!ENTITY class.label         "Class:">
 <!ENTITY header1.label       "第 1 級">

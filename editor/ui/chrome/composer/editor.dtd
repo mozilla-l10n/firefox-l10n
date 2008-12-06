@@ -55,11 +55,3 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "格式">
 <!ENTITY formatMenu.accesskey "o">
-
-<!ENTITY helpMenu.label "說明">
-<!ENTITY aboutCmd.label "關於">
-
-<!-- Display Mode Toolbar -->
-<!ENTITY editMode.label "編輯模式:">
-
-<!ENTITY statusText.label "文件載入完成">

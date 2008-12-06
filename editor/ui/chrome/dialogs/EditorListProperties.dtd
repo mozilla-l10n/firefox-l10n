@@ -47,7 +47,6 @@
 <!ENTITY bulletList.value "符號式(無編號, DL)">
 <!ENTITY numberList.value "編號式(OL)">
 <!ENTITY definitionList.value "定義式(DL)">
-<!ENTITY changeListMsg.label "當改變清單型態時:">
 <!ENTITY changeEntireListRadio.label "改變整個清單">
 <!ENTITY changeEntireListRadio.accessKey "C">
 <!ENTITY changeSelectedRadio.label "只改變所選的項目">

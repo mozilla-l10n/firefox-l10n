@@ -69,7 +69,6 @@
 <!ENTITY tableCaptionNone.label           "無">
 <!ENTITY tableInheritColor.label           "(使用頁面顏色)">
 
-<!ENTITY cellPercent.label                "％">
 <!ENTITY cellSelection.label              "選取">
 <!ENTITY cellSelectCell.label             "資料格">
 <!ENTITY cellSelectRow.label              "列數">
@@ -78,11 +77,7 @@
 <!ENTITY cellSelectNext.accessKey         "N">
 <!ENTITY cellSelectPrevious.label         "前一個">
 <!ENTITY cellSelectPrevious.accessKey     "P">
-<!ENTITY cellApplyBeforeMove.label        "在改變選取中儲存格前套用所改設定">
-<!ENTITY cellKeepCurrentData.label        "保留目前設定">
 <!ENTITY applyBeforeChange.label          "更改的設定會在改變選取儲存格前先行套用。">
-<!ENTITY cellRowSpan.label                "跨行:">
-<!ENTITY cellColSpan.label                "跨欄:">
 <!ENTITY cellContentAlignment.label       "內容對齊格子方式">
 <!ENTITY cellHorizontal.label             "水平:">
 <!ENTITY cellHorizontal.accessKey         "Z">
@@ -100,7 +95,6 @@
 <!ENTITY cellAlignMiddle.label            "中間">
 <!ENTITY cellAlignBottom.label            "底部">
 <!ENTITY cellAlignJustify.label           "左右對齊">
-<!ENTITY cellAlignAtChar.label            "在字元:">
 <!ENTITY cellInheritColor.label           "(使用表格顏色)">
 <!ENTITY cellUseCheckboxHelp.label        "選取核對方塊(checkbox)以決定哪些設定要套用到所有儲存格上">
 

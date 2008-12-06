@@ -41,7 +41,6 @@
 <!ENTITY windowTitle.label "圖片屬性">
 
 <!ENTITY pixelsPopup.value "像素">
-<!ENTITY percentPopup.value "百分比">
 
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "圖片位址 (URL):">
@@ -57,7 +56,6 @@
 <!ENTITY noAltText.accessKey "D">
 
 <!ENTITY previewBox.label "圖片預覽">
-<!ENTITY MoreFewerButton.tooltip "顯示更多或較少的屬性">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
@@ -93,7 +91,6 @@
 
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "空白">
-<!ENTITY spacingBox.tooltip "輸入此圖片週圍的空白數量">
 <!ENTITY leftRightEditField.label "左右兩邊">
 <!ENTITY leftRightEditField.accessKey "L">
 <!ENTITY topBottomEditField.label "頂端和底部:">
@@ -104,12 +101,6 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "在鏈結圖片外加框">
 <!ENTITY showImageLinkBorder.accessKey "B">
-
-<!-- These controls may be added some day; currently not used -->
-<!ENTITY makePageBackgroundCheckbox.label "設定為頁面背景">
-<!ENTITY makePageBackgroundCheckbox.tooltip "設定頁面背景為此圖片">
-<!ENTITY editImageButton.label "編輯圖片">
-<!ENTITY editImageButton.tooltip "用其它程式編輯圖片">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "表單">

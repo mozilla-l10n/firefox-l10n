@@ -82,7 +82,6 @@
 
 <!ENTITY zoominCmd.label "放大">
 <!ENTITY zoomoutCmd.label "縮小">
-<!ENTITY delSpotCmd.label "刪除 Hotsopt">
 
 <!-- Keys -->
 <!ENTITY clear.key "d">
