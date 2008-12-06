@@ -6,3 +6,4 @@
 <!ENTITY aboutLink.label        "&lt; אודות &brandFullName;">
 <!ENTITY credits.accesskey      "א">
 
+<!ENTITY cmdCloseMac.commandKey "w">
