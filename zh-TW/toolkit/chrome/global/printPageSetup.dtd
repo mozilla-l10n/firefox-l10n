@@ -7,17 +7,22 @@
 <!ENTITY formatGroup.label   "格式">
 
 <!ENTITY orientation.label   "方向:">
-<!ENTITY portrait            "直式">
-<!ENTITY landscape           "橫式">
+<!ENTITY portrait.label      "直式">
+<!ENTITY portrait.accesskey  "P">
+<!ENTITY landscape.label     "橫式">
+<!ENTITY landscape.accesskey "L">
 
 <!ENTITY scale.label         "縮放:">
+<!ENTITY scale.accesskey     "S">
 <!ENTITY scalePercent        "&#037;">
 
 <!ENTITY shrinkToFit.label   "縮放以配合頁面寬度">
+<!ENTITY shrinkToFit.accesskey "W">
 
 <!ENTITY optionsGroup.label  "選項">
 
 <!ENTITY printBG.label       "列印背景 (顏色與圖片) ">
+<!ENTITY printBG.accesskey   "B">
 
 <!ENTITY advanced.tab        "邊界與標頭／註腳">
 
@@ -25,9 +30,13 @@
 <!ENTITY marginUnits.inches  "英吋">
 <!ENTITY marginUnits.metric  "公釐 (mm)">
 <!ENTITY marginTop.label     "頂端:">
+<!ENTITY marginTop.accesskey "T">
 <!ENTITY marginBottom.label  "底端:">
+<!ENTITY marginBottom.accesskey "B">
 <!ENTITY marginLeft.label    "左邊:">
+<!ENTITY marginLeft.accesskey "L">
 <!ENTITY marginRight.label   "右邊:">
+<!ENTITY marginRight.accesskey "R">
 
 <!ENTITY headerFooter.label  "標頭與註腳">
 

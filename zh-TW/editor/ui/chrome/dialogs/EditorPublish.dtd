@@ -35,14 +35,11 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-
 <!-- Window title -->
 <!ENTITY windowTitle.label            "發佈頁面">
 <!ENTITY windowTitleSettings.label    "發佈設定">
-
 <!ENTITY publishTab.label             "發佈">
 <!ENTITY settingsTab.label            "設定">
-
 <!ENTITY publishButton.label          "發佈">
 
 <!-- Publish Tab Panel -->
@@ -72,10 +69,8 @@
 <!ENTITY filename.accesskey           "F">
 <!ENTITY filename.tooltip             "輸入檔名，若為網頁請加上「.html」。">
 <!ENTITY filenameExample.label        "如: &quot;mypage.html&quot;">
-<!ENTITY relatedDocs.label            "其它要輸出的檔案">
 <!ENTITY setDefaultButton.label       "設為預設值">
 <!ENTITY setDefaultButton.accesskey   "D">
-<!ENTITY setDefSiteAndDir.label       "設定預設網站及目錄">
 <!ENTITY removeButton.label           "移除網站">
 <!ENTITY removeButton.accesskey       "R">
 

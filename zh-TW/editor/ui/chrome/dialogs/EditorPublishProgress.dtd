@@ -43,8 +43,6 @@
 
 <!ENTITY status.label          "發佈中...">
 <!ENTITY fileList.label        "發佈狀態">
-<!ENTITY statusHeader.label    "狀態">
-<!ENTITY filenameHeader.label  "檔案名稱">
 <!ENTITY succeeded.label       "成功">
 <!ENTITY failed.label          "失敗">
 

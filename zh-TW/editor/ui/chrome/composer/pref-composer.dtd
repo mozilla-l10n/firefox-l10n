@@ -4,20 +4,9 @@
 
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
 <!ENTITY  pref.composer.title           "設計師">
-
-<!ENTITY  saving                        "儲存中">
-<!ENTITY  AutoSaveCheck                 "自動儲存: 每">
-<!ENTITY  minText                       "分鐘">
-
-<!ENTITY  exterLegend.label             "外部編輯器">
-<!ENTITY  htmlSource                    "HTML 原始碼:">
-<!ENTITY  imageeditor                   "圖片:">
-<!ENTITY  chooseButton.label            "選擇">
-
 <!ENTITY  recentFiles.title             "最近開啟頁面">
 <!ENTITY  documentsInMenu.label         "最大列出頁數:">
 <!ENTITY  documentsInMenu.accesskey     "n">
-
 <!ENTITY  savingFiles.title             "要存檔或發佈網頁時">
 <!ENTITY  preserveExisting.label        "保留原始碼格式">
 <!ENTITY  preserveExisting.accesskey    "P">
@@ -26,10 +15,7 @@
 <!ENTITY  saveAssociatedFiles.accesskey "S">
 <!ENTITY  showPublishDialog.label       "發佈頁面前一律顯示發佈對話窗">
 <!ENTITY  showPublishDialog.accesskey   "A">
-
 <!ENTITY  composerEditing.label         "編輯">
-<!ENTITY  spellCheckInline.label        "即時拼字檢查">
-<!ENTITY  spellCheckInline.accesskey    "C">
 <!ENTITY  maintainStructure.label       "插入與刪除表格儲存格時維護表格樣式">
 <!ENTITY  maintainStructure.tooltip     "增刪資料時自動維護表格形狀">
 <!ENTITY  maintainStructure.accesskey   "M">
