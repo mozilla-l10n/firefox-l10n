@@ -60,7 +60,7 @@
 <!ENTITY modelMarkDeleted.label "Megjelölés töröltként">
 <!ENTITY modelMarkDeleted.accesskey "j">
 <!ENTITY modelDeleteImmediately.label "Törlés azonnal">
-<!ENTITY modelDeleteImmediately.accesskey "T">
+<!ENTITY modelDeleteImmediately.accesskey "t">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "A Beérkezett üzenetek mappa kitisztítása kilépéskor">
 <!ENTITY expungeOnExit.accesskey "K">

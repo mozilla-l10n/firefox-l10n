@@ -11,7 +11,7 @@
 <!ENTITY userName.label "Felhasználói név:">
 <!ENTITY userName.accesskey "f">
 <!ENTITY useSecAuth.label "Biztonságos kapcsolat (SSL) használata:">
-<!ENTITY useSecAuth.accesskey "B">
+<!ENTITY useSecAuth.accesskey "b">
 <!ENTITY isSecure.label "Biztonságos kapcsolat (SSL) használata:">
 <!ENTITY neverSecure.label "Soha">
 <!ENTITY neverSecure.accesskey "S">

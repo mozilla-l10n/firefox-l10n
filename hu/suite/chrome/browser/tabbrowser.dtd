@@ -14,4 +14,4 @@
 <!ENTITY closeTabButton.tooltip "Aktuális lap bezárása">
 <!ENTITY newTabButton.tooltip "Új böngészőlap megnyitása">
 <!ENTITY undoCloseTab.label "Lapbezárás visszavonása">
-<!ENTITY undoCloseTab.accesskey "v">
+<!ENTITY undoCloseTab.accesskey "V">

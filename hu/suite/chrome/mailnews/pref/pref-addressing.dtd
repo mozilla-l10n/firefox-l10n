@@ -50,6 +50,7 @@
 <!ENTITY autocompleteText.label "Üzenetek címzésekor egyezések keresése a következő helyeken:">
 <!ENTITY directories.label "Címtárkiszolgáló:">
 <!ENTITY directories.accesskey "C">
+<!ENTITY directoriesNone.label "Nincs">
 <!ENTITY editDirectories.label "Címtárak szerkesztése...">
 <!ENTITY editDirectories.accesskey "C">
 <!ENTITY matchText.label "Ha a helyi címjegyzékekben van egyező cím:">

@@ -6,6 +6,7 @@
 <!ENTITY removeall.label "Minden webhely eltávolítása">
 <!ENTITY removeall.accesskey "l">
 <!ENTITY address.label "Webhely:">
+<!ENTITY address.accesskey "W">
 <!ENTITY block.label "Tiltás">
 <!ENTITY block.accesskey "T">
 <!ENTITY session.label "Engedélyezés a munkamenetben">

@@ -44,7 +44,7 @@
 <!ENTITY newCard.label "Névjegykártya...">
 <!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->  
 <!ENTITY newCard.accesskey "C">
-<!ENTITY newListCmd.label "Mailing List…">
+<!ENTITY newListCmd.label "Levelezőlista...">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
 <!ENTITY newListCmd.accesskey "L">
 <!ENTITY newAddressBookCmd.label "Címjegyzék...">
@@ -95,16 +95,16 @@
 <!ENTITY firstLastCmd.accesskey "u">
 <!ENTITY lastFirstCmd.label "Vezetéknév, utónév">
 <!ENTITY lastFirstCmd.accesskey "v">
-<!ENTITY displayNameCmd.label "Display Name">
-<!ENTITY displayNameCmd.accesskey "d">
+<!ENTITY displayNameCmd.label "Megjelenítendő név">
+<!ENTITY displayNameCmd.accesskey "m">
 <!-- Tasks Menu -->
 
 <!ENTITY importCmd.label "Importálás...">
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY exportCmd.label "Exportálás...">
 <!ENTITY exportCmd.accesskey "E">
-<!ENTITY allowOnlineCheck.label "Check online presence (AOL)">
-<!ENTITY allowOnlineCheck.accesskey "C">
+<!ENTITY allowOnlineCheck.label "Online jelenlét ellenőrzése (AOL)">
+<!ENTITY allowOnlineCheck.accesskey "A">
 
 <!ENTITY stopSearchingCmd.label ".Keresés megállítása">
 <!-- Toolbar and Popup items -->  

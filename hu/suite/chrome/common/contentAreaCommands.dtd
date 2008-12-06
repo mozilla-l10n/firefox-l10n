@@ -1,8 +1,8 @@
 <!-- Context Menu -->
-<!ENTITY popupWindowRejectCmd.label "Megnyitás új ablakban">
-<!ENTITY popupWindowRejectCmd.accesskey "">
-<!ENTITY popupWindowAllowCmd.label "Megnyitás új ablakban">
-<!ENTITY popupWindowAllowCmd.accesskey "">
+<!ENTITY popupWindowRejectCmd.label "Felugró ablakok visszautasítása erről a webhelyről">
+<!ENTITY popupWindowRejectCmd.accesskey "v">
+<!ENTITY popupWindowAllowCmd.label "Felugró ablakok engedélyezése erről a webhelyről">
+<!ENTITY popupWindowAllowCmd.accesskey "e">
 <!ENTITY openLinkCmd.label "Megnyitás új ablakban">
 <!ENTITY openLinkCmd.accesskey "A">
 <!ENTITY openLinkCmdInTab.label "Megnyitás új lapon">
@@ -15,12 +15,12 @@
 <!ENTITY openFrameCmdInTab.accesskey "L">
 <!ENTITY showOnlyThisFrameCmd.label "Csak az aktuális keret megjelenítése">
 <!ENTITY showOnlyThisFrameCmd.accesskey "C">
-<!ENTITY addToBookmarksCmd.label "Vissza">
-<!ENTITY addToBookmarksCmd.accesskey "V">
+<!ENTITY addToBookmarksCmd.label "Oldal hozzáadása a könyvjelzőkhöz">
+<!ENTITY addToBookmarksCmd.accesskey "H">
 <!ENTITY goBackCmd.label "Vissza">
 <!ENTITY goBackCmd.accesskey "V">
-<!ENTITY goForwardCmd.label "Fel">
-<!ENTITY goForwardCmd.accesskey "F">
+<!ENTITY goForwardCmd.label "Előre">
+<!ENTITY goForwardCmd.accesskey "E">
 <!ENTITY goUpCmd.label "Fel">
 <!ENTITY goUpCmd.accesskey "F">
 <!ENTITY reloadCmd.label "Frissítés">
@@ -61,15 +61,19 @@
 <!ENTITY savePageCmd.label "Oldal mentése">
 <!ENTITY savePageCmd.accesskey "m">
 <!ENTITY savePageCmd.commandkey "s">
-<!ENTITY saveFrameAsCmd.label "Save Frame As…">
+<!ENTITY saveFrameAsCmd.label "Keret mentése más néven...">
 <!ENTITY saveFrameCmd.label "Keret mentése">
 <!ENTITY saveFrameCmd.accesskey "m">
-<!ENTITY saveLinkAsCmd.label "Save Link Target As…">
+<!ENTITY saveLinkAsCmd.label "Hivatkozás mentése más néven...">
 <!ENTITY saveLinkCmd.label "Hivatkozás mentése">
 <!ENTITY saveLinkCmd.accesskey "n">
-<!ENTITY saveImageAsCmd.label "Save Image As…">
+<!ENTITY saveImageAsCmd.label "Kép mentése más néven...">
 <!ENTITY saveImageCmd.label "Kép mentése">
 <!ENTITY saveImageCmd.accesskey "p">
+<!ENTITY saveVideoCmd.label           "Video mentése más néven…">
+<!ENTITY saveVideoCmd.accesskey       "e">
+<!ENTITY saveAudioCmd.label           "Hang mentése más néven…">
+<!ENTITY saveAudioCmd.accesskey       "a">
 <!ENTITY copyCmd.label "Másolás">
 <!ENTITY copyCmd.accesskey "M">
 <!ENTITY selectAllCmd.label "Mindet kijelöli">
@@ -78,6 +82,10 @@
 <!ENTITY copyLinkCmd.accesskey "S">
 <!ENTITY copyImageCmd.label "Kép másolása">
 <!ENTITY copyImageCmd.accesskey "l">
+<!ENTITY copyVideoURLCmd.label        "Video helyének másolása">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Hang helyének másolása">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY metadataCmd.label "Tulajdonságok">
 <!ENTITY metadataCmd.accesskey "T">
 <!ENTITY copyEmailCmd.label "E-mail cím másolása">
@@ -94,6 +102,18 @@
 <!ENTITY redoCmd.accesskey "R">
 <!ENTITY thisFrameMenu.label "Ez a keret">
 <!ENTITY thisFrameMenu.accesskey "z">
+<!ENTITY mediaPlay.label              "Lejátszás">
+<!ENTITY mediaPlay.accesskey          "L">
+<!ENTITY mediaPause.label             "Szünet">
+<!ENTITY mediaPause.accesskey         "S">
+<!ENTITY mediaMute.label              "Némítás">
+<!ENTITY mediaMute.accesskey          "N">
+<!ENTITY mediaUnmute.label            "Hallgatás">
+<!ENTITY mediaUnmute.accesskey        "H">
+<!ENTITY mediaShowControls.label      "Kezelőszervek megjelenítése">
+<!ENTITY mediaShowControls.accesskey  "m">
+<!ENTITY mediaHideControls.label      "Kezelőszervek elrejtése">
+<!ENTITY mediaHideControls.accesskey  "e">
 <!ENTITY search.accesskey "W">
 <!ENTITY bidiSwitchPageDirectionItem.label "Oldal irányának átváltása">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "l">
@@ -102,11 +122,11 @@
 <!ENTITY spellAddToDictionary.label "Hozzáadás a szótárhoz">
 <!ENTITY spellAddToDictionary.accesskey "h">
 <!ENTITY spellIgnoreWord.label "Szó kihagyása">
-<!ENTITY spellIgnoreWord.accesskey "k">
-<!ENTITY spellCheckEnable.label "H">
-<!ENTITY spellCheckEnable.accesskey "S">
+<!ENTITY spellIgnoreWord.accesskey "K">
+<!ENTITY spellCheckEnable.label "Helyesírás-ellenőrzés">
+<!ENTITY spellCheckEnable.accesskey "H">
 <!ENTITY spellNoSuggestions.label "(nincs javaslat)">
 <!ENTITY spellDictionaries.label "Nyelvek">
 <!ENTITY spellDictionaries.accesskey "N">
-<!ENTITY spellAddDictionaries.label "Download More Dictionaries…">
-<!ENTITY spellAddDictionaries.accesskey "D">
+<!ENTITY spellAddDictionaries.label "További szótárak letöltése...">
+<!ENTITY spellAddDictionaries.accesskey "T">

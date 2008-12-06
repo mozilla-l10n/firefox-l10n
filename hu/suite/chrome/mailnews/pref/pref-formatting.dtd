@@ -20,6 +20,7 @@
  the Initial Developer. All Rights Reserved.
 
  Contributor(s):
+   Ian Neal <iann_bugzilla@blueyonder.co.uk>
 
  Alternatively, the contents of this file may be used under the terms of
  either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -41,9 +42,9 @@
 <!ENTITY askMe.label "Kérdezzen rá, hogy mi a teendő (A levelező kéri majd a formátum kiválasztását)">
 <!ENTITY askMe.accesskey "k">
 <!ENTITY convertPlain.label "Konvertálás szöveges üzenetté (a formázások elvesznek)">
-<!ENTITY convertPlain.accesskey "z">
+<!ENTITY convertPlain.accesskey "Z">
 <!ENTITY sendHTML.label "Üzenet küldése formázott szövegként (néhány levelezőprogram nem képes megjeleníteni)">
-<!ENTITY sendHTML.accesskey "k">
+<!ENTITY sendHTML.accesskey "K">
 <!ENTITY sendBoth.label "Üzenet küldése mind normál szövegként, mind formázott szövegként (nagyobb üzenetméretet eredményez)">
 <!ENTITY sendBoth.accesskey "l">
 <!ENTITY override.label "Felülbírálhatja ezeket a beállításokat minden egyes üzenet esetén az üzenet írása közben a Beállítások menüben.">
@@ -55,25 +56,20 @@
 <!ENTITY HTMLdomaintitle.label "HTML szöveget kérő tartományok">
 <!ENTITY HTMLdomaintitle.accesskey "E">
 <!ENTITY PlainTexttitle.label "Normál szöveget kérő tartományok">
-<!ENTITY PlainTexttitle.accesskey "e">
+<!ENTITY PlainTexttitle.accesskey "E">
 <!ENTITY AddButton.label "Hozzáadás...">
 <!ENTITY AddHtmlDomain.accesskey "H">
 <!ENTITY AddPlainText.accesskey "o">
 <!ENTITY DeleteButton.label "Törlés">
 <!ENTITY DeleteHtmlDomain.accesskey "T">
 <!ENTITY DeletePlainText.accesskey "r">
-<!-- Add HTML Domain Name -->
+<!-- Add Domain Name -->
 
 <!ENTITY add.htmltitle "HTML-levelet fogadni képes tartomány felvétele">
 <!ENTITY add.htmldomain "HTML-levelet fogadni képes tartományok:">
-<!ENTITY add.htmldomain.accesskey "t">
 <!ENTITY add.plaintexttitle "Normál szöveget kérő tartomány felvétele">
 <!ENTITY add.plaintextdomain "Normál szöveget kérő tartományok:">
-<!ENTITY add.plaintext.accesskey "a">
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
 
 <!ENTITY domainnameError.title "Hibás tartománynév">
-<!ENTITY duplicationError.label "@string@ nevű tartomány már szerepel ebben a listában.">
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
-
-<!ENTITY dualEntryError.label "Egy tartománynév nem lehet felsorolva a HTML és a normál szöveg listában is. @string@ nevű tartomány már létezik.">
+<!ENTITY invalidEntryError.label "@string@ tartománynév érvénytelen és figyelmen kívül lesz hagyva. Az érvényes tartománynevek legalább egy pontot (.) tartalmaznak amely karakterekkel vannak körülvéve.">

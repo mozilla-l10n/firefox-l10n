@@ -1,0 +1,20 @@
+<!ENTITY newsblogTitle.label "RSS-fiók beállításai">
+
+<!ENTITY biffStart.label "Új cikkek ellenőrzése ">
+<!ENTITY biffStart.accesskey "k">
+<!ENTITY biffEnd.label "percenként">
+
+<!ENTITY loginAtStartup.label "Új cikkek keresése indításkor"> 
+<!ENTITY loginAtStartup.accesskey "e">
+
+<!ENTITY useQuickMode.label "A cikk összefoglalójának megjelenítése a weboldal letöltése helyett"> 
+<!ENTITY useQuickMode.accesskey "A">
+
+<!ENTITY manageSubscriptions.label "Feliratkozások kezelése..."> 
+<!ENTITY manageSubscriptions.accesskey "F">
+
+<!-- entities from defaults/isp/rss.rdf -->
+<!ENTITY rss.accountName            "Hirek es blogok">
+<!ENTITY rss.wizardShortName        "RSS">  
+<!ENTITY rss.wizardLongName         "Hírek és blogok RSS-ben">
+<!ENTITY rss.wizardLongName.accesskey "R">

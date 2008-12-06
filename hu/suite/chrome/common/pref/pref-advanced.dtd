@@ -10,3 +10,7 @@
 <!ENTITY systemPrefCheck.label "Rendszerbeállítások használata">
 <!ENTITY systemPrefCheck.accesskey "R">
 <!ENTITY systemPref.desc "Ha bejelöli ezt a négyzetet, akkor a rendszerbeállítások lesznek használva. A rendszerbeállítások felülbírálják a &brandShortName; beállításait.">
+
+<!ENTITY prefCheckDefault.caption "Rendszer alapbeállításai">
+<!ENTITY prefCheckDefaultClient.label "Alapértelmezett programok beállításának ellenőrzése inuláskor">
+<!ENTITY prefCheckDefaultClient.accesskey "A">

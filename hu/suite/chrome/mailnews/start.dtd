@@ -40,8 +40,9 @@
 <!ENTITY headline.label 'Üdvözli a <a href="&vendorURL;">&brandShortName;</a> Levelező és hírolvasó!'>
 <!ENTITY description.label "A &brandShortName; Levelező és hírolvasó egy hatékony, nyílt forráskódú levelező és hírolvasó, amely fejlett levélszemétszűrőt és egyéb hasznos funkciókat is tartalmaz.">
 <!ENTITY features.title "Funkciók">
-<!ENTITY feat_multiacc.label "több postafiók támogatása">
-<!ENTITY feat_junk.label "levélszemét-azonosítás">
+<!ENTITY feat_multiacc.label "Több postafiók támogatása">
+<!ENTITY feat_junk.label "Levélszemét-azonosítás">
+<!ENTITY feat_rss.label "RSS hírforrás-olvasó">
 <!ENTITY feat_filters.label "Üzenetszűrők">
 <!ENTITY feat_htmlmsg.label "HTML-üzenetek támogatása">
 <!ENTITY feat_abook.label "Címjegyzék">

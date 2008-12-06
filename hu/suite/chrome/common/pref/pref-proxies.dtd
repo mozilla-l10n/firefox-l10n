@@ -6,6 +6,8 @@
 <!ENTITY proxyTitle.label "Proxy beállítása az internet eléréséhez">
 <!ENTITY directTypeRadio.label "Közvetlen internetkapcsolat">
 <!ENTITY directTypeRadio.accesskey "K">
+<!ENTITY systemTypeRadio.label "Rendszerbeállítások használata">
+<!ENTITY systemTypeRadio.accesskey "R">
 <!ENTITY manualTypeRadio.label "Kézi proxybeállítás:">
 <!ENTITY manualTypeRadio.accesskey "Z">
 <!ENTITY wpadTypeRadio.label "Proxybeállítások automatikus felfedezése">
@@ -17,7 +19,7 @@
 <!ENTITY http.label "Proxy:">
 <!ENTITY http.accesskey "P">
 <!ENTITY port.label "Port:">
-<!ENTITY HTTPport.accesskey "o">
+<!ENTITY HTTPPort.accesskey "o">
 <!ENTITY advanced.label "Haladó...">
 <!ENTITY advanced.accesskey "a">
 <!ENTITY noproxy.label "Nincs proxy a következőhöz:">
