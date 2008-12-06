@@ -6,8 +6,8 @@
 <!ENTITY privatebrowsingpage.longDesc                  "No history will be recorded by &brandShortName; during this browsing session.  This includes browser history, search history, download history, web form history, cookies, and temporary internet files.  However, any files you download or bookmarks you create will be preserved.">
 
 <!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "ਤੁਸੀਂ ਆਪਣੀ ਤਾਜ਼ਾ ਅਤੀਤ ਨੂੰ ਵੀ ਸਾਫ਼ ਕਰਨਾ ਚਾਹੋਗੇ।">
-<!ENTITY privatebrowsingpage.recentHistory.label       "ਤਾਜ਼ਾ ਅਤੀਤ ਸਾਫ਼ ਕਰੋ">
-<!ENTITY privatebrowsingpage.recentHistory.accesskey   "C">
+<!ENTITY privatebrowsingpage.clearRecentHistory.label  "Clear Recent History…">
+<!ENTITY privatebrowsingpage.clearRecentHistory.accesskey "C">
 
 <!ENTITY privatebrowsingpage.howToStopDesc             "To stop private browsing, uncheck Tools &gt; Private Browsing.">
 <!ENTITY privatebrowsingpage.footerDesc                "ਮੌਜ਼ਾਂ ਲੁੱਟੋ!">
