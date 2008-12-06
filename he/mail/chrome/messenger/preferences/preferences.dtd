@@ -12,3 +12,5 @@
 <!ENTITY paneAttachments.title "נספחים">
 <!ENTITY panePrivacy.title "פרטיות">
 <!ENTITY paneAdvanced.title "מתקדם">
+
+<!ENTITY cmdCloseMac.commandKey   "w">
