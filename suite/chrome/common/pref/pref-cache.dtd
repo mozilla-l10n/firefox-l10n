@@ -1,6 +1,6 @@
-﻿<!-- extracted from content/pref-cache.xul -->
-
+<!-- extracted from content/pref-cache.xul -->
 <!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
+
 <!ENTITY pref.cache.title "Gyorsítótár">
 <!ENTITY pref.cache.caption "Gyorsítótár mérete">
 <!ENTITY cachePara "A gyorsítótár a gyakran látogatott weboldalakról tart egy másolatot a lemezen. Ez csökkenti az internetkapcsolat idejét. (Az oldal legfrissebb változata a 'Frissítés' gombbal tölthető be.)">

@@ -1,12 +1,12 @@
 <!-- extracted from content/pref-scripts.xul -->
-<!--LOCALIZATION NOTE : FILE The 'Scripts & Plug-ins' preferences dialog -->
 
+<!--LOCALIZATION NOTE : FILE The 'Scripts & Plug-ins' preferences dialog -->
 <!ENTITY pref.scripts.title "Parancsfájlok és bővítmények">
 
 <!ENTITY navigator.label "Böngésző">
 <!ENTITY navigator.accesskey "B">
-<!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
 
+<!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
 <!ENTITY enableJavaScript.label "JavaScript engedélyezése">
 <!ENTITY allowScripts.label "A parancsfájlok számára engedélyezett:">
 <!ENTITY allowScripts.accesskey "p">
@@ -18,3 +18,7 @@
 <!ENTITY allowHideStatusBar.label "Állapotsor elrejtése">
 
 <!ENTITY enablePlugin.label "Bővítmények engedélyezése">
+
+<!ENTITY whenPluginsRequired.description "Ha a tartalom mehjelenítéséhez további bővítmény telepítése szükséges:">
+<!ENTITY displayNotification.label      "Értesítés megjelenítése az ablak tetején">
+<!ENTITY displayNotification.accesskey  "m">

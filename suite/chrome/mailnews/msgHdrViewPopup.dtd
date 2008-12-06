@@ -44,8 +44,8 @@
 <!ENTITY CopyEmailAddress.accesskey "E">
 <!ENTITY CreateFilterFrom.label "Szűrő létrehozása...">
 <!ENTITY CreateFilterFrom.accesskey "S">
-<!ENTITY BlockAddress.label "Cím blokkolása">
-<!ENTITY BlockAddress.accesskey "B">
+<!ENTITY copyLinkCmd.label                 "Hivatkozás címének másolása">
+<!ENTITY copyLinkCmd.accesskey             "v">
 <!ENTITY CopyMessageId.label "Üzenetazonosító másolása">
 <!ENTITY OpenMessageForMsgId.label "Üzenetazonosítóhoz tartozó üzenet megnyitása">
 <!ENTITY OpenBrowserWithMsgId.label "Üzenetazonosítóhoz tartozó üzenet böngészése">

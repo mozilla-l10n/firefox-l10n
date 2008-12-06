@@ -4,7 +4,7 @@
 <!ENTITY navigatorCmd.commandkey "1">
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
 <!ENTITY editorCmd.label "Composer">
-<!ENTITY editorCmd.accesskey "S">
+<!ENTITY editorCmd.accesskey "c">
 <!ENTITY editorCmd.commandkey "4">
 
 <!ENTITY securityInfoCmd.label ".Biztonság">
@@ -35,7 +35,7 @@
 <!ENTITY downloadManagerCmd.label "Letöltéskezelő">
 <!ENTITY downloadManagerCmd.accesskey "L">
 
-<!ENTITY addonsManagerCmd.label "Kiegészítők">
+<!ENTITY addonsManagerCmd.label "Kiegészők">
 <!ENTITY addonsManagerCmd.accesskey "K">
 
 <!ENTITY switchProfileCmd.label "Profilváltás…">

@@ -9,11 +9,15 @@
 <!ENTITY sendPage.accesskey "O">
 
 <!ENTITY contextSendThisPage.label "Oldal küldése...">
-<!ENTITY contextSendThisPage.accesskey "O">
+<!ENTITY contextSendThisPage.accesskey "o">
 <!ENTITY contextSendThisLink.label "Hiperhivatkozás küldése...">
-<!ENTITY contextSendThisLink.accesskey "H">
+<!ENTITY contextSendThisLink.accesskey "h">
 <!ENTITY contextSendImage.label "Kép küldése...">
-<!ENTITY contextSendImage.accesskey "k">
+<!ENTITY contextSendImage.accesskey "p">
+<!ENTITY contextSendVideo.label          "Video küldése…">
+<!ENTITY contextSendVideo.accesskey      "i">
+<!ENTITY contextSendAudio.label          "Hang küldése…">
+<!ENTITY contextSendAudio.accesskey      "g">
 <!ENTITY contextSendFrame.label "Keret küldése...">
 <!ENTITY contextSendFrame.accesskey "k">
 

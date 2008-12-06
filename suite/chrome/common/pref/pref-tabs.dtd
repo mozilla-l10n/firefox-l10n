@@ -11,7 +11,7 @@
 <!ENTITY loadGroupReplace.accesskey "M">
 <!ENTITY openTabs.label "Megnyitás új ablak helyett új lapon, ha a felhasználó">
 
-<!ENTITY newWindow.label "Hivatkozások megnyitása">
+<!ENTITY newWindow.label "Hibatkozások megnyitása">
 <!ENTITY newWindowDescription.label "Hivatkozások megnyitása új ablakban">
 <!ENTITY external.label "Más alkalmazásokból megnyitott hivatkozások">
 <!ENTITY externalDescription.label "Más alkalmazások által átadott hivatkozások megnyitása">

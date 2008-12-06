@@ -77,6 +77,8 @@
 <!ENTITY pac.accesskey "A">
 <!ENTITY wpad.label "Online (Proxy: automatikus felfedezés)">
 <!ENTITY wpad.accesskey "F">
+<!ENTITY system.label "Online (Proxy: rendszerbeállítások használata)">
+<!ENTITY system.accesskey "r">
 
 <!ENTITY proxy.label "Proxybeállítás...">
 <!ENTITY proxy.accesskey "P">
@@ -84,10 +86,25 @@
 <!ENTITY bidiSwitchTextDirectionItem.label "Szöveg irányának átváltása">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "z">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
-<!-- Popup Blocked notification menu -->
 
+<!ENTITY customizeToolbar.toolbarmode.label       "Eszköztár beállításai">
+<!ENTITY customizeToolbar.toolbarmode.accesskey   "b">
+<!ENTITY customizeToolbar.iconsAndText.label      "Ikonok és szöveg">
+<!ENTITY customizeToolbar.iconsAndText.accesskey  "s">
+<!ENTITY customizeToolbar.icons.label             "Csak ikonok">
+<!ENTITY customizeToolbar.icons.accesskey         "i">
+<!ENTITY customizeToolbar.text.label              "Csak szöveg">
+<!ENTITY customizeToolbar.text.accesskey          "z">
+<!ENTITY customizeToolbar.useSmallIcons.label     "Kis ikonok használata">
+<!ENTITY customizeToolbar.useSmallIcons.accesskey "K">
+<!ENTITY customizeToolbar.labelAlignEnd.label     "Szöveg az ikonok mellett">
+<!ENTITY customizeToolbar.labelAlignEnd.accesskey "m">
+<!ENTITY customizeToolbar.useDefault.label        "Alapértelmezés">
+<!ENTITY customizeToolbar.useDefault.accesskey    "A">
+
+<!-- Popup Blocked notification menu -->
 <!ENTITY allowPopups.accesskey "F">
 <!ENTITY showPopupManager.label "Felugró ablakok kezelése">
-<!ENTITY showPopupManager.accesskey "k">
+<!ENTITY showPopupManager.accesskey "K">
 <!ENTITY dontShowMessage.label "Ne jelenjen meg ez az üzenet a felugró ablakok blokkolásakor.">
 <!ENTITY dontShowMessage.accesskey "N">

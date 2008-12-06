@@ -67,7 +67,7 @@
 <!ENTITY highestPriorityCmd.label "Rendkívül sürgős">
 
 <!ENTITY contextDesc.label "Levélszűrő alkalmazása:">
-<!ENTITY contextDesc.accesskey "w">
+<!ENTITY contextDesc.accesskey "a">
 <!ENTITY contextIncoming.label "Üzenetek beérkezésekor">
 <!ENTITY contextManual.label "Kézi futtatáskor">
 <!ENTITY contextBoth.label "Levelek ellenőrzése vagy kézi futtatás">

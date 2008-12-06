@@ -4,7 +4,7 @@
 <!ENTITY level.accesskey "E">
 
 <!ENTITY move.label "A levélszemétként azonosított bejövő üzenetek áthelyezése:">
-<!ENTITY move.accesskey "t">
+<!ENTITY move.accesskey "T">
 <!ENTITY junkFolderOn.label "&quot;Szemét&quot; mappa:">
 <!ENTITY junkFolderOn.accesskey "S">
 <!ENTITY otherFolder.label "Másik:">

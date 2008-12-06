@@ -1,0 +1,10 @@
+<!ENTITY defaultClient.title  "Alapértelmezett alkalmazások">
+<!ENTITY defaultClient.intro  "Használja a &brandShortName; programot alapértelmezett alkalmazásként a következőkhöz:">
+
+<!ENTITY browser.label "Böngészés">
+<!ENTITY email.label "Levelezés">
+<!ENTITY newsgroups.label "Hírcsoportok">
+<!ENTITY rss.label "RSS hírforrások">
+
+<!ENTITY checkOnStartup.label "Mindig hajtsa végre ezt az ellenőrzést a &brandShortName; indításakor.">
+<!ENTITY checkOnStartup.accesskey "M">

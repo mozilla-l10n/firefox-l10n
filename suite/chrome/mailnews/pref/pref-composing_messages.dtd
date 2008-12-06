@@ -44,6 +44,8 @@
 <!ENTITY asAttachment.label "Mellékletként">
 <!ENTITY asAttachment.accesskey "M">
 
+<!ENTITY replyQuoteInline.label "Mellékletek beágyazott megtekintése a válaszokban">
+<!ENTITY replyQuoteInline.accesskey "b">
 <!ENTITY warnOnSendAccelKey.label "Jóváhagyás kérése gyorsbillentyűvel végzett levélküldéskor">
 <!ENTITY warnOnSendAccelKey.accesskey "j">
 <!-- LOCALIZATION NOTE (autoSave.label): This will concatenate with

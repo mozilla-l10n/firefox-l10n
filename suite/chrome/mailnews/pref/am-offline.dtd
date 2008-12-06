@@ -1,7 +1,7 @@
 <!ENTITY doNotDownloadPop3Movemail.label "A lemezterület megtakarítása érdekében nem töltődnek le:">
 <!ENTITY doNotDownload.label "A lemezterület megtakarítása érdekében nem töltődnek le kapcsolat nélküli munkához:">
-<!ENTITY offlineNewFolder.label "Az újonnan létrehozott mappák kijelölése kapcsolat nélküli munkához">
-<!ENTITY offlineNewFolder.accesskey "z">
+<!ENTITY allFoldersOffline.label "Postafiók üzenetek megtartása ezen a számítógépen.">
+<!ENTITY allFoldersOffline.accesskey "e">
 <!ENTITY offlineNotDownload.label "Üzenetek, melyek nagyobbak, mint">
 <!ENTITY offlineNotDownload.accesskey "E">
 <!ENTITY kb.label "KB">
@@ -25,10 +25,7 @@
 <!ENTITY nntpRemoveBody.accesskey "O">
 <!ENTITY offlineSelectNntp.label "Hírcsoportok kiválasztása kapcsolat nélküli munkához...">
 <!ENTITY offlineSelectNntp.accesskey "S">
-<!ENTITY offlineSelectImap.label "Mappák kiválasztása kapcsolat nélküli munkához...">
-<!ENTITY offlineSelectImap.accesskey "S">
-<!ENTITY offlineDesc.label "Letöltheti helyben az üzeneteit, így azok elérhetők lesznek kapcsolat nélküli munka esetén.">
-<!ENTITY makeInboxMsgsAvailable.label "A Bejövő üzenetek elérhetővé tétele kapcsolat nélküli munkához.">
-<!ENTITY makeInboxMsgsAvailable.accesskey "b">
-<!ENTITY offlineGroupTitle.label "Kapcsolat nélküli munka">
+<!ENTITY offlineImapAdvancedOffline.label "Haladó...">
+<!ENTITY offlineImapAdvancedOffline.accesskey "H">
+<!ENTITY syncGroupTitle.label "Üzenetek sziknronizálása">
 <!ENTITY diskspaceGroupTitle.label "Lemezterület">

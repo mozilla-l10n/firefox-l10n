@@ -13,6 +13,7 @@
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "Másik LDAP-kiszolgáló használata:">
 <!ENTITY directories.accesskey "m">
+<!ENTITY directoriesNone.label "Nincs">
 <!-- am-addressing.xul -->
 
 

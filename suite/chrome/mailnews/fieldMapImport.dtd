@@ -50,5 +50,5 @@
 <!ENTITY fieldMapImport.fieldListTitle "Címjegyzékmezők:">
 <!ENTITY fieldMapImport.dataTitle "Importálandó adatok:">
 <!ENTITY fieldMapImport.skipFirstRecord.label "Az első rekord mezőneveket tartalmaz">
-<!ENTITY fieldMapImport.skipFirstRecord.accessKey "e">
+<!ENTITY fieldMapImport.skipFirstRecord.accessKey "E">
 

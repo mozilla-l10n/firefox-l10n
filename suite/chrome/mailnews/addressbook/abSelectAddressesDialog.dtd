@@ -55,8 +55,6 @@
 <!ENTITY lookIn.accesskey "K">
 <!ENTITY for.label "keresés erre:">
 <!ENTITY for.accesskey "e">
-<!ENTITY clearButton.label "Törlés">
-<!ENTITY clearButton.accesskey "t">
 <!ENTITY addressMessageTo.label "Az üzenet címzettjei:">
 <!-- Tooltips items -->  
 

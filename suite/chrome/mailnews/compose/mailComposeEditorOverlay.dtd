@@ -1,5 +1,5 @@
-<!ENTITY attachImageSource.label "Attach this image to the message">
-<!ENTITY attachImageSource.accesskey "s">
+<!ENTITY attachImageSource.label "A kép csatolása az üzenethez">
+<!ENTITY attachImageSource.accesskey "k">
 
-<!ENTITY attachLinkSource.label "Attach the source of this link to the message">
-<!ENTITY attachLinkSource.accesskey "s">
+<!ENTITY attachLinkSource.label "A hivatkozás csatolása az üzenethez">
+<!ENTITY attachLinkSource.accesskey "h">

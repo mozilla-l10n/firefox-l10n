@@ -13,7 +13,7 @@
 <!ENTITY findAsYouTypeSound.label "Hangjelzés, ha a szöveg nem található">
 <!ENTITY findAsYouTypeSound.accesskey "H">
 <!ENTITY findAsYouTypeEnableAuto.label "Automatikus keresés egy weboldalon gépeléskor:">
-<!ENTITY findAsYouTypeEnableAuto.accesskey "a">
+<!ENTITY findAsYouTypeEnableAuto.accesskey "A">
 <!ENTITY findAsYouTypeAutoText.label "Az oldal teljes szövegében">
 <!ENTITY findAsYouTypeAutoText.accesskey "A">
 <!ENTITY findAsYouTypeAutoLinks.label "Csak a hivatkozásokban">

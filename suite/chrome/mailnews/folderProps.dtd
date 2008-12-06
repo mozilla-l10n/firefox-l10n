@@ -60,8 +60,8 @@
 <!ENTITY retentionDownloadMsg.label "Üzenetek, melyek régebbiek, mint">
 <!ENTITY retentionDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "Megtartás:">
-<!ENTITY retentionKeepMsg.label "Üzenetek, melyek az elmúlt">
-<!ENTITY retentionKeepMsg.accesskey "z">
+<!ENTITY retentionDeleteMsg.label "Üzenetek törlése, ha régebbiek, mint">
+<!ENTITY retentionDeleteMsg.accesskey "r">
 <!ENTITY retentionKeepAll.label "Minden üzenet">
 <!ENTITY retentionKeepAll.accesskey "M">
 <!ENTITY retentionKeepNew.label "A legújabb">

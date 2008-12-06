@@ -37,6 +37,6 @@
 
 <!ENTITY messageMarkByDate.label "Üzenetek olvasottságának beállítása dátum szerint">
 <!ENTITY markByDateLower.label "Üzenetek elolvasva:">
-<!ENTITY markByDateLower.accesskey "Z">
+<!ENTITY markByDateLower.accesskey "z">
 <!ENTITY markByDateUpper.accesskey "E">
 <!ENTITY markByDateUpper.label "Eddig:">

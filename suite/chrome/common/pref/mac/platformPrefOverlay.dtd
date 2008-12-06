@@ -8,7 +8,7 @@
 <!ENTITY prefWindow.size "width: 58em; height: 41em;">
 <!-- pref-tabs.xul -->
 
-<!ENTITY urlbar.label "#8984;+Return in the Location bar">
+<!ENTITY urlbar.label "#8984;+Return a Címmezőben">
 <!ENTITY urlbar.accesskey "#">
-<!ENTITY middleClick.label "Middle-click, &#8984;+click or &#8984;+Return on links in a Web page">
-<!ENTITY middleClick.accesskey "M">
+<!ENTITY middleClick.label "Középső kattintás, &#8984;+kattintás vagy &#8984;+Return a linkeken a weboldalon">
+<!ENTITY middleClick.accesskey "K">

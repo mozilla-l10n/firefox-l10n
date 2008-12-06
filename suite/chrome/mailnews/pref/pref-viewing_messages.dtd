@@ -50,24 +50,21 @@
 <!ENTITY color.label "Szín:">
 <!ENTITY color.accesskey "S">
 <!ENTITY displayPlainText.caption "Normál szöveges levelek">
-<!ENTITY plainTextFont.label "A következő betűszélesség használata:">
+<!ENTITY fontPlainText.label "Betű:">
+<!ENTITY fontPlainText.accesskey "B">
 <!ENTITY displayQuoted.label "Idézett üzenetek beállításai:">
-<!ENTITY fixedWidth.label "Rögzített">
-<!ENTITY fixedWidth.accesskey "R">
-<!ENTITY variableWidth.label "Változó">
-<!ENTITY variableWidth.accesskey "V">
 <!ENTITY readingMessagesHeader.label "Bejövő levelek">
 <!ENTITY messageWrapping.label "Szöveg tördelése">
 <!ENTITY wrapInMsg.label "Szöveg tördelése az ablak méretének megfelelően">
-<!ENTITY wrapInMsg.accesskey "t">
+<!ENTITY wrapInMsg.accesskey "T">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label "Hangulatjelek megjelenítése grafikaként">
 <!ENTITY convertEmoticons.accesskey "M">
 <!ENTITY generalMessageDisplay.caption "Általános">
 <!ENTITY autoMarkAsRead.label "Üzenetek automatikus olvasottnak jelölése">
-<!ENTITY autoMarkAsRead.accesskey "j">
+<!ENTITY autoMarkAsRead.accesskey "J">
 <!ENTITY markAsReadNoDelay.label "Azonnal megjelenítéskor">
-<!ENTITY markAsReadNoDelay.accesskey "A">
+<!ENTITY markAsReadNoDelay.accesskey "a">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
@@ -82,3 +79,5 @@
 <!ENTITY existingWindowRadio.accesskey "e">
 <!ENTITY disableContent.label "Távoli képek és tartalmak blokkolása az üzenetekben">
 <!ENTITY disableContent.accesskey "T">
+<!ENTITY showCondensedAddresses.label "Csak a név megjelenítése a címjegyzékben szereplő személyeknél">
+<!ENTITY showCondensedAddresses.accesskey "k">

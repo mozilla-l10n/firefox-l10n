@@ -80,7 +80,7 @@
 <!ENTITY translate.commandKey "t">
 
 <!ENTITY closeOtherTabs.label "Többi böngészőlap bezárása">
-<!ENTITY closeOtherTabs.accesskey "b">
+<!ENTITY closeOtherTabs.accesskey "B">
 <!ENTITY closeWindow.label "Ablak bezárása">
 <!ENTITY closeWindow.accesskey "A">
 
@@ -136,7 +136,7 @@
 <!ENTITY searchInternet.commandKey "s">
 
 <!ENTITY clearPrivateDataCmd.label "Személyes adatok törlése...">
-<!ENTITY clearPrivateDataCmd.accesskey "S">
+<!ENTITY clearPrivateDataCmd.accesskey "s">
 
 <!ENTITY goMenu.label "Ugrás">
 <!ENTITY goMenu.accesskey "u">

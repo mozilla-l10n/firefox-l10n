@@ -15,8 +15,8 @@
 <!ENTITY weekly.label "hetente">
 <!ENTITY appWeekly.accesskey "h">
 <!ENTITY extensionsUpdates.label "Telepített kiegészítők">
-<!ENTITY extensionsUpdates.accesskey "T">
+<!ENTITY extensionsUpdates.accesskey "t">
 <!ENTITY extensionsDaily.accesskey "n">
 <!ENTITY extensionsWeekly.accesskey "h">
 <!ENTITY addonManagerButton.label "Kiegészítő telepítése">
-<!ENTITY addonManagerButton.accesskey "t">
+<!ENTITY addonManagerButton.accesskey "T">

@@ -50,7 +50,7 @@
 <!ENTITY autoMarkAsRead.label "Ha a &brandShortName; jelöli levészemétnek">
 <!ENTITY autoMarkAsRead.accesskey "j">
 <!ENTITY manualMarkAsRead.label "Kézi levélszemétnek jelölés esetén">
-<!ENTITY manualMarkAsRead.accesskey "K">
+<!ENTITY manualMarkAsRead.accesskey "k">
 
 <!ENTITY enableJunkLogging.label "Levélszemétnapló bekapcsolása">
 <!ENTITY enableJunkLogging.accesskey "N">
