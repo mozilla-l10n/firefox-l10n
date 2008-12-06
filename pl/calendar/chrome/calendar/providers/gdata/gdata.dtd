@@ -41,7 +41,7 @@
 <!ENTITY gdata.privacy.default.accesskey "D">
                                                                                 
 <!ENTITY gdata.migration.title "Uaktualnij kalendarze tylko do odczytu">                   
-<!ENTITY gdata.migration.description "Dostawca dla Kalendarza Google wykrył kalendarze, które działają jedynie w trybie tylko do odczytu. Aby uaktualnić któryś z nich należy wybrać je z poniższej listy">
+<!ENTITY gdata.migration.description "Dostawca dla Kalendarza Google wykrył kalendarze, które działają jedynie w trybie tylko do odczytu. Aby uaktualnić któreś z nich, należy wybrać je z poniższej listy">
 <!ENTITY gdata.migration.upgrade.label "Uaktualnij">                               
 <!ENTITY gdata.migration.upgrade.accesskey "U">                                 
 <!ENTITY gdata.migration.showagain.label "Zawsze sprawdzaj ">
