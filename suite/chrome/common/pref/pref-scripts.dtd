@@ -1,6 +1,6 @@
 <!-- extracted from content/pref-scripts.xul -->
 
-<!--LOCALIZATION NOTE : FILE The 'Scripts & Plug-ins' preferences dialog -->
+<!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
 <!ENTITY pref.scripts.title              "Skripte &amp; Plugins">
 
 <!ENTITY navigator.label                 "Browser">
@@ -18,3 +18,7 @@
 <!ENTITY allowHideStatusBar.label        "Statusleiste verstecken">
 
 <!ENTITY enablePlugin.label              "Plugins aktivieren für">
+
+<!ENTITY whenPluginsRequired.description "Wenn zusätzliche Plugins benötigt werden:">
+<!ENTITY displayNotification.label       "Eine Benachrichtigungsleiste am oberen Rand des Inhaltsbereichs anzeigen">
+<!ENTITY displayNotification.accesskey   "E">

@@ -83,8 +83,6 @@
 
 <!ENTITY menuitem.view.command.toolbar.label        "Symbolleiste">
 <!ENTITY menuitem.view.command.toolbar.accesskey    "S">
-<!ENTITY menuitem.view.command.searchbar.label      "Suchleiste">
-<!ENTITY menuitem.view.command.searchbar.accesskey  "S">
 <!ENTITY menuitem.view.show_columns.label           "Spalten anzeigen">
 <!ENTITY menuitem.view.show_columns.accesskey       "S">
 <!ENTITY menuitem.newbookmarkfolder.label           "Als neuen Lesezeichenordner setzen">
