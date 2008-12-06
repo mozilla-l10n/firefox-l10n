@@ -7,3 +7,4 @@
 <!ENTITY copyrightText          "&#169;1998-2008 Medarbetarna. Alla rättigheter förbehållna. Mozilla
                                  Thunderbird och Thunderbird-logotyper är varumärken som tillhör Mozilla
                                  Foundation. Alla rättigheter förbehållna.">
+<!ENTITY cmdCloseMac.commandKey "w">
