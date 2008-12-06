@@ -11,3 +11,5 @@
 <!ENTITY paneAttachments.title    "Bilagor">
 <!ENTITY panePrivacy.title        "Sekretess">
 <!ENTITY paneAdvanced.title       "Avancerat">
+
+<!ENTITY cmdCloseMac.commandKey   "w">
