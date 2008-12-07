@@ -1,35 +1,47 @@
-<!-- extracted from ./history.xul -->
+<!-- history.xul, history-panel.xul, placesOverlay.xul -->
 
-<!ENTITY menuBar.tooltip            "Menubalk">
-<!ENTITY fileMenu.label             "Bestand">
-<!ENTITY closeCmd.label             "Sluiten">
-<!ENTITY editMenu.label             "Bewerken">
-<!ENTITY undoCmd.label              "Ongedaan maken">
-<!ENTITY redoCmd.label              "Opnieuw uitvoeren">
-<!ENTITY cutCmd.label               "Knippen">
-<!ENTITY copyCmd.label              "Kopiëren">
-<!ENTITY pasteCmd.label             "Plakken">
-<!ENTITY deleteCmd.label            "Verwijderen">
-<!ENTITY deleteHostnameCmd.accesskey "H">
-<!ENTITY deleteDomainCmd.accesskey  "s">
-<!ENTITY selAllCmd.label            "Alles selecteren">
-<!ENTITY findHisCmd.label           "Geschiedenis doorzoeken…">
-<!ENTITY findHisCmd.commandkey      "f">
-<!ENTITY findHisCmd.accesskey       "G">
-<!ENTITY groupBy.label              "Sorteren op">
-<!ENTITY groupBy.accesskey          "S">
-<!ENTITY groupByDay.label           "Dag">
-<!ENTITY groupByDay.accesskey       "D">
-<!ENTITY groupBySite.label          "Website">
-<!ENTITY groupBySite.accesskey      "S">
-<!ENTITY groupByNone.label          "Geen">
-<!ENTITY groupByNone.accesskey      "G">
-<!ENTITY historyWindowTitle.label   "Geschiedenis">
-<!ENTITY menuitem.view.unsorted.label "Ongesorteerd">
-<!ENTITY menuitem.view.unsorted.accesskey "O">
-<!ENTITY sortAscending.label        "Oplopend">
-<!ENTITY sortAscending.accesskey    "o">
-<!ENTITY sortDescending.label       "Aflopend">
-<!ENTITY sortDescending.accesskey   "d">
-<!ENTITY menuitem.view.show_columns.label "Kolommen tonen">
-<!ENTITY menuitem.view.show_columns.accesskey "K">
+<!ENTITY historyWindowTitle.label       "Geschiedenis">
+<!ENTITY menuBar.tooltip                "Menubalk">
+<!ENTITY searchBar.tooltip              "Search Bar">
+
+<!ENTITY search.emptytext               "Zoekgeschiedenis">
+<!ENTITY search.key                     "z">
+<!ENTITY view.label                     "Weergeven">
+<!ENTITY byDate.label                   "Op datum">
+<!ENTITY byDate.accesskey               "d">
+<!ENTITY bySite.label                   "Op website">
+<!ENTITY bySite.accesskey               "w">
+<!ENTITY byMostVisited.label            "Op meest bezocht">
+<!ENTITY byMostVisited.accesskey        "m">
+<!ENTITY byLastVisited.label            "Op laatst bezocht">
+<!ENTITY byLastVisited.accesskey        "l">
+<!ENTITY byDayAndSite.label             "Op datum en website">
+<!ENTITY byDayAndSite.accesskey         "e">
+
+<!ENTITY view.columns.label             "Kolommen tonen">
+<!ENTITY view.columns.accesskey         "k">
+<!ENTITY view.sort.label                "Sorteren">
+<!ENTITY view.sort.accesskey            "s">
+<!ENTITY view.unsorted.label            "Ongesorteerd">
+<!ENTITY view.unsorted.accesskey        "o">
+<!ENTITY view.sortAscending.label       "Sorteervolgorde A > Z">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Sorteervolgorde Z > A">
+<!ENTITY view.sortDescending.accesskey  "Z">
+
+<!ENTITY cmd.open.label                 "Openen">
+<!ENTITY cmd.open.accesskey             "O">
+<!ENTITY cmd.open_window.label          "Openen in een nieuw venster">
+<!ENTITY cmd.open_window.accesskey      "v">
+<!ENTITY cmd.open_tab.label             "Openen in een nieuw tabblad">
+<!ENTITY cmd.open_tab.accesskey         "t">
+<!ENTITY cmd.open_all_in_tabs.label     "Alle openen in tabbladen">
+<!ENTITY cmd.open_all_in_tabs.accesskey "t">
+
+<!ENTITY bookmarkCmd.label              "Bladwijzers van deze koppelingen maken…">
+<!ENTITY bookmarkCmd.accesskey          "B">
+
+<!ENTITY col.name.label                 "Naam">
+<!ENTITY col.url.label                  "Locatie">
+<!ENTITY col.lastvisit.label            "Bezoekdatum">
+<!ENTITY col.visitcount.label           "Bezoekteller">
