@@ -674,13 +674,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac.label        "Voorkeuren…">
-<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.commandkey   "accel+,">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Services">
 <!ENTITY hideThisAppCmdMac.label        "&brandShortName; verbergen">
-<!ENTITY hideThisAppCmdMac.commandkey   "v">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
 <!ENTITY hideOtherAppsCmdMac.label      "Andere verbergen">
-<!ENTITY hideOtherAppsCmdMac.commandkey "A">
+<!ENTITY hideOtherAppsCmdMac.commandkey "accel+alt+H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Alles tonen">

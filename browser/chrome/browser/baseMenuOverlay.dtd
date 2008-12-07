@@ -32,7 +32,7 @@
 <!ENTITY updateCmd.label                "Controleren op updates…">
 
 <!ENTITY preferencesCmdMac.label        "Voorkeuren…">
-<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.commandkey   "accel+,">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 
 <!ENTITY servicesMenuMac.label          "Services">
@@ -42,7 +42,7 @@
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Andere verbergen">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.commandkey "accel+alt+H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 
 <!ENTITY showAllAppsCmdMac.label        "Alles tonen">
