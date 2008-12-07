@@ -68,7 +68,7 @@
 <!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.label "Uppsettar viðbætur">
 <!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.accesskey "v">
 <!ENTITY pref.calendar.advanced.update.whenUpdatesFound.label "Ef uppfærslur fyrir &brandShortName; finnast:">
-<!ENTITY pref.calendar.advanced.update.modeAskMe.label "Spyrja mig hvað ég vill gera">
+<!ENTITY pref.calendar.advanced.update.modeAskMe.label "Spyrja hvað á að gera">
 <!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "p">
 <!ENTITY pref.calendar.advanced.update.modeAuto.label "Hlaða niður sjálfvirkt og setja upp uppfærsluna">
 <!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "H">
@@ -84,7 +84,7 @@
 <!ENTITY pref.calendar.advanced.encryption.useTLS1.accesskey "1">
 <!ENTITY pref.calendar.advanced.encryption.certificates.label "Skilríki">
 <!ENTITY pref.calendar.advanced.encryption.certSelection.description "Þegar þjónn biður um mitt skilríki:">
-<!ENTITY pref.calendar.advanced.encryption.certs.auto "Velja einn sjálfvirkt">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto "Velja eitt sjálfvirkt">
 <!ENTITY pref.calendar.advanced.encryption.certs.auto.accesskey "l">
 <!ENTITY pref.calendar.advanced.encryption.certs.ask "Spyrja í hvert skipti">
 <!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "i">

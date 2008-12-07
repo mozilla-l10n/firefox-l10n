@@ -74,7 +74,7 @@
 <!ENTITY sunbird.menu.customize.label "Sérsníða verkfærarein…">
 <!ENTITY sunbird.menu.customize.accesskey "S">
 <!ENTITY sunbird.maintoolbar.name "Aðal verkfærarein">
-<!ENTITY sunbird.maintoolbar.accesskey "M">
+<!ENTITY sunbird.maintoolbar.accesskey "A">
 <!-- Sunbird Help -->
 <!ENTITY sunbird.help.label "Hjálparefni">
 <!ENTITY sunbird.help.accesskey "H">
