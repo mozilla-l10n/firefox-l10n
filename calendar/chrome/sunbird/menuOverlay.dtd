@@ -149,7 +149,7 @@
 <!ENTITY preferencesCmd.label                              "Voorkeuren">
 <!ENTITY preferencesCmd.accesskey                          "V">
 <!ENTITY preferencesCmdMac.label                           "Voorkeuren…">
-<!ENTITY preferencesCmdMac.commandkey                      ",">
+<!ENTITY preferencesCmdMac.commandkey                      "accel+,">
 <!ENTITY preferencesCmdMac.modifiers                       "accel">
 
 <!ENTITY viewMenu.label                                    "Beeld">
@@ -177,6 +177,6 @@
 <!ENTITY hideThisAppCmdMac.commandkey                      "H">
 <!ENTITY hideThisAppCmdMac.modifiers                       "accel">
 <!ENTITY hideOtherAppsCmdMac.label                         "Overige verbergen">
-<!ENTITY hideOtherAppsCmdMac.commandkey                    "H">
+<!ENTITY hideOtherAppsCmdMac.commandkey                    "accel+alt+H">
 <!ENTITY hideOtherAppsCmdMac.modifiers                     "accel,alt">
 <!ENTITY showAllAppsCmdMac.label                           "Alles tonen">
