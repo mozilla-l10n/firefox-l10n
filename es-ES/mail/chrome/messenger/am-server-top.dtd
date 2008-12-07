@@ -12,8 +12,6 @@
 <!ENTITY biffStart.label "Buscar nuevos mensajes cada ">
 <!ENTITY biffStart.accesskey "j">
 <!ENTITY biffEnd.label "minutos">
-<!ENTITY isSecure.label "Usar conexión segura (SSL)">
-<!ENTITY isSecure.accesskey "U">
 <!ENTITY socketType.label "Utilizar conexión segura:">
 <!ENTITY neverSecure.label "Nunca">
 <!ENTITY neverSecure.accesskey "N">
