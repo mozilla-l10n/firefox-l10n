@@ -9,5 +9,5 @@
 <!ENTITY serviceURL.accesskey "j">
 <!ENTITY signingCA.label "Undirskrift svars:">
 <!ENTITY signingCA.accesskey "R">
-<!ENTITY requireOCSP.label "Ef OCSP tenging mistekst, meðhöndla skilríkið sem það sé ógilt">
+<!ENTITY requireOCSP.label "Ef OCSP tenging mistekst, meðhöndla skilríkið eins og það sé ógilt">
 <!ENTITY requireOCSP.accesskey "E">

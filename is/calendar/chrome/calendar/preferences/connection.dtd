@@ -73,7 +73,7 @@
 <!ENTITY FTPport.accesskey "t">
 <!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
 <!ENTITY gopherPort.accesskey "">
-<!ENTITY SOCKSport.accesskey "t">
+<!ENTITY SOCKSport.accesskey "">
 <!ENTITY noproxy.label "Engir staðgenglar fyrir:">
 <!ENTITY noproxy.accesskey "n">
 <!ENTITY noproxyExplain.label "Til dæmis: .mozilla.org, .net.nz, 192.168.1.0/24">
