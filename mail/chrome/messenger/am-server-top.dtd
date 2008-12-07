@@ -19,8 +19,6 @@
 <!ENTITY biffStart.label "Op nieuwe berichten controleren om de">
 <!ENTITY biffStart.accesskey "c">
 <!ENTITY biffEnd.label "minuten">
-<!ENTITY isSecure.label "Beveiligde verbinding (SSL) gebruiken">
-<!ENTITY isSecure.accesskey "d">
 <!ENTITY socketType.label "Beveiligde verbinding gebruiken:">
 <!ENTITY neverSecure.label "Nooit">
 <!ENTITY neverSecure.accesskey "N">
