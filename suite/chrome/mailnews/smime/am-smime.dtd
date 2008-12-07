@@ -52,3 +52,9 @@
 <!ENTITY signMessage.label "Išsiunčiamus laiškus pasirašyti skaitmeniniškai">
 <!ENTITY signMessage.accesskey "s">
 <!ENTITY signingCert.message "Parašui naudoti šį asmeninį liudijimą:">
+
+<!ENTITY certificates.label "Liudijimai">
+<!ENTITY manageCerts.label "Tvarkyti liudijimus…">
+<!ENTITY manageCerts.accesskey "T">
+<!ENTITY manageDevices.label "Tvarkyti saugumo priemones…">
+<!ENTITY manageDevices.accesskey "v">

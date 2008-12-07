@@ -43,8 +43,8 @@
 <!ENTITY signMessage.label "Išsiunčiamus laiškus pasirašyti skaitmeniniškai">
 <!ENTITY signingCert.message "Parašui naudoti šį asmeninį liudijimą:">
 
-<!ENTITY certificates.label     "Liudijimai">
-<!ENTITY  managecerts.label           "Liudijimų tvarkymas">
-<!ENTITY managecerts.accesskey  "t">
-<!ENTITY  managedevices.label         "Saugumo priemonių tvarkymas">
+<!ENTITY certificates.label      "Liudijimai">
+<!ENTITY managecerts.label       "Liudijimų peržiūra">
+<!ENTITY managecerts.accesskey   "L">
+<!ENTITY managedevices.label     "Saugumo priemonės">
 <!ENTITY managedevices.accesskey "S">

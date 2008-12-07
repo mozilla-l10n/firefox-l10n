@@ -50,8 +50,6 @@
 <!ENTITY biffStart.label "Tikrinti paštą kas">
 <!ENTITY biffStart.accesskey "T">
 <!ENTITY biffEnd.label "minučių">
-<!ENTITY isSecure.label "Saugus ryšys (SSL)">
-<!ENTITY isSecure.accesskey "u">
 <!ENTITY socketType.label "Saugus ryšys:">
 <!ENTITY neverSecure.label "Niekada">
 <!ENTITY neverSecure.accesskey "N">

@@ -12,7 +12,6 @@
    - License.
    -
    - Contributor(s):
-   -   Gintautas Grigas <grigas@ktl.mii.lt>
    -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
    -   Rimas Kudelis <rq@akl.lt>
    -
@@ -30,38 +29,50 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- extracted from ./history.xul -->
+<!-- history.xul, history-panel.xul, placesOverlay.xul -->
 
+<!ENTITY historyWindowTitle.label             "Žurnalas">
 <!ENTITY menuBar.tooltip                      "Meniu juosta">
-<!ENTITY fileMenu.label                       "Failas">
-<!ENTITY closeCmd.label                       "Užverti">
-<!ENTITY editMenu.label                       "Taisa"> 
-<!ENTITY undoCmd.label                        "Atšaukti">
-<!ENTITY redoCmd.label                        "Atstatyti">
-<!ENTITY cutCmd.label                         "Iškirpti">
-<!ENTITY copyCmd.label                        "Kopijuoti">
-<!ENTITY pasteCmd.label                       "Įdėti">
-<!ENTITY deleteCmd.label                      "Pašalinti">
-<!ENTITY deleteHostnameCmd.accesskey          "o">
-<!ENTITY deleteDomainCmd.accesskey            "s">
-<!ENTITY selAllCmd.label                      "Pažymėti viską">
-<!ENTITY findHisCmd.label                     "Ieškoti žurnale…">
-<!ENTITY findHisCmd.commandkey                "f">
-<!ENTITY findHisCmd.accesskey                 "I">
-<!ENTITY groupBy.label                        "Medis arba sąrašas">
-<!ENTITY groupBy.accesskey                    "r">
-<!ENTITY groupByDay.label                     "Medis (pagal dienas)">
-<!ENTITY groupByDay.accesskey                 "M">
-<!ENTITY groupBySite.label                    "Medis (pagal svetaines)">
-<!ENTITY groupBySite.accesskey                "e">
-<!ENTITY groupByNone.label                    "Sąrašas">
-<!ENTITY groupByNone.accesskey                "S">
-<!ENTITY historyWindowTitle.label             "Naršymo žurnalas">
-<!ENTITY menuitem.view.unsorted.label         "Nerikiuoti">
-<!ENTITY menuitem.view.unsorted.accesskey     "N">
-<!ENTITY sortAscending.label                  "Pagal abėcėlę">
-<!ENTITY sortAscending.accesskey              "b">
-<!ENTITY sortDescending.label                 "Atvirkščiai">
-<!ENTITY sortDescending.accesskey             "a">
-<!ENTITY menuitem.view.show_columns.label     "Stulpeliai">
-<!ENTITY menuitem.view.show_columns.accesskey "S">
+<!ENTITY searchBar.tooltip                    "Paieškos juosta">
+
+<!ENTITY search.emptytext                     "Ieškoti žurnale">
+<!ENTITY search.key                           "f">
+<!ENTITY view.label                           "Rodymas">
+<!ENTITY byDate.label                         "pagal datą">
+<!ENTITY byDate.accesskey                     "d">
+<!ENTITY bySite.label                         "pagal svetainę">
+<!ENTITY bySite.accesskey                     "s">
+<!ENTITY byMostVisited.label                  "pagal lankymo dažnumą">
+<!ENTITY byMostVisited.accesskey              "d">
+<!ENTITY byLastVisited.label                  "pagal paskutinio apsilankymo datą">
+<!ENTITY byLastVisited.accesskey              "p">
+<!ENTITY byDayAndSite.label                   "pagal datą ir svetainę">
+<!ENTITY byDayAndSite.accesskey               "t">
+
+<!ENTITY view.columns.label                   "Rodyti stulpelius">
+<!ENTITY view.columns.accesskey               "s">
+<!ENTITY view.sort.label                      "Rikiuoti">
+<!ENTITY view.sort.accesskey                  "R">
+<!ENTITY view.unsorted.label                  "Nerikiuoti">
+<!ENTITY view.unsorted.accesskey              "N">
+<!ENTITY view.sortAscending.label             "Abėcėlės tvarka">
+<!ENTITY view.sortAscending.accesskey         "A">
+<!ENTITY view.sortDescending.label            "Atvirkštine abėcėlės tvarka">
+<!ENTITY view.sortDescending.accesskey        "t">
+
+<!ENTITY cmd.open.label                       "Atverti">
+<!ENTITY cmd.open.accesskey                   "A">
+<!ENTITY cmd.open_window.label                "Atverti naujame lange">
+<!ENTITY cmd.open_window.accesskey            "l">
+<!ENTITY cmd.open_tab.label                   "Atverti naujoje kortelėje">
+<!ENTITY cmd.open_tab.accesskey               "o">
+<!ENTITY cmd.open_all_in_tabs.label           "Atverti kortelėse">
+<!ENTITY cmd.open_all_in_tabs.accesskey       "A">
+
+<!ENTITY bookmarkCmd.label                    "Saitą įrašyti į adresyną…">
+<!ENTITY bookmarkCmd.accesskey                "d">
+
+<!ENTITY col.name.label                       "Pavadinimas">
+<!ENTITY col.url.label                        "Adresas">
+<!ENTITY col.lastvisit.label                  "Paskiausiai aplankytas">
+<!ENTITY col.visitcount.label                 "Aplankymų kiekis">
