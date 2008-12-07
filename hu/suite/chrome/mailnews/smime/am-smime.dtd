@@ -22,3 +22,9 @@
 <!ENTITY signMessage.accesskey "D">
 <!ENTITY signingCert.message "Az alábbi tanúsítvány használata az Ön által küldött levelek aláírásához:">
 <!ENTITY signingCert.notselected "Nincs beállított tanúsítvány">
+
+<!ENTITY certificates.label "Tanúsítványok">
+<!ENTITY manageCerts.label "Tanúsítványok kezelése…">
+<!ENTITY manageCerts.accesskey "k">
+<!ENTITY manageDevices.label "Biztonsági eszközök kezelése…">
+<!ENTITY manageDevices.accesskey "e">
