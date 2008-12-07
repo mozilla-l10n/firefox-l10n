@@ -1,33 +1,40 @@
-<!ENTITY menuBar.tooltip "Barra de menú">
-<!ENTITY fileMenu.label "Archivo">
-<!ENTITY closeCmd.label "Cerrar">
-<!ENTITY editMenu.label "Editar">
-<!ENTITY undoCmd.label "Deshacer">
-<!ENTITY redoCmd.label "Rehacer">
-<!ENTITY cutCmd.label "Cortar">
-<!ENTITY copyCmd.label "Copiar">
-<!ENTITY pasteCmd.label "Pegar">
-<!ENTITY deleteCmd.label "Eliminar">
-<!ENTITY deleteHostnameCmd.accesskey "s">
-<!ENTITY deleteDomainCmd.accesskey "s">
-<!ENTITY selAllCmd.label "Seleccionar todo">
-<!ENTITY findHisCmd.label "Buscar en historial…">
-<!ENTITY findHisCmd.commandkey "f">
-<!ENTITY findHisCmd.accesskey "S">
-<!ENTITY groupBy.label "Agrupar por">
-<!ENTITY groupBy.accesskey "G">
-<!ENTITY groupByDay.label "Día">
-<!ENTITY groupByDay.accesskey "D">
-<!ENTITY groupBySite.label "Sitio">
-<!ENTITY groupBySite.accesskey "S">
-<!ENTITY groupByNone.label "Ninguno">
-<!ENTITY groupByNone.accesskey "N">
 <!ENTITY historyWindowTitle.label "Historial">
-<!ENTITY menuitem.view.unsorted.label "Sin ordenar">
-<!ENTITY menuitem.view.unsorted.accesskey "n">
-<!ENTITY sortAscending.label "Ascendente">
-<!ENTITY sortAscending.accesskey "A">
-<!ENTITY sortDescending.label "Descendente">
-<!ENTITY sortDescending.accesskey "D">
-<!ENTITY menuitem.view.show_columns.label "Mostrar columnas">
-<!ENTITY menuitem.view.show_columns.accesskey "S">
+<!ENTITY menuBar.tooltip "Barra de menú">
+<!ENTITY searchBar.tooltip "Barra de búsqueda">
+<!ENTITY search.emptytext "Buscar en historial">
+<!ENTITY search.key "b">
+<!ENTITY view.label "Ver">
+<!ENTITY byDate.label "Por fecha">
+<!ENTITY byDate.accesskey "f">
+<!ENTITY bySite.label "Por sitio">
+<!ENTITY bySite.accesskey "S">
+<!ENTITY byMostVisited.label "Por número de visitas">
+<!ENTITY byMostVisited.accesskey "V">
+<!ENTITY byLastVisited.label "Por última visita">
+<!ENTITY byLastVisited.accesskey "L">
+<!ENTITY byDayAndSite.label "Por fecha y sitio">
+<!ENTITY byDayAndSite.accesskey "h">
+<!ENTITY view.columns.label "Mostrar columnas">
+<!ENTITY view.columns.accesskey "C">
+<!ENTITY view.sort.label "Ordenar">
+<!ENTITY view.sort.accesskey "O">
+<!ENTITY view.unsorted.label "Sin ordenar">
+<!ENTITY view.unsorted.accesskey "i">
+<!ENTITY view.sortAscending.label "Ordenar A > Z">
+<!ENTITY view.sortAscending.accesskey "A">
+<!ENTITY view.sortDescending.label "Ordenar Z > A">
+<!ENTITY view.sortDescending.accesskey "Z">
+<!ENTITY cmd.open.label "Abrir">
+<!ENTITY cmd.open.accesskey "A">
+<!ENTITY cmd.open_window.label "Abrir enlace en una ventana nueva">
+<!ENTITY cmd.open_window.accesskey "r">
+<!ENTITY cmd.open_tab.label "Abrir enlace en una pestaña nueva">
+<!ENTITY cmd.open_tab.accesskey "n">
+<!ENTITY cmd.open_all_in_tabs.label "Abrir todas en pestañas">
+<!ENTITY cmd.open_all_in_tabs.accesskey "A">
+<!ENTITY bookmarkCmd.label "Añadir a marcadores este enlace…">
+<!ENTITY bookmarkCmd.accesskey "m">
+<!ENTITY col.name.label "Título">
+<!ENTITY col.url.label "Dirección">
+<!ENTITY col.lastvisit.label "Última visita">
+<!ENTITY col.visitcount.label "Número de visitas">
