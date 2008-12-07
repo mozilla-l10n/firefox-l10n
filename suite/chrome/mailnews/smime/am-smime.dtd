@@ -20,3 +20,9 @@
 <!ENTITY signMessage.label "Alle berichten digitaal ondertekenen (standaard)">
 <!ENTITY signMessage.accesskey "A">
 <!ENTITY signingCert.message "Dit certificaat gebruiken om berichten die u verzendt digitaal te ondertekenen:">
+
+<!ENTITY certificates.label     "Certificaten">
+<!ENTITY managecerts.label      "Certificaten bekijken">
+<!ENTITY managecerts.accesskey  "C">
+<!ENTITY managedevices.label    "Beveiligingsapparaten">
+<!ENTITY managedevices.accesskey "B">
