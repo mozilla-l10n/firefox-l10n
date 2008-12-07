@@ -1,35 +1,54 @@
 <!-- extracted from ./history.xul -->
 
-<!ENTITY menuBar.tooltip "Menüsor">
-<!ENTITY fileMenu.label "Fájl">
-<!ENTITY closeCmd.label "Bezárás">
-<!ENTITY editMenu.label "Szerkesztés">
-<!ENTITY undoCmd.label "Visszavonás">
-<!ENTITY redoCmd.label "Újra">
-<!ENTITY cutCmd.label "Kivágás">
-<!ENTITY copyCmd.label "Másolás">
-<!ENTITY pasteCmd.label "Beillesztés">
-<!ENTITY deleteCmd.label "Törlés">
-<!ENTITY deleteHostnameCmd.accesskey "T">
-<!ENTITY deleteDomainCmd.accesskey "l">
-<!ENTITY selAllCmd.label "Mindet kijelöli">
-<!ENTITY findHisCmd.label "Keresés az előzmények közt...">
-<!ENTITY findHisCmd.commandkey "f">
-<!ENTITY findHisCmd.accesskey "K">
-<!ENTITY groupBy.label "Csoportosítás">
-<!ENTITY groupBy.accesskey "C">
-<!ENTITY groupByDay.label "Napok szerint">
-<!ENTITY groupByDay.accesskey "N">
-<!ENTITY groupBySite.label "Webhely szerint">
-<!ENTITY groupBySite.accesskey "W">
-<!ENTITY groupByNone.label "Nincs">
-<!ENTITY groupByNone.accesskey "I">
-<!ENTITY historyWindowTitle.label "Előzmények">
-<!ENTITY menuitem.view.unsorted.label "Rendezetlen">
-<!ENTITY menuitem.view.unsorted.accesskey "r">
-<!ENTITY sortAscending.label "Növekvő sorrendben">
-<!ENTITY sortAscending.accesskey "N">
-<!ENTITY sortDescending.label "Csökkenő sorrendben">
-<!ENTITY sortDescending.accesskey "C">
-<!ENTITY menuitem.view.show_columns.label "Oszlopok megjelenítése">
-<!ENTITY menuitem.view.show_columns.accesskey "S">
+<!ENTITY historyWindowTitle.label       "Előzmények">
+<!ENTITY menuBar.tooltip                "Menüsor">
+<!ENTITY searchBar.tooltip              "Kereső">
+
+<!ENTITY search.emptytext               "Keresések előzménye">
+<!ENTITY search.key                     "K">
+<!ENTITY view.label "Megjelenítés">
+<!ENTITY view.accesskey "M">
+<!ENTITY byDate.label "Dátum szerint">
+<!ENTITY byDate.accesskey "D">
+<!ENTITY bySite.label "Kiszolgáló szerint">
+<!ENTITY bySite.accesskey "K">
+<!ENTITY byMostVisited.label "Látogatottság szerint">
+<!ENTITY byMostVisited.accesskey "L">
+<!ENTITY byLastVisited.label "Utolsó látogatás ideje szerint">
+<!ENTITY byLastVisited.accesskey "U">
+<!ENTITY byDayAndSite.label "Dátum és kiszolgáló szerint">
+<!ENTITY byDayAndSite.accesskey "m">
+
+<!ENTITY view.columns.label             "Oszlopok megjelenítése">
+<!ENTITY view.columns.accesskey         "O">
+<!ENTITY view.sort.label                "Rendezés">
+<!ENTITY view.sort.accesskey            "R">
+<!ENTITY view.unsorted.label            "Rendezetlen">
+<!ENTITY view.unsorted.accesskey        "e">
+<!ENTITY view.sortAscending.label       "Növekvő sorrendben">
+<!ENTITY view.sortAscending.accesskey   "N">
+<!ENTITY view.sortDescending.label      "Csökkenő sorrendben">
+<!ENTITY view.sortDescending.accesskey  "C">
+
+<!ENTITY cmd.open.label                 "Megnyitás">
+<!ENTITY cmd.open.accesskey             "M">
+<!ENTITY cmd.open_window.label          "Megnyitás új ablakban">
+<!ENTITY cmd.open_window.accesskey      "a">
+<!ENTITY cmd.open_tab.label             "Megnyitás új lapon">
+<!ENTITY cmd.open_tab.accesskey         "l">
+<!ENTITY cmd.open_all_in_tabs.label     "Mindegyik megnyitása külön lapokon">
+<!ENTITY cmd.open_all_in_tabs.accesskey "k">
+
+<!ENTITY bookmarkCmd.label              "Hivatkozás felvétele a könyvjelzők közé...">
+<!ENTITY bookmarkCmd.accesskey          "n">
+
+<!ENTITY col.name.label                 "Cím">
+<!ENTITY col.url.label                  "Hely">
+<!ENTITY col.lastvisit.label            "Utoljára látogatva">
+<!ENTITY col.visitcount.label           "Látogatások száma">
+
+
+
+
+
+
