@@ -34,7 +34,7 @@
 <!ENTITY cmd.open_all_in_tabs.accesskey "A">
 <!ENTITY bookmarkCmd.label "Añadir a marcadores este enlace…">
 <!ENTITY bookmarkCmd.accesskey "m">
-<!ENTITY col.name.label "Título">
+<!ENTITY col.title.label "Título">
 <!ENTITY col.url.label "Dirección">
 <!ENTITY col.lastvisit.label "Última visita">
 <!ENTITY col.visitcount.label "Número de visitas">
