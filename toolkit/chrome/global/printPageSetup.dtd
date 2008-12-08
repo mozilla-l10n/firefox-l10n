@@ -7,17 +7,22 @@
 <!ENTITY formatGroup.label   "Formaat">
 
 <!ENTITY orientation.label   "Oriïntaasje:">
-<!ENTITY portrait            "Steand">
-<!ENTITY landscape           "Lizzend">
+<!ENTITY portrait.label      "Steand">
+<!ENTITY portrait.accesskey  "S">
+<!ENTITY landscape.label     "Lizzend">
+<!ENTITY landscape.accesskey "L">
 
 <!ENTITY scale.label         "Op grutte:">
+<!ENTITY scale.accesskey     "g">
 <!ENTITY scalePercent        "&#037;">
 
 <!ENTITY shrinkToFit.label   "Ferlytsje oant papierformaat">
+<!ENTITY shrinkToFit.accesskey "F">
 
 <!ENTITY optionsGroup.label  "Opsjes">
 
 <!ENTITY printBG.label       "Eftergrun ôfdrukke (kleuren &amp; ôfbyldings)">
+<!ENTITY printBG.accesskey   "E">
 
 <!ENTITY advanced.tab        "Marges &amp; kop-/foetteksten">
 
@@ -25,9 +30,13 @@
 <!ENTITY marginUnits.inches  "inches">
 <!ENTITY marginUnits.metric  "millimeters">
 <!ENTITY marginTop.label     "Boppe:">
+<!ENTITY marginTop.accesskey "B">
 <!ENTITY marginBottom.label  "Under:">
+<!ENTITY marginBottom.accesskey "U">
 <!ENTITY marginLeft.label    "Links:">
+<!ENTITY marginLeft.accesskey "L">
 <!ENTITY marginRight.label   "Rjochts:">
+<!ENTITY marginRight.accesskey "R">
 
 <!ENTITY headerFooter.label  "Kop- &amp; foetteksten">
 
