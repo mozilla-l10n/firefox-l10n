@@ -1,12 +1,12 @@
 /*
- * Modificare questo file e copiarlo come userChrome.css nel proprio
- * profilo-directory/chrome/
+ *  Modificare questo file e copiarlo come userChrome.css nel proprio
+ *  profilo-directory/chrome/
  */
 
 /*
- * Questo file può essere utilizzato per personalizzare l'aspetto ddell'interfaccia di Mozilla
- * Si suggerisce di utilizzare !important sulle regole in cui si desidera
- * sovrascrivere le impostazioni predefinite.
+ *  Questo file può essere utilizzato per personalizzare l'aspetto dell'interfaccia di Mozilla
+ *  Si suggerisce di utilizzare !important sulle regole in cui si desidera
+ *  sovrascrivere le impostazioni predefinite.
  */
 
 /*
@@ -16,35 +16,28 @@
 
 
 /*
- * Alcuni miglioramenti possibili di accessibilità:
+ * Alcuni miglioramenti possibili per l'accessibilità:
  */
+
 /*
- * Imposta le dimensioni predefinite dei font a 20 pt:
+ *  Imposta le dimensioni predefinite dei caratteri a 20 pt:
  *
  * * {
  *   font-size: 20pt !important
  * }
  */
 /*
- * Imposta alcune voci di menu in particolare a 15 pt invece della dimensione predefinita:
+ * Imposta in particolare alcune voci di menu a 15 pt invece della dimensione predefinita:
  *
  * menupopup > * {
  *   font-size: 15pt !important
  * }
  */
 /*
- * Imposta un font a spaziatura fissa per la barra degli indirizzi (URL)
+ * Imposta un carattere a spaziatura fissa per la barra degli indirizzi (URL)
  *
  * #urlbar {
  *    font-family: monospace !important;
- * }
- */
-
-/*
- * Elimina il throbber e il suo noioso movimento:
- *
- * #throbber-box {
- *   display: none !important;
  * }
  */
 
