@@ -56,3 +56,14 @@
 
 <!ENTITY customPrompt.title  "රිසිකරණය...">
 <!ENTITY customPrompt.prompt "සිරස/පාදම සඳහා ඔබටෙ රිසි පාඨ ඇතලත් කරන්න">
+<!ENTITY shrinkToFit.accesskey "W">
+<!ENTITY scale.accesskey     "S">
+<!ENTITY printBG.accesskey   "B">
+<!ENTITY portrait.label      "Portrait">
+<!ENTITY portrait.accesskey  "P">
+<!ENTITY marginTop.accesskey "T">
+<!ENTITY marginRight.accesskey "R">
+<!ENTITY marginLeft.accesskey "L">
+<!ENTITY marginBottom.accesskey "B">
+<!ENTITY landscape.label     "Landscape">
+<!ENTITY landscape.accesskey "L">
