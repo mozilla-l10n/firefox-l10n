@@ -21,8 +21,6 @@
 <!ENTITY markAsReadDelay.label            "Nei it toanen foar">
 <!ENTITY markAsReadDelay.accesskey        "N">
 <!ENTITY secondsLabel.label               "sekonden">
-<!ENTITY showFolderColumns.label       "Wiidweide kolommen werjaan yn mappenfinster">
-<!ENTITY showFolderColumns.accesskey   "k">
 <!ENTITY openMsgIn.label               "Nije berjochten iepenje yn:">
 <!ENTITY reuseExpRadio0.label          "In nij berjochtfinster">
 <!ENTITY reuseExpRadio0.accesskey      "i">

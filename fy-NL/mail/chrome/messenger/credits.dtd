@@ -8,9 +8,11 @@
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation "<h3Fryske oersetting</h3>
-          <ul><li>Wim Benes</li>
+<!ENTITY credit.translation "<h3>Fryske oersetting</h3>
+          <ul>
+          	<li>Wim Benes</li>
             <li>Hindrik Sijens</li>
+            <li>Mei stipe fan Provinsje Fryslân</li>
           </ul>">
 
 <!ENTITY credit.theme       "Tema-ûntwerp">

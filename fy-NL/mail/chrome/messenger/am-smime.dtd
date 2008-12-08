@@ -1,18 +1,28 @@
 <!ENTITY securityTitle.label "Befeiliging">
+<!ENTITY securityTab.label "Befeiliging">
 <!ENTITY securityHeading.label "Om ûndertekene of fersifere berjochten te ferstjoeren moatte jo in digitale ûndertekening en in fersiferingssertifikaat spesifisearje.">
 <!ENTITY encryptionGroupTitle.label "Fersifering">
 <!ENTITY encryptionChoiceLabel.label "Standert fersiferingsynstelling by ferstjoern fan berjochten:">
 <!ENTITY neverEncrypt.label "Noait (gjin fersifering brûke)">
+<!ENTITY neverEncrypt.accesskey "N">
 <!ENTITY alwaysEncryptMessage.label "Fereasket (kin berjocht net ferstjoere, tenzij alle adressearden in sertifikaat hawwe)">
+<!ENTITY alwaysEncryptMessage.accesskey "e">
 <!ENTITY encryptionCert.message "Dit sertifikaat brûke foar it fersiferjen en ûntsiferjen fan nei jo ferstjoerde berjochten:">
-<!ENTITY certificate.button "Selektearje…">
-<!ENTITY certificate_clear.button "Wisse">
+<!ENTITY digitalSign.certificate.button "Selektearje…">
+<!ENTITY digitalSign.certificate.accesskey "S">
+<!ENTITY digitalSign.certificate_clear.button "Wisse">
+<!ENTITY digitalSign.certificate_clear.accesskey "W">
+<!ENTITY encryption.certificate.button "Selektearje…">
+<!ENTITY encryption.certificate.accesskey "t">
+<!ENTITY encryption.certificate_clear.button "Wisse">
+<!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "Digitale ûndertekening">
 <!ENTITY signMessage.label "Alle berjochten digitaal ûndertekenje (standert)">
+<!ENTITY signMessage.accesskey "d">
 <!ENTITY signingCert.message "Dit sertifikaat brûke om berjochten dy't jo ferstjoere digitaal te ûndertekenjen:">
 
 <!ENTITY certificates.label     "Sertifikaten">
-<!ENTITY managecerts.label      "Sertifikaten besjen">
-<!ENTITY managecerts.accesskey  "S">
-<!ENTITY managedevices.label    "Befeiligingsapparaten">
-<!ENTITY managedevices.accesskey "B">
+<!ENTITY manageCerts.label      "Sertifikaten besjen">
+<!ENTITY manageCerts.accesskey  "S">
+<!ENTITY manageDevices.label    "Befeiligingsapparaten">
+<!ENTITY manageDevices.accesskey "B">
