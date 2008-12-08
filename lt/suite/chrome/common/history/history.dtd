@@ -72,7 +72,7 @@
 <!ENTITY bookmarkCmd.label                    "Saitą įrašyti į adresyną…">
 <!ENTITY bookmarkCmd.accesskey                "d">
 
-<!ENTITY col.name.label                       "Pavadinimas">
+<!ENTITY col.title.label                      "Pavadinimas">
 <!ENTITY col.url.label                        "Adresas">
 <!ENTITY col.lastvisit.label                  "Paskiausiai aplankytas">
 <!ENTITY col.visitcount.label                 "Aplankymų kiekis">
