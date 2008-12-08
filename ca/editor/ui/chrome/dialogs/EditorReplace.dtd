@@ -61,4 +61,3 @@
 <!ENTITY replaceAllButton.label "Reemplaça-ho tot">
 <!ENTITY replaceAllButton.accesskey "t">
 <!ENTITY closeButton.label "Tanca">
-<!ENTITY notFoundWarning.label "No s'ha trobat el text introduït.">

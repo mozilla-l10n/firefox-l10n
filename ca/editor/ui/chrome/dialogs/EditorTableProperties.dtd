@@ -72,7 +72,6 @@
 <!ENTITY tableCaptionNone.label "Cap">
 <!ENTITY tableInheritColor.label "(Permet que el color de la pàgina es transparenti)">
 
-<!ENTITY cellPercent.label "percentatge de la taula">
 <!ENTITY cellSelection.label "Selecció">
 <!ENTITY cellSelectCell.label "Ceŀla">
 <!ENTITY cellSelectRow.label "Fila">
@@ -81,13 +80,7 @@
 <!ENTITY cellSelectNext.accessKey "n">
 <!ENTITY cellSelectPrevious.label "Anterior">
 <!ENTITY cellSelectPrevious.accessKey "o">
-<!ENTITY cellApplyBeforeMove.label "Aplica els canvis abans de canviar la selecció">
-<!ENTITY cellKeepCurrentData.label "Conserva els paràmetres actuals">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label "Els canvis actuals s'aplicaran">
-<!ENTITY applyBeforeChange2.label "abans de canviar la selecció.">
-<!ENTITY cellRowSpan.label "Abast de la fila:">
-<!ENTITY cellColSpan.label "Abast de la columna:">
+<!ENTITY applyBeforeChange.label "Els canvis actuals s'aplicaran abans de canviar la selecció.">
 <!ENTITY cellContentAlignment.label "Alineació del contingut:">
 <!ENTITY cellHorizontal.label "Horitzontal:">
 <!ENTITY cellHorizontal.accessKey "z">
@@ -105,7 +98,6 @@
 <!ENTITY cellAlignMiddle.label "Mitjà">
 <!ENTITY cellAlignBottom.label "Inferior">
 <!ENTITY cellAlignJustify.label "Justifica">
-<!ENTITY cellAlignAtChar.label "Al caràcter:">
 <!ENTITY cellInheritColor.label "(Permet que el color de la taula sigui transparent)">
 <!ENTITY cellUseCheckboxHelp.label "Utilitza quadres de verificació per determinar quines propietats s'apliquen a totes les ceŀles seleccionades ">
 

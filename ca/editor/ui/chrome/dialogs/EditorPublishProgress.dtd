@@ -46,8 +46,6 @@
 
 <!ENTITY status.label "S'està publicant…">
 <!ENTITY fileList.label "Estat de la publicació">
-<!ENTITY statusHeader.label "Estat">
-<!ENTITY filenameHeader.label "Nom de fitxer">
 <!ENTITY succeeded.label "Ha finalitzat">
 <!ENTITY failed.label "Ha fallat">
 

@@ -85,11 +85,9 @@
 
 <!ENTITY zoominCmd.label "Amplia el zoom">
 <!ENTITY zoomoutCmd.label "Redueix el zoom">
-<!ENTITY delSpotCmd.label "Suprimeix el punt">
 
 <!ENTITY zoominCmd.label "Amplia el zoom">
 <!ENTITY zoomoutCmd.label "Redueix el zoom">
-<!ENTITY delSpotCmd.label "Suprimeix el punt">
 
 <!-- Keys -->
 <!ENTITY clear.key "d">

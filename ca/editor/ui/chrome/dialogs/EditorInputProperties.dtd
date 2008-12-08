@@ -55,11 +55,13 @@
 
 <!ENTITY InputSettings.label "Paràmetres del camp">
 <!ENTITY InputName.label "Nom del camp:">
+<!ENTITY InputName.accesskey "N">
 <!ENTITY GroupName.label "Nom del grup:">
-<!ENTITY Name.accesskey "N">
+<!ENTITY GroupName.accesskey "N">
 <!ENTITY InputValue.label "Valor del camp:">
+<!ENTITY InputValue.accesskey "V">
 <!ENTITY InitialValue.label "Valor inicial:">
-<!ENTITY Value.accesskey "V">
+<!ENTITY InitialValue.accesskey "V">
 <!ENTITY InputChecked.label "Verificat inicialment">
 <!ENTITY InputChecked.accesskey "f">
 <!ENTITY InputSelected.label "Seleccionat al començament">

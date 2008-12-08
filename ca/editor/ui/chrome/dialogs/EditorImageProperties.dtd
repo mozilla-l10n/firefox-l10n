@@ -44,7 +44,6 @@
 <!ENTITY windowTitle.label "Propietats de la imatge">
 
 <!ENTITY pixelsPopup.value "píxels">
-<!ENTITY percentPopup.value "per cent">
 
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "URL de la imatge:">
@@ -60,7 +59,6 @@
 <!ENTITY noAltText.accessKey "u">
 
 <!ENTITY previewBox.label "Visualització prèvia de la imatge">
-<!ENTITY MoreFewerButton.tooltip "Visualitza una o més propietats per editar">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
@@ -84,7 +82,7 @@
 <!ENTITY removeImageMapButton.label "Suprimeix">
 <!ENTITY removeImageMapButton.accessKey "r">
 <!ENTITY editImageMapButton.label "Edita…">
-<!ENTITY editImageMapButton.tooltip "Crea «hotspots» per a aquesta imatge on s'hi pugui fer clic">
+<!ENTITY editImageMapButton.tooltip "Crea punts clicables en aquesta imatge">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Alinea el text a la imatge">
@@ -96,7 +94,6 @@
 
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "Espaiat">
-<!ENTITY spacingBox.tooltip "Indiqueu la quantitat d'espai al voltant de la imatge">
 <!ENTITY leftRightEditField.label "Esquerra i dreta:">
 <!ENTITY leftRightEditField.accessKey "r">
 <!ENTITY topBottomEditField.label "Per sobre i per sota:">
@@ -107,12 +104,6 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Mostra el contorn al voltant de la imatge enllaçada">
 <!ENTITY showImageLinkBorder.accessKey "c">
-
-<!-- These controls may be added some day; currently not used -->
-<!ENTITY makePageBackgroundCheckbox.label "Fes el fons de la pàgina">
-<!ENTITY makePageBackgroundCheckbox.tooltip "Utilitza la imatge com a fons per a la pàgina">
-<!ENTITY editImageButton.label "Edita la imatge">
-<!ENTITY editImageButton.tooltip "Edita el fitxer d'imatge amb un altre programa">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Formulari">

@@ -4,9 +4,9 @@
 <!ENTITY authorName.accesskey "A">
 <!ENTITY pageColorHeader "Aspecte  per defecte de la pàgina">
 
-<!ENTITY defaultColorsRadio.label "Colors per defecte del lector (no defineixis els colors de la pàgina)">
+<!ENTITY defaultColors.label "Colors per defecte del lector (no defineixis els colors de la pàgina)">
 <!ENTITY defaultColors.accesskey "d">
-<!ENTITY customColorsRadio.label "Utilitza els colors personalitzats:">
+<!ENTITY customColors.label "Utilitza els colors personalitzats:">
 <!ENTITY customColors.accesskey "c">
 
 <!ENTITY normalText.label "Text normal">
