@@ -20,7 +20,7 @@
 <!ENTITY signingCert.message "Certificat personnel pour signer numériquement les messages envoyés :">
 
 <!ENTITY certificates.label "Certificats">
-<!ENTITY managecerts.label "Afficher les certificats">
-<!ENTITY managecerts.accesskey "A">
-<!ENTITY managedevices.label "Périphériques de sécurité">
-<!ENTITY managedevices.accesskey "P">
+<!ENTITY manageCerts.label "Afficher les certificats">
+<!ENTITY manageCerts.accesskey "A">
+<!ENTITY manageDevices.label "Périphériques de sécurité">
+<!ENTITY manageDevices.accesskey "P">
