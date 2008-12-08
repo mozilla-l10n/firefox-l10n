@@ -3,7 +3,7 @@
 <!ENTITY privatebrowsingpage.pagetitle                 "Privé navigeren">
 
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; zal geen geschiedenis bijhouden van deze sessie.">
-<!ENTITY privatebrowsingpage.longDesc                  "Er zal geen geschiedenis worden opgeslagen door &brandShortName; gedurende deze navigeersessie.  Dit bevat bladergeschidenis, zoekgeschiedenis, downloadgeschiedenis  webformuliergeschiedenis, cookies en tijdelijke internetbestanden.  Maar bestanden die u download of bladwijzers die u aanmaakt zullen worden bewaard.">
+<!ENTITY privatebrowsingpage.longDesc                  "Er zal geen geschiedenis worden opgeslagen door &brandShortName; gedurende deze navigeersessie.  Dit bevat bladergeschiedenis, zoekgeschiedenis, downloadgeschiedenis,  webformuliergeschiedenis, cookies en tijdelijke internetbestanden.  Maar bestanden die u downloadt of bladwijzers die u aanmaakt zullen wel worden bewaard.">
 
 <!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "U wilt wellicht starten met ook uw recente geschiedenis te wissen.">
 <!ENTITY privatebrowsingpage.clearRecentHistory.label  "Recente geschiedenis wissen…">
