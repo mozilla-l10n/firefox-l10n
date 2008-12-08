@@ -47,23 +47,17 @@
 
 <!-- View menu items -->
 <!ENTITY viewMenu.label "Visualitza">
-<!ENTITY viewmenu.accesskey "v">
+<!ENTITY viewMenu.accesskey "v">
 <!ENTITY compositionToolbarCmd.label "Barra d'eines de redacció">
-<!ENTITY compositiontb.accesskey "c">
+<!ENTITY compositionToolbarCmd.accesskey "c">
 <!ENTITY formattingToolbarCmd.label "Barra d'eines de format">
-<!ENTITY formattingtb.accesskey "f">
+<!ENTITY formattingToolbarCmd.accesskey "f">
 <!ENTITY editmodeToolbarCmd.label "Barra d'eines del mode d'edició">
-<!ENTITY editmodetb.accesskey "E">
+<!ENTITY editmodeToolbarCmd.accesskey "E">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Format">
-<!ENTITY formatmenu.accesskey "o">
+<!ENTITY formatMenu.accesskey "o">
 
-<!ENTITY helpMenu.label "Ajuda">
-<!ENTITY aboutCmd.label "Quant a">
 
-<!-- Display Mode Toolbar -->
-<!ENTITY editMode.label "Mode d'edició:">
-
-<!ENTITY statusText.label "La pàgina s'ha carregat">
 

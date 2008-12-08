@@ -50,7 +50,6 @@
 <!ENTITY bulletList.value "Llista de pics (sense numerar)">
 <!ENTITY numberList.value "Llista numerada">
 <!ENTITY definitionList.value "Llista de definició">
-<!ENTITY changeListMsg.label "En canviar el tipus de llista:">
 <!ENTITY changeEntireListRadio.label "Canvia tota la llista">
 <!ENTITY changeEntireListRadio.accessKey "C">
 <!ENTITY changeSelectedRadio.label "Canvia només els elements seleccionats">

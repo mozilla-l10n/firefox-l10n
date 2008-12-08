@@ -40,7 +40,6 @@
 
 <!ENTITY Window.title "Taula de continguts">
 <!ENTITY buildToc.label "Construeix la taula de continguts a partir de:">
-<!ENTITY style.label "Estil:">
 <!ENTITY tag.label "Etiqueta:">
 <!ENTITY class.label "Classe:">
 <!ENTITY header1.label "Nivell 1">
