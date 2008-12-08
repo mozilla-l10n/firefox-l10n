@@ -14,8 +14,6 @@
 <!ENTITY markAsReadDelay.label "Tras mostrarlo durante">
 <!ENTITY markAsReadDelay.accesskey "e">
 <!ENTITY secondsLabel.label "segundos">
-<!ENTITY showFolderColumns.label "Mostrar las columnas expandidas en el panel de carpetas">
-<!ENTITY showFolderColumns.accesskey "c">
 <!ENTITY openMsgIn.label "Abrir mensajes en:">
 <!ENTITY reuseExpRadio0.label "Una nueva ventana de mensajes">
 <!ENTITY reuseExpRadio0.accesskey "U">
