@@ -41,7 +41,7 @@
 <!ENTITY bookmarkCmd.label              "Bladwijzers van deze koppelingen maken…">
 <!ENTITY bookmarkCmd.accesskey          "B">
 
-<!ENTITY col.name.label                 "Naam">
+<!ENTITY col.title.label                "Titel">
 <!ENTITY col.url.label                  "Locatie">
-<!ENTITY col.lastvisit.label            "Bezoekdatum">
+<!ENTITY col.lastvisit.label            "Laatst bezocht">
 <!ENTITY col.visitcount.label           "Bezoekteller">
