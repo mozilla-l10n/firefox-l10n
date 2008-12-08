@@ -11,7 +11,8 @@
 <!ENTITY allowContextmenuDisable.label "Desativar ou substituir menus de contexto">
 <!ENTITY allowHideStatusBar.label "Ocultar a barra de status ">
 <!ENTITY enablePlugin.label "Permitir plugins no">
-<!ENTITY displayNotification.accesskey   "N">
-<!ENTITY displayNotification.label       "Display a notification bar at the top of the content area">
 
-<!ENTITY whenPluginsRequired.description "When additional plugins are required:">
+<!ENTITY displayNotification.accesskey   "E">
+<!ENTITY displayNotification.label       "Exibir uma barra de notificação no topo da área de conteúdo">
+
+<!ENTITY whenPluginsRequired.description "Quando plugins adicionais são requeridos:">

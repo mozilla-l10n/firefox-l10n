@@ -110,22 +110,22 @@
 <!ENTITY spellIgnoreWord.label          "Ignorar palavra">
 <!ENTITY spellIgnoreWord.accesskey      "I">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "Copy Audio Location">
+<!ENTITY copyAudioURLCmd.label        "Copiar localização do audio">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyVideoURLCmd.label        "Copy Video Location">
+<!ENTITY copyVideoURLCmd.label        "Copiar localização do vídeo">
 <!ENTITY mediaHideControls.accesskey  "a">
-<!ENTITY mediaHideControls.label      "Hide Media Controls">
-<!ENTITY mediaMute.accesskey          "M">
-<!ENTITY mediaMute.label              "Mute">
+<!ENTITY mediaHideControls.label      "Ocultar controles de mídia">
+<!ENTITY mediaMute.accesskey          "E">
+<!ENTITY mediaMute.label              "Emudecer">
 <!ENTITY mediaPause.accesskey         "P">
-<!ENTITY mediaPause.label             "Pause">
+<!ENTITY mediaPause.label             "Pausar">
 <!ENTITY mediaPlay.accesskey          "P">
 <!ENTITY mediaPlay.label              "Play">
 <!ENTITY mediaShowControls.accesskey  "a">
-<!ENTITY mediaShowControls.label      "Show Media Controls">
+<!ENTITY mediaShowControls.label      "Exibir controles de mídia">
 <!ENTITY mediaUnmute.accesskey        "m">
-<!ENTITY mediaUnmute.label            "Unmute">
+<!ENTITY mediaUnmute.label            "Desemudecer">
 <!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "Save Audio As…">
+<!ENTITY saveAudioCmd.label           "Salvar audio como…">
 <!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveVideoCmd.label           "Save Video As…">
+<!ENTITY saveVideoCmd.label           "Salvar vídeo como…">
