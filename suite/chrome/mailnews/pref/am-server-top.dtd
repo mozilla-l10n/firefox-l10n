@@ -12,8 +12,6 @@
 <!ENTITY biffStart.label "Проверять наличие новых сообщений каждые ">
 <!ENTITY biffStart.accesskey "к">
 <!ENTITY biffEnd.label "минут">
-<!ENTITY isSecure.label "Использовать защищённое соединение (SSL)">
-<!ENTITY isSecure.accesskey "з">
 <!ENTITY socketType.label "Использовать защищённое соединение:">
 <!ENTITY neverSecure.label "Никогда">
 <!ENTITY neverSecure.accesskey "Н">
