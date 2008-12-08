@@ -38,11 +38,11 @@
 
 <!ENTITY  managecerts.caption "Gestion des certificats">
 <!ENTITY  managecerts.text "Utilisez le Gestionnaire de certificats pour vos certificats personnels ainsi que pour les autres certificats.">
-<!ENTITY  managecerts.button "Gestion des certificats…">
+<!ENTITY  managecerts.button "Gérer les certificats…">
 <!ENTITY  managecerts.accesskey "G">
-<!ENTITY  managedevices.caption "Gestion des périphériques de sécurité…">
+<!ENTITY  managedevices.caption "Gestion des périphériques de sécurité">
 <!ENTITY  managedevices.text "Utilisez le Gestionnaire de périphériques pour gérer les périphériques de sécurité, comme les cartes à puce.">
-<!ENTITY  managedevices.button "Gestion des périphériques de sécurité…">
+<!ENTITY  managedevices.button "Gérer les périphériques de sécurité…">
 <!ENTITY  managedevices.accesskey "s">
 
 <!ENTITY  ssl.label "SSL">
