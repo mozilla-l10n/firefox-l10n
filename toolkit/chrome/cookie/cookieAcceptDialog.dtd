@@ -14,6 +14,6 @@
 <!ENTITY button.deny.accesskey "D">
 
 <!ENTITY dialog.title "Confirmeu">
-<!ENTITY dialog.remember.label "Utilitza la meua elecció per a totes les galetes d'aquest lloc">
+<!ENTITY dialog.remember.label "Utilitza l'elecció per a totes les galetes d'aquest lloc">
 <!ENTITY dialog.remember.accesskey "U">
 

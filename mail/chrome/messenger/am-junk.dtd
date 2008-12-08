@@ -13,7 +13,7 @@
 <!ENTITY purge1.accesskey "u">
 <!ENTITY purge2.label "dies">
 
-<!ENTITY whitelist.label "No marquis els missatges com a correu brossa si el remitent és a la meua llibreta d'adreces: ">
+<!ENTITY whitelist.label "No marquis els missatges com a correu brossa si el remitent és a la llibreta d'adreces: ">
 <!ENTITY whitelist.accesskey "m">
 
 <!ENTITY ispHeaders.label "Confia en les capçaleres de missatge brossa definides per: ">
