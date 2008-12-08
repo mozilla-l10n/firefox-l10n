@@ -1,14 +1,3 @@
-<!ENTITY privatebrowsingpage.tabtitle                  "පුද්ගලික ගවේශනය">
-
-<!ENTITY privatebrowsingpage.pagetitle                 "පුද්ගලික ගවේශනය">
-
-<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; මෙම සැසිය සඳහා කිසිදු අතීතයක් මතකතබා ගනු නොලැබේ.">
-<!ENTITY privatebrowsingpage.longDesc                  "මෙම ගවේශන සැසිය අතරතුර &brandShortName; විසින් අතීතය වාර්තා නොකරගනු ඇත.  මෙයට ගවේශන අතීතය, සෙවුම් අතීතය, බාගත කිරීමේ අතීතය, වෙබ් පෝරම අතීතය, කුකී සහ තාවකාලික අන්තර්ජාල ගොනු අයත් වේ.  කෙසේ වුවත් ඔබ බාගත කරන ඕනෑම ගොනුවක් හෝ ඔබ සාදන පිටු සළකුණු සංරක්ෂණය කෙරෙනු ඇත.">
-
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "ඔබට ඔබගේ මෑත කාලීන අතීතය පිරිසිදු කිරීමෙන්ද ආරම්භ කිරීමට අවශ්‍ය වනු ඇත.">
-<!ENTITY privatebrowsingpage.recentHistory.label       "මෑත කාලීන අතීතය පිරිසිදු කරන්න">
-<!ENTITY privatebrowsingpage.recentHistory.accesskey   "C">
-
-<!ENTITY privatebrowsingpage.howToStopDesc             "පුද්ගලික ගවේශනය නැවැත්වීම සඳහා මෙවලම් &gt; සළකුණ ඉවත් කරන්න.">
-<!ENTITY privatebrowsingpage.footerDesc                "!">
 <!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "You may want to start by also clearing your recent history.">
+<!ENTITY privatebrowsingpage.clearRecentHistory.label  "Clear Recent History…">
+<!ENTITY privatebrowsingpage.clearRecentHistory.accesskey "C">
