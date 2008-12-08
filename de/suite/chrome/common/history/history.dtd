@@ -41,7 +41,7 @@
 <!ENTITY bookmarkCmd.label              "Diesen Link als Lesezeichen hinzufügen…">
 <!ENTITY bookmarkCmd.accesskey          "D">
 
-<!ENTITY col.name.label                 "Titel">
+<!ENTITY col.title.label                "Titel">
 <!ENTITY col.url.label                  "Adresse">
 <!ENTITY col.lastvisit.label            "Zuletzt besucht">
 <!ENTITY col.visitcount.label           "Anzahl Besuche">
