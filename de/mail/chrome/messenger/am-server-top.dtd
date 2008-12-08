@@ -19,8 +19,6 @@
 <!ENTITY biffStart.label "Alle ">
 <!ENTITY biffStart.accesskey "A">
 <!ENTITY biffEnd.label "Minuten auf neue Nachrichten prüfen">
-<!ENTITY isSecure.label "Verschlüsselte Verbindung (SSL) verwenden">
-<!ENTITY isSecure.accesskey "L">
 <!ENTITY socketType.label "Verschlüsselte Verbindung verwenden:">
 <!ENTITY neverSecure.label "Nein">
 <!ENTITY neverSecure.accesskey "N">
