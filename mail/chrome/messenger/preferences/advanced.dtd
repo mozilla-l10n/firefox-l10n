@@ -21,8 +21,6 @@
 <!ENTITY markAsReadDelay.label         "Nach dem Anzeigen für">
 <!ENTITY markAsReadDelay.accesskey     "c">
 <!ENTITY secondsLabel.label            "Sekunden">
-<!ENTITY showFolderColumns.label       "Info-Spalten in der Ordner-Liste anzeigen">
-<!ENTITY showFolderColumns.accesskey   "I">
 <!ENTITY openMsgIn.label               "Nachricht durch Doppelklick öffnen in:">
 <!ENTITY reuseExpRadio0.label          "neuem Fenster">
 <!ENTITY reuseExpRadio0.accesskey      "n">
