@@ -21,8 +21,6 @@
 <!ENTITY markAsReadDelay.label         "Après un délai de">
 <!ENTITY markAsReadDelay.accesskey     "A">
 <!ENTITY secondsLabel.label            "secondes">
-<!ENTITY showFolderColumns.label       "Afficher les colonnes optionnelles dans la liste des dossiers">
-<!ENTITY showFolderColumns.accesskey   "f">
 <!ENTITY openMsgIn.label               "Ouvrir les messages dans :">
 <!ENTITY reuseExpRadio0.label          "une nouvelle fenêtre">
 <!ENTITY reuseExpRadio0.accesskey      "U">
