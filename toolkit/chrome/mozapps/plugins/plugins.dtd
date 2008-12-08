@@ -5,7 +5,7 @@
 
 <!ENTITY pluginWizard.availablePluginsPage.title "Lejupielādei pieejamie spraudņi">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "Ir pieejami šādi spraudņi:">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Spiediet Tālāk, lai instalētu šos spraudņus.">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Spiediet pogu Uz priekšu, lai instalētu šos spraudņus.">
 <!ENTITY pluginWizard.availablePluginsPage.installerUI "Dažiem spraudņiem instalēšanas laikā nepieciešama papildu informācija.">
 
 <!ENTITY pluginWizard.licensePage.title "Spraudņu licences">

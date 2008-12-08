@@ -8,6 +8,10 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privātā pārlūkošana)">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
+
 <!ENTITY tabCmd.label "Jauna cilne">
 <!ENTITY tabCmd.accesskey "C">
 <!ENTITY tabCmd.commandkey "t">
@@ -421,7 +425,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY sendAudioCmd.label           "Nosūtīt audio…">
 <!ENTITY sendAudioCmd.accesskey       "n">
 
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Privātā pārlūkosana)">
 <!ENTITY privateBrowsingCmd.label            "Privātā pārlūkošana">
 <!ENTITY privateBrowsingCmd.accesskey        "P">
 <!ENTITY ctrlTab.search.emptyText "Meklēt cilnes">

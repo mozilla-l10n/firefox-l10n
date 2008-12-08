@@ -5,7 +5,7 @@
 <!ENTITY profileCreationExplanation_1.text "&brandShortName; saglabā jūsu iestatījumus un izvēles jūsu personīgajā profilā.">
 <!ENTITY profileCreationExplanation_2.text "Ja &brandShortName; izmanto vairāki lietotāji, iespējams izmantot profilus, kas ļauj glabāt katra lietotāja informāciju atsevišķi. Lai to izdarītu, katram lietotājam ir jāizveido savs profils.">
 <!ENTITY profileCreationExplanation_3.text "Ja jūs esat vienīgā persona, kas lieto šo &brandShortName; kopiju, jums ir jābūt vismaz vienam profilam. Ja vēlaties, varat radīt sev vairākus profilus, lai saglabātu dažādas iestatījumu un izvēļu kopas. Piemēram, jūs varētu vēlēties vienu profilu darbam un citu personīgai lietošanai.">
-<!ENTITY profileCreationExplanation_4.text "Lai sāktu profila izveidi, spiediet Tālāk.">
+<!ENTITY profileCreationExplanation_4.text "Lai sāktu profila izveidi, spiediet pogu Uz priekšu.">
 <!ENTITY profileCreationExplanation_4Mac.text "Lai sāktu profila izveidi, spiediet Turpināt.">
 <!ENTITY profileCreationExplanation_4Gnome.text "Lai sāktu profila izveidi, spiediet Nākamais.">
 <!-- Second wizard page -->
