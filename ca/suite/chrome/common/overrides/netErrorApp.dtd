@@ -1,7 +1,7 @@
 <!-- Override app-specific error messages for SeaMonkey -->
 
 <!ENTITY securityOverride.linkText "O podeu afegir-hi una excepció…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Sona malament, porta'm millorar a la meua pàgina d'inici">
+<!ENTITY securityOverride.getMeOutOfHereButton "Sona malament, porta'm millor a la meva pàgina d'inici">
 <!ENTITY securityOverride.exceptionButtonLabel "Afegeix una excepció">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the

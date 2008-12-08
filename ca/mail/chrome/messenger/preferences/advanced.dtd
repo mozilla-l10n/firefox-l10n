@@ -8,7 +8,7 @@
 
 <!ENTITY enableGloda.label             "Habilita l'indexador de missatges">
 <!ENTITY enableGloda.accesskey         "i">
-<!ENTITY showCondensedAddresses.label "Mostra només el 'Nom a mostrar' per a aquella gent a la meua llibreta d'adreces.">
+<!ENTITY showCondensedAddresses.label "Ensenya només el 'Nom a mostrar' per a aquella gent a la llibreta d'adreces.">
 <!ENTITY showCondensedAddresses.accesskey "p">
 
 <!ENTITY autoMarkAsRead.label          "Marca els missatges com a llegits automàticament">

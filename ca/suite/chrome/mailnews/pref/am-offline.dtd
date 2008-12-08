@@ -27,7 +27,7 @@
 <!ENTITY offlineSelectImap.label "Seleccioneu les carpetes per ús fora de línia...">
 <!ENTITY offlineSelect.accesskey "S">
 <!ENTITY offlineDesc.label "El mode fora de línia us permet baixar els missatges localment de manera que estiguin disponibles quan no estigueu connectat al servidor. Utilitzeu el botó &quot;Selecciona&quot; per a decidir quins missatges estaran disponibles quan estigueu fora de línia.">
-<!ENTITY makeInboxMsgsAvailable.label "Fes que els missatges de la meua safata d'entrada estiguin disponibles quan treballi fora de línia">
+<!ENTITY makeInboxMsgsAvailable.label "Fes que els missatges de la safata d'entrada estiguin disponibles quan treballi fora de línia">
 <!ENTITY makeInboxMsgsAvailable.accesskey "b">
 <!ENTITY offlineGroupTitle.label "Fora de línia">
 <!ENTITY diskspaceGroupTitle.label "Espai de disc">

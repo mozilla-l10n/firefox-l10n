@@ -6,10 +6,10 @@
 <!ENTITY requestReceipt.label "Quan s'estan enviant missatges, sempre soŀlicita una confirmació de recepció">
 <!ENTITY requestReceipt.accesskey "Q">
 <!ENTITY receiptArrive.label "Quan arribi una confirmació de recepció:">
-<!ENTITY leaveIt.label "Deixa-la a la meua safata d'entrada">
+<!ENTITY leaveIt.label "Deixa-la a la safata d'entrada">
 <!ENTITY leaveIt.accesskey "i">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
-<!ENTITY moveToSent.label "Mou-la a la meua carpeta de Correu enviat">
+<!ENTITY moveToSent.label "Mou-la a la carpeta de correu enviat">
 <!ENTITY moveToSent.accesskey "m">
 <!ENTITY requestMDN.label "Quan rebi una soŀlicitud per a una confirmació de recepció:">
 <!ENTITY returnSome.label "Permet-la per a alguns missatges">

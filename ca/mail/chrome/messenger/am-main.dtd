@@ -22,7 +22,7 @@
 <!ENTITY editVCard.label "Edita la targeta electrònica…">
 <!ENTITY editVCard.accesskey "d">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
-<!ENTITY attachVCard.label "Adjunta la meua targeta electrònica als missatges (vCard)">
+<!ENTITY attachVCard.label "Adjunta la meva targeta electrònica als missatges (vCard)">
 <!ENTITY attachVCard.accesskey "m">
 
 <!ENTITY manageIdentities.label "Gestiona les identitats…">

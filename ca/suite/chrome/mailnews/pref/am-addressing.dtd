@@ -25,10 +25,10 @@
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label "Llavors,">
 <!ENTITY then.accesskey "L">
-<!ENTITY aboveQuote.label "inicia la meua resposta abans del text citat">
-<!ENTITY belowQuote.label "inicia la meua resposta després del text citat">
+<!ENTITY aboveQuote.label "inicia la resposta abans del text citat">
+<!ENTITY belowQuote.label "inicia la resposta després del text citat">
 <!ENTITY selectAndQuote.label "selecciona el text citat">
-<!ENTITY place.label "i posa la meua signatura">
+<!ENTITY place.label "i posa la meva signatura">
 <!ENTITY place.accesskey "p">
 <!ENTITY belowText.label "sota el text citat (recomanat)">
-<!ENTITY aboveText.label "sota la meua resposta (abans del text citat)">
+<!ENTITY aboveText.label "sota la resposta (abans del text citat)">
