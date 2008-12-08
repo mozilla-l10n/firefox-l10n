@@ -9,7 +9,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
                                                                   inside the private browsing mode -->
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Privé navigeren)">
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Privénavigeren)">
 
 <!ENTITY tabCmd.label "Nieuw tabblad">
 <!ENTITY tabCmd.accesskey "t">
@@ -164,7 +164,7 @@
 <!ENTITY clearRecentHistoryCmd.label            "Recente geschiedenis opruimen">
 <!ENTITY clearRecentHistoryCmd.accesskey        "R">
 
-<!ENTITY privateBrowsingCmd.label            "Privé navigeren">
+<!ENTITY privateBrowsingCmd.label            "Privénavigeren">
 <!ENTITY privateBrowsingCmd.accesskey        "n">
 
 <!ENTITY viewMenu.label         "Beeld"> 
