@@ -41,7 +41,7 @@
 <!ENTITY bookmarkCmd.label "Marquer ce lien…">
 <!ENTITY bookmarkCmd.accesskey "M">
 
-<!ENTITY col.name.label "Nom">
+<!ENTITY col.title.label "Nom">
 <!ENTITY col.url.label "Emplacement">
 <!ENTITY col.lastvisit.label "Date de visite">
 <!ENTITY col.visitcount.label "Nombre de visites">
