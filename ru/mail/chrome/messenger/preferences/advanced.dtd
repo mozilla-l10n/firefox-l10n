@@ -14,8 +14,6 @@
 <!ENTITY markAsReadDelay.label "После просмотра в течение">
 <!ENTITY markAsReadDelay.accesskey "с">
 <!ENTITY secondsLabel.label "сек.">
-<!ENTITY showFolderColumns.label "Показывать дополнительные колонки в окне дерева папок">
-<!ENTITY showFolderColumns.accesskey "к">
 <!ENTITY openMsgIn.label "Открывать новые сообщения в:">
 <!ENTITY reuseExpRadio0.label "новом окне">
 <!ENTITY reuseExpRadio0.accesskey "о">

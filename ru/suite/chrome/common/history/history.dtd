@@ -1,33 +1,40 @@
-<!ENTITY menuBar.tooltip "Панель меню">
-<!ENTITY fileMenu.label "Файл">
-<!ENTITY closeCmd.label "Закрыть">
-<!ENTITY editMenu.label "Правка">
-<!ENTITY undoCmd.label "Отменить">
-<!ENTITY redoCmd.label "Повторить">
-<!ENTITY cutCmd.label "Вырезать">
-<!ENTITY copyCmd.label "Копировать">
-<!ENTITY pasteCmd.label "Вставить">
-<!ENTITY deleteCmd.label "Удалить">
-<!ENTITY deleteHostnameCmd.accesskey "у">
-<!ENTITY deleteDomainCmd.accesskey "д">
-<!ENTITY selAllCmd.label "Выделить всё">
-<!ENTITY findHisCmd.label "Поиск в журнале…">
-<!ENTITY findHisCmd.commandkey "f">
-<!ENTITY findHisCmd.accesskey "П">
-<!ENTITY groupBy.label "Группировка по">
-<!ENTITY groupBy.accesskey "Г">
-<!ENTITY groupByDay.label "Дням">
-<!ENTITY groupByDay.accesskey "Д">
-<!ENTITY groupBySite.label "сайтам">
-<!ENTITY groupBySite.accesskey "с">
-<!ENTITY groupByNone.label "Нет">
-<!ENTITY groupByNone.accesskey "Н">
 <!ENTITY historyWindowTitle.label "Журнал посещений">
-<!ENTITY menuitem.view.unsorted.label "Не сортировать">
-<!ENTITY menuitem.view.unsorted.accesskey "Н">
-<!ENTITY sortAscending.label "По возрастанию">
-<!ENTITY sortAscending.accesskey "в">
-<!ENTITY sortDescending.label "По убыванию">
-<!ENTITY sortDescending.accesskey "у">
-<!ENTITY menuitem.view.show_columns.label "Показать колонки">
-<!ENTITY menuitem.view.show_columns.accesskey "з">
+<!ENTITY menuBar.tooltip "Панель меню">
+<!ENTITY searchBar.tooltip "Панель поиска">
+<!ENTITY search.emptytext "Поиск в журнале">
+<!ENTITY search.key "f">
+<!ENTITY view.label "Вид">
+<!ENTITY byDate.label "По дате">
+<!ENTITY byDate.accesskey "д">
+<!ENTITY bySite.label "По сайтам">
+<!ENTITY bySite.accesskey "с">
+<!ENTITY byMostVisited.label "По частоте посещения">
+<!ENTITY byMostVisited.accesskey "п">
+<!ENTITY byLastVisited.label "По дате последнего посещения">
+<!ENTITY byLastVisited.accesskey "о">
+<!ENTITY byDayAndSite.label "По дате и сайтам">
+<!ENTITY byDayAndSite.accesskey "и">
+<!ENTITY view.columns.label "Показать колонки">
+<!ENTITY view.columns.accesskey "к">
+<!ENTITY view.sort.label "Сортировка">
+<!ENTITY view.sort.accesskey "р">
+<!ENTITY view.unsorted.label "Без сортировки">
+<!ENTITY view.unsorted.accesskey "е">
+<!ENTITY view.sortAscending.label "Сортировка по алфавиту">
+<!ENTITY view.sortAscending.accesskey "С">
+<!ENTITY view.sortDescending.label "В обратном порядке">
+<!ENTITY view.sortDescending.accesskey "о">
+<!ENTITY cmd.open.label "Открыть">
+<!ENTITY cmd.open.accesskey "О">
+<!ENTITY cmd.open_window.label "Открыть в новом окне">
+<!ENTITY cmd.open_window.accesskey "н">
+<!ENTITY cmd.open_tab.label "Открыть ссылку в новой вкладке">
+<!ENTITY cmd.open_tab.accesskey "в">
+<!ENTITY cmd.open_all_in_tabs.label "Открыть всё во вкладках">
+<!ENTITY cmd.open_all_in_tabs.accesskey "в">
+<!ENTITY bookmarkCmd.label "Добавить ссылку в закладки…">
+<!ENTITY bookmarkCmd.accesskey "с">
+<!ENTITY col.title.label "Заголовок">
+<!ENTITY col.url.label "Адрес">
+<!ENTITY col.lastvisit.label "Дата посещения">
+<!ENTITY col.visitcount.label "Кол-во посещений">
