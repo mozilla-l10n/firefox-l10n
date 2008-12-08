@@ -11,3 +11,5 @@
 <!ENTITY paneAttachments.title    "Taheaksels">
 <!ENTITY panePrivacy.title        "Privacy">
 <!ENTITY paneAdvanced.title       "Avansearre">
+
+<!ENTITY cmdCloseMac.commandKey   "w">
