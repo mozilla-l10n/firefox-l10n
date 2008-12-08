@@ -14,7 +14,7 @@
 <!ENTITY menu_wrapLongLines.accesskey "W">
 
 <!ENTITY menu_highlightSyntax.label "Podświetlanie składni">
-<!ENTITY menu_highlightSyntax.accesskey "P">
+<!ENTITY menu_highlightSyntax.accesskey "d">
 
 <!ENTITY findNextCmd.label "Znajdź następny">
 <!ENTITY findNextCmd.accesskey "n">

@@ -42,7 +42,7 @@
 
 <!ENTITY copy.key "C">
 <!ENTITY copy.label "Kopiuj">
-<!ENTITY copy.accesskey "p">
+<!ENTITY copy.accesskey "K">
 <!ENTITY selectall.key "A">
 <!ENTITY selectall.label "Zaznacz wszystko">
 <!ENTITY selectall.accesskey "A">
@@ -50,12 +50,12 @@
 
 <!ENTITY generalTab "Ogólne">
 <!ENTITY generalTab.accesskey "G">
-<!ENTITY generalURL "Adres:">
+<!ENTITY generalURL "URL:">
 <!ENTITY generalType "Typ:">
 <!ENTITY generalMode "Tryb wyświetlania:">
 <!ENTITY generalSize "Rozmiar:">
 <!ENTITY generalReferrer "Odsyłający URL:">
-<!ENTITY generalSource "Pamięć podręczna:">
+<!ENTITY generalSource "Źródło:">
 <!ENTITY generalModified "Zmodyfikowany:">
 <!ENTITY generalEncoding "Kodowanie:">
 <!ENTITY generalMetaName "Nazwa">
@@ -93,16 +93,16 @@
 <!ENTITY mediaAddress "Adres">
 <!ENTITY mediaType "Typ">
 <!ENTITY mediaSize "Rozmiar">
-<!ENTITY mediaCount "Liczba">
+<!ENTITY mediaCount "Ilość">
 <!ENTITY mediaDimensions "Wymiary zadeklarowane:">
 <!ENTITY mediaPhysDimensions "Wymiary rzeczywiste">
 <!ENTITY mediaTitle "Tytuł:">
 <!ENTITY mediaLongdesc "Długi opis:">
 <!ENTITY mediaBlockImage.accesskey "B">
 <!ENTITY mediaSaveAs "Zapisz jako…">
-<!ENTITY mediaSaveAs.accesskey "S">
+<!ENTITY mediaSaveAs.accesskey "Z">
 <!ENTITY mediaSaveAs2.accesskey "e">
-<!ENTITY mediaPreview "Podgląd mediów:">
+<!ENTITY mediaPreview "Podgląd:">
 
 <!ENTITY feedTab "Kanały">
 <!ENTITY feedTab.accesskey "F">
