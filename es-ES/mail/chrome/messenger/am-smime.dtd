@@ -1,17 +1,27 @@
 <!ENTITY securityTitle.label "Seguridad">
+<!ENTITY securityTab.label "Seguridad">
 <!ENTITY securityHeading.label "Para enviar y recibir mensajes firmados o cifrados, debe especificar tanto un certificado para firma digital como uno para cifrado.">
 <!ENTITY encryptionGroupTitle.label "Cifrado">
 <!ENTITY encryptionChoiceLabel.label "Cifrado elegido para enviar mensajes:">
 <!ENTITY neverEncrypt.label "Nunca (no usar cifrado)">
+<!ENTITY neverEncrypt.accesskey "N">
 <!ENTITY alwaysEncryptMessage.label "Siempre (no podrá enviar si algún receptor carece de certificado)">
+<!ENTITY alwaysEncryptMessage.accesskey "e">
 <!ENTITY encryptionCert.message "Usar este certificado para cifrar/descifrar mensajes enviados a Vd.:">
-<!ENTITY certificate.button "Seleccionar…">
-<!ENTITY certificate_clear.button "Limpiar">
+<!ENTITY digitalSign.certificate.button "Seleccionar…">
+<!ENTITY digitalSign.certificate.accesskey "S">
+<!ENTITY digitalSign.certificate_clear.button "Limpiar">
+<!ENTITY digitalSign.certificate_clear.accesskey "L">
+<!ENTITY encryption.certificate.button "Seleccionar…">
+<!ENTITY encryption.certificate.accesskey "c">
+<!ENTITY encryption.certificate_clear.button "Limpiar">
+<!ENTITY encryption.certificate_clear.accesskey "m">
 <!ENTITY signingGroupTitle.label "Firmado digital">
 <!ENTITY signMessage.label "Firmar mensajes digitalmente">
+<!ENTITY signMessage.accesskey "D">
 <!ENTITY signingCert.message "Usar este certificado para firmar los mensajes que envíe:">
 <!ENTITY certificates.label "Certificados">
-<!ENTITY managecerts.label "Ver certificados">
-<!ENTITY managecerts.accesskey "V">
-<!ENTITY managedevices.label "Dispositivos de seguridad">
-<!ENTITY managedevices.accesskey "S">
+<!ENTITY manageCerts.label "Ver certificados">
+<!ENTITY manageCerts.accesskey "V">
+<!ENTITY manageDevices.label "Dispositivos de seguridad">
+<!ENTITY manageDevices.accesskey "i">
