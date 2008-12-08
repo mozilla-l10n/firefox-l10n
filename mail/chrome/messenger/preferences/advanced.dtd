@@ -52,8 +52,6 @@
 <!ENTITY markAsReadDelay.label         "praėjus">
 <!ENTITY markAsReadDelay.accesskey     "p">
 <!ENTITY secondsLabel.label            "sek.">
-<!ENTITY showFolderColumns.label       "Rodyti pašto aplankų polangio stulpelius">
-<!ENTITY showFolderColumns.accesskey   "d">
 <!ENTITY openMsgIn.label               "Atveriamą laišką rodyti:">
 <!ENTITY reuseExpRadio0.label          "naujame lange">
 <!ENTITY reuseExpRadio0.accesskey      "n">
