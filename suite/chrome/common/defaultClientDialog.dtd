@@ -7,4 +7,4 @@
 
 <!ENTITY checkOnStartup.label "Always perform this check when starting &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "A">
-<!ENTITY rss.label "RSS Feeds">
+<!ENTITY rss.label "RSS">
