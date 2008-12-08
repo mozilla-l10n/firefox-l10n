@@ -1,7 +1,7 @@
 <!-- extracted from content/pref-proxies.xul -->
 
 <!ENTITY pref.proxies.title "Serwery proxy">
-<!ENTITY pref.proxies.desc "Proxy jest serwisem sieciowym który może filtrować i przyśpieszyć połączenie z Internetem.">
+<!ENTITY pref.proxies.desc "Proxy jest serwisem sieciowym, który może filtrować i przyśpieszyć połączenie z Internetem.">
 <!ENTITY proxyTitle.label "Konfiguracja proxy do połączenia z Internetem">
 <!ENTITY directTypeRadio.label "Bezpośrednie połączenie z Internetem">
 <!ENTITY directTypeRadio.accesskey "d">

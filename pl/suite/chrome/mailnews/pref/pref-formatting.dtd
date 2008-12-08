@@ -46,7 +46,7 @@
 <!ENTITY sendHTML.accesskey "H">
 <!ENTITY sendBoth.label "Prześlij wiadomość w obydwu formatach: HTML oraz tekstowym (zwiększa rozmiar wysyłanej wiadomości)">
 <!ENTITY sendBoth.accesskey "e">
-<!ENTITY override.label "Poniższe ustawienia mogą zostać indywidualnie zmienione dla każdej wiadomości za pomocą menu Opcje, podczas komponowania wiadomości.">
+<!ENTITY override.label "Poniższe ustawienia mogą zostać indywidualnie zmienione przy pomocy menu Opcje dla każdej wiadomości podczas jej komponowania.">
 
 <!-- Html and Plain Text Domains  -->
 <!ENTITY domain.title "Automatyczny wybór formatu HTML lub tekstowego - ustawienia domen">

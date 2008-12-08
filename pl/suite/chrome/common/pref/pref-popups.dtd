@@ -26,5 +26,5 @@
 <!ENTITY displayIcon.label "Wyświetl ikonę na pasku stanu przeglądarki">
 <!ENTITY displayIcon.accesskey "D">
 
-<!ENTITY popupNote.description "Uwaga: Blokowanie wszystkich wyskakujących okien może zakłócić pracę niektórych witryn (np. okna logowania w bankach i sklepach). Naciśnij przycisk Pomoc, aby dowiedzieć się jak pozwolić niektórym witrynom na wyświetlanie wyskakujących okien.">
+<!ENTITY popupNote.description "Uwaga: Blokowanie wszystkich wyskakujących okien może zakłócić pracę niektórych witryn (np. okna logowania w bankach i sklepach). Naciśnij przycisk Pomoc, aby dowiedzieć się, jak pozwolić niektórym witrynom na wyświetlanie wyskakujących okien.">
 

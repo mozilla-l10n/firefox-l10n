@@ -37,7 +37,7 @@
 
 <!ENTITY startpage.title "Witamy w Kurierze Poczty &brandShortName;">
 <!ENTITY headline.label 'Welcome to <a id="vendorURL" href="">&brandShortName;</a> Mail &amp; Newsgroups!'>
-<!ENTITY description.label "Kurier Poczty jest zaawansowanym klientem poczty i grup dyskusyjnych, posiadającym zaawansowany filtr niechcianej poczty i inne przydatne narzędzia.">
+<!ENTITY description.label "Kurier Poczty jest rozbudowanym klientem poczty i grup dyskusyjnych, posiadającym zaawansowany filtr niechcianej poczty i inne przydatne narzędzia.">
 <!ENTITY features.title "Możliwości">
 <!ENTITY feat_multiacc.label "Obsługa wielu kont">
 <!ENTITY feat_junk.label "Filtr niechcianej poczty">
@@ -48,7 +48,7 @@
 <!ENTITY feat_labels.label "Łatwe do dostosowania etykiety dla wiadomości oraz ustawienia okna poczty">
 <!ENTITY feat_integration.label "Ściśle zintegrowany z &brandShortName;">
 <!ENTITY dict.title "Słowniki">
-<!ENTITY dict_intro.label "Słowniki są używane do sprawdzania poprawności pisowni">
+<!ENTITY dict_intro.label "Słowniki są używane do sprawdzania poprawności pisowni.">
 <!ENTITY dict_info.label 'Many additional languages can be installed from the <a id="dictURL" href="">dictionaries</a> section on <a href="https://addons.mozilla.org/seamonkey/">Mozilla Add-ons</a>.'>
 <!ENTITY info.title "Więcej informacji">
 <!ENTITY info_bugs.label '<a href="http://www.mozilla.org/mailnews/">We</a> welcome bug reports and feature requests, but please read the <a id="releaseNotesURL" href="">release notes</a> and query <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a> first.'>

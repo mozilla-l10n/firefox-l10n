@@ -43,7 +43,7 @@
 <!ENTITY viewDefaultCharset.accesskey "D">
 
 <!ENTITY composingMessages.caption "Tworzenie wiadomości">
-<!ENTITY useMIME.label "Dla wiadomości, które zawierają 8-bitowe znaki, użyj kodowania MIME &quot;quoted printable&quot;. Pozostaw bez zaznaczenia, aby wysłać wiadomość, taką jaką jest.">
+<!ENTITY useMIME.label "Dla wiadomości, które zawierają 8-bitowe znaki, użyj kodowania MIME &quot;quoted printable&quot;. Pozostaw bez zaznaczenia, aby wysłać wiadomość taką, jaka jest.">
 <!ENTITY useMIME.accesskey "k">
 <!ENTITY sendDefaultCharset.label "Domyślne kodowanie znaków:">
 <!ENTITY sendDefaultCharset.accesskey "D">

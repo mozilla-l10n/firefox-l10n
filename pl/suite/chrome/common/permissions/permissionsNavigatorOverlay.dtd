@@ -19,15 +19,15 @@
 <!ENTITY cookieImageMessageTitle.label "Uprawnienia witryny zostały zmienione">
 <!ENTITY cookieDisplayImagesCmd.label "Menedżer obrazków">
 <!ENTITY cookieDisplayImagesCmd.accesskey "M">
-<!ENTITY cookieAllowImagesCmd.label "Zezwalaj na pobieranie obrazków z tej witryny.">
+<!ENTITY cookieAllowImagesCmd.label "Zezwalaj na pobieranie obrazków z tej witryny">
 <!ENTITY cookieAllowImagesCmd.accesskey "A">
-<!ENTITY cookieAllowImagesMsg.label "Obrazki pochodzące z tej witryny będą zawsze pobierane">
-<!ENTITY cookieImagesDefaultCmd.label "Użyj domyślnych uprawnień.">
+<!ENTITY cookieAllowImagesMsg.label "Obrazki pochodzące z tej witryny będą zawsze pobierane.">
+<!ENTITY cookieImagesDefaultCmd.label "Użyj domyślnych uprawnień">
 <!ENTITY cookieImagesDefaultCmd.accesskey "U">
-<!ENTITY cookieImagesDefaultMsg.label "Obrazki pochodzące z tej witryny będą pobierane w zależności od ustawień domyślnych">
-<!ENTITY cookieBlockImagesCmd.label "Zablokuj obrazki pochodzące z tej witryny.">
+<!ENTITY cookieImagesDefaultMsg.label "Obrazki pochodzące z tej witryny będą pobierane w zależności od ustawień domyślnych.">
+<!ENTITY cookieBlockImagesCmd.label "Zablokuj obrazki pochodzące z tej witryny">
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
-<!ENTITY cookieBlockImagesMsg.label "Obrazki pochodzące z tej witryny nigdy nie będą pobierane">
+<!ENTITY cookieBlockImagesMsg.label "Obrazki pochodzące z tej witryny nigdy nie będą pobierane.">
 
 <!ENTITY cookieAllowPopupsCmd.label "Zezwalaj na wyświetlanie wyskakujących okien przez tę witrynę">
 <!ENTITY cookieAllowPopupsCmd.accesskey "A">

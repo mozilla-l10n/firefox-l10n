@@ -38,7 +38,7 @@
 <!-- LOCALIZATION NOTE pref-receipts.dtd: UI for Mail/News Return Receipts prefs -->
 <!ENTITY pref.receipts.title "Potwierdzenia dostarczenia wiadomości">
 <!ENTITY prefReceipts.caption "Potwierdzenia dostarczenia wiadomości">
-<!ENTITY requestReceipt.label "Podczas wysyłania wiadomości, zawsze żądaj potwierdzenia dostarczenia wiadomości.">
+<!ENTITY requestReceipt.label "Podczas wysyłania wiadomości, zawsze żądaj potwierdzenia dostarczenia.">
 <!ENTITY requestReceipt.accesskey "W">
 <!ENTITY receiptArrive.label "Otrzymane potwierdzenia dostarczenia wiadomości:">
 <!ENTITY leaveIt.label "Pozostaw w folderze Odebrane">

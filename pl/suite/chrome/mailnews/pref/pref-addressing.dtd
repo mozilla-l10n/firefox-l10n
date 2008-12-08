@@ -43,7 +43,7 @@
 
 <!-- Autocompletion -->
 <!ENTITY addressingTitle.label "Autouzupełnianie adresu">
-<!ENTITY highlightNonMatches.label "Zaznacz adresy które nie zostaną autouzupełnione">
+<!ENTITY highlightNonMatches.label "Zaznacz adresy, które nie zostaną autouzupełnione">
 <!ENTITY highlightNonMatches.accesskey "a">
 <!ENTITY addressingEnable.label "W lokalnych książkach adresowych">
 <!ENTITY addressingEnable.accesskey "A">
