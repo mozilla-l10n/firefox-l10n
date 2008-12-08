@@ -52,7 +52,7 @@
 <!ENTITY manualMarkAsRead.label "W przypadku ręcznego oznaczenia ich jako niechciane">
 <!ENTITY manualMarkAsRead.accesskey "k">
 
-<!ENTITY enableJunkLogging.label "Włącz dziennik niechianej poczty">
+<!ENTITY enableJunkLogging.label "Włącz dziennik niechcianej poczty">
 <!ENTITY enableJunkLogging.accesskey "W">
 <!ENTITY openJunkLog.label "Pokaż dziennik">
 <!ENTITY openJunkLog.accesskey "P">

@@ -53,5 +53,5 @@
 <!ENTITY serviceURL.accesskey "S">
 <!ENTITY signingCA.label "Urząd weryfikujący:">
 <!ENTITY signingCA.accesskey "R">
-<!ENTITY validation.requireOCSP.description "Jeśli nie uda sie połączyć z serwerem OCSP, traktuj certyfikat jako niewiarygodny">
+<!ENTITY validation.requireOCSP.description "Jeśli nie uda się połączyć z serwerem OCSP, traktuj certyfikat jako niewiarygodny">
 <!ENTITY validation.requireOCSP.accesskey "W">

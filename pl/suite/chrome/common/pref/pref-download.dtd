@@ -19,7 +19,7 @@
 <!ENTITY downloadFolder.label "Bieżący folder pobierania:">
 <!ENTITY chooseDownloadFolder.label "Wybierz folder…">
 <!ENTITY chooseDownloadFolder.accesskey "W">
-<!ENTITY playSound.label "Odegraj dźwięk">
+<!ENTITY playSound.label "Odtwórz dźwięk">
 <!ENTITY playSound.accesskey "d">
 <!ENTITY showAlert.label "Pokaż okno">
 <!ENTITY showAlert.accesskey "n">

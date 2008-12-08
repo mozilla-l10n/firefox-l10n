@@ -11,5 +11,5 @@
 <!ENTITY systemPref.desc "Po włączeniu tej opcji program &brandShortName; pobiera preferencje z systemu. Preferencje te nadpiszą preferencje &brandShortName;.">
 
 <!ENTITY prefCheckDefault.caption "Integracja z systemem">
-<!ENTITY prefCheckDefaultClient.label "Sprawdzaj ustawienia domyślnych aplikacji podczas uruchamianiu">
+<!ENTITY prefCheckDefaultClient.label "Sprawdzaj ustawienia domyślnych aplikacji podczas uruchamiania">
 <!ENTITY prefCheckDefaultClient.accesskey "C">

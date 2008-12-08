@@ -10,7 +10,7 @@
 <!ENTITY sortBy.description.label "Opis">
 <!ENTITY sortBy.bookmarkAddDate.label "Dodano">
 <!ENTITY sortBy.lastModifiedDate.label "Ostatnio zmodyfikowano">
-<!ENTITY sortBy.lastVisitDate.label "Ostanio odwiedzono">
+<!ENTITY sortBy.lastVisitDate.label "Ostatnio odwiedzono">
 
 <!ENTITY sortOrder.label "Sortowanie:">
 <!ENTITY sortAscending.label "Rosnąco">

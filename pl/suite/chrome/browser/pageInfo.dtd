@@ -50,7 +50,7 @@
 
 <!ENTITY generalTab "Ogólne">
 <!ENTITY generalTab.accesskey "G">
-<!ENTITY generalURL "Addres:">
+<!ENTITY generalURL "Adres:">
 <!ENTITY generalType "Typ:">
 <!ENTITY generalMode "Tryb wyświetlania:">
 <!ENTITY generalSize "Rozmiar:">

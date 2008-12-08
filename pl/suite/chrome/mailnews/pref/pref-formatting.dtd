@@ -70,4 +70,4 @@
 
 <!ENTITY domainnameError.title "Błąd nazwy domeny">
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY invalidEntryError.label "Nazwa domeny @string@ jest niepoprawna i zostanie zignorowana. Poprawne nazwy domen zawierają conajmniej jeden znak '.' oraz znaki po jego obydwu stronach.">
+<!ENTITY invalidEntryError.label "Nazwa domeny @string@ jest niepoprawna i zostanie zignorowana. Poprawne nazwy domen zawierają co najmniej jeden znak '.' oraz znaki po jego obydwu stronach.">

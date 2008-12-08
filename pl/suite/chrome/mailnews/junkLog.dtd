@@ -38,7 +38,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY junkLog.title "Dziennik niechcianej poczty">
-<!ENTITY junkLogInfo.label "Dzienik aktywności filtru niechcianej poczty.">
+<!ENTITY junkLogInfo.label "Dziennik aktywności filtru niechcianej poczty.">
 <!ENTITY clearLog.label "Wyczyść dziennik">
 <!ENTITY clearLog.accesskey "C">
 <!ENTITY closeLog.label "Zamknij">
