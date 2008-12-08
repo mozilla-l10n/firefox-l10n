@@ -1,9 +1,9 @@
 
 <!ENTITY migrationWizard.title "Importēšanas vednis">
 
-<!ENTITY importFrom.label "Importēt Iestatījumus, Grāmatzīmes, Vēsturi, Paroles un citus datus no:">
-<!ENTITY importFromUnix.label "Importēt Iestatījumus, Grāmatzīmes, Vēsturi, Paroles un citus datus no:">
-<!ENTITY importFromBookmarks.label "Importēt Grāmatzīmes no:">
+<!ENTITY importFrom.label "Importēt iestatījumus, grāmatzīmes, vēsturi, paroles un citus datus no:">
+<!ENTITY importFromUnix.label "Importēt iestatījumus, grāmatzīmes, vēsturi, paroles un citus datus no:">
+<!ENTITY importFromBookmarks.label "Importēt grāmatzīmes no:">
 
 <!ENTITY importFromIE.label "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey "M">
