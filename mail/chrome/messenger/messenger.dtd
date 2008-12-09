@@ -105,10 +105,12 @@
 <!ENTITY accountManagerCmdUnix.accesskey "a">
 <!ENTITY undoDeleteMsgCmd.label "Annuler l'effacement">
 <!ENTITY redoDeleteMsgCmd.label "Restaurer le message effacé">
-<!ENTITY undoMoveMsgCmd.label "Annuler déplacement message">
-<!ENTITY redoMoveMsgCmd.label "Rétablir déplacement message ">
-<!ENTITY undoCopyMsgCmd.label "Annuler copie message">
-<!ENTITY redoCopyMsgCmd.label "Rétablir copie message">
+<!ENTITY undoMoveMsgCmd.label "Annuler le déplacement de message">
+<!ENTITY redoMoveMsgCmd.label "Rétablir le déplacement de message">
+<!ENTITY undoCopyMsgCmd.label "Annuler la copie de message">
+<!ENTITY redoCopyMsgCmd.label "Rétablir la copie de message">
+<!ENTITY undoMarkAllCmd.label "Annuler le marquage de tous les messages en lus">
+<!ENTITY redoMarkAllCmd.label "Rétablir le marquage de tous les messages en lus">
 <!ENTITY undoDefaultCmd.label "Annuler">
 <!ENTITY undoDefaultCmd.accesskey "A">
 <!ENTITY redoDefaultCmd.label "Rétablir">
