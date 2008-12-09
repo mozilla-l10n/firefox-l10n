@@ -107,6 +107,8 @@
 <!ENTITY redoMoveMsgCmd.label "Berjocht ferpleatse op 'e nij útfiere">
 <!ENTITY undoCopyMsgCmd.label "Kopiearen berjocht ûngedien meitsje">
 <!ENTITY redoCopyMsgCmd.label "Berjocht kopiearje op 'e nij útfiere">
+<!ENTITY undoMarkAllCmd.label "Alles markearje as lêzen ûngedien meitsje">
+<!ENTITY redoMarkAllCmd.label "Op 'e nij alles markearje as lêzen">
 <!ENTITY undoDefaultCmd.label "Ungedien meitsje">
 <!ENTITY undoDefaultCmd.accesskey "U">
 <!ENTITY redoDefaultCmd.label "Op 'e nij útfiere">
