@@ -107,6 +107,8 @@
 <!ENTITY redoMoveMsgCmd.label              "Powtórz przenoszenie wiadomości">
 <!ENTITY undoCopyMsgCmd.label              "Cofnij kopiowanie wiadomości">
 <!ENTITY redoCopyMsgCmd.label              "Powtórz kopiowanie wiadomości">
+<!ENTITY undoMarkAllCmd.label              "Cofnij oznacz jako przeczytane">
+<!ENTITY redoMarkAllCmd.label              "Ponownie oznacz jako przeczytane">
 <!ENTITY undoDefaultCmd.label              "Cofnij">
 <!ENTITY undoDefaultCmd.accesskey          "C">
 <!ENTITY redoDefaultCmd.label              "Przywróć">
