@@ -6,6 +6,7 @@ Powyższa strona zawiera także informacje odnośnie radzenia sobie z
 problemami, które użytkownicy mogą napotkać podczas użytkowania
 programu.
 
+
                      ..::Dodatkowe informacje::..
  Polska strona Mozilli Thunderbird:    http://www.thunderbird.pl/
  Polskie centrum Mozilli:              http://www.mozillaPL.org/
