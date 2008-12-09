@@ -7,8 +7,6 @@
 <!ENTITY formatGroup.label   "සංයුතිය">
 
 <!ENTITY orientation.label   "පිටුවේ ආකාරය:">
-<!ENTITY portrait            "සිරස්ව">
-<!ENTITY landscape           "තිරස්ව">
 
 <!ENTITY scale.label         "පරිමාණය:">
 <!ENTITY scalePercent        "&#037;">
@@ -59,11 +57,11 @@
 <!ENTITY shrinkToFit.accesskey "W">
 <!ENTITY scale.accesskey     "S">
 <!ENTITY printBG.accesskey   "B">
-<!ENTITY portrait.label      "Portrait">
+<!ENTITY portrait.label      "සිරස්ව">
 <!ENTITY portrait.accesskey  "P">
 <!ENTITY marginTop.accesskey "T">
 <!ENTITY marginRight.accesskey "R">
 <!ENTITY marginLeft.accesskey "L">
 <!ENTITY marginBottom.accesskey "B">
-<!ENTITY landscape.label     "Landscape">
+<!ENTITY landscape.label     "තිරස්ව">
 <!ENTITY landscape.accesskey "L">
