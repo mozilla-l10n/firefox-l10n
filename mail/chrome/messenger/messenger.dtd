@@ -110,6 +110,8 @@
 <!ENTITY redoMoveMsgCmd.label "Wiederherstellen: Nachricht verschieben">
 <!ENTITY undoCopyMsgCmd.label "Rückgängig: Nachricht kopieren">
 <!ENTITY redoCopyMsgCmd.label "Wiederherstellen: Nachricht kopieren">
+<!ENTITY undoMarkAllCmd.label "Rückgängig: Alles gelesen markieren">
+<!ENTITY redoMarkAllCmd.label "Wiederherstellen: Alles gelesen markieren">
 <!ENTITY undoDefaultCmd.label "Rückgängig">
 <!ENTITY undoDefaultCmd.accesskey "R">
 <!ENTITY redoDefaultCmd.label "Wiederherstellen">
