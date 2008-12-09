@@ -107,6 +107,8 @@
 <!ENTITY redoMoveMsgCmd.label "Bericht verplaatsen opnieuw uitvoeren">
 <!ENTITY undoCopyMsgCmd.label "Kopiëren bericht ongedaan maken">
 <!ENTITY redoCopyMsgCmd.label "Bericht kopiëren opnieuw uitvoeren">
+<!ENTITY undoMarkAllCmd.label "Alles gelezen markeren ongedaan maken">
+<!ENTITY redoMarkAllCmd.label "Alles gelezen markeren opnieuw uitvoeren">
 <!ENTITY undoDefaultCmd.label "Ongedaan maken">
 <!ENTITY undoDefaultCmd.accesskey "O">
 <!ENTITY redoDefaultCmd.label "Opnieuw uitvoeren">
