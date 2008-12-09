@@ -5,15 +5,12 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Carpeta…">
 <!ENTITY newFolderCmd.accesskey "C">
-<!ENTITY newTabCmd.label "Obre una pestanya">
 <!ENTITY closeTabCmd.accesskey "t">
 <!ENTITY closeTabCmd.label "Tanca la pestanya">
-<!ENTITY newTabCmd.accesskey "e">
 <!ENTITY newVirtualFolderCmd.label "Cerca desada…">
 <!ENTITY newVirtualFolderCmd.accesskey "d">
 <!ENTITY newAccountCmd.label "Compte…">
 <!ENTITY newAccountCmd.accesskey "o">
-<!ENTITY openMessageMenu.label "Obre">
 <!ENTITY openMessageFileCmd.label "Obre el missatge desat…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Adjuncions">
@@ -44,7 +41,7 @@
 <!ENTITY renameFolder.accesskey "r">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Compacta les carpetes">
-<!ENTITY compactFolder.accesskey "t">
+<!ENTITY compactFolders.accesskey "t">
 <!ENTITY emptyTrashCmd.label "Buida la paperera">
 <!ENTITY emptyTrashCmd.accesskey "d">
 <!ENTITY importCmd.label "Importa…">
@@ -66,7 +63,6 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Exemple d'impressió">
 <!ENTITY printPreviewCmd.accesskey "x">
-<!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "Configuració de la pàgina…">
 <!ENTITY printSetupCmd.accesskey "g">
 
@@ -130,8 +126,6 @@
 <!ENTITY messagePaneWide.accesskey "h">
 <!ENTITY messagePaneVertical.label "Aspecte vertical">
 <!ENTITY messagePaneVertical.accesskey "v">
-<!ENTITY threadPaneWide.label "Visualització de llista ampla">
-<!ENTITY threadPaneWide.accesskey "i">
 <!ENTITY showMessageCmd.label "Subfinestra de missatge">
 <!ENTITY showMessageCmd.accesskey "e">
 
@@ -187,15 +181,12 @@
 <!ENTITY sortUnthreaded.accesskey "N">
 <!ENTITY groupBySort.label "Agrupa per ordenació">
 <!ENTITY groupBySort.accesskey "g">
-<!ENTITY groupBySortCmd.key "G">
 <!ENTITY msgsMenu.label "Missatges">
 <!ENTITY msgsMenu.accesskey "a">
 <!ENTITY threads.label "Cadenes">
 <!ENTITY threads.accesskey "e">
 <!ENTITY allMsgsCmd.label "Tots">
 <!ENTITY allMsgsCmd.accesskey "o">
-<!ENTITY expandOrCollapseMenu.label "Expandeix/Redueix">
-<!ENTITY expandOrCollapseMenu.accesskey "x">
 <!ENTITY expandAllThreadsCmd.label "Expandeix totes les cadenes">
 <!ENTITY expandAllThreadsCmd.accesskey "e">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -226,30 +217,37 @@
 <!ENTITY bodyAsPlaintext.accesskey "T">
 <!ENTITY viewAttachmentsInlineCmd.label "Visualitza les adjuncions en línia">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "V">
-<!ENTITY reloadCmd.label "Actualitza">
-<!ENTITY reloadCmd.accesskey "z">
-<!ENTITY stopCmd.label "Atura">
-<!ENTITY stopCmd.accesskey "r">
-<!ENTITY textZoomEnlargeCmd.label "Augmenta">
-<!ENTITY textZoomEnlargeCmd.accesskey "g">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
-<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY textZoomReduceCmd.label "Redueix">
-<!ENTITY textZoomReduceCmd.accesskey "d">
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomResetCmd.commandkey "0">
-<!ENTITY textZoomResetCmd.label "Restableix">
-<!ENTITY textZoomResetCmd.accesskey "R">
-<!ENTITY textSize.label "Mida del text">
-<!ENTITY textSize.accesskey "x">
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY fullZoomEnlargeCmd.label "Augmenta">
+<!ENTITY fullZoomEnlargeCmd.accesskey "g">
+<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY fullZoomReduceCmd.label "Redueix">
+<!ENTITY fullZoomReduceCmd.accesskey "d">
+<!ENTITY fullZoomReduceCmd.commandkey "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
+<!ENTITY fullZoomResetCmd.label "Restableix">
+<!ENTITY fullZoomResetCmd.accesskey "R">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY fullZoomToggleCmd.label        "Fes zoom només del text">
+<!ENTITY fullZoomToggleCmd.accesskey    "t">
+<!ENTITY fullZoom.label "Zoom">
+<!ENTITY fullZoom.accesskey "Z">
 
 <!ENTITY pageSourceCmd.label "Codi font del missatge">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
-
-<!-- Search Menu -->
-<!ENTITY searchMenu.label "Cerca">
-<!ENTITY searchMenu.accesskey "C">
 
 <!ENTITY findMenu.label "Cerca">
 <!ENTITY findMenu.accesskey "C">
@@ -282,8 +280,8 @@
 <!ENTITY nextStarredMsgCmd.label "Missatge senyalat">
 <!ENTITY nextStarredMsgCmd.accesskey "s">
 <!ENTITY nextUnreadThread.label "Cadena per llegir">
-<!ENTITY nextUnreadThreadCmd.accesskey "C">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "C">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Anterior">
 <!ENTITY prevMenu.accesskey "t">
 <!ENTITY prevMsgCmd.label "Missatge">
@@ -332,14 +330,14 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Crea un filtre…">
 <!ENTITY createFilter.accesskey "a">
-<!ENTITY moveMsgMenu.label "Mou">
-<!ENTITY moveMsgMenu.accesskey "u">
+<!ENTITY moveMsgToMenu.label "Mou">
+<!ENTITY moveMsgToMenu.accesskey "u">
 <!ENTITY moveCopyMsgRecentMenu.label "Recent">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY copyMessageLocation.label "Copia la ubicació del missatge">
 <!ENTITY copyMessageLocation.accesskey "m">
-<!ENTITY copyMsgMenu.label "Copia">
-<!ENTITY copyMsgMenu.accesskey "C">
+<!ENTITY copyMsgToMenu.label "Copia a">
+<!ENTITY copyMsgToMenu.accesskey "C">
 <!ENTITY moveToFolderAgain.label "Torna a moure-ho">
 <!ENTITY moveToFolderAgain.accesskey "T">
 <!ENTITY moveToFolderAgainCmd.key "m">
@@ -373,8 +371,6 @@
 <!ENTITY markAsReadCmd.label "Com a llegit">
 <!ENTITY markAsReadCmd.accesskey "C">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "Com a per llegir">
-<!ENTITY markAsUnreadCmd.accesskey "i">
 <!ENTITY markThreadAsReadCmd.label "Cadena com a llegida">
 <!ENTITY markThreadAsReadCmd.accesskey "m">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -401,7 +397,6 @@
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "Finestra">
-<!ENTITY windowMenu.accesskey "F">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Eines">
@@ -448,7 +443,6 @@
 <!ENTITY printButton.label "Imprimeix">
 <!ENTITY stopButton.label "Atura">
 <!ENTITY throbberItem.title "Indicador d'activitat">
-<!ENTITY updatesItem.title  "Actualitzacions">
 <!ENTITY junkButton.label "Correu brossa">
 <!ENTITY notJunkButton.label "És correu legítim">
 <!ENTITY addressBookButton.label "Llibreta d'adreces">
@@ -460,7 +454,6 @@
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Cerca avançada de missatges">
-<!ENTITY clearButton.tooltip "Buida el criteris de cerca i mostra tots els missatges">
 <!ENTITY getMsgButton.tooltip "Recupera els missatges nous">
 <!ENTITY getAllNewMsgCmd.label "Recupera tots els missatges nous">
 <!ENTITY getAllNewMsgCmd.accesskey "p">
@@ -533,8 +526,6 @@
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "El nom o l'adreça electrònica conté:">
 <!ENTITY SearchNameOrEmail.accesskey "n">
-<!ENTITY clearButton.label "Buida">
-<!ENTITY clearButton.accesskey "u">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Assumpte">
@@ -557,7 +548,6 @@
 <!ENTITY statusColumn.label "Estat">
 <!ENTITY sizeColumn.label "Mida">
 <!ENTITY junkStatusColumn.label "Estat del correu brossa">
-<!ENTITY linesColumn.label "Línies">
 <!ENTITY unreadColumn.label "Per llegir">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Llegit">
@@ -618,8 +608,6 @@
 <!ENTITY contextPrint.accesskey "I">
 <!ENTITY contextPrintPreview.label "Exemple d'impressió">
 <!ENTITY contextPrintPreview.accesskey "e">
-<!ENTITY contextDelete.label "Suprimeix">
-<!ENTITY contextDelete.accesskey "x">
 
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "Correu brossa">
@@ -634,6 +622,9 @@
 <!ENTITY phishingBarMessage2.label "Aquest missatge podria ser fradulent.">
 <!ENTITY removePhishingBarButton1.label "Ignora l'avís">
 <!ENTITY reportPhishingError1.label "Aquest missatge no sembla ser fraudulent">
+
+<!-- Message Header Button Box (to show hidden email addresses) -->
+<!ENTITY more.label "més">
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
@@ -653,8 +644,6 @@
 <!ENTITY CopyEmailAddress.accesskey "c">
 <!ENTITY CreateFilterFrom.label "Crea un filtre de…">
 <!ENTITY CreateFilterFrom.accesskey "f">
-<!ENTITY BlockAddress.label "Bloca l'adreça">
-<!ENTITY BlockAddress.accesskey "B">
 <!ENTITY reportPhishingURL.label "Informa d'un missatge fraudulent">
 <!ENTITY reportPhishingURL.accesskey "o">
 

@@ -6,13 +6,9 @@
 <!ENTITY fccMailFolder.accesskey "D">
 <!ENTITY fccReplyFollowsParent.label "Deixa les respostes en la carpeta del missatge que es respon">
 <!ENTITY fccReplyFollowsParent.accesskey "l">
-<!ENTITY chooseFolderButton.label "Trieu una carpeta…">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Cco una altra adreça:">
 <!ENTITY bccAddress.accesskey "C">
-<!ENTITY specialFolderTitle.label "Carpetes especials">
-<!ENTITY draftMailFolder.label "Conserva els esborranys a:">
-<!ENTITY templateMailFolder.label "Conserva les plantilles a:">
 <!ENTITY saveMessageDlg.label "Mostra un diàleg de confirmació quan els missatges s'hagin desat">
 <!ENTITY saveMessageDlg.accesskey "s">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

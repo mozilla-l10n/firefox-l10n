@@ -2,13 +2,6 @@
 
 <!ENTITY securitySettings.label "Paràmetres de seguretat">
 <!ENTITY serverSettings.label "Paràmetres del servidor">
-<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
-<!ENTITY popServer.label "Servidor de correu POP">
-<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
-<!ENTITY imapServer.label "Servidor de correu IMAP">
-<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
-<!ENTITY newsServer.label "Servidor de grups de discussió (NNTP)">
-<!ENTITY webmail.label "Compte Webmail">
 <!ENTITY serverType.label "Tipus de servidor:">
 <!ENTITY serverName.label "Nom del servidor:">
 <!ENTITY serverName.accesskey "s">
@@ -26,8 +19,6 @@
 <!ENTITY biffStart.label "Comprova si hi ha nous missatges cada ">
 <!ENTITY biffStart.accesskey "h">
 <!ENTITY biffEnd.label "minuts">
-<!ENTITY isSecure.label "Utilitza una connexió segura (SSL)">
-<!ENTITY isSecure.accesskey "z">
 <!ENTITY socketType.label "Utilitza una connexió segura:">
 <!ENTITY neverSecure.label "Mai">
 <!ENTITY neverSecure.accesskey "M">
@@ -50,10 +41,7 @@
 <!ENTITY deleteOnServer2.accesskey "e">
 <!ENTITY downloadOnBiff.label "Baixa automàticament els missatges nous">
 <!ENTITY downloadOnBiff.accesskey "a">
-<!ENTITY hostname.label "Nom de l'ordinador central del servidor">
 <!ENTITY username.label "El vostre nom d'entrada:">
-<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
-<!ENTITY popServerTitle.label "Informació del servidor POP">
 <!ENTITY deleteMessagePrefix.label "Quan suprimeixi un missatge:">
 <!ENTITY modelMoveToTrash.label "Mou-lo a aquesta carpeta:">
 <!ENTITY modelMoveToTrash.accesskey "o">
