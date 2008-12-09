@@ -1,24 +1,40 @@
-<!ENTITY sanitizeDialog.title         "Xóa dữ liệu Cá nhân">
+<!ENTITY sanitizePrefs.title           "Xóa các Dữ liệu Cá nhân">
+<!ENTITY sanitizeDialog2.title         "Xóa các Lược sử Gần đây">
 
 <!ENTITY sanitizeItems.label          "Xóa các mục sau:">
-<!ENTITY clearDataSettings.label      "Khi tôi yêu cầu &brandShortName; xóa dữ liệu cá nhân của tôi, chương trình nên xóa:">
+<!ENTITY clearDataSettings2.label     "Khi tôi thoát &brandShortName;, chương trình sẽ tự động xóa tất cả:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY itemHistory.label            "Lược sử Duyệt web">
-<!ENTITY itemHistory.accesskey        "D">
-<!ENTITY itemFormSearchHistory.label  "Lược sử Tìm kiếm và Biểu mẫu đã lưu">
-<!ENTITY itemFormSearchHistory.accesskey "B">
+<!ENTITY clearDuration.label          "Xóa ">
+<!ENTITY clearDuration.lastHour       "kể từ một tiếng trước">
+<!ENTITY clearDuration.last2Hours     "kể từ 2 tiếng trước">
+<!ENTITY clearDuration.last4Hours     "kể từ 4 tiếng trước">
+<!ENTITY clearDuration.today          "lược sử hôm nay của tôi">
+<!ENTITY clearDuration.everything     "toàn bộ lược sử của tôi">
+<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearDuration.suffix         "">
+
+<!ENTITY historySection.label         "Lược sử">
+<!ENTITY dataSection.label            "Dữ liệu">
+
+<!ENTITY itemVisitedPages.label       "Trang đã Vào">
+<!ENTITY itemVisitedPages.accesskey   "V">
+<!ENTITY itemFormSearchEntries.label  "Biểu mẫu &amp; Các mục Tìm kiếm">
+<!ENTITY itemFormSearchEntries.accesskey "B">
 <!ENTITY itemPasswords.label          "Mật khẩu đã lưu">
-<!ENTITY itemPasswords.accesskey      "k">
+<!ENTITY itemPasswords.accesskey      "M">
 <!ENTITY itemCookies.label            "Cookie">
 <!ENTITY itemCookies.accesskey        "C">
-<!ENTITY itemCache.label              "Đệm">
-<!ENTITY itemCache.accesskey          "m">
+<!ENTITY itemWebCache.label           "Bộ đệm Web">
+<!ENTITY itemWebCache.accesskey       "W">
 <!ENTITY itemOfflineApps.label        "Dữ liệu Trang web Ngoại tuyến">
-<!ENTITY itemOfflineApps.accesskey    "n">
-<!ENTITY itemDownloads.label          "Lược sử Tải xuống">
-<!ENTITY itemDownloads.accesskey      "x">
-<!ENTITY itemActiveLogins.label       "Các Đăng Nhập Đang Hoạt Động">
-<!ENTITY itemActiveLogins.accesskey   "h">
+<!ENTITY itemOfflineApps.accesskey    "o">
+<!ENTITY itemDownloadList.label       "Danh sách Tải xuống">
+<!ENTITY itemDownloadList.accesskey   "D">
+<!ENTITY itemActiveLogins.label       "Đăng nhập đang Hoạt động">
+<!ENTITY itemActiveLogins.accesskey   "H">
+
 <!ENTITY window.width                 "30em">
+<!ENTITY column.width                 "14em">

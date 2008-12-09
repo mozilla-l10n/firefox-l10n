@@ -4,25 +4,25 @@
 <!ENTITY expand.accesskey          "r">
 <!ENTITY collapse.label            "Thu nhỏ">
 <!ENTITY collapse.accesskey        "h">
-<!ENTITY byDate.label "Theo Ngày tháng">
+<!ENTITY byDate.label "theo Ngày tháng">
 <!ENTITY byDate.accesskey "N">
-<!ENTITY bySite.label "Theo Trang">
+<!ENTITY bySite.label "theo Trang">
 <!ENTITY bySite.accesskey "a">
 <!ENTITY view.label "Xem">
 <!ENTITY view.accesskey "e">
-<!ENTITY byMostVisited.label "Theo Vào Nhiều nhất">
+<!ENTITY byMostVisited.label "theo Vào nhiều nhất">
 <!ENTITY byMostVisited.accesskey "V">
-<!ENTITY byLastVisited.label "Theo Vào Gần đây">
-<!ENTITY byLastVisited.accesskey "G">
-<!ENTITY byDayAndSite.label "Theo Ngày tháng và Trang">
+<!ENTITY byLastVisited.label "theo Lần vào Cuối">
+<!ENTITY byLastVisited.accesskey "L">
+<!ENTITY byDayAndSite.label "theo Ngày tháng và Trang">
 <!ENTITY byDayAndSite.accesskey "y">
 <!ENTITY openLinkInWindow.label "Mở">
 <!ENTITY openLinkInWindow.accesskey "M">
 <!ENTITY openInNewTab.label "Mở trong Thẻ Mới">
-<!ENTITY openInNewTab.accesskey "t">
+<!ENTITY openInNewTab.accesskey "T">
 <!ENTITY openInNewWindow.label "Mở trong Cửa Sổ Mới">
 <!ENTITY openInNewWindow.accesskey "S">
-<!ENTITY bookmarkLink.label "Đánh dấu Liên kết Này…">
+<!ENTITY bookmarkLink.label "Đánh Dấu Liên Kết Này…">
 <!ENTITY bookmarkLink.accesskey "u">
 <!ENTITY copyLink.label "Chép Địa Chỉ Liên Kết">
 <!ENTITY copyLink.accesskey "C">

@@ -36,7 +36,7 @@
 
 <!ENTITY  warnings.label                "Thông điệp Cảnh báo">
 
-<!ENTITY  chooseWarnings.label          "Chọn thông điệp cảnh báo nào mà bạn muốn trong khi duyệt web">
+<!ENTITY  chooseWarnings.label          "Chọn thông điệp cảnh báo mà bạn muốn thấy trong khi duyệt web">
 
 <!ENTITY  warningSettings.label         "Thiết lập…">
 <!ENTITY  warningSettings.accesskey     "p">

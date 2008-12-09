@@ -48,14 +48,14 @@
 <!ENTITY focusFilter.key "f">
 
 <!-- Columns -->
-<!ENTITY prefColumn.label "Tên Tùy chọn">
+<!ENTITY prefColumn.label "Tên Tùy Chọn">
 <!ENTITY lockColumn.label "Trạng thái">
 <!ENTITY typeColumn.label "Kiểu">
 <!ENTITY valueColumn.label "Giá trị">
 
 <!-- Tooltips -->
-<!ENTITY prefColumnHeader.tooltip "Nhấp vào để sắp xếp"> 
-<!ENTITY columnChooser.tooltip "Nhấp chọn cột để hiển thị"> 
+<!ENTITY prefColumnHeader.tooltip "Nhấn để sắp xếp"> 
+<!ENTITY columnChooser.tooltip "Nhấn để chọn cột hiển thị"> 
 
 <!-- Context Menu -->
 <!ENTITY copyPref.key "C">
@@ -63,7 +63,7 @@
 <!ENTITY copyPref.accesskey "C">
 <!ENTITY copyName.label "Chép Tên">
 <!ENTITY copyName.accesskey "T">
-<!ENTITY copyValue.label "Chép Giá trị">
+<!ENTITY copyValue.label "Chép Giá Trị">
 <!ENTITY copyValue.accesskey "G">
 <!ENTITY modify.label "Sửa đổi">
 <!ENTITY modify.accesskey "S">

@@ -1,15 +1,15 @@
 <!ENTITY about.version                "phiên bản">
 
-<!ENTITY about.copy.beforeLink        "Bản quyền &copy; 1998-2008 bởi">
+<!ENTITY about.copy.beforeLink        "Bản quyền &copy; 1998-2008 thuộc về">
 <!ENTITY about.copy.linkTitle         "những người đóng góp">
-<!ENTITY about.copy.afterLink         "thuộc về Dự án Mozilla.">
+<!ENTITY about.copy.afterLink         "cho Dự án Mozilla.">
 
-<!ENTITY about.license.beforeLink     "Hãy đọc">
+<!ENTITY about.license.beforeLink     "Đọc">
 <!ENTITY about.license.linkTitle      "thông tin giấy phép">
 <!ENTITY about.license.afterLink      "của sản phẩm này.">
 
-<!ENTITY about.relnotes.beforeLink    "Hãy đọc">
-<!ENTITY about.relnotes.linkTitle     "các thuyết minh về bản phát hành">
+<!ENTITY about.relnotes.beforeLink    "Đọc">
+<!ENTITY about.relnotes.linkTitle     "ghi chú phát hành">
 <!ENTITY about.relnotes.afterLink     "cho phiên bản này.">
 
 <!ENTITY about.buildconfig.beforeLink "Xem">

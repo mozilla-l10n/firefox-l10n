@@ -23,29 +23,29 @@
 <!ENTITY  font.langGroup.latin1                   "Phương Tây">
 <!ENTITY  font.langGroup.latin2                   "Trung Âu">
 <!ENTITY  font.langGroup.japanese                 "Nhật Bản">
-<!ENTITY  font.langGroup.trad-chinese             "Hoa Phồn thể (Đài Loan)">
-<!ENTITY  font.langGroup.simpl-chinese            "Hoa Giản thể">
-<!ENTITY  font.langGroup.trad-chinese-hk          "Hoa Phồn thể (Hồng Kông)">
+<!ENTITY  font.langGroup.trad-chinese             "Hoa Phồn Thể (Đài Loan)">
+<!ENTITY  font.langGroup.simpl-chinese            "Hoa Giản Thể">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Hoa Phồn Thể (Hồng Kông)">
 <!ENTITY  font.langGroup.korean                   "Hàn Quốc">
-<!ENTITY  font.langGroup.cyrillic                 "Cyrillic">
+<!ENTITY  font.langGroup.cyrillic                 "Kirin">
 <!ENTITY  font.langGroup.baltic                   "Ấn Âu">
 <!ENTITY  font.langGroup.el                       "Hy Lạp">
-<!ENTITY  font.langGroup.turkish                  "Thổ Nhĩ Kì">
+<!ENTITY  font.langGroup.turkish                  "Thổ Nhĩ Kỳ">
 <!ENTITY  font.langGroup.unicode                  "Ngôn ngữ khác">
-<!ENTITY  font.langGroup.user-def                 "Người dùng định nghĩa">
+<!ENTITY  font.langGroup.user-def                 "Người dùng Định nghĩa">
 <!ENTITY  font.langGroup.thai                     "Thái">
 <!ENTITY  font.langGroup.hebrew                   "Do Thái">
-<!ENTITY  font.langGroup.arabic                   "Ả rập">
+<!ENTITY  font.langGroup.arabic                   "Ả Rập">
 <!ENTITY  font.langGroup.devanagari               "Devanagari">
 <!ENTITY  font.langGroup.tamil                    "Tamil">
-<!ENTITY  font.langGroup.armenian                 "Armenian">
-<!ENTITY  font.langGroup.bengali                  "Bengali">
-<!ENTITY  font.langGroup.canadian                 "Âm Canada thống nhất">
+<!ENTITY  font.langGroup.armenian                 "Armenia">
+<!ENTITY  font.langGroup.bengali                  "Băng-gan">
+<!ENTITY  font.langGroup.canadian                 "Âm Canađa thống nhất">
 <!ENTITY  font.langGroup.ethiopic                 "Ethiopic">
 <!ENTITY  font.langGroup.georgian                 "Gruzia">
-<!ENTITY  font.langGroup.gujarati                 "Gujarati">
+<!ENTITY  font.langGroup.gujarati                 "Gujarat">
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
-<!ENTITY  font.langGroup.khmer                    "Khơ me">
+<!ENTITY  font.langGroup.khmer                    "Khơ-me">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
 <!ENTITY  font.langGroup.oriya                    "Oriya">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
@@ -64,5 +64,5 @@
 <!ENTITY  allowPagesToUse.accesskey               "C">
 
 <!ENTITY languages.customize.Charset.grouplabel         "Bảng mã">
-<!ENTITY languages.customize.DefaultCharset.label       "Bảng mã mặc định:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "m">
+<!ENTITY languages.customize.DefaultCharset.label       "Bảng mã Mặc định:">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "B">

@@ -1,7 +1,7 @@
 <!ENTITY brandMotto       "Tái khám phá Web">
-<!ENTITY credit.thanks    "Đặc biệt cảm ơn">
+<!ENTITY credit.thanks    "Đặc biệt Cảm ơn">
 
-<!ENTITY credit.thanks2       "Trân trọng cảm ơn đến">
+<!ENTITY credit.thanks2       "Vô cùng cảm ơn">
 <!ENTITY credit.contributors2 "những người đóng góp">
 
 <!-- localization credits look like this: -->
@@ -9,7 +9,7 @@
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation "">
+<!ENTITY credit.translation "<h3>Người dịch</h3><ul><li>NGUYỄN Mạnh Hùng</li><li>NGUYỄN Xuân Minh</li><li>HUỲNH Hải Đăng</li><li>BÙI Việt Khoa</li><li>TRẦN Nguyên Sơn</li></ul>">
 
-<!ENTITY credit.memory      "Trong tình thương yêu của">
-<!ENTITY credit.poweredByGeckoReg "Sức mạnh từ Gecko&reg;">
+<!ENTITY credit.memory      "Thương Nhớ Về">
+<!ENTITY credit.poweredByGeckoReg "Tiếp sức mạnh từ Gecko&reg;">

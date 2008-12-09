@@ -64,7 +64,7 @@
 <!ENTITY pref.security.general.header "Thiết lập cho bảo mật chung">
 <!ENTITY pref.security.general.level.title "Mức độ Bảo mật">
 <!ENTITY pref.security.general.paranoid.label "Dùng thiết lập bảo mật thông thường">
-<!ENTITY pref.security.general.certificates.title "Các Chứng chỉ">
+<!ENTITY pref.security.general.certificates.title "Chứng thư">
 <!ENTITY pref.security.general.manageCert.label "Quản lí Chứng chỉ">
 
 <!-- Downloading a cert -->
@@ -103,14 +103,14 @@
 <!ENTITY pkcs12.getpassword.title  "Hộp thoại Mục nhập Mật khẩu">
 <!ENTITY pkcs12.getpassword.message "Hãy nhập mật khẩu dùng để mật hóa bản sao lưu chứng chỉ này.">
 
-<!ENTITY chooseToken.title  "Hộp thoại Chọn Mã thông báo">
+<!ENTITY chooseToken.title  "Hộp thoại Chọn Token">
 <!ENTITY chooseToken.message1 "Vui lòng chọn một mã thông báo.">
 
 <!ENTITY escrowWarn.title "Chép Khóa Mã hóa">
 <!ENTITY escrowWarn.message1 "Quan trọng: Bên thẩm định chứng chỉ này yêu cầu bạn tạo một bản sao lưu khóa mật hóa cá nhân.">
 <!ENTITY escrowWarn.benefit1 "Lợi ích của nó là nếu bạn mất quyền truy cập vào khóa mật hóa cá nhân, bạn có thể yêu cầu một bản sao từ bên thẩm định chứng chỉ này.">
 <!ENTITY escrowWarn.message2 "Tuy nhiên, khóa mật hóa cá nhân của bạn sẽ được lưu bởi bên thẩm định chứng chỉ, và có thể dùng để đọc các email và tài liệu đã mật hóa của bạn mà không cần sự cho phép của bạn.">
-<!ENTITY examineCert.label "Xem Chứng chỉ">
+<!ENTITY examineCert.label "Xem Chứng Thư">
 <!ENTITY examineCert.accesskey "X">
 
 <!ENTITY serverCrlNextupdate.message "Cần sự trợ giúp từ quản trị viên hệ thống">

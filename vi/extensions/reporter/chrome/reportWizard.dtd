@@ -1,7 +1,7 @@
 <!-- Entities for the Sample Extension Options Dialog go here -->
 <!ENTITY reportWizard.title                         "Báo cáo Trang web Hỏng">
 
-<!ENTITY privacyNotice.label                        "Điều khoản Riêng tư">
+<!ENTITY privacyNotice.label                        "Chính sách Riêng tư">
 <!ENTITY reportWizardPrivacy.description            "Công cụ này cho phép bạn thông báo cho Nhóm Evangelism về những trang web hoạt động không bình thường trong &brandShortName;, hoặc làm &brandShortName; bị thoát. Đây là cách bạn giúp chúng tôi có thể đảm bảo tạo ra được những trải nghiệm tuyệt vời nhất cho người dùng &brandShortName;. Vui lòng bỏ chút thời gian đọc điều khoản sau về việc chúng tôi dùng những thông tin được thu thập như thế nào, để bạn có cơ sở quyết định về việc có nên tham gia hay không.">
 <!ENTITY reportWizardMustAgree.description          "Để tiếp tục bạn cần đồng ý với những điều khoản riêng tư ở trên.">
 
@@ -17,8 +17,8 @@
 <!ENTITY reportForm.behind_login.title              "Trang web được bảo vệ bởi mật khẩu"><!-- No ":" at the end -->
 <!ENTITY reportForm.behind_login.accesskey          "w">
 
-<!ENTITY reportForm.problem_type.title              "Loại Vấn đề:">
-<!ENTITY reportForm.problem_type.accesskey          "L">
+<!ENTITY reportForm.problem_type.title              "Kiểu Vấn Đề:">
+<!ENTITY reportForm.problem_type.accesskey          "K">
 
 <!ENTITY reportForm.problem_type.chooseOne.title    "Chọn Một…">
 
@@ -46,10 +46,10 @@
 <!ENTITY reportForm.email.title                     "Email (Tùy chọn):">
 <!ENTITY reportForm.email.accesskey                 "E">
 
-<!ENTITY reportForm.privacyPolicy.title             "Điều khoản Riêng tư">
-<!ENTITY reportForm.privacyPolicy.tooltip           "Xem Điều khoản Riêng tư">
+<!ENTITY reportForm.privacyPolicy.title             "Chính sách Riêng tư">
+<!ENTITY reportForm.privacyPolicy.tooltip           "Hiển thị Chính sách Riêng tư">
 
-<!ENTITY reportResults.showDetail.title             "Hiện Chi tiết">
+<!ENTITY reportResults.showDetail.title             "Hiện các Chi tiết">
 <!ENTITY reportResults.showDetail.accesskey         "H">
 
 <!ENTITY sendReport.label                           "Đang gửi Báo cáo">

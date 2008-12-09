@@ -25,14 +25,14 @@
 <!ENTITY view.sortAscending.accesskey   "o">
 <!ENTITY view.sortDescending.label      "Xếp theo Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
-<!ENTITY help.usingBookmarks.label      "Dùng Trang-đánh-dấu">
+<!ENTITY help.usingBookmarks.label      "Sử dụng Trang đánh dấu">
 <!ENTITY help.usingBookmarks.accesskey  "u">
 <!ENTITY help.usingHistory.label        "Dùng Lược sử">
 <!ENTITY help.usingHistory.accesskey    "D">
 <!ENTITY help.advancedTips.label        "Mẹo &amp; Mánh Nâng cao">
 <!ENTITY help.advancedTips.accesskey    "M">
 
-<!ENTITY cmd.findInBookmarks.label      "Tìm trong các Trang-đánh-dấu">
+<!ENTITY cmd.findInBookmarks.label      "Tìm trong các Trang đánh dấu…">
 <!ENTITY cmd.findInBookmarks.accesskey  "T">
 <!ENTITY cmd.findCurrent.label          "Tìm trong Bộ sưu tập hiện tại…">
 <!ENTITY cmd.findCurrent.accesskey      "r">
@@ -46,7 +46,7 @@
 <!ENTITY cmd.backup.accesskey           "S">
 <!ENTITY cmd.restore2.label             "Khôi phục">
 <!ENTITY cmd.restore2.accesskey         "K">
-<!ENTITY cmd.restoreFromFile.label      "Chọn Tập tin…">
+<!ENTITY cmd.restoreFromFile.label      "Chọn Tập Tin…">
 <!ENTITY cmd.restoreFromFile.accesskey  "T">
 
 <!ENTITY cmd.select_all.label "Chọn Toàn Bộ">
@@ -73,7 +73,7 @@
 
 <!ENTITY cmd.delete.label               "Xóa Trang Này">
 <!ENTITY cmd.delete.accesskey           "X">
-<!ENTITY cmd.deleteDomainData.label     "Quên hẳn Trang Này">
+<!ENTITY cmd.deleteDomainData.label     "Quên Trang Này">
 <!ENTITY cmd.deleteDomainData.accesskey "Q">
 
 <!ENTITY cmd.open.label                  "Mở">
@@ -107,7 +107,7 @@
 <!ENTITY cmd.new_separator.label           "Ngăn cách Mới">
 <!ENTITY cmd.new_separator.accesskey       "N">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Tải lại Đánh-dấu-Động">
+<!ENTITY cmd.reloadLivebookmark.label      "Tải lại Đánh Dấu Động">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "l">
 <!ENTITY cmd.reloadMicrosummary.label      "Tải lại Tiêu đề Động">
 <!ENTITY cmd.reloadMicrosummary.accesskey  "l">
@@ -138,15 +138,15 @@
 <!ENTITY search.accesskey                          "k">
 <!ENTITY search.collection.label                   "Chỉ Bộ sưu tập Hiện tại">
 <!ENTITY search.collection.accesskey               "C">
-<!ENTITY search.allBookmarks.label                 "Toàn bộ các Đánh dấu">
+<!ENTITY search.allBookmarks.label                 "Toàn bộ các Trang đánh dấu">
 <!ENTITY search.allBookmarks.accesskey             "b">
 <!ENTITY search.scopeFolder.label                  "Thư mục được chọn">
 <!ENTITY search.scopeFolder.accesskey              "n">
-<!ENTITY search.scopeAll.label                     "Toàn bộ các Đánh dấu">
+<!ENTITY search.scopeAll.label                     "Toàn bộ các Trang đánh dấu">
 <!ENTITY search.scopeAll.accesskey                 "b">
 <!ENTITY search.scopeMenu.label                    "Trình đơn Đánh dấu">
 <!ENTITY search.scopeMenu.accesskey                "u">
-<!ENTITY search.scopeToolbar.label                 "Thanh Đánh-dấu">
+<!ENTITY search.scopeToolbar.label                 "Thanh Đánh Dấu">
 <!ENTITY search.scopeToolbar.accesskey             "u">
 <!ENTITY search.scopeDownloads.label               "Tải xuống">
 <!ENTITY search.scopeDownloads.accesskey           "x">
@@ -157,7 +157,7 @@
 <!ENTITY saveSearch.label                          "Lưu">
 <!ENTITY saveSearch.accesskey                      "L">
 <!ENTITY moreCriteria.label                        "+">
-<!ENTITY advancedSearch.onlybookmarked.label       "Chỉ tìm Trang-đánh-dấu">
+<!ENTITY advancedSearch.onlybookmarked.label       "Chỉ tìm Trang đánh dấu">
 <!ENTITY advancedSearch.match.label                "Phù hợp">
 <!ENTITY advancedSearch.all.label                  "tất cả">
 <!ENTITY advancedSearch.any.label                  "bất kì">
@@ -199,7 +199,7 @@
 <!ENTITY view.details.label        "Chi tiết">
 <!ENTITY view.details.accesskey    "C">
 
-<!ENTITY view.addons.label   "Lấy Tiện ích Xem">
+<!ENTITY view.addons.label   "Lấy các Tiện ích Hiển thị">
 
 <!ENTITY maintenance.label      "Nhập và Sao lưu">
 <!ENTITY maintenance.accesskey  "v">

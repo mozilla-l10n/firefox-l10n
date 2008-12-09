@@ -3,11 +3,11 @@
 <!ENTITY privatebrowsingpage.pagetitle                 "Duyệt web Riêng tư">
 
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; sẽ không ghi nhớ lược sử cho phiên duyệt web này.">
-<!ENTITY privatebrowsingpage.longDesc                  "Không có lược sử nào được ghi lại bởi &brandShortName; trong suốt phiên duyệt web này. Điều này bao gồm cả lược sử trình duyệt, lược sử tìm kiếm, lược sử tải xuống, lược sử biểu mẫu, cookie, và các tập tin internet tạm thời. Tuy nhiên, các tập tin bạn tải xuống hoặc các trang đánh dấu do bạn tạo ra sẽ được giữ lại.">
+<!ENTITY privatebrowsingpage.longDesc                  "Không có lược sử nào được ghi lại bởi &brandShortName; trong suốt phiên duyệt web này. Điều này bao gồm lược sử trình duyệt, lược sử tìm kiếm, lược sử tải xuống, lược sử biểu mẫu, cookie, và các tập tin internet tạm thời. Tuy nhiên, các tập tin bạn tải xuống hoặc các trang đánh dấu do bạn tạo ra sẽ được giữ lại.">
 
 <!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Có thể bạn muốn bắt đầu bằng cách xóa các lược sử gần đây của bạn.">
-<!ENTITY privatebrowsingpage.recentHistory.label       "Xóa lược sử Gần đây">
-<!ENTITY privatebrowsingpage.recentHistory.accesskey   "c">
+<!ENTITY privatebrowsingpage.clearRecentHistory.label  "Xóa các Lược sử Gần đây…">
+<!ENTITY privatebrowsingpage.clearRecentHistory.accesskey "L">
 
-<!ENTITY privatebrowsingpage.howToStopDesc             "Để ngưng duyệt web riêng tư, chỉ cần bỏ chọn Công cụ &gt; Duyệt web Riêng tư.">
-<!ENTITY privatebrowsingpage.footerDesc                "Hãy tận hưởng cảm giác riêng tư!">
+<!ENTITY privatebrowsingpage.howToStopDesc             "Để ngừng việc duyệt web riêng tư, chỉ cần bỏ chọn Công cụ &gt; Duyệt web Riêng tư.">
+<!ENTITY privatebrowsingpage.footerDesc                "Hãy tận hưởng sự riêng tư!">

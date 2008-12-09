@@ -35,7 +35,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY devmgr.title                           "Trình Quản lí Thiết bị">
+<!ENTITY devmgr.title                           "Trình quản lí Thiết bị">
 
 <!ENTITY devmgr.devlist.label                   "Các Module và Thiết bị Bảo mật">
 <!ENTITY devmgr.details.title                   "Chi tiết">
@@ -43,13 +43,13 @@
 <!ENTITY devmgr.status.label                    "Tình trạng">
 <!ENTITY devmgr.version.label                   "Phiên bản">
 
-<!ENTITY devmgr.button.changeslotname.label     "Đổi Tên Vị trí">
-<!ENTITY devmgr.button.changeslotname.accesskey "i">
+<!ENTITY devmgr.button.changeslotname.label     "Đổi Tên Khe Cắm">
+<!ENTITY devmgr.button.changeslotname.accesskey "C">
 <!ENTITY devmgr.button.login.label              "Đăng Nhập">
-<!ENTITY devmgr.button.login.accesskey          "n">
+<!ENTITY devmgr.button.login.accesskey          "N">
 <!ENTITY devmgr.button.logout.label             "Đăng Xuất">
 <!ENTITY devmgr.button.logout.accesskey         "X">
-<!ENTITY devmgr.button.changepw.label           "Đổi Mật khẩu">
+<!ENTITY devmgr.button.changepw.label           "Đổi Mật Khẩu">
 <!ENTITY devmgr.button.changepw.accesskey       "M">
 <!ENTITY devmgr.button.load.label               "Nạp">
 <!ENTITY devmgr.button.load.accesskey           "p">
@@ -61,9 +61,9 @@
 <!ENTITY loaddevice.modname                     "Tên Module:">
 <!ENTITY loaddevice.modname.accesskey           "M">
 <!ENTITY loaddevice.modname.default             "Module PKCS#11 Mới">
-<!ENTITY loaddevice.filename                    "Tên tệp Module:">
+<!ENTITY loaddevice.filename                    "Tên tập tin module:">
 <!ENTITY loaddevice.filename.accesskey          "T">
 <!ENTITY loaddevice.browse                      "Duyệt…">
 <!ENTITY loaddevice.browse.accesskey            "D">
 
-<!ENTITY loaddevice.title                       "Tải Thiết bị PKCS#11">
+<!ENTITY loaddevice.title                       "Nạp thiết bị PKCS#11">

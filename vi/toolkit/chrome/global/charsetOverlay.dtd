@@ -1,7 +1,7 @@
 <!-- extracted from charsetOverlay.xul -->
 <!ENTITY charsetMenu.label             "Bảng mã">
 <!ENTITY charsetMenu.accesskey         "B">
-<!ENTITY charsetMenuAutodet.label      "Tự dò">
+<!ENTITY charsetMenuAutodet.label      "Tự động Nhận diện">
 <!ENTITY charsetMenuAutodet.accesskey  "T">
 <!ENTITY charsetMenuMore.label         "Bảng mã khác">
 <!ENTITY charsetMenuMore.accesskey     "m">

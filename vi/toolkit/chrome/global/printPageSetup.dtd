@@ -7,27 +7,36 @@
 <!ENTITY formatGroup.label   "Định dạng">
 
 <!ENTITY orientation.label   "Chiều:">
-<!ENTITY portrait            "Dọc">
-<!ENTITY landscape           "Ngang">
+<!ENTITY portrait.label      "Dọc">
+<!ENTITY portrait.accesskey  "D">
+<!ENTITY landscape.label     "Ngang">
+<!ENTITY landscape.accesskey "N">
 
-<!ENTITY scale.label         "Co giãn:">
+<!ENTITY scale.label         "Tỉ lệ:">
+<!ENTITY scale.accesskey     "T">
 <!ENTITY scalePercent        "&#037;">
 
-<!ENTITY shrinkToFit.label   "Co lại cho vừa độ rộng Trang">
+<!ENTITY shrinkToFit.label   "Co lại cho vừa Độ rộng Trang">
+<!ENTITY shrinkToFit.accesskey "C">
 
 <!ENTITY optionsGroup.label  "Tùy chọn">
 
 <!ENTITY printBG.label       "In hình nền (màu sắc &amp; hình ảnh)">
+<!ENTITY printBG.accesskey   "I">
 
 <!ENTITY advanced.tab        "Lề &amp; Đầu trang/Cuối trang">
 
 <!ENTITY marginGroup.label   "Lề (#1)">
 <!ENTITY marginUnits.inches  "inches">
 <!ENTITY marginUnits.metric  "milimét">
-<!ENTITY marginTop.label     "Mép trên:">
-<!ENTITY marginBottom.label  "Mép dưới:">
-<!ENTITY marginLeft.label    "Mép trái:">
-<!ENTITY marginRight.label   "Mép phải:">
+<!ENTITY marginTop.label     "Trên:">
+<!ENTITY marginTop.accesskey "T">
+<!ENTITY marginBottom.label  "Dưới:">
+<!ENTITY marginBottom.accesskey "D">
+<!ENTITY marginLeft.label    "Trái:">
+<!ENTITY marginLeft.accesskey "r">
+<!ENTITY marginRight.label   "Phải:">
+<!ENTITY marginRight.accesskey "P">
 
 <!ENTITY headerFooter.label  "Đầu trang &amp; Cuối trang">
 
@@ -39,13 +48,13 @@
 <!ENTITY headerRight.tip     "Đầu trang bên Phải">
 <!ENTITY footerLeft.tip      "Cuối trang bên Trái">
 <!ENTITY footerCenter.tip    "Cuối trang ở Giữa">
-<!ENTITY footerRight.tip     "Cuốitrang bên Phải">
+<!ENTITY footerRight.tip     "Cuối trang bên Phải">
 
 <!ENTITY hfTitle             "Tiêu đề">
 <!ENTITY hfURL               "URL">
 <!ENTITY hfDateAndTime       "Ngày/Giờ">
 <!ENTITY hfPage              "Trang #">
-<!ENTITY hfPageAndTotal      "Trang # của #">
+<!ENTITY hfPageAndTotal      "Trang # trên tổng #">
 <!ENTITY hfBlank             "--trống--">
 <!ENTITY hfCustom            "Tùy biến…">
 

@@ -38,24 +38,24 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY            windowtitle.label      "&brandShortName; - Chọn Profile Người dùng">
+<!ENTITY            windowtitle.label      "&brandShortName; - Lựa chọn Hồ sơ Người dùng">
 
-<!ENTITY            profilename.label      "Tên Profile:">
+<!ENTITY            profilename.label      "Tên Hồ Sơ:">
 
 <!ENTITY            start.label            "Khởi động &brandShortName;">
 <!ENTITY            exit.label             "Thoát">
 
-<!ENTITY            availprofiles.label    "Các Profile Sẵn có">
+<!ENTITY            availprofiles.label    "Các Hồ sơ Hiện tại">
 
-<!ENTITY            newButton.label        "Tạo Profile…">
+<!ENTITY            newButton.label        "Tạo Hồ Sơ…">
 <!ENTITY            newButton.accesskey    "T">
-<!ENTITY            renameButton.label     "Đổi tên Profile…">
-<!ENTITY            renameButton.accesskey "i">
-<!ENTITY            deleteButton.label     "Xóa Profile…">
+<!ENTITY            renameButton.label     "Đổi tên Hồ sơ…">
+<!ENTITY            renameButton.accesskey "n">
+<!ENTITY            deleteButton.label     "Xóa Hồ Sơ…">
 <!ENTITY            deleteButton.accesskey "X">
 
 <!-- manager entities -->
-<!ENTITY            pmDescription.label    "&brandShortName; lưu thông tin về các thiết lập, tùy chọn, và các mục của người dùng vào trong profile người dùng của bạn.">
+<!ENTITY            pmDescription.label    "&brandShortName; lưu thông tin về các thiết lập, tùy chọn, và các danh mục khác trong hồ sơ người dùng của bạn.">
 
 <!ENTITY            offlineState.label    "Làm việc ngoại tuyến">
 <!ENTITY            offlineState.accesskey "v">

@@ -6,7 +6,7 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
-<!ENTITY mainWindow.preface "Nguồn của: ">
+<!ENTITY mainWindow.preface "Mã nguồn của: ">
 
 <!ENTITY fileMenu.label "Tập tin">
 <!ENTITY fileMenu.accesskey "T">

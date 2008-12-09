@@ -38,10 +38,10 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY title.label        "Tùy biến Bảng mã Kí tự">
-<!ENTITY current.label      "Các Bảng mã Kí tự hiện tại:">
+<!ENTITY current.label      "Bảng mã Đang dùng:">
 <!ENTITY remove.label       "Xóa">
 <!ENTITY remove.accessKey   "X">
-<!ENTITY additional.label   "Các Bảng mã Kí tự có sẵn:">
+<!ENTITY additional.label   "Bảng mã Có sẵn:">
 <!ENTITY add.label          "Thêm">
 <!ENTITY add.accessKey      "T">
 <!ENTITY moveUp.label       "Chuyển Lên">

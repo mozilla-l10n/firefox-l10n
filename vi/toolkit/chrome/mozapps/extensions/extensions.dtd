@@ -9,7 +9,7 @@
 <!ENTITY cmd.close.commandKey             "w">
 
 <!-- View labels -->
-<!ENTITY search.label                     "Tìm Tiện ích">
+<!ENTITY search.label                     "Lấy thêm Tiện ích">
 <!ENTITY extensions.label                 "Phần mở rộng">
 <!ENTITY themes.label                     "Giao diện">
 <!ENTITY locales.label                    "Ngôn ngữ">
@@ -39,12 +39,12 @@
 <!ENTITY cmd.continue.accesskey           "T">
 <!ENTITY cmd.continue.tooltip             "Tiếp tục chạy &brandShortName;">
 
-<!ENTITY cmd.enableAll.label              "Kích hoạt Toàn bộ">
+<!ENTITY cmd.enableAll.label              "Kích hoạt Tất cả">
 <!ENTITY cmd.enableAll.accesskey          "h">
-<!ENTITY cmd.enableAll.tooltip            "Kích hoạt toàn bộ các Tiện ích được hiển thị">
-<!ENTITY cmd.disableAll.label             "Vô hiệu hóa Toàn bộ">
+<!ENTITY cmd.enableAll.tooltip            "Kích hoạt tất cả các Tiện ích được hiển thị">
+<!ENTITY cmd.disableAll.label             "Vô hiệu hóa Tất cả">
 <!ENTITY cmd.disableAll.accesskey         "u">
-<!ENTITY cmd.disableAll.tooltip           "Vô hiệu hóa toàn bộ các Tiện ích được hiển thị">
+<!ENTITY cmd.disableAll.tooltip           "Vô hiệu hóa tất cả các Tiện ích được hiển thị">
 
 <!-- Displayed in the selected Add-on's richlistitem and context menu -->
 <!ENTITY cmd.useTheme.label               "Dùng Giao diện">
@@ -58,7 +58,7 @@
 <!ENTITY cmd.optionsUnix.tooltip          "Thay đổi các Tùy chỉnh của Phần mở rộng được chọn">
 <!ENTITY cmd.enable.label                 "Kích hoạt">
 <!ENTITY cmd.enable.accesskey             "K">
-<!ENTITY cmd.enable.tooltip               "Kích hoạt Tiện ích khi &brandShortName; được khởi động lại">
+<!ENTITY cmd.enable.tooltip               "Kích hoạt Tiện ích này khi &brandShortName; được khởi động lại">
 <!ENTITY cmd.disable.label                "Vô hiệu hóa">
 <!ENTITY cmd.disable.accesskey            "V">
 <!ENTITY cmd.disable.tooltip              "Vô hiệu hóa Tiện ích này khi &brandShortName; được khởi động lại">

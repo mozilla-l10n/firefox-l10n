@@ -27,5 +27,5 @@
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "i">
-<!ENTITY findPreviousCmd.label     "Tìm phía trước">
+<!ENTITY findPreviousCmd.label     "Tìm Trước">
 <!ENTITY findPreviousCmd.accesskey "r">

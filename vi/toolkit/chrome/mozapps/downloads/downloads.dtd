@@ -15,34 +15,34 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.resume.accesskey             "T">
 <!ENTITY cmd.cancel.label                 "Hủy bỏ">
 <!ENTITY cmd.cancel.accesskey             "H">
-<!ENTITY cmd.show.label                   "Mở Thư mục Chứa">
+<!ENTITY cmd.show.label                   "Mở Thư Mục Chứa">
 <!ENTITY cmd.show.accesskey               "c">
 <!ENTITY cmd.showMac.label                "Hiện trong trình Tìm kiếm">
 <!ENTITY cmd.showMac.accesskey            "k">
 <!ENTITY cmd.open.label                   "Mở">
 <!ENTITY cmd.open.accesskey               "M">
-<!ENTITY cmd.openWith.label               "Mở Với…">
-<!ENTITY cmd.openWith.accesskey           "V">
+<!ENTITY cmd.openWith.label               "Mở Bằng…">
+<!ENTITY cmd.openWith.accesskey           "B">
 <!ENTITY cmd.retry.label                  "Thử lại">
 <!ENTITY cmd.retry.accesskey              "T">
-<!ENTITY cmd.goToDownloadPage.label       "Đến trang Gốc để Tải">
+<!ENTITY cmd.goToDownloadPage.label       "Vào Trang Tải">
 <!ENTITY cmd.goToDownloadPage.accesskey   "g">
-<!ENTITY cmd.copyDownloadLink.label       "Chép Liên kết Tải">
+<!ENTITY cmd.copyDownloadLink.label       "Chép Liên Kết Tải">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
-<!ENTITY cmd.removeFromList.label         "Xóa khỏi danh sách">
+<!ENTITY cmd.removeFromList.label         "Xóa Khỏi Danh Sách">
 <!ENTITY cmd.removeFromList.accesskey     "X">
 
 <!ENTITY cmd.close.commandKey             "w">
 <!ENTITY cmd.close2.commandKey            "j">
 <!ENTITY cmd.close2Unix.commandKey        "y">
-<!ENTITY cmd.clearList.label              "Xóa trắng danh sách">
-<!ENTITY cmd.clearList.tooltip            "Xóa tất cả các tệp đã tải xuống thành công, bị dừng và bị thất bại ra khỏi danh sách">
+<!ENTITY cmd.clearList.label              "Xóa Danh Sách">
+<!ENTITY cmd.clearList.tooltip            "Xóa tất cả các tập tin đã tải xuống thành công, bị hủy bỏ và bị thất bại ra khỏi danh sách">
 <!ENTITY cmd.clearList.accesskey          "X">
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">
 
 <!ENTITY closeWhenDone.label              "Đóng khi tải xuống hoàn tất">
-<!ENTITY closeWhenDone.tooltip            "Đóng cửa sổ Tải xuống khi toàn bộ tệp đã được tải xuống">
+<!ENTITY closeWhenDone.tooltip            "Đóng cửa sổ Tải xuống khi tất cả tập tin đã được tải xong">
 
 <!ENTITY showFolder.label                 "Hiện thư mục này">
 <!ENTITY searchBox.label                  "Tìm…">

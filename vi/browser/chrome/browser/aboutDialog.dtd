@@ -6,5 +6,7 @@
 <!ENTITY aboutLink.accesskey        "v">
 <!ENTITY aboutVersion               "phiên bản">
 <!ENTITY closeCmdGNOME.label        "Đóng">  
-<!ENTITY closeCmdGNOME.accesskey    "Đ">
-<!ENTITY copyrightInfo              "&#169;1998-2008 Các thành viên đóng góp giữ bản quyền. Mọi Quyền Được Bảo Lưu. Firefox và các logo của Firefox là thương hiệu của Mozilla Foundation. Mọi quyền được bảo lưu.">
+<!ENTITY closeCmdGNOME.accesskey    "g">
+<!ENTITY copyrightInfo              "&#169;1998-2008 Bản quyền thuộc về những người đóng góp. Mọi Quyền Được Bảo Lưu. Firefox và
+                                      các logo của Firefox là thương hiệu của Quỹ Mozilla. Mọi quyền
+                                      được bảo lưu.">

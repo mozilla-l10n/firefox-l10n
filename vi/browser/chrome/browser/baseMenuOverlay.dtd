@@ -1,6 +1,6 @@
 <!ENTITY minimizeWindow.key       "u">
 <!ENTITY minimizeWindow.label     "Thu nhỏ">
-<!ENTITY bringAllToFront.label    "Đưa Toàn Bộ ra Trước">
+<!ENTITY bringAllToFront.label    "Đưa Tất Cả ra Tiền Cảnh">
 <!ENTITY zoomWindow.label         "Thu phóng">
 <!ENTITY windowMenu.label         "Cửa sổ">
 
@@ -45,4 +45,4 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "n">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 
-<!ENTITY showAllAppsCmdMac.label        "Hiện Toàn Bộ">
+<!ENTITY showAllAppsCmdMac.label        "Hiện Tất Cả">
