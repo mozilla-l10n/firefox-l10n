@@ -94,7 +94,7 @@
 <!ENTITY downloadSelectedCmd.accesskey "k">
 <!ENTITY downloadFlaggedCmd.label "Zászlócskával megjelölt üzenetek letöltése">
 <!ENTITY downloadFlaggedCmd.accesskey "Z">
-<!ENTITY printCmd.label "Nyomtatás...">
+<!ENTITY printCmd.label "Nyomtatás…">
 <!ENTITY printCmd.accesskey "N">
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Nyomtatási kép">
@@ -138,6 +138,8 @@
 <!ENTITY redoMoveMsgCmd.label "Üzenetáthelyezés visszaállítása">
 <!ENTITY undoCopyMsgCmd.label "Üzenetmásolás visszavonása">
 <!ENTITY redoCopyMsgCmd.label "Üzenetmásolás visszaállítása">
+<!ENTITY undoMarkAllCmd.label "Összes megjelőlés visszavonása">
+<!ENTITY redoMarkAllCmd.label "Összes megjelőlés visszaállítása">
 <!ENTITY undoDefaultCmd.label "Visszavonás">
 <!ENTITY redoDefaultCmd.label "Újra">
 <!-- View Menu -->
@@ -251,7 +253,7 @@
 <!ENTITY pageSourceCmd.accesskey "f">
 <!ENTITY pageSourceCmd.key "u">
 
-<!ENTITY findCmd.label "Keresés ebben az üzenetben...">
+<!ENTITY findCmd.label "Keresés ebben az üzenetben…">
 <!ENTITY findCmd.accesskey "K">
 <!ENTITY findCmd.key "f">
 <!ENTITY findAgainCmd.label "Következő keresése">
@@ -447,7 +449,7 @@
 <!ENTITY menuBar.tooltip "Menüsor">
 <!ENTITY mailToolbar.tooltip "Hely eszköztár">
 <!ENTITY locationToolbar.tooltip "Hely eszköztár">
-<!ENTITY advancedButton.tooltip "Keresés az üzenetekben...">
+<!ENTITY advancedButton.tooltip "Keresés az üzenetekben…">
 <!ENTITY getMsgButton.tooltip "Új üzenetek letöltése">
 <!ENTITY newMsgButton.tooltip "Új üzenet létrehozása">
 <!ENTITY replyButton.tooltip "Az üzenet megválaszolása">
@@ -514,7 +516,7 @@
 <!ENTITY folderContextEmptyTrash.accesskey "r">
 <!ENTITY folderContextEmptyJunk.label "Levélszemét mappa ürítése">
 <!ENTITY folderContextEmptyJunk.accesskey "L">
-<!ENTITY folderContextSendUnsentMessages.label "Postázandó üzenetek elküldése...">
+<!ENTITY folderContextSendUnsentMessages.label "Postázandó üzenetek elküldése…">
 <!ENTITY folderContextSendUnsentMessages.accesskey "p">
 <!ENTITY folderContextUnsubscribe.label "Leiratkozás">
 <!ENTITY folderContextUnsubscribe.accesskey "L">

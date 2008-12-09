@@ -42,7 +42,7 @@
 <!ENTITY bookmarkCmd.label              "Hivatkozás felvétele a könyvjelzők közé...">
 <!ENTITY bookmarkCmd.accesskey          "n">
 
-<!ENTITY col.name.label                 "Cím">
+<!ENTITY col.title.label                 "Cím">
 <!ENTITY col.url.label                  "Hely">
 <!ENTITY col.lastvisit.label            "Utoljára látogatva">
 <!ENTITY col.visitcount.label           "Látogatások száma">

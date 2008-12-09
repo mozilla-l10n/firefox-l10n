@@ -11,3 +11,6 @@
 <!ENTITY paneAttachments.title    "Mellékletek">
 <!ENTITY panePrivacy.title        "Adatvédelem">
 <!ENTITY paneAdvanced.title       "Haladó">
+
+<!ENTITY cmdCloseMac.commandKey   "w">
+
