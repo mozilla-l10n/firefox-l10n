@@ -138,6 +138,8 @@
 <!ENTITY redoMoveMsgCmd.label "Rétablir le déplacement de message">
 <!ENTITY undoCopyMsgCmd.label "Annuler la copie de message">
 <!ENTITY redoCopyMsgCmd.label "Rétablir la copie de message">
+<!ENTITY undoMarkAllCmd.label "Annuler le marquage de tous les messages en lus">
+<!ENTITY redoMarkAllCmd.label "Rétablir le marquage de tous les messages en lus">
 <!ENTITY undoDefaultCmd.label "Annuler">
 <!ENTITY redoDefaultCmd.label "Refaire">
 
