@@ -20,8 +20,6 @@
 <!ENTITY markAsReadDelay.label         "po wyświetlaniu przez">
 <!ENTITY markAsReadDelay.accesskey     "p">
 <!ENTITY secondsLabel.label            "sekund">
-<!ENTITY showFolderColumns.label       "Wyświetlaj nagłówki kolumn panelu folderów">
-<!ENTITY showFolderColumns.accesskey   "W">
 <!ENTITY openMsgIn.label               "Otwieraj wiadomości w:">
 <!ENTITY reuseExpRadio0.label          "nowych oknach wiadomości">
 <!ENTITY reuseExpRadio0.accesskey      "h">
