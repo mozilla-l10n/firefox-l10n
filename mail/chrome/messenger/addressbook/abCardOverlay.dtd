@@ -84,8 +84,12 @@
 
 <!ENTITY allowRemoteContent.label       "Permet les imatges remotes en el correu HTML.">
 <!ENTITY allowRemoteContent.accesskey   "g">
+<!ENTITY allowRemoteContent.tooltip     "En els missatges HTML és possible
+incrustar imatges d'origen remot. En obrir-se un d'aquests missatges, s'establirà
+una connexió amb la font externa. Això permet que es pugui detectar si es
+llegeix el missatge. En marcar aquest quadre, es permetrà aquest tipus d'imatges
+incrustades en els missatges HTML d'aquest contacte.">
 
-<!ENTITY Phones.box "Telèfons">
 <!ENTITY WorkPhone.label "Feina:">
 <!ENTITY WorkPhone.accesskey "F">
 <!ENTITY HomePhone.label "Particular:">
@@ -98,9 +102,8 @@
 <!ENTITY CellularNumber.accesskey "b">
 
 
-<!ENTITY Address.tab "Adreça">
-<!ENTITY Address.accesskey              "d">
-<!ENTITY Home.box "Particular">
+<!ENTITY Home.tab "Particular">
+<!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label "Adreça:">
 <!ENTITY HomeAddress.accesskey          "ç">
 <!ENTITY HomeAddress2.label "">
@@ -115,7 +118,8 @@
 <!ENTITY HomeCountry.accesskey          "P">
 <!ENTITY HomeWebPage.label "Pàgina web:">
 <!ENTITY HomeWebPage.accesskey          "w">
-<!ENTITY Work.box "Feina">
+<!ENTITY Work.tab "Feina">
+<!ENTITY Work.accesskey                 "F">
 <!ENTITY JobTitle.label "Títol:">
 <!ENTITY JobTitle.accesskey             "t">
 <!ENTITY Department.label "Departament:">
@@ -153,6 +157,6 @@
 <!ENTITY Custom3.accesskey "3">
 <!ENTITY Custom4.label "Personalitzat 4:">
 <!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.box "Anotacions">
+<!ENTITY Notes.label "Anotacions">
 <!ENTITY Notes.accesskey                "n">
 

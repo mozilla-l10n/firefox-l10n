@@ -5,15 +5,11 @@
 <!ENTITY searchSubfolders.accesskey "s">
 <!ENTITY resetButton.label "Buida">
 <!ENTITY resetButton.accesskey "B">
-<!ENTITY optionsButton.label "Opcions">
-<!ENTITY closeButton.label "Tanca">
 <!ENTITY openButton.label "Obre">
 <!ENTITY openButton.accesskey "O">
 <!ENTITY deleteButton.label "Suprimeix">
 <!ENTITY deleteButton.accesskey "u">
 <!ENTITY searchDialogTitle.label "Cerca missatges">
-<!ENTITY conditionDesc.label "Cerca els missatges que coincideixin amb:">
-<!ENTITY conditions.label "Criteris">
 <!ENTITY results.label "Resultats">
 <!ENTITY fileHereMenu.label "Arxiva'l ací">
 <!ENTITY fileHereMenu.accesskey "A">
@@ -46,7 +42,6 @@
 <!ENTITY statusColumn.label "Estat">
 <!ENTITY sizeColumn.label "Mida">
 <!ENTITY junkStatusColumn.label "Estat del correu brossa">
-<!ENTITY linesColumn.label "Línies">
 <!ENTITY unreadColumn.label "Per llegir">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Llegit">

@@ -39,12 +39,6 @@
 <!ENTITY printAddressBook.label "Imprimeix la llibreta d'adreces…">
 <!ENTITY printAddressBook.accesskey "a">
 
-<!ENTITY quitApplicationCmdWin.label "Surt">
-<!ENTITY quitApplicationCmdWin.accesskey "u">
-<!ENTITY quitApplicationCmd.label "Surt">
-<!ENTITY quitApplicationCmd.accesskey "u">
-<!ENTITY quitApplicationCmd.key "Q">
-
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "Edita">
 <!ENTITY editMenu.accesskey "E">
@@ -64,7 +58,6 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "x">
 <!ENTITY deleteCmd.label "Suprimeix">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "u">
 <!ENTITY deleteAbCmd.label "Suprimeix la llibreta d'adreces">
 <!ENTITY deleteCardCmd.label "Suprimeix la targeta">
@@ -123,7 +116,6 @@
 <!ENTITY exportCmd.label "Exporta…">
 <!ENTITY exportCmd.accesskey "E">
 <!ENTITY preferencesCmd.label "Opcions…">
-<!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferències">
 <!ENTITY preferencesCmdUnix.accesskey "n">

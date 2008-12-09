@@ -49,7 +49,6 @@
 <!ENTITY ListDescription.label "Descripció:">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label "Escriu noms o arrossega adreces a la llista de correu inferior:">
-<!ENTITY RemoveButton.label "Elimina">
 <!ENTITY UpButton.label "Mou cap amunt">
 <!ENTITY DownButton.label "Mou cap avall">
 
