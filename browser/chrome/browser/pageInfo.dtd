@@ -37,7 +37,7 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY  pageInfoWindow.width  "425">
+<!ENTITY  pageInfoWindow.width  "600">
 <!ENTITY  pageInfoWindow.height "500">
 
 <!ENTITY  copy.key              "C">
@@ -73,7 +73,7 @@
 <!ENTITY  mediaSize             "Kích thước">
 <!ENTITY  mediaCount            "Tổng số">
 <!ENTITY  mediaDimension        "Kích cỡ:">
-<!ENTITY  mediaLongdesc         "Mô tả đầy đủ:">
+<!ENTITY  mediaLongdesc         "Mô tả Đầy đủ:">
 <!ENTITY  mediaBlockImage.accesskey "C">
 <!ENTITY  mediaSaveAs           "Lưu Thành…">
 <!ENTITY  mediaSaveAs.accesskey "L">
@@ -87,7 +87,7 @@
 
 <!ENTITY  permTab               "Quyền hạn">
 <!ENTITY  permTab.accesskey     "Q">
-<!ENTITY  permUseDefault        "Dùng Mặc định">
+<!ENTITY  permUseDefault        "Dùng Mặc Định">
 <!ENTITY  permAllow             "Cho phép">
 <!ENTITY  permAllowSession      "Cho phép theo Phiên">
 <!ENTITY  permBlock             "Chặn">
@@ -95,12 +95,12 @@
 <!ENTITY  permImage             "Tải Ảnh">
 <!ENTITY  permPopup             "Mở Cửa Sổ Pop-up">
 <!ENTITY  permCookie            "Đặt Cookie">
-<!ENTITY  permInstall           "Cài Phần mở rộng hoặc Giao diện">
+<!ENTITY  permInstall           "Cài đặt Phần mở rộng hoặc Giao diện">
 
 <!ENTITY  securityTab           "Bảo mật">
 <!ENTITY  securityTab.accesskey "B">
 <!ENTITY  securityHeader        "Thông tin bảo mật của trang này">
-<!ENTITY  securityView.certView "Xem Chứng chỉ">
+<!ENTITY  securityView.certView "Xem Chứng Thư">
 <!ENTITY  securityView.accesskey "C">
 <!ENTITY  securityView.unknown   "Không rõ">
 
@@ -108,7 +108,7 @@
 <!ENTITY  securityView.identity.header   "Định danh Trang Web">
 <!ENTITY  securityView.identity.owner    "Chủ:">
 <!ENTITY  securityView.identity.domain   "Trang web:">
-<!ENTITY  securityView.identity.verifier "Kiểm định bởi:">
+<!ENTITY  securityView.identity.verifier "Xác minh bởi: ">
 
 <!ENTITY  securityView.privacy.header                   "Riêng tư &amp; Lược sử">
 <!ENTITY  securityView.privacy.history                  "Tôi đã từng xem trang web này trước ngày hôm nay chưa?">
@@ -116,7 +116,7 @@
 <!ENTITY  securityView.privacy.viewCookies              "Xem Cookie">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "e">
 <!ENTITY  securityView.privacy.passwords                "Tôi có lưu mật khẩu nào trên trang web này không?">
-<!ENTITY  securityView.privacy.viewPasswords            "Xem Mật khẩu đã Lưu">
+<!ENTITY  securityView.privacy.viewPasswords            "Xem Mật Khẩu đã Lưu">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "M">
 
 <!ENTITY  securityView.technical.header                 "Chi tiết Kĩ thuật">

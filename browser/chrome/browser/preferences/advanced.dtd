@@ -42,7 +42,7 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "Dùng tới">
+<!ENTITY useCacheBefore.label            "Dùng tối đa">
 <!ENTITY useCacheBefore.accesskey        "D">
 <!ENTITY useCacheAfter.label             "MB dung lượng đĩa cho bộ đệm">
 <!ENTITY clearCacheNow.label             "Xóa Ngay">
@@ -53,19 +53,19 @@
 <!ENTITY autoCheck.label                 "Tự động kiểm tra phiên bản mới của:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate.label        "Các Tiện ích đã cài">
-<!ENTITY enableAddonsUpdate.accesskey    "i">
-<!ENTITY enableSearchUpdate.label        "Các Máy tìm kiếm">
+<!ENTITY enableAddonsUpdate.label        "Những Tiện-ích đã cài">
+<!ENTITY enableAddonsUpdate.accesskey    "N">
+<!ENTITY enableSearchUpdate.label        "Máy tìm kiếm">
 <!ENTITY enableSearchUpdate.accesskey    "y">
 <!ENTITY whenUpdatesFound.label          "Khi tìm thấy các bản cập nhật của &brandShortName;:">
 <!ENTITY askMe.label                     "Hỏi tôi nên làm gì">
 <!ENTITY askMe.accesskey                 "H">
 <!ENTITY modeAutomatic.label             "Tự động tải xuống và cài đặt">
 <!ENTITY modeAutomatic.accesskey         "x">
-<!ENTITY modeAutoAddonWarn.label         "Cảnh báo khi nó vô hiệu hóa bất cứ tiện ích nào đó của tôi">
+<!ENTITY modeAutoAddonWarn.label         "Cảnh báo tôi nếu điều này làm vô hiệu hóa bất kì tiện ích nào">
 <!ENTITY modeAutoAddonWarn.accesskey     "C">
-<!ENTITY updateHistory.label             "Hiện Lược sử Cập nhật">
-<!ENTITY updateHistory.accesskey         "p">
+<!ENTITY updateHistory.label             "Hiển thị Lược sử Cập nhật">
+<!ENTITY updateHistory.accesskey         "L">
 
 <!ENTITY offlineNotify.label             "Báo tôi khi có trang web yêu cầu được lưu trữ dữ liệu để dùng ngoại tuyến">
 <!ENTITY offlineNotify.accesskey         "B">
@@ -85,17 +85,17 @@
 <!ENTITY useSSL3.accesskey               "3">
 <!ENTITY useTLS1.label                   "Dùng TLS 1.0">
 <!ENTITY useTLS1.accesskey               "1">
-<!ENTITY certificates.label              "Chứng chỉ">
-<!ENTITY certSelection.description       "Khi một máy chủ yêu cầu chứng chỉ cá nhân của tôi:">
+<!ENTITY certificates.label              "Chứng thư">
+<!ENTITY certSelection.description       "Khi một máy chủ yêu cầu chứng thư cá nhân của tôi:">
 <!ENTITY certs.auto                      "Tự động chọn một cái">
-<!ENTITY certs.auto.accesskey            "g">
+<!ENTITY certs.auto.accesskey            "n">
 <!ENTITY certs.ask                       "Hỏi tôi mỗi lần">
 <!ENTITY certs.ask.accesskey             "H">
-<!ENTITY viewCerts.label                 "Xem Chứng chỉ">
-<!ENTITY viewCerts.accesskey             "C">
+<!ENTITY viewCerts.label                 "Xem Chứng Thư">
+<!ENTITY viewCerts.accesskey             "X">
 <!ENTITY viewCRLs.label                  "Danh sách Thu hồi">
 <!ENTITY viewCRLs.accesskey              "D">
-<!ENTITY verify2.label                   "Kiểm định">
-<!ENTITY verify2.accesskey               "K">
+<!ENTITY verify2.label                   "Phê chuẩn">
+<!ENTITY verify2.accesskey               "P">
 <!ENTITY viewSecurityDevices.label       "Thiết bị Bảo mật">
-<!ENTITY viewSecurityDevices.accesskey   "b">
+<!ENTITY viewSecurityDevices.accesskey   "B">

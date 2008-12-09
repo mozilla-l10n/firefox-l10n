@@ -5,7 +5,7 @@
 <!ENTITY image-url.label       "Địa chỉ:">
 <!ENTITY image-type.label      "Kiểu:">
 <!ENTITY image-desc.label      "Mô tả:">
-<!ENTITY image-alt.label       "Văn bản thay thế:">
+<!ENTITY image-alt.label       "Văn bản phụ:">
 <!ENTITY image-size.label      "Khổ Ảnh:">
 <!ENTITY image-filesize.label  "Kích thước Tập tin:">
 <!ENTITY insdel-sec.label      "Chèn/Xóa Thuộc tính">

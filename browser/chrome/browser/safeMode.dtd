@@ -39,22 +39,22 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; Chế độ An toàn">
 <!ENTITY window.width                 "37em">
 
-<!ENTITY safeModeDescription.label    "&brandShortName; đang chạy ở chế độ An toàn, ở chế độ này mọi thiết lập cá nhân, giao diện, phần mở rộng đều bị vô hiệu hóa.">
-<!ENTITY safeModeDescription2.label   "Bạn có thể chuyển một số hoặc toàn bộ các thiết lập sau đây thành những thay đổi vĩnh viễn:">
+<!ENTITY safeModeDescription.label    "&brandShortName; đang chạy ở chế độ An toàn, nó sẽ tạm thời vô hiệu hóa mọi thiết lập cá nhân, giao diện, phần mở rộng của bạn.">
+<!ENTITY safeModeDescription2.label   "Bạn có thể chuyển một số hoặc tất cả các thiết lập sau đây thành những thay đổi vĩnh viễn:">
 
 <!ENTITY disableAddons.label          "Vô hiệu hóa tất cả tiện ích">
 <!ENTITY disableAddons.accesskey      "V">
 
-<!ENTITY resetToolbars.label          "Đặt lại các thanh công cụ và điều khiển">
+<!ENTITY resetToolbars.label          "Đặt lại các thanh công cụ và điều khiển về mặc định">
 <!ENTITY resetToolbars.accesskey      "k">
 
-<!ENTITY resetBookmarks.label         "Đặt lại các trang-đánh-dấu về mặc định của &brandShortName;">
-<!ENTITY resetBookmarks.accesskey     "l">
+<!ENTITY resetBookmarks.label         "Đặt lại các trang đánh dấu về mặc định của &brandShortName;">
+<!ENTITY resetBookmarks.accesskey     "u">
 
-<!ENTITY resetUserPrefs.label         "Đặt lại các thiết lập của người dùng về mặc định của &brandShortName;">
-<!ENTITY resetUserPrefs.accesskey     "d">
+<!ENTITY resetUserPrefs.label         "Đặt lại các tùy chỉnh của người dùng về mặc định của &brandShortName;">
+<!ENTITY resetUserPrefs.accesskey     "y">
 
-<!ENTITY restoreSearch.label          "Khôi phục lại các máy tìm kiếm">
+<!ENTITY restoreSearch.label          "Khôi phục các máy tìm kiếm mặc định">
 <!ENTITY restoreSearch.accesskey      "m">
 
 <!ENTITY changeAndRestartButton.label "Lưu thay đổi và Khởi động lại">

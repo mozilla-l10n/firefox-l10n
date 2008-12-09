@@ -35,12 +35,12 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY certmgr.title                       "Trình Quản lí Chứng chỉ">
+<!ENTITY certmgr.title                       "Trình quản lí Chứng thư">
 
 <!ENTITY certmgr.tab.mine                     "Chứng chỉ của Bạn">
 <!ENTITY certmgr.tab.others2                  "Người khác">
 <!ENTITY certmgr.tab.websites3                "Máy chủ">
-<!ENTITY certmgr.tab.ca                       "Nhà Thẩm định">
+<!ENTITY certmgr.tab.ca                       "Nhà thẩm định">
 <!ENTITY certmgr.tab.orphan2                  "Khác">
 
 <!ENTITY certmgr.ca.builtins                  "Các CA sẵn có">
@@ -57,42 +57,42 @@
 <!ENTITY certmgr.detail.prettyprint_tab.title "Chi tiết">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "C">
 
-<!ENTITY certmgr.pending.label                "Hiện đang kiểm định chứng chỉ…">
+<!ENTITY certmgr.pending.label                "Hiện đang xác minh chứng thư…">
 <!ENTITY certmgr.subjectinfo.label            "Cấp cho">
 <!ENTITY certmgr.issuerinfo.label             "Cấp bởi">
 <!ENTITY certmgr.validity.label               "Tính hiệu lực" >
 <!ENTITY certmgr.fingerprints.label           "Dấu kiểm">
-<!ENTITY certmgr.certdetail.title             "Chi tiết Chứng chỉ">
-<!ENTITY certmgr.certdetail.cn                "Tên chung (CN)">
+<!ENTITY certmgr.certdetail.title             "Chi tiết Chứng thư">
+<!ENTITY certmgr.certdetail.cn                "Tên thông thường (CN)">
 <!ENTITY certmgr.certdetail.o                 "Tổ chức (O)">
 <!ENTITY certmgr.certdetail.ou                "Đơn vị của Tổ chức (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Số Serial">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Dấu kiểm SHA1">
 <!ENTITY certmgr.certdetail.md5fingerprint    "Dấu kiểm MD5">
 
-<!ENTITY certmgr.editcert.title               "Chỉnh Thiết lập Chứng chỉ Bảo mật">
-<!ENTITY certmgr.editcacert.title             "Chỉnh thiết lập độ tin cậy chứng chỉ CA">
-<!ENTITY certmgr.editsslcert.title            "Chỉnh thiết lập độ tin cậy chứng chỉ trang web">
+<!ENTITY certmgr.editcert.title               "Chỉnh sửa Thiết lập Chứng thư Bảo mật">
+<!ENTITY certmgr.editcacert.title             "Chỉnh thiết lập độ tin cậy chứng thư CA">
+<!ENTITY certmgr.editsslcert.title            "Chỉnh thiết lập độ tin cậy chứng thư trang web">
 <!ENTITY certmgr.editcert.edittrust           "Chỉnh thiết lập tin cậy:">
-<!ENTITY certmgr.editcert.trustssl            "Chứng chỉ này có thể nhận diện trang web.">
-<!ENTITY certmgr.editcert.trustemail          "Chứng chỉ này có thể nhận diện người dùng mail.">
-<!ENTITY certmgr.editcert.trustobjsign        "Chứng chỉ này có thể nhận diện nhà sản xuất phần mềm.">
-<!ENTITY certmgr.editsslcert.edittrust        "Chỉnh thiết lập độ tin cậy chứng chỉ:">
+<!ENTITY certmgr.editcert.trustssl            "Chứng thư này có thể nhận diện trang web.">
+<!ENTITY certmgr.editcert.trustemail          "Chứng thư này có thể nhận diện người dùng email.">
+<!ENTITY certmgr.editcert.trustobjsign        "Chứng thư này có thể nhận diện nhà sản xuất phần mềm.">
+<!ENTITY certmgr.editsslcert.edittrust        "Chỉnh thiết lập độ tin cậy chứng thư:">
 <!ENTITY certmgr.editsslcert.dotrust          "Tin tưởng tính xác thực của chứng chỉ này.">
 <!ENTITY certmgr.editsslcert.donttrust        "Không tin vào tính xác thực của chứng chỉ này.">
 <!ENTITY certmgr.editemailcert.title          "Chỉnh thiết lập độ tin cậy của chứng chỉ email">
-<!ENTITY certmgr.editemailcert.edittrust      "Chỉnh thiết lập độ tin cậy chứng chỉ:">
+<!ENTITY certmgr.editemailcert.edittrust      "Chỉnh thiết lập độ tin cậy chứng thư:">
 <!ENTITY certmgr.editemailcert.dotrust        "Tin tưởng tính xác thực của chứng chỉ này.">
 <!ENTITY certmgr.editemailcert.donttrust      "Không tin vào tính xác thực của chứng chỉ này.">
 
-<!ENTITY certmgr.deletecert.title             "Xóa Chứng chỉ">
+<!ENTITY certmgr.deletecert.title             "Xóa Chứng Thư">
 <!ENTITY certmgr.deletecert.beforename        "Bạn đã yêu cầu để xóa chứng chỉ này:">
 <!ENTITY certmgr.deletecert.aftername         "Bạn có chắc muốn xóa chứng chỉ này không?">
-<!ENTITY certmgr.deleteusercert.title         "Xóa Chứng chỉ của Bạn">
+<!ENTITY certmgr.deleteusercert.title         "Xóa Chứng Thư của Bạn">
 <!ENTITY certmgr.deleteusercert.beforename    "Bạn đã yêu cầu để xóa chứng chỉ này:">
 <!ENTITY certmgr.deleteusercert.aftername     "Một khi xóa chứng chỉ này rồi, bạn sẽ không đọc được thư được nó mã hóa.">
 
-<!ENTITY certmgr.certname                     "Tên Chứng chỉ">
+<!ENTITY certmgr.certname                     "Tên Chứng Thư">
 <!ENTITY certmgr.certserver                   "Máy chủ">
 <!ENTITY certmgr.typesofoverrides             "Ngoại trừ">
 <!ENTITY certmgr.override_lifetime            "Suốt đời">
@@ -109,7 +109,7 @@
 <!ENTITY certmgr.view2.accesskey              "e">
 <!ENTITY certmgr.edit2.label                  "Chỉnh sửa…">
 <!ENTITY certmgr.edit2.accesskey              "C">
-<!ENTITY certmgr.editca.label                 "Chỉnh sửa tính Tin cậy CA">
+<!ENTITY certmgr.editca.label                 "Chỉnh sửa Mức tin cậy CA">
 <!ENTITY certmgr.editca.accesskey             "n">
 <!ENTITY certmgr.add.label                    "Thêm">
 <!ENTITY certmgr.add.accesskey                "T">
@@ -129,16 +129,16 @@
 <!ENTITY certmgr.fields.accesskey             "G">
 <!ENTITY certmgr.hierarchy.label              "Hệ phân cấp Chứng chỉ">
 <!ENTITY certmgr.hierarchy.accesskey          "H">
-<!ENTITY certmgr.addException.label           "Thêm Ngoại lệ…">
+<!ENTITY certmgr.addException.label           "Thêm Ngoại Lệ…">
 <!ENTITY certmgr.addException.accesskey       "T">
 
-<!ENTITY exceptionMgr.title                   "Thêm Ngoại lệ Bảo mật">
+<!ENTITY exceptionMgr.title                   "Thêm ngoại lệ Bảo mật">
 <!ENTITY exceptionMgr.exceptionButton         "Xác nhận Ngoại lệ Bảo mật">
 <!ENTITY exceptionMgr.exceptionButtonAccess   "X">
 <!ENTITY exceptionMgr.supplementalWarning     "Ngân hàng, cửa hiệu và trang công cộng hợp pháp khác sẽ không yêu cầu bạn làm việc này.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Máy chủ">
 <!ENTITY exceptionMgr.certlocation.url        "Địa chỉ:">
-<!ENTITY exceptionMgr.certlocation.download   "Lấy Chứng chỉ">
+<!ENTITY exceptionMgr.certlocation.download   "Lấy Chứng Thư">
 <!ENTITY exceptionMgr.certlocation.accesskey  "C">
 <!ENTITY exceptionMgr.certstatus.caption      "Trạng thái Chứng chỉ">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Xem…">

@@ -3,7 +3,7 @@
 <!ENTITY title    "Tiêu đề:"> 
 <!ENTITY progress "Tiến trình:">
 <!ENTITY preparing "Đang chuẩn bị…">
-<!ENTITY printComplete "Đã In Xong.">
+<!ENTITY printComplete "In Xong.">
 
 <!ENTITY dialogCancel.label "Hủy bỏ"> 
 <!ENTITY dialogClose.label "Đóng">

@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY  validation.crlmanager.label             "Quản lí các CRL">
-<!ENTITY  validation.crlmanager.description       "Các Danh sách Chứng chỉ bị Thu hồi này được lưu trong cơ sở dữ liệu chứng chỉ của bạn:">
+<!ENTITY  validation.crlmanager.description       "Các Danh sách Chứng thư bị Thu hồi (CRL) này được lưu trong cơ sở dữ liệu chứng thư của bạn:">
 <!ENTITY  validation.crlname.label                "Tên">
 <!ENTITY  validation.crllastupdate.label          "Lần Cập nhật gần đây">
 <!ENTITY  validation.crlnextupdate.label          "Lần Cập nhật kế">
@@ -57,7 +57,7 @@
 <!ENTITY  validation.crl.autoupdate.freq.label2   "Ngày">
 <!ENTITY  validation.crl.autoupdate.url.label     "CRL sẽ được nhập Từ:">
 <!ENTITY  crl.import.status.title                 "Tình trạng Nhập CRL">
-<!ENTITY  crl.import.success.message              "CRL đã được nhập thành công.">
+<!ENTITY  crl.import.success.message              "Danh sách Chứng thư bị Thu hồi (CRL) đã được nhập thành công.">
 <!ENTITY  crl.issuer.label                        "CRL Cấp bởi:">
 <!ENTITY  crl.issuer.org.label                    "Tổ chức: ">
 <!ENTITY  crl.issuer.orgunit.label                "Đơn vị: ">

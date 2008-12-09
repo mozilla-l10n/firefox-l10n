@@ -34,9 +34,9 @@
 
 <!ENTITY navbarCmd.label "Thanh Điều Hướng">
 <!ENTITY navbarCmd.accesskey "H">
-<!ENTITY personalbarCmd.label "Thanh Đánh-dấu">
+<!ENTITY personalbarCmd.label "Thanh Đánh Dấu">
 <!ENTITY personalbarCmd.accesskey "u">
-<!ENTITY bookmarksToolbarItem.label "Các mục của Thanh Đánh-dấu">
+<!ENTITY bookmarksToolbarItem.label "Các mục của Thanh Đánh Dấu">
 <!ENTITY taskbarCmd.label "Thanh Trạng Thái">
 <!ENTITY taskbarCmd.accesskey "a">
 
@@ -62,12 +62,12 @@
 
 <!ENTITY bookmarksMenu.label "Đánh dấu">
 <!ENTITY bookmarksMenu.accesskey "u">
-<!ENTITY bookmarkThisPageCmd.label "Đánh dấu Trang Này">
+<!ENTITY bookmarkThisPageCmd.label "Đánh Dấu Trang Này">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Đăng kí nhận tin từ Trang Này">
 <!ENTITY subscribeToPageMenuitem.label "Đăng kí nhận tin từ Trang Này…">
 <!ENTITY addCurPagesCmd.label "Đánh dấu Tất cả Các thẻ…">
-<!ENTITY organizeBookmarks.label "Quản lí Đánh dấu…">
+<!ENTITY organizeBookmarks.label "Quản lí Trang đánh dấu…">
 <!ENTITY bookmarkAllCmd.label "Đánh dấu Tất cả Các thẻ…">
 
 <!ENTITY backCmd.label                "Lùi">
@@ -97,7 +97,7 @@
 <!ENTITY  homeButton.label            "Trang chủ">
 
 <!ENTITY bookmarksButton.label          "Đánh dấu">
-<!ENTITY bookmarksButton.tooltip        "Hiển thị các trang-đánh-dấu của bạn">
+<!ENTITY bookmarksButton.tooltip        "Hiển thị các trang đánh dấu của bạn">
 <!ENTITY bookmarksSidebarCmd.accesskey  "u">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
@@ -110,7 +110,7 @@
 <!ENTITY toolsMenu.label              "Công cụ">
 <!ENTITY toolsMenu.accesskey          "g"> 
 
-<!ENTITY keywordfield.label           "Thêm Từ khóa để Tìm kiếm…">
+<!ENTITY keywordfield.label           "Tạo một Từ khóa cho Cách tìm kiếm này…">
 <!ENTITY keywordfield.accesskey       "m">
 <!ENTITY search.label                 "Tìm kiếm trên Web">
 <!ENTITY search.accesskey             "m">
@@ -120,7 +120,7 @@
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Tiện ích">
-<!ENTITY addons.tooltip               "Hiện và Quản lí các Tiện-ích đã cài">
+<!ENTITY addons.tooltip               "Hiển thị và Quản lí các Tiện ích đã cài đặt">
 <!ENTITY addons.accesskey             "T">
 
 <!ENTITY errorConsoleCmd.label        "Bảng kiểm soát Lỗi">
@@ -161,8 +161,8 @@
 <!ENTITY preferencesCmdUnix.label       "Tùy chỉnh">
 <!ENTITY preferencesCmdUnix.accesskey     "y"> 
 
-<!ENTITY clearPrivateDataCmd.label            "Xóa dữ liệu Cá nhân">
-<!ENTITY clearPrivateDataCmd.accesskey        "C">
+<!ENTITY clearRecentHistoryCmd.label            "Xóa các Lược sử Gần đây">
+<!ENTITY clearRecentHistoryCmd.accesskey        "L">
 
 <!ENTITY privateBrowsingCmd.label            "Duyệt web Riêng tư">
 <!ENTITY privateBrowsingCmd.accesskey        "w">
@@ -181,11 +181,11 @@
 <!ENTITY historyUndoMenu.label "Các thẻ Đã đóng Gần đây">
 
 <!ENTITY historyHomeCmd.label "Trang chủ">
-<!ENTITY showAllHistoryCmd2.label "Hiện toàn bộ Lược sử">
+<!ENTITY showAllHistoryCmd2.label "Hiển thị Toàn bộ Lược sử">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "Tìm trong Đánh dấu và Lược sử">
+<!ENTITY urlbar.emptyText             "Tìm trong Trang đánh dấu và Lược sử">
 <!ENTITY urlbar.accesskey             "d">
 
 <!-- 
@@ -220,7 +220,7 @@
 <!ENTITY openFrameCmd.label           "Mở Khung trong Cửa Sổ Mới">
 <!ENTITY openFrameCmd.accesskey       "S">
 <!ENTITY openFrameCmdInTab.label      "Mở Khung trong Thẻ Mới">
-<!ENTITY openFrameCmdInTab.accesskey  "t">
+<!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY showOnlyThisFrameCmd.label     "Chỉ Hiện Khung Này">
 <!ENTITY showOnlyThisFrameCmd.accesskey "C">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -244,16 +244,16 @@
 <!ENTITY viewImageCmd.label           "Xem Ảnh">
 <!ENTITY viewImageCmd.accesskey       "e">
 <!ENTITY viewVideoCmd.label           "Xem Phim">
-<!ENTITY viewVideoCmd.accesskey       "X">
-<!ENTITY viewBGImageCmd.label         "Xem Ảnh nền">
+<!ENTITY viewVideoCmd.accesskey       "e">
+<!ENTITY viewBGImageCmd.label         "Xem Ảnh Nền">
 <!ENTITY viewBGImageCmd.accesskey     "e">
 <!ENTITY setDesktopBackgroundCmd.label      "Đặt làm Ảnh nền Desktop…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "D">
-<!ENTITY bookmarkPageCmd2.label       "Đánh dấu Trang Này">
+<!ENTITY bookmarkPageCmd2.label       "Đánh Dấu Trang Này">
 <!ENTITY bookmarkPageCmd2.accesskey   "u">
-<!ENTITY bookmarkThisLinkCmd.label      "Đánh dấu Liên kết Này">
+<!ENTITY bookmarkThisLinkCmd.label      "Đánh Dấu Liên Kết Này">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "u">
-<!ENTITY bookmarkThisFrameCmd.label      "Đánh dấu Khung Này">
+<!ENTITY bookmarkThisFrameCmd.label      "Đánh Dấu Khung Này">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "u">
 <!ENTITY sendPageCmd.label            "Gửi Liên Kết…">
 <!ENTITY sendPageCmd.accesskey        "K">
@@ -262,16 +262,16 @@
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "r">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Lưu Khung theo dạng…">
-<!ENTITY saveFrameCmd.accesskey       "L">
+<!ENTITY saveFrameCmd.label           "Lưu Khung dưới dạng…">
+<!ENTITY saveFrameCmd.accesskey       "d">
 <!ENTITY printFrameCmd.label          "In Khung…">
 <!ENTITY printFrameCmd.accesskey      "I">
-<!ENTITY saveLinkCmd.label            "Lưu Liên-kết Thành…">
-<!ENTITY saveLinkCmd.accesskey        "i">
+<!ENTITY saveLinkCmd.label            "Lưu Liên Kết dưới dạng…">
+<!ENTITY saveLinkCmd.accesskey        "L">
 <!ENTITY sendLinkCmd.label            "Gửi Liên Kết…"> 
 <!ENTITY sendLinkCmd.accesskey        "K">
 <!ENTITY saveImageCmd.label           "Lưu Ảnh Thành…">
-<!ENTITY saveImageCmd.accesskey       "L">
+<!ENTITY saveImageCmd.accesskey       "n">
 <!ENTITY saveVideoCmd.label           "Lưu Phim Thành…">
 <!ENTITY saveVideoCmd.accesskey       "u">
 <!ENTITY saveAudioCmd.label           "Lưu Tiếng Thành…">
@@ -279,25 +279,25 @@
 <!ENTITY sendImageCmd.label           "Gửi Ảnh…">
 <!ENTITY sendImageCmd.accesskey       "G">
 <!ENTITY sendVideoCmd.label           "Gửi Phim…">
-<!ENTITY sendVideoCmd.accesskey       "i">
+<!ENTITY sendVideoCmd.accesskey       "G">
 <!ENTITY sendAudioCmd.label           "Gửi Tiếng…">
-<!ENTITY sendAudioCmd.accesskey       "i">
+<!ENTITY sendAudioCmd.accesskey       "G">
 <!ENTITY copyLinkCmd.label            "Chép Địa Chỉ Liên Kết">
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyLinkTextCmd.label        "Chép văn bản của Liên kết">
 <!ENTITY copyLinkTextCmd.accesskey    "v">
-<!ENTITY copyImageCmd.label           "Chép Địa chỉ Ảnh">
+<!ENTITY copyImageCmd.label           "Chép Địa Chỉ Ảnh">
 <!ENTITY copyImageCmd.accesskey       "p">
 <!ENTITY copyImageContentsCmd.label   "Chép Ảnh">
-<!ENTITY copyImageContentsCmd.accesskey  "h"> 
+<!ENTITY copyImageContentsCmd.accesskey  "C"> 
 <!ENTITY copyVideoURLCmd.label        "Chép Địa Chỉ Phim">
 <!ENTITY copyVideoURLCmd.accesskey    "p">
 <!ENTITY copyAudioURLCmd.label        "Chép Địa Chỉ Tiếng">
 <!ENTITY copyAudioURLCmd.accesskey    "p">
 <!ENTITY blockImageCmd.accesskey      "C">
 <!ENTITY metadataCmd.label            "Thuộc tính">
-<!ENTITY metadataCmd.accesskey        "n">
-<!ENTITY copyEmailCmd.label           "Chép địa chỉ Email">
+<!ENTITY metadataCmd.accesskey        "h">
+<!ENTITY copyEmailCmd.label           "Chép Địa Chỉ Email">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Khung này">
 <!ENTITY thisFrameMenu.accesskey          "y">
@@ -309,7 +309,7 @@
 <!ENTITY mediaPause.accesskey        "m">
 <!ENTITY mediaMute.label             "Tắt tiếng">
 <!ENTITY mediaMute.accesskey         "T">
-<!ENTITY mediaUnmute.label           "Bỏ tắt tiếng">
+<!ENTITY mediaUnmute.label           "Bật tiếng">
 <!ENTITY mediaUnmute.accesskey       "B">
 <!ENTITY mediaShowControls.label     "Hiện Điều Khiển">
 <!ENTITY mediaShowControls.accesskey "K">
@@ -396,19 +396,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
-<!ENTITY spellAddDictionaries.label "Thêm Từ điển…">
+<!ENTITY spellAddDictionaries.label "Thêm Từ Điển…">
 <!ENTITY spellAddDictionaries.accesskey "T">
 
 <!ENTITY editBookmark.done.label                     "Xong">
 <!ENTITY editBookmark.cancel.label                   "Hủy bỏ">
-<!ENTITY editBookmark.removeBookmark.label           "Xóa Đánh-dấu">
+<!ENTITY editBookmark.removeBookmark.label           "Xóa bỏ Trang đánh dấu">
 <!ENTITY editBookmark.removeBookmark.accessKey       "X">
 <!ENTITY editBookmark.undo.label                     "Hoàn tác">
 <!ENTITY editBookmark.undo.accessKey                 "H">
 <!ENTITY editBookmark.edit.label                     "Chỉnh sửa…">
 <!ENTITY editBookmark.edit.accessKey                 "C">
 
-<!ENTITY identity.unverifiedsite2 "Trang web không cung cấp thông tin định danh.">
+<!ENTITY identity.unverifiedsite2 "Trang web này không cung cấp thông tin định danh.">
 <!ENTITY identity.connectedTo "Bạn đang kết nối đến">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
@@ -423,7 +423,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "thuộc quyền kiểm soát của">
 
-<!ENTITY identity.moreInfoLinkText "Thông tin chi tiết…">
+<!ENTITY identity.moreInfoLinkText "Thông tin Chi tiết…">
 
 <!ENTITY downloadMonitor2.tooltip "Mở cửa sổ Tải xuống">
 

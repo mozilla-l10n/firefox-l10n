@@ -5,10 +5,10 @@
 <!ENTITY treehead.status.label        "Trạng thái">
 <!ENTITY removepermission.label       "Xóa Trang">
 <!ENTITY removepermission.accesskey   "X">
-<!ENTITY removeallpermissions.label   "Xóa Toàn bộ">
-<!ENTITY removeallpermissions.accesskey "b">
+<!ENTITY removeallpermissions.label   "Xóa Toàn Bộ">
+<!ENTITY removeallpermissions.accesskey "B">
 <!ENTITY address.label                "Địa chỉ của trang web:">
-<!ENTITY address.accesskey            "Đ">
+<!ENTITY address.accesskey            "a">
 <!ENTITY block.label                  "Chặn">
 <!ENTITY block.accesskey              "C">
 <!ENTITY session.label                "Cho phép theo Phiên">

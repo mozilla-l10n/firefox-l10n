@@ -1,21 +1,21 @@
-<!ENTITY newprofile.title             "Trình Thuật sĩ tạo Profile">
+<!ENTITY newprofile.title             "Trình thuật sĩ Tạo mới Hồ sơ">
 <!ENTITY window.size                  "width: 45em; height: 32em;">
 
 <!-- First wizard page -->
-<!ENTITY profileCreationExplanation_1.text  "&brandShortName; lưu các thông tin về các thiết lập và tùy chọn của bạn trong profile cá nhân của bạn.">
-<!ENTITY profileCreationExplanation_2.text  "Nếu bạn dùng chung &brandShortName; với người khác, bạn có thể dùng profile để lưu các thông tin riêng cho từng người. Để làm việc này, mỗi người nên tạo một profile riêng cho mình.">
-<!ENTITY profileCreationExplanation_3.text  "Nếu bạn là người duy nhất dùng &brandShortName;, bạn phải có ít nhất một profile. Nếu bạn muốn, bạn có thể tạo nhiều profile cho chính mình để lưu các thiết lập và tùy chọn khác nhau. Ví dụ, bạn có thể muốn có các profile riêng cho việc kinh doanh và sử dụng cá nhân.">
-<!ENTITY profileCreationExplanation_4.text  "Để bắt đầu tạo profile, nhấp Tiếp.">
-<!ENTITY profileCreationExplanation_4Mac.text  "Để bắt đầu tạo profile, nhấp Tiếp tục.">
-<!ENTITY profileCreationExplanation_4Gnome.text  "Để bắt đầu tạo profile, nhấp Tiếp.">
+<!ENTITY profileCreationExplanation_1.text  "&brandShortName; lưu các thông tin thiết lập và tùy chọn của bạn trong hồ sơ cá nhân của bạn.">
+<!ENTITY profileCreationExplanation_2.text  "Nếu bạn dùng chung &brandShortName; với người khác, bạn có thể dùng hồ sơ để lưu các thông tin riêng cho từng người. Để làm việc này, mỗi người nên tạo một hồ sơ riêng cho mình.">
+<!ENTITY profileCreationExplanation_3.text  "Nếu bạn là người duy nhất dùng &brandShortName;, bạn phải có ít nhất một hồ sơ. Nếu muốn, bạn có thể tạo nhiều hồ sơ cho chính mình để lưu các thiết lập và tùy chọn khác nhau. Ví dụ, có thể bạn muốn có các hồ sơ riêng rẽ cho việc kinh doanh và sử dụng cá nhân.">
+<!ENTITY profileCreationExplanation_4.text  "Để bắt đầu tạo hồ sơ, nhấn Tiến.">
+<!ENTITY profileCreationExplanation_4Mac.text  "Để bắt đầu tạo hồ sơ, nhấn Tiếp tục.">
+<!ENTITY profileCreationExplanation_4Gnome.text  "Để bắt đầu tạo hồ sơ, nhấn Tiến.">
 
 <!-- Second wizard page -->
-<!ENTITY profileCreationIntro.text      "Nếu bạn tạo vài profile bạn có thể tách rời chúng ra bằng tên của các profile. Bạn có thể dùng tên được cung cấp ở đây hoặc dùng tên của bạn.">
-<!ENTITY profilePrompt.label            "Nhập tên profile mới:">
+<!ENTITY profileCreationIntro.text      "Nếu tạo vài hồ sơ, bạn có thể tách biệt chúng bằng cách đặt tên. Bạn có thể dùng tên được cung cấp ở đây hoặc đặt theo ý bạn.">
+<!ENTITY profilePrompt.label            "Nhập tên hồ sơ mới:">
 <!ENTITY profilePrompt.accesskey        "N">
-<!ENTITY profileDirectoryExplanation.text   "Thiết lập, tùy chỉnh và những dữ liệu liên quan đến người sử dụng sẽ được lưu tại:">
-<!ENTITY profileDefaultName             "Người dùng Mặc định">
-<!ENTITY button.choosefolder.label      "Chọn Thư mục…">
+<!ENTITY profileDirectoryExplanation.text   "Thiết lập, tùy chọn và những dữ liệu liên quan đến người dùng sẽ được lưu tại:">
+<!ENTITY profileDefaultName             "Nguoi dung Mac dinh">
+<!ENTITY button.choosefolder.label      "Chọn Thư Mục…">
 <!ENTITY button.choosefolder.accesskey  "C">
-<!ENTITY button.usedefault.label        "Dùng Thư mục Mặc định">
-<!ENTITY button.usedefault.accesskey    "D">
+<!ENTITY button.usedefault.label        "Sử dụng Thư mục Mặc định">
+<!ENTITY button.usedefault.accesskey    "S">

@@ -34,4 +34,4 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY xml.nostylesheet "Tệp XML có vẻ như không có thông tin style nào kết hợp với nó. Cấu trúc tài liệu được hiển thị bên dưới.">
+<!ENTITY xml.nostylesheet "Tập tin XML có vẻ như không có thông tin style nào đi kèm với nó. Cấu trúc tài liệu được hiển thị bên dưới.">

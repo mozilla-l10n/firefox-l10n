@@ -15,19 +15,19 @@
 <!ENTITY intro.attachment.label "Trang đề nghị &quot;#3&quot; nên được xử lí như một tập tin đính kèm. Nó thuộc loại tập tin #2 (#1) và nằm tại:">
 <!ENTITY intro.attachment.noDesc.label "Trang đề nghị &quot;#3&quot; nên được xử lí như một tập tin đính kèm. Nó thuộc loại tập tin #2 và nằm tại:">
 
-<!ENTITY intro.sniffed.label "#4 đã dò được tập tin &quot;#3&quot; giống với loại tập tin #2 (#1). Tập tin nằm tại:">
-<!ENTITY intro.sniffed.noDesc.label "#4 đã dò được tập tin &quot;#3&quot; giống với loại tập tin #2. Tập tin nằm tại:">
+<!ENTITY intro.sniffed.label "#4 nhận thấy tập tin &quot;#3&quot; giống với kiểu tập tin #2 (#1). Tập tin nằm tại:">
+<!ENTITY intro.sniffed.noDesc.label "#4 nhận thấy tập tin &quot;#3&quot; giống với kiểu tập tin #2. Tập tin nằm tại:">
 
-<!ENTITY prompt.label          "#1 nên làm gì với tệp này?">
+<!ENTITY prompt.label          "#1 nên làm gì với tập tin này?">
 
-<!ENTITY alwaysHandle.label     "Luôn thực hiện hành động này khi xử lí với những tệp loại này">
+<!ENTITY alwaysHandle.label     "Luôn thực hiện thao tác này khi xử lí những tập tin thuộc kiểu này">
 <!ENTITY alwaysHandle.accesskey "u">
 
 <!ENTITY saveToDisk.label      "Lưu nó vào đĩa">
 <!ENTITY saveToDisk.accesskey  "L">
 
-<!ENTITY useSystemDefault.label        "Mở nó với chương trình mặc định (#1)">
-<!ENTITY useSystemDefault.noDesc.label "Mở nó với chương trình mặc định">
+<!ENTITY useSystemDefault.label        "Mở nó bằng chương trình mặc định (#1)">
+<!ENTITY useSystemDefault.noDesc.label "Mở nó bằng chương trình mặc định">
 <!ENTITY useSystemDefault.accesskey    "M">
 
 <!ENTITY openUsing.label       "Mở nó bằng">
@@ -36,7 +36,7 @@
 <!ENTITY chooseApp.label       "Chọn…">
 <!ENTITY chooseApp.accesskey   "C">
 
-<!ENTITY chooseAppFilePickerTitle "Chọn Ứng dụng Bổ trợ">
+<!ENTITY chooseAppFilePickerTitle "Lựa chọn Chương trình Trợ giúp">
 
-<!ENTITY badApp                 "Chương trình bạn đã chỉ định (&quot;#1&quot;) không được tìm thấy.  Kiểm tra tên tập tin hoặc chọn chương trình khác.">
+<!ENTITY badApp                 "Không thể tìm thấy chương trình bạn đã chỉ định (&quot;#1&quot;). Hãy kiểm tra tên tập tin hoặc chọn chương trình khác.">
 <!ENTITY badApp.title           "Không tìm thấy Chương trình">

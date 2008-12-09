@@ -44,12 +44,12 @@
 <!ENTITY defaultTitle     "Đang lưu">
 
 <!-- These are used when saving -->
-<!ENTITY savingTitle      "Đã lưu #2&#037; của #1"> 
+<!ENTITY savingTitle      "#2&#037; trong tổng #1 Đã được lưu"> 
 <!ENTITY savingSource     "Lưu từ:"> 
 <!ENTITY savingTarget     "Vào:"> 
 
 <!-- These are used when opening (with an application) -->
-<!ENTITY openingTitle      "Đã hoàn tất #2&#037; của #1">
+<!ENTITY openingTitle      "#2&#037; trong tổng #1 Đã hoàn tất">
 <!ENTITY openingSource     "Mở từ:">
 <!ENTITY openingTarget     "Bằng:">
 
@@ -71,8 +71,8 @@
 <!ENTITY pause  "Tạm dừng">
 <!ENTITY resume "Tiếp tục">
 <!ENTITY close  "Đóng">
-<!ENTITY reveal "Hiện Địa chỉ Tệp">
-<!ENTITY launch "Mở Tệp">
+<!ENTITY reveal "Hiện Vị Trí Tập Tin">
+<!ENTITY launch "Mở Tập Tin">
 
 <!-- Status/progress messages -->
 
@@ -125,7 +125,7 @@
 
     #1 will be replaced by the elapsed time
     #2 will be replaced by the size of the file in Kilobytes -->
-<!ENTITY completeMsg "Hoàn tất, #2 KB đã tải xuống (thời gian còn lại là #1)">
+<!ENTITY completeMsg "Hoàn thành, đã tải xuống #2 KB (thời gian còn lại là #1)">
 
 <!-- LOCALIZATION NOTE (percentMsg):
 
