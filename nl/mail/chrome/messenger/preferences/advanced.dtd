@@ -21,8 +21,6 @@
 <!ENTITY markAsReadDelay.label            "Na">
 <!ENTITY markAsReadDelay.accesskey        "N">
 <!ENTITY secondsLabel.label               "seconden weergeven">
-<!ENTITY showFolderColumns.label       "Uitgebreide kolommen weergeven in mappenvenster">
-<!ENTITY showFolderColumns.accesskey   "k">
 <!ENTITY openMsgIn.label               "Nieuwe berichten openen in:">
 <!ENTITY reuseExpRadio0.label          "Een nieuw berichtvenster">
 <!ENTITY reuseExpRadio0.accesskey      "i">
