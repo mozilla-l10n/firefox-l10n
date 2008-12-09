@@ -6,12 +6,8 @@
 <!ENTITY addAccountButton.accesskey "o">
 <!ENTITY setDefaultButton.label "Defineix com a predeterminat">
 <!ENTITY setDefaultButton.accesskey "f">
-<!ENTITY duplicateButton.label "Duplica">
 <!ENTITY removeButton.label "Suprimeix el compte">
 <!ENTITY removeButton.accesskey "i">
-
-<!ENTITY nameCol.label "Nom">
-<!ENTITY duplicate.label "Duplica">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
