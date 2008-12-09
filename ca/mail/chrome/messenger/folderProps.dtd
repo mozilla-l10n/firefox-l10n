@@ -59,7 +59,6 @@
 <!ENTITY retention.label "Política de retenció">
 <!ENTITY retentionUseDefault.label  "Utilitza els paràmetres per defecte del servidor">
 <!ENTITY retentionUseDefault.accesskey "d">
-<!ENTITY days.label "dies">
 <!ENTITY daysOld.label "dies d'antiguitat">
 <!ENTITY message.label "missatges">
 <!ENTITY retentionCleanup.label "Per a recuperar espai de disc, els missatges antics poden suprimir-se permanentment">
@@ -79,11 +78,9 @@
 
 <!ENTITY selectofflineNewsgroup.check.label "Selecciona aquest grup de discussió per al seu ús fora de línia">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "o">
-<!ENTITY UseDefaultofflineNewsgroup.check.label "Utilitza el valor per defecte dels paràmetres del compte">
 <!ENTITY offlineNewsgroup.button.label "Baixa-ho ara">
 <!ENTITY offlineNewsgroup.button.accesskey       "B">
 
-<!ENTITY folderProps.information.label "Informació:">
 <!ENTITY folderProps.name.label "Nom:">
 <!ENTITY folderProps.name.accesskey              "N">
 <!ENTITY folderProps.location.label              "Ubicació:">
@@ -91,7 +88,6 @@
 
 
 <!ENTITY folderSharingTab.label "S'està compartint">
-<!ENTITY privilegesDesc.label "Comparteix aquesta i altres carpetes amb els usuaris de la xarxa i visualitza i defineix els privilegis d'accés">
 <!ENTITY privileges.button.label "Privilegis">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label "Teniu els permisos següents:">

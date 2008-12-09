@@ -5,7 +5,6 @@
 <!ENTITY offlineNotDownload.label "No baixis missatges si són més grans de">
 <!ENTITY offlineNotDownload.accesskey "d">
 <!ENTITY kb.label "kB">
-<!ENTITY days.label "dies">
 <!ENTITY daysOld.label "dies">
 <!ENTITY message.label "missatges">
 <!ENTITY nntpNotDownloadRead.label "Llegeix els missatges">

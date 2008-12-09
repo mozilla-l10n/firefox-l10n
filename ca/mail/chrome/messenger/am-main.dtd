@@ -3,7 +3,6 @@
 <!ENTITY accountTitle.label "Paràmetres del compte">
 <!ENTITY accountName.label "Nom del compte:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY accountNameDesc.label "El nom del compte s'utilitza per a identificar cada compte">
 <!ENTITY identityTitle.label "Identitat">
 <!ENTITY identityDesc.label "Cada compte pot tenir una identitat pròpia, que és la informació que els altres veuen quan llegeixen els vostres missatges.">
 <!ENTITY name.label "El vostre nom:">
