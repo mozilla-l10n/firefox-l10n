@@ -1,13 +1,13 @@
-<!ENTITY privatebrowsingpage.tabtitle                  "Privaat sneupe">
+<!ENTITY privatebrowsingpage.tabtitle                  "Privee sneupe">
 
-<!ENTITY privatebrowsingpage.pagetitle                 "Privaat sneupe">
+<!ENTITY privatebrowsingpage.pagetitle                 "Privee sneupe">
 
-<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; sil neat ûnthâlde fan de skiednis tiidens dizze sesje.">
-<!ENTITY privatebrowsingpage.longDesc                  "Der sil gjin skiednis byhâlden wurde troch &brandShortName; tiidens dizze sneupsesje.  Dit jildt foar browserskiednis, sykskiednis, ynlaadskiednis, webformulierskiednis, cookies, en tiidlike ynternetbestannen.  Allinnich, bestannen dy't jo ynlade of blêdwizers dy't jo meitsje sille bewarre wurde.">
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; sil gjin skiednis byhâlde fan dizze sesje.">
+<!ENTITY privatebrowsingpage.longDesc                  "Der sil gjin skiednis byhâlden wurde troch &brandShortName; tiidens dizze sneupsesje.  Dit jildt foar browserskiednis, sykskiednis, ynlaadskiednis, webformulierskiednis, cookies, en tydlike ynternetbestannen.  Allinnich bestannen dy't jo ynlade of blêdwizers dy't jo meitsje sille bewarre wurde.">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Jo wolle miskien ek starte mei jo resinte skiednis fuort te smiten.">
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Jo wolle miskien ek begjinne mei it fuortsmiten fan de resinte skiednis.">
 <!ENTITY privatebrowsingpage.clearRecentHistory.label       "Resinte skiednis fuortsmite">
 <!ENTITY privatebrowsingpage.clearRecentHistory.accesskey   "f">
 
-<!ENTITY privatebrowsingpage.howToStopDesc             "Om te stoppen mei privaat sneupe, deselektearje Ekstra &gt; Privaat sneupe.">
+<!ENTITY privatebrowsingpage.howToStopDesc             "Om op te hâlden mei it privee-sneupen, moatte jo it finkje foar Ekstra &gt; Privee sneupe weihelje.">
 <!ENTITY privatebrowsingpage.footerDesc                "In protte wille!">
