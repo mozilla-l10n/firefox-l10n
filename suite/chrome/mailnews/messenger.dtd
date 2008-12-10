@@ -151,6 +151,8 @@
 <!ENTITY redoMoveMsgCmd.label "Atstatyti laiško perkėlimą">
 <!ENTITY undoCopyMsgCmd.label "Atšaukti laiško kopijavimą">
 <!ENTITY redoCopyMsgCmd.label "Atstatyti laiško kopijavimą">
+<!ENTITY undoMarkAllCmd.label "Atšaukti laiškų pažymėjimą skaitytais">
+<!ENTITY redoMarkAllCmd.label "Atstatyti laiškų pažymėjimą skaitytais">
 <!ENTITY undoDefaultCmd.label "Atšaukti">
 <!ENTITY redoDefaultCmd.label "Atstatyti">
 
