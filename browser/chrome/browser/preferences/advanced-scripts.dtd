@@ -38,7 +38,7 @@
 <!ENTITY advancedJSDialog.title "خصائص جافاسكربت المتقدمة">
 <!ENTITY window.width "37em">
 
-<!ENTITY allowScripts.label "اسمح للنص البرمجي بـ:">
+<!ENTITY allowScripts.label "اسمح للنص البرمجي ب‍:">
 
 <!ENTITY moveResizeWindows.label "تحريك أو تحجيم النوافذ الموجودة">
 <!ENTITY moveResizeWindows.accesskey "ح">

@@ -10,14 +10,14 @@
 
 <!ENTITY fileMenu.label "ملف">
 <!ENTITY fileMenu.accesskey "م">
-<!ENTITY savePageCmd.label "احفظ الصفحة كـ...">
+<!ENTITY savePageCmd.label "احفظ الصفحة ك‍…">
 <!ENTITY savePageCmd.accesskey "ك">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "إعداد الصفحة...">
+<!ENTITY pageSetupCmd.label "إعداد الصفحة…">
 <!ENTITY pageSetupCmd.accesskey "ع">
 <!ENTITY printPreviewCmd.label "معاينة الطباعة">
 <!ENTITY printPreviewCmd.accesskey "ط">
-<!ENTITY printCmd.label "اطبع...">
+<!ENTITY printCmd.label "اطبع…">
 <!ENTITY printCmd.accesskey "ط">
 <!ENTITY printCmd.commandkey "P">
 <!ENTITY closeCmd.label "أغلق">
@@ -38,7 +38,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "">
 
-<!ENTITY goToLineCmd.label "اذهب إلى سطر...">
+<!ENTITY goToLineCmd.label "اذهب إلى سطر…">
 <!ENTITY goToLineCmd.accesskey "ذ">
 <!ENTITY goToLineCmd.commandkey "l">
 
@@ -60,7 +60,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textReset.label "عادي">
 <!ENTITY menu_textReset.accesskey "ع">
 
-<!ENTITY findOnCmd.label "ابحث في هذه الصفحة...">
+<!ENTITY findOnCmd.label "ابحث في هذه الصفحة…">
 <!ENTITY findOnCmd.accesskey "ب">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label "ابحث ثانيةً">

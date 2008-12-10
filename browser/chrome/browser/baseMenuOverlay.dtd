@@ -28,10 +28,10 @@
 
 <!ENTITY helpReleaseNotes.label "ملاحظات الإصدار">
 <!ENTITY helpReleaseNotes.accesskey "ص">
-<!ENTITY updateCmd.label "التمس التحديثات...">
+<!ENTITY updateCmd.label "التمس التحديثات…">
 <!ENTITY updateCmd.accesskey "ت">
 
-<!ENTITY preferencesCmdMac.label "التفضيلات...">
+<!ENTITY preferencesCmdMac.label "التفضيلات…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY preferencesCmdMac.modifiers "accel">
 

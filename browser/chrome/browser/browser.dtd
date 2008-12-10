@@ -14,19 +14,19 @@
 <!ENTITY tabCmd.label "لسان جديد">
 <!ENTITY tabCmd.accesskey "ل">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "افتح مكانا...">
+<!ENTITY openLocationCmd.label "افتح مكانا…">
 <!ENTITY openLocationCmd.accesskey "م">
-<!ENTITY openFileCmd.label "افتح ملفا...">
+<!ENTITY openFileCmd.label "افتح ملفا…">
 <!ENTITY openFileCmd.accesskey "ف">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "إعداد الصفحة...">
+<!ENTITY printSetupCmd.label "إعداد الصفحة…">
 <!ENTITY printSetupCmd.accesskey "ع">
 <!ENTITY printPreviewCmd.label "معاينة الطباعة">
 <!ENTITY printPreviewCmd.accesskey "ط">
-<!ENTITY printCmd.label "اطبع...">
+<!ENTITY printCmd.label "اطبع…">
 <!ENTITY printCmd.accesskey "ط">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "استورِد...">
+<!ENTITY import.label "استورِد…">
 <!ENTITY import.accesskey "س">
 
 <!ENTITY goOfflineCmd.label "اعمل دون اتّصال">
@@ -65,10 +65,10 @@
 <!ENTITY bookmarkThisPageCmd.label "علّم هذه الصفحة">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "اشترك بهذه الصفحة">
-<!ENTITY subscribeToPageMenuitem.label "اشترك في هذه الصفحة...">
-<!ENTITY addCurPagesCmd.label "علّم كل الألسنة...">
-<!ENTITY organizeBookmarks.label "نظّم العلامات...">
-<!ENTITY bookmarkAllCmd.label "علّم كل الألسنة...">
+<!ENTITY subscribeToPageMenuitem.label "اشترك في هذه الصفحة…">
+<!ENTITY addCurPagesCmd.label "علّم كل الألسنة…">
+<!ENTITY organizeBookmarks.label "نظّم العلامات…">
+<!ENTITY bookmarkAllCmd.label "علّم كل الألسنة…">
 
 <!ENTITY backCmd.label "للخلف">
 <!ENTITY backCmd.accesskey "خ">
@@ -107,10 +107,10 @@
 <!ENTITY historySidebarCmd.accesskey "ت">
 <!ENTITY historySidebarCmd.commandKey "h">
 
-<!ENTITY toolsMenu.label "الأدوات">
+<!ENTITY toolsMenu.label "أدوات">
 <!ENTITY toolsMenu.accesskey "د">
 
-<!ENTITY keywordfield.label "أضِف كلمة مفتاحية لهذا البحث...">
+<!ENTITY keywordfield.label "أضِف كلمة مفتاحية لهذا البحث…">
 <!ENTITY keywordfield.accesskey "ك">
 <!ENTITY search.label "ابحث في الشبكة">
 <!ENTITY search.accesskey "ب">
@@ -156,7 +156,7 @@
 <!ENTITY selectAllCmd.label "اختر الكل">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "ك">
-<!ENTITY preferencesCmd.label "الخيارات...">
+<!ENTITY preferencesCmd.label "الخيارات…">
 <!ENTITY preferencesCmd.accesskey "خ">
 <!ENTITY preferencesCmdUnix.label "التفضيلات">
 <!ENTITY preferencesCmdUnix.accesskey "ف">
@@ -173,7 +173,7 @@
 <!ENTITY viewToolbarsMenu.accesskey "ش">
 <!ENTITY viewSidebarMenu.label "الشريط الجانبي">
 <!ENTITY viewSidebarMenu.accesskey "ط">
-<!ENTITY viewCustomizeToolbar.label "خصص...">
+<!ENTITY viewCustomizeToolbar.label "خصص…">
 <!ENTITY viewCustomizeToolbar.accesskey "ص">
 
 <!ENTITY historyMenu.label "التاريخ">
@@ -247,7 +247,7 @@
 <!ENTITY viewVideoCmd.accesskey "ف">
 <!ENTITY viewBGImageCmd.label "اعرض صورة الخلفية">
 <!ENTITY viewBGImageCmd.accesskey "خ">
-<!ENTITY setDesktopBackgroundCmd.label "اجعلها خلفية سطح المكتب...">
+<!ENTITY setDesktopBackgroundCmd.label "اجعلها خلفية سطح المكتب…">
 <!ENTITY setDesktopBackgroundCmd.accesskey "ج">
 <!ENTITY bookmarkPageCmd2.label "علِّم هذه الصّفحة">
 <!ENTITY bookmarkPageCmd2.accesskey "ع">
@@ -255,30 +255,30 @@
 <!ENTITY bookmarkThisLinkCmd.accesskey "و">
 <!ENTITY bookmarkThisFrameCmd.label "علِّم هذا الإطار">
 <!ENTITY bookmarkThisFrameCmd.accesskey "ط">
-<!ENTITY sendPageCmd.label "أرسل الوصلة...">
+<!ENTITY sendPageCmd.label "أرسل الوصلة…">
 <!ENTITY sendPageCmd.accesskey "ر">
-<!ENTITY savePageCmd.label "احفظ الصفحة كـ...">
+<!ENTITY savePageCmd.label "احفظ الصفحة ك‍…">
 <!ENTITY savePageCmd.accesskey "ك">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2 "ص">
 <!ENTITY savePageCmd.commandkey "s">
-<!ENTITY saveFrameCmd.label "احفظ الإطار كـ...">
+<!ENTITY saveFrameCmd.label "احفظ الإطار ك‍…">
 <!ENTITY saveFrameCmd.accesskey "ط">
-<!ENTITY printFrameCmd.label "اطبع الإطار...">
+<!ENTITY printFrameCmd.label "اطبع الإطار…">
 <!ENTITY printFrameCmd.accesskey "ط">
-<!ENTITY saveLinkCmd.label "احفظ الوصلة كـ...">
+<!ENTITY saveLinkCmd.label "احفظ الوصلة ك‍…">
 <!ENTITY saveLinkCmd.accesskey "و">
-<!ENTITY sendLinkCmd.label "أرسِل الوصلة...">
+<!ENTITY sendLinkCmd.label "أرسِل الوصلة…">
 <!ENTITY sendLinkCmd.accesskey "س">
-<!ENTITY saveImageCmd.label "احفظ الصورة كـ...">
+<!ENTITY saveImageCmd.label "احفظ الصورة ك‍…">
 <!ENTITY saveImageCmd.accesskey "ر">
-<!ENTITY saveVideoCmd.label "احفظ الفيديو كـ...">
+<!ENTITY saveVideoCmd.label "احفظ الفيديو ك‍…">
 <!ENTITY saveVideoCmd.accesskey "و">
-<!ENTITY saveAudioCmd.label "احفظ الصوت كـ...">
+<!ENTITY saveAudioCmd.label "احفظ الصوت ك‍…">
 <!ENTITY saveAudioCmd.accesskey "ت">
-<!ENTITY sendImageCmd.label "أرسِل الصورة...">
+<!ENTITY sendImageCmd.label "أرسِل الصورة…">
 <!ENTITY sendImageCmd.accesskey "ل">
-<!ENTITY sendVideoCmd.label "أرسِل الفيديو...">
+<!ENTITY sendVideoCmd.label "أرسِل الفيديو…">
 <!ENTITY sendVideoCmd.accesskey "س">
 <!ENTITY sendAudioCmd.label "أرسِل الصوت">
 <!ENTITY sendAudioCmd.accesskey "ص">
@@ -374,12 +374,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageReportIcon.tooltip "غيّر إعدادات منع النوافذ المنبثقة لهذا الموقع">
 
-<!ENTITY allowPopups.accesskey "ض">
+<!ENTITY allowPopups.accesskey "س">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "حرّر تفضيلات منع النوافذ المنبثقة...">
-<!ENTITY editPopupSettings.label "حرّر خيرات منع النوافذ المنبثقة...">
+<!ENTITY editPopupSettingsUnix.label "حرّر تفضيلات منع النوافذ المنبثقة…">
+<!ENTITY editPopupSettings.label "حرّر خيارات منع النوافذ المنبثقة…">
 <!ENTITY editPopupSettings.accesskey "ح">
 <!ENTITY dontShowMessage.accesskey "ل">
 
@@ -389,15 +389,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "ن">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
 
-<!ENTITY findOnCmd.label "ابحث في هذه الصفحة...">
+<!ENTITY findOnCmd.label "ابحث في هذه الصفحة…">
 <!ENTITY findOnCmd.accesskey "ب">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "ابحث مجدداً">
+<!ENTITY findAgainCmd.label "ابحث مجددًا">
 <!ENTITY findAgainCmd.accesskey "ب">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
-<!ENTITY spellAddDictionaries.label "أضِف قواميس...">
+<!ENTITY spellAddDictionaries.label "أضِف قواميس…">
 <!ENTITY spellAddDictionaries.accesskey "ض">
 
 <!ENTITY editBookmark.done.label "تمّ">
@@ -406,11 +406,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.removeBookmark.accessKey "ح">
 <!ENTITY editBookmark.undo.label "تراجع">
 <!ENTITY editBookmark.undo.accessKey "ر">
-<!ENTITY editBookmark.edit.label "حرّر...">
+<!ENTITY editBookmark.edit.label "حرّر…">
 <!ENTITY editBookmark.edit.accessKey "ح">
 
 <!ENTITY identity.unverifiedsite2 "لا يوفّر هذا الموقع معلومات الهويّة.">
-<!ENTITY identity.connectedTo "تتصل بـ">
+<!ENTITY identity.connectedTo "تتصل ب‍">
 <!--
 example.com
 which is run by
@@ -420,9 +420,9 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "والذي يعمل بـ">
+<!ENTITY identity.runBy "والذي يعمل ب‍">
 
-<!ENTITY identity.moreInfoLinkText "المزيد من المعلومات...">
+<!ENTITY identity.moreInfoLinkText "المزيد من المعلومات…">
 
 <!ENTITY downloadMonitor2.tooltip "انقر لفتح نافذة التنزيلات">
 

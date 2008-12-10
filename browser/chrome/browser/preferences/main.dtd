@@ -23,9 +23,9 @@
 <!ENTITY closeWhenDone.accesskey "غ">
 <!ENTITY saveTo.label "احفظ الملفّات في">
 <!ENTITY saveTo.accesskey "ح">
-<!ENTITY chooseFolderWin.label "تصفّح...">
+<!ENTITY chooseFolderWin.label "تصفّح…">
 <!ENTITY chooseFolderWin.accesskey "ص">
-<!ENTITY chooseFolderMac.label "اختر...">
+<!ENTITY chooseFolderMac.label "اختر…">
 <!ENTITY chooseFolderMac.accesskey "ت">
 <!ENTITY alwaysAsk.label "اسألني دائما عن مكان حفظ الملفّات">
 <!ENTITY alwaysAsk.accesskey "د">
@@ -33,5 +33,5 @@
 <!ENTITY addonsMgr.label "الإضافات">
 <!ENTITY manageAddonsDescWin.label "غيّر خيارات إضافاتك">
 <!ENTITY manageAddonsDescUnix2.label "غيّر تفضيلات إضافاتك">
-<!ENTITY manageAddons.label "أدِر الإضافات...">
+<!ENTITY manageAddons.label "أدِر الإضافات…">
 <!ENTITY manageAddons.accesskey "د">

@@ -10,14 +10,14 @@
 <!ENTITY closeTabCmd.accesskey "غ">
 <!ENTITY newVirtualFolderCmd.label "بحث محفوظ…">
 <!ENTITY newVirtualFolderCmd.accesskey "ب">
-<!ENTITY newAccountCmd.label "الحساب…">
+<!ENTITY newAccountCmd.label "حساب…">
 <!ENTITY newAccountCmd.accesskey "ح">
 <!ENTITY openMessageFileCmd.label "افتح رسالة محفوظة…">
 <!ENTITY openMessageFileCmd.accesskey "ف">
 <!ENTITY openAttachmentCmd.label "مرفقات">
 <!ENTITY openAttachmentCmd.accesskey "ر">
-<!ENTITY saveAsMenu.label "احفظ باسم">
-<!ENTITY saveAsMenu.accesskey "س">
+<!ENTITY saveAsMenu.label "احفظ ك‍">
+<!ENTITY saveAsMenu.accesskey "ك">
 <!ENTITY saveAsFileCmd.label "ملف">
 <!ENTITY saveAsFileCmd.accesskey "م">
 <!ENTITY saveAsFileCmd.key "a">
@@ -119,13 +119,13 @@
 <!ENTITY customizeToolbar.label "خصّص…">
 <!ENTITY customizeToolbar.accesskey "خ">
 
-<!ENTITY messagePaneLayoutStyle.label "التصميم">
-<!ENTITY messagePaneLayoutStyle.accesskey "ص">
-<!ENTITY messagePaneClassic.label "مشهد تقليدي">
+<!ENTITY messagePaneLayoutStyle.label "التنسيق">
+<!ENTITY messagePaneLayoutStyle.accesskey "س">
+<!ENTITY messagePaneClassic.label "منظور تقليدي">
 <!ENTITY messagePaneClassic.accesskey "ت">
-<!ENTITY messagePaneWide.label "مشهد عريض">
+<!ENTITY messagePaneWide.label "منظور عريض">
 <!ENTITY messagePaneWide.accesskey "ع">
-<!ENTITY messagePaneVertical.label "مشهد رأسي">
+<!ENTITY messagePaneVertical.label "منظور رأسي">
 <!ENTITY messagePaneVertical.accesskey "ر">
 <!ENTITY showMessageCmd.label "لوح الرسائل">
 <!ENTITY showMessageCmd.accesskey "ح">
@@ -258,7 +258,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findCmd.label "ابحث في هذه الرسالة…">
 <!ENTITY findCmd.accesskey "ه">
 <!ENTITY findCmd.key "f">
-<!ENTITY findAgainCmd.label "ابحث مجدداً">
+<!ENTITY findAgainCmd.label "ابحث مجددًا">
 <!ENTITY findAgainCmd.accesskey "ب">
 <!ENTITY findAgainCmd.key "g">
 <!ENTITY findAgainCmd.key2 "VK_F3">
@@ -390,7 +390,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsJunkCmd.label "كسخام">
 <!ENTITY markAsJunkCmd.accesskey "س">
 <!ENTITY markAsJunkCmd.key "j">
-<!ENTITY markAsNotJunkCmd.label "ليست سخاماً">
+<!ENTITY markAsNotJunkCmd.label "ليست سخامًا">
 <!ENTITY markAsNotJunkCmd.accesskey "ل">
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "شغّل مُتحكِّمات السخام">
@@ -446,7 +446,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY stopButton.label "قف">
 <!ENTITY throbberItem.title "مبيّن النشاط">
 <!ENTITY junkButton.label "سخام">
-<!ENTITY notJunkButton.label "ليست سخاماً">
+<!ENTITY notJunkButton.label "ليست سخامًا">
 <!ENTITY addressBookButton.label "دفتر العناوين">
 <!ENTITY searchItem.title "بحث سريع">
 <!ENTITY mailViewsToolbarItem.title "مشاهد البريد">
@@ -523,7 +523,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextProperties.accesskey "خ">
 <!ENTITY folderContextFavoriteFolder.label "دليل المفضّلة">
 <!ENTITY folderContextFavoriteFolder.accesskey "ف">
-<!ENTITY folderContextSettings.label "إعدادات...">
+<!ENTITY folderContextSettings.label "إعدادات…">
 <!ENTITY folderContextSettings.accesskey "ع">
 <!-- Search Bar -->
 
@@ -605,7 +605,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "ح">
 <!ENTITY contextCopyMsgMenu.label "انسخ إلى">
 <!ENTITY contextCopyMsgMenu.accesskey "خ">
-<!ENTITY contextSaveAs.label "احفظ باسم…">
+<!ENTITY contextSaveAs.label "احفظ ك‍…">
 <!ENTITY contextSaveAs.accesskey "ح">
 <!ENTITY contextPrint.label "اطبع…">
 <!ENTITY contextPrint.accesskey "ط">
@@ -614,7 +614,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Junk Bar -->
 
 <!ENTITY junkBarMessage1.label "بريد سُخام">
-<!ENTITY junkBarButton1.label "ليست سخاماً">
+<!ENTITY junkBarButton1.label "ليست سخامًا">
 <!ENTITY junkInfoButton.label "؟">
 <!-- Remote Content Bar -->
 
@@ -634,7 +634,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY AddToAddressBook.accesskey "د">
 <!ENTITY AddDirectlyToAddressBook.label "أضِف إلى دفتر العناوين">
 <!ENTITY AddDirectlyToAddressBook.accesskey "د">
-<!ENTITY EditContact.label "حرّر المتصل...">
+<!ENTITY EditContact.label "حرّر المتصل…">
 <!ENTITY EditContact.accesskey "ح">
 <!ENTITY ViewContact.label "شاهِد معلومات المتصل">
 <!ENTITY ViewContact.accesskey "ت">
@@ -642,15 +642,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SendMailTo.accesskey "ر">
 <!ENTITY CopyEmailAddress.label "انسخ عنوان البريد">
 <!ENTITY CopyEmailAddress.accesskey "ع">
-<!ENTITY CreateFilterFrom.label "أنشئ مرشحاً من...">
+<!ENTITY CreateFilterFrom.label "أنشئ مرشحًا من…">
 <!ENTITY CreateFilterFrom.accesskey "ش">
 <!ENTITY reportPhishingURL.label "أبلغ عن بريد احتيال">
 <!ENTITY reportPhishingURL.accesskey "ب">
 <!-- Content Pane Context Menu -->
 
-<!ENTITY saveLinkAsCmd.label "احفظ الرابط كـ...">
+<!ENTITY saveLinkAsCmd.label "احفظ الرابط ك‍…">
 <!ENTITY saveLinkAsCmd.accesskey "ك">
-<!ENTITY saveImageAsCmd.label "احفظ الصورة كـ...">
+<!ENTITY saveImageAsCmd.label "احفظ الصورة ك‍…">
 <!ENTITY saveImageAsCmd.accesskey "ظ">
 <!ENTITY copyCmd.label "انسخ">
 <!ENTITY copyCmd.accesskey "خ">
@@ -673,7 +673,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zoomWindow.label "قرّب">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 
-<!ENTITY preferencesCmdMac.label "تفضيلات...">
+<!ENTITY preferencesCmdMac.label "تفضيلات…">
 <!ENTITY preferencesCmdMac.commandkey "،">
 <!ENTITY preferencesCmdMac.modifiers "accel">
 <!ENTITY servicesMenuMac.label "خدمات">

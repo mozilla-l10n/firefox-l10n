@@ -2,5 +2,5 @@
      file, all messages that likely don't need to tie into app-specific UI
      should go into netError.dtd -->
 
-<!ENTITY securityOverride.linkText "أو يمكنك إضافة استثناء...">
+<!ENTITY securityOverride.linkText "أو يمكنك إضافة استثناء…">
 <!ENTITY securityOverride.warningText "<p>يجب ألا تضيف استثناءً إذا كنت تستخدم اتصال إنترنت لا تثق به تماما أو إذا لم تعتد على رؤية تحذير من هذا الخادوم.</p> <p>إذا ما زلت تريد إضافة استثناء لهذا الموقع، يمكنك ذلك من إعدادات التعمية المتقدمة.</p>">

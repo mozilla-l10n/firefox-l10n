@@ -22,9 +22,9 @@
 <!ENTITY retentionKeepUnread.accesskey "م">
 <!ENTITY nntpRemoveBody.label "فقط متون الرّسائل الأقلّ من">
 <!ENTITY nntpRemoveBody.accesskey "ق">
-<!ENTITY offlineSelectNntp.label "اختر مجموعات أخبار لتُستخدم في طور اللااتصال...">
+<!ENTITY offlineSelectNntp.label "اختر مجموعات أخبار لتُستخدم في طور اللااتصال…">
 <!ENTITY offlineSelectNntp.accesskey "خ">
-<!ENTITY offlineImapAdvancedOffline.label "متقدم...">
+<!ENTITY offlineImapAdvancedOffline.label "متقدم…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "م">
 <!ENTITY syncGroupTitle.label "مزامنة الرسائل">
 <!ENTITY diskspaceGroupTitle.label "مساحة القرص">

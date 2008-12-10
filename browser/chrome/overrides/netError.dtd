@@ -72,9 +72,9 @@
 <!ENTITY phishingBlocked.title "خداع وِب مُشتبه">
 <!ENTITY phishingBlocked.longDesc "<p>قد ينتج عن إدخال بيانات في هذه الصفحة سرقة الهوية أو أي احتيال آخر.</p> <p>تستخدم طرق التّزوير هذه في خدع تعرف بهجمات التزوير، و فيها تستخدم صفحات و رسائل مزوّرة لتقليد مصادر تثق بها.</p>">
 
-<!ENTITY securityOverride.linkText "أو يمكنك إضافة استثناء...">
+<!ENTITY securityOverride.linkText "أو يمكنك إضافة استثناء…">
 <!ENTITY securityOverride.getMeOutOfHereButton "أخرجني من هنا!">
-<!ENTITY securityOverride.exceptionButtonLabel "أضِف استثناءً...">
+<!ENTITY securityOverride.exceptionButtonLabel "أضِف استثناءً…">
 <!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of

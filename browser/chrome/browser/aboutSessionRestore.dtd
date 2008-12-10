@@ -4,7 +4,7 @@
                         you may translate "crash" instead (even though it's IT-speak) -->
 <!ENTITY restorepage.issueDesc "أُغلقت جلستك &brandShortName; السايقة بشكل غير متوقع. نعتذر بشدة عن هذا الإزعاج. يمكنك استرجاع الألسنة والنوافذ من الجلسة الماضية، أو بدء جلسة جديدة إن لم تعد بحاجة إلى ما كان في القديمة.">
 <!ENTITY restorepage.remedies "إن تكرر انغلاق &brandShortName;:">
-<!ENTITY restorepage.dueToChrome "جرّب تعطيل أيّ ملحقات أضفتها مؤخراً باستخدام مدير الملحقات.">
+<!ENTITY restorepage.dueToChrome "جرّب تعطيل أيّ ملحقات أضفتها مؤخرًا باستخدام مدير الملحقات.">
 <!ENTITY restorepage.dueToContent "جرّب استرجاع جلستك من دون أي صفحات وب تشتبه في أنها قد أحدثت الانهيار:">
 
 <!ENTITY restorepage.restoreButton "استرجع الجلسة السابقة">

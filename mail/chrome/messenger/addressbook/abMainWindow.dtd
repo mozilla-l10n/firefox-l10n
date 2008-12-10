@@ -5,14 +5,14 @@
 <!ENTITY fileMenu.accesskey "م">
 <!ENTITY newMenu.label "جديد">
 <!ENTITY newMenu.accesskey "ج">
-<!ENTITY newCard.label "بطاقة دفتر العناوين...">
+<!ENTITY newCard.label "بطاقة دفتر العناوين…">
 <!ENTITY newCard.accesskey "C">
 <!ENTITY newCard.key "N">
-<!ENTITY newListCmd.label "قائمة بريدية...">
+<!ENTITY newListCmd.label "قائمة بريدية…">
 <!ENTITY newListCmd.accesskey "L">
-<!ENTITY newAddressBookCmd.label "دفتر العناوين...">
+<!ENTITY newAddressBookCmd.label "دفتر العناوين…">
 <!ENTITY newAddressBookCmd.accesskey "د">
-<!ENTITY newLDAPDirectoryCmd.label "دليل LDAP...">
+<!ENTITY newLDAPDirectoryCmd.label "دليل LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey "D">
 <!ENTITY newMessageCmd.label "رسالة">
 <!ENTITY newMessageCmd.key "M">
@@ -23,16 +23,16 @@
 <!ENTITY closeCmd.label "أغلق">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "غ">
-<!ENTITY printSetupCmd.label "إعداد الصفحة ...">
+<!ENTITY printSetupCmd.label "إعداد الصفحة …">
 <!ENTITY printSetupCmd.accesskey "ع">
 <!ENTITY printPreviewCardViewCmd.label "عاين طباعة البطاقة">
 <!ENTITY printPreviewCardViewCmd.accesskey "ب">
 <!ENTITY printPreviewAddressBook.label "عاين طباعة دفتر العناوين">
 <!ENTITY printPreviewAddressBook.accesskey "ع">
-<!ENTITY printCardViewCmd.label "اطبع البطاقة...">
+<!ENTITY printCardViewCmd.label "اطبع البطاقة…">
 <!ENTITY printCardViewCmd.accesskey "ط">
 <!ENTITY printCardViewCmd.key "P">
-<!ENTITY printAddressBook.label "اطبع دفتر العناوين...">
+<!ENTITY printAddressBook.label "اطبع دفتر العناوين…">
 <!ENTITY printAddressBook.accesskey "د">
 
 <!-- Edit Menu -->
@@ -71,7 +71,7 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label "الخصائص...">
+<!ENTITY propertiesCmd.label "الخصائص…">
 <!ENTITY propertiesCmd.accesskey "i">
 <!ENTITY propertiesCmd.key "i">
 <!-- View Menu -->
@@ -84,7 +84,7 @@
 <!ENTITY showAbToolbarCmd.accesskey "ش">
 <!ENTITY showTaskbarCmd.label "شريط الحالة">
 <!ENTITY showTaskbarCmd.accesskey "ش">
-<!ENTITY customizeToolbar.label "خصّص...">
+<!ENTITY customizeToolbar.label "خصّص…">
 <!ENTITY customizeToolbar.accesskey "خ">
 <!ENTITY showCardPane.label "شريط ملخّص البطاقة">
 <!ENTITY showCardPane.accesskey "ب">
@@ -105,13 +105,13 @@
 <!ENTITY messengerCmd.label "البريد و مجموعات الأخبار">
 <!ENTITY messengerCmd.accesskey "ب">
 <!ENTITY messengerCmd.commandkey "1">
-<!ENTITY searchAddressesCmd.label "ابحث في العناوين...">
+<!ENTITY searchAddressesCmd.label "ابحث في العناوين…">
 <!ENTITY searchAddressesCmd.accesskey "ع">
-<!ENTITY importCmd.label "استورد...">
+<!ENTITY importCmd.label "استورد…">
 <!ENTITY importCmd.accesskey "س">
-<!ENTITY exportCmd.label "صدِّر...">
+<!ENTITY exportCmd.label "صدِّر…">
 <!ENTITY exportCmd.accesskey "ص">
-<!ENTITY preferencesCmd.label "الخيارات...">
+<!ENTITY preferencesCmd.label "الخيارات…">
 <!ENTITY preferencesCmd.accesskey "خ">
 <!ENTITY preferencesCmdUnix.label "التفضيلات">
 <!ENTITY preferencesCmdUnix.accesskey "ف">

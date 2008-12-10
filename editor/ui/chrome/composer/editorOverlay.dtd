@@ -61,12 +61,12 @@
 <!ENTITY saveCmd.label "احفظ">
 <!ENTITY saveCmd.accesskey "ظ">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "احفظ باسم…">
-<!ENTITY saveAsCmd.accesskey "ا">
+<!ENTITY saveAsCmd.label "احفظ ك‍…">
+<!ENTITY saveAsCmd.accesskey "ك">
 
 <!ENTITY publishCmd.label "انشر">
 <!ENTITY publishCmd.accesskey "ن">
-<!ENTITY publishAsCmd.label "انشر باسم…">
+<!ENTITY publishAsCmd.label "انشر ك‍…">
 <!ENTITY publishAsCmd.accesskey "ش">
 <!ENTITY publishCmd.key "S">
 <!ENTITY exportToTextCmd.label "صدّر إلى نص صرف…">
@@ -131,7 +131,7 @@
 <!ENTITY insertMenu.label "أدرج">
 <!ENTITY insertMenu.accesskey "د">
 <!ENTITY insertLinkCmd.label "رابط…">
-<!ENTITY insertLinkCmd.accesskey "و">
+<!ENTITY insertLinkCmd.accesskey "ر">
 <!ENTITY insertLinkCmd.key "l">
 <!ENTITY insertAnchorCmd.label "مربط مسمّى…">
 <!ENTITY insertAnchorCmd.accesskey "ر">
@@ -288,7 +288,7 @@
 <!ENTITY heading6Cmd.accesskey "6">
 <!ENTITY paragraphAddressCmd.label "عنوان">
 <!ENTITY paragraphAddressCmd.accesskey "ع">
-<!ENTITY paragraphPreformatCmd.label "قبل التنسيق">
+<!ENTITY paragraphPreformatCmd.label "تنسيق مُسبق">
 <!ENTITY paragraphPreformatCmd.accesskey "ق">
 <!-- List menu items -->
 
@@ -309,7 +309,7 @@
 
 <!ENTITY ParagraphSelect.tooltip "اختر تنسيق الفقرة">
 <!-- Shared in Paragraph, and Toolbar menulist -->
-<!ENTITY bodyTextCmd.label "نص المتن">
+<!ENTITY bodyTextCmd.label "متن النص">
 <!ENTITY bodyTextCmd.accesskey "ن">
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "خصائص متقدمة">
@@ -457,11 +457,11 @@
 <!ENTITY HighlightColorButton.tooltip "اختر لون إبراز النص">
 <!-- Editor toolbar -->
 
-<!ENTITY decreaseFontSizeToolbarCmd.tooltip "حجم الخط الأصغر">
-<!ENTITY increaseFontSizeToolbarCmd.tooltip "حجم الخط الأكبر ">
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "خط أصغر">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "خط أكبر">
 <!ENTITY boldToolbarCmd.tooltip "عريض">
 <!ENTITY italicToolbarCmd.tooltip "مائل">
-<!ENTITY underlineToolbarCmd.tooltip "خط تحتي">
+<!ENTITY underlineToolbarCmd.tooltip "سطر تحتي">
 <!ENTITY bulletListToolbarCmd.tooltip "طبّق أو احذف قائمة منقوطة">
 <!ENTITY numberListToolbarCmd.tooltip "طبّق أو احذف قائمة مرقمة">
 <!ENTITY outdentToolbarCmd.tooltip "قلل الإزاحة (انقل يسارا)">

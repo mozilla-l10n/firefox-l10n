@@ -14,7 +14,7 @@
 <!ENTITY blockWebForgeries.label "احجب تزويرات الوب المبلّغ عنها">
 <!ENTITY blockWebForgeries.accesskey "ج">
 
-<!ENTITY addonExceptions.label "الاستثناءات...">
+<!ENTITY addonExceptions.label "الاستثناءات…">
 <!ENTITY addonExceptions.accesskey "ث">
 
 
@@ -22,15 +22,15 @@
 
 <!ENTITY rememberPasswords.label "تذكر كلمات سر المواقع">
 <!ENTITY rememberPasswords.accesskey "ت">
-<!ENTITY passwordExceptions.label "الاستثناءات...">
+<!ENTITY passwordExceptions.label "الاستثناءات…">
 <!ENTITY passwordExceptions.accesskey "س">
 
 <!ENTITY useMasterPassword.label "استخدم كلمة سر رئيسيّة">
 <!ENTITY useMasterPassword.accesskey "س">
-<!ENTITY changeMasterPassword.label "غيّر كلمة السر الرئيسية...">
+<!ENTITY changeMasterPassword.label "غيّر كلمة السر الرئيسية…">
 <!ENTITY changeMasterPassword.accesskey "ر">
 
-<!ENTITY savedPasswords.label "كلمات السرّ المحفوظة...">
+<!ENTITY savedPasswords.label "كلمات السرّ المحفوظة…">
 <!ENTITY savedPasswords.accesskey "ك">
 
 
@@ -38,5 +38,5 @@
 
 <!ENTITY chooseWarnings.label "اختر رسائل التحذير التي تريد رؤيتها عند تصفّح الوِب">
 
-<!ENTITY warningSettings.label "الإعدادات...">
+<!ENTITY warningSettings.label "الإعدادات…">
 <!ENTITY warningSettings.accesskey "ع">

@@ -16,9 +16,9 @@
 <!ENTITY HTMLTab.accesskey "H">
 <!ENTITY PlainTextTab.label "نطاقات النص الصِّرف">
 <!ENTITY PlainTextTab.accesskey "ص">
-<!ENTITY AddHtmlDomain.label "أضِف...">
+<!ENTITY AddHtmlDomain.label "أضِف…">
 <!ENTITY AddHtmlDomain.accesskey "ض">
-<!ENTITY AddPlainText.label "أضِف...">
+<!ENTITY AddPlainText.label "أضِف…">
 <!ENTITY AddPlainText.accesskey "ن">
 <!ENTITY DeleteHtmlDomain.label "احذف">
 <!ENTITY DeleteHtmlDomain.accesskey "ح">

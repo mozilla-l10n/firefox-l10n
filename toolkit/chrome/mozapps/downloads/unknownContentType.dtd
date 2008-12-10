@@ -41,9 +41,9 @@
 <!ENTITY from.label "مِن:">
 <!ENTITY actionQuestion.label "ماذا على &brandShortName; أن يفعل بهذا الملفّ؟">
 
-<!ENTITY openWith.label "افتح بـاستخدام">
+<!ENTITY openWith.label "افتح ب‍استخدام">
 <!ENTITY openWith.accesskey "ف">
-<!ENTITY other.label "أخرى...">
+<!ENTITY other.label "أخرى…">
 
 <!ENTITY saveFile.label "احفظ الملف">
 <!ENTITY saveFile.accesskey "ح">
@@ -53,9 +53,9 @@
 
 <!ENTITY whichIsA.label "الذي هو:">
 
-<!ENTITY chooseHandlerMac.label "اختر...">
+<!ENTITY chooseHandlerMac.label "اختر…">
 <!ENTITY chooseHandlerMac.accesskey "خ">
-<!ENTITY chooseHandler.label "تصفّح...">
+<!ENTITY chooseHandler.label "تصفّح…">
 <!ENTITY chooseHandler.accesskey "ص">
 
 <!ENTITY unknownPromptText.label "أترغب في حفظ هذا الملف؟">

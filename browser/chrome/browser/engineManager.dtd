@@ -12,10 +12,10 @@
 <!ENTITY dn.accesskey "س">
 <!ENTITY remove.label "أزل">
 <!ENTITY remove.accesskey "ز">
-<!ENTITY edit.label "حرر الكلمة المفتاحية...">
+<!ENTITY edit.label "حرر الكلمة المفتاحية…">
 <!ENTITY edit.accesskey "ر">
 
-<!ENTITY addEngine.label "احصل على المزيد من محركات البحث...">
+<!ENTITY addEngine.label "احصل على المزيد من محركات البحث…">
 <!ENTITY addEngine.accesskey "م">
 
 <!ENTITY enableSuggest.label "اعرض اقتراحات البحث">

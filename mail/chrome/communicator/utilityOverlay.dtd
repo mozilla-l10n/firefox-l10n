@@ -29,7 +29,7 @@
 <!ENTITY selectAllCmd.label "حدِّد الكلّ">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "ك">
-<!ENTITY preferencesCmd.label "الخيارات...">
+<!ENTITY preferencesCmd.label "الخيارات…">
 <!ENTITY preferencesCmd.accesskey "ا">
 <!ENTITY preferencesCmdUnix.label "التفضيلات">
 <!ENTITY preferencesCmdUnix.accesskey "ض">

@@ -47,11 +47,11 @@
 
 <!ENTITY availprofiles.label "الملفّات الشّخصيّة المتوفّرة">
 
-<!ENTITY newButton.label "أنشئ ملفا شخصيا...">
+<!ENTITY newButton.label "أنشئ ملفا شخصيا…">
 <!ENTITY newButton.accesskey "ش">
-<!ENTITY renameButton.label "غيّر اسم الملف الشخصي...">
+<!ENTITY renameButton.label "غيّر اسم الملف الشخصي…">
 <!ENTITY renameButton.accesskey "غ">
-<!ENTITY deleteButton.label "احذف الملف الشخصي...">
+<!ENTITY deleteButton.label "احذف الملف الشخصي…">
 <!ENTITY deleteButton.accesskey "ح">
 <!-- manager entities -->
 

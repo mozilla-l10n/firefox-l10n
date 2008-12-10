@@ -23,6 +23,6 @@
 
 <!ENTITY backgroundImage.label      "صورة الخلفية:">
 <!ENTITY backgroundImage.accesskey  "خ">
-<!ENTITY chooseFile.label           "اختر ملفاً…">
+<!ENTITY chooseFile.label           "اختر ملفًا…">
 <!ENTITY chooseFile.accesskey       "ل">
 

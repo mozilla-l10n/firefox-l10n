@@ -12,25 +12,25 @@ by NSS/PSM via netError.xhtml. -->
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara1 "لقد طلبتَ من &brandShortName; أن يوصلك بـ
+<!ENTITY certerror.introPara1 "لقد طلبتَ من &brandShortName; أن يوصلك ب‍
  <b>#1</b> باتصال آمن، ولكن لا يمكننا التأكد من أنّ اتصالك آمن.">
 <!ENTITY certerror.introPara2 "في العادة، عندما تحاول الاتصال بشكل آمن، 
-سوف تُظهر المواقع تعريفاً موثوقاً لإثبات أنك 
+سوف تُظهر المواقع تعريفًا موثوقًا لإثبات أنك 
 ذاهب إلى المكان الصحيح. غير أنه تعذر التحقق من هوية هذا الموقع.">
 
 <!ENTITY certerror.whatShouldIDo.heading "ماذا عليّ أن أفعل؟">
 <!ENTITY certerror.whatShouldIDo.content "إن كنتَ في العادة تتصل 
-بهذا الموقع من دون مشكلات، فهذا الخطأ يعني أن أحداً 
+بهذا الموقع من دون مشكلات، فهذا الخطأ يعني أن أحدًا 
 يحاول انتحال هوية الموقع، لذا يجب عليك عدم المتابعة.">
 <!ENTITY certerror.getMeOutOfHere.label "أخرجني من هنا!">
 
 <!ENTITY certerror.expert.heading "أنا أتفهّم المجازفة">
 <!ENTITY certerror.expert.content "إن كنتَ تفهم ما الذي يجري، يمكنك إخبار 
 &brandShortName; بأن يبدأ بالوثوق بتعريف هذا الموقع.
-<b>حتى لو كنتَ تثق بهذا الموقع، فهذا الخطأ يعني أن أحداً 
+<b>حتى لو كنتَ تثق بهذا الموقع، فهذا الخطأ يعني أن أحدًا 
 يحاول العبث باتصالك.</b>">
 <!ENTITY certerror.expert.contentPara2 "لا تضِف استثناءً إلا 
-إن كنتَ تعلم سبباً قوياً لعدم استخدام هذا الموقع للتعريف الموثوق به.">
+إن كنتَ تعلم سببًا قويًا لعدم استخدام هذا الموقع للتعريف الموثوق به.">
 <!ENTITY certerror.addException.label "أضِف استثناءً…">
 
 <!ENTITY certerror.technical.heading "التفاصيل التقنية">

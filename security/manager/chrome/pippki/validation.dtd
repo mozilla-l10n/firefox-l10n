@@ -52,9 +52,9 @@
 <!ENTITY validation.crl.autoupdate.title "تفضيلات التحديث التلقائي لقوائم إلغاء الشهادات">
 <!ENTITY validation.crl.autoupdate.enable.label "فعّل التحديث التلقائي لقائمة إلغاء الشهادات">
 <!ENTITY validation.crl.autoupdate.time.label1 "حدّث">
-<!ENTITY validation.crl.autoupdate.time.label2 "يوماً/أيام قبل موعد التحديث التالي">
+<!ENTITY validation.crl.autoupdate.time.label2 "يومًا/أيام قبل موعد التحديث التالي">
 <!ENTITY validation.crl.autoupdate.freq.label1 "حدّث كلّ">
-<!ENTITY validation.crl.autoupdate.freq.label2 "يوماً/أيام">
+<!ENTITY validation.crl.autoupdate.freq.label2 "يومًا/أيام">
 <!ENTITY validation.crl.autoupdate.url.label "كانت قائمة إلغاء الشهادات ستُستورد من:">
 <!ENTITY crl.import.status.title "حالة استيراد قوائم إلغاء الشهادات">
 <!ENTITY crl.import.success.message "استوردتْ قائمة إلغاء الشهادات (CRL) بنجاح.">

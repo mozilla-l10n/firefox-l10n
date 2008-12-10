@@ -1,7 +1,7 @@
 <!ENTITY identitiesListDesc.label "دعم تعدّد الهويّات">
-<!ENTITY identitiesListAdd.label "أضِف...">
+<!ENTITY identitiesListAdd.label "أضِف…">
 <!ENTITY identitiesListAdd.accesskey "ض">
-<!ENTITY identitiesListEdit.label "حرِّر...">
+<!ENTITY identitiesListEdit.label "حرِّر…">
 <!ENTITY identitiesListEdit.accesskey "ح">
 <!ENTITY identitiesListDelete.label "احذف">
 <!ENTITY identitiesListDelete.accesskey "ذ">

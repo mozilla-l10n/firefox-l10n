@@ -5,7 +5,7 @@
 <!ENTITY radioRememberPrevState.accesskey "ذ">
 <!ENTITY radioAskMe.label "اسأل عن حالة الاتصال عند بدء التشغيل">
 <!ENTITY radioAskMe.accesskey "ب">
-<!ENTITY radioAlwaysOnline.label "ابدأ التشغيل في حالة الاتصال دائماً">
+<!ENTITY radioAlwaysOnline.label "ابدأ التشغيل في حالة الاتصال دائمًا">
 <!ENTITY radioAlwaysOnline.accesskey "د">
 
 <!ENTITY textGoingOnline "أأرسل الرسائل غير المرسلة عند الاتصال؟">

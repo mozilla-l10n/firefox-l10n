@@ -32,21 +32,21 @@
 <!ENTITY help.advancedTips.label "تلميحات وحيل متقدمة">
 <!ENTITY help.advancedTips.accesskey "ح">
 
-<!ENTITY cmd.findInBookmarks.label "ابحث في العلامات...">
+<!ENTITY cmd.findInBookmarks.label "ابحث في العلامات…">
 <!ENTITY cmd.findInBookmarks.accesskey "ب">
-<!ENTITY cmd.findCurrent.label "ابحث في المجموعة الحالية...">
+<!ENTITY cmd.findCurrent.label "ابحث في المجموعة الحالية…">
 <!ENTITY cmd.findCurrent.accesskey "ث">
 
-<!ENTITY cmd.exportHTML.label "صدّر HTML...">
+<!ENTITY cmd.exportHTML.label "صدّر HTML…">
 <!ENTITY cmd.exportHTML.accesskey "ص">
-<!ENTITY cmd.importHTML.label "استورِد HTML...">
+<!ENTITY cmd.importHTML.label "استورِد HTML…">
 <!ENTITY cmd.importHTML.accesskey "س">
 
-<!ENTITY cmd.backup.label "احفظ احتياطيا...">
+<!ENTITY cmd.backup.label "احفظ احتياطيا…">
 <!ENTITY cmd.backup.accesskey "ط">
 <!ENTITY cmd.restore2.label "استعِد">
 <!ENTITY cmd.restore2.accesskey "ت">
-<!ENTITY cmd.restoreFromFile.label "اختر ملفا...">
+<!ENTITY cmd.restoreFromFile.label "اختر ملفا…">
 <!ENTITY cmd.restoreFromFile.accesskey "خ">
 
 <!ENTITY cmd.select_all.label "اختر الكل">
@@ -97,11 +97,11 @@
 <!ENTITY cmd.sortby_name.accesskey "س">
 <!ENTITY cmd.context_sortby_name.accesskey "ر">
 
-<!ENTITY cmd.new_bookmark.label "علامة جديدة...">
+<!ENTITY cmd.new_bookmark.label "علامة جديدة…">
 <!ENTITY cmd.new_bookmark.accesskey "ع">
-<!ENTITY cmd.new_livemark.label "علامة حيّة جديدة...">
+<!ENTITY cmd.new_livemark.label "علامة حيّة جديدة…">
 <!ENTITY cmd.new_livemark.accesskey "ح">
-<!ENTITY cmd.new_folder.label "مجلد جديد...">
+<!ENTITY cmd.new_folder.label "مجلد جديد…">
 <!ENTITY cmd.new_folder.accesskey "ج">
 <!ENTITY cmd.context_new_folder.accesskey "م">
 <!ENTITY cmd.new_separator.label "فاصل جديد">
@@ -121,7 +121,7 @@
 <!ENTITY cmd.groupby_post.label "اجمع بالارسال">
 <!ENTITY cmd.groupby_post.accesskey "ر">
 
-<!ENTITY cmd.moveBookmarks.label "انقل...">
+<!ENTITY cmd.moveBookmarks.label "انقل…">
 <!ENTITY cmd.moveBookmarks.accesskey "ن">
 
 <!ENTITY col.name.label "الاسم">
@@ -177,11 +177,11 @@
 <!ENTITY advancedSearch.last_months.label "شهور">
 <!ENTITY advancedSearch.plus.label "+">
 <!ENTITY advancedSearch.minus.label "-">
-<!ENTITY advancedSearch.groupby.label "اجمع بـ:">
+<!ENTITY advancedSearch.groupby.label "اجمع ب‍:">
 <!ENTITY advancedSearch.groupby_host.label "المستضيف">
 <!ENTITY advancedSearch.groupby_domain.label "النطاق">
 <!ENTITY advancedSearch.groupby_folder.label "المجلد">
-<!ENTITY advancedSearch.sortby.label "رتب بـ:">
+<!ENTITY advancedSearch.sortby.label "رتب ب‍:">
 <!ENTITY advancedSearch.sortby_title.label "العنوان">
 <!ENTITY advancedSearch.sortby_date.label "التّاريخ">
 <!ENTITY advancedSearch.sortby_visit.label "عدد الزيارات">
