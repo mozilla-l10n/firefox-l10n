@@ -32,7 +32,7 @@
 <!ENTITY connection.label "الاتصال">
 
 <!ENTITY connectionDesc.label "اضبط كيف يتصل &brandShortName; بالإنترنت">
-<!ENTITY connectionSettings.label "الإعدادات...">
+<!ENTITY connectionSettings.label "الإعدادات…">
 <!ENTITY connectionSettings.accesskey "ع">
 
 <!ENTITY offlineStorage.label "الحفظ للاستخدام دون اتصال">
@@ -70,12 +70,12 @@
 
 <!ENTITY offlineNotify.label "نبّهني عندما يطلب موقع تخزين بيانات للاستخدام دون اتصال.">
 <!ENTITY offlineNotify.accesskey "ه">
-<!ENTITY offlineNotifyExceptions.label "الاستثناءات...">
+<!ENTITY offlineNotifyExceptions.label "الاستثناءات…">
 <!ENTITY offlineNotifyExceptions.accesskey "ث">
 
 <!ENTITY offlineAppsList.label "للمواقع التالية بيانات منزّلة للاستخدام دون اتصال:">
 <!ENTITY offlineAppsList.height "7em">
-<!ENTITY offlineAppsListRemove.label "احذف...">
+<!ENTITY offlineAppsListRemove.label "احذف…">
 <!ENTITY offlineAppsListRemove.accesskey "ح">
 <!ENTITY offlineAppRemove.confirm "احذف بيانات الاستخدام دون اتصال">
 
@@ -94,7 +94,7 @@
 <!ENTITY certs.ask.accesskey "س">
 <!ENTITY viewCerts.label "أظهر الشهادات">
 <!ENTITY viewCerts.accesskey "ظ">
-<!ENTITY viewCRLs.label "قوائم السحب">
+<!ENTITY viewCRLs.label "قوائم النقض">
 <!ENTITY viewCRLs.accesskey "ق">
 <!ENTITY verify2.label "التحقّق">
 <!ENTITY verify2.accesskey "ت">

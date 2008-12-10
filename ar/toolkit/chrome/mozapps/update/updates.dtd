@@ -30,8 +30,8 @@
 <!ENTITY license.decline.accesskey "ل">
 
 <!ENTITY downloading.title "يجري تنزيل التّحديث">
-<!ENTITY downloading.intro "يُنزّل التحديثات...">
-<!ENTITY connecting.label "يتّصل بخادوم التحديثات...">
+<!ENTITY downloading.intro "يُنزّل التحديثات…">
+<!ENTITY connecting.label "يتّصل بخادوم التحديثات…">
 <!ENTITY verificationFailedText.label "لم يتمكّن &brandShortName; من التّحقق من تكامل التحديث المتزايد الذي نزّله، لذلك فإنّه ينزّل تحديثا كاملا الآن.">
 
 <!ENTITY  viewDetails.tooltip             "اعرض تفاصيل هذا التحديث">
@@ -46,17 +46,17 @@
 
 <!ENTITY finishedBackground.name "تحديث:">
 
-<!ENTITY  finishedBackground.more         "سوف يُثبّت التحديث في المرة المقبلة التي يبدأ &brandShortName; فيها. يمكنك إعادة تشغيل &brandShortName; الآن، أو متابعة العمل وإعادة تشغيله لاحقاً.">
+<!ENTITY  finishedBackground.more         "سوف يُثبّت التحديث في المرة المقبلة التي يبدأ &brandShortName; فيها. يمكنك إعادة تشغيل &brandShortName; الآن، أو متابعة العمل وإعادة تشغيله لاحقًا.">
 
 <!ENTITY  finishedPage.title              "التحديث جاهز للتثبيت">
-<!ENTITY  finishedPage.text               "التحديث سيُثبّت في المرة المقبلة التي يبدأ فيها &brandShortName;. يمكنك إعادة تشغيل &brandShortName; الآن أو متابعة العمل وإعادة التشغيل لاحقاً.">
+<!ENTITY  finishedPage.text               "التحديث سيُثبّت في المرة المقبلة التي يبدأ فيها &brandShortName;. يمكنك إعادة تشغيل &brandShortName; الآن أو متابعة العمل وإعادة التشغيل لاحقًا.">
 
 <!ENTITY  finishedBackgroundPage.text     "A security and stability update for &brandShortName; has been
                                            downloaded and is ready to be installed.">
 
 <!ENTITY installed.title "تمّ تثبيت التحديث">
 <!ENTITY installed.intro "تمّ تثبيت التّحديث بنجاح.">
-<!ENTITY whatsnew.label "اقرأ المزيد عن الجديد...">
+<!ENTITY whatsnew.label "اقرأ المزيد عن الجديد…">
 
 <!ENTITY update.details.label "التفاصيل">
 <!ENTITY update.installedOn.label "مثبّت في:">

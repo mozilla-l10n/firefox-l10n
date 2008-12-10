@@ -63,7 +63,7 @@
 <!ENTITY loaddevice.modname.default "وحدة PKCS#11 جديدة">
 <!ENTITY loaddevice.filename "اسم ملفّ الوحدة:">
 <!ENTITY loaddevice.filename.accesskey "م">
-<!ENTITY loaddevice.browse "تصفّح...">
+<!ENTITY loaddevice.browse "تصفّح…">
 <!ENTITY loaddevice.browse.accesskey "ع">
 
 <!ENTITY loaddevice.title "حمِّل جهاز PKCS#11">

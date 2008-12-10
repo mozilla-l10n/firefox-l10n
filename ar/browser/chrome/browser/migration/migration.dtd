@@ -7,7 +7,7 @@
 
 <!ENTITY importFromIE.label "مايكروسوفت إنترنت إكسبلورر">
 <!ENTITY importFromIE.accesskey "م">
-<!ENTITY importFromPhoenix.label "فايرفوكس 0.8، فيربرد أو فيونكس">
+<!ENTITY importFromPhoenix.label "فَيَرفُكس 0.8، فيربرد أو فيونكس">
 <!ENTITY importFromPhoenix.accesskey "ف">
 <!ENTITY importFromNothing.label "لا تستورد أي شيء">
 <!ENTITY importFromNothing.accesskey "ل">
@@ -40,8 +40,8 @@
 <!ENTITY importItems.title "العناصر المراد استيرادها">
 <!ENTITY importItems.label "اختر أي العناصر تريد استيرادها:">
 
-<!ENTITY migrating.title "يستورد...">
-<!ENTITY migrating.label "يجري استيراد العناصر التالية...">
+<!ENTITY migrating.title "يستورد…">
+<!ENTITY migrating.label "يجري استيراد العناصر التالية…">
 
 <!ENTITY selectProfile.title "اختر الملفّ الشّخصيّ">
 <!ENTITY selectProfile.label "تتوفّر الملفّات الشّخصيّة التّالية للاستيراد منها:">

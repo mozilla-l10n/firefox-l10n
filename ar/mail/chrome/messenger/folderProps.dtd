@@ -84,7 +84,7 @@
 <!ENTITY folderProps.location.accesskey "ع">
 
 <!ENTITY folderSharingTab.label "المشاركة">
-<!ENTITY privileges.button.label "الصلاحيات...">
+<!ENTITY privileges.button.label "الصلاحيات…">
 <!ENTITY privileges.button.accesskey "ص">
 <!ENTITY permissionsDesc.label "لديك الصلاحيات التالية:">
 <!ENTITY folderType.label "نوع الدليل:">

@@ -35,9 +35,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY print.label "اطبع...">
+<!ENTITY print.label "اطبع…">
 <!ENTITY print.accesskey "ط">
-<!ENTITY pageSetup.label "إعداد الصفحة...">
+<!ENTITY pageSetup.label "إعداد الصفحة…">
 <!ENTITY pageSetup.accesskey "ع">
 <!ENTITY page.label "الصفحة:">
 <!ENTITY page.accesskey "ص">
@@ -62,9 +62,9 @@
 <!ENTITY p150.label "150&#037;">
 <!ENTITY p175.label "175&#037;">
 <!ENTITY p200.label "200&#037;">
-<!ENTITY Custom.label "مخصص...">
+<!ENTITY Custom.label "مخصص…">
 <!ENTITY ShrinkToFit.label "قلّص ليناسب">
-<!ENTITY customPrompt.title "مقياس مخصص...">
+<!ENTITY customPrompt.title "مقياس مخصص…">
 
 <!ENTITY homearrow.tooltip "الصّفحة الأولى">
 <!ENTITY endarrow.tooltip "الصّفحة الأخيرة">

@@ -52,20 +52,20 @@
 <!ENTITY userAgentField2.label "عميل المستخدم">
 <!ENTITY referencesField2.label "الإحالات">
 <!ENTITY messageIdField2.label "معرّف الرسالة">
-<!ENTITY inReplyToField2.label "ردّاً على">
+<!ENTITY inReplyToField2.label "ردًّا على">
 <!ENTITY originalWebsite2.label "موقع الوب">
 
 <!ENTITY editMessageDescription.label "هذه رسالة مسودّة">
-<!ENTITY editMessageButton.label "حرّر...">
-<!ENTITY replyButton.label "رُدّ...">
-<!ENTITY forwardButton.label "حوّل...">
+<!ENTITY editMessageButton.label "حرّر…">
+<!ENTITY replyButton.label "رُدّ…">
+<!ENTITY forwardButton.label "حوّل…">
 <!ENTITY junkButton.label "أضف علامة السُخام">
 <!ENTITY trashButton.tooltiptext "احذف">
 
 <!ENTITY otherActionsButton.label "إجراءات أخرى">
-<!ENTITY saveAsMenuItem.label "احفظ كـ...">
+<!ENTITY saveAsMenuItem.label "احفظ ك‍…">
 <!ENTITY saveAsMenuItem.accesskey "ظ">
-<!ENTITY viewSourceMenuItem.label "اعرض المصدر...">
+<!ENTITY viewSourceMenuItem.label "اعرض المصدر…">
 <!ENTITY viewSourceMenuItem.accesskey "ص">
 
 <!ENTITY hideDetailsButton.label "أخفِ التفاصيل">
@@ -73,8 +73,8 @@
 
 <!ENTITY openAttachmentCmd.label "افتح">
 <!ENTITY openAttachmentCmd.accesskey "ف">
-<!ENTITY saveAsAttachmentCmd.label "احفظ باسم…">
-<!ENTITY saveAsAttachmentCmd.accesskey "س">
+<!ENTITY saveAsAttachmentCmd.label "احفظ ك‍…">
+<!ENTITY saveAsAttachmentCmd.accesskey "ك">
 <!ENTITY detachAttachmentCmd.label "افصل…">
 <!ENTITY deleteAttachmentCmd.label "احذف">
 <!ENTITY saveAllAttachmentsCmd.label "احفظ الكل…">

@@ -101,8 +101,8 @@
 <!ENTITY showImageLinkBorder.accessKey "ح">
 <!-- These controls may be added some day; currently not used -->
 
-<!ENTITY editImageMapButton.label "حرر...">
-<!ENTITY editImageMapButton.tooltip "أنشئ بقعاً ساخنة قابلة للنقر في هذه الصورة">
+<!ENTITY editImageMapButton.label "حرر…">
+<!ENTITY editImageMapButton.tooltip "أنشئ بقعًا ساخنة قابلة للنقر في هذه الصورة">
 <!-- These tabs are currently used in the image input dialog -->
 
 <!ENTITY imageInputTab.label "مِن">

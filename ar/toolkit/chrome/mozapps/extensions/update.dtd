@@ -10,8 +10,8 @@
 <!ENTITY mismatch.bottom.label "يستطيع &brandShortName; أن يلتمس وجود إصدارات متوافقة من هذه الإضافات.">
 
 <!ENTITY checking.wizard.title "التمس إضافات متوافقة">
-<!ENTITY checking.top.label "يلتمس تحديثات لإضافاتك غير المتوافقة...">
-<!ENTITY checking.status "قد يستغرق هذا بضع دقائق...">
+<!ENTITY checking.top.label "يلتمس تحديثات لإضافاتك غير المتوافقة…">
+<!ENTITY checking.status "قد يستغرق هذا بضع دقائق…">
 
 <!ENTITY found.wizard.title "وجدت إضافات متوافقة">
 <!ENTITY found.top.label "اختر الإضافات التي تريد تثبيتها:">
@@ -20,7 +20,7 @@
 <!ENTITY found.enableXPInstall.accesskey "س">
 
 <!ENTITY installing.wizard.title "يجري تثبيت الإضافات المتوافقة">
-<!ENTITY installing.top.label "ينزّل ويثبّت تحديثات لإضافاتك...">
+<!ENTITY installing.top.label "ينزّل ويثبّت تحديثات لإضافاتك…">
 
 <!ENTITY noupdates.wizard.title "لا توجد إضافات متوافقة">
 <!ENTITY noupdates.intro.desc "لم يجد &brandShortName; تحديثات لإضافاتك غير المتوافقة.">
@@ -37,7 +37,7 @@
 
 <!ENTITY versioninfo.wizard.title "يجري فحص توافقية الإضافات">
 <!ENTITY versioninfo.top.label "يجري فحص توافقية إضافاتك مع هذا الإصدار من &brandShortName;.">
-<!ENTITY versioninfo.waiting "قد يستغرق هذا بضع دقائق...">
+<!ENTITY versioninfo.waiting "قد يستغرق هذا بضع دقائق…">
 
 <!ENTITY installerrors.wizard.title "حدثت أخطاء أثناء تثبيت التحديثات">
 <!ENTITY installerrors.intro.label "واجه &brandShortName; مشاكل أثناء تحديث بعض إضافاتك.">
@@ -46,5 +46,5 @@
 <!ENTITY clickFinish.label "اضغط أنهِ لمواصلة تشغيل &brandShortName;.">
 <!ENTITY clickFinish.labelMac "انقر تمّ لمتابعة بدء &brandShortName;.">
 <!ENTITY enableChecking.label "اسمح ل&brandShortName; بالبحث عن تحديثات.">
-<!ENTITY details.label "التفاصيل...">
+<!ENTITY details.label "التفاصيل…">
 <!ENTITY details.accesskey "ت">

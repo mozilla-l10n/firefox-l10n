@@ -22,7 +22,7 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey "ل">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "ابحث عن تحديثات لإضافاتك">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "ابحث عن تحديثات لسِماتك">
-<!ENTITY cmd.installLocalFile.label "ثبّت...">
+<!ENTITY cmd.installLocalFile.label "ثبّت…">
 <!ENTITY cmd.installLocalFile.accesskey "ب">
 <!ENTITY cmd.installFileAddon.tooltip "ثبّت إضافة">
 <!ENTITY cmd.installFileTheme.tooltip "ثبّت سِمة">
@@ -139,8 +139,8 @@
 <!ENTITY searchResultHomepage.value "تعلّم المزيد">
 <!ENTITY searchBox.label "ابحث في كل الإضافات">
 <!ENTITY recommendedResults.label "طالع كل الإضافات المستحسنة">
-<!ENTITY searchResultConnecting.label "يتّصل...">
-<!ENTITY searchResultInstalling.label "يُثبّت...">
+<!ENTITY searchResultConnecting.label "يتّصل…">
+<!ENTITY searchResultInstalling.label "يُثبّت…">
 <!ENTITY searchResultFailed.label "فشل التّثبيت">
 <!ENTITY searchResultInstalled.label "تم التثبيت">
 <!ENTITY addonTypeExtension.label "امتداد">
@@ -158,9 +158,9 @@
 <!ENTITY installSuccess.label "تم التثبيت بنجاح.">
 <!ENTITY installSuccessRestart.label "أعِد التشغيل لإكمال التثبيت.">
 <!ENTITY updateSuccessRestart.label "أعد التشغيل لإكمال التحديث.">
-<!ENTITY installWaiting.label "ينتظر...">
-<!ENTITY installIncompatibleUpdate.label "يفحص التوافقية...">
-<!ENTITY installFinishing.label "يُثبّت...">
+<!ENTITY installWaiting.label "ينتظر…">
+<!ENTITY installIncompatibleUpdate.label "يفحص التوافقية…">
+<!ENTITY installFinishing.label "يُثبّت…">
 <!ENTITY installFailure.label "فشل التثبيت.">
 
 <!ENTITY progressStatus.label "يلتمس التحديثات">
@@ -168,7 +168,7 @@
 <!ENTITY eula.title "اتفاقية المستخدم النهائي">
 <!ENTITY eula.width "560px">
 <!ENTITY eula.height "400px">
-<!ENTITY eula.accept "اقبل وثبّت...">
+<!ENTITY eula.accept "اقبل وثبّت…">
 
 <!ENTITY blocklist.blocked.label          "محظور">
 <!ENTITY blocklist.checkbox.label         "عطّل">

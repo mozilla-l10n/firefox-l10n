@@ -4,8 +4,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY window.width2 "485">
 <!ENTITY window.height "300">
 
-<!ENTITY starting.label "يبدأ...">
-<!ENTITY scanning.label "يفحص وجود فيروسات...">
+<!ENTITY starting.label "يبدأ…">
+<!ENTITY scanning.label "يفحص وجود فيروسات…">
 
 <!ENTITY downloads.title "التّنزيلات">
 
@@ -21,7 +21,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.showMac.accesskey "ف">
 <!ENTITY cmd.open.label "افتح">
 <!ENTITY cmd.open.accesskey "ف">
-<!ENTITY cmd.openWith.label "افتح بـ...">
+<!ENTITY cmd.openWith.label "افتح ب‍…">
 <!ENTITY cmd.openWith.accesskey "ب">
 <!ENTITY cmd.retry.label "أعد المحاولة">
 <!ENTITY cmd.retry.accesskey "ع">
@@ -45,4 +45,4 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY closeWhenDone.tooltip "يغلق نافذة التّنزيلات عند انتهاء تنزيل كلّ الملفّات">
 
 <!ENTITY showFolder.label "أظهر هذا المجلّد">
-<!ENTITY searchBox.label "ابحث...">
+<!ENTITY searchBox.label "ابحث…">

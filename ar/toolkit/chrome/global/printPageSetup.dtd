@@ -56,7 +56,7 @@
 <!ENTITY hfPage "صفحة #">
 <!ENTITY hfPageAndTotal "صفحة # من #">
 <!ENTITY hfBlank "--فارغ--">
-<!ENTITY hfCustom "مخصص...">
+<!ENTITY hfCustom "مخصص…">
 
-<!ENTITY customPrompt.title "مخصص...">
+<!ENTITY customPrompt.title "مخصص…">
 <!ENTITY customPrompt.prompt "أدخل نصّ التّرويسة/التّذييل المخصّص">

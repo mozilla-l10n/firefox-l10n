@@ -117,8 +117,8 @@
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "يجري توليد مفتاح سري">
-<!ENTITY createCertInfo.msg1 "يجري توليد المفتاح... قد يستغرق هذا بضعة دقائق...">
-<!ENTITY createCertInfo.msg2 "من فضلك انتظر...">
+<!ENTITY createCertInfo.msg1 "يجري توليد المفتاح… قد يستغرق هذا بضعة دقائق…">
+<!ENTITY createCertInfo.msg2 "من فضلك انتظر…">
 <!-- Form Signing confirmation prompt -->
 
 <!ENTITY formSigning.title "طلب توقيع النّصّ">
@@ -131,5 +131,5 @@
 <!ENTITY protectedAuth.tokenName.label "علامة:">
 
 <!ENTITY certErrorDlg.title "فشل الاتصال الآمن">
-<!ENTITY certErrorDlg.info1 "قد تكون هذه مشكلة في إعدادات الخادوم أو أن أحداً يحاول انتحال هوية الخادوم.">
-<!ENTITY certErrorDlg.info2 "إن كنتَ قد اتصلت بهذا الخادوم بنجاح في الماضي، فالخطأ قد يكون مؤقتاً فيمكنك المحاولة من جديد لاحقاً.">
+<!ENTITY certErrorDlg.info1 "قد تكون هذه مشكلة في إعدادات الخادوم أو أن أحدًا يحاول انتحال هوية الخادوم.">
+<!ENTITY certErrorDlg.info2 "إن كنتَ قد اتصلت بهذا الخادوم بنجاح في الماضي، فالخطأ قد يكون مؤقتًا فيمكنك المحاولة من جديد لاحقًا.">

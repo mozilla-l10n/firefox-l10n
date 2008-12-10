@@ -2,7 +2,7 @@
 <!ENTITY reportWizard.title "أبلغ عن موقع وِب معطّل">
 
 <!ENTITY privacyNotice.label "سياسة الخصوصيّة">
-<!ENTITY reportWizardPrivacy.description "تمكّنك هذه الأداة من إخبار فريق التّبليغ عن مواقع الوِب التي لا تعمل بشكل صحيح مع فايرفوكس، أو تمنع فايرفوكس. هذه وسيلتك لمساعدتنا على ضمان أفضل تجربة ممكنة لمستخدمي فايرفوكس. رجاءً خذ لحظة لقراءة ما يلي لتعلم كيف نستخدم المعلومات التي نجمعها في حال رغبت بالمشاركة.">
+<!ENTITY reportWizardPrivacy.description "تمكّنك هذه الأداة من إخبار فريق التّبليغ عن مواقع الوِب التي لا تعمل بشكل صحيح مع فَيَرفُكس، أو تمنع فَيَرفُكس. هذه وسيلتك لمساعدتنا على ضمان أفضل تجربة ممكنة لمستخدمي فَيَرفُكس. رجاءً خذ لحظة لقراءة ما يلي لتعلم كيف نستخدم المعلومات التي نجمعها في حال رغبت بالمشاركة.">
 <!ENTITY reportWizardMustAgree.description "للمواصلة عليك أن توافق على سياسة الخصوصيّة أعلاه.">
 
 <!ENTITY dontShowPrivacyStatement.label "قرأت و فهمت سياسة الخصوصيّة">
@@ -21,7 +21,7 @@
 <!ENTITY reportForm.problem_type.title "نوع المشكلة">
 <!ENTITY reportForm.problem_type.accesskey "ن">
 
-<!ENTITY reportForm.problem_type.chooseOne.title "اختر واحدا...">
+<!ENTITY reportForm.problem_type.chooseOne.title "اختر واحدا…">
 <!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
 
 <!ENTITY reportForm.problem_type.item1.title "المتصفّح غير مدعوم">
@@ -54,6 +54,6 @@
 <!ENTITY reportResults.showDetail.accesskey "ظ">
 
 <!ENTITY sendReport.label "إرسال البلاغ">
-<!ENTITY sendReport.description "يُرسل البلاغ إلى الموقع...">
+<!ENTITY sendReport.description "يُرسل البلاغ إلى الموقع…">
 
 <!ENTITY finish.label "‏أُرسِل البلاغ">

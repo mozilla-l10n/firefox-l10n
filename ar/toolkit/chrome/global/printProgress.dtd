@@ -2,7 +2,7 @@
 <!ENTITY printWindow.title "يطبع">
 <!ENTITY title "العنوان:">
 <!ENTITY progress "التّقدّم:">
-<!ENTITY preparing "يُجهّز...">
+<!ENTITY preparing "يُجهّز…">
 <!ENTITY printComplete "اكتملت الطّباعة.">
 
 <!ENTITY dialogCancel.label "ألغِ">

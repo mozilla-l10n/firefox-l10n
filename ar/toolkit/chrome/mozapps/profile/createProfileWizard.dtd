@@ -15,7 +15,7 @@
 <!ENTITY profilePrompt.accesskey "س">
 <!ENTITY profileDirectoryExplanation.text "إعدادات المستخدم الخاصة بك، وتفضيلاتك وغير ذلك من البيانات المتعلقة بالمستخدم سيتم تخزينها في:">
 <!ENTITY profileDefaultName "المستخدم المبدئي">
-<!ENTITY button.choosefolder.label "اختر مجلدا...">
+<!ENTITY button.choosefolder.label "اختر مجلدا…">
 <!ENTITY button.choosefolder.accesskey "خ">
 <!ENTITY button.usedefault.label "استعمل المجلد المبدئي">
 <!ENTITY button.usedefault.accesskey "س">

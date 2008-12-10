@@ -15,7 +15,7 @@
 <!ENTITY isSecure.label "استخدم اتصالًا آمنًا:">
 <!ENTITY neverSecure.label "لا">
 <!ENTITY neverSecure.accesskey "ل">
-<!ENTITY sometimesSTARTTLS.label "STARTTLS، إن كان متاحاً">
+<!ENTITY sometimesSTARTTLS.label "STARTTLS، إن كان متاحًا">
 <!ENTITY sometimesSTARTTLS.accesskey "م">
 <!ENTITY alwaysSTARTTLS.label "STARTTLS">
 <!ENTITY alwaysSTARTTLS.accesskey "T">

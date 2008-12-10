@@ -11,9 +11,9 @@
 <!ENTITY showCondensedAddresses.label "اعرض فقط اسم العرض للأشخاص في دفتر عناويني">
 <!ENTITY showCondensedAddresses.accesskey "ع">
 
-<!ENTITY autoMarkAsRead.label "أشّر على الرسائل تلقائياً بانها مقروءة">
+<!ENTITY autoMarkAsRead.label "أشّر على الرسائل تلقائيًا بانها مقروءة">
 <!ENTITY autoMarkAsRead.accesskey "ئ">
-<!ENTITY markAsReadNoDelay.label "فوراً عند العرض">
+<!ENTITY markAsReadNoDelay.label "فورًا عند العرض">
 <!ENTITY markAsReadNoDelay.accesskey "ف">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
@@ -57,7 +57,7 @@
 <!ENTITY showUpdates.accesskey "ت">
 <!-- Networking and Disk Space -->
 
-<!ENTITY showSettings.label "إعدادات...">
+<!ENTITY showSettings.label "إعدادات…">
 <!ENTITY showSettings.accesskey "د">
 <!ENTITY proxiesConfigure.label "يعدّ كيفية اتصال &brandShortName; بالإنترنت">
 <!ENTITY connectionsInfo.caption "الاتصال">
@@ -86,7 +86,7 @@
 
 <!ENTITY viewCertificates.label "اعرض الشهادات">
 <!ENTITY viewCertificates.accesskey "ش">
-<!ENTITY viewCRLs.label "قوائم السحب">
+<!ENTITY viewCRLs.label "قوائم النقض">
 <!ENTITY viewCRLs.accesskey "س">
 <!ENTITY validation.label "الصلاحية">
 <!ENTITY validation.accesskey "ص">

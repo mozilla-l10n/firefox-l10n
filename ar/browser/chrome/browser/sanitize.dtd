@@ -2,7 +2,7 @@
 <!ENTITY sanitizeDialog2.title "امسح التاريخ الحالي">
 
 <!ENTITY sanitizeItems.label "امسح العناصر التّالية الآن:">
-<!ENTITY clearDataSettings2.label     "عند خروجي من &brandShortName;، ينبغي عليه تلقائياً أن يمسح كل:">
+<!ENTITY clearDataSettings2.label     "عند خروجي من &brandShortName;، ينبغي عليه تلقائيًا أن يمسح كل:">
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
 <!ENTITY clearDuration.label          "أزِل ">

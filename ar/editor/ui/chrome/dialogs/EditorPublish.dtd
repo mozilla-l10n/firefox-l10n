@@ -54,7 +54,7 @@
 <!ENTITY docDirList.label             "مجلد الموقع الفرعي لهذه الصفحة:">
 <!ENTITY docDirList.accesskey         "ي">
 <!ENTITY docDirList.tooltip           "اختر أو أدخِل اسم المجلد الفرعي البعيد لهذه الصفحة">
-<!ENTITY publishImgCheckbox.label     "ضمّن صوراً وملفات أخرى">
+<!ENTITY publishImgCheckbox.label     "ضمّن صورًا وملفات أخرى">
 <!ENTITY publishImgCheckbox.accesskey "ى">
 <!ENTITY publishImgCheckbox.tooltip   "انشر الصور والملفات الأخرى التي تحيل إليها الصفحة">
 <!ENTITY sameLocationRadio.label      "استخدم نفس موقع الصفحة">
@@ -66,13 +66,13 @@
 <!ENTITY otherDirList.tooltip         "اختر أو أدخِل اسم المجلد الفرعي البعيد الذي ستُنشر فيه الملفات">
 <!ENTITY pageTitle.label              "عنوان الصفحة:">
 <!ENTITY pageTitle.accesskey          "ص">
-<!ENTITY pageTitle.tooltip            "أدخِل عنواناً لتمييز الصفحة في النافذة وفي العلامات المرجعية">
+<!ENTITY pageTitle.tooltip            "أدخِل عنوانًا لتمييز الصفحة في النافذة وفي العلامات المرجعية">
 <!ENTITY pageTitleExample.label       "مثال: &quot;صفحة الوب الخاصة بي&quot;">
 <!ENTITY filename.label               "اسم الملف:">
 <!ENTITY filename.accesskey           "ل">
-<!ENTITY filename.tooltip             "أدخِل اسماً لهذا الملف، مع إضافة ال '.html' لصفحة الوب">
+<!ENTITY filename.tooltip             "أدخِل اسمًا لهذا الملف، مع إضافة ال '.html' لصفحة الوب">
 <!ENTITY filenameExample.label        "مثال: &quot;صفحتي.html&quot;">
-<!ENTITY setDefaultButton.label       "اجعله افتراضياً">
+<!ENTITY setDefaultButton.label       "اجعله افتراضيًا">
 <!ENTITY setDefaultButton.accesskey   "ض">
 <!ENTITY removeButton.label           "أزِل الموقع">
 <!ENTITY removeButton.accesskey       "ز">

@@ -27,8 +27,8 @@
 <!ENTITY saveCmd.label "احفظ">
 <!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "ح">
-<!ENTITY saveAsCmd.label "احفظ باسم">
-<!ENTITY saveAsCmd.accesskey "س">
+<!ENTITY saveAsCmd.label "احفظ ك‍">
+<!ENTITY saveAsCmd.accesskey "ك">
 <!ENTITY saveAsFileCmd.label "ملف…">
 <!ENTITY saveAsFileCmd.accesskey "م">
 <!ENTITY saveAsDraftCmd.label "مسوّدة">
@@ -252,7 +252,7 @@
 <!ENTITY openAttachment.accesskey "ف">
 <!ENTITY delete.label "احذف">
 <!ENTITY delete.accesskey "ح">
-<!ENTITY renameAttachment.label "أعِد تسمية...">
+<!ENTITY renameAttachment.label "أعِد تسمية…">
 <!ENTITY renameAttachment.accesskey "ة">
 <!ENTITY selectAll.label "اختر الكل">
 <!ENTITY selectAll.accesskey "ك">

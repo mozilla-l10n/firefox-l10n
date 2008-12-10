@@ -1,16 +1,16 @@
 <!ENTITY blockPopups.label "امنع النوافذ المنبثقة">
 <!ENTITY blockPopups.accesskey "م">
-<!ENTITY popupExceptions.label "الاستثناءات...">
+<!ENTITY popupExceptions.label "الاستثناءات…">
 <!ENTITY popupExceptions.accesskey "س">
 
 <!ENTITY loadImages.label "حمّل الصور آليا">
 <!ENTITY loadImages.accesskey "ص">
-<!ENTITY exceptions.label "الاستثناءات...">
+<!ENTITY exceptions.label "الاستثناءات…">
 <!ENTITY exceptions.accesskey "ث">
 
 <!ENTITY enableJavaScript.label "فعّل جافاسكربت">
 <!ENTITY enableJavaScript.accesskey "س">
-<!ENTITY advancedJS.label "متقدم...">
+<!ENTITY advancedJS.label "متقدم…">
 <!ENTITY advancedJS.accesskey "ق">
 
 <!ENTITY enableJava.label "فعّل جافا">
@@ -24,14 +24,14 @@
 <!ENTITY defaultSize.label "الحجم:">
 <!ENTITY defaultSize.accesskey "ح">
 
-<!ENTITY advancedFonts.label "متقدم...">
+<!ENTITY advancedFonts.label "متقدم…">
 <!ENTITY advancedFonts.accesskey "م">
 
-<!ENTITY colors.label "الألوان...">
+<!ENTITY colors.label "الألوان…">
 <!ENTITY colors.accesskey "ل">
 
 
 <!ENTITY languages.label "اللّغات">
 <!ENTITY chooseLanguage.label "اختر لغتك المفضلة لعرض الصفحات">
-<!ENTITY chooseButton.label "اختر...">
+<!ENTITY chooseButton.label "اختر…">
 <!ENTITY chooseButton.accesskey "خ">

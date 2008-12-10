@@ -8,7 +8,7 @@
 
 <!ENTITY fileCheck.label "اطبع لملفّ">
 <!ENTITY fileCheck.accesskey "ع">
-<!ENTITY propertiesButton.label "الخصائص...">
+<!ENTITY propertiesButton.label "الخصائص…">
 <!ENTITY propertiesButton.accesskey "ئ">
 <!ENTITY descText.label "وصف الطّابعة:">
 <!ENTITY printer.label "الطابعة">

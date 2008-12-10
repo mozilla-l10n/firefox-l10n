@@ -6,9 +6,9 @@
 
 <!ENTITY smtpDesc.label "بالرّغم أنّه بإمكانك تحديد أكثر من خادوم صادر (SMTP) ، إلا أنّ ذلك يفضّل فقط للمستخدمين الخبراء. يمكن أن يسبب إعداد أكثر من خادوم SMTP أخطاء عند إرسال الرّسائل.">
 
-<!ENTITY smtpListAdd.label "أضِف...">
+<!ENTITY smtpListAdd.label "أضِف…">
 <!ENTITY smtpListAdd.accesskey "ض">
-<!ENTITY smtpListEdit.label "حرِّر...">
+<!ENTITY smtpListEdit.label "حرِّر…">
 <!ENTITY smtpListEdit.accesskey "ح">
 <!ENTITY smtpListDelete.label "أزِل">
 <!ENTITY smtpListDelete.accesskey "ز">
