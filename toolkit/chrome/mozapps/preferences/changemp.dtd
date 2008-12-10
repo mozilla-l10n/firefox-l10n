@@ -6,4 +6,4 @@
 <!ENTITY setPassword.meter.label "Gæðamæling lykilorðs">
 <!ENTITY setPassword.meter.loading "Hleður">
 <!ENTITY masterPasswordDescription.label "Aðal lykilorð er notað til að vernda viðkvæmar upplýsingar eins og lykilorð að vefsvæðum. Ef þú býrð til aðal lykilorð, verður beðið um það einu sinni í hverri lotu þegar &brandShortName; sækir vistaðar upplýsingar sem verndaðar eru af lykilorðinu.">
-<!ENTITY masterPasswordWarning.label "Vertu örugg(ur) um að þú munir aðal lykilorðið. Ef þú gleymir því, geturðu ekki komist í upplýsingarnar sem verndaðar eru með því.">
+<!ENTITY masterPasswordWarning.label "Vertu öruggur um að þú munir aðal lykilorðið. Ef þú gleymir því, geturðu ekki komist í upplýsingarnar sem verndaðar eru með því.">

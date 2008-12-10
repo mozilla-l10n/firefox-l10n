@@ -5,7 +5,7 @@
 <!ENTITY pluginWizard.availablePluginsPage.description.label "Þessi tengiforrit eru til staðar:">
 <!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Smelltu á Áfram til að setja inn þessi tengiforrit.">
 <!ENTITY pluginWizard.availablePluginsPage.installerUI "Einhver tengiforrit gætu þarfnast meiri upplýsinga frá þér þegar þau eru sett inn.">
-<!ENTITY pluginWizard.licensePage.title "Leyfiskilmálar tengiforrits">
+<!ENTITY pluginWizard.licensePage.title "Leyfisskilmálar tengiforrits">
 <!ENTITY pluginWizard.licensePage.accept.label "Ég samþykki.">
 <!ENTITY pluginWizard.licensePage.deny.label "Ég samþykki ekki (tengiforrit verður ekki sett inn).">
 <!ENTITY pluginWizard.installPluginsPage.title "Setja inn tengiforrit">

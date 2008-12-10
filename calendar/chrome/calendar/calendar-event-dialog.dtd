@@ -109,7 +109,7 @@
 <!ENTITY event.menu.options.attendees.accesskey "B">
 <!ENTITY event.menu.options.spellcheck.label "Yfirfara stafsetningu…">
 <!ENTITY event.menu.options.spellcheck.accesskey "Y">
-<!ENTITY event.menu.options.inline.spellcheck.label "Athuga innsláttar stafsetningu">
+<!ENTITY event.menu.options.inline.spellcheck.label "Athuga stafsetningu í innslætti">
 <!ENTITY event.menu.options.inline.spellcheck.accesskey "S">
 <!ENTITY event.menu.options.link.label "Bæta við tengli…">
 <!ENTITY event.menu.options.link.accesskey "L">
@@ -170,7 +170,7 @@
 <!ENTITY event.calendar.accesskey "D">
 <!ENTITY event.attendees.label "Þátttakendur:">
 <!ENTITY event.attendees.accesskey "t">
-<!ENTITY event.alldayevent.label "Allan daginn">
+<!ENTITY event.alldayevent.label "Heilsdagsatburður">
 <!ENTITY event.alldayevent.accesskey "d">
 <!ENTITY event.from.label "Byrjar:">
 <!ENTITY event.from.accesskey "B">

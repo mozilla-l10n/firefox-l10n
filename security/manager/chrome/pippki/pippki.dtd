@@ -59,7 +59,7 @@
 <!ENTITY pref.security.general.rHeader "Stillingar fyrir almennt öryggi">
 <!ENTITY pref.security.general.header "Stillingar fyrir almennt öryggi">
 <!ENTITY pref.security.general.level.title "Öryggisstig">
-<!ENTITY pref.security.general.paranoid.label "Nota vænisjúkar öryggisstillingar">
+<!ENTITY pref.security.general.paranoid.label "Nota vænissjúkar öryggisstillingar">
 <!ENTITY pref.security.general.certificates.title "Skilríki">
 <!ENTITY pref.security.general.manageCert.label "Umsýsla skilríkja">
 <!-- Downloading a cert -->

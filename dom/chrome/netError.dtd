@@ -5,9 +5,9 @@
 <!ENTITY connectionFailure.title "Get ekki tengst">
 <!ENTITY connectionFailure.longDesc "<p>Þótt svæðið virðist vera gilt, getur vafrinn ekki tengst því.</p><ul><li>Gæti verið að vefsvæðið sé niðri tímabundið? Reyndu aftur seinna.</li><li>Geturðu ekki tengst við önnur svæði?  Athugaðu netstillingar tölvu.</li><li>Er tölvan þín eða net varið af eldvegg eða staðgengli? Rangar stillingar geta haft áhrif á netvafra.</li></ul>">
 <!ENTITY deniedPortAccess.title "Aðgangur að þessari gátt er ekki leyfður">
-<!ENTITY deniedPortAccess.longDesc "<p>Umbeðið veffang bað um ákveðna gáttt (t.d. <q>mozilla.org:80</q> fyrir gátt 80 á mozilla.org) sem er venjulega notað fyrir eitthvað <em>annað</em> að vafra. Vafrinn hefur lokað á beiðnina þér til verndar.</p>">
+<!ENTITY deniedPortAccess.longDesc "<p>Umbeðið veffang bað um ákveðna gátt (t.d. <q>mozilla.org:80</q> fyrir gátt 80 á mozilla.org) sem er venjulega notað fyrir eitthvað <em>annað</em> að vafra. Vafrinn hefur lokað á beiðnina þér til verndar.</p>">
 <!ENTITY dnsNotFound.title "Þjónn fannst ekki">
-<!ENTITY dnsNotFound.longDesc "<p>Vafrinn gat ekki fundið vefþjón fyrir netfang.</p><ul><li>Slóstu inn vitlaust netfang? (t.d. <q><strong>ww</strong>.mozilla.org</q> í staðinn fyrir <q><strong>www</strong>.mozilla.org</q>)</li><li>Ertu viss um að þetta vefsvæði sé til?  Vefsvæðið gæti verið útrunnið.</li><li>Geturðu tengst öðrum svæðum? Athugaðu netstillingar og DNS stillingar tölvu.</li><li>Er tölvan varin af eldvegg eða staðgengli?  Rangar stillingar geta haft áhrif á vafra.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>Vafrinn fann ekki vefþjóninn fyrir þetta netfang.</p><ul><li>Slóstu inn vitlaust netfang? (t.d. <q><strong>ww</strong>.mozilla.org</q> í staðinn fyrir <q><strong>www</strong>.mozilla.org</q>)</li><li>Ertu viss um að þetta vefsvæði sé til?  Vefsvæðið gæti verið útrunnið.</li><li>Geturðu tengst öðrum svæðum? Athugaðu netstillingar og DNS stillingar tölvu.</li><li>Er tölvan varin af eldvegg eða staðgengli?  Rangar stillingar geta haft áhrif á vafra.</li></ul>">
 <!ENTITY fileNotFound.title "Skrá fannst ekki">
 <!ENTITY fileNotFound.longDesc "<ul><li>Gæti verið að hluturinn hafi verið endurnefndur, fjarlægður, eða færður til?</li><li>Er stafsetningarvilla, hástafaritun, eða annarskonar stafsetningarvilla í vistfanginu?</li><li>Hefurðu nægar aðgangsheimildir fyrir hlutinn?</li></ul>">
 <!ENTITY generic.title "Get ekki klárað beiðni">
@@ -41,7 +41,7 @@
 <!ENTITY nssFailure2.title "Örugg tenging mistókst">
 <!ENTITY nssFailure2.longDesc "<p>Ekki er hægt að skoða síðuna því ekki er hægt að sannvotta gögnin sem voru móttekin.</p><ul><li>Vinsamlega hafðu samband við vefstjóra vefsvæðisins og láttu hann vita af þessu vandamáli.</li></ul>">
 <!ENTITY nssBadCert.title "Örugg tenging mistókst">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Þetta gæti verið vegna vandamála í stillingum vefþjóns, eða einhver gæti verið reyna að þykjast vera þessi vefþjónn.</li> <li>Ef þú hefur getað tengst þessum vefþjóni án vandamála áður, gæti verið að vandamálið væri aðeins tímabundið, þannig að þú gætir reynt aftur seinna.</li> </ul>
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Þetta gæti verið vegna vandamála í stillingum vefþjóns, eða einhver gæti verið að reyna að þykjast vera þessi vefþjónn.</li> <li>Ef þú hefur getað tengst þessum vefþjóni án vandamála áður, gæti verið að vandamálið sé aðeins tímabundið, þannig að þú gætir reynt aftur seinna.</li> </ul>
 ">
 <!ENTITY malwareBlocked.title "Grunað árásarsvæði!">
 <!ENTITY malwareBlocked.longDesc "

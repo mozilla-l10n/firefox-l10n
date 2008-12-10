@@ -97,8 +97,8 @@
 <!ENTITY calendar.fullscreen.accesskey "k">
 <!ENTITY calendar.addons.label "Viðbætur">
 <!ENTITY calendar.addons.accesskey "i">
-<!ENTITY goMenu.label "Áfram">
-<!ENTITY goMenu.accesskey "f">
+<!ENTITY goMenu.label "Fara">
+<!ENTITY goMenu.accesskey "F">
 <!ENTITY goDateCmd.label "Dagsetning…">
 <!ENTITY goDateCmd.accesskey "a">
 <!ENTITY toolsMenu.label "Verkfæri">

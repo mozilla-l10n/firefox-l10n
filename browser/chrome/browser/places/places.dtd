@@ -34,7 +34,7 @@
 <!ENTITY cmd.findInBookmarks.accesskey "L">
 <!ENTITY cmd.findCurrent.label "Leita í núverandi safni…">
 <!ENTITY cmd.findCurrent.accesskey "i">
-<!ENTITY cmd.exportHTML.label "Fytja út HTML…">
+<!ENTITY cmd.exportHTML.label "Flytja út HTML…">
 <!ENTITY cmd.exportHTML.accesskey "F">
 <!ENTITY cmd.importHTML.label "Flytja inn HTML…">
 <!ENTITY cmd.importHTML.accesskey "I">
