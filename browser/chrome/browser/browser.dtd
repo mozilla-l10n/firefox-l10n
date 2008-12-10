@@ -9,7 +9,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
                                                                   inside the private browsing mode -->
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Privaat sneupe)">
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Privee sneupe)">
 
 <!ENTITY tabCmd.label "Nij ljepblêd">
 <!ENTITY tabCmd.accesskey "L">
@@ -164,7 +164,7 @@
 <!ENTITY clearRecentHistoryCmd.label            "Wis resinte skiednis">
 <!ENTITY clearRecentHistoryCmd.accesskey        "S">
 
-<!ENTITY privateBrowsingCmd.label            "Privaat sneupe">
+<!ENTITY privateBrowsingCmd.label            "Privee sneupe">
 <!ENTITY privateBrowsingCmd.accesskey        "s">
 
 <!ENTITY viewMenu.label               "Byld"> 
