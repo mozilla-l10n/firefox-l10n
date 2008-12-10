@@ -1,18 +1,28 @@
 <!ENTITY securityTitle.label "Seguretat">
+<!ENTITY securityTab.label "Seguretat">
 <!ENTITY securityHeading.label "Per enviar i rebre missatges signats o xifrats, heu d'indicar tant un certificat de signatura digital com un certificat de xifratge.">
 <!ENTITY encryptionGroupTitle.label "Xifratge">
 <!ENTITY encryptionChoiceLabel.label "Utilitza xifratge en enviar missatges:">
-<!ENTITY neverEncrypt.label "Mai">
-<!ENTITY alwaysEncryptMessage.label "Sempre (inhabilita l'enviament tret que tots els destinataris tinguin un certificat)">
-<!ENTITY encryptionCert.message "Utilitza el certificat personal següent:">
-<!ENTITY certificate.button "Seleccioneu…">
-<!ENTITY certificate_clear.button "Buida">
+<!ENTITY neverEncrypt.label "Mai (no utilitzis cap xifratge)">
+<!ENTITY neverEncrypt.accesskey "M">
+<!ENTITY alwaysEncryptMessage.label "Obligatori (no es pot enviar cap missatge llevat que tots els destinataris tinguin certificats)">
+<!ENTITY alwaysEncryptMessage.accesskey "u">
+<!ENTITY encryptionCert.message "Utilitzeu aquest certificat per a xifrar i desxifrar els missatges que se us envien">
+<!ENTITY digitalSign.certificate.button "Seleccioneu…">
+<!ENTITY digitalSign.certificate.accesskey "S">
+<!ENTITY digitalSign.certificate_clear.button "Neteja">
+<!ENTITY digitalSign.certificate_clear.accesskey "j">
+<!ENTITY encryption.certificate.button "Seleccioneu…">
+<!ENTITY encryption.certificate.accesskey "u">
+<!ENTITY encryption.certificate_clear.button "Neteja">
+<!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "Signatura digital">
 <!ENTITY signMessage.label "Signa els missatges digitalment">
-<!ENTITY signingCert.message "Utilitza el certificat personal següent:">
+<!ENTITY signMessage.accesskey "d">
+<!ENTITY signingCert.message "Utilitzeu aquest certificat per a signar digitalment els missatges que envieu:">
 
 <!ENTITY certificates.label     "Certificats">
-<!ENTITY managecerts.label      "Visualitza els certificats">
-<!ENTITY managecerts.accesskey "t">
-<!ENTITY managedevices.label    "Dispositius de seguretat">
-<!ENTITY managedevices.accesskey "s">
+<!ENTITY manageCerts.label      "Visualitza els certificats">
+<!ENTITY manageCerts.accesskey "t">
+<!ENTITY manageDevices.label    "Dispositius de seguretat">
+<!ENTITY manageDevices.accesskey "s">

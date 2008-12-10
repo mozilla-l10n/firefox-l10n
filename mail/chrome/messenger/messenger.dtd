@@ -107,6 +107,8 @@
 <!ENTITY redoMoveMsgCmd.label "Refés Mou el missatge">
 <!ENTITY undoCopyMsgCmd.label "Desfés Copia el missatge">
 <!ENTITY redoCopyMsgCmd.label "Refés Copia el missatge">
+<!ENTITY undoMarkAllCmd.label "Desfés marcar-ho tot com a llegit">
+<!ENTITY redoMarkAllCmd.label "Refés marcar-ho tot com a llegit">
 <!ENTITY undoDefaultCmd.label "Desfés">
 <!ENTITY undoDefaultCmd.accesskey "D">
 <!ENTITY redoDefaultCmd.label "Refés">
