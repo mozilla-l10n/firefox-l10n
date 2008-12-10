@@ -103,6 +103,8 @@
 <!ENTITY redoMoveMsgCmd.label "Повторить перемещение сообщения">
 <!ENTITY undoCopyMsgCmd.label "Отменить копирование сообщения">
 <!ENTITY redoCopyMsgCmd.label "Повторить копирование сообщения">
+<!ENTITY undoMarkAllCmd.label "Отменить пометку всех как прочитанных">
+<!ENTITY redoMarkAllCmd.label "Повторить пометку всех как прочитанных">
 <!ENTITY undoDefaultCmd.label "Отменить">
 <!ENTITY undoDefaultCmd.accesskey "О">
 <!ENTITY redoDefaultCmd.label "Повторить">
