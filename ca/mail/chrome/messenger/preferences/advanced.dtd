@@ -21,8 +21,6 @@
 <!ENTITY markAsReadDelay.label         "Després de mostrar-los durant">
 <!ENTITY markAsReadDelay.accesskey     "e">
 <!ENTITY secondsLabel.label            "segons">
-<!ENTITY showFolderColumns.label "Mostra les columnes expandides a la subfinestra de la carpeta.">
-<!ENTITY showFolderColumns.accesskey   "c">
 <!ENTITY openMsgIn.label               "Obre els missatges en:">
 <!ENTITY reuseExpRadio0.label          "Una finestra de missatge nova">
 <!ENTITY reuseExpRadio0.accesskey      "f">
