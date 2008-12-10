@@ -7,17 +7,22 @@
 <!ENTITY formatGroup.label "Format">
 
 <!ENTITY orientation.label "Orientació:">
-<!ENTITY portrait "Vertical">
-<!ENTITY landscape "Apaïsat">
+<!ENTITY portrait.label "Vertical">
+<!ENTITY portrait.accesskey  "V">
+<!ENTITY landscape.label "Apaïsat">
+<!ENTITY landscape.accesskey "A">
 
 <!ENTITY scale.label "Escala:">
+<!ENTITY scale.accesskey     "s">
 <!ENTITY scalePercent "&#037;">
 
 <!ENTITY shrinkToFit.label "Encongeix per a ajustar l'amplada de la pàgina">
+<!ENTITY shrinkToFit.accesskey "g">
 
 <!ENTITY optionsGroup.label "Opcions">
 
 <!ENTITY printBG.label "Imprimeix el fons (colors i imatges)">
+<!ENTITY printBG.accesskey   "f">
 
 <!ENTITY advanced.tab "Marges i capçalera/peu de pàgina">
 
@@ -25,9 +30,13 @@
 <!ENTITY marginUnits.inches "polzades">
 <!ENTITY marginUnits.metric "miŀlímetres">
 <!ENTITY marginTop.label "Part superior:">
+<!ENTITY marginTop.accesskey "s">
 <!ENTITY marginBottom.label "Part inferior:">
+<!ENTITY marginBottom.accesskey "i">
 <!ENTITY marginLeft.label "Esquerra:">
+<!ENTITY marginLeft.accesskey "E">
 <!ENTITY marginRight.label "Dreta:">
+<!ENTITY marginRight.accesskey "D">
 
 <!ENTITY headerFooter.label "Capçaleres i peus de pàgina">
 
