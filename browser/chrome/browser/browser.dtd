@@ -1,7 +1,7 @@
 <!ENTITY mainWindow.title "&brandFullName;">
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Режим секретности)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Режим приватного просмотра)">
 <!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 <!ENTITY tabCmd.label "Новая вкладка">
 <!ENTITY tabCmd.accesskey "в">
@@ -137,7 +137,7 @@
 <!ENTITY preferencesCmdUnix.accesskey "Н">
 <!ENTITY clearRecentHistoryCmd.label "Стирание недавней истории">
 <!ENTITY clearRecentHistoryCmd.accesskey "т">
-<!ENTITY privateBrowsingCmd.label "Режим секретности">
+<!ENTITY privateBrowsingCmd.label "Режим приватного просмотра">
 <!ENTITY privateBrowsingCmd.accesskey "ж">
 <!ENTITY viewMenu.label "Вид">
 <!ENTITY viewMenu.accesskey "В">
