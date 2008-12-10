@@ -2,10 +2,10 @@
 <!ENTITY restorepage.pagetitle "Viltu endurheimta seinustu lotu?">
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc "Seinasta &brandShortName; lota lokaðist óvænt. Við biðjumst velvirðingar á óþægindinum. Þú getur endurheimt flipa og glugga frá seinustu lotu, eða byrjað nýja lotu ef þú þarfnast þeirra ekki.">
+<!ENTITY restorepage.issueDesc "Seinasta &brandShortName; lota lokaðist óvænt. Við biðjumst velvirðingar á óþægindunum. Þú getur endurheimt flipa og glugga frá seinustu lotu, eða byrjað nýja lotu ef þú þarfnast þeirra ekki.">
 <!ENTITY restorepage.remedies "Ef &brandShortName; lokar í sífellu:">
 <!ENTITY restorepage.dueToChrome "Prufaðu að gera nýlegar viðbætur óvirkar í viðbótarglugganum.">
-<!ENTITY restorepage.dueToContent "Prufaðu að endurheimta lotuna aftur án síðnana sem þú telur að gætu verið að valda vandræðum:">
+<!ENTITY restorepage.dueToContent "Prufaðu að endurheimta lotuna aftur án síðnanna sem þú telur að gætu verið að valda vandræðum:">
 <!ENTITY restorepage.restoreButton "Sækja fyrri lotu">
 <!ENTITY restorepage.restore.access "S">
 <!ENTITY restorepage.cancelButton "Hefja nýja lotu">

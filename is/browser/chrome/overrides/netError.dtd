@@ -108,8 +108,8 @@
 <!ENTITY nssBadCert.title "Örugg tenging mistókst">
 <!ENTITY nssBadCert.longDesc2 "<ul>
   <li>Þetta gæti verið vegna vandamála í stillingum vefþjóns, eða einhver gæti
-  verið reyna að þykjast vera þessi vefþjónn.</li>
-  <li>Ef þú hefur getað tengst þessum vefþjóni án vandamála áður, gæti verið að vandamálið væri
+  verið að reyna að þykjast vera þessi vefþjónn.</li>
+  <li>Ef þú hefur getað tengst þessum vefþjóni án vandamála áður, gæti verið að vandamálið sé
   aðeins tímabundið, þannig að þú gætir reynt aftur seinna.</li>
 </ul>">
 <!ENTITY sharedLongDesc "
