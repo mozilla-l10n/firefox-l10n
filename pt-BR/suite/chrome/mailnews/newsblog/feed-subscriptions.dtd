@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY newsBlogSubscriptions.label "Inscrições RSS">
+<!ENTITY subscriptionDesc.label "Nota: Remover ou trocar a pasta para um RSS não afetará itens baixados anteriormente.">
+<!ENTITY feedTitle.label "Título:">
+<!ENTITY location.label  "Endereço:">
+
+<!ENTITY button.addFeed.label       "Adicionar">
+<!ENTITY button.addFeed.accesskey   "A">
+<!ENTITY button.editFeed.label      "Editar">
+<!ENTITY button.editFeed.accesskey  "E">
+<!ENTITY button.removeFeed.label "Remover">
+<!ENTITY button.removeFeed.accesskey   "R">
+<!ENTITY button.importOPML.label "Importar">
+<!ENTITY button.importOPML.accesskey   "I">
+<!ENTITY button.exportOPML.label "Exportar">
+<!ENTITY button.exportOPML.accesskey   "X">
+
+<!ENTITY cmd.close.commandKey             "w">
