@@ -21,8 +21,6 @@
 <!ENTITY markAsReadDelay.label         "Efter att ha visats i">
 <!ENTITY markAsReadDelay.accesskey     "r">
 <!ENTITY secondsLabel.label            "sekunder">
-<!ENTITY showFolderColumns.label       "Visa kolumner i Mappar-fältet">
-<!ENTITY showFolderColumns.accesskey   "s">
 <!ENTITY openMsgIn.label               "Öppna meddelanden i:">
 <!ENTITY reuseExpRadio0.label          "ett nytt fönster">
 <!ENTITY reuseExpRadio0.accesskey      "e">
