@@ -306,12 +306,12 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Criar filtro para o remetente...">
 <!ENTITY createFilter.accesskey "f">
-<!ENTITY moveMsgMenu.label "Mover">
-<!ENTITY moveMsgMenu.accesskey "M">
+<!ENTITY moveMsgToMenu.label "Mover para">
+<!ENTITY moveMsgToMenu.accesskey "M">
 <!ENTITY copyMessageLocation.label "Copiar endereço da mensagem">
 <!ENTITY copyMessageLocation.accesskey "M">
-<!ENTITY copyMsgMenu.label "Copiar para">
-<!ENTITY copyMsgMenu.accesskey "O">
+<!ENTITY copyMsgToMenu.label "Copiar para">
+<!ENTITY copyMsgToMenu.accesskey "O">
 <!ENTITY killThreadMenu.label "Ignorar tópico">
 <!ENTITY killThreadMenu.accesskey "I">
 <!ENTITY killThreadMenu.key "k">
@@ -541,7 +541,3 @@
 <!ENTITY filtersApplyToSelection.accesskey "m">
 <!ENTITY folderContextSettings.label "Configurações…">
 <!ENTITY folderContextSettings.accesskey "C">
-<!ENTITY copyMsgToMenu.accesskey "C">
-<!ENTITY copyMsgToMenu.label "Copy To">
-<!ENTITY moveMsgToMenu.accesskey "M">
-<!ENTITY moveMsgToMenu.label "Move To">
