@@ -8,8 +8,8 @@
 <!ENTITY CreateFilterFrom.accesskey "F">
 <!ENTITY BlockAddress.label "Bloquear endereço">
 <!ENTITY BlockAddress.accesskey "B">
-<!ENTITY CopyMessageId.label               "Copiar Message-ID">
-<!ENTITY OpenBrowserWithMsgId.label        "Abrir Navegador com Message-ID">
+<!ENTITY CopyMessageId.label               "Copiar Messagem-ID">
+<!ENTITY OpenBrowserWithMsgId.label        "Abrir Navegador com Messagem-ID">
 <!ENTITY OpenMessageForMsgId.label         "Abrir mensagem para ID">
+<!ENTITY copyLinkCmd.label                 "Copiar endereço do link">
 <!ENTITY copyLinkCmd.accesskey             "C">
-<!ENTITY copyLinkCmd.label                 "Copy Link Location">

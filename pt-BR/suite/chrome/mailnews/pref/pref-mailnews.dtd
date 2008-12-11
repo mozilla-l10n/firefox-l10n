@@ -32,7 +32,7 @@
 <!ENTITY defaultMailSettings.description  "Definir o &brandShortName; como aplicativo padrão para:">
 <!ENTITY setDefaultMail.label             "Email">
 <!ENTITY setDefaultMail.accesskey         "E">
-<!ENTITY setDefaultNews.label             "News">
+<!ENTITY setDefaultNews.label             "Notícias">
 <!ENTITY setDefaultNews.accesskey         "N">
-<!ENTITY setDefaultFeed.accesskey         "e">
-<!ENTITY setDefaultFeed.label             "Feeds">
+<!ENTITY setDefaultFeed.label             "RSS">
+<!ENTITY setDefaultFeed.accesskey         "R">
