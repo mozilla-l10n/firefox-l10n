@@ -22,3 +22,9 @@
 <!ENTITY signingCert.message "Certificado usado para assinar digitalmente mensagens que você enviar:">
 <!ENTITY signingCert.notselected "Nenhum certificado definido">
 <!ENTITY securityTab.label "Segurança">
+
+<!ENTITY certificates.label "Certificates">
+<!ENTITY manageCerts.accesskey "M">
+<!ENTITY manageCerts.label "Manage Certificates…">
+<!ENTITY manageDevices.accesskey "g">
+<!ENTITY manageDevices.label "Manage Security Devices…">
