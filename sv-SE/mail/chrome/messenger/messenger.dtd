@@ -141,6 +141,8 @@
 <!ENTITY redoMoveMsgCmd.label "Gör om flytt av meddelande">
 <!ENTITY undoCopyMsgCmd.label "Ångra kopiering av meddelande">
 <!ENTITY redoCopyMsgCmd.label "Gör om kopiering av meddelande">
+<!ENTITY undoMarkAllCmd.label "Ångra märkning av alla som lästa">
+<!ENTITY redoMarkAllCmd.label "Gör om märkning av alla som lästa">
 <!ENTITY undoDefaultCmd.label "Ångra">
 <!ENTITY undoDefaultCmd.accesskey "Å">
 <!ENTITY redoDefaultCmd.label "Gör om">
