@@ -31,3 +31,46 @@
 <!ENTITY sortAscending.accesskey     "C">
 <!ENTITY sortDescending.label        "Decrescente">
 <!ENTITY sortDescending.accesskey    "D">
+<!ENTITY bookmarkCmd.accesskey          "B">
+
+<!ENTITY bookmarkCmd.label              "Bookmark This Link…">
+<!ENTITY byDate.accesskey               "D">
+<!ENTITY byDate.label                   "By Date">
+<!ENTITY byDayAndSite.accesskey         "t">
+<!ENTITY byDayAndSite.label             "By Date and Site">
+<!ENTITY byLastVisited.accesskey        "L">
+<!ENTITY byLastVisited.label            "By Last Visited">
+<!ENTITY byMostVisited.accesskey        "V">
+<!ENTITY byMostVisited.label            "By Most Visited">
+<!ENTITY bySite.accesskey               "S">
+<!ENTITY bySite.label                   "By Site">
+<!ENTITY cmd.open.accesskey             "O">
+
+<!ENTITY cmd.open.label                 "Open">
+<!ENTITY cmd.open_all_in_tabs.accesskey "O">
+<!ENTITY cmd.open_all_in_tabs.label     "Open All in Tabs">
+<!ENTITY cmd.open_tab.accesskey         "w">
+<!ENTITY cmd.open_tab.label             "Open Link in New Tab">
+<!ENTITY cmd.open_window.accesskey      "N">
+<!ENTITY cmd.open_window.label          "Open Link in New Window">
+<!ENTITY col.lastvisit.label            "Last Visited">
+
+<!ENTITY col.title.label                "Title">
+<!ENTITY col.url.label                  "Location">
+<!ENTITY col.visitcount.label           "Visit Count">
+
+<!ENTITY search.emptytext               "Search History">
+<!ENTITY search.key                     "f">
+<!ENTITY searchBar.tooltip              "Search Bar">
+<!ENTITY view.columns.accesskey         "C">
+
+<!ENTITY view.columns.label             "Show Columns">
+<!ENTITY view.label                     "View">
+<!ENTITY view.sort.accesskey            "S">
+<!ENTITY view.sort.label                "Sort">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortAscending.label       "A > Z Sort Order">
+<!ENTITY view.sortDescending.accesskey  "Z">
+<!ENTITY view.sortDescending.label      "Z > A Sort Order">
+<!ENTITY view.unsorted.accesskey        "U">
+<!ENTITY view.unsorted.label            "Unsorted">

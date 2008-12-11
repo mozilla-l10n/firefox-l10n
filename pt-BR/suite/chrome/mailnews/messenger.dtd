@@ -541,3 +541,5 @@
 <!ENTITY filtersApplyToSelection.accesskey "m">
 <!ENTITY folderContextSettings.label "Configurações…">
 <!ENTITY folderContextSettings.accesskey "C">
+<!ENTITY redoMarkAllCmd.label "Redo Mark All Read">
+<!ENTITY undoMarkAllCmd.label "Undo Mark All Read">
