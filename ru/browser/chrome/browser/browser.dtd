@@ -317,7 +317,6 @@
 <!ENTITY spellAddDictionaries.accesskey "Д">
 <!ENTITY editBookmark.done.label "Готово">
 <!ENTITY editBookmark.cancel.label "Отмена">
-<!ENTITY editBookmark.removeBookmark.label "Удалить закладку">
 <!ENTITY editBookmark.removeBookmark.accessKey "д">
 <!ENTITY editBookmark.undo.label "Отменить">
 <!ENTITY editBookmark.undo.accessKey "т">
