@@ -31,20 +31,30 @@
   -->
 
 <!ENTITY securityTitle.label "Säkerhet">
+<!ENTITY securityTab.label "Säkerhet">
 <!ENTITY securityHeading.label "För att kunna skicka och ta emot signerade eller krypterade meddelanden bör du ange både ett signeringscertifikat och ett krypteringscertifikat.">
 <!ENTITY encryptionGroupTitle.label "Kryptering">
 <!ENTITY encryptionChoiceLabel.label "Standardinställning för utgående meddelanden:">
 <!ENTITY neverEncrypt.label "Kryptera aldrig">
+<!ENTITY neverEncrypt.accesskey "d">
 <!ENTITY alwaysEncryptMessage.label "Kryptera alltid (Alla mottagare måste då ha varsitt certifikat)">
+<!ENTITY alwaysEncryptMessage.accesskey "K">
 <!ENTITY encryptionCert.message "Använd följande personliga certifikat:">
-<!ENTITY certificate.button "Välj…">
-<!ENTITY certificate_clear.button "Rensa">
+<!ENTITY digitalSign.certificate.button "Välj…">
+<!ENTITY digitalSign.certificate.accesskey "ä">
+<!ENTITY digitalSign.certificate_clear.button "Rensa">
+<!ENTITY digitalSign.certificate_clear.accesskey "R">
+<!ENTITY encryption.certificate.button "Välj…">
+<!ENTITY encryption.certificate.accesskey "l">
+<!ENTITY encryption.certificate_clear.button "Rensa">
+<!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "Digital signering">
 <!ENTITY signMessage.label "Signera alla meddelanden">
+<!ENTITY signMessage.accesskey "m">
 <!ENTITY signingCert.message "Använd följande personliga certifikat:">
 
 <!ENTITY certificates.label       "Certifikat">
-<!ENTITY managecerts.label      "Visa certifikat">
-<!ENTITY managecerts.accesskey   "V">
-<!ENTITY managedevices.label    "Säkerhetsenheter">
-<!ENTITY managedevices.accesskey "S">
+<!ENTITY manageCerts.label      "Visa certifikat">
+<!ENTITY manageCerts.accesskey   "V">
+<!ENTITY manageDevices.label    "Säkerhetsenheter">
+<!ENTITY manageDevices.accesskey "S">
