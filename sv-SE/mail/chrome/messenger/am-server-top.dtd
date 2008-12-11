@@ -49,8 +49,6 @@
 <!ENTITY biffStart.label "Kontrollera var ">
 <!ENTITY biffStart.accesskey "K">
 <!ENTITY biffEnd.label "minut om det kommit nya meddelanden">
-<!ENTITY isSecure.label "Använd säker förbindelse (SSL)">
-<!ENTITY isSecure.accesskey "ö">
 <!ENTITY socketType.label "Använd säker anslutning:">
 <!ENTITY neverSecure.label "Aldrig">
 <!ENTITY neverSecure.accesskey "A">
