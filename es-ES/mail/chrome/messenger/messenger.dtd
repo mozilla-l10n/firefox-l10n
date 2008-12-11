@@ -103,6 +103,8 @@
 <!ENTITY redoMoveMsgCmd.label "Rehacer 'Mover mensaje'">
 <!ENTITY undoCopyMsgCmd.label "Deshacer 'Copiar mensaje'">
 <!ENTITY redoCopyMsgCmd.label "Rehacer 'Copiar mensaje'">
+<!ENTITY undoMarkAllCmd.label "Deshacer Marcar todos como leídos">
+<!ENTITY redoMarkAllCmd.label "Rehacer Marcar todos como leídos">
 <!ENTITY undoDefaultCmd.label "Deshacer">
 <!ENTITY undoDefaultCmd.accesskey "d">
 <!ENTITY redoDefaultCmd.label "Rehacer">
