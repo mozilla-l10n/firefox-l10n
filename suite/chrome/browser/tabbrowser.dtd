@@ -9,11 +9,10 @@
 <!ENTITY  reloadAllTabs.accesskey         "a">
 <!ENTITY  reloadTab.label        "Torna a carregar la pestanya">
 <!ENTITY  reloadTab.accesskey         "r">
-<!ENTITY  listAllTabs.label      "Llista totes les pestanyes">
-<!ENTITY  bookmarkAllTabs.label       "Afegeix a les adreces d'interès totes les pestanyes…">
-<!ENTITY  bookmarkAllTabs.accesskey   "t">
-<!ENTITY  bookmarkThisTab.label        "Afegeix a les adreces d'interès aquesta pestanya">
-<!ENTITY  bookmarkThisTab.accesskey    "y">
+<!ENTITY  bookmarkGroup.label       "Afegeix a les adreces d'interès aquest grup de pestanyes…">
+<!ENTITY  bookmarkGroup.accesskey   "t">
+<!ENTITY  closeTabButton.tooltip   "Tanca la pestanya actual">
+<!ENTITY  newTabButton.tooltip   "Obre una pestanya nova">
 <!ENTITY  undoCloseTab.label          "Desfés tancar la pestanya">
 <!ENTITY  undoCloseTab.accesskey      "D">
 
