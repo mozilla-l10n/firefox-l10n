@@ -68,7 +68,6 @@
 <!ENTITY NickName.label "Surnom :">
 <!ENTITY NickName.accesskey "S">
 
-<!ENTITY Internet.box "Courriel">
 <!ENTITY PrimaryEmail.label "Adresse électronique :">
 <!ENTITY PrimaryEmail.accesskey "d">
 <!ENTITY SecondEmail.label "Adresse alternative :">
