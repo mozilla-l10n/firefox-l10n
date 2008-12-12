@@ -7,6 +7,8 @@
 <!ENTITY viewAll.accesskey "o">
 <!ENTITY viewUnread.label "Per llegir">
 <!ENTITY viewUnread.accesskey "g">
+<!ENTITY viewNotDeleted.label "No suprimit">
+<!ENTITY viewNotDeleted.accesskey "s">
 <!ENTITY viewTags.label "Etiquetes">
 <!ENTITY viewTags.accesskey "t">
 <!ENTITY viewCustomViews.label "Visualitzacions personalitzades">

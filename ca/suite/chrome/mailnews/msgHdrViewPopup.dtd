@@ -39,13 +39,16 @@
 
 
 <!-- Message Header View Popup -->
-<!ENTITY AddToAddressBook.label            "Afegeix a la llibreta d'adreces...">
+<!ENTITY AddToAddressBook.label            "Afegeix a la llibreta d'adreces…">
 <!ENTITY AddToAddressBook.accesskey        "b">
-<!ENTITY SendMailTo.label                  "Redacta un missatge per a...">
+<!ENTITY SendMailTo.label                  "Redacta un missatge per a…">
 <!ENTITY SendMailTo.accesskey              "s">
 <!ENTITY CopyEmailAddress.label            "Copia l'adreça electrònica">
 <!ENTITY CopyEmailAddress.accesskey        "C">
-<!ENTITY CreateFilterFrom.label            "Crea un filtre de...">
+<!ENTITY CreateFilterFrom.label            "Crea un filtre de…">
 <!ENTITY CreateFilterFrom.accesskey        "f">
-<!ENTITY BlockAddress.label                "Bloca l'adreça">
-<!ENTITY BlockAddress.accesskey            "a">
+<!ENTITY copyLinkCmd.label                 "Copia l'enllaç">
+<!ENTITY copyLinkCmd.accesskey             "C">
+<!ENTITY CopyMessageId.label               "Copia l'identificador del missatge">
+<!ENTITY OpenMessageForMsgId.label         "Obre el missatge per identificador">
+<!ENTITY OpenBrowserWithMsgId.label        "Obre el navegador amb l'identificador del missatge">

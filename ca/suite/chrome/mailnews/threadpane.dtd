@@ -39,7 +39,7 @@
 
 
 <!ENTITY threadColumn.label "Cadena">
-<!ENTITY senderColumn.label "Remitent">
+<!ENTITY fromColumn.label "Remitent">
 <!ENTITY recipientColumn.label "Destinatari">
 <!ENTITY attachmentColumn.label "Adjunts">
 <!ENTITY subjectColumn.label "Assumpte">
@@ -50,10 +50,10 @@
 <!ENTITY statusColumn.label "Estat">
 <!ENTITY sizeColumn.label "Mida">
 <!ENTITY junkStatusColumn.label "Estat del correu brossa">
-<!ENTITY linesColumn.label "Línies">
 <!ENTITY unreadColumn.label "Per llegir">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Llegit">
+<!ENTITY receivedColumn.label "Rebut">
 <!ENTITY flagColumn.label "Senyalador">
 <!ENTITY locationColumn.label "Ubicació">
 <!ENTITY idColumn.label "Ordre rebuda">
@@ -61,7 +61,7 @@
 <!--Tooltips-->
 <!ENTITY columnChooser.tooltip "Feu un clic per a seleccionar les columnes a visualitzar">
 <!ENTITY threadColumn.tooltip "Feu un clic per a visualitzar les cadenes de missatges">
-<!ENTITY senderColumn.tooltip "Feu un clic per a ordenar per remitent">
+<!ENTITY fromColumn.tooltip "Feu un clic per a ordenar per remitent">
 <!ENTITY recipientColumn.tooltip "Feu un clic per a ordenar per destinatari">
 <!ENTITY attachmentColumn.tooltip "Feu un clic per a ordenar per adjunts">
 <!ENTITY subjectColumn.tooltip "Feu un clic per a ordenar per assumpte">
@@ -75,6 +75,7 @@
 <!ENTITY unreadColumn.tooltip "Nombre de missatges per llegir a la cadena">
 <!ENTITY totalColumn.tooltip "Nombre total de missatges en cadena">
 <!ENTITY readColumn.tooltip "Feu un clic per a ordenar per llegit">
+<!ENTITY receivedColumn.tooltip "Feu un clic per a ordenar per ordre de rebuda">
 <!ENTITY flagColumn.tooltip "Feu un clic per a ordenar per senyalador">
 <!ENTITY locationColumn.tooltip "Feu un clic per a ordenar per ubicació">
 <!ENTITY idColumn.tooltip "Feu clic per a ordenar per ordre de recepció">
