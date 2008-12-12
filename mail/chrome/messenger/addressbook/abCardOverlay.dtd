@@ -67,7 +67,6 @@
 <!ENTITY NickName.label "الكنية:">
 <!ENTITY NickName.accesskey "ك">
 
-<!ENTITY Internet.box "الإنترنت">
 <!ENTITY PrimaryEmail.label "البريد:">
 <!ENTITY PrimaryEmail.accesskey "ب">
 <!ENTITY SecondEmail.label "البريد الإضافي:">

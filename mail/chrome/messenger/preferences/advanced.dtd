@@ -21,8 +21,6 @@
 <!ENTITY markAsReadDelay.label "بعد العرض لمدة">
 <!ENTITY markAsReadDelay.accesskey "ض">
 <!ENTITY secondsLabel.label "ثوان/ثانية">
-<!ENTITY showFolderColumns.label "اعرض الأعمدة موسعةً في لوحة الدليل">
-<!ENTITY showFolderColumns.accesskey "م">
 <!ENTITY openMsgIn.label "افتح الرسائل في:">
 <!ENTITY reuseExpRadio0.label "نافذة رسالة جديدة ">
 <!ENTITY reuseExpRadio0.accesskey "ن">

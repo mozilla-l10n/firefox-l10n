@@ -108,6 +108,8 @@
 <!ENTITY redoMoveMsgCmd.label "أعِد نقل الرسالة">
 <!ENTITY undoCopyMsgCmd.label "ألغِ نسخ الرسالة">
 <!ENTITY redoCopyMsgCmd.label "أعِد نسخ الرسالة">
+<!ENTITY undoMarkAllCmd.label "تراجع عن تأشير القراءة للكل">
+<!ENTITY redoMarkAllCmd.label "أعِد تأشير القراءة للكل">
 <!ENTITY undoDefaultCmd.label "تراجع">
 <!ENTITY undoDefaultCmd.accesskey "ر">
 <!ENTITY redoDefaultCmd.label "أعِد">
