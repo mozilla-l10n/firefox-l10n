@@ -405,7 +405,6 @@ you can use these alternative items. Otherwise, their values should be empty.
 
 <!ENTITY editBookmark.done.label                     "Terminer">
 <!ENTITY editBookmark.cancel.label                   "Annuler">
-<!ENTITY editBookmark.removeBookmark.label           "Supprimer le marque-page">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 <!ENTITY editBookmark.undo.label                     "Annuler">
 <!ENTITY editBookmark.undo.accessKey                 "u">
