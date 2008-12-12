@@ -19,8 +19,6 @@
 <!ENTITY biffStart.label "افحص الرسائل الجديدة كل">
 <!ENTITY biffStart.accesskey "ف">
 <!ENTITY biffEnd.label "دقائق">
-<!ENTITY isSecure.label "استخدم اتصالا آمنا (SSL)">
-<!ENTITY isSecure.accesskey "س">
 <!ENTITY socketType.label "استخدم اتصالا آمنا:">
 <!ENTITY neverSecure.label "أبدًا">
 <!ENTITY neverSecure.accesskey "ب">

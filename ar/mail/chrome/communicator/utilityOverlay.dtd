@@ -48,8 +48,6 @@
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "غ">
 
-<!ENTITY closeWindow.label "أغلق النافذة">
-
 <!ENTITY quitApplicationCmd.label "اخرج">
 <!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY quitApplicationCmd.accesskey "ج">
