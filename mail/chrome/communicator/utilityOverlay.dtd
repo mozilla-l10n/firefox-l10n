@@ -48,8 +48,6 @@
 <!ENTITY closeCmd.key			"W">
 <!ENTITY closeCmd.accesskey		"c">
 
-<!ENTITY closeWindow.label "Fenster schließen">
-
 <!ENTITY quitApplicationCmd.label	"Beenden">
 <!ENTITY quitApplicationCmd.key		"Q">
 <!ENTITY quitApplicationCmd.accesskey	"B">
