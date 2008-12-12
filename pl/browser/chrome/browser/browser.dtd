@@ -401,7 +401,6 @@ you can use these alternative items. Otherwise, their values should be empty.
 
 <!ENTITY editBookmark.done.label                     "Gotowe">
 <!ENTITY editBookmark.cancel.label                   "Anuluj">
-<!ENTITY editBookmark.removeBookmark.label           "Usuń zakładkę">
 <!ENTITY editBookmark.removeBookmark.accessKey       "U">
 <!ENTITY editBookmark.undo.label                     "Cofnij">
 <!ENTITY editBookmark.undo.accessKey                 "C">
