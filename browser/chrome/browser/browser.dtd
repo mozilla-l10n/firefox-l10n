@@ -7,9 +7,12 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
-                                                                  inside the private browsing mode -->
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (사생활 보호 모드)">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                               inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(사생활 보호 모드)">
+
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "새 탭">
 <!ENTITY tabCmd.accesskey "T">
@@ -337,7 +340,6 @@
 
 <!ENTITY editBookmark.done.label "완료">
 <!ENTITY editBookmark.cancel.label "취소">
-<!ENTITY editBookmark.removeBookmark.label "북마크 제거">
 <!ENTITY editBookmark.removeBookmark.accessKey "R">
 <!ENTITY editBookmark.undo.label "되돌리기">
 <!ENTITY editBookmark.undo.accessKey "U">
