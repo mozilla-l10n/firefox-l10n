@@ -7,8 +7,12 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegación privada)">
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Exploración privada)">
+
 
 <!ENTITY tabCmd.label "Novo separador">
 <!ENTITY tabCmd.accesskey "v">
@@ -364,7 +368,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "E">
 <!ENTITY editBookmark.done.label                     "Feito">
 <!ENTITY editBookmark.cancel.label                   "Cancelar">
-<!ENTITY editBookmark.removeBookmark.label           "Eliminar marcador">
 <!ENTITY editBookmark.removeBookmark.accessKey       "E">
 <!ENTITY editBookmark.undo.label                     "Desfacer">
 <!ENTITY editBookmark.undo.accessKey                 "D">
