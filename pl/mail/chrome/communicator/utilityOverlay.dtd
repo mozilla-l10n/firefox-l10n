@@ -44,8 +44,6 @@
 <!ENTITY closeCmd.accesskey               "Z">
 <!ENTITY closeCmd.key                     "W">
 
-<!ENTITY closeWindow.label                "Zamknij okno">
-
 <!ENTITY quitApplicationCmd.label         "Zakończ">
 <!ENTITY quitApplicationCmd.accesskey     "k">
 <!ENTITY quitApplicationCmd.key           "Q">

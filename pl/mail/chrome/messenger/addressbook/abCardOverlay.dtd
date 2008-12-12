@@ -65,9 +65,9 @@
 <!ENTITY PhoneticField2.label           "Wymowa:">
 <!ENTITY DisplayName.label              "Pokazuj jako:">
 <!ENTITY DisplayName.accesskey          "P">
+
 <!ENTITY NickName.label                 "Pseudonim:">
 <!ENTITY NickName.accesskey             "m">
-<!ENTITY Internet.box                   "Internet">
 <!ENTITY PrimaryEmail.label             "E-mail:">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Dodatkowy e-mail:">
