@@ -44,6 +44,7 @@
 <!ENTITY features.title "Característiques">
 <!ENTITY feat_multiacc.label "Múltiples comptes">
 <!ENTITY feat_junk.label "Detecció de correu brossa">
+<!ENTITY feat_rss.label "Lector d'RSS">
 <!ENTITY feat_filters.label "Filtres de missatge">
 <!ENTITY feat_htmlmsg.label "Missatges HTML">
 <!ENTITY feat_abook.label "Llibreta d'adreces">

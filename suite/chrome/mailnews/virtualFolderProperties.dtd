@@ -3,9 +3,6 @@
 <!ENTITY name.accesskey "N">
 <!ENTITY description.label "Crea com a subcarpeta de:">
 <!ENTITY description.accesskey "C">
-<!ENTITY searchCriteriaText.label "Modifiqueu el criteri de cerca que s'ha utilitzat per a aquesta cerca desada:">
-<!ENTITY searchCriteriaButton.label "Criteri de cerca...">
-<!ENTITY searchCriteriaButton.accesskey "i">
 
 <!ENTITY searchTermCaption.label "Configureu el criteri de cerca que s'utilitza per a aquesta carpeta de cerca desada:">
 
