@@ -7,9 +7,12 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
-                                                                  inside the private browsing mode -->
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (تصفح خاص)">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(التصفح الخاص)">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
+
 
 <!ENTITY tabCmd.label "لسان جديد">
 <!ENTITY tabCmd.accesskey "ل">
@@ -402,7 +405,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label "تمّ">
 <!ENTITY editBookmark.cancel.label "ألغِ">
-<!ENTITY editBookmark.removeBookmark.label "احذف العلامة">
 <!ENTITY editBookmark.removeBookmark.accessKey "ح">
 <!ENTITY editBookmark.undo.label "تراجع">
 <!ENTITY editBookmark.undo.accessKey "ر">
