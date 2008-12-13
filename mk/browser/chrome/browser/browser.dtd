@@ -337,7 +337,6 @@
 <!ENTITY spellAddDictionaries.accesskey "а">
 <!ENTITY editBookmark.done.label "Во ред">
 <!ENTITY editBookmark.cancel.label "Откажи">
-<!ENTITY editBookmark.removeBookmark.label "Отстрани го обележувачот">
 <!ENTITY editBookmark.removeBookmark.accessKey "р">
 <!ENTITY editBookmark.undo.label "Врати">
 <!ENTITY editBookmark.undo.accessKey "В">

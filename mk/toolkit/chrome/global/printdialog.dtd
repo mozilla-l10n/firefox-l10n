@@ -12,7 +12,7 @@
 <!ENTITY printrangeGroup.label "Опсег на печатење">
 <!ENTITY allpagesRadio.label "Сите страници">
 <!ENTITY allpagesRadio.accesskey "р">
-<!ENTITY rangeRadio.label "Страници"
+<!ENTITY rangeRadio.label "Страници">
 <!ENTITY rangeRadio.accesskey  "р">
 <!ENTITY frompageInput.label "од">
 <!ENTITY frompageInput.accesskey  "о">
