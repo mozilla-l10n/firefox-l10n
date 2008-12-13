@@ -67,7 +67,6 @@
 <!ENTITY NickName.label                 "Bijnaam:">
 <!ENTITY NickName.accesskey             "B">
 
-<!ENTITY Internet.box                   "Internet">
 <!ENTITY PrimaryEmail.label             "E-mail:">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Alternatieve e-mail:">
