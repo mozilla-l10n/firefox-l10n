@@ -2,7 +2,7 @@
 <!ENTITY sanitizeDialog2.title "Limpiar el historial reciente">
 <!ENTITY sanitizeItems.label "Vaciar ahora los siguientes elementos:">
 <!ENTITY clearDataSettings2.label "Cuando cierre &brandShortName;, se debería borrar automáticamente:">
-<!ENTITY clearDuration.label "Eliminar">
+<!ENTITY clearDuration.label "Eliminar ">
 <!ENTITY clearDuration.lastHour "la última hora">
 <!ENTITY clearDuration.last2Hours "las últimas 2 horas">
 <!ENTITY clearDuration.last4Hours "las últimas 4 horas">
