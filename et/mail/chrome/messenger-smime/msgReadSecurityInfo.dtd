@@ -1,7 +1,7 @@
 <!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
 
 <!ENTITY status.label         "Kirja turvalisus">
-<!ENTITY signatureCert.label  "Vaata signatuuri sertifikaati">
+<!ENTITY signatureCert.label  "Vaata allkirja sertifikaati">
 <!ENTITY encryptionCert.label "Vaata krüptimise sertifikaati">
 
 <!ENTITY signer.name          "Allkirjastanud:">
