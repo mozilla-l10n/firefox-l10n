@@ -92,6 +92,7 @@
 <!ENTITY viewToolbarsMenuNew.label "Symbolleisten">
 <!ENTITY viewToolbarsMenuNew.accesskey "y">
 <!ENTITY showCompositionToolbarCmd.label "Verfassen-Symbolleiste">
+<!ENTITY showCompositionToolbarCmd.accesskey "V">
 <!ENTITY showFormattingBarCmd.label "Formatierungsleiste">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Statusleiste">
