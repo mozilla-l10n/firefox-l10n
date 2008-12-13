@@ -1,14 +1,14 @@
-<!ENTITY textZoomEnlargeCmd.label "Més gran">
-<!ENTITY textZoomEnlargeCmd.accesskey "g">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
-<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY zoomEnlargeCmd.label "Més gran">
+<!ENTITY zoomEnlargeCmd.accesskey "g">
+<!ENTITY zoomEnlargeCmd.commandkey "+">
+<!ENTITY zoomEnlargeCmd.commandkey2 "=">
 
-<!ENTITY textZoomReduceCmd.label "Més petit">
-<!ENTITY textZoomReduceCmd.accesskey "e">
-<!ENTITY textZoomReduceCmd.commandkey "-">
+<!ENTITY zoomReduceCmd.label "Més petit">
+<!ENTITY zoomReduceCmd.accesskey "e">
+<!ENTITY zoomReduceCmd.commandkey "-">
 
-<!ENTITY textZoomResetCmd.commandkey "0">
+<!ENTITY zoomResetCmd.commandkey "0">
 
-<!-- see textZoomOtherLabel in navigator.properties -->
-<!ENTITY textZoomMenu.accesskey "t">
-<!ENTITY textZoomOtherCmd.accesskey "t">
+<!-- see zoomOtherLabel in viewZoomOverlay.properties -->
+<!ENTITY zoomMenu.accesskey "t">
+<!ENTITY zoomOtherCmd.accesskey "t">

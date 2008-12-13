@@ -47,7 +47,6 @@
 <!ENTITY of.label "de">
 <!ENTITY scale.label "Escala:">
 <!ENTITY scale.accesskey      "s">
-<!ENTITY percent.label "&#037;">
 <!ENTITY portrait.label "Vertical">
 <!ENTITY portrait.accesskey "V">
 <!ENTITY landscape.label "Apaïsat">
