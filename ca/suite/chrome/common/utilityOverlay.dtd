@@ -38,12 +38,11 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "x">
 <!ENTITY deleteCmd.label "Suprimeix">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "u">
 <!ENTITY selectAllCmd.label "Selecciona-ho tot">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY preferencesCmd.label "Preferències...">
+<!ENTITY preferencesCmd.label "Preferències…">
 <!ENTITY preferencesCmd.key "E">
 <!ENTITY preferencesCmd.accesskey "e">
 <!ENTITY findTypeTextCmd.label "Cerca text a mesura que escric">
@@ -61,11 +60,10 @@
 <!ENTITY helpMenu.label "Ajuda">
 <!ENTITY helpMenu.accesskey "j">
 
-<!-- NOTE (whatNewCmd.label): This is not used in Mozilla but is used in Netscape -->
-<!ENTITY whatNewCmd.label "Novetats">
-
 <!ENTITY releaseCmd.label "Notes de la versió">
 <!ENTITY releaseCmd.accesskey "v">
+<!ENTITY updateCmd.label                        "Comprova si hi ha actualitzacions…">
+<!ENTITY updateCmd.accesskey                    "C">
 <!ENTITY aboutCmd.label "Quant al &brandShortName;">
 <!ENTITY aboutCmd.accesskey "a">
 <!ENTITY aboutCommPluginsCmd.label "Quant als connectors">
@@ -79,10 +77,34 @@
 <!ENTITY pac.accesskey "i">
 <!ENTITY wpad.label "En línia (servidor intermediari: descobriment automàtic)">
 <!ENTITY wpad.accesskey "d">
+<!ENTITY system.label                                   "En línia (servidor intermediari: propi del sistema)">
+<!ENTITY system.accesskey                               "s">
 
-<!ENTITY proxy.label "Configuració del servidor intermediari...">
+<!ENTITY proxy.label "Configuració del servidor intermediari…">
 <!ENTITY proxy.accesskey "C">
 
 <!ENTITY bidiSwitchTextDirectionItem.label        "Commuta la direcció del text">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "x">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
+<!ENTITY customizeToolbar.toolbarmode.label       "Paràmetres d'aquesta barra d'eines">
+<!ENTITY customizeToolbar.toolbarmode.accesskey   "t">
+<!ENTITY customizeToolbar.iconsAndText.label      "Icones i text">
+<!ENTITY customizeToolbar.iconsAndText.accesskey  "e">
+<!ENTITY customizeToolbar.icons.label             "Icones">
+<!ENTITY customizeToolbar.icons.accesskey         "I">
+<!ENTITY customizeToolbar.text.label              "Text">
+<!ENTITY customizeToolbar.text.accesskey          "T">
+<!ENTITY customizeToolbar.useSmallIcons.label     "Utilitza icones petites">
+<!ENTITY customizeToolbar.useSmallIcons.accesskey "s">
+<!ENTITY customizeToolbar.labelAlignEnd.label     "Mostra el text al costat de les icones">
+<!ENTITY customizeToolbar.labelAlignEnd.accesskey "c">
+<!ENTITY customizeToolbar.useDefault.label        "Utilitza els paràmetres per defecte">
+<!ENTITY customizeToolbar.useDefault.accesskey    "d">
+
+<!-- Popup Blocked notification menu -->
+<!ENTITY allowPopups.accesskey        "e">
+<!ENTITY showPopupManager.label       "Gestiona les finestres emergents">
+<!ENTITY showPopupManager.accesskey   "G">
+<!ENTITY dontShowMessage.label        "No mostris aquest missatges quan es bloquin emergents">
+<!ENTITY dontShowMessage.accesskey    "N">

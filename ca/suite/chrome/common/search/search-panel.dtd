@@ -20,18 +20,13 @@
   --> 
 
 <!ENTITY search.button.label "Cerca">
-<!ENTITY search.results.tab "Aplica">
-<!ENTITY search.advanced.tab "Paràmetres per a ">
 <!ENTITY allengines.label "Tots els motors de cerca">
 <!ENTITY within.label "dins">
 <!ENTITY using.label "utilitzant">
 <!ENTITY choose.label "Trieu els motors de cerca i feu clic a Cerca">
 <!ENTITY results.label "Resultats de la cerca">
 <!ENTITY engine.column.label "Motors de cerca">
-<!ENTITY checkbox.column.label "Utilitza">
-<!ENTITY stop.button.label "Atura">
 <!ENTITY customize.menuitem.label "Edita les categories...">
-<!ENTITY savesearch.button.label "Desa aquesta cerca a les adreces d'interès">
 <!ENTITY next.button.label "Següent">
 <!ENTITY previous.button.label "Anterior">
 <!ENTITY next.button.tooltip "Mostra els resultats de la cerca següent">

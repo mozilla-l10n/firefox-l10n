@@ -1,21 +1,16 @@
-
 <!ENTITY migrationWizard.title "Auxiliar d'importació">
 
-<!ENTITY importFromWin.label "Importa les opcions, paràmetres de compte, llibreta d'adreces i altres dades des de:">
-<!ENTITY importFromNonWin.label "Importa les preferències, paràmetres dels comptes, llibreta d'adreces i altres dades des de:">
+<!ENTITY importAllFrom.label             "Importa-ho tot de:">
+<!ENTITY importBookmarksFrom.label       "Importa les adreces d'interès de:">
 
 <!ENTITY importFromNothing.label "No importis res">
 <!ENTITY importFromNothing.accesskey "r">
 <!ENTITY importFromSeamonkey.label "Netscape 6, 7 or Mozilla 1.x">
 <!ENTITY importFromSeamonkey.accesskey "N">
-<!ENTITY importFromNetscape4.label "Netscape 4.x">
-<!ENTITY importFromNetscape4.accesskey "4">
-<!ENTITY importFromOExpress.label "Outlook Express">
-<!ENTITY importFromOExpress.accesskey "u">
-<!ENTITY importFromOutlook.label "Outlook">
-<!ENTITY importFromOutlook.accesskey "O">
-<!ENTITY importFromEudora.label "Eudora">
-<!ENTITY importFromEudora.accesskey "E">
+<!ENTITY importFromThunderbird.label     "Thunderbird">
+<!ENTITY importFromThunderbird.accesskey "T">
+<!ENTITY importFromFile.label            "Fitxer">
+<!ENTITY importFromFile.accesskey        "F">
 
 <!ENTITY importSource.title "Importació de la configuració i les carpetes de correu">
 <!ENTITY importItems.title "Elements per importar">

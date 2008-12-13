@@ -22,3 +22,8 @@
 <!ENTITY openHelpCmd.label          "Continguts de l'ajuda">
 <!ENTITY openHelpCmd.accesskey      "j">
 <!ENTITY openHelpCmd.key            "VK_F1">
+
+<!-- Key labels, for mousewheel prefs -->
+<!ENTITY ctrlKey.label                  "Ctrl">
+<!ENTITY altKey.label                   "Alt">
+<!ENTITY shiftKey.label                 "Maj">

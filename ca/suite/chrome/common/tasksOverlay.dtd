@@ -8,21 +8,14 @@
 <!ENTITY editorCmd.accesskey "c">
 <!ENTITY editorCmd.commandkey "4">
 
-<!ENTITY securityInfoCmd.label ".Informació de seguretat">
-<!ENTITY securityInfoCmd.accesskey "s">
 <!ENTITY javaConsoleCmd.label "Consola de Java">
 <!ENTITY javaConsoleCmd.accesskey "j">
 
 <!ENTITY errorConsoleCmd.label "Consola d'errors">
 <!ENTITY errorConsoleCmd.accesskey "C">
 
-<!-- LOCALIZATION NOTE (privacyMenu.label): DONT_TRANSLATE -->
-<!ENTITY privacyMenu.label "Privadesa i seguretat">
-<!ENTITY privacyMenu.accesskey "p">
-
 <!ENTITY taskNavigator.tooltip "Navegador">
 <!ENTITY taskComposer.tooltip "Redactor">
-<!ENTITY taskBar.tooltip "Barra d'estat">
 
 <!ENTITY webDevelopment.label "Desenvolupament web">
 <!ENTITY webDevelopment.accesskey "W">
@@ -34,7 +27,10 @@
 <!ENTITY tasksMenu.accesskey "t">
 
 <!ENTITY downloadManagerCmd.label "Gestor de baixades">
-<!ENTITY downloadManagerCmd.accesskey "D">
+<!ENTITY downloadManagerCmd.accesskey "b">
 
-<!ENTITY switchProfileCmd.label "Commuta el perfil...">
+<!ENTITY addonsManagerCmd.label "Gestor de complements">
+<!ENTITY addonsManagerCmd.accesskey "G">
+
+<!ENTITY switchProfileCmd.label "Commuta el perfil…">
 <!ENTITY switchProfileCmd.accesskey "p">
