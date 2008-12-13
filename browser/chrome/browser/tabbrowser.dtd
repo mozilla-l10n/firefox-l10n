@@ -9,7 +9,7 @@
 <!ENTITY reloadAllTabs.accesskey "a">
 <!ENTITY reloadTab.label "Recargar pestaña">
 <!ENTITY reloadTab.accesskey "r">
-<!ENTITY listAllTabs.label "Listar todas las pestañas">
+<!ENTITY listAllTabs.label "Mostrar todas las pestañas">
 <!ENTITY bookmarkAllTabs.label "Añadir todas las pestañas abiertas a marcadores…">
 <!ENTITY bookmarkAllTabs.accesskey "t">
 <!ENTITY bookmarkThisTab.label "Añadir esta pestaña a marcadores">
