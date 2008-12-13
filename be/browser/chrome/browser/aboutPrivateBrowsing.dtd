@@ -3,7 +3,7 @@
 <!ENTITY privatebrowsingpage.issueDesc "&brandShortName; не будзе запамінаць гістроыю для гэтай сэсіі.">
 <!ENTITY privatebrowsingpage.longDesc "Гісторыя не будзе запісвацца &brandShortName; пад час гэтай сэсіі азірання.  У тым ліку гісторыя азірання, гісторыя пошуку, гісторыя загрузак, гісторыя формаў Сеціва, біркі, часовыя файлы інтэрнету.  Аднак усякія файлы, якія вы загрузіце, ці закладкі, якія вы створыце, будуць захованы.">
 <!ENTITY privatebrowsingpage.clearRecentHistoryDesc "Можа вы хочаце пачаць, ачысціўшы вашу нядаўнюю гісторыю.">
-<!ENTITY privatebrowsingpage.recentHistory.label "Ачысціць нядаўнюю гісторыю">
-<!ENTITY privatebrowsingpage.recentHistory.accesskey "ч">
+<!ENTITY privatebrowsingpage.clearRecentHistory.label "Ачысціць нядаўнюю гісторыю…">
+<!ENTITY privatebrowsingpage.clearRecentHistory.accesskey "ч">
 <!ENTITY privatebrowsingpage.howToStopDesc 'Каб спыніць адасобленае азіранне, прыміце адзнаку з Прылады &gt; "Адасобленае азіранне".'>
 <!ENTITY privatebrowsingpage.footerDesc "Атрымайце асалоду!">

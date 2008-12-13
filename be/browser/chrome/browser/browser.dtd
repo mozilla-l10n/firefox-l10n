@@ -316,7 +316,6 @@
 <!ENTITY spellAddDictionaries.accesskey "с">
 <!ENTITY editBookmark.done.label "Гатова">
 <!ENTITY editBookmark.cancel.label "Скасаваць">
-<!ENTITY editBookmark.removeBookmark.label "Выдаліць закладку">
 <!ENTITY editBookmark.removeBookmark.accessKey "д">
 <!ENTITY editBookmark.undo.label "Вярнуць">
 <!ENTITY editBookmark.undo.accessKey "В">
