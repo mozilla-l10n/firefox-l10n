@@ -15,7 +15,7 @@
 <!ENTITY view.toolbar.accesskey "B">
 <!ENTITY view.columns.label "Mostrar columnas">
 <!ENTITY view.columns.accesskey "M">
-<!ENTITY view.sort.label "Listar">
+<!ENTITY view.sort.label "Ordenar">
 <!ENTITY view.sort.accesskey "S">
 <!ENTITY view.unsorted.label "Sin ordenar">
 <!ENTITY view.unsorted.accesskey "S">
