@@ -47,8 +47,7 @@
 <!ENTITY shortcutURL.label "Paraula clau:">
 <!ENTITY shortcutURL.accesskey "r">
 <!ENTITY destination.label "Destí:">
-<!ENTITY destination.accesskey "D">
-<!ENTITY newFolder.label "Nova carpeta...">
+<!ENTITY newFolder.label "Nova carpeta…">
 <!ENTITY newFolder.accesskey "v">
 <!ENTITY addGroup.label "Arxiva com a grup">
 <!ENTITY addGroup.accesskey "A">

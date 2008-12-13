@@ -15,8 +15,6 @@
 <!ENTITY openFrameCmdInTab.accesskey "T">
 <!ENTITY showOnlyThisFrameCmd.label "Mostra només aquest marc">
 <!ENTITY showOnlyThisFrameCmd.accesskey "m">
-<!ENTITY addToBookmarksCmd.label "Afegeix a les adreces d'interès">
-<!ENTITY addToBookmarksCmd.accesskey "f">
 <!ENTITY goBackCmd.label "Enrere">
 <!ENTITY goBackCmd.accesskey "e">
 <!ENTITY goForwardCmd.label "Endavant">
@@ -43,6 +41,8 @@
 <!ENTITY viewFrameInfoCmd.accesskey "r">
 <!ENTITY fitImageCmd.label "Ajusta la imatge a la finestra">
 <!ENTITY fitImageCmd.accesskey "A">
+<!ENTITY reloadImageCmd.label         "Actualitza la imatge">
+<!ENTITY reloadImageCmd.accesskey     "e">
 <!ENTITY viewImageCmd.label "Visualitza la imatge">
 <!ENTITY viewImageCmd.accesskey "V">
 <!ENTITY viewBGImageCmd.label "Visualitza la imatge de fons">
@@ -68,6 +68,10 @@
 <!ENTITY saveImageAsCmd.label         "Anomena i desa la imatge...">
 <!ENTITY saveImageCmd.label "Anomena i desa la imatge...">
 <!ENTITY saveImageCmd.accesskey "i">
+<!ENTITY saveVideoCmd.label           "Anomena i desa el vídeo…">
+<!ENTITY saveVideoCmd.accesskey       "v">
+<!ENTITY saveAudioCmd.label           "Anomena i desa l'àudio…">
+<!ENTITY saveAudioCmd.accesskey       "d">
 <!ENTITY copyCmd.label "Copia">
 <!ENTITY copyCmd.accesskey "c">
 <!ENTITY selectAllCmd.label "Selecciona-ho tot">
@@ -76,6 +80,10 @@
 <!ENTITY copyLinkCmd.accesskey "n">
 <!ENTITY copyImageCmd.label "Copia la ubicació de la imatge">
 <!ENTITY copyImageCmd.accesskey "m">
+<!ENTITY copyVideoURLCmd.label        "Copia la ubiació del vídeo">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Copia la ubicació de l'àudio">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY metadataCmd.label "Propietats">
 <!ENTITY metadataCmd.accesskey "P">
 <!ENTITY copyEmailCmd.label "Copia l'adreça electrònica">
@@ -92,15 +100,29 @@
 <!ENTITY redoCmd.accesskey "R">
 <!ENTITY thisFrameMenu.label "Aquest marc">
 <!ENTITY thisFrameMenu.accesskey "t">
-<!ENTITY search.accesskey "W">
+<!ENTITY mediaPlay.label              "Reprodueix">
+<!ENTITY mediaPlay.accesskey          "p">
+<!ENTITY mediaPause.label             "Atura">
+<!ENTITY mediaPause.accesskey         "t">
+<!ENTITY mediaMute.label              "Sense so">
+<!ENTITY mediaMute.accesskey          "n">
+<!ENTITY mediaUnmute.label            "Amb so">
+<!ENTITY mediaUnmute.accesskey        "m">
+<!ENTITY mediaShowControls.label      "Mostra els controls multimèdia">
+<!ENTITY mediaShowControls.accesskey  "a">
+<!ENTITY mediaHideControls.label      "Amaga els controls multimèdia">
+<!ENTITY mediaHideControls.accesskey  "a">
+<!ENTITY search.accesskey "r">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Commuta la direcció de la pàgina">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Commuta la direcció del text">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "x">
 <!ENTITY spellAddToDictionary.label     "Afegeix al diccionari">
 <!ENTITY spellAddToDictionary.accesskey "d">
-<!ENTITY spellEnable.label              "Verifica l'ortografia d'aquest camp">
-<!ENTITY spellEnable.accesskey          "V">
+<!ENTITY spellIgnoreWord.label          "Ignora la paraula">
+<!ENTITY spellIgnoreWord.accesskey      "p">
+<!ENTITY spellCheckEnable.label              "Verifica l'ortografia">
+<!ENTITY spellCheckEnable.accesskey          "V">
 <!ENTITY spellNoSuggestions.label       "(No hi ha cap suggeriment)">
 <!ENTITY spellDictionaries.label        "Llengües">
 <!ENTITY spellDictionaries.accesskey    "L">
