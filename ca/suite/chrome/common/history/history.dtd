@@ -1,35 +1,47 @@
-<!-- extracted from ./history.xul -->
+<!-- history.xul, history-panel.xul, placesOverlay.xul -->
 
-<!ENTITY menuBar.tooltip "Barra de menús">
-<!ENTITY fileMenu.label "Fitxer">
-<!ENTITY closeCmd.label "Tanca">
-<!ENTITY editMenu.label "Edita">
-<!ENTITY undoCmd.label "Desfés">
-<!ENTITY redoCmd.label "Refés">
-<!ENTITY cutCmd.label "Retalla">
-<!ENTITY copyCmd.label "Copia">
-<!ENTITY pasteCmd.label "Enganxa">
-<!ENTITY deleteCmd.label "Suprimeix">
-<!ENTITY deleteHostnameCmd.accesskey "l">
-<!ENTITY deleteDomainCmd.accesskey "o">
-<!ENTITY selAllCmd.label "Selecciona-ho tot">
-<!ENTITY findHisCmd.label "Cerca a l'historial">
-<!ENTITY findHisCmd.commandkey "f">
-<!ENTITY findHisCmd.accesskey "s">
-<!ENTITY groupBy.label "Agrupa per">
-<!ENTITY groupBy.accesskey "G">
-<!ENTITY groupByDay.label "Dia">
-<!ENTITY groupByDay.accesskey "D">
-<!ENTITY groupBySite.label "Lloc">
-<!ENTITY groupBySite.accesskey "L">
-<!ENTITY groupByNone.label "Cap">
-<!ENTITY groupByNone.accesskey "C">
-<!ENTITY historyWindowTitle.label "Historial">
-<!ENTITY menuitem.view.unsorted.label "Sense ordenar">
-<!ENTITY menuitem.view.unsorted.accesskey "r">
-<!ENTITY menuitem.view.ascending.label "Ordenació A > Z">
-<!ENTITY menuitem.view.ascending.accesskey "a">
-<!ENTITY menuitem.view.descending.label "Ordenació Z > A">
-<!ENTITY menuitem.view.descending.accesskey "z">
-<!ENTITY menuitem.view.show_columns.label "Mostra les columnes">
-<!ENTITY menuitem.view.show_columns.accesskey "s">
+<!ENTITY historyWindowTitle.label       "Historial">
+<!ENTITY menuBar.tooltip                "Barra del menú">
+<!ENTITY searchBar.tooltip              "Barra de cerca">
+
+<!ENTITY search.emptytext               "Cerca l'historial">
+<!ENTITY search.key                     "f">
+<!ENTITY view.label                     "Visualitza">
+<!ENTITY byDate.label                   "Per data">
+<!ENTITY byDate.accesskey               "d">
+<!ENTITY bySite.label                   "Per lloc web">
+<!ENTITY bySite.accesskey               "w">
+<!ENTITY byMostVisited.label            "Per més visitat">
+<!ENTITY byMostVisited.accesskey        "v">
+<!ENTITY byLastVisited.label            "Per darrera visita">
+<!ENTITY byLastVisited.accesskey        "d">
+<!ENTITY byDayAndSite.label             "Per data i lloc web">
+<!ENTITY byDayAndSite.accesskey         "t">
+
+<!ENTITY view.columns.label             "Mostra les columnes">
+<!ENTITY view.columns.accesskey         "C">
+<!ENTITY view.sort.label                "Ordena">
+<!ENTITY view.sort.accesskey            "O">
+<!ENTITY view.unsorted.label            "Sense ordenar">
+<!ENTITY view.unsorted.accesskey        "r">
+<!ENTITY view.sortAscending.label       "Ordenació A > Z">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Ordenació Z > A">
+<!ENTITY view.sortDescending.accesskey  "Z">
+
+<!ENTITY cmd.open.label                 "Obre">
+<!ENTITY cmd.open.accesskey             "O">
+<!ENTITY cmd.open_window.label          "Obre l'enllaç en una nova finestra">
+<!ENTITY cmd.open_window.accesskey      "n">
+<!ENTITY cmd.open_tab.label             "Obre l'enllaç en una nova pestanya">
+<!ENTITY cmd.open_tab.accesskey         "t">
+<!ENTITY cmd.open_all_in_tabs.label     "Obre-ho tot en pestanyes">
+<!ENTITY cmd.open_all_in_tabs.accesskey "O">
+
+<!ENTITY bookmarkCmd.label              "Afegeix aquest enllaç a les adreces d'interès…">
+<!ENTITY bookmarkCmd.accesskey          "d">
+
+<!ENTITY col.title.label                "Títol">
+<!ENTITY col.url.label                  "Ubicació">
+<!ENTITY col.lastvisit.label            "Darrera visita">
+<!ENTITY col.visitcount.label           "Nombre de visites">

@@ -13,8 +13,8 @@
 <!ENTITY sortBy.lastVisitDate.label "Visitada per darrer cop el">
 
 <!ENTITY sortOrder.label "Tipus d'ordenació:">
-<!ENTITY sortOrder.ascending.label "A > Z">
-<!ENTITY sortOrder.descending.label "Z > A">
+<!ENTITY sortAscending.label "Ascendent">
+<!ENTITY sortDescending.label "Descendent">
 
 <!ENTITY sortFoldersFirst.label "Ordena primer les carpetes">
 <!ENTITY sortRecursively.label "Ordena de manera recursiva">

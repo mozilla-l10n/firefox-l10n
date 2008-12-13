@@ -43,50 +43,49 @@
 <!-- extracted from ./bookmarks.xul -->
 <!ENTITY menuBar.tooltip "Barra de menús">
 <!ENTITY bookmarkToolbar.tooltip "Barra de les adreces d'interès">
-<!ENTITY bookmarksSearch.tooltip "Barra de cerca de les adreces d'interès">
 <!ENTITY menuitem.newBookmark.label "Adreça d'interès">
-<!ENTITY command.newBookmark.accesskey "d">
+<!ENTITY menuitem.newBookmark.accesskey "d">
 <!ENTITY menuitem.newFolder.label "Carpeta">
 <!ENTITY button.newFolder.label "Nova carpeta">
 <!ENTITY button.newFolder.accesskey "N">
-<!ENTITY command.newFolder.accesskey "C">
+<!ENTITY menuitem.newFolder.accesskey "C">
 <!ENTITY menuitem.newSeparator.label "Separador">
 <!ENTITY button.newSeparator.label "Nou separador">
 <!ENTITY button.newSeparator.accesskey "e">
-<!ENTITY command.newSeparator.accesskey "s">
-<!ENTITY menuitem.open.label "Obre el fitxer de les adreces d'interes...">
+<!ENTITY menuitem.newSeparator.accesskey "s">
+<!ENTITY menuitem.open.label "Obre el fitxer de les adreces d'interes…">
 <!ENTITY menuitem.open.accesskey "O">
-<!ENTITY menuitem.import.label "Importa les adreces d'interès...">
+<!ENTITY menuitem.import.label "Importa les adreces d'interès…">
 <!ENTITY menuitem.import.accesskey "i">
-<!ENTITY menuitem.export.label "Exporta les adreces d'interès...">
+<!ENTITY menuitem.export.label "Exporta les adreces d'interès…">
 <!ENTITY menuitem.export.accesskey "e">
-<!ENTITY menuitem.find.label "Cerca a les adreces d'interès...">
-<!ENTITY command.findBookmarks.label "Cerca...">
+<!ENTITY menuitem.find.label "Cerca a les adreces d'interès…">
+<!ENTITY command.findBookmarks.label "Cerca…">
+<!ENTITY menuitem.properties.label     "Propietats…">
+<!ENTITY menuitem.properties.accesskey "o">
+<!ENTITY menuitem.properties.key       "I">
 <!ENTITY menuitem.find.accesskey "e">
-<!ENTITY edit.find.keybinding "f">
-<!ENTITY command.properties.label "Propietats...">
+<!ENTITY menuitem.find.find.key "F">
+<!ENTITY button.properties.label "Propietats…">
 <!ENTITY button.properties.accesskey "P">
-<!ENTITY command.properties.accesskey "i">
-<!ENTITY edit.properties.keybinding "i">
-<!ENTITY command.rename.label "Reanomena...">
+<!ENTITY button.rename.label           "Reanomena…">
 <!ENTITY button.rename.accesskey "R">
-<!ENTITY command.delete.label "Suprimeix">
-<!ENTITY button.delete.accesskey "S">
-<!ENTITY command.moveBookmark.label "Desplaça les adreces d'interès...">
-<!ENTITY command.moveBookmarkShort.label "Desplaça...">
-<!ENTITY command.moveBookmark.accesskey "s">
-<!ENTITY command.addBookmark.label "Afegeix...">
+<!ENTITY button.delete.label           "Suprimeix">
+<!ENTITY button.delete.accesskey "u">
+<!ENTITY menuitem.moveBookmark.label   "Mou les adreces d'interès…">
+<!ENTITY menuitem.moveBookmark.accesskey "M">
+<!ENTITY button.moveBookmark.label "Desplaça les adreces d'interès…">
+<!ENTITY button.moveBookmark.accesskey "s">
+<!ENTITY command.addBookmark.label "Afegeix…">
 <!ENTITY command.manageBookmarks.label "Gestiona">
-<!ENTITY command.sortFolder.label "Ordena la carpeta...">
+<!ENTITY command.sortFolder.label "Ordena la carpeta…">
 <!ENTITY command.sortFolder.accesskey "O">
-<!ENTITY edit.sortFolder.keybinding    "S">
+<!ENTITY command.sortFolder.key    "S">
 <!ENTITY command.sortFolderByName.label "Ordena la carpeta per nom">
 <!ENTITY command.sortFolderByName.accesskey "n">
 
 <!ENTITY menuitem.view.command.toolbar.label "Barra d'eines">
 <!ENTITY menuitem.view.command.toolbar.accesskey "n">
-<!ENTITY menuitem.view.command.searchbar.label "Barra de cerca">
-<!ENTITY menuitem.view.command.searchbar.accesskey "c">
 <!ENTITY menuitem.view.show_columns.label "Mostra les columnes">
 <!ENTITY menuitem.view.show_columns.accesskey "s">
 <!ENTITY menuitem.newbookmarkfolder.label "Estableix com a carpeta nova d'adreces d'interès">
@@ -97,25 +96,18 @@
 <!ENTITY menuitem.personaltoolbarfolder.accesskey "p">
 
 <!ENTITY treecol.name.label "Nom">
-<!ENTITY treecol.name.accesskey "n">
 <!ENTITY treecol.name.tooltip "Feu clic per a ordenar per nom">
 <!ENTITY treecol.url.label "Ubicació">
-<!ENTITY treecol.url.accesskey "U">
 <!ENTITY treecol.url.tooltip "Feu clic per a ordenar per ubicació">
 <!ENTITY treecol.shortcut.label "Paraula clau">
-<!ENTITY treecol.shortcut.accesskey "c">
 <!ENTITY treecol.shortcut.tooltip "Feu clic per a ordenar per paraula clau">
 <!ENTITY treecol.description.label "Descripció">
-<!ENTITY treecol.description.accesskey "D">
 <!ENTITY treecol.description.tooltip "Feu clic per a ordenar per descripció">
 <!ENTITY treecol.addedon.label "Afegit">
-<!ENTITY treecol.addedon.accesskey "f">
 <!ENTITY treecol.addedon.tooltip "Feu clic per a ordenar per afegit">
 <!ENTITY treecol.lastmod.label "Darrera modificació">
-<!ENTITY treecol.lastmod.accesskey "m">
 <!ENTITY treecol.lastmod.tooltip "Feu clic per a ordenar per darrera modificació">
 <!ENTITY treecol.lastvisit.label "Darrera visita">
-<!ENTITY treecol.lastvisit.accesskey "v">
 <!ENTITY treecol.lastvisit.tooltip "Feu clic per a ordenar per darrera visita">
 
 <!ENTITY bookmarksWindowTitle.label "Gestor d'adreces d'interès">
