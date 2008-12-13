@@ -6,6 +6,8 @@
 <!ENTITY proxyTitle.label "Configura els servidors intermediaris per accedir a Internet">
 <!ENTITY directTypeRadio.label "Connexió directa a Internet">
 <!ENTITY directTypeRadio.accesskey "d">
+<!ENTITY  systemTypeRadio.label         "Utitlitza els paràmetres de servidor intermediari del sistema">
+<!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY manualTypeRadio.label "Configuració manual del servidor intermediari">
 <!ENTITY manualTypeRadio.accesskey "m">
 <!ENTITY  wpadTypeRadio.label           "Descobreix automàticament la configuració del servidor intermediari">
@@ -17,7 +19,7 @@
 <!ENTITY http.label "Servidor intermediari HTTP:">
 <!ENTITY http.accesskey "H">
 <!ENTITY port.label "Port:">
-<!ENTITY HTTPport.accesskey "o">
+<!ENTITY HTTPPort.accesskey "o">
 <!ENTITY  advanced.label                "Avançat...">
 <!ENTITY  advanced.accesskey            "v">
 <!ENTITY noproxy.label "Cap servidor per a:">

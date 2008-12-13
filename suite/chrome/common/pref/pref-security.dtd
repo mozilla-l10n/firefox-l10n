@@ -40,5 +40,21 @@
 
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
 <!ENTITY pref.security.title              "Privadesa i seguretat">
-<!ENTITY rContent1 "Les preferències de privadesa i seguretat determinen la manera com el vostre navegador emplena els formularis i les contrasenyes, com es comporta amb les galetes i les imatges, i com utilitza els certificats i les targetes inteŀligents.">
-<!ENTITY rContent2 "Si no es veu cap subcategoria a l'esquerra, sota Privadesa i seguretat, feu clic al triangle per a expandir la llista.">
+
+<!ENTITY privateData.label                "Dades privades">
+
+<!ENTITY alwaysClear.label                "Neteja sempre les meves dades privades quan tanqui el &brandShortName;">
+<!ENTITY alwaysClear.accesskey            "q">
+
+<!ENTITY askBeforeClear.label             "Demana-m'ho abans de netejar les dades privades">
+<!ENTITY askBeforeClear.accesskey         "D">
+
+<!ENTITY clearDataSettings.label          "Quan demani al &brandShortName; les meves dades privades, hauria d'esborrar:">
+
+<!--LOCALIZATION NOTE (clearDataDialog.label, clearDataSilent.label, clearDataDialog.accesskey):
+  The only difference bettween the two labels is that one calls a dialog, the other doesn't.
+  The same accesskey is used for both labels.
+-->
+<!ENTITY clearDataDialog.label            "Neteja-ho ara…">
+<!ENTITY clearDataSilent.label            "Neteja-ho ara">
+<!ENTITY clearDataDialog.accesskey        "N">

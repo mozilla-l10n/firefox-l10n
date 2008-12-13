@@ -23,8 +23,9 @@
 <!ENTITY socksRemoteDNS.label "Utilitza-ho per a resoldre noms de servidors centrals (recomanable per a SOCKS v5)">
 <!ENTITY socksRemoteDNS.accesskey "e">
 <!ENTITY port.label "Port:">
-<!ENTITY HTTPport.accesskey "P">
-<!ENTITY SSLport.accesskey "o">
-<!ENTITY FTPport.accesskey "r">
+<!ENTITY HTTPPort.accesskey "P">
+<!ENTITY SSLPort.accesskey "o">
+<!ENTITY FTPPort.accesskey "r">
+<!ENTITY  gopherPort.accesskey        "">
 <!-- No accesskey for gopher (':' doesn't go well) -->
 <!ENTITY SOCKSport.accesskey "t">

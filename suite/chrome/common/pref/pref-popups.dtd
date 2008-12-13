@@ -2,8 +2,6 @@
 
 <!ENTITY pref.popups.caption "Finestres emergents">
 
-<!ENTITY popupDesc.label "Especifica com gestionar les finestres emergents que apareixen davant o darrere de la finestra actual del navegador:">
-
 <!ENTITY popupBlock.label "Bloca les finestres emergents no soŀlicitades">
 <!ENTITY popupBlock.accesskey "B">
 
@@ -12,16 +10,24 @@
 
 <!ENTITY whenBlock.description "Quan una finestra emergent ha estat blocada:">
 <!ENTITY playSound.label "Reprodueix un so:">
-<!ENTITY playSound.accesskey            "s">
+<!ENTITY playSound.accesskey            "p">
+<!ENTITY systemSound.label              "Bip del sistema">
+<!ENTITY systemSound.accesskey          "s">
+<!ENTITY customSound.label              "Fitxer de so personalitzat">
+<!ENTITY customSound.accesskey          "z">
 
 <!ENTITY selectSound.label "Selecciona...">
 <!ENTITY selectSound.accesskey "e">
 <!ENTITY previewSound.label "Exemple">
 <!ENTITY previewSound.accesskey "x">
 <!ENTITY selectSound.title "Selecciona el so de blocatge d'emergents">
+<!ENTITY selectSound.filter             "Sons">
 
 <!ENTITY displayIcon.label "Mostra una icona en la barra d'estat del navegador">
 <!ENTITY displayIcon.accesskey          "M">
+
+<!ENTITY displayNotification.label      "Mostra una barra de notíficació a la part superior de l'àrea de contingut">
+<!ENTITY displayNotification.accesskey  "n">
 
 <!ENTITY popupNote.description "Nota: Blocar totes les finestres emergents pot impedir que característiques importants d'alguns llocs web funcionin, com ara les finestres d'inici de sessió de llocs de compra o dels bancs. Per a més detalls de com permetre que uns llocs específics utilitzin emergents, mentre es bloca uns altres, feu clic a Ajuda. Fins i tot una vegada blocats, alguns llocs poden utilitzar altres mètodes per a mostrar emergents.">
 
