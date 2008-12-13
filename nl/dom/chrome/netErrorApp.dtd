@@ -2,8 +2,8 @@
      file, all messages that likely don't need to tie into app-specific UI
      should go into netError.dtd -->
 
-<!ENTITY securityOverride.linkText "Of u voegt een uitzondering toe…">
+<!ENTITY securityOverride.linkText "Of u kunt een uitzondering toevoegen…">
 <!ENTITY securityOverride.warningText "
-<p>U zou geen uitzondering moeten toevoegen als u een internetverbinding gebruikt die u niet volledig vertrouwt of als u normaal geen waarschuwingen krijgt voor deze server.</p>
-<p>Als u toch een uitzondering wilt toevoegen voor deze pagina, kunt u dat doen in uw uitgebreide encryptie-instellingen.</p>
+<p>U kunt beter geen uitzondering toevoegen als u een internetverbinding gebruikt die u niet volledig vertrouwt, of als u normaal gesproken geen waarschuwing krijgt voor deze server.</p>
+<p>Als u nog steeds een uitzondering voor deze website wilt toevoegen, kunt u dat doen in uw uitgebreide encryptie-instellingen.</p>
 ">

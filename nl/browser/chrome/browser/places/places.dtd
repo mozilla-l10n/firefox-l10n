@@ -73,8 +73,8 @@
 
 <!ENTITY cmd.delete.label               "Deze pagina verwijderen">
 <!ENTITY cmd.delete.accesskey           "D">
-<!ENTITY cmd.deleteDomainData.label     "Vergeet deze site">
-<!ENTITY cmd.deleteDomainData.accesskey "v">
+<!ENTITY cmd.deleteDomainData.label     "Deze website vergeten">
+<!ENTITY cmd.deleteDomainData.accesskey "e">
 
 <!ENTITY cmd.open.label                  "Openen">
 <!ENTITY cmd.open.accesskey              "O">

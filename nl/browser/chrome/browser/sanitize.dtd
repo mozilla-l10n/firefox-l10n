@@ -2,11 +2,11 @@
 <!ENTITY sanitizeDialog2.title         "Recente geschiedenis opruimen">
 
 <!ENTITY sanitizeItems.label          "De volgende gegevens nu wissen:">
-<!ENTITY clearDataSettings2.label     "Als ik &brandShortName; afsluit, moet het automatisch het volgende wissen:">
+<!ENTITY clearDataSettings2.label     "Als ik &brandShortName; afsluit, automatisch het volgende wissen:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 
-<!ENTITY clearDuration.label          "Verwijder ">
+<!ENTITY clearDuration.label          "Verwijderen: ">
 <!ENTITY clearDuration.lastHour       "het laatste uur">
 <!ENTITY clearDuration.last2Hours     "de laatste 2 uur">
 <!ENTITY clearDuration.last4Hours     "de laatste 4 uur">
@@ -17,11 +17,11 @@ that require it.  -->
 <!ENTITY clearDuration.suffix         "">
 
 <!ENTITY historySection.label         "Geschiedenis">
-<!ENTITY dataSection.label            "Data">
+<!ENTITY dataSection.label            "Gegevens">
 
-<!ENTITY itemVisitedPages.label       "Bezochte pagina's">
-<!ENTITY itemVisitedPages.accesskey   "b">
-<!ENTITY itemFormSearchEntries.label  "Formulier &amp; zoekopdrachten">
+<!ENTITY itemVisitedPages.label       "Bezochte pagina’s">
+<!ENTITY itemVisitedPages.accesskey   "B">
+<!ENTITY itemFormSearchEntries.label  "Formulier- &amp; zoekinvoer">
 <!ENTITY itemFormSearchEntries.accesskey "F">
 <!ENTITY itemPasswords.label          "Opgeslagen wachtwoorden">
 <!ENTITY itemPasswords.accesskey      "w">
@@ -33,8 +33,8 @@ that require it.  -->
 <!ENTITY itemOfflineApps.accesskey    "O">
 <!ENTITY itemDownloadList.label       "Downloadlijst">
 <!ENTITY itemDownloadList.accesskey   "D">
-<!ENTITY itemActiveLogins.label       "Actieve logins">
-<!ENTITY itemActiveLogins.accesskey   "L">
+<!ENTITY itemActiveLogins.label       "Actieve aanmeldingen">
+<!ENTITY itemActiveLogins.accesskey   "A">
 
 <!ENTITY window.width                 "30em">
 <!ENTITY column.width                 "14em">

@@ -1,13 +1,13 @@
-<!ENTITY privatebrowsingpage.tabtitle                  "Privénavigeren">
+<!ENTITY privatebrowsingpage.tabtitle                  "Privé navigeren">
 
-<!ENTITY privatebrowsingpage.pagetitle                 "Privénavigeren">
+<!ENTITY privatebrowsingpage.pagetitle                 "Privé navigeren">
 
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; zal geen geschiedenis bijhouden van deze sessie.">
-<!ENTITY privatebrowsingpage.longDesc                  "Er zal geen geschiedenis worden opgeslagen door &brandShortName; gedurende deze navigeersessie.  Dit bevat bladergeschiedenis, zoekgeschiedenis, downloadgeschiedenis,  webformuliergeschiedenis, cookies en tijdelijke internetbestanden.  Maar bestanden die u downloadt of bladwijzers die u aanmaakt zullen wel worden bewaard.">
+<!ENTITY privatebrowsingpage.longDesc                  "Gedurende deze navigatiesessie zal geen geschiedenis door &brandShortName; worden opgeslagen. Hieronder vallen navigatiegeschiedenis, zoekgeschiedenis, downloadgeschiedenis, webformuliergeschiedenis, cookies en tijdelijke internetbestanden. Bestanden die u downloadt of bladwijzers die u aanmaakt zullen echter wel worden bewaard.">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "U wilt wellicht starten met ook uw recente geschiedenis te wissen.">
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "Misschien wilt u beginnen met het wissen van uw recente geschiedenis.">
 <!ENTITY privatebrowsingpage.clearRecentHistory.label  "Recente geschiedenis wissen…">
-<!ENTITY privatebrowsingpage.clearRecentHistory.accesskey "w">
+<!ENTITY privatebrowsingpage.clearRecentHistory.accesskey "R">
 
-<!ENTITY privatebrowsingpage.howToStopDesc             "Om te stoppen met privénavigeren demarkeer Extra &gt; Privénavigeren.">
+<!ENTITY privatebrowsingpage.howToStopDesc             "Vink Extra &gt; Privé navigeren uit om het privé navigeren te stoppen.">
 <!ENTITY privatebrowsingpage.footerDesc                "Veel plezier!">

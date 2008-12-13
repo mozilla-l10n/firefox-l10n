@@ -4,7 +4,6 @@
 <!ENTITY  window.macWidth                 "42em">
 
 <!ENTITY  checking.title                  "Controleren op updates">
-<!ENTITY  checking.title                  "Controleren op updates">
 <!ENTITY  updateCheck.label               "Controleren op nieuwere versies van &brandShortName;…">
 
 <!ENTITY  noupdatesfound.title            "Geen updates gevonden">
@@ -13,7 +12,7 @@
 <!ENTITY  noupdatesautodisabled.intro     "Er zijn geen updates beschikbaar. Controleer later nog eens of activeer
                                            de automatische updatecontrole van &brandShortName;.">
 
-<!ENTITY  incompatibleCheck.title         "Add-on compatibileit controleren">
+<!ENTITY  incompatibleCheck.title         "Add-oncompatibiliteit controleren">
 <!ENTITY  incompatibleCheck.label         "Bezig met controleren op nieuwere versies van uw add-ons…">
 
 <!ENTITY  clickHere.label                 "Meer informatie over deze update bekijken">
@@ -32,7 +31,7 @@
 <!ENTITY  license.decline                 "Ik accepteer de voorwaarden van de licentieovereenkomst NIET">
 <!ENTITY  license.decline.accesskey       "T">
 
-<!ENTITY  incompatibleList.title          "Incompatible Add-ons gevonden">
+<!ENTITY  incompatibleList.title          "Incompatibele add-ons gevonden">
 
 <!ENTITY  downloading.title               "Update downloaden">
 <!ENTITY  downloading.intro               "De update aan het downloaden…">
@@ -41,7 +40,7 @@
                                            incrementele update die is gedownload te verifiëren en downloadt
                                            daarom nu het volledige updatepakket.">
 
-<!ENTITY  viewDetails.tooltip             "Details voor deze update bekijken">
+<!ENTITY  viewDetails.tooltip             "Details over deze update bekijken">
 
 <!ENTITY  details.link                    "Details">
 
@@ -56,14 +55,14 @@
                                            &brandShortName; zal het opnieuw proberen door een volledige update te downloaden.">
 
 <!ENTITY  finishedPage.title              "Update klaar om te installeren">
-<!ENTITY  finishedPage.text               "De update zal de volgende keer dat  &brandShortName; start worden geïnstalleerd. U 
+<!ENTITY  finishedPage.text               "De update zal de volgende keer dat &brandShortName; start worden geïnstalleerd. U
                                            kunt &brandShortName; nu herstarten of doorgaan met werken en later herstarten.">
 
-<!ENTITY  finishedBackgroundPage.text     "&brandShortName; heeft een veiligheids en stabiliteits update gedownload
-                                           en is klaar om te installeren.">
+<!ENTITY  finishedBackgroundPage.text     "&brandShortName; heeft een veiligheids- en stabiliteitsupdate gedownload
+                                           en is klaar om deze te installeren.">
 <!ENTITY  finishedBackground.name         "Update:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "De update zal de volgende keer dat  &brandShortName; start worden geïnstalleerd. U
+<!ENTITY  finishedBackground.more         "De update zal de volgende keer dat &brandShortName; start worden geïnstalleerd. U
                                            kunt &brandShortName; nu herstarten of doorgaan met werken en later herstarten.">
 
 <!ENTITY  installed.title                 "Update geïnstalleerd">

@@ -9,7 +9,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
                                                                   inside the private browsing mode -->
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Privénavigeren)">
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (Privé navigeren)">
 
 <!ENTITY tabCmd.label "Nieuw tabblad">
 <!ENTITY tabCmd.accesskey "t">
@@ -164,8 +164,8 @@
 <!ENTITY clearRecentHistoryCmd.label            "Recente geschiedenis opruimen">
 <!ENTITY clearRecentHistoryCmd.accesskey        "R">
 
-<!ENTITY privateBrowsingCmd.label            "Privénavigeren">
-<!ENTITY privateBrowsingCmd.accesskey        "n">
+<!ENTITY privateBrowsingCmd.label            "Privé navigeren">
+<!ENTITY privateBrowsingCmd.accesskey        "P">
 
 <!ENTITY viewMenu.label         "Beeld"> 
 <!ENTITY viewMenu.accesskey       "l"> 
@@ -239,12 +239,12 @@
 <!ENTITY viewPageInfoCmd.accesskey    "i">
 <!ENTITY viewFrameInfoCmd.label       "Deelvensterinfo bekijken">
 <!ENTITY viewFrameInfoCmd.accesskey   "i">
-<!ENTITY reloadImageCmd.label         "Afbeeldeing herladen">
-<!ENTITY reloadImageCmd.accesskey     "h">
+<!ENTITY reloadImageCmd.label         "Afbeelding vernieuwen">
+<!ENTITY reloadImageCmd.accesskey     "r">
 <!ENTITY viewImageCmd.label           "Afbeelding bekijken">
 <!ENTITY viewImageCmd.accesskey       "f">
 <!ENTITY viewVideoCmd.label           "Video bekijken">
-<!ENTITY viewVideoCmd.accesskey       "i">
+<!ENTITY viewVideoCmd.accesskey       "o">
 <!ENTITY viewBGImageCmd.label         "Achtergrondafbeelding bekijken">
 <!ENTITY viewBGImageCmd.accesskey     "h">
 <!ENTITY setDesktopBackgroundCmd.label      "Als bureaubladachtergrond instellen…">
@@ -279,9 +279,9 @@
 <!ENTITY sendImageCmd.label           "Afbeelding versturen…">
 <!ENTITY sendImageCmd.accesskey       "s">
 <!ENTITY sendVideoCmd.label           "Video versturen…">
-<!ENTITY sendVideoCmd.accesskey       "n">
+<!ENTITY sendVideoCmd.accesskey       "s">
 <!ENTITY sendAudioCmd.label           "Audio versturen…">
-<!ENTITY sendAudioCmd.accesskey       "n">
+<!ENTITY sendAudioCmd.accesskey       "s">
 <!ENTITY copyLinkCmd.label            "Koppelingslocatie kopiëren">
 <!ENTITY copyLinkCmd.accesskey        "p">
 <!ENTITY copyLinkTextCmd.label        "Koppelingstekst kopiëren">
@@ -291,9 +291,9 @@
 <!ENTITY copyImageContentsCmd.label   "Afbeelding kopiëren">
 <!ENTITY copyImageContentsCmd.accesskey  "k">
 <!ENTITY copyVideoURLCmd.label        "Videolocatie kopiëren">
-<!ENTITY copyVideoURLCmd.accesskey    "k">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Audiolocatie kopiëren">
-<!ENTITY copyAudioURLCmd.accesskey    "k">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY blockImageCmd.accesskey      "b">
 <!ENTITY metadataCmd.label            "Eigenschappen">
 <!ENTITY metadataCmd.accesskey        "E">
@@ -303,18 +303,18 @@
 <!ENTITY thisFrameMenu.accesskey          "D">
 
 <!-- Media (video/audio) controls -->
-<!ENTITY mediaPlay.label             "Spelen">
-<!ENTITY mediaPlay.accesskey         "s">
-<!ENTITY mediaPause.label            "Pause">
+<!ENTITY mediaPlay.label             "Afspelen">
+<!ENTITY mediaPlay.accesskey         "A">
+<!ENTITY mediaPause.label            "Pauzeren">
 <!ENTITY mediaPause.accesskey        "P">
 <!ENTITY mediaMute.label             "Dempen">
-<!ENTITY mediaMute.accesskey         "m">
-<!ENTITY mediaUnmute.label           "Ondempen">
-<!ENTITY mediaUnmute.accesskey       "m">
-<!ENTITY mediaShowControls.label     "Bediening tonen">
-<!ENTITY mediaShowControls.accesskey "C">
-<!ENTITY mediaHideControls.label     "Bediening verbergen">
-<!ENTITY mediaHideControls.accesskey "C">
+<!ENTITY mediaMute.accesskey         "D">
+<!ENTITY mediaUnmute.label           "Dempen uitschakelen">
+<!ENTITY mediaUnmute.accesskey       "D">
+<!ENTITY mediaShowControls.label     "Bedieningsknoppen tonen">
+<!ENTITY mediaShowControls.accesskey "B">
+<!ENTITY mediaHideControls.label     "Bedieningsknoppen verbergen">
+<!ENTITY mediaHideControls.accesskey "B">
 
 
 <!-- LOCALIZATION NOTE :
