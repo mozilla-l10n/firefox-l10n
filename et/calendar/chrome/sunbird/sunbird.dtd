@@ -69,6 +69,7 @@
 
 <!ENTITY sunbird.menu.numberofweeks.label     "Nädalate arv" >
 <!ENTITY sunbird.menu.numberofweeks.accesskey "a" >
+<!ENTITY sunbird.menu.numberofweeks.1         "1 nädal" >
 <!ENTITY sunbird.menu.numberofweeks.2      "2 nädalat" >
 <!ENTITY sunbird.menu.numberofweeks.3      "3 nädalat" >
 <!ENTITY sunbird.menu.numberofweeks.4      "4 nädalat" >
