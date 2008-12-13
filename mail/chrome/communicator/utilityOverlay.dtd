@@ -48,8 +48,6 @@
 <!ENTITY closeCmd.key                     "W">
 <!ENTITY closeCmd.accesskey               "u">
 
-<!ENTITY closeWindow.label                "Sulge aken">
-
 <!ENTITY quitApplicationCmd.label         "Välju">
 <!ENTITY quitApplicationCmd.key           "Q">
 <!ENTITY quitApplicationCmd.accesskey     "j">

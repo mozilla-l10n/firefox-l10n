@@ -107,6 +107,8 @@
 <!ENTITY redoMoveMsgCmd.label                          "Korda kirja liigutamist">
 <!ENTITY undoCopyMsgCmd.label                          "Tühista kirja kopeerimine">
 <!ENTITY redoCopyMsgCmd.label                          "Korda kirja kopeerimist">
+<!ENTITY undoMarkAllCmd.label                          "Tühista kirjade loetuks märkimine">
+<!ENTITY redoMarkAllCmd.label                          "Märgi kirjad uuesti loetuks">
 <!ENTITY undoDefaultCmd.label                          "Võta tagasi">
 <!ENTITY undoDefaultCmd.accesskey                      "t">
 <!ENTITY redoDefaultCmd.label                          "Tee uuesti">
