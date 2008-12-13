@@ -8,7 +8,7 @@
 <!ENTITY plexInput.label           "Plex moodus:">
 <!ENTITY plexInput.accesskey       "m">
 
-<!ENTITY resolutionInput.label     "Resulutsioon/kvaliteet:">
+<!ENTITY resolutionInput.label     "Lahutusvõime/kvaliteet:">
 <!ENTITY resolutionInput.accesskey "e">
 
 <!ENTITY cmdInput.label            "Printimiskäsklus:">
@@ -17,7 +17,7 @@
 <!ENTITY jobTitleInput.label       "Töö pealkiri:">
 <!ENTITY jobTitleInput.accesskey   "T">
 
-<!ENTITY colorGroup.label          "Värv:">
+<!ENTITY colorGroup.label          "Värvid:">
 <!ENTITY grayRadio.label           "Halltoonides">
 <!ENTITY grayRadio.accesskey       "H">
 <!ENTITY colorRadio.label          "Värviline">
@@ -27,8 +27,8 @@
 <!ENTITY colorspaceInput.accesskey "i">
 
 <!ENTITY fontsGroup.label          "Fondid:">
-<!ENTITY downloadFonts.label       "Lae fondid printerisse?">
-<!ENTITY downloadFonts.accesskey   "L">
+<!ENTITY downloadFonts.label       "Kas laadida fondid printerisse?">
+<!ENTITY downloadFonts.accesskey   "K">
 
 <!ENTITY edgeMarginInput.label     "Vahe paberi servast veeriseni">
 <!ENTITY topInput.label            "Ülemine:">

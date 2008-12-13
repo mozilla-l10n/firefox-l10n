@@ -2,12 +2,12 @@
 
 <!ENTITY printButton.label            "Prindi">
 
-<!ENTITY printDialog.title            "Prindi">
+<!ENTITY printDialog.title            "Printimine">
 
-<!ENTITY fpDialog.title               "Salvesta fail">
+<!ENTITY fpDialog.title               "Faili salvestamine">
 
-<!ENTITY fileCheck.label              "Trükkimine faili">
-<!ENTITY fileCheck.accesskey          "T">
+<!ENTITY fileCheck.label              "Salvestamine failina">
+<!ENTITY fileCheck.accesskey          "S">
 <!ENTITY propertiesButton.label       "Omadused...">
 <!ENTITY propertiesButton.accesskey   "O">
 <!ENTITY descText.label               "Printeri kirjeldus:">
@@ -32,7 +32,7 @@
 <!ENTITY numCopies.accesskey          "E">
 
 <!ENTITY printframeGroup.label        "Paneelide printimine">
-<!ENTITY aslaidoutRadio.label         "Nii nagu nad on ekraanil">
+<!ENTITY aslaidoutRadio.label         "Nii nagu ekraanil">
 <!ENTITY aslaidoutRadio.accesskey     "N">
 <!ENTITY selectedframeRadio.label     "Valitud paneel">
 <!ENTITY selectedframeRadio.accesskey "V">
