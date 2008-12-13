@@ -434,7 +434,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Klar">
 <!ENTITY editBookmark.cancel.label                   "Avbryt">
-<!ENTITY editBookmark.removeBookmark.label           "Ta bort bokmärke">
 <!ENTITY editBookmark.removeBookmark.accessKey       "T">
 <!ENTITY editBookmark.undo.label                     "Ångra">
 <!ENTITY editBookmark.undo.accessKey                 "Å">
