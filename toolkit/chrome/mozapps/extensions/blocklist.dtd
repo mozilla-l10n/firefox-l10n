@@ -1,9 +1,9 @@
-<!ENTITY blocklist.title             "Add-ons die wellicht problemen veroorzaken">
+<!ENTITY blocklist.title             "Add-ons veroorzaken mogelijk problemen">
 <!ENTITY blocklist.style             "width: 45em; height: 30em">
-<!ENTITY blocklist.summary           "&brandShortName; heeft bepaald dat de volgende add-ons bekent staan dat ze stabiliteits of beveiligins problemen veroorzaken:">
-<!ENTITY blocklist.softblocked       "Voor uw veiligheid wordt het ten sterkste aangeraden om te herstarten met deze add-ons uitgeschakeld.">
-<!ENTITY blocklist.hardblocked       "Deze add-ons hebben een hoge risico in het veroorzaken van stabiliteis of beveiligings problemen en zijn uitgeschakeld, maar een herstart is nodig om ze compleet uit te schakelen.">
-<!ENTITY blocklist.softandhard       "De add-ons die een hoge risico in het veroorzaken van stabiliteis of beveiligings problemen hebben zijn geblokkeerd. De andere hebben een lager risico maar het wordt ten sterkste aangeraden om te herstarten met ze uitgeschakeld.">
+<!ENTITY blocklist.summary           "&brandShortName; heeft vastgesteld dat de volgende add-ons bekend staan om het veroorzaken van stabiliteits- of veiligheidsproblemen:">
+<!ENTITY blocklist.softblocked       "Voor uw veiligheid wordt het ten sterkste aangeraden deze add-ons uit te schakelen en te herstarten.">
+<!ENTITY blocklist.hardblocked       "Deze add-ons vormen een groot risico op het veroorzaken van stabiliteits- of veiligheidsproblemen en zijn uitgeschakeld, maar een herstart is nodig om ze volledig uit te schakelen.">
+<!ENTITY blocklist.softandhard       "De add-ons die een groot risico op het veroorzaken van stabiliteits- of veiligheidsproblemen vormen zijn geblokkeerd. De andere vormen een kleiner risico, maar het wordt ten sterkste aangeraden deze uit te schakelen en te herstarten.">
 <!ENTITY blocklist.moreinfo          "Meer informatie">
 
 <!ENTITY blocklist.accept.label      "&brandShortName; herstarten">

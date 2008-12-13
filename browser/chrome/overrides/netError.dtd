@@ -55,7 +55,7 @@
 <!ENTITY netOffline.title "Offlinemodus">
 <!ENTITY netOffline.longDesc "
 <ul>
-  <li>Vink “Offline werken” in het menu Bestand uit en probeer opnieuw.</li>
+  <li>Vink “Offline werken” in het menu Bestand uit en probeer het opnieuw.</li>
 </ul>
 ">
 
@@ -135,8 +135,8 @@
 <ul>
   <li>Dit kan een probleem met de serverconfiguratie zijn, of iemand probeert deze
     server na te bootsen.</li>
-  <li>Als u in het verleden wel met succes hebt verbonden met deze server is deze
-    fout wellicht tijdelijk en kunt u het later nog een keer proberen.</li>
+  <li>Als u in het verleden wel met succes verbinding hebt gemaakt met deze server, dan
+    is de fout wellicht tijdelijk en kunt u het later nogmaals proberen.</li>
 </ul>
 ">
 
@@ -172,7 +172,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningText "
-<p>U zou geen uitzondering moeten toevoegen als u een internetverbinding gebruikt die u niet volledig vertrouwt of als u normaal geen waarschuwingen krijgt voor deze server.</p>
+<p>U kunt beter geen uitzondering toevoegen als u een internetverbinding gebruikt die u niet volledig vertrouwt, of als u normaal gesproken geen waarschuwing krijgt voor deze server.</p>
 
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
