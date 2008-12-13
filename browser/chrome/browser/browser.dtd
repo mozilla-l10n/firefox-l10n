@@ -316,7 +316,6 @@
 <!ENTITY spellAddDictionaries.accesskey "A">
 <!ENTITY editBookmark.done.label "Fatto">
 <!ENTITY editBookmark.cancel.label "Annulla">
-<!ENTITY editBookmark.removeBookmark.label "Elimina segnalibro">
 <!ENTITY editBookmark.removeBookmark.accessKey "s">
 <!ENTITY editBookmark.undo.label "Ripristina">
 <!ENTITY editBookmark.undo.accessKey "R">
