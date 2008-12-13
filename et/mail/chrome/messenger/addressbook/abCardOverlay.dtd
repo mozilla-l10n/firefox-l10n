@@ -67,7 +67,6 @@
 <!ENTITY NickName.label               "Hüüdnimi:">
 <!ENTITY NickName.accesskey           "H">
 
-<!ENTITY Internet.box                 "Internet">
 <!ENTITY PrimaryEmail.label           "E-post:">
 <!ENTITY PrimaryEmail.accesskey       "E">
 <!ENTITY SecondEmail.label            "Muud e-postiaadressid:">

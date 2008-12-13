@@ -10,3 +10,5 @@
 <!ENTITY paneAttachments.title   "Manused">
 <!ENTITY panePrivacy.title       "Privaatsus">
 <!ENTITY paneAdvanced.title      "Muud">
+
+<!ENTITY cmdCloseMac.commandKey   "w">

@@ -21,8 +21,6 @@
 <!ENTITY markAsReadDelay.label            "märgitakse loetuks pärast">
 <!ENTITY markAsReadDelay.accesskey        "m">
 <!ENTITY secondsLabel.label               "sekundit">
-<!ENTITY showFolderColumns.label          "Kaustade paanis näidatakse laiendatud veerge">
-<!ENTITY showFolderColumns.accesskey      "u">
 <!ENTITY openMsgIn.label                  "Kirjad avatakse:">
 <!ENTITY reuseExpRadio0.label             "uues aknas">
 <!ENTITY reuseExpRadio0.accesskey         "a">

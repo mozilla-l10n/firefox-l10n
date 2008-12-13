@@ -19,8 +19,6 @@
 <!ENTITY biffStart.label                  "Uusi kirju kontrollitakse iga">
 <!ENTITY biffStart.accesskey              "s">
 <!ENTITY biffEnd.label                    "minuti järel">
-<!ENTITY isSecure.label                   "Kasutatakse turvalist ühendust (SSL)">
-<!ENTITY isSecure.accesskey               "K">
 <!ENTITY socketType.label                 "Kasutatatakse turvalist ühendust:">
 <!ENTITY neverSecure.label                "mitte kunagi">
 <!ENTITY neverSecure.accesskey            "m">
