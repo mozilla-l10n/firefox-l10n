@@ -132,7 +132,7 @@
 
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Neuen Kontakt erstellen">
-<!ENTITY newContactButton.tooltip                       "Neue Verteiler-Liste erstellen">
+<!ENTITY newlistButton.tooltip                          "Neue Verteiler-Liste erstellen">
 <!ENTITY editButton2.tooltip                            "Gewählten Kontakt bearbeiten">
 <!ENTITY newmsgButton.tooltip                           "Neue Nachricht verfassen">
 <!ENTITY newIM.tooltip                                  "Neue Sofortnachricht (instant message) oder neuen Chat verfassen">
