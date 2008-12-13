@@ -14,9 +14,6 @@
 <!ENTITY accOrgImagesRadio.accesskey "r">
 <!ENTITY disableImages.label "No carreguis cap imatge">
 <!ENTITY disableImages.accesskey "n">
-<!ENTITY warnAboutImages.label "Demana-m'ho abans de baixar una imatge">
-<!ENTITY warnAboutImages.accesskey "h">
-<!ENTITY viewImagesExplanation.label "Visualitza la llista de llocs on s'emmagatzema informació d'acceptació d'imatges.">
 <!ENTITY viewImages.label "Gestiona els permisos de les imatges">
 <!ENTITY viewImages.accesskey "p">
 <!ENTITY animLoopingTitle.label "Les imatges animades han de reproduir-se repetidament">

@@ -41,38 +41,16 @@
 <!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
 
 
-<!ENTITY windowtitle.label "Seleccioneu el perfil d'usuari">
+<!ENTITY windowTitle.label "Seleccioneu el perfil d'usuari">
 
-<!ENTITY welcome.label "Benvinguts al &brandShortName;">
-<!ENTITY profilemanager.label "Gestor de perfils del &brandShortName;">
+<!ENTITY            profileManager.title "Gestor de perfils del &brandShortName;">
 
-<!ENTITY profilename.label "Nom del perfil:">
-
-<!ENTITY password.label "Contrasenya:">
-
-<!ENTITY start.label "Inicia el &vendorShortName;">
-<!ENTITY exit.label "Surt">
-<!ENTITY manage.label "Gestiona els perfils...">
+<!ENTITY manage.label "Gestiona els perfils…">
 <!ENTITY manage.accesskey "G">
 <!ENTITY            select.label          "Utilitza el perfil">
 
-<!ENTITY availprofiles.label "Perfils disponibles">
+<!ENTITY availableProfiles.label "Perfils disponibles">
 
-<!ENTITY deleteButton.label "Suprimeix el perfil...">
-<!ENTITY deleteButton.accesskey "u">
-<!ENTITY renameButton.label "Reanomena el perfil...">
-<!ENTITY renameButton.accesskey "R">
-<!ENTITY newButton.label "Crea un perfil...">
-<!ENTITY newButton.accesskey "C">
-
-<!-- manager entities -->
-<!ENTITY pmTextA.label "El &brandShortName; emmagatzema dins del vostre perfil d'usuari la informació sobre els vostres paràmetres, preferències, adreces d'interès, missatges emmagatzemats i altres elements.">
-<!ENTITY pmTextC.label "Heu de seleccionar un perfil, o crear-ne un de nou, la primera vegada que inicieu el &brandShortName;.">
-<!ENTITY pmTextB.label "Indica un perfil creat amb una versió anterior del Communicator. Aquests perfils s'han de convertir abans que el &brandShortName; els pugui carregar. Aquest procés és automàtic.">
-
-
-<!ENTITY offlineState.label "Treballa fora de línia">
-<!ENTITY offlineState.accesskey "o">
-
-<!ENTITY autoSelectLastProfile.label "No preguntis a l'inici">
-<!ENTITY autoSelectLastProfile.accesskey "s">
+<!ENTITY            introStart.label         "Per a accedir al vostre perfil personal, que conté els vostres missatges emmagatzemats, paràmetres i altra informació personal, trieu-lo de la llista, i feu clic a &start.label; per a iniciar la vostra sessió.">
+<!ENTITY            introSwitch.label         "Per a canviar a un altre perfil, que conté els missatges emmagatzemats, paràmetres i altra informació personal, trieu-lo de la llista, i feu clic a &select.label; per a començar a utilitzar-lo.">
+<!ENTITY            profileManagerText.label "El &brandShortName; emmagatzema informació dels vostres paràmetres, preferències, adreces d'interès, missatges emmagatzemats i altres elements de l'usuari en el vostre perfil.">

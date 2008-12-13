@@ -1,24 +1,23 @@
 <!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
 <!ENTITY pref.smartUpdate.title               "Instaŀlació de programari">
 <!ENTITY smartTitle.label "Gestiona les instaŀlacions i actualitzacions de programari">
-<!ENTITY enableSU.label "Habilita la instaŀlació de programari. (Se us demanarà en cada actualització.)">
+<!ENTITY enableSU.label                       "Permet als llocs web instaŀlar extensions i actualitzacions">
+<!ENTITY enableSU.accesskey                   "e">
 <!ENTITY allowedSites.label                   "Llocs permesos">
 <!ENTITY allowedSites.accesskey               "L">
 
-<!ENTITY enableSU.accesskey "e">
-<!ENTITY enableNotification.label "Avisa'm quan estigui disponible programari nou i actualitzat">
-<!ENTITY enableNotification.accesskey "n">
-<!ENTITY requireConfirmation.label "Demana confirmació manual de cada instaŀlació">
-<!--LOCALIZATION NOTE (selectUninstall.label): A large list box appears below this label -->
-<!ENTITY selectUninstall.label "Per a desinstaŀlar, seleccioneu de la llista següent i feu clic al botó de desinstaŀlació">
-<!ENTITY uninstallButton.label "Desinstaŀla">
-<!ENTITY uninstallButton.accesskey "D">
+<!ENTITY verifyUpdates.caption                "Actualitzacions">
+<!ENTITY autoUpdates.label                    "Comprova automàticament si hi ha actualitzacions:">
+<!ENTITY appUpdates.label                     "&brandShortName;">
+<!ENTITY appUpdates.accesskey                 "S">
+<!ENTITY daily.label                          "diàriament">
+<!ENTITY appDaily.accesskey                   "d">
+<!ENTITY weekly.label                         "setmanalment">
+<!ENTITY appWeekly.accesskey                  "t">
+<!ENTITY extensionsUpdates.label              "Complements instaŀlats">
+<!ENTITY extensionsUpdates.accesskey          "n">
+<!ENTITY extensionsDaily.accesskey            "i">
+<!ENTITY extensionsWeekly.accesskey           "m">
+<!ENTITY addonManagerButton.label             "Gestor de complements">
+<!ENTITY addonManagerButton.accesskey         "G">
 
-<!ENTITY updateNotifications.label "Notificacions  d'actualització">
-<!ENTITY updateNotifications.desc "Comproveu les noves versions d'aquest programari. No es facilitarà cap informació vostre o del vostre ordinador durant aquesta operació.">
-<!ENTITY enableUN.label "Comprova si hi ha actualitzacions:">
-<!ENTITY enableUN.accesskey "C">
-<!ENTITY weekly.label "setmanalment">
-<!ENTITY weekly.accesskey "t">
-<!ENTITY monthly.label "mensualment">
-<!ENTITY monthly.accesskey "m">

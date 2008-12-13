@@ -10,9 +10,6 @@
 <!ENTITY accOrgCookiesRadio.label "Permet només dels llocs que les originen">
 <!ENTITY accOrgCookiesRadio.accesskey "o">
 
-<!ENTITY accP3PCookiesRadio.label "Permet d'acord amb els paràmetres">
-<!ENTITY accP3PCookiesRadio.accesskey "p">
-
 <!ENTITY disableCookies.label "Bloca les galetes">
 <!ENTITY disableCookies.accesskey "B">
 
@@ -38,6 +35,4 @@
 
 <!ENTITY viewCookies.label "Gestor de galetes">
 <!ENTITY viewCookies.accesskey "G">
-<!ENTITY viewP3P.label "Paràmetres de privadesa">
-<!ENTITY viewP3P.accesskey "V">
 

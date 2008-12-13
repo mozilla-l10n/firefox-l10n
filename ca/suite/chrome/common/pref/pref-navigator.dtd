@@ -14,8 +14,6 @@
 
 <!ENTITY header2.label "Pàgina d'inici">
 <!ENTITY homePageIntro.label "En prémer el botó Inici anireu a aquesta pàgina.">
-<!ENTITY location.label "Ubicació:">
-<!ENTITY location.accesskey "a">
 <!ENTITY useCurrent.label "Utilitza la pàgina actual">
 <!ENTITY useCurrent.accesskey "U">
 <!ENTITY useCurrentGroup.label "Utilitza el grup actual">
@@ -40,3 +38,10 @@
 <!ENTITY  homeButton.accesskey      "n">
 <!ENTITY bookmarksButton.label "Adreces d'interès">
 <!ENTITY  bookmarksButton.accesskey "c">
+
+<!ENTITY defaultBrowserGroup.label      "Navegador per defecte">
+<!ENTITY defaultBrowserButton.label     "Defineix com a navegador per defecte">
+<!ENTITY defaultBrowserButton.accesskey "D">
+<!ENTITY alreadyDefaultText             "El &brandShortName; ja és el vostre navegador per defecte.">
+<!ENTITY defaultPendingText             "Es definirà el &brandShortName; com a navegador per defecte quan feu clic a D'acord.">
+<!ENTITY makeDefaultText                "Defineix el &brandShortName; com el vostre navegador per defecte.">

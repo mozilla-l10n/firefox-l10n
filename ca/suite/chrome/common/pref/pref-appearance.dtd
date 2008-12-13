@@ -11,10 +11,6 @@
 <!ENTITY navCheck.label "Navegador">
 <!ENTITY navCheck.accesskey "n">
 <!--LOCALIZATION NOTE (compCheck.label): DONT_TRANSLATE -->
-<!ENTITY compCheck.label "Redactor">
-<!ENTITY compCheck.accesskey "c">
-<!ENTITY calCheck.label "Calendar">
-<!ENTITY calCheck.accesskey "a">
 <!ENTITY showToolsLegend.label "Mostra les barres d'eines com a">
 <!ENTITY picsNtextRadio.label "Imatges i text">
 <!ENTITY picsNtextRadio.accesskey "g">
@@ -24,20 +20,10 @@
 <!ENTITY textonlyRadio.accesskey "x">
 <!ENTITY showHideTooltips.label "Mostra els rètols indicadors de funció">
 <!ENTITY showHideTooltips.accesskey "t">
-<!ENTITY useSiteIcons.label "Mostra les icones del lloc web">
-<!ENTITY useSiteIcons.accesskey "i">
-<!ENTITY enableAutomaticImageResizing.label "Habilita la redimensió automàtica d'imatges">
-<!ENTITY enableAutomaticImageResizing.accesskey "H">
-<!ENTITY useSmoothScroll.label "Utilitza el desplaçament suau">
-<!ENTITY useSmoothScroll.accesskey "U">
 
-<!--LOCALIZATION NOTE (languageList.txt.label): Don't translate "&brandShortName;".
+<!ENTITY pref.locales.title                     "Llengua de la interfície d'usuari">
+<!ENTITY selectLocale.label                     "Seleccioneu la llengua que apareix en els quadres de diàleg, menús, barres d'eines, i etiquetes dels botons:">
+<!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
     Place &brandShortName; in the phrase where the name of the application should appear
 -->
-<!ENTITY languageList.txt.label "Trieu una llengua per al &brandShortName;. El paràmetre afecta a la llengua en què apareix el text dels quadres de diàleg, menús, barres d'eines i etiquetes dels botons. Caldrà reiniciar per tal que el canvi de llengua tingui efecte.">
-
-<!--LOCALIZATION NOTE (languageList.label): Don't translate "&brandShortName;".
-    Place &brandShortName; in the phrase where the name of the application should appear
--->
-<!ENTITY languageList.label "Trieu la llengua que preferiu per al &brandShortName;:">
-
+<!ENTITY restartOnLangChange.label              "Les preferències lingüístiques tindran efecte quan reinicieu el &brandShortName;.">

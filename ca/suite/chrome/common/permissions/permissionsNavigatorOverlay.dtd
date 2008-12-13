@@ -31,13 +31,8 @@
 
 <!ENTITY cookieAllowPopupsCmd.label "Permet les finestres emergents d'aquest lloc">
 <!ENTITY cookieAllowPopupsCmd.accesskey "P">
-<!ENTITY cookieAboutPopupBlocking.label "Quant al blocatge de finestres emergents">
-<!ENTITY cookieAboutPopupBlocking.accesskey "b">
 <!ENTITY cookieManagePopups.label "Gestiona les finestres emergents">
 <!ENTITY cookieManagePopups.accesskey "n">
-
-<!ENTITY cookieTutorialCmd.label "Comprensió de la privadesa">
-<!ENTITY cookieTutorialCmd.accesskey "p">
 
 <!ENTITY cookieCookieManager.label "Gestor de les galetes">
 <!ENTITY cookieCookieManager.accesskey "G">
