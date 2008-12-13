@@ -7,9 +7,11 @@
 <!ENTITY mainWindow.titlemodifier                "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator   " - ">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
-                                                                  inside the private browsing mode -->
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (privaatne veebilehitsemine)">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix   "&mainWindow.titlemodifier; (privaatne veebilehitsemine)">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label                            "Uus kaart">
 <!ENTITY tabCmd.accesskey                        "k">
@@ -402,7 +404,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                 "Sobib">
 <!ENTITY editBookmark.cancel.label               "Loobu">
-<!ENTITY editBookmark.removeBookmark.label       "Eemalda järjehoidja">
 <!ENTITY editBookmark.removeBookmark.accessKey   "E">
 <!ENTITY editBookmark.undo.label                 "Võta tagasi">
 <!ENTITY editBookmark.undo.accessKey             "V">
