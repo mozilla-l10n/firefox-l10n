@@ -7,8 +7,8 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "б">
-<!ENTITY newCard.label "Карточку адресной книги…">
-<!ENTITY newCard.accesskey "к">
+<!ENTITY newContact.label "Контакт адресной книги…">
+<!ENTITY newContact.accesskey "н">
 <!ENTITY attachMenu.label "Вложить">
 <!ENTITY attachMenu.accesskey "ж">
 <!ENTITY attachFileCmd.label "Файл(ы)…">
@@ -84,6 +84,7 @@
 <!ENTITY viewToolbarsMenuNew.label "Панели инструментов">
 <!ENTITY viewToolbarsMenuNew.accesskey "П">
 <!ENTITY showCompositionToolbarCmd.label "Панель компоновки">
+<!ENTITY showCompositionToolbarCmd.accesskey "е">
 <!ENTITY showFormattingBarCmd.label "Панель форматирования">
 <!ENTITY showFormattingBarCmd.accesskey "ф">
 <!ENTITY showTaskbarCmd.label "Строка состояния">

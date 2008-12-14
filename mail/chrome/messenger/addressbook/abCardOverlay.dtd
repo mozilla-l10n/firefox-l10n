@@ -58,9 +58,11 @@
 <!ENTITY HomeWebPage.accesskey "с">
 <!ENTITY Birthday.label "День рождения:">
 <!ENTITY Birthday.accesskey "е">
+<!ENTITY In.label "">
 <!ENTITY Year.emptytext "Год">
 <!ENTITY Or.value "или">
 <!ENTITY Age.emptytext "Возраст">
+<!ENTITY YearsOld.label "">
 <!ENTITY Work.tab "Рабочее">
 <!ENTITY Work.accesskey "б">
 <!ENTITY JobTitle.label "Должность:">

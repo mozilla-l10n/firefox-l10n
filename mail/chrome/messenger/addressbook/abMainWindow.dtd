@@ -3,9 +3,9 @@
 <!ENTITY fileMenu.accesskey "Ф">
 <!ENTITY newMenu.label "Создать">
 <!ENTITY newMenu.accesskey "С">
-<!ENTITY newCard.label "Карточку адресной книги…">
-<!ENTITY newCard.accesskey "а">
-<!ENTITY newCard.key "N">
+<!ENTITY newContact.label "Контакт адресной книги…">
+<!ENTITY newContact.accesskey "а">
+<!ENTITY newContact.key "N">
 <!ENTITY newListCmd.label "Список рассылки…">
 <!ENTITY newListCmd.accesskey "п">
 <!ENTITY newAddressBookCmd.label "Адресную книгу…">
@@ -22,13 +22,13 @@
 <!ENTITY closeCmd.accesskey "З">
 <!ENTITY printSetupCmd.label "Параметры страницы…">
 <!ENTITY printSetupCmd.accesskey "а">
-<!ENTITY printPreviewCardViewCmd.label "Предварительный просмотр карточки">
-<!ENTITY printPreviewCardViewCmd.accesskey "д">
+<!ENTITY printPreviewContactCmd.label "Предварительный просмотр контакта">
+<!ENTITY printPreviewContactCmd.accesskey "в">
 <!ENTITY printPreviewAddressBook.label "Предварительный просмотр адресной книги">
 <!ENTITY printPreviewAddressBook.accesskey "а">
-<!ENTITY printCardViewCmd.label "Печать карточки…">
-<!ENTITY printCardViewCmd.accesskey "П">
-<!ENTITY printCardViewCmd.key "P">
+<!ENTITY printContactCmd.label "Печать контакта…">
+<!ENTITY printContactCmd.accesskey "ч">
+<!ENTITY printContactCmd.key "P">
 <!ENTITY printAddressBook.label "Печать адресной книги…">
 <!ENTITY printAddressBook.accesskey "а">
 <!ENTITY editMenu.label "Правка">
@@ -51,8 +51,8 @@
 <!ENTITY deleteCmd.label "Удалить">
 <!ENTITY deleteCmd.accesskey "У">
 <!ENTITY deleteAbCmd.label "Удалить адресную книгу">
-<!ENTITY deleteCardCmd.label "Удалить">
-<!ENTITY deleteCardsCmd2.label "Удалить карточки">
+<!ENTITY deleteContactCmd.label "Удалить контакт">
+<!ENTITY deleteContactsCmd.label "Удалить контакты">
 <!ENTITY deleteListCmd.label "Удалить список">
 <!ENTITY deleteListsCmd.label "Удалить списки">
 <!ENTITY deleteItemsCmd.label "Удалить элементы">
@@ -76,8 +76,8 @@
 <!ENTITY showTaskbarCmd.accesskey "С">
 <!ENTITY customizeToolbar.label "Настроить…">
 <!ENTITY customizeToolbar.accesskey "Н">
-<!ENTITY showCardPane.label "Область окна карточки">
-<!ENTITY showCardPane.accesskey "О">
+<!ENTITY showContactPane.label "Область окна контакта">
+<!ENTITY showContactPane.accesskey "б">
 <!ENTITY menu_ShowNameAs.label "Показывать имя как">
 <!ENTITY menu_ShowNameAs.accesskey "П">
 <!ENTITY firstLastCmd.label "Имя, Фамилия">
@@ -103,25 +103,25 @@
 <!ENTITY preferencesCmd.accesskey "Н">
 <!ENTITY preferencesCmdUnix.label "Настройки">
 <!ENTITY preferencesCmdUnix.accesskey "Н">
-<!ENTITY newcardButton.label "Создать карточку">
-<!ENTITY newcardButton.accesskey "к">
+<!ENTITY newContactButton.label "Создать контакт">
+<!ENTITY newContactButton.accesskey "к">
 <!ENTITY newlistButton.label "Создать список">
 <!ENTITY newlistButton.accesskey "С">
-<!ENTITY editButton.label "Свойства">
-<!ENTITY editButton.accesskey "в">
+<!ENTITY editButton2.label "Свойства">
+<!ENTITY editButton2.accesskey "в">
 <!ENTITY newmsgButton.label "Создать сообщение">
 <!ENTITY newmsgButton.accesskey "з">
 <!ENTITY newIM.label "Мгновенное сообщение">
 <!ENTITY newIM.accesskey "М">
-<!ENTITY deleteButton.label "Удалить">
-<!ENTITY deleteButton.accesskey "У">
+<!ENTITY deleteButton2.label "Удалить">
+<!ENTITY deleteButton2.accesskey "д">
 <!ENTITY throbberItem.title "Индикатор активности">
-<!ENTITY newcardButton.tooltip "Создание новой карточки адресной книги">
+<!ENTITY newContactButton.tooltip "Создание нового контакта адресной книги">
 <!ENTITY newlistButton.tooltip "Создание нового списка рассылки">
-<!ENTITY editButton.tooltip "Изменение выбранной карточки">
+<!ENTITY editButton2.tooltip "Изменение выбранного элемента">
 <!ENTITY newmsgButton.tooltip "Создание сообщения">
 <!ENTITY newIM.tooltip "Отправить мгновенное сообщение или начать беседу">
-<!ENTITY deleteButton.tooltip "Удаление выбранной карточки или адресной книги">
+<!ENTITY deleteButton2.tooltip "Удаление выбранного элемента">
 <!ENTITY dirTreeHeader.label "Адресные книги">
 <!ENTITY SearchNameOrEmail.label "Имя или e-mail адрес">
 <!ENTITY SearchNameOrEmail.accesskey "И">
