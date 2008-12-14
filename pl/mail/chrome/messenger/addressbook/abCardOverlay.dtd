@@ -113,9 +113,11 @@
 <!ENTITY HomeWebPage.accesskey          "S">
 <!ENTITY Birthday.label                 "Urodziny:">
 <!ENTITY Birthday.accesskey             "U">
+<!ENTITY In.label                       "">
 <!ENTITY Year.emptytext                 "rok">
 <!ENTITY Or.value                       "lub">
 <!ENTITY Age.emptytext                  "wiek">
+<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Służbowy">
 <!ENTITY Work.accesskey                 "S">
