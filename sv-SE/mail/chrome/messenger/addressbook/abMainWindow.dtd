@@ -32,14 +32,15 @@
   --> 
 
 <!ENTITY addressbookWindow.title                        "Adressboken">
+
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Arkiv"> 
 <!ENTITY fileMenu.accesskey                             "A">
 <!ENTITY newMenu.label                                  "Nytt">
 <!ENTITY newMenu.accesskey                              "N">
-<!ENTITY newCard.label                                  "Nytt adresskort…">
-<!ENTITY newCard.accesskey                              "A">  
-<!ENTITY newCard.key                                    "N">
+<!ENTITY newContact.label                               "Ny adressbokskontakt…">
+<!ENTITY newContact.accesskey                           "k">  
+<!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Ny utskickslista…">
 <!ENTITY newListCmd.accesskey                           "U">  
 <!ENTITY newAddressBookCmd.label                        "Ny adressbok…"> 
@@ -57,13 +58,13 @@
 <!ENTITY closeCmd.accesskey                             "ä">
 <!ENTITY printSetupCmd.label                            "Utskriftsformat…">
 <!ENTITY printSetupCmd.accesskey                        "o">
-<!ENTITY printPreviewCardViewCmd.label                  "Förhandsgranska adresskort">
-<!ENTITY printPreviewCardViewCmd.accesskey              "h">
+<!ENTITY printPreviewContactCmd.label                   "Förhandsgranska kontakt">
+<!ENTITY printPreviewContactCmd.accesskey               "h">
 <!ENTITY printPreviewAddressBook.label                  "Förhandsgranska adressbok"> 
 <!ENTITY printPreviewAddressBook.accesskey              "B">
-<!ENTITY printCardViewCmd.label                         "Skriv ut adresskort…">
-<!ENTITY printCardViewCmd.accesskey                     "u">
-<!ENTITY printCardViewCmd.key                           "P">
+<!ENTITY printContactCmd.label                          "Skriv ut kontakt…">
+<!ENTITY printContactCmd.accesskey                      "u">
+<!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "Skriv ut adressbok…"> 
 <!ENTITY printAddressBook.accesskey                     "S"> 
 
@@ -88,8 +89,8 @@
 <!ENTITY deleteCmd.label                                "Ta bort">  
 <!ENTITY deleteCmd.accesskey                            "T"> 
 <!ENTITY deleteAbCmd.label                              "Ta bort adressboken">  
-<!ENTITY deleteCardCmd.label                            "Ta bort adresskortet">  
-<!ENTITY deleteCardsCmd2.label                          "Ta bort kort">
+<!ENTITY deleteContactCmd.label                         "Ta bort kontakt">  
+<!ENTITY deleteContactsCmd.label                        "Ta bort kontakter">
 <!ENTITY deleteListCmd.label                            "Ta bort lista">
 <!ENTITY deleteListsCmd.label                           "Ta bort listor">
 <!ENTITY deleteItemsCmd.label                           "Ta bort poster">
@@ -117,8 +118,8 @@
 <!ENTITY showTaskbarCmd.accesskey                       "S"> 
 <!ENTITY customizeToolbar.label                         "Anpassa…">
 <!ENTITY customizeToolbar.accesskey                     "A">
-<!ENTITY showCardPane.label                             "Adresskortssammanfattning">
-<!ENTITY showCardPane.accesskey                         "A">
+<!ENTITY showContactPane.label                          "Kontaktsammanfattning">
+<!ENTITY showContactPane.accesskey                      "K">
 <!ENTITY menu_ShowNameAs.label                          "Visa namn så här"> 
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
 <!ENTITY firstLastCmd.label                             "Förnamn Efternamn">  
@@ -148,27 +149,27 @@
 <!ENTITY preferencesCmdUnix.accesskey                   "I">
 
 <!-- Address Book Toolbar and Context Menus -->  
-<!ENTITY newcardButton.label                            "Nytt adresskort">  
-<!ENTITY newcardButton.accesskey                        "k">  
+<!ENTITY newContactButton.label                         "Ny kontakt">  
+<!ENTITY newContactButton.accesskey                     "k">
 <!ENTITY newlistButton.label                            "Ny utskickslista">  
 <!ENTITY newlistButton.accesskey                        "u">  
-<!ENTITY editButton.label                               "Egenskaper">  
-<!ENTITY editButton.accesskey                           "E">  
+<!ENTITY editButton2.label                              "Egenskaper">  
+<!ENTITY editButton2.accesskey                          "E">  
 <!ENTITY newmsgButton.label                             "Skriv meddelande">  
 <!ENTITY newmsgButton.accesskey                         "m">
 <!ENTITY newIM.label                                    "IM">
 <!ENTITY newIM.accesskey                                "I">
-<!ENTITY deleteButton.label                             "Ta bort">  
-<!ENTITY deleteButton.accesskey                         "T">
+<!ENTITY deleteButton2.label                            "Ta bort">  
+<!ENTITY deleteButton2.accesskey                        "T">
 <!ENTITY throbberItem.title                             "Aktivitetsindikator">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newcardButton.tooltip                          "Skapa ett nytt adresskort"> 
+<!ENTITY newContactButton.tooltip                       "Skapa en ny adressbokskontakt"> 
 <!ENTITY newlistButton.tooltip                          "Skapa en utskickslista"> 
-<!ENTITY editButton.tooltip                             "Redigera markerat adresskort"> 
+<!ENTITY editButton2.tooltip                            "Redigera markerad post"> 
 <!ENTITY newmsgButton.tooltip                           "Skicka ett meddelande"> 
 <!ENTITY newIM.tooltip                                  "Skicka ett snabbmeddelande eller chatta"> 
-<!ENTITY deleteButton.tooltip                           "Ta bort markerade adresskort eller adressböcker"> 
+<!ENTITY deleteButton2.tooltip                          "Ta bort markerad post"> 
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Adressböcker">

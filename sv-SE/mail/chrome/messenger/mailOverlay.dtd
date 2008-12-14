@@ -35,6 +35,5 @@
 <!ENTITY  newMessageCmd.label             "Nytt meddelande">
 <!ENTITY  newMessageCmd.accesskey         "m">
  
-<!ENTITY  newCardCmd.label                "Nytt adresskort…">
-<!ENTITY  newCardCmd.accesskey            "A">
- 
+<!ENTITY  newContactCmd.label             "Ny adressbokskontakt…">
+<!ENTITY  newContactCmd.accesskey         "a">
