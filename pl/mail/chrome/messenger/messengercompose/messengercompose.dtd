@@ -10,8 +10,8 @@
 <!ENTITY newMessage.key          "M">
 <!ENTITY newMessageCmd2.key      "N">
 <!ENTITY newMessage.accesskey    "m">
-<!ENTITY newCard.label           "Wizytówkę…">
-<!ENTITY newCard.accesskey       "W">
+<!ENTITY newContact.label        "Wizytówkę…">
+<!ENTITY newContact.accesskey    "W">
 <!ENTITY attachMenu.label        "Załącz">
 <!ENTITY attachMenu.accesskey    "c">
 <!ENTITY attachFileCmd.label     "Plik…">
