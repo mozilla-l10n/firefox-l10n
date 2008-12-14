@@ -14,6 +14,8 @@
 <!ENTITY directories.label "Utilitza un altre servidor LDAP:">
 <!ENTITY directories.accesskey "d">
 
+<!ENTITY directoriesNone.label     "Cap">
+
 <!-- am-addressing.xul -->
 
 <!ENTITY compositionGroupTitle.label "Redacció">

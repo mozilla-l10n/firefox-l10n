@@ -40,14 +40,11 @@
 
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 <!ENTITY pref.ldap.window.title "Servidors de directori LDAP">
-<!ENTITY directory.label "Afegeix un directori">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "Servidor de directori LDAP:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 <!ENTITY directoriesText.label "Seleccioneu un servidor de directori LDAP:">
 <!ENTITY directoriesText.accesskey "S">
-<!-- LOCALIZATION NOTE (autocomplete.title) : do not translate "LDAP" in below line -->
-<!ENTITY autocomplete.title "Servidor de directori LDAP">
 <!ENTITY addDirectory.label "Afegeix">
 <!ENTITY addDirectory.accesskey "A">
 <!ENTITY editDirectory.label "Edita">

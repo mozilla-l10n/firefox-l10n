@@ -9,15 +9,11 @@
 <!ENTITY resetButton.accesskey "B">
 <!ENTITY helpButton.label            "Ajuda">
 <!ENTITY helpButton.accesskey        "j">
-<!ENTITY optionsButton.label "Opcions">
-<!ENTITY closeButton.label "Tanca">
 <!ENTITY openButton.label "Obre">
 <!ENTITY openButton.accesskey "O">
 <!ENTITY deleteButton.label "Suprimeix">
 <!ENTITY deleteButton.accesskey "u">
 <!ENTITY searchDialogTitle.label "Cerca de missatges">
-<!ENTITY conditionDesc.label "Cerca els missatges que coincideixin amb:">
-<!ENTITY conditions.label "Criteris">
 <!ENTITY results.label "Resultats">
 <!ENTITY fileHereMenu.label "Arxiva'l ací">
 <!ENTITY fileHereMenu.accesskey "A">

@@ -31,24 +31,17 @@
 
 <!ENTITY emailLabel.label "Adreça electrònica:">
 <!ENTITY emailLabel.accesskey "t">
-<!ENTITY emailDesc.label "Introduïu la vostra adreça electrònica; aquesta és l'adreça que els altres utilitzaran per enviar-vos correu">
-<!-- LOCALIZATION NOTE (emailExample.label) : do not translate "user@example.net" in below line -->
-<!ENTITY emailExample.label "(per exemple: user@example.net).">
 
 <!-- Entities for Server page -->
 
 <!ENTITY serverTitle.label "Informació del servidor">
-<!ENTITY incomingServerTitle.label "Servidor d'entrada">
 <!ENTITY incomingServerTypeDesc.label "Seleccioneu el tipus de servidor d'entrada que utilitzeu.">
-<!ENTITY incomingServerTypeLabel.label "Tipus de servidor:">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServerNameDesc.label "Introduïu el nom del servidor d'entrada (per exemple, &quot;pop.example.net&quot;).">
 <!ENTITY incomingServerLabel.label "Servidor d'entrada:">
 <!ENTITY incomingServerLabel.accesskey "S">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Introduïu el nom del servidor de grups de discussió (NNTP) (per exemple, &quot;news.example.net&quot;).">
-<!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
-<!ENTITY smtpServerTitle.label "Servidor de sortida (SMTP)">
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY smtpServerDesc.label "Introduïu el nom del vostre servidor de sortida (SMTP) (per exemple, &quot;smtp.example.net&quot;).">
 <!ENTITY smtpServerLabel.label "Servidor de sortida:">
@@ -61,7 +54,6 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY nntpType.label "Servidor de grups de discussió">
 
 <!-- for when the user has an SMTP server pre-configured -->
 <!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
@@ -104,7 +96,6 @@
 <!ENTITY accnameTitle.label "Nom del compte">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Introduïu el nom que voleu utilitzar per referir-vos a aquest compte (per exemple, &quot;Compte de la feina&quot;, &quot;Compte de casa&quot; o &quot;Compte de grups de discussió&quot;). ">
-<!ENTITY accnameExample.label "Per exemple, Compte de la feina, Compte de casa o Compte de grups de discussió">
 <!ENTITY accnameLabel.label "Nom del compte:">
 <!ENTITY accnameLabel.accesskey "N">
 
@@ -120,3 +111,4 @@
 <!ENTITY deferStorageDesc.label "Marqueu aquesta casella de selecció per a emmagatzemar el correu d'aquest compte en la safata d'entrada global de les carpetes locals. Altrament, el compte apareixerà com un de nivell superior i el seu correu s'emmagatzemarà en el seu propi directori.">
 <!ENTITY deferStorage.label "Utilitza la safata d'entrada global (emmagatzema el correu a les carpetes locals)">
 <!ENTITY clickFinish.label "Feu un clic a Finalitza per a desar aquests paràmetres i sortir de l'auxiliar de comptes.">
+<!ENTITY clickFinish.labelMac "Feu un clic a Fet per a desar aquests paràmetres i sortir de l'auxiliar de comptes.">
