@@ -10,8 +10,8 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newCard.label "Nytt adresskort…">
-<!ENTITY newCard.accesskey "A">
+<!ENTITY newContact.label "Ny adressbokskontakt…">
+<!ENTITY newContact.accesskey "A">
 <!ENTITY attachMenu.label "Bifoga">
 <!ENTITY attachMenu.accesskey "f">
 <!ENTITY attachFileCmd.label "Bifoga fil…">
@@ -92,6 +92,7 @@
 <!ENTITY viewToolbarsMenuNew.label "Verktygsfält"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "V"> 
 <!ENTITY showCompositionToolbarCmd.label "Skriv">
+<!ENTITY showCompositionToolbarCmd.accesskey "k">
 <!ENTITY showFormattingBarCmd.label "Formateringsverktyg">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Statusfält">
