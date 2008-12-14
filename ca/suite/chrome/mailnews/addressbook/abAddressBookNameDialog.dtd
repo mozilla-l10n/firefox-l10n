@@ -39,6 +39,5 @@
 
 
 <!-- Labels -->
-<!ENTITY abAddressBookNameDialog.title "Nom de la llibreta d'adreces">
 <!ENTITY name.label "Nom de la llibreta d'adreces:">
 <!ENTITY name.accesskey                "a">
