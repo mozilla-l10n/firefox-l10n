@@ -402,7 +402,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label "Preta">
 <!ENTITY editBookmark.cancel.label "Nuligi">
-<!ENTITY editBookmark.removeBookmark.label "Forigi paĝosignon">
 <!ENTITY editBookmark.removeBookmark.accessKey "F">
 <!ENTITY editBookmark.undo.label "Malfari">
 <!ENTITY editBookmark.undo.accessKey "M">
