@@ -58,9 +58,11 @@
 <!ENTITY HomeWebPage.accesskey "e">
 <!ENTITY Birthday.label "Cumpleaños:">
 <!ENTITY Birthday.accesskey "C">
+<!ENTITY In.label "">
 <!ENTITY Year.emptytext "Año">
 <!ENTITY Or.value "o">
 <!ENTITY Age.emptytext "Edad">
+<!ENTITY YearsOld.label "">
 <!ENTITY Work.tab "Trabajo">
 <!ENTITY Work.accesskey "T">
 <!ENTITY JobTitle.label "Puesto:">
