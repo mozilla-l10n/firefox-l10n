@@ -42,7 +42,7 @@
 <!ENTITY aboutLink.label        "&lt; Over &brandFullName;">
 <!ENTITY aboutLink.accesskey    "O">
 <!ENTITY aboutVersion           "versie">
-<!ENTITY copyrightText          "&#169;1998-2008 Medewerkers. Alle rechten
+<!ENTITY copyrightText          "© 1998-2008 Medewerkers. Alle rechten
                                  voorbehouden. Mozilla Sunbird, Sunbird en de
                                  Sunbird-logo’s zijn handelsmerken van de Mozilla
                                  Foundation. Alle rechten voorbehouden.">

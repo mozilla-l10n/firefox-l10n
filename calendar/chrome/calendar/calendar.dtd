@@ -77,13 +77,13 @@
 <!ENTITY calendar.unifinder.tree.percentcomplete.label "&#37; voltooid">
 <!ENTITY calendar.unifinder.tree.startdate.label     "Begin">
 <!ENTITY calendar.unifinder.tree.enddate.label       "Einde">
-<!ENTITY calendar.unifinder.tree.duedate.label       "Verval">
+<!ENTITY calendar.unifinder.tree.duedate.label       "Einddatum">
 <!ENTITY calendar.unifinder.tree.completeddate.label "Voltooid">
 <!ENTITY calendar.unifinder.tree.categories.label    "Categorie">
 <!ENTITY calendar.unifinder.tree.location.label      "Locatie">
 <!ENTITY calendar.unifinder.tree.status.label        "Status">
 <!ENTITY calendar.unifinder.tree.calendarname.label  "Agendanaam">
-<!ENTITY calendar.unifinder.tree.duration.label      "Vervalt na">
+<!ENTITY calendar.unifinder.tree.duration.label      "Einddatum over">
 <!ENTITY calendar.unifinder.close.tooltip            "Gebeurtenissen zoeken en gebeurtenissenlijst sluiten">
 
 <!ENTITY calendar.today.button.tooltip            "Naar vandaag gaan" >
@@ -194,10 +194,10 @@
 <!ENTITY calendar.context.deletethisevent.accesskey   "D">
 <!ENTITY calendar.context.deletecompleteseries.label  "Volledige reeks">
 <!ENTITY calendar.context.deletecompleteseries.accesskey   "r">
-<!ENTITY calendar.context.deletefutureevents.label     "Alle toekomstige gebeurtenissen">
-<!ENTITY calendar.context.deletefutureevents.accesskey "t">
-<!ENTITY calendar.context.deletefuturetasks.label     "Alle toekomstige taken">
-<!ENTITY calendar.context.deletefuturetasks.accesskey "t">
+<!ENTITY calendar.context.deletefutureevents.label     "Alle komende gebeurtenissen">
+<!ENTITY calendar.context.deletefutureevents.accesskey "m">
+<!ENTITY calendar.context.deletefuturetasks.label     "Alle komende taken">
+<!ENTITY calendar.context.deletefuturetasks.accesskey "m">
 <!ENTITY calendar.context.cutevent.label              "Knippen">
 <!ENTITY calendar.context.cutevent.accesskey          "n">
 <!ENTITY calendar.context.copyevent.label             "Kopiëren">

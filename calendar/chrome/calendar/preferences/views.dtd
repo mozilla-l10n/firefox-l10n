@@ -58,11 +58,11 @@
 <!ENTITY pref.calendar.view.dayend.label "Dag eindigt om:">
 <!ENTITY pref.calendar.view.dayend.accesskey "i">
 <!ENTITY pref.calendar.view.visiblehours.label "Tonen:">
-<!ENTITY pref.calendar.view.visiblehours.accesskey "n">
+<!ENTITY pref.calendar.view.visiblehours.accesskey "T">
 <!ENTITY pref.calendar.view.visiblehoursend.label "uren per overzicht">
 
-<!ENTITY pref.numberofweeks.label "Standaard aantal weken (voorgaande weken inbegrepen):">
-<!ENTITY pref.numberofweeks.accesskey "S">
+<!ENTITY pref.numberofweeks.label "Aantal weken (voorgaande weken inbegrepen):">
+<!ENTITY pref.numberofweeks.accesskey "n">
 <!ENTITY pref.numberofpreviousweeks.label "Aantal voorgaande weken:">
 <!ENTITY pref.numberofpreviousweeks.accesskey "r">
 <!ENTITY pref.numberofweeks.0 "geen">

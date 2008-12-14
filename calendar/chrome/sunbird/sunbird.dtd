@@ -69,6 +69,7 @@
 
 <!ENTITY sunbird.menu.numberofweeks.label                  "Aantal weken" >
 <!ENTITY sunbird.menu.numberofweeks.accesskey              "A" >
+<!ENTITY sunbird.menu.numberofweeks.1                      "1 week" >
 <!ENTITY sunbird.menu.numberofweeks.2                      "2 weken" >
 <!ENTITY sunbird.menu.numberofweeks.3                      "3 weken" >
 <!ENTITY sunbird.menu.numberofweeks.4                      "4 weken" >

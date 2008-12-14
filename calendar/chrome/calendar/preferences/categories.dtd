@@ -42,12 +42,12 @@
 
 <!ENTITY pref.categories.add.title "Categorie toevoegen">
 <!ENTITY pref.categories.addButton.label "Toevoegen…">
-<!ENTITY pref.categories.addButton.accesskey "">
+<!ENTITY pref.categories.addButton.accesskey "T">
 <!ENTITY pref.categories.edit.title "Categorie bewerken">
 <!ENTITY pref.categories.editButton.label "Bewerken…">
-<!ENTITY pref.categories.editButton.accesskey "">
+<!ENTITY pref.categories.editButton.accesskey "B">
 <!ENTITY pref.categories.removeButton.label "Verwijderen">
-<!ENTITY pref.categories.removeButton.accesskey "">
+<!ENTITY pref.categories.removeButton.accesskey "V">
 <!ENTITY pref.categories.name.label "Naam">
 <!ENTITY pref.categories.color.label "Kleur">
 <!ENTITY pref.categories.usecolor.label "Kleur gebruiken">
