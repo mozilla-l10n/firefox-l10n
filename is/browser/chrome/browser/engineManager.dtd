@@ -16,5 +16,5 @@
 <!ENTITY addEngine.accesskey "A">
 <!ENTITY enableSuggest.label "Sýna leitarábendingar">
 <!ENTITY enableSuggest.accesskey "S">
-<!ENTITY restoreDefaults.label "Endurstilla sjálfgefinn gildi">
+<!ENTITY restoreDefaults.label "Endurstilla sjálfgefin gildi">
 <!ENTITY restoreDefaults.accesskey "e">
