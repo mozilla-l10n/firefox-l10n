@@ -1,0 +1,13 @@
+<!ENTITY privatebrowsingpage.tabtitle "Поверљиво читање">
+
+<!ENTITY privatebrowsingpage.pagetitle "Поверљиво читање">
+
+<!ENTITY privatebrowsingpage.issueDesc "Програм &brandShortName; неће памтити историјат за ову сесију.">
+<!ENTITY privatebrowsingpage.longDesc "Програм &brandShortName; неће памтити историјат током ове сесије.  Ово укључује историјат прегледа, историјат пријема, историјат формулара, колачића и привремених датотека.  Међутим, све датотеке које примите или забелешке које направите биће сачуване.">
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryDesc "За почетак можете уклонити недавни историјат.">
+<!ENTITY privatebrowsingpage.clearRecentHistory.label "Уклони скорашњи историјат…">
+<!ENTITY privatebrowsingpage.clearRecentHistory.accesskey "У">
+
+<!ENTITY privatebrowsingpage.howToStopDesc "Да бисте искључили поверљиво читање, искључите Алатке > Поверљиво читање.">
+<!ENTITY privatebrowsingpage.footerDesc "Пријатан рад!">

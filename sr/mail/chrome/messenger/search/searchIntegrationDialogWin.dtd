@@ -1,0 +1,6 @@
+<!ENTITY searchIntegration.engineName "Виндовсова претрага">
+<!ENTITY searchIntegration.title "Сарадња са претраживачем &searchIntegration.engineName;">
+<!ENTITY searchIntegration.description "Да ли желите да користите сарадњу са претраживачем &searchIntegration.engineName; за претрагу кроз пошту и поруке програма &brandShortName;?">
+
+<!ENTITY searchIntegration.accept "Укључи сарадњу са програмом &searchIntegration.engineName;">
+<!ENTITY searchIntegration.cancel "Интеграција са ">

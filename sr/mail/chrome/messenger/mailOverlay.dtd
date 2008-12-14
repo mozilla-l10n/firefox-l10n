@@ -3,6 +3,5 @@
 <!ENTITY newMessageCmd.label "Порука">
 <!ENTITY newMessageCmd.accesskey "п">
  
-<!ENTITY newCardCmd.label "Картица у адресару…">
-<!ENTITY newCardCmd.accesskey "р">
-
+<!ENTITY newContactCmd.label "Address Book Contact…">
+<!ENTITY newContactCmd.accesskey "C">

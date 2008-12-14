@@ -5,9 +5,9 @@
 <!ENTITY fileMenu.accesskey "д">
 <!ENTITY newMenu.label "Ново">
 <!ENTITY newMenu.accesskey "Н">
-<!ENTITY newCard.label "Картица у адресару…">
-<!ENTITY newCard.accesskey "К">
-<!ENTITY newCard.key "N">
+<!ENTITY newContact.label "Address Book Contact…">
+<!ENTITY newContact.accesskey "C">
+<!ENTITY newContact.key "N">
 <!ENTITY newListCmd.label "Дописно друштво…">
 <!ENTITY newListCmd.accesskey "Д">
 <!ENTITY newAddressBookCmd.label "Адресар…">
@@ -25,13 +25,13 @@
 <!ENTITY closeCmd.accesskey "з">
 <!ENTITY printSetupCmd.label "Подеси страну...">
 <!ENTITY printSetupCmd.accesskey "п">
-<!ENTITY printPreviewCardViewCmd.label "Преглед картице пред штампу">
-<!ENTITY printPreviewCardViewCmd.accesskey "к">
+<!ENTITY printPreviewContactCmd.label "Print Preview Contact">
+<!ENTITY printPreviewContactCmd.accesskey "v">
 <!ENTITY printPreviewAddressBook.label "Преглед адресара пред штампу">
 <!ENTITY printPreviewAddressBook.accesskey "А">
-<!ENTITY printCardViewCmd.label "Штампај картицу…">
-<!ENTITY printCardViewCmd.accesskey "ш">
-<!ENTITY printCardViewCmd.key "P">
+<!ENTITY printContactCmd.label "Print Contact…">
+<!ENTITY printContactCmd.accesskey "P">
+<!ENTITY printContactCmd.key "P">
 <!ENTITY printAddressBook.label "Штампај адресар…">
 <!ENTITY printAddressBook.accesskey "Т">
 <!-- Edit Menu -->
@@ -56,8 +56,8 @@
 <!ENTITY deleteCmd.label "Обриши">
 <!ENTITY deleteCmd.accesskey "о">
 <!ENTITY deleteAbCmd.label "Обриши адресар">
-<!ENTITY deleteCardCmd.label "Уклони картицу">
-<!ENTITY deleteCardsCmd2.label "Уклони картице">
+<!ENTITY deleteContactCmd.label "Delete Contact">
+<!ENTITY deleteContactsCmd.label "Delete Contacts">
 <!ENTITY deleteListCmd.label "Уклони друштво">
 <!ENTITY deleteListsCmd.label "Уклони друштва">
 <!ENTITY deleteItemsCmd.label "Уклони ставке">
@@ -85,8 +85,8 @@
 <!ENTITY showTaskbarCmd.accesskey "С">
 <!ENTITY customizeToolbar.label "Прилагоди…">
 <!ENTITY customizeToolbar.accesskey "П">
-<!ENTITY showCardPane.label "Панел са сажетком картица">
-<!ENTITY showCardPane.accesskey "П">
+<!ENTITY showContactPane.label "Contact Summary Pane">
+<!ENTITY showContactPane.accesskey "C">
 <!ENTITY menu_ShowNameAs.label "Редослед приказивања имена">
 <!ENTITY menu_ShowNameAs.accesskey "р">
 <!ENTITY firstLastCmd.label "Име, презиме">
@@ -116,27 +116,27 @@
 <!ENTITY preferencesCmdUnix.accesskey "в">
 <!-- Address Book Toolbar and Context Menus -->  
 
-<!ENTITY newcardButton.label "Нова картица">
-<!ENTITY newcardButton.accesskey "К">
+<!ENTITY newContactButton.label "New Contact">
+<!ENTITY newContactButton.accesskey "C">
 <!ENTITY newlistButton.label "Ново друштво">
 <!ENTITY newlistButton.accesskey "Д">
-<!ENTITY editButton.label "Поставке">
-<!ENTITY editButton.accesskey "П">
+<!ENTITY editButton2.label "Properties">
+<!ENTITY editButton2.accesskey "P">
 <!ENTITY newmsgButton.label "Запиши">
 <!ENTITY newmsgButton.accesskey "З">
 <!ENTITY newIM.label "Брза порука">
 <!ENTITY newIM.accesskey "Б">
-<!ENTITY deleteButton.label "Обриши">
-<!ENTITY deleteButton.accesskey "О">
+<!ENTITY deleteButton2.label "Delete">
+<!ENTITY deleteButton2.accesskey "D">
 <!ENTITY throbberItem.title "Показивач активности">
 <!-- Address Book Toolbar Tooltips -->
 
-<!ENTITY newcardButton.tooltip "Направи нову карту у адресару">
+<!ENTITY newContactButton.tooltip "Create a new address book contact">
 <!ENTITY newlistButton.tooltip "Прави ново дописно друштво">
-<!ENTITY editButton.tooltip "Уреди изабрану картицу">
+<!ENTITY editButton2.tooltip "Edit the selected item">
 <!ENTITY newmsgButton.tooltip "Шаље електронску пошту">
 <!ENTITY newIM.tooltip "Шаље брзу поруку или започиње разговор">
-<!ENTITY deleteButton.tooltip "Уклања изабрану картицу или адресар">
+<!ENTITY deleteButton2.tooltip "Delete selected item">
 <!-- Dir Tree header -->
 
 <!ENTITY dirTreeHeader.label "Адресара">
