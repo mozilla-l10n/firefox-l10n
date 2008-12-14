@@ -112,9 +112,11 @@
 <!ENTITY HomeWebPage.accesskey "в">
 <!ENTITY Birthday.label "Рођендан:">
 <!ENTITY Birthday.accesskey "Р">
+<!ENTITY In.label "">
 <!ENTITY Year.emptytext "Година">
 <!ENTITY Or.value "или">
 <!ENTITY Age.emptytext "Број година">
+<!ENTITY YearsOld.label "">
 
 <!ENTITY Work.tab "Посао">
 <!ENTITY Work.accesskey "о">

@@ -1,0 +1,11 @@
+<!ENTITY editContactName.label "Име:">
+<!ENTITY editContactName.accesskey "И">
+
+<!ENTITY editContactEmail.label "Ел. адреса:">
+<!ENTITY editContactEmail.accesskey "Е">
+
+<!ENTITY editContactPanelCancel.label "Откажи">
+<!ENTITY editContactPanelCancel.accesskey "О">
+
+<!ENTITY editContactPanelDone.label "Готово">
+<!ENTITY editContactPanelDone.accesskey "Г">

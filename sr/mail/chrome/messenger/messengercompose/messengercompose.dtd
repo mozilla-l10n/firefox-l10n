@@ -10,8 +10,8 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "П">
-<!ENTITY newCard.label "Картица из адресара…">
-<!ENTITY newCard.accesskey "к">
+<!ENTITY newContact.label "Address Book Contact…">
+<!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "Закачи">
 <!ENTITY attachMenu.accesskey "з">
 <!ENTITY attachFileCmd.label "Датотеке">
@@ -92,6 +92,7 @@
 <!ENTITY viewToolbarsMenuNew.label "Алатне траке">
 <!ENTITY viewToolbarsMenuNew.accesskey "А">
 <!ENTITY showCompositionToolbarCmd.label "Алатна трака за писање">
+<!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "Трака за форматирање">
 <!ENTITY showFormattingBarCmd.accesskey "Т">
 <!ENTITY showTaskbarCmd.label "Статусна трака">
