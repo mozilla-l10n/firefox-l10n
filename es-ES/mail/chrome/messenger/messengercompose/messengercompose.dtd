@@ -7,8 +7,8 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newCard.label "Tarjeta de la libreta de direcciones…">
-<!ENTITY newCard.accesskey "T">
+<!ENTITY newContact.label "Contacto de la libreta de direcciones…">
+<!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "Adjuntar">
 <!ENTITY attachMenu.accesskey "t">
 <!ENTITY attachFileCmd.label "Archivo(s)…">
@@ -84,6 +84,7 @@
 <!ENTITY viewToolbarsMenuNew.label "Barras de herramientas">
 <!ENTITY viewToolbarsMenuNew.accesskey "h">
 <!ENTITY showCompositionToolbarCmd.label "Barra de herramientas de redacción">
+<!ENTITY showCompositionToolbarCmd.accesskey "r">
 <!ENTITY showFormattingBarCmd.label "Barra de formato">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Barra de estado">
