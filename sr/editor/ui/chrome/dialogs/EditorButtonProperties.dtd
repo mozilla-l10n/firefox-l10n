@@ -47,13 +47,13 @@
 <!ENTITY ButtonName.label "Име:">
 <!ENTITY ButtonName.accesskey "И">
 <!ENTITY ButtonValue.label "Вредност:">
-<!ENTITY ButtonValue.accesskey "р">
+<!ENTITY ButtonValue.accesskey "Р">
 <!ENTITY tabIndex.label "Индекс језичка:">
-<!ENTITY tabIndex.accesskey "ј">
+<!ENTITY tabIndex.accesskey "Ј">
 <!ENTITY ButtonDisabled.label "Искључено">
 <!ENTITY ButtonDisabled.accesskey "И">
 <!ENTITY AccessKey.label "Тастер за приступ:">
-<!ENTITY AccessKey.accesskey "с">
+<!ENTITY AccessKey.accesskey "С">
 
 <!ENTITY RemoveButton.label "Уклони дугме">
 <!ENTITY RemoveButton.accesskey "У">

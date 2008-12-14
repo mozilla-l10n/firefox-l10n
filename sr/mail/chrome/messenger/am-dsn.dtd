@@ -9,7 +9,7 @@
 <!ENTITY requestOnSucess.label "Успешној испоруци">
 <!ENTITY requestOnSucess.accesskey "У">
 <!ENTITY requestOnFailure.label "Неуспешној испоруци">
-<!ENTITY requestOnFailure.accesskey "ш">
+<!ENTITY requestOnFailure.accesskey "Ш">
 <!ENTITY requestOnDelay.label "Застоју у испоруци">
 <!ENTITY requestOnDelay.accesskey "З">
 <!ENTITY requestNever.label "Никад не примај обавештење о испоруци">

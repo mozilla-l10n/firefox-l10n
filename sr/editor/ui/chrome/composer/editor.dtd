@@ -43,24 +43,15 @@
 <!-- View menu items -->
 
 
-<!ENTITY viewMenu.label "Преглед">
-<!ENTITY viewmenu.accesskey "v">
-<!ENTITY compositionToolbarCmd.label "Трака за састављање порука">
-<!ENTITY compositiontb.accesskey "c">
-<!ENTITY formattingToolbarCmd.label "Трака за форматирање">
-<!ENTITY formattingtb.accesskey "f">
-<!ENTITY editmodeToolbarCmd.label "Трака за начин уређивања">
-<!ENTITY editmodetb.accesskey "E">
+<!ENTITY viewMenu.label "View">
+<!ENTITY viewMenu.accesskey "V">
+<!ENTITY compositionToolbarCmd.label "Composition Toolbar">
+<!ENTITY compositionToolbarCmd.accesskey "C">
+<!ENTITY formattingToolbarCmd.label "Format Toolbar">
+<!ENTITY formattingToolbarCmd.accesskey "F">
+<!ENTITY editmodeToolbarCmd.label "Edit Mode Toolbar">
+<!ENTITY editmodeToolbarCmd.accesskey "E">
 <!-- Format menu items -->
 
-<!ENTITY formatMenu.label "Формат">
-<!ENTITY formatmenu.accesskey "o">
-
-<!ENTITY helpMenu.label "Помоћ">
-<!ENTITY aboutCmd.label ".About">
-<!-- Display Mode Toolbar -->
-
-<!ENTITY editMode.label "Начин уређивања:">
-
-<!ENTITY statusText.label "Страна је учитана">
-
+<!ENTITY formatMenu.label "Format">
+<!ENTITY formatMenu.accesskey "o">

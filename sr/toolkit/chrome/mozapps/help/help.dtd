@@ -13,7 +13,7 @@
 <!ENTITY copyCmd.label "Умножи">
 <!ENTITY copyCmd.accesskey "У">
 <!ENTITY selectAllCmd.label "Изабери све">
-<!ENTITY selectAllCmd.accesskey "в">
+<!ENTITY selectAllCmd.accesskey "В">
 <!ENTITY goBackCmd.commandkey "[">
 <!ENTITY goForwardCmd.commandkey "]">
 <!ENTITY homeButton.label "Насловна">
@@ -22,9 +22,8 @@
 <!ENTITY printButton.tooltip "Штампај ову страну">
 <!ENTITY closeWindow.commandkey "W">
 
-<!ENTITY searchtab.label "Претрага">
-<!ENTITY searchtab.accesskey "П">
-<!ENTITY searchClose.tooltip "Затвори резултате претраге">
+<!ENTITY search.emptytext "Тражи">
+<!ENTITY searchHeader.label "Резултат претраге">
 <!ENTITY toctab.label "Садржај">
 <!ENTITY toctab.accesskey "С">
 <!-- LOCALIZATION NOTE :
@@ -46,9 +45,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY helpSearch.commandkey "k">
 
 <!ENTITY zLevel.label "Увек на врху">
-<!ENTITY zLevel.accesskey "в">
+<!ENTITY zLevel.accesskey "В">
 
 <!ENTITY fullZoomReduceBtn.label "Умањи">
-<!ENTITY fullZoomReduceBtn.accesskey "м">
+<!ENTITY fullZoomReduceBtn.accesskey "М">
 <!ENTITY fullZoomEnlargeBtn.label "Увећај">
-<!ENTITY fullZoomEnlargeBtn.accesskey "в">
+<!ENTITY fullZoomEnlargeBtn.accesskey "В">

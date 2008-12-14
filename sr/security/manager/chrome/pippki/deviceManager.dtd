@@ -50,11 +50,11 @@
 <!ENTITY devmgr.button.logout.label "Одјава">
 <!ENTITY devmgr.button.logout.accesskey "О">
 <!ENTITY devmgr.button.changepw.label "Промена лозинке">
-<!ENTITY devmgr.button.changepw.accesskey "л">
+<!ENTITY devmgr.button.changepw.accesskey "Л">
 <!ENTITY devmgr.button.load.label "Учитај">
 <!ENTITY devmgr.button.load.accesskey "У">
 <!ENTITY devmgr.button.unload.label "Уклони">
-<!ENTITY devmgr.button.unload.accesskey "к">
+<!ENTITY devmgr.button.unload.accesskey "К">
 <!ENTITY devmgr.button.fips.accesskey "F">
 
 <!ENTITY loaddevice.info "Унесите податке о модулу који желите да додате.">

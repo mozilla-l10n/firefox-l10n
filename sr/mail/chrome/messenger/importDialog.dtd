@@ -55,9 +55,9 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY window.macWidth "45em">
 
 <!ENTITY importTitle.label "Чаробњак за увоз за програм &brandShortName;">
-<!ENTITY importShortDesc.label "Import Mail, Address Books, Settings, and Filters from other programs">
+<!ENTITY importShortDesc.label "Увоз поште, адресара, подешавања и филтера из других програма">
 
-<!ENTITY importDescription1.label "This wizard will import mail messages, address book entries, preferences, and/or filters from other mail programs and common address book formats into &brandShortName;.">
+<!ENTITY importDescription1.label "Овај чаробњак увози електронску пошту, уносе у адресар, подешавања и/или филтере из других програма за ел. пошту и опште познате формате адресара у &brandShortName;.">
 <!ENTITY importDescription2.label "Када су једном увезени, моћи ћете да им приступите из програма &brandShortName;.">
 
 <!ENTITY selectDescription.label "Молимо да изаберете врсту датотека које желите да увезете:">

@@ -8,7 +8,7 @@
 <!ENTITY plainTextAndHtml.label "Пошаљи као обичан текст и ХТМЛ">
 <!ENTITY plainTextAndHtml.accesskey "о">
 <!ENTITY plainTextOnly.label "Пошаљи само као обичан текст">
-<!ENTITY plainTextOnly.accesskey "т">
+<!ENTITY plainTextOnly.accesskey "Т">
 <!ENTITY htmlOnly.label "Пошаљи само као ХТМЛ">
 <!ENTITY htmlOnly.accesskey "Х">
 

@@ -8,9 +8,9 @@
 <!ENTITY deleteButton.label "Уклони">
 <!ENTITY deleteButton.accesskey "к">
 <!ENTITY reorderUpButton.label "Помери горе">
-<!ENTITY reorderUpButton.accesskey "г">
+<!ENTITY reorderUpButton.accesskey "Г">
 <!ENTITY reorderDownButton.label "Помери доле">
-<!ENTITY reorderDownButton.accesskey "д">
+<!ENTITY reorderDownButton.accesskey "Д">
 <!ENTITY filterHeader.label "Укључени филтери се аутоматски покрећу у доле назначеном редоследу.">
 <!ENTITY filtersForPrefix.label "Филтери за:">
 <!ENTITY filtersForPrefix.accesskey "Ф">

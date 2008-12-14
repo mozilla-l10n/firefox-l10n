@@ -6,7 +6,7 @@
 <!ENTITY radioAskMe.label "Питај ме о статусу везе при покретању">
 <!ENTITY radioAskMe.accesskey "п">
 <!ENTITY radioAlwaysOnline.label "Увек покрени на вези">
-<!ENTITY radioAlwaysOnline.accesskey "У">
+<!ENTITY radioAlwaysOnline.accesskey "у">
 
 <!ENTITY textGoingOnline "Да ли непослате поруке треба послати при успостави везе?">
 <!ENTITY radioAutoSend.label "Да">
@@ -14,7 +14,7 @@
 <!ENTITY radioNotSend.label "Не">
 <!ENTITY radioNotSend.accesskey "Н">
 <!ENTITY radioAskUnsent.label "Питај ме">
-<!ENTITY radioAskUnsent.accesskey "П">
+<!ENTITY radioAskUnsent.accesskey "п">
 <!ENTITY textGoingOffline "Да ли преузети поруке за читање у локалу при раскидању везе?">
 <!ENTITY radioAutoDownload.label "Да">
 <!ENTITY radioAutoDownload.accesskey "а">

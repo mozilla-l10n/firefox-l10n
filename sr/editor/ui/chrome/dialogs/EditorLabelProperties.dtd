@@ -44,7 +44,7 @@
 <!ENTITY LabelFor.label "За контролу:">
 <!ENTITY LabelFor.accesskey "З">
 <!ENTITY AccessKey.label "Тастер за приступ:">
-<!ENTITY AccessKey.accesskey "п">
+<!ENTITY AccessKey.accesskey "П">
 
 <!ENTITY RemoveLabel.label "Уклони ознаку">
 <!ENTITY RemoveLabel.accesskey "У">

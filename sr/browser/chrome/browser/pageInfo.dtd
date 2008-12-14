@@ -45,7 +45,7 @@
 <!ENTITY copy.accesskey "У">
 <!ENTITY selectall.key "A">
 <!ENTITY selectall.label "Изабери све">
-<!ENTITY selectall.accesskey "с">
+<!ENTITY selectall.accesskey "С">
 <!ENTITY closeWindow.key "л">
 
 <!ENTITY generalTab "Опште">
@@ -60,8 +60,8 @@
 <!ENTITY generalEncoding "Кодирање:">
 <!ENTITY generalMetaName "Име">
 <!ENTITY generalMetaContent "Садржај">
-<!ENTITY generalSecurityMore "Још">
-<!ENTITY generalSecurityMore.accesskey "ј">
+<!ENTITY generalSecurityDetails "Детаљи">
+<!ENTITY generalSecurityDetails.accesskey "D">
 
 <!ENTITY mediaTab "Медији">
 <!ENTITY mediaTab.accesskey "M">

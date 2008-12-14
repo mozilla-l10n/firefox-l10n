@@ -7,13 +7,13 @@
 <!ENTITY smtpDesc.label "Иако можете да означите више од једног одлазног сервера (SMTP), то се препоручује само за напредне кориснике.  Постављање више SMTP сервера може да доведе до грешака при слању порука.">
 
 <!ENTITY smtpListAdd.label "Додај…">
-<!ENTITY smtpListAdd.accesskey "Д">
+<!ENTITY smtpListAdd.accesskey "д">
 <!ENTITY smtpListEdit.label "Уреди…">
 <!ENTITY smtpListEdit.accesskey "У">
 <!ENTITY smtpListDelete.label "Уклони">
-<!ENTITY smtpListDelete.accesskey "У">
+<!ENTITY smtpListDelete.accesskey "у">
 <!ENTITY smtpListSetDefault.label "Подразумевани">
-<!ENTITY smtpListSetDefault.accesskey "П">
+<!ENTITY smtpListSetDefault.accesskey "п">
 
 <!ENTITY serverDescription.label "Опис:">
 <!ENTITY serverName.label "Име сервера: ">

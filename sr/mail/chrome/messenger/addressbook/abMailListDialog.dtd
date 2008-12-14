@@ -46,7 +46,6 @@
 <!ENTITY ListDescription.label "Опис: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label "Унесите електронске адресе како бисте их додали у дописно друштво:">
-<!ENTITY RemoveButton.label "Уклони">
 <!ENTITY UpButton.label "Горе">
 <!ENTITY DownButton.label "Доле">
 <!-- Access Keys -->
@@ -54,5 +53,5 @@
 <!ENTITY addToAddressBook.accesskey "Д">
 <!ENTITY ListName.accesskey "И">
 <!ENTITY ListNickName.accesskey "Н">
-<!ENTITY ListDescription.accesskey "О">
+<!ENTITY ListDescription.accesskey "о">
 

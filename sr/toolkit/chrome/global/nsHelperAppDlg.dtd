@@ -21,10 +21,10 @@
 <!ENTITY prompt.label "Шта програм #1 треба да уради са овом датотеком?">
 
 <!ENTITY alwaysHandle.label "Увек користи ово дејство за датотеке овог типа">
-<!ENTITY alwaysHandle.accesskey "к">
+<!ENTITY alwaysHandle.accesskey "К">
 
 <!ENTITY saveToDisk.label "Сачувај датотеку на диск">
-<!ENTITY saveToDisk.accesskey "д">
+<!ENTITY saveToDisk.accesskey "Д">
 
 <!ENTITY useSystemDefault.label "Отвори помоћу подразумеваног програма (#1)">
 <!ENTITY useSystemDefault.noDesc.label "Отвори помоћу подразумеваног програма">

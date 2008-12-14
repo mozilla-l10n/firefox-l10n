@@ -4,20 +4,9 @@
 
 
 <!ENTITY pref.composer.title "Composer">
-
-<!ENTITY saving "Чување">
-<!ENTITY AutoSaveCheck "Чувај аутоматски на">
-<!ENTITY minText "мин">
-
-<!ENTITY exterLegend.label "Спољњи уређивач">
-<!ENTITY htmlSource "ХТМЛ извор:">
-<!ENTITY imageeditor "Слике:">
-<!ENTITY chooseButton.label "Избор">
-
 <!ENTITY recentFiles.title "Списак скорашњих страна">
 <!ENTITY documentsInMenu.label "Највећи број страна који се приказује:">
-<!ENTITY documentsInMenu.accesskey "Н">
-
+<!ENTITY documentsInMenu.accesskey "н">
 <!ENTITY savingFiles.title "При чувању или објављивању страна">
 <!ENTITY preserveExisting.label "Сачувај изворно форматирање">
 <!ENTITY preserveExisting.accesskey "С">
@@ -26,10 +15,7 @@
 <!ENTITY saveAssociatedFiles.accesskey "Ч">
 <!ENTITY showPublishDialog.label "Увек приказуј дијалог за објављивање при објављивању страна">
 <!ENTITY showPublishDialog.accesskey "У">
-
 <!ENTITY composerEditing.label "Уређивање">
-<!ENTITY spellCheckInline.label "Провера правописа док куцате">
-<!ENTITY spellCheckInline.accesskey "П">
 <!ENTITY maintainStructure.label "Одржавај изглед табеле при уметању и уклањању ћелија">
 <!ENTITY maintainStructure.tooltip "Чува правоугаони облик табеле аутоматским додавањем ћелија пре уметања или уклањања ћелија">
 <!ENTITY maintainStructure.accesskey "О">

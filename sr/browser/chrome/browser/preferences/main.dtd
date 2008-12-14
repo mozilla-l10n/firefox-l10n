@@ -8,25 +8,25 @@
 <!ENTITY location.label "Моја страна:">
 <!ENTITY location.accesskey "М">
 <!ENTITY useCurrentPage.label "Користи тренутну страну">
-<!ENTITY useCurrentPage.accesskey "т">
+<!ENTITY useCurrentPage.accesskey "Т">
 <!ENTITY useMultiple.label "Користи тренутне стране">
 <!ENTITY useBookmark.label "Користи белешку">
-<!ENTITY useBookmark.accesskey "б">
+<!ENTITY useBookmark.accesskey "Б">
 <!ENTITY restoreDefault.label "Врати изворну">
-<!ENTITY restoreDefault.accesskey "и">
+<!ENTITY restoreDefault.accesskey "И">
 
 <!ENTITY downloads.label "Пријеми">
 
 <!ENTITY showWhenDownloading.label "Прикажи прозор са пријемима док трају">
-<!ENTITY showWhenDownloading.accesskey "ј">
+<!ENTITY showWhenDownloading.accesskey "Ј">
 <!ENTITY closeWhenDone.label "Затвори када се сви пријеми заврше">
-<!ENTITY closeWhenDone.accesskey "З">
+<!ENTITY closeWhenDone.accesskey "з">
 <!ENTITY saveTo.label "Сачувај датотеке у">
-<!ENTITY saveTo.accesskey "С">
+<!ENTITY saveTo.accesskey "с">
 <!ENTITY chooseFolderWin.label "Преглед…">
-<!ENTITY chooseFolderWin.accesskey "П">
+<!ENTITY chooseFolderWin.accesskey "п">
 <!ENTITY chooseFolderMac.label "Избор…">
-<!ENTITY chooseFolderMac.accesskey "И">
+<!ENTITY chooseFolderMac.accesskey "и">
 <!ENTITY alwaysAsk.label "Увек питај где да чувам датотеке">
 <!ENTITY alwaysAsk.accesskey "У">
 

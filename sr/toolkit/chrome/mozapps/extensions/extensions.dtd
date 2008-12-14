@@ -23,20 +23,20 @@
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Тражење доградњи за Ваше додатке">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Тражење доградњи за Ваше теме">
 <!ENTITY cmd.installLocalFile.label "Инсталирај…">
-<!ENTITY cmd.installLocalFile.accesskey "И">
+<!ENTITY cmd.installLocalFile.accesskey "и">
 <!ENTITY cmd.installFileAddon.tooltip "Постави додатак">
 <!ENTITY cmd.installFileTheme.tooltip "Постави тему">
 <!ENTITY cmd.installUpdatesAll.label "Постави доградње">
-<!ENTITY cmd.installUpdatesAll.accesskey "д">
+<!ENTITY cmd.installUpdatesAll.accesskey "Д">
 <!ENTITY cmd.installUpdatesAll.tooltip "Поставља изабране доградње">
 <!ENTITY cmd.restartApp2.label "Поново покрени програм &brandShortName;">
 <!ENTITY cmd.restartApp2.accesskey "П">
 <!ENTITY cmd.restartApp2.tooltip "Поново покрените програм &brandShortName; да бисте применили измене">
 <!ENTITY cmd.skip.label "Прескочи">
-<!ENTITY cmd.skip.accesskey "П">
+<!ENTITY cmd.skip.accesskey "п">
 <!ENTITY cmd.skip.tooltip "Прескочи ове доградње">
 <!ENTITY cmd.continue.label "Настави">
-<!ENTITY cmd.continue.accesskey "в">
+<!ENTITY cmd.continue.accesskey "В">
 <!ENTITY cmd.continue.tooltip "Настави са учитавањем програма &brandShortName;">
 
 <!ENTITY cmd.enableAll.label "Укључи све">
@@ -48,13 +48,13 @@
 <!-- Displayed in the selected Add-on's richlistitem and context menu -->
 
 <!ENTITY cmd.useTheme.label "Користи тему">
-<!ENTITY cmd.useTheme.accesskey "т">
+<!ENTITY cmd.useTheme.accesskey "Т">
 <!ENTITY cmd.useTheme.tooltip "Мења у тему &brandShortName; ">
 <!ENTITY cmd.options.label "Опције">
 <!ENTITY cmd.options.accesskey "О">
 <!ENTITY cmd.options.tooltip "Постави опције за изабрано проширење">
 <!ENTITY cmd.optionsUnix.label "Поставке">
-<!ENTITY cmd.optionsUnix.accesskey "П">
+<!ENTITY cmd.optionsUnix.accesskey "п">
 <!ENTITY cmd.optionsUnix.tooltip "Измена подешавања ваших преоширења">
 <!ENTITY cmd.enable.label "Укључи">
 <!ENTITY cmd.enable.accesskey "У">
@@ -66,13 +66,13 @@
 <!ENTITY cmd.uninstall2.accesskey "U">
 <!ENTITY cmd.uninstall2.tooltip "Уклони овај додатак када се &brandShortName; поново покрене">
 <!ENTITY cmd.cancelUninstall.label "Поништи уклањање">
-<!ENTITY cmd.cancelUninstall.accesskey "т">
+<!ENTITY cmd.cancelUninstall.accesskey "Т">
 <!ENTITY cmd.cancelUninstall.tooltip "Поништи уклањање овог додатка">
 <!ENTITY cmd.cancelInstall.label "Откажи инсталацију">
 <!ENTITY cmd.cancelInstall.accesskey "О">
 <!ENTITY cmd.cancelInstall.tooltip "Отказује инсталацију овог додатка">
 <!ENTITY cmd.cancelUpgrade.label "Откажи доградњу">
-<!ENTITY cmd.cancelUpgrade.accesskey "д">
+<!ENTITY cmd.cancelUpgrade.accesskey "Д">
 <!ENTITY cmd.cancelUpgrade.tooltip "Отказује доградњу овог додатка">
 <!ENTITY cmd.installUpdate.label "Постави доградњу">
 <!ENTITY cmd.installUpdate.accesskey "П">
@@ -88,15 +88,15 @@
 <!ENTITY cmd.installSearchResult.tooltip "Преузми и инсталирај овај додатак">
 <!-- The selected add-on's cancel action button label -->
 <!ENTITY cancel.label "Откажи">
-<!ENTITY cancel.accesskey "ж">
+<!ENTITY cancel.accesskey "Ж">
 <!ENTITY cancelInstall.label "Откажи">
-<!ENTITY cancelInstall.accesskey "ж">
+<!ENTITY cancelInstall.accesskey "Ж">
 <!ENTITY cancelUpgrade.label "Откажи">
-<!ENTITY cancelUpgrade.accesskey "ж">
+<!ENTITY cancelUpgrade.accesskey "Ж">
 <!-- Only displayed in the selected Add-on's context menu -->
 
 <!ENTITY cmd.homepage.label "Посети страну пројекта">
-<!ENTITY cmd.homepage.accesskey "с">
+<!ENTITY cmd.homepage.accesskey "С">
 <!ENTITY cmd.about2.label "О овом додатку">
 <!ENTITY cmd.about.accesskey "A">
 <!ENTITY cmd.checkUpdate.label "Нађи доградњу">
@@ -105,13 +105,14 @@
 <!ENTITY cmd.includeUpdate.label "Укључи доградњу">
 <!ENTITY cmd.includeUpdate.accesskey "к">
 <!ENTITY includeUpdate.label "Укључи ову доградњу">
-<!ENTITY includeUpdate.accesskey "У">
+<!ENTITY includeUpdate.accesskey "у">
 <!ENTITY includeUpdate.tooltip "Укључи овај додатак при постављању доградњи">
 <!-- Status Messsages -->
 
 <!ENTITY insecureUpdate.label "Не нуди безбедносне доградње.">
 <!ENTITY needsDependencies.label "Захтева додатне ставке.">
 <!ENTITY blocklisted.label "Искључено ради Ваше безбедности.">
+<!ENTITY softBlocklisted.label "Познато је да узрокује проблеме са безбедношћу или стабилношћу.">
 <!ENTITY toBeDisabled.label "Овај додатак ће бити искључен када се програм &brandShortName; поново покрене.">
 <!ENTITY toBeEnabled.label "Овај додатак ће бити укључен када се програм &brandShortName; поново покрене.">
 <!ENTITY toBeInstalled.label "Овај додатак ће бити постављен када се програм &brandShortName; поново покрене.">
@@ -168,3 +169,6 @@
 <!ENTITY eula.width "560px">
 <!ENTITY eula.height "400px">
 <!ENTITY eula.accept "Прихватам, инсталирај…">
+
+<!ENTITY blocklist.blocked.label "Блокиран">
+<!ENTITY blocklist.checkbox.label "Искључи">

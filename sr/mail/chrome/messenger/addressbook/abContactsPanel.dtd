@@ -1,12 +1,12 @@
 <!ENTITY addressbookPicker.label "Адресар:">
-<!ENTITY addressbookPicker.accesskey "А">
+<!ENTITY addressbookPicker.accesskey "а">
 <!ENTITY searchInput.label "Тражи:">
 <!ENTITY searchInput.accesskey "ж">
 <!ENTITY SearchNameOrEmail.label "Име или ел. адресу">
 
-<!ENTITY deleteAddrBookCard.label "Delete">
-<!ENTITY addrBookCardProperties.label "Properties">
-<!ENTITY addtoToFieldMenu.label "Додај у поље За">
+<!ENTITY deleteAddrBookCard.label "Уклони">
+<!ENTITY addrBookCardProperties.label "Својства">
+<!ENTITY addtoToFieldMenu.label "Додај у поље Прима">
 <!ENTITY addtoCcFieldMenu.label "Додај у поље Коп">
 <!ENTITY addtoBccFieldMenu.label "Додај у поље сКоп">
 
@@ -15,4 +15,4 @@
 <!ENTITY ccButton.label "Додај копије:">
 <!ENTITY ccButton.accesskey "к">
 <!ENTITY bccButton.label "Додај бКоп:">
-<!ENTITY bccButton.accesskey "б">
+<!ENTITY bccButton.accesskey "Б">

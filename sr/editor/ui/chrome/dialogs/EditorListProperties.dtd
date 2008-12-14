@@ -47,8 +47,7 @@
 <!ENTITY bulletList.value "Тачкаст (ненумерисан) списак">
 <!ENTITY numberList.value "Нумерисан списак">
 <!ENTITY definitionList.value "Списак дефиниција">
-<!ENTITY changeListMsg.label "При промени врсте списка:">
 <!ENTITY changeEntireListRadio.label "Промени цео списак">
 <!ENTITY changeEntireListRadio.accessKey "П">
 <!ENTITY changeSelectedRadio.label "Промени само изабране ставке">
-<!ENTITY changeSelectedRadio.accessKey "и">
+<!ENTITY changeSelectedRadio.accessKey "И">

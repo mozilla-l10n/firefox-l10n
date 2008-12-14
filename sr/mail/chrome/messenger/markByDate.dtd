@@ -37,6 +37,6 @@
 
 <!ENTITY messageMarkByDate.label "Означи прочитане поруке по датуму">
 <!ENTITY markByDateLower.label "Означи поруке као прочитане почев од:">
-<!ENTITY markByDateLower.accesskey "о">
+<!ENTITY markByDateLower.accesskey "О">
 <!ENTITY markByDateUpper.label "До:">
 <!ENTITY markByDateUpper.accesskey "Д">

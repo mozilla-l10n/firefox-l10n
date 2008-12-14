@@ -1,34 +1,30 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Ради уштеде простора на диску, не примај:">
 <!ENTITY doNotDownload.label "Ради уштеде простора на диску, не примај датотеке за неповезан рад:">
-<!ENTITY offlineNewFolder.label "Када направим нове директоријуме, изабери их за неповезан рад">
-<!ENTITY offlineNewFolder.accesskey "д">
+<!ENTITY allFoldersOffline.label "Чувај поруке за овај налог на овом рачунару">
+<!ENTITY allFoldersOffline.accesskey "о">
 <!ENTITY offlineNotDownload.label "Поруке веће од">
 <!ENTITY offlineNotDownload.accesskey "П">
 <!ENTITY kb.label "KB">
-<!ENTITY days.label "дана">
 <!ENTITY daysOld.label "старо (дани)">
 <!ENTITY message.label "поруке">
 <!ENTITY nntpNotDownloadRead.label "Читај поруке">
-<!ENTITY nntpNotDownloadRead.accesskey "Ч">
+<!ENTITY nntpNotDownloadRead.accesskey "ч">
 <!ENTITY nntpDownloadMsg.label "Поруке више од">
-<!ENTITY nntpDownloadMsg.accesskey "П">
+<!ENTITY nntpDownloadMsg.accesskey "п">
 <!ENTITY retentionCleanup.label "Да бисте вратили простор на диску, старе поруке могу се трајно уклонити">
 <!ENTITY retentionKeepMsg.label "Уклони поруке старије од">
-<!ENTITY retentionKeepMsg.accesskey "п">
+<!ENTITY retentionKeepMsg.accesskey "с">
 <!ENTITY retentionKeepAll.label "Не уклањај поруке">
-<!ENTITY retentionKeepAll.accesskey "Н">
+<!ENTITY retentionKeepAll.accesskey "н">
 <!ENTITY retentionKeepNew.label "Уклони све осим последњих">
-<!ENTITY retentionKeepNew.accesskey "п">
+<!ENTITY retentionKeepNew.accesskey "л">
 <!ENTITY retentionKeepUnread.label "Увек уклони прочитане поруке">
 <!ENTITY retentionKeepUnread.accesskey "ч">
 <!ENTITY nntpRemoveBody.label "Само тела порука мања од">
-<!ENTITY nntpRemoveBody.accesskey "т">
+<!ENTITY nntpRemoveBody.accesskey "Т">
 <!ENTITY offlineSelectNntp.label "Изаберите групе за неповезан рад...">
-<!ENTITY offlineSelectNntp.accesskey "S">
-<!ENTITY offlineSelectImap.label "Изаберите директоријуме за неповезан рад">
-<!ENTITY offlineSelectImap.accesskey "S">
-<!ENTITY offlineDesc.label "Можете сачувати поруке на рачунару тако да су доступне и када нисте повезани на Интернет.">
-<!ENTITY makeInboxMsgsAvailable.label "Учини долазеће поруке доступним и када рачунар није повезан на Интернет.">
-<!ENTITY makeInboxMsgsAvailable.accesskey "д">
-<!ENTITY offlineGroupTitle.label "Неповезан рад">
+<!ENTITY offlineSelectNntp.accesskey "З">
+<!ENTITY offlineImapAdvancedOffline.label "Напредно…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "Н">
+<!ENTITY syncGroupTitle.label "Синхронизација">
 <!ENTITY diskspaceGroupTitle.label "Простор на диску">

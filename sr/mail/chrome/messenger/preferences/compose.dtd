@@ -1,48 +1,41 @@
 <!ENTITY itemGeneral.label "Опште">
 <!ENTITY itemAutoComplete.label "Адресирање">
 <!ENTITY itemSpellCheck.label "Правопис">
-<!ENTITY itemSendFormat.label "Формат за слање">
 
-<!ENTITY forwardReply.label "Прослеђивање порука">
 <!ENTITY forwardMsg.label "Прослеђене поруке:">
 <!ENTITY forwardMsg.accesskey "с">
 <!ENTITY inline.label "У тексту">
 <!ENTITY inline.accesskey "У">
 <!ENTITY asAttachment.label "Као прилог">
-<!ENTITY asAttachment.accesskey "п">
+<!ENTITY asAttachment.accesskey "П">
 <!ENTITY addExtension.label "додај наставак за тип датотеке">
 <!ENTITY addExtension.accesskey "н">
 
 <!ENTITY htmlComposeHeader.label "ХТМЛ">
 <!ENTITY font.label "Писмо:">
-<!ENTITY font.accesskey "П">
+<!ENTITY font.accesskey "п">
 <!ENTITY size.label "Величина:">
-<!ENTITY size.accesskey "В">
+<!ENTITY size.accesskey "в">
 <!ENTITY fontColor.label "Боја:">
-<!ENTITY fontColor.accesskey "Б">
+<!ENTITY fontColor.accesskey "б">
 <!ENTITY bgColor.label "Позадина:">
 <!ENTITY bgColor.accesskey "П">
 <!ENTITY restoreHTMLDefaults.label "Врати изворно">
 <!ENTITY restoreHTMLDefaults.accesskey "В">
 
-<!ENTITY sendingMessagesHeader.label "Састављање порука">
 <!ENTITY spellCheck.label "Провери правопис пре слања">
 <!ENTITY spellCheck.accesskey "П">
 <!ENTITY spellCheckInline.label "Укључи симултану проверу правописа">
 <!ENTITY spellCheckInline1.accesskey "с">
 <!ENTITY languagePopup.label "Језик:">
-<!ENTITY languagePopup.accessKey "Ј">
+<!ENTITY languagePopup.accessKey "ј">
 <!ENTITY downloadDictionaries.label "Преузми још речника">
 
 <!ENTITY warnOnSendAccelKey.label "Тражи потврду када се порука шаље скраћеницом са тастатуре">
-<!ENTITY warnOnSendAccelKey.accesskey "Т">
+<!ENTITY warnOnSendAccelKey.accesskey "т">
 <!ENTITY autoSave.label "Аутоматски чувај на">
-<!ENTITY autoSave.accesskey "А">
+<!ENTITY autoSave.accesskey "а">
 <!ENTITY autoSaveEnd.label "минута">
-<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
-<!ENTITY wrapOutMsg.label "Поруке у обичном тексту преломи у">
-<!ENTITY wrapOutMsg.accesskey "п">
-<!ENTITY char.label "колони">
 
 <!ENTITY emailCollectionPicker.label "Аутоматски додај одлазне адресе у:">
 <!ENTITY emailCollectionPicker.accesskey "у">
@@ -52,13 +45,10 @@
 <!ENTITY addressingEnable.accesskey "Л">
 <!ENTITY directories.label "Именику на серверу:">
 <!ENTITY directories.accesskey "И">
-<!ENTITY directoriesNone.label "None">
+<!ENTITY directoriesNone.label "Ниједан">
 <!ENTITY editDirectories.label "Уреди речнике…">
 <!ENTITY editDirectories.accesskey "У">
-<!ENTITY matchText.label "Ако постоји погодак у локалном адресару:">
-<!ENTITY skipDirectory.label "Не тражи у именику">
 
-<!ENTITY sendOptionsCaption.label "Опције за слање и HTML">
 <!ENTITY sendOptionsDescription.label "Подешавање понашања формата текста">
 <!ENTITY sendOptions.label "Опције за слање…">
 <!ENTITY sendOptions.accesskey "О">

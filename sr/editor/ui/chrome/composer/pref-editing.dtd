@@ -1,22 +1,22 @@
 <!ENTITY pref.editing.title "Поставке нове странице">
 
 <!ENTITY authorName.label "Аутор:">
-<!ENTITY authorName.accesskey "А">
+<!ENTITY authorName.accesskey "а">
 <!ENTITY pageColorHeader "Подразумевани изглед странице">
 
-<!ENTITY defaultColorsRadio.label "Подразумеване боје у читачу (не постављајте боје у страни)">
+<!ENTITY defaultColors.label "Reader's default colors (Don't set colors in page)">
 <!ENTITY defaultColors.accesskey "d">
-<!ENTITY customColorsRadio.label "Користи посебне боје:">
+<!ENTITY customColors.label "Use custom colors:">
 <!ENTITY customColors.accesskey "c">
 
 <!ENTITY normalText.label "Нормалан текст">
-<!ENTITY normalText.accesskey "о">
+<!ENTITY normalText.accesskey "О">
 <!ENTITY linkText.label "Текст везе">
-<!ENTITY linkText.accesskey "в">
+<!ENTITY linkText.accesskey "В">
 <!ENTITY activeLinkText.label "Текст активне везе">
-<!ENTITY activeLinkText.accesskey "а">
+<!ENTITY activeLinkText.accesskey "А">
 <!ENTITY visitedLinkText.label "Текст посећене везе">
-<!ENTITY visitedLinkText.accesskey "п">
+<!ENTITY visitedLinkText.accesskey "П">
 <!ENTITY background.label "Позадина:">
 <!ENTITY background.accesskey "П">
 <!ENTITY colon.character ":">
@@ -24,5 +24,5 @@
 <!ENTITY backgroundImage.label "Позадинска слика:">
 <!ENTITY backgroundImage.accesskey "с">
 <!ENTITY chooseFile.label "Избор датотеке…">
-<!ENTITY chooseFile.accesskey "И">
+<!ENTITY chooseFile.accesskey "и">
 

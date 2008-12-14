@@ -1,18 +1,18 @@
 <!ENTITY warnAddonInstall.label "Упозори ме ако веб сајтови пробају да инсталирају додатке">
 <!ENTITY warnAddonInstall.accesskey "У">
-<!-- LOCALIZATION NOTE (tellMaybeForgery.label, tellMaybeAttackSite.label):
+<!-- LOCALIZATION NOTE (blockWebForgeries.label, blockAttackSites.label):
   The methods by which forged (phished) and attack sites will be detected by
   phishing providers will vary from human review to machine-based heuristics to a
   combination of both, so it's important that these strings and
-  useDownloadedList.label convey the meaning "suspected" (and not something like
+  useDownloadedList.label convey the meaning "reported" (and not something like
   "known").
 -->
 
-<!ENTITY tellMaybeAttackSite.label "Обавести ме ако је сајт ког посећујем потенцијално опасан">
-<!ENTITY tellMaybeAttackSite.accesskey "м">
+<!ENTITY blockAttackSites.label "Блокирај познате ризичне сајтове">
+<!ENTITY blockAttackSites.accesskey "б">
 
-<!ENTITY tellMaybeForgery.label "Обавести ме ако је сајт ког посећујем могући фалсификат">
-<!ENTITY tellMaybeForgery.accesskey "О">
+<!ENTITY blockWebForgeries.label "Блокирај познате мрежне фалсификате">
+<!ENTITY blockWebForgeries.accesskey "Л">
 
 <!ENTITY addonExceptions.label "Изузеци…">
 <!ENTITY addonExceptions.accesskey "И">
@@ -28,10 +28,10 @@
 <!ENTITY useMasterPassword.label "Користи главну лозинку">
 <!ENTITY useMasterPassword.accesskey "К">
 <!ENTITY changeMasterPassword.label "Измена главне лозинке…">
-<!ENTITY changeMasterPassword.accesskey "г">
+<!ENTITY changeMasterPassword.accesskey "Г">
 
 <!ENTITY savedPasswords.label "Сачуване лозинке…">
-<!ENTITY savedPasswords.accesskey "л">
+<!ENTITY savedPasswords.accesskey "Л">
 
 
 <!ENTITY warnings.label "Поруке упозорења">

@@ -38,14 +38,14 @@
 <!ENTITY print.label "Штампа…">
 <!ENTITY print.accesskey "Ш">
 <!ENTITY pageSetup.label "Подешавање стране…">
-<!ENTITY pageSetup.accesskey "П">
+<!ENTITY pageSetup.accesskey "п">
 <!ENTITY page.label "Страна:">
 <!ENTITY page.accesskey "т">
 <!ENTITY of.label "од">
 <!ENTITY scale.label "Размера:">
 <!ENTITY scale.accesskey "Р">
 <!ENTITY portrait.label "Усправно">
-<!ENTITY portrait.accesskey "У">
+<!ENTITY portrait.accesskey "у">
 <!ENTITY landscape.label "Положено">
 <!ENTITY landscape.accesskey "П">
 <!ENTITY close.label "Затвори">

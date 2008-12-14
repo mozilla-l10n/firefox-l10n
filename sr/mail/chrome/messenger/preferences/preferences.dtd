@@ -7,8 +7,9 @@
 
 <!ENTITY paneGeneral.title "Опште">
 <!ENTITY paneDisplay.title "Приказ">
-<!ENTITY paneTags.title "Ознаке">
 <!ENTITY paneComposition.title "Састављање">
 <!ENTITY paneAttachments.title "Прилози">
 <!ENTITY panePrivacy.title "Приватност">
 <!ENTITY paneAdvanced.title "Напредно">
+
+<!ENTITY cmdCloseMac.commandKey "w">

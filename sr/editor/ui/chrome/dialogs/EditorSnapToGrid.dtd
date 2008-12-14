@@ -40,7 +40,7 @@
 <!ENTITY windowTitle.label "Уравнај на мрежу">
 
 <!ENTITY enableSnapToGrid.label "Укључи уравнање на мрежу">
-<!ENTITY enableSnapToGrid.accessKey "У">
+<!ENTITY enableSnapToGrid.accessKey "у">
 
 <!ENTITY sizeEditField.label "Величина:">
 <!ENTITY sizeEditField.accessKey "В">

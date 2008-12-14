@@ -6,12 +6,8 @@
 <!ENTITY addAccountButton.accesskey "Д">
 <!ENTITY setDefaultButton.label "Подеси као подразумеван">
 <!ENTITY setDefaultButton.accesskey "п">
-<!ENTITY duplicateButton.label "Умножи">
 <!ENTITY removeButton.label "Уклони налог">
 <!ENTITY removeButton.accesskey "У">
-
-<!ENTITY nameCol.label "Име">
-<!ENTITY duplicate.label "Умножи">
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      setting dialog, which specifies the width and height in em units of the dialog.

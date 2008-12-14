@@ -44,34 +44,34 @@
 <!-- Menu Items -->
 <!-- File menu -->
 
-<!ENTITY mapfileMenu.label "Датотека">
+<!ENTITY mapfileMenu.label "File">
 <!ENTITY mapfileMenu.accesskey "f">
-<!ENTITY clearCmd.label "Очисти">
+<!ENTITY clearCmd.label "Clear">
 <!ENTITY clearCmd.accesskey "a">
-<!ENTITY closeCmd.label "Затвори">
+<!ENTITY closeCmd.label "Close">
 <!ENTITY closeCmd.accesskey "c">
 <!-- Edit menu -->
 
-<!ENTITY mapeditMenu.label "Измени">
+<!ENTITY mapeditMenu.label "Edit">
 <!ENTITY mapeditMenu.accesskey "e">
-<!ENTITY cutCmd.label "Исеци">
+<!ENTITY cutCmd.label "Cut">
 <!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Умножи">
+<!ENTITY copyCmd.label "Copy">
 <!ENTITY copyCmd.accesskey "c">
-<!ENTITY pasteCmd.label "Убаци">
+<!ENTITY pasteCmd.label "Paste">
 <!ENTITY pasteCmd.accesskey "p">
-<!ENTITY selectallCmd.label "Изабери све">
+<!ENTITY selectallCmd.label "Select All">
 <!ENTITY selectallCmd.accesskey "s">
-<!ENTITY propsCmd.label "Својства жиже">
+<!ENTITY propsCmd.label "Hotspot Properties">
 <!ENTITY propsCmd.accesskey "h">
 <!-- View menu -->
 
-<!ENTITY mapviewMenu.label "Преглед">
+<!ENTITY mapviewMenu.label "View">
 <!ENTITY mapviewMenu.accesskey "v">
-<!ENTITY showhideTbarCmd.label "Сакриј алатну траку">
+<!ENTITY showhideTbarCmd.label "Hide Toolbar">
 <!ENTITY showhideTbarCmd.accesskey "t">
 <!-- Scaling -->
-<!ENTITY mapviewScale.label "Скалирај">
+<!ENTITY mapviewScale.label "Scale">
 <!ENTITY mapviewScale.accesskey "S">
 <!ENTITY apercentCmd.label "100">
 <!ENTITY apercentCmd.accesskey "1">
@@ -82,14 +82,13 @@
 
 <!ENTITY zoominCmd.label "Увећај">
 <!ENTITY zoomoutCmd.label "Умањи">
-<!ENTITY delSpotCmd.label "Уклони жижу">
 <!-- Keys -->
 
 <!ENTITY clear.key "d">
 <!ENTITY selectall.key "a">
 <!ENTITY close.key "l">
 <!ENTITY cut.key "x">
-<!ENTITY copy.key "c">
+<!ENTITY copy.key "З">
 <!ENTITY paste.key "v">
 <!ENTITY props.key "p">
-<!ENTITY tbar.key "t">
+<!ENTITY tbar.key "к">

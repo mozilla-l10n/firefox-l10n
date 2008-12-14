@@ -7,17 +7,15 @@
 <!ENTITY openDefault.accesskey "О">
 <!ENTITY openApplication.label "Отвори овим програмом:">
 <!ENTITY openApplication.accesskey "т">
-<!ENTITY changeApp.label "Избор...">
-<!ENTITY changeApp.accesskey "И">
+<!ENTITY changeApp.label "Browse…">
+<!ENTITY changeApp.accesskey "B">
 <!ENTITY saveToDisk.label "Сачувај на рачунар">
 <!ENTITY saveToDisk.accesskey "С">
 <!ENTITY saveToDefaultFolder.label "у подразумевани директоријум">
 <!ENTITY saveToDefaultFolder.accesskey "п">
 <!ENTITY saveToThisFolder.label "у овај директоријум:">
 <!ENTITY saveToThisFolder.accesskey "д">
-<!ENTITY chooseFolder.label "Избор...">
-<!ENTITY chooseFolder.accesskey "з">
+<!ENTITY chooseFolder.label "Browse…">
+<!ENTITY chooseFolder.accesskey "w">
 <!ENTITY saveToAskMe.label "питај ме где да сачувам датотеку">
 <!ENTITY saveToAskMe.accesskey "п">
-<!ENTITY usePlugin.label "користи овај додатак:">
-<!ENTITY usePlugin.accesskey "д">

@@ -12,16 +12,13 @@
 <!ENTITY highPriorityCmd.label "Висок">
 <!ENTITY highestPriorityCmd.label "Највиши">
 
-<!ENTITY contextDesc.label "Apply filter when:">
-<!ENTITY contextDesc.accesskey "w">
-<!ENTITY contextIncoming.label "Checking Mail">
-<!ENTITY contextManual.label "Manually Run">
-<!ENTITY contextBoth.label "Checking Mail or Manually Run">
+<!ENTITY contextDesc.label "Примени филтер при:">
+<!ENTITY contextDesc.accesskey "п">
+<!ENTITY contextIncoming.label "провери поште">
+<!ENTITY contextManual.label "ручном покретању">
+<!ENTITY contextBoth.label "провери поште или ручном покретању">
 <!ENTITY filterActionDesc.label "Уради следеће:">
 <!ENTITY filterActionDesc.accesskey "У">
-
-<!ENTITY newFolderButton.label "Нови директоријум…">
-<!ENTITY newFolderButton.accesskey "Н">
 <!-- New Style Filter Rule Actions -->
 
 <!ENTITY moveMessage.label "Помери поруку у">
@@ -37,6 +34,6 @@
 <!ENTITY deleteFromPOP.label "Уклони са POP сервера">
 <!ENTITY fetchFromPOP.label "Добави са POP сервера">
 <!ENTITY ignoreThread.label "Занемари нит">
-<!ENTITY ignoreSubthread.label "Ignore Subthread">
+<!ENTITY ignoreSubthread.label "Занемари поднит">
 <!ENTITY watchThread.label "Надгледај нит">
 <!ENTITY stopExecution.label "Заустави извршење филтера">

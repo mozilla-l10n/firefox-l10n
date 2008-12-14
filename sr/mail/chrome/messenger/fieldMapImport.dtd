@@ -44,9 +44,9 @@
 <!ENTITY fieldMapImport.previous.accesskey "П">
 <!ENTITY fieldMapImport.text "Користите Горе и Доле како бисте уклопили поља у адресару слева са исправним местима здесна. Ставке које не желите да увезете можете искључити.">
 <!ENTITY fieldMapImport.up.label "На горе">
-<!ENTITY fieldMapImport.up.accesskey "г">
+<!ENTITY fieldMapImport.up.accesskey "Г">
 <!ENTITY fieldMapImport.down.label "На доле">
-<!ENTITY fieldMapImport.down.accesskey "д">
+<!ENTITY fieldMapImport.down.accesskey "Д">
 <!ENTITY fieldMapImport.fieldListTitle "Поља у адресару">
 <!ENTITY fieldMapImport.dataTitle "Подаци у слогу за увоз">
 <!ENTITY fieldMapImport.skipFirstRecord.label "Први слог садржи имена поља">

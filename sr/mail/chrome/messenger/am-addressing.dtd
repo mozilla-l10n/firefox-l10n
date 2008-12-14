@@ -11,14 +11,14 @@
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "Користи други сервер за LDAP:">
 <!ENTITY directories.accesskey "д">
-<!ENTITY directoriesNone.label "None">
+<!ENTITY directoriesNone.label "Ниједан">
 <!-- am-addressing.xul -->
 
 
 <!ENTITY compositionGroupTitle.label "Састављање">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label "Састављај поруке у HTML формату">
-<!ENTITY useHtml.accesskey "т">
+<!ENTITY useHtml.accesskey "Т">
 <!ENTITY autoQuote.label "Аутоматски цитирај изворну поруку при одговарању">
 <!ENTITY autoQuote.accesskey "ц">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->

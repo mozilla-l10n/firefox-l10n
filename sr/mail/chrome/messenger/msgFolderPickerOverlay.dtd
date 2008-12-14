@@ -36,14 +36,5 @@
  ***** END LICENSE BLOCK ***** -->
 <!-- Labels -->
 
-<!ENTITY subscribechoosethis.label "изабери овај сервер за групе">
-<!ENTITY subscribeclickhere.label "притисните овде да изаберете сервер за групе">
 <!ENTITY newfolderchoosethis.label "изабери овај како родитељски">
-<!ENTITY newfolderclickhere.label "Притисните овде да изаберете">
-<!ENTITY renamefolderchoosethis.label "изабери овај директоријум">
-<!ENTITY renamefolderclickhere.label "притисните овде за избор директоријума">
 <!ENTITY filemessageschoosethis.label "изабери овај директоријум">
-<!ENTITY filemessagesclickhere.label "притисните овде за избор директоријума">
-<!ENTITY chooseaccountclickhere.label "Притисните овде да изаберете налог">
-<!ENTITY choosefolderclickhere.label "Притисните овде да изаберете директоријум">
-<!ENTITY chooseserverToDeferTo.label "притисните овде да изаберете налог који се користи за одлагање порука">

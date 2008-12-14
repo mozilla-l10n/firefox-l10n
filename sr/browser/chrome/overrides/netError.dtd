@@ -13,7 +13,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Сервер није пронађен">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Проверите грешке у адреси као нпр. <strong>ww</strong>.example.com уместо <strong>www</strong>.example.com</li> <li>Ако нисте у стању да учитате ни једну страну, проверите подешавања мреже у вашем систему.</li> <li>Ако је Ваш рачунар заштићен Ватреним зидом или прокси сервером, проверите да ли је &brandShortName;-у дозвољено да приступа интернету.</li> </ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Проверите грешке у адреси као нпр. <strong>ww</strong>.example.com уместо <strong>www</strong>.example.com</li> <li>Ако нисте у стању да учитате ни једну страну, проверите подешавања мреже у вашем систему.</li> <li>Ако је Ваш рачунар заштићен Ватреним зидом или прокси сервером, проверите да ли је програму &brandShortName; дозвољено да приступа интернету.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Датотека није пронађена">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Проверите коришћење великих/малих слова или неке друге грешке у куцању.</li> <li>Проверите да ли је датотека премештена, преименована или избрисана.</li> </ul>">
@@ -23,13 +23,13 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; из неког разлога не може да учита страну.</p>">
 
 <!ENTITY malformedURI.title "Адреса је неважећа">
-<!ENTITY malformedURI.longDesc "<ul> <li>Интернет адресе су обично типа <strong>http://www.example.com/</strong></li> <li>Проберите да ли користите исправне знакове (нпр.<strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc "<ul> <li>Веб адресе обично изгледају слично <strong>http://www.example.com/</strong></li> <li>Проберите да ли користите исправне знакове (нпр.<strong>/</strong> а не <strong>\</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Веза са сервером је прекинута">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Рад ван мреже">
-<!ENTITY netOffline.longDesc "<ul> <li>Дештиклирај &quot;Рад ван мреже&quot; у менију Датотека, па покушајте поново.</li> </ul>">
+<!ENTITY netOffline.longDesc "<ul> <li>Искључите „Неповезан рад‟ у менију „Датотека‟, па покушајте поново.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "Грешка у кодирању садржаја">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Молимо да се обратите власницима веб сајта и обавестите их о овом проблему.</li> </ul>">
@@ -47,7 +47,7 @@
 <!ENTITY protocolNotFound.longDesc "<ul> <li>Можда ћете морати да поставите други програм како бисте видели ову страну.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Посреднички сервер (proxy) одбија везу са сервером">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Проверите исправност подешавања прокси сервера.</li> <li>Питајте администратора ваше мреже да ли је прокси сервер активан.</li> </ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Проверите исправност подешавања прокси сервера.</li> <li>Питајте администратора ваше мреже да ли је активан посредникж (proxy).</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Не могу да пронађем посреднички сервер (proxy)">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Проверите исправност подешавања посредничког сервера.</li> <li>Проверите да ли веза са мрежом ради.</li> <li>Ако је Ваш рачунар заштићен ватробраном (firewall) или заступником, проверите да ли је програму &brandShortName; дозвољено да приступа интернету.</li> </ul>">

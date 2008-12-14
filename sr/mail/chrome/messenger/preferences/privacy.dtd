@@ -8,17 +8,17 @@
 <!ENTITY manualMark.label "Када поруку означим као нежељену:">
 <!ENTITY manualMark.accesskey "К">
 <!ENTITY manualMarkModeMove.label "Помери је у директоријум са нежељеном поштом">
-<!ENTITY manualMarkModeMove.accesskey "П">
+<!ENTITY manualMarkModeMove.accesskey "п">
 <!ENTITY manualMarkModeDelete.label "Уклони је">
-<!ENTITY manualMarkModeDelete.accesskey "У">
+<!ENTITY manualMarkModeDelete.accesskey "у">
 <!ENTITY markAsReadOnSpam.label "Означи да је нежељена порука прочитана">
-<!ENTITY markAsReadOnSpam.accesskey "О">
+<!ENTITY markAsReadOnSpam.accesskey "о">
 <!ENTITY enableJunkLogging.label "Бележење рада филтра за нежељене поруке">
 <!ENTITY enableJunkLogging.accesskey "ф">
 <!ENTITY openJunkLog.label "Прикажи дневник">
-<!ENTITY openJunkLog.accesskey "П">
+<!ENTITY openJunkLog.accesskey "п">
 <!ENTITY resetTrainingData.label "Очисти податке о тренингу">
-<!ENTITY resetTrainingData.accesskey "т">
+<!ENTITY resetTrainingData.accesskey "Т">
 <!-- Phishing Detector -->
 
 <!ENTITY phishingDetector1.intro "Програм &brandShortName; може да размотри поруку и утврди да ли се ради о превари, тражењем техника које се обично користе за обману.">
@@ -37,18 +37,9 @@
 <!ENTITY removeMasterPassword.label "Уклони главну лозинку…">
 <!ENTITY removeMasterPassword.accesskey "У">
 <!ENTITY editPasswords.label "Уреди сачуване лозинке">
-<!ENTITY editPasswords.accesskey "У">
+<!ENTITY editPasswords.accesskey "у">
 <!-- Anti Virus -->
 
 <!ENTITY antiVirus.intro "&brandShortName; може да олакша анти-вирусним програмима да проверавају ел. пошту тражећи вирусе у порукама пре него што се сачувају у локалу.">
 <!ENTITY antiVirus.label "Дозволи анти-вирусним програмима да поједине поруке издвоје у карантин">
 <!ENTITY antiVirus.accesskey "к">
-<!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
-
-<!ENTITY antiVirusCaption.label "Анти-вирус">
-<!ENTITY paswords.label "Лозинке">
-<!ENTITY emailScams.label "Преваре">
-<!ENTITY junkMail.label "Нежељена пошта">
-<!ENTITY itemIntrusions.label "Провале">
-<!ENTITY itemIntrusionsAndPasswords.label "Провале и лозинке">
-<!ENTITY itemJunkMail.label "Нежељена пошта">

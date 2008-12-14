@@ -58,7 +58,7 @@
 <!ENTITY smiley6Cmd.accesskey "П">
 <!ENTITY smiley6Cmd.tooltip "Убацује смешка коме је непријатно">
 <!ENTITY smiley7Cmd.label "Неодлучан">
-<!ENTITY smiley7Cmd.accesskey "е">
+<!ENTITY smiley7Cmd.accesskey "Е">
 <!ENTITY smiley7Cmd.tooltip "Убацује смешка који је неодлучан">
 <!ENTITY smiley8Cmd.label "Изненађен">
 <!ENTITY smiley8Cmd.accesskey "з">
@@ -76,16 +76,16 @@
 <!ENTITY smiley12Cmd.accesskey "Н">
 <!ENTITY smiley12Cmd.tooltip "Убацује смешка са новцем у устима">
 <!ENTITY smiley13Cmd.label "Једе ногу">
-<!ENTITY smiley13Cmd.accesskey "Ј">
+<!ENTITY smiley13Cmd.accesskey "ј">
 <!ENTITY smiley13Cmd.tooltip "Убацује смешка који је направио непријатну грешку">
 <!ENTITY smiley14Cmd.label "Невинашце">
 <!ENTITY smiley14Cmd.accesskey "Н">
 <!ENTITY smiley14Cmd.tooltip "Убацује смешка са лицем невинашцета">
 <!ENTITY smiley15Cmd.label "Плач">
-<!ENTITY smiley15Cmd.accesskey "П">
+<!ENTITY smiley15Cmd.accesskey "п">
 <!ENTITY smiley15Cmd.tooltip "Убацује смешка који плаче">
 <!ENTITY smiley16Cmd.label "Ништа не говорим">
-<!ENTITY smiley16Cmd.accesskey "Н">
+<!ENTITY smiley16Cmd.accesskey "н">
 <!ENTITY smiley16Cmd.tooltip "Убацује смешка који ништа не говори">
 <!ENTITY SmileButton.tooltip "Убаци смешка">
 

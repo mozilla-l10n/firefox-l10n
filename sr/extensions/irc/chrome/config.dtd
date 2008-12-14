@@ -51,7 +51,7 @@
 
 <!ENTITY object.reset.label "Изворно">
 <!ENTITY object.reset.hint "Поставља поставке овог објекта на изворне вредности">
-<!ENTITY object.reset.accesskey "И">
+<!ENTITY object.reset.accesskey "и">
 
 <!ENTITY dialog.apply "Примени">
 
@@ -69,4 +69,4 @@
 <!ENTITY config.network.accesskey "М">
 <!ENTITY config.target.label "Одредиште:">
 <!ENTITY config.target.hint "Циљни канал или име корисника">
-<!ENTITY config.target.accesskey "О">
+<!ENTITY config.target.accesskey "о">

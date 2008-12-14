@@ -41,7 +41,6 @@
 <!ENTITY windowTitle.label "Поставке слике">
 
 <!ENTITY pixelsPopup.value "тачака">
-<!ENTITY percentPopup.value "процената">
 <!-- These are in the Location tab panel -->
 
 <!ENTITY locationEditField.label "Место слике:">
@@ -57,7 +56,6 @@
 <!ENTITY noAltText.accessKey "Н">
 
 <!ENTITY previewBox.label "Преглед слике">
-<!ENTITY MoreFewerButton.tooltip "Прикажи више или мање поставки за уређивање">
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 
@@ -93,23 +91,16 @@
 <!-- These controls are in the Spacing Box -->
 
 <!ENTITY spacingBox.label "Размак">
-<!ENTITY spacingBox.tooltip "Унесите величину оквира слике">
 <!ENTITY leftRightEditField.label "Лево и десно:">
 <!ENTITY leftRightEditField.accessKey "Л">
 <!ENTITY topBottomEditField.label "Врх и дно:">
 <!ENTITY topBottomEditField.accessKey "В">
 <!ENTITY borderEditField.label "Попуњена ивица:">
-<!ENTITY borderEditField.accessKey "и">
+<!ENTITY borderEditField.accessKey "И">
 <!-- These controls are in the Link Box -->
 
 <!ENTITY showImageLinkBorder.label "Прикажи оквир око увезане слике">
-<!ENTITY showImageLinkBorder.accessKey "о">
-<!-- These controls may be added some day; currently not used -->
-
-<!ENTITY makePageBackgroundCheckbox.label "Направи позадину стране">
-<!ENTITY makePageBackgroundCheckbox.tooltip "Користи слику као позадину за ову страну">
-<!ENTITY editImageButton.label "Уреди слику">
-<!ENTITY editImageButton.tooltip "Уреди слику у другом програму">
+<!ENTITY showImageLinkBorder.accessKey "О">
 <!-- These tabs are currently used in the image input dialog -->
 
 <!ENTITY imageInputTab.label "Формулар">

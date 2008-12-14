@@ -51,28 +51,30 @@
 <!ENTITY button.value "Дугме">
 
 <!ENTITY InputSettings.label "Поставке поља">
-<!ENTITY InputName.label "Име поља:">
-<!ENTITY GroupName.label "Име групе:">
-<!ENTITY Name.accesskey "N">
-<!ENTITY InputValue.label "Вредност поља:">
-<!ENTITY InitialValue.label "Почетна вредност:">
-<!ENTITY Value.accesskey "V">
+<!ENTITY InputName.label "Field Name:">
+<!ENTITY InputName.accesskey "N">
+<!ENTITY GroupName.label "Group Name:">
+<!ENTITY GroupName.accesskey "N">
+<!ENTITY InputValue.label "Field Value:">
+<!ENTITY InputValue.accesskey "V">
+<!ENTITY InitialValue.label "Initial Value:">
+<!ENTITY InitialValue.accesskey "V">
 <!ENTITY InputChecked.label "Изабрано на почетку">
-<!ENTITY InputChecked.accesskey "п">
+<!ENTITY InputChecked.accesskey "П">
 <!ENTITY InputSelected.label "Изабрано на почетку">
-<!ENTITY InputSelected.accesskey "ч">
+<!ENTITY InputSelected.accesskey "Ч">
 <!ENTITY InputReadOnly.label "Само читање">
-<!ENTITY InputReadOnly.accesskey "м">
+<!ENTITY InputReadOnly.accesskey "М">
 <!ENTITY InputDisabled.label "Искључено">
 <!ENTITY InputDisabled.accesskey "И">
 <!ENTITY tabIndex.label "Индекс језичка">
-<!ENTITY tabIndex.accesskey "к">
+<!ENTITY tabIndex.accesskey "К">
 <!ENTITY TextSize.label "Величина поља:">
-<!ENTITY TextSize.accesskey "љ">
+<!ENTITY TextSize.accesskey "Љ">
 <!ENTITY TextLength.label "Највећа дужина">
-<!ENTITY TextLength.accesskey "ж">
+<!ENTITY TextLength.accesskey "Ж">
 <!ENTITY AccessKey.label "Тастер за приступ:">
-<!ENTITY AccessKey.accesskey "у">
+<!ENTITY AccessKey.accesskey "У">
 <!ENTITY Accept.label "Дозвољене врсте:">
 <!ENTITY Accept.accesskey "Д">
 

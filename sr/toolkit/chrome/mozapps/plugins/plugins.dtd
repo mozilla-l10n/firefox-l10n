@@ -21,3 +21,5 @@
 <!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; мора да се поново покрене како би прикључци прорадили.">
   
 <!ENTITY missingPlugin.label "Притисните овде да преузмете прикључак.">
+<!ENTITY disabledPlugin.label "Прикључак за овај садржај је искључен.  Притисните овде да подесите прикључке.">
+<!ENTITY blockedPlugin.label "Овај прикључак је блокиран ради Ваше безбедности.">

@@ -1,19 +1,18 @@
 <!ENTITY dialog.title "Потврде о пријему">
-<!ENTITY receiptSettings.label "Потврде о пријему">
 <!ENTITY requestReceipt.label "При слању порука, увек тражи потврду о пријему">
 <!ENTITY requestReceipt.accesskey "П">
 <!ENTITY receiptArrive.label "Када потврда стигне:">
 <!ENTITY leaveIt.label "Остави у улазном сандучету">
 <!ENTITY leaveIt.accesskey "с">
 <!ENTITY moveToSent.label "Помери у сандуче „Послато“">
-<!ENTITY moveToSent.accesskey "П">
+<!ENTITY moveToSent.accesskey "п">
 <!ENTITY requestMDN.label "Када примим захтев за потврдом о пријему:">
 <!ENTITY never.label "Никад не шаљи потврду">
-<!ENTITY never.accesskey "Н">
+<!ENTITY never.accesskey "н">
 <!ENTITY returnSome.label "Дозволи слање признанице за неке поруке">
-<!ENTITY returnSome.accesskey "Д">
+<!ENTITY returnSome.accesskey "д">
 <!ENTITY notInToCc.label "Ако нисам у пољима За или Коп ел. поруке:">
-<!ENTITY notInToCc.accesskey "А">
+<!ENTITY notInToCc.accesskey "а">
 <!ENTITY outsideDomain.label "Ако је пошиљалац на другом домену:">
 <!ENTITY outsideDomain.accesskey "п">
 <!ENTITY otherCases.label "У свим осталим случајевима:">

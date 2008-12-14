@@ -37,7 +37,6 @@
 
 <!ENTITY Window.title "Садржај">
 <!ENTITY buildToc.label "Направи садржај помоћу:">
-<!ENTITY style.label "Изглед:">
 <!ENTITY tag.label "Ознака:">
 <!ENTITY class.label "Класа:">
 <!ENTITY header1.label "Ниво 1">

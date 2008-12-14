@@ -28,7 +28,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.goToDownloadPage.label "Иди на страну са пријемима">
 <!ENTITY cmd.goToDownloadPage.accesskey "И">
 <!ENTITY cmd.copyDownloadLink.label "Умножи везу на пријем">
-<!ENTITY cmd.copyDownloadLink.accesskey "п">
+<!ENTITY cmd.copyDownloadLink.accesskey "П">
 <!ENTITY cmd.removeFromList.label "Уклони са списка">
 <!ENTITY cmd.removeFromList.accesskey "к">
 

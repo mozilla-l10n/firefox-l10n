@@ -39,9 +39,9 @@
    
 <!ENTITY newFolderDialog.title "Нов директоријум">
 <!ENTITY name.label "Име:">
-<!ENTITY name.accesskey "И">
+<!ENTITY name.accesskey "и">
 <!ENTITY description.label "Направи као поддиректоријум од:">
-<!ENTITY description.accesskey "Н">
+<!ENTITY description.accesskey "н">
 <!ENTITY folderRestriction1.label "Овај сервер подржава само две посебне врсте директоријума.">
 <!ENTITY folderRestriction2.label "Дозволи да нови директоријум садржи:">
 <!ENTITY foldersOnly.label "Само директоријуме">

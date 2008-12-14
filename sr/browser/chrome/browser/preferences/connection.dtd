@@ -5,27 +5,27 @@
 
 <!ENTITY proxyTitle.label "Избор посредника (proxy) за приступ Интернету">
 <!ENTITY noProxyTypeRadio.label "Без посредника (proxy)">
-<!ENTITY noProxyTypeRadio.accesskey "Б">
+<!ENTITY noProxyTypeRadio.accesskey "б">
 <!ENTITY systemTypeRadio.label "Користи системска подешавања посредника">
 <!ENTITY systemTypeRadio.accesskey "с">
 <!ENTITY WPADTypeRadio.label "Самостално препознај посредника за ову мрежу">
 <!ENTITY WPADTypeRadio.accesskey "м">
 <!ENTITY manualTypeRadio.label "Ручни избор посредника:">
-<!ENTITY manualTypeRadio.accesskey "Р">
+<!ENTITY manualTypeRadio.accesskey "р">
 <!ENTITY autoTypeRadio.label "Адреса за аутоматско подешавање посредника:">
 <!ENTITY autoTypeRadio.accesskey "А">
 <!ENTITY reload.label "Обнови">
 <!ENTITY reload.accesskey "б">
 <!ENTITY ftp.label "Посредник за FTP:">
-<!ENTITY ftp.accesskey "о">
+<!ENTITY ftp.accesskey "О">
 <!ENTITY gopher.label "Посредник за гофер (Gopher):">
-<!ENTITY gopher.accesskey "р">
+<!ENTITY gopher.accesskey "Р">
 <!ENTITY http.label "Посредник за ХТТП:">
-<!ENTITY http.accesskey "Х">
+<!ENTITY http.accesskey "х">
 <!ENTITY ssl.label "Посредник за ССЛ:">
 <!ENTITY ssl.accesskey "С">
 <!ENTITY socks.label "Домен за СОКС (SOCKS):">
-<!ENTITY socks.accesskey "н">
+<!ENTITY socks.accesskey "Н">
 <!ENTITY socks4.label "СОКС в4">
 <!ENTITY socks4.accesskey "4">
 <!ENTITY socks5.label "СОКС в5">
@@ -38,7 +38,7 @@
 <!ENTITY gopherPort.accesskey "">
 <!ENTITY SOCKSport.accesskey "т">
 <!ENTITY noproxy.label "Не користи посредника за:">
-<!ENTITY noproxy.accesskey "Н">
+<!ENTITY noproxy.accesskey "н">
 <!ENTITY noproxyExplain.label "Пример: .mozilla.org, .net.nz, , 192.168.1.0/24">
 <!ENTITY shareproxy.label "Користи истог посредника за све протоколе">
-<!ENTITY shareproxy.accesskey "К">
+<!ENTITY shareproxy.accesskey "к">

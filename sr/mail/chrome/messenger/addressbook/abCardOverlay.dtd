@@ -67,54 +67,59 @@
 <!ENTITY NickName.label "Надимак:">
 <!ENTITY NickName.accesskey "Н">
 
-<!ENTITY Internet.box "Интернет">
 <!ENTITY PrimaryEmail.label "Ел. адреса:">
 <!ENTITY PrimaryEmail.accesskey "Е">
 <!ENTITY SecondEmail.label "Додатна ел. адреса:">
-<!ENTITY SecondEmail.accesskey "Д">
+<!ENTITY SecondEmail.accesskey "д">
 <!ENTITY PreferMailFormat.label "Жели да прима поруке форматиране као:">
-<!ENTITY PreferMailFormat.accesskey "Ж">
+<!ENTITY PreferMailFormat.accesskey "ж">
 <!ENTITY PlainText.label "Обичан текст">
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Непознато">
 <!ENTITY ScreenName.label "Екранско име:">
 <!ENTITY ScreenName.accesskey "Е">
 
-<!ENTITY allowRemoteContent.label "Дозволи даљинске слике у пошти са ХТМЛом.">
+<!ENTITY allowRemoteContent.label "Дозволи удаљене слике">
 <!ENTITY allowRemoteContent.accesskey "љ">
+<!ENTITY allowRemoteContent.tooltip "У порукама са ХТМЛ-ом је могућа уградња слика са удаљених рачунара.  Отварање овакве поруке ће отворити везу ка том рачунару.  Помоћу овога је могуће пратити да ли је порука прочитана.  Бирањем ове опције ћете дозволити приказ оваквих слика када Вам овај контакт пошаље поруку.">
 
-<!ENTITY Phones.box "Телефони">
 <!ENTITY WorkPhone.label "Посао:">
 <!ENTITY WorkPhone.accesskey "с">
 <!ENTITY HomePhone.label "Кућа:">
-<!ENTITY HomePhone.accesskey "К">
+<!ENTITY HomePhone.accesskey "к">
 <!ENTITY FaxNumber.label "Факс:">
-<!ENTITY FaxNumber.accesskey "Ф">
+<!ENTITY FaxNumber.accesskey "ф">
 <!ENTITY PagerNumber.label "Пејџер:">
-<!ENTITY PagerNumber.accesskey "П">
+<!ENTITY PagerNumber.accesskey "п">
 <!ENTITY CellularNumber.label "Мобилни:">
 <!ENTITY CellularNumber.accesskey "М">
 
-<!ENTITY Address.tab "Адреса">
-<!ENTITY Address.accesskey "А">
-<!ENTITY Home.box "Кућа">
+<!ENTITY Home.tab "Приватни">
+<!ENTITY Home.accesskey "П">
 <!ENTITY HomeAddress.label "Адреса:">
-<!ENTITY HomeAddress.accesskey "д">
+<!ENTITY HomeAddress.accesskey "Д">
 <!ENTITY HomeAddress2.label "">
 <!ENTITY HomeAddress2.accesskey "">
 <!ENTITY HomeCity.label "Место:">
-<!ENTITY HomeCity.accesskey "М">
+<!ENTITY HomeCity.accesskey "м">
 <!ENTITY HomeState.label "Област/покрајина:">
 <!ENTITY HomeState.accesskey "О">
 <!ENTITY HomeZipCode.label "Поштански број:">
-<!ENTITY HomeZipCode.accesskey "ш">
+<!ENTITY HomeZipCode.accesskey "Ш">
 <!ENTITY HomeCountry.label "Држава:">
 <!ENTITY HomeCountry.accesskey "ж">
-<!ENTITY HomeWebPage.label "Мрежна страна:">
-<!ENTITY HomeWebPage.accesskey "М">
-<!ENTITY Work.box "Посао">
+<!ENTITY HomeWebPage.label "Веб страна:">
+<!ENTITY HomeWebPage.accesskey "в">
+<!ENTITY Birthday.label "Рођендан:">
+<!ENTITY Birthday.accesskey "Р">
+<!ENTITY Year.emptytext "Година">
+<!ENTITY Or.value "или">
+<!ENTITY Age.emptytext "Број година">
+
+<!ENTITY Work.tab "Посао">
+<!ENTITY Work.accesskey "о">
 <!ENTITY JobTitle.label "Титула:">
-<!ENTITY JobTitle.accesskey "Т">
+<!ENTITY JobTitle.accesskey "т">
 <!ENTITY Department.label "Одељење:">
 <!ENTITY Department.accesskey "љ">
 <!ENTITY Company.label "Огранизација:">
@@ -126,13 +131,13 @@
 <!ENTITY WorkCity.label "Место:">
 <!ENTITY WorkCity.accesskey "т">
 <!ENTITY WorkState.label "Област/Покрајина:">
-<!ENTITY WorkState.accesskey "к">
+<!ENTITY WorkState.accesskey "К">
 <!ENTITY WorkZipCode.label "Поштански број:">
-<!ENTITY WorkZipCode.accesskey "с">
+<!ENTITY WorkZipCode.accesskey "С">
 <!ENTITY WorkCountry.label "Држава:">
 <!ENTITY WorkCountry.accesskey "в">
-<!ENTITY WorkWebPage.label "Мрежна страна:">
-<!ENTITY WorkWebPage.accesskey "н">
+<!ENTITY WorkWebPage.label "Веб страна:">
+<!ENTITY WorkWebPage.accesskey "б">
 
 <!ENTITY Other.tab "Остало">
 <!ENTITY Other.accesskey "т">
@@ -144,5 +149,5 @@
 <!ENTITY Custom3.accesskey "3">
 <!ENTITY Custom4.label "Произвољно 4:">
 <!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.box "Белешке">
+<!ENTITY Notes.label "Белешке:">
 <!ENTITY Notes.accesskey "Б">

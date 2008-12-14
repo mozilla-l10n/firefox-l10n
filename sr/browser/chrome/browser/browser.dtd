@@ -7,19 +7,22 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
+                                                                  inside the private browsing mode -->
+<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (поверљиво читање)">
 
 <!ENTITY tabCmd.label "Нови језичак">
-<!ENTITY tabCmd.accesskey "з">
+<!ENTITY tabCmd.accesskey "З">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Отвори адресу…">
-<!ENTITY openLocationCmd.accesskey "д">
+<!ENTITY openLocationCmd.accesskey "Д">
 <!ENTITY openFileCmd.label "Отвори датотеку…">
 <!ENTITY openFileCmd.accesskey "О">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Подеси страну…">
 <!ENTITY printSetupCmd.accesskey "р">
 <!ENTITY printPreviewCmd.label "Преглед пре штампе">
-<!ENTITY printPreviewCmd.accesskey "П">
+<!ENTITY printPreviewCmd.accesskey "п">
 <!ENTITY printCmd.label "Штампа…">
 <!ENTITY printCmd.accesskey "Ш">
 <!ENTITY printCmd.commandkey "p">
@@ -32,7 +35,7 @@
 <!ENTITY navbarCmd.label "Трака за навигацију">
 <!ENTITY navbarCmd.accesskey "Т">
 <!ENTITY personalbarCmd.label "Трака са забелешкама">
-<!ENTITY personalbarCmd.accesskey "з">
+<!ENTITY personalbarCmd.accesskey "З">
 <!ENTITY bookmarksToolbarItem.label "Забележи ставке из алатне траке">
 <!ENTITY taskbarCmd.label "Статусна трака">
 <!ENTITY taskbarCmd.accesskey "С">
@@ -41,21 +44,21 @@
 <!ENTITY pageSourceCmd.accesskey "к">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Подаци о страни">
-<!ENTITY pageInfoCmd.accesskey "д">
+<!ENTITY pageInfoCmd.accesskey "Д">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Користи цео екран">
-<!ENTITY fullScreenCmd.accesskey "ц">
+<!ENTITY fullScreenCmd.accesskey "Ц">
 
 <!ENTITY fullScreenMinimize.tooltip "Умањи">
 <!ENTITY fullScreenRestore.tooltip "Врати">
 <!ENTITY fullScreenClose.tooltip "Затвори">
 <!ENTITY fullScreenAutohide.label "Уклони алатне траке">
-<!ENTITY fullScreenAutohide.accesskey "т">
+<!ENTITY fullScreenAutohide.accesskey "Т">
 <!ENTITY fullScreenExit.label "Обустави приказ на целом екрану">
-<!ENTITY fullScreenExit.accesskey "б">
+<!ENTITY fullScreenExit.accesskey "Б">
 
 <!ENTITY closeWindow.label "Затвори прозор">
-<!ENTITY closeWindow.accesskey "З">
+<!ENTITY closeWindow.accesskey "з">
 
 <!ENTITY bookmarksMenu.label "Забелешке">
 <!ENTITY bookmarksMenu.accesskey "З">
@@ -68,17 +71,17 @@
 <!ENTITY bookmarkAllCmd.label "Забележи све језичке…">
 
 <!ENTITY backCmd.label "Назад">
-<!ENTITY backCmd.accesskey "з">
+<!ENTITY backCmd.accesskey "З">
 <!ENTITY backButton.tooltip "На претходну страну">
 <!ENTITY forwardCmd.label "Напред">
-<!ENTITY forwardCmd.accesskey "п">
+<!ENTITY forwardCmd.accesskey "П">
 <!ENTITY forwardButton.tooltip "На наредну страну">
 <!ENTITY backForwardMenu.tooltip "Недавне стране">
 <!ENTITY reloadCmd.label "Обнови">
 <!ENTITY reloadCmd.accesskey "О">
 <!ENTITY reloadButton.tooltip "Обнови текућу страну">
 <!ENTITY stopCmd.label "Заустави">
-<!ENTITY stopCmd.accesskey "с">
+<!ENTITY stopCmd.accesskey "С">
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Заустави учитавање стране">
 <!ENTITY goEndCap.tooltip "Приказ адресе уписане у траку за адресе">
@@ -105,12 +108,12 @@
 <!ENTITY historySidebarCmd.commandKey "h">
 
 <!ENTITY toolsMenu.label "Алати">
-<!ENTITY toolsMenu.accesskey "л">
+<!ENTITY toolsMenu.accesskey "Л">
 
 <!ENTITY keywordfield.label "Додај кључну реч за ову претрагу…">
-<!ENTITY keywordfield.accesskey "к">
+<!ENTITY keywordfield.accesskey "К">
 <!ENTITY search.label "Претрага веб сајта">
-<!ENTITY search.accesskey "в">
+<!ENTITY search.accesskey "В">
 <!ENTITY downloads.label "Пријеми">
 <!ENTITY downloads.tooltip "Прикажи напредак пријема">
 <!ENTITY downloads.accesskey "П">
@@ -118,14 +121,14 @@
 <!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label "Додаци">
 <!ENTITY addons.tooltip "Приказ и управљање постављеним додацима">
-<!ENTITY addons.accesskey "ц">
+<!ENTITY addons.accesskey "Ц">
 
 <!ENTITY errorConsoleCmd.label "Конзола за грешке">
-<!ENTITY errorConsoleCmd.accesskey "г">
+<!ENTITY errorConsoleCmd.accesskey "Г">
 <!ENTITY errorConsoleCmd.commandkey "j">
 
 <!ENTITY fileMenu.label "Датотека">
-<!ENTITY fileMenu.accesskey "т">
+<!ENTITY fileMenu.accesskey "Т">
 <!ENTITY newNavigatorCmd.label "Нови прозор">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "Н">
@@ -134,44 +137,47 @@
 <!ENTITY editMenu.accesskey "У">
 <!ENTITY undoCmd.label "Опозови">
 <!ENTITY undoCmd.key "z">
-<!ENTITY undoCmd.accesskey "з">
+<!ENTITY undoCmd.accesskey "З">
 <!ENTITY redoCmd.label "Понови">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "П">
 <!ENTITY cutCmd.label "Исеци">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "И">
+<!ENTITY cutCmd.accesskey "и">
 <!ENTITY copyCmd.label "Умножи">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "У">
 <!ENTITY pasteCmd.label "Убаци">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "б">
+<!ENTITY pasteCmd.accesskey "Б">
 <!ENTITY deleteCmd.label "Обриши">
 <!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "О">
 <!ENTITY selectAllCmd.label "Изабери све">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "с">
+<!ENTITY selectAllCmd.accesskey "С">
 <!ENTITY preferencesCmd.label "Опције…">
 <!ENTITY preferencesCmd.accesskey "О">
 <!ENTITY preferencesCmdUnix.label "Подешавања">
 <!ENTITY preferencesCmdUnix.accesskey "ш">
 
-<!ENTITY clearPrivateDataCmd.label "Уклони приватне податке">
-<!ENTITY clearPrivateDataCmd.accesskey "п">
+<!ENTITY clearRecentHistoryCmd.label "Уклони скорашњи историјат">
+<!ENTITY clearRecentHistoryCmd.accesskey "И">
+
+<!ENTITY privateBrowsingCmd.label "Поверљиво читање">
+<!ENTITY privateBrowsingCmd.accesskey "П">
 
 <!ENTITY viewMenu.label "Приказ">
-<!ENTITY viewMenu.accesskey "р">
+<!ENTITY viewMenu.accesskey "Р">
 <!ENTITY viewToolbarsMenu.label "Панели алата">
-<!ENTITY viewToolbarsMenu.accesskey "а">
+<!ENTITY viewToolbarsMenu.accesskey "А">
 <!ENTITY viewSidebarMenu.label "Бочна трака">
 <!ENTITY viewSidebarMenu.accesskey "ч">
 <!ENTITY viewCustomizeToolbar.label "Прилагоди…">
 <!ENTITY viewCustomizeToolbar.accesskey "П">
 
 <!ENTITY historyMenu.label "Историјат">
-<!ENTITY historyMenu.accesskey "И">
+<!ENTITY historyMenu.accesskey "и">
 <!ENTITY historyUndoMenu.label "Недавно затворени језичци">
 
 <!ENTITY historyHomeCmd.label "Почетак">
@@ -208,15 +214,15 @@
 <!ENTITY searchFocusUnix.commandkey "j">
 
 <!ENTITY openLinkCmd.label "Отвори у новом прозору">
-<!ENTITY openLinkCmd.accesskey "п">
+<!ENTITY openLinkCmd.accesskey "П">
 <!ENTITY openLinkCmdInTab.label "Отвори у новом језичку">
-<!ENTITY openLinkCmdInTab.accesskey "ј">
+<!ENTITY openLinkCmdInTab.accesskey "Ј">
 <!ENTITY openFrameCmd.label "Отвори оквир у новом прозору">
-<!ENTITY openFrameCmd.accesskey "п">
+<!ENTITY openFrameCmd.accesskey "П">
 <!ENTITY openFrameCmdInTab.label "Отвори оквир у новом језичку">
-<!ENTITY openFrameCmdInTab.accesskey "к">
+<!ENTITY openFrameCmdInTab.accesskey "К">
 <!ENTITY showOnlyThisFrameCmd.label "Прикажи само овај оквир">
-<!ENTITY showOnlyThisFrameCmd.accesskey "к">
+<!ENTITY showOnlyThisFrameCmd.accesskey "К">
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY reloadFrameCmd.label "Обнови оквир">
 <!ENTITY reloadFrameCmd.accesskey "О">
@@ -230,32 +236,34 @@
 <!ENTITY viewFrameSourceCmd.label "Преглед HTML кода у оквиру">
 <!ENTITY viewFrameSourceCmd.accesskey "П">
 <!ENTITY viewPageInfoCmd.label "Подаци о страни">
-<!ENTITY viewPageInfoCmd.accesskey "д">
+<!ENTITY viewPageInfoCmd.accesskey "Д">
 <!ENTITY viewFrameInfoCmd.label "Подаци о оквиру">
-<!ENTITY viewFrameInfoCmd.accesskey "д">
-<!ENTITY showImageCmd.label "Покажи слику">
-<!ENTITY showImageCmd.accesskey "с">
+<!ENTITY viewFrameInfoCmd.accesskey "Д">
+<!ENTITY reloadImageCmd.label "Поновно учитавање слике">
+<!ENTITY reloadImageCmd.accesskey "П">
 <!ENTITY viewImageCmd.label "Прикажи слику">
-<!ENTITY viewImageCmd.accesskey "л">
+<!ENTITY viewImageCmd.accesskey "Л">
+<!ENTITY viewVideoCmd.label "Преглед видеа">
+<!ENTITY viewVideoCmd.accesskey "В">
 <!ENTITY viewBGImageCmd.label "Прикажи позадинску слику">
 <!ENTITY viewBGImageCmd.accesskey "к">
 <!ENTITY setDesktopBackgroundCmd.label "Постави на радну површину…">
 <!ENTITY setDesktopBackgroundCmd.accesskey "П">
 <!ENTITY bookmarkPageCmd2.label "Забележи ову страну">
-<!ENTITY bookmarkPageCmd2.accesskey "З">
+<!ENTITY bookmarkPageCmd2.accesskey "з">
 <!ENTITY bookmarkThisLinkCmd.label "Забележи ову везу">
-<!ENTITY bookmarkThisLinkCmd.accesskey "в">
+<!ENTITY bookmarkThisLinkCmd.accesskey "В">
 <!ENTITY bookmarkThisFrameCmd.label "Забележи овај оквир">
 <!ENTITY bookmarkThisFrameCmd.accesskey "к">
 <!ENTITY sendPageCmd.label "Пошаљи везу…">
 <!ENTITY sendPageCmd.accesskey "ш">
 <!ENTITY savePageCmd.label "Сачувај страну као…">
-<!ENTITY savePageCmd.accesskey "к">
+<!ENTITY savePageCmd.accesskey "К">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2 "P">
 <!ENTITY savePageCmd.commandkey "s">
 <!ENTITY saveFrameCmd.label "Сачувај оквир као…">
-<!ENTITY saveFrameCmd.accesskey "о">
+<!ENTITY saveFrameCmd.accesskey "О">
 <!ENTITY printFrameCmd.label "Штампај оквир…">
 <!ENTITY printFrameCmd.accesskey "Ш">
 <!ENTITY saveLinkCmd.label "Сачувај везу као…">
@@ -263,29 +271,56 @@
 <!ENTITY sendLinkCmd.label "Пошаљи везу…">
 <!ENTITY sendLinkCmd.accesskey "ш">
 <!ENTITY saveImageCmd.label "Сачувај слику као…">
-<!ENTITY saveImageCmd.accesskey "С">
+<!ENTITY saveImageCmd.accesskey "с">
+<!ENTITY saveVideoCmd.label "Сачувај видео као…">
+<!ENTITY saveVideoCmd.accesskey "ч">
+<!ENTITY saveAudioCmd.label "Сачувај аудио као…">
+<!ENTITY saveAudioCmd.accesskey "д">
 <!ENTITY sendImageCmd.label "Пошаљи слику…">
 <!ENTITY sendImageCmd.accesskey "ш">
+<!ENTITY sendVideoCmd.label "Пошаљи видео…">
+<!ENTITY sendVideoCmd.accesskey "ш">
+<!ENTITY sendAudioCmd.label "Пошаљи аудио…">
+<!ENTITY sendAudioCmd.accesskey "љ">
 <!ENTITY copyLinkCmd.label "Умножи везу">
-<!ENTITY copyLinkCmd.accesskey "У">
+<!ENTITY copyLinkCmd.accesskey "у">
 <!ENTITY copyLinkTextCmd.label "Умножи везу">
-<!ENTITY copyLinkTextCmd.accesskey "У">
+<!ENTITY copyLinkTextCmd.accesskey "у">
 <!ENTITY copyImageCmd.label "Умножи адресу слике">
 <!ENTITY copyImageCmd.accesskey "м">
 <!ENTITY copyImageContentsCmd.label "Умножи слику">
 <!ENTITY copyImageContentsCmd.accesskey "с">
+<!ENTITY copyVideoURLCmd.label "Умножи одредиште за видео">
+<!ENTITY copyVideoURLCmd.accesskey "о">
+<!ENTITY copyAudioURLCmd.label "Умножи одредиште за аудио">
+<!ENTITY copyAudioURLCmd.accesskey "ж">
 <!ENTITY blockImageCmd.accesskey "B">
 <!ENTITY metadataCmd.label "Својства">
 <!ENTITY metadataCmd.accesskey "С">
 <!ENTITY copyEmailCmd.label "Умножи адресу ел.поште">
-<!ENTITY copyEmailCmd.accesskey "е">
+<!ENTITY copyEmailCmd.accesskey "Е">
 <!ENTITY thisFrameMenu.label "У овом оквиру">
 <!ENTITY thisFrameMenu.accesskey "в">
+<!-- Media (video/audio) controls -->
+
+<!ENTITY mediaPlay.label "Пусти">
+<!ENTITY mediaPlay.accesskey "П">
+<!ENTITY mediaPause.label "Паузирај">
+<!ENTITY mediaPause.accesskey "З">
+<!ENTITY mediaMute.label "Утишај">
+<!ENTITY mediaMute.accesskey "У">
+<!ENTITY mediaUnmute.label "Појачај">
+<!ENTITY mediaUnmute.accesskey "ј">
+<!ENTITY mediaShowControls.label "Прикажи контроле">
+<!ENTITY mediaShowControls.accesskey "К">
+<!ENTITY mediaHideControls.label "Сакриј контроле">
+<!ENTITY mediaHideControls.accesskey "Н">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
+
 
 
 <!ENTITY fullZoomEnlargeCmd.label "Увећај">
@@ -306,11 +341,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey2 "">
 
 <!ENTITY fullZoomToggleCmd.label "Увећај само текст">
-<!ENTITY fullZoomToggleCmd.accesskey "т">
+<!ENTITY fullZoomToggleCmd.accesskey "Т">
 <!ENTITY fullZoom.label "Увећање">
 <!ENTITY fullZoom.accesskey "У">
 
-<!ENTITY newTabButton.tooltip "Отвара нови језичак">
 <!ENTITY newWindowButton.tooltip "Отвара нови прозор">
 <!ENTITY sidebarCloseButton.tooltip "Затвори бочну траку">
 
@@ -319,11 +353,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pasteButton.tooltip "Убаци">
 
 <!ENTITY quitApplicationCmdWin.label "Изађи">
-<!ENTITY quitApplicationCmdWin.accesskey "И">
+<!ENTITY quitApplicationCmdWin.accesskey "и">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label "Напусти">
-<!ENTITY quitApplicationCmd.accesskey "а">
+<!ENTITY quitApplicationCmd.accesskey "А">
 <!ENTITY quitApplicationCmdMac.label "Напусти програм &brandShortName;">
 <!ENTITY quitApplicationCmdMac.key "Q">
 
@@ -332,11 +366,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.accesskey "З">
 
 <!ENTITY pageStyleMenu.label "Стил стране">
-<!ENTITY pageStyleMenu.accesskey "С">
+<!ENTITY pageStyleMenu.accesskey "с">
 <!ENTITY pageStyleNoStyle.label "Без стила">
-<!ENTITY pageStyleNoStyle.accesskey "Б">
+<!ENTITY pageStyleNoStyle.accesskey "б">
 <!ENTITY pageStylePersistentOnly.label "Основни стил стране">
-<!ENTITY pageStylePersistentOnly.accesskey "О">
+<!ENTITY pageStylePersistentOnly.accesskey "о">
 
 <!ENTITY pageReportIcon.tooltip "Измена подешавања за блокирање искачућих прозора за овај сајт">
 
@@ -368,10 +402,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label "Готово">
 <!ENTITY editBookmark.cancel.label "Откажи">
-<!ENTITY editBookmark.removeBookmark.label "Уклони забелешку">
 <!ENTITY editBookmark.removeBookmark.accessKey "У">
 <!ENTITY editBookmark.undo.label "Опозови">
-<!ENTITY editBookmark.undo.accessKey "з">
+<!ENTITY editBookmark.undo.accessKey "З">
 <!ENTITY editBookmark.edit.label "Уреди…">
 <!ENTITY editBookmark.edit.accessKey "У">
 
@@ -393,3 +426,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Више података…">
 
 <!ENTITY downloadMonitor2.tooltip "Притисните да бисте отворили прозор са пријемима">
+
+<!ENTITY ctrlTab.search.emptyText "Језичци за претрагу">

@@ -1,21 +1,21 @@
 <!ENTITY walletPasswordManager.label "Управник лозинкама">
-<!ENTITY walletPasswordManager.accesskey "У">
+<!ENTITY walletPasswordManager.accesskey "у">
 <!ENTITY walletSafeFillCmd.label "Попуни формулар">
 <!ENTITY walletSafeFillCmd.accesskey "ф">
 <!ENTITY walletQuickFillCmd.label "Брза попуна формулара">
-<!ENTITY walletQuickFillCmd.accesskey "Б">
+<!ENTITY walletQuickFillCmd.accesskey "б">
 <!ENTITY walletRequestToCaptureCmd.label "Сачувај податке о формулару">
 <!ENTITY walletRequestToCaptureCmd.accesskey "С">
 <!ENTITY walletDisplaySignonsCmd.label "Управљање сачуваним лозинкама">
 <!ENTITY walletDisplaySignonsCmd.accesskey "У">
 <!ENTITY walletInterviewCmd.label "Интервју">
-<!ENTITY walletInterviewCmd.accesskey "И">
+<!ENTITY walletInterviewCmd.accesskey "и">
 <!ENTITY walletSamplesCmd.label "Пример">
-<!ENTITY walletSamplesCmd.accesskey "П">
+<!ENTITY walletSamplesCmd.accesskey "п">
 <!ENTITY walletChangePasswordCmd.label "Промена главне лозинке…">
 <!ENTITY walletChangePasswordCmd.accesskey "р">
 <!ENTITY walletExpirePasswordCmd.label "Одјава">
-<!ENTITY walletExpirePasswordCmd.accesskey "О">
+<!ENTITY walletExpirePasswordCmd.accesskey "о">
 <!ENTITY walletEncryptCmd.label "Шифруј поверљиве податке">
 <!ENTITY walletEncryptCmd.accesskey "Ш">
 <!ENTITY walletObscureCmd.label "Сакриј поверљиве податке">

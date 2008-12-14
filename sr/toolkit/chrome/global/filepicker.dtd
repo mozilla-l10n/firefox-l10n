@@ -1,14 +1,14 @@
 <!ENTITY lookInMenuList.label "Погледај у:">
 <!ENTITY lookInMenuList.accesskey "П">
 <!ENTITY textInput.label "Име датотеке:">
-<!ENTITY textInput.accesskey "И">
+<!ENTITY textInput.accesskey "и">
 <!ENTITY filterMenuList.label "Типови датотека:">
-<!ENTITY filterMenuList.accesskey "Т">
+<!ENTITY filterMenuList.accesskey "т">
 <!ENTITY name.label "Име">
 <!ENTITY size.label "Величина">
 <!ENTITY lastModified.label "Последња измена">
 <!ENTITY showHiddenFiles.label "Приказ сакривених датотека и директоријума">
-<!ENTITY showHiddenFiles.accesskey "с">
+<!ENTITY showHiddenFiles.accesskey "С">
 
 <!ENTITY noPermissionError.label "Немате потребно овлашћење за приступ овом директоријуму.">
 

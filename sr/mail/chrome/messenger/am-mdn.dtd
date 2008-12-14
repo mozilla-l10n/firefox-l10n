@@ -7,7 +7,7 @@
 <!ENTITY requestReceipt.accesskey "П">
 <!ENTITY receiptArrive.label "Када потврда стигне:">
 <!ENTITY leaveIt.label "Остави у улазном сандучету">
-<!ENTITY leaveIt.accesskey "с">
+<!ENTITY leaveIt.accesskey "С">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
 <!ENTITY moveToSent.label "Помери у сандуче „Послато“">
 <!ENTITY moveToSent.accesskey "П">

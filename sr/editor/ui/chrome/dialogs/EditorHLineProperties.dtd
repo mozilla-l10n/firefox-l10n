@@ -47,14 +47,14 @@
 <!ENTITY pixelsPopup.value "тачака">
 <!ENTITY alignmentBox.label "Поравнање">
 <!ENTITY leftRadio.label "Улево">
-<!ENTITY leftRadio.accessKey "л">
+<!ENTITY leftRadio.accessKey "Л">
 <!ENTITY centerRadio.label "Средина">
 <!ENTITY centerRadio.accessKey "С">
 <!ENTITY rightRadio.label "Удесно">
-<!ENTITY rightRadio.accessKey "д">
+<!ENTITY rightRadio.accessKey "Д">
 
 <!ENTITY threeDShading.label "3D сенчење">
-<!ENTITY threeDShading.accessKey "с">
+<!ENTITY threeDShading.accessKey "С">
 <!ENTITY saveSettings.label "Користи као подразумевано">
-<!ENTITY saveSettings.accessKey "и">
+<!ENTITY saveSettings.accessKey "И">
 <!ENTITY saveSettings.tooltip "Сними ова подешавања за нове водоравне линије">

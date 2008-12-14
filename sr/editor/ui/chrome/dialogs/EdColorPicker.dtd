@@ -48,7 +48,7 @@
 <!ENTITY standardPalette.label "Стандардна">
 <!ENTITY webPalette.label "Све веб боје">
 <!ENTITY background.label "Позадина за:">
-<!ENTITY background.accessKey "о">
+<!ENTITY background.accessKey "О">
 <!ENTITY table.label "Табела">
 <!ENTITY table.accessKey "Т">
 <!ENTITY cell.label "Ћелија">

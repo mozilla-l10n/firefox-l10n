@@ -7,17 +7,22 @@
 <!ENTITY formatGroup.label "Формат">
 
 <!ENTITY orientation.label "Оријентација:">
-<!ENTITY portrait "Усправно">
-<!ENTITY landscape "Положено">
+<!ENTITY portrait.label "Усправно">
+<!ENTITY portrait.accesskey "У">
+<!ENTITY landscape.label "Водоравно">
+<!ENTITY landscape.accesskey "В">
 
 <!ENTITY scale.label "Размера:">
+<!ENTITY scale.accesskey "Р">
 <!ENTITY scalePercent "&#037;">
 
 <!ENTITY shrinkToFit.label "Уклопи на страну">
+<!ENTITY shrinkToFit.accesskey "У">
 
 <!ENTITY optionsGroup.label "Опције">
 
 <!ENTITY printBG.label "Штампа позадине (боје и слика)">
+<!ENTITY printBG.accesskey "П">
 
 <!ENTITY advanced.tab "Маргине &amp; Заглавље/Подножје">
 
@@ -25,9 +30,13 @@
 <!ENTITY marginUnits.inches "инча">
 <!ENTITY marginUnits.metric "милиметара">
 <!ENTITY marginTop.label "Горња:">
+<!ENTITY marginTop.accesskey "Г">
 <!ENTITY marginBottom.label "Доња:">
+<!ENTITY marginBottom.accesskey "Д">
 <!ENTITY marginLeft.label "Лево:">
+<!ENTITY marginLeft.accesskey "Л">
 <!ENTITY marginRight.label "Десно:">
+<!ENTITY marginRight.accesskey "С">
 
 <!ENTITY headerFooter.label "Заглавља и фусноте">
 

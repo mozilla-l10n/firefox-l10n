@@ -27,7 +27,7 @@
 <!ENTITY openHelpMac.frontendModifiers "accel">
 
 <!ENTITY helpReleaseNotes.label "Белешке о издању">
-<!ENTITY helpReleaseNotes.accesskey "и">
+<!ENTITY helpReleaseNotes.accesskey "И">
 <!ENTITY updateCmd.label "Потражи доградње…">
 <!ENTITY updateCmd.accesskey "д">
 

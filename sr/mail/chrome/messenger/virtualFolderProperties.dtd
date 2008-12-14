@@ -8,7 +8,7 @@
 
 <!ENTITY folderSelectionCaption.label "Избор директоријума за претрагу: ">
 <!ENTITY chooseFoldersButton.label "Избор…">
-<!ENTITY chooseFoldersButton.accesskey "И">
+<!ENTITY chooseFoldersButton.accesskey "и">
 
 <!ENTITY searchOnline.label "Мрежна претрага (даје ажурне резултате за директоријуме за ИМАП и вести, али повећава време потребно за отварање директоријума)">
-<!ENTITY searchOnline.accesskey "п">
+<!ENTITY searchOnline.accesskey "П">

@@ -39,13 +39,13 @@
 <!ENTITY PrimaryEmail.label "Ел. адреса">
 <!ENTITY PrimaryEmail.accesskey "Е">
 <!ENTITY Company.label "Организација">
-<!ENTITY Company.accesskey "О">
+<!ENTITY Company.accesskey "о">
 <!ENTITY _PhoneticName.label "Фонетско име">
-<!ENTITY _PhoneticName.accesskey "Ф">
+<!ENTITY _PhoneticName.accesskey "ф">
 <!ENTITY NickName.label "Надимак">
-<!ENTITY NickName.accesskey "Н">
+<!ENTITY NickName.accesskey "н">
 <!ENTITY SecondEmail.label "Додатна ел. адреса">
-<!ENTITY SecondEmail.accesskey "Д">
+<!ENTITY SecondEmail.accesskey "д">
 <!ENTITY Department.label "Одељење">
 <!ENTITY Department.accesskey "љ">
 <!ENTITY JobTitle.label "Титула">

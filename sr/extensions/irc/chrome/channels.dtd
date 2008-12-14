@@ -37,7 +37,7 @@
 <!ENTITY window.title "Придружи се каналу">
 
 <!ENTITY qsearch.label "Брза претрага:">
-<!ENTITY qsearch.accesskey "п">
+<!ENTITY qsearch.accesskey "П">
 
 <!ENTITY topics.label "Тражи теме као и имена канала">
 <!ENTITY topics.accesskey "т">

@@ -45,6 +45,7 @@
 
 <!ENTITY filterPrefs.label "Филтер:">
 <!ENTITY filterPrefs.accesskey "Ф">
+<!ENTITY focusFilter.key "f">
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "Име својства">
@@ -61,20 +62,20 @@
 <!ENTITY copyPref.label "Умножи">
 <!ENTITY copyPref.accesskey "У">
 <!ENTITY copyName.label "Умножи име">
-<!ENTITY copyName.accesskey "и">
+<!ENTITY copyName.accesskey "И">
 <!ENTITY copyValue.label "Умножи вредност">
-<!ENTITY copyValue.accesskey "в">
+<!ENTITY copyValue.accesskey "В">
 <!ENTITY modify.label "Измени">
 <!ENTITY modify.accesskey "И">
 <!ENTITY toggle.label "Пребаци">
 <!ENTITY toggle.accesskey "П">
 <!ENTITY reset.label "Обнови">
-<!ENTITY reset.accesskey "б">
+<!ENTITY reset.accesskey "Б">
 <!ENTITY new.label "Ново">
-<!ENTITY new.accesskey "Н">
+<!ENTITY new.accesskey "н">
 <!ENTITY string.label "Стринг">
 <!ENTITY string.accesskey "С">
 <!ENTITY integer.label "Цео број">
-<!ENTITY integer.accesskey "б">
+<!ENTITY integer.accesskey "Б">
 <!ENTITY boolean.label "Булово (boolean)">
 <!ENTITY boolean.accesskey "Б">

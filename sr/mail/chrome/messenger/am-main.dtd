@@ -3,7 +3,6 @@
 <!ENTITY accountTitle.label "Подешавања налога">
 <!ENTITY accountName.label "Корисничко име:">
 <!ENTITY accountName.accesskey "К">
-<!ENTITY accountNameDesc.label "Корисничко име је повезано са налогом за пошту">
 <!ENTITY identityTitle.label "Подразумевани идентитет">
 <!ENTITY identityDesc.label "Сваки налог има идентитет, податке које друге особе виде када читају Ваше поруке.">
 <!ENTITY name.label "Ваше име:">
@@ -15,7 +14,7 @@
 <!ENTITY organization.label "Установа:">
 <!ENTITY organization.accesskey "У">
 <!ENTITY signature.label "Приложи овај потпис:">
-<!ENTITY signature.accesskey "П">
+<!ENTITY signature.accesskey "п">
 <!ENTITY edit.label "Уреди…">
 <!ENTITY choose.label "Избор…">
 <!ENTITY choose.accesskey "И">
@@ -26,7 +25,7 @@
 <!ENTITY attachVCard.accesskey "в">
 
 <!ENTITY manageIdentities.label "Управљање идентитетима…">
-<!ENTITY manageIdentities.accesskey "и">
+<!ENTITY manageIdentities.accesskey "И">
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 
 <!ENTITY smtpName.label "Одлазни сервер (SMTP):">

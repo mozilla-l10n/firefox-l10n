@@ -5,29 +5,25 @@
 <!ENTITY searchSubfolders.accesskey "п">
 <!ENTITY resetButton.label "Очисти">
 <!ENTITY resetButton.accesskey "О">
-<!ENTITY optionsButton.label "Опције">
-<!ENTITY closeButton.label "Затвори">
 <!ENTITY openButton.label "Отвори">
-<!ENTITY openButton.accesskey "О">
+<!ENTITY openButton.accesskey "о">
 <!ENTITY deleteButton.label "Обриши">
 <!ENTITY deleteButton.accesskey "О">
 <!ENTITY searchDialogTitle.label "Претрага порука">
-<!ENTITY conditionDesc.label "Пронађи поруке које испуњавају услов:">
-<!ENTITY conditions.label "Услов">
 <!ENTITY results.label "Резултати">
 <!ENTITY fileHereMenu.label "Смести овде">
-<!ENTITY fileHereMenu.accesskey "д">
+<!ENTITY fileHereMenu.accesskey "Д">
 <!ENTITY fileButton.label "Датотека">
-<!ENTITY fileButton.accesskey "Д">
+<!ENTITY fileButton.accesskey "д">
 <!ENTITY closeCmd.key "З">
 <!ENTITY goToFolderButton.label "Отвори директоријум са порукама">
 <!ENTITY goToFolderButton.accesskey "к">
 <!ENTITY saveAsVFButton.label "Сачувај као директоријум за претрагу">
-<!ENTITY saveAsVFButton.accesskey "С">
+<!ENTITY saveAsVFButton.accesskey "с">
 <!-- for ABSearchDialog.xul -->
 
 <!ENTITY abSearchHeading.label "Тражи у:">
-<!ENTITY abSearchHeading.accesskey "Т">
+<!ENTITY abSearchHeading.accesskey "т">
 <!ENTITY propertiesButton.label "Поставке">
 <!ENTITY propertiesButton.accesskey "П">
 <!ENTITY composeButton.label "Запиши">
@@ -46,7 +42,6 @@
 <!ENTITY statusColumn.label "Статус">
 <!ENTITY sizeColumn.label "Величина">
 <!ENTITY junkStatusColumn.label "Смеће">
-<!ENTITY linesColumn.label "Линија">
 <!ENTITY unreadColumn.label "Непрочитане">
 <!ENTITY totalColumn.label "Укупно">
 <!ENTITY readColumn.label "Прочитано">

@@ -15,6 +15,6 @@
 <!ENTITY walletContentsCmd.label "Уреди податке о формулару">
 <!ENTITY walletContentsCmd.accesskey "У">
 <!ENTITY walletSitesCmd.label "Управљање сајтовима">
-<!ENTITY walletSitesCmd.accesskey "с">
+<!ENTITY walletSitesCmd.accesskey "С">
 <!ENTITY walletFormManager.label "Управник формуларима">
 <!ENTITY walletFormManager.accesskey "п">

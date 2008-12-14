@@ -7,19 +7,19 @@
 <!-- Buttons -->
 
 <!ENTITY up.label "Помери горе">
-<!ENTITY up.accesskey "г">
+<!ENTITY up.accesskey "Г">
 <!ENTITY dn.label "Помери доле">
-<!ENTITY dn.accesskey "д">
+<!ENTITY dn.accesskey "Д">
 <!ENTITY remove.label "Уклони">
 <!ENTITY remove.accesskey "У">
 <!ENTITY edit.label "Уреди кључну реч…">
-<!ENTITY edit.accesskey "У">
+<!ENTITY edit.accesskey "у">
 
 <!ENTITY addEngine.label "Набави још претраживача…">
-<!ENTITY addEngine.accesskey "п">
+<!ENTITY addEngine.accesskey "П">
 
 <!ENTITY enableSuggest.label "Предложи резултат">
-<!ENTITY enableSuggest.accesskey "р">
+<!ENTITY enableSuggest.accesskey "Р">
 
 <!ENTITY restoreDefaults.label "Врати изворно">
-<!ENTITY restoreDefaults.accesskey "В">
+<!ENTITY restoreDefaults.accesskey "в">

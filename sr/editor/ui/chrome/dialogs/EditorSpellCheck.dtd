@@ -40,9 +40,9 @@
 
 <!ENTITY misspelledWord.label "Погрешна реч:">
 <!ENTITY wordEditField.label "Замени са:">
-<!ENTITY wordEditField.accessKey "З">
+<!ENTITY wordEditField.accessKey "з">
 <!ENTITY checkwordButton.label "Провери реч">
-<!ENTITY checkwordButton.accessKey "П">
+<!ENTITY checkwordButton.accessKey "п">
 <!ENTITY suggestions.label "Предлози:">
 <!ENTITY suggestions.accessKey "р">
 <!ENTITY ignoreButton.label "Занемари">
@@ -52,17 +52,17 @@
 <!ENTITY replaceButton.label "Замени">
 <!ENTITY replaceButton.accessKey "З">
 <!ENTITY replaceAllButton.label "Замени све">
-<!ENTITY replaceAllButton.accessKey "в">
+<!ENTITY replaceAllButton.accessKey "В">
 <!ENTITY stopButton.label "Крај">
-<!ENTITY stopButton.accessKey "К">
+<!ENTITY stopButton.accessKey "к">
 <!ENTITY userDictionary.label "Лични речник:">
 <!ENTITY moreDictionaries.label "Пријем још речника…">
 <!ENTITY addToUserDictionaryButton.label "Додај реч">
-<!ENTITY addToUserDictionaryButton.accessKey "Д">
+<!ENTITY addToUserDictionaryButton.accessKey "д">
 <!ENTITY editUserDictionaryButton.label "Уреди…">
 <!ENTITY editUserDictionaryButton.accessKey "У">
 <!ENTITY recheckButton.label "Провери страну">
-<!ENTITY recheckButton.accessKey "с">
+<!ENTITY recheckButton.accessKey "С">
 <!ENTITY closeButton.label "Затвори">
 <!ENTITY closeButton.accessKey "З">
 <!ENTITY sendButton.label "Пошаљи">

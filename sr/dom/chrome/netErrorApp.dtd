@@ -3,4 +3,7 @@
      should go into netError.dtd -->
 
 <!ENTITY securityOverride.linkText "Или можете да додате изузетак…">
-<!ENTITY securityOverride.warningText "<p>Не треба да додајете изузетак ако користите везу са интернетом којој не верујете у потпуности или ако нисте навикли да видите ово упозорење за овај сервер.</p> <p>Ако још увек желите да додате изузетак за овај сајт, можете да урадите то у напредним подршавањима за шифровање.</p>">
+<!ENTITY securityOverride.warningText "
+<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+<p>If you still wish to add an exception for this site, you can do so in your advanced encryption settings.</p>
+">

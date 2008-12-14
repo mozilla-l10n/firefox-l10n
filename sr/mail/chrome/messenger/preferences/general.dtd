@@ -1,6 +1,6 @@
 <!ENTITY systemDefaults.label "Изворна подешавања">
 <!ENTITY alwaysCheckDefault.label "Увек при покретању провери да ли је програм &brandShortName; подразумевани читач поште">
-<!ENTITY alwaysCheckDefault.accesskey "У">
+<!ENTITY alwaysCheckDefault.accesskey "у">
 <!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
   There's some sort of bug which makes wrapping checkboxes not properly reflow,
   causing the bottom border of the groupbox to be cut off; set this
@@ -8,11 +8,11 @@
 -->
 <!ENTITY alwaysCheckDefault.height "3em">
 <!ENTITY checkNow.label "Провери сад">
-<!ENTITY checkNow.accesskey "с">
+<!ENTITY checkNow.accesskey "С">
 
 <!ENTITY messengerStartPage.label "Прва страна за &brandShortName;">
 <!ENTITY enableStartPage.label "Када се програм &brandShortName; покрене, прикажи почетну страну у прозору за поруке">
-<!ENTITY enableStartPage.accesskey "ж">
+<!ENTITY enableStartPage.accesskey "Ж">
 <!ENTITY location.label "Место:">
 <!ENTITY location1.accesskey "М">
 <!ENTITY useDefault.label "Врати изворно">
@@ -29,14 +29,19 @@
 <!ENTITY customizeMailAlert.label "Прилагоди…">
 <!ENTITY customizeMailAlert.accesskey "П">
 
-<!ENTITY soundNotification1.caption "Звук">
 <!ENTITY play.label "Пусти">
-<!ENTITY play.accesskey "с">
+<!ENTITY play.accesskey "С">
 <!ENTITY systemsound.label "Подразумевани системски звук за нову пошту">
 <!ENTITY systemsoundMac.label "Системски звук">
-<!ENTITY systemsoundMac.accesskey "С">
+<!ENTITY systemsoundMac.accesskey "с">
 <!ENTITY systemsound.accesskey "в">
 <!ENTITY customsound.label "Користи овај звучни запис">
 <!ENTITY customsound.accesskey "К">
 <!ENTITY browse.label "Преглед…">
 <!ENTITY browse.accesskey "П">
+
+<!ENTITY addonsMgr.label "Додаци">
+<!ENTITY manageAddonsDescWin.label "Промена опција за додатке">
+<!ENTITY manageAddonsDescUnix2.label "Промените опције додацима">
+<!ENTITY manageAddons.label "Управљање додацима…">
+<!ENTITY manageAddons.accesskey "У">

@@ -45,7 +45,7 @@
 <!ENTITY FormMethod.label "Метода:">
 <!ENTITY FormMethod.accesskey "М">
 <!ENTITY FormEncType.label "Кодирање:">
-<!ENTITY FormEncType.accesskey "К">
+<!ENTITY FormEncType.accesskey "к">
 <!ENTITY FormTarget.label "Циљни оквир:">
 <!ENTITY FormTarget.accesskey "Ц">
 

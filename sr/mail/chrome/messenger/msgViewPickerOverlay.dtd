@@ -1,13 +1,13 @@
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
 <!ENTITY viewPicker.label "Преглед:">
-<!ENTITY viewPicker.accesskey "П">
+<!ENTITY viewPicker.accesskey "п">
 <!ENTITY viewAll.label "Све">
 <!ENTITY viewAll.accesskey "С">
 <!ENTITY viewUnread.label "Непрочитане">
 <!ENTITY viewUnread.accesskey "Н">
-<!ENTITY viewNotDeleted.label "Not Deleted">
-<!ENTITY viewNotDeleted.accesskey "D">
+<!ENTITY viewNotDeleted.label "Неуклоњене">
+<!ENTITY viewNotDeleted.accesskey "У">
 <!ENTITY viewTags.label "Ознаке">
 <!ENTITY viewTags.accesskey "О">
 <!ENTITY viewCustomViews.label "Прилагођени погледи">

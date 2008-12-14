@@ -2,20 +2,20 @@
 <!ENTITY charsetMenu.label "Кодирање знакова">
 <!ENTITY charsetMenu.accesskey "К">
 <!ENTITY charsetMenuAutodet.label "Самопрепознавање">
-<!ENTITY charsetMenuAutodet.accesskey "С">
+<!ENTITY charsetMenuAutodet.accesskey "с">
 <!ENTITY charsetMenuMore.label "Остала кодирања">
-<!ENTITY charsetMenuMore.accesskey "О">
+<!ENTITY charsetMenuMore.accesskey "о">
 <!ENTITY charsetMenuMore1.label "западноевропска">
 <!ENTITY charsetMenuMore1.accesskey "з">
 <!ENTITY charsetMenuMore2.label "источноевропска">
-<!ENTITY charsetMenuMore2.accesskey "и">
+<!ENTITY charsetMenuMore2.accesskey "И">
 <!ENTITY charsetMenuMore3.label "источноазијска">
-<!ENTITY charsetMenuMore3.accesskey "а">
+<!ENTITY charsetMenuMore3.accesskey "А">
 <!ENTITY charsetMenuMore4.label "југоисточно и југозападно азијскa">
-<!ENTITY charsetMenuMore4.accesskey "ј">
+<!ENTITY charsetMenuMore4.accesskey "Ј">
 <!ENTITY charsetMenuMore5.label "блискоисточнa">
-<!ENTITY charsetMenuMore5.accesskey "б">
+<!ENTITY charsetMenuMore5.accesskey "Б">
 <!ENTITY charsetMenuUnicode.label "уникод">
-<!ENTITY charsetMenuUnicode.accesskey "у">
+<!ENTITY charsetMenuUnicode.accesskey "У">
 <!ENTITY charsetCustomize.label "Прилагоди списак…">
-<!ENTITY charsetCustomize.accesskey "П">
+<!ENTITY charsetCustomize.accesskey "п">

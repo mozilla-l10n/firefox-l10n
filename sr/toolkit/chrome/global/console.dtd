@@ -52,9 +52,9 @@
 <!ENTITY clear.label "Очисти">
 <!ENTITY clear.accesskey "О">
 <!ENTITY codeEval.label "Код:">
-<!ENTITY codeEval.accesskey "К">
+<!ENTITY codeEval.accesskey "к">
 <!ENTITY evaluate.label "Израчунај">
-<!ENTITY evaluate.accesskey "И">
+<!ENTITY evaluate.accesskey "и">
 
 <!ENTITY copyCmd.label "Умножи">
 <!ENTITY copyCmd.accesskey "У">
@@ -62,7 +62,7 @@
 <!ENTITY sortFirst.label "Уреди по растућем редоследу">
 <!ENTITY sortFirst.accesskey "р">
 <!ENTITY sortLast.label "Уреди по опадајућем редоследу">
-<!ENTITY sortLast.accesskey "У">
+<!ENTITY sortLast.accesskey "у">
 <!ENTITY closeCmd.commandkey "w">
 <!ENTITY focus1.commandkey "l">
 <!ENTITY focus2.commandkey "d">

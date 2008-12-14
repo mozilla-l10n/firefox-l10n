@@ -1,7 +1,7 @@
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessageCmd.key "M">
 <!ENTITY newMessageCmd.label "Порука">
-<!ENTITY newMessageCmd.accesskey "П">
+<!ENTITY newMessageCmd.accesskey "п">
  
 <!ENTITY newCardCmd.label "Картица у адресару…">
 <!ENTITY newCardCmd.accesskey "р">

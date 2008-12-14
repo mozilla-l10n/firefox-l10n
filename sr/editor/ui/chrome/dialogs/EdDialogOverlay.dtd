@@ -36,16 +36,16 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY AdvancedEditButton.label "Напредно уређивање…">
-<!ENTITY AdvancedEditButton.accessKey "у">
+<!ENTITY AdvancedEditButton.accessKey "У">
 <!ENTITY AdvancedEditButton.tooltip "Додавање или измена ХТМЛ својстава, стилова и Јаваскрипта">
 <!ENTITY chooseFileButton.label "Избор датотеке…">
-<!ENTITY chooseFileButton.accessKey "д">
+<!ENTITY chooseFileButton.accessKey "Д">
 <!ENTITY chooseFileLinkButton.label "Избор датотеке…">
 <!ENTITY chooseFileLinkButton.accessKey "з">
 <!ENTITY makeUrlRelative.label "УРЛ је релативан у односу на место стране">
-<!ENTITY makeUrlRelative.accessKey "Р">
+<!ENTITY makeUrlRelative.accessKey "р">
 <!ENTITY makeUrlRelative.tooltip "Промена релативног на апсолутни URL или обратно. Прво морате сачувати страницу како бисте променили.">
 <!-- Shared by Link and Image dialogs -->
 
 <!ENTITY LinkURLEditField.label "Унесите место мрежне странице, локалну датотеку или изаберите именовано сидро или наслов из списка:">
-<!ENTITY LinkURLEditField.accessKey "м">
+<!ENTITY LinkURLEditField.accessKey "М">

@@ -41,12 +41,12 @@
 <!ENTITY allowScripts.label "Скриптовима се дозвољава:">
 
 <!ENTITY moveResizeWindows.label "Премештање/измена прозора">
-<!ENTITY moveResizeWindows.accesskey "ш">
+<!ENTITY moveResizeWindows.accesskey "Ш">
 <!ENTITY raiseLowerWindows.label "Промена редоследа прозора">
-<!ENTITY raiseLowerWindows.accesskey "р">
+<!ENTITY raiseLowerWindows.accesskey "Р">
 <!ENTITY disableContextMenus.label "Укидање или замена контекстних менија">
-<!ENTITY disableContextMenus.accesskey "м">
+<!ENTITY disableContextMenus.accesskey "М">
 <!ENTITY hideStatusBar.label "Сакривање статусне траке">
 <!ENTITY hideStatusBar.accesskey "С">
 <!ENTITY changeStatusBar.label "Промена текста у статусној траци">
-<!ENTITY changeStatusBar.accesskey "т">
+<!ENTITY changeStatusBar.accesskey "Т">

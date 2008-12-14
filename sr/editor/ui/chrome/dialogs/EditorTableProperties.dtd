@@ -69,7 +69,6 @@
 <!ENTITY tableCaptionNone.label "Ниједна">
 <!ENTITY tableInheritColor.label "(боја стране се провиди)">
 
-<!ENTITY cellPercent.label "проценти од табеле">
 <!ENTITY cellSelection.label "Избор">
 <!ENTITY cellSelectCell.label "Ћелија">
 <!ENTITY cellSelectRow.label "Ред">
@@ -78,13 +77,7 @@
 <!ENTITY cellSelectNext.accessKey "С">
 <!ENTITY cellSelectPrevious.label "Претходна">
 <!ENTITY cellSelectPrevious.accessKey "П">
-<!ENTITY cellApplyBeforeMove.label "Примени измене пре промене избора">
-<!ENTITY cellKeepCurrentData.label "Задржи тренутне поставке">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label "Тренутне измене ће бити примењене">
-<!ENTITY applyBeforeChange2.label "пре него што се промени избор.">
-<!ENTITY cellRowSpan.label "Заузима колона:">
-<!ENTITY cellColSpan.label "Заузима редова:">
+<!ENTITY applyBeforeChange.label "Тренутне измене биће примењене пре промене избора.">
 <!ENTITY cellContentAlignment.label "Уравнање садржаја">
 <!ENTITY cellHorizontal.label "Хоризонтално:">
 <!ENTITY cellHorizontal.accessKey "Х">
@@ -102,7 +95,6 @@
 <!ENTITY cellAlignMiddle.label "Средина">
 <!ENTITY cellAlignBottom.label "Дно">
 <!ENTITY cellAlignJustify.label "Уравнато">
-<!ENTITY cellAlignAtChar.label "На знаку:">
 <!ENTITY cellInheritColor.label "(боја позадине се провиди)">
 <!ENTITY cellUseCheckboxHelp.label "Користи кућице за штиклирање за одређивање поставки које се користе за све ћелије">
 <!-- Used in both Table and Cell panels  -->
@@ -110,7 +102,7 @@
 <!ENTITY size.label "Величина">
 <!ENTITY pixels.label "тачака">
 <!ENTITY backgroundColor.label "Боја позадине:">
-<!ENTITY backgroundColor.accessKey "ј">
+<!ENTITY backgroundColor.accessKey "Ј">
 <!ENTITY AlignLeft.label "Улево">
 <!ENTITY AlignCenter.label "Средина">
 <!ENTITY AlignRight.label "Десно">

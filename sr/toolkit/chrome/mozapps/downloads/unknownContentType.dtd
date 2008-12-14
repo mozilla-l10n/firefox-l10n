@@ -42,14 +42,14 @@
 <!ENTITY actionQuestion.label "Како да &brandShortName; обради ову датотеку?">
 
 <!ENTITY openWith.label "Отвори помоћу">
-<!ENTITY openWith.accesskey "О">
+<!ENTITY openWith.accesskey "о">
 <!ENTITY other.label "Друго…">
 
 <!ENTITY saveFile.label "Сачувај датотеку">
-<!ENTITY saveFile.accesskey "С">
+<!ENTITY saveFile.accesskey "с">
 
 <!ENTITY rememberChoice.label "Користи овај избор за све датотеке овог типа.">
-<!ENTITY rememberChoice.accesskey "К">
+<!ENTITY rememberChoice.accesskey "к">
 
 <!ENTITY whichIsA.label "врста:">
 

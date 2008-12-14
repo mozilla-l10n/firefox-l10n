@@ -7,9 +7,9 @@
 <!ENTITY useCursorNavigation.label "Увек користи стрелице за кретање по странама ">
 <!ENTITY useCursorNavigation.accesskey "с">
 <!ENTITY searchStartTyping.label "Тражи текст када почнем да куцам">
-<!ENTITY searchStartTyping.accesskey "Т">
+<!ENTITY searchStartTyping.accesskey "т">
 <!ENTITY blockAutoRefresh.label "Упозори ме када веб сајтови пробају да преусмере или поново учитају страну">
-<!ENTITY blockAutoRefresh.accesskey "У">
+<!ENTITY blockAutoRefresh.accesskey "у">
 
 <!ENTITY browsing.label "Преглед">
 
@@ -33,7 +33,7 @@
 
 <!ENTITY connectionDesc.label "Подешавање начина на који се програм &brandShortName; повезује на Интернет">
 <!ENTITY connectionSettings.label "Подешавања…">
-<!ENTITY connectionSettings.accesskey "П">
+<!ENTITY connectionSettings.accesskey "п">
 
 <!ENTITY offlineStorage.label "Чување ван мреже">
 <!-- LOCALIZATION NOTE:
@@ -55,23 +55,23 @@
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "ф">
 <!ENTITY enableAddonsUpdate.label "Инсталирани додаци">
-<!ENTITY enableAddonsUpdate.accesskey "И">
+<!ENTITY enableAddonsUpdate.accesskey "и">
 <!ENTITY enableSearchUpdate.label "Механизме претраге">
-<!ENTITY enableSearchUpdate.accesskey "М">
+<!ENTITY enableSearchUpdate.accesskey "м">
 <!ENTITY whenUpdatesFound.label "Када је пронађено унапређење за &brandShortName;,">
 <!ENTITY askMe.label "Питај ме шта желим да урадим">
-<!ENTITY askMe.accesskey "П">
+<!ENTITY askMe.accesskey "п">
 <!ENTITY modeAutomatic.label "Самостално прими и постави унапређење">
 <!ENTITY modeAutomatic.accesskey "п">
 <!ENTITY modeAutoAddonWarn.label "Упозори ме ако ће ово да искључи ма који додатак">
-<!ENTITY modeAutoAddonWarn.accesskey "д">
+<!ENTITY modeAutoAddonWarn.accesskey "Д">
 <!ENTITY updateHistory.label "Прикажи историјат доградњи">
 <!ENTITY updateHistory.accesskey "и">
 
 <!ENTITY offlineNotify.label "Обавести ме када веб сајт тражи да чува податке у локалу">
 <!ENTITY offlineNotify.accesskey "О">
 <!ENTITY offlineNotifyExceptions.label "Изузеци">
-<!ENTITY offlineNotifyExceptions.accesskey "И">
+<!ENTITY offlineNotifyExceptions.accesskey "и">
 
 <!ENTITY offlineAppsList.label "Наведени веб сајтови су сачували податке за локалну употребу:">
 <!ENTITY offlineAppsList.height "9em">
@@ -95,7 +95,7 @@
 <!ENTITY viewCerts.label "Прикажи сертификате">
 <!ENTITY viewCerts.accesskey "с">
 <!ENTITY viewCRLs.label "Листа опозива">
-<!ENTITY viewCRLs.accesskey "о">
+<!ENTITY viewCRLs.accesskey "О">
 <!ENTITY verify2.label "Провера">
 <!ENTITY verify2.accesskey "П">
 <!ENTITY viewSecurityDevices.label "Безбедносни уређаји">

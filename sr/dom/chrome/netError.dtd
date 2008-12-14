@@ -22,7 +22,7 @@
 <!ENTITY malformedURI.longDesc "<ul> <li>Интернет адресе су обично налик на <strong>http://www.example.com/</strong></li> <li>Проверите да ли користите исправне знаке (нпр.<strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Веза са сервером је прекинута">
-<!ENTITY netInterrupt.longDesc "<p>The browser connected successfully, but the connection was interrupted while transferring information.  Please try again.</p><ul><li>Are you unable to browse other sites? Check the computer's network connection.</li><li>Still having trouble? Consult your network administrator or Internet provider for assistance.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>Читач се успешно повезао, али је веза прекинута током размене података.  Молимо да пробате поново.</p><ul><li>Не можете да се повежете ни са другим сајтовима? Проверите да ли је рачунар прикључен на мрежу.</li><li>И даље имате проблема?  Обратите се администратору мреже или добављачу Интернета за помоћ.</li></ul>">
 
 <!ENTITY netOffline.title "Рад ван мреже">
 <!ENTITY netOffline.longDesc "<ul> <li>Дештиклирај &quot;Рад ван мреже&quot; у менију Датотека, па покушајте поново.</li> </ul>">

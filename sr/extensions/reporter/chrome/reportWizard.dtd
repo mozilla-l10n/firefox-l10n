@@ -16,7 +16,7 @@
 <!-- No ":" at the end -->
 
 <!ENTITY reportForm.behind_login.title "Веб сајт је заштићен лозинком">
-<!ENTITY reportForm.behind_login.accesskey "з">
+<!ENTITY reportForm.behind_login.accesskey "З">
 
 <!ENTITY reportForm.problem_type.title "Врста проблема:">
 <!ENTITY reportForm.problem_type.accesskey "В">

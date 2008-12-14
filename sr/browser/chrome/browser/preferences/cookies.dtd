@@ -6,7 +6,7 @@
 <!ENTITY button.removecookie.label "Уклони колачић">
 <!ENTITY button.removecookie.accesskey "У">
 <!ENTITY button.removeallcookies.label "Уклони све колачиће">
-<!ENTITY button.removeallcookies.accesskey "с">
+<!ENTITY button.removeallcookies.accesskey "С">
 
 <!ENTITY props.name.label "Име:">
 <!ENTITY props.value.label "Садржај:">

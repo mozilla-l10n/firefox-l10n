@@ -1,30 +1,26 @@
 <!ENTITY itemFormatting.label "Обликовање">
 <!ENTITY itemTags.label "Ознаке">
-<!ENTITY itemFonts.label "Писма">
 
-<!ENTITY textBegin.label "Изглед обичног цитираног текста">
 <!ENTITY style.label "Стил:">
-<!ENTITY style.accesskey "С">
-<!ENTITY regularStyle.label "Обично">
-<!ENTITY bold.label "Подебљано">
-<!ENTITY italic.label "Искошено">
-<!ENTITY boldItalic.label "Подебљано и искошено">
+<!ENTITY style.accesskey "с">
+<!ENTITY regularStyle.label "Обична">
+<!ENTITY bold.label "Подебљан">
+<!ENTITY italic.label "Искошен">
+<!ENTITY boldItalic.label "Подебљан и искошен">
 <!ENTITY size.label "Величина:">
-<!ENTITY size.accesskey "В">
-<!ENTITY regularSize.label "Обично">
+<!ENTITY size.accesskey "в">
+<!ENTITY regularSize.label "Обична">
 <!ENTITY bigger.label "Већа">
 <!ENTITY smaller.label "Мања">
 <!ENTITY color.label "Боја:">
-<!ENTITY color.accesskey "Б">
+<!ENTITY color.accesskey "б">
 <!ENTITY displayWidth.label "Обичне текстуалне поруке">
 <!ENTITY plainText.label "Користи следеће писмо:">
 <!ENTITY displayText.label "При приказивању цитираних обичних текстуалних порука:">
-<!ENTITY viewingPlainText.label "При приказивању порука у обичном тексту:">
 <!ENTITY fixedWidth.label "Писмо утврђене величине">
 <!ENTITY fixedWidth.accesskey "у">
 <!ENTITY variableWidth.label "Писмо променљиве величине">
-<!ENTITY variableWidth.accesskey "п">
-<!ENTITY readingMessagesHeader.label "За долазеће поруке">
+<!ENTITY variableWidth.accesskey "П">
 <!ENTITY colors.label "Боје">
 <!ENTITY overrideColors.label "При приказивању порука, користи следеће боје:">
 <!ENTITY textColor.label "Боја текста:">
@@ -43,7 +39,7 @@
 <!ENTITY editTagButton.label "Уреди">
 <!ENTITY editTagButton.accesskey "У">
 <!ENTITY removeTagButton.label "Уклони">
-<!ENTITY removeTagButton.accesskey "У">
+<!ENTITY removeTagButton.accesskey "у">
 <!-- Fonts -->
 
 <!ENTITY fontAndEncodingsDescription.label "Подешавање боја и знакова које користи &brandShortName;">

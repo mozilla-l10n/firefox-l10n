@@ -1,8 +1,8 @@
 
 <!ENTITY migrationWizard.title "Чаробњак за увоз">
 
-<!ENTITY importFromWin.label "Import Options, Account Settings, Address Book, Filters and other data from:">
-<!ENTITY importFromNonWin.label "Import Preferences, Account Settings, Address Book, Filters, and other data from:">
+<!ENTITY importFromWin.label "Увоз опција, подешавања налога, адресара, филтера и осталих података из:">
+<!ENTITY importFromNonWin.label "Увоз поставки, подешавања налога, адресара филтера и осталих података из:">
 
 <!ENTITY importFromNothing.label "Не увози ништа">
 <!ENTITY importFromNothing.accesskey "Н">
@@ -11,13 +11,13 @@
 <!ENTITY importFromNetscape4.label "Netscape 4.x">
 <!ENTITY importFromNetscape4.accesskey "4">
 <!ENTITY importFromOExpress.label "Аутлук Експрес">
-<!ENTITY importFromOExpress.accesskey "А">
+<!ENTITY importFromOExpress.accesskey "а">
 <!ENTITY importFromOutlook.label "Аутлук">
-<!ENTITY importFromOutlook.accesskey "у">
+<!ENTITY importFromOutlook.accesskey "У">
 <!ENTITY importFromEudora.label "Еудора">
 <!ENTITY importFromEudora.accesskey "Е">
 
-<!ENTITY importSource.title "Увези подешавања и пошту из">
+<!ENTITY importSource.title "Увоз подешавања и поште из">
 <!ENTITY importItems.title "Ставке за увоз">
 <!ENTITY importItems.label "Изаберите ставке за увоз:">
 

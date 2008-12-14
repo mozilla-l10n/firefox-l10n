@@ -37,31 +37,28 @@
 
 <!ENTITY newDirectoryTitle.label "Својства сервера за директоријуме">
 <!ENTITY directoryName.label "Име:">
-<!ENTITY directoryName.accesskey "И">
+<!ENTITY directoryName.accesskey "и">
 <!ENTITY directoryHostname.label "Рачунар:">
-<!ENTITY directoryHostname.accesskey "Р">
+<!ENTITY directoryHostname.accesskey "р">
 <!ENTITY directoryBaseDN.label "Основни DN:">
-<!ENTITY directoryBaseDN.accesskey "О">
+<!ENTITY directoryBaseDN.accesskey "о">
 <!ENTITY findButton.label "Нађи">
-<!ENTITY findButton.accesskey "Н">
+<!ENTITY findButton.accesskey "н">
 <!ENTITY directorySecure.label "Употреба шифроване везе (SSL)">
 <!ENTITY directorySecure.accesskey "У">
 <!ENTITY directoryLogin.label "Прикопчај DN:">
 <!ENTITY directoryLogin.accesskey "и">
-<!ENTITY advancedOptionsButton.label "Напредне опције">
-<!ENTITY advancedOptionsButton.accesskey "Н">
 <!ENTITY General.tab "Опште">
 <!ENTITY Offline.tab "Неповезан рад">
 <!ENTITY Advanced.tab "Напредно">
-<!ENTITY advancedOptionsTitle.label "Напредне опције">
 <!ENTITY portNumber.label "Број порта: ">
-<!ENTITY portNumber.accesskey "Б">
+<!ENTITY portNumber.accesskey "б">
 <!ENTITY searchFilter.label "Филтер за претрагу:">
-<!ENTITY searchFilter.accesskey "Ф">
+<!ENTITY searchFilter.accesskey "ф">
 <!ENTITY scope.label "Опсег: ">
-<!ENTITY scope.accesskey "О">
+<!ENTITY scope.accesskey "о">
 <!ENTITY scopeOneLevel.label "Један ниво">
-<!ENTITY scopeOneLevel.accesskey "н">
+<!ENTITY scopeOneLevel.accesskey "Н">
 <!ENTITY scopeSubtree.label "Подстабло">
 <!ENTITY scopeSubtree.accesskey "П">
 <!ENTITY return.label "Не исписуј више од">

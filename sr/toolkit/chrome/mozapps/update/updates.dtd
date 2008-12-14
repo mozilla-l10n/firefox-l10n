@@ -1,83 +1,71 @@
-<!ENTITY updateWizard.title "Software Update">
+<!ENTITY updateWizard.title "Доградња програма">
 
 <!ENTITY window.width "36em">
 <!ENTITY window.macWidth "39em">
 
-<!ENTITY checking.title "Checking for Updates">
-<!ENTITY checking.label "&brandShortName; is now checking for updates…">
+<!ENTITY checking.title "Провера доградњи">
+<!ENTITY updateCheck.label "Тражимо ново издање програма &brandShortName;…">
 
-<!ENTITY cancel.label "Cancel">
-<!ENTITY cancel.accesskey "C">
+<!ENTITY noupdatesfound.title "Доградње нису пронађене">
+<!ENTITY noupdatesautoenabled.intro "Нема нових доградњи.  &brandShorName; ће периодични проверавати доградње.">
+<!ENTITY noupdatesautodisabled.intro "Нема нових доградњи.  Молимо да проверите касније или да укључите 
+аутоматску проверу у програму &brandShortName;.">
 
-<!ENTITY noupdatesfound.title "No Updates Found">
-<!ENTITY noupdatesautoenabled.intro "There are no updates available. &brandShortName; will check
-                                           periodically for updates.">
-<!ENTITY noupdatesautodisabled.intro "There are no updates available. Please check again later or enable
-                                           &brandShortName;'s automatic update checking.">
+<!ENTITY incompatibleCheck.title "Провера сагласности додатака">
+<!ENTITY incompatibleCheck.label "Тражење нових издања додатака…">
 
-<!ENTITY incompatibleChecking.label "Checking if this update will cause problems with your extensions and/or themes…">
-<!ENTITY clickHere.label "View more information about this update">
+<!ENTITY clickHere.label "Погледајте више података о овој доградњи">
 
-<!ENTITY incompatible.warning "This update will cause some of your extensions and/or themes 
-                                           to stop working until they are updated.">
-<!ENTITY listIncompatible.label "Show List">
-<!ENTITY listIncompatible.accesskey "L">
+<!ENTITY evangelism.desc "Препоручује се да примените ову доградњу за
+&brandShortName; што је пре могуће.">
 
-<!ENTITY upgrade.evangelism "It is strongly recommended that you upgrade &brandShortName; 
-                                           as soon as possible.">
+<!ENTITY license.instructions "Ако сте сагласни са условима овог споразума, притисните „Саглашавам се‟
+испод како бисте инсталирали ову доградњу.">
 
-<!ENTITY license.instructions "If you agree to the terms of this agreement, click I Agree 
-                                           below to continue installing this update.">
+<!ENTITY license.titleText "Споразум о лиценцирању">
+<!ENTITY license.introText "Одредбе и услови за употребу овог програма.">
+<!ENTITY license.instructionText "Молимо да прочитате наредни споразум о лиценцирању.  Користите траку за померање како бисте видели остатак споразума.">
+<!ENTITY license.accept "Прихватам услове споразума">
+<!ENTITY license.accept.accesskey "П">
+<!ENTITY license.decline "Не прихватам услове споразума">
+<!ENTITY license.decline.accesskey "Н">
 
-<!ENTITY license.titleText "Software License Agreement">
-<!ENTITY license.introText "Terms and conditions for using this software.">
-<!ENTITY license.instructionText "Please read the following license agreement. Use the scroll bar to view the rest of this agreement.">
-<!ENTITY license.accept "I accept the terms of the License Agreement">
-<!ENTITY license.accept.accesskey "c">
-<!ENTITY license.decline "I do NOT accept the terms of the License Agreement">
-<!ENTITY license.decline.accesskey "T">
+<!ENTITY incompatibleList.title "Пронађени су несагласни додаци">
 
-<!ENTITY downloading.title "Downloading Update">
-<!ENTITY downloading.intro "Downloading the update…">
-<!ENTITY connecting.label "Connecting to the update server…">
-<!ENTITY verificationFailedText.label "&brandShortName; was unable to verify the integrity of the 
-                                           incremental update it downloaded, so it is now downloading
-                                           the complete update package.">
+<!ENTITY downloading.title "Пријем доградње">
+<!ENTITY downloading.intro "Пријем доградње је у току…">
+<!ENTITY connecting.label "Повезивање са сервером за дограду…">
+<!ENTITY verificationFailedText.label "Програм &brandShortName; није могао да утврди интегритет
+доградње коју је примио, тако да сада прима цео пакет.">
 
-<!ENTITY details.link "Details">
-<!ENTITY pause.label "Pause">
-<!ENTITY pause.accesskey "e">
-<!ENTITY close.label "Close">
-<!ENTITY close.accesskey "C">
+<!ENTITY viewDetails.tooltip "Прегледај детаље ове доградње">
 
-<!ENTITY error.label "There were problems checking for, downloading, or installing this 
-                                           update. &brandShortName; could not be updated because:">
+<!ENTITY details.link "Детаљи">
+
+<!ENTITY error.label "Дошло је до проблема при тражењи, пријему или иснталацији ове доградње.
+Програм &brandShortName; није дограђен из наредних разлога:">
                                            
-<!ENTITY errorManual.label "You can update &brandShortName; manually by visiting this link
-                                           and downloading the latest version:">
+<!ENTITY errorManual.label "Програм &brandShortName; можете да доградите ручно, посећивањем ове
+везе и пријемом најновијег издања:">
                                            
-<!ENTITY errorpatching.title "Update Failed">
-<!ENTITY errorpatching.intro "The partial Update could not be applied. 
-                                           &brandShortName; will try again by downloading a complete Update.">
+<!ENTITY errorpatching.title "Доградња није успела">
+<!ENTITY errorpatching.intro "Делимична доградња није могла да се доврши.
+Програм &brandShortName; ће поново да покуша пријем целе доградње.">
 
-<!ENTITY finished.title "Update Downloaded">
-<!ENTITY finished.text "The update was successfully downloaded and verified, and it will
-                                           be installed the next time &brandShortName; starts.">
+<!ENTITY finishedPage.title "Доградња је спремна за инсталацију">
+<!ENTITY finishedPage.text "Доградња ће бити инсталирана при наредном покретању програма &brandShortName;. Можете одмах да поново покренете програм &brandShortName; или да наставите рад и то урадите касније.">
 
-<!ENTITY finishedBackground.title "Update Ready to Install">
-<!ENTITY finishedBackground.text "&brandShortName; has downloaded and verified an important update. 
-                                           Click the link below for more details.">
-<!ENTITY finishedBackground.name "Update:">
-<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
-<!ENTITY finishedBackground.more1 "Click Restart &brandShortName; Now to install the update now.">
-<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!ENTITY finishedBackground.textNotNow "Click Not Now to close this dialog and continue working. &brandShortName;
-                                           will install the update the next time it starts.">
+<!ENTITY finishedBackgroundPage.text "Доградња за безбедност и стабилност за  &brandShortName; је примљена
+и спремна је за инсталацију.">
+<!ENTITY finishedBackground.name "Доградња:">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY finishedBackground.more "Доградња ће бити инсталирана при наредном покретању програма &brandShortName; starts. Можете
+да одмах поново покренете &brandShortName; или да наставите са радом и то урадите касније.">
 
-<!ENTITY installed.title "Update Installed">
-<!ENTITY installed.intro "The update was successfully installed.">
-<!ENTITY whatsnew.label "Read more about what's new…">
+<!ENTITY installed.title "Доградња је инсталирана">
+<!ENTITY installed.intro "Доградња је успешно инсталирана.">
+<!ENTITY whatsnew.label "Сазнајте више о новостима…">
 
-<!ENTITY update.details.label "Details">
-<!ENTITY update.installedOn.label "Installed on:">
-<!ENTITY update.status.label "Status:">
+<!ENTITY update.details.label "Детаљи">
+<!ENTITY update.installedOn.label "Инсталација:">
+<!ENTITY update.status.label "Статус:">

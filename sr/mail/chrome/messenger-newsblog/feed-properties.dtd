@@ -5,15 +5,15 @@
 <!ENTITY feedFolder.accesskey "Ч">
 
 <!ENTITY feedLocation.label "URL довода:">
-<!ENTITY feedLocation.accesskey "д">
+<!ENTITY feedLocation.accesskey "Д">
 
 <!ENTITY choosethisfolder.label "изабери овај директоријум">
 
 <!ENTITY quickMode.label "Прикажи сажетак чланка уместо учитавања целе стране">
-<!ENTITY quickMode.accesskey "П">
+<!ENTITY quickMode.accesskey "п">
 
 <!ENTITY copyLinkCmd.label "Умножи везу">
-<!ENTITY copyLinkCmd.accesskey "в">
+<!ENTITY copyLinkCmd.accesskey "В">
 
 <!ENTITY pasteLinkCmd.label "Убаци">
-<!ENTITY pasteLinkCmd.accesskey "б">
+<!ENTITY pasteLinkCmd.accesskey "Б">

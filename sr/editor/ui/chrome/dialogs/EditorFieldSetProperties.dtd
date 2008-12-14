@@ -42,11 +42,11 @@
 <!ENTITY EditLegendText.label "Уреди легенду:">
 <!ENTITY EditLegendText.accesskey "У">
 <!ENTITY LegendAlign.label "Уравнај легенду:">
-<!ENTITY LegendAlign.accesskey "р">
+<!ENTITY LegendAlign.accesskey "Р">
 <!ENTITY AlignDefault.label "Изворно">
 <!ENTITY AlignLeft.label "Улево">
 <!ENTITY AlignCenter.label "Средина">
 <!ENTITY AlignRight.label "Десно">
 
 <!ENTITY RemoveFieldSet.label "Уклони скуп поља">
-<!ENTITY RemoveFieldSet.accesskey "к">
+<!ENTITY RemoveFieldSet.accesskey "К">

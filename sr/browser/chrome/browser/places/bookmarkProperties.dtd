@@ -10,9 +10,9 @@
 <!ENTITY bookmarks.createIn.label "Направи у:">
 <!ENTITY bookmarks.createIn.accesskey "Н">
 <!ENTITY bookmarks.feed_location.label "Место довода:">
-<!ENTITY bookmarks.feed_location.accesskey "д">
+<!ENTITY bookmarks.feed_location.accesskey "Д">
 <!ENTITY bookmarks.site_location.label "Место сајта:">
-<!ENTITY bookmarks.site_location.accesskey "ј">
+<!ENTITY bookmarks.site_location.accesskey "Ј">
 <!ENTITY bookmarks.loadInSidebar.label "Учитај ову забелешку у бочну траку">
 <!ENTITY bookmarks.loadInSidebar.accesskey "ч">
 <!ENTITY bookmarks.expanderDown.tooltip "Прикажи све директоријуме са забелешкама">

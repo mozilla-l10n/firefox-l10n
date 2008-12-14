@@ -114,7 +114,7 @@
 <!ENTITY certmgr.add.label "Додај">
 <!ENTITY certmgr.add.accesskey "Д">
 <!ENTITY certmgr.export.label "Извоз…">
-<!ENTITY certmgr.export.accesskey "И">
+<!ENTITY certmgr.export.accesskey "и">
 <!ENTITY certmgr.delete2.label "Уклони…">
 <!ENTITY certmgr.delete2.accesskey "У">
 <!ENTITY certmgr.backup2.label "Архивирај…">
@@ -122,11 +122,11 @@
 <!ENTITY certmgr.backupall2.label "Архивирај све…">
 <!ENTITY certmgr.backupall2.accesskey "х">
 <!ENTITY certmgr.restore2.label "Увоз…">
-<!ENTITY certmgr.restore2.accesskey "У">
+<!ENTITY certmgr.restore2.accesskey "у">
 <!ENTITY certmgr.details.label "Поља сертификата">
-<!ENTITY certmgr.details.accesskey "љ">
+<!ENTITY certmgr.details.accesskey "Љ">
 <!ENTITY certmgr.fields.label "Вредност поља">
-<!ENTITY certmgr.fields.accesskey "д">
+<!ENTITY certmgr.fields.accesskey "Д">
 <!ENTITY certmgr.hierarchy.label "Хијерархија сертификата">
 <!ENTITY certmgr.hierarchy.accesskey "Х">
 <!ENTITY certmgr.addException.label "Додај изузетак…">

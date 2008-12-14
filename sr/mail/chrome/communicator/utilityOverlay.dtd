@@ -3,18 +3,18 @@
 
 
 <!ENTITY fileMenu.label "Датотека">
-<!ENTITY fileMenu.accesskey "Д">
+<!ENTITY fileMenu.accesskey "д">
 <!ENTITY newMenu.label "Ново">
 <!ENTITY newMenu.accesskey "Н">
 
 <!ENTITY editMenu.label "Уреди">
-<!ENTITY editMenu.accesskey "У">
+<!ENTITY editMenu.accesskey "у">
 <!ENTITY undoCmd.label "Опозови">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "О">
+<!ENTITY undoCmd.accesskey "о">
 <!ENTITY redoCmd.label "Понови">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "П">
+<!ENTITY redoCmd.accesskey "п">
 <!ENTITY cutCmd.label "Исеци">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "с">
@@ -25,8 +25,7 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "б">
 <!ENTITY deleteCmd.label "Обриши">
-<!ENTITY deleteCmd.key "D">
-<!ENTITY deleteCmd.accesskey "О">
+<!ENTITY deleteCmd.accesskey "о">
 <!ENTITY selectAllCmd.label "Изабери све">
 <!ENTITY selectAllCmd.key "П">
 <!ENTITY selectAllCmd.accesskey "с">
@@ -35,41 +34,26 @@
 <!ENTITY preferencesCmdUnix.label "Поставке">
 <!ENTITY preferencesCmdUnix.accesskey "в">
 
-<!ENTITY findTypeTextCmd.label "Претрага текста при куцању">
-<!ENTITY findTypeTextCmd.accesskey "т">
-
 <!ENTITY viewMenu.label "Преглед">
-<!ENTITY viewMenu.accesskey "П">
+<!ENTITY viewMenu.accesskey "п">
 <!ENTITY viewToolbarsMenu.label "Алатне траке">
 <!ENTITY viewToolbarsMenu.accesskey "А">
 <!ENTITY showTaskbarCmd.label "Статусна трака">
 <!ENTITY showTaskbarCmd.accesskey "С">
 
-<!ENTITY direct.label "На вези (без посредника)">
-<!ENTITY direct.accesskey "в">
-<!ENTITY manual.label "На вези (посредник подешен ручно)">
-<!ENTITY manual.accesskey "р">
-<!ENTITY pac.label "На вези (посредник подешен аутоматски)">
-<!ENTITY pac.accesskey "а">
-
 <!ENTITY proxy.label "Подешавање посредника…">
-<!ENTITY proxy.accesskey "с">
-
-<!ENTITY findTypeTextCmd.key "/">
-<!ENTITY findTypeLinksCmd.key "'">
+<!ENTITY proxy.accesskey "С">
 
 <!ENTITY closeCmd.label "Затвори">
 <!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "З">
-
-<!ENTITY closeWindow.label "Затвори прозор">
+<!ENTITY closeCmd.accesskey "з">
 
 <!ENTITY quitApplicationCmd.label "Крај">
 <!ENTITY quitApplicationCmd.key "Q">
-<!ENTITY quitApplicationCmd.accesskey "К">
+<!ENTITY quitApplicationCmd.accesskey "к">
 
 <!ENTITY quitApplicationCmdUnix.label "Крај">
-<!ENTITY quitApplicationCmdUnix.accesskey "К">
+<!ENTITY quitApplicationCmdUnix.accesskey "к">
 
 <!ENTITY quitApplicationCmdMac.label "Крај рада: &brandShortName;">
-<!ENTITY quitApplicationCmdMac.accesskey "К">
+<!ENTITY quitApplicationCmdMac.accesskey "к">

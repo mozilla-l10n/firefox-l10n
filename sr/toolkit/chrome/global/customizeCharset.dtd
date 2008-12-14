@@ -45,6 +45,6 @@
 <!ENTITY add.label "Додај">
 <!ENTITY add.accessKey "Д">
 <!ENTITY moveUp.label "Нагоре">
-<!ENTITY moveUp.accessKey "г">
+<!ENTITY moveUp.accessKey "Г">
 <!ENTITY moveDown.label "Надоле">
-<!ENTITY moveDown.accessKey "д">
+<!ENTITY moveDown.accessKey "Д">

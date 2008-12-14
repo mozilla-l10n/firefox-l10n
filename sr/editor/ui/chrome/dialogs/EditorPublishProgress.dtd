@@ -43,8 +43,6 @@
 
 <!ENTITY status.label "Објава…">
 <!ENTITY fileList.label "Статус објављивања">
-<!ENTITY statusHeader.label "Статус">
-<!ENTITY filenameHeader.label "Датотека">
 <!ENTITY succeeded.label "Успешно">
 <!ENTITY failed.label "Неуспешно">
 

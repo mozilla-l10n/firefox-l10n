@@ -4,9 +4,8 @@
 <!ENTITY window.unixWidth "43em">
 
 <!ENTITY language.label "Намена:">
-<!ENTITY language.accesskey "Н">
+<!ENTITY language.accesskey "н">
 
-<!ENTITY typefaces.label "Облик">
 <!ENTITY sizes.label "Величина (у тачкама)">
 <!ENTITY proportionalSize.accesskey "е">
 <!ENTITY monospaceSize.accesskey "x">
@@ -15,13 +14,11 @@
 <!ENTITY proportional.accesskey "П">
 
 <!ENTITY serif.label "Серифни:">
-<!ENTITY serif.accesskey "С">
+<!ENTITY serif.accesskey "с">
 <!ENTITY sans-serif.label "Безсерифни:">
 <!ENTITY sans-serif.accesskey "з">
 <!ENTITY monospace.label "Исте ширине:">
-<!ENTITY monospace.accesskey "И">
-
-<!ENTITY fontsize.units "тачака">
+<!ENTITY monospace.accesskey "и">
 
 <!ENTITY font.langGroup.latin1 "западноевропски">
 <!ENTITY font.langGroup.latin2 "централноевропски">
@@ -60,18 +57,16 @@
 <!ENTITY useDefaultFontSerif.label "Са серифима">
 <!ENTITY useDefaultFontSansSerif.label "Без серифа">
 
-<!ENTITY newLanguages.label "Нови језици се могу подесити из панела Језици.">
-
 <!ENTITY useDocumentFonts.label "Поруке могу да користе друга писма">
 <!ENTITY useDocumentFonts.accesskey "д">
 <!-- Language settings -->
 
 <!ENTITY sendDefaultCharset.label "Одлазна пошта:">
-<!ENTITY sendDefaultCharset.accesskey "О">
+<!ENTITY sendDefaultCharset.accesskey "о">
 <!ENTITY languagesTitle1.label "Кодирање знакова">
-<!ENTITY composingDescription.label "Поставка подразумеваног кодирања знакова за долазну и одлазну пошту">
+<!ENTITY composingDescription.label "Поставка изворног кодирања знакова за долазну и одлазну пошту">
 
 <!ENTITY viewDefaultCharsetList.label "Долазна пошта:">
 <!ENTITY viewDefaultCharsetList.accesskey "Д">
-<!ENTITY replyInDefaultCharset2.label "When possible, use the default character encoding in replies">
-<!ENTITY replyInDefaultCharset2.accesskey "h">
+<!ENTITY replyInDefaultCharset2.label "Кадгод је могуће користи изворно кодирање знакова у одговорима">
+<!ENTITY replyInDefaultCharset2.accesskey "и">

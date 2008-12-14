@@ -1,7 +1,7 @@
-<!ENTITY prefs.title "Поставке метрика">
+<!ENTITY prefs.title "Spectator Preferences">
 
 <!ENTITY prefs.label.msg "Молимо Вас да нам помогнете да побољшамо фајерфокс тако што ћете нам послати анонимне податке о употреби.">
-<!ENTITY prefs.checkbox.enable "Укључи метрике">
+<!ENTITY prefs.checkbox.enable "Enable Spectator">
 
 <!ENTITY prefs.button.close "Затвори">
 

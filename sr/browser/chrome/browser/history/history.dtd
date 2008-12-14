@@ -3,15 +3,15 @@
 <!ENTITY expand.label "Рашири">
 <!ENTITY expand.accesskey "Р">
 <!ENTITY collapse.label "Сажми">
-<!ENTITY collapse.accesskey "ж">
+<!ENTITY collapse.accesskey "Ж">
 <!ENTITY byDate.label "По датуму">
-<!ENTITY byDate.accesskey "д">
+<!ENTITY byDate.accesskey "Д">
 <!ENTITY bySite.label "По месту">
-<!ENTITY bySite.accesskey "м">
+<!ENTITY bySite.accesskey "М">
 <!ENTITY view.label "Преглед">
 <!ENTITY view.accesskey "г">
 <!ENTITY byMostVisited.label "По посећености">
-<!ENTITY byMostVisited.accesskey "о">
+<!ENTITY byMostVisited.accesskey "О">
 <!ENTITY byLastVisited.label "По последњој посети">
 <!ENTITY byLastVisited.accesskey "П">
 <!ENTITY byDayAndSite.label "По датуму и сајту">
@@ -19,9 +19,9 @@
 <!ENTITY openLinkInWindow.label "Отвори">
 <!ENTITY openLinkInWindow.accesskey "О">
 <!ENTITY openInNewTab.label "Отвори у новом језичку">
-<!ENTITY openInNewTab.accesskey "ј">
+<!ENTITY openInNewTab.accesskey "Ј">
 <!ENTITY openInNewWindow.label "Отвори у новом прозору">
-<!ENTITY openInNewWindow.accesskey "п">
+<!ENTITY openInNewWindow.accesskey "П">
 <!ENTITY bookmarkLink.label "Забележи ову везу…">
 <!ENTITY bookmarkLink.accesskey "З">
 <!ENTITY copyLink.label "Умножи адресу везе">
