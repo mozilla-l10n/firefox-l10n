@@ -361,7 +361,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY editBookmark.cancel.label                   "ביטול">
-<!ENTITY editBookmark.removeBookmark.label           "הסר סימניה">
 <!ENTITY editBookmark.removeBookmark.accessKey       "ה">
 <!ENTITY editBookmark.undo.label                     "ביטול">
 <!ENTITY editBookmark.undo.accessKey                 "ב">
