@@ -70,7 +70,6 @@
 <!ENTITY NickName.label                 "Smeknamn:">
 <!ENTITY NickName.accesskey             "S">
 
-<!ENTITY Internet.box                   "Internet">
 <!ENTITY PrimaryEmail.label		"E-postadress:">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Ytterligare e-post:">
@@ -120,9 +119,11 @@ sådana externa inbäddade bilder i HTML-meddelanden från den här kontakten.">
 <!ENTITY HomeWebPage.accesskey          "W">
 <!ENTITY Birthday.label                 "Födelsedag:">
 <!ENTITY Birthday.accesskey             "F">
+<!ENTITY In.label                       "">
 <!ENTITY Year.emptytext                 "År">
 <!ENTITY Or.value                       "eller">
 <!ENTITY Age.emptytext                  "Ålder">
+<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Arbete">
 <!ENTITY Work.accesskey                 "A">
