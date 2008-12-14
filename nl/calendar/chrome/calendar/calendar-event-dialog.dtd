@@ -214,18 +214,18 @@
 <!ENTITY event.priority2.label                            "Prioriteit:">
 
 <!ENTITY event.reminder.none.label                        "Geen herinnering " >
-<!ENTITY event.reminder.5minutes.before.label             "5 minuten ervoor" >
-<!ENTITY event.reminder.10minutes.before.label            "10 minuten ervoor" >
-<!ENTITY event.reminder.15minutes.before.label            "15 minuten ervoor" >
-<!ENTITY event.reminder.30minutes.before.label            "30 minuten ervoor" >
-<!ENTITY event.reminder.45minutes.before.label            "45 minuten ervoor" >
-<!ENTITY event.reminder.1hour.before.label                "1 uur ervoor" >
-<!ENTITY event.reminder.2hours.before.label               "2 uur ervoor" >
-<!ENTITY event.reminder.5hours.before.label               "5 uur ervoor" >
-<!ENTITY event.reminder.15hours.before.label              "15 uur ervoor" >
-<!ENTITY event.reminder.1day.before.label                 "1 dag ervoor" >
-<!ENTITY event.reminder.2days.before.label                "2 dagen ervoor" >
-<!ENTITY event.reminder.1week.before.label                "1 week ervoor" >
+<!ENTITY event.reminder.5minutes.before.label             "5 minuten van tevoren" >
+<!ENTITY event.reminder.10minutes.before.label            "10 minuten van tevoren" >
+<!ENTITY event.reminder.15minutes.before.label            "15 minuten van tevoren" >
+<!ENTITY event.reminder.30minutes.before.label            "30 minuten van tevoren" >
+<!ENTITY event.reminder.45minutes.before.label            "45 minuten van tevoren" >
+<!ENTITY event.reminder.1hour.before.label                "1 uur van tevoren" >
+<!ENTITY event.reminder.2hours.before.label               "2 uur van tevoren" >
+<!ENTITY event.reminder.5hours.before.label               "5 uur van tevoren" >
+<!ENTITY event.reminder.15hours.before.label              "15 uur van tevoren" >
+<!ENTITY event.reminder.1day.before.label                 "1 dag van tevoren" >
+<!ENTITY event.reminder.2days.before.label                "2 dagen van tevoren" >
+<!ENTITY event.reminder.1week.before.label                "1 week van tevoren" >
 <!ENTITY event.reminder.custom.label                      "Aangepast…" >
 
 <!ENTITY event.reminder.multiple.label                    "Meerdere herinneringen…" >
@@ -360,9 +360,9 @@
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label              "Genodigden uitnodigen">
 <!ENTITY event.organizer.label           "Organisator">
-<!ENTITY event.freebusy.suggest.slot     "Vrije plaats voorstellen:">
-<!ENTITY event.freebusy.next.slot        "Volgende vrije plaats " >
-<!ENTITY event.freebusy.previous.slot    " Vorige vrije plaats" >
+<!ENTITY event.freebusy.suggest.slot     "Vrij tijdstip voorstellen:">
+<!ENTITY event.freebusy.next.slot        "Volgend vrij tijdstip " >
+<!ENTITY event.freebusy.previous.slot    " Vorig vrij tijdstip" >
 <!ENTITY event.freebusy.zoom             "Zoomen:">
 <!ENTITY event.freebusy.plus             "Volgend uur" >
 <!ENTITY event.freebusy.minus            "Vorig uur" >
@@ -383,7 +383,7 @@
 <!ENTITY read.only.reply.label           "Antwoord:">
 <!ENTITY read.only.accept.label          "Ik zal aanwezig zijn">
 <!ENTITY read.only.decline.label         "Ik zal niet aanwezig zijn">
-<!ENTITY read.only.tentative.label       "Ik ben misschien aanwezig">
+<!ENTITY read.only.tentative.label       "Ik zal misschien aanwezig zijn">
 <!ENTITY read.only.needs.action.label    "Ik zal later bevestigen">
 <!ENTITY read.only.reminder.label        "Herinnering:">
 <!ENTITY read.only.attendees.label       "Genodigden">
