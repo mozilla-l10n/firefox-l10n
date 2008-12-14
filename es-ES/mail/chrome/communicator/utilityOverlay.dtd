@@ -39,7 +39,6 @@
 <!ENTITY closeCmd.label "Cerrar">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "c">
-<!ENTITY closeWindow.label "Cerrar ventana">
 <!ENTITY quitApplicationCmd.label "Salir">
 <!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY quitApplicationCmd.accesskey "S">
