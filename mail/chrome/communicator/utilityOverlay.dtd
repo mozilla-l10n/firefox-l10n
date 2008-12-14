@@ -78,8 +78,6 @@
 <!ENTITY closeCmd.key        "W">
 <!ENTITY closeCmd.accesskey  "ä">
 
-<!ENTITY closeWindow.label  "Stäng fönster">
-
 <!ENTITY quitApplicationCmd.label      "Avsluta">
 <!ENTITY quitApplicationCmd.key        "Q">
 <!ENTITY quitApplicationCmd.accesskey  "A">
