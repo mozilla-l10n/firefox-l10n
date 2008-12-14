@@ -10,8 +10,8 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newCard.label "Fiche du carnet d'adresses…">
-<!ENTITY newCard.accesskey "c">
+<!ENTITY newContact.label "Contact du carnet d'adresses…">
+<!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "Joindre">
 <!ENTITY attachMenu.accesskey "J">
 <!ENTITY attachFileCmd.label "Fichier(s)…">
