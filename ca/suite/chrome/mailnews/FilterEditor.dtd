@@ -1,21 +1,5 @@
 <!ENTITY window.title "Regles de filtratge">
-<!ENTITY subject.label "assumpte">
-<!ENTITY sender.label "remitent">
-<!ENTITY date.label "data">
-<!ENTITY anyText.label "qualsevol text">
-<!ENTITY keyword.label "paraula clau">
-<!ENTITY age.label "antiguitat en dies">
-<!ENTITY to.label "per a">
-<!ENTITY size.label "mida">
 
-<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
-<!ENTITY cc.label "CC">
-
-<!ENTITY status.label "estat">
-<!ENTITY priority.label "prioritat">
-<!ENTITY body.label "cos">
-<!ENTITY contains.label "conté">
-<!ENTITY nocontains.label "no conté">
 <!ENTITY watchThread.label "Vigila la cadena">
 <!ENTITY forwardTo.label "Reenvia-ho a">
 <!ENTITY replyWithTemplate.label "Reenvia-ho amb plantilla">
@@ -31,12 +15,14 @@
 <!ENTITY highPriorityCmd.label "Alta">
 <!ENTITY highestPriorityCmd.label "Màxima">
 
-<!ENTITY conditionDesc.label "Per als missatges d'entrada que coincideixin amb:">
+<!ENTITY contextDesc.label "Aplica el filtre quan:">
+<!ENTITY contextDesc.accesskey "q">
+<!ENTITY contextIncoming.label "Comprovi el correu">
+<!ENTITY contextManual.label "Executa manualment">
+<!ENTITY contextBoth.label "Comprovant el correu o execució manual">
+
 <!ENTITY filterActionDesc.label "Realitza les següents accions:">
 <!ENTITY filterActionDesc.accesskey "z">
-
-<!ENTITY newFolderButton.label "Carpeta nova…">
-<!ENTITY newFolderButton.accesskey "n">
 
 <!ENTITY moveMessage.label "Mou el missatge a">
 <!ENTITY copyMessage.label "Copia el missatge a">
@@ -50,3 +36,5 @@
 <!ENTITY deleteFromPOP.label "Suprimeix-lo del servidor POP">
 <!ENTITY fetchFromPOP.label "Baixa'l del servidor POP ">
 <!ENTITY ignoreThread.label "Ignora la cadena">
+<!ENTITY ignoreSubthread.label "Ignora la subcadena">
+<!ENTITY stopExecution.label "Atura l'execució del filtre">

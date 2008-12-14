@@ -1,6 +1,5 @@
 <!ENTITY serverAdvanced.label "Paràmetres avançats del compte">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY imapAdvanced.label "Paràmetres avançats del servidor IMAP">
 <!ENTITY serverDirectory.label "Directori del servidor IMAP:">
 <!ENTITY serverDirectory.accesskey "D">
 <!ENTITY usingSubscription.label "Mostra només les carpetes subscrites">
@@ -22,7 +21,6 @@
 <!ENTITY overrideNamespaces.label "Permet que el servidor substitueixi aquests espais de noms">
 <!ENTITY overrideNamespaces.accesskey "a">
 <!ENTITY pop3Desc.label "Quan es baixi el correu d'aquest servidor, utilitzeu la següent carpeta per al nou correu">
-<!ENTITY folderStorage.label "On s'emmagatzema el correu">
 <!ENTITY globalInbox.label "Safata d'entrada global (compte de les carpetes locals)">
 <!ENTITY globalInbox.accesskey "g">
 <!ENTITY accountDirectory.label "Safata d'entrada per al compte d'aquest servidor">

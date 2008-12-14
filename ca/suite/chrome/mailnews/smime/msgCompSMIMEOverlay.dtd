@@ -3,9 +3,6 @@
 <!ENTITY securityMenu.label "Seguretat">
 <!ENTITY securityMenu.accesskey "e">
 
-<!ENTITY menu_securityEncryptIfPossible.label "Xifra quan sigui possible">
-<!ENTITY menu_securityEncryptIfPossible.accesskey "p">
-
 <!ENTITY menu_securityEncryptRequire.label "Requereix xifratge">
 <!ENTITY menu_securityEncryptRequire.accesskey "e">
 

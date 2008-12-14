@@ -53,7 +53,6 @@
 <!ENTITY autocompleteText.label "En adreçar missatges, cerca entrades coincidents a:">
 <!ENTITY directories.label "Servidor de directori">
 <!ENTITY directories.accesskey "S">
-<!ENTITY editDirectories.label "Edita els directoris...">
+<!ENTITY directoriesNone.label                 "Cap">
+<!ENTITY editDirectories.label "Edita els directoris…">
 <!ENTITY editDirectories.accesskey "E">
-<!ENTITY matchText.label "Si hi ha una coincidència en les vostres llibretes d'adreces locals:">
-<!ENTITY skipDirectory.label "No cerquis al directori">

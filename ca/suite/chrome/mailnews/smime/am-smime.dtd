@@ -1,4 +1,5 @@
 <!ENTITY securityTitle.label "Seguretat">
+<!ENTITY securityTab.label "Seguretat">
 <!ENTITY securityHeading.label "Per enviar i rebre missatges signats o xifrats, heu d'indicar tant un certificat de signatura digital com un certificat de xifratge.">
 <!ENTITY encryptionGroupTitle.label "Xifratge">
 <!ENTITY encryptionChoiceLabel.label "Utilitza els paràmetres de xifratge per defecte en enviar missatges:">
@@ -7,7 +8,6 @@
 <!ENTITY alwaysEncryptMessage.label "Obligatori (no es pot enviar un missatge tret que tots els destinataris tinguin un certificat)">
 <!ENTITY alwaysEncryptMessage.accesskey "g">
 <!ENTITY encryptionCert.message "Utilitza aquest certificat per a xifrar i desxifrar missatges que us hagin enviat:">
-<!ENTITY encryptionCert.notselected "No s'ha definit cap certificat">
 <!ENTITY digitalSign.certificate.button "Seleccioneu...">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Neteja">
@@ -20,5 +20,9 @@
 <!ENTITY signMessage.label "Signa els missatges digitalment (per defecte)">
 <!ENTITY signMessage.accesskey "d">
 <!ENTITY signingCert.message "Utilitza aquest certificat per a signar digitalment els missatges que envieu:">
-<!ENTITY signingCert.notselected "No s'ha definit cap certificat">
 
+<!ENTITY certificates.label "Certificats">
+<!ENTITY manageCerts.label "Gestiona els certificats…">
+<!ENTITY manageCerts.accesskey "G">
+<!ENTITY manageDevices.label "Gestiona els dispositius de seguretat…">
+<!ENTITY manageDevices.accesskey "s">

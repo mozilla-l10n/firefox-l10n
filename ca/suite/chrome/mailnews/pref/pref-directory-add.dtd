@@ -51,12 +51,9 @@
 <!ENTITY directorySecure.accesskey "U">
 <!ENTITY directoryLogin.label "Entra amb un nom d'usuari i una contrasenya">
 <!ENTITY directoryLogin.accesskey "i">
-<!ENTITY advancedOptionsButton.label "Opcions avançades">
-<!ENTITY advancedOptionsButton.accesskey "a">
 <!ENTITY General.tab "General">
 <!ENTITY Offline.tab "Fora de línia">
 <!ENTITY Advanced.tab "Avançat">
-<!ENTITY advancedOptionsTitle.label "Opcions avançades">
 <!ENTITY portNumber.label "Número de port:">
 <!ENTITY portNumber.accesskey "p">
 <!ENTITY searchFilter.label "Filtre de cerca:">
