@@ -433,7 +433,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Įrašyti">
 <!ENTITY editBookmark.cancel.label                   "Atsisakyti">
-<!ENTITY editBookmark.removeBookmark.label           "Pašalinti įrašą">
 <!ENTITY editBookmark.removeBookmark.accessKey       "š">
 <!ENTITY editBookmark.undo.label                     "Atšaukti">
 <!ENTITY editBookmark.undo.accessKey                 "A">
