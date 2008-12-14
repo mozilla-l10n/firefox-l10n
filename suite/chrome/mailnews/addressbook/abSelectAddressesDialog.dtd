@@ -58,13 +58,9 @@
 <!ENTITY lookIn.accesskey "r">
 <!ENTITY for.label "per:">
 <!ENTITY for.accesskey "e">
-<!ENTITY clearButton.label "Neteja">
-<!ENTITY clearButton.accesskey "a">
-<!ENTITY stopButton.label "Atura">
 <!ENTITY addressMessageTo.label "Adreçar el missatge a:">
 
 <!-- Tooltips items -->  
-<!ENTITY addressPickerSearchButton.tooltip "Cerca la llibreta d'adreces seleccionada">
 <!ENTITY addressPickerNewButton.tooltip "Crea una nova targeta de llibreta d'adreces">
 <!ENTITY addressPickerEditButton.tooltip "Edita la targeta seleccionada">
 

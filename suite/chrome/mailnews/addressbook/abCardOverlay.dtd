@@ -37,11 +37,8 @@
 
 <!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
 
-
-<!ENTITY chooseAddressBook.label "Afegeix a:">
-<!ENTITY chooseAddressBook.accesskey "A">
-
 <!ENTITY Contact.tab "Contacte">
+<!ENTITY Contact.accesskey               "C">
 <!ENTITY Name.box "Nom">
 
 <!-- LOCALIZATION NOTE: 
@@ -72,7 +69,6 @@
 <!ENTITY NickName.label "Sobrenom:">
 <!ENTITY NickName.accesskey "S">
 
-<!ENTITY Internet.box "Internet">
 <!ENTITY PrimaryEmail.label "Adreça electrònica:">
 <!ENTITY PrimaryEmail.accesskey "e">
 <!ENTITY SecondEmail.label "Adreça electrònica addicional:">
@@ -87,8 +83,12 @@
 
 <!ENTITY allowRemoteContent.label       "Permet les imatges remotes en el correu HTML.">
 <!ENTITY allowRemoteContent.accesskey   "g">
+<!ENTITY allowRemoteContent.tooltip     "En els missatges HTML és possible
+incrustar imatges d'origen remot. En obrir-se un d'aquests missatges, s'establirà
+una connexió amb la font externa. Això permet que es pugui detectar si es
+llegeix el missatge. En marcar aquest quadre, es permetrà aquest tipus d'imatges
+incrustades en els missatges HTML d'aquest contacte.">
 
-<!ENTITY Phones.box "Telèfons">
 <!ENTITY WorkPhone.label "Feina:">
 <!ENTITY WorkPhone.accesskey "F">
 <!ENTITY HomePhone.label "Particular:">
@@ -101,29 +101,53 @@
 <!ENTITY CellularNumber.accesskey "b">
 
 
-<!ENTITY Address.tab "Adreça">
-<!ENTITY Home.box "Particular">
+<!ENTITY Home.tab "Particular">
+<!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label "Adreça:">
+<!ENTITY HomeAddress.accesskey          "ç">
 <!ENTITY HomeAddress2.label "">
+<!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label "Població:">
-<!ENTITY HomeState.label "Comarca/Província:">
+<!ENTITY HomeCity.accesskey             "b">
+<!ENTITY HomeState.label "Comarca/Regió:">
+<!ENTITY HomeState.accesskey            "c">
 <!ENTITY HomeZipCode.label "Codi postal:">
+<!ENTITY HomeZipCode.accesskey          "o">
 <!ENTITY HomeCountry.label "País:">
+<!ENTITY HomeCountry.accesskey          "P">
 <!ENTITY HomeWebPage.label "Pàgina web:">
-<!ENTITY Work.box "Feina">
+<!ENTITY HomeWebPage.accesskey          "w">
+<!ENTITY Work.tab "Feina">
+<!ENTITY Work.accesskey                 "F">
 <!ENTITY JobTitle.label "Títol:">
+<!ENTITY JobTitle.accesskey             "t">
 <!ENTITY Department.label "Departament:">
+<!ENTITY Department.accesskey           "m">
 <!ENTITY Company.label "Organització:">
+<!ENTITY Company.accesskey              "z">
 <!ENTITY WorkAddress.label "Adreça:">
+<!ENTITY WorkAddress.accesskey          "r">
 <!ENTITY WorkAddress2.label "">
+<!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label "Població:">
-<!ENTITY WorkState.label "Comarca/Província:">
+<!ENTITY WorkCity.accesskey             "i">
+<!ENTITY WorkState.label "Comarca/Regió:">
+<!ENTITY WorkState.accesskey            "g">
 <!ENTITY WorkZipCode.label "Codi postal:">
+<!ENTITY WorkZipCode.accesskey          "l">
 <!ENTITY WorkCountry.label "País:">
+<!ENTITY WorkCountry.accesskey          "s">
 <!ENTITY WorkWebPage.label "Pàgina web:">
+<!ENTITY WorkWebPage.accesskey          "e">
 
 
 <!ENTITY Other.tab "Altres">
+<!ENTITY Other.accesskey                "A">
+<!ENTITY Birthday.label                 "Aniversari:">
+<!ENTITY Birthday.accesskey             "v">
+<!ENTITY Year.emptytext                 "Any">
+<!ENTITY Or.value                       "o">
+<!ENTITY Age.emptytext                  "Edat">
 <!ENTITY Custom1.label "Personalitzat 1:">
 <!ENTITY Custom1.accesskey "1">
 <!ENTITY Custom2.label "Personalitzat 2:">
@@ -132,4 +156,6 @@
 <!ENTITY Custom3.accesskey "3">
 <!ENTITY Custom4.label "Personalitzat 4:">
 <!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.box "Anotacions">
+<!ENTITY Notes.label "Anotacions">
+<!ENTITY Notes.accesskey                "n">
+
