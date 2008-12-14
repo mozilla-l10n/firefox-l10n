@@ -1,0 +1,8 @@
+<!ENTITY editContactName.label "Nafn:">
+<!ENTITY editContactName.accesskey "N">
+<!ENTITY editContactEmail.label "Tölvupóstfang:">
+<!ENTITY editContactEmail.accesskey "T">
+<!ENTITY editContactPanelCancel.label "Hætta við">
+<!ENTITY editContactPanelCancel.accesskey "H">
+<!ENTITY editContactPanelDone.label "Lokið">
+<!ENTITY editContactPanelDone.accesskey "L">

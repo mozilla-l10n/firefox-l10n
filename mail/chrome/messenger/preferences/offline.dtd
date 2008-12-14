@@ -1,0 +1,22 @@
+<!ENTITY offlineDialog.title "Stillingar fyrir ótengdur">
+<!ENTITY textStartUp "Í ræsingu:">
+<!ENTITY radioRememberPrevState.label "Muna síðustu nettengistöðu">
+<!ENTITY radioRememberPrevState.accesskey "M">
+<!ENTITY radioAskMe.label "Spyrja í ræsingu um tengistöðu">
+<!ENTITY radioAskMe.accesskey "u">
+<!ENTITY radioAlwaysOnline.label "Alltaf ræsa sem tengdur">
+<!ENTITY radioAlwaysOnline.accesskey "l">
+<!ENTITY textGoingOnline "Senda ósendan póst þegar verið er að tengjast?">
+<!ENTITY radioAutoSend.label "Já">
+<!ENTITY radioAutoSend.accesskey "J">
+<!ENTITY radioNotSend.label "Nei">
+<!ENTITY radioNotSend.accesskey "N">
+<!ENTITY radioAskUnsent.label "Spyrja mig">
+<!ENTITY radioAskUnsent.accesskey "s">
+<!ENTITY textGoingOffline "Hlaða niður póstum þegar verið er að aftengjast?">
+<!ENTITY radioAutoDownload.label "Já">
+<!ENTITY radioAutoDownload.accesskey "J">
+<!ENTITY radioNotDownload.label "Nei">
+<!ENTITY radioNotDownload.accesskey "N">
+<!ENTITY radioAskDownload.label "Spyrja mig">
+<!ENTITY radioAskDownload.accesskey "a">

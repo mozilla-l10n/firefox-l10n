@@ -1,0 +1,30 @@
+<!ENTITY emailSectionHdr.label "Tölvupóstur">
+ 
+<!ENTITY readMsgsLink.label "Lesa póst">
+ 
+<!ENTITY composeMsgLink.label "Skrifa nýjan póst">
+ 
+
+<!ENTITY newsSectionHdr.label "Fréttahópar">
+ 
+<!ENTITY subscribeNewsLink.label "Sýsla með áskriftir að fréttahópum">
+ 
+
+<!ENTITY accountsSectionHdr.label "Reikningar">
+ 
+<!ENTITY subscribeImapFolders.label "Sýsla með áskriftir að möppum">
+<!ENTITY settingsLink.label "Skoða stillingar fyrir þennan reikning">
+ 
+<!ENTITY newAcctLink.label "Stofna nýjan reikning">
+ 
+
+<!ENTITY advFeaturesSectionHdr.label "Ítarlegri stillingar">
+ 
+<!ENTITY searchMsgsLink.label "Leita í pósti">
+ 
+<!ENTITY filtersLink.label "Sýsla með póstsíur">
+<!ENTITY junkSettings.label "Ruslpósts stillingar">
+<!ENTITY offlineLink.label "Stillingar fyrir að vera ótengdur">
+<!ENTITY rssSectionHdr.label "RSS fréttir &amp; blogg">
+ 
+<!ENTITY subscibeRSS.label "Sjá um áskriftir">

@@ -31,5 +31,5 @@ that require it.  -->
 <!ENTITY itemDownloadList.accesskey "N">
 <!ENTITY itemActiveLogins.label "Virkar innskráningar">
 <!ENTITY itemActiveLogins.accesskey "i">
-<!ENTITY window.width "30em">
+<!ENTITY window.width "40em">
 <!ENTITY column.width "14em">

@@ -1,0 +1,15 @@
+<!ENTITY credit.title "&brandFullName; þakkir">
+<!ENTITY brandMotto "Áfram Thunderbirds!">
+<!ENTITY credit.leads "Stjórnendur þróunar">
+<!ENTITY credit.thanks "Sérstakar þakkir fá">
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation "<h3>Þýðandi</h3><ul><li>Kristján Bjarni Guðmundsson</li></ul>">
+<!ENTITY credit.theme "Hönnun þema">
+<!ENTITY credit.qa "Gæðastjórnun">
+<!ENTITY credit.build "Útgáfustjórnun">
+<!ENTITY credit.memory "Í minningu">
+<!ENTITY credit.poweredByGecko "Knúið af Gecko&trade;">

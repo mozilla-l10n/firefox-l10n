@@ -1,0 +1,19 @@
+<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
+<!ENTITY MsgSynchronize.label "Niðurhala og samstilli póst">
+<!ENTITY MsgSelect.label "Hlutir sem eru fyrir ótengda notkun">
+<!ENTITY MsgSyncDesc.label "Ef þú hefur þegar valið póstmöppur eða fréttahópa fyrir ótengda notkun, geturðu niðurhalað eða samstillt þá núna. Annars geturðu notað &quot;Velja&quot; takkann til að velja póstmöppur og fréttahópa fyrir ótengda notkun.">
+<!ENTITY MsgSyncDirections.label "Niðurhala og/eða samstilla eftirfarandi:">
+<!ENTITY syncTypeMail.label "Tölvupóstur">
+<!ENTITY syncTypeMail.accesskey "P">
+<!ENTITY syncTypeNews.label "Póstar fréttahóps">
+<!ENTITY syncTypeNews.accesskey "f">
+<!ENTITY sendMessage.label "Senda ósendan póst">
+<!ENTITY sendMessage.accesskey "S">
+<!ENTITY workOffline.label "Skipta yfir í að vera ótengdur um leið og niðurhal og/eða afritun er búin">
+<!ENTITY workOffline.accesskey "S">
+<!ENTITY selectButton.label "Velja…">
+<!ENTITY selectButton.accesskey "E">
+<!ENTITY MsgSelectDesc.label "Veldu póstmöppur og frétthópa fyrir ótengda notkun.">
+<!ENTITY MsgSelectInd.label "Hala niður">
+<!ENTITY MsgSelectItems.label "Möppur og fréttahópar">

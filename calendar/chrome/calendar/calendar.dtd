@@ -164,7 +164,7 @@
 <!ENTITY calendar.context.modifyitem.accesskey "e">
 <!ENTITY calendar.context.deletetask.label "Eyða verki">
 <!ENTITY calendar.context.deletetask.accesskey "y">
-<!ENTITY calendar.context.deleteitem.label "Eyða atriði">
+<!ENTITY calendar.context.deleteitem.label "Eyða">
 <!ENTITY calendar.context.deleteitem.accesskey "E">
 <!ENTITY calendar.context.deleteevent.label "Eyða atburði">
 <!ENTITY calendar.context.deleteevent.accesskey "a">

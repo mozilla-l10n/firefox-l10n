@@ -1,0 +1,4 @@
+<!-- New Tag Dialog -->
+<!ENTITY newTagDialog.title "Búa til nýjan flokk">
+<!ENTITY name.label "Nafn flokks:">
+<!ENTITY name.accesskey "f">

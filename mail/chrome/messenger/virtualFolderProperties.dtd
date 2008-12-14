@@ -1,0 +1,11 @@
+<!ENTITY virtualFolderProperties.title "Ný vistuð leit">
+<!ENTITY name.label "Nafn:">
+<!ENTITY name.accesskey "n">
+<!ENTITY description.label "Búa til sem undirmöppu af:">
+<!ENTITY description.accesskey "B">
+<!ENTITY searchTermCaption.label "Stilltu leitarskilyrðin fyrir vistaða leit: ">
+<!ENTITY folderSelectionCaption.label "Veldu möppur til að leita í: ">
+<!ENTITY chooseFoldersButton.label "Velja…">
+<!ENTITY chooseFoldersButton.accesskey "V">
+<!ENTITY searchOnline.label "Leitar á netinu (Skilar uppfærðum niðurstöðum fyrir IMAP og Fréttamöppur en lengur tíma við opnun möppu)">
+<!ENTITY searchOnline.accesskey "O">

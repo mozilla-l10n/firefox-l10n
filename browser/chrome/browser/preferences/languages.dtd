@@ -1,4 +1,4 @@
-<!ENTITY window.width "30em">
+<!ENTITY window.width "40em">
 <!ENTITY languages.customize.Header "Tungumál">
 <!ENTITY languages.customize.prefLangDescript "Vefsíður eru oft í boði á mörgum tungumálum. Veldu hér forgangsröð tungumála sem þú kýst að sjá síður í.">
 <!ENTITY languages.customize.active.label "Tungumál í forgangsröð:">

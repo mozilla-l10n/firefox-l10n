@@ -1,0 +1,4 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY mailViewListTitle.label "Sérsníða póstsýnir">
+<!ENTITY viewName.label "Nafn á sýn">

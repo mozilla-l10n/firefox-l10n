@@ -1,0 +1,31 @@
+<!ENTITY serverAdvanced.label "Ítarlegri reikningsstillingar">
+<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
+<!ENTITY serverDirectory.label "IMAP þjóns skráarsafn:">
+<!ENTITY serverDirectory.accesskey "þ">
+<!ENTITY usingSubscription.label "Sýna aðeins möppur í áskrift">
+<!ENTITY usingSubscription.accesskey "S">
+<!ENTITY dualUseFolders.label "Þjónn styður möppur sem innihalda undirmöppur og póst">
+<!ENTITY dualUseFolders.accesskey "j">
+<!ENTITY useIdle.label "Nota IDLE skipun ef þjónn styður það">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "Hámarksfjöldi tenginga á þjón sem setja á í flýtiminni">
+<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
+<!ENTITY namespaceDesc.label "Þessar stillingar skilgreina nafnarými á IMAP þjóni">
+<!ENTITY personalNamespace.label "Einkanafnarými:">
+<!ENTITY personalNamespace.accesskey "E">
+<!ENTITY publicNamespace.label "Opinbert (samnýtt):">
+<!ENTITY publicNamespace.accesskey "O">
+<!ENTITY otherUsersNamespace.label "Aðrir notendur:">
+<!ENTITY otherUsersNamespace.accesskey "A">
+<!ENTITY overrideNamespaces.label "Leyfa þjóni að hunsa þessi nafnarými">
+<!ENTITY overrideNamespaces.accesskey "A">
+<!ENTITY pop3Desc.label "Þegar verið er að niðurhala pop pósti frá þessum þjóni, nota eftirfarandi möppu fyrir nýjan póst:">
+<!ENTITY globalInbox.label "Víðvært innhólf (Reikningur fyrir staðbundnar möppur)">
+<!ENTITY globalInbox.accesskey "G">
+<!ENTITY accountDirectory.label "Innhólf fyrir þjón á þessum reikningi">
+<!ENTITY accountDirectory.accesskey "S">
+<!ENTITY deferToServer.label "Innhólf fyrir annan reikning">
+<!ENTITY deferToServer.accesskey "I">
+<!ENTITY deferGetNewMail.label "Nota þennan þjón þegar náð er í nýjan póst">
+<!ENTITY deferGetNewMail.accesskey "N">

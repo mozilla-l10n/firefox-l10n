@@ -1,0 +1,53 @@
+<!-- these things need to move into utilityOverlay.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+
+<!ENTITY fileMenu.label "Skrá">
+<!ENTITY fileMenu.accesskey "S">
+<!ENTITY newMenu.label "Nýtt">
+<!ENTITY newMenu.accesskey "N">
+<!ENTITY editMenu.label "Breyta">
+<!ENTITY editMenu.accesskey "B">
+<!ENTITY undoCmd.label "Afturkalla">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "f">
+<!ENTITY redoCmd.label "Endurtaka">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "E">
+<!ENTITY cutCmd.label "Klippa">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "K">
+<!ENTITY copyCmd.label "Afrita">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "A">
+<!ENTITY pasteCmd.label "Líma">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "L">
+<!ENTITY deleteCmd.label "Eyða">
+<!ENTITY deleteCmd.accesskey "E">
+<!ENTITY selectAllCmd.label "Velja allt">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY preferencesCmd.label "Valkostir…">
+<!ENTITY preferencesCmd.accesskey "V">
+<!ENTITY preferencesCmdUnix.label "Valkostir">
+<!ENTITY preferencesCmdUnix.accesskey "V">
+<!ENTITY viewMenu.label "Skoða
+">
+<!ENTITY viewMenu.accesskey "k">
+<!ENTITY viewToolbarsMenu.label "Verkfærarein">
+<!ENTITY viewToolbarsMenu.accesskey "V">
+<!ENTITY showTaskbarCmd.label "Stöðurein">
+<!ENTITY showTaskbarCmd.accesskey "S">
+<!ENTITY proxy.label "Staðgengla (Proxy) stillingar…">
+<!ENTITY proxy.accesskey "P">
+<!ENTITY closeCmd.label "Loka">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "L">
+<!ENTITY quitApplicationCmd.label "Hætta">
+<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY quitApplicationCmd.accesskey "H">
+<!ENTITY quitApplicationCmdUnix.label "Hætta">
+<!ENTITY quitApplicationCmdUnix.accesskey "H">
+<!ENTITY quitApplicationCmdMac.label "Hætta í &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey "H">

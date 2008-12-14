@@ -1,0 +1,27 @@
+<!ENTITY pane.title "Staðfesting á lestri">
+<!ENTITY useGlobalPrefs.label "Nota víðværa stillingu á staðfestingu á lestri fyrir þennan reikning">
+<!ENTITY useGlobalPrefs.accesskey "U">
+<!ENTITY useCustomPrefs.label "Sérsniða staðfestingar á lestri fyrir þennan reikning">
+<!ENTITY useCustomPrefs.accesskey "S">
+<!ENTITY requestReceipt.label "Þegar póstur er sendur, alltaf krefjast staðfestingar á lestri">
+<!ENTITY requestReceipt.accesskey "Þ">
+<!ENTITY receiptArrive.label "Ef kvittun er móttekin:">
+<!ENTITY leaveIt.label "Skilja hana eftir í innhólfi">
+<!ENTITY leaveIt.accesskey "I">
+<!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
+<!ENTITY moveToSent.label "Færa yfir í mína &quot;Sent&quot; möppu">
+<!ENTITY moveToSent.accesskey "M">
+<!ENTITY requestMDN.label "Þegar ég móttek beiðni um staðfestingu á lestri:">
+<!ENTITY returnSome.label "Leyfa staðfestinu á lestri fyrir suman póst">
+<!ENTITY returnSome.accesskey "e">
+<!ENTITY never.label "Aldrei senda staðfestingu á lestri">
+<!ENTITY never.accesskey "N">
+<!ENTITY notInToCc.label "Ef ég er ekki í Til eða Afrit póstsins:">
+<!ENTITY notInToCc.accesskey "T">
+<!ENTITY outsideDomain.label "Ef sendandi er fyrir utan mitt lén:">
+<!ENTITY outsideDomain.accesskey "s">
+<!ENTITY otherCases.label "Í öllum öðrum tilfellum:">
+<!ENTITY otherCases.accesskey "ö">
+<!ENTITY askMe.label "Spyrja mig">
+<!ENTITY alwaysSend.label "Senda alltaf">
+<!ENTITY neverSend.label "Aldrei senda">

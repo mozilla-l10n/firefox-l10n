@@ -1,0 +1,199 @@
+<!ENTITY addressbookWindow.title "Nafnaskrá">
+<!-- File Menu -->
+<!ENTITY fileMenu.label "Skrá">
+<!ENTITY fileMenu.accesskey "S">
+<!ENTITY newMenu.label "Nýr">
+<!ENTITY newMenu.accesskey "N">
+<!ENTITY newContact.label "Tengiliður í nafnabók…">
+<!ENTITY newContact.accesskey "T">
+<!ENTITY newContact.key "N">
+<!ENTITY newListCmd.label "Póstlisti…">
+<!ENTITY newListCmd.accesskey "s">
+<!ENTITY newAddressBookCmd.label "Nafnaskrá…">
+<!ENTITY newAddressBookCmd.accesskey "N">
+<!ENTITY newLDAPDirectoryCmd.label "LDAP nafnaskrá…">
+<!ENTITY newLDAPDirectoryCmd.accesskey "L">
+<!ENTITY newMessageCmd.label "Póstur">
+<!ENTITY newMessageCmd.key "P">
+<!ENTITY newMessageCmd.accesskey "P">
+<!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
+<!ENTITY osxAddressBook.label "Nota Mac OS X nafnaskrá">
+<!ENTITY osxAddressBook.accesskey "O">
+<!ENTITY closeCmd.label "Loka">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "L">
+<!ENTITY printSetupCmd.label "Síðustillingar…">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewContactCmd.label "Forskoða tengilið">
+<!ENTITY printPreviewContactCmd.accesskey "F">
+<!ENTITY printPreviewAddressBook.label "Forskoða nafnaskrá">
+<!ENTITY printPreviewAddressBook.accesskey "n">
+<!ENTITY printContactCmd.label "Prenta tengilið…">
+<!ENTITY printContactCmd.accesskey "P">
+<!ENTITY printContactCmd.key "P">
+<!ENTITY printAddressBook.label "Prenta nafnaskrá…">
+<!ENTITY printAddressBook.accesskey "n">
+<!-- Edit Menu -->
+<!ENTITY editMenu.label "Breyta">
+<!ENTITY editMenu.accesskey "B">
+<!ENTITY undoCmd.label "Afturkalla">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "f">
+<!ENTITY redoCmd.label "Endurtaka">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "E">
+<!ENTITY cutCmd.label "Klippa">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "K">
+<!ENTITY copyCmd.label "Afrita">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "A">
+<!ENTITY pasteCmd.label "Líma">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "L">
+<!ENTITY deleteCmd.label "Eyða">
+<!ENTITY deleteCmd.accesskey "y">
+<!ENTITY deleteAbCmd.label "Eyða nafnaskrá">
+<!ENTITY deleteContactCmd.label "Eyða tengilið">
+<!ENTITY deleteContactsCmd.label "Eyða tengiliðum">
+<!ENTITY deleteListCmd.label "Eyða lista">
+<!ENTITY deleteListsCmd.label "Eyða listum">
+<!ENTITY deleteItemsCmd.label "Eyða færslu">
+<!ENTITY selectAllCmd.label "Velja allt">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY searchAddressesCmd.key "f">
+<!ENTITY selectAllCmd.accesskey "j">
+<!ENTITY swapFirstNameLastNameCmd.label "Víxla Eiginnafni/Eftirnafni">
+<!ENTITY swapFirstNameLastNameCmd.accesskey "V">
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+<!ENTITY hideSwapFnLnUI "true">
+<!ENTITY propertiesCmd.label "Eiginleikar…">
+<!ENTITY propertiesCmd.accesskey "i">
+<!ENTITY propertiesCmd.key "i">
+<!-- View Menu -->
+<!ENTITY viewMenu.label "Skoða
+">
+<!ENTITY viewMenu.accesskey "k">
+<!ENTITY viewToolbarsMenu.label "Verkfærarein">
+<!ENTITY viewToolbarsMenu.accesskey "V">
+ 
+<!ENTITY showAbToolbarCmd.label "Nafnaskrá verkfærarein">
+<!ENTITY showAbToolbarCmd.accesskey "N">
+<!ENTITY showTaskbarCmd.label "Stöðurein">
+<!ENTITY showTaskbarCmd.accesskey "S">
+<!ENTITY customizeToolbar.label "Sérsníða…">
+<!ENTITY customizeToolbar.accesskey "S">
+<!ENTITY showContactPane.label "Samantekt tengiliðs">
+<!ENTITY showContactPane.accesskey "S">
+<!ENTITY menu_ShowNameAs.label "Sýna nafn sem">
+<!ENTITY menu_ShowNameAs.accesskey "n">
+ 
+<!ENTITY firstLastCmd.label "Fyrsta, Seinasta">
+<!ENTITY firstLastCmd.accesskey "F">
+ 
+<!ENTITY lastFirstCmd.label "Seinasta, Fyrst">
+<!ENTITY lastFirstCmd.accesskey "S">
+<!ENTITY displayNameCmd.label "Birtingarnafn">
+<!ENTITY displayNameCmd.accesskey "B">
+<!ENTITY sortMenu.label "Raða eftir">
+<!ENTITY sortMenu.accesskey "R">
+<!-- Tools Menu -->
+<!ENTITY tasksMenu.label "Verkfæri">
+<!ENTITY tasksMenu.accesskey "V">
+<!ENTITY messengerCmd.label "Póstur &amp; Fréttahópar">
+<!ENTITY messengerCmd.accesskey "P">
+<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY searchAddressesCmd.label "Leita í nöfnum…">
+<!ENTITY searchAddressesCmd.accesskey "n">
+<!ENTITY importCmd.label "Flytja inn…">
+<!ENTITY importCmd.accesskey "I">
+<!ENTITY exportCmd.label "Flytja út…">
+<!ENTITY exportCmd.accesskey "t">
+<!ENTITY preferencesCmd.label "Valkostir…">
+<!ENTITY preferencesCmd.accesskey "V">
+<!ENTITY preferencesCmdUnix.label "Valkostir">
+<!ENTITY preferencesCmdUnix.accesskey "V">
+<!-- Address Book Toolbar and Context Menus -->  
+<!ENTITY newContactButton.label "Nýr tengiliður">
+<!ENTITY newContactButton.accesskey "N">
+<!ENTITY newlistButton.label "Nýr listi">
+<!ENTITY newlistButton.accesskey "L">
+<!ENTITY editButton2.label "Eiginleikar">
+<!ENTITY editButton2.accesskey "E">
+<!ENTITY newmsgButton.label "Skrifa">
+<!ENTITY newmsgButton.accesskey "S">
+<!ENTITY newIM.label "Snarboð">
+<!ENTITY newIM.accesskey "S">
+<!ENTITY deleteButton2.label "Eyða">
+<!ENTITY deleteButton2.accesskey "E">
+<!ENTITY throbberItem.title "Virknimælir">
+<!-- Address Book Toolbar Tooltips -->
+<!ENTITY newContactButton.tooltip "Búa til nýjan tengilið í nafnabók">
+<!ENTITY newlistButton.tooltip "Búa til nýjan lista">
+<!ENTITY editButton2.tooltip "Breyta völdu atriði">
+<!ENTITY newmsgButton.tooltip "Senda póst">
+<!ENTITY newIM.tooltip "Senda snarboð eða spjall">
+<!ENTITY deleteButton2.tooltip "Eyða völdum hlut">
+<!-- Dir Tree header -->
+<!ENTITY dirTreeHeader.label "Nafnaskrár">
+<!-- Search Bar -->
+<!ENTITY SearchNameOrEmail.label "Nafn eða tölvupóstfang">
+<!ENTITY SearchNameOrEmail.accesskey "N">
+<!ENTITY advancedButton.tooltip "Ítarleg nafnaskrá leit">
+<!ENTITY quickSearchCmd.key "k">
+<!ENTITY searchItem.title "Flýtileit">
+<!-- Results Pane -->
+<!ENTITY GeneratedName.label "Nafn">
+<!ENTITY GeneratedName.accesskey "N">
+<!ENTITY PrimaryEmail.label "Tölvupóstur">
+<!ENTITY PrimaryEmail.accesskey "T">
+<!ENTITY ScreenName.label "Skjáheiti">
+<!ENTITY ScreenName.accesskey "S">
+<!ENTITY Company.label "Fyrirtæki">
+<!ENTITY Company.accesskey "F">
+<!ENTITY NickName.label "Gælunafn">
+<!ENTITY NickName.accesskey "æ">
+<!ENTITY SecondEmail.label "Auka tölvupóstfang">
+<!ENTITY SecondEmail.accesskey "l">
+<!ENTITY Department.label "Deild">
+<!ENTITY Department.accesskey "D">
+<!ENTITY JobTitle.label "Titill">
+<!ENTITY JobTitle.accesskey "T">
+<!ENTITY CellularNumber.label "Farsími">
+<!ENTITY CellularNumber.accesskey "a">
+<!ENTITY PagerNumber.label "Símboði">
+<!ENTITY PagerNumber.accesskey "m">
+<!ENTITY FaxNumber.label "Fax">
+<!ENTITY FaxNumber.accesskey "F">
+<!ENTITY HomePhone.label "Heimasími">
+<!ENTITY HomePhone.accesskey "H">
+<!ENTITY WorkPhone.label "Vinnusími">
+<!ENTITY WorkPhone.accesskey "V">
+<!ENTITY sortAscending.label "Hækkandi">
+<!ENTITY sortAscending.accesskey "H">
+<!ENTITY sortDescending.label "Lækkandi">
+<!ENTITY sortDescending.accesskey "L">
+<!ENTITY _PhoneticName.label "Hljóðrétt nafn">
+<!ENTITY _PhoneticName.accesskey "H">
+<!-- Card Summary Pane -->
+<!-- Box Headings -->
+<!ENTITY contact.heading "Tengiliður">
+<!ENTITY home.heading "Heima">
+<!ENTITY other.heading "Annað">
+<!ENTITY phone.heading "Sími">
+<!ENTITY work.heading "Vinna">
+<!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading "Lýsing">
+<!ENTITY addresses.heading "Heimilisföng">
+<!-- For Map It! -->
+<!ENTITY mapItButton.label "Ná í kort">
+<!ENTITY mapIt.tooltip "Sýna kort af þessu vistfangi frá vefnum">
+<!-- Status Bar -->
+<!ENTITY statusText.label "">
+<!--  Mac OS X Window Menu -->
+<!ENTITY windowMenu.label "Gluggi">
+<!ENTITY minimizeWindow.label "Minnka">
+<!ENTITY minimizeWindow.key "G">
+<!ENTITY bringAllToFront.label "Endurheimta">
+<!ENTITY zoomWindow.label "Þysja">

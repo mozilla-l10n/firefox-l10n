@@ -1,0 +1,82 @@
+<!-- extracted from am-server-top.xul -->
+
+<!ENTITY securitySettings.label "Öryggisstillingar">
+<!ENTITY serverSettings.label "Stillingar þjóns">
+<!ENTITY serverType.label "Gerð þjóns:">
+<!ENTITY serverName.label "Nafn þjóns:">
+<!ENTITY serverName.accesskey "N">
+<!ENTITY userName.label "Notandanafn:">
+<!ENTITY userName.accesskey "N">
+<!ENTITY port.label "Gátt:">
+<!ENTITY port.accesskey "G">
+<!ENTITY serverPortDefault.label "Sjálfgefið:">
+<!ENTITY savePassword.label "Vista lykilorð">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
+<!ENTITY biffStart.label "Athuga nýjan póst á ">
+<!ENTITY biffStart.accesskey "A">
+<!ENTITY biffEnd.label "mínútur">
+<!ENTITY socketType.label "Nota örugga tengingu:">
+<!ENTITY neverSecure.label "Aldrei">
+<!ENTITY neverSecure.accesskey "A">
+<!ENTITY sometimesSecure.label "TLS, ef til staðar">
+<!ENTITY sometimesSecure.accesskey "a">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSSL.label "SSL">
+<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY useSecAuth.label "Nota öruggt auðkenni">
+<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY leaveOnServer.label "Skilja póst eftir á þjóni">
+<!ENTITY leaveOnServer.accesskey "S">
+<!ENTITY headersOnly.label "Ná aðeins í hausa">
+<!ENTITY headersOnly.accesskey "N">
+<!ENTITY deleteByAgeFromServer.label "Í allt að">
+<!ENTITY deleteByAgeFromServer.accesskey "a">
+<!ENTITY daysEnd.label "daga">
+<!ENTITY deleteOnServer2.label "Þangað til ég eyði þeim">
+<!ENTITY deleteOnServer2.accesskey "Þ">
+<!ENTITY downloadOnBiff.label "Niðurhala sjálfvirkt nýjum póstum">
+<!ENTITY downloadOnBiff.accesskey "m">
+<!ENTITY username.label "Notandanafnið þitt">
+<!ENTITY deleteMessagePrefix.label "Þegar ég eyði pósti:">
+<!ENTITY modelMoveToTrash.label "Færa í þessa möppu:">
+<!ENTITY modelMoveToTrash.accesskey "F">
+<!ENTITY modelMarkDeleted.label "Merkja sem eytt">
+<!ENTITY modelMarkDeleted.accesskey "k">
+<!ENTITY modelDeleteImmediately.label "Fjarlægja hann strax">
+<!ENTITY modelDeleteImmediately.accesskey "F">
+<!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY expungeOnExit.label "Hreinsa (&quot;Þurrka út&quot;) Innhólf þegar hætt er">
+<!ENTITY expungeOnExit.accesskey "E">
+<!ENTITY emptyTrashOnExit.label "Tæma rusl þegar forriti er lokað">
+<!ENTITY emptyTrashOnExit.accesskey "r">
+<!ENTITY loginAtStartup.label "Athuga nýjan póst í ræsingu">
+<!ENTITY loginAtStartup.accesskey "A">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+   of messages between them
+-->
+<!ENTITY maxMessagesStart.label "Spyrja áður en niðurhalað er meira en">
+<!ENTITY maxMessagesStart.accesskey "m">
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+<!ENTITY maxMessagesEnd.label "póstum">
+<!ENTITY alwaysAuthenticate.label "Alltaf krefjast öruggs auðkennis þegar tengst er við þennan þjón">
+<!ENTITY alwaysAuthenticate.accesskey "A">
+<!ENTITY newsrcFilePath.label "newsrc skrá:">
+<!ENTITY localPath.label "Staðvær mappa:">
+<!ENTITY abbreviate.label "Sýna nöfn fréttahópa í póstmöppu hliðslá sem:">
+<!ENTITY abbreviateOn.label "Fullt nafn (Til dæmis, 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "Skammstafa nöfn (Til dæmis, 'n.p.m.mail-news')">
+<!ENTITY advancedButton.label "Frekari stillingar…">
+<!ENTITY advancedButton.accesskey "F">
+<!ENTITY serverDefaultCharset.label "Sjálfgefin stafatafla:">
+<!ENTITY localFolderPicker.label "Veldu staðbundna möppu">
+<!ENTITY browseFolder.label "Fletta…">
+<!ENTITY browseFolder.accesskey "F">
+<!ENTITY newsrcPicker.label "Veldu newsrc skrá">
+<!ENTITY browseNewsrc.label "Fletta…">
+<!ENTITY browseNewsrc.accesskey "e">

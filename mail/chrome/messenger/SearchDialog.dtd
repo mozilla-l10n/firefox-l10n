@@ -1,0 +1,71 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label "Leita að póstum í:">
+<!ENTITY searchHeading.accesskey "L">
+<!ENTITY searchSubfolders.label "Leita í undirmöppum">
+<!ENTITY searchSubfolders.accesskey "e">
+<!ENTITY resetButton.label "Hreinsa">
+<!ENTITY resetButton.accesskey "H">
+<!ENTITY openButton.label "Opna">
+<!ENTITY openButton.accesskey "n">
+<!ENTITY deleteButton.label "Eyða">
+<!ENTITY deleteButton.accesskey "E">
+<!ENTITY searchDialogTitle.label "Leita í póstum">
+<!ENTITY results.label "Niðurstöður">
+<!ENTITY fileHereMenu.label "Setja skrá hérna">
+<!ENTITY fileHereMenu.accesskey "S">
+<!ENTITY fileButton.label "Skrá">
+<!ENTITY fileButton.accesskey "S">
+<!ENTITY closeCmd.key "W">
+ 
+<!ENTITY goToFolderButton.label "Opna póstmöppu">
+<!ENTITY goToFolderButton.accesskey "u">
+<!ENTITY saveAsVFButton.label "Vista sem leitarmöppu">
+<!ENTITY saveAsVFButton.accesskey "v">
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label "Leita í:">
+<!ENTITY abSearchHeading.accesskey "L">
+<!ENTITY propertiesButton.label "Eiginleikar">
+<!ENTITY propertiesButton.accesskey "E">
+<!ENTITY composeButton.label "Skrifa">
+<!ENTITY composeButton.accesskey "S">
+<!ENTITY abSearchDialogTitle.label "Ítarleg nafnaskrá leit">
+<!-- Thread Pane -->
+<!ENTITY threadColumn.label "Umræða">
+<!ENTITY fromColumn.label "Frá">
+<!ENTITY recipientColumn.label "Viðtakandi">
+<!ENTITY subjectColumn.label "Efni">
+<!ENTITY dateColumn.label "Dagsetning">
+<!ENTITY priorityColumn.label "Forgangur">
+<!ENTITY tagsColumn.label "Flokkar">
+<!ENTITY accountColumn.label "Þjónusta">
+<!ENTITY statusColumn.label "Staða">
+<!ENTITY sizeColumn.label "Stærð">
+<!ENTITY junkStatusColumn.label "Rusl staða">
+<!ENTITY unreadColumn.label "Ólesin">
+<!ENTITY totalColumn.label "Allt">
+<!ENTITY readColumn.label "Lesa">
+<!ENTITY receivedColumn.label "Móttekið">
+<!ENTITY starredColumn.label "Stjörnumerkt">
+<!ENTITY locationColumn.label "Staðsetning">
+<!ENTITY idColumn.label "Í móttekinni röð">
+<!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser.tooltip "Smelltu til að velja hvaða dálka á að sýna">
+<!ENTITY threadColumn.tooltip "Smelltu til að sýna umræður">
+ 
+<!ENTITY fromColumn.tooltip "Smelltu til að raða eftir frá">
+<!ENTITY recipientColumn.tooltip "Smelltu til að raða eftir móttakanda">
+<!ENTITY subjectColumn.tooltip "Smelltu til að raða eftir efni">
+<!ENTITY dateColumn.tooltip "Smelltu til að raða eftir dagsetningu">
+<!ENTITY priorityColumn.tooltip "Smelltu til að raða eftir forgangi">
+<!ENTITY tagsColumn.tooltip "Smelltu til að raða eftir flokki">
+<!ENTITY accountColumn.tooltip "Smelltu til að raða eftir reikningi">
+<!ENTITY statusColumn.tooltip "Smelltu til að raða eftir stöðu">
+<!ENTITY sizeColumn.tooltip "Smelltu til að raða eftir stærð">
+<!ENTITY junkStatusColumn.tooltip "Smelltu til að raða eftir ruslpóst stöðu">
+<!ENTITY unreadColumn.tooltip "Fjöldi ólesinna pósta í umræðu">
+<!ENTITY totalColumn.tooltip "Heildarfjöldi pósta í umræðu">
+<!ENTITY readColumn.tooltip "Smelltu til að raða eftir lesið">
+<!ENTITY receivedColumn.tooltip "Smelltu til að raða eftir móttekinni dagsetningu">
+<!ENTITY starredColumn.tooltip "Smelltu til að raða eftir stjörnumerkt">
+<!ENTITY locationColumn.tooltip "Smelltu til að raða eftir staðsetningu">
+<!ENTITY idColumn.tooltip "Smelltu til að raða eftir hvenær móttekið">

@@ -1,0 +1,7 @@
+<!ENTITY identitiesListDesc.label "Stuðningur fyrir mörg persónuauðkenni">
+<!ENTITY identitiesListAdd.label "Bæta við…">
+<!ENTITY identitiesListAdd.accesskey "B">
+<!ENTITY identitiesListEdit.label "Breyta…">
+<!ENTITY identitiesListEdit.accesskey "B">
+<!ENTITY identitiesListDelete.label "Eyða">
+<!ENTITY identitiesListDelete.accesskey "E">

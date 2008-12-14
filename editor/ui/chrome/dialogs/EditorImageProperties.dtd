@@ -1,0 +1,101 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "Mynd eiginleikar">
+<!ENTITY pixelsPopup.value "punktar">
+<!-- These are in the Location tab panel -->
+<!ENTITY locationEditField.label "Staðsetning myndar:">
+<!ENTITY locationEditField.accessKey "m">
+<!ENTITY locationEditField.tooltip "Sláðu inn skráarnafn á mynd eða staðsetningu">
+<!ENTITY title.label "Ábending:">
+<!ENTITY title.accessKey "b">
+<!ENTITY title.tooltip "html 'title' eigindi sem birtist sem ábending">
+<!ENTITY altText.label "Aukatexti:">
+<!ENTITY altText.accessKey "A">
+<!ENTITY altTextEditField.tooltip "Sláðu inn texta til að sýna í staðinn fyrir mynd">
+<!ENTITY noAltText.label "Ekki nota auka texta">
+<!ENTITY noAltText.accessKey "E">
+<!ENTITY previewBox.label "Forskoðun myndar">
+<!-- These controls are in the Dimensions tab panel -->
+<!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
+<!ENTITY actualSize.label "Raunstærð:">
+<!ENTITY actualSizeRadio.label "Raunstærð">
+<!ENTITY actualSizeRadio.accessKey "A">
+<!ENTITY actualSizeRadio.tooltip "Endurheimta raunstærð myndar">
+<!ENTITY customSizeRadio.label "Sérsniðin stærð">
+<!ENTITY customSizeRadio.accessKey "S">
+<!ENTITY customSizeRadio.tooltip "Breyta stærð myndar eins og sést á síðunni">
+<!ENTITY heightEditField.label "Hæð:">
+<!ENTITY heightEditField.accessKey "H">
+<!ENTITY widthEditField.label "Breidd:">
+<!ENTITY widthEditField.accessKey "B">
+<!ENTITY constrainCheckbox.label "Skorður">
+<!ENTITY constrainCheckbox.accessKey "S">
+<!ENTITY constrainCheckbox.tooltip "Læsa hlutföllum á mynd">
+<!-- These controls are in the Image Map box of the expanded area -->
+<!ENTITY imagemapBox.label "Myndvörpun">
+<!ENTITY removeImageMapButton.label "Fjarlægja">
+<!ENTITY removeImageMapButton.accessKey "R">
+<!ENTITY editImageMapButton.label "Breyta…">
+<!ENTITY editImageMapButton.tooltip "Búa til smellisvæði á þessari mynd">
+<!-- These are the options for image alignment -->
+<!ENTITY alignment.label "Jafna texta við mynd">
+<!ENTITY bottomPopup.value "Neðst">
+<!ENTITY topPopup.value "Efst">
+<!ENTITY centerPopup.value "Í miðju">
+<!ENTITY wrapRightPopup.value "Orðskipta til hægri">
+<!ENTITY wrapLeftPopup.value "Orðskipta til vinstri">
+<!-- These controls are in the Spacing Box -->
+<!ENTITY spacingBox.label "Millibil">
+<!ENTITY leftRightEditField.label "Vinstri og hægri:">
+<!ENTITY leftRightEditField.accessKey "V">
+<!ENTITY topBottomEditField.label "Efst og neðst:">
+<!ENTITY topBottomEditField.accessKey "T">
+<!ENTITY borderEditField.label "Óbrotin rammi:">
+<!ENTITY borderEditField.accessKey "B">
+<!-- These controls are in the Link Box -->
+<!ENTITY showImageLinkBorder.label "Sýna ramma í kringum tengda mynd">
+<!ENTITY showImageLinkBorder.accessKey "S">
+<!-- These tabs are currently used in the image input dialog -->
+<!ENTITY imageInputTab.label "Eyðublað">
+<!ENTITY imageLocationTab.label "Staðsetning">
+<!ENTITY imageDimensionsTab.label "Stærðir">
+<!ENTITY imageAppearanceTab.label "Viðmót">
+<!ENTITY imageLinkTab.label "Tengill">
