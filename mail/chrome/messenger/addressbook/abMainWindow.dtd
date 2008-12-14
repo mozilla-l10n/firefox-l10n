@@ -38,15 +38,15 @@
 <!ENTITY fileMenu.accesskey                             "A">
 <!ENTITY newMenu.label                                  "Nytt">
 <!ENTITY newMenu.accesskey                              "N">
-<!ENTITY newContact.label                               "Ny adressbokskontakt…">
+<!ENTITY newContact.label                               "Ny kontakt…">
 <!ENTITY newContact.accesskey                           "k">  
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Ny utskickslista…">
-<!ENTITY newListCmd.accesskey                           "U">  
+<!ENTITY newListCmd.accesskey                           "u">  
 <!ENTITY newAddressBookCmd.label                        "Ny adressbok…"> 
-<!ENTITY newAddressBookCmd.accesskey                    "b">
+<!ENTITY newAddressBookCmd.accesskey                    "a">
 <!ENTITY newLDAPDirectoryCmd.label                      "Ny LDAP-katalog…">
-<!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "L">
 <!ENTITY newMessageCmd.label                            "Nytt meddelande">
 <!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "m">
