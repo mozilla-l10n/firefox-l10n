@@ -92,6 +92,7 @@
 <!ENTITY viewToolbarsMenuNew.label "Barres d'outils"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "t">
 <!ENTITY showCompositionToolbarCmd.label "Barre d'outils courrier">
+<!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "Barre de mise en forme">
 <!ENTITY showFormattingBarCmd.accesskey "f">
 <!ENTITY showTaskbarCmd.label "Barre d'état">
