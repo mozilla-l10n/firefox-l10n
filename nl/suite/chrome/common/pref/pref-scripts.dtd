@@ -19,6 +19,6 @@
 
 <!ENTITY enablePlugin.label              "Plug-ins inschakelen voor">
 
-<!ENTITY whenPluginsRequired.description "Wanneer extra plug-ins nodig zijn:">
+<!ENTITY whenPluginsRequired.label       "Wanneer extra plug-ins nodig zijn">
 <!ENTITY displayNotification.label       "Een notificatiebalk aan de bovenzijde van inhoudvenster tonen">
 <!ENTITY displayNotification.accesskey   "n">
